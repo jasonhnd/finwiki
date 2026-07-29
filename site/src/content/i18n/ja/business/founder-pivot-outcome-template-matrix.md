@@ -1,304 +1,155 @@
 ---
 source: business/founder-pivot-outcome-template-matrix
-source_hash: 1dc497841d766efa
+source_hash: dca3f709d09b206c
 lang: ja
+model: qwen3-4b-instruct-2507-4bit-guarded-full-sync+manual-review
 status: machine
 fidelity: ok
-title: "創業者／経営者ピボットのアウトカム・テンプレート・マトリクス"
-translated_at: 2026-06-18T23:33:48.369Z
+title: "創業者・経営者移行の証拠マトリクス"
+translated_at: 2026-07-29T05:13:34.783Z
 ---
 
-# 創業者／経営者ピボットのアウトカム・テンプレート・マトリクス
+# 創業者・経営者移行の証拠マトリクス
 
-## TL;DR
+## 目的および範囲
 
-2018-2026  の暗号資産と伝統的金融のインターフェースを横断して、少数の創業者 CEO、経営者、規制当局者、オペレーターたちが、目に見える**ピボット**——表明された戦略、役割、管轄、または製品の境界における実質的かつ公的な転換——を実行してきた。これらのピボットは互換可能ではない。それぞれが固有の**トリガー**（規制、政治、市場、ガバナンス、刑事）、固有の**移行のタイムライン**、固有の**アウトカムの形状**（成功／部分的／公的な反転）、そして下流のアクターが読み取る固有の**資本の方向性のシグナル**を持つ。本マトリクスは、最も公的なピボット事例 10 件を並べて集め、**各ピボットの背後にあるテンプレート**が見えるようにし、将来のピボットを類推によって分類できるようにする。既存の創業者ごとのケース・テンプレート（[[business/jamie-dimon-anti-crypto-pivot-case|Dimon]]、[[business/larry-fink-blackrock-digital-asset-template|Fink]]、[[business/matt-huang-triple-role-coi-template|Huang]]、[[business/paolo-ardoino-tether-business-model-template|Ardoino]]、[[business/sandeep-nailwal-polygon-india-dpi-pattern|Nailwal]]、[[business/brian-armstrong-coinbase-public-company-template|Armstrong]]、[[business/hester-peirce-sec-regulatory-pivot-case|Peirce]]、[[business/kitao-yoshitaka-sbi-independent-strategy-case|Kitao]]、[[business/christine-moy-talent-signal-jpm-apollo|Moy]]）を横断する比較サーフェスとして [[business/INDEX|business INDEX]] に位置する。
+このマトリクスは、4つの公的記録の移行タイプを比較しています。
 
-## Wiki route
+1. 創業者主導の公開市場参入；
+2. 法執行に伴う創業者の経営交代；
+3. 現行のリーダーシップのもとでの製品拡張；および
+4. 組織方針の転換後における規制当局者の役割拡大。
 
-創業者ごとのケーススタディを横断する比較ページとして [[business/INDEX|business INDEX]] に位置する。10 件のアンカー事例は [[business/jamie-dimon-anti-crypto-pivot-case|Jamie Dimon anti-crypto pivot case]]、[[business/christine-moy-talent-signal-jpm-apollo|Christine Moy talent-signal JPM → Apollo case]]、[[business/larry-fink-blackrock-digital-asset-template|Larry Fink BlackRock digital-asset template]]、[[business/matt-huang-triple-role-coi-template|Matt Huang triple-role COI template]]、[[business/paolo-ardoino-tether-business-model-template|Paolo Ardoino Tether business-model template]]、[[business/hester-peirce-sec-regulatory-pivot-case|Hester Peirce SEC regulatory pivot case]]、[[business/sandeep-nailwal-polygon-india-dpi-pattern|Sandeep Nailwal Polygon India DPI pattern]]、[[business/kitao-yoshitaka-sbi-independent-strategy-case|Kitao Yoshitaka SBI independent-strategy case]]、[[business/brian-armstrong-coinbase-public-company-template|Brian Armstrong Coinbase public-company template]]、そして以下に集めた公的な CZ／Changpeng Zhao の創業者からハンドオフへのアークである。規制境界のコンテキストは [[fintech/INDEX|fintech INDEX]] および [[fintech/cftc-sec-crypto-jurisdiction|CFTC / SEC crypto jurisdiction]] に位置する。取引所アーキテクチャのコンテキストは [[exchanges/INDEX|exchanges INDEX]] および [[exchanges/us-crypto-licensing-multi-layer-system|US crypto licensing multi-layer system]] に位置する。
+これは記述的な整理であり、順位付けや予測モデルではない。「結果」とは観測可能な公的出来事を指し、投資の成功、政策の成功、個人の功績を意味しない。
 
-## なぜこのマトリクスが重要か
+このページは[[business/INDEX|business INDEX]]の下に位置しています。その基本的な事案は[[business/brian-armstrong-coinbase-public-company-template|Brian Armstrong / Coinbase]]、[[business/cz-binance-founder-handoff-case|CZ / Binance]]、[[business/larry-fink-blackrock-digital-asset-template|Larry Fink / BlackRock]]、および[[business/hester-peirce-sec-regulatory-pivot-case|Hester Peirce / SEC]]です。
 
-個々の創業者事例を孤立して読むと、各ピボットが特異なものに見える。並べて集めると、これらの事例は繰り返し現れる 3 つの分類軸を明らかにする。
+## 4ケースマップ
 
-1. **トリガー・クラス**：規制の転換、政治権力の移行、市場サイクルの力、ガバナンス・イベント、刑事／執行イベント、またはタレント・フローのシグナル。トリガーは、ピボットが**プロアクティブ**（創業者が変化を主導する）か**リアクティブ**（創業者が外的なショックを吸収する）かを予測する。
-2. **移行のタイムライン**：即時（単一のイベント、数日から数週間）、漸進的（数か月から 18 か月）、または世代的（承継を伴う複数年のアーク）。タイムラインは、ピボットがリーダーシップの変化を越えて持続するかを予測する。
-3. **アウトカムの形状**：成功、部分的／混合、公的な反転、または保留中。アウトカムの形状は、下流の LP、機関投資家のバイヤー、規制当局者、競合が読み取る**資本の方向性のシグナル**を予測する。
+以下のマトリクスの情報源：[Coinbase's 2021 prospectus](https://www.sec.gov/Archives/edgar/data/1679788/000162828021006850/coinbaseglobalinc424b.htm)、[SEC's Coinbase dismissal release](https://www.sec.gov/newsroom/press-releases/2025-47)、[DOJ's CZ case page](https://www.justice.gov/criminal/case/united-states-v-changpeng-zhao)、[SEC's Binance dismissal release](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26316)、[SEC Crypto Task Force announcement](https://www.sec.gov/newsroom/press-releases/2025-30)、[BlackRock's IBIT page](https://www.blackrock.com/us/individual/products/333011/ishares-bitcoin-trust-ibit)、およびブラックロックの[BUIDL launch release distributed by Nasdaq](https://www.nasdaq.com/press-release/blackrock-launches-its-first-tokenized-fund-buidl-on-the-ethereum-network-2024-03-20)。
 
-このマトリクスは、2 つの読みの目的に最も有用である。すなわち、確立された事例への類推によって**次の目に見えるピボットを分類すること**、そしてトリガー・クラスのシグナルをモニターすることでピボットの**前兆を検出すること**である。
+| ケース | トランジションタイプ | 公表された証拠によるトリガー | 観測可能な結果 | 証拠の境界 |
+|---|---|---|---|---|
+| ブライアン・アームストロング／Coinbase | 創業者主導の公開市場参入 | CoinbaseがNasdaq直接上場に向け、既存保有者による売出しを登録 | COINは2021年に取引開始；アームストロングはCEOを継続；SEC報告が継続的な証拠となった | 直接上場は引受方式のIPOではなく、その後のSEC訴訟却下も本案判断ではない |
+| Changpeng Zhao（CZ）／Binance | 執行措置に伴う創業者交代 | CZとBinanceが2023年に米国の刑事事件を解決 | CZはCEOを辞任；Binanceは後継CEOとコンプライアンス義務の下で継続；CZは刑を受け、後に恩赦 | その後の持分比率や非公式な支配は公表記録から確定できない |
+| ラリー・フィンク／BlackRock | 現経営陣下での商品拡張 | 規制対象商品の届出とローンチ | BlackRockはIBITビットコイン信託とBUIDLトークン化ファンドをローンチ | ローンチだけでは運用成績、全顧客への適合性、BlackRockの全戦略変更を示さない |
+| ヘスター・パース／SEC | 規制当局者の役割拡大 | SEC執行部が2025年にCrypto Task Forceを設置 | パースが暗号資産規制枠組みに関するタスクフォース作業の責任者に就任 | タスクフォース責任者は単独の規則制定権や最終規則を保証しない |
 
-## エンティティごとのセクション
+## トランジション分類
 
-### Jamie Dimon — 反暗号資産 CEO から防御的なオンチェーン採用へ（JPM Kinexys／Base 上の JPMD）
+この表の情報源：[Coinbase's SEC prospectus](https://www.sec.gov/Archives/edgar/data/1679788/000162828021006850/coinbaseglobalinc424b.htm)、[DOJ's CZ case page](https://www.justice.gov/criminal/case/united-states-v-changpeng-zhao)、[BlackRock's IBIT page](https://www.blackrock.com/us/individual/products/333011/ishares-bitcoin-trust-ibit)、および[SEC Crypto Task Force announcement](https://www.sec.gov/newsroom/press-releases/2025-30)。
 
-- **ピボットのタイプ**：**リアクティブ**。規制、顧客、競争の圧力の組み合わせの下での CEO の公的スタンスの軟化——古典的な、遅れて動く銀行のピボット。
-- **トリガー**：3 つの圧力の共鳴——（1）規制：トークン化預金についての銀行側の対応を強いる GENIUS 法の枠組み、（2）顧客：オンチェーン決済とトークン化資産へのアクセスを要求する機関顧客（[[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] の採用）、（3）競争：すでにトークン化について公的になっている [[business/larry-fink-blackrock-digital-asset-template|BlackRock]]／Fink。
-- **移行のタイムライン**：約 18 か月のアーク。2017-09  の「BTC は詐欺」／2022  の「ペットの石」という公的な発言 → 2024-Q2  のステーブルコインとトークン化のユースケースの承認 → 2024-11  の Onyx の Kinexys への改称 → 2025-Q4  の Base（Coinbase L2）上での JPMD のローンチ → 2026-Q1  の機関採用の可視化。
-- **アウトカムの形状**：**部分的成功 — ピボットは着地したが不本意**。Base 上の JPMD は、公開 L2 上の主要銀行による初のトークン化預金である。基底にある CEO の信念がプロアクティブではなくリアクティブであるため、ピボットの安定性は弱い——[[business/jamie-dimon-anti-crypto-pivot-case|Jamie Dimon anti-crypto pivot case]] を参照。
-- **資本の方向性のシグナル**：**銀行側の機関資本は、コンプライアントなトークン化預金のレールを通じてオンチェーンに移動できる**。JPMD の流通の伸びは、銀行側の採用の深さのリアルタイムの指標である。下流の銀行（Citi、BoA、Wells Fargo）は、これを追随の許可として読む。
-
-### Christine Moy — JPM Onyx から Apollo へ（ピボットのシグナルとしてのタレント・フロー）
-
-- **ピボットのタイプ**：**プロアクティブな個人** — 次の製品サイクルが銀行側のトークン化レーンの外にあるというキャリア・ベット。
-- **トリガー**：次の機関ステーブルコインの戦場としてのプライベート・クレジットのトークン化への個人的ベット。Apollo の ACRED（Apollo Tokenized Credit Fund）の公的ローンチと三角測量される。
-- **移行のタイムライン**：単一のイベント（2024  の転職）→ 観測可能な下流のシグナルへの 6-18  か月のリード・タイム。
-- **アウトカムの形状**：**シグナルとしての成功** — Moy の動きは、プライベート・クレジットのトークン化活動の、より広範な目に見えるフローに先行した。Apollo + Arc + ACRED がこのテーゼを公的に確認する。
-- **資本の方向性のシグナル**：**プライベート・クレジットのトークン化は、MMF のトークン化に続く次の機関レーンである**。BUIDL → ACRED のアークについては [[business/larry-fink-blackrock-digital-asset-template|Fink's BlackRock template]] とあわせて読むこと。
-
-### Larry Fink — パッシブ ETF のアセットマネージャーから、トークン化と政治的影響力の三角形へ
-
-- **ピボットのタイプ**：**プロアクティブ**。BlackRock を、パッシブ ETF の支配から、統合された **ETF + RWA トークン化 + 政治的影響力**の三角形へと能動的にリフレーミング。
-- **トリガー**：最初の変曲点としての 2022  の BlackRock × Coinbase パートナーシップ（Aladdin 統合）。順次の三角形の構築としての、2024-01-11 の IBIT（BTC ETF）の承認、2024-03  の BUIDL のローンチ、2025-Q1  のトークン化に関する年次書簡、2025-2026  の GENIUS 法アドボカシー。
-- **移行のタイムライン**：複数年（2022  → 2026）、スコープにおいて世代的であり、承継計画が公的な議論の下にある。
-- **アウトカムの形状**：**成功 — 三角形が組み立てられた**。IBIT + IETH + BUIDL + 年次書簡のフレーミング + GENIUS 法の成立が、2026-Q1 までに完全なテンプレートを実現した。
-- **資本の方向性のシグナル**：**数兆規模の AUM のアセットマネージャーは、単一製品の存亡リスクなしに、統合された暗号資産と RWA の戦略を保持できる**。Franklin Templeton（BENJI）、WisdomTree、Ondo Finance による下流のコピー。
-
-### Changpeng Zhao（CZ）— 創業者から確信の段階を経て公的なハンドオフへ
-
-- **ピボットのタイプ**：**リアクティブ + 構造的**。米国 DOJ の執行和解の下での強いられた創業者の移行——トリガーが**刑事的解決に駆動される**ため、上記の規制圧力のピボットとは異なる形状である。
-- **トリガー**：2023-11  の米国 DOJ の和解：Binance Holdings Limited が BSA 違反について有罪を認め、公的なペナルティを支払い（公的に開示された約 $4.3B の和解）、CZ は CEO を辞任し個人としても有罪を認め、2024-04  に 4 か月の拘禁刑を言い渡された（公的に開示された量刑）。
-- **移行のタイムライン**：和解日（2023-11）に即時、量刑のフォロースルー（2024-04）を伴う。新 CEO Richard Teng へのハンドオフ（2023-11 に公的に発表）。釈放後の公的なレピュテーションの再構築は、CZ の公的なソーシャルメディアでのプレゼンスと教育／アドバイザリー活動を通じて見える。
-- **アウトカムの形状**：**強いられたハンドオフが完了。レピュテーションのアークは継続中**。Binance の運営の継続性は新 CEO の下で維持された——公的な取引所ガバナンスの存続のケーススタディ。CZ は公的に活発であり続けるが、経営者としてではなく非経営の株主としてである。
-- **資本の方向性のシグナル**：**暗号資産ネイティブの取引所ガバナンスは、信頼できる後継者と運営のベンチが存在すれば、強いられた創業者の離脱を生き延びられる**。公開会社相当については [[business/brian-armstrong-coinbase-public-company-template|Brian Armstrong Coinbase template]] と対照して読むこと——Armstrong は創業者 CEO のポジションを保持する。CZ は保持しない。
-
-### Brian Armstrong — オペレーター CEO から、政治的・規制的エンゲージメントの声へ
-
-- **ピボットのタイプ**：**プロアクティブ**。CEO の役割を離れることなく、**公的な規制エンゲージメントと政治的な声のレイヤー**を漸進的に追加してきたオペレーティング CEO。
-- **トリガー**：2023  の SEC 執行部門からの Wells Notice → 2023  の Coinbase 対 SEC のマンデイマス申立て → 2024  のロビイングのスケールアップ、Fairshake PAC のエンゲージメント、FIT21 ／GENIUS 法のキャンペーン → 2025  の SEC による執行措置の取り下げ。
-- **移行のタイムライン**：複数年（2018  の協力的 → 2023  の対立 → 2024-2025  の立法主導の再エンゲージメント）——[[business/brian-armstrong-coinbase-public-company-template|Brian Armstrong Coinbase template]] の 3 段階のパターンを参照。
-- **アウトカムの形状**：**成功 — CEO の移行なしに政治的な声を獲得**。Coinbase は公開のままであり、Armstrong はクラス B のデュアルクラス議決権による支配を伴う創業者 CEO のままであり、SEC の執行は 2024  後の SEC リーダーシップの下で好意的に解決された。
-- **資本の方向性のシグナル**：**上場した暗号資産ネイティブの取引所は、監査済みの開示、複数ライセンスの構造、ロビイングのスケールと組み合わせれば、戦略としての公的対立を運営して生き延びられる**。これは米国の政治サイクルにテンプレート固有であり、レジームを越えて一般化しないかもしれない。
-
-### Matt Huang — Sequoia のパートナーから Paradigm の GP を経てトリプルロールのアンカーへ
-
-- **ピボットのタイプ**：**プロアクティブ**。ジェネラリスト VC（Sequoia）から暗号資産ネイティブ VC（Paradigm）を経て、**トリプルロールのアンカー構造**（Paradigm GP + Stripe 取締役会 + Tempo CEO）へのキャリア・ピボット。
-- **トリガー**：世代的なテクノロジー・サイクルとしての暗号資産への個人的確信。Fred Ehrsam との Paradigm の 2018  共同創業。
-- **移行のタイムライン**：複数年。2018  の Paradigm の創業 → 2024  の Stripe 取締役会 → 2025  の Tempo CEO の役割の統合。トリプルロールの構造それ自体がピボットの終点である。
-- **アウトカムの形状**：**成功 — テンプレートが組み立てられたが稀**。[[business/matt-huang-triple-role-coi-template|Matt Huang triple-role COI template]] に文書化されたトリプルロールのアンカー構造は、構造的に複製が難しい。
-- **資本の方向性のシグナル**：**長期ホライズンの暗号資産とフィンテックの資本は、COI 構造が自己均衡するとき、単一のアンカー人物によって VC、大口顧客、CEO の役割を横断して配分されうる**。検出には、いずれか単一の役割を読むのではなく、取締役会と GP と CEO の重複をモニターすることが必要である。
-
-### Paolo Ardoino — Tether のテック／CTO から CEO 兼公的スポークスパーソンへ
-
-- **ピボットのタイプ**：**内部の役割の昇進** + **公的な声の獲得**。CTO から CEO への移行（2023,  に公的に発表、2024 に発効）と、Tether および USDT のための意図的な公的スポークスパーソンの役割の組み合わせ。
-- **トリガー**：Tether の、論争に対する防御的な姿勢（2017-2021  の準備金開示の精査、2021  の NYAG 和解、2021  の CFTC 和解）から、高金利環境の利益の可視性（2022-2025  の FRB の金利サイクルが、短期国債の準備金モデルで約 $15B の 2025  の利益を実現）への移行。
-- **移行のタイムライン**：複数年（2017  の準備金論争の時代 → 2022-2023  の高金利の利益の可視性 → 2024  の Ardoino の CEO 移行 → 2025-2026  の USAT 米国コンプライアント版のローンチ）。
-- **アウトカムの形状**：**成功 — Ardoino が Tether のナラティブのコントロールを統合**。USDT は約 $144B の流通（2026-Q1）、USAT は米国コンプライアンスの経路のために Anchorage Digital Bank を通じてローンチ、公的エンゲージメントはポッドキャスト／インタビュー／上院証言を横断してスケールした。
-- **資本の方向性のシグナル**：**オフショアにアンカーするステーブルコインのモデルは、発行体が両方を運営する資本とガバナンスのバンド幅を持てば、オンショアでコンプライアントな版と共存できる**。デュアルトラックの USDT + USAT の構造が目に見えるピボットのアウトカムである——規制の境界については [[business/paolo-ardoino-tether-business-model-template|Paolo Ardoino Tether business-model template]] および [[exchanges/us-crypto-licensing-multi-layer-system|US crypto licensing multi-layer system]] を参照。
-
-### Hester Peirce — 長年異議を唱えてきたコミッショナーから Crypto Task Force の議長へ
-
-- **ピボットのタイプ**：**既存のポジションの制度的な役割の昇進**。Peirce 個人のスタンスはピボットしていない——彼女は 2018 以来、一貫してイノベーション推進のポジションを保持してきた。ピボットは、そのスタンスに付与された**制度的な権威**である。
-- **トリガー**：2024-Q4  の米国の政治権力の移行（トランプの 2 期目の当選）→ Paul Atkins の SEC 委員長の指名 → 2025-01-21 の、新たな SEC リーダーシップの下での Peirce の Crypto Task Force 議長への任命。
-- **移行のタイムライン**：任命（2025-01-21）に即時 → 6 か月の順次のアウトカムのカスケード（2025-Q1  の Coinbase／Robinhood／Uniswap／Consensys／Kraken に対する執行の取り下げ。公的に開示された SEC の暗号資産執行の人員の約 50% の削減。ステーキング／ミームコイン／PoR のノーアクション・ステートメントの発出）。
-- **アウトカムの形状**：**成功 — 制度的な権威がイデオロギーを政策に転換**。Peirce の 2020  の Token Safe Harbor Proposal の 2.0  の枠組みは、任命から 12  か月以内に、個人のコミッショナーのポジションから能動的な SEC タスクフォースのアジェンダへと移行した。
-- **資本の方向性のシグナル**：**米国の暗号資産の規制境界は、ケースバイケースの執行から、ルールメイキング主導の明確性へと実質的に転換した**。ピボットの安定性は、（1）2025-06  の任期後の Peirce の再任／役割の継続、（2）GENIUS 法／CLARITY 法を通じた立法上のアンカリング、（3）次政権の政策の継続性に依存する——[[business/hester-peirce-sec-regulatory-pivot-case|Hester Peirce SEC regulatory pivot case]] を参照。
-
-### Sandeep Nailwal — Polygon の共同創業者から Foundation CEO 兼インド DPI のアーキテクトへ
-
-- **ピボットのタイプ**：**戦略的なリフォーカス**。共同創業者が Foundation CEO の役割を引き継ぎ（2025-06  に公的に発表）、プロジェクトをジェネラリストの L2  の競争（zkEVM、AggLayer）から、**インドにアンカーした DPI／国家バンドリング**へと向け直す。
-- **トリガー**：Solana／Base／Arbitrum／Optimism に対する 2023-2025  を通じた Polygon のグローバル市場でのポジショニングの弱体化。期待を下回る zkEVM の戦略ルートの結果。防御可能な垂直市場を見出す必要。
-- **移行のタイムライン**：約 12 か月の戦略的な再方向付け。2025-06  の「ゼロからイチへ」のリセットを伴う Sandeep の Foundation CEO への就任 → 2025-Q3-Q4  の Reliance Jio との戦略パートナーシップの開示 → 2026-Q1  の Polygon × Anq を通じた ARC の INR ステーブルコインのローンチ。
-- **アウトカムの形状**：**保留中 — 国家バンドリングのテーゼがテスト下にある初期段階のピボット**。ARC のメインネットの採用、Reliance Jio のユーザーのアクティベーション、インドの規制当局（RBI）の支持が、鍵となる先行指標である。
-- **資本の方向性のシグナル**：**ジェネラリストの L2 は、グローバルなマインドシェアが衰えるとき、防御可能な垂直市場として、国にアンカーした DPI／ステーブルコインの専門化へとピボットできる**。国家バンドリングのテンプレート（規制当局 + 大手の国内企業 + 主権的なナラティブ）は [[business/sandeep-nailwal-polygon-india-dpi-pattern|Sandeep Nailwal Polygon India DPI pattern]] に文書化されている。
-
-### Kitao Yoshitaka — Progmat 国内コンソーシアムに対する独立戦略のベット
-
-- **ピボットのタイプ**：**コンソーシアムの能動的な拒絶**。SBI Holdings が 3 のメガバンク主導の [[payment-firms/progmat|Progmat]] 国内ステーブルコイン／トークン化アライアンスを拒み、代わりに Circle および隣接するグローバル・インフラとの**クロスボーダーのコンプライアンス・パートナーシップ**を追求する。
-- **トリガー**：2023-2024  の Progmat コンソーシアム（信託銀行主導、B2B 重視、国内アンカー）の出現に対し、SBI が公的に参加を辞退 → 50／50  の SBI／Circle Holdings の JV 形成（2025-08 ）→ 2026-05  の、クロスボーダーのコンプライアンス・スタックを拡張する SBI による Arc への私的投資。
-- **移行のタイムライン**：複数年（1999  の SoftBank からのカーブアウトによる SBI の創業 → 2010 年代の Ripple／XRP の早期のバッキング → 2024  の Progmat の拒絶 → 2025-08  の SBI／Circle の JV → 2026-Q2  の拡張したクロスボーダーの姿勢）。
-- **アウトカムの形状**：**検証保留 — 独立ルートの価値は、§501(d) 型のデナイリスト指定がクロスボーダーのレーンに実際に独占レントを生み出すかどうかに依存する**。ステータスは現在、公的な §501  のアンカリングの議論の後、好意的に見える。
-- **資本の方向性のシグナル**：**国内コンソーシアムからの独立ルートは、アライアンスが重大な価値の軸をカバーしないままにする場合に勝てる**（ここでは：クロスボーダーのコンプライアンス 対 国内の B2B）。[[business/kitao-yoshitaka-sbi-independent-strategy-case|Kitao Yoshitaka SBI independent-strategy case]] および [[exchanges/INDEX|exchanges INDEX]] と対照して読むこと。
-
-## 大比較マトリクス表
-
-このマトリクスは 10 件の事例を 1 つの比較サーフェスに集約する。各行は別個のピボットのタイプである——直接の視覚的な比較がクラスターのパターンを明らかにする。
-
-| 人物／役割 | ピボットのタイプ | 主要なトリガー | 移行のタイムライン | アウトカムの形状 | 資本の方向性のシグナル | 下流の機関採用 |
-|---|---|---|---|---|---|---|
-| **Jamie Dimon**（JPM CEO） | リアクティブ — 反暗号資産 CEO → オンチェーン採用 | 規制 + 顧客 + 競争の三重圧力 | 約 18  か月（2024-Q2  → 2025-Q4  の Base 上の JPMD） | 部分的成功 — 着地したが不本意 | 銀行は公開 L2  上でトークン化預金のレールを動かせる | Citi、BoA、Wells Fargo、地方銀行が JPMD を追随の許可として読む |
-| **Christine Moy**（元 JPM Onyx → Apollo） | プロアクティブな個人のタレント・フロー | 次の製品サイクル（プライベート・クレジットのトークン化）への個人的ベット | 単一のイベント + 6-18 か月のシグナルのラグ | シグナルとしての成功 | プライベート・クレジットのトークン化が次の機関レーン | Apollo ACRED + Arc + その他の AM の追随のトークン化プロジェクト |
-| **Larry Fink**（BlackRock CEO） | プロアクティブ — パッシブ ETF → ETF + RWA + 政治の三角形 | 世代的なリフレーミング。複数年の構築 | 複数年（2022  → 2026） | 成功 — 三角形が組み立てられた | 数兆の AUM のアセットマネージャーは統合された暗号資産と RWA の戦略を保持できる | Franklin Templeton、WisdomTree、Ondo Finance、Fidelity、State Street がピースを複製 |
-| **Changpeng Zhao（CZ）**（Binance 創業者） | リアクティブ + 構造的 — 創業者 → 確信 → ハンドオフ | 米国 DOJ の和解 2023-11  + 2024-04  の量刑 | 即時のハンドオフ + 継続中のレピュテーションのアーク | 強いられたハンドオフが完了。再構築は継続中 | 暗号資産ネイティブの取引所ガバナンスは強いられた創業者の離脱を生き延びられる | 後継 CEO Richard Teng が Binance を運営。運営の継続性が維持された |
-| **Brian Armstrong**（Coinbase 創業者 CEO） | プロアクティブ — オペレーター → 政治的・規制的な声 | 2023  の SEC Wells Notice → 2024-2025  の立法エンゲージメント | 複数年の 3 段階（2018  → 2023  → 2024-25） | 成功 — CEO の移行なしに政治的な声を獲得 | 上場した暗号資産ネイティブの取引所は戦略としての公的対立を運営できる | Ripple、Kraken、Gemini、Grayscale がロビイング／訴訟のピースを部分的にコピー |
-| **Larry Fink（機関製品サイド）** | 上記の行を参照 | — | — | — | — | — |
-| **Matt Huang**（Sequoia → Paradigm → トリプルロール） | プロアクティブ — VC ジェネラリスト → 暗号資産 VC → トリプルロールのアンカー | 暗号資産サイクルへの個人的確信 | 複数年（2018  の Paradigm → 2024  の Stripe 取締役会 → 2025  の Tempo CEO） | 成功 — テンプレートが組み立てられたが稀 | 自己均衡する COI を伴う単一アンカーの資本と CEO の配分 | 複製が難しい。Fred Ehrsam が部分的なアナログ |
-| **Paolo Ardoino**（Tether CTO → CEO） | 内部の役割の昇進 + 公的スポークスパーソンの獲得 | 高金利環境の利益の可視性（2022-2025  の FRB のサイクル） | 複数年（2017  → 2024  の CEO → 2025  の USAT） | 成功 — デュアルトラックの USDT + USAT が運用中 | オフショアのアンカー + オンショアの版のデュアルトラックは運用上実行可能 | USDC／Circle が部分的なミラー。First Digital、Paxos がコンプライアンス経路のピースを追随 |
-| **Hester Peirce**（SEC コミッショナー） | 既存のイデオロギーの制度的昇進 | 2024-Q4  の米国の政治移行 + Atkins の SEC | 即時の任命 + 6 か月のカスケード | 成功 — イデオロギーが政策に転換 | 米国の規制境界が執行からルールメイキング主導の明確性へ転換 | CFTC が潜在的にミラー。OCC／FRB はそれほどではない。GENIUS／CLARITY 法における立法上のアンカー |
-| **Sandeep Nailwal**（Polygon 共同創業者 → Foundation CEO） | 戦略的リフォーカス — ジェネラリスト L2  → インド DPI 専門家 | グローバル L2  のマインドシェアの喪失 + 防御可能な垂直市場の必要 | 約 12  か月（2025-06  → 2026-Q1  の ARC のローンチ） | 保留中 — 国家バンドリングがテスト下の初期段階 | ジェネラリストの L2 は国にアンカーした DPI／ステーブルコインのレーンへピボットできる | 候補の複製者：CELO + アフリカ、VeChain + ベトナム、公的に特定されていない追加の候補とともに |
-| **Kitao Yoshitaka**（SBI HD 創業者 CEO） | 能動的なコンソーシアムの拒絶 | 2023-2024  の Progmat コンソーシアムの形成 + グローバルなコンプライアンスの機会 | 複数年（2024  の拒絶 → 2025-08  の SBI／Circle → 2026-Q2  の Arc） | 保留中 — §501  のデナイリストの独占レントの実現に依存 | 独立ルートは、コンソーシアムが価値の軸をカバーしないままにする場合に勝てる | Shinhan（韓国）、DBS（シンガポール）が候補の複製者 |
-
-## 境界事例／戦略的な分岐
-
-ピボットは、特定のシナリオでストレステストをかけると、異なるかたちでクラスターを形成する。各ピボットの構造は、境界において最も明確に現れる。
-
-### リーダーシップの承継を越えたピボットの安定性
-
-- **最も安定**：Larry Fink のテンプレート — 単一 CEO の移行を生き延びる制度的なレイヤー（ETF + RWA + 政治的関係）を横断して構築された。
-- **中程度に安定**：Brian Armstrong のテンプレート、Paolo Ardoino のテンプレート — 制度的なレイヤーは存在するが、創業者 CEO のプレゼンスが中心的なままである。承継が目に見えるガバナンスの問いである。
-- **弱く安定**：Jamie Dimon のピボット（リアクティブ、弱い信念 → Dimon の最終的な引退後の承継リスク）。Hester Peirce のピボット（コミッショナーの再任 + 立法上のアンカリングに依存）。Sandeep Nailwal のピボット（初期段階、単一創業者に駆動される）。
-- **強いられた承継**：Changpeng Zhao — 承継がピボットそれ自体であり、選んだタイミングではなく DOJ が課した制約の下で完了した。
-
-### ピボットの反転リスク
-
-- **高い反転リスク**：Hester Peirce の規制ピボット。（a）コミッショナーが 2025-06  の任期後に再任されない、（b）GENIUS／CLARITY 法が制定法にアンカーされない、または（c）次政権の SEC がリーダーシップの姿勢を反転させる場合。
-- **中程度の反転リスク**：Jamie Dimon のピボット（リアクティブな性質は、その後の顧客／競争のシグナルの変化が部分的な後退をトリガーしうることを意味する）。Sandeep Nailwal のピボット（インドの政治サイクルへの依存）。
-- **低い反転リスク**：Larry Fink のテンプレート（組み立て済み、マルチプロダクト、数兆の AUM のスケールにアンカー）。Matt Huang のトリプルロール（構造的なロック）。Brian Armstrong のテンプレート（上場後の構造は設計上不可逆）。
-- **該当なし**：Changpeng Zhao のハンドオフ（反転不可——DOJ の和解は、公的な条件により Binance での CEO の役割を恒久的に禁ずる）。
-
-### 資本の方向性のシグナルの強さ
-
-各ピボットが下流のアロケーター／規制当局者／競合に送るシグナルは、実質的に異なる。
-
-- **最も強いシグナル**：Larry Fink（BlackRock の AUM は、あらゆる動きが機関の暗号資産配分の問いを再価格付けすることを意味する）。Brian Armstrong（Coinbase の株価の反応はリアルタイムの公開市場の投票である）。
-- **強いが狭いシグナル**：Hester Peirce（米国の規制のみ）。Jamie Dimon（米国の銀行側のみ、ただし米国の銀行側はグローバルなベンチマーク）。Paolo Ardoino（ステーブルコイン発行体の空間のみ）。
-- **リード・タイムを伴うシグナル**：Christine Moy（タレント・フローのシグナルは機関の製品ローンチに 6-18  か月先行する）。Matt Huang のトリプルロール（アンカーは公開市場がテーゼに気づく前に資本を配分する）。
-- **アウトカムに依存するシグナル**：Sandeep Nailwal（国家バンドリングのシグナルは ARC がボリュームを実現する場合にのみ検証される）。Kitao Yoshitaka（独立ルートのシグナルは §501  のデナイリストが予測された独占レントを生み出す場合にのみ検証される）。
-- **教訓としてのシグナル**：Changpeng Zhao（ネガティブなシグナル——創業者 CEO の暗号資産取引所は、ガバナンス／コンプライアンスの準備を必要とする構造的な DOJ のエクスポージャーに直面する。下流の効果は 2023 後の OKX／Bybit のライセンシングの加速に見える）。
-
-### ピボットのタイプ × トリガー・クラス — クラスターのパターン
-
-2 軸の分類がクラスターを見るのに役立つ。
-
-| ピボットのタイプ \ トリガー | 規制 | 政治 | 市場 | ガバナンス／刑事 | 個人 |
-|---|---|---|---|---|---|
-| リアクティブ（ショックを吸収） | **Dimon** | — | — | **CZ** | — |
-| プロアクティブ（変化を主導） | **Fink**、**Armstrong** | **Armstrong**（ロビイング／PAC） | — | — | **Moy**、**Huang**、**Ardoino**、**Nailwal**、**Kitao** |
-| 制度的昇進 | — | **Peirce** | — | — | — |
-
-このクラスターは、**プロアクティブで個人がトリガーのピボットが暗号資産と RWA の空間を数の上で支配している**一方、**リアクティブで規制がトリガーのピボット（Dimon）**と**強いられたガバナンスのピボット（CZ）**が主流メディアに最も見える事例であることを明らかにする。制度的昇進（Peirce）は、イデオロギーが安定した個人と、制度的な権威を付与する政治権力の移行の両方を必要とするため、構造的にユニークである。
-
-### 信念の安定性テスト
-
-ピボットの安定性は、その**リアクティブ性**と**外的条件への依存性**とおおむね反比例する。
-
-- **高い信念の安定性**：Fink（マルチプロダクト、複数年、制度的）、Huang（構造的なトリプルロールのロック）、Armstrong（上場後の構造）、Kitao（数十年にわたる独立の姿勢）。
-- **中程度の信念の安定性**：Ardoino（Tether にアンカー）、Moy（個人的ベットの形状）、Nailwal（単一垂直市場のベット）。
-- **低い信念の安定性**：Dimon（リアクティブ）、Peirce（政治の継続性に依存）、CZ（強いられた）。
-
-このマトリクスは、上から下へと**ピボットのシグナルのリスク等級付けされたリスト**として読むことができる——低信念のピボットは高信念のピボットよりノイズの多いシグナルを生み出し、下流の複製者はシグナルをそれに応じて重み付けすべきである。
-
-### 地理的なアンカリング
-
-- **米国にアンカー**：Dimon、Fink、Armstrong、Peirce、Huang、Moy。
-- **オフショアにアンカー（米国コンプライアントの版を伴う）**：Ardoino（Tether はオフショアで登記、USAT のコンプライアントの版はオンショア）。
-- **国固有にアンカー**：Nailwal（インド）、Kitao（日本）。
-- **クロスボーダー／グローバル**：CZ（グローバルな子会社のライセンシングを伴う Binance のオフショアの系譜）。
-
-米国にアンカーするクラスターは最大で最も注視されるが、国固有にアンカーするクラスター（Nailwal のインド、Kitao の日本）こそ、**規制裁定／DPI アライアンス／クロスボーダー・コンプライアンスのピボットの次のフェーズ**が生じる可能性が最も高い場所である。
-
-## ピボット検出の前兆
-
-各ピボットのタイプは、ヘッドラインのイベントの*前に*現れる少数の公的なシグナルを持つ。これらの前兆を中心にウォッチリストを構築することで、目に見えるピボットに対し 6-18  か月のリードが得られる。以下の前兆は、ここに集めた 10 件の事例から抽出されている。
-
-| ピボットのタイプ | 前兆のシグナル | どこをモニターするか |
-|---|---|---|
-| リアクティブな銀行 CEO（Dimon のパターン） | （1）ステーブルコイン／トークン化についての CEO の公的発言の軟化、（2）内部のブロックチェーン部門の改称、（3）オンチェーン決済を要求する機関顧客の RFP | CEO の決算電話の議事録、内部部門のブランディングの刷新、大手機関顧客の開示 |
-| プロアクティブなアセットマネージャー（Fink のパターン） | （1）暗号資産／トークン化をテーマとして年次書簡に含める、（2）暗号資産ネイティブの企業との取締役会レベルのパートナーシップの発表、（3）ETF／RWA の製品の届出 | CEO の年次書簡、取締役会のプレスリリース、SEC の製品の届出 |
-| 強いられた創業者のハンドオフ（CZ のパターン） | （1）DOJ／規制当局の調査の公的確認、（2）和解交渉のプレスへのリーク、（3）後継 CEO の承継計画の開示 | DOJ のプレスリリース、規制当局の執行スケジュール、取引所のガバナンスの開示 |
-| 上場取引所の政治的な声（Armstrong のパターン） | （1）8-K を通じた Wells Notice の開示、（2）LD-2  の届出におけるロビイング支出のエスカレーション、（3）PAC の寄付の開示 | SEC の 8-K の届出、米国上院ロビイング開示データベース、FEC の公的記録 |
-| タレント・フローのシグナル（Moy のパターン） | （1）初期段階のビルダーの LinkedIn／Twitter の離脱の発表、（2）行き先の企業の製品ロードマップの転換、（3）6-12  か月以内の類似の離脱のクラスター（3+） | LinkedIn／X の公的プロファイルの変化、業界カンファレンスの登壇者の再編成 |
-| トリプルロールのアンカー（Huang のパターン） | （1）VC パートナー + 取締役 + CEO の役割のスタッキングの発表、（2）ポートフォリオ企業の「ノートークン」の公的なコミットメント、（3）ポートフォリオ横断の統合製品のローンチ | 会社のプレスリリース、ポートフォリオ企業の開示、取締役の任命 |
-| 規制の制度的昇進（Peirce のパターン） | （1）明示的な被任命者の選定を伴う政治権力の移行、（2）被任命者の異議の記録の一貫性、（3）タスクフォース／委員会の形成の発表 | 規制当局の人事の発表、異議票の公的記録、大統領令または委員会創設のプレスリリース |
-| 国家バンドリングのピボット（Nailwal のパターン） | （1）プロジェクト財団の CEO の移行、（2）主権的なナラティブの公的エンゲージメント（G20 ／BIS のフォーラム）、（3）国の大手企業との独占的なパートナーシップの開示 | 財団のガバナンスの投稿、主権金融フォーラムのスケジュール、大手企業のプレスリリース |
-| 独立ルートのベット（Kitao のパターン） | （1）コンソーシアムのメンバーシップの公的な拒絶、（2）競合するパートナーシップの JV の形成、（3）クロスボーダー・インフラへの投資 | コンソーシアムの拒絶の公的発言の記録、JV 形成のプレスリリース、クロスボーダー投資の開示 |
-| デュアルトラックの発行体（Ardoino のパターン） | （1）CTO から CEO への移行または役割の拡大、（2）オフショアの製品に加えたコンプライアンスの版の製品のローンチ、（3）コンプライアントの版のための規制された銀行発行体のパートナーシップ | 会社の役割の発表、製品ローンチのプレスリリース、銀行パートナーの開示 |
-
-これらの前兆は決定論的ではない——各タイプに偽陽性が存在する。同じピボットのタイプからの*複数の*前兆が短い窓のなかで発火するとき、シグナルの強さは急激に高まる。
-
-## 横断：各ピボットのタイプの次の候補は誰か
-
-前兆のリストを基に、以下のマトリクスは、前兆のパターンに合致するがまだヘッドラインのピボットを実行していない、公的に見える候補を集める。これは前向きだが、各候補は公的に報道された姿勢のみから選ばれている。
-
-| ピボットのタイプ | 公的に見える候補 | なぜ合致するか | ステータス |
+| 類型 | 支配・役割の変化 | 主な証拠文書 | 典型的な分析上の誤り |
 |---|---|---|---|
-| リアクティブな銀行 CEO（Dimon 型） | トークン化預金について公的に軟化しているその他の大手銀行の CEO | シーケンシングが 18 か月の Dimon のアークに合致 | 保留中 — 改称された内部部門 + 公開チェーンの製品のローンチを注視 |
-| プロアクティブなアセットマネージャー（Fink 型） | 暗号資産 ETF／RWA に公的に関与しているその他の数兆の AUM のアセットマネージャー | 政治のレイヤーを伴うマルチプロダクト戦略 | 保留中 — 年次書簡のフレーミングと製品の届出のクラスターを注視 |
-| 強いられた創業者のハンドオフ（CZ 型） | 名指しされた取引所の創業者に対する活発な DOJ／規制当局の執行 | 和解の構造が承継を予測する | 公的なプレス報道によれば複数が進行中 |
-| タレント・フローのシグナル（Moy 型） | 元銀行ブロックチェーンのタレントがオルタナティブ資産のマネージャーへ移動するクラスター | クラスターの形状が Moy のアークに合致 | 公的な LinkedIn／X の動きによれば活発で可視 |
-| 国家バンドリング（Nailwal 型） | 国にアンカーした DPI へのプロジェクト財団の移行を伴うその他の L1 ／L2  のチェーン | グローバルなマインドシェアの喪失 + 主権的なナラティブへの受容性 | 候補のセットは可視。アウトカムは保留中 |
-| 規制の制度的昇進（Peirce 型） | CFTC／OCC／FRB において一貫したイノベーション推進の記録を持つ、その他の長年異議を唱えてきた当局者 | 個人の継続性 + 政治権力の移行の両方を必要とする | ウォッチリストは公的に既知。アウトカムは条件付き |
-| 独立ルート（Kitao 型） | 国内コンソーシアムのメンバーシップを公的に辞退するその他の地方銀行 | 独立ルートは公的な拒絶の姿勢を必要とする | 候補のセットは狭い。著名な事例が可視 |
-| 上場取引所の政治的な声（Armstrong 型） | ロビイング／PAC のプレゼンスをスケールしているその他の上場した暗号資産またはフィンテックの取引所 | LD-2 ／FEC の届出がエスカレーションを開示 | 複数が可視。アウトカムは政治サイクルに依存 |
-| トリプルロールのアンカー（Huang 型） | GP + 取締役 + ポートフォリオ CEO の役割をスタックしているマルチロールの人物 | 非常に稀。ユニークなキャリア・パスを必要とする | 公的に見える候補は少数 |
-| デュアルトラックの発行体（Ardoino 型） | オフショアのベースとあわせてコンプライアンスの版をローンチするその他のステーブルコイン発行体 | コンプライアンスとオフショアのデュアルトラック | 複数が可視。アウトカムは規制の明確性に依存 |
+| 公開市場への参入 | 創業者が役職を維持したまま、持分が公開市場で取引可能になる場合がある | 目論見書、年次報告書、委任状資料 | 直接上場をIPOと呼ぶ、または発行会社に手取金が入ると仮定する |
+| 法執行に伴う交代 | 法的な解決により役員の役割が変わる | 有罪答弁、判決、和解、会社発表 | 辞任を持分売却の証拠とみなす |
+| 商品拡張 | 経営陣を維持したまま、規制対象の商品枠組みや技術基盤を追加する | 登録届出書、商品ページ、ローンチ発表 | ローンチを普及や収益性の証拠とみなす |
+| 規制当局者の役割拡大 | 当局者が明確な政策または調整上の任務を担う | 当局発表、正式命令、規則制定記録 | タスクフォースの設置を成立済みの法律とみなす |
 
-各候補は**予測ではなく、公的な姿勢の観測**である。マトリクスの診断上の価値は、次の目に見えるピボットが起きたときにそれを**分類すること**にある。
+## 事例 1 — アームストロング / コインベース
 
-## 横断：トリガーの耐久性によるピボットのアウトカム
+Coinbaseの目論見書は、引受会社を使わない直接上場に向けて既存保有者の売出株式を登録し、その売却からCoinbase自身は手取金を受け取らないと明記した。創業者がCEOを続けながら、非公開会社からSEC報告会社へ移行したことを確認できる事例である。
 
-最も長く持続するピボットは、単一の政治サイクルや単一のディールのイベントではなく、耐久性のある構造的な条件によってトリガーされるものである傾向がある。
+その後の法執行の時系列は分けて扱う必要がある。SECは2023年にCoinbaseを提訴し、2025年に訴訟を却下した。SECは、却下が規制アプローチの変更を支えるもので、主張の本案に対する評価を反映しないと説明した。
 
-- **最も耐久性のあるトリガー**：世代的なテクノロジー・サイクル（Fink、Huang）、構造的なバランスシート／ビジネスモデルの変化（Ardoino）、複数年のキャリア・ベット（Nailwal、Kitao）。
-- **中程度の耐久性のトリガー**：特定の規制の枠組みの形成（FIT21 ／GENIUS 法を伴う Armstrong）、特定の企業のガバナンス・イベント（CZ の DOJ の和解）。
-- **最も耐久性の低いトリガー**：単一の政治権力の移行（Peirce — 次政権に依存）、単一の圧力の顧客／競争のショック（Dimon — 追随する銀行の採用のレートに依存）、単一のタレント・ベット（Moy — 行き先の企業が実行するかどうかに依存）。
+以下の証拠表の情報源：[Coinbase's prospectus](https://www.sec.gov/Archives/edgar/data/1679788/000162828021006850/coinbaseglobalinc424b.htm) および [SEC dismissal release](https://www.sec.gov/newsroom/press-releases/2025-47)。
 
-トリガーの耐久性の軸は、ピボットが下流の複製者がコピーする**テンプレート**（Fink、Armstrong）になるか、それとも**元の主役に限定されたケーススタディ**（CZ、個人レベルでの Moy）になるかを予測する。
-
-## 横断：ペアの比較としてのピボットのペア
-
-10 件のピボットのうちいくつかは、単一事例の読みでは明らかにできない対比を露わにするため、ペアで読むのが最善である。
-
-- **Dimon 対 Fink** — 同じ時代、同じ機関規模のクラス、反対の姿勢。Dimon = リアクティブな銀行 CEO。Fink = プロアクティブなアセットマネージャー CEO。このペアは、**AUM／バランスシートの規模だけではピボットの方向を決定しない**ことを示す。機関のタイプ（商業銀行 対 アセットマネージャー）が構造的なインセンティブを形作る。
-- **Armstrong 対 CZ** — どちらも暗号資産ネイティブの取引所の創業者 CEO、反対のガバナンスのアウトカム。Armstrong は 2021-04  に Coinbase を上場させ、デュアルクラスの支配を通じて創業者 CEO を保持した。CZ は DOJ の和解の下で 2023-11  に辞任し、2024-04 に量刑を言い渡された。このペアは、**米国オンショアの規制された取引相手の構造の早期の選択**（Armstrong）対**オフショアにアンカーした無規制の境界の構造**（CZ 時代の Binance）が、創業者が規制圧力のフェーズを生き延びるかどうかを決定することを示す。
-- **Fink 対 Ardoino** — どちらも統合されたステーブルコイン／RWA の戦略を構築した、反対の管轄のアンカリング。Fink = 初日から米国オンショア。Ardoino = オフショアにアンカーし、後に米国コンプライアントの版（USAT）を追加。このペアは、**複数の経路がスケールしたステーブルコイン／トークン化の利益を実現できる**が、管轄の選択が下流の機関採用の形状を制約することを示す。
-- **Peirce 対 Dimon** — 同じ広範なオンチェーン金融の転換に対する、規制当局側 対 銀行側の適応。Peirce の制度的昇進が、Dimon のピボットを運用上より低リスクにした規制の明確性を可能にした。このペアは、**規制当局のピボットが、産業のピボットへの応答であるだけでなく、その前兆になりうる**ことを示す。
-- **Huang 対 Kitao** — どちらも非コンセンサスの構造的なポジションを追求した。Huang は「ノートークン」のコミットメントに信頼性を与えるために 3 つの役割をスタックした。Kitao はクロスボーダー・コンプライアンスのベットをアンカーするために Progmat コンソーシアムを公的に拒絶した。このペアは、コンセンサスの経路が重大な価値の軸をカバーしないままにするとき、**構造的な非コンセンサス**が意図的な戦略になりうることを示す。
-- **Moy 対 Nailwal** — どちらもベットを検証するために行き先のコンテキストを必要とした。Moy の行き先（Apollo + ACRED）はタレント・フローのシグナルを検証した。Nailwal の行き先（インド DPI + Reliance Jio + ARC）はまだ検証が保留中である。このペアは、**同じ前兆のシグナルのクラス**（キャリア・ベット／戦略的リフォーカス）が、**行き先の実行に応じて成功または保留中に解決しうる**ことを示す。
-
-これらのペアの読みは、マトリクスの診断上の価値を鋭くする。ペア構造はまた、将来のピボット分析が、単一の事例を孤立して読むのではなく、常に対抗事例のペアを探すべきであることを示唆する。
-
-## 横断：ピボットの資本スタックへの含意
-
-各ピボットは、特定の**資本スタックのシグナル**——ピボットが着地した後に資金がより流れやすい方向——を持つ。
-
-| ピボット | 資本スタックへの含意 |
+| 証拠質問 | 回答 |
 |---|---|
-| Dimon → JPMD | より多くの機関のトレジャリーとアセットマネジメントの現金が、公開 L2  上のトークン化預金を許容するようになる |
-| Fink → ETF + RWA + 政治 | より多くの年金／エンダウメント／ソブリン・ウェルスの配分が、規制された製品のラッパーを通じて暗号資産へ |
-| CZ のハンドオフ | より多くの暗号資産ネイティブの取引所の資本が、コンプライアンス・インフラ（監査、ライセンス、ガバナンス）へとルーティングされる |
-| Armstrong | より多くの上場した暗号資産企業が、ダイレクト・リスティング、複数ライセンスのスタック、ロビイング支出のテンプレートを追随する |
-| Moy → Apollo | より多くのトークン化されたプライベート・クレジットの AUM、機関 AM のクラスターとしての Apollo／Ares／Blackstone／Brookfield とともに |
-| Huang のトリプルロール | ファンド・ビークル単独ではなく、アンカー人物の構造によって配分される、より多くの忍耐強い長期の資本 |
-| Ardoino のデュアルトラック | 複数管轄のバイヤー基盤を満たすための、並行するオフショア + オンショアのビークルを通じた、より多くのステーブルコインの発行 |
-| Peirce → SEC の明確性 | 執行のオーバーハングから解放された、より多くの米国オンショアの暗号資産の取引所／カストディ／ステーキング／RWA の資本の展開 |
-| Nailwal → インド DPI | EM のコンテキストにおける、より多くの国にアンカーしたステーブルコインと DPI のインフラの資本 |
-| Kitao → SBI Circle | 銀行と連携した JV のビークルを通じて展開される、より多くのクロスボーダー・コンプライアンスのレールの資本 |
+| 取引形態 | Class A普通株式の直接上場 |
+| 引受業者 | なし |
+| 登録株主による売却からの発行会社手取金 | なし |
+| 上場後の創業者の役職 | アームストロングはCEOを継続 |
+| 2025年時点のSEC民事訴訟 | 却下；本案の当否を判断したものではないと明記 |
 
-資本スタックの列はそれ自体が前向きの診断である：次のピボットがこれらのテンプレートのパターンの 1 つに合致するとき、資本フローの方向はアナログの事例から部分的に予測可能である。
+## 事例 2 — CZ / Binance
 
-## Related
+CZの経営交代は刑事上の解決に伴うものだった。公的記録からCEO辞任、刑、罰金、その後の大統領恩赦は確認できるが、別個の開示なしに、その後の持分や支配を正確に主張することはできない。
 
-- [[business/INDEX]]
-- [[business/jamie-dimon-anti-crypto-pivot-case]]
-- [[business/christine-moy-talent-signal-jpm-apollo]]
-- [[business/larry-fink-blackrock-digital-asset-template]]
-- [[business/matt-huang-triple-role-coi-template]]
-- [[business/paolo-ardoino-tether-business-model-template]]
-- [[business/hester-peirce-sec-regulatory-pivot-case]]
-- [[business/sandeep-nailwal-polygon-india-dpi-pattern]]
-- [[business/kitao-yoshitaka-sbi-independent-strategy-case]]
-- [[business/brian-armstrong-coinbase-public-company-template]]
-- [[fintech/INDEX]]
-- [[fintech/cftc-sec-crypto-jurisdiction]]
-- [[exchanges/INDEX]]
-- [[exchanges/us-crypto-licensing-multi-layer-system]]
+以下の証拠表の情報源：[DOJ's CZ case page](https://www.justice.gov/criminal/case/united-states-v-changpeng-zhao)、[DOJ resolution release](https://www.justice.gov/opa/pr/binance-and-ceo-plead-guilty-federal-charges-4b-resolution)、および[DOJ clemency register](https://www.justice.gov/pardon/clemency-grants-president-donald-j-trump-2025-present)。
+
+| 証拠の質問 | 回答 |
+|---|---|
+| 個人に対する罪名 | 有効なAMLプログラムを維持しなかったことによるBank Secrecy Act（BSA）違反 |
+| 経営上の出来事 | CZは2023年11月にCEOを辞任 |
+| 判決 | 禁錮4か月および5,000万ドル（$50 million）の罰金 |
+| その後の出来事 | 2025-10-21日付の完全かつ無条件の大統領恩赦 |
+| 持分に関する結論 | 引用した公的な執行記録だけでは確定できない |
+
+## 事例 3 — フィンク / ブラックロック
+
+BlackRockで観測できる変化は、創業者の交代ではなく、組織としての商品拡張である。IBITは、費用・負債控除前のビットコイン価格への連動を目指す上場取引商品を設けた。BUIDLはEthereum上のトークン化ファンド構造を設けた。証拠から商品の存在と公表された設計は確認できるが、資金流入、運用成績、戦略上の因果関係には日付付きデータが必要で、ローンチ資料だけから推定すべきではない。
+
+以下の製品表の情報源：[BlackRock's IBIT product page](https://www.blackrock.com/us/individual/products/333011/ishares-bitcoin-trust-ibit)、[IBIT SEC registration statement](https://www.sec.gov/Archives/edgar/data/1980994/000143774923017574/bit20230608_s1.htm)、および[BUIDL launch release](https://www.nasdaq.com/press-release/blackrock-launches-its-first-tokenized-fund-buidl-on-the-ethereum-network-2024-03-20)。
+
+| Product | Public structure | Bounded conclusion |
+|---|---|---|
+| IBIT | SEC提出書類と公開商品資料を備えた取引所取引型ビットコイン信託 | 規制対象の商品枠組みは存在するが、適合性と運用成績は別問題 |
+| BUIDL | Ethereum上で展開されたトークン化投資ファンド | トークン化投資ファンドインフラが存在する；ローンチは経済全体での採用を証明しない |
+
+## 事例 4 — Peirce／SEC
+
+2025-01-21、SECのマーク・ウエダ委員長代行はCrypto Task Forceを設立し、ヘスター・パース委員を責任者に任命した。SECは、開示経路、登録上の論点、執行資源の優先順位を含む包括的で明確な規制枠組みの構築を目指すと説明した。
+
+以下の任務表の情報源：[SEC Crypto Task Force announcement](https://www.sec.gov/newsroom/press-releases/2025-30)
+
+| 公的任務の要素 | 確認できること | 確認できないこと |
+|---|---|---|
+| パースがタスクフォース責任者に指名された | 明確な調整・政策策定上の役割 | 法律を制定する権限 |
+| 意見募集が行われた | 当局が投資家、業界、研究者などとの対話を計画 | 全委員または全利害関係者の合意 |
+| 枠組みに関する作業が発表された | 政策の方向性と作業計画 | 最終規則、発効日、保証された成果 |
+
+## 証拠の信頼性比較
+
+上記のマトリクスの情報源：主要な提出書類、機関発表、事件ページ、および上記にリンクされている製品ドキュメント。
+
+| 件名 | 最強の情報源 | 高信頼性主張 | 追加証拠が必要な主張 |
+|---|---|---|---|
+| Armstrong / Coinbase | SECの目論見書および年次報告書 | 上場方式と報告会社としての地位 | 政治的因果関係または影響 |
+| CZ / Binance | 有罪答弁、判決、DOJおよびTreasuryの公表 | 罪名、刑、辞任、解決条件 | その後の実質的所有または非公式なガバナンス |
+| Fink / BlackRock | SECの製品提出書および発行会社製品文書 | 製品構造およびローンチ | 長期間の採用、利益性、またはシステム全体への影響 |
+| Peirce / SEC | SECタスクフォース発表およびその後の公式公表 | 任命および公表された作業計画 | 最終的な法制度または指導部交代後の持続性 |
+
+## 対比による読み方
+
+- **Armstrong vs. CZ**：公開上場後の創業者継続についてと、執行主導による辞任について。この比較は、オンショアおよびオフショアモデルに関する普遍的因果関係を主張するものではなく、記録されたガバナンスの経路に焦点を当てるものである。
+- **Fink vs. Peirce**：民間セクターの製品形成と公的セクターの政策連携。一方は製品のリリースを可能にし、他方は提言、公表、または規則制定案を生み出すことができるが、いずれも互いの法的または商業的機能を代替するものではない。
+- **Coinbaseの却下 vs. Binanceの却下**：双方のSEC民事訴訟は2025年に却下されたが、関連する刑事、企業、手続き上の経緯は異なる。「却下」という語だけで両案件を同一視することはできない。
+
+## 再利用可能な分類チェックリスト
+
+このページ全体で引用されている公的記録の情報源。
+
+| 質問 | なぜそれが重要か |
+|---|---|
+| 事件は自発的、市場による、執行による、または機関による任命か？ | 違った性質の転換を1つの結果タイプとして扱わない |
+| 証拠は提出書類、判決、発表、商品ページ、解説のどれか？ | その主張にどの程度の重みを持たせられるかを決める |
+| 役職、所有、議決権支配、商品範囲のどれが変化したか？ | これらは別々の変数である |
+| 結果は観測されたものか、予測されたものか？ | シナリオ分析を事実記録から排除する |
+| その後の却下、判決、恩赦、承認、または撤回がその状態を変更したか？ | 静的な時系列を避け、最新の状況を反映する |
+| 何がまだ不明か？ | 公開されていないギャップを推測で埋めるのを防ぐ |
+
+## 関連
+
+- [[business/INDEX|business INDEX]]
+- [[business/brian-armstrong-coinbase-public-company-template|Brian Armstrong / Coinbase public-company case]]
+- [[business/cz-binance-founder-handoff-case|CZ / Binance founder-handoff case]]
+- [[business/larry-fink-blackrock-digital-asset-template|Larry Fink / BlackRock digital-asset case]]
+- [[business/hester-peirce-sec-regulatory-pivot-case|Hester Peirce / SEC regulatory case]]
+- [[exchanges/INDEX|exchanges INDEX]]
+- [[fintech/INDEX|fintech INDEX]]
+- [[fintech/cftc-sec-crypto-jurisdiction|CFTC / SEC crypto jurisdiction]]
 - [[INDEX|FinWiki index]]
 
-## Sources
+## 出典
 
-- JPMorgan Onyx／Kinexys 公式コーポレートページ（https://www.jpmorgan.com/onyx/index, https://www.kinexys.com/）。
-- BlackRock トークン化ホワイトペーパー（https://www.blackrock.com/corporate/literature/whitepaper/bii-tokenisation.pdf）。
-- Apollo Global Management 公式インサイト（https://www.apollo.com/insights）。
-- SEC コミッショナー Hester Peirce の経歴および公的発言（https://www.sec.gov/biography/commissioner-hester-m-peirce）。
-- Coinbase SEC EDGAR の届出（CIK 0001679788）、S-1, 、10-K、10-Q、8-K を含む（https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001679788）。
-- Coinbase インベスター・リレーションズ（https://investor.coinbase.com/）。
-- Paradigm チームページ（https://www.paradigm.xyz/team）。
-- Tether 透明性ページ（https://tether.to/en/transparency）。
-- Polygon プロジェクトのウェブサイト（https://polygon.technology/）。
-- SBI Holdings コーポレートサイト（https://www.sbigroup.co.jp/english/）。
-- Binance 公式ブログ（https://www.binance.com/en/blog）。
-- CFTC 連邦官報の機関ページ（https://www.federalregister.gov/agencies/commodity-futures-trading-commission）。
-- SEC 訴訟リリースのインデックス（https://www.sec.gov/litigation/litreleases.htm）。
-- Binance Holdings Limited の 2023-11  の和解に関する米国 DOJ の公的発表（DOJ のプレスリリースおよび SDNY の裁判所への提出を通じて公的に報道）。
-- FIT21 ／GENIUS 法に関する公的な連邦議会の公聴会の記録（下院金融サービス委員会および下院農業委員会の公的な公聴会）。
+- Coinbase 2021 prospectus: https://www.sec.gov/Archives/edgar/data/1679788/000162828021006850/coinbaseglobalinc424b.htm
+- SEC dismissal of Coinbase action: https://www.sec.gov/newsroom/press-releases/2025-47
+- DOJ, United States v. Changpeng Zhao: https://www.justice.gov/criminal/case/united-states-v-changpeng-zhao
+- DOJ, 2023 Binance and CZ resolution: https://www.justice.gov/opa/pr/binance-and-ceo-plead-guilty-federal-charges-4b-resolution
+- SEC dismissal of Binance action: https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26316
+- DOJ clemency register: https://www.justice.gov/pardon/clemency-grants-president-donald-j-trump-2025-present
+- SEC Crypto Task Force announcement: https://www.sec.gov/newsroom/press-releases/2025-30
+- BlackRock IBIT product page: https://www.blackrock.com/us/individual/products/333011/ishares-bitcoin-trust-ibit
+- IBIT SEC registration statement: https://www.sec.gov/Archives/edgar/data/1980994/000143774923017574/bit20230608_s1.htm
+- BlackRock BUIDL launch release: https://www.nasdaq.com/press-release/blackrock-launches-its-first-tokenized-fund-buidl-on-the-ethereum-network-2024-03-20

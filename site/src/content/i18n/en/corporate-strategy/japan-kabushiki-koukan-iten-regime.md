@@ -1,12 +1,12 @@
 ---
 source: corporate-strategy/japan-kabushiki-koukan-iten-regime
-source_hash: 79f5012292a23d1b
+source_hash: 4c009aeabe1ee970
 lang: en
-model: claude-opus-4-8
+model: source-language-sync
 status: machine
 fidelity: ok
 title: "株式交換 / 株式移転 (kabushiki koukan / iten) — share-exchange and share-transfer regime for wholly-owned subsidiary and holding-company formation"
-translated_at: 2026-06-05T00:00:00.000Z
+translated_at: 2026-07-29T05:13:34.783Z
 ---
 
 # 株式交換 / 株式移転 (kabushiki koukan / iten) — share-exchange and share-transfer regime for wholly-owned subsidiary and holding-company formation
@@ -40,7 +40,9 @@ The statutory layer:
 | Consideration | Acquirer's own shares (cash / other property mixable) | New HoldCo's own shares |
 | Typical use | Full takeover with stock consideration; converting a listed affiliate into a wholly-owned subsidiary | Pure holding-company formation; merger-of-equals under a joint HoldCo |
 | Companies Act articles | 767-771 | 772-774 |
-| Decision | Both companies' shareholders' special resolution (2/3) | Each transferring company's shareholders' special resolution (2/3) |
+| Decision | Shareholder approval is the statutory default, subject to short-form / simplified exceptions | Each transferring company's shareholder approval is the statutory default, subject to applicable exceptions |
+
+Sources: the table is scoped to the Companies Act definitions and default procedures for 株式交換 and 株式移転; it does not override simplified, short-form, creditor, or dissenting-shareholder provisions. ^[Source: https://laws.e-gov.go.jp/document?lawid=417AC0000000086.]
 
 The intuition: **株式交換 points an existing company *upward* over a target; 株式移転 builds a *new* roof over one or more companies.** A single-company 株式移転 is the canonical route to a pure holding company — see [[corporate-strategy/japan-holding-company-conversion|holding-company conversion]] for the dedicated treatment of HoldCo formation, where 株式移転 is one of three competing methods.
 
@@ -79,6 +81,8 @@ The 適格 (qualified) test mirrors the logic used across all Japanese 組織再
 | Selling shareholders | No immediate capital-gains tax on the share-for-share swap | Capital gain / deemed dividend can arise, especially on cash consideration |
 | Cash consideration | Breaks 適格 in the joint-business case | Common trigger for non-qualified treatment |
 
+Sources: this is a high-level organization-restructuring tax summary. The Ministry of Finance notes both stock-only rules and statutory exceptions, including cases involving a two-thirds relationship; qualification cannot be inferred from consideration alone. ^[Sources: https://www.mof.go.jp/tax_policy/summary/corporation/c06.htm; https://laws.e-gov.go.jp/document?lawid=340AC0000000034.]
+
 The practical rule of thumb is identical to the other regimes: **share consideration preserves 適格; cash consideration generally breaks it.** This is the same fault line that separates a share-funded combination from the cash-funded take-private routes in [[finance/japan-leveraged-buyout-economics|Japan leveraged-buyout economics]].
 
 ## 5. Where It Sits Among the Share-Side Regimes
@@ -90,6 +94,8 @@ Japan now has **three** share-consideration reorganization regimes. Choosing amo
 | **株式交付 (kabushiki koufu)** | >50% to <100% (partial control) | Existing | Friendly partial-control acquisition with stock — see [[corporate-strategy/kabushiki-koufu-stock-distribution-regime|株式交付 regime]] |
 | **株式交換 (kabushiki koukan)** | 100% (wholly-owned) | Existing | Full takeover / listed-affiliate cleanup with stock |
 | **株式移転 (kabushiki iten)** | 100% (wholly-owned) | **New HoldCo** | Holding-company formation / joint HoldCo |
+
+Sources: resulting ownership and parent-entity form follow the Companies Act. The use-case column is an analytical route label rather than evidence of tax qualification or transaction approval. ^[Source: https://laws.e-gov.go.jp/document?lawid=417AC0000000086.]
 
 For **asset-level** (rather than share-level) reorganizations — moving a *business* rather than *shares* — use [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|会社分割]] instead. The full option set, including the divestiture side, is mapped in [[corporate-strategy/spinoff-decision-tree-japan|the spinoff decision tree]].
 
@@ -105,6 +111,8 @@ Both regimes share the Companies Act reorganization timeline, which sets the rea
 | 債権者保護手続 (creditor objection) where required | ≥ 1 month objection period | Required where new debt-like consideration or specified conditions apply |
 | 反対株主の株式買取請求 (appraisal demand window) | Statutory window around the effective date | Dissenting-shareholder buy-out at fair value |
 | Effective date + registration | Filing within 2 weeks of effect | 株式移転 also registers the new HoldCo |
+
+Sources: ordinary sequencing is summarized from the Companies Act. Simplified / short-form treatment, consideration type, listed-company rules, and transaction facts can alter the required steps. ^[Source: https://laws.e-gov.go.jp/document?lawid=417AC0000000086.]
 
 A non-contentious 株式交換 or 株式移転 typically runs **2-3 months** from board approval; listed-company deals add FSA / TSE disclosure overhead under [[finance/japan-large-shareholding-disclosure|large-shareholding disclosure]] and the listing rules referenced in [[securities/japan-ipo-listing-disclosure-route|the IPO listing / disclosure route]].
 

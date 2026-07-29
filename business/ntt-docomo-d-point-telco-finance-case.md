@@ -1,168 +1,118 @@
 ---
-title: "NTT Docomo + d-Point + d-Barai + d-Card case — telco-as-finance-distribution-channel model with SMBC tie-up"
+title: "NTT DOCOMO finance integration case — Monex, net banking, d Card / d Payment, and NTT DOCOMO Financial Group"
 aliases:
   - "ntt-docomo-d-point-telco-finance-case"
   - "Docomo d-Point telco-finance template"
-  - "Docomo SMBC tie-up case"
+  - "NTT DOCOMO Financial Group case"
   - "telco-finance distribution channel"
 domain: "business"
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
-confidence: likely
-tags: [business, case-study, docomo, ntt, d-point, d-card, d-barai, smbc, telco-finance, japan]
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
+confidence: certain
+tags: [business, case-study, docomo, ntt, d-point, d-card, d-barai, monex, net-bank, telco-finance, japan]
 status: active
 sources:
-  - "https://www.docomo.ne.jp/english/info/"
-  - "https://www.nttdocomo.co.jp/corporate/ir/"
-  - "https://group.ntt/jp/newsrelease/"
-  - "https://www.smbcgroup.com/news/"
-  - "https://dpoint.jp/"
+  - "https://www.docomo.ne.jp/info/news_release/2023/10/04_00.html"
+  - "https://www.docomo.ne.jp/info/news_release/2025/05/29_01.html"
+  - "https://www.docomo.ne.jp/info/news_release/2025/12/19_00.html"
+  - "https://www.docomo.ne.jp/info/news_release/2026/03/31_00.html"
+  - "https://www.docomo.ne.jp/info/news_release/2026/05/08_00.html"
 ---
 
-# NTT Docomo + d-Point + d-Barai + d-Card case — telco-as-finance-distribution-channel model with SMBC tie-up
+# NTT DOCOMO finance integration case — Monex, net banking, d Card / d Payment, and NTT DOCOMO Financial Group
 
 ## Wiki route
 
-This entry sits under [[business/INDEX|business INDEX]] as a public-company strategic case. Read it against [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]] for the inverse-direction cross-subsidy pattern (finance subsidizes mobile vs telco subsidizes finance), [[business/gmo-internet-group|GMO Internet Group]] for an internet-to-finance conglomerate contrast, and [[megabanks/paypay-fg|PayPay FG]] for the SoftBank-side parallel. Pair with [[business/INDEX|business INDEX]] and [[payments/cashless-jp-landscape|payments INDEX]].
+This entry sits under [[business/INDEX|business INDEX]] as a public-company strategic case. Read it with [[megabanks/ndfg|NTT DOCOMO Financial Group]] for the entity profile, [[business/kddi-au-financial-bundling-case|KDDI / au financial bundling case]], [[business/softbank-paypay-financial-integration-case|SoftBank / PayPay financial integration case]], and [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]] for peer structures.
 
 ## TL;DR
 
-NTT Docomo (subsidiary of NTT Corp 9432, fully wholly-owned post-2020 TOB) operates the **d-Point / d-Card / d-Barai** financial-services stack as a **distribution channel for finance products to its mobile subscriber base** (~85mn d-Point members nationally). The 2024 SMBC strategic tie-up — under which SMBC subscribes to billions in Docomo financial-subsidiary stakes — formalized the inverse-Rakuten pattern: the telco provides distribution + subscriber data, the megabank provides balance sheet + product expertise + regulatory know-how.
+The former version of this page described a 2024 SMBC tie-up. NTT DOCOMO's official releases instead show a different sequence: it allied with Monex Group in 2023, consolidated Monex Securities in January 2024, launched a tender offer for SBI Sumishin Net Bank in May 2025, consolidated the bank on 2025-10-01, and started **NTT DOCOMO Financial Group** on 2026-07-01. The new intermediate holding company received the d Card / d Payment businesses and shares in specified finance subsidiaries. This is a shift from a distribution-only model to a regulated multi-vertical finance group, while the bank remains jointly governed with Sumitomo Mitsui Trust Bank. ^[Sources: https://www.docomo.ne.jp/info/news_release/2023/10/04_00.html; https://www.docomo.ne.jp/info/news_release/2025/05/29_01.html; https://www.docomo.ne.jp/info/news_release/2025/12/19_00.html; https://www.docomo.ne.jp/info/news_release/2026/03/31_00.html.]
 
-The architectural insight: rather than building a full FG inside the telco (Rakuten's path), Docomo positions the mobile subscription as the customer-acquisition layer and partners with [[megabanks/smfg|SMFG]] / SMBC for the regulated-balance-sheet layer. This is a **telco-as-channel + bank-as-balance-sheet** division of labor, not vertical integration.
+## 1. Verified integration sequence
 
-## 1. Pre-Tie-Up Docomo Finance Stack
+The dates and corporate actions below come from NTT DOCOMO's transaction and reorganization releases. ^[Sources: https://www.docomo.ne.jp/info/news_release/2023/10/04_00.html; https://www.docomo.ne.jp/info/news_release/2025/05/29_01.html; https://www.docomo.ne.jp/info/news_release/2025/12/19_00.html; https://www.docomo.ne.jp/info/news_release/2026/03/31_00.html.]
 
-| Service | Function | Pre-2024 status |
+| Date | Verified corporate action | Evidence boundary |
 |---|---|---|
-| **d-Point** | Loyalty points ecosystem | ~85mn members; integrated into mobile bills, retail, payments |
-| **d-Barai** | QR-code payment app | Competing with PayPay, Rakuten Pay, au PAY |
-| **d-Card** | Credit card (NTT Docomo brand, issued through Docomo subsidiary) | Co-issued historically with credit-card partners |
-| Docomo Insurance | Mobile-related insurance + general | Subscriber-tied distribution |
-| Docomo Investment | Robo-advisor / NISA route | Sub-scale vs SBI / Rakuten Securities |
+| 2023-10-04 | NTT DOCOMO announced a capital and business alliance with Monex Group and Monex Securities | The release set out the intermediate-company and governance structure |
+| 2024-01-04 | Monex Securities became an NTT DOCOMO consolidated subsidiary through DOCOMO Monex Holdings | Consolidation was based on substantive-control governance, despite DOCOMO's approximately 49% voting interest in the intermediate company |
+| 2025-05-29 | NTT DOCOMO announced a tender offer for SBI Sumishin Net Bank and a capital and business alliance | This replaced the old page's unsupported “bank layer supplied by SMBC” account |
+| 2025-10-01 | SBI Sumishin Net Bank became an NTT DOCOMO consolidated subsidiary | Subsequent capital reorganization left DOCOMO and Sumitomo Mitsui Trust Bank with 50% voting rights each |
+| 2026-03-31 | NTT DOCOMO announced the NTT DOCOMO Financial Group structure and an absorption-type company split | The release identified the transferred businesses and subsidiary shares |
+| 2026-07-01 | NTT DOCOMO Financial Group began operations | This was the effective date of the company split |
+| 2026-08-03 (scheduled as of the cited release) | SBI Sumishin Net Bank is to change its name to DOCOMO SMTB Net Bank | Keep this as scheduled until the effective-date announcement is checked |
 
-Pre-tie-up, Docomo had distribution and brand but lacked bank-grade balance sheet for deposit-taking, lending, and full payment-network economics.
+## 2. What moved under the intermediate holding company
 
-## 2. The 2024 SMBC Strategic Tie-Up
+NTT DOCOMO's 2026-03-31 release identifies the d Card and d Payment businesses and the shares of DOCOMO Insurance, DOCOMO Finance, DOCOMO Monex Holdings, and the bank as transferred items. It does not support treating every d-branded customer asset as a separately transferred legal entity. ^[Source: https://www.docomo.ne.jp/info/news_release/2026/03/31_00.html.]
 
-In 2024, Docomo and [[megabanks/smfg|SMFG]] (via SMBC) announced a strategic alliance under which SMBC took economic interests in Docomo's financial subsidiaries / product lines, including planned investment in d-Card-related entities and combined distribution agreements.
+| Layer | Publicly identified entity or business | Status at 2026-07-01 |
+|---|---|---|
+| Card and payment | d Card and d Payment businesses | Transferred to NTT DOCOMO Financial Group through the absorption-type company split |
+| Insurance | DOCOMO Insurance | Shares transferred to the intermediate holding company |
+| Consumer finance | DOCOMO Finance | Shares transferred to the intermediate holding company |
+| Securities | DOCOMO Monex Holdings / Monex Securities | The relevant holding-company shares were transferred |
+| Banking | SBI Sumishin Net Bank, with the announced DOCOMO SMTB Net Bank name change | Bank shares transferred; joint-governance terms with Sumitomo Mitsui Trust Bank remain relevant |
+| Loyalty and customer contact | d POINT and DOCOMO customer channels | Commercial integration is disclosed, but this table does not infer a separate legal transfer not specified in the release |
 
-Key features:
+## 3. Structure: ownership is not the same as product integration
 
-- SMBC provides balance-sheet capacity for credit card receivables, lending, and consumer finance
-- Docomo provides distribution into 80mn+ subscriber base and points ecosystem
-- Co-developed products (e.g., higher-tier credit card, deposit products) leverage both brands
-- Cross-marketing into Docomo subscriber base for SMBC products and into SMBC customer base for Docomo financial services
-- d-Card receivables securitization / refinancing benefits from SMBC funding cost
+The official releases support three distinct layers that should not be collapsed into one “super-app” ownership claim:
 
-This formalizes a pattern where the telco does not need to build out its own banking license — it leases SMBC's regulatory and balance-sheet infrastructure in exchange for distribution.
+1. **NTT / NTT DOCOMO ownership** — NTT DOCOMO remains under NTT.
+2. **NTT DOCOMO Financial Group governance** — the intermediate holding company coordinates the transferred finance businesses and holdings.
+3. **Licensed operating entities** — the bank, securities company, insurance entity, card and payment operations retain product-specific regulatory responsibilities.
 
-## 3. Telco-To-Finance Distribution Pattern
+The bank is also not a simple wholly owned DOCOMO bank. NTT DOCOMO's 2025-12-19 release describes a capital structure of 55.37% for DOCOMO and 44.63% for Sumitomo Mitsui Trust Bank, with 50% voting rights each after conversion of class shares. ^[Source: https://www.docomo.ne.jp/info/news_release/2025/12/19_00.html.]
 
-The Docomo model is a clean illustration of **telco-as-channel** economics:
+## 4. Comparison with other telecom-linked finance structures
 
-| Customer touchpoint | Why mobile subscription is the unlock |
-|---|---|
-| Identity verification | Mobile contracts already include KYC; can short-circuit financial-account opening |
-| Billing relationship | Monthly mobile bill becomes pre-existing payment relationship; easy to bolt on additional charges |
-| Data signal | Usage data, location, payment history feeds credit underwriting (with consent) |
-| Customer support | Mobile shops as in-person sales channel for financial products |
-| Trust / brand | National telco brand carries finance-product credibility |
-| Loyalty engine | d-Point as currency across mobile + finance + retail bind users |
+This table is a dated structural comparison, not a ranking of profitability or customer scale. Each row is limited to the cited group disclosures. ^[Sources: NTT DOCOMO: https://www.docomo.ne.jp/info/news_release/2026/03/31_00.html; KDDI / MUFG: https://www.mufg.jp/dam/pressrelease/2024/pdf/news-20241129-003_en.pdf; PayPay: https://about.paypay.ne.jp/en/about/; Rakuten Group: https://global.rakuten.com/corp/investors/financial/.]
 
-The mobile bill is the channel. The bank balance sheet is the back-end.
-
-## 4. Comparison Matrix — Telco-Finance Models In Japan
-
-| Group | Telco entity | Finance subsidiaries | Cross-subsidy direction | Bank partner |
+| Group | Finance coordination layer | Bank position | Securities position | Evidence-based description |
 |---|---|---|---|---|
-| **NTT Docomo** | Docomo (NTT 9432) | d-Point / d-Barai / d-Card | Telco → Finance | SMBC (2024 tie-up) |
-| **KDDI / au** | au (KDDI 9433) | au PAY / au Jibun Bank / au Insurance | Telco → Finance | MUFG (au Jibun Bank JV) |
-| **SoftBank** | SoftBank (9434) | [[megabanks/paypay-fg|PayPay FG]], PayPay Bank, PayPay Card | Telco → Finance | (Internal PayPay FG) |
-| **Rakuten** | [[payment-firms/rakuten-fg|Rakuten Mobile]] | Card / Bank / Securities / Insurance | Finance → Telco (inverse) — see [[business/rakuten-group-mobile-finance-bundling-case|Rakuten case]] | Mizuho (Securities partial sale 2023) |
-| **GMO Internet** | (no mobile) | [[business/gmo-internet-group|GMO Internet Group]] payment / bank / FX / crypto | Internet infra → Finance | Aozora (Net Bank JV) |
+| **NTT DOCOMO** | NTT DOCOMO Financial Group | Consolidated bank with joint voting governance alongside Sumitomo Mitsui Trust Bank | Monex Securities is consolidated through DOCOMO Monex Holdings | Telecom-linked intermediate holding company spanning card, payment, bank, securities, insurance and finance |
+| **KDDI / au** | au Financial Holdings | au Jibun Bank under the au finance perimeter after the announced MUFG transaction | The au Kabucom securities transaction moved the securities business toward MUFG | Bank / payments-centered structure with a different securities boundary |
+| **SoftBank / PayPay** | PayPay app and SoftBank Financial segment; “PayPay FG” is an analytical label | PayPay Bank is a PayPay group company | PayPay Securities is a PayPay group company | Payment-app-led distribution with separately licensed finance companies |
+| **Rakuten** | Rakuten Group ecosystem | Rakuten Bank is separately listed | Rakuten Securities has a capital alliance with Mizuho Securities | Group ecosystem spanning mobile, commerce and multiple finance companies |
 
-Docomo's distinction: largest telco subscriber base, latest to fully formalize bank partnership, and the only one explicitly going **partner-led rather than build-led** for the bank layer.
+## 5. What the evidence supports — and does not support
 
-## 5. Post-Tie-Up Strategic Implications
+The public record supports an integration thesis: DOCOMO is coordinating customer access, payments, cards, investing and banking under a dedicated finance governance layer. It does **not** by itself prove that telecom data is used for credit underwriting, that every customer can bypass financial KYC, that the bank supplies unlimited balance-sheet capacity, or that the integrated structure is more profitable than peers. Those questions require product terms, consent disclosures and segment-level financial evidence.
 
-For **NTT Docomo (NTT)**:
+Similarly, the d POINT member base, mobile subscriber counts and app users are different metrics. This case does not combine them into a single “addressable customers” number.
 
-- Avoids capital tied up in bank balance sheet
-- Faster product time-to-market via SMBC's existing regulated stack
-- Retains all upside from distribution / data / loyalty-engine economics
-- Free to integrate AI-agent payment rails (see [[fintech/ai-payment-two-tracks|AI payment two tracks]]) without bank-regulator constraints
+## 6. Monitoring points
 
-For **SMFG / SMBC**:
-
-- Access to 80mn+ Docomo subscriber distribution
-- Credit-card transaction volume growth in increasingly cashless economy
-- Defensive positioning vs Rakuten Card / [[card-issuers/paypay-card|PayPay Card]] / au PAY
-- Hedge against megabank-direct-distribution decline as digital channels dominate
-
-For **NTT Corp parent**:
-
-- d-Point / d-Card economics flow up to NTT after 2020 TOB simplification
-- Cleaner conglomerate logic than Rakuten — finance is channel-monetization not loss-funded growth play
-- Reduces own conglomerate-discount exposure by not building competing FG
-
-## 6. Comparison With Rakuten Direction
-
-| Dimension | NTT Docomo (telco → finance) | Rakuten (finance → telco) |
-|---|---|---|
-| Source of operating profit | Telco subscriber base | Card / Bank / Securities |
-| Destination of subsidy / capex | Finance product distribution | Mobile network buildout |
-| Bank balance sheet | Partner (SMBC) | Owned ([[banking/rakuten-bank|Rakuten Bank]]) |
-| Securities | Partner (limited build) | Owned ([[securities-firms/rakuten-securities|Rakuten Securities]], partial sold to Mizuho) |
-| Capex profile | Light (no network build for finance) | Heavy (mobile network) |
-| Conglomerate-discount risk | Low | High |
-| Cross-subsidy break-risk | None (no loss-making subsidiary) | High (mobile loss persistent) |
-
-The Docomo model is structurally more defensible because no subsidiary is loss-making — the entire stack monetizes the subscriber base, and SMBC provides the balance-sheet leverage.
-
-## 7. Counterpoints
-
-- The SMBC tie-up creates dependency on a single bank partner — substitution cost is high if relationship sours
-- d-Point / d-Card growth depends on Docomo subscriber retention; aggressive MNP price competition (especially from Rakuten Mobile) erodes the channel
-- d-Barai sub-scale vs PayPay (~60mn users) and Rakuten Pay (~70mn members) — distribution alone doesn't guarantee QR-payment leadership
-- NTT-owned simplification reduces minority shareholder discipline on financial-subsidiary performance
-- Tie-up economics not fully disclosed — exact revenue-sharing / equity-stake terms only partially public
-
-## 8. Open Questions
-
-- Will the SMBC tie-up extend to deeper integration (e.g., joint-branded deposit accounts, lending products)?
-- Can d-Barai close the gap with PayPay before QR-payment market consolidates further?
-- Will NTT spin out a unified financial-services entity using [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|partial-spinoff regime]] in future?
-- How does the Docomo + SMBC alliance interact with [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Securities × Mizuho]] and au + MUFG (au Jibun Bank)?
-- What is the AI-agent-payment angle (per [[fintech/ai-payment-two-tracks|AI payment two tracks]]) for the Docomo + SMBC stack?
+- Confirm the 2026-08-03 bank name change after its stated effective date.
+- Track NTT DOCOMO Financial Group's first full-period segment disclosure and any independently reported KPIs.
+- Separate legal ownership, voting control and app-level customer journeys when comparing the bank and Monex structures.
+- Check whether future releases identify additional assets transferred from NTT DOCOMO rather than inferring transfer from a shared d-brand.
 
 ## Related
 
 - [[business/INDEX|business INDEX]]
+- [[megabanks/ndfg|NTT DOCOMO Financial Group]]
+- [[business/kddi-au-financial-bundling-case|KDDI / au financial bundling case]]
+- [[business/softbank-paypay-financial-integration-case|SoftBank / PayPay financial integration case]]
 - [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]]
-- [[business/gmo-internet-group|GMO Internet Group]]
-- [[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]]
-- [[business/kitao-yoshitaka-sbi-independent-strategy-case|Kitao Yoshitaka SBI independent strategy]]
-- [[megabanks/smfg|SMFG]]
-- [[megabanks/paypay-fg|PayPay FG]]
-- [[megabanks/mufg|MUFG]]
-- [[payment-firms/rakuten-fg|Rakuten FG]]
+- [[megabanks/paypay-fg|PayPay finance ecosystem]]
+- [[payment-firms/rakuten-fg|Rakuten finance ecosystem]]
 - [[payments/cashless-jp-landscape|Japan cashless payment landscape]]
-- [[fintech/ai-payment-two-tracks|AI payment two tracks]]
-- [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|partial spinoff tax deferral]]
 - [[INDEX|FinWiki index]]
 
 ## Sources
 
-- NTT Docomo IR: https://www.nttdocomo.co.jp/corporate/ir/
-- NTT Group news releases: https://group.ntt/jp/newsrelease/
-- SMBC Group news: https://www.smbcgroup.com/news/
-- d-Point official portal: https://dpoint.jp/
-- NTT Docomo English info: https://www.docomo.ne.jp/english/info/
+- NTT DOCOMO, Monex capital and business alliance (2023-10-04): https://www.docomo.ne.jp/info/news_release/2023/10/04_00.html
+- NTT DOCOMO, tender offer for SBI Sumishin Net Bank (2025-05-29): https://www.docomo.ne.jp/info/news_release/2025/05/29_01.html
+- NTT DOCOMO, bank capital reorganization and announced name change (2025-12-19): https://www.docomo.ne.jp/info/news_release/2025/12/19_00.html
+- NTT DOCOMO, transition to the NTT DOCOMO Financial Group structure (2026-03-31): https://www.docomo.ne.jp/info/news_release/2026/03/31_00.html
+- NTT DOCOMO, organization changes effective 2026-07-01 (2026-05-08): https://www.docomo.ne.jp/info/news_release/2026/05/08_00.html
 
 ---
 
-> [!info] 校核状态
-> confidence: **likely**. Docomo group structure, d-Point member count, SMBC tie-up announcement publicly disclosed. Specific equity-stake terms and revenue-sharing economics are partial. Forward-looking integration scope is forecast.
+> [!info] Verification status
+> confidence: **certain** for the announced and completed corporate actions through 2026-07-01. The prior SMBC-tie-up narrative was removed because it was not supported by NTT DOCOMO's official transaction history. The 2026-08-03 bank name change remains a scheduled event at this review date.

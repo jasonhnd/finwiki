@@ -1,11 +1,12 @@
 ---
 source: corporate-strategy/japan-group-tsusan-consolidated-tax-regime
-source_hash: e67e19b3f08e6b7f
+source_hash: 7139207aec24dc38
 lang: en
+model: source-language-sync
 status: machine
 fidelity: ok
 title: "グループ通算制度 (Japan group tax-sharing regime) — the 2022 successor to 連結納税, loss-offsetting in wholly-owned groups, and its interaction with restructuring"
-translated_at: 2026-06-15T03:48:21.933Z
+translated_at: 2026-07-29T05:13:34.783Z
 ---
 
 # グループ通算制度 (Japan group tax-sharing regime) — the 2022 successor to 連結納税, loss-offsetting in wholly-owned groups, and its interaction with restructuring
@@ -47,6 +48,8 @@ The trade-off is complexity and commitment — which is why the regime is **elec
 | Administrative burden | Heavy on the parent | Distributed; e-filing mandated |
 | Scope | 100%-group | 100%-group (完全支配関係) |
 
+Sources: the effective date, separate-company filing, loss offsetting, and correction-blocking overview follow the NTA's current group-tax materials. The table is a system-level comparison and omits elections, transition rules, and exceptions. ^[Sources: https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/hojin/group_tsusan/index.htm; https://www.nta.go.jp/taxes/shiraberu/taxanswer/hojin/5900.htm.]
+
 The reform's purpose was to **keep the損益通算 benefit but kill the administrative drag** of single-return consolidation. Groups already in 連結納税 generally transitioned into グループ通算 automatically unless they filed a notice to opt out before the first fiscal year starting on/after 1 April 2022.
 
 ## 3. グループ法人税制 vs グループ通算制度 — Two Layers, Don't Confuse Them
@@ -59,6 +62,8 @@ This is the regime's most common point of confusion, mirroring the 株式分配-
 | Scope | Every 100%-group | 100%-group that elects |
 | Core content | Tax-deferred intra-group asset transfers (譲渡損益の繰延); **100% dividend exclusion** between group members; donation/receipt adjustments | **損益通算** of profits and losses across the group; group-level use of certain credits |
 | Mental model | The **baseline** rules that apply to *any* wholly-owned group whether you like it or not | An **add-on** that nets the group's taxable income |
+
+Sources: the distinction is grounded in the NTA's group-tax overview and the Corporation Tax Act. “Mental model” is explanatory shorthand; the operative scope, exclusions, election, approval, and computation rules remain those in current law and NTA guidance. ^[Sources: https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/hojin/group_tsusan/index.htm; https://laws.e-gov.go.jp/document?lawid=340AC0000000034.]
 
 So a 100%-group **always** gets the グループ法人税制 baseline (e.g., it can shuffle assets between members without triggering gain), and **may additionally elect** グループ通算 to net profits against losses. The two coexist.
 
@@ -116,6 +121,7 @@ A group-tax regime might look like pure compliance, but it is a **strategic stru
 ## Sources
 
 - 国税庁「グループ通算制度」: https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/hojin/group_tsusan/index.htm
+- 国税庁 No.5900「グループ通算制度の概要」: https://www.nta.go.jp/taxes/shiraberu/taxanswer/hojin/5900.htm
 - 国税庁 法人税法基本通達 1-4-5 (組織再編成): https://www.nta.go.jp/law/tsutatsu/kihon/hojin/01/01_04_05.htm
 - METI 経済法制 policy portal: https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/
 - 法人税法 (Corporation Tax Act, Act No. 34 of 1965 — グループ通算 / 組織再編成 provisions): https://laws.e-gov.go.jp/document?lawid=340AC0000000034

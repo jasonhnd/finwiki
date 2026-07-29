@@ -1,169 +1,138 @@
 ---
 source: business/jpx-public-company-as-market-infrastructure
-source_hash: 4c135e7a8303c287
+source_hash: a70cd7b1ada5d220
 lang: en
+model: source-language-sync
 status: machine
 fidelity: ok
-title: "Japan Exchange Group (JPX 8697) — listed exchange operator as market infrastructure"
-translated_at: 2026-05-30T16:08:36.699Z
+title: "Japan Exchange Group (JPX 8697) — listed company operating regulated market infrastructure"
+translated_at: 2026-07-29T05:13:34.783Z
 ---
 
-# Japan Exchange Group (JPX 8697) — listed exchange operator as market infrastructure
+# Japan Exchange Group (JPX 8697) — listed company operating regulated market infrastructure
 
 ## Wiki route
 
-This entry sits under [[business/INDEX|business INDEX]] as a public-company strategic case. Read it against [[business/brian-armstrong-coinbase-public-company-template|Brian Armstrong Coinbase exchange-as-public-company template]] for the crypto-native parallel, [[business/gmo-internet-group|GMO Internet Group]] for an internet-infrastructure-to-finance parallel, and [[securities/INDEX|securities INDEX]] / [[securities/japan-market-infrastructure-map|Japan market infrastructure map]] for the broader plumbing context. For JPX as the system itself see [[securities/tokyo-stock-exchange|Tokyo Stock Exchange]] and [[securities/osaka-exchange|Osaka Exchange]].
+This entry sits under [[business/INDEX|business INDEX]] as a listed market-infrastructure case. Compare its listed-company structure with the [[business/japan-listed-corp-strategic-restructuring-matrix|Japan listed-company restructuring matrix]], then read it with [[securities/japan-market-infrastructure-map|Japan market infrastructure map]], [[securities/tokyo-stock-exchange|Tokyo Stock Exchange]], [[securities/osaka-exchange|Osaka Exchange]], and [[securities/japan-securities-clearing-corp|Japan Securities Clearing Corporation]].
 
 ## TL;DR
 
-**Japan Exchange Group (JPX, TSE 8697)** is the listed holding company that owns Tokyo Stock Exchange (TSE), Osaka Exchange (OSE), Tokyo Commodity Exchange (TOCOM), and the central clearing / depository institutions for Japan's cash equity, derivatives, and commodity markets. Formed in 2013 by merger of TSE Group and OSE Group, JPX is the canonical Japan case of **a critical market infrastructure operator that is itself a publicly-listed for-profit company subject to regulatory oversight**.
+Japan Exchange Group (JPX, TSE 8697) is a listed holding company established on **2013-01-01** through the business combination of Tokyo Stock Exchange Group and Osaka Securities Exchange. Its group includes the cash-equity, derivatives, commodity, data / digital, self-regulatory and clearing entities described below. Japan Securities Depository Center (JASDEC) is a JPX **affiliate**, not a consolidated operating subsidiary in the published JPX group chart. ^[Sources: https://www.jpx.co.jp/english/corporate/about-jpx/business/; https://www.jpx.co.jp/english/corporate/about-jpx/history/; https://www.jpx.co.jp/english/corporate/about-jpx/organization/.]
 
-This dual status — regulator-overseen utility AND profit-maximizing listed entity — creates a tension at the heart of the business model. The template informs governance of any market infrastructure that goes public: how to align profit incentives with system-stability obligations, how to allocate operating margin between reinvestment in plumbing vs shareholder returns, and how regulators (FSA) influence pricing and strategic direction without owning equity.
+JPX is useful as a governance case because public shareholders own the holding company while licensed exchanges, a self-regulatory organization and a clearing organization perform public-interest market functions. That coexistence does not mean every fee, capital decision or outage rule is directly set by the Financial Services Agency; each claim must be tied to the applicable law, rule or disclosure.
 
-Comparable global cases: ICE (NYSE / futures), CME Group, Deutsche Börse, Nasdaq Inc., HKEX, SGX. JPX sits in the same global cohort but with distinctly Japanese regulatory and structural features.
+## 1. Current group map
 
-## 1. Group Structure
+The following table follows JPX's official business and organization pages. ^[Sources: https://www.jpx.co.jp/english/corporate/about-jpx/business/; https://www.jpx.co.jp/english/corporate/about-jpx/organization/.]
 
-| Layer | Entity | Function |
+| Entity | Group role | Stated operating boundary |
 |---|---|---|
-| **Holding company** | Japan Exchange Group, Inc. (JPX, 8697) | Listed holdco |
-| **Cash equity** | Tokyo Stock Exchange (TSE) | Equity listing + trading |
-| **Derivatives** | Osaka Exchange (OSE) | Equity index futures / options |
-| **Commodity** | Tokyo Commodity Exchange (TOCOM) | Commodity derivatives |
-| **Clearing** | Japan Securities Clearing Corporation (JSCC) | Central counterparty for equities + derivatives |
-| **Depository** | (separate institution — JASDEC) | Securities custody / settlement |
+| Japan Exchange Group, Inc. | Listed holding company | Group strategy, governance and capital-market reporting |
+| Tokyo Stock Exchange, Inc. | Cash-equity exchange | Licensed financial instruments exchange operating securities markets |
+| Osaka Exchange, Inc. | Financial-derivatives exchange | Licensed financial instruments exchange operating derivatives markets |
+| Tokyo Commodity Exchange, Inc. | Commodity exchange | Licensed commodity exchange operating commodity-related markets |
+| JPX Market Innovation & Research, Inc. | Data, index, technology and related business development | Extends group services beyond traditional exchange operation |
+| Japan Exchange Regulation | Self-regulatory organization | Listing examination, listed-company compliance, market surveillance and participant examination |
+| Japan Securities Clearing Corporation | Central counterparty / clearing organization | Clears listed products and specified OTC products |
+| Japan Securities Depository Center | Post-trade depository institution outside the consolidated entity list | JPX describes JASDEC as an affiliate |
 
-JPX wraps four operating exchanges + clearing under one listed holdco. JASDEC is separate but operationally integrated. See [[securities/japan-market-infrastructure-map|Japan market infrastructure map]] for the full diagram.
+This structure is not accurately summarized as “four operating exchanges plus a depository.” It contains three named exchange companies, separate regulatory and clearing functions, JPXI, and an affiliated depository outside the listed subsidiary set.
 
-## 2. The 2013 TSE-OSE Merger — Strategic Rationale
+## 2. Formation and expansion
 
-JPX was created on 2013-01-01 through the merger of:
+The chronology table uses JPX's official group history. ^[Source: https://www.jpx.co.jp/english/corporate/about-jpx/history/.]
 
-- **Tokyo Stock Exchange Group** (cash equities, then ~95%+ of Japan equity volume)
-- **Osaka Securities Exchange Group** (derivatives — Nikkei 225 futures, formerly some equities)
-
-The merger logic:
-
-1. **End cross-market complexity** — Pre-merger, OSE listed Nikkei futures while TSE listed cash equities of those underlying names; cash + derivatives on one operator is industry-standard globally
-2. **Scale to compete with global exchange consolidators** — ICE, CME, Deutsche Börse, HKEX had been consolidating; Japan needed to match
-3. **Clearing integration** — Unified clearing across cash equity and derivatives reduces collateral fragmentation
-4. **Cost rationalization** — Two competing technology stacks → one
-5. **Listing of holdco** — Both pre-merger groups were already public companies; merger preserved public-company status with cleaner structure
-
-Post-merger: derivatives moved fully to OSE, cash equity stayed on TSE, with one shared technology stack (Arrowhead for cash, J-GATE for derivatives).
-
-## 3. Business Mix
-
-| Revenue line | Description | Rough share of revenue |
+| Date | Event | Structural effect |
 |---|---|---|
-| **Transaction fees** | Per-trade fees on cash equity, derivatives, commodity orders | Largest |
-| **Listing fees** | Initial + annual listing fees from issuers | Significant |
-| **Clearing fees** | JSCC central clearing revenue | Significant |
-| **Information services / data** | Real-time + delayed market data licenses | Growing |
-| **Other** | Co-location, indices, tech services | Smaller |
+| 2013-01-01 | JPX established through the TSE Group / OSE business combination | Created the holding-company group |
+| 2013-01-04 | JPX listed on TSE First Section | Continued the listed-company form |
+| 2013-07-16 | OSE cash-equity market integrated into TSE | Concentrated group cash-equity operation at TSE |
+| 2014-03-24 | TSE derivatives market integrated into OSE; OSE renamed Osaka Exchange | Concentrated group financial derivatives at OSE |
+| 2019-10-01 | JPX acquired TOCOM as a subsidiary | Added commodity-market infrastructure |
+| 2021-12-01 / 2022-04-01 | JPXI established / began operations | Created the data, digital and network-oriented entity |
 
-Listing fees provide a stable annuity revenue; transaction fees fluctuate with market volume. The data/information line has been growing as data-driven trading expands, mirroring the global ICE / CME pattern.
+The record supports operational consolidation and later expansion. It does not establish that two complete technology stacks were immediately replaced by one system on the merger date.
 
-## 4. Comparison With Global Listed Exchange Operators
+## 3. Business model and revenue categories
 
-| Operator | Ticker | Markets covered | Distinctive feature |
-|---|---|---|---|
-| **JPX** | TSE 8697 | TSE, OSE, TOCOM, JSCC | Domestic-focused, FSA-supervised, Yen-denominated revenue |
-| **ICE** (Intercontinental Exchange) | NYSE: ICE | NYSE, futures, fixed-income, data | Mortgage data + fixed-income expansion |
-| **CME Group** | NASDAQ: CME | Chicago futures (CME, CBOT, NYMEX, COMEX) | Pure futures focus, regulatory dominance |
-| **Deutsche Börse** | DB1: XETR | Frankfurt cash + Eurex derivatives + Clearstream | Pan-EU consolidation push |
-| **Nasdaq Inc.** | NDAQ | Nasdaq market + Nordic Bourse + market technology | Tech-as-product ("Market Technology" segment) |
-| **HKEX** | HK: 388 | Hong Kong cash + derivatives + LME (commodities) | China stock-connect link |
-| **SGX** | SGX: S68 | Singapore cash + derivatives | Asia-Pacific derivatives hub |
-| **LSE Group** | LON: LSEG | London cash + Refinitiv (data) + LCH (clearing) | Data-driven (post-Refinitiv 2021) |
+JPX's official business page and JPX Report 2025 identify the following revenue categories; the table intentionally omits unsupported “largest / significant / growing” labels. ^[Sources: https://www.jpx.co.jp/english/corporate/about-jpx/business/; https://www.jpx.co.jp/english/corporate/investor-relations/ir-library/integrated-report/tvdivq0000008t9q-att/JPXReport2025_A3.pdf.]
 
-JPX is distinguished by:
+| Revenue category | Disclosed basis or customer relationship |
+|---|---|
+| Trading services revenue | Trading fees, participant basic fees, access fees, trading-system facility usage fees and related items |
+| Clearing services revenue | Mainly fees for obligation-assumption / clearing services performed by JSCC |
+| Listing services revenue | Initial / additional listing fees and annual listing fees |
+| Information services revenue | Market-information fees, index business and related information services |
+| System services revenue | System and network services including disclosed facility usage |
+| Other operating revenue | Items outside the principal categories in JPX financial reporting |
 
-- **Domestic-only revenue base** — almost no international listing competition; almost no cross-border trading volume captured
-- **FSA-supervised pricing** — informal regulatory oversight on listing-fee schedule and transaction-fee structure
-- **Slower expansion into data/technology** — vs LSEG-Refinitiv or Nasdaq-Market-Technology pattern
-- **PBR-below-1 push** — JPX itself drove a high-profile "improve PBR" initiative for listed companies starting 2023, separately from JPX's own valuation
+Transaction-sensitive revenue can vary with securities trading value and derivatives volume. Listing, information and system categories have different drivers, so a single “exchange fee” label obscures the economics.
 
-## 5. The Regulator-Utility-Public-Company Tension
+## 4. Function and accountability map
 
-JPX operates under a tension specific to listed market-infrastructure operators:
+The table distinguishes commercial incentives from the documented market-infrastructure responsibilities. It is an analytical mapping of JPX's business description, statutory entity roles and system-failure disclosures, not a claim that FSA sets each commercial decision. ^[Sources: https://www.jpx.co.jp/english/corporate/about-jpx/business/; https://www.fsa.go.jp/en/laws_regulations/index.html; https://www.jpx.co.jp/english/corporate/news/news-releases/0060/20201019-01.html.]
 
-| Dimension | Profit-maximizing impulse | System-stability obligation |
+| Decision area | Commercial consideration | Infrastructure / regulatory consideration |
 |---|---|---|
-| Listing fees | Raise to maximize revenue | Keep low to attract issuers and grow market |
-| Transaction fees | Raise to maximize revenue | Keep low to encourage trading and price discovery |
-| Capex on systems | Minimize for margin | Invest heavily for resilience / disaster recovery |
-| Outage handling | Minimize disclosure to protect reputation | Full transparency (mandated by FSA) |
-| Shareholder returns | Maximize dividend / buyback | Retain capital for clearing-house default fund + tech investment |
-| Strategic alliances | Pursue value-accretive M&A | Maintain neutrality across market participants |
+| Fees and products | Revenue, customer demand and competitive positioning | Fair, accessible and orderly market operation under applicable rules |
+| System investment | Cost, capacity and service development | Reliability, resilience, recovery and market continuity |
+| Listing services | Issuer acquisition and service revenue | Listing examination, continued compliance and investor protection |
+| Market data | Licensing and product economics | Accurate and timely dissemination under the market framework |
+| Clearing | Clearing-service economics | Counterparty-risk management and continuity of post-trade processing |
+| Incident response | Reputation and operating cost | Transparent recovery procedures, participant coordination and regulatory response |
 
-FSA influence over JPX's fee schedule, system-investment requirements, and operational resilience standards constrains pure profit-maximizing behavior. The 2020-10 system outage (Arrowhead failure that closed cash equity for a full day) and subsequent governance reform illustrate this tension in practice.
+The tension is real, but “profit maximization versus utility” is an analysis frame rather than an assertion that JPX may ignore its licensed or self-regulatory duties whenever a commercial incentive exists.
 
-## 6. Read-Across To Crypto-Native Exchanges
+## 5. 2020 cash-equity system failure
 
-| JPX | Coinbase ([[business/brian-armstrong-coinbase-public-company-template|Coinbase template]]) | Binance ([[business/cz-binance-founder-handoff-case|CZ Binance handoff]]) |
-|---|---|---|
-| Public-company | Public-company | Private |
-| FSA-supervised | SEC + state-level supervised | Multi-jurisdictional |
-| Regulator-utility tension | Regulator-litigant tension | Regulator-enforcement-target tension |
-| Listed for 13+ years | Listed since 2021 | Not listed |
-| Domestic-focused revenue | US-focused with international expansion | Global |
-| Outage-disclosure obligations | Same | Variable |
+On **2020-10-01**, a hardware failure and failed switchover prevented market-information distribution, and TSE halted trading in all listed issues for the entire day. TSE later published the incident report and convened a council to improve recovery standards, procedures and order handling. ^[Sources: https://www.jpx.co.jp/english/news/1030/20201001-05.html; https://www.jpx.co.jp/english/corporate/news/news-releases/0060/20201019-01.html; https://www.jpx.co.jp/english/corporate/research-study/system-failure/index.html.]
 
-The template lesson: a listed exchange operator's strategic flexibility is constrained by its regulator relationship in ways that don't apply to pure brokers or asset managers. JPX provides a useful baseline for what "fully compliant, regulator-aligned, public" looks like in exchange operation.
+The incident is a concrete example of why an exchange operator's technology choices are not merely normal internal IT decisions: a failure can interrupt price formation across the national cash-equity market. It also shows why incident causation, recovery procedure and governance response should be separated rather than collapsed into a generic “outage obligation.”
 
-## 7. Strategic Pattern
+## 6. Listed-company reading
 
-JPX's playbook can be summarized as:
+For an investor, JPX combines several features:
 
-1. **Operate critical market infrastructure as a regulated utility**
-2. **Wrap utility operation in a listed for-profit holding structure**
-3. **Use FSA relationship as both constraint and competitive moat** (de facto barrier to alternative venue entry)
-4. **Reinvest in technology infrastructure to maintain operational reliability**
-5. **Expand into adjacent revenue lines** (data, indices, clearing services) cautiously
-6. **Push listed-company governance reform** (PBR>1 initiative, prime-market criteria) as both shareholder advocacy and market quality lift
+- a publicly traded parent with shareholder reporting and capital allocation;
+- transaction-sensitive revenues tied to market activity;
+- recurring listing, information, clearing and system-service relationships;
+- high fixed investment in trading and post-trade infrastructure;
+- licensed, self-regulatory and clearing responsibilities across different group entities;
+- competition from other trading venues and data / technology providers without equivalence of legal role.
 
-## 8. Counterpoints
+Comparisons with Coinbase, Binance, ICE or other operators require a row-by-row jurisdiction and product analysis. Public listing alone does not make crypto exchanges, securities exchanges and clearing houses operationally or legally equivalent.
 
-- The PTS (Proprietary Trading System) market — Japannext, Cboe Japan — captures some equity trading volume, though far less than US ATS / EU MTF share
-- Domestic-only revenue base caps growth without M&A; JPX has not made transformative cross-border acquisitions like LSEG-Refinitiv
-- Regulator-utility tension constrains buyback / dividend ambitions that pure-listed peers can pursue
-- Public-company status enables ICE / CME / Nasdaq to acquire JPX in theory; in practice, regulatory and political barriers make this very unlikely
-- Some critics argue JPX is too conservative on technology spend; others argue it has gone too far on system-resilience investment
+## 7. Monitoring points
 
-## 9. Open Questions
-
-- Will JPX expand internationally (acquisitions, JV stakes in other exchanges) or remain domestic-focused?
-- How will the rise of cryptocurrency / token / digital-asset trading affect JPX's long-term competitive moat? See [[exchanges/INDEX|exchanges INDEX]] for the parallel-track development
-- Will the data / information / index revenue line grow to rival transaction fees, as at LSEG / Nasdaq?
-- How will [[securities/odx-start-stb-secondary-market|ODX-START secondary market for security tokens]] affect TSE's monopoly on equity-like instruments?
-- Could PTS market share grow enough to materially erode JPX transaction-fee revenue?
+- Use current JPX filings for revenue amounts and category changes.
+- Keep TSE, OSE, TOCOM, JPXI, JPX-R, JSCC and JASDEC legal roles distinct.
+- Verify any fee-control or capital requirement claim against the specific rule or supervisory action.
+- Track system-resilience disclosures and incident reports, not only availability claims.
+- Separate market-operator policy initiatives from the valuation or conduct of JPX as its own listed issuer.
 
 ## Related
 
 - [[business/INDEX|business INDEX]]
-- [[business/brian-armstrong-coinbase-public-company-template|Brian Armstrong Coinbase template]]
-- [[business/cz-binance-founder-handoff-case|CZ Binance founder-handoff case]]
-- [[business/gmo-internet-group|GMO Internet Group]]
+- [[securities/japan-market-infrastructure-map|Japan market infrastructure map]]
 - [[securities/tokyo-stock-exchange|Tokyo Stock Exchange]]
 - [[securities/osaka-exchange|Osaka Exchange]]
-- [[securities/japan-market-infrastructure-map|Japan market infrastructure map]]
-- [[securities/japan-securities-clearing-corp|Japan Securities Clearing Corp]]
+- [[securities/japan-securities-clearing-corp|Japan Securities Clearing Corporation]]
 - [[securities/japan-securities-depository-center|Japan Securities Depository Center]]
-- [[securities/japan-ipo-listing-disclosure-route|Japan IPO listing / disclosure route]]
-- [[securities/odx-start-stb-secondary-market|ODX-START secondary market]]
-- [[securities/japan-pts-liquidity-data-guide|Japan PTS liquidity data guide]]
+- [[securities/japan-pts-liquidity-data-guide|Japan PTS liquidity guide]]
+- [[financial-regulators/japan-exchange-group|Japan Exchange Group regulator profile]]
 - [[INDEX|FinWiki index]]
 
 ## Sources
 
-- JPX Group About: https://www.jpx.co.jp/english/corporate/about-jpx/
-- JPX Investor Relations: https://www.jpx.co.jp/english/corporate/investor-relations/
-- JPX News: https://www.jpx.co.jp/english/news/
-- FSA English portal: https://www.fsa.go.jp/en/
-- ICE Investor Relations (peer reference): https://ir.theice.com/
+- JPX, Our Business: https://www.jpx.co.jp/english/corporate/about-jpx/business/
+- JPX, History: https://www.jpx.co.jp/english/corporate/about-jpx/history/
+- JPX, Organizational Structure: https://www.jpx.co.jp/english/corporate/about-jpx/organization/
+- JPX Report 2025: https://www.jpx.co.jp/english/corporate/investor-relations/ir-library/integrated-report/tvdivq0000008t9q-att/JPXReport2025_A3.pdf
+- TSE, 2020 cash-equity system-failure report: https://www.jpx.co.jp/english/corporate/news/news-releases/0060/20201019-01.html
+- JPX, recurrence-prevention council: https://www.jpx.co.jp/english/corporate/research-study/system-failure/index.html
+- FSA, laws and regulations portal: https://www.fsa.go.jp/en/laws_regulations/index.html
 
 ---
 
-> [!info] 校核状态
-> confidence: **likely**. JPX structure, 2013 merger, business mix, and regulatory framework are public record. Exact revenue share by line and forward-looking competitive dynamics carry ordinary uncertainty.
+> [!info] Verification status
+> confidence: **certain** for group structure, official revenue categories, dated history and the 2020 incident. Competitive, valuation and future-strategy questions remain analytical.
