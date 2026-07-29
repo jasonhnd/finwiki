@@ -1,11 +1,11 @@
 ---
 source: exchanges/solana-ecosystem-dex-comparison
-source_hash: fe3f3690c1ee483b
+source_hash: 01db5473c0ae58e7
 lang: en
 status: machine
 fidelity: ok
 title: "Comparison of the Solana ecosystem DEX cluster"
-translated_at: 2026-06-15T03:48:21.908Z
+translated_at: 2026-07-29T11:50:43.000Z
 ---
 
 # Comparison of the Solana ecosystem DEX cluster
@@ -17,34 +17,36 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 
 ## Overview
 
-On the SVM (Sealevel Virtual Machine) environment, which differs from EVM-family chains (Ethereum / L2), Solana has built its own DEX ecosystem. At the top layer reigns Jupiter, an aggregator (DEX-integrating router), and beneath it coexist the 3  major AMMs Raydium / Orca / Meteora, plus the perp-specialist Drift and the institutional CLOB Phoenix — a 6 -layer structure. 400ms blocks + parallel execution + low transaction cost (< $0.001) form the base supporting retail mania and the memecoin economy, and it achieved rapid growth in the 2023-2026  period. For the EVM ecosystem comparison see ([[exchanges/global-dex-major-five-comparison]]).
+Solana hosts protocols with different designs, including swap aggregation, multiple AMM types, concentrated liquidity, DLMM, perpetuals, and an on-chain CLOB. This entry compares Jupiter, Raydium, Orca, Meteora, Drift, and Phoenix using their official documentation; it does not cover trading-volume ranks, TVL shares, or fixed fee and block-time figures. See [[exchanges/global-dex-major-five-comparison]] for the EVM comparison.
 
-## Top 6  protocol profiles
+## Six protocol profiles
 
-- **Jupiter** — the router layer that integrates all of Solana's DEXs as an aggregator. It launched the JUP token via airdrop in 2024-01  (one of the largest retroactive distributions in Solana history). It is the de facto entry point through which 70%+ of Solana DEX trading volume is routed via Jupiter.
-- **Raydium** — an old-guard AMM (constant product x*y=k) running since 2021 . RAY token. It carries a legacy of former Serum orderbook integration, but is now reactivated as a memecoin listing route.
-- **Orca** — adopts a concentrated liquidity AMM (Whirlpools design, similar to Uniswap v3 ). ORCA token. Strong in the retail layer with a UX-friendly UI.
-- **Meteora** — surged with DLMM (Dynamic Liquidity Market Maker) and Memecoin pools. The MET token is pending 2024-2025  confirmation. Functions as the secondary-liquidity layer for memecoins originating from Pump.fun.
-- **Drift Protocol** — a perp DEX (oracle pricing + AMM hybrid). DRIFT token. As a Solana perp hub it is also listed in ([[exchanges/global-perp-dex-five-comparison]]).
-- **Phoenix** — realizes a fully on-chain CLOB (order-book method) on Solana. Institutional low-latency design.
+- **Jupiter** — an aggregator that searches routes across multiple liquidity sources.
+- **Raydium** — an AMM with several pool designs, including CPMM and CLMM, plus swap and liquidity-provision functions; it is not limited to constant product.
+- **Orca** — a concentrated-liquidity AMM built around Whirlpools.
+- **Meteora** — provides DLMM and other dynamic pools.
+- **Drift Protocol** — a trading protocol centered on perpetuals and combining order, liquidity, and oracle mechanisms. It is also covered in [[exchanges/global-perp-dex-five-comparison]].
+- **Phoenix** — a fully on-chain central limit order book on Solana.
 
-## Comparison table (design / use / TVL)
+## Comparison table (design / use)
 
-| Name | Design | Main use | token |
-|---|---|---|---|
-| Jupiter | aggregator router | integrated swap entry | JUP |
-| Raydium | constant product AMM | general spot + memecoin listing | RAY |
-| Orca | concentrated liquidity AMM | retail UX swap | ORCA |
-| Meteora | DLMM + memecoin pools | memecoin liquidity | token status not confirmed in the current public-source scope |
-| Drift | oracle + AMM perp | leveraged trading | DRIFT |
-| Phoenix | on-chain CLOB | institutional spot order book | (none) |
+The table compares functions confirmed in each protocol's official documentation reviewed on 2026-07-29. Token status, daily volume, TVL, and user segments are volatile and are not evaluation columns. ^[Sources: https://dev.jup.ag/docs/; https://docs.raydium.io/raydium/; https://docs.orca.so/; https://docs.meteora.ag/; https://docs.drift.trade/; https://docs.phoenix.trade/.]
 
-The coexistence of 6  designs (aggregator / standard AMM / concentrated / DLMM / perp / CLOB) shows the depth of the Solana ecosystem. 24h vol totals a $0.5-2B scale, the majority of which is routed via Jupiter. The DEX cluster occupies 30-40% of Solana ecosystem TVL.
+| Name | Design confirmed in official material | Main use |
+|---|---|---|
+| Jupiter | aggregator / routing | swaps across multiple liquidity sources |
+| Raydium | CPMM, CLMM, and other pool types | swaps, liquidity provision, pool creation |
+| Orca | Whirlpools (concentrated-liquidity AMM) | swaps and concentrated-liquidity provision |
+| Meteora | DLMM and dynamic pools | swaps and liquidity provision |
+| Drift | perpetuals plus order and liquidity mechanisms | derivatives trading |
+| Phoenix | fully on-chain CLOB | limit-order spot trading |
+
+This classification identifies primary design functions; it is not a rank or a hierarchy of six layers.
 
 ## memecoin economics (Solana-specific)
 
-As a Solana-specific phenomenon, the memecoin-issuance platform **Pump.fun**, which launched in 2024-, has been explosively boosting DEX trading volume. A pipeline of issue on Pump.fun → bonding curve → listing on Raydium / Meteora → instant trading via Jupiter swap has been established, with new issuance at a scale of 1000+ tokens/day. High volatility combined with retail mania has become a structural driver of DEX trading volume.
+Liquidity paths combining token-launch platforms, AMMs or DLMMs, and aggregators appear on Solana, but a token does not necessarily migrate from one named platform to one named DEX. Issuance counts, volume, and destination shares vary substantially by period, so no fixed values are used.
 
 ## International comparison — contrast with EVM-family chains
 
-In contrast with the EVM (Uniswap / Curve / Aerodrome) ecosystem, Solana SVM achieves low cost + low latency through a single L1 + parallel execution + 400ms blocks, whereas EVM takes a multi-chain distributed structure with a rollup + sequencer model. For the AMM design evolution lineage see ([[exchanges/amm-design-evolution]]), and for ve(3,3) governance see ([[exchanges/ve33-governance-mechanism]]). The pattern of a chain-native DEX flipping the incumbent first-mover corresponds to ([[exchanges/native-dex-flip-incumbent-pattern]]). On the regulation + access side, domestic VASPs are advancing SOL spot handling ([[exchanges/jvcea-whitelist-listing-timeline]]), but direct access to the Solana DEXs themselves is only via domestic wallets, and there is no automatic routing via CEXs. For cross-chain route design read [[systems/cross-chain-four-poles-overview|cross-chain four poles overview]] and [[exchanges/cross-chain-bridge-cex-deposit-withdrawal|cross-chain bridge × CEX 入出金]] together, and for the cross-perp comparison read [[exchanges/global-perp-dex-five-comparison|global perp DEX 5 社比較]] as well.
+EVM and Solana differ in execution environment, account model, and liquidity distribution, so this entry does not judge superiority using one-time block-time or fee figures. See [[exchanges/amm-design-evolution]] for AMM design evolution and [[exchanges/ve33-governance-mechanism]] for ve(3,3) governance. Domestic handling of SOL and access to on-chain DEXs are separate questions; this entry does not claim that only a specific wallet path exists or that CEX routing does not exist. For route design, read [[systems/cross-chain-four-poles-overview]] and [[exchanges/cross-chain-bridge-cex-deposit-withdrawal]]; for perpetuals, see [[exchanges/global-perp-dex-five-comparison]].

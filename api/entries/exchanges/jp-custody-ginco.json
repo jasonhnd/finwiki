@@ -24,9 +24,9 @@
     "domain": "exchanges",
     "type": null,
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-06-24",
-    "review_by": "2026-08-08",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "fintech",
@@ -56,16 +56,15 @@
     "4. 業務範囲",
     "主要製品・サービス",
     "対応事業領域",
-    "5. 市占・位置付け",
-    "6. 沿革・重大事件"
+    "5. 公開情報上の位置付け",
+    "6. 公式会社概要スナップショット"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 10,
     "wikilinks": [
       "exchanges/INDEX",
       "exchanges/fsa-vasp-registration-system",
       "exchanges/jp-custody-fireblocks-japan",
-      "exchanges/jp-custody-komainu",
       "exchanges/jp-exchange-bittrade",
       "exchanges/jp-institutional-custody-three-pillars",
       "exchanges/jp-vasp-cold-storage-segregation-rules",
@@ -78,7 +77,6 @@
       "https://finwiki.zksc.io/ja/domains/exchanges/",
       "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
       "https://finwiki.zksc.io/ja/exchanges/jp-custody-fireblocks-japan/",
-      "https://finwiki.zksc.io/ja/exchanges/jp-custody-komainu/",
       "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bittrade/",
       "https://finwiki.zksc.io/ja/exchanges/jp-institutional-custody-three-pillars/",
       "https://finwiki.zksc.io/ja/exchanges/jp-vasp-cold-storage-segregation-rules/",
@@ -97,9 +95,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 5394,
-    "word_like_tokens": 875,
-    "inbound_wikilinks_count": 10,
-    "last_modified": "2026-06-24"
+    "nonspace_chars": 4744,
+    "word_like_tokens": 761,
+    "inbound_wikilinks_count": 9,
+    "last_modified": "2026-07-29"
   }
 }

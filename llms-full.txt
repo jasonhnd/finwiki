@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-07-29T19:24:35+09:00
+Generated: 2026-07-29T21:36:48+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1605
-Public pages listed: 1604
+Markdown files: 1606
+Public pages listed: 1605
 
 ## Reading Rules
 
@@ -30,7 +30,7 @@ Public pages listed: 1604
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/CHANGELOG.md
 - Domain: root
 - Type: control_doc
-- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-07-29 - Table provenance batch 06 corrections (#236), 日本語, English
+- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-07-29 - Table provenance batch 07 corrections (#237), 日本語, English
 
 ### How to navigate FinWiki — reader profile guide
 - URL: https://finwiki.zksc.io/HOW-TO-NAVIGATE.md
@@ -3446,7 +3446,7 @@ Public pages listed: 1604
 - Headings: Bithumb（빗썸）— 韓国 KRW spot CEX overview, Wiki route, 1. 法人・株主, 2. 登録・牌照状況（韓国制度）, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/cex-upbit-korea/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/, https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/, https://finwiki.zksc.io/ja/exchanges/korea-cex-five-pillars-comparison/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/
 
-### CoinDCX — インド最大 CEX / FIU-IND PMLA registered overview
+### CoinDCX — インド CEX / FIU-IND PMLA reporting entity overview
 - URL: https://finwiki.zksc.io/ja/exchanges/cex-coindcx-india/
 - Japanese HTML: https://finwiki.zksc.io/ja/exchanges/cex-coindcx-india/
 - English alternate: https://finwiki.zksc.io/en/exchanges/cex-coindcx-india/
@@ -3456,10 +3456,10 @@ Public pages listed: 1604
 - Domain: exchanges
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it against WazirX for the closest India peer / contrast context, global CEX top 10 comparison for the broader global benchmark, and グローバル VASP 規制比較 for the regulatory boundary view.
-- Headings: CoinDCX — インド最大 CEX / FIU-IND PMLA registered overview, Wiki route, 1. 法人・株主, 2. 登録・牌照状況（インド制度）, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
+- Headings: CoinDCX — インド CEX / FIU-IND PMLA reporting entity overview, Wiki route, 1. 法人・株主, 2. 登録・牌照状況（インド制度）, 3. 取扱通貨, 4. 業務範囲, 5. 規模情報の読み方, 6. 沿革・重大事件
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/cex-bithumb-korea/, https://finwiki.zksc.io/ja/exchanges/cex-wazirx-india/, https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/, https://finwiki.zksc.io/ja/exchanges/global-crypto-forensics-vendor-layer/, https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/, https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bitget/, https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bybit/
 
-### Coinone（코인원）— 韓国 CEX 中堅 / NH農协銀行実名口座 / 独立系 overview
+### Coinone（코인원）— 韓国 KRW spot CEX / NH農协銀行実名口座 overview
 - URL: https://finwiki.zksc.io/ja/exchanges/cex-coinone-korea/
 - Japanese HTML: https://finwiki.zksc.io/ja/exchanges/cex-coinone-korea/
 - English alternate: https://finwiki.zksc.io/en/exchanges/cex-coinone-korea/
@@ -3468,11 +3468,11 @@ Public pages listed: 1604
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/exchanges/cex-coinone-korea.md
 - Domain: exchanges
 - Type: wiki_entry
-- Summary: This entry sits under exchanges index. Read it against 韓国 5 大 CEX 制度比較 for the Korea peer / regulatory context, Upbit / Bithumb for the closest top-tier peers, and global CEX top 10 comparison for the broader system / market boundary.
-- Headings: Coinone（코인원）— 韓国 CEX 中堅 / NH農协銀行実名口座 / 独立系 overview, Wiki route, 1. 法人・株主, 2. 登録・牌照状況（韓国制度）, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
+- Summary: This entry sits under exchanges index. Read it against 韓国 5 大 CEX 制度比較 for the Korea peer / regulatory context, Upbit / Bithumb for peer comparisons, and global CEX top 10 comparison for the broader system / market boundary.
+- Headings: Coinone（코인원）— 韓国 KRW spot CEX / NH農协銀行実名口座 overview, Wiki route, 1. 法人・株主, 2. 登録・牌照状況（韓国制度）, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/cex-bithumb-korea/, https://finwiki.zksc.io/ja/exchanges/cex-gopax-korea/, https://finwiki.zksc.io/ja/exchanges/cex-korbit-korea/, https://finwiki.zksc.io/ja/exchanges/cex-upbit-korea/, https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/, https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/, https://finwiki.zksc.io/ja/exchanges/korea-cex-five-pillars-comparison/
 
-### Foxbit — ブラジル CEX #2 / 老舗 BRL ペア流動性 overview
+### Foxbit — ブラジル老舗 CEX / BRL ペア overview
 - URL: https://finwiki.zksc.io/ja/exchanges/cex-foxbit-brazil/
 - Japanese HTML: https://finwiki.zksc.io/ja/exchanges/cex-foxbit-brazil/
 - English alternate: https://finwiki.zksc.io/en/exchanges/cex-foxbit-brazil/
@@ -3481,11 +3481,11 @@ Public pages listed: 1604
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/exchanges/cex-foxbit-brazil.md
 - Domain: exchanges
 - Type: wiki_entry
-- Summary: This entry sits under exchanges index. Read it against Mercado Bitcoin for the closest Brazil peer / contrast context（#1），global CEX top 10 comparison for the broader global benchmark, and グローバル VASP 規制比較 for the regulatory boundary view.
-- Headings: Foxbit — ブラジル CEX #2 / 老舗 BRL ペア流動性 overview, Wiki route, 1. 法人・株主, 2. 登録・牌照状況（ブラジル制度）, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
+- Summary: This entry sits under exchanges index. Read it against Mercado Bitcoin for the closest Brazil peer / contrast context, global CEX top 10 comparison for the broader global benchmark, and グローバル VASP 規制比較 for the regulatory boundary view.
+- Headings: Foxbit — ブラジル老舗 CEX / BRL ペア overview, Wiki route, 1. 法人・株主, 2. 登録・牌照状況（ブラジル制度）, 3. 取扱通貨, 4. 業務範囲, 5. 規模情報の読み方, 6. 沿革・重大事件
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/cex-bithumb-korea/, https://finwiki.zksc.io/ja/exchanges/cex-coindcx-india/, https://finwiki.zksc.io/ja/exchanges/cex-mercado-bitcoin-brazil/, https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/, https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/, https://finwiki.zksc.io/ja/exchanges/rwa-tokenization-cex-integration/
 
-### GOPAX（고팍스）— 韓国 CEX #5 / Binance 2023-02 過半数取得 → FIU 抗議で部分後退 overview
+### GOPAX（고팍스）— 韓国 CEX / Binance 出資 overview
 - URL: https://finwiki.zksc.io/ja/exchanges/cex-gopax-korea/
 - Japanese HTML: https://finwiki.zksc.io/ja/exchanges/cex-gopax-korea/
 - English alternate: https://finwiki.zksc.io/en/exchanges/cex-gopax-korea/
@@ -3495,10 +3495,10 @@ Public pages listed: 1604
 - Domain: exchanges
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it against 韓国 5 大 CEX 制度比較 for the Korea peer / regulatory context, Upbit / Bithumb for the closest top-tier peers, and global CEX top 10 comparison for the broader system / market boundary.
-- Headings: GOPAX（고팍스）— 韓国 CEX #5 / Binance 2023-02 過半数取得 → FIU 抗議で部分後退 overview, Wiki route, 1. 法人・株主, 2. 登録・牌照状況（韓国制度）, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
+- Headings: GOPAX（고팍스）— 韓国 CEX / Binance 出資 overview, Wiki route, 1. 法人・株主, 2. 登録・牌照状況（韓国制度）, 3. 取扱通貨, 4. 業務範囲, 5. 規模情報の読み方, 6. 沿革・重大事件
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/cex-bithumb-korea/, https://finwiki.zksc.io/ja/exchanges/cex-coinone-korea/, https://finwiki.zksc.io/ja/exchanges/cex-korbit-korea/, https://finwiki.zksc.io/ja/exchanges/cex-upbit-korea/, https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/, https://finwiki.zksc.io/ja/exchanges/global-crypto-exchange-bankruptcy-comparison/, https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/, https://finwiki.zksc.io/ja/exchanges/korea-cex-five-pillars-comparison/
 
-### Korbit（코빗）— 韓国初の CEX / SK Square 子会社 / 4-pair-bank exclusivity overview
+### Korbit（코빗）— 韓国初の CEX / SK Square 出資 / Shinhan 実名口座 overview
 - URL: https://finwiki.zksc.io/ja/exchanges/cex-korbit-korea/
 - Japanese HTML: https://finwiki.zksc.io/ja/exchanges/cex-korbit-korea/
 - English alternate: https://finwiki.zksc.io/en/exchanges/cex-korbit-korea/
@@ -3508,7 +3508,7 @@ Public pages listed: 1604
 - Domain: exchanges
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it against 韓国 5 大 CEX 制度比較 for the Korea peer / regulatory context, Upbit / Bithumb for the closest top-tier peers, and global CEX top 10 comparison for the broader system / market boundary.
-- Headings: Korbit（코빗）— 韓国初の CEX / SK Square 子会社 / 4-pair-bank exclusivity overview, Wiki route, 1. 法人・株主, 2. 登録・牌照状況（韓国制度）, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
+- Headings: Korbit（코빗）— 韓国初の CEX / SK Square 出資 / Shinhan 実名口座 overview, Wiki route, 1. 法人・株主, 2. 登録・牌照状況（韓国制度）, 3. 取扱通貨, 4. 業務範囲, 5. 規模情報の読み方, 6. 沿革・重大事件
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/cex-bithumb-korea/, https://finwiki.zksc.io/ja/exchanges/cex-coinone-korea/, https://finwiki.zksc.io/ja/exchanges/cex-gopax-korea/, https://finwiki.zksc.io/ja/exchanges/cex-upbit-korea/, https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/, https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/, https://finwiki.zksc.io/ja/exchanges/korea-cex-five-pillars-comparison/
 
 ### CEX matching engine + cold/hot wallet 内部架構
@@ -3522,9 +3522,9 @@ Public pages listed: 1604
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it against 国内 VASP コールド保管 95% + 分別管理制度 for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.
 - Headings: CEX matching engine + cold/hot wallet 内部架構, Wiki route, 1. matching engine 概要, 2. CLOB matching engine 設計要素, 3. RFQ / OTC engine, 4. cold/hot wallet 内部架構, 5. 主要技術スタック
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/amm-design-evolution/, https://finwiki.zksc.io/ja/exchanges/bybit-lazarus-hack-detailed-analysis/, https://finwiki.zksc.io/ja/exchanges/coincheck-nem-hack-detailed-analysis/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/global-institutional-custody-five-pillars/, https://finwiki.zksc.io/ja/exchanges/jp-cex-sales-vs-exchange-model-economics/, https://finwiki.zksc.io/ja/exchanges/jp-institutional-custody-three-pillars/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-cold-storage-segregation-rules/, https://finwiki.zksc.io/ja/security/bytecode-forensic-three-tier-verify/, https://finwiki.zksc.io/ja/security/forensic-identity-anchor-chain/, https://finwiki.zksc.io/ja/security/module-path-confusion-supply-chain-attack/
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/amm-design-evolution/, https://finwiki.zksc.io/ja/exchanges/bybit-lazarus-hack-detailed-analysis/, https://finwiki.zksc.io/ja/exchanges/coincheck-nem-hack-detailed-analysis/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/global-institutional-custody-five-pillars/, https://finwiki.zksc.io/ja/exchanges/jp-cex-sales-vs-exchange-model-economics/, https://finwiki.zksc.io/ja/exchanges/jp-institutional-custody-three-pillars/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-cold-storage-segregation-rules/, https://finwiki.zksc.io/ja/security/bytecode-forensic-three-tier-verify/, https://finwiki.zksc.io/ja/security/forensic-identity-anchor-chain/
 
-### Mercado Bitcoin — ブラジル最大 CEX / SoftBank 出資 / RWA tokenization push overview
+### Mercado Bitcoin — ブラジル CEX / RWA tokenization overview
 - URL: https://finwiki.zksc.io/ja/exchanges/cex-mercado-bitcoin-brazil/
 - Japanese HTML: https://finwiki.zksc.io/ja/exchanges/cex-mercado-bitcoin-brazil/
 - English alternate: https://finwiki.zksc.io/en/exchanges/cex-mercado-bitcoin-brazil/
@@ -3534,7 +3534,7 @@ Public pages listed: 1604
 - Domain: exchanges
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it against Foxbit for the closest Brazil peer / contrast context, global CEX top 10 comparison for the broader global benchmark, and RWA tokenization × CEX integration for the RWA-on-CEX vertical.
-- Headings: Mercado Bitcoin — ブラジル最大 CEX / SoftBank 出資 / RWA tokenization push overview, Wiki route, 1. 法人・株主, 2. 登録・牌照状況（ブラジル制度）, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
+- Headings: Mercado Bitcoin — ブラジル CEX / RWA tokenization overview, Wiki route, 1. 法人・株主, 2. 登録・牌照状況（ブラジル制度）, 3. 取扱通貨, 4. 業務範囲, 5. 規模情報の読み方, 6. 沿革・重大事件
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/cex-bithumb-korea/, https://finwiki.zksc.io/ja/exchanges/cex-coindcx-india/, https://finwiki.zksc.io/ja/exchanges/cex-foxbit-brazil/, https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/, https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/, https://finwiki.zksc.io/ja/exchanges/rwa-tokenization-cex-integration/
 
 ### CEX 自家 token 戦略比較 — BNB / OKB / HT / KCS / BGB 等の経済機制
@@ -3550,7 +3550,7 @@ Public pages listed: 1604
 - Headings: CEX 自家 token 戦略比較 — BNB / OKB / HT / KCS / BGB 等の経済機制, Wiki route, 概要, 主要 CEX 自家 token 比較, 経済機制の trade-off, 規制リスク (米 SEC + EU MiCA), 国内 CEX 不在の構造的理由, 関連
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/, https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-binance-japan/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-okcoin-japan/, https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bitget/, https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bybit/, https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-kucoin/, https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-mexc/, https://finwiki.zksc.io/ja/exchanges/jvcea-whitelist-token-listing/, https://finwiki.zksc.io/ja/exchanges/us-crypto-licensing-multi-layer-system/
 
-### Upbit（업비트）/ Dunamu — 韓国 spot 市場圧倒的首位 overview
+### Upbit（업비트）/ Dunamu — 韓国 KRW spot CEX overview
 - URL: https://finwiki.zksc.io/ja/exchanges/cex-upbit-korea/
 - Japanese HTML: https://finwiki.zksc.io/ja/exchanges/cex-upbit-korea/
 - English alternate: https://finwiki.zksc.io/en/exchanges/cex-upbit-korea/
@@ -3559,9 +3559,9 @@ Public pages listed: 1604
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/exchanges/cex-upbit-korea.md
 - Domain: exchanges
 - Type: wiki_entry
-- Summary: This entry sits under exchanges index. Read it against 韓国 5 大 CEX 制度比較 for the Korea peer / regulatory context, Bithumb for the closest peer comparison（#2），and global CEX top 10 comparison for the broader global market context.
-- Headings: Upbit（업비트）/ Dunamu — 韓国 spot 市場圧倒的首位 overview, Wiki route, 1. 法人・株主, 2. 登録・牌照状況（韓国制度）, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/cex-bithumb-korea/, https://finwiki.zksc.io/ja/exchanges/coincheck-nem-hack-detailed-analysis/, https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/, https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/, https://finwiki.zksc.io/ja/exchanges/korea-cex-five-pillars-comparison/
+- Summary: This entry sits under exchanges index. Read it against 韓国 5 大 CEX 制度比較 for the Korea peer / regulatory context, Bithumb for a close peer comparison, and global CEX top 10 comparison for the broader global market context.
+- Headings: Upbit（업비트）/ Dunamu — 韓国 KRW spot CEX overview, Wiki route, 1. 法人・株主, 2. 登録・牌照状況（韓国制度）, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/cex-bithumb-korea/, https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/, https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/, https://finwiki.zksc.io/ja/exchanges/korea-cex-five-pillars-comparison/
 
 ### ベトナム暗号通貨取引所ランドスケープ — SBV 規制曖昧 / ONUS / Remitano / グレー市場 overview
 - URL: https://finwiki.zksc.io/ja/exchanges/cex-vietnam-overview/
@@ -3576,7 +3576,7 @@ Public pages listed: 1604
 - Headings: ベトナム暗号通貨取引所ランドスケープ — SBV 規制曖昧 / ONUS / Remitano / グレー市場 overview, Wiki route, 1. 規制環境概要（2026 年時点）, SBV（State Bank of Vietnam）の公式立場, 課税, AML/CFT, 2. 主要事業者プロファイル, ONUS（旧称 VNDC）
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/cex-bithumb-korea/, https://finwiki.zksc.io/ja/exchanges/cex-coindcx-india/, https://finwiki.zksc.io/ja/exchanges/cex-mercado-bitcoin-brazil/, https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/, https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/, https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bybit/, https://finwiki.zksc.io/ja/exchanges/sg-mas-dpt-licensing-overview/
 
-### WazirX — インド CEX / 2024-07 Liminal hack ~$235M 被害 overview
+### WazirX — インド CEX / 2024-07 cyberattack overview
 - URL: https://finwiki.zksc.io/ja/exchanges/cex-wazirx-india/
 - Japanese HTML: https://finwiki.zksc.io/ja/exchanges/cex-wazirx-india/
 - English alternate: https://finwiki.zksc.io/en/exchanges/cex-wazirx-india/
@@ -3586,7 +3586,7 @@ Public pages listed: 1604
 - Domain: exchanges
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it against CoinDCX for the closest India peer / contrast context, Bybit Lazarus hack for parallel North Korean attribution pattern, and グローバル CEX 破綻比較 for the restructuring / scheme-of-arrangement framework.
-- Headings: WazirX — インド CEX / 2024-07 Liminal hack ~$235M 被害 overview, Wiki route, 1. 法人・株主, 2. 登録・牌照状況（インド制度）, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
+- Headings: WazirX — インド CEX / 2024-07 cyberattack overview, Wiki route, 1. 法人・株主, 2. 登録・牌照状況（インド制度）, 3. 取扱通貨, 4. 業務範囲, 5. 規模情報の読み方, 6. 沿革・重大事件
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/bybit-lazarus-hack-detailed-analysis/, https://finwiki.zksc.io/ja/exchanges/cex-coindcx-india/, https://finwiki.zksc.io/ja/exchanges/coincheck-nem-hack-detailed-analysis/, https://finwiki.zksc.io/ja/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis/, https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/, https://finwiki.zksc.io/ja/exchanges/global-crypto-exchange-bankruptcy-comparison/, https://finwiki.zksc.io/ja/exchanges/global-crypto-forensics-vendor-layer/
 
 ### Coincheck NEM 580 億円流出事件 詳細分析 (2018-01)
@@ -3624,7 +3624,7 @@ Public pages listed: 1604
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/exchanges/crypto-custody-provider-landscape-matrix.md
 - Domain: exchanges
 - Type: wiki_entry
-- Summary: 機関向け暗号資産カストディ市場は (1) 技術モデル (cold storage / MPC / hybrid) × (2) ライセンス階層 (Trust Charter / VASP / vendor only) × (3) 顧客セグメント (CEX / hedge fund / ETF issuer / SWF / pension) の三軸で分化している。本マトリクスは日本 3 強 (Ginco / Komainu / Fireblocks Japan) + 米系 4 強 (Coinbase Custody / Fidelity Digital / Anchorage / BitGo) +
+- Summary: 機関向け暗号資産カストディ市場は (1) 技術モデル (cold storage / MPC / hybrid) × (2) ライセンス階層 (Trust Charter / VASP / vendor only) × (3) 顧客セグメント (CEX / hedge fund / ETF issuer / SWF / pension) の三軸で分化している。本マトリクスは日本で参照される Ginco / Komainu / Fireblocks Japan、米系の Coinbase Custody / Fidelity Digital / Anchorage / BitGo、Big Bank
 - Headings: 暗号資産カストディ プロバイダー ランドスケープ マトリクス — Japan + Global 機関カストディ 10 社の技術・規制・顧客比較, TL;DR, Wiki route, Why this matrix matters, Per-custodian sections, A. 日本 B2B vendor 3 強 (国内 VASP インフラ供給), B. 米系 4 強 (Trust Charter Qualified Custodian), C. Big Bank 系 (G-SIB のデジタル資産参入)
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/btc-spot-etf-japan-impact/, https://finwiki.zksc.io/ja/exchanges/cex-matching-engine-wallet-architecture/, https://finwiki.zksc.io/ja/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis/, https://finwiki.zksc.io/ja/exchanges/ftx-japan-100pct-return-case-study/, https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/, https://finwiki.zksc.io/ja/exchanges/global-institutional-custody-five-pillars/, https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/, https://finwiki.zksc.io/ja/exchanges/japan-stablecoin-issuer-regulatory-classification-matrix/, https://finwiki.zksc.io/ja/exchanges/japan-vasp-business-model-competitive-matrix/, https://finwiki.zksc.io/ja/exchanges/jp-custody-fireblocks-japan/, https://finwiki.zksc.io/ja/exchanges/jp-custody-ginco/
 
@@ -3651,7 +3651,7 @@ Public pages listed: 1604
 - Domain: exchanges
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it against Raydium for the Solana AMM peer comparison, Solana エコシステム DEX 群比較 for the broader Solana DEX layer, and AMM 設計進化系譜 for the system / design boundary.
-- Headings: Orca Whirlpools — Solana 系集中流動性 AMM overview, Wiki route, 1. プロトコル概要, 2. Whirlpools CLMM の設計, 3. UX / 設計思想, 4. Raydium との比較（Solana 2 大 AMM）, 5. 主要事件・沿革, 6. ガバナンス・経済モデル
+- Headings: Orca Whirlpools — Solana 系集中流動性 AMM overview, Wiki route, 1. プロトコル概要, 2. Whirlpools CLMM の設計, 3. UX / 設計思想, 4. Orca 公開仕様スナップショット, 5. 主要事件・沿革, 6. ガバナンス・経済モデル
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/amm-design-evolution/, https://finwiki.zksc.io/ja/exchanges/dex-raydium-solana/, https://finwiki.zksc.io/ja/exchanges/global-dex-major-five-comparison/, https://finwiki.zksc.io/ja/exchanges/native-dex-flip-incumbent-pattern/, https://finwiki.zksc.io/ja/exchanges/solana-ecosystem-dex-comparison/
 
 ### Pendle Finance — yield tokenization プロトコル（PT/YT）overview
@@ -3719,7 +3719,7 @@ Public pages listed: 1604
 - Headings: FSA 業務改善命令 (BIO) 国内 VASP 行政処分履歴 (2018-2026), Wiki route, 1. 制度概要, 2. 主要 BIO timeline (2018-2026), 3. BIO の典型構造 (5 要素), 4. 規制反射, 5. 海外比較
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/coincheck-nem-hack-detailed-analysis/, https://finwiki.zksc.io/ja/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis/, https://finwiki.zksc.io/ja/exchanges/fsa-foreign-exchange-warning-system/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-custodiem/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-dmm-bitcoin/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-zaif/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-incident-history/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-regulatory-timeline/
 
-### FSA 海外無登録暗号資産取引所 警告書発出制度 (2018-2025)
+### FSA 海外無登録暗号資産取引所 警告書発出制度
 - URL: https://finwiki.zksc.io/ja/exchanges/fsa-foreign-exchange-warning-system/
 - Japanese HTML: https://finwiki.zksc.io/ja/exchanges/fsa-foreign-exchange-warning-system/
 - English alternate: https://finwiki.zksc.io/en/exchanges/fsa-foreign-exchange-warning-system/
@@ -3729,8 +3729,8 @@ Public pages listed: 1604
 - Domain: exchanges
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it against FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for peer / contrast context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system / regulatory boundary.
-- Headings: FSA 海外無登録暗号資産取引所 警告書発出制度 (2018-2025), Wiki route, 制度概要, 警告書発出履歴 (主要 8 事業者), 警告事業者の対応パターン (3 種), 撤退, 法人化 (唯一の正規化路径), 継続稼働 (警告無視)
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-business-improvement-orders-history/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-binance-japan/, https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-binance-holdings-legacy/, https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bitcastle/, https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bitforex/, https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bitget/, https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bybit/, https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-kucoin/, https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-lbank/
+- Headings: FSA 海外無登録暗号資産取引所 警告書発出制度, Wiki route, 制度概要, FSA 個別公表で確認できる主要警告ラウンド, 関連
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-business-improvement-orders-history/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/, https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-binance-holdings-legacy/, https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bitcastle/, https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bitforex/, https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bitget/, https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bybit/, https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-kucoin/, https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-lbank/, https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-mexc/
 
 ### FSA crypto operator registry — snapshot delta log
 - URL: https://finwiki.zksc.io/ja/exchanges/fsa-snapshot-delta-log/
@@ -3742,8 +3742,8 @@ Public pages listed: 1604
 - Domain: exchanges
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it against FSA 暗号資産交換業登録制度 for the registration framework, JP VASP M&A 史 for entity consolidation context, and FSA 海外無登録警告書制度 for the unregistered foreign-operator side.
-- Headings: FSA crypto operator registry — snapshot delta log, Wiki route, 目的, 記録テンプレート（snapshot 単位）, YYYY-MM-DD snapshot delta, 既知の主要 snapshot 変動履歴（過去 2 年）, 更新ワークフロー, JVCEA 会員一覧との突合
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-foreign-exchange-warning-system/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/ftx-japan-100pct-return-case-study/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitbank/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-custodiem/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-dmm-bitcoin/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-line-xenesis/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-ma-consolidation-history/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-regulatory-timeline/
+- Headings: FSA crypto operator registry — snapshot delta log, Wiki route, 目的, 記録テンプレート（snapshot 単位）, YYYY-MM-DD snapshot delta, 保存済み registry snapshot の比較, 更新ワークフロー, JVCEA 会員一覧との突合
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-foreign-exchange-warning-system/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitbank/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-line-xenesis/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-ma-consolidation-history/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-regulatory-timeline/, https://finwiki.zksc.io/ja/exchanges/jvcea-spot-volume-statistics-analysis/, https://finwiki.zksc.io/ja/financial-regulators/missing-financial-institutions-backlog/
 
 ### FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件
 - URL: https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/
@@ -3784,7 +3784,7 @@ Public pages listed: 1604
 - Headings: グローバル暗号資産 prime brokerage 層 — Hidden Road / FalconX / Galaxy / B2C2 / Cumberland, Wiki route, 概要, Top 5 プレイヤー, ビジネスモデル, リスク管理, 日本市場との接点, 関連リンク
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/btc-spot-etf-japan-impact/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/, https://finwiki.zksc.io/ja/exchanges/global-crypto-exchange-bankruptcy-comparison/, https://finwiki.zksc.io/ja/exchanges/global-institutional-custody-five-pillars/, https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/, https://finwiki.zksc.io/ja/exchanges/jp-crypto-market-maker-otc-layer/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-crypto-garage/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-custodiem/, https://finwiki.zksc.io/ja/exchanges/jp-institutional-custody-three-pillars/, https://finwiki.zksc.io/ja/exchanges/rwa-tokenization-cex-integration/
 
-### グローバル CEX top 10 ランキング比較 (2025-2026)
+### グローバル CEX ランキング参照ガイド
 - URL: https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/
 - Japanese HTML: https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/
 - English alternate: https://finwiki.zksc.io/en/exchanges/global-cex-top10-comparison/
@@ -3794,8 +3794,8 @@ Public pages listed: 1604
 - Domain: exchanges
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it against global dex major five comparison for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.
-- Headings: グローバル CEX top 10 ランキング比較 (2025-2026), Wiki route, 概要, Top 10 比較表, 規制ホスト分布 + 日本市場アクセス状況
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-foreign-exchange-warning-system/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/global-dex-major-five-comparison/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-binance-japan/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-coinbase-japan/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-okcoin-japan/, https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-binance-holdings-legacy/, https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bitget/, https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bybit/, https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-kucoin/, https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-mexc/
+- Headings: グローバル CEX ランキング参照ガイド, Wiki route, 概要, ライブランキング入口, 比較時の確認事項
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-foreign-exchange-warning-system/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/global-dex-major-five-comparison/
 
 ### 暗号資産取引所 倒産処理 国際比較
 - URL: https://finwiki.zksc.io/ja/exchanges/global-crypto-exchange-bankruptcy-comparison/
@@ -3807,7 +3807,7 @@ Public pages listed: 1604
 - Domain: exchanges
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it against グローバル CEX top 10 ランキング比較 (2025-2026) for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.
-- Headings: 暗号資産取引所 倒産処理 国際比較, Wiki route, 概要, 6 大破綻案件比較表, 制度的要因 (弁済速度差), 弁済形態, 規制反射, 関連条目
+- Headings: 暗号資産取引所 倒産処理 国際比較, Wiki route, 概要, 主要手続の公式 portal, 比較上の注意, 関連条目
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/coincheck-nem-hack-detailed-analysis/, https://finwiki.zksc.io/ja/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis/, https://finwiki.zksc.io/ja/exchanges/fsa-business-improvement-orders-history/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/ftx-japan-100pct-return-case-study/, https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/, https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-cold-storage-segregation-rules/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-incident-history/, https://finwiki.zksc.io/ja/exchanges/mtgox-bankruptcy-processing-timeline/, https://finwiki.zksc.io/ja/exchanges/us-crypto-licensing-multi-layer-system/
 
 ### グローバル暗号資産 forensics vendor 層 — Chainalysis / Elliptic / TRM / Crystal 比較
@@ -3871,7 +3871,7 @@ Public pages listed: 1604
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/exchanges/global-perp-dex-competitive-deep-dive-matrix.md
 - Domain: exchanges
 - Type: wiki_entry
-- Summary: Perpetual-futures DEXs sit on three structurally distinct liquidity models — CLOB (central limit order book on-chain or hybrid), vAMM / pool-counterparty (single multi-asset LP pool serves all traders), and hybrid / oracle-pricing — and a reader who flattens them into "all perp DEXs" will misread fe
+- Summary: Perpetual-futures DEXs use structurally different liquidity models: CLOB, vAMM / pool-counterparty, and hybrid / oracle-pricing. This entry compares venue and version architecture, including dYdX v3 / v4 and GMX v1 / v2, without freezing fees, leverage, listed markets, settlement parameters, volume,
 - Headings: Global perp DEX competitive deep-dive matrix, TL;DR, Wiki route, Why this matrix matters, Per-DEX deep-dive, dYdX v3 (StarkEx L2, 2021-2023), dYdX v4 (Cosmos appchain, 2023-10 launch), Hyperliquid (Hyperliquid L1, 2023-)
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/amm-design-evolution/, https://finwiki.zksc.io/ja/exchanges/cex-matching-engine-wallet-architecture/, https://finwiki.zksc.io/ja/exchanges/cross-chain-bridge-cex-deposit-withdrawal/, https://finwiki.zksc.io/ja/exchanges/global-cex-prime-brokerage-layer/, https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/, https://finwiki.zksc.io/ja/exchanges/global-dex-major-five-comparison/, https://finwiki.zksc.io/ja/exchanges/global-perp-dex-five-comparison/, https://finwiki.zksc.io/ja/exchanges/japan-cex-parent-fg-adjacency-matrix/, https://finwiki.zksc.io/ja/exchanges/jvcea-whitelist-token-listing/, https://finwiki.zksc.io/ja/exchanges/liquid-staking-restaking-cex-exposure/, https://finwiki.zksc.io/ja/exchanges/native-dex-flip-incumbent-pattern/
 
@@ -3897,9 +3897,9 @@ Public pages listed: 1604
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/exchanges/global-vasp-regulatory-comparison-matrix.md
 - Domain: exchanges
 - Type: wiki_entry
-- Summary: 世界の主要 VASP (Virtual Asset Service Provider) 規制は 8 極構造 に収斂してきた: 日本 (FSA + JVCEA 二層) / 韓国 (FSC + FIU 単一) / 香港 (SFC VATP) / シンガポール (MAS DPT) / EU (MiCA CASP) / 米国 (連邦 + 50 州フラグメント) / UAE (VARA 単独) / 英国 (FCA AML 中心 + 段階的本格化)。本エントリは 法源・ライセンス階層・必要資本・分別管理 (cold storage %)・AML/Travel Rule・ステーブルコイン規制・クロスボーダー
+- Summary: 本エントリは、日本・韓国・香港・シンガポール・EU・米国・UAE・英国という 8 つの法域を、現行規制の確認入口として並べる。制度が単一モデルへ収斂したとは扱わず、法源、license class、資産分別、AML / Travel Rule、stablecoin、cross-border、marketing、enforcement、開示、例外を法域ごとの一次資料で確認する。各極の詳細は exchanges/jp-vasp-regulatory-timeline / exchanges/eu-mica-casp-regime-overview / exchanges/us-crypto-lic
 - Headings: グローバル VASP 規制 8 極比較マトリクス — JP / KR / HK / SG / EU / US / UAE / UK, TL;DR, Wiki route, Key facts, A. 法源・規制当局・施行時期, B. ライセンス区分・階層, C. 活動カバレッジ (spot / derivatives / custody / staking / lending / NFT marketplace), D. 資本要件・分別管理
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/coincheck-nem-hack-detailed-analysis/, https://finwiki.zksc.io/ja/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis/, https://finwiki.zksc.io/ja/exchanges/eu-mica-casp-regime-overview/, https://finwiki.zksc.io/ja/exchanges/fsa-foreign-exchange-warning-system/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/, https://finwiki.zksc.io/ja/exchanges/hk-sfc-vasp-licensing-overview/, https://finwiki.zksc.io/ja/exchanges/jp-cex-staking-lending-regulation/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-aml-travel-rule-implementation/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-cold-storage-segregation-rules/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-regulatory-timeline/
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/coincheck-nem-hack-detailed-analysis/, https://finwiki.zksc.io/ja/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis/, https://finwiki.zksc.io/ja/exchanges/eu-mica-casp-regime-overview/, https://finwiki.zksc.io/ja/exchanges/fsa-foreign-exchange-warning-system/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/, https://finwiki.zksc.io/ja/exchanges/hk-sfc-vasp-licensing-overview/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-aml-travel-rule-implementation/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-cold-storage-segregation-rules/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-regulatory-timeline/, https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/
 
 ### 香港 SFC VASP ライセンス制度 — VATP regime + 持牌 CEX overview
 - URL: https://finwiki.zksc.io/ja/exchanges/hk-sfc-vasp-licensing-overview/
@@ -3925,7 +3925,7 @@ Public pages listed: 1604
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it against JCBA — 日本暗号資産ビジネス協会 for peer / contrast context and JVCEA — 認定自主規制協会 for the broader system / regulatory boundary.
 - Headings: JBA — 日本ブロックチェーン協会 (Japan Blockchain Association), Wiki route, 概要, 沿革, 現在の活動領域, 組織, JCBA / JVCEA との棲み分け (三層構造), 著名な歴史的会員 / 代表者
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jcba-japan-crypto-business-association/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitbank/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-aml-travel-rule-implementation/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-regulatory-timeline/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-security-audit-certification/, https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jcba-japan-crypto-business-association/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-aml-travel-rule-implementation/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-regulatory-timeline/, https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/
 
 ### Japan CEX parent FG adjacency matrix
 - URL: https://finwiki.zksc.io/ja/exchanges/japan-cex-parent-fg-adjacency-matrix/
@@ -3938,7 +3938,7 @@ Public pages listed: 1604
 - Type: wiki_entry
 - Summary: A Japanese 暗号資産交換業者 (FSA-registered VASP) is rarely a standalone business — it is almost always a node inside a parent financial group (FG) that already runs securities, banking, payments, points, remittance, insurance, or e-commerce. The FG-adjacency dimension is what determines (a) funding cost fo
 - Headings: Japan CEX parent FG adjacency matrix, TL;DR, Wiki route, Why this matrix matters, Per-operator profiles, SBI VC Trade — SBI HD (8473), GMO Coin — GMO Financial HD (7177) / GMO Internet Group (9449), bitFlyer — independent (no listed parent)
-- First resolved wikilinks: https://finwiki.zksc.io/ja/asset-managers/nomura-asset-management/, https://finwiki.zksc.io/ja/asset-managers/sbi-asset-management/, https://finwiki.zksc.io/ja/card-issuers/aeon-financial-service/, https://finwiki.zksc.io/ja/card-issuers/mufg-nicos/, https://finwiki.zksc.io/ja/card-issuers/rakuten-card/, https://finwiki.zksc.io/ja/card-issuers/smbc-card/, https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/coincheck-nem-hack-detailed-analysis/, https://finwiki.zksc.io/ja/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-cex-deposit-token-stablecoin-integration/, https://finwiki.zksc.io/ja/exchanges/jp-cex-points-economy-integration/
+- First resolved wikilinks: https://finwiki.zksc.io/ja/asset-managers/nomura-asset-management/, https://finwiki.zksc.io/ja/asset-managers/sbi-asset-management/, https://finwiki.zksc.io/ja/card-issuers/aeon-financial-service/, https://finwiki.zksc.io/ja/card-issuers/mufg-nicos/, https://finwiki.zksc.io/ja/card-issuers/rakuten-card/, https://finwiki.zksc.io/ja/card-issuers/smbc-card/, https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-cex-deposit-token-stablecoin-integration/, https://finwiki.zksc.io/ja/exchanges/jp-cex-points-economy-integration/, https://finwiki.zksc.io/ja/exchanges/jp-cex-sales-vs-exchange-model-economics/
 
 ### 国内クリプト監査法人 ランドスケープ — Big4 + 太陽 + BDO 三優 クリプト実務比較
 - URL: https://finwiki.zksc.io/ja/exchanges/japan-crypto-audit-firm-landscape/
@@ -3975,9 +3975,9 @@ Public pages listed: 1604
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/exchanges/japan-stablecoin-issuer-regulatory-classification-matrix.md
 - Domain: exchanges
 - Type: wiki_entry
-- Summary: 日本の円建て・USD 建て stablecoin (改正資金決済法 2023-06 で「電子決済手段」と明文定義) は、発行体の業態 × 法的根拠 で 5 つの規制カテゴリに分かれる: (1) 資金移動業者型 (EPI 第 2 種) = JPYC 唯一、(2) 信託型 (特定信託受益権・EPI 第 3 種) = Progmat プラットフォーム上で MUFG 信託・SMBC 信託・みずほ信託が発行、(3) 銀行発行型 (預金トークン、EPI 第 1 種隣接) = DCJPY と みんなの銀行 SC、(4) 電子決済手段等取引業 (ECISP) 経由の海外 SC 仲介 = SBI VC Trad
+- Summary: 日本の円建て・USD 建て stablecoin は、発行体、法的主体および提供機能に応じて資金移動業者型、信託型、銀行預金トークン、電子決済手段等取引業者による仲介、前払式支払手段との境界に分けて確認する。本表は JPYC、Progmat 関連案件、DCJPY、みんなの銀行、SBI VC Trade の公開情報を検証入口として扱い、未公表の参入候補や発行コミットを推定しない。
 - Headings: 日本 stablecoin 発行体 規制分類マトリクス — 電子決済手段等取引業 / 信託型 / 銀行発行型 / 資金移動業者型 / 前払式支払手段境界, TL;DR, Wiki route, Why this matrix matters, Per-issuer / per-classification sections, A. 資金移動業者型 (EPI 第 2 種) — JPYC, B. 信託型 (特定信託受益権 / EPI 第 3 種) — Progmat 上で発行する三大信託銀行 + DMM, C. 銀行発行型 (預金トークン / EPI 第 1 種隣接) — DCJPY + みんなの銀行 SC
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/crypto-custody-provider-landscape-matrix/, https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/, https://finwiki.zksc.io/ja/exchanges/japan-vasp-business-model-competitive-matrix/, https://finwiki.zksc.io/ja/exchanges/jp-cex-deposit-token-stablecoin-integration/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-jpyc/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-line-xenesis/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-mercoin/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/, https://finwiki.zksc.io/ja/financial-licenses/payment-license-stack/, https://finwiki.zksc.io/ja/domains/fintech/, https://finwiki.zksc.io/ja/fintech/cross-border-sc-via-swift-api/
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/crypto-custody-provider-landscape-matrix/, https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/, https://finwiki.zksc.io/ja/exchanges/japan-vasp-business-model-competitive-matrix/, https://finwiki.zksc.io/ja/exchanges/jp-cex-deposit-token-stablecoin-integration/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-jpyc/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/, https://finwiki.zksc.io/ja/financial-licenses/payment-license-stack/, https://finwiki.zksc.io/ja/domains/fintech/, https://finwiki.zksc.io/ja/fintech/cross-border-sc-via-swift-api/, https://finwiki.zksc.io/ja/fintech/global-stablecoin-regulatory-five-pole-matrix/, https://finwiki.zksc.io/ja/fintech/japan-ecisb-license/
 
 ### 日本 VASP ビジネスモデル競合マトリクス — 39 社の事業セグメント・収益構造・差別化軸比較
 - URL: https://finwiki.zksc.io/ja/exchanges/japan-vasp-business-model-competitive-matrix/
@@ -4083,7 +4083,7 @@ Public pages listed: 1604
 - Headings: 国内暗号資産 税制 詳細 — 雑所得 vs 申告分離 + 個人 vs 法人, Wiki route, 1. 概要, 2. 個人課税の詳細, 3. 法人課税, 4. 投資家行動への影響, 5. 2026 改正動向, Cross-links
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/btc-spot-etf-japan-impact/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-cex-staking-lending-regulation/, https://finwiki.zksc.io/ja/exchanges/jp-listed-cex-related-companies-matrix/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-regulatory-timeline/, https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/, https://finwiki.zksc.io/ja/exchanges/jvcea-spot-volume-statistics-analysis/, https://finwiki.zksc.io/ja/finance/multi-jurisdiction-identity-tax-leverage/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/
 
-### CEX × 日本銀行 無担保授信実績図譜
+### CEX × 日本銀行 公開コミットメントライン事例
 - URL: https://finwiki.zksc.io/ja/exchanges/jp-crypto-bank-credit-facilities/
 - Japanese HTML: https://finwiki.zksc.io/ja/exchanges/jp-crypto-bank-credit-facilities/
 - English alternate: https://finwiki.zksc.io/en/exchanges/jp-crypto-bank-credit-facilities/
@@ -4093,7 +4093,7 @@ Public pages listed: 1604
 - Domain: exchanges
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it against SBI VCトレード株式会社 — 日本暗号資産交換業者 for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.
-- Headings: CEX × 日本銀行 無担保授信実績図譜, Wiki route, 既知の先例, bitbank × きらぼし銀行(2026-03公表)⭐, GMO(コイン)× きらぼし銀行 + あおぞら銀行(2022-2023)※公開ソース未確認, GMO 初期 × 単一地銀(公開ソース未確認), 業界共通要素, 銀行側の選好(パターン)
+- Headings: CEX × 日本銀行 公開コミットメントライン事例, Wiki route, 既知の先例, bitbank × きらぼし銀行（2026-03 公表）, 公表された契約条件, 証拠の境界, 2026-04 時点の主要ギャップ, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/, https://finwiki.zksc.io/ja/fintech/stablecoin-crossborder-b2b-growth/, https://finwiki.zksc.io/ja/fintech/usd-stablecoin-interchange/
 
 ### Japan crypto exchange overview — FSA / JVCEA regulated VASP market
@@ -4105,9 +4105,9 @@ Public pages listed: 1604
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-crypto-exchange-overview.md
 - Domain: exchanges
 - Type: wiki_entry
-- Summary: 日本の暗号資産交換業は、金融庁・財務局の登録制と JVCEA 自主規制の二層で成り立つ。2017-04-01 に暗号資産交換業登録制が始まり、2023-06-01 には電子決済手段等取引業も制度化された。2026-02-28 時点の金融庁英語版登録一覧では暗号資産交換業者は 27 業者。国内市場は「登録 VASP + JVCEA 会員 + FSA 監督 + 税務報告/CARF」まで含めて見る必要がある。
-- Headings: Japan crypto exchange overview — FSA / JVCEA regulated VASP market, TL;DR, 1. 制度構造, 2. Market map, 3. Strategic reading, 4. 規制と政策, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-foreign-exchange-warning-system/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-crypto-asset-taxation-detailed/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-binance-japan/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitbank/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-btcbox/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-crypto-garage/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-digital-asset-markets/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-gmo-coin/
+- Summary: 日本の暗号資産交換業は、金融庁・財務局の登録制と JVCEA 自主規制の二層で成り立つ。2017-04-01 に暗号資産交換業登録制が始まり、2023-06-01 には電子決済手段等取引業も制度化された。登録業者数と会員数は更新されるため、固定値ではなく金融庁の現行登録一覧と JVCEA 会員一覧を確認する。
+- Headings: Japan crypto exchange overview — FSA / JVCEA regulated VASP market, TL;DR, 1. 制度構造, 2. 現行情報の確認先, 3. Strategic reading, 4. 規制と政策, Related, Sources
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-foreign-exchange-warning-system/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-crypto-asset-taxation-detailed/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-cold-storage-segregation-rules/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-derivative-license-system/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/, https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/, https://finwiki.zksc.io/ja/regional-banks/ssnb/
 
 ### 国内暗号資産マーケットメイカー / OTC デスク業界 overview
 - URL: https://finwiki.zksc.io/ja/exchanges/jp-crypto-market-maker-otc-layer/
@@ -4197,8 +4197,8 @@ Public pages listed: 1604
 - Domain: exchanges
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.
-- Headings: Fireblocks — グローバル MPC カストディ・インフラプロバイダー（日本展開）, Wiki route, 1. 法人・株主, 2. 牌照・登録状況, 3. 対応アセット, 4. 業務範囲・主要プロダクト, 5. 市場ポジション・競合比較, グローバル institutional custody 市場
-- First resolved wikilinks: https://finwiki.zksc.io/ja/agent-economy/embedded-wallet-network-effects-moat/, https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/global-institutional-custody-five-pillars/, https://finwiki.zksc.io/ja/exchanges/jp-custody-ginco/, https://finwiki.zksc.io/ja/exchanges/jp-custody-komainu/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/, https://finwiki.zksc.io/ja/exchanges/jp-institutional-custody-three-pillars/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-cold-storage-segregation-rules/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/, https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/
+- Headings: Fireblocks — グローバル MPC カストディ・インフラプロバイダー（日本展開）, Wiki route, 1. 法人・株主, 2. 牌照・登録状況, 3. 対応アセット, 4. 業務範囲・主要プロダクト, 5. 公式サイトで確認できる製品領域, 6. 公式資料で確認できる沿革・日本事例
+- First resolved wikilinks: https://finwiki.zksc.io/ja/agent-economy/embedded-wallet-network-effects-moat/, https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/global-institutional-custody-five-pillars/, https://finwiki.zksc.io/ja/exchanges/jp-custody-komainu/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/, https://finwiki.zksc.io/ja/exchanges/jp-institutional-custody-three-pillars/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-cold-storage-segregation-rules/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/, https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/, https://finwiki.zksc.io/ja/fintech/maina-wallet-kyc-permissionless-ux-bridge/
 
 ### 株式会社Ginco — 日本 B2B ブロックチェーン・カストディインフラ提供者
 - URL: https://finwiki.zksc.io/ja/exchanges/jp-custody-ginco/
@@ -4211,7 +4211,7 @@ Public pages listed: 1604
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.
 - Headings: 株式会社Ginco — 日本 B2B ブロックチェーン・カストディインフラ提供者, Wiki route, 1. 法人・株主, 2. 牌照・登録状況, 3. 取扱通貨, 4. 業務範囲, 主要製品・サービス, 対応事業領域
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-custody-fireblocks-japan/, https://finwiki.zksc.io/ja/exchanges/jp-custody-komainu/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-bittrade/, https://finwiki.zksc.io/ja/exchanges/jp-institutional-custody-three-pillars/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-cold-storage-segregation-rules/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/, https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/, https://finwiki.zksc.io/ja/payment-firms/progmat/
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-custody-fireblocks-japan/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-bittrade/, https://finwiki.zksc.io/ja/exchanges/jp-institutional-custody-three-pillars/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-cold-storage-segregation-rules/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/, https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/, https://finwiki.zksc.io/ja/payment-firms/progmat/
 
 ### Komainu — 機関投資家向けデジタル資産 custody 専業
 - URL: https://finwiki.zksc.io/ja/exchanges/jp-custody-komainu/
@@ -4276,7 +4276,7 @@ Public pages listed: 1604
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.
 - Headings: ビットバンク株式会社 — 日本暗号資産交換業者 overview, Wiki route, 1. 法人・株主, 2. 牌照・登録状況, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/ftx-japan-100pct-return-case-study/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-bittrade/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-ma-consolidation-history/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/, https://finwiki.zksc.io/ja/exchanges/jvcea-spot-volume-statistics-analysis/, https://finwiki.zksc.io/ja/exchanges/jvcea-whitelist-token-listing/, https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-bittrade/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/, https://finwiki.zksc.io/ja/exchanges/jvcea-spot-volume-statistics-analysis/, https://finwiki.zksc.io/ja/exchanges/jvcea-whitelist-token-listing/, https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/
 
 ### 株式会社 bitFlyer — 日本暗号資産交換業者 overview
 - URL: https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/
@@ -4315,7 +4315,7 @@ Public pages listed: 1604
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.
 - Headings: ビットトレード株式会社 — 日本暗号資産交換業者 overview, Wiki route, 1. 法人・株主, 2. 牌照・登録状況, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-binance-japan/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitbank/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-gmo-coin/, https://finwiki.zksc.io/ja/exchanges/jp-ieo-system-and-cases/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-derivative-license-system/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/, https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/, https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-binance-japan/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-gmo-coin/, https://finwiki.zksc.io/ja/exchanges/jp-ieo-system-and-cases/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-derivative-license-system/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/, https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/, https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/, https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/
 
 ### BTCボックス株式会社 — 日本暗号資産交換業者 overview
 - URL: https://finwiki.zksc.io/ja/exchanges/jp-exchange-btcbox/
@@ -4328,7 +4328,7 @@ Public pages listed: 1604
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.
 - Headings: BTCボックス株式会社 — 日本暗号資産交換業者 overview, Wiki route, 1. 法人・株主, 2. 牌照・登録状況, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-gmo-coin/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/, https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/, https://finwiki.zksc.io/ja/exchanges/jvcea-spot-volume-statistics-analysis/, https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/, https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/, https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/, https://finwiki.zksc.io/ja/exchanges/jvcea-spot-volume-statistics-analysis/, https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/, https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/
 
 ### Coinbase 株式会社 — 日本暗号資産交換業者（dormant）overview
 - URL: https://finwiki.zksc.io/ja/exchanges/jp-exchange-coinbase-japan/
@@ -4419,7 +4419,7 @@ Public pages listed: 1604
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.
 - Headings: 株式会社DMM Bitcoin — 日本暗号資産交換業者（former VASP）overview, Wiki route, 1. 法人・株主, 2. 牌照・登録状況, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/bybit-lazarus-hack-detailed-analysis/, https://finwiki.zksc.io/ja/exchanges/coincheck-nem-hack-detailed-analysis/, https://finwiki.zksc.io/ja/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-incident-history/, https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/, https://finwiki.zksc.io/ja/security/forensic-identity-anchor-chain/
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-incident-history/, https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/, https://finwiki.zksc.io/ja/security/forensic-identity-anchor-chain/
 
 ### 株式会社DMM.com証券 — 日本金融商品取引業者（暗号資産デリバティブ）overview
 - URL: https://finwiki.zksc.io/ja/exchanges/jp-exchange-dmm-com-securities/
@@ -4445,7 +4445,7 @@ Public pages listed: 1604
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.
 - Headings: FINX JCrypto株式会社 — 日本暗号資産交換業者, Wiki route, TL;DR, 1. 法人・牌照, 2. 取扱通貨, 3. 業務範囲, 4. 戦略動向, Related
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-crypto-exchange-overview/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-coinhub/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-gmo-coin/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/, https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/, https://finwiki.zksc.io/ja/exchanges/rwa-tokenization-cex-integration/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-crypto-exchange-overview/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-coinhub/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/, https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/, https://finwiki.zksc.io/ja/exchanges/rwa-tokenization-cex-integration/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/
 
 ### 株式会社ガイア — 日本暗号資産交換業者 overview
 - URL: https://finwiki.zksc.io/ja/exchanges/jp-exchange-gaia/
@@ -4458,7 +4458,7 @@ Public pages listed: 1604
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.
 - Headings: 株式会社ガイア — 日本暗号資産交換業者 overview, Wiki route, 1. 法人・株主, 2. 牌照・登録状況, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-crypto-merchant-payment-lightning/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-coinhub/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-zaif/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-aml-travel-rule-implementation/, https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/, https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-crypto-merchant-payment-lightning/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-coinhub/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-aml-travel-rule-implementation/, https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/, https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/
 
 ### Gate Japan株式会社 — 日本暗号資産交換業者 overview
 - URL: https://finwiki.zksc.io/ja/exchanges/jp-exchange-gate-japan/
@@ -4471,7 +4471,7 @@ Public pages listed: 1604
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.
 - Headings: Gate Japan株式会社 — 日本暗号資産交換業者 overview, Wiki route, 1. 法人・株主, 2. 牌照・登録状況, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-gmo-coin/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-ma-consolidation-history/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/, https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/, https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-ma-consolidation-history/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/, https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/, https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/
 
 ### 株式会社Gaudiy Financial Labs — JVCEA 第二種会員（Web3 IP プラットフォーム事業者）
 - URL: https://finwiki.zksc.io/ja/exchanges/jp-exchange-gaudiy/
@@ -4497,7 +4497,7 @@ Public pages listed: 1604
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.
 - Headings: GMOコイン株式会社 — 日本暗号資産交換業者 overview, Wiki route, 1. 法人・株主, 2. 牌照・登録状況, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-cex-staking-lending-regulation/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/, https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/, https://finwiki.zksc.io/ja/payment-firms/gmo-coin/, https://finwiki.zksc.io/ja/payment-firms/gmo-financial-hd/
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-cex-staking-lending-regulation/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/, https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/, https://finwiki.zksc.io/ja/payment-firms/gmo-coin/, https://finwiki.zksc.io/ja/payment-firms/gmo-financial-hd/
 
 ### ゴールデンウェイ・ジャパン株式会社 — 日本暗号資産交換業者（デリバティブのみ）overview
 - URL: https://finwiki.zksc.io/ja/exchanges/jp-exchange-goldenway-japan/
@@ -4525,7 +4525,7 @@ Public pages listed: 1604
 - Headings: JPYC 株式会社 — 日本円ステーブルコイン発行体（資金移動業者型）, Wiki route, 1. 法人・株主, 2. 牌照・登録状況, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-cex-deposit-token-stablecoin-integration/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/, https://finwiki.zksc.io/ja/fintech/global-stablecoin-regulatory-five-pole-matrix/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/, https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/, https://finwiki.zksc.io/ja/fintech/stablecoin-channel-japan-sbi-jpyc-ring/, https://finwiki.zksc.io/ja/payment-firms/jpyc/
 
-### Payward Asia (Kraken Japan) — 日本暗号資産交換業者（dormant / 撤退）overview
+### Payward Asia (Kraken Japan) — 日本暗号資産交換業者（撤退済み）overview
 - URL: https://finwiki.zksc.io/ja/exchanges/jp-exchange-kraken-japan-historical/
 - Japanese HTML: https://finwiki.zksc.io/ja/exchanges/jp-exchange-kraken-japan-historical/
 - English alternate: https://finwiki.zksc.io/en/exchanges/jp-exchange-kraken-japan-historical/
@@ -4535,10 +4535,10 @@ Public pages listed: 1604
 - Domain: exchanges
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it against Coinbase 株式会社 — 日本暗号資産交換業者 for the closest parallel pattern (外資系 retail exit) and FSA 暗号資産交換業登録制度 for the broader system / regulatory boundary.
-- Headings: Payward Asia (Kraken Japan) — 日本暗号資産交換業者（dormant / 撤退）overview, Wiki route, 1. 法人・株主, 2. 牌照・登録状況（歴史）, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
+- Headings: Payward Asia (Kraken Japan) — 日本暗号資産交換業者（撤退済み）overview, Wiki route, 1. 法人・株主, 2. 牌照・登録状況（歴史）, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-binance-japan/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-bittrade/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-coinbase-japan/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-ma-consolidation-history/, https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/
 
-### Laser Digital Japan — 日本暗号資産交換業者 overview
+### Laser Digital Japan — 日本法人・暗号資産関連事業 overview
 - URL: https://finwiki.zksc.io/ja/exchanges/jp-exchange-laser-digital-japan/
 - Japanese HTML: https://finwiki.zksc.io/ja/exchanges/jp-exchange-laser-digital-japan/
 - English alternate: https://finwiki.zksc.io/en/exchanges/jp-exchange-laser-digital-japan/
@@ -4548,10 +4548,10 @@ Public pages listed: 1604
 - Domain: exchanges
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.
-- Headings: Laser Digital Japan — 日本暗号資産交換業者 overview, Wiki route, 1. 法人・株主, 2. 牌照・登録状況, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
+- Headings: Laser Digital Japan — 日本法人・暗号資産関連事業 overview, Wiki route, 1. 法人・株主, 2. 牌照・登録状況, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/global-cex-prime-brokerage-layer/, https://finwiki.zksc.io/ja/exchanges/jp-custody-komainu/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-crypto-garage/, https://finwiki.zksc.io/ja/exchanges/jvcea-type2-associate-membership-system/, https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/, https://finwiki.zksc.io/ja/securities-firms/nomura-hd/
 
-### LINE Xenesis株式会社 — 日本暗号資産交換業者 overview
+### LINE Xenesis株式会社 — 日本暗号資産交換業者（サービス終了）overview
 - URL: https://finwiki.zksc.io/ja/exchanges/jp-exchange-line-xenesis/
 - Japanese HTML: https://finwiki.zksc.io/ja/exchanges/jp-exchange-line-xenesis/
 - English alternate: https://finwiki.zksc.io/en/exchanges/jp-exchange-line-xenesis/
@@ -4561,8 +4561,8 @@ Public pages listed: 1604
 - Domain: exchanges
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.
-- Headings: LINE Xenesis株式会社 — 日本暗号資産交換業者 overview, Wiki route, 1. 法人・株主, 2. 牌照・登録状況, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-cex-nft-marketplace-integration/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-gmo-coin/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-ma-consolidation-history/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/, https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/, https://finwiki.zksc.io/ja/megabanks/paypay-fg/
+- Headings: LINE Xenesis株式会社 — 日本暗号資産交換業者（サービス終了）overview, Wiki route, 1. 法人・株主, 2. 牌照・登録状況, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-cex-nft-marketplace-integration/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-ma-consolidation-history/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/, https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/
 
 ### 株式会社メルコイン — 日本暗号資産交換業者 overview
 - URL: https://finwiki.zksc.io/ja/exchanges/jp-exchange-mercoin/
@@ -4575,7 +4575,7 @@ Public pages listed: 1604
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.
 - Headings: 株式会社メルコイン — 日本暗号資産交換業者 overview, Wiki route, 1. 法人・株主, 2. 牌照・登録状況, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-cex-points-economy-integration/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitbank/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-rakuten-wallet/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/, https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/, https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/, https://finwiki.zksc.io/ja/payment-firms/progmat/
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-cex-points-economy-integration/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-rakuten-wallet/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/, https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/, https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/, https://finwiki.zksc.io/ja/payment-firms/progmat/
 
 ### 株式会社マーキュリー（CoinTrade） — 日本暗号資産交換業者 overview
 - URL: https://finwiki.zksc.io/ja/exchanges/jp-exchange-mercury/
@@ -4614,7 +4614,7 @@ Public pages listed: 1604
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.
 - Headings: 株式会社マネーパートナーズ — 日本暗号資産交換業者 overview, Wiki route, 1. 法人・株主, 2. 牌照・登録状況, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitbank/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-bittrade/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-custodiem/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-gmo-coin/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-derivative-license-system/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-ma-consolidation-history/, https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-bittrade/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-custodiem/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-gmo-coin/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-derivative-license-system/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-ma-consolidation-history/, https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/
 
 ### オーケーコイン・ジャパン株式会社（OKJ） — 日本暗号資産交換業者 overview
 - URL: https://finwiki.zksc.io/ja/exchanges/jp-exchange-okcoin-japan/
@@ -4627,7 +4627,7 @@ Public pages listed: 1604
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.
 - Headings: オーケーコイン・ジャパン株式会社（OKJ） — 日本暗号資産交換業者 overview, Wiki route, 1. 法人・株主, 2. 牌照・登録状況, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/, https://finwiki.zksc.io/ja/exchanges/jp-cex-staking-lending-regulation/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/, https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/, https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/, https://finwiki.zksc.io/ja/exchanges/jp-cex-staking-lending-regulation/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/, https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/, https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/
 
 ### OSL Japan株式会社 — 日本暗号資産交換業者 overview
 - URL: https://finwiki.zksc.io/ja/exchanges/jp-exchange-osl-japan/
@@ -4640,7 +4640,7 @@ Public pages listed: 1604
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.
 - Headings: OSL Japan株式会社 — 日本暗号資産交換業者 overview, Wiki route, 1. 法人・株主, 2. 牌照・登録状況, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/, https://finwiki.zksc.io/ja/exchanges/hk-sfc-vasp-licensing-overview/, https://finwiki.zksc.io/ja/exchanges/jp-crypto-market-maker-otc-layer/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-gmo-coin/, https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/, https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/, https://finwiki.zksc.io/ja/exchanges/hk-sfc-vasp-licensing-overview/, https://finwiki.zksc.io/ja/exchanges/jp-crypto-market-maker-otc-layer/, https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/, https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/
 
 ### 楽天ウォレット株式会社 — 日本暗号資産交換業者 overview
 - URL: https://finwiki.zksc.io/ja/exchanges/jp-exchange-rakuten-wallet/
@@ -4653,7 +4653,7 @@ Public pages listed: 1604
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.
 - Headings: 楽天ウォレット株式会社 — 日本暗号資産交換業者 overview, Wiki route, 1. 法人・株主, 2. 牌照・登録状況, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-cex-points-economy-integration/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-binance-japan/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-gmo-coin/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-mercoin/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/, https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-cex-points-economy-integration/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-binance-japan/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-gmo-coin/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-mercoin/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/, https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/, https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/, https://finwiki.zksc.io/ja/payment-firms/rakuten-fg/
 
 ### サクソバンク証券株式会社 — 外資系マルチアセット証券（JVCEA第二種会員）
 - URL: https://finwiki.zksc.io/ja/exchanges/jp-exchange-saxo-bank-japan/
@@ -4679,7 +4679,7 @@ Public pages listed: 1604
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.
 - Headings: 株式会社SBI証券 — 日本暗号資産デリバティブ取引業者 overview, Wiki route, 1. 法人・株主, 2. 牌照・登録状況, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/btc-spot-etf-japan-impact/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-bi-fxtrade/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-gmo-coin/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-monex/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-derivative-license-system/, https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/, https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/btc-spot-etf-japan-impact/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-derivative-license-system/, https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/, https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/, https://finwiki.zksc.io/ja/securities-firms/sbi-securities/
 
 ### SBI VCトレード株式会社 — 日本暗号資産交換業者 overview
 - URL: https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/
@@ -4707,7 +4707,7 @@ Public pages listed: 1604
 - Headings: S.BLOX株式会社 — 日本暗号資産交換業者 overview, Wiki route, 1. 法人・株主, 2. 牌照・登録状況, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-cex-nft-marketplace-integration/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-ma-consolidation-history/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/
 
-### 東京ハッシュ株式会社 — 日本暗号資産交換業者 overview
+### HashKey Japan株式会社（旧 東京ハッシュ株式会社） — 日本暗号資産交換業者 overview
 - URL: https://finwiki.zksc.io/ja/exchanges/jp-exchange-tokyo-hash/
 - Japanese HTML: https://finwiki.zksc.io/ja/exchanges/jp-exchange-tokyo-hash/
 - English alternate: https://finwiki.zksc.io/en/exchanges/jp-exchange-tokyo-hash/
@@ -4717,8 +4717,8 @@ Public pages listed: 1604
 - Domain: exchanges
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.
-- Headings: 東京ハッシュ株式会社 — 日本暗号資産交換業者 overview, Wiki route, 1. 法人・株主, 2. 牌照・登録状況, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/, https://finwiki.zksc.io/ja/exchanges/hk-sfc-vasp-licensing-overview/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-gmo-coin/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/, https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/, https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/
+- Headings: HashKey Japan株式会社（旧 東京ハッシュ株式会社） — 日本暗号資産交換業者 overview, Wiki route, 1. 法人・株主, 2. 牌照・登録状況, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/, https://finwiki.zksc.io/ja/exchanges/hk-sfc-vasp-licensing-overview/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/, https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/, https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/
 
 ### トレイダーズ証券 — 日本暗号資産デリバティブ取引業者 overview
 - URL: https://finwiki.zksc.io/ja/exchanges/jp-exchange-traders-securities/
@@ -4731,7 +4731,7 @@ Public pages listed: 1604
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.
 - Headings: トレイダーズ証券 — 日本暗号資産デリバティブ取引業者 overview, Wiki route, 1. 法人・株主, 2. 牌照・登録状況, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-bi-fxtrade/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-monex/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-securities/, https://finwiki.zksc.io/ja/exchanges/jp-listed-cex-related-companies-matrix/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-derivative-license-system/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/, https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-listed-cex-related-companies-matrix/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-derivative-license-system/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/, https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/
 
 ### Trek Labs Japan 株式会社 — 日本暗号資産交換業者（準備法人）
 - URL: https://finwiki.zksc.io/ja/exchanges/jp-exchange-trek-labs-japan/
@@ -4757,7 +4757,7 @@ Public pages listed: 1604
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.
 - Headings: 株式会社Zaif — 日本暗号資産交換業者 overview, Wiki route, 1. 法人・株主, 2. 牌照・登録状況, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/coincheck-nem-hack-detailed-analysis/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-incident-history/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-ma-consolidation-history/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/, https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/, https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/coincheck-nem-hack-detailed-analysis/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-incident-history/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-ma-consolidation-history/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/, https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/, https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/
 
 ### Binance Holdings Limited — 日本FSA警告対象・無登録海外業者（歴史的記録）
 - URL: https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-binance-holdings-legacy/
@@ -4785,7 +4785,7 @@ Public pages listed: 1604
 - Headings: bitcastle LLC — 日本向け海外無登録暗号資産取引所, Wiki route, 1. 法人・株主, 2. 牌照・登録状況, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-foreign-exchange-warning-system/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bitget/, https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bybit/, https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-kucoin/, https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-mexc/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/
 
-### Bitforex Limited — 日本向け無登録海外暗号資産交換業者（FSA 警告 2 回・2024 年実質閉鎖）
+### Bitforex Limited — 日本向け無登録海外暗号資産交換業者（FSA 警告 2 回）
 - URL: https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bitforex/
 - Japanese HTML: https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bitforex/
 - English alternate: https://finwiki.zksc.io/en/exchanges/jp-foreign-exchange-bitforex/
@@ -4795,7 +4795,7 @@ Public pages listed: 1604
 - Domain: exchanges
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.
-- Headings: Bitforex Limited — 日本向け無登録海外暗号資産交換業者（FSA 警告 2 回・2024 年実質閉鎖）, Wiki route, 1. 法人・株主, 2. 牌照・登録状況, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
+- Headings: Bitforex Limited — 日本向け無登録海外暗号資産交換業者（FSA 警告 2 回）, Wiki route, 1. 法人・株主, 2. 牌照・登録状況, 3. 取扱通貨, 4. 業務範囲, 5. 市占・取引高, 6. 沿革・重大事件
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-foreign-exchange-warning-system/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/global-crypto-exchange-bankruptcy-comparison/, https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bitget/, https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bybit/, https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-mexc/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/, https://finwiki.zksc.io/ja/security/forensic-identity-anchor-chain/
 
 ### Bitget Limited — 日本向け海外無登録暗号資産交換業者 overview
@@ -4885,9 +4885,9 @@ Public pages listed: 1604
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-institutional-custody-three-pillars.md
 - Domain: exchanges
 - Type: wiki_entry
-- Summary: 国内機関向けカストディ市場は 技術 (cold vs MPC) × 親会社 (国内 vs 海外) の二軸で分化している。VASP の自社カストディ (bitFlyer / Coincheck / bitbank 等) と並行して、B2B vendor 層 (機関・他 VASP・金融機関向けインフラ供給) が形成されており、その中核に Komainu / Ginco / Fireblocks Japan の三社が位置する。
+- Summary: 本稿は、国内事業者から参照される機関向けカストディ／ウォレット基盤のうち Komainu、Ginco、Fireblocks の三者を、各社公式資料で確認できる技術方式と提供機能に限定して比較する。市場シェア、順位、顧客数の国内比較を示すものではなく、法的なカストディ主体と技術ベンダーも区別する。
 - Headings: 国内機関カストディ三強構造 — Komainu / Ginco / Fireblocks Japan 比較, 概要, 三社プロファイル, Komainu Holdings (英国 Jersey), 株式会社 Ginco (国内独立系), Fireblocks Japan (海外 vendor 日本法人), 技術 / ビジネスモデル比較, 規制位置づけ
-- First resolved wikilinks: https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-custody-fireblocks-japan/, https://finwiki.zksc.io/ja/exchanges/jp-custody-ginco/, https://finwiki.zksc.io/ja/exchanges/jp-custody-komainu/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-crypto-garage/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-laser-digital-japan/
+- First resolved wikilinks: https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-custody-fireblocks-japan/, https://finwiki.zksc.io/ja/exchanges/jp-custody-ginco/, https://finwiki.zksc.io/ja/exchanges/jp-custody-komainu/
 
 ### 国内上場 CEX 関連企業マトリックス — 東証・Nasdaq 上場 + 持株会社一覧
 - URL: https://finwiki.zksc.io/ja/exchanges/jp-listed-cex-related-companies-matrix/
@@ -4899,8 +4899,8 @@ Public pages listed: 1604
 - Domain: exchanges
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it against 国内 VASP 親会社・株主構造マップ — 三分類 + 大手金融グループ系列 for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.
-- Headings: 国内上場 CEX 関連企業マトリックス — 東証・Nasdaq 上場 + 持株会社一覧, Wiki route, 概要, 自社・直接親会社 上場マトリックス, 海外上場 親会社経由, 投資家含意
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-coinbase-japan/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-gmo-coin/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-laser-digital-japan/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-mercury/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-monex/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-money-partners/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-osl-japan/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-tokyo-hash/
+- Headings: 国内上場 CEX 関連企業マトリックス — 東証・Nasdaq 上場 + 持株会社一覧, Wiki route, 概要, 自社・直接親会社 上場マトリックス, 歴史的な上場ルート, 投資家含意
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-gmo-coin/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-mercury/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-money-partners/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-osl-japan/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-traders-securities/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-zaif/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-ma-consolidation-history/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/
 
 ### 国内 VASP 犯収法 + FATF Travel Rule 国内実装 (2023-)
 - URL: https://finwiki.zksc.io/ja/exchanges/jp-vasp-aml-travel-rule-implementation/
@@ -4950,7 +4950,7 @@ Public pages listed: 1604
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-vasp-incident-history.md
 - Domain: exchanges
 - Type: wiki_entry
-- Summary: 国内 VASP 史は大規模流出事件によって規制が前進してきた歴史である。Mt.Gox (2014) は資金決済法改正の引き金となり、Coincheck (2018) は自主規制機関 JVCEA 発足とコールド保管比率規制の起点、DMM Bitcoin (2024) は北朝鮮 Lazarus 帰属が公的に確認された大型事案として SBI VC トレードへの事業移管を生んだ。流出は単発事件でなく、ホットウォレット 5% 上限・分別管理義務などの「制度反射」を伴って繰り返されてきた。
+- Summary: 本稿は、日本の交換業者または国内顧客に大きく影響した主要流出事案を、公的資料と当事社公表で確認できる金額・資産量・帰結に限定して整理する。事件と法改正・自主規制の時系列は示すが、各事件が単独で特定制度を生んだという因果関係は、公的資料で明記される範囲を超えて断定しない。
 - Headings: 国内 VASP 暗号資産流出事件史 (2014-2026), 概要, 主要事件 timeline, 規制反射 (3 段階), Lazarus 帰属の位置づけ, 関連
 - First resolved wikilinks: https://finwiki.zksc.io/ja/exchanges/jp-custody-ginco/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-custodiem/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-dmm-bitcoin/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-zaif/, https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bitforex/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/
 
@@ -4964,7 +4964,7 @@ Public pages listed: 1604
 - Domain: exchanges
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it against 国内 VASP 暗号資産流出事件史 (2014-2026) for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.
-- Headings: 国内暗号資産交換業 M&A 統廃合史 (2018-2026), Wiki route, 概要, 主要案件 timeline, 動因分析(3 つの統合トリガー), 統合後の市場集中度 (2026-05 時点), 関連エントリ
+- Headings: 国内暗号資産交換業 M&A 統廃合史 (2018-2026), Wiki route, 概要, 主要案件 timeline, 動因分析(3 つの統合トリガー), 統合状態のスナップショット (2026-07-29), 関連エントリ
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-binance-japan/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitbank/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-custodiem/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-dmm-bitcoin/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-monex/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-rakuten-wallet/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-sblox/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-zaif/
 
 ### 国内 VASP 親会社・株主構造マップ
@@ -5058,7 +5058,7 @@ Public pages listed: 1604
 - Headings: JVCEA Type 2 (第二種会員) 制度 — 賛助会員 4 社分析, Wiki route, 1. 制度概要, 2. Type 2 加盟意義, 3. 主要 Type 2 会員 (2026-05 時点 4 社), 4. 業界含意, 5. 比較 — Type 1 vs Type 2
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-custody-komainu/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-gaudiy/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-laser-digital-japan/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-saxo-bank-japan/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-trek-labs-japan/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/, https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/
 
-### JVCEA WhiteList 上場銘柄 timeline (2017-2026)
+### JVCEA Green List / 取扱暗号資産 公開資料 timeline (2017-2026)
 - URL: https://finwiki.zksc.io/ja/exchanges/jvcea-whitelist-listing-timeline/
 - Japanese HTML: https://finwiki.zksc.io/ja/exchanges/jvcea-whitelist-listing-timeline/
 - English alternate: https://finwiki.zksc.io/en/exchanges/jvcea-whitelist-listing-timeline/
@@ -5068,8 +5068,8 @@ Public pages listed: 1604
 - Domain: exchanges
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it against JVCEA 取扱銘柄 WhiteList 制度 — トークン上場プロセス + Green/Yellow リスト for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.
-- Headings: JVCEA WhiteList 上場銘柄 timeline (2017-2026), Wiki route, 概要, Timeline 主要 Milestone, 国内独占・初上場銘柄, 海外 vs 国内 取扱差, 戦略含意, 関連
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/coincheck-nem-hack-detailed-analysis/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-backseat-exchange/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-digital-asset-markets/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-gmo-coin/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-jpyc/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-line-xenesis/, https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-mexc/, https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/, https://finwiki.zksc.io/ja/exchanges/jvcea-spot-volume-statistics-analysis/
+- Headings: JVCEA Green List / 取扱暗号資産 公開資料 timeline (2017-2026), Wiki route, 概要, Timeline 主要 Milestone, 資料の読み分け, 現行公式スナップショット, 戦略含意, 関連
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-gmo-coin/, https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/, https://finwiki.zksc.io/ja/exchanges/jvcea-spot-volume-statistics-analysis/, https://finwiki.zksc.io/ja/exchanges/jvcea-whitelist-token-listing/
 
 ### JVCEA 取扱銘柄 WhiteList 制度 — トークン上場プロセス + Green/Yellow リスト
 - URL: https://finwiki.zksc.io/ja/exchanges/jvcea-whitelist-token-listing/
@@ -5093,9 +5093,9 @@ Public pages listed: 1604
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/exchanges/korea-cex-five-pillars-comparison.md
 - Domain: exchanges
 - Type: wiki_entry
-- Summary: 韓国は 特定金融情報法 (특정금융정보법, 2021-03-25 施行) で 仮想資産事業者 (VASP / VA-OP, 가상자산사업자) 登録制度を成立させた。登録 2 要件: (a) KISA (Korea Internet & Security Agency) の ISMS 認証 + (b) 国内銀行との実名口座契約 (실명확인 입출금 계정)。両要件を満たして 金融情報分析院 (FIU, 韓国版 FinCEN) に登録できた取引所のみが KRW 取引ペア (KRW spot market) を提供可能。2026 年時点で KRW 取引可能なのは下記 5 社のみ。コイン-only 取引
+- Summary: 韓国では改正「特定金融取引情報の報告及び利用等に関する法律」に基づき、仮想資産事業者が金融委員会（FSC）傘下の金融情報分析院（KoFIU）へ申告する。ISMS 認証は申告要件の一つで、ウォン建て取引を提供する交換業者には銀行の実名確認入出金口座が必要となる。実名口座を持たない事業者のコイン間取引まで一律に「未登録」とは扱わない。本稿の銀行関係は 2026年7月29日に確認した運営会社・銀行の公表に基づくスナップショットである。
 - Headings: 韓国 5 大 CEX 制度比較 — Upbit / Bithumb / Coinone / Korbit / GOPAX, 韓国制度概要, 5 強プロファイル, 実名口座銀行契約 (실명확인 입출금 계정), ISMS-CASP 認証, 国際比較, Related
-- First resolved wikilinks: https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/, https://finwiki.zksc.io/ja/exchanges/jp-vasp-regulatory-timeline/, https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/
+- First resolved wikilinks: https://finwiki.zksc.io/ja/exchanges/cex-bithumb-korea/, https://finwiki.zksc.io/ja/exchanges/cex-upbit-korea/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/, https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/, https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/
 
 ### 韓国 Kimchi Premium 経済学 — Upbit/Bithumb 局所価格差の構造
 - URL: https://finwiki.zksc.io/ja/exchanges/korea-kimchi-premium-economics/
@@ -5185,8 +5185,8 @@ Public pages listed: 1604
 - Domain: exchanges
 - Type: wiki_entry
 - Summary: This entry sits under exchanges index. Read it against global dex major five comparison for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.
-- Headings: Solana エコシステム DEX 群比較, Wiki route, 概要, Top 6 protocol プロファイル, 比較表 (設計 / 用途 / TVL), memecoin 経済学 (Solana 独自), 国際比較 — EVM 系との対比
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/amm-design-evolution/, https://finwiki.zksc.io/ja/exchanges/cross-chain-bridge-cex-deposit-withdrawal/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/global-dex-major-five-comparison/, https://finwiki.zksc.io/ja/exchanges/global-perp-dex-five-comparison/, https://finwiki.zksc.io/ja/exchanges/jvcea-whitelist-listing-timeline/, https://finwiki.zksc.io/ja/exchanges/native-dex-flip-incumbent-pattern/, https://finwiki.zksc.io/ja/exchanges/ve33-governance-mechanism/, https://finwiki.zksc.io/ja/systems/cross-chain-four-poles-overview/
+- Headings: Solana エコシステム DEX 群比較, Wiki route, 概要, 6 protocol プロファイル, 比較表 (設計 / 用途), memecoin 経済学 (Solana 独自), 国際比較 — EVM 系との対比
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/amm-design-evolution/, https://finwiki.zksc.io/ja/exchanges/cross-chain-bridge-cex-deposit-withdrawal/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/global-dex-major-five-comparison/, https://finwiki.zksc.io/ja/exchanges/global-perp-dex-five-comparison/, https://finwiki.zksc.io/ja/exchanges/ve33-governance-mechanism/, https://finwiki.zksc.io/ja/systems/cross-chain-four-poles-overview/
 
 ### スイス FINMA 暗号資産ライセンス + Crypto Valley エコシステム
 - URL: https://finwiki.zksc.io/ja/exchanges/switzerland-finma-crypto-valley-overview/
@@ -17204,6 +17204,15 @@ Public pages listed: 1604
 - Domain: releases
 - Type: release_note
 - Headings: デリバティブ・証券化の表出典196件を校正, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
+
+### 暗号資産取引所・カストディの表出典123件を校正
+- URL: https://finwiki.zksc.io/releases/v2026.07.29-16.md
+- Raw Markdown: https://finwiki.zksc.io/releases/v2026.07.29-16.md
+- Source path: releases/v2026.07.29-16.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.29-16.md
+- Domain: releases
+- Type: release_note
+- Headings: 暗号資産取引所・カストディの表出典123件を校正, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
 
 ### 事実鮮度イベント推論の精度改善
 - URL: https://finwiki.zksc.io/releases/v2026.07.29-2.md

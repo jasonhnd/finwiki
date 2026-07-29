@@ -1,20 +1,20 @@
 ---
 source: exchanges/cex-mercado-bitcoin-brazil
-source_hash: a33fa2a88476078b
+source_hash: ae0b04ee64890c63
 lang: en
 status: machine
 fidelity: ok
-title: "Mercado Bitcoin — Brazil's largest CEX / SoftBank-backed / RWA tokenization push overview"
-translated_at: 2026-05-31T03:19:56.469Z
+title: "Mercado Bitcoin — Brazilian CEX / RWA tokenization overview"
+translated_at: 2026-07-29T12:03:55.000Z
 ---
 
-# Mercado Bitcoin — Brazil's largest CEX / SoftBank-backed / RWA tokenization push overview
+# Mercado Bitcoin — Brazilian CEX / RWA tokenization overview
 
 ## Wiki route
 
 This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/cex-foxbit-brazil|Foxbit]] for the closest Brazil peer / contrast context, [[exchanges/global-cex-top10-comparison|global CEX top 10 comparison]] for the broader global benchmark, and [[exchanges/rwa-tokenization-cex-integration|RWA tokenization × CEX integration]] for the RWA-on-CEX vertical.
 
-> Founded 2013-07  · Brazil's largest CEX · held by 2TM Group · 2021-07  SoftBank Latin America Fund led $200M (became a unicorn) · under BCB / CVM regulation · leads South America in RWA tokenization
+> Founded 2013-07 · Brazilian BRL spot CEX · held by 2TM Group · 2021-07 SoftBank Latin America Fund-led $200M round · under BCB / CVM regulation · offers RWA tokenization
 
 ## 1. Entity & shareholders
 
@@ -34,74 +34,66 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
   - **Mercado Bitcoin Bank** (payment-processor related)
   - **MB Tokens** (tokenization subsidiary)
   - **Portal** (Web3  wallet / infrastructure)
-- IPO consideration: reports of considering a listing on both US and Brazilian markets over 2021–2022 ; shelved amid the crypto-market downturn
 
 ## 2. Registration & license status (Brazilian regime)
 
 - **Banco Central do Brasil (BCB) authorization**: under **Lei 14.478/2022 (marco legal de criptoativos, the crypto-asset law, promulgated 2022-12 , in force 2023-06 )**, BCB was designated as the authorizing / supervisory authority for VASPs (**Prestadores de Serviços de Ativos Virtuais, PSAV**)
-  - Over 2024–2025 年: BCB began full-scale operation of the PSAV authorization regime, with Mercado Bitcoin also subject to the registration process
+  - BCB published Resolutions 519 / 520 / 521 in 2025, with the principal authorization and operating rules taking effect on 2026-02-02. Existing providers are subject to transition procedures
 - **CVM (Comissão de Valores Mobiliários, Brazil's securities commission)**: the supervisory authority for tokenized securities; **MB Tokens**' RWA tokenization is under CVM regulation
 - **Receita Federal**: crypto taxation / transaction-reporting obligations (**monthly transactions above BRL 30,000  require declaration**)
 - **AML/CFT**: reporting obligation to COAF (Conselho de Controle de Atividades Financeiras, Brazil's FIU equivalent)
 
 ## 3. Traded currencies
 
-- BRL spot market (Brazil's largest liquidity)
-- Number of listed assets: 250+ (major assets such as BTC / ETH / SOL / XRP + Brazilian projects)
+- BRL spot market
+- Offers major crypto assets and Brazil-related products. Because individual listings change over time, this entry does not fix an asset count
 - USDT / USDC markets also offered
 - **MB Tokens (RWA tokenization)**: sells tokenized products such as **precatórios (court-judgment receivables)**, real-estate stakes, and agricultural receivables (a uniquely Brazilian RWA use case)
 
 ## 4. Scope of business
 
-- Spot trading (centered on BRL pairs, the world's largest BRL liquidity)
+- Spot trading (centered on BRL pairs)
 - Derivatives: futures / margin trading are limited; cautiously observing the regulatory environment
 - Staking: limited (custodial staking)
 - **RWA tokenization**: offers tokenized products such as precatórios / real estate / agricultural receivables / SME receivables / solar-power receivables via MB Tokens (**in Brazil, the line between utility tokens and security tokens is operated under Lei 14.478/2022  + CVM ICVM 88 **)
 - Fiat deposits: integrated with **PIX** (the Banco Central do Brasil instant-settlement system), via TED / DOC
 - Institutional: MB Institutional, OTC desk
 
-## 5. Market share & trading volume
+## 5. How to read scale information
 
-- **Brazilian spot-market share**: overwhelming top position (estimated 60–70%)
-- 24h volume: $50–500M (BRL-liquidity equivalent)
-- Number of users: over 400 万 (official disclosure basis)
-- Global CEX ranking: within top 50  (decisively #1 in the South America region)
+- Market share, 24h volume, rank, and user count change with the observation time and dataset, so this entry does not adopt fixed values
+- Brazilian peer comparisons should align BRL pairs, the covered period, and the scope of domestic and overseas platforms
+- As a static company-scale reference, distinguish the $200M Series B in 2021-07 from the valuation disclosed at that time
 
 ## 6. History & major events
 
+Source: The entire table is based on [Mercado Bitcoin's official company profile](https://www.mercadobitcoin.com.br/quem-somos), [Lei 14.478/2022](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14478.htm), and the [Banco Central do Brasil regulatory announcement](https://www.bcb.gov.br/detalhenoticia/20918/nota?s=08), checked on 2026-07-29.
+
 | Period | Item |
 |------|------|
-| 2013-07 | Mercado Bitcoin founded (began operations as one of Brazil's early full-scale CEXs) |
-| 2017 | Established its position as the largest CEX during Brazil's virtual-currency boom |
-| 2020 | 2TM Group shareholding structure completed |
-| 2021-01 | 2X Capital led Series A |
-| **2021-07** | **SoftBank Latin America Fund led Series B $200M, valuation $2.1B (South America's first crypto-industry unicorn)** |
-| 2021-09 | Acquired Mercado Bitcoin Bank (payment processor) |
-| 2022 | Crypto-market downturn; IPO plan shelved |
-| 2022-12 | **Lei 14.478/2022 (marco legal de criptoativos) promulgated**, Brazil's crypto-asset law enacted |
-| 2023-06 | Lei 14.478/2022  in force; BCB designated as PSAV supervisory authority |
-| 2023–2024 | Rolled out **precatórios tokenization** products via MB Tokens, becoming the leader of the South American RWA market |
-| 2024 | BCB PSAV authorization regime enters full operation, Mercado Bitcoin subject to registration |
-| 2024–2026 | Expanded RWA-tokenization product line, rolled out to institutional investors |
+| 2013 | Mercado Bitcoin began operating |
+| 2022-12 | Lei 14.478/2022 was promulgated |
+| 2025 | BCB published Resolutions 519 / 520 / 521 for PSAVs |
+| 2026-02-02 | BCB's principal authorization and operating rules took effect, starting the transition period for existing providers |
 
 ## 7. Strategic developments
 
-- **RWA tokenization strategy**: leveraging the flexibility of Brazil's legal system (especially locally specific RWAs such as precatórios / agricultural receivables) to establish a position as the leader of RWA tokenization in the South America region. Compared even to global RWA players (see [[exchanges/rwa-tokenization-cex-integration|RWA × CEX integration]]), it holds a distinctive position **specialized in uniquely South American RWAs**
-- **PIX integration**: full integration with PIX, the Banco Central do Brasil instant-settlement system, overwhelming other CEXs on 24/7  deposit-and-withdrawal UX
-- **BCB / CVM regulatory response**: dual response of PSAV registration after the enactment of Lei 14.478/2022  + CVM tokenized-securities regulation — higher regulatory-compliance cost burden but first-mover advantage
+- **RWA tokenization strategy**: productizes Brazil-specific RWAs such as precatórios / agricultural receivables, forming a regional case for [[exchanges/rwa-tokenization-cex-integration|RWA × CEX integration]]
+- **PIX integration**: uses PIX, the Banco Central do Brasil instant-settlement system, as a fiat rail
+- **BCB / CVM regulatory response**: treats the PSAV regime under Lei 14.478/2022 and CVM securities classification as separate regulatory boundaries
 - **Relationship with SoftBank**: continued support from the SoftBank Latin America Fund, and collaboration opportunities with the Latin America Fund's portfolio companies
-- **South America regional expansion**: considering expansion to Argentina / Colombia / Mexico, etc., though continuing to concentrate on the Brazilian core
-- **Stablecoin strategy**: a BRL stablecoin concept / providing local liquidity for USDT / USDC
+- **Regional comparison**: business in Argentina / Colombia / Mexico is recorded only where an actual entity, authorization, and product offering can be confirmed
+- **Stablecoin support**: records only offerings that can be confirmed as current, such as USDT / USDC markets
 
 ## 8. Positioning in the industry
 
-As the **flagship enterprise of the South American crypto-currency industry**, Mercado Bitcoin leads the South American CEX industry through the 3  factors of its response to Brazilian local regulation (Lei 14.478/2022  + CVM tokenized securities) + early rollout of RWA tokenization + support from global institutional investors such as SoftBank.
+Mercado Bitcoin is a regional CEX case for examining Brazilian regulation (Lei 14.478/2022 and CVM securities classification), RWA tokenization, and institutional funding together.
 
-It does not reach [[exchanges/global-cex-top10-comparison|グローバル top 10]], but in the **South America region it is effectively the only quasi-global CEX**. As a comparison there is [[exchanges/cex-foxbit-brazil|Foxbit]] (Brazil #2, with a long history of real-pair trading), but Mercado Bitcoin leads by a wide margin in scale, funding, and regulatory response.
+Comparison with [[exchanges/cex-foxbit-brazil|Foxbit]] examines RWA products, funding, PIX rails, and regulatory treatment separately. This entry does not fix changing domestic or global ranks or infer an advantage.
 
 ## Related
 
-- [[exchanges/cex-foxbit-brazil]] — Brazil #2 (most important cross-link)
+- [[exchanges/cex-foxbit-brazil]] — Brazilian BRL spot CEX comparison (most important cross-link)
 - [[exchanges/global-cex-top10-comparison]] — Global CEX top 10
 - [[exchanges/rwa-tokenization-cex-integration]] — RWA tokenization × CEX integration
 - [[exchanges/global-vasp-regulatory-comparison-matrix]] — Global VASP regulatory comparison

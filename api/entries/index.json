@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-07-29T19:24:35+09:00",
+  "generated_at": "2026-07-29T21:36:49+09:00",
   "site_url": "https://finwiki.zksc.io/",
   "total_entries": 1482,
   "entries": [
@@ -3306,7 +3306,7 @@
     {
       "slug": "exchanges/cex-coindcx-india",
       "domain": "exchanges",
-      "title": "CoinDCX — インド最大 CEX / FIU-IND PMLA registered overview",
+      "title": "CoinDCX — インド CEX / FIU-IND PMLA reporting entity overview",
       "api_url": "https://finwiki.zksc.io/api/entries/exchanges/cex-coindcx-india.json",
       "url": "https://finwiki.zksc.io/ja/exchanges/cex-coindcx-india/",
       "html_url": "https://finwiki.zksc.io/ja/exchanges/cex-coindcx-india/",
@@ -3319,7 +3319,7 @@
     {
       "slug": "exchanges/cex-coinone-korea",
       "domain": "exchanges",
-      "title": "Coinone（코인원）— 韓国 CEX 中堅 / NH農协銀行実名口座 / 独立系 overview",
+      "title": "Coinone（코인원）— 韓国 KRW spot CEX / NH農协銀行実名口座 overview",
       "api_url": "https://finwiki.zksc.io/api/entries/exchanges/cex-coinone-korea.json",
       "url": "https://finwiki.zksc.io/ja/exchanges/cex-coinone-korea/",
       "html_url": "https://finwiki.zksc.io/ja/exchanges/cex-coinone-korea/",
@@ -3332,7 +3332,7 @@
     {
       "slug": "exchanges/cex-foxbit-brazil",
       "domain": "exchanges",
-      "title": "Foxbit — ブラジル CEX #2 / 老舗 BRL ペア流動性 overview",
+      "title": "Foxbit — ブラジル老舗 CEX / BRL ペア overview",
       "api_url": "https://finwiki.zksc.io/api/entries/exchanges/cex-foxbit-brazil.json",
       "url": "https://finwiki.zksc.io/ja/exchanges/cex-foxbit-brazil/",
       "html_url": "https://finwiki.zksc.io/ja/exchanges/cex-foxbit-brazil/",
@@ -3345,7 +3345,7 @@
     {
       "slug": "exchanges/cex-gopax-korea",
       "domain": "exchanges",
-      "title": "GOPAX（고팍스）— 韓国 CEX #5 / Binance 2023-02 過半数取得 → FIU 抗議で部分後退 overview",
+      "title": "GOPAX（고팍스）— 韓国 CEX / Binance 出資 overview",
       "api_url": "https://finwiki.zksc.io/api/entries/exchanges/cex-gopax-korea.json",
       "url": "https://finwiki.zksc.io/ja/exchanges/cex-gopax-korea/",
       "html_url": "https://finwiki.zksc.io/ja/exchanges/cex-gopax-korea/",
@@ -3358,7 +3358,7 @@
     {
       "slug": "exchanges/cex-korbit-korea",
       "domain": "exchanges",
-      "title": "Korbit（코빗）— 韓国初の CEX / SK Square 子会社 / 4-pair-bank exclusivity overview",
+      "title": "Korbit（코빗）— 韓国初の CEX / SK Square 出資 / Shinhan 実名口座 overview",
       "api_url": "https://finwiki.zksc.io/api/entries/exchanges/cex-korbit-korea.json",
       "url": "https://finwiki.zksc.io/ja/exchanges/cex-korbit-korea/",
       "html_url": "https://finwiki.zksc.io/ja/exchanges/cex-korbit-korea/",
@@ -3384,7 +3384,7 @@
     {
       "slug": "exchanges/cex-mercado-bitcoin-brazil",
       "domain": "exchanges",
-      "title": "Mercado Bitcoin — ブラジル最大 CEX / SoftBank 出資 / RWA tokenization push overview",
+      "title": "Mercado Bitcoin — ブラジル CEX / RWA tokenization overview",
       "api_url": "https://finwiki.zksc.io/api/entries/exchanges/cex-mercado-bitcoin-brazil.json",
       "url": "https://finwiki.zksc.io/ja/exchanges/cex-mercado-bitcoin-brazil/",
       "html_url": "https://finwiki.zksc.io/ja/exchanges/cex-mercado-bitcoin-brazil/",
@@ -3410,7 +3410,7 @@
     {
       "slug": "exchanges/cex-upbit-korea",
       "domain": "exchanges",
-      "title": "Upbit（업비트）/ Dunamu — 韓国 spot 市場圧倒的首位 overview",
+      "title": "Upbit（업비트）/ Dunamu — 韓国 KRW spot CEX overview",
       "api_url": "https://finwiki.zksc.io/api/entries/exchanges/cex-upbit-korea.json",
       "url": "https://finwiki.zksc.io/ja/exchanges/cex-upbit-korea/",
       "html_url": "https://finwiki.zksc.io/ja/exchanges/cex-upbit-korea/",
@@ -3436,7 +3436,7 @@
     {
       "slug": "exchanges/cex-wazirx-india",
       "domain": "exchanges",
-      "title": "WazirX — インド CEX / 2024-07 Liminal hack ~$235M 被害 overview",
+      "title": "WazirX — インド CEX / 2024-07 cyberattack overview",
       "api_url": "https://finwiki.zksc.io/api/entries/exchanges/cex-wazirx-india.json",
       "url": "https://finwiki.zksc.io/ja/exchanges/cex-wazirx-india/",
       "html_url": "https://finwiki.zksc.io/ja/exchanges/cex-wazirx-india/",
@@ -3579,7 +3579,7 @@
     {
       "slug": "exchanges/fsa-foreign-exchange-warning-system",
       "domain": "exchanges",
-      "title": "FSA 海外無登録暗号資産取引所 警告書発出制度 (2018-2025)",
+      "title": "FSA 海外無登録暗号資産取引所 警告書発出制度",
       "api_url": "https://finwiki.zksc.io/api/entries/exchanges/fsa-foreign-exchange-warning-system.json",
       "url": "https://finwiki.zksc.io/ja/exchanges/fsa-foreign-exchange-warning-system/",
       "html_url": "https://finwiki.zksc.io/ja/exchanges/fsa-foreign-exchange-warning-system/",
@@ -3644,7 +3644,7 @@
     {
       "slug": "exchanges/global-cex-top10-comparison",
       "domain": "exchanges",
-      "title": "グローバル CEX top 10 ランキング比較 (2025-2026)",
+      "title": "グローバル CEX ランキング参照ガイド",
       "api_url": "https://finwiki.zksc.io/api/entries/exchanges/global-cex-top10-comparison.json",
       "url": "https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/",
       "html_url": "https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/",
@@ -3943,7 +3943,7 @@
     {
       "slug": "exchanges/jp-crypto-bank-credit-facilities",
       "domain": "exchanges",
-      "title": "CEX × 日本銀行 無担保授信実績図譜",
+      "title": "CEX × 日本銀行 公開コミットメントライン事例",
       "api_url": "https://finwiki.zksc.io/api/entries/exchanges/jp-crypto-bank-credit-facilities.json",
       "url": "https://finwiki.zksc.io/ja/exchanges/jp-crypto-bank-credit-facilities/",
       "html_url": "https://finwiki.zksc.io/ja/exchanges/jp-crypto-bank-credit-facilities/",
@@ -4385,7 +4385,7 @@
     {
       "slug": "exchanges/jp-exchange-kraken-japan-historical",
       "domain": "exchanges",
-      "title": "Payward Asia (Kraken Japan) — 日本暗号資産交換業者（dormant / 撤退）overview",
+      "title": "Payward Asia (Kraken Japan) — 日本暗号資産交換業者（撤退済み）overview",
       "api_url": "https://finwiki.zksc.io/api/entries/exchanges/jp-exchange-kraken-japan-historical.json",
       "url": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-kraken-japan-historical/",
       "html_url": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-kraken-japan-historical/",
@@ -4398,7 +4398,7 @@
     {
       "slug": "exchanges/jp-exchange-laser-digital-japan",
       "domain": "exchanges",
-      "title": "Laser Digital Japan — 日本暗号資産交換業者 overview",
+      "title": "Laser Digital Japan — 日本法人・暗号資産関連事業 overview",
       "api_url": "https://finwiki.zksc.io/api/entries/exchanges/jp-exchange-laser-digital-japan.json",
       "url": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-laser-digital-japan/",
       "html_url": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-laser-digital-japan/",
@@ -4411,7 +4411,7 @@
     {
       "slug": "exchanges/jp-exchange-line-xenesis",
       "domain": "exchanges",
-      "title": "LINE Xenesis株式会社 — 日本暗号資産交換業者 overview",
+      "title": "LINE Xenesis株式会社 — 日本暗号資産交換業者（サービス終了）overview",
       "api_url": "https://finwiki.zksc.io/api/entries/exchanges/jp-exchange-line-xenesis.json",
       "url": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-line-xenesis/",
       "html_url": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-line-xenesis/",
@@ -4567,7 +4567,7 @@
     {
       "slug": "exchanges/jp-exchange-tokyo-hash",
       "domain": "exchanges",
-      "title": "東京ハッシュ株式会社 — 日本暗号資産交換業者 overview",
+      "title": "HashKey Japan株式会社（旧 東京ハッシュ株式会社） — 日本暗号資産交換業者 overview",
       "api_url": "https://finwiki.zksc.io/api/entries/exchanges/jp-exchange-tokyo-hash.json",
       "url": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-tokyo-hash/",
       "html_url": "https://finwiki.zksc.io/ja/exchanges/jp-exchange-tokyo-hash/",
@@ -4645,7 +4645,7 @@
     {
       "slug": "exchanges/jp-foreign-exchange-bitforex",
       "domain": "exchanges",
-      "title": "Bitforex Limited — 日本向け無登録海外暗号資産交換業者（FSA 警告 2 回・2024 年実質閉鎖）",
+      "title": "Bitforex Limited — 日本向け無登録海外暗号資産交換業者（FSA 警告 2 回）",
       "api_url": "https://finwiki.zksc.io/api/entries/exchanges/jp-foreign-exchange-bitforex.json",
       "url": "https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bitforex/",
       "html_url": "https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bitforex/",
@@ -4918,7 +4918,7 @@
     {
       "slug": "exchanges/jvcea-whitelist-listing-timeline",
       "domain": "exchanges",
-      "title": "JVCEA WhiteList 上場銘柄 timeline (2017-2026)",
+      "title": "JVCEA Green List / 取扱暗号資産 公開資料 timeline (2017-2026)",
       "api_url": "https://finwiki.zksc.io/api/entries/exchanges/jvcea-whitelist-listing-timeline.json",
       "url": "https://finwiki.zksc.io/ja/exchanges/jvcea-whitelist-listing-timeline/",
       "html_url": "https://finwiki.zksc.io/ja/exchanges/jvcea-whitelist-listing-timeline/",

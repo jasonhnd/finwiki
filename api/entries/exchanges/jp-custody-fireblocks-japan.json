@@ -23,9 +23,9 @@
     "domain": "exchanges",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-19",
-    "last_tended": "2026-05-19",
-    "review_by": "2027-05-19",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "fintech",
@@ -42,7 +42,6 @@
       "https://www.fireblocks.com/about/",
       "https://www.fireblocks.com/customers/mitsui/",
       "https://en.wikipedia.org/wiki/Fireblocks",
-      "https://www.linkedin.com/company/fireblocks/",
       "https://coinpost.jp/?s=Fireblocks",
       "https://www.neweconomy.jp/?s=Fireblocks"
     ]
@@ -55,19 +54,18 @@
     "2. 牌照・登録状況",
     "3. 対応アセット",
     "4. 業務範囲・主要プロダクト",
-    "5. 市場ポジション・競合比較",
-    "グローバル institutional custody 市場",
-    "日本国内競合・住み分け",
-    "6. 沿革・日本展開"
+    "5. 公式サイトで確認できる製品領域",
+    "6. 公式資料で確認できる沿革・日本事例",
+    "7. 更新境界",
+    "8. 経営陣・日本拠点"
   ],
   "body_links": {
-    "wikilinks_count": 13,
+    "wikilinks_count": 12,
     "wikilinks": [
       "agent-economy/embedded-wallet-network-effects-moat",
       "exchanges/INDEX",
       "exchanges/fsa-vasp-registration-system",
       "exchanges/global-institutional-custody-five-pillars",
-      "exchanges/jp-custody-ginco",
       "exchanges/jp-custody-komainu",
       "exchanges/jp-exchange-sbi-vc-trade",
       "exchanges/jp-institutional-custody-three-pillars",
@@ -82,7 +80,6 @@
       "https://finwiki.zksc.io/ja/domains/exchanges/",
       "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
       "https://finwiki.zksc.io/ja/exchanges/global-institutional-custody-five-pillars/",
-      "https://finwiki.zksc.io/ja/exchanges/jp-custody-ginco/",
       "https://finwiki.zksc.io/ja/exchanges/jp-custody-komainu/",
       "https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/",
       "https://finwiki.zksc.io/ja/exchanges/jp-institutional-custody-three-pillars/",
@@ -92,7 +89,7 @@
       "https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/",
       "https://finwiki.zksc.io/ja/fintech/maina-wallet-kyc-permissionless-ux-bridge/"
     ],
-    "external_links_count": 8,
+    "external_links_count": 7,
     "external_links": [
       "https://coinpost.jp/?s=Fireblocks",
       "https://coinpost.jp/?s=Fireblocks+SMBC",
@@ -100,14 +97,13 @@
       "https://www.fireblocks.com/about/",
       "https://www.fireblocks.com/customers/mitsui/",
       "https://www.ginco.co.jp/en",
-      "https://www.linkedin.com/company/fireblocks/",
       "https://www.neweconomy.jp/?s=Fireblocks+%E4%B8%89%E4%BA%95%E4%BD%8F%E5%8F%8B"
     ]
   },
   "metrics": {
-    "nonspace_chars": 6340,
-    "word_like_tokens": 1039,
+    "nonspace_chars": 5029,
+    "word_like_tokens": 761,
     "inbound_wikilinks_count": 11,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-07-29"
   }
 }

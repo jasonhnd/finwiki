@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-exchange-gaia
-source_hash: 2a759b36467df15a
+source_hash: 74fc1c095555c279
 lang: en
 status: machine
 fidelity: ok
 title: "Gaia Co., Ltd. — Japan crypto-asset exchange operator overview"
-translated_at: 2026-05-31T03:19:56.491Z
+translated_at: 2026-07-29T12:08:22.000Z
 ---
 
 # Gaia Co., Ltd. — Japan crypto-asset exchange operator overview
@@ -34,32 +34,34 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - **Crypto-asset exchange business**: Director-General of the Kinki Local Finance Bureau 第00004号 (registration date 2021-06-18)
 - **JVCEA Type 1 member**: #1034 (joined as Type 2 in 2021年1月 → changed category to Type 1 in 6 of the same year)
 - No registration for financial-instruments business · electronic-payment-instruments transaction business · funds-transfer business (within the scope of disclosed information)
-- Of the Kansai-located crypto-asset exchange VASPs, only 2 社 out of 26 社 ([[exchanges/jp-exchange-zaif|Zaif]]: Director-General of the Kinki Local Finance Bureau 第00001号 and this company; for reference, [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度]])
+- The FSA list places the company under the Kinki Local Finance Bureau. Do not freeze a changing national operator count or jurisdictional rank; consult the latest FSA source and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度]]
 
 ## 3. Handled currencies
 
-- **Number of handled tokens**: 3 tokens (disclosed information as of 2026年5月)
+- **Number of handled assets**: the official BTM installation notice dated 2026-05-26 lists three assets
 - **Supported tokens**: BTC (Bitcoin), ETH (Ethereum), ADA (Cardano)
-- **Characteristics**: the variety of currencies is small and BTC-centric, but ADA support is rare even among domestic VASPs. ETH has a history of being suspended once in 2022年12月 → handling resumed in 2025年12月.
+- **Review boundary**: BTC, ETH, and ADA are based on the handled-assets section of that notice. Current buy/sell directions and transfer availability are governed by the current BTM and web-exchange terms
 
 ## 4. Business scope
 
-- **Flagship service**: the crypto-asset automatic exchange machine BTM (Bitcoin Teller Machine) — deployed as Japan's only crypto-asset ATM (began 2022年8月; for comparison, the ATM business model of [[exchanges/jp-exchange-coinhub|COINHUB]])
+- **Flagship service**: the BTM (Bitcoin Teller Machine) crypto-asset exchange machine. At launch in August 2022, the company described it as Japan's first; that is a historical company claim, not a statement of current exclusivity or market rank (compare [[exchanges/jp-exchange-coinhub|COINHUB]])
 - **BTM**: JPY ↔ BTC / ETH buy / sell, with ADA buy only. Maximum 10万円 per 1 transaction.
 - **WEB exchange service**: online exchange not requiring a BTM (accepted 24 hours, supporting buy / sell of BTC / ETH / ADA)
-- **Inbound support**: with no user registration and only an ICAO-compliant IC passport, exchanges other than ADA selling are possible (for foreign tourists)
+- **Inbound support**: a flow using an ICAO-compliant IC passport without advance user registration. This does not mean identity checks are absent; eligible transactions and limits are governed by the current terms
 - **BTM unit sales**: a sales scheme for BTM units is offered to partners
 - **Fiat deposit channels**: cash banknotes (ATM insertion) or bank-account transfer
-- **Margin / derivative / staking / NFT / crypto-asset lending**: no disclosed information
+- **Margin / derivatives / staking / NFTs / crypto-asset lending**: no offering was shown in the official service pages and terms reviewed on 2026-07-29
 
 ## 5. Market share · trading volume
 
-- Account count · trading volume are not disclosed
-- The scale is classified as small-scale niche (employees 15名, capital 2,990万円)
-- BTM installation count: in 2022年8月 installed the 1th unit domestically (Osaka) → 9 the 2th unit (Tokyo) → 11 the 3th unit. As of 2026年5月1日, temporarily suspended from use (the reason is not detailed within the scope of disclosed information)
-- Customer base: retail (BTM users) + inbound tourists
+- Among the Gaia, FSA, and JVCEA materials identified in this review as of 2026-07-29, no account-count or trading-volume disclosure was identified. This does not establish that no such disclosure exists
+- Published BTM installations include the first in Osaka in August 2022, the second in Tokyo in September, the third in November, and a fourth at Travel Hub Namba on May 26, 2026. These are historical installation counts and do not establish that every machine is simultaneously operating
+- The May 1, 2026 suspension notice concerned the BTM inside Tokyo Tower and explicitly said the Tokyo office service continued. A new Namba BTM started service on May 26, so the notice should not be described as a suspension of every BTM
+- Public services address BTM and web-exchange users, including an IC-passport flow for visitors; no market-share rank is inferred
 
 ## 6. History · major incidents
+
+The table below is limited to corporate, registration, and service milestones confirmed through Gaia's official company profile and news, the FSA registry, and the JVCEA list. “Japan's first BTM” is the wording of the company's August 2022 launch announcement, not a current market ranking.^[Sources: https://www.gaia-btm.com/company/; https://www.gaia-btm.com/news/2022/20220802843/; https://www.gaia-btm.com/news/2026/202605011326/; https://www.gaia-btm.com/news/2026/202605261333/; https://jvcea.or.jp/member/.]
 
 | Date | Item |
 |------|------|
@@ -80,14 +82,15 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 | 2022年12月 | ETH handling temporarily suspended |
 | 2025年12月 | ETH handling resumed |
 | 2026年4月 | Changed login specifications by introducing passkeys |
-| 2026年5月 | BTM temporarily suspended from use (reason unknown, disclosed) |
+| 2026-05-01 | Announced a temporary suspension of the BTM inside Tokyo Tower; Tokyo office service continued |
+| 2026-05-26 | Installed what the company called its fourth domestic BTM at Travel Hub Namba and started service |
 
 ## 7. Strategic developments
 
-- Offers a partner-sales scheme for BTM units, seeking BTM-installation expansion to other companies · other operators
-- Starting identity-verification-free exchange for foreign tourists (inbound) via a passport-verification method is a unique line for capturing inbound demand
-- The meaning of the current temporary BTM suspension as of 2026年5月 is unclear in strategic · regulatory terms (not detailed within the scope of disclosed information)
-- Joining the Japan Vending System Manufacturers Association indicates an intent to deploy the BTM cross-industry as a "vending machine" category
+- The official service presents a partner-sales scheme for BTM units and installation with other operators
+- The visitor flow permits use without advance registration by checking an IC passport; it should not be described as identity-verification-free
+- A new BTM began service at Travel Hub Namba on May 26, 2026. This should be read separately from the May 1 temporary suspension of the Tokyo Tower machine
+- A July 8, 2026 official warning explains user-protection responses to scams and financial crime involving BTM or web-exchange use directed by third parties
 
 ## 8. Related people
 
@@ -116,3 +119,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - [FSA crypto-asset exchange operator registration list Excel](https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx) (snapshot 令和8年4月1日 = 2026-04-01)
 - [Gaia news list 2022年](https://www.gaia-btm.com/news/2022/) (retrieved 2026-05-18)
 - [Gaia news list 2021年](https://www.gaia-btm.com/news/2021/) (retrieved 2026-05-18)
+- [Launch of services under the crypto-asset exchange registration and first BTM announcement](https://www.gaia-btm.com/news/2022/20220802843/) (2022-08-02)
+- [Temporary suspension of the Tokyo Tower BTM](https://www.gaia-btm.com/news/2026/202605011326/) (2026-05-01)
+- [Fourth domestic BTM installed at Travel Hub Namba](https://www.gaia-btm.com/news/2026/202605261333/) (2026-05-26)
+- [Warning about scams and trouble involving crypto assets](https://www.gaia-btm.com/news/2026/202607081340/) (2026-07-08)

@@ -1,11 +1,11 @@
 ---
 source: exchanges/dex-orca-solana
-source_hash: 2df99fe3d5e1fdb1
+source_hash: cfd3a920f0455eb0
 lang: en
 status: machine
 fidelity: ok
 title: "Orca Whirlpools — Solana-based concentrated-liquidity AMM overview"
-translated_at: 2026-05-31T03:19:56.457Z
+translated_at: 2026-07-29T11:02:23.000Z
 ---
 
 # Orca Whirlpools — Solana-based concentrated-liquidity AMM overview
@@ -15,71 +15,63 @@ translated_at: 2026-05-31T03:19:56.457Z
 
 This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/dex-raydium-solana|Raydium]] for the Solana AMM peer comparison, [[exchanges/solana-ecosystem-dex-comparison|Solana エコシステム DEX 群比較]] for the broader Solana DEX layer, and [[exchanges/amm-design-evolution|AMM 設計進化系譜]] for the system / design boundary.
 
-> Launched 2021-02  · ORCA token · concentrated-liquidity AMM (Whirlpools, similar to Uniswap v3 ) · retail-UX focused
+> Launched in 2021 · open-source concentrated-liquidity AMM on Solana · ORCA governance and utility token
 
 ## 1. Protocol overview
 
 - **Chain**: Solana L1 (SVM environment)
 - **Model**: concentrated-liquidity AMM (Whirlpools design, functionally similar to Uniswap v3 )
-- **Launch**: 2021-02 (standard AMM), 2022-03 (Whirlpools CLMM)
-- **Token**: ORCA (governance, fee share)
+- **Launch**: 2021 (standard AMM), 2022 (Whirlpools CLMM)
+- **Token**: ORCA (governance / utility; verify current rights in the official Tokenomics documentation)
 - **Official URL**: orca.so
-- **TVL (2024–2026  overview)**: $300–500M range, 5–10% of Solana DEX TVL
-- **24h Volume**: continuously accounts for 10–20% of total Solana DEX
+- **Liquidity provision**: permissionless pool creation and full-range / custom-range positions
 
 ## 2. Design of Whirlpools CLMM
 
 Orca's core product **Whirlpools** is a CLMM that implements Uniswap v3 's concentrated-liquidity concept on Solana SVM. LPs supply liquidity by specifying a price range and earn fees only when trading is within the specified range.
 
-- **fee tier**: 4  tiers of 0.01% / 0.05% / 0.3% / 1% (selected by asset volatility)
+- **fee tiers**: pool-level fee configurations may change; verify them in the current official documentation
 - **tick spacing**: fixed per fee tier (fine-grained range management)
 - **LP NFT**: each LP position is represented as an NFT (same as Uniswap v3 )
 - **active liquidity**: liquidity outside the range cannot earn fees (trade-off between capital efficiency and LP risk)
 
 ## 3. UX / design philosophy
 
-From the outset Orca has billed itself as **"the most user-friendly DEX on Solana,"** differentiating through a UX-first design aimed at the retail tier:
+Orca's current official About page states that it aims to make onchain trading and liquidity provision accessible through clear interfaces, open infrastructure, and Solana-native tools:
 
-- **Fair Price Indicator**: explicitly shows deviation from the oracle price in the UI
-- **Simple swap UI**: omits the fine-grained settings aimed at technical users
-- **Climate contribution**: a design that donates part of trading fees to environmental organizations (2021–2022  period)
-- **Token-listing screening**: not blanket acceptance of memecoins, but a quality-screening-based listing approach (a point of contrast with Raydium)
+- **Clear tools**: interfaces for token swaps and liquidity provision
+- **Permissionless pool creation**: support for pool creation and liquidity management
+- **Open infrastructure**: audited smart contracts, SDKs, and APIs for builders
 
-## 4. Comparison with Raydium (Solana's 2  major AMMs)
+## 4. Orca public-specification snapshot
 
-| Item | Orca | Raydium |
-|---|---|---|
-| Main design | Whirlpools (pure CLMM) | constant product + CLMM + orderbook hook |
-| Listing policy | Screening-based (quality-oriented) | Free listing (accepts memecoins) |
-| TVL scale | $300–500M | $1.5–2.5B |
-| memecoin exposure | Limited | Overwhelming (linked to Pump.fun) |
-| UX assessment | retail-friendly | pro-oriented |
-| token economics | ORCA staking fee share | RAY buy-back |
-| Strengths | stable LPs, institutional orientation, clean UX | aggregator routing volume, memecoin liquidity |
+Source: The entire table is based on Orca's official [About](https://docs.orca.so/support/about), [Developer Overview](https://docs.orca.so/developers/overview), and [ORCA Tokenomics](https://docs.orca.so/governance/tokenomics), checked on 2026-07-29.
 
-The two DEXs are in a competitive relationship, but a division of roles holds due to their differing listing policies. Orca is **stablecoin / blue-chip concentrated**, while Raydium is **long-tail memecoin concentrated**.
+| Item | Officially documented specification |
+|---|---|
+| Network / AMM | Open-source CLMM on Solana (Whirlpools) |
+| Liquidity positions | Users can create and manage full-range or custom-range positions |
+| Protocol history | Orca launched in 2021, Whirlpools in 2022, and the v2 UI in 2024 |
+| ORCA token | Solana SPL governance / utility token; verify supply and related parameters in the current official Tokenomics documentation |
+| Governance | Verify the current DAO proposal, voting, and delegation mechanisms in the official governance documentation |
+
+Dynamic TVL, volume, market share, and other protocols' listing policies are excluded from this static snapshot.
 
 ## 5. Major events / history
 
-- **2021-02**: Orca standard AMM launched
-- **2021–2022**: established its position as one of the two major AMMs alongside Raydium during the Solana DeFi summer
-- **2022-03**: Whirlpools CLMM launched
-- **2022-11**: Solana TVL plunged in the aftermath of the FTX collapse; Orca TVL also fell into the $1B → $100M range
-- **2023**: gradual TVL recovery accompanying the Solana ecosystem's recovery
-- **2024–2025**: during the Pump.fun memecoin mania, ceded volume leadership to Raydium but maintained TVL share as a stable LP layer
-- **2024**: announced Whirlpools deployment to Eclipse Mainnet (Solana SVM L2)
+- **2021**: Orca launched as a constant-product AMM
+- **2022**: Orca launched Whirlpools, its concentrated-liquidity program
+- **2024**: Orca launched the v2 UI for traders, liquidity providers, token creators, and builders
 
 ## 6. Governance / economic model
 
-- **ORCA token**: total supply 100M, governance + partial fee share
-- **fee allocation**: LP 100% in the standard AMM; full amount to LPs within the fee tier in Whirlpools
-- **protocol fee**: variably set by governance vote
-- **Orca DAO**: operated via Realms-based on-chain voting
-- **Foundation form**: the Orca Foundation leads protocol development
+- **ORCA token**: Solana SPL governance and utility token
+- **Token / fee mechanisms**: xORCA, protocol-fee, and treasury parameters may change, so this entry does not freeze allocation ratios; verify them in the official [ORCA Tokenomics](https://docs.orca.so/governance/tokenomics)
+- **Orca DAO**: verify current rights and procedures for proposals, voting, delegation, and the Council in the official governance documentation
 
 ## 7. International comparison / cross-chain strategy
 
-While continuing its Solana-centric strategy, Orca takes a **multi-SVM** strategy through deployment to Eclipse (an SVM L2  on Ethereum). There is no track record of deployment to Aptos / Sui. No plans for EVM deployment have been disclosed.
+The current official Developer Overview describes Whirlpools as an **open-source CLMM on Solana**. This entry does not infer active deployments or a multi-chain / multi-SVM strategy that current official materials do not establish.
 
 For the overall Solana DEX volume and market structure, see [[exchanges/solana-ecosystem-dex-comparison]]; for the comparison with EVM-family DEXs, see [[exchanges/global-dex-major-five-comparison]]. For the lineage of concentrated-liquidity design, see [[exchanges/amm-design-evolution]].
 

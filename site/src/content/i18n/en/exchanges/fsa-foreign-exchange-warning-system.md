@@ -1,14 +1,14 @@
 ---
 source: exchanges/fsa-foreign-exchange-warning-system
-source_hash: 7a6cccc276a30d67
+source_hash: d4bc57f23a8079b6
 lang: en
 status: machine
 fidelity: ok
-title: "FSA warning-letter issuance system for unregistered foreign crypto-asset exchanges (2018-2025)"
-translated_at: 2026-05-31T03:19:56.395Z
+title: "FSA warning-letter issuance system for unregistered foreign crypto-asset exchanges"
+translated_at: 2026-07-29T11:02:23.000Z
 ---
 
-# FSA warning-letter issuance system for unregistered foreign crypto-asset exchanges (2018-2025)
+# FSA warning-letter issuance system for unregistered foreign crypto-asset exchanges
 
 ## Wiki route
 
@@ -16,43 +16,23 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 
 ## System overview
 
-The amended Payment Services Act, effective 2017-04 , prohibited the act of soliciting crypto-asset exchange business to Japanese residents without registration. Against violating foreign operators, the FSA takes a three-stage measure:
+Japan's crypto-asset exchange-service registration regime started in April 2017. Registration is required to provide services in Japan for exchanging crypto-assets and fiat currency. The FSA publishes a list of unregistered overseas operators, including operators of unknown location, to which it has issued warning letters, along with individual notices.
 
-1. **Warning-letter issuance** — written notice, made public by posting on the website
-2. **Continuous monitoring** — multiple issuances against the same operator are also carried out
-3. **App Store / Google Play removal request** (2025+ a new type of measure) — supplementary blocking of domestic access
+This page limits its history to major warning rounds that can be checked directly in FSA notices. It does not infer post-warning service availability, app distribution, incorporation, or withdrawal from this static table.
 
-It has no legal binding force (the limit of extraterritorial application), but the system is designed to block access to the Japanese market.
+## Major warning rounds documented in FSA notices
 
-## Warning-letter issuance history (major 8  operators)
+Source: The entire table is based on individual notices on the FSA's [Crypto-assets and electronic payment instruments](https://www.fsa.go.jp/policy/virtual_currency02/) page and its [list of warned unregistered overseas operators](https://www.fsa.go.jp/policy/virtual_currency/angoushisan_mutouroku.pdf), checked on 2026-07-29.
 
-| Date | Operator | Count |
-|------|--------|------|
-| 2018-03 | [[exchanges/jp-foreign-exchange-binance-holdings-legacy|Binance Holdings]] | 1 -th time |
-| 2020-06 | [[exchanges/jp-foreign-exchange-bitforex|Bitforex]] | 1 -th time |
-| 2021-05 | [[exchanges/jp-foreign-exchange-bybit|Bybit]] | 1 -th time |
-| 2021-06 | [[exchanges/jp-foreign-exchange-binance-holdings-legacy|Binance Holdings]] | 2 -th time |
-| 2023-03 | [[exchanges/jp-foreign-exchange-bybit|Bybit]] / [[exchanges/jp-foreign-exchange-bitget|Bitget]] / [[exchanges/jp-foreign-exchange-bitforex|Bitforex]] / [[exchanges/jp-foreign-exchange-mexc|MEXC]] | 4 社 together |
-| 2024-06 | [[exchanges/jp-foreign-exchange-lbank|LBank]] | 1 -th time |
-| 2024-11 | [[exchanges/jp-foreign-exchange-bybit|Bybit]] (3 -th time = most) / [[exchanges/jp-foreign-exchange-kucoin|KuCoin]] / [[exchanges/jp-foreign-exchange-bitcastle|bitcastle]] / [[exchanges/jp-foreign-exchange-bitget|Bitget]] / [[exchanges/jp-foreign-exchange-mexc|MEXC]] | 5 社 together |
-| 2025-02 | [[exchanges/jp-foreign-exchange-mexc|MEXC]] | App Store removal request |
-| 2025-04 | [[exchanges/jp-foreign-exchange-bitcastle|bitcastle]] | dual warning for crypto-asset and FX business |
-
-## Response patterns of warned operators (3  types)
-
-### Withdrawal
-- [[exchanges/jp-foreign-exchange-bybit|Bybit]] — 2026-03  completely terminated services to Japanese residents
-- [[exchanges/jp-foreign-exchange-kucoin|KuCoin]] — effectively withdrew
-
-### Incorporation (the only route to regularization)
-- [[exchanges/jp-foreign-exchange-binance-holdings-legacy|Binance Holdings]] → [[exchanges/jp-exchange-binance-japan|Binance Japan]] (2022-10  obtained Director-General of Kanto Local Finance Bureau 第00031号 via acquisition of Sakura Exchange)
-
-### Continued operation (ignoring warnings)
-- [[exchanges/jp-foreign-exchange-mexc|MEXC]] / [[exchanges/jp-foreign-exchange-bitget|Bitget]] / [[exchanges/jp-foreign-exchange-lbank|LBank]] / [[exchanges/jp-foreign-exchange-bitcastle|bitcastle]] — continued solicitation to Japanese even while warnings continue
-
-## Significance of the App Store removal request
-
-The 2025-02  MEXC case is an early instance of the FSA directly requesting Apple/Google to remove an app. It is positioned as an **effective measure** that supplements the lack of legal binding force of warning letters and achieves access-blocking at the device layer. It is highly likely to become the standard model for handling foreign operators going forward.
+| Publication date | Operator named by the FSA |
+|---|---|
+| 2018-03-23 | [[exchanges/jp-foreign-exchange-binance-holdings-legacy|Binance]] |
+| 2020-06-26 | [[exchanges/jp-foreign-exchange-bitforex|Bitforex Limited]] |
+| 2021-05-28 | [[exchanges/jp-foreign-exchange-bybit|Bybit Fintech Limited]] |
+| 2021-06-25 | [[exchanges/jp-foreign-exchange-binance-holdings-legacy|Binance Holdings Limited]] |
+| 2023-03-31 | [[exchanges/jp-foreign-exchange-bitget|Bitget Limited]] / [[exchanges/jp-foreign-exchange-mexc|MEXC Global]] / [[exchanges/jp-foreign-exchange-bybit|Bybit Fintech Limited]] / [[exchanges/jp-foreign-exchange-bitforex|Bitforex Limited]] |
+| 2024-06-14 | [[exchanges/jp-foreign-exchange-lbank|LBank Exchange]] |
+| 2024-11-28 | [[exchanges/jp-foreign-exchange-kucoin|KuCoin]] / [[exchanges/jp-foreign-exchange-bitcastle|bitcastle LLC]] / [[exchanges/jp-foreign-exchange-bybit|Bybit Fintech Limited]] / [[exchanges/jp-foreign-exchange-mexc|MEXC Global]] / [[exchanges/jp-foreign-exchange-bitget|Bitget Limited]] |
 
 ## Related
 
@@ -60,9 +40,4 @@ The 2025-02  MEXC case is an early instance of the FSA directly requesting Apple
 - [[exchanges/jp-vasp-regulatory-timeline]] — JP VASP regulatory timeline
 - [[exchanges/fsa-business-improvement-orders-history]] — FSA business-improvement order history
 
-来源: 公開情報整理 (FSA「警告書発出先一覧」、金融庁/関東財務局等の警告書公表、各社サイトの WHOIS/アーカイブ確認)
-
----
-
-> [!note] 2026-05-25 refresh note
-> For the 2025-Q3  / Q4  / 2026  warning rounds following the 2025-04  bitcastle dual warning, re-confirmation against the FSA primary disclosure page has not been completed as of this refresh point (2026-05-25). New additions / timeline extensions will be reflected by directly referring to the FSA "警告書発出先一覧" in an interim refresh before the next review_by (2027-05-19). For the time being, the table treats up to 2025-04  as the official record.
+Source: FSA "Crypto-assets and electronic payment instruments" page and the list of unregistered overseas operators.

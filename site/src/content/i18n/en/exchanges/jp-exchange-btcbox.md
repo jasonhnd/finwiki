@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-exchange-btcbox
-source_hash: 9a915942fd922680
+source_hash: 0eddadf9e225807c
 lang: en
 status: machine
 fidelity: ok
 title: "BTCBOX Co., Ltd. — Japan crypto-asset exchange operator overview"
-translated_at: 2026-05-31T03:19:56.490Z
+translated_at: 2026-07-29T12:10:50Z
 ---
 
 # BTCBOX Co., Ltd. — Japan crypto-asset exchange operator overview
@@ -46,21 +46,22 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - **Spot exchange**: exchange format (order-book trading)
 - **Sales counter (Kantan Baibai)**: began 2020年10月
 - **Derivatives / margin trading**: none (JVCEA Type 1 · crypto-asset exchange business only)
-- **Crypto-asset financing (lending)**: began 2016年2月. A service allowing borrowing of BTC up to a maximum of 3x total assets
+- **Crypto-asset financing (lending)**: launched in February 2016. Borrowing limits and eligibility conditions can change; consult the current product description and contract terms
 - **Anshin Teiki Kounyu (peace-of-mind recurring purchase)**: began 2021年9月 (accumulation service)
-- **Fiat deposit**: bank transfer (no fee from SBI Sumishin Net Bank), instant deposit (began 2020年2月)
+- **Fiat deposit**: bank transfer and instant deposit, the latter launched in February 2020. Consult current deposit guidance for supported institutions and fees
 - **eKYC**: Speedy Identity Verification began 2020年4月
 - **Supported languages**: Japanese · English · Chinese (3 languages)
 
 ## 5. Market share · trading volume
 
-- **Account count · monthly trading volume**: not disclosed (as of 2026-05-18)
-- **Past market position**: after the service began in 2014年4月, it nearly monopolized domestic BTC/JPY trading volume and remained domestic 1位 until 2015年11月 (Wikipedia description, sourced from a bitcoin Japanese-information site)
-- **As of 2019年4月**: in CoinMarketCap's "adjusted trading volume · cryptocurrency exchanges Top100," it recorded 1位 among Japan's exchanges (Wikipedia description, sourced from CoinMarketCap)
-- **Current position**: no latest disclosed data on trading volume · account count. Compared with majors such as [[exchanges/jp-exchange-bitflyer|bitFlyer]] · [[exchanges/jp-exchange-gmo-coin|GMOコイン]] · [[exchanges/jp-exchange-coincheck|Coincheck]], it is recognized within the industry as a niche / mid-positioned independent veteran (see [[exchanges/jvcea-spot-volume-statistics-analysis|JVCEA スポット取引量統計分析]]).
+- **Account count / monthly trading volume**: the company materials reviewed on 2026-07-29 did not identify comparable current figures. This does not establish that no such disclosure exists
+- Historical trading-volume rankings are period-specific secondary-source statements and are not carried forward as current rankings.
+- **Current position**: without current published trading-volume or account-count data, this entry does not assert a market rank (see [[exchanges/jvcea-spot-volume-statistics-analysis|JVCEA スポット取引量統計分析]]).
 - **Customer base**: domestic individuals (overseas individual · corporate accounts can also be opened)
 
 ## 6. History · major incidents
+
+This table is based on milestones confirmed in BTCBOX's official company profile and history, the JVCEA member listing, and FSA registration materials. ^[Sources: https://blog.btcbox.jp/company-profile; https://jvcea.or.jp/member/; https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx.]
 
 | Date | Item |
 |------|------|
@@ -72,6 +73,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 | 2017-09 | Completed FSA registration as a crypto-asset exchange operator (第00008号) |
 | 2017-11 | ETH handling began |
 | 2017-12 | Relocated to the new Kayabacho office |
+| 2018-06-22 | FSA business improvement order addressing governance, AML/CFT, user protection, system risk, and related controls |
 | 2018-10 | TTXHoldings Co., Ltd. founded (Representative Director David Zhang, capital 500万円) |
 | 2018-10 | Announced participation in Liquid Network (Blockstream's Bitcoin sidechain) |
 | 2019-03 | David Zhang transferred all shares to TTXHoldings → TTXHoldings became the full parent |
@@ -84,15 +86,15 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 | 2022-04 | DOGE handling began |
 | 2022-06 | DOT handling began |
 | 2022-07 | TRX handling began |
-| 2025-04 | Reached the 10th anniversary of the service start |
+| 2024-04 | Reached the 10th anniversary of the service start |
 
-**Major incidents**: since the service started in 2014年4月, no security incidents such as hacks have been disclosed (per official-blog · Wikipedia descriptions, as of 2019年). No FSA administrative disposition has been confirmed in the public record (as of 2026-05-18).
+**Major incidents**: within the BTCBOX, FSA, and JVCEA materials designated for this review and checked on 2026-07-29, no administrative action other than the June 22, 2018 FSA business improvement order, and no hack record, was identified. This is not an assertion that none exists.
 
 ## 7. Strategic developments
 
-- Recent public releases are limited to blog.btcbox.jp (mainly informational columns). Public announcements of new-token additions · large-scale capital measures have not been confirmed since 2022年 (not disclosed).
+- Within the official materials designated for this review and checked on 2026-07-29, no new-token addition after TRX in July 2022 or major capital measure was identified. This is not an assertion that none exists.
 - Maintains a small-scale, independent, spot-only line. No publicly announced plans for feature expansion such as derivatives or staking.
-- Continues brand messaging emphasizing more than 10 years since the service start (as of 2025年4月).
+- Has an operating history of more than 10 years since its April 2014 service launch.
 
 ## 8. Related people
 

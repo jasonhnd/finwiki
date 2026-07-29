@@ -1,12 +1,12 @@
 ---
 source: exchanges/solana-ecosystem-dex-comparison
-source_hash: fe3f3690c1ee483b
+source_hash: 01db5473c0ae58e7
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Solana エコシステム DEX 群比較"
-translated_at: 2026-06-26T08:29:25.281Z
+translated_at: 2026-07-29T11:50:43.000Z
 ---
 # Solana エコシステム DEX 群比較
 
@@ -17,34 +17,36 @@ translated_at: 2026-06-26T08:29:25.281Z
 
 ## 概要
 
-Solana は EVM 系 (Ethereum / L2) と異なる SVM (Sealevel Virtual Machine) 環境上で、独自の DEX 生態系を構築している。トップ層には aggregator (DEX 統合 router) である Jupiter が君臨し、その下に Raydium / Orca / Meteora の 3 大 AMM、さらに perp 専門の Drift と機関向け CLOB の Phoenix が併存する 6 層構造となっている。400ms ブロック + 並列実行 + 低 transaction cost (< $0.001) が、retail mania と memecoin 経済を支える基盤となり、2023-2026 期に急成長を遂げた。EVM 生態系の比較は ([[exchanges/global-dex-major-five-comparison]]) 参照。
+Solana 上では、swap aggregator、複数方式の AMM、集中流動性、DLMM、perpetuals、オンチェーン CLOB など異なる設計のプロトコルが並存する。本稿は Jupiter、Raydium、Orca、Meteora、Drift、Phoenix の公式ドキュメントに基づいて機能を比較し、取引高順位、TVL シェア、固定的な手数料・ブロック時間は扱わない。EVM 生態系の比較は [[exchanges/global-dex-major-five-comparison]] を参照。
 
-## Top 6 protocol プロファイル
+## 6 protocol プロファイル
 
-- **Jupiter** — aggregator として Solana 全 DEX を統合する router 層。JUP token を 2024-01 に airdrop launch (Solana 史上最大級の retroactive distribution)。Solana DEX 取引量の 70%+ が Jupiter 経由で routing される、事実上の入口。
-- **Raydium** — 古参 AMM (constant product x*y=k) として 2021 から稼働。RAY token。旧 Serum orderbook integration の legacy を持つが、現在は memecoin 上場経路として再活性化。
-- **Orca** — concentrated liquidity AMM (Whirlpools 設計、Uniswap v3 類似) を採用。ORCA token。UX フレンドリーな UI で retail 層に強い。
-- **Meteora** — DLMM (Dynamic Liquidity Market Maker) と Memecoin プールで急伸。MET token は 2024-2025 確認待ち。Pump.fun 発 memecoin の二次流動性層として機能。
-- **Drift Protocol** — perp DEX (oracle pricing + AMM ハイブリッド)。DRIFT token。Solana perp hub として ([[exchanges/global-perp-dex-five-comparison]]) にも掲載。
-- **Phoenix** — fully on-chain CLOB (注文書方式) を Solana 上で実現。機関向け low-latency 設計。
+- **Jupiter** — 複数の流動性ソースから swap ルートを探索する aggregator。
+- **Raydium** — CPMM、CLMM 等の複数プール設計と swap / 流動性提供機能を持つ AMM。constant product だけに限定しない。
+- **Orca** — Whirlpools による集中流動性 AMM。
+- **Meteora** — DLMM と各種 dynamic pool を提供。
+- **Drift Protocol** — perpetuals を中心に、注文・流動性・オラクルを組み合わせる取引プロトコル。[[exchanges/global-perp-dex-five-comparison]] にも掲載。
+- **Phoenix** — Solana 上の fully on-chain central limit order book。
 
-## 比較表 (設計 / 用途 / TVL)
+## 比較表 (設計 / 用途)
 
-| 名称 | 設計 | 主用途 | token |
-|---|---|---|---|
-| Jupiter | aggregator router | 統合 swap 入口 | JUP |
-| Raydium | constant product AMM | 一般 spot + memecoin 上場 | RAY |
-| Orca | concentrated liquidity AMM | retail UX swap | ORCA |
-| Meteora | DLMM + memecoin プール | memecoin 流動性 | 現在の公開情報範囲では token status 未確認 |
-| Drift | oracle + AMM perp | レバレッジ取引 | DRIFT |
-| Phoenix | on-chain CLOB | 機関 spot 注文板 | (なし) |
+下表は各プロトコルの公式ドキュメントを 2026年7月29日に確認した機能比較である。トークンの有無、日次取引高、TVL、利用者層は変動するため表の評価軸にしない。 ^[Sources: https://dev.jup.ag/docs/; https://docs.raydium.io/raydium/; https://docs.orca.so/; https://docs.meteora.ag/; https://docs.drift.trade/; https://docs.phoenix.trade/.]
 
-6 設計 (aggregator / 標準 AMM / concentrated / DLMM / perp / CLOB) が並存する点が Solana 生態系の厚みを示す。24h vol は合計 $0.5-2B 規模で、その大半が Jupiter 経由 routing。Solana エコシステム TVL の 30-40% を DEX 群が占有する。
+| 名称 | 公式資料で確認できる設計 | 主用途 |
+|---|---|---|
+| Jupiter | aggregator / routing | 複数流動性ソースをまたぐ swap |
+| Raydium | CPMM、CLMM 等 | swap、流動性提供、プール作成 |
+| Orca | Whirlpools（集中流動性 AMM） | swap、集中流動性提供 |
+| Meteora | DLMM、dynamic pools | swap、流動性提供 |
+| Drift | perpetuals、注文・流動性メカニズム | デリバティブ取引 |
+| Phoenix | fully on-chain CLOB | 指値注文型 spot 取引 |
+
+この分類は設計上の主機能を示し、プロトコル間の順位や「6層」の上下関係を意味しない。
 
 ## memecoin 経済学 (Solana 独自)
 
-Solana 独自の現象として、2024- 立ち上がった **Pump.fun** を起点とする memecoin 発行プラットフォームが DEX 取引量を爆発的に押し上げている。Pump.fun で発行 → bonding curve → Raydium / Meteora 上場 → Jupiter swap で即時取引、というパイプラインが確立し、1000+ token/日規模で新規発行される。高ボラティリティと retail mania が結合し、DEX 取引量の構造的駆動要因となっている。
+トークン発行プラットフォーム、AMM / DLMM、aggregator を組み合わせた流動性経路は Solana 上で見られるが、特定プラットフォームから特定 DEX へ必ず移行するわけではない。発行数・取引高・移行先の比率は期間で大きく変動するため固定値を置かない。
 
 ## 国際比較 — EVM 系との対比
 
-EVM (Uniswap / Curve / Aerodrome) 生態系との対比では、Solana SVM は単一 L1 + 並列実行 + 400ms ブロックにより低 cost + 低遅延を実現する一方、EVM は rollup + sequencer model で多チェーン分散構造を取る。AMM 設計進化系譜は ([[exchanges/amm-design-evolution]])、ve(3,3) governance は ([[exchanges/ve33-governance-mechanism]]) を参照。chain native DEX が先行 incumbent を flip する pattern は ([[exchanges/native-dex-flip-incumbent-pattern]]) に対応。規制 + アクセス面では、国内 VASP は SOL spot 取扱を進めているが ([[exchanges/jvcea-whitelist-listing-timeline]])、Solana DEX 自体への直接アクセスは国内ウォレット経由のみで、CEX 経由の自動 routing は存在しない。cross-chain ルート設計は [[systems/cross-chain-four-poles-overview|cross-chain four poles overview]] と [[exchanges/cross-chain-bridge-cex-deposit-withdrawal|cross-chain bridge × CEX 入出金]] を、perp 横比較は [[exchanges/global-perp-dex-five-comparison|global perp DEX 5 社比較]] を併読。
+EVM と Solana では実行環境・アカウントモデル・流動性の分布が異なるため、ブロック時間や手数料の一時点の数値だけで優劣を判断しない。AMM 設計進化系譜は [[exchanges/amm-design-evolution]]、ve(3,3) governance は [[exchanges/ve33-governance-mechanism]] を参照する。国内での SOL 取扱いとオンチェーン DEX へのアクセスは別論点であり、特定ウォレット経路しか存在しない、または CEX routing が存在しないとは断定しない。cross-chain ルート設計は [[systems/cross-chain-four-poles-overview]] と [[exchanges/cross-chain-bridge-cex-deposit-withdrawal]]、perp 横比は [[exchanges/global-perp-dex-five-comparison]] を併読。

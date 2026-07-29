@@ -27,9 +27,9 @@
     "domain": "exchanges",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "exchanges",
@@ -62,7 +62,7 @@
       "https://pro.apex.exchange/"
     ]
   },
-  "summary": "Perpetual-futures DEXs sit on three structurally distinct liquidity models — CLOB (central limit order book on-chain or hybrid), vAMM / pool-counterparty (single multi-asset LP pool serves all traders), and hybrid / oracle-pricing — and a reader who flattens them into \"all perp DEXs\" will misread fe",
+  "summary": "Perpetual-futures DEXs use structurally different liquidity models: CLOB, vAMM / pool-counterparty, and hybrid / oracle-pricing. This entry compares venue and version architecture, including dYdX v3 / v4 and GMX v1 / v2, without freezing fees, leverage, listed markets, settlement parameters, volume,",
   "headings": [
     "Global perp DEX competitive deep-dive matrix",
     "TL;DR",
@@ -117,9 +117,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 28443,
-    "word_like_tokens": 4921,
+    "nonspace_chars": 18117,
+    "word_like_tokens": 2910,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-07-29"
   }
 }

@@ -1,20 +1,20 @@
 ---
 source: exchanges/cex-coindcx-india
-source_hash: e81a5de4c1e809a1
+source_hash: 9d89b31ce00cab65
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
-title: "CoinDCX — インド最大 CEX / FIU-IND PMLA 登録概要"
-translated_at: 2026-06-26T08:28:53.955Z
+title: "CoinDCX — インド CEX / FIU-IND PMLA 報告主体の概要"
+translated_at: 2026-07-29T12:03:55.000Z
 ---
-# CoinDCX — インド最大 CEX / FIU-IND PMLA 登録概要
+# CoinDCX — インド CEX / FIU-IND PMLA 報告主体の概要
 
 ## ウィキ上の位置づけ
 
 本項目は [[exchanges/INDEX|exchanges index]] 配下に位置する。インドにおける最も近い同業比較・対照の文脈では [[exchanges/cex-wazirx-india|WazirX]]、より広いグローバル・ベンチマークでは [[exchanges/global-cex-top10-comparison|global CEX top 10 comparison]]、規制境界の見方では [[exchanges/global-vasp-regulatory-comparison-matrix|グローバル VASP 規制比較]] と併読する。
 
-> 2018-04 設立 · インド現物市場最大手の 1 つ · B Capital / Pantera 出資 · FIU-IND PMLA 登録報告主体 · 2022-04 Unicorn 化（評価額約 $2.15B）
+> 2018-04 設立 · インド INR 現物 CEX · B Capital / Pantera 出資 · FIU-IND PMLA 登録報告主体 · 2022-04 Series D（評価額約 $2.15B）
 
 ## 1. 法人・株主
 
@@ -33,11 +33,10 @@ translated_at: 2026-06-26T08:28:53.955Z
   - **Kingsway Capital** — Series D
   - **Steadview Capital** — Series D
 - **2022-04 Series D 資金調達**：$135M、$2.15B valuation で **インド暗号通貨業界初の Unicorn** に
-- IPO 検討：直接的なアナウンスはないが、インド SEBI 制度整備次第での将来的選択肢
 
 ## 2. 登録・牌照状況（インド制度）
 
-- **FIU-IND（Financial Intelligence Unit – India）登録**：**PMLA（Prevention of Money Laundering Act, 2002）報告主体** として **2024 年期** に正式登録
+- **FIU-IND（Financial Intelligence Unit – India）登録**：**PMLA（Prevention of Money Laundering Act, 2002）報告主体** として 2023 年に登録を公表
   - インド政府が 2023-03 に PMLA を拡張し VASP を **報告主体** に指定したことを受けた登録
   - 国内 VDA（Virtual Digital Asset）プラットフォームに対する初の本格的 AML/CFT 規制適用
 - **GST 登録**：取引手数料に 18% GST 課税
@@ -48,7 +47,7 @@ translated_at: 2026-06-26T08:28:53.955Z
 ## 3. 取扱通貨
 
 - INR 現物市場（PMLA 報告主体 として合法）
-- 取扱銘柄数：500+（BTC / ETH / SOL / XRP / MATIC / ADA / DOGE 等主要銘柄に加え、インド系プロジェクト Polygon (MATIC) の主要取引場の 1 つ）
+- INR 建てと stablecoin 建ての現物商品を扱う。個別の取扱銘柄は随時変わるため、本項では固定件数を置かない
 - USDT / USDC 市場併設
 - CoinDCX Pro / CoinDCX Go の 2 アプリ並立構造（プロ向け / 初心者向けの UX 分離）
 
@@ -60,33 +59,25 @@ translated_at: 2026-06-26T08:28:53.955Z
 - 法定通貨入金：インド国内銀行口座経由（IMPS / UPI / NEFT）。**UPI ルート**は銀行側の暗号通貨対応姿勢により断続的に制限あり
 - B2B / 機関向け：DCX Insurance、カストディ は CoinDCX カストディ（一部機関投資家向け）
 
-## 5. 市占・取引高
+## 5. 規模情報の読み方
 
-- **インド現物市場シェア**：[[exchanges/cex-wazirx-india|WazirX]] と並ぶ二強の一角、2024-07 WazirX Liminal hack 以降は実質的な国内最大手
-- 24h volume：$50–500M（インド国内市場・国際版合算ベース、ピーク時は $1B 超）
-- ユーザー数：1,500 万人超（公式公表ベース）
-- グローバル CEX ランキング：top 30–50 圏内
+- 市場シェア、24h volume、順位、取扱銘柄数は観測時点と集計対象で変わるため、本項では固定値を採用しない
+- 同業比較では、インド国内サービスと国際版を混在させず、同一の基準日・市場・通貨ペアで照合する
+- 静的な企業規模の参照点として、2022-04 Series D の $135M 調達と約 $2.15B valuation を区別して扱う
 
 ## 6. 沿革・重大事件
 
+出典: 表全体は [CoinDCX 公式会社紹介](https://coindcx.com/about-us/) と [CoinDCX 自社による FIU-IND 登録発表](https://coindcx.com/blog/announcements/coindcx-is-now-fiu-registered/)（2026-07-29 確認）に基づく。
+
 | 時期 | 事項 |
 |------|------|
-| 2018-04 | CoinDCX 設立（Sumit Gupta / Neeraj Khandelwal 共同創業） |
-| 2018 | RBI の暗号通貨銀行サービス禁止サーキュラー（後に最高裁が違憲判決、2020-03） |
-| 2020-03 | インド最高裁 RBI サーキュラー違憲判決、暗号通貨業界再活性化 |
-| 2020 | Bain Capital Ventures Series A リード |
-| 2021-08 | B Capital リード Series C、評価額 $1B 接近 |
-| 2022-04 | **Series D $135M、評価額 $2.15B でインド暗号通貨業界初 Unicorn** |
-| 2022-07 | インド 1% TDS / 30% capital gains 課税施行、市場大幅縮小 |
-| 2023-03 | インド政府 PMLA を VDA に拡張、FIU-IND 報告主体制度開始 |
-| 2024 | FIU-IND PMLA 登録完了 |
-| 2024-07 | [[exchanges/cex-wazirx-india|WazirX]] Liminal hack $235M、CoinDCX が事実上の国内最大手に |
-| 2024–2026 | グローバル展開（CoinDCX International）、Web3 ファンド（CoinDCX Ventures）運営 |
+| 2018 | CoinDCX を設立 |
+| 2023-12-08 | CoinDCX が FIU-IND 登録報告主体であることを公式発表 |
 
 ## 7. 戦略動向
 
 - **規制対話戦略**：インド政府（財務省 / FIU-IND / RBI / SEBI）との継続的対話、業界団体 **Bharat Web3 Association (BWA)** の主要メンバーとして規制整備を推進
-- **WazirX hack 後の信頼受益**：2024-07 [[exchanges/cex-wazirx-india|WazirX]] $235M Liminal hack 以降、proof-of-reserves 公表強化、保険・保証体制の前面アピールで国内 #1 ポジション固め
+- **レジリエンス開示**：[[exchanges/cex-wazirx-india|WazirX]] の 2024-07 incident は地域の custody risk を比較する文脈に限定し、CoinDCX への市場シェア移転は推定しない
 - **CoinDCX Ventures**：Web3 / インド系 Web3 プロジェクトへの投資ファンド、エコシステム拡張戦略
 - **国際展開**：CoinDCX International（オフショア法人）経由で先物 / レバレッジ取引、ただしインド国内ユーザーへの提供は規制リスク管理下
 - **1% TDS 対応**：インド独自の源泉徴収制度に対する自動計算 / 報告システム実装、海外 CEX（[[exchanges/jp-foreign-exchange-bybit|Bybit]] / [[exchanges/jp-foreign-exchange-bitget|Bitget]] 等の オフショア）への顧客流出に対抗
@@ -94,13 +85,13 @@ translated_at: 2026-06-26T08:28:53.955Z
 
 ## 8. 業界での位置付け
 
-CoinDCX はインド暗号通貨市場の **最大手 CEX の 1 つ** として、FIU-IND 登録 + 機関投資家ファンディング + ユニコーン評価額の 3 点でインド業界をリードする。グローバルでは [[exchanges/global-cex-top10-comparison|top 10]] には届かないが、インド・南アジア地域では実質的支配的ポジション。
+CoinDCX は、FIU-IND 登録、機関投資家からの資金調達、2022-04 Series D valuation を併せて確認できるインド CEX の事例である。本項は変動する市場順位や地域支配性を固定せず、規制・企業・商品情報を分けて扱う。
 
 インド市場の構造的特徴は **(a) 1% TDS による取引量縮小**、**(b) 30% capital gains の loss-offset 不可**、**(c) FIU-IND PMLA 登録による国内 KYC/AML 統制**、**(d) UPI 銀行アクセスの不安定性** — これらが [[exchanges/cex-wazirx-india|WazirX]] / CoinDCX / ZebPay 等の国内 CEX の業績ボラティリティを大きく規定する。
 
 ## 関連項目
 
-- [[exchanges/cex-wazirx-india]] — インド #2 / Liminal hack 被害（最重要クロスリンク）
+- [[exchanges/cex-wazirx-india]] — インド CEX / 2024-07 cyberattack 比較（最重要クロスリンク）
 - [[exchanges/global-cex-top10-comparison]] — グローバル CEX top 10
 - [[exchanges/global-vasp-regulatory-comparison-matrix]] — グローバル VASP 規制比較
 - [[exchanges/INDEX]] — 取引所ドメインインデックス

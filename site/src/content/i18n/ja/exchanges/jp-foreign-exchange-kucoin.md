@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-foreign-exchange-kucoin
-source_hash: d5cf56664277d558
+source_hash: b74d5d60797abe69
 lang: ja
 status: machine
 fidelity: ok
 title: "KuCoin — 海外無登録暗号資産交換所（日本FSA警告）"
-translated_at: 2026-06-02T12:19:04.236Z
+translated_at: 2026-07-29T11:50:43.000Z
 ---
 ﻿
 # KuCoin — 海外無登録暗号資産交換所（日本FSA警告）
@@ -35,10 +35,7 @@ translated_at: 2026-06-02T12:19:04.236Z
 
 ## 3. 取扱通貨
 
-- 公表なし（公式 IR 資料で日本語確認できず）
-- グローバルでは700銘柄超の取扱いを謳っており、BTC・ETH 等の主要銘柄に加え中小アルトコインを幅広くカバーすることで知られる。
-- **独自トークン**: KCS（KuCoin Token）——同取引所のネイティブトークン。手数料割引・ステーキング収益分配等の用途を持つ。
-- **KuCoin Community Chain (KCC)**: KCS ベースの独自 EVM 互換チェーンを運営。
+- 金融庁の警告資料は KuCoin の取扱銘柄や商品構成を示す資料ではないため、本項では銘柄数や日本居住者向けの提供状況を推定しない。
 
 ## 4. 業務範囲
 
@@ -48,38 +45,23 @@ translated_at: 2026-06-02T12:19:04.236Z
 
 ## 5. 市占・取引高
 
-- 公表なし（日本語 IR 資料確認できず）
-- グローバル市場においては CoinMarketCap 等の外部データ上、top 10 規模の取引高を有する時期が続いたが、2024年以降の米国規制問題および創業者逮捕を経て流出件数・出来高の変動が報告されている。
-- 顧客層: グローバルリテール主体。機関投資家向けサービスも展開。
+- 金融庁の警告資料には、KuCoin の日本での取引高・口座数・市場シェアに関する比較可能な数値は含まれない。本項ではグローバル順位や日本市場での位置付けを推定しない。
 
 ## 6. 沿革・重大事件
 
+下表は金融庁「暗号資産交換業者等に対する警告書の発出について」で確認できる日本向け警告だけを収録する。KuCoin の全社沿革や海外の行政・司法手続を網羅しない。 ^[Sources: https://www.fsa.go.jp/policy/virtual_currency02/index.html; https://www.fsa.go.jp/policy/virtual_currency02/kucoin_keikokushiryo.pdf.]
+
 | 時期 | 内容 |
 |------|------|
-| 2017 | 中国で創業。Chun Gan・Ke Tang・Johnny Lyu（3名）が設立。ICO で5,500 BTC（当時約$2,750万相当）調達 |
-| 2018-11 | IDG Capital・Matrix Partners・Neo Global Capital 主導の Series A で2,000万ドル調達 |
-| 2018 | 本社を香港→シンガポールへ移転（中国当局の暗号資産規制強化を背景） |
-| 2020-09 | 大規模ハック発生：ホットウォレットから2億8,100万ドル相当の暗号資産が盗難（Lazarus Group=北朝鮮系ハッカー集団が関与と推定）。最終的に約78%（2億2,200万ドル）を回収 |
-| 2022-05 | Series B で Jump Crypto 主導1億5,000万ドル調達。評価額100億ドル |
-| 2022-07 | SIG から1,000万ドル追加投資 |
-| 2023-12 | **NY州 AG との和解**：ニューヨーク州 Attorney General と2,200万ドル（罰金＋返金）の和解。証券・商品ブローカーとして未登録で運営していたとの主張に対する和解。NY 州での取引業務を停止 |
-| 2024-03 | 創業者 Chun Gan・Ke Tang が連邦起訴。無登録マネー送金業の運営および AML 違反容疑（ニューヨーク南部地区連邦地裁）。Johnny Lyu はこの時点では起訴対象外 |
 | 2024-11-28 | **金融庁（FSA）が警告書発出**：日本の暗号資産交換業登録なしに日本居住者向けサービスを提供しているとして、無登録海外業者として警告（令和6年11月28日付） |
-| 2025-01 | **米国 DOJ・FinCEN との最終和解**：KuCoin が有罪答弁（Guilty Plea）を行い、Bank Secrecy Act 違反として約2億9,700万ドルの罰金・没収を支払うことで合意。FinCEN 規定により米国顧客へのサービス提供が禁止。創業者2名は和解枠組み外で係属中 |
-| 2026-02 | オーストリア FMA が KuCoin EU Exchange GmbH に新規業務禁止命令。AML 義務違反・金融制裁遵守違反を理由とする |
 
 ## 7. 戦略動向
 
-- 2025年4月、タイ SEC 監督下の ERX Company Ltd. とパートナーシップを締結し「KuCoin Thailand」を開設（2025-04-22 開始）。東南アジアの規制内市場へのアクセスを確保する動き。FSA 警告同日付の対比は [[exchanges/jp-foreign-exchange-bybit|Bybit]] / [[exchanges/jp-foreign-exchange-bitget|Bitget]] / [[exchanges/jp-foreign-exchange-mexc|MEXC]] にあり、警告制度の全体像は [[exchanges/fsa-foreign-exchange-warning-system|FSA 海外取引所警告制度]] 参照。
-- グローバルのコンプライアンス体制強化を標榜し、DOJ 和解後の再建を推進中とされる（具体的内容は公式 PR 以外は未確認）。
-- KCC（KuCoin Community Chain）を通じた DeFi エコシステムへの注力を継続。
+- 金融庁は 2024年11月28日付で KuCoin に警告書を発出した。本項は同資料だけから、その後の日本向けサービスや登録対応を推定しない。同日付の比較は [[exchanges/jp-foreign-exchange-bybit|Bybit]] / [[exchanges/jp-foreign-exchange-bitget|Bitget]] / [[exchanges/jp-foreign-exchange-mexc|MEXC]]、制度の全体像は [[exchanges/fsa-foreign-exchange-warning-system|FSA 海外取引所警告制度]] を参照。
 
 ## 8. 関連人物
 
-- **Chun Gan（甘春）**: 共同創業者。2024年3月連邦起訴（AML 違反・無登録マネー送金業）。
-- **Ke Tang（唐可）**: 共同創業者。同上。
-- **Johnny Lyu（呂俊）**: 共同創業者・元 CEO。2020年ハック対応で公式コメントを発表するなど同社の顔として活動。Wikipedia（2026-05-19 参照時点）では CEO を BC Wong が務めると記載されており、Lyu の現職は公式確認できず。
-- **BC Wong**: Wikipedia 記載の現 CEO（2026-05-19 参照時点、公式 IR での確認は未取得）。
+- 金融庁の警告書は KuCoin の代表者を「Johnny LYU」と記載している。本稿では同資料に記載のない現職、株主構成、海外司法手続を人物欄から推定しない。
 
 ## 関連項目
 

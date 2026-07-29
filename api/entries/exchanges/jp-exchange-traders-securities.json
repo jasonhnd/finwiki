@@ -23,9 +23,9 @@
     "domain": "exchanges",
     "type": null,
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-06-24",
-    "review_by": "2026-08-08",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "fintech",
@@ -59,13 +59,10 @@
     "8. 関連人物"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 8,
     "wikilinks": [
       "exchanges/INDEX",
       "exchanges/fsa-vasp-registration-system",
-      "exchanges/jp-exchange-bi-fxtrade",
-      "exchanges/jp-exchange-monex",
-      "exchanges/jp-exchange-sbi-securities",
       "exchanges/jp-listed-cex-related-companies-matrix",
       "exchanges/jp-vasp-derivative-license-system",
       "exchanges/jp-vasp-parent-company-map",
@@ -76,9 +73,6 @@
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/ja/domains/exchanges/",
       "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
-      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bi-fxtrade/",
-      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-monex/",
-      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-securities/",
       "https://finwiki.zksc.io/ja/exchanges/jp-listed-cex-related-companies-matrix/",
       "https://finwiki.zksc.io/ja/exchanges/jp-vasp-derivative-license-system/",
       "https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/",
@@ -98,9 +92,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 3913,
-    "word_like_tokens": 698,
-    "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-24"
+    "nonspace_chars": 3950,
+    "word_like_tokens": 677,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-07-29"
   }
 }

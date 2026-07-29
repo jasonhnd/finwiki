@@ -23,9 +23,9 @@
     "domain": "exchanges",
     "type": null,
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-06-24",
-    "review_by": "2026-08-08",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "fintech",
@@ -58,11 +58,10 @@
     "8. 関連人物"
   ],
   "body_links": {
-    "wikilinks_count": 12,
+    "wikilinks_count": 11,
     "wikilinks": [
       "exchanges/INDEX",
       "exchanges/fsa-vasp-registration-system",
-      "exchanges/jp-exchange-bitbank",
       "exchanges/jp-exchange-bitflyer",
       "exchanges/jp-exchange-bittrade",
       "exchanges/jp-exchange-custodiem",
@@ -76,7 +75,6 @@
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/ja/domains/exchanges/",
       "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
-      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitbank/",
       "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/",
       "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bittrade/",
       "https://finwiki.zksc.io/ja/exchanges/jp-exchange-custodiem/",
@@ -97,9 +95,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 4385,
-    "word_like_tokens": 756,
+    "nonspace_chars": 4010,
+    "word_like_tokens": 701,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-24"
+    "last_modified": "2026-07-29"
   }
 }

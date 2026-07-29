@@ -24,9 +24,9 @@
     "domain": "exchanges",
     "type": null,
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-06-24",
-    "review_by": "2026-08-08",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "fintech",
@@ -40,6 +40,7 @@
     "sources": [
       "https://www.bittrade.co.jp/ja-jp/profile/",
       "https://www.bittrade.co.jp/ja-jp/disclosure/",
+      "https://static.bittrade.co.jp/pdf/Transaction_Instructions.pdf",
       "https://jvcea.or.jp/member/",
       "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx"
     ]
@@ -58,12 +59,11 @@
     "8. 関連人物"
   ],
   "body_links": {
-    "wikilinks_count": 13,
+    "wikilinks_count": 12,
     "wikilinks": [
       "exchanges/INDEX",
       "exchanges/fsa-vasp-registration-system",
       "exchanges/jp-exchange-binance-japan",
-      "exchanges/jp-exchange-bitbank",
       "exchanges/jp-exchange-gmo-coin",
       "exchanges/jp-ieo-system-and-cases",
       "exchanges/jp-vasp-derivative-license-system",
@@ -78,7 +78,6 @@
       "https://finwiki.zksc.io/ja/domains/exchanges/",
       "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
       "https://finwiki.zksc.io/ja/exchanges/jp-exchange-binance-japan/",
-      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitbank/",
       "https://finwiki.zksc.io/ja/exchanges/jp-exchange-gmo-coin/",
       "https://finwiki.zksc.io/ja/exchanges/jp-ieo-system-and-cases/",
       "https://finwiki.zksc.io/ja/exchanges/jp-vasp-derivative-license-system/",
@@ -89,11 +88,12 @@
       "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
       "https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/"
     ],
-    "external_links_count": 8,
+    "external_links_count": 9,
     "external_links": [
       "https://coinpost.jp/?s=%E3%83%95%E3%82%A9%E3%83%93%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3+%E3%83%93%E3%83%83%E3%83%88%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89",
       "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%83%E3%83%88%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89",
       "https://jvcea.or.jp/member/",
+      "https://static.bittrade.co.jp/pdf/Transaction_Instructions.pdf",
       "https://support.bittrade.co.jp/hc/ja/categories/360002149873",
       "https://www.bittrade.co.jp/ja-jp/disclosure/",
       "https://www.bittrade.co.jp/ja-jp/profile/",
@@ -102,9 +102,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 4734,
-    "word_like_tokens": 866,
+    "nonspace_chars": 5249,
+    "word_like_tokens": 900,
     "inbound_wikilinks_count": 13,
-    "last_modified": "2026-06-24"
+    "last_modified": "2026-07-29"
   }
 }

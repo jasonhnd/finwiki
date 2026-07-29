@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-07-29T19:24:35+09:00",
+  "generated_at": "2026-07-29T21:36:48+09:00",
   "counts": {
-    "markdown_files": 1605,
-    "public_markdown_pages": 1604,
+    "markdown_files": 1606,
+    "public_markdown_pages": 1605,
     "site_urls_in_sitemap": 1482,
     "topical_domains": 40,
     "link_audited_entries": 1489,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10850093,
-    "word_like_tokens": 1748315,
+    "nonspace_utf8_chars": 10828713,
+    "word_like_tokens": 1741930,
     "entity_anchors": 12,
     "entity_mirror_pages": 12,
     "entity_nodes": 89,
@@ -2663,11 +2663,11 @@
         "日本語",
         "English",
         "中文",
-        "2026-07-29 - Table provenance batch 06 corrections (#236)",
+        "2026-07-29 - Table provenance batch 07 corrections (#237)",
         "日本語",
         "English",
         "中文",
-        "2026-07-29 - Table provenance batch 05 corrections (#235)"
+        "2026-07-29 - Table provenance batch 06 corrections (#236)"
       ],
       "wikilinks": [],
       "resolved_wikilinks": [],
@@ -2676,8 +2676,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 254067,
-      "word_like_tokens": 46712,
+      "nonspace_chars": 259936,
+      "word_like_tokens": 47811,
       "last_modified": "2026-07-29"
     },
     {
@@ -3236,8 +3236,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 24204,
-      "word_like_tokens": 4079,
+      "nonspace_chars": 25602,
+      "word_like_tokens": 4301,
       "last_modified": "2026-07-29"
     },
     {
@@ -20765,12 +20765,15 @@
         "https://finwiki.zksc.io/ja/exchanges/korea-cex-five-pillars-comparison/",
         "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.bithumbcorp.com/ko/company/aboutus.php",
+        "https://www.kofiu.go.kr/kor/notification/notice.do"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3449,
-      "word_like_tokens": 585,
-      "last_modified": "2026-05-25"
+      "nonspace_chars": 3020,
+      "word_like_tokens": 486,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/cex-coindcx-india.md",
@@ -20782,19 +20785,19 @@
       },
       "raw_markdown_url": "https://finwiki.zksc.io/exchanges/cex-coindcx-india.md",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/cex-coindcx-india.md",
-      "title": "CoinDCX — インド最大 CEX / FIU-IND PMLA registered overview",
+      "title": "CoinDCX — インド CEX / FIU-IND PMLA reporting entity overview",
       "domain": "exchanges",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
       "summary": "This entry sits under exchanges index. Read it against WazirX for the closest India peer / contrast context, global CEX top 10 comparison for the broader global benchmark, and グローバル VASP 規制比較 for the regulatory boundary view.",
       "headings": [
-        "CoinDCX — インド最大 CEX / FIU-IND PMLA registered overview",
+        "CoinDCX — インド CEX / FIU-IND PMLA reporting entity overview",
         "Wiki route",
         "1. 法人・株主",
         "2. 登録・牌照状況（インド制度）",
         "3. 取扱通貨",
         "4. 業務範囲",
-        "5. 市占・取引高",
+        "5. 規模情報の読み方",
         "6. 沿革・重大事件",
         "7. 戦略動向",
         "8. 業界での位置付け"
@@ -20819,12 +20822,15 @@
         "https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bitget/",
         "https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bybit/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://coindcx.com/about-us/",
+        "https://coindcx.com/blog/announcements/coindcx-is-now-fiu-registered/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5245,
-      "word_like_tokens": 911,
-      "last_modified": "2026-05-25"
+      "nonspace_chars": 4882,
+      "word_like_tokens": 813,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/cex-coinone-korea.md",
@@ -20836,13 +20842,13 @@
       },
       "raw_markdown_url": "https://finwiki.zksc.io/exchanges/cex-coinone-korea.md",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/cex-coinone-korea.md",
-      "title": "Coinone（코인원）— 韓国 CEX 中堅 / NH農协銀行実名口座 / 独立系 overview",
+      "title": "Coinone（코인원）— 韓国 KRW spot CEX / NH農协銀行実名口座 overview",
       "domain": "exchanges",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under exchanges index. Read it against 韓国 5 大 CEX 制度比較 for the Korea peer / regulatory context, Upbit / Bithumb for the closest top-tier peers, and global CEX top 10 comparison for the broader system / market boundary.",
+      "summary": "This entry sits under exchanges index. Read it against 韓国 5 大 CEX 制度比較 for the Korea peer / regulatory context, Upbit / Bithumb for peer comparisons, and global CEX top 10 comparison for the broader system / market boundary.",
       "headings": [
-        "Coinone（코인원）— 韓国 CEX 中堅 / NH農协銀行実名口座 / 独立系 overview",
+        "Coinone（코인원）— 韓国 KRW spot CEX / NH農协銀行実名口座 overview",
         "Wiki route",
         "1. 法人・株主",
         "2. 登録・牌照状況（韓国制度）",
@@ -20873,12 +20879,15 @@
         "https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/",
         "https://finwiki.zksc.io/ja/exchanges/korea-cex-five-pillars-comparison/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.coinonecorp.com/company/history",
+        "https://www.kofiu.go.kr/kor/notification/notice.do"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4706,
-      "word_like_tokens": 742,
-      "last_modified": "2026-05-25"
+      "nonspace_chars": 3911,
+      "word_like_tokens": 590,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/cex-foxbit-brazil.md",
@@ -20890,19 +20899,19 @@
       },
       "raw_markdown_url": "https://finwiki.zksc.io/exchanges/cex-foxbit-brazil.md",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/cex-foxbit-brazil.md",
-      "title": "Foxbit — ブラジル CEX #2 / 老舗 BRL ペア流動性 overview",
+      "title": "Foxbit — ブラジル老舗 CEX / BRL ペア overview",
       "domain": "exchanges",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under exchanges index. Read it against Mercado Bitcoin for the closest Brazil peer / contrast context（#1），global CEX top 10 comparison for the broader global benchmark, and グローバル VASP 規制比較 for the regulatory boundary view.",
+      "summary": "This entry sits under exchanges index. Read it against Mercado Bitcoin for the closest Brazil peer / contrast context, global CEX top 10 comparison for the broader global benchmark, and グローバル VASP 規制比較 for the regulatory boundary view.",
       "headings": [
-        "Foxbit — ブラジル CEX #2 / 老舗 BRL ペア流動性 overview",
+        "Foxbit — ブラジル老舗 CEX / BRL ペア overview",
         "Wiki route",
         "1. 法人・株主",
         "2. 登録・牌照状況（ブラジル制度）",
         "3. 取扱通貨",
         "4. 業務範囲",
-        "5. 市占・取引高",
+        "5. 規模情報の読み方",
         "6. 沿革・重大事件",
         "7. 戦略動向",
         "8. 業界での位置付け"
@@ -20925,12 +20934,16 @@
         "https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/",
         "https://finwiki.zksc.io/ja/exchanges/rwa-tokenization-cex-integration/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://foxbit.com.br/quem-somos/",
+        "https://www.bcb.gov.br/detalhenoticia/20918/nota?s=08",
+        "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14478.htm"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4649,
-      "word_like_tokens": 779,
-      "last_modified": "2026-05-25"
+      "nonspace_chars": 4235,
+      "word_like_tokens": 696,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/cex-gopax-korea.md",
@@ -20942,19 +20955,19 @@
       },
       "raw_markdown_url": "https://finwiki.zksc.io/exchanges/cex-gopax-korea.md",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/cex-gopax-korea.md",
-      "title": "GOPAX（고팍스）— 韓国 CEX #5 / Binance 2023-02 過半数取得 → FIU 抗議で部分後退 overview",
+      "title": "GOPAX（고팍스）— 韓国 CEX / Binance 出資 overview",
       "domain": "exchanges",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
       "summary": "This entry sits under exchanges index. Read it against 韓国 5 大 CEX 制度比較 for the Korea peer / regulatory context, Upbit / Bithumb for the closest top-tier peers, and global CEX top 10 comparison for the broader system / market boundary.",
       "headings": [
-        "GOPAX（고팍스）— 韓国 CEX #5 / Binance 2023-02 過半数取得 → FIU 抗議で部分後退 overview",
+        "GOPAX（고팍스）— 韓国 CEX / Binance 出資 overview",
         "Wiki route",
         "1. 法人・株主",
         "2. 登録・牌照状況（韓国制度）",
         "3. 取扱通貨",
         "4. 業務範囲",
-        "5. 市占・取引高",
+        "5. 規模情報の読み方",
         "6. 沿革・重大事件",
         "7. 戦略動向",
         "8. 業界での位置付け"
@@ -20981,12 +20994,15 @@
         "https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/",
         "https://finwiki.zksc.io/ja/exchanges/korea-cex-five-pillars-comparison/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.binance.com/en/blog/ecosystem/2331858048818231109",
+        "https://www.kofiu.go.kr/kor/notification/notice.do"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5155,
-      "word_like_tokens": 779,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 4465,
+      "word_like_tokens": 665,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/cex-korbit-korea.md",
@@ -20998,19 +21014,19 @@
       },
       "raw_markdown_url": "https://finwiki.zksc.io/exchanges/cex-korbit-korea.md",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/cex-korbit-korea.md",
-      "title": "Korbit（코빗）— 韓国初の CEX / SK Square 子会社 / 4-pair-bank exclusivity overview",
+      "title": "Korbit（코빗）— 韓国初の CEX / SK Square 出資 / Shinhan 実名口座 overview",
       "domain": "exchanges",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
       "summary": "This entry sits under exchanges index. Read it against 韓国 5 大 CEX 制度比較 for the Korea peer / regulatory context, Upbit / Bithumb for the closest top-tier peers, and global CEX top 10 comparison for the broader system / market boundary.",
       "headings": [
-        "Korbit（코빗）— 韓国初の CEX / SK Square 子会社 / 4-pair-bank exclusivity overview",
+        "Korbit（코빗）— 韓国初の CEX / SK Square 出資 / Shinhan 実名口座 overview",
         "Wiki route",
         "1. 法人・株主",
         "2. 登録・牌照状況（韓国制度）",
         "3. 取扱通貨",
         "4. 業務範囲",
-        "5. 市占・取引高",
+        "5. 規模情報の読み方",
         "6. 沿革・重大事件",
         "7. 戦略動向",
         "8. 業界での位置付け"
@@ -21035,12 +21051,16 @@
         "https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/",
         "https://finwiki.zksc.io/ja/exchanges/korea-cex-five-pillars-comparison/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.fsc.go.kr/no010101/76638",
+        "https://www.kofiu.go.kr/kor/notification/notice.do",
+        "https://www.korbit.co.kr/company"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4839,
-      "word_like_tokens": 821,
-      "last_modified": "2026-05-25"
+      "nonspace_chars": 3863,
+      "word_like_tokens": 608,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/cex-matching-engine-wallet-architecture.md",
@@ -21077,8 +21097,7 @@
         "exchanges/jp-institutional-custody-three-pillars",
         "exchanges/jp-vasp-cold-storage-segregation-rules",
         "security/bytecode-forensic-three-tier-verify",
-        "security/forensic-identity-anchor-chain",
-        "security/module-path-confusion-supply-chain-attack"
+        "security/forensic-identity-anchor-chain"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/ja/domains/exchanges/",
@@ -21091,15 +21110,18 @@
         "https://finwiki.zksc.io/ja/exchanges/jp-institutional-custody-three-pillars/",
         "https://finwiki.zksc.io/ja/exchanges/jp-vasp-cold-storage-segregation-rules/",
         "https://finwiki.zksc.io/ja/security/bytecode-forensic-three-tier-verify/",
-        "https://finwiki.zksc.io/ja/security/forensic-identity-anchor-chain/",
-        "https://finwiki.zksc.io/ja/security/module-path-confusion-supply-chain-attack/"
+        "https://finwiki.zksc.io/ja/security/forensic-identity-anchor-chain/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://csrc.nist.gov/pubs/fips/140-3/final",
+        "https://docs.safe.global/advanced/smart-account-signatures",
+        "https://www.fireblocks.com/report/what-is-mpc"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3263,
-      "word_like_tokens": 556,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 3332,
+      "word_like_tokens": 553,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/cex-mercado-bitcoin-brazil.md",
@@ -21111,19 +21133,19 @@
       },
       "raw_markdown_url": "https://finwiki.zksc.io/exchanges/cex-mercado-bitcoin-brazil.md",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/cex-mercado-bitcoin-brazil.md",
-      "title": "Mercado Bitcoin — ブラジル最大 CEX / SoftBank 出資 / RWA tokenization push overview",
+      "title": "Mercado Bitcoin — ブラジル CEX / RWA tokenization overview",
       "domain": "exchanges",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
       "summary": "This entry sits under exchanges index. Read it against Foxbit for the closest Brazil peer / contrast context, global CEX top 10 comparison for the broader global benchmark, and RWA tokenization × CEX integration for the RWA-on-CEX vertical.",
       "headings": [
-        "Mercado Bitcoin — ブラジル最大 CEX / SoftBank 出資 / RWA tokenization push overview",
+        "Mercado Bitcoin — ブラジル CEX / RWA tokenization overview",
         "Wiki route",
         "1. 法人・株主",
         "2. 登録・牌照状況（ブラジル制度）",
         "3. 取扱通貨",
         "4. 業務範囲",
-        "5. 市占・取引高",
+        "5. 規模情報の読み方",
         "6. 沿革・重大事件",
         "7. 戦略動向",
         "8. 業界での位置付け"
@@ -21146,12 +21168,16 @@
         "https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/",
         "https://finwiki.zksc.io/ja/exchanges/rwa-tokenization-cex-integration/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.bcb.gov.br/detalhenoticia/20918/nota?s=08",
+        "https://www.mercadobitcoin.com.br/quem-somos",
+        "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14478.htm"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5308,
-      "word_like_tokens": 906,
-      "last_modified": "2026-05-25"
+      "nonspace_chars": 5061,
+      "word_like_tokens": 842,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/cex-native-token-strategy-comparison.md",
@@ -21227,13 +21253,13 @@
       },
       "raw_markdown_url": "https://finwiki.zksc.io/exchanges/cex-upbit-korea.md",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/cex-upbit-korea.md",
-      "title": "Upbit（업비트）/ Dunamu — 韓国 spot 市場圧倒的首位 overview",
+      "title": "Upbit（업비트）/ Dunamu — 韓国 KRW spot CEX overview",
       "domain": "exchanges",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under exchanges index. Read it against 韓国 5 大 CEX 制度比較 for the Korea peer / regulatory context, Bithumb for the closest peer comparison（#2），and global CEX top 10 comparison for the broader global market context.",
+      "summary": "This entry sits under exchanges index. Read it against 韓国 5 大 CEX 制度比較 for the Korea peer / regulatory context, Bithumb for a close peer comparison, and global CEX top 10 comparison for the broader global market context.",
       "headings": [
-        "Upbit（업비트）/ Dunamu — 韓国 spot 市場圧倒的首位 overview",
+        "Upbit（업비트）/ Dunamu — 韓国 KRW spot CEX overview",
         "Wiki route",
         "1. 法人・株主",
         "2. 登録・牌照状況（韓国制度）",
@@ -21247,7 +21273,6 @@
       "wikilinks": [
         "exchanges/INDEX",
         "exchanges/cex-bithumb-korea",
-        "exchanges/coincheck-nem-hack-detailed-analysis",
         "exchanges/global-cex-top10-comparison",
         "exchanges/global-vasp-regulatory-comparison-matrix",
         "exchanges/jp-exchange-bitflyer",
@@ -21257,19 +21282,22 @@
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/ja/domains/exchanges/",
         "https://finwiki.zksc.io/ja/exchanges/cex-bithumb-korea/",
-        "https://finwiki.zksc.io/ja/exchanges/coincheck-nem-hack-detailed-analysis/",
         "https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/",
         "https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/",
         "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/",
         "https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/",
         "https://finwiki.zksc.io/ja/exchanges/korea-cex-five-pillars-comparison/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://dunamu.com/services/blockchain",
+        "https://www.fsc.go.kr/po010101/76568",
+        "https://www.kofiu.go.kr/kor/notification/notice.do"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4331,
-      "word_like_tokens": 689,
-      "last_modified": "2026-05-25"
+      "nonspace_chars": 3581,
+      "word_like_tokens": 557,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/cex-vietnam-overview.md",
@@ -21335,19 +21363,19 @@
       },
       "raw_markdown_url": "https://finwiki.zksc.io/exchanges/cex-wazirx-india.md",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/cex-wazirx-india.md",
-      "title": "WazirX — インド CEX / 2024-07 Liminal hack ~$235M 被害 overview",
+      "title": "WazirX — インド CEX / 2024-07 cyberattack overview",
       "domain": "exchanges",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
       "summary": "This entry sits under exchanges index. Read it against CoinDCX for the closest India peer / contrast context, Bybit Lazarus hack for parallel North Korean attribution pattern, and グローバル CEX 破綻比較 for the restructuring / scheme-of-arrangement framework.",
       "headings": [
-        "WazirX — インド CEX / 2024-07 Liminal hack ~$235M 被害 overview",
+        "WazirX — インド CEX / 2024-07 cyberattack overview",
         "Wiki route",
         "1. 法人・株主",
         "2. 登録・牌照状況（インド制度）",
         "3. 取扱通貨",
         "4. 業務範囲",
-        "5. 市占・取引高",
+        "5. 規模情報の読み方",
         "6. 沿革・重大事件",
         "7. 戦略動向",
         "8. 業界での位置付け"
@@ -21372,12 +21400,17 @@
         "https://finwiki.zksc.io/ja/exchanges/global-crypto-exchange-bankruptcy-comparison/",
         "https://finwiki.zksc.io/ja/exchanges/global-crypto-forensics-vendor-layer/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://wazirx.com/blog/important-update-cyber-attack-incident-and-measures-to-protect-your-assets/",
+        "https://wazirx.com/blog/singapore-court-sanctions-wazirx-restructuring-scheme/",
+        "https://wazirx.com/blog/the-scheme-of-arrangement-is-now-effective/",
+        "https://wazirx.com/blog/wazirx-integrates-fireblocks-to-enhance-digital-asset-custody/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5899,
-      "word_like_tokens": 962,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 5560,
+      "word_like_tokens": 873,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/coincheck-nem-hack-detailed-analysis.md",
@@ -21517,7 +21550,7 @@
       "domain": "exchanges",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "機関向け暗号資産カストディ市場は (1) 技術モデル (cold storage / MPC / hybrid) × (2) ライセンス階層 (Trust Charter / VASP / vendor only) × (3) 顧客セグメント (CEX / hedge fund / ETF issuer / SWF / pension) の三軸で分化している。本マトリクスは日本 3 強 (Ginco / Komainu / Fireblocks Japan) + 米系 4 強 (Coinbase Custody / Fidelity Digital / Anchorage / BitGo) +",
+      "summary": "機関向け暗号資産カストディ市場は (1) 技術モデル (cold storage / MPC / hybrid) × (2) ライセンス階層 (Trust Charter / VASP / vendor only) × (3) 顧客セグメント (CEX / hedge fund / ETF issuer / SWF / pension) の三軸で分化している。本マトリクスは日本で参照される Ginco / Komainu / Fireblocks Japan、米系の Coinbase Custody / Fidelity Digital / Anchorage / BitGo、Big Bank",
       "headings": [
         "暗号資産カストディ プロバイダー ランドスケープ マトリクス — Japan + Global 機関カストディ 10 社の技術・規制・顧客比較",
         "TL;DR",
@@ -21583,9 +21616,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 17720,
-      "word_like_tokens": 3092,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 14633,
+      "word_like_tokens": 2256,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/dex-jito-solana.md",
@@ -21658,7 +21691,7 @@
         "1. プロトコル概要",
         "2. Whirlpools CLMM の設計",
         "3. UX / 設計思想",
-        "4. Raydium との比較（Solana 2 大 AMM）",
+        "4. Orca 公開仕様スナップショット",
         "5. 主要事件・沿革",
         "6. ガバナンス・経済モデル",
         "7. 国際比較・cross-chain 戦略",
@@ -21680,12 +21713,16 @@
         "https://finwiki.zksc.io/ja/exchanges/native-dex-flip-incumbent-pattern/",
         "https://finwiki.zksc.io/ja/exchanges/solana-ecosystem-dex-comparison/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://docs.orca.so/developers/overview",
+        "https://docs.orca.so/governance/tokenomics",
+        "https://docs.orca.so/support/about"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3654,
-      "word_like_tokens": 634,
-      "last_modified": "2026-05-25"
+      "nonspace_chars": 3884,
+      "word_like_tokens": 618,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/dex-pendle.md",
@@ -21986,21 +22023,16 @@
       },
       "raw_markdown_url": "https://finwiki.zksc.io/exchanges/fsa-foreign-exchange-warning-system.md",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/fsa-foreign-exchange-warning-system.md",
-      "title": "FSA 海外無登録暗号資産取引所 警告書発出制度 (2018-2025)",
+      "title": "FSA 海外無登録暗号資産取引所 警告書発出制度",
       "domain": "exchanges",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
       "summary": "This entry sits under exchanges index. Read it against FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for peer / contrast context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system / regulatory boundary.",
       "headings": [
-        "FSA 海外無登録暗号資産取引所 警告書発出制度 (2018-2025)",
+        "FSA 海外無登録暗号資産取引所 警告書発出制度",
         "Wiki route",
         "制度概要",
-        "警告書発出履歴 (主要 8 事業者)",
-        "警告事業者の対応パターン (3 種)",
-        "撤退",
-        "法人化 (唯一の正規化路径)",
-        "継続稼働 (警告無視)",
-        "App Store 削除要請の意義",
+        "FSA 個別公表で確認できる主要警告ラウンド",
         "関連"
       ],
       "wikilinks": [
@@ -22008,7 +22040,6 @@
         "exchanges/fsa-business-improvement-orders-history",
         "exchanges/fsa-vasp-registration-system",
         "exchanges/global-vasp-regulatory-comparison-matrix",
-        "exchanges/jp-exchange-binance-japan",
         "exchanges/jp-foreign-exchange-binance-holdings-legacy",
         "exchanges/jp-foreign-exchange-bitcastle",
         "exchanges/jp-foreign-exchange-bitforex",
@@ -22025,7 +22056,6 @@
         "https://finwiki.zksc.io/ja/exchanges/fsa-business-improvement-orders-history/",
         "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
         "https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-binance-japan/",
         "https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-binance-holdings-legacy/",
         "https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bitcastle/",
         "https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bitforex/",
@@ -22037,12 +22067,15 @@
         "https://finwiki.zksc.io/ja/exchanges/jp-vasp-regulatory-timeline/",
         "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.fsa.go.jp/policy/virtual_currency/angoushisan_mutouroku.pdf",
+        "https://www.fsa.go.jp/policy/virtual_currency02/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3073,
-      "word_like_tokens": 440,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 2290,
+      "word_like_tokens": 319,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/fsa-snapshot-delta-log.md",
@@ -22065,7 +22098,7 @@
         "目的",
         "記録テンプレート（snapshot 単位）",
         "YYYY-MM-DD snapshot delta",
-        "既知の主要 snapshot 変動履歴（過去 2 年）",
+        "保存済み registry snapshot の比較",
         "更新ワークフロー",
         "JVCEA 会員一覧との突合",
         "関連",
@@ -22075,13 +22108,9 @@
         "exchanges/INDEX",
         "exchanges/fsa-foreign-exchange-warning-system",
         "exchanges/fsa-vasp-registration-system",
-        "exchanges/ftx-japan-100pct-return-case-study",
         "exchanges/jp-exchange-XXX",
         "exchanges/jp-exchange-bitbank",
-        "exchanges/jp-exchange-custodiem",
-        "exchanges/jp-exchange-dmm-bitcoin",
         "exchanges/jp-exchange-line-xenesis",
-        "exchanges/jp-exchange-sbi-vc-trade",
         "exchanges/jp-vasp-ma-consolidation-history",
         "exchanges/jp-vasp-parent-company-map",
         "exchanges/jp-vasp-regulatory-timeline",
@@ -22092,12 +22121,8 @@
         "https://finwiki.zksc.io/ja/domains/exchanges/",
         "https://finwiki.zksc.io/ja/exchanges/fsa-foreign-exchange-warning-system/",
         "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
-        "https://finwiki.zksc.io/ja/exchanges/ftx-japan-100pct-return-case-study/",
         "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitbank/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-custodiem/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-dmm-bitcoin/",
         "https://finwiki.zksc.io/ja/exchanges/jp-exchange-line-xenesis/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/",
         "https://finwiki.zksc.io/ja/exchanges/jp-vasp-ma-consolidation-history/",
         "https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/",
         "https://finwiki.zksc.io/ja/exchanges/jp-vasp-regulatory-timeline/",
@@ -22119,9 +22144,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 7116,
-      "word_like_tokens": 1363,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 5873,
+      "word_like_tokens": 1071,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/fsa-vasp-registration-system.md",
@@ -22291,52 +22316,39 @@
       },
       "raw_markdown_url": "https://finwiki.zksc.io/exchanges/global-cex-top10-comparison.md",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/global-cex-top10-comparison.md",
-      "title": "グローバル CEX top 10 ランキング比較 (2025-2026)",
+      "title": "グローバル CEX ランキング参照ガイド",
       "domain": "exchanges",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
       "summary": "This entry sits under exchanges index. Read it against global dex major five comparison for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
       "headings": [
-        "グローバル CEX top 10 ランキング比較 (2025-2026)",
+        "グローバル CEX ランキング参照ガイド",
         "Wiki route",
         "概要",
-        "Top 10 比較表",
-        "規制ホスト分布 + 日本市場アクセス状況"
+        "ライブランキング入口",
+        "比較時の確認事項"
       ],
       "wikilinks": [
         "exchanges/INDEX",
         "exchanges/fsa-foreign-exchange-warning-system",
         "exchanges/fsa-vasp-registration-system",
-        "exchanges/global-dex-major-five-comparison",
-        "exchanges/jp-exchange-binance-japan",
-        "exchanges/jp-exchange-coinbase-japan",
-        "exchanges/jp-exchange-okcoin-japan",
-        "exchanges/jp-foreign-exchange-binance-holdings-legacy",
-        "exchanges/jp-foreign-exchange-bitget",
-        "exchanges/jp-foreign-exchange-bybit",
-        "exchanges/jp-foreign-exchange-kucoin",
-        "exchanges/jp-foreign-exchange-mexc"
+        "exchanges/global-dex-major-five-comparison"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/ja/domains/exchanges/",
         "https://finwiki.zksc.io/ja/exchanges/fsa-foreign-exchange-warning-system/",
         "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
-        "https://finwiki.zksc.io/ja/exchanges/global-dex-major-five-comparison/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-binance-japan/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-coinbase-japan/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-okcoin-japan/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-binance-holdings-legacy/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bitget/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bybit/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-kucoin/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-mexc/"
+        "https://finwiki.zksc.io/ja/exchanges/global-dex-major-five-comparison/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://coinmarketcap.com/exchanges/",
+        "https://www.coingecko.com/en/exchanges"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2934,
-      "word_like_tokens": 529,
-      "last_modified": "2026-06-23"
+      "nonspace_chars": 1389,
+      "word_like_tokens": 200,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/global-crypto-exchange-bankruptcy-comparison.md",
@@ -22357,10 +22369,8 @@
         "暗号資産取引所 倒産処理 国際比較",
         "Wiki route",
         "概要",
-        "6 大破綻案件比較表",
-        "制度的要因 (弁済速度差)",
-        "弁済形態",
-        "規制反射",
+        "主要手続の公式 portal",
+        "比較上の注意",
         "関連条目"
       ],
       "wikilinks": [
@@ -22391,12 +22401,18 @@
         "https://finwiki.zksc.io/ja/exchanges/mtgox-bankruptcy-processing-timeline/",
         "https://finwiki.zksc.io/ja/exchanges/us-crypto-licensing-multi-layer-system/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://cases.stretto.com/Voyager/",
+        "https://cases.stretto.com/celsius/",
+        "https://restructuring.ra.kroll.com/FTX/",
+        "https://restructuring.ra.kroll.com/blockfi/",
+        "https://www.mtgox.com/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2358,
-      "word_like_tokens": 386,
-      "last_modified": "2026-06-23"
+      "nonspace_chars": 2347,
+      "word_like_tokens": 351,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/global-crypto-forensics-vendor-layer.md",
@@ -22540,9 +22556,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 20800,
-      "word_like_tokens": 3551,
-      "last_modified": "2026-07-28"
+      "nonspace_chars": 17634,
+      "word_like_tokens": 2825,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/global-dex-major-five-comparison.md",
@@ -22661,7 +22677,7 @@
       "domain": "exchanges",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "Perpetual-futures DEXs sit on three structurally distinct liquidity models — CLOB (central limit order book on-chain or hybrid), vAMM / pool-counterparty (single multi-asset LP pool serves all traders), and hybrid / oracle-pricing — and a reader who flattens them into \"all perp DEXs\" will misread fe",
+      "summary": "Perpetual-futures DEXs use structurally different liquidity models: CLOB, vAMM / pool-counterparty, and hybrid / oracle-pricing. This entry compares venue and version architecture, including dYdX v3 / v4 and GMX v1 / v2, without freezing fees, leverage, listed markets, settlement parameters, volume,",
       "headings": [
         "Global perp DEX competitive deep-dive matrix",
         "TL;DR",
@@ -22713,9 +22729,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 28443,
-      "word_like_tokens": 4921,
-      "last_modified": "2026-05-25"
+      "nonspace_chars": 18117,
+      "word_like_tokens": 2910,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/global-perp-dex-five-comparison.md",
@@ -22782,7 +22798,7 @@
       "domain": "exchanges",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "世界の主要 VASP (Virtual Asset Service Provider) 規制は 8 極構造 に収斂してきた: 日本 (FSA + JVCEA 二層) / 韓国 (FSC + FIU 単一) / 香港 (SFC VATP) / シンガポール (MAS DPT) / EU (MiCA CASP) / 米国 (連邦 + 50 州フラグメント) / UAE (VARA 単独) / 英国 (FCA AML 中心 + 段階的本格化)。本エントリは 法源・ライセンス階層・必要資本・分別管理 (cold storage %)・AML/Travel Rule・ステーブルコイン規制・クロスボーダー",
+      "summary": "本エントリは、日本・韓国・香港・シンガポール・EU・米国・UAE・英国という 8 つの法域を、現行規制の確認入口として並べる。制度が単一モデルへ収斂したとは扱わず、法源、license class、資産分別、AML / Travel Rule、stablecoin、cross-border、marketing、enforcement、開示、例外を法域ごとの一次資料で確認する。各極の詳細は exchanges/jp-vasp-regulatory-timeline / exchanges/eu-mica-casp-regime-overview / exchanges/us-crypto-lic",
       "headings": [
         "グローバル VASP 規制 8 極比較マトリクス — JP / KR / HK / SG / EU / US / UAE / UK",
         "TL;DR",
@@ -22804,7 +22820,6 @@
         "exchanges/fsa-vasp-registration-system",
         "exchanges/global-cex-top10-comparison",
         "exchanges/hk-sfc-vasp-licensing-overview",
-        "exchanges/jp-cex-staking-lending-regulation",
         "exchanges/jp-vasp-aml-travel-rule-implementation",
         "exchanges/jp-vasp-cold-storage-segregation-rules",
         "exchanges/jp-vasp-regulatory-timeline",
@@ -22826,7 +22841,6 @@
         "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
         "https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/",
         "https://finwiki.zksc.io/ja/exchanges/hk-sfc-vasp-licensing-overview/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-cex-staking-lending-regulation/",
         "https://finwiki.zksc.io/ja/exchanges/jp-vasp-aml-travel-rule-implementation/",
         "https://finwiki.zksc.io/ja/exchanges/jp-vasp-cold-storage-segregation-rules/",
         "https://finwiki.zksc.io/ja/exchanges/jp-vasp-regulatory-timeline/",
@@ -22839,12 +22853,21 @@
         "https://finwiki.zksc.io/ja/domains/financial-licenses/",
         "https://finwiki.zksc.io/ja/fintech/global-stablecoin-regulatory-five-pole-matrix/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.dfs.ny.gov/virtual_currency_businesses",
+        "https://www.esma.europa.eu/policy-activities/crypto-assets",
+        "https://www.fca.org.uk/firms/cryptoassets",
+        "https://www.fsa.go.jp/en/policy/virtual_currency/",
+        "https://www.fsc.go.kr/eng/",
+        "https://www.mas.gov.sg/regulation/payments",
+        "https://www.sfc.hk/en/Rules-and-standards/Suitability-requirements/Virtual-asset-related-products-and-services",
+        "https://www.vara.ae/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 11897,
-      "word_like_tokens": 2107,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 8966,
+      "word_like_tokens": 1442,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/hk-sfc-vasp-licensing-overview.md",
@@ -22936,12 +22959,8 @@
         "exchanges/INDEX",
         "exchanges/fsa-vasp-registration-system",
         "exchanges/jcba-japan-crypto-business-association",
-        "exchanges/jp-exchange-bitbank",
-        "exchanges/jp-exchange-bitflyer",
-        "exchanges/jp-exchange-coincheck",
         "exchanges/jp-vasp-aml-travel-rule-implementation",
         "exchanges/jp-vasp-regulatory-timeline",
-        "exchanges/jp-vasp-security-audit-certification",
         "exchanges/jvcea-self-regulatory-overview",
         "fintech/japan-financial-regulation"
       ],
@@ -22949,21 +22968,21 @@
         "https://finwiki.zksc.io/ja/domains/exchanges/",
         "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
         "https://finwiki.zksc.io/ja/exchanges/jcba-japan-crypto-business-association/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitbank/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/",
         "https://finwiki.zksc.io/ja/exchanges/jp-vasp-aml-travel-rule-implementation/",
         "https://finwiki.zksc.io/ja/exchanges/jp-vasp-regulatory-timeline/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-vasp-security-audit-certification/",
         "https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/",
         "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://cryptocurrency-association.org/",
+        "https://jba-web.jp/about",
+        "https://jvcea.or.jp/about/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3037,
-      "word_like_tokens": 447,
-      "last_modified": "2026-05-24"
+      "nonspace_chars": 2928,
+      "word_like_tokens": 425,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/japan-cex-parent-fg-adjacency-matrix.md",
@@ -22998,10 +23017,8 @@
         "card-issuers/aeon-financial-service",
         "card-issuers/mufg-nicos",
         "card-issuers/rakuten-card",
-        "card-issuers/rakuten-card\\",
         "card-issuers/smbc-card",
         "exchanges/INDEX",
-        "exchanges/coincheck-nem-hack-detailed-analysis",
         "exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis",
         "exchanges/fsa-vasp-registration-system",
         "exchanges/jp-cex-deposit-token-stablecoin-integration",
@@ -23029,50 +23046,31 @@
         "exchanges/jp-vasp-ma-consolidation-history",
         "exchanges/jp-vasp-parent-company-map",
         "life-insurers/rakuten-life",
-        "life-insurers/rakuten-life\\",
         "life-insurers/sbi-life",
-        "life-insurers/sbi-life\\",
         "megabanks/sbi-hd",
-        "megabanks/sbi-hd\\",
         "megabanks/sbi-regional-bank-hd",
         "non-life-insurers/rakuten-general-insurance",
-        "non-life-insurers/rakuten-general-insurance\\",
         "non-life-insurers/rakuten-insurance-hd",
         "non-life-insurers/sbi-insurance",
-        "non-life-insurers/sbi-insurance\\",
         "payment-firms/gmo-aozora-net",
-        "payment-firms/gmo-aozora-net\\",
         "payment-firms/gmo-epsilon",
-        "payment-firms/gmo-epsilon\\",
         "payment-firms/gmo-financial-hd",
-        "payment-firms/gmo-financial-hd\\",
         "payment-firms/gmo-payment-gateway",
-        "payment-firms/gmo-payment-gateway\\",
         "payment-firms/gmo-postpay",
         "payment-firms/mercari-hd",
-        "payment-firms/mercari-hd\\",
         "payment-firms/rakuten-edy",
-        "payment-firms/rakuten-edy\\",
         "payment-firms/rakuten-fg",
-        "payment-firms/rakuten-fg\\",
         "payment-firms/sbi-remit",
-        "payment-firms/sbi-remit\\",
         "payments/funds-transfer-vs-prepaid-boundary",
         "payments/japan-prepaid-electronic-money-operator-matrix",
         "regional-banks/sbi-shinsei-bank",
-        "regional-banks/sbi-shinsei-bank\\",
         "securities-firms/daiwa-sg",
         "securities-firms/gmo-click-securities",
-        "securities-firms/gmo-click-securities\\",
         "securities-firms/monex-group",
-        "securities-firms/monex-group\\",
         "securities-firms/nomura-hd",
-        "securities-firms/nomura-hd\\",
         "securities-firms/rakuten-securities",
-        "securities-firms/rakuten-securities\\",
         "securities-firms/sbi-fx-trade",
         "securities-firms/sbi-securities",
-        "securities-firms/sbi-securities\\",
         "trust-banks/nomura-trust-bank"
       ],
       "resolved_wikilinks": [
@@ -23083,7 +23081,6 @@
         "https://finwiki.zksc.io/ja/card-issuers/rakuten-card/",
         "https://finwiki.zksc.io/ja/card-issuers/smbc-card/",
         "https://finwiki.zksc.io/ja/domains/exchanges/",
-        "https://finwiki.zksc.io/ja/exchanges/coincheck-nem-hack-detailed-analysis/",
         "https://finwiki.zksc.io/ja/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis/",
         "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
         "https://finwiki.zksc.io/ja/exchanges/jp-cex-deposit-token-stablecoin-integration/",
@@ -23141,8 +23138,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 30264,
-      "word_like_tokens": 5006,
+      "nonspace_chars": 25314,
+      "word_like_tokens": 4088,
       "last_modified": "2026-07-29"
     },
     {
@@ -23297,7 +23294,7 @@
       "domain": "exchanges",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "日本の円建て・USD 建て stablecoin (改正資金決済法 2023-06 で「電子決済手段」と明文定義) は、発行体の業態 × 法的根拠 で 5 つの規制カテゴリに分かれる: (1) 資金移動業者型 (EPI 第 2 種) = JPYC 唯一、(2) 信託型 (特定信託受益権・EPI 第 3 種) = Progmat プラットフォーム上で MUFG 信託・SMBC 信託・みずほ信託が発行、(3) 銀行発行型 (預金トークン、EPI 第 1 種隣接) = DCJPY と みんなの銀行 SC、(4) 電子決済手段等取引業 (ECISP) 経由の海外 SC 仲介 = SBI VC Trad",
+      "summary": "日本の円建て・USD 建て stablecoin は、発行体、法的主体および提供機能に応じて資金移動業者型、信託型、銀行預金トークン、電子決済手段等取引業者による仲介、前払式支払手段との境界に分けて確認する。本表は JPYC、Progmat 関連案件、DCJPY、みんなの銀行、SBI VC Trade の公開情報を検証入口として扱い、未公表の参入候補や発行コミットを推定しない。",
       "headings": [
         "日本 stablecoin 発行体 規制分類マトリクス — 電子決済手段等取引業 / 信託型 / 銀行発行型 / 資金移動業者型 / 前払式支払手段境界",
         "TL;DR",
@@ -23317,8 +23314,6 @@
         "exchanges/japan-vasp-business-model-competitive-matrix",
         "exchanges/jp-cex-deposit-token-stablecoin-integration",
         "exchanges/jp-exchange-jpyc",
-        "exchanges/jp-exchange-line-xenesis",
-        "exchanges/jp-exchange-mercoin",
         "exchanges/jp-exchange-sbi-vc-trade",
         "financial-licenses/payment-license-stack",
         "fintech/INDEX",
@@ -23344,8 +23339,6 @@
         "https://finwiki.zksc.io/ja/exchanges/japan-vasp-business-model-competitive-matrix/",
         "https://finwiki.zksc.io/ja/exchanges/jp-cex-deposit-token-stablecoin-integration/",
         "https://finwiki.zksc.io/ja/exchanges/jp-exchange-jpyc/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-line-xenesis/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-mercoin/",
         "https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/",
         "https://finwiki.zksc.io/ja/financial-licenses/payment-license-stack/",
         "https://finwiki.zksc.io/ja/domains/fintech/",
@@ -23364,12 +23357,19 @@
         "https://finwiki.zksc.io/ja/payments/funds-transfer-vs-prepaid-boundary/",
         "https://finwiki.zksc.io/ja/payments/japan-bnpl-credit-purchase-boundary/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://jpyc.co.jp/about",
+        "https://progmat.co.jp/news/",
+        "https://www.decurret-dcp.com/pressrelease/",
+        "https://www.fsa.go.jp/menkyo/menkyoj/denshikessaisyudan.xlsx",
+        "https://www.fsa.go.jp/policy/virtual_currency02/",
+        "https://www.sbivc.co.jp/usdc"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 15693,
-      "word_like_tokens": 2788,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 12674,
+      "word_like_tokens": 1930,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/japan-vasp-business-model-competitive-matrix.md",
@@ -23512,11 +23512,15 @@
         "https://finwiki.zksc.io/ja/fintech/japan-epi-four-camps-comparison/",
         "https://finwiki.zksc.io/ja/fintech/stablecoin-channel-japan-sbi-jpyc-ring/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://jvcea.or.jp/member/",
+        "https://www.fsa.go.jp/en/regulated/licensed/en_kasoutuka.pdf",
+        "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 14474,
-      "word_like_tokens": 2273,
+      "nonspace_chars": 11805,
+      "word_like_tokens": 1808,
       "last_modified": "2026-07-29"
     },
     {
@@ -23981,22 +23985,21 @@
       },
       "raw_markdown_url": "https://finwiki.zksc.io/exchanges/jp-crypto-bank-credit-facilities.md",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-crypto-bank-credit-facilities.md",
-      "title": "CEX × 日本銀行 無担保授信実績図譜",
+      "title": "CEX × 日本銀行 公開コミットメントライン事例",
       "domain": "exchanges",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
       "summary": "This entry sits under exchanges index. Read it against SBI VCトレード株式会社 — 日本暗号資産交換業者 for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
       "headings": [
-        "CEX × 日本銀行 無担保授信実績図譜",
+        "CEX × 日本銀行 公開コミットメントライン事例",
         "Wiki route",
         "既知の先例",
-        "bitbank × きらぼし銀行(2026-03公表)⭐",
-        "GMO(コイン)× きらぼし銀行 + あおぞら銀行(2022-2023)※公開ソース未確認",
-        "GMO 初期 × 単一地銀(公開ソース未確認)",
-        "業界共通要素",
-        "銀行側の選好(パターン)",
-        "きらぼし銀行",
-        "あおぞら銀行"
+        "bitbank × きらぼし銀行（2026-03 公表）",
+        "公表された契約条件",
+        "証拠の境界",
+        "2026-04 時点の主要ギャップ",
+        "Sources",
+        "Related"
       ],
       "wikilinks": [
         "INDEX",
@@ -24018,12 +24021,14 @@
         "https://finwiki.zksc.io/ja/fintech/stablecoin-crossborder-b2b-growth/",
         "https://finwiki.zksc.io/ja/fintech/usd-stablecoin-interchange/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://prtimes.jp/main/html/rd/p/000000240.000024344.html"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2940,
-      "word_like_tokens": 434,
-      "last_modified": "2026-07-28"
+      "nonspace_chars": 2130,
+      "word_like_tokens": 309,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-crypto-exchange-overview.md",
@@ -24039,12 +24044,12 @@
       "domain": "exchanges",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "日本の暗号資産交換業は、金融庁・財務局の登録制と JVCEA 自主規制の二層で成り立つ。2017-04-01 に暗号資産交換業登録制が始まり、2023-06-01 には電子決済手段等取引業も制度化された。2026-02-28 時点の金融庁英語版登録一覧では暗号資産交換業者は 27 業者。国内市場は「登録 VASP + JVCEA 会員 + FSA 監督 + 税務報告/CARF」まで含めて見る必要がある。",
+      "summary": "日本の暗号資産交換業は、金融庁・財務局の登録制と JVCEA 自主規制の二層で成り立つ。2017-04-01 に暗号資産交換業登録制が始まり、2023-06-01 には電子決済手段等取引業も制度化された。登録業者数と会員数は更新されるため、固定値ではなく金融庁の現行登録一覧と JVCEA 会員一覧を確認する。",
       "headings": [
         "Japan crypto exchange overview — FSA / JVCEA regulated VASP market",
         "TL;DR",
         "1. 制度構造",
-        "2. Market map",
+        "2. 現行情報の確認先",
         "3. Strategic reading",
         "4. 規制と政策",
         "Related",
@@ -24056,21 +24061,6 @@
         "exchanges/fsa-foreign-exchange-warning-system",
         "exchanges/fsa-vasp-registration-system",
         "exchanges/jp-crypto-asset-taxation-detailed",
-        "exchanges/jp-exchange-binance-japan",
-        "exchanges/jp-exchange-bitbank",
-        "exchanges/jp-exchange-bitflyer",
-        "exchanges/jp-exchange-btcbox",
-        "exchanges/jp-exchange-crypto-garage",
-        "exchanges/jp-exchange-digital-asset-markets",
-        "exchanges/jp-exchange-gmo-coin",
-        "exchanges/jp-exchange-jpyc",
-        "exchanges/jp-exchange-monex",
-        "exchanges/jp-exchange-okcoin-japan",
-        "exchanges/jp-exchange-osl-japan",
-        "exchanges/jp-exchange-rakuten-wallet",
-        "exchanges/jp-exchange-sbi-securities",
-        "exchanges/jp-exchange-sbi-vc-trade",
-        "exchanges/jp-exchange-traders-securities",
         "exchanges/jp-vasp-cold-storage-segregation-rules",
         "exchanges/jp-vasp-derivative-license-system",
         "exchanges/jp-vasp-parent-company-map",
@@ -24083,33 +24073,23 @@
         "https://finwiki.zksc.io/ja/exchanges/fsa-foreign-exchange-warning-system/",
         "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
         "https://finwiki.zksc.io/ja/exchanges/jp-crypto-asset-taxation-detailed/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-binance-japan/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitbank/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-btcbox/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-crypto-garage/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-digital-asset-markets/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-gmo-coin/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-jpyc/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-monex/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-okcoin-japan/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-osl-japan/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-rakuten-wallet/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-securities/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-traders-securities/",
         "https://finwiki.zksc.io/ja/exchanges/jp-vasp-cold-storage-segregation-rules/",
         "https://finwiki.zksc.io/ja/exchanges/jp-vasp-derivative-license-system/",
         "https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/",
         "https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/",
         "https://finwiki.zksc.io/ja/regional-banks/ssnb/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://jvcea.or.jp/member/",
+        "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.pdf",
+        "https://www.fsa.go.jp/policy/virtual_currency02/",
+        "https://www.nta.go.jp/taxes/shiraberu/kokusai/carf/index.htm"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4134,
-      "word_like_tokens": 572,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 3525,
+      "word_like_tokens": 506,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-crypto-market-maker-otc-layer.md",
@@ -24511,17 +24491,16 @@
         "2. 牌照・登録状況",
         "3. 対応アセット",
         "4. 業務範囲・主要プロダクト",
-        "5. 市場ポジション・競合比較",
-        "グローバル institutional custody 市場",
-        "日本国内競合・住み分け",
-        "6. 沿革・日本展開"
+        "5. 公式サイトで確認できる製品領域",
+        "6. 公式資料で確認できる沿革・日本事例",
+        "7. 更新境界",
+        "8. 経営陣・日本拠点"
       ],
       "wikilinks": [
         "agent-economy/embedded-wallet-network-effects-moat",
         "exchanges/INDEX",
         "exchanges/fsa-vasp-registration-system",
         "exchanges/global-institutional-custody-five-pillars",
-        "exchanges/jp-custody-ginco",
         "exchanges/jp-custody-komainu",
         "exchanges/jp-exchange-sbi-vc-trade",
         "exchanges/jp-institutional-custody-three-pillars",
@@ -24536,7 +24515,6 @@
         "https://finwiki.zksc.io/ja/domains/exchanges/",
         "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
         "https://finwiki.zksc.io/ja/exchanges/global-institutional-custody-five-pillars/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-custody-ginco/",
         "https://finwiki.zksc.io/ja/exchanges/jp-custody-komainu/",
         "https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/",
         "https://finwiki.zksc.io/ja/exchanges/jp-institutional-custody-three-pillars/",
@@ -24553,14 +24531,13 @@
         "https://www.fireblocks.com/about/",
         "https://www.fireblocks.com/customers/mitsui/",
         "https://www.ginco.co.jp/en",
-        "https://www.linkedin.com/company/fireblocks/",
         "https://www.neweconomy.jp/?s=Fireblocks+%E4%B8%89%E4%BA%95%E4%BD%8F%E5%8F%8B"
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6340,
-      "word_like_tokens": 1039,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 5029,
+      "word_like_tokens": 761,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-custody-ginco.md",
@@ -24586,14 +24563,13 @@
         "4. 業務範囲",
         "主要製品・サービス",
         "対応事業領域",
-        "5. 市占・位置付け",
-        "6. 沿革・重大事件"
+        "5. 公開情報上の位置付け",
+        "6. 公式会社概要スナップショット"
       ],
       "wikilinks": [
         "exchanges/INDEX",
         "exchanges/fsa-vasp-registration-system",
         "exchanges/jp-custody-fireblocks-japan",
-        "exchanges/jp-custody-komainu",
         "exchanges/jp-exchange-bittrade",
         "exchanges/jp-institutional-custody-three-pillars",
         "exchanges/jp-vasp-cold-storage-segregation-rules",
@@ -24606,7 +24582,6 @@
         "https://finwiki.zksc.io/ja/domains/exchanges/",
         "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
         "https://finwiki.zksc.io/ja/exchanges/jp-custody-fireblocks-japan/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-custody-komainu/",
         "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bittrade/",
         "https://finwiki.zksc.io/ja/exchanges/jp-institutional-custody-three-pillars/",
         "https://finwiki.zksc.io/ja/exchanges/jp-vasp-cold-storage-segregation-rules/",
@@ -24624,9 +24599,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5394,
-      "word_like_tokens": 875,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 4744,
+      "word_like_tokens": 761,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-custody-komainu.md",
@@ -24686,13 +24661,15 @@
         "https://coinpost.jp/p/596xxx",
         "https://komainu.com/",
         "https://komainu.com/about/",
-        "https://komainu.com/services/"
+        "https://komainu.com/entities/",
+        "https://komainu.com/services/",
+        "https://komainu.com/services/komainu-core/"
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6115,
-      "word_like_tokens": 1021,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 6377,
+      "word_like_tokens": 1006,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-exchange-backseat-exchange.md",
@@ -24761,9 +24738,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4971,
-      "word_like_tokens": 852,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 5212,
+      "word_like_tokens": 832,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-exchange-bi-fxtrade.md",
@@ -24822,9 +24799,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4450,
-      "word_like_tokens": 817,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 4722,
+      "word_like_tokens": 792,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-exchange-binance-japan.md",
@@ -24925,11 +24902,8 @@
       "wikilinks": [
         "exchanges/INDEX",
         "exchanges/fsa-vasp-registration-system",
-        "exchanges/ftx-japan-100pct-return-case-study",
         "exchanges/jp-exchange-bitflyer",
         "exchanges/jp-exchange-bittrade",
-        "exchanges/jp-exchange-coincheck",
-        "exchanges/jp-vasp-ma-consolidation-history",
         "exchanges/jp-vasp-parent-company-map",
         "exchanges/jvcea-spot-volume-statistics-analysis",
         "exchanges/jvcea-whitelist-token-listing",
@@ -24940,11 +24914,8 @@
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/ja/domains/exchanges/",
         "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
-        "https://finwiki.zksc.io/ja/exchanges/ftx-japan-100pct-return-case-study/",
         "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/",
         "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bittrade/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-vasp-ma-consolidation-history/",
         "https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/",
         "https://finwiki.zksc.io/ja/exchanges/jvcea-spot-volume-statistics-analysis/",
         "https://finwiki.zksc.io/ja/exchanges/jvcea-whitelist-token-listing/",
@@ -24954,15 +24925,18 @@
       ],
       "markdown_links": [
         "https://bitbank.cc/",
+        "https://bitbank.cc/announcement/20260625_01",
+        "https://bitflyer.com/pub/20240726-Completion-of-FTX-Japan-K.K.-Share-Acquisition-en.pdf",
         "https://jvcea.or.jp/member/",
         "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
-        "https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=1010801024625"
+        "https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=1010801024625",
+        "https://www.sbigroup.co.jp/news/2026/0625_16429.html"
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3791,
-      "word_like_tokens": 562,
-      "last_modified": "2026-06-23"
+      "nonspace_chars": 4315,
+      "word_like_tokens": 677,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-exchange-bitflyer.md",
@@ -25019,6 +24993,8 @@
       ],
       "markdown_links": [
         "https://bitflyer.com/ja-jp/s/company",
+        "https://bitflyer.com/pub/20240726-Completion-of-FTX-Japan-K.K.-Share-Acquisition-en.pdf",
+        "https://bitflyer.com/pub/20240828-The-Change-of-Company-Name-of-Consolidated-Subsidiary-ja.pdf",
         "https://coinpost.jp/?p=448642",
         "https://ja.wikipedia.org/wiki/BitFlyer",
         "https://jvcea.or.jp/member/",
@@ -25028,8 +25004,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5767,
-      "word_like_tokens": 1000,
+      "nonspace_chars": 5648,
+      "word_like_tokens": 924,
       "last_modified": "2026-07-29"
     },
     {
@@ -25081,12 +25057,18 @@
         "https://finwiki.zksc.io/ja/exchanges/jp-vasp-ma-consolidation-history/",
         "https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.fsa.go.jp/news/30/virtual_currency/20180622_05.html",
+        "https://www.fsa.go.jp/sesc/news/c_2021/2021/20211217-1.html",
+        "https://www.sbigroup.co.jp/news/2023/0214_13601.html",
+        "https://www.sbivc.co.jp/newsview/fbx3bt2fbywm",
+        "https://www.sbivc.co.jp/profile/pdf/sbivc_gappei_publicannouncement.pdf"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4115,
-      "word_like_tokens": 693,
-      "last_modified": "2026-05-25"
+      "nonspace_chars": 4983,
+      "word_like_tokens": 853,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-exchange-bittrade.md",
@@ -25119,7 +25101,6 @@
         "exchanges/INDEX",
         "exchanges/fsa-vasp-registration-system",
         "exchanges/jp-exchange-binance-japan",
-        "exchanges/jp-exchange-bitbank",
         "exchanges/jp-exchange-gmo-coin",
         "exchanges/jp-ieo-system-and-cases",
         "exchanges/jp-vasp-derivative-license-system",
@@ -25134,7 +25115,6 @@
         "https://finwiki.zksc.io/ja/domains/exchanges/",
         "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
         "https://finwiki.zksc.io/ja/exchanges/jp-exchange-binance-japan/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitbank/",
         "https://finwiki.zksc.io/ja/exchanges/jp-exchange-gmo-coin/",
         "https://finwiki.zksc.io/ja/exchanges/jp-ieo-system-and-cases/",
         "https://finwiki.zksc.io/ja/exchanges/jp-vasp-derivative-license-system/",
@@ -25149,6 +25129,7 @@
         "https://coinpost.jp/?s=%E3%83%95%E3%82%A9%E3%83%93%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3+%E3%83%93%E3%83%83%E3%83%88%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89",
         "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%83%E3%83%88%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89",
         "https://jvcea.or.jp/member/",
+        "https://static.bittrade.co.jp/pdf/Transaction_Instructions.pdf",
         "https://support.bittrade.co.jp/hc/ja/categories/360002149873",
         "https://www.bittrade.co.jp/ja-jp/disclosure/",
         "https://www.bittrade.co.jp/ja-jp/profile/",
@@ -25157,9 +25138,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4734,
-      "word_like_tokens": 866,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 5249,
+      "word_like_tokens": 900,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-exchange-btcbox.md",
@@ -25191,9 +25172,6 @@
       "wikilinks": [
         "exchanges/INDEX",
         "exchanges/fsa-vasp-registration-system",
-        "exchanges/jp-exchange-bitflyer",
-        "exchanges/jp-exchange-coincheck",
-        "exchanges/jp-exchange-gmo-coin",
         "exchanges/jp-vasp-parent-company-map",
         "exchanges/jvcea-self-regulatory-overview",
         "exchanges/jvcea-spot-volume-statistics-analysis",
@@ -25205,9 +25183,6 @@
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/ja/domains/exchanges/",
         "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-gmo-coin/",
         "https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/",
         "https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/",
         "https://finwiki.zksc.io/ja/exchanges/jvcea-spot-volume-statistics-analysis/",
@@ -25225,9 +25200,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4448,
-      "word_like_tokens": 789,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 4417,
+      "word_like_tokens": 765,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-exchange-coinbase-japan.md",
@@ -25287,13 +25262,15 @@
         "https://coinpost.jp/?p=426649",
         "https://coinpost.jp/?post_type=breaking&p=269752",
         "https://jvcea.or.jp/member/",
+        "https://www.coinbase.com/en-gb/blog/coinbase-launches-in-japan",
+        "https://www.coinbase.com/en-it/blog/halting-operations-in-japan",
         "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx"
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4505,
-      "word_like_tokens": 771,
-      "last_modified": "2026-05-24"
+      "nonspace_chars": 5093,
+      "word_like_tokens": 854,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-exchange-coincheck.md",
@@ -25349,6 +25326,7 @@
         "https://finwiki.zksc.io/ja/security/forensic-identity-anchor-chain/"
       ],
       "markdown_links": [
+        "https://coincheck.com/ja/info/company",
         "https://efts.sec.gov/LATEST/search-index?q=%22coincheck%22&dateRange=custom&startdt=2024-01-01&enddt=2025-01-01&forms=S-4,8-K,6-K",
         "https://jvcea.or.jp/member/",
         "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
@@ -25358,9 +25336,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5421,
-      "word_like_tokens": 942,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 5885,
+      "word_like_tokens": 992,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-exchange-coinhub.md",
@@ -25411,12 +25389,15 @@
         "https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/",
         "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://coinhub.co.jp/en",
+        "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2585,
-      "word_like_tokens": 417,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 2977,
+      "word_like_tokens": 485,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-exchange-crypto-garage.md",
@@ -25487,9 +25468,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6144,
-      "word_like_tokens": 964,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 6585,
+      "word_like_tokens": 1031,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-exchange-custodiem.md",
@@ -25542,15 +25523,17 @@
       ],
       "markdown_links": [
         "https://jvcea.or.jp/member/",
+        "https://support.custodiem.com/hc/ja/articles/29710664413709-FTX-Japan-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%95%86%E5%8F%B7%E5%A4%89%E6%9B%B4%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B",
+        "https://support.custodiem.com/hc/ja/articles/39008469668237-%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E7%92%B0%E5%A2%83%E3%81%AE%E8%A8%AD%E5%AE%9A%E3%81%AE%E8%AA%A4%E3%82%8A%E3%81%AB%E3%82%88%E3%82%8B%E3%81%8A%E5%AE%A2%E6%A7%98%E6%83%85%E5%A0%B1%E6%BC%8F%E3%81%88%E3%81%84%E5%8F%AF%E8%83%BD%E6%80%A7%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E8%A9%AB%E3%81%B3%E3%81%A8%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B",
         "https://www.custodiem.com/",
         "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
         "https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=7010401115356"
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4014,
-      "word_like_tokens": 654,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 5814,
+      "word_like_tokens": 1113,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-exchange-digital-asset-markets.md",
@@ -25604,6 +25587,8 @@
       "markdown_links": [
         "https://corp.digiasset.co.jp/aboutus",
         "https://corp.digiasset.co.jp/digitalasset",
+        "https://corp.digiasset.co.jp/news/20210217",
+        "https://corp.digiasset.co.jp/news/20220207",
         "https://corp.digiasset.co.jp/officer",
         "https://jvcea.or.jp/member/",
         "https://www.digiasset.co.jp/",
@@ -25611,9 +25596,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4684,
-      "word_like_tokens": 781,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 5587,
+      "word_like_tokens": 921,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-exchange-dmm-bitcoin.md",
@@ -25644,8 +25629,6 @@
       ],
       "wikilinks": [
         "exchanges/INDEX",
-        "exchanges/bybit-lazarus-hack-detailed-analysis",
-        "exchanges/coincheck-nem-hack-detailed-analysis",
         "exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis",
         "exchanges/fsa-vasp-registration-system",
         "exchanges/jp-exchange-sbi-vc-trade",
@@ -25657,8 +25640,6 @@
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/ja/domains/exchanges/",
-        "https://finwiki.zksc.io/ja/exchanges/bybit-lazarus-hack-detailed-analysis/",
-        "https://finwiki.zksc.io/ja/exchanges/coincheck-nem-hack-detailed-analysis/",
         "https://finwiki.zksc.io/ja/exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis/",
         "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
         "https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/",
@@ -25675,13 +25656,15 @@
         "https://jvcea.or.jp/member/",
         "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
         "https://www.fsa.go.jp/policy/virtual_currency02/",
+        "https://www.npa.go.jp/bureau/cyber/koho/caution/caution20241224.html",
+        "https://www.npa.go.jp/bureau/cyber/pdf/20241224_jp.pdf",
         "https://www.sbivc.co.jp/dmm_vct"
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4562,
-      "word_like_tokens": 793,
-      "last_modified": "2026-05-24"
+      "nonspace_chars": 5015,
+      "word_like_tokens": 874,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-exchange-dmm-com-securities.md",
@@ -25743,8 +25726,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4913,
-      "word_like_tokens": 848,
+      "nonspace_chars": 5666,
+      "word_like_tokens": 932,
       "last_modified": "2026-07-29"
     },
     {
@@ -25777,11 +25760,7 @@
         "exchanges/INDEX",
         "exchanges/fsa-vasp-registration-system",
         "exchanges/jp-crypto-exchange-overview",
-        "exchanges/jp-exchange-bitflyer",
-        "exchanges/jp-exchange-coincheck",
         "exchanges/jp-exchange-coinhub",
-        "exchanges/jp-exchange-gmo-coin",
-        "exchanges/jp-exchange-sbi-vc-trade",
         "exchanges/jp-vasp-parent-company-map",
         "exchanges/jvcea-self-regulatory-overview",
         "exchanges/rwa-tokenization-cex-integration",
@@ -25791,22 +25770,23 @@
         "https://finwiki.zksc.io/ja/domains/exchanges/",
         "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
         "https://finwiki.zksc.io/ja/exchanges/jp-crypto-exchange-overview/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/",
         "https://finwiki.zksc.io/ja/exchanges/jp-exchange-coinhub/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-gmo-coin/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/",
         "https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/",
         "https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/",
         "https://finwiki.zksc.io/ja/exchanges/rwa-tokenization-cex-integration/",
         "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://coinestate.co.jp/static/resource/code_of_ethics_ja.pdf",
+        "https://realestate.coinestate.co.jp/company.html",
+        "https://www.coinestate.co.jp/static/resource/trade_manual.pdf?v=20260424",
+        "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2902,
-      "word_like_tokens": 478,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 3598,
+      "word_like_tokens": 591,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-exchange-gaia.md",
@@ -25840,7 +25820,6 @@
         "exchanges/fsa-vasp-registration-system",
         "exchanges/jp-crypto-merchant-payment-lightning",
         "exchanges/jp-exchange-coinhub",
-        "exchanges/jp-exchange-zaif",
         "exchanges/jp-vasp-aml-travel-rule-implementation",
         "fintech/japan-bittrade-listing-process",
         "fintech/japan-financial-regulation",
@@ -25852,7 +25831,6 @@
         "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
         "https://finwiki.zksc.io/ja/exchanges/jp-crypto-merchant-payment-lightning/",
         "https://finwiki.zksc.io/ja/exchanges/jp-exchange-coinhub/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-zaif/",
         "https://finwiki.zksc.io/ja/exchanges/jp-vasp-aml-travel-rule-implementation/",
         "https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/",
         "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
@@ -25865,13 +25843,17 @@
         "https://www.gaia-btm-service.com/",
         "https://www.gaia-btm.com/company/",
         "https://www.gaia-btm.com/news/2021/",
-        "https://www.gaia-btm.com/news/2022/"
+        "https://www.gaia-btm.com/news/2022/",
+        "https://www.gaia-btm.com/news/2022/20220802843/",
+        "https://www.gaia-btm.com/news/2026/202605011326/",
+        "https://www.gaia-btm.com/news/2026/202605261333/",
+        "https://www.gaia-btm.com/news/2026/202607081340/"
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3810,
-      "word_like_tokens": 719,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 4889,
+      "word_like_tokens": 890,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-exchange-gate-japan.md",
@@ -25904,9 +25886,6 @@
         "exchanges/INDEX",
         "exchanges/fsa-vasp-registration-system",
         "exchanges/global-vasp-regulatory-comparison-matrix",
-        "exchanges/jp-exchange-bitflyer",
-        "exchanges/jp-exchange-coincheck",
-        "exchanges/jp-exchange-gmo-coin",
         "exchanges/jp-vasp-ma-consolidation-history",
         "exchanges/jp-vasp-parent-company-map",
         "fintech/japan-bittrade-listing-process",
@@ -25918,9 +25897,6 @@
         "https://finwiki.zksc.io/ja/domains/exchanges/",
         "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
         "https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-gmo-coin/",
         "https://finwiki.zksc.io/ja/exchanges/jp-vasp-ma-consolidation-history/",
         "https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/",
         "https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/",
@@ -25933,13 +25909,16 @@
         "https://jvcea.or.jp/member/",
         "https://prtimes.jp/main/html/searchrlp/company_id/95088",
         "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
+        "https://www.fsa.go.jp/news/30/virtual_currency/20180406-3.html",
+        "https://www.gate.com/ja-jp/about-us",
+        "https://www.gate.com/ja-jp/about-us/news/news-20",
         "https://www.gateio.jp/ja/about-us"
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4517,
-      "word_like_tokens": 797,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 5461,
+      "word_like_tokens": 989,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-exchange-gaudiy.md",
@@ -26008,9 +25987,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 7163,
-      "word_like_tokens": 1190,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 7888,
+      "word_like_tokens": 1296,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-exchange-gmo-coin.md",
@@ -26043,9 +26022,6 @@
         "exchanges/INDEX",
         "exchanges/fsa-vasp-registration-system",
         "exchanges/jp-cex-staking-lending-regulation",
-        "exchanges/jp-exchange-bitflyer",
-        "exchanges/jp-exchange-coincheck",
-        "exchanges/jp-exchange-sbi-vc-trade",
         "exchanges/jp-vasp-parent-company-map",
         "fintech/japan-financial-regulation",
         "fintech/japan-stablecoin-regulatory-landscape",
@@ -26057,9 +26033,6 @@
         "https://finwiki.zksc.io/ja/domains/exchanges/",
         "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
         "https://finwiki.zksc.io/ja/exchanges/jp-cex-staking-lending-regulation/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/",
         "https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/",
         "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
         "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
@@ -26069,19 +26042,21 @@
       ],
       "markdown_links": [
         "https://coin.z.com/jp/corp/about/company/",
+        "https://coin.z.com/jp/corp/guide/reason/",
         "https://coin.z.com/jp/corp/product/info/exchange/",
-        "https://coin.z.com/jp/corp/product/info/fx/",
         "https://coin.z.com/jp/corp/product/info/spot/",
         "https://coin.z.com/jp/corp/product/info/staking/",
-        "https://coin.z.com/jp/news/",
+        "https://coin.z.com/jp/news/2026/04/15863/",
+        "https://coin.z.com/jp/news/2026/07/16131/",
+        "https://coin.z.com/jp/news/2026/07/16232/",
         "https://jvcea.or.jp/member/",
         "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx"
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4874,
-      "word_like_tokens": 904,
-      "last_modified": "2026-06-23"
+      "nonspace_chars": 5748,
+      "word_like_tokens": 1005,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-exchange-goldenway-japan.md",
@@ -26139,9 +26114,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4110,
-      "word_like_tokens": 763,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 4559,
+      "word_like_tokens": 820,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-exchange-jpyc.md",
@@ -26195,16 +26170,19 @@
         "https://finwiki.zksc.io/ja/payment-firms/jpyc/"
       ],
       "markdown_links": [
-        "https://coinpost.jp/?s=JPYC+%E8%B3%87%E9%87%91%E7%A7%BB%E5%8B%95%E6%A5%AD",
-        "https://jpyc.co.jp/",
-        "https://jpyc.co.jp/about",
+        "https://corporate.jpyc.co.jp/",
+        "https://corporate.jpyc.co.jp/news/posts/first-yen-stablecoin-jpyc",
+        "https://corporate.jpyc.co.jp/news/posts/jpyc-ex-launch",
+        "https://corporate.jpyc.co.jp/news/posts/jpyc-prepaid-renaming",
+        "https://corporate.jpyc.co.jp/news/posts/series-b-first-close",
+        "https://corporate.jpyc.co.jp/news/posts/series-b-second-close",
         "https://jvcea.or.jp/member/"
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4408,
-      "word_like_tokens": 769,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 5352,
+      "word_like_tokens": 885,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-exchange-kraken-japan-historical.md",
@@ -26216,13 +26194,13 @@
       },
       "raw_markdown_url": "https://finwiki.zksc.io/exchanges/jp-exchange-kraken-japan-historical.md",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-exchange-kraken-japan-historical.md",
-      "title": "Payward Asia (Kraken Japan) — 日本暗号資産交換業者（dormant / 撤退）overview",
+      "title": "Payward Asia (Kraken Japan) — 日本暗号資産交換業者（撤退済み）overview",
       "domain": "exchanges",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
       "summary": "This entry sits under exchanges index. Read it against Coinbase 株式会社 — 日本暗号資産交換業者 for the closest parallel pattern (外資系 retail exit) and FSA 暗号資産交換業登録制度 for the broader system / regulatory boundary.",
       "headings": [
-        "Payward Asia (Kraken Japan) — 日本暗号資産交換業者（dormant / 撤退）overview",
+        "Payward Asia (Kraken Japan) — 日本暗号資産交換業者（撤退済み）overview",
         "Wiki route",
         "1. 法人・株主",
         "2. 牌照・登録状況（歴史）",
@@ -26255,12 +26233,18 @@
         "https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/",
         "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://blog.kraken.com/kraken-japan/%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%9A%97%E5%8F%B7%E8%B3%87%E7%94%A3%E4%BA%A4%E6%8F%9B%E6%A5%AD%E3%81%AE%E5%BB%83%E6%AD%A2%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B",
+        "https://blog.kraken.com/kraken-japan/%E6%9A%97%E5%8F%B7%E8%B3%87%E7%94%A3%E4%BA%A4%E6%8F%9B%E6%A5%AD%E7%99%BB%E9%8C%B2%E5%AE%8C%E4%BA%86%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B",
+        "https://blog.kraken.com/kraken-japan/20230124-2",
+        "https://blog.kraken.com/kraken-japan/launch-in-japan",
+        "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4178,
-      "word_like_tokens": 697,
-      "last_modified": "2026-05-25"
+      "nonspace_chars": 5299,
+      "word_like_tokens": 1024,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-exchange-laser-digital-japan.md",
@@ -26272,13 +26256,13 @@
       },
       "raw_markdown_url": "https://finwiki.zksc.io/exchanges/jp-exchange-laser-digital-japan.md",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-exchange-laser-digital-japan.md",
-      "title": "Laser Digital Japan — 日本暗号資産交換業者 overview",
+      "title": "Laser Digital Japan — 日本法人・暗号資産関連事業 overview",
       "domain": "exchanges",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
       "summary": "This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.",
       "headings": [
-        "Laser Digital Japan — 日本暗号資産交換業者 overview",
+        "Laser Digital Japan — 日本法人・暗号資産関連事業 overview",
         "Wiki route",
         "1. 法人・株主",
         "2. 牌照・登録状況",
@@ -26318,16 +26302,16 @@
         "https://coinpost.jp/?p=685975",
         "https://jvcea.or.jp/member/",
         "https://komainu.com/about/",
-        "https://laserdigital.com/",
-        "https://laserdigital.com/company-news/",
-        "https://laserdigital.com/company-news/laser-digital-japan-to-participate-in-hitachi-led-aml-framework-project-for-digital-assets-supported-by-the-jfsas-fintech-poc-hub/",
-        "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx"
+        "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
+        "https://www.laserdigital.com/japan/en/information/about-laser-digital-japan",
+        "https://www.laserdigital.com/japan/information/company-outline",
+        "https://www.laserdigital.com/japan/ja"
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5411,
-      "word_like_tokens": 887,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 5477,
+      "word_like_tokens": 873,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-exchange-line-xenesis.md",
@@ -26339,13 +26323,13 @@
       },
       "raw_markdown_url": "https://finwiki.zksc.io/exchanges/jp-exchange-line-xenesis.md",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-exchange-line-xenesis.md",
-      "title": "LINE Xenesis株式会社 — 日本暗号資産交換業者 overview",
+      "title": "LINE Xenesis株式会社 — 日本暗号資産交換業者（サービス終了）overview",
       "domain": "exchanges",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
       "summary": "This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.",
       "headings": [
-        "LINE Xenesis株式会社 — 日本暗号資産交換業者 overview",
+        "LINE Xenesis株式会社 — 日本暗号資産交換業者（サービス終了）overview",
         "Wiki route",
         "1. 法人・株主",
         "2. 牌照・登録状況",
@@ -26360,35 +26344,25 @@
         "exchanges/INDEX",
         "exchanges/fsa-vasp-registration-system",
         "exchanges/jp-cex-nft-marketplace-integration",
-        "exchanges/jp-exchange-bitflyer",
-        "exchanges/jp-exchange-coincheck",
-        "exchanges/jp-exchange-gmo-coin",
         "exchanges/jp-vasp-ma-consolidation-history",
         "exchanges/jp-vasp-parent-company-map",
         "fintech/japan-bittrade-listing-process",
         "fintech/japan-financial-regulation",
-        "fintech/japan-stablecoin-regulatory-landscape",
-        "megabanks/paypay-fg"
+        "fintech/japan-stablecoin-regulatory-landscape"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/ja/domains/exchanges/",
         "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
         "https://finwiki.zksc.io/ja/exchanges/jp-cex-nft-marketplace-integration/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-gmo-coin/",
         "https://finwiki.zksc.io/ja/exchanges/jp-vasp-ma-consolidation-history/",
         "https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/",
         "https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/",
         "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
-        "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
-        "https://finwiki.zksc.io/ja/megabanks/paypay-fg/"
+        "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/"
       ],
       "markdown_links": [
-        "https://coinpost.jp/",
         "https://jvcea.or.jp/member/",
-        "https://www.bitmax.me/",
-        "https://www.bitmax.me/notice/100024017",
+        "https://www.bitmax.me/endofservice_info",
         "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
         "https://www.linexenesiscorp.com/",
         "https://www.linexenesiscorp.com/en/",
@@ -26396,9 +26370,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5044,
-      "word_like_tokens": 876,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 4685,
+      "word_like_tokens": 792,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-exchange-mercoin.md",
@@ -26431,8 +26405,6 @@
         "exchanges/INDEX",
         "exchanges/fsa-vasp-registration-system",
         "exchanges/jp-cex-points-economy-integration",
-        "exchanges/jp-exchange-bitbank",
-        "exchanges/jp-exchange-bitflyer",
         "exchanges/jp-exchange-rakuten-wallet",
         "exchanges/jp-vasp-parent-company-map",
         "fintech/japan-bittrade-listing-process",
@@ -26445,8 +26417,6 @@
         "https://finwiki.zksc.io/ja/domains/exchanges/",
         "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
         "https://finwiki.zksc.io/ja/exchanges/jp-cex-points-economy-integration/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitbank/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/",
         "https://finwiki.zksc.io/ja/exchanges/jp-exchange-rakuten-wallet/",
         "https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/",
         "https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/",
@@ -26460,14 +26430,16 @@
         "https://about.mercoin.com/about/",
         "https://about.mercoin.com/news/",
         "https://about.mercoin.com/news/20230309_bitcoin/",
+        "https://about.mercoin.com/news/20250805coincheck/",
+        "https://about.mercoin.com/news/20260608_mercoin/",
         "https://jvcea.or.jp/member/",
         "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx"
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4374,
-      "word_like_tokens": 756,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 5666,
+      "word_like_tokens": 918,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-exchange-mercury.md",
@@ -26527,9 +26499,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3776,
-      "word_like_tokens": 653,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 3960,
+      "word_like_tokens": 696,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-exchange-monex.md",
@@ -26632,7 +26604,6 @@
       "wikilinks": [
         "exchanges/INDEX",
         "exchanges/fsa-vasp-registration-system",
-        "exchanges/jp-exchange-bitbank",
         "exchanges/jp-exchange-bitflyer",
         "exchanges/jp-exchange-bittrade",
         "exchanges/jp-exchange-custodiem",
@@ -26646,7 +26617,6 @@
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/ja/domains/exchanges/",
         "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitbank/",
         "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/",
         "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bittrade/",
         "https://finwiki.zksc.io/ja/exchanges/jp-exchange-custodiem/",
@@ -26666,9 +26636,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4385,
-      "word_like_tokens": 756,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 4010,
+      "word_like_tokens": 701,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-exchange-okcoin-japan.md",
@@ -26702,9 +26672,6 @@
         "exchanges/fsa-vasp-registration-system",
         "exchanges/global-vasp-regulatory-comparison-matrix",
         "exchanges/jp-cex-staking-lending-regulation",
-        "exchanges/jp-exchange-bitflyer",
-        "exchanges/jp-exchange-coincheck",
-        "exchanges/jp-exchange-sbi-vc-trade",
         "exchanges/jp-vasp-parent-company-map",
         "fintech/japan-bittrade-listing-process",
         "fintech/japan-financial-regulation",
@@ -26716,9 +26683,6 @@
         "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
         "https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/",
         "https://finwiki.zksc.io/ja/exchanges/jp-cex-staking-lending-regulation/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/",
         "https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/",
         "https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/",
         "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
@@ -26737,9 +26701,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4978,
-      "word_like_tokens": 919,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 4226,
+      "word_like_tokens": 726,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-exchange-osl-japan.md",
@@ -26774,9 +26738,6 @@
         "exchanges/global-vasp-regulatory-comparison-matrix",
         "exchanges/hk-sfc-vasp-licensing-overview",
         "exchanges/jp-crypto-market-maker-otc-layer",
-        "exchanges/jp-exchange-bitflyer",
-        "exchanges/jp-exchange-coincheck",
-        "exchanges/jp-exchange-gmo-coin",
         "fintech/japan-bittrade-listing-process",
         "fintech/japan-financial-regulation",
         "fintech/japan-stablecoin-regulatory-landscape",
@@ -26788,9 +26749,6 @@
         "https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/",
         "https://finwiki.zksc.io/ja/exchanges/hk-sfc-vasp-licensing-overview/",
         "https://finwiki.zksc.io/ja/exchanges/jp-crypto-market-maker-otc-layer/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-gmo-coin/",
         "https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/",
         "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
         "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
@@ -26810,9 +26768,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4905,
-      "word_like_tokens": 936,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 4436,
+      "word_like_tokens": 862,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-exchange-rakuten-wallet.md",
@@ -26846,8 +26804,6 @@
         "exchanges/fsa-vasp-registration-system",
         "exchanges/jp-cex-points-economy-integration",
         "exchanges/jp-exchange-binance-japan",
-        "exchanges/jp-exchange-bitflyer",
-        "exchanges/jp-exchange-coincheck",
         "exchanges/jp-exchange-gmo-coin",
         "exchanges/jp-exchange-mercoin",
         "exchanges/jp-vasp-parent-company-map",
@@ -26862,8 +26818,6 @@
         "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
         "https://finwiki.zksc.io/ja/exchanges/jp-cex-points-economy-integration/",
         "https://finwiki.zksc.io/ja/exchanges/jp-exchange-binance-japan/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/",
         "https://finwiki.zksc.io/ja/exchanges/jp-exchange-gmo-coin/",
         "https://finwiki.zksc.io/ja/exchanges/jp-exchange-mercoin/",
         "https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/",
@@ -26884,9 +26838,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5111,
-      "word_like_tokens": 872,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 5132,
+      "word_like_tokens": 880,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-exchange-saxo-bank-japan.md",
@@ -26946,9 +26900,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4549,
-      "word_like_tokens": 818,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 4393,
+      "word_like_tokens": 772,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-exchange-sbi-securities.md",
@@ -26981,9 +26935,6 @@
         "exchanges/INDEX",
         "exchanges/btc-spot-etf-japan-impact",
         "exchanges/fsa-vasp-registration-system",
-        "exchanges/jp-exchange-bi-fxtrade",
-        "exchanges/jp-exchange-gmo-coin",
-        "exchanges/jp-exchange-monex",
         "exchanges/jp-exchange-sbi-vc-trade",
         "exchanges/jp-vasp-derivative-license-system",
         "fintech/japan-bittrade-listing-process",
@@ -26996,9 +26947,6 @@
         "https://finwiki.zksc.io/ja/domains/exchanges/",
         "https://finwiki.zksc.io/ja/exchanges/btc-spot-etf-japan-impact/",
         "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bi-fxtrade/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-gmo-coin/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-monex/",
         "https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/",
         "https://finwiki.zksc.io/ja/exchanges/jp-vasp-derivative-license-system/",
         "https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/",
@@ -27018,9 +26966,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5629,
-      "word_like_tokens": 1041,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 5566,
+      "word_like_tokens": 1006,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-exchange-sbi-vc-trade.md",
@@ -27094,9 +27042,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5580,
-      "word_like_tokens": 997,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 5724,
+      "word_like_tokens": 968,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-exchange-sblox.md",
@@ -27173,13 +27121,13 @@
       },
       "raw_markdown_url": "https://finwiki.zksc.io/exchanges/jp-exchange-tokyo-hash.md",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-exchange-tokyo-hash.md",
-      "title": "東京ハッシュ株式会社 — 日本暗号資産交換業者 overview",
+      "title": "HashKey Japan株式会社（旧 東京ハッシュ株式会社） — 日本暗号資産交換業者 overview",
       "domain": "exchanges",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
       "summary": "This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.",
       "headings": [
-        "東京ハッシュ株式会社 — 日本暗号資産交換業者 overview",
+        "HashKey Japan株式会社（旧 東京ハッシュ株式会社） — 日本暗号資産交換業者 overview",
         "Wiki route",
         "1. 法人・株主",
         "2. 牌照・登録状況",
@@ -27195,9 +27143,6 @@
         "exchanges/fsa-vasp-registration-system",
         "exchanges/global-vasp-regulatory-comparison-matrix",
         "exchanges/hk-sfc-vasp-licensing-overview",
-        "exchanges/jp-exchange-bitflyer",
-        "exchanges/jp-exchange-coincheck",
-        "exchanges/jp-exchange-gmo-coin",
         "exchanges/jp-vasp-parent-company-map",
         "fintech/japan-bittrade-listing-process",
         "fintech/japan-financial-regulation",
@@ -27209,9 +27154,6 @@
         "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
         "https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/",
         "https://finwiki.zksc.io/ja/exchanges/hk-sfc-vasp-licensing-overview/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-gmo-coin/",
         "https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/",
         "https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/",
         "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
@@ -27230,9 +27172,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4363,
-      "word_like_tokens": 736,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 4156,
+      "word_like_tokens": 707,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-exchange-traders-securities.md",
@@ -27264,9 +27206,6 @@
       "wikilinks": [
         "exchanges/INDEX",
         "exchanges/fsa-vasp-registration-system",
-        "exchanges/jp-exchange-bi-fxtrade",
-        "exchanges/jp-exchange-monex",
-        "exchanges/jp-exchange-sbi-securities",
         "exchanges/jp-listed-cex-related-companies-matrix",
         "exchanges/jp-vasp-derivative-license-system",
         "exchanges/jp-vasp-parent-company-map",
@@ -27277,9 +27216,6 @@
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/ja/domains/exchanges/",
         "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bi-fxtrade/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-monex/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-securities/",
         "https://finwiki.zksc.io/ja/exchanges/jp-listed-cex-related-companies-matrix/",
         "https://finwiki.zksc.io/ja/exchanges/jp-vasp-derivative-license-system/",
         "https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/",
@@ -27298,9 +27234,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3913,
-      "word_like_tokens": 698,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 3950,
+      "word_like_tokens": 677,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-exchange-trek-labs-japan.md",
@@ -27363,9 +27299,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5181,
-      "word_like_tokens": 863,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 3911,
+      "word_like_tokens": 624,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-exchange-zaif.md",
@@ -27398,8 +27334,6 @@
         "exchanges/INDEX",
         "exchanges/coincheck-nem-hack-detailed-analysis",
         "exchanges/fsa-vasp-registration-system",
-        "exchanges/jp-exchange-bitflyer",
-        "exchanges/jp-exchange-coincheck",
         "exchanges/jp-vasp-incident-history",
         "exchanges/jp-vasp-ma-consolidation-history",
         "exchanges/jp-vasp-parent-company-map",
@@ -27412,8 +27346,6 @@
         "https://finwiki.zksc.io/ja/domains/exchanges/",
         "https://finwiki.zksc.io/ja/exchanges/coincheck-nem-hack-detailed-analysis/",
         "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/",
         "https://finwiki.zksc.io/ja/exchanges/jp-vasp-incident-history/",
         "https://finwiki.zksc.io/ja/exchanges/jp-vasp-ma-consolidation-history/",
         "https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/",
@@ -27431,14 +27363,13 @@
         "https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=1120001184556",
         "https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=1120101054642",
         "https://www.jngroup.jp/corporate/outline/",
-        "https://www.nihon-ma.co.jp/news/2025/07/15/",
         "https://zaif.jp/"
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5850,
-      "word_like_tokens": 1065,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 5660,
+      "word_like_tokens": 989,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-foreign-exchange-binance-holdings-legacy.md",
@@ -27498,9 +27429,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5860,
-      "word_like_tokens": 948,
-      "last_modified": "2026-07-28"
+      "nonspace_chars": 5410,
+      "word_like_tokens": 861,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-foreign-exchange-bitcastle.md",
@@ -27560,9 +27491,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4088,
-      "word_like_tokens": 619,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 3137,
+      "word_like_tokens": 458,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-foreign-exchange-bitforex.md",
@@ -27574,13 +27505,13 @@
       },
       "raw_markdown_url": "https://finwiki.zksc.io/exchanges/jp-foreign-exchange-bitforex.md",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-foreign-exchange-bitforex.md",
-      "title": "Bitforex Limited — 日本向け無登録海外暗号資産交換業者（FSA 警告 2 回・2024 年実質閉鎖）",
+      "title": "Bitforex Limited — 日本向け無登録海外暗号資産交換業者（FSA 警告 2 回）",
       "domain": "exchanges",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
       "summary": "This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.",
       "headings": [
-        "Bitforex Limited — 日本向け無登録海外暗号資産交換業者（FSA 警告 2 回・2024 年実質閉鎖）",
+        "Bitforex Limited — 日本向け無登録海外暗号資産交換業者（FSA 警告 2 回）",
         "Wiki route",
         "1. 法人・株主",
         "2. 牌照・登録状況",
@@ -27615,21 +27546,18 @@
       ],
       "markdown_links": [
         "https://coinpost.jp/",
-        "https://www.dlnews.com/",
-        "https://www.forbes.com/",
         "https://www.fsa.go.jp/policy/virtual_currency02/BitforexLimited2_keikokushiryo.pdf",
         "https://www.fsa.go.jp/policy/virtual_currency02/BitforexLimited_keikokushiryo.pdf",
         "https://www.fsa.go.jp/policy/virtual_currency02/angoushisan_mutouroku.pdf",
         "https://www.fsa.go.jp/policy/virtual_currency02/index.html",
-        "https://www.halborn.com/post/",
         "https://www.neweconomy.jp/posts/",
         "https://www.nikkei.com/search?keyword=Bitforex+%E9%87%91%E8%9E%8D%E5%BA%81"
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5283,
-      "word_like_tokens": 841,
-      "last_modified": "2026-05-24"
+      "nonspace_chars": 3692,
+      "word_like_tokens": 580,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-foreign-exchange-bitget.md",
@@ -27682,18 +27610,15 @@
       ],
       "markdown_links": [
         "https://coinpost.jp/?s=Bitget",
-        "https://jinacoin.ne.jp/",
-        "https://www.bitget.com/ja/blog/press-release/",
         "https://www.fsa.go.jp/news/r6/kasou_tuka/20241128/bitget_keikokushiryo.pdf",
         "https://www.fsa.go.jp/policy/virtual_currency02/Bitget_keikokushiryo.pdf",
-        "https://www.fsa.go.jp/policy/virtual_currency02/index.html",
-        "https://www.google.com/search?q=Bitget+Limited+FSA+%E9%87%91%E8%9E%8D%E5%BA%81+%E8%AD%A6%E5%91%8A+2023"
+        "https://www.fsa.go.jp/policy/virtual_currency02/index.html"
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4911,
-      "word_like_tokens": 809,
-      "last_modified": "2026-05-24"
+      "nonspace_chars": 3162,
+      "word_like_tokens": 493,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-foreign-exchange-bybit.md",
@@ -27756,9 +27681,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5897,
-      "word_like_tokens": 978,
-      "last_modified": "2026-05-24"
+      "nonspace_chars": 3966,
+      "word_like_tokens": 612,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-foreign-exchange-kucoin.md",
@@ -27816,9 +27741,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4428,
-      "word_like_tokens": 764,
-      "last_modified": "2026-05-24"
+      "nonspace_chars": 3302,
+      "word_like_tokens": 512,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-foreign-exchange-lbank.md",
@@ -27936,20 +27861,17 @@
         "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/"
       ],
       "markdown_links": [
-        "https://www.fsa.go.jp/policy/virtual_currency/angoushisan_mutouroku.pdf",
         "https://www.fsa.go.jp/policy/virtual_currency/angoushisan_mutouroku.xlsx",
         "https://www.fsa.go.jp/policy/virtual_currency02/MEXCGlobal_keikokushiryo.pdf",
         "https://www.fsa.go.jp/policy/virtual_currency02/index.html",
         "https://www.fsa.go.jp/policy/virtual_currency02/mexc_global_keikokushiryo.pdf",
-        "https://www.globenewswire.com/",
-        "https://www.neweconomy.jp/posts/435203",
-        "https://www.nikkei.com/"
+        "https://www.neweconomy.jp/posts/435203"
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4575,
-      "word_like_tokens": 780,
-      "last_modified": "2026-05-24"
+      "nonspace_chars": 3369,
+      "word_like_tokens": 516,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-ieo-system-and-cases.md",
@@ -28016,7 +27938,7 @@
       "domain": "exchanges",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "国内機関向けカストディ市場は 技術 (cold vs MPC) × 親会社 (国内 vs 海外) の二軸で分化している。VASP の自社カストディ (bitFlyer / Coincheck / bitbank 等) と並行して、B2B vendor 層 (機関・他 VASP・金融機関向けインフラ供給) が形成されており、その中核に Komainu / Ginco / Fireblocks Japan の三社が位置する。",
+      "summary": "本稿は、国内事業者から参照される機関向けカストディ／ウォレット基盤のうち Komainu、Ginco、Fireblocks の三者を、各社公式資料で確認できる技術方式と提供機能に限定して比較する。市場シェア、順位、顧客数の国内比較を示すものではなく、法的なカストディ主体と技術ベンダーも区別する。",
       "headings": [
         "国内機関カストディ三強構造 — Komainu / Ginco / Fireblocks Japan 比較",
         "概要",
@@ -28032,24 +27954,20 @@
         "exchanges/fsa-vasp-registration-system",
         "exchanges/jp-custody-fireblocks-japan",
         "exchanges/jp-custody-ginco",
-        "exchanges/jp-custody-komainu",
-        "exchanges/jp-exchange-crypto-garage",
-        "exchanges/jp-exchange-laser-digital-japan"
+        "exchanges/jp-custody-komainu"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
         "https://finwiki.zksc.io/ja/exchanges/jp-custody-fireblocks-japan/",
         "https://finwiki.zksc.io/ja/exchanges/jp-custody-ginco/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-custody-komainu/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-crypto-garage/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-laser-digital-japan/"
+        "https://finwiki.zksc.io/ja/exchanges/jp-custody-komainu/"
       ],
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2003,
-      "word_like_tokens": 329,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 2227,
+      "word_like_tokens": 298,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-listed-cex-related-companies-matrix.md",
@@ -28071,59 +27989,49 @@
         "Wiki route",
         "概要",
         "自社・直接親会社 上場マトリックス",
-        "海外上場 親会社経由",
+        "歴史的な上場ルート",
         "投資家含意"
       ],
       "wikilinks": [
         "exchanges/INDEX",
         "exchanges/fsa-vasp-registration-system",
-        "exchanges/jp-exchange-coinbase-japan",
         "exchanges/jp-exchange-coincheck",
         "exchanges/jp-exchange-gmo-coin",
-        "exchanges/jp-exchange-laser-digital-japan",
         "exchanges/jp-exchange-mercury",
-        "exchanges/jp-exchange-monex",
         "exchanges/jp-exchange-money-partners",
         "exchanges/jp-exchange-osl-japan",
         "exchanges/jp-exchange-sbi-vc-trade",
-        "exchanges/jp-exchange-tokyo-hash",
         "exchanges/jp-exchange-traders-securities",
         "exchanges/jp-exchange-zaif",
         "exchanges/jp-vasp-ma-consolidation-history",
         "exchanges/jp-vasp-parent-company-map",
         "megabanks/sbi-hd",
-        "payment-firms/bitflyer",
         "payment-firms/gmo-financial-hd",
         "securities-firms/monex-group"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/ja/domains/exchanges/",
         "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-coinbase-japan/",
         "https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/",
         "https://finwiki.zksc.io/ja/exchanges/jp-exchange-gmo-coin/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-laser-digital-japan/",
         "https://finwiki.zksc.io/ja/exchanges/jp-exchange-mercury/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-monex/",
         "https://finwiki.zksc.io/ja/exchanges/jp-exchange-money-partners/",
         "https://finwiki.zksc.io/ja/exchanges/jp-exchange-osl-japan/",
         "https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-tokyo-hash/",
         "https://finwiki.zksc.io/ja/exchanges/jp-exchange-traders-securities/",
         "https://finwiki.zksc.io/ja/exchanges/jp-exchange-zaif/",
         "https://finwiki.zksc.io/ja/exchanges/jp-vasp-ma-consolidation-history/",
         "https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/",
         "https://finwiki.zksc.io/ja/megabanks/sbi-hd/",
-        "https://finwiki.zksc.io/ja/payment-firms/bitflyer/",
         "https://finwiki.zksc.io/ja/payment-firms/gmo-financial-hd/",
         "https://finwiki.zksc.io/ja/securities-firms/monex-group/"
       ],
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2318,
-      "word_like_tokens": 382,
-      "last_modified": "2026-06-23"
+      "nonspace_chars": 2737,
+      "word_like_tokens": 416,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-vasp-aml-travel-rule-implementation.md",
@@ -28311,7 +28219,7 @@
       "domain": "exchanges",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "国内 VASP 史は大規模流出事件によって規制が前進してきた歴史である。Mt.Gox (2014) は資金決済法改正の引き金となり、Coincheck (2018) は自主規制機関 JVCEA 発足とコールド保管比率規制の起点、DMM Bitcoin (2024) は北朝鮮 Lazarus 帰属が公的に確認された大型事案として SBI VC トレードへの事業移管を生んだ。流出は単発事件でなく、ホットウォレット 5% 上限・分別管理義務などの「制度反射」を伴って繰り返されてきた。",
+      "summary": "本稿は、日本の交換業者または国内顧客に大きく影響した主要流出事案を、公的資料と当事社公表で確認できる金額・資産量・帰結に限定して整理する。事件と法改正・自主規制の時系列は示すが、各事件が単独で特定制度を生んだという因果関係は、公的資料で明記される範囲を超えて断定しない。",
       "headings": [
         "国内 VASP 暗号資産流出事件史 (2014-2026)",
         "概要",
@@ -28341,9 +28249,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2072,
-      "word_like_tokens": 336,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 2353,
+      "word_like_tokens": 332,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-vasp-ma-consolidation-history.md",
@@ -28366,7 +28274,7 @@
         "概要",
         "主要案件 timeline",
         "動因分析(3 つの統合トリガー)",
-        "統合後の市場集中度 (2026-05 時点)",
+        "統合状態のスナップショット (2026-07-29)",
         "関連エントリ"
       ],
       "wikilinks": [
@@ -28402,9 +28310,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2582,
-      "word_like_tokens": 426,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 3442,
+      "word_like_tokens": 543,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jp-vasp-parent-company-map.md",
@@ -28656,9 +28564,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4626,
-      "word_like_tokens": 757,
-      "last_modified": "2026-05-24"
+      "nonspace_chars": 4051,
+      "word_like_tokens": 636,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jvcea-self-regulatory-overview.md",
@@ -28822,47 +28730,33 @@
       },
       "raw_markdown_url": "https://finwiki.zksc.io/exchanges/jvcea-whitelist-listing-timeline.md",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jvcea-whitelist-listing-timeline.md",
-      "title": "JVCEA WhiteList 上場銘柄 timeline (2017-2026)",
+      "title": "JVCEA Green List / 取扱暗号資産 公開資料 timeline (2017-2026)",
       "domain": "exchanges",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
       "summary": "This entry sits under exchanges index. Read it against JVCEA 取扱銘柄 WhiteList 制度 — トークン上場プロセス + Green/Yellow リスト for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
       "headings": [
-        "JVCEA WhiteList 上場銘柄 timeline (2017-2026)",
+        "JVCEA Green List / 取扱暗号資産 公開資料 timeline (2017-2026)",
         "Wiki route",
         "概要",
         "Timeline 主要 Milestone",
-        "国内独占・初上場銘柄",
-        "海外 vs 国内 取扱差",
+        "資料の読み分け",
+        "現行公式スナップショット",
         "戦略含意",
         "関連"
       ],
       "wikilinks": [
         "exchanges/INDEX",
-        "exchanges/coincheck-nem-hack-detailed-analysis",
         "exchanges/fsa-vasp-registration-system",
-        "exchanges/jp-exchange-backseat-exchange",
-        "exchanges/jp-exchange-coincheck",
-        "exchanges/jp-exchange-digital-asset-markets",
         "exchanges/jp-exchange-gmo-coin",
-        "exchanges/jp-exchange-jpyc",
-        "exchanges/jp-exchange-line-xenesis",
-        "exchanges/jp-foreign-exchange-mexc",
         "exchanges/jvcea-self-regulatory-overview",
         "exchanges/jvcea-spot-volume-statistics-analysis",
         "exchanges/jvcea-whitelist-token-listing"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/ja/domains/exchanges/",
-        "https://finwiki.zksc.io/ja/exchanges/coincheck-nem-hack-detailed-analysis/",
         "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-backseat-exchange/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-digital-asset-markets/",
         "https://finwiki.zksc.io/ja/exchanges/jp-exchange-gmo-coin/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-jpyc/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-exchange-line-xenesis/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-mexc/",
         "https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/",
         "https://finwiki.zksc.io/ja/exchanges/jvcea-spot-volume-statistics-analysis/",
         "https://finwiki.zksc.io/ja/exchanges/jvcea-whitelist-token-listing/"
@@ -28870,9 +28764,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2466,
-      "word_like_tokens": 420,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 2006,
+      "word_like_tokens": 279,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/jvcea-whitelist-token-listing.md",
@@ -28948,7 +28842,7 @@
       "domain": "exchanges",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "韓国は 特定金融情報法 (특정금융정보법, 2021-03-25 施行) で 仮想資産事業者 (VASP / VA-OP, 가상자산사업자) 登録制度を成立させた。登録 2 要件: (a) KISA (Korea Internet & Security Agency) の ISMS 認証 + (b) 国内銀行との実名口座契約 (실명확인 입출금 계정)。両要件を満たして 金融情報分析院 (FIU, 韓国版 FinCEN) に登録できた取引所のみが KRW 取引ペア (KRW spot market) を提供可能。2026 年時点で KRW 取引可能なのは下記 5 社のみ。コイン-only 取引",
+      "summary": "韓国では改正「特定金融取引情報の報告及び利用等に関する法律」に基づき、仮想資産事業者が金融委員会（FSC）傘下の金融情報分析院（KoFIU）へ申告する。ISMS 認証は申告要件の一つで、ウォン建て取引を提供する交換業者には銀行の実名確認入出金口座が必要となる。実名口座を持たない事業者のコイン間取引まで一律に「未登録」とは扱わない。本稿の銀行関係は 2026年7月29日に確認した運営会社・銀行の公表に基づくスナップショットである。",
       "headings": [
         "韓国 5 大 CEX 制度比較 — Upbit / Bithumb / Coinone / Korbit / GOPAX",
         "韓国制度概要",
@@ -28959,25 +28853,27 @@
         "Related"
       ],
       "wikilinks": [
+        "exchanges/cex-bithumb-korea",
+        "exchanges/cex-upbit-korea",
         "exchanges/fsa-vasp-registration-system",
         "exchanges/global-cex-top10-comparison",
-        "exchanges/jp-vasp-regulatory-timeline",
         "exchanges/jvcea-self-regulatory-overview",
         "fintech/japan-financial-regulation"
       ],
       "resolved_wikilinks": [
+        "https://finwiki.zksc.io/ja/exchanges/cex-bithumb-korea/",
+        "https://finwiki.zksc.io/ja/exchanges/cex-upbit-korea/",
         "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
         "https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/",
-        "https://finwiki.zksc.io/ja/exchanges/jp-vasp-regulatory-timeline/",
         "https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/",
         "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/"
       ],
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2257,
-      "word_like_tokens": 377,
-      "last_modified": "2026-06-23"
+      "nonspace_chars": 2634,
+      "word_like_tokens": 379,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/korea-kimchi-premium-economics.md",
@@ -29339,8 +29235,8 @@
         "Solana エコシステム DEX 群比較",
         "Wiki route",
         "概要",
-        "Top 6 protocol プロファイル",
-        "比較表 (設計 / 用途 / TVL)",
+        "6 protocol プロファイル",
+        "比較表 (設計 / 用途)",
         "memecoin 経済学 (Solana 独自)",
         "国際比較 — EVM 系との対比"
       ],
@@ -29351,8 +29247,6 @@
         "exchanges/fsa-vasp-registration-system",
         "exchanges/global-dex-major-five-comparison",
         "exchanges/global-perp-dex-five-comparison",
-        "exchanges/jvcea-whitelist-listing-timeline",
-        "exchanges/native-dex-flip-incumbent-pattern",
         "exchanges/ve33-governance-mechanism",
         "systems/cross-chain-four-poles-overview"
       ],
@@ -29363,17 +29257,15 @@
         "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
         "https://finwiki.zksc.io/ja/exchanges/global-dex-major-five-comparison/",
         "https://finwiki.zksc.io/ja/exchanges/global-perp-dex-five-comparison/",
-        "https://finwiki.zksc.io/ja/exchanges/jvcea-whitelist-listing-timeline/",
-        "https://finwiki.zksc.io/ja/exchanges/native-dex-flip-incumbent-pattern/",
         "https://finwiki.zksc.io/ja/exchanges/ve33-governance-mechanism/",
         "https://finwiki.zksc.io/ja/systems/cross-chain-four-poles-overview/"
       ],
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3257,
-      "word_like_tokens": 569,
-      "last_modified": "2026-06-23"
+      "nonspace_chars": 2599,
+      "word_like_tokens": 386,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "exchanges/switzerland-finma-crypto-valley-overview.md",
@@ -85887,8 +85779,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 10241,
-      "word_like_tokens": 1976,
+      "nonspace_chars": 10933,
+      "word_like_tokens": 2101,
       "last_modified": "2026-07-29"
     },
     {
@@ -89269,6 +89161,39 @@
       "entity_edges": [],
       "nonspace_chars": 9688,
       "word_like_tokens": 1790,
+      "last_modified": "2026-07-29"
+    },
+    {
+      "source_path": "releases/v2026.07.29-16.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.07.29-16.md",
+      "html_url": null,
+      "alternate_html_urls": null,
+      "raw_markdown_url": "https://finwiki.zksc.io/releases/v2026.07.29-16.md",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.29-16.md",
+      "title": "暗号資産取引所・カストディの表出典123件を校正",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "canonical_anchor": "",
+      "summary": "",
+      "headings": [
+        "暗号資産取引所・カストディの表出典123件を校正",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "entity_node": null,
+      "entity_edges": [],
+      "nonspace_chars": 8059,
+      "word_like_tokens": 1445,
       "last_modified": "2026-07-29"
     },
     {

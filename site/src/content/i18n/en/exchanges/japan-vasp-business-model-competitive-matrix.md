@@ -1,11 +1,11 @@
 ---
 source: exchanges/japan-vasp-business-model-competitive-matrix
-source_hash: 7ff7b5f5d7727731
+source_hash: 646dc84ccd72844e
 lang: en
 status: machine
 fidelity: ok
 title: "Japan VASP business-model competitive matrix — comparison of 39 社's business segments / revenue structures / differentiation axes"
-translated_at: 2026-07-28T18:19:40Z
+translated_at: 2026-07-29T11:02:23.000Z
 ---
 
 # Japan VASP business-model competitive matrix — comparison of 39 社's business segments / revenue structures / differentiation axes
@@ -20,15 +20,15 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. It is the **事業モ
 
 ## Why this matrix matters
 
-- The Japanese VASP market is **heavily skewed in revenue / trading volume at the 30 社 scale** (the top 5  of bitFlyer / Coincheck / GMO Coin / SBI VC Trade / bitbank are estimated to hold 70%+ share of account count). The remaining 25-30 社 survive by **deep cultivation of specific segments** (institutional OTC / IEO / RWA / derivatives specialists / foreign-affiliated liquidity gateways).
+- The registered population, revenue, volume and account counts of Japan's VASP market vary by date and scope; verify them in dated FSA / JVCEA and operator disclosures. Compare institutional OTC, IEO, RWA, derivatives-only and foreign-liquidity-gateway segments separately.
 - **Differences in revenue model greatly affect operating margin**:
-  - sales-outlet spread (domestic mainstream) → operating margin 30-50%
-  - exchange order-book depth (foreign liquidity bridge) → operating margin 5-15%
-  - derivatives (FIEA category 1 ) → operating margin 20-40%
+  - verify dealer-spread contribution in each firm's disclosures; do not infer a fixed operating margin
+  - verify order-book and foreign-liquidity-bridge contribution in each firm's disclosures
+  - verify derivatives contribution separately from spot business
   - institutional OTC / RWA → operating margin unstable (dependent on large-lot trades)
 - Because **JVCEA token review** narrows the number of tokens, foreign-affiliated Japanese entities (Binance / OKJ / OSL / Bybit Japan in planning) **structurally cannot bring their global parent's token lineup into the Japanese market**. This becomes a "regulatory moat that suppresses foreign majors' incentive to enter the Japanese market."
 - Two major emerging segments:
-  - **Electronic-payment-instruments trading business (ECISP)** = SBI VC Trade began handling USDC 第00001号 onward (2025-03), with other firms expected to follow
+  - **Electronic Payment Instrument Exchange Service Provider (EPIESP)** = SBI VC Trade began handling USDC under registration No. 00001; verify additional registrations in the current FSA list
   - **IEO** = Coincheck IEO was the first domestic introduction, followed by GMO Coin / bitbank
 
 ## Per-operator sections
@@ -37,14 +37,14 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. It is the **事業モ
 
 - **[[exchanges/jp-exchange-bitflyer|bitFlyer]]** (Kanto Local Finance Bureau 第00003号, JVCEA #1002)
   - **Model**: spot sales-outlet + exchange (Lightning Spot) + derivatives (Lightning FX) + credit card (bitFlyer credit card, issued by APLUS)
-  - **Revenue axis**: continued domestic No.1 in BTC volume + derivatives fees + bitFlyer credit card from APLUS
+  - **Revenue axis**: spot / derivatives fees and the bitFlyer credit card; verify BTC-volume rank in a same-date, same-scope dataset
   - **2025-12  results**: revenue 135 億円, operating profit 42 億円
   - **Differentiation**: order-book depth of Lightning FX derivatives + multi-jurisdiction expansion (US subsidiary bitFlyer USA, European subsidiary bitFlyer Europe SAS)
   - **2024  developments**: acquired [[exchanges/jp-exchange-custodiem|Custodiem]] (former FTX Japan) in 2024  → reinforcing derivatives
 - **[[exchanges/jp-exchange-bitbank|bitbank]]** (FSA-registered, independent)
   - **Model**: spot exchange (order-book-trading specialized) + staking + IEO
   - **Revenue axis**: trading fees (Maker rebate model)
-  - **Differentiation**: domestic spot order-book volume No.2  class, a non-listed private company sticking to independence
+  - **Differentiation**: spot order-book business and an independent, non-listed corporate structure; do not fix a volume rank
   - **Strategy**: early IEO entry + competing on retail exchange order-book depth
 - **[[exchanges/jp-exchange-btcbox|BTCBOX]]** (independent veteran)
   - **Model**: spot exchange (BTC-centered) + Chinese-affiliated liquidity
@@ -55,11 +55,11 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. It is the **事業モ
 - **[[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]]** (Kanto Local Finance Bureau 第00011号, JVCEA #1011)
   - **Model**: spot sales-outlet + derivatives (3247 号, FIEA category 1 ) + ECISP USDC (domestic ECISP 第00001号) + staking + USDC lending (2026-03  first domestically)
   - **Revenue axis**: sales-outlet spread + derivatives fees + USDC lending interest
-  - **Differentiation**: **the only firm in Japan simultaneously holding 3  licenses** (crypto-asset exchange + FIEA category 1  + ECISP). Exclusively distributes domestic USDC via the SBI Circle Holdings 50/50  JV (2025-08)
+  - **Differentiation**: verify its crypto-asset exchange, financial-instruments and EPIESP registrations and business scope in each registry. Verify USDC partnership and distribution scope in current party disclosures
   - **Strategy**: becoming the kingmaker of the USD-JPY SC cross-border compliance channel (see [[fintech/stablecoin-channel-japan-sbi-jpyc-ring|SBI × JPYC × Circle 環]])
 - **[[exchanges/jp-exchange-gmo-coin|GMO Coin]]** (Kanto Local Finance Bureau 第00006号, JVCEA #1006)
   - **Model**: spot sales-outlet + exchange + leveraged trading + staking + crypto-asset lending
-  - **Revenue axis**: sales-outlet spread (one of the largest domestic revenue engines) + leverage fees
+  - **Revenue axis**: dealer spread + leverage fees; do not infer revenue rank without financial disclosure
   - **Differentiation**: as an extension of the GMO Internet Group's (9449) infrastructure business, in-house development of the technical stack
 - **[[exchanges/jp-exchange-coincheck|Coincheck]]** (Kanto Local Finance Bureau 第00014号, JVCEA #1017, Monex-affiliated)
   - **Model**: spot sales-outlet + exchange + first domestic IEO introduction + NFT marketplace (Coincheck NFT)
@@ -81,7 +81,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. It is the **事業モ
   - **Strategy**: obtained registration via the 2022  Sakura Exchange acquisition, links domestic payments via PayPay (Z HD-affiliated) investment
 - **[[exchanges/jp-exchange-coinbase-japan|Coinbase Japan]]** (registered with Kanto Local Finance Bureau, 2023  withdrawal / license retained)
   - **Model**: dormant state due to 2023  withdrawal
-  - **Strategy**: retains a re-entry option for the future by retaining the license (currently suspended)
+  - **Strategy**: verify the current registration status and service availability against the FSA registry and the party's announcements
 - **[[exchanges/jp-exchange-okcoin-japan|OKCoin Japan (OKJ)]]** (OKX-affiliated)
   - **Model**: spot sales-outlet (no derivatives)
   - **Differentiation**: operates Type 1  spot as a separate entity (overseas OKX's derivatives not offered domestically)
@@ -127,7 +127,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. It is the **事業モ
 - **[[exchanges/jp-exchange-gaia|Gaia]]** (niche)
 - **[[exchanges/jp-exchange-bi-fxtrade|BI FXTRADE]]** (SBI FX Trade subsidiary)
 - **[[exchanges/jp-exchange-mercury|Mercury]]** (Ceres 3696 -affiliated, operates CoinTrade)
-- **[[exchanges/jp-exchange-line-xenesis|LINE Xenesis]]** (LINE Yahoo 4689 -affiliated, 2026-06  service termination scheduled)
+- **[[exchanges/jp-exchange-line-xenesis|LINE Xenesis]]** (LINE Yahoo 4689-affiliated, service ended in 2026-06)
 - **[[exchanges/jp-exchange-coinhub|CoinHub]]**
 - **[[exchanges/jp-exchange-gaudiy|Gaudiy]]**
 - **[[exchanges/jp-exchange-sblox|S.BLOX]]** (former DeCurret = under the Sony Group, crypto-asset exchange business)
@@ -136,87 +136,49 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. It is the **事業モ
 
 - **[[exchanges/jp-exchange-jpyc|JPYC]]** (Kanto Local Finance Bureau 第00099号 funds-transfer business)
   - **Model**: JPY stablecoin JPYC issuance / redemption specialist (**not** a crypto-asset exchange business)
-  - **Differentiation**: the only funds-transfer-operator-type SC issuer
+  - **Differentiation**: funds-transfer-operator stablecoin issuance model; verify current peers in FSA registration materials
 
 ## Big comparison matrix table
 
-| Operator | Parent | FSA reg. no. | JVCEA category | Spot sales-outlet | Spot exchange | Leverage | Derivatives (FIEA cat. 1 ) | Custody | Staking | IEO | Institutional OTC | Retail sales-outlet |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| **bitFlyer** | bitFlyer Holdings | 第00003号 | Type 1 #1002  (spot + derivatives) | ◎ Lightning Spot | ○ Lightning | ○ Lightning FX | ○ | ○ | △ | ✕ | △ | ◎ |
-| **Coincheck** | Monex Group (8698) | 第00014号 | Type 1 #1017  (spot only) | ◎ | ○ | ✕ | ✕ | ○ | ○ | **◎ first domestically** | ✕ | ◎ |
-| **GMO Coin** | GMO Internet (9449) | 第00006号 | Type 1 #1006 | ◎ | ○ | ○ | ○ | ○ | ○ | △ | ✕ | ◎ |
-| **SBI VC Trade** | SBI HD (8473) | 第00011号 (+ ECISP 第00001号) | Type 1 #1011  (3  licenses) | ○ | ○ | ✕ | ○ (3247) | ○ | ○ | △ | △ | ○ |
-| **bitbank** | independent | (registered) | Type 1 | △ | ◎ Maker-rebate | ✕ | ✕ | ○ | ○ | ○ | ✕ | △ |
-| **BTCBOX** | independent | (registered) | Type 1 | △ | ○ | ✕ | ✕ | ○ | ✕ | ✕ | ✕ | △ |
-| **Rakuten Wallet** | Rakuten (4755) | (registered) | Type 1 | ◎ | ✕ | ✕ | ✕ | ○ | ✕ | ✕ | ✕ | ◎ |
-| **Mercoin** | Mercari (4385) | (registered) | Type 1 | ◎ | ✕ | ✕ | ✕ | ○ | ✕ | ✕ | ✕ | ◎ |
-| **Binance Japan** | Binance Global (PayPay 40%) | (registered) | Type 1 | ◎ | ○ | ✕ | ✕ | ○ | ○ | ✕ | ✕ | ◎ |
-| **Coinbase Japan** | Coinbase Global (COIN) | (registered, dormant) | Type 1 | (suspended) | (suspended) | ✕ | ✕ | (suspended) | ✕ | ✕ | ✕ | (suspended) |
-| **OKCoin Japan (OKJ)** | OKX Group | (registered) | Type 1 | ○ | ○ | ✕ | ✕ | ○ | △ | ✕ | ✕ | ○ |
-| **OSL Japan** | OSL Group (HKEX:863) | (registered) | Type 1 | ○ | ○ | ✕ | ✕ | ○ | △ | ✕ | △ | ○ |
-| **Gate Japan** | Gate.io | (registered) | Type 1 | ○ | ○ | ✕ | ✕ | ○ | ✕ | ✕ | ✕ | ○ |
-| **Tokyo Hash** | HashKey Group | (registered) | Type 1 | ✕ | ✕ | ✕ | ✕ | ○ | ✕ | ✕ | ◎ | ✕ |
-| **Crypto Garage** | DG HD + Tokyo Tanshi + Nomura HD | (registered) | Type 1 | ✕ | ✕ | ✕ | ✕ | ○ | ✕ | ✕ | ◎ | ✕ |
-| **Digital Asset Markets** | JPX + Mitsui & Co. + Monex | (registered) | Type 1 | ✕ | ○ (institutional PTS) | ✕ | ✕ | ○ | ✕ | ✕ | ◎ | ✕ |
-| **Laser Digital Japan** | Nomura HD (Swiss subsidiary) | (registered) | Type 2 (derivatives) | ✕ | ✕ | ✕ | ○ | ○ | ✕ | ✕ | ◎ | ✕ |
-| **SBI Securities** | SBI HD | (derivatives business) | (derivatives) | ✕ | ✕ | ✕ | ○ | ✕ | ✕ | ✕ | △ | ✕ |
-| **Monex** | Monex Group | (derivatives business) | (derivatives) | ✕ | ✕ | ✕ | ○ | ✕ | ✕ | ✕ | △ | ✕ |
-| **Trek Labs Japan** | Backpack Exchange | (registered) | Type 2 (derivatives) | ✕ | ✕ | ✕ | ○ | ○ | ✕ | ✕ | ○ | ✕ |
-| **Saxo Bank Japan** | Saxo Bank A/S | (registered) | Type 2 (derivatives) | ✕ | ✕ | ✕ | ○ | ○ | ✕ | ✕ | ○ | ✕ |
-| **DMM Bitcoin** | DMM | (ceased operations 2024-12) | (ceased) | (ceased) | (ceased) | (ceased) | (ceased) | (ceased) | ✕ | ✕ | ✕ | (ceased) |
-| **Zaif** | JN Group HD (6634) | (registered) | Type 1 | ○ | ○ | ✕ | ✕ | ○ | ✕ | △ | ✕ | ○ |
-| **BitTrade** | Hbg (former Huobi Japan) | (registered) | Type 1 | ○ | ○ | ✕ | ✕ | ○ | ○ | △ | ✕ | ○ |
-| **Backseat Exchange** | (independent, former coinbook) | (registered) | Type 1 | ○ | ✕ | ✕ | ✕ | ○ | ✕ | ✕ | △ | ○ |
-| **LINE Xenesis** | LINE Yahoo (4689) | (registered) | Type 1 | (2026-06  terminated) | (terminated) | ✕ | ✕ | (terminated) | ✕ | ✕ | ✕ | (terminated) |
-| **JPYC** | JPYC Inc. (independent) | 第00099号 (funds-transfer business) | Type 1 #1042  (funds-transfer business) | (N/A) | (N/A) | (N/A) | (N/A) | (N/A) | ✕ | ✕ | ✕ | ✕ |
-| **S.BLOX** | Sony Group | (registered) | Type 1 | ○ | ○ | ✕ | ✕ | ○ | ✕ | ✕ | △ | ○ |
-| **Mercury (CoinTrade)** | Ceres (3696) | (registered) | Type 1 | ○ | ✕ | ✕ | ✕ | ○ | ○ (Fireblocks infrastructure) | ✕ | ✕ | ○ |
-| **BI FXTRADE** | SBI FX Trade | (registered) | Type 1 | △ | ✕ | ✕ | ✕ | ○ | ✕ | ✕ | △ | △ |
-| **CoinHub** | independent | (registered) | Type 1 | △ | ✕ | ✕ | ✕ | ○ | ✕ | ✕ | ✕ | △ |
-| **Gaudiy** | independent | (registered) | Type 1 | △ | ✕ | ✕ | ✕ | ○ | ✕ | ✕ | ✕ | △ |
-| **Gaia** | independent | (registered) | Type 1 | △ | ✕ | ✕ | ✕ | ○ | ✕ | ✕ | ✕ | △ |
-| **DMM.com Securities** | DMM | (derivatives business) | (derivatives) | ✕ | ✕ | ✕ | ○ | ✕ | ✕ | ✕ | △ | ✕ |
-| **Money Partners** | independent | (derivatives business) | (derivatives) | ✕ | ✕ | ✕ | ○ | ✕ | ✕ | ✕ | △ | ✕ |
-| **Goldenway Japan** | Goldenway-affiliated | (derivatives business) | (derivatives) | ✕ | ✕ | ✕ | ○ | ✕ | ✕ | ✕ | △ | ✕ |
-| **Traders Securities** | independent | (derivatives business) | (derivatives) | ✕ | ✕ | ✕ | ○ | ✕ | ✕ | ✕ | △ | ✕ |
-| **FinX/JCrypto** | independent | (registered) | Type 1 | △ | △ | ✕ | ✕ | ○ | ✕ | ✕ | ✕ | △ |
+Source: [FSA crypto-asset exchange registry](https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx), [English registry](https://www.fsa.go.jp/en/regulated/licensed/en_kasoutuka.pdf), and [JVCEA member list](https://jvcea.or.jp/member/). Verify individual services on each operator's current official page.
 
-Legend: ◎ = main strategic axis / ○ = offered / △ = limited / in preparation / ✕ = not offered
+| Analysis population | What to verify in primary sources | What this table does not assert |
+|---|---|---|
+| **Crypto-asset exchange service providers** | registered name, number, date and legal entity | current products, token count, volume or profitability |
+| **Crypto-asset derivatives firms** | financial-instruments registration and business scope | identity with a spot business |
+| **Electronic Payment Instrument Exchange Service Providers** | separate registration and handled instruments | inclusion in crypto-asset exchange registration |
+| **JVCEA members** | current member category and member name | identity with an FSA registration category |
+| **Ceased, transferred or historical entities** | dated FSA, JVCEA and party disclosures | inferred suspension, re-entry or preparation |
+| **Individual services** | current product pages and terms | time-undefined scoring with ◎○△✕ |
 
 ## Two-axis cross analysis: revenue model × target
 
-### Grouping by revenue model
+### How to verify a revenue model
 
-1. **Sales-outlet spread mainstay** (operating margin 30-50%): bitFlyer / Coincheck / GMO Coin / Rakuten Wallet / Mercoin / Binance Japan / SBI VC Trade (partly)
-2. **Exchange-fee mainstay** (operating margin 5-15%): bitbank / OKJ / OSL / Binance Japan (partly)
-3. **Derivatives-fee mainstay** (operating margin 20-40%): bitFlyer (Lightning FX) / GMO Coin (leverage) / SBI Securities / Monex / Trek Labs Japan / Saxo Bank Japan / Laser Digital Japan
-4. **Institutional OTC + RWA** (dependent on large-lot trades): Crypto Garage / Digital Asset Markets / Tokyo Hash / Laser Digital Japan
-5. **stablecoin / EPI** (emerging segment): JPYC (funds-transfer-operator type) / SBI VC Trade (ECISP USDC)
-6. **NFT + IEO** (emerging): Coincheck (Coincheck NFT + first domestic IEO) / bitbank (IEO)
+- Review dealer spreads, exchange fees, derivatives, custody, OTC, staking, lending, IEO and electronic-payment-instrument services as separate revenue sources.
+- Do not estimate an undisclosed firm's operating margin from dealer spreads or peer figures.
+- Verify product availability from the current product page and terms, not from registration alone.
 
 ### By target customer
 
-- **Deep retail-individual cultivation**: bitFlyer / Coincheck / GMO Coin / Rakuten Wallet / Mercoin / Binance Japan / OKJ / Gate Japan
-- **Deep institutional-investor cultivation**: Crypto Garage / Digital Asset Markets / Tokyo Hash / Laser Digital Japan / Saxo Bank Japan
-- **Inter-corporate settlement (B2B)**: SBI VC Trade (USDC) + JPYC (funds-transfer business)
-- **Securities-firm PTS / RWA**: Digital Asset Markets / Crypto Garage
+Classify retail, institutional, corporate-settlement and securities/RWA customers only from the customer category and product description stated by the party. Do not infer the target customer from registration, parent company or UI appearance alone.
 
 ## Differentiation axes of the competitive structure
 
 ### Token-count competition
 
-- **Most tokens domestically**: SBI VC Trade (about 40  tokens) > Coincheck > Binance Japan > GMO Coin
-- **JVCEA token-review constraint**: a structural constraint whereby the 700+ tokens (Binance) that global CEXes handle worldwide are narrowed down to around 30-40  tokens domestically
-- **ECISP token expansion**: since SBI VC Trade began handling USDC, other ECISP holders are similarly planning to expand USDC / PYUSD / EURC
+- **Handled tokens**: check each current product page at the same time; do not fix a token-count ranking
+- **JVCEA token review**: verify domestic availability through registration, review and operator product publication; do not infer domestic counts from a foreign parent
+- **EPIESP products**: verify each registration and current product page; do not predict unpublished additions
 
 ### Spread competition
 
-- Domestic sales-outlet spreads are in the 0.5-3% range, differing by operator / token. bitFlyer / Coincheck / GMO Coin / Rakuten Wallet have retail sales-outlets as their mainstay.
-- The Maker-rebate model of the exchange order book is clearest at bitbank (-0.02% Maker rebate).
+- Dealer spreads vary by operator, asset and time; check the quoted execution price and current fee schedule.
+- Check maker / taker terms in each current fee schedule; do not record a fixed best rate.
 
 ### Listing-speed competition
 
-- **New-listing speed**: independents (bitbank / S.BLOX) are nimble, while major financial-affiliates (SBI / GMO / Rakuten / Mercari) are slow due to parent-company IR disclosure and JVCEA token review
+- **New-listing speed**: compare dated listing announcements over the same period; do not infer speed from ownership
 - **IEO**: after Coincheck IEO's first domestic introduction (2021), GMO Coin / bitbank followed
 
 ### Global liquidity bridge
@@ -232,14 +194,14 @@ Legend: ◎ = main strategic axis / ○ = offered / △ = limited / in preparati
 - SBI VC Trade = a USDC-handling operator via ECISP + crypto-asset exchange business + FIEA category 1 
 - The two are legally different, but are in a competitive relationship as stablecoin businesses (see [[fintech/japan-epi-four-camps-comparison|EPI 四阵营]])
 
-### B2. Coinbase Japan's dormant state — retaining a suspension option rather than withdrawal
+### B2. Current-status verification for Coinbase Japan and DMM Bitcoin
 
-- Coinbase Japan registered with the FSA in 2018  → withdrew in 2023 , but retains the license. It leaves a re-entry option for the future.
-- On the other hand, DMM Bitcoin's 2024-12  closure is confirmed with no revival.
+- Verify Coinbase Japan's registration, corporate status after service suspension, and any resumption against the FSA registry and Coinbase's current official announcements.
+- Verify DMM Bitcoin's closure, business transfer, and corporate status against regulatory materials and the party's current official announcements.
 
 ### B3. LINE Xenesis 2026-06  service termination — evidence of revenue difficulty for major-affiliates
 
-- The LINE Yahoo 4689 -affiliated LINE Xenesis is scheduled for 2026-06  service termination. A case that did not reach sufficient monetization within the LINE ecosystem.
+- LINE Yahoo-affiliated LINE Xenesis ended service in 2026-06. Do not infer the reason or profitability beyond the party's disclosure.
 
 ### B4. Polarization of derivatives-specialist vs spot-specialist
 

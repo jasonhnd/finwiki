@@ -6,9 +6,9 @@ aliases:
   - Japan Blockchain Association
 domain: exchanges
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
-review_by: 2026-11-20
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
 confidence: likely
 tags:
   - exchanges
@@ -19,7 +19,8 @@ tags:
 sources:
   - https://jba-web.jp/
   - https://jba-web.jp/about
-  - https://jvcea.or.jp/
+  - https://jvcea.or.jp/about/
+  - https://cryptocurrency-association.org/
 status: active
 ---
 
@@ -58,13 +59,15 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 
 ## JCBA / JVCEA との棲み分け (三層構造)
 
-| 団体 | 役割 | 会員中心 | 法的位置付け |
-|---|---|---|---|
-| **[[exchanges/jvcea-self-regulatory-overview|JVCEA]]** | 認定自主規制執行 | FSA 登録 VASP | 認定金融商品取引業協会 + 認定資金決済事業者協会 |
-| **[[exchanges/jcba-japan-crypto-business-association|JCBA]]** | 産業政策・税制提言 | 暗号資産ビジネス全般 | 一般社団法人 (任意団体) |
-| **JBA** | 技術・研究・教育 | ブロックチェーン技術コミュニティ | 一般社団法人 (任意団体) |
+出典: 表全体は [JBA 協会概要](https://jba-web.jp/about)、[JVCEA 協会概要](https://jvcea.or.jp/about/)、[JCBA 公式サイト](https://cryptocurrency-association.org/)（2026-07-29 確認）に基づく。
 
-多くの主要 VASP は 3 団体に重複加盟 ([[exchanges/jp-exchange-bitflyer|bitFlyer]]・[[exchanges/jp-exchange-coincheck|Coincheck]]・[[exchanges/jp-exchange-bitbank|bitbank]] 等)。技術団体としての JBA の歴史的価値は、JVCEA 発足前の自主規制ルール形成期に国内 VASP が自律的にアンチマネロン・コールドウォレット運用基準を策定した遺産にある。これは現行 [[exchanges/jp-vasp-aml-travel-rule-implementation|JVCEA Travel Rule 実装]] や [[exchanges/jp-vasp-security-audit-certification|VASP セキュリティ監査基準]] のベースとして継承されている。
+| 団体 | 公式に示す主な目的・役割 | 法人・認定上の位置づけ |
+|---|---|---|---|
+| **[[exchanges/jvcea-self-regulatory-overview|JVCEA]]** | 会員の自主規制と利用者保護 | 一般社団法人・認定資金決済事業者協会・認定金融商品取引業協会 |
+| **[[exchanges/jcba-japan-crypto-business-association|JCBA]]** | 暗号資産・Web3 ビジネスの健全な発展と政策提言 | 一般社団法人 |
+| **JBA** | ブロックチェーン技術の普及、発展、教育 | 一般社団法人 |
+
+個社の重複加盟状況や、過去の団体ルールから現行自主規制への継承関係は、この三団体の概要ページだけでは確定できない。確認時は各団体の現行会員一覧と規則本文を直接参照する。
 
 ## 著名な歴史的会員 / 代表者
 

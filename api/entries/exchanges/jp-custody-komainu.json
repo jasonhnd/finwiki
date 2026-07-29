@@ -23,9 +23,9 @@
     "domain": "exchanges",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-19",
-    "last_tended": "2026-05-19",
-    "review_by": "2027-05-19",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "fintech",
@@ -44,6 +44,8 @@
       "https://komainu.com/about/",
       "https://komainu.com/services/",
       "https://komainu.com/",
+      "https://komainu.com/entities/",
+      "https://komainu.com/services/komainu-core/",
       "https://coinpost.jp/?s=Komainu"
     ]
   },
@@ -88,19 +90,21 @@
       "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
       "https://finwiki.zksc.io/ja/securities-firms/nomura-hd/"
     ],
-    "external_links_count": 5,
+    "external_links_count": 7,
     "external_links": [
       "https://coinpost.jp/?s=Komainu",
       "https://coinpost.jp/p/596xxx",
       "https://komainu.com/",
       "https://komainu.com/about/",
-      "https://komainu.com/services/"
+      "https://komainu.com/entities/",
+      "https://komainu.com/services/",
+      "https://komainu.com/services/komainu-core/"
     ]
   },
   "metrics": {
-    "nonspace_chars": 6115,
-    "word_like_tokens": 1021,
-    "inbound_wikilinks_count": 14,
-    "last_modified": "2026-06-04"
+    "nonspace_chars": 6377,
+    "word_like_tokens": 1006,
+    "inbound_wikilinks_count": 13,
+    "last_modified": "2026-07-29"
   }
 }

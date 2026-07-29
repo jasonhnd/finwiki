@@ -28,9 +28,9 @@
     "domain": "exchanges",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "exchanges",
@@ -58,7 +58,7 @@
       "https://www.statestreet.com/jp"
     ]
   },
-  "summary": "機関向け暗号資産カストディ市場は (1) 技術モデル (cold storage / MPC / hybrid) × (2) ライセンス階層 (Trust Charter / VASP / vendor only) × (3) 顧客セグメント (CEX / hedge fund / ETF issuer / SWF / pension) の三軸で分化している。本マトリクスは日本 3 強 (Ginco / Komainu / Fireblocks Japan) + 米系 4 強 (Coinbase Custody / Fidelity Digital / Anchorage / BitGo) +",
+  "summary": "機関向け暗号資産カストディ市場は (1) 技術モデル (cold storage / MPC / hybrid) × (2) ライセンス階層 (Trust Charter / VASP / vendor only) × (3) 顧客セグメント (CEX / hedge fund / ETF issuer / SWF / pension) の三軸で分化している。本マトリクスは日本で参照される Ginco / Komainu / Fireblocks Japan、米系の Coinbase Custody / Fidelity Digital / Anchorage / BitGo、Big Bank",
   "headings": [
     "暗号資産カストディ プロバイダー ランドスケープ マトリクス — Japan + Global 機関カストディ 10 社の技術・規制・顧客比較",
     "TL;DR",
@@ -127,9 +127,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 17720,
-    "word_like_tokens": 3092,
+    "nonspace_chars": 14633,
+    "word_like_tokens": 2256,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-29"
   }
 }

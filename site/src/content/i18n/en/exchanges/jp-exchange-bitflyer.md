@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-exchange-bitflyer
-source_hash: ab02483800052cd3
+source_hash: 30a852a6fdd75a28
 lang: en
 status: machine
 fidelity: ok
 title: "bitFlyer Inc. — Japan crypto-asset exchange overview"
-translated_at: 2026-07-28T18:19:40Z
+translated_at: 2026-07-29T11:33:00Z
 ---
 
 # bitFlyer Inc. — Japan crypto-asset exchange overview
@@ -38,9 +38,9 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 ## 3. Handled currencies
 
-As the handled-list page from the official corporate site could not be obtained, refer to the list posted on Wikipedia (secondary source) (retrieval date 2026-05-18): BTC, ETH, ETC, BCH, LTC, MONA, LSK, XRP, BAT, XLM, XEM, XTZ, DOT, LINK, XYM, MATIC, MKR, ZPG, FLR, SHIB, PLT — 21 currencies in total (subject to change). Official confirmation is needed.
+Supported assets may be added or removed, so this entry does not freeze a list or count and instead defers to bitFlyer's current supported-assets page.
 
-**Characteristics**: Continued to rank among the top domestically by BTC trading volume (since the first half of 2016年). It has a dedicated Lightning (high-speed trading) order book for BTC/JPY (Lightning Spot). In addition to yen-denominated spot, it also offers leveraged trading (Lightning FX).
+**Characteristics**: Offers BTC/JPY through Lightning Spot as well as crypto-asset derivatives. A ranking for a historical period is not treated as the current market ranking.
 
 ## 4. Scope of business
 
@@ -54,52 +54,38 @@ As the handled-list page from the official corporate site could not be obtained,
 
 ## 5. Market share / trading volume
 
-- The 2016年 first-half domestic bitcoin trading volume ranked No. 1位 (bitFlyer official announcement, posted by 2016-08-15 GoodWay)
-- 2025年12月-term revenue: 135億6700万円, operating profit: 42億5700万円 (bitFlyer Inc. 12th-term financial-results announcement, Official Gazette dated 2025-05-23)
-- As of 2020年3月, cumulative customers across Japan, the US, and Europe surpassed 250万 (official announcement, Cryptocurrency Watch)
-- Public data on the number of accounts / recent trading volume is unconfirmed (treated as not published)
-- **Competitive position**: within the domestic top 3 , with main competitors such as [[exchanges/jp-exchange-coincheck|Coincheck]], [[exchanges/jp-exchange-gmo-coin|GMOコイン]], [[exchanges/jp-exchange-bitbank|bitbank]] (consistently ranked high in both trading volume and account numbers since 2016年, with a history of an early-obtained FSA registration number of 第00003号). For JVCEA self-regulation and the membership system, see [[exchanges/jvcea-self-regulatory-overview|JVCEA 自主規制体系]].
+- bitFlyer has published historical, period-specific trading-volume rankings and customer-count milestones, but they are not carried forward as current figures.
+- This entry has not identified official values that compare recent trading volume and account counts across companies using the same period and definition.
+- **Competitive position**: no market rank is asserted. Current products and published statistics should be compared on the same basis with [[exchanges/jp-exchange-coincheck|Coincheck]], [[exchanges/jp-exchange-gmo-coin|GMOコイン]], [[exchanges/jp-exchange-bitbank|bitbank]], and other peers. For JVCEA self-regulation and membership, see [[exchanges/jvcea-self-regulatory-overview|JVCEA 自主規制体系]].
 
 ## 6. History / major events
+
+This table is limited to milestones directly confirmed in bitFlyer's company profile, FSA and JVCEA registration records, and bitFlyer Holdings' FTX Japan acquisition disclosures. Time-limited self-published rankings, press-only share negotiations, and officer changes without a retained source are excluded. ^[Sources: https://bitflyer.com/ja-jp/s/company; https://jvcea.or.jp/member/; https://bitflyer.com/pub/20240726-Completion-of-FTX-Japan-K.K.-Share-Acquisition-en.pdf; https://bitflyer.com/pub/20240828-The-Change-of-Company-Name-of-Consolidated-Subsidiary-ja.pdf.]
 
 | Date | Event |
 |------|--------|
 | 2014-01-09 | bitFlyer Inc. established (co-founders: Yuzo Kano / Takashi Komiyama) |
-| 2015-04 | chainFlyer (a blockchain visualization tool) released |
-| 2016-08 | Achieved 1位 in domestic bitcoin trading volume in the first half |
 | 2017-09-29 | FSA crypto-asset exchange registration completed (Kanto Local Finance Bureau 第00003号) |
-| 2017-11 | bitFlyer USA obtained a BitLicense / started US operations |
-| 2018-01-23 | bitFlyer EUROPE S.A. obtained an EU Payment Institution License. Officially announced as the world's first to obtain licenses across the 3 continents of Japan, the US, and Europe |
-| 2018-06 | Business improvement order from the FSA (deficiencies in internal-management systems, etc. — URL deleted, cross-checked via Wikipedia, etc.) |
-| 2019-01 | Keisei Hirako appointed representative director (Kano stepped down) |
-| 2019-05 | bitFlyer Blockchain, Inc. established (a blockchain-technology subsidiary) |
-| 2020-03 | Tomohiro Mine appointed representative director / management renewal |
-| 2020-03 | Cumulative customers across Japan, the US, and Europe surpassed 250万 |
-| 2021-03 | Kuniyoshi Hayashi appointed representative director |
-| 2021-12 | bitFlyer credit card issuance began (Japan's first bitcoin-accumulating credit card) |
 | 2018-10-01 | bitFlyer Holdings established (conversion to a holding-company structure) |
-| 2022-04 | Reported that the ACA Group broadly agreed with a coalition of minority shareholders on acquiring a majority of shares (Kano expressed opposition) |
-| 2022-09-30 | The ACA Group abandoned the acquisition (no prospect of securing a majority — Nikkei reporting) |
-| 2023-03-30 | Yuzo Kano reappointed as representative director (general-meeting resolution / declared promotion of an IPO) |
 | 2024-06-20 | Officially announced an agreement to acquire FTX Japan K.K. (conditional on Delaware bankruptcy-court approval) |
+| 2024-07-26 | Completed the acquisition of all FTX Japan shares, making it a wholly owned subsidiary of bitFlyer Holdings |
+| 2024-08-28 | Renamed FTX Japan to Custodiem Inc. |
 
 ## 7. Strategic trends
 
-- **2024年6月 FTX Japan acquisition**: announced the acquisition of the Japanese subsidiary of the bankruptcy-filing FTX (see [[exchanges/ftx-japan-100pct-return-case-study|FTX Japan 100% 返還ケーススタディ]]). The purpose appears to be the acquisition of the customer base / license assets in Japan (official press release 2024-06-20).
-- **Recent financial-performance improvement**: 2025年12月-term operating profit 42億5700万円 (a trend of improvement over the prior term — per the Holdings 12th-term business report).
+- **2024 FTX Japan acquisition**: bitFlyer Holdings announced the share-purchase agreement in June 2024, completed the acquisition of all shares on July 26, and renamed the company Custodiem on August 28. The official disclosure states a plan to develop a digital-asset custody business (see [[exchanges/ftx-japan-100pct-return-case-study|FTX Japan 100% 返還ケーススタディ]]).
 - **Current status of overseas corporations**: the overseas expansion of bitFlyer USA, Inc. (a Delaware corporation) and bitFlyer EUROPE S.A. (Luxembourg) as of 2018年 has been published, but the operating status as of 2026年5月 cannot be officially confirmed.
 - **Use of Tsubasa Honda in commercials**: an advertising campaign featuring Tsubasa Honda from 2024年9月 (official release 2024-08-28).
 
 ## 8. Related figures
 
 - **Yuzo Kano** — co-founder / representative director. Served as representative from the founding in 2014年, and after stepping down for a time, was reappointed in 2023年3月. A face of the industry who led the establishment of the Japan Blockchain Association (JBA).
-- **Takashi Komiyama** — co-founder. A Holdings-level shareholder with approx. 13% (as of the 2022年4月 Nikkei reporting). He had supported the sale in the 2022年 ACA acquisition, but that acquisition fell through. His current stake after the reappointment is unconfirmed.
+- **Takashi Komiyama** — co-founder. His current role and ownership percentage are not disclosed in the official company profile, so historical press estimates are not treated as current values.
 - **Keisei Hirako** — representative director 2019年1月〜2020年3月.
 - **Tomohiro Mine** — representative director 2020年3月〜2021年3月.
 - **Kuniyoshi Hayashi** — representative director 2021年3月〜2023年3月.
 - **Ryota Sasaki** — Holdings director (as of 2024年).
 - **Joel Edgerton** — Holdings director (as of 2024年).
-- **Sekisui House** — held just under 13% as a Holdings shareholder (as of the 2022年4月 Nikkei reporting). It had indicated an intention to sell in the 2022年 ACA acquisition, but that acquisition fell through. Its subsequent holding / sale status is unconfirmed in public information.
 
 ## Related
 
@@ -115,6 +101,8 @@ As the handled-list page from the official corporate site could not be obtained,
 - [bitFlyer Inc. company overview](https://bitflyer.com/ja-jp/s/company) (retrieved 2026-05-18)
 - [JVCEA member list](https://jvcea.or.jp/member/) (retrieved 2026-05-18)
 - [FSA crypto-asset exchange registration list Excel](https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx) (snapshot 令和8年4月1日 = 2026-04-01)
+- [bitFlyer Holdings — completion of FTX Japan share acquisition](https://bitflyer.com/pub/20240726-Completion-of-FTX-Japan-K.K.-Share-Acquisition-en.pdf) (reviewed 2026-07-29)
+- [bitFlyer Holdings — name change to Custodiem](https://bitflyer.com/pub/20240828-The-Change-of-Company-Name-of-Consolidated-Subsidiary-ja.pdf) (reviewed 2026-07-29)
 - [bitFlyer - Wikipedia (Japanese)](https://ja.wikipedia.org/wiki/BitFlyer) (retrieved 2026-05-18, referenced as a primary-source cross-check)
 - [Fund ACA abandons bitFlyer HD acquisition - Nikkei](https://www.nikkei.com/article/DGXZQOUB305WU0Q2A930C2000000/) (2022-09-30 reporting. Confirms the 2022年4月 shareholder composition = Kano approx. 40% / Komiyama approx. 13% / Sekisui House just under 13%, and the developments of the acquisition falling through. Retrieved 2026-05-30)
 - [BitFlyer Co-Founder Yuzo Kano to Return as CEO - Bloomberg](https://www.bloomberg.com/news/articles/2023-03-30/bitflyer-co-founder-yuzo-kano-to-return-as-crypto-exchange-s-ceo) (Confirms Kano holds approx. 40% / reappointed CEO 2023-03 . Retrieved 2026-05-30)

@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-exchange-gate-japan
-source_hash: 72d609ecf3e6cb29
+source_hash: f1cdb49cd6383eed
 lang: en
 status: machine
 fidelity: ok
 title: "Gate Japan K.K.（Gate Japan株式会社）— Japan crypto-asset-exchange operator overview"
-translated_at: 2026-05-31T03:19:56.511Z
+translated_at: 2026-07-29T12:10:50Z
 ---
 
 # Gate Japan K.K.（Gate Japan株式会社）— Japan crypto-asset-exchange operator overview
@@ -21,68 +21,67 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 - **Trade name**: Gate Japan株式会社（English: Gate Japan K.K.）
 - **Predecessors**: 株式会社LastRoots → Coin Master株式会社（reaching the current trade name through successive name changes）
-- **Date of incorporation**: 2016年6月2日
+- **Date of incorporation**: June 2, 2016
 - **Head-office location**: Yaesu Central Tower 27F, Tokyo Midtown Yaesu, 2-2-1 Yaesu, Chuo-ku, Tokyo（〒104-0028）
-- **Parent**: the Singapore entity of Gate Group（the global operator of Gate.io）acquired all issued shares of the former Coin Master株式会社 in 2024年12月19日. The specific shareholding ratio / subsidiary structure is undisclosed
-- **Capital**: approx. 22.4億円（including capital reserve; value stated on the official site）
-- **Number of employees**: 21名（total of regular employees / dispatched employees / partners, as of 2026-05 ）
+- **Group relationship**: Gate Group announced its acquisition of the former Coin Master in December 2024. The Gate Japan company page reviewed on 2026-07-29 shows the Gate group relationship but not the specific ownership ratio or intermediate entity structure, so these are not inferred
+- **Capital**: ¥3,984,294,838 including capital reserve (official company page reviewed 2026-07-29)
+- **Number of employees**: 24, including regular employees, dispatched employees, and partners (same page and date)
 
 ## 2. License / registration status
 
 - **Crypto-asset-exchange business**: Director-General of the Kanto Local Finance Bureau 第00018号（registration date 2019-11-27）
-- Financial-instruments business / electronic-payment-instruments business / funds-transfer business: not obtained（per public information）
+- Financial-instruments business / electronic-payment-instruments business / funds-transfer business: no registration indication on the Gate Japan company page or JVCEA list reviewed on 2026-07-29
 - **JVCEA membership type**: Type-I member（member number 1021）, crypto-asset-exchange business only
 - **JCBA membership type**: full member
 
 ## 3. Listed assets
 
-The former c0ban exchange primarily handled c0ban（RYO）, a proprietary Japan-originated token. In 2026年4月24日 it announced the discontinuation of c0ban handling and terminated the c0ban exchange service. The listed assets / quantities on the new platform were undisclosed as of 2026-05 （before service launch）. Gate Group as a whole claims to hold infrastructure supporting 3,600+ assets, but the listed-asset list for the individual Gate Japan company is said to be disclosed separately at a later date.
+The former c0ban exchange handled c0ban (RYO), a Japan-originated token. Gate Japan's April 24, 2026 notice stopped new account applications and set May 29 as the end date for the c0ban exchange and RYO handling. The Gate Japan company page reviewed on 2026-07-29 displays reference prices for assets such as BTC and ETH, but explicitly says these are Gate Group reference displays and differ from Gate Japan's handled assets. Therefore, Gate Group asset counts should not be attributed to Gate Japan; current contract documents and the trading screen take precedence.
 
 ## 4. Scope of business
 
-- **Brokerage（販売所）**（one-tap buy/sell, JPY-supported, from 1円）
-- **Exchange（取引所）**（order-book trading, pro spec）
-- **OTC（large-lot trading）**（individual block trades by dedicated staff）
-- **Corporate payment solutions**（crypto-asset settlement）
-- Margin / Derivative / Staking / crypto-asset lending: rollout on the new platform undisclosed（as of 2026-05 ）
-- Fiat-deposit channel: undisclosed as the new platform is in preparation
+- The official company page reviewed on 2026-07-29 presents a **brokerage**, **exchange**, **OTC service**, and **corporate payment solution**
+- The same page says it is not a trading screen and that no sale, mediation, or solicitation occurs on that page. Actual acceptance status, handled assets, and deposit/withdrawal channels must be checked in the current contract documents and trading screen
+- Margin, derivatives, staking, and crypto-asset lending: no offering was identified in the Gate Japan company page and important-information document reviewed in this round. Do not transfer Gate.com's global features to Gate Japan
 
 ## 5. Market share / trading volume
 
-- Trading volume / number of accounts: not disclosed
-- The former c0ban exchange was a domestic niche player specialized in trading c0ban（RYO）against yen, and its market share is presumed to be small compared with the major firms（[[exchanges/jp-exchange-bitflyer|bitFlyer]]・[[exchanges/jp-exchange-coincheck|コインチェック]]・[[exchanges/jp-exchange-gmo-coin|GMOコイン]], etc.）. For Gate Group's Japan-re-entry pattern, see [[exchanges/jp-vasp-ma-consolidation-history|JP VASP M&A コンソリデーション史]] and [[exchanges/jp-vasp-parent-company-map|JP VASP 親会社マップ]]
-- Gate Group as a whole claims a global AUM on the order of 100億 USD / 3,400万 registered users（not the figures for the individual Gate Japan company）
-- Customer base: assumed to be retail-facing as well as corporations / institutions via OTC
+- Among the Gate Japan, FSA, and JVCEA materials identified in this review as of 2026-07-29, no Gate Japan-specific trading volume, account count, or market-share figure was identified. This does not establish that no such disclosure exists
+- The former c0ban exchange historically traded RYO against yen, but no competitive rank or market size is inferred without published values. For Gate Group's Japan re-entry, see [[exchanges/jp-vasp-ma-consolidation-history|JP VASP M&A コンソリデーション史]] and [[exchanges/jp-vasp-parent-company-map|JP VASP 親会社マップ]]
+- Global AUM, user, and asset counts displayed on the official page are Gate Group-wide figures and are not used as Gate Japan metrics
 
 ## 6. History / major events
 
+The table below is limited to corporate, registration, and service milestones confirmed through the Gate Japan company page and c0ban termination notice, FSA materials on the LastRoots administrative action, the FSA registry, the JVCEA list, and Gate Group's acquisition disclosure.^[Sources: https://www.gate.com/ja-jp/about-us; https://www.gate.com/ja-jp/about-us/news/news-20; https://www.fsa.go.jp/news/30/virtual_currency/20180406-3.html; https://jvcea.or.jp/member/; https://www.gate.com/ja/about-us.]
+
 | Year/Month | Event |
 |------|--------|
-| 2016年6月2日 | Incorporated as 株式会社LastRoots. Began developing / operating c0ban（RYO）, a Japan-originated crypto asset |
-| 2016年12月 | Launched c0ban |
-| 2018年4月6日 | Received a business-improvement order from the Kanto Local Finance Bureau（a finding regarding the operating structure during the deemed-operator period）|
-| 2019年4月 | Announced a third-party allotment capital increase and a management-structure renewal |
-| 2019年11月27日 | Completed registration with the Kanto Local Finance Bureau as a crypto-asset-exchange operator under the Payment Services Act（第00018号）|
-| 2020年1月31日 | Changed the trade name to "Coin Master株式会社" |
-| 2024年12月19日 | The Singapore entity of Gate Group acquired all issued shares of Coin Master and announced re-entry into the Japanese market. On the same day, changed the trade name to "Gate Japan株式会社" |
-| 2026年2月17日 | Announced participation as a founding company of the Entertainment × Fintech consortium |
-| 2026年3月25日 | Sponsored / exhibited at "JAPAN BITCOIN FUTURE FORUM"（Pia Arena MM）|
-| 2026年4月24日 | Notice of business discontinuation regarding the crypto asset c0ban（RYO）. Announced termination of the c0ban exchange service |
+| 2016-06-02 | Incorporated as 株式会社LastRoots. Began developing / operating c0ban（RYO）, a Japan-originated crypto asset |
+| 2016-12 | Launched c0ban |
+| 2018-04-06 | Received a business-improvement order from the Kanto Local Finance Bureau（a finding regarding the operating structure during the deemed-operator period）|
+| 2019-04 | Announced a third-party allotment capital increase and a management-structure renewal |
+| 2019-11-27 | Completed registration with the Kanto Local Finance Bureau as a crypto-asset-exchange operator under the Payment Services Act (No. 00018) |
+| 2020-01-31 | Changed the trade name to "Coin Master株式会社" |
+| 2024-12 | Gate Group announced its acquisition of Coin Master and entry into the Japanese market; the company moved to the current Gate Japan name |
+| 2026-02-17 | Announced participation as a founding company of the Entertainment × Fintech consortium |
+| 2026-03-25 | Sponsored / exhibited at "JAPAN BITCOIN FUTURE FORUM"（Pia Arena MM）|
+| 2026-04-24 | Announced discontinuation of c0ban (RYO) handling and a May 29 end date for the exchange service |
+| 2026-05-29 | End date for the c0ban exchange service and RYO handling stated in the official termination notice |
 
-**Note**: the FSA 第00018号 registration was completed under the LastRoots name in 2019-11-27. Gate Group's entry（2024年12月）came about 5 years after registration, taking the form of inheriting the existing license through acquisition. The registration timeline and the timing of Gate-group affiliation are clearly divergent.
+**Note**: FSA registration No. 00018 was completed under the LastRoots name on 2019-11-27. Gate Group's entry in December 2024 came about five years after registration, taking the form of inheriting the existing license through acquisition. The registration timeline and the timing of Gate-group affiliation are clearly divergent.
 
 ## 7. Strategic trends
 
-- **Building a new platform**（as of 2026-05 ）: developing a dedicated trading platform for Japan residents / domestic corporations with pillars of brokerage / exchange / OTC / corporate payment solutions. The launch timing is undisclosed
-- **c0ban withdrawal**（2026年4月）: discontinuing c0ban（RYO）, the proprietary token that was the former flagship product, and planning to migrate to Gate Group's standard asset lineup
-- **Entertainment × fintech collaboration**（2026年2月）: participating as a crypto-asset-exchange operator in a domestic entertainment-company consortium. Stated cooperation with the next-generation entertainment industry leveraging Web3  technology
-- **Relationship with Gate.io global**: Gate Japan is the Japan entity of Gate Group, but operates independently as a separate legal entity from Gate.com（formerly Gate.io）. Gate.io global had halted new account openings for Japan residents in 2024年7月, hence a re-entry in the form of going through a domestic legal entity
-- **WebX 2025  title sponsor**（2025年4月）: participated as a title sponsor of the global Web3  conference held in Tokyo
+- **Japan service display**: the Gate Japan company page reviewed on 2026-07-29 presents brokerage, exchange, OTC, and corporate payment services. Current acceptance and handled assets must be checked in contract documents and the trading screen; global functions are not carried over
+- **c0ban termination**: based on the April 2026 notice, the c0ban exchange and handling of RYO ended on May 29
+- **Entertainment × fintech collaboration (February 2026)**: participating as a crypto-asset-exchange operator in a domestic entertainment-company consortium. Stated cooperation with the next-generation entertainment industry leveraging Web3 technology
+- **Relationship with Gate.com global**: Gate Japan's official page states that it is a separate legal entity from Gate.com (formerly Gate.io) and does not handle support for the overseas exchange's accounts or transactions. The global service stopped new Japan-resident account openings in July 2024, so users must preserve the legal-entity boundary
+- **WebX 2025**: Gate Group's official history lists title sponsorship in August 2025. This is a Gate Group activity, not a Gate Japan trading metric
 
 ## 8. Related people
 
 - **Representative Director**: Makoto Miyata（宮田 誠）
-- **Chairman of the Board**: Lin Han（韩 林）（presumed to be a Gate Group affiliate; detailed background undisclosed）
+- **Chairman of the Board**: Lin Han (韓 林). The title is from the official company page reviewed on 2026-07-29; this entry does not infer affiliation or background beyond that page
 - **Director & CEO**: Nicolas Jin（金 田）
 - **Directors**: Harukuni Ito（伊藤 晴國）, Masakazu Suzuki（鈴木 雅和）
 - **Auditor**: Akihisa Mizunoya（水野谷 明久）
@@ -101,9 +100,12 @@ The former c0ban exchange primarily handled c0ban（RYO）, a proprietary Japan-
 ## Sources
 
 - [Gate Japan company overview（official）](https://www.gateio.jp/ja/about-us)（retrieved 2026-05-18）
+- [Current Gate Japan company page](https://www.gate.com/ja-jp/about-us) (accessed 2026-07-29)
+- [Gate Japan — c0ban exchange termination](https://www.gate.com/ja-jp/about-us/news/news-20) (2026-04-24)
 - [JVCEA member list](https://jvcea.or.jp/member/)（retrieved 2026-05-18）
 - [JCBA member Gate Japan](https://cryptocurrency-association.org/member/gateio/)（retrieved 2026-05-18）
 - [FSA crypto-asset-exchange-operator registration list](https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx)（snapshot 令和8年4月1日 = 2026-04-01）
+- [FSA — administrative action against LastRoots](https://www.fsa.go.jp/news/30/virtual_currency/20180406-3.html) (2018-04-06)
 - Gate.io acquires Coin Master / enters the Japanese market（Atarashii Keizai 2024-12-23 report）
 - Global major Gate.io acquires a domestic exchange and re-enters the Japanese market（CoinPost 2024-12-23 report）
 - Gate Japan shareholder-change / trade-name-change notice（former Coin Master corporate site 2024-12-23）

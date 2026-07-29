@@ -23,9 +23,9 @@
     "domain": "exchanges",
     "type": null,
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-06-24",
-    "review_by": "2026-08-08",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "fintech",
@@ -41,7 +41,9 @@
       "https://corp.digiasset.co.jp/officer",
       "https://corp.digiasset.co.jp/digitalasset",
       "https://www.digiasset.co.jp/",
-      "https://jvcea.or.jp/member/"
+      "https://jvcea.or.jp/member/",
+      "https://corp.digiasset.co.jp/news/20210217",
+      "https://corp.digiasset.co.jp/news/20220207"
     ]
   },
   "summary": "This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.",
@@ -81,10 +83,12 @@
       "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
       "https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/"
     ],
-    "external_links_count": 6,
+    "external_links_count": 8,
     "external_links": [
       "https://corp.digiasset.co.jp/aboutus",
       "https://corp.digiasset.co.jp/digitalasset",
+      "https://corp.digiasset.co.jp/news/20210217",
+      "https://corp.digiasset.co.jp/news/20220207",
       "https://corp.digiasset.co.jp/officer",
       "https://jvcea.or.jp/member/",
       "https://www.digiasset.co.jp/",
@@ -92,9 +96,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 4684,
-    "word_like_tokens": 781,
-    "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-24"
+    "nonspace_chars": 5587,
+    "word_like_tokens": 921,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-07-29"
   }
 }

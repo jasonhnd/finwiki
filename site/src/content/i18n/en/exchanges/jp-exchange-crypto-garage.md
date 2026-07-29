@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-exchange-crypto-garage
-source_hash: ab8fe9fc25c3c4f8
+source_hash: 590f96ac9aa355b4
 lang: en
 status: machine
 fidelity: ok
 title: "Crypto Garage, Inc. (株式会社 Crypto Garage) — Japan crypto-asset exchange operator overview"
-translated_at: 2026-06-18T23:33:48.336Z
+translated_at: 2026-07-29T11:07:27Z
 ---
 
 # Crypto Garage, Inc. (株式会社 Crypto Garage) — Japan crypto-asset exchange operator overview
@@ -40,17 +40,13 @@ Digital Garage positions the company as a strategic subsidiary in the fintech / 
 
 ## 3. Currencies handled
 
-The number of handled tokens and the specific list are not individually enumerated on the official site or in public documents, and are not disclosed.
-
-Token characteristics inferred from the service design:
-- **Bitcoin (BTC)** is the central asset (the R&D themes are Bitcoin / Lightning / Liquid Network, and BTC-denominated OTC / settlement is the core)
-- SETTLENET PRO provides "JPY-denominated tokens (yen-denominated) × on-chain DvP settlement," using a JPY-denominated token (an internal settlement currency)
-- The company's R&D includes Discreet Log Contracts (DLC) and Liquid Network sidechain assets
-- Because it is an institution-focused operator rather than a retail multi-token exchange, the number of handled tokens is presumed to be a small, select set
+The official site describes SETTLENET PRO, CUSTODY, and OTC, along with R&D on Bitcoin, Lightning, and Liquid Network, but it does not publish a fixed list or count of handled assets. Supported assets should be checked against the applicable contract service and current service materials; R&D topics should not be used to infer an asset count.
 
 ## 4. Scope of business
 
 The company is **not a retail spot exchange**, but an operator specializing in digital-asset infrastructure for institutions and corporates (self-described: "regulated institutional digital assets infrastructure company"). The main service lines are as follows:
+
+The table below is based on Crypto Garage's current service pages. For launch timing, functionality, and target customers, the official description for each service takes precedence; unlisted functions are not inferred.^[Sources: https://cryptogarage.co.jp/services/pro/; https://cryptogarage.co.jp/services/custody/; https://cryptogarage.co.jp/services/otc/; https://cryptogarage.co.jp/services/rd/.]
 
 | Service | Content |
 |----------|------|
@@ -65,11 +61,13 @@ The company is **not a retail spot exchange**, but an operator specializing in d
 
 ## 5. Market share / trading volume
 
-- Both trading volume and account count are **not disclosed**
+- Among the Crypto Garage, FSA, and JVCEA materials identified in this review as of 2026-07-29, no disclosure of trading volume or account count was identified. This does not establish that no such disclosure exists
 - **Customer base**: specialized in institutional investors, business entities, crypto-asset exchanges, liquidity providers, high-net-worth individuals, family offices, and asset managers. Does not provide services for general retail investors
-- Market position: a **niche (institution-focused infrastructure)** player that does not participate in the retail trading-volume competition. Presumed to target on the order of several dozen corporate clients, but quantitative data are not disclosed
+- Market position: official materials describe infrastructure for institutions and corporates as the principal focus. Do not infer customer count or market rank without disclosed figures
 
 ## 6. History / major incidents
+
+The table below is limited to milestones directly confirmed through Crypto Garage's official About page and news list and the FSA/JVCEA registration materials.^[Sources: https://cryptogarage.co.jp/en/about/; https://cryptogarage.co.jp/news/; https://jvcea.or.jp/member/; https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx.]
 
 | Year/Month | Item |
 |------|------|
@@ -90,15 +88,15 @@ The company is **not a retail spot exchange**, but an operator specializing in d
 | 2025-08  | Jointly developed and began providing, with Pacific Meta, a consulting package supporting corporate crypto-asset holdings |
 | 2025-12  | Paper on Custodial Wallet accepted at IEEE Blockchain 2025  |
 
-Major incidents such as administrative dispositions, hacks, and system failures: not disclosed (2024年6月 "Regarding our company's response to crypto-asset outflows at other companies" refers to another company's case and is not an incident specific to the company itself).
+Among the Crypto Garage, FSA, and JVCEA materials identified in this review as of 2026-07-29, no record of an administrative disposition, hack, or major system failure was identified. This does not establish that no such event exists. The June 2024 item “Regarding our response to an outflow of crypto assets at another company” concerns another company.
 
 ## 7. Strategic trends
 
-- Consistently maintains the **institution-focused × Bitcoin-native** course. SETTLENET PRO has established a niche position of a class unique within Japan in the crypto-asset inter-dealer market
+- Official service and R&D pages continue to present an **institution-focused × Bitcoin-native** direction. SETTLENET PRO is described for the crypto-asset inter-dealer market, but no market rank is asserted
 - **Collaboration with Blockstream / Liquid Network**: Blockstream is listed in the "Backed By" section of the official site. With R&D themes specialized in Bitcoin · Lightning · Liquid Network, a role as a major dissemination partner for Liquid Network sidechain technology in the Japanese market is suggested (the specific investment amount and contract details with Blockstream are not disclosed)
 - **Nomura Group × Komainu collaboration** (2023年11月): collaboration in the institutional-investor custody-service domain. Through the linkage with [[exchanges/jp-custody-komainu|Komainu]] (the joint-venture custodian of [[securities-firms/nomura-hd|野村 HD]] × Ledger × CoinShares), it advances the development of global-level institutional infrastructure (the company's position is detailed in [[exchanges/jp-institutional-custody-three-pillars|JP institutional custody 三本柱]] and [[exchanges/jp-crypto-market-maker-otc-layer|JP crypto market maker / OTC レイヤー]])
 - **Expansion of web3  development contracts**: since 2024年, blockchain-development-support projects in non-crypto fields — Nissan Motor, the Society for Testing English Proficiency (Eiken), SKY Perfect JSAT, Shiwa Town in Iwate Prefecture, etc. — have increased. Diversifies the developer-facing business line via the mahola API
-- **Most recent 12 months (as of 2025年5月)**: joint provision with Pacific Meta of crypto-asset-holding consulting (2025年8月), paper accepted at IEEE Blockchain 2025  (2025年12月). No public announcements regarding IPO or overseas expansion
+- **Recent official items**: the official news list includes the launch of crypto-asset-holding support with Pacific Meta (August 2025) and acceptance of a paper at IEEE Blockchain 2025 (December 2025). Among the official, FSA, and JVCEA materials identified in this review as of 2026-07-29, no IPO or overseas-expansion disclosure was identified, but this does not establish that none exists
 
 ## 8. Related persons
 

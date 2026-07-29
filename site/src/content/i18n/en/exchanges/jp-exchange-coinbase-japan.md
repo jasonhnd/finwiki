@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-exchange-coinbase-japan
-source_hash: 2394c8c5f6ab28ed
+source_hash: ac4a5f4137b3bf13
 lang: en
 status: machine
 fidelity: ok
 title: "Coinbase K.K.（Coinbase 株式会社）— Japan crypto-asset-exchange operator（dormant）overview"
-translated_at: 2026-05-31T03:19:56.510Z
+translated_at: 2026-07-29T11:33:00Z
 ---
 
 # Coinbase K.K.（Coinbase 株式会社）— Japan crypto-asset-exchange operator（dormant）overview
@@ -35,7 +35,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - Crypto-asset-exchange business: Director-General of the Kanto Local Finance Bureau 第00028号（registration date 2021-06-18）
 - The FSA registration remained active as of the 2026-04  snapshot（no deregistration）
 - JVCEA: formerly a Type-I member → withdrew during 2023年（the exact withdrawal date is not disclosed）
-- **The gap between FSA registration 27社 vs JVCEA exchange business 26社 = this company（the industry's sole anomaly）**
+- The April 1, 2026 FSA registration list still includes the company, while the current JVCEA member list reviewed on 2026-07-29 does not. This entry does not freeze the total-count gap or call the status unique, because it can change.
 - No registration for financial-instruments business or electronic-payment-instruments business（within publicly available information）
 
 ## 3. Listed assets
@@ -46,34 +46,30 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 ## 4. Scope of business
 
-- Spot trading（for retail）only. No public information on derivatives / margin / crypto-asset lending / corporate services
+- The official Japan launch announcement confirms retail spot trading. Products not listed there are not asserted to be absent.
 - Fiat-deposit channel: MUFG Quick Deposit（a partnership with Mitsubishi UFJ Financial Group — as of the 2021-08-19 service launch）
-- From 2023-02  onward: effectively suspended operations. Only continues handling Legal Affairs Bureau deposits（kyotaku）
+- From February 2023 onward, trading for Japanese customers stopped. Unwithdrawn balances were subject to yen conversion and Legal Affairs Bureau deposit under the official notice.
 
 ## 5. Market share / trading volume
 
-- No disclosure of trading volume / number of accounts
+- Within the Coinbase, FSA, and JVCEA materials designated for this review and checked on 2026-07-29, no Japan-business trading-volume or account-count disclosure was identified. This is not an assertion that none exists.
 - Market position: domestic operating period of about 18 months（2021-08 – 2023-02）
-- Entered as a foreign-affiliated exchange, but the only case to completely halt its retail business and transition to a dormant state
+- Entered as a foreign-affiliated exchange and halted retail-customer trading in February 2023
 - Customer base: general retail（Japan residents）. No public information on number of accounts / AUM
 
 ## 6. History / major events
 
+This table is limited to milestones confirmed in Coinbase's official Japan launch and halt notices, the FSA registration list, the current JVCEA member list, and corporate-number records. Press-only management commentary and unconfirmed inferences are excluded. ^[Sources: https://www.coinbase.com/en-gb/blog/coinbase-launches-in-japan; https://www.coinbase.com/en-it/blog/halting-operations-in-japan; https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx; https://jvcea.or.jp/member/.]
+
 | Date | Item |
 |--------|------|
 | 2016-01-26 | Corporate-number designation（estimated upper bound of the founding period）|
-| 2020-03 | Joined JVCEA as a Type-II member（while the registration application was pending）|
-| 2021-04 | Parent Coinbase Global directly listed on NASDAQ |
 | 2021-06-18 | Completed Kanto Local Finance Bureau crypto-asset-exchange-business 第00028号 registration; promoted to JVCEA Type-I member |
 | 2021-08-19 | Coinbase Japan service launched. Supported Mitsubishi UFJ Quick Deposit; launched with 5 assets BTC/ETH/BCH/XLM/LTC |
-| 2022年 | Successively listed additional assets such as AVAX / MKR. Expanded to 10  assets or more（on a public basis）|
-| 2023-01-10 | Parent CEO Brian Armstrong announced a company-wide cost-reduction / workforce-reduction policy |
-| 2023-01-12 | Bloomberg report: international-division executive Nana Murugesan referred to a review of the Japan business（"a review of international investment amid the downturn in the digital-asset space"）|
 | 2023-01-18 | Coinbase Japan formally announced a comprehensive review of its Japan business / cessation of transactions with existing customers |
 | 2023-02-16 | Deadline for withdrawing customer assets（the deadline for withdrawing all balances）|
 | 2023-02-17〜 | Automatically converted un-withdrawn crypto assets to Japanese yen and deposited the residual JPY balance with the Legal Affairs Bureau. Customer-facing service completely halted |
-| during 2023年 | Withdrew from JVCEA（the exact withdrawal date is not disclosed — the company is not listed in the JVCEA member roster as of 2026-05 ）|
-| 2026-02-03 | Head-office relocation（Otemachi Building FINOLAB → Marunouchi Kitaguchi Building 9F）— the legal entity persists / FSA registration continues |
+| Reviewed 2026-07-29 | Listed as No. 00028 in the April 1, 2026 FSA list; absent from the current JVCEA member list |
 
 ## 7. Strategic trends
 
@@ -81,8 +77,8 @@ After the 2023-02  service halt, Coinbase 株式会社 has remained in a dormant
 
 - The FSA crypto-asset-exchange-business registration（第00028号）had not been deregistered as of 2026-04 , and the legal entity also persists
 - It has withdrawn from JVCEA（absent from the member roster as of 2026-05 ）
-- No public announcement regarding the parent（Coinbase Global）re-entering / resuming the business（as of 2026-05 ）
-- The head-office-address change（2026-02-03）is seen as minimal legal handling to maintain the legal entity
+- Within the Coinbase, FSA, and JVCEA materials designated for this review and checked on 2026-07-29, no disclosure of a restart for Japanese customers was identified. This is not an assertion that none exists.
+- The purpose of any head-office address change is not inferred without a published source.
 
 **Industry positioning**: this company's case, alongside Kraken Japan（announced withdrawal 2023-01 ）, is often cited as a "pattern of foreign-affiliated exchanges withdrawing from the Japanese market"（for the background, see [[exchanges/jp-vasp-ma-consolidation-history|JP VASP M&A コンソリデーション史]] and [[exchanges/jp-vasp-parent-company-map|JP VASP 親会社マップ]]; as contrasting examples, the continuing foreign-affiliated [[exchanges/jp-exchange-bittrade|BitTrade]] / [[exchanges/jp-exchange-binance-japan|Binance Japan]]）. The withdrawal reasons cited at the time were the following 3 points:
 
@@ -94,7 +90,7 @@ After the 2023-02  service halt, Coinbase 株式会社 has remained in a dormant
 
 - **Brian Armstrong**: founder / CEO of Coinbase Global. Announced company-wide cost reductions in 2023-01-10
 - **Nana Murugesan**（Coinbase business-development / international-division executive）: referred to a review of the Japan business in a 2023-01-12 Bloomberg interview
-- Representative director(s), etc., of the Japan entity: no public information（cannot be confirmed as of 2026-05  due to the disappearance of the official site）
+- Japan-entity representative director(s): no current officer was identified within the Coinbase, FSA, and JVCEA materials designated for this review and checked on 2026-07-29. This is not an assertion that none exists.
 
 ## Related
 
@@ -112,6 +108,8 @@ After the 2023-02  service halt, Coinbase 株式会社 has remained in a dormant
 - [Coinbase and 3社 others complete Japan virtual-currency-exchange-business registration](https://coinpost.jp/?p=254468)（CoinPost, retrieved 2026-05-18）
 - [To launch Coinbase in Japan](https://coinpost.jp/?post_type=breaking&p=269752)（CoinPost, retrieved 2026-05-18）
 - [Coinbase to halt its Japan virtual-currency-trading service; formally announces a business review](https://coinpost.jp/?p=426649)（CoinPost, retrieved 2026-05-18）
+- [Coinbase — Coinbase launches in Japan](https://www.coinbase.com/en-gb/blog/coinbase-launches-in-japan) (2021-08-19; retrieved 2026-07-29)
+- [Coinbase — Halting operations in Japan](https://www.coinbase.com/en-it/blog/halting-operations-in-japan) (2023-01-18; retrieved 2026-07-29)
 - [JVCEA member introduction](https://jvcea.or.jp/member/)（retrieved 2026-05-18）— confirmed no entry for 第00028号
 - National Tax Agency corporate-number publication site — Coinbase株式会社（houjin-bangou.nta.go.jp, corporate number 4010-0011-73138, retrieved 2026-05-18）
 - [FSA crypto-asset-exchange-operator registration list Excel](https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx)（snapshot 令和8年4月1日 = 2026-04-01）

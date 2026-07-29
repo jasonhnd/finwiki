@@ -1,20 +1,20 @@
 ---
 source: exchanges/cex-foxbit-brazil
-source_hash: a219354c8a0f8598
+source_hash: a46c5fdff6793499
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
-title: "Foxbit — ブラジル CEX #2  / 老舗 BRL ペア流動性の概観"
-translated_at: 2026-06-26T08:29:25.269Z
+title: "Foxbit — ブラジル老舗 CEX / BRL ペアの概要"
+translated_at: 2026-07-29T12:03:55.000Z
 ---
-# Foxbit — ブラジル CEX #2  / 老舗 BRL ペア流動性の概観
+# Foxbit — ブラジル老舗 CEX / BRL ペアの概要
 
 ## ウィキ上の位置づけ
 
-この項目は [[exchanges/INDEX|exchanges index]] の配下に位置する。ブラジルにおける最も近い比較・対照対象は [[exchanges/cex-mercado-bitcoin-brazil|Mercado Bitcoin]]（#1）、より広いグローバルベンチマークは [[exchanges/global-cex-top10-comparison|global CEX top 10 comparison]]、規制境界の見方は [[exchanges/global-vasp-regulatory-comparison-matrix|グローバル VASP 規制比較]] をあわせて読む。
+この項目は [[exchanges/INDEX|exchanges index]] の配下に位置する。ブラジルにおける最も近い比較・対照対象は [[exchanges/cex-mercado-bitcoin-brazil|Mercado Bitcoin]]、より広いグローバルベンチマークは [[exchanges/global-cex-top10-comparison|global CEX top 10 comparison]]、規制境界の見方は [[exchanges/global-vasp-regulatory-comparison-matrix|グローバル VASP 規制比較]] をあわせて読む。
 
-> 2014-09 設立 · ブラジル老舗 CEX #2 · BRL ペアの長期流動性提供 · PIX 統合 · BCB / CVM 規制対応 · ABCripto メンバー
+> 2014-09 設立 · ブラジルの BRL 現物 CEX · PIX 対応 · BCB / CVM 規制対応 · ABCripto メンバー
 
 ## 1. 法人・株主
 
@@ -26,13 +26,12 @@ translated_at: 2026-06-26T08:29:25.269Z
   - **ParaFi Capital** などの暗号通貨専門 VC からの戦略出資（部分的）
   - **Genoa Capital**（ブラジル現地 VC）
   - 詳細な株主構成は非上場のため部分開示
-- IPO 検討：2021–2022 期にブラジル B3 への上場検討報道があったが、暗号市場下落で保留
-- ファンディング規模：[[exchanges/cex-mercado-bitcoin-brazil|Mercado Bitcoin]] の $200M SoftBank ラウンドと比較すると相対的に小規模で、独立系としての成長を継続
+- 非上場企業であり、株主・資金調達の比較では開示時点と開示範囲を分けて確認する
 
 ## 2. 登録・牌照状況（ブラジル制度）
 
 - **Banco Central do Brasil (BCB) 認可**：**Lei 14.478/2022（marco legal de criptoativos, 2022-12 公布、2023-06 施行）** 下で BCB の PSAV（Prestadores de Serviços de Ativos Virtuais）認可制度対象
-  - 2024–2025 年期：BCB の本格的 PSAV 認可制度運用開始。Foxbit も登録プロセス対象
+  - BCB は 2025 年に Resolutions 519 / 520 / 521 を公表し、主要な認可・業務ルールは 2026-02-02 に発効。既存事業者には移行手続が適用される
 - **CVM**：トークン化証券に該当する商品取扱いは CVM 規制下（Foxbit は主に utility token / 主要暗号通貨に集中しており、CVM 監督対象範囲は限定的）
 - **Receita Federal**：暗号通貨課税 / 取引報告義務
 - **AML/CFT**：COAF（ブラジル版 FIU）への報告義務
@@ -41,7 +40,7 @@ translated_at: 2026-06-26T08:29:25.269Z
 ## 3. 取扱通貨
 
 - BRL spot 市場（ブラジル国内で長期にわたり流動性を提供）
-- 取扱銘柄数：100+（主要暗号通貨中心で、銘柄数は [[exchanges/cex-mercado-bitcoin-brazil|Mercado Bitcoin]] より絞り込み）
+- 主要暗号資産を扱う。個別の取扱銘柄は随時変わるため、本項では固定件数や同業比較を置かない
 - USDT market 併設
 - 銘柄選定は **保守的 / 主要銘柄中心**（リスク管理重視）
 
@@ -54,28 +53,22 @@ translated_at: 2026-06-26T08:29:25.269Z
 - 機関向け：OTC desk、API trading 提供
 - **Foxbit Pay**：暗号通貨決済関連サービス（限定的）
 
-## 5. 市占・取引高
+## 5. 規模情報の読み方
 
-- **ブラジル spot 市場シェア**：#2（推定 10–20%、[[exchanges/cex-mercado-bitcoin-brazil|Mercado Bitcoin]] の 60–70% に次ぐ位置）
-- 24h volume：$10–100M（BRL 流動性換算、市場ボラティリティ連動）
-- ユーザー数：100 万人超（公式公表ベース）
-- グローバル CEX ランキング：top 100 圏内
-- 海外 offshore CEX（Binance, OKX など）のブラジル進出により、[[exchanges/cex-mercado-bitcoin-brazil|Mercado Bitcoin]] と共に国内 CEX 全体のシェア圧迫を経験
+- 市場シェア、24h volume、順位、利用者数は観測時点と集計対象で変わるため、本項では固定値を採用しない
+- ブラジル市場の同業比較では、BRL pair、対象期間、国内外プラットフォームの範囲を揃えて照合する
+- Foxbit と [[exchanges/cex-mercado-bitcoin-brazil|Mercado Bitcoin]] の比較は、公開された商品・法定通貨導線・規制対応に限定する
 
 ## 6. 沿革・重大事件
 
+出典: 表全体は [Foxbit 公式会社紹介](https://foxbit.com.br/quem-somos/)、[Lei 14.478/2022](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14478.htm)、[Banco Central do Brasil の規制発表](https://www.bcb.gov.br/detalhenoticia/20918/nota?s=08)（2026-07-29 確認）に基づく。
+
 | 時期 | 事項 |
 |------|------|
-| 2014-09 | Foxbit 設立（São Paulo） |
-| 2015–2016 | ブラジル初期 CEX として地位を確立し、[[exchanges/cex-mercado-bitcoin-brazil|Mercado Bitcoin]] と並ぶ二強構造を形成 |
-| 2017 | ブラジル仮想通貨ブーム期に急成長 |
-| 2018–2019 | 銀行口座閉鎖事案（複数のブラジル銀行が暗号通貨 CEX 口座を一方的に閉鎖し、訴訟係争に発展） |
-| 2020 | PIX 統合準備、ブラジル中央銀行即時決済への対応 |
-| 2021 | 暗号市場ピーク、ユーザー数急増、IPO 検討報道 |
-| 2022-12 | **Lei 14.478/2022 公布**、ブラジル暗号資産法成立 |
-| 2023-06 | Lei 14.478/2022 施行、BCB が PSAV 監督機関に指定 |
-| 2024 | BCB PSAV 認可制度の本格運用開始、Foxbit 登録対象 |
-| 2024–2026 | グローバル CEX（Binance, OKX など）のブラジル進出競合下で国内 #2 ポジションを維持 |
+| 2014 | Foxbit を設立 |
+| 2022-12 | Lei 14.478/2022 を公布 |
+| 2025 | BCB が PSAV 向け Resolutions 519 / 520 / 521 を公表 |
+| 2026-02-02 | BCB の主要な認可・業務ルールが発効し、既存事業者の移行期間が開始 |
 
 ## 7. 戦略動向
 
@@ -88,13 +81,13 @@ translated_at: 2026-06-26T08:29:25.269Z
 
 ## 8. 業界での位置づけ
 
-Foxbit は **ブラジル暗号通貨業界の老舗 #2 CEX** として、[[exchanges/cex-mercado-bitcoin-brazil|Mercado Bitcoin]] と並ぶ二強構造を 2014 年以降維持してきた。Mercado Bitcoin の SoftBank 資金調達 / RWA tokenization 攻勢に対し、Foxbit は **保守的銘柄選定 + PIX 即時決済 UX + 独立系経営** で差別化を継続している。
+Foxbit は、2014 年から運営されるブラジルの BRL 現物 CEX として、主要暗号資産、PIX 入出金、規制対応を組み合わせた事例である。[[exchanges/cex-mercado-bitcoin-brazil|Mercado Bitcoin]] との比較は、公開された商品構成と法定通貨導線の違いに限定する。
 
-[[exchanges/global-cex-top10-comparison|グローバル top 10]] には届かないが、ブラジル国内では Mercado Bitcoin と並ぶ二大プラットフォームの一角として、**ブラジル暗号通貨市場の構造的二強体制** を構成する。Lei 14.478/2022 + BCB PSAV 認可制度の本格運用は、両社の規制対応コストを引き上げる一方で、海外 offshore CEX 競合に対する **国内 CEX の制度的優位性** を強化する効果を持つ。
+Lei 14.478/2022 と BCB の PSAV ルールは、ブラジルで事業を行うプラットフォームの共通制度境界として扱う。本項は、変動する国内順位や海外事業者に対する優位性を推定しない。
 
 ## 関連項目
 
-- [[exchanges/cex-mercado-bitcoin-brazil]] — ブラジル #1（最重要 cross-link）
+- [[exchanges/cex-mercado-bitcoin-brazil]] — ブラジル CEX / RWA tokenization 比較（最重要 cross-link）
 - [[exchanges/global-cex-top10-comparison]] — グローバル CEX top 10
 - [[exchanges/global-vasp-regulatory-comparison-matrix]] — グローバル VASP 規制比較
 - [[exchanges/INDEX]] — 取引所ドメインインデックス
@@ -107,7 +100,6 @@ Foxbit は **ブラジル暗号通貨業界の老舗 #2 CEX** として、[[exch
 - 公開情報整理（Foxbit 公式 IR / About ページ, foxbit.com.br）
 - 公開情報整理（Banco Central do Brasil / CVM 仮想資産規制声明・通達）
 - 公開情報整理（Lei 14.478/2022 marco legal de criptoativos 官報資料）
-- 公開情報整理（Foxbit IPO 検討報道 2021–2022 Valor Econômico / InfoMoney）
 - 公開情報整理（ABCripto / Associação Brasileira de Criptoeconomia メンバーリスト・公式声明）
 - 公開情報整理（2018–2019 ブラジル銀行による暗号通貨 CEX 口座閉鎖訴訟関連報道, Valor Econômico）
 - 公開情報整理（PIX 統合関連 Banco Central do Brasil 公開資料）
