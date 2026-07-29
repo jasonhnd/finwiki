@@ -1,11 +1,12 @@
 ---
 source: banking/credit-cooperative-registry-japan
-source_hash: 788abf6c3219bd0d
+source_hash: 5874474a0eb2a133
 lang: en
+model: source-language-sync
 status: machine
 fidelity: ok
 title: "Japan credit cooperative registry"
-translated_at: 2026-06-18T23:33:48.327Z
+translated_at: 2026-07-29T03:30:48.096Z
 ---
 
 # Japan credit cooperative registry
@@ -23,12 +24,14 @@ This registry index captures the FSA public authorization list for Japan's credi
 
 | Item | Value |
 | --- | --- |
-| FSA as-of date | as of 令和8年2月20日 |
+| FSA as-of date | 令和8年2月20日現在 |
 | Central institution | [[cooperative-banks/zenshin-kumi]] |
 | Central rows in workbook | 1 |
 | Licensed credit cooperatives | 143 |
 | Legal / institutional route | 中小企業等協同組合法 / 協同組合による金融事業に関する法律 |
 | Wiki treatment | Registry index; standalone pages only for central institutions or strategically material exceptions |
+
+Sources: the as-of date, central row, and 143 cooperative rows are read from the cited FSA workbook; counts are a snapshot and must be regenerated when that workbook changes. ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx; https://www.fsa.go.jp/menkyo/menkyo.html.]
 
 ## 2. Coverage decision
 
@@ -310,4 +313,4 @@ This registry index captures the FSA public authorization list for Japan's credi
 ---
 
 > [!info] Registry boundary
-> This page is complete at the official-name registry level for the FSA workbook as of 令和8年2月20日. It should be refreshed when the FSA workbook changes; it is not a ranking or financial-strength table.
+> This page is complete at the official-name registry level for the FSA workbook as of 令和8年2月20日現在. It should be refreshed when the FSA workbook changes; it is not a ranking or financial-strength table.

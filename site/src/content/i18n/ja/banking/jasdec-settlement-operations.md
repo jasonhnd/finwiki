@@ -1,231 +1,107 @@
 ---
 source: banking/jasdec-settlement-operations
-source_hash: ca7e958cea3103af
+source_hash: 339425f84cf749b0
 lang: ja
-model: local-ja-business-term-glossary
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "JASDEC 決済業務"
-translated_at: 2026-06-26T08:31:59.819Z
+translated_at: 2026-07-29T03:30:48.112Z
 ---
 
 # JASDEC 決済業務
 
 ## ウィキ上の位置づけ
 
-本エントリは [[banking/INDEX|banking index]] の配下に位置し、信託銀行のカストディ業務モデルにとって直接的に重要となる、決済インフラのディープダイブである。市場インフラ側については [[securities/japan-securities-depository-center|JASDEC entity page]] と [[securities/japan-securities-clearing-corp|JSCC 清算 corp]] と併せて読むこと; 信託銀行のルーティングについては [[banking/master-trust-bank-operating-model|Master Trust Bank operating model]]、[[banking/custody-bank-operating-model|カストディ銀行 operating model]]、[[banking/japan-master-trust-and-custody-bank-landscape|Japan master trust and カストディ銀行 landscape]]、[[banking/trust-bank-custody-operating-comparison|trust-bank カストディ operating comparison]] と; マクロな決済プラミングの視点については [[securities/japan-market-infrastructure-map|Japan market infrastructure map]] と; 機関投資家の接続ポイントについては [[trust-banks/master-trust-bank|MTBJ]] と [[trust-banks/custody-bank|CBJ]] と併せて参照すること。TSE / OSE / JSCC 統合のコンテキストについては [[securities/tokyo-stock-exchange|Tokyo Stock Exchange]] と [[securities/osaka-exchange|Osaka Exchange]] を参照のこと。
+本項目は [[banking/INDEX|banking index]] に属する決済インフラ項目であり、[[securities/japan-securities-depository-center|証券保管振替機構の法人ページ]]、[[securities/japan-securities-clearing-corp|JSCC の清算機関ページ]]と併読する。関連する業務モデルは [[banking/master-trust-bank-operating-model|マスタートラスト銀行の業務モデル]]、[[banking/custody-bank-operating-model|カストディ銀行の業務モデル]]、[[banking/japan-master-trust-and-custody-bank-landscape|日本のマスタートラスト / カストディ銀行の概観]]、[[banking/trust-bank-custody-operating-comparison|信託銀行・カストディ業務比較]]、[[securities/japan-market-infrastructure-map|日本の市場インフラ地図]]を参照する。
 
 ## TL;DR
 
-JASDEC（証券保管振替機構 / ほふり — Japan Securities Depository Center, Inc.）は、日本国債以外のすべての無券面化証券を対象とする、日本の中央証券保管機関である。振替制度（book-entry transfer）レジームのもとで FSA ＋ 法務省により指定されている。株式、社債、CP、投資信託の四つの主要な振替制度を運営し、加えて DVP 決済、決済前マッチング、コーポレートアクションの配分、そして子会社 JDCC（JASDEC DVP 清算 Corporation）を通じた外国株式のカストディ支援を行う。信託銀行（MTBJ、CBJ、メガバンク信託部門）、証券会社、グローバルカストディアンは、参加者として JASDEC に直接接続する。決済モデルはエクイティ側で JSCC の CCP 機能と、資金側で日銀資金とかみ合い、DVP-X1 / DVP-X2 / DVP-X3 品質のレジームを生み出す。日本のカストディ分析において JASDEC はレール（軌道）であり、信託銀行はその上を走るビークルである。
+JASDEC（株式会社証券保管振替機構 / Japan Securities Depository Center, Inc.）は、株式等、社債、短期社債、投資信託の振替制度、決済照合システム、対象外国株券の保管サービスなど、公式会社概要に掲げる決済関連業務を運営する。国債は別制度である日銀の国債振替決済制度を利用する。JASDEC と完全子会社 JDCC も区別が必要であり、JDCC は JASDEC の一般振替 DVP（NETD）に係る金融商品債務引受業を担う。 ^[Sources: https://www.jasdec.com/en/about/office/outline/; https://www.jasdec.com/en/about/jdcc/outline/; https://www.boj.or.jp/en/paym/jgb_bes/index.htm.]
 
-## 1. 機関位置
+## 1. 事業体と法的運営境界
 
-| 項目 | JASDEC |
+| 分野 | 日付が記載された公式事実 |
 |---|---|
-| Legal name (JA) | 株式会社証券保管振替機構 |
-| Legal name (EN) | Japan Securities Depository Center, Inc. |
-| Common short name | ほふり (hofuri) |
-| Founded | 2002-01-04 (株式会社化); JASDEC predecessor existed earlier as a 公的法人 |
-| Capital | ~¥4.25 billion |
-| Designation | FSA + Ministry of Justice-designated 振替機関 (book-entry transfer institution) |
-| Primary subsidiary | **JDCC** (JASDEC DVP 清算 Corporation) for DVP cash-equity 清算 |
-| Functional position | Central securities depository (CSD) for all dematerialized JP securities other than JGB |
-| HQ | Tokyo (株式会社証券保管振替機構) |
-| Industry body / counterpart | JSCC (清算 CCP), BoJ (cash leg), TSE / OSE (trading venues) |
+| 正式名称 | 株式会社証券保管振替機構 / 株式会社証券保管振替機構 |
+| 法人化 | 2002年1月4日; 2002年6月に旧非営利財団の事業を株式会社に譲渡 |
+| 資本金 | ¥4.25bn |
+| 本社 | 東京都中央区日本橋兜町7-1 |
+| 主要事業を掲載 | 株式、CP、社債、投資信託の振替制度。 NETD DVP;決済前のマッチング。外国株券の保管。その他の事業 |
+| DVP子会社 | JASDEC DVP Clearing Corporation (JDCC)、2003 年 6 月 6 日に設立され、JASDEC が 100％出資 |
 
-### JASDEC でないもの
+出典: 身元、日付、資本金、住所、および事業目録は、現在の JASDEC および JDCC の会社概要に基づいています。歴史的継承は JASDEC の正式な歴史に基づいています。 ^[Sources: https://www.jasdec.com/en/about/office/outline/; https://www.jasdec.com/en/about/office/history/; https://www.jasdec.com/en/about/jdcc/outline/.]
 
-| Common confusion | Correction |
-|---|---|
-| 「JASDEC がトレードをクリアする」 | 違う — JASDEC は振替と決済を運営する; 中央カウンターパーティのクリアリングは JSCC である。 |
-| 「JASDEC が JGB を決済する」 | 違う — JGB 決済は日銀 JGB 振替制度経由である。 |
-| 「JASDEC は投資家／カストディアンである」 | 違う — JASDEC はインフラである。カストディアンは信託銀行とグローバルカストディアンであり、JASDEC は彼らが乗るレールである。 |
-| 「JASDEC がすべての外国株式を扱う」 | 部分的 — JASDEC は外国株券のオペレーションを支援する; クロスボーダーの ICSD 接続性は Euroclear / Clearstream 経由でサブカストディの取り決めを伴う。 |
+## 2. システムマップ
 
-### 参加者の類型
-
-| Participant type | Examples |
-|---|---|
-| 信託銀行 (カストディ専業) | [[trust-banks/master-trust-bank|MTBJ]], [[trust-banks/custody-bank|CBJ]] |
-| 信託銀行 (full-service) | [[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]], [[trust-banks/sumitomo-mitsui-trust|SMTB]], [[trust-banks/mizuho-trust-bank|Mizuho Trust]], [[trust-banks/nochu-trust-bank|Norinchukin Trust]] |
-| Securities firms | Nomura, Daiwa, SMBC Nikko, Mizuho Securities, regional brokers |
-| Global custodians (Japan unit) | [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]], [[foreign-financial-institutions/state-street-japan|State Street Japan]], [[foreign-financial-institutions/jpmorgan-japan|JP Morgan Japan]], [[foreign-financial-institutions/citigroup-japan|Citi Japan]] |
-| Banks (general カストディ / 名義書換) | Megabanks, regional banks (limited カストディ mandate) |
-| ICSD / cross-border infrastructure | [[foreign-financial-institutions/euroclear-bank-japan|Euroclear Japan]], [[foreign-financial-institutions/clearstream-banking-japan|Clearstream Japan]] (link routes) |
-
-### 振替制度
-
-| System | Asset class | Year started | Key flow |
-|---|---|---|---|
-| 株式振替制度 | Dematerialized listed equity | 2009-01 (paper-share abolition) | Trade match → JSCC CCP → JASDEC book-entry transfer → custodian account |
-| 一般債振替制度 | Corporate bonds (普通社債, 転換社債), 地方債, 政府保証債, 財投機関債 | Phased from 2006 | OTC trade → JASDEC book-entry transfer |
-| 短期社債振替制度 (CP) | Commercial paper | 2003-03 | Issuance + secondary transfer via JASDEC |
-| 投資信託振替制度 | Publicly offered 投信 units | 2007-01 | Subscription / redemption / transfer of 投信受益権 |
-
-### DVP および付随サービス
-
-| Service | Function |
-|---|---|
-| **DVP 決済** | 同時の引渡し（JASDEC 振替経由の証券）＋ 支払い（BoJ-net または 全銀ネット経由の資金）— 決済リスクの非対称性を排除する |
-| **Pre-決済 matching** | DVP 決済前のトレードマッチングサービス; 機関投資家のクロストレードおよびブローカー-カストディインターフェースをカバー |
-| **Corporate actions** | 配当、利息、償還代り金の配分; ライツオファリング; 株式分割; 合併; TOB の決済 |
-| **発行会社 services** | 基準日における株主特定のための発行体インターフェース; AGM ／配当目的での発行体への実質株主リストの提供 |
-| **Foreign stock certificates** | 日本で発行された、または日本の投資家が保有する外国証券のカストディ支援サービス |
-| **Tax / withholding ops** | 配当／利息に対する源泉徴収税処理; カストディチェーンを通じた外国人投資家の租税条約還付支援 |
-| **JDCC DVP 清算** | JASDEC DVP 清算 Corporation — JDCC は、JSCC でクリアされない現金株式 DVP について資金側のネッティングを処理する |
-
-### 機能類型の内訳
-
-| Function | Who initiates | Who settles | Where the cash leg sits |
-|---|---|---|---|
-| Listed-equity exchange trade | Investor → broker → TSE/OSE | JSCC CCP → JASDEC book-entry transfer → custodian account | BoJ-net funds via JSCC participants |
-| Listed-equity OTC trade | Investor → broker → counterparty broker | JASDEC + JDCC | BoJ-net or 全銀ネット |
-| Corporate bond OTC trade | Investor → broker → counterparty broker | JASDEC 一般債振替 | BoJ-net (large lot) or 全銀ネット |
-| Commercial paper | 発行会社 → dealer → investor | JASDEC 短期社債振替 | BoJ-net |
-| 投信 unit transfer | Distributor → 投信協会 ops → fund | JASDEC 投信振替 | Cash 決済 per distributor channel |
-| 投信 receipt / NAV-based 決済 | Trust bank / asset manager | JASDEC + trust-bank books | 決済-account residual |
-
-## 3. 競合構造
-
-JASDEC は単一 CSD の国家インフラであり — それがカバーするアセットクラスについて国内の代替手段は存在しない。したがって「競争」のマップは次の点に関するものとなる。
-
-| Comparison axis | JASDEC | Alternative / overlapping |
+| システム・サービス | 公式に記載されている範囲 | 守るべき境界線 |
 |---|---|---|
-| エクイティ／社債／CP／投信の無券面化決済 | **唯一の国内選択肢** | なし — JASDEC は振替制度のもとで指定された振替機関である |
-| JGB 決済 | 該当なし | **日銀 JGB 振替制度**が代替手段である（別個のインフラ） |
-| 現金株式の CCP クリアリング | 該当なし | JASDEC の上位レイヤーとして中央カウンターパーティの **JSCC** |
-| クロスボーダー／ICSD 決済 | 双方向リンク + グローバルカストディアン経由でリルート | ICSD レイヤーとしての **Euroclear** + **Clearstream**（日本のサブカストディアンを伴う） |
+| 株式等の振替制度 | 証券保管振替機構および口座管理機関の口座を通じた対象株式および関連商品の権利の電子発行、譲渡、消却 | 適格性と発行者の同意は商品ごとに異なります |
+| 社債制度 | 適格社債、地方債、特定外債、適格外国債の電子化取扱い | 社債、CP、国債を一つのシステムにまとめないでください |
+| 短期社債制度 | 対象となる CP の発行、譲渡、および引き換え。公式資料には日銀ネット連動のグロス・グロスDVPが記載されている | 製品の適格性と最小単位は現在の規則に基づいています |
+| 投資信託制度 | 対象となる国内投資信託受益権の振替記録公式資料では、関連する購入/償還フローに関する日銀ネット連動 DVP について説明しています | ETFとREITは株式制度で扱われます。オフショアファンドとマザーファンドはこの制度の対象外です |
+| 決済前マッチングシステム（PSMS） | 対象となるユーザーと取引の取引後、決済前のマッチング | マッチング自体は最終的な証券や資金の決済ではありません |
+| NETD 向け DVP | 有価証券の受け渡しと対象外取引の受け渡しの決済を連携させるJDCCサービス | JDCC の CCP の役割は、JASDEC の CSD/振替の役割および JSCC とは異なります。 |
+| 外国株券保管 | 国内取引所における対象外国商品の保管、振替決済、寄託・引渡し、権利処理、通知等 | 範囲は適格な機器と承認された参加者に限定されます |
+| 国債振替制度 | 日本銀行が運営 | 保振振替制度ではありません |
 
-### インフラ間の相互作用
+ソース: 各行の範囲は、対応する公式システム ページに限定されます。国債分離は日本銀行独自のシステムページでサポートされています。 ^[Sources: https://www.jasdec.com/en/system/less/; https://www.jasdec.com/en/system/sb/; https://www.jasdec.com/en/system/cp/outline/feature/; https://www.jasdec.com/en/system/fund/outline/basic/index.html; https://www.jasdec.com/en/system/finance/outline/range/; https://www.jasdec.com/en/system/dvp/outline/; https://www.jasdec.com/en/system/foreign/outline/; https://www.boj.or.jp/en/paym/jgb_bes/index.htm.]
 
-| Layer | JASDEC role | Counterpart |
-|---|---|---|
-| 取引会場 | マッチ済みのトレードデータを受領 | TSE, OSE, ODX, PTS |
-| クリアリング CCP | ノベーション確認済みの債務データを受領 | JSCC |
-| 資金決済 | BoJ-net または 全銀ネット経由の資金側 | BoJ, 全銀ネット, Zengin EDI |
-| 発行体インターフェース | 実質株主リスト、基準日スナップショット | 発行体（上場会社）経由株式事務代行銀行 |
-| 外国リンク | インバウンドの外国サブカストディチェーン; アウトバウンドの ICSD 向け日本証券 | グローバルカストディアン、Euroclear、Clearstream |
+## 3. 参加者の語彙
 
-## 4. 手数料・収益構造
-
-JASDEC は市場価格ではなく規制料率を伴うユーティリティ価格設定のインフラとして運営される。
-
-| Revenue line | Pricing basis | Public visibility |
-|---|---|---|
-| Participation fee (固定) | 参加者ごとの年間 | 手数料スケジュールで開示（JASDEC 公開） |
-| Per-transaction 決済 fee | 振替ごと | 手数料スケジュールで開示 |
-| 発行会社 service fee | 発行体ごと、CA イベントごと、基準日スナップショットごと | 手数料スケジュールで開示 |
-| DVP service fee | DVP 取引ごと | 手数料スケジュールで開示 |
-| 投信振替 fee | 投信単位の振替／設定／解約ごと | 手数料スケジュールで開示 |
-| JDCC 清算 fee | 現金株式 DVP の資金ネッティング手数料 | JDCC 手数料スケジュールで開示 |
-
-### 規制上の指定
-
-| Designation | 出典 | Implication |
-|---|---|---|
-| 振替機関 (book-entry transfer institution) | 社債、株式等の振替に関する法律 (振替法) — FSA + 法務省により指定 | 上場エクイティ、社債、CP、投信について無券面化振替を運営する唯一の法的権限 |
-| FMI (Financial Market Infrastructure) | FSA / BoJ 共同オーバーサイトを通じた BIS-IOSCO PFMI 基準 | PFMI 原則（デフォルトリスク、オペレーショナルリスク、決済ファイナリティ基準）を満たさなければならない |
-| FSA supervisory authority | 金商法 + 振替法 + 内閣府令 | 立入検査、ガバナンス、IT リスク監督 |
-| BoJ oversight | BoJ 決済システムオーバーサイト枠組み | BoJ-net への DVP リンクに鑑みた共同オーバーサイト |
-
-### 決済ファイナリティ振替制度のもとでの決済は、振替が完了した時点で**法的に確定**する — 通常のオペレーションのもとではクローバック（巻き戻し）は存在しない。これが、DVP-X1 / X2 / X3 決済が機関投資家グレードとして扱われる構造的な理由である。
-
-### DVP-X1 / X2 / X3 品質の分類
-
-| Quality tier | Description |
+| 正式な用語 | 研究読書 |
 |---|---|
-| DVP-X1 | 決済前マッチング + JSCC でクリアされた現金株式; 資金ネッティングを伴う完全な DVP |
-| DVP-X2 | JDCC 資金ネッティング経由の OTC 現金株式 DVP |
-| DVP-X3 | JASDEC + 全銀資金側経由の債券／投信 DVP |
+| 発行者 | 関連する JASDEC システムに受け入れられた証券の発行者 |
+| 直接口座管理機関 | 機構が適用する制度に基づいて口座を開設している機関 |
+| 間接口座管理機関 | 他の口座管理機関によって口座が開設されており、他人のために口座を開設する可能性がある機関 |
+| 参加者 | ほふりまたは口座管理機関が振替口座を開設している個人または機関 |
+| DVP 参加者 | NETD DVP サービスの別の JDCC 資格、運営、財務基準を満たす参加者 |
 
-### 信託銀行参加者の会計処理
+出典: 用語は、JASDEC の公式株式システム構造および NETD DVP 資格の説明に従います。銀行、信託銀行、証券会社、またはグローバルカストディアンは、現在のサービス固有のリストを確認することなく直接参加者と呼ばれてはなりません。 ^[Sources: https://www.jasdec.com/en/system/less/outline/organization/; https://www.jasdec.com/en/faq/.]
 
-| Item | Treatment |
+## 4.清算・照合・有価証券決済・現金決済
+
+| 層 | オペレーター/証拠ルート | 層が確立するもの |
+|---|---|---|
+| 取引執行 | 関連する取引所、PTS、または相対取引会場 | 取引の実行;それ自体では清算や決済ではありません |
+| 事前決済マッチング | 対象取引用の保振PSMS | 対象決済指図の照合 |
+| 為替取引清算 | 公開範囲内の製品および市場に関する JSCC | JSCC 規則に基づく CCP の引き受けと純義務 |
+| NETD DVP クリアリング | 適格な NETD の JDCC | JDCC の規定に基づく義務の引き受けとリスク管理 |
+| 有価証券記帳 | 機器に適用される保振システム | 当該振替記録の増減又は振替 |
+| ファンドレッグ | 公式システムページに記載されている日銀ネットを含む、サービス固有の現金決済取り決め | 現金の移動はサービスごとに調達する必要があります。単一の普遍的なキャッシュレッグの説明はありません |
+| 国債振替 | 日本銀行 | 国債分離決済システム |
+
+出典: この表は、古い概要では混同されがちな機能を分けています。正確な決済および資金ルートは、関連する商品および取引タイプに応じて、JSCC、JDCC、JASDEC、および日本銀行の資料から読み取る必要があります。 ^[Sources: https://www.jasdec.com/en/system/finance/outline/range/; https://www.jasdec.com/en/system/dvp/outline/; https://www.jasdec.com/en/about/jdcc/outline/; https://www.jpx.co.jp/jscc/en/cash/cash/assumption-obligation/dvp.html; https://www.boj.or.jp/en/paym/jgb_bes/index.htm.]
+
+## 5. 避けるべき修正
+
+| サポートされていないショートカット | 正しい公開ルール |
 |---|---|
-| 顧客に代わって JASDEC 振替で保有される証券 | 信託銀行ではオフバランスシート; 受益者ではオンバランス |
-| カストディアンにおける現金決済口座の残余 | オンバランス（小規模） |
-| JASDEC への決済手数料費用 | カストディアンの P&L における営業費用ライン |
-| 上流顧客からのカストディ手数料収益 | カストディアンの P&L における営業収益 |
+| 「JASDECは日本の証券取引をすべてクリアします」 | JASDEC振替機能、JSCC清算、JDCCのNETD DVP清算を区別する |
+| 「機構が国債を決済」 | 国債の振替を日銀システムにルーティングする |
+| 「指定された管理者は全員、JASDEC の直接の参加者です。」 | 特定の JASDEC サービスおよび法人については、現在のリストを確認してください。 |
+| 「DVP-X1 / X2 / X3 は JASDEC の品質レベルです」 | 信頼できる情報源が主張に対してラベルを定義していない限り、これらのラベルを使用しないでください。 |
+| 「すべての JASDEC 送金には 1 つの現金レッグが含まれます」 | 資産クラス、取引タイプ、および該当するDVP/資金取り決めを特定する |
+| 「JASDEC手数料は規制された公共料金です」 | 該当する現在の JASDEC または JDCC の料金表を引用します。出版物だけでは価格統制の特徴を証明できない |
+| 「和解は決して取り消せない」 | 適用される法令、規則、およびサービス固有の法的分析のみから最終的な状態を決定する |
 
-## 6. JASDEC / クリアリングインフラ接続
+ソース: 補正テーブルは、オペレーターの境界と現在のルール/手数料のインベントリから導出されます。これは、あるサービスのルールを別のサービスに拡張することを意図的に避けています。 ^[Sources: https://www.jasdec.com/en/rule/business-rules/index.html; https://www.jasdec.com/en/rule/dvp/whole/; https://www.jasdec.com/en/system/; https://www.boj.or.jp/en/paym/jgb_bes/index.htm.]
 
-```
-        ┌─────────────────────────────┐
-        │  Trading venues             │
-        │  TSE / OSE / ODX / PTS      │
-        └─────────────┬───────────────┘
-                      │ matched trade
-                      ▼
-        ┌─────────────────────────────┐
-        │  JSCC                       │
-        │  (central counterparty for  │
-        │  cash equity + repo + JGB   │
-        │  OTC derivatives)           │
-        └─────────────┬───────────────┘
-                      │ novated obligation
-                      ▼
-        ┌─────────────────────────────┐
-        │  JASDEC                     │
-        │  - 株式振替                  │
-        │  - 一般債振替                │
-        │  - 短期社債振替              │
-        │  - 投信振替                  │
-        │  - JDCC DVP cash-leg netting │
-        └─┬──────────────────────┬────┘
-          │ book-entry transfer  │ cash leg
-          ▼                      ▼
-        ┌────────────────────────────────┐    ┌──────────────────────┐
-        │  Trust banks / custodians      │    │  BoJ-net / 全銀ネット │
-        │  - MTBJ, CBJ (custody-only)    │    │  funds settlement    │
-        │  - MUFG Trust, SMTB, Mizuho    │    └──────────────────────┘
-        │    Trust (full-service)        │
-        │  - BNY, State Street, JPM,     │
-        │    Citi (global custodians)    │
-        │  - Securities firms            │
-        └────────────────────────────────┘
-                      │
-                      ▼
-        ┌─────────────────────────────┐
-        │  Beneficial owners          │
-        │  GPIF, pensions, 投信,       │
-        │  insurers, retail investors │
-        └─────────────────────────────┘
-```
+## 6. 信託銀行とカストディの調査境界
 
-### 信託銀行参加者の相互作用モデル
+信託銀行およびその他の保管機関は、該当するサービスに基づいて認められている場合、口座管理機関または参加者として JASDEC とやり取りすることができます。正確なステータスは法人およびサービスによって異なります。したがって、発行体届出書の「信託口」名だけでは、信託銀行が受益投資家であることを証明するには不十分であり、保管権限は、ほふりの直接参加を証明するには十分ではありません。
 
-MTBJ と CBJ はそれぞれ JASDEC 参加者口座を直接保有する。原資産の資産保有者マンデートに代わって保有するその振替ポジションが、発行体の株主名簿に現れる「信託口」名義人パターンを生み出す。JASDEC の実質株主開示サービスは、発行体に基準日における定期的なルックスルーを提供するために存在するが、公開の大株主リストには依然として「信託口」名が記録上の保有者として表示される。
+監護権の請求の場合は、次のように記録します。
 
-### クロスボーダー／ICSD リンク外国人投資家が保有する日本発行証券のクロスボーダー決済については、チェーンは以下のとおりである。
+1. 法人。
+2. JASDEC のシステムまたはサービス。
+3. 直接的なアカウント管理と間接的なアカウント管理のステータス。
+4. 商品と取引の種類。
+5. 清算オペレーター (存在する場合)。
+6. 現金決済ルート。そして
+7. ソースの日付。
 
-```
-Foreign investor
-  → Global custodian (BNY / State Street / JPM / Citi)
-    → Japan sub-custodian (trust bank — often MTBJ / CBJ / megabank trust arm)
-      → JASDEC book-entry account
-```
-
-日本の投資家が保有する外国発行証券については、逆のチェーンが使われる。
-
-```
-JP investor
-  → JP custodian (trust bank)
-    → JP sub-custody via global custodian
-      → ICSD (Euroclear / Clearstream) or local CSD
-```
-
-### トークン化証券に関する未解決の問題
-
-[[payment-firms/progmat|Progmat]] や同様のプラットフォーム経由で発行されるトークン化された信託受益権証券は、並行する DLT 台帳上で稼働する。それらと JASDEC 振替レールとの統合は依然として設計中である。
-
-| Design option | Trade-off |
-|---|---|
-| ST を並行台帳のみで発行 | JASDEC の決済ファイナリティ保護を失う; ST プラットフォームのファイナリティルールに依存する |
-| ST を JASDEC 振替にミラーリング | インフラコストが二重になる; ミラーエントリの法的地位が不明確 |
-| ST を参照により JASDEC にアンカー | ハイブリッド; 振替法のもとでの法的地位の明確化が必要 |
-
-この面での JASDEC の進化は、信託銀行が従来の証券カストディと同じように機関投資家グレードの ST カストディを容易に提供できるかどうかを実質的に左右する。
+外国株式証券の保管も JASDEC の特有のサービスです。公式ページには、現地保管機関の利用、振替決済、権利処理、対象商品のコーポレートアクション通知について説明されています。これを、すべての日本または外国の証券に対する普遍的なユーロクリア/クリアストリーム リンクに一般化すべきではありません。 ^[Source: https://www.jasdec.com/en/system/foreign/outline/.]
 
 ## Related
 
@@ -255,14 +131,12 @@ JP investor
 - [[foreign-financial-institutions/citigroup-japan]]
 - [[foreign-financial-institutions/euroclear-bank-japan]]
 - [[foreign-financial-institutions/clearstream-banking-japan]]
-- [[payment-firms/progmat]]
 - [[finance/japan-listed-financial-groups-investable-universe]]
 
 ## Sources
 
-- JASDEC: official site (Japanese + English), system pages, company outline.
-- JSCC: clearing CCP pages and DVP cash-equity materials.
-- BoJ: JGB book-entry settlement system materials.
-- FSA: 振替法 supervisory page and trust-business financial institution list.
-- Trust Companies Association of Japan: trust-bank participant information.
-- Wikipedia (cross-reference): JASDEC entries and ほふり history.
+- 航空振替機構の会社概要と沿革をご紹介します。
+- 株式、社債、CP、投資信託、PSMS、NETD DVP、外国株券保管に関するほふり公式システムページ。
+- JASDEC / JDCC の現在の規制と手数料の一覧。
+- JSCC公式清算およびDVP資料。
+- 日本銀行国債振替制度資料。

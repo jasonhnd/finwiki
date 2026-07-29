@@ -1,21 +1,22 @@
 ---
 source: cooperative-banks/iwaki-shinkumi
-source_hash: a96c6795781be863
+source_hash: f86ea79ee2607af0
 lang: ja
+model: source-language-sync
 status: machine
 fidelity: ok
-title: "いわき信用組合"
-translated_at: 2026-06-02T14:25:12.423Z
+title: "いわき信用組合 (Iwaki Credit Cooperative)"
+translated_at: 2026-07-29T03:30:48.125Z
 ---
-# いわき信用組合
+# いわき信用組合 (Iwaki Credit Cooperative)
 
-## ウィキ上の位置づけ
+## Wiki route
 
-この項目は [[cooperative-banks/INDEX|cooperative-banks INDEX]] の下に置き、143協同組織群のうち [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]] に収録される **東北の地域信組アンカー** として扱う。[[cooperative-banks/osaka-shogin-shinkumi|大阪商銀信用組合]] は民族系・業域系信組との対比、[[cooperative-banks/zenshin-kumi|全信組連 / Zenshinkumiren]] は協同組織システム上位機関の文脈として併読する。
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as a **Tohoku regional shinkumi (地域信組) anchor** within the 143-cooperative population catalogued in [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]]. Read it against [[cooperative-banks/osaka-shogin-shinkumi|大阪商銀信用組合]] for the ethnic-business shinkumi contrast and [[cooperative-banks/zenshin-kumi|全信組連 / Zenshinkumiren]] for the cooperative-system parent.
 
-## 要約
+## TL;DR
 
-いわき信用組合は、福島県いわき市小名浜花畑町に本店を置く **地域型信用組合**。FSA 登録番号 20 (東北財務局所管)、法人番号 5380005005753。福島県浜通り (相双・いわき地区) の中小企業者・住民を組合員基盤とし、**東日本大震災 (2011) + 福島第一原発事故**の被災地で営業継続した東北信組ブロックの代表行の一つ。[[cooperative-banks/zenshin-kumi|全国信用協同組合連合会 (全信組連)]] 会員、[[financial-regulators/dic|預金保険機構]] 対象。地域型信組として **地域 + 業域の二重組合員資格**で運営し、被災地復興融資・水産業 (小名浜港) 関連金融・浜通り SME 融資が事業の中核。^[extracted]
+いわき信用組合は、福島県いわき市小名浜花畑町に本店を置く **地域型信用組合**。FSA registry No. 20 (東北財務局所管)、法人番号 5380005005753。福島県浜通り (相双・いわき地区) の中小企業者・住民を組合員基盤とし、**東日本大震災 (2011) + 福島第一原発事故**の被災地で営業継続した東北信組ブロックの代表行の一つ。[[cooperative-banks/zenshin-kumi|全国信用協同組合連合会 (全信組連)]] 会員、[[financial-regulators/dic|預金保険機構]] 対象。地域型信組として **地域 + 業域の二重組合員資格**で運営し、被災地復興融資・水産業 (小名浜港) 関連金融・浜通り SME 融資が事業の中核。^[extracted]
 
 ## 1. 法人概要
 
@@ -24,7 +25,7 @@ translated_at: 2026-06-02T14:25:12.423Z
 | 正式名 | いわき信用組合 |
 | 通称 | いわき信組 |
 | 法人番号 | **5380005005753** ^[extracted FSA registry] |
-| FSA 登録番号 | **20** (東北財務局) |
+| FSA registry No. | **20** (東北財務局) |
 | 法的形態 | **信用協同組合** (中小企業等協同組合法準拠) |
 | 本店所在地 | 福島県いわき市小名浜花畑町2-5 (郵便番号 971-8162) ^[extracted FSA registry] |
 | 系統 | [[cooperative-banks/zenshin-kumi|全信組連]] 会員 |
@@ -43,7 +44,7 @@ translated_at: 2026-06-02T14:25:12.423Z
 
 ### 福島県内信組ブロック (registry比較)
 
-福島県には FSA registry 上 4 信用組合 (登録番号 19-22):
+福島県には FSA registry 上 4 信用組合 (registry No. 19-22):
 
 | 信組 | 本店 | 類型 |
 |---|---|---|
@@ -78,6 +79,8 @@ translated_at: 2026-06-02T14:25:12.423Z
 | 店舗数 | 15 店 (2024-03-31) | いわき信組公式 組合概要 |
 | 常勤役職員数 | 185 名 (2024-03-31) | いわき信組公式 組合概要 |
 
+Sources: [いわき信用組合「組合概要」](https://www.iwaki-shinkumi.shinkumi.net/about-profile.html)（2024-03-31 現在）および [公式ディスクロージャー誌一覧](https://www.iwaki-shinkumi.com/about-disk.html)。
+
 > 注: 上記は **いわき信用組合公式「組合概要」(2024 年 3 月 31 日現在)** に基づく確定値。最新の半期/通期数値は [いわき信組ディスクロージャー誌](https://www.iwaki-shinkumi.com/about-disk.html) + [[banking/credit-cooperative-registry-japan|FSA信用組合免許一覧]] を参照。
 
 ## 5. 監督・規制
@@ -90,23 +93,23 @@ translated_at: 2026-06-02T14:25:12.423Z
   - **過疎・人口減**に伴う組合員基盤縮小リスク
   - **AML/CFT 強化**対応コスト
 
-## 関連項目
+## Related
 
 - [[cooperative-banks/zenshin-kumi]] — 全国信用協同組合連合会 (信組業界中央機関、本信組の上位系統)
-- [[cooperative-banks/osaka-shogin-shinkumi]] — 大阪商銀信用組合 (比較対象 shinkumi、業域・民族系対比)
-- [[cooperative-banks/sapporo-chuo-shinkumi]] — 札幌中央信用組合 (比較対象 地域型信組)
+- [[cooperative-banks/osaka-shogin-shinkumi]] — 大阪商銀信用組合 (peer shinkumi、業域・民族系対比)
+- [[cooperative-banks/sapporo-chuo-shinkumi]] — 札幌中央信用組合 (peer 地域型信組)
 - [[regional-banks/toho-bank]] — 東邦銀行 (福島地銀、域内競合)
 - [[financial-regulators/dic]] — 預金保険機構
 - [[financial-regulators/shoko-chukin]] — 商工中金 (政府系中小企業金融、被災地連携)
-- [[banking/credit-cooperative-registry-japan]] — 日本の信用組合レジストリ（143 信組全体）
+- [[banking/credit-cooperative-registry-japan]] — Japan credit cooperative registry (143 shinkumi 全体)
 - [[banking/cooperative-banking-japan]] — 協同組織金融全体
 - [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
-## 出典
+## Sources
 
 - **いわき信用組合 公式「組合概要」(2024-03-31 現在)**: https://www.iwaki-shinkumi.shinkumi.net/about-profile.html — 預金 2,041 億円・貸出 1,215 億円・出資金 158 億円・組合員 41,810 名・店舗 15・役職員 185 名・自己資本 229 億円
 - **いわき信用組合 公式 ディスクロージャー誌一覧**: https://www.iwaki-shinkumi.com/about-disk.html
-- **金融庁 信用組合免許一覧**: https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx (法人番号 5380005005753, 登録番号 20)
+- **金融庁 信用組合免許一覧**: https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx (法人番号 5380005005753, registry No. 20)
 - **全国信用組合中央協会**: https://www.shinyokumiai.or.jp/
 - **全信組連 (全国信用協同組合連合会) 公式**: https://www.zenshinkumiren.jp/
 - **預金保険機構 公式**: https://www.dic.go.jp/
@@ -116,4 +119,4 @@ translated_at: 2026-06-02T14:25:12.423Z
 ---
 
 > [!info] 校核状態
-> 信頼度: **おおむね高い**。FSA registry 由来の法人番号・登録番号・本店所在地は ^[extracted] (公開情報)。預金・貸出・出資金・組合員数等 KPI は **いわき信組公式組合概要 (2024-03-31)** で確定 (従前の概数推定を実数に置換)。最新はいわき信組ディスクロージャー誌 + 全信組連発行物を参照。Tohoku 地域型信組の代表アンカーとして 143-shinkumi 連鎖の Wave 13 拡張で追加。
+> confidence: **likely**。FSA registry 由来の法人番号・registry No.・本店所在地は ^[extracted] (公開情報)。預金・貸出・出資金・組合員数等 KPI は **いわき信組公式組合概要 (2024-03-31)** で確定 (従前の概数推定を実数に置換)。最新はいわき信組ディスクロージャー誌 + 全信組連発行物を参照。Tohoku 地域型信組の代表アンカーとして 143-shinkumi 連鎖の Wave 13 拡張で追加。

@@ -1,126 +1,76 @@
 ---
 source: cooperative-banks/shinkin-network-services
-source_hash: b5c3476ac652cb53
+source_hash: 4a09effbb870cacf
 lang: en
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
-title: "Shinkin Network Services (Shinkin Network Services)"
-translated_at: 2026-06-18T23:33:48.363Z
+title: "Shinkin Collaborative Center (formerly shinkin-network-services route)"
+translated_at: 2026-07-29T03:30:48.133Z
 ---
 
-# Shinkin Network Services (Shinkin Network Services)
+# Shinkin Collaborative Center (formerly shinkin-network-services route)
 
 ## Wiki route
 
-This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read it against [[cooperative-banks/shinkin-central|信金中央金庫]] for the operational central-bank counterpart that anchors the shinkin system, against [[financial-regulators/zenshin-kyo|全国信用金庫協会]] for the industry-body / policy layer, and against [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] for the full member-population route. The cooperative-system comparison anchor sits at [[banking/japan-cooperative-banking-unified-federation-matrix|Japan cooperative-banking unified federation matrix]].
+This entry preserves the historical `shinkin-network-services` slug under [[cooperative-banks/INDEX|cooperative-banks INDEX]] while correcting the entity to the **Shinkin Kyodo Center General Incorporated Association**. Read it with [[cooperative-banks/shinkin-central|Shinkin Central Bank]] for the central financial institution, [[financial-regulators/zenshin-kyo|National Shinkin Bank Association]] for the industry association, and [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] for the wider licensed-institution population.
 
 ## TL;DR
 
-Shinkin Network Services (SNS, commonly known as the "Shinkin Joint Center") is the core IT-infrastructure operating entity of the Shinkin Central Bank group, an IT service provider for cooperative organizations that operates the **ATM network, the core-banking joint center, and the electronic-payment systems** jointly used by 254 shinkin banks nationwide (as of FSA 2025-11-06). Because the shinkin-bank industry is dominated by small and mid-sized banks that cannot undertake large-scale IT investment on their own, scale economies through the aggregation of common infrastructure are key to the industry's survival. SNS is its substantive carrier, providing the shinkin joint ATM service (Shinkin ATM Network / Shinkin Cash Service, SCS), the core-banking joint center for shinkin banks, the internet-banking infrastructure, the Zengin-net connection gateway, and the like.
+The Shinkin Kyodo Center is a general incorporated association responsible for planning, developing, operating, and managing the shared Shinkin Kyodo System and supporting member shinkin banks that use it. According to its official profile, it was established in April 2013 by integrating joint centers in 7 regions nationwide. As of August 2025, it had 236 member shinkin banks and 174 officers and employees; total assets at the end of March 2025 were 321 億円.
 
-## 1. Legal / group boundary
+The prior version's claims that the entity was “Shinkin Network Service Co., Ltd.,” a subsidiary of Shinkin Central Bank, and an organization whose members were every shinkin bank nationwide were withdrawn because they could not be confirmed in official information. The center's official business scope also does not support an inference that it independently operates nationwide ATM interoperability or the connection to Zengin Net.
 
-| Item | Notes |
+## 1. Corporate/Membership Boundary
+
+| Item | Content based on official profile |
 |---|---|
-| Legal name | Shinkin Network Services Co., Ltd. (a stock company, affiliated with the Shinkin Central Bank) |
-| Group route | An IT joint-infrastructure company affiliated with the Shinkin Central Bank group |
-| Member base | 254 行shinkin banks nationwide (as of FSA 2025-11-06) + the Shinkin Central Bank |
-| Wiki role | Anchor entry for the **joint IT-infrastructure operating company** of the shinkin-bank industry |
-| Counterpart at federation layer | [[financial-regulators/zenshin-kyo|全国信用金庫協会]] (policy / industry body) |
-| Counterpart at central-bank layer | [[cooperative-banks/shinkin-central|信金中央金庫]] (central liquidity / clearing) |
+| Official name | General Incorporated Association Shinkin Kyodo Center |
+| Legal personality | General incorporated association |
+| Establishment | April 2013 |
+| History of establishment | Integrating joint centers in 7 regions nationwide |
+| Members | 236 shinkin banks (as of August 2025) |
+| Officers and employees | 174 people (as of August 2025) |
+| Total assets | 321 億円 (end of March 2025) |
 
-## 2. Business content
+Sources: [Shinkin Kyodo Center “Corporate Profile”](https://shinkinkyodo.org/outline/). The membership count uses that page's reference date and may differ from the total number of shinkin banks in the [Financial Services Agency's shinkin bank license list](https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx).
 
-Shinkin Network Services operates and provides common infrastructure such as the following:
+## 2. Businesses that can be officially confirmed
 
-1. **Shinkin ATM Network (Shinkin Cash Service, SCS)**
-   - A mutual-use ATM network among 254 shinkin banks nationwide.
-   - Makes shinkin-bank cash cards usable through tie-ups at any shinkin-bank ATM nationwide.
-   - The industry-side counterpart to ATM mutual-use tie-ups with megabanks / regional banks (see [[banking/atm-network-japan|Japan ATM network]]).
+The scope of projects listed in the official outline is as follows.
 
-2. **Shinkin Joint Center (core-banking joint use)**
-   - Provides a common core-banking system to small and mid-sized shinkin banks that cannot hold a core-banking system on their own.
-   - Each shinkin bank uses it in a tenant fashion, sharing the operating costs.
-   - Major shinkin banks (such as [[cooperative-banks/kyoto-chuo-shinkin|京都中央信用金庫]] and [[cooperative-banks/osaka-shinkin|大阪信用金庫]]) may have their own core-banking systems, but many mid-tier and smaller banks depend on the joint center.
+- Planning, development, operation and management of Shinkin joint system
+- Support for member shinkin banks using the shared system
+- Investigation, research and information provision related to collaborative systems
 
-3. **Internet-banking / mobile-banking infrastructure**
-   - A common foundation for personal / corporate internet banking for shinkin banks.
-   - Each shinkin bank differentiates only the branding; the back end is common.
+The center operates the shared system with NTT Data as its IT partner. Separate contracts and entities may be involved in an individual shinkin bank's systems, ATM partnerships, internet banking, and AML/CFT infrastructure, so this page does not generalize functions unconfirmed by official materials as direct operations of the center.
 
-4. **Zengin-net / Zengin EDI / Zengin-system connection**
-   - Operates a gateway connecting the entire shinkin-bank industry to [[banking/zengin-network|全銀ネット]].
-   - Rather than individual shinkin banks connecting directly to Zengin-net, connections are aggregated via SNS / Shinkin Central Bank.
+## 3. Identification
 
-5. **AML/CFT common system / identity-verification (eKYC) common foundation**
-   - Industry-wide commonization of anti-money-laundering and identity-verification systems.
-   - Provides compliance IT, difficult to build at the scale of an individual shinkin bank, on an aggregated basis.
+| Entity | Role described on this page |
+|---|---|
+| Shinkin Joint Center | Planning, development, operation, and management of joint systems for members |
+| [[cooperative-banks/shinkin-central|Shinkin Central Bank]] | Central financial institution for shinkin banks |
+| [[financial-regulators/zenshin-kyo|National Shinkin Bank Association]] | National industry association for shinkin banks |
+| Individual shinkin bank | Licensed financial institution responsible for customer deposits, loans, and related services |
 
-6. **Cashless-payment support**
-   - Common infrastructure for cashless support oriented to shinkin banks, such as debit functions for shinkin-bank cash cards and smartphone-payment linkages.
-
-## 3. Strategic positioning (Why this entity matters)
-
-### The scale-economy problem of cooperative financial institutions
-
-The shinkin-bank industry has seen consolidation progress from a peak of over 400 行 in the 1990 年s → 254 行 as of 2025-11-06, yet even so the average asset size of an individual shinkin bank is only a fraction of a regional bank's. Meanwhile, the renewal cost of bank IT infrastructure (core banking, AML/CFT, cashless) rises year by year, making it **structurally difficult for an individual shinkin bank to continue IT investment on its own**. Aggregation by a joint-infrastructure company such as SNS has become a precondition for the industry's survival.
-
-### Comparison with megabanks / regional banks
-
-- **Megabanks ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]])**: Hold and operate their own core-banking, AML/CFT, and mobile-banking infrastructure, with IT investment on the order of several hundred billion yen per year.
-- **Regional banks**: Many depend on regional-bank joint centers (regional-bank joint-use systems by NTT Data, Hitachi, etc.), but there is considerable room for customization by each regional bank.
-- **Shinkin banks**: Have the highest degree of dependence on industry-wide common infrastructure such as SNS, with limited room for individual customization. This embodies the "industry-unified operation" inherent to the cooperative model.
-
-### Division of labor with [[cooperative-banks/shinkin-central|信金中金]]
-
-- **Shinkin Central Bank**: Liquidity pool, surplus-fund management, intra-system funds adjustment, final Zengin-net connection.
-- **SNS / Shinkin Joint Center**: Joint operation of business IT (ATM, core banking, IB, AML foundation).
-- The two divide functions within the Shinkin Central Bank group; SNS bears the core of IT operations, and the Shinkin Central Bank the core of financial operations.
-
-### Division of labor with [[financial-regulators/zenshin-kyo|全信協]]
-
-- **Zenshinkyo**: Policy proposals, industry standards, formulation of self-regulatory guidelines, government liaison.
-- **SNS**: Substantive operation of business infrastructure.
-- A division-of-labor structure in which Zenshinkyo is the "deciding layer" and SNS the "moving layer."
-
-## 4. Related / system-risk issues
-
-### Concentration risk
-
-The fact that 254 行 of the industry depends on common infrastructure means that a system failure at SNS / the Shinkin Joint Center poses a risk of cascading across the entire industry. This is a challenge common to the banking industry (as the repeated system failures at megabank [[megabanks/mizuho-fg|みずほ FG]] show), but in the case of shinkin banks the possibility of "the entire industry halting simultaneously" is structurally inherent.
-
-### Adaptation to the cashless trend
-
-The ATM network (SCS) faces increasing operating-cost burdens amid declining cash use, and an industry-wide strategic shift toward reducing the number of installed ATMs / shifting to smartphone payments is underway. SNS is also the carrier of this shift.
-
-### Cybersecurity
-
-To the extent that individual shinkin banks' security investment is limited, SNS's defense level substantively determines the industry-wide security standard. It is also important as the entity to which the FSA / Financial Services Agency's industry-wide cybersecurity guidelines apply.
+Sources: [Shinkin Kyodo Center “Corporate Profile”](https://shinkinkyodo.org/outline/) and [Financial Services Agency “List of Shinkin Bank Licenses”](https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx). This table distinguishes the roles of separate entities and does not infer capital or control relationships.
 
 ## Related
 
 - [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 - [[cooperative-banks/shinkin-central|信金中央金庫]]
 - [[financial-regulators/zenshin-kyo|全国信用金庫協会]]
-- [[cooperative-banks/kyoto-chuo-shinkin|京都中央信用金庫]]
-- [[cooperative-banks/osaka-shinkin|大阪信用金庫]]
-- [[cooperative-banks/jonan-shinkin|城南信用金庫]]
-- [[cooperative-banks/yokohama-shinkin|横浜信用金庫]]
 - [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]]
 - [[banking/japan-cooperative-banking-unified-federation-matrix|Japan cooperative-banking unified federation matrix]]
 - [[banking/cooperative-banking-japan|Cooperative banking in Japan]]
-- [[banking/zengin-network|全銀ネット]]
-- [[banking/atm-network-japan|Japan ATM network]]
-- [[banking/INDEX|banking index]]
 
 ## Sources
 
-- National Association of Shinkin Banks (Zenshin-kyo) official site: https://www.shinkin.org/
-- Shinkin Central Bank official site: https://www.shinkin-central-bank.jp/
-- Shinkin Network Services-related: https://www.shinkin.co.jp/network/
-- Zenshinkyo "About Zenshinkyo": https://www.shinkin.org/zenshinkyo/about/
-- FSA: list of shinkin-bank licenses (2025-11-06): https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx
+- **General Incorporated Association Shinkin Kyodo Center “Corporate Profile”**: https://shinkinkyodo.org/outline/
+- **Financial Services Agency “List of Shinkin Bank Licenses”**: https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx
 
 ---
 
-> [!info] Confidence note
-> confidence: **likely**. SNS is the industry's joint IT-infrastructure company affiliated with the Shinkin Central Bank group, and its business scope — the Shinkin Cash Service, the Shinkin Joint Center, the Zengin-connection gateway, etc. — is verifiable from public information (Zenshinkyo / Shinkin Central Bank official sites, industry disclosure magazines). However, since precise figures on the details of its corporate status, the latest business scope, and its capital structure are centered on disclosure within the Shinkin Central Bank group, the granularity of primary materials available externally is limited. For the latest values, refer to the Shinkin Central Bank disclosure magazine and materials published by Zenshinkyo.
+> [!info] Calibration status
+> confidence: **verified**. The entity name, legal form, establishment history, membership count, officer and employee count, total assets, and business scope are limited to the Shinkin Kyodo Center's official profile. The prior version's fictitious company name, subsidiary relationship, and unconfirmed network-operation scope were removed.

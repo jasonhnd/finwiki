@@ -1,11 +1,12 @@
 ---
 source: banking/shinkin-bank-registry-japan
-source_hash: e4f488b2b4f4beef
+source_hash: cb190ac0da65390c
 lang: en
+model: source-language-sync
 status: machine
 fidelity: ok
 title: "Japan shinkin bank registry"
-translated_at: 2026-06-18T23:33:48.318Z
+translated_at: 2026-07-29T03:30:48.119Z
 ---
 
 # Japan shinkin bank registry
@@ -17,7 +18,7 @@ This entry sits under [[banking/INDEX|banking index]]. Read it with [[banking/co
 
 ## TL;DR
 
-This registry index captures the FSA public license list for Japan's shinkin-bank system: Shinkin Central Bank plus 254  licensed shinkin banks. It is a registry route, not a plan to create hundreds of standalone company pages.
+This registry index captures the FSA public license list for Japan's shinkin-bank system: Shinkin Central Bank plus 254 licensed shinkin banks. It is a registry route, not a plan to create hundreds of standalone company pages.
 
 ## 1. Registry snapshot
 
@@ -30,9 +31,11 @@ This registry index captures the FSA public license list for Japan's shinkin-ban
 | Legal / institutional route | 信用金庫法 |
 | Wiki treatment | Registry index; standalone pages only for central institutions or strategically material exceptions |
 
+Sources: the as-of date, central row, and 254 shinkin rows are read from the cited FSA workbook; counts are a snapshot and must be regenerated when that workbook changes. ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx; https://www.fsa.go.jp/menkyo/menkyo.html.]
+
 ## 2. Coverage decision
 
-- Closes the official shinkin-bank population at index level without creating 254  low-signal standalone pages.
+- Closes the official shinkin-bank population at index level without creating 254 low-signal standalone pages.
 - Provides a complete name-level route for cooperative regional finance, local SME lending, and central-institution analysis.
 - Keeps [[cooperative-banks/shinkin-central|Shinkin Central Bank]] as the systemically material entity page while routing long-tail institutions through this index.
 - Corporate numbers and head-office addresses are public registry fields; representative phone numbers remain in the source workbook and are omitted here to keep the index scannable.
@@ -220,7 +223,7 @@ This registry index captures the FSA public license list for Japan's shinkin-ban
 | 57 | 関東財務局 | 群馬県 | 北群馬信用金庫 | 3070005005398 | 377-0007 | 群馬県渋川市石原２０３－３ |
 | 58 | 関東財務局 | 群馬県 | 桐生信用金庫 | 9070005005178 | 376-8668 | 群馬県桐生市錦町２－１５－２１ |
 | 59 | 関東財務局 | 群馬県 | しののめ信用金庫 | 2070005003485 | 370-2316 | 群馬県富岡市富岡１１２３ |
-| 60 | 関東財務局 | 群馬県 | 高崎信用金庫 | 5070005002492 | 370-0069 | 群馬県高崎市飯塚町１２００－１ |
+| 60 | 関東財務局 | 群馬県 | 高崎信用金庫 | 5070005002492 | 370-0069 | 群馬県高崎市飯塚町１２００－１ |
 | 61 | 関東財務局 | 群馬県 | 館林信用金庫 | 8070005006581 | 374-8608 | 群馬県館林市本町１－６－３２ |
 | 62 | 関東財務局 | 群馬県 | 利根郡信用金庫 | 4070005006957 | 378-0053 | 群馬県沼田市東原新町１５４０ |
 | 63 | 関東財務局 | 埼玉県 | 青木信用金庫 | 4030005012141 | 332-0032 | 埼玉県川口市中青木２－１３－２１ |

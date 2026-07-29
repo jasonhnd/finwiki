@@ -6,9 +6,9 @@ aliases:
   - "資産管理専門銀行 landscape"
 domain: "banking"
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
-review_by: 2026-11-22
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [banking, trust-bank, master-trust, custody, asset-administration, pension]
 status: active
@@ -42,6 +42,8 @@ Use this page with [[banking/japan-trust-bank-custody-map|trust-bank custody map
 | [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]] | Global custody / securities services group. | Global-custody, asset-servicing, and foreign-investor bridge. |
 | [[foreign-financial-institutions/state-street-japan|State Street Japan]] | Global custody / asset-servicing group. | Global-custody and institutional services bridge. |
 | Full-service trust banks | MUFG Trust, Mizuho Trust, SMTB, SMBC Trust. | Wider trust / estate / real estate / pension / securities-agency functions. |
+
+Sources: institution type, ownership, and disclosed business functions come from the current MTBJ and CBJ company/business pages and the FSA trust-bank list. Global-custodian rows are research routes, not market-share claims. ^[Sources: https://www.mastertrust.co.jp/company/information.html; https://www.mastertrust.co.jp/about/overview.html; https://www.custody.jp/corporate/information/index.html; https://www.custody.jp/recruit/aboutus/business.html; https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf.]
 
 ## What They Actually Do
 

@@ -3,9 +3,9 @@ title: "多摩信用金庫"
 aliases: ["Tama Shinkin Bank", "多摩信金", "たましん", "信金"]
 domain: cooperative-banks
 created: 2026-05-24
-last_updated: 2026-06-05
-last_tended: 2026-06-05
-review_by: 2026-11-20
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, shinkin, cooperative-banking, tokyo, kanto, operating-company]
 status: active
@@ -37,6 +37,8 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks index]]. Read 
 | Deposit protection | [[financial-regulators/dic|預金保険機構 (DIC)]] — shinkin deposits are DIC-insured |
 | Home market | 東京都多摩地域 + 神奈川一部 |
 | Wiki role | Tokyo Tama 大手 shinkin operating-company anchor page |
+
+Sources: 正式名、法人番号、本店所在地、免許名簿上の存在は金融庁一覧、営業地区・組織情報は多摩信用金庫の公式プロフィールで確認する。比較語は同一基準日の全庫比較なしに順位として扱わない。 ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx; https://www.tamashin.jp/profile/.]
 
 ## 2. Institution-type business model
 

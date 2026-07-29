@@ -25,9 +25,9 @@
     "domain": "banking",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-06-03",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "banking",
@@ -45,8 +45,6 @@
       "https://www.uibank.co.jp/",
       "https://www.uibank.co.jp/info/",
       "https://www.uibank.co.jp/service/uiplus/",
-      "https://ja.wikipedia.org/wiki/UI銀行",
-      "https://www.albino.co.jp/bank-deposit-balance-ranking/",
       "https://www.tokyo-kiraboshifg.co.jp/",
       "https://www.tokyo-kiraboshifg.co.jp/ir/",
       "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
@@ -66,7 +64,7 @@
     "Where UI Bank competes"
   ],
   "body_links": {
-    "wikilinks_count": 22,
+    "wikilinks_count": 19,
     "wikilinks": [
       "banking/INDEX",
       "banking/au-jibun-bank",
@@ -83,10 +81,7 @@
       "banking/regional-bank-consolidation-pattern",
       "banking/sony-bank",
       "financial-licenses/bank-license-and-baas-boundary",
-      "megabanks/resona-hd",
-      "megabanks/saitama-resona-bank",
       "regional-banks/01-bank",
-      "regional-banks/fukuoka-fg",
       "regional-banks/kiraboshi-bank",
       "regional-banks/kiraboshi-fg",
       "regional-banks/ui-bank"
@@ -107,10 +102,7 @@
       "https://finwiki.zksc.io/ja/banking/regional-bank-consolidation-pattern/",
       "https://finwiki.zksc.io/ja/banking/sony-bank/",
       "https://finwiki.zksc.io/ja/financial-licenses/bank-license-and-baas-boundary/",
-      "https://finwiki.zksc.io/ja/megabanks/resona-hd/",
-      "https://finwiki.zksc.io/ja/megabanks/saitama-resona-bank/",
       "https://finwiki.zksc.io/ja/regional-banks/01-bank/",
-      "https://finwiki.zksc.io/ja/regional-banks/fukuoka-fg/",
       "https://finwiki.zksc.io/ja/regional-banks/kiraboshi-bank/",
       "https://finwiki.zksc.io/ja/regional-banks/kiraboshi-fg/",
       "https://finwiki.zksc.io/ja/regional-banks/ui-bank/"
@@ -119,9 +111,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 9076,
-    "word_like_tokens": 1533,
+    "nonspace_chars": 8227,
+    "word_like_tokens": 1375,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-07-29"
   }
 }

@@ -1,11 +1,12 @@
 ---
 source: cooperative-banks/hana-shinkumi
-source_hash: de7d71e157cfbf87
+source_hash: f74ba04dc902bc7a
 lang: en
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "Hana Credit Cooperative (Hana Credit Cooperative)"
-translated_at: 2026-06-18T23:33:48.361Z
+translated_at: 2026-07-29T03:30:48.125Z
 ---
 # Hana Credit Cooperative (Hana Credit Cooperative)
 
@@ -76,19 +77,16 @@ Among Tokyo's 19 shinkumi, the ethnic shinkumi:
 | **Community finance** | Living funds for members for education, ceremonial occasions, etc. |
 | **Asset-management consultation** | Over-the-counter sales of JGBs / investment trusts (via the system) |
 
-## 5. KPIs
+## 5. KPI update route
 
-| Metric | Value | Source |
+| Public items | Primary source | Posting rules |
 |---|---|---|
-| Total assets | Approx. 3,533 億円 (2025-03-31) | Wikipedia (per disclosure magazine) |
-| Net assets | Approx. 177.7 億円 (2025-03-31) | Same as above |
-| Capital subscription | Approx. 38.5 億円 (2025-03-31) | Same as above |
-| Deposit balance | Approx. 2,397 億円 (2022-03-31) | Same as above |
-| Loan balance | Approx. 1,889 億円 (2022-03-31) | Same as above |
-| Number of employees | 188  (2025-03-31) | Same as above |
-| Number of branches | 17 店 | Same as above |
+| Total assets, deposits, loans, capital investments, net assets | Hana Credit Union's latest disclosure magazine | Do not mix numbers from different base years in one snapshot |
+| Equity ratio/Non-performing loan indicators | The same disclosure magazine | Include the indicator definition and base date |
+| Union members, officers, employees, stores | Organizational overview or disclosure magazine of the association | Specify the base date of the store network |
+| Corporate number/head office/registration jurisdiction | Financial Services Agency credit union license list | Check the update date of the list |
 
-> Note: The number of members should be checked against the cooperative's disclosure magazine. For the latest figures, see the [Hana Shinkumi disclosure](https://www.hanashinkumi.com/info/disclosure.php).
+Sources: KPIs are updated from Hana Credit Union's latest official disclosure, and corporate identification information is updated from the Financial Services Agency's list of credit union licenses. KPIs derived from secondary materials that had mixed base years in the previous version have been withdrawn. ^[Sources: https://www.hanashinkumi.com/info/disclosure.php; https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx.]
 
 ## 6. Supervision / regulation
 
@@ -116,7 +114,6 @@ Among Tokyo's 19 shinkumi, the ethnic shinkumi:
 
 - **FSA list of credit-cooperative licenses**: https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx (corporate number 4011005001243, registry No. 53)
 - **Hana Credit Cooperative disclosure**: https://www.hanashinkumi.com/info/disclosure.php
-- **Wikipedia "Hana Credit Cooperative"** (financial figures, founding history, the 5  predecessor Chogin cooperatives, public funds of approx. 4,000 億円, origin of the trade name): https://ja.wikipedia.org/wiki/ハナ信用組合
 - **National Central Society of Credit Cooperatives**: https://www.shinyokumiai.or.jp/
 - **Zenshinkumiren (National Federation of Credit Cooperatives) official**: https://www.zenshinkumiren.jp/
 - **Deposit Insurance Corporation official**: https://www.dic.go.jp/
@@ -127,4 +124,4 @@ Among Tokyo's 19 shinkumi, the ethnic shinkumi:
 ---
 
 > [!info] 校核状態
-> confidence: **likely**. The corporate number, registry No., and head-office location derived from the FSA registry are ^[extracted] (public information). The KPIs for total assets, deposits, loans, capital subscription, number of employees, and number of branches have been sourced via Wikipedia (per the disclosure magazine) (only the number of members needs to be checked). The founding history, the 5  predecessor Chogin cooperatives, the scale of public funds, and the origin of the trade name "Hana" have also been sourced via Wikipedia. Added in the Wave 13  expansion as a representative receiving shinkumi after the reorganization of the Chogin system.
+> confidence: **likely**. Corporate number, registered jurisdiction, and head office location are based on the Financial Services Agency directory, and the latest KPIs are based on the official disclosure magazine. Descriptions of history, succession, and public funds must be reconfirmed item by item using primary materials from the Deposit Insurance Corporation, etc., and KPIs derived from secondary materials in the previous version have been deleted.

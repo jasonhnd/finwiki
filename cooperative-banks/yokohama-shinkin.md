@@ -3,9 +3,9 @@ title: "横浜信用金庫"
 aliases: ["Yokohama Shinkin Bank", "横浜信金", "よこしん", "信金"]
 domain: cooperative-banks
 created: 2026-05-24
-last_updated: 2026-06-05
-last_tended: 2026-06-05
-review_by: 2026-11-20
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, shinkin, cooperative-banking, kanagawa, kanto, operating-company]
 status: active
@@ -37,6 +37,8 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks index]]. Read 
 | Deposit protection | [[financial-regulators/dic|預金保険機構 (DIC)]] — shinkin deposits are DIC-insured |
 | Home market | 横浜市・横須賀・三浦半島 |
 | Wiki role | Kanagawa Yokohama 大手 shinkin operating-company anchor page |
+
+Sources: 正式名、法人番号、本店所在地、免許名簿上の存在は金融庁一覧、営業地区・組織情報は横浜信用金庫の公式プロフィールで確認する。比較語は同一基準日の全庫比較なしに順位として扱わない。 ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx; https://www.yokoshin.co.jp/profile/.]
 
 ## 2. Institution-type business model
 

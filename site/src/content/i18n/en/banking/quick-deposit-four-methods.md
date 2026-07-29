@@ -1,14 +1,15 @@
 ---
 source: banking/quick-deposit-four-methods
-source_hash: d0d419a5eb522691
+source_hash: 5793c3bfe808e208
 lang: en
+model: source-language-sync
 status: machine
 fidelity: ok
-title: "Quick-deposit 4-method decomposition framework"
-translated_at: 2026-05-31T03:19:56.418Z
+title: "クイック入金の4方式分解フレーム"
+translated_at: 2026-07-29T03:30:48.118Z
 ---
 
-# Quick-deposit 4-method decomposition framework
+# クイック入金の4方式分解フレーム
 
 
 ## Wiki route
@@ -16,77 +17,77 @@ translated_at: 2026-05-31T03:19:56.418Z
 This entry sits under [[banking/INDEX|banking index]]. Read it against [[banking/regional-bank-consolidation-pattern|Regional bank consolidation pattern]] for peer / contrast context and [[banking/cooperative-banking-japan|Cooperative banking in Japan]] for the broader system / regulatory boundary.
 
 > [!info] TL;DR
-> "What determines the instant-deposit UX is the underlying bank-connection method."
+> 「即時入金の UX を決めるのは、裏側の銀行接続方式である」
 
-## Core thesis
+## 核心命題
 
-Japan's instant deposit (quick deposit) looks similar on the surface, but can be decomposed into **4  methods whose contractual premises, authentication burden, and liability boundaries are entirely different**. This classification is essential for diagnosing the current state of adopting firms and proposing UX improvements.
+日本の即時入金（クイック入金）は、画面上の名称だけでは法的・技術的な接続方式を判定できない。本ページの4分類は、公開資料を確認するための**分析フレーム**であり、金融庁が定めた公式分類や、個別サービスの現行仕様一覧ではない。
 
-## Comparison of the 4 methods
+## 4方式の比較
 
-| Method | Contractual premise | Initial auth | Per-transaction auth | UX burden | Representative case |
-|------|---------|---------|---------|--------|---------|
-| **1. Bank-login type** | Operator × bank (not a collection institution) | None | Login + OTP every time | High | Rakuten Securities, SBI Net Bank |
-| **2. Account-linkage type (OAuth)** | Operator × bank (EPSP registration required) | OAuth consent | **Not needed** | **Minimal** | **Daiwa Connect Securities × Minna Bank**, Merpay × Sumishin SBI, Revolut × Minna Bank |
-| **3. Pay-easy/MPN type** | Operator × collection-institution number | None | Login + 3 number every time | High | Coincheck, GMO Coin, SBI VC Trade |
-| **4. Payment-gateway-routed type** | Operator × payment gateway × bank | None | Login every time | Medium | GMO-PG "PG Multi Payment Service" |
+| 分析上の方式 | 公開資料で確認する事項 | 認証・責任分界の確認先 | このフレームで断定しない事項 |
+|---|---|---|---|
+| 銀行サイト遷移型 | 遷移先、振込指図主体、銀行との契約関係 | 銀行・事業者の利用規約と認証説明 | OTP の有無や回数 |
+| API 口座連携型 | 参照系 / 更新系の別、同意画面、登録・契約主体 | 金融庁の電子決済等代行業者登録一覧、銀行 API 仕様、当事者発表 | OAuth 採用だけを理由とする「最小負荷」評価 |
+| 収納 / Pay-easy 型 | 収納機関番号、払込番号、入金反映条件 | 収納機関・銀行・事業者の現行手順 | すべての事業者に共通する認証回数 |
+| 決済代行経由型 | 代行事業者、接続銀行、資金・情報の流れ | 代行事業者と導入企業の契約・サービス仕様 | 中間事業者の存在だけを理由とする UX 優劣 |
 
-## Points for method selection
+Sources: ^[金融庁「電子決済等代行業者の登録申請時の留意事項等」https://www.fsa.go.jp/common/shinsei/dendai/01.pdf; 金融庁「電子決済等代行業制度の概要」https://www.fsa.go.jp/common/about/pamphlet/dendaigyo_start.pdf.]
 
-### From the operator's perspective
+## 方式選択の論点
 
-- **Structural reduction of authentication burden** → Method 2 (OAuth) is almost the only choice
-- **Lightness of initial investment** → Method 3 (Pay-easy) is low (no EPSP registration needed)
-- **Avoiding dependence on payment gateways** → Method 1  or 2 (Method 4  depends on an intermediary)
-- **A formal relationship to capture account share** → Method 2 (the OAuth token is the implementation of a continuing relationship)
+### 事業者側の観点
 
-### From the user's perspective
+- 接続方式だけでなく、登録要否、銀行との契約、認証方式、資金移動の法的主体を個別に確認する。
+- 導入コストや認証負荷は各社仕様に依存するため、方式名だけで順位付けしない。
+- API を用いる場合も、参照系と更新系を分け、利用者同意と認証の実装を確認する。
 
-- **Authenticate only the first time, then one-tap thereafter** → Method 2  only
-- **Trust in the bank brand** → Also assured by Method 1  / 3 
-- **Transparency of statements** → Recorded on the bank-side statement under any method
+### ユーザ側の観点
 
-### By-product: Pay-easy 7-day transfer restriction
+- 認証回数、画面遷移、入金反映時間、取消・誤操作時の責任分界を現行手順で確認する。
+- 銀行明細の表示名と、事業者側の入金履歴が照合できるかを確認する。
 
-Many crypto-asset operators using Method 3 (Pay-easy) **restrict external transfers for 7 days** after deposit (anti-money-laundering measure).
-Switching to Method 2 (OAuth) can, in some cases, ease this restriction. **A large UX differentiator.**
+### 入金後の利用制限
 
-## Meaning of Electronic Payment Service Provider registration
+暗号資産交換業者などが設ける入金後の送付・出金制限は、事業者の現行規約とリスク管理により異なる。接続方式だけから制限日数や緩和可否を推定せず、対象事業者の公式案内を確認する。
 
-- Newly established in the 2017 年 Banking Act amendment
-- **When fully offering Method 2 (account-linkage type), the operator normally needs EPSP registration**
-- Methods 1  / 3  / 4  can be operated without EPSP registration (relying on the bank's net banking)
-- **EPSP registration = the de-facto threshold for "operator qualification to invoke the bank API's write/update endpoints"**
+## 電子決済等代行業登録の意味
 
-## Read APIs vs Write APIs
+- 2017 年銀行法改正で新設
+- 登録要否は、銀行法上の電子決済等代行業に該当する行為を誰が行うかで判断される。
+- API や OAuth という技術名称だけでは登録要否を確定できない。
+- 個別事業者の登録状況は金融庁の現行登録一覧で確認する。
 
-| Category | Read | Write |
-|------|-------|-------|
-| Operation | Balance inquiry / transaction history | Remittance / transfer |
-| Use | Displaying bank balance in the operator app | The foundation of quick deposit |
-| Auth | OAuth 2.0 | OAuth + electronic signature |
+## 参照系 API と 更新系 API
 
-Adopting Method 2  **creates room to also provide read APIs, enabling the UX evolution of "integrated display of bank balances inside the operator app."**
+| 区分 | 金融庁資料上の代表的な行為 | 個別確認が必要な事項 |
+|---|---|---|
+| 参照系（銀行法第2条第21項第2号の類型） | 口座情報を取得し、利用者に提供する | 対象情報、同意、認証、保存期間 |
+| 更新系（同項第1号の類型） | 利用者の委託を受け、銀行に為替取引の指図を伝達する | 指図主体、認証、取消、責任分界 |
 
-## Applicable cases
+Sources: ^[金融庁「電子決済等代行業者の登録申請時の留意事項等」https://www.fsa.go.jp/common/shinsei/dendai/01.pdf.]
 
-- **Deposit-flow design for crypto-asset exchange operators** — if the current state is Method 1/3 , upgrading to Method 2  is the first UX-improvement candidate
-- **Bank-linkage selection for fintech startups** — weighing the EPSP-registration hurdle of Method 2  against the UX improvement
-- **Strategic design of a bank-side BaaS business** — for a bank offering Method 2 , the "relationship structure with operators" itself is the differentiator
-- **The current-state analysis section of internal strategy material** — a framework for posing the question "which method are we currently operating on"
+参照系と更新系は法的な行為類型が異なるため、一方の導入から他方の提供を当然には推定しない。
 
-## Related
+## 適用ケース
 
-- [[banking/minna-bank-baas-model|minna-bank-baas-model]] — the framework of Minna Bank BaaS's 2  model (API-provision type × partner-branch type)
-- [[fintech/japan-financial-regulation|japan-financial-regulation]] — the legal basis for EPSP registration (Payment Services Act / Banking Act)
-- [[banking/mercari-bank-license-stack|mercari-bank-license-stack]] — a concrete example of the license ladder including EPSP
+- **暗号資産交換業者の入金導線設計** — 現状が方式 1/3 なら、方式 2 への昇格が第一の UX 改善候補
+- **Fintech スタートアップの銀行連携選定** — 方式 2 の電代業登録ハードルと UX 向上を天秤に掛ける
+- **銀行側 BaaS 事業の戦略設計** — 方式 2 を提供する銀行は「事業者との関係構造」そのものが差別化要素
+- **社内戦略検討資料の現状分析セクション** — 「我々は今どの方式で動いているのか」の問いを立てる際のフレーム
+
+## 関連
+
+- [[banking/minna-bank-baas-model|minna-bank-baas-model]] — みんなの銀行 BaaS の 2 モデル（API 提供型 × パートナー支店型）の枠組み
+- [[fintech/japan-financial-regulation|japan-financial-regulation]] — 電代業登録の法的根拠（資金決済法/銀行法）
+- [[banking/mercari-bank-license-stack|mercari-bank-license-stack]] — 電代業を含むライセンス階段の具体例
 
 来源: 公開情報整理 (各 BaaS 提供銀行公式サイト・FSA 電代業登録一覧・全国銀行協会発表資料)
 
 ## Sources
 
-- FSA "Points to note when applying for registration as an Electronic Payment Service Provider" (introduction of the registration system through the 2017年 Banking Act amendment; distinction between 第1号 payment instruction / write under Banking Act Article 2 Paragraph 21 and 第2号 account-information retrieval / read) — https://www.fsa.go.jp/common/shinsei/dendai/01.pdf
-- FSA "Overview of the Electronic Payment Service Provider system" pamphlet (purpose of the system / open innovation) — https://www.fsa.go.jp/common/about/pamphlet/dendaigyo_start.pdf
+- 金融庁「電子決済等代行業者の登録申請時の留意事項等」（2017年銀行法改正による登録制の導入・銀行法第2条第21項第1号 為替指図/更新系 と 第2号 口座情報取得/参照系 の区別） — https://www.fsa.go.jp/common/shinsei/dendai/01.pdf
+- 金融庁「電子決済等代行業制度の概要」パンフレット（制度趣旨・オープンイノベーション） — https://www.fsa.go.jp/common/about/pamphlet/dendaigyo_start.pdf
 
 ## Related
 <!-- wiki-links:managed -->

@@ -9,8 +9,8 @@ aliases:
   - "JA-Tokyo-Shinren"
 domain: cooperative-banks
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, ja-group, ja-bank-system, prefectural-federation, shinnoren, tokyo, kanto, agricultural-finance]
@@ -19,7 +19,6 @@ sources:
   - "https://www.jabank.org/about/sikumi/banksystem/"
   - "https://www.ja-tokyo.or.jp/"
   - "http://shinren.jatokyo.or.jp/organization.html"
-  - "https://ja.wikipedia.org/wiki/東京都信用農業協同組合連合会"
   - "https://www.nochubank.or.jp/about/features.html"
   - "https://org.ja-group.jp/pdf/jafactbook/jafactbook_2026.pdf"
   - "農業協同組合法 (昭和 22 年法律第 132 号)"
@@ -87,7 +86,7 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 - **店舗数**: 1 店 (代理店 1 店)
 - **設立**: 1948-08 / **本店**: 東京都立川市柴崎町
 
-> 注: 上記は当会「当会の概要」公表値 (2024-12-24 現在)。Wikipedia / Weblio は 2021-03-31 時点で貯金 約 2 兆 8,433 億円・貸出金 約 3,407 億円・職員 147 名を記載。会員 JA 数の正確な内訳は当会 IR + JA 東京中央会を要参照。
+> 注: 上記は当会「当会の概要」公表値 (2024-12-24 現在)。会員 JA 数の正確な内訳は当会公表資料と JA 東京中央会を参照。
 
 ### 31 信連内での東信連の位置
 
@@ -112,7 +111,9 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 | 東信連出資金 | 約 1,356 億円 | 同上 |
 | 職員数 | 139 名 | 同上 |
 
-> 注: 31 信連全体での詳細 KPI は [[cooperative-banks/norinchukin|農林中金]] 公開資料 + 各信連 IR 要参照。Wikipedia / Weblio は 2021-03-31 時点値 (貯金 約 2 兆 8,433 億円、貸出金 約 3,407 億円、出資金 約 1,313 億円、職員 147 名) を記載。
+Sources: [JA バンク東京信連「当会の概要」](http://shinren.jatokyo.or.jp/organization.html)（2024-12-24 現在）。
+
+> 注: 31 信連全体での詳細 KPI は [[cooperative-banks/norinchukin|農林中金]] 公開資料と各信連の公式開示を参照。
 
 ## 5. 監督・規制
 
@@ -145,7 +146,6 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 - **JA Bank system 公式**: https://www.jabank.org/about/sikumi/banksystem/
 - **JA 東京中央会**: https://www.ja-tokyo.or.jp/
 - **JA バンク東京信連「当会の概要」** (財務諸数値 2024-12-24 現在): http://shinren.jatokyo.or.jp/organization.html
-- **Wikipedia「東京都信用農業協同組合連合会」** (財務諸数値 2021-03-31 現在、設立・本店): https://ja.wikipedia.org/wiki/東京都信用農業協同組合連合会
 - **農林中央金庫 特徴 (2025-04-01 時点層別人数)**: https://www.nochubank.or.jp/about/features.html
 - **JA グループ Factbook 2026**: https://org.ja-group.jp/pdf/jafactbook/jafactbook_2026.pdf
 - 農業協同組合法 (昭和 22 年法律第 132 号)

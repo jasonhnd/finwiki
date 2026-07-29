@@ -24,9 +24,9 @@
     "domain": "banking",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "banking",
@@ -50,7 +50,7 @@
       "https://sonybank.jp/corporate/aboutus/profile.html",
       "https://www.uibank.co.jp/info/",
       "https://gmo-aozora.com/company/outline.html",
-      "https://www.daiwa-nextbank.co.jp/info/",
+      "https://www.bank-daiwa.co.jp/about/company/profile/",
       "https://global.rakuten.com/corp/news/press/2026/0514_01.html",
       "https://www.paypay-bank.co.jp/company/about/",
       "https://www.netbk.co.jp/contents/company/about/",
@@ -61,21 +61,21 @@
       "https://www.jp-bank.japanpost.jp/ir/"
     ]
   },
-  "summary": "Japan's net-bank cohort entered 2026 as a clearly segmented competitive surface rather than one undifferentiated category. The ten-plus operators range from trillion-yen deposit franchises (Rakuten Bank, Sumishin SBI Net Bank, Sony Bank) to specialist BaaS / partner-led brands (Minna Bank, Sumishin",
+  "summary": "Japan's online-bank market is not one homogeneous category. Operators differ by group ownership, direct-versus-partner distribution, product scope, and public disclosure format. This page therefore records where each claim can be verified rather than freezing volatile balances, rates, fees, rankings",
   "headings": [
     "Japan net bank deposit & feature matrix 2026",
     "TL;DR",
     "Wiki route",
     "Why deposit feature comparison matters in 2026",
     "Bank universe in scope",
-    "Core matrix — deposit base and parent ecosystem",
-    "Core matrix — FX, mortgage, card, and API depth",
-    "Core matrix — 2025-2026 growth, fees, interest, embedded-finance partnerships",
+    "Core matrix — entity and disclosure route",
+    "Core matrix — product evidence map",
+    "Publication protocol for volatile comparisons",
     "Differentiation axes",
-    "Deposit-base scale tier"
+    "Deposit-base comparison"
   ],
   "body_links": {
-    "wikilinks_count": 34,
+    "wikilinks_count": 31,
     "wikilinks": [
       "INDEX",
       "banking/INDEX",
@@ -102,15 +102,12 @@
       "card-issuers/paypay-card",
       "finance/japan-acquisition-finance",
       "fintech/INDEX",
-      "megabanks/au-fh",
       "megabanks/mufg",
       "megabanks/sbi-hd",
       "regional-banks/01-bank",
-      "regional-banks/aozora-bank",
       "regional-banks/japan-post-bank",
       "regional-banks/sbi-shinsei-bank",
-      "securities-firms/daiwa-sg",
-      "securities-firms/sbi-fx-trade"
+      "securities-firms/daiwa-sg"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX.md",
@@ -137,23 +134,20 @@
       "https://finwiki.zksc.io/ja/card-issuers/paypay-card/",
       "https://finwiki.zksc.io/ja/finance/japan-acquisition-finance/",
       "https://finwiki.zksc.io/ja/domains/fintech/",
-      "https://finwiki.zksc.io/ja/megabanks/au-fh/",
       "https://finwiki.zksc.io/ja/megabanks/mufg/",
       "https://finwiki.zksc.io/ja/megabanks/sbi-hd/",
       "https://finwiki.zksc.io/ja/regional-banks/01-bank/",
-      "https://finwiki.zksc.io/ja/regional-banks/aozora-bank/",
       "https://finwiki.zksc.io/ja/regional-banks/japan-post-bank/",
       "https://finwiki.zksc.io/ja/regional-banks/sbi-shinsei-bank/",
-      "https://finwiki.zksc.io/ja/securities-firms/daiwa-sg/",
-      "https://finwiki.zksc.io/ja/securities-firms/sbi-fx-trade/"
+      "https://finwiki.zksc.io/ja/securities-firms/daiwa-sg/"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 19084,
-    "word_like_tokens": 3150,
+    "nonspace_chars": 15408,
+    "word_like_tokens": 2503,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-29"
   }
 }

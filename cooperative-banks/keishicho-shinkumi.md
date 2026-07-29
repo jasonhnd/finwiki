@@ -7,9 +7,9 @@ aliases:
   - "MPD Credit Cooperative"
 domain: cooperative-banks
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, shinkumi, credit-cooperative, cooperative-banking, kanto, tokyo, occupation-based-shinkumi, police-shinkumi, operating-company]
 status: active
@@ -17,7 +17,6 @@ sources:
   - "https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx"
   - "https://www.keishintokyo.co.jp/"
   - "https://www.keishintokyo.co.jp/pdf/Keishin_Disclo2025web.pdf"
-  - "https://ja.wikipedia.org/wiki/警視庁職員信用組合"
   - "https://www.shinyokumiai.or.jp/"
   - "https://www.zenshinkumiren.jp/"
   - "https://www.dic.go.jp/"
@@ -90,18 +89,16 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 | **定期・流動性預金** | 組合員世帯向け預金 |
 | **退職金運用** | 組合員定年退職者向け資産運用相談 |
 
-## 5. KPI
+## 5. KPI update route
 
-| 指標 | 値 | 出典 |
+| 公開項目 | 一次資料 | 掲載ルール |
 |---|---|---|
-| 総資産 | **6,830 億 3,070 万円** | Wikipedia (2022-03 末) |
-| 預金残高 | **5,216 億 463 万円** | Wikipedia (2022-03 末) |
-| 貸出金 | **3,553 億 5,139 万円** (住宅ローン中心) | Wikipedia (2022-03 末) |
-| 純資産 | 385 億 321 万円 | Wikipedia (2022-03 末) |
-| 出資金 | 47 億 2,359 万円 | Wikipedia (2022-03 末) |
-| 店舗数 / 職員数 | 7 店 (本支店・出張所) / 144 人 | Wikipedia (2022-03 末) |
+| 総資産・預金・貸出金・出資金・純資産 | 警視庁職員信用組合「令和6年度経営情報（DISCLOSURE 2025）」 | 同一基準日の連結・単体区分を確認して転記する |
+| 自己資本比率・不良債権指標 | 同経営情報 | 指標定義と基準日を併記する |
+| 組合員・役職員・店舗 | 同経営情報または公式組織案内 | 店舗と出張所の区分を保持する |
+| 法人番号・本店・登録管轄 | 金融庁の信用組合免許一覧 | 名簿の更新日を確認する |
 
-> 注: 数値は Wikipedia (2022-03 末: 預金 5,216 億円・貸出金 3,553 億円・総資産 6,830 億円)。最新は警視庁職員信用組合 令和6年度経営情報 (DISCLOSURE 2025) を要参照。職域信組としては大規模 (総資産 約 6,800 億円)。
+Sources: 最新 KPI は警視庁職員信用組合の公式経営情報、法人識別情報は金融庁の信用組合免許一覧で更新する。旧版の二次資料由来 2022 年値と「大規模」という未定義の比較評価は撤回した。 ^[Sources: https://www.keishintokyo.co.jp/pdf/Keishin_Disclo2025web.pdf; https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx.]
 
 ## 6. 監督・規制
 
@@ -129,7 +126,6 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 - **金融庁 信用組合免許一覧**: https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx (法人番号 5010005002102, registry No. 40)
 - **警視庁職員信用組合 (けいしん) 公式**: https://www.keishintokyo.co.jp/
 - **警視庁職員信用組合 令和6年度経営情報 (DISCLOSURE 2025)**: https://www.keishintokyo.co.jp/pdf/Keishin_Disclo2025web.pdf
-- **Wikipedia: 警視庁職員信用組合** (2022-03 末: 預金 5,216 億 463 万円・貸出金 3,553 億 5,139 万円・総資産 6,830 億 3,070 万円・純資産 385 億 321 万円・出資金 47 億 2,359 万円・7 店・職員 144 人・設立 1952-03-07): https://ja.wikipedia.org/wiki/警視庁職員信用組合
 - **全国信用組合中央協会**: https://www.shinyokumiai.or.jp/
 - **全信組連 (全国信用協同組合連合会) 公式**: https://www.zenshinkumiren.jp/
 - **預金保険機構 公式**: https://www.dic.go.jp/
@@ -140,4 +136,4 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 ---
 
 > [!info] 校核状態
-> confidence: **likely**。FSA registry 由来の法人番号・registry No.・本店所在地 (警視庁本部内) は ^[extracted] (公開情報)。総資産・預金等 KPI は Wikipedia (2022-03 末) + 警視庁職員信用組合 公式経営情報で確定 (預金 5,216 億円・貸出 3,553 億円・総資産 6,830 億円・出資金 47.2 億円・7 店・職員 144 人)。当初「数百億〜数千億円規模」概数は実規模 (総資産約 6,800 億円) に修正。職域信組 (警察系) の代表アンカーとして Wave 13 拡張で追加。警察共済組合との具体的役割分担は本文で断定せず、要追加検証。
+> confidence: **likely**。法人番号・登録管轄・本店所在地は金融庁名簿、最新 KPI は公式経営情報を根拠とする。旧版の二次資料由来 KPI と規模比較は削除済み。警察共済組合との具体的役割分担は未確認のため断定しない。

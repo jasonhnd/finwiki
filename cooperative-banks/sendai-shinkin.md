@@ -11,9 +11,9 @@ aliases:
   - "信金"
 domain: cooperative-banks
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, shinkin, cooperative-banking, miyagi, tohoku, operating-company]
 status: active
@@ -47,6 +47,8 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read 
 | Home market | 仙台市・宮城県全域 |
 | Wiki role | Tohoku / Miyagi 仙台都市圏 shinkin operating-company anchor page |
 | Supervisory bureau | 東北財務局 |
+
+Sources: 現行の正式名は金融庁名簿の「杜の都信用金庫」で確認し、旧仙台信用金庫等との合併沿革・営業地区は同庫の公式サイトで確認する。slug の `sendai-shinkin` を現行商号として扱わない。 ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx; https://www.morisin.co.jp/.]
 
 ## 2. Operating model
 

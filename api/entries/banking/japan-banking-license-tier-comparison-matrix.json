@@ -25,9 +25,9 @@
     "domain": "banking",
     "type": null,
     "created": "2026-05-24",
-    "last_updated": "2026-05-24",
-    "last_tended": "2026-05-24",
-    "review_by": "2026-11-20",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "banking",
@@ -56,6 +56,9 @@
       "https://www.fsa.go.jp/common/law/guide/chusho/05.html",
       "https://www.fsa.go.jp/common/law/guide/city/06.html",
       "https://www.dic.go.jp/",
+      "https://www.sic.or.jp/afc/about/summary/summary/mechanism-insurance-savings/",
+      "https://www.boj.or.jp/en/about/education/oshiete/kess/i08.htm",
+      "https://www.boj.or.jp/paym/torihiki/ichiran.pdf",
       "https://www.bis.org/",
       "https://www.zenginkyo.or.jp/en/banks/financial-institutions/",
       "https://www.shintaku-kyokai.or.jp/trust/trustbanks/",
@@ -67,7 +70,7 @@
       "https://www.japaneselawtranslation.go.jp/"
     ]
   },
-  "summary": "Japan's deposit-taking system is not one license. The Banking Act, Trust Business Act, 信用金庫法, 中小企業等協同組合法, 労働金庫法, and 農林中央金庫法 each carve out distinct license tiers with different statutes, regulators, capital floors, deposit-insurance regimes, permitted-activity envelopes, and governance shapes. This",
+  "summary": "Japan's deposit-taking system is not one legal form. The Banking Act, the Act on Engagement in Trust Business Activities by Financial Institutions, 信用金庫法, 中小企業等協同組合法 / 協金法, 労働金庫法, 農協法 / 水協法, and 農林中央金庫法 create different perimeters. At the same time, “megabank”, “regional bank”, “second regional bank",
   "headings": [
     "Japan banking-license tier comparison matrix",
     "TL;DR",
@@ -81,7 +84,7 @@
     "Tier 6 — Foreign bank branch (外国銀行支店)"
   ],
   "body_links": {
-    "wikilinks_count": 21,
+    "wikilinks_count": 20,
     "wikilinks": [
       "INDEX",
       "banking/INDEX",
@@ -92,14 +95,13 @@
       "banking/japan-baas-operating-models",
       "banking/japan-net-bank-competition-map",
       "banking/jf-marine-bank-system-japan",
+      "banking/post-megabank-positioning",
       "banking/regional-bank-consolidation-pattern",
       "banking/rokin-bank-registry-japan",
       "banking/shinkin-bank-registry-japan",
       "banking/trust-bank-custody-operating-comparison",
       "cooperative-banks/norinchukin",
-      "cooperative-banks/norinchukin\\",
       "cooperative-banks/shinkin-central",
-      "cooperative-banks/shinkin-central\\",
       "financial-licenses/INDEX",
       "financial-licenses/bank-license-and-baas-boundary",
       "financial-regulators/yokin-hoken-kiko",
@@ -115,6 +117,7 @@
       "https://finwiki.zksc.io/ja/banking/japan-baas-operating-models/",
       "https://finwiki.zksc.io/ja/banking/japan-net-bank-competition-map/",
       "https://finwiki.zksc.io/ja/banking/jf-marine-bank-system-japan/",
+      "https://finwiki.zksc.io/ja/banking/post-megabank-positioning/",
       "https://finwiki.zksc.io/ja/banking/regional-bank-consolidation-pattern/",
       "https://finwiki.zksc.io/ja/banking/rokin-bank-registry-japan/",
       "https://finwiki.zksc.io/ja/banking/shinkin-bank-registry-japan/",
@@ -129,9 +132,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 30105,
-    "word_like_tokens": 4612,
+    "nonspace_chars": 32433,
+    "word_like_tokens": 4971,
     "inbound_wikilinks_count": 31,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-07-29"
   }
 }

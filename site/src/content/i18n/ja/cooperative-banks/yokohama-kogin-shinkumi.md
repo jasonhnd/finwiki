@@ -1,21 +1,22 @@
 ---
 source: cooperative-banks/yokohama-kogin-shinkumi
-source_hash: 06fdc7ab5b7c425e
+source_hash: 6c8a6efeee124ab8
 lang: ja
+model: source-language-sync
 status: machine
 fidelity: ok
 title: "横浜幸銀信用組合 (Yokohama Kogin Credit Cooperative)"
-translated_at: 2026-06-02T16:33:58.467Z
+translated_at: 2026-07-29T03:30:48.134Z
 ---
 # 横浜幸銀信用組合 (Yokohama Kogin Credit Cooperative)
 
-## ウィキ上の位置づけ
+## Wiki route
 
-この項目は [[cooperative-banks/INDEX|cooperative-banks INDEX]] 配下に置き、143協同組織金融の母集団 ([[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]] で整理) の中で、**首都圏 (神奈川) の民族系事業者信組アンカー**として扱う。韓国系事業者信組ネットワークにおける関西側の比較対象は [[cooperative-banks/osaka-shogin-shinkumi|大阪商銀信用組合]]、協同組織金融システムの親レイヤーは [[cooperative-banks/zenshin-kumi|全信組連]] と照合して読む。
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as a **首都圏 (Kanagawa) ethnic-business shinkumi anchor** within the 143-cooperative population catalogued in [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]]. Read it against [[cooperative-banks/osaka-shogin-shinkumi|大阪商銀信用組合]] for the Kansai counterpart in the Korean-business shinkumi network and [[cooperative-banks/zenshin-kumi|全信組連]] for the cooperative-system parent.
 
-## 要約
+## TL;DR
 
-横浜幸銀信用組合は、神奈川県横浜市中区尾上町に本店を置く **在日韓国・朝鮮人系の事業者を母体とする民族系信用組合**。FSA registry No. 58 (関東財務局所管)、法人番号 3020005003571。神奈川県下の **在日商工人 SME** + **コリアタウン (鶴見・川崎・横浜中華街周辺)** の組合員基盤を持ち、関東圏の **幸銀系 / 商銀系** 民族信組ネットワークの一翼を担う。[[cooperative-banks/zenshin-kumi|全国信用協同組合連合会 (全信組連)]] 会員、[[financial-regulators/dic|預金保険機構]] 対象。**地域 + 業域 + 民族コミュニティ**の三層組合員資格で運営され、跨境送金・コミュニティ金融・SME 融資が事業の中核。^[extracted]
+横浜幸銀信用組合は、神奈川県横浜市中区尾上町に本店を置く **在日韓国・朝鮮人系の事業者を母体とする民族系信用組合**。FSA registry No. 58 (関東財務局所管)、法人番号 3020005003571。神奈川県下の **在日商工人 SME** + **コリアタウン (鶴見・川崎・横浜中華街周辺)** の組合員基盤を持ち、関東圏の **幸銀系 / 商銀系** 民族信組ネットワークの一翼。[[cooperative-banks/zenshin-kumi|全国信用協同組合連合会 (全信組連)]] 会員、[[financial-regulators/dic|預金保険機構]] 対象。**地域 + 業域 + 民族コミュニティ**の三層組合員資格で運営、跨境送金・コミュニティ金融・SME 融資が事業の中核。^[extracted]
 
 ## 1. 法人概要
 
@@ -54,7 +55,7 @@ translated_at: 2026-06-02T16:33:58.467Z
 | 相愛信用組合 | 愛甲郡愛川町 | 県央地域型 |
 | 信用組合横浜華銀 | 横浜市中区山下町 | 民族系 (華僑系) |
 
-> 注: **横浜幸銀** (在日韓国・朝鮮人系) と **横浜華銀** (華僑系) が同一住所地区 (中区) に並存し、神奈川県の代表的民族系信組 2 行体制を構成する。
+> 注: **横浜幸銀** (在日韓国・朝鮮人系) と **横浜華銀** (華僑系) が同一住所地区 (中区) に並存、神奈川県の代表的民族系信組 2 行体制。
 
 ### 全信組連内の位置付け
 
@@ -84,7 +85,9 @@ translated_at: 2026-06-02T16:33:58.467Z
 | 店舗数 | 29 店 (2024-03-31) | 横浜幸銀 公式組合概要 |
 | 職員数 | 320 人 (2024-03-31) | 横浜幸銀 公式組合概要 |
 
-> 注: 上記は **横浜幸銀信用組合 公式「組合概要」(2024 年 3 月 31 日現在)** に基づく確定値。預金規模は商銀系信組で最大級。最新の半期/通期数値は [横浜幸銀ディスクロージャー誌](https://www.yokohamakougin.co.jp/disclosure/index.html) + [[banking/credit-cooperative-registry-japan|FSA信用組合免許一覧]] を参照。
+Sources: [横浜幸銀信用組合「組合概要」](https://www.yokohamakougin.co.jp/about/overview.html)（2024-03-31 現在）および [公式ディスクロージャー誌一覧](https://www.yokohamakougin.co.jp/disclosure/index.html)。
+
+> 注: 上記は **横浜幸銀信用組合 公式「組合概要」(2024 年 3 月 31 日現在)** に基づく確定値。最新の半期/通期数値は公式ディスクロージャー誌と [[banking/credit-cooperative-registry-japan|FSA信用組合免許一覧]] を参照。
 
 ## 6. 監督・規制
 
@@ -96,11 +99,11 @@ translated_at: 2026-06-02T16:33:58.467Z
   - **組合員世代交代** (在日 2 世・3 世以降の信組離れリスク)
   - **韓国系銀行 (新韓銀行東京支店等)** との競合
 
-## 関連項目
+## Related
 
-- [[cooperative-banks/osaka-shogin-shinkumi]] — 大阪商銀信用組合 (比較対象の民族系信組、関西版)
+- [[cooperative-banks/osaka-shogin-shinkumi]] — 大阪商銀信用組合 (peer 民族系信組、関西版)
 - [[cooperative-banks/zenshin-kumi]] — 全国信用協同組合連合会 (信組業界中央機関)
-- [[cooperative-banks/hana-shinkumi]] — ハナ信用組合 (比較対象の民族系信組、東京)
+- [[cooperative-banks/hana-shinkumi]] — ハナ信用組合 (peer 民族系信組、東京)
 - [[regional-banks/yokohama-bank]] — 横浜銀行 (神奈川地銀、域内競合)
 - [[cooperative-banks/yokohama-shinkin]] — 横浜信用金庫 (神奈川信金、業態対比)
 - [[regional-banks/concordia-fg]] — コンコルディアFG (横銀親会社)
@@ -109,11 +112,10 @@ translated_at: 2026-06-02T16:33:58.467Z
 - [[banking/cooperative-banking-japan]] — 協同組織金融全体
 - [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
-## 出典
+## Sources
 
 - **横浜幸銀信用組合 公式「組合概要」(2024-03-31 現在)**: https://www.yokohamakougin.co.jp/about/overview.html — 預金・積金 6,550 億円・貸出 4,900 億円・出資金 275 億円・組合員 73,349 人・店舗 29・職員 320 名・設立 昭和 37 年 2 月 28 日
 - **横浜幸銀信用組合 公式 ディスクロージャー誌**: https://www.yokohamakougin.co.jp/disclosure/index.html
-- **Wikipedia「横浜幸銀信用組合」「商銀信用組合」** (現行体制の 2017-03-13 再編経緯): https://ja.wikipedia.org/wiki/横浜幸銀信用組合
 - **金融庁 信用組合免許一覧**: https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx (法人番号 3020005003571, registry No. 58)
 - **全国信用組合中央協会**: https://www.shinyokumiai.or.jp/
 - **全信組連 (全国信用協同組合連合会) 公式**: https://www.zenshinkumiren.jp/
@@ -123,5 +125,5 @@ translated_at: 2026-06-02T16:33:58.467Z
 
 ---
 
-> [!info] 検証状況
-> confidence: **likely**。FSA registry 由来の法人番号・registry No.・本店所在地は ^[extracted] (公開情報)。預金・貸出・出資金・組合員数・店舗・職員数は **横浜幸銀公式組合概要 (2024-03-31)** で確定 (従前の概数推定を実数に置換)。幸銀系民族信組の関東代表として Wave 13 拡張で追加。現行体制は **2017-03-13 に再編** (従前未確認だった合併経緯を Wikipedia「横浜幸銀信用組合」「商銀信用組合」で確認)、源流の設立は昭和 37 年 (1962)。
+> [!info] 校核状態
+> confidence: **likely**。FSA registry 由来の法人番号・registry No.・本店所在地と、公式組合概要の預金・貸出・出資金・組合員数・店舗・職員数を記載した。合併史の詳細は一次資料を確認できるまで断定しない。

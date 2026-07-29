@@ -24,9 +24,9 @@
     "domain": "banking",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "banking",
@@ -70,8 +70,8 @@
     "Pension trust admin fees",
     "Securities investment trust admin fees",
     "Real-estate trust fees (full-service trust banks only)",
-    "Cross-bank fee-economy matrix (10 entities)",
-    "Pricing-power summary"
+    "Cross-entity public comparison boundary",
+    "Fee trends"
   ],
   "body_links": {
     "wikilinks_count": 27,
@@ -136,9 +136,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 15207,
-    "word_like_tokens": 2414,
+    "nonspace_chars": 13727,
+    "word_like_tokens": 2095,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-29"
   }
 }

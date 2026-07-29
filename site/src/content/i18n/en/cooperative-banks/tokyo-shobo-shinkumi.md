@@ -1,11 +1,12 @@
 ---
 source: cooperative-banks/tokyo-shobo-shinkumi
-source_hash: 2e2d737d43691eeb
+source_hash: 3f96d3cfbbc76caa
 lang: en
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "東京消防信用組合 (Tokyo Fire Department Credit Cooperative)"
-translated_at: 2026-06-18T23:33:48.276Z
+translated_at: 2026-07-29T03:30:48.134Z
 ---
 # 東京消防信用組合 (Tokyo Fire Department Credit Cooperative)
 
@@ -70,18 +71,16 @@ As an occupation-based shinkumi, membership eligibility is strictly **limited to
 | **Retirement-allowance investment** | Asset-management consultation for members reaching retirement age |
 | **Group handling with credit life insurance** | Payroll-deduction loans |
 
-## 5. KPI (confirmed figures)
+## 5. KPI update route
 
-| Indicator | Value | Source |
+| Public items | Primary source | Posting rules |
 |---|---|---|
-| Total assets | 884 億 6,944 万円 (2022-03-31) | Wikipedia "Tokyo Fire Department Credit Cooperative" (basic information) |
-| Deposit balance | 733 億 4,594 万円 (2022-03-31) | Wikipedia "Tokyo Fire Department Credit Cooperative" (basic information) |
-| Loans | 402 億 9,272 万円 (housing-loan-centered, 2022-03-31) | Wikipedia "Tokyo Fire Department Credit Cooperative" (basic information) |
-| Net assets | 56 億 7,449 万円 (2022-03-31) | Wikipedia "Tokyo Fire Department Credit Cooperative" (basic information) |
-| Number of branches | 3 店 (head office, Tachikawa branch, Hatagaya branch) | Tokyo Shobo Shinkumi official |
-| Officers and staff | 37 名 (2022-03-31) | Wikipedia "Tokyo Fire Department Credit Cooperative" (basic information) |
+| Total assets, deposits, loans, capital investments, net assets | Tokyo Fire Department Credit Union’s latest full-year management report | Posting on the same base date without mixing half-year and full-year data |
+| Equity ratio/Non-performing loan indicators | Management report | Include the indicator definition and base date |
+| Union members, officers, employees, stores | Management report or official organization information | Maintaining the classification of stores and branch offices |
+| Corporate number/head office/registration jurisdiction | Financial Services Agency credit union license list | Check the update date of the list |
 
-> Note: The above are values based on **Wikipedia basic information (as of 2022 年 3 月 31 日)**. For the latest half-year/full-year figures, refer to the [Tokyo Shobo Shinkumi official disclosure booklet](https://www.shoubou.co.jp/profile/report.html) (FY2024  full year = as of 2025-03-31, etc., image PDF) + [[banking/credit-cooperative-registry-japan|FSA信用組合免許一覧]]. As an occupation-based shinkumi, it is a small-scale institution with total assets below 1,000 億円.
+Sources: The latest KPIs are updated in the Tokyo Fire Department Credit Union's official management report, and corporate identification information is updated in the Financial Services Agency's list of credit union licenses. The 2022 values ​​derived from secondary sources in the previous edition and the scale assessment derived from them have been withdrawn. ^[Sources: https://www.shoubou.co.jp/profile/report.html; https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx.]
 
 ## 6. Supervision / regulation
 
@@ -108,7 +107,6 @@ As an occupation-based shinkumi, membership eligibility is strictly **limited to
 ## Sources
 
 - **Tokyo Fire Department Credit Cooperative official "Management Report" (list of disclosure booklets)**: https://www.shoubou.co.jp/profile/report.html — disclosure booklets for FY2024  full year (2025-03-31), FY2025  first half (2025-09-30), etc. (image PDF)
-- **Wikipedia "Tokyo Fire Department Credit Cooperative" basic information (as of 2022-03-31)**: https://ja.wikipedia.org/wiki/東京消防信用組合 — total assets 884.69 億円, deposits 733.46 億円, loans 402.93 億円, net assets 56.74 億円, branches 3, officers and staff 37 名, established 1954-01-18
 - **FSA list of credit-cooperative licenses**: https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx (corporate number 2010005002121,  registry No. 49)
 - **National Central Society of Credit Cooperatives**: https://www.shinyokumiai.or.jp/
 - **Zenshinkumiren (National Federation of Credit Cooperatives) official**: https://www.zenshinkumiren.jp/
@@ -120,4 +118,4 @@ As an occupation-based shinkumi, membership eligibility is strictly **limited to
 ---
 
 > [!info] Verification status
-> confidence: **likely**. The corporate number, registry No., and head-office location (inside the Tokyo Fire Department) derived from the FSA registry are ^[extracted] (public information). Total assets, deposits, loans, net assets, branches, and the number of officers and staff are confirmed via **Wikipedia basic information (2022-03-31)** (replacing prior rough estimates with actual figures; for the latest, the official disclosure booklet). It was added in the Wave 13  expansion as a representative anchor of an occupation-based shinkumi for fire-department employees. The specific division of roles with the mutual-aid association is unconfirmed and is therefore isolated in `.opinions/JapanFG/tokyo-shobo-shinkumi.md`.
+> confidence: **likely**. Corporate number, registered jurisdiction, and head office location are based on the Financial Services Agency directory, and the latest KPIs are based on official management reports. KPIs and scale comparisons derived from secondary materials in the previous version have been deleted. The specific division of roles with the mutual aid association has not been confirmed and cannot be determined.

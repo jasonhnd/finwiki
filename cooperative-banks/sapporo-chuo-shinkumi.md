@@ -6,8 +6,8 @@ aliases:
   - "Sapporo Chuo Credit Co-operative"
 domain: cooperative-banks
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
 review_by: 2026-11-25
 confidence: likely
 tags: [JapanFG, shinkumi, credit-cooperative, cooperative-banking, hokkaido, sapporo, regional-shinkumi, operating-company]
@@ -95,6 +95,8 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as a *
 | 店舗数 | 14 店 (2025-03-31) | 札幌中央信組 公式組合概要 |
 | 役職員数 | 124 名 (2025-03-31) | 札幌中央信組 公式組合概要 |
 | 組合員数 | 公式組合概要に非掲載 (要ディスクロージャー誌) | 札幌中央信組 公式組合概要 |
+
+Sources: [札幌中央信用組合「組合概要」](https://www.sa-chushin.shinkumi.jp/04outline/profile/index.html)（2025-03-31 現在）。
 
 > 注: 上記は **札幌中央信用組合 公式「組合概要」(2025 年 3 月 31 日現在)** に基づく確定値。総資産・組合員数は同概要に未掲載のため、[[banking/credit-cooperative-registry-japan|FSA信用組合免許一覧]] + 札幌中央信組ディスクロージャー誌を参照。
 

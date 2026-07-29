@@ -8,8 +8,8 @@ aliases:
   - "労働金庫連合会"
 domain: cooperative-banks
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-29
+last_tended: 2026-07-29
 review_by: 2026-11-16
 confidence: likely
 tags: [JapanFG, cooperative-banking, central-institution]
@@ -43,6 +43,8 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read 
 | 設立 | 1955年3月23日 |
 | 会員 | 全国 13 の労働金庫 |
 | 所在地 | 東京都千代田区内神田 |
+
+Sources: [労働金庫連合会「労金連のプロフィール」](https://www.rokinren.com/about/profile.html)。
 
 公式プロフィールでは、2025-03-31 時点で資金量 6兆2,093億円、貸出金残高 9,925億円、自己資本比率 15.83% とされる。出資金は 1,600億円、常勤役職員数は 417人。
 

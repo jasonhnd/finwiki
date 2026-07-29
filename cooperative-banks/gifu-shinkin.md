@@ -3,15 +3,14 @@ title: "岐阜信用金庫"
 aliases: ["Gifu Shinkin Bank", "岐阜信金", "ぎふしん", "ぎしん", "信金"]
 domain: cooperative-banks
 created: 2026-06-03
-last_updated: 2026-06-03
-last_tended: 2026-06-03
-review_by: 2026-12-03
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, shinkin, cooperative-banking, gifu, chubu, operating-company]
 status: active
 sources:
   - "https://www.gifushin.co.jp/"
-  - "https://ja.wikipedia.org/wiki/岐阜信用金庫"
   - "https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx"
   - "https://www.shinkin-central-bank.jp/"
 ---
@@ -20,11 +19,11 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read it against [[cooperative-banks/okazaki-shinkin|岡崎信用金庫]] and [[cooperative-banks/hamamatsu-iwata-shinkin|浜松磐田信用金庫]] for peer / contrast context inside the Chubu shinkin block (岐阜信用金庫 is the third-largest Chubu shinkin by deposits, behind those two), and against [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] for the broader system / regulatory boundary maintained by [[cooperative-banks/shinkin-central|信金中央金庫]].
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read it against [[cooperative-banks/okazaki-shinkin|岡崎信用金庫]] and [[cooperative-banks/hamamatsu-iwata-shinkin|浜松磐田信用金庫]] for peer / contrast context inside the Chubu shinkin block, and against [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] for the broader system / regulatory boundary maintained by [[cooperative-banks/shinkin-central|信金中央金庫]].
 
 ## TL;DR
 
-岐阜信用金庫（ぎふしん）は、岐阜県岐阜市神田町に本店を置く、岐阜県全域と愛知県北部を主たる営業地盤とする大手地方信用金庫。1924 年創業の歴史を持ち、預金規模は 2 兆円超で、全国でも最大規模・中部地区では第 3 位クラスの協同組織金融機関。岐阜県内の中小企業向け融資、住宅ローン、個人預金を中核業務とする。
+岐阜信用金庫（ぎふしん）は、岐阜県岐阜市神田町に本店を置き、岐阜県と愛知県内の公式営業地区を地盤とする信用金庫。1924 年創業で、岐阜県内の中小企業向け融資、住宅ローン、個人預金を中核業務とする。
 
 ## 1. License / group boundary
 
@@ -34,19 +33,21 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read 
 | Establishment | 1924 年（信用金庫法施行後の 1951 年に信用金庫へ改組） |
 | License route | 信用金庫法 / FSA 信用金庫免許一覧 |
 | Group boundary | Member of [[cooperative-banks/shinkin-central|信金中央金庫]] cooperative system |
-| Home market | 岐阜県全域 + 愛知県北部（店舗網 89 拠点規模） |
-| Wiki role | Gifu/Chubu 大手 shinkin operating-company anchor page |
+| Home market | 岐阜県・愛知県内の公式営業地区（現行店舗一覧で確認） |
+| Wiki role | Gifu/Chubu shinkin operating-company anchor page |
 | Supervisory bureau | 東海財務局 |
+
+Sources: 正式名、法人番号、本店所在地、免許名簿上の存在は金融庁一覧、設立・営業地区・店舗情報は岐阜信用金庫の公式サイトで確認する。旧版の無基準日店舗概数は撤回した。 ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx; https://www.gifushin.co.jp/.]
 
 ## 2. Operating model
 
-岐阜信用金庫は、岐阜市・大垣・各務原ほか岐阜県内および愛知県北部の中小企業（製造業・卸売・小売・サービス業・個人事業主）向けの SME 融資・運転資金・設備資金、住宅ローン、個人預金を中核業務とする。岐阜県の中小企業金融市場では、地銀の [[regional-banks/juroku-bank|十六銀行]]（[[regional-banks/juroku-fg|十六 FG]] 傘下）や [[regional-banks/ogaki-kyoritsu-bank|大垣共立銀行]] と並走する協同組織側の最大手アンカー。中部地区の shinkin landscape では [[cooperative-banks/okazaki-shinkin|岡崎信用金庫]]・[[cooperative-banks/hamamatsu-iwata-shinkin|浜松磐田信用金庫]] に次ぐ預金規模で、岐阜・愛知北部を地理的に分担する。
+岐阜信用金庫は、公式営業地区内の中小企業（製造業・卸売・小売・サービス業・個人事業主）向け融資、住宅ローン、個人預金を中核業務とする。岐阜県の中小企業金融市場では、地銀の [[regional-banks/juroku-bank|十六銀行]]（[[regional-banks/juroku-fg|十六 FG]] 傘下）や [[regional-banks/ogaki-kyoritsu-bank|大垣共立銀行]] と異なる協同組織金融の位置を占める。
 
 ## 3. Why this page matters
 
 - 岐阜県中小企業金融の協同組織側キープレイヤーの operating-company entry。
 - [[regional-banks/juroku-bank|十六銀行]] / [[regional-banks/ogaki-kyoritsu-bank|大垣共立銀行]] との市場棲み分け（株式会社地銀 vs 協同組織信用金庫）のアンカー。
-- 中部地区 shinkin deposits 上位（岡崎・浜松磐田に次ぐ第 3 位クラス）の大手信用金庫ケース。
+- 岐阜・愛知にまたがる営業地区を持つ信用金庫のケース。
 
 ## Related
 
@@ -64,5 +65,4 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read 
 
 - FSA: 信用金庫免許一覧 (latest snapshot per FSA registry): https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx
 - 岐阜信用金庫 公式サイト: https://www.gifushin.co.jp/
-- 岐阜信用金庫 (Wikipedia 日本語版): https://ja.wikipedia.org/wiki/岐阜信用金庫
 - 信金中央金庫 cooperative system context: https://www.shinkin-central-bank.jp/

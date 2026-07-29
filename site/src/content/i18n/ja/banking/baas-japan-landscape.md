@@ -1,11 +1,12 @@
 ---
 source: banking/baas-japan-landscape
-source_hash: 5483848c42f6a179
+source_hash: bdb646870885f3e9
 lang: ja
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "日本の BaaS の全体像"
-translated_at: 2026-06-02T11:47:37.263Z
+translated_at: 2026-07-29T03:30:48.090Z
 ---
 
 # 日本の BaaS の全体像
@@ -49,6 +50,8 @@ BaaS は銀行にとっては顧客獲得戦略であり、プラットフォー
 | AML / 不正監視 | 組込 UX は銀行水準の監視義務を取り除くものではない |
 | 責任境界 | ユーザーに見えるブランドと、規制対象のサービス提供者は異なりうる |
 
+出典: この表は役割の境界をまとめたものです。銀行免許のステータスと電子決済機関のステータスは、現在の FSA 登録簿と照合する必要があります。みんな銀行のページでは、公開されている独自のBaaSモデルとパートナーのみをサポートしています。 ^[Sources: https://www.fsa.go.jp/menkyo/menkyo.html; https://www.fsa.go.jp/common/shinsei/dendai/index.html; https://baas.minna-no-ginko.com/; https://www.minna-no-ginko.com/alliance-service/.]
+
 ## 関連項目
 
 - [[banking/minna-bank-baas-model]]
@@ -65,3 +68,4 @@ BaaS は銀行にとっては顧客獲得戦略であり、プラットフォー
 - FFG IR Day, 2025-09-08: みんなの銀行の事業戦略。
 - みんなの銀行: 提携サービス / BaaS 概要。
 - 金融庁: 免許・許可・登録等を受けている事業者一覧。
+- 金融庁: 電子決済等代行業者の登録・届出制度.

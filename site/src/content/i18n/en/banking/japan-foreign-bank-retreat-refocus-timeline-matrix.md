@@ -1,22 +1,23 @@
 ---
 source: banking/japan-foreign-bank-retreat-refocus-timeline-matrix
-source_hash: 31567b59e030a83a
+source_hash: 4116ae249e347b94
 lang: en
+model: source-language-sync
 status: machine
 fidelity: ok
 title: "Japan foreign-bank retreat and refocus timeline matrix"
-translated_at: 2026-07-28T18:19:40Z
+translated_at: 2026-07-29T03:30:48.106Z
 ---
 
 # Japan foreign-bank retreat and refocus timeline matrix
 
 ## TL;DR
 
-Foreign banks did not "leave Japan" between 2000-2026. They **narrowed**. The retail-heavy presence that several global banks built up in the 1980s-2000s gave way to a focused mix of corporate banking, markets, custody / asset-servicing, ICSD gateway, wealth management (often via Japanese JV), and Asia-corridor branches. This matrix puts each major foreign-bank parent on the same timeline, with **peak Japan footprint year**, **retreat / inflection triggers** (Lehman 2008, Mizuho-related dispute, AML enforcement, China-exposure pivot, ESG, 2023 CS / Russia exits), **current footprint** (CY 2024-2026), **current segment mix**, and **planned exit / reorg**. It is the cross-corridor counterpart to [[banking/foreign-bank-japan-retreat|Foreign-bank Japan retreat pattern]] (the qualitative pattern map) and [[foreign-financial-institutions/foreign-bank-branches-japan-index|Foreign bank branches in Japan registry index]] (the FSA 57-row registry surface).
+“A foreign bank left Japan” can refer to a retail-service closure, a legal-entity exit, a business-line transfer, or a global-parent merger. Those are different events. This page limits its timeline to changes supported by an official registry, regulator, or announcement by the parties. It does not assign unsupported “peak years”, rank expansion / retreat, or forecast future exits.
 
 ## Wiki route
 
-This entry sits under [[banking/INDEX|banking index]]. Read it with the qualitative pattern at [[banking/foreign-bank-japan-retreat|Foreign-bank Japan retreat pattern]], the licence-tier context at [[banking/japan-banking-license-tier-comparison-matrix|Japan banking-license tier comparison matrix]] (Tier 6 = foreign-bank branch), the FSA branch registry at [[foreign-financial-institutions/foreign-bank-branches-japan-index|Foreign bank branches in Japan registry index]], the custody-side comparison at [[banking/japan-trust-bank-vs-global-custodian-comparison-matrix|Japan trust bank vs global custodian comparison matrix]] (which covers the [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon]] / [[foreign-financial-institutions/state-street-japan|State Street]] / [[foreign-financial-institutions/jpmorgan-japan|JPMorgan]] / [[foreign-financial-institutions/citigroup-japan|Citi]] custody axis specifically), and the Asia / Korea / China / EM corridor entries at [[banking/INDEX|banking index]].
+This entry sits under [[banking/INDEX|banking index]]. Read it with the qualitative pattern at [[banking/foreign-bank-japan-retreat|Foreign-bank Japan retreat pattern]], the licence-tier context at [[banking/japan-banking-license-tier-comparison-matrix|Japan banking-license tier comparison matrix]] (Tier 6 = 外国銀行支店), the FSA branch registry at [[foreign-financial-institutions/foreign-bank-branches-japan-index|Foreign bank branches in Japan registry index]], the custody-side comparison at [[banking/japan-trust-bank-vs-global-custodian-comparison-matrix|Japan trust bank vs global custodian comparison matrix]] (which covers the [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon]] / [[foreign-financial-institutions/state-street-japan|State Street]] / [[foreign-financial-institutions/jpmorgan-japan|JPMorgan]] / [[foreign-financial-institutions/citigroup-japan|Citi]] custody axis specifically), and the Asia / Korea / China / EM corridor entries at [[banking/INDEX|banking index]].
 
 The foreign-bank parent and Japan-entity pages referenced here are: US (Citi, JPM, GS, MS, BofA, Wells, [[foreign-financial-institutions/state-street-japan|State Street]], [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon]], [[foreign-financial-institutions/rbc-japan|RBC]]), EU (BNP, SG, CACIB, Deutsche, [[foreign-financial-institutions/commerzbank-japan|Commerz]], [[foreign-financial-institutions/ubs-japan|UBS]], former CS into UBS, Barclays, [[foreign-financial-institutions/standard-chartered-japan|StanChart]], [[foreign-financial-institutions/ing-bank-japan|ING]], [[foreign-financial-institutions/natixis-japan|Natixis]], [[foreign-financial-institutions/intesa-sanpaolo-japan|Intesa]]), Asia ([[foreign-financial-institutions/hsbc-japan|HSBC]], [[foreign-financial-institutions/dbs-bank-japan|DBS]], [[foreign-financial-institutions/ocbc-bank-japan|OCBC]], [[foreign-financial-institutions/uob-bank-japan|UOB]]).
 
@@ -37,167 +38,102 @@ Without a timeline view the retreat narrative becomes either too dramatic ("fore
 
 ## Cross-parent comparison matrix (US + EU + Asia)
 
-| Parent bank | Region | Peak Japan footprint (year) | Current footprint (CY 2024-2026) | Retreat / inflection triggers | Current segments | Planned exits / reorg |
-|---|---|---|---|---|---|---|
-| JPMorgan Chase ([[foreign-financial-institutions/jpmorgan-japan\|JPMorgan Japan]]) | US | 2007-08 (before CIB peak) → continued expansion | 4corporate (securities / NA Tokyo branch / AM / trust) | Global CIB expansion period; Japan on an expansion trend (G-SIB Bucket 3) | CIB / IB / markets / custody / AM / Securities Services | Not a contraction but concentrated expansion in Securities Services |
-| Goldman Sachs ([[securities-firms/goldman-sachs-japan\|GS Japan]]) | US | 2007 (IB expansion) | GS Securities / GS Bank Tokyo branch / GSAM / Realty | Global IB expansion period + reconsolidation after the 2008 financial crisis; Japan maintained as an IB core base | IB / markets / AM / Realty / private credit | Not a contraction but expansion in PIA / private credit |
-| Morgan Stanley ([[securities-firms/morgan-stanley-japan\|MS Japan]]) | US | 2007 | MUMSS + MSMS (MUFG JV 2010-05〜) + MUMSS research + MS Capital | 2008-09 MUFG strategic alliance (acquired ~20% of common shares → 24%expansion phase) → 2010-05 integration of the Japan securities business | MUMSS = face-to-face + ECM/DCM; MSMS = wholesale IB / markets | Not a contraction but continued integrated operation of IB with the Japanese bank |
-| Bank of America ([[foreign-financial-institutions/bank-of-america-japan\|BofA Japan]]) | US | 2007-08 (global CIB) | BofA Securities + BofA NA Tokyo branch (established 1947 ) | IB reconsolidation via the global Merrill integration (2009); Japan base maintained | corporate banking / IB / markets / custody / FX | Not a contraction but maintaining Japan inbound corporate banking |
-| Wells Fargo ([[foreign-financial-institutions/wells-fargo-japan\|Wells Fargo Japan]]) | US | mid-2010s (after strategic acquisitions) | Wells Fargo NA Tokyo branch (corporate-specialized, no retail) | The 2016 fake-accounts scandal → Federal Reserve asset cap (2018-2024+); Japan was inherently niche wholesale | corporate banking / transaction services / FX / trade finance | Not a contraction but in step with the US parent's restart |
-| State Street ([[foreign-financial-institutions/state-street-japan\|State Street Japan]]) | US | structural expansion (era of expanding overseas management of public pensions) | State Street Trust Bank + foreign-bank branch (global custody JP) | Structural expansion, especially GPIF overseas-management expansion + passive ETF expansion | custody / fund admin / SSGA ETF | Not a contraction but a trend of expanding global AUC/A |
-| BNY Mellon ([[foreign-financial-institutions/bny-mellon-japan\|BNY Mellon Japan]]) | US | structural expansion (global AUC/A ~$50tn) | BNY Trust Bank + foreign-bank branch + AM JP | Structural expansion (the world's largest custodian) | custody / Securities Services / ADR | Not a contraction but an expansion trend |
-| RBC ([[foreign-financial-institutions/rbc-japan\|RBC Japan]]) | US/Canada | base expansion in the 2010s | RBC Capital Markets + foreign-bank branch | Structurally niche; concentrated on Japan IB / markets | IB / markets / institutional investors | Not a contraction but maintaining niche |
-| BNP Paribas ([[foreign-financial-institutions/bnp-paribas-japan\|BNP Paribas Japan]]) | EU | structural long-term growth | BNP Bank Tokyo branch + BNP Securities + BNP AM + Cardif life/non-life (axed on 4 ) | Yokohama opened 1867  (CEP) → postwar reopening → continued expansion in the 1990s-2010s; G-SIB Bucket 2 | CIB / IPS / custody / insurance (Cardif) | Not a contraction but an expansion trend (about 700 名) |
-| Credit Agricole CIB ([[foreign-financial-institutions/credit-agricole-bank-japan\|CACIB Japan]]) | EU | 2007 | CACIB Tokyo branch | Global CIB concentration; Japan is a European corporate-banking position | corporate banking / project finance / trade | Not a contraction but maintaining a mid-scale presence |
-| Deutsche Bank ([[foreign-financial-institutions/deutsche-japan\|Deutsche Japan]]) | EU | 2007 (IB / markets peak) | Deutsche Tokyo branch + Deutsche Securities + DWS Japan (PB) | 2016-2019 management difficulties; **2019-07 large-scale global IB restructuring (18,000  cut worldwide)** → Japan IB / equities contraction | IB (concentrated on bonds / FX) / DWS / private banking | Global bond / FX pivot completed. Equity IB significantly reduced |
-| UBS ([[foreign-financial-institutions/ubs-japan\|UBS Japan]]) | EU (Swiss) | structural expansion + **2023-06 CS integration** | UBS Securities + UBS Bank Tokyo branch + UBS AM + UBS SuMi TRUST WM (SMTB JV, UBS 51%/SMTB 49%) | 2008 huge subprime losses → Swiss government rescue; 2014 SMTB JV PB; **2023-06 completed the emergency acquisition of CS** → integrated with the former CS Japan bases | GWM / IB / markets / AM / PB | Integration of former CS Japan bases completed; gradual contraction of non-core / legacy |
-| Credit Suisse → UBS | EU (Swiss) | 2007-08 (former CS Japan IB peak) | Integrated into UBS (former CS corporation extinguished) | 2023-03-19 CS management crisis (AT1 ~160 億 CHF written down to zero) → 2023-06 completed UBS emergency acquisition | n/a (after UBS integration) | Integration of the former CS corporation completed |
-| Standard Chartered ([[foreign-financial-institutions/standard-chartered-japan\|StanChart Japan]]) | EU (UK) | 2008-10 (Asia emerging-market corridor expansion) | StanChart Tokyo branch | Asia emerging-market corridor orientation; Japan is a corridor anchor | Asia emerging-market corridor / trade / FX / corporate banking | Not a contraction but an Asia corridor strategy |
-| ING Bank ([[foreign-financial-institutions/ing-bank-japan\|ING Bank Japan]]) | EU (NL) | 2007 (IB peak) | ING Bank Tokyo branch (corporate-specialized) | 2008 Dutch government rescue → 2009 global-investment-banking contraction (sold NN life / US assets) → Japan too concentrated on corporate-specialization | corporate banking / trade / FX | Maintaining the corporate-specialized form |
-| Natixis ([[foreign-financial-institutions/natixis-japan\|Natixis Japan]]) | EU (FR) | 2007 | Natixis Tokyo branch | Global CIB consolidation cycle; Japan is niche corporate / structured | corporate banking / structured / project finance | Synchronized with the global strategy |
-| Intesa Sanpaolo ([[foreign-financial-institutions/intesa-sanpaolo-japan\|Intesa Japan]]) | EU (IT) | 2007 (after the former Banca Intesa + SanPaolo IMI integration) | Intesa Tokyo branch | Structurally concentrated in the European home country; Japan is corporate banking | corporate banking / trade / support for companies entering Italy | Maintaining a mid-scale presence |
-| HSBC ([[foreign-financial-institutions/hsbc-japan\|HSBC Japan]]) | Asia (UK / HK) | 2007-11 (HSBC Premier retail peak; Tokyo, Osaka, Nagoya, Fukuoka) | HSBC Tokyo branch + HSBC Securities + HSBC AM + HSBC Trust (contracted) | **2012-03 HSBC Premier retail withdrawal** → transferred to SBI Trust, etc.; 2015 Asia-Pacific pivot strategy | corporate banking / institutional investors / trade / FX / IB | Complete retail withdrawal; continued strengthening of wholesale |
-| DBS ([[foreign-financial-institutions/dbs-bank-japan\|DBS Japan]]) | Asia (SG) | expansion trend | DBS Tokyo branch (opened 1977 ) | Asia corridor expansion; Japan is corporate / institutional banking | corporate banking / institutional investors / trade / Asia corridor | Not a contraction but expansion |
-| OCBC ([[foreign-financial-institutions/ocbc-bank-japan\|OCBC Japan]]) | Asia (SG) | expansion trend | OCBC Tokyo branch | Asia corridor expansion | corporate banking / trade / corridor | Not a contraction but expansion |
-| UOB ([[foreign-financial-institutions/uob-bank-japan\|UOB Japan]]) | Asia (SG) | expansion trend | UOB Tokyo branch | Asia corridor expansion | corporate banking / trade / corridor | Not a contraction but expansion |
+| Comparison target | Current-status source | Historical-change source | Publication rule |
+|---|---|---|---|
+| Foreign-bank branch | Current FSA bank workbook | Regulator or bank closure / transfer notice | A branch registration is not proof that every historical business line remains active |
+| Securities company | Current FSA financial-instruments register | Dated company / counterparty announcement | Do not combine a branch and securities company into one licence |
+| Trust bank / asset manager | Relevant current FSA register | Dated entity or group announcement | Treat each legal entity separately |
+| Retail-service exit | Bank customer notice plus transferee announcement | Preserve announcement and completion dates | Distinguish service closure from group exit |
+| Joint venture | Parties' official announcement and current corporate profile | Record ownership and effective date as disclosed | Do not infer permanence or future strategy |
+| Parent merger | Acquirer / target completion announcement | Japan integration requires a separate Japan-specific source | Parent completion does not prove every local legal entity is already merged |
+
+Sources: ^[FSA licensed-bank register, https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx; official MUFG / Morgan Stanley, HSBC, SMBC, and UBS announcements listed in the frontmatter.]
 
 ## Timeline of major Japan-presence inflections (2000-2026)
 
-| Year | Event | Bank | Type |
+| Date | Verified event | What the primary source establishes | Classification |
 |---|---|---|---|
-| 2000-2007 | Global CIB / IB expansion period | All | Pre-Lehman expansion |
-| 2002 | Goldman Sachs Bank Tokyo branch obtained a license | GS | Banking-license expansion |
-| 2008-09 | Lehman collapse → global financial crisis | All | Sector-wide |
-| 2008-09 | **MUFG acquired ~20% of Morgan Stanley common stock (strategic alliance)** | MS | Restructuring / strategic alliance |
-| 2008-11 | Citigroup TARP capital injection → de facto nationalization phase | Citi | Crisis-response |
-| 2008-09 | ING Dutch government rescue → start of global-investment-banking contraction | ING | Crisis-response → refocus |
-| 2009 | US Bank of America: Merrill Lynch integration (completed 2009-01 ) | BofA | IB consolidation |
-| 2009-10 | **Citigroup sold Nikko Cordial Securities to SMFG** | Citi | Brand exit (Japan IB) |
-| 2010-05 | **Morgan Stanley + MUFG: integration of the Japan securities business → the MUMSS + MSMS 2社structure** | MS | JV refocus |
-| 2012-03 | **HSBC Premier retail withdrawal from Japan** → customers transferred to SBI Trust Bank, etc. | HSBC | Retail exit |
-| 2013-14 | UBS / Barclays / CS global equity-IB headcount contraction | Multiple | Sector-wide reorganisation |
-| 2014-09 | **Citibank Bank retail → SMBC Trust Bank sale announced** | Citi | Retail exit |
-| 2014 | UBS and [[trust-banks/sumitomo-mitsui-trust|SMTB]] established a PB JV (UBS SuMi TRUST WM) | UBS | Refocus + JV |
-| 2015-11 | Citibank Bank retail sale completed → SMBC Trust PRESTIA brand continues | Citi | Retail exit completion |
-| 2016 | Wells Fargo fake-accounts scandal exposed → US Federal Reserve asset cap (2018-2024+) | Wells | Parent crisis |
-| 2016-17 | Barclays global Asia equity contraction | Barclays | Refocus |
-| 2018-03 | Deutsche AM (now DWS) Frankfurt IPO | Deutsche | Subsidiary IPO |
-| 2019-07 | **Deutsche Bank large-scale global IB restructuring (18,000  cut worldwide announced)** → equity-IB withdrawal | Deutsche | Global reorg → Japan impact |
-| 2020 (at various points) | Each bank built an ESG / Sustainable Finance Japan structure | Multiple | Sector trend |
-| 2020-2022 | COVID + US-China confrontation + rethinking of the Asia business structure | Multiple | Macro / geopolitics |
-| 2022-03 | Russia-Ukraine invasion → each bank withdrew from its Russia business (indirect impact on Japan bases) | Multiple | Russia exit |
-| 2023-03-19 | **CS management crisis: AT1 ~160 億 CHF written down to zero** | CS | Parent crisis |
-| 2023-06-12 | **Completed UBS emergency acquisition of the former CS (acquisition consideration ~30 億 CHF, 1 shares: UBS 1/22.48 shares)** | UBS / CS | Global merger |
-| 2024 | UBS continued the integration work with the former CS Japan bases | UBS | Post-merger integration |
-| 2024 | Moves toward lifting the Wells Fargo US Federal Reserve asset cap | Wells | Parent recovery |
-| 2024-26 | FSA foreign-bank supervision: AML / suspicious-transaction / governance strengthening updates | All | Regulatory continuous |
+| 2010-05 | MUFG and Morgan Stanley launched their Japanese securities joint-venture structure | Parties' announcement identifies the two-company structure and effective date | Joint venture / business transfer |
+| 2012 | HSBC ended its personal-customer business in Japan | HSBC customer notice confirms the service closure | Retail-service exit, not proof of wholesale exit |
+| 2015-11 | SMBC Trust began the PRESTIA business after the Citibank Japan retail transfer | SMFG history records the completed transfer and brand start | Completed retail-business transfer |
+| 2023-06-12 | UBS completed the acquisition of Credit Suisse | UBS announcement confirms parent acquisition completion | Parent merger |
+| 2024-04 | UBS announced integration of Credit Suisse Securities' Japan wealth-management business | UBS Japan announcement identifies the local integration step | Japan business integration |
+| Current snapshot | Foreign-bank branch registrations | FSA workbook identifies registered branches on the retrieval date | Regulatory-presence snapshot |
+
+Sources: ^[MUFG / Morgan Stanley joint-venture announcement, https://www.mufg.jp/dam/pressrelease/2010/pdf/pressrelease-20100428-001_en.pdf; HSBC personal-customer notice, https://www.hsbc.co.jp/ja-jp/hsbc-personal-customer; SMFG history, https://www.smfg.co.jp/english/chronicle20/history20/section2203.html; UBS acquisition and Japan integration announcements, https://www.ubs.com/global/tc/media/display-page-ndp/ja-20230612-ubs-credit-suisse-acquisition.html, https://www.ubs.com/global/en/media/display-page-ndp/ja-20240408-integration-of-credit-suisse-securities-en.html.]
 
 ## Segment-level current state (2024-2026)
 
-| Segment | Foreign-bank players actively present in Japan | Notes |
+| Segment claim | Current evidence required | What not to infer |
 |---|---|---|
-| **Corporate banking (wholesale)** | [[foreign-financial-institutions/citigroup-japan\|Citi]] / [[foreign-financial-institutions/jpmorgan-japan\|JPM]] / [[foreign-financial-institutions/bank-of-america-japan\|BofA]] / [[foreign-financial-institutions/wells-fargo-japan\|Wells]] / [[foreign-financial-institutions/bnp-paribas-japan\|BNP]] / [[foreign-financial-institutions/socgen-japan\|SG]] / [[foreign-financial-institutions/credit-agricole-bank-japan\|CACIB]] / [[foreign-financial-institutions/deutsche-japan\|Deutsche]] / [[foreign-financial-institutions/commerzbank-japan\|Commerz]] / [[foreign-financial-institutions/ing-bank-japan\|ING]] / [[foreign-financial-institutions/natixis-japan\|Natixis]] / [[foreign-financial-institutions/intesa-sanpaolo-japan\|Intesa]] / [[foreign-financial-institutions/standard-chartered-japan\|StanChart]] / [[foreign-financial-institutions/hsbc-japan\|HSBC]] | The 1980s-vintage core. Stable in count, narrower per-bank scope |
-| **Markets / IB** | [[securities-firms/goldman-sachs-japan\|GS]] / [[securities-firms/morgan-stanley-japan\|MS]] (via MUMSS / MSMS) / [[foreign-financial-institutions/jpmorgan-japan\|JPM]] / [[foreign-financial-institutions/citigroup-japan\|Citi]] / [[foreign-financial-institutions/bnp-paribas-japan\|BNP]] / [[foreign-financial-institutions/socgen-japan\|SG]] / [[foreign-financial-institutions/deutsche-japan\|Deutsche]] (debt / FX) / [[foreign-financial-institutions/barclays-japan\|Barclays]] / [[foreign-financial-institutions/ubs-japan\|UBS]] (post-CS) | Cyclical concentration; equity-IB cuts hit Deutsche, Barclays, CS most |
-| **Wealth / private banking** | [[foreign-financial-institutions/ubs-japan\|UBS]] (via [[trust-banks/sumitomo-mitsui-trust\|SMTB]] JV) / [[foreign-financial-institutions/credit-agricole-bank-japan\|CACIB]] PB / [[foreign-financial-institutions/hsbc-japan\|HSBC]] (institutional only after 2012); Citi PB exit completed 2015-11 via PRESTIA | Most foreign retail / mass-PB has exited; remaining is institutional-grade or JV-structured |
-| **Custody / asset-servicing** | [[foreign-financial-institutions/bny-mellon-japan\|BNY Mellon]] + [[foreign-financial-institutions/state-street-japan\|State Street]] + [[foreign-financial-institutions/jpmorgan-japan\|JPM]] + [[foreign-financial-institutions/citigroup-japan\|Citi]] (4 cluster) | Highly concentrated; only 4 globally meaningful players in Japan custody — see [[banking/japan-trust-bank-vs-global-custodian-comparison-matrix\|trust-bank vs global-custodian matrix]] |
-| **ICSD gateway** | Euroclear Japan / Clearstream Japan | The cross-border-settlement infrastructure that domestic [[trust-banks/master-trust-bank\|MTBJ]] / [[trust-banks/custody-bank\|CBJ]] sub-custody routes terminate into |
-| **Asia corridor branches (SE Asia)** | [[foreign-financial-institutions/dbs-bank-japan\|DBS]] / [[foreign-financial-institutions/ocbc-bank-japan\|OCBC]] / [[foreign-financial-institutions/uob-bank-japan\|UOB]] / Bangkok Bank / Bank of Taiwan / [[foreign-financial-institutions/standard-chartered-japan\|StanChart]] | Expanding category — opposite direction from US / EU retail retreat |
-| **China / Mainland branches** | Bank of China / ICBC / China Construction Bank / Agricultural Bank of China / Bank of Communications (5 PRC banks active) | Maintained for RMB / China-Japan trade-settlement use |
-| **Korea / Asia corporate** | Woori, Hana, KB Kookmin, KDB, IBK | Active corporate / corridor presence |
+| Corporate banking | Current branch registration plus the entity's current Japan service page | Registration alone does not prove every product is offered |
+| Markets / investment banking | Current securities registration plus the legal entity's service page | Parent-group capability is not automatically a Japan-entity capability |
+| Wealth / private banking | Current entity, licence, product page, and any JV disclosure | Historical retail presence is not current availability |
+| Custody / asset servicing | Entity service page and current infrastructure / licence evidence | Parent AUC does not establish Japan market share |
+| Asia-corridor banking | Current FSA branch registration and bank Japan page | Country of parent does not establish growth direction |
+
+Sources: ^[FSA licensed-bank register, https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx; current official Japan-entity pages.]
 
 ## Retreat / inflection trigger taxonomy
 
-| Trigger | Affected banks | Mechanism |
+| Event class | Evidence test | Classification rule |
 |---|---|---|
-| **Lehman 2008 / global financial crisis** | Citi, ING, UBS, Wells (later), Deutsche (later), CS (latest 2023), every G-SIB to some degree | Parent capital constraint → Japan operations rationalized |
-| **TARP / public capital** | Citi, BofA, GS, MS, Wells | US-side public capital recipients refocused; Japan presence usually preserved but narrower |
-| **MUFG-MS alliance** | MS (and indirectly all foreign equity IB) | Created the JV template (MUMSS / MSMS) that other foreign IBs do not have, raising the competitive barrier |
-| **HSBC Premier exit (2012-03)** | HSBC | Set the template "withdraw retail / Premier but keep wholesale" |
-| **Citi retail exit (2014-09 → 2015-11)** | Citi | Confirmed the pattern; SMBC Trust PRESTIA brand carries on |
-| **AML / FATF / suspicious-transaction enforcement** | All foreign branches | FSA AML / KYC supervision intensified through the 2010s-2020s. Foreign-bank branches must invest heavily in compliance infrastructure |
-| **Mizuho / Japanese-bank IT failures / trust-issue sector noise** | Indirect — affects all foreign IB-Japanese-bank relationship dynamics | Foreign banks reassess Japanese-bank partnership / DCM coverage allocation |
-| **China-exposure pivot / decoupling sentiment** | Several global banks (US, EU) | Asia HQ relocations away from HK toward SG; Japan benefit as Asia-treasury location |
-| **ESG / sustainable finance / climate disclosure** | All | New Japan-side disclosure / supervisor expectations (TCFD, etc.) |
-| **CS emergency rescue 2023-06 → UBS integration** | CS / UBS | Eliminated CS as a Japan IB brand; UBS expanded post-integration |
-| **2019-07 Deutsche IB restructuring** | Deutsche | Cut equity IB / Japan equity desk significantly |
-| **2016 Wells Fargo fake-accounts scandal → US Federal Reserve asset cap (2018-2024+)** | Wells | Constrained parent balance sheet → Japan presence stays niche |
-| **Barclays 2016-17 Asia equity contraction** | Barclays | Cut Asia equity but kept fixed-income / FX in Japan |
-| **GPIF overseas-management ratio increase (policy decision 2014-)** | BNY Mellon, State Street, JPM, Citi (custody) | Structurally expanded foreign-custodian Japan business — opposite direction from "retreat" |
+| Licence exit | Current and prior regulator registers or regulator notice | Use only when the legal entity / branch registration ended |
+| Retail-service exit | Customer notice and transfer / closure announcement | Do not call it a group exit if wholesale entities remain |
+| Business transfer / JV | Announcements by both parties and effective date | State which business and legal entity moved |
+| Parent merger | Acquirer / target completion announcement | Verify Japan integration separately |
+| Business-line reorganisation | Japan-specific entity announcement or filing | A global restructuring does not prove a Japan change by itself |
+| Current refocus claim | Same-period official service or segment disclosure | Avoid “expanded / narrowed” without comparable historical evidence |
+
+Sources: ^[Official MUFG / Morgan Stanley, HSBC, SMBC, UBS, and FSA materials listed in the frontmatter.]
 
 ### Citigroup → narrowest US retreat case ([[foreign-financial-institutions/citigroup-japan|Citigroup Japan]])
 
-- **1902** National City Bank Tokyo branch opened (one of the earliest foreign presences in Japanese banking history).
-- **1980s-2000s** Citibank Bank retail peak (24h ATMs / foreign-currency deposits / affluent retail).
-- **2007-08** Peak Japan presence: Nikko Cordial Securities (acquired 2007 ) + Citibank Bank retail + Citi corporate bank + Citi GTS.
-- **2008-11** TARP $25b injection → de facto nationalization phase.
-- **2009-10** Nikko → SMFG (now [[securities-firms/smbc-nikko-securities|SMBC 日興]]). Sale of Citi's largest Japan IB brand asset.
-- **2014-09 → 2015-11** Citibank Bank retail → [[trust-banks/smbc-trust-bank|SMBC 信託銀行]] (PRESTIA brand continues).
-- **Current (2024-2026)** corporate bank (NA Tokyo branch) + IB / markets (CGMJ) + GTS + custody. Complete retail withdrawal.
+SMBC's official announcement and group history document the acquisition and the November 2015 start of PRESTIA at [[trust-banks/smbc-trust-bank|SMBC Trust Bank]]. Current Citi legal entities and services must be checked separately in FSA registers and Citi's Japan pages. This evidence supports a completed retail-business transfer, not a blanket statement that the Citi group exited Japan. ^[Sources: https://www2.smbc.co.jp/news_e/html/e100119/e100119_01.html; https://www.smfg.co.jp/english/chronicle20/history20/section2203.html.]
 
 ### HSBC → retail exit template ([[foreign-financial-institutions/hsbc-japan|HSBC Japan]])
 
-- **1866** Yokohama branch opened (the year after HSBC's founding, one of the oldest foreign banks predating Japanese banks).
-- **1990s-2000s** HSBC Premier retail deployment (foreign expatriates in Japan + affluent customers).
-- **2007-11** Peak Premier bases (Tokyo + Osaka + Nagoya + Fukuoka).
-- **2012-03** HSBC Premier retail withdrawal from Japan → customers transferred to SBI Trust Bank, etc. Shift to corporate + institutional-investor service specialization.
-- **2015** Redefinition of Japan's role under the Asia-Pacific pivot strategy.
-- **Current (2024-2026)** Tokyo branch + securities company + AM + trust (contracted). No retail.
+HSBC's official customer notice documents the end of its Japan personal-customer business. Current wholesale entities and services require a fresh FSA-register and HSBC Japan check; the retail notice alone does not establish their scope. ^[Source: https://www.hsbc.co.jp/ja-jp/hsbc-personal-customer.]
 
 ### Credit Suisse → UBS absorption case ([[foreign-financial-institutions/ubs-japan|UBS Japan]])
 
-- **2007-08** CS Japan IB peak.
-- **2023-03-19** CS management crisis: AT1 ~160 億 CHF written down to zero, emergency rescue decided under the lead of the Swiss government / SNB / FINMA.
-- **2023-06-12** Completed UBS emergency acquisition (acquisition consideration ~30 億 CHF; CS 1 shares: UBS 1/22.48 shares).
-- **2024** Continued integration work between the former CS Japan bases (CS Securities) and UBS Securities.
-- **Current (2024-2026)** UBS integration: former CS corporation extinguished. UBS Japan = UBS Securities + UBS Bank Tokyo branch + UBS AM + [[trust-banks/sumitomo-mitsui-trust|SMTB]] JV (UBS SuMi TRUST WM, UBS 51% / SMTB 49%).
+UBS announced completion of the Credit Suisse acquisition on 2023-06-12. A separate 2024 UBS announcement documents a Japan wealth-management integration step. Those sources should be cited separately: parent acquisition completion does not by itself prove the status of every Japan legal entity or business line. ^[Sources: https://www.ubs.com/global/tc/media/display-page-ndp/ja-20230612-ubs-credit-suisse-acquisition.html; https://www.ubs.com/global/en/media/display-page-ndp/ja-20240408-integration-of-credit-suisse-securities-en.html.]
 
 ### Deutsche Bank → 2019 IB cuts cascade case ([[foreign-financial-institutions/deutsche-japan|Deutsche Japan]])
 
-- **1972** Tokyo branch opened.
-- **2007** Peak Japan IB / markets presence.
-- **2016-2019** Deutsche parent-company management difficulties (share-price bottom / dividend suspension / fines).
-- **2019-07** Large-scale global IB restructuring (18,000  cut worldwide). Japan equity IB / equity sales significantly reduced.
-- **Current (2024-2026)** Tokyo branch + Deutsche Securities (concentrated on bonds / FX) + DWS Japan (PB).
+Global-parent restructuring is not sufficient evidence of a Japan-specific desk closure. A Japan claim should be published only when Deutsche's Japan entity, a regulator filing, or another named primary source identifies the affected legal entity, business, and effective date.
 
 ### Asia banks expanding into Japan (opposite direction)
 
-- [[foreign-financial-institutions/dbs-bank-japan|DBS]] Tokyo branch (opened 1977 ) — Singapore wholesale corridor.
-- [[foreign-financial-institutions/ocbc-bank-japan|OCBC]] Tokyo branch — Singapore corridor.
-- [[foreign-financial-institutions/uob-bank-japan|UOB]] Tokyo branch — Singapore corridor.
-- [[foreign-financial-institutions/standard-chartered-japan|StanChart]] Tokyo branch — Asia EM corridor.
-- China-five (Bank of China / ICBC / CCB / ABC / BoComm) — RMB / Japan-China trade settlement.
+- [[foreign-financial-institutions/dbs-bank-japan|DBS]] 東京支店 (1977 開設) — Singapore wholesale corridor.
+- [[foreign-financial-institutions/ocbc-bank-japan|OCBC]] 東京支店 — Singapore corridor.
+- [[foreign-financial-institutions/uob-bank-japan|UOB]] 東京支店 — Singapore corridor.
+- [[foreign-financial-institutions/standard-chartered-japan|StanChart]] 東京支店 — Asia EM corridor.
+- China-five (Bank of China / ICBC / CCB / ABC / BoComm) — RMB / 日中貿易 settlement.
 
-These Asia / Asia-EM corridor banks are net expanders during the same 2000-2026 window, balancing the US / EU retail-retreat narrative.
+The current FSA register can establish which branches are registered on the retrieval date. It does not, without comparable historical figures, establish that the group expanded or contracted.
 
 ## How to read this matrix
 
-1. **Use peak-year as a baseline.** Most US / EU banks peaked 2007-08; the comparison is "what did the Japan footprint look like then" vs "what does it look like now".
-2. **Distinguish retreat from refocus.** Almost every bank in this matrix retained its FSA-licensed Japan presence. What changed was the segment mix and the brand surface.
-3. **Watch the Citi / HSBC retail template.** Both banks set the precedent for "withdraw retail / keep wholesale". This template is the single most over-cited "foreign banks left" reference but actually describes a brand-surface change, not a corporate exit.
-4. **Track the JV / strategic-alliance overlay.** [[securities-firms/morgan-stanley-japan|MS]] / MUFG via MUMSS + MSMS; [[foreign-financial-institutions/ubs-japan|UBS]] / [[trust-banks/sumitomo-mitsui-trust|SMTB]] via UBS SuMi TRUST WM. These JVs are deeply embedded — exits are structurally hard.
-5. **Cross-link with the custody matrix.** [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon]] / [[foreign-financial-institutions/state-street-japan|State Street]] / [[foreign-financial-institutions/jpmorgan-japan|JPM]] / [[foreign-financial-institutions/citigroup-japan|Citi]] custody is a separate axis with very different dynamics — see [[banking/japan-trust-bank-vs-global-custodian-comparison-matrix|trust-bank vs global-custodian matrix]]. GPIF overseas-management expansion is a tail-wind for all four.
-6. **Asia corridor banks are net expanders.** [[foreign-financial-institutions/dbs-bank-japan|DBS]] / [[foreign-financial-institutions/ocbc-bank-japan|OCBC]] / [[foreign-financial-institutions/uob-bank-japan|UOB]] + China five + Korea five do not fit the "retreat" narrative.
+1. Resolve the exact Japan legal entity and current registration.
+2. Classify the event as licence exit, service closure, business transfer, joint venture, or parent merger.
+3. Record announcement and effective dates separately.
+4. Use Japan-specific evidence for Japan business-line claims.
+5. Do not infer current product scope from a historical event or parent-group capability.
 
 ## Region-cluster overlay — US vs EU vs Asia
 
-| Cluster | Banks | Net direction 2000-2026 | Key driver |
-|---|---|---|---|
-| US Big 4 commercial banks | [[foreign-financial-institutions/citigroup-japan\|Citi]], [[foreign-financial-institutions/jpmorgan-japan\|JPM]], [[foreign-financial-institutions/bank-of-america-japan\|BofA]], [[foreign-financial-institutions/wells-fargo-japan\|Wells]] | Mixed: Citi narrowed (retail exit); JPM expanded (custody / CIB); BofA stable; Wells niche | Each parent followed distinct post-crisis trajectories |
-| US IB pure-plays | [[securities-firms/goldman-sachs-japan\|GS]], [[securities-firms/morgan-stanley-japan\|MS]] | Stable / refocused (MS-MUFG JV restructure 2010-05 + ongoing); GS maintained | IB core franchises preserved; MS deeply integrated into MUFG channel |
-| US custody / asset-servicing | [[foreign-financial-institutions/bny-mellon-japan\|BNY Mellon]], [[foreign-financial-institutions/state-street-japan\|State Street]] | Structurally expanding | GPIF overseas-management expansion + passive ETF; structural demand |
-| US niche / North American corridor | [[foreign-financial-institutions/wells-fargo-japan\|Wells]], [[foreign-financial-institutions/rbc-japan\|RBC]] | Stable niche | Parent-specific strategic positioning |
-| EU UK | [[foreign-financial-institutions/hsbc-japan\|HSBC]], [[foreign-financial-institutions/standard-chartered-japan\|StanChart]], [[foreign-financial-institutions/barclays-japan\|Barclays]] | HSBC retail exited (2012-03); StanChart corridor-focused; Barclays equity narrowed | Asian pivot strategies + 2016-17 EU IB rationalization |
-| EU France | [[foreign-financial-institutions/bnp-paribas-japan\|BNP]], [[foreign-financial-institutions/socgen-japan\|SG]], [[foreign-financial-institutions/credit-agricole-bank-japan\|CACIB]], [[foreign-financial-institutions/natixis-japan\|Natixis]] | BNP expanded (insurance + CIB); others stable | BNP integrated 4-pillar model (banking + IB + AM + insurance Cardif) |
-| EU Germany | [[foreign-financial-institutions/deutsche-japan\|Deutsche]], [[foreign-financial-institutions/commerzbank-japan\|Commerz]] | Deutsche narrowed (2019-07); Commerz stable / narrowing | Deutsche global IB cuts cascade |
-| EU Switzerland | [[foreign-financial-institutions/ubs-japan\|UBS]], former CS | CS absorbed into UBS 2023-06; UBS now larger | 2023 CS crisis → UBS forced consolidation |
-| EU other | [[foreign-financial-institutions/ing-bank-japan\|ING]], [[foreign-financial-institutions/intesa-sanpaolo-japan\|Intesa]] | Stable corporate-banking presence | Niche strategies |
-| Asia SG | [[foreign-financial-institutions/dbs-bank-japan\|DBS]], [[foreign-financial-institutions/ocbc-bank-japan\|OCBC]], [[foreign-financial-institutions/uob-bank-japan\|UOB]] | Net expanders | Asian corridor + China decoupling tailwind |
-| Asia Greater China (5 PRC banks) | Bank of China / ICBC / CCB / Agricultural Bank of China / Bank of Communications | Stable / continuing | China-Japan trade / RMB settlement |
-| Asia Korea (5 banks) | Woori, Hana, KB Kookmin, KDB, IBK | Stable | Corporate / Korea-Japan corridor |
-| Asia Taiwan | Bank of Taiwan + others (FSA registry has 10 Taiwan-rows) | Stable / continuing | Taiwan-Japan corporate / personal corridor |
-| Other Asia | Bangkok Bank / Bank of India / SBI India / Indonesia branches | Stable / niche | Specific country-corridor needs |
+| Cluster | Current-snapshot method | Historical-direction method |
+|---|---|---|
+| US-headquartered groups | Resolve each Japan legal entity in FSA registers | Compare dated entity lists and Japan-specific announcements |
+| European-headquartered groups | Resolve branch, securities, trust-bank, and asset-manager entities separately | Do not infer Japan direction from parent restructuring alone |
+| Asian-headquartered groups | Resolve each foreign-bank branch in the FSA workbook | Require comparable historical branch / service evidence |
+| Custody groups | Use entity service pages and infrastructure participant lists | Do not use parent AUC as Japan growth evidence |
+| Joint ventures | Use current corporate profiles of both parties | Record dated ownership and scope changes |
 
-The cluster overlay shows that the "retreat" pattern is **US-Citi-specific (retail) + UK-HSBC-specific (retail) + selected EU equity-IB cuts**. It is **not** a sector-wide retreat. The Asia cluster — including Singapore, China, Korea, Taiwan, India / Indonesia — is a stable or expanding presence in the same window.
+Sources: ^[FSA licensed-bank register and official entity / counterparty announcements.]
+
+The cluster view is a research-routing aid only. Directional conclusions require comparable entity-level historical evidence and are not assigned here.
 
 ## Retreat-claim audit checklist
 
@@ -212,17 +148,15 @@ Before citing any "bank X retreated from Japan" claim, run through:
 
 ## Forward-looking variables (2026-2030 horizon)
 
-| Variable | Affected banks | Direction |
+| Monitoring variable | Authoritative update source | Non-predictive publication rule |
 |---|---|---|
-| Equity settlement T+1  shift (planned 2027) | All custody / IB / markets players | Compression of settlement chain; sub-custodian arrangements may reconfigure |
-| Tokenized securities ([[megabanks/mufg-bank\|MUFG]] Progmat etc.) | Custody / Securities Services side | Possible new layer above current ICSD gateway |
-| GPIF overseas-management ratio further increase | Custody (BNY Mellon, State Street) | Structural tailwind continues |
-| AML / FATF mutual evaluation outcomes | All foreign branches | Possible compliance-cost step-up |
-| US-China decoupling intensification | US banks / China-5 / Asia corridor | Japan as Asia treasury location attractive |
-| EU AT1 / capital framework evolution post-CS | EU banks | Parent capital constraints may shape Japan allocation |
-| FSA digital-finance / electronic-payment-handling-business evolution | All wholesale / treasury players | New activity envelope at intersection with bank-license boundary; see [[financial-licenses/bank-license-and-baas-boundary]] |
-| Wells Fargo asset-cap fully lifted | Wells | Possible modest expansion in Japan |
-| UBS-CS integration final completion | UBS | Some legacy / non-core Japan positions may be sold |
+| Securities-settlement cycle | FSA, JPX / JSCC, JASDEC official implementation material | Publish only an adopted timetable and effective scope |
+| Tokenized-securities regulation | FSA laws, guidance, and approved entity disclosures | Do not infer a bank's participation from a group association |
+| Foreign-bank supervision | FSA supervisory guidance and notices | Describe the rule, not an unannounced exit |
+| Parent capital / merger integration | Parent regulatory filing and Japan-entity announcement | Separate parent action from Japan legal-entity action |
+| Branch or licence status | Current FSA register | Treat each retrieval as a dated snapshot |
+
+Sources: ^[FSA, JPX / JSCC, JASDEC, and official issuer publications.]
 
 ## Boundary cases and caveats
 
@@ -281,9 +215,9 @@ Before citing any "bank X retreated from Japan" claim, run through:
 
 ## Sources
 
-- FSA: bank-license list (`ginkou.xlsx`) including the foreign-bank-branch section.
-- FSA: Comprehensive Guidelines for Supervision of Major Banks, etc. — foreign-bank-branch supervision.
-- FSA: foreign-bank-branch supervision guideline updates.
+- FSA: 銀行免許一覧 (`ginkou.xlsx`) including the 外国銀行支店 section.
+- FSA: 主要行等向けの総合的な監督指針 — foreign bank branch supervision.
+- FSA: 外国銀行支店 supervision guideline updates.
 - Zenginkyo (JBA): Financial Institutions in Japan listing.
 - FSB: Annual List of Global Systemically Important Banks (G-SIBs) — most recent.
 - Parent-bank annual reports / Form 10-K / Form 20-F for each parent referenced (Citi, JPM, GS, MS, BofA, Wells, BNY Mellon, State Street, RBC, BNP, SG, Credit Agricole, Deutsche, Commerz, UBS, Barclays, StanChart, ING, Natixis, Intesa, HSBC, DBS, OCBC, UOB).

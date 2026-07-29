@@ -3,9 +3,9 @@ title: "京都中央信用金庫"
 aliases: ["Kyoto Chuo Shinkin Bank", "京都中央信金", "中信", "信金"]
 domain: cooperative-banks
 created: 2026-05-24
-last_updated: 2026-06-05
-last_tended: 2026-06-05
-review_by: 2026-11-20
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, shinkin, cooperative-banking, kyoto, kansai, operating-company]
 status: active
@@ -36,7 +36,9 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks index]]. Read 
 | Group boundary | Member of [[cooperative-banks/shinkin-central|信金中央金庫]] cooperative system |
 | Deposit protection | [[financial-regulators/dic|預金保険機構 (DIC)]] — shinkin deposits are DIC-insured |
 | Home market | 京都市・京都府全域 + 滋賀・大阪府一部 |
-| Wiki role | Kyoto / Kansai shinkin operating-company anchor page (業界最大手クラス) |
+| Wiki role | Kyoto / Kansai shinkin operating-company anchor page |
+
+Sources: 正式名、法人番号、本店所在地、免許名簿上の存在は金融庁一覧、営業地区・組織情報は京都中央信用金庫の公式プロフィールで確認する。旧版の未定義な業界規模評価は撤回した。 ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx; https://www.chushin.co.jp/profile/.]
 
 ## 2. Institution-type business model
 

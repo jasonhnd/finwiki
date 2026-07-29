@@ -1,11 +1,12 @@
 ---
 source: banking/japan-trust-bank-custody-map
-source_hash: 0102eb37e5bd1684
+source_hash: ead0926670d08ea4
 lang: en
+model: source-language-sync
 status: machine
 fidelity: ok
 title: "Japan trust bank and custody map"
-translated_at: 2026-05-30T18:52:47.781Z
+translated_at: 2026-07-29T03:30:48.111Z
 ---
 
 # Japan trust bank and custody map
@@ -45,6 +46,8 @@ Use this page with [[banking/INDEX|banking domain]], [[banking/japan-master-trus
 | Voting-right disclosure | Voting instruction usually belongs to asset owner / manager; custodian may execute mechanically. |
 | Securities lending revenue | May belong partly to beneficial owners depending on lending program terms. |
 | Fund accounting / NAV operations | Operational asset-servicing layer, not investment decision itself. |
+
+Sources: these interpretation rules follow the FSA trust-business perimeter, Trust Companies Association explanations, and the disclosed operating roles of MTBJ and CBJ. A filing-specific beneficial owner still requires the issuer's own disclosure. ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; https://www.shintaku-kyokai.or.jp/trust/trustbanks/; https://www.mastertrust.co.jp/about/overview.html; https://www.custody.jp/recruit/aboutus/business.html.]
 
 ## Capital-Market Links
 

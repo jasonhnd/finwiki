@@ -3,15 +3,14 @@ title: "大阪商工信用金庫"
 aliases: ["Osaka Shoko Shinkin Bank", "大阪商工信金", "おおさかしょうこうしんようきんこ", "信金"]
 domain: cooperative-banks
 created: 2026-06-03
-last_updated: 2026-06-03
-last_tended: 2026-06-03
-review_by: 2026-12-03
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, shinkin, cooperative-banking, osaka, kansai, operating-company]
 status: active
 sources:
   - "https://www.osaka-shoko.co.jp/"
-  - "https://ja.wikipedia.org/wiki/大阪商工信用金庫"
   - "https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx"
   - "https://www.shinkin-central-bank.jp/"
 ---
@@ -20,7 +19,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read it against [[cooperative-banks/osaka-shinkin|大阪信用金庫]] for peer / contrast context inside the Osaka shinkin block (大阪商工信用金庫 は商工業者特化の中堅信金で、府内最大手の 大阪信用金庫 とは規模・地盤が異なる) and against [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] for the broader system / regulatory boundary maintained by [[cooperative-banks/shinkin-central|信金中央金庫]].
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read it against [[cooperative-banks/osaka-shinkin|大阪信用金庫]] for peer / contrast context inside the Osaka shinkin block and against [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] for the broader system / regulatory boundary maintained by [[cooperative-banks/shinkin-central|信金中央金庫]].
 
 ## TL;DR
 
@@ -38,15 +37,17 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read 
 | Wiki role | Osaka/Kansai 商工業者特化 shinkin operating-company anchor page |
 | Supervisory bureau | 近畿財務局 |
 
+Sources: 正式名、法人番号、本店所在地、免許名簿上の存在は金融庁一覧、創業・営業地区・店舗情報は大阪商工信用金庫の公式サイトで確認する。 ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx; https://www.osaka-shoko.co.jp/.]
+
 ## 2. Operating model
 
-大阪商工信用金庫は、大阪都心部（中央区・本町周辺の問屋街・商業集積地）および周辺市の商工業者・中小企業（卸売・小売・製造業・サービス業・個人事業主）向けの SME 融資・運転資金・設備資金、住宅ローン、個人預金を中核業務とする。大阪の信用金庫レイヤーでは、府内最大手の [[cooperative-banks/osaka-shinkin|大阪信用金庫]] が広域・大規模に展開するのに対し、大阪商工信用金庫は都心商工業者特化の中堅信金として地理・顧客層を分担する。本町の商業中心地に密着し、メガバンク（[[megabanks/smfg|三井住友 FG]] 系等）が店舗を縮小した地域でリレーションシップ型の地域金融を補完する役割を担う。
+大阪商工信用金庫は、大阪都心部および周辺市の商工業者・中小企業（卸売・小売・製造業・サービス業・個人事業主）向け融資、住宅ローン、個人預金を中核業務とする。[[cooperative-banks/osaka-shinkin|大阪信用金庫]] とは別法人であり、公式営業地区と顧客関係に基づいて地域金融を担う。
 
 ## 3. Why this page matters
 
 - 大阪都心商工業者金融の協同組織側プレイヤーの operating-company entry。
-- [[cooperative-banks/osaka-shinkin|大阪信用金庫]]（府内最大手）との地盤・顧客層の棲み分け（広域大手 vs 都心商工特化中堅）のアンカー。
-- メガバンク店舗縮小地域における信用金庫の地域金融補完モデルのケース。
+- [[cooperative-banks/osaka-shinkin|大阪信用金庫]] との法人・営業地区の読み分けアンカー。
+- 大阪都心部の商工業者を支える信用金庫のケース。
 
 ## Related
 
@@ -63,5 +64,4 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read 
 
 - FSA: 信用金庫免許一覧 (latest snapshot per FSA registry): https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx
 - 大阪商工信用金庫 公式サイト: https://www.osaka-shoko.co.jp/
-- 大阪商工信用金庫 (Wikipedia 日本語版): https://ja.wikipedia.org/wiki/大阪商工信用金庫
 - 信金中央金庫 cooperative system context: https://www.shinkin-central-bank.jp/
