@@ -25,8 +25,8 @@
 - Entity graph edges: 68 (34 declared, 34 derived)
 - Link-audited entries: 1489
 - Unresolved link issues: 0
-- Non-space UTF-8 characters across Markdown: 10,853,444
-- Word-like tokens: 1,748,860
+- Non-space UTF-8 characters across Markdown: 10,850,093
+- Word-like tokens: 1,748,315
 
 ## URL Rules for AI Readers
 
