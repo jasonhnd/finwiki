@@ -77,6 +77,8 @@ This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it again
 | 2005 | 30 の国・地域へ展開 |
 | 2021 | 40 の国・地域へ展開 |
 
+出典: [Toyota Financial Services company information](https://www.tfsc.jp/en/company/index.html)（この表の設立・国際展開の沿革）。
+
 > 注: 上記年表と会社属性は TFSC の公式会社概要に基づく。グループ連結数値はトヨタ自動車の開示と併読する。^[https://www.tfsc.jp/en/company/index.html]
 
 ## 3. 事業セグメント・マップ
@@ -90,6 +92,8 @@ This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it again
 | 米州 | Toyota Financial Services Americas / TMCC | 米国自動車金融大手、Ford Motor Credit / Ally / GM Financial と競合 |
 | 欧州 | Toyota Kreditbank | 独 BaFin 監督下、欧州自動車金融統括 |
 | アジア・新興国 | 各国 TFS 法人 | グループ全体で 40 超の国・地域に展開 |
+
+出典: [Toyota Financial Services business overview](https://www.tfsc.jp/en/what/index.html)および[Toyota finance businesses](https://global.toyota/en/company/profile/other-toyota-businesses/finance/)（この表の地域別事業構成）。
 
 ### 総合パッケージ戦略
 
@@ -108,14 +112,14 @@ EV 普及で**残価評価モデルが従来 ICE 車と乖離**（バッテリ�
 
 ### 競合
 
-| 競合 | 親会社 | 特徴 |
+| 分析上の peer | 一次資料（2026-07-29 参照） | 比較軸 |
 |---|---|---|
-| 日産 NMA（NMAC）| 日産自動車 | 北米中心、日産ディーラー連動 |
-| ホンダファイナンス | ホンダ | 国内 + 北米、Honda Cars 系 |
-| [[leasing-firms/orix-corp]] | 独立系（持株分散） | 法人リース・個人カーリース総合 |
-| 三菱 HC キャピタル | [[megabanks/mufg]] グループ | 旧三菱 UFJ リース + 日立キャピタル合併、大型法人 |
-| [[leasing-firms/tokyo-century]] | みずほ + 伊藤忠 | リース・モビリティ、Avis 関連等 |
-| 銀行系自動車ローン | メガバンク・地銀 | 低金利だが販社送客力で劣勢 |
+| **Toyota Financial Services** | [TFS Group overview](https://www.tfsc.jp/en/what/index.html) | 自動車販売金融 |
+| [[leasing-firms/orix-corp|ORIX]] | [Integrated Report 2025](https://www.orix.co.jp/grp/en/ir/library/annual_report/) | 自動車を含む多角化金融・事業運営 |
+| [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] | [会社概要](https://www.mitsubishi-hc-capital.com/corporate/overview.html) | モビリティを含む総合リース |
+| [[leasing-firms/tokyo-century|東京センチュリー]] | [会社概要](https://www.tokyocentury.co.jp/jp/company/info/outline/) | モビリティを含む総合リース |
+
+この表は公式事業範囲を使った分析上の peer map であり、競争順位、価格優位、親子関係を示さない。
 
 トヨタ販社チャネル × 残クレ商品設計の組合せで、独立系・銀行系に対する**販売現場での優位**を維持。
 

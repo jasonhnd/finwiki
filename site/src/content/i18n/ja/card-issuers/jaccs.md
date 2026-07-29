@@ -1,20 +1,20 @@
 ---
 source: card-issuers/jaccs
-source_hash: 917df2d4a3256942
+source_hash: 688fee782d8e7fe3
 lang: ja
 status: machine
 fidelity: ok
 title: "株式会社ジャックス (Jaccs)"
-translated_at: 2026-06-02T14:25:12.436Z
+translated_at: 2026-07-29T07:29:14.000Z
 ---
 
 # 株式会社ジャックス (Jaccs)
 
-## ウィキ上の位置づけ
+## Wiki route
 
-この項目は [[card-issuers/INDEX|card-issuers INDEX]] の下に置く。比較対象・対照軸は [[card-issuers/orico|株式会社オリエントコーポレーション (Orico)]]、より広い制度・規制境界は [[banking/INDEX|banking index]] とあわせて読む。
+This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against [[card-issuers/orico|株式会社オリエントコーポレーション (Orico)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
-## 要約
+## TL;DR
 
 北海道発祥のクレジット・信販大手。**1954-07 北海道信用販売株式会社として函館で設立**、1968 に「ジャックス」に改称。業態は信販・個品割賦・カードローン・集金代行・家賃保証・自動車ローン軸。**[[megabanks/mufg]] グループの持分法適用関連会社**（三菱 UFJ 銀行が主要株主）として位置付け、MUFG のクレカ・消費者金融軸（[[megabanks/mufg]] 内の 三菱 UFJ ニコス・アコム）と並ぶ「**第三の信販軸**」を担う。東証 PRIME 8584 上場。競合は [[card-issuers/orico]]・[[card-issuers/credit-saison]]。海外はベトナム・カンボジア・インドネシアでファイナンス事業を展開。
 
@@ -87,15 +87,19 @@ ASEAN は MUFG 全体の海外戦略（Krungsri / Bank Danamon / VietinBank、[[
 | 2022-04 | 東証市場区分見直し → **東証 PRIME 8584** |
 | 2024〜 | 中期経営計画（公開分）始動 |
 
+Sources: [ジャックスの会社沿革](https://www.jaccs.co.jp/corporate/about/history/) and [ジャックス IR](https://www.jaccs.co.jp/corporate/ir/) for the issuer history and current disclosure.
+
 ### グループ内ポジショニング
 
-[[megabanks/mufg]] グループ内の消費者金融・クレカ・信販 3 軸：
+ジャックスと MUFG の関係について、ジャックスの現行開示から確認できる範囲：
 
-| 機能 | 担当会社 | [[megabanks/mufg]] からの位置付け |
-|---|---|---|
-| メガバンク・カード | 三菱 UFJ ニコス | 100% 連結子会社・三大クレカ |
-| 消費者金融（無担保） | アコム | 持分法 39.6%・東証 STD 8572 |
-| **信販・個品割賦** | **Jaccs** | **持分法適用関連会社・東証 PRIME 8584** |
+| 確認項目 | 公表内容 |
+|---|---|
+| MUFG との関係 | ジャックスは公式グループ戦略で「MUFGグループ企業」と説明 |
+| 三菱UFJ銀行の持株 | 39.41%（ジャックス公式、2026-03-31 現在） |
+| 上場区分 | 東証プライム、証券コード 8584 |
+
+Sources: [ジャックス株式基本情報](https://www.jaccs.co.jp/corporate/ir/stock/stockinformation/) and [ジャックスのグループ戦略](https://www.jaccs.co.jp/corporate/about/group/strategy/). Acom and Mitsubishi UFJ NICOS percentages are not inferred here.
 
 つまり Jaccs は「[[megabanks/mufg]] が直接の銀行融資ではカバーしにくい**販売金融＝加盟店経由の割賦**」を担当する位置。
 
@@ -130,14 +134,14 @@ ASEAN は MUFG 全体の海外戦略（Krungsri / Bank Danamon / VietinBank、[[
   - キャッシュレス化政策（カード手数料・加盟店規制）
   - 2025〜 改正割賦販売法・本人確認の高度化
 
-## 関連
+## Related
 
 - [[megabanks/mufg]] — 親会社・持分法適用関連会社の本体
 - [[card-issuers/orico]] — 業界最大手競合（みずほ + 伊藤忠系列）
 - [[card-issuers/credit-saison]] — カード × ストック型競合
 - [[megabanks/smfg]] — 業界全体の対比軸
 
-## 出典
+## Sources
 
 - **Wikipedia: 株式会社ジャックス**（https://ja.wikipedia.org/wiki/ジャックス, 2026-05-19 参照、公開情報のみ）
 - **Jaccs 公式 IR**（東証 PRIME 8584 開示資料、公開分）

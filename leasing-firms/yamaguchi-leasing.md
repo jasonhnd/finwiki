@@ -21,7 +21,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under the [[leasing-firms/INDEX|leasing-firms INDEX]] as the FG-subsidiary leasing operating-company anchor for [[regional-banks/yamaguchi-fg|山口 FG (YMFG)]]. Read it against parent operating banks [[regional-banks/yamaguchi-fg|山口 FG]] 3 行体制 ([[regional-banks/momiji-bank|もみじ銀行]] / [[regional-banks/kitakyushu-bank|北九州銀行]] / 山口銀行) and sibling subsidiary ワイエム証券. Peer comparison: [[leasing-firms/mebuki-lease|めぶきリース]] (北関東) / [[leasing-firms/yokohama-bank-leasing|横浜銀リース]] (神奈川) / [[leasing-firms/chibagin-leasing|ちばぎんリース]] (千葉) / [[leasing-firms/hokkaido-lease|北海道リース]] / [[leasing-firms/iyogin-leasing|いよぎんリース]] (四国) and major lessor [[leasing-firms/mitsubishi-hc-capital|三菱 HC キャピタル]] / [[leasing-firms/mizuho-lease|みずほリース]] / [[leasing-firms/tokyo-century|東京センチュリー]]. For broader system route see [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]], [[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]] and [[banking/INDEX|banking index]]. Investable-universe context: [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]].
+This entry sits under the [[leasing-firms/INDEX|leasing-firms INDEX]] as the FG-subsidiary leasing operating-company anchor for [[regional-banks/yamaguchi-fg|山口 FG (YMFG)]]. Read it against parent operating banks [[regional-banks/yamaguchi-fg|山口 FG]] 3 行体制 ([[regional-banks/momiji-bank|もみじ銀行]] / [[regional-banks/kitakyushu-bank|北九州銀行]] / 山口銀行) and sibling subsidiary ワイエム証券. Peer comparison: [[leasing-firms/mebuki-lease|めぶきリース]] (北関東) / [[leasing-firms/yokohama-bank-leasing|浜銀ファイナンス]] (神奈川) / [[leasing-firms/chibagin-leasing|ちばぎんリース]] (千葉) / [[leasing-firms/hokkaido-lease|北海道リース]] / [[leasing-firms/iyogin-leasing|いよぎんリース]] (四国) and major lessor [[leasing-firms/mitsubishi-hc-capital|三菱 HC キャピタル]] / [[leasing-firms/mizuho-lease|みずほリース]] / [[leasing-firms/tokyo-century|東京センチュリー]]. For broader system route see [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]], [[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]] and [[banking/INDEX|banking index]]. Investable-universe context: [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]].
 
 ## TL;DR
 
@@ -39,6 +39,8 @@ This entry sits under the [[leasing-firms/INDEX|leasing-firms INDEX]] as the FG-
 | 規制 | リース業 (銀行業免許不要、貸金業登録は対応領域に応じて) |
 | 上場区分 | 非上場 ([[regional-banks/yamaguchi-fg]] グループ) |
 | Wiki role | YMFG 系リース子会社 anchor (3 行 3 ブランド広域 model) |
+
+出典: [ワイエムリース会社概要](https://www.ym-lease.co.jp/about.html)および[沿革](https://www.ym-lease.co.jp/history.html)（この表の法人、沿革、グループ関係および事業概要）。
 
 ### 持株ツリー (YMFG グループ簡略図)
 
@@ -81,15 +83,15 @@ This entry sits under the [[leasing-firms/INDEX|leasing-firms INDEX]] as the FG-
 
 ### 地銀系リース peer 比較
 
-| リース子会社 | 親銀行 / FG | 親会社 model | 地盤 | 上場 |
-|---|---|---|---|---|
-| **山口リース** (本ページ) | [[regional-banks/yamaguchi-fg|YMFG]] | 持株会社 3 行体制 | 山口 + 広島 + 北九州 (関門) | 親 8418 |
-| [[leasing-firms/mebuki-lease|めぶきリース]] | [[regional-banks/mebuki-fg|めぶき FG]] | 持株会社 2 行体制 | 茨城・栃木・北関東 | 親 7167 |
-| [[leasing-firms/yokohama-bank-leasing|横浜銀リース]] | [[regional-banks/yokohama-bank]] / [[regional-banks/concordia-fg]] | 銀行連結子会社 | 神奈川・首都圏 | 親 7186 |
-| [[leasing-firms/chibagin-leasing|ちばぎんリース]] | [[regional-banks/chiba-bank]] | no-holding 単独銀行 | 千葉県・首都圏東部 | 親 8331 |
-| [[leasing-firms/hokkaido-lease|北海道リース]] | [[regional-banks/hokkaido-bank]] | 銀行系リース | 北海道 | 親 8328 系 |
-| [[leasing-firms/iyogin-leasing|いよぎんリース]] | [[regional-banks/iyogin-hd|いよぎん HD]] | 持株会社下兄弟会社 | 愛媛・四国 | 親 5830 |
-| しずぎんリース | [[regional-banks/shizuoka-fg|しずおか FG]] | 持株会社下兄弟会社 | 静岡県 | 親 5831 |
+| リース会社 | 公式に確認できる関係 | 一次資料（2026-07-29 参照） |
+|---|---|---|
+| **ワイエムリース** (本ページ) | YMFG 子会社 | [YMFGグループ会社一覧（2025-09-25現在）](https://www.ymfg.co.jp/about/profile/group/) |
+| [[leasing-firms/mebuki-lease|めぶきリース]] | めぶきFGが株主 | [めぶきリース会社概要](https://www.mebuki-lease.co.jp/gaiyo/index.html) |
+| [[leasing-firms/chibagin-leasing|ちばぎんリース]] | 千葉銀行グループ会社 | [千葉銀行 2022-08-05 公開資料](https://www.chibabank.co.jp/news/news202200805_01_001) |
+| [[leasing-firms/iyogin-leasing|いよぎんリース]] | いよぎんHDグループ会社 | [いよぎんHDグループ会社一覧](https://www.iyogin-hd.co.jp/company/group.html) |
+| [[leasing-firms/hokkaido-lease|北海道リース]] | 北海道銀行が主要株主第1位、2024-10 から同行持分法適用会社 | [北海道リース会社概要](https://www.do-lease.co.jp/company/profile.html)・[沿革](https://www.do-lease.co.jp/company/history.html) |
+
+この比較表は各社の資本・会計上の関係だけを扱い、地盤、規模、上場順位を推定しない。
 
 > 山口リースは広島県では [[regional-banks/momiji-bank]] 経由で営業展開するが、広島県内では ひろぎん HD ([[regional-banks/hiroshima-bank|広島銀行]] 母体) 系リースと県内 broker competition がある。北九州地区では [[regional-banks/fukuoka-fg|FFG]] 系リース ([[regional-banks/fukuoka-bank|福岡銀行]] + 旧 親和 + 熊本) との重なり。
 

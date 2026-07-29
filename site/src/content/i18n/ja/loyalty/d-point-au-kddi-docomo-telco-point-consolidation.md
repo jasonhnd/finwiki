@@ -1,154 +1,157 @@
 ---
 source: loyalty/d-point-au-kddi-docomo-telco-point-consolidation
-source_hash: 66b30eea4589ecf4
+source_hash: 1c783410acf6123a
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "dポイント（NTT docomo）vs au PAY ポイント（KDDI） — 通信キャリアを起点とする日本のポイント統合"
-translated_at: 2026-06-26T08:31:59.823Z
+translated_at: 2026-07-29T07:29:14.000Z
 ---
 
-# dポイント（NTT docomo）vs au PAY ポイント（KDDI） — 通信キャリアを起点とする日本のポイント統合
+# dポイント (NTT docomo) vs Pontaポイント (KDDI linkage) — telco-anchored Japan point comparison
 
-## Wiki ルート
+## Wiki route
 
-このエントリは [[loyalty/INDEX|loyalty INDEX]] の下に位置し、金融を起点とする [[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) case]] の通信キャリア起点版である。クロスエコシステムマップについては [[loyalty/japan-points-landscape|Japan points and loyalty landscape]]、ブレッケージ / IFRS-15 の処理については [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]]、そしてポイントがその上に乗るウォレット層オーバーレイについては [[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]] と併せて読まれたい。
+This entry sits under [[loyalty/INDEX|loyalty INDEX]] and is the telco-anchored counterpart to the finance-anchored [[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) case]]. Read with [[loyalty/japan-points-landscape|Japan points and loyalty landscape]] for the cross-ecosystem map, [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] for the breakage / IFRS-15 treatment, and [[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]] for the wallet-layer overlay that points sit on top of.
 
 ## TL;DR
 
-日本の三大「共通ポイント」プログラムは、**アンカー事業**の軸に沿って分かれる：
+Japan's three largest "common point" programmes split along the **anchor-business** axis:
 
-| プログラム | アンカー | 連合パートナー | 決済統合 | 金融グループ統合 |
+| Programme | Anchor | Coalition partner(s) | Payment integration | Financial-group integration |
 |---|---|---|---|---|
-| **d Point** | NTT docomo 通信契約者 | ローソン、マクドナルド、マツモトキヨシ、ENEOS 等 | d払い（d-barai QR）、d Card クレジット、d Card プリペイド | NTT Docomo 金融部門 → [[megabanks/ndfg|NDFG]]（SMBC 信託ルートを含む計画中の統合） |
-| **au PAY ポイント（旧 Ponta）** | KDDI / au 通信契約者 + リクルートホールディングス共同アンカーの連合 | ローソン、GEO、Shell SS（出光昭和シェル）、リクルートグループのサービス（じゃらん、Hot Pepper 等） | au PAY（QR）、au PAY カード、au PAY プリペイドカード | [[megabanks/au-fh|au FH (KDDI 金融持株)]] + [[payment-firms/au-payment|au Payment]] |
-| **V Point** | SMBC グループ金融契約者 + CCC データベース | T-Card レガシーネットワーク（CCC）、SMBC カード保有者、Olive 口座 | Olive 一体型、SMBC カード、V NEAR PAY | [[megabanks/smfg|SMFG]] / SMBC カード |
+| **d Point** | NTT docomo telco subscribers | Lawson, McDonald's, Matsumoto Kiyoshi, ENEOS, etc. | d払い (d-barai QR), d Card credit, d Card Prepaid | NTT Docomo finance arm → [[megabanks/ndfg|NDFG]] (planned consolidation including SMBC trust route) |
+| **Pontaポイント (KDDI linkage)** | Loyalty Marketing coalition; KDDI's au services are one major surface | Lawson, GEO, Recruit Group services, JAL, etc. | au PAY (QR), au PAY カード, au PAY プリペイドカード | [[megabanks/au-fh|au FH (KDDI 金融持株)]] + [[payment-firms/au-payment|au Payment]] |
+| **V Point** | SMBC Group financial subscribers + CCC database | T-Card legacy network (CCC), SMBC card cardholders, Olive accounts | Olive一体型, SMBC card, V NEAR PAY | [[megabanks/smfg|SMFG]] / SMBC card |
 
-2 つの通信キャリア起点プログラムと銀行起点の V Point の戦略的な違いは、**アイデンティティの起源**にある：
+The strategic difference between the two telco-anchored programmes and the bank-anchored V Point is **identity origin**:
 
-- **d Point / au PAY ポイント** は **モバイル回線アイデンティティ**（SIM、契約者、デバイス）から始まる — 課金可能な契約者関係がモートである。
-- **V Point** は **銀行 / カードアイデンティティ**（SMBC 口座、Olive、V Point Card）から始まる — 金融商品の関係がモートである。
+- **d Point** starts from docomo's customer identity, while **Ponta** is a coalition programme that KDDI connects to au ID and au PAY.
+- **V Point** starts from a **bank / card identity** (SMBC account, Olive, V Point Card) — financial-product relationship is the moat.
 
-いずれのアンカータイプも、同じ下流の面に収斂しようとする：全国的な QR 決済 + カード + 銀行 + 証券 + 保険のバンドルである。両者は顧客獲得ファネルの異なる端から始まっている。
+Both anchor types try to converge on the same downstream surface: a national QR-payment + card + bank + securities + insurance bundle. They start from different ends of the customer-acquisition funnel.
 
-## 通信キャリア起点モデル — 契約者アイデンティティが買うもの
+## Telco-anchored model — what subscriber identity buys
 
-通信キャリアのアンカーは、純粋な金融サービスのアンカーが欠く 4 つの資産をもたらす：
+A telco anchor brings four assets that a pure financial-services anchor lacks:
 
-1. **契約済みの課金関係** — 月次の口座振替 / クレジットカード集金で、高い決済成功率と低い解約率
-2. **検証済みの個人アイデンティティ** — モバイル回線契約時に KYC 完了；住所、氏名、本人確認書類はすでに検証済み
-3. **デバイスを起点とするアトリビューション** — SIM、スマートフォン、アプリ環境はすべて 1 つの顧客 ID に紐づく
-4. **日常利用のテレメトリ面** — ロケーション、アプリ利用、ブラウジングコンテキスト（同意が許す範囲で）がマーケティングのアトリビューションデータになる
+1. **Contracted billing relationship** — monthly direct-debit / credit-card collection, with high payment-success rate and low churn
+2. **Verified personal identity** — KYC done at mobile-line signup; address, name, ID document already validated
+3. **Device-anchored attribution** — the SIM, the smartphone, the app environment are all tied to one customer ID
+4. **Daily-use telemetry surface** — location, app usage, browsing context (where allowed by consent) becomes attribution data for marketing
 
-これら 4 つの資産は、**隣接する金融商品**の顧客獲得ファネルを圧縮する：登録済みのクレジットカードですでに月次の電話料金を支払っている docomo 契約者は、コールド・プロスペクトよりも、d Card 保有者、d払いユーザー、d-account 銀行顧客、または NISA 口座開設者へと転換させるのがはるかに安価である。
+These four assets compress the customer-acquisition funnel for **adjacent financial products**: a docomo subscriber who already pays a monthly phone bill on a registered credit card is far cheaper to convert into a d Card holder, a d払い user, a d-account banking customer, or a NISA-account opener than a cold prospect.
 
-**au サイドの対応物**は構造的に類似している — レガシー Ponta プログラム（現在は au PAY ポイントとして統合）をめぐる au とリクルートホールディングスの連合は、追加の非通信キャリア系の日常利用面（じゃらん旅行、Hot Pepper レストラン、Air Regi POS）をもたらす。統合の歴史 — リクルート・CCC・au・KDDI のクロス出資の動き — は、KDDI とリクルートのプレスリリースを通じて公的に文書化されている。
+The **au-side counterpart is not a separately named “au PAY ポイント” currency**. KDDI changed its legacy au WALLET ポイント to Pontaポイント on 2020-05-21 and allows au ID / Ponta membership linking. Ponta remains operated by Loyalty Marketing, whose current shareholders include Mitsubishi Corporation, Lawson, KDDI, Recruit, JAL, MUFG Bank, and GEO.
 
-## サイドバイサイド比較
+## Side-by-side comparison
 
-| 次元 | d Point（NTT docomo） | au PAY ポイント（KDDI） | V Point（SMBC × CCC） |
+| Dimension | d Point (NTT docomo) | Pontaポイント (KDDI linkage) | V Point (SMBC × CCC) |
 |---|---|---|---|
-| アンカー | NTT docomo 通信キャリア | KDDI au 通信キャリア + リクルート連合 | SMBC + CCC（T-Card レガシー） |
-| ローンチ（現行形態） | 2015 （docomo Premier Club からリブランド） | 2010 （Ponta ローンチ）→ 2024-12 au PAY ポイントに統合 | 2024-04-22 統合 V Point（T Point + SMBC V Point 合併） |
-| 概算会員 ID 基盤 | 100M+ d-account ID（NTT docomo 公開開示） | 100M+ Ponta ID / au ID 合計（KDDI / リクルート公開資料） | 130M+ 統合（統合時の CCC + SMBC 公開資料） |
-| ウォレット統合 | d払い（QR） | au PAY（QR） | V NEAR PAY（NFC）+ Olive 一体型 |
-| カード | d Card / d Card GOLD（NTT docomo 発行） | au PAY カード（au Financial Service 発行） | SMBC カード / Olive 一体型（SMBC） |
-| 銀行 | （NDFG 統合計画中；現在はパートナー銀行） | au じぶん銀行（[[megabanks/au-fh|au FH]] の子会社） | SMBC + Olive |
-| 証券 | （SMBC アライアンス経由で NTT ルートへの計画ルート） | au カブコム証券（au FH の子会社） | SMBC日興証券 |
-| 保険 | （NTT docomo 保険販売 + NDFG ロールアップ計画中） | [[non-life-insurers/au-insurance|au 損害保険]] + au アセットマネジメント | パートナー保険ルート |
-| 小売フラッグシップ | ローソン、マクドナルド、マツモトキヨシ、ENEOS | ローソン、GEO、出光、リクルートエコシステム | T-card レガシーネットワーク（ツタヤ、スーパー等） |
-| モバイルキャリア | NTT docomo（モバイル、ahamo、irumo） | au、UQ mobile、povo | （なし） |
+| Anchor | NTT docomo telco | KDDI au telco + Recruit coalition | SMBC + CCC (T-Card legacy) |
+| Launched / linked form | 2015 (dポイント launch) | Ponta launched 2010; KDDI changed au WALLET ポイント to Ponta on 2020-05-21 | 2024-04-22 unified V Point brand |
+| Wallet integration | d払い (QR) | au PAY (QR) | V NEAR PAY (NFC) + Olive一体型 |
+| Card | d Card / d Card GOLD (issued by NTT docomo) | au PAY カード (issued by au Financial Service) | SMBC card / Olive一体型 (SMBC) |
+| Bank | (planned NDFG consolidation; partner banks today) | au じぶん銀行 (subsidiary of [[megabanks/au-fh|au FH]]) | SMBC + Olive |
+| Securities | (planned route via SMBC alliance to NTT route) | au カブコム証券 (subsidiary of au FH) | SMBC日興証券 |
+| Insurance | (NTT docomo insurance distribution + planned NDFG roll-up) | [[non-life-insurers/au-insurance|au 損害保険]] + au アセットマネジメント | partner insurance route |
+| Retail flagship | Lawson, McDonald's, Matsumoto Kiyoshi, ENEOS | Lawson, GEO, 出光, Recruit ecosystem | T-card legacy network (Tsutaya, スーパー, etc.) |
+| Mobile carrier | NTT docomo (mobile, ahamo, irumo) | au, UQ mobile, povo | (none) |
 
-## ローソン問題 — 重複する小売アンカー
+Sources: the current [d Point guide](https://dpoint.docomo.ne.jp/guide/index.html), KDDI's [2020 Ponta transition announcement](https://news.kddi.com/kddi/corporate/newsrelease/2020/05/21/4447.html), Loyalty Marketing's [company profile](https://www.loyalty.co.jp/company/outline), and [V Point](https://vpoint.jp/). The “anchor” labels are analytical summaries of disclosed customer entry points.
 
-d Point と au PAY ポイント（Ponta）はいずれもローソンで利用でき、ローソンの KDDI アライアンス（KDDI は 2024, にローソンの支配的持分を取得、[[retail/lawson-kddi-retail-finance|Lawson × KDDI retail finance]] に文書化）により、ローソンは特に争われるロイヤルティ面となっている：
+## The Lawson question — overlapping retail anchor
 
-- ローソンは歴史的に Ponta ポイントを付与してきた（リクルート / au 連合）
-- d Point はクロス連合契約を通じてローソンで貯められる
-- KDDI の 2024 のローソン買収後、KDDI の戦略的インセンティブは au PAY / Ponta 統合を優先する；d Point の獲得可能性は資本関係ではなくパートナーシップ関係になる
+Both d Point and Pontaポイント work at Lawson, and Lawson's KDDI alliance documented in [[retail/lawson-kddi-retail-finance|Lawson × KDDI retail finance]] makes Lawson a particularly contested loyalty surface:
 
-同じ小売面が 2 つの競合するポイントプログラムに払い出すことは日本では異例であり、ポイント連合が競争上のモートではなくマーケティングツールとして扱われてきたという歴史的事実を反映している。KDDI のローソン買収は、これらの重複を真の戦略的緊張にし始めている。
+- Lawson historically gave Ponta points (Recruit / au coalition)
+- d Point earnable at Lawson via cross-coalition agreement
+- After KDDI's 2024 Lawson acquisition, KDDI's strategic incentive favours au PAY / Ponta integration; d Point earnability becomes a partnership-not-equity relationship
 
-## NTT docomo — NDFG のフロントエンドとしての d Point
+The same retail surface paying out into two competing point programmes is unusual in Japan and reflects the historical fact that point coalitions were treated as marketing tools, not as competitive moats. KDDI's Lawson acquisition starts to make these overlaps a real strategic tension.
 
-d Point プログラムは、**金融持株グループ**構造に向けた NTT docomo のより広範な推進の消費者向け層である — 組み立てられている統合構造については [[megabanks/ndfg|NDFG (NTT docomo financial group)]] 参照。戦略的な弧：
+## NTT docomo — d Point as the front-end of NDFG
 
-1. **d-account** を docomo、d払い、d Card、d-account 銀行パートナー、d-account NISA パートナーにまたがる単一の顧客 ID として
-2. **d Point** を体験を結びつけるロイヤルティ通貨として
-3. **NDFG 持株会社** を、銀行・証券・保険・信託子会社を 1 つの金融グループの傘下に統合する規制上のラッパーとして
-4. **SMBC 信託ルート** を、NTT / SMBC の発表で公的に開示された 1 つの具体的な統合レバーとして
+The d Point programme is the consumer-facing layer of NTT docomo's broader push toward a **financial holding group** structure — see [[megabanks/ndfg|NDFG (NTT docomo financial group)]] for the consolidation structure being assembled. The strategic arc:
 
-NTT の公開資料が示唆する最終状態は、**通信キャリアを起点とする金融スーパーグループ**であり、統合されたポイント・決済・金融サービスのバンドリングにおいて [[payment-firms/rakuten-fg|Rakuten FG]] と [[megabanks/paypay-fg|PayPay FG]] に対抗し、**通信契約のキャッシュフローを基盤のアンカーとする**。
+1. **d-account** as a single customer ID across docomo, d払い, d Card, d-account banking partners, d-account NISA partners
+2. **d Point** as the loyalty currency that ties the experience together
+3. **NDFG holding company** as the regulatory wrapper that consolidates banking, securities, insurance, and trust subsidiaries under one financial-group umbrella
+4. **SMBC Trust route** as one specific consolidation lever publicly disclosed in NTT / SMBC announcements
 
-## KDDI — au FH 内の au Point
+The end-state implied by NTT's public materials is a **telco-anchored financial super-group** that rivals [[payment-firms/rakuten-fg|Rakuten FG]] and [[megabanks/paypay-fg|PayPay FG]] on integrated point-payment-financial-services bundling, with the **telco subscription cash-flow as the underlying anchor**.
 
-KDDI の並行構造は、金融サイドで NTT よりも**すでに統合されている**。[[megabanks/au-fh|au FH (au Financial Holdings)]] はすでに以下を保有する：
+## KDDI — Ponta linkage around au FH
 
-- au じぶん銀行（au Jibun Bank — インターネット銀行、MUFG レガシーアライアンス）
-- au カブコム証券（au Kabu.com Securities）
+KDDI's parallel structure is more **already-consolidated** on the financial side than NTT's. [[megabanks/au-fh|au FH (au Financial Holdings)]] already owns:
+
+- au じぶん銀行 (au Jibun Bank — internet bank, MUFG legacy alliance)
+- au カブコム証券 (au Kabu.com Securities)
 - au 損害保険 / [[non-life-insurers/au-insurance|au 損害保険]]
 - au アセットマネジメント
-- [[payment-firms/au-payment|au Payment]]（au PAY の運営者）
+- [[payment-firms/au-payment|au Payment]] (operator of au PAY)
 - au Pay Card
 
-au PAY ポイントプログラムは、これらすべての子会社を 1 つの顧客ファネルの物語に結びつける**ロイヤルティ通貨**として位置する。リクルートの Ponta を通じた連合パートナーシップが、その上に非通信キャリア系の面（旅行、ダイニング、サービス）を追加する。
+**Pontaポイント** is the loyalty currency KDDI connects to this product perimeter. Loyalty Marketing remains the programme operator; the KDDI product stack and the Ponta corporate perimeter should not be treated as one legal entity.
 
-## V Point との対比 — 金融起点 vs 通信キャリア起点
+## Contrast with V Point — finance-anchored vs telco-anchored
 
-V Point との構造的比較（[[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) case]] 参照）は、d Point と au PAY ポイントの両方を読み解く最も有益な方法である：
+The structural comparison to V Point (see [[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) case]]) is a useful way to read d Point and KDDI's Ponta linkage:
 
-| 問い | 通信キャリア起点（d、au） | 金融起点（V Point） |
+| Question | Telco-anchored (d, au) | Finance-anchored (V Point) |
 |---|---|---|
-| 顧客 ID はどこに起源するか？ | モバイル契約のサインアップ | 銀行 / カードの申込 |
-| 経常的な課金関係は何か？ | 月次の電話料金 | 月次のカード明細 |
-| KYC の経路は何か？ | SIM 購入時 | 口座開設時 |
-| クロスセルの方向は何か？ | 通信キャリア → 金融 → ウォレット | カード / 銀行 → ウォレット → 小売 |
-| データグラフは何か？ | ロケーション + アプリ + 通信キャリア利用 | 支出 + 口座フロー + CCC 小売データベース |
-| 競争上のモートは何か？ | モバイル回線スイッチングの粘着性 | 銀行口座スイッチングの粘着性 |
-| 規制上のアンカーは何か？ | 電気通信事業法 + 資金決済法（決済について） | 銀行法 + 割賦販売法 + 資金決済法 |
-| 金融グループの最終状態は何か？ | 通信キャリア起点の金融持株（[[megabanks/ndfg|NDFG]]、[[megabanks/au-fh|au FH]]） | 銀行主導グループ（[[megabanks/smfg|SMFG]] / Olive） |
+| Where does customer ID originate? | Mobile contract signup | Bank / card application |
+| What's the recurring billing relationship? | Monthly phone bill | Monthly card statement |
+| What's the KYC pathway? | At SIM purchase | At account opening |
+| What's the cross-sell direction? | Telco → finance → wallet | Card / bank → wallet → retail |
+| What's the data graph? | Location + app + telco usage | Spend + account flow + CCC retail database |
+| What's the competitive moat? | Stickiness of mobile-line switching | Stickiness of bank-account switching |
+| What's the regulatory anchor? | 電気通信事業法 + 資金決済法 (for payments) | 銀行法 + 割賦販売法 + 資金決済法 |
+| What's the financial-group end-state? | Telco-anchored financial holding ([[megabanks/ndfg|NDFG]], [[megabanks/au-fh|au FH]]) | Bank-led group ([[megabanks/smfg|SMFG]] / Olive) |
 
-2 つのアンカータイプは同じ下流商品（カード、銀行、証券、保険、決済、リテールメディア）に収斂するが、異なる獲得ファネルを通じてそこに到達し、異なる防衛的エコノミクスを持つ。通信キャリアのアンカーは基盤となる契約の低い解約率を享受し、金融のアンカーはアクティブな関係あたりの高い収益を享受する。
+The two anchor types converge on the same downstream products (card, bank, securities, insurance, payments, retail media), but they reach them through different acquisition funnels and have different defensive economics. Telco anchors enjoy lower churn on the underlying subscription; finance anchors enjoy higher revenue per active relationship.
 
-## 発行と付与のメカニクス
+## Issuance and accrual mechanics
 
-2 つの通信キャリアプログラムの目に見える違いは、消費者の面（キャッシュバック率、パートナーネットワーク）にある。その下にある会計および運用のメカニクスは構造的に類似している：
+The visible difference between the two telco programmes is at the consumer surface (cashback rate, partner network). The accounting and operational mechanics underneath are similar in structure:
 
-| メカニクス | d Point | au PAY ポイント |
+| Mechanic | d Point | Ponta / au services |
 |---|---|---|
-| 自社サービスでの標準付与率 | docomo 請求 / d払い / d Card で 1% | au 請求 / au PAY / au PAY カードで 1% |
-| フラッグシップパートナーでのボーナス付与 | 変動、プロモ期間にしばしば 1-3%追加 | 変動、プロモ期間にしばしば 1-2%追加 |
-| プレミアムカード乗数 | d Card GOLD は docomo 請求にさらなるポイント乗数を追加 | au PAY ゴールドカードは au 請求に乗数を追加 |
-| 償還価値 | ほとんどの小売パートナーおよび d払い / au PAY で 1 ポイント = 1 円 | 同じ |
-| 有効期限ポリシー | 標準ポイントは通常指定期間後に失効；キャンペーンポイントはしばしばより短い有効期限 | 同じ |
-| 移転可能性 | 限定的な個人間移転（ルール内で） | 限定的 |
-| 負債会計 | 発行時にロイヤルティ負債を計上；ブレッケージは IFRS-15 / J-GAAP に従って推定され時間とともに取り崩される | 同じ |
+| Accrual | Rate and eligibility depend on the d Point / d払い / d Card terms in force | Rate and eligibility depend on the Ponta / au PAY / au PAY Card terms in force |
+| Bonus points | Campaign-specific conditions and expiry apply | Campaign-specific conditions and expiry apply |
+| Redemption | Value and eligible services follow the current programme terms | Value and eligible services follow the current programme terms |
+| Accounting review | Determine the customer promise, funder, obligor, principal-agent role, and expected redemption under the relevant contract | Same; do not infer KDDI's obligation from Loyalty Marketing's consumer programme page |
 
-ポイント負債の問題 — 失効 / 没収されたポイントを収益（ブレッケージ）として取り崩すべきか、どの率でか — は、[[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] に文書化された非自明な会計問題である。NTT docomo と KDDI はともに連結バランスシート上に多額のロイヤルティ負債を抱えており、ブレッケージ率の前提は報告収益に直接影響する。
+Sources: the current [d Point guide](https://dpoint.docomo.ne.jp/guide/index.html), KDDI's [Ponta transition announcement](https://news.kddi.com/kddi/corporate/newsrelease/2020/05/21/4447.html), and [ASBJ Statement No. 29](https://www.asb.or.jp/jp/wp-content/uploads/asbj_29.pdf). This is a framework comparison; entity-specific accounting follows contracts and issuer financial-statement disclosures.
 
-## 連合パートナーのメカニクス連合構造 — どのパートナーがどのポイントを受け入れるか、誰が発行を負担するか、誰が償還を支払うか — は、あらゆる共通ポイントプログラムの運用上の核である。
+The point-liability question — whether a customer option creates a performance obligation, which entity owes redemption, and when any breakage can be recognised — is documented in [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]]. A programme page alone does not establish either group's reported balance or accounting policy.
 
-| 側面 | d Point | au PAY ポイント |
+## Coalition partner mechanics
+
+The coalition structure — which partners accept which points, who funds the issuance, who pays for redemption — is the operational core of any common-point programme.
+
+| Aspect | d Point | Ponta / au services |
 |---|---|---|
-| 発行の資金負担 | NTT docomo またはパートナー加盟店が自店で発行されたポイントを負担 | KDDI またはパートナー加盟店が自店で発行されたポイントを負担 |
-| 償還の資金負担 | 償還時点でパートナー加盟店が負担；連合全体でネット決済 | 同じ |
-| パートナー別エコノミクス | 二者間で交渉；大規模パートナーは優遇条件を得る | 同じ |
-| コブランドカード | d Card は選定パートナーとコブランド（例：d Card Lawson PONTA） | au PAY カードは選定パートナーとコブランド |
-| 決済サイクル | docomo とパートナー間の定期的なネット決済 | KDDI とパートナー間の定期的なネット決済 |
-| クロス連合交換 | 一部の方向で許可（例：d Point ↔ JAL マイル）固定レートで | 許可（例：au PAY ポイント ↔ JAL マイル）固定レートで |
+| Public consumer surface | Earn / use conditions disclosed in d Point and partner terms | Earn / use conditions disclosed in Ponta, au PAY, and partner terms |
+| Funder and redemption obligor | Must be established from the contract for the specific offer | Same |
+| Commercial economics | Partner pricing, settlement rate, cycle, security, and margin are not established by consumer pages | Same |
+| Co-branded card | d Card co-branded with selected partners (e.g., d Card Lawson PONTA) | au PAY カード co-branded with select partners |
+| Cross-program exchange | Availability and customer rate follow current public terms | Availability and customer rate follow current public terms |
 
-パートナーが連合に参加する経済的インセンティブは、パートナーが負担するポイント発行と引き換えに得る**増分のトラフィックと増分のバスケットサイズ**である。この算術は、増分のトラフィックがポイント負担コストを上回るとパートナーが確信できる場合にのみ成立する — だからこそ高頻度 / 衝動購買の小売（コンビニ、ドラッグストア、燃料）が最も受容的なセグメントであり、そうしたセグメントをめぐる競争が最も激しいのである。
+Sources: [d Point guide](https://dpoint.docomo.ne.jp/guide/index.html), [Ponta](https://www.ponta.jp/), and KDDI's [2020 Ponta transition announcement](https://news.kddi.com/kddi/corporate/newsrelease/2020/05/21/4447.html). Undisclosed partner settlement mechanics are intentionally not asserted.
 
-## 戦略的な読み解き
+The economic incentive for a partner to join a coalition is **incremental traffic and incremental basket size** in exchange for partner-funded point issuance. The arithmetic only works when the partner is confident the incremental traffic exceeds the point-funding cost — which is why high-frequency / impulse-purchase retail (convenience, pharmacy, fuel) is the most receptive segment, and why competition for those segments is the most fierce.
 
-- **通信キャリア起点のポイントプログラムは日本で最もコスト効率の高いクロスセルプラットフォームである**。なぜならモバイル契約が KYC、顧客獲得、そして経常的な課金レールの費用を負担しているからである；ロイヤルティ層はすでに費用が支払われた関係をマネタイズする。
-- **d Point / au PAY ポイントの競合は数十年にわたる争いである**。なぜなら両アンカーは全国的なフットプリントを持ち、両者は統合された金融持株を持ち、いずれも構造的なコスト上の不利を持たないからである。PayPay のエコシステム（[[megabanks/paypay-fg|PayPay FG]]）は異なる出発点（モバイル回線アンカーではなく LY / SoftBank / Yahoo のデータ資産）から運営され、第三の軸で競争する。
-- **コード決済の浸透は、より深い金融グループ競争の目に見える層である** — ウォレットサイドの見方については [[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]] 参照；d払いと au PAY はいずれも、主としてトランザクションレベルのデータを捕捉し、カード / 銀行 / 保険 / 証券へのクロスセル基盤を広げるために存在する。
-- **ポイント負債の会計問題は通信キャリアの規模ではより重要である** — d Point と au PAY ポイントはいずれも数百億円規模の計上済みロイヤルティ負債を、相当なブレッケージ前提とともに抱えている。IFRS-15 / J-GAAP の処理は [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] に文書化されている。
-- **小売の獲得（ローソン、ENEOS、マツモトキヨシ）はもはやコモディティではない** — KDDI の [[retail/lawson-kddi-retail-finance|Lawson]] の動きは、マルチポイントパートナーシップのコストベースを変える。NTT docomo による小売アンカーへの同様の資本の動きに注目されたい。
+## Strategic reading
 
-## 関連
+- **Telco-anchored point programmes are the most cost-efficient cross-sell platform in Japan** because the mobile contract pays for KYC, customer acquisition, and the recurring billing rail; the loyalty layer monetises an already-paid-for relationship.
+- **The d Point / KDDI-Ponta rivalry spans different operator structures**: d Point is tied to the docomo perimeter, while Ponta is a multi-shareholder coalition connected to KDDI services. PayPay's ecosystem ([[megabanks/paypay-fg|PayPay FG]]) operates from a wallet / platform starting point.
+- **Code-payment penetration is the visible layer of a deeper financial-group competition** — see [[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]] for the wallet-side view; both d払い and au PAY exist primarily to capture transaction-level data and to widen the cross-sell base into card / bank / insurance / securities.
+- **The accounting question is entity- and contract-specific** — consult the reporting entity's exact note before attributing a loyalty liability or breakage assumption. The framework is documented in [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]].
+- **Retail acquisition (Lawson, ENEOS, Matsumoto Kiyoshi) is no longer commodity** — KDDI's [[retail/lawson-kddi-retail-finance|Lawson]] move changes the cost basis of multi-point partnerships. Watch for similar equity moves by NTT docomo on retail anchors.
+
+## Related
 
 - [[loyalty/INDEX|loyalty INDEX]]
 - [[loyalty/japan-points-landscape|Japan points and loyalty landscape]]
@@ -165,10 +168,10 @@ V Point との構造的比較（[[loyalty/v-point-smbc-ccc-case|V Point (SMBC ×
 - [[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]]
 - [[INDEX|FinWiki index]]
 
-## 出典
+## Sources
 
-- d Point Club 公式サイト：https://dpoint.docomo.ne.jp/
-- au PAY ポイント（旧 Ponta）公式：https://aupay.wallet.auone.jp/contents/static/point/
-- KDDI コーポレートニュースリリース（au FH 統合、ローソン買収）：https://www.kddi.com/corporate/newsrelease/
-- NTT docomo プレスリリース（NDFG 統合発表）：https://www.docomo.ne.jp/info/news_release/
-- リクルートホールディングス ニュースルーム（Ponta の歴史と au 連合）：https://www.recruit.co.jp/newsroom/
+- d Point Club official site: https://dpoint.docomo.ne.jp/
+- KDDI 2020-05-21 Pontaポイント変更発表：https://news.kddi.com/kddi/corporate/newsrelease/2020/05/21/4447.html
+- Loyalty Marketing company profile：https://www.loyalty.co.jp/company/outline
+- NTT docomo press releases (NDFG consolidation announcements): https://www.docomo.ne.jp/info/news_release/
+- Recruit Holdings newsroom (Ponta history and au coalition): https://www.recruit.co.jp/newsroom/

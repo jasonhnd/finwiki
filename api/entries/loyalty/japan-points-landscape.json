@@ -100,13 +100,21 @@
       "https://finwiki.zksc.io/ja/retail/aeon-group/",
       "https://finwiki.zksc.io/ja/retail/seven-and-i-hd/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 7,
+    "external_links": [
+      "https://dpoint.docomo.ne.jp/",
+      "https://elaws.e-gov.go.jp/document?lawid=421AC0000000059",
+      "https://point.rakuten.co.jp/guidance/en/faq/pointinfo/",
+      "https://www.ccc.co.jp/en/news/press/20240109_002347.html",
+      "https://www.fsa.go.jp/menkyo/menkyo.html",
+      "https://www.nanaco-net.jp/introduction/",
+      "https://www.waon.net/point/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 6282,
-    "word_like_tokens": 1037,
+    "nonspace_chars": 7301,
+    "word_like_tokens": 1208,
     "inbound_wikilinks_count": 55,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-29"
   }
 }

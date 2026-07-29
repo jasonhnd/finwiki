@@ -37,6 +37,8 @@ This page splits the Japan operating company from the global TFS holding page. T
 | Parent group | [[manufacturer-finance/toyota-motor|Toyota Motor]] group |
 | Main lanes | Sales finance, credit card, mobility finance, dealer-linked finance |
 
+Sources: [トヨタファイナンス会社概要](https://www.toyota-finance.co.jp/company/data.html) and [Toyota Financial Services company profile](https://www.tfsc.jp/corporate/index.html).
+
 ## 2. Business Role
 
 - Toyota Finance presents itself as a mobility financial services company built on sales finance and credit-card businesses.

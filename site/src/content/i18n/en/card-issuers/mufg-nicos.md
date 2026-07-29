@@ -1,11 +1,11 @@
 ---
 source: card-issuers/mufg-nicos
-source_hash: 419f352a4cb516c6
+source_hash: 136eb73187acc54e
 lang: en
 status: machine
 fidelity: ok
 title: "Mitsubishi UFJ NICOS"
-translated_at: 2026-06-15T03:48:21.919Z
+translated_at: 2026-07-29T07:29:14.000Z
 ---
 
 # Mitsubishi UFJ NICOS
@@ -28,6 +28,8 @@ Mitsubishi UFJ NICOS Co., Ltd. is the card / consumer-credit operating company o
 | Acquiring lane | Registration as a credit-card-number handling contract operator (merchant contracts / card-number management) |
 | Cash-advance lane | Card loans / cash-advance lines fall under the Money Lending Business Act framework |
 | Supervision | Financial Services Agency (banking group / money lending) + Ministry of Economy, Trade and Industry (Installment Sales Act); self-regulation by [[card-issuers/installment-sales-act-2020-amendment|日本クレジット協会]] |
+
+Sources: [Mitsubishi UFJ NICOS company information](https://www.cr.mufg.jp/corporate/company/) and [METI list of comprehensive credit-purchase intermediaries](https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html). The card-number merchant-contract registration should be verified in the current METI register.
 
 ## 2. Operating model
 

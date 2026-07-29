@@ -45,12 +45,14 @@
     "sources": [
       "https://www.necap.co.jp/",
       "https://www.necap.co.jp/ir/",
+      "https://www.necap.co.jp/csv/report/pdf/2024_report_P47_50.pdf",
+      "https://www.necap.co.jp/company/pdf/FIEA.pdf",
       "https://www.nec.com/",
       "https://www.leasing.or.jp/",
       "東証 PRIME 8793 上場 公開情報"
     ]
   },
-  "summary": "This entry sits under leasing-firms INDEX. Read it against リコーリース for peer / contrast context (both are事業会社 captive lease) and banking index for the broader system / regulatory boundary. Read it together with 芙蓉総合リース for the準大手 leasing peer set.",
+  "summary": "This entry sits under leasing-firms INDEX. Read it against リコーリース for peer / contrast context (both are manufacturer-product vendor lease を起点とする上場会社) and banking index for the broader system / regulatory boundary. Read it together with 芙蓉総合リース for the準大手 leasing peer set.",
   "headings": [
     "NECキャピタルソリューション",
     "Wiki route",
@@ -88,13 +90,18 @@
       "https://finwiki.zksc.io/ja/leasing-firms/ricoh-leasing/",
       "https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 4,
+    "external_links": [
+      "https://www.necap.co.jp/",
+      "https://www.necap.co.jp/company/pdf/FIEA.pdf",
+      "https://www.necap.co.jp/csv/report/pdf/2024_report_P47_50.pdf",
+      "https://www.r-lease.co.jp/ir/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 3473,
-    "word_like_tokens": 618,
-    "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 3869,
+    "word_like_tokens": 673,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-07-29"
   }
 }

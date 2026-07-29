@@ -36,6 +36,8 @@ This entry sits under [[card-issuers/INDEX|card-issuers INDEX]] (its domain rout
 | Supervision | 金融庁（貸金）＋ 経済産業省（割賦販売法）、自主規制は [[card-issuers/installment-sales-act-2020-amendment|日本クレジット協会]] |
 | Wiki role | non-megabank co-brand / 提携カード issuer anchor |
 
+Sources: [ポケットカード会社概要](https://www.pocketcard.co.jp/ir/profile/profile_031.html) and [METI の登録事業者一覧](https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html). The official profile lists 株式会社PCH（伊藤忠商事の100%子会社）、ファミリーマート、三井住友銀行 as shareholders; ownership remains time-sensitive.
+
 ## 2. Business model
 
 ポケットカードは retail / コンビニ提携を入会・利用チャネルにし、提携 (co-brand) カードを通じて retail relationship を revolving credit と payment data に変換する。割賦の中身は一括・分割払い (分割払い)・リボ (リボルビング)。[[payment-firms/famima-digital-one|Famima Digital One]] のコード決済とともにファミマ／伊藤忠系の payment 接点を形成し、非 megabank のカード競争を読む good case になる。retail payment alliance と loyalty 経済を mapping する際にその boundary が効いてくる。

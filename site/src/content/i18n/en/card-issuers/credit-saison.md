@@ -1,11 +1,11 @@
 ---
 source: card-issuers/credit-saison
-source_hash: 3028b16ea5c32458
+source_hash: 9bbf45c486c11c4e
 lang: en
 status: machine
 fidelity: ok
 title: "Credit Saison"
-translated_at: 2026-06-18T23:33:48.306Z
+translated_at: 2026-07-29T07:29:14.000Z
 ---
 
 # Credit Saison
@@ -51,6 +51,8 @@ Credit Saison (operating company, listed 8253)
         ├── Visa / Mastercard / JCB (international brands)
         └── PARCO, Seibu, Tobu, Daimaru Matsuzakaya, etc. (co-branded cards)
 ```
+
+Sources: [Credit Saison company information](https://corporate.saisoncard.co.jp/company/) and [IR library](https://corporate.saisoncard.co.jp/ir/library/). Individual investment-product and overseas-business developments should be checked against the relevant company release.
 
 ## 2. Business-segment map
 

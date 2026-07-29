@@ -1,11 +1,11 @@
 ---
 source: consumer-finance/acom-co-detail
-source_hash: 8c9cc5e2eaf07058
+source_hash: 9c03a18fb96d13eb
 lang: en
 status: machine
 fidelity: ok
 title: "アコム 事業詳細 (Acom Operating Profile)"
-translated_at: 2026-06-18T23:33:48.297Z
+translated_at: 2026-07-29T07:52:14.000Z
 ---
 
 # アコム 事業詳細 (Acom Operating Profile)
@@ -17,15 +17,14 @@ This entry sits under [[consumer-finance/INDEX|consumer-finance INDEX]] and comp
 
 ## TL;DR
 
-[[consumer-finance/acom|アコム株式会社]] (8572  / TSE STANDARD) is a major consumer-finance company that is **an equity-method affiliate of [[megabanks/mufg|MUFG]] (over 39.6% on a voting-rights basis)**. This entry handles the **operating-level depth** of business segments, revenue structure, the guarantee business, overseas expansion, and regulatory compliance. Founded by Masao Kinoshita as "Maruito Gofukuten" in Kobe in 1936-04  → converted into the consumer-finance business and renamed "Acom" in 1978  → listed on the First Section of the TSE in 1996-10  → made an equity-method affiliate via MUFG TOB in 2008-10 . **Acom's strategic core 4  segments** are (a) loans (personal card loans, with the "Mujinkun" automated contract machine as the physical channel), (b) credit cards (AC MasterCard), (c) **credit guarantee** (guaranteeing bank loans for MUFG Bank / regional banks), and (d) **overseas finance** (Thailand's Easy Buy PCL, etc.).
+[[consumer-finance/acom|Acom Co., Ltd.]] (8572 / TSE Standard) is a major consumer-finance company and an **MUFG consolidated subsidiary**. This entry addresses business segments, revenue structure, guarantees, overseas finance, and regulatory compliance. Founded in Kobe in 1936-04 as Maruito Gofuketen, it was renamed Acom in 1978, listed on the TSE First Section in 1996-10, and became an MUFG consolidated subsidiary in 2008-12. Its 4 principal businesses are loans and credit cards, credit guarantees, overseas finance, and debt management and collection.
 
 ## 1. Parent-group relationship
 
-- **MUFG investment**: [[megabanks/mufg|MUFG]] holds over 39.6% on a voting-rights basis (based on the 2024 -period report; voting rights + trust combined)
-- **Consolidated vs equity-method**: on a MUFG consolidated basis it is equity-method; Acom itself is an independent listed company disclosing shareholders on the TSE STANDARD 8572 
-- **Corporate governance**: officers dispatched from MUFG + officers from the founding-family Kinoshita line coexist
-- **Position within the MUFG group**: the consumer-finance business is positioned in the MUFG group's **"Retail × Card" business (Retail & Commercial Banking Business Group)**
-- **Transaction bank**: [[megabanks/mufg-bank|三菱UFJ銀行]] is the main transaction bank and the key partner in the bank-loan guarantee business
+- **Parent company**: [[megabanks/mufg|MUFG]]; Acom’s official history states that it became an MUFG consolidated subsidiary in 2008-12.
+- **Direct holding**: Acom’s share information states that MUFG held 37.57% as of 2026-03-31. Mitsubishi UFJ Trust and Banking Corporation’s 2.01% is shown separately; this page does not add the rows to infer an accounting classification.
+- **Listing**: Acom remains listed on TSE Standard 8572 and discloses shareholder information.
+- **Business relationship**: [[megabanks/mufg-bank|MUFG Bank]] is a principal partner for the card-loan guarantee business.
 
 ## 2. Business segment details
 
@@ -82,16 +81,15 @@ This entry sits under [[consumer-finance/INDEX|consumer-finance INDEX]] and comp
 
 | Item | Scale |
 |---|---|
-| Consolidated operating revenue | About the 2,700 億円 range (2024-03  period) |
-| Consolidated operating profit | The 700-1,000 億円 range |
-| Loan balance (personal) | About 1.6 兆円 |
-| Credit-guarantee balance | On the order of several hundred billion to over a trillion yen |
-| Thailand Easy Buy balance | The several-tens-of-billions to a-hundred-billion-yen range |
-| MUFG equity ratio | Over 39.6% of voting rights (including trust) |
+| Consolidated operating revenue | 3,177 billion yen and 42 million yen (FY ended 2025-03) |
+| Consolidated operating profit | 585 billion yen and 61 million yen (FY ended 2025-03) |
+| Operating loans (consolidated) | 1 trillion yen, 2,020 billion yen, and 85 million yen (2025-03-31) |
+| Operating receivables in overseas finance | 2,667 billion yen and 94 million yen (2025-03-31) |
+| MUFG direct holding | 37.57% (2026-03-31) |
 | Listing | TSE STANDARD 8572  |
-| Employees (consolidated) | About 5,000 名 |
+| Employees (consolidated) | 5,498 (2025-03-31) |
 
-For details, refer to the EDINET annual securities report / Acom IR earnings reports.
+Sources: Acom’s [FY2025 business report](https://www.acom.co.jp/corp/ir/library/key_note/arj_20250620.pdf) supplies the dated consolidated figures; its [share information](https://www.acom.co.jp/corp/ir/stock/outline/) supplies the 2026-03-31 ownership figure.
 
 ## 6. Strategy / recent trends
 
@@ -113,7 +111,7 @@ For details, refer to the EDINET annual securities report / Acom IR earnings rep
 ## Related
 
 - [[consumer-finance/acom|アコム株式会社]] — parent entry
-- [[megabanks/mufg|MUFG]] — equity-method parent group
+- [[megabanks/mufg|MUFG]] — parent company
 - [[megabanks/mufg-bank|三菱UFJ銀行]] — main transaction bank / key credit-guarantee partner
 - [[consumer-finance/smbc-consumer-finance|SMBCコンシューマーファイナンス (プロミス)]] — SMFG-affiliated competitor
 - [[consumer-finance/aiful|アイフル]] — independent competitor
@@ -124,8 +122,7 @@ For details, refer to the EDINET annual securities report / Acom IR earnings rep
 
 ## Sources
 
-- Acom official company overview: https://www.acom.co.jp/corporate/corporate/overview.html
-- Acom official IR: https://www.acom.co.jp/corporate/ir/
-- EDINET disclosure-document search: https://disclosure2.edinet-fsa.go.jp/
-- MUFG official list of group companies: https://www.mufg.jp/profile/group/index.html
-- MUFG integrated report (consumer-finance business segment disclosure section)
+- Acom company profile: https://www.acom.co.jp/corp/about-us/company/outline/
+- Acom history: https://www.acom.co.jp/corp/about-us/company/history/
+- Acom share information: https://www.acom.co.jp/corp/ir/stock/outline/
+- Acom 48th-term business report (FY ended 2025-03): https://www.acom.co.jp/corp/ir/library/key_note/arj_20250620.pdf

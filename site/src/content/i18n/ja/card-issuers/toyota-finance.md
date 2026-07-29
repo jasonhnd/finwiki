@@ -1,23 +1,25 @@
 ---
 source: card-issuers/toyota-finance
-source_hash: abe6eb4a64af680f
+source_hash: 1ee41e1d04bd5936
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "トヨタファイナンス"
-translated_at: 2026-06-26T08:32:15.218Z
+translated_at: 2026-07-29T07:29:14.000Z
 ---
 
 # トヨタファイナンス
 
-## Wiki 内の位置づけ
+## Wiki route
 
-本項目は [[card-issuers/INDEX|card-発行会社 INDEX]] の下に位置する。親会社 / 事業会社の分離については [[leasing-firms/toyota-financial|Toyota Financial Services]]、割賦信用・カードの境界については [[payments/credit-purchase-card-operators-japan-index|Japan credit purchase and card operator registry index]] と併読されたい。
+This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against [[leasing-firms/toyota-financial|Toyota Financial Services]] for parent / operating-company separation and [[payments/credit-purchase-card-operators-japan-index|Japan credit purchase and card operator registry index]] for the installment-credit and card boundary.
 
-## 概要トヨタファイナンス株式会社は、[[manufacturer-finance/toyota-motor|Toyota Motor]] グループの国内中核金融会社であり、[[leasing-firms/toyota-financial|Toyota Financial Services]] の完全子会社。公式の会社概要では、販売金融やクレジットカードなどの金融事業を提供すると記されている。
+## Overview
 
-このページは、日本の事業会社を、グローバルな TFS 持株会社ページから分離する。その分離が重要なのは、トヨタファイナンスが国内の自動車信用、ディーラー連携金融、カード商品、顧客向け金融サービスが集約される場所だからである。
+トヨタファイナンス株式会社 is the domestic core finance company of the [[manufacturer-finance/toyota-motor|Toyota Motor]] group and a wholly owned subsidiary of [[leasing-firms/toyota-financial|Toyota Financial Services]]. Its official company profile states that it provides financial businesses such as sales finance and credit cards.
+
+This page splits the Japan operating company from the global TFS holding page. That separation matters because Toyota Finance is where domestic auto credit, dealer-linked finance, card products, and customer-facing financial services converge.
 
 ## 1. 法人・グループ境界
 
@@ -29,18 +31,20 @@ translated_at: 2026-06-26T08:32:15.218Z
 | Parent group | [[manufacturer-finance/toyota-motor|Toyota Motor]] group |
 | Main lanes | Sales finance, credit card, mobility finance, dealer-linked finance |
 
-## 2. 事業上の役割
+Sources: [トヨタファイナンス会社概要](https://www.toyota-finance.co.jp/company/data.html) and [Toyota Financial Services company profile](https://www.tfsc.jp/corporate/index.html).
 
-- トヨタファイナンスは、自社を販売金融とクレジットカード事業を基盤としたモビリティ金融サービス会社と位置づけている。
-- 会社概要には販売金融やクレジットカードを含む金融事業が列挙されており、一方で TFS 親会社の会社概要は、Toyota Financial Services を自動車販売金融サービスの持株 / 統括会社と位置づけている。
-- そのオペレーティングモデルは単なる「カード発行」ではなく、ディーラー、自動車信用、リース / 販売金融、保険の隣接領域、そしてトヨタの顧客データを結びつけるものである。
-- ディーラー連携の自動車ローン分野では、独立系の信販発行会社であり国内自動車ローン No.1, の [[card-issuers/orico|オリコ]] と真正面から競合する。同社は非キャプティブの基盤から同じショールーム割賦フローにアプローチする。
+## 2. Business Role
 
-## 3. この独立ページが重要な理由
+- Toyota Finance presents itself as a mobility financial services company built on sales finance and credit-card businesses.
+- The company profile lists financial businesses including sales finance and credit cards, while the TFS parent company profile identifies Toyota Financial Services as the holding / coordinating company for auto sales finance services.
+- The operating model is not just "card issuing"; it links dealers, auto credit, leasing / sales finance, insurance adjacency, and Toyota customer data.
+- On the dealer-linked auto-loan lane it competes head-on with the independent 信販 issuer [[card-issuers/orico|オリコ]], domestic auto-loan No.1, which reaches the same showroom installment flow from a non-captive base.
 
-[[leasing-firms/toyota-financial|Toyota Financial Services]] はグローバルな金融持株 / 統括ルートである。トヨタファイナンスは、車両購入、ディーラー金融、TS CUBIC カード商品、そして日本固有の顧客チャネルを結びつける国内事業会社である。両者を一つのページとして扱うと、ライセンス・商品・チャネルの境界が見えなくなる。
+## 3. Why This Standalone Page Matters
 
-## 関連項目
+[[leasing-firms/toyota-financial|Toyota Financial Services]] is the global financial holding / coordination route. Toyota Finance is the domestic operating company that connects vehicle purchase, dealer finance, TS CUBIC card products, and Japan-specific customer channels. Treating both as one page hides the license, product, and channel boundary.
+
+## Related
 
 - [[leasing-firms/toyota-financial]]
 - [[manufacturer-finance/toyota-motor]]
@@ -49,7 +53,7 @@ translated_at: 2026-06-26T08:32:15.218Z
 - [[card-issuers/jaccs]]
 - [[payments/credit-purchase-card-operators-japan-index]]
 
-## 出典
+## Sources
 
 - Toyota Finance company profile: https://www.toyota-finance.co.jp/company/data.html
 - Toyota Finance overview: https://www.toyota-finance.co.jp/about/glance.html

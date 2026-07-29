@@ -35,6 +35,8 @@ For FinWiki, the page matters because [[megabanks/sbi-hd|SBI]] uses SBI Shinsei 
 | Main lanes | Personal loans, credit guarantee, consumer finance |
 | Public registration route | Money-lending registration: 関東財務局長(11) 第01024号, per company profile |
 
+Sources: [Shinsei Financial's corporate profile](https://shinseifinancial.co.jp/company/corporate.html) for the legal entity, businesses, and registration, and [SBI Group's group-company profile](https://www.sbigroup.co.jp/company/group/shinseifinancial.php) for the group relationship.
+
 ## 2. Business Role
 
 - The official company profile lists personal loans, credit guarantee, and related services as the business scope.

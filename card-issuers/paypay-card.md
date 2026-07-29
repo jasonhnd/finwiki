@@ -40,6 +40,8 @@ PayPayカードは [[megabanks/paypay-fg|PayPay金融グループ]] のクレジ
 | 規制上の確認経路 | 公式会社情報と、クレジットカード・割賦販売法管理に関する経済産業省の信用取引資料を確認する。^[verified-2026-06-24] |
 | 会社ページ上の商品区分 | 公式会社ナビゲーションは PayPay Card、PayPay Card Gold、PayPay Credit を分けており、会社フッターでは貸金業登録も別に開示している。^[verified-2026-06-24] |
 
+Sources: [PayPayカード会社情報](https://www.paypay-card.co.jp/company/) and [METI の信用取引政策](https://www.meti.go.jp/policy/economy/consumer/credit/). The company page supports the product and lending-registration disclosure; the statutory classification must be checked against the current METI register.
+
 ## 2. 事業上の役割
 
 - PayPay のコード決済とアプリ配布基盤に、リボルビング払い・クレジットカードの経済性を加える。会社ページは、PayPay Card と PayPay Credit を PayPay アプリに隣接する与信商品として明示している。^[verified-2026-06-24]

@@ -1,31 +1,33 @@
 ---
 source: leasing-firms/mebuki-lease
-source_hash: 0fdc9f1fb8ce9bd4
+source_hash: 85c0b93139bb7125
 lang: ja
 status: machine
 fidelity: ok
-title: "めぶきリース（Mebuki Lease）"
-translated_at: 2026-06-02T14:54:39.093Z
+title: "めぶきリース (Mebuki Lease)"
+translated_at: 2026-07-29T07:37:42Z
 ---
-# めぶきリース（Mebuki Lease）
+
 # めぶきリース (Mebuki Lease)
 
-## ウィキ上の位置づけ
+## Wiki route
 
-この項目は [[leasing-firms/INDEX|leasing-firms INDEX]] の下で、[[regional-banks/mebuki-fg|めぶき FG]] に関するFG子会社リース運営会社の基点として置く。親会社側の運営銀行 [[regional-banks/joyo-bank|常陽銀行]] / [[regional-banks/ashikaga-bank|足利銀行]]、および兄弟子会社 [[securities-firms/mebuki-securities|めぶき証券]] と照合して読む。比較対象は [[leasing-firms/hokkaido-lease|北海道リース]]（北洋・北海道銀行系）と大手リース会社 [[leasing-firms/mitsubishi-hc-capital|三菱 HC キャピタル]] / [[leasing-firms/mizuho-lease|みずほリース]]。より広い制度ルートは [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] と [[banking/INDEX|banking index]]。
+This entry sits under the [[leasing-firms/INDEX|leasing-firms INDEX]] as the FG-subsidiary leasing operating-company anchor for [[regional-banks/mebuki-fg|めぶき FG]]. Read it against parent operating banks [[regional-banks/joyo-bank|常陽銀行]] / [[regional-banks/ashikaga-bank|足利銀行]] and sibling subsidiary [[securities-firms/mebuki-securities|めぶき証券]]. Peer comparison: [[leasing-firms/hokkaido-lease|北海道リース]] (北洋・北海道銀行系) and major lessor [[leasing-firms/mitsubishi-hc-capital|三菱 HC キャピタル]] / [[leasing-firms/mizuho-lease|みずほリース]]. For broader system route see [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] and [[banking/INDEX|banking index]].
 
-## 要約
+## TL;DR
 
 株式会社めぶきリースは、[[regional-banks/mebuki-fg|めぶき FG]] (東証 PRIME 7167) 100% 子会社の地銀系リース会社で、**1974-09 に [[regional-banks/joyo-bank|常陽銀行]] が設立した「常陽リース」を母体とし、2017-04-03 に めぶき FG が全株式を取得して「めぶきリース」へ商号変更**して発足した（公式沿革・法人登記で確認）。同日付で [[regional-banks/ashikaga-bank|足利銀行]] 子会社「足利信用保証」が手掛けていたリース事業を めぶきリースへ一本化（事業承継）し、宇都宮・足利営業部を開設して栃木側へ展開した（日経 2017-03-07・公式沿革で確認）。**法人格としては常陽リースの単独改称であり、「常陽リース + 足利リース の対等合併」ではない（「足利リース」なる独立会社は存在せず、足利側のリース事業は足利信用保証が運営していた）。** 茨城・栃木・首都圏の中堅企業 main bank 顧客向けに設備リース・ファイナンスリース・オペレーティングリース・ベンダーリース等を提供。地銀系リース上位の一角。^[extracted]
 
-## 1. 免許・グループ境界
+## 1. License / group boundary
 
-| 項目 | 注記 |
+| Item | Notes |
 |---|---|
-| 正式名称 | 株式会社めぶきリース |
-| 英語名 | Mebuki Lease Co., Ltd. |
-| グループ境界 | [[regional-banks/mebuki-fg]] 100% 子会社; [[regional-banks/joyo-bank]] / [[regional-banks/ashikaga-bank]] 銀リース連携相手 |
-| ウィキ上の役割 | Regional-bank FG leasing-子会社 基点 (北関東地盤) |
+| Legal name | 株式会社めぶきリース |
+| English name | Mebuki Lease Co., Ltd. |
+| Group boundary | [[regional-banks/mebuki-fg]] 100% subsidiary; [[regional-banks/joyo-bank]] / [[regional-banks/ashikaga-bank]] 銀リース連携相手 |
+| Wiki role | Regional-bank FG leasing-subsidiary anchor (北関東地盤) |
+
+出典: [めぶきリース](https://www.mebuki-lease.co.jp/)および[めぶきフィナンシャルグループ](https://www.mebuki-fg.co.jp/)（この表のグループ帰属）。
 
 ## 2. 持株ツリー
 
@@ -61,7 +63,7 @@ translated_at: 2026-06-02T14:54:39.093Z
 - **2016-10-01**: [[regional-banks/mebuki-fg|めぶき FG]] 設立 ([[regional-banks/joyo-bank]] + [[regional-banks/ashikaga-bank]] 共同株式移転)
 - **2017-04-03**: めぶき FG が常陽リースの全株式を取得し「めぶきリース」へ改称 — 銀行子会社 2 行の顧客基盤に対するグループ共通リース機能として再編
 
-## 4. KPI表（概念）
+## 4. KPI table (concept)
 
 | 項目 | 概況 |
 |---|---|
@@ -74,6 +76,8 @@ translated_at: 2026-06-02T14:54:39.093Z
 | 銀リース連携 | [[regional-banks/joyo-bank]] / [[regional-banks/ashikaga-bank]] 顧客紹介 + 共同提案 |
 | 主要顧客層 | 北関東中堅企業 + 製造業・農業機械・医療機関・自治体 |
 | 親会社 | [[regional-banks/mebuki-fg]] 100% 出資 |
+
+出典: [めぶきリース会社概要・沿革](https://www.mebuki-lease.co.jp/gaiyo/index.html)（この表の設立、商号変更、資本金、本社および親会社）。
 
 > 注: めぶきリースは非上場の完全子会社のため単体財務 KPI 精緻値は単独開示されず、[[regional-banks/mebuki-fg]] 有価証券報告書セグメント情報を参照
 
@@ -114,7 +118,7 @@ translated_at: 2026-06-02T14:54:39.093Z
   - 環境リース (再エネ設備リース) の脱炭素税制対応
   - 反社チェック・マネロン対策 ([[regional-banks/mebuki-fg]] グループ共同実施)
 
-## 関連
+## Related
 
 - [[regional-banks/mebuki-fg]] · [[regional-banks/joyo-bank]] · [[regional-banks/ashikaga-bank]] · [[securities-firms/mebuki-securities]]
 - [[leasing-firms/mitsubishi-hc-capital]] · [[leasing-firms/smfl]] · [[leasing-firms/mizuho-lease]] · [[leasing-firms/fuyo-lease]] · [[leasing-firms/tokyo-century]] · [[leasing-firms/ricoh-leasing]] · [[leasing-firms/hokkaido-lease]]
@@ -122,7 +126,7 @@ translated_at: 2026-06-02T14:54:39.093Z
 - [[banking/regional-bank-consolidation-pattern]] · [[banking/INDEX]]
 - [[leasing-firms/INDEX|leasing-firms INDEX]]
 
-## 出典
+## Sources
 
 - **めぶきリース 公式サイト・沿革** (https://www.mebuki-lease.co.jp/gaiyo/index.html, 2026-05-30 確認) — 「1974年9月 常陽リース設立」「2017年4月 株式会社めぶきリースへ商号変更」、同 2017年4月に宇都宮・足利営業部を開設（栃木側展開）。沿革は法人格の連続（常陽リース→めぶきリース）を示し、別会社吸収合併としては記載されない（足利信用保証リース事業の承継は事業一本化として日経で確認）
 - **日本経済新聞『常陽銀と足利銀、リース事業を4月に統合』(2017-03-07)** https://www.nikkei.com/article/DGXLZO13723910W7A300C1L60000/ (2026-05-30 確認) — 足利銀子会社「足利信用保証」（行員出向でリース業を展開）のリース事業を、2017-04-03 付で常陽銀子会社「常陽リース」へ一本化し、常陽リースを「めぶきリース」へ改称。**承継元は足利信用保証であり「足利リース」ではない。対等合併ではなく事業一本化。**
@@ -137,4 +141,4 @@ translated_at: 2026-06-02T14:54:39.093Z
 ---
 
 > [!info] 検証状況
-> 確度: **おおむね確度あり** (FGリース子会社の基点として作成 2026-05-24、2026-05-30 に設立沿革・足利側リース統合を公式サイト・法人登記・日経・金融庁で再検証)。[[regional-banks/mebuki-fg]] ページ = 持株会社戦略 を扱い、本ページは リース子会社の運営境界 を扱う。会社概要 (設立 1974-09 / 資本金 1 億円 / 従業員 約 80 名 / 2017-04-03 旧 常陽リースから商号変更) は公式サイト・国税庁法人番号サイトで確認済み。**訂正点 (2026-05-30): 旧版の「常陽リース + 足利リース の対等合併で発足」という framing は誤り。正しくは『常陽リース (1974-09 設立) を 2017-04-03 にめぶき FG が全株式取得し改称』した法人格連続の改称。①「足利リース」なる独立会社は存在せず（足利銀行系リース会社は北関東リース、後年は足利信用保証が行員出向で運営：金融庁 2003-03-11・日経 2017-03-07 で確認）。②ただし 2017-04-03 付で足利信用保証のリース事業を めぶきリースへ一本化承継した事実は確認できる（日経 2017-03-07・公式沿革の宇都宮/足利営業部開設で裏付け）。従前の「足利信用保証リース事業承継は未確認」とした 要再確認 は解消。** 非上場完全子会社のため単体財務 KPI 精緻値は単独開示されず、親 [[regional-banks/mebuki-fg]] 有価証券報告書セグメント情報要参照。
+> confidence: **likely** (FG leasing-subsidiary anchor created 2026-05-24、2026-05-30 に設立沿革・足利側リース統合を公式サイト・法人登記・日経・金融庁で再検証)。[[regional-banks/mebuki-fg]] page = holding-company strategy を扱い、本ページは leasing-subsidiary operating boundary を扱う。会社概要 (設立 1974-09 / 資本金 1 億円 / 従業員 約 80 名 / 2017-04-03 旧 常陽リースから商号変更) は公式サイト・国税庁法人番号サイトで確認済み。**訂正点 (2026-05-30): 旧版の「常陽リース + 足利リース の対等合併で発足」という framing は誤り。正しくは『常陽リース (1974-09 設立) を 2017-04-03 にめぶき FG が全株式取得し改称』した法人格連続の改称。①「足利リース」なる独立会社は存在せず（足利銀行系リース会社は北関東リース、後年は足利信用保証が行員出向で運営：金融庁 2003-03-11・日経 2017-03-07 で確認）。②ただし 2017-04-03 付で足利信用保証のリース事業を めぶきリースへ一本化承継した事実は確認できる（日経 2017-03-07・公式沿革の宇都宮/足利営業部開設で裏付け）。従前の「足利信用保証リース事業承継は未確認」とした 要再確認 は解消。** 非上場完全子会社のため単体財務 KPI 精緻値は単独開示されず、親 [[regional-banks/mebuki-fg]] 有価証券報告書セグメント情報要参照。

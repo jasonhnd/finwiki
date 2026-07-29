@@ -1,11 +1,11 @@
 ---
 source: card-issuers/jaccs
-source_hash: 917df2d4a3256942
+source_hash: 688fee782d8e7fe3
 lang: en
 status: machine
 fidelity: ok
 title: "Jaccs Co., Ltd. (株式会社ジャックス)"
-translated_at: 2026-06-18T23:33:48.330Z
+translated_at: 2026-07-29T07:29:14.000Z
 ---
 
 # Jaccs Co., Ltd. (株式会社ジャックス)
@@ -87,17 +87,21 @@ ASEAN is consistent with MUFG's overall overseas strategy (Krungsri / Bank Danam
 | 2022-04  | TSE market-segment review → **TSE PRIME 8584** |
 | 2024〜 | Medium-term management plan (disclosed portion) launched |
 
+Sources: [Jaccs history](https://www.jaccs.co.jp/corporate/about/history/) and [Jaccs IR](https://www.jaccs.co.jp/corporate/ir/) for issuer history and current disclosure.
+
 ### Positioning within the group
 
-The consumer-finance · credit-card · sales-finance 3 axis within the [[megabanks/mufg]] Group:
+Current disclosures support the following limited description of the Jaccs–MUFG relationship:
 
-| Function | Responsible company | Positioning from [[megabanks/mufg]] |
-|---|---|---|
-| Megabank card | Mitsubishi UFJ Nicos | 100% consolidated subsidiary · one of the three major credit cards |
-| Consumer finance (unsecured) | Acom | Equity-method 39.6% · TSE STD 8572  |
-| **Sales finance · individual installment credit** | **Jaccs** | **Equity-method affiliate · TSE PRIME 8584** |
+| Verified item | Public disclosure |
+|---|---|
+| MUFG relationship | Jaccs describes itself as an “MUFG Group company” in its official group strategy |
+| MUFG Bank shareholding | 39.41% (Jaccs official, as of 2026-03-31) |
+| Listing | TSE Prime, securities code 8584 |
 
-In other words, Jaccs occupies the position responsible for "**sales finance = member-merchant-based installments** that [[megabanks/mufg]] cannot easily cover with direct bank lending."
+Sources: [Jaccs stock information](https://www.jaccs.co.jp/corporate/ir/stock/stockinformation/) and [Jaccs group strategy](https://www.jaccs.co.jp/corporate/about/group/strategy/). This page does not infer Acom or Mitsubishi UFJ NICOS percentages.
+
+Jaccs is useful for reading sales finance—installments arranged through merchants—without inferring an allocation of roles or ownership among other MUFG group companies.
 
 ### Competitive structure
 

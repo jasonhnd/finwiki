@@ -1,11 +1,11 @@
 ---
 source: card-issuers/paypay-card
-source_hash: 5414d9f95b90c5e2
+source_hash: e3444ff9464afdd3
 lang: en
 status: machine
 fidelity: ok
 title: "PayPay Card"
-translated_at: 2026-06-26T03:26:36.036Z
+translated_at: 2026-07-29T07:29:14.000Z
 ---
 # PayPay Card
 
@@ -27,6 +27,8 @@ PayPay Card is the credit-card / PayPay Credit operator of [[megabanks/paypay-fg
 | Main lanes | PayPay Card, PayPay Card Gold, PayPay credit products, lending disclosures |
 | Regulatory route | Official company notices; METI credit-transaction materials for credit-card / Installment Sales Act control. ^[verified-2026-06-24] |
 | Company-page product split | Official company navigation separates PayPay Card, PayPay Card Gold, and PayPay Credit, while the company footer separately discloses lending registration. ^[verified-2026-06-24] |
+
+Sources: [PayPay Card company information](https://www.paypay-card.co.jp/company/) and [METI credit-transaction policy](https://www.meti.go.jp/policy/economy/consumer/credit/). The company page supports the product and lending-registration disclosure; the statutory classification must be checked against the current METI register.
 
 ## 2. Business role
 
