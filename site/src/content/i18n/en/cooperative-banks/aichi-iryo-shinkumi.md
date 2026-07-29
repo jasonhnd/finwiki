@@ -1,11 +1,12 @@
 ---
 source: cooperative-banks/aichi-iryo-shinkumi
-source_hash: cc2563bbf1dedf3b
+source_hash: c2c5e0709c5cf7e5
 lang: en
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "愛知県医療信用組合 (Aichi Medical Credit Cooperative)"
-translated_at: 2026-06-18T23:33:48.320Z
+translated_at: 2026-07-29T03:30:48.123Z
 ---
 # 愛知県医療信用組合 (Aichi Medical Credit Cooperative)
 
@@ -102,18 +103,16 @@ Medical shinkumi exist in over 17  prefectures nationwide, one of the largest oc
 | **Retirement-fund management** | Asset-management consultation for members who have reached mandatory retirement |
 | **Medical-corporation working capital** | Short-term funds for medical corporations |
 
-## 5. KPI
+## 5. KPI update route
 
-| Indicator | Value (as of 2022-03-31) | Source |
+| Public items | Primary source | Posting rules |
 |---|---|---|
-| Total assets | Approx. 120.1 億円 | Wikipedia (based on the disclosure brochure) |
-| Deposit balance | Approx. 107.2 億円 | Same as above |
-| Loan balance | Approx. 13.9 億円 | Same as above |
-| Capital | Approx. 0.40 億円 (4,004.9 万円) | Same as above |
-| Number of employees | 4  persons | Same as above |
-| Number of branches | 1 店 | Same as above |
+| Total assets/deposits/loans/investments | Aichi Prefecture Medical Credit Union's latest disclosure magazine | Post only values ​​from the same reference date and the same material |
+| Equity ratio/Non-performing loan indicators | Financial and risk disclosure in the same disclosure magazine | Include the index name, denominator, and base date. |
+| Union members, officers, employees, stores | Organizational overview or disclosure magazine of the association | Do not confuse "store" with branch offices, etc. |
+| Corporate number/head office/registration jurisdiction | Financial Services Agency credit union license list | Check and reflect the update date of the list |
 
-> Note: This cooperative is a small occupation-based shinkumi with a member (dentist) base, and the low loan-to-deposit ratio (about 13% of deposits) reflects a structure in which surplus funds are managed mainly through deposits with the system (Zenshinkumiren). The number of members should be confirmed in this cooperative's disclosure brochure. For the latest figures, see the [Aichi Medical Shinkumi disclosure](https://www.iryoushin.com/).
+Sources: KPI is updated with the latest disclosure magazine published by Aichi Prefecture Medical Credit Union, and corporate identification information is updated with the Financial Services Agency's list of credit union licenses. The 2022 figures derived from secondary materials and the inferences about the loan ratio and investment structure derived from them that were in the previous edition have been withdrawn. ^[Sources: https://www.iryoushin.com/; https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx.]
 
 ## 6. Supervision / regulation
 
@@ -142,7 +141,6 @@ Medical shinkumi exist in over 17  prefectures nationwide, one of the largest oc
 
 - **FSA Credit Cooperative License List**: https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx (corporate number 6180005003438,  registry No. 79)
 - **Aichi Medical Credit Cooperative official (membership eligibility / disclosure)**: https://www.iryoushin.com/
-- **Wikipedia "Aichi Medical Credit Cooperative"** (financial figures as of 2022-03-31; establishment, membership eligibility): https://ja.wikipedia.org/wiki/愛知県医療信用組合
 - **National Central Association of Credit Cooperatives**: https://www.shinyokumiai.or.jp/
 - **Zenshinkumiren (National Federation of Credit Cooperatives) official**: https://www.zenshinkumiren.jp/
 - **Deposit Insurance Corporation official**: https://www.dic.go.jp/
@@ -152,4 +150,4 @@ Medical shinkumi exist in over 17  prefectures nationwide, one of the largest oc
 ---
 
 > [!info] 校核状態
-> confidence: **likely**. The corporate number, registry No., and head-office location (inside the Aichi Dental Association Hall) derived from the FSA registry are ^[extracted] (public information). The total-assets, deposit, loan, capital, employee-count, and branch-count KPIs are sourced from Wikipedia (based on the disclosure brochure, as of 2022-03-31) (only the number of members requires confirmation). The relationship with the Aichi Physicians' Shinkumi (registry No. 78) is also sourced — this cooperative is an occupation-based shinkumi whose members are **dentists** (confirmed on the official site and Wikipedia; expanded its area to dental-association members in Gifu and Mie in 2015 年), while the physicians' shinkumi targets **physicians**, and the two are demarcated by dentists / physicians. Added in the Wave 13  expansion as the representative anchor of medical-occupation shinkumi. **Correction note**: the original statement that the membership base was "medical professionals in general" was inconsistent with the sources (the official site's "a cooperative of dentists, by dentists, for dentists" and Wikipedia), and the membership eligibility has been corrected to center on dentists.
+> confidence: **likely**. The corporate number, registration jurisdiction, and head office location are based on the Financial Services Agency directory, and the membership status, mainly dentists, and renewal routes for products and disclosure are based on the official website. KPIs will be republished only if the latest official disclosure magazine has been directly confirmed.

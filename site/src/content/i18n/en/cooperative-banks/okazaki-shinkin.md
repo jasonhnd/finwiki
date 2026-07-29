@@ -1,11 +1,12 @@
 ---
 source: cooperative-banks/okazaki-shinkin
-source_hash: cfc894d328630a52
+source_hash: ea14be24ec5845d9
 lang: en
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "Okazaki Shinkin Bank (岡崎信用金庫)"
-translated_at: 2026-06-15T03:48:21.877Z
+translated_at: 2026-07-29T03:30:48.131Z
 ---
 
 # Okazaki Shinkin Bank (岡崎信用金庫)
@@ -30,6 +31,8 @@ Okazaki Shinkin Bank (Okashin) is a major regional shinkin bank headquartered in
 | Deposit protection | [[financial-regulators/dic|預金保険機構 (DIC)]] — shinkin deposits are DIC-insured |
 | Home market | 愛知県西三河 + 名古屋市・三河東部一部 |
 | Wiki role | Aichi/Chubu 大手 shinkin operating-company anchor page |
+
+Sources: For official name, corporate number, head office location, and presence on the license list, check the Financial Services Agency list, and check the official profile of Okazaki Shinkin Bank for business district and organization information. Comparison terms are not treated as rankings unless all stocks on the same reference date are compared. ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx; https://www.okashin.co.jp/profile/.]
 
 ## 2. Institution-type business model
 

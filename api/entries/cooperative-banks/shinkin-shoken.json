@@ -11,16 +11,16 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/cooperative-banks/shinkin-shoken.md",
   "raw_markdown_url": "https://finwiki.zksc.io/cooperative-banks/shinkin-shoken.md",
   "domain": "cooperative-banks",
-  "title": "信金中央金庫グループ証券機能 / 信金 AM (Shinkin securities + asset management lane)",
+  "title": "しんきんアセットマネジメント投信 (Shinkin Asset Management)",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "信金中央金庫グループ証券機能 / 信金 AM (Shinkin securities + asset management lane)",
+    "title": "しんきんアセットマネジメント投信 (Shinkin Asset Management)",
     "aliases": [
       "cooperative-banks/shinkin-shoken",
       "shinkin-shoken",
       "信金証券",
       "Shinkin Securities lane",
-      "信金アセットマネジメント",
+      "しんきんアセットマネジメント投信",
       "Shinkin Asset Management",
       "信金 AM",
       "Shinkin AM",
@@ -29,9 +29,9 @@
     "domain": "cooperative-banks",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -48,16 +48,16 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.shinkin-central-bank.jp/",
-      "https://www.shinkin-am.co.jp/",
+      "https://www.skam.co.jp/company/information/",
+      "https://www.shinkin-central-bank.jp/about/group/",
       "https://www.shinkin.org/",
       "https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx",
       "https://www.fsa.go.jp/menkyo/menkyo.html"
     ]
   },
-  "summary": "This entry sits under cooperative-banks INDEX. Read it against 信金中央金庫（中央機関本体）, 全国信用金庫協会（policy / industry body）, and 信金ネットワークサービス（IT 共同インフラ）for the four-leg view of the shinkin central system (中央金庫本体 / 業界団体 / IT インフラ / 証券・運用機能). Compare against 農林中央金庫 グループの 農中信託銀行・農中証券 for the parallel JA central-sy",
+  "summary": "This entry sits under cooperative-banks INDEX. Read it against 信金中央金庫 for the shareholder/group boundary, 全国信用金庫協会 for the industry-body boundary, and 信金ネットワークサービス for the IT-infrastructure boundary.",
   "headings": [
-    "信金中央金庫グループ証券機能 / 信金 AM (Shinkin securities + asset management lane)",
+    "しんきんアセットマネジメント投信 (Shinkin Asset Management)",
     "Wiki route",
     "TL;DR",
     "1. Legal / group boundary",
@@ -66,7 +66,7 @@
     "4. Cross-system comparison（協同組織中央機関グループ間の証券・運用機能の対比）",
     "5. Why this page matters",
     "6. 関連 / 戦略論点",
-    "信用金庫顧客の資産運用ニーズ拡大"
+    "更新時の確認点"
   ],
   "body_links": {
     "wikilinks_count": 18,
@@ -113,8 +113,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6214,
-    "word_like_tokens": 810,
+    "nonspace_chars": 5134,
+    "word_like_tokens": 687,
     "inbound_wikilinks_count": 1,
     "last_modified": "2026-06-06"
   }

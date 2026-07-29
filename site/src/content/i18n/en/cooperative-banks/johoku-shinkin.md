@@ -1,11 +1,12 @@
 ---
 source: cooperative-banks/johoku-shinkin
-source_hash: 8d86b8e7889ed3ec
+source_hash: d3e5fb61ce5c3cf4
 lang: en
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "城北信用金庫"
-translated_at: 2026-06-15T03:48:21.932Z
+translated_at: 2026-07-29T03:30:48.128Z
 ---
 
 # 城北信用金庫
@@ -30,6 +31,8 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks index]]. Read 
 | Deposit protection | [[financial-regulators/dic|預金保険機構 (DIC)]] — shinkin deposits are DIC-insured |
 | Home market | 東京都北部 + 埼玉県南部 |
 | Wiki role | Tokyo 北部 shinkin operating-company anchor page |
+
+Sources: For official name, corporate number, head office location, and presence on the license list, check the Financial Services Agency list, and check the official profile of Johoku Shinkin Bank for business district and organization information. ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx; https://www.shinkin.co.jp/johoku/profile/.]
 
 ## 2. Institution-type business model
 

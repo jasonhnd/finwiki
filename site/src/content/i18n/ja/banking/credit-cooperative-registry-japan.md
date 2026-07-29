@@ -1,11 +1,12 @@
 ---
 source: banking/credit-cooperative-registry-japan
-source_hash: 788abf6c3219bd0d
+source_hash: 5874474a0eb2a133
 lang: ja
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "日本の信用組合レジストリ"
-translated_at: 2026-06-02T11:47:37.279Z
+translated_at: 2026-07-29T03:30:48.095Z
 ---
 
 # 日本の信用組合レジストリ
@@ -29,6 +30,8 @@ translated_at: 2026-06-02T11:47:37.279Z
 | 認可済み信用組合 | 143 |
 | 法的 / 制度的経路 | 中小企業等協同組合法 / 協同組合による金融事業に関する法律 |
 | ウィキ上の扱い | レジストリ索引;独立ページは中央機関または戦略的に重要な例外のみ |
+
+出典: 現在の日付、中央行、および 143 の協力行は、引用された FSA ワークブックから読み取られます。カウントはスナップショットであり、ワークブックが変更されたときに再生成する必要があります。 ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx; https://www.fsa.go.jp/menkyo/menkyo.html.]
 
 ## 2. カバレッジ方針
 

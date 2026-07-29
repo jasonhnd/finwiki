@@ -1,11 +1,12 @@
 ---
 source: cooperative-banks/kyoto-chuo-shinkin
-source_hash: bfca8df246f0af5f
+source_hash: 055f44a92180d45d
 lang: en
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "Kyoto Chuo Shinkin Bank"
-translated_at: 2026-06-15T03:48:21.852Z
+translated_at: 2026-07-29T03:30:48.129Z
 ---
 
 # Kyoto Chuo Shinkin Bank
@@ -29,7 +30,9 @@ Kyoto Chuo Shinkin Bank (Chushin) is a top-tier shinkin bank by deposit scale na
 | Group boundary | Member of the [[cooperative-banks/shinkin-central|信金中央金庫]] cooperative system |
 | Deposit protection | [[financial-regulators/dic|預金保険機構 (DIC)]] — shinkin deposits are DIC-insured |
 | Home market | All of Kyoto City / Kyoto Prefecture + part of Shiga / Osaka Prefecture |
-| Wiki role | Kyoto / Kansai shinkin operating-company anchor page (industry top-tier class) |
+| Wiki role | Kyoto / Kansai shinkin operating-company anchor page |
+
+Sources: Check the official name, corporate number, location of head office, and presence on the license list as listed by the Financial Services Agency, and check the official profile of Kyoto Chuo Shinkin Bank for business district and organization information. The previous version's undefined industry size assessment has been withdrawn. ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx; https://www.chushin.co.jp/profile/.]
 
 ## 2. Institution-type business model
 

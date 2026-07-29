@@ -7,9 +7,9 @@ aliases:
   - "banking/baas-rakuten-jre-bank"
 domain: "banking"
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
-review_by: 2026-11-22
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [banking, BaaS, embedded-finance, bank-api, neobank, japan]
 status: active
@@ -43,6 +43,8 @@ This page sits under [[banking/INDEX|banking domain]] as the operating-model com
 | Corporate API bank | Business account and payment workflows are embedded into SaaS / accounting / platform ops | Licensed bank | [[payment-firms/gmo-aozora-net|GMO Aozora Net Bank]] | API reliability, treasury operations, SME KYC, webhook / integration risk. |
 | Bank-agent route | Non-bank or adjacent bank partner introduces / handles banking service under bank-agent structure | Licensed bank | [[regional-banks/ui-bank|UI Bank]] / CQ BANK-style route | Agency authority and customer explanation boundary. |
 | Narrow BaaS | One banking function, such as quick deposit or direct account charge | Licensed bank plus payment / API layer | [[banking/quick-deposit-four-methods|quick deposit]] | Narrow utility can be valuable without full bank relationship. |
+
+Sources: the rows are analytical operating-model labels grounded in the cited Minna Bank, SSNB, GMO Aozora, and UI Bank service pages. Legal roles must be confirmed per named entity in current FSA registers and contracts; the label alone does not establish a licence or responsibility allocation. ^[Sources: https://baas.minna-no-ginko.com/; https://www.netbk.co.jp/contents/neobank/; https://gmo-aozora.com/company/outline.html; https://www.uibank.co.jp/cqbank/; https://www.fsa.go.jp/common/shinsei/dendai/index.html.]
 
 ## Legal Stack Versus UX Stack
 
@@ -85,6 +87,8 @@ Related legal and payment routes include [[payments/japan-bank-api-payment-agenc
 | Customer support | Bank, partner, or split | Important for complaints and operational risk. |
 | Data use / consent | Bank and partner under relevant privacy / API terms | Critical for embedded-finance monetization. |
 | Economic upside | Bank, partner, or revenue share | Depends on deposits, lending, fees, and cross-sell. |
+
+Sources: this responsibility table is a diligence checklist, not a conclusion about any named contract. Entity-specific allocation requires the bank/partner terms, outsourcing agreement where public, and applicable FSA register or guidance. ^[Sources: https://www.fsa.go.jp/common/shinsei/dendai/index.html; https://www.fsa.go.jp/menkyo/menkyoj/dendai.pdf; https://www.zenginkyo.or.jp/abstract/council/openapi/.]
 
 ## Public Data Fields
 

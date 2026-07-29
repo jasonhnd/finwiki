@@ -25,9 +25,9 @@
     "domain": "banking",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "banking",
@@ -43,30 +43,36 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.jasdec.com/en/",
-      "https://www.jasdec.com/en/system/",
       "https://www.jasdec.com/en/about/office/outline/",
+      "https://www.jasdec.com/en/about/office/history/",
+      "https://www.jasdec.com/en/system/less/",
+      "https://www.jasdec.com/en/system/sb/",
+      "https://www.jasdec.com/en/system/cp/outline/feature/",
+      "https://www.jasdec.com/en/system/fund/outline/basic/index.html",
+      "https://www.jasdec.com/en/system/finance/outline/range/",
+      "https://www.jasdec.com/en/system/dvp/outline/",
+      "https://www.jasdec.com/en/about/jdcc/outline/",
+      "https://www.jasdec.com/en/system/foreign/outline/",
+      "https://www.jasdec.com/en/rule/business-rules/index.html",
       "https://www.jpx.co.jp/jscc/en/cash/cash/assumption-obligation/dvp.html",
-      "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf",
-      "https://www.boj.or.jp/en/paym/jgb_bes/index.htm",
-      "https://www.shintaku-kyokai.or.jp/"
+      "https://www.boj.or.jp/en/paym/jgb_bes/index.htm"
     ]
   },
-  "summary": "This entry sits under banking index as a settlement-infrastructure deep dive that is directly load-bearing for the trust-bank custody operating models. Read it alongside JASDEC entity page and JSCC clearing corp for the market-infrastructure side; with Master Trust Bank operating model, Custody Bank",
+  "summary": "This entry sits under banking index as a settlement-infrastructure companion to JASDEC entity page and JSCC clearing corp. Use it with Master Trust Bank operating model, Custody Bank operating model, Japan master trust and custody bank landscape, trust-bank custody operating comparison, and Japan ma",
   "headings": [
     "JASDEC settlement operations",
     "Wiki route",
     "TL;DR",
-    "1. 機関位置",
-    "What JASDEC is not",
-    "Participant types",
-    "Book-entry systems",
-    "DVP and ancillary services",
-    "Function-type breakdown",
-    "3. 競合構造"
+    "1. Entity and legal-operating perimeter",
+    "2. System map",
+    "3. Participant vocabulary",
+    "4. Clearing, matching, securities settlement, and cash settlement",
+    "5. Corrections to avoid",
+    "6. Trust-bank and custody research boundary",
+    "Related"
   ],
   "body_links": {
-    "wikilinks_count": 29,
+    "wikilinks_count": 27,
     "wikilinks": [
       "banking/INDEX",
       "banking/custody-bank-operating-model",
@@ -83,7 +89,6 @@
       "foreign-financial-institutions/euroclear-bank-japan",
       "foreign-financial-institutions/jpmorgan-japan",
       "foreign-financial-institutions/state-street-japan",
-      "payment-firms/progmat",
       "securities/japan-market-infrastructure-map",
       "securities/japan-securities-clearing-corp",
       "securities/japan-securities-depository-center",
@@ -95,7 +100,6 @@
       "trust-banks/master-trust-bank",
       "trust-banks/mitsubishi-ufj-trust-bank",
       "trust-banks/mizuho-trust-bank",
-      "trust-banks/nochu-trust-bank",
       "trust-banks/sumitomo-mitsui-trust"
     ],
     "resolved_wikilinks": [
@@ -114,7 +118,6 @@
       "https://finwiki.zksc.io/ja/foreign-financial-institutions/euroclear-bank-japan/",
       "https://finwiki.zksc.io/ja/foreign-financial-institutions/jpmorgan-japan/",
       "https://finwiki.zksc.io/ja/foreign-financial-institutions/state-street-japan/",
-      "https://finwiki.zksc.io/ja/payment-firms/progmat/",
       "https://finwiki.zksc.io/ja/securities/japan-market-infrastructure-map/",
       "https://finwiki.zksc.io/ja/securities/japan-securities-clearing-corp/",
       "https://finwiki.zksc.io/ja/securities/japan-securities-depository-center/",
@@ -126,15 +129,14 @@
       "https://finwiki.zksc.io/ja/trust-banks/master-trust-bank/",
       "https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/",
       "https://finwiki.zksc.io/ja/trust-banks/mizuho-trust-bank/",
-      "https://finwiki.zksc.io/ja/trust-banks/nochu-trust-bank/",
       "https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 13873,
-    "word_like_tokens": 2046,
+    "nonspace_chars": 11420,
+    "word_like_tokens": 1809,
     "inbound_wikilinks_count": 8,
     "last_modified": "2026-06-04"
   }

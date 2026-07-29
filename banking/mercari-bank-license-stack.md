@@ -7,9 +7,9 @@ aliases:
 domain: "banking"
 kind: knowledge
 created: 2026-04-24
-last_updated: 2026-05-19
-last_tended: 2026-05-19
-review_by: 2026-11-15
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [banking, baas, license-stack, merpay, minna-bank]
 status: active
@@ -39,6 +39,8 @@ This entry sits under [[banking/INDEX|banking index]]. Read it with [[banking/co
 | API / instruction layer | メルペイ | 電子決済等代行業者として、口座情報取得と資金移動指図を扱う |
 | Wallet / payment layer | メルペイ | 資金移動業、前払式支払手段、クレジット / 後払い関連登録を持つ決済事業者 |
 | UX / marketplace layer | メルカリ app | 売上金、メルペイ残高、おさいふページ、銀行連携導線をユーザーに提示 |
+
+Sources: the banking and partner-branch rows come from the Minna Bank/Merpay launch release; Merpay's API and payment roles come from its own legal notices and must be checked against the current FSA registers. The table does not classify Mercari or Merpay as a bank. ^[Sources: https://corporate.minna-no-ginko.com/common/pdf/news/2025/12/18/newsrelease_media_1218_01.pdf; https://static.jp.mercari.com/electronic_payment_agency_business; https://jp.merpay.com/about/; https://www.fsa.go.jp/menkyo/menkyo.html.]
 
 ## What electronic payment agency explains
 

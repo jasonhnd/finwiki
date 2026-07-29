@@ -3,9 +3,9 @@ title: "城南信用金庫"
 aliases: ["Jonan Shinkin Bank", "城南信金", "信金"]
 domain: cooperative-banks
 created: 2026-05-24
-last_updated: 2026-06-05
-last_tended: 2026-06-05
-review_by: 2026-11-20
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, shinkin, cooperative-banking, tokyo, kanto, operating-company]
 status: active
@@ -37,6 +37,8 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks index]]. Read 
 | Deposit protection | [[financial-regulators/dic|預金保険機構 (DIC)]] — shinkin deposits are DIC-insured |
 | Home market | 東京都南西部 + 神奈川県東部 |
 | Wiki role | Tokyo 大手 shinkin operating-company anchor page |
+
+Sources: 正式名、法人番号、本店所在地、免許名簿上の存在は金融庁一覧、営業地区・組織情報は城南信用金庫の公式案内で確認する。「大手」等の比較語は同一基準日の全庫比較なしに順位として扱わない。 ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx; https://www.jsbank.co.jp/about/.]
 
 ## 2. Institution-type business model
 

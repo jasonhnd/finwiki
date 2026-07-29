@@ -1,103 +1,89 @@
 ---
 source: cooperative-banks/shinkin-shoken
-source_hash: a97174e739c1dc88
+source_hash: e9cf3e41e1883b37
 lang: ja
+model: source-language-sync
 status: machine
 fidelity: ok
-title: "信金中央金庫グループ証券機能 / 信金AM"
-translated_at: 2026-06-02T15:14:17.088Z
+title: "しんきんアセットマネジメント投信 (Shinkin Asset Management)"
+translated_at: 2026-07-29T03:30:48.133Z
 ---
 
-# 信金中央金庫グループ証券機能 / 信金AM
+# しんきんアセットマネジメント投信 (Shinkin Asset Management)
 
-> **ページ範囲メモ**: 本項目は、当初要求されたslug `zenshinkyo-national-association` の代替として `shinkin-shoken` slugで作成された。これは[[financial-regulators/zenshin-kyo|全国信用金庫協会 page]]が既に存在するためである。本ページは、信金AM（Shinkin Asset Management）を中核とし、より広いSCBグループの証券機能を含む、補完的かつ実際に欠けていた面である信用金庫中央システムの証券 / 資産運用部門を扱う。
+> **Page scope note**: The historical slug `shinkin-shoken` is retained for link stability. The verified legal entity covered here is **しんきんアセットマネジメント投信株式会社**; the page does not assert that a separate company named 「信金証券」 exists.
 
-## ウィキ上の位置づけ
+## Wiki route
 
-本項目は[[cooperative-banks/INDEX|cooperative-banks INDEX]]配下に置く。信用金庫中央システムを「中央金庫本体 / 業界団体 / ITインフラ / 証券・運用機能」の四本柱で見るため、[[cooperative-banks/shinkin-central|信金中央金庫]]（中央機関本体）、[[financial-regulators/zenshin-kyo|全国信用金庫協会]]（政策 / 業界団体）、[[cooperative-banks/shinkin-network-services|信金ネットワークサービス]]（IT共同インフラ）と併せて読む。JA中央システムにおける並行する証券レーンとして[[cooperative-banks/norinchukin|農林中央金庫]]グループの[[cooperative-banks/nochu-securities|農中信託銀行・農中証券]]と比較し、[[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]]は、より広い254信用金庫会員基盤の参照先として扱う。協同組織システム全体の比較アンカーは[[banking/japan-cooperative-banking-unified-federation-matrix|Japan cooperative-banking unified federation matrix]]である。
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read it against [[cooperative-banks/shinkin-central|信金中央金庫]] for the shareholder/group boundary, [[financial-regulators/zenshin-kyo|全国信用金庫協会]] for the industry-body boundary, and [[cooperative-banks/shinkin-network-services|信金ネットワークサービス]] for the IT-infrastructure boundary.
 
-## 要約
+## TL;DR
 
-信金中央金庫グループには、信用金庫業界向けに証券業務・資産運用サービスを提供する**証券・資産運用機能**が存在する。中核は **信金アセットマネジメント株式会社（信金 AM, Shinkin Asset Management Co., Ltd.）** で、信金中金が出資する金融商品取引業者（投資運用業・第二種金融商品取引業）として、信用金庫向けに投資信託の組成・運用、信用金庫が個人顧客に販売する公募投信の運用主体としての機能を担う。これは協同組織金融機関業界における証券・運用機能の集約化モデルで、個別信用金庫が単独で運用会社を持つ規模を持たないため、業界共通のアセマネ機能を信金中金グループに集約する構造。同様の構造は [[cooperative-banks/norinchukin|農林中央金庫]] グループの [[cooperative-banks/nochu-securities|農中信託銀行・農中証券・農中バリューインベストメンツ]]、[[cooperative-banks/zenshin-kumi|全国信用協同組合連合会]] グループ等、他の協同組織中央機関グループにも共通する。
+**しんきんアセットマネジメント投信株式会社**（英文名 Shinkin Asset Management Co., Ltd.）は、信金中央金庫が 100% 出資する資産運用会社である。公式会社概要は、1990-12 に全信連投資顧問として設立、1998-11 に現商号へ変更し、事業を投資運用業、投資助言・代理業、第二種金融商品取引業と明記している。したがって「信金証券」という推定会社名や、個別信用金庫の登録を代行する主体とは扱わない。 ^[Sources: https://www.skam.co.jp/company/information/.]
 
-## 1. 法人 / グループ境界
+## 1. Legal / group boundary
 
-| 項目 | 注記 |
+| Item | Notes |
 |---|---|
-| アンカー法人 | 信金アセットマネジメント株式会社（Shinkin Asset Management Co., Ltd.） |
-| グループルート | 信金中央金庫グループ（SCB Group） |
-| 免許ルート | 金融商品取引法（FIEA）下の投資運用業・第二種金融商品取引業（FSA 登録金商業者） |
-| ウィキ上の役割 | 信金中金グループの **証券・運用機能** アンカー項目 |
-| JA系統での対応先 | [[cooperative-banks/norinchukin|農林中央金庫]] 系の [[cooperative-banks/nochu-securities|農中証券・農中バリューインベストメンツ]] |
-| 信組系統での対応先 | 全信組連グループの運用機能（規模は限定的） |
+| Legal entity | しんきんアセットマネジメント投信株式会社 |
+| English name | Shinkin Asset Management Co., Ltd. |
+| Shareholder | 信金中央金庫（100%） |
+| Established / renamed | 1990-12-14 設立、1998-11 現商号へ変更 |
+| Published businesses | 投資運用業、投資助言・代理業、第二種金融商品取引業 |
+| Capital | 2 億円 |
+| Published operating scale | 運用資産 1 兆2,246 億円（2026-03 末）、常勤役職員 78 名（2026-06 末） |
+
+Sources: 法人名、沿革、株主、事業、資本金、運用資産、役職員数は同社の公式会社概要による。登録区分は同ページと金融庁の登録事業者一覧を突合する。 ^[Sources: https://www.skam.co.jp/company/information/; https://www.fsa.go.jp/menkyo/menkyo.html.]
 
 ## 2. 業務の内容
 
-信金 AM および SCB グループ証券機能は以下のような業務を担う：
+公式に確認できる事業境界は次の三つである。
 
-1. **信用金庫向け公募投信の組成・運用**
-   - 各信用金庫が窓口で個人顧客に販売する投信（株式型・債券型・バランス型・MMF・ESG 関連等）の運用主体。
-   - 個別信用金庫が独自に投信を組成する規模を持たないため、業界共通の運用会社として機能。
+1. **投資運用業** — 投資信託等の運用。
+2. **投資助言・代理業** — 契約に基づく助言・代理。
+3. **第二種金融商品取引業** — 登録範囲内の第二種業務。
 
-2. **信用金庫向け私募投信・特定金銭信託**
-   - 信金中金本体・大手信用金庫の余資運用ニーズに応じる私募投信。
-   - 規模の経済を活かした分散投資商品の提供。
+個別ファンド、販売会社、運用資産は公式の商品資料・販売会社一覧・会社概要で基準日付きに確認する。個別信用金庫の登録・販売責任まで同社が一括して負うとは推定しない。
 
-3. **信用金庫向け運用助言・コンサルティング**
-   - 中小信用金庫の運用ポートフォリオ構築・リスク管理助言。
-   - [[cooperative-banks/shinkin-central|信金中金]] 本体の運用とは別の、会員信用金庫個別の運用支援。
+## 3. 系統内位置（Systemic position）
 
-4. **協同組織金融機関向け ESG / 地域 SDGs 投信**
-   - 地域経済貢献・SDGs 連動投信等、協同組織金融機関ならではの ESG 商品開発。
-
-5. **証券業務（FIEA 第二種金融商品取引業）**
-   - 信用金庫店頭での投信販売の商品供給・販売支援。
-   - 個別信用金庫の金商業者登録（第二種金商業 / 金融商品仲介業）のバックエンド。
-
-## 3. 系統内位置（系統内位置）
-
-| 層 | 対応先 |
+| Layer | Counterpart |
 |---|---|
 | 中央機関本体 | [[cooperative-banks/shinkin-central|信金中央金庫]] |
 | 業界団体 | [[financial-regulators/zenshin-kyo|全国信用金庫協会]] |
 | 共同 IT インフラ | [[cooperative-banks/shinkin-network-services|信金ネットワークサービス]] |
 | 証券・資産運用機能 | **本ページ（信金 AM 中核）** |
 | 預金保険 | [[financial-regulators/yokin-hoken-kiko|預金保険機構 (DICJ)]] |
-| 監督 | FSA（金融庁）/ 関東財務局（金商業者登録） |
+| Supervisory | FSA（金融庁）/ 関東財務局（金商業者登録） |
 
-## 4. 系統間比較（協同組織中央機関グループ間の証券・運用機能の対比）
+Sources: 会社間の法的境界は各法人の公式会社概要と金融庁登録で確認する。預金保険は信用金庫の預金に関する制度であり、本ページの運用会社の商品保証を意味しない。 ^[Sources: https://www.skam.co.jp/company/information/; https://www.shinkin-central-bank.jp/about/group/; https://www.fsa.go.jp/menkyo/menkyo.html; https://www.dic.go.jp/.]
 
-| 中央機関グループ | 中核運用会社 | 注記 |
+## 4. Cross-system comparison（協同組織中央機関グループ間の証券・運用機能の対比）
+
+| 確認対象 | 一次資料 | このページで確定する範囲 |
 |---|---|---|
-| 信金中金グループ | 信金 AM | 公募投信運用・信用金庫向け運用助言 |
-| [[cooperative-banks/norinchukin|農中]] グループ | [[cooperative-banks/nochu-securities|農中バリューインベストメンツ]]・農中信託・農中証券 | JA バンク向け運用・農中本体の海外運用バックボーン |
-| 全信組連グループ | 限定的（個別信組向け運用助言が中心） | 規模は信金 AM より小さい |
-| 労金連グループ | 労金協会・連合運用機能 | 労金向け共通運用商品 |
+| しんきんアセットマネジメント投信 | 公式会社概要・財務状況・商品資料 | 法人、株主、登録事業、運用資産、商品 |
+| 信金中央金庫グループ | 信金中央金庫のグループ会社一覧 | 親子関係とグループ内の法人境界 |
+| [[cooperative-banks/norinchukin|農林中金]] 系運用会社 | 農林中央金庫ディスクロージャーと各社登録 | 別法人の株主・登録・商品。名称類似だけで対等比較しない |
+| [[cooperative-banks/zenshin-kumi|全信組連]] | 全信組連の会社・業務開示 | 中央機関本体の業務。未確認の「運用子会社」を仮定しない |
 
-協同組織金融機関業界は、個別組織が単独で証券・運用機能を持つ規模を持たないため、中央機関グループに証券・運用機能を集約するモデルが共通。
+Sources: 比較は各法人の会社概要・グループ一覧・金融庁登録を単位として行う。旧版の未出典の規模順位と「全系統共通モデル」という一般化は撤回した。 ^[Sources: https://www.skam.co.jp/company/information/; https://www.shinkin-central-bank.jp/about/group/; https://www.nochubank.or.jp/ir/disclosure/; https://www.zenshinkumiren.jp/company/.]
 
-## 5. このページが重要な理由
+## 5. Why this page matters
 
-- 信用金庫業界の**第四の中央インフラ層**（中央金庫本体 / 業界団体 / IT 共同 / 証券運用）の アンカー項目。
-- 既存の [[cooperative-banks/shinkin-central|信金中金]]・[[financial-regulators/zenshin-kyo|全信協]]・[[cooperative-banks/shinkin-network-services|SNS]] と並列して、信用金庫業界の機能構造を完成させる。
-- 個別信用金庫が販売する投信の運用主体としての業界共通アセマネ機能の anchor。
-- [[cooperative-banks/norinchukin|農中]] グループ証券機能との対比により、協同組織中央機関グループ全般の証券・運用機能集約モデルのケーススタディとなる。
+- 歴史的 slug と実在法人名のずれを解消し、「信金証券」という別会社の存在を誤認させない。
+- 信金中央金庫、業界団体、IT 会社、資産運用会社を法人単位で区別できる。
+- 投資運用業、投資助言・代理業、第二種金融商品取引業の登録境界を確認できる。
 
 ## 6. 関連 / 戦略論点
 
-### 信用金庫顧客の資産運用ニーズ拡大
+### 更新時の確認点
 
-信用金庫の個人顧客（地域住民・中小企業オーナー）の資産運用ニーズが高齢化・退職金運用・NISA / iDeCo 等の制度普及で拡大しており、信用金庫店頭での投信販売・運用助言の重要性が増している。信金 AM はこの需要に対する業界共通供給機能。
+- 会社概要の運用資産・役職員数には異なる基準日があるため、同日値として結合しない。
+- 個別ファンドの運用方針・販売会社は各ファンドの交付目論見書と公式販売会社一覧を確認する。
+- グループ方針と運用会社の法的責任、信用金庫の販売責任を分けて記述する。
 
-### マイナス金利期からの運用環境変化
-
-2024 年日銀政策金利正常化以降、運用環境は変化しており、信用金庫向け運用商品の組成・運用方針も再調整局面。信金 AM の戦略方向性は信金中金グループ全体の運用方針と連動する。
-
-### ESG / 地域 SDGs 投信
-
-協同組織金融機関ならではの「地域貢献・SDGs 連動」型運用商品の開発が同社の差別化軸の一つ。
-
-## 関連
+## Related
 
 - [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 - [[cooperative-banks/shinkin-central|信金中央金庫]]
@@ -117,15 +103,15 @@ translated_at: 2026-06-02T15:14:17.088Z
 - [[banking/cooperative-banking-japan|Cooperative banking in Japan]]
 - [[banking/INDEX|banking index]]
 
-## 出典
+## Sources
 
-- 信金中央金庫 公式サイト: https://www.shinkin-central-bank.jp/
-- 信金アセットマネジメント公式サイト: https://www.shinkin-am.co.jp/
+- しんきんアセットマネジメント投信 会社概要: https://www.skam.co.jp/company/information/
+- 信金中央金庫 グループ会社: https://www.shinkin-central-bank.jp/about/group/
 - 全国信用金庫協会（Zenshin-kyō）: https://www.shinkin.org/
 - FSA: 信用金庫免許一覧（2025-11-06）: https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx
 - FSA: 免許・許可・登録等を受けている事業者一覧（金商業者登録）: https://www.fsa.go.jp/menkyo/menkyo.html
 
 ---
 
-> [!info] 確度メモ
-> confidence: **likely**. 信金 AM の存在・業務範囲（投資運用業・第二種金商業・公募投信運用）は信金中金グループ公開情報・信金 AM 公式サイトから確認可能。ただし、最新 AUM・運用ポートフォリオ詳細・収益数値は信金中金ディスクロージャー誌・信金 AM 個別開示が一次資料となる。本ページは「信金中金グループ証券機能 anchor」として概念整理を行い、最新数値は一次資料を要参照とする。
+> [!info] Confidence note
+> confidence: **likely**. 2026-07-29 に公式会社概要で法人名、沿革、信金中央金庫 100% 出資、三つの登録事業、運用資産、役職員数を再確認した。旧版の誤った法人名、未確認の「証券会社」像、登録代行、系統間の規模比較は撤回した。

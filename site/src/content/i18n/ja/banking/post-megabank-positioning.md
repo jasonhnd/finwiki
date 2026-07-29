@@ -1,11 +1,12 @@
 ---
 source: banking/post-megabank-positioning
-source_hash: 44716a0efe55f6c1
+source_hash: 794b98dc0eefcc71
 lang: ja
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "ポストメガバンクのポジショニング"
-translated_at: 2026-06-02T11:47:37.316Z
+translated_at: 2026-07-29T03:30:48.117Z
 ---
 
 # ポストメガバンクのポジショニング
@@ -25,6 +26,8 @@ JapanFG における主要なアンカーは [[megabanks/resona-hd]] である:�
 | 強い地域グループ | 統合、持株会社、地域の法人取引戦略を持つ、地域フランチャイズ。 | [[regional-banks/chiba-bank]]、[[regional-banks/fukuoka-fg]]、[[regional-banks/concordia-fg]] |
 | プラットフォーム / ネット銀行 | 支店主導のユニバーサルバンキングではなく、デジタル獲得とエコシステムバンキング。 | [[banking/rakuten-bank]]、[[banking/paypay-bank]]、[[banking/au-jibun-bank]] |
 | 協同組合 / 相互の地域金融 | 株主銀行のロジックではなく、会員または協同組合のロジック。 | [[banking/cooperative-banking-japan]] |
+
+出典: 「ポストメガバンク」は、法定のライセンスクラスではなく、分析的なグループです。 FSA の監督資料と全国銀行協会の機関図は、これらの調査ラベルを読み取るための正式な範囲を提供します。 ^[Sources: https://www.zenginkyo.or.jp/en/banks/financial-institutions/; https://www.fsa.go.jp/common/law/guide/city/index.html.]
 
 ## なぜこのカテゴリーが重要か
 

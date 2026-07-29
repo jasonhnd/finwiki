@@ -1,11 +1,12 @@
 ---
 source: cooperative-banks/sapporo-chuo-shinkumi
-source_hash: 1838e1095a5c545b
+source_hash: efe8351e116cb844
 lang: en
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "Sapporo Chuo Credit Cooperative (札幌中央信用組合)"
-translated_at: 2026-06-18T23:33:48.332Z
+translated_at: 2026-07-29T03:30:48.132Z
 ---
 # Sapporo Chuo Credit Cooperative (札幌中央信用組合)
 
@@ -82,6 +83,8 @@ In Hokkaido there are 7 credit cooperatives in the FSA registry (registry Nos. 1
 | Number of branches | 14 店 (2025-03-31) | Sapporo Chuo Shinkumi official cooperative overview |
 | Number of officers and staff | 124 名 (2025-03-31) | Sapporo Chuo Shinkumi official cooperative overview |
 | Number of members | Not listed in the official cooperative overview (refer to the disclosure publication) | Sapporo Chuo Shinkumi official cooperative overview |
+
+Sources: [Sapporo Chuo Credit Union “Overview”](https://www.sa-chushin.shinkumi.jp/04outline/profile/index.html)（2025-03-31 the current).
 
 > Note: The above are confirmed figures based on the **Sapporo Chuo Credit Cooperative official "cooperative overview" (as of 2025 年 3 月 31 日)**. Total assets and the number of members are not listed in that overview, so refer to [[banking/credit-cooperative-registry-japan|FSA信用組合免許一覧]] + the Sapporo Chuo Shinkumi disclosure publication.
 

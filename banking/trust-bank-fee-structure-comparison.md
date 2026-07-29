@@ -7,9 +7,9 @@ aliases:
   - "信託銀行 fee structure comparison"
 domain: banking
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [banking, trust-bank, custody, asset-administration, pension, fees, comparison]
 status: active
@@ -40,7 +40,7 @@ This entry sits under [[banking/INDEX|banking index]] and complements the operat
 
 ## TL;DR
 
-Trust-bank fee economics in Japan are dominated by three drivers: AUC-bps pricing on securities custody and 投信受託, pension trust admin fees on long-duration mandates, and real-estate trust fees on the full-service trust-bank side. Granular fee schedules are largely non-public — only aggregate-level inference is possible from shareholder consolidated disclosure and individual 投信 prospectuses (信託約款). Across 6 Japan trust banks (MTBJ, CBJ, MUFG Trust, SMTB, Mizuho Trust, SMBC Trust) and 4 global custodians (BNY Mellon, State Street, Citi, JPM), the structural pricing model is similar — AUC bps + per-transaction fees + revenue-share lending — but the mix and the pricing power differ sharply by client segment. Domestic custody-only specialists (MTBJ, CBJ) anchor low bps on volume; full-service trust banks bundle higher-margin real-estate / pension / inheritance fees with custody; global custodians charge a relative premium for cross-border + ICSD connectivity. Mandate-level pricing is not publicly disclosed; the fee-magnitude detail in this entry is therefore industry-level inference rather than entity-specific fact, and is quarantined to `.opinions/banking/trust-bank-fee-structure-comparison.md`.
+Public disclosures support a comparison of business scope and disclosure availability, but not a reliable entity-by-entity fee or “pricing power” ranking. Mandate-level custody and pension terms are generally contractual; investment-trust remuneration is observable fund by fund in prospectuses and trust deeds; listed parents report broader segments. This public page therefore records only observable disclosure boundaries. Analytical estimates remain outside the public corpus.
 
 ## 1. 機関位置
 
@@ -56,6 +56,8 @@ Trust-bank fee economics in Japan are dominated by three drivers: AUC-bps pricin
 | [[foreign-financial-institutions/state-street-japan|State Street Japan]] | Global custodian — Japan unit | JP-specific AUC non-disclosed; parent ~$46.6tn AuC/A (2024-12) | Subsidiary of State Street (NYSE) | Parent-level aggregate only |
 | [[foreign-financial-institutions/jpmorgan-japan|JP Morgan Japan]] | Global custodian — Japan unit | JP-specific AUC non-disclosed; parent ~$35tn+ AuC (end-2024) | Subsidiary of JPMorgan Chase (NYSE) | Parent-level aggregate only |
 | [[foreign-financial-institutions/citigroup-japan|Citi Japan]] | Global custodian — Japan unit | JP-specific AUC non-disclosed; parent ~$26.3tn AuC/A (2024-09) | Subsidiary of Citigroup (NYSE) | Parent-level aggregate only |
+
+Sources: ^[MTBJ FY2024 results, https://www.mastertrust.co.jp/assets/pdf/financial/zm20250521.pdf; CBJ 2025 disclosure, https://www.custody.jp/data/disclosure/pdf/disclosure202507.pdf; State Street FY2024 results, https://investors.statestreet.com/investor-news-events/press-releases/news-details/2025/State-Street-Corporation-NYSE-STT-Reports-Fourth-Quarter-and-Full-Year-2024-Financial-Results/default.aspx; Citigroup Q3 2024 results, https://www.citigroup.com/rcs/citigpa/storage/public/Earnings/Q32024/2024pr-qtr3rslt.pdf.]
 
 ### Custody fee mechanics
 
@@ -83,53 +85,30 @@ Across the 投信 industry the 受託会社報酬 is typically a small fraction 
 
 This line is absent at MTBJ and CBJ — the custody-only specialists do not run real-estate trust.
 
-### Cross-bank fee-economy matrix (10 entities)
+### Cross-entity public comparison boundary
 
-| Fee dimension | MTBJ | CBJ | MUFG Trust | SMTB | Mizuho Trust | SMBC Trust | BNY JP | SS JP | JPM JP | Citi JP |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Securities custody fee | Very low (utility scale) | Very low (utility scale) | Medium (full-service bundled) | Medium (full-service bundled) | Medium (full-service bundled) | High (PB-bundled, low volume) | Medium-high (cross-border premium) | Medium-high (cross-border premium) | Medium-high (cross-border premium) | Medium-high (cross-border premium) |
-| 投信受託 admin fee | Low (utility scale) | Low (utility scale) | Low-medium | Low-medium | Low-medium | Limited line | Limited (JP-投信 not core) | Limited (JP-投信 not core) | Limited | Limited |
-| Pension trust admin fee | Low at GPIF scale; medium at corp DB | Low at GPIF scale; medium at corp DB | Medium (bundled with front-office) | Medium (bundled with front-office) | Medium (bundled with front-office) | Limited | Medium (foreign-pension-side) | Medium (foreign-pension-side) | Medium (foreign-pension-side) | Limited |
-| Real-estate trust fee | None | None | High (large real-estate trust book) | High (large real-estate trust book) | Medium-high | Limited (PB context only) | None (no JP real-estate trust) | None | None | None |
-| Securities-lending agent fee | Revenue-share with beneficial owner | Revenue-share with beneficial owner | Revenue-share | Revenue-share | Revenue-share | Limited | Revenue-share (large agent-lender side) | Revenue-share (large agent-lender) | Revenue-share | Revenue-share |
-| Cash-management spread | Small | Small | Larger (full balance-sheet) | Larger (full balance-sheet) | Larger | PB context | Large in $ context | Large in $ context | Large in $ context | Large in $ context |
-| Inheritance / 遺言 fees | None | None | Yes (high-margin) | Yes (high-margin) | Yes | Yes (PB) | None | None | None | None |
-| PB / wealth advisory fees | None | None | Yes | Yes | Yes | Core (high-margin) | UHNW only | UHNW only | UHNW only | UHNW only |
+| Comparison field | Domestic custody-only specialists | Full-service Japanese trust banks | Global custodians' Japan operations |
+|---|---|---|---|
+| Legal entity and business scope | Official company profile and FSA list | Official company profile and FSA list | FSA list and local official profile |
+| Assets under custody / administration | Entity disclosure where published | Trust-account or segment disclosure; definitions vary | Usually parent-level; Japan-only amount often absent |
+| Mandate fee | Generally not published as an entity tariff | Generally not published as an entity tariff | Generally not published for the Japan unit |
+| Investment-trust remuneration | Observable in each fund's statutory documents | Observable in each fund's statutory documents | Depends on the named trustee and fund |
+| Segment revenue | Private-company disclosure may be limited | Listed-parent segment disclosure, not a custody-only fee line | Parent securities-services reporting, not Japan-only |
+| Valid conclusion | Scope and disclosure availability | Scope and disclosure availability | Scope and disclosure availability |
 
-### Pricing-power summary
-
-| Service | Strongest pricing power | Reason |
-|---|---|---|
-| GPIF-scale domestic custody | MTBJ / CBJ | Utility scale + GPIF tender competition between the two |
-| Mass-investor 投信 受託会社 | MTBJ / CBJ | Volume utility, tight bps, but volume drives revenue |
-| Corp-DB pension trust admin | MTBJ / CBJ / megabank trust arms | Mixed — utility specialists win on bps, full-service wins on bundling |
-| Real-estate trust setup | MUFG Trust / SMTB / Mizuho Trust | Specialized + relationship-driven; no competition from custody-only specialists |
-| Inheritance / 相続 / 遺言 | MUFG Trust / SMTB / Mizuho Trust / SMBC Trust | High-margin wealth-management line; absent at custody-only specialists and at global custodians |
-| Cross-border / foreign-asset custody | BNY / State Street / JPM / Citi | Cross-border ICSD + sub-custody network premium |
-| Securities lending (large institutional) | BNY / State Street / JPM (and MTBJ / CBJ on JP equity domestic flows) | Mixed; agent-lender scale wins |
-| US-listed JP-securities (ADR) | BNY / Citi / JPM | ADR depository fees |
-
-### Implied fee revenue (very rough industry inference)
-
-Granular line-item fee revenue per entity is not publicly disclosed. The order-of-magnitude inference (industry-level only, not entity-specific guarantee) is:
-
-| Implied revenue per ¥100tn AUC at custody-only specialist | Industry-rough inference (not entity-specific) |
-|---|---|
-| If average custody bps = 0.5 bp/year | ¥50bn / year revenue |
-| If average custody bps = 1 bp/year | ¥100bn / year revenue |
-| If average custody bps = 2 bps/year | ¥200bn / year revenue |
-
-The per-entity gross custody revenue implied by applying these hypothetical bps to MTBJ / CBJ AUC is industry-level inference only and is not attributable to any disclosed fee line; that inference is quarantined to `.opinions/banking/trust-bank-fee-structure-comparison.md`.
+Sources: ^[Trust Companies Association of Japan, https://www.shintaku-kyokai.or.jp/trust/trustbanks/; MTBJ and CBJ official disclosures; MUFG, SMT Holdings, Mizuho FG, BNY, State Street, JPMorgan, and Citigroup investor-relations pages listed in the frontmatter.]
 
 ### Fee trends
 
-| Trend | Effect on trust-bank P&L |
+| Observation to monitor | Required public evidence |
 |---|---|
-| Passive-fund AUM growth | Volume up, per-bp down → modest net revenue growth, margin compression |
-| Foreign-investor JP allocation growth | Foreign sub-custody revenue at MTBJ / CBJ tied to global-custodian fee schedules |
-| NISA expansion (2024 onward) | Volume growth in 投信 受託会社 fees |
-| DC pension reform (2025 onward) | DC member-balance reporting volume growth |
-| Real-estate market cyclicality | Volatile for full-service trust banks; absent for custody-only |
+| Assets under custody / administration | Consistently defined entity or parent disclosure over comparable periods |
+| Investment-trust trustee remuneration | Fund prospectus / trust deed for each sampled fund |
+| Securities-services revenue | Listed-parent segment result and stated perimeter |
+| Pension or real-estate trust activity | Trust-bank or parent disclosure identifying the business line |
+| Infrastructure cost | Current JASDEC / JSCC / BoJ tariff or participation document |
+
+Sources: ^[Official investor-relations, statutory fund, and market-infrastructure publications listed in this entry.]
 
 ### Why granular per-bank fee tables are impossible to publish externally
 
@@ -141,6 +120,8 @@ The per-entity gross custody revenue implied by applying these hypothetical bps 
 | Pension trust admin fees are individually negotiated | Including GPIF |
 | Global-custodian Japan units do not disclose JP-specific lines | Only parent-level aggregates |
 | Real-estate trust fees vary by deal | Cannot benchmark to a per-bp standard |
+
+Sources: ^[Trust Companies Association of Japan, https://www.shintaku-kyokai.or.jp/; official entity and parent disclosures listed in the frontmatter.]
 
 ### Public observable per-fund 投信 受託会社報酬
 
@@ -161,6 +142,8 @@ A precise study would scrape 信託約款 of leading funds for the documented pe
 | Stewardship Code | Voluntary; encourages transparent fee disclosure where possible |
 | FSA supervisory guidance | General reasonableness review; no rate-cap regime |
 
+Sources: ^[FSA trust-business financial-institution list, https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; Trust Companies Association of Japan, https://www.shintaku-kyokai.or.jp/.]
+
 ### Accounting view
 
 | Item | Entity that recognizes |
@@ -171,6 +154,8 @@ A precise study would scrape 信託約款 of leading funds for the documented pe
 | On-balance settlement-account residuals | Trust bank's balance sheet (small) |
 | Lending revenue share | Trust bank revenue + beneficial-owner revenue (split per contract) |
 
+Sources: ^[Official trust-bank and listed-parent accounting disclosures listed in the frontmatter.]
+
 ### Comparability problems
 
 | Problem | Effect |
@@ -180,6 +165,8 @@ A precise study would scrape 信託約款 of leading funds for the documented pe
 | Domestic-only vs global aggregation | Global custodians report parent-level numbers; JP-specific lines opaque |
 | 投信 受託会社 fees per fund vs per-bank aggregate | Per-fund disclosure can be aggregated manually but is not officially aggregated |
 | Real-estate fees revenue lumpy | Full-service trust banks have lumpy deal-driven real-estate fees |
+
+Sources: ^[Official entity and parent disclosures listed in the frontmatter; figures are comparable only when the issuer's definitions and reporting perimeter match.]
 
 ### Fee cost-side from infrastructure participation
 
