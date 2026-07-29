@@ -11,10 +11,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/fsa-foreign-exchange-warning-system.md",
   "raw_markdown_url": "https://finwiki.zksc.io/exchanges/fsa-foreign-exchange-warning-system.md",
   "domain": "exchanges",
-  "title": "FSA 海外無登録暗号資産取引所 警告書発出制度 (2018-2025)",
+  "title": "FSA 海外無登録暗号資産取引所 警告書発出制度",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "FSA 海外無登録暗号資産取引所 警告書発出制度 (2018-2025)",
+    "title": "FSA 海外無登録暗号資産取引所 警告書発出制度",
     "aliases": [
       "FSA warning letter system",
       "海外無登録 警告書",
@@ -23,9 +23,9 @@
     "domain": "exchanges",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-06-24",
-    "review_by": "2026-08-08",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "exchanges",
@@ -40,30 +40,25 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.fsa.go.jp/"
+      "https://www.fsa.go.jp/policy/virtual_currency02/",
+      "https://www.fsa.go.jp/policy/virtual_currency/angoushisan_mutouroku.pdf"
     ]
   },
   "summary": "This entry sits under exchanges index. Read it against FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for peer / contrast context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system / regulatory boundary.",
   "headings": [
-    "FSA 海外無登録暗号資産取引所 警告書発出制度 (2018-2025)",
+    "FSA 海外無登録暗号資産取引所 警告書発出制度",
     "Wiki route",
     "制度概要",
-    "警告書発出履歴 (主要 8 事業者)",
-    "警告事業者の対応パターン (3 種)",
-    "撤退",
-    "法人化 (唯一の正規化路径)",
-    "継続稼働 (警告無視)",
-    "App Store 削除要請の意義",
+    "FSA 個別公表で確認できる主要警告ラウンド",
     "関連"
   ],
   "body_links": {
-    "wikilinks_count": 15,
+    "wikilinks_count": 14,
     "wikilinks": [
       "exchanges/INDEX",
       "exchanges/fsa-business-improvement-orders-history",
       "exchanges/fsa-vasp-registration-system",
       "exchanges/global-vasp-regulatory-comparison-matrix",
-      "exchanges/jp-exchange-binance-japan",
       "exchanges/jp-foreign-exchange-binance-holdings-legacy",
       "exchanges/jp-foreign-exchange-bitcastle",
       "exchanges/jp-foreign-exchange-bitforex",
@@ -80,7 +75,6 @@
       "https://finwiki.zksc.io/ja/exchanges/fsa-business-improvement-orders-history/",
       "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
       "https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/",
-      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-binance-japan/",
       "https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-binance-holdings-legacy/",
       "https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bitcastle/",
       "https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bitforex/",
@@ -92,13 +86,16 @@
       "https://finwiki.zksc.io/ja/exchanges/jp-vasp-regulatory-timeline/",
       "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 2,
+    "external_links": [
+      "https://www.fsa.go.jp/policy/virtual_currency/angoushisan_mutouroku.pdf",
+      "https://www.fsa.go.jp/policy/virtual_currency02/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 3073,
-    "word_like_tokens": 440,
+    "nonspace_chars": 2290,
+    "word_like_tokens": 319,
     "inbound_wikilinks_count": 17,
-    "last_modified": "2026-06-24"
+    "last_modified": "2026-07-29"
   }
 }

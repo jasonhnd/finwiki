@@ -11,10 +11,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-exchange-kraken-japan-historical.md",
   "raw_markdown_url": "https://finwiki.zksc.io/exchanges/jp-exchange-kraken-japan-historical.md",
   "domain": "exchanges",
-  "title": "Payward Asia (Kraken Japan) — 日本暗号資産交換業者（dormant / 撤退）overview",
+  "title": "Payward Asia (Kraken Japan) — 日本暗号資産交換業者（撤退済み）overview",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Payward Asia (Kraken Japan) — 日本暗号資産交換業者（dormant / 撤退）",
+    "title": "Payward Asia (Kraken Japan) — 日本暗号資産交換業者（撤退済み）",
     "aliases": [
       "Kraken Japan",
       "Payward Asia",
@@ -23,9 +23,9 @@
     "domain": "exchanges",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2027-05-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "fintech",
@@ -40,16 +40,16 @@
     "related": [],
     "note": null,
     "sources": [
-      "公開情報整理 (Payward Inc. corporate announcements, 2018-2018)",
-      "公開情報整理 (FSA 関東財務局 暗号資産交換業者登録一覧 — Kraken Japan の登録抹消経緯)",
-      "公開情報整理 (CoinPost / 仮想通貨 Watch 報道, 2018年 Kraken 日本撤退)",
-      "公開情報整理 (Kraken Global Blog 2018-04 Kraken to suspend services to Japanese residents)",
-      "公開情報整理 (CoinPost 2020 Kraken 再参入報道、2023-01 撤退発表)"
+      "https://blog.kraken.com/kraken-japan/%E6%9A%97%E5%8F%B7%E8%B3%87%E7%94%A3%E4%BA%A4%E6%8F%9B%E6%A5%AD%E7%99%BB%E9%8C%B2%E5%AE%8C%E4%BA%86%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B",
+      "https://blog.kraken.com/kraken-japan/launch-in-japan",
+      "https://blog.kraken.com/kraken-japan/%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%9A%97%E5%8F%B7%E8%B3%87%E7%94%A3%E4%BA%A4%E6%8F%9B%E6%A5%AD%E3%81%AE%E5%BB%83%E6%AD%A2%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B",
+      "https://blog.kraken.com/kraken-japan/20230124-2",
+      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx"
     ]
   },
   "summary": "This entry sits under exchanges index. Read it against Coinbase 株式会社 — 日本暗号資産交換業者 for the closest parallel pattern (外資系 retail exit) and FSA 暗号資産交換業登録制度 for the broader system / regulatory boundary.",
   "headings": [
-    "Payward Asia (Kraken Japan) — 日本暗号資産交換業者（dormant / 撤退）overview",
+    "Payward Asia (Kraken Japan) — 日本暗号資産交換業者（撤退済み）overview",
     "Wiki route",
     "1. 法人・株主",
     "2. 牌照・登録状況（歴史）",
@@ -84,13 +84,19 @@
       "https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/",
       "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 5,
+    "external_links": [
+      "https://blog.kraken.com/kraken-japan/%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%9A%97%E5%8F%B7%E8%B3%87%E7%94%A3%E4%BA%A4%E6%8F%9B%E6%A5%AD%E3%81%AE%E5%BB%83%E6%AD%A2%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B",
+      "https://blog.kraken.com/kraken-japan/%E6%9A%97%E5%8F%B7%E8%B3%87%E7%94%A3%E4%BA%A4%E6%8F%9B%E6%A5%AD%E7%99%BB%E9%8C%B2%E5%AE%8C%E4%BA%86%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B",
+      "https://blog.kraken.com/kraken-japan/20230124-2",
+      "https://blog.kraken.com/kraken-japan/launch-in-japan",
+      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 4178,
-    "word_like_tokens": 697,
+    "nonspace_chars": 5299,
+    "word_like_tokens": 1024,
     "inbound_wikilinks_count": 0,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-07-29"
   }
 }

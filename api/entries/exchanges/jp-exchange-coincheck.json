@@ -23,9 +23,9 @@
     "domain": "exchanges",
     "type": null,
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
-    "review_by": "2027-05-18",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "fintech",
@@ -86,8 +86,9 @@
       "https://finwiki.zksc.io/ja/securities-firms/monex-group/",
       "https://finwiki.zksc.io/ja/security/forensic-identity-anchor-chain/"
     ],
-    "external_links_count": 6,
+    "external_links_count": 7,
     "external_links": [
+      "https://coincheck.com/ja/info/company",
       "https://efts.sec.gov/LATEST/search-index?q=%22coincheck%22&dateRange=custom&startdt=2024-01-01&enddt=2025-01-01&forms=S-4,8-K,6-K",
       "https://jvcea.or.jp/member/",
       "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
@@ -97,9 +98,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 5421,
-    "word_like_tokens": 942,
-    "inbound_wikilinks_count": 43,
-    "last_modified": "2026-06-04"
+    "nonspace_chars": 5885,
+    "word_like_tokens": 992,
+    "inbound_wikilinks_count": 30,
+    "last_modified": "2026-07-29"
   }
 }

@@ -22,9 +22,9 @@
     "domain": "exchanges",
     "type": null,
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-18",
-    "review_by": "2027-05-18",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "fintech",
@@ -43,7 +43,9 @@
       "https://coinpost.jp/?p=254468",
       "https://coinpost.jp/?post_type=breaking&p=269752",
       "https://coinpost.jp/?p=426649",
-      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx"
+      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
+      "https://www.coinbase.com/en-gb/blog/coinbase-launches-in-japan",
+      "https://www.coinbase.com/en-it/blog/halting-operations-in-japan"
     ]
   },
   "summary": "This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.",
@@ -87,19 +89,21 @@
       "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
       "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/"
     ],
-    "external_links_count": 5,
+    "external_links_count": 7,
     "external_links": [
       "https://coinpost.jp/?p=254468",
       "https://coinpost.jp/?p=426649",
       "https://coinpost.jp/?post_type=breaking&p=269752",
       "https://jvcea.or.jp/member/",
+      "https://www.coinbase.com/en-gb/blog/coinbase-launches-in-japan",
+      "https://www.coinbase.com/en-it/blog/halting-operations-in-japan",
       "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx"
     ]
   },
   "metrics": {
-    "nonspace_chars": 4505,
-    "word_like_tokens": 771,
-    "inbound_wikilinks_count": 6,
-    "last_modified": "2026-05-24"
+    "nonspace_chars": 5093,
+    "word_like_tokens": 854,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-07-29"
   }
 }

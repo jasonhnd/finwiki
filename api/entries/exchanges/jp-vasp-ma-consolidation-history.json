@@ -23,9 +23,9 @@
     "domain": "exchanges",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-19",
-    "last_tended": "2026-06-24",
-    "review_by": "2026-08-08",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "exchanges",
@@ -40,7 +40,10 @@
     "note": null,
     "sources": [
       "https://jvcea.or.jp/member/",
-      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx"
+      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
+      "https://www.monexgroup.jp/jp/news_release/irnews/auto_20180405405861.html",
+      "https://bitflyer.com/pub/20240726-Completion-of-FTX-Japan-K.K.-Share-Acquisition-ja.pdf",
+      "https://www.sbigroup.co.jp/news/2026/0625_16429.html"
     ]
   },
   "summary": "This entry sits under exchanges index. Read it against 国内 VASP 暗号資産流出事件史 (2014-2026) for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
@@ -50,7 +53,7 @@
     "概要",
     "主要案件 timeline",
     "動因分析(3 つの統合トリガー)",
-    "統合後の市場集中度 (2026-05 時点)",
+    "統合状態のスナップショット (2026-07-29)",
     "関連エントリ"
   ],
   "body_links": {
@@ -89,9 +92,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2582,
-    "word_like_tokens": 426,
-    "inbound_wikilinks_count": 16,
-    "last_modified": "2026-06-24"
+    "nonspace_chars": 3442,
+    "word_like_tokens": 543,
+    "inbound_wikilinks_count": 15,
+    "last_modified": "2026-07-29"
   }
 }
