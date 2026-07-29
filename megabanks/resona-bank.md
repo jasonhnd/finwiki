@@ -7,9 +7,9 @@ aliases:
   - "りそなぎんこう"
 domain: megabanks
 created: 2026-05-20
-last_updated: 2026-06-05
-last_tended: 2026-06-05
-review_by: 2026-12-05
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, bank, resona, operating-company]
 status: active
@@ -39,6 +39,8 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]] (its domain route). Re
 | Bank code | 0010 |
 | Parent boundary | [[megabanks/resona-hd|りそな HD]] 傘下 bank operating company |
 | Distinctive point | 商業銀行機能に加え信託・年金関連機能を兼営する都市銀行系モデル |
+
+Sources: ^[金融庁「銀行免許一覧」: https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx; りそな銀行「会社概要」: https://www.resonabank.co.jp/about/gaiyo/; りそなHD「グループ会社」: https://www.resona-gr.co.jp/holdings/about/group/.]
 
 ## 2. Operating model
 

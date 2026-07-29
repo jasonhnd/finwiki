@@ -1,12 +1,12 @@
 ---
 source: manufacturer-finance/komatsu-captive-finance
-source_hash: 0f446cbbf8bd5770
+source_hash: 8fd1a6e86e8fc3e4
 lang: ja
 model: claude-opus-4-8
 status: machine
 fidelity: ok
 title: "コマツ顧客金融 (Komatsu Captive Finance / Komatsu Financial)"
-translated_at: 2026-06-05T00:00:00.000Z
+translated_at: 2026-07-28T23:40:03.962Z
 ---
 
 # Komatsu Captive Finance (コマツ顧客金融 / Komatsu Financial)
@@ -17,7 +17,7 @@ This entry sits under [[manufacturer-finance/INDEX|manufacturing index]] as the 
 
 ## TL;DR
 
-コマツ (Komatsu Ltd., 東証 PRIME 6301) は建設機械・鉱山機械の世界大手で、Caterpillar に次ぐグローバル No.2。その captive finance は **米州 Komatsu Financial L.P.** ・**欧州 Komatsu Finance (ドイツ・フランス・イタリアで自前 captive、他地域は提携)** ・**国内・各地域の販売金融** を中心とする **B2B 設備金融 (vendor / captive finance)**。manufacturing 視点で読むべき軸は **(1) Komatsu Ltd (6301) が「小売金融 (retail finance)」事業を本体セグメント外/連結子会社で持つ意味、(2) 自動車 captive と違い顧客が法人 (建設・鉱山事業者) である B2B vendor finance である点、(3) リースの残価リスク (residual value) と true-lease / finance-lease の会計区分、(4) ディストリビューター在庫の wholesale (floorplan) 与信を captive が担う点 ([[manufacturer-finance/floorplan-finance-mechanism|floorplan mechanism]] と接続)**。Caterpillar Financial・Volvo Financial Services と並ぶ建機 captive のトップティアを構成する。
+コマツ (Komatsu Ltd., 東証 PRIME 6301) は建設機械・鉱山機械メーカーで、retail finance を製品販売の重要な手段と位置づける。米州の **Komatsu Financial L.P.** などを通じ、新車・中古機、部品・サービスの購入金融とリースを提供する。manufacturing 視点で読むべき軸は **(1) 建機販売と金融を接続する意味、(2) 顧客が主に法人である B2B vendor finance、(3) 残価・信用リスク、(4) 地域ごとの自前金融と提携金融の使い分け**。
 
 ## 1. 会社構造と製造業視点
 
@@ -30,6 +30,8 @@ This entry sits under [[manufacturer-finance/INDEX|manufacturing index]] as the 
 | 顧客 | 主に法人 (建設・鉱山・林業事業者) + ディストリビューター |
 | 主要商品 | retail installment、リース (full-service / operating)、parts & service finance、wholesale (floorplan) |
 | 開示 | Komatsu Ltd の有価証券報告書・統合報告書に「retail finance」事業として開示 |
+
+Sources: ^[Komatsu「Financing」: https://www.komatsu.com/en-us/services-and-support/financing; Komatsu Europe「Komatsu Finance」: https://www.komatsu.eu/en/komatsu-finance; Komatsu Report「CFO message」: https://www.komatsu.jp/en/ir/library/annual/cfomessage.]
 
 ### 製造業視点のグループ構造
 
@@ -48,7 +50,7 @@ Komatsu Ltd. (株式会社小松製作所 6301, 製造業本体)
 
 - retail finance は Komatsu Ltd の **「retail finance (販売金融)」事業** として連結開示される。本業の建機販売 (industrial) と区分して、金融資産・債権を別管理する構造。
 - リース・割賦では、Komatsu 本体は **「機械販売」を計上** し、機械の残価リスク・顧客信用リスクは captive (Komatsu Financial 等) のバランスシートに集約される。自動車 captive と同型の **「製品を売る」と「代金を貸す/リースする」の垂直統合** だが、顧客が **法人 (B2B)** である点が異なる。仕組みの一般論は [[manufacturer-finance/vendor-finance-mechanism|captive / vendor finance mechanism]] 参照。
-- captive はディストリビューター (販売代理店) の **在庫 (floorplan / wholesale)** にも与信し、上流の流通在庫から下流の顧客与信までを支える。Komatsu Financial L.P. は 30+ の契約ディストリビューターとその顧客に wholesale / retail / operating lease を提供する。詳細は [[manufacturer-finance/floorplan-finance-mechanism|floorplan / wholesale finance mechanism]] 参照。
+- 地域によってはディストリビューター向け与信も組み合わせ、上流の流通在庫と下流の顧客金融を接続する。各商品の適用範囲・条件は地域法人と販売店の現行開示を確認する必要がある。詳細は [[manufacturer-finance/floorplan-finance-mechanism|floorplan / wholesale finance mechanism]] 参照。
 
 ## 2. 製品 / 事業ライン × 製造業視点での意義
 
@@ -56,10 +58,12 @@ Komatsu Ltd. (株式会社小松製作所 6301, 製造業本体)
 |---|---|---|
 | 新車・新機 retail installment | 新規建機の割賦 (期間・支払い設計の柔軟性) | 機械販売チャネル維持、需要喚起 |
 | 中古機ファイナンス | 中古・認定中古機の割賦 (頭金ゼロ / 支払い猶予プログラム等) | 中古市場の活性化、買い替えサイクル制御 |
-| full-service / operating lease | 残価設定リース (満了時に返却・購入・延長を選択) | 残価リスク集約、off-balance 化、利用ベース提供 |
+| full-service / operating lease | 残価設定リース (満了時に返却・購入・延長を選択) | 残価リスク管理、利用ベース提供。借手会計は適用基準による |
 | parts & service finance | 部品・整備・修理の金融 (純正部品連動) | アフターマーケット収益・顧客関係の長期化 |
 | ディストリビューター在庫金融 (wholesale / floorplan) | 代理店の在庫を captive が与信 | 流通在庫支援、生産・出荷の平準化 |
 | マルチブランド対応 | Komatsu 系列ブランド (例: 道路機械・破砕機等) もディストリビューター経由で金融提供 | 製品ラインの拡張に金融を追随 |
+
+Sources: ^[Komatsu「Financing」: https://www.komatsu.com/en-us/services-and-support/financing; Komatsu Europe「Komatsu Finance」: https://www.komatsu.eu/en/komatsu-finance.]
 
 ### 設備リース ABS との接続
 
@@ -70,14 +74,14 @@ Komatsu Ltd. (株式会社小松製作所 6301, 製造業本体)
 | 指標 | 内容 | 出所 |
 |---|---|---|
 | 親会社 | Komatsu Ltd. (東証 PRIME 6301) | Komatsu IR |
-| 業界地位 | 建機グローバル No.2 (Caterpillar に次ぐ) | 業界レポート |
 | 米州 captive | Komatsu Financial L.P. | Komatsu Financial 公式 |
 | 欧州 captive | Komatsu Finance (独・仏・伊で自前、他は提携) | Komatsu Europe 公式 |
-| ディストリビューター | 30+ 契約ディストリビューター + その顧客に wholesale / retail / lease | Komatsu Financial 公式 |
-| 主要競合 captive | Caterpillar Financial, Volvo Financial Services | 業界レポート |
 | 開示区分 | Komatsu Ltd「retail finance」事業として連結開示 | EDINET / Komatsu IR |
+| 会社方針 | retail finance を建機・鉱山機械の重要な販売手段と位置づけ | Komatsu Report |
+| 管理目標 | retail finance の net D/E ratio は 6 倍以下へ改定 | Komatsu Report |
+| 平均金融期間 | 約 4 年 | Komatsu Report |
 
-> 具体的な retail finance 事業の資産残高・債権・営業利益は、Komatsu Ltd の「retail finance」セグメント / 統合報告書に開示される。本エントリは会社構造・captive 設計・B2B vendor finance 機構を中心に記述し、変動の大きい財務数値は一次資料を参照する方針 (脆い financial figures より mechanism 知識を優先)。
+Sources: ^[Komatsu Report「CFO message」: https://www.komatsu.jp/en/ir/library/annual/cfomessage; Komatsu「Financing」: https://www.komatsu.com/en-us/services-and-support/financing; Komatsu Europe「Komatsu Finance」: https://www.komatsu.eu/en/komatsu-finance.]
 
 ## 4. 戦略 (Residual Value + B2B + Lifecycle)
 
@@ -110,9 +114,10 @@ Komatsu Ltd. (株式会社小松製作所 6301, 製造業本体)
 - Komatsu「Financing」(Komatsu Financial L.P. の retail / lease / parts 金融): https://www.komatsu.com/en-us/services-and-support/financing
 - Komatsu Europe「Komatsu Finance」(独・仏・伊の自前 captive、他地域は提携): https://www.komatsu.eu/en/komatsu-finance
 - Komatsu Ltd「Investor Relations」: https://www.komatsu.jp/en/ir
+- Komatsu Report「CFO message」: https://www.komatsu.jp/en/ir/library/annual/cfomessage
 - EDINET (有価証券報告書 — retail finance 事業開示): https://disclosure2.edinet-fsa.go.jp/
 
 ---
 
 > [!info] 校正ステータス
-> confidence: **likely**。Komatsu / Komatsu Europe / Komatsu IR の公開情報で構成。米州 Komatsu Financial L.P. が新車・中古機 retail、full-service lease、parts & service 金融、30+ ディストリビューター向け wholesale を提供すること、欧州で独・仏・伊に自前 captive を持ち他地域は提携であること、Komatsu Ltd が「retail finance」事業を連結開示すること、Caterpillar Financial / Volvo Financial Services が主要競合であることは公開資料で確認。retail finance 事業の財務数値は変動が大きいため一次資料参照とし、本文では B2B captive 構造・残価・floorplan を中心に記述。
+> confidence: **likely**。2026-07-29 時点で Komatsu / Komatsu Europe の商品ページと Komatsu Report の retail finance 方針を再確認。根拠のない順位・契約販売店数を削除し、現行の公式開示に限定した。

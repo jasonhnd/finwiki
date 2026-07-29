@@ -27,9 +27,9 @@
     "domain": "trust-banks",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-15",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "certain",
     "tags": [
       "JapanFG",
@@ -40,9 +40,10 @@
     "related": [],
     "note": null,
     "sources": [
-      "SuMi TRUST 公式 IR https://www.smtg.jp/ (2026-05-19 参照)",
-      "Wikipedia: 三井住友トラストグループ (公開情報、2026-05-19 参照)",
-      "Wikipedia: 三井住友信託銀行 (公開情報、2026-05-19 参照)"
+      "三井住友トラストグループ 2026年3月期決算短信 https://www.smtg.jp/-/media/tg/investors/fs/2603/2603_01.pdf",
+      "三井住友トラストグループ グループ会社 (2026-04-01) https://www.smtg.jp/group_info/group_companies",
+      "三井住友トラストグループ 会社概要 https://www.smtg.jp/about_us/profile/index.html",
+      "三井住友トラストグループ 100年史 https://www.smtg.jp/about_us/chronicle100/history/section24009"
     ]
   },
   "summary": "This entry sits under trust-banks INDEX. Read it against 日本マスタートラスト信託銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -51,11 +52,11 @@
     "Wiki route",
     "TL;DR",
     "1. 会社概要",
-    "最新財務サマリ（FY2024 / 2025-03 期、連結）",
+    "最新財務サマリ（FY2025 / 2026-03 期、連結） ^[三井住友トラストグループ「2026年3月期決算短信」: https://www.smtg.jp/-/media/tg/investors/fs/2603/2603_01.pdf]",
     "主要子会社・関連会社",
     "合併歴史・前身",
-    "重要年表（抜粋）",
-    "2. 事業セグメント・マップ",
+    "重要年表（抜粋） ^[三井住友トラストグループ「100年史」「2026年3月期決算短信」: https://www.smtg.jp/aboutus/chronicle100/history/section24009; https://www.smtg.jp/-/media/tg/investors/fs/2603/260301.pdf]",
+    "2. 事業セグメント・マップ ^[三井住友トラストグループ「グループ会社について」（2026-04-01 時点）: https://www.smtg.jp/groupinfo/groupcompanies]",
     "信託専業独立路線"
   ],
   "body_links": {
@@ -86,9 +87,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4701,
-    "word_like_tokens": 765,
+    "nonspace_chars": 5361,
+    "word_like_tokens": 835,
     "inbound_wikilinks_count": 67,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-07-29"
   }
 }

@@ -26,9 +26,9 @@
     "domain": "trust-banks",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-15",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -44,7 +44,8 @@
       "Wikipedia: 日本トラスティ・サービス信託銀行 (2026-05-19 抽出)",
       "Wikipedia: 資産管理サービス信託銀行 (2026-05-19 抽出)",
       "三井住友信託銀行: スケールメリットの追求 (CBJ 信託財産 476兆円・総預かり 696兆円, 2025-03 末) https://www.smtb.jp/business/instrument/management/scale",
-      "日本カストディ銀行 ディスクロージャー誌 2025 https://www.custody.jp/data/disclosure/pdf/disclosure202507.pdf"
+      "日本カストディ銀行 ディスクロージャー誌 2025 https://www.custody.jp/data/disclosure/pdf/disclosure202507.pdf",
+      "金融庁 信託兼営金融機関認可一覧 (2026-06-17) https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf"
     ]
   },
   "summary": "This entry sits under trust-banks INDEX. Read it against 日本マスタートラスト信託銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -56,7 +57,7 @@
     "主要株主（公開資料、2020-07-27 現在）^[extracted]",
     "重要性 ★",
     "合併歴史・前身",
-    "2. 事業セグメント・マップ",
+    "2. 事業セグメント・マップ ^[日本カストディ銀行「ディスクロージャー誌 2025」: https://www.custody.jp/data/disclosure/pdf/disclosure202507.pdf]",
     "専業ポジション",
     "競合・国内 2 強体制"
   ],
@@ -86,9 +87,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5605,
-    "word_like_tokens": 956,
+    "nonspace_chars": 5930,
+    "word_like_tokens": 1009,
     "inbound_wikilinks_count": 23,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-07-29"
   }
 }

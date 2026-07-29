@@ -1,12 +1,12 @@
 ---
 source: asset-managers/nomura-asset-management
-source_hash: e2a05deae6e8a530
+source_hash: 9db0675e19e3de96
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "野村アセットマネジメント"
-translated_at: 2026-06-26T08:31:59.850Z
+translated_at: 2026-07-28T23:40:03.799Z
 ---
 
 # 野村アセットマネジメント
@@ -28,6 +28,8 @@ translated_at: 2026-06-26T08:31:59.850Z
 | Parent boundary | [[securities-firms/nomura-hd|野村 HD]] グループの asset-management arm (securities-affiliated) |
 | Supervision | [[financial-regulators/fsa|FSA]] + 投資信託協会 / 日本投資顧問業協会 |
 | Wiki role | 野村系運用会社 anchor |
+
+Sources: ^[FSA 金融商品取引業者登録一覧: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx; 野村アセットマネジメント 会社概要: https://www.nomura-am.co.jp/corporate/gaiyo/gaiyo.html.]
 
 ## 2. オペレーティングモデル投資運用業者として、(1) 公募投信の **投資信託委託** (組成・運用)、(2) ETF / index products、(3) **投資一任** (年金・機関投資家 discretionary mandate)、(4) 投資助言を担う。証券グループの 証券仲介 / investment banking とは分離された **fee-based asset-management pillar**。[[trust-banks/nomura-trust-bank|野村信託銀行]] とともに証券グループの wealth / asset formation stack を構成する。低コスト index / ETF の手数料競争では [[asset-managers/daiwa-asset-management|大和アセット]] や系列系大手と直接ぶつかる。監督は FSA + 自主規制機関の二層構造。
 

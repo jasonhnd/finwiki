@@ -22,9 +22,9 @@
     "domain": "trust-banks",
     "type": null,
     "created": "2026-05-22",
-    "last_updated": "2026-05-22",
-    "last_tended": "2026-05-22",
-    "review_by": "2026-11-22",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -38,7 +38,7 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx",
+      "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf",
       "https://oag-trust.com/",
       "https://oag-trust.com/service/",
       "https://www.oag-group.co.jp/wp/wp-content/uploads/2024/08/the-Heartful-OAG-no.232.pdf"
@@ -49,7 +49,7 @@
     "OAG信託 (OAG Trust)",
     "Wiki route",
     "Overview",
-    "Entity Boundary",
+    "Entity Boundary ^[金融庁の現行登録と OAG 信託公式サイト: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://oag-trust.com/]",
     "Business Role Map",
     "Public Context",
     "Research Checklist",
@@ -80,9 +80,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3227,
-    "word_like_tokens": 532,
+    "nonspace_chars": 3322,
+    "word_like_tokens": 548,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-07-29"
   }
 }

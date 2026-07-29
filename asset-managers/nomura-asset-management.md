@@ -8,9 +8,9 @@ aliases:
   - "asset-managers/nomura-am"
 domain: asset-managers
 created: 2026-05-20
-last_updated: 2026-06-05
-last_tended: 2026-06-05
-review_by: 2026-11-20
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, asset-management, fiea-operator, nomura]
 status: active
@@ -56,6 +56,8 @@ This entry sits under [[asset-managers/INDEX|asset-managers INDEX]] (its domain 
 | Parent boundary | [[securities-firms/nomura-hd|野村 HD]] グループの asset-management arm (securities-affiliated) |
 | Supervision | [[financial-regulators/fsa|FSA]] + 投資信託協会 / 日本投資顧問業協会 |
 | Wiki role | 野村系 運用会社 anchor |
+
+Sources: ^[FSA 金融商品取引業者登録一覧: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx; 野村アセットマネジメント 会社概要: https://www.nomura-am.co.jp/corporate/gaiyo/gaiyo.html.]
 
 ## 2. Operating model
 

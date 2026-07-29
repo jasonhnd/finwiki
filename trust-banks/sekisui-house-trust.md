@@ -5,14 +5,14 @@ aliases:
   - "積水ハウス信託株式会社"
 domain: trust-banks
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
-review_by: 2026-11-22
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, trust-company, real-estate, housing, asset-succession]
 status: active
 sources:
-  - "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx"
+  - "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf"
   - "https://www.sekisuihouse-trust.co.jp/company/"
   - "https://www.sekisuihouse-trust.co.jp/trustmenu/procedure.html"
   - "https://www.sekisuihouse.co.jp/library/company/topics/datail/__icsFiles/afieldfile/2017/07/28/20170727.pdf"
@@ -32,7 +32,7 @@ Sekisui House Trust is a management trust company connected to the Sekisui House
 
 The page matters because it is a housing-company trust route. It shows how a construction / housing group can use trust-company functions to support long-term property management and family succession.
 
-## Entity Boundary
+## Entity Boundary ^[金融庁の現行登録と積水ハウス信託会社情報: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://www.sekisuihouse-trust.co.jp/company/]
 
 | Item | Reading |
 |---|---|

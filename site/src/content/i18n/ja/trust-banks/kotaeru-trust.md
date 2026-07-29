@@ -1,11 +1,11 @@
 ---
 source: trust-banks/kotaeru-trust
-source_hash: 45cb0010fcdba3be
+source_hash: 9892e8c9b81dc3ba
 lang: ja
 status: machine
 fidelity: ok
 title: "コタエル信託"
-translated_at: 2026-06-02T14:54:39.058Z
+translated_at: 2026-07-28T23:40:04.438Z
 ---
 # コタエル信託
 
@@ -19,7 +19,7 @@ translated_at: 2026-06-02T14:54:39.058Z
 
 本ページは、信託会社の運営主体としてのコタエル信託株式会社を扱う。ストックオプションに関する一般的な税務意見ページとして使うべきではない。法務・税務上の主張には、公的な一次情報による裏づけが必要。
 
-## 事業役割マップ
+## 事業役割マップ ^[コタエル信託「ストックオプション信託」: https://trust.kotaeru.co.jp/service/stockoption/; 金融庁の現行登録: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf]
 
 | 経路 | 読み方 |
 |---|---|

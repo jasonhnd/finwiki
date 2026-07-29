@@ -1,12 +1,12 @@
 ---
 source: trust-banks/fintech-global-trust
-source_hash: a9d9a9c2a56d2646
+source_hash: 120d07545ea7cc76
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "フィンテックグローバル信託"
-translated_at: 2026-06-26T08:32:30.856Z
+translated_at: 2026-07-28T23:40:04.364Z
 ---
 
 # フィンテックグローバル信託
@@ -21,7 +21,7 @@ translated_at: 2026-06-26T08:32:30.856Z
 
 この法人はストラクチャードファイナンス型の信託会社ルートとして明確であり、信託会社規制、資産組成、ノンバンク金融をつなぐ項目としてFinWikiに置く意義がある。
 
-## エンティティの範囲
+## エンティティの範囲 ^[金融庁の現行免許と会社公式サイト: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://fgitr.co.jp/]
 
 | 項目 | 読み方 |
 |---|---|
@@ -34,7 +34,7 @@ translated_at: 2026-06-26T08:32:30.856Z
 
 このページを一般的なフィンテック項目として扱わない。実務上の境界は、組成、管理、資産保全における信託会社としての役割にある。
 
-## 事業上の役割マップ
+## 事業上の役割マップ ^[フィンテックグローバル信託 公式サイト: https://fgitr.co.jp/]
 
 | 機能 | FinWikiでの意味 |
 |---|---|

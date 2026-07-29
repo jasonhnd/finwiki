@@ -1,11 +1,11 @@
 ---
 source: trust-banks/fpg-trust
-source_hash: 33a6d0f98b9c20b6
+source_hash: b430f29533e61273
 lang: en
 status: machine
 fidelity: ok
 title: "FPG Trust"
-translated_at: 2026-05-31T15:29:03.951Z
+translated_at: 2026-07-28T23:40:44.008Z
 ---
 
 # FPG Trust
@@ -22,7 +22,7 @@ FPG Trust is an operating trust company under the FPG group. Its public company 
 
 The page matters because FPG Trust is not only a registry row. Public company material emphasizes trust structures for movable assets, real estate, securities, money claims, and other entrusted assets, making it a useful route for structured asset finance and high-net-worth / SME-adjacent product analysis.
 
-## Entity Boundary
+## Entity Boundary ^[金融庁の現行免許と FPG 信託会社概要: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://www.fpgtrust.jp/profile/index.html]
 
 | Item | Reading |
 |---|---|
@@ -35,7 +35,7 @@ The page matters because FPG Trust is not only a registry row. Public company ma
 
 This is a trust company, not a licensed trust bank. Keep deposit-taking, bank balance-sheet, and ordinary bank strategy questions outside this page unless a public source connects them.
 
-## Business Role Map
+## Business Role Map ^[FPG 信託「信託サービス」: https://www.fpgtrust.jp/service/index.html]
 
 | Function | FinWiki relevance |
 |---|---|

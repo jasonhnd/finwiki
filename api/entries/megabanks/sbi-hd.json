@@ -26,9 +26,9 @@
     "domain": "megabanks",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-15",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -41,7 +41,10 @@
     "sources": [
       "Wikipedia: SBIホールディングス (2026-05-19 抽出, FY2024/3期 = 2025-03 期 財務 KPI)",
       "Wikipedia: SBI証券 (2026-05-19 抽出, 口座数 1500 万・FY2024/3 業績)",
-      "Wikipedia: 三井住友フィナンシャルグループ (2026-05-18 抽出, SMBC-SBI アライアンス cross-ref)"
+      "Wikipedia: 三井住友フィナンシャルグループ (2026-05-18 抽出, SMBC-SBI アライアンス cross-ref)",
+      "SBI HD「SBI 新生銀行の公的資金完済」(2025-07-31): https://www.sbigroup.co.jp/news/2025/0731_15628.html",
+      "JPX「SBI 新生銀行 新規上場会社概要」(2025-12-17 上場): https://www.jpx.co.jp/listing/stocks/new/t13vrt000000432y-att/12SBIShinseiBank-Outline.pdf",
+      "SBI HD「地域社会の課題解決に資する地方創生への貢献」(2026-01 時点の提携 9 行): https://www.sbigroup.co.jp/sustainability/sdgs/case1.html"
     ]
   },
   "summary": "This entry sits under megabanks INDEX. Read it against 三菱 UFJ FG (MUFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -89,9 +92,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 7685,
-    "word_like_tokens": 1471,
+    "nonspace_chars": 8471,
+    "word_like_tokens": 1577,
     "inbound_wikilinks_count": 97,
-    "last_modified": "2026-06-22"
+    "last_modified": "2026-07-29"
   }
 }

@@ -6,14 +6,14 @@ aliases:
   - "Starts Trust Co., Ltd."
 domain: trust-banks
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
-review_by: 2026-11-22
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, trust-company, real-estate-finance, Starts, asset-succession]
 status: active
 sources:
-  - "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx"
+  - "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf"
   - "https://www.starts.co.jp/news/press/2015/1142/"
   - "https://www.starts.co.jp/news/press/2024/6317/"
 ---
@@ -32,7 +32,7 @@ Starts Trust is a real-estate-oriented trust company in the Starts group. Public
 
 The page matters because Starts Trust is not a generic registry row. It is the main FinWiki route for land trust, real-estate management trust, and regional trust-agent partnership analysis.
 
-## Entity Boundary
+## Entity Boundary ^[金融庁の現行免許とスターツ公式リリース: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://www.starts.co.jp/news/press/2015/1142/; https://www.starts.co.jp/news/press/2024/6317/]
 
 | Item | Reading |
 |---|---|

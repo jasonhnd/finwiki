@@ -24,9 +24,9 @@
     "domain": "megabanks",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-15",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -41,7 +41,9 @@
       "SBI HD コーポレートサイト・統合報告書",
       "各パートナー地銀の有価証券報告書・適時開示",
       "https://ja.wikipedia.org/wiki/SBI地銀ホールディングス (出資比率, 2026-05-29 確認)",
-      "https://www.sbigroup.co.jp/news/2025/0731_15628.html (SBI新生銀行 公的資金完済, 2025-07-31)"
+      "https://www.sbigroup.co.jp/news/2025/0731_15628.html (SBI新生銀行 公的資金完済, 2025-07-31)",
+      "https://www.sbigroup.co.jp/sustainability/sdgs/case1.html (2026-01 時点の戦略的資本・業務提携 9 行)",
+      "https://www.jpx.co.jp/listing/stocks/new/t13vrt000000432y-att/12SBIShinseiBank-Outline.pdf (SBI新生銀行 2025-12-17 再上場)"
     ]
   },
   "summary": "This entry sits under megabanks INDEX. Read it against 三菱 UFJ FG (MUFG) for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -53,7 +55,7 @@
     "主要構成要素",
     "2020 統合プラットフォーム化の戦略意図",
     "2. 主要事業",
-    "パートナー地銀網（主要、時系列に出資した順）^[extracted]",
+    "提携履歴（主要）^[extracted]",
     "構想前史（2010 年代後半）",
     "「第 4 のメガバンク構想」提唱と SBI 地銀 HD への商号変更"
   ],
@@ -93,9 +95,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5898,
-    "word_like_tokens": 989,
+    "nonspace_chars": 6585,
+    "word_like_tokens": 1076,
     "inbound_wikilinks_count": 13,
-    "last_modified": "2026-06-22"
+    "last_modified": "2026-07-29"
   }
 }

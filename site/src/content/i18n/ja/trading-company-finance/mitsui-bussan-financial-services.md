@@ -1,11 +1,11 @@
 ---
 source: trading-company-finance/mitsui-bussan-financial-services
-source_hash: 0f92e8902aeb5662
+source_hash: 72e3b8c1d329f55b
 lang: ja
 status: machine
 fidelity: ok
 title: "三井物産フィナンシャルサービス"
-translated_at: 2026-06-02T14:54:39.100Z
+translated_at: 2026-07-28T23:40:04.290Z
 ---
 
 # 三井物産フィナンシャルサービス
@@ -14,13 +14,13 @@ translated_at: 2026-06-02T14:54:39.100Z
 
 この項目は [[trading-company-finance/INDEX|trading-company-finance INDEX]] 配下に置く。最も近い比較対象である商社グループ内金融機能の [[trading-company-finance/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]] と、同じ親会社のリース部門である [[cooperative-banks/ja-mitsui-leasing|JA三井リース]]（三井物産系 + 農林中金 JV）を参照する。より広い比較対象は [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]]、[[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]]、[[trading-company-finance/itochu-finance|伊藤忠ファイナンス]] を見る。三井グループの銀行側は [[megabanks/sumitomo-mitsui-banking-corp|SMBC]]（[[megabanks/smfg|SMFG]] 配下）である。より広い規制境界は [[banking/INDEX|banking index]] を参照する。
 
-## 1. 会社概要
+## 1. 会社概要 ^[三井物産 IR: https://www.mitsui.com/jp/ja/ir/; EDINET: https://disclosure2.edinet-fsa.go.jp/]
 
 | 項目 | メモ |
 |---|---|
 | ウィキ上の役割 | **三井物産グループの内向け金融**：CMS / グループファクタリング / グループファイナンス |
 
-### 三井物産の金融機能配置
+### 三井物産の金融機能配置 ^[三井物産の有価証券報告書・関係会社開示と各社公式 IR に基づく比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]
 
 | 層 | 主体 | 役割 |
 |---|---|---|
@@ -30,7 +30,7 @@ translated_at: 2026-06-02T14:54:39.100Z
 | **内向け / グループ金融** | **三井物産FS (本ページ)** | グループ各社の 内部銀行機能 / CMS / 内部ファクタリング |
 | **海外金融子会社** | Mitsui & Co. (U.S.A.) / (Europe) / (Asia) Finance 等 | 各地域の トレジャリー / 現地通貨資金調達 |
 
-## 2. 事業セグメント・マップ
+## 2. 事業セグメント・マップ ^[三井物産 IR / 有価証券報告書。業務範囲は非上場子会社の開示制約があるため最新関係会社開示を優先: https://www.mitsui.com/jp/ja/ir/]
 
 | セグメント | 内容 |
 |---|---|
@@ -45,7 +45,7 @@ translated_at: 2026-06-02T14:54:39.100Z
 
 特に **資源・エネルギー** セグメントは LNG・原油・鉄鉱石といった長期契約 + 大型与信案件が中心で、グループ内金融機能の活用度が高い。
 
-### 競合 / 比較対象
+### 競合 / 比較対象 ^[各親会社の有価証券報告書・公式 IR を横断した比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]
 
 | 商社 | 内向け金融子会社 | 外向けリース系 |
 |---|---|---|

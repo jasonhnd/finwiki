@@ -1,11 +1,11 @@
 ---
 source: megabanks/smbc
-source_hash: decaacc465e1fd3f
+source_hash: afac0e603cad9e1d
 lang: en
 status: machine
 fidelity: ok
 title: "Sumitomo Mitsui Banking Corporation (株式会社三井住友銀行 / SMBC)"
-translated_at: 2026-06-19T06:09:18.031Z
+translated_at: 2026-07-29T00:34:30.687Z
 ---
 
 # Sumitomo Mitsui Banking Corporation (株式会社三井住友銀行 / SMBC)
@@ -16,14 +16,14 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[meg
 
 ## TL;DR
 
-**The core subsidiary of [[megabanks/smfg|SMFG（三井住友フィナンシャルグループ 8316）]] · the commercial bank held by 100%**. With total assets on the order of 250 兆円, it is **one of Japan's 3  megabanks**. **Founded through the merger of 2001-04-01 Sakura Bank (former Mitsui + former Taiyo Kobe) and Sumitomo Bank**. Its head office is in Marunouchi, Chiyoda-ku, Tokyo (the integrated headquarters of the former Sumitomo Bank / former Mitsui Bank lineage). It conducts commercial banking (retail + mid-tier / large corporate + international + investment banking), and within the group divides functions with [[securities-firms/smbc-nikko|SMBC 日興証券]] (securities), [[trust-banks/smbc-trust-bank|SMBC 信託銀行]] (trust), [[card-issuers/smbc-card|三井住友カード]] (cards), and [[consumer-finance/smbc-consumer-finance|SMBC コンシューマーファイナンス（プロミス）]] (consumer finance). Globally it operates with a focus on the Americas and Asia.
+**The core subsidiary of [[megabanks/smfg|SMFG（三井住友フィナンシャルグループ 8316）]] · the commercial bank held by 100%**. Its non-consolidated total assets as of 2026-03-31 are **265.6 兆円**, making it **one of Japan's 3  megabanks**. **Founded through the merger of 2001-04-01 Sakura Bank (former Mitsui + former Taiyo Kobe) and Sumitomo Bank**, with its head office at 1-1-2 Marunouchi, Chiyoda-ku, Tokyo. It conducts commercial banking (retail + mid-tier / large corporate + international + investment banking), and within the group divides functions with [[securities-firms/smbc-nikko|SMBC 日興証券]] (securities), [[trust-banks/smbc-trust-bank|SMBC 信託銀行]] (trust), [[card-issuers/smbc-card|三井住友カード]] (cards), and [[consumer-finance/smbc-consumer-finance|SMBC コンシューマーファイナンス（プロミス）]] (consumer finance).
 
 ## 1. Corporate structure
 
 **Formal name**: 株式会社三井住友銀行
 **English name**: Sumitomo Mitsui Banking Corporation (SMBC)
 **Established**: **2001-04-01** (Sakura Bank + Sumitomo Bank merger)
-**Head office**: 1-1-2 Marunouchi, Chiyoda-ku, Tokyo (Tokyo Nihonbashi head office, with an Osaka head office concurrently maintained)
+**Head office**: 1-1-2 Marunouchi, Chiyoda-ku, Tokyo
 **Business type**: commercial bank (ordinary bank)
 **Major shareholder**: **[[megabanks/smfg|三井住友フィナンシャルグループ]] 100%**
 **Supervisors**: [[financial-regulators/fsa|金融庁]] · [[financial-regulators/boj|日本銀行]]
@@ -55,6 +55,8 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[meg
 | 2023 | **Strategic capital and business alliance with US Jefferies** (led by SMBC's parent) |
 | 2024-2025 | Strengthening of domestic GX investment / lending and equity for startups |
 
+Sources: ^[SMBC「会社概要」(2026-03-31 時点): https://www.smbc.co.jp/aboutus/profile/gaiyo.html; SMBC「主要子会社・関連会社」: https://www.smbc.co.jp/aboutus/profile/group.html.]
+
 ## 2. Division of functions within the group
 
 ```
@@ -83,10 +85,12 @@ SMFG ([[megabanks/smfg|8316]], holding company)
 | **Markets business** | FX, bonds, derivatives, trading |
 | **Transaction banking** | Corporate settlement, cash management, trade finance |
 
+Sources: ^[SMBC「会社概要」: https://www.smbc.co.jp/aboutus/profile/gaiyo.html; SMBC「主要子会社・関連会社」: https://www.smbc.co.jp/aboutus/profile/group.html.]
+
 ### Main offices
 
-- **Domestic**: nationwide ~442 店 branches scale (varies by period)
-- **International**: expansion across more than 50  countries worldwide, with New York, London, Hong Kong, Singapore, Shanghai, Jakarta, etc. as main offices
+- **Domestic**: 455 head and branch offices (excluding sub-branches, agencies, internet branches, etc., 2026-03-31)
+- **Overseas**: 20 branches (excluding sub-branches and representative offices, 2026-03-31)
 
 ## 4. Competitive positioning
 
@@ -95,10 +99,12 @@ SMFG ([[megabanks/smfg|8316]], holding company)
 | Item | SMBC | [[megabanks/mufg-bank|MUFG]] | [[megabanks/mizuho-bank|みずほ]] |
 |---|---|---|---|
 | Parent company | [[megabanks/smfg|SMFG (8316)]] | [[megabanks/mufg|MUFG (8306)]] | [[megabanks/mizuho-fg|MHFG (8411)]] |
-| Total assets | approx. 250 兆円 scale | approx. 400 兆円 scale | approx. 250 兆円 scale |
+| How to read scale | SMBC non-consolidated total assets are 265.6 兆円 (2026-03-31) | when comparing, do not conflate MUFG Bank non-consolidated with MUFG consolidated | when comparing, do not conflate Mizuho Bank non-consolidated with Mizuho FG consolidated |
 | International expansion | Americas + Asia-centric | US Morgan Stanley investment + Asia, Thailand, etc. | US / Europe + Asia |
 | Domestic share | former Sumitomo + former Mitsui + former Taiyo Kobe | former Mitsubishi + former UFJ + former Tokyo + former Sanwa + former Tokai | former IBJ + former Dai-Ichi Kangyo + former Fuji |
 | Strength areas | project finance + aircraft leasing + wholesale agility | trust · investment banking via US Morgan | trust · international ECM |
+
+Sources: ^[SMBC「会社概要」(2026-03-31 時点): https://www.smbc.co.jp/aboutus/profile/gaiyo.html; SMBC「主要子会社・関連会社」: https://www.smbc.co.jp/aboutus/profile/group.html.]
 
 ### Strategic themes
 
@@ -126,10 +132,12 @@ SMFG ([[megabanks/smfg|8316]], holding company)
 
 - **Wikipedia: Sumitomo Mitsui Banking Corporation** (https://ja.wikipedia.org/wiki/三井住友銀行, 2026-05-25 extraction)
 - **SMBC official site** (https://www.smbc.co.jp/, 2026-05-25 reference)
+- **SMBC「会社概要」** (as of 2026-03-31) https://www.smbc.co.jp/aboutus/profile/gaiyo.html
+- **SMBC「主要子会社・関連会社」** https://www.smbc.co.jp/aboutus/profile/group.html
 - **SMFG integrated report · earnings reports** (https://www.smfg.co.jp/, 2024-25  public portion)
 - FSA bank license list (https://www.fsa.go.jp/menkyo/menkyoj/01.pdf, 2026-05-25 reference)
 
 ---
 
 > [!info] Verification status
-> confidence: **likely** (based on v1.0  public information 2026-05-25 / ambiguous items organized 2026-05-29). The founding year (2001-04-01), predecessors (Sakura + Sumitomo), parent company SMFG, and the intra-group division-of-functions structure match official public materials. Total assets and number of branches vary by period, so they are noted as approximate figures. The US strategy is confirmed as the 2023 Jefferies alliance (public reporting). "Reports of consideration of strategic investment in US regional bank Webster, etc." could not be corroborated through multiple search routes and have been isolated to `.opinions/JapanFG/smbc.md` (2026-05-29). For the latest segment-by-segment earnings, refer to the SMFG earnings report.
+> confidence: **likely** (v1.1 verified on 2026-07-29 against SMBC's official company overview and list of major subsidiaries). The founding year (2001-04-01), predecessors (Sakura + Sumitomo), parent company SMFG, head office, and the intra-group division-of-functions structure were confirmed with official materials, and the figures were updated to non-consolidated total assets of 265.6 兆円 as of 2026-03-31, 455 domestic head and branch offices, and 20 overseas branches. The comparison table was revised to wording that does not conflate bank non-consolidated with holding-company consolidated total assets. "Reports of consideration of strategic investment in US regional bank Webster, etc." could not be corroborated and remain isolated in `.opinions/JapanFG/smbc.md`.

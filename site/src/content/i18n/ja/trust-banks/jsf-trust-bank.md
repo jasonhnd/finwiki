@@ -1,12 +1,12 @@
 ---
 source: trust-banks/jsf-trust-bank
-source_hash: b66cb24e3d865934
+source_hash: de75d5e97c53d947
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日証金信託銀行 (JSF Trust and Banking)"
-translated_at: 2026-06-26T08:32:15.215Z
+translated_at: 2026-07-28T23:40:04.428Z
 ---
 
 # 日証金信託銀行 (JSF Trust and Banking)
@@ -19,7 +19,7 @@ translated_at: 2026-06-26T08:32:15.215Z
 
 当行が独立したページに値するのは、その信託機能が証券市場インフラと密接に結び付いているためである。その公開された沿革には、顧客資産保護信託、有価証券信託、FX 証拠金信託、デリバティブ / CFD 証拠金信託、暗号資産預託信託、およびセキュリティ・トークン関連の信託取扱いが含まれる。
 
-## 法人境界
+## 法人境界 ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; 日証金信託銀行「会社概要」: https://www.jsftb.co.jp/company/outline.html]
 
 | 項目 | 読み方 |
 |---|---|

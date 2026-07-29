@@ -7,14 +7,14 @@ aliases:
   - "FPG Trust Co., Ltd."
 domain: trust-banks
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
-review_by: 2026-11-22
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, trust-company, FPG, real-estate-finance, asset-management]
 status: active
 sources:
-  - "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx"
+  - "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf"
   - "https://www.fpgtrust.jp/"
   - "https://www.fpgtrust.jp/profile/index.html"
   - "https://www.fpgtrust.jp/service/index.html"
@@ -34,7 +34,7 @@ FPG Trust is an operating trust company under the FPG group. Its public company 
 
 The page matters because FPG Trust is not only a registry row. Public company material emphasizes trust structures for movable assets, real estate, securities, money claims, and other entrusted assets, making it a useful route for structured asset finance and high-net-worth / SME-adjacent product analysis.
 
-## Entity Boundary
+## Entity Boundary ^[金融庁の現行免許と FPG 信託会社概要: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://www.fpgtrust.jp/profile/index.html]
 
 | Item | Reading |
 |---|---|
@@ -47,7 +47,7 @@ The page matters because FPG Trust is not only a registry row. Public company ma
 
 This is a trust company, not a licensed trust bank. Keep deposit-taking, bank balance-sheet, and ordinary bank strategy questions outside this page unless a public source connects them.
 
-## Business Role Map
+## Business Role Map ^[FPG 信託「信託サービス」: https://www.fpgtrust.jp/service/index.html]
 
 | Function | FinWiki relevance |
 |---|---|

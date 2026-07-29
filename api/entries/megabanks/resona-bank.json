@@ -24,9 +24,9 @@
     "domain": "megabanks",
     "type": null,
     "created": "2026-05-20",
-    "last_updated": "2026-06-05",
-    "last_tended": "2026-06-05",
-    "review_by": "2026-12-05",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -79,9 +79,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2074,
-    "word_like_tokens": 310,
+    "nonspace_chars": 2264,
+    "word_like_tokens": 344,
     "inbound_wikilinks_count": 12,
-    "last_modified": "2026-06-05"
+    "last_modified": "2026-07-29"
   }
 }

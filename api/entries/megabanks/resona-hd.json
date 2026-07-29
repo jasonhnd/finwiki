@@ -25,9 +25,9 @@
     "domain": "megabanks",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-15",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -41,7 +41,8 @@
     "sources": [
       "Wikipedia: りそなホールディングス (2026-05-19 抽出)",
       "Wikipedia: りそな銀行 / 埼玉りそな銀行 / 関西みらいフィナンシャルグループ",
-      "りそな HD 公式 IR / 統合報告書"
+      "りそな HD「Major Group Companies」(2026-04-01 時点): https://www.resona-gr.co.jp/holdings/english/about/outline/group/index.html",
+      "りそな HD「Financial Results Report: Fiscal Year 2025」: https://www.resona-gr.co.jp/holdings/english/investors/financial/results_c/index.html"
     ]
   },
   "summary": "This entry sits under megabanks INDEX. Read it against シティグループ・ジャパン (Citigroup Japan) for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -87,9 +88,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4636,
-    "word_like_tokens": 785,
+    "nonspace_chars": 5396,
+    "word_like_tokens": 915,
     "inbound_wikilinks_count": 32,
-    "last_modified": "2026-06-22"
+    "last_modified": "2026-07-29"
   }
 }

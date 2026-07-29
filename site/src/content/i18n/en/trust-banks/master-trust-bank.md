@@ -1,13 +1,13 @@
 ---
 source: trust-banks/master-trust-bank
-source_hash: 2ca2b333a1a5584f
+source_hash: 901b10a295af570f
 lang: en
 status: machine
 fidelity: ok
-title: ""
-translated_at: 2026-06-19T13:13:22.646Z
+title: "The Master Trust Bank of Japan"
+translated_at: 2026-07-29T00:35:23.472Z
 ---
-## The Master Trust Bank of Japan
+# The Master Trust Bank of Japan
 
 ## Wiki route
 
@@ -60,7 +60,7 @@ The Master Trust Bank of Japan (asset-management-dedicated, unlisted)
 | 2020 年s | Custody DX / digitization of corporate actions / response to electronic voting |
 | **End of FY2024 年 (2025-03)** | **Assets under custody 770 兆円** (an increase of about 67 兆円 from the prior year-end, the largest scale domestically, trust-property balance of about 598.7 兆円 + assets under administrative-mandate management) |
 
-## 2. Business-segment map
+## 2. Business-segment map ^[日本マスタートラスト信託銀行「会社概要」および 2024 年度決算: https://www.mastertrust.co.jp/company/information.html; https://www.mastertrust.co.jp/assets/pdf/financial/zm20250521.pdf]
 
 | Segment | Function | Customers |
 |---|---|---|
@@ -70,9 +70,9 @@ The Master Trust Bank of Japan (asset-management-dedicated, unlisted)
 | **Voting-rights exercise agency** | voting-rights exercise based on entruster instructions, handling of advisory firms such as ISS / Glass Lewis | institutional investors |
 | **Trust-agency business** | recording of trust beneficial interests, escrow, specified money trusts outside the standard category | corporate clients |
 
-### Industry structure — custody 2 -pillar system
+### Industry structure — custody 2 -pillar system ^[日本マスタートラスト信託銀行「会社概要」: https://www.mastertrust.co.jp/company/information.html; 日本カストディ銀行「ディスクロージャー誌 2025」: https://www.custody.jp/data/disclosure/pdf/disclosure202507.pdf]
 
-Japan's asset-management-dedicated trusts form a **2 -pillar oligopoly**:
+The two major asset-management-dedicated trusts in Japan are compared at the corporate/shareholder boundaries shown in each company's public materials: ^[日本マスタートラスト信託銀行「会社概要」: https://www.mastertrust.co.jp/company/information.html; 日本カストディ銀行「ディスクロージャー誌 2025」: https://www.custody.jp/data/disclosure/pdf/disclosure202507.pdf]
 
 | Institution | Affiliation | Established | Major shareholders |
 |---|---|---|---|
@@ -126,6 +126,7 @@ Japan's asset-management-dedicated trusts form a **2 -pillar oligopoly**:
 - 一般社団法人 信託協会 公表資料（業界統計）
 - **日本マスタートラスト信託銀行 2024 年度決算について (2025-05-21)**: https://www.mastertrust.co.jp/assets/pdf/financial/zm20250521.pdf — 預かり資産残高 770 兆円 (2025-03 末)、信託財産残高 598,673,237 百万円、株主構成 (三菱 UFJ 信託 46.5%)
 - **日本マスタートラスト信託銀行 会社概要**: https://www.mastertrust.co.jp/company/information.html — 株主出資比率 (三菱 UFJ 信託 46.5% / 日本生命 33.5% / 明治安田 10% / 農中信託 10%)
+- https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf
 
 ---
 

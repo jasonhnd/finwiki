@@ -1,11 +1,11 @@
 ---
 source: asset-managers/t-and-d-asset-management
-source_hash: 14845a7c6faffece
+source_hash: 7cf5660e6ce2d002
 lang: en
 status: machine
 fidelity: ok
 title: "T&D Asset Management (T&D AM)"
-translated_at: 2026-06-15T03:48:21.849Z
+translated_at: 2026-07-29T00:15:16.831Z
 ---
 
 # T&D Asset Management (T&D AM)
@@ -16,7 +16,7 @@ This entry sits under [[asset-managers/INDEX|asset-managers INDEX]]. Read it aga
 
 ## TL;DR
 
-T&D Asset Management (T&D AM) is the asset-management operating company of [[life-insurers/td-hd|T&D ホールディングス (8795)]]. In the FSA Financial Instruments Business operators list it appears as "T&Dアセットマネジメント株式会社", Director-General of the Kanto Local Finance Bureau (Kinsho) 第363号. It carries the asset-management function of [[life-insurers/td-hd|T&D HD]] (Taiyo Life + Daido Life + T&D Financial Life), a **mid-tier life-insurance FG ranking behind Dai-ichi Life / Nippon Life / Meiji Yasuda Life**, handling group life-insurer policy-reserve management + publicly-offered investment trusts + pension management. As part of the **mid-tier life-insurer asset-manager category**, it occupies a complementary position to the largest player [[asset-managers/nissay-asset-management|ニッセイ AM]] and to [[asset-managers/asset-management-one|アセマネOne]] (Dai-ichi Life + Mizuho JV).
+T&D Asset Management (T&D AM) is the asset-management operating company of [[life-insurers/td-hd|T&D ホールディングス (8795)]]. In the FSA Financial Instruments Business Operators list it appears as "T&Dアセットマネジメント株式会社", Director-General of the Kanto Local Finance Bureau (Kinsho) 第357号. It carries the asset-management function of [[life-insurers/td-hd|T&D HD]] (Taiyo Life + Daido Life + T&D Financial Life), handling publicly-offered investment trusts, discretionary investment management, and investment advisory services.
 
 ## 1. Entity / license boundary
 
@@ -24,10 +24,12 @@ T&D Asset Management (T&D AM) is the asset-management operating company of [[lif
 |---|---|
 | Legal name | T&Dアセットマネジメント株式会社 |
 | English name | T&D Asset Management Co., Ltd. |
-| FSA registration | Director-General of the Kanto Local Finance Bureau (Kinsho) 第363号 |
+| FSA registration | Director-General of the Kanto Local Finance Bureau (Kinsho) 第357号 |
 | FIEA scope | Type II Financial Instruments Business, Investment Advisory and Agency Business, Investment Management Business |
 | Parent boundary | [[life-insurers/td-hd|T&D ホールディングス]] (listed 8795) 100% asset-management subsidiary |
-| HQ | Nihonbashi, Chuo-ku, Tokyo |
+| HQ | Mita Bell Jubile Building, 5-36-7 Shiba, Minato-ku, Tokyo |
+
+Sources: ^[FSA Financial Instruments Business Operators Registry: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx; T&D Asset Management Company Profile: https://www.tdasset.co.jp/company/about/.]
 
 ## 2. Business role
 
@@ -63,14 +65,16 @@ T&D ホールディングス (上場 8795)
 
 ## 5. Competitors / peers
 
-| Peer | Lineage | Differentiation axis |
+| Peer | Published capital/affiliate boundary | Comparison category |
 |---|---|---|
-| [[asset-managers/nissay-asset-management|ニッセイ AM]] | [[life-insurers/nippon-life|日本生命]] affiliated (mutual company) | Largest among life-insurer asset managers |
-| [[asset-managers/asset-management-one|アセマネOne]] | Mizuho + Dai-ichi Life JV | Bank + life-insurer JV |
-| [[asset-managers/tokio-marine-asset-management|東京海上 AM]] | [[non-life-insurers/tokio-marine|東京海上 HD]] affiliated | Non-life-insurer asset manager |
-| [[asset-managers/mufg-asset-management|MUAM]] | [[megabanks/mufg|MUFG]] affiliated | Megabank affiliated |
-| [[asset-managers/sbi-asset-management|SBI AM]] | [[megabanks/sbi-hd|SBI HD]] affiliated | Online-brokerage low-cost investment trusts |
-| [[asset-managers/smt-am|SMT-AM]] | [[trust-banks/sumitomo-mitsui-trust|SuMi TRUST]] affiliated | Trust-specialised independent |
+| [[asset-managers/nissay-asset-management|ニッセイ AM]] | [[life-insurers/nippon-life|Nippon Life]] 100% | Life-insurer-group AM |
+| [[asset-managers/asset-management-one|アセマネOne]] | Mizuho FG 70% / Dai-ichi Life HD 30% (voting rights 51% / 49%) | Bank and life-insurer JV |
+| [[asset-managers/tokio-marine-asset-management|東京海上 AM]] | [[non-life-insurers/tokio-marine|Tokio Marine HD]] 100% | Non-life-insurer-group AM |
+| [[asset-managers/mufg-asset-management|MUAM]] | [[megabanks/mufg|MUFG]] Group | Bank-group AM |
+| [[asset-managers/sbi-asset-management|SBI AM]] | SBI Global Asset Management / [[megabanks/sbi-hd|SBI Group]] | SBI-group AM |
+| [[asset-managers/smt-am|SMT-AM]] | [[trust-banks/sumitomo-mitsui-trust|Sumitomo Mitsui Trust Group]] 100% | Trust-group AM |
+
+Sources: ^[T&D Asset Management Company Profile: https://www.tdasset.co.jp/company/about/; Nissay Asset Management Company Profile: https://www.nam.co.jp/company/info/outline.html; Asset Management One Company Profile: https://www.am-one.co.jp/company/profile/; Tokio Marine Asset Management Corporate Profile: https://www.tokiomarineam.com/who_we_are/; Mitsubishi UFJ Asset Management Company Profile: https://www.am.mufg.jp/corp/about/gaiyou.html; SBI Asset Management Company Profile: https://www.sbiam.co.jp/gaiyo/gaiyo_gai.html; Sumitomo Mitsui Trust Asset Management Company Profile and Shareholder Composition: https://www.smtam.jp/institutional/company/outline/.]
 
 ## Related
 
@@ -87,5 +91,5 @@ T&D ホールディングス (上場 8795)
 ## Sources
 
 - FSA, "金融商品取引業者登録一覧", `kinyushohin.xlsx` (public Excel list).
-- T&Dアセットマネジメント株式会社, "会社概要" (official corporate site).
+- T&Dアセットマネジメント株式会社, "会社概要" (https://www.tdasset.co.jp/company/about/).
 - T&D ホールディングス, "グループ会社一覧".

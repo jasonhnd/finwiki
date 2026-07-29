@@ -25,9 +25,9 @@
     "domain": "trust-banks",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -47,7 +47,9 @@
       "https://www.mizuho-tb.co.jp/company/about/",
       "https://www.mizuho-tb.co.jp/company/about/info.html",
       "https://disclosure2.edinet-fsa.go.jp/",
-      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
+      "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf",
+      "https://www.mizuho-tb.co.jp/company/investors/index.html",
+      "https://www.mizuho-tb.co.jp/company/investors/kessan_koukoku.html"
     ]
   },
   "summary": "This entry sits under trust-banks INDEX and complements the company-level summary at みずほ信託銀行. Read it against 三菱UFJ信託銀行 (MUTB) / 三井住友信託銀行 for peer trust-bank competitor context, みずほFG / みずほ銀行 for parent-group sister context, and banking index for the broader system / regulatory boundary.",
@@ -93,9 +95,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5045,
-    "word_like_tokens": 759,
+    "nonspace_chars": 5456,
+    "word_like_tokens": 805,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-07-29"
   }
 }

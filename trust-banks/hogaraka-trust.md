@@ -5,14 +5,14 @@ aliases:
   - "ほがらか信託株式会社"
 domain: trust-banks
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
-review_by: 2026-11-22
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, trust-company, Takashimaya, estate-planning, asset-succession]
 status: active
 sources:
-  - "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx"
+  - "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf"
   - "https://www.hogaraka-trust.co.jp/"
   - "https://www.hogaraka-trust.co.jp/company/"
 ---
@@ -31,7 +31,7 @@ Hogaraka Trust describes itself as a Takashimaya group trust company. Its public
 
 The page matters because it shows a department-store / retail group trust route. It is useful for analyzing how non-bank customer networks can distribute estate and asset-succession trust services.
 
-## Entity Boundary
+## Entity Boundary ^[金融庁の現行登録とほがらか信託会社概要: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://www.hogaraka-trust.co.jp/company/]
 
 | Item | Reading |
 |---|---|

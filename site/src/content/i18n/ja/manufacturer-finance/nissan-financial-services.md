@@ -1,12 +1,12 @@
 ---
 source: manufacturer-finance/nissan-financial-services
-source_hash: e3e301bd88df2b19
+source_hash: b58be4ece16e6d8c
 lang: ja
 model: claude-opus-4-8
 status: machine
 fidelity: ok
 title: "日産フィナンシャルサービス (Nissan captive auto-finance arm / Nissan Motor Acceptance Company)"
-translated_at: 2026-06-05T00:00:00.000Z
+translated_at: 2026-07-28T23:40:03.984Z
 ---
 
 # Nissan Financial Services (日産系 captive auto-finance arm / Nissan Motor Acceptance Company)
@@ -17,7 +17,7 @@ This entry sits under [[manufacturer-finance/INDEX|manufacturing index]] and is 
 
 ## TL;DR
 
-日産系の captive auto-finance は、**米州 Nissan Motor Acceptance Company LLC (NMAC)** ・**国内の日産系オートクレジット/リース** を中心とする、Toyota / Honda captive に次ぐ規模の自動車 captive。manufacturing 視点で読むべき軸は **(1) Nissan Motor (日産自動車 7201) が金融を本体外の連結子会社に置く意味、(2) 残価リスク (residual value) を OEM 本体ではなく captive 側へ集約する設計、(3) NMAC が米国で自動車ローン・リース ABS を定期発行する funding 機関である点 ([[structured-finance/auto-loan-abs-japan-toyota-honda|US / Japan auto-loan ABS]] と接続)、(4) ディーラー在庫の floorplan (wholesale) 与信を captive が担う点**。NMAC は **Infiniti Financial Services (IFS)** を高級ブランド向け部門として持ち、Ford Motor Credit・Ally Financial・GM Financial・Toyota Motor Credit・American Honda Finance と並ぶ米国オート captive のトップティアを構成する。
+日産系の captive auto-finance は、**米州 Nissan Motor Acceptance Company LLC (NMAC)** と、国内の **日産フィナンシャルサービス株式会社 (NFS)** を中心とする。manufacturing 視点で読むべき軸は **(1) 販売金融を製造・販売から区分して管理する意味、(2) retail / lease / inventory finance の接続、(3) 社債・銀行借入・証券化による資金調達、(4) 親会社との Keepwell Agreement**。日産は販売金融会社の現行構造と資金調達方針を公式 IR で継続開示している。
 
 ## 1. 会社構造と製造業視点
 
@@ -28,9 +28,13 @@ This entry sits under [[manufacturer-finance/INDEX|manufacturing index]] and is 
 | 旧称・改組 | Nissan Motor Acceptance Corporation → 2022-04-01 付で デラウェア州 LLC「Nissan Motor Acceptance Company LLC」に改組・改称 (旧拠点はカリフォルニア) |
 | 高級ブランド部門 | Infiniti Financial Services (IFS) — NMAC の DBA / 部門 |
 | 米州統括 | Nissan North America, Inc. (NNA) 傘下で NNA の販売活動を金融面から支える |
-| 証券化子会社 | Nissan Auto Receivables 系の SPV (NARC=1991, NARC II=2000, NARF=2002 設立、いずれも NMAC の直接・間接 100% 子会社) |
-| 国内 captive | 日産系のオートクレジット・リース (国内販社網と連動) |
+| 国内 captive | 日産フィナンシャルサービス株式会社 (NFS、日産グループ持分 100%) |
+| 国内 captive の業務 | オートクレジット、カーリース、カード、保険代理、在庫金融 |
+| グループ金融 | 日産グループファイナンス株式会社 (日産グループ持分 100%) |
 | 主要事業 | 小売割賦 (retail installment)、リース、ディーラー在庫金融 (floorplan / wholesale) |
+| 信用補完 | NFS・NMAC 等は Nissan Motor と Keepwell Agreement を締結 |
+
+Sources: ^[Nissan「Major Subsidiaries and Affiliates in Japan」(2026-03-31): https://www.nissan-global.com/EN/COMPANY/PROFILE/SUBSIDIARY/; Nissan「Sales Finance Company」: https://www.nissan-global.com/EN/IR/STOCK/RATING_CORPORATE_BOND/SALES/; Nissan FY2025 Annual Securities Report: https://www.nissan-global.com/EN/IR/FINANCIAL_RESULTS/ASSETS/FR/2025/PDF/fr2025.pdf.]
 
 ### 製造業視点のグループ構造
 
@@ -63,9 +67,11 @@ Nissan Motor Co., Ltd. (日産自動車 7201, 製造業本体)
 | ディーラー在庫金融 (floorplan / wholesale) | 米州・国内 | ディーラー支援、生産・出荷タイミング調整 |
 | 自動車保険・延長保証の付帯 | 米州 | 顧客関係の長期化 |
 
+Sources: ^[Nissan「Major Subsidiaries and Affiliates in Japan」: https://www.nissan-global.com/EN/COMPANY/PROFILE/SUBSIDIARY/; Nissan「Sales Finance Company」: https://www.nissan-global.com/EN/IR/STOCK/RATING_CORPORATE_BOND/SALES/.]
+
 ### 自動車 ABS との接続
 
-NMAC は米国オート captive の主要 ABS 発行体の一つで、Nissan の自動車ローン・リース債権を SPV (NARC / NARC II / NARF 系) を介して証券化する。Nissan Motor 本体の B/S に積み上がるはずの auto receivables を captive が ABS でオフバランス化し、グループ全体のレバレッジを抑える構造は、Toyota / Honda 系と共通。日本国内でも日産系が自動車ローン ABS 市場の発行体となる。詳細は [[structured-finance/auto-loan-abs-japan-toyota-honda|Auto-loan ABS Japan (Toyota / Honda / Nissan)]] と [[structured-finance/japan-auto-loan-abs-waterfall-mechanics|Japan auto-loan ABS waterfall mechanics]] 参照。
+日産は販売金融会社の資金調達源を、capital markets、銀行借入、金融資産の証券化へ分散する方針を明記する。証券化時の会計上の債権消滅は適用基準の要件次第であり、ABS 発行だけで自動的にオフバランスになるわけではない。詳細は [[structured-finance/auto-loan-abs-japan-toyota-honda|Auto-loan ABS Japan (Toyota / Honda / Nissan)]] と [[structured-finance/japan-auto-loan-abs-waterfall-mechanics|Japan auto-loan ABS waterfall mechanics]] 参照。
 
 ## 3. 主要指標 (定性 + 公開ベース)
 
@@ -73,12 +79,13 @@ NMAC は米国オート captive の主要 ABS 発行体の一つで、Nissan の
 |---|---|---|
 | NMAC 法人形態 | デラウェア州 LLC (2022-04-01 改組) | NMAC 会社概要 |
 | 高級ブランド部門 | Infiniti Financial Services (IFS) | Nissan USA / NMAC |
-| 証券化子会社 | NARC (1991) / NARC II (2000) / NARF (2002) | Nissan EMTN program 開示 |
-| 米州統括 | Nissan North America, Inc. (NNA) | Nissan IR |
-| 主要競合 (米国) | Ford Motor Credit, Ally Financial, GM Financial, Toyota Motor Credit, American Honda Finance | 業界レポート |
-| 国内 | 日産系オートクレジット・リース | EDINET / Nissan IR |
+| 米州事業 | NMAC が米国販売金融事業を担当 | Nissan IR |
+| 国内事業 | NFS がオートクレジット、リース、カード、保険代理、在庫金融を担当 | Nissan company profile |
+| 国内持分 | NFS / 日産グループファイナンスはいずれも日産グループ持分 100% | Nissan company profile |
+| 信用補完 | NFS・NMAC 等と Nissan Motor の Keepwell Agreement | Nissan IR / FY2025 securities report |
+| 資金調達方針 | capital markets、銀行借入、金融資産の証券化を分散利用 | Nissan financial plan |
 
-> 具体的な連結総資産・債権残高・ABS 発行額は、Nissan Motor「販売金融事業」セグメント開示および NMAC / SPV の証券化開示に四半期・年次で開示される。本エントリは会社構造・captive 設計・funding 機構を中心に記述し、変動の大きい財務数値は一次資料を参照する方針 (脆い financial figures より mechanism 知識を優先)。
+Sources: ^[Nissan「Sales Finance Company」: https://www.nissan-global.com/EN/IR/STOCK/RATING_CORPORATE_BOND/SALES/; Nissan「Major Subsidiaries and Affiliates in Japan」: https://www.nissan-global.com/EN/COMPANY/PROFILE/SUBSIDIARY/; Nissan「Financial Plan」: https://www.nissan-global.com/EN/IR/STOCK/RATING_CORPORATE_BOND/PLAN/; Nissan FY2025 Annual Securities Report: https://www.nissan-global.com/EN/IR/FINANCIAL_RESULTS/ASSETS/FR/2025/PDF/fr2025.pdf.]
 
 ## 4. 戦略 (Residual Value + EV + Brand-Split + Wholesale)
 
@@ -109,6 +116,9 @@ NMAC は米国オート captive の主要 ABS 発行体の一つで、Nissan の
 ## Sources
 
 - Nissan Motor Co., Ltd.「Investor Relations」: https://www.nissan-global.com/EN/IR/
+- Nissan「Major Subsidiaries and Affiliates in Japan」: https://www.nissan-global.com/EN/COMPANY/PROFILE/SUBSIDIARY/
+- Nissan「Sales Finance Company」: https://www.nissan-global.com/EN/IR/STOCK/RATING_CORPORATE_BOND/SALES/
+- Nissan「Financial Plan」: https://www.nissan-global.com/EN/IR/STOCK/RATING_CORPORATE_BOND/PLAN/
 - Nissan USA「Finance & Online Payment Options」: https://www.nissanusa.com/finance/financing-online-bill-payment-options.html
 - NMAC (Nissan Finance) アカウント管理ポータル: https://www.nissanfinance.com/s/
 - Nissan「EMTN Program」開示 (NMAC / NARC / NARC II / NARF 記載): https://www.nissan-global.com/EN/DOCUMENT/PDF/emtn_program_06.pdf
@@ -117,4 +127,4 @@ NMAC は米国オート captive の主要 ABS 発行体の一つで、Nissan の
 ---
 
 > [!info] 校正ステータス
-> confidence: **likely**。NMAC の会社概要・Nissan IR / EMTN program 開示・Nissan USA を基準に公開情報で構成。NMAC が 2022-04-01 付でデラウェア州 LLC (Nissan Motor Acceptance Company LLC) に改組・改称、Infiniti Financial Services を高級ブランド部門として運用、証券化子会社 NARC (1991) / NARC II (2000) / NARF (2002) を保有、Nissan North America 傘下である点は公開資料で確認。連結財務数値・ABS 発行額は変動が大きいため一次資料参照とし、本文では captive 構造・floorplan・funding 機構を中心に記述。
+> confidence: **likely**。2026-07-29 時点で Nissan の 2026-03-31 現在の主要関係会社一覧、販売金融会社ページ、資金調達方針と FY2025 有価証券報告書を再確認。古い EMTN の SPV 年表と根拠のない競合順位を主要表から外した。

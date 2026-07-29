@@ -1,11 +1,11 @@
 ---
 source: trading-company-finance/sojitz-finance
-source_hash: 679634382f9aeb29
+source_hash: 92b0f7c7e86b0b6b
 lang: ja
 status: machine
 fidelity: ok
 title: "双日フィナンス (Sojitz Finance)"
-translated_at: 2026-06-02T15:14:17.112Z
+translated_at: 2026-07-28T23:40:04.300Z
 ---
 
 # 双日フィナンス (Sojitz Finance)
@@ -14,7 +14,7 @@ translated_at: 2026-06-02T15:14:17.112Z
 
 この項目は [[trading-company-finance/INDEX|trading-company-finance INDEX]] の配下に置く。中堅商社系グループ財務の近い比較対象として [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]]、別の商社系内部財務機能として [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]] とあわせて読む。中堅商社の キャプティブ 比較では [[leasing-firms/kanematsu-leasing|兼松リース]]（小規模な中堅商社系リース）を参照する。5 大商社系の比較基準は [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]] / [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]] / [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]] / [[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]]、より広い規制境界は [[banking/INDEX|banking index]] を参照する。
 
-## 1. 会社概要
+## 1. 会社概要 ^[双日 IR: https://www.sojitz.com/jp/ir/; EDINET: https://disclosure2.edinet-fsa.go.jp/]
 
 | 項目 | メモ |
 |---|---|
@@ -25,14 +25,14 @@ translated_at: 2026-06-02T15:14:17.112Z
 - **旧 ニチメン**：三和銀行 (現 [[megabanks/mufg|MUFG]] 三和系) との関係
 - **旧 日商岩井**：旧 第一勧業銀行・旧 IBJ (現 [[megabanks/mizuho-fg|みずほ FG]]) との関係
 
-### 双日系金融機能の配置
+### 双日系金融機能の配置 ^[双日の有価証券報告書・関係会社開示と各社公式 IR に基づく比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]
 
 | 層 | 主体 | 役割 |
 |---|---|---|
 | **外向け銀行 (主取引)** | [[megabanks/mufg|MUFG]] / [[megabanks/mizuho-fg|みずほ FG]] / [[megabanks/smfg|SMFG]] 並列 | 商業銀行・対外金融サービス |
 | **内向け / グループ金融** | **双日フィナンス (本ページ)** | グループ各社の 内部銀行機能 / CMS / 内部ファクタリング |
 
-## 2. 事業セグメント・マップ
+## 2. 事業セグメント・マップ ^[双日 IR / 有価証券報告書。業務範囲は非上場子会社の開示制約があるため最新関係会社開示を優先: https://www.sojitz.com/jp/ir/]
 
 | セグメント | 内容 |
 |---|---|
@@ -47,7 +47,7 @@ translated_at: 2026-06-02T15:14:17.112Z
 
 双日フィナンス はこれらのセグメントでのサプライヤーファイナンス / 海外通貨ヘッジ / 国境跨ぎ送金 等を支える。中堅商社ゆえに金融機能のスケールは 5 大商社より小さいが、機能セットは類似。
 
-### 競合 / 比較対象
+### 競合 / 比較対象 ^[各親会社の有価証券報告書・公式 IR を横断した比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]
 
 | 商社 | 規模レイヤー | 内向け金融子会社 | 外向けリース系 |
 |---|---|---|---|

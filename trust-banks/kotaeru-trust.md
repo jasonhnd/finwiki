@@ -3,14 +3,14 @@ title: "Kotaeru Trust / コタエル信託"
 aliases: ["コタエル信託", "コタエル信託株式会社", "Kotaeru Trust"]
 domain: trust-banks
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
-review_by: 2026-11-22
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, trust-company, stock-options, startup-finance, public-source]
 status: active
 sources:
-  - "FSA trust company list: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx"
+  - "FSA trust company list: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf"
   - "Kotaeru Trust official site: https://trust.kotaeru.co.jp/"
   - "Kotaeru Trust stock-option service: https://trust.kotaeru.co.jp/service/stockoption/"
 ---
@@ -27,7 +27,7 @@ Kotaeru Trust is a management-type trust company whose public materials emphasiz
 
 This page covers コタエル信託株式会社 as a trust-company operator. It should not be used as a generic tax opinion page on stock options; legal and tax claims need public primary-source support.
 
-## Business Role Map
+## Business Role Map ^[コタエル信託「ストックオプション信託」: https://trust.kotaeru.co.jp/service/stockoption/; 金融庁の現行登録: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf]
 
 | Route | Reading |
 |---|---|

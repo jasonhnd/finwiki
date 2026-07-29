@@ -1,11 +1,11 @@
 ---
 source: asset-managers/smd-am
-source_hash: 5459cb6e6f775550
+source_hash: ee6a679603638e2b
 lang: ja
 status: machine
 fidelity: ok
 title: "三井住友DSアセットマネジメント"
-translated_at: 2026-06-15T03:48:21.823Z
+translated_at: 2026-07-28T23:40:03.838Z
 ---
 
 # 三井住友DSアセットマネジメント
@@ -25,8 +25,10 @@ translated_at: 2026-06-15T03:48:21.823Z
 | 法人名 | 三井住友DSアセットマネジメント株式会社 / Sumitomo Mitsui DS Asset Management Co., Ltd. |
 | ライセンス経路 | 金融商品取引法上の **投資運用業**・**投資助言・代理業**・第二種; 関東財務局長(金商)第399号 |
 | 起源 | 2019-04 合併 (三井住友AM + 大和住銀投信投資顧問) |
-| 株主構成 | [[megabanks/smfg|SMFG]] ~50.1%, [[securities-firms/daiwa-sg|Daiwa Securities Group]] ~23.5%, 三井住友海上 ~15%, 住友生命 ~10.4%, SMTB ~1% (2019 設立時) |
+| 株主構成 | [[megabanks/smfg|SMFG]] 50.1%、[[securities-firms/daiwa-sg|大和証券グループ本社]] 23.5%、三井住友海上火災保険 15.0%、住友生命保険 10.4%、三井住友信託銀行 1.0% |
 | 監督 | [[financial-regulators/fsa|FSA]] + 投資信託協会 / 日本投資顧問業協会 |
+
+Sources: ^[FSA 金融商品取引業者登録一覧: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx; 三井住友DSアセットマネジメント 会社概要: https://www.smd-am.co.jp/corporate/overview/.]
 
 ## 2. 運営モデル
 
@@ -56,4 +58,4 @@ translated_at: 2026-06-15T03:48:21.823Z
 - SMBCグループ二十年史, "三井住友DSアセットマネジメント" (グループ会社概要・沿革).
 
 > [!info] 校核状態
-> confidence: likely. 法人名・登録番号・2019-04 合併・筆頭株主 SMFG は公開情報。出資比率 (~50.1 / 23.5 / 15 / 10.4 / 1) は **2019 年設立時** の公開開示に基づく shape であり、現時点の固定値として扱わない。
+> confidence: likely. 法人名・登録番号・2019-04 合併・現行の株主比率は、2026-07-29 時点の FSA 登録一覧と公式会社概要で再確認した。

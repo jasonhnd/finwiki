@@ -1,11 +1,11 @@
 ---
 source: megabanks/sbi-hd
-source_hash: f1b29fb9ec6620bc
+source_hash: 6982b63f53db9200
 lang: en
 status: machine
 fidelity: ok
 title: "SBI ホールディングス (SBI HD)"
-translated_at: 2026-06-19T06:09:18.059Z
+translated_at: 2026-07-29T00:33:34.791Z
 ---
 
 # SBI ホールディングス (SBI HD)
@@ -16,7 +16,7 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[meg
 
 ## TL;DR
 
-One of Japan's largest internet comprehensive financial groups. **Established 1999-07-08** (formerly SoftBank Investment; later became independent from the SoftBank Group affiliation and renamed to SBI = Strategic Business Innovator). A comprehensive financial group of **SBI SECURITIES (the largest online brokerage domestically, accounts over 1500 万 as of 2025-11 , surpassing Nomura's approx. 539 万) + SBI Shinsei Bank (former Shinsei Bank, fully consolidated 2023-09 ) + SBI Sumishin Net Bank (former 50% JV, transfer to NTT docomo completed 2025-10 ) + SBI Insurance / SBI Life / SBI Ikiiki Shosan + SBI VC Trade (crypto assets)**. Founder Yoshitaka Kitao is chairman and president. **FY2024/3  (the 2025-03  period) consolidated: revenue 1兆4437億円 / ordinary profit 2823億円 / net profit 1621億円 / total assets 32.11 兆円 / net assets 1兆2614億円 / employees 19,156 名**. **The "4 th-megabank concept"** (proposed 2020 , building a wide-area financial base through regional-bank coordination; Chikuho / Shimizu / Daito / Fukushima / Sendai, etc., over 10 行). **From 2022, under the "SMBC-SBI Alliance,"** [[megabanks/smfg]] holds an SBI HD stake of 8.91% and established the Olive Consulting JV in 2025-09 . ^[extracted]
+One of Japan's largest internet comprehensive financial groups. **Established 1999-07-08** (formerly SoftBank Investment; later became independent from the SoftBank Group affiliation and renamed to SBI = Strategic Business Innovator). A comprehensive financial group of **SBI SECURITIES (the largest online brokerage domestically) + SBI Shinsei Bank (public funds fully repaid on 2025-07-31, relisted on TSE PRIME on 2025-12-17) + SBI Insurance / SBI Life / SBI Ikiiki Shosan + SBI VC Trade (crypto assets)**, with the stake in SBI Sumishin Net Bank transferred to NTT docomo in 2025-10. Founder Yoshitaka Kitao is chairman and president. **FY2024 (the 2025-03  period) consolidated: revenue 1兆4437億円 / ordinary profit 2823億円 / net profit 1621億円 / total assets 32.11 兆円 / net assets 1兆2614億円 / employees 19,156 名**. As of 2026-01, regional-bank coordination officially lists strategic capital and business alliances with **9 行**. **From 2022, under the "SMBC-SBI Alliance,"** [[megabanks/smfg]] holds SBI HD shares and established Olive Consulting as a JV in 2025-09 . ^[extracted]
 
 ## 1. Company overview
 
@@ -60,10 +60,10 @@ SBI Holdings (holding company / listed 8473)
   │     ├── SBI Neomobile Securities → absorbed into SBI SECURITIES in 2024 
   │     ├── SBI Liquidity Market 100% ── FX liquidity provision
   │     └── Overseas: SBI Royal Securities (Cambodia), etc.
-  ├── SBI Shinsei Bank (former Shinsei Bank, 100%, fully consolidated 2023-09 , delisted → renamed 2023-12 )
-  │     ├── public-funds 3500 億円 unrepaid issue (ongoing)
-  │     ├── 2025-07  relisting application (public-funds full repayment in sight) ^[extracted from smfg ref]
-  │     └── former Long-Term Credit Bank affiliation (failure → under Ripplewood → listing → SBI full consolidation)
+  ├── SBI Shinsei Bank (former Shinsei Bank, SBI group consolidated subsidiary, TSE PRIME 8303)
+  │     ├── 2025-07-31 public funds of approx. 2,300 億円 fully repaid
+  │     ├── 2025-12-17 relisted on TSE PRIME
+  │     └── former Long-Term Credit Bank affiliation (failure → under Ripplewood → listing → SBI full consolidation → relisting)
   ├── SBI Sumishin Net Bank (former 50% / Sumitomo Mitsui Trust Bank 50% JV, TSE PRIME 7163)
   │     └── ★ 2025-10-01 transfer of all shares to NTT docomo completed → NTT docomo full consolidation ([[megabanks/ndfg]] cross-ref) ^[extracted]
   ├── SBI Insurance (100%) ── fully-online auto insurance, etc.
@@ -75,14 +75,11 @@ SBI Holdings (holding company / listed 8473)
   ├── SBI Global Asset Management (listed subsidiary) ── AM intermediate holding
   └── SBI Liquidity Market ── FX market maker
 
-Strategic alliances / regional-bank partners (over 10 行, 4 th-megabank concept)
-  ├── Chikuho Bank (Fukuoka / second-tier regional bank)
+Strategic capital and business alliance partners (9 行 as of 2026-01)
+  ├── Shimane Bank / Fukushima Bank
   ├── Shimizu Bank (Shizuoka / regional bank)
-  ├── Daito Bank (Fukushima / second-tier regional bank)
-  ├── Fukushima Bank (Fukushima / second-tier regional bank)
-  ├── Sendai Bank (Miyagi / under Jimoto Holdings, second-tier regional bank)
-  ├── [[regional-banks/shimane-bank|島根銀行]] (Shimane / second-tier regional bank)
-  ├── Tsukuba Bank / Ikeda Senshu HD, etc. ── expanding in sequence
+  ├── Towa Bank / Tsukuba Bank / Taiko Bank / Tohoku Bank
+  ├── Kirayaka Bank / Sendai Bank (under Jimoto Holdings)
   └── common SBI investment + system commonization + joint product development
 
 ★ SMBC-SBI Alliance (2022〜)
@@ -114,17 +111,19 @@ Strategic alliances / regional-bank partners (over 10 行, 4 th-megabank concept
 | **2023-12** | **renamed SBI Shinsei Bank** |
 | 2024-04 | [[megabanks/smfg]] acquired an SBI HD stake of 8.91% (via TOB) ★ |
 | **2025-03  settlement (FY2024/3)** | **consolidated revenue 1兆4437億円 / net profit 1621億円 / total assets 32.11 兆円** ^[extracted] |
-| **2025-07-17** | **SBI Shinsei Bank relisting application** (public-funds full repayment in sight) / major-shareholder composition updated (SMFG 8.91% / NTT 8.18%) ^[extracted] |
+| **2025-07-11** | **SBI Shinsei Bank applied to the TSE for relisting** |
+| **2025-07-31** | **SBI Shinsei Bank's public funds of approx. 2,300 億円 fully repaid** |
 | **2025-09-05** | **Olive Consulting established** (SMBC group × SBI HD 5 社 joint venture) ★ |
 | **2025-10-01** | **transfer of all shares of SBI Sumishin Net Bank to NTT docomo completed** (SBI HD exit, NTT docomo full consolidation → [[megabanks/ndfg]] cross-ref) ★ |
 | **2025-11** | **SBI SECURITIES accounts surpassed 1500 万** (surpassing Nomura's approx. 539 万) ^[extracted] |
+| **2025-12-17** | **SBI Shinsei Bank relisted on TSE PRIME (8303)** |
 
 ## 2. Business segment map
 
 | Segment | Main operator | Characteristics |
 |---|---|---|
 | Online brokerage | SBI SECURITIES | largest domestically, accounts **over 1500 万** (2025-11), one of the industry's 2  leaders with Rakuten Securities |
-| Online bank (consolidated subsidiary) | SBI Shinsei Bank | former Shinsei Bank, 3500 億円 public funds unrepaid, 2025-07  relisting application |
+| Online bank (consolidated subsidiary) | SBI Shinsei Bank | public funds fully repaid on 2025-07-31, relisted on TSE PRIME 2025-12-17 |
 | Online bank (former JV) | SBI Sumishin Net Bank, former 50% → transfer to NTT docomo completed 2025-10  | SBI exit completed |
 | Crypto assets | SBI VC Trade | domestic Tier 2  scale, strong with institutional investors |
 | Online non-life | SBI Insurance | direct-type auto insurance |
@@ -137,9 +136,11 @@ Strategic alliances / regional-bank partners (over 10 行, 4 th-megabank concept
 | Education | SBI Graduate School | MBA |
 | ★ SMBC coordination | Olive Consulting JV (established 2025-09 ) | SBI SECURITIES + SMBC Nikko Securities + Olive integrated operation |
 
+Sources: ^[SBI HD「SBI 新生銀行の公的資金完済」: https://www.sbigroup.co.jp/news/2025/0731_15628.html; JPX「SBI 新生銀行 新規上場会社概要」: https://www.jpx.co.jp/listing/stocks/new/t13vrt000000432y-att/12SBIShinseiBank-Outline.pdf; SBI HD「地域社会の課題解決に資する地方創生への貢献」: https://www.sbigroup.co.jp/sustainability/sdgs/case1.html.]
+
 ### The "4 th-megabank concept" (2020〜)
 
-A strategic framework proposed by Chairman Kitao. Against the 3  major megabanks ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]), **SBI HD builds a wide-area financial platform through capital and business alliances + system commonization + joint product development with over 10 行 regional banks**. ^[extracted]
+A strategic framework proposed by Chairman Kitao. Against the 3  major megabanks ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]), SBI HD builds a wide-area financial platform through capital and business alliances, system commonization, and joint product development with regional banks. For the current count, the reference date of the official page takes precedence: as of 2026-01, strategic capital and business alliances with 9 行. ^[extracted]
 
 - **Targets**: financially struggling second-tier regional banks (Chikuho / Daito / Fukushima / Sendai, etc.) + regional banks with the willingness to coordinate (Shimizu / Shimane / Tsukuba, etc.)
 - **Model**: SBI minority investment (around 10〜20%) + joint sale of SBI products (securities / insurance / crypto assets) + commonization via the system subsidiary
@@ -197,15 +198,17 @@ A strategic framework proposed by Chairman Kitao. Against the 3  major megabanks
 - **Wikipedia: SBI Holdings** (https://ja.wikipedia.org/wiki/SBIホールディングス, extracted 2026-05-19, FY2024/3 consolidated KPI + major shareholders 2025-07-17)
 - **Wikipedia: SBI SECURITIES** (https://ja.wikipedia.org/wiki/SBI証券, extracted 2026-05-19, accounts 1500 万 2025-11  + FY2024/3  results)
 - **Wikipedia: Sumitomo Mitsui Financial Group** (https://ja.wikipedia.org/wiki/三井住友フィナンシャルグループ, extracted 2026-05-18, SMBC-SBI Alliance / Olive Consulting cross-ref)
+- **SBI HD「SBI 新生銀行の公的資金完済」** (2025-07-31) https://www.sbigroup.co.jp/news/2025/0731_15628.html
+- **JPX「SBI 新生銀行 新規上場会社概要」** (listed 2025-12-17) https://www.jpx.co.jp/listing/stocks/new/t13vrt000000432y-att/12SBIShinseiBank-Outline.pdf
+- **SBI HD「地域社会の課題解決に資する地方創生への貢献」** (9  alliance banks as of 2026-01) https://www.sbigroup.co.jp/sustainability/sdgs/case1.html
 - **To be supplemented**:
   - SBI HD securities report (FY2024/3 ) segment-by-segment revenue / profit from primary materials
-  - SBI Shinsei Bank public-funds repayment plan official IR / relisting prospectus
   - SBI Sumishin Net Bank NTT docomo transfer consideration / capital-gain official PR
   - SBI VC Trade trading volume / share primary materials
-  - latest individual investment ratios of regional-bank partners
+  - latest individual investment ratios of regional-bank partners with reference dates
   - FY2025/3  (the 2026-03  period) full-year forecast / 1Q financial summary
 
 ---
 
 > [!info] Verification status
-> confidence: **likely** (v1.1  Wikipedia + SBI SECURITIES Wikipedia + SMFG Wikipedia cross-ref verification 2026-05-19). The FY2024/3  (the 2025-03  period) consolidated KPI (revenue 1.44 兆円 / net profit 1621 億円 / total assets 32.11 兆円 / net assets 1.26 兆円 / employees 19,156) and the SBI SECURITIES accounts 1500 万 (2025-11) and major shareholders 5 位 (SMFG 8.91% / NTT 8.18%) are Wikipedia primary-reposted values with high confidence. The SBI Shinsei Bank integration effect is clearly reflected in the consolidated B/S (total assets in the 32 兆円 range). **The FY2025/3  (the 2026-03  period) full year and the structural change after SBI Shinsei Bank's relisting need to be supplemented** — confirmation of SBI HD official IR (securities report / financial summary) primary materials is the next verification step.
+> confidence: **likely** (v1.2  verified 2026-07-29 with SBI HD / JPX primary materials). The FY2024 (the 2025-03  period) consolidated KPI and the SBI SECURITIES account count and SBI HD major shareholders retain their reference dates as older extracted values, while for SBI Shinsei Bank the full repayment of public funds of approx. 2,300 億円 (2025-07-31) and the relisting on TSE PRIME (2025-12-17) were updated with primary materials. For the regional-bank alliance count, rather than the evaluative "over 10 行," the 9 行 strategic capital and business alliances listed by SBI HD as of 2026-01 are adopted. The FY2025 (the 2026-03  period) full-year KPI and the individual investment ratios of alliance partners will be supplemented with the latest securities report.

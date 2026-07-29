@@ -3,14 +3,14 @@ title: "Lombard Odier Trust Japan / ロンバー・オディエ信託"
 aliases: ["ロンバー・オディエ信託", "ロンバー・オディエ信託株式会社", "Lombard Odier Trust Japan"]
 domain: trust-banks
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
-review_by: 2026-11-22
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, trust-company, private-banking, wealth-management, public-source]
 status: active
 sources:
-  - "FSA trust company list: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx"
+  - "FSA trust company list: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf"
   - "Lombard Odier Tokyo office: https://asia.lombardodier.com/ja/home/offices/tokyo.html"
   - "Lombard Odier group profile: https://www.lombardodier.com/ja/home/about-us/la-maison.html"
 ---
@@ -27,7 +27,7 @@ Lombard Odier Trust is a trust-company row connected to the Lombard Odier privat
 
 This page is for ロンバー・オディエ信託株式会社 and the Japan trust-company route. It should not absorb the broader Lombard Odier group profile, external asset-management services, or non-Japan private-banking operations.
 
-## Business Role Map
+## Business Role Map ^[金融庁の現行免許と Lombard Odier 東京拠点: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://asia.lombardodier.com/ja/home/offices/tokyo.html]
 
 | Route | Reading |
 |---|---|

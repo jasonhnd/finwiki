@@ -1,119 +1,121 @@
 ---
 source: trust-banks/nomura-trust-bank
-source_hash: 767d5bf3a69c7591
+source_hash: 1e31ca6c32ad3ef0
 lang: en
 status: machine
 fidelity: ok
-title: "Nomura Trust Bank (Nomura Trust Bank)"
-translated_at: 2026-06-19T13:13:22.652Z
+title: "Nomura Trust Bank"
+translated_at: 2026-07-29T01:44:13.237Z
 ---
-# Nomura Trust Bank (Nomura Trust Bank)
+# Nomura Trust Bank
 
 ## Wiki route
 
-This entry sits under [[trust-banks/INDEX|trust-banks INDEX]]. Read it with [[banking/INDEX|banking index]] for adjacent context, [[securities-firms/nomura-hd|野村 HD]] for parent group context, [[trust-banks/sumitomo-mitsui-trust|SMTB]] / [[trust-banks/mitsubishi-ufj-trust-bank|MUTB]] for peer trust-bank comparison, and [[financial-licenses/INDEX|金融ライセンス INDEX]] for the broader regulatory boundary.
+This entry sits under [[trust-banks/INDEX|trust-banks INDEX]]. Read it with [[banking/INDEX|banking index]] for adjacent context, [[securities-firms/nomura-hd|Nomura HD]] for parent group context, [[trust-banks/sumitomo-mitsui-trust|SMTB]] / [[trust-banks/mitsubishi-ufj-trust-bank|MUTB]] for peer trust-bank comparison, and [[financial-licenses/INDEX|Financial License INDEX]] for the broader regulatory boundary.
 
-## 1. Legal entity / license boundary
+## 1. Corporate Entity and License Boundary ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; 野村信託銀行「会社概要」（2026-05-13 時点）: https://www.nomura-trust.co.jp/company/corp.html]
 
 | Item | Reading |
 |---|---|
-| Legal name | 野村信託銀行株式会社 |
+| Legal name | Nomura Trust and Banking Company, Limited |
 | English name | The Nomura Trust and Banking Co., Ltd. |
-| FSA category | 信託銀行 |
-| Bank code | 0304 |
-| Head office | Urban Net Otemachi Building 19F, 2-2号 Otemachi 2-chome, Chiyoda-ku, Tokyo |
+| FSA category | Trust bank |
+| Bank code | 0304  |
+| Head Office | Tokyo, Chiyoda Ward, Otemachi 2-chome 2-2号 Urbannet Otemachi Building 19F |
 | Established | 1993-08-24 |
-| Capital | 575 億円 |
-| Parent boundary | [[securities-firms/nomura-hd|野村 HD]] 100% trust-bank subsidiary |
-| Major affiliated entity | [[securities-firms/nomura-securities|野村證券]] (bank agent / trust-agreement agent) |
+| Paid-in Capital | 575 億円 |
+| Parent boundary | [[securities-firms/nomura-hd|Nomura HD]] 100% trust-bank subsidiary |
+| Principal Related Corporations | [[securities-firms/nomura-securities|Nomura Securities]] (Bank agent and trust contract agent) |
 
-## 2. Parent [[securities-firms/nomura-hd|野村 HD]] structure
+## 2. Parent Company [[securities-firms/nomura-hd|Nomura HD]] Structure
 
 ```
-野村ホールディングス（東証 PRIME 8604 / NYSE: NMR）
-  ├── 野村證券（100%）── 中核証券子会社、国内最大手
-  ├── 野村信託銀行（100%）── 銀行牌照・信託機能アーム ← 本ページ
-  ├── 野村アセットマネジメント（100%）── 国内最大級 AM
-  ├── Nomura International (Hong Kong / London / NY) ── 海外証券
-  ├── 野村バブコック&ブラウン ── 不動産・インフラ投資
-  └── その他金融子会社
+Nomura Holdings (Tokyo Stock Exchange PRIME 8604  / NYSE: NMR)
+  ├── Nomura Securities (100%) — Core securities subsidiary, largest domestic player
+  ├── Nomura Trust Bank (100%) — Banking license and trust function arm ← This page
+  ├── Nomura Asset Management (100%) — Largest-class domestic AM
+  ├── Nomura International (Hong Kong / London / NY) — Overseas securities
+  ├── Nomura Babcock & Brown — Real estate and infrastructure investment
+  └── Other financial subsidiaries
 ```
 
-Nomura Trust Bank is positioned to provide **deposit, lending, trust, and settlement functions** to a securities-centric group. While Nomura HD holds a business portfolio centered on securities and AM, it serves as the vehicle for internalizing the banking license required for the comprehensive **Wealth Management (high-net-worth business)** proposition.
+Nomura Trust Bank is positioned to provide deposit, lending, trust, and settlement functions to a securities-centered group. While Nomura HD maintains a securities and AM-centered business portfolio, Nomura Trust Bank serves as a vehicle for in-house development of banking licenses necessary for comprehensive Wealth Management (high-net-worth client business) proposals.
 
-## 4. Principal business — trust functions ancillary to the securities group
+## 4. Principal Business — Trust Functions Accompanying Securities Group
 
-- **Retail business** — deposits, mortgage loans, personal loans (complementary services for Nomura Securities clients) ^[extracted]
-- **Banking business** — settlement, foreign exchange, exchange-rate risk management ^[extracted]
-- **Asset management business** — testamentary trusts, inheritance-related trusts, inheritance consulting ^[extracted]
-- **Securities / investment business** — wrap trusts (fund wrap), SMA (discretionary investment), pension trusts ^[extracted]
-- **Corporate services** — employee stock-ownership incentive trusts (ESOP / J-ESOP), stock-compensation trusts ^[extracted]
-- **Asset securitization trusts** — trust assumption of real estate and monetary claims ^[extracted]
-- **Bank-agent model** — using Nomura Securities as bank agent / trust-agreement agent to sell banking and trust products through the securities channel ^[extracted]
+- **Retail Business** — Deposits, housing loans, individual loans (complementary services for Nomura Securities customers) ^[extracted]
+- **Banking Business** — Settlement, foreign exchange, foreign exchange risk management ^[extracted]
+- **Wealth Management Business** — Will trusts, inheritance-related trusts, inheritance consultation ^[extracted]
+- **Securities and Asset Management Business** — Wrap trusts (fund wraps), SMA (discretionary investment management), pension trusts ^[extracted]
+- **Corporate Services** — Employee stock incentive trusts (ESOP / J-ESOP), stock compensation trusts ^[extracted]
+- **Asset Securitization Trusts** — Trust undertaking of real estate and monetary receivables ^[extracted]
+- **Bank Agency Model** — Utilizing Nomura Securities as a bank agent and trust contract agent to sell banking and trust products through securities channels ^[extracted]
 
-## 5. Key chronology
+## 5. Important Chronology ^[野村信託銀行「会社概要」「仕事を知る」: https://www.nomura-trust.co.jp/company/corp.html; https://www.nomura-trust.co.jp/recruit/graduate/business/]
 
-| Year/Month | Event |
+| Fiscal Period | Event |
 |---|---|
-| 2008-09 | Lehman bankruptcy + Nomura Securities' acquisition of Lehman's Asia division, group expansion phase |
+| 1993-08-24 | Established for the purpose of providing banking and trust functions to Nomura Group customers |
+| 2026-05-13 | Published company overview as of the same date as the 2026 年 3 月 fiscal period earnings summary |
 
-## 6. Peer comparison — trust-bank market
+## 6. Peer Comparison — Corporate Boundary and Principal Functions ^[各社公式会社情報: https://www.smtb.jp/corporate/summary/; https://www.tr.mufg.jp/ippan/about/index.html; https://www.mizuho-tb.co.jp/company/about/info.html; https://www.nomura-trust.co.jp/company/business.html; https://www.bank-daiwa.co.jp/about/outline/; https://www.shinseitrust.com/corporate/about.html]
 
-| Trust bank | Parent FG | Deposit scale | Strength axis |
-|---|---|---|---|
-| [[trust-banks/sumitomo-mitsui-trust|三井住友信託 (SMTB)]] | SuMi TRUST HD | ¥tens of trillions | Largest domestic independent trust; pension / real estate / custody |
-| [[trust-banks/mitsubishi-ufj-trust-bank|三菱 UFJ 信託 (MUTB)]] | [[megabanks/mufg|MUFG]] | ¥tens of trillions | Mega-group affiliated; pension / custody / corporate |
-| [[trust-banks/mizuho-trust-banking|みずほ信託 (MTBJ)]] | [[megabanks/mizuho-fg|みずほ FG]] | ¥tens of trillions | Mega-group affiliated; real-estate trust / pension |
-| **野村信託銀行** | **[[securities-firms/nomura-hd|野村 HD]]** | **Deposits 1兆3,573億円 / Total assets 2兆754億円 (FY2025.3  standalone)** | **Securities-group ancillary, Wealth Mgmt complement** |
-| [[regional-banks/daiwa-next-bank|大和ネクスト銀行]] (Daiwa Securities affiliate) | [[securities-firms/daiwa-securities-group|大和証券 G]] | ¥hundreds of billions | Online-bank type, securities group |
-| [[trust-banks/sbi-shinsei-trust-bank|SBI 新生信託]] | [[regional-banks/sbi-shinsei-bank|SBI 新生]] | Small scale | Startup / crypto-asset trust capable |
+| Financial Institution | Parent Group | Principal Functions Confirmed in Public Information |
+|---|---|---|
+| [[trust-banks/sumitomo-mitsui-trust|Sumitomo Mitsui Trust (SMTB)]] | Sumitomo Mitsui Trust Group | Individual, corporate, investor, real estate, market segments |
+| [[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust (MUTB)]] | [[megabanks/mufg|MUFG]] | Fiduciary assets, pension, real estate, securities agency services |
+| [[trust-banks/mizuho-trust-bank|Mizuho Trust]] | [[megabanks/mizuho-fg|Mizuho FG]] | Trust, pension, real estate, securities agency services, fiduciary assets |
+| **Nomura Trust Bank** | **[[securities-firms/nomura-hd|Nomura HD]]** | **Retail, banking, wealth management, securities and asset management** |
+| [[regional-banks/daiwa-next-bank|Daiwa Next Bank]] | Daiwa Securities Group | Banking services linked with securities accounts |
+| [[trust-banks/sbi-shinsei-trust-bank|SBI Shinsei Trust Bank]] | SBI Group | Real estate, monetary receivables securitization, digital-related trusts |
 
-Nomura Trust is smaller in scale than the 3  major trusts, but as a **securities-group-affiliated trust** it forms a distinct category alongside Daiwa Next Bank. Whereas SMTB / MUTB / MTBJ are heavily weighted toward institutional investors in corporate custody / pensions, Nomura Trust carves out its niche through **ancillary business serving individual high-net-worth clients and Nomura Securities customers**.
+While Nomura Trust falls short of the 3  large trusts in scale, it ranks as a unique category among securities group-affiliated trusts alongside Daiwa Next Bank. In contrast to SMTB / MUTB / MTBJ, which have substantial offerings in corporate custody and pension services for institutional investors, Nomura Trust pursues market segmentation through **ancillary services for individual high-net-worth clients and Nomura Securities customers**.
 
-## 7. Supervision / regulation
+## 7. Supervision and Regulation
 
-- **Supervisor**: Financial Services Agency (FSA), Kanto Local Finance Bureau
-- **Business type**: trust bank (Banking Act + Trust Business Act)
-- **Industry bodies**: Trust Companies Association, Japanese Bankers Association
-- **NRA Stress Test**: subject to the FRB Stress Test on a Nomura HD consolidated basis (US entity)
-- **Trust-industry regulation**: Trust Business Act, trust-agreement-agent regulation, business-scope regulation
-- **Consolidated supervision**: under consolidated Basel III regulation owing to Nomura HD's G-SIB designation
+- **Supervisory Authority**: Financial Services Agency (FSA), Kanto Financial Bureau
+- **Business Category**: Trust bank (Banking Law + Trust Business Law)
+- **Industry Associations**: Trust Association, Japanese Bankers Association
+- **NRA Stress Test**: Subject to FRB Stress Test on a Nomura HD consolidated basis (US corporation)
+- **Trust Industry Regulation**: Trust Business Law, trust contract agent regulation, business scope regulation
+- **Consolidated Supervision**: Under consolidated Basel III regulation by virtue of Nomura HD's G-SIB designation
 
 ## 8. Counterpoints
 
-> Subjective competitive assessments and points of contention are separated into `.opinions/JapanFG/nomura-trust-bank.md`.
+> Subjective competitive assessments and points are separated into `.opinions/JapanFG/nomura-trust-bank.md`.
 
 ## 9. Open questions
 
-- Precise confirmation of the latest-fiscal-year figures for Nomura Trust Bank's standalone financial metrics (deposits / loans / ordinary profit) (trust-bank standalone disclosure / Nomura HD segment disclosure)
-- The depth of securities + trust coordination within the Wealth Management strategy, and countermeasures against competitors (SMBC Nikko + SMTB coordination, Daiwa + Daiwa Next coordination)
-- The status of acquiring overseas institutional investors in the custody business (relationship with major custody specialists such as [[trust-banks/master-trust-bank-of-japan|MTBJ-master]] / [[trust-banks/japan-trustee-services-bank|JTSB]])
-- The degree of spillover to trust-subsidiary earnings during US market-risk fluctuations
-- The possibility of entry into crypto-asset trusts / tokenized-asset trusts (where [[trust-banks/sbi-shinsei-trust-bank|SBI 新生信託]] is ahead)
+- Precise verification of Nomura Trust Bank's latest standalone financial indicators (deposits / loans / operating profit) (via trust bank standalone disclosure / Nomura HD segment disclosure)
+- Depth of integration of securities and trust in Wealth Management strategy; countermeasures against competitors (SMBC Nikko + SMTB collaboration, Daiwa + Daiwa Next collaboration)
+- Status of acquiring overseas institutional investors in custody business (relationship with major custody specialists such as [[trust-banks/master-trust-bank-of-japan|MTBJ-master]] / [[trust-banks/japan-trustee-services-bank|JTSB]])
+- Degree of spillover of US market risk volatility to trust subsidiary revenue
+- Possibility of entry into cryptocurrency trusts / tokenized asset trusts ([[trust-banks/sbi-shinsei-trust-bank|SBI Shinsei Trust]] leads the way)
 
 ## Related
 
-- [[securities-firms/nomura-hd]] — parent company, securities-centric financial group
-- [[securities-firms/nomura-securities]] — core securities subsidiary
-- [[asset-managers/nomura-asset-management]] — group AM
-- [[trust-banks/sumitomo-mitsui-trust]] — largest domestic independent trust
+- [[securities-firms/nomura-hd]] — Parent company, securities-centered financial group
+- [[securities-firms/nomura-securities]] — Core securities subsidiary
+- [[asset-managers/nomura-asset-management]] — Group AM
+- [[trust-banks/sumitomo-mitsui-trust]] — Largest domestic independent trust
 - [[trust-banks/mitsubishi-ufj-trust-bank]] — MUFG-affiliated trust
 - [[trust-banks/mizuho-trust-banking]] — Mizuho-affiliated trust
 - [[regional-banks/daiwa-next-bank]] — Daiwa Securities-affiliated bank (peer structure)
-- [[trust-banks/sbi-shinsei-trust-bank]] — startup / crypto-asset trust peer
+- [[trust-banks/sbi-shinsei-trust-bank]] — Startup / cryptocurrency trust peer
 - [[securities/INDEX]]
 - [[banking/post-megabank-positioning]]
 
 ## Sources
 
-- FSA, "銀行免許一覧", `ginkou.xlsx`.
-- Nomura Trust Bank, "会社概要", https://www.nomura-trust.co.jp/company/corp.html (head office: Urban Net Otemachi Building 19F, 2-2号 Otemachi 2-chome, Chiyoda-ku, Tokyo; established 1993-08-24; capital 575 億円)
-- Nomura Trust Bank, "事業内容", https://www.nomura-trust.co.jp/company/business.html
-- **Nomura Trust Bank 2025年3月 term financial results summary** (2025-05-13; deposits 1兆3,573億円 / total assets 2兆754億円 / net income 60億円, standalone: https://www.nomura-trust.co.jp/ir/pdf/2503.pdf)
-- Nomura Holdings annual securities report / Form 20-F (annual consolidated disclosure)
-- Wikipedia: 野村信託銀行 (public information)
+- FSA, "List of Financial Institutions Approved for Trust Operations", `kenei.pdf`, as of 2026-06-17.
+- Nomura Trust Bank, "Company Overview", https://www.nomura-trust.co.jp/company/corp.html (Head Office: Tokyo, Chiyoda Ward, Otemachi 2-chome 2-2号 Urbannet Otemachi Building 19F · Established 1993-08-24 · Capital 575 億円)
+- Nomura Trust Bank, "Business Operations", https://www.nomura-trust.co.jp/company/business.html
+- **Nomura Trust Bank 2025年3月 Fiscal Period Earnings Summary** (2025-05-13, Deposits 1兆3,573億円 / Total Assets 2兆754億円 / Net Income 60億円 · Standalone: https://www.nomura-trust.co.jp/ir/pdf/2503.pdf)
+- **Nomura Trust Bank 2026年3月 Fiscal Period Earnings Summary** (2026-05-13, Operating Revenue 503 億円 / Operating Profit 74 億円 / Net Income 48 億円 · Standalone): https://www.nomura-trust.co.jp/ir/pdf/2603.pdf
+- Nomura Holdings Securities Report / Form 20-F (Annual Consolidated Disclosure)
+- Wikipedia: Nomura Trust Bank (Public information)
 
 ---
 
-> [!info] Verification status
-> confidence: **likely** (based on v1.1  public sources, 2026-05-25 expansion). Nomura HD 100% subsidiary status, trust-bank category, and business content can be confirmed on a public basis. The year of establishment (1993年 assumed), head-office location, and detailed KPI figures should be confirmed case by case via official corporate information / Nomura HD annual securities report segment disclosure ^[inferred / ambiguous].
+> [!info] Verification Status
+> confidence: **likely** (v1.1  public sources basis, 2026-05-25 expanded). Nomura HD 100% subsidiary, trust bank category, and business operations can be confirmed on a public basis. Year of establishment (1993年 assumed), headquarters location, and detailed KPI figures should be regularly confirmed through official corporate information / Nomura HD Securities Report segment disclosure ^[inferred / ambiguous].

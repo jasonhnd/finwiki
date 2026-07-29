@@ -1,12 +1,12 @@
 ---
 source: trust-banks/daiwa-living-trust
-source_hash: f99a6b25362ba025
+source_hash: 17beb2e030c1c596
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "大和リビング信託 (Daiwa Living Trust)"
-translated_at: 2026-06-26T08:32:30.855Z
+translated_at: 2026-07-28T23:40:04.343Z
 ---
 
 # 大和リビング信託 (Daiwa Living Trust)
@@ -21,7 +21,7 @@ translated_at: 2026-06-26T08:32:30.855Z
 
 このページが重要なのは、資本市場型やプライベートバンク型ではなく、住宅・賃貸不動産に関する信託ルートだからである。賃貸人、賃貸住宅、家族承継の分析に有用。
 
-## 法人境界
+## 法人境界 ^[金融庁の現行登録と会社公式サイト: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://www.daiwaliving-trust.co.jp/]
 
 | 項目 | 読み方 |
 |---|---|

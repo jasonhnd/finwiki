@@ -1,11 +1,11 @@
 ---
 source: megabanks/mizuho-bank
-source_hash: f9c2d8c62adeb314
+source_hash: ba4a2933462edba5
 lang: en
 status: machine
 fidelity: ok
 title: "みずほ銀行 (Mizuho Bank)"
-translated_at: 2026-06-15T03:48:21.869Z
+translated_at: 2026-07-28T23:40:43.751Z
 ---
 
 # みずほ銀行 (Mizuho Bank)
@@ -27,6 +27,8 @@ Mizuho Bank, Ltd. is the commercial-banking core entity of [[megabanks/mizuho-fg
 | License route | Bank license under the Banking Act (city bank); FSA bank license list |
 | Bank code | 0001 |
 | Parent boundary | A commercial-bank operating company under [[megabanks/mizuho-fg|みずほ FG]] |
+
+Sources: ^[金融庁「銀行免許一覧」: https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx; みずほ銀行「会社概要」: https://www.mizuhobank.co.jp/company/info/profile/index.html.]
 
 ## 2. Operating model
 

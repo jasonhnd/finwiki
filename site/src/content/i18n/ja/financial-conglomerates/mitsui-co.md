@@ -1,17 +1,17 @@
 ---
 source: financial-conglomerates/mitsui-co
-source_hash: 2b67e695583592ea
+source_hash: 498b1678db2deb86
 lang: ja
 status: machine
 fidelity: ok
 title: "三井物産 (Mitsui & Co., Ltd.)"
-translated_at: 2026-06-02T14:54:39.040Z
+translated_at: 2026-07-28T23:40:03.897Z
 ---
 # 三井物産 (Mitsui & Co., Ltd.)
 
 ## ウィキ上の位置づけ
 
-この項目は **総合商社の親会社・持株会社的ルート** として [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] の配下に置く。[[financial-conglomerates/mitsubishi-corp|三菱商事]]（純利益首位を争う最大ライバル）と [[financial-conglomerates/itochu-corp|伊藤忠商事]]（非資源寄り 5 大商社の対照）を同業比較・対照の文脈で読む。JapanFG 上でこの項目を支える金融サービス隣接性は、[[trading-company-finance/mitsui-bussan-financial-services|三井物産フィナンシャルサービス]]（内向け CMS）を参照し、[[leasing-firms/smfl|SMFL (住友三井オートサービス系の総合リース)]] は **不正確** — 三井物産の主リース子会社は [[cooperative-banks/ja-mitsui-leasing|JA三井リース]] (JA 全農 + 三井物産 50/50 系列 — 旧 三井リース + JA リース合併体) と SMFG / 住友商事系の [[leasing-firms/smfl|SMFL]] への持分とは別物 (SMFL = 50% SMFG + 50% 住友商事)、加えて [[leasing-firms/sumitomo-mitsui-auto-service|住友三井オートサービス]] への一定持分。制度上の枠組み: [[finance/INDEX|finance index]] と [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
+この項目は **総合商社の親会社・持株会社的ルート** として [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] の配下に置く。[[financial-conglomerates/mitsubishi-corp|三菱商事]] と [[financial-conglomerates/itochu-corp|伊藤忠商事]] を同業比較・対照の文脈で読む。金融サービス隣接性は、[[trading-company-finance/mitsui-bussan-financial-services|三井物産フィナンシャルマネジメント]]（100% 子会社の経理・財務機能会社）と [[cooperative-banks/ja-mitsui-leasing|JA三井リース]]（三井物産の所有割合43.86%、議決権38.84%）を参照する。名称に「三井」を含む [[leasing-firms/sumitomo-mitsui-auto-service|住友三井オートサービス]] の現株主は住友商事・SMFG・SMFLで、三井物産の投資先ではない。制度上の枠組み: [[finance/INDEX|finance index]] と [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
 
 ## 1. 会社概要
 
@@ -30,9 +30,8 @@ translated_at: 2026-06-02T14:54:39.040Z
 
 ```
 三井物産 (8031, 東証 PRIME)
-  ├── [[trading-company-finance/mitsui-bussan-financial-services|三井物産フィナンシャルサービス (MBFS)]] (100%) — 内向け CMS / グループファイナンス
-  ├── [[cooperative-banks/ja-mitsui-leasing|JA三井リース]] (約 33% 級, 持分法)                      — 旧 三井リース + JA リース合併体
-  ├── [[leasing-firms/sumitomo-mitsui-auto-service|住友三井オートサービス]] (一部持分)        — オートリース業界 国内首位級
+  ├── [[trading-company-finance/mitsui-bussan-financial-services|三井物産フィナンシャルマネジメント (MFM)]] (100%) — 経理・財務機能
+  ├── [[cooperative-banks/ja-mitsui-leasing|JA三井リース]] (所有43.86% / 議決権38.84%, 持分法)             — 総合リース
   ├── IHH Healthcare (アジア病院チェーン、主要株主級)                                     — ヘルスケアプラットフォーム
   └── 多数の海外資源 JV (Vale 系、LNG、石油 上流)
 ```
@@ -68,9 +67,11 @@ translated_at: 2026-06-02T14:54:39.040Z
 
 | 金融子会社・関連先 | Wiki アンカー | 持分 | 機能 |
 |---|---|---|---|
-| 三井物産フィナンシャルサービス (MBFS) | [[trading-company-finance/mitsui-bussan-financial-services]] | 100% | 内向け CMS / グループ ファクタリング / 為替金利ヘッジ仲介 |
-| JA三井リース | [[cooperative-banks/ja-mitsui-leasing]] | 約 33% 級 (持分法) | 旧 三井リース + JA 全農系 リース合併体、総合リース大手 |
-| 住友三井オートサービス | [[leasing-firms/sumitomo-mitsui-auto-service]] | 一定持分 (三井物産 + 住友商事 + SMFG 系) | オートリース国内首位級 |
+| 三井物産フィナンシャルマネジメント (MFM) | [[trading-company-finance/mitsui-bussan-financial-services]] | 100% | 経理・財務関連業務、財務オペレーション |
+| JA三井リース | [[cooperative-banks/ja-mitsui-leasing]] | 所有割合43.86% / 議決権38.84% (持分法) | 総合リース・ファイナンス |
+| 住友三井オートサービス（名称境界） | [[leasing-firms/sumitomo-mitsui-auto-service]] | 三井物産の持分なし | 現株主は住友商事、SMFG、SMFL |
+
+Sources: ^[三井物産フィナンシャルマネジメント公式サイト（MFM、三井物産100%）: https://www.webmfm.jp/; JA三井リース「2026年3月期有価証券報告書」（2026-03-31現在）: https://www.jamitsuilease.co.jp/assets/pdf/ir/finance_report_20260629_q.pdf; 住友三井オートサービス「会社概要」（現株主一覧）: https://www.smauto.co.jp/company/profile/.]
 
 加えて、**三井グループの 金融サービス エコシステム**:
 - [[megabanks/smfg|SMFG]] / 三井住友銀行 (三井グループ 主要メガバンク、政策保有関係)
@@ -105,9 +106,8 @@ translated_at: 2026-06-02T14:54:39.040Z
 
 - [[financial-conglomerates/INDEX|financial-conglomerates INDEX]]
 - [[financial-conglomerates/mitsubishi-corp|三菱商事]] · [[financial-conglomerates/itochu-corp|伊藤忠商事]] · [[financial-conglomerates/sumitomo-corp|住友商事]] · [[financial-conglomerates/marubeni-corp|丸紅]] · [[financial-conglomerates/toyota-tsusho-corp|豊田通商]] · [[financial-conglomerates/sojitz-corp|双日]] (peer 商社)
-- [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]] (内向け グループ財務)
+- [[trading-company-finance/mitsui-bussan-financial-services|三井物産フィナンシャルマネジメント]]（100% 子会社の経理・財務機能会社）
 - [[cooperative-banks/ja-mitsui-leasing|JA三井リース]] (持分法リース)
-- [[leasing-firms/sumitomo-mitsui-auto-service|住友三井オートサービス]] (オートリース)
 - [[megabanks/smfg|SMFG]] · [[trust-banks/sumitomo-mitsui-trust|三井住友信託]] · [[non-life-insurers/mitsui-sumitomo-insurance|三井住友海上]] (三井グループ金融)
 - [[finance/INDEX|finance index]] · [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]
 
@@ -115,10 +115,14 @@ translated_at: 2026-06-02T14:54:39.040Z
 
 - 三井物産 (8031) 公式 IR — https://www.mitsui.com/jp/ja/ir/
 - 三井物産 統合報告書 — https://www.mitsui.com/jp/ja/ir/library/integrated/
+- 三井物産 第107期有価証券報告書 — https://www.mitsui.com/jp/ja/ir/library/securities/__icsFiles/afieldfile/2026/06/12/ja_107yuho.pdf
+- 三井物産フィナンシャルマネジメント 公式サイト — https://www.webmfm.jp/
+- JA三井リース 2026年3月期有価証券報告書 — https://www.jamitsuilease.co.jp/assets/pdf/ir/finance_report_20260629_q.pdf
+- 住友三井オートサービス 会社概要 — https://www.smauto.co.jp/company/profile/
 - EDINET 有価証券報告書 — https://disclosure.edinet-fsa.go.jp/ (検索: 三井物産 / 8031)
 - JPX 銘柄情報 8031 — https://www2.jpx.co.jp/
 
 ---
 
 > [!info] 検証状況
-> 信頼度: **高め**。三井物産は公開情報面で十分カバーできる。金融子会社の境界は [[trading-company-finance/mitsui-bussan-financial-services]] / [[cooperative-banks/ja-mitsui-leasing]] / [[leasing-firms/sumitomo-mitsui-auto-service]] と相互検証済み。連結純利益・セグメント別利益・持分法投資の最新数値は有価証券報告書 / 統合報告書で都度更新する。
+> confidence: **likely**。MFM 100%、JA三井リースの所有割合43.86%・議決権38.84%、住友三井オートサービスに三井物産持分がない境界は、2026-07-29 時点の各社公式開示で再確認した。

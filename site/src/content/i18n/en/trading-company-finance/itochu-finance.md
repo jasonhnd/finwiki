@@ -1,11 +1,11 @@
 ---
 source: trading-company-finance/itochu-finance
-source_hash: 2f40a64a3e029d99
+source_hash: ccdf62e7de8ab2bf
 lang: en
 status: machine
 fidelity: ok
 title: "ITOCHU Finance (伊藤忠ファイナンス / ITOCHU Finance Corporation)"
-translated_at: 2026-06-19T12:43:19.874Z
+translated_at: 2026-07-28T23:40:43.907Z
 ---
 
 # ITOCHU Finance (伊藤忠ファイナンス / ITOCHU Finance Corporation)
@@ -14,13 +14,13 @@ translated_at: 2026-06-19T12:43:19.874Z
 
 This entry sits under [[trading-company-finance/INDEX|trading-company-finance INDEX]]. Read it against [[leasing-firms/tokyo-century|東京センチュリー]] (the same-parent **outward-facing leasing / asset-finance** platform — the 伊藤忠 + Mizuho FG 2 -axis shareholder structure, listed 8439) and [[trading-company-finance/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]] (the closest peer trading-house group-treasury arm). For the broader peer set, see [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]], [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]], [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]]. See [[banking/INDEX|banking index]] for the broader regulatory boundary.
 
-## 1. Company overview
+## 1. Company overview ^[伊藤忠商事 IR: https://www.itochu.co.jp/ja/ir/; EDINET: https://disclosure2.edinet-fsa.go.jp/]
 
 | Item | Notes |
 |---|---|
 | Wiki role | **ITOCHU group's inward-facing finance**: CMS / group factoring / group finance |
 
-### Structure of the ITOCHU finance functions
+### Structure of the ITOCHU finance functions ^[伊藤忠商事の有価証券報告書・関係会社開示と各社公式 IR に基づく比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]
 
 | Layer | Entity | Role |
 |---|---|---|
@@ -28,7 +28,7 @@ This entry sits under [[trading-company-finance/INDEX|trading-company-finance IN
 | **Outward-facing leasing (listed)** | [[leasing-firms/tokyo-century|東京センチュリー]] (8439) | Large-scale leasing, aircraft (US ACG), overseas deals, mobility — 伊藤忠 + Mizuho FG 2 -axis |
 | **Inward-facing / group finance** | **ITOCHU Finance (this page)** | Internal banking / CMS / internal factoring for group companies |
 
-## 2. Business-segment map
+## 2. Business-segment map ^[伊藤忠商事 IR / 有価証券報告書。業務範囲は非上場子会社の開示制約があるため最新関係会社開示を優先: https://www.itochu.co.jp/ja/ir/]
 
 | Segment | Content |
 |---|---|
@@ -43,7 +43,7 @@ This entry sits under [[trading-company-finance/INDEX|trading-company-finance IN
 
 In particular, the **food / housing-lifestyle / ICT** segments have many transactions with small and mid-sized suppliers, and are a typical case where CMS / bulk factoring simultaneously achieves cash-flow stabilization on the supplier side and payment-cost optimization on the head-office side.
 
-### Competition / Peer
+### Competition / Peer ^[各親会社の有価証券報告書・公式 IR を横断した比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]
 
 | Trading house | Inward-facing finance subsidiary | Outward-facing leasing arm |
 |---|---|---|

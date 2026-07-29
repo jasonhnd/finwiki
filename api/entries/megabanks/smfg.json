@@ -27,9 +27,9 @@
     "domain": "megabanks",
     "type": null,
     "created": "2026-05-18",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-26",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "certain",
     "tags": [
       "JapanFG",
@@ -51,7 +51,10 @@
       "SMFG SMBC Group IR Day 2025-08-26: https://www.smfg.co.jp/investor/financial/small/pdf/20250826irday_pre01.pdf",
       "SMFG 役員一覧 (2026-05 時点): https://www.smfg.co.jp/company/info/officer.html",
       "金融庁 業務停止命令・課徴金 2022-10-07 (SMBC日興相場操縦): https://www.fsa.go.jp/news/r4/shouken/20221007/20221007.html",
-      "Federal Reserve Written Agreement 解除 2025-09-04 (SMBC NY 支店 AML): https://www.federalreserve.gov/newsevents/pressreleases/enforcement20250909a.htm"
+      "Federal Reserve Written Agreement 解除 2025-09-04 (SMBC NY 支店 AML): https://www.federalreserve.gov/newsevents/pressreleases/enforcement20250909a.htm",
+      "SMFG「主要子会社・関連会社」: https://www.smfg.co.jp/company/groupcompanies.html",
+      "SMBC「Olive Infinite」提供開始 (2026-05-26): https://www2.smbc.co.jp/news/pdf/j20260526_03.pdf",
+      "SBI HD「SBI 新生銀行の公的資金完済」(2025-07-31): https://www.sbigroup.co.jp/news/2025/0731_15628.html"
     ]
   },
   "summary": "This entry sits under megabanks INDEX. Read it with banking index for adjacent context and securities index for the broader system boundary.",
@@ -105,9 +108,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 14035,
-    "word_like_tokens": 2866,
-    "inbound_wikilinks_count": 242,
-    "last_modified": "2026-06-22"
+    "nonspace_chars": 14652,
+    "word_like_tokens": 2966,
+    "inbound_wikilinks_count": 241,
+    "last_modified": "2026-07-29"
   }
 }
