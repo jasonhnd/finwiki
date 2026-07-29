@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-exchange-saxo-bank-japan
-source_hash: 051f7cf3f51548ae
+source_hash: 4debf27248df117b
 lang: en
 status: machine
 fidelity: ok
 title: "Saxo Bank Securities Ltd. — Foreign Multi-Asset Securities Firm (JVCEA Type 2 Associate Member)"
-translated_at: 2026-05-31T06:16:15.687Z
+translated_at: 2026-07-29T12:08:22.000Z
 ---
 
 # Saxo Bank Securities Ltd. — Foreign Multi-Asset Securities Firm (JVCEA Type 2 Associate Member)
@@ -27,7 +27,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - **Parent company**: Saxo Bank A/S (Copenhagen, Denmark) 100% stake
 - **Listing status**: Unlisted (parent Saxo Bank A/S is also an unlisted online bank)
 
-A wholly owned Japanese subsidiary of Saxo Bank A/S, an online bank headquartered in the Kingdom of Denmark. The group was founded in 1992年 and serves customers in 170 countries with more than 100万 clients.
+A wholly owned Japanese subsidiary of Saxo Bank A/S, an online bank headquartered in Denmark. The group was founded in 1992.
 
 ## 2. Licenses and Registration
 
@@ -39,42 +39,41 @@ A wholly owned Japanese subsidiary of Saxo Bank A/S, an online bank headquartere
 
 ### What is a JVCEA Type 2 Associate Member
 
-The JVCEA (Japan Virtual and Crypto assets Exchange Association) Type 2 Associate membership is a membership category for operators that do not hold an FSA crypto asset exchange business registration but engage in crypto asset-related or adjacent activities and wish to participate in self-regulation and industry standard-setting. Type 1 members (26社) must hold a crypto asset exchange business registration; Type 2 associate members (4社 as of 2026年5月) do not. The specific business reason for Saxo Bank Securities joining JVCEA has not been publicly stated. Possible background factors include the global Saxo Bank group's prior offering of crypto asset CFDs and the firm's consideration of regulatory compliance for crypto-related CFDs as a Financial Instruments Business Operator, but no primary source confirmation is available.
+JVCEA Type 2 membership covers firms applying or planning to apply for crypto-asset exchange or crypto-asset derivatives registration. Membership alone does not establish whether an individual filing has been submitted, its review stage, or an expected approval date; this entry does not infer Saxo Bank Securities' application status.
 
 Industry memberships (excluding crypto): Japan Securities Dealers Association, Japan Financial Futures Association, Japan Investor Protection Fund, Japan Commodity Futures Industry Association.
 
 ## 3. Traded Assets
 
-**No crypto asset spot trading or crypto asset CFDs offered** (as of 2026年5月).
-
-The firm's Japanese corporate website contains no reference to crypto asset-related products, and none are listed in the product catalog. The global website's product lineup also does not currently include crypto asset CFDs.
+The Japanese entity's official product list retrieved on 2026-05-18 did not list crypto-asset spot trading or crypto-asset CFDs. This entry does not infer global products or future availability.
 
 ## 4. Business Scope
 
 As a multi-asset securities firm, the company handles the following:
 
+The following is a summary of the categories displayed in the Japanese entity's official product catalog. Instrument counts and fees can change and are therefore not used as fixed evidence in this table. ^[Source: https://www.home.saxo/ja-jp/products.]
+
 | Product category | Description |
 |---|---|
-| FX | More than 150 currency pairs; covers major, minor, exotic, and precious-metal pairs |
-| Foreign equities | 10,000+ securities listed on 17+ exchanges worldwide (US, Europe, Hong Kong, etc.) |
-| CFDs | Equity index, single-stock, ETF, and commodity CFDs (zero commissions, 8,600+ instruments) |
+| FX | OTC FX including major and minor currencies and precious metals |
+| Foreign equities | Foreign equities listed on overseas exchanges |
+| CFDs | CFDs referencing equity indices, single stocks, ETFs, and commodities |
 | Foreign equity and index options | Options on US equities and major indices (S&P, VIX, etc.) |
-| FX and precious-metal options | 40 FX option instruments; 2 precious-metal option instruments |
+| FX and precious-metal options | Options on FX and precious metals |
 | Futures | Equity index, energy, precious metals, interest rates |
 | ETFs | ETFs for diversified exposure to global markets |
 
 - **Leveraged (margin) trading**: Available for FX and CFDs
 - **Account types**: Omnibus account (equities + derivatives), overseas commodity futures, NDF (Non-Deliverable Forward)
 - **Fiat deposits**: Bank transfer (primary banking partner: Sumitomo Mitsui Banking Corporation); JPY and USD accounts supported simultaneously
-- **NFT, staking, crypto lending**: Not offered
 
 ## 5. Market Share and Volumes
 
-- Not disclosed (neither client account numbers nor trading volumes are officially reported)
-- **Client base**: High-functionality platform primarily targeting active retail investors and professional traders. Multi-asset coverage for simultaneous FX, foreign equities, and CFD trading is a key feature
-- **Competitive positioning**: FX niche (150 currency pairs, among the broadest in Japan); foreign equities compete on fee attractiveness. Not included in pure crypto exchange rankings as the firm has not entered crypto exchange business
+- The Japanese entity's official corporate and product materials reviewed on 2026-07-29 contain no customer-account or trading-volume figures comparable across firms. This entry does not infer a market rank or scale.
 
 ## 6. History and Material Events
+
+The table below is based on Saxo Bank Securities' official company profile and history. That page does not establish the date of JVCEA membership, so the June 2018 Type II financial-instruments registration is not treated as the JVCEA admission date. ^[Source: https://www.home.saxo/ja-jp/about-us/company.]
 
 | Period | Event |
 |---|---|
@@ -87,18 +86,18 @@ As a multi-asset securities firm, the company handles the following:
 | 平成25年1月 (2013年1月) | Succeeded the OTC derivatives business of Kakaku.com Financial Inc. (kakakuFX, KakakuKin) via corporate split |
 | 平成28年2月 (2016年2月) | Trade name changed to "Saxo Bank Securities Ltd." (current name) |
 | 平成28年3月 (2016年3月) | Launched omnibus account, overseas commodity futures, and NDF services |
-| 平成30年6月 (2018年6月) | Registered as a **Type II Financial Instruments Business Operator** with the FSA (JVCEA membership inferred to be contemporaneous) |
+| June 2018 (Heisei 30) | Registered as a **Type II Financial Instruments Business Operator** with the FSA |
 | 令和2年5月 (2020年5月) | Capital increase to 4億9千万 JPY |
 | 令和5年5月 (2023年5月) | Capital increase to 8億9千万 JPY (current) |
 
-No material events such as administrative actions or security breaches have been publicly reported.
+Within the official company history reviewed above, this review did not identify a statement showing an administrative action or security breach. This is not an assertion that no such event exists.
 
 ## 7. Strategic Developments
 
 - **2026年4月~ (limited period)**: Campaign offering up to 10万円 cashback on currency conversion costs (0.25%) when transferring funds from JPY to USD accounts, aimed at boosting US equity trading in USD-denominated accounts
 - **2026年5月**: Comeback campaign for clients with no recent activity (1 executed trades in equities, ETFs, or options required to earn 1,500円 in Saxo Coupons)
 - The global Saxo Bank group is strengthening its brand as a "trading tools company," emphasizing connectivity with external tools including TradingView, OpenAI, and FIX API
-- No public announcement as of 2026年5月 regarding Japan domestic entry into the crypto asset sector
+- The Japanese entity's crypto-related position should be checked separately through its JVCEA Type 2 membership and its live official product list.
 
 ## 8. Key Persons
 

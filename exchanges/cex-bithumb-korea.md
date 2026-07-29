@@ -8,9 +8,9 @@ aliases:
 domain: exchanges
 slug: cex-bithumb-korea
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2027-05-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
 confidence: likely
 tags:
   - exchanges
@@ -20,11 +20,12 @@ tags:
   - isms-casp
 status: active
 sources:
+  - https://www.bithumbcorp.com/ko/company/aboutus.php
+  - https://www.kofiu.go.kr/kor/notification/notice.do
   - 公開情報整理 (Bithumb Korea 公式 IR / 회사 소개 페이지)
   - 公開情報整理 (FSC / FIU 가상자산사업자 등록 정보, 한국 금융정보분석원)
   - 公開情報整理 (KISA ISMS-P 인증 발표)
   - 公開情報整理 (NH 농협은행 실명확인 입출금 계정 계약 보도)
-  - 公開情報整理 (Bithumb IPO 2025-2026 KOSDAQ 상장 추진 보도)
 ---
 
 # Bithumb（빗썸）— 韓国 KRW spot CEX overview
@@ -34,7 +35,7 @@ sources:
 
 This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/korea-cex-five-pillars-comparison|韓国 5 大 CEX 制度比較]] for the Korea peer / regulatory context, [[exchanges/cex-upbit-korea|Upbit]] for the closest peer comparison, and [[exchanges/global-cex-top10-comparison|global CEX top 10 comparison]] for the broader system / market boundary.
 
-> 2014-01 設立 · 韓国 spot 市場 #2（シェア 約 25%）· NH 농협은행 실명계좌 · ISMS-P 認証 · KOSDAQ IPO 計画進行中（2026）
+> 2014-01 設立 · 韓国 KRW spot CEX · NH 농협은행 실명계좌 · ISMS-P 認証
 
 ## 1. 法人・株主
 
@@ -45,7 +46,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 - 株主構成：複数の韓国系金融・IT 投資家が間接保有（過去に複数の支配権変動歴あり、詳細は IR 開示）
   - 2018–2019 年期：BTC Korea Holdings 経由の支配構造
   - 2020 年以降：ビダント・グループ系（Vidente Co., Ltd.）の関与報道
-  - 2024–2026 年期：支配株主は依然として複雑、IPO 準備で再編進行
+  - 現行の支配関係は最新の法人・株主開示で確認し、報道だけから再編目的を推定しない
 
 ## 2. 登録・牌照状況（韓国制度）
 
@@ -58,8 +59,8 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 ## 3. 取扱通貨
 
 - KRW spot 市場 + USDT 市場（限定的）
-- 取扱銘柄数：約 200+（2024–2026 期、ETH / BTC / XRP / SOL / ADA 等の主要銘柄に加え、Klaytn 系 / 韓国 IP プロジェクト系の独自上場あり）
-- BTC / ETH / XRP の取引量シェアが圧倒的（韓国市場全体の構造）
+- 取扱銘柄数と market 構成は変動するため、現行の公式 market 一覧で確認する
+- 銘柄別の取引量構成は時点依存のため、この静的項目では固定しない
 - 上場審査：DAXA（한국 가상자산 거래소 자율규제 협회、Digital Asset eXchange Alliance）の共通上場基準に準拠
 
 ## 4. 業務範囲
@@ -72,39 +73,27 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 
 ## 5. 市占・取引高
 
-- **韓国 spot 市場シェア**：約 25%（[[exchanges/cex-upbit-korea|Upbit]] の 70% に次ぐ #2）
-- 24h volume：$0.5–2B（市場ボラティリティに連動）
-- 顧客層：韓国居住者中心（KYC 完全実施）
-- グローバル CEX ランキング：top 20 圏内（CoinGecko / CoinMarketCap 集計ベース）
+市場シェア、24h volume、ランキングは時点と集計方法で変動するため、この静的項目では固定値を掲げない。比較時は同一 provider・同一計測時刻・同一 market 定義を使い、利用可能地域と KYC 条件は現行の公式 terms で確認する。
 
 ## 6. 沿革・重大事件
 
+出典: 表全体は [Bithumb 公式会社紹介](https://www.bithumbcorp.com/ko/company/aboutus.php) と [KoFIU の仮想資産事業者届出状況](https://www.kofiu.go.kr/kor/notification/notice.do)（2026-07-29 確認）に基づく。
+
 | 時期 | 事項 |
 |------|------|
-| 2014-01 | Bithumb 設立、韓国初期の本格 CEX として営業開始 |
-| 2017 | 韓国仮想通貨ブーム期に Upbit と並ぶ最大手として成長 |
-| 2017-12 | プライバシー侵害事故、3 万件以上の顧客情報漏洩 |
-| 2018-06 | 不正アクセスにより約 350 億ウォン相当の暗号資産流出 |
-| 2019-03 | 内部不正による 200 億ウォン規模流出事案 |
-| 2021-03 | 韓国 특정금융정보법 施行、VASP 登録制度開始 |
-| 2021-09-24 | FIU に VASP 登録完了（韓国第 1 期登録クラス） |
-| 2022–2023 | 各種訴訟・所有権争いを経て経営体制再編 |
-| 2023 | DAXA（自律規制協議体）参画、上場審査共通化 |
-| 2024–2025 | IPO 準備本格化、KOSDAQ 上場主管社選定 |
-| 2025 | ISMS-P 強化認証更新、コンプライアンス体制再構築 |
-| 2026 | KOSDAQ 上場推進継続（公式アナウンスベース） |
+| 2014 | Bithumb の取引サービス開始 |
+| 2026-06-30 基準 | KoFIU の仮想資産事業者届出状況に Bithumb が掲載 |
 
 ## 7. 戦略動向
 
-- **IPO 戦略**：[[exchanges/cex-upbit-korea|Upbit]] 親会社 Dunamu の上場前例を意識し、KOSDAQ 上場による資本市場アクセスを目指す。実現すれば **韓国 VASP として 2 社目（または初）の上場会社** となる
 - **DAXA 参画**：Upbit / Coinone / Korbit / GOPAX と共に DAXA で上場基準を共通化、規制対応コスト分散
-- **NH 농협은행 関係**：実名口座契約の継続が事業継続の生命線。NH 銀行側の AML/CFT 責任分担協議が継続課題
+- **NH 농협은행 関係**：現行の実名口座契約と利用条件は Bithumb と銀行の公式案内で確認する
 - **2024-2026 規制環境**：韓国 가상자산이용자보호법（2024-07 施行）の遵守体制構築、利用者保護基金拠出、不公正取引監視強化への対応
-- **DeFi 連携**：Klaytn（카카오 系）・WEMIX・XPLA など韓国系 L1 / L2 トークンの主要上場場所として機能
+- **取扱資産**：韓国系 token を含む現行の listing は公式 market と notice で確認する
 
 ## Related
 
-- [[exchanges/cex-upbit-korea]] — 韓国 spot 市場 #1（最重要 cross-link）
+- [[exchanges/cex-upbit-korea]] — 韓国同業比較（最重要 cross-link）
 - [[exchanges/korea-cex-five-pillars-comparison]] — 韓国 5 大 CEX 制度比較
 - [[exchanges/global-cex-top10-comparison]] — グローバル CEX top 10
 - [[exchanges/INDEX]] — 取引所ドメインインデックス
@@ -118,6 +107,5 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 - 公開情報整理 (FSC / FIU 가상자산사업자 등록 公開リスト)
 - 公開情報整理 (KISA ISMS-P 認証 발표)
 - 公開情報整理 (NH 농협은행 실명확인 입출금 계정 보도)
-- 公開情報整理 (Bithumb IPO 2025–2026 KOSDAQ 상장 추진 보도, Korea Herald / 코인데스크 코리아)
 - 公開情報整理 (DAXA 자율규제 협의체 발표)
 - 公開情報整理 (가상자산이용자보호법 2024-07 시행 관련 보도)

@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-foreign-exchange-kucoin
-source_hash: d5cf56664277d558
+source_hash: b74d5d60797abe69
 lang: en
 status: machine
 fidelity: ok
 title: "KuCoin — overseas unregistered crypto-asset exchange (Japan FSA warning)"
-translated_at: 2026-05-31T05:31:05.792Z
+translated_at: 2026-07-29T11:50:43.000Z
 ---
 
 # KuCoin — overseas unregistered crypto-asset exchange (Japan FSA warning)
@@ -35,10 +35,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 ## 3. Supported currencies
 
-- Not disclosed (Japanese could not be confirmed in official IR materials)
-- Globally it claims to handle over 700 coins, and is known for broadly covering small- and mid-cap altcoins in addition to major coins such as BTC and ETH.
-- **Native token**: KCS (KuCoin Token) — the exchange's native token. It has uses such as fee discounts and staking-yield distribution.
-- **KuCoin Community Chain (KCC)**: operates its own EVM-compatible chain based on KCS.
+- The FSA warning materials do not describe KuCoin's supported assets or product mix. This entry therefore does not infer an asset count or the later availability of products to Japan residents.
 
 ## 4. Scope of business
 
@@ -48,38 +45,23 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 ## 5. Market share / trading volume
 
-- Not disclosed (Japanese IR materials could not be confirmed)
-- In the global market, on external data such as CoinMarketCap, it had sustained periods of holding top-10 -class trading volume, but following the US regulatory issues from 2024年 onward and the founders' arrests, fluctuations in outflow counts and turnover have been reported.
-- Customer base: predominantly global retail. It also offers services for institutional investors.
+- The FSA warning materials contain no comparable figures for KuCoin's Japan trading volume, account count, or market share. This entry does not infer a global rank or a Japan-market position.
 
 ## 6. History / major events
 
+The table includes only the Japan-facing warning confirmed in the FSA publication "Issuance of Warning Letters to Crypto-Asset Exchange Operators, etc." It is not a complete corporate history of KuCoin and does not cover overseas administrative or judicial proceedings. ^[Sources: https://www.fsa.go.jp/policy/virtual_currency02/index.html; https://www.fsa.go.jp/policy/virtual_currency02/kucoin_keikokushiryo.pdf.]
+
 | Period | Content |
 |------|------|
-| 2017 | Founded in China. Established by Chun Gan, Ke Tang, and Johnny Lyu (3名). Raised 5,500  BTC (worth approx. $2,750万 at the time) via ICO |
-| 2018-11 | Raised USD 2,000万 in a Series A led by IDG Capital, Matrix Partners, and Neo Global Capital |
-| 2018 | Relocated headquarters Hong Kong → Singapore (against the backdrop of tightened crypto-asset regulation by Chinese authorities) |
-| 2020-09 | Large-scale hack occurred: crypto-assets worth USD 2億8,100万 stolen from hot wallets (the Lazarus Group = North Korea-linked hacker group is presumed to have been involved). Ultimately recovered approximately 78% (USD 2億2,200万) |
-| 2022-05 | Raised USD 1億5,000万 in a Series B led by Jump Crypto. Valuation USD 100億 |
-| 2022-07 | Additional investment of USD 1,000万 from SIG |
-| 2023-12 | **Settlement with the NY State AG**: a settlement of USD 2,200万 (penalty + refunds) with the New York State Attorney General. A settlement of the claim that it had operated unregistered as a securities/commodities broker. Ceased trading operations in NY State |
-| 2024-03 | Founders Chun Gan and Ke Tang federally indicted. Charges of operating an unlicensed money-transmitting business and AML violations (US District Court, Southern District of New York). Johnny Lyu was not among the indictment targets at that point |
 | 2024-11-28 | **Financial Services Agency (FSA) issues a warning letter**: warned as an unregistered overseas operator for providing services to Japanese residents without crypto-asset exchange business registration in Japan (dated 令和6年11月28日) |
-| 2025-01 | **Final settlement with the US DOJ and FinCEN**: KuCoin entered a guilty plea and agreed to pay approximately USD 2億9,700万 in penalties/forfeiture for violating the Bank Secrecy Act. Servicing US customers was prohibited under FinCEN rules. The founders 2名 remained pending outside the settlement framework |
-| 2026-02 | Austrian FMA issued an order prohibiting new business against KuCoin EU Exchange GmbH. On grounds of breach of AML obligations and financial-sanctions compliance |
 
 ## 7. Strategic developments
 
-- At 2025年4月, concluded a partnership with ERX Company Ltd., under the supervision of Thailand's SEC, and opened "KuCoin Thailand" (started 2025-04-22). A move to secure access to within-regulation markets in Southeast Asia. A comparison of those dated the same day as the FSA warning is in [[exchanges/jp-foreign-exchange-bybit|Bybit]] / [[exchanges/jp-foreign-exchange-bitget|Bitget]] / [[exchanges/jp-foreign-exchange-mexc|MEXC]]; see [[exchanges/fsa-foreign-exchange-warning-system|FSA 海外取引所警告制度]] for the overall picture of the warning regime.
-- It professes strengthening of its global compliance framework and is said to be advancing reconstruction following the DOJ settlement (specific content unconfirmed beyond official PR).
-- Continues to focus on the DeFi ecosystem via KCC (KuCoin Community Chain).
+- The FSA issued its warning to KuCoin on 2024-11-28. This entry does not infer later Japan-facing service or registration steps from that material alone. For same-date comparisons, see [[exchanges/jp-foreign-exchange-bybit|Bybit]] / [[exchanges/jp-foreign-exchange-bitget|Bitget]] / [[exchanges/jp-foreign-exchange-mexc|MEXC]]; for the system context, see [[exchanges/fsa-foreign-exchange-warning-system|FSA overseas exchange warning system]].
 
 ## 8. Related people
 
-- **Chun Gan**: co-founder. Federally indicted at 2024年3月 (AML violation, unlicensed money-transmitting business).
-- **Ke Tang**: co-founder. Same as above.
-- **Johnny Lyu**: co-founder and former CEO. Active as the face of the company, including issuing official comments in response to the 2020年 hack. On Wikipedia (as referenced at 2026-05-19), the CEO is listed as BC Wong, and Lyu's current position cannot be officially confirmed.
-- **BC Wong**: the current CEO per Wikipedia (as referenced at 2026-05-19; confirmation in official IR not obtained).
+- The FSA warning letter names "Johnny LYU" as KuCoin's representative. This entry does not infer current roles, shareholding, or overseas judicial proceedings not stated in that material.
 
 ## Related
 

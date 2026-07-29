@@ -28,9 +28,9 @@
     "domain": "exchanges",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "exchanges",
@@ -55,7 +55,7 @@
       "https://www.sbivc.co.jp/usdc"
     ]
   },
-  "summary": "日本の円建て・USD 建て stablecoin (改正資金決済法 2023-06 で「電子決済手段」と明文定義) は、発行体の業態 × 法的根拠 で 5 つの規制カテゴリに分かれる: (1) 資金移動業者型 (EPI 第 2 種) = JPYC 唯一、(2) 信託型 (特定信託受益権・EPI 第 3 種) = Progmat プラットフォーム上で MUFG 信託・SMBC 信託・みずほ信託が発行、(3) 銀行発行型 (預金トークン、EPI 第 1 種隣接) = DCJPY と みんなの銀行 SC、(4) 電子決済手段等取引業 (ECISP) 経由の海外 SC 仲介 = SBI VC Trad",
+  "summary": "日本の円建て・USD 建て stablecoin は、発行体、法的主体および提供機能に応じて資金移動業者型、信託型、銀行預金トークン、電子決済手段等取引業者による仲介、前払式支払手段との境界に分けて確認する。本表は JPYC、Progmat 関連案件、DCJPY、みんなの銀行、SBI VC Trade の公開情報を検証入口として扱い、未公表の参入候補や発行コミットを推定しない。",
   "headings": [
     "日本 stablecoin 発行体 規制分類マトリクス — 電子決済手段等取引業 / 信託型 / 銀行発行型 / 資金移動業者型 / 前払式支払手段境界",
     "TL;DR",
@@ -69,7 +69,7 @@
     "E. 前払式支払手段 (legacy 境界) — JPYC v1 アーカイブ + Suica/PASMO 領域"
   ],
   "body_links": {
-    "wikilinks_count": 25,
+    "wikilinks_count": 23,
     "wikilinks": [
       "exchanges/INDEX",
       "exchanges/crypto-custody-provider-landscape-matrix",
@@ -77,8 +77,6 @@
       "exchanges/japan-vasp-business-model-competitive-matrix",
       "exchanges/jp-cex-deposit-token-stablecoin-integration",
       "exchanges/jp-exchange-jpyc",
-      "exchanges/jp-exchange-line-xenesis",
-      "exchanges/jp-exchange-mercoin",
       "exchanges/jp-exchange-sbi-vc-trade",
       "financial-licenses/payment-license-stack",
       "fintech/INDEX",
@@ -104,8 +102,6 @@
       "https://finwiki.zksc.io/ja/exchanges/japan-vasp-business-model-competitive-matrix/",
       "https://finwiki.zksc.io/ja/exchanges/jp-cex-deposit-token-stablecoin-integration/",
       "https://finwiki.zksc.io/ja/exchanges/jp-exchange-jpyc/",
-      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-line-xenesis/",
-      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-mercoin/",
       "https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/",
       "https://finwiki.zksc.io/ja/financial-licenses/payment-license-stack/",
       "https://finwiki.zksc.io/ja/domains/fintech/",
@@ -124,13 +120,20 @@
       "https://finwiki.zksc.io/ja/payments/funds-transfer-vs-prepaid-boundary/",
       "https://finwiki.zksc.io/ja/payments/japan-bnpl-credit-purchase-boundary/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 6,
+    "external_links": [
+      "https://jpyc.co.jp/about",
+      "https://progmat.co.jp/news/",
+      "https://www.decurret-dcp.com/pressrelease/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/denshikessaisyudan.xlsx",
+      "https://www.fsa.go.jp/policy/virtual_currency02/",
+      "https://www.sbivc.co.jp/usdc"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 15693,
-    "word_like_tokens": 2788,
+    "nonspace_chars": 12674,
+    "word_like_tokens": 1930,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-29"
   }
 }

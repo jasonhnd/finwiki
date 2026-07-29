@@ -11,10 +11,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/cex-wazirx-india.md",
   "raw_markdown_url": "https://finwiki.zksc.io/exchanges/cex-wazirx-india.md",
   "domain": "exchanges",
-  "title": "WazirX — インド CEX / 2024-07 Liminal hack ~$235M 被害 overview",
+  "title": "WazirX — インド CEX / 2024-07 cyberattack overview",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "WazirX — インド CEX / 2024-07 Liminal hack ~$235M 被害",
+    "title": "WazirX — インド CEX / 2024-07 cyberattack",
     "aliases": [
       "WazirX",
       "Zanmai Labs",
@@ -23,9 +23,9 @@
     "domain": "exchanges",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-06-24",
-    "review_by": "2026-08-08",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "exchanges",
@@ -41,10 +41,13 @@
     "related": [],
     "note": null,
     "sources": [
+      "https://wazirx.com/blog/important-update-cyber-attack-incident-and-measures-to-protect-your-assets/",
+      "https://wazirx.com/blog/singapore-court-sanctions-wazirx-restructuring-scheme/",
+      "https://wazirx.com/blog/the-scheme-of-arrangement-is-now-effective/",
+      "https://wazirx.com/blog/wazirx-integrates-fireblocks-to-enhance-digital-asset-custody/",
       "https://wazirx.com/blog/wazirx-cyber-attack-key-insights-and-learnings/",
       "公開情報整理 (WazirX 公式 IR / About / Hack response, wazirx.com)",
       "公開情報整理 (Binance 2019-11 WazirX 買収発表 / 2023 dissociation 公式声明, binance.com Blog)",
-      "公開情報整理 (FIU-IND 2024-03 Show Cause Notice 公開情報)",
       "公開情報整理 (Liminal Custody 2024-07 multi-sig wallet incident 公式声明)",
       "公開情報整理 (Zettai Pte. Ltd. シンガポール High Court Moratorium / Scheme of Arrangement 公開資料)",
       "公開情報整理 (WazirX restructuring proposal 2024-10 / 2025 報道 Reuters / CoinDesk / The Block)"
@@ -52,13 +55,13 @@
   },
   "summary": "This entry sits under exchanges index. Read it against CoinDCX for the closest India peer / contrast context, Bybit Lazarus hack for parallel North Korean attribution pattern, and グローバル CEX 破綻比較 for the restructuring / scheme-of-arrangement framework.",
   "headings": [
-    "WazirX — インド CEX / 2024-07 Liminal hack ~$235M 被害 overview",
+    "WazirX — インド CEX / 2024-07 cyberattack overview",
     "Wiki route",
     "1. 法人・株主",
     "2. 登録・牌照状況（インド制度）",
     "3. 取扱通貨",
     "4. 業務範囲",
-    "5. 市占・取引高",
+    "5. 規模情報の読み方",
     "6. 沿革・重大事件",
     "7. 戦略動向",
     "8. 業界での位置付け"
@@ -85,13 +88,18 @@
       "https://finwiki.zksc.io/ja/exchanges/global-crypto-exchange-bankruptcy-comparison/",
       "https://finwiki.zksc.io/ja/exchanges/global-crypto-forensics-vendor-layer/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 4,
+    "external_links": [
+      "https://wazirx.com/blog/important-update-cyber-attack-incident-and-measures-to-protect-your-assets/",
+      "https://wazirx.com/blog/singapore-court-sanctions-wazirx-restructuring-scheme/",
+      "https://wazirx.com/blog/the-scheme-of-arrangement-is-now-effective/",
+      "https://wazirx.com/blog/wazirx-integrates-fireblocks-to-enhance-digital-asset-custody/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 5899,
-    "word_like_tokens": 962,
+    "nonspace_chars": 5560,
+    "word_like_tokens": 873,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-24"
+    "last_modified": "2026-07-29"
   }
 }

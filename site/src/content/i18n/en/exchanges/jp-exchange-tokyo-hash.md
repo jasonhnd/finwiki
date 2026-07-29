@@ -1,14 +1,14 @@
 ---
 source: exchanges/jp-exchange-tokyo-hash
-source_hash: 57d2c5d02f6fbb86
+source_hash: c409d5ddea58283c
 lang: en
 status: machine
 fidelity: ok
-title: "Tokyo Hash Co., Ltd. — Japanese crypto-asset exchange operator overview"
-translated_at: 2026-06-22T07:08:50.155Z
+title: "HashKey Japan Co., Ltd. (formerly Tokyo Hash Co., Ltd.) — Japanese crypto-asset exchange operator overview"
+translated_at: 2026-07-29T11:50:43.000Z
 ---
 
-# Tokyo Hash Co., Ltd. — Japanese crypto-asset exchange operator overview
+# HashKey Japan Co., Ltd. (formerly Tokyo Hash Co., Ltd.) — Japanese crypto-asset exchange operator overview
 
 
 ## Wiki route
@@ -19,41 +19,37 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 ## 1. Corporate / shareholders
 
-- **Trade name**: Tokyo Hash Co., Ltd. (Japanese: 東京ハッシュ株式会社)
+- **Trade name**: HashKey Japan Co., Ltd. (Japanese: HashKey Japan株式会社; formerly Tokyo Hash Co., Ltd.)
 - **Date of establishment**: 2018年2月9日
 - **Capital**: 4億3125万円
 - **Head office**: 〒100-0005  2-chome 3-2号 Marunouchi, Chiyoda-ku, Tokyo (3 minutes' walk from JR Tokyo Station; a financial-district location atop Tokyo Station)
 - **Shareholder**: HashKey Digital Asset Group Limited (invested 100%, unlisted)
-- **Parent company**: HashKey Group (Hong Kong headquarters). A pan-Asian group that has obtained crypto-asset exchange licenses from Hong Kong SFC, Singapore MAS, and Japan FSA. Tokyo Hash is the group's Japan entity.
+- **Parent company**: HashKey Group (Hong Kong headquarters). HashKey Japan is the group's Japanese entity.
 
 ## 2. License / registration status
 
 - **Crypto-asset exchange business**: Kanto Local Finance Bureau Director-General 第00027号 (registration date 2021-06-18)
-- No registration for financial instruments business / electronic payment instruments business / funds-transfer business (as of 2026-05-18)
+- Within the FSA and JVCEA lists reviewed on 2026-07-29, the registration confirmed for the company in this entry is its crypto-asset exchange business registration.
 - **JVCEA**: Type 1 member (member number 1032). Registered for crypto-asset exchange business only; has not obtained derivatives-business registration
 
 ## 3. Supported currencies
 
-- **Supported assets**: only 2 assets — Bitcoin (BTC) and Ethereum (ETH)
-- No altcoins or stablecoins supported (as of 2026-05-18)
-- Distinctive feature: among the smallest asset counts domestically. A selective lineup focused mainly on bilateral trading for institutional / corporate clients
+- **Supported assets**: The official product page retrieved on 2026-05-18 showed Bitcoin (BTC) and Ethereum (ETH). Use the live product page for current availability.
 
 ## 4. Scope of business
 
 - **Spot trading**: BTC · ETH buy/sell service (started 2021年9月)
 - **Crypto-asset lending service**: a consumption-loan transaction in which customers lend out their held BTC · ETH for a fixed period and receive a lending fee. Annual rates differ per transaction (the official guidance cites past cases of 4.5%-6.5% annual rate)
-- **Margin / derivatives**: not supported
-- **NFT / staking**: not supported
-- **Fiat-deposit channels**: details not disclosed
+- Product and funding conditions are bounded to the official product page retrieved on 2026-05-18; this entry does not assert that unlisted functions do not exist.
 - **Seminars**: held regularly for institutional / corporate / individual investors (themes such as Web3.0, NFT, DeFi, mining)
 
 ## 5. Market share / trading volume
 
-- Trading volume and account count are not disclosed
-- Customer base: from the corporate-site descriptions, seminar content, and the 2-asset-only composition, the main target is presumed to be **institutional investors / corporate clients** rather than retail general investors (basis: official statements that "HashKey Group's mainstay business is supporting digital-asset investment for institutional investors")
-- Competitive position: registration number #00027  is a latecomer among the 26 社 domestic firms. With both asset count and account count undisclosed, it holds a niche position distinct from the major top 3 ([[exchanges/jp-exchange-bitflyer|bitFlyer]] · [[exchanges/jp-exchange-coincheck|Coincheck]] · [[exchanges/jp-exchange-gmo-coin|GMO コイン]]). For the licensing regime of parent HashKey's home base, see [[exchanges/hk-sfc-vasp-licensing-overview|HK SFC VASP ライセンス]]
+- The HashKey Japan and JVCEA materials reviewed on 2026-07-29 contain no company-level trading-volume or account-count figures comparable across firms. This entry does not infer customer composition, market rank, or scale. For the parent group's home-jurisdiction regime, see [[exchanges/hk-sfc-vasp-licensing-overview|HK SFC VASP licensing overview]].
 
 ## 6. History / major events
+
+The table below is based on the company's profile and official notices and the FSA register. The parent group's Hong Kong approval is distinguished from the Japanese entity's registration or any action against it, and the June 2026 trade-name change is reflected in the current entity's history. ^[Sources: https://www.tokyohash.co.jp/company/profile/; https://www.tokyohash.co.jp/news/; https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx.]
 
 | Period | Item |
 |------|------|
@@ -63,25 +59,23 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 | 2021-12-15 | Crypto-asset lending service launched |
 | 2022-01-05 | Crypto-asset lending service 1th application round opened (annual rate 6.5%) |
 | 2022-02-10 | Crypto-asset lending service 2th application round opened (annual rate 4.5% or more) |
-| 2022-05-09 | Parent HashKey Group obtained in-principle approval from Hong Kong SFC to operate a crypto-asset trading platform (group-wide regulatory progress) ^[HashKey Group SFC approval-in-principle announcement; Tokyo Hash company and product sources] |
+| 2022-05-09 | The parent HashKey Group announced that it had obtained Hong Kong SFC approval in principle to operate a virtual-asset trading platform |
 | 2024-05-31 | Officer change |
 | 2025-04-24 | Officer change |
 | 2025-11-27 | Officer change |
+| 2026-06-15 | Trade name changed from Tokyo Hash Co., Ltd. to HashKey Japan Co., Ltd. |
 
-No notices of administrative action, hacks, or large-scale system outages (as of 2026-05-18).
+Within the company profile, official notices, and FSA register reviewed above, this review did not identify a statement showing an administrative action, hack, or large-scale system outage. This is not an assertion that no such event exists.
 
 ## 7. Strategic developments
 
-- Since 2024年, parent HashKey Group has aggressively rolled out HSK platform-token issuance, HashKey Chain (Ethereum L2) deployment, the launch of HashKey Global (a global exchange), and more. No specific feature-addition plan for the Japan base, Tokyo Hash, has been disclosed.
-- Domestically, the company-profile and philosophy pages show a posture of seeking to expand services for institutional investors, but no individual roadmap is disclosed (as of 2026-05-18).
-- The crypto-asset lending service has had no new public-offering notices since 2022年 (text remains posted on the service page).
+- The company changed its trade name from Tokyo Hash Co., Ltd. to HashKey Japan Co., Ltd. on 2026-06-15. Future product plans are added only when supported by a dated official notice.
 
 ## 8. Related people
 
 - **Representative Director**: Deng Chao. At HashKey Group, also concurrently serves as President of the Singapore entity and CEO of HashKey Capital (per the HashKey Group official profile). Tenure confirmed after the 2025-04-24 officer change.
 - **Directors**: Zhu Minghua, Li Yingchen
 - **Outside auditor**: Takayuki Fukuda
-- Founder story: not disclosed. That it was established as HashKey Group's Japan-entry entity is official information.
 
 ## Related
 

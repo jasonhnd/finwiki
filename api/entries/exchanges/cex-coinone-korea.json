@@ -11,10 +11,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/cex-coinone-korea.md",
   "raw_markdown_url": "https://finwiki.zksc.io/exchanges/cex-coinone-korea.md",
   "domain": "exchanges",
-  "title": "Coinone（코인원）— 韓国 CEX 中堅 / NH農协銀行実名口座 / 独立系 overview",
+  "title": "Coinone（코인원）— 韓国 KRW spot CEX / NH農协銀行実名口座 overview",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Coinone（코인원）— 韓国 CEX 中堅 / NH農协銀行実名口座 / 独立系",
+    "title": "Coinone（코인원）— 韓国 KRW spot CEX / NH農协銀行実名口座",
     "aliases": [
       "Coinone",
       "코인원",
@@ -23,9 +23,9 @@
     "domain": "exchanges",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2027-05-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "exchanges",
@@ -40,6 +40,8 @@
     "related": [],
     "note": null,
     "sources": [
+      "https://www.coinonecorp.com/company/history",
+      "https://www.kofiu.go.kr/kor/notification/notice.do",
       "公開情報整理 (Coinone 공식 IR / 회사 소개 페이지, coinone.co.kr)",
       "公開情報整理 (FSC / FIU 가상자산사업자 등록 정보, 한국 금융정보분석원)",
       "公開情報整理 (KISA ISMS-P 인증 발표)",
@@ -48,9 +50,9 @@
       "公開情報整理 (Coinone 경영진 검찰 기소 2022 보도, 코인데스크 코리아 / 한겨레)"
     ]
   },
-  "summary": "This entry sits under exchanges index. Read it against 韓国 5 大 CEX 制度比較 for the Korea peer / regulatory context, Upbit / Bithumb for the closest top-tier peers, and global CEX top 10 comparison for the broader system / market boundary.",
+  "summary": "This entry sits under exchanges index. Read it against 韓国 5 大 CEX 制度比較 for the Korea peer / regulatory context, Upbit / Bithumb for peer comparisons, and global CEX top 10 comparison for the broader system / market boundary.",
   "headings": [
-    "Coinone（코인원）— 韓国 CEX 中堅 / NH農协銀行実名口座 / 独立系 overview",
+    "Coinone（코인원）— 韓国 KRW spot CEX / NH農协銀行実名口座 overview",
     "Wiki route",
     "1. 法人・株主",
     "2. 登録・牌照状況（韓国制度）",
@@ -83,13 +85,16 @@
       "https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/",
       "https://finwiki.zksc.io/ja/exchanges/korea-cex-five-pillars-comparison/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 2,
+    "external_links": [
+      "https://www.coinonecorp.com/company/history",
+      "https://www.kofiu.go.kr/kor/notification/notice.do"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 4706,
-    "word_like_tokens": 742,
+    "nonspace_chars": 3911,
+    "word_like_tokens": 590,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-07-29"
   }
 }

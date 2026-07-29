@@ -6,9 +6,9 @@ aliases:
   - KomainuCustody
 domain: exchanges
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
-review_by: 2027-05-19
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
 confidence: likely
 tags:
   - fintech
@@ -23,6 +23,8 @@ sources:
   - https://komainu.com/about/
   - https://komainu.com/services/
   - https://komainu.com/
+  - https://komainu.com/entities/
+  - https://komainu.com/services/komainu-core/
   - https://coinpost.jp/?s=Komainu
 ---
 
@@ -46,12 +48,14 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 ## 2. 牌照・登録状況
 
+以下の表は Komainu の現行法人・規制開示と公式沿革に限定する。FCA 登録は Komainu UK、JFSC 規制は Komainu (Jersey)、VARA ライセンスは Komainu MEA に帰属し、グループ全体に一律適用される免許ではない。^[Sources: https://komainu.com/entities/; https://komainu.com/about/.]
+
 | 規制当局 | 種別 | 取得時期 |
 |---------|------|---------|
-| Jersey Financial Services Commission (JFSC) | 登録（Regulatory Approval） | 2019 年 |
-| UK Financial Conduct Authority (FCA) | Crypto Asset 登録 | 2025 年 |
-| Italy OAM (Organismo Agenti e Mediatori) | Virtual Asset 登録 | 2025 年 |
-| VARA (Virtual Asset Regulatory Authority, Dubai) | VASP ライセンス | 2023 年 |
+| Jersey Financial Services Commission (JFSC) | Komainu (Jersey) Limited の fund services business 規制 | 2019 年 |
+| UK Financial Conduct Authority (FCA) | Komainu UK Limited の MLR 登録（FRN 985974） | 2025 年 |
+| Italy OAM (Organismo Agenti e Mediatori) | 公式沿革に掲載される virtual-asset 登録 | 2025 年 |
+| VARA (Virtual Asset Regulatory Authority, Dubai) | Komainu MEA FZE の VASP custody ライセンス | 2023 年 |
 
 - **日本 FSA 暗号資産交換業**: 未登録
 - **JVCEA 会員**: 非加盟
@@ -61,60 +65,54 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 公式サイト上で特定銘柄リストは非公表（custody 専業のため取引所のような銘柄一覧は存在しない）。
 
-- **BTC を主軸**とした主要暗号資産の custody に対応
-- 2021 年にスイス証券取引所の Bitcoin ETP（ETF 類似商品）の custody を担当したことが確認されている
-- custodial staking 対応：ETH をはじめとするプルーフ・オブ・ステーク系資産に対応（2021 年~）
+- 公式サイトは機関向けのマルチアセット custody と staking を案内するが、対応銘柄の固定一覧は掲載していない
+- custodial staking 対応：資産を custody に保ったままオンチェーン報酬を得るサービスを提供
 - Komainu Connect（2023 年~）では取引・担保利用・貸借をカバー
-- 2026 年 4 月時点で Komainu CORE（collateral-as-a-service）を展開
+- 2026 年 7 月確認時点で Komainu CORE（collateral-as-a-service）を現行サービスとして掲載。公式ページは提供開始月を明示していない
 
 ## 4. 業務範囲
 
 同社の提供サービスは custody-first（保管を軸）の 4 本柱：
 
 1. **Custody（保管）**: MPC（Multi-Party Computation）+ HSM（Hardware Security Module）ウォレット技術を活用した cold custody。独立検証可能なオンチェーン分別管理。
-2. **Custodial Staking**: 資産を custody に保ったままオンチェーン報酬（ステーキング）を獲得する機関向けサービス。2021 年開始。
+2. **Custodial Staking**: 資産を custody に保ったままオンチェーン報酬（ステーキング）を獲得する機関向けサービス。
 3. **Komainu Connect（コラテラル管理）**: custody 内の資産を担保として取引・借入・貸出に活用できる接続基盤。2023 年開始。OKX 等の主要取引所と提携。
-4. **Komainu CORE**: デジタル資産を規制準拠の担保として機能させる Collateral-as-a-Service ソリューション。2026 年 4 月提供開始。
+4. **Komainu CORE**: デジタル資産を規制準拠の担保として機能させる Collateral-as-a-Service ソリューション。2026 年 7 月確認時点で公式サイトに掲載されているが、提供開始月は明示されていない。
 
 法定通貨入金チャネル等の retail 向けサービスは非提供（純粋な機関向け infrastructure）。
 
 ## 5. 市場ポジション・顧客層
 
 - **ターゲット**: 機関投資家・金融機関・主権国家 / 政府系ファンド
-- **公表顧客事例（一次情報確認済）**:
-  - **英国警察**: 2021 年 1 月、押収した暗号資産の保管に Komainu を採用（公表）
-  - **スイス証券取引所上場 Bitcoin ETP**: 2021 年 1 月、ETP の custody 担当として選定（公表）
-  - **UAE 政府 / VARA 管轄 case**: 2023 年、UAE での VARA ライセンス取得と同時期に政府系案件への関与が報道
-  - **OKX との提携（Komainu Connect）**: 2023 年 6 月、OKX と custody 接続の提携を公表
+- **公表サービス連携**:
+  - **Komainu Connect**: 公式沿革は 2023 年のサービス開始と取引所接続を掲載する。個別顧客名や契約規模は本項で推定しない
 - **競合比較**: Anchorage Digital、[[exchanges/jp-custody-fireblocks-japan|Fireblocks]]、BitGo 等の機関向け custody プロバイダーと競合（[[exchanges/global-institutional-custody-five-pillars|グローバル institutional custody 5 本柱]] 参照）。同社の差別化点は Jersey・UK FCA・[[exchanges/uae-vara-licensing-overview|VARA]] の多重規制準拠 + [[securities-firms/nomura-hd|Nomura]] グループとの親和性。
 - **口座数・預り AUM**: 非公表
 
 ## 6. 沿革・重大事件
 
+以下の沿革は、Komainu の公式 About と現行サービスページが明示する節目だけを収録する。報道のみで裏付けた案件、円換算額、提供開始月が公式資料で確認できない項目は除外した。^[Sources: https://komainu.com/about/; https://komainu.com/services/komainu-core/.]
+
 | 時期 | 出来事 |
 |------|--------|
 | 2018 年 | 野村 HD・CoinShares・Ledger の三者合弁として創業 |
 | 2019 年 | Jersey Financial Services Commission（JFSC）登録取得 |
-| 2021 年 1 月 | 英国警察の押収暗号資産保管案件を受託 |
-| 2021 年 1 月 | スイス証券取引所 Bitcoin ETP の custody に選定 |
 | 2021 年 3 月 | Series A 資金調達（$2,500 万ドル）完了 |
 | 2021 年 | MPC 技術をテックスタックに統合、custodial staking 開始 |
 | 2023 年 | VARA（Dubai）VASP ライセンス取得 |
 | 2023 年 | Komainu Connect 開始、OKX と提携 |
-| 2024 年 10 月 | シンガポールの custody 企業 **Propine** を買収、アジア市場拡大を加速 |
-| 2025 年 1 月 | **Series B $7,500 万ドル** 完了（Blockstream が戦略的投資家としてリード）。ビットコイン建てで調達（BTC 約 116 億円相当、2025-01 時点） |
+| 2025 年 | **Series B $7,500 万ドル** 完了（Blockstream が戦略的投資家として参加） |
 | 2025 年 | UK FCA crypto 登録取得、イタリア OAM 登録取得 |
-| 2026 年 4 月 | **Komainu CORE**（Collateral-as-a-Service）発表・提供開始 |
+| 2026 年 7 月確認 | **Komainu CORE** を現行サービスとして掲載。公式ページは開始月を明示していない |
 
-- 行政処分・ハック・大規模障害の公表情報なし（2026-05 時点）
+- 2026-07-29 に本輪で指定した Komainu 公式サイトおよび規制当局資料の範囲では、行政処分・ハック・大規模障害の記録を識別していない。これは不存在を断定するものではない
 
 ## 7. 戦略動向（直近 12 ヶ月）
 
-- **Propine 買収（2024-10）**: シンガポール拠点の機関向け custody 企業 Propine を買収。アジア太平洋市場へのフットプリント拡大が明示的な戦略目的。
-- **Blockstream Series B（2025-01）**: $75M 調達。Bitcoin 中心の institutional custody + Bitcoin-native asset の取扱強化を示唆。同時に Adam Back（Blockstream CEO）・PeterPaul Pardi・Nicolas Brand（Blockstream Capital Partners）が Board に参画。
-- **FCA 登録（2025）**: UK でのサービス提供の正式化。ロンドン拠点を持つ機関投資家への訴求強化。
-- **Komainu CORE（2026-04）**: 規制準拠の担保管理 SaaS 化。digital collateral 市場（DeFi との接続、repo 取引等）への参入を示唆。
-- **日本展開**: 2026-05 時点で日本向けの公式アナウンスなし。ただし Nomura 系 Laser Digital Japan が BTCファンドを 2026-01 に設定しており、グループ内での間接的な日本向けサービスの布石という見方もある（公式情報なし）。
+- **Blockstream Series B（2025）**: 公式沿革は $75M の Series B と Blockstream の戦略的参加を掲載する。本項は用途や個別資産への配分を推定しない。
+- **規制対象地域の拡張（2025）**: 公式沿革は UK FCA 登録と Italy OAM 登録を掲載する。実際に利用できるサービスは契約法人と適用法域ごとに確認が必要。
+- **Komainu CORE**: 2026 年 7 月確認時点で規制準拠の collateral-as-a-service として公式サイトに掲載。開始時期や将来の商品範囲は公表資料の範囲を超えて推定しない。
+- **日本展開**: 2026-07-29 に本輪で列明した Komainu 公式法人・規制資料の範囲では、日本法人、日本 FSA 登録、日本向けサービス開始の開示を識別していない。これは不存在を断定するものではなく、野村グループとの関係だけを根拠に日本展開を推定しない。
 
 ## 8. 経営陣
 
@@ -150,6 +148,8 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - [Komainu About Us](https://komainu.com/about/)（取得 2026-05-19）
 - [Komainu Services](https://komainu.com/services/)（取得 2026-05-19）
 - [Komainu 公式サイト TOP](https://komainu.com/)（取得 2026-05-19）
+- [Komainu Entities](https://komainu.com/entities/)（取得 2026-07-29）
+- [Komainu CORE](https://komainu.com/services/komainu-core/)（取得 2026-07-29）
 - [CoinPost 「Komainu」検索結果](https://coinpost.jp/?s=Komainu)（取得 2026-05-19）— 野村 HD ら設立のカストディアン Komainu シリーズ記事（2020-2026 年）
 - [CoinPost — Komainu $75M Series B Blockstream 報道](https://coinpost.jp/p/596xxx)（取得 2026-05-19、記事タイトル「野村 HD ら設立の Komainu、ビットコインで約 116 億円を調達」2025-01-17）
 - [CoinPost — Propine 買収報道](https://coinpost.jp/?s=Komainu)（取得 2026-05-19、記事タイトル「野村出資の Komainu、シンガポールのカストディ企業 Propine を買収」2024-10-23）

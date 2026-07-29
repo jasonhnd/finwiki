@@ -1,40 +1,38 @@
 ---
-title: LINE Xenesis株式会社 — 日本暗号資産交換業者
+title: LINE Xenesis株式会社 — 日本暗号資産交換業者（サービス終了）
 aliases:
   - LINE Xenesis
   - ライン・ジェネシス
   - LINE BITMAX
 domain: exchanges
 created: 2026-05-18
-last_updated: 2026-05-25
-last_tended: 2026-06-24
-review_by: 2026-08-08
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
 confidence: likely
 tags:
   - fintech
   - jp-crypto-exchange
   - vasp
   - service-termination
-  - imminent-closure-2026-06
-status: active
+  - closed-2026-06
+status: deprecated
 sources:
   - https://www.linexenesiscorp.com/
   - https://www.bitmax.me/
   - https://jvcea.or.jp/member/
   - https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx
-  - https://www.bitmax.me/notice/100024017
+  - https://www.bitmax.me/endofservice_info
 ---
 
-# LINE Xenesis株式会社 — 日本暗号資産交換業者 overview
+# LINE Xenesis株式会社 — 日本暗号資産交換業者（サービス終了）overview
 
 
 ## Wiki route
 
 This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for adjacent context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system boundary.
 
-> FSA 登録番号 関東財務局 第00017号 · JVCEA 会員 #1020 · 登録日 2019-09-06
->
-> **⚠ 2026-06-01 正午 サービス全面終了予定（暗号資産交換業廃止）** — 本ページは 2026-05-25 時点では `status: candidate` のまま記録。終了確定後（2026-06-01 以降）に `status: deprecated` へ昇格し、FSA 登録抹消日 / JVCEA 会員除名日を追記の上で確定アーカイブ化する。
+> 旧 FSA 登録番号 関東財務局 第00017号 · 旧 JVCEA 会員 #1020 · LINE BITMAX は 2026-06-01 に終了し、暗号資産交換業を廃止
 
 ## 1. 法人・株主
 
@@ -49,13 +47,13 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 ## 2. 牌照・登録状況
 
-- **暗号資産交換業**：関東財務局長 第00017号（登録日 2019-09-06）
-- **JVCEA 第一種会員**：会員番号 1020（暗号資産交換業のみ。暗号資産デリバティブ取引業は取得していない）
+- **暗号資産交換業（歴史）**：関東財務局長 第00017号（登録日 2019-09-06）。2026-06-01 に事業を廃止し、2026-07-29 取得の FSA 現行登録一覧には掲載されていない。
+- **JVCEA 第一種会員（歴史）**：会員番号 1020。2026-07-29 に確認した現行会員一覧には掲載されていない。
 - 電子決済手段等取引業・資金移動業の登録なし
 
 ## 3. 取扱通貨
 
-2026年2月時点の取扱銘柄は**8銘柄**：
+サービス終了前の 2026年2月時点に公表されていた取扱対象は次の 8 銘柄であり、現在の取扱銘柄ではない：
 
 - ビットコイン（BTC）
 - イーサリアム（ETH）
@@ -68,30 +66,25 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 なお、2020年8月6日には LINE 独自トークン「LINK（旧 LN）」の国内上場を実施。LINK は 2018年から海外向け取引所「BITBOX」で取扱われていたが、国内上場は登録手続き完了後の2020年が初。その後 LINE Blockchain は Finschia チェーンへの統合、さらに Kaia（KAIA）へのリブランドを経て、LINE BITMAX の取扱銘柄も KAIA に移行した（公開情報に基づく）。
 
-取扱銘柄数は業界内では最少水準で、主要メジャーコイン＋独自トークン系に特化した構成だった。
+この固定リストは終了前の履歴スナップショットである。サービス終了後、LINE Xenesis による暗号資産取引は提供されていない。
 
 ## 4. 業務範囲
 
-- **販売所（スポット現物）**：2019年9月17日サービス開始。主要銘柄の購入・売却。2026年3月3日付で新規購入停止、売却のみ継続（サービス終了まで）
-- **取引所（板取引）**：2023年3月20日に LINK の取引所サービスとして開始。2026年停止済み
-- **暗号資産積立サービス**：定期買付。2026年停止済み
-- **暗号資産信用取引サービス**：2026年新規信用売り停止、返済買いのみ継続（サービス終了まで）
-- **暗号資産貸出サービス**：2026年停止済み
-- **PayPay連携サービス**：PayPayマネーでの購入停止、出金のみ継続（サービス終了まで）
-- **法定通貨入金チャネル**：銀行振込（PayPay銀行等）。コンビニ入金・クイック入金の詳細は公表なし
+- **販売所（現物）**：2019年9月17日開始。2026 年の終了工程で新規購入、売却、出庫を順次停止。
+- **取引所・積立・貸出・信用取引・PayPay 連携**：終了工程に沿って順次停止し、2026-06-01 以降は全機能を利用できない。
 
 LINE アプリのウォレットタブから直接アクセスできる UI が最大の特徴で、1円から取引可能な設計として初心者・少額投資層をターゲットとしていた。
 
-**2026年6月1日 正午にサービス全面終了・暗号資産交換業廃止予定**（2026年3月3日公告）。終了理由は「暗号資産市場の環境変化・競争激化のなか、グループ全体での経営資源の最適化」として成長領域への集中を理由に挙げている。
+LINE BITMAX は 2026-06-01 正午にサービスを終了し、暗号資産交換業を廃止した。終了時点の未返還暗号資産は合理的かつ公正な市場価格で日本円へ換価し、日本円残高と合わせて登録済み口座等へ返金、振込不能時は法務局へ供託する工程が公式特設ページで案内された。
 
 ## 5. 市占・取引高
 
-- 月間取引高・口座数ともに公表なし
-- LINEアプリの月間アクティブユーザー（日本国内 9,500万人超 / LINEヤフー IR 参照）を集客基盤とする構造上、口座数は相応の規模があったとみられるが、具体的な数字の開示は確認されていない
-- 銘柄数・機能の限定性から、業界内でのポジションはリテール・初心者向けのニッチプレイヤーと位置付けられる。[[exchanges/jp-exchange-bitflyer|bitFlyer]]・[[exchanges/jp-exchange-coincheck|Coincheck]]・[[exchanges/jp-exchange-gmo-coin|GMOコイン]]ら大手との差別化軸は「LINE エコシステム内での手軽さ」であった（[[megabanks/paypay-fg|PayPay 経済圏]] の楽天・LINE 統合系列の動きと一体）
-- サービス終了発表後、競合他社（[[exchanges/jp-exchange-coincheck|Coincheck]] 等）がユーザー取り込みを目的とした移行キャンペーンを展開した
+- LINE BITMAX 単独の月間取引高・口座数は、本ページで確認した公式資料にない。LINE アプリ全体の利用者数から BITMAX 口座数を推定しない。
+- 公開資料で確認できる差別化は、LINE アプリからアクセスし、少額で利用できた導線である。比較可能な取引高・口座データがないため、国内順位や「ニッチ」等の評価は付さない。
 
 ## 6. 沿革・重大事件
+
+以下の表は LINE Xenesis、LINE BITMAX、LINEヤフー、FSA および JVCEA の公式ページで確認できる法人・登録・サービス節目に限定する。取扱銘柄・機能の記述は終了前の履歴である。^[Sources: https://www.linexenesiscorp.com/; https://www.bitmax.me/endofservice_info; https://www.lycorp.co.jp/news/release; https://jvcea.or.jp/member/; https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx.]
 
 | 年月 | 事項 |
 |------|------|
@@ -109,13 +102,13 @@ LINE アプリのウォレットタブから直接アクセスできる UI が�
 | 2026-03-03 | **LINE BITMAX サービス終了および暗号資産交換業廃止を発表**（終了日：2026年6月1日 正午） |
 | 2026-03-03 | 新規アカウント開設停止 |
 | 2026-04-06 以降 | 各機能を段階的に停止（販売所新規購入・積立・貸出・取引所・信用取引新規） |
-| 2026-06-01 | LINE BITMAX サービス全面終了予定（暗号資産交換業廃止） |
+| 2026-06-01 | LINE BITMAX サービス終了、暗号資産交換業を廃止。残存資産の日本円換価・返金または供託工程へ移行 |
 
 ## 7. 戦略動向
 
-- **サービス終了方針の確定**（2026年3月）：グループ経営資源の再配分を名目に、国内暗号資産事業から完全撤退。LINEヤフーグループとして注力する「成長領域」への経営資源集中という方針が公表されている
+- **サービス終了**：公式説明は、暗号資産市場の環境変化・競争激化の中でグループ全体の経営資源を最適化し、他の成長領域へ集中するための判断とする。
 - NFT 事業については 2024年に Finschia/Kaia エコシステムと連携したグローバルサービス（DOSI 等）へ一本化し、LINE Xenesis の直接運営は縮小していた
-- 2026年6月1日以降の同社の事業継続または清算については、2026年5月時点で公開情報なし
+- 本ページは LINE BITMAX と暗号資産交換業の終了を記録する。法人そのものの存続・清算は、公式法人情報と別に確認する。
 
 ## 8. 関連人物
 
@@ -133,11 +126,9 @@ LINE アプリのウォレットタブから直接アクセスできる UI が�
 
 ## Sources
 
-- [LINE Xenesis コーポレートサイト（日本語）](https://www.linexenesiscorp.com/)（取得 2026-05-18）
-- [LINE Xenesis コーポレートサイト（英語）](https://www.linexenesiscorp.com/en/)（取得 2026-05-18）
-- [LINE BITMAX 公式サービスサイト](https://www.bitmax.me/)（取得 2026-05-18）
-- [LINE BITMAX サービス終了告知（2026-03-03）](https://www.bitmax.me/notice/100024017)（取得 2026-05-18）
-- [JVCEA 会員一覧](https://jvcea.or.jp/member/)（取得 2026-05-18）
-- [FSA 暗号資産交換業者登録一覧 Excel](https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx)（snapshot 2026-04-01）
+- [LINE Xenesis コーポレートサイト（日本語）](https://www.linexenesiscorp.com/)（取得 2026-07-29）
+- [LINE Xenesis コーポレートサイト（英語）](https://www.linexenesiscorp.com/en/)（取得 2026-07-29）
+- [LINE BITMAX サービス終了特設ページ](https://www.bitmax.me/endofservice_info)（取得 2026-07-29）
+- [JVCEA 会員一覧](https://jvcea.or.jp/member/)（取得 2026-07-29）
+- [FSA 暗号資産交換業者登録一覧 Excel](https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx)（取得 2026-07-29。LINE Xenesis の掲載なし）
 - [LINEヤフー株式会社 発足プレスリリース](https://www.lycorp.co.jp/news/release)（2023-10-01）
-- [CoinPost: LINE BITMAX 取扱通貨・サービス概要](https://coinpost.jp/)（2025-05-14 記事参照）

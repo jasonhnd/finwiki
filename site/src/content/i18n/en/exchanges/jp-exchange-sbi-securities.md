@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-exchange-sbi-securities
-source_hash: 42316da1e0bd2783
+source_hash: fe2b45146cf4b13c
 lang: en
 status: machine
 fidelity: ok
 title: "SBI SECURITIES Co., Ltd. (株式会社SBI証券) — Japanese crypto-asset-derivatives transaction operator overview"
-translated_at: 2026-06-18T23:33:48.326Z
+translated_at: 2026-07-29T11:50:43.000Z
 ---
 
 # SBI SECURITIES Co., Ltd. (株式会社SBI証券) — Japanese crypto-asset-derivatives transaction operator overview
@@ -29,6 +29,8 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 **Division of business among the crypto-asset-related 3 corporations within the SBI Group** (see §4 ):
 
+The comparison below uses each company's official profile, the JVCEA member list, and the official SBI CFD announcement. It describes business boundaries and does not imply joint sales or customer integration among the entities. ^[Sources: https://www.sbigroup.co.jp/company/group/sbivc.html; https://www.sbigroup.co.jp/company/group/sbifxt.html; https://www.sbigroup.co.jp/company/group/sbisec/; https://jvcea.or.jp/member/; https://www.sbigroup.co.jp/news/pr/2025/0818_15663.html.]
+
 | Corporation | JVCEA # | Main business | Crypto-asset service |
 |------|---------|------|--------------|
 | SBI VC Trade Co., Ltd. | 1011 | Crypto-asset specialist | spot + derivatives + electronic payment instruments (USDC) |
@@ -39,10 +41,11 @@ SBI Securities centers on securities, FX, and commodity futures, and does not ha
 
 ## 2. License / registration status
 
+The registration number and JVCEA business category are based on SBI Securities' official company information and the JVCEA member list. ^[Sources: https://www.sbigroup.co.jp/company/group/sbisec/; https://jvcea.or.jp/member/.]
+
 | Business type | Registration number | Remarks |
 |------|---------|------|
 | Type I Financial Instruments Business | Director-General of the Kanto Local Finance Bureau (Kinsho) 第44号 | Stocks, FX, derivatives, etc. |
-| Commodity Futures Business | — | Conducted in a form included in 第44号 |
 | Crypto-asset-derivatives transaction business | Same as Kinsho 第44号 (additional-authorization form) | JVCEA Type I #1041 |
 
 - **JVCEA member type**: Type I (member number 1041)
@@ -53,21 +56,22 @@ SBI Securities centers on securities, FX, and commodity futures, and does not ha
 
 It **does not offer spot transactions** in crypto assets. It offers crypto-asset CFDs as OTC CFDs (SBI CFD):
 
-- **Number of handled tokens** (as of 2026年5月): 20 tokens across the entire OTC CFD account (the total combining stock-index CFDs, commodity CFDs, and crypto-asset CFDs). For crypto-assets alone, the major tokens confirmed from the official site are **Bitcoin (BTC), Ethereum (ETH), and Solana (SOL)**. The exact number of crypto-asset-only tokens should be confirmed on the company's service page
-- **Features**: the "one-stop CFD" configuration, in which stock-index, commodity, and crypto-asset CFDs can be traded together in 1  account, is a first among major net securities firms (per the 2025年8月 press release)
+- The official service announcement dated 2025-08-18 identifies **Bitcoin (BTC), Ethereum (ETH), and Solana (SOL)** as crypto-asset CFD examples. Availability changes, so the total CFD product count and peer-first claims are not used as fixed assessments.
 
 ## 4. Scope of business
 
 The company's main business is securities, FX, and commodity futures. Crypto assets are an ancillary service added in 2025年8月.
 
+The service categories below are based on SBI Securities' official site and the SBI CFD announcement. Volatile product counts and market rankings have been removed from the table. ^[Sources: https://www.sbisec.co.jp/; https://www.sbigroup.co.jp/news/pr/2025/0818_15663.html.]
+
 | Main service | Overview |
 |-----------|------|
-| Stock trading (domestic / foreign) | Domestic No. 1  net securities firm (on an account-count basis) |
-| Investment trusts | Handles over 2,700 funds |
+| Stock trading (domestic / foreign) | Trading in domestic and foreign equities |
+| Investment trusts | Investment-trust sales and accumulation |
 | FX (foreign-exchange margin) | 24-hour trading |
 | Exchange CFD (Click Kabu 365) | Nikkei 225, etc. |
-| OTC CFD "SBI CFD" | Offers stock-index, commodity, and **crypto-asset CFDs** in 1口座. Service started **2025年8月22日** |
-| NISA account | Reached 500万 accounts in 2024年6月 |
+| OTC CFD "SBI CFD" | Offers stock-index, commodity, and **crypto-asset CFDs** in one account. Service started **August 25, 2025** |
+| NISA account | NISA support |
 | iDeCo | Individual-type defined-contribution pension |
 
 **Institutional positioning of the crypto-asset CFD (SBI CFD)**:
@@ -79,38 +83,24 @@ The company's main business is securities, FX, and commodity futures. Crypto ass
 
 ## 5. Market share / trading volume
 
-**Scale in the securities business** (as of 2025年11月):
-- **Over 1,500万 comprehensive securities accounts** (achieved 2025年11月) — a domestic first and the most domestically. It greatly surpasses Nomura Securities (approx. 539万 accounts) and Rakuten Securities, ranking industry No. 1
-
-- The account-count share of the exchange CFD "Click Kabu 365" is **87.6%** and the trading-volume share is **51.0%** (the company's 2025年7月 press release, market share No. 1)
-- **500万 NISA accounts** (achieved 2024年6月)
-
-**Trading volume / account count for crypto-asset CFDs alone**: not disclosed (a service immediately after the 2025年8月 start, with no periodic disclosure)
-
-**Customer base**: centered on individual retail. A structure in which cross-selling from securities accounts to crypto-asset CFDs is anticipated, leveraging the securities company's customer base. Corporate services are also offered.
-
-**Position within the competition**: from the perspective of a crypto-asset-derivatives specialist, it is one of the Type I members 13 社 alongside [[exchanges/jp-exchange-monex|マネックス証券]] (JVCEA #1024), [[exchanges/jp-exchange-bi-fxtrade|SBI FXトレード]] (JVCEA #1026), [[exchanges/jp-exchange-gmo-coin|GMO コイン]] (JVCEA #1006), etc. (for the background, see [[exchanges/jp-vasp-derivative-license-system|JP VASP デリバティブライセンス制度]]). However, SBI Securities' main business is securities, and crypto-asset derivatives are positioned as a niche ancillary business.
+SBI Securities' securities-account, NISA, and exchange-CFD metrics are not standalone crypto-asset CFD metrics. The SBI CFD materials reviewed on 2026-07-29 contain no company-level crypto-asset CFD figures comparable across firms, so this entry does not infer a market rank or scale. For the regulatory comparison, see [[exchanges/jp-vasp-derivative-license-system|Japan VASP derivatives licensing system]].
 
 ## 6. History / major incidents
 
+The table below is limited to milestones confirmed in SBI Group company information and the official SBI CFD announcement. The announcement distinguishes the August 22, 2025 account-application opening from the August 25 service launch. ^[Sources: https://www.sbigroup.co.jp/company/group/sbisec/; https://www.sbigroup.co.jp/news/pr/2025/0818_15663.html.]
+
 | Period | Event |
 |------|------|
-| Predecessor (year unknown) | Osawa Securities (the origin of the corporate entity) |
-| 1999年4月 | Trade name changed to E*TRADE Securities Co., Ltd. Started services as an internet securities firm |
-| 1999年10月 | Started internet-trading service |
-| 2005年12月 | Trade name changed to SBI E*TRADE Securities Co., Ltd. |
-| 2007年 | Trade name changed to 株式会社SBI証券 |
-| End of 2014年12月 | 315万 accounts (net-securities-industry No. 1) |
-| 2024年2月 | Achieved 1,200万 accounts |
-| 2024年6月 | Achieved 500万 NISA accounts |
-| 2025年8月22日 | Launched the OTC CFD "SBI CFD" service — a first among major net securities firms to offer crypto-asset CFD trading on a one-stop basis in the same account as stock-index and commodity CFDs |
-| 2025年11月 | Achieved 1,500万 comprehensive securities accounts (a domestic first and the most in the industry) |
+| April 26, 1999 | SBI Securities' corporate entity established |
+| August 18, 2025 | Planned launch of OTC "SBI CFD," including crypto-asset underlyings, announced |
+| August 22, 2025 | SBI CFD account applications opened |
+| August 25, 2025 | SBI CFD service launched |
 
-System failures / administrative dispositions / major incidents: no major matters published during the research period could be confirmed (not disclosed).
+Within the company information and service announcement reviewed above, this review did not identify a statement showing an administrative action or major incident involving SBI CFD. This is not an assertion that no such event exists.
 
 ## 7. Strategic developments
 
-- **Crypto-asset CFD entry (2025年8月)**: positions crypto assets as a "one-stop CFD in 1 口座" integrated with stock indices and commodities. Cross-selling to the securities company's 1,500万 customer accounts is a structural advantage. By avoiding spot handling, it avoids crypto-asset-exchange-business registration (separate FSA registration, AML/KYC costs, etc.) and entered within the scope of the existing 第44号 license
+- **Crypto-asset CFD entry (2025-08)**: began offering crypto-asset CFDs in the same SBI CFD account as stock-index and commodity CFDs. These are OTC derivatives under the Financial Instruments and Exchange Act, not spot crypto-asset exchange services.
 - **SBI HD's crypto-asset strategy (general information)**: SBI Holdings approaches the crypto-asset market with a multi-layered structure of spot (SBI VC Trade), FX/CFD (SBI FX Trade, SBI Securities), stablecoins (SBI VC Trade's electronic-payment-instruments transaction business), and XRP-related investment (investment in Ripple Labs). SBI HD absorbed BITPoint Japan into SBI VC Trade (2026年4月), consolidating the group's spot services into SBI VC Trade, while maintaining a structure in which derivatives are dispersed across multiple securities / FX subsidiaries
 - **Interest in promoting crypto-asset ETFs**: the SBI HD group has been actively stepping up industry proposals anticipating the lifting of the ETF ban after the transition of crypto-asset regulation under the Financial Instruments and Exchange Act, such as publishing the "Proposal toward the Formation, etc. of Crypto-Asset ETFs, etc. in Japan" (2024年10月) (the SBI VC Trade-name press release notes SBI Securities' registration number in a footnote)
 

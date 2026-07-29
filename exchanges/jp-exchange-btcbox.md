@@ -6,9 +6,9 @@ aliases:
   - BTCボックス
 domain: exchanges
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-06-24
-review_by: 2026-08-08
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
 confidence: likely
 tags:
   - fintech
@@ -61,21 +61,22 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - **Spot 現物取引所**: 取引所形式（板取引）
 - **販売所（かんたん売買）**: 2020年10月開始
 - **デリバティブ / 信用取引**: なし（JVCEA 第一種・暗号資産交換業のみ）
-- **暗号資産融資（貸付）**: 2016年2月開始。総資産最大3倍のBTCを借りられるサービス
+- **暗号資産融資（貸付）**: 2016年2月開始。借入上限・適用条件は変更され得るため、現行の商品説明・契約条件を確認する
 - **あんしん定期購入**: 2021年9月開始（積立サービス）
-- **法定通貨入金**: 銀行振込（住信SBIネット銀行からは手数料無料）、即時入金（2020年2月開始）
+- **法定通貨入金**: 銀行振込と即時入金（2020年2月開始）。対応金融機関と手数料は現行入金案内を確認する
 - **eKYC**: スピーディー本人確認 2020年4月開始
 - **サポート言語**: 日本語・英語・中国語（3カ国語）
 
 ## 5. 市占・取引高
 
-- **口座数・月間取引高**: 公表なし（2026-05-18 時点）
-- **過去の市場地位**: 2014年4月サービス開始後、国内BTC/JPY取引量をほぼ独占し、2015年11月まで国内1位を継続（Wikipedia 記述、出典はbitcoin日本語情報サイト）
-- **2019年4月時点**: CoinMarketCap「調整取引量・仮想通貨取引所 Top100」において日本の取引所の中で1位を記録（Wikipedia 記述、出典はCoinMarketCap）
-- **現在のポジション**: 取引高・口座数の最新公表データなし。[[exchanges/jp-exchange-bitflyer|bitFlyer]]・[[exchanges/jp-exchange-gmo-coin|GMOコイン]]・[[exchanges/jp-exchange-coincheck|Coincheck]] 等の大手と比較すると niche / mid に位置する独立系老舗として業界内で認知されている（[[exchanges/jvcea-spot-volume-statistics-analysis|JVCEA スポット取引量統計分析]] 参照）。
+- **口座数・月間取引高**: 2026-07-29 に確認した同社公式資料では比較可能な現在値を識別していない。これは不存在を断定するものではない
+- 過去の取引量順位は二次資料の期間限定記述であり、現在の順位として転用しない。
+- **現在のポジション**: 取引高・口座数の最新公表データがないため、市場順位を断定しない（[[exchanges/jvcea-spot-volume-statistics-analysis|JVCEA スポット取引量統計分析]] 参照）。
 - **顧客層**: 国内個人（海外個人・法人口座も開設可）
 
 ## 6. 沿革・重大事件
+
+以下の表は BTCBOX 公式会社概要・沿革、JVCEA 会員表示、FSA 登録資料で確認できる節目に基づく。^[Sources: https://blog.btcbox.jp/company-profile; https://jvcea.or.jp/member/; https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx.]
 
 | 年月 | 事項 |
 |------|------|
@@ -87,6 +88,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 | 2017-09 | 暗号資産交換業者として FSA 登録完了（第00008号） |
 | 2017-11 | ETH の取扱開始 |
 | 2017-12 | 茅場町の新オフィスへ移転 |
+| 2018-06-22 | FSA より業務改善命令（経営管理、AML/CFT、利用者保護、システムリスク等） |
 | 2018-10 | 株式会社TTXHoldings 設立（代表取締役 David Zhang、資本金500万円） |
 | 2018-10 | Liquid Network（Blockstream のビットコインサイドチェーン）参加を表明 |
 | 2019-03 | David Zhang が全株式を TTXHoldings に譲渡 → TTXHoldings が完全親会社化 |
@@ -99,15 +101,15 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 | 2022-04 | DOGE 取扱開始 |
 | 2022-06 | DOT 取扱開始 |
 | 2022-07 | TRX 取扱開始 |
-| 2025-04 | サービス開始から10周年を迎える |
+| 2024-04 | サービス開始から10周年 |
 
-**重大事件**: 2014年4月サービス開始以来、ハッキング等のセキュリティ事件は公表されていない（公式ブログ・Wikipedia の記述、2019年時点）。FSA による行政処分は公表記録で確認されていない（2026-05-18 時点）。
+**重大事件**: 2026-07-29 に本輪で列明した BTCBOX 公式・FSA・JVCEA 資料の範囲では、2018年6月22日の FSA 業務改善命令以外の行政処分やハック記録を識別していない。これは不存在を断定するものではない。
 
 ## 7. 戦略動向
 
-- 直近の公開リリースは blog.btcbox.jp（情報コラム中心）に限定。新規銘柄追加・大型資本施策の公開発表は 2022年以降確認されていない（公表なし）。
+- 2026-07-29 に本輪で列明した公式資料の範囲では、2022年7月の TRX 追加後の新規銘柄追加や大型資本施策の開示を識別していない。これは不存在を断定するものではない。
 - spot 専業に特化した小規模独立系路線を維持。デリバティブや staking 等の機能拡張については公表計画なし。
-- サービス開始10年超（2025年4月時点）を強調したブランド訴求を継続。
+- 2014年4月のサービス開始から 10 年超の運営履歴を持つ。
 
 ## 8. 関連人物
 

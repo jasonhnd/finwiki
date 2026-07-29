@@ -6,9 +6,9 @@ aliases:
   - 株式会社DMM Bitcoin
 domain: exchanges
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-05-18
-review_by: 2027-05-18
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
 confidence: likely
 tags:
   - fintech
@@ -16,7 +16,7 @@ tags:
   - vasp
   - former-vasp
   - security-incident
-status: active
+status: deprecated
 sources:
   - https://bitcoin.dmm.com/
   - https://www.sbivc.co.jp/dmm_vct
@@ -25,6 +25,8 @@ sources:
   - https://ja.wikipedia.org/wiki/DMM_Bitcoin
   - https://coinpost.jp/?s=DMM+Bitcoin
   - https://www.fsa.go.jp/policy/virtual_currency02/
+  - https://www.npa.go.jp/bureau/cyber/koho/caution/caution20241224.html
+  - https://www.npa.go.jp/bureau/cyber/pdf/20241224_jp.pdf
 ---
 
 # 株式会社DMM Bitcoin — 日本暗号資産交換業者（former VASP）overview
@@ -77,9 +79,11 @@ BTC · ETH · XRP · LTC · BCH · XLM · MATIC · LINK · MKR · AVAX · CHZ ·
 - 口座数・月間取引高：公表なし（開示資料非公開）
 - **売上高**: 54億500万円（2024年3月期）
 - **純利益**: △481億3,100万円（2025年3月期 — 流出損失計上）
-- 競合内ポジション：中規模。GMOコイン・bitFlyer 等上位勢に対して niche 寄り。レバレッジ取引比率が高い顧客基盤とされていたが第三者公開データなし。
+- 売上・損益は各決算期の履歴値であり、市場順位や顧客構成を示さない。同一期間・同一定義の公式値なしに競合順位を断定しない。
 
 ## 6. 沿革・重大事件
+
+以下の表は DMM Bitcoin の終了告知、SBI VCトレードの移管資料、FSA/JVCEA 登録資料、および警察庁の 2024-12-24 共同注意喚起で確認できる節目に限定する。流出量・評価額・攻撃主体の帰属は警察庁資料の表現に従う。^[Sources: https://bitcoin.dmm.com/; https://www.sbivc.co.jp/dmm_vct; https://www.npa.go.jp/bureau/cyber/koho/caution/caution20241224.html; https://www.npa.go.jp/bureau/cyber/pdf/20241224_jp.pdf.]
 
 | 年月 | 事項 |
 |------|------|
@@ -89,15 +93,15 @@ BTC · ETH · XRP · LTC · BCH · XLM · MATIC · LINK · MKR · AVAX · CHZ ·
 | 2017-12 | 株式会社DMM FX ホールディングスへ譲渡、商号を「株式会社DMM Bitcoin」に変更 |
 | 2018-01 | ブランド「DMM Bitcoin」として口座開設受付開始 |
 | 2020-05 | 第1種金融商品取引業者（関東財務局長 第3189号）として登録 |
-| **2024-05-31** | **約482億円相当（流出当時相場）の暗号資産（BTC）不正流出発生。第一報公表** |
+| **2024-05-31** | **4,502.9 BTC（約482億円相当）の不正流出が発生し、第一報を公表** |
 | 2024-06 | 550億円規模の資金調達計画を発表し、流出 BTC 相当の買い戻しを表明 |
-| 2024-07 | 警察庁・金融庁が北朝鮮を背景とするサイバー攻撃グループ「Trader Traitor（別名：Lazarus Group）」の関与を示唆する注意喚起を公表 |
+| 2024-12-24 | 警察庁・FBI 等が北朝鮮を背景とする TraderTraitor による窃取と特定し、共同注意喚起を公表 |
 | **2024-12-02** | **全面廃業発表。SBI VCトレード株式会社との間で顧客口座・預かり資産移管に向けた基本合意書締結** |
 | 2025-03-08 | サービス全面終了。全顧客口座および預かり資産（日本円・暗号資産）をSBI VCトレードへ移管完了 |
 
 **不正流出事件（2024-05-31）詳細**：
 
-流出額は約 482 億円相当（流出発生当時のレート換算）。流出した BTC 数量は約 4,502.9 BTC（複数報道に基づく — 同社一次プレスリリースは現在アクセス不可）。同社は事態収拾のため 550 億円規模の資金調達を発表し BTC の市場買い戻しを実施したが、事業継続断念に至った（詳細は [[exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis|DMM Bitcoin Lazarus ハック詳細分析]] と [[exchanges/jp-vasp-incident-history|JP VASP インシデント史]] 参照、姉妹案件として [[exchanges/bybit-lazarus-hack-detailed-analysis|Bybit Lazarus ハック]] と [[exchanges/coincheck-nem-hack-detailed-analysis|Coincheck NEM 流出]] が比較可能）。
+警察庁資料は流出量を 4,502.9 BTC、当時の評価額を約 482 億円と記載する。同社は 550 億円規模の資金調達計画と BTC の買い戻し方針を公表し、その後サービス終了・SBI VCトレードへの移管に至った（詳細は [[exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis|DMM Bitcoin Lazarus ハック詳細分析]] と [[exchanges/jp-vasp-incident-history|JP VASP インシデント史]] 参照）。
 
 日本警察庁・金融庁・米国 FBI は 2024-12-24 付で「Trader Traitor（北朝鮮 Lazarus Group）」による攻撃と特定・注意喚起を公表した（FSA ページ上の「令和6年12月24日『北朝鮮を背景とするサイバー攻撃グループTrader Traitorによるサイバー攻撃について（注意喚起）』の公表について」に記録）。
 
@@ -105,7 +109,7 @@ BTC · ETH · XRP · LTC · BCH · XLM · MATIC · LINK · MKR · AVAX · CHZ ·
 
 ## 7. 戦略動向
 
-廃業確定後の戦略動向は存在しない。
+廃業決定後は成長戦略ではなく、顧客口座・預かり資産の移管とサービス終了が主要な公表事項となった。
 
 - 2024-12-02 基本合意：SBI VCトレードへの移管の枠組みを策定
 - 2024-12-25：SBI VCトレード・DMM Bitcoin 双方から移管に関するお知らせを公表
@@ -136,3 +140,5 @@ BTC · ETH · XRP · LTC · BCH · XLM · MATIC · LINK · MKR · AVAX · CHZ ·
 - [FSA 暗号資産交換業者登録一覧 Excel](https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx)（snapshot 令和8年4月1日 = 2026-04-01）
 - [Wikipedia「DMM Bitcoin」](https://ja.wikipedia.org/wiki/DMM_Bitcoin)（取得 2026-05-18 · 法人情報・財務・沿革の cross-check に使用）
 - [CoinPost「DMMビットコインの不正流出、北朝鮮ハッカー集団『ラザルス』が関与か」](https://coinpost.jp/?s=DMM+Bitcoin+%E3%83%A9%E3%82%B6%E3%83%AB%E3%82%B9)（2024-07-17 記事タイトル確認 · 取得 2026-05-18）
+- [警察庁 — TraderTraitor による DMM Bitcoin 窃取の注意喚起](https://www.npa.go.jp/bureau/cyber/koho/caution/caution20241224.html)（2024-12-24）
+- [警察庁 — 共同注意喚起 PDF](https://www.npa.go.jp/bureau/cyber/pdf/20241224_jp.pdf)（2024-12-24）

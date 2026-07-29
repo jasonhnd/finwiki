@@ -11,10 +11,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-exchange-line-xenesis.md",
   "raw_markdown_url": "https://finwiki.zksc.io/exchanges/jp-exchange-line-xenesis.md",
   "domain": "exchanges",
-  "title": "LINE Xenesis株式会社 — 日本暗号資産交換業者 overview",
+  "title": "LINE Xenesis株式会社 — 日本暗号資産交換業者（サービス終了）overview",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "LINE Xenesis株式会社 — 日本暗号資産交換業者",
+    "title": "LINE Xenesis株式会社 — 日本暗号資産交換業者（サービス終了）",
     "aliases": [
       "LINE Xenesis",
       "ライン・ジェネシス",
@@ -23,18 +23,18 @@
     "domain": "exchanges",
     "type": null,
     "created": "2026-05-18",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-06-24",
-    "review_by": "2026-08-08",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "fintech",
       "jp-crypto-exchange",
       "vasp",
       "service-termination",
-      "imminent-closure-2026-06"
+      "closed-2026-06"
     ],
-    "status": "active",
+    "status": "deprecated",
     "canonical_anchor": null,
     "related": [],
     "note": null,
@@ -43,12 +43,12 @@
       "https://www.bitmax.me/",
       "https://jvcea.or.jp/member/",
       "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
-      "https://www.bitmax.me/notice/100024017"
+      "https://www.bitmax.me/endofservice_info"
     ]
   },
   "summary": "This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.",
   "headings": [
-    "LINE Xenesis株式会社 — 日本暗号資産交換業者 overview",
+    "LINE Xenesis株式会社 — 日本暗号資産交換業者（サービス終了）overview",
     "Wiki route",
     "1. 法人・株主",
     "2. 牌照・登録状況",
@@ -60,41 +60,31 @@
     "8. 関連人物"
   ],
   "body_links": {
-    "wikilinks_count": 12,
+    "wikilinks_count": 8,
     "wikilinks": [
       "exchanges/INDEX",
       "exchanges/fsa-vasp-registration-system",
       "exchanges/jp-cex-nft-marketplace-integration",
-      "exchanges/jp-exchange-bitflyer",
-      "exchanges/jp-exchange-coincheck",
-      "exchanges/jp-exchange-gmo-coin",
       "exchanges/jp-vasp-ma-consolidation-history",
       "exchanges/jp-vasp-parent-company-map",
       "fintech/japan-bittrade-listing-process",
       "fintech/japan-financial-regulation",
-      "fintech/japan-stablecoin-regulatory-landscape",
-      "megabanks/paypay-fg"
+      "fintech/japan-stablecoin-regulatory-landscape"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/ja/domains/exchanges/",
       "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
       "https://finwiki.zksc.io/ja/exchanges/jp-cex-nft-marketplace-integration/",
-      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/",
-      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/",
-      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-gmo-coin/",
       "https://finwiki.zksc.io/ja/exchanges/jp-vasp-ma-consolidation-history/",
       "https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/",
       "https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/",
       "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
-      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
-      "https://finwiki.zksc.io/ja/megabanks/paypay-fg/"
+      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/"
     ],
-    "external_links_count": 8,
+    "external_links_count": 6,
     "external_links": [
-      "https://coinpost.jp/",
       "https://jvcea.or.jp/member/",
-      "https://www.bitmax.me/",
-      "https://www.bitmax.me/notice/100024017",
+      "https://www.bitmax.me/endofservice_info",
       "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
       "https://www.linexenesiscorp.com/",
       "https://www.linexenesiscorp.com/en/",
@@ -102,9 +92,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 5044,
-    "word_like_tokens": 876,
-    "inbound_wikilinks_count": 9,
-    "last_modified": "2026-06-24"
+    "nonspace_chars": 4685,
+    "word_like_tokens": 792,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-07-29"
   }
 }

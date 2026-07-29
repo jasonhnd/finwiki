@@ -1,20 +1,20 @@
 ---
 source: exchanges/cex-coinone-korea
-source_hash: dc768035d3a694b6
+source_hash: 183386be3c769b1c
 lang: ja
 status: machine
 fidelity: ok
-title: "Coinone（코인원）— 韓国 CEX 中堅 / NH農協銀行実名口座 / 独立系概要"
-translated_at: 2026-06-02T12:19:04.196Z
+title: "Coinone（코인원）— 韓国 KRW spot CEX / NH農協銀行実名口座概要"
+translated_at: 2026-07-29T11:02:23.000Z
 ---
 ﻿
-# Coinone（코인원）— 韓国 CEX 中堅 / NH農協銀行実名口座 / 独立系概要
+# Coinone（코인원）— 韓国 KRW spot CEX / NH農協銀行実名口座概要
 
 ## ウィキ上の位置づけ
 
-この項目は [[exchanges/INDEX|exchanges index]] 配下に位置する。[[exchanges/korea-cex-five-pillars-comparison|韓国 5 大 CEX 制度比較]] とあわせて読むと韓国の同業・規制文脈が分かり、[[exchanges/cex-upbit-korea|Upbit]] / [[exchanges/cex-bithumb-korea|Bithumb]] は最も近いトップ層の比較対象、[[exchanges/global-cex-top10-comparison|global CEX top 10 comparison]] はより広い制度・市場境界を示す。
+この項目は [[exchanges/INDEX|exchanges index]] 配下に位置する。[[exchanges/korea-cex-five-pillars-comparison|韓国 5 大 CEX 制度比較]] とあわせて読むと韓国の同業・規制文脈が分かり、[[exchanges/cex-upbit-korea|Upbit]] / [[exchanges/cex-bithumb-korea|Bithumb]] は同業比較対象、[[exchanges/global-cex-top10-comparison|global CEX top 10 comparison]] はより広い制度・市場境界を示す。
 
-> 2014-08 設立 · 韓国 spot 市場 #3（推定 3% 前後）· **NH 농협은행 実名口座** · DAXA 共同設立 5 社の 1 つ · **2022 上場 청탁 검찰 기소事件**で経営陣が司法手続を経た歴史
+> 2014-08 設立 · 韓国 KRW spot CEX · **NH 농협은행 実名口座** · KoFIU 届出事業者
 
 ## 1. 法人・株主
 
@@ -28,21 +28,20 @@ translated_at: 2026-06-02T12:19:04.196Z
   - **이상준** 등 韓国系 IT / 金融投資家
   - **카카오뱅크系の出資検討報道**（2018–2019）など、複数の戦略的資本関係模索の歴史
   - 詳細株主構成は非上場のため部分開示
-- IPO 検討：直接的アナウンスはないが、Bithumb の KOSDAQ 上場推進が成功すれば追随可能性
 
 ## 2. 登録・牌照状況（韓国制度）
 
 - **가상자산사업자 (VASP)** 등록：FIU 登録済（2021-09 韓国第 1 期登録クラス）
 - **ISMS / ISMS-P 認証**：KISA ISMS-P 保有
 - **실명확인 입출금 계정**（実名口座）：**NH 농협은행（NH NongHyup Bank）** との契約
-  - NH 농협은행は韓国 5 大銀行の 1 つで、[[exchanges/cex-bithumb-korea|Bithumb]] も同 NH 농협은행と契約 → 韓国 5 大 CEX のうち **NH 농협은행は 2 社（Bithumb + Coinone）と契約** する唯一の銀行
+  - [[exchanges/cex-bithumb-korea|Bithumb]] も同銀行の実名口座を利用する。現行の契約状態は各社の公式案内で確認する
   - 詳細制度は [[exchanges/korea-cex-five-pillars-comparison|韓国 5 大 CEX 制度比較]] 参照
 
 ## 3. 取扱通貨
 
 - KRW spot 市場（韓国 5 大 CEX の 1 つとして合法）
-- 取扱銘柄数：200+（[[exchanges/cex-upbit-korea|Upbit]] / [[exchanges/cex-bithumb-korea|Bithumb]] と並ぶ中規模ライン）
-- BTC / ETH / 主要アルトコイン中心、Klaytn 系 / WEMIX / XPLA 等韓国系トークンも積極取扱
+- 取扱銘柄数と market 構成は変動するため、現行の公式 market 一覧で確認する
+- 個別 token の listing 状態は公式 notice で確認する
 - 上場審査：DAXA 共通基準 + Coinone 独自基準
 
 ## 4. 業務範囲
@@ -56,27 +55,18 @@ translated_at: 2026-06-02T12:19:04.196Z
 
 ## 5. 市占・取引高
 
-- **韓国 spot 市場シェア**：約 3%（[[exchanges/cex-upbit-korea|Upbit]] 70% / [[exchanges/cex-bithumb-korea|Bithumb]] 25% に次ぐ #3 ポジション、[[exchanges/cex-korbit-korea|Korbit]] / [[exchanges/cex-gopax-korea|GOPAX]] を上回る中堅 #3）
-- 24h volume：$20–200M（市場ボラティリティ連動）
-- 顧客層：韓国居住者中心（KYC 完全実施）
+市場シェア、24h volume、ランキングは時点と集計方法で変動するため、この静的項目では固定値を掲げない。比較時は同一 provider・同一計測時刻・同一 market 定義を使い、利用可能地域と KYC 条件は現行の公式 terms で確認する。
 
 ## 6. 沿革・重大事件
 
+出典: 表全体は [Coinone 公式沿革](https://www.coinonecorp.com/company/history) と [KoFIU の仮想資産事業者届出状況](https://www.kofiu.go.kr/kor/notification/notice.do)（2026-07-29 確認）に基づく。
+
 | 時期 | 事項 |
 |------|------|
-| 2014-08 | Coinone 設立（차명훈 / Daniel Lim 共同創業） |
-| 2015 | 韓国 BTC マージン取引で初期実績 |
-| 2016 | 韓国 ETH 取引で先行ポジション |
-| 2017 | 韓国仮想通貨ブーム期に top 3 ポジション確立 |
-| 2018 | 데일리금융그룹（Daily Financial Group）等の戦略出資 |
-| 2019 | 데일리금융 持株比率変動、独立系経営継続 |
-| 2021-03 | 韓国 특정금융정보법 施行、VASP 登録制度開始 |
-| 2021-09 | FIU に VASP 登録完了（韓国第 1 期登録クラス） |
-| **2022** | **Coinone 経営陣の上場 청탁（賄賂）疑惑事件**、韓国検察が **上場 청탁・특정경제범죄법 위반** で複数関係者を起訴。차명훈 創業者 / CEO も司法手続対象に。韓国 CEX 上場ガバナンス問題の象徴的事件 |
-| 2023 | DAXA 자율규제 협의체 共同設立 5 社の 1 つとして参画。**上場 청탁 事件を受けた DAXA 共通上場基準** の整備が業界全体の課題に |
-| 2023–2024 | 司法手続継続、経営体制再構築 |
-| 2024-07 | 가상자산이용자보호법 施行、利用者保護体制整備 |
-| 2024–2026 | 中堅 #3 ポジション維持、独立系経営継続 |
+| 2014-02 | Coinone 法人を設立 |
+| 2014-10 | Coinone 取引サービスを開始 |
+| 2021-11 | KoFIU への仮想資産事業者届出が受理 |
+| 2026-06-30 基準 | KoFIU の仮想資産事業者届出状況に Coinone が掲載 |
 
 ## 7. 戦略動向
 
@@ -84,21 +74,19 @@ translated_at: 2026-06-02T12:19:04.196Z
 - **NH 농협은행 関係**：[[exchanges/cex-bithumb-korea|Bithumb]] と同銀行を共有する状況で、NH 농협은행側の AML/CFT 責任分担協議が継続課題
 - **DAXA 参画**：[[exchanges/cex-upbit-korea|Upbit]] / [[exchanges/cex-bithumb-korea|Bithumb]] / [[exchanges/cex-korbit-korea|Korbit]] / [[exchanges/cex-gopax-korea|GOPAX]] と共に DAXA で上場基準を共通化。**2022 上장 청탁 事件後のガバナンス再構築** において主導的役割
 - **2024 利용자보호법 対応**：利용자보호기금 拠出、不공정거래 감시強化、内部統制再構築
-- **韓国系トークン主要上場場**：Klaytn / 후속 Kaia、WEMIX、XPLA 等の韓国系 L1 / L2 トークンの主要上場場所として継続
+- **取扱資産**：韓国系 token を含む現行の listing は公式 market と notice で確認する
 - **送金サービス Cross**：暗号通貨を媒介とした海外送금サービス、規制環境変化対応
 
 ## 8. 業界での位置付け
 
-Coinone は **韓国 spot 市場 #3 の中堅 CEX** として、トップ 2（[[exchanges/cex-upbit-korea|Upbit]] / [[exchanges/cex-bithumb-korea|Bithumb]]）と下位（[[exchanges/cex-korbit-korea|Korbit]] / [[exchanges/cex-gopax-korea|GOPAX]]）の **中間ポジション** を保持する。独立系経営という個性と、2022 上장 청탁 事件のガバナンス問題という重荷を同時に抱える。
-
-[[exchanges/korea-cex-five-pillars-comparison|韓国 5 大 CEX 制度比較]] の中で、**創業者主導の独立系** という独自ポジションは、韓国 CEX 業界の構造的多様性を維持する役割を果たす。2022 事件以降の DAXA 共通上場基準整備は、Coinone 主導の側面もあり、業界全体のガバナンス底上げへの貢献は無視できない。
+Coinone の業界上の位置は、KoFIU の届出状況、公式 market の提供範囲、同一時点で取得した取引高を組み合わせて評価する。過去のシェア値から恒久的な順位を推定せず、制度比較は [[exchanges/korea-cex-five-pillars-comparison]] を参照する。
 
 ## 関連項目
 
-- [[exchanges/cex-upbit-korea]] — 韓国 #1
-- [[exchanges/cex-bithumb-korea]] — 韓国 #2（最重要 cross-link、NH 농협은행同銀行）
-- [[exchanges/cex-korbit-korea]] — 韓国 #4（同業）
-- [[exchanges/cex-gopax-korea]] — 韓国 #5（同業）
+- [[exchanges/cex-upbit-korea]] — 韓国同業比較
+- [[exchanges/cex-bithumb-korea]] — 韓国同業比較（最重要 cross-link、NH 농협은행同銀行）
+- [[exchanges/cex-korbit-korea]] — 韓国同業比較
+- [[exchanges/cex-gopax-korea]] — 韓国同業比較
 - [[exchanges/korea-cex-five-pillars-comparison]] — 韓国 5 大 CEX 制度比較
 - [[exchanges/global-cex-top10-comparison]] — グローバル CEX top 10
 - [[exchanges/global-vasp-regulatory-comparison-matrix]] — グローバル VASP 規制比較

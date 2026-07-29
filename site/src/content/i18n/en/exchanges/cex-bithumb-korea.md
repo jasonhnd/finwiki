@@ -1,11 +1,11 @@
 ---
 source: exchanges/cex-bithumb-korea
-source_hash: 89098c19db1e6472
+source_hash: bea035ac5dd83c70
 lang: en
 status: machine
 fidelity: ok
 title: "Bithumb（빗썸）— Korea KRW spot CEX overview"
-translated_at: 2026-05-31T03:19:56.363Z
+translated_at: 2026-07-29T11:02:23.000Z
 ---
 
 # Bithumb（빗썸）— Korea KRW spot CEX overview
@@ -15,7 +15,7 @@ translated_at: 2026-05-31T03:19:56.363Z
 
 This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/korea-cex-five-pillars-comparison|韓国 5 大 CEX 制度比較]] for the Korea peer / regulatory context, [[exchanges/cex-upbit-korea|Upbit]] for the closest peer comparison, and [[exchanges/global-cex-top10-comparison|global CEX top 10 comparison]] for the broader system / market boundary.
 
-> Established 2014-01  · Korea spot market #2 (share approx. 25%) · NH 농협은행 real-name account · ISMS-P certified · KOSDAQ IPO plan in progress (2026)
+> Established 2014-01 · Korean KRW spot CEX · NH 농협은행 real-name account · ISMS-P certified
 
 ## 1. Entity and shareholders
 
@@ -26,7 +26,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 - Shareholder composition: indirectly held by multiple Korean financial / IT investors (a history of multiple changes of control in the past; see IR disclosure for details)
   - 2018–2019 年 period: control structure via BTC Korea Holdings
   - After 2020 年: reporting of involvement by the Vidente group (Vidente Co., Ltd.)
-  - 2024–2026 年 period: the controlling shareholder remains complex, with restructuring in progress for IPO preparation
+  - Verify current control in the latest corporate and shareholder disclosures; do not infer the purpose of a restructuring from reporting alone
 
 ## 2. Registration / license status (Korean regime)
 
@@ -39,8 +39,8 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 ## 3. Currencies handled
 
 - KRW spot market + USDT market (limited)
-- Number of listed tokens: approx. 200+ (in the 2024–2026  period; in addition to major tokens such as ETH / BTC / XRP / SOL / ADA, there are proprietary listings of Klaytn-family / Korean-IP project tokens)
-- The trading-volume share of BTC / ETH / XRP is overwhelming (the structure of the Korean market overall)
+- The number of listed assets and market composition change; verify them in the current official market list
+- Asset-level trading-volume composition is time-dependent and is not frozen in this static entry
 - Listing review: conforms to the common listing standards of DAXA (한국 가상자산 거래소 자율규제 협회, Digital Asset eXchange Alliance)
 
 ## 4. Scope of business
@@ -53,39 +53,27 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 
 ## 5. Market share / trading volume
 
-- **Korea spot market share**: approx. 25% (#2, behind [[exchanges/cex-upbit-korea|Upbit]]'s 70%)
-- 24h volume: $0.5–2B (linked to market volatility)
-- Customer base: centered on Korean residents (full KYC implemented)
-- Global CEX ranking: within the top 20  (on a CoinGecko / CoinMarketCap aggregation basis)
+Market share, 24-hour volume, and rankings vary by timestamp and methodology, so this static entry does not freeze them. Comparisons should use the same provider, measurement time, and market definition; verify geographic eligibility and KYC in the current official terms.
 
 ## 6. History / major events
 
+Source: The entire table is based on [Bithumb's official company profile](https://www.bithumbcorp.com/ko/company/aboutus.php) and [KoFIU's virtual-asset service provider filing status](https://www.kofiu.go.kr/kor/notification/notice.do), checked on 2026-07-29.
+
 | Period | Item |
 |------|------|
-| 2014-01 | Bithumb established; began operations as one of Korea's early full-scale CEXs |
-| 2017 | Grew as one of the largest players alongside Upbit during Korea's crypto boom |
-| 2017-12 | Privacy-breach incident; leak of more than 3 万 customer records |
-| 2018-06 | Outflow of crypto assets equivalent to approx. 350 億 won due to unauthorized access |
-| 2019-03 | Outflow incident on the scale of 200 億 won due to internal misconduct |
-| 2021-03 | Korea's 특정금융정보법 came into force; the VASP registration regime began |
-| 2021-09-24 | Completed VASP registration with the FIU (Korea's class-1  registration cohort) |
-| 2022–2023 | Management restructured after various lawsuits / ownership disputes |
-| 2023 | Joined DAXA (the self-regulatory consortium); listing review made common |
-| 2024–2025 | IPO preparation began in earnest; selected the KOSDAQ-listing lead underwriter |
-| 2025 | Renewed the enhanced ISMS-P certification; rebuilt the compliance framework |
-| 2026 | Continued to pursue the KOSDAQ listing (on an official-announcement basis) |
+| 2014 | Bithumb's trading service launched |
+| As of 2026-06-30 | Bithumb appears in KoFIU's virtual-asset service provider filing status |
 
 ## 7. Strategic trends
 
-- **IPO strategy**: mindful of the listing precedent of [[exchanges/cex-upbit-korea|Upbit]]'s parent Dunamu, aims for capital-market access via a KOSDAQ listing. If realized, it would become **the 2 社 (or first) listed company as a Korean VASP**
 - **DAXA participation**: makes listing standards common within DAXA together with Upbit / Coinone / Korbit / GOPAX, distributing the cost of regulatory compliance
-- **NH 농협은행 relationship**: continuation of the real-name account contract is the lifeline of business continuity. The AML/CFT responsibility-sharing negotiation on the NH bank side remains an ongoing issue
+- **NH 농협은행 relationship**: verify the current real-name-account contract and eligibility conditions in official notices from Bithumb and the bank
 - **2024-2026  regulatory environment**: building a framework for compliance with Korea's 가상자산이용자보호법 (in force 2024-07 ), contributing to the user-protection fund, and responding to enhanced monitoring of unfair trading
-- **DeFi linkage**: functions as a primary listing venue for Korean-family L1 / L2  tokens such as Klaytn (카카오 family), WEMIX, and XPLA
+- **Listed assets**: verify current listings, including Korean-project tokens, in the official market list and notices
 
 ## Related
 
-- [[exchanges/cex-upbit-korea]] — Korea spot market #1 (the most important cross-link)
+- [[exchanges/cex-upbit-korea]] — Korean peer comparison (the most important cross-link)
 - [[exchanges/korea-cex-five-pillars-comparison]] — comparison of Korea's 5  major CEX regimes
 - [[exchanges/global-cex-top10-comparison]] — global CEX top 10
 - [[exchanges/INDEX]] — exchanges domain index
@@ -99,6 +87,5 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 - Public-information compilation (FSC / FIU 가상자산사업자 등록 public list)
 - Public-information compilation (KISA ISMS-P 認證 발표)
 - Public-information compilation (NH 농협은행 실명확인 입출금 계정 보도)
-- Public-information compilation (Bithumb IPO 2025–2026 KOSDAQ 상장 추진 보도, Korea Herald / 코인데스크 코리아)
 - Public-information compilation (DAXA 자율규제 협의체 발표)
 - Public-information compilation (가상자산이용자보호법 2024-07 시행 관련 보도)

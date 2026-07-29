@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-exchange-dmm-bitcoin
-source_hash: a059c0f1d569ab74
+source_hash: c1715bad95243fad
 lang: en
 status: machine
 fidelity: ok
 title: "DMM Bitcoin Inc. — Japanese crypto-asset exchange operator (former VASP) overview"
-translated_at: 2026-05-31T03:19:56.449Z
+translated_at: 2026-07-29T11:07:27Z
 ---
 
 # DMM Bitcoin Inc. — Japanese crypto-asset exchange operator (former VASP) overview
@@ -58,9 +58,11 @@ It also supported leveraged trading (contracts for difference), offering major a
 - Account numbers / monthly trading volume: not disclosed (disclosure materials not made public)
 - **Revenue**: 54億500万円 (2024年3月 period)
 - **Net profit**: △481億3,100万円 (2025年3月 period — outflow loss recognized)
-- Positioning among competitors: mid-sized. More of a niche player relative to top-tier players such as GMO Coin and bitFlyer. Said to have a customer base with a high proportion of leveraged trading, but no third-party public data.
+- Revenue and profit/loss are historical values for the stated fiscal years; they do not establish market rank or customer composition. Do not assert a competitive rank without official values using the same period and definition.
 
 ## 6. History / major events
+
+The table below is limited to milestones confirmed through DMM Bitcoin's termination notices, SBI VC Trade's transfer materials, FSA/JVCEA registration materials, and the National Police Agency's joint advisory dated December 24, 2024. The outflow quantity, valuation, and attribution follow the wording of the National Police Agency materials.^[Sources: https://bitcoin.dmm.com/; https://www.sbivc.co.jp/dmm_vct; https://www.npa.go.jp/bureau/cyber/koho/caution/caution20241224.html; https://www.npa.go.jp/bureau/cyber/pdf/20241224_jp.pdf.]
 
 | Date | Item |
 |------|------|
@@ -70,15 +72,15 @@ It also supported leveraged trading (contracts for difference), offering major a
 | 2017-12 | Transferred to DMM FX Holdings Inc., name changed to "DMM Bitcoin Inc." |
 | 2018-01 | Began accepting account openings under the brand "DMM Bitcoin" |
 | 2020-05 | Registered as a Type 1 financial instruments operator (Director-General of the Kanto Local Finance Bureau 第3189号) |
-| **2024-05-31** | **An unauthorized outflow of crypto assets (BTC) equivalent to approximately 482億円 (at the rate at the time of the outflow) occurred. First report disclosed** |
+| **2024-05-31** | **An unauthorized outflow of 4,502.9 BTC (valued at approximately ¥48.2 billion) occurred, and the first notice was published** |
 | 2024-06 | Announced a fundraising plan on the scale of 550億円 and stated it would buy back the equivalent of the outflowed BTC |
-| 2024-07 | The National Police Agency / FSA published an advisory suggesting the involvement of the cyber-attack group "Trader Traitor (alias: Lazarus Group)" backed by North Korea |
+| 2024-12-24 | The National Police Agency, FBI, and other authorities identified the theft as conducted by North Korea-linked TraderTraitor and issued a joint advisory |
 | **2024-12-02** | **Announced full closure. Concluded a basic agreement with SBI VC Trade Co., Ltd. toward the transfer of customer accounts and custodied assets** |
 | 2025-03-08 | Full service termination. Completed the transfer of all customer accounts and custodied assets (yen / crypto assets) to SBI VC Trade |
 
 **Unauthorized outflow incident (2024-05-31) details**:
 
-The outflow amount was approximately 482 億円 equivalent (converted at the rate at the time the outflow occurred). The quantity of BTC that flowed out was approximately 4,502.9  BTC (based on multiple reports — the company's primary press release is currently inaccessible). To contain the situation, the company announced fundraising on the scale of 550 億円 and carried out a market buy-back of BTC, but ultimately gave up on continuing the business (for details see [[exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis|DMM Bitcoin Lazarus ハック詳細分析]] and [[exchanges/jp-vasp-incident-history|JP VASP インシデント史]]; as sister cases, [[exchanges/bybit-lazarus-hack-detailed-analysis|Bybit Lazarus ハック]] and [[exchanges/coincheck-nem-hack-detailed-analysis|Coincheck NEM 流出]] are comparable).
+The National Police Agency materials state that 4,502.9 BTC was lost, valued at approximately ¥48.2 billion at the time. The company announced a fundraising plan on the scale of ¥55 billion and a policy to buy back the equivalent BTC; it later terminated service and transferred customers to SBI VC Trade (see [[exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis|DMM Bitcoin Lazarus ハック詳細分析]] and [[exchanges/jp-vasp-incident-history|JP VASP インシデント史]]).
 
 Japan's National Police Agency, the FSA, and the US FBI published, dated 2024-12-24, an identification of this case as an attack by "Trader Traitor (North Korea's Lazarus Group)" and issued an advisory (recorded in the "Publication of '令和6年12月24日 Regarding cyber-attacks by the North Korea-backed cyber-attack group Trader Traitor (advisory)'" on the FSA page).
 
@@ -86,7 +88,7 @@ This case is one of the largest-scale unauthorized outflow incidents in the hist
 
 ## 7. Strategic developments
 
-No strategic developments exist after the closure was finalized.
+After the closure decision, the principal disclosed developments concerned transferring customer accounts and custodied assets and terminating service, rather than a growth strategy.
 
 - 2024-12-02 basic agreement: established the framework for the transfer to SBI VC Trade
 - 2024-12-25: both SBI VC Trade and DMM Bitcoin published notices regarding the transfer
@@ -117,3 +119,5 @@ No strategic developments exist after the closure was finalized.
 - [FSA crypto-asset exchange operator registration list Excel](https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx) (snapshot 令和8年4月1日 = 2026-04-01)
 - [Wikipedia "DMM Bitcoin"](https://ja.wikipedia.org/wiki/DMM_Bitcoin) (obtained 2026-05-18 · used for cross-check of corporate information / financials / history)
 - [CoinPost "DMM Bitcoin's unauthorized outflow, possible involvement of North Korean hacker group 'Lazarus'"](https://coinpost.jp/?s=DMM+Bitcoin+%E3%83%A9%E3%82%B6%E3%83%AB%E3%82%B9) (2024-07-17 article title confirmed · obtained 2026-05-18)
+- [National Police Agency — advisory on TraderTraitor's theft from DMM Bitcoin](https://www.npa.go.jp/bureau/cyber/koho/caution/caution20241224.html) (2024-12-24)
+- [National Police Agency — joint advisory PDF](https://www.npa.go.jp/bureau/cyber/pdf/20241224_jp.pdf) (2024-12-24)

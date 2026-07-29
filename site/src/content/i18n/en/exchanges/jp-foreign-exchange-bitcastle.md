@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-foreign-exchange-bitcastle
-source_hash: d54ae4bb1652a413
+source_hash: 0e4c54b8d69840fe
 lang: en
 status: machine
 fidelity: ok
 title: "bitcastle LLC — Overseas Unregistered Crypto-Asset Exchange Targeting Japan"
-translated_at: 2026-05-31T05:31:05.774Z
+translated_at: 2026-07-29T11:50:43.000Z
 ---
 
 # bitcastle LLC — Overseas Unregistered Crypto-Asset Exchange Targeting Japan
@@ -25,8 +25,6 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - **Representative**: Yoshimitsu Sekine ("Sekinemon") — Japanese entrepreneur
 - **Parent company / Listing**: Unlisted. A business entity of BLITZ GROUP (Mr. Sekine is CEO)
 
-**Distinctiveness**: Among crypto-asset exchanges that became targets of overseas-unregistered warnings, the case of bitcastle LLC is distinctive in that the representative is Japanese and is explicitly named in the FSA warning notice. The usual warning targets ([[exchanges/jp-foreign-exchange-kucoin|KuCoin]], [[exchanges/jp-foreign-exchange-bybit|Bybit]], [[exchanges/jp-foreign-exchange-mexc|MEXC]], etc.) are foreign companies under foreign management, and it is rare for an entity with a Japanese representative to receive a warning for operating, unregistered, toward Japanese residents (for framework details, see [[exchanges/fsa-foreign-exchange-warning-system|FSA 海外取引所警告制度]]).
-
 ## 2. Licenses / Registration Status
 
 - Japan FSA (Financial Services Agency) crypto-asset exchange registration: **None**
@@ -36,48 +34,33 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 ## 3. Supported Currencies
 
-- Number of supported assets: 100+ (disclosed; date unknown)
-- Major assets: BTC, ETH, SOL, XRP, and other major altcoins
-- Crypto-asset CFD (FX): 50+ types
-- Spot trading fees: 0.02% for both maker and taker (foregrounding low cost as a selling point)
+- The FSA warning material is not a source for bitcastle LLC's supported assets or product composition. This entry does not infer an asset count or availability to Japan residents.
 
 ## 4. Scope of Business
 
-- **Spot trading**: Available
-- **Crypto-asset CFD / FX**: Available (maximum leverage, etc., not disclosed)
-- **Fiat-currency deposit**: Details of yen-denominated direct-deposit channels not disclosed
-- **Japanese-language support**: Japanese UI and support available (marketing foregrounds Japanese-language support)
-- **Characteristics**: Appeals with its Japanese founder and Japanese-language support, using the founder's profile as a social-media influencer to acquire customers
+- The FSA warning material does not enumerate bitcastle LLC's products, fees, leverage, or deposit and withdrawal functions. This entry is limited to the regulatory fact of unregistered operation on the warning date.
 
 ## 5. Market Share / Trading Volume
 
-- Registered users: The company claims "over 100万" (date and definition unclear; no public materials)
-- Trading volume: Not disclosed
-- Customer base: A small exchange primarily targeting Japanese speakers and Japanese residents
-- Position among competitors: Emerging / niche. Like major global exchanges (Bybit, MEXC, etc.), it accessed the Japanese market without registration, but at a far smaller scale
+- The FSA warning material contains no comparable figures for bitcastle LLC's Japan trading volume, account count, or market share. This entry does not infer market rank or scale.
 
 ## 6. History / Major Events
 
+The table below is limited to the FSA's primary source on crypto-asset exchange business in Japan. The warning letter does not establish the company's incorporation year, corporate migration, or founder history, so those claims are not included. ^[Source: https://www.fsa.go.jp/policy/virtual_currency02/index.html.]
+
 | Period | Event |
 |------|--------|
-| 2019年 | Yoshimitsu Sekine established bitcastle in Singapore |
-| After establishment | Relocated and registered the entity in St. Vincent and the Grenadines |
-| 2022年 (some sources) | Described as having begun formal operation as a corporation (sources vary on the year of establishment) |
 | 2024年11月28日 | **FSA issued a warning notice**: Under the Payment Services Act, named "Bitcastle LLC, representative Yoshimitsu Sekine" as a party conducting crypto-asset exchange business without registration. Issued simultaneously with KuCoin, Bybit Fintech Limited, MEXC Global, and Bitget Limited (a total of 5社). Basis: Crypto-Asset Exchange Operator Relations III-1-6 (2) ② |
-| 2025年4月25日 | The Local Finance Bureau (lfb.mof.go.jp) also published the company as a party conducting financial instruments business without registration (securities / FX related) |
 
-**Content of the warning**: The FSA noted that the company "conducts crypto-asset exchange business, via the internet, with Japanese residents as counterparties," constituting a violation of the Payment Services Act. Among the 5 社 issued simultaneously, the only one whose representative's real name and nationality (Japanese) were widely reported domestically in Japan was this company.
+**Content of the warning**: The FSA stated that the company conducted crypto-asset exchange business over the internet with Japan residents as counterparties. This entry does not infer nationality or uniqueness relative to the other warned operators when those points are not in the warning.
 
 ## 7. Strategic Developments
 
-- Even after the warning was issued, as of 2026年 the Japanese-facing website and services continued (various review sites posted the company's campaign information after the spring of 2026年 as well)
-- There is information that, as of 2026年5月, bitcastle FX (crypto-asset CFD) was being additionally rolled out
-- Continues integrated marketing of personal brand and services through Japanese-language social media (Instagram, approximately 1.3万 followers, the account commonly known as "Sekinemon")
-- User reviews regarding withdrawal refusals and service quality exist across multiple media outlets (as of 2026年)
+- The FSA issued its warning to bitcastle LLC on 2024-11-28. This entry does not use that material alone to infer subsequent Japan-facing service, product additions, or registration activity.
 
 ## 8. Related People
 
-- **Yoshimitsu Sekine ("Sekinemon")**: Japanese entrepreneur, BLITZ GROUP CEO, bitcastle LLC representative. Claims to have made approximately 100 × returns from an early investment in Solana (SOL), posts crypto-asset information on social media (X, Instagram), with over 20万 followers (as of 2024年). Has a TV appearance history during the Sanae-token uproar (2023年), and is also mentioned in peripheral ventures such as World Peace Coin. Claims to reside in Singapore and operates multiple offshore business entities.
+- **Yoshimitsu Sekine**: Named as the representative of bitcastle LLC in the FSA warning dated 2024-11-28.
 
 ## Related
 

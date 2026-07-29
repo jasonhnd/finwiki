@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-exchange-zaif
-source_hash: 2ed4ab45b8078809
+source_hash: ca84333ff876ccdb
 lang: en
 status: machine
 fidelity: ok
 title: "Zaif Inc. — Japan crypto-asset exchange operator overview"
-translated_at: 2026-05-31T05:31:05.765Z
+translated_at: 2026-07-29T11:50:43.000Z
 ---
 
 # Zaif Inc. — Japan crypto-asset exchange operator overview
@@ -24,8 +24,8 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - **Established**: 2016年 (平成28年), 4/12 (initially Fisco Coin, Inc.)
 - **Capital**: 52,945,000円 (as of 令和7年10月8日)
 - **Registered head office**: 2-chome 18-15号, Aragi-cho, Kishiwada-shi, Osaka (FSA registered address)
-- **Office (actual operating headquarters)**: 5-11-9
- Minami-Aoyama, Minato-ku, Tokyo- **Parent company**: JN Group, Inc. (TSE Standard / securities code 6634, formerly Nexus Group → JN Group)
+- **Office (actual operating headquarters)**: 5-11-9 Minami-Aoyama, Minato-ku, Tokyo
+- **Parent company**: JN Group, Inc. (TSE Standard / securities code 6634, formerly Nexus Group → JN Group)
 - **Intermediate holding company**: ZED Holdings, Inc. (Sakai-shi, Osaka) — a consolidated subsidiary of JN Group. The direct parent of Zaif
 - **Unlisted** (Zaif Inc. standalone); the parent JN Group is listed on TSE Standard
 
@@ -47,6 +47,8 @@ As of 2026年5月, handles the following 24 listings (published on the official 
 
 ## 4. Scope of business
 
+The following is a snapshot of major categories confirmed on Zaif's official service site. Because availability and supported assets change, the official interface and contractual documents at the time of use take precedence. ^[Sources: https://zaif.jp/; https://corp.zaif.jp/outline/.]
+
 | Service | Provision status |
 |----------|----------|
 | Spot trading (order-book trading / Orderbook) | Available |
@@ -56,27 +58,22 @@ As of 2026年5月, handles the following 24 listings (published on the official 
 | Margin trading | Available |
 | Staking | Available |
 | Corporate service (Zaif Prime Desk) | Available |
-| Zaif Payment (settlement) | Available |
-| Zaif Card (crypto-asset cashback card) | Available |
-| NFT | No official mention |
 
 - **Fiat-currency deposit channel**: bank transfer, convenience-store deposit, Pay-easy, credit card (per the company's maintenance information)
 
 ## 5. Market share / trading volume
 
-- The company has not disclosed account-count / trading-volume figures as of 2026年5月
-- In the company's notice (2026年5月), it uses the expression "8社 domestic crypto-asset exchange operators that provide spot order-book trading," recognizing 8社 as competitors in domestic spot order-book trading
-- According to parent JN Group IR, Zaif is expected to record a loss in FY2026-11 as well, with full profitability not expected until FY2027-11 onward (published on crex-data.com 2026-04-23). The trading-volume scale is considered below the domestic median, with [[exchanges/jp-exchange-bitflyer|bitFlyer]] and [[exchanges/jp-exchange-coincheck|Coincheck]] at the top.
-- Customer base: mainly domestic retail investors
+- Zaif's company and service materials reviewed on 2026-07-29 do not include account-count or trading-volume figures prepared on a comparable basis. This entry does not infer market rank, the number of competitors, or future profit and loss.
 
 ## 6. History / major events
 
 ### Predecessor entity: TechBureau Corp. (corporate number 1120001184556)
 
+The following is based on the FSA's published administrative action and registration list and the National Tax Agency corporate-number record. The outflow is stated as approximately ¥6.7 billion in line with the FSA publication, and the current Zaif entity is kept legally distinct from predecessor TechBureau. ^[Sources: https://www.fsa.go.jp/news/30/virtual_currency/20180925.html; https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx; https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=1120001184556.]
+
 | Period | Event |
 |------|--------|
 | Around 2014年 | TechBureau Corp. (Nishi-ku, Osaka-shi, Osaka) established. The representative was Takao Asayama. Operated the Zaif exchange |
-| 2015-16 | Zaif had a presence as a major domestic exchange in altcoin trading such as MONA and XEM |
 | 2017-09-29 | Crypto-asset exchange business registration (Director-General of the Kinki Local Finance Bureau 第00001号) |
 | **2018-09-14** | **Crypto-assets worth approximately 6.7bn yen flowed out of the hot wallet** (BTC, BCH, MONA, etc.; approximately 4.5bn yen were customer assets). As a major domestic VASP incident, see [[exchanges/jp-vasp-incident-history|Japan VASP incident history]] and [[exchanges/coincheck-nem-hack-detailed-analysis|Coincheck NEM hack detailed analysis]]. |
 | 2018-09-25 | The FSA issued a business-improvement order to TechBureau Corp. (the order was issued by the Kinki Local Finance Bureau; published on the FSA website) |
@@ -84,33 +81,25 @@ As of 2026年5月, handles the following 24 listings (published on the official 
 
 ### The current Zaif Inc. entity: Fisco Coin, Inc. → present (corporate number 1120101054642)
 
+The following is based on Zaif's company profile, the National Tax Agency corporate-number record, and JN Group's February 2025 disclosure. It does not treat an external M&A database alone as proof of a "complete acquisition in July 2025." ^[Sources: https://corp.zaif.jp/outline/; https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=1120101054642; https://www.jngroup.jp/wp-content/uploads/2025/02/kaiji_20250208.pdf.]
+
 | Period | Event |
 |------|--------|
 | 2016-04-12 | Fisco Coin, Inc. established (Fisco lineage) |
-| 2016-07-01 | No trade-name change (per the NTA change history)|
 | Around 2018-11 | Acquired the Zaif exchange business from TechBureau. Continued operating as "Fisco Cryptocurrency Exchange" |
 | 2020-11-02 | Trade-name change: Fisco Cryptocurrency Exchange, Inc. |
 | 2021-11-02 | Trade-name change: Zaif Inc. (株式会社Ｚａｉｆ) |
-| 2023-11-15 | Trade-name change: CAICA Exchange, Inc. (the era under CAICA / the CAICA group) |
-| Around 2023年 ~ | Trade-name change: reverted to Zaif Inc. (株式会社Ｚａｉｆ) (the latest NTA information now shows "Zaif") |
-| **2025-02-03** | Moved from Kushim, Inc. to an affiliated subsidiary of Nexus Group, Inc. (parent-company change. Published in the company's press 2025-02-10) |
-| **2025-07-15** | Nexus Group (now JN Group) fully acquired Zaif shares through ZED Holdings (published by the Nihon M&A Center) |
-| Around 2026年 | Nexus Group changed its trade name to JN Group (TSE Standard 6634) |
+| 2025-02 | JN Group disclosed that ZED Holdings and Zaif had become consolidated subsidiaries |
 
 > **Note**: TechBureau and the current Zaif Inc. are **different entities** (their corporate numbers differ). The Zaif brand / business was inherited via a business transfer, but there is no continuity of corporate personality. The registration number (Kinki Local Finance Bureau 第00001号) was succeeded on the occasion of the business transfer.
 
 ## 7. Strategic developments
 
 - **Major developments in 2025-2026 年**:
-  - From 2025年2月 through 7, the parent moved from Kushim → Nexus Group (later JN Group), and full conversion into a subsidiary was completed
-  - As of 2025年11月, the JN Group as a whole had a group-consolidated 99名 (a small-scale holding-company structure)
+  - In February 2025, JN Group disclosed that ZED Holdings and Zaif had become consolidated subsidiaries
   - A collaboration campaign with SNPIT (a Snap-to-Earn game) (2026年 4–5), and listing of a GameFi listing (SNPT)
-  - In a rebate campaign on ETH spot order-book trading fees (2026年5月), it touted "the largest rebate among domestic 8社"
   - Deployed the Zaif Card, a card with crypto-asset cashback. Added ETH / XYM rebate support in May 2026.
-  - FY2026年11月 is expected to remain in loss. According to JN Group IR, full profitability is not expected until FY2027年11月 onward
   - Fisco, Inc. announced the termination of value-up measures / cancellation of the burn for FSCC (Fisco Coin) (2026年5月15日)
-
-- No public information regarding a listing (IPO) has been confirmed
 
 ## 8. Related persons
 
@@ -141,4 +130,3 @@ As of 2026年5月, handles the following 24 listings (published on the official 
 - [国税庁法人番号 株式会社Ｚａｉｆ（1120101054642）](https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=1120101054642)（取得 2026-05-18）
 - [National Tax Agency corporate-number record for Tech Bureau Corp. (1120001184556)](https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=1120001184556) (accessed 2026-05-18)
 - [JN Group corporate overview](https://www.jngroup.jp/corporate/outline/) (accessed 2026-05-18)
-- [Nihon M&A Center: Nex Group full acquisition of Zaif (2025-07-15)](https://www.nihon-ma.co.jp/news/2025/07/15/) (accessed 2026-05-18)

@@ -23,9 +23,9 @@
     "domain": "exchanges",
     "type": null,
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-06-24",
-    "review_by": "2026-09-22",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "fintech",
@@ -104,9 +104,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 6144,
-    "word_like_tokens": 964,
-    "inbound_wikilinks_count": 13,
-    "last_modified": "2026-06-24"
+    "nonspace_chars": 6585,
+    "word_like_tokens": 1031,
+    "inbound_wikilinks_count": 11,
+    "last_modified": "2026-07-29"
   }
 }

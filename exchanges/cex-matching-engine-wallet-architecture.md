@@ -6,9 +6,9 @@ aliases:
   - Exchange order book + custody architecture
 domain: exchanges
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-06-24
-review_by: 2026-09-22
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
 confidence: likely
 tags:
   - exchanges
@@ -19,6 +19,9 @@ tags:
 sources:
   - https://www.nyse.com/
   - https://github.com/binance/
+  - https://docs.safe.global/advanced/smart-account-signatures
+  - https://csrc.nist.gov/pubs/fips/140-3/final
+  - https://www.fireblocks.com/report/what-is-mpc
 status: active
 ---
 
@@ -74,23 +77,17 @@ Coincheck 2018 NEM 580 億円事件は「実質ホット 100%」の結果 ([[exc
 
 ## 5. 主要技術スタック
 
-機関カストディの 5 技術 ([[exchanges/global-institutional-custody-five-pillars]] / [[exchanges/jp-institutional-custody-three-pillars]]):
+署名・鍵管理で使われる代表的な技術カテゴリ ([[exchanges/global-institutional-custody-five-pillars]] / [[exchanges/jp-institutional-custody-three-pillars]]):
 
-| 技術 | 代表ベンダー | 役割 |
+出典: 表全体は [Safe Signatures](https://docs.safe.global/advanced/smart-account-signatures)、[NIST FIPS 140-3](https://csrc.nist.gov/pubs/fips/140-3/final)、[Fireblocks MPC 解説](https://www.fireblocks.com/report/what-is-mpc)（2026-07-29 確認）に基づく。
+
+| 技術 | 公開仕様の例 | 役割 |
 |---|---|---|
-| **multi-sig** | Gnosis Safe (現 Safe) | 標準 2-of-3 署名閾値 · スマコン基盤 |
-| **HSM** | Thales / Utimaco / Ledger Vault | ハードウェア暗号モジュール · FIPS 140-2/3 認証 |
-| **MPC** | Fireblocks / Fordefi / Sepior | 鍵分散 · single point of failure 排除 |
-| **air-gap signing** | Casa / Anchorage | 完全オフライン署名 · ネット非接続 |
-| **シャミア秘密分散 (Shamir's Secret Sharing)** | 多数 | 秘密鍵の閾値分散 (k-of-n) |
+| **multi-signature** | Safe smart-account signatures | 複数の owner 署名を設定可能なスマートアカウント方式。閾値は構成ごとに設定される |
+| **HSM / cryptographic module** | NIST FIPS 140-3 | 暗号モジュールの設計・実装に対するセキュリティ要件と 4 段階のセキュリティレベルを定義 |
+| **MPC** | Fireblocks MPC | private-key operation を複数 party の計算と key share に分散し、単一の完全な秘密鍵を一か所に保持しない方式 |
 
-CEX 実装例:
-- **Coinbase Custody** — multi-sig + HSM 混合
-- **Anchorage Digital** — MPC 中心 (米 OCC 国法銀行ライセンス)
-- **Komainu** — cold + air-gap (Nomura JV)
-- **Fireblocks** — MPC SaaS · 国内 GMO コイン等が採用
-
-2025 Bybit Lazarus hack ([[exchanges/bybit-lazarus-hack-detailed-analysis]]) は **Safe UI 偽装**で multi-sig 署名者を騙した社会工学攻撃。技術自体は機能したが UI 層の脆弱性が露呈、air-gap + ハードウェア確認の重要性を再認識させた。詳細フォレンジック手法は [[security/bytecode-forensic-three-tier-verify|bytecode forensic 3-tier verify]] と [[security/forensic-identity-anchor-chain|forensic identity anchor chain]] を併読。サプライチェーン攻撃の構造分析は [[security/module-path-confusion-supply-chain-attack|module path confusion supply chain attack]] 参照。
+特定の CEX や custody provider が採用する署名方式、閾値、HSM / MPC 構成は変更され得るため、この表から個社実装を推定しない。個別事件の分析は [[exchanges/bybit-lazarus-hack-detailed-analysis]]、フォレンジック手法は [[security/bytecode-forensic-three-tier-verify|bytecode forensic 3-tier verify]] と [[security/forensic-identity-anchor-chain|forensic identity anchor chain]] を参照。
 
 ---
 

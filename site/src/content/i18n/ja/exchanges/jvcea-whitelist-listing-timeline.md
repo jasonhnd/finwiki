@@ -1,14 +1,14 @@
 ---
 source: exchanges/jvcea-whitelist-listing-timeline
-source_hash: 34cd433d49345420
+source_hash: 8f56fc07f873d89f
 lang: ja
 status: machine
 fidelity: ok
-title: "JVCEA WhiteList 上場銘柄 timeline (2017-2026)"
-translated_at: 2026-06-02T12:19:04.224Z
+title: "JVCEA Green List / 取扱暗号資産 公開資料 timeline (2017-2026)"
+translated_at: 2026-07-29T11:50:43.000Z
 ---
 
-# JVCEA WhiteList 上場銘柄 timeline (2017-2026)
+# JVCEA Green List / 取扱暗号資産 公開資料 timeline (2017-2026)
 
 ## ウィキ上の位置づけ
 
@@ -16,41 +16,34 @@ translated_at: 2026-06-02T12:19:04.224Z
 
 ## 概要
 
-JVCEA WhiteList は国内 VASP (暗号資産交換業者) が取扱可能な暗号資産銘柄リスト。2017 年改正資金決済法施行時の BTC/ETH 中心の単純構成から、2026 年現在 ~33 銘柄へ拡大。国内独占銘柄 + 国内初上場銘柄 + 国内市場特有需要 (円ペッグ SC、貴金属連動 SC、文化的 token) を反映する独特の生態系を形成。海外 CEX の 350-2,376 銘柄と比較して厳格な審査基準 (JVCEA 8 大基準) が特徴。
+JVCEA は「グリーンリスト」と「取扱暗号資産及び取扱暗号資産概要説明書」を別資料として公開している。グリーンリストは一定の要件を満たす銘柄について会員の新規取扱い審査を効率化する仕組みであり、国内で一律に取扱可能な銘柄の許可表ではない。2026年7月22日更新版のグリーンリストは 31 銘柄を掲載し、取扱暗号資産の公開資料は 2026年7月27日に更新されている。
 
 ## Timeline 主要 Milestone
 
-- **2017-04** 改正資金決済法施行 · BTC/ETH/XRP/BCH/LTC/MONA/XEM 等 初期 17 銘柄前後
-- **2018-01** [[exchanges/coincheck-nem-hack-detailed-analysis|Coincheck NEM 事件]] 後 厳格化 · 新規上場 1 年程度凍結
-- **2019-04** 名称 "仮想通貨" → "暗号資産" 統一 (改正資金決済法)
-- **2020-2021** Polkadot (DOT) / Chainlink (LINK) / Polygon (MATIC) 等 上場 (DeFi summer 反射)
-- **2022-06-09** Green List 制度導入 → 上場期間 1-3 ヶ月に短縮 (それまでは 6 ヶ月-1 年)
-- **2023-04** XRP 取扱継続 (米 SEC vs Ripple 訴訟と無関係に維持)
-- **2024-2025** Solana (SOL) 国内上場 · TON / SUI 等 L1 token 上場
-- **2026-01-15** ZPG (デジタルアセットマーケッツ) + WILD (GMO コイン) 国内初上場
+- **2017-04** 改正資金決済法施行により暗号資産交換業者の登録制度が開始
+- **2018-10** JVCEA が資金決済法上の認定資金決済事業者協会となる
+- **2022-06-09** JVCEA がグリーンリスト制度を公表
+- **2026-07-22** 現行グリーンリスト更新。掲載は 31 銘柄
+- **2026-07-27** 「取扱暗号資産及び取扱暗号資産概要説明書」更新
 
-## 国内独占・初上場銘柄
+## 資料の読み分け
 
-- **ZPG / ZPGAG / ZPGPT** ([[exchanges/jp-exchange-digital-asset-markets|デジタルアセットマーケッツ]]) — 国内独占 貴金属連動 SC (金/銀/プラチナ)
-- **NIDT** ([[exchanges/jp-exchange-backseat-exchange|BACKSEAT]] 旧 coinbook) — 国内独占
-- **MONA** (モナコイン) — 日本発初期から
-- **JPYC** ([[exchanges/jp-exchange-jpyc|JPYC 株式会社]], 資金移動業) — 円ペッグ stablecoin · 2026-04 シリーズ B 28 億円
-- **KAIA** ([[exchanges/jp-exchange-line-xenesis|LINE Xenesis]] 旧 BITMAX) — 旧 LINK→Finschia→KAIA 系列
+- **グリーンリスト**：JVCEA が定める要件に基づく審査効率化対象。掲載だけで各会員の取扱いを示さない
+- **取扱暗号資産及び概要説明書**：会員が取り扱う暗号資産の公開情報。取扱会社・説明書の更新日を確認する
+- **個社のサービス画面**：実際の売買、入出庫、積立等の提供可否は各社で異なるため、利用時点の公式ページを確認する
 
-## 海外 vs 国内 取扱差
+## 現行公式スナップショット
 
-| 取引所 | 取扱銘柄数 |
-|--------|------------|
-| [[exchanges/jp-foreign-exchange-mexc|MEXC]] (海外) | 2,376+ (上場数最多) |
-| Binance (海外) | 350+ (spot) |
-| [[exchanges/jp-exchange-coincheck|Coincheck]] (国内 top) | 30+ |
-| JVCEA WhiteList 全体 | ~33 銘柄 |
+下表は JVCEA 公式公開ページを 2026年7月29日に確認したもの。海外取引所や個社の変動する取扱数とは比較しない。 ^[Sources: https://jvcea.or.jp/statistics/document/greenlist/; https://jvcea.or.jp/statistics/document/assets/.]
 
-国内独占の文化的 token (NIDT/MONA/KAIA) と海外グローバル token (BTC/ETH/SOL/DOT 等) のミックスが国内市場の特徴。
+| 公開資料 | 更新日 | 読み取れる範囲 |
+|--------|--------|------------|
+| JVCEA グリーンリスト | 2026-07-22 | 31 銘柄と、グリーンリスト対象となるための要件 |
+| 取扱暗号資産及び取扱暗号資産概要説明書 | 2026-07-27 | 会員の取扱暗号資産と各概要説明書 |
 
 ## 戦略含意
 
-国内 VASP の WhiteList 申請は数ヶ月の審査コスト + JVCEA 8 大基準 (技術、法令、流動性、AML 等) をクリアする必要あり。上場後の流動性は CEX 自身が MM 提供で確保 (海外と異なり外部 MM 不在)。BTC ETF 米承認後 (2024-01) の機関フローと国内 spot volume が連動傾向。Green List 制度導入により新規上場ペース加速も、海外と比較すれば依然限定的。
+グリーンリスト掲載は、会員による取扱開始や金融庁への届出・手続を自動的に完了させるものではない。審査、届出、サービス提供、流動性管理の具体的要件は、JVCEA の最新規則と各会員の公式発表で確認する。固定的な審査期間、マーケットメーカーの有無、海外との銘柄数順位はこの資料から推定しない。
 
 ## 関連
 

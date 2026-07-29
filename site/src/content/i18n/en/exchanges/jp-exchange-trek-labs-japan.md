@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-exchange-trek-labs-japan
-source_hash: c948f32dfaf03ea2
+source_hash: 70c5eaba92b9fe4e
 lang: en
 status: machine
 fidelity: ok
 title: "Trek Labs Japan K.K. — Japanese Crypto-Asset Exchange Operator (Preparatory Entity)"
-translated_at: 2026-06-15T03:48:21.890Z
+translated_at: 2026-07-29T12:08:22.000Z
 ---
 
 # Trek Labs Japan K.K. — Japanese Crypto-Asset Exchange Operator (Preparatory Entity)
@@ -15,9 +15,9 @@ translated_at: 2026-06-15T03:48:21.890Z
 
 This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for adjacent context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system boundary.
 
-> FSA registration number **unregistered (preparing application)** · JVCEA member #2034 (Type II member) · JVCEA joined 2024 年 12 月 5 日
+> FSA registration number **unregistered as confirmed on 2026-07-29** · JVCEA member #2034 (Type II member) · JVCEA joined 2024-12-05
 
-Trek Labs Japan K.K. is the preparatory entity for the Japan entry of Trek Labs, which operates the global crypto-asset exchange **Backpack Exchange**. It is active as a JVCEA Type II member toward obtaining crypto-asset exchange business (FSA registration) (as of 2026-05-18, it is FSA-unregistered).
+Trek Labs Japan K.K. is the Japanese entity of Trek Labs, which operates the global crypto-asset exchange **Backpack Exchange**. It was not listed in the FSA crypto-asset exchange operator register reviewed on 2026-07-29 and was listed by the JVCEA as Type II member #2034. Type II membership alone does not establish the filing stage of an individual company.
 
 ## 1. Corporate entity / shareholders
 
@@ -27,67 +27,43 @@ Trek Labs Japan K.K. is the preparatory entity for the Japan entry of Trek Labs,
 - **Head-office location**: 〒160-0023  6 -chome 11 -ban 3 号 D Tower Nishi-Shinjuku, Nishi-Shinjuku, Shinjuku-ku, Tokyo
 - **Parent company**: Trek Labs (global entity · headquartered in Dubai)
 - **Listing status**: unlisted
-- **Investment ratio / shareholder composition**: not disclosed
 
 Trek Labs Japan is a **Japanese group entity established for the purpose of Backpack Exchange global's entry into the Japanese market**; it is not an independent exchange business entity, and its official website explicitly states that it is building a structure to start services for Japan after obtaining FSA registration.
 
 ## 2. License / registration status
 
-- **Crypto-asset exchange business (FSA)**: **unregistered** (preparing application) — being a JVCEA Type II member means it is in the process of, or plans to, file a registration application
+- **Crypto-asset exchange business (FSA)**: unregistered in the FSA register reviewed on 2026-07-29
 - **JVCEA member**: Type II member #2034 (joined 2024 年 12 月 5 日)
 - **JCBA member**: associate member (Japan Cryptoasset Business Association)
-- Financial instruments business / electronic-payment-instruments-etc. trading business / funds-transfer business: all not disclosed
 
-JVCEA Type II member status is granted to "operators that are in the process of, or plan to, file a registration application to become a crypto-asset exchange operator or a crypto-asset-related derivatives trading operator." The timing for obtaining formal FSA registration is not disclosed.
+JVCEA Type II membership is a category for operators applying or planning to apply for registration, but it does not by itself prove that a particular member has filed or establish its review stage. This entry therefore does not infer Trek Labs Japan's filing stage or expected registration date.
 
 ## 3. Handled currencies
 
-- **Service for Japan**: not yet started as of 2026-05-18 (before FSA registration)
-- **Global version Backpack Exchange** handles major tokens such as BTC, ETH, SOL and numerous Solana-ecosystem tokens (see official website)
-- List of tokens handled for Japan: not disclosed
+- The FSA register and the Japanese entity's official page reviewed on 2026-07-29 do not establish a registered crypto-asset exchange service or supported-asset list for Japan. Assets available on the global service are not treated as Japan products.
 
 ## 4. Scope of business
 
-- **Formal service for Japan**: not yet started (awaiting FSA registration)
-- The global version deploys spot trading, derivatives (perpetual futures), and staking
 - According to the official website, in Japan it plans to provide "services that customers can use with peace of mind through mobile applications and internet sites"
-- Backpack Exchange global adopts **non-custodial wallet technology** and emphasizes transparency in users' asset management
-- Fiat-currency deposit channels (for Japan): not disclosed
+- Concrete Japan products and deposit/withdrawal functions will be added only after an official post-registration disclosure.
 
 ## 5. Market share / trading volume
 
-- **Trading volume for Japan**: not disclosed because it has not started
-- **Global version Backpack Exchange**: cumulative trading volume of over 600 億 dollars (as of end of 2024 年 · official announcement), more than 50 万 monthly active users, more than 50 万 KYC-completed users (as of 2024 年 3 月), services deployed in more than 150  countries (figures published on the company's website)
-- Customer base (for Japan): not disclosed
-- Competitive position (Japan): cannot be assessed because it is at the FSA-unregistered stage
+- Because the company was not listed in the FSA crypto-asset exchange operator register as of 2026-07-29, this entry does not assess its Japan trading volume, account count, or market share. Global service user and trading-volume figures are not attributed to the Japanese entity.
 
 ## 6. History / major incidents
 
+The table below is limited to milestones of the Japanese entity that can be confirmed from Trek Labs Japan's official company page, the current JVCEA member list, and the current FSA register. Events involving global Backpack, Coral, FTX EU, or Mad Lads are not treated as the Japanese entity's legal history. ^[Sources: https://jp.support.backpack.exchange/; https://jvcea.or.jp/member/; https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx.]
+
 | Period | Event |
 |------|--------|
-| 2022 年 | **Just before the FTX collapse**: the development entity Coral (the wallet-development company that was the precursor to Backpack) **lost 1,450 万 dollars** out of the 2,000 万 dollars in investment it was scheduled to receive from FTX Ventures and others (due to the FTX collapse) |
-| End of 2022 年 | After the FTX collapse, Coral's founder Armani Ferrante and others reconstructed the group under a non-custodial-exchange concept |
-| 2023 年 4 月 | Released the **Mad Lads** NFT collection on Solana → grew into one of the most popular collections on Solana |
-| 2023 年 11 月 | Released the beta version of **Backpack Exchange** (headquartered in Dubai) |
 | 2023 年 4 月 18 日 | Established **Trek Labs Japan K.K.** in Shinjuku-ku, Tokyo |
-| Second half of 2023 年 | The Backpack team relocated its base from Chicago, US, to Tokyo (CoinPost report) |
-| 2024 年 2 月 | Backpack global raised **1,700 万 dollars (approx. 25 億円)** in a Series A round. Led by the lead investor shown in public materials, with participation from Hashed, Robot Ventures, Amber Group, Wintermute Ventures, Solana founder Anatoly Yakovenko, and others |
-| 2024 年 3 月 | Backpack Exchange's global KYC-completed users reached over 50 万 |
 | 2024 年 12 月 5 日 | Trek Labs Japan K.K. joined as **JVCEA Type II member #2034** |
-| 2025 年 1 月 7 日 | Backpack Exchange completed the **acquisition of FTX EU** (approved by the Cyprus Securities and Exchange Commission CySEC and the US bankruptcy court). It obtained a MiFID II license and plans to deploy derivatives trading across the EU |
-| 2025 年 4 月 | Began the procedure for returning euros to FTX EU customers |
-| 2025 年 9 月 | Utilizing the acquired FTX EU license, began regulation-compliant perpetual futures trading in Europe (CoinPost report) |
-| As of 2026-05-18 | FSA registration in Japan is incomplete / under application |
-
-**Major incident: recovery from the FTX victimization** — Coral (the precursor entity) lost about 72% of its funds in the FTX collapse, but, learning from that collapse, built an exchange model centered on non-custodial wallet technology, proof-of-assets using zero-knowledge proofs, and multi-party computation (MPC) custody. CEO Ferrante has publicly stated that "Backpack is doing something different from before."
+| Confirmed 2026-07-29 | Still listed as JVCEA Type II member #2034 and absent from the FSA crypto-asset exchange operator register |
 
 ## 7. Strategic developments
 
-- **Positioning Japan as the top priority**: The relocation to Tokyo (second half of 2023 年) and the establishment of the Japanese entity indicate that it positions Japan as a key strategic base. The official website explicitly states that "in the future, it will seek to realize these corporate philosophies in the Japanese market through Trek Labs Japan K.K."
-- **Strengthening coordination with the Solana ecosystem**: Solana founder Anatoly Yakovenko is a capital participant, and the Backpack wallet functions as the flagship wallet on Solana. In Japan as well, deployment centered on Solana-line products is anticipated
-- **EU deployment (FTX EU acquisition)**: In parallel with Japan, it is also preparing regulation-compliant services in the European market (from 2025 年 onward)
-- **Timing of the FSA registration application**: not disclosed. Counting from the JVCEA Type II membership joining (2024 年 12 月), there are many cases where the review typically takes about 1-2  years
-- **Mad Lads × Saga mobile coordination**: Backpack has also been adopted as the official wallet of the Solana Saga smartphone, and it has a mobile-first strategy
+- The official Japanese entity page says that Trek Labs Japan intends to pursue its corporate philosophy in the Japanese market in the future. The verifiable regulatory status as of 2026-07-29 is JVCEA Type II membership and absence from the FSA register; this entry does not infer whether an application has been filed, its review stage, an expected registration date, or planned products.
 
 ## 8. Related people
 

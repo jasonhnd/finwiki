@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-exchange-coinhub
-source_hash: 5b9f902587ff79de
+source_hash: 714b2e5d5c8a1eda
 lang: en
 status: machine
 fidelity: ok
 title: "COINHUB Co., Ltd. — Japanese crypto-asset exchange operator"
-translated_at: 2026-05-31T03:19:56.385Z
+translated_at: 2026-07-29T11:07:27Z
 ---
 
 # COINHUB Co., Ltd. — Japanese crypto-asset exchange operator
@@ -24,6 +24,8 @@ For FinWiki, this is the second missing FSA-registered VASP page identified in t
 
 ## 1. Entity / license
 
+The table below is based on the FSA crypto-asset exchange operator list dated 2026-04-01 and the corporate information on COINHUB's official site. “Handled asset” is the registration disclosure in that FSA snapshot; by itself, it does not establish current ATM availability or customer-facing service availability.^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx; https://coinhub.co.jp/en.]
+
 | Item | Reading |
 |---|---|
 | Legal name | COINHUB株式会社 |
@@ -40,8 +42,8 @@ COINHUB's public site describes business activities as crypto asset exchange ser
 
 ## 3. Strategic developments
 
-- **Crypto ATM / cash interface**: The company is positioned around a crypto ATM network and physical access pattern.
-- **Narrow asset scope**: The FSA registry row lists BTC only, making it a focused operator compared with broad-listing domestic exchanges.
+- **Crypto ATM / cash interface**: The official site positions the business around crypto ATMs and a physical access pattern; current machine availability must be checked on the service itself.
+- **Registry scope**: The 2026-04-01 FSA registry row lists BTC. This is a dated registration disclosure, not a permanent asset count or evidence that every service is currently available.
 - **Completeness role**: Its inclusion closes a direct gap against the FSA registered-operator list.
 
 ## Related
@@ -57,5 +59,5 @@ COINHUB's public site describes business activities as crypto asset exchange ser
 
 ## Sources
 
-- FSA: Crypto asset exchange operator list.
-- COINHUB: Corporate information.
+- [FSA crypto-asset exchange operator list](https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx) (snapshot 2026-04-01)
+- [COINHUB official site](https://coinhub.co.jp/en) (accessed 2026-07-29)
