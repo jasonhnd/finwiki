@@ -1,168 +1,132 @@
 ---
 source: business/brian-armstrong-coinbase-public-company-template
-source_hash: 96835c0a62d66610
+source_hash: faf1fb1cdbad5e6d
 lang: ja
-model: local-ja-business-term-glossary
+model: qwen3-4b-instruct-2507-4bit-guarded-full-sync+manual-review
 status: machine
 fidelity: ok
-title: "Brian Armstrong / Coinbase 上場取引所オペレーティングテンプレート · 直接上場 IPO + 規制エンゲージメント戦略"
-translated_at: 2026-06-26T08:28:53.954Z
+title: "ブライアン・アームストロング／Coinbase上場会社運営事例"
+translated_at: 2026-07-29T05:13:34.783Z
 ---
 
-# Brian Armstrong / Coinbase 上場取引所オペレーティングテンプレート · 直接上場 IPO + 規制エンゲージメント戦略
+# ブライアン・アームストロング／Coinbase上場会社運営事例
 
-## ウィキ上の位置づけ
+## スコープ
 
-このエントリは [[business/INDEX|business INDEX]] の配下にある。銀行側の対比テンプレートとして [[business/jamie-dimon-anti-crypto-pivot-case|Jamie Dimon anti-crypto pivot case]]、資産運用会社側の並行例として [[business/larry-fink-blackrock-digital-asset-template|Larry Fink BlackRock digital-asset template]] と照らし合わせて読むこと。より広い取引所アーキテクチャの文脈については [[exchanges/INDEX|exchanges INDEX]]、Armstrong のオペレーティング上の制約を規定する規制パーミタの次元については [[fintech/cftc-sec-crypto-jurisdiction|CFTC / SEC crypto jurisdiction]] をクロスリファレンスすること。
+このページは、Coinbase Globalの2021年の直接上場、SEC民事訴訟とその却下、Coinbaseが2025年までに開示した規制対象事業体の範囲を、限定的な上場会社事例として記録する。政治的影響を評価せず、却下された主張の本案を推測せず、審査中の認可申請を承認済みとして扱わない。
 
-## 主要事実（公開情報源のみ）
+[[business/INDEX|business INDEX]]の下に位置する。[[business/cz-binance-founder-handoff-case|CZ / Binance founder-handoff case]]、[[business/larry-fink-blackrock-digital-asset-template|Larry Fink / BlackRock digital-asset case]]、[[exchanges/us-crypto-licensing-multi-layer-system|US crypto licensing multi-layer system]]、[[fintech/cftc-sec-crypto-jurisdiction|CFTC / SEC crypto jurisdiction]]と共に読む。
 
-- Coinbase Global, Inc. (Nasdaq: **COIN**) の **創業者 + CEO**、会社設立 (2012) 以来。地位は Coinbase の各 10-K 提出書類で公に開示。
-- Nasdaq への Coinbase クラス A 普通株式の **直接上場**、**2021-04-14**、参照価格 $250,、寄付き ~$381。直接上場経路は Coinbase の S-1 / Form S-1 目論見書 (SEC 提出書類) で開示。
-- 創業者 / インサイダーが保有するクラス B 普通株式が超多数の議決権支配を提供する **二種類株式構造** — Coinbase 10-K の株式構造セクションで開示され、Armstrong は主要なクラス B 保有者として記載。
-- SEC エンフォースメント部門から受領した **Wells Notice**、Coinbase が **2023-03-22** に公表 (Coinbase 8-K)。SEC は **2023-06-06** に、未登録の取引所 / ブローカー / クリアリングエージェンシー運営を主張する訴状を提出。
-- **Coinbase 対 SEC** の職務執行令状 (mandamus) 請求 (第三巡回区控訴裁判所、2023)、Coinbase のルールメイキング請願に対する SEC の応答を求めるもの; 第三巡回区は SEC に応答を命じた。
-- Coinbase に対するエンフォースメント措置の **SEC による却下**、SEC のプレスリリース / Coinbase 8-K を通じて **2025** に公表 (Atkins SEC 体制移行後)。
-- **公開ロビイング支出** — Coinbase は LD-2 提出書類により米国議会に対するロビイング費用を四半期ごとに報告 (米国上院ロビイング開示データベースで公に検索可能)。2024 の支出は単一の暗号資産エンティティとして最も高い部類。
-- **Fairshake PAC** — Coinbase は 2024 の米国選挙サイクルにおいて Fairshake (暗号資産寄りのスーパー PAC) への最大の法人寄付者の一つとして公に開示。FEC 提出書類は公開。
-- **GENIUS Act / FIT21** 立法活動 — Coinbase は両法案を公に推進し、Armstrong は公聴会で個人的に証言 / コメント (下院金融サービス委員会および下院農業委員会の公聴会記録)。
+## 確認されたタイムライン
 
-### Part 1 · 上場初日からの上場企業構造従来型 IPO ではなく 2021 の直接上場という選択は、このテンプレートを従来の取引所上場と一線を画す構造的決定である。
+この表の情報源：[Coinbase's 2021 SEC prospectus](https://www.sec.gov/Archives/edgar/data/1679788/000162828021006850/coinbaseglobalinc424b.htm)、[Coinbase's 2025 annual report](https://www.sec.gov/Archives/edgar/data/1679788/000167978826000047/coinbase2025ars.pdf)、および[SEC's 2025 dismissal release](https://www.sec.gov/newsroom/press-releases/2025-47)。
 
-- ブックビルディング型 IPO ではなく **直接上場** — 引受人なし、ロードショーなし、グリーンシューなし、引受人が課すロックアップなし。既存株主が直接売却した。
-- **上場時に新規資本を調達せず** — Coinbase は直接上場日に現金と引き換えに新株を発行しなかった。S-1 は上場を資本調達ではなく流動性イベントとして明示的に位置づけた。
-- **二種類株式構造** — クラス A は公開普通株、クラス B はインサイダーが保有し超多数の議決権を持ち、公開市場への参入を通じて創業者の支配を維持。
-- **公開台帳上のスポット取引所収益モデル** — 四半期収益 (取引テイクレート × 出来高) が米国リテール暗号資産活動の公開リードアウトとなり、Coinbase の 10-Q を事実上の業界指標たらしめる。
-
-直接上場の選択は、暗号資産ネイティブの取引所がこの経路を大規模に用いた最初の例であり、強い信念を持つ創業者 CEO が完全な SEC 開示を受け入れつつ公開市場参入時に支配を保持する最も明確な例の一つである。他の上場取引所テンプレートおよびオンショア VASP 上場との並行性は [[exchanges/jp-listed-cex-related-companies-matrix|JP listed CEX-related companies matrix]] に記録されている。
-
-### Part 2 · 防御ではなく戦略としての規制エンゲージメント
-
-Armstrong / Coinbase の米国規制当局に対する公的姿勢は三つの局面を経て進化した — 公開提出書類と公的声明に表れている:
-
-| 局面 | 期間 | 姿勢 | 公的証拠 |
-|---|---|---|---|
-| 協調的提出 | 2018-2022 | ライセンスに関し SEC スタッフ、FinCEN、州規制当局とエンゲージ | NMLS の州資金移動ライセンス、NY BitLicense、公的証言 |
-| 公開対決 | 2023-2024 | Coinbase 対 SEC の職務執行令状、Wells Notice の公開、ステーキングの公的擁護、公開上場レビュー | SEC 8-K、第三巡回区請願、Coinbase ブログ |
-| 立法主導の再エンゲージ | 2024-2025 | FIT21 / GENIUS Act のロビイング、Fairshake PAC、選挙後の新 SEC 体制とのエンゲージ | LD-2 提出書類、FEC 提出書類、公聴会証言 |
-
-これは教科書的な **戦略としての規制エンゲージメント** パターンである: パーミタが不明確で規制当局がケースバイケースのエンフォースメントを追求するとき、上場取引所はその上場企業としての開示面をキャンペーンのプラットフォームとして利用する。各 Wells Notice / 応答のサイクルは公に発表される。各訴訟のマイルストーンは企業イベントとして報告される。銀行側テンプレートとの対比 — 遅行する銀行のパターンについては [[business/jamie-dimon-anti-crypto-pivot-case|Jamie Dimon anti-crypto pivot case]]、規制当局側のカウンターパートについては [[business/hester-peirce-sec-regulatory-pivot-case|Hester Peirce SEC regulatory pivot case]] を参照 — は構造的である: Coinbase は製品スコープを拡大するために **ルールメイキングの明確化** を必要とするため、対決は評判上の負債ではなく戦略的なインプットである。
-
-連邦対州の管轄の完全な文脈は [[fintech/cftc-sec-crypto-jurisdiction|CFTC / SEC crypto jurisdiction]] と [[exchanges/us-crypto-licensing-multi-layer-system|US crypto licensing multi-layer system]] にマッピングされている。
-
-### Part 3 · 規制パーミタ問題としての製品スコープ
-
-Coinbase の製品面 — スポット取引、カストディ、ステーキング、USDC 配信、デリバティブ (Coinbase Derivatives 経由、CFTC DCM / DCO として規制)、ウォレット、Base L2 — は同時に複数の米国規制パーミタにまたがる。公開開示は、同社が各レッグごとに別個の規制対象エンティティを運営していることを示す:
-
-| 製品 | 規制対象エンティティ / ライセンス | 規制当局 |
+| 日付 | 公表された出来事 | 証拠の境界 |
 |---|---|---|
-| スポット取引 | Coinbase, Inc. (州資金移動ライセンス + NY BitLicense) | 州、NYDFS |
-| カストディ | Coinbase カストディ Trust Company, LLC (NY トラストチャーター) | NYDFS |
-| デリバティブ | Coinbase Derivatives, LLC (DCM) + Coinbase Financial Markets (FCM) | CFTC、NFA |
-| インターナショナル | Coinbase Bermuda (BMA Digital Asset Business Class F) | BMA |
-| ステーブルコイン配信 | Circle が発行する USDC、Coinbase 10-K で開示された公開パートナーシップにより Coinbase 経由で配信 | — |
+| 2021-04-14 | CoinbaseのClass A株式が直接上場によりNasdaqで銘柄COINとして取引開始 | 目論見書は既存株主による売出しを登録したもので、引受方式のIPOではなかった |
+| 2023-06-06 | SECがCoinbaseに対し、無登録の取引所、ブローカー、清算機関としての活動と、無登録のステーキング提供を主張する民事訴訟を提起 | 主張は争われており、アームストロングに対する刑事訴追ではない |
+| 2025-02-27 | SECが民事訴訟を却下する共同合意を発表 | SECは、新たな暗号資産政策作業を進めるための決定であり、本案の評価ではないと説明した |
+| 2025 | Coinbase LuxembourgがルクセンブルクCSSFからMiCA認可を取得 | Coinbase LuxembourgによるEEA全域の暗号資産サービスを支える認可であり、個別に必要な決済サービス認可をすべて代替するものではない |
+| 2025-10-03 | CoinbaseがOCCの国法信託会社免許を申請したと発表 | Coinbaseは明確に「申請」と表現し、銀行になる意図はないと説明した |
 
-この **製品ごとのマルチライセンス** 構造は、いまやグローバルに上場取引所のピアが追随するテンプレートである。Tether のオフショア・アンカー型モデルとの対比 — [[business/paolo-ardoino-tether-business-model-template|Paolo Ardoino Tether business-model template]] を参照 — は鮮明である: Tether が管轄の柔軟性を最適化するのに対し、Coinbase はオンショアの規制対象カウンターパーティの地位を最適化する。
+## 直接上場のメカニズム
 
-### Part 4 · 上場取引所の財務構造
+2021年の目論見書が、上場構造に関する一次記録である。
 
-Coinbase の財務構造に関する公開提出書類の読み (10-K / 10-Q の公開開示による):
+この表の情報源：[Coinbase's Rule 424(b)(4) prospectus](https://www.sec.gov/Archives/edgar/data/1679788/000162828021006850/coinbaseglobalinc424b.htm)
 
-- 主要なラインとしての **取引収益** — 暗号資産市場の活動とともに高度に循環的
-- 反循環的ヘッジとしての **サブスクリプション・サービス収益** (カストディ、USDC 配信のレベニューシェア、ステーキング、ブロックチェーン報酬) — 2022
-以降で大幅に成長
-- 構造的に重要かつ開示された関連契約としての、Circle との **USDC レベニューシェア**
-- **高い営業レバレッジ** — コストベースが高度に変動する収益に対して相対的に固定 → 損益間で四半期ごとに大きな振れ
-
-構造的な教訓は、上場取引所の収益モデルが、純粋なスポット取引手数料では乗り切れない谷の四半期を生き延びるために反循環的ヘッジ (カストディ、ステーブルコイン配信、サブスクリプション) を必要とするということである。ヘッジレイヤー自体が規制パーミタである — カストディはトラストチャーターの地位を要し、ステーブルコイン配信は [[fintech/cftc-sec-crypto-jurisdiction|jurisdictional]] の枠組みが明確であることを要し、ステーキングは SEC が最も多く訴訟対象としてきたラインである。
-
-## 上場取引所のオペレーティングメカニクス上場企業としての Coinbase の日々の運営は、オフショア取引所が直面しないメカニクスをもたらす。そのメカニクス — 10-K のリスク要因とプロキシ開示に表れる — がテンプレートを規定する:
-
-| メカニクス | Coinbase の実装 | 出典 / 開示 |
+| メカニズム | 提出内容 | 推論すべきことではない |
 |---|---|---|
-| 顧客資産の分別 | 顧客の暗号資産は Coinbase カストディ Trust Company, LLC のトラスト口座で保管; 現金預金はカストディ / パススルー取決めにより FDIC 加盟銀行に | 10-K、Coinbase ブログ開示、NYDFS トラストチャーター条件 |
-| 顧客資産の倒産隔離処理 | 開示されたリスク要因 — Coinbase 10-K は、仮定的な破綻シナリオにおいてプラットフォームが保有する顧客の暗号資産が破産財団の財産として扱われうると警告 (Coinbase 2022 10-K) | Coinbase 10-K 提出書類 |
-| 上場判断のフレームワーク | Coinbase は公開上場レビューのフレームワークを公表; トークンは規制上またはオペレーション上のリスクがエスカレートすれば上場廃止の対象 | Coinbase ブログ |
-| SOC レポート | Coinbase は機関顧客に SOC 1 および SOC 2 レポートを公表 (NDA の下) | トラストチャーター・カストディアンの業界標準 |
-| 公開プロキシ / ガバナンス | 年次プロキシを SEC に提出; 二種類株式の議決権構造を開示 | DEF 14A 提出書類 |
-| 監査 | ビッグ4監査法人; PCAOB 登録監査人; 10-K に署名 | 10-K に署名された監査報告書 |
+| 登録された証券 | 登録株主による最大114,850,769株のClass A株式の売出し | Coinbaseが通常のIPOで新株を売り出したとはいえない |
+| 引受 | 投資銀行は売出しを引き受けていない | 通常のブックビルディングや引受人による価格安定操作はなかった |
+| 発行会社の手取金 | Coinbaseは登録株主の売却から手取金を受け取らなかった | 上場自体は新規資本調達ではなかった |
+| 取引市場 | Nasdaq Global Select Market、銘柄COIN | 取引所への上場は、SECによる証券や事業の承認を意味しない |
+| 資本構成 | Class AとClass Bの普通株式が発行済みだった | 議決権支配は、分析対象日に対応する年次報告書または委任状資料で確認する必要がある |
 
-これらのメカニクスの組み合わせこそが、Coinbase が米国機関投資家のバイヤー (銀行、資産運用会社、ファミリーオフィス) へのピッチにおいて、他の暗号資産取引所が並行的なライセンス投資なしには再現できない **規制対象カウンターパーティの地位** を主張することを可能にする。
+構造上の教訓は限定的である。直接上場は、通常の引受方式による新規公開を行わずに、公開市場での流動性とSEC報告会社としての地位を得られる。ただし、市場変動、情報開示、ガバナンス、規制の各リスクはなくならない。
 
-## 創業者 CEO の信念レイヤー
+## 執行記録と読解上の規律
 
-Armstrong の公的姿勢 (公的声明、ブログ投稿、SEC 提出書類、公的な議会証言を通じてのみ可視) は局面を通じて一貫している:
+CoinbaseはSEC訴訟を公開提出書類で開示し、法廷で争った。2025-02-27、SECは訴訟の却下を発表し、次の点も説明した。
 
-- 暗号資産採用への長期的な視野 (2014以来繰り返し公に表明)
-- 静かに和解するのではなく、規制上の問題を公の場で訴訟する意思
-- 公開ロビイング資本 (LD-2 提出書類) と PAC 資本 (FEC 提出書類) を大規模に支出する意思
-- 公開エンゲージメントのモードとしての公開書簡と政策ポジションのブログ投稿
+- 却下は、Crypto Task Forceの政策作業に関連する委員会裁量の行使である；
+- 却下は、主張の本案に対する評価を反映しない；かつ
+- この決定は、別事件におけるSECの立場を示すものではない。
 
-この信念型 CEO の原型は (まったく異なる方向で) Larry Fink と共有される — [[business/larry-fink-blackrock-digital-asset-template|Larry Fink BlackRock digital-asset template]] を参照 — また、複合的な圧力の下でようやく方針転換する遅行型の銀行 CEO とは対照的である ([[business/jamie-dimon-anti-crypto-pivot-case|Jamie Dimon anti-crypto pivot case]] に記録)。VC が支援する取引所エコシステムに影響する三役 COI の構造的リスク — [[business/matt-huang-triple-role-coi-template|Matt Huang triple-role COI template]] を参照 — は、Armstrong の役割には当てはまらない。彼のクラス B 支配は単一役職の CEO であり、複数取締役会・複数ポートフォリオではないからである。
+したがって確認できるのは、上場会社による開示、訴訟、却下という記録上の順序である。裁判所がCoinbaseの全商品を最終的に適法と認めた、またはSECの全理論を退けた、という主張までは支持されない。
 
-[[business/sandeep-nailwal-polygon-india-dpi-pattern|Sandeep Nailwal Polygon India DPI pattern]] に記録されたインド / DPI 政策結合のパターンは地理的な反例である — Coinbase の政策結合は米国にアンカーされ、連邦制定法にアンカーされており、DPI にアンカーされてはいない。
+## 事業および規制範囲
 
-## 戦略的読解
+Coinbaseの年次報告書は、一つの普遍的な「暗号資産免許」ではなく、商品と法域ごとに異なる権限を持つ企業グループを示している。
 
-- **直接上場テンプレートは再現可能だが稀** — Coinbase の選択は、引受人による価格安定化なしに創業者 / VC の売却を吸収できるほど大きな市場を必要とした。より小規模な暗号資産ネイティブ企業は概して従来型 IPO や SPAC 経路に回帰している。
-- **上場企業の地位は規制上のチップ** — 開示された投資家基盤、監査済財務、公開 10-K を持つ上場企業に対する SEC エンフォースメントは、オフショアの無規制エンティティに対するエンフォースメントとは異なる S/N 比で作用する。Armstrong / Coinbase はこの非対称性を戦略的に利用してきた。
-- **上場取引所 = 規制当局と取引所の関係に関するリアルタイムの公開市場相場** — 各 SEC 発表、Wells Notice、FIT21 / GENIUS Act のニュース、または SEC 委員長交代に対する COIN の株価反応は、政策立案者自身が注視する公開市場シグナルである。
-- **マルチライセンス構造は高コストだが不可避** — Coinbase Trust、Coinbase Derivatives、Coinbase Financial Markets、Coinbase Bermuda を並行する規制対象エンティティとして運営するコストは相当だが、それは米国オンショアの規制パーミタ内で大規模に運営するための代価である。
+この表の情報源：[Coinbase's 2025 annual report](https://www.sec.gov/Archives/edgar/data/1679788/000167978826000047/coinbase2025ars.pdf)、[Coinbase's MiCA transition notice](https://help.coinbase.com/en/coinbase/other-topics/other/mica-cblu)、[Coinbase's national trust charter application announcement](https://www.coinbase.com/blog/coinbase-strengthens-commitment-to-innovation-and-oversight-with-national-trust-charter-application)。
 
-## テンプレートの拡散 — 誰がどの部分をコピーしたか
-
-Coinbase のテンプレートは丸ごと再現されてはいない — 各部分が選択的に拡散している:
-
-| テンプレートの部分 | 採用した側 | 採用しなかった側 |
+| 規制上の範囲 | 公表された事業体または状態 | 境界 |
 |---|---|---|
-| 暗号資産 IPO の直接上場経路 | 少数; その後の暗号資産の上場の多くは従来型 IPO、逆さ合併、または SPAC を使用 | 大半 |
-| 製品ごとのマルチライセンス構造 | Robinhood Crypto、Gemini、Paxos — 深度はまちまち | オフショア取引所、予測市場 |
-| SEC との公開対決 | Ripple (XRP 訴訟 2020-2023)、Grayscale (BTC ETF 請願 2022-2024) | VC が支援する暗号資産企業の多くは静かな和解を好む |
-| 公開ロビイング / PAC 支出 | A16Z、Ripple、Coinbase、Kraken — Fairshake への最大の寄付者 | 米国非居住の取引所の大半 |
-| 二種類株式による創業者支配 | Robinhood、Reddit — 暗号資産特有ではないパターン | 従来型 IPO の大半はもはや重い二種類株式構造を使用しない |
-| 公開上場フレームワーク / SOC レポート | 規制対象の米国カストディアンの大半が追随 | オフショア専用プラットフォーム |
-| 政策プラットフォームとしての四半期決算説明会 | Coinbase は決算説明会を規制コメントに用いる点で比較的ユニーク | 取引所の大半は規制に関する発言を別に扱う |
+| 米国プラットフォーム事業 | Coinbase, Inc.；州レベルの権限にはNYDFSの監督も含まれる | 正確な権限と商品提供可否は州と商品により異なる |
+| 米国カストディ | Coinbase Custody Trust Company, LLCは引き続きNYDFSの監督下にある | Coinbaseの2025年OCC提出は申請であり、承認済みの代替免許ではない |
+| EEAの暗号資産サービス | Coinbase Luxembourg S.A.は、LuxembourgのCSSFによるMiCAに基づく承認を受けている | E-moneyサービスは別に規制されているCoinbaseの事業体を通じて継続される |
+| 上場会社報告 | Coinbase Global, Inc.はSECに年次、四半期、臨時、委任状の各報告書を提出する | 報告会社としての地位と商品免許は別である |
 
-このテンプレートの最も特徴的な部分 — **戦略としての SEC との公開対決** — は特定の 2023-2024 の政治的条件に依存しており、定常状態では再現できない可能性がある。他の部分 (マルチライセンス構造、公開上場フレームワーク、SOC レポート) はいまや米国オンショアの規制対象取引所にとって業界標準である。
+したがって、適切な分析単位は「事業体 × 商品 × 法域 × 日付」である。グループのブランド名だけでは、ある商品があらゆる地域で許可されていることを証明できない。
 
-## 地理的拡大と管轄スタック公開提出書類で開示された Coinbase の地理的フットプリントは、単一拠点モデルではなく意図的な **複数管轄の規制対象エンティティスタック** を示す:
+## 提出資料から確認できる収益モデル
 
-| 管轄 | 規制対象エンティティ / 姿勢 | 公的出典 |
+Coinbaseの公表資料では、取引収益とサブスクリプション・サービス収益を別々に記載している。後者は複数の活動を含み、その経済的性質および規制上の扱いが異なるため、単一の継続収益商品として扱うべきではない。
+
+この表の情報源：[Coinbase's 2025 annual report](https://www.sec.gov/Archives/edgar/data/1679788/000167978826000047/coinbase2025ars.pdf)
+
+| 提出書類上の区分 | 上場会社としての主な感応要因 | 確認事項 |
 |---|---|---|
-| 米国 | Coinbase, Inc. + 州資金移動ライセンス + NY BitLicense; Coinbase カストディ Trust (NY); Coinbase Derivatives, LLC (CFTC DCM); Coinbase Financial Markets (FCM) | SEC 10-K、NYDFS 公開登録簿、CFTC DCM リスト |
-| バミューダ | Coinbase Bermuda Limited — BMA の下の Class F Digital Asset Business ライセンス | BMA 公開登録簿、Coinbase ブログ |
-| 英国 | FCA 登録の暗号資産エンティティ (CB Payments Limited / Coinbase Europe Limited の子会社) | FCA 公開登録簿 |
-| EU | MiCA 準備; 一部加盟国における MiCA 前の各国制度登録 | Coinbase ブログ、EU 各国規制当局 |
-| シンガポール | MAS 免除 / DPT ライセンストラック | MAS 公開登録簿 |
-| 日本 | 公的発表によれば、Coinbase は2023 初頭に日本市場から撤退 | Coinbase ブログ |
-| カナダ | Coinbase Canada — 州証券規制当局への事前登録 | CSA 公開登録簿 |
-| ブラジル | 現地登録エンティティ | Coinbase ブログ |
+| 取引収益 | 取引活動、資産構成、価格、および顧客構成 | 高い市場活動期間における収益の集中度はどの程度か？ |
+| サブスクリプションおよびサービス | ステーブルコイン収益、ブロックチェーン報酬、金利および金融手数料収益、カストディ、その他サービス | どの項目が金利に、資産価格に、または承認に依存しているか？ |
+| 事業費 | テクノロジー、取引、販売・マーケティング、総合・管理、およびその他の明示された費用 | どの費用が活動量に比例し、どの費用が相対的に固定されているか？ |
+| 顧客の暗号資産および関連負債 | 保全、開示、法的取扱いに関する前提 | 古い提出書類や一般化された業界主張ではなく、現行の提出書類には何と記載されているか？ |
 
-日本撤退 (2023, 初頭の Coinbase ブログ投稿で市場環境を理由に発表) は、それ自体が示唆的なデータポイントである — 十分に資本を備えた上場取引所テンプレートでさえ、より出来高の多い規制対象の管轄に留まりつつ、Coinbase が必要とする規模で [[exchanges/jp-listed-cex-related-companies-matrix|Japanese VASP framework]] を独立した事業セグメントとして成り立たせることはできなかった。
+## どのようなケースが支持されているか
 
-**複数拠点の規制対象エンティティスタック** は維持に高コストであり (法務、コンプライアンス、資本、監査が管轄ごとに重複)、それ自体が、これを賄う上場企業のバランスシートを持たない新規参入者に対する堀となる。
+- 直接上場と従来のIPOは異なる取引構造である。
+- 公開提出書類により、上場の仕組み、収益区分、リスク要因、執行上の節目を確認できる。
+- 暗号資産プラットフォームは、カストディ、取引、デリバティブ、決済、および地理的配布といった分野が一つの許可を共有しないため、複数の規制対象機関を必要とする可能性がある。
+- 執行処分の却下は、規制当局が明示した根拠および法的立場に基づいて記載されるべきである。
+- 免許申請は、所管当局が認可するまで審査中のままである。
 
-## 関連項目
+## どのような事実を確立していないか
+
+- その公会社地位が、プラットフォームを執行から免れるものであるという主張；
+- 2025年の却下が、すべての上場資産やサービスの法的分類を解決したという主張；
+- すべてのCoinbase顧客が同一の事業者と契約しているという主張；
+- Coinbaseが銀行であるという主張；または
+- 別個の証拠なしに、政治献金、市場反応、規制当局へのアクセスが訴訟結果をもたらしたという主張。
+
+## 再利用可能なレビューチェックリスト
+
+このチェックリスト表の情報源：[Coinbase's SEC filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001679788)、[SEC dismissal release](https://www.sec.gov/newsroom/press-releases/2025-47)、およびCoinbaseの[MiCA transition notice](https://help.coinbase.com/en/coinbase/other-topics/other/mica-cblu)。
+
+| 質問 | 優先的な証拠 |
+|---|---|
+| 上場はIPO、直接上場、SPAC、または逆合併であったか？ | 最終目論見書および株式交換の通知 |
+| 発行会社または売出株主が手取金を受け取ったか？ | 目論見書の表紙および売出計画 |
+| 執行事案は、申立て、判決、和解、却下のどの段階か？ | 訴状、裁判所命令、規制当局の発表 |
+| 許可は承認された、申請された、または単に計画されたか？ | 規制当局の登録または日付付き会社通知にステータス語が含まれているか |
+| どの事業体が顧客にサービスを提供しているか？ | 現在の利用契約、年次報告書、および法的管轄地域の通知 |
+| どの収益源が議論されているか？ | 現在の年次または四半期報告書および会計備考 |
+
+## 関連
 
 - [[business/INDEX|business INDEX]]
-- [[business/jamie-dimon-anti-crypto-pivot-case|Jamie Dimon anti-crypto pivot case]]
-- [[business/larry-fink-blackrock-digital-asset-template|Larry Fink BlackRock digital-asset template]]
-- [[business/matt-huang-triple-role-coi-template|Matt Huang triple-role COI template]]
-- [[business/paolo-ardoino-tether-business-model-template|Paolo Ardoino Tether business-model template]]
-- [[business/hester-peirce-sec-regulatory-pivot-case|Hester Peirce SEC regulatory pivot case]]
-- [[business/sandeep-nailwal-polygon-india-dpi-pattern|Sandeep Nailwal Polygon India DPI pattern]]
+- [[business/cz-binance-founder-handoff-case|CZ / Binance founder-handoff case]]
+- [[business/founder-pivot-outcome-template-matrix|founder / executive transition matrix]]
+- [[business/larry-fink-blackrock-digital-asset-template|Larry Fink / BlackRock digital-asset case]]
 - [[exchanges/INDEX|exchanges INDEX]]
 - [[exchanges/us-crypto-licensing-multi-layer-system|US crypto licensing multi-layer system]]
-- [[exchanges/jp-listed-cex-related-companies-matrix|JP listed CEX-related companies matrix]]
 - [[fintech/cftc-sec-crypto-jurisdiction|CFTC / SEC crypto jurisdiction]]
 - [[INDEX|FinWiki index]]
 
 ## 出典
 
-- Coinbase Global, Inc. SEC EDGAR 提出書類 (CIK 0001679788) — S-1, 10-K、10-Q、8-K を含む: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001679788
-- Coinbase Investor Relations: https://investor.coinbase.com/
-- Coinbase 公式ブログ (公開投稿): https://www.coinbase.com/blog
-- SEC 訴訟リリース: https://www.sec.gov/litigation/litreleases.htm
-- 米国上院ロビイング開示法データベース (LD-2 提出書類): https://lda.senate.gov/
-- Fairshake PAC に関する FEC 公開記録 (fec.gov で公に検索可能)
-- FIT21 / GENIUS Act に関する米国議会公聴会記録 (下院金融サービス委員会および下院農業委員会の公聴会)
+- Coinbase Global, Inc., 2021 prospectus: https://www.sec.gov/Archives/edgar/data/1679788/000162828021006850/coinbaseglobalinc424b.htm
+- Coinbase Global, Inc., 2025 annual report: https://www.sec.gov/Archives/edgar/data/1679788/000167978826000047/coinbase2025ars.pdf
+- SEC, dismissal of civil enforcement action against Coinbase, 2025-02-27: https://www.sec.gov/newsroom/press-releases/2025-47
+- Coinbase, MiCA authorization and service transition: https://help.coinbase.com/en/coinbase/other-topics/other/mica-cblu
+- Coinbase, national trust charter application, 2025-10-03: https://www.coinbase.com/blog/coinbase-strengthens-commitment-to-innovation-and-oversight-with-national-trust-charter-application

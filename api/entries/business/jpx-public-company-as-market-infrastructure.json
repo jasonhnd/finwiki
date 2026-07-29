@@ -11,10 +11,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/business/jpx-public-company-as-market-infrastructure.md",
   "raw_markdown_url": "https://finwiki.zksc.io/business/jpx-public-company-as-market-infrastructure.md",
   "domain": "business",
-  "title": "Japan Exchange Group (JPX 8697) — listed exchange operator as market infrastructure",
+  "title": "Japan Exchange Group (JPX 8697) — listed company operating regulated market infrastructure",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Japan Exchange Group (JPX 8697) — listed exchange operator as market infrastructure",
+    "title": "Japan Exchange Group (JPX 8697) — listed company operating regulated market infrastructure",
     "aliases": [
       "jpx-public-company-as-market-infrastructure",
       "JPX public company case",
@@ -25,10 +25,10 @@
     "domain": "business",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
-    "confidence": "likely",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
+    "confidence": "certain",
     "tags": [
       "business",
       "case-study",
@@ -43,59 +43,50 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.jpx.co.jp/english/corporate/about-jpx/",
-      "https://www.jpx.co.jp/english/corporate/investor-relations/",
-      "https://www.jpx.co.jp/english/news/",
-      "https://www.fsa.go.jp/en/",
-      "https://ir.theice.com/"
+      "https://www.jpx.co.jp/english/corporate/about-jpx/business/",
+      "https://www.jpx.co.jp/english/corporate/about-jpx/history/",
+      "https://www.jpx.co.jp/english/corporate/about-jpx/organization/",
+      "https://www.jpx.co.jp/english/corporate/investor-relations/ir-library/integrated-report/tvdivq0000008t9q-att/JPXReport2025_A3.pdf",
+      "https://www.jpx.co.jp/english/corporate/news/news-releases/0060/20201019-01.html",
+      "https://www.fsa.go.jp/en/laws_regulations/index.html"
     ]
   },
-  "summary": "This entry sits under business INDEX as a public-company strategic case. Read it against Brian Armstrong Coinbase exchange-as-public-company template for the crypto-native parallel, GMO Internet Group for an internet-infrastructure-to-finance parallel, and securities INDEX / Japan market infrastruct",
+  "summary": "This entry sits under business INDEX as a listed market-infrastructure case. Compare its listed-company structure with the Japan listed-company restructuring matrix, then read it with Japan market infrastructure map, Tokyo Stock Exchange, Osaka Exchange, and Japan Securities Clearing Corporation.",
   "headings": [
-    "Japan Exchange Group (JPX 8697) — listed exchange operator as market infrastructure",
+    "Japan Exchange Group (JPX 8697) — listed company operating regulated market infrastructure",
     "Wiki route",
     "TL;DR",
-    "1. Group Structure",
-    "2. The 2013 TSE-OSE Merger — Strategic Rationale",
-    "3. Business Mix",
-    "4. Comparison With Global Listed Exchange Operators",
-    "5. The Regulator-Utility-Public-Company Tension",
-    "6. Read-Across To Crypto-Native Exchanges",
-    "7. Strategic Pattern"
+    "1. Current group map",
+    "2. Formation and expansion",
+    "3. Business model and revenue categories",
+    "4. Function and accountability map",
+    "5. 2020 cash-equity system failure",
+    "6. Listed-company reading",
+    "7. Monitoring points"
   ],
   "body_links": {
-    "wikilinks_count": 15,
+    "wikilinks_count": 10,
     "wikilinks": [
       "INDEX",
       "business/INDEX",
-      "business/brian-armstrong-coinbase-public-company-template",
-      "business/cz-binance-founder-handoff-case",
-      "business/gmo-internet-group",
-      "exchanges/INDEX",
-      "securities/INDEX",
-      "securities/japan-ipo-listing-disclosure-route",
+      "business/japan-listed-corp-strategic-restructuring-matrix",
+      "financial-regulators/japan-exchange-group",
       "securities/japan-market-infrastructure-map",
       "securities/japan-pts-liquidity-data-guide",
       "securities/japan-securities-clearing-corp",
       "securities/japan-securities-depository-center",
-      "securities/odx-start-stb-secondary-market",
       "securities/osaka-exchange",
       "securities/tokyo-stock-exchange"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX.md",
       "https://finwiki.zksc.io/ja/domains/business/",
-      "https://finwiki.zksc.io/ja/business/brian-armstrong-coinbase-public-company-template/",
-      "https://finwiki.zksc.io/ja/business/cz-binance-founder-handoff-case/",
-      "https://finwiki.zksc.io/ja/business/gmo-internet-group/",
-      "https://finwiki.zksc.io/ja/domains/exchanges/",
-      "https://finwiki.zksc.io/ja/domains/securities/",
-      "https://finwiki.zksc.io/ja/securities/japan-ipo-listing-disclosure-route/",
+      "https://finwiki.zksc.io/ja/business/japan-listed-corp-strategic-restructuring-matrix/",
+      "https://finwiki.zksc.io/ja/financial-regulators/japan-exchange-group/",
       "https://finwiki.zksc.io/ja/securities/japan-market-infrastructure-map/",
       "https://finwiki.zksc.io/ja/securities/japan-pts-liquidity-data-guide/",
       "https://finwiki.zksc.io/ja/securities/japan-securities-clearing-corp/",
       "https://finwiki.zksc.io/ja/securities/japan-securities-depository-center/",
-      "https://finwiki.zksc.io/ja/securities/odx-start-stb-secondary-market/",
       "https://finwiki.zksc.io/ja/securities/osaka-exchange/",
       "https://finwiki.zksc.io/ja/securities/tokyo-stock-exchange/"
     ],
@@ -103,9 +94,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 10733,
-    "word_like_tokens": 1652,
-    "inbound_wikilinks_count": 1,
-    "last_modified": "2026-05-25"
+    "nonspace_chars": 10784,
+    "word_like_tokens": 1635,
+    "inbound_wikilinks_count": 0,
+    "last_modified": "2026-07-29"
   }
 }

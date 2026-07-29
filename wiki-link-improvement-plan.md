@@ -50,7 +50,7 @@
 | `agent-economy` | 47 | 0 | 12.7 |
 | `asset-managers` | 15 | 0 | 15.9 |
 | `banking` | 40 | 0 | 35.4 |
-| `business` | 25 | 0 | 20.0 |
+| `business` | 25 | 0 | 8.0 |
 | `card-issuers` | 24 | 0 | 16.5 |
 | `consumer-finance` | 6 | 0 | 15.3 |
 | `control` | 1 | 0 | 207.0 |
@@ -60,7 +60,7 @@
 | `control-mirror` | 1 | 0 | 24.0 |
 | `control-proposal` | 1 | 0 | 4.0 |
 | `cooperative-banks` | 46 | 0 | 13.2 |
-| `corporate-strategy` | 11 | 0 | 19.2 |
+| `corporate-strategy` | 11 | 0 | 18.7 |
 | `derivatives` | 33 | 0 | 20.8 |
 | `exchanges` | 147 | 0 | 12.8 |
 | `finance` | 27 | 0 | 23.0 |
@@ -84,7 +84,7 @@
 | `policy-finance` | 35 | 0 | 27.1 |
 | `real-estate-finance` | 28 | 0 | 24.6 |
 | `regional-banks` | 136 | 0 | 13.9 |
-| `retail` | 11 | 0 | 23.0 |
+| `retail` | 11 | 0 | 10.0 |
 | `root` | 1 | 0 | 46.0 |
 | `securities` | 33 | 0 | 32.1 |
 | `securities-firms` | 37 | 0 | 18.5 |

@@ -8,12 +8,12 @@ FinWiki は、金融、決済、ステーブルコイン、暗号資産、資本
 
 | Metric | Current snapshot | Notes |
 |---|---:|---|
-| Markdown files | 1602 | Public corpus, control docs, templates, and release notes |
+| Markdown files | 1603 | Public corpus, control docs, templates, and release notes |
 | Topical domains | 40 | Domain directories listed in [INDEX.md](INDEX.md) |
 | Link-audited entries | 1489 | Entries checked by `tools/wiki_link_audit.ts` |
 | Unresolved link issues | 0 | Must stay at zero before release |
-| Text volume | 約1103万字 | Markdown 全体の空白除外 UTF-8 文字数（約 11,031,781） |
-| Word-like tokens | 約178万 | English / CJK mixed corpus の近似 token count |
+| Text volume | 約1098万字 | Markdown 全体の空白除外 UTF-8 文字数（約 10,976,869） |
+| Word-like tokens | 約177万 | English / CJK mixed corpus の近似 token count |
 
 ### 入口
 
@@ -58,6 +58,7 @@ FinWiki は、金融、決済、ステーブルコイン、暗号資産、資本
 27. 地域銀行・小売金融・証券会社の content review では、現法人と前身、設立と営業開始、上場市場、親会社・議決権、登録番号、本店所在地、将来予定の商号変更を別々に確認します。将来日が付いた取引・組織再編・改称は完了済みと扱わず、会社概要、沿革、規制当局・取引所資料、当事者の適時開示を優先します。
 28. table provenance の content review では、遠い source inventory や generic marker で unsupported table を cover しません。公開仕様・法令・registry・公式開示で architecture、責任境界、動的指標を区別し、未開示の TVL、validator 数、保険額、採用・順位、固定 fee / latency を確定値から除外します。一つの source set が table 全体を支える場合だけ scoped lead / caption / footer を使い、根拠が行ごとに異なる場合は row-level marker / direct public link を維持し、ja / en mirrors を同じ作業で同期します。
 29. mirror の一括同期では、source-language body を完全一致させ、翻訳側は Markdown shape、wikilink target、URL、provenance marker、金額・比率の意味を照合します。`million` / `billion` / `trillion` と 万 / 億 / 兆 の変換は数量級で検証し、`i18n:status` の stale / orphaned / missing / needs-review をすべて 0 にしてから公開します。
+30. 企業戦略・組織再編・小売金融の table review では、完了済み、予定、条件付きの状態を分離し、所有、議決権、連結、持分法、商品提供、販売チャネルを同一視しません。会社法上の手続と税務上の適格 / 非適格判断は別々に公式一次資料へ結び、単一比率や対価だけで支配・税務結果を断定しません。mirror は heading / table に加えて list marker と blockquote shape、否定・条件表現も検証します。
 
 ### 検証
 
@@ -78,12 +79,12 @@ FinWiki is a public Markdown knowledge base covering finance, payments, stableco
 
 | Metric | Current snapshot | Notes |
 |---|---:|---|
-| Markdown files | 1602 | Public corpus, control docs, templates, and release notes |
+| Markdown files | 1603 | Public corpus, control docs, templates, and release notes |
 | Topical domains | 40 | Domain directories listed in [INDEX.md](INDEX.md) |
 | Link-audited entries | 1489 | Entries checked by `tools/wiki_link_audit.ts` |
 | Unresolved link issues | 0 | Must stay at zero before release |
-| Text volume | ~11.03M chars | ~11,031,781 non-space UTF-8 characters across Markdown |
-| Word-like tokens | ~1.78M | Approximate English / CJK mixed-corpus token count |
+| Text volume | ~10.98M chars | ~10,976,869 non-space UTF-8 characters across Markdown |
+| Word-like tokens | ~1.77M | Approximate English / CJK mixed-corpus token count |
 
 ### Entrances
 
@@ -128,6 +129,7 @@ FinWiki is a public Markdown knowledge base covering finance, payments, stableco
 27. Content review for regional banks, retail finance, and securities firms verifies the current entity versus its predecessors, incorporation versus business launch, listing venue, parent and voting rights, registration number, head-office location, and future trade-name changes as separate facts. A dated transaction, reorganization, or rename is not treated as completed before its effective date; prefer corporate profiles and histories, regulator and exchange records, and issuer disclosures.
 28. Table-provenance content review does not cover an unsupported table with a distant source inventory or generic marker. Distinguish architecture, responsibility boundaries, and dynamic metrics using public specifications, laws, registries, and official disclosures; remove undisclosed TVL, validator counts, insurance amounts, adoption / ranking, and fixed fee / latency from definitive values. Use a scoped lead / caption / footer only when one source set supports the whole table, retain row-level markers / direct public links when evidence differs by row, and synchronize ja/en mirrors in the same work unit.
 29. Bulk mirror synchronization keeps the source-language body byte-equivalent and checks the translated side for Markdown shape, wikilink targets, URLs, provenance markers, and the semantic value of amounts and ratios. Validate `million` / `billion` / `trillion` conversions against 万 / 億 / 兆 by order of magnitude, and publish only after `i18n:status` reports zero stale, orphaned, missing, and needs-review mirrors.
+30. Table review for corporate strategy, reorganizations, and retail finance separates completed, scheduled, and conditional states and does not collapse ownership, voting rights, consolidation, equity-method accounting, product provision, and distribution channels into one relationship. Tie Companies Act procedure and qualified / non-qualified tax analysis separately to official primary sources; a single percentage or consideration form does not determine control or tax outcome. Mirror validation also checks list markers, blockquote shape, negation, and conditional language.
 
 ### Validation
 
@@ -148,12 +150,12 @@ FinWiki 是一个公开 Markdown 知识库，覆盖金融、支付、稳定币�
 
 | Metric | Current snapshot | Notes |
 |---|---:|---|
-| Markdown files | 1602 | 公开 corpus、控制文档、模板与 release notes |
+| Markdown files | 1603 | 公开 corpus、控制文档、模板与 release notes |
 | Topical domains | 40 | [INDEX.md](INDEX.md) 中列出的领域目录 |
 | Link-audited entries | 1489 | 经 `tools/wiki_link_audit.ts` 检查的条目 |
 | Unresolved link issues | 0 | 发布前必须保持为零 |
-| Text volume | 约1103万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 11,031,781） |
-| Word-like tokens | 约178万 | English / CJK mixed corpus 的近似 token count |
+| Text volume | 约1098万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 10,976,869） |
+| Word-like tokens | 约177万 | English / CJK mixed corpus 的近似 token count |
 
 ### 入口
 
@@ -198,6 +200,7 @@ FinWiki 是一个公开 Markdown 知识库，覆盖金融、支付、稳定币�
 27. 复核区域银行、零售金融与证券公司时，必须把现行法人和前身、设立与开业、上市市场、母公司与表决权、登记编号、总部所在地、未来商号变更视为独立事实逐项核实。带未来生效日的交易、重组或更名不得提前写成已完成；优先使用公司概要与沿革、监管/交易所资料和当事方公告。
 28. 复核 table provenance 时，不得用远处的 source inventory 或 generic marker 覆盖 unsupported table。必须依照公开规范、法律、registry 与官方披露区分 architecture、责任边界和动态指标，并从确定值中删除未披露的 TVL、validator 数量、保险金额、adoption / ranking 与固定 fee / latency。只有同一组资料支持整张表时才使用 scoped lead / caption / footer；各行证据不同时保留 row-level marker / direct public link，并在同一工作单元同步 ja / en mirrors。
 29. 批量同步 mirror 时，source-language body 必须完全一致；翻译侧必须检查 Markdown shape、wikilink target、URL、provenance marker，以及金额和比例的语义值。`million` / `billion` / `trillion` 与 万 / 亿 / 兆 的换算必须按数量级验证，并在 `i18n:status` 的 stale / orphaned / missing / needs-review 全部为 0 后才发布。
+30. 复核企业战略、组织重组与零售金融表格时，必须分离已完成、计划中和附条件状态，不得把所有权、表决权、合并范围、权益法、产品提供与销售渠道混为一种关系。公司法程序与税务适格 / 非适格判断必须分别连接官方一手资料，不能凭单一比例或对价形式断定控制权或税务结果。mirror 还必须验证 list marker、blockquote shape、否定和条件表达。
 
 ### 验证
 

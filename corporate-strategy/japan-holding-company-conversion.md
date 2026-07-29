@@ -11,9 +11,9 @@ aliases:
   - "抜け殻方式"
 domain: "corporate-strategy"
 created: 2026-06-03
-last_updated: 2026-06-03
-last_tended: 2026-06-03
-review_by: 2026-12-03
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
 confidence: likely
 tags: [corporate-strategy, holding-company, restructuring, tax, japan, group-structure]
 status: active
@@ -58,6 +58,8 @@ Because Japan **lifted the post-war ban on pure holding companies in 1997** (Ant
 | Strengths | Clean group governance, neutral capital allocator, flexible bolt-on M&A | Lower setup cost; no new top entity needed |
 | Trade-offs | New entity, group-relief / consolidated-tax considerations, dividend-only cash flow | Conflicts of interest between the parent's own business and group oversight |
 
+Sources: “pure” and “operating” are functional descriptions used by the JFTC and in Japanese corporate-law policy materials. Strengths and trade-offs are analytical considerations, not statutory outcomes or recommendations for a particular group. ^[Sources: https://www.jftc.go.jp/dk/guideline/unyoukijun/holding.html; https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/.]
+
 The pure-HoldCo model is favored where the group wants a **neutral apex** that allocates capital across competing operating subsidiaries without favoring any one — a recurring theme in the strategic-restructuring cases collected in [[business/japan-listed-corp-strategic-restructuring-matrix|the listed-corp strategic-restructuring matrix]].
 
 ## 2. The Three Conversion Methods
@@ -78,7 +80,7 @@ Where the intended HoldCo (or acquirer) **already exists**, a [[corporate-strate
 
 The original company performs a [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|新設分割]] (or 吸収分割), transferring **all** of its operating business into a newly created (or existing) subsidiary. The **original legal entity stays at the top as the HoldCo**, now holding only the shares of the operating subsidiary — an "empty husk" (抜け殻).
 
-- **Key advantage**: the apex entity is **unchanged**, so its stock-exchange listing, regulatory licenses, contracts, and corporate history all remain at the HoldCo level without a re-listing event.
+- **Key boundary**: the apex entity is **unchanged**, but permits, contracts, employees, and other rights attached to the transferred business still require transaction-specific review; 会社分割 does not make every sector approval portable.
 - **Employee transfer**: because this uses 会社分割, employment contracts transfer **automatically** under 労働契約承継法 (with the statutory consultation procedure) — the succession mechanics detailed in [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|the 会社分割 regime]].
 - **Trade-off**: the split must satisfy 適格 tests to be tax-deferred, and the creditor-protection / employee-consultation timeline applies.
 
@@ -91,6 +93,8 @@ The original company performs a [[corporate-strategy/japan-kaisha-bunkatsu-tax-r
 | Future parent already exists; absorb a target to 100% | **株式交換** | Points the existing company upward over the target |
 | Two firms combine under one neutral parent | **株式移転 (joint)** | Parallel transfers into a single new HoldCo (merger-of-equals) |
 | Partial control only (not 100%) — *not* a full HoldCo conversion | **株式交付** | See [[corporate-strategy/kabushiki-koufu-stock-distribution-regime|株式交付 regime]]; stops below 100% |
+
+Sources: this matrix maps the legal outcomes of 株式移転, 株式交換, 会社分割, and 株式交付 under the Companies Act. “Best method” means the closest structural match in this simplified decision aid; tax qualification, exchange treatment, permits, creditor rights, and sector approvals must be assessed separately. ^[Sources: https://laws.e-gov.go.jp/document?lawid=417AC0000000086; https://www.mof.go.jp/tax_policy/summary/corporation/c06.htm.]
 
 ## 4. Tax Layer — 適格 Treatment Carries Through
 

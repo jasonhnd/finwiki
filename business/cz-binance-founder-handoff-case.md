@@ -1,184 +1,124 @@
 ---
-title: "Changpeng Zhao (CZ) Binance founder-handoff case — DOJ $4.3bn settlement + step-down + Richard Teng CEO appointment + retained ownership"
+title: "Changpeng Zhao / Binance founder-handoff case — 2023 US resolution and later case status"
 aliases:
   - "cz-binance-founder-handoff-case"
   - "CZ Binance handoff"
   - "Binance founder transition 2023"
-  - "Richard Teng Binance CEO appointment"
-  - "Binance DOJ settlement case"
-domain: "business"
+  - "Binance DOJ resolution"
+domain: business
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
-confidence: likely
-tags: [business, case-study, binance, cz, doj, settlement, founder-handoff, governance, crypto]
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
+confidence: high
+tags: [business, case-study, binance, cz, doj, settlement, founder-handoff, compliance]
 status: active
 sources:
-  - "https://www.binance.com/en/news"
+  - "https://www.justice.gov/criminal/case/united-states-v-changpeng-zhao"
   - "https://www.justice.gov/opa/pr/binance-and-ceo-plead-guilty-federal-charges-4b-resolution"
   - "https://home.treasury.gov/news/press-releases/jy1925"
-  - "https://www.cnbc.com/binance/"
-  - "https://www.sec.gov/files/litigation/complaints/2023/comp-pr2023-101.pdf"
+  - "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26316"
+  - "https://www.justice.gov/pardon/clemency-grants-president-donald-j-trump-2025-present"
 ---
 
-# Changpeng Zhao (CZ) Binance founder-handoff case — DOJ $4.3bn settlement + step-down + Richard Teng CEO appointment + retained ownership
+# Changpeng Zhao / Binance founder-handoff case
 
-## Wiki route
+## Scope
 
-This entry sits under [[business/INDEX|business INDEX]] as a public people-case study (note: Binance is privately held, but the founder transition is a public-record case). Read it against [[business/brian-armstrong-coinbase-public-company-template|Brian Armstrong Coinbase exchange-as-public-company template]] for the contrasting US-listed-incumbent path, [[business/jamie-dimon-anti-crypto-pivot-case|Jamie Dimon anti-crypto pivot case]] for an incumbent-bank-CEO posture-shift parallel, and [[business/hester-peirce-sec-regulatory-pivot-case|Hester Peirce SEC regulatory pivot]] for the US regulator-side context. Pair with [[exchanges/INDEX|exchanges INDEX]] for global CEX comparison.
+This page records the public US enforcement and leadership-transition sequence involving Binance and founder Changpeng Zhao (“CZ”). It distinguishes the criminal and Treasury resolutions from the separate SEC civil case, and it does not infer undisclosed ownership, informal control, or private governance arrangements.
 
-## TL;DR
+The entry sits under [[business/INDEX|business INDEX]]. Read it with [[business/brian-armstrong-coinbase-public-company-template|Brian Armstrong / Coinbase public-company case]], [[business/founder-pivot-outcome-template-matrix|founder / executive transition matrix]], and [[exchanges/us-crypto-licensing-multi-layer-system|US crypto licensing multi-layer system]].
 
-Changpeng Zhao's (CZ) **2023-11-21 plea agreement and step-down from Binance CEO** marks the canonical case of a **founder-CEO settling with the DOJ on personal criminal charges, retaining ownership of the operating entity, and handing operational control to a new CEO drawn from regulator-friendly leadership**. The deal: $4.3bn settlement (Binance) + $50mn personal penalty (CZ) + plead guilty to BSA / AML violations + step down as CEO + Richard Teng (formerly Abu Dhabi Global Market regulator) takes CEO + four-month CZ prison sentence (sentenced 2024-04, served and released by late 2024). Critically, CZ **retained majority ownership** of Binance and influence over strategic direction while transferring operational control.
+## Verified timeline
 
-This is a template for "founder of a sanctioned exchange handoff" — separable from outright collapse cases like [[business/founder-pivot-outcome-template-matrix|FTX / Bankman-Fried failure pattern]] referenced in the founder pivot matrix. The case demonstrates a viable path where the entity survives the regulatory action and the founder remains an economic principal even while losing legal-officer status.
+Sources for the following table: the [DOJ case page for United States v. Changpeng Zhao](https://www.justice.gov/criminal/case/united-states-v-changpeng-zhao), the [DOJ resolution announcement](https://www.justice.gov/opa/pr/binance-and-ceo-plead-guilty-federal-charges-4b-resolution), the [SEC dismissal release](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26316), and the [DOJ clemency register](https://www.justice.gov/pardon/clemency-grants-president-donald-j-trump-2025-present).
 
-## 1. Pre-Settlement Position
-
-| Element | Pre-2023-11 status |
-|---|---|
-| CZ role | Founder + CEO + majority owner (Binance) |
-| Binance position | #1 global crypto exchange by spot + derivatives volume |
-| Regulatory exposure | Multi-year DOJ + FinCEN + OFAC investigations (BSA / AML / sanctions) |
-| Operational HQ | Long debated; effectively non-jurisdictional |
-| Personal residence | UAE (Dubai), publicly reported |
-| US presence | Binance.US (separate entity, also subject to SEC scrutiny) |
-
-The cumulative pressure built across 2021-2023 with parallel SEC, CFTC, and DOJ matters, culminating in the November 2023 resolution.
-
-## 2. The November 2023 Settlement Architecture
-
-The 2023-11-21 announcement combined parallel resolutions:
-
-| Authority | Action | Amount / consequence |
+| Date | Event | Legal or evidentiary status |
 |---|---|---|
-| **DOJ** | Binance pleads guilty (BSA / AML / sanctions violations) | $4.3bn total settlement |
-| **DOJ** | CZ pleads guilty personally (BSA Section 1956) | $50mn personal penalty + step down as CEO |
-| **FinCEN** | Civil money penalty | (included in $4.3bn total) |
-| **OFAC** | Civil sanctions settlement | (included in $4.3bn total) |
-| **CFTC** | Earlier civil resolution | (separate) |
-| **SEC** | Civil case continued separately (not part of 2023-11 deal) | Pending litigation |
+| 2023-11-21 | CZ pleaded guilty to violating the Bank Secrecy Act by causing Binance to fail to maintain an effective anti-money-laundering program | Criminal guilty plea; not a plea under 18 U.S.C. § 1956 |
+| 2023-11-21 | Binance pleaded guilty to charges involving the Bank Secrecy Act, failure to register as a money-transmitting business, and the International Emergency Economic Powers Act | Part of a coordinated resolution exceeding $4 billion |
+| 2023-11-21 | CZ resigned as Binance CEO | Publicly announced leadership consequence of the resolution |
+| 2024-04-30 | CZ was sentenced to four months in prison and a $50 million fine | Sentence reported on DOJ's case record |
+| 2025-05-29 | SEC voluntarily dismissed its separate civil action against Binance entities and CZ | Dismissed with prejudice by joint stipulation; separate from the 2023 criminal and Treasury resolutions |
+| 2025-10-21 | CZ received a full and unconditional presidential pardon | Recorded in the DOJ clemency register; the historical plea and sentence remain part of the public chronology |
 
-Total $4.3bn was at the time the largest financial-sanction settlement against a crypto firm in US history. The settlement required Binance to install a US-government-approved compliance monitor for multi-year period and exit certain businesses / regions.
+## Coordinated 2023 resolution
 
-## 3. The Founder-Handoff Mechanism
+The 2023 actions involved several authorities and overlapping payment or credit mechanics. Amounts should therefore be taken from each authority's own release rather than added together as independent totals.
 
-The handoff was structured deliberately:
+Sources for the following table: the [DOJ resolution announcement](https://www.justice.gov/opa/pr/binance-and-ceo-plead-guilty-federal-charges-4b-resolution) and the [US Treasury resolution announcement](https://home.treasury.gov/news/press-releases/jy1925).
 
-1. **CZ pleads guilty** — accepts personal criminal liability, avoiding extended trial risk
-2. **Steps down as CEO** — required by settlement; removes officer-level liability path forward
-3. **Retains ownership** — settlement did not require divestiture of CZ's economic interest in Binance
-4. **Successor pre-named** — Richard Teng appointed CEO simultaneously, providing continuity and regulator-friendly credentials
-5. **Compliance overhaul** — Binance commits to US-approved monitor and structural compliance changes
-6. **Geographic / business reshape** — Binance exits some markets, restructures others
-7. **Personal sentence** — 2024-04, CZ sentenced to 4 months in US federal prison (consistent with DOJ recommendation range)
+| Authority | Public action | Recorded consequence |
+|---|---|---|
+| DOJ | Criminal resolutions with Binance and CZ | Binance's resolution exceeded $4 billion; CZ agreed to a $50 million criminal fine and resigned as CEO |
+| FinCEN | Civil settlement concerning Bank Secrecy Act and anti-money-laundering failures | Treasury announced a $3.4 billion penalty with crediting and payment terms described in the settlement |
+| OFAC | Civil settlement concerning apparent sanctions violations | Treasury announced a $968 million settlement with crediting and payment terms described in the settlement |
+| Compliance oversight | Remediation, reporting, lookback, and monitor requirements | The exact term and scope differ by agreement and authority |
 
-By **retaining ownership while ceding operational control**, CZ preserved long-term economic upside while the entity continued to operate.
+The central governance fact is limited but important: a founder-CEO resigned while the operating group continued under a successor. The public resolution does not by itself prove what ownership percentage CZ held later or what informal influence he retained.
 
-## 4. Richard Teng — Regulator-To-CEO Credential
+## Separate SEC civil case
 
-Richard Teng's profile mattered for the handoff's success:
+The SEC's 2023 civil case was not part of CZ's criminal guilty plea. On 2025-05-29, the SEC announced that it had filed a joint stipulation dismissing the civil action against Binance Holdings Limited, BAM Trading Services Inc., BAM Management US Holdings Inc., and CZ with prejudice.
 
-| Career segment | Role |
+Sources for the following comparison table: the [SEC's 2025 litigation release](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26316) and the [DOJ's 2023 resolution release](https://www.justice.gov/opa/pr/binance-and-ceo-plead-guilty-federal-charges-4b-resolution).
+
+| Matter | Nature | Outcome captured here |
+|---|---|---|
+| DOJ criminal case against CZ | Bank Secrecy Act criminal charge | Guilty plea, sentence, fine, later presidential pardon |
+| DOJ criminal case against Binance | Criminal charges involving BSA, money-transmission registration, and sanctions law | Guilty plea and corporate resolution |
+| Treasury actions | FinCEN and OFAC civil enforcement | Settlements, penalties, and compliance undertakings |
+| SEC v. Binance et al. | Separate securities-law civil action | Dismissed with prejudice in 2025 |
+
+Dismissal of the SEC case did not cancel the distinct DOJ and Treasury resolutions. Likewise, the criminal resolution did not decide the merits of the later-dismissed SEC claims.
+
+## Leadership handoff: what is documented
+
+Sources for the following table: the [DOJ resolution announcement](https://www.justice.gov/opa/pr/binance-and-ceo-plead-guilty-federal-charges-4b-resolution) and Binance's public announcement naming Richard Teng as CEO, linked from its [official news archive](https://www.binance.com/en/support/announcement).
+
+| Question | Publicly documented answer | Boundary |
+|---|---|---|
+| Did CZ leave the CEO role? | Yes, he resigned in November 2023 | This does not establish a complete separation from every economic interest |
+| Was a successor named? | Binance publicly named Richard Teng as CEO | Binance is privately held, so public governance disclosure is less extensive than a listed issuer's |
+| Did Binance cease operating? | No; the resolutions were structured around continued operation subject to payment and compliance obligations | Continued operation does not imply that every jurisdiction permits every Binance service |
+| Did the 2025 pardon reverse the CEO transition? | No such reversal is established by the cited public records | Do not infer a role change without a dated company announcement |
+
+## Analytical lessons
+
+- Separate criminal, civil, sanctions, and securities-law matters before summarizing an enforcement event.
+- Do not combine penalty headlines without checking credits, forfeiture, and overlap across agreements.
+- A founder resignation and a transfer of ownership are different events.
+- Privately held exchanges provide less standardized governance evidence than SEC-reporting issuers.
+- A later dismissal or pardon must be added to the chronology without rewriting the status of distinct proceedings.
+
+## Reusable review checklist
+
+Sources for the following checklist table: [DOJ's CZ case page](https://www.justice.gov/criminal/case/united-states-v-changpeng-zhao), [Treasury's resolution release](https://home.treasury.gov/news/press-releases/jy1925), and the [SEC's dismissal release](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26316).
+
+| Review question | Required evidence |
 |---|---|
-| Pre-Binance regulatory | CEO of Financial Services Regulatory Authority (FSRA), Abu Dhabi Global Market (ADGM) |
-| Pre-Binance corporate | Director of Corporate Finance, Monetary Authority of Singapore (MAS) |
-| Pre-Binance exchange | Various roles at Singapore Exchange (SGX) |
-| Binance entry | Joined 2021 as regional head, then global head of regional markets |
-| Promotion path | Various senior roles → Head of Regional Markets → CEO appointment 2023-11 |
-
-The narrative: a former MAS / ADGM senior regulator taking the global-CEO role at the largest crypto exchange signaled to global regulators that Binance was serious about compliance going forward. This was a deliberate **regulator-to-CEO talent flow** parallel to the talent-signal patterns in [[business/christine-moy-talent-signal-jpm-apollo|Christine Moy JPM → Apollo case]].
-
-## 5. Post-Handoff Trajectory (2024-2025)
-
-| Period | Development |
-|---|---|
-| 2024-Q1 | Richard Teng publicly engages with regulators globally; Binance announces compliance team expansion |
-| 2024-04-30 | CZ sentenced to 4 months federal prison |
-| 2024-Q3 | CZ released; resumes public speaking / industry engagement (non-officer capacity) |
-| 2024-2025 | Binance market share resilient despite settlement headwinds; spot dominance maintained |
-| 2025 | CZ public commentary on industry direction, AI, crypto regulation |
-| Ongoing | SEC civil case continues; multi-jurisdiction compliance posture evolves |
-
-Critical: CZ's retained ownership and continued public profile meant the **brand-economic linkage** between founder and exchange remained intact even though officer-level governance was reset.
-
-## 6. Comparison With Other Founder-Crisis Templates
-
-| Founder / firm | Crisis | Founder outcome | Entity outcome |
-|---|---|---|---|
-| **CZ / Binance (this case)** | DOJ settlement | Step down as CEO, retain ownership, 4-month sentence | Continues operating, $4.3bn paid, compliance overhaul |
-| SBF / FTX | Fraud charges | Convicted, 25-year sentence | Bankruptcy, customer-asset return process |
-| Do Kwon / Terra | Multi-jurisdictional fraud charges | Detained, extradition process | Entity collapse |
-| Su Zhu + Kyle Davies / 3AC | Bankruptcy | Personal evasion attempts | Liquidation |
-| Brian Armstrong / Coinbase | SEC enforcement contested | Continued as CEO (no criminal personal charges) | See [[business/brian-armstrong-coinbase-public-company-template|Coinbase template]] |
-| Jamie Dimon / JPM | No crisis; posture shift | Continued as CEO | See [[business/jamie-dimon-anti-crypto-pivot-case|Dimon pivot case]] |
-
-The CZ template's distinctive value: **it shows survival of both the founder's economic interest and the entity** through a serious DOJ resolution. This is the rare "soft-landing" template in crypto criminal-resolution cases.
-
-## 7. The Retained-Ownership Insight
-
-The legally significant move: settlement language did not require CZ to divest. He stepped down as CEO and officer, paid personal penalty, served sentence — but his shareholding remained.
-
-This matters for templates:
-
-- For founders facing similar enforcement: **operational-control concession + financial penalty + criminal plea + retained ownership** is a known DOJ-acceptable resolution shape
-- For investors / counterparties: founders can be "removed" from governance without losing economic alignment with entity success
-- For regulators: setting precedent that an entity can survive principal-officer criminal action under post-settlement monitor regime
-- For competitor exchanges: signal that even worst-case enforcement need not be fatal if structured right
-
-## 8. Read-Across To Japan / Asia Exchange Operators
-
-Japan VASP regulation (see [[exchanges/fsa-vasp-registration-system|FSA VASP registration system]]) operates under tighter pre-licensing rules than the US framework that Binance navigated. The CZ template is less directly applicable in Japan because:
-
-- Japanese exchanges (e.g., [[payment-firms/bitflyer|bitFlyer]], [[payment-firms/gmo-coin|GMO Coin]], [[payment-firms/bittrade|BitTrade]]) operate under FSA pre-approval; equivalent enforcement actions would typically result in license revocation, not settlement
-- Japan AML / FATF compliance regime more proactive — pre-settlement, license is on the line
-- Corporate-governance norms in Japan less individualized than CZ-style founder dominance
-
-However, the template informs Japan-listed crypto-adjacent operators (e.g., [[megabanks/sbi-hd|SBI HD]]'s digital-asset exposure) about what shapes of resolution may be available globally if subsidiaries are subject to US-extraterritorial enforcement.
-
-## 9. Counterpoints
-
-- The CZ case took 4+ years of investigation to resolve — the "soft-landing" outcome is not fast or cheap
-- Retained ownership is conditional on continued operational compliance; further enforcement could change the picture
-- Some commentators argue the $4.3bn settlement under-priced the violations relative to Binance's revenue base — a different DOJ posture could have demanded entity dissolution
-- 4-month sentence was at the lower end of plausible outcomes; comparable cases (FTX) drew much longer
-- CZ retains influence informally even while not officer — the "handoff" is partial in practice
-- Richard Teng's success depends on regulator goodwill that could shift with US political environment
-
-## 10. Open Questions
-
-- Will any of CZ's retained shareholding be subject to forced divestiture under future regulatory action?
-- Does the SEC civil case against Binance / CZ produce additional financial / structural consequences?
-- Will the regulator-to-CEO pattern (Teng) replicate at other major exchanges?
-- How does the CZ handoff compare with potential future enforcement against other major exchange operators (e.g., Bybit, OKX) as that wave develops?
-- Will CZ return to a public-company exchange role (e.g., via a new venture) once compliance monitor period ends?
+| Which statute and charge applied to the individual? | Plea agreement, information, judgment, or DOJ case page |
+| Which charges applied to the company? | Corporate plea and DOJ resolution documents |
+| Are penalty amounts additive? | Settlement crediting and payment provisions from each authority |
+| Was the founder removed as officer, director, owner, or all three? | Agreement text and dated corporate governance disclosure |
+| Is a related civil action pending, adjudicated, settled, or dismissed? | Current docket or regulator litigation release |
+| Did later clemency occur? | Official DOJ clemency register and warrant |
 
 ## Related
 
 - [[business/INDEX|business INDEX]]
-- [[business/brian-armstrong-coinbase-public-company-template|Brian Armstrong Coinbase exchange-as-public-company template]]
-- [[business/jamie-dimon-anti-crypto-pivot-case|Jamie Dimon anti-crypto pivot case]]
-- [[business/hester-peirce-sec-regulatory-pivot-case|Hester Peirce SEC regulatory pivot]]
-- [[business/christine-moy-talent-signal-jpm-apollo|Christine Moy talent flow as industry signal]]
-- [[business/founder-pivot-outcome-template-matrix|founder pivot-outcome template matrix]]
-- [[business/paolo-ardoino-tether-business-model-template|Paolo Ardoino Tether business model]]
+- [[business/brian-armstrong-coinbase-public-company-template|Brian Armstrong / Coinbase public-company case]]
+- [[business/founder-pivot-outcome-template-matrix|founder / executive transition matrix]]
 - [[exchanges/INDEX|exchanges INDEX]]
-- [[exchanges/fsa-vasp-registration-system|FSA VASP registration system]]
-- [[exchanges/global-crypto-exchange-bankruptcy-comparison|global crypto exchange bankruptcy comparison]]
-- [[payment-firms/bitflyer|bitFlyer]]
-- [[payment-firms/gmo-coin|GMO Coin]]
+- [[exchanges/us-crypto-licensing-multi-layer-system|US crypto licensing multi-layer system]]
+- [[fintech/cftc-sec-crypto-jurisdiction|CFTC / SEC crypto jurisdiction]]
 - [[INDEX|FinWiki index]]
 
 ## Sources
 
-- DOJ press release on Binance and CZ resolution: https://www.justice.gov/opa/pr/binance-and-ceo-plead-guilty-federal-charges-4b-resolution
-- US Treasury / FinCEN press release: https://home.treasury.gov/news/press-releases/jy1925
-- Binance corporate news: https://www.binance.com/en/news
-- SEC v. Binance complaint: https://www.sec.gov/files/litigation/complaints/2023/comp-pr2023-101.pdf
-- CNBC Binance coverage portal: https://www.cnbc.com/binance/
-
----
-
-> [!info] 校核状态
-> confidence: **likely**. Settlement terms, plea agreement, sentencing, and CEO transition are matters of public record. Specific ownership percentage retained by CZ and future divestiture conditions are less fully disclosed.
+- DOJ, United States v. Changpeng Zhao case page: https://www.justice.gov/criminal/case/united-states-v-changpeng-zhao
+- DOJ, Binance and CZ guilty pleas and corporate resolution, 2023-11-21: https://www.justice.gov/opa/pr/binance-and-ceo-plead-guilty-federal-charges-4b-resolution
+- US Treasury, FinCEN and OFAC resolutions, 2023-11-21: https://home.treasury.gov/news/press-releases/jy1925
+- SEC, dismissal of SEC v. Binance et al., 2025-05-29: https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26316
+- DOJ, clemency grants register: https://www.justice.gov/pardon/clemency-grants-president-donald-j-trump-2025-present
+- Presidential pardon warrant for Changpeng Zhao: https://www.justice.gov/pardon/media/1416576/dl?inline=

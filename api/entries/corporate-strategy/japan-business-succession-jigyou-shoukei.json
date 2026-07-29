@@ -28,9 +28,9 @@
     "domain": "corporate-strategy",
     "type": null,
     "created": "2026-06-03",
-    "last_updated": "2026-06-03",
-    "last_tended": "2026-06-03",
-    "review_by": "2026-12-03",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "corporate-strategy",
@@ -100,9 +100,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 10690,
-    "word_like_tokens": 1770,
+    "nonspace_chars": 11623,
+    "word_like_tokens": 1923,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-06-03"
+    "last_modified": "2026-07-29"
   }
 }
