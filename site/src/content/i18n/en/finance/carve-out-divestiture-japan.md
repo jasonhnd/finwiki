@@ -1,11 +1,11 @@
 ---
 source: finance/carve-out-divestiture-japan
-source_hash: 99c94a06e5640d91
+source_hash: 42b824a6607e8455
 lang: en
 status: machine
 fidelity: ok
 title: "Carve-out and divestiture process in Japan"
-translated_at: 2026-06-18T23:33:48.375Z
+translated_at: 2026-07-29T14:32:12.538Z
 ---
 
 # Carve-out and divestiture process in Japan
@@ -18,88 +18,89 @@ This page sits in [[finance/INDEX|finance]] alongside [[finance/cross-border-m-a
 
 ## Structure decision matrix
 
+Source: the table is a route-level synthesis of the [Companies Act](https://www.japaneselawtranslation.go.jp/en/laws/view/4481/en), METI's [spin-off framework and current guide](https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/saihenzeisei/spin-off.html), and the transaction-specific tax analysis that must be confirmed against NTA materials.
+
 | Structure | Mechanism | Stamp / tax | Consent triggers | Use case |
 |---|---|---|---|---|
-| **Asset deal** (事業譲渡) | Sell defined assets + contracts | Asset-by-asset transfer tax, real-estate registration tax; capital gain at seller; book-up at buyer | Each material contract counterparty consent; employee consent for transfer | Cherry-pick assets, leave legacy liabilities behind |
-| **Share deal** (株式譲渡) | Sell shares of subsidiary | Capital gain at seller; basis carries at buyer | Limited (change-of-control clauses only) | Clean entity transfer, including liabilities |
-| **Company split** (会社分割) — absorption-type / incorporation-type | Statutory split under Companies Act Articles 757-816  | A tax-qualified ("適格") split is tax-deferred; non-qualified is taxable | Creditor objection procedure; employee succession under the Labor Contract Succession Act | Reorganize before sale; clean separation with statutory succession |
-| **Stock-distribution / spin-off** (株式分配) | Parent distributes subsidiary shares to its shareholders | The 2017  reform: tax-qualified spin-off route under Article 2-12-15-2  of the Corporation Tax Act | AGM if material; class-1  shareholder approval | A listed parent distributes a listed sub; institutional reshape (Toshiba / Sony Financial cases) |
-| **IPO carve-out** | Sub listed separately; parent retains majority or minority | Parent retains book; gain on partial dilution | TSE listing process; underwriter due diligence | Monetize while keeping operational control |
+| **Asset deal** (事業譲渡) | Sell identified assets, liabilities, and contracts | Seller and buyer consequences depend on each transferred asset, liability, and applicable tax | Contract transfer and employee consent where the contract or governing law requires it | Transfer a selected business perimeter rather than the target entity |
+| **Share deal** (株式譲渡) | Sell shares of a subsidiary | Seller may recognise gain or loss; buyer's tax basis in the acquired shares generally reflects acquisition cost, while the target's asset basis does not automatically step up | Change-of-control consent only where a contract or sector rule requires it | Transfer the entity with its existing assets and liabilities |
+| **Company split** (会社分割) — absorption-type / incorporation-type | Statutory split under Companies Act Articles 757-816 | Tax deferral is available only when the applicable tax-qualification conditions are met | Companies Act creditor-protection procedure and employee-succession rules apply according to the structure | Reorganize a business perimeter through statutory succession |
+| **Stock-distribution / spin-off** (株式分配) | Parent distributes subsidiary shares to its shareholders | Tax treatment depends on satisfying the statutory stock-distribution qualification conditions | Required corporate approvals depend on the distribution, articles, and transaction structure | Separate a subsidiary while distributing its shares to the parent's shareholders |
+| **IPO carve-out** | Subsidiary lists while the parent retains a stake | Accounting and tax effects depend on the shares sold, retained interest, and applicable standards | TSE listing review and offering documentation where applicable | Raise public capital or create a listed subsidiary while retaining some ownership |
 
 ## Asset deal vs share deal
 
 | Dimension | Asset deal | Share deal |
 |---|---|---|
-| Liability transfer | Specified only; legacy stays with seller | All in-entity liabilities transferred |
-| Contract assignment | Each contract requires counterparty consent | Change-of-control clauses only |
-| Tax — seller | Capital gain on each asset; gross-up | Capital gain on shares (often more favorable) |
-| Tax — buyer | Book-up to FMV → depreciation shield | Basis = purchase price; no asset step-up unless consolidated tax treatment |
-| Real-estate transfer tax | Triggered | Avoided |
-| Speed | Slower (per-contract) | Faster (single share-transfer) |
-| Diligence scope | Narrower, specific | Full entity diligence including hidden liabilities |
-| Employee transfer | Individual consent | Continues automatically |
+| Liability transfer | Only liabilities included under the transfer documents and applicable succession rules | Liabilities remain in the acquired entity |
+| Contract assignment | Contract-by-contract transfer; consent where required | Contract remains with the entity; change-of-control consent where required |
+| Tax — seller | Gain or loss is determined for the transferred business and assets | Gain or loss is determined on the transferred shares |
+| Tax — buyer | Acquired-asset tax basis and depreciation depend on allocation and applicable tax rules | Acquired-share basis generally reflects acquisition cost; target assets do not automatically receive a tax step-up |
+| Real-estate transfer tax | May arise when real estate is transferred | No direct real-estate transfer solely from the share transfer; other taxes and costs remain transaction-specific |
+| Execution | Requires perimeter, transfer, consent, and succession analysis | Requires share-transfer, regulatory, and change-of-control analysis |
+| Diligence scope | Focuses on the selected perimeter but must test excluded and shared liabilities | Covers the acquired entity, including retained liabilities |
+| Employee transfer | Depends on the transfer route and labour-law requirements | Employment remains with the same legal entity, subject to transaction-specific measures |
 
 ## Stock-distribution vs trade sale
+
+Source: the comparison table uses METI's [current spin-off guide](https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/saihenzeisei/spin-off.html); timing and tax outcomes are structure-dependent diligence fields rather than guaranteed results.
 
 | Path | Stock-distribution | Trade sale |
 |---|---|---|
 | Buyer | Existing parent shareholders | Strategic / PE acquirer |
 | Cash to parent | None (pure distribution) | Full purchase price |
-| Tax to parent | Deferred if qualifying spin-off | Taxable gain |
-| Speed | 6-12  months | 6-18  months including [[finance/jftc-merger-control-process|JFTC clearance]] |
-| Control outcome | Sub becomes a standalone listed entity | Sub goes into the buyer's group |
+| Tax to parent | Determine under the statutory qualification conditions and transaction facts; qualifying treatment may defer or otherwise change recognition | Determine under the applicable tax law and transaction structure; the trade-sale label alone does not establish a current taxable gain |
+| Timing | Depends on corporate approvals, listing preparation, tax qualification, and operational separation | Depends on sale process, consents, financing, and applicable [[finance/jftc-merger-control-process|JFTC review]] |
+| Control outcome | Sub becomes standalone listed entity | Sub goes into buyer's group |
 | Strategic logic | Conglomerate discount unwind | Capital recycling, focus, debt paydown |
 
 ## TSA — transition services agreement
 
-Carve-outs from a multi-product parent almost always require a TSA — the parent provides shared services to the divested business for a transition period (typically 12-36  months):
+Some carve-outs use a transition services agreement (TSA) when the separated business cannot replace shared services by closing. Whether a TSA is needed, and its duration and pricing, must be established from the transaction documents:
+
+Source: the table is an operational checklist informed by METI's [2026 entrepreneur-led carve-out guidebooks](https://www.meti.go.jp/press/2026/04/20260417003/20260417003.html); actual TSA scope, duration, and pricing are deal-specific and must be read from the signed transaction documents.
 
 | Service | Typical TSA scope |
 |---|---|
 | IT / ERP | SAP / Oracle instance migration; data segregation, custom-code carve-out |
-| HR / payroll | Continued payroll processing until the sub builds capacity |
-| Treasury / cash management | Inter-company cash-pool unwind; new banking arrangement at the sub |
-| Procurement | Shared supplier contracts; bridge purchasing until the sub renegotiates |
+| HR / payroll | Continued payroll processing until sub builds capacity |
+| Treasury / cash management | Inter-company cash pool unwind; new banking arrangement at sub |
+| Procurement | Shared supplier contracts; bridge purchasing until sub renegotiates |
 | Legal / compliance | Shared regulatory licenses (esp. financial-services under [[financial-licenses/securities-license-stack|securities-license stack]]) |
 | Real estate | Continued shared office occupancy with cost allocation |
 
-TSA pricing is typically **cost-plus 5-10%**, with step-ups to incentivize exit. Reverse-TSAs flow services from the sub back to the parent for retained obligations.
+TSA pricing may use cost reimbursement, cost-plus, fixed-fee, usage-based, or other negotiated terms. Step-ups and reverse-TSAs are transaction-specific and should not be assumed without the signed agreement.
 
 ## Tax considerations
 
-Japanese tax-qualified ("適格") reorganization rules (Corporation Tax Act Article 2-12) allow deferral when:
+Japanese tax-qualified ("適格") reorganization rules contain different conditions for group reorganizations, joint-business reorganizations, and qualifying stock distributions. Ownership continuity, consideration, business continuity, employee continuity, and other tests must be checked for the specific statutory route; no single percentage or checklist on this page establishes qualification.
 
-- **Same-group reorganization** — 100% ownership both before and after
-- **Joint-business reorganization** — substantial-business test (>80% workforce continues, business continues, exchange-of-equity)
-- **2017  spin-off route** — direct stock-distribution to parent shareholders without prior asset-restructuring
-
-A non-qualified split triggers **mark-to-market gain at the parent level** and stamp-duty inefficiencies. NTA private rulings are increasingly common for novel carve-out structures — see also [[finance/multi-jurisdiction-identity-tax-leverage|tax-jurisdiction comparison]] for cross-border carve-outs.
+A non-qualified structure may produce current taxation or other transfer costs depending on the assets, parties, and steps. Confirm the enacted Corporation Tax Act, implementing rules, and current NTA guidance for the execution date; do not assume that a private ruling exists or that one factor determines the result. See also [[finance/multi-jurisdiction-identity-tax-leverage|tax-jurisdiction comparison]] for cross-border carve-outs.
 
 ## Carve-out workstreams
 
-1. **Perimeter definition** — which assets, contracts, employees, IP, real estate, and regulatory licenses transfer
-2. **Standalone carve-out financials** — restate the sub's financials excluding parent allocations
-3. **Day-1  readiness** — TSA scope, IT cut-over plan, treasury setup, bank-account opening
+1. **Perimeter definition** — which assets, contracts, employees, IP, real estate, regulatory licenses transfer
+2. **Standalone carve-out financials** — restate sub financials excluding parent allocations
+3. **Day-1 readiness** — TSA scope, IT cut-over plan, treasury setup, bank account opening
 4. **Regulatory** — [[finance/jftc-merger-control-process|JFTC]] notification if turnover crosses thresholds; sector regulators (banking, telecom); foreign FDI if cross-border
-5. **Tax structuring** — pursue 適格 status; secure an NTA ruling on novel points
-6. **Employee transfer** — Labor Contract Succession Act compliance for a company-split; individual consent for an asset deal
+5. **Tax structuring** — assess 適格 status under applicable law, public guidance, and the transaction facts; obtain transaction-specific tax advice rather than assuming an NTA ruling
+6. **Employee transfer** — Labor Contract Succession Act compliance for company-split; individual consent for asset deal
 7. **Customer / supplier consent** — change-of-control walk-throughs
 
-## Recent examples (2023-2026)
+## Verified public example
+
+Source: METI's [Sony reorganisation-plan certification](https://www.meti.go.jp/press/2023/02/20240214006/20240214006.html) records the planned structure, while Sony's [October 1, 2025 completion disclosure](https://www.sony.com/en/SonyInfo/IR/news/20251001_E.pdf) records execution and the retained interest. The table does not generalise that treatment to other transactions.
 
 | Year | Parent | Carved-out business | Path | Notes |
 |---|---|---|---|---|
-| 2023  | Toshiba | Multiple post-private restructuring | Trade-sale + spin-off mix | Post-go-private optimization |
-| 2024  | Sony FG | Sony Financial Group spin-off (re-listed 2025) | Stock-distribution spin-off | 2017-reform spin-off mechanic; tax-qualified |
-| 2024  | Hitachi | Astemo (auto components) | Trade sale to PE | Continued portfolio-pruning theme |
-| 2025  | Various TSE Prime | Non-core conglomerate disposals | Mixed | TSE PBR<1  reform pressure driving carve-outs |
+| 2024 certification; completed October 1, 2025 | Sony Group | Sony Financial Group | Partial stock-distribution spin-off | Sony disclosed completion and a retained 16.40% interest in Sony Financial Group. |
 
 ## Research checklist
 
 1. Pull TDnet / EDINET filings for the announcement, structure (asset / share / split / spin-off), and tax-qualified election.
 2. Map [[finance/jftc-merger-control-process|JFTC]] notification timing vs deal-close conditions.
 3. Identify TSA scope and termination triggers in the press release.
-4. Check whether [[finance/japan-tender-offer-process|TOB]] is required (if listed-sub shares change hands above the threshold).
+4. Check whether [[finance/japan-tender-offer-process|TOB]] is required (if listed-sub shares change hands above threshold).
 5. Cross-reference with [[finance/japan-listed-financial-groups-investable-universe|listed FG universe]] for parent / sub valuation impact.
 
 ## Related
@@ -119,7 +120,7 @@ A non-qualified split triggers **mark-to-market gain at the parent level** and s
 ## Sources
 
 - METI: M&A guidelines and Fair M&A Guidelines publication page.
-- METI: 2023  Carve-out / Group Management Guidelines press release.
+- METI: 2023 Carve-out / Group Management Guidelines press release.
 - NTA: Corporation Tax Act 適格組織再編 (qualified reorganization) rules.
 - JFTC: notification thresholds for asset / company-split transactions.
 - FSA: FIEA tender-offer interaction when listed-sub shares are transferred.

@@ -1,11 +1,11 @@
 ---
 source: finance/cross-border-m-a-japan
-source_hash: 84838b7f56977120
+source_hash: beda67538997a9bb
 lang: ja
 status: machine
 fidelity: ok
 title: "クロスボーダー M&A 日本"
-translated_at: 2026-06-18T23:59:13.056Z
+translated_at: 2026-07-29T14:32:12.538Z
 ---
 
 # クロスボーダー M&A 日本
@@ -26,12 +26,14 @@ FinWiki にとって、本ページは [[securities-firms/goldman-sachs-japan]]�
 
 ## 規制マップ
 
+出典: 本表は、財務省の[外為法に基づく対内直接投資資料](https://www.mof.go.jp/english/policy/international_policy/fdi/)、公正取引委員会の[企業結合審査資料](https://www.jftc.go.jp/en/policy_enforcement/mergers/index.html)、および [JPX TDnet](https://www.jpx.co.jp/english/equities/listing/disclosure/tdnet/index.html) への確認経路を示す。取引固有の閾値と許認可は契約締結時点で確認しなければならない。
+
 | 層 | 当局 / 根拠 | 確認事項 |
 |---|---|---|
-| 対内投資審査 | 外為法に基づく財務省および事業所管省庁 | 対内直接投資および機微セクターに対する事前届出 / 審査。 |
+| 対内投資審査 | 外為法に基づく財務省および対象事業の所管省庁 | 投資家、取引、対象事業、保有水準、利用可能な免除により、事前届出または事後報告が必要となるか。 |
 | 企業結合 / 独占禁止 | 公正取引委員会 | 取引が競争を実質的に制限するおそれがあるか、いかなる届出 / 審査手続が適用されるか。 |
 | 証券開示 | 金融庁 / EDINET / TDnet / 取引所規則 | 公開買付け、大量保有、上場会社開示、ファイナンス開示。 |
-| 業種規制 | 事業所管省庁または規制当局 | 銀行、保険、通信、防衛、エネルギー、医療、データ、インフラの機微性。 |
+| 業種規制 | 対象事業を規律する法律が指定する当局 | 特定の事業、免許、資産または持分変更に同意、届出その他の業種別手続が必要か。 |
 | ファイナンス | 銀行 / 証券会社 | 買収ファイナンス、ブリッジローン、社債発行、株式発行、ヘッジ。 |
 
 ## 経済産業省のインバウンド M&A の読み方
@@ -44,8 +46,8 @@ FinWiki にとって、本ページは [[securities-firms/goldman-sachs-japan]]�
 
 ## JapanFG との関連性
 
-- [[securities-firms/goldman-sachs-japan]] およびその他の外資系 IB は、クロスボーダー・アドバイザリーでしばしば強く競合する。
-- [[securities-firms/nomura-hd]]、[[securities-firms/daiwa-sg]]、[[securities-firms/smbc-nikko]]、[[securities-firms/mizuho-securities]]、[[securities-firms/mufg-mums]] は、国内の発行体へのアクセス、ファイナンス関係、執行サポートを通じて競争する。
+- 候補となるアドバイザー類型には、日本の証券会社とグローバル投資銀行の日本拠点が含まれる。役割、マンデート、順位は、日付付き取引提出書類、または対象期間とクレジット方法を明記したベンダー表から確認する。本ページは現在のアドバイザー力を順位付けしない。
+- [[securities-firms/goldman-sachs-japan]]、[[securities-firms/nomura-hd]]、[[securities-firms/daiwa-sg]]、[[securities-firms/smbc-nikko]]、[[securities-firms/mizuho-securities]]、[[securities-firms/mufg-mums]] の各ページは調査経路であり、特定取引への助言または融資を示す証拠ではない。
 - [[financial-regulators/jbic]]、[[policy-finance/INDEX|policy-finance INDEX]]、および輸出信用 / 政策金融のページは、買収が資源安全保障、インフラ、または国家産業政策を支える場合に関連してくる。
 
 ## デューデリジェンス・チェックリスト

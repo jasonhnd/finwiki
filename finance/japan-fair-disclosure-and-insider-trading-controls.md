@@ -6,9 +6,9 @@ aliases:
   - "日本 フェアディスクロージャー insider trading"
 domain: "finance"
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
-review_by: 2026-11-22
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
 confidence: likely
 tags: [finance, disclosure, insider-trading, fair-disclosure, FIEA, Japan]
 status: active
@@ -34,6 +34,8 @@ This page belongs to [[finance/INDEX|finance domain]] and links to [[securities/
 
 ## Control Map
 
+Source: the table is tied to the FSA's [Fair Disclosure Rule guideline](https://www.fsa.go.jp/en/laws_regulations/disclosure/20180206-2.pdf), the [Financial Instruments and Exchange Act](https://www.japaneselawtranslation.go.jp/en/laws/view/4633/en), and [JPX timely-disclosure infrastructure](https://www.jpx.co.jp/english/equities/listing/disclosure/).
+
 | Control layer | Public source route | Public record field |
 |---|---|---|
 | Fair disclosure | FIEA Article 27-36 and FSA fair-disclosure guideline | Selective disclosure, publication, issuer information management. |
@@ -44,6 +46,8 @@ This page belongs to [[finance/INDEX|finance domain]] and links to [[securities/
 | IPO / listing | JPX / EDINET | Listing approval, securities registration, ongoing disclosure. |
 
 ## Fair Disclosure Rule Fields
+
+Source: every row in the table summarizes the FSA's [Fair Disclosure Rule guideline](https://www.fsa.go.jp/en/laws_regulations/disclosure/20180206-2.pdf); the statutory text and any current FSA amendment prevail.
 
 | Field | Public fact route |
 |---|---|
@@ -66,6 +70,8 @@ JPX's TDnet page states that disclosure through the Company Announcements Disclo
 
 ## TDnet Public Surfaces
 
+Source: the table records functions described on the [JPX TDnet page](https://www.jpx.co.jp/equities/listing/disclosure/tdnet/index.html); retention periods and service names should be rechecked when JPX changes the service.
+
 | Surface | Public field |
 |---|---|
 | TDnet | Electronic workflow for submitting disclosure documents to TSE, prior explanation to TSE, public posting, media distribution, and database filing. |
@@ -74,6 +80,8 @@ JPX's TDnet page states that disclosure through the Company Announcements Disclo
 | TDnet database service | Paid database route for historical disclosure data. |
 
 ## Public Record Fields
+
+Source: the table is a retrieval checklist for the FSA [Fair Disclosure Rule guideline](https://www.fsa.go.jp/en/laws_regulations/disclosure/20180206-2.pdf) and [JPX timely-disclosure infrastructure](https://www.jpx.co.jp/english/equities/listing/disclosure/), not a claim that every issuer publishes every field.
 
 | Field | Source route |
 |---|---|

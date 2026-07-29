@@ -1,11 +1,11 @@
 ---
 source: finance/japan-activist-investor-playbook
-source_hash: 52e94840008cd874
+source_hash: cd15cfa80137c6a6
 lang: ja
 status: machine
 fidelity: ok
 title: "日本のアクティビスト投資家プレイブック"
-translated_at: 2026-06-02T13:21:55.082Z
+translated_at: 2026-07-29T14:32:12.538Z
 ---
 
 # 日本のアクティビスト投資家プレイブック
@@ -22,6 +22,8 @@ translated_at: 2026-06-02T13:21:55.082Z
 
 ## 公開プレイブックの段階
 
+出典: 本表は、金融庁の[コーポレートガバナンス改革資料](https://www.fsa.go.jp/en/policy/corporategovernencereform/20240115.html)、[JPX コーポレートガバナンス資料](https://www.jpx.co.jp/english/equities/listing/cg/index.html)、および金融庁の[大量保有報告制度](https://www.fsa.go.jp/common/shinsei/tairyohoyu/index.html)から導いた公開記録上のワークフローである。
+
 | 段階 | 公開資料 | 主な問い |
 |---|---|---|
 | スクリーニング | TSE の資本コスト要請、バリュエーション、貸借対照表、コーポレートガバナンス報告書。 | アクティビストが関与し得る公開上の理由はあるか。 |
@@ -35,17 +37,21 @@ translated_at: 2026-06-02T13:21:55.082Z
 
 ## ガバナンス / 開示上の接点
 
+出典: 本表は、金融庁の[スチュワードシップ・コード](https://www.fsa.go.jp/en/refer/councils/stewardship/index.html)、[JPX コーポレートガバナンス資料](https://www.jpx.co.jp/english/equities/listing/cg/index.html)、および2026年改正後の[大量保有報告制度](https://www.fsa.go.jp/common/shinsei/tairyohoyu/index.html)を対応づける。
+
 | 接点 | 使い方 |
 |---|---|
 | コーポレートガバナンス・コード | 取締役会の独立性、資本政策、開示、株主権のベースライン。 |
 | スチュワードシップ・コード | 投資家側のエンゲージメントと議決権行使の原則。 |
-| TSE 資本コスト / 株価対応 | 資本効率の期待を下回って取引される企業に対する公開圧力の表面。 |
+| TSE 資本コスト / 株価対応 | TSE は P/B 水準にかかわらず、すべてのプライム市場・スタンダード市場上場会社に対応を要請している。バリュエーションと資本効率は会社別に分析する。 |
 | FIEA 5% 大量保有ルール | 提出がある場合、主要保有者、共同保有者、目的、変更を特定する。 |
 | 会社法 | 株主総会、株主提案、会社法上のルート。 |
 | TOB ルール | キャンペーンが公開買収 / 支配権プロセスになる場合。 |
 | TDnet / EDINET | 適時開示と法定開示の表面。 |
 
 ## エンゲージメントの種類
+
+出典: 本表は、金融庁の[大量保有報告制度](https://www.fsa.go.jp/common/shinsei/tairyohoyu/index.html)と経済産業省の[企業買収における行動指針](https://www.meti.go.jp/english/press/2023/0831_001.html)により特定される公開提出書類を読むための分析上の分類である。各提出書類に記載された保有目的がこの分類に優先する。
 
 | 種類 | 読み方 |
 |---|---|
@@ -57,6 +63,8 @@ translated_at: 2026-06-02T13:21:55.082Z
 | TOB / 支配権入札 | [[finance/japan-tender-offer-process|tender offer process]] と買収指針ルートへ移る。 |
 
 ## アクター・マップ
+
+出典: 本表は [JPX の開示基盤](https://www.jpx.co.jp/english/equities/listing/disclosure/tdnet/index.html)と金融庁の[大量保有報告制度](https://www.fsa.go.jp/common/shinsei/tairyohoyu/index.html)に基づき公開記録上の役割を整理したものであり、特定のキャンペーンに記載のアクターが参加していることを示すものではない。
 
 | アクター | 役割 |
 |---|---|
@@ -70,10 +78,10 @@ translated_at: 2026-06-02T13:21:55.082Z
 
 ## JapanFG との関係
 
-日本の金融会社に対するアクティビズムは、資本政策、上場ステータス、銀行関係、証券アドバイザーの役割、公開市場インフラに関わることが多い。
+金融セクターのキャンペーンを調査する際は、資本政策、上場ステータス、銀行関係、アドバイザーの役割、公開市場インフラを確認する場合がある。以下のリンクは候補となるアクター類型を示すものであり、特定キャンペーンのマンデートや参加を示さない。
 
 - インフラ / 規制当局隣接のアンカー: [[financial-regulators/japan-exchange-group|Japan Exchange Group]]、[[financial-regulators/jsda|JSDA]]、[[securities/tokyo-stock-exchange|TSE]]。
-- アドバイザー / ブローカー: [[securities-firms/nomura-hd|Nomura]]、[[securities-firms/daiwa-sg|Daiwa Securities Group]]、[[securities-firms/smbc-nikko|SMBC Nikko]]、[[securities-firms/mizuho-securities|Mizuho Securities]]、[[securities-firms/goldman-sachs-japan|Goldman Sachs Japan]]、[[foreign-financial-institutions/jpmorgan-japan|J.P. Morgan Japan]]、[[securities-firms/morgan-stanley-japan|Morgan Stanley Japan]]。
+- 候補となるアドバイザー / ブローカーの調査経路: [[securities-firms/nomura-hd|Nomura]]、[[securities-firms/daiwa-sg|Daiwa Securities Group]]、[[securities-firms/smbc-nikko|SMBC Nikko]]、[[securities-firms/mizuho-securities|Mizuho Securities]]、[[securities-firms/goldman-sachs-japan|Goldman Sachs Japan]]、[[foreign-financial-institutions/jpmorgan-japan|J.P. Morgan Japan]]、[[securities-firms/morgan-stanley-japan|Morgan Stanley Japan]]。実際の役割は発行体、投資家、取引の提出書類で確認する。
 - 上場会社支配と交差し得る金融 / fintech 事例: [[megabanks/sbi-hd|SBI HD]]、[[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]]、[[megabanks/sony-fg|Sony FG]]、[[payment-firms/wealthnavi|WealthNavi]]。
 
 ## レッドフラッグ / 注意点
@@ -82,7 +90,7 @@ translated_at: 2026-06-02T13:21:55.082Z
 |---|---|
 | 共同保有者の曖昧さ | 複数保有者が共同して行動する場合、開示義務と支配権分析が変わり得る。 |
 | 「重要提案行為」文言 | 大量保有報告書の保有目的の記載は慎重に読む必要がある。 |
-| インサイダー情報 | エンゲージメントを、非公開情報の適法な保有 / 利用と混同してはならない。 |
+| インサイダー情報 | エンゲージメントは、非公開情報に関するインサイダー取引、選択的開示、守秘義務、取引制限の分析を不要にしない。 |
 | 相場操縦 | 公開キャンペーンと取引行為は、別個の証拠と法的注意を要する。 |
 | 敵対的買収への過剰な読み替え | すべてのエンゲージメントが支配権取引ではない。 |
 | アドバイザーの利益相反 | 投資銀行、ブローカー、貸付人、アドバイザーは、同じ状況の複数側に位置することがある。 |
