@@ -1,208 +1,189 @@
 ---
 source: derivatives/isda-2020-protocol-japan-implementation
-source_hash: 364d17fdaaa6aa2b
+source_hash: 3e1872be24ddb6f6
 lang: ja
 status: machine
 fidelity: ok
-title: "ISDA 2020 IBOR フォールバック・プロトコル — 日本実装（TIBOR / TONA / 円 LIBOR）"
-translated_at: 2026-06-18T23:33:48.299Z
+title: "ISDA 2020 IBOR フォールバック・プロトコル — 日本での実施（TIBOR／TONA／円 LIBOR）"
+translated_at: 2026-07-29T21:12:00.000Z
 ---
 
-# ISDA 2020 IBOR フォールバック・プロトコル — 日本実装（TIBOR / TONA / 円 LIBOR）
+# ISDA 2020 IBOR フォールバック・プロトコル — 日本での実施（TIBOR／TONA／円 LIBOR）
 
 ## TL;DR
 
-**ISDA 2020 IBOR フォールバック・プロトコル**（正式には「ISDA 2020 IBOR Fallbacks Protocol」、2020, 年 10 月公表、2021年 25 月 1 日発効）は、**IBOR を参照するレガシーデリバティブ — 円 LIBOR を含む — が、双方向交渉なしに自動的に改定され、リスクフリーレート（RFR）フォールバック文言を組み込むための多数当事者間の契約メカニズム** である。日本にとってこのプロトコルの中心的な影響は、**2021年 31 月の円 LIBOR 公表停止**（合成円 LIBOR の段階的廃止は 2023年末までに完了）であった — 締結当事者の双方向の円 LIBOR デリバティブは、公表停止日に **TONA の後決め複利 + 固定の信用調整スプレッド（CAS）** へ自動的に転換された。日本市場の締結率は高く — メガバンク（[[megabanks/mufg|MUFG]]、[[megabanks/smfg|SMFG]]、[[megabanks/mizuho-fg|Mizuho FG]]）、[[securities-firms/nomura-hd|Nomura]]、生命保険会社、主要なバイサイド機関がいずれも締結し、日本からの締結当事者だけで >500 に達した。本プロトコルは TIBOR を自動的には転換**しない**（TIBOR は、2024年 12 月のユーロ円 TIBOR / Z-TIBOR 廃止後も、[[financial-regulators/jsda|JSDA]]関連の JBATA によって運営が継続された） — TONA へのフォールバックを必要とする TIBOR 契約には別途の改定が必要である。**JSDA 主導の 2024 年文書改訂** は、ポスト LIBOR の慣行、TONA-RFR 条項、残存する TIBOR フォールバック・アーキテクチャを反映するよう、日本市場の標準デリバティブ文書テンプレートを近代化した。FinWiki にとって、本エントリはプロトコルの仕組み、円固有のフォールバックレート（CAS、観測シフト）、日本市場の締結パターン、ポスト LIBOR の円公表停止タイムライン、および JSDA 2024 年文書改訂を扱う。
+**ISDA 2020 IBOR フォールバック・プロトコル**は、十月 23 日（2020 年）に公表され、一月 25 日（2021 年）に発効した。参加者は、対象となる既存の非清算デリバティブへ IBOR フォールバック補遺を組み込める。円金利では、**円 LIBOR、日本円 TIBOR、ユーロ円 TIBOR**が Relevant IBOR の対象となる。ただし、対象であることは直ちに変換されることを意味せず、契約上のフォールバックは該当するトリガーが発生した場合にのみ適用される。円 LIBOR のフォールバックは、2021 年末の公表停止・代表性喪失後に適用された。ユーロ円 TIBOR は、三月 6 日（2024 年）の公表停止発表がインデックス停止事由となり、十二月 30 日（2024 年）に最終公表された。日本円 TIBOR は引き続き公表されており、停止フォールバックは発動していない。選定された合成円 LIBOR は、英国規制当局による別個の移行措置であり、十二月 31 日（2022 年）に恒久的に終了した。本項では、全ての対象 IBOR が既に変換されたと扱わず、プロトコルの対象範囲、トリガー事由、実際の指標の状態を区別する。
 
-## Wiki route
+## Wiki 内の位置付け
 
-本エントリは **ISDA フォールバック・プロトコル日本実装** ノードとして [[derivatives/INDEX|derivatives index]] の下に位置する。基礎となる IRS の文脈については [[derivatives/japan-irs-market|Japan yen interest-rate swap market]]、ポスト LIBOR の RFR アーキテクチャについては [[derivatives/ois-tona-curve|OIS TONA curve and JPY discounting]]、清算デリバティブ側の実装については [[derivatives/otc-clearing-jp-trade-repository|OTC clearing Japan trade repository]]、通貨間フォールバックのオーバーレイについては [[derivatives/cross-currency-basis-swap-japan|cross-currency basis swap Japan]] と併読されたい。システムのアンカー: BoJ 運営の TONA 現金市場メカニズムについては [[money-market/INDEX|money-market index]]。規制のアンカー: FSA / BoJ の監督上の文脈については [[banking/INDEX|banking index]]。
+本項は、[[derivatives/INDEX|デリバティブ索引]] における**日本での ISDA フォールバック・プロトコル実施**の項目である。IRS の背景は [[derivatives/japan-irs-market|日本の円金利スワップ市場]]、LIBOR 後の RFR 構造は [[derivatives/ois-tona-curve|OIS TONA カーブと円の割引]]、清算デリバティブ側の実施は [[derivatives/otc-clearing-jp-trade-repository|日本の OTC 清算と取引情報蓄積機関]]、通貨間フォールバックは [[derivatives/cross-currency-basis-swap-japan|日本の通貨ベーシス・スワップ]] と併読する。制度上の基点は、日本銀行が運営する TONA 現金市場の仕組みを扱う [[money-market/INDEX|短期金融市場索引]]、規制上の基点は、金融庁・日本銀行の監督環境を扱う [[banking/INDEX|銀行索引]] である。
 
-## 1. ISDA 2020 プロトコル — それは何か
+## 1. ISDA 2020 プロトコルとは
 
 | 要素 | 詳細 |
 |---|---|
-| 公表者 | 国際スワップ・デリバティブ協会（ISDA） |
-| 公表日 | 2020 年 23 月 |
-| 発効日 | 2021 年 25 月 |
-| 改定対象 | ISDA マスター契約および特定のその他の ISDA 文書 |
-| タイプ | 多数当事者間の締結（各当事者は一度締結すれば、対象となるすべての双方向の関係が自動的に改定される） |
-| 対象取引の範囲 | 2021 年 25 月以降の新規取引（2021 IBOR Fallbacks Supplement を通じて組み込み）；締結相手方との既存取引（プロトコル締結を通じて改定） |
-| コスト | 締結に手数料なし |
-| 締結メカニズム | ISDA ポータル経由のオンライン；法人ごとに一度の提出 |
+| 公表者 | 国際スワップ・デリバティブズ協会（ISDA） |
+| 公表日 | 十月 23 日（2020 年） |
+| 発効日 | 一月 25 日（2021 年） |
+| 変更対象 | ISDA マスター契約および所定のその他 ISDA 文書 |
+| 方式 | 多数当事者による参加（各当事者が一度参加すると、対象となる相対関係が自動的に変更される） |
+| 対象取引 | 一月 25 日（2021 年）以後の新規取引は 2021 IBOR フォールバック補遺を通じて組み込み、参加当事者間の既存取引はプロトコル参加により変更する |
+| 費用 | 参加費用なし |
+| 参加方法 | ISDA ポータルからオンラインで、法人ごとに一度提出する |
 
-本プロトコルは、双方向交渉の問題に対する **多数当事者間の治療法** である — これがなければ、すべての市場参加者は LIBOR 公表停止前に、IBOR を参照するすべてのデリバティブを双方向に改定しなければならず、業界規模では運用上不可能であった。
+出典: ^[source:https://www.isda.org/protocol/isda-2020-ibor-fallbacks-protocol/]
 
-## 2. フォールバックレートのアーキテクチャ
+補遺は、改定後の定義集を組み込む新規取引に適用される。プロトコルは、参加当事者間の対象となる既存の非清算文書を多数当事者間で変更する手段である。当事者は相対での変更にも合意できる。清算取引は、CCP がプロトコルへ参加するのではなく、該当する CCP の規則に従って扱われる。
 
-対象 IBOR（米ドル LIBOR、ユーロ LIBOR、英ポンド LIBOR、円 LIBOR、スイスフラン LIBOR、円 TIBOR 等）が指定された「トリガーイベント」（典型的には運営者による公表停止の announcement）を経験すると、本プロトコルは以下を提供する:
+## 2. フォールバック金利の構造
+
+円の各指標はプロトコル上の Relevant IBOR だが、トリガーは異なる。LIBOR のフォールバックには、恒久的な公表停止と FCA による代表性喪失の判断が含まれる。日本円 TIBOR とユーロ円 TIBOR では、恒久的な公表停止がトリガーとなる。該当するトリガーが発生し、フォールバック日へ到達すると、改定後の定義集は次の内容を定める。
 
 | 構成要素 | 説明 |
 |---|---|
-| 置換レート | 通貨固有の RFR（円は TONA、米ドルは SOFR、ユーロは ESTR、英ポンドは SONIA、スイスフランは SARON） |
-| 複利計算方法 | 同一テナー期間にわたる後決め複利での観測 |
-| 観測シフト | 2営業日の後方観測シフト（すなわち、観測期間は支払期間開始の 2 日前に開始する） |
-| 信用調整スプレッド（CAS） | IBOR の信用・銀行資金調達プレミアムを補償するために RFR に加算される固定スプレッド（テナーごと） |
-| フォールバックの発効日 | IBOR 公表停止日（例: 円 LIBOR については、2021 年 31 月が最後の LIBOR 設定であったため、2022 年 1 月） |
+| 代替金利 | 通貨ごとの RFR（円は TONA、米ドルは SOFR、ユーロは ESTR、英ポンドは SONIA、スイスフランは SARON） |
+| 複利計算方法 | 同じ金利期間に対応する後決め複利 |
+| 観測シフト | 2 営業日の後方観測シフト（観測期間を支払期間の開始より 2 日前から開始する） |
+| クレジット調整スプレッド（CAS） | IBOR に含まれる銀行信用・調達プレミアムを調整するため、期間ごとに RFR へ加える固定スプレッド |
+| トリガーと発効時期 | 契約ごとに異なる。LIBOR には公表停止・代表性喪失が含まれ、TIBOR のフォールバックには該当する恒久的な公表停止トリガーと日付が必要 |
 
-CAS は **経済的等価性の調整** である — RFR はリスクフリーであり、IBOR は信用プレミアムを含んでいたため、CAS は過去の IBOR-RFR の中央値スプレッドを近似する。
+出典: ^[source:https://www.isda.org/protocol/isda-2020-ibor-fallbacks-protocol/] ^[source:https://www.jbatibor.or.jp/english/Public%20Consultation%20on%20fallback%20issues%20for%20JBA%20TIBOR.pdf]
+
+固定スプレッド調整には、ISDA が説明する過去五年間の中央値方式を用いる。価値移転とベーシス・リスクを軽減することを意図するが、なくすものではない。
 
 ## 3. 円 LIBOR フォールバックの詳細
 
-| 円 LIBOR テナー | 置換 | CAS（bp、LIBOR 公表停止 announcement 日に固定） |
-|---|---|---|
-| オーバーナイト | TONA | 約 -1.8 bp（小さな負値 — オーバーナイト LIBOR は TONA を下回っていた） |
-| 1週間 | 複利 TONA（1週間、2日観測シフト） | 約 -1.5 bp |
-| 1ヶ月 | 複利 TONA（1ヶ月、2日観測シフト） | 約 -0.2 bp |
-| 2ヶ月 | 複利 TONA | 中央値スプレッド |
-| 3ヶ月 | 複利 TONA（3ヶ月、2日観測シフト） | 約 +0.8 bp（正値 — 3ヶ月 LIBOR は信用プレミアムを伴っていた） |
-| 6ヶ月 | 複利 TONA | 約 +5.8 bp |
-| 12ヶ月 | 複利 TONA | 約 +16.6 bp |
-
-（これらの CAS 値は公表停止 announcement 日に **恒久的に固定** される — その後は変化しない。これらは、UK FCA によって公表停止 announcement がなされた 2021 年 3 月時点の、5年中央値で観測された円 LIBOR – RFR スプレッドを反映している。）
-
-プロトコル経由で転換されたレガシーの円 LIBOR デリバティブについて、公表停止後の変動レッグは **同等期間にわたる TONA 複利 + テナー固有の CAS** を支払う。経済的な意図は、転換後のデリバティブが、平均して時間の経過とともに元の IBOR デリバティブのように振る舞うことである。
-
-## 4. 円 LIBOR 公表停止タイムライン — 運用上のイベント
-
-| 日付 | イベント |
+| 円 LIBOR の公表区分 | 契約上の扱い |
 |---|---|
-| 2021 年 5 月 | UK FCA が円 LIBOR（およびその他の LIBOR）の公表停止日を確認；CAS スプレッドが恒久的に固定された |
-| 2020 年 23 月 | ISDA 2020 IBOR Fallbacks Protocol 公表 |
-| 2021 年 25 月 | プロトコル発効日；締結開始 |
-| 2021 年を通じて | 日本の機関が締結；新規の円デリバティブ取引が TONA へシフト |
-| 2021 年 31 月 | 円 LIBOR（1W、1M、2M、3M、6M、12M）が代表性ベースで停止 |
-| 2022 年 1 月 | 締結当事者のレガシー円 LIBOR デリバティブが TONA + CAS へ自動転換 |
-| 2022 年を通じて | 合成円 LIBOR（1M、3M、6M のみ）が、レガシー契約の経過措置的橋渡しとして UK FCA によって運営 |
-| 2023 年 30 月 | 合成円 LIBOR 停止 |
-| 2023 年末 | すべての円 LIBOR を参照するデリバティブが TONA または同等の RFR へ移行 |
+| パネル銀行に基づく円 LIBOR | 十二月 31 日（2021 年）の直後に全て公表停止または恒久的な代表性喪失となり、契約上のフォールバックが適用される場合、対象デリバティブは調整後 TONA と期間別固定スプレッドを用いる |
+| 合成 1M、3M、6M 円 LIBOR | 一部の既存利用に対する限定的な英国規制上の移行措置で、一月 1 日から十二月 31 日（2022 年）まで適用された。ISDA の代表性喪失トリガーを延期するものではない |
 
-## 5. TIBOR — 生き残った円レート
+出典: ^[source:https://www.isda.org/2021/03/05/libor-cessation-and-the-impact-on-fallbacks/] ^[source:https://www.fca.org.uk/markets/transition-libor/benchmarks-regulation-powers-policy-decision-making]
 
-LIBOR とは異なり、**TIBOR（東京銀行間取引金利）** は LIBOR 公表停止後も継続した:
+この表では CAS の概算値を意図的に記載しない。法的に参照すべき値は、丸めた二次資料の推計ではなく、適用される ISDA・Bloomberg の算定方法に基づいて公表された期間別フォールバック・スプレッドである。
 
-| TIBOR の種類 | ステータス | 運営者 |
-|---|---|---|
-| **D-TIBOR（国内 TIBOR）** | アクティブ | JBATA（全国銀行協会 TIBOR 運営機関） |
-| **Z-TIBOR（ユーロ円 TIBOR）** | 2024 年 12 月廃止 | 従前は JBATA；廃止は利用低下と統合を反映 |
-| **円 LIBOR** | 2021 年末停止（合成段階的廃止 2023年） | ICE Benchmark Administration が運営していた |
+## 4. 円 LIBOR 公表停止の時系列 — 運用上の事象
 
-D-TIBOR は以下に引き続き使用される:
-- 貸し手が（後決め複利 RFR ではなく）将来予測型のターム・レートを望む、ターム固定の円ローン
-- LIBOR ではなく TIBOR を参照する一部のレガシー IRS
-- ターム・レート参照を必要とする新規ストラクチャード商品
-
-D-TIBOR は LIBOR と同じようには **ISDA 2020 プロトコルの対象とされていない** — 公表停止が予定されていないため、D-TIBOR を参照するデリバティブは引き続きそのまま使用される。将来 D-TIBOR が廃止されることになった場合、別途のフォールバック・アーキテクチャが必要となる（そして JSDA はそのシナリオに向けた標準フォールバック文言を準備してきた；セクション 7 を参照）。
-
-## 6. 日本市場の締結状況
-
-ISDA 2020 プロトコルへの締結は、運用上の必要性を反映して、日本では **非常に高かった**:
-
-| 締結カテゴリ | 締結パターン |
+| 日付 | 事象 |
 |---|---|
-| メガバンク（[[megabanks/mufg|MUFG]]、[[megabanks/smfg|SMFG]]、[[megabanks/mizuho-fg|Mizuho FG]]） | 全社が公表停止前に締結 |
-| 証券会社（[[securities-firms/nomura-hd|Nomura]]、Daiwa、[[securities-firms/mufg-securities|MUFG MS]]、[[securities-firms/smbc-nikko|SMBC Nikko]]、[[securities-firms/mizuho-securities|Mizuho Securities]]） | 全社が締結 |
-| 生命保険会社（日本生命、第一生命、住友生命 等） | 実質的に全社が締結 |
-| 地方銀行 | 主要地方銀行が締結；一部の小規模地方銀行はより時間を要した |
-| バイサイド機関 | 年金基金、アセットマネージャー — 広く締結 |
-| 事業会社（非金融） | デリバティブ・ブックを持つ大企業は締結；LIBOR デリバティブのエクスポージャーを持たない多くの中小企業は締結を必要としなかった |
-| 在日外国銀行 | 締結（親会社または現地法人を通じて） |
+| 十月 23 日（2020 年） | ISDA 2020 IBOR フォールバック・プロトコルを公表 |
+| 一月 25 日（2021 年） | プロトコル発効、参加開始 |
+| 三月 5 日（2021 年） | FCA が LIBOR の公表停止・代表性喪失の日付を発表し、ISDA は LIBOR のスプレッド調整値が確定したことを確認 |
+| 十二月 31 日（2021 年）の直後 | 全ての円 LIBOR が公表停止または恒久的な代表性喪失となり、該当する契約上のフォールバックが適用された |
+| 一月 1 日–十二月 31 日（2022 年） | FCA は、許可された既存利用向けに合成 1M、3M、6M 円 LIBOR の公表を義務付けた |
+| 十二月 31 日（2022 年） | 三つの合成円 LIBOR が恒久的に終了 |
 
-日本の締結法人の合計: 500+（グローバルの締結法人 約 16,000  のうち）。FSA は規制対象法人の締結状況を積極的に監視し、業界全体の採用を支援した。
+出典: ^[source:https://www.isda.org/2020/10/23/isda-launches-ibor-fallbacks-supplement-and-protocol/] ^[source:https://www.fca.org.uk/news/press-releases/announcements-end-libor] ^[source:https://www.fca.org.uk/markets/transition-libor/benchmarks-regulation-powers-policy-decision-making]
 
-非締結相手方については、**双方向の改定** が必要であった。双方向の円 LIBOR エクスポージャーの大部分は、2021年末までにプロトコルまたは双方向でカバーされた。
+## 5. 日本円 TIBOR とユーロ円 TIBOR の状況
 
-## 7. JSDA 2024 年文書改訂
+LIBOR と異なり、**TIBOR（Tokyo Interbank Offered Rate）**は LIBOR 公表停止後も継続した。
 
-2024, 年、[[financial-regulators/jsda|JSDA]]（日本証券業協会）は、日本市場の標準デリバティブ文書テンプレートの包括的な改訂を主導した:
-
-| 要素 | 2024 年改訂前 | 2024 年改訂後 |
+| TIBOR の種類 | 状況 | 運営機関 |
 |---|---|---|
-| 変動金利の定義 | しばしば円 LIBOR + TIBOR の代替を参照 | TONA 複利が主；ターム・レートを必要とする商品については TIBOR 条項を保持 |
-| フォールバック・アーキテクチャ | LIBOR 公表停止文言は暫定的（2018–2019 年の supplement で追加） | ISDA 2020 プロトコルと整合した標準化された TONA フォールバック文言；TIBOR フォールバック文言を標準化 |
-| 日数計算と観測シフト | 混在した慣行 | 標準化: 円は ACT/365 、TONA 複利については 2営業日観測シフト |
-| 文書の言語 | 英語 / 日本語が混在 | 標準化された日本語 + 英語のバイリンガル版 |
-| 商品横断の一貫性 | IRS、スワップション、ストラクチャード商品で異なるテンプレート | 商品固有のスケジュールを伴う統一テンプレート |
-| 相手方の階層 | クロスボーダー取引向けに事前定義 | ポスト LIBOR の市場構造を反映するよう更新 |
+| **D-TIBOR（日本円 TIBOR）** | 公表中 | 全銀協 TIBOR 運営機関（JBATA） |
+| **ユーロ円 TIBOR** | 十二月 30 日（2024 年）の最終公表後に全期間が終了。合成ユーロ円 TIBOR も後継運営機関も存在しない | JBATA（旧運営機関） |
+| **円 LIBOR** | パネル銀行に基づく公表は十二月 31 日（2021 年）後に終了し、合成 1M・3M・6M は十二月 31 日（2022 年）後に終了 | FCA の監督下にある ICE Benchmark Administration |
 
-2024 年改訂は、**LIBOR 移行の運用上の教訓** を反映している — 単一の標準化されたテンプレートを持つことで、双方向交渉の摩擦が減り、新規商品の立ち上げが加速する。また、将来の TIBOR 関連の移行ニーズに対しても日本市場を位置付けるものである。
+出典: ^[source:https://www.jbatibor.or.jp/english/reform/] ^[source:https://www.fca.org.uk/markets/transition-libor/benchmarks-regulation-powers-policy-decision-making]
 
-## 8. 通貨間デリバティブ — オーバーレイ
+日本円 TIBOR は、ISDA 2020 プロトコルの Relevant IBOR として**対象に含まれる**。対象契約が引き続きこの指標を参照するのは、プロトコルの対象外だからではなく、JBATA が恒久的な公表停止を発表していないためである。
 
-一方のレッグが円（TIBOR または LIBOR）で、他方が米ドル（LIBOR / SOFR）またはユーロ（LIBOR / ESTR）である通貨間スワップについては、本プロトコルは **レッグごとに** 適用される:
+## 6. 日本市場の参加状況
 
-| 通貨間の構成 | 2022 年フォールバック前 | 2022 年後（ポスト LIBOR 公表停止） |
-|---|---|---|
-| 円 LIBOR vs 米ドル LIBOR 通貨間スワップ | 両レッグがプロトコル経由で転換 | 円レッグ → TONA + CAS；米ドルレッグ → SOFR + CAS |
-| 円 TIBOR vs 米ドル LIBOR 通貨間スワップ | 米ドルレッグのみ転換（TIBOR は影響なし） | TIBOR レッグは変更なし；米ドルレッグ → SOFR + CAS |
-| 円 TIBOR vs 米ドル SOFR 通貨間スワップ | フォールバックの問題なし | 変更なし |
+日本銀行が事務局を務める業界横断的な委員会は、広範かつ適時の参加を公に支持し、ISDA は世界の参加法人一覧を公表している。ただし、法人ごとに法域を判定する方法が文書化されていなければ、どちらの資料も「日本法人 500+」という合計や、名称を挙げた全ての銀行・保険会社・地方銀行層が参加したとの一律の主張を裏付けない。このため、そうした主張は削除した。特定の取引当事者関係については、ISDA の最新参加者一覧で両方の法人を確認するか、相対変更契約を調べる。
 
-転換後のベーシス・スワップの仕組みについては [[derivatives/cross-currency-basis-swap-japan|cross-currency basis swap Japan]] を参照。
+出典: ^[source:https://www.boj.or.jp/en/paym/market/jpy_cmte/index.htm] ^[source:https://www.isda.org/protocol/isda-2020-ibor-fallbacks-protocol/adhering-parties]
 
-## 9. 清算デリバティブ側 — JSCC と CCP の実装
+## 7. 2024 年のユーロ円 TIBOR 移行
 
-日本の清算機関（[[financial-regulators/jsda|JSCC]] = 日本証券クリアリング機構；およびグローバルには LCH SwapClear、CME）は、清算された円 LIBOR デリバティブにフォールバック・アーキテクチャを実装した:
+公開記録が裏付けるのは JBATA 主導の指標移行であり、従前の「JSDA 主導による 2024 年の文書改定」という主張ではない。
 
-| ステップ | 説明 |
+| 日付 | 確認できる事象 |
 |---|---|
-| 1. CCP ルールブック改定 | CCP は、レガシーの円 LIBOR 清算デリバティブが公表停止時に TONA + CAS へ転換されるよう、ルールブックを更新した |
-| 2. 公表停止前の転換 | 一部の CCP（例: LCH SwapClear）は、強制的なルールベースの転換を通じてレガシーポジションを公表停止前に転換した |
-| 3. ポジション・リバランス | 転換による価値への影響に対するメンバー間の補償支払い |
-| 4. リスク管理の調整 | 当初証拠金および変動証拠金のキャリブレーションを更新 |
+| 三月 6 日（2024 年） | JBATA が全てのユーロ円 TIBOR を十二月末（2024 年）に恒久停止すると発表し、ISDA は、この発表がインデックス停止事由に該当し、フォールバック・スプレッドを確定させたと説明 |
+| 六月 30 日（2024 年） | ユーロ円 TIBOR を参照する商品の新規取引を停止するよう金融庁が推奨した期限 |
+| 十二月 30 日（2024 年） | 全てのユーロ円 TIBOR の最終公表。JBATA は、合成ユーロ円 TIBORも後継運営機関も存在しないと説明 |
 
-JSCC の清算デリバティブ・ブックは円 LIBOR については比較的小規模であった（円 LIBOR デリバティブはより多くが米 / EU で清算されていた）；転換は運用上スムーズであった。
+出典: ^[source:https://www.jbatibor.or.jp/english/news/tibor_18.html] ^[source:https://www.jbatibor.or.jp/english/reform/]
 
-## 10. 反論
+## 8. 通貨間デリバティブ — レッグごとの適用
 
-- **「プロトコルは過剰設計だった」** — 批判者は締結コストと運用上の複雑さを指摘する；擁護者は数百万件の契約の双方向改定が業界規模では不可能であったと指摘する
-- **「CAS は過剰または過小補償する」** — 固定 CAS は 5年中央値のスナップショットである；先行きの IBOR-RFR スプレッドが過去の中央値から大きく乖離した場合、転換は価値移転を生む。実際には、円の CAS 値は小さく（大部分が < 20 bp）、価値移転の懸念は限定的である
-- **「TIBOR も TONA へ移行すべきだ」** — 一部の業界の声は、2 つの参照レート（TONA + TIBOR）を維持することは非効率だと主張する；擁護者は、ターム・レートの利用者（特に事業会社の貸し手）は依然として将来予測型のターム・レートを必要とすると主張する
-- **「JSDA 文書改訂は遅すぎる」** — 2024 年に到来し（LIBOR 公表停止の 3 年後）、改訂は緊急性ではなく蓄積された教訓によって推進された；批判は、より早くできたはずだというものである
-- **「合成 LIBOR は皆を混乱させた」** — 2022–2023 年の合成円 LIBOR の局面は複雑であった；市場参加者と格付け機関はハイブリッドな状態に対処しなければならなかった
-- **「非締結の小規模相手方がテールリスクを生んだ」** — 一部の小規模地方銀行と事業会社は期限内に締結しなかった；これらのエクスポージャーの双方向の整理には 2022
+一方のレッグが円（TIBOR または LIBOR）、他方が米ドル（LIBOR または SOFR）またはユーロ（LIBOR または ESTR）の通貨スワップでは、プロトコルを**レッグごと**に適用する。
 
-年の大半を要した
+| 通貨間の構成 | プロトコルの対象 | 該当するトリガー後の状況 |
+|---|---|---|
+| 円 LIBOR 対米ドル LIBOR の通貨スワップ | 両指標とも Relevant IBOR であり、参加とトリガーをレッグごとに判定する | 円・米ドルの各レッグは、それぞれの契約上のフォールバック事由と、公表された調整後 RFR に従う |
+| 日本円 TIBOR 対米ドル LIBOR の通貨スワップ | 両指標ともプロトコルの Relevant IBOR に含まれるが、トリガーはレッグごとに判定する | 日本円 TIBOR は公表停止トリガーが発生していないため継続し、米ドル LIBOR は固有のフォールバック事由に従う |
+| ユーロ円 TIBOR 対米ドル LIBOR の通貨スワップ | 両指標とも対象に含まれ、トリガーはレッグごとに判定する | ユーロ円 TIBOR の 2024 年の停止事由により、該当するフォールバックが発動し、米ドル LIBOR は別個の時期にフォールバックする |
+
+出典: ^[source:https://www.isda.org/protocol/isda-2020-ibor-fallbacks-protocol/] ^[source:https://www.jbatibor.or.jp/english/reform/]
+
+変換後のベーシス・スワップの仕組みは、[[derivatives/cross-currency-basis-swap-japan|日本の通貨ベーシス・スワップ]] を参照。
+
+## 9. 清算デリバティブ側 — JSCC と CCP での実施
+
+清算デリバティブは、CCP 自体のプロトコル参加ではなく、各 CCP の規則と変換手続に従う。清算済みの円 LIBOR ポジションについては、次を確認する。
+
+| 手順 | 確認項目 |
+|---|---|
+| 1. 適用規則 | CCP、商品、規則の版、法的な変換の仕組み |
+| 2. 変換時期 | 発効日と、契約上のフォールバック事由の前または発生時のどちらに変換したか |
+| 3. 価値調整 | CCP が定める現金補償またはリバランス手続の有無 |
+| 4. リスク管理 | 変換後の証拠金、割引、評価の扱い |
+
+JSCC の現行清算商品ページは、スワップションの権利行使から生じる円 LIBOR スワップを清算申込み時に OIS へ変換すると記載している。日付付きの CCP 開示がないため、市場規模の比較や、変換が「運用上円滑だった」との主張は記載しない。
+
+出典: ^[source:https://www.jpx.co.jp/jscc/en/cash/irs/product.html]
+
+## 10. 論点
+
+- **多数当事者間または相対での変更** — プロトコルは標準化された多数当事者間の手段を提供するが、当事者は相対条件を用いることもできる。適用文書と両方の法人を確認する必要がある
+- **残存する価値移転** — 固定スプレッドは過去五年間の中央値を用い、価値移転とベーシス・リスクを軽減するが、なくすものではない
+- **日本円 TIBOR と TONA** — 日本円 TIBOR は公表中で、TONA は無担保翌日物のリスク・フリー・レートである。商品選択とフォールバック状況は別の問題である
+- **ユーロ円 TIBOR の証拠範囲** — JBATA と ISDA の資料は停止事由と日付を裏付けるが、従前に主張されていた JSDA の文書プログラムは裏付けない
+- **合成円 LIBOR の範囲** — 合成指標は 2022 年末までの限定的な英国の移行措置であり、ISDA の代表性喪失トリガーを延期しなかった
+- **取引当事者の対象状況** — 機関規模や業種による一般化は行わず、法人単位の参加または相対変更を確認する必要がある
 
 ## 11. 未解決の問い
 
-- RFR 採用へのグローバルなトレンドを踏まえ、[[financial-regulators/jbatibor|JBATA D-TIBOR]] が長期的に生き残るかどうか（現在の FSA のスタンス: 利用が持続すれば D-TIBOR は継続）
-- 円のターム RFR（例: 指定された運営者によって公表される将来予測型の TONA ターム・レート）が開発され、ターム固定の用途に受け入れられるかどうか
-- 次の主要なフォールバックイベント（例: CCP ルールブックの変更や規制上のレート廃止）が、同様の多数当事者間メカニズムを通じて処理されるかどうか
-- クロスボーダーの一貫性の役割 — JSDA / FSA がより強力な円文書の標準化を推し進める場合、それが ISDA のグローバルテンプレートとどのように相互作用するか
-- 2024 年文書改訂が、新しい商品タイプ（気候連動デリバティブ、非金融ベンチマークに連動するストラクチャード商品）の運用上の摩擦を減らすかどうか
+- JBATA が継続する日本円 TIBOR 改革が、指標の頑健性と契約での利用にどう影響するか
+- 円のフォワード・ルッキングなターム RFR が、期間固定の商品で文書により確認できる利用を獲得するか
+- 将来の指標トリガーまたは CCP 規則変更が、既存の契約上のフォールバックとどう相互作用するか
+- 日本固有の文書と CCP 規則を、ISDA のグローバル定義集とどう整合させるか
+- ユーロ円 TIBOR 移行の完了を、どの日付付き取引・エクスポージャー・データで測定できるか
 
-## Related
+## 関連項目
 
-- [[derivatives/INDEX|derivatives index]]
-- [[derivatives/japan-irs-market|Japan yen IRS market]]
-- [[derivatives/ois-tona-curve|OIS TONA curve and JPY discounting]]
-- [[derivatives/otc-clearing-jp-trade-repository|OTC clearing Japan trade repository]]
-- [[derivatives/cross-currency-basis-swap-japan|cross-currency basis swap Japan]]
-- [[derivatives/yen-basis-swap-market|yen basis swap market]]
-- [[derivatives/japan-interest-rate-derivatives-overview|Japan interest-rate derivatives overview]]
-- [[derivatives/japan-rates-derivative-product-matrix|Japan rates derivative product matrix]]
-- [[derivatives/japan-cms-constant-maturity-swap|Japan CMS constant maturity swap]]
-- [[derivatives/japan-swaption-market|Japan swaption market]]
-- [[derivatives/swap-execution-facility-japan|swap execution facility Japan]]
-- [[money-market/INDEX|money-market index]]
-- [[banking/INDEX|banking index]]
-- [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|Mizuho FG]]
-- [[securities-firms/nomura-hd|Nomura]] · [[financial-regulators/jsda|JSDA]]
-- [[securities-firms/mufg-securities|MUFG MS]] · [[securities-firms/smbc-nikko|SMBC Nikko]] · [[securities-firms/mizuho-securities|Mizuho Securities]]
-- [[financial-regulators/boj-financial-markets-dept|BoJ Financial Markets Dept]]
+- [[derivatives/INDEX|デリバティブ索引]]
+- [[derivatives/japan-irs-market|日本の円 IRS 市場]]
+- [[derivatives/ois-tona-curve|OIS TONA カーブと円の割引]]
+- [[derivatives/otc-clearing-jp-trade-repository|日本の OTC 清算と取引情報蓄積機関]]
+- [[derivatives/cross-currency-basis-swap-japan|日本の通貨ベーシス・スワップ]]
+- [[derivatives/yen-basis-swap-market|円ベーシス・スワップ市場]]
+- [[derivatives/japan-interest-rate-derivatives-overview|日本の金利デリバティブ概要]]
+- [[derivatives/japan-rates-derivative-product-matrix|日本の金利デリバティブ商品マトリクス]]
+- [[derivatives/japan-cms-constant-maturity-swap|日本の CMS 定期満期スワップ]]
+- [[derivatives/japan-swaption-market|日本のスワップション市場]]
+- [[derivatives/swap-execution-facility-japan|日本のスワップ執行施設]]
+- [[money-market/INDEX|短期金融市場索引]]
+- [[banking/INDEX|銀行索引]]
+- [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|みずほ FG]]
+- [[securities-firms/nomura-hd|野村]] · [[financial-regulators/jsda|日本証券業協会]]
+- [[securities-firms/mufg-securities|MUFG MS]] · [[securities-firms/smbc-nikko|SMBC 日興]] · [[securities-firms/mizuho-securities|みずほ証券]]
+- [[financial-regulators/boj-financial-markets-dept|日本銀行金融市場局]]
 
-## Sources
+## 出典
 
-- ISDA 2020 IBOR Fallbacks Protocol — https://www.isda.org/protocol/isda-2020-ibor-fallbacks-protocol/
+- ISDA 2020 IBOR フォールバック・プロトコル — https://www.isda.org/protocol/isda-2020-ibor-fallbacks-protocol/
 - ISDA — https://www.isda.org/
-- JSDA TIBOR / IBOR 移行資料 — https://www.jsda.or.jp/en/
-- FSA IBOR 移行資料 — https://www.fsa.go.jp/en/
-- 日本円金利指標に関する検討委員会（BOJ） — https://www.boj.or.jp/en/
-- JBATA TIBOR Administration — https://www.jbatibor.or.jp/english/
-- UK FCA LIBOR 公表停止 announcement（2021年 5 月） — https://www.fca.org.uk/
-- JSCC — https://www.jscc.co.jp/en/
+- ISDA 指標改革 InfoHub — https://www.isda.org/?p=865907
+- 日本銀行「日本円金利指標に関する検討委員会」 — https://www.boj.or.jp/en/paym/market/jpy_cmte/index.htm
+- 全銀協 TIBOR 運営機関 — https://www.jbatibor.or.jp/english/
+- 英国 FCA の LIBOR 終了に関する決定 — https://www.fca.org.uk/markets/transition-libor/benchmarks-regulation-powers-policy-decision-making
+- JSCC の IRS 清算商品 — https://www.jpx.co.jp/jscc/en/cash/irs/product.html
 
 ---
 
 > [!info] 校核状態
-> confidence: **likely**。ISDA 2020 プロトコルの仕組み、円 LIBOR の CAS 値（2021年 5 月に Bloomberg index methodology によって公的に固定）、円 LIBOR 公表停止タイムライン、および日本市場の締結パターンは公的に文書化されている。2024 年の JSDA 文書改訂は業界で知られている。具体的な締結数（500+ の日本法人）は、公開された ISDA 締結当事者リストのスナップショットに基づく概数である。Z-TIBOR の 2024 年 12 月廃止は JBATA が公表したタイムラインを反映している。
+> confidence: **likely**。プロトコルの対象範囲、トリガー構造、円 LIBOR 終了日程、ユーロ円 TIBOR の停止は、ISDA、FCA、日本銀行、JBATA、JSCC の一次資料に結び付けた。丸めた CAS 値、日本法人だけの参加数、裏付けのない「JSDA 主導による 2024 年の文書改定」は削除した。

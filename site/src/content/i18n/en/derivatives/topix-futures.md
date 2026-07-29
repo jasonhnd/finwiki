@@ -1,115 +1,97 @@
 ---
 source: derivatives/topix-futures
-source_hash: ad870e686022e9b4
+source_hash: a2ae1c774d240e08
 lang: en
 status: machine
 fidelity: ok
 title: "TOPIX futures (OSE)"
-translated_at: 2026-05-31T03:19:56.423Z
+translated_at: 2026-07-29T18:49:00+09:00
 ---
 
 # TOPIX futures (OSE)
 
 ## TL;DR
 
-TOPIX futures are exchange-listed equity-index futures on the Tokyo Stock Price Index (TOPIX), the JPX-flagship free-float-market-capitalization-weighted index covering all Prime Market (formerly First Section) constituents — roughly 2,000 stocks. They list on the Osaka Exchange (OSE) under Japan Exchange Group (JPX) and clear at [[securities/japan-securities-clearing-corp|JSCC]]. The standard TOPIX Futures contract and the smaller mini TOPIX Futures together serve as the institutional-grade hedge instrument for broad Japan equity-beta exposure.
+TOPIX futures are exchange-listed equity-index futures on the Tokyo Stock Price Index (TOPIX). JPX describes TOPIX as an investable, free-float-adjusted market-capitalization-weighted benchmark covering an extensive proportion of the Japanese stock market. The current constituent set must be read from JPX's current component information rather than a fixed count. The futures list on the Osaka Exchange (OSE) and clear at [[securities/japan-securities-clearing-corp|JSCC]]. ^[Source: https://www.jpx.co.jp/english/markets/indices/topix/.]
 
-Compared with the [[derivatives/nikkei-225-futures-options|Nikkei 225 futures]] complex, TOPIX futures have smaller daily volume but a more institutionally weighted user base: domestic pension funds, life insurers, asset managers, and bank ALM desks use TOPIX futures for portfolio-level hedging and tactical positioning because TOPIX better represents the universe held in passive index mandates (especially since the [[insurance/japan-life-insurance-alm-overview|life-insurance ALM]] and pension allocations track TOPIX-style broad-market benchmarks more often than the price-weighted Nikkei 225).
+OSE lists standard TOPIX Futures and mini-TOPIX Futures, as well as current sub-index contracts including TOPIX Core30 Futures and TOPIX Banks Index Futures. Product availability does not establish a user ranking, trading-volume comparison or investor share.
 
-For FinWiki, this entry covers contract specs, the comparison with Nikkei 225 futures, basis-to-ETF arbitrage, sub-index futures (TOPIX Core 30, TOPIX 100, TOPIX Banks), and the institutional flow profile.
+For FinWiki, this entry covers current contract specifications, the methodological comparison with Nikkei 225, an evidence-bounded cash-futures basis framework, the Bank of Japan ETF-policy timeline, sub-index futures, and JSCC margin.
 
 ## Wiki route
 
-This entry sits under [[derivatives/INDEX|derivatives index]]. Read it against [[derivatives/nikkei-225-futures-options]] for the price-weighted-index peer, [[derivatives/japan-single-stock-options]] for single-name equity derivative complement, and [[securities/japan-asset-manager-landscape-matrix]] for the institutional-investor end-user side. The listing venue is [[securities/osaka-exchange|Osaka Exchange]]; the clearing layer is [[securities/japan-securities-clearing-corp|JSCC]]; the broader [[securities/tokyo-stock-exchange|TSE]] cash-equity universe is the underlying.
+This entry sits under [[derivatives/INDEX|derivatives index]]. Read it against [[derivatives/nikkei-225-futures-options]] for the price-weighted-index peer and [[derivatives/japan-single-stock-options]] for the single-name equity-derivative complement. The listing venue is [[securities/osaka-exchange|Osaka Exchange]]; the clearing layer is [[securities/japan-securities-clearing-corp|JSCC]]; the broader [[securities/tokyo-stock-exchange|TSE]] cash-equity market provides the constituent shares.
 
 ## Contract Specifications
 
 OSE lists two main TOPIX-linked futures contracts plus several sub-index futures:
 
+The table reflects the current JPX specifications; it removes TOPIX 100 and unspecified sector-index futures that are not listed in JPX's current product catalogue. ^[Sources: https://www.jpx.co.jp/english/derivatives/products/domestic/topix-futures/01.html; https://www.jpx.co.jp/english/derivatives/products/domestic/mini-topix-futures/01.html; https://www.jpx.co.jp/english/derivatives/products/domestic/topix-core30futures/01.html; https://www.jpx.co.jp/english/derivatives/products/domestic/topix-banks-index-futures/01.html.]
+
 | Contract | Underlying | Multiplier | Tick | Listed months |
 |---|---|---|---|---|
-| TOPIX Futures (Standard) | TOPIX (free-float MCap-weighted, ~2,000 Prime stocks) | JPY 10,000 × index | 0.5 index points (= JPY 5,000 per tick) | Mar / Jun / Sep / Dec, plus near months |
-| mini TOPIX Futures | TOPIX | JPY 1,000 × index (1/10) | 0.25 index points (= JPY 250 per tick) | Monthly |
-| TOPIX Core 30 Futures | TOPIX Core 30 (30 large-caps) | JPY 10,000 × index | 0.5 | Quarterly |
-| TOPIX Banks Futures | TOPIX Banks sector index | JPY 10,000 × index | 0.1 | Quarterly |
+| TOPIX Futures (Standard) | TOPIX | JPY 10,000 × index | 0.5 index points (= JPY 5,000 per tick) | June / December: nearest 10; March / September: nearest 3 |
+| mini-TOPIX Futures | TOPIX | JPY 1,000 × index (1/10) | 0.25 index points (= JPY 250 per tick) | Nearest 3 March-cycle quarterly months |
+| TOPIX Core30 Futures | TOPIX Core30 | JPY 1,000 × index | 0.5 points (= JPY 500 per tick) | Nearest 3 March-cycle quarterly months |
+| TOPIX Banks Index Futures | TOPIX Banks Index | JPY 10,000 × index | 0.1 points | Nearest 3 March-cycle quarterly months |
 
 All contracts cash-settle to the Special Quotation (SQ) on the morning of the second Friday of the contract month, computed from underlying constituent opening prices on SQ day.
 
-Trading hours follow OSE's two-session structure (day session ~08:45–15:15 JST; night session ~16:30–06:00 JST next day), mirroring the [[derivatives/nikkei-225-futures-options|Nikkei 225 futures]] schedule.
+Regular trading hours are 08:45-15:45 JST and 17:00-06:00 JST next day for the four contracts above.
 
 ## TOPIX vs Nikkei 225: Methodological Difference
 
-The fundamental difference between TOPIX and Nikkei 225 determines who uses which futures:
+The comparison below is limited to index methodology; it does not infer users, sector tilts, liquidity or trading-volume ranks. ^[Sources: https://www.jpx.co.jp/english/markets/indices/topix/; https://indexes.nikkei.co.jp/en/nkave/index/profile?idx=nk225.]
 
 | Aspect | TOPIX | Nikkei 225 |
 |---|---|---|
-| Constituents | All Prime Market stocks (~2,000) | 225 selected stocks |
-| Weighting | Free-float market capitalization | Price-weighted (price ÷ divisor) |
-| Sector tilt | Reflects actual market cap distribution; financials and broad market well-represented | Tech, industrials over-weighted due to high stock prices (e.g., Fast Retailing, SoftBank Group dominate) |
-| Tracking benchmark for | Passive index mandates, pension funds, asset manager TOPIX trackers, broad Japan-equity exposure | Domestic retail-flow indicator, foreign macro Japan-beta proxy, headline financial-press index |
-| Methodology updates | TSE Restructuring (Prime / Standard / Growth) influences TOPIX weighting policy; periodic free-float review | Periodic Nikkei Inc. reviews; component changes infrequent |
+| Published coverage | Extensive proportion of the Japanese stock market; consult JPX's current component information | 225 selected stocks; consult Nikkei's current component information |
+| Weighting | Free-float-adjusted market capitalization weighted | Price weighted |
+| Index owner | JPX Market Innovation & Research | Nikkei Inc. |
+| Futures contract unit | TOPIX × JPY 10,000 for the standard contract | Nikkei 225 × JPY 1,000 for the large contract |
 
-Because TOPIX is the market-cap-weighted broad benchmark, Japanese institutional investors (life insurers, regional banks, pension funds, asset managers running passive mandates) hedge with TOPIX futures rather than Nikkei 225 futures when their underlying holding is a broad-market portfolio. The Nikkei 225 contract, by contrast, attracts more retail and foreign macro positioning where the 225-stock price-weighted shape is acceptable or even preferred for tactical trading.
+A hedge comparison must map the actual cash basket to each index methodology and measure basis risk. Product design alone does not establish which contract a named investor uses.
 
-The two futures are not equivalent hedges for the same cash basket: a TOPIX-tracking portfolio hedged with Nikkei 225 futures retains sector basis risk because the two indices weight constituents very differently.
+## Cash-Futures Basis Framework
 
-## Basis to ETF Arbitrage
+A TOPIX cash-futures basis can be measured, but the product pages do not establish its size, direction or the identity of traders:
 
-The TOPIX futures-ETF basis trade is a major institutional and dealer activity:
+1. **Cash reference**: use a stated TOPIX cash basket or a currently listed TOPIX-tracking ETF whose benchmark and structure have been verified.
+2. **Futures reference**: use the matching TOPIX futures contract month and timestamp.
+3. **Carry inputs**: state financing, expected dividends, time to expiry and transaction costs.
+4. **Observed basis**: compare the synchronized cash and futures values; do not infer an arbitrage position from a price difference alone.
 
-1. **Cash leg**: TOPIX-tracking ETFs (e.g., NEXT FUNDS TOPIX ETF [1306], TOPIX ETF iShares [1475], Daiwa ETF TOPIX [1305], Nikko TOPIX ETF [1308]) provide physical exposure to the underlying basket.
-2. **Futures leg**: TOPIX futures provide synthetic exposure with margin financing.
-3. **Basis**: The implied dividend yield, cost of carry, and supply/demand imbalances drive a measurable cash-futures basis (in index points).
-4. **Arbitrage**: Authorized participants and ETF market makers run long-ETF / short-futures (or the reverse) to capture basis dislocations.
+Authorized participants or market makers may use cash and futures legs where their mandate and disclosures permit, but no actual direction or share is inferred here. See [[securities/japan-market-maker-and-liquidity-provider-landscape|ETF market making]] for the institutional framework.
 
-The trade also intersects with [[securities/japan-market-maker-and-liquidity-provider-landscape|ETF market making]]:
+The Bank of Japan discontinued ETF and J-REIT purchases on March 19, 2024. On September 19, 2025, it decided to sell ETF holdings to the market after operational preparations, at a pace of about JPY 330 billion per year on a book-value basis; the decision also states that the pace may be modified later. These policy facts do not by themselves establish a direction or magnitude for TOPIX basis. ^[Sources: https://www.boj.or.jp/en/mopo/mpmdeci/state_2024/k240319a.htm; https://www.boj.or.jp/en/mopo/mpmdeci/state_2025/k250919a.htm.]
 
-| Direction | When triggered |
-|---|---|
-| Long ETF / Short Futures (positive basis) | When futures-implied price is above cash (e.g., before ex-dividend dates, when futures-buyer demand is strong) |
-| Long Futures / Short ETF (negative basis) | When futures are cheap to cash (e.g., redemption demand on ETFs concentrating supply) |
+## Investor-Data Boundary
 
-A persistent driver of TOPIX basis is the BoJ's historical ETF holdings (BoJ purchased TOPIX-linked and Nikkei 225-linked ETFs under monetary policy from 2010 through 2024; the BoJ ETF balance is now in a hold/run-off phase). BoJ's ETF holdings reduce free-float on the underlying TOPIX constituents and affect ex-dividend dynamics at ETF level. See [[money-market/boj-open-market-operations]] for BoJ-operations context.
+Investor shares, account types and hedge motives require a named JPX dataset, product and period. This page does not classify life insurers, pension funds, banks, asset managers, securities firms, foreign investors or retail investors by assumed use of TOPIX futures.
 
-## Institutional Flow Profile
+## Sub-Index Futures: Core30 and Banks
 
-The TOPIX futures user base is more institutionally weighted than Nikkei 225:
+The following table lists the current TOPIX Core30 and TOPIX Banks index futures alongside the headline TOPIX products. ^[Sources: https://www.jpx.co.jp/english/derivatives/products/domestic/topix-core30futures/01.html; https://www.jpx.co.jp/english/derivatives/products/domestic/topix-banks-index-futures/01.html; https://www.jpx.co.jp/english/derivatives/products/domestic/index.html.]
 
-| User category | Use case |
-|---|---|
-| Life insurers (treasury / equity ALM) | Tactical equity duration adjustment on TOPIX-tracking holdings; overlay strategies |
-| Pension funds (GPIF, corporate DB, public-sector) | Rebalancing flow; passive-tracking overlay; transition management around quarterly reviews |
-| Asset managers (active and passive) | Cash-equitization on subscription/redemption flows; index-fund tracking error reduction |
-| Bank treasury / ALM | Equity-portfolio hedging on cross-shareholding unwind programs |
-| Securities firm proprietary | Market making; arb trades vs ETFs and Nikkei futures |
-| Foreign institutional | Country-level Japan-beta sizing; macro tactical |
-| Retail | Smaller share than in Nikkei mini; mini TOPIX is the main retail-accessible TOPIX contract |
+| Sub-index contract | Underlying | Contract unit | Tick | Listed months |
+|---|---|---|---|---|
+| TOPIX Core30 Futures | TOPIX Core30 | JPY 1,000 × index | 0.5 points | Nearest 3 March-cycle quarterly months |
+| TOPIX Banks Index Futures | TOPIX Banks Index | JPY 10,000 × index | 0.1 points | Nearest 3 March-cycle quarterly months |
 
-The Government Pension Investment Fund (GPIF) is the world's largest pension fund and a structural participant in Japan equity markets; its TOPIX-linked holdings make TOPIX futures (or TOPIX swaps for very large trades) the natural rebalancing instrument. Corporate cross-shareholding unwinding programs ([[finance/INDEX|finance]] anchor) frequently use TOPIX futures as a transitional hedge before block trades execute.
-
-## Sub-Index Futures: Core 30, 100, Banks
-
-OSE lists narrower sub-index futures:
-
-| Sub-index contract | Underlying | Use case |
-|---|---|---|
-| TOPIX Core 30 Futures | Top 30 stocks by liquidity/cap | Large-cap Japan-beta isolation; cross-shareholding unwind hedging |
-| TOPIX 100 Futures | Top 100 stocks | Mid-large-cap focused hedge |
-| TOPIX Banks Futures | TOPIX Banks sector | Bank-sector beta hedge; pair trades against individual banks; macro views on Japan banking |
-| TOPIX Sector Indices (other) | Various sectors | Limited liquidity; sector-rotation overlay |
-
-TOPIX Banks Futures historically gained interest during banking-sector regime shifts (e.g., NIRP exit speculation, BoJ policy normalization scenarios). Sub-index liquidity is far thinner than the headline TOPIX contract and Core 30 / Banks contracts trade more episodically.
+Current activity and investor interest must be read from dated JPX statistics; no liquidity ranking or event-driven demand is inferred.
 
 ## Clearing and Margin
+
+The table uses current JPX contract specifications and the JSCC VaR margin route. ^[Sources: https://www.jpx.co.jp/jscc/en/cash/futures/marginsystem/VaR.html; https://www.jpx.co.jp/english/derivatives/products/domestic/topix-futures/01.html; https://www.jpx.co.jp/english/derivatives/products/domestic/mini-topix-futures/01.html.]
 
 | Element | Detail |
 |---|---|
 | CCP | [[securities/japan-securities-clearing-corp|JSCC]]; novation at execution |
-| Margin | SPAN-style portfolio margining; offsets across TOPIX futures, mini, sub-index, and options |
-| Settlement | Cash-settled to SQ on second Friday of contract month |
-| Default management | Standard JSCC waterfall |
+| Margin | Current JSCC VaR method |
+| Settlement | Product-specific cash settlement to SQ under current JPX specifications |
+| Default management | Governed by current JSCC rules |
 
-The SPAN portfolio margin approach supports complex multi-leg strategies (TOPIX vs Nikkei spreads, TOPIX vs Core 30, TOPIX futures vs ETF hedges) under one margin computation.
+JSCC publishes the applicable VaR margin method and current parameters; this page does not assert a fixed offset for every portfolio combination.
 
 ## Related
 
@@ -132,9 +114,7 @@ The SPAN portfolio margin approach supports complex multi-leg strategies (TOPIX 
 
 ## Sources
 
-- Japan Exchange Group / Osaka Exchange: TOPIX Futures, mini TOPIX Futures, sub-index futures contract specifications.
-- JPX: TOPIX index methodology, free-float review schedule, and SQ calculation rules.
-- JPX: Monthly trading-volume and investor-category statistics for OSE derivatives.
-- Japan Securities Clearing Corporation: SPAN-based margining methodology.
-- Bank of Japan: ETF holdings disclosures and balance-sheet statistics.
-- Financial Services Agency: FIEA framework on listed derivatives.
+- Japan Exchange Group / Osaka Exchange: current TOPIX Futures, mini-TOPIX Futures, TOPIX Core30 Futures and TOPIX Banks Index Futures specifications.
+- JPX: current TOPIX description, component-information route and free-float-adjusted market-capitalization methodology.
+- Japan Securities Clearing Corporation: current VaR margin method.
+- Bank of Japan: March 19, 2024 discontinuation of ETF purchases and September 19, 2025 ETF-disposal decision.

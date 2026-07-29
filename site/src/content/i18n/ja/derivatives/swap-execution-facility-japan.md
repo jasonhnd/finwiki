@@ -1,26 +1,21 @@
 ---
 source: derivatives/swap-execution-facility-japan
-source_hash: fb88c5223ed8a1f4
+source_hash: 6a9d0f60e9327138
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "スワップ執行ファシリティ — 日本版相当制度（ETP regime）"
-translated_at: 2026-06-26T08:28:46.046Z
+translated_at: 2026-07-29T19:15:00.000Z
 ---
+
 # スワップ執行ファシリティ — 日本版相当制度（ETP regime）
 
-## 要約日本には米国型の "Swap Execution Facility (SEF)" ライセンスは存在しない。しかし、FIEA の下で FSA が監督する OTC デリバティブ執行向け **Electronic Trading Platforms (ETPs)** という、**機能的に同等の制度**が運用されている。ETP regime は、指定された標準化 OTC 商品、特に円 IRS について義務化されており、日本における **Dodd-Frank SEF 要件（US）**および **MiFID II MTF / OTF 要件（EU）**の対応物である。
+## 要約
 
-日本の OTC デリバティブ執行市場は、次の要素を組み合わせて成り立つ。
+日本は、金融商品取引法に基づき、OTC デリバティブ向けの **電子取引基盤（ETP）**を規制している。これは日本独自の枠組みであり、米国の SEF ライセンスではない。金融庁の 2015 年九月の施行資料は、対象となる円 LIBOR IRS について、ETP での執行義務、注文板または三者以上への RFQ による執行方法、取引後情報の公表を説明していた。現在の商品、運営者、許認可、免除は、現行の金融庁規則・登録簿で確認する必要がある。2015 年当時の対象範囲を、現在の TONA 義務であるかのように置き換えてはならない。
 
-1. **電子 ETP 執行** — **Tradeweb（Tradeweb Japan / FSA 登録 ETP）**、**Bloomberg（日本向けに規制対象となる Bloomberg の電子取引サービス）**、その他の電子プラットフォームが提供する multi-dealer request-for-quote (RFQ) および order-book システム。標準化された円 IRS、OIS、basis swap フローにおいて、電子執行の比率が拡大している。
-
-2. **ボイスブローカー経由の執行** — interdealer voice brokers（「wholesale broker」層 — **ICAP / NEX、BGC Brokers、Tullett Prebon、いずれも TP ICAP ファミリーまたは独立系レガシーブローカー**）が、特に非標準満期、大口ブロック取引、流動性の低い商品バリアントについて、ディーラー間 OTC 取引を仲介する。
-
-3. **相対の dealer-to-client 取引** — voice、chat、または proprietary single-dealer platforms を通じた直接のディーラー・顧客間 OTC 取引。多くの事業法人エンドユーザー取引や bespoke structures において主要なチャネルである。
-
-本項目は、FIEA ETP の規制境界、東京で稼働する主要プラットフォームおよびブローカー、電子執行シェアとボイスブローカー経由シェア、US SEF および EU MiFID II OTF / MTF regime との比較、FSA の dealer regulation framework、そして日本の電子 OTC 執行が同等商品の US SEF 市場よりも **集中度が低く、ボイスブローカー依存が強い**構造的理由を扱う。
+本項目は、文書で確認できる日本の ETP の境界と、公開情報から判断できる範囲の限界を扱う。グローバルなベンダーのマーケティングページから、現在のプラットフォーム順位、対象商品、電子執行比率、ボイスブローカー比率を推定しない。
 
 ## ウィキ上の位置づけ
 
@@ -41,9 +36,11 @@ translated_at: 2026-06-26T08:28:46.046Z
 - **EU (MiFID II)** — 指定デリバティブに対する Trading Obligation の下での MTFs（multilateral trading facilities）および OTFs（organized trading facilities）。
 - **Japan (FIEA)** — FSA 登録 / 監督下の Electronic Trading Platforms (ETPs)。指定商品には on-platform execution obligation が課される。
 
-日本の制度は US SEF rule よりも **対象範囲が規範的に狭い**。電子執行が義務づけられる商品は少なく、ボイスブローカー経由執行と電子執行の境界もより流動的である。これは、国内ディーラー数の小ささと東京 OTC 市場におけるボイスブローカーの歴史的役割を反映した意図的な調整である。
+法域間比較には、各法域の現行の法的資料が必要である。以下では、日本に関する事実を米国・EU の呼称と分けて記載する。
 
-### 登録と監督日本で OTC デリバティブ向け ETP を運営する主体には、通常、次が必要となる。
+### 登録と監督
+
+日本で OTC デリバティブ向け ETP を運営する主体には、通常、次が必要となる。
 
 - FIEA に基づく **Electronic Trading Platform 事業者 としての FSA 登録**（商品範囲に応じた特定カテゴリ。円 IRS、外貨建て IRS、該当する場合の CDS、その他の標準化 OTC デリバティブを対象とする）。
 - market-conduct、pre-trade / post-trade transparency、member-onboarding、system-resilience、[[derivatives/otc-clearing-jp-trade-repository|JFSA-designated trade repository]] との trade-reporting integration に関する **FSA ルールの遵守**。
@@ -51,92 +48,47 @@ translated_at: 2026-06-26T08:28:46.046Z
 
 ### 電子執行義務の対象範囲
 
-FIEA の下では、**指定された標準化 OTC デリバティブ**は、対象 counterparty 間で取引される場合、on-platform execution obligation の対象となる。主たる商品クラスは、標準条件（通貨、変動金利インデックス、支払頻度、day count、満期）を備えた **円 IRS** であり、USD IRS に関する US SEF MAT determinations と対応する。
+金融庁の 2015 年の施行概要は、対象となる円 LIBOR IRS について、プラットフォーム上での執行義務を説明した。その後この指標は公表停止となったため、現在の対象範囲を判断するには、現行の金融商品取引法関係文書と金融庁資料が必要である。
 
-対象外、すなわちなおボイスブローカー経由または相対執行が認められるものは次のとおりである。
-
-- 非標準満期
-- 非標準の rate-reference indexes
-- Bespoke structures（callable、amortizing、structured-payoff）
-- 対象外 counterparty との取引（小規模事業法人、閾値未満の end-users）
-- 指定閾値を超える大口ブロック取引（block-trade exemption rules）
+商品条件、取引相手の範囲、閾値、免除は現行規則に照らして判定する必要があり、ここでは一般的な対象外一覧を提示しない。
 
 ### プレトレードおよびポストトレード透明性
 
-ETP は通常、次を公表する。
+金融庁の 2015 年の概要は、注文板または三者以上への RFQ による執行と、取引後情報の公表を説明している。ただし、取引施設の記録が ISDA、BIS、日銀の公表物に自動的に供給されるとは述べていない。現在の掲載内容、時期、遅延、監査証跡の要件は、現行規則と運営者の許認可から確認する必要がある。
 
-- platform members が閲覧できる RFQ または order-book interface 上の **pre-trade indicative quotes**
-- ISDA SwapsInfo、BIS 集計、BOJ 統計公表に供給される **post-trade transaction summaries**（匿名化され、場合により遅延）
-- RFQ submission、dealer response、trade execution の **audit trails**
-
-これは EU の **MiFID II RFQ transparency** や US の **SEF RFQ rules** と比較可能だが、範囲とタイミングの詳細は異なる。
+Source: ^[source:https://www.fsa.go.jp/common/conference/danwa/20150923/01.pdf]
 
 ### 電子プラットフォーム
 
-| Platform | Coverage |
-|---|---|
-| **Tradeweb (Tradeweb Japan)** | Multi-dealer RFQ platform — 円 IRS、OIS、JGB cash、JGB repo、選択的 FX derivatives に強い。FSA 登録 ETP 事業者。世界最大級の fixed-income electronic-trading platforms の一つであり、東京拠点は institutional flow 向け tier-1 ETP である。 |
-| **Bloomberg（日本登録を伴う Bloomberg の電子取引サービス）** | rates、FX、credit、選択的 equity derivatives にまたがる multi-dealer RFQ。Bloomberg の BSEF (Bloomberg SEF) は米国登録 SEF であり、日本向けサービスは対象商品セットについて FSA 登録下で運営される。 |
-| **MarketAxess（選択的 fixed-income credit-derivatives RFQ）** | credit-product electronic execution に強い。日本での存在感は credit-derivatives と bond-related flow が中心。 |
-| **JPX 系プラットフォーム** | JPX は [[financial-regulators/japan-exchange-group|JPX group]] と関連する電子 OTC デリバティブ取引の取り組みを持つ。対象範囲は変動するため、現行の商品提供を確認する必要がある。 |
+運営者の名称、法人、許可業務、現在の登録状況は、金融庁の登録業者資料で確認しなければならない。ベンダーが世界各地で提供する SEF、債券、FX の機能は、同じ法人が日本の ETP であることや、特定商品が日本の許可範囲に入ることを証明しない。
+
+Source: ^[source:https://www.fsa.go.jp/en/regulated/licensed/index.html]
 
 ### Interdealer voice brokers
 
-日本の interdealer voice-broker 市場は、歴史的な Tullett Prebon と ICAP non-EBS / non-BrokerTec assets の統合から形成された **TP ICAP family** と、**BGC Brokers**（現 Cantor / BGC family）を軸にしている。
-
-| Broker | Coverage |
-|---|---|
-| **ICAP (TP ICAP brand)** | 東京における voice-brokered rates、FX、credit、新興商品の OTC derivatives の歴史的中核。現在は TP ICAP の一部。円 IRS、OIS、basis swaps、JGB-cash、JGB repo、FX swaps / options をカバー。 |
-| **Tullett Prebon (TP ICAP brand)** | TP ICAP 内の姉妹 voice-broker brand。東京では OTC rates、credit、structured products をカバー。 |
-| **BGC Brokers** | Cantor / BGC のグローバル interdealer broker。東京では rates、credit、選択的新興商品に存在感。 |
-| **Tradition (Compagnie Financière Tradition)** | 独立系グローバル voice-broker。東京では rates、FX、energy / commodities 隣接領域に存在感。 |
-| **国内短資 / money-market interdealer brokers** | [[money-market/tanshi-company-business-model|tanshi]] 層およびその他の国内短期市場仲介者は、隣接する money-market と short-rate 領域で稼働する。グローバル voice brokers とは別のフランチャイズだが、front-end yen rates space では重なる。 |
+本項目は、インターディーラー・ブローカーの一覧を維持せず、グループのグローバルサイトから取扱商品を推定しない。OTC 商品の取扱いを帰属させる前に、日本法人名と現在の登録を確認する必要がある。
 
 ### Single-dealer platforms
 
-各主要 dealer bank は、顧客向け OTC 執行のために **single-dealer platforms** を運営している。
+シングルディーラー型のインターフェースと多者間 ETP は異なる構造だが、法的取扱いは実際のサービス内容によって決まる。ここではプラットフォームのブランド一覧や、報告システムとの自動連携を推定しない。
 
-- [[securities-firms/nomura-hd|Nomura]] (NomuraNow);
-- [[securities-firms/daiwa-sg|Daiwa SG]] (Daiwa Direct / institutional channels);
-- [[securities-firms/smbc-nikko|SMBC Nikko]];
-- [[securities-firms/mizuho-securities|Mizuho Securities]];
-- [[securities-firms/goldman-sachs-japan|GS Japan]] (Marquee);
-- [[securities-firms/morgan-stanley-japan|MS Japan]] (Matrix);
-- [[foreign-financial-institutions/jpmorgan-japan|JPM Japan]] (MorganMarkets);
-- [[foreign-financial-institutions/citigroup-japan|Citi Japan]] (Velocity).
+## 電子執行比率とボイスブローカー比率
 
-Single-dealer platforms は多者間 venue ではないため、**それ自体として ETP rules の対象ではない**。ただし、RFQ 型執行のために multi-dealer ETPs と統合され、取引報告を TRs に供給する。
-
-## 電子執行シェアとボイスブローカー経由シェア電子 / voice の分割に関する公開ソース上の観察は次のとおりである。
-
-| Product class | Approximate electronic share |
-|---|---|
-| **標準化円 IRS（benchmark maturities, on-the-run）** | ETP（Tradeweb / Bloomberg）経由の電子執行が過半。大口ブロックについてはボイスブローカー経由が残る。 |
-| **TONA 参照 OIS（標準化）** | 多くが電子執行。特に LIBOR transition 後、TONA-curve infrastructure への platform investment が進んだ。 |
-| **Cross-currency basis swaps（円-USD）** | 混在。電子シェアは拡大しているが、大口 / off-the-run 取引は歴史的にボイスブローカー経由。 |
-| **Bespoke / structured IRS（callable, amortizing, swaption-embedded）** | 主に voice または bilateral。 |
-| **Single-name CDS（off-cleared scope）** | 主に voice または bilateral。 |
-| **iTraxx Japan index CDS** | ハイブリッド。標準シリーズは電子、off-the-run は voice。 |
-| **FX options（institutional）** | 混在。vanilla options は電子化が進む一方、exotic / structured は voice。 |
-| **Equity OTC derivatives（variance swaps, single-stock swaps）** | 主に bilateral / dealer-direct。rates より electronic-platform penetration は低い。 |
-
-構造的パターンは、**商品が標準化されるほど電子シェアが高くなる**というものである。Bespoke かつ複雑な構造は voice-and-bilateral に残る。これは、標準化 IRS から電子執行が取り込み、その後隣接商品クラスへ徐々に広がった US SEF および EU MTF / OTF の経験と重なる。
+引用した金融庁資料は、現在の商品別の電子／ボイス比率を示していない。比較には、取引件数、想定元本、出来高のいずれかで分母を定義し、執行方法を分類した日付付きのデータセットが必要である。
 
 ## US SEF および EU MiFID II OTF / MTF との比較
 
-| Dimension | US (Dodd-Frank SEF) | EU (MiFID II MTF / OTF) | Japan (FIEA ETP) |
-|---|---|---|---|
-| **Mandatory venue type** | SEF（または DCM） | MTF または OTF | FSA 登録下の ETP |
-| **Mandatory product scope** | 指定 swaps（USD IRS、EUR IRS、CDS indexes）に対する "Made Available to Trade" (MAT) determinations | 指定 derivatives に対する RTS 22 下の Trading Obligation | 指定標準化 OTC products（特に円 IRS） |
-| **RFQ minimum** | 対象商品について RFQ-3 （少なくとも 3 dealers に request） | MiFID II RTS 下の RFQ rules | FSA / FIEA ETP rules 下の RFQ rules |
-| **Pre-trade transparency** | SEF が real-time tradable quotes を公表 | MiFID II 下の pre-trade transparency（large-size waiver あり） | ETP 上の pre-trade transparency（block-trade exemptions あり） |
-| **Post-trade transparency** | SDR (Swap Data Repository) への real-time reporting | APA (Approved Publication Arrangement) reporting | FSA ごとの publication arrangements を伴う trade-repository reporting（DTCC Japan） |
-| **Block-trade exemption** | 指定閾値を超える block-trade rules | MiFID II 下の large-in-scale waiver | FSA / FIEA rules 下の block-trade exemption |
-| **Cross-border equivalence** | 外国 venue に対する substituted compliance / comparability（判定がある場合） | third-country venues に対する equivalence（判定がある場合） | EMIR / Title-VII equivalence（付与される場合） |
-| **Voice-証券仲介 role** | SEF rule 後、対象商品では縮小 | MiFID II 後、対象商品では縮小 | とくに非標準 / ブロックでなお重要な残存役割 |
-| **Dealer-count** | 多数の SEF が稼働し、実装後に一部統合 | 商品クラスごとの venue は少なめ | 日本向け ETP は集中した少数、voice-broker tier は引き続き重要 |
+| 金融庁の 2015 年概要に記載された日本 ETP の特徴 | 証拠の限界 |
+|---|---|
+| 開始日 | 当時定義された対象範囲について、電子取引基盤の利用義務は九月 1 日（2015 年）に始まった |
+| 概要資料の商品 | 円 LIBOR IRS。この歴史的な呼称は、現在の TONA の対象範囲を証明しない |
+| 執行方法 | 注文板、または三者以上への RFQ |
+| 透明性 | 金融庁が取引後情報の公表を説明 |
+| 外国プラットフォームの経路 | 外国電子取引基盤向けの許可枠組みを説明 |
 
-構造的な要点は、**日本の ETP regime は US SEF / EU MTF-OTF frameworks と機能的に整合しているが、どの取引を電子的に執行すべきかについては規則上の規定が弱く、counterparty 側の裁量をより多く残している**ことである。これが、同等商品について日本の trade count ベースの electronic-execution share が US より低く、ボイスブローカー経由の裾野が大きい理由の一つである。
+Source: ^[source:https://www.fsa.go.jp/common/conference/danwa/20150923/01.pdf]
+
+米国・EU の制度は、それぞれの現行一次資料に基づいて比較すべきである。電子執行比率や規則の厳格さについて、相対的な順位をここでは主張しない。
 
 ## FSA dealer regulation
 

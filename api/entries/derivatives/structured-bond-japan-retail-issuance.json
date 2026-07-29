@@ -23,15 +23,15 @@
       "Japan equity-linked note retail",
       "Japan reverse convertible retail",
       "Japan currency-linked deposit",
-      "FSA suitability crackdown structured bond",
+      "FSA structured-bond monitoring",
       "derivatives/japan-structured-bonds"
     ],
     "domain": "derivatives",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "derivatives",
@@ -62,7 +62,7 @@
       "https://www.nomura.co.jp/"
     ]
   },
-  "summary": "\"Structured bond\" (仕組債, shikumisai) is the umbrella Japanese term for retail-facing fixed-income products that embed derivative payoffs — typically equity-linked notes (EB, Equity Bond) with knock-in barriers, currency-linked deposits, reverse-convertible bonds with put-strike-at-discount, and digit",
+  "summary": "“Complex structured bond” (複雑な仕組債) is a JSDA regulatory term for a bond whose interest or redemption uses an OTC derivative or an equivalent economic structure. JSDA identifies EB bonds, equity-index-linked bonds and conditional dual-currency bonds as examples that may fall within the category. FSA",
   "headings": [
     "Structured bond Japan retail issuance",
     "TL;DR",
@@ -73,7 +73,7 @@
     "Distribution channel",
     "Arranger fees",
     "Hedging mechanics",
-    "Mechanics"
+    "Conditional dual-currency bond mechanics"
   ],
   "body_links": {
     "wikilinks_count": 23,
@@ -131,9 +131,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 14207,
-    "word_like_tokens": 2114,
+    "nonspace_chars": 14237,
+    "word_like_tokens": 2288,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-29"
   }
 }

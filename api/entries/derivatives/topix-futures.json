@@ -22,15 +22,14 @@
       "TOPIX Mini",
       "OSE TOPIX futures",
       "東証株価指数先物",
-      "TOPIX 100 futures",
       "TOPIX Core 30 futures"
     ],
     "domain": "derivatives",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "derivatives",
@@ -39,38 +38,38 @@
       "OSE",
       "JPX",
       "futures",
-      "ETF-arb",
-      "institutional",
-      "ALM"
+      "ETF-basis"
     ],
     "status": "active",
     "canonical_anchor": null,
     "related": [],
     "note": null,
     "sources": [
-      "https://www.jpx.co.jp/english/markets/derivatives/topix-futures/",
-      "https://www.jpx.co.jp/english/markets/derivatives/",
       "https://www.jpx.co.jp/english/markets/indices/topix/",
-      "https://www.jpx.co.jp/english/markets/derivatives/trading-volume/",
-      "https://www.jscc.co.jp/en/",
-      "https://www.fsa.go.jp/en/"
+      "https://www.jpx.co.jp/english/derivatives/products/domestic/topix-futures/01.html",
+      "https://www.jpx.co.jp/english/derivatives/products/domestic/mini-topix-futures/01.html",
+      "https://www.jpx.co.jp/english/derivatives/products/domestic/topix-core30futures/01.html",
+      "https://www.jpx.co.jp/english/derivatives/products/domestic/topix-banks-index-futures/01.html",
+      "https://www.jpx.co.jp/jscc/en/cash/futures/marginsystem/VaR.html",
+      "https://www.boj.or.jp/en/mopo/mpmdeci/state_2024/k240319a.htm",
+      "https://www.boj.or.jp/en/mopo/mpmdeci/state_2025/k250919a.htm"
     ]
   },
-  "summary": "TOPIX futures are exchange-listed equity-index futures on the Tokyo Stock Price Index (TOPIX), the JPX-flagship free-float-market-capitalization-weighted index covering all Prime Market (formerly First Section) constituents — roughly 2,000 stocks. They list on the Osaka Exchange (OSE) under Japan Ex",
+  "summary": "TOPIX futures are exchange-listed equity-index futures on the Tokyo Stock Price Index (TOPIX). JPX describes TOPIX as an investable, free-float-adjusted market-capitalization-weighted benchmark covering an extensive proportion of the Japanese stock market. The current constituent set must be read fr",
   "headings": [
     "TOPIX futures (OSE)",
     "TL;DR",
     "Wiki route",
     "Contract Specifications",
     "TOPIX vs Nikkei 225: Methodological Difference",
-    "Basis to ETF Arbitrage",
-    "Institutional Flow Profile",
-    "Sub-Index Futures: Core 30, 100, Banks",
+    "Cash-Futures Basis Framework",
+    "Investor-Data Boundary",
+    "Sub-Index Futures: Core30 and Banks",
     "Clearing and Margin",
     "Related"
   ],
   "body_links": {
-    "wikilinks_count": 17,
+    "wikilinks_count": 16,
     "wikilinks": [
       "INDEX",
       "banking/INDEX",
@@ -79,7 +78,6 @@
       "derivatives/japan-single-stock-options",
       "derivatives/nikkei-225-futures-options",
       "derivatives/nikkei-vix-jpx-vi-equivalent",
-      "finance/INDEX",
       "insurance/japan-life-insurance-alm-overview",
       "money-market/boj-open-market-operations",
       "securities/INDEX",
@@ -98,7 +96,6 @@
       "https://finwiki.zksc.io/ja/derivatives/japan-single-stock-options/",
       "https://finwiki.zksc.io/ja/derivatives/nikkei-225-futures-options/",
       "https://finwiki.zksc.io/ja/derivatives/nikkei-vix-jpx-vi-equivalent/",
-      "https://finwiki.zksc.io/ja/domains/finance/",
       "https://finwiki.zksc.io/ja/insurance/japan-life-insurance-alm-overview/",
       "https://finwiki.zksc.io/ja/money-market/boj-open-market-operations/",
       "https://finwiki.zksc.io/ja/domains/securities/",
@@ -113,9 +110,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 9517,
-    "word_like_tokens": 1533,
+    "nonspace_chars": 8632,
+    "word_like_tokens": 1431,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-07-29"
   }
 }

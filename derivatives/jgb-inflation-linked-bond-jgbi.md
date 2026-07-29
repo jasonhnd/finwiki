@@ -12,19 +12,18 @@ aliases:
   - "linker JGB"
 domain: derivatives
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
 confidence: likely
 tags: [derivatives, JGBi, inflation-linked-bond, MoF, JGB, BEI, breakeven-inflation, primary-dealer, BoJ-holdings]
 status: active
 sources:
-  - "https://www.mof.go.jp/english/policy/jgbs/topics/Inflation-Indexed_Bonds/index.htm"
-  - "https://www.mof.go.jp/english/policy/jgbs/"
-  - "https://www.boj.or.jp/en/statistics/boj/fm/jgb/index.htm"
-  - "https://www.stat.go.jp/english/data/cpi/index.html"
-  - "https://www.bis.org/statistics/securities_stats.htm"
-  - "https://www.fsa.go.jp/en/"
+  - "MOF JGBi product page — https://www.mof.go.jp/english/policy/jgbs/topics/bond/10year_inflation/index.htm"
+  - "MOF indexation coefficient — https://www.mof.go.jp/english/policy/jgbs/topics/bond/10year_inflation/coefficient.htm"
+  - "MOF JGB auction surface — https://www.mof.go.jp/english/policy/jgbs/auction/index.htm"
+  - "Statistics Bureau CPI — https://www.stat.go.jp/english/data/cpi/index.html"
+  - "BOJ JGB holdings statistics — https://www.boj.or.jp/en/statistics/boj/fm/jgb/index.htm"
 ---
 
 # JGB inflation-linked bond (JGBi)
@@ -33,9 +32,9 @@ sources:
 
 JGBi (物価連動国債, "Japan Government Bond Inflation-Indexed") is the inflation-linked variant of the Japanese Government Bond (JGB), issued by the Ministry of Finance (MoF) with principal indexed to the Japan CPI ex-fresh-food index. JGBi was first issued in March 2004; issuance was paused in 2008 amid the global financial crisis and resumed in October 2013 under the BoJ's QQE framework and the government's commitment to escape deflation. The standard tenor at issuance is 10 years.
 
-JGBi's distinguishing feature is that the principal is adjusted upward (or downward) by the cumulative change in the reference CPI between the bond's reference date and the relevant payment date; the fixed coupon rate is applied to the inflation-adjusted principal, generating an inflation-linked coupon stream. From a 2014 reissuance amendment, JGBi has carried a deflation floor: at maturity, the redemption amount cannot be below par, protecting investors against principal erosion in a deflationary scenario.
+JGBi's distinguishing feature is that the principal is adjusted by the cumulative change in the reference CPI between the bond's reference date and the relevant payment date; the fixed coupon rate is applied to the inflation-adjusted principal. Bonds issued in and after 2013 carry a maturity deflation floor: the redemption amount cannot be below par.
 
-Foreign investor holdings of JGBi have grown materially since the 2013 resumption and frequently represent the largest single category of holders. The JGBi-implied breakeven inflation rate (nominal JGB yield minus JGBi yield at matching tenor) is a closely watched market-based read on Japan inflation expectations and complements the [[derivatives/japan-inflation-swap|JPY inflation swap]] breakeven.
+The JGBi-implied breakeven inflation rate is commonly approximated as a matched-maturity nominal JGB yield minus a JGBi real yield. It is a cash-market spread affected not only by inflation expectations but also by liquidity, indexation, taxation, and the value of the maturity floor.
 
 For FinWiki, this entry covers issuance history, the auction and reopening cadence, the deflation floor, foreign investor share, the breakeven inflation rate signal, and BoJ holdings.
 
@@ -49,15 +48,16 @@ The JGBi program has unfolded in distinct phases:
 
 | Period | Phase | Notes |
 |---|---|---|
-| 2004 March | First issuance | 10Y JGBi introduced under MoF JGB issuance plan to broaden product range and engage investor base interested in inflation hedging |
-| 2004–2008 | Early phase | Modest issuance volumes; mostly institutional uptake; secondary market thin |
-| 2008 (post-Lehman) | Issuance paused | Global financial crisis, market dislocation, very low / negative inflation outlook reduced investor demand |
+| 2004 March | First issuance | MOF history records the first issuance of the 10Y product |
+| 2004–2008 | Early phase | Use dated MOF auction and outstanding tables for issue volume; this product page does not establish holder mix or secondary-market liquidity |
+| 2008 (post-Lehman) | Issuance paused | MOF history records the issuance pause; this page does not assign a demand cause without a specific supporting source |
 | 2008–2013 | No new issuance | Outstanding JGBi remained but no new issuance |
-| 2013 October | Issuance resumed | Resumed under BoJ QQE framework and government commitment to escape deflation; 10Y tenor; deflation floor (added 2013) on newly issued series |
-| 2014 amendment | Deflation floor mechanism formalized | Redemption protected at par; mandatory for new issuance |
-| 2013–present | Regular issuance | Approximately quarterly issuance and reopenings under MoF issuance plan; volumes set in annual MoF planning |
+| 2013 October | Issuance resumed | 10Y issuance resumed; bonds issued in and after 2013 include the maturity deflation floor |
+| Current program | Issuance under annual plans and auction announcements | Dates, amounts, and reopenings must be taken from the current MOF plan and auction notices |
 
-The MoF JGB Issuance Plan, published annually, specifies the JGBi issuance volume for the fiscal year. JGBi is a small share of total JGB issuance — typically a few percent — and the program's main purpose has been to develop a market for inflation-linked instruments rather than to be a major funding tool.
+Source: ^[source:https://www.mof.go.jp/english/policy/jgbs/topics/bond/10year_inflation/index.htm]
+
+The MOF JGB Issuance Plan specifies the fiscal-year program; undated cadence and share estimates should not substitute for that plan.
 
 ## Auction and Reopening Mechanics
 
@@ -66,14 +66,13 @@ JGBi follows a structured auction and reopening cycle:
 | Element | Detail |
 |---|---|
 | Issuer | Ministry of Finance (MoF) |
-| Auction format | Conventional auction (yield-based or price-based, depending on series and MoF determination); reopenings of existing series increase outstanding |
-| Auction participants | [[derivatives/jgb-special-participants-primary-dealer|JGB Special Participants]] (Japan's primary dealer system) submit bids; non-Special-Participants can bid via Special Participant intermediation |
-| Tenor at issuance | 10 years (standard) |
-| Reopening cadence | Existing series reopened multiple times to build outstanding; reduces the number of distinct ISINs in the market and improves per-series liquidity |
-| Issuance per auction | Variable; typically in the hundreds of billions JPY per auction |
-| Buyback / sterilization | MoF may conduct JGBi buybacks to manage supply; BoJ has historically held a substantial portion of outstanding |
+| Auction terms | Defined in the dated MOF auction announcement and result |
+| Eligible direct bidders | Defined by the applicable MOF auction rules and participant framework |
+| Tenor | 10-year inflation-indexed JGB product |
+| Reopening | Issue number and terms are stated in each dated announcement |
+| Amount | Use the announced amount; no generic “hundreds of billions” assumption is applied |
 
-The reopening cadence is a deliberate design choice to concentrate liquidity in fewer, larger series rather than fragmenting the market with many small individual issues.
+Sources: ^[source:https://www.mof.go.jp/english/policy/jgbs/auction/index.htm] ^[source:https://www.mof.go.jp/english/policy/jgbs/topics/bond/10year_inflation/index.htm]
 
 ## Deflation Floor
 
@@ -89,16 +88,7 @@ The economic value of the deflation floor depends on the probability of negative
 
 ## Foreign Investor Share
 
-Foreign investor holdings of JGBi have been a notable feature since the 2013 resumption:
-
-| Aspect | Detail |
-|---|---|
-| Foreign holdings share | Has frequently been the largest single category by holder type; reported in MoF and BoJ holder statistics |
-| Why foreign demand | International investors seeking JPY-denominated real-return exposure; relative-value vs other inflation-linked markets (TIPS, OATi, gilts); JGBi-swap basis trades; JPY-USD currency-hedged real-yield strategies |
-| Distribution channel | Special Participants and foreign dealer banks active in JGB markets execute on behalf of foreign accounts |
-| Settlement | Through [[securities/japan-securities-depository-center|JASDEC]] / BoJ-NET infrastructure |
-
-The high foreign share contrasts with nominal JGBs, where foreign investors hold a smaller share (the bulk of nominal JGBs are held by BoJ, Japanese banks, life insurers, and pension funds). The foreign tilt in JGBi reflects the more specialized nature of inflation-linked exposure and the smaller absolute size of the JGBi market making concentrated positions possible.
+Investor shares are time-varying. A current foreign-share claim must cite a dated MOF or BOJ holder table whose security perimeter explicitly identifies inflation-indexed JGBs; aggregate JGB holder data should not be silently treated as JGBi-only evidence. The sources used here do not support a standing claim that foreign investors are the largest category.
 
 ## Breakeven Inflation Rate Signal
 
@@ -112,41 +102,40 @@ This BEI represents the market-implied cumulative annual inflation rate (with a 
 
 | BEI measure | What it captures |
 |---|---|
-| 10Y JGBi BEI | Market-implied annual inflation expectation over 10 years; the most-watched JGBi signal |
+| 10Y JGBi BEI | Matched-maturity nominal-real yield spread over 10 years, subject to the adjustments described below |
 | Forward BEI (e.g., 5Y forward 5Y BEI) | Market-implied inflation expectation for the second half of the JGBi tenor; less direct contamination from current realized inflation |
-| Swap-implied breakeven (from [[derivatives/japan-inflation-swap|JPY inflation swap]]) | Derivative-based parallel measure; typically prints lower than JGBi BEI by a liquidity premium |
+| Swap-implied breakeven (from [[derivatives/japan-inflation-swap|JPY inflation swap]]) | Derivative-market measure with different collateral, liquidity, and contract effects; the spread sign is empirical, not fixed |
 
-The JGBi BEI has been the centerpiece of "is the BoJ 2% target priced?" debates:
+Sources: ^[source:https://www.mof.go.jp/english/policy/jgbs/topics/bond/10year_inflation/index.htm] ^[source:https://www.stat.go.jp/english/data/cpi/index.html]
 
-- During the QQE era pre-2022, 10Y JGBi BEI persistently sat below 2%, sometimes well below 1%, even as BoJ massively eased policy.
-- Post-2022 with above-target realized inflation, BEI repriced higher; the gap to 2% narrowed and at times closed.
-- Post-2024 (BoJ normalization), BEI has stabilized in the range that reflects market views on long-term inflation around or modestly above 2%.
+The raw yield difference is not a pure expectation measure. Any historical level or forward-BEI claim requires dated, matched securities and explicit treatment of index lag, liquidity, carry, and the maturity floor.
 
 ## BoJ Holdings
 
-BoJ has held a substantial portion of outstanding JGBi as part of its broader JGB-purchase program under QQE / YCC:
+BOJ publishes JGB holdings statistics. A JGBi-specific amount or share must align the security classification, observation date, and MOF outstanding denominator:
 
 | Aspect | Detail |
 |---|---|
-| BoJ JGBi holdings | Reported in BoJ balance sheet and BoJ holdings statistics; have grown materially since 2013 resumption |
-| Share of outstanding | A meaningful share (cited specifically in BoJ disclosures and BIS / BoJ analytical publications) |
-| Implications for market functioning | Reduces free-float of JGBi available for trading; affects JGBi liquidity and BEI computation; analogous to BoJ nominal JGB-holdings effect |
-| Post-2024 normalization | BoJ gradually reducing JGB purchases overall; JGBi run-off path watched as part of broader balance-sheet normalization |
+| Published series | BOJ holdings statistics and balance-sheet tables; security classification and date must be stated |
+| Share calculation | Requires a same-date MOF outstanding denominator with matching JGBi scope |
+| Market-function inference | A holdings level alone does not quantify free float, liquidity, or BEI distortion |
+| Policy period | Current purchase and run-off treatment must be taken from dated BOJ decisions |
 
-The high BoJ holdings of JGBi reduce the effective floating supply and can distort the BEI signal (because the cash bond price reflects BoJ-presence supply effects in addition to pure inflation expectations).
+Source: ^[source:https://www.boj.or.jp/en/statistics/boj/fm/jgb/index.htm]
+
+This page does not state an undated BOJ share or infer a quantified price effect without a matched holdings and outstanding dataset.
 
 ## JGBi vs JGB Cash Market Liquidity
 
 | Aspect | Nominal JGBs | JGBi |
 |---|---|---|
-| Annual issuance | ~JPY 150-200 trillion across tenors | A small fraction; tens of trillions JPY in recent years |
-| Outstanding | ~JPY 1,000+ trillion | A few percent of nominal outstanding |
-| Daily turnover | Very large; deep order book at active tenors | Much thinner; episodic flow |
-| Repo market | Active SC and GC market | Less liquid SC market; GC limited |
-| Futures | [[derivatives/jgb-futures-curve|JGB futures]] (10Y, 5Y, 20Y) | No dedicated JGBi futures contract |
-| Foreign holder share | Lower share | Higher share |
+| Issuance and outstanding | Use dated MOF plans and outstanding tables | Use dated MOF JGBi announcements and tables |
+| Yield interpretation | Nominal yield | Real yield under JGBi indexation and floor terms |
+| Price reference | Nominal JGB cash prices and yields | JGBi cash prices, accrued indexation, and real yields |
+| Listed futures | Current JPX lineup includes physically delivered 5Y, 10Y, and mini 20Y contracts plus cash-settled mini 10Y | No dedicated JGBi futures contract is listed on the cited JPX JGB-futures surface |
+| Liquidity comparison | Requires dated, like-for-like turnover or quote data | Do not infer from issue count or holder labels alone |
 
-The asymmetry in liquidity is a structural feature of the inflation-linked vs nominal sovereign bond markets globally (TIPS in the US is similarly less liquid than nominal Treasuries) and creates JGBi-specific risk premia.
+Sources: ^[source:https://www.mof.go.jp/english/policy/jgbs/topics/bond/10year_inflation/index.htm] ^[source:https://www.jpx.co.jp/english/derivatives/products/jgb/jgb-futures/01.html] ^[source:https://www.jpx.co.jp/english/derivatives/products/jgb/mini-jgb-futures/index.html]
 
 ## Related
 

@@ -1,18 +1,18 @@
 ---
 source: derivatives/japan-interest-rate-derivatives-overview
-source_hash: e8cb30cec69ce737
+source_hash: f25532f65245b750
 lang: en
 status: machine
 fidelity: ok
 title: "Japan interest-rate derivatives overview"
-translated_at: 2026-05-31T03:19:56.466Z
+translated_at: 2026-07-29T21:20:00.000Z
 ---
 
 # Japan interest-rate derivatives overview
 
 ## TL;DR
 
-Japan's interest-rate derivatives ecosystem comprises six principal instrument types — yen IRS, OIS referencing TONA, yen swaptions, JGB futures (10Y standard and mini, 5Y, 20Y), TONA 3-month futures, and asset swaps — together with the clearing, regulatory, and dealer-franchise layer that supports them. Aggregate daily turnover is in the trillions of USD-equivalent (across notional sliced by tenor and instrument), with most activity concentrated in the megabank-affiliated and global dealer set.
+Japan's interest-rate derivatives ecosystem includes yen IRS, TONA OIS, yen swaptions, JGB futures, three-month TONA futures, and asset swaps, together with clearing and regulatory infrastructure. BIS, BOJ, JPX, and JSCC publish different measures—turnover, outstanding notional, contract volume, and cleared positions—which must not be combined into a single unsupported market-size claim.
 
 The market is regulated under the Financial Instruments and Exchange Act (FIEA), supervised by the Financial Services Agency (FSA), with central clearing at Japan Securities Clearing Corporation (JSCC) for mandated standardized trades. The Bank of Japan exercises macro influence both through monetary policy (which drives the OIS curve) and through its JGB-purchase program (which influences cash JGB and JGB futures markets).
 
@@ -22,18 +22,21 @@ For FinWiki, this entry is the domain anchor: it routes the constituent instrume
 
 This entry sits under [[derivatives/INDEX|derivatives index]] as the rates-cluster anchor. Read it together with the constituent pages: [[derivatives/japan-irs-market]], [[derivatives/ois-tona-curve]], [[derivatives/jgb-futures-curve]], and [[derivatives/yen-basis-swap-market]]. The cash side and BoJ policy framework are in [[money-market/INDEX]] and [[money-market/boj-open-market-operations]]; the clearing infrastructure is in [[securities/japan-securities-clearing-corp]].
 
-## The Six Principal Instrument Types
+## Principal Instrument Types
 
-| Instrument | Market venue | Reference rate | Liquid tenor band | Anchor page |
+| Instrument | Market venue | Contractual reference | Public specification boundary | Anchor page |
 |---|---|---|---|---|
-| Yen IRS | OTC, much cleared at JSCC | 1M / 3M / 6M TIBOR; TONA-compounded | 2Y to 30Y | [[derivatives/japan-irs-market]] |
-| Yen OIS | OTC, much cleared at JSCC | TONA-compounded-in-arrears | 1W to 30Y; deepest 1Y to 10Y | [[derivatives/ois-tona-curve]] |
-| Yen swaption | OTC, mostly bilateral | Underlying yen IRS (TIBOR or TONA) | 1Y x 1Y up to 10Y x 30Y; deepest at 5Y x 5Y, 10Y x 10Y | (W8-D planned `derivatives/japan-yen-swaption.md`) |
-| JGB futures | OSE (JPX), cleared at JSCC | Notional JGB; CTD-delivered | 10Y standard, 10Y mini, 5Y, 20Y | [[derivatives/jgb-futures-curve]] |
-| TONA 3-month futures | OSE (JPX), cleared at JSCC | 3M compounded TONA | Short end (front quarters) | (covered in [[derivatives/ois-tona-curve]]) |
-| Asset swap | OTC, mostly bilateral | JGB cash leg + IRS leg | Matches underlying JGB | (W8-D planned `derivatives/jgb-asset-swap.md`) |
+| Yen IRS | OTC; eligible products can be submitted to JSCC | TONA OIS and specified D-TIBOR products under JSCC rules | Eligibility is not the same as a legal clearing obligation | [[derivatives/japan-irs-market]] |
+| Yen OIS | OTC; eligible products can be submitted to JSCC | Compounded uncollateralized overnight call rate (TONA) | Conventions and tenor are transaction-specific | [[derivatives/ois-tona-curve]] |
+| Yen swaption | OTC | A specified underlying yen IRS | Exercise, settlement, and underlying terms are confirmation-specific | [[derivatives/japan-swaption-market]] |
+| Physically delivered JGB futures | Osaka Exchange; JSCC-cleared | 5-year, 10-year, and mini 20-year notional JGB contracts | JPX publishes current contract size, tick, expiry, and delivery rules | [[derivatives/jgb-futures-curve]] |
+| Mini 10-year JGB futures | Osaka Exchange; JSCC-cleared | 10-year JGB futures price | Cash-settled and distinct from physically delivered contracts | [[derivatives/jgb-futures-curve]] |
+| Three-month TONA futures | Osaka Exchange; JSCC-cleared | 100 minus the three-month compounded TONA rate | Cash-settled under the JPX specification | [[derivatives/ois-tona-curve]] |
+| Asset swap | OTC | Contractually combined cash-bond and interest-rate-swap exposure | Terms and clearing treatment depend on the component transactions | [[derivatives/japan-irs-market]] |
 
-The OTC instruments dominate notional outstanding; the listed instruments dominate transaction count and provide daily price discovery. A typical institutional rates strategy uses a mix: futures for tactical duration, swaps for tailored tenor / curve exposure, swaptions for convexity / volatility, and asset swaps for cash-and-derivative-combined trades.
+Sources: ^[source:https://www.jpx.co.jp/english/derivatives/products/jgb/jgb-futures/01.html] ^[source:https://www.jpx.co.jp/english/derivatives/products/jgb/mini-jgb-futures/index.html] ^[source:https://www.jpx.co.jp/english/derivatives/products/interest-rate/3m-tona-futures/index.html] ^[source:https://www.jpx.co.jp/jscc/en/cash/irs/product.html]
+
+The measures published for OTC and listed products are not directly comparable: OTC datasets commonly report notional or market value, while JPX publishes contract volume and open interest.
 
 ## Cross-Currency Bridge
 
@@ -51,73 +54,60 @@ These bridges mean Japan rates derivatives cannot be analyzed in isolation; bala
 
 The participant set spans dealers, end-users, and infrastructure:
 
-| Category | Examples / role |
+| Category | Publicly verifiable role |
 |---|---|
-| Megabank-affiliated securities firms (dealers) | MUFG Securities, SMBC Nikko, Mizuho Securities — dominant JPY rates makers. |
-| Independent Japanese securities firms (dealers) | Nomura, Daiwa — strong JPY franchise plus cross-border. |
-| Global investment banks (dealers) | JPMorgan, Goldman, Citi, Morgan Stanley, Deutsche Bank, Barclays, BNP Paribas, HSBC, UBS. |
-| Domestic banks (end-users) | Megabanks treasury, regional banks, trust banks, Norinchukin Bank — primarily ALM hedging. |
-| Life insurers (end-users) | Long-tenor receive-fixed flow for policy-reserve duration matching. |
-| Non-life insurers (end-users) | Smaller-scale ALM hedging. |
-| Corporates (end-users) | Floating-to-fixed loan hedging, foreign-issuance swap-back, capital-structure hedging. |
-| Foreign macro / hedge funds | Tactical Japan-rate views, relative-value Japan vs major-currency curves. |
-| Pension funds / asset managers | Duration management on JPY fixed-income mandates. |
-| Inter-dealer brokers | ICAP / Tradition / BGC / Tullett Prebon — anonymous execution and price discovery. |
-| CCP | Japan Securities Clearing Corporation (JSCC) — central clearing infrastructure. |
-| Regulator | Financial Services Agency (FSA) under FIEA. |
-| Central bank | Bank of Japan — macro driver of curve via policy and JGB-purchase program. |
+| Registered financial-instrument firms and other derivatives dealers | Execute or intermediate transactions within the scope of their registration and applicable conduct rules |
+| Banks, insurers, corporates, asset managers, and other end users | May hedge or take rate exposure; a particular institution's direction requires transaction or portfolio evidence |
+| Osaka Exchange | Lists the JGB and three-month TONA futures described above |
+| JSCC | Clears eligible listed derivatives and OTC IRS under its published rules |
+| FSA | Administers the applicable regulatory, clearing, and reporting framework |
+| BOJ | Publishes TONA and market statistics and implements monetary policy |
 
-The dealer franchise is the structural backbone. Public franchise commentary appears in [[megabanks/mufg-bank]], [[megabanks/sumitomo-mitsui-banking-corp]], [[megabanks/mizuho-bank]] parent-group IR materials.
+Sources: ^[source:https://www.jpx.co.jp/jscc/en/cash/irs/product.html] ^[source:https://www.fsa.go.jp/en/news/2022/20220912-1/01.pdf] ^[source:https://www.boj.or.jp/en/statistics/market/short/mutan/index.htm]
+
+No public source used here establishes a current dealer ranking or a universal end-user direction.
 
 ## Daily Turnover
 
 Aggregate daily turnover (notional) across JPY interest-rate derivatives:
 
-| Source | Measure |
+| Source | Measure and interpretation |
 |---|---|
-| BIS Triennial Central Bank Survey (FX and OTC derivatives, latest 2022 vintage) | JPY-denominated OTC interest-rate derivatives turnover is in the hundreds of billions of USD-equivalent per day at aggregate. |
-| ISDA SwapsInfo weekly aggregated transactions | Weekly cleared and bilateral JPY-IRS notional in the trillions of USD-equivalent. |
-| JPX monthly volume statistics | Listed derivatives (JGB futures, TONA futures) daily contract volume disclosed monthly. |
-| BoJ Japan-portion of BIS survey | Daily turnover for Japan-located dealers' books. |
+| BIS Triennial Central Bank Survey | Triennial OTC interest-rate turnover by currency, instrument, counterparty, and location; vintage and adjustment basis must be stated |
+| BIS semiannual OTC derivatives statistics | Outstanding notional and gross market value at reporting dates; these are stocks, not daily turnover |
+| BOJ Japan portion of BIS surveys | Japan-reporting-dealer results whose location basis differs from global currency totals |
+| JPX statistics | Listed contract volume and open interest; contract counts are not directly comparable with OTC notional |
 
-The standard caution: turnover and notional outstanding are different concepts; both are reported by BIS but in different periodicity (turnover triennially, outstanding semi-annually). For any current figure, cite the exact source release and survey vintage.
+Sources: ^[source:https://www.bis.org/statistics/derstats.htm] ^[source:https://www.boj.or.jp/en/statistics/bis/yoshi/index.htm] ^[source:https://www.jpx.co.jp/english/markets/statistics-derivatives/index.html]
 
-The trillions-of-USD-equivalent scale is a useful order-of-magnitude anchor but is dominated by a small number of large dealers and concentrated at standard tenors.
+Raw levels must not be compared without aligning reporting period, location/currency basis, instrument scope, and units.
 
 ## Regulatory Framework
 
 The principal regulatory layers governing Japan rates derivatives:
 
-| Layer | Detail |
+| Layer | Evidence-bounded description |
 |---|---|
 | Financial Instruments and Exchange Act (FIEA, 金融商品取引法) | Statutory framework covering securities, derivatives, market intermediaries, disclosure, and market conduct. |
-| FSA supervision | The Financial Services Agency (金融庁) supervises FIEA-registered dealers, exchanges, CCPs, and market infrastructure. |
-| Derivative dealer registration | Activities require Type 1 Financial Instruments Business registration under FIEA. See [[banking/japan-banking-license-tier-comparison-matrix]] for licensing layers. |
-| CCP clearing mandate | FSA-designated standardized JPY IRS must be cleared at JSCC; scope has expanded over multiple rule cycles. |
-| Reporting obligation | Trade reporting to designated repositories (TR) under FSA rules. |
-| ISDA documentation | Most OTC trades use ISDA Master Agreements (typically 1992 or 2002 form) plus CSAs and product-specific annexes. |
-| BoJ market surveillance | The BoJ monitors money-market and derivatives functioning as part of its operational responsibility, including survey activity (Tokyo Money Market Survey). |
-| Capital and margin rules | Basel III risk-weighted-asset rules, leverage ratio, NSFR, LCR. Uncleared Margin Rules (UMR) for non-cleared bilateral trades. |
-| Audit and reporting | Listed entity disclosures under FIEA; derivative hedge accounting under Japanese GAAP / IFRS for issuers. |
+| FSA rules and supervision | Applicable registration, conduct, clearing, margin, and reporting requirements depend on product and counterparty scope |
+| OTC-derivative reporting | FSA guidelines define reportable information, reporting entities, and submission routes; “all trades” should not be inferred without testing scope and exemptions |
+| JSCC clearing | JSCC publishes eligible IRS products and rules; product eligibility alone does not prove that a specific trade is legally mandated to clear |
+| Contract documentation | ISDA definitions and bilateral terms can govern OTC trades, subject to applicable Japanese law and CCP rules |
 
-The regulatory framework is broadly consistent with G20 / FSB derivative-reform commitments (central clearing, trade reporting, capital and margin standards). Japan was an early adopter of CCP clearing for major rates products.
+Sources: ^[source:https://www.fsa.go.jp/en/news/2022/20220912-1/01.pdf] ^[source:https://www.jpx.co.jp/jscc/en/cash/irs/product.html] ^[source:https://www.jpx.co.jp/jscc/en/rule/rule_irs.html]
 
-## TOMS Clearing Platform (and JSCC Clearing)
-
-The JPX group's Trade-Order Management System (TOMS) is the technical infrastructure that supports listed-derivatives matching and clearing flow into JSCC. For OTC IRS, JSCC operates a dedicated OTC clearing platform (JGBCC was the precursor for JGB cash; JSCC consolidated clearing across JPX-group products).
+## JSCC IRS Clearing
 
 Key JSCC clearing features for OTC IRS:
 
 | Feature | Detail |
 |---|---|
-| Eligible products | Standardized JPY IRS at mandated tenors and reference indices; expanded over time. |
-| Membership | Direct clearing members (DCMs) plus client clearing via DCMs for non-members. |
-| Margin | Initial margin (IM) using portfolio-margining methodology; daily variation margin (VM) in JPY cash. |
-| Default management | Tiered waterfall (defaulter margin → defaulter default-fund contribution → JSCC capital tranche → non-defaulting member fund). |
-| Auction process | In default scenarios, JSCC conducts portfolio auctions to non-defaulting members. |
-| Cross-currency products | JSCC's scope is principally JPY-denominated; cross-currency CCBS clearing is more limited. |
+| Eligible products | OIS, D-TIBOR IRS, D-TIBOR tenor swaps, OIS basis swaps, and OIS-versus-D-TIBOR basis swaps under the published product criteria |
+| Client clearing | JSCC publishes a client-clearing framework alongside clearing-participant access |
+| Rules | Product, acceptance, margin, and default-management details are governed by the current IRS rules and procedures |
+| Scope caution | Eligibility, voluntary submission, and a statutory clearing obligation are separate questions |
 
-For listed derivatives (JGB futures, TONA futures, Nikkei 225 futures and options), JSCC clears the full OSE / TSE derivatives flow with portfolio margining across products.
+Sources: ^[source:https://www.jpx.co.jp/jscc/en/cash/irs/product.html] ^[source:https://www.jpx.co.jp/jscc/en/otc/client.html] ^[source:https://www.jpx.co.jp/jscc/en/rule/rule_irs.html]
 
 See [[securities/japan-securities-clearing-corp]] for the CCP infrastructure detail and [[securities/japan-market-infrastructure-map]] for the broader clearing-settlement ecosystem.
 
@@ -135,7 +125,9 @@ See [[securities/japan-securities-clearing-corp]] for the CCP infrastructure det
 | FSA supervisory disclosures | Periodic supervisory commentary and aggregated market-structure data. |
 | Dealer-bank IR | Aggregate markets-segment revenue commentary. |
 
-Public data is rich enough to characterize aggregate market size, dealer concentration, clearing share, and broad trends. It does not reveal individual-trade pricing, specific counterparty exposures, or proprietary dealer P&L. Cite exact release vintage for any specific figure because numbers update across releases.
+Sources: ^[source:https://www.boj.or.jp/en/statistics/bis/yoshi/index.htm] ^[source:https://www.bis.org/statistics/derstats.htm] ^[source:https://www.jpx.co.jp/jscc/en/cash/irs/statistics.html]
+
+These surfaces support aggregate comparisons only after aligning vintage, scope, and units. They do not by themselves establish dealer concentration, individual-trade pricing, specific counterparty exposures, or proprietary dealer P&L.
 
 ## Related
 

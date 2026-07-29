@@ -1,28 +1,20 @@
 ---
 source: derivatives/dealer-bank-derivatives-revenue-mix
-source_hash: b83a2669ce10205a
+source_hash: c2d99113d498017c
 lang: en
 status: machine
 fidelity: ok
 title: "Dealer bank derivatives revenue mix — Japan megabanks and foreign IBs"
-translated_at: 2026-05-31T03:19:56.478Z
+translated_at: 2026-07-29T18:58:00+09:00
 ---
 
 # Dealer bank derivatives revenue mix — Japan megabanks and foreign IBs
 
 ## TL;DR
 
-The dealer-bank derivatives franchise in Japan is split across **three structural tiers**, each with a distinct revenue mix between rates, FX, equity, and credit derivatives:
+Public disclosures from Japan megabanks, Japan-headquartered securities groups and global investment banks generally aggregate derivatives with cash products, financing and other global-markets activity. They therefore do **not** support a Japan-only dealer ranking, a desk-level rates / FX / equity / credit revenue mix, or a foreign-versus-domestic market-share estimate.
 
-1. **Megabank universal-bank franchise — [[megabanks/mufg-bank|MUFG]] / [[megabanks/sumitomo-mitsui-banking-corp|SMBC]] / [[megabanks/mizuho-bank|Mizuho]]** — combined banking-and-securities entities running the largest yen IRS, OIS, basis-swap, and FX-derivative books for Japan dealer-to-corporate and dealer-to-institutional flow. Rates and FX dominate the megabank derivative revenue mix; equity derivatives are smaller and concentrated at the securities-arm subsidiary; credit derivatives are concentrated in the banking-book hedging and limited dealer-CDS activity;
-
-2. **Independent Japan IB franchise — [[securities-firms/nomura-hd|Nomura]] / [[securities-firms/daiwa-sg|Daiwa SG]]** plus megabank securities arms ([[securities-firms/smbc-nikko|SMBC Nikko]] / [[securities-firms/mizuho-securities|Mizuho Securities]]) — securities-firm-based dealer franchises with **broader equity-derivatives capability** than the bank-only entities, and strong rates / credit-derivatives books built around primary-dealer JGB activity;
-
-3. **Foreign IB franchise — [[securities-firms/goldman-sachs-japan|Goldman Sachs Japan]], [[securities-firms/morgan-stanley-japan|Morgan Stanley Japan / MUMSS]], [[foreign-financial-institutions/jpmorgan-japan|JPMorgan Japan]], [[foreign-financial-institutions/citigroup-japan|Citi Japan]]** — global IBs with full Japan dealer entities, distinctive **global-cross-margining and cross-border derivative-book integration**, deep equity-OTC and structured-product capability, and the global FX-prime / rates-prime franchise overlaying their Japan books.
-
-A **Japan-specific Volcker-rule-equivalent prohibition does not exist** in the same explicit form as the US Volcker Rule, but Japan's regulatory framework reaches a similar outcome via different mechanisms: **separation of banking and securities business through subsidiarization under FIEA / Banking Act**, **strict supervision of proprietary trading risk-taking by banking entities**, **Basel-framework capital and leverage limits**, and **FSA conduct-supervision of market-making and prop-trading**. The structural effect is that "dealer franchise" in Japan is genuinely market-making and customer-facing, with prop-trading-style speculative books materially constrained for the banking entity (less so for the securities-firm entity, with its own capital and conduct rules).
-
-This entry covers the revenue mix at each tier, the breakdown by asset class (rates / FX / equity / credit), the structural reasons for the breakdown, the cross-border foreign-IB Japan revenue share, and the Volcker-equivalent prop-trading constraint framework.
+This entry is an evidence-bound reading guide. It maps legal entities and public reporting surfaces, explains which product families may be included in aggregated segments, and separates the US Volcker Rule from Japan's Banking Act, FIEA, prudential-capital and supervisory frameworks. Any dealer-level size, profitability or customer-flow conclusion requires a dated, like-for-like disclosure.
 
 ## Wiki route
 
@@ -30,132 +22,93 @@ This entry sits under [[derivatives/INDEX|derivatives index]] in the OTC-infrast
 
 ## Why the revenue mix matters
 
-The dealer-bank derivatives franchise is one of the **highest-margin, most regulatory-intensive, and most globally integrated** wholesale-banking business lines. The revenue mix across rates / FX / equity / credit:
-
-- Reveals **where each dealer's structural strength lies**, which drives client-coverage choices for corporates and asset managers selecting derivative counterparties;
-- Drives **capital allocation and balance-sheet usage** — each derivative product class consumes different combinations of RWA, leverage, and clearing margin;
-- Drives **technology investment** — electronic-execution platforms, risk systems, and pricing infrastructure are unevenly distributed across desks;
-- Drives **regulatory engagement** — the rates-and-FX franchise is the most heavily regulated post-2008 (clearing mandates, ETP rules, TR reporting); equity derivatives have different conduct-supervision intensity; credit derivatives carry their own clearing scope and CDS-specific rules.
-
-For Japan-listed financial groups, the disclosed revenue mix is a **key public-source input** for [[finance/japan-listed-financial-groups-investable-universe|investable-universe analysis]] — the rates-and-FX share of the global-markets segment is a sensitive operating-leverage variable to BOJ policy normalization, JPY moves, and global vol regime.
+Asset-class exposure can matter for capital, leverage, margin, technology and supervision, but public segment reporting may combine those drivers. A defensible comparison therefore starts by matching reporting period, legal-entity scope, segment definition and whether cash, derivatives, financing and valuation effects are combined.
 
 ### MUFG, SMBC, Mizuho
 
-The three Japan megabanks run the largest dealer derivatives books in Japan, anchored in the **banking-entity yen rates and FX franchise** with the securities-arm subsidiary handling equity-derivatives and securities-facing institutional clients.
+MUFG, SMFG and Mizuho each disclose global-markets activities at an aggregated segment level. Their public materials identify banking and securities entities, but generally do not publish a Japan-only derivatives revenue ranking or a complete asset-class split. ^[Sources: https://www.mufg.jp/english/ir/index.html; https://www.smfg.co.jp/english/investor/; https://www.mizuhogroup.com/investors.]
 
-| Megabank | Banking entity | Securities arm | Joint-venture partners |
+| Megabank | Banking entities in public group reporting | Securities entities in public group reporting | Interpretation boundary |
 |---|---|---|---|
-| **[[megabanks/mufg-bank|MUFG Bank]]** | MUFG Bank, Ltd. | [[securities-firms/morgan-stanley-japan|MUMSS]] (Morgan Stanley MUFG Securities, the JV); also Mitsubishi UFJ Securities Holdings non-JV businesses | Morgan Stanley (in MUMSS structure) |
-| **[[megabanks/sumitomo-mitsui-banking-corp|SMBC]]** | Sumitomo Mitsui Banking Corp | [[securities-firms/smbc-nikko|SMBC Nikko Securities]] | Jefferies (alliance), Moelis (advisory alliance), etc. |
-| **[[megabanks/mizuho-bank|Mizuho Bank]]** | Mizuho Bank, Ltd. | [[securities-firms/mizuho-securities|Mizuho Securities]]; Mizuho group also includes Mizuho Trust & Banking | Greenhill (advisory acquisition history) |
+| **[[megabanks/mufg-bank|MUFG Bank]]** | MUFG Bank | [[securities-firms/morgan-stanley-japan|MUMSS]] and entities reported through Mitsubishi UFJ Securities Holdings | Confirm the contracting entity and reporting perimeter before attribution. |
+| **[[megabanks/sumitomo-mitsui-banking-corp|SMBC]]** | Sumitomo Mitsui Banking Corporation | [[securities-firms/smbc-nikko|SMBC Nikko Securities]] | Confirm the contracting entity and reporting perimeter before attribution. |
+| **[[megabanks/mizuho-bank|Mizuho Bank]]** | Mizuho Bank and Mizuho Trust & Banking | [[securities-firms/mizuho-securities|Mizuho Securities]] | Confirm the contracting entity and reporting perimeter before attribution. |
 
-### Approximate revenue mix at megabanks (public-source inference)
+### Public-disclosure activity map at megabanks
 
-Direct firm-by-firm derivatives revenue breakdowns are not always disclosed at the desk-segment level — what is disclosed publicly through MUFG, SMFG, and Mizuho FG investor relations is **global-markets segment revenue** aggregated across multiple activities. Inferred rough mix (illustrative, not as published numbers):
+Direct firm-by-firm derivatives revenue breakdowns are not consistently disclosed at desk level. The following table maps product families visible in group disclosures and market infrastructure; it does not assign shares or a market ranking. ^[Sources: https://www.mufg.jp/english/ir/index.html; https://www.smfg.co.jp/english/investor/; https://www.mizuhogroup.com/investors; https://www.boj.or.jp/en/statistics/bis/yoshi/index.htm.]
 
-| Asset class | Approximate share of derivative revenue mix |
+| Asset class | Public-source interpretation boundary |
 |---|---|
-| **Rates (IRS, OIS, basis swap, JGB-futures-adjacent hedging, swaption)** | Dominant share — the largest single derivative-product family for megabank dealer-and-end-user flow. The post-LIBOR transition to TONA-referenced OIS, the resumption of BOJ policy normalization, and the yen-rates-curve activity drive a structurally large rates-derivative revenue base. |
-| **FX (FX forwards, FX swaps, FX options including yen-cross-currency-basis-swap flow)** | Second-largest share — megabanks dominate corporate-end-user yen-FX hedging flow (Japan corporate cross-border M&A and trade-financing FX hedge demand). Cross-currency basis swap flow has been particularly large since QQE-era yen-funding stress. |
-| **Equity (listed JPX derivatives, OTC equity options, structured equity, vol hedges)** | Smaller share at the banking-entity level (constrained by bank-securities-separation rules) — concentrated at the securities-arm subsidiary. |
-| **Credit (single-name and index CDS, credit-derivative hedges)** | Smallest share of the four — Japan credit-derivatives market is structurally smaller than US / EU; banking-book credit-hedging activity is meaningful but not large-revenue-generating. |
+| **Rates** | IRS, OIS, basis swaps and securities-adjacent hedging can appear within aggregated global-markets or customer-business disclosures; a derivatives-only share is generally unavailable. |
+| **FX** | Forwards, swaps and options may be reported together with cash FX and customer flow; public segment revenue does not isolate each instrument. |
+| **Equity** | Listed and OTC activity can sit in securities entities or aggregated markets segments; entity scope must be checked before comparison. |
+| **Credit** | CDS and other credit hedges may be visible in notional or risk disclosures without a corresponding revenue line. |
 
-### Why rates and FX dominate at megabanks
+### Megabank interpretation boundary
 
-The megabank derivative-revenue concentration in rates and FX reflects:
-
-- **Banking-entity client mix** — corporate treasury hedges for FX (export-import-funded), interest-rate hedges for loan portfolios, and structured rate solutions for corporate counterparties;
-- **Banking-license constraint** — equity-derivatives intermediation with retail or corporate end-users is concentrated at the [[financial-regulators/japan-exchange-group|FIEA-licensed]] securities-arm subsidiary, not the banking entity;
-- **Trust-bank-affiliated capability** — for products requiring trust-wrapped exposure (employee-trust shares, structured-investor vehicles), the trust-bank subsidiary handles the legal wrapper while the banking / securities entity provides the derivative;
-- **JGB primary-dealer status** — the megabank-affiliated securities arms ([[securities-firms/smbc-nikko|SMBC Nikko]], [[securities-firms/mizuho-securities|Mizuho Securities]], [[securities-firms/morgan-stanley-japan|MUMSS]]) are JGB primary dealers, creating a structural rates-derivative anchor.
+Rates, FX, equity and credit activity can be distributed across banking, securities and trust entities. The group structure and licence of the contracting entity must be checked before attributing a product or revenue line; aggregated disclosures do not establish that rates and FX “dominate” derivatives revenue.
 
 ### Nomura HD, Daiwa SG
 
-[[securities-firms/nomura-hd|Nomura]] and [[securities-firms/daiwa-sg|Daiwa Securities Group]] are the **two large independent Japan-headquartered investment banks** — securities-firm-rooted franchises that operate full dealer-bank derivative capability without a megabank parent.
+[[securities-firms/nomura-hd|Nomura]] and [[securities-firms/daiwa-sg|Daiwa Securities Group]] are Japan-headquartered securities groups without a megabank parent. Their public reports do not provide a comparable Japan-only derivatives desk split.
 
-### Approximate revenue mix at Nomura / Daiwa (public-source inference)
+### Nomura / Daiwa public-disclosure map
 
-| Asset class | Approximate share |
+The following table states the same interpretation boundary used for megabanks and does not estimate shares. ^[Sources: https://www.nomuraholdings.com/investor/; https://www.daiwa-grp.jp/english/ir/.]
+
+| Asset class | Public-source interpretation boundary |
 |---|---|
-| **Rates** | Large share — JGB primary-dealer status anchors a tier-1 rates-derivative franchise; yen IRS / OIS dealer book comparable in scale to megabank franchises. |
-| **FX** | Material share — Nomura's global FX franchise (Nomura International, Nomura NY) is integrated with Tokyo-based yen-FX dealing; Daiwa smaller global FX footprint but core Japan-corporate FX coverage. |
-| **Equity** | **Distinctively large share vs megabanks** — Nomura runs the deepest **domestic equity-derivatives** book of any Japan-headquartered franchise (single-stock OTC swaps, structured equity products, cross-shareholding-unwinding-related derivatives); Daiwa similar but smaller scale. |
-| **Credit** | Material share, comparable to megabanks; smaller global credit-CDS franchise than the top US foreign IBs. |
+| **Rates** | May be included with fixed-income cash, financing and other markets activity. |
+| **FX** | May be combined with cash FX and cross-border markets activity. |
+| **Equity** | May include cash equity, derivatives, structured products and financing; no book-depth ranking follows. |
+| **Credit** | May be included in fixed-income or risk disclosures without a separate revenue line. |
 
-### Why equity is distinctively large at independent IBs
+### Goldman Sachs Japan, Morgan Stanley Japan / MUMSS, JPMorgan Japan, Citi Japan
 
-The structural reason: independent-IB franchises were **historically built around securities and capital-markets activity**, not banking. Their equity-derivatives, structured-product, and OTC-equity-option books reflect deep client coverage of:
+The named global groups publish consolidated or regional disclosures, while Japanese regulated entities and joint ventures may have different scopes. Group-level product commentary cannot be treated as Japan entity revenue.
 
-- Domestic corporate clients for [[finance/japan-cross-shareholding-unwinding-economics|cross-shareholding unwinding]];
-- Domestic asset managers for vol-overlay and structured-equity products;
-- Domestic insurance companies for ALM-driven structured equity exposure;
-- Retail-distribution structured products via brokerage subsidiary channels.
+### Foreign-group disclosure boundary
 
-The megabank-affiliated securities arms ([[securities-firms/smbc-nikko|SMBC Nikko]], [[securities-firms/mizuho-securities|Mizuho Securities]]) have built comparable but somewhat narrower equity-derivative capability — economically constrained by the megabank-group capital-allocation framework.
+The following table identifies the public group source and entity caveat; it does not rank franchises. ^[Sources: https://www.goldmansachs.com/investor-relations/; https://www.morganstanley.com/about-us-ir; https://www.jpmorganchase.com/ir; https://www.citigroup.com/global/investors.]
 
-### Goldman Sachs Japan, Morgan Stanley Japan / MUMSS, JPMorgan Japan, Citi Japan, BofA Japan
-
-The foreign IB tier runs **fully integrated Tokyo dealer operations** that participate in cross-border global derivative books rather than standalone Japan-only books.
-
-### Approximate revenue mix at foreign IBs (public-source inference, group-level aggregated to Japan)
-
-| Foreign IB | Distinguishing derivative-revenue tilt in Japan |
+| Group | Evidence boundary |
 |---|---|
-| **[[securities-firms/goldman-sachs-japan|GS Japan]]** | Deepest equity-OTC and structured-product franchise among foreign IBs; strong rates and FX; cross-border global capital-markets integration. Equity-vol and OTC equity swaps are a distinctive franchise. |
-| **[[securities-firms/morgan-stanley-japan|MS Japan / MUMSS]]** | Dual-channel structure (wholly-owned MS Japan + MUMSS JV with MUFG) — combines global IB capability with MUFG group balance sheet for rates / FX; deep equity-OTC at MS Japan; competitive across all four asset classes. |
-| **[[foreign-financial-institutions/jpmorgan-japan|JPM Japan]]** | Distinctively strong FX-prime and rates-derivatives franchise (mirrors JPM global market-share leadership in FX and rates); strong custody-and-banking integration; competitive equity-OTC. |
-| **[[foreign-financial-institutions/citigroup-japan|Citi Japan]]** | Distinctively strong FX-prime and rates franchise (Citi global market-share leadership); banking-book FX integration via Citibank Tokyo branch; competitive equity-OTC. |
-| **[[foreign-financial-institutions/jpmorgan-japan|BofA Japan]] (BofA Securities Japan)** | Competitive across asset classes; smaller Asia franchise than GS / MS / JPM / Citi; FICC and equity-OTC capability. |
+| **[[securities-firms/goldman-sachs-japan|Goldman Sachs]]** | Consolidated disclosures do not isolate the Japan derivatives entity or asset-class mix. |
+| **[[securities-firms/morgan-stanley-japan|Morgan Stanley / MUMSS]]** | Distinguish wholly owned entities from the MUFG joint venture before attribution. |
+| **[[foreign-financial-institutions/jpmorgan-japan|JPMorgan]]** | Group markets commentary is not a Japan entity market-share measure. |
+| **[[foreign-financial-institutions/citigroup-japan|Citigroup]]** | Group or regional results do not establish Tokyo desk revenue. |
 
-### Why foreign IBs maintain Japan dealer entities
+### Foreign-group share boundary
 
-Despite the post-2010 [[banking/foreign-bank-japan-retreat|foreign-bank Japan retreat]] in some retail and commercial-banking segments, the top foreign IBs maintained full Japan dealer operations for structural reasons:
+The cited group IR and aggregate public statistics do not provide a common denominator for foreign-group share of Japan derivatives revenue. No product-level or firm-level ranking is presented.
 
-- **Global-corporate client coverage** — multinational corporate clients with Japan operations require yen-derivative service;
-- **Global hedge-fund client Japan sleeves** — global multi-strategy funds running Japan strategies route through foreign IB Tokyo dealer entities;
-- **Cross-border product capability** — yen-USD cross-currency basis swap, JGB futures vs USD-rates relative-value, JPX vs S&P relative-value, Japan-corporate cross-border M&A FX hedging — all require an integrated Tokyo + London + NY franchise;
-- **Regulatory equivalence** — under [[derivatives/otc-clearing-jp-trade-repository|EMIR / Title-VII equivalence]], a foreign IB with a registered Tokyo dealer entity can offer Japan-clearing-eligible products to home-jurisdiction clients without losing capital-efficient treatment.
+## US Volcker Rule and separate Japan controls
 
-### Foreign IB share of Japan derivatives revenue
+The **US Volcker Rule** (Section 619 of Dodd-Frank) generally prohibits covered banking entities from proprietary trading and from investing in or sponsoring covered funds, subject to statutory and regulatory exclusions and permitted activities. ^[Source: https://www.federalreserve.gov/supervisionreg/volcker-rule.htm.]
 
-The combined foreign IB share of the Japan dealer-derivatives market is **material but secondary** to the megabank + independent-IB tier in many products:
-
-- **Yen IRS / OIS** — megabanks + Nomura / Daiwa dominate notional outstanding; foreign IBs compete but rank below;
-- **Yen-USD cross-currency basis swap** — foreign IBs (especially [[foreign-financial-institutions/jpmorgan-japan|JPM]] and [[foreign-financial-institutions/citigroup-japan|Citi]]) are structurally important due to their USD-funding-side franchises;
-- **OTC equity derivatives on Japan single-names** — [[securities-firms/goldman-sachs-japan|GS]] and [[securities-firms/morgan-stanley-japan|MS]] have distinctively deep franchises competing with Nomura;
-- **JPY FX options** — global IBs (especially [[foreign-financial-institutions/jpmorgan-japan|JPM]], [[foreign-financial-institutions/citigroup-japan|Citi]]) are tier-1 globally and competitive in Tokyo;
-- **CDS on Japanese reference entities and iTraxx Japan** — foreign IBs have historically been important counterparties given the smaller domestic CDS franchise.
-
-Precise market-share numbers require dealer-level disclosure that is not always available at the Japan-segment level; firm-by-firm sizing is therefore necessarily indicative based on global league-table data, BIS Japan-counterparty statistics, and aggregate JSCC clearing data.
-
-## Volcker-equivalent prop-trading constraint in Japan
-
-The **US Volcker Rule** (Section 619 of Dodd-Frank) prohibits banking entities from engaging in proprietary trading and limits investments in hedge funds and private-equity funds, with exemptions for market-making, underwriting, hedging, and certain government-securities trading.
-
-Japan **does not have a direct legislative equivalent** named "Volcker Rule," but the regulatory framework reaches a comparable outcome via different mechanisms:
+This page does **not identify a Japanese statute named the Volcker Rule**. The following table identifies separate Japanese and Basel controls; it does not claim legal equivalence or the same prohibition. ^[Sources: https://www.fsa.go.jp/en/refer/legislation/index.html; https://www.bis.org/basel_framework/.]
 
 | Mechanism | Effect |
 |---|---|
-| **Banking Act / FIEA separation of banking and securities** | Banking-entity prop-trading is structurally constrained — most market-making and dealer activity is housed in the [[banking/japan-banking-license-tier-comparison-matrix|FIEA-licensed securities-arm subsidiary]] rather than the banking entity. |
-| **Basel framework capital and leverage** | Capital charges for proprietary-trading risk-weighted-assets and leverage-ratio exposure make pure speculative position-taking economically unattractive at scale. |
-| **FSA supervisory framework** | FSA conduct supervision of major banks includes scrutiny of trading-book risk-taking, internal-control adequacy, and market-making vs prop-trading boundaries. |
-| **Internal governance** | Megabank internal governance distinguishes market-making (customer-facing, hedge-running) from prop-trading (own-account directional risk-taking); internal limits constrain prop activity. |
-| **JFSA / BOJ macroprudential surveillance** | Aggregate trading-book exposure of major banks is monitored at the group level. |
+| **Banking Act / FIEA** | Define the permitted business and registration scope of the relevant banking or securities entity. |
+| **Basel framework** | Applies capital, market-risk and leverage requirements according to the entity and exposure. |
+| **FSA supervisory framework** | Sets supervisory expectations for risk management, governance and conduct. |
+| **Internal governance** | Firm-specific limits and desk mandates require firm disclosure. |
+| **BOJ / FSA data** | Aggregate data can describe system-level exposures but not desk intent or revenue source. |
 
-The structural effect: **Japan major banks run customer-facing market-making and end-user-coverage derivative franchises, not large directional prop-trading books**. The largest proprietary-trading franchises in Japan-listed Japan financial groups historically sat in non-bank securities subsidiaries with their own capital structure (and even there, capital and leverage constraints limit prop scale).
+These mechanisms do not prove that a particular book is customer flow, market making or proprietary trading, nor do they establish relative margin or revenue stability. Those conclusions require dated dealer-level evidence.
 
-The economic effect: **the megabank derivative-franchise revenue mix is dominated by customer flow** (corporate hedges, institutional dealer activity, FX-corporate flow) rather than by speculative position-taking P&L. This is why the megabanks' global-markets segment revenue is structurally more stable but lower-margin than the historic prop-trading-era US IB banking-entity returns.
+## Cross-product reporting boundary
 
-## Cross-product franchise integration
+Some derivative product classes can require **cross-product analysis**:
 
-Some derivative product classes drive **cross-product franchise integration**:
+- **Cross-currency basis swap (yen-USD)** — intersects rates, FX and funding analysis;
+- **JGB cash, futures, repo and OIS** — can appear in an integrated rates-risk discussion;
+- **Equity derivatives and cash equities** — may interact with financing, stock lending and corporate transactions;
+- **Credit derivatives and cash credit** — may be managed together for risk purposes.
 
-- **Cross-currency basis swap (yen-USD)** — sits at the rates-and-FX intersection; drives joint coverage of corporate FX hedging and JGB-yen-rate hedging; major franchise at [[megabanks/mufg-bank|MUFG]], [[megabanks/sumitomo-mitsui-banking-corp|SMBC]], [[megabanks/mizuho-bank|Mizuho]], [[securities-firms/nomura-hd|Nomura]], and the global FX foreign IBs;
-- **JGB-cash, JGB-futures, JGB-repo, JGB-OIS hedge complex** — drives integrated rates-derivative coverage anchored in primary-dealer JGB activity;
-- **Equity-derivative + cross-shareholding-unwinding** — drives integrated coverage of corporate-treasury + capital-markets + structured-products activity at the securities-firm tier;
-- **Credit-CDS + bond-cash + structured-credit** — drives integrated credit-product coverage at the dealer-bank credit desks.
-
-These integrations are the structural reason **derivative-desk revenue is rarely cleanly separable** from cash, repo, and structured-product revenue in dealer-bank disclosure. The "rates-derivative revenue" line at a megabank reflects rates-derivative dealing **plus** JGB cash, JGB repo, and rate-structured-product revenue — separating them precisely from public-source disclosure is approximate.
+The cited public reports aggregate some of these activities. A reader should not invent a “derivatives revenue” line by allocating the aggregate without a disclosed methodology.
 
 ## Related
 

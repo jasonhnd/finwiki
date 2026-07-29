@@ -1,18 +1,18 @@
 ---
 source: derivatives/equity-volatility-hedging-corporates-japan
-source_hash: 21d5c779778f2634
+source_hash: f4785b8c6421136f
 lang: ja
 status: machine
 fidelity: ok
 title: "日本企業によるエクイティ・ボラティリティ・ヘッジ"
-translated_at: 2026-06-18T23:59:13.036Z
+translated_at: 2026-07-29T20:00:00+09:00
 ---
 
 # 日本企業によるエクイティ・ボラティリティ・ヘッジ
 
 ## 要約
 
-日本企業は**構造的に異なる4つの文脈**でエクイティ・ボラティリティ・ヘッジを用いており、それぞれにディーラー銀行のフランチャイズ関係も規制上の境界も異なる：
+日本企業は**構造的に異なる四つの文脈**でエクイティ・ボラティリティ・ヘッジを用いており、それぞれにディーラー銀行のフランチャイズ関係も規制上の境界も異なる：
 
 1. **政策保有株ポートフォリオのバリアンス・ヘッジ** — 取引先に対して戦略的な株式持分を保有する上場企業（いわゆる政策保有株／「持ち合い株式」）は、OTC エクイティ・オプション、バリアンス・ヘッジ、仕組みカラーを用いて、ポートフォリオのバリアンスと規制資本に対する時価評価のドラッグを管理する。特に [[finance/japan-cross-shareholding-unwinding-economics|cross-shareholding unwinding]] のサイクルが加速するなかでその傾向が強まる；
 2. **従業員ストックオプション（ESO）のボラティリティ** — ESO（および株式連動型のリテンション・プラン）を付与する上場企業は、IFRS-2 ／ J-GAAP 同等基準のもとでオプション・プライシングのボラティリティ入力に対する**バランスシートおよび希薄化エクスポージャー**を抱える。一部の企業は ESO 費用を固定するために相対型 OTC 商品でヘッジする；
@@ -21,7 +21,7 @@ translated_at: 2026-06-18T23:59:13.036Z
 
 このエクイティ・コーポレート・ヘッジのフローの**反対側にあるディーラー・フランチャイズ**は、国内企業向けカバレッジについてはメガバンク系証券（[[securities-firms/nomura-hd|Nomura]]、[[securities-firms/daiwa-sg|Daiwa]]、[[securities-firms/smbc-nikko|SMBC Nikko]]、[[securities-firms/mizuho-securities|Mizuho Securities]]）に、クロスボーダーおよび仕組み商品の供給力についてはグローバル IB（[[securities-firms/goldman-sachs-japan|GS Japan]]、[[securities-firms/morgan-stanley-japan|MS Japan]]、[[foreign-financial-institutions/jpmorgan-japan|JPM Japan]]、[[foreign-financial-institutions/citigroup-japan|Citi Japan]]）に集中している。これは日本の [[derivatives/dealer-bank-derivatives-revenue-mix|dealer-bank derivatives revenue mix]] におけるエクイティ・デリバティブのエンドユーザーの柱である。
 
-本項では、4つの企業ユースケース、それぞれで用いられる OTC 商品セット、ディーラー・フランチャイズのエコノミクス、規制上の境界（インサイダー取引、大量保有報告、自己株式規制）、そしてこのセグメントが米国企業のエクイティ・デリバティブ・ヘッジよりも**規模が小さくディーラー介在型にとどまる**構造的理由を扱う。
+本項では、四つの企業ユースケース、それぞれで用いられる OTC 商品セット、ディーラー・フランチャイズのエコノミクス、規制上の境界（インサイダー取引、大量保有報告、自己株式規制）、そしてこのセグメントが米国企業のエクイティ・デリバティブ・ヘッジよりも**規模が小さくディーラー介在型にとどまる**構造的理由を扱う。
 
 ## Wiki 経路
 
@@ -31,7 +31,7 @@ translated_at: 2026-06-18T23:59:13.036Z
 
 日本企業は、米国や欧州の同業他社が同程度には抱えない、**構造的に特徴的な**エクイティ・ボラのエクスポージャーを抱えている：
 
-- **政策保有株** — 上場する日本の非金融企業は、取引先（サプライヤー、顧客、銀行取引のカウンターパーティ）に対して、バランスシート上で多額の株式持分を集合的に保有している。これらの持分は会計基準上 OCI を通じて時価評価され、資本と利益に影響を与える。現在の10年規模に及ぶ [[finance/japan-cross-shareholding-unwinding-economics|cross-shareholding unwinding]] サイクル（[[financial-regulators/japan-exchange-group|JPX]] のコーポレートガバナンス・コード改訂と金融庁の開示プレッシャーによって駆動される）は、企業が期中のボラティリティに対してヘッジしたいと考えることの多い、継続的かつ構造的な株式売却のフローを生み出している；
+- **政策保有株** — 上場する日本の非金融企業は、取引先（サプライヤー、顧客、銀行取引のカウンターパーティ）に対して、バランスシート上で多額の株式持分を集合的に保有している。これらの持分は会計基準上 OCI を通じて時価評価され、資本と利益に影響を与える。現在の十年規模に及ぶ [[finance/japan-cross-shareholding-unwinding-economics|政策保有株の解消]] サイクル（[[financial-regulators/japan-exchange-group|JPX]] のコーポレートガバナンス・コード改訂と金融庁の開示プレッシャーによって駆動される）は、企業が期中のボラティリティに対してヘッジしたいと考えることの多い、継続的かつ構造的な株式売却のフローを生み出している；
 - **ESO 会計** — 多くの上場日本企業は、相応の規模の ESO および株式連動型リテンション・プログラムを有している。会計基準上の付与時オプション公正価値は**ボラティリティ入力に対して感応的**であり、一部の財務担当者は相対でヘッジする；
 - **大規模な自社株買いプログラム** — 日本企業のバランスシートは歴史的に高い現金水準を抱えている。コーポレートガバナンスのプレッシャーが自社株買いプログラムの加速を促し、複数のメガキャップが数兆円規模・複数年の取得計画を公表している。これらをマーケット・インパクトと価格スリッページなしに大規模に実行することは、構造的なデリバティブのユースケースである；
 - **東証プライム規模の M&A 活動** — [[finance/cross-border-m-a-japan|cross-border M&A]] や国内の [[finance/japan-tender-offer-process|tender offer]]／[[finance/japan-mbo-and-squeeze-out-process|MBO]] 取引に従事する大手日本企業は、厳格なインサイダー取引および大量保有報告の制約を受けつつ、公表前のエクイティ・デリバティブ・ポジションを用いることがある。
@@ -82,7 +82,7 @@ OTC ディーラーは**ディーラーの [[derivatives/dealer-bank-derivatives
 
 ### エクスポージャー
 
-ESO を付与する上場日本企業は、**2つの異なるエクイティ・ボラのエクスポージャー**に直面する：
+ESO を付与する上場日本企業は、**二つの異なるエクイティ・ボラティリティ・エクスポージャー**に直面する：
 
 1. **会計上の公正価値エクスポージャー** — 付与日において、ESO の公正価値（IFRS-2 または J-GAAP 同等基準のもと）は、オプション・プライシング・モデルで用いられるボラティリティ入力に依存する。ボラティリティ入力が高いほど、権利確定期間にわたる報酬費用が大きくなる；
 2. **希薄化／将来の株式発行エクスポージャー** — 行使された ESO は新規発行株式（または自己株式）に転換され、企業が吸収または相殺しなければならない希薄化を生む。
@@ -98,12 +98,14 @@ ESO ヘッジについての公開ソースに基づく根拠：
 
 ### 商品セット
 
-| 商品 | 用途 |
+以下の表は、法務、会計、財務部門が検討し得る仕組みを示すものであり、日本の発行体が一般に採用していることの根拠ではない。IFRS 2 に基づく付与日測定は、その後の経済的な希薄化管理とは別であり、自己株式に関する取引には会社法、FIEA および発行体の承認手続が引き続き適用される。 ^[Sources: https://www.ifrs.org/issued-standards/list-of-standards/ifrs-2-share-based-payment/; https://elaws.e-gov.go.jp/document?lawid=417AC0000000086; https://www.jpx.co.jp/english/derivatives/products/individual/securities-options/01.html.]
+
+| 商品 | 想定される用途と境界 |
 |---|---|
-| **自社株（上場している場合）の個別銘柄上場オプション** | 将来の行使による希薄化を相殺するためにコールを買う；自己株式取得規制とインサイダー取引の実行可能期間によって制約される。 |
-| **OTC オプション・ブロック** | ディーラーからの相対型ブロック・コール・オプション；ディーラーはデルタおよびベガのヘッジを通じてヘッジする。 |
-| **従業員信託の株式カストディ・オーバーレイ** | 信託銀行が ESO 決済に充当する原資産株式を保有する；ディーラーは企業のネット・ポジションをヘッジする。 |
-| **バリアンス・オーバーレイ** | 原資産の個別銘柄を参照するバリアンス・スワップを通じて IFRS-2 の公正価値ボラティリティ入力をヘッジする（個別銘柄のボラ・スワップのプライシングを踏まえるとあまり一般的ではない）。 |
+| **対象となる契約が存在する場合の個別銘柄上場オプション** | 経済的なオーバーレイとなり得るが、付与日時点の IFRS 2 測定を変更するものではなく、自己株式エクスポージャーについて法務確認が必要である。 |
+| **相対オプション** | カウンターパーティ、契約文書、評価およびインサイダー情報管理の対象となる個別設計の経済的エクスポージャー。 |
+| **従業員信託による株式の取扱い** | 株式交付の仕組みとなり得る。法務・会計上の取扱いは、開示された信託構造によって異なる。 |
+| **バリアンスまたはボラティリティ商品** | 利用可能な場合の調査・リスク管理手段であり、ヘッジ会計の適格性や発行体による一般的な利用を示す根拠ではない。 |
 
 ### 規制上の境界
 
@@ -127,7 +129,7 @@ M&A 公表前のエクイティ・デリバティブについての公開ソー�
 
 ### 規制上の境界
 
-このユースケースは4つのうち**最も制約が厳しい**。[[finance/japan-fair-disclosure-and-insider-trading-controls|FIEA insider-trading provisions]] のもとでは：
+このユースケースは四つのうち**最も制約が厳しい**。[[finance/japan-fair-disclosure-and-insider-trading-controls|FIEA のインサイダー取引規制]]のもとでは：
 
 - 企業のインサイダー（または MNPI を保有するいかなる当事者）も、当該証券についてデリバティブ取引を行うことも指示することもできない；
 - 直接の株式購入と**経済的に同一のエクスポージャーを実現する**デリバティブ・ポジションは、同じインサイダー取引規制の対象となる；
@@ -166,20 +168,20 @@ M&A 公表前のエクイティ・デリバティブについての公開ソー�
 
 ## エクイティ OTC オプションにおけるディーラー・フランチャイズ
 
-企業側ディーラー・フランチャイズについての公開ソースに基づく観察：
+以下の表は、各グループの公式ページと FSA の登録一覧で確認できる公開企業グループおよび系列関係を示す。オプション・ブックの厚み、市場シェア、取引フローを順位付けするものではない。 ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.pdf; https://www.nomuraholdings.com/company/outline/; https://www.daiwa-grp.jp/english/about/; https://www.smfg.co.jp/english/company/organization/; https://www.mizuhogroup.com/who-we-are/company-information.]
 
-| ディーラー | 企業向けエクイティ OTC オプションにおける強み |
+| グループ／法人 | 公開情報で確認できる位置付け |
 |---|---|
-| **[[securities-firms/nomura-hd|Nomura]]** | 国内最大の企業カバレッジ・フランチャイズ；最も厚みのある個別銘柄オプション・ブック；政策保有株解消フローでの優位。 |
-| **[[securities-firms/daiwa-sg|Daiwa SG]]** | 第2階層の国内企業カバレッジ；競争力ある仕組み商品フランチャイズ。 |
-| **[[securities-firms/smbc-nikko|SMBC Nikko]]** | メガバンク系列；SMBC の銀行取引関係を通じた企業カバレッジの強み；グループの政策保有株フロー・チャネル。 |
-| **[[securities-firms/mizuho-securities|Mizuho Securities]]** | メガバンク系列；みずほの銀行取引と信託の統合を通じた企業カバレッジ；第一生命との隣接性。 |
-| **[[securities-firms/goldman-sachs-japan|GS Japan]]** | 第1 階層のグローバル IB；最も厚みのあるクロスボーダー M&A と仕組みエクイティのケイパビリティ。 |
-| **[[securities-firms/morgan-stanley-japan|MS Japan / MUMSS]]** | 第1 階層のグローバル IB ＋ MUFG JV；二経路の企業カバレッジ。 |
-| **[[foreign-financial-institutions/jpmorgan-japan|JPM Japan]]** | 第1 階層のグローバル IB；バンキング・ブック＋証券のケイパビリティ。 |
-| **[[foreign-financial-institutions/citigroup-japan|Citi Japan]]** | 第1 階層のグローバル IB；クロスボーダー M&A において特に価値ある FX プライムの隣接性。 |
+| **[[securities-firms/nomura-hd|Nomura]]** | 日本に本社を置く証券グループ。特定サービスについては、契約主体と現行の登録・認可を確認する。 |
+| **[[securities-firms/daiwa-sg|Daiwa SG]]** | 日本に本社を置く証券グループ。商品提供能力は、現在の法人単位の開示による確認が必要である。 |
+| **[[securities-firms/smbc-nikko|SMBC Nikko]]** | SMFG 傘下の証券会社。 |
+| **[[securities-firms/mizuho-securities|Mizuho Securities]]** | みずほフィナンシャルグループ傘下の証券会社。 |
+| **[[securities-firms/goldman-sachs-japan|Goldman Sachs Japan]]** | グローバル金融グループの日本法人。契約対象となる業務範囲の確認が必要である。 |
+| **[[securities-firms/morgan-stanley-japan|Morgan Stanley Japan / MUMSS]]** | Morgan Stanley と MUFG の合弁構造を含む。対象法人の範囲が重要である。 |
+| **[[foreign-financial-institutions/jpmorgan-japan|JPMorgan Japan]]** | グローバル金融グループ傘下の日本の銀行・証券法人。 |
+| **[[foreign-financial-institutions/citigroup-japan|Citigroup Japan]]** | グローバル金融グループ傘下の日本の銀行・証券法人。 |
 
-構造的なパターン：**国内企業の政策保有株および自社株買いフロー**はメガバンク系証券に集中し；**クロスボーダー M&A と複雑な仕組みエクイティ**はグローバル IB に集中する；ディーラー側の OTC エクイティ・オプション・ブックは、主として上場 [[securities/osaka-exchange|OSE]] 日経 225 オプション、個別銘柄上場オプション、原資産の [[securities/tokyo-stock-exchange|TSE]] 現物市場、そしてデルタ・ヘッジのための [[securities/japan-stock-lending-market-route|stock-loan market]] を通じてヘッジされる。
+具体的な機能、ヘッジ商品、フローの集中度については、取引または市場シェアの根拠が必要である。上場 [[securities/osaka-exchange|OSE]] オプション市場、[[securities/tokyo-stock-exchange|TSE]] 現物市場、[[securities/japan-stock-lending-market-route|株式貸借市場]]はヘッジの候補市場となり得るが、本稿では特定ディーラーのヘッジ経路を推定しない。
 
 ## 関連
 

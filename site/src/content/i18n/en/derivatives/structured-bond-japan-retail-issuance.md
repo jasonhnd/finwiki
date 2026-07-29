@@ -1,18 +1,18 @@
 ---
 source: derivatives/structured-bond-japan-retail-issuance
-source_hash: 642523bec383e99a
+source_hash: e04905f223a735d1
 lang: en
 status: machine
 fidelity: ok
 title: "Structured bond Japan retail issuance"
-translated_at: 2026-05-31T03:19:56.376Z
+translated_at: 2026-07-29T10:01:40.046Z
 ---
 
 # Structured bond Japan retail issuance
 
 ## TL;DR
 
-"Structured bond" (仕組債, *shikumisai*) is the umbrella Japanese term for retail-facing fixed-income products that embed derivative payoffs — typically equity-linked notes (EB, *Equity Bond*) with knock-in barriers, currency-linked deposits, reverse-convertible bonds with put-strike-at-discount, and digital / range-accrual notes. These products were distributed at scale by megabank-affiliated securities firms ([[securities-firms/smbc-nikko|SMBC Nikko]], [[megabanks/mizuho-bank|Mizuho]] Securities, MUFG / MUMSS), independent retail brokerages ([[securities-firms/daiwa-sg|Daiwa]], [[securities-firms/nomura-hd|Nomura]]), and regional banks to **chasing-yield retail investors** during Japan's prolonged low-yield environment. The **2022-2023 FSA crackdown** on suitability and disclosure resulted in administrative orders against [[securities-firms/nomura-hd|Nomura]], [[securities-firms/smbc-nikko|SMBC Nikko]], and [[securities-firms/daiwa-sg|Daiwa]] subsidiaries, forced major distributors to suspend or restrict structured-bond sales to elderly / low-knowledge retail, and elevated **suitability and disclosure** as a structural regulatory priority. New retail issuance contracted sharply from 2023 onward.
+“Complex structured bond” (複雑な仕組債) is a JSDA regulatory term for a bond whose interest or redemption uses an OTC derivative or an equivalent economic structure. JSDA identifies EB bonds, equity-index-linked bonds and conditional dual-currency bonds as examples that may fall within the category. FSA monitoring in fiscal 2022 examined sales and management frameworks for structured bonds as part of customer-oriented business conduct. Those public monitoring materials do not, by themselves, establish firm-specific administrative orders, a complete distributor ranking or a universal sales ban.
 
 ## Wiki route
 
@@ -22,169 +22,147 @@ Cross-reference [[finance/INDEX|finance index]] for the broader capital-markets 
 
 ### Core structured-bond categories
 
-| Product | Japanese term | Payoff core |
-|---|---|---|
-| Equity Bond (EB) with knock-in barrier | EB債 / 株価連動債 | Pays par + coupon unless underlying stock breaches knock-in barrier, then pays in shares or barriered amount |
-| Autocallable EB / Express | オートコーラブル | Pays accelerated coupon and full redemption if underlying breaches autocall threshold on observation date; otherwise continues |
-| Reverse convertible | リバース・コンバーチブル | High-coupon bond with put-option-short embedded; redemption in shares if stock below strike |
-| Currency-linked deposit (二重通貨預金) | 二重通貨預金 / デュアルカレンシー | Deposit pays high yen yield; principal redeemed in non-yen currency at predetermined rate (currency-short embedded) |
-| Power reverse dual-currency note (PRDC) | パワーリバース | Long-dated FX-linked yen-paying / dollar-paying note; complex Bermudan callable structure |
-| Credit-linked note (CLN) | クレジット・リンク債 | Bond paying enhanced coupon contingent on reference credit not defaulting |
-| Range-accrual note | レンジアクルアル | Coupon accrues only on days when reference rate / FX / index stays within range |
-| Digital / one-touch note | デジタル | Pays large coupon if reference touches / exceeds threshold, else nothing |
-| Equity index-linked note (basket) | バスケット型 | Payoff linked to worst-of basket (typically Nikkei 225, S&P 500, EuroStoxx 50) |
+The following table is limited to examples named in JSDA's definition or linked investor guidance. It is not an exhaustive market taxonomy, and each issue's prospectus controls its exact payoff. ^[Sources: https://www.jsda.or.jp/shijyo/seido/jishukisei/words/0248.html; https://www.jsda.or.jp/about/hatten/risk/shikumisai/index.html; https://www.jsda.or.jp/about/hatten/risk/eb/index.html; https://www.jsda.or.jp/about/hatten/risk/prdc/index.html.]
 
-EB knock-in (especially autocallable on single Japanese stock or worst-of basket) was the dominant retail-distributed product by volume during the peak 2018-2022 period.
+| Product form | Japanese term | Issue-specific field to verify |
+|---|---|---|
+| EB | EB債 / 他社株転換可能債券 | Conditions for cash or share redemption, including any knock-in clause. |
+| Equity-index-linked bond | 株価指数連動債 | How the stated index affects coupon, early redemption and final redemption. |
+| Conditional dual-currency bond | 条件付デュアルカレンシー債 | Purchase, coupon and redemption currencies and the contractual conversion condition. |
+| Power reverse dual-currency bond | パワー・リバース・デュアルカレンシー債 | FX-linked coupon formula, redemption amount and any issuer call or trigger clause. |
+
+Labels such as autocallable, reverse convertible, credit-linked, range-accrual and digital describe possible features or market conventions, but the cited pages do not establish them as an exhaustive JSDA category list. The cited sources also do not provide a complete product-level issuance ranking for 2018-2022, so no dominant-volume claim is made here.
 
 ### Structure variations
 
-| Feature | Description |
+The following table lists fields to read in the prospectus. Former “typical” barrier, tenor and basket ranges have been removed because they vary by issue and were not supported by an issuance dataset. ^[Source: https://www.jsda.or.jp/about/hatten/risk/shikumisai/index.html.]
+
+| Feature | Issue-specific question |
 |---|---|
-| Single-name underlying | Most distributed retail EB referenced single Japanese listed stock (e.g., Toyota, Sony, SoftBank, NTT) |
-| Worst-of basket | Three to five reference assets; payoff worst-of, increasing risk |
-| Autocall threshold | Typically 100 percent of initial reference (paid back at par + coupon if up on observation date) |
-| Knock-in barrier | Typically 50-70 percent of initial reference |
-| Coupon | Conditional coupon (paid only if no knock-in trigger) or unconditional fixed coupon |
-| Maturity | Typically 3-5 years; autocall feature shortens expected life |
-| Currency | Issued in JPY for retail Japan; some USD or EUR issued for currency-overlay variants |
-| Callable feature | Bermudan callable in some structures |
+| Underlying | Single security, index, currency, rate, credit or basket as defined in the prospectus. |
+| Basket rule | Determine whether the payoff uses worst-of, average or another aggregation rule. |
+| Autocall | Read the observation dates, threshold and redemption amount. |
+| Knock-in | Read the barrier level, observation convention and resulting redemption formula. |
+| Coupon | Determine whether fixed, conditional, digital or range-linked. |
+| Maturity | Read contractual maturity and any early-redemption provisions. |
+| Currency | Identify issue, coupon and redemption currencies and any conversion option. |
+| Callability | Identify who holds the call and on which dates it may be exercised. |
 
 ### Issuer set
 
-| Issuer type | Role |
+The JSDA investor page distinguishes issuer, arranger, distributor and swap-house functions. The following table is a role map, not a league table or claim about which institutions “dominate” origination. ^[Source: https://www.jsda.or.jp/about/hatten/risk/shikumisai/index.html.]
+
+| Participant | Evidence-bounded role |
 |---|---|
-| Global banks (special-purpose vehicles) | Goldman, JPMorgan, Morgan Stanley, BNP Paribas, Credit Suisse (historically), HSBC, Citi, Barclays issued via SPV programs |
-| Japan-domiciled megabank programs | [[megabanks/mufg|MUFG]], [[megabanks/sumitomo-mitsui-banking-corp|SMBC]] (via SMFG), [[megabanks/mizuho-bank|Mizuho]] (via Mizuho FG) issued through dedicated programs |
-| European bank issuers | Société Générale, BNP, Credit Suisse, UBS historically dominant in structured-product origination |
-| US bank issuers | Goldman, JPM, MS, Citi |
-| Tokyo-listed special-purpose issuance vehicles | Less common; most structured bonds issued offshore for tax / regulatory efficiency |
+| Issuer | Owes the bond payments; its credit risk and the precise legal entity must be checked in the prospectus. |
+| Arranger | Coordinates the terms with the issuer and other parties; JSDA notes that the arranger may also distribute the bond. |
+| Distributor | Offers or sells the security under the applicable licence and conduct rules. |
+| Swap house / hedge counterparty | May enter a cover transaction with the issuer; exposure depends on the documented structure. |
 
 ### Distribution channel
 
-| Distributor | Distribution model |
+The following table gives public verification routes rather than unsupported firm-level sales rankings. ^[Sources: https://disclosure2.edinet-fsa.go.jp/; https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.pdf; https://www.jsda.or.jp/kyoukaiin/kyoukaiin/kaiin/index.html.]
+
+| Evidence source | What to verify |
 |---|---|
-| [[securities-firms/smbc-nikko|SMBC Nikko]] | Megabank-aligned full-service brokerage; key distributor through 2022 |
-| Mizuho Securities (via [[megabanks/mizuho-bank|Mizuho]] FG) | Megabank-aligned full-service brokerage; key distributor through 2022 |
-| MUFG / MUMSS (via [[megabanks/mufg|MUFG]]) | Megabank / global JV brokerage; major distributor |
-| [[securities-firms/daiwa-sg|Daiwa Securities]] | Independent retail brokerage; historically very active in structured-bond distribution |
-| [[securities-firms/nomura-hd|Nomura Securities]] | Largest retail brokerage; significant distributor |
-| Regional banks (sub-distribution) | Sub-distribute structured products from megabank securities partners |
-| Online brokerages | Less active in complex structured bonds; some plain-vanilla structured deposits |
+| Prospectus / securities registration statement | Issuer, offer terms, selling firms, payoff and risk factors for the specific issue. |
+| FSA registry | Current regulated entity and licence category. |
+| JSDA member information | Membership and relevant self-regulatory framework. |
+| Distributor's current product page and pre-contract document | Whether the product is presently offered and to which customer category. |
 
 ### Arranger fees
 
-Arranger and distributor fees on structured bonds were historically a significant slice of product economics, embedded in the issue-price-vs-fair-value gap. The **fee load** (typically 3-10 percent of notional, sometimes higher for complex structures) became a key element of the FSA crackdown.
+Fees, commissions and the gap between issue price and model value are issue-specific. They should be taken from the prospectus, key information and distributor disclosure; this page does not apply an unsupported 3-10% range.
 
 ## Hedging mechanics
 
-The issuer typically hedges the embedded derivative back-to-back with a dealer:
+The following table describes possible risk-transfer stages in the generic structure shown by JSDA. A specific issuer's hedge is not public unless disclosed, and back-to-back hedging must not be assumed. ^[Source: https://www.jsda.or.jp/about/hatten/risk/shikumisai/index.html.]
 
-| Position | Hedge |
+| Position | Evidence-bounded treatment |
 |---|---|
-| Issuer is long bond, short embedded derivative (knock-in put, autocall call, FX option, etc.) | Issuer enters back-to-back derivative trade with dealer that takes the opposite position |
-| Dealer warehouse | Dealer aggregates exposure, runs delta / vega / barrier-gamma hedging in equity / FX / credit markets |
-| Risk recycling | Dealer may re-distribute risk via index trades, listed options, OTC inter-dealer trades |
+| Issuer | JSDA's generic diagram says the issuer conducts a cover transaction with a swap house for hedging purposes. |
+| Swap house | Acts as the derivative counterparty in the generic structure; the cited guidance does not reveal its actual trading book. |
+| Transaction-specific hedge | Do not infer a back-to-back hedge, hedge ratio or instrument set unless the issuer or counterparty discloses it. |
 
-For Japan single-name EB, dealer hedging in the underlying stock can become a meaningful flow when many notes share the same reference name (e.g., concentrated SoftBank EB issuance creates significant SoftBank stock hedge flow).
+### Conditional dual-currency bond mechanics
 
-### Mechanics
+The JSDA definition identifies conditional dual-currency bonds as instruments that may be complex structured bonds. The following table is therefore a document-reading checklist, not a standard payoff template. ^[Sources: https://www.jsda.or.jp/shijyo/seido/jishukisei/words/0248.html; https://disclosure2.edinet-fsa.go.jp/.]
 
-| Feature | Description |
+| Feature | Document field to verify |
 |---|---|
-| Principal currency | JPY (deposit) |
-| Yield | Enhanced JPY coupon (e.g., 3-8 percent annualized) vs prevailing JPY deposit rates |
-| Redemption option | At maturity, issuer redeems in JPY at par OR in non-yen currency at predetermined exchange rate |
-| Issuer choice | Issuer redeems whichever is cheaper to the issuer (i.e., investor receives whichever is less valuable) |
-| Embedded derivative | Investor is implicitly short a JPY-put / non-yen-call option |
+| Purchase and issue currency | Currency in which the investor pays and the bond is denominated. |
+| Coupon | Rate, payment currency and every condition affecting payment. |
+| Redemption | Amount, currency and conversion rate or formula. |
+| Conversion condition | Market observation, election holder and timing stated in the prospectus. |
+| Derivative equivalence | Map the documented cash flows before describing an embedded option. |
 
-Common reference currencies: USD, AUD, NZD, EUR, GBP, ZAR, TRY (historical higher-yielding tail). The TRY-linked variant attracted enforcement and consumer-protection attention given Turkish lira volatility.
+Reference and redemption currencies are issue-specific and must be read from the prospectus. A dual-currency deposit is a different legal wrapper and is not classified as a bond merely because its cash flows may look similar.
 
 ### Risk
 
-If the non-yen currency depreciates significantly vs JPY relative to the strike, investor receives non-yen currency worth less than original JPY principal. The losses can be substantial.
+If the contract requires redemption in a currency that has depreciated against the investor's purchase currency, the converted value may fall below the amount invested. The actual loss formula, issuer-credit exposure and liquidity risk depend on the issue terms.
 
 ### Distribution
 
-Currency-linked deposits historically distributed through megabank retail counters, regional banks, and post-office channels. The simplicity of the wrapper ("deposit" framing) often obscured the embedded short-option risk for retail investors.
+The distribution channel, selling firms and legal wrapper must be verified for the specific issue through its prospectus and current seller documents.
 
-### Mechanics
+### EB / reverse-convertible payoff comparison
 
-| Feature | Description |
+Market labels can overlap. JSDA's EB guidance supports the general possibility of cash or share redemption; it does not establish one universal reverse-convertible template. ^[Sources: https://www.jsda.or.jp/about/hatten/risk/eb/index.html; https://disclosure2.edinet-fsa.go.jp/.]
+
+| Feature | Issue-specific question |
 |---|---|
-| Coupon | Fixed high coupon paid throughout life |
-| Maturity payoff | If reference stock above strike → par redemption; if below → delivery of shares at strike (i.e., investor receives shares worth less than par) |
-| Embedded derivative | Investor is short a put option on the reference stock at the strike |
-| Reference | Single stock or worst-of basket |
+| Legal label | How does the prospectus name and classify the instrument? |
+| Coupon | What rate and payment conditions apply? |
+| Redemption | What conditions lead to cash payment, share delivery or another formula? |
+| Reference | Which security, index or basket and which observation source apply? |
+| Option equivalence | Does a cash-flow decomposition support describing the investor as writing a put? |
 
-Mechanically similar to EB, but framed more bond-like with the put exercise typically at maturity rather than during the term via knock-in barrier.
+Do not infer a universal distinction between an EB and a “reverse convertible” from the marketing label alone.
 
 ### Background
 
-The FSA, under its **"Customer First"** (顧客本位の業務運営, *kokyaku honi no gyōmu un'ei*) initiative since 2017, increasingly scrutinized retail distribution of complex products. Surveys revealed widespread mismatches between structured-bond complexity and retail investor knowledge / experience.
+Under its **Customer First** (顧客本位の業務運営) framework, the FSA monitored sales and management frameworks for risk products, including structured bonds, in fiscal 2022 and published cross-firm themes.
 
 ### 2022 FSA findings
 
-Public FSA materials (October 2022) and JSDA self-regulatory updates documented:
+The following table summarizes review themes for structured-product governance; it should be read with the full FSA monitoring report and JSDA rules rather than as a finding about every customer or seller. ^[Sources: https://www.fsa.go.jp/news/r4/kokyakuhoni/fdreport/fd_202306.html; https://www.fsa.go.jp/policy/customer_first/index.html; https://www.jsda.or.jp/shijyo/seido/jishukisei/words/0248.html.]
 
-| Finding | Concern |
+| Monitoring theme | What the report says to examine |
 |---|---|
-| Knowledge mismatch | Retail buyers often lacked understanding of barrier-option mechanics and tail risk |
-| Fee disclosure | Arranger / distributor fee load not adequately disclosed |
-| Suitability failures | Sold to elderly retirees, low-knowledge customers, conservative investors mismatched to product risk |
-| Concentration | Repeated sales of similar products to same customers created concentrated tail exposure |
-| Comparison to alternatives | Failure to present cheaper / simpler alternatives that achieved similar yield enhancement |
+| Product and target-customer review | Many focus firms had expanded sales to low-risk-tolerance asset-building customers without sufficiently testing the target segment, product features or true customer needs. |
+| Structuring-cost disclosure | Many focus firms had not disclosed structuring costs even though their customer-oriented policies said all customer-borne costs would be disclosed. |
+| Risk-return validation | Firms should test whether product returns are commensurate with risk and review the product after launch. |
+| Package and alternative comparison | Customers should be able to compare risk, return and cost with other products and, where applicable, with buying package components separately. |
+| Bank-to-securities referral | At some focus firms, low-risk-tolerance bank customers were referred to group securities companies and sold structured bonds, resulting in numerous complaints. |
 
-### Administrative orders
+### Administrative-action boundary
 
-Between late 2022 and 2023, the FSA issued business-improvement orders and administrative actions against multiple major distributors:
-
-| Distributor | Action category |
-|---|---|
-| [[securities-firms/nomura-hd|Nomura Securities]] | Business-improvement order regarding structured-bond sales process |
-| [[securities-firms/smbc-nikko|SMBC Nikko]] | Business-improvement order; senior management accountability |
-| [[securities-firms/daiwa-sg|Daiwa Securities]] | Business-improvement order; suitability process review |
-| Multiple regional bank securities arms | Localized administrative actions |
-
-Distributors voluntarily suspended or significantly restricted structured-bond sales to retail. Several firms exited the retail structured-bond business entirely or restricted it to qualified-investor channels.
+The FSA monitoring report is thematic supervision evidence, not a firm-specific administrative order. The prior table attributing structured-bond business-improvement orders to Nomura Securities, SMBC Nikko and Daiwa Securities has therefore been removed. Any firm-level action must be verified in the FSA administrative-action database and tied to the exact legal entity, date and stated conduct.
 
 ### JSDA self-regulation
 
-The [[securities/japan-prime-brokerage-and-institutional-financing|JSDA]] tightened self-regulatory guidance on structured-bond suitability:
+The following table lists control topics associated with JSDA's complex-product definition and investment-solicitation rules. The exact current rule text, effective date and member obligations must be checked in the JSDA rulebook. ^[Sources: https://www.jsda.or.jp/shijyo/seido/jishukisei/words/0248.html; https://www.jsda.or.jp/shijyo/seido/jishukisei/web-handbook/106_saiken/index.html.]
 
-| Area | Guidance change |
+| Area | Verification question |
 |---|---|
-| Suitability assessment | Stricter knowledge / experience tests; written confirmation requirements |
-| Disclosure | Standardized risk-disclosure templates; explicit "loss scenario" illustrations |
-| Cooling-off | Enhanced cooling-off and recourse channels |
-| Recording | Mandatory recording / documentation of sales conversations |
-| Senior-customer protections | Special procedures for customers above defined age thresholds |
+| Solicitation-start criteria | Does the product fall within the defined complex-product scope, and what customer criteria apply? |
+| Suitability assessment | What knowledge, experience, objectives and financial-capacity checks are required? |
+| Disclosure | What payoff, loss, issuer-credit, liquidity and fee information must be provided? |
+| Internal records | What evidence of explanation, approval and review must the member retain? |
+| Senior-customer controls | What current member rule or internal procedure applies to the customer's circumstances? |
 
 ### Volume impact
 
-Public JSDA / FSA aggregated data indicated that retail structured-bond sales volumes contracted very significantly from 2022 to 2023. Distribution shifted away from "knock-in EB" products toward simpler structured deposits and / or higher-grade plain-vanilla bonds.
+FSA materials discuss changes in risk-product sales and management frameworks. A precise 2022-to-2023 structured-bond volume change or product substitution claim requires a defined dataset and is not quantified here.
 
-## Comparison to global structured-product retail markets
+## Cross-jurisdiction comparison boundary
 
-| Jurisdiction | Retail structured-product market character |
-|---|---|
-| Japan (pre-2023) | Very large retail volumes; megabank-affiliated brokerages dominant distributors |
-| Japan (post-2023) | Significantly contracted; restrictions on elderly / low-knowledge retail |
-| EU (post-PRIIPs 2018) | KID disclosure mandatory; volumes recovered but disclosure burden raised |
-| UK (post-FCA 2014) | Suitability rules tightened; volumes shrank materially |
-| Hong Kong (post-Lehman minibond 2008) | Strict suitability and concentration rules introduced |
-| US | Mostly institutional / accredited investors; retail structured-products via specific distribution channels |
-
-Japan's 2023 crackdown represents a significant catch-up to global retail-protection standards rather than a unique regulatory approach.
+Cross-jurisdiction comparisons require matched product definitions and current primary rules. This page does not rank Japan against the EU, UK, Hong Kong or US, and does not infer sales-volume effects from disclosure regimes alone.
 
 ## Institutional structured-bond market
 
-Beyond retail, an institutional structured-bond market continues for:
-
-- pension funds and life insurers seeking yield-enhanced credit product (subject to ESR / accounting constraints, see [[insurance/japan-life-insurance-alm-overview|life ALM]]);
-- corporate treasury operations using structured liability or asset wrappers;
-- asset manager portfolios for specific overlay or yield-enhancement objectives.
-
-Institutional structured bonds are subject to different suitability standards (qualified institutional investor framework under FIEA) and continue with limited regulatory friction.
+The public sources cited on this page do not establish a current institutional market size, investor hierarchy or “limited regulatory friction” conclusion. Any institutional-market claim should be tied to named offering documents, the transaction's actual investor and offering classifications under current law, and a dated issuance or holdings dataset.
 
 ## Related
 
@@ -214,8 +192,10 @@ Institutional structured bonds are subject to different suitability standards (q
 
 ## Sources
 
-- FSA: Customer First operating-principles policy materials; 2022-2023 supervisory action public releases.
-- FSA: business-improvement order public releases on major distributors.
-- JSDA: self-regulatory updates on structured-bond distribution; member rules and disclosure templates.
-- BOJ: deposit and money-market statistics relevant to structured-deposit yield benchmarks.
-- SMBC Nikko, Daiwa, Nomura: public IR materials on retail wealth-management business segment trends.
+- FSA customer-oriented business conduct: https://www.fsa.go.jp/policy/customer_first/index.html
+- FSA fiscal-2022 risk-product sales monitoring: https://www.fsa.go.jp/news/r4/kokyakuhoni/fdreport/fd_202306.html
+- JSDA complex structured-bond definition: https://www.jsda.or.jp/shijyo/seido/jishukisei/words/0248.html
+- JSDA structured-bond investor guidance: https://www.jsda.or.jp/about/hatten/risk/shikumisai/index.html
+- JSDA EB investor guidance: https://www.jsda.or.jp/about/hatten/risk/eb/index.html
+- JSDA PRDC investor guidance: https://www.jsda.or.jp/about/hatten/risk/prdc/index.html
+- FSA EDINET filing search: https://disclosure2.edinet-fsa.go.jp/

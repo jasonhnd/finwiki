@@ -13,40 +13,25 @@ aliases:
   - "Japan voice broker market OTC"
 domain: derivatives
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
 confidence: likely
 tags: [derivatives, otc-infra, execution-venue, ETP, SEF, voice-broker, electronic-execution, FSA, MiFID-II, dealer-franchise]
 status: active
 sources:
-  - "https://www.fsa.go.jp/en/"
-  - "https://www.fsa.go.jp/en/regulated/licensed/fibo.pdf"
-  - "https://www.boj.or.jp/en/paym/market/"
-  - "https://www.tradeweb.com/our-markets/regulated-platforms/"
-  - "https://www.bloomberg.com/professional/expertise/multi-asset/"
-  - "https://www.tpicap.com/"
-  - "https://www.bgcg.com/"
-  - "https://www.icap.com/"
-  - "https://www.jpx.co.jp/english/"
-  - "https://www.isda.org/"
+  - "FSA 2012 OTC-derivative reform framework — https://www.fsa.go.jp/en/refer/legislation/20121012/02.pdf"
+  - "FSA 2015 electronic-platform implementation summary — https://www.fsa.go.jp/common/conference/danwa/20150923/01.pdf"
+  - "FSA current licensed-entity index — https://www.fsa.go.jp/en/regulated/licensed/index.html"
 ---
 
 # Swap execution facility — Japan equivalent (ETP regime)
 
 ## TL;DR
 
-Japan does not have a US-style "Swap Execution Facility (SEF)" license — but it operates a **functionally equivalent regime** of **Electronic Trading Platforms (ETPs)** for OTC derivatives execution, supervised by the FSA under FIEA. The ETP regime, mandated for designated standardized OTC products (yen IRS in particular), is the Japan analogue of the **Dodd-Frank SEF requirement (US)** and the **MiFID II MTF / OTF requirement (EU)**.
+Japan regulates **Electronic Trading Platforms (ETPs)** for OTC derivatives under FIEA. This is a Japan-specific framework, not a US SEF licence. FSA's September 2015 implementation material described mandatory ETP execution for in-scope yen-LIBOR IRS, an order-book or RFQ-to-at-least-three execution method, and post-trade publication. Current products, operators, permissions, and exemptions must be checked against current FSA rules and registries; the 2015 scope must not be silently relabelled as a current TONA mandate.
 
-The Japan OTC derivatives execution market combines:
-
-1. **Electronic ETP execution** — multi-dealer request-for-quote (RFQ) and order-book systems offered by **Tradeweb (Tradeweb Japan / Tradeweb FSA-registered ETP)**, **Bloomberg (Bloomberg's electronic-trading services regulated for Japan)**, and other electronic platforms that capture a growing share of standardized yen IRS, OIS, and basis-swap flow;
-
-2. **Voice-brokered execution** — interdealer voice brokers (the "wholesale broker" tier — **ICAP / NEX, BGC Brokers, Tullett Prebon, all under the TP ICAP family or independent legacy brokers**) that intermediate dealer-to-dealer OTC trades, particularly for non-standard maturities, large block trades, and less-liquid product variants;
-
-3. **Bilateral dealer-to-client trading** — direct dealer-client OTC trades via voice, chat, or proprietary single-dealer platforms; the dominant channel for many corporate-end-user trades and bespoke structures.
-
-This entry covers the FIEA ETP regulatory boundary, the leading platforms and brokers operating in Tokyo, the electronic-execution share vs voice-brokered share, the comparison to US SEF and EU MiFID II OTF / MTF regimes, the FSA dealer regulation framework, and the structural reason Japan's electronic OTC execution remains **less concentrated and more voice-broker-heavy** than the US SEF market for comparable products.
+This entry covers the documented Japan ETP boundary and the limits of public evidence. It does not infer a current platform ranking, product coverage, electronic share, or voice-broker share from global vendor marketing pages.
 
 ## Wiki route
 
@@ -67,7 +52,7 @@ Implementations vary:
 - **EU (MiFID II)** — MTFs (multilateral trading facilities) and OTFs (organized trading facilities) under the Trading Obligation for designated derivatives;
 - **Japan (FIEA)** — Electronic Trading Platforms (ETPs) under FSA registration / supervision, with designated products subject to the on-platform execution obligation.
 
-The Japan regime is **less prescriptive in scope** than the US SEF rule — fewer products are subject to mandatory electronic execution, and the boundary between voice-brokered and electronic execution is more fluid. This is a deliberate calibration reflecting the smaller domestic dealer count and the historic role of voice brokerage in Tokyo OTC markets.
+Cross-jurisdiction comparisons require current legal sources from each jurisdiction. The Japan facts below are kept separate from US or EU labels.
 
 ### Registration and supervision
 
@@ -79,94 +64,47 @@ An entity operating an ETP for OTC derivatives in Japan typically requires:
 
 ### Mandatory electronic execution scope
 
-Under FIEA, **designated standardized OTC derivatives** are subject to an on-platform execution obligation when traded between in-scope counterparties. The principal product class subject to this is **yen IRS** with standardized terms (currency, floating-rate index, payment frequency, day count, maturity) — mirroring US SEF MAT determinations for USD IRS.
+FSA's 2015 implementation summary described an on-platform obligation for in-scope yen-LIBOR IRS. Because that benchmark later ceased, a present-day scope conclusion requires the current FIEA instruments and FSA materials.
 
-Out-of-scope (i.e. still allowed to be voice-brokered or bilaterally executed):
-
-- Non-standard maturities;
-- Non-standard rate-reference indexes;
-- Bespoke structures (callable, amortizing, structured-payoff);
-- Trades with out-of-scope counterparties (smaller corporates, end-users below threshold);
-- Large block trades above designated thresholds (with block-trade exemption rules).
+Product terms, counterparty scope, thresholds, and exemptions must be tested under current rules; no generic out-of-scope list is asserted here.
 
 ### Pre-trade and post-trade transparency
 
-ETPs typically publish:
+FSA's 2015 summary describes order-book or RFQ-to-at-least-three execution and post-trade publication. It does not establish that venue records automatically feed ISDA, BIS, or BOJ publications. Current content, timing, delay, and audit-trail requirements must be read from current rules and the operator's permission.
 
-- **Pre-trade indicative quotes** in an RFQ or order-book interface visible to platform members;
-- **Post-trade transaction summaries** (anonymized, sometimes delayed) feeding into ISDA SwapsInfo, BIS-aggregate, and BOJ statistics publications;
-- **Audit trails** of RFQ submissions, dealer responses, and trade executions.
-
-This is **comparable to MiFID II RFQ transparency** in the EU and the **SEF RFQ rules** in the US, though scope and timing detail differ.
+Source: ^[source:https://www.fsa.go.jp/common/conference/danwa/20150923/01.pdf]
 
 ### Electronic platforms
 
-| Platform | Coverage |
-|---|---|
-| **Tradeweb (Tradeweb Japan)** | Multi-dealer RFQ platform — strong in yen IRS, OIS, JGB cash, JGB repo, and selected FX derivatives. FSA-registered ETP operator. Globally one of the largest fixed-income electronic-trading platforms; Tokyo presence is a tier-1 ETP for institutional flow. |
-| **Bloomberg (Bloomberg's electronic-trading services with Japan registration)** | Multi-dealer RFQ across rates, FX, credit, and selected equity derivatives. Bloomberg's BSEF (Bloomberg SEF) is the US-registered SEF; the Japan-facing service operates under FSA registration for the in-scope product set. |
-| **MarketAxess (selected fixed-income credit-derivatives RFQ)** | Strong in credit-product electronic execution; Japan presence focused on credit-derivatives and bond-related flow. |
-| **JPX-affiliated platforms** | JPX has electronic OTC-derivatives trading initiatives associated with [[financial-regulators/japan-exchange-group|JPX group]]. Scope varies; check current product offering. |
+Operator identity, legal entity, permitted business, and current status must be checked in FSA's licensed-entity materials. A vendor's global SEF, bond, or FX capability does not prove that the same legal entity is a Japan ETP or that a particular product is within its Japanese permission.
+
+Source: ^[source:https://www.fsa.go.jp/en/regulated/licensed/index.html]
 
 ### Interdealer voice brokers
 
-The Japan interdealer voice-broker market is anchored by the **TP ICAP family** (formed from the historic merger of Tullett Prebon and ICAP non-EBS / non-BrokerTec assets) and **BGC Brokers** (now Cantor / BGC family):
-
-| Broker | Coverage |
-|---|---|
-| **ICAP (TP ICAP brand)** | Historic anchor of Tokyo voice-brokered rates, FX, credit, and emerging-products OTC derivatives. Now part of TP ICAP. Coverage spans yen IRS, OIS, basis swaps, JGB-cash, JGB repo, and FX swaps / options. |
-| **Tullett Prebon (TP ICAP brand)** | Sister voice-broker brand within TP ICAP. Tokyo coverage of OTC rates, credit, and structured products. |
-| **BGC Brokers** | Cantor / BGC global interdealer broker; Tokyo presence in rates, credit, and selected emerging-products. |
-| **Tradition (Compagnie Financière Tradition)** | Independent global voice-broker; Tokyo presence in rates, FX, energy / commodities adjacencies. |
-| **Domestic tanshi / money-market interdealer brokers** | The [[money-market/tanshi-company-business-model|tanshi]] tier and other domestic short-end intermediaries operate in adjacent money-market and short-rate spaces — distinct franchise from the global voice brokers but overlapping in the front-end yen rates space. |
+This page does not maintain an interdealer-broker roster or infer product coverage from a group's global website. A named Japan legal entity and its current registration must be verified before attributing OTC-product coverage.
 
 ### Single-dealer platforms
 
-Each major dealer bank operates **single-dealer platforms** for client-facing OTC execution:
-
-- [[securities-firms/nomura-hd|Nomura]] (NomuraNow);
-- [[securities-firms/daiwa-sg|Daiwa SG]] (Daiwa Direct / institutional channels);
-- [[securities-firms/smbc-nikko|SMBC Nikko]];
-- [[securities-firms/mizuho-securities|Mizuho Securities]];
-- [[securities-firms/goldman-sachs-japan|GS Japan]] (Marquee);
-- [[securities-firms/morgan-stanley-japan|MS Japan]] (Matrix);
-- [[foreign-financial-institutions/jpmorgan-japan|JPM Japan]] (MorganMarkets);
-- [[foreign-financial-institutions/citigroup-japan|Citi Japan]] (Velocity).
-
-Single-dealer platforms are not multilateral venues, so they are **not subject to ETP rules per se**, but they integrate with multi-dealer ETPs for RFQ-style execution and feed trade reporting into TRs.
+Single-dealer interfaces and multilateral ETPs are different structures, but legal treatment depends on the actual service. No platform-brand list or automatic reporting integration is inferred here.
 
 ## Electronic execution share vs voice-brokered share
 
-Public-source observations on the electronic / voice split:
-
-| Product class | Approximate electronic share |
-|---|---|
-| **Standardized yen IRS (benchmark maturities, on-the-run)** | Majority electronic via ETPs (Tradeweb / Bloomberg); a residual voice-brokered share for larger blocks. |
-| **OIS referencing TONA (standardized)** | Majority electronic, particularly post-LIBOR transition that drove platform investment in TONA-curve infrastructure. |
-| **Cross-currency basis swaps (yen-USD)** | Mixed — electronic share growing but historically voice-brokered for larger / off-the-run trades. |
-| **Bespoke / structured IRS (callable, amortizing, swaption-embedded)** | Predominantly voice or bilateral. |
-| **Single-name CDS (off-cleared scope)** | Predominantly voice or bilateral. |
-| **iTraxx Japan index CDS** | Hybrid — electronic for standard series; voice for off-the-run. |
-| **FX options (institutional)** | Mixed — vanilla options often electronic; exotic / structured voice. |
-| **Equity OTC derivatives (variance swaps, single-stock swaps)** | Predominantly bilateral / dealer-direct; less electronic-platform penetration than rates. |
-
-The structural pattern: **the more standardized the product, the higher the electronic share**. Bespoke and complex structures remain voice-and-bilateral. This mirrors the US SEF and EU MTF / OTF experience, where electronic execution captured standardized IRS first and gradually extended to adjacent product classes.
+The cited FSA materials do not provide a current product-by-product electronic/voice share. Such a comparison needs a dated dataset with a defined denominator—trade count, notional, or volume—and execution-method classification.
 
 ## Comparison to US SEF and EU MiFID II OTF / MTF
 
-| Dimension | US (Dodd-Frank SEF) | EU (MiFID II MTF / OTF) | Japan (FIEA ETP) |
-|---|---|---|---|
-| **Mandatory venue type** | SEF (or DCM) | MTF or OTF | ETP under FSA registration |
-| **Mandatory product scope** | "Made Available to Trade" (MAT) determinations for designated swaps (USD IRS, EUR IRS, CDS indexes) | Trading Obligation under RTS 22 for designated derivatives | Designated standardized OTC products (yen IRS in particular) |
-| **RFQ minimum** | RFQ-3 (request to at least 3 dealers) for in-scope products | RFQ rules under MiFID II RTS | RFQ rules under FSA / FIEA ETP rules |
-| **Pre-trade transparency** | Real-time tradable quotes published by SEF | Pre-trade transparency under MiFID II (with waivers for large-size) | Pre-trade transparency on the ETP (with block-trade exemptions) |
-| **Post-trade transparency** | Real-time reporting to SDR (Swap Data Repository) | APA (Approved Publication Arrangement) reporting | Trade-repository reporting (DTCC Japan) with publication arrangements per FSA |
-| **Block-trade exemption** | Block-trade rules above designated thresholds | Large-in-scale waiver under MiFID II | Block-trade exemption under FSA / FIEA rules |
-| **Cross-border equivalence** | Substituted compliance / comparability for foreign venues (where determined) | Equivalence for third-country venues (where determined) | EMIR / Title-VII equivalence (where granted) |
-| **Voice-brokerage role** | Reduced for in-scope products post-SEF rule | Reduced post-MiFID II for in-scope | Material residual role, especially for non-standard / blocks |
-| **Dealer-count** | Many SEFs operating; some consolidation post-implementation | Fewer venues per product class | Concentrated set of ETPs serving Japan; voice-broker tier remains material |
+| Japan ETP feature documented in the 2015 FSA summary | Evidence boundary |
+|---|---|
+| Start date | Mandatory electronic-platform use began on 1 September 2015 for the then-defined scope |
+| Product in the summary | Yen-LIBOR IRS; this historical label does not establish current TONA scope |
+| Execution method | Order book or RFQ to no fewer than three counterparties |
+| Transparency | Post-trade information publication described by FSA |
+| Foreign platform route | Permission framework described for foreign electronic trading platforms |
 
-The structural take-away: **Japan's ETP regime is functionally aligned with the US SEF / EU MTF-OTF frameworks but is less rule-prescriptive about which trades must execute electronically**, leaving more discretion at the counterparty level. This is one reason **electronic-execution share by trade count in Japan is lower than in the US for comparable products**, with a larger voice-brokered tail.
+Source: ^[source:https://www.fsa.go.jp/common/conference/danwa/20150923/01.pdf]
+
+US and EU regimes should be compared from their own current primary sources. No relative electronic-share or prescriptiveness ranking is asserted here.
 
 ## FSA dealer regulation
 
