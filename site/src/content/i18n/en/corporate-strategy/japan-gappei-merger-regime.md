@@ -1,12 +1,12 @@
 ---
 source: corporate-strategy/japan-gappei-merger-regime
-source_hash: 7e883cd762e70707
+source_hash: 3afb76218985c223
 lang: en
-model: claude-opus-4-8
+model: source-language-sync
 status: machine
 fidelity: ok
 title: "合併 (Japan corporate merger) — 吸収合併 / 新設合併 mechanics, 適格合併 tax treatment, and the triangular-merger variant"
-translated_at: 2026-06-05T00:00:00.000Z
+translated_at: 2026-07-29T05:13:34.783Z
 ---
 
 # 合併 (Japan corporate merger) — 吸収合併 / 新設合併 mechanics, 適格合併 tax treatment, and the triangular-merger variant
@@ -37,9 +37,11 @@ The statutory layer:
 | Surviving entity | An **existing** company (存続会社) | A **newly incorporated** company (新設会社) |
 | Disappearing entity | The absorbed company(ies) (消滅会社) | **All** combining companies disappear |
 | Consideration to target shareholders | Survivor's shares, cash, or other property | New company's shares |
-| Licenses / listings | Survivor keeps its own; absorbed company's may lapse | All originals lapse; the new company must re-acquire/re-list |
+| Licenses / listings | Survivor remains the same entity; transferability of the absorbed company's permits must be checked permit by permit | The new entity cannot assume that predecessor-specific permits or listings continue; reauthorization / listing treatment must be checked |
 | Effective date | Date set in the merger agreement | Date of the new company's incorporation registration (art. 754(1)) |
 | Companies Act articles | 749, 750, 783–802 | 753, 754, 804–816 |
+
+Sources: entity outcomes, agreement contents, effective dates, shareholder procedures, and creditor procedures are scoped to the cited Companies Act provisions. Permit and listing continuity is not created by this table and must be verified under the relevant sector and exchange rules. ^[Sources: https://laws.e-gov.go.jp/document?lawid=417AC0000000086; https://www.jpx.co.jp/equities/listing-on-tse/index.html.]
 
 The intuition: **吸収合併 keeps one company standing and folds the other into it; 新設合併 demolishes everyone and builds a single new company on the rubble.** In practice **吸収合併 dominates** because 新設合併 forces the new entity to re-obtain every business license, permit, and stock-exchange listing that the predecessors held — an administrative penalty rarely worth paying. 新設合併 is mostly reserved for "merger-of-equals" optics where neither side wants to be seen as "absorbed."
 
@@ -74,6 +76,8 @@ In every scenario the same fault line applies: **share consideration preserves �
 | Loss carryforwards (繰越欠損金) | May carry over to survivor, **subject to anti-trafficking limits** (Corporation Tax Act art. 57 et seq.) | Generally do **not** carry over |
 | Net effect | Tax-neutral combination | Double-layer tax exposure |
 
+Sources: this is a high-level tax map based on the Ministry of Finance's current organization-restructuring summary; qualification and loss carryover depend on the statutory facts and anti-abuse rules. “Tax-neutral” means no immediate recognition under the qualifying rules, not permanent exemption. ^[Sources: https://www.mof.go.jp/tax_policy/summary/corporation/c06.htm; https://laws.e-gov.go.jp/document?lawid=340AC0000000034.]
+
 The **loss-carryforward carryover** is the most consequential tax feature unique to mergers: a profitable survivor absorbing a loss-making target may inherit usable 繰越欠損金 — but the **anti-loss-trafficking rules** (specified ownership-change and business-continuity tests) exist precisely to stop "buying losses," and they bite hard in distressed deals. This is the quiet tax lever behind many rescue mergers.
 
 ## 4. The Triangular Merger (三角合併) Variant
@@ -95,6 +99,8 @@ Japanese 組織再編成 offers a menu; choosing among them is about **what you 
 | **株式交換 (share exchange)** | Both survive in a **100% parent-subsidiary** stack | Take a target wholly-owned with stock — see [[corporate-strategy/japan-kabushiki-koukan-iten-regime|株式交換 / 株式移転]] |
 | **株式交付 (share delivery)** | Both survive; **partial** (>50%, <100%) control | Friendly partial acquisition with stock — see [[corporate-strategy/kabushiki-koufu-stock-distribution-regime|株式交付 regime]] |
 
+Sources: the table compares legal outcomes under the Companies Act. “Canonical use” is an analytical navigation label and does not establish that a structure is available, approved, or tax-qualified in a particular transaction. ^[Sources: https://laws.e-gov.go.jp/document?lawid=417AC0000000086; https://www.mof.go.jp/tax_policy/summary/corporation/c06.htm.]
+
 The decisive difference: **only 合併 destroys an entity.** Where the parties want both companies to keep operating as separate legal persons, they reach for a share-side regime instead. The full option set is mapped in [[corporate-strategy/spinoff-decision-tree-japan|the spinoff decision tree]] for the separation side; merger is its mirror on the combination side.
 
 ## 6. Procedural Timeline
@@ -110,6 +116,8 @@ The decisive difference: **only 合併 destroys an entity.** Where the parties w
 | 反対株主の株式買取請求 (appraisal demand window) | Statutory window around the effective date | Dissenting shareholders bought out at "fair value," judicially read to include synergy (会社法 785/797/806) |
 | Effective date | Per agreement (吸収) / incorporation registration (新設, art. 754(1)) | — |
 | Registration (変更登記 / 設立登記) | Filing within 2 weeks | 新設合併 also registers the new company |
+
+Sources: this is the ordinary Companies Act sequence; simplified / short-form procedures and transaction-specific notice, disclosure, regulatory-clearance, and registration rules can change the applicable steps and dates. ^[Source: https://laws.e-gov.go.jp/document?lawid=417AC0000000086.]
 
 A non-contentious merger typically runs **2–3 months** from board approval, but two external gates frequently dominate the calendar: **JFTC merger clearance** under [[finance/jftc-merger-control-process|the merger-control process]] for transactions over the notification thresholds, and listed-company FSA / TSE disclosure overhead interacting with [[finance/japan-large-shareholding-disclosure|large-shareholding disclosure]] and the listing rules in [[securities/japan-ipo-listing-disclosure-route|the IPO listing / disclosure route]].
 

@@ -1,141 +1,134 @@
 ---
 source: business/toyota-financial-services-captive-finance-case
-source_hash: 743ae99368649201
+source_hash: 014f6e9d5088f9ce
 lang: ja
-model: claude-opus-4-8
+model: qwen3-4b-instruct-2507-4bit-guarded-full-sync+manual-review
 status: machine
 fidelity: ok
-title: "トヨタファイナンシャルサービスのキャプティブファイナンス事例 — ディーラーチャネル向けの自動車メーカー保有銀行、オートローン ABS で資金調達"
-translated_at: 2026-06-05T00:00:00.000Z
+title: "トヨタ・フィナンシャル・サービス　キャプティブ・ファイナンス事例 — 車両販売支援を目的とした多様な市場資金活用"
+translated_at: 2026-07-29T05:13:34.783Z
 ---
 
-# トヨタファイナンシャルサービスのキャプティブファイナンス事例 — ディーラーチャネル向けの自動車メーカー保有銀行、オートローン ABS で資金調達
+# トヨタ・フィナンシャル・サービス　キャプティブ・ファイナンス事例 — 車両販売支援を目的とした多様な市場資金活用
 
-## ウィキ上の位置づけ
+## ウィキルート
 
-この項目は [[business/INDEX|business INDEX]] の下に上場企業の戦略的事例（上場自動車メーカーのキャプティブファイナンス子会社）として位置する。専用の [[manufacturer-finance/toyota-financial-services|Toyota Financial Services entity profile]] と、その同業の [[manufacturer-finance/honda-finance|Honda Finance]] および [[manufacturer-finance/panasonic-captive-finance|Panasonic captive finance]] に照らして読み、より広範なキャプティブファイナンスのパターンを把握すること。また、産業の親会社が逆に自身の金融部門を**分離する**対照例として [[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]] と対比すること。資金調達メカニズムについては [[structured-finance/auto-loan-abs-japan-toyota-honda|auto-loan ABS Japan (Toyota / Honda)]] と [[manufacturer-finance/vendor-finance-mechanism|vendor-finance mechanism]] を参照のこと。[[manufacturer-finance/INDEX|manufacturer-finance INDEX]] および [[structured-finance/INDEX|structured-finance INDEX]] とあわせて参照のこと。
+この項目は[[business/INDEX|business INDEX]]の下に位置する自動車メーカーのキャプティブファイナンス事例である。[[manufacturer-finance/toyota-financial-services|Toyota Financial Services entity profile]]、[[manufacturer-finance/vendor-finance-mechanism|vendor-finance mechanism]]、[[structured-finance/auto-loan-abs-japan-toyota-honda|Toyota / Honda auto-loan ABS]]と併せて参照されたい。
 
 ## TL;DR
 
-トヨタファイナンシャルサービス（TFS）は、**トヨタ自動車（TSE 7203）のキャプティブファイナンス部門**であり、ディーラーチャネルおよび販売時点での購入者に融資することで**より多くの車を売る**ことを目的とする、自動車メーカー保有の金融会社である。米国の Toyota Motor Credit Corporation（TMCC）や地域ごとの [[manufacturer-finance/toyota-financial-services|TFS]] などの事業体を通じて 40 か国超で事業を展開し、2024 年 3 月時点で資産は USD 149bn を上回り、2024 年末時点で残高ベースで米国最大の自動車ローン貸出会社にランクした。このアンブレラブランドは、TMCC と Toyota Motor Insurance Services の製品 — リテールローン、リース、ディーラーのフロアプラン（在庫）融資、そしてトヨタおよびレクサス顧客向けの保証プラン — をマーケティングする。
+トヨタ・フィナンシャル・サービス・コーポレーション（TFSC）は、トヨタ自動車株式会社の完全子会社であるグローバル金融サービス管理会社である。トヨタのFY2025 Form 20-Fによると、その金融サービス会社は**42の国・地域**で事業を展開し、自動車事業を支えるために顧客および販売店向けのローン・リースを提供している。米国では、「トヨタ・フィナンシャル・サービス」はトヨタ・モーター・クレジット・コーポレーション（TMCC）およびトヨタ・モーター・インシュアランス・サービス（TMIS）の包括ブランドであり、預金を受け入れる銀行の名称ではない。^[Sources: https://global.toyota/pages/global_toyota/ir/library/sec/20-F_202503_final.pdf; https://www.toyotafinancial.com/us/en/about_us/company_overview.html; https://www.sec.gov/Archives/edgar/data/834071/000095017025080775/ck0000834071-20250331.htm.]
 
-アーキテクチャ上の洞察はこうだ。キャプティブファイナンス会社は単独の金融利益を最大化するために運営されているのではなく、購入者の月々の支払いを引き下げ、ディーラーの在庫を融資し、ブランドとの関係を固定する**需要を生み出す子会社**として運営されており、その資金調達はリテール預金ではなく主に**オートローンの証券化（ABS）**と無担保債務を通じて行われる。これは [[business/sony-fg-partial-spinoff-case|Sony partial-spinoff]] の事例とは正反対の設計上の選択であり、そこでは親会社が、産業のコアとは倍率が異なる金融部門を分離している。
+旧ページは2点を過大評価していた。TFSを「自動車メーカーが所有する銀行」と称し、ABSを主要な資金調達手段として述べたが、日付付きの資金構成比は示さなかった。実際には、TMCCは無担保ターム債務、コマーシャルペーパー、証券化、その他のノートプログラム、信用枠、および親会社の信用補完契約を含む多様な市場資金調達の構成を公表している。
 
-## 1. キャプティブファイナンス会社の役割
+## 1. 企業および範囲マップ
 
-| 機能 | 目的 | 対象 |
+以下の表は、トヨタのグローバルマネージャー、米国金融会社、保険サービス会社および顧客対応ブランドを別々に示している。^[Sources: https://global.toyota/pages/global_toyota/ir/library/sec/20-F_202503_final.pdf; https://www.toyotafinancial.com/us/en/about_us/company_overview.html; https://www.sec.gov/Archives/edgar/data/834071/000095017025080775/ck0000834071-20250331.htm.]
+
+| 名称 | 法的・運営上の役割 | 事業範囲の境界 |
 |---|---|---|
-| リテール割賦ローン | 販売時点で購入者に融資 | エンド顧客 |
-| リース | 月々のコストを下げ、買い替えサイクルを促進 | エンド顧客 |
-| ディーラーのフロアプラン（在庫）融資 | ディーラーの車両在庫を融資 | フランチャイズディーラー |
-| 保証 / 保険商品 | マージン上乗せ + リテンション | 顧客（Toyota Motor Insurance Services 経由） |
-| 残価管理 | リースアップ車両のリマーケティングを管理 | キャプティブ自身 |
+| トヨタ自動車株式会社（TMC） | 最終母会社 | 自動車グループおよびその他の連結事業を含む |
+| トヨタフィナンシャルサービス株式会社（TFSC） | 完全子会社であるグローバル金融サービス管理会社 | 世界中のトヨタ金融会社を統括する |
+| トヨタフィナンシャルサービス（米国での利用名） | サービス・包括ブランド | TMCCおよびTMISの商品を提供する；引用した説明では米国の別個の銀行ではない |
+| トヨタ自動車信用株式会社（TMCC） | 米国におけるキャプティブ金融会社 | 米国およびプエルトリコにおけるリテール、リース、ディーラー向け融資、およびグループを通じて開示された保護事業 |
+| トヨタ自動車保険サービス（TMIS） | 保護・保険サービス事業体およびその子会社 | 公表された契約に基づく任意の車両保護・支払保護商品 |
 
-キャプティブは、**車の販売**を成立させ、繰り返させるために存在する — 金融はその実現手段であって、目的ではない。メーカー保有の融資の一般的なパターンについては [[manufacturer-finance/vendor-finance-mechanism|vendor-finance mechanism]] を参照のこと。
+グローバル・トヨタの数字およびUS TMCCの数字は、単一の会社の貸借対照表またはランキングに組み合わせてはならない。
 
-## 2. なぜ自動車メーカーは自前の銀行を運営するのか
+## 2. キャプティブが行うこと
 
-| 理由 | 効果 |
-|---|---|
-| 購入者の月々の支払いをコントロール | 補助（サブベンション）金利を、親会社が直接コントロールする販売テコとして展開できる |
-| ディーラー在庫を融資 | フロアプラン融資がショールームの在庫を保ち、ディーラーの流動性を維持 |
-| 金融 + 保険のマージンを捕捉 | さもなくば銀行に漏れていたマージンがグループ内に留まる |
-| ブランドとデータのロックイン | リースサイクルとロイヤルティが顧客をブランドに連れ戻す |
-| カウンターシクリカルな販売支援 | 不況時、サードパーティの貸し手が後退するなかでキャプティブは融資を流し続けられる |
+TMCCのFY2025 Form 10-Kおよび公式製品説明書は、以下の製品マップを裏付ける。^[Sources: https://www.sec.gov/Archives/edgar/data/834071/000095017025080775/ck0000834071-20250331.htm; https://www.toyotafinancial.com/us/en/about_us/company_overview.html; https://www.toyotafinancial.com/us/en/investor_relations/unsecured_term_debt.html.]
 
-銀行はブランドをまたいで車を融資する。キャプティブは金属を動かすために**このブランドの**車を融資する — 根本的に異なる目的関数である。
-
-## 3. TFS はどう資金調達するか — 預金ではなく ABS
-
-[[business/kddi-au-financial-bundling-case|telco-owned bank]] がリテール預金で融資をファンドするのとは異なり、キャプティブは主に**ホールセール債務と証券化**を通じてローンブックをファンドする。
-
-| 資金調達源 | 役割 |
-|---|---|
-| オートローン / リース ABS | リテール債権をプールし、トランシェ化し、資本市場の投資家に売却する — [[structured-finance/auto-loan-abs-japan-toyota-honda|auto-loan ABS Japan (Toyota / Honda)]] 参照 |
-| 無担保社債 | 各通貨建ての中期ノートおよび債券 |
-| リテールデマンドノートプログラム | 一部市場における直接的なリテール資金調達手段 |
-| 親会社 / グループ間サポート | 必要に応じたトヨタ自動車からの戦略的バックアップ |
-
-証券化により TFS はバランスシートのキャパシティを継続的にリサイクルできる。ディーラーでオリジネートし、債権をプールして売却し、新規オリジネーションに再投入する。これがキャプティブを [[structured-finance/INDEX|structured-finance]] 市場に直接結びつける。
-
-## 4. 規模と市場ポジション
-
-| 指標 | 数値（公開開示） |
-|---|---|
-| 事業展開国数 | 40 か国超 |
-| 総資産（2024 年 3 月） | USD 149bn 超 |
-| 米国市場ポジション（2024 年） | 残高ベースで最大の自動車ローン貸出会社；オリジネーション量で首位 |
-| 地域フットプリント（欧州 & アフリカ） | 22 か国にわたり 2,500 名超の同僚 |
-| アンブレラブランド | Toyota Motor Credit Corporation（TMCC）、Toyota Motor Insurance Services |
-
-この規模は、キャプティブファイナンスがグローバル自動車メーカーの商業マシンにとっていかに中心的であるかを示す — 中堅銀行に匹敵する金融バランスシートが、すべて車両販売を支えるために築かれている。
-
-## 5. 比較 — キャプティブファイナンス vs テレコム / スーパーアプリ金融
-
-| モデル | 保有者 | 金融の目的 | 主要な資金調達 | 例 |
-|---|---|---|---|---|
-| **キャプティブ自動車金融**（本事例） | 上場自動車メーカー（トヨタ 7203） | より多くの車を売る；ディーラー + 購入者を融資 | ABS + 無担保債務 | TFS / TMCC |
-| テレコム金融（自前銀行） | テレコム（KDDI 9433） | モバイル加入者基盤をマネタイズ | リテール預金 | au-FH — [[business/kddi-au-financial-bundling-case|KDDI case]] 参照 |
-| テレコム金融（パートナー銀行） | テレコム（NTT 9432） | モバイルチャネルで金融を流通 | パートナーのバランスシート（SMBC） | Docomo — [[business/ntt-docomo-d-point-telco-finance-case|Docomo case]] 参照 |
-| スーパーアプリ金融 | SoftBank（9434） | 各バーティカルを統合し、その後上場 | 混合；アプリ預金 + 資本 | PayPay — [[business/softbank-paypay-financial-integration-case|SoftBank / PayPay case]] 参照 |
-| 産業金融カーブアウト | 産業の親会社（ソニー 6758） | コングロマリットディスカウント解消のため分離 | 単独の保険会社 / 銀行 | Sony FG — [[business/sony-fg-partial-spinoff-case|Sony case]] 参照 |
-
-キャプティブファイナンスが特異なのは、金融ユニットの仕事が**親会社のコア製品の販売を実現すること**であり、利益センターでも別個にマネタイズされるプラットフォームでもない点にある。
-
-## 6. 他のキャプティブファイナンス部門への読み替え
-
-TFS モデルは、**メーカー保有の販売時点金融**の参照テンプレートである。
-
-| キャプティブ | 親会社 | 注記 |
+| 関与機能 | 対象者 | 経済的役割 |
 |---|---|---|
-| [[manufacturer-finance/honda-finance|Honda Finance]] | Honda Motor | 直接の自動車キャプティブの同業；[[structured-finance/auto-loan-abs-japan-toyota-honda|Toyota / Honda auto-loan ABS]] を共同でアンカーする |
-| [[manufacturer-finance/panasonic-captive-finance|Panasonic captive finance]] | Panasonic | 自動車リテールではなく機器 / ベンダーファイナンス |
-| [[manufacturer-finance/sony-group-finance-arm|Sony group finance arm]] | Sony | 対照：ソニーの金融部門は別個の上場 FG となった — [[business/sony-fg-partial-spinoff-case|Sony case]] 参照 |
-| Toyota Finance（日本国内カード） | Toyota | [[card-issuers/toyota-finance|Toyota Finance]] は TFS のグローバル自動車金融と並んで日本のカード / TS CUBIC 事業を運営する |
+| リテール向け分割ローン | ディーラーを通じた車両購入者 | 車両購入を支援する |
+| 車両リース | 参加ディーラーを通じた車両利用者 | 車両の利用を資金面で支え、TMCCまたはリース構造が開示された残価リスクを負う |
+| ホールセール／フロアプラン融資 | 認定ディーラー | ディーラーの車両在庫に資金を供給する |
+| 運転資金、リボルビング枠および不動産融資 | 適格ディーラー | ディーラーの事業運営および施設を支援する |
+| 任意の車両・支払保護商品 | 車両購入者 | TMISまたは第三者との契約に基づく保護商品を追加する |
+| サービシング | 契約保有者／証券化関連会社 | TMCCが指定されたリテールおよびリース口座のサービシングを行う |
 
-キャプティブを定義するパターン：ローンブックが親会社の製品を動かすために存在し、預金ではなく資本市場で資金調達するメーカー保有の貸し手。
+金融事業は販売・流通を支援するが、信用、残価、金利、流動性、収益性で評価される。「販売支援」は、その子会社に独立した財務規律がないことを意味しない。
 
-## 7. 反論
+## 3. グローバルおよび米国での公表要旨
 
-- 報告される規模の数値（資産、国数、米国ランキング）は特定の日付における TFS / トヨタの公開開示に由来し、年ごとに変動する；現時点のリアルタイムの値ではなく、時点ごとの公開数値として扱うこと
-- 補助（サブベンション）金融は販売テコだが、それはコストをディーラー / マーケティングのラインから金融子会社へ移すものである — フリーマネーではなくグループの経済学である
-- キャプティブの残価および信用リスクはプロシクリカルである：中古車価格の変動はリースの残価を直撃し、景気後退は親会社の車両販売が落ちるまさにそのときに延滞を増やす
-- ABS とホールセール資金調達への強い依存は、預金でファンドされる銀行が部分的に隔離されている形で、キャプティブを資本市場へのアクセスと金利サイクルに晒す
-- キャプティブモデルは、親会社のコア製品（車両）が需要エンジンであり続けることを前提とする；EV / モビリティ・アズ・ア・サービスへのシフトは「販売の融資」が何を意味するかさえ作り変えうる
+時点別の表は、旧ページの裏付けのない「最大の米国自動車ローン会社」という順位付けを避け、グローバル指標と米国指標を分けている。^[Sources: https://global.toyota/pages/global_toyota/ir/library/sec/20-F_202503_final.pdf; https://www.toyotafinancial.com/us/en/about_us/company_overview.html; https://www.sec.gov/Archives/edgar/data/834071/000095017025080775/ck0000834071-20250331.htm.]
 
-## 8. 未解決の問い
+| 指標 | 公表値 | 報告境界 |
+|---|---:|---|
+| トヨタ金融サービス事業の展開範囲 | 42の国・地域 | トヨタFY2025 Form 20-F；グローバル金融会社ネットワーク |
+| トヨタ金融サービスの売上高 | FY2025に¥4,481.1 billion | トヨタ連結金融サービス事業 |
+| TMCC連結総資産 | 2025-03-31時点で$155.294 billion | TMCCおよび連結子会社 |
+| TMCC FY2025のファイナンス収益構成 | リテール65%；減価償却控除後のオペレーティング・リース24%；ディーラー11% | TMCCの減価償却控除後のファイナンス収益に占める割合 |
+| 米国TFSの公開会社概要における指標 | 管理資産が$150 billion超 | 顧客向けの米国概要；トヨタのグローバル連結資産額ではない |
 
-- EV やサブスクリプション / モビリティ・アズ・ア・サービスのモデルへのシフトは、キャプティブファイナンスの目的関数（販売の融資 vs 利用の融資）をどう変えるか？
-- 金利上昇と ABS 市場の状況は、キャプティブの資金調達上の優位をサードパーティの自動車貸し手に対して圧縮するか？
-- トヨタは [[business/sony-fg-partial-spinoff-case|Sony が自社の FG を分離した]] ように自身の金融事業の一部を再編または部分分離することがありうるか、それともキャプティブの統合は戦略的にあまりに中心的か？
-- [[card-issuers/toyota-finance|Toyota Finance]] の下の日本国内のカード / 決済事業は、グローバルな TFS 自動車金融のバランスシートとどう相互作用するか？
-- 戦略としてのキャプティブファイナンスの需要創出は、消費者との関係を複利的に積み上げるテレコム / スーパーアプリ金融のバンドリングと比べてどうか？
+これらは日付付きの開示である。次のForm 20-F、TMCC Form 10-Kまたは最新の会社ページを確認せずに、後続期間へ持ち越してはならない。
+
+## 4. 資金調達構成
+
+資金調達表は、TMCCの公式投資家ページおよびFY2025提出資料に基づく。複数チャネルの利用可能性と実際の利用を示すものであり、それらの間に恒久的な構成比順位があることを示すものではない。^[Sources: https://www.toyotafinancial.com/us/en/investor_relations/unsecured_term_debt.html; https://www.toyotafinancial.com/us/en/investor_relations/asset-backed_securities.html/; https://www.toyotafinancial.com/us/en/investor_relations/sales_and_trading.html; https://www.sec.gov/Archives/edgar/data/834071/000095017025080775/ck0000834071-20250331.htm.]
+
+| 資金調達・支援チャネル | 公表された役割 |
+|---|---|
+| 無担保ターム債務 | TMCCは米ドルおよびその他の通貨で固定金利または変動金利の債務を発行する |
+| コマーシャルペーパー | TMCCおよび指定されたトヨタ金融関連会社が短期資金調達に利用 |
+| リテール／リースABS | 特定目的子会社がリテール分割契約またはクローズドエンド型車両リースを裏付けとする証券を発行 |
+| インカムドライバー・ノート | TMCCのノートプログラムは投資家向けサイトで説明されている |
+| コミットメント型信用枠 | 開示書類および資金調達資料において流動性支援が公表されている |
+| 信用補完契約 | 公表された構造において、TFSC→TMCCおよびTMC→TFSCの並行契約が存在する |
+
+したがって、証券化は重要なチャネルだが、すべてのキャプティブファイナンスと同義ではない。ABSの発行は、すべての債権が連結貸借対照表から自動的に外れることを意味しない。会計処理は、適用される移転および連結規則に従う。
+
+## 5. リスクマップ
+
+以下の分析表は、TMCCのFY2025 Form 10-Kにおける資産、負債、引受および事業セグメントの記載に基づいている。^[Source: https://www.sec.gov/Archives/edgar/data/834071/000095017025080775/ck0000834071-20250331.htm.]
+
+| リスク | 発生する場面 | 証拠に基づく監視指標 |
+|---|---|---|
+| 信用リスク | リテール契約およびディーラー向け融資 | 延滞、貸倒償却、貸倒引当金、引受構成 |
+| 残価リスク | オペレーティング・リースおよび返却車両 | 返却率、中古車価値、減価償却の前提 |
+| 金利・為替リスク | 複数通貨の固定・変動金利債務と、主に米ドル建ての債権との関係 | 債務構成、デリバティブ、支払利息 |
+| 流動性リスク | 資本市場での発行およびファシリティへの依存 | 満期構成、市場アクセス、流動性資源、信用補完 |
+| 集中・販売サイクルリスク | トヨタ／レクサスのディーラーおよび顧客チャネル | 新規取組高、金融浸透率、車両販売環境 |
+| 行為リスク | 消費者信用、サービシング、保護商品 | 規制措置、苦情、公正融資、商品開示 |
+
+親会社ブランドおよび信用補完構造は市場へのアクセスを強化し得るが、これらのリスクを除去しない。
+
+## 6. 戦略的読解
+
+キャプティブ・ファイナンスは、信用供与の可否、リース条件、メーカー支援プログラムを通じて自動車需要に影響を与え得る。また、ディーラー在庫にも資金を供給し、車両販売後もサービシング関係を維持する。これらの機能は自動車事業に寄与し得るが、特定の優遇金利が特定の車両販売をもたらしたという主張には、プログラム単位の証拠が必要である。
+
+[[business/sony-fg-partial-spinoff-case|Sony's separation of SFG]]と比較すると、引用したトヨタの構造では、世界の自動車金融は完全子会社である管理会社の下に置かれている。この対比は説明的なものであり、トヨタがスピンオフを検討して却下したことの証拠ではない。
+
+## 7. モニタリングポイント
+
+- TFSCのグローバル開示は、TMCCの米国開示と分けて扱う。
+- 「主要チャネル」という表現を出す前に、最新の提出資料に基づいて資金構成を再計算する。
+- 残価と信用パフォーマンスを別々に追跡する。
+- 債権の所有、サービシング、証券化を区別する。
+- 各レビューにおいて、現在の国数、資産額、製品範囲を確認・検証する。
 
 ## 関連
 
 - [[business/INDEX|business INDEX]]
 - [[manufacturer-finance/toyota-financial-services|Toyota Financial Services entity]]
+- [[manufacturer-finance/vendor-finance-mechanism|Vendor-finance mechanism]]
 - [[manufacturer-finance/honda-finance|Honda Finance]]
-- [[manufacturer-finance/panasonic-captive-finance|Panasonic captive finance]]
-- [[manufacturer-finance/vendor-finance-mechanism|vendor-finance mechanism]]
-- [[manufacturer-finance/INDEX|manufacturer-finance INDEX]]
-- [[structured-finance/auto-loan-abs-japan-toyota-honda|auto-loan ABS Japan (Toyota / Honda)]]
-- [[structured-finance/INDEX|structured-finance INDEX]]
-- [[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]]
-- [[business/kddi-au-financial-bundling-case|KDDI au financial bundling case]]
-- [[business/softbank-paypay-financial-integration-case|SoftBank / PayPay financial integration case]]
-- [[card-issuers/toyota-finance|Toyota Finance (Japan card / TS CUBIC)]]
+- [[structured-finance/auto-loan-abs-japan-toyota-honda|Toyota / Honda auto-loan ABS]]
+- [[card-issuers/toyota-finance|Toyota Finance]]
+- [[business/sony-fg-partial-spinoff-case|Sony Financial Group partial spin-off case]]
 - [[INDEX|FinWiki index]]
 
-## ソース
+## 出典
 
-- Toyota Financial company overview: https://www.toyotafinancial.com/us/en/about_us/company_overview.html
-- Toyota Motor Corporation Investor Relations: https://global.toyota/en/ir/
-- Toyota Financial Services (Toyota Europe): https://www.toyota-europe.com/brands-and-services/toyota-financial-services
-- Toyota Financial Services overview (Wikipedia, for public-figure summary): https://en.wikipedia.org/wiki/Toyota_Financial_Services
-- Toyota Financial portal: https://www.toyotafinancial.com/
+- Toyota Motor, FY2025 Form 20-F: https://global.toyota/pages/global_toyota/ir/library/sec/20-F_202503_final.pdf
+- Toyota Financial US company overview: https://www.toyotafinancial.com/us/en/about_us/company_overview.html
+- TMCC FY2025 Form 10-K: https://www.sec.gov/Archives/edgar/data/834071/000095017025080775/ck0000834071-20250331.htm
+- TMCC unsecured term debt: https://www.toyotafinancial.com/us/en/investor_relations/unsecured_term_debt.html
+- TMCC asset-backed securities: https://www.toyotafinancial.com/us/en/investor_relations/asset-backed_securities.html/
+- Toyota Financial sales and trading / commercial paper: https://www.toyotafinancial.com/us/en/investor_relations/sales_and_trading.html
 
 ---
 
-> [!info] 校核状态
-> confidence: **likely**. TFS のキャプティブファイナンスの役割、複数国にわたるフットプリント、アンブレラ構造（TMCC + Toyota Motor Insurance Services）、ABS ベースの資金調達、そして米国市場首位のポジションは、トヨタ / TFS の企業資料および IR で公開開示されている。具体的な資産、オリジネーション、国数の数値は年ごとに変動する時点ごとの公開開示である；フォワードルッキングな EV / モビリティの含意は予測である。
+> [!info] Verification status
+> confidence: **certain** for the entity structure, FY2025 footprint and metrics, TMCC products and disclosed funding channels. Rankings and later-period balances require current filings.

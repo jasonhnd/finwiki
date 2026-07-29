@@ -11,10 +11,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/business/softbank-vision-fund-arm-ipo-template.md",
   "raw_markdown_url": "https://finwiki.zksc.io/business/softbank-vision-fund-arm-ipo-template.md",
   "domain": "business",
-  "title": "SoftBank Vision Fund + Arm IPO template — fund-structured stake monetization via portfolio listing",
+  "title": "SoftBank / Arm 2023 IPO case — all-secondary sell-down with parent control retained",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "SoftBank Vision Fund + Arm IPO template — fund-structured stake monetization via portfolio listing",
+    "title": "SoftBank / Arm 2023 IPO case — all-secondary sell-down with parent control retained",
     "aliases": [
       "softbank-vision-fund-arm-ipo-template",
       "SBG Arm IPO case",
@@ -24,86 +24,69 @@
     "domain": "business",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
-    "confidence": "likely",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
+    "confidence": "certain",
     "tags": [
       "business",
       "case-study",
       "softbank",
       "arm",
       "ipo",
-      "vision-fund",
-      "monetization",
-      "valuation"
+      "secondary-offering",
+      "control"
     ],
     "status": "active",
     "canonical_anchor": null,
     "related": [],
     "note": null,
     "sources": [
-      "https://group.softbank/en/ir",
-      "https://www.arm.com/company/investors",
-      "https://www.sec.gov/Archives/edgar/data/1973239/000119312523223914/d439321df1.htm",
-      "https://group.softbank/system/files/pdf/ir/financials/annual_reports/annual-report_fy2023_01_en.pdf",
-      "https://www.nasdaq.com/market-activity/stocks/arm"
+      "https://newsroom.arm.com/news/arm-announces-pricing-of-initial-public-offering",
+      "https://group.softbank/en/news/press/20230919",
+      "https://www.sec.gov/Archives/edgar/data/1973239/000119312523228059/d393891df1a.htm",
+      "https://www.sec.gov/Archives/edgar/data/1973239/000197323924000004/arm-20231231.htm",
+      "https://group.softbank/en/news/press/20160718"
     ]
   },
-  "summary": "This entry sits under business INDEX as a public-company strategic case in the people-and-portfolio cluster. Read it against Brian Armstrong Coinbase exchange-as-public-company template for peer / contrast context on portfolio company going public, Kitao Yoshitaka SBI independent strategy for the co",
+  "summary": "This entry sits under business INDEX as a completed cross-border subsidiary-IPO case. Read it with Japan listed corporate strategic restructuring matrix, Sony Financial Group partial spin-off case, and Japan listed financial-groups universe.",
   "headings": [
-    "SoftBank Vision Fund + Arm IPO template — fund-structured stake monetization via portfolio listing",
+    "SoftBank / Arm 2023 IPO case — all-secondary sell-down with parent control retained",
     "Wiki route",
     "TL;DR",
-    "1. Vision Fund Structure & Arm's Path Through It",
-    "2. Transaction Architecture (September 2023)",
-    "3. Why The IPO Mattered More As Marker Than Cash Raise",
-    "4. Post-IPO SBG Strategy",
-    "5. Comparison: Arm IPO vs Other Vision Fund Exits",
-    "6. Read-Across To Japan Conglomerate Carve-Outs",
-    "7. Counterpoints"
+    "1. Ownership path and transaction boundary",
+    "2. Completed IPO facts",
+    "3. Cash, accounting and control",
+    "4. Comparison with the Sony Financial Group separation",
+    "5. What the case teaches",
+    "6. Monitoring points",
+    "Related"
   ],
   "body_links": {
-    "wikilinks_count": 14,
+    "wikilinks_count": 6,
     "wikilinks": [
       "INDEX",
       "business/INDEX",
-      "business/brian-armstrong-coinbase-public-company-template",
-      "business/founder-pivot-outcome-template-matrix",
-      "business/gmo-internet-group",
-      "business/kitao-yoshitaka-sbi-independent-strategy-case",
+      "business/japan-listed-corp-strategic-restructuring-matrix",
       "business/sony-fg-partial-spinoff-case",
-      "corporate-strategy/INDEX",
-      "corporate-strategy/japan-kabushiki-bunpai-spinoff-regime",
-      "finance/INDEX",
-      "finance/japan-leveraged-buyout-economics",
-      "finance/japan-listed-financial-groups-investable-universe",
-      "finance/japan-tender-offer-process",
-      "megabanks/sbi-hd"
+      "corporate-strategy/spinoff-decision-tree-japan",
+      "finance/japan-listed-financial-groups-investable-universe"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX.md",
       "https://finwiki.zksc.io/ja/domains/business/",
-      "https://finwiki.zksc.io/ja/business/brian-armstrong-coinbase-public-company-template/",
-      "https://finwiki.zksc.io/ja/business/founder-pivot-outcome-template-matrix/",
-      "https://finwiki.zksc.io/ja/business/gmo-internet-group/",
-      "https://finwiki.zksc.io/ja/business/kitao-yoshitaka-sbi-independent-strategy-case/",
+      "https://finwiki.zksc.io/ja/business/japan-listed-corp-strategic-restructuring-matrix/",
       "https://finwiki.zksc.io/ja/business/sony-fg-partial-spinoff-case/",
-      "https://finwiki.zksc.io/ja/domains/corporate-strategy/",
-      "https://finwiki.zksc.io/ja/corporate-strategy/japan-kabushiki-bunpai-spinoff-regime/",
-      "https://finwiki.zksc.io/ja/domains/finance/",
-      "https://finwiki.zksc.io/ja/finance/japan-leveraged-buyout-economics/",
-      "https://finwiki.zksc.io/ja/finance/japan-listed-financial-groups-investable-universe/",
-      "https://finwiki.zksc.io/ja/finance/japan-tender-offer-process/",
-      "https://finwiki.zksc.io/ja/megabanks/sbi-hd/"
+      "https://finwiki.zksc.io/ja/corporate-strategy/spinoff-decision-tree-japan/",
+      "https://finwiki.zksc.io/ja/finance/japan-listed-financial-groups-investable-universe/"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 9200,
-    "word_like_tokens": 1575,
-    "inbound_wikilinks_count": 7,
+    "nonspace_chars": 8517,
+    "word_like_tokens": 1382,
+    "inbound_wikilinks_count": 5,
     "last_modified": "2026-06-15"
   }
 }

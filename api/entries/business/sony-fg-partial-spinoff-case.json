@@ -11,10 +11,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/business/sony-fg-partial-spinoff-case.md",
   "raw_markdown_url": "https://finwiki.zksc.io/business/sony-fg-partial-spinoff-case.md",
   "domain": "business",
-  "title": "Sony Financial Group partial spinoff case — 株式分配方式 + 親会社 20% 未満残存 + 課税繰延",
+  "title": "Sony Financial Group partial spin-off case — completed listing, share distribution, and 16.40% retained stake",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Sony Financial Group partial spinoff case — 株式分配方式 + 親会社 20% 未満残存 + 課税繰延",
+    "title": "Sony Financial Group partial spin-off case — completed listing, share distribution, and 16.40% retained stake",
     "aliases": [
       "sony-fg-partial-spinoff-case",
       "Sony FG パーシャルスピンオフ",
@@ -24,10 +24,10 @@
     "domain": "business",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
-    "confidence": "likely",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
+    "confidence": "certain",
     "tags": [
       "business",
       "case-study",
@@ -43,47 +43,36 @@
     "note": null,
     "sources": [
       "https://www.sony.com/en/SonyInfo/IR/library/SFG_pso/",
-      "https://www.sony.com/en/SonyInfo/News/Press/202405/24-026E/",
+      "https://www.sony.com/en/SonyInfo/IR/library/FY2025_20F_PDF.pdf",
+      "https://www.sonyfg.co.jp/en/ir/shareholder/shareholder.html",
+      "https://www.sonyfg.co.jp/en/financial_info/annualreport/260130_01.pdf",
       "https://www.meti.go.jp/press/2023/02/20240214006/20240214006.html",
-      "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/saihenzeisei/spin-off.html",
-      "https://www.jpx.co.jp/listing/index.html"
+      "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/oshirase/spinoff-kaitei_20260522.html"
     ]
   },
-  "summary": "This entry sits under business INDEX as a public-company strategic case. Read it against SoftBank/Arm IPO template and JPX listed exchange case as peer Japan large-cap public-company restructurings, partial spinoff tax deferral for the tax-regime mechanics, Sony FG for the entity profile, and 会社分割 t",
+  "summary": "This entry sits under business INDEX as a completed public-company restructuring case. Compare it with the Japan listed-company restructuring matrix, then read it with Japan share-distribution and partial-spin-off regime, Japan spin-off decision tree, and Sony Financial Group for the current entity",
   "headings": [
-    "Sony Financial Group partial spinoff case — 株式分配方式 + 親会社 20% 未満残存 + 課税繰延",
+    "Sony Financial Group partial spin-off case — completed listing, share distribution, and 16.40% retained stake",
     "Wiki route",
     "TL;DR",
-    "1. Transaction Architecture",
-    "2. Why Sony Chose Partial Spinoff Over Alternatives",
-    "3. Timeline",
-    "4. Strategic Rationale",
-    "5. Tax & Regulatory Compliance",
-    "6. Read-Across To Other Japan Conglomerates",
-    "7. Counterpoints"
+    "1. Completed transaction architecture",
+    "2. Timeline",
+    "3. Why this structure mattered",
+    "4. Tax and legal boundary",
+    "5. Investor reading",
+    "6. Monitoring points",
+    "Related"
   ],
   "body_links": {
-    "wikilinks_count": 22,
+    "wikilinks_count": 10,
     "wikilinks": [
       "INDEX",
       "business/INDEX",
-      "business/jpx-public-company-as-market-infrastructure",
-      "business/softbank-vision-fund-arm-ipo-template",
-      "business/toshiba-tob-squeeze-out-2023-2024-case",
-      "corporate-strategy/INDEX",
+      "business/japan-listed-corp-strategic-restructuring-matrix",
       "corporate-strategy/japan-kabushiki-bunpai-spinoff-regime",
       "corporate-strategy/japan-kaisha-bunkatsu-tax-regime",
-      "corporate-strategy/kabushiki-koufu-stock-distribution-regime",
       "corporate-strategy/spinoff-decision-tree-japan",
-      "finance/INDEX",
-      "finance/japan-listed-financial-groups-investable-universe",
-      "finance/japan-mbo-and-squeeze-out-process",
-      "finance/japan-tender-offer-process",
       "life-insurers/sony-life",
-      "megabanks/mufg",
-      "megabanks/paypay-fg",
-      "megabanks/sbi-hd",
-      "megabanks/smfg",
       "megabanks/sony-fg",
       "non-life-insurers/sony-insurance",
       "regional-banks/sony-bank"
@@ -91,23 +80,11 @@
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX.md",
       "https://finwiki.zksc.io/ja/domains/business/",
-      "https://finwiki.zksc.io/ja/business/jpx-public-company-as-market-infrastructure/",
-      "https://finwiki.zksc.io/ja/business/softbank-vision-fund-arm-ipo-template/",
-      "https://finwiki.zksc.io/ja/corporate-strategy/toshiba-tob-squeeze-out-2023-2024-case/",
-      "https://finwiki.zksc.io/ja/domains/corporate-strategy/",
+      "https://finwiki.zksc.io/ja/business/japan-listed-corp-strategic-restructuring-matrix/",
       "https://finwiki.zksc.io/ja/corporate-strategy/japan-kabushiki-bunpai-spinoff-regime/",
       "https://finwiki.zksc.io/ja/corporate-strategy/japan-kaisha-bunkatsu-tax-regime/",
-      "https://finwiki.zksc.io/ja/corporate-strategy/kabushiki-koufu-stock-distribution-regime/",
       "https://finwiki.zksc.io/ja/corporate-strategy/spinoff-decision-tree-japan/",
-      "https://finwiki.zksc.io/ja/domains/finance/",
-      "https://finwiki.zksc.io/ja/finance/japan-listed-financial-groups-investable-universe/",
-      "https://finwiki.zksc.io/ja/finance/japan-mbo-and-squeeze-out-process/",
-      "https://finwiki.zksc.io/ja/finance/japan-tender-offer-process/",
       "https://finwiki.zksc.io/ja/life-insurers/sony-life/",
-      "https://finwiki.zksc.io/ja/megabanks/mufg/",
-      "https://finwiki.zksc.io/ja/megabanks/paypay-fg/",
-      "https://finwiki.zksc.io/ja/megabanks/sbi-hd/",
-      "https://finwiki.zksc.io/ja/megabanks/smfg/",
       "https://finwiki.zksc.io/ja/megabanks/sony-fg/",
       "https://finwiki.zksc.io/ja/non-life-insurers/sony-insurance/",
       "https://finwiki.zksc.io/ja/regional-banks/sony-bank/"
@@ -116,9 +93,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 9388,
-    "word_like_tokens": 1508,
-    "inbound_wikilinks_count": 14,
+    "nonspace_chars": 8823,
+    "word_like_tokens": 1470,
+    "inbound_wikilinks_count": 11,
     "last_modified": "2026-06-15"
   }
 }

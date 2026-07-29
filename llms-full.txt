@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-07-29T12:51:53+09:00
+Generated: 2026-07-29T15:33:43+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1602
-Public pages listed: 1601
+Markdown files: 1603
+Public pages listed: 1602
 
 ## Reading Rules
 
@@ -30,7 +30,7 @@ Public pages listed: 1601
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/CHANGELOG.md
 - Domain: root
 - Type: control_doc
-- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-07-29 - Table provenance batch 03 corrections (#233), 日本語, English
+- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-07-29 - Table provenance batch 04 corrections (#234), 日本語, English
 
 ### How to navigate FinWiki — reader profile guide
 - URL: https://finwiki.zksc.io/HOW-TO-NAVIGATE.md
@@ -1454,7 +1454,7 @@ Public pages listed: 1601
 - Headings: Business domain, TL;DR, Route map, Start here, Public people case studies, Public-company strategic cases, Research control, Related domains
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/JapanFG/INDEX.md, https://finwiki.zksc.io/ja/domains/agent-economy/, https://finwiki.zksc.io/ja/business/aeon-financial-service-retail-bank-case/, https://finwiki.zksc.io/ja/business/christine-moy-talent-signal-jpm-apollo/, https://finwiki.zksc.io/ja/business/gmo-internet-group/, https://finwiki.zksc.io/ja/business/jamie-dimon-anti-crypto-pivot-case/, https://finwiki.zksc.io/ja/business/larry-fink-blackrock-digital-asset-template/, https://finwiki.zksc.io/ja/business/matt-huang-triple-role-coi-template/, https://finwiki.zksc.io/ja/business/mizuho-rakuten-finance-stake-accumulation-case/, https://finwiki.zksc.io/ja/business/paolo-ardoino-tether-business-model-template/, https://finwiki.zksc.io/ja/business/seven-bank-atm-platform-deconsolidation-case/
 
-### Aeon Financial Service retail-bank case — a supermarket group's full financial holding: Aeon Bank + Aeon credit card + pan-Asia consumer finance
+### AEON Financial Service case — retail distribution, banking, cards, and Asian consumer finance
 - URL: https://finwiki.zksc.io/ja/business/aeon-financial-service-retail-bank-case/
 - Japanese HTML: https://finwiki.zksc.io/ja/business/aeon-financial-service-retail-bank-case/
 - English alternate: https://finwiki.zksc.io/en/business/aeon-financial-service-retail-bank-case/
@@ -1463,11 +1463,11 @@ Public pages listed: 1601
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/business/aeon-financial-service-retail-bank-case.md
 - Domain: business
 - Type: wiki_entry
-- Summary: This entry sits under business INDEX as a public-company strategic case: a retail (supermarket) conglomerate that built a full financial holding rather than a single utility rail. Read it against Seven Bank ATM-platform + deconsolidation case — the cleanest contrast, since Seven & i monetised store
-- Headings: Aeon Financial Service retail-bank case — a supermarket group's full financial holding: Aeon Bank + Aeon credit card + pan-Asia consumer finance, Wiki route, TL;DR, 1. The Full-Stack Retail-Finance Model, 2. Why A Supermarket Group Built A Whole Bank, 3. The Pan-Asia Consumer-Finance Footprint, 4. Contrast — Two Retailer Paths To Finance, 5. Comparison — Card / Consumer-Finance Peers
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/business/, https://finwiki.zksc.io/ja/business/rakuten-group-mobile-finance-bundling-case/, https://finwiki.zksc.io/ja/business/seven-bank-atm-platform-deconsolidation-case/, https://finwiki.zksc.io/ja/business/toyota-financial-services-captive-finance-case/, https://finwiki.zksc.io/ja/card-issuers/aeon-bank/, https://finwiki.zksc.io/ja/card-issuers/aeon-financial-service/, https://finwiki.zksc.io/ja/card-issuers/credit-saison/, https://finwiki.zksc.io/ja/card-issuers/jaccs/, https://finwiki.zksc.io/ja/finance/cross-border-m-a-japan/, https://finwiki.zksc.io/ja/payments/japan-consumer-credit-operator-comparison-matrix/, https://finwiki.zksc.io/ja/payments/waon-prepaid-aeon/
+- Summary: This entry sits under business INDEX. Read it with AEON Financial Service, AEON Bank, AEON Group, Seven Bank case, and store traffic as financial distribution.
+- Headings: AEON Financial Service case — retail distribution, banking, cards, and Asian consumer finance, Wiki route, TL;DR, 1. Operating structure, 2. Retail distribution logic, 3. Overseas footprint, 4. AEON Bank (M) milestone, 5. Comparison with Seven Bank
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/business/, https://finwiki.zksc.io/ja/business/seven-bank-atm-platform-deconsolidation-case/, https://finwiki.zksc.io/ja/card-issuers/aeon-bank/, https://finwiki.zksc.io/ja/card-issuers/aeon-financial-service/, https://finwiki.zksc.io/ja/payments/waon-prepaid-aeon/, https://finwiki.zksc.io/ja/retail/aeon-group/, https://finwiki.zksc.io/ja/retail/store-traffic-as-financial-distribution/
 
-### Brian Armstrong / Coinbase listed-exchange operating template · direct-listing IPO + regulatory-engagement strategy
+### Brian Armstrong / Coinbase public-company operating case
 - URL: https://finwiki.zksc.io/ja/business/brian-armstrong-coinbase-public-company-template/
 - Japanese HTML: https://finwiki.zksc.io/ja/business/brian-armstrong-coinbase-public-company-template/
 - English alternate: https://finwiki.zksc.io/en/business/brian-armstrong-coinbase-public-company-template/
@@ -1476,9 +1476,9 @@ Public pages listed: 1601
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/business/brian-armstrong-coinbase-public-company-template.md
 - Domain: business
 - Type: wiki_entry
-- Summary: This entry sits under business INDEX. Read it with Jamie Dimon anti-crypto pivot case as the bank-side contrast template and Larry Fink BlackRock digital-asset template as the asset-manager-side parallel. Cross-reference exchanges INDEX for the broader exchange-architecture context and CFTC / SEC cr
-- Headings: Brian Armstrong / Coinbase listed-exchange operating template · direct-listing IPO + regulatory-engagement strategy, Wiki route, Key facts (public sources only), Part 1 · Public-company structure from day one of listing, Part 2 · Regulatory engagement as strategy, not defence, Part 3 · Product scope as a regulatory perimeter problem, Part 4 · Listed-exchange financial structure, Listed-exchange operating mechanics
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/business/, https://finwiki.zksc.io/ja/business/hester-peirce-sec-regulatory-pivot-case/, https://finwiki.zksc.io/ja/business/jamie-dimon-anti-crypto-pivot-case/, https://finwiki.zksc.io/ja/business/larry-fink-blackrock-digital-asset-template/, https://finwiki.zksc.io/ja/business/matt-huang-triple-role-coi-template/, https://finwiki.zksc.io/ja/business/paolo-ardoino-tether-business-model-template/, https://finwiki.zksc.io/ja/business/sandeep-nailwal-polygon-india-dpi-pattern/, https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/jp-listed-cex-related-companies-matrix/, https://finwiki.zksc.io/ja/exchanges/us-crypto-licensing-multi-layer-system/, https://finwiki.zksc.io/ja/fintech/cftc-sec-crypto-jurisdiction/
+- Summary: This page records a bounded public-company case: Coinbase Global's 2021 direct listing, the SEC civil action and dismissal, and the regulated-entity perimeter disclosed by Coinbase through 2025. It does not score political influence, infer the merits of dismissed claims, or treat a pending charter a
+- Headings: Brian Armstrong / Coinbase public-company operating case, Scope, Verified timeline, Direct-listing mechanics, Enforcement record and reading discipline, Operating and regulatory perimeter, Revenue model visible through filings, What the case supports
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/business/, https://finwiki.zksc.io/ja/business/cz-binance-founder-handoff-case/, https://finwiki.zksc.io/ja/business/founder-pivot-outcome-template-matrix/, https://finwiki.zksc.io/ja/business/larry-fink-blackrock-digital-asset-template/, https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/us-crypto-licensing-multi-layer-system/, https://finwiki.zksc.io/ja/fintech/cftc-sec-crypto-jurisdiction/
 
 ### 主要人材の機関横断的な流動を産業予測シグナルとして読む · JPM Onyx → Apollo
 - URL: https://finwiki.zksc.io/ja/business/christine-moy-talent-signal-jpm-apollo/
@@ -1493,7 +1493,7 @@ Public pages listed: 1601
 - Headings: 主要人材の機関横断的な流動を産業予測シグナルとして読む · JPM Onyx → Apollo, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/business/, https://finwiki.zksc.io/ja/business/larry-fink-blackrock-digital-asset-template/, https://finwiki.zksc.io/ja/business/matt-huang-triple-role-coi-template/, https://finwiki.zksc.io/ja/domains/fintech/, https://finwiki.zksc.io/ja/fintech/apollo-acred-private-credit-tokenization/
 
-### Changpeng Zhao (CZ) Binance founder-handoff case — DOJ $4.3bn settlement + step-down + Richard Teng CEO appointment + retained ownership
+### Changpeng Zhao / Binance founder-handoff case
 - URL: https://finwiki.zksc.io/ja/business/cz-binance-founder-handoff-case/
 - Japanese HTML: https://finwiki.zksc.io/ja/business/cz-binance-founder-handoff-case/
 - English alternate: https://finwiki.zksc.io/en/business/cz-binance-founder-handoff-case/
@@ -1502,11 +1502,11 @@ Public pages listed: 1601
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/business/cz-binance-founder-handoff-case.md
 - Domain: business
 - Type: wiki_entry
-- Summary: This entry sits under business INDEX as a public people-case study (note: Binance is privately held, but the founder transition is a public-record case). Read it against Brian Armstrong Coinbase exchange-as-public-company template for the contrasting US-listed-incumbent path, Jamie Dimon anti-crypto
-- Headings: Changpeng Zhao (CZ) Binance founder-handoff case — DOJ $4.3bn settlement + step-down + Richard Teng CEO appointment + retained ownership, Wiki route, TL;DR, 1. Pre-Settlement Position, 2. The November 2023 Settlement Architecture, 3. The Founder-Handoff Mechanism, 4. Richard Teng — Regulator-To-CEO Credential, 5. Post-Handoff Trajectory (2024-2025)
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/business/, https://finwiki.zksc.io/ja/business/brian-armstrong-coinbase-public-company-template/, https://finwiki.zksc.io/ja/business/christine-moy-talent-signal-jpm-apollo/, https://finwiki.zksc.io/ja/business/founder-pivot-outcome-template-matrix/, https://finwiki.zksc.io/ja/business/hester-peirce-sec-regulatory-pivot-case/, https://finwiki.zksc.io/ja/business/jamie-dimon-anti-crypto-pivot-case/, https://finwiki.zksc.io/ja/business/paolo-ardoino-tether-business-model-template/, https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/, https://finwiki.zksc.io/ja/exchanges/global-crypto-exchange-bankruptcy-comparison/, https://finwiki.zksc.io/ja/megabanks/sbi-hd/
+- Summary: This page records the public US enforcement and leadership-transition sequence involving Binance and founder Changpeng Zhao (“CZ”). It distinguishes the criminal and Treasury resolutions from the separate SEC civil case, and it does not infer undisclosed ownership, informal control, or private gover
+- Headings: Changpeng Zhao / Binance founder-handoff case, Scope, Verified timeline, Coordinated 2023 resolution, Separate SEC civil case, Leadership handoff: what is documented, Analytical lessons, Reusable review checklist
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/business/, https://finwiki.zksc.io/ja/business/brian-armstrong-coinbase-public-company-template/, https://finwiki.zksc.io/ja/business/founder-pivot-outcome-template-matrix/, https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/exchanges/us-crypto-licensing-multi-layer-system/, https://finwiki.zksc.io/ja/fintech/cftc-sec-crypto-jurisdiction/
 
-### Founder / executive pivot outcome template matrix
+### Founder / executive transition evidence matrix
 - URL: https://finwiki.zksc.io/ja/business/founder-pivot-outcome-template-matrix/
 - Japanese HTML: https://finwiki.zksc.io/ja/business/founder-pivot-outcome-template-matrix/
 - English alternate: https://finwiki.zksc.io/en/business/founder-pivot-outcome-template-matrix/
@@ -1515,9 +1515,9 @@ Public pages listed: 1601
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/business/founder-pivot-outcome-template-matrix.md
 - Domain: business
 - Type: wiki_entry
-- Summary: Across the 2018-2026 crypto-and-traditional-finance interface, a small cohort of founder-CEOs, executives, regulators, and operators have executed visible pivots — material public shifts in stated strategy, role, jurisdiction, or product perimeter. The pivots are not interchangeable. Each has a dist
-- Headings: Founder / executive pivot outcome template matrix, TL;DR, Wiki route, Why this matrix matters, Per-entity sections, Jamie Dimon — anti-crypto CEO to defensive on-chain adoption (JPM Kinexys / JPMD on Base), Christine Moy — JPM Onyx to Apollo (talent flow as pivot signal), Larry Fink — passive-ETF asset manager to tokenisation-and-political-influence triangle
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/business/, https://finwiki.zksc.io/ja/business/brian-armstrong-coinbase-public-company-template/, https://finwiki.zksc.io/ja/business/christine-moy-talent-signal-jpm-apollo/, https://finwiki.zksc.io/ja/business/hester-peirce-sec-regulatory-pivot-case/, https://finwiki.zksc.io/ja/business/jamie-dimon-anti-crypto-pivot-case/, https://finwiki.zksc.io/ja/business/kitao-yoshitaka-sbi-independent-strategy-case/, https://finwiki.zksc.io/ja/business/larry-fink-blackrock-digital-asset-template/, https://finwiki.zksc.io/ja/business/matt-huang-triple-role-coi-template/, https://finwiki.zksc.io/ja/business/paolo-ardoino-tether-business-model-template/, https://finwiki.zksc.io/ja/business/sandeep-nailwal-polygon-india-dpi-pattern/, https://finwiki.zksc.io/ja/domains/exchanges/
+- Summary: This matrix compares four public-record transition types:
+- Headings: Founder / executive transition evidence matrix, Purpose and boundary, Four-case map, Transition taxonomy, Case 1 — Armstrong / Coinbase, Case 2 — CZ / Binance, Case 3 — Fink / BlackRock, Case 4 — Peirce / SEC
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/business/, https://finwiki.zksc.io/ja/business/brian-armstrong-coinbase-public-company-template/, https://finwiki.zksc.io/ja/business/cz-binance-founder-handoff-case/, https://finwiki.zksc.io/ja/business/hester-peirce-sec-regulatory-pivot-case/, https://finwiki.zksc.io/ja/business/larry-fink-blackrock-digital-asset-template/, https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/domains/fintech/, https://finwiki.zksc.io/ja/fintech/cftc-sec-crypto-jurisdiction/
 
 ### GMO Internet Group
 - URL: https://finwiki.zksc.io/ja/business/gmo-internet-group/
@@ -1558,7 +1558,7 @@ Public pages listed: 1601
 - Headings: Jamie Dimon と JPMorgan の暗号資産スタンス・事業変遷 · JPM Coin / Kinexys / JPMD on Base, Wiki route, Key facts, Origin & evolution, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/business/, https://finwiki.zksc.io/ja/business/christine-moy-talent-signal-jpm-apollo/, https://finwiki.zksc.io/ja/business/hester-peirce-sec-regulatory-pivot-case/, https://finwiki.zksc.io/ja/business/kitao-yoshitaka-sbi-independent-strategy-case/, https://finwiki.zksc.io/ja/business/larry-fink-blackrock-digital-asset-template/, https://finwiki.zksc.io/ja/business/matt-huang-triple-role-coi-template/, https://finwiki.zksc.io/ja/domains/fintech/
 
-### Japan listed corporate strategic restructuring matrix
+### Japan listed corporate strategic restructuring matrix — five primary-source cases
 - URL: https://finwiki.zksc.io/ja/business/japan-listed-corp-strategic-restructuring-matrix/
 - Japanese HTML: https://finwiki.zksc.io/ja/business/japan-listed-corp-strategic-restructuring-matrix/
 - English alternate: https://finwiki.zksc.io/en/business/japan-listed-corp-strategic-restructuring-matrix/
@@ -1567,11 +1567,11 @@ Public pages listed: 1601
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/business/japan-listed-corp-strategic-restructuring-matrix.md
 - Domain: business
 - Type: wiki_entry
-- Summary: Between 2018 and 2026 the Japan listed-corp restructuring shelf has been unusually busy. Eight headline cases — Sony Group's SFG partial spinoff, SoftBank Group's Arm IPO, Toshiba's JIP-led going-private, Rakuten Group's mobile-finance cross-subsidy reorganisation, Hitachi Astemo carve-out, Sharp's
-- Headings: Japan listed corporate strategic restructuring matrix, TL;DR, Wiki route, Why this matrix matters, Cases in scope, Master comparison matrix, Vehicle taxonomy reading, Tax regime axis
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/banking/rakuten-bank/, https://finwiki.zksc.io/ja/domains/business/, https://finwiki.zksc.io/ja/business/rakuten-group-mobile-finance-bundling-case/, https://finwiki.zksc.io/ja/business/softbank-vision-fund-arm-ipo-template/, https://finwiki.zksc.io/ja/business/sony-fg-partial-spinoff-case/, https://finwiki.zksc.io/ja/corporate-strategy/japan-kabushiki-bunpai-spinoff-regime/, https://finwiki.zksc.io/ja/corporate-strategy/japan-kaisha-bunkatsu-tax-regime/, https://finwiki.zksc.io/ja/corporate-strategy/kabushiki-koufu-stock-distribution-regime/, https://finwiki.zksc.io/ja/corporate-strategy/spinoff-decision-tree-japan/, https://finwiki.zksc.io/ja/corporate-strategy/toshiba-tob-squeeze-out-2023-2024-case/, https://finwiki.zksc.io/ja/finance/carve-out-divestiture-japan/
+- Summary: This page sits under business INDEX as a comparison surface for completed and announced corporate actions. Read the dedicated pages for Sony Financial Group, Arm, Toshiba, and Rakuten, plus the process pages Japan tender offer process and Japan spin-off decision tree.
+- Headings: Japan listed corporate strategic restructuring matrix — five primary-source cases, Wiki route, TL;DR, 1. Case map, 2. Consideration and control, 3. Vehicle selection boundaries, 4. Status discipline, 5. Case notes
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/business/, https://finwiki.zksc.io/ja/business/rakuten-group-mobile-finance-bundling-case/, https://finwiki.zksc.io/ja/business/softbank-vision-fund-arm-ipo-template/, https://finwiki.zksc.io/ja/business/sony-fg-partial-spinoff-case/, https://finwiki.zksc.io/ja/corporate-strategy/japan-kabushiki-bunpai-spinoff-regime/, https://finwiki.zksc.io/ja/corporate-strategy/spinoff-decision-tree-japan/, https://finwiki.zksc.io/ja/corporate-strategy/toshiba-tob-squeeze-out-2023-2024-case/, https://finwiki.zksc.io/ja/finance/japan-mbo-and-squeeze-out-process/, https://finwiki.zksc.io/ja/finance/japan-tender-offer-process/, https://finwiki.zksc.io/ja/securities/japan-ipo-2024-2025-case-study-kioxia-tokyo-metro/
 
-### Japan Exchange Group (JPX 8697) — listed exchange operator as market infrastructure
+### Japan Exchange Group (JPX 8697) — listed company operating regulated market infrastructure
 - URL: https://finwiki.zksc.io/ja/business/jpx-public-company-as-market-infrastructure/
 - Japanese HTML: https://finwiki.zksc.io/ja/business/jpx-public-company-as-market-infrastructure/
 - English alternate: https://finwiki.zksc.io/en/business/jpx-public-company-as-market-infrastructure/
@@ -1580,11 +1580,11 @@ Public pages listed: 1601
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/business/jpx-public-company-as-market-infrastructure.md
 - Domain: business
 - Type: wiki_entry
-- Summary: This entry sits under business INDEX as a public-company strategic case. Read it against Brian Armstrong Coinbase exchange-as-public-company template for the crypto-native parallel, GMO Internet Group for an internet-infrastructure-to-finance parallel, and securities INDEX / Japan market infrastruct
-- Headings: Japan Exchange Group (JPX 8697) — listed exchange operator as market infrastructure, Wiki route, TL;DR, 1. Group Structure, 2. The 2013 TSE-OSE Merger — Strategic Rationale, 3. Business Mix, 4. Comparison With Global Listed Exchange Operators, 5. The Regulator-Utility-Public-Company Tension
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/business/, https://finwiki.zksc.io/ja/business/brian-armstrong-coinbase-public-company-template/, https://finwiki.zksc.io/ja/business/cz-binance-founder-handoff-case/, https://finwiki.zksc.io/ja/business/gmo-internet-group/, https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/domains/securities/, https://finwiki.zksc.io/ja/securities/japan-ipo-listing-disclosure-route/, https://finwiki.zksc.io/ja/securities/japan-market-infrastructure-map/, https://finwiki.zksc.io/ja/securities/japan-pts-liquidity-data-guide/, https://finwiki.zksc.io/ja/securities/japan-securities-clearing-corp/, https://finwiki.zksc.io/ja/securities/japan-securities-depository-center/
+- Summary: This entry sits under business INDEX as a listed market-infrastructure case. Compare its listed-company structure with the Japan listed-company restructuring matrix, then read it with Japan market infrastructure map, Tokyo Stock Exchange, Osaka Exchange, and Japan Securities Clearing Corporation.
+- Headings: Japan Exchange Group (JPX 8697) — listed company operating regulated market infrastructure, Wiki route, TL;DR, 1. Current group map, 2. Formation and expansion, 3. Business model and revenue categories, 4. Function and accountability map, 5. 2020 cash-equity system failure
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/business/, https://finwiki.zksc.io/ja/business/japan-listed-corp-strategic-restructuring-matrix/, https://finwiki.zksc.io/ja/financial-regulators/japan-exchange-group/, https://finwiki.zksc.io/ja/securities/japan-market-infrastructure-map/, https://finwiki.zksc.io/ja/securities/japan-pts-liquidity-data-guide/, https://finwiki.zksc.io/ja/securities/japan-securities-clearing-corp/, https://finwiki.zksc.io/ja/securities/japan-securities-depository-center/, https://finwiki.zksc.io/ja/securities/osaka-exchange/, https://finwiki.zksc.io/ja/securities/tokyo-stock-exchange/
 
-### KDDI au financial bundling case — au-FH consolidates bank + payments, hands securities to MUFG in 2024 reciprocal swap
+### KDDI / au finance case — au Jibun Bank ownership, MUFG securities transfer, and au Financial Holdings listing preparations
 - URL: https://finwiki.zksc.io/ja/business/kddi-au-financial-bundling-case/
 - Japanese HTML: https://finwiki.zksc.io/ja/business/kddi-au-financial-bundling-case/
 - English alternate: https://finwiki.zksc.io/en/business/kddi-au-financial-bundling-case/
@@ -1593,9 +1593,9 @@ Public pages listed: 1601
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/business/kddi-au-financial-bundling-case.md
 - Domain: business
 - Type: wiki_entry
-- Summary: This entry sits under business INDEX as a public-company strategic case. Read it against NTT Docomo d-Point telco-finance case for the contrasting partner-led model (Docomo leases SMBC's balance sheet rather than owning the bank) and Rakuten Group mobile-finance bundling case for the build-everythin
-- Headings: KDDI au financial bundling case — au-FH consolidates bank + payments, hands securities to MUFG in 2024 reciprocal swap, Wiki route, TL;DR, 1. au-FH Group Architecture, 2. The 2024 Reciprocal MUFG Swap, 3. Telco-Finance Division-of-Labour Pattern, 4. Comparison Matrix — Telco-Finance Models In Japan, 5. Strategic Rationale
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/business/, https://finwiki.zksc.io/ja/business/gmo-internet-group/, https://finwiki.zksc.io/ja/business/ntt-docomo-d-point-telco-finance-case/, https://finwiki.zksc.io/ja/business/rakuten-group-mobile-finance-bundling-case/, https://finwiki.zksc.io/ja/business/softbank-paypay-financial-integration-case/, https://finwiki.zksc.io/ja/corporate-strategy/japan-kabushiki-bunpai-spinoff-regime/, https://finwiki.zksc.io/ja/loyalty/d-point-au-kddi-docomo-telco-point-consolidation/, https://finwiki.zksc.io/ja/megabanks/au-fh/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/megabanks/paypay-fg/, https://finwiki.zksc.io/ja/megabanks/smfg/
+- Summary: This entry sits under business INDEX. Read it with au Financial Holdings, au Jibun Bank, NTT DOCOMO finance integration case, and SoftBank / PayPay financial integration case.
+- Headings: KDDI / au finance case — au Jibun Bank ownership, MUFG securities transfer, and au Financial Holdings listing preparations, Wiki route, TL;DR, 1. Current finance perimeter, 2. Completed KDDI / MUFG transaction, 3. Strategic interpretation and evidence boundary, 4. Listing preparations, 5. Peer comparison
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/business/, https://finwiki.zksc.io/ja/business/ntt-docomo-d-point-telco-finance-case/, https://finwiki.zksc.io/ja/business/rakuten-group-mobile-finance-bundling-case/, https://finwiki.zksc.io/ja/business/softbank-paypay-financial-integration-case/, https://finwiki.zksc.io/ja/megabanks/au-fh/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/payment-firms/au-payment/, https://finwiki.zksc.io/ja/regional-banks/au-jibun-bank/
 
 ### 独立路線事例 · 産業連合への不参加 + クロスボーダー・コンプライアンス価値への賭け(北尾吉孝 / SBI)
 - URL: https://finwiki.zksc.io/ja/business/kitao-yoshitaka-sbi-independent-strategy-case/
@@ -1636,7 +1636,7 @@ Public pages listed: 1601
 - Headings: 三身分COIテンプレート · VC GP + 大口顧客Board + 被投資先CEO 三角構造, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/business/, https://finwiki.zksc.io/ja/business/christine-moy-talent-signal-jpm-apollo/, https://finwiki.zksc.io/ja/business/jamie-dimon-anti-crypto-pivot-case/, https://finwiki.zksc.io/ja/business/larry-fink-blackrock-digital-asset-template/, https://finwiki.zksc.io/ja/domains/fintech/
 
-### Mizuho × Rakuten finance stake-accumulation case — megabank serially buys into a cash-pressed conglomerate's finance subsidiaries (Securities 49% + Card 14.99% + Bank ~10%)
+### Mizuho × Rakuten strategic stakes — Rakuten Securities, Rakuten Card, and the planned Rakuten Bank alliance
 - URL: https://finwiki.zksc.io/ja/business/mizuho-rakuten-finance-stake-accumulation-case/
 - Japanese HTML: https://finwiki.zksc.io/ja/business/mizuho-rakuten-finance-stake-accumulation-case/
 - English alternate: https://finwiki.zksc.io/en/business/mizuho-rakuten-finance-stake-accumulation-case/
@@ -1645,11 +1645,11 @@ Public pages listed: 1601
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/business/mizuho-rakuten-finance-stake-accumulation-case.md
 - Domain: business
 - Type: wiki_entry
-- Summary: This entry sits under business INDEX as a public-company strategic case, read from the megabank side of the Rakuten story. The companion entry Rakuten Group mobile-finance bundling case covers the same transactions from Rakuten's recapitalization angle; read both together. Contrast with Kitao Yoshit
-- Headings: Mizuho × Rakuten finance stake-accumulation case — megabank serially buys into a cash-pressed conglomerate's finance subsidiaries (Securities 49% + Card 14.99% + Bank ~10%), Wiki route, TL;DR, 1. Why A Megabank Buys Minority Stakes Instead Of Whole Companies, 2. The Three Subsidiary Stakes In Detail, Rakuten Securities (to 49%), Rakuten Card (14.99%), Rakuten Bank (~10% voting, reported)
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/banking/rakuten-bank/, https://finwiki.zksc.io/ja/domains/business/, https://finwiki.zksc.io/ja/business/kddi-au-financial-bundling-case/, https://finwiki.zksc.io/ja/business/kitao-yoshitaka-sbi-independent-strategy-case/, https://finwiki.zksc.io/ja/business/ntt-docomo-d-point-telco-finance-case/, https://finwiki.zksc.io/ja/business/rakuten-group-mobile-finance-bundling-case/, https://finwiki.zksc.io/ja/business/sony-fg-partial-spinoff-case/, https://finwiki.zksc.io/ja/card-issuers/rakuten-card/, https://finwiki.zksc.io/ja/finance/japan-cross-shareholding-unwinding-economics/, https://finwiki.zksc.io/ja/loyalty/v-point-smbc-ccc-case/, https://finwiki.zksc.io/ja/domains/megabanks/
+- Summary: This entry sits under business INDEX and reads the Rakuten transactions from the Mizuho side. Read it with Rakuten Group mobile-finance case, Mizuho Financial Group, Rakuten Securities, Rakuten Card, and Rakuten Bank.
+- Headings: Mizuho × Rakuten strategic stakes — Rakuten Securities, Rakuten Card, and the planned Rakuten Bank alliance, Wiki route, TL;DR, 1. Verified sequence, 2. Securities alliance, 3. Card alliance, 4. Planned bank-centered reorganization, 5. What can be inferred
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/banking/rakuten-bank/, https://finwiki.zksc.io/ja/domains/business/, https://finwiki.zksc.io/ja/business/rakuten-group-mobile-finance-bundling-case/, https://finwiki.zksc.io/ja/card-issuers/rakuten-card/, https://finwiki.zksc.io/ja/finance/japan-cross-shareholding-unwinding-economics/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/, https://finwiki.zksc.io/ja/securities-firms/mizuho-securities/, https://finwiki.zksc.io/ja/securities-firms/rakuten-securities/
 
-### NTT Docomo + d-Point + d-Barai + d-Card case — telco-as-finance-distribution-channel model with SMBC tie-up
+### NTT DOCOMO finance integration case — Monex, net banking, d Card / d Payment, and NTT DOCOMO Financial Group
 - URL: https://finwiki.zksc.io/ja/business/ntt-docomo-d-point-telco-finance-case/
 - Japanese HTML: https://finwiki.zksc.io/ja/business/ntt-docomo-d-point-telco-finance-case/
 - English alternate: https://finwiki.zksc.io/en/business/ntt-docomo-d-point-telco-finance-case/
@@ -1658,9 +1658,9 @@ Public pages listed: 1601
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/business/ntt-docomo-d-point-telco-finance-case.md
 - Domain: business
 - Type: wiki_entry
-- Summary: This entry sits under business INDEX as a public-company strategic case. Read it against Rakuten Group mobile-finance bundling case for the inverse-direction cross-subsidy pattern (finance subsidizes mobile vs telco subsidizes finance), GMO Internet Group for an internet-to-finance conglomerate cont
-- Headings: NTT Docomo + d-Point + d-Barai + d-Card case — telco-as-finance-distribution-channel model with SMBC tie-up, Wiki route, TL;DR, 1. Pre-Tie-Up Docomo Finance Stack, 2. The 2024 SMBC Strategic Tie-Up, 3. Telco-To-Finance Distribution Pattern, 4. Comparison Matrix — Telco-Finance Models In Japan, 5. Post-Tie-Up Strategic Implications
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/banking/rakuten-bank/, https://finwiki.zksc.io/ja/domains/business/, https://finwiki.zksc.io/ja/business/gmo-internet-group/, https://finwiki.zksc.io/ja/business/kitao-yoshitaka-sbi-independent-strategy-case/, https://finwiki.zksc.io/ja/business/rakuten-group-mobile-finance-bundling-case/, https://finwiki.zksc.io/ja/business/sony-fg-partial-spinoff-case/, https://finwiki.zksc.io/ja/card-issuers/paypay-card/, https://finwiki.zksc.io/ja/corporate-strategy/japan-kabushiki-bunpai-spinoff-regime/, https://finwiki.zksc.io/ja/fintech/ai-payment-two-tracks/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/megabanks/paypay-fg/
+- Summary: This entry sits under business INDEX as a public-company strategic case. Read it with NTT DOCOMO Financial Group for the entity profile, KDDI / au financial bundling case, SoftBank / PayPay financial integration case, and Rakuten Group mobile-finance bundling case for peer structures.
+- Headings: NTT DOCOMO finance integration case — Monex, net banking, d Card / d Payment, and NTT DOCOMO Financial Group, Wiki route, TL;DR, 1. Verified integration sequence, 2. What moved under the intermediate holding company, 3. Structure: ownership is not the same as product integration, 4. Comparison with other telecom-linked finance structures, 5. What the evidence supports — and does not support
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/business/, https://finwiki.zksc.io/ja/business/kddi-au-financial-bundling-case/, https://finwiki.zksc.io/ja/business/rakuten-group-mobile-finance-bundling-case/, https://finwiki.zksc.io/ja/business/softbank-paypay-financial-integration-case/, https://finwiki.zksc.io/ja/megabanks/ndfg/, https://finwiki.zksc.io/ja/megabanks/paypay-fg/, https://finwiki.zksc.io/ja/payment-firms/rakuten-fg/, https://finwiki.zksc.io/ja/payments/cashless-jp-landscape/
 
 ### 40人体制 + 短期米国債キャリーのビジネスモデル・テンプレート · Tether / Paolo Ardoino
 - URL: https://finwiki.zksc.io/ja/business/paolo-ardoino-tether-business-model-template/
@@ -1675,7 +1675,7 @@ Public pages listed: 1601
 - Headings: 40人体制 + 短期米国債キャリーのビジネスモデル・テンプレート · Tether / Paolo Ardoino, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/business/, https://finwiki.zksc.io/ja/business/larry-fink-blackrock-digital-asset-template/, https://finwiki.zksc.io/ja/business/matt-huang-triple-role-coi-template/, https://finwiki.zksc.io/ja/business/sandeep-nailwal-polygon-india-dpi-pattern/, https://finwiki.zksc.io/ja/domains/fintech/, https://finwiki.zksc.io/ja/fintech/blackrock-buidl-tokenized-mmf-overview/, https://finwiki.zksc.io/ja/fintech/em-market-crypto-dollarization-pattern/
 
-### Rakuten Group mobile-finance bundling case — telco cash burn cross-subsidized by card / bank / securities profits
+### Rakuten ecosystem case — FinTech earnings, mobile improvement, and the planned bank-centered reorganization
 - URL: https://finwiki.zksc.io/ja/business/rakuten-group-mobile-finance-bundling-case/
 - Japanese HTML: https://finwiki.zksc.io/ja/business/rakuten-group-mobile-finance-bundling-case/
 - English alternate: https://finwiki.zksc.io/en/business/rakuten-group-mobile-finance-bundling-case/
@@ -1684,9 +1684,9 @@ Public pages listed: 1601
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/business/rakuten-group-mobile-finance-bundling-case.md
 - Domain: business
 - Type: wiki_entry
-- Summary: This entry sits under business INDEX as a public-company strategic case. Read it against NTT Docomo d-Point telco-finance case for the contrast pattern where telco subsidizes finance instead of the reverse, GMO Internet Group for the internet-to-finance conglomerate parallel, and Kitao Yoshitaka SBI
-- Headings: Rakuten Group mobile-finance bundling case — telco cash burn cross-subsidized by card / bank / securities profits, Wiki route, TL;DR, 1. Group Architecture, 2. Mobile Cash Burn — The Cross-Subsidy Constraint, 3. Finance Profit Engine, 4. 2023-2025 Recapitalization Moves, 5. Comparative Cross-Subsidy Patterns
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/banking/rakuten-bank/, https://finwiki.zksc.io/ja/domains/business/, https://finwiki.zksc.io/ja/business/gmo-internet-group/, https://finwiki.zksc.io/ja/business/kitao-yoshitaka-sbi-independent-strategy-case/, https://finwiki.zksc.io/ja/business/ntt-docomo-d-point-telco-finance-case/, https://finwiki.zksc.io/ja/business/softbank-vision-fund-arm-ipo-template/, https://finwiki.zksc.io/ja/business/sony-fg-partial-spinoff-case/, https://finwiki.zksc.io/ja/card-issuers/rakuten-card/, https://finwiki.zksc.io/ja/corporate-strategy/japan-kabushiki-bunpai-spinoff-regime/, https://finwiki.zksc.io/ja/corporate-strategy/spinoff-decision-tree-japan/, https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/
+- Summary: This entry sits under business INDEX. Read it with Rakuten FinTech, Mizuho × Rakuten strategic stakes, Rakuten Bank, and NTT DOCOMO finance integration case.
+- Headings: Rakuten ecosystem case — FinTech earnings, mobile improvement, and the planned bank-centered reorganization, Wiki route, TL;DR, 1. FY2025 evidence snapshot, 2. FinTech operating stack, 3. Mobile economics without overclaiming, 4. Capital and organization timeline, 5. Planned bank-centered structure
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/banking/rakuten-bank/, https://finwiki.zksc.io/ja/domains/business/, https://finwiki.zksc.io/ja/business/kddi-au-financial-bundling-case/, https://finwiki.zksc.io/ja/business/mizuho-rakuten-finance-stake-accumulation-case/, https://finwiki.zksc.io/ja/business/ntt-docomo-d-point-telco-finance-case/, https://finwiki.zksc.io/ja/card-issuers/rakuten-card/, https://finwiki.zksc.io/ja/payment-firms/rakuten-fg/, https://finwiki.zksc.io/ja/securities-firms/rakuten-securities/
 
 ### 国家連合勝者パターン · 反ドルDPI連合と新興市場リンクの供給
 - URL: https://finwiki.zksc.io/ja/business/sandeep-nailwal-polygon-india-dpi-pattern/
@@ -1701,7 +1701,7 @@ Public pages listed: 1601
 - Headings: 国家連合勝者パターン · 反ドルDPI連合と新興市場リンクの供給, Wiki route, Key facts, Mechanism / How it works, Origin & evolution, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/business/, https://finwiki.zksc.io/ja/business/larry-fink-blackrock-digital-asset-template/, https://finwiki.zksc.io/ja/business/matt-huang-triple-role-coi-template/, https://finwiki.zksc.io/ja/business/paolo-ardoino-tether-business-model-template/, https://finwiki.zksc.io/ja/domains/fintech/, https://finwiki.zksc.io/ja/fintech/genius-act-501-denylist-mandate/, https://finwiki.zksc.io/ja/fintech/india-anti-dollar-dpi-alliance/
 
-### Seven Bank ATM-platform + deconsolidation case — retailer-owned bank funded by interbank ATM fees, cut below 40% in Seven & i's 2025 portfolio reshape
+### Seven Bank case — ATM platform economics and the 2025 Seven & i deconsolidation
 - URL: https://finwiki.zksc.io/ja/business/seven-bank-atm-platform-deconsolidation-case/
 - Japanese HTML: https://finwiki.zksc.io/ja/business/seven-bank-atm-platform-deconsolidation-case/
 - English alternate: https://finwiki.zksc.io/en/business/seven-bank-atm-platform-deconsolidation-case/
@@ -1710,11 +1710,11 @@ Public pages listed: 1601
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/business/seven-bank-atm-platform-deconsolidation-case.md
 - Domain: business
 - Type: wiki_entry
-- Summary: This entry sits under business INDEX as a public-company strategic case combining an unusual business model (an ATM-fee bank) with a 2025 deconsolidation event. Read the business-model half against Toyota Financial Services captive-finance case — both are non-deposit-led finance models, but a captiv
-- Headings: Seven Bank ATM-platform + deconsolidation case — retailer-owned bank funded by interbank ATM fees, cut below 40% in Seven & i's 2025 portfolio reshape, Wiki route, TL;DR, 1. The ATM-Platform Business Model, 2. Why A Retailer Built An ATM Bank, 3. The 2025 Deconsolidation Event, 4. Two Ways To Separate A Finance Arm (Contrast), 5. Comparison — Retail-Embedded Finance Models In Japan
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/banking/rakuten-bank/, https://finwiki.zksc.io/ja/domains/business/, https://finwiki.zksc.io/ja/business/aeon-financial-service-retail-bank-case/, https://finwiki.zksc.io/ja/business/rakuten-group-mobile-finance-bundling-case/, https://finwiki.zksc.io/ja/business/sony-fg-partial-spinoff-case/, https://finwiki.zksc.io/ja/business/toyota-financial-services-captive-finance-case/, https://finwiki.zksc.io/ja/card-issuers/seven-card-service/, https://finwiki.zksc.io/ja/corporate-strategy/japan-kabushiki-bunpai-spinoff-regime/, https://finwiki.zksc.io/ja/payment-firms/seven-payment-service/, https://finwiki.zksc.io/ja/payments/cashless-jp-landscape/, https://finwiki.zksc.io/ja/payments/nanaco-prepaid-seven-i/
+- Summary: This entry sits under business INDEX. Read it with Seven Bank, Seven & i finance deep dive, AEON Financial Service case, and store traffic as financial distribution.
+- Headings: Seven Bank case — ATM platform economics and the 2025 Seven & i deconsolidation, Wiki route, TL;DR, 1. ATM platform model, 2. 2025 deconsolidation mechanics, 3. Transaction-date and current ownership snapshots, 4. Strategic interpretation, 5. Comparison of separation routes
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/banking/rakuten-bank/, https://finwiki.zksc.io/ja/domains/business/, https://finwiki.zksc.io/ja/business/aeon-financial-service-retail-bank-case/, https://finwiki.zksc.io/ja/business/sony-fg-partial-spinoff-case/, https://finwiki.zksc.io/ja/regional-banks/seven-bank/, https://finwiki.zksc.io/ja/retail/seven-and-i-hd/, https://finwiki.zksc.io/ja/retail/seven-i-holdings-finance-deep-dive/, https://finwiki.zksc.io/ja/retail/store-traffic-as-financial-distribution/
 
-### SoftBank / PayPay financial integration case — super-app folds card / bank / securities under PayPay, then files for a US listing
+### SoftBank / PayPay financial integration case — finance subsidiaries, Nasdaq listing, and LINE account linkage
 - URL: https://finwiki.zksc.io/ja/business/softbank-paypay-financial-integration-case/
 - Japanese HTML: https://finwiki.zksc.io/ja/business/softbank-paypay-financial-integration-case/
 - English alternate: https://finwiki.zksc.io/en/business/softbank-paypay-financial-integration-case/
@@ -1723,11 +1723,11 @@ Public pages listed: 1601
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/business/softbank-paypay-financial-integration-case.md
 - Domain: business
 - Type: wiki_entry
-- Summary: This entry sits under business INDEX as a public-company strategic case. Read it against KDDI au financial bundling case for the contrasting "own the bank, hand securities to the megabank" division of labour, NTT Docomo d-Point telco-finance case for the partner-led-bank model, and Rakuten Group mob
-- Headings: SoftBank / PayPay financial integration case — super-app folds card / bank / securities under PayPay, then files for a US listing, Wiki route, TL;DR, 1. PayPay Finance Stack, 2. The Consolidation Timeline, 3. Super-App Consolidation Pattern, 4. Comparison Matrix — Telco / Super-App Finance Models In Japan, 5. Strategic Rationale
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/business/, https://finwiki.zksc.io/ja/business/gmo-internet-group/, https://finwiki.zksc.io/ja/business/kddi-au-financial-bundling-case/, https://finwiki.zksc.io/ja/business/ntt-docomo-d-point-telco-finance-case/, https://finwiki.zksc.io/ja/business/rakuten-group-mobile-finance-bundling-case/, https://finwiki.zksc.io/ja/card-issuers/paypay-card/, https://finwiki.zksc.io/ja/fintech/ai-payment-two-tracks/, https://finwiki.zksc.io/ja/loyalty/sb-yahoo-paypay-points-unified-ecosystem/, https://finwiki.zksc.io/ja/megabanks/paypay-fg/, https://finwiki.zksc.io/ja/megabanks/smfg/, https://finwiki.zksc.io/ja/payment-firms/rakuten-fg/
+- Summary: This entry sits under business INDEX as a public-company strategic case. Read it with PayPay finance ecosystem for the current entity and KPI profile, KDDI / au financial bundling case, NTT DOCOMO finance integration case, and Rakuten Group mobile-finance bundling case.
+- Headings: SoftBank / PayPay financial integration case — finance subsidiaries, Nasdaq listing, and LINE account linkage, Wiki route, TL;DR, 1. Finance perimeter, 2. Verified timeline, 3. What the IPO established, 4. Distribution architecture, 5. Comparison with peer structures
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/business/, https://finwiki.zksc.io/ja/business/kddi-au-financial-bundling-case/, https://finwiki.zksc.io/ja/business/ntt-docomo-d-point-telco-finance-case/, https://finwiki.zksc.io/ja/business/rakuten-group-mobile-finance-bundling-case/, https://finwiki.zksc.io/ja/card-issuers/paypay-card/, https://finwiki.zksc.io/ja/loyalty/sb-yahoo-paypay-points-unified-ecosystem/, https://finwiki.zksc.io/ja/megabanks/paypay-fg/, https://finwiki.zksc.io/ja/payments/cashless-jp-landscape/, https://finwiki.zksc.io/ja/securities-firms/paypay-securities/
 
-### SoftBank Vision Fund + Arm IPO template — fund-structured stake monetization via portfolio listing
+### SoftBank / Arm 2023 IPO case — all-secondary sell-down with parent control retained
 - URL: https://finwiki.zksc.io/ja/business/softbank-vision-fund-arm-ipo-template/
 - Japanese HTML: https://finwiki.zksc.io/ja/business/softbank-vision-fund-arm-ipo-template/
 - English alternate: https://finwiki.zksc.io/en/business/softbank-vision-fund-arm-ipo-template/
@@ -1736,11 +1736,11 @@ Public pages listed: 1601
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/business/softbank-vision-fund-arm-ipo-template.md
 - Domain: business
 - Type: wiki_entry
-- Summary: This entry sits under business INDEX as a public-company strategic case in the people-and-portfolio cluster. Read it against Brian Armstrong Coinbase exchange-as-public-company template for peer / contrast context on portfolio company going public, Kitao Yoshitaka SBI independent strategy for the co
-- Headings: SoftBank Vision Fund + Arm IPO template — fund-structured stake monetization via portfolio listing, Wiki route, TL;DR, 1. Vision Fund Structure & Arm's Path Through It, 2. Transaction Architecture (September 2023), 3. Why The IPO Mattered More As Marker Than Cash Raise, 4. Post-IPO SBG Strategy, 5. Comparison: Arm IPO vs Other Vision Fund Exits
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/business/, https://finwiki.zksc.io/ja/business/brian-armstrong-coinbase-public-company-template/, https://finwiki.zksc.io/ja/business/founder-pivot-outcome-template-matrix/, https://finwiki.zksc.io/ja/business/gmo-internet-group/, https://finwiki.zksc.io/ja/business/kitao-yoshitaka-sbi-independent-strategy-case/, https://finwiki.zksc.io/ja/business/sony-fg-partial-spinoff-case/, https://finwiki.zksc.io/ja/domains/corporate-strategy/, https://finwiki.zksc.io/ja/corporate-strategy/japan-kabushiki-bunpai-spinoff-regime/, https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/finance/japan-leveraged-buyout-economics/, https://finwiki.zksc.io/ja/finance/japan-listed-financial-groups-investable-universe/
+- Summary: This entry sits under business INDEX as a completed cross-border subsidiary-IPO case. Read it with Japan listed corporate strategic restructuring matrix, Sony Financial Group partial spin-off case, and Japan listed financial-groups universe.
+- Headings: SoftBank / Arm 2023 IPO case — all-secondary sell-down with parent control retained, Wiki route, TL;DR, 1. Ownership path and transaction boundary, 2. Completed IPO facts, 3. Cash, accounting and control, 4. Comparison with the Sony Financial Group separation, 5. What the case teaches
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/business/, https://finwiki.zksc.io/ja/business/japan-listed-corp-strategic-restructuring-matrix/, https://finwiki.zksc.io/ja/business/sony-fg-partial-spinoff-case/, https://finwiki.zksc.io/ja/corporate-strategy/spinoff-decision-tree-japan/, https://finwiki.zksc.io/ja/finance/japan-listed-financial-groups-investable-universe/
 
-### Sony Financial Group partial spinoff case — 株式分配方式 + 親会社 20% 未満残存 + 課税繰延
+### Sony Financial Group partial spin-off case — completed listing, share distribution, and 16.40% retained stake
 - URL: https://finwiki.zksc.io/ja/business/sony-fg-partial-spinoff-case/
 - Japanese HTML: https://finwiki.zksc.io/ja/business/sony-fg-partial-spinoff-case/
 - English alternate: https://finwiki.zksc.io/en/business/sony-fg-partial-spinoff-case/
@@ -1749,11 +1749,11 @@ Public pages listed: 1601
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/business/sony-fg-partial-spinoff-case.md
 - Domain: business
 - Type: wiki_entry
-- Summary: This entry sits under business INDEX as a public-company strategic case. Read it against SoftBank/Arm IPO template and JPX listed exchange case as peer Japan large-cap public-company restructurings, partial spinoff tax deferral for the tax-regime mechanics, Sony FG for the entity profile, and 会社分割 t
-- Headings: Sony Financial Group partial spinoff case — 株式分配方式 + 親会社 20% 未満残存 + 課税繰延, Wiki route, TL;DR, 1. Transaction Architecture, 2. Why Sony Chose Partial Spinoff Over Alternatives, 3. Timeline, 4. Strategic Rationale, 5. Tax & Regulatory Compliance
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/business/, https://finwiki.zksc.io/ja/business/jpx-public-company-as-market-infrastructure/, https://finwiki.zksc.io/ja/business/softbank-vision-fund-arm-ipo-template/, https://finwiki.zksc.io/ja/corporate-strategy/toshiba-tob-squeeze-out-2023-2024-case/, https://finwiki.zksc.io/ja/domains/corporate-strategy/, https://finwiki.zksc.io/ja/corporate-strategy/japan-kabushiki-bunpai-spinoff-regime/, https://finwiki.zksc.io/ja/corporate-strategy/japan-kaisha-bunkatsu-tax-regime/, https://finwiki.zksc.io/ja/corporate-strategy/kabushiki-koufu-stock-distribution-regime/, https://finwiki.zksc.io/ja/corporate-strategy/spinoff-decision-tree-japan/, https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/finance/japan-listed-financial-groups-investable-universe/
+- Summary: This entry sits under business INDEX as a completed public-company restructuring case. Compare it with the Japan listed-company restructuring matrix, then read it with Japan share-distribution and partial-spin-off regime, Japan spin-off decision tree, and Sony Financial Group for the current entity
+- Headings: Sony Financial Group partial spin-off case — completed listing, share distribution, and 16.40% retained stake, Wiki route, TL;DR, 1. Completed transaction architecture, 2. Timeline, 3. Why this structure mattered, 4. Tax and legal boundary, 5. Investor reading
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/business/, https://finwiki.zksc.io/ja/business/japan-listed-corp-strategic-restructuring-matrix/, https://finwiki.zksc.io/ja/corporate-strategy/japan-kabushiki-bunpai-spinoff-regime/, https://finwiki.zksc.io/ja/corporate-strategy/japan-kaisha-bunkatsu-tax-regime/, https://finwiki.zksc.io/ja/corporate-strategy/spinoff-decision-tree-japan/, https://finwiki.zksc.io/ja/life-insurers/sony-life/, https://finwiki.zksc.io/ja/megabanks/sony-fg/, https://finwiki.zksc.io/ja/non-life-insurers/sony-insurance/, https://finwiki.zksc.io/ja/regional-banks/sony-bank/
 
-### Toyota Financial Services captive-finance case — automaker-owned bank for the dealer channel, funded by auto-loan ABS
+### Toyota Financial Services captive-finance case — vehicle sales support with diversified market funding
 - URL: https://finwiki.zksc.io/ja/business/toyota-financial-services-captive-finance-case/
 - Japanese HTML: https://finwiki.zksc.io/ja/business/toyota-financial-services-captive-finance-case/
 - English alternate: https://finwiki.zksc.io/en/business/toyota-financial-services-captive-finance-case/
@@ -1762,9 +1762,9 @@ Public pages listed: 1601
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/business/toyota-financial-services-captive-finance-case.md
 - Domain: business
 - Type: wiki_entry
-- Summary: This entry sits under business INDEX as a public-company strategic case (captive-finance subsidiary of a listed automaker). Read it against the dedicated Toyota Financial Services entity profile and its peers Honda Finance and Panasonic captive finance for the broader captive-finance pattern, and ag
-- Headings: Toyota Financial Services captive-finance case — automaker-owned bank for the dealer channel, funded by auto-loan ABS, Wiki route, TL;DR, 1. What A Captive Finance Company Does, 2. Why Automakers Run Their Own Bank, 3. How TFS Funds Itself — ABS, Not Deposits, 4. Scale And Market Position, 5. Comparison — Captive Finance vs Telco / Super-App Finance
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/business/, https://finwiki.zksc.io/ja/business/kddi-au-financial-bundling-case/, https://finwiki.zksc.io/ja/business/ntt-docomo-d-point-telco-finance-case/, https://finwiki.zksc.io/ja/business/softbank-paypay-financial-integration-case/, https://finwiki.zksc.io/ja/business/sony-fg-partial-spinoff-case/, https://finwiki.zksc.io/ja/card-issuers/toyota-finance/, https://finwiki.zksc.io/ja/domains/manufacturer-finance/, https://finwiki.zksc.io/ja/manufacturer-finance/honda-finance/, https://finwiki.zksc.io/ja/manufacturer-finance/panasonic-captive-finance/, https://finwiki.zksc.io/ja/manufacturer-finance/sony-group-finance-arm/, https://finwiki.zksc.io/ja/manufacturer-finance/toyota-financial-services/
+- Summary: This entry sits under business INDEX as an automaker captive-finance case. Read it with Toyota Financial Services entity profile, vendor-finance mechanism, and Toyota / Honda auto-loan ABS.
+- Headings: Toyota Financial Services captive-finance case — vehicle sales support with diversified market funding, Wiki route, TL;DR, 1. Entity and scope map, 2. What the captive does, 3. Global and US disclosure snapshot, 4. Funding stack, 5. Risk map
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/business/, https://finwiki.zksc.io/ja/business/sony-fg-partial-spinoff-case/, https://finwiki.zksc.io/ja/card-issuers/toyota-finance/, https://finwiki.zksc.io/ja/manufacturer-finance/honda-finance/, https://finwiki.zksc.io/ja/manufacturer-finance/toyota-financial-services/, https://finwiki.zksc.io/ja/manufacturer-finance/vendor-finance-mechanism/, https://finwiki.zksc.io/ja/structured-finance/auto-loan-abs-japan-toyota-honda/
 
 ### card-issuers — Japanese credit-card / charge-card issuer index
 - URL: https://finwiki.zksc.io/ja/domains/card-issuers/
@@ -2902,8 +2902,8 @@ Public pages listed: 1601
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/corporate-strategy/toshiba-tob-squeeze-out-2023-2024-case.md
 - Domain: corporate-strategy
 - Type: wiki_entry
-- Summary: This entry sits under corporate-strategy INDEX and routes into finance INDEX for the transaction-finance overlay. Read with Japan MBO / squeeze-out process for the procedural mechanics, Japan tender offer process for the TOB framework, spinoff decision tree Japan for the alternative-path context, an
-- Headings: Toshiba TOB by JIP consortium 2023-2024 case — Japan large-cap going-private squeeze-out template, Wiki route, TL;DR, 1. Pre-Crisis Context (2015-2022), 2. The 2023 TOB Architecture, 3. Why TOB Take-Private Was Chosen Over Alternatives, 4. Squeeze-Out Mechanics, 5. Post-Private Restructuring Runway
+- Summary: This entry sits under corporate-strategy INDEX and routes into finance INDEX for the transaction-finance overlay. Read with Japan MBO / squeeze-out process for the procedural mechanics, Japan tender offer process for the TOB framework, spinoff decision tree Japan for alternative-path context, and Ja
+- Headings: Toshiba TOB by JIP consortium 2023-2024 case — Japan large-cap going-private squeeze-out template, Wiki route, TL;DR, 1. Publicly Documented Route to the 2023 Transaction, 2. The 2023 TOB Architecture, 3. What the Public Process Establishes, 4. Squeeze-Out Mechanics, 5. Post-Private Public Record
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/business/rakuten-group-mobile-finance-bundling-case/, https://finwiki.zksc.io/ja/business/softbank-vision-fund-arm-ipo-template/, https://finwiki.zksc.io/ja/business/sony-fg-partial-spinoff-case/, https://finwiki.zksc.io/ja/domains/corporate-strategy/, https://finwiki.zksc.io/ja/corporate-strategy/japan-kabushiki-bunpai-spinoff-regime/, https://finwiki.zksc.io/ja/corporate-strategy/japan-kaisha-bunkatsu-tax-regime/, https://finwiki.zksc.io/ja/corporate-strategy/kabushiki-koufu-stock-distribution-regime/, https://finwiki.zksc.io/ja/corporate-strategy/spinoff-decision-tree-japan/, https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/finance/japan-acquisition-finance/, https://finwiki.zksc.io/ja/finance/japan-activist-investor-playbook/
 
 ### Cross-Domain Anchor Convention · FinWiki 跨领域实体页面归属约定
@@ -17178,6 +17178,15 @@ Public pages listed: 1601
 - Type: release_note
 - Headings: 銀行・協同組織金融の表出典146件を校正, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
 
+### 企業戦略・小売金融の表出典114件を校正
+- URL: https://finwiki.zksc.io/releases/v2026.07.29-13.md
+- Raw Markdown: https://finwiki.zksc.io/releases/v2026.07.29-13.md
+- Source path: releases/v2026.07.29-13.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.29-13.md
+- Domain: releases
+- Type: release_note
+- Headings: 企業戦略・小売金融の表出典114件を校正, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
+
 ### 事実鮮度イベント推論の精度改善
 - URL: https://finwiki.zksc.io/releases/v2026.07.29-2.md
 - Raw Markdown: https://finwiki.zksc.io/releases/v2026.07.29-2.md
@@ -17272,7 +17281,7 @@ Public pages listed: 1601
 - Headings: retail domain, TL;DR, Active Entries, Group overviews, Cross-case comparison, Deep dives, Concept / mechanism pages, Retail Finance Pattern
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/JapanFG/INDEX.md, https://finwiki.zksc.io/ja/card-issuers/aeon-bank/, https://finwiki.zksc.io/ja/domains/financial-licenses/, https://finwiki.zksc.io/ja/domains/loyalty/, https://finwiki.zksc.io/ja/loyalty/japan-points-landscape/, https://finwiki.zksc.io/ja/domains/payments/, https://finwiki.zksc.io/ja/payments/cashless-jp-landscape/, https://finwiki.zksc.io/ja/regional-banks/seven-bank/, https://finwiki.zksc.io/ja/retail/aeon-group/, https://finwiki.zksc.io/ja/retail/familymart-itochu-financial-integration/, https://finwiki.zksc.io/ja/retail/japan-retail-economic-sphere-comparison/
 
-### AEON Group
+### AEON Group retail-finance operating map
 - URL: https://finwiki.zksc.io/ja/retail/aeon-group/
 - Japanese HTML: https://finwiki.zksc.io/ja/retail/aeon-group/
 - English alternate: https://finwiki.zksc.io/en/retail/aeon-group/
@@ -17281,11 +17290,11 @@ Public pages listed: 1601
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/retail/aeon-group.md
 - Domain: retail
 - Type: wiki_entry
-- Summary: AEON is a retail group whose financial-services value comes from daily-life distribution: supermarkets, malls, credit cards, WAON electronic money, AEON Pay, insurance counters, and Aeon Bank / AEON Financial Service. For FinWiki, AEON is the strongest example of a Japanese retail-to-finance operati
-- Headings: AEON Group, TL;DR, Structure, Business Model, Financial-Services Stack, Competitive Position, Strategic Reading, Related
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/card-issuers/aeon-bank/, https://finwiki.zksc.io/ja/card-issuers/jcb/, https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/domains/financial-licenses/, https://finwiki.zksc.io/ja/domains/insurance/, https://finwiki.zksc.io/ja/loyalty/japan-points-landscape/, https://finwiki.zksc.io/ja/megabanks/paypay-fg/, https://finwiki.zksc.io/ja/payment-firms/rakuten-fg/, https://finwiki.zksc.io/ja/payments/cashless-jp-landscape/, https://finwiki.zksc.io/ja/domains/retail/, https://finwiki.zksc.io/ja/retail/seven-and-i-hd/
+- Summary: AEON is a retail group with an integrated financial-services business spanning cards, banking, insurance distribution, mobile payment, and electronic money. This page maps the documented entities and product layers. It does not assume that every AEON-branded service is operated by the same legal ent
+- Headings: AEON Group retail-finance operating map, Scope, Documented group structure, Retail-to-finance distribution, Permission map, What the AEON case supports, Comparison checklist, Related
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/card-issuers/aeon-bank/, https://finwiki.zksc.io/ja/domains/insurance/, https://finwiki.zksc.io/ja/loyalty/japan-points-landscape/, https://finwiki.zksc.io/ja/payments/cashless-jp-landscape/, https://finwiki.zksc.io/ja/domains/retail/, https://finwiki.zksc.io/ja/retail/japan-retail-financial-distribution-wedge-matrix/, https://finwiki.zksc.io/ja/retail/lawson-kddi-retail-finance/, https://finwiki.zksc.io/ja/retail/seven-and-i-hd/
 
-### FamilyMart + Itochu financial integration — post-2020 take-private, FamiPay, Itochu Money, Yamada Cycle
+### FamilyMart + ITOCHU financial integration
 - URL: https://finwiki.zksc.io/ja/retail/familymart-itochu-financial-integration/
 - Japanese HTML: https://finwiki.zksc.io/ja/retail/familymart-itochu-financial-integration/
 - English alternate: https://finwiki.zksc.io/en/retail/familymart-itochu-financial-integration/
@@ -17294,9 +17303,9 @@ Public pages listed: 1601
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/retail/familymart-itochu-financial-integration.md
 - Domain: retail
 - Type: wiki_entry
-- Summary: This entry sits under retail index as the third major CVS-finance restructuring deep dive, completing the trichotomy with Seven & i Holdings finance deep dive and Lawson + Mitsubishi 2024 deep tie-up. The FamilyMart case is the 2020 precedent for the trading-house-anchored take-private pattern that
-- Headings: FamilyMart + Itochu financial integration — post-2020 take-private, FamiPay, Itochu Money, Yamada Cycle, Wiki route, TL;DR, Take-private mechanics (November 2020), FamiPay — the proprietary wallet stack, FamiPay Card — the credit-card co-brand, Itochu Money — the broader consumer-finance initiative, Yamada Cycle — the home-electronics retail-finance cross-leverage
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/card-issuers/aeon-bank/, https://finwiki.zksc.io/ja/financial-conglomerates/itochu-corp/, https://finwiki.zksc.io/ja/financial-conglomerates/mitsubishi-corp/, https://finwiki.zksc.io/ja/loyalty/au-pay-loyalty-ecosystem-deep/, https://finwiki.zksc.io/ja/loyalty/d-point-detailed-ecosystem/, https://finwiki.zksc.io/ja/loyalty/japan-points-landscape/, https://finwiki.zksc.io/ja/loyalty/jre-point-and-jre-bank-ecosystem/, https://finwiki.zksc.io/ja/loyalty/point-liability-accounting-boundary/, https://finwiki.zksc.io/ja/loyalty/ponta-points-deep-dive/, https://finwiki.zksc.io/ja/loyalty/v-point-smbc-ccc-case/, https://finwiki.zksc.io/ja/megabanks/au-fh/
+- Summary: This page records FamilyMart's 2020 privatization, the documented 2021 capital tie-up, and the current payment, card, point, and ATM layers. It removes unsupported “ITOCHU Money,” “Yamada Cycle,” and cross-company data-flow claims.
+- Headings: FamilyMart + ITOCHU financial integration, Scope, Ownership and transaction chronology, Current retail-finance surface, FamiPay and Famima Digital One, Famima Card, Financial-services strategy: launched versus planned, Comparison boundary
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/financial-conglomerates/itochu-corp/, https://finwiki.zksc.io/ja/loyalty/japan-points-landscape/, https://finwiki.zksc.io/ja/payments/funds-transfer-vs-prepaid-boundary/, https://finwiki.zksc.io/ja/domains/retail/, https://finwiki.zksc.io/ja/retail/aeon-group/, https://finwiki.zksc.io/ja/retail/japan-retail-financial-distribution-wedge-matrix/, https://finwiki.zksc.io/ja/retail/lawson-kddi-retail-finance/, https://finwiki.zksc.io/ja/retail/lawson-mitsubishi-corporation-tie-up-2024-deep/, https://finwiki.zksc.io/ja/retail/seven-and-i-hd/, https://finwiki.zksc.io/ja/retail/seven-i-holdings-finance-deep-dive/
 
 ### Japan Retail Economic-Sphere Comparison
 - URL: https://finwiki.zksc.io/ja/retail/japan-retail-economic-sphere-comparison/
@@ -17311,7 +17320,7 @@ Public pages listed: 1601
 - Headings: Japan Retail Economic-Sphere Comparison, Wiki route, The anchor question: what holds the sphere together?, How the spheres recruit and bind, Open vs closed: the central trade-off, Why this matters for finance, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/card-issuers/paypay-card/, https://finwiki.zksc.io/ja/card-issuers/rakuten-card/, https://finwiki.zksc.io/ja/domains/financial-licenses/, https://finwiki.zksc.io/ja/loyalty/d-point-detailed-ecosystem/, https://finwiki.zksc.io/ja/loyalty/japan-points-landscape/, https://finwiki.zksc.io/ja/loyalty/ponta-points-deep-dive/, https://finwiki.zksc.io/ja/megabanks/au-fh/, https://finwiki.zksc.io/ja/megabanks/paypay-fg/, https://finwiki.zksc.io/ja/non-life-insurers/ntt-docomo-sonpo/, https://finwiki.zksc.io/ja/payment-firms/rakuten-fg/, https://finwiki.zksc.io/ja/payments/cashless-jp-landscape/
 
-### Japan retail financial-distribution wedge matrix
+### Japan retail financial-distribution matrix
 - URL: https://finwiki.zksc.io/ja/retail/japan-retail-financial-distribution-wedge-matrix/
 - Japanese HTML: https://finwiki.zksc.io/ja/retail/japan-retail-financial-distribution-wedge-matrix/
 - English alternate: https://finwiki.zksc.io/en/retail/japan-retail-financial-distribution-wedge-matrix/
@@ -17320,9 +17329,9 @@ Public pages listed: 1601
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/retail/japan-retail-financial-distribution-wedge-matrix.md
 - Domain: retail
 - Type: wiki_entry
-- Summary: Japan's three largest retail-anchored finance stacks — AEON (mall-anchored), Seven & i (convenience-store + ATM-anchored), and Lawson + KDDI (convenience-store + telco hybrid after the 2024 KDDI / Mitsubishi joint take-private) — look superficially similar from the consumer side (a store, a card, a
-- Headings: Japan retail financial-distribution wedge matrix, TL;DR, Wiki route, Why this matrix matters, Per-entity sections, AEON Group — mall-anchored full-stack retail finance, Seven & i Holdings — convenience-store-anchored ATM platform, Lawson + KDDI — convenience-store + telco hybrid (post-2024)
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/banking/japan-baas-operating-models/, https://finwiki.zksc.io/ja/banking/japan-net-bank-competition-map/, https://finwiki.zksc.io/ja/banking/quick-deposit-four-methods/, https://finwiki.zksc.io/ja/card-issuers/aeon-bank/, https://finwiki.zksc.io/ja/card-issuers/aeon-financial-service/, https://finwiki.zksc.io/ja/card-issuers/seven-card-service/, https://finwiki.zksc.io/ja/domains/loyalty/, https://finwiki.zksc.io/ja/loyalty/d-point-au-kddi-docomo-telco-point-consolidation/, https://finwiki.zksc.io/ja/loyalty/japan-points-landscape/, https://finwiki.zksc.io/ja/loyalty/point-liability-accounting-boundary/, https://finwiki.zksc.io/ja/loyalty/v-point-smbc-ccc-case/
+- Summary: This page compares four Japanese retail-linked finance configurations using current public evidence:
+- Headings: Japan retail financial-distribution matrix, Purpose, Current ownership and control, Physical distribution and banking layer, Payment, card, and loyalty layers, Entity × product × channel matrix, Own, partner, or accept, Evidence-backed differences
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/card-issuers/aeon-bank/, https://finwiki.zksc.io/ja/loyalty/japan-points-landscape/, https://finwiki.zksc.io/ja/payments/cashless-jp-landscape/, https://finwiki.zksc.io/ja/regional-banks/lawson-bank/, https://finwiki.zksc.io/ja/regional-banks/seven-bank/, https://finwiki.zksc.io/ja/domains/retail/, https://finwiki.zksc.io/ja/retail/aeon-group/, https://finwiki.zksc.io/ja/retail/familymart-itochu-financial-integration/, https://finwiki.zksc.io/ja/retail/lawson-kddi-retail-finance/, https://finwiki.zksc.io/ja/retail/lawson-mitsubishi-corporation-tie-up-2024-deep/, https://finwiki.zksc.io/ja/retail/seven-and-i-hd/
 
 ### Japan Retail Media and Finance Data Loop
 - URL: https://finwiki.zksc.io/ja/retail/japan-retail-media-finance-loop/
@@ -17337,7 +17346,7 @@ Public pages listed: 1601
 - Headings: Japan Retail Media and Finance Data Loop, Wiki route, What "retail media" means here, The loop, Why finance is inside the loop, not beside it, Governance and boundary notes, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/financial-licenses/, https://finwiki.zksc.io/ja/loyalty/japan-points-landscape/, https://finwiki.zksc.io/ja/loyalty/point-liability-accounting-boundary/, https://finwiki.zksc.io/ja/megabanks/paypay-fg/, https://finwiki.zksc.io/ja/payment-firms/rakuten-fg/, https://finwiki.zksc.io/ja/payments/cashless-jp-landscape/, https://finwiki.zksc.io/ja/payments/credit-purchase-card-operators-japan-index/, https://finwiki.zksc.io/ja/payments/famipay-valucreate-strategy/, https://finwiki.zksc.io/ja/payments/nanaco-prepaid-seven-i/, https://finwiki.zksc.io/ja/payments/waon-prepaid-aeon/, https://finwiki.zksc.io/ja/domains/retail/
 
-### Lawson + KDDI Retail Finance
+### Lawson + KDDI retail-finance operating map
 - URL: https://finwiki.zksc.io/ja/retail/lawson-kddi-retail-finance/
 - Japanese HTML: https://finwiki.zksc.io/ja/retail/lawson-kddi-retail-finance/
 - English alternate: https://finwiki.zksc.io/en/retail/lawson-kddi-retail-finance/
@@ -17346,11 +17355,11 @@ Public pages listed: 1601
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/retail/lawson-kddi-retail-finance.md
 - Domain: retail
 - Type: wiki_entry
-- Summary: After the February 2024 joint tender offer in which KDDI and Mitsubishi Corp each took 50% of Lawson at ¥10,360 per share, Lawson became a telco-anchored convenience-store finance case rather than a pure trading-house retail asset. For FinWiki, this is the third convenience-store finance model, sitt
-- Headings: Lawson + KDDI Retail Finance, TL;DR, Ownership and structure, Finance assets in the channel, Comparison with Seven & i and AEON, Why this is a third model, not a copy, Related, Sources
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/card-issuers/aeon-bank/, https://finwiki.zksc.io/ja/loyalty/japan-points-landscape/, https://finwiki.zksc.io/ja/megabanks/au-fh/, https://finwiki.zksc.io/ja/payment-firms/au-payment/, https://finwiki.zksc.io/ja/payments/cashless-jp-landscape/, https://finwiki.zksc.io/ja/regional-banks/lawson-bank/, https://finwiki.zksc.io/ja/regional-banks/seven-bank/, https://finwiki.zksc.io/ja/domains/retail/, https://finwiki.zksc.io/ja/retail/aeon-group/, https://finwiki.zksc.io/ja/retail/seven-and-i-hd/
+- Summary: This page maps Lawson's current ownership and finance-adjacent retail surface after the 2024 KDDI / Mitsubishi Corporation transaction. It distinguishes Lawson-owned or Lawson-group infrastructure from KDDI products merely accepted or proposed for distribution through the channel.
+- Headings: Lawson + KDDI retail-finance operating map, Scope, Ownership state, Channel and finance-adjacent layers, Announced “Real × Digital × Green” collaboration, Product ownership versus distribution, What the case supports, Review checklist
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/loyalty/ponta-points-deep-dive/, https://finwiki.zksc.io/ja/megabanks/au-fh/, https://finwiki.zksc.io/ja/payments/cashless-jp-landscape/, https://finwiki.zksc.io/ja/regional-banks/lawson-bank/, https://finwiki.zksc.io/ja/domains/retail/, https://finwiki.zksc.io/ja/retail/aeon-group/, https://finwiki.zksc.io/ja/retail/familymart-itochu-financial-integration/, https://finwiki.zksc.io/ja/retail/japan-retail-financial-distribution-wedge-matrix/, https://finwiki.zksc.io/ja/retail/lawson-mitsubishi-corporation-tie-up-2024-deep/, https://finwiki.zksc.io/ja/retail/seven-and-i-hd/, https://finwiki.zksc.io/ja/retail/seven-i-holdings-finance-deep-dive/
 
-### Lawson + Mitsubishi Corporation 2024 take-private deep — KDDI 50/50 tie-up, Ponta deepening, au telco-payment integration
+### Lawson 2024 take-private
 - URL: https://finwiki.zksc.io/ja/retail/lawson-mitsubishi-corporation-tie-up-2024-deep/
 - Japanese HTML: https://finwiki.zksc.io/ja/retail/lawson-mitsubishi-corporation-tie-up-2024-deep/
 - English alternate: https://finwiki.zksc.io/en/retail/lawson-mitsubishi-corporation-tie-up-2024-deep/
@@ -17359,9 +17368,9 @@ Public pages listed: 1601
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/retail/lawson-mitsubishi-corporation-tie-up-2024-deep.md
 - Domain: retail
 - Type: wiki_entry
-- Summary: This entry sits under retail index as the strategic-restructuring deep dive for the 2024-02 Lawson take-private. It extends Lawson + KDDI retail finance (the structural overview page) with the deal mechanics, the post-private capital structure, and the longer-arc strategic logic of moving a listed C
-- Headings: Lawson + Mitsubishi Corporation 2024 take-private deep — KDDI 50/50 tie-up, Ponta deepening, au telco-payment integration, Wiki route, TL;DR, Deal mechanics, KDDI side, Mitsubishi Corporation side, Ponta integration deepening, au telco-payment integration
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/financial-conglomerates/itochu-corp/, https://finwiki.zksc.io/ja/financial-conglomerates/mitsubishi-corp/, https://finwiki.zksc.io/ja/loyalty/au-pay-loyalty-ecosystem-deep/, https://finwiki.zksc.io/ja/loyalty/d-point-au-kddi-docomo-telco-point-consolidation/, https://finwiki.zksc.io/ja/loyalty/d-point-detailed-ecosystem/, https://finwiki.zksc.io/ja/loyalty/jal-mileage-bank-vs-ana-mileage-club-comparison/, https://finwiki.zksc.io/ja/loyalty/japan-points-landscape/, https://finwiki.zksc.io/ja/loyalty/ponta-points-deep-dive/, https://finwiki.zksc.io/ja/loyalty/v-point-smbc-ccc-case/, https://finwiki.zksc.io/ja/megabanks/au-fh/, https://finwiki.zksc.io/ja/payment-firms/au-payment/
+- Summary: This page is the transaction record for Lawson's 2024 privatization and joint ownership by KDDI and Mitsubishi Corporation. It does not treat every strategic example in the announcement as implemented, and it does not infer Ponta exclusivity, customer-data access, or in-store financial-product conve
+- Headings: Lawson 2024 take-private, Scope, Transaction chronology, Price and ownership mechanics, Stated strategic program, What changed and what did not automatically change, Relationship to Lawson's financial surface, Reusable take-private checklist
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/financial-conglomerates/mitsubishi-corp/, https://finwiki.zksc.io/ja/loyalty/ponta-points-deep-dive/, https://finwiki.zksc.io/ja/megabanks/au-fh/, https://finwiki.zksc.io/ja/regional-banks/lawson-bank/, https://finwiki.zksc.io/ja/domains/retail/, https://finwiki.zksc.io/ja/retail/aeon-group/, https://finwiki.zksc.io/ja/retail/familymart-itochu-financial-integration/, https://finwiki.zksc.io/ja/retail/japan-retail-financial-distribution-wedge-matrix/, https://finwiki.zksc.io/ja/retail/lawson-kddi-retail-finance/, https://finwiki.zksc.io/ja/retail/seven-i-holdings-finance-deep-dive/
 
 ### Seven & i Holdings
 - URL: https://finwiki.zksc.io/ja/retail/seven-and-i-hd/
@@ -17376,7 +17385,7 @@ Public pages listed: 1601
 - Headings: Seven & i Holdings, TL;DR, Structure, Financial-Services Model, Key Financial Assets, Competitive Position, Regulatory / Legal Reading, Strategic Reading
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/financial-licenses/, https://finwiki.zksc.io/ja/loyalty/japan-points-landscape/, https://finwiki.zksc.io/ja/megabanks/paypay-fg/, https://finwiki.zksc.io/ja/payment-firms/rakuten-fg/, https://finwiki.zksc.io/ja/payments/cashless-jp-landscape/, https://finwiki.zksc.io/ja/regional-banks/lawson-bank/, https://finwiki.zksc.io/ja/regional-banks/seven-bank/, https://finwiki.zksc.io/ja/domains/retail/, https://finwiki.zksc.io/ja/retail/aeon-group/
 
-### Seven & i Holdings finance deep dive — 7-Bank, ATM platform, nanaco, EC acquiring, 2024 York reorganization
+### Seven & i finance deep dive
 - URL: https://finwiki.zksc.io/ja/retail/seven-i-holdings-finance-deep-dive/
 - Japanese HTML: https://finwiki.zksc.io/ja/retail/seven-i-holdings-finance-deep-dive/
 - English alternate: https://finwiki.zksc.io/en/retail/seven-i-holdings-finance-deep-dive/
@@ -17385,9 +17394,9 @@ Public pages listed: 1601
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/retail/seven-i-holdings-finance-deep-dive.md
 - Domain: retail
 - Type: wiki_entry
-- Summary: This entry sits under retail index as the finance-stack deep dive for Seven & i Holdings, extending the parent retail-group page with the full subsidiary map (7-Bank holdco perimeter, Seven Card Service, Seven CS Card Service, Seven Payment Service, nanaco). Pair it with AEON Group and the comparabl
-- Headings: Seven & i Holdings finance deep dive — 7-Bank, ATM platform, nanaco, EC acquiring, 2024 York reorganization, Wiki route, TL;DR, Subsidiary perimeter — the four financial arms, Seven Bank as the financial-profit anchor, nanaco — group-internal prepaid + point program, Seven Card Service vs Seven CS Card Service, Seven Payment Service — ATM-receipt B2B2C payouts and EC acquiring
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/card-issuers/aeon-bank/, https://finwiki.zksc.io/ja/loyalty/d-point-detailed-ecosystem/, https://finwiki.zksc.io/ja/loyalty/japan-points-landscape/, https://finwiki.zksc.io/ja/loyalty/point-liability-accounting-boundary/, https://finwiki.zksc.io/ja/loyalty/ponta-points-deep-dive/, https://finwiki.zksc.io/ja/loyalty/v-point-smbc-ccc-case/, https://finwiki.zksc.io/ja/payments/cashless-jp-landscape/, https://finwiki.zksc.io/ja/payments/funds-transfer-vs-prepaid-boundary/, https://finwiki.zksc.io/ja/payments/japan-code-payment-operator-2025-market-share-matrix/, https://finwiki.zksc.io/ja/regional-banks/lawson-bank/, https://finwiki.zksc.io/ja/regional-banks/seven-bank/
+- Summary: This page reflects the post-2025 structure: Seven Bank is no longer a consolidated subsidiary of Seven & i Holdings, and Seven Bank itself owns the card, nanaco, and payment-service subsidiaries described below. It also records ITOCHU's later investment and the completed deconsolidation of YORK Hold
+- Headings: Seven & i finance deep dive, Scope, 2025–2026 ownership reset, Current operating perimeter, Seven Bank platform, Card and nanaco layer, Seven Payment Service, YORK Holdings: completed separation
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/card-issuers/seven-card-service/, https://finwiki.zksc.io/ja/loyalty/japan-points-landscape/, https://finwiki.zksc.io/ja/payment-firms/seven-payment-service/, https://finwiki.zksc.io/ja/regional-banks/seven-bank/, https://finwiki.zksc.io/ja/domains/retail/, https://finwiki.zksc.io/ja/retail/aeon-group/, https://finwiki.zksc.io/ja/retail/familymart-itochu-financial-integration/, https://finwiki.zksc.io/ja/retail/japan-retail-financial-distribution-wedge-matrix/, https://finwiki.zksc.io/ja/retail/lawson-kddi-retail-finance/, https://finwiki.zksc.io/ja/retail/seven-and-i-hd/
 
 ### Store Traffic as Financial Distribution
 - URL: https://finwiki.zksc.io/ja/retail/store-traffic-as-financial-distribution/
