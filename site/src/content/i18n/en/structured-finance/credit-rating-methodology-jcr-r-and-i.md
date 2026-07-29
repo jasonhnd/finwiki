@@ -1,17 +1,18 @@
 ---
 source: structured-finance/credit-rating-methodology-jcr-r-and-i
-source_hash: b326886005549815
+source_hash: eb9ea9b5ead789f0
 lang: en
 status: machine
 fidelity: ok
 title: "Credit rating methodology (JCR, R&I) for Japan structured finance"
-translated_at: 2026-06-01T04:15:40.104Z
+translated_at: 2026-07-29T09:38:56.815Z
 ---
+
 # Credit rating methodology (JCR, R&I) for Japan structured finance
 
 ## TL;DR
 
-JCR (Japan Credit Rating Agency) and R&I (Rating and Investment Information) are Japan's two dominant domestic credit rating agencies for structured finance. Both are FSA-designated as credit rating agencies (the Japanese equivalent of NRSRO designation), and both publish detailed structured-finance criteria for ABS, RMBS, CMBS, and securitization SPCs. Their methodology is calibrated to Japan-specific consumer-credit, mortgage, and commercial-real-estate cycles — and reflects the 2008-2010 CMBS default wave lessons. JCR / R&I ratings are required on most Japan-domestic structured deals; S&P, Moody's, Fitch are added selectively for cross-border deals. Use this page for rating-agency methodology context in [[structured-finance/INDEX]].
+JCR and R&I are legal entities listed in Japan's FSA register of credit rating agencies. Registration is not an “NRSRO equivalent,” does not make their methodologies interchangeable, and does not establish that either agency is required or dominant for an asset class. A structured-finance conclusion must cite the agency's applicable criteria version and the named transaction's rating report; staff counts, annual action counts, ownership labels, rating gaps and tranche support cannot be inferred from a generic corporate page.
 
 ## Wiki route
 
@@ -23,123 +24,61 @@ JCR (Japan Credit Rating Agency) and R&I (Rating and Investment Information) are
 | JHF MBS context | [[structured-finance/jhf-mbs-mechanics]] |
 | Domain index | [[structured-finance/INDEX]] |
 
-## 1. JCR — Japan Credit Rating Agency
+## 1. Agency identity and registration
 
-| Item | Detail |
-|---|---|
-| Japanese name | 株式会社日本格付研究所 |
-| Established | 1985 |
-| Ownership | Independent, listed parent |
-| Regulatory designation | FSA-designated credit rating agency under FIEA |
-| Cross-border equivalence | Often recognized in cross-border deals alongside global agencies |
-| Headquarter | Tokyo |
+[FSA's current register](https://www.fsa.go.jp/menkyo/menkyoj/shinyoukakuduke.pdf), [JCR's company profile](https://www.jcr.co.jp/en/service/company/company), and [R&I's company page](https://www.r-i.co.jp/en/company/) support the following limited identity table.
 
-JCR rates corporate issuers, sovereigns, financial institutions, and structured-finance products. For structured finance, JCR maintains detailed criteria pages for RMBS, CMBS, ABS, and securitization SPCs.
-
-## 2. R&I — Rating and Investment Information
-
-| Item | Detail |
-|---|---|
-| Japanese name | 株式会社格付投資情報センター |
-| Established | 1998 (merged predecessor agencies) |
-| Ownership | Affiliated with Nomura |
-| Regulatory designation | FSA-designated credit rating agency under FIEA |
-| Cross-border equivalence | Recognized in cross-border deals |
-| Headquarter | Tokyo |
-
-R&I rates the same product set as JCR. Methodology and rating scale are conceptually equivalent but differ in calibration and specific criteria.
-
-## 3. FSA designation (NRSRO equivalent)
-
-| Aspect | Detail |
-|---|---|
-| Regulatory regime | Financial Instruments and Exchange Act (FIEA) — credit rating agency provisions |
-| Designation | "Credit rating agency" status under FIEA Article 66-27 |
-| Requirements | Independence, methodology disclosure, conflict-of-interest controls |
-| Globally-recognized equivalent | NRSRO (Nationally Recognized Statistical Rating Organization) in US |
-
-JCR and R&I are designated agencies, putting them on equivalent regulatory footing with S&P, Moody's, Fitch (also FSA-designated). FSA-designated agency ratings are usable for various regulatory and prudential purposes (e.g., bank capital weighting, insurer investment guidelines).
-
-## 4. Methodology vs S&P / Moody's / Fitch
-
-| Dimension | JCR / R&I | S&P / Moody's / Fitch |
+| Question | JCR | R&I |
 |---|---|---|
-| Calibration | Japan-domestic consumer-credit / mortgage / real-estate cycles | Global / regional methodology |
-| Default modeling | Japan historical default data primary | Cross-border data pooled with Japan |
-| Recovery modeling | Japan-specific real-estate / bankruptcy regime | Global comparative |
-| Stress scenarios | Japan-specific (e.g., regional economic downturn, demographic decline) | Global stress methodology |
-| Rating scale | AAA to D (similar scale) | AAA to D |
-| Notch comparison | Frequently equivalent or 1-notch higher than global agencies on same Japanese deal | — |
+| Legal entity | Use the legal name shown in the FSA register and JCR profile | Use the legal name shown in the FSA register and R&I profile |
+| Japan regulatory status | Registered credit rating agency; verify the current registration entry and review date | Registered credit rating agency; verify the current registration entry and review date |
+| Ownership / affiliation | Not characterized on this page without a current shareholder disclosure | Not characterized on this page without a current shareholder disclosure |
+| Structured-finance coverage | Prove with JCR's criteria and named rating list | Prove with R&I's applicable criteria and named rating record |
+| Foreign regulatory recognition | Check the relevant foreign regulator; Japan registration is not a substitute | Same |
 
-A common observation: JCR / R&I sometimes rate Japan-domestic structured deals at or above the comparable global-agency rating. This reflects different default-modeling calibration, particularly the lower default rates observed historically in Japanese consumer / mortgage portfolios.
+## 2. Methodology evidence
 
-## 5. Structured-finance criteria — common elements
+[JCR's structured-finance methodology library](https://www.jcr.co.jp/en/rrinfo/meth_sf/) supports the JCR evidence route in the following table; an R&I conclusion requires the corresponding public R&I document.
 
-| Element | What rating agencies analyze |
+| Claim | Minimum evidence |
 |---|---|
-| Pool quality | Historical default / delinquency / recovery data; concentration metrics |
-| Servicer | Originator capability; backup-servicer arrangements; servicer-advance practices |
-| Structure | Tranching, subordination, OC, reserves, triggers, waterfall |
-| Legal | True-sale, bankruptcy-remoteness, set-off risk, asset segregation |
-| Counterparty | Trustee, swap counterparty, account bank ratings and replacement language |
-| Cash-flow scenario analysis | Stress prepayment, default, recovery, interest-rate scenarios |
+| Applicable methodology | Title, publication / revision date and asset class of the criteria cited by the transaction report |
+| Pool assumptions | Named report's pool data, base case, stresses and exclusions |
+| Legal analysis | Named transaction documents and agency discussion of transfer, segregation and counterparty risk |
+| Cash-flow analysis | Actual waterfall, triggers, hedges and modeled scenarios |
+| Rating | Named tranche, date, scale and outlook / watch status |
+| Surveillance | Dated rating action or surveillance report; do not assume a cadence |
 
-The rating reflects the loss-given-default scenario for the rated tranche under stress consistent with the rating category.
+## 3. Registration is not rating equivalence
 
-## 6. RMBS criteria specifics
+[FSA's register](https://www.fsa.go.jp/menkyo/menkyoj/shinyoukakuduke.pdf) establishes the entities registered in Japan; the following table states what that evidence does and does not prove.
 
-| Element | JCR / R&I approach |
+| Registration proves | Registration does not prove |
 |---|---|
-| Pool stratification | LTV bucket, DTI bucket, loan tenor, fixed/variable rate, geographic distribution |
-| Default frequency | Calibrated to Japan historical mortgage default (low base) with stress multipliers |
-| Loss severity | Real-estate recovery scenario stress (Japan-specific haircuts) |
-| Prepayment | Conservative; Japan slower-than-US base rate |
-| Senior support | Required subordination + OC + reserves sized to rating-category stress |
+| The named legal entity is on the FSA register at the review date | NRSRO status or recognition in another jurisdiction |
+| The entity falls under Japan's registered-credit-rating-agency regime | Identical methodology, rating scale performance or regulatory use |
+| A precise entity and registration entry can be cited | That its rating is required for a domestic or cross-border transaction |
+| Current status can be rechecked | Dominant market share or a standard dual-rating combination |
 
-See [[structured-finance/japan-rmbs-issuance-structure]] for the structural application.
+## 4. Named-transaction comparison
 
-## 7. CMBS criteria specifics
+Use [JCR's public structured-finance rating list](https://jcr.co.jp/en/ratinglist/sf_sf/) and the other agency's public rating action to compare only the same tranche and date.
 
-| Element | JCR / R&I approach |
+| Comparison field | Rule |
 |---|---|
-| Property analysis | NCF (net cash flow) stress, cap-rate stress, refinancing risk |
-| Loan structure | LTV, DSCR, amortization, balloon risk |
-| Senior support | High subordination for the lessons of 2008-2010 default wave |
-| Special servicer | Capability, fee economics, workout track record |
-| Concentration | Single-asset / single-borrower analysis vs diversified pool |
+| Transaction and tranche | Must be identical |
+| Observation date | Must be the same or differences disclosed |
+| Rating scale | Record the agency's own symbol and definition |
+| Methodology | Record the cited criteria version |
+| Support and assumptions | Quote only transaction-specific enhancement and stress inputs |
+| Spread impact | Requires dated market pricing; never infer basis points from a notch gap |
 
-Post-2008 CMBS criteria are notably more conservative than pre-2008 vintages, reflecting the rating-agency response to the default wave — see [[structured-finance/japan-cmbs-issuance-structure]].
+## 5. Editorial boundary
 
-## 8. Recent rating actions
-
-| Year | Pattern |
-|---|---|
-| 2008-2012 | Material CMBS downgrades, conduit-deal losses |
-| 2012-2018 | Stable; few structured downgrades; small private market |
-| 2018-2020 | Stable; revival of select CMBS |
-| 2020-present | COVID-period monitoring (modest impact); logistics-CMBS strong performance |
-
-## 9. Rating-agency role in deal economics
-
-| Stakeholder | Why rating matters |
-|---|---|
-| Investor | Sets eligibility for ALM / regulatory portfolios; informs spread |
-| Originator | Determines achievable senior-class size; drives subordination economics |
-| Trustee / arranger | Negotiates criteria-driven structure (triggers, reserves) |
-| Regulator | Bank capital weighting, insurer admissibility |
-
-Achieving the targeted senior-class rating (typically AAA) drives most of the deal structuring effort.
-
-## 10. Cross-border deals
-
-| Pattern | Typical rating combination |
-|---|---|
-| Pure Japan-domestic | JCR + R&I (sometimes both, sometimes one) |
-| Japan deal with foreign investors | JCR or R&I + one global agency (S&P, Moody's, or Fitch) |
-| Cross-border Toyota Financial Services shelf | Multiple global agencies + JCR or R&I |
-| Japan-domiciled CLO with global investor base | JCR / R&I + Moody's or Fitch |
-
-For deals targeting global investors, dual rating from JCR / R&I and a global agency is common.
+- Do not state that JCR or R&I “rates the bulk” of an asset class without a defined, dated population.
+- Do not invent staff counts, annual action counts, ownership affiliations, standard stress multipliers, downgrade notches or surveillance frequency.
+- Do not describe a domestic registration as NRSRO equivalence.
+- Do not infer investor eligibility, bank capital treatment or foreign recognition from a rating alone.
 
 ## Related
 
@@ -158,7 +97,10 @@ For deals targeting global investors, dual rating from JCR / R&I and a global ag
 
 ## Sources
 
-- JCR (Japan Credit Rating Agency), corporate site and structured-finance criteria.
-- R&I (Rating and Investment Information), corporate site and structured-finance methodology.
+- [FSA, registered credit rating agencies](https://www.fsa.go.jp/menkyo/menkyoj/shinyoukakuduke.pdf).
+- [JCR, company information](https://www.jcr.co.jp/en/service/company/company).
+- [R&I, company information](https://www.r-i.co.jp/en/company/).
+- [JCR, structured-finance methodology library](https://www.jcr.co.jp/en/rrinfo/meth_sf/).
+- [JCR, structured-finance rating list](https://jcr.co.jp/en/ratinglist/sf_sf/).
 - FSA, credit-rating-agency designation pages.
 - JSDA (Japan Securities Dealers Association).

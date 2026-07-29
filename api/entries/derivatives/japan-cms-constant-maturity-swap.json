@@ -28,9 +28,9 @@
     "domain": "derivatives",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "derivatives",
@@ -47,11 +47,9 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.boj.or.jp/en/statistics/bis/yoshi/index.htm",
-      "https://www.bis.org/statistics/derstats.htm",
-      "https://www.jscc.co.jp/en/",
-      "https://www.fsa.go.jp/en/",
-      "https://www.isda.org/"
+      "ISDA disclosure annex for interest-rate transactions — https://www.isda.org/a/ORiDE/isda-rates.pdf",
+      "ISDA RFR conventions and fallbacks product table — https://www.isda.org/a/bdigE/RFR-Conventions-and-IBOR-Fallbacks-Product-Table-October-2021.pdf",
+      "JSCC IRS product eligibility — https://www.jpx.co.jp/jscc/en/cash/irs/product.html"
     ]
   },
   "summary": "A constant maturity swap (CMS) is an OTC interest-rate derivative in which one leg pays a fixed reference (or a floating short-rate reference) and the other leg pays a periodically reset long-tenor swap rate — most commonly the 10Y or 5Y JPY swap rate at each reset date. The CMS leg's defining featu",
@@ -63,7 +61,7 @@
     "Why a Convexity Adjustment Is Needed",
     "JPY Use Cases",
     "Pricing Inputs",
-    "Dealer Franchise",
+    "Public-data boundary",
     "Liquidity and Market Depth",
     "Clearing"
   ],
@@ -113,9 +111,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 9268,
-    "word_like_tokens": 1616,
+    "nonspace_chars": 8716,
+    "word_like_tokens": 1553,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-29"
   }
 }

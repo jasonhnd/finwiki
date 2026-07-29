@@ -1,108 +1,97 @@
 ---
 source: structured-finance/japan-abs-market-overview
-source_hash: 1fa7619ba899d505
+source_hash: 2e7ee11c40f9439a
 lang: ja
 status: machine
 fidelity: ok
-title: "日本の ABS 市場概観"
-translated_at: 2026-06-15T04:09:41.185Z
+title: "日本のABS市場概観 — 再現可能な根拠確認ガイド"
+translated_at: 2026-07-29T10:06:23.508Z
 ---
 
-# 日本の ABS 市場概観
+# 日本のABS市場概観 — 再現可能な根拠確認ガイド
 
-## 要約
+## TL;DR
 
-日本の資産担保証券市場は、おおまかに 3 つの層に分かれる：非常に大きな JHF MBS 層（住宅金融支援機構、政府支援のシニアクラス）、民間 RMBS 層（メガバンクや信託銀行がオリジネートするジャンボ住宅ローンプール）、そして TK-GK 型 SPV や特定目的会社を通じて発行される消費者／オート／CMBS／プロジェクト層である。2008 以降、CMBS 側の発行は急減した。JHF MBS のエンジンは稼働を続け、いまや円建てストラクチャード・ペーパーを支配している。本ページは [[structured-finance/INDEX]] のルーティング・サーフェスとして、また [[structured-finance/INDEX]] のオリジネーター企業ページを本ドメインのストラクチャー機構につなぐために用いること。
+本ページでは、対象データセットを定義せずに、日本の証券化商品、発行体、ビークル、格付、販売会社、投資家、年間発行額を順位付けしない。JHF MBSには専用の公開シリーズがあるが、その他の商品は、JSDAが定める区分と特定取引の記録から計測する必要がある。公募、私募、保有残高、クロスボーダー取引を一つの市場規模ランキングに合算してはならない。
 
-## Wiki 経路
+## Wiki内の参照先
 
-| 探しているもの | 行き先 |
+商品の根拠範囲については[[structured-finance/japan-securitization-product-matrix]]、JHFの仕組みについては[[structured-finance/jhf-mbs-mechanics]]を参照する。
+
+## 1. 商品の計測
+
+[JSDAの証券化市場調査](https://www.jsda.or.jp/en/statistics/securitization-market/)および[JHFの日付が明記された発行実績](https://www.jhf.go.jp/files/topics/5014_ext_99_1.pdf)は、以下の計測表を裏付けている。
+
+| 計測対象 | 公開情報源 | ルール |
+|---|---|---|
+| JHF MBSの発行 | JHFのシリーズ別発行実績 | 商品、シリーズ、対象期間を明記する |
+| 証券化商品の発行 | JSDA調査 | 区分、対象期間、改訂を維持する |
+| 特定のABS / RMBS / CMBS | 発行体、募集資料または格付記録 | 公募・私募に伴う開示範囲を明記する |
+| 銀行のストラクチャード・クレジット向けエクスポージャー | 特定銀行の開示 | 発行額ではなく保有額として扱う |
+| クロスボーダー取引 | 海外発行体 / 募集資料 | 日本の投資家が参加したという理由だけで、日本国内発行に分類しない |
+
+## 2. 取引関係者
+
+[JCRの公開格付一覧](https://jcr.co.jp/en/ratinglist/sf_sf/)から特定の格付対象取引を確認できる。以下の表は、各役割について必要な根拠を示す。
+
+| 役割 | 必要な根拠 |
 |---|---|
-| JHF MBS のエンジン | [[structured-finance/jhf-mbs-mechanics]] |
-| 民間 RMBS のストラクチャー | [[structured-finance/japan-rmbs-issuance-structure]] |
-| CMBS のストラクチャー | [[structured-finance/japan-cmbs-issuance-structure]] |
-| オートローン ABS | [[structured-finance/auto-loan-abs-japan-toyota-honda]] |
-| 消費者／カード ABS | [[structured-finance/consumer-loan-abs-japan-card-issuer]] |
-| SPV ビークルの選択 | [[structured-finance/spv-tk-gk-vehicle-japan-tax]] |
-| JHF と民間のスプレッド | [[structured-finance/jhf-mbs-vs-private-rmbs-spread]] |
+| 発行体 / オリジネーター | 募集資料、信託資料または格付資料 |
+| アレンジャー / 販売会社 | 特定取引の発表または募集資料 |
+| 受託者 / 口座銀行 | 信託資料および取引関連資料 |
+| サービサー / バックアップ・サービサー | サービシング契約または格付資料 |
+| 格付機関 | 日付が明記されたクラス別の格付アクション |
+| 投資家 / 配分 | 公開されている場合は配分開示 |
 
-## 1. 市場層マップ
+販売会社または格付機関の市場シェアに関する結論は記載しない。
 
-| 層 | 典型的な発行体 | ビークル | おおよその数量の傾き |
-|---|---|---|---|
-| JHF MBS | [[policy-finance/japan-housing-finance-agency]] | JHF 信託 | 円建てストラクチャードで最大の層 |
-| 民間 RMBS | メガバンク（[[megabanks/mufg]], [[megabanks/smfg]], [[megabanks/mizuho-fg]]）、信託銀行 | 信託受益権 | 中規模、時折の公募ディール |
-| CMBS | 不動産スポンサー、メガバンク | TMK または TK-GK | 2008, 以降は小規模、2020年代に拡大 |
-| オートローン ABS | [[card-issuers/toyota-finance]], [[leasing-firms/toyota-financial]], ホンダファイナンス, 日産クレジット | TK-GK | リピート発行体、細粒なプール |
-| 消費者／カード ABS | [[card-issuers/orico]], [[card-issuers/jaccs]], [[card-issuers/aplus]], [[card-issuers/mufg-nicos]] | TK-GK または信託 | リボルビング構造が一般的 |
-| リース ABS | [[leasing-firms/mitsubishi-hc-capital]], その他のリース会社 | 信託 | リースプールの残価リスク |
-| プロジェクト／インフラ | スポンサー SPC | TMK または TK-GK | ニッチ、ディール個別 |
+## 3. 時系列分析
 
-## 2. オリジネーターの全体像
+[JSDAの調査](https://www.jsda.or.jp/en/statistics/securitization-market/)は、以下の再現性チェックリストを支持している。
 
-- **銀行**: メガバンク（[[megabanks/mufg]], [[megabanks/smfg]], [[megabanks/mizuho-fg]]）と主要な信託銀行が、ジャンボ住宅ローンや企業向け貸出の担保をオリジネートする。オリジネーター側については [[banking/INDEX]] を参照。
-- **オートファイナンス会社**: トヨタファイナンス、トヨタファイナンシャルサービス、ホンダファイナンス、日産クレジット、SMBC オート、MUFG キャピタル・オート・ローンが、バランスシート管理ツールとしてオートローン ABS を発行する。
-- **消費者／カード発行体**: アプラス、オリコ、ジャックス、MUFG ニコス、[[card-issuers/jcb]], [[card-issuers/credit-saison]] が、銀行ラインによる資金調達と並んで、カード債権 ABS を資金調達ツールとして用いる。
-- **公的セクター**: JHF が支配的な公的信用の発行体である。[[policy-finance/japan-housing-finance-agency]] と [[structured-finance/jhf-mbs-mechanics]] を参照。
-- **受託者としての信託銀行**: [[trust-banks/sumitomo-mitsui-trust]] その他の信託銀行が信託受益権ストラクチャーの受託者を務める。信託銀行の役割は構造上のものであり、オリジネーターではない。
-
-## 3. ディーラー／アレンジャーの全体像
-
-| 役割 | 典型的なハウス |
+| 項目 | 必要な取扱い |
 |---|---|
-| リードアレンジャー | [[securities-firms/mizuho-securities]], [[securities-firms/mufg-mums]], 野村, 大和 SG（[[securities-firms/daiwa-sg]]）, SMBC 日興 |
-| 受託者 | [[trust-banks/sumitomo-mitsui-trust]], 三菱 UFJ 信託, みずほ信託 |
-| 格付機関 | JCR, R&I（[[structured-finance/credit-rating-methodology-jcr-r-and-i]] を参照）; クロスボーダーでは S&P, Moody's, Fitch |
-| サービサー | オリジネーターまたは関連サービサー; 時に専門のスペシャルサービサー |
+| 対象期間 | 正確な開始日 / 終了日および調査の版 |
+| 区分 | 情報源における定義および算入範囲 |
+| 金額 / 件数 | 引用した表および改訂状況 |
+| 公募 / 私募の範囲 | 判明している未収録範囲を明記する |
+| 傾向 | 情報源の事実と計算を分けて示す |
+| デフォルト / 損失 | 特定の受託者、サービサーまたは格付アクションを使用する |
 
-## 4. 市場規模全体のシグナル
+## 4. 格付、ストラクチャー、価格
 
-- JHF MBS プログラムは毎月発行を行っており、円建てで群を抜いて最大の単一ストラクチャード・ペーパー・エンジンとなっている。
-- 民間 RMBS の発行は断続的である — メガバンクは典型的にはプログラムベースでジャンボディールを発行するが、毎月ではない。
-- CMBS の発行量は 2008 以降に急減し、部分的にしか回復していない。[[structured-finance/japan-cmbs-issuance-structure]] を参照。
-- オートローン ABS とカード債権 ABS の発行量は意味のある規模だが、JHF MBS エンジンに比べれば小さい。
+[JCRの格付方法ライブラリー](https://www.jcr.co.jp/en/rrinfo/meth_sf/)は分析資料であり、特定の市場慣行を立証するものではない。
 
-## 5. 格付機関の基準
-
-- JCR と R&I が、ストラクチャードディールにおける日本国内の支配的な格付機関である。
-- 両社のストラクチャード・ファイナンス手法は、ABS、RMBS、CMBS、証券化 SPC をカバーする。
-- 両社とも FSA の指定のもとで NRSRO 相当である。[[structured-finance/credit-rating-methodology-jcr-r-and-i]] を参照。
-- クロスボーダーディールでは、典型的に S&P、Moody's、Fitch が JCR または R&I と並んで格付けを行う。
-
-## 6. 2008 以降の変遷
-
-| 時期 | パターン |
+| 主張 | 必要な根拠 |
 |---|---|
-| 2003-2007 | CMBS と RMBS の発行量が積み上がり、アグレッシブなストラクチャリング; コンデュイットディールが一般的。 |
-| 2008-2010 | CMBS 市場は実質的に閉鎖; 2007年ヴィンテージのディールでデフォルト; 格下げ。 |
-| 2010-2015 | JHF MBS エンジンは継続; 民間市場は低調; 保守的な構造のみ。 |
-| 2015-2020 | 選択的な復活; メガバンクによるジャンボ民間 RMBS; オート／消費者 ABS は堅調。 |
-| 2020年代 | 物流倉庫やオフィスのシングルボロワーディールでの CMBS 復活; 消費者金融 ABS が活発。 |
+| ビークル | 特定の法的資料 |
+| トランシェ / 信用補完 | 特定取引のウォーターフォールおよびクロージング時残高 |
+| 格付 | 特定クラス、日付および適用された格付基準の版 |
+| スプレッド | 日付が明記された価格決定結果およびベンチマーク |
+| 投資家層 | 公開された配分 / 保有状況の開示 |
+| 市場順位 | 対象母集団、期間、計算方法の明示 |
 
-## 7. なぜ重要か
+## 5. 保留した主張
 
-- 日本のストラクチャード・ファイナンス市場は二極化している：非常に大きな公的信用エンジン（JHF MBS）と、より小規模で保守的な民間層である。
-- JHF MBS 層が円建てストラクチャード・ペーパーの供給と価格形成の大部分を牽引する; 民間ディールはそれに対する相対値で価格付けされる。
-- 2008 以降のリセットにより、日本は先進国市場の中でも最も保守的なストラクチャリング慣行のひとつを持つに至った — CMBS 固有の経緯については [[structured-finance/japan-cmbs-issuance-structure]] を参照。
-- 投資家ベースは、生命保険会社（[[life-insurers/daido-life]], [[life-insurers/asahi-life]] など）、地方銀行、JGB プラスの利回りを求めるアセットマネージャーが支配している。
+「最大」、「支配的」、「典型的なビークル」、標準的なAAA取得、年間発行額レンジ、投資家の類型、2008年以降 / 2020年以降の回復という説明は、定義された公開データセットまたは特定取引の集合から再現できない限り保留する。
 
-## 関連
+## Wiki内の位置付け
+
+本項目は[[structured-finance/INDEX|ストラクチャード・ファイナンス索引]]に位置付け、分野横断の資本市場文脈は[[finance/INDEX|ファイナンス索引]]を参照する。
+
+## 関連ページ
 
 - [[structured-finance/INDEX]]
+- [[structured-finance/japan-securitization-product-matrix]]
 - [[structured-finance/jhf-mbs-mechanics]]
 - [[structured-finance/japan-rmbs-issuance-structure]]
 - [[structured-finance/japan-cmbs-issuance-structure]]
-- [[structured-finance/spv-tk-gk-vehicle-japan-tax]]
 - [[structured-finance/credit-rating-methodology-jcr-r-and-i]]
-- [[policy-finance/japan-housing-finance-agency]]
-- [[real-estate-finance/INDEX]]
-- [[banking/INDEX]]
 
 ## 出典
 
-- 住宅金融支援機構, 公開 IR。
-- JCR（日本格付研究所）, ストラクチャード・ファイナンス基準ページ。
-- R&I（格付投資情報センター）, ストラクチャード・ファイナンス手法。
-- JSDA（日本証券業協会）。
-- ASF Japan（証券化フォーラム・ジャパン）。
-- メガバンク IR（MUFG, SMFG, みずほ FG）。
+- [JSDA, securitization market](https://www.jsda.or.jp/en/statistics/securitization-market/).
+- [JHF, FAQs about MBS](https://www.jhf.go.jp/english/mbs_faq.html).
+- [JHF, dated MBS issuance history](https://www.jhf.go.jp/files/topics/5014_ext_99_1.pdf).
+- [JCR, structured-finance methodology library](https://www.jcr.co.jp/en/rrinfo/meth_sf/).
+- [JCR, structured-finance rating list](https://jcr.co.jp/en/ratinglist/sf_sf/).

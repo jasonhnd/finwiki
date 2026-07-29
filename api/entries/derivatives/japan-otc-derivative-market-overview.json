@@ -26,9 +26,9 @@
     "domain": "derivatives",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "derivatives",
@@ -48,15 +48,14 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.bis.org/statistics/derstats.htm",
-      "https://www.boj.or.jp/en/paym/market/",
-      "https://www.jscc.co.jp/en/",
-      "https://www.fsa.go.jp/en/",
-      "https://www.isda.org/",
-      "https://www.jpx.co.jp/english/markets/derivatives/"
+      "BOJ BIS survey results — https://www.boj.or.jp/en/statistics/bis/yoshi/index.htm",
+      "BIS OTC derivatives statistics — https://www.bis.org/statistics/derstats.htm",
+      "FSA OTC-derivative reporting guidelines — https://www.fsa.go.jp/en/news/2022/20220912-1/01.pdf",
+      "JSCC IRS eligible products — https://www.jpx.co.jp/jscc/en/cash/irs/product.html",
+      "JSCC CDS eligible products — https://www.jpx.co.jp/jscc/en/cash/cds/product.html"
     ]
   },
-  "summary": "Japan's over-the-counter (OTC) derivative market spans four product clusters — interest-rate, FX, credit, and equity / structured — all governed under the Financial Instruments and Exchange Act (FIEA), supervised by the Financial Services Agency (FSA), and (for in-scope products) cleared at the Japa",
+  "summary": "Japan's over-the-counter (OTC) derivative market spans interest-rate, FX, credit, and equity / structured products. FSA reporting and clearing requirements apply according to product, entity, and counterparty scope; JSCC separately publishes the products it accepts for clearing. Aggregate datasets u",
   "headings": [
     "Japan OTC derivative market overview",
     "TL;DR",
@@ -148,9 +147,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8918,
-    "word_like_tokens": 1320,
+    "nonspace_chars": 8521,
+    "word_like_tokens": 1285,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-29"
   }
 }

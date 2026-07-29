@@ -9,24 +9,23 @@ aliases:
   - "Japan RMBS pricing"
 domain: structured-finance
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
 confidence: likely
 tags: [structured-finance, mbs, rmbs, spread, jhf, japan, pricing]
 status: active
 sources:
-  - "https://www.jhf.go.jp/about/index.html"
-  - "https://www.jcr.co.jp/en/"
-  - "https://www.r-i.co.jp/en/"
-  - "https://www.jsda.or.jp/en/"
+  - "https://www.jhf.go.jp/files/topics/5014_ext_99_1.pdf"
+  - "https://www.jhf.go.jp/english/mbs_faq.html"
+  - "https://www.jsda.or.jp/en/statistics/securitization-market/"
 ---
 
 # JHF MBS vs private RMBS spread
 
 ## TL;DR
 
-JHF MBS senior tranches trade tight vs JGB — typically in the 10-30bp range — reflecting effective sovereign-linked credit and predictable monthly supply. Private RMBS senior tranches trade meaningfully wider — typically 50-100bp vs JGB — reflecting the absence of government support and reliance on subordination / overcollateralization for credit enhancement. The gap reflects the credit-quality difference plus structural / liquidity factors and shapes the investor base for each: lifers and ALM-driven buyers anchor the JHF side; spread-seeking institutional investors lead private RMBS demand. Use this page to understand the spread economics that drive structuring decisions in [[structured-finance/INDEX]].
+There is no timeless 10–30bp JHF MBS band or 50–100bp private-RMBS band. JHF publishes dated launch spreads for each series; its April 17, 2026 issuance history reports 51–55bp for series 221–227. Private RMBS pricing must be taken from a named transaction and date because public and private placements differ in collateral, structure, expected life and disclosure. This page therefore compares reproducible evidence, not unsupported generic levels.
 
 ## Wiki route
 
@@ -40,90 +39,108 @@ JHF MBS senior tranches trade tight vs JGB — typically in the 10-30bp range �
 
 ## 1. Spread benchmarks
 
-| Tranche | JHF MBS | Private RMBS |
-|---|---|---|
-| Senior (AAA / top tier) | ~10-30bp vs JGB | ~50-100bp vs JGB |
-| Mezz (A / BBB) | N/A (effectively all senior in JHF structures) | ~150-300bp vs JGB |
-| Subordinated / equity | N/A (retained by JHF) | High double-digit yield |
+[JHF's issuance history dated April 17, 2026](https://www.jhf.go.jp/files/topics/5014_ext_99_1.pdf) defines launch spread as the coupon less the new 10-year JGB yield at pricing for the monthly series shown below.
 
-These are illustrative ranges from public-market commentary; specific deals price relative to JGB curve, prepayment expectations, and dealer placement. Spreads also move with BoJ policy environment — a low-rate, yield-curve-controlled environment compresses spreads.
+| Dated evidence | JHF monthly MBS | Private RMBS |
+|---|---|---|
+| Series 221–225, priced Sep. 2025–Jan. 2026 | 51bp launch spread for each series | Not a private-RMBS observation |
+| Series 226, priced Feb. 18, 2026 | 53bp launch spread | Not a private-RMBS observation |
+| Series 227, priced Mar. 18, 2026 | 55bp launch spread | Not a private-RMBS observation |
+| Reproducible private comparison | Not applicable | Use the named deal's coupon/spread, reference rate, pricing date and expected life from [JSDA's survey](https://www.jsda.or.jp/en/statistics/securitization-market/) or transaction documents |
+
+The JHF observations above are a dated seven-series snapshot, not a forward range.
 
 ## 2. Drivers of the spread gap
 
-| Driver | JHF MBS | Private RMBS |
+[JHF's FAQ](https://www.jhf.go.jp/english/mbs_faq.html) supports the JHF mechanics; private-deal attributes must come from the compared transaction.
+
+| Comparison input | JHF MBS | Private RMBS |
 |---|---|---|
-| Credit | Government-supported senior; effectively sovereign-linked | Subordination + OC + reserves; private credit |
-| Liquidity | Monthly issuance, broad investor base, deep secondary | Intermittent, narrower investor base, thinner secondary |
-| Issuer concentration | Single issuer (JHF) | Multiple issuers, deal-specific structures |
-| Rating methodology | Treated as sovereign-adjacent | Treated as private structured credit |
-| Prepayment | Conservative, well-modeled Flat 35 behavior | Pool-specific, variable-rate or jumbo |
-| Investor base | Lifers, regional banks, sovereign-adjacent buyers | Lifers, asset managers, spread investors |
+| Payment obligation | JHF is responsible for timely payment before a beneficiary-interest event | Defined by the trust/SPV and transaction documents |
+| Post-trigger support | Ordinary monthly MBS use OC for the beneficiary certificates | Credit enhancement is deal-specific |
+| Repayment profile | Monthly pass-through; JHF publishes factors and pool attributes | Expected life and amortization are deal-specific |
+| Price observation | JHF publishes issue amount, coupon and launch spread | Record only if disclosed for the named deal |
+| Rating | Dated series rating | Dated tranche rating; never infer from asset class |
 
-## 3. Government-support spread component
+## 3. Credit and structure are not a fixed spread decomposition
 
-The bulk of the spread gap reflects the credit-quality differential between government-supported senior class and private-structuring senior class. Even when private RMBS senior is rated AAA on a structured-credit basis, the implied government support behind JHF MBS commands a meaningful premium tightening.
+Public data do not support assigning a fixed number of basis points to "government support," liquidity or complexity. The following items are comparison controls, not additive spread contributions.
 
-| Component | Contribution |
+| Control | Required treatment |
 |---|---|
-| Government support | Largest single component; reflects sovereign credit linkage |
-| Liquidity premium | Material; monthly cadence + broad participation tightens JHF |
-| Structural complexity | Private RMBS investors demand premium for analyzing structure |
-| Issuance-volume effect | Single, regular JHF program reduces uncertainty; private deals carry idiosyncratic risk |
+| Credit | Compare the actual legal payment obligation, enhancement and rating report. |
+| Duration | Match expected life and prepayment assumptions. |
+| Reference curve | Use the same benchmark maturity and observation convention. |
+| Date and liquidity | Compare pricing from the same market window and disclose whether a quote is primary or secondary. |
 
 ## 4. Prepayment behavior difference
 
-| Loan type | Prepayment pattern |
-|---|---|
-| Flat 35 (JHF MBS) | Slow base rate; spikes near bonus periods; refinance waves when rates fall meaningfully |
-| Variable-rate jumbo (private RMBS) | Faster base rate; more refinance-sensitive; tighter to floating-rate curve |
-| Mixed (private RMBS) | Intermediate; dependent on pool composition |
+[JHF's monthly data](https://www.jhf.go.jp/about/investor/shisan_tanpo/kihatsu/factor.html) and [JSDA's PSJ statistics](https://www.jsda.or.jp/en/statistics/securitization-market/) provide reproducible inputs.
 
-Prepayment behavior affects effective duration of MBS. Buy-and-hold investors (lifers) accept the prepayment risk because the spread compensates over the bond's expected life; trading-oriented investors apply discount rates that reflect prepayment variance.
+| Evidence | JHF MBS | Private RMBS |
+|---|---|---|
+| Balance factor | Published by JHF for covered series | Use deal trustee/servicer reports if public |
+| Pool attributes | Published by JHF at issuance and updated on its investor pages | Use the named deal's disclosure |
+| Standard prepayment reference | PSJ statistics can be used with the stated observation date | Apply only if the transaction documents use or map to that convention |
+
+No generic "bonus-period spike" or faster/slower hierarchy is asserted without a cited empirical series.
 
 ## 5. Institutional investor preference
 
-| Investor | JHF MBS | Private RMBS |
-|---|---|---|
-| Lifers (Asahi, Daido, etc.) | Core ALM allocation, large size | Selective allocation, spread-seeking |
-| Megabank ALM books ([[megabanks/mufg]], [[megabanks/smfg]], [[megabanks/mizuho-fg]]) | Yield-pickup vs JGB | Limited (concentration with own originator) |
-| Regional banks | Standard yen-yield holding | Selective |
-| Asset managers (Asset Management One, etc.) | Bond-fund constituent | Spread-fund constituent |
-| Public-credit investors | Direct allocation | Limited |
-| Foreign investors | Selective, JGB-substitute | Selective at senior; rare at mezz |
-| Pension funds | ALM-driven allocation | Spread allocation |
+[JHF's issuance history](https://www.jhf.go.jp/files/topics/5014_ext_99_1.pdf) does not disclose a universal allocation; the following table states the evidence required for any preference claim.
 
-Lifers are the dominant single buyer for both products, but their motivation differs: JHF MBS is a JGB-substitute long-duration holding; private RMBS is a spread allocation.
+| Investor claim | JHF MBS evidence | Private RMBS evidence |
+|---|---|---|
+| Holder category | Named allocation / holdings disclosure and date | Same |
+| Amount / share | Named series, denominator and reporting population | Named transaction, denominator and reporting population |
+| ALM / spread motive | Investor's own public statement | Investor's own public statement |
+| Foreign participation | Dated allocation or holdings evidence | Dated allocation or holdings evidence |
+| Relative preference | Matched institution, period and comparable instruments | Same comparison |
+
+No dominant buyer, JGB-substitute motive or private-RMBS allocation pattern is retained without that evidence.
 
 ## 6. Curve dynamics
 
-| Environment | JHF MBS spread | Private RMBS spread |
-|---|---|---|
-| BoJ YCC (yield-curve control) era | Compressed; all yen-credit tight | Compressed; thin spread to JHF |
-| Post-YCC normalization | Widens with curve volatility | Widens more (less liquid) |
-| Risk-off events | Modest widening (sovereign-linked) | Larger widening (private credit risk) |
-| Issuance surge | Modest impact (monthly cadence) | Larger impact (intermittent supply concentration) |
+[JHF's dated history](https://www.jhf.go.jp/files/topics/5014_ext_99_1.pdf) and a named private transaction can support the following event-window comparison.
 
-In stress environments, the spread gap widens because private RMBS investors demand more compensation while JHF MBS continues to anchor near sovereign curve.
+| Environment | Required JHF observation | Required private-RMBS observation |
+|---|---|---|
+| Monetary-policy regime | Named series, pricing date, benchmark and regime dates | Same fields for the named deal |
+| Risk-off window | Primary / secondary observation and market date | Same |
+| Issuance window | Dated supply measure and comparison period | Same |
+| Liquidity claim | Quote source, bid / offer or turnover measure | Same |
+
+No fixed direction or relative widening is asserted without a matched event study.
 
 ## 7. Implications for structuring decisions
 
-| Originator | Reasoning |
-|---|---|
-| Originate Flat 35 → sell to JHF | Long-tenor fixed-rate book funded via JHF; capital-relief; spread economics favorable |
-| Originate variable-rate jumbo → securitize as private RMBS | Diversifies funding, capital relief, retains origination relationship |
-| Originate variable-rate jumbo → hold on balance sheet | If private RMBS spread economics don't justify securitization cost |
+[JHF's securitization-support description](https://www.jhf.go.jp/english/mbs_faq.html) supports only the Flat 35 route in the following table; other choices remain transaction-specific.
 
-The JHF / private spread gap is a key economic input into bank-originator securitization-vs-hold decisions.
+| Originator choice | Evidence-based reading |
+|---|---|
+| Originate eligible Flat 35 and sell to JHF | JHF purchases eligible loans and funds the program through MBS issuance. |
+| Execute a private RMBS | Requires a named pool, legal structure, enhancement, investor terms and dated pricing evidence. |
+| Retain loans | Compare the institution's actual funding, capital, liquidity and accounting treatment; no generic spread threshold is stated here. |
+
+Pricing is one input, but the decision cannot be inferred from an uncited JHF/private spread gap.
 
 ## 8. Rating-agency treatment
 
-| Agency | JHF MBS | Private RMBS |
+[FSA's current register](https://www.fsa.go.jp/menkyo/menkyoj/shinyoukakuduke.pdf), the dated JHF issue record and each agency's named action support the following controls.
+
+| Rating question | JHF MBS | Private RMBS |
 |---|---|---|
-| JCR | Sovereign-adjacent rating treatment | Standard structured-credit methodology |
-| R&I | Sovereign-adjacent rating treatment | Standard structured-credit methodology |
-| S&P / Moody's / Fitch | Sovereign-linked when rated | Standard structured-credit methodology |
+| Agency / legal entity | Read the named series action and current registration | Read the named class action and current registration |
+| Rating | Record symbol, date, outlook / watch and action | Same |
+| Criteria | Record the version cited by the action | Same |
+| Sovereign relationship | Use the published agency rationale | Do not infer from the asset class |
+| Spread implication | Requires dated market pricing | Same; never infer basis points from the rating |
 
 See [[structured-finance/credit-rating-methodology-jcr-r-and-i]] for rating-agency methodology details.
+
+## Wiki route
+
+Read this entry within [[structured-finance/INDEX|structured finance]] and use [[finance/INDEX|finance]] for cross-domain capital-markets context.
 
 ## Related
 
@@ -140,8 +157,8 @@ See [[structured-finance/credit-rating-methodology-jcr-r-and-i]] for rating-agen
 
 ## Sources
 
-- Japan Housing Finance Agency, IR pages.
-- JCR (Japan Credit Rating Agency), structured-finance methodology.
-- R&I (Rating and Investment Information), structured-finance methodology.
-- JSDA (Japan Securities Dealers Association).
-- Megabank IR (MUFG, SMFG, Mizuho FG).
+- [JHF, MBS issuance history as of April 17, 2026](https://www.jhf.go.jp/files/topics/5014_ext_99_1.pdf).
+- [JHF, FAQs about MBS](https://www.jhf.go.jp/english/mbs_faq.html).
+- [JHF, factors and other monthly pool data](https://www.jhf.go.jp/about/investor/shisan_tanpo/kihatsu/factor.html).
+- [JSDA, Securitization Market](https://www.jsda.or.jp/en/statistics/securitization-market/).
+- [FSA, registered credit rating agencies](https://www.fsa.go.jp/menkyo/menkyoj/shinyoukakuduke.pdf).

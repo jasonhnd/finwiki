@@ -1,20 +1,20 @@
 ---
 source: derivatives/japan-irs-market
-source_hash: 620e9585f44b81d4
+source_hash: c07c36c0ab6999f3
 lang: en
 status: machine
 fidelity: ok
 title: "Japan yen interest-rate swap (IRS) market"
-translated_at: 2026-05-31T03:19:56.479Z
+translated_at: 2026-07-29T21:20:00.000Z
 ---
 
 # Japan yen interest-rate swap (IRS) market
 
 ## TL;DR
 
-The yen interest-rate swap (IRS) market is the OTC derivative venue in which two counterparties exchange a stream of fixed JPY-denominated interest payments for a stream of floating-rate JPY payments over a defined tenor. It is the dominant interest-rate-hedging instrument for Japanese banks, life insurers, corporates, and foreign investors managing JPY exposure.
+The yen interest-rate swap (IRS) market is the OTC derivative venue in which two counterparties exchange defined fixed and floating JPY interest cash flows over a stated tenor. Institution-specific use, direction, and product share require dated transaction or portfolio evidence.
 
-The floating reference has historically been 1-month, 3-month, or 6-month TIBOR; post-LIBOR-cessation, an increasing share of the curve references TONA-compounded-in-arrears (overlapping with the OIS market — see [[derivatives/ois-tona-curve]]). Tenors trade from 1Y out to 30Y and beyond; the most liquid points concentrate at 2Y, 3Y, 5Y, 7Y, 10Y, 20Y, and 30Y.
+Japanese Yen TIBOR remains active, while TONA underlies OIS and applicable JPY RFR fallbacks (see [[derivatives/ois-tona-curve]]). A current claim about product share or tenor liquidity requires a dated venue, trade-repository, or dealer dataset with the relevant benchmark and instrument scope.
 
 For FinWiki, this entry covers fixed-floating swap mechanics, the TIBOR-to-TONA migration alongside continued TIBOR-IRS, notional outstanding, dealer-bank franchise structure, JSCC clearing mandate, and end-user composition (corporates vs financial institutions).
 
@@ -42,18 +42,18 @@ The economic content: the fixed-rate payer locks in a known funding cost over th
 
 JPY IRS reference rates have evolved through the IBOR transition:
 
-| Reference rate | Status | Typical use |
+| Reference rate | Verified status | Contractual point |
 |---|---|---|
-| 1-month TIBOR | Active; administered by JBATA | Some loan-linked IRS, structured products. |
-| 3-month TIBOR | Active; administered by JBATA | Significant share of legacy and new JPY IRS, especially corporate-loan-linked hedging. |
-| 6-month TIBOR | Active; administered by JBATA | Long-tenor IRS, especially insurance-linked. |
-| TONA (compounded-in-arrears) | Risk-free rate (RFR); designated post-LIBOR | New OIS and increasingly new short-to-medium-tenor IRS; the discount-curve reference (see [[derivatives/ois-tona-curve]]). |
-| JPY LIBOR (1M, 3M, 6M) | Ceased end-2021 (synthetic phase-out 2023) | Legacy contracts amended via ISDA Fallback Protocol to TONA + CAS. |
-| Euroyen TIBOR (Z-TIBOR) | Discontinued December 2024 | Historical use only. |
+| Japanese Yen TIBOR | Active and administered by JBATA | Tenor and fallback terms must be read from the transaction |
+| TONA | BOJ-published uncollateralized overnight call rate | Compounded TONA is used in OIS and as the JPY RFR component of applicable fallbacks |
+| Panel-bank JPY LIBOR settings | Ceased or became non-representative after 31 December 2021 | Covered legacy derivatives use their contractual or protocol fallback |
+| Synthetic 1M, 3M, and 6M JPY LIBOR | Permanently ceased after 31 December 2022 | Temporary UK-regulated bridge; it did not postpone the ISDA non-representativeness trigger |
+| Euroyen TIBOR | Final publication on 30 December 2024 | JBATA announced no successor administrator or synthetic Euroyen TIBOR |
 
+Sources: ^[source:https://www.jbatibor.or.jp/english/reform/] ^[source:https://www.jbatibor.or.jp/english/news/tibor_18.html] ^[source:https://www.fca.org.uk/markets/transition-libor/benchmarks-regulation-powers-policy-decision-making] ^[source:https://www.boj.or.jp/en/statistics/market/short/mutan/index.htm]
 The migration matters because:
 
-1. New JPY IRS issuance increasingly references TONA-compounded for cleared, standardized swaps.
+1. TONA-compounded and Japanese Yen TIBOR products coexist; their dated new-trade shares require a venue or reporting dataset.
 2. TIBOR-referencing IRS continues to coexist for term-fix loan-hedging applications.
 3. The TIBOR-TONA basis (in basis points) is a tradable quote that compensates for the credit-bank-funding component of TIBOR vs the risk-free TONA.
 4. Dealers run TIBOR-OIS and TIBOR-TONA basis books alongside outright IRS positions.
@@ -64,35 +64,26 @@ The dual-rate world is operationally complex but reflects the persistent demand 
 
 JPY interest-rate derivatives (IRS + OIS combined) are reported semi-annually in the BIS OTC Derivatives Statistics and in the BoJ's Japan portion of the survey:
 
-| Metric | Magnitude (illustrative — cite current BIS release for exact figures) |
+| Dataset field | Interpretation |
 |---|---|
-| Gross notional outstanding, JPY single-currency interest-rate derivatives | Tens of trillions of USD-equivalent in BIS aggregate JPY IRS / OIS / FRA category. |
-| Share of global IRS notional in JPY | One of the four largest currencies (USD, EUR, GBP, JPY); JPY share is meaningful but smaller than USD and EUR. |
-| Gross market value | A small fraction of notional (typically low single-digit percent), reflecting offsetting positions across the dealer book. |
+| Notional outstanding | Contractual reference amount at the reporting date; not a measure of daily turnover or loss exposure |
+| Gross market value | Sum of positive and negative replacement values before netting, as defined by the dataset |
+| Currency and reporting location | Global JPY totals and Japan-reporting-dealer totals use different populations and must not be mixed |
 
-The standard caution: notional outstanding is a stock measure of contract size; gross market value is a closer proxy to economic exposure; net exposure is much smaller still after netting agreements. Both BIS and BoJ publish all three measures in their semi-annual releases. For any current analysis, cite the exact survey vintage because the numbers update twice a year.
+Sources: ^[source:https://www.bis.org/statistics/derstats.htm] ^[source:https://www.boj.or.jp/en/statistics/bis/yoshi/index.htm]
 
-A meaningful share of new JPY IRS clears at JSCC; the clearing share has grown since the FSA clearing mandate took effect.
+For any current figure, cite the exact survey vintage, reporting population, currency, instrument, and unit.
 
-## Dealer Bank Revenue Split
+## Public dealer-data boundary
 
-The JPY IRS dealer franchise is dominated by Japanese megabank-affiliated securities firms plus global investment banks:
-
-| Dealer category | Representative firms |
-|---|---|
-| Japanese megabank securities affiliates | MUFG Securities, SMBC Nikko, Mizuho Securities (and their JPY-IRS market-making desks within the parent securities entities). |
-| Independent Japanese securities firms | Nomura (the largest non-megabank franchise), Daiwa Securities. |
-| Global investment banks active in JPY | JPMorgan, Goldman Sachs, Citi, Morgan Stanley, Deutsche Bank, Barclays, BNP Paribas, HSBC, UBS. |
-| Inter-dealer brokers | ICAP / Tradition / BGC / Tullett Prebon — provide anonymous IDB execution and indicative price discovery. |
-
-Revenue from JPY IRS market-making is reported in dealer-bank IR as part of "Fixed Income" or "Rates" within their wholesale / markets businesses. Public disclosures do not separately break out JPY-IRS P&L from the broader rates business, but franchise commentary in MUFG, SMFG, and Mizuho FG IR materials indicates that JPY rates is a meaningful contributor to their global-markets revenue.
+The official aggregate sources cited here do not establish a current dealer ranking, dealer-level JPY IRS market share, or JPY-IRS-only revenue. Firm names, “dominant” status, and revenue splits require a dated public venue dataset or a dealer filing with that specific product and currency scope; broader fixed-income or markets revenue is not a substitute.
 
 The franchise economics depend on:
 
-- Two-sided bid-ask capture on client flow.
-- Inventory carry and run-rate revenue from warehoused positions.
-- Cross-product synergy with JGB cash, repo, CCBS, and FX-forward businesses.
-- Balance-sheet cost (RWA, LR, NSFR) as a regulatory drag.
+- contractual cash flows and bid-offer terms;
+- hedging and inventory outcomes;
+- collateral, funding, capital, and operational costs; and
+- default, liquidity, and basis risk.
 
 See [[banking/INDEX]] and the JapanFG anchor pages for the parent-group disclosure layer; see [[banking/japan-banking-license-tier-comparison-matrix]] for the FIEA registration that governs dealer activity.
 
@@ -109,7 +100,7 @@ See [[banking/INDEX]] and the JapanFG anchor pages for the parent-group disclosu
 | Foreign investors | Take views on Japan rates; relative-value Japan vs other major-currency curves; hedge JGB-cash duration. | Highly directional and tactical. |
 | Asset managers / pension funds | Duration management on JPY fixed-income mandates. | Mixed. |
 
-Life insurers are structurally the largest single category of long-tenor JPY IRS receive-fixed demand because their long-duration policy reserves create a duration gap against their asset side. This anchor demand explains the deep liquidity at 20Y and 30Y tenors.
+The table lists possible hedge mappings, not observed positions. Claims about life-insurer direction, category rank, or 20Y/30Y liquidity require dated transaction, venue, or portfolio data.
 
 Corporate end-user flow detail is covered in [[finance/japan-corporate-fx-and-rate-hedge-policy]].
 
@@ -120,17 +111,19 @@ The FSA under FIEA implemented a clearing mandate for standardized JPY IRS, requ
 | Element | Detail |
 |---|---|
 | CCP | Japan Securities Clearing Corporation (JSCC). |
-| Mandated products | Standardized JPY IRS at major tenors, with cleared reference indices; expanded over multiple rule cycles. |
-| Covered counterparties | Major Japanese financial institutions; expanded over time to include more entities. |
-| Margin | IM and VM under JSCC's portfolio-margining methodology; settled in JPY cash. |
-| Default management | JSCC waterfall (defaulter margin → defaulter contribution → JSCC capital tranche → non-defaulting member fund → further resources). |
+| Eligible product set | OIS, D-TIBOR IRS, D-TIBOR tenor swaps, OIS basis swaps, and OIS-versus-D-TIBOR basis swaps under current JSCC criteria |
+| Scope caution | Eligibility is not itself proof that a particular counterparty pair is subject to a statutory clearing mandate |
+| Client clearing | JSCC publishes a client-clearing framework for eligible submissions |
+| Governing detail | Current JSCC IRS rules and procedures control acceptance, margin, and default management |
 
-The clearing share of JPY IRS at JSCC has grown materially. Cleared trades benefit from:
+Sources: ^[source:https://www.jpx.co.jp/jscc/en/cash/irs/product.html] ^[source:https://www.jpx.co.jp/jscc/en/otc/client.html] ^[source:https://www.jpx.co.jp/jscc/en/rule/rule_irs.html]
 
-- Multilateral netting reducing gross exposure.
-- Standardized margin methodology removing bilateral negotiation friction.
-- Removal of bilateral counterparty risk; CCP risk concentrated and stress-tested.
-- Capital relief relative to non-cleared trades (under Basel framework).
+Clearing changes the risk and operational structure of a trade. Potential effects include:
+
+- multilateral netting where positions and legal arrangements qualify;
+- standardized CCP margin and default-management rules;
+- replacement of bilateral counterparty exposure with exposure to the CCP framework; and
+- capital effects that depend on the institution, product, and applicable rules.
 
 Non-cleared bilateral JPY IRS continues for: non-standard tenors, non-standard reset conventions, structured trades, and counterparties not subject to the mandate. Non-cleared trades are subject to UMR (Uncleared Margin Rules) phase-in IM requirements.
 

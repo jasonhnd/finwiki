@@ -1,17 +1,18 @@
 ---
 source: structured-finance/fitch-moody-sp-japan-criteria
-source_hash: b30514a0576fdf52
+source_hash: d78a857743d91be7
 lang: en
 status: machine
 fidelity: ok
 title: "Fitch / Moody's / S&P Japan structured-finance criteria — global agencies vs JCR / R&I"
-translated_at: 2026-06-01T04:15:40.114Z
+translated_at: 2026-07-29T09:38:56.815Z
 ---
+
 # Fitch / Moody's / S&P Japan structured-finance criteria — global agencies vs JCR / R&I
 
 ## TL;DR
 
-Japanese securitisations are dual-rated: the domestic agencies [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR and R&I]] cover the yen-denominated investor base (life insurers, regional banks, [[regional-banks/japan-post-bank|Japan Post Bank]]), while Moody's, S&P, and Fitch are added when the deal targets foreign investors or USD-denominated tranches. The split-rating gap can be 1–3 notches at the senior layer, driven by (i) the **sovereign-rating cap** — global agencies cap Japanese structured tranches at or below the Japan sovereign rating (currently A+/A1), whereas JCR and R&I rate the sovereign AAA / AA+ domestically; (ii) differences in **recovery assumptions** on Japanese mortgage and auto pools (global agencies are typically more conservative on residential foreclosure timing and rural-collateral resale value); (iii) tighter **transition matrices** at the global agencies that produce higher modelled default frequencies for the same pool. The result is that a senior auto-ABS tranche rated AAA by JCR is often rated A or AA by S&P, which then determines whether a foreign asset manager can hold it in a global IG mandate.
+A reliable agency comparison starts with the same named transaction, tranche, rating date and criteria version. The prior blanket claims—dual ratings as a rule, a 1–3-notch split, fixed recovery gaps, and a sovereign ceiling that prevents Japanese RMBS from receiving AAA—are not supported. S&P's public criteria explain that a sovereign rating is not an absolute ceiling. Moody's and Fitch conclusions must likewise come from their applicable criteria and a named rating action, not from an invented “global-agency” composite.
 
 ## Wiki route
 
@@ -19,96 +20,84 @@ This entry sits under [[structured-finance/INDEX|structured-finance index]] as t
 
 ## 1. The three global agencies — Japan structured-finance footprint
 
-| Agency | Japan SF focus | Office | Typical mandates |
-|---|---|---|---|
-| **Moody's Japan K.K.** | RMBS, auto ABS, CMBS, consumer ABS, repackaging notes | Tokyo | Cross-border tranches, foreign-investor-marketed deals |
-| **S&P Global Ratings Japan** | RMBS, ABCP conduits, auto ABS, CLO investor analysis | Tokyo | Megabank-sponsored deals, USD-denominated tranches |
-| **Fitch Ratings Japan** | RMBS, auto ABS, repackaging, occasional CMBS | Tokyo | Foreign-investor demand-driven mandates |
+[FSA's current register](https://www.fsa.go.jp/menkyo/menkyoj/shinyoukakuduke.pdf) supports only the Japan-registration boundary in the following table.
 
-All three are registered as **credit rating agencies** under the FSA's [[financial-regulators/japan-exchange-group|JPX]]-adjacent regulatory regime (originally the 2010 amendments to the Financial Instruments and Exchange Act that imposed registration and conduct rules after the 2008 crisis).
+| Agency group | What can be verified here | What requires separate evidence |
+|---|---|---|---|
+| Moody's Japan legal entity | Current FSA register entry | Asset-class footprint, mandate and rating require a named public rating action |
+| S&P Japan legal entity | Current FSA register entry | Same; apply the criteria cited by the named action |
+| Fitch Japan legal entity | Current FSA register entry | Same; do not infer activity from group branding |
+
+For each legal entity, recheck the current status and exact entry in the FSA register. Group branding does not establish Japan registration or activity.
 
 ## 2. Sovereign-rating cap — the structural ceiling
 
-Global agencies apply a **sovereign-rating cap (or "country ceiling")** to structured-finance issuances. The mechanism:
+[S&P's official structured-finance criteria library](https://www.spglobal.com/ratings/en/regulatory/ratings-criteria/-/articles/criteria/structured-finance/filter/general) supports the following evidence rules and expressly rejects treating the sovereign rating as an absolute ceiling.
 
-| Step | Rule |
+| Question | Evidence rule |
 |---|---|
-| Country ceiling | The cap on any structured-finance tranche issued out of a given jurisdiction, anchored to the sovereign rating |
-| Japan sovereign rating | S&P: A+ / Moody's: A1 / Fitch: A (as of recent cycle, historically downgraded from AA / Aa during the 2010s) |
-| Tranche ceiling | Typically equal to or one notch above the sovereign ceiling for highly-rated structured-finance instruments meeting "rated above sovereign" criteria |
-| Result | A Japanese RMBS senior tranche cannot easily be rated AAA by S&P, even if the underlying pool would otherwise qualify — typical ceiling AA+ / AA |
-
-By contrast, **JCR and R&I rate the Japan sovereign AAA (or AA+)** on the domestic scale, which has no country ceiling problem. So a senior tranche that earns AAA from JCR routinely lands at AA / AA- from S&P — a 2-notch split at the senior layer.
+| Can a structured-finance rating exceed the sovereign? | Apply the named agency's current “ratings above the sovereign” and structured-finance criteria; do not impose a blanket cap |
+| What is Japan's sovereign rating? | Use the agency's dated sovereign rating action, not a timeless value |
+| What constrains a named tranche? | Cite the transaction report's sovereign, transfer-and-convertibility, counterparty and asset analysis |
+| Is there a split rating? | Compare the same tranche on the same date; record each agency's own scale |
+| What causes a gap? | Use the agencies' published transaction rationales; do not infer a fixed number of notches |
 
 ## 3. Differences in modelling assumptions
 
 ### 3a. Default frequency / transition matrix
 
-Global agencies use long-horizon **transition matrices** derived from multi-jurisdiction default datasets (largely US, EU, UK). Applied to a Japanese pool, this produces higher modelled default frequencies than the JCR / R&I domestic-experience-based matrices, which reflect (i) lower Japanese consumer-default rates historically, (ii) cultural payment discipline, and (iii) lower foreclosure rates on residential mortgages even during the 1997–2003 banking crisis.
+Default-frequency data, calibration geography and transition assumptions vary by agency, asset class and criteria version. Record them only when the applicable criteria or named transaction report publishes them; “cultural payment discipline” is not a methodology input supported here.
 
 ### 3b. Recovery assumption
 
-| Asset class | JCR / R&I assumption | Global-agency assumption | Gap |
-|---|---|---|---|
-| Residential mortgage (urban) | 60–75% LGD-adjusted recovery over 18–24 months | 50–65% over 24–36 months | Modest |
-| Residential mortgage (rural / regional) | 50–65% recovery | 35–50% (foreclosure liquidity / resale value haircut) | Material |
-| Auto loan | 35–45% recovery (used-car wholesale value) | 25–40% | Modest |
-| Consumer unsecured | 0–5% recovery | 0–5% | Negligible |
-| CMBS (Tokyo CBD office) | 65–80% recovery | 55–75% | Modest |
-| CMBS (regional retail / hotel) | 45–60% recovery | 30–50% | Material |
+[JCR's methodology library](https://www.jcr.co.jp/en/rrinfo/meth_sf/) and the applicable global agency criteria support only a document-by-document comparison in the following table.
 
-The rural-collateral recovery gap is the largest driver of split ratings in regional-pool deals.
+| Field | JCR or R&I evidence | S&P, Moody's or Fitch evidence |
+|---|---|---|---|
+| Asset and pool | Named criteria and transaction report | Same transaction and asset definition |
+| Recovery rate / severity | Published assumption, haircut and basis | Published assumption, haircut and basis |
+| Timing | Published recovery lag and scenario | Published recovery lag and scenario |
+| Geography | Disclosed segmentation and sample | Disclosed segmentation and sample |
+| Comparison | Calculate only after aligning definitions | No generic “domestic vs global” percentage band |
+
+Do not characterize any recovery difference as the largest driver of a split rating unless the named agencies' transaction rationales say so.
 
 ### 3c. Cash-flow stress
 
-Global agencies layer additional stress scenarios — interest-rate shocks, prepayment-rate stresses, servicer-disruption tail risk — that JCR / R&I either model less aggressively or treat as qualitative considerations.
+Interest-rate, prepayment, counterparty and servicing stresses must be compared from the cited criteria versions. This page does not rank one agency as categorically more or less aggressive.
 
 ## 4. Transition matrix differences — empirical observation
 
-JCR-rated SF tranches historically show very low transition rates (downgrades) compared to global-agency-rated tranches with the same nominal letter rating. The gap reflects (i) different modelling philosophies, (ii) different sample populations (JCR sample is overwhelmingly Japanese, global-agency sample is multi-jurisdiction), and (iii) JCR's stronger weighting of qualitative considerations (servicer strength, originator track record, [[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG]] / [[megabanks/mizuho-fg|Mizuho FG]] sponsor support).
-
-This is a contested point — JCR argues its domestic-anchored methodology better reflects actual Japanese pool performance; global agencies argue their methodologies are more conservative and globally-comparable.
+No transition-rate comparison is retained without matched cohorts, observation windows, withdrawals and rating scales. A sponsor name must not be treated as support unless the transaction report expressly describes and gives credit to a legally enforceable obligation.
 
 ## 5. Recent JCR / S&P split-rating cases — illustrative pattern
 
-Without naming specific transactions, the recurring pattern in publicly-disclosed JSDA SF statistics shows:
+[JCR's public rating list](https://jcr.co.jp/en/ratinglist/sf_sf/) and the other agency's named rating action are the required inputs for the following comparison.
 
-| Deal type | JCR typical | S&P / Moody's typical | Spread implication |
-|---|---|---|---|
-| Megabank-sponsored auto ABS (senior) | AAA | AA / AA+ | 5–15 bp pickup for foreign investors |
-| Regional-bank RMBS (senior) | AAA | A+ / AA- | 20–40 bp pickup |
-| CMBS senior (Tokyo CBD) | AAA | AA- / AA | 15–25 bp pickup |
-| CMBS senior (regional) | AA / AA+ | A / A+ | 30–60 bp pickup |
-| ABCP (megabank conduit) | A-1+ / J-1+ | A-1+ | Minimal |
-
-The 2010s saw periodic episodes where S&P or Moody's downgraded Japanese SF tranches that JCR continued to affirm, generating commentary from issuers and investors about methodology divergence.
+| Comparison item | Required public evidence |
+|---|---|
+| Transaction | Legal issuer, series and collateral |
+| Tranche | Same class and payment priority |
+| Rating | Each agency's dated symbol, outlook / watch and action |
+| Criteria | Version cited by each action |
+| Structural assumptions | Enhancement, counterparty and cash-flow stresses stated in each report |
+| Spread | Dated primary or secondary market observation; never infer basis points from rating symbols |
 
 ## 6. Why dual-rating still happens
 
-Despite the split-rating cost, dual or triple rating remains common because:
-
-1. **Foreign investor base** — global asset managers running global IG mandates require a global-agency rating to hold the bond; JCR-only is insufficient
-2. **Repo eligibility** — for cross-border repo (e.g., ECB collateral framework, US tri-party repo), only global-agency ratings count
-3. **Bank capital treatment** — under Basel III standardised approach, only ratings from recognised ECAIs count; in some jurisdictions JCR / R&I are not recognised
-4. **Marketing optics** — a global-agency rating signals "investable for foreign account" even if the pricing is set off JCR
-
-The dealer ([[securities-firms/mufg-securities|MUFG MS]] / [[securities-firms/smbc-nikko|SMBC Nikko]] / [[securities-firms/mizuho-securities|Mizuho Securities]]) chooses which agencies to engage based on the target investor list.
+An issuer may engage more than one agency, but the reason is transaction-specific. Investor mandates, regulatory recognition and collateral eligibility must be checked under the actual investor's jurisdiction and rules; this page does not assume that a “global” rating is required or sufficient.
 
 ## 7. Counterpoints
 
-- **"Sovereign-cap mechanical"** — Critics argue the country ceiling is overly mechanical and does not reflect that a domestic-currency JGB has never defaulted; well-structured Japanese SF tranches arguably deserve to be uncapped. Global agencies maintain the cap on transfer-and-convertibility-risk grounds even though Japan has no such restrictions
-- **"JCR / R&I too lenient"** — Foreign investors sometimes view JCR / R&I AAA ratings as inflated relative to S&P's AA-, and price closer to the global-agency level even when only the domestic rating is available
-- **"Transition-matrix sampling bias"** — JCR's defence that its sample better reflects Japan-specific behaviour is valid but creates a forward-looking blind spot if Japanese credit conditions converge with global norms (e.g., rising household leverage, mortgage stress under [[financial-regulators/boj|BOJ]] rate normalisation)
-- **"Tokyo-office staffing constraints"** — Global agencies cover Japan SF with smaller teams than the domestic agencies; some issuers report longer rating turnaround and less granular issuer engagement
-- **"Methodology updates create cliff risk"** — When global agencies update their structured-finance criteria, mass rating reviews can produce simultaneous downgrades across the Japanese SF universe, generating spread widening that JCR-only deals avoid
+- A letter-rating comparison without the same tranche and date is not evidence of leniency or conservatism.
+- A methodology revision can affect ratings, but any impact must be cited from the agency's review announcement.
+- Staffing, turnaround and investor perceptions are omitted unless supported by a public, specific source.
 
 ## 8. Open questions
 
-- How much of the split-rating gap closes if [[financial-regulators/boj|BOJ]] normalises rates and Japanese household default rates rise toward global averages
-- Whether FSA will eventually pressure global agencies to lift the sovereign-cap mechanism for high-quality Japanese SF
-- Whether new Japanese SF asset classes (ESG-linked auto ABS, green RMBS) will be rated by all five agencies or split by jurisdiction
-- The competitive position of [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I]] if more foreign investors enter the Japan SF market and demand global-agency ratings as default
-- Whether China-based agencies (Dagong, etc.) will gain footprint in Japan SF for cross-border-deal coverage
+- Which criteria version and transaction report governs the named tranche?
+- Are rating symbols, dates, currencies and payment priorities aligned?
+- Does a stated regulatory or investor use follow from a cited rule in the relevant jurisdiction?
 
 ## Related
 
@@ -124,15 +113,12 @@ The dealer ([[securities-firms/mufg-securities|MUFG MS]] / [[securities-firms/sm
 
 ## Sources
 
-- JCR official methodology — https://www.jcr.co.jp/en/
-- R&I official methodology — https://www.r-i.co.jp/en/
-- JSDA structured-finance statistics — https://www.jsda.or.jp/en/
-- Moody's Japan K.K. methodology library (public)
-- S&P Global Ratings Japan structured-finance criteria (public)
-- Fitch Ratings Japan structured-finance criteria (public)
-- FSA registered credit rating agencies list (public)
+- [FSA, registered credit rating agencies](https://www.fsa.go.jp/menkyo/menkyoj/shinyoukakuduke.pdf).
+- [S&P Global Ratings, structured-finance criteria library](https://www.spglobal.com/ratings/en/regulatory/ratings-criteria/-/articles/criteria/structured-finance/filter/general).
+- [JCR, structured-finance methodology library](https://www.jcr.co.jp/en/rrinfo/meth_sf/).
+- [JCR, structured-finance rating list](https://jcr.co.jp/en/ratinglist/sf_sf/).
 
 ---
 
-> [!info] Verification status
-> confidence: **likely**. Sovereign-cap mechanism and split-rating dynamics are well-documented in public methodology papers from all three global agencies and in JCR / R&I commentary. Specific recent split-rating cases are abstracted to avoid naming individual transactions. Transition-matrix numbers are illustrative and reflect typical industry-discussed gaps, not single-source claims.
+> [!info] 校核状态
+> confidence: **likely**. This page intentionally retains no unnamed split-rating case, fixed recovery range, spread implication or sovereign ceiling. Reproduce comparisons from named public rating actions.

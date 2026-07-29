@@ -11,99 +11,83 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/structured-finance/consumer-loan-abs-japan-card-issuer.md",
   "raw_markdown_url": "https://finwiki.zksc.io/structured-finance/consumer-loan-abs-japan-card-issuer.md",
   "domain": "structured-finance",
-  "title": "Consumer-loan / card-receivable ABS Japan (Aplus, Orico, JACCS, MUFG NICOS)",
+  "title": "Consumer-loan and card-receivable ABS in Japan — evidence guide",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Consumer-loan / card-receivable ABS Japan (Aplus, Orico, JACCS, MUFG NICOS)",
+    "title": "Consumer-loan and card-receivable ABS in Japan — evidence guide",
     "aliases": [
-      "Japan consumer ABS",
-      "Japan card-receivable ABS",
-      "カード債権ABS",
-      "Aplus ABS",
-      "Orico ABS",
-      "JACCS ABS",
-      "MUFG NICOS ABS",
-      "Japan consumer-finance securitization"
+      "Japan consumer loan ABS",
+      "Japan card issuer ABS",
+      "structured-finance/consumer-loan-abs-japan-card-issuer"
     ],
     "domain": "structured-finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "structured-finance",
       "abs",
-      "consumer-finance",
+      "consumer-loan",
       "card-receivable",
-      "japan",
-      "revolving"
+      "japan"
     ],
     "status": "active",
     "canonical_anchor": null,
     "related": [],
     "note": null,
     "sources": [
-      "https://www.jcr.co.jp/en/",
-      "https://www.r-i.co.jp/en/",
-      "https://www.jsda.or.jp/en/"
+      "https://www.jsda.or.jp/en/statistics/securitization-market/",
+      "https://www.jcr.co.jp/en/rrinfo/meth_sf/",
+      "https://www.jcr.co.jp/en/pdf/dm28/General_Methodology20210802.pdf",
+      "https://laws.e-gov.go.jp/law/329AC0000000100",
+      "https://laws.e-gov.go.jp/law/336AC0000000159"
     ]
   },
-  "summary": "Consumer-loan and card-receivable ABS in Japan are issued by major consumer-finance and card-issuing companies — card-issuers/aplus, card-issuers/orico, card-issuers/jaccs, card-issuers/mufg-nicos, and others — and use revolving-pool structures with early-amortization triggers. The asset class is st",
+  "summary": "The prior page presented a “main repeat issuer” list and generalized vehicle, revolving, trigger, enhancement, rating and investor mechanics without named public transactions. Those claims are removed. Consumer cash loans, shopping credit, card receivables and auto installment receivables are distin",
   "headings": [
-    "Consumer-loan / card-receivable ABS Japan (Aplus, Orico, JACCS, MUFG NICOS)",
+    "Consumer-loan and card-receivable ABS in Japan — evidence guide",
     "TL;DR",
     "Wiki route",
-    "1. Repeat issuers",
-    "2. Revolving structure",
-    "3. Early-amortization triggers",
-    "4. Cyclical default rate",
-    "5. Tranching",
-    "6. Credit enhancement",
-    "7. Vehicle choice"
+    "1. Issuer and asset identity",
+    "2. Legal and pool boundary",
+    "3. Performance and distribution",
+    "4. Deferred claims",
+    "Wiki route",
+    "Related",
+    "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 14,
+    "wikilinks_count": 5,
     "wikilinks": [
-      "card-issuers/aeon-financial-service",
-      "card-issuers/aplus",
-      "card-issuers/credit-saison",
-      "card-issuers/jaccs",
-      "card-issuers/jcb",
-      "card-issuers/mufg-nicos",
-      "card-issuers/orico",
+      "finance/INDEX",
       "structured-finance/INDEX",
-      "structured-finance/auto-loan-abs-japan-toyota-honda",
       "structured-finance/credit-rating-methodology-jcr-r-and-i",
-      "structured-finance/japan-abs-market-overview",
-      "structured-finance/japan-trust-beneficial-interest-vs-spv",
-      "structured-finance/spv-tk-gk-vehicle-japan-tax",
-      "trust-banks/sumitomo-mitsui-trust"
+      "structured-finance/japan-consumer-loan-abs-structure",
+      "structured-finance/japan-credit-card-receivable-abs"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/ja/card-issuers/aeon-financial-service/",
-      "https://finwiki.zksc.io/ja/card-issuers/aplus/",
-      "https://finwiki.zksc.io/ja/card-issuers/credit-saison/",
-      "https://finwiki.zksc.io/ja/card-issuers/jaccs/",
-      "https://finwiki.zksc.io/ja/card-issuers/jcb/",
-      "https://finwiki.zksc.io/ja/card-issuers/mufg-nicos/",
-      "https://finwiki.zksc.io/ja/card-issuers/orico/",
+      "https://finwiki.zksc.io/ja/domains/finance/",
       "https://finwiki.zksc.io/ja/domains/structured-finance/",
-      "https://finwiki.zksc.io/ja/structured-finance/auto-loan-abs-japan-toyota-honda/",
       "https://finwiki.zksc.io/ja/structured-finance/credit-rating-methodology-jcr-r-and-i/",
-      "https://finwiki.zksc.io/ja/structured-finance/japan-abs-market-overview/",
-      "https://finwiki.zksc.io/ja/structured-finance/japan-trust-beneficial-interest-vs-spv/",
-      "https://finwiki.zksc.io/ja/structured-finance/spv-tk-gk-vehicle-japan-tax/",
-      "https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/"
+      "https://finwiki.zksc.io/ja/structured-finance/japan-consumer-loan-abs-structure/",
+      "https://finwiki.zksc.io/ja/structured-finance/japan-credit-card-receivable-abs/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 5,
+    "external_links": [
+      "https://laws.e-gov.go.jp/law/329AC0000000100",
+      "https://laws.e-gov.go.jp/law/336AC0000000159",
+      "https://www.jcr.co.jp/en/pdf/dm28/General_Methodology20210802.pdf",
+      "https://www.jcr.co.jp/en/rrinfo/meth_sf/",
+      "https://www.jsda.or.jp/en/statistics/securitization-market/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 6766,
-    "word_like_tokens": 1032,
-    "inbound_wikilinks_count": 8,
-    "last_modified": "2026-06-06"
+    "nonspace_chars": 3787,
+    "word_like_tokens": 578,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-07-29"
   }
 }
