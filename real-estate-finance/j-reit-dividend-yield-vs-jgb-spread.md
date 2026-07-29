@@ -6,13 +6,12 @@ aliases:
   - "J-REIT yield vs JGB"
   - "Japan REIT JGB spread"
   - "J-REIT dividend-yield JGB-10Y"
-  - "Japan J-REIT risk premium"
-  - "TSE REIT Index yield"
+  - "J-REIT distribution-yield comparison"
 domain: real-estate-finance
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
 confidence: likely
 tags: [real-estate-finance, j-reit, jgb, yield-spread, ycc, life-insurer, post-nirp]
 status: active
@@ -30,7 +29,7 @@ sources:
 
 ## TL;DR
 
-The J-REIT dividend yield minus 10Y JGB yield spread is a primary watch metric for Japan real-estate-investor positioning. Historically the spread has sat in a roughly 200 - 400bp band around the TSE REIT Index average dividend yield. NIRP / YCC compression pinned the 10Y JGB near zero and pushed the spread wider in absolute terms even when J-REIT yields themselves compressed. Post-NIRP exit and YCC unwind raised the 10Y JGB reference and forced spread reading to reset. The spread also drives the life-insurer J-REIT vs JGB allocation trade-off, which is a recurring [[insurance/japan-life-insurance-alm-overview|life-insurer ALM]] decision. This is route-and-link only; not investment advice.
+The J-REIT distribution yield minus a matched-date 10-year JGB yield is a useful positioning metric, but the result depends on index constituents, price date and whether distributions are trailing or forecast. This page therefore does not present an unsupported timeless “historical band” or a 2026 forecast range. Reproduce any spread from a named J-REIT yield series and the [MoF historical JGB yield series](https://www.mof.go.jp/english/policy/jgbs/reference/interest_rate/index.htm) on the same observation date. This is methodology, not investment advice.
 
 ## Wiki route
 
@@ -38,149 +37,153 @@ This entry sits under [[real-estate-finance/INDEX]]. Read with [[real-estate-fin
 
 ## Spread Definition
 
+Table evidence (reviewed 2026-07-29): [JPX's TSE REIT Index factsheet](https://www.jpx.co.jp/english/markets/indices/factsheets/files/e_102_fac2_REIT.pdf), [ARES J-REIT data](https://www.ares.or.jp/action/jreit/), and [MoF historical JGB yields](https://www.mof.go.jp/english/policy/jgbs/reference/interest_rate/index.htm).
+
 | Term | Definition |
 |---|---|
-| J-REIT dividend yield | Index-level or vehicle-level distributions per unit over price per unit, trailing or forward. |
-| TSE REIT Index dividend yield | Index-level average across the listed J-REIT universe. |
+| Named J-REIT dividend-yield series | A specified index-level or vehicle-level distribution yield with documented constituents, weighting, price date and trailing or forecast convention. |
 | 10Y JGB yield | Benchmark 10-year Japanese government bond yield, MoF / BoJ data. |
-| Spread (bp) | J-REIT yield minus 10Y JGB yield, basis points. |
-| Index reading | Either the simple-average J-REIT yield or weighted-average; methodology matters for cross-comparison. |
-| Sector-mix adjustment | Office-heavy index has lower dividend yield than logistics-heavy or hospitality-heavy index. |
+| Spread (bp) | The named J-REIT yield minus the matched-date 10Y JGB yield, in basis points. |
+| Index methodology | Use the provider's documented calculation; do not call an independently constructed simple or weighted average “the TSE REIT Index dividend yield.” |
+| Sector-mix adjustment | Recalculate each dated index or portfolio from its actual constituents; no fixed office / logistics / hospitality yield ordering is assumed. |
 
 Exact dividend yield depends on which J-REIT vehicles are included (full TSE REIT Index vs sub-indices) and the dividend treatment (trailing 12-month vs forward-12 forecast).
 
 ## Historical Spread Range Map
 
-| Era | 10Y JGB anchor | J-REIT yield band | Spread band | Reading |
-|---|---|---|---|---|
-| Pre-NIRP (2010 - 2015) | 0.5 - 1.5% | 3.5 - 5.5% | 200 - 400bp | Conventional risk-premium reading. |
-| NIRP / YCC peak compression (2016 - 2022) | -0.1 - +0.25% YCC-pinned | 3.2 - 4.5% | 300 - 450bp | Wider spread reflected wider equity-risk-premium even as J-REIT yields compressed. |
-| Post-YCC normalisation (2023 - 2025) | 0.5 - 1.5% rising | 3.5 - 4.8% | 200 - 400bp | Reset toward pre-NIRP band as risk-free rose. |
-| 2026 expected band (indicative) | 1.0 - 1.5% | 3.8 - 5.0% | 250 - 400bp | Normalised; sector-mix-sensitive. |
+Table evidence (reviewed 2026-07-29): [BoJ policy statements and statistics](https://www.boj.or.jp/en/mopo/index.htm), [MoF JGB yields](https://www.mof.go.jp/english/policy/jgbs/reference/interest_rate/index.htm), and [ARES J-REIT data](https://www.ares.or.jp/action/jreit/). The table records regimes and a reproducible comparison rule, not invented range estimates.
 
-These bands are class descriptors derived from public-surface ARES J-REIT data and BoJ / MoF 10Y JGB time series. The exact reading depends on which index and which sub-period; verify against the published series before use.
+| Era | Rate-policy context | Required spread calculation |
+|---|---|---|
+| Pre-NIRP (through 2015) | Positive-rate regime before the negative-rate decision | Same-date named J-REIT yield minus MoF 10Y JGB yield |
+| NIRP / YCC (2016–2023) | Negative short rate and yield-curve-control regime | Same calculation, with policy dates identified |
+| NIRP exit (from 2024) | Negative-rate policy ended; market-based long yields regained importance | Same calculation; do not splice trailing and forecast distribution yields |
+| Current observation | No forecast band asserted | Record index, yield convention, price date, JGB date and result |
 
 ## Spread Mechanics
 
-The spread captures the equity risk premium investors require to hold listed real-estate equity over the JGB risk-free reference:
+The spread is only the arithmetic difference between two observed or documented yield series:
 
 ```
 Spread = J-REIT dividend yield - 10Y JGB yield
-       = (Asset cap rate - leverage cost + leverage effect) - Risk-free
-       ≈ Asset risk premium + Real-estate-equity premium + Leverage premium + Liquidity premium
 ```
 
-Component reading:
+It is not an identity for an equity risk premium, an asset cap rate, leverage, liquidity or expected growth. Those variables may be investigated separately, but cannot be recovered by decomposing this spread.
 
-| Component | Direction |
+Table evidence (reviewed 2026-07-29): [ARES](https://www.ares.or.jp/action/jreit/) supplies named J-REIT data and [MoF](https://www.mof.go.jp/english/policy/jgbs/reference/interest_rate/index.htm) supplies the matched government-bond comparator. The rows below state evidence boundaries, not an additive decomposition.
+
+| Separate analytical question | Evidence required |
 |---|---|
-| Asset cap rate level | Set by underlying real-estate market per [[real-estate-finance/real-estate-cap-rate-compression-2026]]. |
-| Leverage effect | J-REIT senior debt cost vs asset cap rate; positive when cap rate exceeds debt cost. |
-| Real-estate-equity premium | Investor compensation for cashflow volatility, vacancy risk, capex risk. |
-| Leverage premium | Compensation for financial-leverage risk at the J-REIT level. |
-| Liquidity premium | Compensation for listed-secondary-market liquidity (typically lower for J-REIT vs large-cap equity). |
-| Distribution-policy adjustment | J-REIT 90% distribution rule (per [[real-estate-finance/jrei-foreign-investment-tax-treatment]]) caps re-investment and shifts pricing logic. |
+| Property-market yield | Use matched property appraisal or transaction evidence; a listed distribution yield is not an asset cap rate. |
+| Leverage association | Use issuer debt, asset, cash-flow and distribution data and state the causal design; a positive asset-yield-minus-debt-cost observation alone does not establish the effect on unit yield. |
+| Liquidity association | Use dated bid-ask spread, turnover and market-impact data; the JGB spread itself does not measure liquidity. |
+| Distribution and tax | Distribution of more than 90% of distributable income is one statutory conduit condition; it is neither a complete account of J-REIT tax treatment nor by itself a cap on reinvestment. |
 
 ## Post-NIRP Compression Pattern
 
 NIRP / YCC era compression observations:
 
+Table evidence (reviewed 2026-07-29): [BoJ monetary-policy history](https://www.boj.or.jp/en/mopo/index.htm) establishes the policy regime. Claims about J-REIT valuation require a matched ARES/issuer price-and-distribution observation and are phrased conditionally below.
+
 | Effect | Mechanism |
 |---|---|
 | 10Y JGB anchored near zero | YCC band kept 10Y JGB within a narrow controlled range. |
-| Reach-for-yield demand | Domestic insurance, pension, retail investor demand for any yielding asset compressed J-REIT dividend yield. |
-| Foreign-buyer demand | Cross-border yen-funded carry into J-REIT compressed yield further. |
-| Spread widening despite compression | Absolute spread widened because JGB fell faster than J-REIT yield. |
-| Valuation overshoot at trough | Mid-2020 to mid-2022 saw price-to-NAV premiums for prime J-REIT vehicles. |
+| Reach-for-yield hypothesis | Test whether dated JPX investor-type flow coincided with a falling matched J-REIT yield; the policy regime alone does not establish domestic insurance, pension or retail causality. |
+| Foreign-carry hypothesis | Test contemporaneous JPX foreign trading flow together with a same-date J-REIT return and executable FX-hedge inputs; no automatic compression effect is assumed. |
+| Spread arithmetic check | Calculate whether the matched JGB yield fell faster than the selected J-REIT yield instead of inferring widening from the regime label. |
+| Price-to-NAV check | Compare dated price and issuer-reported NAV for named vehicles; no market-wide 2020–2022 premium or “valuation overshoot” is asserted without those observations. |
 
-YCC unwind from 2023 forced:
+A dated test of the YCC unwind from 2023 should check:
 
-- 10Y JGB rate to rise materially from near-zero anchor;
-- J-REIT secondary-market price re-rating downward;
-- spread compression in absolute terms as JGB rose faster than J-REIT yield could adjust;
-- selective J-REIT vehicles trading at discount-to-NAV as risk-free reset.
+- the same-date change in the 10Y JGB yield;
+- the price and distribution-yield change for a named J-REIT series;
+- the resulting spread rather than an assumed direction;
+- issuer-reported NAV and market price for any claimed discount-to-NAV.
 
 ## BoJ YCC Unwind Impact
 
-The YCC unwind path is the primary driver of the post-2023 spread reset. Mechanically:
+To test the YCC unwind as a driver of a post-2023 spread reset, use dated inputs:
 
 | YCC stage | Effect on J-REIT-vs-JGB spread |
 |---|---|
-| YCC strict (-0.1% policy rate, 10Y JGB capped) | Spread sat wide; J-REIT yield offered substantial pickup over JGB. |
-| YCC band widening (2022 - 2023) | 10Y JGB allowed wider range; spread compressed as JGB drifted up. |
-| YCC unwind / NIRP exit (2024) | 10Y JGB no longer pinned; spread compressed further on rising risk-free. |
-| Post-YCC normalisation (2025+) | Spread settling around historical pre-NIRP band; sensitive to BoJ policy-rate path. |
+| YCC strict (-0.1% policy rate, 10Y JGB capped) | Record the policy date and calculate the named J-REIT yield pickup over the same-date JGB. |
+| YCC band widening (2022 - 2023) | Recalculate the spread at each policy observation; do not assume compression from a wider JGB range alone. |
+| YCC unwind / NIRP exit (2024) | Recalculate with the market JGB yield and the same J-REIT yield convention; direction is an output. |
+| Post-YCC normalisation (2025+) | No settled band is assumed; calculate the spread from a named yield series and matched JGB date, then compare with a consistently constructed pre-NIRP series. |
 
 Read with [[money-market/japan-money-market|Japan money market]] for the YCC mechanism and policy-rate path detail, and [[banking/INDEX|BoJ FSR]] for system-level spread commentary.
 
 ## Life-Insurer J-REIT vs JGB Allocation Trade-Off
 
-Life insurers run the most direct version of this allocation choice because:
+To test a possible life-insurer allocation trade-off, first establish the institution-specific liability duration, actuarial assumptions, currency, regulatory-capital treatment and investment mandate. Do not infer that a particular JGB tenor is the insurer's hedge or that J-REIT is in the same decision bucket without those disclosures.
 
-- liability discount rate / actuarial reference is JGB-linked;
-- super-long JGB (20Y / 30Y / 40Y) is the natural ALM hedge;
-- J-REIT is a return-seeking allocation that pays yield but with equity-style volatility;
-- regulatory capital treatment differs between JGB (zero / low risk-weight) and J-REIT equity (equity-risk-weight).
+Table evidence (reviewed 2026-07-29): [BoJ Financial System Reports](https://www.boj.or.jp/en/research/brp/fsr/index.htm) provide financial-institution context and [MoF](https://www.mof.go.jp/english/policy/jgbs/reference/interest_rate/index.htm) provides the JGB curve. The allocation “tilt” is a framework, not observed insurer transaction data.
 
-| Period | JGB attractiveness | J-REIT attractiveness | Allocation tilt |
+| Period | JGB observation | J-REIT observation | Allocation hypothesis / check |
 |---|---|---|---|
-| Pre-NIRP | Moderate yields | Yield pickup but volatility | Balanced JGB / J-REIT allocation. |
-| NIRP / YCC peak | Yields near zero | Material yield pickup; large absolute spread | Tilt to J-REIT and yield-seeking assets. |
-| Post-YCC normalisation | Super-long JGB yields rising and ALM-friendly | Spread narrowing; risk-adjusted attractiveness declines | Re-tilt to JGB and reduce J-REIT pace. |
-| 2026 expected | Super-long JGB attractive for ALM | J-REIT spread normalised | Stabilised allocation with sector-selection focus. |
+| Pre-NIRP | Measure the dated super-long JGB curve | Measure the named J-REIT yield and volatility | Do not assume a balanced allocation; check insurer disclosures or observed flow. |
+| NIRP / YCC peak | Record the dated JGB curve | Calculate the dated yield pickup and volatility | Test whether disclosed insurer allocation or JPX category flow increased; do not infer a tilt from the spread alone. |
+| Post-YCC normalisation | Record the dated super-long JGB change | Recalculate the matched spread and risk measures | Test, rather than assert, reallocation to JGB or a slower J-REIT purchase pace. |
+| Current observation | Measure from the current super-long JGB curve | Measure from a named J-REIT yield series | No allocation forecast asserted |
 
-This trade-off is the structural reason life-insurer flows reshape J-REIT secondary-market liquidity around regime changes. Detailed life-insurer ALM logic sits at [[insurance/japan-life-insurance-alm-overview]].
+This trade-off is an analytical hypothesis. Establishing an effect on J-REIT secondary-market liquidity requires dated insurer disclosures or category flow and matched market data; the rate regime alone is not evidence of reallocation. Detailed life-insurer ALM logic sits at [[insurance/japan-life-insurance-alm-overview]].
 
 ## Other Domestic Buyer Reads
 
+Table evidence (reviewed 2026-07-29): [JPX investor-type statistics](https://www.jpx.co.jp/english/markets/statistics-equities/investor-type/index.html) identify aggregate trading categories. The sensitivity descriptions are analytical and do not infer beneficial ownership from nominee trading.
+
 | Buyer | Spread sensitivity |
 |---|---|
-| Pension funds (DB / DC) | J-REIT is a return-seeking allocation alongside listed equity and global REIT; spread is one input to allocation. |
-| Retail investors (NISA, brokerage) | Dividend-yield-driven; absolute J-REIT yield matters more than spread. |
-| Regional banks | Securities-portfolio diversification; J-REIT competes with JGB and listed equity for yield allocation. |
-| Trust banks (own-account) | Limited own-account J-REIT; more relevant as fiduciary holder for trust beneficiaries. |
-| Foreign investors | Spread and FX carry both relevant; see [[real-estate-finance/j-reit-foreign-investor-ownership]]. |
+| Pension funds (DB / DC) | Test the hypothesis with mandate, allocation and flow data; do not infer a return-seeking bucket from investor type alone. |
+| Retail investors (NISA, brokerage) | Test yield sensitivity with account-level or category-flow evidence and matched prices; do not assume absolute yield dominates the spread. |
+| Regional banks | Use securities-portfolio disclosures, capital rules and transactions to test whether J-REIT and JGB allocations were substitutes. |
+| Trust banks | Separate own-account positions from fiduciary or nominee holdings using institution-specific disclosure. |
+| Foreign investors | Test spread and FX-carry hypotheses with dated flow, return, currency and hedge data; see [[real-estate-finance/j-reit-foreign-investor-ownership]]. |
 
 ## Sector-Mix Sensitivity
 
-J-REIT dividend yield is sector-mix-driven:
+Sector composition can confound yield comparisons, so each test must retain the dated constituent weights and yield convention:
 
-| J-REIT sector | Yield-class implication |
+Table evidence (reviewed 2026-07-29): [JPX's TSE REIT Index factsheet](https://www.jpx.co.jp/english/markets/indices/factsheets/files/e_102_fac2_REIT.pdf), [JPX listed issues](https://www.jpx.co.jp/english/equities/products/reits/issues/index.html), and issuer distributions. Yield ordering is not fixed and must be recalculated at the comparison date.
+
+| J-REIT sector | Dated comparison checklist |
 |---|---|
-| Diversified | Mid-yield class, broad sector exposure. |
-| Office-focused | Lower-yield class, lower cap rate. |
-| Logistics-focused | Mid-to-higher yield class, growth-driven distribution growth. |
-| Residential-focused | Mid-yield class, stable distribution. |
-| Hospitality-focused | Higher-yield class, distribution-volatility-sensitive. |
-| Retail-focused | Mid-to-higher yield class, anchor-tenant sensitive. |
-| Healthcare / specialty | Higher-yield class, niche-asset-class. |
+| Diversified | Calculate the vehicle yield and disclose its current sleeve weights. |
+| Office-focused | Use the same price date and distribution convention; do not infer yield from office cap rates alone. |
+| Logistics-focused | Measure current yield and distribution assumptions; do not assume a premium to office. |
+| Residential-focused | Measure current yield, occupancy and distribution assumptions; stability is not presumed. |
+| Hospitality-focused | Measure current yield and the period-specific distribution base, including variable-income exposure. |
+| Retail-focused | Measure current yield and tenant / lease concentration rather than assigning a fixed yield class. |
+| Healthcare / specialty | Measure the named vehicle; niche-asset status does not determine yield ordering. |
 
-Index-level dividend yield reflects sector weighting; comparing two sub-indices with different sector mix requires sector-mix adjustment.
+Comparing two sub-indices with different sector composition requires a documented reweighting or an explicit statement that the mixes differ; the table does not assert a causal sector effect.
 
-## Spread vs Foreign-Buyer Behaviour
+## Foreign-Buyer Carry Hypothesis
 
-Foreign-buyer carry on J-REIT integrates:
+A foreign-buyer carry test for J-REIT uses:
+
+Table evidence (reviewed 2026-07-29): [BoJ statistics](https://www.boj.or.jp/en/statistics/index.htm), [MoF JGB yields](https://www.mof.go.jp/english/policy/jgbs/reference/interest_rate/index.htm), and the named J-REIT distribution/price series. Hedge cost must be a same-currency, same-tenor executable or documented quote.
 
 | Component | Reading |
 |---|---|
 | Local-currency yield | J-REIT dividend yield. |
-| FX hedge cost | Yen-vs-foreign-currency hedge cost (significant for USD investors). |
-| Hedged yield | Local-currency yield minus FX hedge cost. |
-| Hedged spread | Hedged yield minus comparable foreign-currency benchmark (e.g. US Treasury 10Y). |
+| FX hedge input | A dated executable or documented quote for the investor's actual currency, tenor and instrument. |
+| Simplified hedged yield | Local-currency yield minus the documented hedge input; identify omitted basis, margin, tax and implementation costs. |
+| Simplified hedged spread | Simplified hedged yield minus a documented benchmark matched to the investor's currency and horizon. |
 
-When FX hedge cost exceeds local-currency yield pickup, foreign carry breaks; unhedged carry is a different bet entirely. Foreign-ownership patterns and price-impact dynamics are mapped at [[real-estate-finance/j-reit-foreign-investor-ownership]].
+If the measured FX hedge cost exceeds the matched local-currency yield pickup, the simplified hedged-carry arithmetic can become unattractive. Whether foreign flow changes must be tested against contemporaneous JPX data; unhedged exposure is a separate FX-return scenario. Foreign-ownership and flow evidence boundaries are mapped at [[real-estate-finance/j-reit-foreign-investor-ownership]].
 
 ## Spread as Stress / Valuation Indicator
 
-Spread-watching uses include:
+Possible uses are hypotheses that require additional evidence:
 
 | Use | Interpretation |
 |---|---|
-| Mean-reversion signal | Spread far above historical median can suggest J-REIT "cheap" vs JGB; spread far below suggests "rich". |
-| Equity-risk-premium proxy | Spread approximates required equity-risk-premium on real-estate income. |
-| BoJ policy-stance signal | Spread compression often coincides with risk-free-rate normalisation. |
-| Foreign-flow signal | Sharp spread move can coincide with foreign-bid entry / exit. |
-| Fundamental-vs-flow disentangling | Spread move can be cap-rate-driven (fundamental) or rate-driven (flow / regime). |
+| Historical-relative-value hypothesis | Compare a consistently constructed spread with its own dated history, then test returns; do not translate “high” or “low” directly into cheap or rich. |
+| Risk-compensation analysis | Model required returns separately; the distribution-yield-minus-JGB spread is not an equity-risk-premium estimate by identity. |
+| BoJ policy-stance signal | Test spread changes against dated policy and yield-curve events; co-movement is not assumed. |
+| Foreign-flow hypothesis | Test contemporaneous JPX flow and returns; a spread move alone does not identify foreign entry or exit. |
+| Attribution hypothesis | Use issuer fundamentals, property data, rates and investor flows in an identified model; do not label a spread move fundamental or flow-driven from the spread alone. |
 
 None of these readings is mechanical; spread is one input among many.
 

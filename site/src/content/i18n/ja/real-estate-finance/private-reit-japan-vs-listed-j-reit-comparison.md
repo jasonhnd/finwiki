@@ -1,91 +1,101 @@
 ---
 source: real-estate-finance/private-reit-japan-vs-listed-j-reit-comparison
-source_hash: 1d30cb014ef1f641
+source_hash: 88fe5e48dee49dd1
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "私募リート（日本）と上場 J-REIT の比較"
-translated_at: 2026-06-26T08:29:01.775Z
+translated_at: 2026-07-30T00:05:39+09:00
 ---
 
 # 私募リート（日本）と上場 J-REIT の比較
 
 ## TL;DR
 
-私募リート（私募リート / 非上場REIT）と上場 [[real-estate-finance/j-reit-market-overview|J-REIT]] は、投資信託法の下では構造的に同じ種類の投資法人であるが、上場の有無が実務上の使われ方に関するほぼすべてを変える。上場 J-REIT は JPX で継続的に取引され、完全な継続開示義務と幅広い投資家層を持つ。私募リートは機関投資家や年金投資家に私募で募集され、市場取引ではなく構造化されたオープンエンド型のスケジュールで償還し、連続的な市場価格ではなく四半期ごとの NAV ベースの価格を提供する。
+私募リート（私募リート / 非上場REIT）と上場 [[real-estate-finance/j-reit-market-overview|J-REIT]] は、いずれも投資信託法上の投資法人形態を利用し得るが、上場の有無は取引と開示を大きく変える。上場 J-REIT は公開継続開示ルールの下で JPX において取引される。私募リートの申込、償還、NAV および投資家向け報告の条件はファンドごとに異なり、各商品の文書から確認する必要がある。
 
-私募リートは、上場 REIT のボラティリティなしに鑑定評価ベースの不動産エクスポージャーを求める [[insurance/INDEX|life insurers]]、[[insurance/INDEX|corporate pension plans]]、地方銀行、その他の機関投資家プールにとって、安定した配分レーンへと成長してきた。トレードオフは外部の観察者にとっての透明性の低下であるが、長期負債や年金配分方針との適合性はより強い。ARES（不動産証券化協会）は J-REIT と私募リートの双方について業界の枠組みを維持し、会員統計を公表している。上場対私募のルーティングレイヤーについては [[real-estate-finance/j-reit-market-overview|J-REIT market overview]] の後にこのページを用いること。
+ARES の調査は私募リートのセグメントを示すが、投資家適格性、実際の保有者、配分動機、評価方針、負債との適合は商品・投資家ごとに異なる。外部の観察者が得られるファンド単位の公開情報は、一般に上場 J-REIT より少ないが、それだけで低リスクまたは負債との適合性が高いとはいえない。ARES（不動産証券化協会）は J-REIT と私募不動産ファンドの業界統計を公表する。上場対私募のルーティングレイヤーについては [[real-estate-finance/j-reit-market-overview|J-REIT market overview]] の後にこのページを用いる。
 
 ## Wiki route
 
-この比較は、上場 J-REIT のルーティングページの後に用いること: [[real-estate-finance/j-reit-market-overview|J-REIT market overview]]、[[real-estate-finance/j-reit-vs-us-reit-governance-comparison|US/JP governance comparison]]、[[real-estate-finance/j-reit-sponsor-structure-conflict|sponsor structure and conflict of interest]]、[[real-estate-finance/top-10-j-reit-overview-matrix|top 10 J-REIT overview matrix]]。ここからは、生命保険会社の配分の文脈については [[insurance/INDEX|insurance domain]] へ、ファイナンスレイヤーについては [[banking/INDEX|banking domain]] へ、上場デベロッパーのスポンサーの文脈については [[finance/INDEX|finance domain]] へルーティングする。私募不動産ファンドの内部にしばしば存在する証券化の仕組みについては、[[real-estate-finance/INDEX|real-estate-finance index]] で計画されている GK-TK SPV クラスターへたどること。
+この比較は、上場 J-REIT のルーティングページの後に用いること: [[real-estate-finance/j-reit-market-overview|J-REIT market overview]]、[[real-estate-finance/j-reit-vs-us-reit-governance-comparison|US/JP governance comparison]]、[[real-estate-finance/j-reit-sponsor-structure-conflict|sponsor structure and conflict of interest]]、[[real-estate-finance/top-10-j-reit-overview-matrix|top 10 J-REIT overview matrix]]。ここからは、生命保険会社の配分の文脈については [[insurance/INDEX|insurance domain]] へ、ファイナンスレイヤーについては [[banking/INDEX|banking domain]] へ、上場デベロッパーのスポンサーの文脈については [[finance/INDEX|finance domain]] へルーティングする。GK-TK 構造は、適用される取引文書に従い、私募不動産取引で用いられる場合がある。その取引固有の経路については、[[real-estate-finance/INDEX|real-estate-finance index]] で計画されている GK-TK SPV クラスターへたどる。
 
 ## 1. 並列比較
+
+表の根拠（2026-07-29 確認）：[FSA の投資法人制度概要](https://www.fsa.go.jp/en/refer/legislation/20130416/02.pdf)、[JPX 上場 REIT 一覧](https://www.jpx.co.jp/english/equities/products/reits/issues/index.html)、[ARES 2026 年 1 月私募ファンド調査](https://www.ares.or.jp/news/uploads/private_fund_survey202601.pdf)。私募ファンドの条件は商品文書ごとに異なる。
 
 | Axis | Listed J-REIT | Private REIT (私募リート) |
 |---|---|---|
 | Legal form | Investment corporation under Investment Trust Act | Investment corporation under Investment Trust Act |
 | Listing venue | JPX REIT segment | Not listed; private placement |
-| Trading | Continuous market trading on JPX | Periodic subscription / redemption windows (often quarterly) at NAV |
-| Pricing reference | Market price (continuous) | NAV per unit (appraisal-anchored) |
-| Disclosure | Continuing public disclosure (有価証券報告書), IR, regulatory filings | Disclosure to qualified investors only; ARES industry statistics aggregate the segment |
-| Investor base | Retail + institutional + foreign | Primarily institutional, pension, and life-insurance |
-| Liquidity | High (listed market) | Limited; redemption-window-based |
-| Sponsor structure | Same external-management model + sponsor | Same external-management model + sponsor |
-| Tax treatment | Tax-pass-through (if distribution-payout test met) | Tax-pass-through (if distribution-payout test met) |
+| Trading | 取引所取引時間中の JPX 市場取引 | 申込・償還条件はファンドごとに異なり、取引所市場はない |
+| Pricing reference | 取引所価格。発行体 NAV または鑑定指標は別の尺度 | ファンドの NAV／一口当たり価格算式、評価入力、鑑定人、頻度を記録 |
+| Disclosure | 継続的な公開開示（有価証券報告書）、IR、規制当局への提出 | 商品文書と投資家向け報告は異なる。ARES はセグメント集計統計を公表 |
+| Investor base | 日付付き投資主開示を使い、所有と JPX 売買フローを区別 | 適格性と実際の投資家構成はファンド固有。商品・投資家報告を使う |
+| Liquidity | 取引所流動性は発行体と市場環境によって異なる | ファンド固有の申込、償還、上限および停止条件に従う |
+| Management / sponsor structure | 外部運用。スポンサーまたはサポート会社との関係は発行体ごとに異なる | 外部運用。スポンサーまたはサポート会社との関係はファンドごとに異なる |
+| Tax treatment | 投資法人の期間別導管性要件と投資家の税務上の扱いを確認 | ファンド文書と税務助言から、ビークル、期間別導管性要件、投資家の税務上の扱いを確認 |
 | Regulator | FSA, JPX | FSA |
 | Industry body | ARES | ARES |
-| Number of funds | Around 60 listed names | A few dozen funds, varies over time; track via ARES |
+| Current count / scale | 最新の JPX 上場データを使用 | 最新の ARES 調査を使用；私募ファンド全体の総額から私募 REIT 数を推定しない |
 
-## 2. オープンエンド型の償還メカニクス日本の私募リートは通常、連続的な取引ではなく、構造化された購入／償還の窓口を持つオープンエンド型ファンドとして運営される。メカニクスは運用会社ごとに異なるが、一般的なパターンは以下のとおりである。
+## 2. オープンエンド型の償還メカニクス
+
+日本の私募リートの多くはオープンエンド型と説明されるが、申込・償還の仕組みはファンドごとに異なる。以下は標準条件ではなく、デューデリジェンス項目である。
 
 | Step | Pattern |
 |---|---|
-| Subscription / redemption window | Periodic (often quarterly) at NAV per unit |
-| NAV calculation | Independent appraisal-based, anchored to [[real-estate-finance/INDEX\|JREI methodology]] |
-| Redemption cap | Soft / hard caps per window to protect the fund from forced asset sales |
-| Suspension provision | Right to suspend redemptions in stressed market conditions |
-| Distribution policy | Periodic distribution from rental NOI minus fees, financing costs, capex reserve |
-| Reporting | Quarterly NAV and detailed asset-level reporting to qualified investors |
+| Subscription / redemption window | ファンド文書に記載された日付、通知期間および適格要件を記録 |
+| NAV calculation | 評価方針、鑑定人、頻度および一口当たり価格の算式を記録 |
+| Redemption cap | 上限、待ち行列、ゲートまたは按分処理の有無を記録 |
+| Suspension provision | 発動条件、決定者および再開手続を記録 |
+| Distribution policy | 開示された分配可能所得の定義、準備金および頻度を記録 |
+| Reporting | 実際に提供される頻度、対象者および物件別詳細を記録 |
 
-この償還構造こそが、私募リートを年金や生命保険の負債とよく適合させるものである。長期の資本、控えめな期待流動性ニーズ、そして市場価格のボラティリティの代わりに鑑定評価ベースの平準化を受け入れる意思である。同じ構造は、私募リートが、上場 J-REIT が日々の取引を通じて吸収できるのと同種の資金流入／流出ショックを受け入れられないことを意味する。
+「オープンエンド型」というラベルから負債適合やショック耐性を推定しない。各ファンドの通知期間、上限、待ち行列、ゲート、停止、現金バッファ、クレジットライン、実際の償還履歴を、投資家の日付付き負債・流動性要件と比較する。上場市場の売買は投資家間で投資口を移転するものであり、それ自体は発行体が資金流入・流出を吸収することを意味しない。
 
 ## 3. 手数料構造のトレードオフ
 
+表の根拠（2026-07-29 確認）：[ARES 私募ファンド調査](https://www.ares.or.jp/news/uploads/private_fund_survey202601.pdf)は市場セグメントを示すが、実際の手数料は各ファンドの募集・運用文書に基づく。以下は考え得る手数料区分であり、全商品共通の条件ではない。
+
 | Fee component | Listed J-REIT | Private REIT |
 |---|---|---|
-| Asset-management fee | Acquisition fee + asset-based + sometimes performance | Asset-based + acquisition fee + disposition fee |
-| Marketing / placement fee | None (continuous market liquidity) | One-off placement fee on commitment |
-| カストディ / trustee fee | Trustee bank fee | Trustee bank fee |
-| Audit + compliance | Continuing disclosure compliance cost | Periodic NAV / audit cost |
-| Liquidity premium | Listed market provides liquidity for free | Investor accepts illiquidity discount |
+| Asset-management fee | 発行体の現行の資産、利益、業績、取引連動の算式、受領者、分母を記録 | ファンドの現行算式、受領者、ハードル、キャッチアップ、上限、分母を記録 |
+| Marketing / placement fee | 引受、仲介その他適用される発行・売買コストを記録 | 商品文書に記載された販売、申込または流通手数料を記録 |
+| カストディ／事務 | 任命された主体、契約範囲、手数料を記録 | 任命された主体、契約範囲、手数料を記録 |
+| Audit + compliance | 発行体開示から実際の監査、上場、提出、コンプライアンス費用を記録 | ファンド文書から実際の評価、監査、報告、コンプライアンス費用を記録 |
+| Liquidity cost / discount | ビッド・アスク・スプレッド、市場インパクトおよび発行コストを測定 | ファンド固有の流動性制限と評価ディスカウントを検討 |
 
-総手数料負担は運用会社ごとに異なる。投資家の関心は歴史的に、表面的な手数料水準だけよりも、償還メカニクスとの整合性や鑑定評価の独立性に向けられてきた。
+総手数料負担と投資家の優先事項は商品・マンデートごとに異なる。計算基準、業績期間、取引前提、流動性条件、グロス／ネットのリターン定義を揃えてから手数料を比較する。
 
-## 4. 年金・機関投資家の配分ユースケース私募リートは、上場 J-REIT が完全には満たせない特定の投資家ニーズに応える。
+## 4. 年金・機関投資家の配分ユースケース
 
-| Investor type | Why private REIT |
+以下は検証すべき配分仮説であり、上場 J-REIT が満たせないニーズという主張ではない。
+
+表の根拠（2026-07-29 確認）：[ARES 2026 年 1 月私募ファンド調査](https://www.ares.or.jp/news/uploads/private_fund_survey202601.pdf)。投資家用途の行は分析上のユースケースであり、全ての投資家区分が全ての私募 REIT を保有するとの主張ではない。
+
+| Investor type | ファンド・マンデート固有の検証 |
 |---|---|
-| Corporate pension plans | Long-duration liability match, appraisal-smoothed return profile, lower headline volatility than listed J-REIT |
-| Life insurers ([[insurance/INDEX\|insurance domain]]) | Diversification within real-estate sleeve; appraisal-anchored NAV fits with policy-reserve framework |
-| Regional banks ([[banking/INDEX\|banking domain]]) | Real-estate sleeve outside direct bank-lending CRE exposure |
-| Public pension and pension fund-of-funds | Vehicle that fits with long-horizon real-estate allocation policy |
-| Sponsor-related investors | Group-treasury allocation aligned with sponsor real-estate strategy |
+| Corporate pension plans | 適格性、目標リターン、評価方針、流動性、手数料、キャッシュフロー予定をマンデート・負債と比較 |
+| Life insurers ([[insurance/INDEX\|insurance domain]]) | 資本規制、評価、ALM、集中、流動性、ルックスルー要件を検証 |
+| Regional banks ([[banking/INDEX\|banking domain]]) | 資本規制、CRE 集中、流動性、ガバナンス、ルックスルー・エクスポージャーを検証 |
+| Public pension and pension fund-of-funds | 方針上の適格性、ベンチマーク、運用マンデート、流動性予算、実際の配分を確認 |
+| Sponsor-related investors | 所有、ガバナンス、関連当事者条件、トレジャリー方針、明示された配分理由を確認 |
 
-私募リートの償還メカニクスと年金負債のデュレーションとの適合こそが、上場 J-REIT が成長してもなおこのセグメントが意味を持ち続けてきた構造的な理由である。
+ARES が示すセグメント成長だけでは特定の配分動機を立証しない。日付付きの投資家マンデート、調査、開示から動機を確認し、ファンド運用会社のマーケティングと分ける。
 
 ## 5. 透明性のトレードオフ
 
 | Public observer can see | Listed J-REIT | Private REIT |
 |---|---|---|
 | Aggregate market size | Yes (JPX, ARES) | Aggregate only (ARES private-REIT statistics) |
-| Per-fund AUM | Yes | Aggregate only |
-| Per-fund DPU yield | Yes | Aggregate only |
-| Per-asset detail | Yes (IR materials) | No (qualified-investor-only disclosure) |
-| Sponsor stake | Yes | No (private) |
-| LTV | Yes | Aggregate / range only |
-| Foreign-investor share | Yes (JPX trading by investor type) | Not applicable |
+| Per-fund AUM | 利用可能な場合は日付入りの発行体開示を使用 | 公開状況は異なる。利用可能な場合はファンドまたは運用会社の公開資料を使用 |
+| Per-fund DPU yield | 日付付き発行体・市場データから算出 | 公開状況とリターン定義は異なる |
+| Per-asset detail | 発行体 IR 資料を使用し、省略があれば明記 | 公開状況は異なり、適格投資家向け報告の方が詳細な場合がある |
+| Sponsor stake | 日付付き発行体投資主開示を使用 | 利用可能な場合はファンド固有の開示を使用 |
+| LTV | 発行体の日付付き定義を使用 | 範囲を明記してファンド固有開示または ARES 集計を使用 |
+| Investor ownership | 日付付き ARES 保有データまたは発行体投資主開示を使用。JPX フローは所有ではない | ファンド固有開示または範囲を限定した ARES 調査を使用 |
 
 透明性のトレードオフが中心的な緊張点である。上場 J-REIT の分析は公開情報から行えるが、適格投資家の輪の外からの私募リートの分析は、ARES の業界統計とスポンサーレベルの公開開示に限られる。したがってこのページは集計／セグメントのレベルにとどまる。
 
@@ -106,20 +116,20 @@ J-REIT および私募リートに関する ARES の集計統計は、適格投�
 | Feature | Private REIT | GK-TK SPV |
 |---|---|---|
 | Legal form | Investment corporation under Investment Trust Act | 合同会社 (GK) + 匿名組合 (TK) silent-partnership SPV |
-| Open-endedness | Open-ended (periodic subscription / redemption) | Closed-end single asset or single-strategy SPV |
-| Investor base | Multiple institutional / pension | Smaller set of TK silent-partnership investors |
-| Tax treatment | Tax pass-through if distribution-payout test met | TK-level tax treatment; pass-through to TK investors |
-| Use case | Long-duration appraisal-anchored real-estate sleeve | Single-deal or single-strategy securitization (single building, portfolio carve-out, bridge fund) |
+| Open-endedness | 私募リートの申込、償還、ゲート、停止条件を記録 | 契約・取引固有。GK-TK は期間、延長、複数資産、複数クロージングを取り得る |
+| Investor base | 適格性と実際の保有者はファンド固有 | TK 投資家の適格性、人数、属性は取引固有 |
+| Tax treatment | 期間ごとの導管性要件と投資家の扱いを確認 | 取引ごとに GK・TK の税務、源泉徴収、投資家への影響を確認 |
+| Use case | ファンドが明示する戦略、適格資産、期間を記録 | 単一または複数資産を保有し、取得、開発、運営、ポートフォリオ戦略を支え得る |
 | Disclosure | Qualified-investor disclosure | Private contractual disclosure to TK investors |
 
-両形態は日本の不動産証券化業界において共存している。ARES は双方をカバーする。GK-TK 構造はよりディール固有であり、[[real-estate-finance/INDEX|CMBS-style securitization]] や J-REIT に供給するブリッジファンドのパイプラインにとって典型的なビークルである。
+両形態は日本の私募不動産市場に共存する。GK-TK を CMBS と同一視しない。債務証券化、担保、証券発行、倒産隔離は取引文書から立証する。同様に、J-REIT への移転は取引固有であり、ブリッジファンドのパイプラインを前提にしない。
 
 ## 8. なぜこれが重要か
 
-- 投資家の配分: 上場 J-REIT だけを理解すると、JPX に現れない年金／生命保険会社／地方銀行の私募リートレーンを見落とす。
-- 市場サイクルの読み: 私募リートの NAV は上場 J-REIT の価格よりも緩やかに動くため、上場 REIT のインプライド利回りと私募リートの NAV 利回りの大きな乖離は不動産サイクルのシグナルである。
-- スポンサー戦略: 多くのスポンサーは上場 J-REIT と私募リートを並行して運営しており、これは [[real-estate-finance/j-reit-sponsor-structure-conflict|sponsor conflict]] の議論に加えて配分に関する追加の問いを生み出す。
-- 海外投資家の読み: 海外投資家は通常、私募リートではなく上場 J-REIT にアクセスするため、海外フローのデータはより大きな原市場への上場限定の窓となる。
+- 投資家の配分: JPX データは私募リートの保有を示さない。ARES 集計と日付付きのファンド／投資家開示を、範囲を明記して使う。
+- 市場サイクルの読み: 上場インプライド利回りと私募 NAV 利回りの差は仮説であり、単独のサイクルシグナルではない。アセット構成、レバレッジ、手数料、評価日、鑑定前提、償還条件を揃えてから解釈する。
+- スポンサー戦略: スポンサーが上場・私募ビークルの両方を運用する場合は、現行法人、適格資産、配分方針、実際の各取引を確認してから [[real-estate-finance/j-reit-sponsor-structure-conflict|sponsor conflict]] の枠組みを適用する。
+- 海外投資家の読み: 適格性とアクセスは各商品の文書から判断する。上場市場のフローデータだけでは私募リートへのアクセスや保有を立証できない。
 
 ## Related
 

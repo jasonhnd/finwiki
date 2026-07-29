@@ -7,30 +7,30 @@ aliases:
   - "Japan equity risk premium 2026"
   - "Japan risk-free rate reference"
   - "Japan TONA discount rate"
-  - "Japan TSE Prime WACC range"
+  - "Japan hypothetical WACC sensitivity grid"
 domain: finance
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
 confidence: likely
 tags: [finance, cost-of-capital, WACC, equity-risk-premium, beta, japan, valuation, tona]
 status: active
 sources:
-  - "https://www.boj.or.jp/en/statistics/index.htm"
-  - "https://www.mof.go.jp/english/jgbs/auction/calendar/index.html"
+  - "https://www.boj.or.jp/en/statistics/market/index.htm"
+  - "https://www.mof.go.jp/english/policy/jgbs/reference/interest_rate/index.htm"
   - "https://www.jpx.co.jp/english/markets/statistics-equities/index.html"
   - "https://www.jpx.co.jp/english/equities/follow-up/02.html"
-  - "https://www.boj.or.jp/en/announcements/release_2024/k240319a.htm"
-  - "https://www.fsa.go.jp/en/"
-  - "https://pages.stern.nyu.edu/~adamodar/"
+  - "https://www.boj.or.jp/en/mopo/mpmdeci/state_2024/k240319a.htm"
+  - "https://pages.stern.nyu.edu/adamodar/New_Home_Page/datacurrent.html"
+  - "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/ctryprem.htm"
 ---
 
 # Cost of capital Japan 2026 reference
 
 ## TL;DR
 
-The cost of capital is the single most-leveraged input in any [[finance/dcf-vs-multiples-vs-nav-cross-domain-valuation-framework|DCF valuation]] and the structural anchor for [[finance/japan-leveraged-buyout-economics|LBO economics]], [[real-estate-finance/cap-rate-noi-irr-real-estate-valuation-framework|real-estate IRR underwriting]], and [[finance/japan-acquisition-finance|acquisition finance pricing]]. For Japan as of 2026, the structural inputs are: (1) risk-free reference rate based on 10-year JGB yield (~1.0-1.5% class), with TONA-based OIS as the short-end reference after JPY LIBOR cessation; (2) historical equity risk premium of ~5-6% versus implied ERP that has compressed since the BoJ NIRP exit; (3) TOPIX-aligned beta sourcing with Japan-specific sector adjustments; (4) modest country-risk premium given Japan's sovereign rating and reserve-currency status; (5) TSE-Prime listed-company WACC range typically 5-8% for large-cap and 6-10% for mid-cap; (6) BoJ post-2024 floor system materially raising the short-end reference and feeding through to floating-rate funding cost. This is a methodology reference page, not investment advice and not a specific WACC for any company.
+The cost of capital is a highly sensitive input in any [[finance/dcf-vs-multiples-vs-nav-cross-domain-valuation-framework|DCF valuation]] and a structural anchor for [[finance/japan-leveraged-buyout-economics|LBO economics]], [[real-estate-finance/cap-rate-noi-irr-real-estate-valuation-framework|real-estate IRR underwriting]], and [[finance/japan-acquisition-finance|acquisition finance pricing]]. For Japan, practitioners should refresh the JGB or TONA/OIS reference rate on the valuation date, select and document an ERP and beta methodology, and reconcile issuer-specific leverage, credit spread, and effective tax. The numeric ranges below are illustrative sensitivity assumptions frozen on 2026-07-29; they are not observations of a company, market medians, or investment recommendations.
 
 ## Wiki route
 
@@ -50,135 +50,147 @@ For Japan, each input has structural characteristics that differ from US or Euro
 
 ### Long-end (10Y JGB)
 
+Table source note: The 1.0–1.5% band is a hypothetical sensitivity input frozen on 2026-07-29, not a quoted yield range. Replace it with the exact valuation-date point from the MOF historical-interest-rate series or another documented curve source. ^[Source: https://www.mof.go.jp/english/policy/jgbs/reference/interest_rate/index.htm.]
+
 | Reading | 2026 class |
 |---|---|
-| 10Y JGB yield | ~1.0-1.5% range; verify on MOF / BoJ data page |
-| Source | MOF JGB auction calendar; BoJ statistics |
-| Use | Long-duration DCF, terminal-value discount rate, project finance senior pricing |
+| 10Y JGB yield | Model 1.0–1.5% only as an illustrative sensitivity; use the exact dated observation in live work |
+| Source | Record the exact MOF/BoJ series, observation date, maturity, and interpolation method |
+| Use | Candidate input for a documented long-duration DCF, terminal-value, or financing model; suitability is model-specific |
 
-Post-NIRP normalisation has raised the 10Y JGB materially from the near-zero NIRP-era trough. The path matters more than any single point — a discount-rate model anchored to a moment-in-time 10Y can produce stale valuations within a quarter.
+BOJ's 2024-03-19 decision ended the negative interest-rate policy framework. Compare dated 10Y JGB observations before and after that decision, but do not attribute the yield path solely to the policy change or assume that a valuation becomes stale within a fixed period. ^[Source: https://www.boj.or.jp/en/mopo/mpmdeci/state_2024/k240319a.htm.]
 
 ### Short-end (TONA / OIS)
 
 | Reading | 2026 class |
 |---|---|
-| TONA (Tokyo Overnight Average Rate) | Post-JPY-LIBOR cessation benchmark for floating-rate JPY |
-| OIS TONA curve | Used to construct forward-rate expectations; see [[derivatives/ois-tona-curve|OIS TONA curve]] |
-| Use | Floating-rate loan pricing, short-tenor swap discounting, LBO senior margin reference |
+| TONA (Tokyo Overnight Average Rate) | A possible reference only where the applicable contract or model names TONA |
+| OIS TONA curve | A possible curve input under the documented valuation or collateral framework; see [[derivatives/ois-tona-curve|OIS TONA curve]] |
+| Use | Verify the executed facility, swap, discounting convention, tenor, fallback, and spread rather than assuming a universal reference |
 
-The OIS TONA curve replaced JPY LIBOR for short-rate construction. Senior LBO loans and floating-rate corporate facilities reference TONA plus margin.
+JPY LIBOR cessation does not establish that every JPY loan, LBO facility, or swap references TONA. Use TONA plus margin only where the applicable contract and current benchmark provisions do so.
 
 ### Intermediate / belly
 
-For 3Y-7Y discount-rate construction, the JGB yield curve interpolation or the equivalent OIS curve point is used. Many practitioners use 10Y as the single risk-free anchor for simplicity even when valuing shorter-duration cash flow streams.
+For a hypothetical 3Y–7Y model, an analyst may test JGB interpolation or the corresponding documented OIS point. The selected curve, maturity, interpolation, cash-flow currency, and discounting convention must be stated; this page does not claim that 10Y is a common or preferred single anchor.
 
 ### Historical ERP
 
 | Methodology | Reading |
 |---|---|
-| Long-horizon arithmetic excess return | Japan equity-vs-JGB historical excess return varies materially by start date; ~5-7% class over long periods, with caveats |
-| Geometric long-horizon | Lower than arithmetic, often by 1-2pp |
-| Rolling-window | Highly sensitive to bubble / post-bubble period inclusion |
+| Long-horizon arithmetic excess return | Recalculate from a named index, return definition, risk-free series, frequency, and start/end dates; 5–7% is only a hypothetical sensitivity input |
+| Geometric long-horizon | Calculate from the same named sample; a 1–2pp arithmetic/geometric gap is only a hypothetical check, not an observed Japan rule |
+| Rolling-window | Report the exact window and test how inclusion of different periods changes the result; no direction is assumed |
 
-Japan historical ERP is structurally controversial because the post-1990 bubble correction distorts long-window estimates. Many Japanese fairness-opinion practitioners use 5-6% as the working historical ERP.
+Historical ERP depends on the selected index, JGB proxy, arithmetic/geometric convention, currency, reinvestment assumption, and sample dates. A 5–6% case may be included only as a dated hypothetical sensitivity; no fairness-opinion practice or market convention is asserted without a disclosed sample.
 
 ### Implied ERP
 
 Implied ERP is derived by solving for the discount rate that equates the index price to the present value of forecast dividends or free cash flow:
 
+Table source note: The rows are a model-construction checklist. Damodaran's implied-premium materials provide the methodology route; the analyst must supply and date every Japan-specific market and cash-flow input. ^[Source: https://pages.stern.nyu.edu/adamodar/New_Home_Page/datacurrent.html.]
+
 | Reading | 2026 class |
 |---|---|
-| Implied ERP from TOPIX forward EPS | Has compressed since BoJ NIRP exit; 4-5% class is plausible at mid-2026 |
-| Verifiability | Recalculable by analyst using BoJ data + JPX index forward earnings |
-| Use | Forward-looking discount-rate construction; quarter-end refresh |
+| Implied ERP from a TOPIX cash-flow model | Model 4–5% only as a hypothetical 2026-07-29 sensitivity; no post-NIRP compression or market level is asserted |
+| Verifiability | State the index price, forecast source, cash-flow/payout path, growth, risk-free curve, date, and solver; BoJ/JPX do not supply the completed ERP calculation here |
+| Use | One possible forward-looking scenario; refresh whenever the model's dated inputs change |
 
-Implied ERP and historical ERP often diverge by 100-200bp. Practitioners typically anchor to one and sensitivity-test the other.
+Do not assume a recurring implied-versus-historical ERP gap or a customary anchor. Calculate both under disclosed methods and dates if the comparison is relevant.
 
 ## Beta Sources
 
+Table source note: The choices below are a verification map, not a statement of preferred or common practice. TOPIX methodology is published by JPX, while Damodaran provides research data and estimation references; any vendor field must be checked against its then-current methodology. ^[Sources: https://www.jpx.co.jp/english/markets/indices/topix/ and https://pages.stern.nyu.edu/adamodar/New_Home_Page/datacurrent.html.]
+
 | Source | Reading |
 |---|---|
-| TOPIX as market index | Standard market index for Japan beta regression |
-| Regression window | Typically 5 years monthly or 2 years weekly; both are common |
-| Bloomberg / Refinitiv adjusted beta | Standard data terminal source; adjusted using Blume's formula (0.67 × raw + 0.33 × 1.0) |
-| Damodaran sector beta | Cross-checked against [[finance/dcf-vs-multiples-vs-nav-cross-domain-valuation-framework|DCF framework]] reference; useful for unlisted / pre-IPO valuation |
-| Bottom-up beta | Re-levered from peer set's median asset beta; preferred for non-public targets |
+| TOPIX as market index | Candidate benchmark; verify that its constituents and currency match the exposure being modelled |
+| Regression window | Test 5 years monthly and 2 years weekly only as alternative illustrative windows; disclose frequency, missing data, and estimation error |
+| Vendor beta field | Record vendor, field, date, raw/adjusted status, benchmark, window, and adjustment formula; do not assume Blume adjustment |
+| Damodaran sector beta | Possible external comparison; match geography, sector, leverage, cash, date, and peer definition |
+| Bottom-up beta | Possible peer-derived alternative; document peer selection, unlevering/relevering, tax, debt, and aggregation; no preference is asserted |
 
 ### Japan-Specific Beta Issues
 
-- Cross-shareholding effects can dampen measured beta as common shocks move correlated stakes together
-- Sector concentration in TOPIX (e.g. banks, autos, electronics) means TOPIX is not as diversified as S&P 500 — sector tilts matter
-- Foreign-investor flow can amplify or dampen short-window beta around inflection points
-- Small-cap listed-company beta is noisier and less reliable; bottom-up estimation is preferred
+- Test whether cross-shareholdings affect the measured covariance; do not assume a direction.
+- Compare the candidate benchmark's sector weights with the issuer's exposure rather than assuming adequate diversification.
+- Test any relationship between investor flows and estimated beta on the same dated sample; do not infer causality.
+- Report confidence intervals and alternative specifications for thin or short histories; do not declare a preferred method without fit evidence.
 
 ## Country Risk Premium
 
 | Reading | Class |
 |---|---|
-| Sovereign rating | Japan high-investment-grade |
-| Reserve-currency status | Yen is one of the major reserve currencies |
-| Country risk premium | Minimal-to-zero for Japan in most practitioner frameworks |
-| Sovereign CDS | Available but thinly traded |
+| Sovereign rating | Record the selected agency, rating, outlook, and date if used |
+| Currency / reserve-status input | Explain whether and why it affects the selected model; do not convert status into a premium mechanically |
+| Country risk premium | Zero or any positive add-on is a model choice requiring a named method, data date, and anti-double-counting check |
+| Sovereign CDS | Use only a dated, liquid, maturity-matched observation with a documented mapping; otherwise omit |
 
-In contrast to emerging-market valuation, Japan country risk premium is typically not applied separately. The exception is some cross-border M&A frameworks where a uniform country-risk add-on is applied to all non-US targets for institutional consistency.
+Decide explicitly whether a separate country-risk premium is required for the actual cash flows and investor perspective. This page asserts neither a Japan default of zero nor a uniform non-US add-on.
 
-## TSE-Prime Large-Cap WACC Range (Indicative)
+## Hypothetical WACC Sensitivity Grid
 
-| Sector | Indicative WACC class (2026) |
+Table source note: The following bands are analyst-defined hypothetical sensitivity cases as of 2026-07-29, not JPX-published sector medians, market ranges, or current company WACCs. JPX asks listed companies to explain cost-of-capital-aware management but does not prescribe a WACC range; replace every case with valuation-date JGB/market inputs and issuer-specific capital structure. ^[Sources: https://www.jpx.co.jp/english/equities/follow-up/02.html and https://www.mof.go.jp/english/policy/jgbs/reference/interest_rate/index.htm.]
+
+| Hypothetical test case | WACC sensitivity range (not a market estimate) |
 |---|---|
-| Megabank ([[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG]] / [[megabanks/mizuho-fg|Mizuho FG]]) | 7-9% on equity-side / 4-6% on group blended |
-| Trading house ([[finance/japan-cross-shareholding-unwinding-economics|cross-shareholding-heavy]]) | 6-8% |
-| Telecom (e.g. NTT, KDDI) | 5-7% |
-| Listed real-estate developer | 5-7% |
-| Mature industrial large-cap | 6-8% |
-| TSE-Prime mid-cap (median) | 7-10% |
-| TSE-Standard / smaller | 8-12% (illiquidity / size premium) |
+| Case A: separate equity-side and group-blended tests | 7-9% on equity-side / 4-6% on group blended |
+| Case B | 6-8% |
+| Case C | 5-7% |
+| Case D | 5-7% |
+| Case E | 6-8% |
+| Case F | 7-10% |
+| Case G: additional size / illiquidity stress | 8-12% |
 
-These ranges are class descriptors, not company-specific values. Always verify with capital structure, beta, credit spread, and effective tax rate of the specific entity.
+These ranges are deliberately hypothetical modeling cases, not class descriptors, sector ranges, market observations, or company-specific values. Always replace them with evidence for the specific entity's capital structure, beta, credit spread, and effective tax rate.
 
 ## Mid-Cap / Small-Cap Adjustment
 
+Table source note: These increments are illustrative sensitivity cases as of 2026-07-29, not observed premiums or a rule for adding multiple overlapping adjustments. Damodaran's current-data pages provide size/beta research inputs, but the analyst must avoid double counting and document the sample, date, and method used. ^[Source: https://pages.stern.nyu.edu/adamodar/New_Home_Page/datacurrent.html.]
+
 | Adjustment | Direction |
 |---|---|
-| Size premium | +1.0-3.0pp for smaller listed names (academic literature; subject to sample period) |
-| Illiquidity premium | +0.5-2.0pp for thinly-traded names |
-| Controlling-shareholder structure | +0.5-1.5pp where minority shareholders face governance risk |
-| Single-business concentration | Variable; reflected in beta or asymmetric scenario weighting |
-| Information opacity | Variable; reflected in higher implied ERP |
+| Size premium | Test +1.0–3.0pp only as a hypothetical sensitivity; use no add-on without a dated matched-sample method |
+| Illiquidity premium | Test +0.5–2.0pp only as a hypothetical sensitivity; define the liquidity measure and avoid overlap with size/beta |
+| Controlling-shareholder structure | Test +0.5–1.5pp only as a hypothetical sensitivity; document the rights and avoid substituting an arbitrary premium for scenario analysis |
+| Single-business concentration | Decide whether risk belongs in cash flows, beta, or scenarios; do not add it twice |
+| Information opacity | Identify missing information and model its effect explicitly; do not assume a higher ERP |
 
-Japan small-cap size-premium evidence is mixed; practitioners use a 1-3pp range without strong consensus. For unlisted targets a private-company illiquidity discount (often 20-30%) is applied to the value rather than the discount rate.
+No practitioner range is asserted. A 1–3pp size add-on and a 20–30% private-company value discount are separate hypothetical sensitivities, not observed Japan conventions; justify the selected method, sample, date, and avoidance of double counting.
 
 ## Cost of Debt
 
 Cost of debt is the after-tax weighted cost of senior, subordinated, and other interest-bearing liabilities.
 
+Table source note: The rows are document and data checks, not 2026 market pricing observations. TONA or JGB references apply only where the instrument or model specifies them; spread direction and mezzanine yield require dated executable terms or named disclosures.
+
 | Layer | 2026 pricing reference |
 |---|---|
-| Megabank senior corporate loan | TONA + margin; investment-grade margin compressed pre-2022, widened post-2022 |
-| Public bond (investment grade) | JGB + credit spread; widened post-NIRP normalisation |
-| LBO senior loan | TONA + margin; see [[finance/japan-leveraged-buyout-economics|LBO economics]] for pricing class |
-| Mezzanine | All-in mid-to-high single digit yield |
-| Subordinated capital (bank / insurer) | Higher coupon for loss absorption / regulatory capital classification |
+| Senior corporate loan | Read the executed benchmark, margin, floor, fees, tenor, security, and covenants; TONA is possible only if specified |
+| Public bond | Match the bond cash flows to a dated government/swap curve and issuer spread; do not infer post-NIRP widening |
+| LBO senior loan | Read the executed facility and benchmark provisions; [[finance/japan-leveraged-buyout-economics|LBO economics]] is context, not a pricing source |
+| Mezzanine | A mid-to-high-single-digit all-in yield is only a hypothetical sensitivity; replace it with instrument-specific terms |
+| Subordinated capital (bank / insurer) | Verify coupon, loss-absorption terms, call/reset, ranking, and regulatory classification in the named instrument |
 
-Effective tax rate applies the statutory ~30% Japanese corporate tax rate adjusted for the entity's effective tax rate.
+Use the entity's applicable current tax rules and expected effective cash-tax profile; do not substitute an undated approximate statutory rate.
 
-## Post-2024 BoJ Floor System Impact
+## Post-2024 Policy-Change Verification
 
-The [[money-market/boj-post-2024-floor-system-complementary-deposit-facility|BoJ post-2024 floor system]] structurally raised the short-end funding cost:
+BOJ's 2024-03-19 decision is a dated policy event. The table lists questions to test and does not attribute each financing or valuation outcome to that event. ^[Source: https://www.boj.or.jp/en/mopo/mpmdeci/state_2024/k240319a.htm.]
 
-| Channel | Impact |
+| Channel | Verification question |
 |---|---|
-| Floating-rate loan margin base | TONA-anchored; floor system raised TONA from near-zero |
-| Senior LBO pricing | Floating-rate base raised; total cost of senior debt rose with floor lift |
-| Bank funding cost | Deposit-rate competition and funding-cost normalisation |
-| Real-estate financing | [[real-estate-finance/cap-rate-noi-irr-real-estate-valuation-framework|cap-rate / NOI / IRR framework]] underwriting reference raised |
-| Corporate WACC | Modest upward shift in cost-of-debt component |
+| Floating-rate loan base | Does the named contract reference TONA or another benchmark, and how did its dated fixing change? |
+| Senior LBO pricing | How did benchmark, margin, floor, fees, and hedging change for comparable dated facilities? |
+| Bank funding cost | What do the named bank's dated deposit, wholesale-funding, and disclosure data show? |
+| Real-estate financing | How did dated facility terms and [[real-estate-finance/cap-rate-noi-irr-real-estate-valuation-framework|property underwriting]] assumptions change, controlling for borrower and asset risk? |
+| Corporate WACC | Recompute the issuer-specific debt and equity inputs; do not assume an upward shift |
 
-This rate-floor lift compounds through the WACC formula and through forward-rate expectations in the OIS curve. The 10Y JGB anchor has risen materially from the YCC-era pin, but the path is non-linear and policy-dependent.
+Any effect enters only through the dated inputs actually used in the WACC or cash-flow model. Separate observed rate changes from attribution to a single policy event.
 
 ## Valuation Consequence
 
-A 100bp rise in WACC typically reduces a long-duration DCF equity value by 15-25%, depending on terminal-value weight. For [[real-estate-finance/cap-rate-noi-irr-real-estate-valuation-framework|cap-rate sensitivity]], a 25bp move in cap rate can shift NAV by 5-10%. The post-NIRP normalisation path is therefore the most-leveraged valuation question for Japan corporate and real-estate analysis in 2026.
+For a fixed cash-flow model, calculate `ΔV = V(WACC + 100bp) − V(WACC)` rather than applying a universal percentage. A 15–25% equity-value decline is only a hypothetical sensitivity outcome and depends on cash-flow duration, leverage, terminal assumptions, and starting WACC. Likewise, recompute property value or NAV at `cap rate ± 25bp`; a 5–10% move is only an illustrative result under a specified NOI, debt, and cap-rate base. No single “most-leveraged” Japan valuation question or post-NIRP causal ranking is asserted.
 
 ## Related
 

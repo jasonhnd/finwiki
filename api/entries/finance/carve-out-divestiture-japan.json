@@ -25,9 +25,9 @@
     "domain": "finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "finance",
@@ -49,7 +49,11 @@
       "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/fair-ma-rule/ma-guideline-publications.html",
       "https://www.fsa.go.jp/en/laws_regulations/faq_on_fiea.pdf",
       "https://www.nta.go.jp/english/index.htm",
-      "https://www.jftc.go.jp/en/legislation_gls/amended_ama09/notification.html"
+      "https://www.jftc.go.jp/en/policy_enforcement/mergers/index.html",
+      "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/saihenzeisei/spin-off.html",
+      "https://www.meti.go.jp/press/2023/02/20240214006/20240214006.html",
+      "https://www.japaneselawtranslation.go.jp/en/laws/view/4481/en",
+      "https://www.sony.com/en/SonyInfo/IR/news/20251001_E.pdf"
     ]
   },
   "summary": "A Japanese carve-out separates a business unit from a parent and routes it to a new owner (trade sale), a new listed entity (IPO spin), or distributed shareholders (stock-distribution / demerger). The mechanical choice between asset deal vs share deal vs company-split (会社分割) vs stock-distribution dr",
@@ -62,7 +66,7 @@
     "TSA — transition services agreement",
     "Tax considerations",
     "Carve-out workstreams",
-    "Recent examples (2023-2026)",
+    "Verified public example",
     "Research checklist"
   ],
   "body_links": {
@@ -95,13 +99,19 @@
       "https://finwiki.zksc.io/ja/finance/multi-jurisdiction-identity-tax-leverage/",
       "https://finwiki.zksc.io/ja/financial-licenses/securities-license-stack/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 5,
+    "external_links": [
+      "https://www.japaneselawtranslation.go.jp/en/laws/view/4481/en",
+      "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/saihenzeisei/spin-off.html",
+      "https://www.meti.go.jp/press/2023/02/20240214006/20240214006.html",
+      "https://www.meti.go.jp/press/2026/04/20260417003/20260417003.html",
+      "https://www.sony.com/en/SonyInfo/IR/news/20251001_E.pdf"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 7957,
-    "word_like_tokens": 1226,
+    "nonspace_chars": 10641,
+    "word_like_tokens": 1670,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-30"
   }
 }

@@ -24,9 +24,9 @@
     "domain": "finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "finance",
@@ -43,11 +43,11 @@
     "note": null,
     "sources": [
       "https://www.fsa.go.jp/en/laws_regulations/faq_on_fiea/section04.html",
-      "https://www.jpx.co.jp/english/equities/listing/disclosure/tdnet/index.html",
+      "https://www.jpx.co.jp/english/equities/listing/disclosure/tdnet/",
       "https://www.jpx.co.jp/english/listing/co-search/",
-      "https://www.jpx.co.jp/english/listing/disclosure/timely/index.html",
       "https://disclosure2.edinet-fsa.go.jp/",
       "https://www.japaneselawtranslation.go.jp/en/laws/view/3206/en",
+      "https://www.jpx.co.jp/english/regulation/listing/equity-finance/",
       "https://www.boj.or.jp/en/statistics/index.htm",
       "https://www.nomuraholdings.com/en/services/wholesale/ib.html",
       "https://www.daiwa-grp.jp/english/ir/library/index.html"
@@ -116,9 +116,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 12438,
-    "word_like_tokens": 1896,
+    "nonspace_chars": 16313,
+    "word_like_tokens": 2620,
     "inbound_wikilinks_count": 10,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-30"
   }
 }

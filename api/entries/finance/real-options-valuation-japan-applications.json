@@ -27,9 +27,9 @@
     "domain": "finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "finance",
@@ -47,21 +47,21 @@
     "note": null,
     "sources": [
       "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/fair-ma-rule/ma-guideline-publications.html",
-      "https://www.fsa.go.jp/common/law/kaiji/20241001_guideline-tenderoffer.pdf",
+      "https://www.fsa.go.jp/common/law/kaiji/20260501_guideline-tenderoffer.pdf",
       "https://www.meti.go.jp/policy/energy_environment/global_warming/transition_finance.html",
       "https://www.jpx.co.jp/english/equities/follow-up/02.html",
-      "https://pages.stern.nyu.edu/~adamodar/",
+      "https://pages.stern.nyu.edu/~adamodar/pdfiles/papers/realopt.pdf",
       "https://www.boj.or.jp/en/statistics/index.htm",
       "https://www.jbic.go.jp/en/"
     ]
   },
-  "summary": "Real options frame business decisions as options held on real (not financial) assets — the option to expand, contract, abandon, delay, switch, or stage an investment. Unlike static DCF NPV which treats the decision as a now-or-never go / no-go, real options recognise that management can wait, observ",
+  "summary": "Real options frame some business decisions as contingent rights over real (not financial) assets — for example, a documented ability to expand, contract, abandon, delay, switch, or stage an investment. DCF NPV can also incorporate scenarios and decision rules; the distinction is whether the analyst",
   "headings": [
     "Real options valuation Japan applications",
     "TL;DR",
     "Wiki route",
     "Why Real Options vs DCF NPV",
-    "The Six Common Real-Option Types",
+    "Six Illustrative Real-Option Types",
     "Option to Expand / Abandon / Delay",
     "Real-Options Framing vs DCF NPV",
     "TOB → Squeeze-Out Optionality",
@@ -122,9 +122,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 12434,
-    "word_like_tokens": 1943,
+    "nonspace_chars": 16595,
+    "word_like_tokens": 2630,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-30"
   }
 }

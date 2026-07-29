@@ -1,12 +1,12 @@
 ---
 source: finance/japan-fair-disclosure-and-insider-trading-controls
-source_hash: 6ed852d0d9b06ac4
+source_hash: bb125120c0d8c8d8
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本のフェア・ディスクロージャーとインサイダー取引管理"
-translated_at: 2026-06-26T08:32:15.199Z
+translated_at: 2026-07-29T14:32:12.538Z
 ---
 
 # 日本のフェア・ディスクロージャーとインサイダー取引管理
@@ -16,6 +16,8 @@ translated_at: 2026-06-26T08:32:15.199Z
 このページは [[finance/INDEX|finance domain]] に属し、 [[securities/INDEX|securities domain]], [[securities/tokyo-stock-exchange|Tokyo Stock Exchange]], [[financial-regulators/japan-exchange-group|Japan Exchange Group]], [[finance/japan-large-shareholding-disclosure|large-shareholding disclosure]], [[finance/japan-tender-offer-process|Japan tender offer process]], [[securities/japan-ipo-listing-disclosure-route|IPO listing disclosure route]], [[securities/japan-market-infrastructure-map|Japan market infrastructure map]], and [[securities/japan-underwriting-market-structure|Japan underwriting market structure]].
 
 ## コントロール・マップ
+
+出典: 本表は、金融庁の[フェア・ディスクロージャー・ルールガイドライン](https://www.fsa.go.jp/en/laws_regulations/disclosure/20180206-2.pdf)、[金融商品取引法](https://www.japaneselawtranslation.go.jp/en/laws/view/4633/en)、および [JPX の適時開示基盤](https://www.jpx.co.jp/english/equities/listing/disclosure/)に基づく。
 
 | コントロール層 | 公開情報ルート | 公開記録フィールド |
 |---|---|---|
@@ -27,6 +29,8 @@ translated_at: 2026-06-26T08:32:15.199Z
 | IPO / 上場 | JPX / EDINET | 上場承認、有価証券届出、継続開示。 |
 
 ## フェア・ディスクロージャー・ルールのフィールド
+
+出典: 本表の各行は金融庁の[フェア・ディスクロージャー・ルールガイドライン](https://www.fsa.go.jp/en/laws_regulations/disclosure/20180206-2.pdf)を要約したものであり、法令本文および金融庁の最新改正が優先する。
 
 | フィールド | 公開事実ルート |
 |---|---|
@@ -49,6 +53,8 @@ JPX の TDnet ページは、Company Announcements Disclosure Service / `適時�
 
 ## TDnet の公開閲覧面
 
+出典: 本表は [JPX TDnet ページ](https://www.jpx.co.jp/equities/listing/disclosure/tdnet/index.html)に記載された機能を整理したものである。保存期間とサービス名称は、JPX がサービスを変更した際に再確認する。
+
 | 表面 | 公開フィールド |
 |---|---|
 | TDnet | 開示資料の TSE 提出、TSE への事前説明、公表、報道機関配信、データベース登録を扱う電子ワークフロー。 |
@@ -57,6 +63,8 @@ JPX の TDnet ページは、Company Announcements Disclosure Service / `適時�
 | TDnet データベースサービス | 過去の開示データを取得する有料データベース・ルート。 |
 
 ## 公開記録フィールド
+
+出典: 本表は、金融庁の[フェア・ディスクロージャー・ルールガイドライン](https://www.fsa.go.jp/en/laws_regulations/disclosure/20180206-2.pdf)と [JPX の適時開示基盤](https://www.jpx.co.jp/english/equities/listing/disclosure/)を確認するための検索チェックリストであり、すべての発行体がすべての項目を公開するとの主張ではない。
 
 | Field | Source route |
 |---|---|

@@ -63,7 +63,7 @@
 | `corporate-strategy` | 11 | 0 | 18.7 |
 | `derivatives` | 33 | 0 | 15.0 |
 | `exchanges` | 147 | 0 | 11.3 |
-| `finance` | 27 | 0 | 23.0 |
+| `finance` | 27 | 0 | 19.7 |
 | `financial-conglomerates` | 8 | 0 | 24.6 |
 | `financial-licenses` | 9 | 0 | 43.7 |
 | `financial-regulators` | 53 | 0 | 21.8 |
@@ -82,7 +82,7 @@
 | `payment-firms` | 54 | 0 | 11.7 |
 | `payments` | 41 | 0 | 34.2 |
 | `policy-finance` | 35 | 0 | 27.1 |
-| `real-estate-finance` | 28 | 0 | 24.6 |
+| `real-estate-finance` | 28 | 0 | 18.1 |
 | `regional-banks` | 136 | 0 | 13.9 |
 | `retail` | 11 | 0 | 10.0 |
 | `root` | 1 | 0 | 46.0 |

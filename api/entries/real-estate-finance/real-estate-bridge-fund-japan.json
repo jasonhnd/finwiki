@@ -28,9 +28,9 @@
     "domain": "real-estate-finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "real-estate-finance",
@@ -46,13 +46,14 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.ares.or.jp/en/",
-      "https://www.jpx.co.jp/english/markets/products/securitized/",
-      "https://www.fsa.go.jp/en/",
-      "https://www.boj.or.jp/en/statistics/index.htm"
+      "https://www.jpx.co.jp/english/equities/products/reits/guidebook/b5b4pj000003984r-att/REIT.pdf",
+      "https://www.boj.or.jp/en/research/brp/fsr/fsr260421.htm",
+      "https://www.smtb.jp/english/sale/estate/service",
+      "https://www.tr.mufg.jp/english/aboutmutb/business/realestate.html",
+      "https://www.muream.tr.mufg.jp/english/"
     ]
   },
-  "summary": "A real-estate bridge fund (also called warehousing fund or pre-REIT vehicle) is a temporary SPV that acquires a property and holds it for a short period — typically 6 to 18 months — before transferring it to a long-term institutional owner such as a J-REIT, a private REIT, or a corporate pension or",
+  "summary": "A real-estate bridge or warehouse vehicle temporarily holds an asset pending a planned financing, stabilisation, or sale. A J-REIT or private vehicle can be a potential takeout buyer, but neither the buyer, hold period, GK-TK/trust structure, leverage, nor exit price is universal. The 6–18 month per",
   "headings": [
     "Real-estate bridge fund (Japan)",
     "TL;DR",
@@ -62,7 +63,7 @@
     "Equity layer",
     "Debt layer",
     "Dealer-bank role",
-    "Takeout to listed J-REIT",
+    "Possible takeout to a listed J-REIT",
     "Takeout to private REIT or pension"
   ],
   "body_links": {
@@ -115,9 +116,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 12277,
-    "word_like_tokens": 2060,
+    "nonspace_chars": 14926,
+    "word_like_tokens": 2420,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-30"
   }
 }

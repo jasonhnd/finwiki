@@ -28,9 +28,9 @@
     "domain": "real-estate-finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "real-estate-finance",
@@ -46,19 +46,20 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.ares.or.jp/en/",
+      "https://www.ares.or.jp/action/jreit/",
       "https://www.jpx.co.jp/english/markets/products/securitized/",
       "https://www.jhf.go.jp/about/index.html",
-      "https://www.jcr.co.jp/en/",
-      "https://www.r-i.co.jp/en/",
+      "https://www.jcr.co.jp/en/rrinfo/meth_sf/",
+      "https://www.r-i.co.jp/en/rating/about/credit-rating/",
       "https://www.spglobal.com/ratings/en/",
       "https://www.moodys.com/",
       "https://www.boj.or.jp/en/statistics/index.htm",
       "https://www.jsda.or.jp/shiryoshitsu/toukei/doukou/index.html",
-      "https://www.jhf.go.jp/about/investor/shisan_tanpo/index.html"
+      "https://www.jhf.go.jp/about/investor/shisan_tanpo/index.html",
+      "https://www.jhf.go.jp/english/mbs_faq.html"
     ]
   },
-  "summary": "Japan's mortgage-backed securitization market splits cleanly into two strands. RMBS (residential mortgage-backed securities) is dominated by Japan Housing Finance Agency (JHF) monthly Monthly Pass-Through MBS issuance backed by Flat 35 fixed-rate housing loans originated through private bank channel",
+  "summary": "Japan's mortgage-backed securitization market includes JHF MBS, private RMBS, and CMBS. Scale, issuer mix, structures, ratings, and distribution must be measured for a stated period from current JHF, JSDA, and transaction disclosures. This page explains the JHF payment mechanism and supplies deal-sp",
   "headings": [
     "Japan CMBS and RMBS securitization market",
     "TL;DR",
@@ -69,10 +70,10 @@
     "Private RMBS",
     "Rating-agency criteria for RMBS",
     "Single-borrower CMBS post-2010",
-    "Conduit CMBS — dormant"
+    "Conduit CMBS — activity-status test"
   ],
   "body_links": {
-    "wikilinks_count": 31,
+    "wikilinks_count": 30,
     "wikilinks": [
       "JapanFG/moodys-japan",
       "JapanFG/sp-global-ratings-japan",
@@ -95,7 +96,6 @@
       "real-estate-finance/private-reit-japan-vs-listed-j-reit-comparison",
       "real-estate-finance/real-estate-bridge-fund-japan",
       "real-estate-finance/top-10-j-reit-overview-matrix",
-      "regional-banks/japan-post-bank",
       "securities-firms/mizuho-securities",
       "securities-firms/mufg-morgan-stanley-securities",
       "securities-firms/smbc-nikko-securities",
@@ -126,7 +126,6 @@
       "https://finwiki.zksc.io/ja/real-estate-finance/private-reit-japan-vs-listed-j-reit-comparison/",
       "https://finwiki.zksc.io/ja/real-estate-finance/real-estate-bridge-fund-japan/",
       "https://finwiki.zksc.io/ja/real-estate-finance/top-10-j-reit-overview-matrix/",
-      "https://finwiki.zksc.io/ja/regional-banks/japan-post-bank/",
       "https://finwiki.zksc.io/ja/securities-firms/mizuho-securities/",
       "https://finwiki.zksc.io/ja/securities/japan-securities-depository-center/",
       "https://finwiki.zksc.io/ja/trust-banks/custody-bank/",
@@ -139,9 +138,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 15310,
-    "word_like_tokens": 2442,
+    "nonspace_chars": 16154,
+    "word_like_tokens": 2592,
     "inbound_wikilinks_count": 10,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-30"
   }
 }
