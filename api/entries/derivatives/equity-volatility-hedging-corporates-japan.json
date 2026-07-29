@@ -28,9 +28,9 @@
     "domain": "derivatives",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "derivatives",
@@ -141,9 +141,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 18816,
-    "word_like_tokens": 2905,
+    "nonspace_chars": 19530,
+    "word_like_tokens": 3009,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-07-29"
   }
 }

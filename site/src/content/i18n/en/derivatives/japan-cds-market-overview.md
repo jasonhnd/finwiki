@@ -1,168 +1,93 @@
 ---
 source: derivatives/japan-cds-market-overview
-source_hash: 13454e3cba9010d1
+source_hash: ce255a0443d11bfe
 lang: en
 status: machine
 fidelity: ok
 title: "Japan CDS market overview"
-translated_at: 2026-05-31T03:19:56.404Z
+translated_at: 2026-07-29T09:57:43.000Z
 ---
 
 # Japan CDS market overview
 
 ## TL;DR
 
-The Japan credit default swap (CDS) market is a small but structurally important corner of the global credit derivatives universe. The dominant index reference is **iTraxx Japan**, the IHS Markit / S&P Global benchmark covering 50 investment-grade Japanese corporate names rolled every six months. Single-name CDS activity concentrates on Japan blue-chip credits with offshore-investor or hedge-fund interest — megabanks, large insurers, trading houses, autos, electronics, and telecoms. The dealer set is dominated by [[securities-firms/goldman-sachs-japan|Goldman Sachs Japan]], JPMorgan Tokyo, [[securities-firms/morgan-stanley-japan|Morgan Stanley Japan]], [[securities-firms/nomura-hd|Nomura]], BNP Paribas, and a small group of European and US dealers. Clearing splits between **JSCC** for yen-denominated index CDS and **ICE Clear Credit** (and historically LCH) for offshore-cleared exposure. The CDS-JGB / CDS-corporate-bond basis is structurally narrow but episodically volatile around BOJ policy moves, dealer balance-sheet contraction, and global credit stress.
+JSCC started index CDS clearing on 19 July 2011 and single-name CDS clearing on 15 December 2014. Its service page states that coverage comprised index CDS and 60 single-name issues as of 16 September 2025, while the live product page lists the eligible iTraxx Japan series and reference entities. These pages establish JSCC eligibility and cleared-service scope, not whole-market liquidity, dealer rankings or cross-CCP shares.
 
 ## Wiki route
 
-This entry sits under [[derivatives/INDEX|derivatives index]] as the routing surface for the Japan credit derivatives subdomain. Read it together with [[derivatives/cds-japan-corporate-spread-mechanics|Japan corporate CDS spread mechanics]] for the single-name pricing layer, [[derivatives/basis-trade-bond-cds-japan|bond-CDS basis trade]] for the arbitrage layer, [[derivatives/japan-irs-market|Japan IRS market]] for the broader rates-swap context, [[derivatives/yen-basis-swap-market|yen basis swap market]] for the funding-curve interplay, and [[derivatives/cross-currency-basis-swap-japan|cross-currency basis swap Japan]] for the USD funding overlay that dominates Japanese institutional balance sheets.
+This entry sits under [[derivatives/INDEX|derivatives index]] and describes the public evidence available for Japan CDS products and clearing. Read [[derivatives/cds-japan-corporate-spread-mechanics|Japan corporate CDS spread mechanics]] for single-name pricing, [[derivatives/basis-trade-bond-cds-japan|bond-CDS basis trade]] for relative-value mechanics and [[derivatives/japan-irs-market|Japan IRS market]] for the rates context.
 
-On the issuer side, the corporate-credit anchor pages are [[finance/INDEX|finance index]], [[finance/japan-convertible-bond-mechanics|Japan convertible bond mechanics]], and [[finance/japan-cross-shareholding-unwinding-economics|cross-shareholding unwinding economics]]. On the user side, [[banking/INDEX|banking index]] and [[insurance/japan-life-insurance-alm-overview|Japan life insurance ALM]] frame the megabank / insurer demand for credit-hedging tools. [[securities/japan-prime-brokerage-and-institutional-financing|prime brokerage and institutional financing]] frames the dealer-to-hedge-fund plumbing that supports single-name CDS liquidity.
+For adjacent funding and balance-sheet context, see [[derivatives/yen-basis-swap-market|yen basis swap market]], [[derivatives/cross-currency-basis-swap-japan|cross-currency basis swap Japan]], [[finance/INDEX|finance index]], [[banking/INDEX|banking index]] and [[insurance/japan-life-insurance-alm-overview|Japan life insurance ALM]]. These links provide context; they do not establish CDS participation or volume.
 
-### Product taxonomy
+### Product and clearing scope
 
-| Product | Description | Typical user |
+The product table combines JSCC's dated service statement with its live eligibility page. The live page, not this snapshot, controls current eligibility. ^[Sources: https://www.jpx.co.jp/jscc/en/otc/member_cds.html; https://www.jpx.co.jp/jscc/en/cash/cds/product.html.]
+
+| Scope | Public evidence | Boundary |
 |---|---|---|
-| iTraxx Japan index CDS | Tradable 50-name investment-grade Japan basket, 5Y benchmark, semi-annual roll | Macro funds, dealers, ETF / portfolio hedgers |
-| Single-name CDS on Japan blue-chips | Bilateral CDS on individual Japanese listed corporates | Credit funds, structured-product issuers, dealers |
-| iTraxx Japan tranches | Synthetic CDO-style tranches on the index (less liquid post-2008) | Specialist credit funds, dealers |
-| Sovereign CDS on Japan | CDS on Japan government risk; modest activity vs G7 peers | Sovereign-risk funds, macro hedgers |
-| Quanto CDS (USD-denominated on JPY credit) | CDS denominated in USD with JPY-denominated reference obligation | Offshore investors hedging FX exposure |
-| Loan-CDS (LCDS) | CDS on syndicated loan reference; very limited Japan activity | Specialty loan credit funds |
+| iTraxx Japan index CDS | The live page lists eligible series 36-45. | Series eligibility can change; it does not establish trading volume. |
+| Single-name CDS | The service statement records 60 issues as of 16 September 2025; the live page names eligible reference entities. | Eligibility does not establish dealer count, bid-ask width or whole-market liquidity. |
+| Other CDS structures | Index-tranche, sovereign, quanto and loan-CDS terms require their own confirmation and venue evidence. | Index or single-name eligibility does not prove that another structure is clearable. |
+| General eligibility | The transaction must use the applicable ISDA Credit Derivatives Definitions; both clearing participants must apply; notional and settlement must be JPY; notional is capped at JPY 100 billion with no decimals; remaining term must be at least 1 day. | Additional product and rule conditions still apply. |
 
-The dominant volume by far sits in **iTraxx Japan index CDS** (5Y on-the-run series) and a thin tail of single-name activity on the most globally followed names.
+### Service chronology
 
-### iTraxx Japan composition
+The following table separates index and single-name launches and keeps dated coverage statements distinct from the live list. ^[Sources: https://www.jpx.co.jp/jscc/en/information/news/20110715.html; https://www.jpx.co.jp/jscc/en/information/news/20141215.html; https://www.jpx.co.jp/jscc/en/otc/member_cds.html.]
 
-iTraxx Japan is constructed by IHS Markit / S&P Global from the most liquid 50 Japan-domiciled investment-grade corporate CDS references. Composition is reviewed every six months at the index roll (March / September), with constituents weighted equally.
-
-| Sector cluster | Representative names |
+| Date | Verifiable event |
 |---|---|
-| Megabanks / financial groups | [[megabanks/mufg|MUFG]], [[megabanks/sumitomo-mitsui-banking-corp|SMBC]] (via SMFG), [[megabanks/mizuho-bank|Mizuho]] (via Mizuho FG) |
-| Insurance | Tokio Marine, Sompo, MS&AD |
-| Trading houses (sogo shosha) | Mitsubishi Corp, Mitsui & Co, Itochu, Sumitomo Corp, Marubeni |
-| Auto | Toyota, Honda, Nissan |
-| Electronics / industrial | Sony, Panasonic, Hitachi, Mitsubishi Electric |
-| Telecoms / utilities | NTT, KDDI, [[megabanks/mufg|SoftBank Group]] (when included), TEPCO, Tokyo Gas |
-| Real estate | Mitsubishi Estate, Mitsui Fudosan, Sumitomo Realty |
-| Consumer / retail | Seven & I, Aeon (when included), Fast Retailing |
+| 19 July 2011 | JSCC began clearing index CDS. |
+| 15 December 2014 | JSCC launched single-name CDS clearing with 12 initially eligible corporate reference entities. |
+| 16 September 2025 | JSCC's service page stated coverage of index CDS and 60 single-name issues. |
+| Live page | JSCC publishes the currently eligible series, reference entities and transaction conditions. |
 
-A small number of constituent rotations occur at each roll based on liquidity and rating criteria. The previous series remains tradeable for legacy hedges but liquidity migrates rapidly to the new on-the-run series.
+### What the public clearing pages prove
 
-### Single-name CDS coverage
+The following table applies a different measurement boundary to each public surface. ^[Sources: https://www.jpx.co.jp/jscc/en/cash/cds/product.html; https://www.jpx.co.jp/jscc/en/participant/cds/cds2.html; https://www.jpx.co.jp/jscc/en/cds_archive/index.html; https://www.bis.org/statistics/derstats.htm.]
 
-Single-name CDS liquidity in Japan concentrates on a handful of internationally followed credits:
-
-| Tier | Examples | Liquidity character |
+| Evidence surface | Supported use | Unsupported inference |
 |---|---|---|
-| Tier 1 (most liquid) | MUFG, SMFG / SMBC, Mizuho, Nomura, SoftBank Group, Toyota Motor | Quoted by 5+ dealers, two-way flow, narrow bid-ask |
-| Tier 2 (moderate) | Sony, Hitachi, Mitsubishi Corp, Mitsui & Co, Itochu, NTT, KDDI | Quoted by 3-5 dealers, episodic flow |
-| Tier 3 (thin) | Mid-cap industrials, second-tier financials, utilities | Quoted on request, wide bid-ask, dealer balance-sheet driven |
+| JSCC live product list | Eligible series, reference entities and clearing conditions | Bilateral or other-CCP eligibility and activity |
+| JSCC participant list dated 21 February 2022 | Participation and entrustor relationships on that page's date | A current dealer ranking or market share |
+| JSCC monthly statistics | JSCC-cleared activity for the stated month and counting method | Complete Japan CDS activity |
+| BIS OTC derivatives statistics | Aggregate global OTC derivatives measures at the published classification | A fixed Japan share without a matching BIS series and date |
 
-[[megabanks/mufg|MUFG]], [[megabanks/sumitomo-mitsui-banking-corp|SMBC]] (via SMFG), and [[megabanks/mizuho-bank|Mizuho]] (via Mizuho FG) are the most globally traded Japan financial CDS. [[securities-firms/nomura-hd|Nomura]] is the most actively traded Japan broker-dealer CDS. **SoftBank Group** is consistently the most actively traded Japan non-financial CDS owing to its leverage profile, M&A volatility, and Vision Fund mark-to-market sensitivity.
+### CDS and clearing mechanics
 
-### Dealer set
+JSCC's explanatory page describes the protection leg and the effect of clearing. The transaction's legal terms remain those of its incorporated definitions and confirmation. ^[Sources: https://www.jpx.co.jp/jscc/en/cash/cds/clearing.html; https://www.jpx.co.jp/jscc/en/cash/cds/product.html.]
 
-| Dealer | Role |
+| Element | Evidence-bounded description |
 |---|---|
-| [[securities-firms/goldman-sachs-japan|Goldman Sachs Japan]] | Top-tier market maker on index and Tier-1 single names |
-| JPMorgan Tokyo | Top-tier market maker, especially on insurance and financial credits |
-| [[securities-firms/morgan-stanley-japan|Morgan Stanley Japan]] | Top-tier market maker, especially on technology and consumer credits |
-| [[securities-firms/nomura-hd|Nomura]] | Leading domestic dealer, large index book, single-name presence |
-| BNP Paribas Tokyo | Major European market maker on Japan credit |
-| Citi Japan | Major US market maker, especially on financials |
-| Barclays / Deutsche Bank Tokyo | Mid-tier presence, varies by sector |
-| MUFG / MUMSS, SMBC Nikko, Mizuho Securities | Domestic banks active as price-takers / portfolio hedgers rather than top-tier market makers |
+| Protection buyer | Pays a fixed amount periodically, usually quarterly, during the contract term. |
+| Credit event | If the contract's credit event occurs, the protection seller makes the contractually specified payment or settlement. |
+| Reference entity | Is the entity whose credit risk is referenced; it need not be a party to the CDS or exchange cash under it. |
+| JSCC clearing | JSCC assumes obligations between clearing participants, becomes the counterparty to each side and nets settlement at the JSCC scope. |
 
-[[securities-firms/smbc-nikko|SMBC Nikko]], [[securities-firms/daiwa-sg|Daiwa]], and Mizuho Securities historically participated in single-name CDS but pulled back from active dealer-market-making roles after post-2008 regulatory and capital changes. Domestic megabank groups remain large counterparties for portfolio-hedging purposes (own-credit hedges, sovereign basis hedges) rather than dealer market makers.
+### Contract fields and quote interpretation
 
-### Notional outstanding
+The following table separates clearing-eligibility conditions on the product page from trade-specific economics fixed by the confirmation. ^[Sources: https://www.jpx.co.jp/jscc/en/cash/cds/product.html; https://www.jpx.co.jp/jscc/en/cash/cds/clearing.html.]
 
-The Bank for International Settlements (BIS) publishes semi-annual statistics on global CDS notional outstanding by reference-entity region. Japan reference-entity CDS represents a small share — typically 2-4 percent of global single-name CDS notional and a similar share of index CDS notional — well below the US dollar and euro markets.
-
-Within Japan, index CDS dominates by notional (driven by macro hedging and ETF replication flows) while single-name CDS dominates by client diversity (driven by structured product issuance and idiosyncratic credit hedging).
-
-### Clearing infrastructure
-
-Japan CDS clearing is bifurcated:
-
-| Venue | Coverage | Currency | Member base |
-|---|---|---|---|
-| **JSCC CDS Clearing** | iTraxx Japan index series, eligible single-name Japan CDS | JPY-denominated trades | Japanese dealers, foreign-bank Tokyo branches |
-| **ICE Clear Credit** | Global iTraxx index suite (including iTraxx Japan), broad single-name set | Multi-currency | Global dealer set including most active Japan CDS market-makers |
-| **LCH CDSClear** | Reduced presence post-restructuring; historically cleared European indices | Multi-currency | European dealers; less Japan exposure |
-
-[[banking/INDEX|JSCC]] (Japan Securities Clearing Corporation, part of JPX) launched CDS clearing to bring domestic dealer activity onshore and reduce cross-border concentration risk. ICE Clear Credit remains the dominant venue for cross-border Japan CDS flow given its scale, multi-product margin offset, and global dealer membership.
-
-The CFTC clearing mandate and equivalent regimes in Japan (FIEA), EU (EMIR), UK (UK EMIR) drive most dealer-to-dealer trades into central clearing. Buy-side clients clear via dealer clients (client-clearing arrangement) rather than direct membership.
-
-### CDS spread quoting
-
-| Convention | Detail |
+| Field | Verification rule |
 |---|---|
-| Quoting basis | Running spread in basis points per annum on notional |
-| Payment frequency | Quarterly, ACT/360 day count |
-| Standard maturity | 5Y benchmark; full curve typically 1Y / 3Y / 5Y / 7Y / 10Y |
-| Coupon convention | Standardized "small bang" coupons (25, 100, 500, 1000 bps for most names) with upfront payment to reconcile spread vs coupon |
-| Recovery rate | Standardized assumption (typically 40 percent for senior unsecured corporate, 25 percent for subordinated) |
-| Documentation | ISDA Master Agreement plus CDS Confirmation; 2014 ISDA Credit Derivatives Definitions |
+| Notional and currency | For JSCC eligibility, notional and settlement are JPY; notional is no more than JPY 100 billion and has no decimals. |
+| Remaining term | JSCC requires at least 1 day when it assumes the obligation; the exact scheduled termination date is trade-specific. |
+| Fixed-rate payments | JSCC describes periodic payments as usually quarterly; the applicable rate and dates come from the contract. |
+| Credit-event settlement | Read the incorporated definitions, confirmation and any auction result; a valuation recovery input is not automatically a final settlement price. |
+| Spread or curve | A quote is date-, tenor-, entity- and contract-specific; no persistent “most watched,” liquidity-tier or directional ranking is inferred here. |
 
-The 5Y on-the-run CDS spread is the most-watched single number for Japan credit risk. The 5Y CDS-bond basis (described in [[derivatives/basis-trade-bond-cds-japan|bond-CDS basis trade]]) is the primary arbitrage signal.
+### iTraxx Japan rule boundary
 
-### CDS curve shape
+The S&P iTraxx Japan rules describe index construction, not JSCC clearing volume or whole-market positions. ^[Source: https://www.spglobal.com/spdji/en/documents/methodologies/iTraxx_Japan_Index_Rules.pdf.]
 
-Most investment-grade Japan corporate CDS curves are upward-sloping (1Y < 3Y < 5Y < 10Y) reflecting the higher cumulative default probability over longer horizons. Inverted curves signal market expectation of near-term distress, as seen episodically in distressed financials and the most levered non-financials.
+- Rules are reviewed semi-annually before the index roll.
+- Roll dates are 20 March and 20 September. The corresponding 5-year index maturities are 20 June and 20 December in the fifth year after the roll.
+- Constituents have equal or approximately equal weights under the rulebook.
+- Current constituents and version status must be read from the applicable series file; JSCC eligibility must be checked separately on the live JSCC page.
 
-### Index roll mechanics
+### Market measurement boundary
 
-| Stage | Activity |
-|---|---|
-| T-30 | IHS Markit publishes provisional new-series constituents |
-| T-15 | Final constituent list confirmed; weights set |
-| T-1 | Old series final trading day before roll |
-| T (semi-annual: 20 March, 20 September) | New series goes on-the-run; old series becomes off-the-run |
-| T+5 to T+30 | Liquidity migration completes; off-the-run series widens vs on-the-run |
-
-Roll basis (the spread difference between consecutive series) reflects credit-quality changes in constituents and supply-demand at the roll. Arbitrage funds and dealer trading desks position around the roll.
-
-### Counterparty types
-
-| Counterparty | Use case |
-|---|---|
-| Macro hedge funds | Outright index CDS for credit risk-on / risk-off positioning |
-| Credit hedge funds | Single-name CDS for relative-value, basis trades, capital-structure arb |
-| Bank dealer desks | Market-making, prop positioning, hedging structured products |
-| Insurance and pension | Portfolio overlay hedging, ESR sensitivity management — see [[insurance/japan-life-insurance-alm-overview|Japan life ALM]] |
-| Corporate treasury | Own-name hedging less common; sovereign / sector hedges for FX-linked exposures |
-| Structured product issuers | Hedging credit-linked notes (CLN) and synthetic exposure transferred to retail / institutional buyers |
-| Sovereign wealth funds | Tactical macro / credit positioning on Japan sovereign and IG basket |
-
-[[insurance/japan-life-insurance-alm-overview|Japan life insurance ALM]] flags that life insurers can in principle use CDS for credit-spread hedging, though regulatory treatment under ESR and accounting rules under JGAAP and IFRS 9 constrain widespread use.
-
-### Documentation
-
-| Document | Purpose |
-|---|---|
-| ISDA Master Agreement | Bilateral framework for derivatives |
-| Schedule and Credit Support Annex (CSA) | Collateral terms, threshold, MTA, eligible collateral |
-| ISDA Credit Derivatives Definitions (2014) | Standardised CDS contract terms, credit events, settlement |
-| Confirmation | Trade-specific terms (reference entity, notional, maturity, coupon, payment dates) |
-| DTCC Deriv/SERV | Trade-matching and reporting infrastructure |
-
-The 2014 ISDA Credit Derivatives Definitions replaced the 2003 Definitions and standardized governmental-intervention and bail-in credit-event treatment, particularly important after the 2008 crisis and European bank-resolution cases.
-
-## Recent market structure shifts
-
-| Period | Development |
-|---|---|
-| 2008-2010 | Post-Lehman cleanup, "Big Bang" and "Small Bang" CDS standardization, ISDA Determinations Committee creation |
-| 2010-2015 | Migration to central clearing (JSCC launch, ICE Clear Credit dominance), Dodd-Frank / EMIR / JFSA clearing mandates |
-| 2014 | New ISDA Credit Derivatives Definitions including governmental-intervention credit event |
-| 2015-2020 | Single-name CDS liquidity contraction in many markets including Japan; index CDS resilient |
-| 2020-Q1 | COVID credit spread blowout; CDS basis dislocation across investment-grade Japan |
-| 2022-2023 | BOJ yield-curve-control adjustments triggered episodic CDS spread moves on financials |
-| 2024-2025 | Continued thin single-name volumes; selective interest in Japan financial CDS during global bank-stress episodes |
+JSCC statistics and BIS aggregates answer different questions. A defensible market-size statement must identify the dataset, reporting period, product perimeter, currency, gross-versus-net basis and whether bilateral and other-CCP transactions are included. This entry therefore does not repeat the former fixed Japan-share, venue-share, dealer-ranking or liquidity claims.
 
 ## Related
 
@@ -175,26 +100,16 @@ The 2014 ISDA Credit Derivatives Definitions replaced the 2003 Definitions and s
 - [[derivatives/yen-basis-swap-market]]
 - [[derivatives/cross-currency-basis-swap-japan]]
 - [[finance/INDEX]]
-- [[finance/japan-convertible-bond-mechanics]]
-- [[finance/japan-cross-shareholding-unwinding-economics]]
 - [[banking/INDEX]]
 - [[insurance/japan-life-insurance-alm-overview]]
-- [[securities/japan-prime-brokerage-and-institutional-financing]]
-- [[megabanks/mufg]]
-- [[megabanks/sumitomo-mitsui-banking-corp]]
-- [[megabanks/mizuho-bank]]
-- [[securities-firms/nomura-hd]]
-- [[securities-firms/goldman-sachs-japan]]
-- [[securities-firms/morgan-stanley-japan]]
 - [[INDEX|FinWiki index]]
 
 ## Sources
 
-- ISDA: Master Agreement, CDS Definitions, Determinations Committee public materials.
-- FSA: post-2008 derivatives regulation, clearing mandate guidance, follow-up council materials.
-- JSCC: CDS clearing service overview and member list.
-- ICE: Clear Credit product list and clearing membership.
-- IHS Markit / S&P Global: iTraxx Japan index methodology and roll calendar.
-- BIS: semi-annual OTC derivatives statistics including CDS by region.
-- BOJ: market statistics relevant to Japan credit funding and basis.
-- JSDA: member-firm regulatory and market structure materials.
+- [JSCC: CDS clearing service scope](https://www.jpx.co.jp/jscc/en/otc/member_cds.html)
+- [JSCC: live clearing-product list and conditions](https://www.jpx.co.jp/jscc/en/cash/cds/product.html)
+- [JSCC: CDS and clearing explanation](https://www.jpx.co.jp/jscc/en/cash/cds/clearing.html)
+- [JSCC: clearing participants and entrustors](https://www.jpx.co.jp/jscc/en/participant/cds/cds2.html)
+- [JSCC: monthly CDS statistics archive](https://www.jpx.co.jp/jscc/en/cds_archive/index.html)
+- [S&P Dow Jones Indices: iTraxx Japan Index Rules](https://www.spglobal.com/spdji/en/documents/methodologies/iTraxx_Japan_Index_Rules.pdf)
+- [BIS: OTC derivatives statistics](https://www.bis.org/statistics/derstats.htm)

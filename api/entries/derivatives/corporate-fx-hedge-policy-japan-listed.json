@@ -28,9 +28,9 @@
     "domain": "derivatives",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "derivatives",
@@ -52,7 +52,7 @@
       "https://www.isda.org/"
     ]
   },
-  "summary": "A Japan-listed corporate FX hedge policy is the board-approved framework that translates a company's foreign-currency exposure into a disciplined hedging program using forwards, NDFs, options, and cross-currency swaps. The policy answers four operative questions: what to hedge, how far out to hedge,",
+  "summary": "A Japan-listed corporate FX hedge policy translates identified foreign-currency exposure into approved instruments, limits, documentation and accounting treatment. Depending on the company, it may address four operative questions: what to hedge, how far out to hedge, what instruments to use, and how",
   "headings": [
     "Corporate FX hedge policy at Japan listed companies",
     "TL;DR",
@@ -105,9 +105,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 16915,
-    "word_like_tokens": 2795,
+    "nonspace_chars": 15517,
+    "word_like_tokens": 2445,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-29"
   }
 }

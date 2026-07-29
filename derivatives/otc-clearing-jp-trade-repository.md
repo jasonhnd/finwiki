@@ -12,21 +12,18 @@ aliases:
   - "日本 OTC デリバティブ清算"
 domain: derivatives
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
 confidence: likely
 tags: [derivatives, otc-infra, clearing, trade-repository, JSCC, DTCC, FIEA, EMIR, Title-VII, ISDA, mandatory-clearing]
 status: active
 sources:
-  - "https://www.jscc.co.jp/en/"
-  - "https://www.jscc.co.jp/en/cds/"
-  - "https://www.jscc.co.jp/en/irs/"
-  - "https://www.fsa.go.jp/en/"
-  - "https://www.dtcc.com/asia/japan"
-  - "https://www.isda.org/"
-  - "https://www.boj.or.jp/en/paym/market/"
-  - "https://www.jpx.co.jp/english/"
+  - "JSCC IRS products — https://www.jpx.co.jp/jscc/en/cash/irs/product.html"
+  - "JSCC CDS products — https://www.jpx.co.jp/jscc/en/cash/cds/product.html"
+  - "JSCC OTC JGB products — https://www.jpx.co.jp/jscc/en/cash/jgbcc/product.html"
+  - "JSCC listed products — https://www.jpx.co.jp/jscc/en/cash/futures/product.html"
+  - "FSA OTC-derivative reporting guidelines — https://www.fsa.go.jp/en/news/2022/20220912-1/01.pdf"
 ---
 
 # OTC derivatives clearing and trade repository — Japan
@@ -35,13 +32,13 @@ sources:
 
 Japan's **OTC derivatives clearing and reporting regime** rests on three pillars:
 
-1. **Central clearing at [[securities/japan-securities-clearing-corp|JSCC]]** for the mandatorily clearable OTC products — yen interest-rate swaps (JPY IRS), overnight index swaps (OIS) referencing TONA, and the JSCC CDS clearing service (for designated index CDS). Mandatory clearing is enforced under the Financial Instruments and Exchange Act (FIEA) for in-scope counterparties and product classes, mirroring the post-2009 G20 Pittsburgh commitments;
+1. **Central clearing at [[securities/japan-securities-clearing-corp|JSCC]]** for products satisfying the current eligibility criteria. JSCC's IRS list includes OIS, D-TIBOR products, and basis variants; its CDS list includes specified index and single-name products. Eligibility does not by itself establish that a particular trade is legally mandated to clear;
 
-2. **Trade-repository reporting** — all OTC derivatives traded by FIEA-regulated entities must be reported to a trade repository (TR). The primary TR for Japan is **DTCC Data Repository Japan** (a regulated DTCC subsidiary), with the JFSA as the receiving regulator. Reporting captures both bilateral and cleared trades, supporting systemic-risk monitoring;
+2. **Trade-repository reporting** — FSA guidelines define reporting entities, reportable transactions and fields, timing, and submission routes. The scope test and exemptions must be applied rather than summarized as “all trades”;
 
-3. **Cross-border equivalence** — Japan has secured **EMIR equivalence** from the European Commission for the JSCC clearing service (allowing EU counterparties to clear through JSCC without losing EMIR Title-IV preferential treatment) and **Title VII / Dodd-Frank substituted-compliance / equivalence** elements from the US CFTC for clearing and reporting recognition (subject to specific category-by-category determinations).
+3. **Cross-border recognition questions** — any EU or US recognition, equivalence, registration, or substituted-compliance conclusion is service-, category-, entity-, and date-specific. This page does not make a blanket current determination without the exact current EC, ESMA, or CFTC instrument.
 
-This entry covers the JSCC clearing scope and member structure, the trade-repository reporting obligation under FIEA, the EMIR / CFTC equivalence framework, the dispute-resolution architecture, and the structural reason Japan's OTC clearing scope remains **narrower than EU EMIR Annex IV** despite broad equivalence recognition.
+This entry covers the JSCC product surface and the FSA reporting framework. Cross-border recognition must be checked from the relevant foreign regulator's current primary instrument.
 
 ## Wiki route
 
@@ -64,12 +61,14 @@ This is the structural backbone of the Japan OTC derivatives market. A dealer-ba
 
 JSCC operates designated clearing services for OTC derivatives in Japan. The current public-source scope includes:
 
-| Clearing service | Underlying products | Mandatory clearing scope |
+| JSCC service | Products shown on the current eligibility page | Scope caution |
 |---|---|---|
-| **JSCC IRS clearing** | Yen interest-rate swaps; yen OIS referencing [[derivatives/japan-interest-rate-derivatives-overview|TONA]]; selected basis-swap variants | Mandatory for FIEA-regulated counterparties above designated notional thresholds for standardized contract terms. |
-| **JSCC CDS clearing** | iTraxx Japan index CDS (designated series); selected single-name reference entities (scope evolves with JSCC product additions) | In-scope index CDS clearing for FIEA-regulated dealer counterparties. |
-| **JSCC JGB OTC clearing (where applicable)** | JGB cash trades and JGB repo (the JGB OTC clearing service covers JGB cash and repo, with margining and netting) | Member-driven and counterparty-by-counterparty as scope expands. |
-| **JSCC listed-derivatives clearing** | JPX-listed Nikkei 225 futures / options, TOPIX futures, JGB futures, TONA futures, single-name listed options on [[securities/osaka-exchange|OSE]] | Mandatory for all on-venue executed trades (listed-derivatives are cleared by design). |
+| **IRS** | OIS, D-TIBOR IRS, D-TIBOR tenor swaps, OIS basis swaps, and OIS-versus-D-TIBOR basis swaps under stated criteria | Product eligibility, counterparty scope, and legal mandate must be checked separately |
+| **CDS** | Current iTraxx Japan series and named single-reference entities listed by JSCC | The live list and series must be checked at trade date |
+| **OTC JGB** | Purchase and sale, cash-secured lending, standard repo, and subsequent-collateral-allocation repo | Governed by the JGB OTC service rules, not the IRS mandate |
+| **Listed derivatives** | JPX-listed futures and options enumerated by JSCC | On-exchange clearing follows the listed-product framework |
+
+Sources: ^[source:https://www.jpx.co.jp/jscc/en/cash/irs/product.html] ^[source:https://www.jpx.co.jp/jscc/en/cash/cds/product.html] ^[source:https://www.jpx.co.jp/jscc/en/cash/jgbcc/product.html] ^[source:https://www.jpx.co.jp/jscc/en/cash/futures/product.html]
 
 The **clearing-mandate scope is FIEA-defined**: not every OTC derivative trade between every Japanese counterparty must clear. Scope is determined by:
 
@@ -116,7 +115,7 @@ Reportable data fields cover, at a minimum:
 | **Execution venue** | On-venue (e.g. ETP, electronic platform) or off-venue (voice / bilateral). |
 | **Lifecycle events** | New trade, modification, novation, termination, compression. |
 
-Reporting timing is **T+1 or T+2** in many cases, with daily collateral and valuation updates for open positions.
+Reporting timing, valuation, and collateral-update duties follow the applicable FSA guideline and reporting route; no generic T+1/T+2 rule is substituted for the current scope table.
 
 ### Why TR reporting matters
 
@@ -124,40 +123,14 @@ The TR data is the **structural input** for:
 
 - **JFSA systemic-risk monitoring** — aggregate notional, gross market value, exposure concentrations, counterparty network analysis;
 - **BOJ financial-stability surveillance** — input to the BOJ Financial System Report and macroprudential analysis;
-- **Cross-border regulator coordination** — JFSA shares aggregate / position data with US CFTC, EU ESMA, and other regulators under MOUs supporting the EMIR / Title-VII equivalence framework;
-- **Public statistics** — aggregate notional outstanding by product class for Japan OTC derivatives is published by BOJ and BIS, with TR data as a foundational input.
+- **Cross-border coordination** — subject to applicable law, agreements, and data-access controls;
+- **Public statistics** — BOJ, BIS, FSA, and JSCC publish aggregate surfaces with their own populations and methodologies.
 
 The TR is **not a public price feed**. Trade-level data is regulator-only; aggregate / anonymized statistics flow to the public.
 
-### EMIR equivalence (EU)
+### Cross-border recognition boundary
 
-The European Commission has granted **EMIR equivalence determinations** covering Japan's CCP and trading-venue regimes in specific categories:
-
-- **JSCC equivalence** — recognition by ESMA of JSCC as a third-country CCP, allowing EU counterparties to clear designated products through JSCC without losing the capital-efficient treatment EU rules grant to clearing at recognized CCPs;
-- **Trading-venue equivalence (where applicable)** — recognition of Japan electronic trading venues (such as JPX-listed derivatives venues and certain ETPs) under MiFID II for European counterparties using these venues;
-- **Trade-reporting equivalence** — recognition of Japan TR reporting in specific categories.
-
-These determinations are **product / venue specific** and reviewed periodically. EU counterparties relying on equivalence should confirm current scope.
-
-### CFTC substituted compliance / Title VII recognition (US)
-
-The US Commodity Futures Trading Commission (CFTC) has issued substituted-compliance / comparability determinations covering Japan in specific categories under the Dodd-Frank Title VII framework:
-
-- **CCP recognition** — JSCC as a CFTC-registered Derivatives Clearing Organization (DCO) for selected services where US counterparties clear in Japan;
-- **Trading venue recognition** — certain Japan execution venues recognized as compliant for US Title-VII purposes in defined categories;
-- **Reporting comparability** — Japan TR reporting recognized as comparable for specified Title-VII reporting obligations in defined cases.
-
-As with EMIR, these determinations are **product / venue specific** and reviewed periodically by the CFTC.
-
-### Structural significance
-
-EMIR and Title-VII equivalence are **a non-trivial regulatory achievement** for Japan. Without equivalence, EU and US counterparties trading with Japan dealer banks would face:
-
-- Loss of capital-efficient netting and clearing treatment;
-- Duplicate reporting obligations to both Japan TRs and EU / US TRs;
-- Trading-venue restrictions limiting access to Japan execution platforms.
-
-Equivalence preserves Japan's position as a **fully integrated G20 OTC derivatives jurisdiction** and is one of the structural reasons foreign dealer banks ([[securities-firms/goldman-sachs-japan|GS]], [[securities-firms/morgan-stanley-japan|MS]], [[foreign-financial-institutions/jpmorgan-japan|JPM]], [[foreign-financial-institutions/citigroup-japan|Citi]]) maintain full Tokyo dealer operations.
+EU equivalence, ESMA CCP recognition, CFTC registration, comparability, and substituted compliance are different legal instruments. Their entity, service, product, category, conditions, and effective dates can change independently. Because no current EC, ESMA, or CFTC primary instrument is cited in this entry, it makes no blanket claim that “Japan,” JSCC as a whole, every ETP, or Japan trade reporting is currently recognized for every purpose.
 
 ## Dispute resolution
 

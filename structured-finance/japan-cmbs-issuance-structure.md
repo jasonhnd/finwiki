@@ -1,133 +1,103 @@
 ---
-title: "Japan CMBS issuance structure"
+title: "Japan CMBS issuance structure — named-deal evidence guide"
 aliases:
   - "Japan CMBS"
-  - "日本CMBS"
-  - "Japanese commercial mortgage-backed securities"
-  - "Japan single-borrower CMBS"
-  - "Japan conduit CMBS"
-  - "Japan CMBS post-2008"
+  - "Japan CMBS issuance"
+  - "structured-finance/japan-cmbs-issuance-structure"
 domain: structured-finance
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
 confidence: likely
-tags: [structured-finance, cmbs, securitization, japan, commercial-real-estate]
+tags: [structured-finance, cmbs, commercial-mortgage, japan]
 status: active
 sources:
-  - "https://www.jcr.co.jp/en/"
-  - "https://www.r-i.co.jp/en/"
-  - "https://www.jsda.or.jp/en/"
+  - "https://www.jsda.or.jp/en/statistics/securitization-market/"
+  - "https://www.jcr.co.jp/en/rrinfo/meth_sf/"
+  - "https://jcr.co.jp/en/ratinglist/sf_sf/"
+  - "https://laws.e-gov.go.jp/law/410AC0000000105"
 ---
 
-# Japan CMBS issuance structure
+# Japan CMBS issuance structure — named-deal evidence guide
 
 ## TL;DR
 
-Japan CMBS is split between single-borrower (single-asset or small-pool, one sponsor) and conduit (multiple uncorrelated borrowers, larger pool) structures. The market peaked in 2006-2007, was devastated by the 2008-2010 global financial crisis with many defaults at maturity rollover, and stayed largely dormant through the 2010s. The market has been reviving in the 2020s on the back of logistics-warehouse and office single-borrower deals, but issuance volume remains a fraction of the pre-2008 peak. Use this page to understand CMBS structure mechanics; pair with [[real-estate-finance/INDEX]] for the underlying real-estate cash flow and with [[structured-finance/japan-abs-market-overview]] for total market context.
+The prior page generalized TMK/GK-TK preference, standard tranching, rating, servicer, post-2008 defaults and a 2020 logistics-led revival without a defined transaction set. Those claims are removed. A CMBS must be described from the named issuer, collateral, loan, vehicle, waterfall, servicing and dated rating / performance documents.
 
 ## Wiki route
 
-| You want | Go to |
+Use this page with [[structured-finance/tmk-special-purpose-company-mechanics]], [[structured-finance/spv-tk-gk-vehicle-japan-tax]], and [[structured-finance/credit-rating-methodology-jcr-r-and-i]].
+
+## 1. Named transaction
+
+[JCR's public structured-finance rating list](https://jcr.co.jp/en/ratinglist/sf_sf/) is one entry point; the following table states the full evidence required.
+
+| Field | Required public evidence |
 |---|---|
-| Market overview | [[structured-finance/japan-abs-market-overview]] |
-| RMBS comparison | [[structured-finance/japan-rmbs-issuance-structure]] |
-| SPV vehicle | [[structured-finance/spv-tk-gk-vehicle-japan-tax]] |
-| Rating criteria | [[structured-finance/credit-rating-methodology-jcr-r-and-i]] |
-| Real-estate cash-flow side | [[real-estate-finance/INDEX]] |
+| Issuer / vehicle | Offering and legal documents |
+| Borrower / sponsor | Loan and transaction disclosure |
+| Collateral | Property / mortgage / trust-interest definition |
+| Loan terms | Principal, maturity, amortization, covenants and recourse |
+| Notes / interests | Class terms and payment priority |
+| Rating | Dated class-specific action and criteria version |
 
-## 1. Structure types
+## 2. Vehicle boundary
 
-| Type | Description |
+[The Asset Securitization Act](https://laws.e-gov.go.jp/law/410AC0000000105) establishes the TMK-law boundary in the following table, not a CMBS market preference.
+
+| Vehicle claim | Required evidence |
 |---|---|
-| Single-borrower | One sponsor, one property or small pool, one set of mortgage loans. Common in 2020s revival. |
-| Conduit | Multiple uncorrelated borrowers, larger pool, diversification benefit. Common pre-2008, rare today. |
-| Single-asset / single-borrower (SASB) | Most concentrated form: one large property, one loan, tranched. |
-| Multi-sponsor conduit | Several originators contribute loans into a common pool. Largely vanished in Japan post-2008. |
+| TMK | Named issuer, notification / plan and offering document |
+| GK plus TK | Formation, TK and asset documents |
+| Trust beneficial interest | Trust deed and transfer / offer terms |
+| Public or listed | Offer filing and exchange record |
+| Tax / accounting | Current law plus transaction-specific analysis |
 
-Today's Japan CMBS issuance is overwhelmingly single-borrower, single-asset, or small-pool. The conduit model has not meaningfully returned.
+## 3. Cash flow and servicing
 
-## 2. Tranching
+[JCR's methodology library](https://www.jcr.co.jp/en/rrinfo/meth_sf/) supports the following analytical checklist.
 
-| Tranche | Typical buyer |
+| Field | Required named-deal evidence |
 |---|---|
-| Senior (AAA / AA target) | Lifers, asset managers, megabank ALM books |
-| Mezzanine (A / BBB) | Specialty investors, hedge funds |
-| B-piece (BB / B / NR) | Specialty B-piece buyers (see below) |
-| Equity / first-loss | Sponsor retention, sometimes specialist investor |
+| Property cash flow | Rent roll, expenses, vacancies and valuation date |
+| Debt service | Interest, amortization and balloon terms |
+| Waterfall | Fees, interest, principal and loss allocation |
+| Reserves / hedges | Funding, uses, counterparties and replacement terms |
+| Servicer / special servicer | Appointment, transfer event and powers |
+| Refinance / sale | Assumptions and contractual timing |
 
-Tranching is achieved through subordination plus interest-cash-flow waterfall.
+## 4. Historical analysis
 
-## 3. B-piece buyer market
+[JSDA's securitization-market survey](https://www.jsda.or.jp/en/statistics/securitization-market/) supports the following method.
 
-- B-piece (the controlling subordinate class) buyers were a key part of pre-2008 US-style CMBS but never developed deeply in Japan.
-- In Japan, sponsors or specialty real-estate investors often retain the B-piece directly rather than selling to a dedicated B-piece buyer market.
-- This is one structural reason why Japanese CMBS has fewer conduit deals — without an active B-piece buyer base, conduit economics are difficult.
-
-## 4. Recovery scenarios
-
-| Scenario | What happens |
+| Claim | Required evidence |
 |---|---|
-| Performing | Cash flow services tranches; senior paid first; equity collects residual. |
-| Underperforming | Triggers may divert excess cash to senior; equity / mezz cash flow cut. |
-| Default at maturity | Loan does not refinance at scheduled maturity; special servicer takes over. |
-| Foreclosure / forced sale | Property sold; recovery distributed by tranche seniority. |
-| Modification / extension | Loan term extended; tranche cash flows shifted. |
+| Issuance trend | Defined JSDA category, period and revisions |
+| Default | Named loan / note event and date |
+| Loss / recovery | Trustee, servicer or rating disclosure |
+| Property-type trend | Named transaction set and cutoff |
+| “Shutdown” / “revival” | Defined threshold and calculation |
 
-Recovery in Japan benefits from a relatively transparent real-estate-appraisal regime and well-developed real-estate brokerage market, but disposition can be slow due to commercial-tenant protection and contractual constraints.
+## 5. Deferred claims
 
-## 5. Post-2008 issuance drop
+Vehicle dominance, standard tranches, agency combination, investor base, default-wave magnitude and current revival remain deferred without a defined public transaction population.
 
-| Period | Pattern |
-|---|---|
-| 2003-2006 | Rapid growth; conduit deals common; aggressive structuring. |
-| 2006-2007 | Peak issuance; significant cross-border investor participation. |
-| 2008-2010 | Global financial crisis; refinancing freeze; many 5-year deals defaulted at maturity rollover. |
-| 2008-2012 | Rating downgrades; loss realizations; bondholder workouts. |
-| 2012-2018 | Market essentially dormant for public deals. |
-| 2018-2020 | Selective single-borrower deals revived. |
-| 2020-present | Logistics-warehouse boom drives single-borrower CMBS; office and hotel deals selective. |
+## Wiki route
 
-The 2008-2010 default wave left a deep imprint on Japan CMBS — investor base, structuring conservatism, and rating-agency methodology all reflect that experience.
-
-## 6. Market revival 2020s
-
-| Driver | Effect |
-|---|---|
-| Logistics-warehouse boom | E-commerce demand → large, single-tenant, long-lease warehouses → ideal for single-borrower CMBS. |
-| Foreign investor reentry | Cross-border capital reentering Japan real estate; CMBS as alternative to direct REIT investment. |
-| Negative-rate / low-yield environment (pre-2024) | Yield-seeking investors willing to take structured-real-estate risk. |
-| Logistics-J-REIT alternative | Sponsors prefer CMBS over J-REIT IPO for some portfolios. |
-
-The 2020s revival is real but modest compared to pre-2008 peak. Conduit deals remain absent; single-borrower or single-asset deals dominate.
-
-## 7. Vehicle choice
-
-CMBS deals in Japan typically use a TMK (特定目的会社) under the asset-securitization law or a TK-GK SPV structure. See [[structured-finance/spv-tk-gk-vehicle-japan-tax]] for vehicle choice. TMK is preferred for public-listed bond issuance; TK-GK is more common for private placement.
-
-## 8. Underlying-property risk
-
-CMBS risk depends primarily on the underlying property's cash flow. Office, retail, hotel, logistics, and residential-investment property all have different risk profiles. See [[real-estate-finance/INDEX]] for the underlying real-estate-finance lane.
-
-J-REIT debt overlap: J-REITs ([[structured-finance/INDEX]] for sponsor lineage) often borrow secured by their portfolio properties, but those loans are not securitized as CMBS — they are direct bank loans or J-REIT-issued unsecured bonds.
+Read this entry within [[structured-finance/INDEX|structured finance]] and use [[finance/INDEX|finance]] for cross-domain capital-markets context.
 
 ## Related
 
 - [[structured-finance/INDEX]]
 - [[structured-finance/japan-abs-market-overview]]
-- [[structured-finance/japan-rmbs-issuance-structure]]
+- [[structured-finance/tmk-special-purpose-company-mechanics]]
 - [[structured-finance/spv-tk-gk-vehicle-japan-tax]]
-- [[structured-finance/japan-trust-beneficial-interest-vs-spv]]
 - [[structured-finance/credit-rating-methodology-jcr-r-and-i]]
-- [[real-estate-finance/INDEX]]
-- [[banking/INDEX]]
-- [[finance/japan-acquisition-finance]]
 
 ## Sources
 
-- JCR (Japan Credit Rating Agency), CMBS structured-finance criteria.
-- R&I (Rating and Investment Information), CMBS methodology.
-- JSDA (Japan Securities Dealers Association).
-- ASF Japan (Asset Securitization Forum Japan).
-- Megabank IR (MUFG, SMFG, Mizuho FG).
+- [JSDA, securitization market](https://www.jsda.or.jp/en/statistics/securitization-market/).
+- [JCR, structured-finance methodology library](https://www.jcr.co.jp/en/rrinfo/meth_sf/).
+- [JCR, structured-finance rating list](https://jcr.co.jp/en/ratinglist/sf_sf/).
+- [Asset Securitization Act](https://laws.e-gov.go.jp/law/410AC0000000105).

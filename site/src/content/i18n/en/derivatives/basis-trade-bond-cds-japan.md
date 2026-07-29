@@ -1,50 +1,52 @@
 ---
 source: derivatives/basis-trade-bond-cds-japan
-source_hash: 54304e00452a6d3d
+source_hash: 51ead5321da09865
 lang: en
 status: machine
 fidelity: ok
 title: "Bond-CDS basis trade Japan"
-translated_at: 2026-05-31T03:19:56.419Z
+translated_at: 2026-07-29T22:02:00.000Z
 ---
 
 # Bond-CDS basis trade Japan
 
 ## TL;DR
 
-The Japan bond-CDS basis is the spread between a corporate's CDS protection cost and its cash bond's credit spread over the swap or JGB benchmark curve at matched tenor. **Negative basis** (CDS < bond spread) historically attracted long-cash-short-CDS trades that lock in a "free" carry net of funding cost and balance-sheet charges. **Positive basis** (CDS > bond spread) is less common in Japan but appears during stress when protection-buying demand exceeds dealer capacity. Post-2010, Basel-III leverage ratio, single-counterparty credit limits, repo specials on JGBs, and BOJ unconventional policy (NIRP, QQE, YCC, YCC adjustments) have made basis trades harder to scale and more volatile through cycles. Major basis dislocations in Japan IG corporate credit occurred during **COVID Q1 2020** (negative basis blew wide as cash bonds traded distressed faster than CDS), **2022-2023 BOJ YCC adjustments** (rate and spread repricing widened basis), and **2024 episodic Japan financial credit stress** (smaller dislocations on selected names).
+The Japan bond-CDS basis compares a corporate CDS spread with a matched cash bond's credit spread over a stated government or swap benchmark. Under the convention used here, **basis = CDS spread minus bond spread**. A negative quoted basis can motivate a financed long-bond / bought-protection comparison, but it is not “free carry”: bond selection, hedge ratio, CDS deliverable terms, accrued interest, recovery, funding, margin, counterparty risk, liquidity, tax, and capital all affect the result. The public sources cited here do not provide a complete executable Japan corporate bond-CDS panel, so event direction, frequency, participant rankings, and realized returns are treated as research questions rather than market facts.
 
 ## Wiki route
 
 This entry sits under [[derivatives/INDEX|derivatives index]] as the arbitrage / relative-value layer that complements [[derivatives/japan-cds-market-overview|Japan CDS market overview]] and [[derivatives/cds-japan-corporate-spread-mechanics|Japan corporate CDS spread mechanics]]. Read it together with [[derivatives/japan-irs-market|Japan IRS market]] for the swap-curve anchor used in asset-swap pricing, [[derivatives/yen-basis-swap-market|yen basis swap market]] for the JPY funding-cost layer, and [[derivatives/cross-currency-basis-swap-japan|cross-currency basis swap Japan]] for the USD-JPY funding interaction that affects USD-funded participants in JPY basis trades.
 
-On the cash-bond side, cross-reference [[finance/INDEX|finance index]], [[finance/japan-convertible-bond-mechanics|convertible bond mechanics]], and [[money-market/INDEX|money-market index]] for the JGB repo and funding context. On the institutional side, [[banking/INDEX|banking index]], [[insurance/japan-life-insurance-alm-overview|Japan life insurance ALM]], and [[securities/japan-prime-brokerage-and-institutional-financing|prime brokerage and institutional financing]] map the dealer / fund counterparties of the trade.
+On the cash-bond side, cross-reference [[finance/INDEX|finance index]], [[finance/japan-convertible-bond-mechanics|convertible bond mechanics]], and [[money-market/INDEX|money-market index]] for bond and funding context. [[banking/INDEX|banking index]], [[insurance/japan-life-insurance-alm-overview|Japan life insurance ALM]], and [[securities/japan-prime-brokerage-and-institutional-financing|prime brokerage and institutional financing]] provide adjacent institutional context; they do not establish ownership of a particular basis position.
 
 ### Definition
 
 ```
-Bond-CDS basis = CDS spread - Bond Z-spread (or asset swap spread) at matched tenor
+Bond-CDS basis = CDS spread - Bond Z-spread (or asset-swap spread) at matched tenor
 ```
+
+The sign table follows the conventional matched-reference, matched-tenor comparison. It is a definition, not evidence that a frictionless arbitrage can be executed. ^[Sources: https://www.isda.org/2014/06/30/2014-credit-derivatives-definitions/; https://www.bis.org/publ/qtrpdf/r_qt0712e.pdf.]
 
 | Sign | Interpretation |
 |---|---|
-| Negative basis | CDS spread < Bond spread → buying protection is cheaper than the bond's credit spread implies → long-cash-short-CDS attractive |
+| Negative basis | CDS spread < bond spread; a financed long-bond / bought-protection package may merit study after all adjustments |
 | Zero basis | Pure-arbitrage equilibrium (theoretical) |
-| Positive basis | CDS spread > Bond spread → selling protection captures more than the bond's credit spread → short-cash-long-CDS attractive |
+| Positive basis | CDS spread > bond spread; the reverse package may merit study, subject to bond-borrow and CDS terms |
 
 ### Why basis is not zero
 
 In a frictionless world the basis would be zero. Real-world frictions create persistent and time-varying basis:
 
-| Friction | Effect on basis |
+| Friction | Required treatment |
 |---|---|
-| Bond funding cost (repo rate, balance-sheet charges) | Tends to push basis negative (bond costs more to hold than synthetic) |
-| Credit-event coverage difference (deliverable obligation universe, restructuring scope) | CDS coverage may be broader or narrower than bond exposure |
-| Cheapest-to-deliver option on CDS | Adds value to CDS protection vs cash bond, pushing basis positive |
-| Counterparty risk on CDS | Reduces value of CDS protection, pushing basis negative |
-| Liquidity asymmetry | Less-liquid leg trades at premium / discount |
-| Regulatory capital cost | Bank-owned long-cash-short-CDS positions consume risk-weighted assets and leverage capacity |
-| Tax and accounting | Different recognition timing of cash bond income vs CDS premium |
+| Bond funding cost | Use executable rate, haircut, maturity, collateral terms, and balance-sheet charges |
+| Credit-event coverage difference | Match deliverable obligations, restructuring terms, seniority, and reference entity |
+| Delivery option | Value the applicable deliverable-obligation option rather than assigning a fixed sign |
+| Counterparty risk | Include collateral, netting, margin, default, and replacement-cost terms |
+| Liquidity asymmetry | Use same-time executable quotes and sizes for both legs |
+| Regulatory capital cost | Apply the institution's governing prudential treatment to the actual package |
+| Tax and accounting | Align recognition, withholding, valuation, and reporting for both legs |
 
 ### Structure
 
@@ -54,7 +56,7 @@ In a frictionless world the basis would be zero. Real-world frictions create per
 | Short CDS protection (i.e., buy protection) | Pay running spread for protection against credit event |
 | Net carry | Bond yield - Funding rate - CDS premium |
 
-Provided the negative basis exceeds funding cost and balance-sheet charges, the trade locks in positive carry with credit-event protection from the CDS leg.
+A screen showing bond spread above CDS spread may imply positive modeled carry after stated costs, but the package does not lock in a risk-free return because the bond and CDS can differ in obligations, recovery, liquidity, funding, counterparty exposure, and settlement.
 
 ### P&L decomposition
 
@@ -63,113 +65,112 @@ Daily P&L ≈ (Bond accrual - Repo funding cost) - (CDS premium accrual)
            + Mark-to-market change in (Bond price - CDS protection value)
 ```
 
-If the basis narrows toward zero, the position appreciates (bond rises faster than CDS, or CDS widens faster than bond). If basis widens further negative, position loses MTM.
+Mark-to-market direction depends on the stated basis sign, spread DV01 hedge ratio, accrued interest, recovery and funding treatment. The headline basis change alone is insufficient when the two legs are not duration- and contract-matched.
 
 ### Required holding period
 
-To realize the locked-in carry, the position typically needs to be held to bond maturity or to a known horizon. Short-horizon trades depend on basis convergence which is unpredictable. Many funds historically rolled positions and accepted MTM volatility.
+The evaluation horizon must be stated. A hold-to-maturity analysis must model bond redemption and CDS maturity / settlement, while an earlier exit requires executable unwind prices and funding termination terms. The cited aggregate sources do not establish how funds historically held or rolled Japan positions.
 
 ## Funding cost considerations
 
-The bond leg requires funding. Funding cost is the dominant determinant of trade economics:
+The bond leg requires funding. A reproducible trade model states each funding input:
 
 | Funding source | Cost driver |
 |---|---|
-| Repo (bilateral or tri-party) | Repo rate; JPY repo close to BOJ policy rate plus haircut |
-| GC repo on JGB collateral | General-collateral JGB repo rate, sensitive to BOJ JGB-supply operations |
-| Specific-collateral repo on the corporate bond | Often more expensive; reflects bond's borrowability and demand from short-sellers |
-| Bank balance-sheet funding | Internal cost-of-funds (FTP); higher than repo for most banks |
-| Prime broker financing | Hedge fund standard route via [[securities/japan-prime-brokerage-and-institutional-financing|prime brokerage]]; spreads over GC repo plus haircut |
+| Repo (bilateral or tri-party) | Executable rate, haircut, collateral, maturity, substitution, and close-out terms |
+| GC repo on JGB collateral | Relevant only if the actual funding chain uses JGB collateral; identify any collateral transformation |
+| Specific-collateral repo on the corporate bond | Verify that the bond is accepted and record quote, size, haircut, and term |
+| Bank balance-sheet funding | Institution-specific funds-transfer, liquidity, capital, and balance-sheet charges |
+| Prime broker financing | Contracted financing spread, haircut, eligible collateral, margin, and termination terms; see [[securities/japan-prime-brokerage-and-institutional-financing|prime brokerage]] |
 
-A 50 bps negative basis can be entirely eaten by funding costs if the bond is hard to repo, the haircut is steep, or balance-sheet charges are high. The trade-economic threshold for basis trades depends on the funding stack.
+A quoted negative basis is not an executable profit measure. The threshold depends on the same-date bond and CDS quotes, hedge ratio, full funding stack, transaction costs, margin, capital, and exit assumptions.
 
 ## Repo-availability constraints
 
-Repo availability is the practical bottleneck. Japanese corporate-bond repo is far less liquid than JGB repo:
+Repo availability must be established for the selected bond and date. The cited aggregate sources do not support a timeless Japan corporate-bond-versus-JGB liquidity ranking:
 
-| Bond type | Repo liquidity |
+| Bond type | Evidence required |
 |---|---|
-| JGBs (on-the-run and benchmark) | Deep GC and specific repo; sensitive to BOJ operations |
-| JGBs (off-the-run) | Less deep; episodic specials |
-| Japan IG corporate bonds (large issuers) | Limited bilateral repo; mainly dealer-bilateral with prime brokers |
-| Japan IG corporate bonds (small / mid issuers) | Very limited repo; positions held outright |
-| Japan high-yield corporate bonds | Effectively no repo; held outright on balance sheet |
+| JGBs (on-the-run and benchmark) | Dated GC / specific-collateral quotes, size, and applicable BOJ operation data |
+| JGBs (off-the-run) | Issue-specific quotes, fails, specialness, and available size |
+| Japan IG corporate bonds (large issuers) | Bond-specific lender, quote, haircut, maturity, and executable size |
+| Japan IG corporate bonds (small / mid issuers) | The same bond-specific evidence; issuer size is not a liquidity proxy |
+| Japan high-yield corporate bonds | Direct evidence of financing availability; no “no repo” assumption |
 
-For most Japan corporate basis trades below Tier 1 issuer size, the bond leg is funded via prime broker financing rather than direct repo. This adds cost and reduces scalability versus US dollar or euro IG basis trades.
+No public source used here establishes a “Tier 1” cutoff, the prevalent financing channel, or relative scalability versus US-dollar or euro trades. Those claims require a dated transaction- or financing-level dataset.
 
 ### Basel III leverage ratio
 
-Long-cash-short-CDS positions inflate the leverage exposure measure on bank balance sheets even when net credit risk is hedged. Post-2010 leverage ratio enforcement reduced dealer appetite to warehouse large basis positions, structurally widening basis when stress hits.
+Leverage exposure depends on the institution, booking entity, netting set, accounting treatment, and applicable prudential rules. A credit hedge does not by itself prove leverage-ratio offset, but the cited sources do not quantify dealer appetite or a resulting basis direction.
 
 ### Risk-weighted assets (RWA)
 
 | Component | Effect |
 |---|---|
-| Bond leg | Generates banking-book or trading-book RWA based on issuer rating |
-| CDS leg | Generates counterparty credit risk RWA on CDS counterparty |
-| Net hedging recognition | Limited under standard approach; better recognition under internal-model approach (subject to FRTB) |
+| Bond leg | Determine banking- or trading-book classification and the applicable credit / market-risk treatment |
+| CDS leg | Determine counterparty credit, CVA, market-risk, and collateral treatment as applicable |
+| Net hedging recognition | Apply the governing standardised or model-based rules; do not assume full offset |
 
-Even with credit risk hedged, RWA consumption discourages dealer warehousing.
+The package's RWA and leverage effects require institution-specific calculation; aggregate sources do not establish a dealer warehousing response.
 
 ### Single-counterparty credit limits
 
-US and EU rules limit single-counterparty exposure. CDS protection-bought against the same counterparty as a cash-bond issuer creates double exposure that must be netted carefully.
+Large-exposure and counterparty limits depend on the booking entity and jurisdiction. The protection seller is a CDS counterparty distinct from the reference entity unless they are in fact the same legal entity; aggregation and netting follow the applicable rules.
 
 ### Liquidity Coverage Ratio (LCR)
 
-The bond leg generally counts toward HQLA if it qualifies as Level 2 HQLA; the CDS leg does not. Some basis trades therefore are LCR-neutral or positive for the bank, depending on bond characterization.
+LCR treatment depends on whether the specific bond qualifies as HQLA, the applicable level and haircut, encumbrance, cash outflows, collateral and derivative cash flows. No package-level LCR sign is inferred without that calculation.
 
-## Japan-specific market structure post-2010
+## Japan-specific policy and market-study anchors
 
-| Period | Market structure shift |
+The following table identifies public policy and infrastructure dates. It does not assign a basis direction; a matched cash-CDS dataset is required for that conclusion. ^[Sources: https://www.jpx.co.jp/jscc/en/otc/member_cds.html; https://www.boj.or.jp/en/mopo/mpmdeci/index.htm.]
+
+| Period | Public anchor for a basis study |
 |---|---|
-| 2010-2012 | Migration to central clearing for CDS (JSCC and ICE Clear Credit); LIBOR-OIS basis spillover effects |
-| 2013-2015 | BOJ QQE launch; massive JGB buying program reshaped repo specials and the JGB curve |
-| 2016 | BOJ NIRP and yield-curve-control (YCC) introduction; 10Y JGB pinned near zero |
-| 2017-2019 | Stable YCC era; tight Japan IG corporate spreads and narrow basis |
-| 2020 Q1 | COVID credit shock; widespread negative-basis blowout across IG corporate names globally including Japan |
-| 2020 Q2-Q4 | BOJ corporate-bond purchase facility and dealer balance-sheet recovery; basis partially normalized |
-| 2022-2023 | BOJ YCC adjustments (widening tolerance band, then ending YCC); episodic JGB curve volatility and corporate-bond repricing |
-| 2024-2025 | Continued narrow basis on most Japan IG names; episodic widening on financial names during global bank-stress events |
-
-The structural picture: dealer warehousing capacity is smaller than pre-2008, while episodic credit-risk-off events still occur. Basis trades therefore exhibit lower-frequency but higher-amplitude dislocations.
+| July 2011 | JSCC began clearing CDS; use JSCC statistics only for its published clearing scope. |
+| 2013-2015 | Align the study with BOJ QQE decisions and JGB-market data. |
+| 2016 | Align the study with the introduction of negative rates and YCC. |
+| 2020 | Review the COVID market shock and BOJ measures with matched instruments. |
+| 2022-2023 | Review the dated YCC adjustments without treating 2023 as the end of YCC. |
+| March 2024 onward | Review the monetary-policy framework change and subsequent observations. |
 
 ## COVID Q1 2020 basis blowout
 
-The Q1 2020 COVID episode triggered the largest negative-basis dislocation in Japan IG corporate credit since 2008-2009:
+Public central-bank and BIS materials document severe cash-bond liquidity stress and policy responses in March 2020, but they do not provide a complete name-by-name Japan corporate CDS-bond basis series. The following table is therefore a dated review framework, not a ranking of the dislocation or a claim about a particular benchmark name. ^[Sources: https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2020/index.htm; https://www.bis.org/publ/bisbull2.htm; https://www.bis.org/publ/qtrpdf/r_qt2012.htm.]
 
-| Stage | Pattern |
+| Review window | Evidence to compare |
 |---|---|
-| Late February 2020 | Risk-off begins; CDS spreads widen modestly faster than cash bonds |
-| Early March 2020 | Forced cash-bond selling by ETFs, dealers, and ALM portfolios; cash spreads blow out faster than CDS |
-| Mid March 2020 | Cash-bond bid-ask widened sharply; some bonds nearly untradeable; CDS remained quoted |
-| 18 March 2020 | Negative basis on benchmark Japan IG corporates reached multi-year wides |
-| Late March 2020 | BOJ announced corporate-bond purchase facility and ETF buying; dealer balance-sheets stabilized |
-| April-June 2020 | Basis normalized; long-cash-short-CDS trades opened in March returned strong P&L |
-| Q3-Q4 2020 | Basis settled back to narrow normal range |
+| Late February 2020 | Compare cash-bond, CDS and funding measures as global risk repriced. |
+| Early-to-mid March 2020 | Review bid-ask, executable quotes and funding terms rather than inferring the basis from one leg. |
+| BOJ March 2020 decisions | Align BOJ measures with dated cash and CDS observations; do not infer immediate causality. |
+| April-June 2020 | Test convergence separately by issuer, bond, CDS tenor and financing cost. |
+| Second half of 2020 | Compare the resulting basis with the pre-shock sample using the same instruments. |
 
-The episode mirrored the 2008-2009 pattern but lasted weeks rather than months. The lesson for basis-trade practitioners: extreme dislocations are short windows requiring committed capital and tolerance for short-term MTM pain.
+Any comparison with 2008-2009, duration estimate or realised trade return requires a defined issuer sample, executable prices and financing costs. The public sources cited above do not establish those results.
 
 ## 2022-2023 BOJ YCC adjustments
 
-| Event | Effect on basis |
+The following table uses BOJ decision dates as observable anchors. The basis effect is a research question requiring matched cash-bond and CDS observations, so no automatic direction or lag is asserted. ^[Source: https://www.boj.or.jp/en/mopo/mpmdeci/index.htm.]
+
+| BOJ decision | Basis-study checkpoint |
 |---|---|
-| December 2022 BOJ widens YCC tolerance band (0.25 → 0.50 percent) | 10Y JGB yield jump; Japan IG corporate cash bonds repriced; CDS lagged; basis temporarily widened |
-| 2023 incremental YCC adjustments | Episodic repricing; smaller dislocations |
-| July 2023 BOJ formally relaxes YCC | 10Y JGB upper limit effectively raised to ~1.00 percent; cash spreads widened; CDS responded with lag |
-| March 2024 BOJ formally ends YCC and NIRP | JGB curve normalized; cash corporate bonds repriced; basis normalized over weeks |
+| December 2022 YCC range adjustment | Compare JGB curves, cash-bond spreads, CDS quotes and financing around the decision. |
+| July 2023 conduct of YCC adjustment | Repeat the matched-instrument comparison using the published decision window. |
+| October 2023 further flexibility | Separate risk-free-curve repricing from issuer-credit and liquidity effects. |
+| March 2024 monetary-policy framework change | Review post-decision observations without assuming a fixed normalization period. |
 
-The pattern: cash-bond repricing leads CDS repricing because cash bonds are more directly held by yield-curve-sensitive portfolios (life insurers, banks). CDS spreads adjust when traders push synthetic positions to match cash, with a lag determined by dealer balance-sheet capacity.
+Lead-lag direction between cash bonds and CDS is a testable hypothesis, not a product rule. It should be estimated for each event window with synchronized quotes and liquidity controls.
 
-### Investor profile
+### Participation evidence boundary
 
-| Investor | Basis-trade profile |
+BIS and JSCC aggregates do not identify convertible-arbitrage funds, hedge funds, insurers or sovereign funds as owners of a particular Japan basis trade. The following table therefore lists evidence dimensions, not participant profiles. ^[Sources: https://www.bis.org/statistics/derstats.htm; https://www.jpx.co.jp/jscc/en/cash/cds/statistics.html.]
+
+| Evidence dimension | Supported conclusion |
 |---|---|
-| Convertible-arb / credit funds | Active basis-trade users; tolerance for MTM volatility |
-| Multi-strategy hedge funds | Selective use, often paired with capital-structure-arb trades |
-| Bank dealer desks | Limited prop basis trading post-Volcker / equivalent; mainly market-making warehousing |
-| Insurance / pension | Generally not active basis traders; focus on outright cash bond holdings — see [[insurance/japan-life-insurance-alm-overview|life ALM]] |
-| Sovereign wealth funds | Episodic basis-trade allocations during major dislocations |
+| BIS OTC aggregate | Market-wide notional and gross market-value context at the published classification level. |
+| JSCC clearing statistics | Cleared activity within JSCC's published scope. |
+| Fund or institution disclosure | Entity-specific position only when the disclosure names the instrument and period. |
+| Executable trade evidence | Date-specific size, price, financing and counterparty terms. |
 
 ### Trade sizing
 
@@ -183,11 +184,11 @@ Basis trades are scaled by:
 | Single-name credit-event tail risk | Even with hedge, gap-risk during credit event |
 | Regulatory capital cost | Bank-owned positions consume RWA / leverage |
 
-A 100 million USD-equivalent negative-basis position in a Japan IG name is large; 500 million is very large; multi-billion is rare and concentrated in the most liquid names.
+Trade size cannot be ranked from the public aggregate sources used here. Executable size depends on the particular bond, CDS tenor, financing terms, counterparty limits and date.
 
 ### Roll dynamics
 
-If holding to bond maturity is not feasible, CDS protection must be rolled (5Y CDS → next 5Y series, etc.) at each roll. Roll-down P&L plus index-roll basis adds noise to the headline trade economics.
+If protection is to continue beyond the CDS maturity, a new contract may be needed (for example, after a 5Y CDS reaches its horizon, a new 5Y contract). The new spread, maturity, contract terms, transaction costs, and any index roll must be included rather than treated as mechanical.
 
 ## Related
 

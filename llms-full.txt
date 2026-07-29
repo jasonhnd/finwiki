@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-07-29T17:23:27+09:00
+Generated: 2026-07-29T19:24:35+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1604
-Public pages listed: 1603
+Markdown files: 1605
+Public pages listed: 1604
 
 ## Reading Rules
 
@@ -30,7 +30,7 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/CHANGELOG.md
 - Domain: root
 - Type: control_doc
-- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-07-29 - Table provenance batch 05 corrections (#235), 日本語, English
+- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-07-29 - Table provenance batch 06 corrections (#236), 日本語, English
 
 ### How to navigate FinWiki — reader profile guide
 - URL: https://finwiki.zksc.io/HOW-TO-NAVIGATE.md
@@ -2939,7 +2939,7 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/derivatives/basis-trade-bond-cds-japan.md
 - Domain: derivatives
 - Type: wiki_entry
-- Summary: The Japan bond-CDS basis is the spread between a corporate's CDS protection cost and its cash bond's credit spread over the swap or JGB benchmark curve at matched tenor. Negative basis (CDS < bond spread) historically attracted long-cash-short-CDS trades that lock in a "free" carry net of funding co
+- Summary: The Japan bond-CDS basis compares a corporate CDS spread with a matched cash bond's credit spread over a stated government or swap benchmark. Under the convention used here, basis = CDS spread minus bond spread. A negative quoted basis can motivate a financed long-bond / bought-protection comparison
 - Headings: Bond-CDS basis trade Japan, TL;DR, Wiki route, Definition, Why basis is not zero, Structure, P&L decomposition, Required holding period
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/domains/derivatives/, https://finwiki.zksc.io/ja/derivatives/cds-japan-corporate-spread-mechanics/, https://finwiki.zksc.io/ja/derivatives/cross-currency-basis-swap-japan/, https://finwiki.zksc.io/ja/derivatives/japan-cds-market-overview/, https://finwiki.zksc.io/ja/derivatives/japan-irs-market/, https://finwiki.zksc.io/ja/derivatives/structured-bond-japan-retail-issuance/, https://finwiki.zksc.io/ja/derivatives/structured-product-eb-knockin-japan-retail/, https://finwiki.zksc.io/ja/derivatives/yen-basis-swap-market/, https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/finance/japan-convertible-bond-mechanics/
 
@@ -2952,7 +2952,7 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/derivatives/cds-japan-corporate-spread-mechanics.md
 - Domain: derivatives
 - Type: wiki_entry
-- Summary: Japan corporate CDS spread is the running-basis-point premium a protection buyer pays to a protection seller in exchange for default-contingent payment on a reference Japanese listed corporate. The spread decomposes into a credit risk premium (a function of expected default probability and assumed r
+- Summary: Japan corporate CDS spread is the running-basis-point premium a protection buyer pays to a protection seller in exchange for contractually specified credit protection on a Japanese reference entity. Market quotes embed default risk, recovery assumptions, liquidity, funding and other premia; a sovere
 - Headings: Japan corporate CDS spread mechanics, TL;DR, Wiki route, Building blocks, Risk-neutral default probability, Recovery rate assumption, Credit events under 2014 ISDA Definitions, Bankruptcy
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/domains/derivatives/, https://finwiki.zksc.io/ja/derivatives/basis-trade-bond-cds-japan/, https://finwiki.zksc.io/ja/derivatives/cross-currency-basis-swap-japan/, https://finwiki.zksc.io/ja/derivatives/japan-cds-market-overview/, https://finwiki.zksc.io/ja/derivatives/japan-irs-market/, https://finwiki.zksc.io/ja/derivatives/structured-bond-japan-retail-issuance/, https://finwiki.zksc.io/ja/derivatives/structured-product-eb-knockin-japan-retail/, https://finwiki.zksc.io/ja/derivatives/yen-basis-swap-market/, https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/finance/japan-convertible-bond-mechanics/
 
@@ -2965,7 +2965,7 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/derivatives/corporate-fx-hedge-policy-japan-listed.md
 - Domain: derivatives
 - Type: wiki_entry
-- Summary: A Japan-listed corporate FX hedge policy is the board-approved framework that translates a company's foreign-currency exposure into a disciplined hedging program using forwards, NDFs, options, and cross-currency swaps. The policy answers four operative questions: what to hedge, how far out to hedge,
+- Summary: A Japan-listed corporate FX hedge policy translates identified foreign-currency exposure into approved instruments, limits, documentation and accounting treatment. Depending on the company, it may address four operative questions: what to hedge, how far out to hedge, what instruments to use, and how
 - Headings: Corporate FX hedge policy at Japan listed companies, TL;DR, Wiki route, Why hedge at all, Hedge ratio by tenor, Hedge instrument mix, Layered / rolling hedge programs, Hedge-accounting designation
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/derivatives/, https://finwiki.zksc.io/ja/derivatives/cross-currency-basis-swap-japan/, https://finwiki.zksc.io/ja/derivatives/fx-options-japan-corporate-treasury/, https://finwiki.zksc.io/ja/derivatives/japan-interest-rate-derivatives-overview/, https://finwiki.zksc.io/ja/derivatives/japan-irs-market/, https://finwiki.zksc.io/ja/derivatives/jgb-futures-curve/, https://finwiki.zksc.io/ja/derivatives/ois-tona-curve/, https://finwiki.zksc.io/ja/derivatives/yen-basis-swap-market/, https://finwiki.zksc.io/ja/finance/japan-corporate-fx-and-rate-hedge-policy/, https://finwiki.zksc.io/ja/insurance/japan-life-insurance-alm-overview/, https://finwiki.zksc.io/ja/megabanks/mizuho-bank/, https://finwiki.zksc.io/ja/megabanks/mufg-bank/
 
@@ -2991,8 +2991,8 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/derivatives/dealer-bank-derivatives-revenue-mix.md
 - Domain: derivatives
 - Type: wiki_entry
-- Summary: The dealer-bank derivatives franchise in Japan is split across three structural tiers, each with a distinct revenue mix between rates, FX, equity, and credit derivatives:
-- Headings: Dealer bank derivatives revenue mix — Japan megabanks and foreign IBs, TL;DR, Wiki route, Why the revenue mix matters, MUFG, SMBC, Mizuho, Approximate revenue mix at megabanks (public-source inference), Why rates and FX dominate at megabanks, Nomura HD, Daiwa SG
+- Summary: Public disclosures from Japan megabanks, Japan-headquartered securities groups and global investment banks generally aggregate derivatives with cash products, financing and other global-markets activity. They therefore do not support a Japan-only dealer ranking, a desk-level rates / FX / equity / cr
+- Headings: Dealer bank derivatives revenue mix — Japan megabanks and foreign IBs, TL;DR, Wiki route, Why the revenue mix matters, MUFG, SMBC, Mizuho, Public-disclosure activity map at megabanks, Megabank interpretation boundary, Nomura HD, Daiwa SG
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/banking/foreign-bank-japan-retreat/, https://finwiki.zksc.io/ja/banking/japan-banking-license-tier-comparison-matrix/, https://finwiki.zksc.io/ja/domains/derivatives/, https://finwiki.zksc.io/ja/derivatives/equity-volatility-hedging-corporates-japan/, https://finwiki.zksc.io/ja/derivatives/japan-interest-rate-derivatives-overview/, https://finwiki.zksc.io/ja/derivatives/jgb-futures-curve/, https://finwiki.zksc.io/ja/derivatives/nikkei-vix-jpx-vi-equivalent/, https://finwiki.zksc.io/ja/derivatives/otc-clearing-jp-trade-repository/, https://finwiki.zksc.io/ja/derivatives/swap-execution-facility-japan/, https://finwiki.zksc.io/ja/finance/japan-corporate-fx-and-rate-hedge-policy/, https://finwiki.zksc.io/ja/finance/japan-cross-shareholding-unwinding-economics/
 
 ### Equity volatility hedging by Japan corporates
@@ -3017,7 +3017,7 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/derivatives/fx-options-japan-corporate-treasury.md
 - Domain: derivatives
 - Type: wiki_entry
-- Summary: FX options are the non-linear, premium-priced layer of Japan corporate FX hedging. Where a forward locks the rate completely, an option offers protection against an adverse move while preserving upside, in exchange for an upfront premium (or, in zero-cost structures, embedded conditional risk). The
+- Summary: FX options are the non-linear, premium-priced layer of Japan corporate FX hedging. Where a forward locks the rate completely, an option can protect against an adverse move while preserving some or all favourable participation, in exchange for an upfront premium or embedded conditional risk. The prod
 - Headings: FX options for Japan corporate treasury, TL;DR, Wiki route, Vanilla call / put, Straddle / strangle, Risk reversal, Knock-out forward, Knock-in option
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/derivatives/, https://finwiki.zksc.io/ja/derivatives/corporate-fx-hedge-policy-japan-listed/, https://finwiki.zksc.io/ja/derivatives/cross-currency-basis-swap-japan/, https://finwiki.zksc.io/ja/derivatives/fx-stp-broker-aggregation/, https://finwiki.zksc.io/ja/derivatives/japan-interest-rate-derivatives-overview/, https://finwiki.zksc.io/ja/derivatives/japan-irs-market/, https://finwiki.zksc.io/ja/derivatives/ois-tona-curve/, https://finwiki.zksc.io/ja/derivatives/retail-fx-margin-trade-japan/, https://finwiki.zksc.io/ja/derivatives/yen-basis-swap-market/, https://finwiki.zksc.io/ja/finance/japan-corporate-fx-and-rate-hedge-policy/, https://finwiki.zksc.io/ja/megabanks/mizuho-bank/, https://finwiki.zksc.io/ja/megabanks/mufg-bank/
 
@@ -3043,8 +3043,8 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/derivatives/isda-2020-protocol-japan-implementation.md
 - Domain: derivatives
 - Type: wiki_entry
-- Summary: The ISDA 2020 IBOR Fallback Protocol (formally "ISDA 2020 IBOR Fallbacks Protocol," published October 2020, effective from 25 January 2021) is the multilateral contractual mechanism through which legacy IBOR-referencing derivatives — including JPY LIBOR — were automatically amended to incorporate ri
-- Headings: ISDA 2020 IBOR Fallback Protocol — Japan implementation (TIBOR / TONA / JPY LIBOR), TL;DR, Wiki route, 1. The ISDA 2020 Protocol — what it is, 2. The fallback rate architecture, 3. JPY LIBOR fallback specifics, 4. JPY LIBOR cessation timeline — the operational events, 5. TIBOR — the JPY rate that survived
+- Summary: The ISDA 2020 IBOR Fallbacks Protocol, published on 23 October 2020 and effective from 25 January 2021, lets adhering parties incorporate the IBOR Fallbacks Supplement into covered legacy non-cleared derivatives. For yen benchmarks, its Relevant IBOR scope includes JPY LIBOR, Japanese Yen TIBOR, and
+- Headings: ISDA 2020 IBOR Fallback Protocol — Japan implementation (TIBOR / TONA / JPY LIBOR), TL;DR, Wiki route, 1. The ISDA 2020 Protocol — what it is, 2. The fallback rate architecture, 3. JPY LIBOR fallback specifics, 4. JPY LIBOR cessation timeline — the operational events, 5. Japanese Yen TIBOR and Euroyen TIBOR status
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/domains/derivatives/, https://finwiki.zksc.io/ja/derivatives/cross-currency-basis-swap-japan/, https://finwiki.zksc.io/ja/derivatives/japan-cms-constant-maturity-swap/, https://finwiki.zksc.io/ja/derivatives/japan-interest-rate-derivatives-overview/, https://finwiki.zksc.io/ja/derivatives/japan-irs-market/, https://finwiki.zksc.io/ja/derivatives/japan-rates-derivative-product-matrix/, https://finwiki.zksc.io/ja/derivatives/japan-swaption-market/, https://finwiki.zksc.io/ja/derivatives/ois-tona-curve/, https://finwiki.zksc.io/ja/derivatives/otc-clearing-jp-trade-repository/, https://finwiki.zksc.io/ja/derivatives/swap-execution-facility-japan/, https://finwiki.zksc.io/ja/derivatives/yen-basis-swap-market/
 
 ### Japan CDS market overview
@@ -3056,9 +3056,9 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/derivatives/japan-cds-market-overview.md
 - Domain: derivatives
 - Type: wiki_entry
-- Summary: The Japan credit default swap (CDS) market is a small but structurally important corner of the global credit derivatives universe. The dominant index reference is iTraxx Japan, the IHS Markit / S&P Global benchmark covering 50 investment-grade Japanese corporate names rolled every six months. Single
-- Headings: Japan CDS market overview, TL;DR, Wiki route, Product taxonomy, iTraxx Japan composition, Single-name CDS coverage, Dealer set, Notional outstanding
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/domains/derivatives/, https://finwiki.zksc.io/ja/derivatives/basis-trade-bond-cds-japan/, https://finwiki.zksc.io/ja/derivatives/cds-japan-corporate-spread-mechanics/, https://finwiki.zksc.io/ja/derivatives/cross-currency-basis-swap-japan/, https://finwiki.zksc.io/ja/derivatives/japan-irs-market/, https://finwiki.zksc.io/ja/derivatives/structured-bond-japan-retail-issuance/, https://finwiki.zksc.io/ja/derivatives/structured-product-eb-knockin-japan-retail/, https://finwiki.zksc.io/ja/derivatives/yen-basis-swap-market/, https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/finance/japan-convertible-bond-mechanics/
+- Summary: JSCC started index CDS clearing on 19 July 2011 and single-name CDS clearing on 15 December 2014. Its service page states that coverage comprised index CDS and 60 single-name issues as of 16 September 2025, while the live product page lists the eligible iTraxx Japan series and reference entities. Th
+- Headings: Japan CDS market overview, TL;DR, Wiki route, Product and clearing scope, Service chronology, What the public clearing pages prove, CDS and clearing mechanics, Contract fields and quote interpretation
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/domains/derivatives/, https://finwiki.zksc.io/ja/derivatives/basis-trade-bond-cds-japan/, https://finwiki.zksc.io/ja/derivatives/cds-japan-corporate-spread-mechanics/, https://finwiki.zksc.io/ja/derivatives/cross-currency-basis-swap-japan/, https://finwiki.zksc.io/ja/derivatives/japan-irs-market/, https://finwiki.zksc.io/ja/derivatives/structured-bond-japan-retail-issuance/, https://finwiki.zksc.io/ja/derivatives/structured-product-eb-knockin-japan-retail/, https://finwiki.zksc.io/ja/derivatives/yen-basis-swap-market/, https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/insurance/japan-life-insurance-alm-overview/
 
 ### Japan CMS (constant maturity swap) market
 - URL: https://finwiki.zksc.io/ja/derivatives/japan-cms-constant-maturity-swap/
@@ -3070,7 +3070,7 @@ Public pages listed: 1603
 - Domain: derivatives
 - Type: wiki_entry
 - Summary: A constant maturity swap (CMS) is an OTC interest-rate derivative in which one leg pays a fixed reference (or a floating short-rate reference) and the other leg pays a periodically reset long-tenor swap rate — most commonly the 10Y or 5Y JPY swap rate at each reset date. The CMS leg's defining featu
-- Headings: Japan CMS (constant maturity swap) market, TL;DR, Wiki route, Instrument Mechanics, Why a Convexity Adjustment Is Needed, JPY Use Cases, Pricing Inputs, Dealer Franchise
+- Headings: Japan CMS (constant maturity swap) market, TL;DR, Wiki route, Instrument Mechanics, Why a Convexity Adjustment Is Needed, JPY Use Cases, Pricing Inputs, Public-data boundary
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/domains/derivatives/, https://finwiki.zksc.io/ja/derivatives/dealer-bank-derivatives-revenue-mix/, https://finwiki.zksc.io/ja/derivatives/japan-inflation-swap/, https://finwiki.zksc.io/ja/derivatives/japan-irs-market/, https://finwiki.zksc.io/ja/derivatives/japan-swaption-market/, https://finwiki.zksc.io/ja/derivatives/jgb-futures-curve/, https://finwiki.zksc.io/ja/derivatives/ois-tona-curve/, https://finwiki.zksc.io/ja/derivatives/structured-bond-japan-retail-issuance/, https://finwiki.zksc.io/ja/derivatives/structured-product-eb-knockin-japan-retail/, https://finwiki.zksc.io/ja/insurance/japan-life-insurance-alm-overview/
 
 ### Japan equity derivatives product matrix
@@ -3108,9 +3108,9 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/derivatives/japan-interest-rate-derivatives-overview.md
 - Domain: derivatives
 - Type: wiki_entry
-- Summary: Japan's interest-rate derivatives ecosystem comprises six principal instrument types — yen IRS, OIS referencing TONA, yen swaptions, JGB futures (10Y standard and mini, 5Y, 20Y), TONA 3-month futures, and asset swaps — together with the clearing, regulatory, and dealer-franchise layer that supports
-- Headings: Japan interest-rate derivatives overview, TL;DR, Wiki route, The Six Principal Instrument Types, Cross-Currency Bridge, Market Participants, Daily Turnover, Regulatory Framework
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/japan-banking-license-tier-comparison-matrix/, https://finwiki.zksc.io/ja/domains/derivatives/, https://finwiki.zksc.io/ja/derivatives/japan-irs-market/, https://finwiki.zksc.io/ja/derivatives/jgb-futures-curve/, https://finwiki.zksc.io/ja/derivatives/ois-tona-curve/, https://finwiki.zksc.io/ja/derivatives/yen-basis-swap-market/, https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/finance/japan-corporate-fx-and-rate-hedge-policy/, https://finwiki.zksc.io/ja/finance/japan-listed-financial-groups-investable-universe/, https://finwiki.zksc.io/ja/financial-regulators/japan-securities-finance/
+- Summary: Japan's interest-rate derivatives ecosystem includes yen IRS, TONA OIS, yen swaptions, JGB futures, three-month TONA futures, and asset swaps, together with clearing and regulatory infrastructure. BIS, BOJ, JPX, and JSCC publish different measures—turnover, outstanding notional, contract volume, and
+- Headings: Japan interest-rate derivatives overview, TL;DR, Wiki route, Principal Instrument Types, Cross-Currency Bridge, Market Participants, Daily Turnover, Regulatory Framework
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/japan-banking-license-tier-comparison-matrix/, https://finwiki.zksc.io/ja/domains/derivatives/, https://finwiki.zksc.io/ja/derivatives/japan-irs-market/, https://finwiki.zksc.io/ja/derivatives/japan-swaption-market/, https://finwiki.zksc.io/ja/derivatives/jgb-futures-curve/, https://finwiki.zksc.io/ja/derivatives/ois-tona-curve/, https://finwiki.zksc.io/ja/derivatives/yen-basis-swap-market/, https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/finance/japan-corporate-fx-and-rate-hedge-policy/, https://finwiki.zksc.io/ja/finance/japan-listed-financial-groups-investable-universe/
 
 ### Japan yen interest-rate swap (IRS) market
 - URL: https://finwiki.zksc.io/ja/derivatives/japan-irs-market/
@@ -3121,8 +3121,8 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/derivatives/japan-irs-market.md
 - Domain: derivatives
 - Type: wiki_entry
-- Summary: The yen interest-rate swap (IRS) market is the OTC derivative venue in which two counterparties exchange a stream of fixed JPY-denominated interest payments for a stream of floating-rate JPY payments over a defined tenor. It is the dominant interest-rate-hedging instrument for Japanese banks, life i
-- Headings: Japan yen interest-rate swap (IRS) market, TL;DR, Wiki route, Instrument Mechanics, TIBOR vs TONA Migration, Notional Outstanding, Dealer Bank Revenue Split, Corporate vs Financial-Institution End-Users
+- Summary: The yen interest-rate swap (IRS) market is the OTC derivative venue in which two counterparties exchange defined fixed and floating JPY interest cash flows over a stated tenor. Institution-specific use, direction, and product share require dated transaction or portfolio evidence.
+- Headings: Japan yen interest-rate swap (IRS) market, TL;DR, Wiki route, Instrument Mechanics, TIBOR vs TONA Migration, Notional Outstanding, Public dealer-data boundary, Corporate vs Financial-Institution End-Users
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/japan-banking-license-tier-comparison-matrix/, https://finwiki.zksc.io/ja/domains/derivatives/, https://finwiki.zksc.io/ja/derivatives/japan-interest-rate-derivatives-overview/, https://finwiki.zksc.io/ja/derivatives/jgb-futures-curve/, https://finwiki.zksc.io/ja/derivatives/ois-tona-curve/, https://finwiki.zksc.io/ja/derivatives/yen-basis-swap-market/, https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/finance/japan-corporate-fx-and-rate-hedge-policy/, https://finwiki.zksc.io/ja/finance/japan-listed-financial-groups-investable-universe/, https://finwiki.zksc.io/ja/financial-regulators/japan-securities-finance/
 
 ### Japan OTC derivative market overview
@@ -3134,7 +3134,7 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/derivatives/japan-otc-derivative-market-overview.md
 - Domain: derivatives
 - Type: wiki_entry
-- Summary: Japan's over-the-counter (OTC) derivative market spans four product clusters — interest-rate, FX, credit, and equity / structured — all governed under the Financial Instruments and Exchange Act (FIEA), supervised by the Financial Services Agency (FSA), and (for in-scope products) cleared at the Japa
+- Summary: Japan's over-the-counter (OTC) derivative market spans interest-rate, FX, credit, and equity / structured products. FSA reporting and clearing requirements apply according to product, entity, and counterparty scope; JSCC separately publishes the products it accepts for clearing. Aggregate datasets u
 - Headings: Japan OTC derivative market overview, TL;DR, Wiki route, The Four OTC Product Clusters, Market Participants, Regulatory Framework, Public Data Sources, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/japan-banking-license-tier-comparison-matrix/, https://finwiki.zksc.io/ja/domains/derivatives/, https://finwiki.zksc.io/ja/derivatives/basis-trade-bond-cds-japan/, https://finwiki.zksc.io/ja/derivatives/cds-japan-corporate-spread-mechanics/, https://finwiki.zksc.io/ja/derivatives/cross-currency-basis-swap-japan/, https://finwiki.zksc.io/ja/derivatives/dealer-bank-derivatives-revenue-mix/, https://finwiki.zksc.io/ja/derivatives/equity-volatility-hedging-corporates-japan/, https://finwiki.zksc.io/ja/derivatives/fx-options-japan-corporate-treasury/, https://finwiki.zksc.io/ja/derivatives/fx-stp-broker-aggregation/, https://finwiki.zksc.io/ja/derivatives/isda-2020-protocol-japan-implementation/
 
@@ -3147,8 +3147,8 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/derivatives/japan-rates-derivative-product-matrix.md
 - Domain: derivatives
 - Type: wiki_entry
-- Summary: Japan's yen-rates derivatives complex spans interest-rate swap (IRS) referencing TIBOR / TONA, overnight index swap (OIS) referencing TONA, JGB futures (10-year standard, 5-year, 20-year super-long, 10-year mini), JGB inflation-linked bond (JGBi) underlying for inflation swaps, swaption (option on y
-- Headings: Japan rates derivative product matrix, TL;DR, Wiki route, Why a rates-derivative product matrix matters, Product 1 — Yen IRS (TIBOR-floating), Product 2 — Yen OIS (TONA), Product 3 — JGB futures (10Y standard), Product 4 — JGB futures (5Y, 20Y super-long, 10Y mini)
+- Summary: Japan's yen-rates complex spans IRS, TONA OIS, JGB futures, swaptions, CMS, inflation swaps, and yen cross-currency swaps, with JGB inflation-linked bonds included as a cash-market comparison. The current JPX physically delivered JGB-futures lineup is 5-year, 10-year, and mini 20-year; mini 10-year
+- Headings: Japan rates derivative product matrix, TL;DR, Wiki route, Why a rates-derivative product matrix matters, Product 1 — Yen IRS (TIBOR-floating), Product 2 — Yen OIS (TONA), Product 3 — JGB futures (10Y standard), Product 4 — Other current JGB futures
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/domains/derivatives/, https://finwiki.zksc.io/ja/derivatives/cross-currency-basis-swap-japan/, https://finwiki.zksc.io/ja/derivatives/japan-cms-constant-maturity-swap/, https://finwiki.zksc.io/ja/derivatives/japan-inflation-swap/, https://finwiki.zksc.io/ja/derivatives/japan-interest-rate-derivatives-overview/, https://finwiki.zksc.io/ja/derivatives/japan-irs-market/, https://finwiki.zksc.io/ja/derivatives/japan-swaption-market/, https://finwiki.zksc.io/ja/derivatives/jgb-futures-curve/, https://finwiki.zksc.io/ja/derivatives/jgb-inflation-linked-bond-jgbi/, https://finwiki.zksc.io/ja/derivatives/ois-tona-curve/
 
 ### Japan single-stock options (OSE)
@@ -3160,7 +3160,7 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/derivatives/japan-single-stock-options.md
 - Domain: derivatives
 - Type: wiki_entry
-- Summary: Single-stock options (個別証券オプション / Securities Options) on the Osaka Exchange (OSE) under Japan Exchange Group (JPX) are exchange-listed options on selected individual Japanese stocks. Despite OSE listing options on ~150 large-cap names at any time, the actual liquidity is structurally limited compare
+- Summary: Single-stock options (個別証券オプション / Securities Options) on the Osaka Exchange (OSE) under Japan Exchange Group (JPX) are exchange-listed options on eligible stocks, ETFs and REITs. OSE's current product overview states that the eligible universe exceeds 200 issues, while the exact list changes; actual
 - Headings: Japan single-stock options (OSE), TL;DR, Wiki route, Contract Specifications, Liquidity Reality, Why Liquidity Is Limited (Structural Factors), OTC Single-Stock Options, Post-2022 Issuer-Side Hedging Developments
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/domains/derivatives/, https://finwiki.zksc.io/ja/derivatives/dealer-bank-derivatives-revenue-mix/, https://finwiki.zksc.io/ja/derivatives/equity-volatility-hedging-corporates-japan/, https://finwiki.zksc.io/ja/derivatives/nikkei-225-futures-options/, https://finwiki.zksc.io/ja/derivatives/nikkei-vix-jpx-vi-equivalent/, https://finwiki.zksc.io/ja/derivatives/retail-fx-margin-trade-japan/, https://finwiki.zksc.io/ja/derivatives/structured-bond-japan-retail-issuance/, https://finwiki.zksc.io/ja/derivatives/structured-product-eb-knockin-japan-retail/, https://finwiki.zksc.io/ja/derivatives/topix-futures/, https://finwiki.zksc.io/ja/domains/securities/
 
@@ -3173,8 +3173,8 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/derivatives/japan-swaption-market.md
 - Domain: derivatives
 - Type: wiki_entry
-- Summary: A swaption is an OTC interest-rate option granting the holder the right (but not the obligation) to enter into a defined interest-rate swap at a future date and at a pre-agreed strike rate. JPY swaptions are the volatility-sensitive complement to the JPY interest-rate swap and OIS-TONA markets, and
-- Headings: Japan swaption (interest-rate option) market, TL;DR, Wiki route, Instrument Mechanics, JPY Swaption Implied-Volatility Grid, Payer vs Receiver Flow, Bermudan Callable Swaptions, Life-Insurer Variable-Annuity (GMxB) Hedging
+- Summary: A swaption is an OTC interest-rate option granting the holder the right, but not the obligation, to enter into or settle against a defined interest-rate swap under agreed terms. JPY swaptions relate to the JPY interest-rate swap and OIS-TONA markets. The cited aggregate sources do not establish that
+- Headings: Japan swaption (interest-rate option) market, TL;DR, Wiki route, Instrument Mechanics, JPY Swaption Implied-Volatility Grid, Payer vs Receiver Direction and Position Evidence, Bermudan Callable Swaptions, Life-Insurer Variable-Annuity (GMxB) Hedging
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/derivatives/, https://finwiki.zksc.io/ja/derivatives/dealer-bank-derivatives-revenue-mix/, https://finwiki.zksc.io/ja/derivatives/japan-cms-constant-maturity-swap/, https://finwiki.zksc.io/ja/derivatives/japan-inflation-swap/, https://finwiki.zksc.io/ja/derivatives/japan-irs-market/, https://finwiki.zksc.io/ja/derivatives/jgb-futures-curve/, https://finwiki.zksc.io/ja/derivatives/ois-tona-curve/, https://finwiki.zksc.io/ja/derivatives/structured-bond-japan-retail-issuance/, https://finwiki.zksc.io/ja/derivatives/yen-basis-swap-market/, https://finwiki.zksc.io/ja/domains/insurance/, https://finwiki.zksc.io/ja/insurance/economic-value-based-solvency/
 
 ### JGB futures market and curve
@@ -3186,7 +3186,7 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/derivatives/jgb-futures-curve.md
 - Domain: derivatives
 - Type: wiki_entry
-- Summary: JGB futures are exchange-listed interest-rate derivatives on Japanese government bonds, traded on the Osaka Exchange (OSE) under the Japan Exchange Group (JPX). They include three principal contracts at standard size — 10-year, 5-year, and 20-year — plus a "mini" 10-year contract sized at one-tenth
+- Summary: JGB futures are exchange-listed interest-rate derivatives traded on Osaka Exchange and cleared by JSCC. JPX's current physically delivered lineup comprises 5-year JGB futures, 10-year JGB futures, and mini 20-year JGB futures. Mini 10-year JGB futures are a separate cash-settled contract. The physic
 - Headings: JGB futures market and curve, TL;DR, Wiki route, Contract Specifications, Cheapest-to-Deliver (CTD), Basis Trade, Settlement Cycle and JSCC Clearing, OTC Repo Basis
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/domains/derivatives/, https://finwiki.zksc.io/ja/derivatives/japan-interest-rate-derivatives-overview/, https://finwiki.zksc.io/ja/derivatives/japan-irs-market/, https://finwiki.zksc.io/ja/derivatives/ois-tona-curve/, https://finwiki.zksc.io/ja/derivatives/yen-basis-swap-market/, https://finwiki.zksc.io/ja/finance/japan-corporate-fx-and-rate-hedge-policy/, https://finwiki.zksc.io/ja/financial-regulators/japan-securities-finance/, https://finwiki.zksc.io/ja/megabanks/mizuho-bank/, https://finwiki.zksc.io/ja/megabanks/mufg-bank/, https://finwiki.zksc.io/ja/megabanks/sumitomo-mitsui-banking-corp/
 
@@ -3212,7 +3212,7 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/derivatives/jgb-special-participants-primary-dealer.md
 - Domain: derivatives
 - Type: wiki_entry
-- Summary: The JGB Special Participants system (国債市場特別参加者制度) is Japan's primary dealer regime: a Ministry of Finance (MoF)-administered framework under which a defined set of financial institutions are recognized as the principal counterparties to MoF JGB auctions in exchange for accepting bid-and-make-market
+- Summary: The JGB Special Participants system (国債市場特別参加者制度) is a Ministry of Finance framework introduced in October 2004. Participants accept auction-bidding, purchase, secondary-market-liquidity, and information-provision responsibilities under MOF's published terms. The linked MOF list dated 27 December 20
 - Headings: JGB Special Participants (Japan primary dealer system), TL;DR, Wiki route, System Overview, List Composition (Typical), Obligations of Special Participants, Benefits of Special Participant Status, Auction Mechanics in the JGB System
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/japan-banking-license-tier-comparison-matrix/, https://finwiki.zksc.io/ja/domains/derivatives/, https://finwiki.zksc.io/ja/derivatives/japan-inflation-swap/, https://finwiki.zksc.io/ja/derivatives/japan-irs-market/, https://finwiki.zksc.io/ja/derivatives/japan-swaption-market/, https://finwiki.zksc.io/ja/derivatives/jgb-futures-curve/, https://finwiki.zksc.io/ja/derivatives/jgb-inflation-linked-bond-jgbi/, https://finwiki.zksc.io/ja/derivatives/ois-tona-curve/, https://finwiki.zksc.io/ja/megabanks/mizuho-bank/, https://finwiki.zksc.io/ja/megabanks/mufg-bank/
 
@@ -3225,11 +3225,11 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/derivatives/nikkei-225-futures-options.md
 - Domain: derivatives
 - Type: wiki_entry
-- Summary: The Nikkei 225 futures and options complex listed on the Osaka Exchange (OSE) under Japan Exchange Group (JPX) is the largest exchange-traded derivative product set in Japan by daily turnover and the canonical hedge instrument for Japanese equity-beta exposure. The complex contains three principal c
-- Headings: Nikkei 225 futures and options (OSE), TL;DR, Wiki route, Contract Specifications, Trading Hours: OSE Day, OSE Night, and CME Globex, Mini and Micro: The Retail Layer, Weekly Options, Participant Mix
+- Summary: The Nikkei 225 futures and options complex listed on the Osaka Exchange (OSE) under Japan Exchange Group (JPX) provides exchange-traded routes to Nikkei 225 equity exposure. The complex contains three futures sizes — large Nikkei 225 Futures, Nikkei 225 mini (one-tenth size), and Nikkei 225 Micro Fu
+- Headings: Nikkei 225 futures and options (OSE), TL;DR, Wiki route, Contract Specifications, Trading Hours: OSE Day, OSE Night, and CME Globex, Mini and Micro: Contract-Size Layer, Weekly Options, Participant Mix
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/domains/derivatives/, https://finwiki.zksc.io/ja/derivatives/equity-volatility-hedging-corporates-japan/, https://finwiki.zksc.io/ja/derivatives/japan-single-stock-options/, https://finwiki.zksc.io/ja/derivatives/nikkei-vix-jpx-vi-equivalent/, https://finwiki.zksc.io/ja/derivatives/structured-product-eb-knockin-japan-retail/, https://finwiki.zksc.io/ja/derivatives/topix-futures/, https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/insurance/japan-life-insurance-alm-overview/, https://finwiki.zksc.io/ja/megabanks/mufg-bank/, https://finwiki.zksc.io/ja/domains/securities/
 
-### Nikkei VIX / JPX-VI — Japan equity volatility index
+### Nikkei 225 VI — Japan equity volatility index
 - URL: https://finwiki.zksc.io/ja/derivatives/nikkei-vix-jpx-vi-equivalent/
 - Japanese HTML: https://finwiki.zksc.io/ja/derivatives/nikkei-vix-jpx-vi-equivalent/
 - English alternate: https://finwiki.zksc.io/en/derivatives/nikkei-vix-jpx-vi-equivalent/
@@ -3238,8 +3238,8 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/derivatives/nikkei-vix-jpx-vi-equivalent.md
 - Domain: derivatives
 - Type: wiki_entry
-- Summary: JPX-VI matters because it is the only publicly disseminated, exchange-published measure of Japan-equity implied volatility — used by domestic asset managers for risk-overlay sizing, by foreign macro funds as the "fear gauge" for Japan equity beta, and by structured-product desks as the input to vola
-- Headings: Nikkei VIX / JPX-VI — Japan equity volatility index, TL;DR, Wiki route, Why JPX-VI matters, Index methodology, Term structure, Comparison to CBOE VIX, ETF and ETN products
+- Summary: The index itself is a reference value, while OSE lists Nikkei 225 VI Futures on it. Those futures are therefore a direct listed route to the index's future level; trading the underlying Nikkei 225 option strip and bilateral volatility derivatives are separate routes.
+- Headings: Nikkei 225 VI — Japan equity volatility index, TL;DR, Wiki route, Why Nikkei 225 VI matters, Index methodology, Term structure, Comparison to Cboe VIX, ETF and ETN verification
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/derivatives/, https://finwiki.zksc.io/ja/derivatives/dealer-bank-derivatives-revenue-mix/, https://finwiki.zksc.io/ja/derivatives/equity-volatility-hedging-corporates-japan/, https://finwiki.zksc.io/ja/derivatives/japan-interest-rate-derivatives-overview/, https://finwiki.zksc.io/ja/derivatives/otc-clearing-jp-trade-repository/, https://finwiki.zksc.io/ja/derivatives/swap-execution-facility-japan/, https://finwiki.zksc.io/ja/finance/japan-cross-shareholding-unwinding-economics/, https://finwiki.zksc.io/ja/finance/japan-listed-financial-groups-investable-universe/, https://finwiki.zksc.io/ja/financial-regulators/japan-exchange-group/, https://finwiki.zksc.io/ja/foreign-financial-institutions/citigroup-japan/, https://finwiki.zksc.io/ja/foreign-financial-institutions/jpmorgan-japan/
 
 ### OIS TONA curve and JPY discounting
@@ -3277,8 +3277,8 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/derivatives/retail-fx-margin-trade-japan.md
 - Domain: derivatives
 - Type: wiki_entry
-- Summary: Japan's retail FX margin trading market (FX 証拠金取引) is among the largest in the world by turnover. It is structured as a regulated retail brokerage product offered by licensed Type 1 Financial Instruments Business operators under FIEA, with strict conduct rules from the Financial Services Agency (JFS
-- Headings: Retail FX margin trading in Japan, TL;DR, Wiki route, Market size, Composition of customer activity, Leverage cap, Loss-cut mechanism, Top brokers
+- Summary: Japan's retail FX margin trading market (FX 証拠金取引) is a regulated leveraged-derivatives market. A business offering FX transactions to residents of Japan must hold Financial Instruments Business registration; an overseas license alone is not sufficient. Individual OTC accounts require at least 4% ma
+- Headings: Retail FX margin trading in Japan, TL;DR, Wiki route, Market size, Statistical scope and interpretation, Leverage cap, Loss-cut mechanism, Registered-provider examples
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/derivatives/, https://finwiki.zksc.io/ja/derivatives/corporate-fx-hedge-policy-japan-listed/, https://finwiki.zksc.io/ja/derivatives/cross-currency-basis-swap-japan/, https://finwiki.zksc.io/ja/derivatives/fx-options-japan-corporate-treasury/, https://finwiki.zksc.io/ja/derivatives/fx-stp-broker-aggregation/, https://finwiki.zksc.io/ja/derivatives/japan-interest-rate-derivatives-overview/, https://finwiki.zksc.io/ja/derivatives/yen-basis-swap-market/, https://finwiki.zksc.io/ja/domains/money-market/, https://finwiki.zksc.io/ja/money-market/japan-money-market/, https://finwiki.zksc.io/ja/securities-firms/dmm-com-securities/, https://finwiki.zksc.io/ja/securities-firms/gmo-click-securities/, https://finwiki.zksc.io/ja/securities-firms/matsui-sec/
 
 ### Structured bond Japan retail issuance
@@ -3290,7 +3290,7 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/derivatives/structured-bond-japan-retail-issuance.md
 - Domain: derivatives
 - Type: wiki_entry
-- Summary: "Structured bond" (仕組債, shikumisai) is the umbrella Japanese term for retail-facing fixed-income products that embed derivative payoffs — typically equity-linked notes (EB, Equity Bond) with knock-in barriers, currency-linked deposits, reverse-convertible bonds with put-strike-at-discount, and digit
+- Summary: “Complex structured bond” (複雑な仕組債) is a JSDA regulatory term for a bond whose interest or redemption uses an OTC derivative or an equivalent economic structure. JSDA identifies EB bonds, equity-index-linked bonds and conditional dual-currency bonds as examples that may fall within the category. FSA
 - Headings: Structured bond Japan retail issuance, TL;DR, Wiki route, Core structured-bond categories, Structure variations, Issuer set, Distribution channel, Arranger fees
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/domains/derivatives/, https://finwiki.zksc.io/ja/derivatives/basis-trade-bond-cds-japan/, https://finwiki.zksc.io/ja/derivatives/cds-japan-corporate-spread-mechanics/, https://finwiki.zksc.io/ja/derivatives/cross-currency-basis-swap-japan/, https://finwiki.zksc.io/ja/derivatives/japan-cds-market-overview/, https://finwiki.zksc.io/ja/derivatives/japan-irs-market/, https://finwiki.zksc.io/ja/derivatives/structured-product-eb-knockin-japan-retail/, https://finwiki.zksc.io/ja/derivatives/yen-basis-swap-market/, https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/finance/japan-convertible-bond-mechanics/
 
@@ -3303,8 +3303,8 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/derivatives/structured-product-eb-knockin-japan-retail.md
 - Domain: derivatives
 - Type: wiki_entry
-- Summary: EB (Equity Bond) knock-in is the most-distributed structured-product format in Japan retail wealth management through 2022. Mechanically, the buyer is short a down-and-in put option on a single Japanese stock (or worst-of basket) in exchange for an enhanced coupon and (in autocallable variants) the
-- Headings: EB knock-in structured product Japan retail, TL;DR, Wiki route, Headline mechanics, Worst-of basket variant, Autocallable feature, Investor position equivalence, At-maturity payoff scenarios
+- Summary: An EB (他社株転換可能債券) is a complex bond whose redemption may be made in shares of another company rather than cash, depending on the referenced share price and contractual terms. A knock-in clause can make the redemption outcome depend on whether a stated barrier is reached during the specified observat
+- Headings: EB knock-in structured product Japan retail, TL;DR, Wiki route, Headline mechanics, Multi-reference and worst-of variants, Autocallable feature, Investor position equivalence, At-maturity payoff scenarios
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/domains/derivatives/, https://finwiki.zksc.io/ja/derivatives/basis-trade-bond-cds-japan/, https://finwiki.zksc.io/ja/derivatives/cds-japan-corporate-spread-mechanics/, https://finwiki.zksc.io/ja/derivatives/cross-currency-basis-swap-japan/, https://finwiki.zksc.io/ja/derivatives/japan-cds-market-overview/, https://finwiki.zksc.io/ja/derivatives/japan-irs-market/, https://finwiki.zksc.io/ja/derivatives/structured-bond-japan-retail-issuance/, https://finwiki.zksc.io/ja/derivatives/yen-basis-swap-market/, https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/finance/japan-convertible-bond-mechanics/
 
 ### Swap execution facility — Japan equivalent (ETP regime)
@@ -3316,7 +3316,7 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/derivatives/swap-execution-facility-japan.md
 - Domain: derivatives
 - Type: wiki_entry
-- Summary: Japan does not have a US-style "Swap Execution Facility (SEF)" license — but it operates a functionally equivalent regime of Electronic Trading Platforms (ETPs) for OTC derivatives execution, supervised by the FSA under FIEA. The ETP regime, mandated for designated standardized OTC products (yen IRS
+- Summary: Japan regulates Electronic Trading Platforms (ETPs) for OTC derivatives under FIEA. This is a Japan-specific framework, not a US SEF licence. FSA's September 2015 implementation material described mandatory ETP execution for in-scope yen-LIBOR IRS, an order-book or RFQ-to-at-least-three execution me
 - Headings: Swap execution facility — Japan equivalent (ETP regime), TL;DR, Wiki route, Why the ETP regime matters, Registration and supervision, Mandatory electronic execution scope, Pre-trade and post-trade transparency, Electronic platforms
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/banking/japan-banking-license-tier-comparison-matrix/, https://finwiki.zksc.io/ja/domains/derivatives/, https://finwiki.zksc.io/ja/derivatives/dealer-bank-derivatives-revenue-mix/, https://finwiki.zksc.io/ja/derivatives/equity-volatility-hedging-corporates-japan/, https://finwiki.zksc.io/ja/derivatives/japan-interest-rate-derivatives-overview/, https://finwiki.zksc.io/ja/derivatives/jgb-futures-curve/, https://finwiki.zksc.io/ja/derivatives/nikkei-vix-jpx-vi-equivalent/, https://finwiki.zksc.io/ja/derivatives/otc-clearing-jp-trade-repository/, https://finwiki.zksc.io/ja/finance/japan-corporate-fx-and-rate-hedge-policy/, https://finwiki.zksc.io/ja/finance/japan-listed-financial-groups-investable-universe/, https://finwiki.zksc.io/ja/financial-regulators/japan-exchange-group/
 
@@ -3329,9 +3329,9 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/derivatives/topix-futures.md
 - Domain: derivatives
 - Type: wiki_entry
-- Summary: TOPIX futures are exchange-listed equity-index futures on the Tokyo Stock Price Index (TOPIX), the JPX-flagship free-float-market-capitalization-weighted index covering all Prime Market (formerly First Section) constituents — roughly 2,000 stocks. They list on the Osaka Exchange (OSE) under Japan Ex
-- Headings: TOPIX futures (OSE), TL;DR, Wiki route, Contract Specifications, TOPIX vs Nikkei 225: Methodological Difference, Basis to ETF Arbitrage, Institutional Flow Profile, Sub-Index Futures: Core 30, 100, Banks
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/domains/derivatives/, https://finwiki.zksc.io/ja/derivatives/equity-volatility-hedging-corporates-japan/, https://finwiki.zksc.io/ja/derivatives/japan-single-stock-options/, https://finwiki.zksc.io/ja/derivatives/nikkei-225-futures-options/, https://finwiki.zksc.io/ja/derivatives/nikkei-vix-jpx-vi-equivalent/, https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/insurance/japan-life-insurance-alm-overview/, https://finwiki.zksc.io/ja/money-market/boj-open-market-operations/, https://finwiki.zksc.io/ja/domains/securities/, https://finwiki.zksc.io/ja/securities/japan-asset-manager-landscape-matrix/
+- Summary: TOPIX futures are exchange-listed equity-index futures on the Tokyo Stock Price Index (TOPIX). JPX describes TOPIX as an investable, free-float-adjusted market-capitalization-weighted benchmark covering an extensive proportion of the Japanese stock market. The current constituent set must be read fr
+- Headings: TOPIX futures (OSE), TL;DR, Wiki route, Contract Specifications, TOPIX vs Nikkei 225: Methodological Difference, Cash-Futures Basis Framework, Investor-Data Boundary, Sub-Index Futures: Core30 and Banks
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/domains/derivatives/, https://finwiki.zksc.io/ja/derivatives/equity-volatility-hedging-corporates-japan/, https://finwiki.zksc.io/ja/derivatives/japan-single-stock-options/, https://finwiki.zksc.io/ja/derivatives/nikkei-225-futures-options/, https://finwiki.zksc.io/ja/derivatives/nikkei-vix-jpx-vi-equivalent/, https://finwiki.zksc.io/ja/insurance/japan-life-insurance-alm-overview/, https://finwiki.zksc.io/ja/money-market/boj-open-market-operations/, https://finwiki.zksc.io/ja/domains/securities/, https://finwiki.zksc.io/ja/securities/japan-asset-manager-landscape-matrix/, https://finwiki.zksc.io/ja/securities/japan-market-infrastructure-map/
 
 ### Yen-USD cross-currency basis swap market
 - URL: https://finwiki.zksc.io/ja/derivatives/yen-basis-swap-market/
@@ -3343,7 +3343,7 @@ Public pages listed: 1603
 - Domain: derivatives
 - Type: wiki_entry
 - Summary: A yen-USD cross-currency basis swap (CCBS) is an OTC derivative in which two counterparties exchange principal and periodic floating-rate interest payments in two different currencies — typically JPY against USD — over a multi-year tenor. The "basis" is the spread (in basis points) added to one leg,
-- Headings: Yen-USD cross-currency basis swap market, TL;DR, Wiki route, Instrument Mechanics, Post-2008 Evolution, Corporate USD Funding via JPY Funding Swap, Megabank Dealer Franchise, Basis Widening Triggers
+- Headings: Yen-USD cross-currency basis swap market, TL;DR, Wiki route, Instrument Mechanics, Post-2008 Evolution, Corporate USD Funding via JPY Funding Swap, Public dealer-data boundary, Basis Widening Triggers
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/japan-banking-license-tier-comparison-matrix/, https://finwiki.zksc.io/ja/domains/derivatives/, https://finwiki.zksc.io/ja/derivatives/japan-interest-rate-derivatives-overview/, https://finwiki.zksc.io/ja/derivatives/japan-irs-market/, https://finwiki.zksc.io/ja/derivatives/jgb-futures-curve/, https://finwiki.zksc.io/ja/derivatives/ois-tona-curve/, https://finwiki.zksc.io/ja/finance/japan-corporate-fx-and-rate-hedge-policy/, https://finwiki.zksc.io/ja/finance/japan-listed-financial-groups-investable-universe/, https://finwiki.zksc.io/ja/megabanks/mizuho-bank/, https://finwiki.zksc.io/ja/megabanks/mufg-bank/
 
 ### Domain Bridge Navigation Guide · FinWiki クロスドメイン読書経路ガイド
@@ -17196,6 +17196,15 @@ Public pages listed: 1603
 - Type: release_note
 - Headings: カード・消費者金融・リース・ポイントの表出典132件を校正, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
 
+### デリバティブ・証券化の表出典196件を校正
+- URL: https://finwiki.zksc.io/releases/v2026.07.29-15.md
+- Raw Markdown: https://finwiki.zksc.io/releases/v2026.07.29-15.md
+- Source path: releases/v2026.07.29-15.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.29-15.md
+- Domain: releases
+- Type: release_note
+- Headings: デリバティブ・証券化の表出典196件を校正, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
+
 ### 事実鮮度イベント推論の精度改善
 - URL: https://finwiki.zksc.io/releases/v2026.07.29-2.md
 - Raw Markdown: https://finwiki.zksc.io/releases/v2026.07.29-2.md
@@ -18498,7 +18507,7 @@ Public pages listed: 1603
 - Headings: Structured Finance Index, TL;DR, Start here, Routing, Routing principles, JapanFG anchors, Related domains, Research control
 - First resolved wikilinks: https://finwiki.zksc.io/JapanFG/INDEX.md, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/card-issuers/aplus/, https://finwiki.zksc.io/ja/card-issuers/jaccs/, https://finwiki.zksc.io/ja/card-issuers/jcb/, https://finwiki.zksc.io/ja/card-issuers/mufg-nicos/, https://finwiki.zksc.io/ja/card-issuers/orico/, https://finwiki.zksc.io/ja/card-issuers/toyota-finance/, https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/financial-regulators/jfc/, https://finwiki.zksc.io/ja/financial-regulators/jsda/, https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/
 
-### ABCP conduit (asset-backed commercial paper) — Japan megabank-sponsored programs
+### ABCP conduit (asset-backed commercial paper) — Japan evidence guide
 - URL: https://finwiki.zksc.io/ja/structured-finance/abcp-conduit-japan-megabank/
 - Japanese HTML: https://finwiki.zksc.io/ja/structured-finance/abcp-conduit-japan-megabank/
 - English alternate: https://finwiki.zksc.io/en/structured-finance/abcp-conduit-japan-megabank/
@@ -18507,11 +18516,11 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/structured-finance/abcp-conduit-japan-megabank.md
 - Domain: structured-finance
 - Type: wiki_entry
-- Summary: ABCP conduits are off-balance-sheet special-purpose vehicles (TK / GK SPV structures) that buy short-tenor receivables from corporate sellers and fund the purchases by issuing yen-denominated commercial paper into the JSDA-overseen domestic CP market, with a liquidity backstop from the sponsor megab
-- Headings: ABCP conduit (asset-backed commercial paper) — Japan megabank-sponsored programs, TL;DR, Wiki route, 1. What an ABCP conduit looks like, 2. Japan megabank conduit programs, 3. Liquidity backstop — the structural anchor, 4. Post-2008 contraction, 5. Current market size and structure
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/financial-conglomerates/toyota-tsusho-corp/, https://finwiki.zksc.io/ja/financial-regulators/boj/, https://finwiki.zksc.io/ja/financial-regulators/japan-exchange-group/, https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/, https://finwiki.zksc.io/ja/leasing-firms/orix-corp/, https://finwiki.zksc.io/ja/leasing-firms/smfl/, https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/megabanks/smfg/, https://finwiki.zksc.io/ja/regional-banks/japan-post-bank/
+- Summary: No stable public program document was located in this review that supports the previous MUFG/SMBC/Mizuho program names, vehicle forms, outstanding amounts, 100% liquidity facilities, highest short-term ratings, contraction timeline, foreign-buyer share or pricing ranges. Those claims are removed. An
+- Headings: ABCP conduit (asset-backed commercial paper) — Japan evidence guide, TL;DR, Wiki route, 1. Program identity, 2. Assets and support, 3. Rating and stress history, 4. Investor and pricing evidence, 5. Deferred claims
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/domains/structured-finance/, https://finwiki.zksc.io/ja/structured-finance/credit-rating-methodology-jcr-r-and-i/, https://finwiki.zksc.io/ja/structured-finance/japan-abs-market-overview/, https://finwiki.zksc.io/ja/structured-finance/spv-tk-gk-vehicle-japan-tax/
 
-### Aircraft leasing financing — Japan sōgō shōsha and leasing-company involvement
+### Aircraft leasing and financing — verified Japan-linked platforms
 - URL: https://finwiki.zksc.io/ja/structured-finance/aircraft-leasing-financing-japan-shosha/
 - Japanese HTML: https://finwiki.zksc.io/ja/structured-finance/aircraft-leasing-financing-japan-shosha/
 - English alternate: https://finwiki.zksc.io/en/structured-finance/aircraft-leasing-financing-japan-shosha/
@@ -18520,11 +18529,11 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/structured-finance/aircraft-leasing-financing-japan-shosha.md
 - Domain: structured-finance
 - Type: wiki_entry
-- Summary: Japanese aircraft leasing has two intertwined channels: (1) Japanese operating-lessor platforms (Mitsubishi HC Capital aircraft division, SMFL aircraft, Mizuho Leasing, Tokyo Century via stake in ACG/Aviation Capital Group) holding aircraft on balance sheet and leasing to global airlines, and (2) Ja
-- Headings: Aircraft leasing financing — Japan sōgō shōsha and leasing-company involvement, TL;DR, Wiki route, 1. The aircraft-leasing market — short refresher, 2. Japanese operating-lessor platforms, 3. JOL / JOLCO — the tax-structured ownership market, JOL vs JOLCO, 4. Cross-border SPV tax structure
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/financial-conglomerates/marubeni-corp/, https://finwiki.zksc.io/ja/financial-conglomerates/mitsubishi-corp/, https://finwiki.zksc.io/ja/financial-conglomerates/mitsui-co/, https://finwiki.zksc.io/ja/financial-conglomerates/sumitomo-corp/, https://finwiki.zksc.io/ja/financial-regulators/boj/, https://finwiki.zksc.io/ja/financial-regulators/japan-exchange-group/, https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/, https://finwiki.zksc.io/ja/leasing-firms/mizuho-lease/, https://finwiki.zksc.io/ja/leasing-firms/orix-corp/, https://finwiki.zksc.io/ja/leasing-firms/smfl/, https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/
+- Summary: The cited company pages verify several Japan-linked aviation-leasing businesses and one dated SMFG acquisition disclosure. They do not support a fleet ranking, standard JOL/JOLCO leverage, tenor or investor economics, a market-leader hierarchy, or a generic aircraft-ABS structure. This page therefor
+- Headings: Aircraft leasing and financing — verified Japan-linked platforms, TL;DR, Wiki route, 1. Verified platforms, 2. Financing-structure evidence, 3. Product distinctions, 4. Deferred claims, Wiki route
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/domains/structured-finance/, https://finwiki.zksc.io/ja/structured-finance/japan-securitization-product-matrix/, https://finwiki.zksc.io/ja/structured-finance/spv-tk-gk-vehicle-japan-tax/
 
-### Auto-loan ABS Japan (Toyota Finance, Honda Finance, Nissan Credit)
+### Auto-loan ABS in Japan — issuer and pool evidence guide
 - URL: https://finwiki.zksc.io/ja/structured-finance/auto-loan-abs-japan-toyota-honda/
 - Japanese HTML: https://finwiki.zksc.io/ja/structured-finance/auto-loan-abs-japan-toyota-honda/
 - English alternate: https://finwiki.zksc.io/en/structured-finance/auto-loan-abs-japan-toyota-honda/
@@ -18533,11 +18542,11 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/structured-finance/auto-loan-abs-japan-toyota-honda.md
 - Domain: structured-finance
 - Type: wiki_entry
-- Summary: Auto-loan ABS in Japan are issued by captive finance subsidiaries of the Japanese auto OEMs and by bank-affiliated auto-finance companies. The largest repeat issuers are card-issuers/toyota-finance, leasing-firms/toyota-financial (for cross-border), Honda Finance, Nissan Credit, Mitsubishi UFJ Capit
-- Headings: Auto-loan ABS Japan (Toyota Finance, Honda Finance, Nissan Credit), TL;DR, Wiki route, 1. Repeat issuers, 2. Typical structure, 3. Weighted-average APR, 4. Default modeling, 5. Lease ABS — residual-value risk
-- First resolved wikilinks: https://finwiki.zksc.io/ja/card-issuers/toyota-finance/, https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/, https://finwiki.zksc.io/ja/leasing-firms/toyota-financial/, https://finwiki.zksc.io/ja/domains/structured-finance/, https://finwiki.zksc.io/ja/structured-finance/consumer-loan-abs-japan-card-issuer/, https://finwiki.zksc.io/ja/structured-finance/credit-rating-methodology-jcr-r-and-i/, https://finwiki.zksc.io/ja/structured-finance/japan-abs-market-overview/, https://finwiki.zksc.io/ja/structured-finance/japan-trust-beneficial-interest-vs-spv/, https://finwiki.zksc.io/ja/structured-finance/spv-tk-gk-vehicle-japan-tax/, https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/
+- Summary: The prior page asserted repeat-issuer rankings, largest originators, standard GK-TK vehicles, tranche stacks, APR/default behavior and investor categories without named public deals. Those claims are removed. A Japanese auto-loan ABS must be described from its named legal issuer, originator, pool cu
+- Headings: Auto-loan ABS in Japan — issuer and pool evidence guide, TL;DR, Wiki route, 1. Issuer and program, 2. Pool, 3. Structure and rating, 4. Deferred claims, Wiki route
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/domains/structured-finance/, https://finwiki.zksc.io/ja/structured-finance/credit-rating-methodology-jcr-r-and-i/, https://finwiki.zksc.io/ja/structured-finance/japan-auto-loan-abs-waterfall-mechanics/, https://finwiki.zksc.io/ja/structured-finance/spv-tk-gk-vehicle-japan-tax/
 
-### Consumer-loan / card-receivable ABS Japan (Aplus, Orico, JACCS, MUFG NICOS)
+### Consumer-loan and card-receivable ABS in Japan — evidence guide
 - URL: https://finwiki.zksc.io/ja/structured-finance/consumer-loan-abs-japan-card-issuer/
 - Japanese HTML: https://finwiki.zksc.io/ja/structured-finance/consumer-loan-abs-japan-card-issuer/
 - English alternate: https://finwiki.zksc.io/en/structured-finance/consumer-loan-abs-japan-card-issuer/
@@ -18546,9 +18555,9 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/structured-finance/consumer-loan-abs-japan-card-issuer.md
 - Domain: structured-finance
 - Type: wiki_entry
-- Summary: Consumer-loan and card-receivable ABS in Japan are issued by major consumer-finance and card-issuing companies — card-issuers/aplus, card-issuers/orico, card-issuers/jaccs, card-issuers/mufg-nicos, and others — and use revolving-pool structures with early-amortization triggers. The asset class is st
-- Headings: Consumer-loan / card-receivable ABS Japan (Aplus, Orico, JACCS, MUFG NICOS), TL;DR, Wiki route, 1. Repeat issuers, 2. Revolving structure, 3. Early-amortization triggers, 4. Cyclical default rate, 5. Tranching
-- First resolved wikilinks: https://finwiki.zksc.io/ja/card-issuers/aeon-financial-service/, https://finwiki.zksc.io/ja/card-issuers/aplus/, https://finwiki.zksc.io/ja/card-issuers/credit-saison/, https://finwiki.zksc.io/ja/card-issuers/jaccs/, https://finwiki.zksc.io/ja/card-issuers/jcb/, https://finwiki.zksc.io/ja/card-issuers/mufg-nicos/, https://finwiki.zksc.io/ja/card-issuers/orico/, https://finwiki.zksc.io/ja/domains/structured-finance/, https://finwiki.zksc.io/ja/structured-finance/auto-loan-abs-japan-toyota-honda/, https://finwiki.zksc.io/ja/structured-finance/credit-rating-methodology-jcr-r-and-i/, https://finwiki.zksc.io/ja/structured-finance/japan-abs-market-overview/, https://finwiki.zksc.io/ja/structured-finance/japan-trust-beneficial-interest-vs-spv/
+- Summary: The prior page presented a “main repeat issuer” list and generalized vehicle, revolving, trigger, enhancement, rating and investor mechanics without named public transactions. Those claims are removed. Consumer cash loans, shopping credit, card receivables and auto installment receivables are distin
+- Headings: Consumer-loan and card-receivable ABS in Japan — evidence guide, TL;DR, Wiki route, 1. Issuer and asset identity, 2. Legal and pool boundary, 3. Performance and distribution, 4. Deferred claims, Wiki route
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/domains/structured-finance/, https://finwiki.zksc.io/ja/structured-finance/credit-rating-methodology-jcr-r-and-i/, https://finwiki.zksc.io/ja/structured-finance/japan-consumer-loan-abs-structure/, https://finwiki.zksc.io/ja/structured-finance/japan-credit-card-receivable-abs/
 
 ### Credit rating methodology (JCR, R&I) for Japan structured finance
 - URL: https://finwiki.zksc.io/ja/structured-finance/credit-rating-methodology-jcr-r-and-i/
@@ -18559,8 +18568,8 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/structured-finance/credit-rating-methodology-jcr-r-and-i.md
 - Domain: structured-finance
 - Type: wiki_entry
-- Summary: JCR (Japan Credit Rating Agency) and R&I (Rating and Investment Information) are Japan's two dominant domestic credit rating agencies for structured finance. Both are FSA-designated as credit rating agencies (the Japanese equivalent of NRSRO designation), and both publish detailed structured-finance
-- Headings: Credit rating methodology (JCR, R&I) for Japan structured finance, TL;DR, Wiki route, 1. JCR — Japan Credit Rating Agency, 2. R&I — Rating and Investment Information, 3. FSA designation (NRSRO equivalent), 4. Methodology vs S&P / Moody's / Fitch, 5. Structured-finance criteria — common elements
+- Summary: JCR and R&I are legal entities listed in Japan's FSA register of credit rating agencies. Registration is not an “NRSRO equivalent,” does not make their methodologies interchangeable, and does not establish that either agency is required or dominant for an asset class. A structured-finance conclusion
+- Headings: Credit rating methodology (JCR, R&I) for Japan structured finance, TL;DR, Wiki route, 1. Agency identity and registration, 2. Methodology evidence, 3. Registration is not rating equivalence, 4. Named-transaction comparison, 5. Editorial boundary
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/domains/structured-finance/, https://finwiki.zksc.io/ja/structured-finance/auto-loan-abs-japan-toyota-honda/, https://finwiki.zksc.io/ja/structured-finance/consumer-loan-abs-japan-card-issuer/, https://finwiki.zksc.io/ja/structured-finance/japan-abs-market-overview/, https://finwiki.zksc.io/ja/structured-finance/japan-cmbs-issuance-structure/, https://finwiki.zksc.io/ja/structured-finance/japan-rmbs-issuance-structure/, https://finwiki.zksc.io/ja/structured-finance/japan-trust-beneficial-interest-vs-spv/, https://finwiki.zksc.io/ja/structured-finance/jhf-mbs-mechanics/, https://finwiki.zksc.io/ja/structured-finance/jhf-mbs-vs-private-rmbs-spread/, https://finwiki.zksc.io/ja/structured-finance/spv-tk-gk-vehicle-japan-tax/
 
 ### Fitch / Moody's / S&P Japan structured-finance criteria — global agencies vs JCR / R&I
@@ -18572,9 +18581,9 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/structured-finance/fitch-moody-sp-japan-criteria.md
 - Domain: structured-finance
 - Type: wiki_entry
-- Summary: Japanese securitisations are dual-rated: the domestic agencies JCR and R&I cover the yen-denominated investor base (life insurers, regional banks, Japan Post Bank), while Moody's, S&P, and Fitch are added when the deal targets foreign investors or USD-denominated tranches. The split-rating gap can b
+- Summary: A reliable agency comparison starts with the same named transaction, tranche, rating date and criteria version. The prior blanket claims—dual ratings as a rule, a 1–3-notch split, fixed recovery gaps, and a sovereign ceiling that prevents Japanese RMBS from receiving AAA—are not supported. S&P's pub
 - Headings: Fitch / Moody's / S&P Japan structured-finance criteria — global agencies vs JCR / R&I, TL;DR, Wiki route, 1. The three global agencies — Japan structured-finance footprint, 2. Sovereign-rating cap — the structural ceiling, 3. Differences in modelling assumptions, 3a. Default frequency / transition matrix, 3b. Recovery assumption
-- First resolved wikilinks: https://finwiki.zksc.io/ja/cooperative-banks/norinchukin/, https://finwiki.zksc.io/ja/derivatives/japan-cds-market-overview/, https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/financial-regulators/boj/, https://finwiki.zksc.io/ja/financial-regulators/japan-exchange-group/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/megabanks/smfg/, https://finwiki.zksc.io/ja/domains/real-estate-finance/, https://finwiki.zksc.io/ja/regional-banks/japan-post-bank/, https://finwiki.zksc.io/ja/securities-firms/mizuho-securities/, https://finwiki.zksc.io/ja/securities-firms/mufg-securities/
+- First resolved wikilinks: https://finwiki.zksc.io/ja/cooperative-banks/norinchukin/, https://finwiki.zksc.io/ja/derivatives/japan-cds-market-overview/, https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/financial-regulators/japan-exchange-group/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/megabanks/smfg/, https://finwiki.zksc.io/ja/domains/real-estate-finance/, https://finwiki.zksc.io/ja/domains/structured-finance/, https://finwiki.zksc.io/ja/structured-finance/credit-rating-methodology-jcr-r-and-i/, https://finwiki.zksc.io/ja/structured-finance/japan-abs-market-overview/, https://finwiki.zksc.io/ja/structured-finance/spv-tk-gk-vehicle-japan-tax/
 
 ### Infrastructure finance SPV in Japan — PFI, PPP, toll roads, airports, telecom towers
 - URL: https://finwiki.zksc.io/ja/structured-finance/infrastructure-finance-spv-japan/
@@ -18589,7 +18598,7 @@ Public pages listed: 1603
 - Headings: Infrastructure finance SPV in Japan — PFI, PPP, toll roads, airports, telecom towers, TL;DR, Wiki route, 1. The PFI framework (1999+), 2. PFI SPV structure, 3. Airport concessions — the flagship PFI segment, 4. Toll roads — NEXCO public-corporation structure, 5. Telecom towers — emerging asset class
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/financial-regulators/boj/, https://finwiki.zksc.io/ja/financial-regulators/dbj/, https://finwiki.zksc.io/ja/financial-regulators/japan-exchange-group/, https://finwiki.zksc.io/ja/financial-regulators/jbic/, https://finwiki.zksc.io/ja/leasing-firms/orix-corp/, https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/megabanks/smfg/, https://finwiki.zksc.io/ja/policy-finance/japan-project-finance-stack-diagram/, https://finwiki.zksc.io/ja/policy-finance/jbic-overseas-investment-underwriting-process/
 
-### Japan ABS market overview
+### Japan ABS market overview — reproducible evidence guide
 - URL: https://finwiki.zksc.io/ja/structured-finance/japan-abs-market-overview/
 - Japanese HTML: https://finwiki.zksc.io/ja/structured-finance/japan-abs-market-overview/
 - English alternate: https://finwiki.zksc.io/en/structured-finance/japan-abs-market-overview/
@@ -18598,11 +18607,11 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/structured-finance/japan-abs-market-overview.md
 - Domain: structured-finance
 - Type: wiki_entry
-- Summary: Japan's asset-backed securities market is split into three rough layers: the very large JHF MBS layer (Japan Housing Finance Agency, government-supported senior class), the private RMBS layer (jumbo mortgage pools originated by megabanks and trust banks), and the consumer / auto / CMBS / project lay
-- Headings: Japan ABS market overview, TL;DR, Wiki route, 1. Market layer map, 2. Originator landscape, 3. Dealer / arranger landscape, 4. Total market size signals, 5. Rating-agency criteria
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/card-issuers/aplus/, https://finwiki.zksc.io/ja/card-issuers/credit-saison/, https://finwiki.zksc.io/ja/card-issuers/jaccs/, https://finwiki.zksc.io/ja/card-issuers/jcb/, https://finwiki.zksc.io/ja/card-issuers/mufg-nicos/, https://finwiki.zksc.io/ja/card-issuers/orico/, https://finwiki.zksc.io/ja/card-issuers/toyota-finance/, https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/, https://finwiki.zksc.io/ja/leasing-firms/toyota-financial/, https://finwiki.zksc.io/ja/life-insurers/asahi-life/, https://finwiki.zksc.io/ja/life-insurers/daido-life/
+- Summary: This page no longer ranks Japanese securitization products, issuers, vehicles, ratings, dealers, investors or annual volumes without a defined dataset. JHF MBS has a dedicated public series; other products must be measured from JSDA's stated categories and named transaction records. Public offers, p
+- Headings: Japan ABS market overview — reproducible evidence guide, TL;DR, Wiki route, 1. Product measurement, 2. Transaction roles, 3. Historical analysis, 4. Rating, structure and pricing, 5. Deferred claims
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/domains/structured-finance/, https://finwiki.zksc.io/ja/structured-finance/credit-rating-methodology-jcr-r-and-i/, https://finwiki.zksc.io/ja/structured-finance/japan-cmbs-issuance-structure/, https://finwiki.zksc.io/ja/structured-finance/japan-rmbs-issuance-structure/, https://finwiki.zksc.io/ja/structured-finance/japan-securitization-product-matrix/, https://finwiki.zksc.io/ja/structured-finance/jhf-mbs-mechanics/
 
-### Japan auto-loan ABS waterfall mechanics — originator-servicer split, sub-class economics
+### Japan auto-loan ABS waterfall mechanics — evidence-bound reading
 - URL: https://finwiki.zksc.io/ja/structured-finance/japan-auto-loan-abs-waterfall-mechanics/
 - Japanese HTML: https://finwiki.zksc.io/ja/structured-finance/japan-auto-loan-abs-waterfall-mechanics/
 - English alternate: https://finwiki.zksc.io/en/structured-finance/japan-auto-loan-abs-waterfall-mechanics/
@@ -18611,9 +18620,9 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/structured-finance/japan-auto-loan-abs-waterfall-mechanics.md
 - Domain: structured-finance
 - Type: wiki_entry
-- Summary: Japan auto-loan ABS — the ~JPY 1.5–2 trillion annual issuance segment dominated by captive originators (Toyota Finance, Toyota Financial Services cross-border shelf, Honda Finance, Nissan Credit) and bank-affiliated multi-brand originators (Sumitomo Mitsui Auto Service, Orient Corporation, MUFG Capi
-- Headings: Japan auto-loan ABS waterfall mechanics — originator-servicer split, sub-class economics, TL;DR, Wiki route, 1. Originator–servicer split — who does what, 2. Pool composition — new-car vs used-car split, 3. The interest waterfall — collection order, 4. The principal waterfall — sequential vs pro-rata, 4a. Sequential pay (most common — ~80% of Japan domestic auto-loan ABS)
-- First resolved wikilinks: https://finwiki.zksc.io/ja/card-issuers/orico/, https://finwiki.zksc.io/ja/card-issuers/toyota-finance/, https://finwiki.zksc.io/ja/leasing-firms/sumitomo-mitsui-auto-service/, https://finwiki.zksc.io/ja/leasing-firms/toyota-financial/, https://finwiki.zksc.io/ja/securities-firms/mizuho-securities/, https://finwiki.zksc.io/ja/securities-firms/mufg-securities/, https://finwiki.zksc.io/ja/securities-firms/smbc-nikko/, https://finwiki.zksc.io/ja/domains/structured-finance/, https://finwiki.zksc.io/ja/structured-finance/auto-loan-abs-japan-toyota-honda/, https://finwiki.zksc.io/ja/structured-finance/credit-rating-methodology-jcr-r-and-i/, https://finwiki.zksc.io/ja/structured-finance/fitch-moody-sp-japan-criteria/, https://finwiki.zksc.io/ja/structured-finance/japan-consumer-loan-abs-structure/
+- Summary: No stable public deal document was located in this review that supports the previous issuer volumes, pool shares, APR ranges, fees, backup-servicer timing, 90/5/5 capital stack, enhancement percentages, trigger effects or rating gaps. Those values are removed. Auto-loan ABS mechanics must be reconst
+- Headings: Japan auto-loan ABS waterfall mechanics — evidence-bound reading, TL;DR, Wiki route, 1. Transaction parties, 2. Pool composition, 3. Interest waterfall, 4. Principal waterfall, 5. Credit enhancement
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/domains/structured-finance/, https://finwiki.zksc.io/ja/structured-finance/auto-loan-abs-japan-toyota-honda/, https://finwiki.zksc.io/ja/structured-finance/credit-rating-methodology-jcr-r-and-i/, https://finwiki.zksc.io/ja/structured-finance/jcr-ri-japan-securitization-rating-methodology-operating-playbook/, https://finwiki.zksc.io/ja/structured-finance/spv-tk-gk-vehicle-japan-tax/
 
 ### Japanese banks as CLO investors — Norinchukin, JPost, regional banks
 - URL: https://finwiki.zksc.io/ja/structured-finance/japan-clo-issuance-japanese-banks/
@@ -18628,7 +18637,7 @@ Public pages listed: 1603
 - Headings: Japanese banks as CLO investors — Norinchukin, JPost, regional banks, TL;DR, Wiki route, 1. What CLOs are — short refresher, 2. The Japanese buyer base — three concentric tiers, Tier 1: Norinchukin, Tier 2: Japan Post Bank, Tier 3: Regional banks
 - First resolved wikilinks: https://finwiki.zksc.io/ja/cooperative-banks/norinchukin/, https://finwiki.zksc.io/ja/derivatives/japan-cds-market-overview/, https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/finance/japan-leveraged-buyout-economics/, https://finwiki.zksc.io/ja/financial-regulators/japan-exchange-group/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/megabanks/smfg/, https://finwiki.zksc.io/ja/regional-banks/japan-post-bank/, https://finwiki.zksc.io/ja/domains/structured-finance/, https://finwiki.zksc.io/ja/structured-finance/credit-rating-methodology-jcr-r-and-i/, https://finwiki.zksc.io/ja/structured-finance/japan-abs-market-overview/
 
-### Japan CMBS issuance structure
+### Japan CMBS issuance structure — named-deal evidence guide
 - URL: https://finwiki.zksc.io/ja/structured-finance/japan-cmbs-issuance-structure/
 - Japanese HTML: https://finwiki.zksc.io/ja/structured-finance/japan-cmbs-issuance-structure/
 - English alternate: https://finwiki.zksc.io/en/structured-finance/japan-cmbs-issuance-structure/
@@ -18637,11 +18646,11 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/structured-finance/japan-cmbs-issuance-structure.md
 - Domain: structured-finance
 - Type: wiki_entry
-- Summary: Japan CMBS is split between single-borrower (single-asset or small-pool, one sponsor) and conduit (multiple uncorrelated borrowers, larger pool) structures. The market peaked in 2006-2007, was devastated by the 2008-2010 global financial crisis with many defaults at maturity rollover, and stayed lar
-- Headings: Japan CMBS issuance structure, TL;DR, Wiki route, 1. Structure types, 2. Tranching, 3. B-piece buyer market, 4. Recovery scenarios, 5. Post-2008 issuance drop
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/finance/japan-acquisition-finance/, https://finwiki.zksc.io/ja/domains/real-estate-finance/, https://finwiki.zksc.io/ja/domains/structured-finance/, https://finwiki.zksc.io/ja/structured-finance/credit-rating-methodology-jcr-r-and-i/, https://finwiki.zksc.io/ja/structured-finance/japan-abs-market-overview/, https://finwiki.zksc.io/ja/structured-finance/japan-rmbs-issuance-structure/, https://finwiki.zksc.io/ja/structured-finance/japan-trust-beneficial-interest-vs-spv/, https://finwiki.zksc.io/ja/structured-finance/spv-tk-gk-vehicle-japan-tax/
+- Summary: The prior page generalized TMK/GK-TK preference, standard tranching, rating, servicer, post-2008 defaults and a 2020 logistics-led revival without a defined transaction set. Those claims are removed. A CMBS must be described from the named issuer, collateral, loan, vehicle, waterfall, servicing and
+- Headings: Japan CMBS issuance structure — named-deal evidence guide, TL;DR, Wiki route, 1. Named transaction, 2. Vehicle boundary, 3. Cash flow and servicing, 4. Historical analysis, 5. Deferred claims
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/domains/structured-finance/, https://finwiki.zksc.io/ja/structured-finance/credit-rating-methodology-jcr-r-and-i/, https://finwiki.zksc.io/ja/structured-finance/japan-abs-market-overview/, https://finwiki.zksc.io/ja/structured-finance/spv-tk-gk-vehicle-japan-tax/, https://finwiki.zksc.io/ja/structured-finance/tmk-special-purpose-company-mechanics/
 
-### Japan consumer-loan ABS structure — dynamic-pool, interest-rate ceiling, early-amortization
+### Japan consumer-loan ABS structure — evidence-bound reading
 - URL: https://finwiki.zksc.io/ja/structured-finance/japan-consumer-loan-abs-structure/
 - Japanese HTML: https://finwiki.zksc.io/ja/structured-finance/japan-consumer-loan-abs-structure/
 - English alternate: https://finwiki.zksc.io/en/structured-finance/japan-consumer-loan-abs-structure/
@@ -18650,11 +18659,11 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/structured-finance/japan-consumer-loan-abs-structure.md
 - Domain: structured-finance
 - Type: wiki_entry
-- Summary: Japan consumer-loan ABS — issued in modest annual volumes (~JPY 300–600 bn) by the surviving consumer-finance and shopping-credit originators (Acom under MUFG, Aiful, SMBC Consumer Finance, Aplus under SBI / others, Orient Corp under Mizuho-Itochu, JACCS) — uses dynamic-pool revolving structures wit
-- Headings: Japan consumer-loan ABS structure — dynamic-pool, interest-rate ceiling, early-amortization, TL;DR, Wiki route, 1. The five repeat issuers — post-2006 survivor set, 2. Pool composition — unsecured vs secured, mukotei vs yutei, 3. Dynamic-pool replenishment — the revolving phase, 4. The early-amortization trigger structure — investor protection, 5. Credit enhancement stack — deeper than secured ABS
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/card-issuers/aplus/, https://finwiki.zksc.io/ja/card-issuers/jaccs/, https://finwiki.zksc.io/ja/card-issuers/orico/, https://finwiki.zksc.io/ja/consumer-finance/acom/, https://finwiki.zksc.io/ja/consumer-finance/aiful/, https://finwiki.zksc.io/ja/consumer-finance/smbc-consumer-finance/, https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/payment-firms/bnpl-landscape/, https://finwiki.zksc.io/ja/domains/structured-finance/, https://finwiki.zksc.io/ja/structured-finance/consumer-loan-abs-japan-card-issuer/, https://finwiki.zksc.io/ja/structured-finance/credit-rating-methodology-jcr-r-and-i/
+- Summary: The Interest Rate Restriction Act supplies statutory maximum rates by principal band, but it does not supply a securitized pool's APR, default rate, trigger level, retention, payoff period or investor base. No stable public deal document was located that supports the previous “five survivors,” annua
+- Headings: Japan consumer-loan ABS structure — evidence-bound reading, TL;DR, Wiki route, 1. Issuer and collateral identity, 2. Interest-rate law and pool data, 3. Pool-performance evidence, 4. Revolving and early-amortization mechanics, 5. Cash-flow and enhancement
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/domains/structured-finance/, https://finwiki.zksc.io/ja/structured-finance/consumer-loan-abs-japan-card-issuer/, https://finwiki.zksc.io/ja/structured-finance/credit-rating-methodology-jcr-r-and-i/, https://finwiki.zksc.io/ja/structured-finance/japan-auto-loan-abs-waterfall-mechanics/, https://finwiki.zksc.io/ja/structured-finance/japan-credit-card-receivable-abs/, https://finwiki.zksc.io/ja/structured-finance/spv-tk-gk-vehicle-japan-tax/
 
-### Japanese megabank covered bonds — MUFG, SMBC EUR/USD programs
+### Japan contractual covered bond — verified SMBC program and MUFG evidence boundary
 - URL: https://finwiki.zksc.io/ja/structured-finance/japan-covered-bond-mufg-smbc/
 - Japanese HTML: https://finwiki.zksc.io/ja/structured-finance/japan-covered-bond-mufg-smbc/
 - English alternate: https://finwiki.zksc.io/en/structured-finance/japan-covered-bond-mufg-smbc/
@@ -18663,11 +18672,11 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/structured-finance/japan-covered-bond-mufg-smbc.md
 - Domain: structured-finance
 - Type: wiki_entry
-- Summary: The Japanese megabanks — led by MUFG Bank and SMBC — issue EUR and USD covered bonds to international investors as a USD/EUR-denominated funding source positioned between senior unsecured bonds and traditional RMBS securitization. The covered-bond programs are contractually structured (rather than s
-- Headings: Japanese megabank covered bonds — MUFG, SMBC EUR/USD programs, TL;DR, Wiki route, 1. What a covered bond is — short refresher, 2. European statutory vs Japanese contractual structure, MUFG Bank covered bond program, SMBC covered bond program, 4. Cover pool composition — residential mortgages
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/financial-regulators/jcr/, https://finwiki.zksc.io/ja/financial-regulators/rating-and-investment/, https://finwiki.zksc.io/ja/megabanks/mizuho-bank/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/megabanks/mufg-bank/, https://finwiki.zksc.io/ja/megabanks/smfg/, https://finwiki.zksc.io/ja/megabanks/sumitomo-mitsui-banking-corp/, https://finwiki.zksc.io/ja/domains/structured-finance/, https://finwiki.zksc.io/ja/structured-finance/credit-rating-methodology-jcr-r-and-i/
+- Summary: SMBC's official disclosures document a contractual covered-bond program. The issuer is SMBC acting as trustee of a specified money trust; bondholders have recourse both to the segregated trust property and to SMBC in its proprietary capacity. The cover pool consists principally of highly rated, self
+- Headings: Japan contractual covered bond — verified SMBC program and MUFG evidence boundary, TL;DR, Wiki route, 1. What a covered bond is — short refresher, 2. European statutory vs Japanese contractual structure, MUFG Bank covered bond program, SMBC covered bond program, 4. Cover pool composition — eligible Japanese RMBS
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/megabanks/mizuho-bank/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/megabanks/mufg-bank/, https://finwiki.zksc.io/ja/megabanks/smfg/, https://finwiki.zksc.io/ja/megabanks/sumitomo-mitsui-banking-corp/, https://finwiki.zksc.io/ja/domains/structured-finance/, https://finwiki.zksc.io/ja/structured-finance/credit-rating-methodology-jcr-r-and-i/, https://finwiki.zksc.io/ja/structured-finance/japan-abs-market-overview/, https://finwiki.zksc.io/ja/structured-finance/japan-clo-issuance-japanese-banks/
 
-### Japan credit-card receivable ABS — master trust framework, 期間延長, default triggers
+### Japan credit-card receivable ABS — evidence-bound reading
 - URL: https://finwiki.zksc.io/ja/structured-finance/japan-credit-card-receivable-abs/
 - Japanese HTML: https://finwiki.zksc.io/ja/structured-finance/japan-credit-card-receivable-abs/
 - English alternate: https://finwiki.zksc.io/en/structured-finance/japan-credit-card-receivable-abs/
@@ -18676,11 +18685,11 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/structured-finance/japan-credit-card-receivable-abs.md
 - Domain: structured-finance
 - Type: wiki_entry
-- Summary: Japan credit-card receivable ABS — issued in modest annual volumes (~JPY 400–700 bn) by JCB, Mitsubishi UFJ Nicos, Credit Saison, Orient Corp, AEON Financial Service, and JACCS — uses a master-trust framework in which a single trust structure issues multiple series of senior bonds over time backed b
-- Headings: Japan credit-card receivable ABS — master trust framework, 期間延長, default triggers, TL;DR, Wiki route, 1. The six repeat issuers — Japan card-receivable ABS landscape, 2. The master-trust framework — what it is, 3. Card-receivable pool composition, 4. The 期間延長 (term extension) mechanism, 5. The series-issuance mechanics
-- First resolved wikilinks: https://finwiki.zksc.io/ja/card-issuers/aeon-financial-service/, https://finwiki.zksc.io/ja/card-issuers/credit-saison/, https://finwiki.zksc.io/ja/card-issuers/jaccs/, https://finwiki.zksc.io/ja/card-issuers/jcb/, https://finwiki.zksc.io/ja/card-issuers/mufg-nicos/, https://finwiki.zksc.io/ja/card-issuers/orico/, https://finwiki.zksc.io/ja/payment-firms/bnpl-landscape/, https://finwiki.zksc.io/ja/domains/payments/, https://finwiki.zksc.io/ja/securities-firms/mizuho-securities/, https://finwiki.zksc.io/ja/securities-firms/mufg-securities/, https://finwiki.zksc.io/ja/securities-firms/smbc-nikko/, https://finwiki.zksc.io/ja/domains/structured-finance/
+- Summary: No stable public transaction document was located that supports the previous JPY 400–700 billion market estimate, six-issuer ranking, master-trust series count, 3–9-month issuance cadence, receivable balances, default ranges or 期間延長 timetable. Those values are removed. A card-receivable transaction
+- Headings: Japan credit-card receivable ABS — evidence-bound reading, TL;DR, Wiki route, 1. Issuer and program verification, 2. Stand-alone and multi-series structures, 3. Receivable composition, 4. Extension and amortization, 5. Enhancement and rating
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/domains/structured-finance/, https://finwiki.zksc.io/ja/structured-finance/consumer-loan-abs-japan-card-issuer/, https://finwiki.zksc.io/ja/structured-finance/credit-rating-methodology-jcr-r-and-i/, https://finwiki.zksc.io/ja/structured-finance/japan-consumer-loan-abs-structure/, https://finwiki.zksc.io/ja/structured-finance/spv-tk-gk-vehicle-japan-tax/
 
-### Japan equipment lease ABS — residual-value risk, true-lease vs finance-lease split
+### Japan equipment lease ABS — evidence-bound reading
 - URL: https://finwiki.zksc.io/ja/structured-finance/japan-equipment-lease-abs/
 - Japanese HTML: https://finwiki.zksc.io/ja/structured-finance/japan-equipment-lease-abs/
 - English alternate: https://finwiki.zksc.io/en/structured-finance/japan-equipment-lease-abs/
@@ -18689,11 +18698,11 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/structured-finance/japan-equipment-lease-abs.md
 - Domain: structured-finance
 - Type: wiki_entry
-- Summary: Japan equipment lease ABS — issued in modest annual volumes (~JPY 200–400 bn) by the three major independent leasing companies (Mitsubishi HC Capital, Tokyo Century, ORIX) and bank-affiliated leasing arms (Fuyo Lease under Mizuho-Marubeni, Sumitomo Mitsui Finance & Leasing under SMFG, IBJ Leasing un
-- Headings: Japan equipment lease ABS — residual-value risk, true-lease vs finance-lease split, TL;DR, Wiki route, 1. The repeat issuer landscape, 2. Pool composition — equipment-type mix, 3. True-lease vs finance-lease — the central distinction, 4. Residual-value risk modelling, 5. Comparison with auto-lease ABS
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/leasing-firms/chibagin-leasing/, https://finwiki.zksc.io/ja/leasing-firms/fuyo-lease/, https://finwiki.zksc.io/ja/leasing-firms/ibj-leasing/, https://finwiki.zksc.io/ja/leasing-firms/iyogin-leasing/, https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/, https://finwiki.zksc.io/ja/leasing-firms/orix-corp/, https://finwiki.zksc.io/ja/leasing-firms/ricoh-leasing/, https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/, https://finwiki.zksc.io/ja/leasing-firms/yokohama-bank-leasing/, https://finwiki.zksc.io/ja/domains/real-estate-finance/, https://finwiki.zksc.io/ja/domains/structured-finance/
+- Summary: No stable public transaction document was located that supports the previous JPY 200–400 billion estimate, issuer ranking, equipment-pool shares, lease tenors, residual-value bands, fee range or enhancement comparison. Those values are removed. Lease receivable, ownership, residual-value exposure an
+- Headings: Japan equipment lease ABS — evidence-bound reading, TL;DR, Wiki route, 1. Issuer and transaction evidence, 2. Pool and residual-value exposure, 3. Cash-flow priority, 4. Performance and rating, 5. Deferred claims
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/domains/structured-finance/, https://finwiki.zksc.io/ja/structured-finance/credit-rating-methodology-jcr-r-and-i/, https://finwiki.zksc.io/ja/structured-finance/japan-auto-loan-abs-waterfall-mechanics/, https://finwiki.zksc.io/ja/structured-finance/japan-consumer-loan-abs-structure/, https://finwiki.zksc.io/ja/structured-finance/spv-tk-gk-vehicle-japan-tax/
 
-### Green securitization in Japan — Green RMBS, ABS, SLB, Climate Bonds certification
+### Green securitization in Japan — JHF Green MBS and evidence boundaries
 - URL: https://finwiki.zksc.io/ja/structured-finance/japan-green-securitization/
 - Japanese HTML: https://finwiki.zksc.io/ja/structured-finance/japan-green-securitization/
 - English alternate: https://finwiki.zksc.io/en/structured-finance/japan-green-securitization/
@@ -18702,11 +18711,11 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/structured-finance/japan-green-securitization.md
 - Domain: structured-finance
 - Type: wiki_entry
-- Summary: The market operates under the ICMA Green Bond Principles / Sustainability Bond Guidelines framework supplemented by Japan-specific FSA principles (most notably the FSA / METI / MOE Green Bond Guidelines) and increasingly Climate Bonds Initiative (CBI) certification for global investor recognition. T
-- Headings: Green securitization in Japan — Green RMBS, ABS, SLB, Climate Bonds certification, TL;DR, Wiki route, 1. Green / sustainable securitization — framework, 2. Japanese regulatory framework, 3. Green RMBS — JHF green Flat-35-S anchor, Megabank green RMBS, 4. Green ABS — renewable and EV-charging receivables
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/megabanks/smfg/, https://finwiki.zksc.io/ja/domains/policy-finance/, https://finwiki.zksc.io/ja/policy-finance/japan-housing-finance-agency/, https://finwiki.zksc.io/ja/domains/structured-finance/, https://finwiki.zksc.io/ja/structured-finance/auto-loan-abs-japan-toyota-honda/, https://finwiki.zksc.io/ja/structured-finance/credit-rating-methodology-jcr-r-and-i/, https://finwiki.zksc.io/ja/structured-finance/japan-abs-market-overview/, https://finwiki.zksc.io/ja/structured-finance/japan-covered-bond-mufg-smbc/
+- Summary: The publicly verified anchor in this review is JHF Green MBS. JHF's current materials expressly distinguish it from ordinary monthly MBS: Green MBS do not use overcollateralization, so their rating linkage differs. The previous page generalized from this product to unverified Japanese green RMBS, re
+- Headings: Green securitization in Japan — JHF Green MBS and evidence boundaries, TL;DR, Wiki route, 1. Label and structure are separate questions, 2. Verified JHF Green MBS boundary, 3. Ordinary monthly MBS comparison, 4. SLB and certification claims, 5. Cross-market comparison
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/domains/structured-finance/, https://finwiki.zksc.io/ja/structured-finance/japan-abs-market-overview/, https://finwiki.zksc.io/ja/structured-finance/japan-rmbs-issuance-structure/, https://finwiki.zksc.io/ja/structured-finance/japan-securitization-product-matrix/, https://finwiki.zksc.io/ja/structured-finance/jhf-mbs-mechanics/
 
-### Japan RMBS issuance structure
+### Japan private RMBS issuance structure — named-deal evidence guide
 - URL: https://finwiki.zksc.io/ja/structured-finance/japan-rmbs-issuance-structure/
 - Japanese HTML: https://finwiki.zksc.io/ja/structured-finance/japan-rmbs-issuance-structure/
 - English alternate: https://finwiki.zksc.io/en/structured-finance/japan-rmbs-issuance-structure/
@@ -18715,9 +18724,9 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/structured-finance/japan-rmbs-issuance-structure.md
 - Domain: structured-finance
 - Type: wiki_entry
-- Summary: Private RMBS in Japan are usually jumbo deals backed by megabank-originated residential mortgages. They sit alongside but distinct from JHF MBS: JHF MBS is government-supported and backed by Flat 35 fixed-rate loans, while private RMBS are megabank originations with their own credit enhancement and
-- Headings: Japan RMBS issuance structure, TL;DR, Wiki route, 1. Originators, 2. Comparison to JHF MBS, 3. Structure — typical tranching, 4. Credit enhancement, 5. Prepayment modeling
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/megabanks/smfg/, https://finwiki.zksc.io/ja/policy-finance/japan-housing-finance-agency/, https://finwiki.zksc.io/ja/domains/real-estate-finance/, https://finwiki.zksc.io/ja/domains/structured-finance/, https://finwiki.zksc.io/ja/structured-finance/credit-rating-methodology-jcr-r-and-i/, https://finwiki.zksc.io/ja/structured-finance/japan-abs-market-overview/, https://finwiki.zksc.io/ja/structured-finance/japan-trust-beneficial-interest-vs-spv/, https://finwiki.zksc.io/ja/structured-finance/jhf-mbs-mechanics/, https://finwiki.zksc.io/ja/structured-finance/jhf-mbs-vs-private-rmbs-spread/
+- Summary: The prior page generalized private-RMBS originators, trust preference, tranche counts, enhancement, ratings, spreads and investors. Those claims are removed. Private RMBS terms are deal-specific. JHF MBS is separately documented: JHF owes timely payment before a beneficiary-interest event; the struc
+- Headings: Japan private RMBS issuance structure — named-deal evidence guide, TL;DR, Wiki route, 1. Named private RMBS, 2. JHF comparison, 3. Pool, waterfall and performance, 4. Deferred claims, Wiki route
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/domains/structured-finance/, https://finwiki.zksc.io/ja/structured-finance/credit-rating-methodology-jcr-r-and-i/, https://finwiki.zksc.io/ja/structured-finance/japan-trust-beneficial-interest-vs-spv/, https://finwiki.zksc.io/ja/structured-finance/jhf-mbs-mechanics/, https://finwiki.zksc.io/ja/structured-finance/jhf-mbs-vs-private-rmbs-spread/
 
 ### Japan securitization product matrix
 - URL: https://finwiki.zksc.io/ja/structured-finance/japan-securitization-product-matrix/
@@ -18728,9 +18737,9 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/structured-finance/japan-securitization-product-matrix.md
 - Domain: structured-finance
 - Type: wiki_entry
-- Summary: This matrix compares the major ABS-class securitization products issued in Japan across a single set of dimensions: typical issuer / sponsor, originator asset pool, SPV vehicle choice (TMK / GK-TK / TK only / trust beneficial interest / none), typical AAA-tranche rating, rating-agency split (JCR / R
-- Headings: Japan securitization product matrix, TL;DR, Wiki route, 1. The product matrix — single-table master, 2. Vehicle-choice matrix — which SPV is used, 3. Rating-agency split matrix, 4. Distributor channel matrix, 5. Regulatory-home matrix
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/card-issuers/credit-saison/, https://finwiki.zksc.io/ja/card-issuers/jaccs/, https://finwiki.zksc.io/ja/card-issuers/jcb/, https://finwiki.zksc.io/ja/card-issuers/orico/, https://finwiki.zksc.io/ja/card-issuers/toyota-finance/, https://finwiki.zksc.io/ja/cooperative-banks/norinchukin/, https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/, https://finwiki.zksc.io/ja/domains/policy-finance/, https://finwiki.zksc.io/ja/policy-finance/japan-housing-finance-agency/, https://finwiki.zksc.io/ja/domains/real-estate-finance/
+- Summary: This is an evidence map, not a table of “typical” issuers, vehicles, ratings, tranche counts, annual volumes, investors or distributors. With two narrow exceptions—JHF's disclosed MBS program and SMBC's disclosed contractual covered-bond program—each row requires a named transaction. The page makes
+- Headings: Japan securitization product matrix, TL;DR, Wiki route, 1. Product evidence map, 2. Vehicle evidence, 3. Rating evidence, 4. Volume and holdings, 5. Pricing comparison
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/domains/structured-finance/, https://finwiki.zksc.io/ja/structured-finance/credit-rating-methodology-jcr-r-and-i/, https://finwiki.zksc.io/ja/structured-finance/japan-abs-market-overview/, https://finwiki.zksc.io/ja/structured-finance/japan-auto-loan-abs-waterfall-mechanics/, https://finwiki.zksc.io/ja/structured-finance/japan-cmbs-issuance-structure/, https://finwiki.zksc.io/ja/structured-finance/japan-consumer-loan-abs-structure/, https://finwiki.zksc.io/ja/structured-finance/japan-covered-bond-mufg-smbc/, https://finwiki.zksc.io/ja/structured-finance/japan-credit-card-receivable-abs/, https://finwiki.zksc.io/ja/structured-finance/japan-equipment-lease-abs/, https://finwiki.zksc.io/ja/structured-finance/japan-rmbs-issuance-structure/, https://finwiki.zksc.io/ja/structured-finance/japan-trust-beneficial-interest-vs-spv/
 
 ### Trust beneficial interest vs SPV (Japan securitization vehicle)
 - URL: https://finwiki.zksc.io/ja/structured-finance/japan-trust-beneficial-interest-vs-spv/
@@ -18741,8 +18750,8 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/structured-finance/japan-trust-beneficial-interest-vs-spv.md
 - Domain: structured-finance
 - Type: wiki_entry
-- Summary: Japanese securitization deals can use either an SPV (TK-GK, TMK, etc.) or a trust beneficial interest (信託受益権) as the issuance vehicle. Trust beneficial interest is its own securitization vehicle, not just a wrapper: the originator transfers assets to a trust, the trust holds the assets, and trust be
-- Headings: Trust beneficial interest vs SPV (Japan securitization vehicle), TL;DR, Wiki route, 1. Trust beneficial interest as securitization vehicle, 2. Single-asset trust (信託受益権の流動化), 3. Multi-asset trust, 4. Trust vs SPV comparison, 5. Why trust is used for RMBS
+- Summary: Japanese securitization may use a trust, a corporate vehicle, or a layered combination. A trust is a legal relationship rather than a corporation; the trustee holds and administers trust property for beneficiaries under the Trust Act. The Financial Instruments and Exchange Act (FIEA) classification
+- Headings: Trust beneficial interest vs SPV (Japan securitization vehicle), TL;DR, Wiki route, 1. Trust beneficial interest as securitization vehicle, 2. Asset and transfer evidence, 3. Layered trust and corporate structures, 4. Trust vs SPV comparison, 5. Product-use claims
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/master-trust-bank-operating-model/, https://finwiki.zksc.io/ja/domains/structured-finance/, https://finwiki.zksc.io/ja/structured-finance/auto-loan-abs-japan-toyota-honda/, https://finwiki.zksc.io/ja/structured-finance/consumer-loan-abs-japan-card-issuer/, https://finwiki.zksc.io/ja/structured-finance/credit-rating-methodology-jcr-r-and-i/, https://finwiki.zksc.io/ja/structured-finance/japan-abs-market-overview/, https://finwiki.zksc.io/ja/structured-finance/japan-cmbs-issuance-structure/, https://finwiki.zksc.io/ja/structured-finance/japan-rmbs-issuance-structure/, https://finwiki.zksc.io/ja/structured-finance/jhf-mbs-mechanics/, https://finwiki.zksc.io/ja/structured-finance/spv-tk-gk-vehicle-japan-tax/, https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/
 
 ### JCR / R&I Japan securitization rating methodology operating playbook
@@ -18754,9 +18763,9 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/structured-finance/jcr-ri-japan-securitization-rating-methodology-operating-playbook.md
 - Domain: structured-finance
 - Type: wiki_entry
-- Summary: JCR (株式会社日本格付研究所) and R&I (格付投資情報センター) are the two FSA-designated domestic credit rating agencies dominating Japan structured finance. Their operating methodology for ABS / RMBS / CMBS / consumer / card / lease ratings follows a four-step playbook: (1) asset-class-specific stressed default rate (SDR
-- Headings: JCR / R&I Japan securitization rating methodology operating playbook, TL;DR, Wiki route, 1. JCR and R&I — the agency identities, 2. The asset-class methodology architecture, 3. The stressed default rate (SDR) calculation, 3a. Base-case default frequency, 3b. Stress multipliers by rating category
-- First resolved wikilinks: https://finwiki.zksc.io/ja/megabanks/mizuho-fg/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/megabanks/smfg/, https://finwiki.zksc.io/ja/domains/structured-finance/, https://finwiki.zksc.io/ja/structured-finance/credit-rating-methodology-jcr-r-and-i/, https://finwiki.zksc.io/ja/structured-finance/fitch-moody-sp-japan-criteria/, https://finwiki.zksc.io/ja/structured-finance/japan-abs-market-overview/, https://finwiki.zksc.io/ja/structured-finance/japan-auto-loan-abs-waterfall-mechanics/, https://finwiki.zksc.io/ja/structured-finance/japan-cmbs-issuance-structure/, https://finwiki.zksc.io/ja/structured-finance/japan-consumer-loan-abs-structure/, https://finwiki.zksc.io/ja/structured-finance/japan-credit-card-receivable-abs/, https://finwiki.zksc.io/ja/structured-finance/japan-equipment-lease-abs/
+- Summary: There is no public basis for a single JCR/R&I “operating playbook” with fixed base-default ranges, 4–6× stress multipliers, 1–2-notch downgrade rules, staff counts, action counts or universal monthly / quarterly surveillance cycles. Treat each agency separately. For a named transaction, record the r
+- Headings: JCR / R&I Japan securitization rating methodology operating playbook, TL;DR, Wiki route, 1. Agency identity, 2. Criteria selection, 3. Assumption record, 4. Cash-flow modeling, 5. Surveillance
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/structured-finance/, https://finwiki.zksc.io/ja/structured-finance/credit-rating-methodology-jcr-r-and-i/, https://finwiki.zksc.io/ja/structured-finance/fitch-moody-sp-japan-criteria/, https://finwiki.zksc.io/ja/structured-finance/japan-auto-loan-abs-waterfall-mechanics/, https://finwiki.zksc.io/ja/structured-finance/japan-cmbs-issuance-structure/, https://finwiki.zksc.io/ja/structured-finance/japan-consumer-loan-abs-structure/, https://finwiki.zksc.io/ja/structured-finance/japan-credit-card-receivable-abs/, https://finwiki.zksc.io/ja/structured-finance/japan-equipment-lease-abs/, https://finwiki.zksc.io/ja/structured-finance/japan-rmbs-issuance-structure/
 
 ### JHF MBS mechanics (Japan Housing Finance Agency)
 - URL: https://finwiki.zksc.io/ja/structured-finance/jhf-mbs-mechanics/
@@ -18767,8 +18776,8 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/structured-finance/jhf-mbs-mechanics.md
 - Domain: structured-finance
 - Type: wiki_entry
-- Summary: The Japan Housing Finance Agency (JHF) runs a monthly MBS issuance program backed by Flat 35 fixed-rate residential mortgages originated by private financial institutions. JHF buys the loans via its securitization-support program, packages them into an "MBS Trust" structure, and issues MBS where the
-- Headings: JHF MBS mechanics (Japan Housing Finance Agency), TL;DR, Wiki route, 1. Flat 35 origination, 2. Monthly MBS issuance cadence, 3. MBS Trust structure, 4. Government-supported senior class, 5. Subordinated portion
+- Summary: The Japan Housing Finance Agency (JHF) buys eligible Flat 35 fixed-rate residential mortgages from participating financial institutions and issues asset-backed agency bonds. Ordinary monthly JHF MBS are not a 90–99% senior tranche paired with a 1–10% subordinated tranche, and JHF does not merely gua
+- Headings: JHF MBS mechanics (Japan Housing Finance Agency), TL;DR, Wiki route, 1. Flat 35 origination, 2. Monthly MBS issuance cadence, 3. MBS Trust structure, 4. Credit risk before and after a beneficiary-interest event, 5. Ordinary monthly MBS and Green MBS credit enhancement
 - First resolved wikilinks: https://finwiki.zksc.io/ja/financial-regulators/jfc/, https://finwiki.zksc.io/ja/domains/policy-finance/, https://finwiki.zksc.io/ja/policy-finance/japan-housing-finance-agency/, https://finwiki.zksc.io/ja/domains/real-estate-finance/, https://finwiki.zksc.io/ja/domains/structured-finance/, https://finwiki.zksc.io/ja/structured-finance/credit-rating-methodology-jcr-r-and-i/, https://finwiki.zksc.io/ja/structured-finance/japan-abs-market-overview/, https://finwiki.zksc.io/ja/structured-finance/japan-rmbs-issuance-structure/, https://finwiki.zksc.io/ja/structured-finance/japan-trust-beneficial-interest-vs-spv/, https://finwiki.zksc.io/ja/structured-finance/jhf-mbs-vs-private-rmbs-spread/, https://finwiki.zksc.io/ja/structured-finance/spv-tk-gk-vehicle-japan-tax/
 
 ### JHF MBS vs private RMBS spread
@@ -18780,9 +18789,9 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/structured-finance/jhf-mbs-vs-private-rmbs-spread.md
 - Domain: structured-finance
 - Type: wiki_entry
-- Summary: JHF MBS senior tranches trade tight vs JGB — typically in the 10-30bp range — reflecting effective sovereign-linked credit and predictable monthly supply. Private RMBS senior tranches trade meaningfully wider — typically 50-100bp vs JGB — reflecting the absence of government support and reliance on
-- Headings: JHF MBS vs private RMBS spread, TL;DR, Wiki route, 1. Spread benchmarks, 2. Drivers of the spread gap, 3. Government-support spread component, 4. Prepayment behavior difference, 5. Institutional investor preference
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/financial-regulators/boj-monetary-policy/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/megabanks/smfg/, https://finwiki.zksc.io/ja/domains/money-market/, https://finwiki.zksc.io/ja/domains/policy-finance/, https://finwiki.zksc.io/ja/policy-finance/japan-housing-finance-agency/, https://finwiki.zksc.io/ja/domains/structured-finance/, https://finwiki.zksc.io/ja/structured-finance/credit-rating-methodology-jcr-r-and-i/, https://finwiki.zksc.io/ja/structured-finance/japan-abs-market-overview/, https://finwiki.zksc.io/ja/structured-finance/japan-rmbs-issuance-structure/
+- Summary: There is no timeless 10–30bp JHF MBS band or 50–100bp private-RMBS band. JHF publishes dated launch spreads for each series; its April 17, 2026 issuance history reports 51–55bp for series 221–227. Private RMBS pricing must be taken from a named transaction and date because public and private placeme
+- Headings: JHF MBS vs private RMBS spread, TL;DR, Wiki route, 1. Spread benchmarks, 2. Drivers of the spread gap, 3. Credit and structure are not a fixed spread decomposition, 4. Prepayment behavior difference, 5. Institutional investor preference
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/financial-regulators/boj-monetary-policy/, https://finwiki.zksc.io/ja/domains/money-market/, https://finwiki.zksc.io/ja/domains/policy-finance/, https://finwiki.zksc.io/ja/policy-finance/japan-housing-finance-agency/, https://finwiki.zksc.io/ja/domains/structured-finance/, https://finwiki.zksc.io/ja/structured-finance/credit-rating-methodology-jcr-r-and-i/, https://finwiki.zksc.io/ja/structured-finance/japan-abs-market-overview/, https://finwiki.zksc.io/ja/structured-finance/japan-rmbs-issuance-structure/, https://finwiki.zksc.io/ja/structured-finance/jhf-mbs-mechanics/
 
 ### NPL securitisation in Japan — post-1997 cycle, RCC, and distressed-debt buyers
 - URL: https://finwiki.zksc.io/ja/structured-finance/npl-securitization-japan/
@@ -18810,7 +18819,7 @@ Public pages listed: 1603
 - Headings: Project finance SPV for renewables in Japan — solar, wind, geothermal, TL;DR, Wiki route, 1. The FIT era (2012–2022) — context, 2. Typical FIT-era utility-scale solar SPV structure, 3. Wind onshore — structure, 4. Offshore wind — the new centre of gravity, 5. Geothermal — small but strategically supported
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/financial-conglomerates/mitsubishi-corp/, https://finwiki.zksc.io/ja/financial-conglomerates/mitsui-co/, https://finwiki.zksc.io/ja/financial-conglomerates/sumitomo-corp/, https://finwiki.zksc.io/ja/financial-regulators/boj/, https://finwiki.zksc.io/ja/financial-regulators/dbj/, https://finwiki.zksc.io/ja/financial-regulators/japan-exchange-group/, https://finwiki.zksc.io/ja/financial-regulators/jbic/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/megabanks/smfg/, https://finwiki.zksc.io/ja/domains/policy-finance/
 
-### Repackaging note in Japan (リパッケージ債) — SPV-wrapped bond / loan repackaging
+### Repackaging note in Japan — named-transaction evidence guide
 - URL: https://finwiki.zksc.io/ja/structured-finance/repackaging-note-japan/
 - Japanese HTML: https://finwiki.zksc.io/ja/structured-finance/repackaging-note-japan/
 - English alternate: https://finwiki.zksc.io/en/structured-finance/repackaging-note-japan/
@@ -18819,9 +18828,9 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/structured-finance/repackaging-note-japan.md
 - Domain: structured-finance
 - Type: wiki_entry
-- Summary: A repackaging note (リパッケージ債, "repack") is a structured-credit product in which an SPV purchases an underlying debt asset (a bond, a loan, a basket of bonds), enters into derivative overlays (currency swap, interest-rate swap, sometimes credit-default swap), and reissues new notes to investors with a
-- Headings: Repackaging note in Japan (リパッケージ債) — SPV-wrapped bond / loan repackaging, TL;DR, Wiki route, 1. The repack — basic mechanics, 2. Institutional vs retail repacks, 3. Use cases — what gets repackaged, 4. Dealer franchise — megabank securities vs foreign IB, 5. SPV / legal structure
-- First resolved wikilinks: https://finwiki.zksc.io/ja/derivatives/japan-cds-market-overview/, https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/financial-regulators/boj/, https://finwiki.zksc.io/ja/financial-regulators/japan-exchange-group/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/megabanks/smfg/, https://finwiki.zksc.io/ja/domains/real-estate-finance/, https://finwiki.zksc.io/ja/regional-banks/japan-post-bank/, https://finwiki.zksc.io/ja/securities-firms/mizuho-securities/, https://finwiki.zksc.io/ja/securities-firms/mufg-securities/, https://finwiki.zksc.io/ja/securities-firms/smbc-nikko/
+- Summary: The prior page generalized ticket sizes, offshore vehicles, dealer dominance, rating patterns and investor use cases without named public notes. Those claims are removed. A repackaging note must be analyzed as one integrated transaction: underlying asset, issuer, note terms, derivatives, collateral,
+- Headings: Repackaging note in Japan — named-transaction evidence guide, TL;DR, Wiki route, 1. Transaction identity, 2. Transformation claims, 3. FIEA and offer boundary, 4. Rating and pricing, 5. Deferred claims
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/derivatives/, https://finwiki.zksc.io/ja/domains/structured-finance/, https://finwiki.zksc.io/ja/structured-finance/credit-rating-methodology-jcr-r-and-i/, https://finwiki.zksc.io/ja/structured-finance/japan-securitization-product-matrix/
 
 ### Ship financing in Japan — megabank ship-finance desks and shōsha lease subsidiaries
 - URL: https://finwiki.zksc.io/ja/structured-finance/ship-financing-japan-megabank/
@@ -18845,9 +18854,9 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/structured-finance/spv-tk-gk-vehicle-japan-tax.md
 - Domain: structured-finance
 - Type: wiki_entry
-- Summary: Japan securitization deals use one of four main SPV structures: TK (匿名組合, silent partnership), GK (合同会社, LLC), TMK (特定目的会社, specified-purpose company under the asset-securitization law), or generic SPC. The most common private-placement structure is "TK-GK" — a GK acts as the asset-holding entity an
-- Headings: SPV TK / GK / TMK / SPC vehicle choice (Japan tax), TL;DR, Wiki route, 1. Vehicle types — overview, 2. TK-GK scheme — the workhorse, 3. TMK — asset-securitization-law specified-purpose company, 4. Tax pass-through mechanics, 5. Off-balance-sheet criteria
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/domains/real-estate-finance/, https://finwiki.zksc.io/ja/domains/structured-finance/, https://finwiki.zksc.io/ja/structured-finance/auto-loan-abs-japan-toyota-honda/, https://finwiki.zksc.io/ja/structured-finance/consumer-loan-abs-japan-card-issuer/, https://finwiki.zksc.io/ja/structured-finance/credit-rating-methodology-jcr-r-and-i/, https://finwiki.zksc.io/ja/structured-finance/japan-abs-market-overview/, https://finwiki.zksc.io/ja/structured-finance/japan-cmbs-issuance-structure/, https://finwiki.zksc.io/ja/structured-finance/japan-rmbs-issuance-structure/, https://finwiki.zksc.io/ja/structured-finance/japan-trust-beneficial-interest-vs-spv/, https://finwiki.zksc.io/ja/structured-finance/jhf-mbs-mechanics/
+- Summary: A TK is a Commercial Code contract, a GK is a Companies Act corporation, and a TMK is a specified-purpose company under the Asset Securitization Act. “SPC” is only a generic label. None of these names automatically proves tax pass-through, deductibility, bankruptcy remoteness, accounting derecogniti
+- Headings: SPV TK / GK / TMK / SPC vehicle choice (Japan tax), TL;DR, Wiki route, 1. Legal forms, 2. GK plus TK evidence, 3. TMK evidence, 4. Tax review, 5. Transfer, insolvency and accounting
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/domains/structured-finance/, https://finwiki.zksc.io/ja/structured-finance/japan-securitization-product-matrix/, https://finwiki.zksc.io/ja/structured-finance/japan-trust-beneficial-interest-vs-spv/, https://finwiki.zksc.io/ja/structured-finance/jhf-mbs-mechanics/, https://finwiki.zksc.io/ja/structured-finance/tmk-special-purpose-company-mechanics/
 
 ### Synthetic securitisation in Japan — bank RWA relief via CLN / CDS on reference loan portfolios
 - URL: https://finwiki.zksc.io/ja/structured-finance/synthetic-securitization-japan-bank-rwa-relief/
@@ -18871,9 +18880,9 @@ Public pages listed: 1603
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/structured-finance/tmk-special-purpose-company-mechanics.md
 - Domain: structured-finance
 - Type: wiki_entry
-- Summary: For FinWiki, TMK is the regulated-statutory-SPV node in the Japan securitization landscape. The choice between TMK and GK-TK is the foundational securitization-vehicle-choice decision for arrangers — TMK for public-bond issuance, regulatory-disclosure deals, listed CMBS, complex structures; GK-TK fo
-- Headings: TMK (特定目的会社) special-purpose-company mechanics, TL;DR, Wiki route, 1. Legal basis — Act on Securitization of Assets, 2. Issuance instruments, 3. Tax treatment — the distinctive feature, 4. Comparison with GK-TK, 5. TMK in current J-REIT structure
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/financial-regulators/jcr/, https://finwiki.zksc.io/ja/financial-regulators/rating-and-investment/, https://finwiki.zksc.io/ja/domains/real-estate-finance/, https://finwiki.zksc.io/ja/real-estate-finance/gk-tk-bond-real-estate-spv/, https://finwiki.zksc.io/ja/real-estate-finance/j-reit-market-overview/, https://finwiki.zksc.io/ja/real-estate-finance/japan-cmbs-rmbs-securitization/, https://finwiki.zksc.io/ja/domains/structured-finance/, https://finwiki.zksc.io/ja/structured-finance/credit-rating-methodology-jcr-r-and-i/, https://finwiki.zksc.io/ja/structured-finance/japan-abs-market-overview/, https://finwiki.zksc.io/ja/structured-finance/japan-cmbs-issuance-structure/, https://finwiki.zksc.io/ja/structured-finance/japan-covered-bond-mufg-smbc/
+- Summary: A TMK is a specified-purpose company under Japan's Asset Securitization Act. It follows the Act's notification and asset-liquidation-plan requirements and may use the instruments authorized by the statute and plan. TMK status alone does not establish public offering, exchange listing, tax pass-throu
+- Headings: TMK (特定目的会社) special-purpose-company mechanics, TL;DR, Wiki route, 1. Statutory identity, 2. Instruments, 3. Conditional tax treatment, 4. Comparison with GK plus TK, 5. TMK and investment corporations
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/real-estate-finance/j-reit-market-overview/, https://finwiki.zksc.io/ja/domains/structured-finance/, https://finwiki.zksc.io/ja/structured-finance/japan-cmbs-issuance-structure/, https://finwiki.zksc.io/ja/structured-finance/japan-securitization-product-matrix/, https://finwiki.zksc.io/ja/structured-finance/japan-trust-beneficial-interest-vs-spv/, https://finwiki.zksc.io/ja/structured-finance/spv-tk-gk-vehicle-japan-tax/
 
 ### systems — Protocol / Infrastructure / Technical Systems Index
 - URL: https://finwiki.zksc.io/ja/domains/systems/

@@ -1,122 +1,109 @@
 ---
-title: "Japan ABS market overview"
+title: "Japan ABS market overview — reproducible evidence guide"
 aliases:
-  - "Japan asset-backed securities"
-  - "日本ABS市場"
+  - "Japan ABS market"
   - "Japan securitization market"
-  - "JP ABS market shape"
-  - "Japan structured-finance issuance"
-  - "Japan ABS originator landscape"
+  - "structured-finance/japan-abs-market-overview"
 domain: structured-finance
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
 confidence: likely
-tags: [structured-finance, abs, securitization, japan, market-overview]
+tags: [structured-finance, abs, securitization, japan, market]
 status: active
 sources:
-  - "https://www.jhf.go.jp/about/index.html"
-  - "https://www.jcr.co.jp/en/"
-  - "https://www.r-i.co.jp/en/"
-  - "https://www.jsda.or.jp/en/"
+  - "https://www.jsda.or.jp/en/statistics/securitization-market/"
+  - "https://www.jhf.go.jp/english/mbs_faq.html"
+  - "https://www.jhf.go.jp/files/topics/5014_ext_99_1.pdf"
+  - "https://www.jcr.co.jp/en/rrinfo/meth_sf/"
+  - "https://jcr.co.jp/en/ratinglist/sf_sf/"
 ---
 
-# Japan ABS market overview
+# Japan ABS market overview — reproducible evidence guide
 
 ## TL;DR
 
-Japan's asset-backed securities market is split into three rough layers: the very large JHF MBS layer (Japan Housing Finance Agency, government-supported senior class), the private RMBS layer (jumbo mortgage pools originated by megabanks and trust banks), and the consumer / auto / CMBS / project layer issued through TK-GK SPVs or specified-purpose companies. Post-2008 issuance dropped sharply on the CMBS side; the JHF MBS engine kept running and now dominates yen-denominated structured paper. Use this page as the routing surface for [[structured-finance/INDEX]] and to connect originator company pages in [[structured-finance/INDEX]] to the structure mechanics in this domain.
+This page no longer ranks Japanese securitization products, issuers, vehicles, ratings, dealers, investors or annual volumes without a defined dataset. JHF MBS has a dedicated public series; other products must be measured from JSDA's stated categories and named transaction records. Public offers, private placements, holdings and cross-border transactions must not be combined into one market-size hierarchy.
 
 ## Wiki route
 
-| You want | Go to |
+Use [[structured-finance/japan-securitization-product-matrix]] for product evidence boundaries and [[structured-finance/jhf-mbs-mechanics]] for JHF mechanics.
+
+## 1. Product measurement
+
+[JSDA's securitization-market survey](https://www.jsda.or.jp/en/statistics/securitization-market/) and [JHF's dated issuance history](https://www.jhf.go.jp/files/topics/5014_ext_99_1.pdf) support the following measurement table.
+
+| Measure | Public source | Rule |
+|---|---|---|
+| JHF MBS issuance | JHF series history | State product, series and period |
+| Securitization issuance | JSDA survey | Preserve category, period and revisions |
+| Named ABS / RMBS / CMBS | Issuer, offering or rating record | State public/private disclosure boundary |
+| Bank structured-credit exposure | Named bank disclosure | Report as holdings, not issuance |
+| Cross-border deal | Foreign issuer / offering record | Do not classify as Japanese domestic issuance solely because a Japanese investor participates |
+
+## 2. Transaction roles
+
+[JCR's public rating list](https://jcr.co.jp/en/ratinglist/sf_sf/) can identify named rated transactions; the following table states the evidence needed for each role.
+
+| Role | Required evidence |
 |---|---|
-| The JHF MBS engine | [[structured-finance/jhf-mbs-mechanics]] |
-| Private RMBS structure | [[structured-finance/japan-rmbs-issuance-structure]] |
-| CMBS structure | [[structured-finance/japan-cmbs-issuance-structure]] |
-| Auto-loan ABS | [[structured-finance/auto-loan-abs-japan-toyota-honda]] |
-| Consumer / card ABS | [[structured-finance/consumer-loan-abs-japan-card-issuer]] |
-| SPV vehicle choice | [[structured-finance/spv-tk-gk-vehicle-japan-tax]] |
-| JHF vs private spread | [[structured-finance/jhf-mbs-vs-private-rmbs-spread]] |
+| Issuer / originator | Offering, trust or rating document |
+| Arranger / dealer | Named transaction announcement or offering document |
+| Trustee / account bank | Trust and transaction documents |
+| Servicer / backup servicer | Servicing agreement or rating report |
+| Rating agency | Dated class-specific action |
+| Investor / allocation | Public allocation disclosure, if available |
 
-## 1. Market layer map
+No dealer or agency market-share conclusion is retained.
 
-| Layer | Typical issuer | Vehicle | Approx volume tilt |
-|---|---|---|---|
-| JHF MBS | [[policy-finance/japan-housing-finance-agency]] | JHF Trust | Largest yen structured layer |
-| Private RMBS | Megabanks ([[megabanks/mufg]], [[megabanks/smfg]], [[megabanks/mizuho-fg]]), trust banks | Trust beneficial interest | Mid-size, occasional public deals |
-| CMBS | Real-estate sponsors, megabanks | TMK or TK-GK | Small post-2008, growing in 2020s |
-| Auto-loan ABS | [[card-issuers/toyota-finance]], [[leasing-firms/toyota-financial]], Honda Finance, Nissan Credit | TK-GK | Repeat issuers, granular pools |
-| Consumer / card ABS | [[card-issuers/orico]], [[card-issuers/jaccs]], [[card-issuers/aplus]], [[card-issuers/mufg-nicos]] | TK-GK or trust | Revolving structures common |
-| Lease ABS | [[leasing-firms/mitsubishi-hc-capital]], other leasing companies | Trust | Residual-value risk in lease pools |
-| Project / infra | Sponsor SPC | TMK or TK-GK | Niche, deal-by-deal |
+## 3. Historical analysis
 
-## 2. Originator landscape
+[JSDA's survey](https://www.jsda.or.jp/en/statistics/securitization-market/) supports the following reproducibility checklist.
 
-- **Banks**: the megabanks ([[megabanks/mufg]], [[megabanks/smfg]], [[megabanks/mizuho-fg]]) and major trust banks originate jumbo mortgage and corporate-loan collateral. See [[banking/INDEX]] for the originator side.
-- **Auto-finance companies**: Toyota Finance, Toyota Financial Services, Honda Finance, Nissan Credit, SMBC Auto, MUFG Capital Auto Loan issue auto-loan ABS as a balance-sheet management tool.
-- **Consumer / card issuers**: Aplus, Orico, JACCS, MUFG NICOS, [[card-issuers/jcb]], [[card-issuers/credit-saison]] use card-receivable ABS as a funding tool alongside bank-line funding.
-- **Public sector**: JHF is the dominant public-credit issuer; see [[policy-finance/japan-housing-finance-agency]] and [[structured-finance/jhf-mbs-mechanics]].
-- **Trust banks as trustees**: [[trust-banks/sumitomo-mitsui-trust]] and other trust banks act as trustees for trust beneficial interest structures; the trust-bank role is structural, not originator.
-
-## 3. Dealer / arranger landscape
-
-| Role | Typical houses |
+| Field | Required treatment |
 |---|---|
-| Lead arranger | [[securities-firms/mizuho-securities]], [[securities-firms/mufg-mums]], Nomura, Daiwa SG ([[securities-firms/daiwa-sg]]), SMBC Nikko |
-| Trustee | [[trust-banks/sumitomo-mitsui-trust]], Mitsubishi UFJ Trust, Mizuho Trust |
-| Rating agency | JCR, R&I (see [[structured-finance/credit-rating-methodology-jcr-r-and-i]]); S&P, Moody's, Fitch for cross-border |
-| Servicer | Originator or affiliated servicer; sometimes specialized special servicer |
+| Period | Exact start / end dates and survey version |
+| Category | Source definition and inclusions |
+| Amount / count | Cited table and revision status |
+| Public / private boundary | State known omissions |
+| Trend | Show calculation separately from source fact |
+| Default / loss | Use named trustee, servicer or rating actions |
 
-## 4. Total market size signals
+## 4. Rating, structure and pricing
 
-- The JHF MBS program runs monthly issuance, making it by far the largest single structured-paper engine in yen.
-- Private RMBS issuance is intermittent — megabanks typically issue jumbo deals on a programmatic basis but not monthly.
-- CMBS issuance volume dropped sharply after 2008 and has only partially recovered; see [[structured-finance/japan-cmbs-issuance-structure]].
-- Auto-loan ABS and card-receivable ABS volume is meaningful but small relative to the JHF MBS engine.
+[JCR's methodology library](https://www.jcr.co.jp/en/rrinfo/meth_sf/) is an analytical source, not proof of a particular market convention.
 
-## 5. Rating-agency criteria
-
-- JCR and R&I are the dominant Japan-domestic rating agencies for structured deals.
-- Their structured-finance methodology covers ABS, RMBS, CMBS, and securitization SPCs.
-- Both are NRSRO-equivalent under FSA designation. See [[structured-finance/credit-rating-methodology-jcr-r-and-i]].
-- For cross-border deals, S&P, Moody's, and Fitch typically rate alongside JCR or R&I.
-
-## 6. Post-2008 evolution
-
-| Period | Pattern |
+| Claim | Required evidence |
 |---|---|
-| 2003-2007 | CMBS and RMBS volume building; aggressive structuring; conduit deals common. |
-| 2008-2010 | CMBS market essentially shut; defaults on 2007-vintage deals; rating downgrades. |
-| 2010-2015 | JHF MBS engine continues; private market subdued; conservative structures only. |
-| 2015-2020 | Selective revival; jumbo private RMBS by megabanks; auto / consumer ABS steady. |
-| 2020s | CMBS revival on logistics-warehouse and office single-borrower deals; consumer-finance ABS active. |
+| Vehicle | Named legal documents |
+| Tranches / enhancement | Named waterfall and closing balances |
+| Rating | Named class, date and criteria version |
+| Spread | Dated pricing result and benchmark |
+| Investor base | Public allocation / holdings disclosure |
+| Market rank | Defined population, period and calculation |
 
-## 7. Why it matters
+## 5. Deferred claims
 
-- Japan's structured-finance market is bifurcated: a very large public-credit engine (JHF MBS) and a smaller, more conservative private layer.
-- The JHF MBS layer drives most of the yen structured-paper supply and pricing; private deals price relative to it.
-- The post-2008 reset left Japan with one of the most conservative structuring conventions in developed markets — see [[structured-finance/japan-cmbs-issuance-structure]] for the CMBS-specific story.
-- Investor base is dominated by life insurers ([[life-insurers/daido-life]], [[life-insurers/asahi-life]], etc.), regional banks, and asset managers seeking JGB-plus yield.
+“Largest,” “dominant,” “typical vehicle,” standard AAA outcome, annual volume bands, investor clusters and post-2008 / 2020 revival narratives remain deferred unless reproduced from a defined public dataset or named transaction set.
+
+## Wiki route
+
+Read this entry within [[structured-finance/INDEX|structured finance]] and use [[finance/INDEX|finance]] for cross-domain capital-markets context.
 
 ## Related
 
 - [[structured-finance/INDEX]]
+- [[structured-finance/japan-securitization-product-matrix]]
 - [[structured-finance/jhf-mbs-mechanics]]
 - [[structured-finance/japan-rmbs-issuance-structure]]
 - [[structured-finance/japan-cmbs-issuance-structure]]
-- [[structured-finance/spv-tk-gk-vehicle-japan-tax]]
 - [[structured-finance/credit-rating-methodology-jcr-r-and-i]]
-- [[policy-finance/japan-housing-finance-agency]]
-- [[real-estate-finance/INDEX]]
-- [[banking/INDEX]]
 
 ## Sources
 
-- Japan Housing Finance Agency, public IR.
-- JCR (Japan Credit Rating Agency), structured-finance criteria pages.
-- R&I (Rating and Investment Information), structured-finance methodology.
-- JSDA (Japan Securities Dealers Association).
-- ASF Japan (Asset Securitization Forum Japan).
-- Megabank IR (MUFG, SMFG, Mizuho FG).
+- [JSDA, securitization market](https://www.jsda.or.jp/en/statistics/securitization-market/).
+- [JHF, FAQs about MBS](https://www.jhf.go.jp/english/mbs_faq.html).
+- [JHF, dated MBS issuance history](https://www.jhf.go.jp/files/topics/5014_ext_99_1.pdf).
+- [JCR, structured-finance methodology library](https://www.jcr.co.jp/en/rrinfo/meth_sf/).
+- [JCR, structured-finance rating list](https://jcr.co.jp/en/ratinglist/sf_sf/).
