@@ -1,11 +1,11 @@
 ---
 source: trust-banks/daiwa-living-trust
-source_hash: f99a6b25362ba025
+source_hash: 17beb2e030c1c596
 lang: en
 status: machine
 fidelity: ok
 title: "Daiwa Living Trust"
-translated_at: 2026-05-31T15:29:03.873Z
+translated_at: 2026-07-28T23:40:43.980Z
 ---
 
 # Daiwa Living Trust
@@ -22,7 +22,7 @@ Daiwa Living Trust's public site describes the company as supporting asset and f
 
 The page matters because it is a housing / rental-property trust route rather than a capital-markets or private-bank trust route. It is useful for landlord, rental housing, and family succession analysis.
 
-## Entity Boundary
+## Entity Boundary ^[金融庁の現行登録と会社公式サイト: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://www.daiwaliving-trust.co.jp/]
 
 | Item | Reading |
 |---|---|

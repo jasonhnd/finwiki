@@ -1,11 +1,11 @@
 ---
 source: trading-company-finance/mitsubishi-corp-finance
-source_hash: 3dd448e3abdc4205
+source_hash: 0ccb66de224d0cc7
 lang: en
 status: machine
 fidelity: ok
 title: "Mitsubishi Corporation Financial Services"
-translated_at: 2026-06-19T12:43:19.919Z
+translated_at: 2026-07-28T23:40:43.925Z
 ---
 
 # Mitsubishi Corporation Financial Services
@@ -14,14 +14,14 @@ translated_at: 2026-06-19T12:43:19.919Z
 
 This entry sits under [[trading-company-finance/INDEX|trading-company-finance INDEX]]. Read it against [[asset-managers/mitsubishi-corp-asset-management|三菱商事アセットマネジメント]] for the asset-management adjacent within the same parent, and [[trading-company-finance/mitsui-bussan-financial-services|三井物産フィナンシャルサービス]] for the closest peer trading-company group-treasury arm. For the leasing peer set already covered in this wiki — [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] (the Mitsubishi-side listed leasing platform), [[leasing-firms/smfl|SMFL]] (Sumitomo Corp + SMFG), [[leasing-firms/tokyo-century|東京センチュリー]] (Itochu group), [[cooperative-banks/ja-mitsui-leasing|JA三井リース]] (Mitsui & Co + JA) — see [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
-## 1. Company overview
+## 1. Company overview ^[三菱商事フィナンシャルサービス「会社概要」: https://www.mcfj.co.jp/corp/about.html]
 
 | Item | Notes |
 |---|---|
 | Legal name | Mitsubishi Corporation Financial Services Co., Ltd. ^[extracted] |
 | Wiki role | **Inward-facing finance of the Mitsubishi Corporation group**: CMS / group factoring / group finance / FX-risk-hedge brokerage |
 
-### Three-layer structure of the Mitsubishi group financial function
+### Three-layer structure of the Mitsubishi group financial function ^[三菱商事フィナンシャルサービス「事業紹介」: https://www.mcfj.co.jp/bussiness/; 三菱商事 IR: https://www.mitsubishicorp.com/jp/ja/ir/]
 
 | Layer | Entity | Role |
 |---|---|---|
@@ -31,7 +31,7 @@ This entry sits under [[trading-company-finance/INDEX|trading-company-finance IN
 
 This three-layer structure is the template for trading-company-affiliated finance; a similar structure also exists at Mitsui & Co ([[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]]), Sumitomo Corp ([[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]]), and Marubeni ([[trading-company-finance/marubeni-financial-services|丸紅FS]]).
 
-## 2. Business-segment map
+## 2. Business-segment map ^[三菱商事フィナンシャルサービス「事業紹介」: https://www.mcfj.co.jp/bussiness/]
 
 | Segment | Content |
 |---|---|
@@ -51,7 +51,7 @@ This three-layer structure is the template for trading-company-affiliated financ
 
 By turning this function into an independent subsidiary, the group secures specialization + governance + accounting separation + (partial) regulatory compliance for intra-group financial services.
 
-### Competitors / Peers
+### Competitors / Peers ^[各親会社の有価証券報告書・公式 IR を横断した比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]
 
 | Trading company | Inward-facing finance subsidiary | Outward-facing leasing affiliate |
 |---|---|---|

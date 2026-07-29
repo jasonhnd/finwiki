@@ -27,9 +27,9 @@
     "domain": "financial-conglomerates",
     "type": null,
     "created": "2026-05-24",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-20",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -50,11 +50,13 @@
     "sources": [
       "双日 (2768) 公式 IR — https://www.sojitz.com/jp/ir/",
       "双日 統合報告書 — https://www.sojitz.com/jp/ir/library/integrated/",
+      "双日 2026年3月期有価証券報告書 — https://s3-ap-northeast-1.amazonaws.com/sojitz-doc/pdf/jp/ir_202405/reports/vsecurity/20260609.pdf",
+      "双日 Sojitz Global Finance Plc 会社ページ — https://www.sojitz.com/jp/corporate/group/company_17011.html",
       "EDINET 有価証券報告書 — https://disclosure.edinet-fsa.go.jp/ (検索: 双日)",
       "JPX 銘柄情報 2768 — https://www2.jpx.co.jp/"
     ]
   },
-  "summary": "This entry sits under financial-conglomerates INDEX as a sōgō shōsha parent holding-company — 5 大商社の次のレイヤーである 7 大商社の中堅商社 に位置付けられる。Read it against 丸紅 (5 大商社の中下位、双日との近接ポジション) and 豊田通商 (中堅・5 大下位の他のもう一極) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG",
+  "summary": "This entry sits under financial-conglomerates INDEX as a sōgō shōsha parent holding-company — 5 大商社の次のレイヤーである 7 大商社の中堅商社 に位置付けられる。Read it against 丸紅 and 豊田通商 for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see Sojitz Global Finance Plc。双日公",
   "headings": [
     "双日 (Sojitz Corporation)",
     "Wiki route",
@@ -119,9 +121,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5415,
-    "word_like_tokens": 841,
+    "nonspace_chars": 6119,
+    "word_like_tokens": 957,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-07-29"
   }
 }

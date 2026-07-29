@@ -1,12 +1,12 @@
 ---
 source: trust-banks/pasona-ip-trust
-source_hash: 06f14babc971c28a
+source_hash: 2c7e6c239a435d03
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "パソナ知財信託"
-translated_at: 2026-06-26T08:32:30.862Z
+translated_at: 2026-07-28T23:40:04.564Z
 ---
 
 # パソナ知財信託
@@ -21,7 +21,7 @@ translated_at: 2026-06-26T08:32:30.862Z
 
 このページが重要なのは、FinWikiの信託会社カバレッジを、金銭、証券、不動産、デジタル証券の外側へ広げるためである。IP信託は、無形資産管理と将来的なIPファイナンス分析のための独立したルートである。
 
-## 事業体の境界
+## 事業体の境界 ^[金融庁の現行登録とパソナ知財信託会社情報: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://pasona-ipt.co.jp/company/]
 
 | 項目 | 読み方 |
 |---|---|

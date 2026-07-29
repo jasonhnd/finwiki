@@ -1,11 +1,11 @@
 ---
 source: trust-banks/yamada-escrow-trust
-source_hash: ba3bb8d9e786d672
+source_hash: 4076073b9b11c598
 lang: en
 status: machine
 fidelity: ok
 title: "Yamada Escrow Trust"
-translated_at: 2026-06-01T02:31:57.157Z
+translated_at: 2026-07-28T23:40:44.255Z
 ---
 
 # Yamada Escrow Trust
@@ -22,7 +22,7 @@ Yamada Escrow Trust's public site describes it as a management trust company han
 
 The page matters because escrow trust is a concrete transaction-control mechanism. It is useful for FinWiki when an asset transfer or payment flow needs segregation, retention, or bankruptcy-remoteness.
 
-## Entity Boundary
+## Entity Boundary ^[金融庁の現行登録と山田エスクロー信託公式サイト: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://www.y-escrow-trust.co.jp/]
 
 | Item | Reading |
 |---|---|

@@ -1,12 +1,12 @@
 ---
 source: trust-banks/mitsubishi-ufj-trust-bank
-source_hash: 9b6ab834d1ed258f
+source_hash: 76dc3d3b3dcb019b
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "三菱UFJ信託銀行 (MUTB)"
-translated_at: 2026-06-26T08:32:30.859Z
+translated_at: 2026-07-28T23:40:04.478Z
 ---
 
 # 三菱UFJ信託銀行 (MUTB)
@@ -17,7 +17,7 @@ translated_at: 2026-06-26T08:32:30.859Z
 
 ## 要点三菱UFJ信託銀行 (Mitsubishi UFJ Trust and Banking Corporation, MUTB) は [[megabanks/mufg|MUFG]] の中核となる信託銀行の事業会社。**銀行法上の銀行免許に加え兼営法 (金融機関の信託業務の兼営等に関する法律) に基づく信託業務の兼営認可**を持つ「信託兼営金融機関」で、預貸などの銀行業務と、信託財産・年金・不動産・証券代行・受託財産管理を一体で営む。商業銀行の [[megabanks/mufg-bank|三菱UFJ銀行]] とは別の銀行法人であり、銀行免許 + 信託兼営という点でメガバンク本体と区別される。
 
-## 1. 免許 / グループ境界
+## 1. 免許 / グループ境界 ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; 三菱UFJ信託銀行「会社概要」: https://www.tr.mufg.jp/ippan/about/index.html]
 
 | 項目 | 備考 |
 |---|---|

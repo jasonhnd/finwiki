@@ -1,11 +1,11 @@
 ---
 source: asset-managers/nomura-asset-management
-source_hash: e2a05deae6e8a530
+source_hash: 9db0675e19e3de96
 lang: en
 status: machine
 fidelity: ok
 title: "Nomura Asset Management"
-translated_at: 2026-06-15T03:48:21.916Z
+translated_at: 2026-07-28T23:40:43.471Z
 ---
 
 # Nomura Asset Management
@@ -27,6 +27,8 @@ Nomura Asset Management Co., Ltd. is the asset-management company of [[securitie
 | Parent boundary | the asset-management arm of the [[securities-firms/nomura-hd|野村 HD]] group (securities-affiliated) |
 | Supervision | [[financial-regulators/fsa|FSA]] + Investment Trusts Association / Japan Investment Advisers Association |
 | Wiki role | Nomura-group asset-manager anchor |
+
+Sources: ^[FSA 金融商品取引業者登録一覧: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx; 野村アセットマネジメント 会社概要: https://www.nomura-am.co.jp/corporate/gaiyo/gaiyo.html.]
 
 ## 2. Operating model
 

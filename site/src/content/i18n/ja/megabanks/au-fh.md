@@ -1,12 +1,12 @@
 ---
 source: megabanks/au-fh
-source_hash: 4130a03e20ca3b57
+source_hash: 535d40c09fa96a3a
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "au フィナンシャルホールディングス (au-FH)"
-translated_at: 2026-06-26T08:31:59.856Z
+translated_at: 2026-07-28T23:40:04.059Z
 ---
 
 # au フィナンシャルホールディングス (au-FH)
@@ -17,14 +17,14 @@ translated_at: 2026-06-26T08:31:59.856Z
 
 ## 要約
 
-KDDI 100% 子会社、KDDI 金融経済圏の持株会社。**2019-04-01 設立**。傘下に **auじぶん銀行 / au PAY カード / au PAY / au PAY 損害保険 / auアセットマネジメント** 等。2025-01-31 MUFG から auじぶん銀行全株を取得（対価として旧 auカブコム証券 → 三菱 UFJ eスマート証券 を MUFG に売却）→ **銀行 100% 子会社化が完了**。**FY2026/3 営業利益 432 億円**（前期 406 億円、+6.4% / CAGR FY2023+ **30.4%**）、**総資産約 9.3 兆円**。**2026-05-12 KDDI が auFH の東証上場準備開始を公式適時開示** — 通信系 FG 初の IPO 候補化（時期未定、上場後も KDDI は主要株主継続予定）。au Ponta + 2024-07 Lawson 50/50 JV により「通信 × コンビニ × 金融」生態圏を構築。2026-06-18 には、auFH が保有していた [[life-insurers/lifenet|ライフネット生命]] 普通株式 14,726,100 株（発行済株式総数比 18.32% / 議決権比 18.33%）の **全株** が JAL に譲渡完了し、auFH はライフネット生命の major shareholder ではなくなった一方、業務提携は新契約で継続する。^[source:lifenet-jal-transfer-2026][source:au-fh-lifenet-alliance-2026] 通信系 FG 4 極（[[megabanks/ndfg]] / au-FH / [[megabanks/paypay-fg]] / [[payment-firms/rakuten-fg]]）の一角。^[extracted]
+KDDI 100% 子会社で、KDDI の金融サービスを統括する銀行・保険持株会社。**2019-04-01 設立**。現行の主要グループ会社は **auじぶん銀行 / auフィナンシャルサービス / au損保 / auアセットマネジメント / auフィナンシャルパートナー / au少額短期保険 / au Reinsurance**。2025-01-31 に auじぶん銀行を 100% 子会社化する一方、旧 auカブコム証券は MUFG へ移管した。2026-07-01 には auペイメントが旧 auフィナンシャルサービスを吸収合併し、新「auフィナンシャルサービス」として au PAY、au PAY カード、ローン等を一法人へ集約した。KDDI は 2026-05-12 に auFH の東証上場準備開始を公表したが、上場時期・市場・実施は未確定。2026-06-18 には [[life-insurers/lifenet|ライフネット生命]] の保有全株を JAL へ譲渡し、資本関係を解消した一方、業務提携は新契約で継続する。^[auFH current group: https://www.au-financial.com/corporate_vision.html; payment/card merger: https://www.au-financial.com/pdf/fs/news_20260701_01.pdf; Lifenet transfer: https://ir.lifenet-seimei.co.jp/ja/news/index/auto_20260618573585/pdfFile.pdf]
 
 ## 1. 会社概要
 
 **正式名**：au フィナンシャルホールディングス株式会社 ^[extracted]
 **英名**：au Financial Holdings Corporation
 **設立**：**2019-04-01**（KDDI の金融事業統合のため新設）^[extracted]
-**本社**：東京都千代田区飯田橋 ^[extracted]
+**本社**：東京都港区高輪 2-21-1 THE LINKPILLAR 1 NORTH 11階
 **親会社**：**KDDI 株式会社（100%）** ^[extracted]
 **位置付け**：KDDI パーソナルセグメント「金融事業」中核会社 ^[extracted]
 **上場**：非上場（KDDI 完全子会社）→ **2026-05-12 KDDI が東証上場準備開始を公式適時開示**（時期未定、上場後も KDDI は主要株主継続予定）^[extracted]
@@ -40,6 +40,8 @@ KDDI 100% 子会社、KDDI 金融経済圏の持株会社。**2019-04-01 設立*
 | FY2025/3 | **406 億円** | — |
 | FY2026/3 | **432 億円** | **+6.4%**（FY2023 比 CAGR **+30.4%**）|
 
+Sources: ^[KDDI「2026年3月期 決算説明会資料」: https://www.kddi.com/extlib/files/corporate/ir/library/presentation/2026/pdf/kddi_260512_main_T8v6VV.pdf; auFH「株式上場準備の開始」: https://www.au-financial.com/pdf/auFH/news_20260512_02.pdf.]
+
 **主要事業 KPI（直近公開値）**^[extracted]
 
 | 項目 | 値 | 時点 / 出所 |
@@ -48,9 +50,11 @@ KDDI 100% 子会社、KDDI 金融経済圏の持株会社。**2019-04-01 設立*
 | **auじぶん銀行預金残高** | **5 兆円突破** | 2025-08-06 公式 PR |
 | **auじぶん銀行預金口座数** | **700 万突破** | 2025-09-20 公式 PR |
 | auじぶん銀行個人預金 | **YoY +1.3 倍** | FY2026/3 進捗 |
-| au PAY カードゴールド会員 | **172 万会員** | FY2026/3 期内 |
+| au PAY カード ゴールド会員 | **200 万会員突破** | 2026-05-25 公式発表 |
 | Ponta パス純増 | **29 万会員（Q2）** | FY2026/3 2Q |
 | au PAY 加盟店（拠点）| 約 753 万拠点 | 2025-11-28 時点 |
+
+Sources: ^[auFH「株式上場準備の開始」: https://www.au-financial.com/pdf/auFH/news_20260512_02.pdf; auじぶん銀行「預金残高5兆円」: https://www.jibunbank.co.jp/corporate/news/2025/0812_01.html; auじぶん銀行「口座数700万」: https://www.jibunbank.co.jp/corporate/news/2025/0912_01.html; auFH news: https://www.au-financial.com/news/.]
 
 **親会社 KDDI 連結（参考）**^[extracted]
 
@@ -62,6 +66,8 @@ KDDI 100% 子会社、KDDI 金融経済圏の持株会社。**2019-04-01 設立*
 | パーソナルセグメント営業利益 | — | 8,283 億円（▲2.1%）| — |
 | ローソン持分法損益 | +57 億円（FY25/3 1Q）| ▲44 億円（FY26/3 1Q、下期成長織込）| — |
 
+Sources: ^[KDDI「2026年3月期 決算短信」: https://www.kddi.com/extlib/files/corporate/ir/library/presentation/2026/pdf/kddi_2026_4qc_PsXBu3.pdf; KDDI「2026年3月期 決算説明会資料」: https://www.kddi.com/extlib/files/corporate/ir/library/presentation/2026/pdf/kddi_260512_main_T8v6VV.pdf.]
+
 ### 主要子会社・持分（公開情報ベース）
 
 ```
@@ -70,12 +76,13 @@ au フィナンシャルホールディングス（非上場・KDDI 100%・総�
   │     ※ 旧称: じぶん銀行（2008 設立、KDDI 50% + 三菱東京 UFJ 銀行 50% 合弁）
   │       → 2020-05 「auじぶん銀行」改称 → 2025-01-31 KDDI 100% 化
   │       → 2025-08 預金残高 5兆円突破 / 2025-09 口座数 700万突破
-  ├── auペイメント株式会社（100%）── QR / バーコード決済 au PAY 運営
-  ├── au PAY カード株式会社（100%）── 旧 KDDI フィナンシャルサービス
-  │     ※ ゴールド会員 172万（FY26/3）
-  ├── auフィナンシャルサービス株式会社（100%）── 貸金（個人融資）
-  ├── au PAY 損害保険株式会社（100%）── 旧 au 損保（KDDI + あいおいニッセイ同和損保 合弁発祥）
+  ├── auフィナンシャルサービス（100%）── au PAY / au PAYカード / ローン / 決済代行
+  │     ※ 2026-07-01、auペイメントが旧 auフィナンシャルサービスを吸収合併して発足
+  ├── au損害保険（100%）
   ├── auアセットマネジメント株式会社（100%）── 投信運用
+  ├── auフィナンシャルパートナー（100%）── 保険募集・銀行代理・金融商品仲介
+  ├── au少額短期保険（100%）
+  └── au Reinsurance
 
 【au-FH 配下から離脱（2025-01-31）】
    旧 auカブコム証券 → MUFG 100% 化 → 「三菱 UFJ eスマート証券」へ改称
@@ -106,6 +113,8 @@ au フィナンシャルホールディングス（非上場・KDDI 100%・総�
 | 2025-08-06 | **auじぶん銀行預金残高 5 兆円突破**（公式 PR）^[extracted] |
 | 2025-09-20 | **auじぶん銀行預金口座数 700 万突破**（公式 PR）^[extracted] |
 | **2026-05-12** | **KDDI が auFH の東証上場準備開始を公式適時開示**（時期未定、上場後も KDDI は主要株主継続予定）^[extracted] |
+| **2026-06-18** | **ライフネット生命の保有全株を JAL へ譲渡完了**（資本関係解消、業務提携は継続） |
+| **2026-07-01** | **auペイメント + 旧 auフィナンシャルサービスを統合し、新 auフィナンシャルサービス発足** |
 
 ### 沿革トピック
 
@@ -118,15 +127,15 @@ au フィナンシャルホールディングス（非上場・KDDI 100%・総�
 | セグメント | 主要事業者 | 特徴・直近動向 |
 |---|---|---|
 | ネット銀行 | auじぶん銀行 | 旧 MUFG 系 → 2025-01-31 KDDI 100% 化。預金 5 兆円・口座 700 万。住宅ローン依存から預貸率重視戦略へ転換 ^[extracted] |
-| QR / バーコード決済 | au PAY（auペイメント）| 加盟店 753 万拠点。Ponta 連携で 4000 万超ユーザー基盤 ^[extracted] |
-| クレジット | au PAY カード | ゴールド会員 172 万。KDDI 通信料金連携 ^[extracted] |
-| 貸金 | auフィナンシャルサービス | 個人融資・後払い |
-| 損保 | au PAY 損害保険 | 旧 au 損保、あいおいニッセイ同和損保合弁発祥 |
+| 決済・カード・貸金 | auフィナンシャルサービス | au PAY、au PAY カード、au PAY スマートローン等。2026-07-01 に法人統合 |
+| 損保 | au損害保険 | 損害保険業 |
 | 生保 | ライフネット生命（業務提携継続・資本関係解消）| au の生命ほけん / auじぶん銀行団信などの協業は継続。一方、auFH 保有株は 2026-06-18 に JAL へ全株譲渡済みで、auFH は major shareholder ではない。^[source:lifenet-jal-transfer-2026][source:au-fh-lifenet-alliance-2026] |
 | 投信 / 資産運用 | auアセットマネジメント | au PAY 経由の投信販売 |
 | ネット証券 | **空白**（2025-01-31 auカブコム離脱）| 2026-05 時点で再構築・提携の公式発表なし |
 | ポイント | au PAY × Ponta（ロイヤリティマーケティング）| KDDI + 三菱商事連合 |
 | コンビニ連携 | Lawson（KDDI + 三菱商事 50/50）| 2024-07 非公開化・店舗網フィンテック化 |
+
+Sources: ^[auFH「経営方針 / 現行グループ会社」: https://www.au-financial.com/corporate_vision.html; auFH「事業紹介」: https://www.au-financial.com/operations.html; au Financial Services「合併完了」: https://www.au-financial.com/pdf/fs/news_20260701_01.pdf; Lifenet「株式取得完了」: https://ir.lifenet-seimei.co.jp/ja/news/index/auto_20260618573585/pdfFile.pdf.]
 
 ### 戦略コア：通信 × コンビニ × 金融経済圏 + IPO 独立化
 
@@ -142,8 +151,10 @@ au フィナンシャルホールディングス（非上場・KDDI 100%・総�
 |---|---|---|---|---|
 | [[megabanks/ndfg]] | NTT ドコモ | [[regional-banks/ssnb|住信SBI→ドコモSMTBネット銀行]]（連結子会社、2025-10-01〜）| dポイント・dカード | NDFG 自身は非上場、傘下マネックス上場 |
 | **au-FH** | KDDI | auじぶん銀行（100%）| au Ponta・Lawson | **2026-05-12 東証上場準備開始公表** |
-| [[megabanks/paypay-fg]] | SoftBank Group / Z | PayPay 銀行（旧ジャパンネット）| PayPay | LINE ヤフー 経由 |
+| [[megabanks/paypay-fg]] | SoftBank Corp. | PayPay 銀行（旧ジャパンネット）| PayPay | PayPay は Nasdaq 上場、SoftBank 連結継続 |
 | [[payment-firms/rakuten-fg]] | 楽天グループ | 楽天銀行（上場）| 楽天ポイント・楽天市場 | 銀行 / 証券 / カード個別上場 |
+
+Sources: ^[NTTドコモ「NDFG体制移行」: https://www.docomo.ne.jp/info/news_release/2026/03/31_00.html; auFH「上場準備開始」: https://www.au-financial.com/pdf/auFH/news_20260512_02.pdf; SoftBank FY2025 results: https://www.softbank.jp/en/corp/set/data/ir/documents/presentations/fy2025/investors/pdf/sbkk_investors_presentation_20260511_en.pdf.]
 
 ### 提携・M&A
 
@@ -184,8 +195,11 @@ au フィナンシャルホールディングス（非上場・KDDI 100%・総�
 - **au フィナンシャルホールディングス / ライフネット生命『ライフネット生命の主要株主の異動および新たな業務提携契約の締結に関するお知らせ』**（2026-04-30、auFH が保有全株 14,726,100 株 / 18.32% を JAL へ譲渡する決定）https://www.au-financial.com/pdf/auFH/news_20260430_01.pdf
 - **ライフネット生命保険『日本航空株式会社による当社普通株式の取得完了並びに主要株主の異動に関するお知らせ』**（2026-06-18、JAL 取得完了、auFH は異動後所有株式なし）https://ir.lifenet-seimei.co.jp/ja/news/index/auto_20260618573585/pdfFile.pdf
 - **ライフネット生命保険 IR「株主・株式情報（株式の状況）」**（2026-06-25 確認、2026-06-18 に auFH 保有全株が JAL へ譲渡された注記）https://ir.lifenet-seimei.co.jp/ja/ir/stock/overview.html
+- **auFH「会社概要」**（現本社・KDDI 100%・銀行/保険持株会社の業務）https://www.au-financial.com/corporate_overview.html
+- **auFH「経営方針」**（現行グループ会社）https://www.au-financial.com/corporate_vision.html
+- **auフィナンシャルサービス「auペイメントとの合併完了」**（2026-07-01）https://www.au-financial.com/pdf/fs/news_20260701_01.pdf
 
 ---
 
 > [!info] 校核状态
-> 信頼度: **likely**（v1.3 KDDI / auFH 公式 IR FY26/3 + auじぶん銀行 公式 PR + 2026-05-12 IPO 適時開示 + ライフネット生命 2026-06-18 IR、2026-06-25 再検証）。au-FH 単体は依然非上場のため**売上高は分離開示なし・営業利益のみ公表**（FY26/3 432 億円、CAGR +30.4%）。総資産 9.3 兆円、auじぶん銀行 預金 5 兆円・口座 700 万は公式数値。**2026-06-25 訂正**：ライフネット生命への出資は 2026-06-18 に JAL へ全株譲渡済みで、auFH は同社の筆頭株主・持分法 route ではない。**最重要：2026-05-12 東証上場準備の公式発表 — 通信系 FG 初の IPO 候補化** — 時期・市場区分・調達規模は未定で要継続精査。証券事業空白化は事実（2026-05 時点で再構築の公式発表なし）。ステーブルコイン Progmat 連携の評価は `.opinions` へ隔離。
+> confidence: **likely**（2026-07-29）。KDDI / auFH 公式 IR、auFH 現行会社・事業ページ、auじぶん銀行公式 PR、ライフネット生命 IR で再検証。2026-07-01 の auペイメント・旧 auフィナンシャルサービス合併、本社移転、現行グループ会社を反映した。東証上場は準備開始のみで実施未確定。ライフネット生命との資本関係は 2026-06-18 に解消済み。

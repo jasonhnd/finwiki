@@ -1,18 +1,18 @@
 ---
 source: financial-conglomerates/toyota-tsusho-corp
-source_hash: 765b339b900e0672
+source_hash: 670c7c006ae30eff
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "豊田通商 (Toyota Tsusho Corporation)"
-translated_at: 2026-06-26T08:31:59.852Z
+translated_at: 2026-07-28T23:40:03.929Z
 ---
 # 豊田通商 (Toyota Tsusho Corporation)
 
 ## ウィキ上の位置づけ
 
-この項目は、独自の **トヨタグループ系商社 (Toyota group captive trading house)** 性格を持つ **総合商社の親会社** として [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] 配下に置く。Toyota Motor が約 22% 級の主要株主であり、5 大商社とは独立した **第 6 商社 / トヨタ系商社** と位置付ける。競合・比較対象の文脈では [[financial-conglomerates/mitsubishi-corp|三菱商事]] と [[financial-conglomerates/sojitz-corp|双日]] (中堅商社) と照合して読む。この項目に JapanFG 上のアンカーを与える金融サービス隣接領域については、[[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]] (内向け CMS) と **[[leasing-firms/toyota-financial|トヨタファイナンシャルサービス (TFS)]] 系列** (Toyota Motor 100% 子会社系の **オートローン / リース / 保険プラットフォーム**。豊田通商と直接資本関係はないが、Toyota group 経済圏 の中で隣接) を参照する。制度上の枠組みは [[finance/INDEX|finance index]] と [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
+この項目は、独自の **トヨタグループ系商社 (Toyota group captive trading house)** 性格を持つ **総合商社の親会社** として [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] 配下に置く。競合・比較対象の文脈では [[financial-conglomerates/mitsubishi-corp|三菱商事]] と [[financial-conglomerates/sojitz-corp|双日]] と照合して読む。豊田通商の公式有価証券報告書は、国内グループファイナンスを親会社に一元化すると説明しており、「豊田通商フィナンス」という 100% 国内子会社は確認できない。別系列の **[[leasing-firms/toyota-financial|トヨタファイナンシャルサービス (TFS)]]** は Toyota Motor 100% 子会社で、豊田通商の子会社ではない。制度上の枠組みは [[finance/INDEX|finance index]] と [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
 
 ## 1. 会社概要
 
@@ -32,7 +32,7 @@ translated_at: 2026-06-26T08:31:59.852Z
 
 ```
 豊田通商 (8015, 東証 PRIME)
-  ├── [[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]] (100%)                 — 内向け CMS / グループファイナンス
+  ├── [[trading-company-finance/toyota-tsusho-finance|親会社財務機能]]                             — 国内グループファイナンスを豊田通商に一元化
   ├── CFAO (100%, 2012 取得 → 2016 完全子会社化)                                  — アフリカ流通網 (自動車・医薬品・食品)
   ├── Eurus Energy (再エネ大手、TEPCO HD と JV)                                   — 風力 IPP
   └── 多数の Toyota 海外ディーラー網                                              — 自動車流通
@@ -68,8 +68,10 @@ translated_at: 2026-06-26T08:31:59.852Z
 
 | 金融子会社 / 関連 | ウィキ上のアンカー | 持分 | 機能 |
 |---|---|---|---|
-| 豊田通商フィナンス | [[trading-company-finance/toyota-tsusho-finance]] | 100% | 内向け CMS / グループファイナンス / 一括ファクタリング |
-| **トヨタファイナンシャルサービス (TFS) 系列** | **[[leasing-firms/toyota-financial]]** | **Toyota Motor 100% 子会社 (豊田通商とは別系列)** | **オートローン / リース / 保険、Toyota 車両販売に連動する世界最大級の captive finance** |
+| 豊田通商（親会社財務機能） | [[trading-company-finance/toyota-tsusho-finance]] | — | 国内グループファイナンスを親会社に一元化。海外は地域現地法人等で集中調達・資金供給 |
+| **トヨタファイナンシャルサービス (TFS)** | **[[leasing-firms/toyota-financial]]** | **Toyota Motor 100% 子会社（豊田通商とは別系列）** | **Toyota の販売金融統括会社** |
+
+Sources: ^[豊田通商「第105期有価証券報告書」（財務戦略・親会社への国内グループファイナンス一元化）: https://www.toyota-tsusho.com/ir/library/securities-report/upload_files/105th_yuho_ALL.pdf; トヨタ自動車「金融統括会社の設立等について」（TFS 100%出資）: https://global.toyota/jp/detail/12459084.]
 
 加えて、**トヨタグループの金融サービス・エコシステム**を構成する。
 
@@ -102,7 +104,7 @@ translated_at: 2026-06-26T08:31:59.852Z
 
 - [[financial-conglomerates/INDEX|financial-conglomerates INDEX]]
 - [[financial-conglomerates/mitsubishi-corp|三菱商事]] · [[financial-conglomerates/mitsui-co|三井物産]] · [[financial-conglomerates/itochu-corp|伊藤忠商事]] · [[financial-conglomerates/sumitomo-corp|住友商事]] · [[financial-conglomerates/marubeni-corp|丸紅]] · [[financial-conglomerates/sojitz-corp|双日]] (比較対象の商社)
-- [[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]] (内向け group treasury)
+- [[trading-company-finance/toyota-tsusho-finance|豊田通商の親会社財務機能]] (国内グループファイナンス)
 - [[leasing-firms/toyota-financial|TFS / トヨタファイナンシャルサービス]] (Toyota Motor 直系 captive finance)
 - [[megabanks/mufg|MUFG]] · [[regional-banks/aichi-fg|あいち FG]] (中京経済圏金融との取引)
 - [[finance/INDEX|finance index]] · [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]
@@ -111,10 +113,12 @@ translated_at: 2026-06-26T08:31:59.852Z
 
 - 豊田通商 (8015) 公式 IR — https://www.toyota-tsusho.com/ir/
 - 豊田通商 統合報告書 — https://www.toyota-tsusho.com/ir/library/annual_report/
+- 豊田通商 第105期有価証券報告書 — https://www.toyota-tsusho.com/ir/library/securities-report/upload_files/105th_yuho_ALL.pdf
+- トヨタ自動車 TFS設立リリース — https://global.toyota/jp/detail/12459084
 - EDINET 有価証券報告書 — https://disclosure.edinet-fsa.go.jp/ (検索: 豊田通商 / 8015)
 - JPX 銘柄情報 8015 — https://www2.jpx.co.jp/
 
 ---
 
 > [!info] 検証状況
-> confidence: **likely**。豊田通商は公開情報で十分に把握可能。Toyota Motor 持分比率、CFAO 連結状況、Eurus Energy 再エネ容量は最新の有価証券報告書 / 統合報告書で都度更新。Toyota グループ ecosystem 内での TFS との役割境界も継続観察。
+> confidence: **likely**。国内グループファイナンスを親会社に一元化する構造と、TFS が Toyota Motor 100% 子会社である別系列境界は、2026-07-29 時点の公式開示で再確認した。「豊田通商フィナンス」100% 子会社という未確認表現は削除した。

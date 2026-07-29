@@ -11,11 +11,13 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trust-banks/escrow-agent-japan-trust.md",
   "raw_markdown_url": "https://finwiki.zksc.io/trust-banks/escrow-agent-japan-trust.md",
   "domain": "trust-banks",
-  "title": "エスクロー・エージェント・ジャパン信託 (Escrow Agent Japan Trust)",
+  "title": "ミトラ信託 (Mitra Trust)",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "エスクロー・エージェント・ジャパン信託 (Escrow Agent Japan Trust)",
+    "title": "ミトラ信託 (Mitra Trust)",
     "aliases": [
+      "Mitra Trust",
+      "ミトラ信託株式会社",
       "Escrow Agent Japan Trust",
       "株式会社エスクロー・エージェント・ジャパン信託",
       "EAJ Trust"
@@ -23,9 +25,9 @@
     "domain": "trust-banks",
     "type": null,
     "created": "2026-05-22",
-    "last_updated": "2026-05-22",
-    "last_tended": "2026-05-22",
-    "review_by": "2026-11-22",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -39,19 +41,18 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx",
-      "https://eajt.co.jp/information/",
-      "https://www.ea-j.jp/company/overview.html",
-      "https://auction.eajt.co.jp/"
+      "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf",
+      "https://eajt.co.jp/information/index.html",
+      "https://eajt.co.jp/"
     ]
   },
-  "summary": "Escrow Agent Japan Trust is a standalone trust-company route under trust-banks INDEX and is promoted from the Japan trust companies registry index. Read it with Japan MBO / squeeze-out process, Japan acquisition finance, and Japan trust-bank custody map.",
+  "summary": "Mitra Trust is a standalone trust-company route under trust-banks INDEX and is promoted from the Japan trust companies registry index. The repository path retains the former company name for link stability. Read it with Japan MBO / squeeze-out process, Japan acquisition finance, and Japan trust-bank",
   "headings": [
-    "エスクロー・エージェント・ジャパン信託 (Escrow Agent Japan Trust)",
+    "ミトラ信託 (Mitra Trust)",
     "Wiki route",
     "Overview",
-    "Entity Boundary",
-    "Business Role Map",
+    "Entity Boundary ^[金融庁「運用型信託会社免許・管理型信託会社登録一覧」（2026-06-30 時点）: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; ミトラ信託「会社概要」: https://eajt.co.jp/information/index.html]",
+    "Business Role Map ^[ミトラ信託 公式サイト: https://eajt.co.jp/]",
     "Public Context",
     "Research Checklist",
     "Related",
@@ -79,9 +80,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3274,
-    "word_like_tokens": 519,
+    "nonspace_chars": 3509,
+    "word_like_tokens": 559,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-07-29"
   }
 }

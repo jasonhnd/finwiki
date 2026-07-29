@@ -1,12 +1,12 @@
 ---
 source: trust-banks/jia-trust
-source_hash: 182e341975dce53c
+source_hash: 92e5489fd5906e58
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "JIA Trust / JIA信託"
-translated_at: 2026-06-26T08:32:30.858Z
+translated_at: 2026-07-28T23:40:04.417Z
 ---
 # JIA Trust / JIA信託ウィキ上の位置づけ: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/jia-trust]]
 
@@ -18,7 +18,7 @@ JIA Trust は、Japan Investment Adviser group ルートの下にある運用型
 
 このページは JIA信託株式会社を対象とし、より広い JIA group の [[securities/financial-instruments-business-operators-japan-index|financial-instruments 事業者]] 全体を対象としない。信託会社分類と、ストラクチャード・アセットの保管・管理文脈に使う。
 
-## 事業上の役割マップ
+## 事業上の役割マップ ^[JIA 信託 公式サイト: https://www.jiatrust.co.jp/; 金融庁の現行免許: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf]
 
 | ルート | 読み方 |
 |---|---|

@@ -1,12 +1,12 @@
 ---
 source: asset-managers/daiwa-asset-management
-source_hash: b876b776aa78b1e7
+source_hash: cbaed424bfabe11b
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "大和アセットマネジメント"
-translated_at: 2026-06-26T08:32:07.544Z
+translated_at: 2026-07-28T23:40:03.750Z
 ---
 
 # 大和アセットマネジメント
@@ -23,9 +23,11 @@ translated_at: 2026-06-26T08:32:07.544Z
 |---|---|
 | 法人名 | 大和アセットマネジメント株式会社 / Daiwa Asset Management Co., Ltd. |
 | ライセンス区分 | 金融商品取引法上の **投資運用業**・**投資助言・代理業**・第二種; 関東財務局長(金商)第352号 |
-| 親会社境界 | [[securities-firms/daiwa-sg|Daiwa Securities Group]] が過半数; [[life-insurers/kampo-life|Kampo Life]] が少数（公開開示による） |
+| 親会社境界 | [[securities-firms/daiwa-sg|大和証券グループ本社]] 80%; [[life-insurers/kampo-life|かんぽ生命保険]] 20% |
 | 監督 | [[financial-regulators/fsa|FSA]] + 投資信託協会 / 日本投資顧問業協会 |
 | Wiki 上の役割 | 大和証券グループ系運用会社アンカー |
+
+Sources: ^[FSA 金融商品取引業者登録一覧: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx; 大和アセットマネジメント 会社概要: https://www.daiwa-am.co.jp/company/outline.html.]
 
 ## 2. 事業モデル投資運用業者として、(1) 公募投信の **投資信託委託**（組成・運用）、(2) **投資一任**（機関投資家・年金 discretionary mandate）、(3) 投資助言、(4) ETF／インデックス商品を扱う。販売は大和証券のブローカー販売チャネルが軸で、かんぽ生命との資本関係や Global X Japan などの周辺運用事業とも接続する。証券グループの 証券仲介 / IB とは分離された **資産運用フィーの柱**。監督は FSA + 自主規制機関の二層構造。同じ証券系の [[asset-managers/nomura-asset-management|野村アセット]] と直接ぶつかる。
 
@@ -52,4 +54,4 @@ translated_at: 2026-06-26T08:32:07.544Z
 - Daiwa Asset Management, "会社情報".
 
 > [!info] 校核状態
-> confidence: likely. 法人名・登録番号・大和証券グループ系列は公開情報。資本構成（Daiwa SG majority + Kampo Life minority）は公開開示に基づく **shape**。具体的 AUM / ファンド本数は記載しない。
+> confidence: likely. 法人名・登録番号・資本構成（大和証券グループ本社 80%、かんぽ生命保険 20%）は、2026-07-29 時点の FSA 登録一覧と公式会社概要で再確認した。具体的 AUM / ファンド本数は記載しない。

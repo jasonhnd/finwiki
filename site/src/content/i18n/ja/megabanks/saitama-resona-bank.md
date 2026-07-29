@@ -1,11 +1,11 @@
 ---
 source: megabanks/saitama-resona-bank
-source_hash: 909eb3f165f7f9d7
+source_hash: cef04a7bddb9fc59
 lang: ja
 status: machine
 fidelity: ok
 title: "埼玉りそな銀行 (Saitama Resona Bank)"
-translated_at: 2026-06-15T03:48:21.926Z
+translated_at: 2026-07-28T23:40:04.184Z
 ---
 
 # 埼玉りそな銀行 (Saitama Resona Bank)
@@ -28,6 +28,8 @@ translated_at: 2026-06-15T03:48:21.926Z
 | Bank code | 0017 |
 | Parent boundary | [[megabanks/resona-hd|りそな HD]] 傘下 bank operating company |
 | Regional focus | 埼玉県内を中心とする retail / SME banking |
+
+Sources: ^[金融庁「銀行免許一覧」: https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx; 埼玉りそな銀行「会社概要」: https://www.saitamaresona.co.jp/about/gaiyo/.]
 
 ## 2. オペレーティングモデル
 

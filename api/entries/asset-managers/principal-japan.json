@@ -25,9 +25,9 @@
     "domain": "asset-managers",
     "type": null,
     "created": "2026-05-24",
-    "last_updated": "2026-05-24",
-    "last_tended": "2026-05-24",
-    "review_by": "2026-11-20",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -42,12 +42,13 @@
     "related": [],
     "note": null,
     "sources": [
-      "FSA financial-instruments business operator list: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.pdf",
-      "Principal Financial Group official: https://www.principal.com",
-      "Principal Financial Group Annual Report (公開版・NASDAQ: PFG)"
+      "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx",
+      "https://www.principal.com/about-us/our-company",
+      "https://www.principal.com/about-us/our-company/worldwide-locations",
+      "https://www.principal.com/about-us/our-company/profile-and-offerings"
     ]
   },
-  "summary": "This entry sits under asset-managers INDEX. Read it against Manulife Life Insurance Japan and NN Life Japan for foreign-financial-group peer context, and insurance index for the broader Japan retirement / insurance system / regulatory boundary.",
+  "summary": "This entry sits under asset-managers INDEX. Compare Asset Management One as a domestic institutional asset-management peer; read Manulife Life Insurance Japan and NN Life Japan for foreign-financial-group peer context, and insurance index for the broader Japan retirement / insurance system / regulat",
   "headings": [
     "Principal Japan / プリンシパル・ジャパン",
     "Wiki route",
@@ -92,9 +93,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5486,
-    "word_like_tokens": 800,
+    "nonspace_chars": 5366,
+    "word_like_tokens": 792,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-07-29"
   }
 }

@@ -1,17 +1,17 @@
 ---
 source: financial-conglomerates/sojitz-corp
-source_hash: 662d1eea77af88f9
+source_hash: 89d4adccd690ba18
 lang: ja
 status: machine
 fidelity: ok
 title: "双日（Sojitz Corporation）"
-translated_at: 2026-06-02T15:14:17.105Z
+translated_at: 2026-07-28T23:40:03.908Z
 ---
 # 双日（Sojitz Corporation）
 
 ## ウィキ上の位置づけ
 
-この項目は[[financial-conglomerates/INDEX|financial-conglomerates INDEX]]に置かれる総合商社の親会社ページであり、5 大商社の次のレイヤーである **7 大商社の中堅商社** に位置付けられる。比較対象として、[[financial-conglomerates/marubeni-corp|丸紅]]（5 大商社の中下位、双日との近接ポジション）と[[financial-conglomerates/toyota-tsusho-corp|豊田通商]]（中堅・5 大下位の他のもう一極）を同業・対比の文脈で確認する。この項目をJapanFGに接続する金融サービス上の隣接領域は[[trading-company-finance/sojitz-finance|双日フィナンス]]（内向け CMS、5 大の MCFS / MBFS / 伊藤忠ファイナンス / 丸紅フィナンス / 住友商事FM と同じ group-treasury モデル）を参照する。制度上の枠組みは[[finance/INDEX|finance index]] と [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
+この項目は [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] に置かれる総合商社の親会社ページであり、5 大商社の次のレイヤーである **7 大商社の中堅商社** に位置付けられる。比較対象として、[[financial-conglomerates/marubeni-corp|丸紅]] と [[financial-conglomerates/toyota-tsusho-corp|豊田通商]] を同業・対比の文脈で確認する。金融サービス上の隣接領域は [[trading-company-finance/sojitz-finance|Sojitz Global Finance Plc]] を参照する。双日公式は同社を英国所在の「グループファイナンスを行う金融子会社」と説明しており、「双日フィナンス」という国内法人名は確認できない。制度上の枠組みは [[finance/INDEX|finance index]] と [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
 
 ## 1. 会社概要
 
@@ -30,7 +30,7 @@ translated_at: 2026-06-02T15:14:17.105Z
 
 ```
 双日 (2768, 東証 PRIME)
-  ├── [[trading-company-finance/sojitz-finance|双日フィナンス]] (100%)            — 内向け CMS / グループファイナンス
+  ├── [[trading-company-finance/sojitz-finance|Sojitz Global Finance Plc]]         — 英国のグループファイナンス金融子会社
   ├── (大手 captive リース子会社は不在)                          — 外向け asset finance は 3 大リース / SMFL / みずほリース 等 外部依存
   ├── 双日ロジスティクス                                          — 物流
   └── 多数の海外資源・インフラ JV (5 大商社よりは規模限定的)
@@ -66,10 +66,12 @@ translated_at: 2026-06-02T15:14:17.105Z
 
 | Finance subsidiary / 関連 | Wiki anchor | 持分 | 機能 |
 |---|---|---|---|
-| 双日フィナンス | [[trading-company-finance/sojitz-finance]] | 100% | 内向け CMS / グループファイナンス / 一括ファクタリング |
+| Sojitz Global Finance Plc | [[trading-company-finance/sojitz-finance]] | 双日グループ子会社（当該公式ページは比率非表示） | 英国所在、グループファイナンス |
+
+Sources: ^[双日「Sojitz Global Finance Plc」会社ページ: https://www.sojitz.com/jp/corporate/group/company_17011.html; 双日「2026年3月期有価証券報告書」: https://s3-ap-northeast-1.amazonaws.com/sojitz-doc/pdf/jp/ir_202405/reports/vsecurity/20260609.pdf.]
 
 **5 大商社との比較 — 双日には外向け captive リース・asset finance 大手子会社が不在**:
-- 5 大: [[financial-conglomerates/mitsubishi-corp|三菱]] → [[leasing-firms/mitsubishi-hc-capital|HCキャピタル]] (約 20% 持分法)、[[financial-conglomerates/mitsui-co|三井]] → [[cooperative-banks/ja-mitsui-leasing|JA三井リース]] (約 33%)、[[financial-conglomerates/itochu-corp|伊藤忠]] → [[leasing-firms/tokyo-century|東京センチュリー]] (約 25%)、[[financial-conglomerates/sumitomo-corp|住友]] → [[leasing-firms/smfl|SMFL]] (50% JV with SMFG)、[[financial-conglomerates/marubeni-corp|丸紅]] → [[leasing-firms/mizuho-lease|みずほリース]] (約 20%、2024〜)
+- 5 大: [[financial-conglomerates/mitsubishi-corp|三菱]] → [[leasing-firms/mitsubishi-hc-capital|HCキャピタル]] (所有18.35%)、[[financial-conglomerates/mitsui-co|三井]] → [[cooperative-banks/ja-mitsui-leasing|JA三井リース]] (議決権38.84%)、[[financial-conglomerates/itochu-corp|伊藤忠]] → [[leasing-firms/tokyo-century|東京センチュリー]] (所有29.94%)、[[financial-conglomerates/sumitomo-corp|住友]] → [[leasing-firms/smfl|SMFL]] (50% JV with SMFG)、[[financial-conglomerates/marubeni-corp|丸紅]] → [[leasing-firms/mizuho-lease|みずほリース]] (20.2%)
 
 加えて、**双日のメインバンク**:
 - 旧 ニチメン 系 → [[megabanks/mizuho-fg|みずほ FG]] (旧 富士銀・興銀系)
@@ -106,7 +108,7 @@ translated_at: 2026-06-02T15:14:17.105Z
 
 - [[financial-conglomerates/INDEX|financial-conglomerates INDEX]]
 - [[financial-conglomerates/mitsubishi-corp|三菱商事]] · [[financial-conglomerates/mitsui-co|三井物産]] · [[financial-conglomerates/itochu-corp|伊藤忠商事]] · [[financial-conglomerates/sumitomo-corp|住友商事]] · [[financial-conglomerates/marubeni-corp|丸紅]] · [[financial-conglomerates/toyota-tsusho-corp|豊田通商]] (peer 商社)
-- [[trading-company-finance/sojitz-finance|双日フィナンス]] (内向け group treasury)
+- [[trading-company-finance/sojitz-finance|Sojitz Global Finance Plc]] (英国のグループファイナンス金融子会社)
 - [[leasing-firms/orix-corp|オリックス]] · [[leasing-firms/mitsubishi-hc-capital|HCキャピタル]] · [[leasing-firms/tokyo-century|東京センチュリー]] · [[leasing-firms/smfl|SMFL]] · [[leasing-firms/mizuho-lease|みずほリース]] (外部リース取引先)
 - [[megabanks/mizuho-fg|みずほ FG]] · [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] (メインバンク級)
 - [[finance/INDEX|finance index]] · [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]
@@ -115,10 +117,12 @@ translated_at: 2026-06-02T15:14:17.105Z
 
 - 双日 (2768) 公式 IR — https://www.sojitz.com/jp/ir/
 - 双日 統合報告書 — https://www.sojitz.com/jp/ir/library/integrated/
+- 双日 2026年3月期有価証券報告書 — https://s3-ap-northeast-1.amazonaws.com/sojitz-doc/pdf/jp/ir_202405/reports/vsecurity/20260609.pdf
+- 双日 Sojitz Global Finance Plc 会社ページ — https://www.sojitz.com/jp/corporate/group/company_17011.html
 - EDINET 有価証券報告書 — https://disclosure.edinet-fsa.go.jp/ (検索: 双日 / 2768)
 - JPX 銘柄情報 2768 — https://www2.jpx.co.jp/
 
 ---
 
 > [!info] 検証状況
-> confidence: **likely**。双日は public-surface で十分カバー。連結純利益、ニチメン + 日商岩井 統合後 20 年の総括、5 大商社との競争上の差は最新 有価証券報告書 / 統合報告書 で都度更新。
+> confidence: **likely**。グループファイナンス法人の正式名と機能は、2026-07-29 時点の双日公式グループ会社ページで Sojitz Global Finance Plc と再確認した。「双日フィナンス」という国内法人名・100%比率は本文から削除した。

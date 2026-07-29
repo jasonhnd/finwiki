@@ -8,9 +8,9 @@ aliases:
   - "sojitz-finance"
 domain: trading-company-finance
 created: 2026-05-24
-last_updated: 2026-05-26
-last_tended: 2026-06-24
-review_by: 2026-09-22
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, finance, trading-company-finance, sojitz, group-treasury, factoring, cms, mid-tier-trading-house]
 status: active
@@ -27,7 +27,7 @@ sources:
 
 This entry sits under [[trading-company-finance/INDEX|trading-company-finance INDEX]]. Read it against [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]] (the closest mid-tier 商社系 group-treasury peer) and [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]] (another peer 商社系 internal-treasury arm). For the mid-tier 商社 captive 比較, see [[leasing-firms/kanematsu-leasing|兼松リース]] (smaller mid-tier 商社系リース). For 5 大商社系の比較 baseline, see [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]] / [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]] / [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]] / [[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]]. See [[banking/INDEX|banking index]] for the broader regulatory boundary.
 
-## 1. 会社概要
+## 1. 会社概要 ^[双日 IR: https://www.sojitz.com/jp/ir/; EDINET: https://disclosure2.edinet-fsa.go.jp/]
 
 | Item | Notes |
 |---|---|
@@ -38,14 +38,14 @@ This entry sits under [[trading-company-finance/INDEX|trading-company-finance IN
 - **旧 ニチメン**：三和銀行 (現 [[megabanks/mufg|MUFG]] 三和系) との関係
 - **旧 日商岩井**：旧 第一勧業銀行・旧 IBJ (現 [[megabanks/mizuho-fg|みずほ FG]]) との関係
 
-### 双日系金融機能の配置
+### 双日系金融機能の配置 ^[双日の有価証券報告書・関係会社開示と各社公式 IR に基づく比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]
 
 | 層 | 主体 | 役割 |
 |---|---|---|
 | **外向け銀行 (主取引)** | [[megabanks/mufg|MUFG]] / [[megabanks/mizuho-fg|みずほ FG]] / [[megabanks/smfg|SMFG]] 並列 | 商業銀行・対外金融サービス |
 | **内向け / グループ金融** | **双日フィナンス (本ページ)** | グループ各社の internal banking / CMS / 内部ファクタリング |
 
-## 2. 事業セグメント・マップ
+## 2. 事業セグメント・マップ ^[双日 IR / 有価証券報告書。業務範囲は非上場子会社の開示制約があるため最新関係会社開示を優先: https://www.sojitz.com/jp/ir/]
 
 | セグメント | 内容 |
 |---|---|
@@ -60,7 +60,7 @@ This entry sits under [[trading-company-finance/INDEX|trading-company-finance IN
 
 双日フィナンス はこれらのセグメントでのサプライヤーファイナンス / 海外通貨ヘッジ / 国境跨ぎ送金 等を支える。中堅商社ゆえに金融機能のスケールは 5 大商社より小さいが、機能セットは類似。
 
-### 競合 / Peer
+### 競合 / Peer ^[各親会社の有価証券報告書・公式 IR を横断した比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]
 
 | 商社 | 規模レイヤー | 内向け金融子会社 | 外向けリース系 |
 |---|---|---|---|

@@ -1,11 +1,11 @@
 ---
 source: megabanks/nippon-post
-source_hash: 79fbd6744661e256
+source_hash: eecb96c27adf803a
 lang: en
 status: machine
 fidelity: ok
 title: "Japan Post Holdings"
-translated_at: 2026-06-15T03:48:21.897Z
+translated_at: 2026-07-28T23:40:43.801Z
 ---
 # Japan Post Holdings
 
@@ -74,7 +74,7 @@ Japan Post Holdings Co., Ltd. (holding company; listed 6178)
 
 | Segment | Main operators | Characteristics |
 |---|---|---|
-| Postal / logistics | Japan Post | Domestic universal-service obligation, ~24,000  post-office network |
+| Postal / logistics | Japan Post | Domestic universal-service obligation, 24,115 post offices (2026-03-31) |
 | EC / delivery | Japan Post (Yu-Pack) | Contracted parcel-delivery BPO for Amazon, Rakuten, Mercari, etc. |
 | Retail banking | [[regional-banks/yucho]] (listed 7182) | Among the largest domestically by deposit scale; account business at post-office counters |
 | Life insurance | [[life-insurers/kampo-life]] (listed 7181) | Based on simplified life insurance; a major player by premium income |
@@ -82,9 +82,11 @@ Japan Post Holdings Co., Ltd. (holding company; listed 6178)
 | Group CVC | Japan Post Capital | Investments in startups / logistics tech |
 | Senior / regional | Japan Post "Mimamori (watch-over) Service," etc. | Turning the post-office network into a care / local-government collaboration platform |
 
+Sources: ^[日本郵便「Corporate Information」: https://www.post.japanpost.jp/about/profile_en.html; ゆうちょ銀行「About JAPAN POST BANK」: https://www.jp-bank.japanpost.jp/en/ir/investor/en_ir_inv_index.html; 日本郵政「Group Governance」: https://www.japanpost.jp/en/group/governance/index.html.]
+
 ### Group integration synergies
 
-- **Post-office network × finance**: Using the nationwide ~24,000 局 as sales counters for [[regional-banks/yucho]] / [[life-insurers/kampo-life]]. Counter fees (financial 2 社 → Japan Post) are the main axis of intra-group transfer ^[extracted]
+- **Post-office network × finance**: Using the nationwide 24,115 post offices (2026-03-31) as sales counters for [[regional-banks/yucho]] / [[life-insurers/kampo-life]]. Counter fees (financial 2 社 → Japan Post) are the main axis of intra-group transfer ^[extracted]
 - **Logistics × EC**: Coordination between Japan Post's last-one-mile network and EC platforms. The former Rakuten G alliance was positioned in this context ^[extracted]
 
 ### Alliance / acquisition strategy

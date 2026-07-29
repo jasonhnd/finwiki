@@ -18,6 +18,7 @@ sources:
   - "https://www.tfsc.jp/en/company/index.html"
   - "https://global.toyota/en/company/profile/other-toyota-businesses/finance/"
   - "https://global.toyota/en/ir/library/annual/"
+  - "https://global.toyota/pages/global_toyota/ir/financial-results/2026_4q_summary_en.pdf"
   - "https://www.toyotafinancial.com/us/en.html"
   - "https://www.toyota-finance.co.jp/"
   - "https://disclosure2.edinet-fsa.go.jp/"
@@ -28,11 +29,11 @@ canonical_anchor: leasing-firms/toyota-financial
 
 ## Wiki route
 
-This entry sits under [[manufacturer-finance/INDEX|manufacturing index]] and complements [[leasing-firms/toyota-financial|Toyota Financial Services (JapanFG entity profile)]] and [[card-issuers/toyota-finance|トヨタファイナンス (国内オペレーティング会社)]]. The manufacturing entry exists to look at TFS **from the parent OEM's manufacturing/strategy perspective**: how Toyota uses the largest auto captive finance in the world to control sales channels, residual-value risk, and mobility services. Read against [[manufacturer-finance/toyota-motor|Toyota Motor]] for the parent OEM, [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi 産業金融]], [[manufacturer-finance/panasonic-captive-finance|Panasonic 顧客金融]], [[manufacturer-finance/sony-group-finance-arm|Sony FG]], [[manufacturer-finance/mitsubishi-heavy-export-finance|MHI 輸出金融]] for peer industrial-conglomerate finance arms. Pair with [[structured-finance/auto-loan-abs-japan-toyota-honda|Japan auto-loan ABS]] for the securitization layer and [[manufacturer-finance/INDEX|manufacturer-finance INDEX]] for the broader regulatory boundary.
+This entry sits under [[manufacturer-finance/INDEX|manufacturing index]] and complements [[leasing-firms/toyota-financial|Toyota Financial Services (JapanFG entity profile)]] and [[card-issuers/toyota-finance|トヨタファイナンス (国内オペレーティング会社)]]. The manufacturing entry looks at TFS **from the parent OEM's manufacturing/strategy perspective**: how Toyota connects sales channels, residual-value risk, funding and mobility services. Read against [[manufacturer-finance/toyota-motor|Toyota Motor]] for the parent OEM, [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi 産業金融]], [[manufacturer-finance/panasonic-captive-finance|Panasonic 顧客金融]], [[manufacturer-finance/sony-group-finance-arm|Sony FG]], [[manufacturer-finance/mitsubishi-heavy-export-finance|MHI 輸出金融]] for peer industrial-conglomerate finance arms. Pair with [[structured-finance/auto-loan-abs-japan-toyota-honda|Japan auto-loan ABS]] for the securitization layer and [[manufacturer-finance/INDEX|manufacturer-finance INDEX]] for the broader regulatory boundary.
 
 ## TL;DR
 
-トヨタファイナンシャルサービス (TFS) は **世界最大級の自動車 captive finance**。トヨタ自動車 100% 子会社として、米州 (Toyota Motor Credit Corporation = TMCC)・欧州 (Toyota Kreditbank GmbH)・国内 ([[card-issuers/toyota-finance|トヨタファイナンス]])・新興国の 30+ ヵ国で **自動車ローン・リース・保険・カード・モビリティ金融** をワンストップで展開する。FinWiki manufacturing アンカーとしては、**(1) Toyota Motor (7203) が金融を本体外に持つ意味、(2) 残価リスク (RV) を OEM 本体ではなく captive 側に集約する設計、(3) 世界市場でのオート ABS 発行体としての規模 ([[structured-finance/auto-loan-abs-japan-toyota-honda|Japan auto-loan ABS]] と接続)、(4) BEV / コネクテッド・モビリティ時代の captive のリポジショニング** の 4 つを軸に読む。Ford Motor Credit, Ally Financial, GM Financial と並び世界の auto captive finance トップティアの一角。
+トヨタファイナンシャルサービス (TFS) は、トヨタ自動車 100% 子会社の販売金融統括会社。米州 (Toyota Motor Credit Corporation = TMCC)・欧州 (Toyota Kreditbank GmbH)・国内 ([[card-issuers/toyota-finance|トヨタファイナンス]]) など、40 超の国・地域で **自動車ローン・リース・保険等のモビリティ金融** を展開する。FinWiki manufacturing アンカーとしては、**(1) Toyota Motor (7203) が金融を本体外に持つ意味、(2) 残価・信用・金利リスクを captive 側で管理する設計、(3) オート ABS を含む多様な資金調達、(4) モビリティサービスへの拡張** の 4 つを軸に読む。
 
 ## 1. 会社構造と製造業視点
 
@@ -40,13 +41,14 @@ This entry sits under [[manufacturer-finance/INDEX|manufacturing index]] and com
 |---|---|
 | 正式名 | 株式会社トヨタファイナンシャルサービス / Toyota Financial Services Corporation |
 | 設立 | 2000-07-07 |
-| 本社 | 愛知県名古屋市西区 |
+| 本社 | 名古屋市西区牛島町6-1 名古屋ルーセントタワー15F |
 | 上場 | 非上場 ([[manufacturer-finance/toyota-motor|Toyota Motor]] 100% 連結子会社) |
-| 連結事業地域 | 30+ ヵ国 (米州 / 欧州 / 日本 / 豪州 / 新興国) |
-| 連結総資産 | 約 30 兆円規模 (推計、TMCC + 各国 captive の合計) |
-| FY2024 金融セグメント営業収益 | 約 3 兆円規模 (Toyota Motor 連結セグメント) |
-| FY2024 金融セグメント営業利益 | 約 4,000 億円規模 (同上) |
+| 資本金 | 785億2,500万円 |
+| 従業員 | 149人 (2026-04-01) |
+| 事業地域 | 40 超の国・地域 |
 | 主要子会社 | TMCC (米州), Toyota Kreditbank (欧州), [[card-issuers/toyota-finance|TF (国内)]], 各国 TFS 法人 |
+
+Sources: ^[Toyota Financial Services「Company Profile」: https://www.tfsc.jp/en/company/index.html; TFS「What is the TFS Group?」: https://www.tfsc.jp/en/what/index.html.]
 
 ### 製造業視点のグループ構造
 
@@ -55,12 +57,11 @@ Toyota Motor Corporation (7203, 製造業本体)
   ├── 自動車製造・販売 (Toyota / Lexus / 関連ブランド)
   ├── R&D, Production, Supply Chain
   └── Toyota Financial Services Corp. (TFS, 100%)
-        ├── 米州: Toyota Financial Services Americas → TMCC (Toyota Motor Credit Corp., 1988-)
-        │     └── 米国最大級自動車金融、Ford Motor Credit / Ally / GM Financial と並ぶ
+        ├── 米州: TMCC (Toyota Motor Credit Corp., 1982-)
         ├── 欧州: Toyota Kreditbank GmbH (ドイツ拠点)
         ├── 国内: [[card-issuers/toyota-finance|トヨタファイナンス (TF)]] + TS キュービックカード
         ├── 保険: Toyota Insurance Management Solutions 等
-        └── 30+ ヵ国の各国 TFS 法人
+        └── 40 超の国・地域の各国 TFS 法人
 ```
 
 ### Toyota Motor 本体との関係
@@ -74,32 +75,31 @@ Toyota Motor Corporation (7203, 製造業本体)
 | 事業ライン | 内容 | Toyota Motor 製造業視点での意義 |
 |---|---|---|
 | 自動車ローン (新車・中古車) | 国内・米州・欧州・新興国 | 新車販売チャネル維持、ディーラーロイヤルティ |
-| リース (個人残クレ + 法人フリート) | 全世界 | 残価リスク集約、買い替えサイクル制御 |
+| リース (個人 + 法人フリート) | 各地域 | 残価・信用リスク管理、買い替えサイクルとの接続 |
 | TS キュービックカード | 国内 | Toyota 純正部品・点検・燃料・サービス購買データ |
 | 保険 (代理販売 + 引受持株) | 全世界 | 顧客関係の長期化、データ取得 |
 | Toyota Wallet 等モビリティ金融 | 国内中心、海外展開 | カーシェア・サブスク KINTO 連動 |
 | ディーラー金融 (在庫金融) | 全世界 | ディーラー支援、生産・出荷タイミング調整 |
 | サプライヤー金融 | 国内中心 | 部品サプライヤー支援、ジャストインタイム維持 |
 
+Sources: ^[Toyota Motor Corporation「Financial Services」: https://global.toyota/en/company/profile/other-toyota-businesses/finance/; TFS「What is the TFS Group?」: https://www.tfsc.jp/en/what/index.html; TFS「Global Operations」: https://www.tfsc.jp/en/global/americas.html.]
+
 ### 自動車 ABS との接続
 
-TFS は世界最大級の auto-loan / auto-lease ABS 発行体の一つ。米国 TMCC は **Toyota Auto Receivables Trust** シリーズで定期的に ABS を発行、日本国内では トヨタファイナンスが定期的に自動車ローン ABS を発行する。詳細は [[structured-finance/auto-loan-abs-japan-toyota-honda|Japan auto-loan ABS (Toyota Finance, Honda Finance, Nissan Credit)]] 参照。Toyota Motor 本体の B/S に積み上がるはずの auto receivables を、TFS が ABS で証券化・オフバランス化することで、グループ全体のレバレッジを抑制する構造。
+TMCC 等は auto-loan / auto-lease ABS を資金調達に利用する。証券化時に債権が会計上消滅するかは適用会計基準の譲渡・支配・リスク移転要件で決まり、ABS 発行だけで自動的にオフバランスになるわけではない。詳細は [[structured-finance/auto-loan-abs-japan-toyota-honda|Japan auto-loan ABS (Toyota Finance, Honda Finance, Nissan Credit)]] 参照。
 
-## 3. KPI (FY2024 連結 + 金融セグメント)
+## 3. KPI (FY2026 連結 + 金融セグメント)
 
 | 指標 | 値 | 出所 |
 |---|---|---|
-| Toyota Motor 連結売上 | 約 48 兆円 (FY2024 通期) | Toyota Motor 決算短信 |
-| Toyota Motor 連結純利益 | 約 4.9 兆円 (FY2024 通期) | 同上 |
-| 金融セグメント 営業収益 | 約 3 兆円規模 | セグメント情報 |
-| 金融セグメント 営業利益 | 約 4,000 億円規模 | 同上 |
-| TFS 連結総資産 | 約 30 兆円規模 (推計) | 親会社セグメント・各国法人 disclosure |
-| 世界展開国 | 30+ ヵ国 | TFS 公式 |
-| 主要競合 (米国) | Ford Motor Credit, Ally Financial, GM Financial | 業界レポート |
-| 主要競合 (国内) | 日産 NMAC, ホンダファイナンス, [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]], [[leasing-firms/orix-corp|オリックス]] | 業界レポート |
-| 残価設定型ローン比率 | 国内・米国で過半数規模 | 業界推計 |
+| Toyota Motor 連結売上収益 | 50兆6,849億円 | Toyota FY2026 Financial Summary |
+| Toyota Motor 親会社帰属利益 | 3兆8,480億円 | 同上 |
+| 金融サービス segment 売上収益 | 4兆8,571億円 | 同上 |
+| 金融サービス segment 営業利益 | 8,517億円 | 同上 |
+| 金融サービス債権 | 流動 13兆4,784億円、非流動 25兆4,881億円 | 同上 |
+| 事業地域 | 40 超の国・地域 | TFS 公式 |
 
-> KPI は Toyota Motor 「Annual Report / Integrated Report」「決算短信」「金融事業セグメント」開示および TMCC SEC filing (Form 10-K) ・各国 TFS 法人開示から概算。TFS 単独の連結 IR は限定的で、親会社開示と各国法人開示の組合せが必要。
+Sources: ^[Toyota FY2026 Financial Summary: https://global.toyota/pages/global_toyota/ir/financial-results/2026_4q_summary_en.pdf; TFS「What is the TFS Group?」: https://www.tfsc.jp/en/what/index.html.]
 
 ## 4. 戦略 (Residual Value + EV + Mobility)
 
@@ -135,6 +135,9 @@ TFS は世界最大級の auto-loan / auto-lease ABS 発行体の一つ。米国
 
 - Toyota Motor Corporation「Financial Services」: https://global.toyota/en/company/profile/other-toyota-businesses/finance/
 - Toyota Motor Corporation「Annual Report / Integrated Report」: https://global.toyota/en/ir/library/annual/
+- Toyota Motor Corporation「FY2026 Financial Summary」: https://global.toyota/pages/global_toyota/ir/financial-results/2026_4q_summary_en.pdf
+- Toyota Financial Services「Company Profile」: https://www.tfsc.jp/en/company/index.html
+- Toyota Financial Services「What is the TFS Group?」: https://www.tfsc.jp/en/what/index.html
 - Toyota Financial Services USA: https://www.toyotafinancial.com/us/en.html
 - トヨタファイナンス株式会社: https://www.toyota-finance.co.jp/
 - EDINET (有価証券報告書): https://disclosure2.edinet-fsa.go.jp/
@@ -142,4 +145,4 @@ TFS は世界最大級の auto-loan / auto-lease ABS 発行体の一つ。米国
 ---
 
 > [!info] 校正ステータス
-> confidence: **likely**。Toyota Motor IR / Annual Report / TFS 公式 / TMCC SEC filing / EDINET を基準に公開情報で構成。TFS 単独連結数値は親会社「金融事業セグメント」開示と各国法人開示の組合せが必要なため概数で記載。米国 TMCC のシェア・国内残クレ比率は業界推計値を引用。
+> confidence: **likely**。2026-07-29 時点で TFS 会社概要・グループ説明と Toyota FY2026 Financial Summary を再確認。推計総資産、未検証の市場順位・残クレ比率を削除し、公式の会社属性・地域数・segment 数値へ置き換えた。

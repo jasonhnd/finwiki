@@ -1,11 +1,11 @@
 ---
 source: asset-managers/smd-am
-source_hash: 5459cb6e6f775550
+source_hash: ee6a679603638e2b
 lang: en
 status: machine
 fidelity: ok
 title: "Sumitomo Mitsui DS Asset Management"
-translated_at: 2026-06-15T03:48:21.823Z
+translated_at: 2026-07-29T00:09:57.651Z
 ---
 
 # Sumitomo Mitsui DS Asset Management
@@ -25,8 +25,10 @@ This entry sits under [[asset-managers/INDEX|asset-managers INDEX]] (its domain 
 | Legal name | 三井住友DSアセットマネジメント株式会社 / Sumitomo Mitsui DS Asset Management Co., Ltd. |
 | License route | **Investment management business**・**investment advisory and agency business**・Type II under the Financial Instruments and Exchange Act; Director-General of the Kanto Local Finance Bureau (金商) 第399号 |
 | Origin | 2019-04  merger (三井住友AM + 大和住銀投信投資顧問) |
-| Shareholder mix | [[megabanks/smfg|SMFG]] ~50.1%, [[securities-firms/daiwa-sg|Daiwa Securities Group]] ~23.5%, 三井住友海上 ~15%, 住友生命 ~10.4%, SMTB ~1% (at 2019  establishment) |
+|| Shareholder mix | [[megabanks/smfg|SMFG]] 50.1%、[[securities-firms/daiwa-sg|Daiwa Securities Group]] 23.5%、三井住友海上火災保険 15.0%、住友生命保険 10.4%、三井住友信託銀行 1.0% |
 | Supervision | [[financial-regulators/fsa|FSA]] + 投資信託協会 / 日本投資顧問業協会 |
+
+Sources: ^[FSA 金融商品取引業者登録一覧: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx; 三井住友DSアセットマネジメント 会社概要: https://www.smd-am.co.jp/corporate/overview/.]
 
 ## 2. Operating model
 
@@ -56,4 +58,4 @@ As an investment management business operator, it is the core of the SMBC group'
 - SMBCグループ二十年史, "三井住友DSアセットマネジメント" (group company overview・history).
 
 > [!info] Verification status
-> confidence: likely. The legal name, registration number, 2019-04  merger, and largest shareholder SMFG are public information. The shareholding ratios (~50.1 / 23.5 / 15 / 10.4 / 1) are a shape based on the public disclosure **at 2019 年 establishment** and are not to be treated as fixed current values.
+> confidence: likely. The legal name, registration number, 2019-04 merger, and current shareholding ratios were re-verified as of 2026-07-29 against the FSA registration list and official company overview.

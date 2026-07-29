@@ -1,11 +1,11 @@
 ---
 source: manufacturer-finance/mitsubishi-heavy-export-finance
-source_hash: c3f8276af16f08ca
+source_hash: 0d6e2cba2595ba00
 lang: ja
 status: machine
 fidelity: ok
 title: "Mitsubishi Heavy Export Finance (三菱重工 輸出金融プラットフォーム)"
-translated_at: 2026-06-19T13:31:34.047Z
+translated_at: 2026-07-28T23:40:03.974Z
 ---
 
 # Mitsubishi Heavy Export Finance (三菱重工 輸出金融プラットフォーム)
@@ -16,9 +16,9 @@ This entry sits under [[manufacturer-finance/INDEX|manufacturing index]]. Read i
 
 ## TL;DR
 
-三菱重工業 (MHI, 7011) は、防衛・航空・エネルギー・産業機械・物流機器を抱える日本最大級の重工業メーカー。**Toyota / Sony / Hitachi と異なり、本体直系の銀行・保険・カード captive を持たない** が、**大型案件 (防衛装備、商業航空、火力・原子力タービン、船舶、化学プラント、ロケット) の輸出には常に [[financial-regulators/jbic|JBIC]] 輸出金融 + [[policy-finance/nexi|NEXI]] 貿易保険 + メガバンク シンジケート + ECA が組合せ** で必要になり、それらの組成・調整を MHI コーポレート財務とプロジェクト本部が一体で担う。manufacturing 視点では「メーカーが captive を持たず、**政策金融・商業銀行・ECA を組合せた輸出金融プラットフォーム** を実質的に運用する」モデル。直近では F-X (将来戦闘機) の **GIGO/GCAP プログラム** (日英伊共同開発、旧称「X-2 心神」の延長線)、**サファイア (Sapphire) 防衛装備イニシアチブ**、AP1000 系・三菱重工 PWR 海外案件、H-IIA / H3 ロケット商業化が論点。
+「Mitsubishi Heavy Export Finance」は公式の法人名・セグメント名ではなく、三菱重工業 (MHI, 7011) の大型案件と資金提供者の接点を読むための FinWiki 分析ルート。MHI はエナジー、プラント・インフラ、航空・防衛・宇宙等を持つが、公開資料から **全輸出案件が JBIC + NEXI + メガバンクの定型構造を使う** とは確認できない。輸出金融・保険の関与は案件ごとの契約・政府発表・金融機関リリースで判断する。GCAP についても、GIGO は政府間機関、Edgewing は BAE Systems・Leonardo・日本航空機産業振興 (JAIEC) が出資する国際 JV であり、MHI が BAE / Leonardo と直接 3 社 JV を持つという説明は正確ではない。
 
-## 1. 会社構造と金融部門の位置
+## 1. 会社・分析境界
 
 | 項目 | 内容 |
 |---|---|
@@ -26,87 +26,56 @@ This entry sits under [[manufacturer-finance/INDEX|manufacturing index]]. Read i
 | 設立 | 1950-01-11 (前身 1884 三菱造船所、1934 三菱重工業発足、戦後 3 分割 → 1964 再統合) |
 | 本社 | 東京都千代田区丸の内 3-2-3 |
 | 上場 | 東証 PRIME 7011 |
-| 連結売上 | 約 4.7 兆円 (FY2024) |
-| 連結事業利益 | 約 2,800 億円規模 (FY2024) |
-| 連結純利益 | 約 2,200 億円規模 (FY2024) |
-| 連結子会社 | 約 200 社規模 |
-| 本体直系 captive 金融 | なし (専業の銀行・保険・大型カードを持たない) |
-| 主要 finance alliance | [[financial-regulators/jbic|JBIC]] / [[policy-finance/nexi|NEXI]] / [[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG]] / [[megabanks/mizuho-fg|みずほ FG]] / 欧米 ECA |
+| FY2025 連結売上収益 | 4兆9,741億円 (2026-03-31 終了年度) |
+| FY2025 連結事業利益 | 4,322億円 |
+| 連結従業員 | 78,793人 (2026-03-31) |
+| 連結会社 | 246社 (国内55・海外191、2026-03-31) |
+| 主要事業 | エナジー、プラント・インフラ、物流・冷熱・ドライブシステム、航空・防衛・宇宙 |
+| 本ページの性格 | 法人・金融セグメントではなく、案件金融の分析ページ |
 
-### 金融組成の位置 (プログラム別)
+Sources: ^[MHI「Corporate Profile」: https://www.mhi.com/company/overview/profile; MHI「FY2025 Financial Results」: https://www.mhi.com/finance/library/result/.]
 
-```
-三菱重工業 (7011, 親会社)
-  ├── Energy Systems (火力・原子力・水素・洋上風力)
-  ├── Aircraft, Defense & Space (防衛・航空・宇宙)
-  │     ├── F-X (GCAP/GIGO 日英伊共同開発)
-  │     ├── H-IIA / H3 ロケット
-  │     └── 米軍 / 自衛隊向け装備
-  ├── Plants & Infrastructure Systems (化学プラント・物流・交通)
-  ├── Logistics, Thermal & Drive Systems (フォークリフト・空調・ターボ)
-  └── コーポレート財務 (Treasury & Project Finance)
-        ├── 輸出案件のシンジケート組成 (JBIC + メガバンク + 欧米 ECA)
-        ├── NEXI 貿易保険のカバー設計
-        ├── プロジェクトファイナンス (IPP, 火力, 洋上風力)
-        └── サプライチェーンファイナンス・売掛 ABL
-```
+MHI の会社・決算資料は専業の「輸出金融部門」を報告セグメントとして掲げていない。本ページは、メーカー本体の treasury と個別案件の顧客・政府・金融機関を混同しないための境界ページとして使う。
 
-MHI は「銀行・保険を抱える型の captive」ではなく、「**輸出案件ごとに政策金融 + 商業銀行 + ECA シンジケートをデザインする型の finance arm**」として機能する。
+## 2. 案件別の金融確認ポイント
 
-## 2. 製品 / 事業ライン × 輸出金融組成パターン
-
-| 事業ライン | 主な顧客金融組成 | 関与する金融 |
+| 事業・案件 | 確認済みの境界 |
 |---|---|---|
-| 火力・原子力・タービン | EPC + プロジェクトファイナンス | [[financial-regulators/jbic|JBIC]] / [[policy-finance/nexi|NEXI]] / 米 EXIM / 韓 KEXIM 等 |
-| 洋上風力・水素 | グリーンファイナンス、PF | JBIC GX 枠 / 欧州系 PF 銀行 |
-| 商業航空 (旧 SpaceJet) | 航空機 ECA 金融 | JBIC + EDC + EXIM 系 |
-| 防衛装備 (国内) | 防衛省 GFE (政府支給品) + 国内予算 | 防衛省・政府保証なし |
-| 防衛装備 (輸出) | G-to-G 輸出ガイドライン下、限定的 | NEXI 政府保証付き枠 (案件次第) |
-| GCAP / GIGO (F-X) | 英 BAE Systems + 伊 Leonardo + 日 MHI の合弁 GCAP International Government Organisation | 日英伊政府協調、商業金融未関与 |
-| 物流 (フォークリフト = 三菱ロジスネクスト 7105) | vendor finance | [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] / 銀行系リース |
-| 化学プラント | EPC + JBIC 資源金融枠 | JBIC + メガバンク + ECA |
-| ロケット (MHI Launch Services) | 商業打上契約 + ECA | 顧客衛星オペレーター + JBIC |
+| エナジー / プラント | EPC・長期案件でも金融構造は案件別。JBIC / NEXI の関与は各機関の個別案件公表で確認する |
+| GCAP の政府側 | GIGO が日英伊の政府間枠組みを一元管理 |
+| GCAP の産業側 | Edgewing Systems Limited の出資者は BAE Systems、Leonardo、JAIEC |
+| MHI と JAIEC | JAIEC は日本航空宇宙工業会が majority、MHI が minority の共同出資会社 |
+| GCAP 契約 | 2026-07-03、3か国共同資金による £4.6bn 契約を GCAP Agency から Edgewing へ付与 |
+| ロケット | H-IIA は 50号機で終了し H3 へ移行。打上契約と顧客側の保険・融資は分けて確認する |
+| 旧三菱ロジスネクスト | 2026-05-01 に MHI 連結から外れ、現行 consolidated vendor-finance 例として扱わない |
 
-### 主要プログラム (2024-2026)
+Sources: ^[MHI「JAIEC to Start Operations」: https://www.mhi.com/news/240710.html; MHI「2024 Medium-Term Business Plan Progress」: https://www.mhi.com/finance/library/plan/pdf/260527presentation.pdf; UK Ministry of Defence「£4.6 billion GCAP contract」(2026-07-03): https://www.gov.uk/government/news/over-4-billion-invested-in-next-generation-fighter-jet-with-new-international-contract; MHI FY2025 Financial Results presentation: https://www.mhi.com/finance/library/result/pdf/fy20254q/presentation.pdf.]
 
-- **GCAP/GIGO (Global Combat Air Programme / GCAP International Government Organisation)**: 日英伊次世代戦闘機共同開発。旧三菱重工 X-2「心神」の技術的延長線にあり、F-X として日本の次期主力戦闘機を構成する。GCAP International Government Organisation が 2023 年末に英国本部で発足、日英伊 3 ヵ国による共同合弁事業会社が組成される。MHI は日本側プライム。商業金融の関与は限定的で、防衛予算ベース。
-- **「Sapphire (サファイア)」防衛装備イニシアチブ**: MHI 名乗りの防衛装備海外展開イニシアチブで、Anti-Air / 艦艇・ミサイル防衛系の輸出案件を欧州・東南アジア向けに進める。装備品輸出 3 原則の運用見直し後に商業案件化されつつあるが、NEXI カバーの活用設計が論点。
-- **AP1000 系・三菱重工 PWR 海外案件**: トルコ・東欧・中東への大型原子力輸出案件。JBIC + 政府保証 + 現地政府支援が組合さる典型ケース。
-- **H3 ロケット商業化**: JAXA 連携の H3 ロケットを商業打上市場に展開、衛星オペレーター契約 + 保険組成が必要。
-
-## 3. KPI (FY2024 連結)
+## 3. FY2025 スケール
 
 | 指標 | 値 | 出所 |
 |---|---|---|
-| 連結売上 | 約 4.7 兆円 | MHI 決算短信 |
-| 連結事業利益 | 約 2,800 億円規模 | 同上 |
-| 連結純利益 | 約 2,200 億円規模 | 同上 |
-| 連結総資産 | 約 6.5 兆円規模 | 同上 |
-| Aircraft, Defense & Space 売上 | 約 9,000 億円規模 | セグメント情報 |
-| Energy Systems 売上 | 約 1.7 兆円規模 | 同上 |
-| Plants & Infrastructure 売上 | 約 6,000 億円規模 | 同上 |
-| 受注残 (連結) | 約 6 兆円規模 (FY2024 末) | Integrated Report |
-| 防衛・宇宙関連受注 | 数千億円〜兆円規模 | セグメント情報 |
-| 海外売上比率 | 50% 超 | 同上 |
+| 受注高 | 7兆6,536億円 | MHI FY2025 results |
+| 売上収益 | 4兆9,741億円 | 同上 |
+| 事業利益 | 4,322億円 | 同上 |
+| 親会社所有者帰属利益 | 3,321億円 | 同上 |
+| 総資産 | 8兆2,697億円 | MHI Financial Report 2026 |
+| 連結従業員 | 78,793人 | MHI corporate profile |
 
-> KPI は MHI 「Integrated Report」「決算短信」「EDINET 有価証券報告書」を基準とする。防衛案件は秘匿性が高く、セグメント開示の粒度に制限あり。
+Sources: ^[MHI「FY2025 Financial Results」: https://www.mhi.com/finance/library/result/; MHI Financial Report 2026: https://www.mhi.com/finance/library/annual/pdf/report_2026_financial.pdf; MHI「Corporate Profile」: https://www.mhi.com/company/overview/profile.]
 
 ## 4. 戦略 (Energy Transition + Defense + Project Finance)
 
-- **エネルギートランジション**: 火力・原子力ベースから水素・アンモニア・洋上風力・SAF (持続可能航空燃料) に投資領域を広げる。資本効率を維持しながらカーボンニュートラル製品で長期受注を作る。
-- **防衛事業の規模拡大**: 2022 国家安全保障戦略・防衛力整備計画 (5 年で 43 兆円規模) を背景に、防衛事業セグメントを構造的に拡大。F-X / GCAP は次世代の柱。
-- **GCAP/GIGO 国際協業**: 英 BAE Systems・伊 Leonardo との合弁を通じて、防衛装備輸出市場に参入。GCAP International Government Organisation を 3 ヵ国政府が支援する枠組みで、商業金融組成というより政府間ファイナンスがベース。
-- **JBIC / NEXI 協調**: エネルギー・インフラ輸出は [[financial-regulators/jbic|JBIC]] 輸出金融 + [[policy-finance/nexi|NEXI]] 貿易保険のセットで進める。商業銀行 ([[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG]] / [[megabanks/mizuho-fg|みずほ FG]]) がシンジケート参加。
-- **物流・産業機器 captive 軽量化**: 三菱ロジスネクスト (フォークリフト) 等のグループ会社レベルでは vendor finance を 三菱HCキャピタル経由で組成し、本体財務の負担を軽減。
-- **キャッシュ・コンバージョン・サイクル (CCC) 改善**: 長期受注事業の特性上、運転資金が膨らみがちなため、サプライチェーンファイナンス・売掛 ABL を活用して CCC を改善。
+- **案件と資金提供者を分離**: MHI の受注・売上と、顧客・SPV・政府・金融機関の資金調達を同一視しない。
+- **GCAP の二層統治**: government side の GIGO / GCAP Agency と、industry side の Edgewing / 各国サプライチェーンを分ける。
+- **政策金融は案件証拠で記録**: JBIC / NEXI の制度一般論だけで、特定案件への利用を推定しない。
+- **連結範囲の更新**: 旧三菱ロジスネクストを現行 MHI consolidated business として扱わない。
 
 ## 5. 規制・政策
 
 - 上場会社として東証・金商法・会社法・IFRS の開示対象。
-- 防衛・宇宙・原子力・輸出管理 (外為法・METI 安全保障貿易管理) の重多重規制。
-- 防衛装備輸出は 2014 防衛装備移転 3 原則、2023 運用指針見直しの影響を受け、輸出可能領域が段階的に拡大。GCAP/GIGO のような国際共同開発案件は新運用の象徴。
-- 原子力輸出は IAEA セーフガード、輸出先国の原子力規制当局審査、政府間原子力協定 (123 協定 / 日本の二国間原子力協定) が必要。
-- グリーン分野では METI GX 推進法、JBIC GX 枠の活用余地が広がる。
+- 防衛・宇宙・原子力・輸出管理の事業規制と、銀行・保険・輸出信用機関にかかる金融規制を分ける。
+- GCAP は条約・各国予算・政府間機関・国際契約の公表を優先資料とする。
 
 ## Related
 
@@ -118,9 +87,12 @@ MHI は「銀行・保険を抱える型の captive」ではなく、「**輸出
 
 ## Sources
 
-- Mitsubishi Heavy Industries「Investor Information / Library」: https://www.mhi.com/jp/finance/library
-- Mitsubishi Heavy Industries「Financial Reports」: https://www.mhi.com/finance/library/financial
-- Mitsubishi Heavy Industries「Company」: https://www.mhi.com/company
+- Mitsubishi Heavy Industries「FY2025 Financial Results」: https://www.mhi.com/finance/library/result/
+- Mitsubishi Heavy Industries「Financial Report 2026」: https://www.mhi.com/finance/library/annual/pdf/report_2026_financial.pdf
+- Mitsubishi Heavy Industries「Corporate Profile」: https://www.mhi.com/company/overview/profile
+- Mitsubishi Heavy Industries「JAIEC to Start Operations」: https://www.mhi.com/news/240710.html
+- Mitsubishi Heavy Industries「2024 Medium-Term Business Plan Progress」: https://www.mhi.com/finance/library/plan/pdf/260527presentation.pdf
+- UK Ministry of Defence「£4.6 billion GCAP contract」: https://www.gov.uk/government/news/over-4-billion-invested-in-next-generation-fighter-jet-with-new-international-contract
 - JBIC: https://www.jbic.go.jp/en/
 - NEXI: https://www.nexi.go.jp/en/
 - EDINET (有価証券報告書): https://disclosure2.edinet-fsa.go.jp/
@@ -128,4 +100,4 @@ MHI は「銀行・保険を抱える型の captive」ではなく、「**輸出
 ---
 
 > [!info] 校正ステータス
-> confidence: **likely**。MHI IR / 決算短信 / EDINET / JBIC / NEXI 公式情報を基準に公開情報で構成。防衛・宇宙関連の数値は秘匿性が高く概数で記載。GCAP/GIGO・Sapphire の最終的なファイナンス組成は 2024-2026 時点で進行中、IR と政府発表で随時更新を要する。
+> confidence: **likely**。2026-07-29 時点の MHI 会社・FY2025 決算資料と日英政府の GCAP 公表を基準に校正。MHI の公式法人・報告セグメントと、FinWiki の案件金融分析ルートを分離した。個別輸出案件への JBIC / NEXI / 民間銀行の関与は、制度一般論から推定せず案件別の一次資料で追加確認する。

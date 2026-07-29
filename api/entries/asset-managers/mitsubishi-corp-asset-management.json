@@ -11,10 +11,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/asset-managers/mitsubishi-corp-asset-management.md",
   "raw_markdown_url": "https://finwiki.zksc.io/asset-managers/mitsubishi-corp-asset-management.md",
   "domain": "asset-managers",
-  "title": "三菱商事系アセットマネジメント (Mitsubishi Corp Asset Management arm)",
+  "title": "三菱商事・UBSリアルティ（現 KJR Management）",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "三菱商事系アセットマネジメント (Mitsubishi Corp Asset Management arm)",
+    "title": "三菱商事・UBSリアルティ（現 KJR Management）",
     "aliases": [
       "Mitsubishi Corp Asset Management",
       "Mitsubishi Corp-UBS Realty",
@@ -27,47 +27,48 @@
     "domain": "asset-managers",
     "type": null,
     "created": "2026-05-24",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-06-24",
-    "review_by": "2026-08-08",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
       "asset-management",
       "fiea-operator",
       "mitsubishi-corp",
+      "kkr",
+      "kjrm",
       "real-estate-am",
       "j-reit",
-      "group-am"
+      "corporate-history"
     ],
     "status": "active",
     "canonical_anchor": null,
     "related": [],
     "note": null,
     "sources": [
-      "三菱商事 (8058) 有価証券報告書 (関係会社一覧)",
-      "三菱商事 公式 IR / 統合報告書",
-      "FSA 金融商品取引業者一覧",
-      "EDINET 有価証券報告書検索",
-      "三菱商事 ニュースリリース: KKR・三菱商事・UBS が MC-UBSR 株式の KKR への譲渡に合意 (2022-03-17) https://www.mitsubishicorp.com/jp/ja/news/release/2022/0000048879.html",
-      "Wikipedia: KJRマネジメント (旧 三菱商事・ユービーエス・リアルティ、公開情報)"
+      "https://www.mitsubishicorp.com/jp/ja/news/release/2022/0000048879.html",
+      "https://media.kkr.com/news-details?download=1&news_id=6485532f-6180-415c-a8a0-9f89df61876f",
+      "https://www.kjrm.co.jp/company/mgmt/",
+      "https://www.kjrm.co.jp/about/inside/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx"
     ]
   },
-  "summary": "This entry sits under asset-managers INDEX. Read it against アセットマネジメントOne (the みずほ FG + 第一生命 JV AM, peer banking-system AM) and 三菱UFJアセットマネジメント (the MUFG 系列 AM). For the same-parent group-treasury arm, see 三菱商事FS. For broader 商社系金融 peer set: 三井物産FS / 住友商事FM / 伊藤忠ファイナンス / 丸紅フィナンス / 豊田通商フィナンス / 双日フィナン",
+  "summary": "This entry sits under asset-managers INDEX as a corporate-history route: Mitsubishi Corp.-UBS Realty (MC-UBSR) was sold in full to KKR in 2022 and renamed KJR Management. It is not a current Mitsubishi Corporation subsidiary. Keep it separate from 三菱UFJアセットマネジメント and 三菱UFJ信託銀行, which belong to MUFG,",
   "headings": [
-    "三菱商事系アセットマネジメント (Mitsubishi Corp Asset Management arm)",
+    "三菱商事・UBSリアルティ（現 KJR Management）",
     "Wiki route",
     "1. 会社概要",
-    "三菱グループ内の AM 機能配置",
-    "2. 事業セグメント・マップ",
-    "Peer / 競合",
+    "現在の法人グループ境界",
+    "2. 事業境界",
+    "J-REIT 運用会社の参照先",
     "group-treasury 機能との分業",
     "4. 規制・政策",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 20,
+    "wikilinks_count": 17,
     "wikilinks": [
       "asset-managers/INDEX",
       "asset-managers/asset-management-one",
@@ -77,10 +78,7 @@
       "financial-regulators/boj-monetary-policy",
       "financial-regulators/fsa-supervision-bureau",
       "leasing-firms/mitsubishi-hc-capital",
-      "life-insurers/dai-ichi-life",
-      "megabanks/mizuho-fg",
       "megabanks/mufg",
-      "securities/INDEX",
       "trading-company-finance/itochu-finance",
       "trading-company-finance/marubeni-financial-services",
       "trading-company-finance/mitsubishi-corp-finance",
@@ -99,10 +97,7 @@
       "https://finwiki.zksc.io/ja/financial-regulators/boj-monetary-policy/",
       "https://finwiki.zksc.io/ja/financial-regulators/fsa-supervision-bureau/",
       "https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/",
-      "https://finwiki.zksc.io/ja/life-insurers/dai-ichi-life/",
-      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
       "https://finwiki.zksc.io/ja/megabanks/mufg/",
-      "https://finwiki.zksc.io/ja/domains/securities/",
       "https://finwiki.zksc.io/ja/trading-company-finance/itochu-finance/",
       "https://finwiki.zksc.io/ja/trading-company-finance/marubeni-financial-services/",
       "https://finwiki.zksc.io/ja/trading-company-finance/mitsubishi-corp-finance/",
@@ -116,9 +111,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5617,
-    "word_like_tokens": 894,
+    "nonspace_chars": 5781,
+    "word_like_tokens": 955,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-24"
+    "last_modified": "2026-07-29"
   }
 }

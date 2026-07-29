@@ -3,14 +3,14 @@ title: "三井住友信託銀行 (SMTB)"
 aliases: ["SMTB", "Sumitomo Mitsui Trust Bank", "三井住友信託銀行", "三井住友信託銀行株式会社"]
 domain: trust-banks
 created: 2026-05-20
-last_updated: 2026-06-05
-last_tended: 2026-06-05
-review_by: 2026-11-20
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, bank, trust-bank, operating-company]
 status: active
 sources:
-  - "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
+  - "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf"
   - "https://www.smtb.jp/corporate/summary/"
   - "https://www.smtb.jp/about/corporate/outline"
 ---
@@ -25,7 +25,7 @@ This entry sits under [[trust-banks/INDEX|trust-banks INDEX]] (its domain route)
 
 三井住友信託銀行 (Sumitomo Mitsui Trust Bank, Limited, SMTB) は [[trust-banks/sumitomo-mitsui-trust|三井住友トラストグループ (三井住友トラスト・ホールディングス)]] の中核 trust-bank operating company。**銀行法の銀行免許に加え兼営法に基づく信託業務の兼営**を持つ信託兼営金融機関で、日本最大級の専業色の強い信託銀行グループの中心。名称は似ているが [[megabanks/smfg|SMFG / SMBC グループ]] とは**別グループ**であり、信託銀行分析ではこの境界が決定的に重要。
 
-## 1. License / group boundary
+## 1. License / group boundary ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; 三井住友信託銀行「会社概要」: https://www.smtb.jp/corporate/summary/]
 
 | Item | Notes |
 |---|---|

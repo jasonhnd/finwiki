@@ -26,9 +26,9 @@
     "domain": "manufacturer-finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "manufacturing",
@@ -50,6 +50,10 @@
       "https://www.mhi.com/jp/finance/library",
       "https://www.mhi.com/finance/library/financial",
       "https://www.mhi.com/company",
+      "https://www.mhi.com/finance/library/result/",
+      "https://www.mhi.com/news/240710.html",
+      "https://www.mhi.com/finance/library/plan/pdf/260527presentation.pdf",
+      "https://www.gov.uk/government/news/over-4-billion-invested-in-next-generation-fighter-jet-with-new-international-contract",
       "https://www.jbic.go.jp/en/",
       "https://www.nexi.go.jp/en/",
       "https://disclosure2.edinet-fsa.go.jp/"
@@ -60,13 +64,13 @@
     "Mitsubishi Heavy Export Finance (三菱重工 輸出金融プラットフォーム)",
     "Wiki route",
     "TL;DR",
-    "1. 会社構造と金融部門の位置",
-    "金融組成の位置 (プログラム別)",
-    "2. 製品 / 事業ライン × 輸出金融組成パターン",
-    "主要プログラム (2024-2026)",
-    "3. KPI (FY2024 連結)",
+    "1. 会社・分析境界",
+    "2. 案件別の金融確認ポイント",
+    "3. FY2025 スケール",
     "4. 戦略 (Energy Transition + Defense + Project Finance)",
-    "5. 規制・政策"
+    "5. 規制・政策",
+    "Related",
+    "Sources"
   ],
   "body_links": {
     "wikilinks_count": 16,
@@ -110,9 +114,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6898,
-    "word_like_tokens": 1058,
+    "nonspace_chars": 6309,
+    "word_like_tokens": 964,
     "inbound_wikilinks_count": 10,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-07-29"
   }
 }

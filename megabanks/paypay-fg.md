@@ -62,6 +62,8 @@ PayPay の公式会社概要は PayPay Card、PayPay Bank、PayPay Securities、
 | PayPay Securities Corporation | 75.3% | スマートフォン特化証券 | Financial segment |
 | SB Payment Service Corp. | 100.0% | 決済代行 | PayPay 公式 group-company list とは別の Financial segment 主体 |
 
+Sources: ^[SoftBank「FY2025 Results」p. 67: https://www.softbank.jp/en/corp/set/data/ir/documents/presentations/fy2025/investors/pdf/sbkk_investors_presentation_20260511_en.pdf; PayPay「Company Profile」: https://about.paypay.ne.jp/en/about/.]
+
 比率は SoftBank の 2026-03 期開示に基づく **SoftBank 側の連結議決権比率**であり、「PayPay Corporation が各社をこの比率で直接保有する」という意味ではない。([SoftBank, FY2025 results, p. 67](https://www.softbank.jp/en/corp/set/data/ir/documents/presentations/fy2025/investors/pdf/sbkk_investors_presentation_20260511_en.pdf))
 
 ## 3. 最新 KPI
@@ -75,6 +77,8 @@ PayPay の公式会社概要は PayPay Card、PayPay Bank、PayPay Securities、
 | PayPay consolidated GMV | 19.4 兆円 | FY2025、PayPay / Card / Bank の対象決済を内部取引消去後に集計 |
 | SoftBank Financial segment 売上高 | 4,045 億円 | FY2025 |
 | SoftBank Financial segment income | 863 億円 | FY2025 |
+
+Sources: ^[SoftBank「FY2025 Earnings Data Sheet」pp. 15, 19: https://www.softbank.jp/corp/set/data/ir/documents/presentations/fy2025/results/pdf/sbkk_earnings_datasheet_pdf_20260511.pdf; PayPay「本人確認済ユーザー4,000万人」: https://about.paypay.ne.jp/en/pr/20260318/02/; PayPay「登録ユーザー7,400万人」: https://about.paypay.ne.jp/en/pr/20260702/01/.]
 
 GMV と決済回数は同じ連結範囲ではない。SoftBank の data sheet は、GMV を PayPay Corporation、PayPay Card、PayPay Bank の対象決済を含む連結指標、決済回数を PayPay 単体指標として定義している。したがって両者を割って単純な「平均決済単価」を作ることはできない。([SoftBank FY2025 earnings data sheet, pp. 15, 19](https://www.softbank.jp/corp/set/data/ir/documents/presentations/fy2025/results/pdf/sbkk_earnings_datasheet_pdf_20260511.pdf); [PayPay, 2026-03-18](https://about.paypay.ne.jp/en/pr/20260318/02/))
 

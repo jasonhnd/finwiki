@@ -1,12 +1,12 @@
 ---
 source: manufacturer-finance/nissan-financial-services
-source_hash: e3e301bd88df2b19
+source_hash: b58be4ece16e6d8c
 lang: en
 model: claude-opus-4-8
 status: machine
 fidelity: ok
 title: "Nissan Financial Services (Nissan captive auto-finance arm / Nissan Motor Acceptance Company)"
-translated_at: 2026-06-05T00:00:00.000Z
+translated_at: 2026-07-29T00:29:28.090Z
 ---
 
 # Nissan Financial Services (日産系 captive auto-finance arm / Nissan Motor Acceptance Company)
@@ -17,7 +17,7 @@ This entry sits under [[manufacturer-finance/INDEX|manufacturing index]] and is 
 
 ## TL;DR
 
-The Nissan-camp captive auto-finance centers on **Nissan Motor Acceptance Company LLC (NMAC) in the Americas** and **domestic Nissan-camp auto credit/leasing**, an auto captive second in scale to the Toyota / Honda captives. From a manufacturing standpoint, the axes worth reading are **(1) the significance of Nissan Motor (Nissan Jidosha 7201) placing its finance in a consolidated subsidiary outside the parent; (2) the design that concentrates residual-value risk on the captive rather than the OEM parent; (3) the point that NMAC is a funding institution that regularly issues auto-loan and lease ABS in the US (connecting to [[structured-finance/auto-loan-abs-japan-toyota-honda|US / Japan auto-loan ABS]]); and (4) the point that the captive carries the floorplan (wholesale) credit on dealer inventory**. NMAC holds **Infiniti Financial Services (IFS)** as a division for the luxury brand, and together with Ford Motor Credit, Ally Financial, GM Financial, Toyota Motor Credit, and American Honda Finance forms the top tier of US auto captives.
+The Nissan-camp captive auto-finance centers on **Nissan Motor Acceptance Company LLC (NMAC) in the Americas** and the domestic **Nissan Financial Services Co., Ltd. (NFS)**. From a manufacturing standpoint, the axes worth reading are **(1) the significance of managing sales finance separately from manufacturing and sales; (2) the connection between retail / lease / inventory finance; (3) funding via corporate bonds, bank borrowings, and securitization; and (4) the Keepwell Agreement with the parent company**. Nissan continuously discloses the current structure and funding policy of its sales finance companies in its official IR.
 
 ## 1. Corporate structure and the manufacturing standpoint
 
@@ -28,9 +28,13 @@ The Nissan-camp captive auto-finance centers on **Nissan Motor Acceptance Compan
 | Former name / reorganization | Nissan Motor Acceptance Corporation → as of 2022-04-01 reorganized and renamed to a Delaware LLC, "Nissan Motor Acceptance Company LLC" (the former base was California) |
 | Luxury-brand division | Infiniti Financial Services (IFS) — a DBA / division of NMAC |
 | Americas oversight | Under Nissan North America, Inc. (NNA), supporting NNA's sales activities from a financial standpoint |
-| Securitization subsidiaries | Nissan Auto Receivables-line SPVs (NARC=1991, NARC II=2000, NARF=2002 established, all direct/indirect 100% subsidiaries of NMAC) |
-| Domestic captive | Nissan-camp auto credit and leasing (linked with the domestic sales-company network) |
+| Domestic captive | Nissan Financial Services Co., Ltd. (NFS, 100% Nissan-group ownership) |
+| Domestic captive's business | Auto credit, car leasing, cards, insurance agency, inventory finance |
+| Group finance | Nissan Group Finance Co., Ltd. (100% Nissan-group ownership) |
 | Main business | retail installment, leasing, dealer inventory finance (floorplan / wholesale) |
+| Credit support | NFS, NMAC, etc. have concluded a Keepwell Agreement with Nissan Motor |
+
+Sources: ^[Nissan「Major Subsidiaries and Affiliates in Japan」(2026-03-31): https://www.nissan-global.com/EN/COMPANY/PROFILE/SUBSIDIARY/; Nissan「Sales Finance Company」: https://www.nissan-global.com/EN/IR/STOCK/RATING_CORPORATE_BOND/SALES/; Nissan FY2025 Annual Securities Report: https://www.nissan-global.com/EN/IR/FINANCIAL_RESULTS/ASSETS/FR/2025/PDF/fr2025.pdf.]
 
 ### Group structure from a manufacturing standpoint
 
@@ -63,9 +67,11 @@ Nissan Motor Co., Ltd. (日産自動車 7201, 製造業本体)
 | Dealer inventory finance (floorplan / wholesale) | Americas, domestic | Dealer support, adjusting production and shipment timing |
 | Bundled auto insurance and extended warranty | Americas | Longer customer relationships |
 
+Sources: ^[Nissan「Major Subsidiaries and Affiliates in Japan」: https://www.nissan-global.com/EN/COMPANY/PROFILE/SUBSIDIARY/; Nissan「Sales Finance Company」: https://www.nissan-global.com/EN/IR/STOCK/RATING_CORPORATE_BOND/SALES/.]
+
 ### Connection to auto ABS
 
-NMAC is one of the major ABS issuers among US auto captives, securitizing Nissan's auto-loan and lease receivables through SPVs (the NARC / NARC II / NARF line). The structure in which the captive moves off-balance-sheet, via ABS, the auto receivables that would otherwise pile up on Nissan Motor's parent B/S, restraining the group's overall leverage, is common with the Toyota / Honda camps. Domestically in Japan, the Nissan camp is also an issuer in the auto-loan ABS market. For details, see [[structured-finance/auto-loan-abs-japan-toyota-honda|Auto-loan ABS Japan (Toyota / Honda / Nissan)]] and [[structured-finance/japan-auto-loan-abs-waterfall-mechanics|Japan auto-loan ABS waterfall mechanics]].
+Nissan explicitly states a policy of diversifying its sales finance companies' funding sources across capital markets, bank borrowings, and securitization of financial assets. Whether receivables are derecognized in accounting upon securitization depends on the requirements of the applicable standards; ABS issuance alone does not automatically achieve off-balance-sheet treatment. For details, see [[structured-finance/auto-loan-abs-japan-toyota-honda|Auto-loan ABS Japan (Toyota / Honda / Nissan)]] and [[structured-finance/japan-auto-loan-abs-waterfall-mechanics|Japan auto-loan ABS waterfall mechanics]].
 
 ## 3. Key metrics (qualitative + public-basis)
 
@@ -73,12 +79,13 @@ NMAC is one of the major ABS issuers among US auto captives, securitizing Nissan
 |---|---|---|
 | NMAC legal form | Delaware LLC (reorganized 2022-04-01) | NMAC company profile |
 | Luxury-brand division | Infiniti Financial Services (IFS) | Nissan USA / NMAC |
-| Securitization subsidiaries | NARC (1991) / NARC II (2000) / NARF (2002) | Nissan EMTN program disclosure |
-| Americas oversight | Nissan North America, Inc. (NNA) | Nissan IR |
-| Main competitors (US) | Ford Motor Credit, Ally Financial, GM Financial, Toyota Motor Credit, American Honda Finance | Industry reports |
-| Domestic | Nissan-camp auto credit and leasing | EDINET / Nissan IR |
+| Americas business | NMAC is responsible for the US sales finance business | Nissan IR |
+| Domestic business | NFS is responsible for auto credit, leasing, cards, insurance agency, and inventory finance | Nissan company profile |
+| Domestic ownership | NFS / Nissan Group Finance are both 100% Nissan-group owned | Nissan company profile |
+| Credit support | Keepwell Agreement between NFS, NMAC, etc. and Nissan Motor | Nissan IR / FY2025 securities report |
+| Funding policy | Diversified use of capital markets, bank borrowings, and securitization of financial assets | Nissan financial plan |
 
-> Specific consolidated total assets, receivable balances, and ABS issuance amounts are disclosed quarterly and annually in Nissan Motor's "Sales Financing business" segment disclosure and the securitization disclosure of NMAC / SPVs. This entry focuses on corporate structure, captive design, and the funding mechanism, and follows a policy of referring to primary sources for the highly volatile financial figures (prioritizing mechanism knowledge over fragile financial figures).
+Sources: ^[Nissan「Sales Finance Company」: https://www.nissan-global.com/EN/IR/STOCK/RATING_CORPORATE_BOND/SALES/; Nissan「Major Subsidiaries and Affiliates in Japan」: https://www.nissan-global.com/EN/COMPANY/PROFILE/SUBSIDIARY/; Nissan「Financial Plan」: https://www.nissan-global.com/EN/IR/STOCK/RATING_CORPORATE_BOND/PLAN/; Nissan FY2025 Annual Securities Report: https://www.nissan-global.com/EN/IR/FINANCIAL_RESULTS/ASSETS/FR/2025/PDF/fr2025.pdf.]
 
 ## 4. Strategy (Residual Value + EV + Brand-Split + Wholesale)
 
@@ -109,6 +116,9 @@ NMAC is one of the major ABS issuers among US auto captives, securitizing Nissan
 ## Sources
 
 - Nissan Motor Co., Ltd.「Investor Relations」: https://www.nissan-global.com/EN/IR/
+- Nissan「Major Subsidiaries and Affiliates in Japan」: https://www.nissan-global.com/EN/COMPANY/PROFILE/SUBSIDIARY/
+- Nissan「Sales Finance Company」: https://www.nissan-global.com/EN/IR/STOCK/RATING_CORPORATE_BOND/SALES/
+- Nissan「Financial Plan」: https://www.nissan-global.com/EN/IR/STOCK/RATING_CORPORATE_BOND/PLAN/
 - Nissan USA「Finance & Online Payment Options」: https://www.nissanusa.com/finance/financing-online-bill-payment-options.html
 - NMAC (Nissan Finance) アカウント管理ポータル: https://www.nissanfinance.com/s/
 - Nissan「EMTN Program」開示 (NMAC / NARC / NARC II / NARF 記載): https://www.nissan-global.com/EN/DOCUMENT/PDF/emtn_program_06.pdf
@@ -117,4 +127,4 @@ NMAC is one of the major ABS issuers among US auto captives, securitizing Nissan
 ---
 
 > [!info] Proofreading status
-> confidence: **likely**. Composed from public information based on NMAC's company profile, Nissan IR / EMTN program disclosure, and Nissan USA. That NMAC was reorganized and renamed to a Delaware LLC (Nissan Motor Acceptance Company LLC) as of 2022-04-01, operates Infiniti Financial Services as a luxury-brand division, holds the securitization subsidiaries NARC (1991) / NARC II (2000) / NARF (2002), and is under Nissan North America is confirmed from public materials. Because the consolidated financial figures and ABS issuance amounts are highly volatile, primary sources are referenced, and the text focuses on the captive structure, floorplan, and funding mechanism.
+> confidence: **likely**. As of 2026-07-29, re-verified Nissan's list of major affiliates as of 2026-03-31, the sales finance company page, the funding policy, and the FY2025 annual securities report. Removed the old EMTN SPV chronology and the unsubstantiated competitor rankings from the main tables.

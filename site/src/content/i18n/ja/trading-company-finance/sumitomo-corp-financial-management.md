@@ -1,11 +1,11 @@
 ---
 source: trading-company-finance/sumitomo-corp-financial-management
-source_hash: e19a7e42fc28795f
+source_hash: 42f381285a8d6048
 lang: ja
 status: machine
 fidelity: ok
 title: "住友商事フィナンシャルマネジメント（Sumitomo Corporation Financial Management）"
-translated_at: 2026-06-02T15:14:17.106Z
+translated_at: 2026-07-28T23:40:04.310Z
 ---
 
 # 住友商事フィナンシャルマネジメント（Sumitomo Corporation Financial Management）
@@ -14,13 +14,13 @@ translated_at: 2026-06-02T15:14:17.106Z
 
 この項目は [[trading-company-finance/INDEX|trading-company-finance INDEX]]に置かれる。比較対象として[[leasing-firms/smfl|SMFL]] （同一親会社系列の外向けリース・asset finance JVである[[megabanks/smfg|SMFG]]）と、最も近い同業である商社系group-treasury armの[[trading-company-finance/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]]を確認する。より広い同業群は[[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]]、[[trading-company-finance/itochu-finance|伊藤忠ファイナンス]]、[[trading-company-finance/marubeni-financial-services|丸紅フィナンス]]を参照し、規制上の境界は[[banking/INDEX|banking index]]を参照する。
 
-## 1. 会社概要
+## 1. 会社概要 ^[住友商事フィナンシャルマネジメント「会社情報」: https://ssfm.co.jp/company/]
 
 | 項目 | 注記 |
 |---|---|
 | ウィキ上の役割 | **住友商事グループの内向け金融**：CMS / グループファクタリング / グループファイナンス |
 
-### 住友グループ + SMFG 金融機能の配置
+### 住友グループ + SMFG 金融機能の配置 ^[住友商事フィナンシャルマネジメント「事業紹介」: https://ssfm.co.jp/field/; 住友商事 IR: https://www.sumitomocorp.com/ja/jp/ir]
 
 | 層 | 主体 | 役割 |
 |---|---|---|
@@ -30,7 +30,7 @@ translated_at: 2026-06-02T15:14:17.106Z
 | **外向け生損保** | [[non-life-insurers/mitsui-sumitomo-insurance|三井住友海上]] / [[life-insurers/sumitomo-life|住友生命]] | 損保 / 生保 |
 | **内向け / グループ金融** | **住友商事FM (本ページ)** | グループ各社の internal banking / CMS / 内部ファクタリング |
 
-## 2. 事業セグメント・マップ
+## 2. 事業セグメント・マップ ^[住友商事フィナンシャルマネジメント「事業紹介」: https://ssfm.co.jp/field/]
 
 | セグメント | 内容 |
 |---|---|
@@ -41,7 +41,7 @@ translated_at: 2026-06-02T15:14:17.106Z
 | **海外送金サービス** | グループ各社の海外向け送金・回収 |
 | **トレード・ファイナンス補助** | 住友商事本体の金属 / 輸送機・建機 / インフラ / メディア・デジタル / 生活・不動産 / 資源・化学品・エレクトロニクス 取引に紐づく与信補助 |
 
-### 競合 / Peer
+### 競合 / Peer ^[各親会社の有価証券報告書・公式 IR を横断した比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]
 
 | 商社 | 内向け金融子会社 | 外向けリース系 |
 |---|---|---|

@@ -22,9 +22,9 @@
     "domain": "trust-banks",
     "type": null,
     "created": "2026-05-22",
-    "last_updated": "2026-05-22",
-    "last_tended": "2026-05-22",
-    "review_by": "2026-11-22",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -38,7 +38,7 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx",
+      "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf",
       "https://www.sekisuihouse-trust.co.jp/company/",
       "https://www.sekisuihouse-trust.co.jp/trustmenu/procedure.html",
       "https://www.sekisuihouse.co.jp/library/company/topics/datail/__icsFiles/afieldfile/2017/07/28/20170727.pdf"
@@ -49,7 +49,7 @@
     "積水ハウス信託 (Sekisui House Trust)",
     "Wiki route",
     "Overview",
-    "Entity Boundary",
+    "Entity Boundary ^[金融庁の現行登録と積水ハウス信託会社情報: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://www.sekisuihouse-trust.co.jp/company/]",
     "Business Role Map",
     "Public Context",
     "Research Checklist",
@@ -82,9 +82,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3271,
-    "word_like_tokens": 515,
+    "nonspace_chars": 3390,
+    "word_like_tokens": 532,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-07-29"
   }
 }

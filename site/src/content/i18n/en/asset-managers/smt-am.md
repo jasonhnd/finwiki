@@ -1,11 +1,11 @@
 ---
 source: asset-managers/smt-am
-source_hash: 6f20ec5c65c73ea9
+source_hash: 4755437375daa2d9
 lang: en
 status: machine
 fidelity: ok
 title: "Sumitomo Mitsui Trust Asset Management (SMT-AM)"
-translated_at: 2026-06-15T03:48:21.837Z
+translated_at: 2026-07-29T00:12:29.769Z
 ---
 
 # Sumitomo Mitsui Trust Asset Management (SMT-AM)
@@ -26,9 +26,10 @@ Sumitomo Mitsui Trust Asset Management (SMT-AM) is the asset-management operatin
 | English name | Sumitomo Mitsui Trust Asset Management Co., Ltd. |
 | FSA registration | 関東財務局長(金商)第347号 |
 | FIEA scope | Type II Financial Instruments Business, Investment Advisory / Agency Business, Investment Management Business |
-| Parent boundary | [[trust-banks/sumitomo-mitsui-trust|SuMi TRUST]] 100% asset-management subsidiary |
-| Head office | Minato-ku, Tokyo |
+| Parent boundary | [[trust-banks/sumitomo-mitsui-trust|Sumitomo Mitsui Trust Group]] 100% |
+| Head office | 1-1-1 Shiba Park, Minato-ku, Tokyo |
 
+Sources: ^[FSA Registered financial-instruments-business-operators list: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx; Sumitomo Mitsui Trust Asset Management Company profile and shareholder composition: https://www.smtam.jp/institutional/company/outline/.]
 ## 2. Business role
 
 - SuMi TRUST's asset manager handling **publicly-offered investment trusts**, **discretionary investment management**, and **investment advisory**.
@@ -59,13 +60,15 @@ Sumitomo Mitsui Trust Group (SuMi TRUST · listed 8309)
 
 ## 5. Competitors / peers
 
-| Peer | Lineage | Differentiation axis |
+| Peer | Publicly-disclosed group / capital boundaries | Comparison category |
 |---|---|---|
-| [[asset-managers/mufg-asset-management|三菱UFJ AM]] | MUFG 100% | Comprehensive management of megabank + trust |
-| [[asset-managers/asset-management-one|アセマネOne]] | Mizuho + Dai-ichi Life JV | JV platform of bank / trust / insurance |
-| [[asset-managers/smd-am|三井住友DS AM]] | SMFG + Daiwa + Dai-ichi Life JV | JV of bank + securities + life insurance |
-| [[asset-managers/nomura-asset-management|野村アセット]] | Nomura-affiliated | Independence of a major-securities affiliate |
-| [[asset-managers/nikko-asset-management|日興アセット]] | Sumitomo Mitsui FG-affiliated | Securities-affiliated + Asia expansion |
+| [[asset-managers/mufg-asset-management|三菱UFJ AM]] | [[megabanks/mufg|MUFG]] group | Bank-group-affiliated AM |
+| [[asset-managers/asset-management-one|アセマネOne]] | Mizuho FG 70% / Dai-ichi Life HD 30% (voting rights 51% / 49%) | Bank / life insurance JV |
+| [[asset-managers/smd-am|三井住友DS AM]] | SMFG 50.1%, Daiwa Securities Group Head Office 23.5%, Sumitomo Mitsui Aioi Insurance 15.0%, Sumitomo Life 10.4%, Sumitomo Mitsui Trust Bank 1.0% | Multi-financial-group-invested AM |
+| [[asset-managers/nomura-asset-management|野村アセット]] | [[securities-firms/nomura-hd|Nomura group]] | Securities-group-affiliated AM |
+| [[asset-managers/nikko-asset-management|Amova AM (formerly Nikko AM)]] | [[trust-banks/sumitomo-mitsui-trust|Sumitomo Mitsui Trust Group]] | AM within same trust group |
+
+Sources: ^[Mitsubishi UFJ Asset Management company profile: https://www.am.mufg.jp/corp/about/gaiyou.html; Asset Management One company profile: https://www.am-one.co.jp/company/profile/; Sumitomo Mitsui DS Asset Management company profile: https://www.smd-am.co.jp/corporate/overview/; Nomura Asset Management company profile: https://www.nomura-am.co.jp/corporate/gaiyo/gaiyo.html; Amova Asset Management company profile: https://www.amova-am.com/about/outline.]
 
 ## Related
 
@@ -81,5 +84,5 @@ Sumitomo Mitsui Trust Group (SuMi TRUST · listed 8309)
 ## Sources
 
 - FSA, "Registered financial-instruments-business-operators list", `kinyushohin.xlsx` (public Excel list).
-- Sumitomo Mitsui Trust Asset Management Co., Ltd., "Company profile" (official corporate site).
+- Sumitomo Mitsui Trust Asset Management Co., Ltd., "Company profile and shareholders" (https://www.smtam.jp/institutional/company/outline/).
 - Sumitomo Mitsui Trust Group, "Group company list".
