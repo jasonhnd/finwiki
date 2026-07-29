@@ -10,9 +10,9 @@ aliases:
   - "全水共"
 domain: cooperative-banks
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-21
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, jf-group, cooperative-central, kyosai, mutual-insurance, fisheries-insurance, ja-kyosairen-peer]
 status: active
@@ -34,7 +34,7 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 
 ## TL;DR
 
-**JF 共水連 (全国共済水産業協同組合連合会) = JF (漁業協同組合) グループの共済事業中核**。水産業協同組合法を根拠とする **全国連合会**、JA グループでの [[non-life-insurers/ja-kyosairen|JA 共済連]] に相当する漁協系共済事業者。**会員 = 全国 JF (漁業協同組合) + 都道府県漁連**で、組合員 (漁業者・地域住民) 向けの **生命共済・年金共済・建物更生共済・自動車共済・漁船・漁業設備共済**等を提供。**JA 共済連 (200 兆円規模) に比べ規模は数 %〜10 % 程度** (漁業生産額が農業比小) だが、**漁業者向け固有共済 (漁船共済・漁業者災害共済等)** で独自性を持つ。JF グループの三本柱 ([[cooperative-banks/jf-zengyoren|JF 全漁連 = 代表 + 経済]] / **JF 共水連 = 共済 ★本ページ** / [[cooperative-banks/jf-shingyoren|JF 信漁連 = 信用]]) の中で **共済事業を専担**する全国連合会。^[extracted]
+**JF 共水連（全国共済水産業協同組合連合会）**は、水産業協同組合法を根拠に共済事業を行う全国連合会である。公式組織概要によると、全国の JF、漁業生産組合、水産加工業協同組合および各連合会等が会員となり、会員組合と共水連が共同で共済契約を引き受ける。2025-03-31 時点の会員数は 926。信用事業を行う JF の数や他制度の加入団体数と混同しない。 ^[Sources: https://www.kyosuiren.or.jp/about/kyosuiren/; https://www.kyosuiren.or.jp/assets/pdf/disclosure/disclosure_2025.pdf.]
 
 ## 1. 組織構造
 
@@ -44,20 +44,22 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 | 通称 | JF 共水連 / 共水連 / 全水共 |
 | 英名 | Kyosuiren / National Mutual Insurance Federation of Fishery Cooperative Associations |
 | 法的形態 | **水協法に基づく全国連合会** (共済事業連合会) |
-| 会員 | 全国 71 JF + 都道府県漁連 + 関連法人 |
-| 監督官庁 | **農林水産省** (主) + **金融庁** (協力監督) |
+| 会員 | 全国の JF、漁業生産組合、水産加工業協同組合およびこれらの連合会等（926 会員、2025-03-31） |
+| 根拠法 | 水産業協同組合法 |
 | Wiki role | **JF グループ共済中核 anchor** ([[non-life-insurers/ja-kyosairen|JA 共済連]] の漁協側 peer) |
+
+Sources: 組織形態、会員範囲、設立、所在地、会員数は JF 共水連の公式組織概要と「現況2025」に基づく。旧版の「71 JF」は信用事業実施主体の別集計を会員数と誤結合していたため撤回した。 ^[Sources: https://www.kyosuiren.or.jp/about/kyosuiren/; https://www.kyosuiren.or.jp/assets/pdf/disclosure/disclosure_2025.pdf.]
 
 ### 共済事業 vs 保険業法 (区別) ^[extracted]
 
 | 軸 | 保険会社 (生損保) | **JF 共水連 (共済)** ★本ページ | [[non-life-insurers/ja-kyosairen|JA 共済連 (peer)]] |
 |---|---|---|---|
 | 根拠法 | 保険業法 | 水産業協同組合法 | 農業協同組合法 |
-| 主管 | 金融庁 | 農水省 (水産庁) + 金融庁協力 | 農水省 + 金融庁協力 |
+| 制度根拠 | 保険業法 | 水産業協同組合法 | 農業協同組合法 |
 | 形態 | 株式会社 / 相互会社 | 連合会 (協同組織) | 連合会 (協同組織) |
 | 顧客 | 公衆 (open) | **JF 組合員 (漁業者・地域住民)** | JA 組合員 (農家・地域住民) |
 | 商品名 | 保険 | **漁業共済 / 一般共済** | 共済 |
-| 規模 | 大手 数十兆円 | **総資産 3,836 億円 / 保障金額 4.1 兆円** (2025-03 末) | 200 兆円規模 |
+| 数値の更新元 | 各社の法定・統合開示 | JF 共水連「現況」 | JA 共済連の現況・ディスクロージャー |
 
 ### JF グループ 3 大全国連合会 ^[extracted]
 
@@ -69,14 +71,16 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 
 注: JA グループでは代表 (全中) と経済事業 (全農) と共済 (共済連) と信用 (農林中金) が 4 分業されているが、JF グループでは **代表 + 経済を JF 全漁連が兼務** + **共済 = JF 共水連** + **信用 = JF 信漁連 + 農林中金** の構造 ^[extracted]
 
-### JA 共済連との対比 ^[extracted / inferred]
+### JA 共済連との対比
 
 | 軸 | [[non-life-insurers/ja-kyosairen|JA 共済連]] | **JF 共水連** ★本ページ |
 |---|---|---|
-| 規模 (保有契約高/保障金額) | **約 200 兆円規模** | **保障金額 4.1 兆円 / 総資産 3,836 億円** (2025-03 末) |
-| 会員 | 全国 497 JA + 都道府県農協 | 全国 71 JF + 都道府県漁連 |
-| 主力商品 | 建物更生共済 (建更) + 終身共済 + 年金共済 + 自動車共済 | **漁船共済 + 建更 + 終身共済 + 年金共済 + 自動車共済** |
-| 固有商品 | 建更 | **漁船共済 + 漁業者災害共済** (漁業特化) |
+| 根拠法 | 農業協同組合法 | 水産業協同組合法 |
+| 組織 | 農協系の共済全国連合会 | 水産業協同組合系の共済全国連合会 |
+| 会員数の更新元 | JA 共済連の基準日付き公式開示 | JF 共水連「現況」 |
+| 契約・資産数値の更新元 | JA 共済連の基準日付き公式開示 | JF 共水連「現況」 |
+
+Sources: 法制度・組織・数値は各連合会の基準日付き一次資料で別々に確認する。この表は規模順位や商品同一性を推定しない。 ^[Sources: https://www.kyosuiren.or.jp/about/kyosuiren/; https://www.kyosuiren.or.jp/assets/pdf/disclosure/disclosure_2025.pdf; https://www.ja-kyosai.or.jp/about/annual/.]
 
 ### 重要年表 ^[extracted / inferred]
 
@@ -90,10 +94,11 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 | 2010 年代 | **JF Marine Bank** ブランド統一化と並行、共水連も DX 推進 |
 | 2020〜 | コロナ禍 + 中国向け輸出停止 (2023〜) で漁業者共済需要変化 |
 
-### JA 共済連との規模対比
+### 比較時の注意
 
-- **JA 共済連 = 200 兆円規模 vs JF 共水連 = 数千億〜数兆円規模** = 漁業 vs 農業の経済規模差を反映
-- ただし **漁船共済等の固有商品**で民間損保との差別化を維持
+- 保障金額、総資産、受入共済掛金は異なる指標であり、同じ「規模」として混ぜない。
+- JF 共済、漁船保険、漁業共済など名称の近い制度は、根拠法と運営主体を確認して区別する。
+- JA 共済連との比較は、同じ基準日・同じ指標の公式開示が揃った場合だけ行う。
 
 ### 漁業者組合員特性
 
@@ -112,20 +117,15 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 | 総資産 | 3,836 億円 | 共水連「現況」2025 |
 | 出資金 | 53 億 3,000 万円 (2023-03 末) | 共水連 RECRUIT 組織概要 |
 | 会員数 | 926 会員 (2025-03 末) | 共水連「現況」2025 |
-| 会員 JF 数 (信用事業実施組合主体) | 71 JF | ^[extracted] |
 
-> 注: 数値は JF 共水連 公式「現況」(2025-03 末) 及び組織概要。総資産は 2023-03 末で 4,327 億円・保障金額 4.3 兆円であり、近年は漸減傾向。会員 926 は漁協系会員ベース、うち信用事業実施 JF 主体は 71。
+Sources: 保障金額、契約件数、受入共済掛金、支払共済金、総資産、会員数は JF 共水連「現況2025」の 2025-03-31 スナップショット、出資金は基準日を明示した公式組織概要に基づく。異年度値から傾向を断定しない。 ^[Sources: https://www.kyosuiren.or.jp/about/kyosuiren/; https://www.kyosuiren.or.jp/assets/pdf/disclosure/disclosure_2025.pdf; https://www.jf-kyosai.jp/about/.]
 
 ## 5. 監督・規制
 
-- **主管**: **農林水産省** (主) + **金融庁** (協力監督) + **水産庁** (漁業政策)
-- **法的根拠**: 水産業協同組合法 (共済事業条項) + 共済事業ガイドライン
+- **法的根拠**: 水産業協同組合法。監督権限や共管の表現は法令・所管官庁資料に基づいて更新し、類似する保険会社の監督関係から推定しない。
 - **直近政策論点**:
-  - **共済 = 保険の規制ギャップ** 議論 (JA 共済連と同論点)
-  - **経済価値ベース・ソルベンシー (ESR)** の共済への類似規制適用論
-  - **漁船共済法制度** の運用と JF 共水連の役割
-  - **食料安全保障計画 (2026〜)** での漁業共済の機能再定義
-  - **2018 漁業法改正** + 漁業者構造変化への対応
+  - 最新の共済規程、健全性指標、金融 ADR 対応を「現況」で追跡する。
+  - 漁船保険・漁業共済など別制度との境界を運営主体と根拠法で確認する。
 
 ## Related
 
@@ -159,4 +159,4 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 ---
 
 > [!info] 校核状態
-> confidence: **likely**。JF 共水連 公式「のご案内」「現況2025」+ JF 共済 RECRUIT 組織概要ベース。総資産 3,836 億円・保障金額 4.1 兆円・契約 47.4 万件・受入共済掛金 373 億円・会員 926 (いずれも 2025-03 末) は公式由来の確定値。2023-03 末は総資産 4,327 億円・保障金額 4.3 兆円・出資金 53.3 億円・職員 382 名。当初の「数千億〜数兆円規模」概数は公式数値 (総資産 約 3,800〜4,300 億円・保障金額 約 4 兆円) に置換。会員 926 は漁協系会員ベース、信用事業実施 JF 主体は 71。
+> confidence: **likely**。組織・会員数・KPI は JF 共水連の公式「ご案内」「現況2025」を基準日付きで使用した。旧版で混同していた 71 JF、未検証の共同監督、他制度の商品、JA 共済との規模順位は撤回した。

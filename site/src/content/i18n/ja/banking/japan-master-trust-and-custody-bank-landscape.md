@@ -1,17 +1,19 @@
 ---
 source: banking/japan-master-trust-and-custody-bank-landscape
-source_hash: c6a8b40acd246201
+source_hash: 0d1c00097edb5dfb
 lang: ja
-model: local-ja-business-term-glossary
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "日本のマスタートラスト・カストディ銀行の状況"
-translated_at: 2026-06-26T08:32:07.528Z
+translated_at: 2026-07-29T03:30:48.106Z
 ---
 
 # 日本のマスタートラスト・カストディ銀行の状況
 
-## 概観日本のマスタートラスト / カストディ銀行の状況は、二つのアンカーを持つ国内インフラ層である:[[trust-banks/master-trust-bank|Master Trust Bank of Japan]] と [[trust-banks/custody-bank|Custody Bank of Japan]]。これらは通常の意味での「投資家」ではなく、年金、投資信託、保険会社、資産運用会社、機関投資家のための資産管理銀行である。
+## 概要
+
+日本のマスタートラスト / カストディ銀行は、[[trust-banks/master-trust-bank|日本マスタートラスト信託銀行]] と [[trust-banks/custody-bank|日本カストディ銀行]] を 2 つの中核とする国内インフラ層である。両行は通常の意味での「投資家」ではなく、年金、投資信託、保険会社、運用会社、機関投資家の資産管理を担う銀行である。
 
 このページは [[banking/japan-trust-bank-custody-map|trust-bank カストディ map]]、[[securities/japan-stock-lending-market-route|stock lending market route]]、[[securities/japan-market-infrastructure-map|market infrastructure map]]、[[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]]、[[foreign-financial-institutions/state-street-japan|State Street Japan]] と併せて使うこと。
 
@@ -24,6 +26,8 @@ translated_at: 2026-06-26T08:32:07.528Z
 | [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]] | グローバルカストディ / 証券サービスグループ。 | グローバルカストディ、資産サービシング、外国人投資家のブリッジ。 |
 | [[foreign-financial-institutions/state-street-japan|State Street Japan]] | グローバルカストディ / 資産サービシンググループ。 | グローバルカストディと機関投資家サービスのブリッジ。 |
 | フルサービス信託銀行 | MUFG 信託、みずほ信託、SMTB、SMBC 信託。 | より広範な信託 / 相続 / 不動産 / 年金 / 証券代行機能。 |
+
+出典: 金融機関の種類、所有権、開示されている事業機能は、現在の MTBJ および CBJ の会社/事業ページおよび FSA 信託銀行リストから取得されています。グローバルカストディアンの争いは調査ルートであり、市場シェアを主張するものではありません。 ^[Sources: https://www.mastertrust.co.jp/company/information.html; https://www.mastertrust.co.jp/about/overview.html; https://www.custody.jp/corporate/information/index.html; https://www.custody.jp/recruit/aboutus/business.html; https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf.]
 
 ## 実際に何をするのか
 

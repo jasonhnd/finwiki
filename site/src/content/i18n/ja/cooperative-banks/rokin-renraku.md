@@ -1,20 +1,21 @@
 ---
 source: cooperative-banks/rokin-renraku
-source_hash: 44e90e38b292171e
+source_hash: 45a4a043fcd95f02
 lang: ja
+model: source-language-sync
 status: machine
 fidelity: ok
-title: "労働金庫連合会"
-translated_at: 2026-06-02T15:14:17.125Z
+title: "労働金庫連合会 (The Rokinren Bank)"
+translated_at: 2026-07-29T03:30:48.132Z
 ---
 
-# 労働金庫連合会
+# 労働金庫連合会 (The Rokinren Bank)
 
-## ウィキ上の位置づけ
+## Wiki route
 
-この項目は [[cooperative-banks/INDEX|cooperative-banks INDEX]] の配下に位置づける。同業・比較対象の文脈は [[megabanks/mufg|三菱 UFJ FG (MUFG)]] と照らし、より広い制度・規制上の境界は [[banking/INDEX|banking index]] を参照する。
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read it against [[megabanks/mufg|三菱 UFJ FG (MUFG)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
-## 要約
+## TL;DR
 
 労働金庫連合会は、全国 13 の労働金庫を会員とする「ろうきん」業態の中央金融機関。1955年設立、労働金庫法を根拠法とし、会員労金の資金需給調整、余裕資金運用、内国為替・財形貯蓄等の集中処理、業態統一オンラインシステム運用を担う。[[cooperative-banks/zenshin-kumi|全信組連]]・[[cooperative-banks/shinkin-central|信金中央金庫]] と並ぶ協同組織金融の中央機関。
 
@@ -30,6 +31,8 @@ translated_at: 2026-06-02T15:14:17.125Z
 | 設立 | 1955年3月23日 |
 | 会員 | 全国 13 の労働金庫 |
 | 所在地 | 東京都千代田区内神田 |
+
+Sources: [労働金庫連合会「労金連のプロフィール」](https://www.rokinren.com/about/profile.html)。
 
 公式プロフィールでは、2025-03-31 時点で資金量 6兆2,093億円、貸出金残高 9,925億円、自己資本比率 15.83% とされる。出資金は 1,600億円、常勤役職員数は 417人。
 
@@ -58,13 +61,13 @@ translated_at: 2026-06-02T15:14:17.125Z
 - 銀行法準用を含む開示・リスク管理・監督ルールの対象。
 - 金融庁・財務局監督下で、AML/CFT、サイバーセキュリティ、システムリスク管理が重要。
 
-## 関連項目
+## Related
 
 - [[cooperative-banks/zenshin-kumi|zenshin-kumi]] · [[cooperative-banks/shinkin-central|shinkin-central]] · [[cooperative-banks/norinchukin|norinchukin]]
 - [[banking/INDEX|banking INDEX]] · [[INDEX|FinWiki index]]
-- [[banking/rokin-bank-registry-japan]] — 労働金庫 13 金庫の登録索引
+- [[banking/rokin-bank-registry-japan]] — 労働金庫 13 金庫の registry index
 
-## 出典
+## Sources
 
 - 労働金庫連合会「労金連のプロフィール」: https://www.rokinren.com/about/profile.html
 - 労働金庫連合会「労金連の役割」: https://www.rokinren.com/about/our-roles.html
@@ -74,4 +77,4 @@ translated_at: 2026-06-02T15:14:17.125Z
 ---
 
 > [!info] 検証状況
-> confidence: **概ね確度あり**。公式プロフィールで名称・根拠法・設立・会員数・主要 KPI を確認。元 stub 名 `rokin-renraku` は非公式だが、既存リンク維持のため alias として残した。
+> confidence: **likely**。公式プロフィールで名称・根拠法・設立・会員数・主要 KPI を確認。元 stub 名 `rokin-renraku` は非公式だが、既存リンク維持のため alias として残した。

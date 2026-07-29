@@ -1,11 +1,12 @@
 ---
 source: banking/rokin-bank-registry-japan
-source_hash: 524d86204055aac3
+source_hash: a6b6024b5d0c88f1
 lang: en
+model: source-language-sync
 status: machine
 fidelity: ok
 title: "Japan rokin bank registry"
-translated_at: 2026-05-31T03:19:56.476Z
+translated_at: 2026-07-29T03:30:48.118Z
 ---
 
 # Japan rokin bank registry
@@ -29,6 +30,8 @@ This registry index captures the FSA public license list for Japan's labor-bank 
 | Licensed rokin banks | 13 |
 | Legal / institutional route | 労働金庫法 |
 | Wiki treatment | Registry index; standalone pages only for central institutions or strategically material exceptions |
+
+Sources: the as-of date, central row, and 13 rokin rows are read from the cited FSA workbook; counts are a snapshot and must be regenerated when that workbook changes. ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/rokin.xlsx; https://www.fsa.go.jp/menkyo/menkyo.html.]
 
 ## 2. Coverage decision
 

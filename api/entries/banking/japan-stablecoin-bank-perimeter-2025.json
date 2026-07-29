@@ -56,8 +56,8 @@
       "https://jpyc.co.jp/",
       "https://www.sbivc.co.jp/usdc",
       "https://www.hokkokubank.co.jp/other/news/2024/pdf/20240401a.pdf",
-      "https://www.businesslawyers.jp/articles/1476",
-      "https://www.fsa.go.jp/news/27/sonota/20151214-2.html"
+      "https://www.fsa.go.jp/news/27/sonota/20151214-2.html",
+      "https://www.fsa.go.jp/common/shinsei/denanchuukai/index.html"
     ]
   },
   "summary": "This entry sits under banking index as the bank-side perimeter view of the Japan stablecoin / electronic-payment-instrument (EPI) regulatory architecture. Read it with 日本 Stablecoin 法制度の三層構造 for the fintech-side perimeter view, with the platform anchor Progmat and the issuer anchors JPYC · SBI VC Tr",
@@ -67,7 +67,7 @@
     "TL;DR",
     "1. The three-layer perimeter",
     "Deposit token — within the standard bank deposit regime",
-    "Bank-issued EPI (預金型) — bridging deposit and broader circulation",
+    "Category-1 EPI issuance route",
     "Trust-type EPI (信託型) — the institutional-platform lane",
     "3. Issuer / distributor anchor map (2025–2026)",
     "Why platform-provider ≠ issuer",
@@ -139,8 +139,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 13216,
-    "word_like_tokens": 2117,
+    "nonspace_chars": 14555,
+    "word_like_tokens": 2308,
     "inbound_wikilinks_count": 4,
     "last_modified": "2026-07-29"
   }

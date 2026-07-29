@@ -1,12 +1,14 @@
 ---
 source: cooperative-banks/sendai-shinkin
-source_hash: d0a191dc0caebd8d
+source_hash: 2158a983fb523e9a
 lang: en
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "Mori no Miyako Shinkin Bank (Sendai-area / Tohoku leader shinkin)"
-translated_at: 2026-06-01T00:41:50.438Z
+translated_at: 2026-07-29T03:30:48.133Z
 ---
+
 # Mori no Miyako Shinkin Bank (Sendai-area / Tohoku leader shinkin)
 
 ## Wiki route
@@ -30,6 +32,8 @@ Mori no Miyako Shinkin Bank (Morishin, headquartered in Aoba-ku, Sendai) is a le
 | Home market | Sendai City and all of Miyagi Prefecture |
 | Wiki role | Tohoku / Miyagi Sendai metropolitan-area shinkin operating-company anchor page |
 | Supervisory bureau | Tohoku Local Finance Bureau |
+
+Sources: Check the current official name of Morinomiyako Shinkin Bank in the Financial Services Agency directory, and check the bank's official website for the history of the merger with the former Sendai Shinkin Bank, etc., and business areas. `sendai-shinkin` of slug is not treated as the current trade name. ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx; https://www.morisin.co.jp/.]
 
 ## 2. Operating model
 

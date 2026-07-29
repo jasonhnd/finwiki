@@ -1,12 +1,12 @@
 ---
 source: banking/custody-bank-operating-model
-source_hash: a6607c2c0b8adb23
+source_hash: bf77bc32d6e2c0db
 lang: ja
-model: local-ja-business-term-glossary
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "日本カストディ銀行の業務モデル"
-translated_at: 2026-07-28T18:19:40Z
+translated_at: 2026-07-29T03:30:48.097Z
 ---
 
 # 日本カストディ銀行の業務モデル
@@ -35,28 +35,26 @@ translated_at: 2026-07-28T18:19:40Z
 | Public AUC anchor | 受託信託財産総額約 ¥696 兆円（受託信託財産 + 常任代理契約等に基づく預り資産; うち 信託財産 ¥476兆円）、2025-03-31時点 |
 | Peer | [[trust-banks/master-trust-bank|Master Trust Bank of Japan (MTBJ)]] |
 
+出典: ^[CBJ company information, https://www.custody.jp/corporate/information/index.html; CBJ 2025 disclosure, https://www.custody.jp/data/disclosure/pdf/disclosure202507.pdf; FSA licensed-bank register, https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx.]
+
 ### 株主構成（公開開示、2020-07-27時点）
 
 | Shareholder | Stake | 読み方 |
 |---|---|---|
-| [[trust-banks/sumitomo-mitsui-trust|三井住友トラストグループ (SMTH)]] | 33.3% | 筆頭信託銀行株主; SMTB の年金／投信顧客基盤からマンデートフローを供給; 旧 JTSB 系統 |
-| [[megabanks/mizuho-fg|みずほフィナンシャルグループ (Mizuho FG)]] | 27.0% | 第二信託銀行株主（みずほ信託経由）; 旧 TCSB 系統 |
-| りそな銀行 (Resona Bank) | 16.7% | 第三位株主; TCSB 陣営における旧大和／あさひ信託系統 |
-| [[life-insurers/dai-ichi-life|第一生命保険]] | 8.0% | 生保株主; 特別勘定カストディおよび企業年金マンデートフローを供給 |
-| 朝日生命保険 | 5.0% | 生保株主（旧 TCSB） |
+| [[trust-banks/sumitomo-mitsui-trust|三井住友トラストグループ (SMTH)]] | 33.3% | CBJ上場株主 |
+| [[megabanks/mizuho-fg|みずほフィナンシャルグループ (Mizuho FG)]] | 27.0% | CBJ上場株主 |
+| りそな銀行 (りそな銀行) | 16.7% | CBJ上場株主 |
+| [[life-insurers/dai-ichi-life|第一生命保険]] | 8.0% | CBJ上場株主 |
+| 朝日生命保険 | 5.0% | CBJ上場株主 |
 | 明治安田生命保険 | 4.5% | 生保株主 |
 | かんぽ生命保険 | 3.5% | 生保株主 |
-| 富国生命保険 | 2.0% | 生保株主（旧 TCSB） |
+| 富国生命保険 | 2.0% | 生命保険会社の株主 |
 
-### なぜ専業カストディアンが一つではなく二つなのか
+出典: ^[CBJ company information, https://www.custody.jp/corporate/information/index.html. Shareholding does not by itself prove the source or allocation of customer mandates.]
 
-2020-07 合併は JTSB と TCSB を統合したが、MTBJ との合併までは至らなかった。一般的な解釈は以下のとおりである。
+### なぜ専門の管理者が 1 人ではなく 2 人なのか
 
-1. 株主間政治 — MUFG／生保軸と SMTB／みずほ／りそな／生保軸は、支配権を譲らない限り容易には統合しない。
-2. リスク集中 — 日本の機関投資家向け資産管理は単一のユーティリティに依存できない（オペレーショナルリスク ＋ カウンターパーティリスク ＋ 議決権集中）。
-4. コスト裁定 — 各陣営内の重複システム（SMTB／みずほ陣営内の JTSB 対 TCSB）は冗長であったが、陣営間の重複は競争上のチェック機能を生む。
-
-2020 合併は**陣営内**の統合を達成した。陣営間の統合（CBJ ＋ MTBJ）は未解決の問題として残っている。
+公式合併資料では、CBJを設立した2020年の合併が確立されています。調査された公的情報源には、CBJとMTBJが分離されたままである理由が記載されていないため、株主の政策、リスク集中、将来の統合などは会社が確認した説明として提示されるべきではない。
 
 ### 系統図
 
@@ -89,10 +87,12 @@ Mizuho / Resona / 生保 lineage
 | Segment | Core function | Typical client base | What it is not |
 |---|---|---|---|
 | **信託カストディ (Securities カストディ)** | 株式、JGB、社債、外国証券の保管; 振替登録; コーポレートアクション処理; 配当／利息受領; 税還付オペレーション | 年金プラン、アセットマネージャー、生保、日本のサブカストディアンを必要とする外国グローバルカストディアン | 自己勘定投資家ではない; 「信託口」名義人ラベルは記録管理上の構成物 |
-| **年金信託 (Pension trust administration)** | 厚生年金基金、DB、DC プランの信託契約 — 記録管理、資産保有者レポート、給付支払オペレーション | GPIF、大企業 DB プラン、DC プラン管理者 | 運用者ではない |
-| **投信受託 (Securities-investment-trust admin)** | 公募投信／私募投信の信託契約 — ファンド会計、NAV 計算、保有銘柄登録、分配処理 | CBJ を受託会社として用いるアセットマネージャー（とりわけ SMTB AM 関連、みずほ AM、りそな AM 関連） | ファンドマネージャーや販売会社ではない |
+| **年金信託（年金信託事務）** | 信託契約の管理・記録・報告・給付金支払業務 | 年金制度とその指定サービスプロバイダー | 投資マネージャーではありません |
+| **投信受託 (証券投資信託管理者)** | 信託契約に基づくファンド会計、基準価額計算、保有記録、分配金処理 | CBJを受託者として選任する資産運用会社 | ファンドマネージャーやディストリビューターではありません |
 | **特定金銭信託 (特金) ops** | 機関投資家／法人投資家向けの特金ビークル | 保険会社、法人、地方銀行 | 投資一任の運用者ではない |
 | **資産管理サービス (Master カストディ)** | 機関投資家向けマスターカストディ、複数マンデート統合、運用指図処理 | 大規模な複数マンデート資産保有者 | スポンサーではない |
+
+出典: ^[CBJ business overview, https://www.custody.jp/recruit/aboutus/business.html. The page describes service categories; it does not publish a customer-by-customer mandate list.]
 
 ### 業務機能の内訳
 
@@ -105,7 +105,7 @@ Mizuho / Resona / 生保 lineage
 | Fund accounting / NAV calculation | 投信マンデートの日次 NAV 計算; 投信協会基準 |
 | Corporate actions | 配当／利息受領、株式分割、ライツオファリング、転換; グローバルカストディアンのサブネットワーク経由の外国資産 CA |
 | Voting operations | 資産保有者／運用者の指図の機械的実行; ICJ 電子投票の転送 |
-| Sub-カストディ for foreign assets | 非日本資産について [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon]] / [[foreign-financial-institutions/state-street-japan|State Street]] / [[foreign-financial-institutions/jpmorgan-japan|JP Morgan]] / [[foreign-financial-institutions/citigroup-japan|Citi]] 経由でのリルーティング |
+| 外国資産のサブカストディ | 日本国外の資産について [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon]] / [[foreign-financial-institutions/state-street-japan|State Street]] / [[foreign-financial-institutions/jpmorgan-japan|JP Morgan]] / [[foreign-financial-institutions/citigroup-japan|Citi]] を経由するルート |
 | Member / participant ops | 年金加入者残高報告（DB／DC）、給付支払オペレーション |
 | Securities-lending support | 貸株プログラム管理（顧客がオプトインした場合）; 担保差入; リコール管理 |
 
@@ -116,9 +116,11 @@ CBJ の名義人名「日本カストディ銀行（信託口）」は、実質�
 | 読み方 | Interpretation |
 |---|---|
 | Legal record name | CBJ |
-| Beneficial owners | SMTB 側アセットマネージャー、みずほ側アセットマネージャー、りそな側アセットマネージャー、第一生命特別勘定、朝日／明治安田／富国生命の勘定、CBJ の外国サブカストディ顧客 |
-| Voting instruction source | 上流のアセットマネージャーまたは資産保有者 — CBJ ではない |
-| Underlying exposure type | 大部分はパッシブインデックス + アクティブ年金マンデート + 投信保有 |
+| 受益者 | 候補者の行だけでは特定できません。保有資産は基礎となる信託受益者または顧客のために管理されます |
+| 投票指示ソース | 該当する信託/投資管理協定によって決定されます。株主名簿だけでは特定できない |
+| 基礎となる暴露タイプ | 候補者の行だけでは特定できません |
+
+出典: ^[CBJ business overview, https://www.custody.jp/recruit/aboutus/business.html; issuer shareholder registers identify the nominee but generally do not disclose the underlying mandate.]
 
 ### vs MTBJ — 業務詳細の比較
 
@@ -130,43 +132,41 @@ CBJ の名義人名「日本カストディ銀行（信託口）」は、実質�
 | Public AUC anchor | ~¥696兆円 (2025-03-31; 受託信託財産総額) | ~¥770兆円 (2025-03-31; 管理資産残高) |
 | HQ location | 東京都中央区晴海 | 東京都港区浜松町 |
 | Legal-structure license | 銀行法 + 信託業法 (カストディ専業) | 銀行法 + 信託業法 (カストディ専業) |
-| Loans / deposits | None / minimal | None / minimal |
-| 不動産信託 | No | No |
-| Inheritance / 相続 trust | No | No |
-| PB / wealth | No | No |
-| Real-estate trust | No | No |
-| JASDEC direct | Yes (high volume) | Yes (high volume) |
-| BoJ JGB direct | Yes | Yes |
-| JSCC direct | Yes | Yes |
-| ICSD (Euroclear / Clearstream) direct | No (re-routed via globals) | No (re-routed via globals) |
-| GPIF custodian use | Yes (one of the resource pool) | Yes (one of the resource pool) |
+| 出版されたビジネスの焦点 | 資産の管理と保管 | 資産の管理と保管 |
+| 小売・PB・不動産サービス | レビューされた公式概要では事業分野として示されていない | レビューされた公式概要では事業分野として示されていない |
+| インフラへの参加 | JASDEC、JSCC、BoJ の現在の参加者リストで確認してください。 | JASDEC、JSCC、BoJ の現在の参加者リストで確認してください。 |
+| 指定された顧客の義務 | 包括的に開示されていない | 包括的に開示されていない |
 | Listing | Non-listed | Non-listed |
+
+出典: ^[CBJ company information and disclosure, https://www.custody.jp/corporate/information/index.html; MTBJ company information and FY2024 results, https://www.mastertrust.co.jp/about/overview.html, https://www.mastertrust.co.jp/assets/pdf/financial/zm20250521.pdf.]
 
 ### vs フルサービス信託銀行
 
 | 項目 | CBJ | Megabank full-service trust banks (MUFG Trust / SMTB / Mizuho Trust) |
 |---|---|---|
-| カストディ / 投信受託 | コア機能（ユーティリティ規模） | 内製で運営 + 処理は CBJ / MTBJ にしばしば委託 |
+| 保管・投信受託 | 公式に記載されたコアサービス | フルサービス銀行は独自の信託および保管サービスを公開しています。委任は委任ごとに証明されなければならない |
 | Real-estate trust | No | 主要事業ライン（不動産証券化、J-REIT） |
 | 相続 / 遺言 / PB | No | Yes — 重要なウェルスマネジメント収益 |
 | 不動産信託 + 信託受益権 (J-REIT) | No | Yes — 完全な処理 |
 | Securities agency (株式事務代行) | No | Yes |
 | Pension front-office (運用提案) | No | Yes |
-| DC service window | 限定的（管理のみ） | フロントオフィス + 管理 |
+| DCサービス窓口 | CBJの現在のサービス内容から確認する | 各銀行の現在のサービス内容から確認する |
 
-CBJ は**処理**を担い、その信託銀行株主は**顧客リレーション + フロントオフィスのマンデート**を担う。この垂直分業は意図的なものであり、信託銀行株主が CBJ を自らの連結業務に再び吸収していない理由である。
+出典: ^[CBJ business overview, https://www.custody.jp/recruit/aboutus/business.html; Trust Companies Association of Japan member and service information, https://www.shintaku-kyokai.or.jp/trust/trustbanks/.]
+
+CBJ の公開資料には資産管理処理について記載されています。彼らは、すべての株主顧客に対する普遍的なフロントオフィス/バックオフィスの割り当てを確立したり、株主の統合決定について説明したりしません。
 
 ### vs グローバルカストディアン
 
 | 項目 | CBJ | Global custodians (BNY Mellon / State Street / JPM / Citi Japan) |
 |---|---|---|
-| Primary asset universe | 国内日本資産 | クロスボーダー + 外国人投資家向け日本サブカストディ |
-| ICSD connectivity | 間接（グローバル経由） | 直接 |
-| Voting administration | Yes（機械的、ICJ 連携） | Yes（Broadridge 等経由） |
-| Pricing power on JP カストディ | 高（ユーティリティ規模） | 中（サブカストディプレミアム） |
-| Pricing power on foreign カストディ | 低（グローバルへサブロール） | 高 |
-| Regulatory base | FSA のみ | FSA + 本国規制当局（FRB / OCC / ECB / PRA） |
-| G-SIB status | No | 親会社四社すべてが G-SIB |
+| 公開事業内容 | 日本を拠点とする資産管理と保管 | 親グループがグローバルな証券サービス ネットワークを公開 |
+| 日本固有の AUC / 収益 | 公表された場合の実体開示 | 多くの場合、親会社の合計とは個別に開示されない |
+| ICSD / 市場接続性 | 現在のエンティティとインフラストラクチャの開示を通じて検証する | 現在のエンティティとインフラストラクチャの開示を通じて検証する |
+| 価格設定の義務化 | 一般料金表としては公表されていない | 日本単位の一般料金表としては公表されていない |
+| 規制基盤 | 日本の事業体は日本の監督の対象となる | 日本法人と該当する母国グループの監督 |
+
+出典: ^[CBJ company and business pages; FSA registers; official BNY, State Street, JPMorgan, and Citi securities-services disclosures listed in this entry.]
 
 ## 4. 手数料・収益構造
 
@@ -174,12 +174,14 @@ CBJ は詳細な手数料スケジュールを公開していない。パブリ�
 
 | Revenue line | Pricing basis | Public visibility |
 |---|---|---|
-| 年金信託管理手数料 | AUC bps（GPIF／大規模 DB 規模では非常に低い） | 個別項目レベルでは非開示（CBJ は詳細な手数料スケジュールを公表していない） |
-| 投信受託 admin fee | AUC bps — 通常 NAV の年間 0.01-0.05% | ファンドごとに信託約款で開示 |
-| Securities カストディ fee | アセットクラスごとの AUC bps + チケットごとの決済手数料 | 公開非開示 |
-| Voting / CA admin | 通常はカストディ手数料に包含 | 個別には非開示 |
-| Securities-lending agent fee | 受益者とのレベニューシェア | 個別には非開示 |
-| Cash-balance interest income | 低 | 個別には非開示 |
+| 年金信託事務 | 契約固有。企業全体の公定料金が設定されていない | 品目レベルでは開示されていない |
+| 投信受託行政 | ファンド固有の報酬は、各ファンドの法定文書で確認できます。 | CBJ全体の金利ではなく、ファンドごとに観察可能 |
+| 有価証券保管 | 契約固有の | 一般公共料金は特定されていない |
+| 投票・企業活動 | 検討された公開資料によって確立されていない契約の取り扱い | 個別に開示されていない |
+| 有価証券貸付 | 検討された公開資料によって確立されていない契約の取り扱い | 個別に開示されていない |
+| 自己勘定利息収入 | 銀行の財務諸表を通じてのみ報告される | 義務レベルの帰属なし |
+
+出典: ^[CBJ disclosure publications, https://www.custody.jp/data/; individual fund prospectuses and trust deeds for fund-specific trustee remuneration.]
 
 ### なぜ CBJ の手数料エコノミクスが MTBJ に酷似するのか
 
@@ -194,10 +196,12 @@ MTBJ + CBJ + メガバンク信託部門 + グローバルカストディアン�
 
 | Aspect | CBJ | MTBJ |
 |---|---|---|
-| アセットマネージャーに対する価格交渉力 | 高（ユーティリティ規模） | 高（ユーティリティ規模） |
-| 年金信託管理手数料の傾向 | 大規模マンデートで安定からやや圧縮 | 同じ |
-| 外国資産カストディ | グローバルからのパススルーコスト | グローバルからのパススルーコスト |
-| コスト側の規模 | 高い固定 IT コスト; マンデートあたり限界費用は非常に低い | 同じ — 両社ともユーティリティエコノミクスで運営 |
+| 公的委任料金 | 非開示 | 非開示 |
+| ファンド固有の受託者報酬 | 各ファンドの法定書類を確認する | 各ファンドの法定書類を確認する |
+| 事業体の財務実績 | CBJの法定開示 | MTBJの法定開示 |
+| 有効な公開比較 | ビジネス範囲、開示された AUC 定義、およびレポート範囲 | ビジネス範囲、開示された AUC 定義、およびレポート範囲 |
+
+出典: ^[CBJ and MTBJ official financial disclosures. Public materials do not support an entity-level pricing-power ranking.]
 
 ### 規制スタック
 
@@ -212,6 +216,8 @@ MTBJ + CBJ + メガバンク信託部門 + グローバルカストディアン�
 | スチュワードシップ / ガバナンス | スチュワードシップ・コード (voluntary) | 議決権行使管理の透明性; CBJ は顧客指図どおりに執行 |
 | データ / 個人情報 | 個人情報保護法, 金融分野ガイドライン | 年金加入者データ、NISA データ |
 
+出典: ^[FSA trust-business financial-institution list, https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; FSA bank supervisory guidance, https://www.fsa.go.jp/common/law/guide/city/.]
+
 ### 会計処理
 
 | Item | Treatment |
@@ -221,6 +227,8 @@ MTBJ + CBJ + メガバンク信託部門 + グローバルカストディアン�
 | 自己勘定預金 | オンバランスシート — 小規模 |
 | 決済口座の残余 | 短期; 現金 + 銀行預け金 |
 | のれん／合併会計 (2020) | JTSB + TCSB 合併で認識; 詳細は株主連結開示に記載 |
+
+出典: ^[CBJ 2020 and 2021 disclosure publications, https://www.custody.jp/data/disclosure/pdf/_disclosure2020.pdf, https://www.custody.jp/data/disclosure/pdf/_disclosure202101.pdf.]
 
 ### 合併会計に関する注記
 
@@ -319,4 +327,3 @@ CBJ (record-name trust-account)
 - JASDEC: securities book-entry and depository system materials.
 - JSCC: clearing and DVP cash-equity materials.
 - BoJ: JGB book-entry settlement system materials.
-- Wikipedia (cross-reference): 株式会社日本カストディ銀行, JTSB, TCSB historical entries. — CBJ 株主構成（2020-07-27 現在）：三井住友トラストグループ 33.3% / みずほ FG 27.0% / りそな銀行 16.7% / 第一生命 8.0% / 朝日生命 5.0% / 明治安田生命 4.5% / かんぽ生命 3.5% / 富国生命 2.0%。https://ja.wikipedia.org/wiki/日本カストディ銀行 （2026-05-30 確認。旧版の「SMTB ~46.5% / Mizuho ~27% / Daiwa-affiliated」の出資者表記を訂正。46.5% は日本マスタートラスト信託における MUFG 信託の比率の誤転記、Daiwa Securities は CBJ の株主ではなく正しくは りそな銀行 16.7%）

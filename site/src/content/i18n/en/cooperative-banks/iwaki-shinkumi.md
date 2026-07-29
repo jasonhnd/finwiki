@@ -1,11 +1,12 @@
 ---
 source: cooperative-banks/iwaki-shinkumi
-source_hash: a96c6795781be863
+source_hash: f86ea79ee2607af0
 lang: en
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "Iwaki Credit Cooperative (いわき信用組合)"
-translated_at: 2026-06-18T23:33:48.370Z
+translated_at: 2026-07-29T03:30:48.126Z
 ---
 # Iwaki Credit Cooperative (いわき信用組合)
 
@@ -77,6 +78,8 @@ In Fukushima Prefecture there are 4  credit cooperatives on the FSA registry (re
 | Number of members | 41,810 名 (2024-03-31) | Iwaki Shinkumi official cooperative overview |
 | Number of branches | 15 店 (2024-03-31) | Iwaki Shinkumi official cooperative overview |
 | Number of full-time officers and staff | 185 名 (2024-03-31) | Iwaki Shinkumi official cooperative overview |
+
+Sources: [Iwaki Credit Union “Overview”](https://www.iwaki-shinkumi.shinkumi.net/about-profile.html)（2024-03-31 Current) and [Official Disclosure Magazine List](https://www.iwaki-shinkumi.com/about-disk.html)。
 
 > Note: The above are confirmed figures based on the **Iwaki Credit Cooperative official "cooperative overview" (as of 2024 年 3 月 31 日)**. For the latest half-year/full-year figures, see the [Iwaki Shinkumi disclosure magazine](https://www.iwaki-shinkumi.com/about-disk.html) + [[banking/credit-cooperative-registry-japan|FSA信用組合免許一覧]].
 

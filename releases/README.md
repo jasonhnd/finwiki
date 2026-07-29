@@ -20,6 +20,7 @@
 - `v2026.07.29-9` は、Issue #224 の残存 15 low-marker warnings を公式一次資料で校正し、地域銀行 6、retail matrix 1、証券会社 6 の合計 13 target entries と ja / en mirrors を同期する release です。
 - `v2026.07.29-10` は、Issue #231 の table-related warnings 124 件を 6 domain / 73 source entries で公開一次資料と正式仕様へ校正し、ja / en 146 mirrors を同期する release です。
 - `v2026.07.29-11` は、Issue #232 の table-related warnings 168 件を asset manager、financial conglomerate、manufacturer finance、megabank、trading-company finance、trust bank の 89 source entries で公開一次資料へ校正し、ja / en 178 mirrors を同期する release です。
+- `v2026.07.29-12` は、Issue #233 の table-related warnings 146 件を banking / cooperative-banks の 69 source entries で公開一次資料へ校正し、法人・法令・数量級の誤りを修正して ja / en 138 mirrors を同期する release です。
 
 ### 個別には公開しない staging record
 
@@ -54,6 +55,7 @@ This registry makes the relationship among `releases/v*.md`, Git tags, and GitHu
 - `v2026.07.29-9` publishes Issue #224's official-primary-source corrections for the final 15 low-marker warnings, synchronizing six regional-bank entries, one retail matrix, six securities-firm entries, and their ja/en mirrors.
 - `v2026.07.29-10` publishes Issue #231's primary-source and formal-specification corrections for 124 table-related warnings across six domains and 73 source entries, synchronizing 146 ja/en mirrors.
 - `v2026.07.29-11` publishes Issue #232's public-primary-source corrections for 168 table-related warnings across 89 source entries in asset managers, financial conglomerates, manufacturer finance, megabanks, trading-company finance, and trust banks, synchronizing 178 ja/en mirrors.
+- `v2026.07.29-12` publishes Issue #233's public-primary-source corrections for 146 table-related warnings across 69 banking / cooperative-banks source entries, correcting entity, statute, and order-of-magnitude errors and synchronizing 138 ja/en mirrors.
 
 ### Staging records not published individually
 
@@ -88,6 +90,7 @@ The 6,127-line detailed timeline removed from the root `CHANGELOG.md` during the
 - `v2026.07.29-9` 发布 Issue #224 对最后 15 条 low-marker warnings 的官方一手资料校正，并同步 6 个区域银行 entries、1 个 retail matrix、6 个证券公司 entries 及其 ja / en mirrors。
 - `v2026.07.29-10` 发布 Issue #231 对 6 个 domains、73 个 source entries 中 124 条 table-related warnings 的官方一手资料与正式规范校正，并同步 146 份 ja / en mirrors。
 - `v2026.07.29-11` 发布 Issue #232 对 asset manager、financial conglomerate、manufacturer finance、megabank、trading-company finance 与 trust bank 六个 domains、89 个 source entries 中 168 条 table-related warnings 的公开一手资料校正，并同步 178 份 ja / en mirrors。
+- `v2026.07.29-12` 发布 Issue #233 对 banking / cooperative-banks 的 69 个 source entries 中 146 条 table-related warnings 的公开一手资料校正，修复法人、法令和数量级错误，并同步 138 份 ja / en mirrors。
 
 ### 不单独发布的 staging record
 

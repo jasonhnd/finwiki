@@ -1,12 +1,12 @@
 ---
 source: banking/master-trust-bank-operating-model
-source_hash: e469f3ba5b9cafd4
+source_hash: 521f4e7216623e82
 lang: ja
-model: local-ja-business-term-glossary
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "日本マスタートラスト信託銀行のオペレーティングモデル"
-translated_at: 2026-06-26T08:32:07.530Z
+translated_at: 2026-07-29T03:30:48.113Z
 ---
 
 # 日本マスタートラスト信託銀行のオペレーティングモデル
@@ -17,7 +17,7 @@ translated_at: 2026-06-26T08:32:07.530Z
 
 ## TL;DR
 
-日本マスタートラスト信託銀行（MTBJ — 日本マスタートラスト信託銀行）は、銀行法＋信託業法の二重ルートの下で免許を受けたカストディ専業の信託銀行であり、三菱UFJ信託（46.5%）、日本生命（33.5%）、明治安田生命（10%）、および農林中金系の信託銀行（10%）からなる四者コンソーシアムが保有する。そのオペレーティングモデルは、年金信託管理、証券投資信託管理、証券カストディという三つのコア機能を、JASDEC ＋ 日銀 JGB 直接決済のコアの上にまとめている。MTBJ は融資の実行、預金の受け入れ、リテールや PB 事業の運営を行わない。機関投資家向けのバックオフィスである。その名は、ほぼすべての上場企業の株主名簿の筆頭に「日本マスタートラスト信託銀行（信託口）」として現れるが、これは名義上のサーフェスであり、実質的所有者は、その委託を管理する GPIF、企業年金、大手アセットマネージャーである。CBJ と並んで、MTBJ は日本の二大国内カストディインフラを形成する。
+日本マスタートラスト信託銀行 (MTBJ — 日本マスタートラスト信託銀行) は、資産管理を専門とする信託銀行です。同社の公式プロフィールと財務情報開示は、株主構成、事業範囲、管理下にある開示資産を裏付けています。株主名簿の「信託口」行は、指名者の記録であり、それ自体では基礎となる受益者、管理者、委任、または投票指示を特定するものではありません。したがって、このページでは、指定された顧客フローや、義務レベルの一次情報源を使用しない価格設定権限の帰属を回避します。
 
 ## 1. 機関位置
 
@@ -32,17 +32,21 @@ translated_at: 2026-06-26T08:32:07.530Z
 | Primary regulator | 金融庁 (FSA) — bank supervision + trust-business supervision |
 | Industry body | 信託協会 (Trust Companies Association of Japan) |
 | Functional position | Asset-administration specialist (no loans, no deposits, no PB, no real-estate trust) |
-| Public AUC anchor | ¥823 trillion trust assets under カストディ (MTBJ official "私たちの仕事" page summary, of Japan's ¥2,351 trillion financial assets) |
+| 公開 AUC の基準値 | 信託資産 823 兆円を保管（MTBJ 公式「私たちの仕事」ページ；日本の金融資産 2,351 兆円の内数） |
 | Peer | [[trust-banks/custody-bank|カストディ銀行 of Japan (CBJ)]] |
+
+出典: ^[MTBJ company overview, https://www.mastertrust.co.jp/about/overview.html; MTBJ FY2024 results, https://www.mastertrust.co.jp/assets/pdf/financial/zm20250521.pdf; FSA licensed-bank register, https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx.]
 
 ### 株主構成（公開開示）
 
 | 株主 | 持分 | 読み解き |
 |---|---|---|
-| [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]] (MUFG グループ) | 46.5% | 主導的な事業会社株主；三菱側の委託フローと信託銀行のオペレーティング・ノウハウを提供 |
-| [[life-insurers/nippon-life|日本生命]] | 33.5% | 最大の生保株主；生命保険特別勘定のカストディに加え、企業年金の委託フローを提供 |
-| [[life-insurers/meiji-yasuda|明治安田生命]] | 10.0% | 第二の生保株主；生保側の委託基盤を補完 |
-| [[trust-banks/nochu-trust-bank|農中信託銀行]] (農林中金グループ) | 10.0% | 協同組織金融の株主；JA バンク／農林系の委託フローを提供 |
+| [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]] （MUFGグループ） | 46.5% | MTBJが上場している株主 |
+| [[life-insurers/nippon-life|日本生命]] | 33.5% | MTBJが上場している株主 |
+| [[life-insurers/meiji-yasuda|明治安田生命]] | 10.0% | MTBJが上場している株主 |
+| [[trust-banks/nochu-trust-bank|農中信託銀行]] （農林中央金庫グループ） | 10.0% | MTBJが上場している株主 |
+
+出典: ^[MTBJ company overview, https://www.mastertrust.co.jp/about/overview.html. Shareholding does not by itself establish the source or allocation of customer mandates.]
 
 ### なぜカストディ専業の信託銀行が存在するのか
 
@@ -56,11 +60,13 @@ translated_at: 2026-06-26T08:32:07.530Z
 
 | セグメント | コア機能 | 典型的な顧客基盤 | それが何でないか |
 |---|---|---|---|
-| **年金信託 (Pension trust administration)** | 厚生年金基金、確定給付企業年金 (DB)、確定拠出年金 (DC) のための信託契約 — 記録管理、資産オーナー向け報告、給付支払業務、加入者残高 | GPIF、大手企業 DB プラン、DC プラン（多くは DC スポンサー側の管理機関を通じて）、厚生年金基金 | 運用者ではない — 運用裁量は [[asset-managers/mitsubishi-ufj-asset-management|asset managers]] と資産オーナーの受託者にある |
-| **投資信託受託 (Securities-investment-trust admin)** | 公募投信および私募投信のための信託契約 — ファンド会計、NAV 計算、保有銘柄登録、分配処理、監査サポート | [[asset-managers/mitsubishi-ufj-asset-management|MUFG asset management arm]], [[asset-managers/nomura-asset-management|Nomura AM]], [[asset-managers/sbi-asset-management|SBI AM]]、MTBJ を受託銀行として用いるその他のアセットマネージャー | ファンドのスポンサーや販売会社ではない；ファンドマネージャーでもない |
+| **年金信託（年金信託事務）** | 信託契約に基づく記録の保管、報告、給付金の支払いおよび関連事務 | 年金制度とその指定サービスプロバイダー | 投資マネージャーではありません |
+| **投資信託受託（証券投資信託管理人）** | ファンド会計、基準価額計算、保有記録、分配金処理、監査支援 | MTBJを受託者として選任する資産運用会社 | ファンドのスポンサー、販売代理店、またはマネージャーではありません |
 | **有価証券カストディ (Securities カストディ)** | 株式、JGB、社債、外国証券の保管；振替登録；コーポレートアクション処理；配当／利金受領；税還付業務 | 年金プラン、アセットマネージャー、生保、日本のサブカストディアンを必要とする外国グローバルカストディアン | 自己勘定投資家ではない；「信託口」の名義ラベルは記録管理上の構成物である |
 | **議決権行使指図 (Voting administration)** | 資産オーナー／運用者の指図に従った機械的な議決権行使；ICJ 電子議決権行使プラットフォームへの接続；議決権行使助言会社（ISS／Glass Lewis）資料の取り扱い | アセットマネージャー、年金プラン、MTBJ をサブカストディアンとして用いる外国投資家 | 裁量的な議決権行使者ではない — MTBJ は独自の議決権行使意見を形成しない |
 | **特定金外信託 (Specified-money-trust ops)** | 企業財務および金融機関資産のための特別目的の投資信託ストラクチャー（特金） | 特金を投資ビークルとして用いる事業会社、地方銀行、保険会社 | 裁量的なアセットマネージャーではない |
+
+出典: ^[MTBJ official business overview, https://www.mastertrust.co.jp/business/asset-management.html. The reviewed page does not publish a comprehensive named-client mandate list.]
 
 ### オペレーティング機能の内訳
 
@@ -91,22 +97,23 @@ translated_at: 2026-06-26T08:32:07.530Z
 
 | レイヤー | 競合先 | MTBJ との重複 | 差別化 |
 |---|---|---|---|
-| 国内カストディ専業 | [[trust-banks/custody-bank|カストディ銀行 of Japan (CBJ)]] | ほぼ同一のプロダクトセット — 年金信託、投信受託、証券カストディ | 異なる株主キャンプ（SMTB ＋ みずほ ＋ 第一生命）と異なる委託基盤；両者が二強の国内インフラをアンカーする |
-| メガバンクのフルサービス信託銀行部門 | [[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]], [[trust-banks/sumitomo-mitsui-trust|SMTB]], [[trust-banks/mizuho-trust-bank|Mizuho Trust]] | フルサービス信託銀行も内部でカストディと年金信託を運営するが — 通常、資産管理レッグについてはバックオフィス処理を MTBJ／CBJ にオフロードする | フルサービス信託銀行は不動産信託、相続、PB、証券代行、議決権電子化サービスを加える；フロントオフィスの委託を獲得し、MTBJ／CBJ が処理を担う |
-| グローバルカストディアン（外国サブカストディチェーン） | [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]], [[foreign-financial-institutions/state-street-japan|State Street Japan]], [[foreign-financial-institutions/jpmorgan-japan|JP Morgan Japan]] | クロスボーダーカストディ、外国投資家の日本サブカストディ、日本委託向けの外国資産処理 | グローバル勢はクロスボーダーで優位；MTBJ は国内日本資産で優位；GPIF と投信の海外資産でチェーンが相互接続する |
+| 国内資産管理専門家 | [[trust-banks/custody-bank|日本管理銀行 (CBJ)]] | 公式資料には重複する資産管理サービスが記載されている | 公表されている事業範囲、AUCの定義、株主構成を比較する |
+| フルサービスの信託銀行 | [[trust-banks/mitsubishi-ufj-trust-bank|MUFG信託]], [[trust-banks/sumitomo-mitsui-trust|SMTB]], [[trust-banks/mizuho-trust-bank|みずほ信託]] | 公式資料には、より広範な信頼サービスが含まれています | 具体的な開示なしにアウトソーシングや顧客の割り当てを推測しないでください |
+| グローバルカストディアン | [[foreign-financial-institutions/bny-mellon-japan|BNYメロンジャパン]], [[foreign-financial-institutions/state-street-japan|ステート ストリート ジャパン]], [[foreign-financial-institutions/jpmorgan-japan|JPモルガン・ジャパン]] | 親グループがグローバルな証券サービス ネットワークを公開 | 日本固有の義務と経済状況は個別に開示されていないことが多い |
+
+出典: ^[MTBJ and CBJ official business pages; Trust Companies Association of Japan, https://www.shintaku-kyokai.or.jp/trust/trustbanks/; official global-custodian securities-services pages.]
 
 ### クロスキャンプ比較表
 
 | 次元 | MTBJ | CBJ | メガバンク信託銀行部門 | グローバルカストディアン（日本） |
 |---|---|---|---|---|
-| 融資／預金 | なし | なし | あり（フルサービス） | あり（支店＋日本信託サブ） |
-| 不動産信託 | なし | なし | あり（大規模） | なし |
-| 相続／PB | なし | なし | あり | 部分的（UHNW のみ） |
-| 年金信託管理 | あり（コア） | あり（コア） | あり（フロントオフィスの委託） | 部分的（外国資産側） |
-| 投信受託 | あり（コア） | あり（コア） | 限定的（多くは MTBJ／CBJ に外注） | 限定的 |
-| 証券のみのカストディ | あり（コア） | あり（コア） | あり | あり（外国向け日本サブカストディ） |
-| ICSD（Euroclear／Clearstream）直接 | グローバル経由で再ルーティング | グローバル経由で再ルーティング | グローバル経由で再ルーティング | 直接 |
-| 公開株主名簿の名義 | 「日本マスタートラスト信託銀行（信託口）」 | 「日本カストディ銀行（信託口）」 | 目立ちにくい — フルサービスブランド | 外国法人行の外国株主名義 |
+| 出版されたビジネスの焦点 | 資産管理 | 資産管理 | より広範な信頼サービス | グローバル証券サービス |
+| 事業体のAUC開示 | 発行者 MTBJ | CBJ が発行 | 定義と周長は異なります | 日本限定ではなく保護者レベルの場合が多い |
+| 指定された顧客の義務 | 包括的に開示されていない | 包括的に開示されていない | 包括的に開示されていない | 日本向けには包括的に開示されていない |
+| 一般義務料金表 | 非公開 | 非公開 | 非公開 | 日本部門については未発表 |
+| インフラストラクチャ接続 | 現在の参加者の開示情報で確認する | 現在の参加者の開示情報で確認する | 法人ごとに確認する | 法人ごとに確認する |
+
+出典: ^[Official entity, FSA, JASDEC, JSCC, and investor-relations publications listed in the frontmatter. Categories do not establish pricing or a customer relationship.]
 
 ## 4. 手数料・収益構造
 
@@ -114,11 +121,13 @@ MTBJ は粒度の細かい手数料スケジュールを公表していない。
 
 | 収益ライン | 価格設定の基礎 | 公開での可視性 |
 |---|---|---|
-| 年金信託管理手数料 | AUC bps（大規模な GPIF 規模の委託では通常きわめて低い） | 明細レベルでは非開示；MTBJ は非上場のため、手数料収益の総額はグループ／株主の連結開示からのみ推測可能 |
-| 証券カストディ手数料 | 資産クラスごとの AUC bps；チケットごとの決済手数料；資金管理スプレッド | 公開では非開示 |
-| 議決権行使管理／コーポレートアクション業務 | 通常カストディ手数料に組み込まれる | 個別には非開示 |
-| 証券貸借管理／エージェントレンダー手数料 | 実質的所有者との貸付収益のレベニューシェア | 個別には非開示 |
-| 現金残高の利息収入 | 低い — 短期の資金運用 | 個別には非開示 |
+| 年金信託事務 | 契約固有。企業全体の税率は確立されていない | 品目レベルでは開示されていない |
+| 有価証券保管 | 契約固有の | 一般公共料金は特定されていない |
+| 投票・コーポレートアクションの管理 | 検討された公開資料によって確立されていない契約の取り扱い | 個別に開示されていない |
+| 証券貸付管理 | 検討された公開資料によって確立されていない契約の取り扱い | 個別に開示されていない |
+| 自己勘定利息収入 | 銀行の財務諸表を通じて報告される | 義務レベルの帰属なし |
+
+出典: ^[MTBJ financial disclosures, https://www.mastertrust.co.jp/company/information.html; individual fund prospectuses and trust deeds for fund-specific trustee remuneration.]
 
 ### なぜ手数料は外部から読みにくいのか
 
@@ -131,10 +140,12 @@ MTBJ は粒度の細かい手数料スケジュールを公表していない。
 
 | 側面 | MTBJ／CBJ（国内専業） | メガバンク信託銀行部門 | グローバルカストディアン（日本） |
 |---|---|---|---|
-| 日本株式カストディの価格決定力 | 高（規模のユーティリティ） | 中（バックエンドに MTBJ／CBJ を使用） | 中（外国投資家サブカストディのプレミアム） |
-| 日本投信受託の価格決定力 | 高（ユーティリティ規模、低 bps 手数料） | 低（主要ファンドの受託会社になることは稀） | 低（日本投信受託会社になることは稀） |
-| 外国資産カストディの価格決定力 | 低（グローバル経由で再ルーティング） | 低 | 高（グローバル ICSD ＋ サブカストディネットワーク） |
-| 年金信託管理の価格決定力 | 高（特に GPIF 規模の委託） | 中〜高（フルサービスで競合） | 中（外国年金側の委託） |
+| 公的委任料金 | 非開示 | 非開示 | 日本部門については非開示 |
+| エンティティまたはセグメントの結果 | MTBJ / CBJの法定開示 | 上場親会社セグメントの開示 | 親会社の証券サービスの開示 |
+| 日本特有の顧客配分 | 包括的に開示されていない | 包括的に開示されていない | 個別に開示されないことが多い |
+| 有効な公開比較 | 事業範囲と一貫して定義された報告数値 | 事業範囲と一貫して定義された報告数値 | 事業範囲と一貫して定義された報告数値 |
+
+出典: ^[Official entity and parent disclosures. The reviewed public materials do not support a pricing-power ranking.]
 
 粒度の細かいクロスバンクの手数料比較については [[banking/trust-bank-fee-structure-comparison|trust bank fee structure comparison]] を参照。
 
@@ -151,6 +162,8 @@ MTBJ は粒度の細かい手数料スケジュールを公表していない。
 | スチュワードシップ／コーポレートガバナンス | スチュワードシップ・コード（任意のコード） | 議決権行使管理の透明性への期待 |
 | 記録管理／データ | 個人情報保護法、金融分野ガイドライン | 年金加入者データ、NISA 関連口座データ |
 
+出典: ^[FSA trust-business financial-institution list, https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; FSA bank supervisory guidance, https://www.fsa.go.jp/common/law/guide/city/.]
+
 ### 会計処理
 
 | 項目 | 処理 |
@@ -160,6 +173,8 @@ MTBJ は粒度の細かい手数料スケジュールを公表していない。
 | 預金（自己勘定預金） | オンバランスシート — ただし信託資産に対して小さい |
 | 決済勘定の残余残高 | 短期；現金＋銀行預け金に含まれる |
 | 資本 | 信託兼営銀行の法定最低資本＋内部バッファー |
+
+出典: ^[MTBJ financial disclosures, https://www.mastertrust.co.jp/company/information.html; FSA supervisory materials.]
 
 ## 6. JASDEC／清算インフラ接続
 
@@ -240,7 +255,7 @@ MTBJ (record-name trust-account) → global custodian (BNY / State Street / JPM 
 
 ## 出典
 
-- 日本マスタートラスト信託銀行：公式サイト、会社概要、事業／資産運用ページ（「私たちの仕事」 — 日本の ¥2,351 兆円の金融資産のうち ¥823 兆円の信託資産を保管していると記載：https://www.mastertrust.co.jp/about/overview.html）、会社情報ページ（資本金 ¥10億円；株主三菱UFJ信託 46.5%／日本生命 33.5%／明治安田 10.0%／農中信託 10.0%；営業開始 2000-05-09：https://www.mastertrust.co.jp/company/information.html）。
+- 日本マスタートラスト信託銀行：公式サイト、会社概要、事業 / 資産運用ページ（「私たちの仕事」 — 日本の金融資産 2,351 兆円のうち信託資産 823 兆円を保管していると記載：https://www.mastertrust.co.jp/about/overview.html）、会社情報ページ（資本金 100 億円；株主 三菱 UFJ 信託 46.5% / 日本生命 33.5% / 明治安田 10.0% / 農中信託 10.0%；営業開始 2000-05-09：https://www.mastertrust.co.jp/company/information.html）。
 - 信託協会：信託財産運用残高統計。
 - FSA：信託業金融機関一覧、銀行免許一覧。
 - JASDEC：証券振替・保管制度資料。

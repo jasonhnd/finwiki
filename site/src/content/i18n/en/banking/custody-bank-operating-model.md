@@ -1,11 +1,12 @@
 ---
 source: banking/custody-bank-operating-model
-source_hash: a6607c2c0b8adb23
+source_hash: bf77bc32d6e2c0db
 lang: en
+model: source-language-sync
 status: machine
 fidelity: ok
 title: "Custody Bank of Japan operating model"
-translated_at: 2026-07-28T18:19:40Z
+translated_at: 2026-07-29T03:30:48.098Z
 ---
 
 # Custody Bank of Japan operating model
@@ -18,7 +19,7 @@ This entry sits under [[banking/INDEX|banking index]]. Read it with the entity a
 
 Custody Bank of Japan (CBJ — 日本カストディ銀行) is an asset-administration bank created in July 2020 through the merger of JTC Holdings, Japan Trustee Services Bank, and Trust & Custody Services Bank. CBJ's current company profile lists Sumitomo Mitsui Trust Group (33.3%), Mizuho FG (27.0%), Resona Bank (16.7%), Dai-ichi Life (8.0%), and four other life insurers as shareholders; its recruiting disclosure describes more than JPY 710tn of assets under custody as of 2025-09. The FSA bank workbook lists CBJ in the trust-bank category, while CBJ's own business pages describe custody, settlement, accounting, reporting, securities lending, and institutional outsourcing. These sources support CBJ's scale and role, but do not by themselves establish that CBJ plus MTBJ hold a quantified majority of all Japanese institutional-custody volume, so this page does not present that comparison as a measured fact. ^[Sources: https://www.custody.jp/corporate/information/index.html; https://www.custody.jp/recruit/aboutus/about.html; https://www.custody.jp/recruit/aboutus/business.html; https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx.]
 
-## 1. Institutional position
+## 1. 機関位置
 
 | Field | CBJ |
 |---|---|
@@ -34,28 +35,26 @@ Custody Bank of Japan (CBJ — 日本カストディ銀行) is an asset-administ
 | Public AUC anchor | Approximately ¥696 trillion total assets under custody (受託信託財産 + 常任代理契約等に基づく預り資産; of which 信託財産 ¥476tn) as of 2025-03-31 |
 | Peer | [[trust-banks/master-trust-bank|Master Trust Bank of Japan (MTBJ)]] |
 
+Sources: ^[CBJ company information, https://www.custody.jp/corporate/information/index.html; CBJ 2025 disclosure, https://www.custody.jp/data/disclosure/pdf/disclosure202507.pdf; FSA licensed-bank register, https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx.]
+
 ### Shareholder structure (public disclosure, as of 2020-07-27)
 
 | Shareholder | Stake | Reading |
 |---|---|---|
-| [[trust-banks/sumitomo-mitsui-trust|三井住友トラストグループ (SMTH)]] | 33.3% | Lead trust-bank shareholder; provides mandate flow from the SMTB pension / 投信 client base; legacy JTSB lineage |
-| [[megabanks/mizuho-fg|みずほフィナンシャルグループ (Mizuho FG)]] | 27.0% | Second trust-bank shareholder (via Mizuho Trust); legacy TCSB lineage |
-| りそな銀行 (Resona Bank) | 16.7% | Third-largest shareholder; legacy 大和 / あさひ信託 trust lineage in TCSB camp |
-| [[life-insurers/dai-ichi-life|第一生命保険]] | 8.0% | Life-insurer shareholder; provides separate-account custody and corporate-pension mandate flow |
-| 朝日生命保険 | 5.0% | Life-insurer shareholder (legacy TCSB) |
+| [[trust-banks/sumitomo-mitsui-trust|三井住友トラストグループ (SMTH)]] | 33.3% | Shareholder listed by CBJ |
+| [[megabanks/mizuho-fg|みずほフィナンシャルグループ (Mizuho FG)]] | 27.0% | Shareholder listed by CBJ |
+| りそな銀行 (Resona Bank) | 16.7% | Shareholder listed by CBJ |
+| [[life-insurers/dai-ichi-life|第一生命保険]] | 8.0% | Shareholder listed by CBJ |
+| 朝日生命保険 | 5.0% | Shareholder listed by CBJ |
 | 明治安田生命保険 | 4.5% | Life-insurer shareholder |
 | かんぽ生命保険 | 3.5% | Life-insurer shareholder |
-| 富国生命保険 | 2.0% | Life-insurer shareholder (legacy TCSB) |
+| 富国生命保険 | 2.0% | Life-insurer shareholder |
+
+Sources: ^[CBJ company information, https://www.custody.jp/corporate/information/index.html. Shareholding does not by itself prove the source or allocation of customer mandates.]
 
 ### Why two specialist custodians, not one
 
-The 2020-07 merger consolidated JTSB and TCSB but stopped short of merging with MTBJ. The public reading is:
-
-1. Shareholder politics — the MUFG / 生保 axis vs the SMTB / Mizuho / Resona / 生保 axis would not consolidate easily without ceding control;
-2. Risk concentration — Japan's institutional asset-administration cannot rely on a single utility (operational risk + counterparty risk + 議決権 集中);
-4. Cost arbitrage — duplicate systems within each camp (JTSB vs TCSB inside the SMTB / Mizuho camp) were redundant, but inter-camp duplication produces a competitive check.
-
-The 2020 merger achieved the **intra-camp** consolidation. Inter-camp consolidation (CBJ + MTBJ) remains an open question.
+The official merger materials establish the 2020 combination that created CBJ. The reviewed public sources do not state why CBJ and MTBJ remain separate, so shareholder politics, risk concentration, and future consolidation should not be presented as company-confirmed explanations.
 
 ### Lineage diagram
 
@@ -88,10 +87,12 @@ Mizuho / Resona / 生保 lineage
 | Segment | Core function | Typical client base | What it is not |
 |---|---|---|---|
 | **信託カストディ (Securities custody)** | Safekeeping of equities, JGB, corporate bonds, foreign securities; book-entry registration; corporate-actions processing; dividend / interest receipt; tax reclaim ops | Pension plans, asset managers, life insurers, foreign global custodians needing a Japan sub-custodian | Not a proprietary investor; 「信託口」 nominee label is a recordkeeping construct |
-| **年金信託 (Pension trust administration)** | Trust contract for 厚生年金基金, DB, DC plans — recordkeeping, asset-owner reports, benefit-payment ops | GPIF, large corporate DB plans, DC plan administrators | Not the investment manager |
-| **投信受託 (Securities-investment-trust admin)** | Trust contract for 公募投信 / 私募投信 — fund accounting, NAV calc, holdings register, distribution processing | Asset managers using CBJ as 受託会社 (notably SMTB AM affiliates, Mizuho AM, Resona AM affiliates) | Not the fund manager or distributor |
+| **年金信託 (Pension trust administration)** | Trust contract administration, recordkeeping, reporting, and benefit-payment operations | Pension plans and their appointed service providers | Not the investment manager |
+| **投信受託 (Securities-investment-trust admin)** | Fund accounting, NAV calculation, holdings records, and distribution processing under the trust contract | Asset managers that appoint CBJ as trustee | Not the fund manager or distributor |
 | **特定金銭信託 (特金) ops** | 特金 vehicles for institutional / corporate investors | Insurers, corporates, regional banks | Not a discretionary asset manager |
 | **資産管理サービス (Master custody)** | Institutional master-custody, multi-mandate consolidation, investment-instruction processing | Large multi-mandate asset owners | Not the sponsor |
+
+Sources: ^[CBJ business overview, https://www.custody.jp/recruit/aboutus/business.html. The page describes service categories; it does not publish a customer-by-customer mandate list.]
 
 ### Operating-function breakdown
 
@@ -115,9 +116,11 @@ CBJ's nominee name 「日本カストディ銀行（信託口）」 appears in t
 | Reading | Interpretation |
 |---|---|
 | Legal record name | CBJ |
-| Beneficial owners | SMTB-side asset managers, Mizuho-side asset managers, Resona-side asset managers, 第一生命 separate accounts, Asahi / Meiji Yasuda / Fukoku Life accounts, foreign sub-custody clients of CBJ |
-| Voting instruction source | Upstream asset manager or asset owner — not CBJ |
-| Underlying exposure type | Largely passive index + active pension mandates + 投信 holdings |
+| Beneficial owners | Not identifiable from the nominee row alone; the holding is administered for underlying trust beneficiaries or customers |
+| Voting instruction source | Determined by the applicable trust / investment-management arrangement; the shareholder register alone does not identify it |
+| Underlying exposure type | Not identifiable from the nominee row alone |
+
+Sources: ^[CBJ business overview, https://www.custody.jp/recruit/aboutus/business.html; issuer shareholder registers identify the nominee but generally do not disclose the underlying mandate.]
 
 ### vs MTBJ — operating-detail comparison
 
@@ -129,56 +132,56 @@ CBJ's nominee name 「日本カストディ銀行（信託口）」 appears in t
 | Public AUC anchor | ~¥696tn (2025-03-31; total assets under custody) | ~¥770tn (2025-03-31; 管理資産残高) |
 | HQ location | 東京都中央区晴海 | 東京都港区浜松町 |
 | Legal-structure license | 銀行法 + 信託業法 (custody-only) | 銀行法 + 信託業法 (custody-only) |
-| Loans / deposits | None / minimal | None / minimal |
-| 不動産信託 | No | No |
-| Inheritance / 相続 trust | No | No |
-| PB / wealth | No | No |
-| Real-estate trust | No | No |
-| JASDEC direct | Yes (high volume) | Yes (high volume) |
-| BoJ JGB direct | Yes | Yes |
-| JSCC direct | Yes | Yes |
-| ICSD (Euroclear / Clearstream) direct | No (re-routed via globals) | No (re-routed via globals) |
-| GPIF custodian use | Yes (one of the resource pool) | Yes (one of the resource pool) |
+| Published business focus | Asset administration and custody | Asset administration and custody |
+| Retail / PB / real-estate services | Not presented as a business line on the reviewed official overview | Not presented as a business line on the reviewed official overview |
+| Infrastructure participation | Verify in the current participant lists of JASDEC, JSCC, and BoJ | Verify in the current participant lists of JASDEC, JSCC, and BoJ |
+| Named customer mandates | Not comprehensively disclosed | Not comprehensively disclosed |
 | Listing | Non-listed | Non-listed |
+
+Sources: ^[CBJ company information and disclosure, https://www.custody.jp/corporate/information/index.html; MTBJ company information and FY2024 results, https://www.mastertrust.co.jp/about/overview.html, https://www.mastertrust.co.jp/assets/pdf/financial/zm20250521.pdf.]
 
 ### vs full-service trust banks
 
 | Dimension | CBJ | Megabank full-service trust banks (MUFG Trust / SMTB / Mizuho Trust) |
 |---|---|---|
-| Custody / 投信受託 | Core function (utility-scale) | Run internally + often delegate processing to CBJ / MTBJ |
+| Custody / 投信受託 | Officially described core service | Full-service banks publish their own trust and custody services; delegation must be evidenced mandate by mandate |
 | Real-estate trust | No | Major business line (RE securitization, J-REIT) |
 | 相続 / 遺言 / PB | No | Yes — significant wealth-management revenue |
 | 不動産信託 + 信託受益権 (J-REIT) | No | Yes — full processing |
 | Securities agency (株式事務代行) | No | Yes |
 | Pension front-office (運用提案) | No | Yes |
-| DC service window | Limited (admin only) | Front office + admin |
+| DC service window | Confirm from CBJ's current service description | Confirm from each bank's current service description |
 
-CBJ does the **processing** while its trust-bank shareholders do the **client relationship + front-office mandate**. This vertical split is intentional and is the reason the trust-bank shareholders have not absorbed CBJ back into their consolidated operations.
+Sources: ^[CBJ business overview, https://www.custody.jp/recruit/aboutus/business.html; Trust Companies Association of Japan member and service information, https://www.shintaku-kyokai.or.jp/trust/trustbanks/.]
+
+CBJ's public materials describe asset-administration processing. They do not establish a universal front-office / back-office allocation for every shareholder customer or explain the shareholders' consolidation decisions.
 
 ### vs global custodians
 
 | Dimension | CBJ | Global custodians (BNY Mellon / State Street / JPM / Citi Japan) |
 |---|---|---|
-| Primary asset universe | Domestic Japan assets | Cross-border + foreign-investor JP sub-custody |
-| ICSD connectivity | Indirect (via globals) | Direct |
-| Voting administration | Yes (mechanical, ICJ-linked) | Yes (via Broadridge etc.) |
-| Pricing power on JP custody | High (utility scale) | Medium (sub-custody premium) |
-| Pricing power on foreign custody | Low (sub-rolled to globals) | High |
-| Regulatory base | FSA only | FSA + home-country regulator (FRB / OCC / ECB / PRA) |
-| G-SIB status | No | All four parents are G-SIBs |
+| Public business description | Japan-based asset administration and custody | Parent groups publish global securities-services networks |
+| Japan-specific AUC / revenue | Entity disclosure where published | Often not separately disclosed from parent totals |
+| ICSD / market connectivity | Verify through current entity and infrastructure disclosures | Verify through current entity and infrastructure disclosures |
+| Mandate pricing | Not published as a general tariff | Not published as a Japan-unit general tariff |
+| Regulatory base | Japanese entity is subject to applicable Japanese supervision | Japanese entity plus applicable home-country group supervision |
 
-## 4. Fees and revenue structure
+Sources: ^[CBJ company and business pages; FSA registers; official BNY, State Street, JPMorgan, and Citi securities-services disclosures listed in this entry.]
+
+## 4. 手数料・収益構造
 
 CBJ does not publicly disclose detailed fee schedules. The public-domain reading is:
 
 | Revenue line | Pricing basis | Public visibility |
 |---|---|---|
-| Pension trust administration fee | AUC bps (very low at GPIF / large-DB scale) | Not disclosed at line-item level (CBJ publishes no detailed fee schedule) |
-| 投信受託 admin fee | AUC bps — 0.01-0.05% / year of NAV typical | Disclosed per fund in 信託約款 |
-| Securities custody fee | AUC bps per asset class + per-ticket settlement fees | Not publicly disclosed |
-| Voting / CA admin | Typically bundled into custody fee | Not separately disclosed |
-| Securities-lending agent fee | Revenue share with beneficial owner | Not separately disclosed |
-| Cash-balance interest income | Low | Not separately disclosed |
+| Pension trust administration | Contract-specific; no entity-wide public rate established | Not disclosed at line-item level |
+| 投信受託 administration | Fund-specific remuneration can be checked in each fund's statutory documents | Observable fund by fund, not as a CBJ-wide rate |
+| Securities custody | Contract-specific | No general public tariff identified |
+| Voting / corporate actions | Contract treatment not established by the reviewed public material | Not separately disclosed |
+| Securities lending | Contract treatment not established by the reviewed public material | Not separately disclosed |
+| Own-account interest income | Reported only through the bank's financial statements | No mandate-level attribution |
+
+Sources: ^[CBJ disclosure publications, https://www.custody.jp/data/; individual fund prospectuses and trust deeds for fund-specific trustee remuneration.]
 
 ### Why CBJ fee economics resemble MTBJ closely
 
@@ -193,10 +196,12 @@ For granular MTBJ + CBJ + megabank trust-arm + global-custodian fee comparison s
 
 | Aspect | CBJ | MTBJ |
 |---|---|---|
-| Pricing power vs asset managers | High (utility scale) | High (utility scale) |
-| Pension trust admin fees trend | Stable to slightly compressing on large mandates | Same |
-| Foreign-asset custody | Pass-through cost from globals | Pass-through cost from globals |
-| Cost-side scale | High fixed-IT cost; per-mandate marginal cost very low | Same — both run utility economics |
+| Public mandate tariff | Not disclosed | Not disclosed |
+| Fund-specific trustee remuneration | Check each fund's statutory documents | Check each fund's statutory documents |
+| Entity financial result | CBJ statutory disclosure | MTBJ statutory disclosure |
+| Valid public comparison | Business scope, disclosed AUC definition, and reporting perimeter | Business scope, disclosed AUC definition, and reporting perimeter |
+
+Sources: ^[CBJ and MTBJ official financial disclosures. Public materials do not support an entity-level pricing-power ranking.]
 
 ### Regulatory stack
 
@@ -211,6 +216,8 @@ For granular MTBJ + CBJ + megabank trust-arm + global-custodian fee comparison s
 | Stewardship / governance | スチュワードシップ・コード (voluntary) | Voting-admin transparency; CBJ executes per client instruction |
 | Data / personal info | 個人情報保護法, 金融分野ガイドライン | Pension member data, NISA data |
 
+Sources: ^[FSA trust-business financial-institution list, https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; FSA bank supervisory guidance, https://www.fsa.go.jp/common/law/guide/city/.]
+
 ### Accounting treatment
 
 | Item | Treatment |
@@ -220,6 +227,8 @@ For granular MTBJ + CBJ + megabank trust-arm + global-custodian fee comparison s
 | Own-account deposits | On-balance-sheet — small |
 | Settlement-account residuals | Short-duration; cash + due-from-banks |
 | Goodwill / merger accounting (2020) | Recognized on JTSB + TCSB merger; specifics in shareholder consolidated disclosure |
+
+Sources: ^[CBJ 2020 and 2021 disclosure publications, https://www.custody.jp/data/disclosure/pdf/_disclosure2020.pdf, https://www.custody.jp/data/disclosure/pdf/_disclosure202101.pdf.]
 
 ### Merger-accounting note
 
@@ -318,4 +327,3 @@ CBJ (record-name trust-account)
 - JASDEC: securities book-entry and depository system materials.
 - JSCC: clearing and DVP cash-equity materials.
 - BoJ: JGB book-entry settlement system materials.
-- Wikipedia (cross-reference): 株式会社日本カストディ銀行, JTSB, TCSB historical entries. — CBJ 株主構成（2020-07-27 現在）：三井住友トラストグループ 33.3% / みずほ FG 27.0% / りそな銀行 16.7% / 第一生命 8.0% / 朝日生命 5.0% / 明治安田生命 4.5% / かんぽ生命 3.5% / 富国生命 2.0%。https://ja.wikipedia.org/wiki/日本カストディ銀行 （2026-05-30 確認。旧版の「SMTB ~46.5% / Mizuho ~27% / Daiwa-affiliated」の出資者表記を訂正。46.5% は日本マスタートラスト信託における MUFG 信託の比率の誤転記、Daiwa Securities は CBJ の株主ではなく正しくは りそな銀行 16.7%）

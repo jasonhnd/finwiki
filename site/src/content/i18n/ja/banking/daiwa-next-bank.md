@@ -1,25 +1,27 @@
 ---
 source: banking/daiwa-next-bank
-source_hash: 953cb62e7279a16d
+source_hash: 1f8e98718a685ef5
 lang: ja
-model: local-ja-business-term-glossary
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "大和ネクスト銀行事業プロファイル（大和ネクスト銀行）"
-translated_at: 2026-06-26T08:32:07.527Z
+translated_at: 2026-07-29T03:30:48.099Z
 ---
 
 # 大和ネクスト銀行事業プロファイル（大和ネクスト銀行）
 
-## ウィキ経路本エントリは [[banking/INDEX|banking index]] の配下に位置し、[[regional-banks/daiwa-next-bank|大和ネクスト銀行 entity anchor]] にあるエンティティ・アンカーに対する事業プロファイルの補完として置かれている。[[banking/japan-net-bank-competition-map|Japan net bank competition map]] のセグメントマップの中で読み、親コンテキストである [[securities-firms/daiwa-sg|Daiwa Securities Group]] および統合予定の [[trust-banks/orix-bank|Orix Bank]] ページとともに、証券隣接のネット銀行ピア [[banking/sony-bank|Sony Bank]] およびブローカー兼営銀行コホート [[banking/rakuten-bank|Rakuten Bank]]（[[securities-firms/rakuten-securities|Rakuten Securities]] にリンク）・[[banking/au-jibun-bank|au Jibun Bank]]（[[securities-firms/au-kabucom-securities|au Kabucom]] にリンク）・[[regional-banks/ssnb|SSNB]]（[[securities-firms/sbi-securities|SBI Securities]] にリンク）と対比しながら参照すること。ブローカー側の比較経路は [[securities/INDEX|securities index]] を、MRF（マネー・リザーブ・ファンド）と銀行スイープ預金メカニズムの統合は [[securities/japan-online-brokerage-competition|Japan online brokerage competition]] を通じて辿る。
+## Wikiルート
+
+このエントリは以下にあります [[banking/INDEX|銀行指数]] エンティティ アンカーのオペレーティング プロファイル コンパニオンとして [[regional-banks/daiwa-next-bank|大和ネクスト銀行 entity anchor]]。次のセグメント マップ内でそれを読み取ります。 [[banking/japan-net-bank-competition-map|ジャパンネット銀行競合マップ]]、親コンテキストは次のとおりです。 [[securities-firms/daiwa-sg|大和証券グループ]] そして統合されるべきもの [[trust-banks/orix-bank|オリックス銀行]] ページ、証券隣接ネットバンクピアに対して [[banking/sony-bank|ソニー銀行]] そして証券会社と銀行のコホート [[banking/rakuten-bank|楽天銀行]] (にリンクされています [[securities-firms/rakuten-securities|楽天証券]]) · [[banking/au-jibun-bank|auじぶん銀行]] (にリンクされています [[securities-firms/au-kabucom-securities|auカブコム]]) · [[regional-banks/ssnb|SSNB]] (にリンクされています [[securities-firms/sbi-securities|SBI証券]]）。ブローカー側コンパレーターのルートの場合 [[securities/INDEX|証券インデックス]] そして、MRF（マネーリザーブファンド）と銀行スイープ預金メカニズムの統合 [[securities/japan-online-brokerage-competition|日本オンライン証券コンテスト]].
 
 ## TL;DR
 
 大和ネクスト銀行（Daiwa Next Bank, Ltd.）は [[securities-firms/daiwa-sg|Daiwa Securities Group, Inc.]]（東証プライム 8601）の完全子会社の銀行子会社である。大和側における**証券・銀行ハイブリッド**のアンカーであり、[[regional-banks/ssnb|SSNB]]（SBI）、[[banking/au-jibun-bank|au Jibun Bank]]（KDDI / 三菱UFJ）、[[banking/rakuten-bank|Rakuten Bank]]（楽天証券隣接）のアーキテクチャ・パターンを写し取っている。そのフランチャイズは**ブローカレッジのキャッシュフローを銀行業へ統合すること**を中心に構築されており、大和証券口座とのスイープ預金連携と、外貨建て投信の販売を補完する多通貨預金サポートを備える。
 
-Deposit / account as-of date: **2026-03-31**。預金基盤は約 5.06 兆円（2,288 千口座にわたる 5,063.7 億円、円・外貨預金合算）で、主に大和証券口座顧客から構築されている。
+預金・口座の基準日：**2026-03-31**。預金基盤は約 5.06 兆円（2,288 千口座、円預金・外貨預金合計 5 兆 637 億円）で、主に大和証券の口座顧客から構築されている。
 
-ORIX Bank acquisition announcement / agreement date: **2026-04-27**。大和証券グループ / 大和ネクスト銀行は [[trust-banks/orix-bank|Orix Bank]] を完全子会社化する合意を発表し、グループの銀行側バランスシート、住宅ローン組成、信託銀行オプションを大幅に拡張した — これは 2011 の創業以来、大和ネクスト銀行にとって最も重大な戦略的動きである。^[extracted]
+オリックス銀行取引発表日: **2026-04-27**。大和証券グループ本社と大和ネクスト銀行は、大和ネクスト銀行が同社の発行済株式の全株式を取得する取引を発表した。 [[trust-banks/orix-bank|オリックス銀行]]。発表には取引の根拠と条件が記載されています。それは完成を確立するものではありません。したがって、このページでは、発表された構造、決算状況、およびその後の連結財務上の影響を個別に扱います。 ^[Source: https://www.bank-daiwa.co.jp/info/2026/pdf/0427_02.pdf.]
 
 ## 1. アイデンティティとグループ内ポジション
 
@@ -27,14 +29,17 @@ ORIX Bank acquisition announcement / agreement date: **2026-04-27**。大和証�
 |---|---|
 | 正式名称 | 株式会社大和ネクスト銀行 |
 | 英語名称 | Daiwa Next Bank, Ltd. |
-| 開業 | 2011-05 |
+| 設立 | 2010-04-01 |
+| オープニング | 2011-04-15 |
 | 銀行免許区分 | 普通銀行（銀行法に基づく普通銀行）、FSA「その他の銀行」に分類 |
 | 親会社 | [[securities-firms/daiwa-sg|Daiwa Securities Group, Inc. (TSE Prime 8601)]]（100%） |
-| 進行中の買収 | [[trust-banks/orix-bank|Orix Bank]] — オリックス銀行を大和ネクスト銀行 / 大和証券グループの完全子会社とする合意を 2026-04-27 に発表 ^[extracted] |
+| 発表された取引 | [[trust-banks/orix-bank|オリックス銀行]] — 大和ネクスト銀行による全株式取得は2026年4月27日に発表。完了は別途確認する必要があります |
 | ブローカレッジ姉妹会社 | [[securities-firms/daiwa-securities|大和証券]] — グループ内の主たるブローカレッジ事業会社 |
 | 本店 | 東京 |
 | チャネル・アーキテクチャ | 大和証券の支店を通じたアプリ + ウェブ + ブローカレッジ窓口のクロスタッチ |
 | 主管規制当局 | 金融庁（FSA） |
+
+出典: 身元、設立/開設日、所有権、ライセンスカテゴリーは、それぞれ大和ネクスト銀行の会社概要と金融庁認可銀行ワークブックによって裏付けられています。オリックス銀行の行には発表された取引のみが記録されており、買収が完了したものとして読み取ってはなりません。 ^[Sources: https://www.bank-daiwa.co.jp/about/company/profile/; https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx; https://www.bank-daiwa.co.jp/info/2026/pdf/0427_02.pdf.]
 
 ### 証券グループがなぜ銀行を設立したのか
 
@@ -42,13 +47,13 @@ ORIX Bank acquisition announcement / agreement date: **2026-04-27**。大和証�
 2. **ブローカレッジ商品とのクロスセル。** すでに投資について大和証券を信頼している顧客は、世帯の預金残高を大和ブランドの銀行へ移し、統合された資産形成クロスセルを可能にする。
 3. **エコシステム銀行による破壊への防衛。** [[banking/rakuten-bank|Rakuten Bank]]（[[securities-firms/rakuten-securities|Rakuten Securities]] にリンク）と [[regional-banks/ssnb|SSNB]]（[[securities-firms/sbi-securities|SBI Securities]] にリンク）は、銀行・ブローカー統合モデルを標準として確立した。自前の銀行を持たなければ、大和は自社顧客のブローカレッジ資金がそれらのエコシステムへ流出するリスクにさらされていただろう。
 
-### グループ構造（オリックス銀行買収完了後）
+### オリックス銀行との取引が完了した場合のグループ体制を発表
 
 ```
 Daiwa Securities Group, Inc. (TSE Prime 8601)
   ├── 大和証券 (Daiwa Securities, brokerage operating company)
-  ├── 大和ネクスト銀行 (this entry — net bank)
-  │     └── (planned) [[trust-banks/orix-bank|Orix Bank, Ltd.]] (wholly-owned subsidiary upon close of 2026-04-27 announced transaction) ^[extracted]
+  ├── 大和ネクスト銀行（本ページ — ネット銀行）
+  │ └── (発表済み、ここには完了として記載されていません) [[trust-banks/orix-bank|オリックス銀行株式会社]]
   ├── [[asset-managers/daiwa-asset-management|Daiwa Asset Management]]
   ├── [[trust-banks/daiwa-living-trust|Daiwa Living Trust]]
   └── Other group subsidiaries (PB, IB, IT, etc.)
@@ -76,10 +81,14 @@ Daiwa Securities Group, Inc. (TSE Prime 8601)
 
 ### 資産形成サポート本行のポジショニングは明示的に、決済頻度型バンキングではなく**資産形成サポート**である。
 
+この銀行のポジショニングは、支払い頻度を重視したバンキングではなく、明らかに**資産形成のサポート**です。
+
 - 自前の主要なクレジットカード・フランチャイズを持たない — 決済頻度型のプレーは戦略軸ではない。
 - 限定的な消費者向け貸出の商品セット — 大和証券が対象とする富裕層 / マスアフルエント顧客セグメントに集中。
 
 ### チャネル・アーキテクチャ：証券・銀行ハイブリッド純粋なオンライン・ネット銀行とは異なり、大和ネクスト銀行は3つのチャネルを通じて顧客に接触できる。
+
+純粋なオンラインネット銀行とは異なり、大和ネクスト銀行は次の 3 つのチャネルを通じて顧客と接触できます。
 
 | チャネル | 役割 |
 |---|---|
@@ -89,41 +98,43 @@ Daiwa Securities Group, Inc. (TSE Prime 8601)
 
 ### 何が発表されたか
 
-**2026-04-27**、大和証券グループ / 大和ネクスト銀行は [[trust-banks/orix-bank|Orix Bank, Ltd.]] を完全子会社化する合意を開示し、クロージングは規制当局の承認を条件とした。^[extracted]
+**2026-04-27**、大和証券グループ本社と大和ネクスト銀行は、大和ネクスト銀行が当社の発行済株式の全てを取得する決定を発表しました。 [[trust-banks/orix-bank|オリックス銀行株式会社]]。リリースには条件と計画されたスケジュールが記載されています。このページでは、トランザクションを完了したグループ構造に移行する前に、後で完了を開示する必要があります。 ^[Source: https://www.bank-daiwa.co.jp/info/2026/pdf/0427_02.pdf.]
 
 ### なぜこのディールが重要か
 
-1. **住宅ローン組成能力の追加。** 大和ネクスト銀行が自前では構築してこなかったもの。
-2. **銀行側資産ミックスの多様化。** ブローカレッジ連動預金や証券投資を超えて、不動産担保信用へ拡大。
-3. **信託銀行機能の提供。** オリックス銀行の信託商品を通じて [[trust-banks/daiwa-living-trust|Daiwa Living Trust]] を補完する。
-4. **連結銀行保有の預金基盤を大幅に増加させる。**
+取引リリースでは、当事者の既存のフランチャイズと意図された組み合わせが特定されます。ただし、完了およびクロージング後の開示が行われるまで、住宅ローン組成、信託活動、預金、収益および資本はそれぞれの法人に帰属したままになります。連結効果は、発表から予測するのではなく、決算後の日付入りの財務情報開示から取得する必要があります。
 
 ### 事業統合に関する論点
 
-- **単一の統合銀行** を一つの免許の下で（大和ネクスト銀行 + オリックス銀行が事業上統合）。
 - **姉妹銀行構造** を二つの免許で（オリックス銀行を大和証券グループの別個の事業子会社として維持し、住宅ローンと不動産ローンに特化）。
+- **姉妹銀行構造** 2 つのライセンスを持つ (オリックス銀行は、住宅ローンと不動産ローンに特化した大和証券グループの独立した事業子会社として存続)。
 - **フランチャイズ分割** — 預金と証券資金の管理を大和ネクストで、住宅ローンと不動産ローンを同一持株会社下のオリックス銀行で。
 
 この選択は公に確認されておらず、連結戦略にとって重要な未解決の論点である。
 
-## 4. KPI の形状大和ネクスト銀行は定期的な開示（銀行法で求められる標準的なディスクロージャー誌）を公表しており、KPI 更新は大和証券グループの四半期 IR サイクルの中で現れる。
+## 4. KPIの形状
 
-| 指標 | パターン |
-|---|---|
-| 預金残高 | 約 5.06 兆円（2026-03-31時点で 5,063.7 億円 / 2,288 千口座、円 + 外貨合算、オリックス銀行連結前）；ディール完了後は大幅に増加 |
-| 外貨預金比率 | ブローカレッジ連動の FX 商品の補完性を反映し、純粋な円建てネット銀行より高い |
-| 貸出残高 | 歴史的に控えめ；オリックス銀行連結により大幅に拡大 |
-| ROE | 単体ベースでは控えめ；証券グループのクロスセル経済から資本効率の便益を得る |
-| 自己資本 | 銀行法の最低水準を十分に上回る |
+大和ネクスト銀行は定期的なディスクロージャー誌（法銀行が要求する標準ディスクロージャー誌）を発行しており、KPI の更新は大和証券グループの四半期ごとの IR サイクルに掲載されます。
+
+| メトリック | 日付が記載された公的証拠 | 出版境界 |
+|---|---|---|
+| 預金残高・口座 | 2026 年 3 月 31 日時点の ¥5,063.7bn および 2,288 thousand アカウント。円預金と外貨預金を組み合わせたシリーズであり、グループ会社の預金も含まれます | ソースの定義と日付を保存します。完了および統合の開示前にオリックス銀行を追加しないでください |
+| 自己資本比率 | 2026 年 3 月 31 日の大統領メッセージでは約 21.9% | 開示された比率と測定日を引用します。ピア ランクには同じ日付、同じ定義のデータセットが必要です |
+| 外貨預金 | 銀行の定期開示資料および預金履歴資料に掲載 | 調整された比較セットなしでピアランキングを推測しないでください |
+| 借入金、ROE、収益の推移 | 大和ネクスト銀行開示資料、大和証券グループIRに掲載 | 単独の数値と将来の連結数値を分離してください |
+
+出典: KPI 表は日付が記載された証拠マップであり、取引の影響を予測するものではありません。 ^[Sources: https://www.bank-daiwa.co.jp/about/disclosure/transition/; https://www.bank-daiwa.co.jp/about/company/message/; https://www.bank-daiwa.co.jp/about/disclosure/.]
 
 ### 証券・銀行ハイブリッドコホート
 
-| グループ | 銀行 | ブローカレッジ | アーキテクチャ |
+| グループ | Bank | 仲介 | 比較するための公的証拠 |
 |---|---|---|---|
-| **大和証券グループ** | **大和ネクスト銀行** | 大和証券 | ブローカレッジを軸とした銀行；オリックス銀行連結により拡大中 |
-| 三井住友トラスト + SBI（旧住信SBI） | [[regional-banks/ssnb|SSNB / NEOBANK]] | [[securities-firms/sbi-securities|SBI Securities]] | 純粋オンライン + BaaS パートナー・アーキテクチャ |
-| KDDI + MUFG | [[banking/au-jibun-bank|au Jibun Bank]] | [[securities-firms/au-kabucom-securities|au Kabucom Securities]] | テレコムを軸としたエコシステム銀行・ブローカー連携 |
-| 楽天 | [[banking/rakuten-bank|Rakuten Bank]] | [[securities-firms/rakuten-securities|Rakuten Securities]] | コマースを軸としたエコシステム銀行・ブローカー連携 |
+| **大和証券グループ** | **大和ネクスト銀行** | 大和証券 | グループ所有権、銀行と代理店の関係、アカウントリンク商品条件、日付セグメント開示 |
+| 三井住友信託・SBI関連ルート | [[regional-banks/ssnb|SSNB / ネオバンク]] | [[securities-firms/sbi-securities|SBI証券]] | 現在の所有権、パートナー契約、アカウントリンク条件、および個別の法人の開示 |
+| KDDI・MUFG関連路線 | [[banking/au-jibun-bank|auじぶん銀行]] | [[securities-firms/au-kabucom-securities|auカブコム証券]] | 現在の所有権、アカウントリンク条件、および開示日 |
+| 楽天グループ路線 | [[banking/rakuten-bank|楽天銀行]] | [[securities-firms/rakuten-securities|楽天証券]] | 現在の所有権、アカウントリンク条件、および開示日 |
+
+出典: このコホートは調査ルートであり、ランキングではありません。所有権と製品の関係は、公開前に各企業の現在の公式開示で再確認する必要があります。 ^[Sources: https://www.bank-daiwa.co.jp/about/company/profile/; https://www.daiwa-grp.jp/ir/; https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx.]
 
 ### 大和ネクストが競合しない領域
 
@@ -140,7 +151,9 @@ Daiwa Securities Group, Inc. (TSE Prime 8601)
 | 持株グループ連結 | 金融商品取引法 + 銀行法持株会社ルール | 大和証券グループを通じた連結監督 |
 | 外貨預金 | FSA + 日銀統計 + AML | クロスボーダー AML が適用される |
 | 預金保険 | 預金保険機構 | 円預金の保護が適用される |
-| 進行中のオリックス銀行買収 | 銀行法第52条 + 独占禁止法審査 | FSA 承認と独占禁止法のクリアランスを条件とする |
+| オリックス銀行との取引を発表 | 取引の開示と該当する規制当局の承認 | ステータスと法人の境界は、後の正式な完了通知からのみ更新する必要があります |
+
+出典: 規制表は法的アドバイスではなく、ナビゲーションの概要です。ライセンスの分類は FSA ワークブックに基づいています。取引固有の条件とステータスは当事者のリリースから得られます。 ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx; https://www.bank-daiwa.co.jp/info/2026/pdf/0427_02.pdf; https://www.dic.go.jp/yokinsha/page_000134.html.]
 
 ## 関連
 
@@ -169,7 +182,8 @@ Daiwa Securities Group, Inc. (TSE Prime 8601)
 - 大和ネクスト銀行 コーポレートサイト（https://www.bank-daiwa.co.jp/）。
 - 大和ネクスト銀行 会社概要（https://www.bank-daiwa.co.jp/about/company/profile/）。
 - 大和ネクスト銀行 ディスクロージャー / プレスページ（https://www.bank-daiwa.co.jp/info/）。
-- 大和ネクスト銀行 口座数・預金残高の推移：2026-03-31時点で預金 5,063.7 億円 / 2,288 千口座、円 + 外貨合算（グループ会社預金を含む）（https://www.bank-daiwa.co.jp/about/disclosure/transition/）。
+- 大和ネクスト銀行 口座数・預金残高の推移：2026-03-31 時点で預金 5 兆 637 億円 / 2,288 千口座、円預金 + 外貨預金の合計（グループ会社預金を含む）（https://www.bank-daiwa.co.jp/about/disclosure/transition/）。
+- 大和ネクスト銀行 頭取メッセージ — 2026-03-31 預金・口座・自己資本比率スナップショット (https://www.bank-daiwa.co.jp/about/company/message/).
 - 大和証券グループ コーポレート / IR サイト（https://www.daiwa-grp.jp/、https://www.daiwa-grp.jp/ir/）。
-- 大和証券グループ / 大和ネクスト銀行のオリックス銀行買収に関する発表（2026-04-27）。
+- 大和証券グループ本社・大和ネクスト銀行によるオリックス銀行買収計画に関するお知らせ（2026-04-27、 https://www.bank-daiwa.co.jp/info/2026/pdf/0427_02.pdf).
 - FSA 免許銀行一覧（https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx）。

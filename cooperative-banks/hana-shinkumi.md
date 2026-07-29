@@ -7,9 +7,9 @@ aliases:
   - "하나신용조합"
 domain: cooperative-banks
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, shinkumi, credit-cooperative, cooperative-banking, kanto, tokyo, ethnic-business-finance, korean-shinkumi, chogin-successor, operating-company]
 status: active
@@ -19,7 +19,6 @@ sources:
   - "https://www.zenshinkumiren.jp/"
   - "https://www.dic.go.jp/"
   - "https://www.hanashinkumi.com/info/disclosure.php"
-  - "https://ja.wikipedia.org/wiki/ハナ信用組合"
   - "中小企業等協同組合法"
 ---
 # ハナ信用組合 (Hana Credit Cooperative)
@@ -91,19 +90,16 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as a *
 | **コミュニティ金融** | 教育・冠婚葬祭等の組合員向け生活資金 |
 | **資産運用相談** | 国債・投信窓販 (系統経由) |
 
-## 5. KPI
+## 5. KPI update route
 
-| 指標 | 値 | 出典 |
+| 公開項目 | 一次資料 | 掲載ルール |
 |---|---|---|
-| 総資産 | 約 3,533 億円 (2025-03-31) | Wikipedia (ディスクロージャー誌準拠) |
-| 純資産 | 約 177.7 億円 (2025-03-31) | 同上 |
-| 出資金 | 約 38.5 億円 (2025-03-31) | 同上 |
-| 預金残高 | 約 2,397 億円 (2022-03-31) | 同上 |
-| 貸出金残高 | 約 1,889 億円 (2022-03-31) | 同上 |
-| 従業員数 | 188 人 (2025-03-31) | 同上 |
-| 店舗数 | 17 店 | 同上 |
+| 総資産・預金・貸出金・出資金・純資産 | ハナ信用組合の最新ディスクロージャー誌 | 異なる基準年度の数値を一つのスナップショットに混在させない |
+| 自己資本比率・不良債権指標 | 同ディスクロージャー誌 | 指標定義と基準日を併記する |
+| 組合員・役職員・店舗 | 同組合の組織概要またはディスクロージャー誌 | 店舗網の基準日を明記する |
+| 法人番号・本店・登録管轄 | 金融庁の信用組合免許一覧 | 名簿の更新日を確認する |
 
-> 注: 組合員数は当組合ディスクロージャー誌を要参照。最新数値は [ハナ信組ディスクロージャー](https://www.hanashinkumi.com/info/disclosure.php) 参照。
+Sources: KPI はハナ信用組合の最新公式ディスクロージャー、法人識別情報は金融庁の信用組合免許一覧で更新する。旧版で基準年度を混在させていた二次資料由来 KPI は撤回した。 ^[Sources: https://www.hanashinkumi.com/info/disclosure.php; https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx.]
 
 ## 6. 監督・規制
 
@@ -131,7 +127,6 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as a *
 
 - **金融庁 信用組合免許一覧**: https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx (法人番号 4011005001243, registry No. 53)
 - **ハナ信用組合 ディスクロージャー**: https://www.hanashinkumi.com/info/disclosure.php
-- **Wikipedia「ハナ信用組合」** (財務諸数値・設立経緯・承継元朝銀 5 組合・公的資金約 4,000 億円・商号由来): https://ja.wikipedia.org/wiki/ハナ信用組合
 - **全国信用組合中央協会**: https://www.shinyokumiai.or.jp/
 - **全信組連 (全国信用協同組合連合会) 公式**: https://www.zenshinkumiren.jp/
 - **預金保険機構 公式**: https://www.dic.go.jp/
@@ -142,4 +137,4 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as a *
 ---
 
 > [!info] 校核状態
-> confidence: **likely**。FSA registry 由来の法人番号・registry No.・本店所在地は ^[extracted] (公開情報)。総資産・預金・貸出金・出資金・従業員数・店舗数 KPI は Wikipedia (ディスクロージャー誌準拠) で出典付与済み (組合員数のみ要参照)。設立経緯・承継元朝銀 5 組合・公的資金規模・商号「ハナ」の由来も Wikipedia で出典付与済み。朝銀系再編後の代表的受け皿信組として Wave 13 拡張で追加。
+> confidence: **likely**。法人番号・登録管轄・本店所在地は金融庁名簿、最新 KPI は公式ディスクロージャー誌を根拠とする。沿革・承継・公的資金の記述は預金保険機構等の一次資料で項目ごとに再確認する必要があり、旧版の二次資料由来 KPI は削除済み。

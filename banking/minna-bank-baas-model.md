@@ -7,9 +7,9 @@ aliases:
 domain: "banking"
 kind: knowledge
 created: 2026-04-18
-last_updated: 2026-05-19
-last_tended: 2026-05-19
-review_by: 2026-11-15
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [banking, baas, embedded-finance, minna-bank]
 status: active
@@ -39,6 +39,8 @@ This entry sits under [[banking/INDEX|banking index]]. Read it against [[banking
 | パートナー支店モデル | A branch with partner branding is created inside Minna Bank's banking structure | The partner's users see a branded banking front, such as メルカリ支店 | [[banking/mercari-bank|Mercari Bank]], pixiv / DMM / ignica / and ST cases |
 | Hybrid | Partner branch plus API integration | Branded branch + seamless fund movement / account information inside the partner app | Mercari / Merpay × Minna Bank |
 
+Sources: Minna Bank's official BaaS and partner-branch pages define the first two models; the Mercari/Hybrid row is scoped to the cited joint launch release. Current partner status must be rechecked on the official alliance page. ^[Sources: https://baas.minna-no-ginko.com/; https://baas.minna-no-ginko.com/service/branches/; https://www.minna-no-ginko.com/alliance-service/; https://corporate.minna-no-ginko.com/common/pdf/news/2025/12/18/newsrelease_media_1218_01.pdf.]
+
 ## Strategic read
 
 みんなの銀行の BaaS は、ネット銀行の「口座獲得」を自社アプリ単独ではなく、非金融サービスの顧客基盤へ外部化する戦略。FFG / みんなの銀行側の資料では、BaaS パートナー経由の口座獲得を増やし、B2C 口座と BaaS 口座の比率を将来的に反転させる方向性が示されている。
@@ -56,6 +58,8 @@ This entry sits under [[banking/INDEX|banking index]]. Read it against [[banking
 | Account | 誰が預金契約の主体か |
 | Instruction | 誰が資金移動や口座操作の指図を受けるか |
 | Interface | どのアプリ / ブランドがユーザー接点になるか |
+
+Sources: this is a diligence-question table derived from the disclosed BaaS structures; answers vary by partner contract and regulated role. ^[Sources: https://baas.minna-no-ginko.com/; https://www.minna-no-ginko.com/alliance-service/.]
 
 ## Mercari case
 

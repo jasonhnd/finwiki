@@ -1,23 +1,24 @@
 ---
 source: cooperative-banks/chochukin-rokin
-source_hash: 0e845f4f1df1b775
+source_hash: f4e35b03cb6ac274
 lang: ja
+model: source-language-sync
 status: machine
 fidelity: ok
 title: "中央労働金庫 (Chuo Rokin / Central Labour Bank)"
-translated_at: 2026-06-02T14:01:20.941Z
+translated_at: 2026-07-29T03:30:48.124Z
 ---
 # 中央労働金庫 (Chuo Rokin / Central Labour Bank)
 
-## ウィキ上の位置づけ
+## Wiki route
 
-この項目は [[cooperative-banks/INDEX|cooperative-banks INDEX]] 配下に置き、**日本の 13 ろうきん（労働金庫）事業会社の中で最大**のアンカーとして、[[cooperative-banks/kyoto-chuo-shinkin|京都中央信用金庫]]（信金）および [[cooperative-banks/osaka-shogin-shinkumi|大阪商銀信用組合]]（信組）と並ぶろうきん側の事業会社アンカーを提供する。協同組織系統中央機関は [[cooperative-banks/rokin-renraku|労働金庫連合会 (Rokinren)]]、[[banking/rokin-bank-registry-japan|rokin registry]] は 13ろうきんの全体像、より広い規制境界は [[banking/cooperative-banking-japan|cooperative banking domain]] と併読する。
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the operating-company anchor for the rokin (labour bank) system in the Kanto area, parallel to [[cooperative-banks/kyoto-chuo-shinkin|京都中央信用金庫]] (shinkin) and [[cooperative-banks/osaka-shogin-shinkumi|大阪商銀信用組合]] (shinkumi). Read it against [[cooperative-banks/rokin-renraku|労働金庫連合会 (Rokinren)]] for the cooperative-system central institution, [[banking/rokin-bank-registry-japan|rokin registry]] for the 13-rokin landscape, and [[banking/cooperative-banking-japan|cooperative banking domain]] for the broader regulatory boundary.
 
-## 要約
+## TL;DR
 
-中央労働金庫 (中央ろうきん) は、**13 ろうきんの中で総資産・預金規模最大の関東 1 都 7 県広域労働金庫**。労働金庫法を根拠とし、東京・神奈川・埼玉・千葉・茨城・栃木・群馬・山梨の 1 都 7 県を営業地盤とする。会員は **労働組合・生協・NPO 等の勤労者団体 + 個人勤労者**で、勤労者福祉金融 (住宅ローン・教育ローン・住宅資金等) を中核業務とする。[[cooperative-banks/rokin-renraku|労働金庫連合会]] の最大会員 + 全国 13 ろうきんの代表格 (関東一円の人口集中 + 勤労者世帯密度を反映)。**「協同組織型 + 勤労者目的限定」**という固有モデルで、銀行 (株式会社型) でも信金 (中小企業向け) でも JA バンク (農家向け) でもない、**勤労者福祉セグメント専業**を担う。^[extracted]
+中央労働金庫 (中央ろうきん) は、**関東 1 都 7 県を営業区域とする広域労働金庫**。労働金庫法を根拠とし、東京・神奈川・埼玉・千葉・茨城・栃木・群馬・山梨を営業地盤とする。会員は労働組合・生協・NPO 等の勤労者団体で、勤労者向けの預金、住宅・教育・自動車等の融資を扱う。株式会社銀行、信用金庫、JA バンクとは法的な組織形態と会員基盤が異なる。
 
-## 1. 免許 / 組織構造
+## 1. License / 組織構造
 
 | 項目 | 内容 |
 |---|---|
@@ -28,9 +29,9 @@ translated_at: 2026-06-02T14:01:20.941Z
 | 根拠法 | 労働金庫法 |
 | 設立 | **2001 年 4 月 1 日** (1 都 7 県 8 ろうきん統合により) ^[extracted] |
 | 営業エリア | **東京・神奈川・埼玉・千葉・茨城・栃木・群馬・山梨 (1 都 7 県)** |
-| 系統 | [[cooperative-banks/rokin-renraku|労働金庫連合会]] 会員 (全 13 会員の最大行) |
+| 系統 | [[cooperative-banks/rokin-renraku|労働金庫連合会]] 会員 |
 | 監督官庁 | 金融庁・関東財務局 + 厚生労働省 (協同組織側) |
-| ウィキ上の役割 | **13 ろうきん最大行**, 関東広域 事業会社アンカー |
+| Wiki role | 関東広域 operating-company anchor |
 
 ### 13 労働金庫の構成 ^[extracted]
 
@@ -95,17 +96,17 @@ translated_at: 2026-06-02T14:01:20.941Z
 
 | 指標 | 値 | 備考 |
 |---|---|---|
-| **預金残高** | **6 兆 8,913 億円** | 13 ろうきん最大 (中央ろうきん概要 2025-03 末) |
+| **預金残高** | **6 兆 8,913 億円** | 中央ろうきん概要 2025-03 末 |
 | **貸出金** | **4 兆 7,609 億円** | 住宅ローン中心 (同上) |
 | **出資金** | **288 億円** | 団体会員 11,318 会員 (同上) |
 | **店舗数** | **130 店舗** | 1 都 7 県広域 (同上) |
 | **自己資本比率** | **10.96%** | (同上) |
 
-> 注: 中央ろうきんは単体の「総資産」を概要上は開示せず、預金 6.9 兆円ベースの広域労金。詳細は中央ろうきん公式概要・ディスクロージャーを要参照 (https://chuo.rokin.com/aboutus/profile/)。なお労金連 (中央機関) 単体の総資産は 8 兆 316 億円 (2025-03 末、13 労金合算ベースの中央機関統計)。
+> 注: 中央ろうきんは単体の「総資産」を概要上は開示していない。詳細は [中央ろうきん公式概要](https://chuo.rokin.com/aboutus/profile/) とディスクロージャーを参照。
 
 ### 13 ろうきん内の代表性
 
-- [[cooperative-banks/rokin-renraku|労金連]] の **最大会員**、業界の方向性を実質的に主導
+- [[cooperative-banks/rokin-renraku|労金連]] を中央機関とする 13 労働金庫の一つ
 - **系統 IT・JASTEM 類似の R・ONE システム**運用にコミット (Rokinren 共同インフラ) ^[extracted]
 
 ### 住宅ローン主力モデル
@@ -123,13 +124,15 @@ translated_at: 2026-06-02T14:01:20.941Z
 
 | 指標 | 値 (2025-03 末) | 比較 |
 |---|---|---|
-| 預金 | 6 兆 8,913 億円 | 13 ろうきん最大 |
+| 預金 | 6 兆 8,913 億円 | 公式概要公表値 |
 | 貸出金 | 4 兆 7,609 億円 | 住宅ローン中心 |
 | 出資金 | 288 億円 | - |
-| 自己資本比率 | 10.96% | 信金大手 + 地銀並み水準 |
+| 自己資本比率 | 10.96% | 国内基準 |
 | 店舗数 | 130 店舗 | 1 都 7 県広域 |
 | 常勤役職員数 | 3,008 名 | - |
 | 団体会員数 | 11,318 会員 | 間接構成員 約 422 万人 |
+
+Sources: [中央労働金庫「金庫の概要」](https://chuo.rokin.com/aboutus/profile/)（2025-03-31 現在）。比較順位は同資料の範囲外であるため付していない。
 
 > 注: 数値は中央ろうきん公式概要 (2025-03 末)。単体総資産は概要上非開示。
 
@@ -144,15 +147,15 @@ translated_at: 2026-06-02T14:01:20.941Z
   - **少子高齢化** での若年勤労者向け新商品開発
   - **ESG 投資・社会的金融**強化 (NPO 団体融資等)
 
-## 関連項目
+## Related
 
 - [[cooperative-banks/rokin-renraku]] — 労働金庫連合会 (本ろうきんの上位中央機関)
 - [[cooperative-banks/shinkin-central]] — 信金中央金庫 (協同組織金融比較)
 - [[cooperative-banks/zenshin-kumi]] — 全信組連 (協同組織金融比較)
 - [[cooperative-banks/norinchukin]] — 農林中央金庫 (協同組織金融比較)
-- [[cooperative-banks/osaka-shogin-shinkumi]] — 大阪商銀信用組合 (信組 事業会社)
-- [[cooperative-banks/kyoto-chuo-shinkin]] — 京都中央信用金庫 (信金 事業会社)
-- [[cooperative-banks/osaka-shinkin]] — 大阪信用金庫 (信金 事業会社)
+- [[cooperative-banks/osaka-shogin-shinkumi]] — 大阪商銀信用組合 (信組 operating-company)
+- [[cooperative-banks/kyoto-chuo-shinkin]] — 京都中央信用金庫 (信金 operating-company)
+- [[cooperative-banks/osaka-shinkin]] — 大阪信用金庫 (信金 operating-company)
 - [[cooperative-banks/yokohama-shinkin]] — 横浜信用金庫 (関東 peer 信金)
 - [[regional-banks/yokohama-bank]] — 横浜銀行 (関東地銀 peer)
 - [[financial-regulators/dic]] — 預金保険機構
@@ -160,7 +163,7 @@ translated_at: 2026-06-02T14:01:20.941Z
 - [[banking/cooperative-banking-japan]] — 協同組織金融全体
 - [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
-## 出典
+## Sources
 
 - **中央労働金庫 公式**: https://chuo.rokin.com/
 - **中央労働金庫 概要 (2025-03 末: 預金 6 兆 8,913 億円・貸出金 4 兆 7,609 億円・出資金 288 億円・自己資本比率 10.96%・店舗 130・団体会員 11,318・役職員 3,008 名)**: https://chuo.rokin.com/aboutus/profile/
@@ -173,4 +176,4 @@ translated_at: 2026-06-02T14:01:20.941Z
 ---
 
 > [!info] 校核状態
-> confidence: **likely**。中央労働金庫公式概要 (2025-03 末) + 労金連経営指標ベース。預金 6.9 兆円・貸出 4.8 兆円・店舗 130・自己資本比率 10.96% は公式概要由来 (確定値)。単体総資産は公式概要上非開示のため数値化せず、預金ベースで規模感を記載。2001-04-01 の 8 ろうきん統合経緯 ^[extracted] は公開情報。本エントリは **13 ろうきん最大行の 事業会社アンカー**、[[cooperative-banks/rokin-renraku|Rokinren]] (cooperative-system central) の peer operating 入口 として配置。
+> confidence: **likely**。中央労働金庫公式概要 (2025-03 末) + 労金連経営指標ベース。預金 6.9 兆円・貸出 4.8 兆円・店舗 130・自己資本比率 10.96% は公式概要由来 (確定値)。単体総資産は公式概要上非開示のため数値化せず、預金ベースで規模感を記載。2001-04-01 の 8 ろうきん統合経緯 ^[extracted] は公開情報。本エントリは **13 ろうきん最大行の operating-company anchor**、[[cooperative-banks/rokin-renraku|Rokinren]] (cooperative-system central) の peer operating entry として配置。

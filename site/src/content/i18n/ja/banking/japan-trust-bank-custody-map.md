@@ -1,17 +1,19 @@
 ---
 source: banking/japan-trust-bank-custody-map
-source_hash: 0102eb37e5bd1684
+source_hash: ead0926670d08ea4
 lang: ja
-model: local-ja-business-term-glossary
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "日本の信託銀行・カストディマップ"
-translated_at: 2026-06-26T08:32:07.529Z
+translated_at: 2026-07-29T03:30:48.110Z
 ---
 
 # 日本の信託銀行・カストディマップ
 
-## 概要日本の信託銀行 / カストディ層は、法的名義、受益者、資産管理、運用指図、コーポレートアクション、議決権行使、貸株、ファンド会計を分離している。よくある誤りは、開示書類に現れる「信託口」の名義名を、信託銀行そのものが経済的な投資家であるかのように読み取ることである。
+## 概要
+
+日本の信託銀行/カストディ層は、法的所有権、受益者、資産管理、投資指示、企業行為、議決権、貸株、ファンド会計を分離しています。重大な間違いは、届出書に記載されている「信託口座」の候補者名をあたかも信託銀行自体が経済投資家であるかのように読んでしまうことです。
 
 このページは [[banking/INDEX|banking domain]]、[[banking/japan-master-trust-and-custody-bank-landscape|master trust / カストディ bank landscape]]、[[trust-banks/master-trust-bank|Master Trust Bank of Japan]]、[[trust-banks/custody-bank|Custody Bank of Japan]]、[[trust-banks/sumitomo-mitsui-trust|Sumitomo Mitsui Trust]]、[[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]]、[[securities/japan-stock-lending-market-route|stock lending route]]、[[securities/japan-market-infrastructure-map|securities market infrastructure]] と併せて用いる。
 
@@ -45,7 +47,11 @@ translated_at: 2026-06-26T08:32:07.529Z
 | 貸株収益 | 貸株プログラムの条件によっては、一部が受益者に帰属することがある。 |
 | ファンド会計 / NAV 業務 | 投資判断そのものではなく、運営面の資産サービシング層。 |
 
+出典：これらの解釈規則は、金融庁の信託業務境界線、信託会社協会の説明、MTBJ と CBJ の開示された運営上の役割に従っています。出願固有の受益者は依然として発行者自身の開示を要求します。 ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; https://www.shintaku-kyokai.or.jp/trust/trustbanks/; https://www.mastertrust.co.jp/about/overview.html; https://www.custody.jp/recruit/aboutus/business.html.]
+
 ## 資本市場とのリンク信託銀行のカストディは、銀行業を証券市場インフラに結びつける:
+
+信託銀行のカストディは、銀行業務と証券市場インフラを結び付けます。
 
 - [[securities/japan-securities-depository-center|JASDEC]] および市場インフラを通じた決済とコーポレートアクション;
 - [[foreign-financial-institutions/euroclear-bank-japan|Euroclear Bank Japan]] および [[foreign-financial-institutions/clearstream-banking-japan|Clearstream Banking Japan]] を通じた ICSD / クロスボーダーカストディ;

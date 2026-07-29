@@ -1,11 +1,12 @@
 ---
 source: cooperative-banks/tokyo-to-shokuin-shinkumi
-source_hash: b2da9b7748bd9a25
+source_hash: fa3dea91a704f0b1
 lang: en
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "Tokyo Metropolitan Government Employees Credit Cooperative (Tokyo Metropolitan Government Employees Credit Cooperative)"
-translated_at: 2026-06-18T23:33:48.286Z
+translated_at: 2026-07-29T03:30:48.134Z
 ---
 # Tokyo Metropolitan Government Employees Credit Cooperative (Tokyo Metropolitan Government Employees Credit Cooperative)
 
@@ -56,20 +57,16 @@ Because it is an occupation-based shinkumi, membership eligibility is strictly *
 | **Time / liquid deposits** | deposits for member households |
 | **Retirement-allowance management** | asset-management consultation for members reaching retirement age |
 
-## 5. KPI
+## 5. KPI update route
 
-| Indicator | Value | Source |
+| Public items | Primary source | Posting rules |
 |---|---|---|
-| Total assets | **899 億 4,898 万円** | Wikipedia (end of 2022-03 ) |
-| Deposit balance | **730 億 7,051 万円** | Wikipedia (end of 2022-03 ) |
-| Loans | **410 億 3,246 万円** (mortgage-centered) | Wikipedia (end of 2022-03 ) |
-| Net assets | 93 億 7,937 万円 | Wikipedia (end of 2022-03 ) |
-| Capital contribution | 1 億 6,254 万円 | Wikipedia (end of 2022-03 ) |
-| Capital adequacy ratio | 22.67% | FSA Kanto Local Finance Bureau management indicators |
-| Non-performing-loan ratio | 0.77% | FSA Kanto Local Finance Bureau management indicators |
-| Number of stores / staff | 1 店 (head office only) / 33  people | Wikipedia (end of 2022-03 ) |
+| Deposits, loans, equity ratio, non-performing loan indicators | The Financial Services Agency’s SME finance-related management indicators and the association’s latest official disclosure | Align the target year and indicator definition of the materials |
+| Total assets/Investment/Net assets | Latest disclosure magazine of Tokyo Employees Credit Union | Posting from the same reference date and same material |
+| Union members, officers, employees, stores | Organizational overview or disclosure magazine of the association | Specify the reference date and store classification |
+| Corporate number/head office/registration jurisdiction | Financial Services Agency credit union license list | Check the update date of the list |
 
-> Note: Figures are from Wikipedia (end of 2022-03 : deposits 730 億円 / loans 410 億円 / total assets 899 億円) and the FSA Kanto Local Finance Bureau's SME-finance-related management indicators. It is among the largest as an occupation-based shinkumi, but the actual scale is deposits of approximately 730 億円 / total assets of approximately 900 億円 (in the several-tens-of-billions-of-yen range).
+Sources: KPIs are updated with the Financial Services Agency's management indicators and the latest official disclosure of the Tokyo Metropolitan Employees' Credit Union, and corporate identification information is updated with the Financial Services Agency's list of credit union licenses. The 2022 values ​​and undefined size rankings derived from secondary sources in the previous edition have been withdrawn. ^[Sources: https://www.fsa.go.jp/policy/chusho/shihyou/kantou/tokyo/03.pdf; https://www.toshokushin.co.jp/; https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx.]
 
 ## 6. Supervision / regulation
 
@@ -96,7 +93,6 @@ Because it is an occupation-based shinkumi, membership eligibility is strictly *
 
 - **FSA credit-cooperative license list**: https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx (corporate number 8011105001107,  registry No. 50)
 - **Tokyo Metropolitan Government Employees Credit Cooperative official**: https://www.toshokushin.co.jp/
-- **Wikipedia: Tokyo Metropolitan Government Employees Credit Cooperative** (end of 2022-03 : deposits 730 億 7,051 万円 / loans 410 億 3,246 万円 / total assets 899 億 4,898 万円 / net assets 93 億 7,937 万円 / capital contribution 1 億 6,254 万円 / 1 店 / staff 33  people / established 1921-03-30): https://ja.wikipedia.org/wiki/東京都職員信用組合
 - **FSA Kanto Local Finance Bureau SME-finance-related management indicators [Tokyo: credit cooperatives]** (deposits 75,935 百万円 / loans 37,267 百万円 / capital adequacy ratio 22.67% / non-performing-loan ratio 0.77%): https://www.fsa.go.jp/policy/chusho/shihyou/kantou/tokyo/03.pdf
 - **National Central Society of Credit Cooperatives**: https://www.shinyokumiai.or.jp/
 - **Zenshinkumiren (National Federation of Credit Cooperatives) official**: https://www.zenshinkumiren.jp/
@@ -108,4 +104,4 @@ Because it is an occupation-based shinkumi, membership eligibility is strictly *
 ---
 
 > [!info] Verification status
-> confidence: **likely**. The FSA-registry-derived corporate number / registry No. / head-office location (inside the Tokyo Metropolitan Government building) are ^[extracted] (public information). KPIs such as total assets / deposits are confirmed by Wikipedia (end of 2022-03 ) + FSA Kanto Local Finance Bureau management indicators (deposits 730 億円 / loans 410 億円 / total assets 899 億円 / capital adequacy ratio 22.67%). The initial "several-hundred-billion-yen scale" approximate figure was corrected to the actual scale (several-tens-of-billions-of-yen range). Added in the Wave 13  expansion as the largest anchor among local-government-employee-affiliated shinkumi. The specific division of roles with the local-employee mutual-aid association is not asserted in the body and requires additional verification.
+> confidence: **likely**. The corporate number, registered jurisdiction, and head office location are based on the Financial Services Agency directory, and the KPIs are based on the Financial Services Agency's management indicators and the association's official disclosure. KPIs and scale rankings derived from secondary materials in the previous version have been deleted. The specific division of roles with the local employee mutual aid association has not been confirmed and cannot be determined.

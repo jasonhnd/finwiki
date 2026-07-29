@@ -1,11 +1,12 @@
 ---
 source: cooperative-banks/osaka-shinkin
-source_hash: 4f5b47b6bfe78a25
+source_hash: 6ee3b73f9af92631
 lang: en
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "Osaka Shinkin Bank"
-translated_at: 2026-06-15T03:48:21.889Z
+translated_at: 2026-07-29T03:30:48.131Z
 ---
 
 # Osaka Shinkin Bank
@@ -30,6 +31,8 @@ Osaka Shinkin Bank (Daishin) is one of the large shinkin banks headquartered in 
 | Deposit protection | [[financial-regulators/dic|預金保険機構 (DIC)]] — shinkin deposits are DIC-insured |
 | Home market | Osaka City / all of Osaka Prefecture |
 | Wiki role | Osaka large-shinkin operating-company page |
+
+Sources: For official name, corporate number, head office location, and presence on the license list, check the Financial Services Agency list, and for business area and organization information, check the Osaka Shinkin Bank's official guide. Comparison terms are not treated as rankings unless all stocks on the same reference date are compared. ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx; https://www.osaka-shinkin.co.jp/about/.]
 
 ## 2. Institution-type business model
 

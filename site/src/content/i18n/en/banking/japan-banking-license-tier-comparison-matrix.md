@@ -1,18 +1,19 @@
 ---
 source: banking/japan-banking-license-tier-comparison-matrix
-source_hash: 44d5a10ed135ef78
+source_hash: 3c33d86747bc032e
 lang: en
+model: source-language-sync
 status: machine
 fidelity: ok
 title: "Japan banking-license tier comparison matrix"
-translated_at: 2026-05-30T18:10:53.990Z
+translated_at: 2026-07-29T03:30:48.103Z
 ---
 
 # Japan banking-license tier comparison matrix
 
 ## TL;DR
 
-Japan's deposit-taking system is not one license. The Banking Act, Trust Business Act, 信用金庫法, 中小企業等協同組合法, 労働金庫法, and 農林中央金庫法 each carve out distinct license tiers with different statutes, regulators, capital floors, deposit-insurance regimes, permitted-activity envelopes, and governance shapes. This matrix collects the publicly verifiable axes across **megabank / regional / second-regional / trust / net / foreign-branch / shinkin / credit-cooperative / rōkin / Norinchukin-JA-JF** so the licence-shape question can be answered before the brand or balance-sheet question.
+Japan's deposit-taking system is not one legal form. The Banking Act, the Act on Engagement in Trust Business Activities by Financial Institutions, 信用金庫法, 中小企業等協同組合法 / 協金法, 労働金庫法, 農協法 / 水協法, and 農林中央金庫法 create different perimeters. At the same time, “megabank”, “regional bank”, “second regional bank”, and “net bank” are operating or industry labels within the ordinary-bank licence, not four separate statutory licences. This matrix compares both legal categories and those explicitly labelled operating categories.
 
 ## Wiki route
 
@@ -24,7 +25,7 @@ A single phrase like "Japanese bank" hides the fact that the licence tier contro
 
 - which statute the institution lives under;
 - which regulator inspects it (FSA, 厚労省 jointly for rōkin, 農水省 jointly for JA / JF / Norinchukin);
-- whether the deposit insurance counterparty is [[financial-regulators/yokin-hoken-kiko|DICJ]] or the JA共済 / cooperative-protection regime;
+- whether the protection scheme is [[financial-regulators/yokin-hoken-kiko|DICJ]] or the separate 農水産業協同組合貯金保険機構;
 - whether the institution can hold a securities licence, trust licence, or only ordinary banking;
 - whether it can incorporate inside a bank holding company;
 - whether it has direct [[banking/INDEX|banking-domain]] access to the BoJ as a counterparty;
@@ -35,7 +36,7 @@ Without the licence tier, a [[banking/japan-net-bank-competition-map|net bank]] 
 ## Tier 1 — Megabank (普通銀行 / 都市銀行)
 
 - **Statute / regulator.** Banking Act 普通銀行 license; supervised by FSA Major-Banks-and-Bank-Holding-Companies Division, with BoJ on-site monitoring as monetary-policy counterparty.
-- **License + count.** Banking Act 普通銀行. The three SMBC / MUFG / Mizuho cores plus Resona / Saitama Resona sit inside [[banking/INDEX|banking index]] as the megabank lane.
+- **License + count.** Banking Act 普通銀行. “Megabank” is an analytical / industry grouping rather than a separate licence; this page uses MUFG, SMBC, and Mizuho as the core comparison set and routes Resona separately through [[banking/post-megabank-positioning|post-megabank positioning]].
 - **Capital floor.** Banking Act minimum paid-in capital is ¥2 billion for ordinary banks; megabanks operate far above this and run on BIS Basel III group capital — Common Equity Tier 1 ≥ 4.5%, Tier 1 ≥ 6%, total capital ratio ≥ 8%, plus the G-SIB / D-SIB capital buffer surcharge tier (MUFG, SMFG, Mizuho carry G-SIB surcharges; Resona is treated as a D-SIB).
 - **Liquidity.** Full Basel III LCR ≥ 100% and NSFR ≥ 100% applied on a consolidated basis.
 - **Deposit insurance.** [[financial-regulators/yokin-hoken-kiko|DICJ]] coverage; ¥10 million principal plus interest under the standard deposit-insurance frame, with 決済用預金 fully protected.
@@ -44,7 +45,7 @@ Without the licence tier, a [[banking/japan-net-bank-competition-map|net bank]] 
 - **Governance.** Joint-stock company listed on TSE Prime; bank holding company structure permitted and used (MUFG, SMFG, Mizuho FG, Resona HD).
 - **Geography.** No statutory geographic restriction; nationwide branch and overseas presence.
 - **M&A / holding company.** Bank holding company permitted with prior FSA approval; cross-shareholding and consolidation routes are open under the Banking Act.
-- **BoJ counterparty.** Direct BoJ current account; primary dealer in JGBs; access to BoJ market operations.
+- **BoJ counterparty.** Current-account and market-operation status are separate, entity-specific relationships; verify the current BoJ counterparty list rather than inferring both from the bank label.
 - **Recent regulatory changes.** Banking Act 改正 (Reiwa 3 / 2021) expanded the bank-affiliated-company scope and digital / regional revitalization investment scope; updates around bank-issued digital-money and 電子決済等取扱業 affect this layer most directly. See [[financial-licenses/bank-license-and-baas-boundary|bank license and BaaS boundary]].
 
 ## Tier 2 — Regional bank (地方銀行)
@@ -79,9 +80,9 @@ Without the licence tier, a [[banking/japan-net-bank-competition-map|net bank]] 
 
 ## Tier 4 — Trust bank (信託銀行)
 
-- **Statute / regulator.** Dual license: Banking Act 普通銀行 license **plus** Trust Business Act trust business license under FSA. The dual-licence shape is what makes a trust bank legally distinct from an ordinary bank.
+- **Statute / regulator.** Banking Act bank licence plus authorisation to conduct trust business under the Act on Engagement in Trust Business Activities by Financial Institutions (兼営法) and related trust rules. Do not reduce this to a generic Trust Business Act “second licence”.
 - **License + count.** Public membership is captured in 信託協会 trust-bank rosters. Operating-company anchors include [[banking/INDEX|banking index]] trust-bank routes plus the JapanFG trust-bank pages; the operating-comparison surface is [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]].
-- **Capital floor.** Banking Act minimum applies; additional Trust Business Act competence and operating requirements (segregated trust accounts, fiduciary-duty obligations) sit on top.
+- **Capital floor.** Banking Act requirements apply to the bank; trust-business authorisation adds fiduciary, segregation, and operating requirements.
 - **Liquidity.** Banking Act LCR / NSFR on the banking-book side; trust assets are off-balance-sheet under separate fiduciary accounting.
 - **Deposit insurance.** [[financial-regulators/yokin-hoken-kiko|DICJ]] coverage on the banking-book deposits; trust accounts protected through the 元本補填信託 path for protected-principal money trusts under the same DICJ frame.
 - **Permitted activities.** Banking (deposits, lending, FX, settlement) **plus** trust business (money trusts, securities-investment trusts, pension trusts, custody, securities settlement, real-estate trusts, asset administration). The dual-license tier carries the broadest activity envelope in the deposit-taking universe.
@@ -89,7 +90,7 @@ Without the licence tier, a [[banking/japan-net-bank-competition-map|net bank]] 
 - **Governance.** Joint-stock company; almost always under a bank holding company.
 - **Geography.** No statutory restriction; nationwide.
 - **M&A / holding company.** Bank holding company permitted; trust-bank subsidiaries often sit alongside ordinary bank subsidiaries in megabank groups.
-- **BoJ counterparty.** Direct BoJ current account; custody-bank trust arms participate in BoJ-NET / JGB settlement infrastructure.
+- **BoJ counterparty.** Banks and trust banks are eligible categories, but current-account, BOJ-NET, and JGB-system participation must be checked for the legal entity and service.
 - **Recent regulatory changes.** FSA's expansion of fiduciary-duty principles, asset-management business-improvement orders, and the [[financial-licenses/INDEX|legal-financial-licenses]] track on trust-business reform reshape the operating envelope; bank-issued digital-money intermediation under 電子決済等取扱業 also lands on bank-side trust intermediation.
 
 ## Tier 5 — Net bank (ネット銀行)
@@ -104,7 +105,7 @@ Without the licence tier, a [[banking/japan-net-bank-competition-map|net bank]] 
 - **Governance.** Joint-stock company; bank holding company permitted; many net banks sit inside fintech / ecommerce / telecom / securities parent groups rather than under a bank holding company.
 - **Geography.** No branch network in the traditional sense; nationwide digital channel.
 - **M&A / holding company.** Bank holding company permitted; the operational-model question (parent ecosystem, partner BaaS, securities adjacency) is in [[banking/japan-net-bank-competition-map|Japan net bank competition map]].
-- **BoJ counterparty.** Direct BoJ current account once licensed as a 普通銀行.
+- **BoJ counterparty.** Ordinary-bank status makes the institution an eligible category, but an account relationship is not automatic; verify the current BoJ list.
 - **Recent regulatory changes.** 2021 Banking Act 改正 expansion of banking-affiliated-company scope is one of the most directly material changes for this tier; 電子決済等取扱業 and BaaS-boundary supervision tracked in [[financial-licenses/bank-license-and-baas-boundary|bank license and BaaS boundary]] affect operating freedom rather than licence shape.
 
 ## Tier 6 — Foreign bank branch (外国銀行支店)
@@ -134,7 +135,7 @@ Without the licence tier, a [[banking/japan-net-bank-competition-map|net bank]] 
 - **Governance.** Cooperative / 協同組織 — member-based, one-member-one-vote governance, with 出資 (membership investment) rather than tradeable equity.
 - **Geography.** Statutory business area (営業地区) tied to municipality / prefecture; members must reside, work, or have business in the area.
 - **M&A / holding company.** No bank holding company route; mergers happen between shinkin under 信用金庫法 procedures and FSA approval; cross-shinkin alliances run through [[cooperative-banks/shinkin-central|信金中央金庫]].
-- **BoJ counterparty.** [[cooperative-banks/shinkin-central|信金中央金庫]] is the BoJ counterparty for the shinkin system; individual shinkin clear through 信金中央金庫.
+- **BoJ counterparty.** The BoJ identifies shinkin banks as an eligible category and its current list includes individual shinkin; institutions without a direct relationship may use [[cooperative-banks/shinkin-central|信金中央金庫]] services. Do not publish a federation-only rule for all shinkin.
 - **Recent regulatory changes.** 信用金庫法 amendments expanding affiliated-business scope and 2021-era cooperative-finance reform mirroring the Banking Act expansion are the main updates; see [[banking/cooperative-banking-japan|Cooperative banking in Japan]] for context.
 
 ## Tier 8 — Credit cooperative (信用組合)
@@ -171,12 +172,12 @@ Without the licence tier, a [[banking/japan-net-bank-competition-map|net bank]] 
 
 - **Statute / regulator.** 農林中央金庫法 (for 農林中央金庫); 農業協同組合法 (for JA / Shinnoren credit business); 水産業協同組合法 (for JF / Shingyoren credit business). **Jointly supervised** by FSA and 農林水産省 (Ministry of Agriculture, Forestry and Fisheries) — another dual-regulator regime.
 - **License + count.** [[cooperative-banks/norinchukin|農林中央金庫]] sits at the apex as the central institution. Below it: prefectural Shinnoren (JA credit federations) and Shingyoren (JF credit federations), and underlying credit-business JA and JF cooperatives. See [[banking/INDEX|banking index]] for the JA Bank system and JF Marine Bank system routes.
-- **Capital floor.** 農林中央金庫法 sets a special framework for [[cooperative-banks/norinchukin|農林中央金庫]] as a 特殊法人; member cooperatives operate under their respective cooperative laws.
+- **Capital floor.** 農林中央金庫法 sets a dedicated statutory framework for [[cooperative-banks/norinchukin|農林中央金庫]] as a cooperative financial institution and national financial institution for agricultural, fishery, and forestry cooperatives; member cooperatives operate under their respective cooperative laws.
 - **Liquidity.** Banking-equivalent prudential framework applied to [[cooperative-banks/norinchukin|農林中央金庫]] (BIS-style capital and liquidity, given its market activities); member institutions run on cooperative-law prudential standards.
-- **Deposit insurance.** [[financial-regulators/yokin-hoken-kiko|DICJ]] generally covers JA / JF deposit-equivalent claims through the cooperative-finance pathway; the 農水産業協同組合貯金保険機構 (農水産業 cooperatives savings insurance organization) provides a parallel insurance mechanism for agricultural / fisheries cooperative savings, separate from the bank DICJ track.
+- **Deposit insurance.** Credit-business JA / JF, Shinnoren / Shingyoren, and [[cooperative-banks/norinchukin|Norinchukin]] are covered by the separate 農水産業協同組合貯金保険制度, not by DICJ “through” that pathway.
 - **Permitted activities.** Member deposits / 貯金 (technically called 貯金, not 預金, in JA / JF), lending, settlement, FX (through [[cooperative-banks/norinchukin|農林中央金庫]]), large-scale securities investment, asset management. [[cooperative-banks/norinchukin|農林中央金庫]] is a globally active fixed-income / structured-credit investor by mandate, which is highly distinctive among Japanese deposit-takers.
 - **Cross-border.** [[cooperative-banks/norinchukin|農林中央金庫]] operates a large overseas investment portfolio and has overseas representative offices; member JA / JF cooperatives do not.
-- **Governance.** Cooperative / 協同組織 at the JA / JF level; 特殊法人 at the [[cooperative-banks/norinchukin|農林中央金庫]] level. Member-organization governance and agricultural-policy proximity are part of the institutional design.
+- **Governance.** Cooperative / 協同組織 at the JA / JF level; at the [[cooperative-banks/norinchukin|農林中央金庫]] level, governance follows its dedicated statute and member-organization structure. Agricultural-policy proximity is part of the institutional design.
 - **Geography.** JA / JF cooperatives are local to their municipal / prefectural areas; Shinnoren / Shingyoren are prefectural; [[cooperative-banks/norinchukin|農林中央金庫]] is national.
 - **M&A / holding company.** No ordinary bank holding company route; system consolidation happens through cooperative-law mergers, federation reorganizations, and central-institution restructuring.
 - **BoJ counterparty.** [[cooperative-banks/norinchukin|農林中央金庫]] holds direct BoJ current-account access as the system central institution.
@@ -186,19 +187,19 @@ Without the licence tier, a [[banking/japan-net-bank-competition-map|net bank]] 
 
 | Dimension | Megabank | Regional | 2nd regional | Trust bank | Net bank | Foreign branch | Shinkin | 信用組合 | Rōkin | 農林系統 / [[cooperative-banks/norinchukin|農中]] |
 |---|---|---|---|---|---|---|---|---|---|---|
-| **Statute** | Banking Act 普銀 | Banking Act 普銀 | Banking Act 普銀 | Banking Act 普銀 + Trust Business Act | Banking Act 普銀 | Banking Act Ch. IX (外銀支店) | 信用金庫法 | 中協法 / 協金法 | 労働金庫法 | 農林中央金庫法 / 農協法 / 水協法 |
+| **Statute / legal route** | Banking Act 普銀; “megabank” is not a separate licence | Banking Act 普銀; industry category | Banking Act 普銀; industry-association category | Banking Act + 兼営法 trust-business authorisation | Banking Act 普銀; “net bank” is operational | Banking Act foreign-bank-branch route | 信用金庫法 | 中協法 / 協金法 | 労働金庫法 | 農林中央金庫法 / 農協法 / 水協法 |
 | **Regulator** | FSA + BoJ | FSA + Local Finance Bureau | FSA + Local Finance Bureau | FSA (Banking + Trust) | FSA | FSA Major-Banks (foreign-branch route) | FSA 中小・地域 | FSA 中小・地域 + 都道府県 | FSA + 厚労省 | FSA + 農水省 |
-| **Min. capital floor** | Banking Act ¥2bn (in practice far higher) | Banking Act ¥2bn | Banking Act ¥2bn | Banking Act ¥2bn + Trust Business competence | Banking Act ¥2bn | Branch capital-equivalent; home-office Basel III | 出資金 ¥100m / ¥200m | Cooperative-law 出資金 | Cooperative-law 出資金 | 特殊法人 framework |
-| **Capital regime** | BIS Basel III + G-SIB/D-SIB surcharge | BIS standardized / domestic-standard | BIS standardized / domestic-standard | Same as banking peer + trust prudential | BIS standardized / domestic-standard | Home-office Basel III + branch rules | FSA domestic-standard 4% | FSA domestic-standard | FSA domestic-standard | Banking-equivalent for 農中 |
-| **LCR / NSFR** | Yes, full | Internationally active only | Rare | Yes for banking book | Domestic-standard or full | Home-office + FSA add-on | Domestic-standard | Domestic-standard | Domestic-standard | Yes for 農中 |
+| **Capital / liquidity evidence** | Use applicable FSA capital and liquidity notices plus current bank disclosure | Same ordinary-bank rules, selected by international/domestic status | Same ordinary-bank rules, selected by international/domestic status | Bank rules plus trust-business requirements | Same ordinary-bank rules, selected by actual status | Japan-branch rules plus home-office disclosure | Applicable cooperative capital rules and current disclosure | Applicable cooperative capital rules and current disclosure | Applicable rokin rules and current disclosure | Norinchukin and member-institution rules must be checked separately |
 | **Deposit insurance** | [[financial-regulators/yokin-hoken-kiko\|DICJ]] | [[financial-regulators/yokin-hoken-kiko\|DICJ]] | [[financial-regulators/yokin-hoken-kiko\|DICJ]] | [[financial-regulators/yokin-hoken-kiko\|DICJ]] + protected-principal trust | [[financial-regulators/yokin-hoken-kiko\|DICJ]] | **Not covered** by DICJ; home-country regime | [[financial-regulators/yokin-hoken-kiko\|DICJ]] | [[financial-regulators/yokin-hoken-kiko\|DICJ]] | [[financial-regulators/yokin-hoken-kiko\|DICJ]] | 農水産業貯金保険機構 (parallel) |
 | **Permitted activities** | Full + securities subs + trust subs | Full + securities subs | Full + securities subs | Full banking + full trust | Full banking | Banking + licensed sub activities | Member deposits / loans + investments | Member deposits / loans (tighter) | Worker / member finance | Member 貯金 / loans + 農中 markets |
-| **Cross-border** | Native global | Limited | Minimal | Native via custody / trust | Limited | Native (point of licence) | None | None | None | 農中 native; member none |
-| **Governance** | Joint-stock, listed | Joint-stock, mostly listed | Joint-stock | Joint-stock under bank HD | Joint-stock, often non-bank parent | Branch of foreign legal entity | Cooperative / 協同組織 | Cooperative / 協同組織 | Cooperative + labour-union | Cooperative + 特殊法人 |
-| **Geography** | Nationwide + overseas | One to a few prefectures | Single prefecture typical | Nationwide | Digital nationwide | One or two cities | Statutory 営業地区 | Statutory 営業地区 | Regional rōkin area | Local JA/JF + national 農中 |
-| **Holding company** | Yes (FSA approval) | Yes (FSA approval) | Yes (FSA approval) | Yes (FSA approval) | Yes (FSA approval) | No (parent is overseas) | No | No | No | No (system structure) |
-| **BoJ counterparty** | Direct | Direct | Direct | Direct | Direct | Direct (where elected) | Via [[cooperative-banks/shinkin-central\|信金中金]] | Via 全信組連 | Via 労金連 | Direct ([[cooperative-banks/norinchukin\|農中]]) |
-| **G-SIB / D-SIB** | All three megabank groups (G-SIB); Resona (D-SIB) | None | None | Trust arms inside G-SIB groups | None | Home-office may be a G-SIB | None | None | None | None |
+| **Cross-border evidence** | Verify legal entities and current offices | Entity-specific | Entity-specific | Entity- and service-specific | Entity-specific | Inherent cross-border parent link; Japan scope is entity-specific | Entity-specific | Entity-specific | Entity-specific | Norinchukin and member institutions differ |
+| **Governance** | Joint-stock bank / group | Joint-stock bank / group | Joint-stock bank / group | Joint-stock bank; group position varies | Joint-stock bank; parent route varies | Branch of foreign legal entity | Cooperative / 協同組織 | Cooperative / 協同組織 | Cooperative / labour-organization membership | Cooperative member institutions + special-law Norinchukin |
+| **Geography** | No megabank-specific statutory area | No regional-label statutory area | No second-regional-label statutory area | No trust-bank-label statutory area | No net-bank-label statutory area | Licensed Japan branch perimeter | Statutory business area | Statutory business / membership area | Regional rokin area | Local JA/JF scope; national Norinchukin role |
+| **Holding-company route** | Banking Act route available, subject to approval | Same | Same | Same bank route; group structure is entity-specific | Same | Japan operation is a branch of foreign parent | Do not infer an ordinary bank-HD route | Do not infer an ordinary bank-HD route | Do not infer an ordinary bank-HD route | System structure; verify each statute |
+| **BoJ current-account route** | Eligible bank category; verify current list | Eligible bank category; verify current list | Eligible bank category; verify current list | Eligible bank/trust-bank category; verify current list | Eligible bank category; verify current list | Eligible branch category; verify current list | Individual shinkin may be direct; otherwise central support | Central institution route | Central institution route | Norinchukin central route; member JA/JF generally indirect |
+| **Systemic designation** | Check current FSB/FSA lists separately from licence | Not a licence attribute | Not a licence attribute | Group/entity-specific | Not a licence attribute | Home-office and Japan entity differ | Not a licence attribute | Not a licence attribute | Not a licence attribute | Not a licence attribute |
+
+Sources: this matrix separates statutory status from industry/operating labels. FSA registers and supervisory guidance support licence/regulator fields; DICJ and the agricultural/fisheries savings-insurance corporation support the two protection paths; BoJ sources support only eligible categories and the current counterparty list, not universal direct access. ^[Sources: https://www.fsa.go.jp/menkyo/menkyo.html; https://www.fsa.go.jp/common/law/guide/city/index.html; https://www.fsa.go.jp/common/law/guide/chusho/index.html; https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; https://www.dic.go.jp/; https://www.sic.or.jp/afc/about/summary/summary/mechanism-insurance-savings/; https://www.boj.or.jp/en/about/education/oshiete/kess/i08.htm; https://www.boj.or.jp/paym/torihiki/ichiran.pdf.]
 
 ## How to read this matrix
 
@@ -208,7 +209,7 @@ When reading any single institution page:
 
 1. Start with the **statute** column — that determines almost every other field.
 2. Check the **deposit-insurance** column. Foreign branches and 農水産業 cooperatives are exceptions to the default [[financial-regulators/yokin-hoken-kiko|DICJ]] frame.
-3. Check the **BoJ counterparty** column. Cooperative-finance institutions clear through their central institution rather than directly.
+3. Check the **BoJ current-account route** column. Individual shinkin may be direct, while the BoJ describes central-institution access for credit cooperatives, rokin, and agricultural cooperatives.
 4. Check the **holding-company** column. Cooperative tiers cannot use a bank holding company; foreign branches cannot use one either.
 5. Use the **governance** column to read whether one-member-one-vote, joint-stock-listed, or branch-of-overseas-entity language applies — that determines what governance, disclosure, and M&A surfaces are available.
 
@@ -253,6 +254,8 @@ When reading any single institution page:
 - FSA: 主要行等向けの総合的な監督指針 (major banks supervision guideline).
 - FSA: 中小・地域金融機関向けの総合的な監督指針, including Part V on cooperative financial institutions.
 - DICJ: Deposit Insurance Corporation of Japan public site.
+- 農水産業協同組合貯金保険機構: covered institutions and savings-protection scope.
+- Bank of Japan: eligible current-account-holder categories and current counterparty list.
 - BIS: Basel III framework documentation.
 - 全国銀行協会 (Japanese Bankers Association): Financial Institutions in Japan.
 - 信託協会: trust banks roster and trust-business overview.

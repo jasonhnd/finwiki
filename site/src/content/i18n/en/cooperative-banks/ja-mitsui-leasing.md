@@ -1,11 +1,12 @@
 ---
 source: cooperative-banks/ja-mitsui-leasing
-source_hash: cca762fef30a24d1
+source_hash: 398e5afb1cd772d8
 lang: en
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "JA三井リース (JA Mitsui Leasing)"
-translated_at: 2026-06-18T23:33:48.297Z
+translated_at: 2026-07-29T03:30:48.126Z
 ---
 
 # JA三井リース (JA Mitsui Leasing)
@@ -16,19 +17,21 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read 
 
 ## TL;DR
 
-JA Mitsui Leasing is a quasi-major comprehensive leasing company formed in 2008-04  through the merger of **JA Leasing** (a Norinchukin Bank / JA Zen-Noh-affiliated company) and **Mitsui Leasing & Development** (a Mitsui & Co.-affiliated company). With a rare structure combining the two major capital lineages of the **JA Group** (Norinchukin Bank [[cooperative-banks/norinchukin|農林中金]] / JA Zen-Noh / each JA) and the **Mitsui Group** (Mitsui & Co. / Sumitomo Mitsui Trust Bank, etc.), it serves both the captive function of agricultural-machinery leasing / logistics-facility leasing for the JA Group and a general comprehensive-leasing function. Unlisted (the major shareholders are a strategic-shareholder structure of Norinchukin + Mitsui & Co. + Sumitomo Mitsui Trust, etc.).
+JA Mitsui Lease is a general leasing company established on April 1, 2008, and its official company profile organizes its business into rental, installment sales, various types of financing, and ancillary businesses. The Norinchukin Bank, Mitsui & Co., JA Zen-Noh, Sumitomo Mitsui Banking Corporation, and Sumitomo Mitsui Trust Bank are officially listed as major shareholders, but the company does not refer to any one company as the "parent company." The bank's license cannot be confirmed, but it has announced other regulatory qualifications as money lending business registration and Type 2 Financial Instruments Transaction Business Registration. ^[Sources: https://www.jamitsuilease.co.jp/company/basic_info.html; https://www.jamitsuilease.co.jp/kinsyou.html; https://www.fsa.go.jp/menkyo/menkyoj/kasi.pdf.]
 
 ## 1. License / group boundary
 
 | Item | Notes |
 |---|---|
 | Legal name | JA三井リース株式会社 / JA Mitsui Leasing, Ltd. |
-| Listing | Unlisted (a strategic-shareholder-led equity structure) |
-| Headquarters | Chuo-ku, Tokyo |
-| Founded | 2008-04-01 (merger of the former JA Leasing + Mitsui Leasing & Development) |
-| Parent / group | Norinchukin Bank [[cooperative-banks/norinchukin|農林中金]] + Mitsui & Co. + Sumitomo Mitsui Trust + National Federation of Agricultural Cooperative Associations (JA Zen-Noh), etc. |
-| License route | No banking-business license. Money-lending business registration (FSA money-lending business registration) obtained within the scope of related operations |
-| Wiki role | A JA-affiliated + Mitsui-affiliated hybrid quasi-major leasing company. It serves the leasing-function node of [[cooperative-banks/norinchukin|農林中金]], and has a peer / competitive relationship within the Mitsui camp with the SMFG-affiliated [[leasing-firms/smfl|SMFL]] |
+| Listing | The official company profile does not list the listing classification, so check the latest company disclosure. |
+| Headquarters | Ginza Mitsui Building, 8-13-1 Ginza, Chuo-ku, Tokyo |
+| Founded | 2008-04-01 |
+| Major shareholders | The Norinchukin Bank, Mitsui & Co., JA Zen-Noh, Sumitomo Mitsui Banking Corporation, Sumitomo Mitsui Trust Bank, etc. (official order of publication/ownership ratio not listed) |
+| Regulatory registrations | Money lender Kanto Local Finance Bureau (6) No. 01461, Type 2 Financial Instruments Business Kanto Local Finance Bureau (Kinsho) No. 2025 |
+| Banking boundary | Read as a leasing/installment/finance business rather than a bank that accepts deposits based on a banking license. |
+
+Sources: Corporate name, location, establishment, business content, major shareholders were confirmed from the company profile, type 2 financial instruments business was confirmed from the company's legal indication, and money lending business registration was confirmed from the Financial Services Agency's registration list. Do not infer control relationships or "parent company" from the list of major shareholders. ^[Sources: https://www.jamitsuilease.co.jp/company/basic_info.html; https://www.jamitsuilease.co.jp/kinsyou.html; https://www.fsa.go.jp/menkyo/menkyoj/kasi.pdf.]
 
 ## 2. Business lines
 
@@ -43,20 +46,17 @@ JA Mitsui Leasing is a quasi-major comprehensive leasing company formed in 2008-
 
 ## 3. Strategy & competitive position
 
-JA Mitsui Leasing's greatest differentiating factor is the **JA Group's nationwide end-user base**. Through JA across Japan (about 600  unit agricultural cooperatives), it has access to agricultural machinery / logistics facilities / agriculture-related equipment, which is a unique channel that no other leasing company has.
+On its official website, the company highlights the strengths of the ``JA Group'' and ``Mitsui Group,'' as well as services for agriculture, forestry and fisheries businesses. What can be confirmed from here is the contact point between shareholders, products, and project areas, and the number of deals passed through JA, market share, competitive ranking, and deal supply ratio from individual shareholders cannot be determined without disclosure.
 
-Compared with [[leasing-firms/smfl|SMFL]] (an SMFG + Sumitomo Corporation JV) or [[leasing-firms/fuyo-lease|芙蓉総合リース]] (former Fuji Bank-affiliated), it is mid-ranking among the quasi-majors in scale, but it holds an overwhelming share in the JA / agriculture sector. Via Mitsui & Co. it also participates in aircraft leasing (JOL) / global PJs, and its business balance is the three pillars of "JA captive + general leasing + global PJ".
-
-It is closely linked with [[cooperative-banks/norinchukin|農林中金]] on both the capital-relationship and deal-route fronts. As Norinchukin manages a huge amount of financial assets as the JA Group's fund-management institution, JA Mitsui Leasing shares the role of "leasing / real assets".
+[[cooperative-banks/norinchukin|Norinchukin Bank]]In the disclosure, JA Mitsui Lease is listed as an equity method affiliate, and the percentage of voting rights held as of 2025-09-30 is 34.67%. This is the basis for a capital relationship, and does not imply direction of individual projects or a parent-subsidiary relationship.
 
 In the context of [[finance/japan-acquisition-finance|日本アクイジションファイナンス]], it may be involved in equipment-investment finance for agricultural M&A or the food sector.
 
 ## 4. Why this page matters
 
-- A single node for understanding the JA Group's "leasing / real-asset" function
-- The hybrid structure of the two major lineages (JA + Mitsui) is a rare structure not seen in other major leasing companies
-- Understanding the JA-Group-internal division of labor of [[cooperative-banks/norinchukin|農林中金]]'s risk-asset allocation (the management institution) → JA Mitsui Leasing (real-asset management)
-- Within the Mitsui camp, a comparison object of peer (SMFG / Sumitomo Corporation-affiliated) with [[leasing-firms/smfl|SMFL]] and vs (JA / Mitsui & Co.-affiliated)
+- You can check the main shareholder structure, including The Norinchukin Bank and JA Zen-Noh, according to the official list.
+- You can read the regulatory boundaries between leasing companies, banks, money lenders, and Type 2 Financial Instruments Business Operators using a single example.
+- You can track the company's business areas, including services for agriculture, forestry and fisheries, separately from undisclosed market shares and project routes.
 
 ## Related
 
@@ -71,12 +71,13 @@ In the context of [[finance/japan-acquisition-finance|日本アクイジショ�
 
 ## Sources
 
-- JA Mitsui Leasing official corporate site (https://www.jamitsui.com/)
-- JA Mitsui Leasing company guide / annual securities report
-- Norinchukin Bank disclosure materials
+- JA Mitsui Lease Company Profile: https://www.jamitsuilease.co.jp/company/basic_info.html
+- JA Mitsui Lease Display based on the Financial Instruments and Exchange Act: https://www.jamitsuilease.co.jp/kinsyou.html
+- Financial Services Agency moneylender registration list: https://www.fsa.go.jp/menkyo/menkyoj/kasi.pdf
+- Norinchukin Bank Disclosure: https://www.nochubank.or.jp/ir/disclosure/
 - Japan Leasing Association (JLA) statistics (https://www.leasing.or.jp/)
 
 ---
 
 > [!info] 校核状态
-> confidence: **likely** (based on public information 2026-05-24). The shareholder structure varies by point in time; the latest semiannual report should be referred to. The deal route with unit agricultural cooperatives within the JA Group is not detailed in public information.
+> Confidence: **likely** (Published primary sources reconfirmed on 2026-07-29). The legal entity, major shareholders, and registration qualifications were confirmed from the official company profile, legal indications, and Financial Services Agency registration list. The ownership ratio uses the Norinchukin Bank's base date disclosure, and does not determine undisclosed project routes or market shares.

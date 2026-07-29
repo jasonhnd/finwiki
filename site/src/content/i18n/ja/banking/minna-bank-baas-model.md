@@ -1,11 +1,12 @@
 ---
 source: banking/minna-bank-baas-model
-source_hash: e10f75fa56437b80
+source_hash: ce2ea889258f7a38
 lang: ja
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "みんなの銀行 BaaS model"
-translated_at: 2026-06-02T11:47:37.295Z
+translated_at: 2026-07-29T03:30:48.115Z
 ---
 
 # みんなの銀行 BaaS model
@@ -26,6 +27,8 @@ translated_at: 2026-06-02T11:47:37.295Z
 | パートナー支店モデル | みんなの銀行の銀行構造の内部に、パートナーのブランドを持つ支店が作られる | パートナーのユーザーは、メルカリ支店のようなブランド化された銀行のフロントを目にする | [[banking/mercari-bank|Mercari Bank]]、pixiv / DMM / ignica / および ST のケース |
 | ハイブリッド | パートナー支店に API 統合を加えたもの | ブランド化された支店 + パートナーアプリ内でのシームレスな資金移動 / 口座情報 | メルカリ / メルペイ × みんなの銀行 |
 
+出典: みんな銀行の公式 BaaS およびパートナー支店ページでは、最初の 2 つのモデルが定義されています。メルカリ/ハイブリッドの行は、引用された共同ローンチリリースに範囲が限定されています。現在のパートナーのステータスは、公式アライアンス ページで再確認​​する必要があります。 ^[Sources: https://baas.minna-no-ginko.com/; https://baas.minna-no-ginko.com/service/branches/; https://www.minna-no-ginko.com/alliance-service/; https://corporate.minna-no-ginko.com/common/pdf/news/2025/12/18/newsrelease_media_1218_01.pdf.]
+
 ## 戦略的な読み
 
 みんなの銀行の BaaS は、ネット銀行の「口座獲得」を自社アプリ単独ではなく、非金融サービスの顧客基盤へ外部化する戦略。FFG / みんなの銀行側の資料では、BaaS パートナー経由の口座獲得を増やし、B2C 口座と BaaS 口座の比率を将来的に反転させる方向性が示されている。
@@ -43,6 +46,8 @@ translated_at: 2026-06-02T11:47:37.295Z
 | 口座 | 誰が預金契約の主体か |
 | 指図 | 誰が資金移動や口座操作の指図を受けるか |
 | インタフェース | どのアプリ / ブランドがユーザー接点になるか |
+
+出典: これは、開示された BaaS 構造から派生した勤勉質問表です。答えはパートナー契約と規制されている役割によって異なります。 ^[Sources: https://baas.minna-no-ginko.com/; https://www.minna-no-ginko.com/alliance-service/.]
 
 ## メルカリのケース
 
@@ -62,8 +67,8 @@ translated_at: 2026-06-02T11:47:37.295Z
 
 ## 出典
 
-- みんなの銀行: みんなのBaaS official service page.
-- みんなの銀行: パートナー支店モデル official page.
+- みんなの銀行：みんなの BaaS 公式サービスページ。
+- みんなの銀行：パートナー支店モデル公式ページ。
 - みんなの銀行: 提携サービス / BaaS overview.
 - FFG IR Day, 2025-09-08: みんなの銀行の事業戦略.
 - みんなの銀行 / メルペイ, 2025-12-18: メルカリバンク service launch release.

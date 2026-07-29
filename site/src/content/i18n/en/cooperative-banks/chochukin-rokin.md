@@ -1,21 +1,22 @@
 ---
 source: cooperative-banks/chochukin-rokin
-source_hash: 0e845f4f1df1b775
+source_hash: f4e35b03cb6ac274
 lang: en
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "中央労働金庫 (Chuo Rokin / Central Labour Bank)"
-translated_at: 2026-06-18T23:33:48.341Z
+translated_at: 2026-07-29T03:30:48.124Z
 ---
 # 中央労働金庫 (Chuo Rokin / Central Labour Bank)
 
 ## Wiki route
 
-This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the **largest of the 13 rokin (labour bank) operating companies in Japan**, providing the rokin-side operating-company anchor parallel to [[cooperative-banks/kyoto-chuo-shinkin|京都中央信用金庫]] (shinkin) and [[cooperative-banks/osaka-shogin-shinkumi|大阪商銀信用組合]] (shinkumi). Read it against [[cooperative-banks/rokin-renraku|労働金庫連合会 (Rokinren)]] for the cooperative-system central institution, [[banking/rokin-bank-registry-japan|rokin registry]] for the 13-rokin landscape, and [[banking/cooperative-banking-japan|cooperative banking domain]] for the broader regulatory boundary.
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the operating-company anchor for the rokin (labour bank) system in the Kanto area, parallel to [[cooperative-banks/kyoto-chuo-shinkin|Kyoto Chuo Shinkin Bank]] (shinkin) and [[cooperative-banks/osaka-shogin-shinkumi|Osaka Commercial Bank Credit Union]] (shinkumi). Read it against [[cooperative-banks/rokin-renraku|Labor Bank Federation (Rokinren)]] for the cooperative-system central institution, [[banking/rokin-bank-registry-japan|rokin registry]] for the 13-rokin landscape, and [[banking/cooperative-banking-japan|cooperative banking domain]] for the broader regulatory boundary.
 
 ## TL;DR
 
-Chuo Rokin (中央ろうきん) is the **Kanto-region 1 -metropolis 7 -prefecture wide-area labour bank that is the largest by total assets and deposits among the 13 rokin**. Founded on the Labour Bank Act, its operating base covers the 1  metropolises and 7  prefectures of Tokyo, Kanagawa, Saitama, Chiba, Ibaraki, Tochigi, Gunma, and Yamanashi. Its members are **labour unions, consumer co-ops, NPOs and other workers' organizations + individual workers**, and its core business is worker-welfare finance (home loans, education loans, housing funds, etc.). It is the largest member of [[cooperative-banks/rokin-renraku|労働金庫連合会]] + the representative of the 13  rokin nationwide (reflecting the population concentration + worker-household density of the Kanto area). With its distinctive **"cooperative-organization type + worker-purpose-limited"** model, it carries out a **worker-welfare-segment specialization** that is neither a bank (joint-stock type), a shinkin (for SMEs), nor a JA Bank (for farmers). ^[extracted]
+The Chuo Labor Bank (Chuo Rokin) is a wide-area labor bank that operates in 1 metropolis and 7 prefectures in the Kanto region. Based on the Labor Bank Act, the business base is Tokyo, Kanagawa, Saitama, Chiba, Ibaraki, Tochigi, Gunma, and Yamanashi. Its members are worker organizations such as labor unions, consumer cooperatives, and NPOs, and it handles deposits and loans for housing, education, automobiles, etc. for workers. The legal organizational form and membership base are different from Japan Bank, Shinkin Bank, and JA Bank.
 
 ## 1. License / organizational structure
 
@@ -28,9 +29,9 @@ Chuo Rokin (中央ろうきん) is the **Kanto-region 1 -metropolis 7 -prefectur
 | Governing law | Labour Bank Act |
 | Established | **2001 年 4 月 1 日** (by integration of 8 rokin across 1  metropolises and 7  prefectures) ^[extracted] |
 | Operating area | **Tokyo, Kanagawa, Saitama, Chiba, Ibaraki, Tochigi, Gunma, Yamanashi (1  metropolises and 7  prefectures)** |
-| System | [[cooperative-banks/rokin-renraku|労働金庫連合会]] member (the largest of all 13  members) |
+| system | [[cooperative-banks/rokin-renraku|Labor Bank Federation]] member |
 | Supervisory authority | FSA / Kanto Local Finance Bureau + Ministry of Health, Labour and Welfare (cooperative-organization side) |
-| Wiki role | **largest of the 13 rokin**, Kanto wide-area operating-company anchor |
+| Wiki role | Kanto wide area operating-company anchor |
 
 ### Composition of the 13  labour banks ^[extracted]
 
@@ -95,17 +96,17 @@ Members (worker households + member labour unions, co-ops, NPOs)
 
 | Indicator | Value | Notes |
 |---|---|---|
-| **Deposit balance** | **6 兆 8,913 億円** | largest of the 13 rokin (Chuo Rokin outline, 2025-03 ) |
+| **Deposit balance** | **6 兆 8,913 億円** | Central Roukin Overview 2025-03 end |
 | **Loans** | **4 兆 7,609 億円** | centered on home loans (ibid.) |
 | **Capital contributions** | **288 億円** | group members 11,318  members (ibid.) |
 | **Number of branches** | **130 店 branches** | 1 -metropolis 7 -prefecture wide area (ibid.) |
 | **Capital adequacy ratio** | **10.96%** | (ibid.) |
 
-> Note: Chuo Rokin does not disclose standalone "total assets" in its outline; it is a wide-area labour bank on a deposit basis of 6.9 兆円. For details, refer to the Chuo Rokin official outline / disclosure (https://chuo.rokin.com/aboutus/profile/). Note also that the standalone total assets of Rokinren (the central institution) are 8 兆 316 億円 (as of 2025-03 , central-institution statistics on a combined 13 -rokin basis).
+> Note: Chuo Roukin does not disclose its non-consolidated “total assets” in summary. For details, see [Chuo Roukin Official Overview](https://chuo.rokin.com/aboutus/profile/) See Disclosure.
 
 ### Representativeness within the 13 rokin
 
-- The **largest member** of [[cooperative-banks/rokin-renraku|労金連]], effectively leading the industry's direction
+- [[cooperative-banks/rokin-renraku|Labor Federation]] One of the 13 Labor Banks with the central organization
 - Committed to operating the **system IT / R・ONE system, analogous to JASTEM** (Rokinren shared infrastructure) ^[extracted]
 
 ### Home-loan flagship model
@@ -123,13 +124,15 @@ Members (worker households + member labour unions, co-ops, NPOs)
 
 | Indicator | Value (as of 2025-03 ) | Comparison |
 |---|---|---|
-| Deposits | 6 兆 8,913 億円 | largest of the 13 rokin |
+| deposit | 6 兆 8,913 億円 | Official summary published value |
 | Loans | 4 兆 7,609 億円 | centered on home loans |
 | Capital contributions | 288 億円 | - |
-| Capital adequacy ratio | 10.96% | on par with major shinkin + regional banks |
+| Equity ratio | 10.96% | Domestic standards |
 | Number of branches | 130 店 branches | 1 -metropolis 7 -prefecture wide area |
 | Number of full-time officers and employees | 3,008 名 | - |
 | Number of group members | 11,318  members | approximately 422 万 indirect constituents |
+
+Sources: [Chuo Labor Bank “Overview of the Safe”](https://chuo.rokin.com/aboutus/profile/)（2025-03-31 the current). Comparative rankings are not included because they are outside the scope of this document.
 
 > Note: figures are from the Chuo Rokin official outline (as of 2025-03 ). Standalone total assets are not disclosed in the outline.
 

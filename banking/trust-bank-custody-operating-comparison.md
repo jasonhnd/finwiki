@@ -6,9 +6,9 @@ aliases:
   - "信託銀行 custody operating comparison"
 domain: "banking"
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
-review_by: 2026-11-22
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [banking, trust-bank, custody, asset-administration, securities-settlement]
 status: active
@@ -43,6 +43,8 @@ This page sits under [[banking/INDEX|banking domain]] and compares the operating
 | ICSD / collateral infrastructure | [[foreign-financial-institutions/euroclear-bank-japan|Euroclear Bank Japan]], [[foreign-financial-institutions/clearstream-banking-japan|Clearstream Banking Japan]] | International settlement, collateral, cross-border custody | Do not treat ICSD branch presence as a domestic retail bank route. |
 | Market infrastructure | [[securities/japan-securities-depository-center|JASDEC]], [[securities/japan-securities-clearing-corp|JSCC]], BoJ JGB book-entry | Book-entry transfer, clearing, DVP, JGB settlement | Infrastructure is not an investment manager. |
 
+Sources: institution categories and functions are mapped from the FSA trust-business list, Trust Companies Association explanations, MTBJ/CBJ business pages, JASDEC, JSCC, and BoJ system pages. The examples do not establish market share. ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; https://www.shintaku-kyokai.or.jp/trust/trustbanks/; https://www.mastertrust.co.jp/about/overview.html; https://www.custody.jp/corporate/information/index.html; https://www.jasdec.com/en/system/; https://www.boj.or.jp/en/paym/jgb_bes/index.htm.]
+
 ## Operating Functions
 
 | Function | Who usually performs it | Analysis note |
@@ -74,6 +76,8 @@ Public comparison fields include ownership, client base, assets under custody / 
 | Investment-trust holdings | Look through to fund, manager, and beneficial-owner economics. |
 | Securities-lending balances | Can reflect lending programs, collateral, and market plumbing rather than directional short thesis. |
 | Foreign custodian name | Could be sub-custody or global custody for foreign investors. Do not assume local control intent. |
+
+Sources: the table is an interpretation protocol. Beneficial ownership and voting authority must be established from the issuer filing and applicable trust/fund disclosure, not from the nominee name alone. ^[Sources: https://www.shintaku-kyokai.or.jp/trust/trustbanks/; https://www.mastertrust.co.jp/about/overview.html; https://www.custody.jp/corporate/information/index.html.]
 
 ## Source Fields
 

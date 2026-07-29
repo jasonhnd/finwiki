@@ -1,14 +1,15 @@
 ---
 source: banking/minna-bank-baas-model
-source_hash: e10f75fa56437b80
+source_hash: ce2ea889258f7a38
 lang: en
+model: source-language-sync
 status: machine
 fidelity: ok
-title: "Minna Bank BaaS model"
-translated_at: 2026-05-31T03:19:56.357Z
+title: "みんなの銀行 BaaS model"
+translated_at: 2026-07-29T03:30:48.115Z
 ---
 
-# Minna Bank BaaS model
+# みんなの銀行 BaaS model
 
 ## Wiki route
 
@@ -16,39 +17,43 @@ This entry sits under [[banking/INDEX|banking index]]. Read it against [[banking
 
 ## TL;DR
 
-Minna Bank's BaaS runs as a combination of an **API-provision model** that embeds banking functions into external apps, and a **partner-branch model** that carries the partner company's brand. What matters is that the distinction lies not in "whether a banking license is held," but in the depth of the user touchpoint, the brand, and the API integration. [[banking/mercari-bank|Mercari Bank]] is the representative case of placing this BaaS on top of Mercari's strong everyday-life flow.
+みんなの銀行の BaaS は、銀行機能を外部アプリへ埋め込む **API提供モデル** と、パートナー企業のブランドを持つ **パートナー支店モデル** の組み合わせで動く。重要なのは、差分が「銀行ライセンスの有無」ではなく、ユーザー接点・ブランド・API連携の深さにある点。[[banking/mercari-bank|Mercari Bank]] は、メルカリの強い生活導線にこの BaaS を載せた代表例。
 
 ## Model map
 
 | Model | What changes | User experience | Representative links |
 |---|---|---|---|
-| API-provision model | Partner app connects to Minna Bank functions through APIs | Bank account / payment / balance functions appear inside the partner service | [[banking/quick-deposit-four-methods|Quick deposit four methods]], [[banking/mercari-bank-license-stack|Mercari Bank license stack]] |
-| Partner-branch model | A branch with partner branding is created inside Minna Bank's banking structure | The partner's users see a branded banking front, such as the Mercari Branch | [[banking/mercari-bank|Mercari Bank]], pixiv / DMM / ignica / and ST cases |
+| API提供モデル | Partner app connects to Minna Bank functions through APIs | Bank account / payment / balance functions appear inside the partner service | [[banking/quick-deposit-four-methods|Quick deposit four methods]], [[banking/mercari-bank-license-stack|Mercari Bank license stack]] |
+| パートナー支店モデル | A branch with partner branding is created inside Minna Bank's banking structure | The partner's users see a branded banking front, such as メルカリ支店 | [[banking/mercari-bank|Mercari Bank]], pixiv / DMM / ignica / and ST cases |
 | Hybrid | Partner branch plus API integration | Branded branch + seamless fund movement / account information inside the partner app | Mercari / Merpay × Minna Bank |
+
+Sources: Minna Bank's official BaaS and partner-branch pages define the first two models; the Mercari/Hybrid row is scoped to the cited joint launch release. Current partner status must be rechecked on the official alliance page. ^[Sources: https://baas.minna-no-ginko.com/; https://baas.minna-no-ginko.com/service/branches/; https://www.minna-no-ginko.com/alliance-service/; https://corporate.minna-no-ginko.com/common/pdf/news/2025/12/18/newsrelease_media_1218_01.pdf.]
 
 ## Strategic read
 
-Minna Bank's BaaS is a strategy that externalizes a net bank's "account acquisition" away from its own standalone app and toward the customer base of non-financial services. Materials from FFG / Minna Bank set out a direction of increasing account acquisition via BaaS partners and, going forward, inverting the ratio of B2C accounts to BaaS accounts.
+みんなの銀行の BaaS は、ネット銀行の「口座獲得」を自社アプリ単独ではなく、非金融サービスの顧客基盤へ外部化する戦略。FFG / みんなの銀行側の資料では、BaaS パートナー経由の口座獲得を増やし、B2C 口座と BaaS 口座の比率を将来的に反転させる方向性が示されている。
 
-The strength of this model lies in the fact that the bank does not simply sell APIs, but converts the partner company's everyday-life touchpoints into banking touchpoints. Sales proceeds for Mercari, deposits for Gaitame.com, shopping for ignica, creator settlement for pixiv — in this way it inserts banking functions into existing usage contexts.
+このモデルの強みは、銀行が単に API を売るのではなく、パートナー企業の生活接点を銀行接点に変換する点にある。メルカリなら売上金、外為どっとコムなら入金、イグニカなら買い物、pixiv ならクリエイター決済というように、既存の利用文脈に銀行機能を差し込む。
 
 ## License boundary
 
-"BaaS partner = banking operator" does not hold. The entity behind the deposit account and banking functions is Minna Bank; the partner side holds different license boundaries depending on the functions it provides — API connection, electronic-payment-services intermediary business, funds-transfer business, prepaid payment instruments, bank-agency business, and so on.
+「BaaS partner = 銀行業者」ではない。預金口座・銀行機能の主体はみんなの銀行であり、パートナー側は API 接続、電子決済等代行業、資金移動業、前払式支払手段、銀行代理業など、提供機能に応じた別のライセンス境界を持つ。
 
-For this reason, the axes to examine in BaaS design are the following 3 .
+そのため、BaaS の設計で見るべき軸は次の 3 つ。
 
 | Axis | Question |
 |---|---|
-| Account | Who is the party to the deposit contract |
-| Instruction | Who receives the instruction for fund movement or account operation |
-| Interface | Which app / brand becomes the user touchpoint |
+| Account | 誰が預金契約の主体か |
+| Instruction | 誰が資金移動や口座操作の指図を受けるか |
+| Interface | どのアプリ / ブランドがユーザー接点になるか |
+
+Sources: this is a diligence-question table derived from the disclosed BaaS structures; answers vary by partner contract and regulated role. ^[Sources: https://baas.minna-no-ginko.com/; https://www.minna-no-ginko.com/alliance-service/.]
 
 ## Mercari case
 
-[[banking/mercari-bank|メルカリバンク]] was launched as a service that uses a Minna Bank account from within the Mercari app via API integration with Merpay. The core UX is the ability to send sales proceeds instantly and free of charge into a Minna Bank ordinary deposit account, using Minna Bank's partner branch, the "Mercari Branch."
+[[banking/mercari-bank|メルカリバンク]] は、みんなの銀行口座をメルカリアプリからメルペイと API 連携して使うサービスとして開始された。売上金を即時かつ手数料無料でみんなの銀行普通預金口座に送れることが中核 UX で、みんなの銀行のパートナー支店「メルカリ支店」を使う。
 
-The key point here is that Merpay did not become a bank. As an electronic-payment-services intermediary, Merpay handles the display of account information and fund-movement instructions through API connection with Minna Bank.
+ここでの要点は、メルペイが銀行になったわけではないこと。メルペイは電子決済等代行業者として、みんなの銀行との API 接続を通じて口座情報の表示や資金移動指図を扱う。
 
 ## Related
 
@@ -62,8 +67,8 @@ The key point here is that Merpay did not become a bank. As an electronic-paymen
 
 ## Sources
 
-- Minna Bank: Minna no BaaS official service page.
-- Minna Bank: partner-branch model official page.
-- Minna Bank: partnered services / BaaS overview.
-- FFG IR Day, 2025-09-08: Minna Bank's business strategy.
-- Minna Bank / Merpay, 2025-12-18: Mercari Bank service launch release.
+- みんなの銀行: みんなのBaaS official service page.
+- みんなの銀行: パートナー支店モデル official page.
+- みんなの銀行: 提携サービス / BaaS overview.
+- FFG IR Day, 2025-09-08: みんなの銀行の事業戦略.
+- みんなの銀行 / メルペイ, 2025-12-18: メルカリバンク service launch release.

@@ -1,17 +1,19 @@
 ---
 source: banking/regional-bank-api-digital-partnership-route
-source_hash: ffdf1c48bc294668
+source_hash: c86270c2cffad8ac
 lang: ja
-model: local-ja-business-term-glossary
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "日本における地方銀行の API・デジタル提携ルート"
-translated_at: 2026-06-26T08:28:46.043Z
+translated_at: 2026-07-29T03:30:48.118Z
 ---
 
 # 日本における地方銀行の API・デジタル提携ルート
 
-## 概要日本における地方銀行のデジタル提携は、単なる「銀行アプリ」ではない。電子決済代行業の API 契約、共通 API プラットフォーム、銀行自社アプリ、会計 / 財務連携、BaaS 型の銀行提携、口座直結の決済レールに分かれる。
+## 概要
+
+日本の地方銀行と地方銀行のデジタル連携は、単なる「銀行アプリ」ではありません。これは、電子決済代行 API 契約、共有 API プラットフォーム、銀行所有のアプリ、会計/財務統合、BaaS スタイルの銀行パートナーシップ、および口座直接支払いレールに分かれています。
 
 本ページは [[payments/japan-bank-api-payment-agency-route|bank API route]]、[[payments/japan-bank-api-incident-and-fraud-control|bank API incident controls]]、[[banking/baas-japan-landscape|BaaS Japan landscape]]、[[banking/regional-bank-consolidation-pattern|regional bank consolidation]]、[[payments/account-to-account-payment-japan|account-to-account payments]]、[[financial-licenses/INDEX|legal / financial licenses]] と併せて用いること。
 
@@ -24,6 +26,8 @@ translated_at: 2026-06-26T08:28:46.043Z
 | 地方銀行公式アプリ | 地方銀行およびアプリ運営者 | 銀行アプリ、グループのフィンテック子会社、地域サービスプラットフォーム | 口座照会、振替、ポイント、デビット、貯蓄、地域コマース機能。 | 銀行免許、外部委託、該当する場合は電子決済代行業 / 銀行代理業ルート。 |
 | BaaS / 組込サービス | 銀行またはデジタル銀行パートナー | 非銀行プラットフォームまたはフィンテック | 別のサービスに組み込まれた口座 / 決済 / 本人確認 / 残高 UX。 | 銀行免許に加え、API / 代理業 / 仲介の契約。 |
 | 口座直結決済 | 地方銀行に決済ネットワークを加えたもの | Bank Pay / J-Debit / 口座直結の加盟店ルート | 銀行口座からの加盟店決済。 | [[payments/account-to-account-payment-japan|A2A route]] および [[payments/merchant-bank-pay-account-direct-acquiring|加盟店アクワイアリング controls]]。 |
+
+出典: ルート ラベルは、金融庁電子決済機関登録簿、全銀協オープン API 資料、および銀行固有の開示情報を合成したものです。ルート名は、すべての参加者が同じ登録を保持していること、または同じ API スコープをサポートしていることを証明するものではありません。 ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/dendai.pdf; https://www.zenginkyo.or.jp/abstract/council/openapi/; https://www.boy.co.jp/renkei/api.html.]
 
 ## 地方銀行の例
 
@@ -45,6 +49,8 @@ translated_at: 2026-06-26T08:28:46.043Z
 | 銀行は API システムの運用を外部委託しているか? | 外部委託とインシデント責任が問題になる。 |
 | アプリは銀行自社、銀行提携、第三者のいずれか? | 法人および利用者補償の経路が UX のブランディングと異なりうる。 |
 | そのフローはウォレット残高を生むか、銀行口座の移動のみか? | 資金決済法上の分類が変わりうる。 |
+
+出典: これらは対照的な質問です。登録は現在の FSA レジストリでチェックされます。 API の範囲と責任は、関連する銀行/パートナー契約の開示で確認されます。 ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/dendai.pdf; https://www.zenginkyo.or.jp/fileadmin/res/abstract/council/openapi/openapi_text_1.pdf.]
 
 ## JapanFG との関連
 

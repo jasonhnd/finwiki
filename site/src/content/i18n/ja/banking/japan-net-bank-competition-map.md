@@ -1,17 +1,19 @@
 ---
 source: banking/japan-net-bank-competition-map
-source_hash: 7bd69fed49f99759
+source_hash: b1b774e1d80c7858
 lang: ja
-model: local-ja-business-term-glossary
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "日本のネット銀行競争マップ"
-translated_at: 2026-06-26T08:29:25.260Z
+translated_at: 2026-07-29T03:30:48.107Z
 ---
 
 # 日本のネット銀行競争マップ
 
-## 概観日本のネット銀行の競争には、いくつかの公的な事業モデルが含まれる。エコシステム型リテール銀行、フルバンキングのBaaS／ホワイトラベル銀行、中小企業／法人API銀行、証券／資産形成銀行、地域グループのデジタル銀行である。FSAの銀行一覧は法的なユニバースを提供する。公開比較項目には、顧客獲得チャネル、親エコシステム、預金フランチャイズ、貸出構成、BaaSの深度、証券／決済の隣接性、メインアカウント転換が含まれる。
+## 概要
+
+日本のネット銀行競争には、経済圏型リテール銀行、フルバンキング型 BaaS / ホワイトラベル銀行、中小企業・法人向け API 銀行、証券・資産形成型銀行、地域金融グループ系デジタル銀行という複数の公開上確認できる運用モデルがある。法的な範囲は FSA の銀行免許一覧で確認する。公開情報で比較できる項目には、顧客獲得チャネル、親会社の経済圏、預金基盤、融資構成、BaaS の深度、証券・決済との隣接性、メイン口座化が含まれる。
 
 このページは [[banking/INDEX|banking index]]、[[banking/rakuten-bank|Rakuten Bank]]、[[banking/paypay-bank|PayPay Bank]]、[[banking/au-jibun-bank|au Jibun Bank]]、[[regional-banks/ssnb|SSNB]]、[[payment-firms/gmo-aozora-net|GMO Aozora Net Bank]]、[[regional-banks/sony-bank|Sony Bank]]、[[regional-banks/ui-bank|UI Bank]]、[[banking/minna-bank-baas-model|Minna Bank BaaS model]]、[[banking/japan-baas-operating-models|Japan BaaS operating models]]、[[banking/post-megabank-positioning|post-megabank positioning]] と合わせて使うこと。
 
@@ -36,6 +38,8 @@ translated_at: 2026-06-26T08:29:25.260Z
 | BaaS／API深度 | パートナー支店、APIサービス、ホワイトラベル口座、法人API | 消費者向けアプリ銀行と、プラットフォームインフラ銀行を区別する。 |
 | 証券／決済の隣接性 | ブローカレッジ、ウォレット、カード、QR決済、クイック入金、FX | 純利ざやを超えた日次頻度と収益を説明する。 |
 | 規制スタック | 銀行免許、銀行代理業、電子決済等代行業、資金移動業、前払、金商法 | UXが法的機能と混同されるのを防ぐ。 |
+
+ソース: 比較軸は収集プロトコルです。法的な銀行のアイデンティティは FSA ワークブックから取得されますが、所有権、商品、営業指標は各銀行の日付の公式開示から取得する必要があります。この表には順位が含まれていません。 ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx; https://www.paypay-bank.co.jp/company/about/; https://www.jibunbank.co.jp/corporate/performance/; https://www.netbk.co.jp/contents/company/about/; https://gmo-aozora.com/company/outline.html; https://sonybank.jp/corporate/aboutus/profile.html; https://www.uibank.co.jp/info/.]
 
 ## モデルに関する注記
 

@@ -1,55 +1,58 @@
 ---
 source: cooperative-banks/johoku-shinkin
-source_hash: 8d86b8e7889ed3ec
+source_hash: d3e5fb61ce5c3cf4
 lang: ja
+model: source-language-sync
 status: machine
 fidelity: ok
 title: "城北信用金庫"
-translated_at: 2026-06-15T03:48:21.932Z
+translated_at: 2026-07-29T03:30:48.128Z
 ---
 
 # 城北信用金庫
 
-## Wiki ルート
+## Wiki route
 
-本項目は [[cooperative-banks/INDEX|cooperative-banks index]] に属する。東京の信用金庫ブロック内での同業 / 対比（東京南西部 vs 北部）については [[cooperative-banks/jonan-shinkin|城南信用金庫]] を、体系のランドスケープについては [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] を、その上位の協同組織中央機関については [[cooperative-banks/shinkin-central|信金中央金庫]] を、信用金庫に対する監督 / 免許の境界については [[financial-regulators/fsa|the FSA]] を併せて参照のこと。
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks index]]. Read it against [[cooperative-banks/jonan-shinkin|城南信用金庫]] for peer / contrast context (Tokyo 南西部 vs 北部) inside the Tokyo shinkin block, [[banking/shinkin-bank-registry-japan|Japan shinkin bank registry]] for the system landscape, [[cooperative-banks/shinkin-central|信金中央金庫]] for the cooperative central institution above it, and [[financial-regulators/fsa|the FSA]] for the supervisory / licensing boundary over 信用金庫.
 
 ## TL;DR
 
 城北信用金庫は、東京都荒川区に本店を置く、東京北部（荒川・足立・北・台東・葛飾・板橋など）と埼玉県南部を主たる営業地盤とする中堅信用金庫。下町の中小製造業・商店・個人事業主への融資を中核とする協同組織金融機関。
 
-## 1. ライセンス / グループ境界
+## 1. License / group boundary
 
-| 項目 | 備考 |
+| Item | Notes |
 |---|---|
-| 正式名称 | 城北信用金庫 |
-| 機関種別 | 信用金庫 (shinkin bank) — 信用金庫法に基づく会員制協同組織 |
-| ライセンスルート | 信用金庫法 / FSA 信用金庫免許一覧 |
-| 監督官庁 | [[financial-regulators/fsa|金融庁 (FSA)]] + 関東財務局（地域 財務局への委任監督） |
-| グループ境界 | [[cooperative-banks/shinkin-central|信金中央金庫]] 協同組織システムの会員 |
-| 預金保護 | [[financial-regulators/dic|預金保険機構 (DIC)]] — 信用金庫の預金は DIC 保険対象 |
-| 営業地盤 | 東京都北部 + 埼玉県南部 |
-| Wiki 上の役割 | 東京北部 信用金庫の operating-company アンカーページ |
+| Legal name | 城北信用金庫 |
+| Institution type | 信用金庫 (shinkin bank) — member-based cooperative under 信用金庫法 |
+| License route | 信用金庫法 / FSA 信用金庫免許一覧 |
+| Supervisor | [[financial-regulators/fsa|金融庁 (FSA)]] + 関東財務局 (regional 財務局 delegated supervision) |
+| Group boundary | Member of [[cooperative-banks/shinkin-central|信金中央金庫]] cooperative system |
+| Deposit protection | [[financial-regulators/dic|預金保険機構 (DIC)]] — shinkin deposits are DIC-insured |
+| Home market | 東京都北部 + 埼玉県南部 |
+| Wiki role | Tokyo 北部 shinkin operating-company anchor page |
 
-## 2. 機関種別のビジネスモデル
+Sources: 正式名、法人番号、本店所在地、免許名簿上の存在は金融庁一覧、営業地区・組織情報は城北信用金庫の公式プロフィールで確認する。 ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx; https://www.shinkin.co.jp/johoku/profile/.]
 
-**信用金庫 (shinkin bank)** として、城北信用金庫は、信用金庫法に基づき設立された *会員制の協同組織預金取扱機関* であり、株式会社銀行ではない。会員資格と融資は定められた営業地区——ここでは東京の下町（荒川・足立・葛飾 など）と埼玉県南部——に限られ、信用供与は法令上、オープンな法人市場ではなく会員である中小企業（町工場・金属加工・印刷・革製品 などの中小製造業）と個人世帯に向けられている。剰余は会員と準備金に還元され、これが [[cooperative-banks/jonan-shinkin|城南信用金庫]] や [[cooperative-banks/asahi-shinkin|朝日信用金庫]] と共有する協同組織金融の階層を特徴づける defining feature である。
+## 2. Institution-type business model
 
-城北信用金庫は、東京北部の下町地域（荒川・足立・葛飾など）の中小製造業・町工場・小売商店向けの SME 融資・運転資金・住宅ローンを中核業務とする。下町の中小企業集積（金属加工・印刷・革製品など）への密着型融資が特徴。東京の信用金庫ランドスケープでは [[cooperative-banks/jonan-shinkin|城南信用金庫]]（南西部）・[[cooperative-banks/asahi-shinkin|朝日信用金庫]]（都心部）と並ぶ地域分担の一翼を担う。
+As a **信用金庫 (shinkin bank)**, 城北信用金庫 is a *member-based cooperative deposit-taking institution* chartered under 信用金庫法, not a joint-stock bank. Membership and lending are confined to a defined 営業地区 — here Tokyo's 下町 (荒川・足立・葛飾 etc.) and 埼玉県南部 — and credit is statutorily oriented to member SMEs (町工場・金属加工・印刷・革製品 などの中小製造業) and retail households rather than the open corporate market. Surplus is returned to members and reserves, the defining feature of the 協同組織金融 (cooperative finance) tier it shares with [[cooperative-banks/jonan-shinkin|城南信用金庫]] and [[cooperative-banks/asahi-shinkin|朝日信用金庫]].
 
-## 3. 体系・規制上のポジショニング
+城北信用金庫は、東京北部の下町地域（荒川・足立・葛飾など）の中小製造業・町工場・小売商店向けの SME 融資・運転資金・住宅ローンを中核業務とする。下町の中小企業集積（金属加工・印刷・革製品など）への密着型融資が特徴。東京の shinkin landscape では [[cooperative-banks/jonan-shinkin|城南信用金庫]]（南西部）・[[cooperative-banks/asahi-shinkin|朝日信用金庫]]（都心部）と並ぶ地域分担の一翼を担う。
 
-- **中央機関**: 流動性、剰余金運用、決済について [[cooperative-banks/shinkin-central|信金中央金庫 (Shinkin Central Bank)]] の下に位置する — JA システムにおける [[cooperative-banks/norinchukin|農林中央金庫]] の信用金庫版アナログ。
-- **監督**: [[financial-regulators/fsa|the FSA]] により信用金庫法に基づき免許を受け、日常的な監督は地域 財務局に委任される; 預金は [[financial-regulators/dic|the Deposit Insurance Corporation (DIC)]] により保護される。
-- **体系上の文脈**: 協同組織金融における信用金庫階層の位置については [[banking/cooperative-banking-japan|cooperative banking in Japan]] を、全国の信用金庫の母集団については [[banking/shinkin-bank-registry-japan|the shinkin registry]] を参照。
+## 3. System & regulatory positioning
 
-## 4. なぜこのページが重要か
+- **Central institution**: sits beneath [[cooperative-banks/shinkin-central|信金中央金庫 (Shinkin Central Bank)]] for liquidity, surplus-fund investment, and settlement — the shinkin analogue of [[cooperative-banks/norinchukin|農林中央金庫]] for the JA system.
+- **Supervision**: licensed under 信用金庫法 by [[financial-regulators/fsa|the FSA]] with day-to-day oversight delegated to the regional 財務局; deposits are insured by [[financial-regulators/dic|the Deposit Insurance Corporation (DIC)]].
+- **System context**: see [[banking/cooperative-banking-japan|cooperative banking in Japan]] for the shinkin tier's place within 協同組織金融 and [[banking/shinkin-bank-registry-japan|the shinkin registry]] for the national 信用金庫 population.
+
+## 4. Why this page matters
 
 - 東京下町中小製造業金融のキープレイヤーの operating-company entry。
-- 東京 信用金庫の地理的分担（城南 vs 城北 vs 朝日）のアンカー。
+- 東京 shinkin の地理的分担（城南 vs 城北 vs 朝日）のアンカー。
 - 下町中小企業集積の協同組織金融モデルのケース。
 
-## 関連
+## Related
 
 - [[cooperative-banks/shinkin-central]]
 - [[cooperative-banks/jonan-shinkin]]
@@ -59,8 +62,8 @@ translated_at: 2026-06-15T03:48:21.932Z
 - [[banking/cooperative-banking-japan]]
 - [[banking/INDEX]]
 
-## 出典
+## Sources
 
-- FSA: 信用金庫免許一覧（FSA 登録に基づく最新スナップショット）
-- 城北信用金庫 公式 会社概要（城北信用金庫 公式コーポレートサイトに基づく）
-- 信金中央金庫 協同組織システムの文脈
+- FSA: 信用金庫免許一覧 (latest snapshot per FSA registry)
+- 城北信用金庫 公式 会社概要 (per official 城北信用金庫 corporate site)
+- 信金中央金庫 cooperative system context
