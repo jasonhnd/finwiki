@@ -1,228 +1,197 @@
 ---
 source: real-estate-finance/j-reit-top-20-detailed-matrix
-source_hash: 2d12ae7217f20190
+source_hash: 075eab4f33f4e7ef
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
-title: "J-REIT トップ 20 詳細マトリクス"
-translated_at: 2026-06-26T08:29:01.773Z
+title: "J-REIT 20 銘柄リファレンス・マトリクス"
+translated_at: 2026-07-29T23:56:42+09:00
 ---
 
-# J-REIT トップ 20 詳細マトリクス
+# J-REIT 20 銘柄リファレンス・マトリクス
 
 ## TL;DR
 
-このマトリクスは、概算時価総額による**上場 J-REIT のトップ 20 **（2026-05時点）を、ティッカー、スポンサー、資産フォーカス、AUM 規模、時価総額バンド、LTV ポリシーゾーン、一口当たり分配金 (DPU) 利回りゾーン、スポンサータイプ、トップテナント・エクスポージャーのパターン、および 2024-2025 の一口当たり NAV と DPU の方向性トレンドを網羅する単一の比較表にマッピングしている。ランキングは四半期ごとに変動する — このマトリクスは**公開サーフェスの参照構造**であり、ライブのリーグテーブルではない。投資判断を下す前に、必ず [[real-estate-finance/j-reit-market-overview|J-REIT market overview]] の付随する JPX 統計と個別 J-REIT の IR 資料に対して現在の数値を相互チェックすること。
+本ページは**編集上選んだ 20 銘柄の参照集**であり、現在の時価総額上位 20、リーグテーブル、投資スクリーニングではない。複数セクターの発行体サンプルを残しつつ、全行を公式発行体証拠へつなぐ。最新の時価総額、AUM、LTV、1 口当たり分配金（DPU）、1 口当たり NAV、稼働率、テナント、スポンサー持分は、[JPX 上場 REIT 一覧](https://www.jpx.co.jp/english/equities/products/reits/issues/index.html)と各発行体の最新開示から更新する。
 
-トップ 20 は四つのスポンサーファミリーの周囲にクラスター化している：**国内デベロッパー系**（三井不動産、三菱地所、住友不動産、野村不動産、大和ハウス、積水ハウス、森ビル、森トラスト、ヒューリック、イオン）、**商社 / 金融コングロマリット系**（KJR を通じた三菱商事 / KKR、オリックス、大和証券、ケネディクス）、**外資系**（GLP、Prologis）、そして**独立系資産運用会社系**（東急不動産プラットフォーム下にホストされるプレミア、アクティビア）。このスポンサーファミリーへの集中は J-REIT ユニバースの**最も構造的な特徴**であり、マトリクスの残りの大部分はこのレンズを通して読むべきである — なぜそうなのかは [[real-estate-finance/j-reit-sponsor-structure-conflict|J-REIT sponsor structure and conflict of interest]] を参照。
+参照集には、国内デベロッパー、金融グループ、商社、グローバル物流プラットフォーム、資産運用会社との関係が含まれる。スポンサー分類は合併や資産運用会社の所有権取引で変わり得るため、古い解説の歴史的ラベルより現在の法人名と関係を優先する。[[real-estate-finance/j-reit-sponsor-structure-conflict|J-REIT sponsor structure and conflict of interest]] を参照。
 
 セクター文脈については、マトリクスを [[real-estate-finance/logistics-j-reit-vs-office-j-reit-asset-class-comparison|logistics J-REIT vs office J-REIT asset-class comparison]] と組み合わせること；米国との比較フレームについては [[real-estate-finance/j-reit-vs-us-reit-governance-comparison|J-REIT vs US REIT governance comparison]] を使うこと。
 
-## Wiki ルート本項目は [[real-estate-finance/INDEX|real-estate-finance index]] の下に位置し、より短い [[real-estate-finance/top-10-j-reit-overview-matrix|top 10 J-REIT overview matrix]] に対する**実名トップ 20 マトリクスの付随版**として置かれている。個別 REIT ページが存在する場合はそれらと照合して読むこと：[[real-estate-finance/nippon-building-fund-j-reit-8951|Nippon Building Fund (NBF, 8951)]]、[[real-estate-finance/japan-real-estate-j-reit-8952|Japan Real Estate (JRE, 8952)]]、[[real-estate-finance/nomura-real-estate-master-fund-nmf|Nomura Real Estate Master Fund (NMF, 3462)]]、[[real-estate-finance/glp-j-reit-3281|GLP J-REIT (3281)]]、[[real-estate-finance/nippon-prologis-reit-3283|Nippon Prologis REIT (3283)]]。システムフレーム：[[real-estate-finance/j-reit-market-overview|J-REIT market overview]]、[[real-estate-finance/j-reit-vs-us-reit-governance-comparison|J-REIT vs US REIT governance comparison]]、[[real-estate-finance/j-reit-sponsor-structure-conflict|J-REIT sponsor structure and conflict]]、[[real-estate-finance/j-reit-foreign-investor-ownership|J-REIT foreign-investor ownership]]、[[real-estate-finance/j-reit-dividend-yield-vs-jgb-spread|J-REIT dividend yield vs JGB spread]]、[[real-estate-finance/real-estate-cap-rate-compression-2026|cap-rate compression 2026]]。
+## Wiki ルート
 
-スポンサー側のデベロッパー項目：[[real-estate-finance/mitsui-fudosan-financing-model|Mitsui Fudosan financing model]]、[[real-estate-finance/mitsubishi-estate-financing-model|Mitsubishi Estate financing model]]、[[real-estate-finance/aeon-mall-financing-and-securitization|AEON Mall financing and securitization]]。受託者の文脈：すべての J-REIT の背後にある信託銀行の受託者レイヤーについては [[banking/trust-bank-custody-operating-comparison|trust bank カストディ operating comparison]]。
+本項目は [[real-estate-finance/INDEX|real-estate-finance index]] の下に置く**実名発行体の参照マトリクス**である。より短い [[real-estate-finance/top-10-j-reit-overview-matrix|top 10 J-REIT overview matrix]] の続編ではなく、同じ銘柄が現在も上位だとは主張しない。個別ページがある場合は、[[real-estate-finance/nippon-building-fund-j-reit-8951|Nippon Building Fund (NBF, 8951)]]、[[real-estate-finance/japan-real-estate-j-reit-8952|Japan Real Estate (JRE, 8952)]]、[[real-estate-finance/nomura-real-estate-master-fund-nmf|Nomura Real Estate Master Fund (NMF, 3462)]]、[[real-estate-finance/glp-j-reit-3281|GLP J-REIT (3281)]]、[[real-estate-finance/nippon-prologis-reit-3283|Nippon Prologis REIT (3283)]] と照合する。制度・市場の枠組みは [[real-estate-finance/j-reit-market-overview|J-REIT market overview]]、[[real-estate-finance/j-reit-vs-us-reit-governance-comparison|J-REIT vs US REIT governance comparison]]、[[real-estate-finance/j-reit-sponsor-structure-conflict|J-REIT sponsor structure and conflict]]、[[real-estate-finance/j-reit-foreign-investor-ownership|J-REIT foreign-investor ownership]]、[[real-estate-finance/j-reit-dividend-yield-vs-jgb-spread|J-REIT dividend yield vs JGB spread]]、[[real-estate-finance/real-estate-cap-rate-compression-2026|cap-rate compression 2026]] を参照。
 
-## 1. トップ 20 — 単一表のマスターマトリクス
+スポンサー側のデベロッパー項目：[[real-estate-finance/mitsui-fudosan-financing-model|Mitsui Fudosan financing model]]、[[real-estate-finance/mitsubishi-estate-financing-model|Mitsubishi Estate financing model]]、[[real-estate-finance/aeon-mall-financing-and-securitization|AEON Mall financing and securitization]]。役割の文脈：投資法人の資産保管会社 / 一般事務受託者と物件レベルの信託受託者を別々に特定する方法は [[banking/trust-bank-custody-operating-comparison|trust bank カストディ operating comparison]] を参照する。すべての J-REIT の背後に単一の受託者レイヤーがあるとは仮定しない。
 
-| # | J-REIT | Code | Sponsor | Sponsor type | Asset focus | AUM band (~JPY tn) | Market-cap band (~JPY tn) | LTV policy zone | DPU yield zone | Top-tenant concentration | 2024-2025 NAV trend | 2024-2025 DPU trend |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | [[real-estate-finance/nippon-building-fund-j-reit-8951\|Nippon Building Fund (NBF)]] | 8951 | [[real-estate-finance/mitsui-fudosan-financing-model\|Mitsui Fudosan]] | Developer | Office (Tokyo CBD) | ~1.4 | ~0.8-0.9 | Conservative (low-40% zone) | Lower-end (premium) | Multi-tenant (low concentration) | Flat to mildly down (office cap-rate widening) | Stable to mildly up (rent revisions) |
-| 2 | [[real-estate-finance/japan-real-estate-j-reit-8952\|Japan Real Estate (JRE)]] | 8952 | [[real-estate-finance/mitsubishi-estate-financing-model\|Mitsubishi Estate]] | Developer | Office (Marunouchi / Otemachi) | ~1.2 | ~0.7-0.8 | Conservative (low-40% zone) | Lower-end (premium) | Multi-tenant; Marunouchi premier | Flat (Marunouchi resilience) | Stable |
-| 3 | [[real-estate-finance/nomura-real-estate-master-fund-nmf\|Nomura Real Estate Master Fund (NMF)]] | 3462 | Nomura Real Estate ([[securities-firms/nomura-hd\|Nomura HD]]) | Developer | Diversified (office, retail, logistics, residential) | ~1.1 | ~0.6-0.7 | Mid-40% zone | Mid | Multi-tenant diversified | Flat | Stable to mildly up |
-| 4 | [[real-estate-finance/glp-j-reit-3281\|GLP J-REIT]] | 3281 | GLP (Singapore-headquartered global logistics platform) | Foreign (logistics platform) | Logistics (modern Class A) | ~0.9 | ~0.5-0.6 | Mid-40% zone | Mid (logistics-tight) | Single-anchor / few-tenant per facility; 3PL and e-commerce | Compressed (logistics cap-rate held) | Stable to up |
-| 5 | [[real-estate-finance/nippon-prologis-reit-3283\|Nippon Prologis REIT (NPR)]] | 3283 | Prologis (US-listed global logistics REIT) | Foreign (logistics platform) | Logistics (Class A) | ~0.8 | ~0.5-0.6 | Mid-40% zone | Mid (logistics-tight) | Single-anchor / 3PL and e-commerce anchored | Compressed; very tight cap rate | Stable to up |
-| 6 | Daiwa Office Investment | 8976 | [[securities-firms/daiwa-sg\|Daiwa Securities Group]] | Trading / financial | Office (mid-size buildings in major cities) | ~0.5 | ~0.3-0.4 | Mid-40% zone | Mid | Multi-tenant mid-size buildings | Flat to mildly down (mid-size office softness) | Stable |
-| 7 | Nippon Accommodations Fund | 3226 | Mitsui Fudosan Residential | Developer (residential) | Residential (rental apartments) | ~0.5 | ~0.3-0.4 | Mid-40% zone | Mid | Granular individual-tenant; very low single-tenant concentration | Flat | Stable to up (rent revisions on lease renewal) |
-| 8 | Japan Logistics Fund | 8967 | Mitsui & Co (JLF Asset Management) | Trading / sponsor (Mitsui & Co) | Logistics | ~0.4 | ~0.3 | Mid-40% zone | Mid | Single-tenant logistics; 3PL anchor | Mildly compressed | Stable to up |
-| 9 | Sekisui House REIT | 3309 | Sekisui House | Developer (residential / commercial) | Diversified (office + residential) | ~0.5 | ~0.3 | Mid-40% zone | Mid | Multi-tenant office + granular residential | Flat | Stable |
-| 10 | [[leasing-firms/orix-corp\|Orix]] JREIT | 8954 | [[leasing-firms/orix-corp\|Orix]] | Financial conglomerate | Diversified (office-heavy) | ~0.7 | ~0.4-0.5 | Mid-40% zone | Mid | Multi-tenant diversified | Flat | Stable |
-| 11 | Mori Hills REIT | 3234 | Mori Building | Developer (urban redevelopment) | Office / urban redevelopment (Roppongi, Toranomon, Atago) | ~0.4 | ~0.2-0.3 | Mid-40% zone | Mid | Multi-tenant; urban-redevelopment anchored | Flat (urban-redev resilience) | Stable to mildly up |
-| 12 | Mori Trust Sogo REIT (Mori Trust REIT) | 3478 | Mori Trust | Developer | Office-heavy diversified | ~0.4 | ~0.2-0.3 | Mid-40% zone | Mid | Multi-tenant; office-heavy mixed | Flat | Stable |
-| 13 | Industrial & Infrastructure Fund (IIF) | 3249 | KJR Management (post KKR acquisition of MC-UBS Realty); Mitsubishi Corp historical | Trading / financial sponsor (now PE-owned AM) | Logistics + industrial infrastructure | ~0.5 | ~0.3-0.4 | Mid-40% zone | Mid (logistics theme) | Mixed: single-tenant logistics + multi-tenant industrial infrastructure | Mildly compressed | Stable to up |
-| 14 | Activia Properties | 3279 | Tokyu Land Capital Management (Tokyu Land) | Developer (Tokyu Land) | Urban retail + office (Tokyo prime locations) | ~0.5 | ~0.3 | Mid-40% zone | Mid | Multi-tenant urban retail + office | Flat (urban-retail recovery) | Stable to up |
-| 15 | Frontier Real Estate | 8964 | Mitsui Fudosan (originally; sponsor changes possible) | Developer | Retail (suburban / urban retail) | ~0.4 | ~0.2-0.3 | Mid-40% zone | Mid (retail theme) | Multi-tenant retail centers | Flat | Stable |
-| 16 | Premier Investment | 8956 | NTT Urban Development (host AM with separate sponsor base) | Independent / hybrid sponsor | Office + residential diversified | ~0.3 | ~0.2 | Mid-40% zone | Mid to higher (smaller-cap discount) | Multi-tenant diversified | Flat | Stable |
-| 17 | Kenedix Office (KDX Realty Investment) | 8972 | Kenedix (independent AM, since merged into KDX REIT structure) | Independent | Office (mid-size buildings) | ~0.5 | ~0.3 | Mid-40% zone | Mid to higher | Multi-tenant mid-size buildings | Mildly down (mid-size office) | Stable |
-| 18 | Hulic REIT | 3295 | Hulic | Developer (real-estate operating company) | Office + retail + residential diversified | ~0.4 | ~0.2-0.3 | Mid-40% zone | Mid | Multi-tenant diversified | Flat | Stable |
-| 19 | Mitsui Fudosan Logistics Park REIT (MFLP-REIT) | 3471 | [[real-estate-finance/mitsui-fudosan-financing-model\|Mitsui Fudosan]] | Developer (logistics) | Logistics (MFLP-branded) | ~0.5 | ~0.3-0.4 | Mid-40% zone | Mid (logistics theme) | Single-anchor / 3PL anchored logistics | Mildly compressed | Stable to up |
-| 20 | [[real-estate-finance/aeon-mall-financing-and-securitization\|AEON]] REIT Investment | 3292 | [[retail/aeon-group\|AEON]] / AEON Mall | Developer (retail mall) | Retail (AEON-branded shopping malls) | ~0.4 | ~0.2-0.3 | Mid-40% zone | Mid (retail theme) | Single-anchor (AEON as master tenant) at most properties | Flat (retail mall recovery) | Stable |
+## 1. 20 銘柄の参照集
 
-**マトリクスに関する注意点**：AUM バンドは JPY 兆円規模の概算オーダーである。時価総額バンドは日付固有であり、価格変動および新規エクイティ発行によって変動する。LTV「ポリシーゾーン」は、ライブの LTV ではなく、IR 資料で開示されたポリシーバンドを指す。DPU 利回り「ゾーン」は相対的なものであり（lower-end = プレミアム、mid = 市場、higher = 小型株 / スポンサー利益相反ディスカウント）、正確なパーセントではない。「flat」「stable」「compressed」「mildly down/up」とラベル付けされたトレンドは、定期 IR 資料および ARES セクター統計で報告された 2024-2025 期間の方向性の要約である。投資判断を形成する前に、JPX REIT 統計、ARES J-REIT 月次統計、および各 REIT の IR サイトからライブの数値を取得すること。
+行の根拠（2026-07-29 確認）：全 REIT 名は公式 IR ポータルへ直接リンクする。現在のコードと法人名は[JPX 上場 REIT 一覧](https://www.jpx.co.jp/english/equities/products/reits/issues/index.html)で照合。行番号は編集上の参照番号であり、順位ではない。
 
-## 2. 資産クラス集中マトリクストップ 20 を資産フォーカス別に有用に再カットしたもので、市場の上位がセクターエクスポージャー別にどう分かれているかを示す：
+| Ref | J-REIT | コード | スポンサー／資産運用会社との関係 | 大分類 | 更新ルール |
+|---|---|---|---|---|---|
+| 1 | [日本ビルファンド投資法人](https://www.nbf-m.com/nbf_e/) | 8951 | 三井不動産に関連する資産運用会社 | オフィス | 最新の発行体ポートフォリオ・財務データを使う |
+| 2 | [ジャパンリアルエステイト投資法人](https://www.j-re.co.jp/en_cms/) | 8952 | 三菱地所に関連する資産運用会社 | オフィス | 最新の発行体ポートフォリオ・財務データを使う |
+| 3 | [野村不動産マスターファンド投資法人](https://www.nre-mf.co.jp/en/) | 3462 | 野村不動産ホールディングスが 100% 保有する資産運用会社。野村不動産は開示上の情報提供会社 | 総合型 | 野村ホールディングスとの親子関係を推定しない |
+| 4 | [GLP 投資法人](https://www.glpjreit.com/en/) | 3281 | GLP に関連する資産運用会社 | 物流 | 最新の発行体ポートフォリオ・財務データを使う |
+| 5 | [日本プロロジスリート投資法人](https://www.prologis-reit.co.jp/en/) | 3283 | Prologis に関連する資産運用会社 | 物流 | 最新の発行体ポートフォリオ・財務データを使う |
+| 6 | [大和証券オフィス投資法人](https://www.daiwa-office.co.jp/en/) | 8976 | 大和証券グループに関連する資産運用会社 | オフィス | 最新の発行体ポートフォリオ・財務データを使う |
+| 7 | [日本アコモデーションファンド投資法人](https://www.naf-r.jp/english/) | 3226 | 三井不動産に関連する資産運用会社 | 住宅 | 最新の発行体ポートフォリオ・財務データを使う |
+| 8 | [日本ロジスティクスファンド投資法人](https://www.jlf-reit.com/english/) | 8967 | 三井物産に関連する資産運用会社 | 物流 | 最新の発行体ポートフォリオ・財務データを使う |
+| 9 | [積水ハウス・リート投資法人](https://sekisuihouse-reit.co.jp/en/) | 3309 | 積水ハウスに関連する資産運用会社 | 総合型 | 最新の発行体ポートフォリオ・財務データを使う |
+| 10 | [オリックス不動産投資法人](https://www.orixjreit.com/en/) | 8954 | ORIX に関連する資産運用会社 | 総合型 | 最新の発行体ポートフォリオ・財務データを使う |
+| 11 | [森ヒルズリート投資法人](https://www.morihills-reit.co.jp/en/) | 3234 | 森ビルに関連する資産運用会社 | オフィス／複合用途 | 最新の発行体ポートフォリオ・財務データを使う |
+| 12 | [森トラストリート投資法人](https://www.mt-reit.jp/en/) | 8961 | 森トラストに関連する資産運用会社 | 総合型 | 現行コード／名称が統合前の歴史的名称に優先 |
+| 13 | [産業ファンド投資法人](https://www.iif-reit.com/en/) | 3249 | KJR Management／KKR に関連する資産運用プラットフォーム | 物流 + 産業インフラ | 現行の資産運用会社所有関係を使う |
+| 14 | [アクティビア・プロパティーズ投資法人](https://www.activia-reit.co.jp/en/) | 3279 | 東急不動産に関連する資産運用会社 | 都市型リテール + オフィス | 最新の発行体ポートフォリオ・財務データを使う |
+| 15 | [三井不動産リテールファンド投資法人](https://www.frontier-reit.co.jp/en/) | 8964 | 三井不動産に関連する資産運用会社 | リテール | 現行法人名が旧 Frontier Real Estate 名称に優先 |
+| 16 | [NTT 都市開発リート投資法人](https://www.pic-reit.co.jp/en/) | 8956 | NTT 都市開発に関連する資産運用会社 | 総合型 | 現行法人名が旧 Premier Investment 名称に優先 |
+| 17 | [KDX 不動産投資法人](https://www.kdx-reit.com/eng/) | 8972 | Kenedix に関連する資産運用会社 | 総合型 | 現在の統合ビークルが旧 Kenedix Office 名称に優先 |
+| 18 | [ヒューリックリート投資法人](https://www.hulic-reit.co.jp/en/) | 3295 | Hulic に関連する資産運用会社 | 総合型 | 最新の発行体ポートフォリオ・財務データを使う |
+| 19 | [三井不動産ロジスティクスパーク投資法人](https://www.mflp-reit.co.jp/en/) | 3471 | 三井不動産に関連する資産運用会社 | 物流 | 最新の発行体ポートフォリオ・財務データを使う |
+| 20 | [イオンリート投資法人](https://www.aeon-jreit.co.jp/en/) | 3292 | AEON に関連する資産運用会社 | リテール | 最新の発行体ポートフォリオ・財務データを使う |
 
-| Asset class | Top-20 names | Approximate count |
+概算 AUM、時価総額バンド、LTV ゾーン、利回りゾーン、NAV／DPU の方向ラベルは削除した。これらは時点依存で、出典のない静的リーグテーブルから再現できないためである。
+
+## 2. 参照集内のアセットクラス構成
+
+表の根拠（2026-07-29 確認）：上の行別リンク付きマスター表にある大分類を機械的に再集計した。件数はこの選定集だけを表し、JPX 全体の構成や現在の時価総額ウェイトを表さない。
+
+| 大分類 | 参照集の銘柄 | 件数 |
+|---|---|---:|
+| オフィス／オフィス中心の複合用途 | NBF (8951), JRE (8952), Daiwa Office (8976), Mori Hills (3234) | 4 |
+| 総合型 | NMF (3462), Sekisui House REIT (3309), ORIX JREIT (8954), MORI TRUST REIT (8961), NTT UD REIT (8956), KDX Realty (8972), Hulic Reit (3295) | 7 |
+| 物流／物流 + インフラ | GLP (3281), Nippon Prologis (3283), Japan Logistics Fund (8967), IIF (3249), MFLP (3471) | 5 |
+| リテール／都市型リテール混合 | Activia (3279), Mitsui Fudosan Retail Fund (8964), AEON REIT (3292) | 3 |
+| 住宅 | Nippon Accommodations Fund (3226) | 1 |
+
+## 3. スポンサー／資産運用会社との関係
+
+表の根拠（2026-07-29 確認）：関係ラベルはマスター表からリンクした公式発行体ポータルに基づく。「関連する」だけでは、所有比率、パイプライン権、現在のスポンサー持分は確定しない。
+
+| 関係の視点 | 参照集の例 | 必要な追加確認 |
 |---|---|---|
-| Office (sector-focused) | NBF (8951), JRE (8952), Daiwa Office (8976), Mori Hills (3234), Kenedix Office (8972) | 5 |
-| Diversified (multi-asset) | NMF (3462), Sekisui House REIT (3309), Orix JREIT (8954), Mori Trust Sogo (3478), Premier (8956), Hulic REIT (3295) | 6 |
-| Logistics (sector-focused) | GLP (3281), Nippon Prologis (3283), Japan Logistics Fund (8967), IIF (3249), MFLP-REIT (3471) | 5 |
-| Retail (sector-focused) | Frontier Real Estate (8964), AEON REIT (3292) | 2 |
-| Urban retail + office (mixed urban) | Activia Properties (3279) | 1 |
-| Residential (sector-focused) | Nippon Accommodations Fund (3226) | 1 |
+| 国内デベロッパー関連 | NBF, JRE, NMF, NAF, Sekisui House REIT, Mori Hills, MORI TRUST REIT, Activia, Mitsui Fudosan Retail Fund, Hulic Reit, MFLP | 現行の資産運用会社所有関係とサポート契約を読む |
+| 小売グループ関連 | AEON REIT | AEON Co. のスポンサー役割、資産運用会社、名称が開示されたサポート会社を分ける |
+| 金融グループ関連 | Daiwa Office, ORIX JREIT | 現行のグループ・資産運用会社開示を確認 |
+| 商社関連 | Japan Logistics Fund | 現行のグループ・資産運用会社開示を確認 |
+| 企業グループ関連 | NTT UD REIT | 金融・商社グループに分類せず、NTT 都市開発と資産運用会社の関係を確認 |
+| グローバル物流プラットフォーム関連 | GLP J-REIT, Nippon Prologis REIT | 現行スポンサーとパイプライン条件を確認 |
+| 資産運用会社の所有権取引が重要 | IIF, KDX Realty | 現在の所有関係と統合履歴を確認 |
 
-この分布は、トップ 20 が概ね次のようであることを示す：
-- ~25% オフィス・セクター特化
-- ~30% 総合型
-- ~25% 物流セクター特化
-- ~10% 小売セクター特化
-- ~5% 都市型小売 + オフィス混合
-- ~5% 住居系セクター特化
+この分類は記述的かつ非排他的であり、スポンサー品質のスコアではない。
 
-より広い J-REIT ユニバース（合計 ~60 の上場 J-REIT）のセクターエクスポージャーは、トップ 20の外に位置するニッチセグメント（ホテル REIT、ヘルスケア REIT、住居特化 REIT）へとより傾斜している。
+## 4. LTV 比較プロトコル
 
-## 3. スポンサータイプ・マトリクス
+表の根拠（2026-07-29 確認）：マスター表の発行体リンクを現行 LTV 開示への入口とする。本ページは静的な「典型」バンドを割り当てない。
 
-| Sponsor type | Top-20 names | Approximate count |
-|---|---|---|
-| Domestic developer (Mitsui Fudosan family) | NBF (8951), Nippon Accommodations Fund (3226), Frontier Real Estate (8964), MFLP-REIT (3471) | 4 |
-| Domestic developer (Mitsubishi Estate family) | JRE (8952) | 1 |
-| Domestic developer (Nomura Real Estate) | NMF (3462) | 1 |
-| Domestic developer (Sekisui House) | Sekisui House REIT (3309) | 1 |
-| Domestic developer (Mori Building) | Mori Hills REIT (3234) | 1 |
-| Domestic developer (Mori Trust) | Mori Trust Sogo REIT (3478) | 1 |
-| Domestic developer (Hulic) | Hulic REIT (3295) | 1 |
-| Domestic developer (Tokyu Land) | Activia Properties (3279) | 1 |
-| Domestic developer (AEON / AEON Mall) | AEON REIT (3292) | 1 |
-| Trading-house / financial-conglomerate (Mitsui & Co) | Japan Logistics Fund (8967) | 1 |
-| Trading-house / financial-conglomerate (Mitsubishi Corp / KKR / KJR) | IIF (3249) | 1 |
-| Financial conglomerate ([[leasing-firms/orix-corp\|Orix]]) | Orix JREIT (8954) | 1 |
-| Trading / securities ([[securities-firms/daiwa-sg\|Daiwa SG]]) | Daiwa Office (8976) | 1 |
-| Independent AM (Kenedix) | Kenedix Office (8972) | 1 |
-| Hybrid / NTT-affiliated (Premier) | Premier Investment (8956) | 1 |
-| Foreign logistics platform (GLP, Singapore) | GLP J-REIT (3281) | 1 |
-| Foreign logistics platform (Prologis, US) | Nippon Prologis REIT (3283) | 1 |
-
-トップ 20, のうち、**およそ 12 が国内不動産デベロッパーによってスポンサーされ**（三井不動産ファミリーが最大の単一スポンサークラスター）、**およそ 4 が商社 / 金融コングロマリット・グループによってスポンサーされ**、**2 が外資系物流プラットフォーム系**、そして **2 が独立系 / ハイブリッド**である。このスポンサー集中は、[[real-estate-finance/j-reit-sponsor-structure-conflict|J-REIT sponsor structure and conflict of interest]] に記録されている関連当事者取引ガバナンスの枠組みの構造的背景である。
-
-## 4. LTV ポリシーゾーン・マトリクス
-
-| LTV policy zone | Top-20 names |
+| 項目 | 再現可能な扱い |
 |---|---|
-| Conservative (low-40% zone) | NBF (8951), JRE (8952) |
-| Mid-40% zone (typical J-REIT) | NMF (3462), GLP (3281), NPR (3283), Daiwa Office (8976), Nippon Accommodations (3226), JLF (8967), Sekisui House (3309), Orix JREIT (8954), Mori Hills (3234), Mori Trust (3478), IIF (3249), Activia (3279), Frontier (8964), Premier (8956), Kenedix Office (8972), Hulic REIT (3295), MFLP-REIT (3471), AEON REIT (3292) |
-| Higher zone (sponsor-discretionary, occasionally above mid-40%) | None of the top 20 typically operates above mid-40% LTV on a sustained basis |
+| 開示 LTV | 発行体の数値、定義、貸借対照表日を記録 |
+| 方針上限／目標 | 現行発行体資料に明記された場合だけ引用 |
+| 分子／分母 | 有利子負債、総資産、鑑定価額など、発行体の定義を確認 |
+| 発行体間比較 | 定義と日付を統一してから順位付け |
+| 取得余力 | 表が示す数値ではなく分析上の推定として扱う |
 
-フラッグシップのオフィス J-REIT（NBF、JRE）は、トップ 20 の他の銘柄よりも**構造的にタイトな LTV** で運用している — 一部はその保守的なスポンサー・ガバナンスとベンチマーク地位の関数である。トップ 20 の大半は mid-40% LTV の周囲にクラスター化しており、より広い J-REIT 業界の規範と整合している。メガバンクと信託銀行がいかに LTV バンドを価格付けするかの貸し手側の対応物については [[real-estate-finance/bank-commercial-real-estate-lending-japan|bank commercial real estate lending Japan]] を参照。
+## 5. テナント集中の確認プロトコル
 
-## 5. テナント集中マトリクス
+表の根拠（2026-07-29 確認）：テナント集中は、マスター表からリンクした各発行体のポートフォリオと主要テナント開示から再構築する。
 
-| Tenant-concentration profile | Top-20 names |
+| 問い | 取得すべき証拠 |
 |---|---|
-| Single-anchor / few-tenant per facility (high concentration) | GLP (3281), Nippon Prologis (3283), Japan Logistics Fund (8967), MFLP-REIT (3471), AEON REIT (3292) |
-| Mixed single + multi-tenant | IIF (3249) |
-| Multi-tenant urban retail + office (moderate concentration) | Activia Properties (3279), Frontier Real Estate (8964) |
-| Multi-tenant office / diversified (low single-tenant concentration) | NBF (8951), JRE (8952), NMF (3462), Daiwa Office (8976), Sekisui House (3309), Orix JREIT (8954), Mori Hills (3234), Mori Trust (3478), Premier (8956), Kenedix Office (8972), Hulic REIT (3295) |
-| Granular individual-tenant (very low single-tenant concentration) | Nippon Accommodations (3226) |
+| 最大テナントへのエクスポージャー | 賃料、賃貸面積、その他明示された分母に対する比率 |
+| シングルテナント物件リスク | 物件別テナント数とリース満期 |
+| マルチテナント分散 | テナント数だけでは不足。賃料／面積集中も取得 |
+| マスターリース構造 | マスター賃借人、エンドテナントの透明性、満期条件 |
+| 比較可能性 | 測定日と分母を揃える |
 
-**物流 J-REIT** と **AEON REIT** は、高い単一テナント・エクスポージャーで際立っている：各施設は通常、単一の 3PL オペレーター（物流）または単一の AEON モール・マスターテナント（AEON REIT）によってアンカーされている。これはマルチテナント・オフィスモデルの構造的な逆である。テナント構造のトレードオフ経済性については [[real-estate-finance/logistics-j-reit-vs-office-j-reit-asset-class-comparison|logistics J-REIT vs office J-REIT asset-class comparison]] を参照。
+アセットクラスは発行体証拠の代わりにならない。物流物件にもシングル／マルチテナントがあり、オフィス／リテールでも重要な集中があり得る。
 
-## 6. 外資系スポンサー対国内スポンサーの分割トップ 20, のうち、**外資系スポンサーの J-REIT はわずか 2 つ** — 両方とも物流 — であり、**18 が国内スポンサー**である。これは、外部スポンサーという概念がほぼ存在しない米国 REIT 業界（米国 REIT は内部運用型；[[real-estate-finance/j-reit-vs-us-reit-governance-comparison|J-REIT vs US REIT governance comparison]] を参照）と比べて、J-REIT 業界の構造的に独特な特徴である。
+## 6. スポンサーの所在地と所有関係
 
-| Sponsor nationality | Top-20 names | Notes |
+行の根拠（2026-07-29 確認）：[GLP 投資法人](https://www.glpjreit.com/en/)、[日本プロロジスリート投資法人](https://www.prologis-reit.co.jp/en/)、[IIF](https://www.iif-reit.com/en/)、[KDX 不動産投資法人](https://www.kdx-reit.com/eng/)は、資産運用会社の所有権取引後に「外資対国内」の二分法が誤解を招き得る例である。
+
+| 分析上の問い | 扱い |
+|---|---|
+| スポンサー本社 | 現行スポンサー自身の開示から記録 |
+| 資産運用会社の法人 | 発行体が示す日本法人を記録 |
+| 最終支配 | 現在の所有関係を確認し、取引前ラベルを持ち越さない |
+| 投資口保有 | スポンサー国籍と分け、発行体／ARES の証拠を使う |
+| パイプラインの地域 | ブランドではなく現行サポート契約から確認 |
+
+## 7. 受託者の確認
+
+表の根拠（2026-07-29 確認）：[金融庁の制度概要](https://www.fsa.go.jp/en/refer/legislation/20130416/02.pdf)と[JPX J-REIT Guidebook](https://www.jpx.co.jp/english/equities/products/reits/guidebook/b5b4pj000003984r-att/REIT.pdf)が制度枠組みを説明する。法人レベルの選任と物件レベルの信託役割は、該当する現行開示から取得する。
+
+| 項目 | 確認ルール |
+|---|---|
+| 投資法人の資産保管会社 | 発行体のストラクチャーページまたは有価証券報告書から現在の法人名を取得 |
+| 一般事務受託者 | 機能と法人を取得し、資産保管会社と同一だと仮定しない |
+| 物件レベルの信託受託者 | 信託受益権で保有する場合に物件ごとに取得し、法人レベルの資産保管会社で代用しない |
+| スポンサー関係 | 別途分析する。受託者名だけではスポンサーとの整合を示さない |
+| 市場シェア | 全発行体の日付付き悉皆調査なしに順位を述べない |
+
+機能面は [[banking/trust-bank-custody-operating-comparison|trust bank カストディ operating comparison]] を参照。
+
+## 8. NAV と DPU の更新プロトコル
+
+表の根拠（2026-07-29 確認）：現在値はマスター表の公式発行体ポータルから取得し、市場価格と上場状態は [JPX](https://www.jpx.co.jp/english/equities/products/reits/issues/index.html)で確認する。
+
+| 指標 | 最低限取得する内容 |
+|---|---|
+| 1 口当たり NAV | 定義、評価日、発行済投資口数、対象期 |
+| DPU | 実績／予想の区別、対象期、一時利益の扱い |
+| 分配金利回り | 価格の時点と年率換算方法 |
+| トレンド | 同じ定義を使った少なくとも 2 期間 |
+| 説明要因 | 発行体説明を引用し、分析上の推定と分ける |
+
+旧来の 2024-2025 方向ラベルは、期間・定義・根拠のないセクター一般化を混在させていたため削除した。
+
+## 9. サブクラスターの例
+
+表の根拠（2026-07-29 確認）：名称と関係は行別リンク付き発行体ポータルから導いた。研究上のグルーピングであり、推奨や相関の主張ではない。
+
+| 研究上のグループ | 参照集の例 | 比較項目 |
 |---|---|---|
-| Foreign-sponsored | GLP J-REIT (3281), Nippon Prologis REIT (3283) | Both in logistics; both connect to a global logistics-platform sponsor with capital allocation choices across Asia-Pacific and US markets |
-| Domestic-sponsored | All other 18 top-20 J-REITs | Sponsor entities are Japan-headquartered real-estate developers (Mitsui Fudosan, Mitsubishi Estate, Sumitomo Realty, Nomura Real Estate, Sekisui House, Mori group, Hulic, Tokyu Land, AEON), trading houses (Mitsui & Co, Mitsubishi Corp historically for IIF before KKR), financial conglomerates (Orix, Daiwa SG), or independent asset-management companies (Kenedix, NTT Urban Development hybrid for Premier) |
-
-2 つの外資系物流 J-REIT は、グローバル投資家による**最も注目される銘柄**である — それらはグローバル投資家の視点から日本の物流不動産への最もクリーンなパッシブ・エクスポージャーを提供し、その外資系スポンサーの後ろ盾（世界最大の物流 REIT としての Prologis；アジア最大の物流プラットフォームとしての GLP）は、パイプライン供給の信用力とスポンサーレベルでの戦略的アロケーションの不確実性という構造的複雑性の双方を提供する。
-
-18 の国内スポンサー系トップ 20 J-REIT は、日本の上場デベロッパーの状況に深く結びついている — J-REIT のパイプラインフローを駆動する親会社側の資本配分を理解するための 2 つのアンカー・デベロッパー項目として [[real-estate-finance/mitsui-fudosan-financing-model|Mitsui Fudosan]] と [[real-estate-finance/mitsubishi-estate-financing-model|Mitsubishi Estate]] を参照。
-
-## 7. 受託者銀行の集中
-
-すべての J-REIT は資産管理のための信託銀行受託者を有する。受託者市場は日本の最大手信託銀行の間に高度に集中している：
-
-| Trustee | Approximate share of top-20 trustee role | Notes |
-|---|---|---|
-| [[trust-banks/mitsubishi-ufj-trust-bank\|Mitsubishi UFJ Trust Bank]] | Most-frequent trustee across top-20 J-REITs | Largest Japan trust bank; cross-sponsor trustee role |
-| [[trust-banks/sumitomo-mitsui-trust\|Sumitomo Mitsui Trust Bank (SMTB)]] | Second-most-frequent trustee | Major trust bank with deep real-estate-asset administration franchise |
-| [[trust-banks/mizuho-trust-bank\|Mizuho Trust Bank]] | Significant trustee role | Group-affiliated trust bank with real-estate franchise |
-
-受託者のアイデンティティはスポンサーのアイデンティティから独立している — 単一の信託銀行が、競合するデベロッパーグループによってスポンサーされる J-REIT の受託者として機能できる。受託者の役割は、スポンサー・ガバナンスに影響しない手数料収受型のカストディ / 資産管理機能である。受託者側の枠組みについては [[banking/trust-bank-custody-operating-comparison|trust bank カストディ operating comparison]] を参照。
-
-## 8. 2024-2025 の一口当たり NAV と DPU の方向性トレンド
-
-これは、公開 IR 開示および ARES セクター統計からの 2024-2025 期間の定性的な読みである。方向ラベルは、正式な予測ではなく公開サーフェスの IR コメンタリーを反映する。
-
-| Sector cluster | 2024-2025 NAV-per-unit direction | 2024-2025 DPU direction | Driver |
-|---|---|---|---|
-| Office (flagship: NBF, JRE) | Flat (Marunouchi resilience holds), mildly down for non-prime office | Stable; rent-revision tailwind in some submarkets | Tokyo CBD office cap-rate firmly held; non-prime office softened modestly |
-| Office (mid-size: Daiwa Office, Kenedix Office) | Mildly down (mid-size office softer than CBD prime) | Stable | Mid-size office cycle softer; hybrid-work exposure higher |
-| Office / urban-redev (Mori Hills, Mori Trust) | Flat | Stable to mildly up | Roppongi / Toranomon urban-redev project tailwind |
-| Diversified (NMF, Sekisui House REIT, Orix JREIT, Premier, Hulic, Mori Trust Sogo) | Flat | Stable | Cross-sector smoothing |
-| Logistics (GLP, NPR, JLF, MFLP-REIT) | Compressed; cap-rates held very tight | Stable to up | E-commerce / 3PL demand sustained; rent-growth pockets continue |
-| Logistics + industrial infrastructure (IIF) | Mildly compressed | Stable to up | Logistics theme + industrial infrastructure stable |
-| Urban retail + office (Activia) | Flat (urban-retail recovery firming) | Stable to up | Tokyo prime-retail recovery post-COVID |
-| Retail (Frontier, AEON REIT) | Flat | Stable | Suburban retail / mall sector stable; minor recovery |
-| Residential (Nippon Accommodations) | Flat | Stable to up | Rent-revision tailwind on lease renewals |
-
-2024-2025 の期間は、**オフィスと物流**セクター間の**ダイバージェンス**（物流のキャップレートは維持され、オフィスのキャップレートは非プライムについて緩やかに拡大）によって特徴づけられ、これに BoJ のマイナス金利政策からの脱却によるすべての J-REIT への**金利正常化**圧力が組み合わさっている。金利スプレッドの次元については [[real-estate-finance/j-reit-dividend-yield-vs-jgb-spread|J-REIT dividend yield vs JGB spread]] を参照。
-
-## 9. トップ 20
-
-内のサブクラスター・グルーピング 20 銘柄は、正式には別々に上場していても経済的エクスポージャーを共有するいくつかのサブグループに自然にクラスター化する。サブクラスター・グルーピングを通じてマトリクスを読むことは、アルファベット順やランク順よりもしばしば有用である：
-
-| Sub-cluster | Top-20 names | Shared exposure |
-|---|---|---|
-| Mitsui Fudosan family | NBF (8951), Nippon Accommodations (3226), Frontier (8964), MFLP-REIT (3471) | Sponsored or formerly anchored by [[real-estate-finance/mitsui-fudosan-financing-model\|Mitsui Fudosan]]; pipeline-supply credibility from Japan's largest listed developer |
-| Mitsubishi Estate family | JRE (8952) | [[real-estate-finance/mitsubishi-estate-financing-model\|Mitsubishi Estate]] sponsorship; Marunouchi / Otemachi office anchor |
-| Foreign logistics-platform family | GLP J-REIT (3281), Nippon Prologis REIT (3283) | Foreign-sponsored modern Class-A logistics; e-commerce / 3PL anchor tenant base |
-| Domestic developer logistics | Japan Logistics Fund (8967), IIF (3249), MFLP-REIT (3471) | Domestic-sponsored logistics; mixed anchor and multi-tenant structures |
-| Office flagships (Tokyo CBD prime) | NBF (8951), JRE (8952) | Two benchmark office J-REITs with deepest Tokyo CBD office exposure |
-| Mid-size office | Daiwa Office (8976), Kenedix Office (8972) | Mid-size office buildings; more cycle-exposed than flagship CBD office |
-| Urban-redevelopment office | Mori Hills (3234), Mori Trust Sogo (3478) | Mori-group urban-redev anchored; Roppongi / Toranomon / Atago / urban-redev project tailwind |
-| Diversified flagships | NMF (3462), Sekisui House REIT (3309), Orix JREIT (8954), Hulic REIT (3295), Premier (8956), Mori Trust Sogo (3478) | Multi-asset-class portfolios; cross-sector smoothing |
-| Retail | Frontier Real Estate (8964), AEON REIT (3292), Activia (3279 — urban retail + office) | Retail mall / urban retail anchor |
-| Residential | Nippon Accommodations (3226), partially Sekisui House REIT (3309) | Rental-residential demand exposure |
-
-サブクラスターの読みは、**クラスター内の代替候補**を特定するのに役立つ（例：外資系物流エクスポージャーについては GLP J-REIT 対 Nippon Prologis REIT；プライム東京 CBD オフィスについては NBF 対 JRE；総合型エクスポージャーについては NMF 対 Orix JREIT）。J-REIT ポートフォリオを構築する投資家は、相関の高い 2 銘柄を保有するのではなく、サブクラスターごとに 1 銘柄を選ぶのが通常である。
+| 三井不動産関連 | NBF (8951), NAF (3226), Mitsui Fudosan Retail Fund (8964), MFLP (3471) | アセットクラス、関連当事者統制、現在のスポンサー持分 |
+| 三菱地所関連 | JRE (8952) | オフィスポートフォリオ、サポート契約、現在の貸借対照表 |
+| グローバル物流プラットフォーム関連 | GLP J-REIT (3281), Nippon Prologis REIT (3283) | ポートフォリオ、満期、テナント集中、スポンサーパイプライン |
+| オフィス特化 | NBF (8951), JRE (8952), Daiwa Office (8976) | 地域構成、稼働率、賃料、キャップレート、LTV |
+| 総合型 | NMF (3462), ORIX JREIT (8954), KDX Realty (8972), Hulic Reit (3295) | セグメントウェイトとセクター横断集中 |
+| リテール関連 | Activia (3279), Mitsui Fudosan Retail Fund (8964), AEON REIT (3292) | 物件形式、マスターリース、テナント集中 |
 
 ## マトリクスの読み方
 
-このマトリクスは構造的な参照として意図されている。以下の読みは、分析的解釈にとって最も有用な軸である：
+スポンサー／資産運用会社との関係はガバナンス上の一つの視点として使い、現在の所有関係と関連当事者規程を確認する。アセットクラスはエクスポージャーのラベルであり、キャップレート、稼働率、リース期間、テナント集中の証拠ではない。LTV、DPU、NAV、利回りは日付と定義を揃えて比較する。
 
-### スポンサーファミリーが主要なレンズトップ 20 は一握りのスポンサーファミリー（三井不動産ファミリー、三菱地所、野村不動産、積水ハウス、森グループ、ヒューリック、東急不動産、イオン、オリックス、三井物産、KKR / KJR、大和証券、ケネディクス、NTT 都市開発、外資系 Prologis、外資系 GLP）にクラスター化する。各スポンサーファミリーは、独自のパイプライン信用力、関連当事者取引ガバナンス、グループ支援の性格を帯びている。スポンサーファミリーは、J-REIT アナリストが**最初に**チェックするものである — これがなぜ米国 REIT よりも J-REIT においてより重要なのかは [[real-estate-finance/j-reit-sponsor-structure-conflict|sponsor structure and conflict]] を参照。
-
-### オフィス対物流が支配的なセクタートレードトップ 20, のうち、5 がオフィス特化、5 が物流特化、6 が総合型である。**物流対オフィスのセクターローテーション**は J-REIT で最も注目されるセクタートレードである — [[real-estate-finance/logistics-j-reit-vs-office-j-reit-asset-class-comparison|logistics J-REIT vs office J-REIT asset-class comparison]] を参照。物流はよりタイトなキャップレートと持続的な e コマース / 3PL 需要の追い風を享受してきた；オフィスは、東京 CBD プライムよりも非プライム在庫により影響するハイブリッドワーク需要の圧力に直面してきた。
-
-### LTV バンドはポートフォリオ安定性のシグナルフラッグシップのオフィス J-REIT（NBF、JRE）は、他より tighter な LTV バンドに位置する。ポリシー LTV バンドの上限で一貫して運用する J-REIT は、取得能力とリファイナンスの柔軟性が低い可能性がある — 金利上昇環境において関連する。貸し手側の対応物については [[real-estate-finance/bank-commercial-real-estate-lending-japan|bank CRE lending Japan]] を参照。
-
-### DPU 利回りゾーンは複数のディスカウントを反映
-
-より高い DPU 利回りは、それ単独では買いシグナルではない。それはスポンサー利益相反ディスカウント、小型株の流動性ディスカウント、資産クラスサイクルのエクスポージャー、LTV の姿勢、あるいは単に異なるセクターのキャップレートを反映しうる。フラッグシップのオフィス J-REIT は lower-end の利回りバンド（スポンサー + 規模 + 東京 CBD に対するプレミアム）に位置し、一方で小型株または独立系スポンサーの J-REIT は higher-end の利回りバンドに位置しうる。
-
-### テナント集中のトレードオフシングルアンカーの物流 J-REIT と AEON REIT は、**施設ごとに高いテナント信用集中**を抱えるが、**短期的な入れ替わりは低い**。マルチテナントのオフィス J-REIT は、**単一テナント集中は低い**が、頻繁なリース更新による**短期的な入れ替わりは高い**。どちらの構造も本質的に優れているわけではない；選択は投資家のリスク選好に依存する。
-
-### 外国人投資家フローは先行指標
-
-J-REIT 取引高に占める外国人投資家のシェア — JPX の投資部門別売買統計（[[real-estate-finance/j-reit-foreign-investor-ownership|J-REIT foreign-investor ownership]]）を通じて追跡される — は、歴史的に、特にオフィス傾斜銘柄と物流傾斜銘柄の間で、相対価格パフォーマンスの先行指標であった。2 つの外資系物流銘柄（GLP、NPR）は、外国人投資家フローに特に敏感である。
-
-### キャップレート圧縮と金利正常化がマクロ・オーバーレイマクロ・オーバーレイなしに 2024-2025 の NAV / DPU トレンド列を読むことは誤解を招く。この期間は、BoJ のマイナス金利政策からの脱却、漸進的な JGB イールドカーブの正常化、そして原資産の不動産キャッシュフローだけが予測するよりも J-REIT により循環的に影響を与えた並行的なグローバル商業不動産キャップレート拡大サイクルによって特徴づけられてきた。マクロのキャップレートの文脈については [[real-estate-finance/real-estate-cap-rate-compression-2026|real estate cap-rate compression 2026]] を、イールドスプレッドの文脈については [[real-estate-finance/j-reit-dividend-yield-vs-jgb-spread|J-REIT dividend yield vs JGB spread]] を参照。この期間のトップ 20 における相対パフォーマンスの分散は、絶対的な不動産キャッシュフローの成長よりも、セクターエクスポージャー（物流対オフィス）とスポンサー品質バンドを追跡してきた。
+JPX の投資部門別統計は J-REIT 全体の売買フローであり、実質保有やオフィス・物流間のローテーションを示さない。セクターフローの主張には発行体別市場データまたは開示されたファンド保有が必要である。金利とキャップレートも日付付き系列を使う。[[real-estate-finance/j-reit-dividend-yield-vs-jgb-spread|J-REIT dividend yield vs JGB spread]] と [[real-estate-finance/real-estate-cap-rate-compression-2026|real estate cap-rate compression 2026]] を参照。
 
 ### このマトリクスが教えてくれないこと
 
-- **時価総額によるライブランキング**：JPX REIT セグメント統計の当月から取得すること。
-- **正確な AUM、LTV、DPU、一口当たり NAV**：各 J-REIT の直近の半期有価証券報告書および IR 資料から取得すること。
-- **内部資産運用会社の実行品質**：いかなるマトリクスにも捕捉されていない；IR コメンタリー、分配安定性のトラックレコード、および公開されている場合は FSA の定期検査コメンタリーの読み込みを要する。
-- **スポンサーの戦略的アロケーションのシフト**：グローバルスポンサー（Prologis、GLP）は原理的に日本と他市場の間で資本を優先順位付けし直すことができる；スナップショットには捕捉されていない。
+- **時価総額のライブ順位**：現行 JPX / ARES データを使う。
+- **正確な AUM、LTV、DPU、1 口当たり NAV、稼働率、テナント集中**：各発行体の最新開示を使う。
+- **スポンサー／資産運用会社の品質**：発行体固有のガバナンスと実績レビューが必要。
+- **将来パフォーマンスやポートフォリオ構築**：参照番号と分類に推奨の意味はない。
 
-## 10. ソース管理チェックリストマトリクスの要素を再現するには、以下の公開サーフェスのソースが必要である：
+## 10. ソース管理チェックリスト
 
-| Question | Public surface |
+表の根拠（2026-07-29 確認）：[JPX 上場 REIT 一覧](https://www.jpx.co.jp/english/equities/products/reits/issues/index.html)、[ARES J-REIT 統計](https://www.ares.or.jp/action/jreit/)、[JPX 投資部門別統計](https://www.jpx.co.jp/english/markets/statistics-equities/investor-type/index.html)、[JCR](https://www.jcr.co.jp/en/)、[R&I](https://www.r-i.co.jp/en/)、および上記の行別発行体ポータル。
+
+| 問い | 公開情報面 |
 |---|---|
-| Current market cap and ranking | JPX REIT segment market statistics; ARES J-REIT monthly statistics |
-| Current AUM | Each J-REIT's most recent semi-annual securities report (有価証券報告書) and IR materials |
-| LTV policy band and live LTV | Each J-REIT IR + investment-corporation bond prospectus |
-| Sponsor identity and sponsor support agreement | Asset-management-company website + J-REIT IR |
-| Sponsor stake in J-REIT units | J-REIT semi-annual securities report; large-shareholder disclosure where applicable |
-| Trustee identity | J-REIT securities report; J-REIT IR |
-| Recent DPU per unit and DPU trend | J-REIT IR + semi-annual report |
-| Foreign-investor share of trading | JPX trading-by-investor-type statistics |
-| Top-tenant exposure | J-REIT IR + portfolio disclosure |
-| Rating actions | JCR / R&I public rating-action announcements |
-| Sector-cycle context | ARES sector statistics; J-REIT IR commentary; broker sector research |
+| 現行の法人名、コード、上場状態 | JPX 上場 REIT 一覧 |
+| 現在の時価総額／価格 | 日付付き JPX 市場データ。取得時刻も記録 |
+| AUM、LTV、DPU、NAV、稼働率、テナント・エクスポージャー | 最新の発行体 IR／有価証券報告書 |
+| スポンサー、資産運用会社の所有関係、サポート契約 | 現行の発行体および資産運用会社の開示 |
+| スポンサー持分／主要投資主 | 現行の発行体による主要投資主の開示 |
+| 投資法人の資産保管会社 / 一般事務受託者 | 現行の発行体ストラクチャーページと有価証券報告書 |
+| 物件レベルの信託受託者 | 該当する物件・権原・取引開示 |
+| 市場全体の保有主体別区分 | 日付付き ARES 投資主調査 |
+| 市場全体の投資部門別売買 | JPX 投資部門別統計。保有比率として扱わない |
+| 格付アクション | JCR／R&I の発行体別公表資料 |
 
-このチェックリストは、公開ソースのみからの再現可能な J-REIT 分析を支える。
+このチェックリストは、公開ソースだけから再現可能な J-REIT 分析を支える。
 
 ## Related
 
@@ -266,5 +235,5 @@ J-REIT 取引高に占める外国人投資家のシェア — JPX の投資部�
 - J-REIT.jp (ARES portal), English.
 - ARES (Association for Real Estate Securitization), English.
 - FSA, English landing for investment-corporation framework.
-- Each top-20 J-REIT's IR portal (English) — listed in `sources` frontmatter.
+- 参照集に含まれる各 J-REIT の IR ポータル（英語）— `sources` frontmatter に記載。
 - JCR, R&I — public rating-action announcements on listed J-REITs.

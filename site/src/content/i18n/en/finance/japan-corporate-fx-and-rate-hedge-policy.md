@@ -1,11 +1,11 @@
 ---
 source: finance/japan-corporate-fx-and-rate-hedge-policy
-source_hash: fcfbc40e9c76741d
+source_hash: f623e0f1a097fe82
 lang: en
 status: machine
 fidelity: ok
 title: "Japan corporate FX and rate hedge policy"
-translated_at: 2026-05-31T06:16:15.658Z
+translated_at: 2026-07-29T00:00:00.000Z
 ---
 
 # Japan corporate FX and rate hedge policy
@@ -16,21 +16,25 @@ This page sits under [[finance/INDEX|finance domain]]. Read it with [[finance/ja
 
 ## TL;DR
 
-Japan listed corporates run formal hedge policies covering FX (JPY exposure vs USD, EUR, RMB, others), interest rate (floating-rate debt and swap exposures), and commodity (energy, metals, agri) risk. Hedge ratio decisions depend on board-approved hedge policy, exposure tenor profile, hedge-accounting eligibility under IFRS 9 / JGAAP, derivative cost vs natural hedge availability, and embedded derivative considerations. Major shōsha ([[financial-conglomerates/mitsubishi-corp|Mitsubishi Corp]], [[financial-conglomerates/mitsui-co|Mitsui & Co]], [[financial-conglomerates/itochu-corp|Itochu Corp]]) and large manufacturers operate sophisticated multi-currency multi-commodity hedge programmes. Megabanks ([[megabanks/mufg|MUFG]], [[megabanks/smfg|SMFG]], [[megabanks/mizuho-fg|Mizuho FG]]) are dominant hedge counterparties.
+Japan listed corporates may use policies covering FX, interest-rate, and commodity risk. Hedge-ratio decisions depend on the company's approved risk policy, exposure tenor, accounting eligibility under its chosen GAAP, derivative cost, natural hedges, and counterparty limits. The approved counterparty is the contracted legal entity; this page does not rank banks or infer market share.
 
 ## Hedge policy framework
 
-| Layer | Typical structure |
-|---|---|
-| Board policy | Risk-management policy approved by board; hedge objectives, instruments, counterparties, limits |
-| Treasury policy | Detailed hedge ratio targets, tenor buckets, cash-flow hedge designation rules |
-| Risk committee | Periodic review of exposures, hedge effectiveness, counterparty exposure |
-| Hedge-accounting documentation | IFRS 9 / JGAAP-compliant designation, effectiveness testing, hedge ratio definition |
-| Reporting | Quarterly board / committee reports; annual securities-report disclosure |
+Table source note: This is a governance and documentation checklist, not a claim that every issuer uses each named committee or reporting cadence. IFRS 9 supplies the hedge-accounting designation requirements, and issuer-specific governance must be verified in EDINET/TDnet disclosures. ^[Sources: https://www.ifrs.org/issued-standards/list-of-standards/ifrs-9-financial-instruments/, https://disclosure2.edinet-fsa.go.jp/, and https://www.jpx.co.jp/english/equities/listing/disclosure/tdnet/.]
 
-Disclosure is found in Securities Report (有価証券報告書) financial-instruments notes, integrated reports, and risk-management sections.
+| Layer | Issuer-specific verification |
+|---|---|
+| Board policy | Identify the approving organ and the disclosed objectives, permitted instruments, counterparties, and limits |
+| Treasury policy | If disclosed, record the actual hedge-ratio targets, tenor buckets, and designation rules |
+| Risk committee | Identify the responsible body, mandate, and review frequency rather than assuming a named committee |
+| Hedge-accounting documentation | Apply the reporting framework's designation, effectiveness, and hedge-ratio requirements to the documented relationship |
+| Reporting | Record the actual internal and public reporting cadence from dated evidence |
+
+Public disclosure may appear in Securities Report (有価証券報告書) financial-instruments notes, integrated reports, and risk-management sections; absence from one surface does not establish absence of a policy.
 
 ### Exposure types
+
+Table source note: The table separates transaction, translation, economic, and net-investment exposure for analysis. Accounting designation and presentation depend on the reporting framework and the issuer's documented risk-management objective. ^[Source: https://www.ifrs.org/issued-standards/list-of-standards/ifrs-9-financial-instruments/.]
 
 | Exposure | Source |
 |---|---|
@@ -39,32 +43,38 @@ Disclosure is found in Securities Report (有価証券報告書) financial-instr
 | Economic exposure | Forward revenue / cost streams in foreign currency |
 | Net investment exposure | Net equity in foreign operation |
 
-### Typical hedge ratio fields
+### Hedge-ratio evidence fields
 
-| Bucket | Typical hedge approach |
+Table source note: No tenor bucket carries a presumed hedge ratio. For each issuer, use its dated risk policy and hedge-accounting disclosures to establish the exposure, forecast-transaction eligibility, designated ratio, instrument, and horizon. ^[Sources: https://www.ifrs.org/issued-standards/list-of-standards/ifrs-9-financial-instruments/, https://disclosure2.edinet-fsa.go.jp/, and https://www.jpx.co.jp/english/equities/listing/disclosure/tdnet/.]
+
+| Exposure field | Verification |
 |---|---|
-| 0-3 months | Often fully hedged via forward contracts or natural hedge |
-| 3-12 months | High-ratio hedge for confirmed orders / contracted flows |
-| 12-36 months | Partial hedge using forward, option, or zero-cost collar |
-| 36+ months | Lower hedge ratio; some corporates use longer-dated swaps for specific projects |
-| Translation | Often unhedged or partially hedged via net-investment-hedge designation |
+| Contracted receivable / payable | Match currency, amount, due date, natural offsets, derivative notional, and designation |
+| Highly probable forecast transaction | Verify the forecast period, probability evidence, designated component, and hedge ratio |
+| Longer-dated forecast exposure | Verify policy authority, forecast reliability, liquidity, cost, and rollover assumptions |
+| Translation exposure | Distinguish translation sensitivity from a qualifying net-investment hedge |
+| Project or financing exposure | Read the project, debt, derivative, and termination terms together |
 
-Hedge ratio is a board-policy variable. Manufacturers exporting JPY-cost / USD-revenue products (auto, electronics) frequently hedge a portion of forecast revenue. Importers (energy, food) hedge confirmed purchase orders.
+Hedge ratio is an issuer-policy and designation variable. Sector labels do not prove that an exporter hedges forecast revenue or that an importer hedges purchase orders; cite the named issuer, period, exposure, instrument, and ratio.
 
 ### Instrument selection
 
-| Instrument | Use |
-|---|---|
-| FX forward | Most common; locks in FX rate for specified date |
-| FX option | Provides hedge with upside retention; premium cost |
-| FX swap / cross-currency swap | Funding-side hedge; converts JPY liability to USD or vice versa |
-| Zero-cost collar | Combination of bought put + sold call at agreed strikes; zero premium |
-| Currency overlay | Portfolio-level currency exposure management |
-| Natural hedge | Match foreign-currency revenue with foreign-currency cost / debt |
+Table source note: These are instrument mechanics, not a frequency ranking or recommendation. Eligibility, payoff, credit terms, liquidity, accounting designation, and actual use must be established from the contract and issuer disclosure. ^[Sources: https://www.ifrs.org/issued-standards/list-of-standards/ifrs-9-financial-instruments/ and https://disclosure2.edinet-fsa.go.jp/.]
 
-Cross-currency swaps are heavily used by JPY-issuer multinationals to swap JPY bond proceeds to USD for foreign-subsidiary funding.
+| Instrument | Mechanical capability and check |
+|---|---|
+| FX forward | Fixes an exchange rate for specified cash flows and dates; verify notional, rate, settlement, and rollover |
+| FX option | Creates a contingent payoff; verify premium, strike, expiry, exercise, and sold-option exposure |
+| FX swap / cross-currency swap | Exchanges specified currency cash flows; verify principal exchanges, legs, basis, collateral, and termination |
+| Collar | Combines bought and sold options; an offsetting upfront premium does not remove payoff, credit, or liquidity risk |
+| Currency overlay | May manage portfolio-level currency exposure under a documented mandate |
+| Natural hedge | Match only demonstrably offsetting foreign-currency revenue, cost, assets, liabilities, or debt |
+
+For any claimed bond-proceeds swap, cite the named issuer's bond, cross-currency swap or accounting disclosure, currency direction, period, and use of proceeds. Issuer nationality alone does not establish use.
 
 ### Exposure types
+
+Table source note: These are rate-sensitive exposure categories for treasury review, not assertions that every item qualifies as an IFRS 9 hedged item. Eligibility and documentation are instrument- and entity-specific. ^[Source: https://www.ifrs.org/issued-standards/list-of-standards/ifrs-9-financial-instruments/.]
 
 | Exposure | Source |
 |---|---|
@@ -74,7 +84,9 @@ Cross-currency swaps are heavily used by JPY-issuer multinationals to swap JPY b
 | Bond refinancing | Pre-issuance pipeline hedge |
 | Investment portfolio | Insurance / treasury ALM |
 
-### Typical hedge instruments
+### Possible hedge instruments
+
+Table source note: The table describes possible mechanics, not issuer use or accounting eligibility. The designated risk, hedged item, instrument terms, and documentation determine the result. ^[Source: https://www.ifrs.org/issued-standards/list-of-standards/ifrs-9-financial-instruments/.]
 
 | Instrument | Use |
 |---|---|
@@ -87,11 +99,13 @@ Cross-currency swaps are heavily used by JPY-issuer multinationals to swap JPY b
 
 ### TONA transition
 
-Post-JPY-LIBOR cessation, TONA (Tokyo Overnight Average Rate, BOJ-compiled) is the primary risk-free benchmark for JPY floating-rate exposure. Corporate floating-rate loans and most new swaps reference TONA-based compounding. Legacy LIBOR-linked exposures use fallback language defined under ISDA 2020 IBOR fallbacks protocols and equivalent JSDA local conventions.
+The BOJ publishes the uncollateralized overnight call rate used as TONA. A JPY contract may reference compounded TONA, TIBOR, a fixed rate, or another contractually defined benchmark; read the named loan, bond, or swap rather than inferring the benchmark or compounding method. For a legacy JPY-LIBOR contract, verify its actual cessation, fallback, spread adjustment, consent, and amendment documents.
 
 ## Hedge accounting under IFRS 9
 
 IFRS 9 introduced a principles-based hedge-accounting framework replacing IAS 39. Major fields:
+
+Table source note: The summary is scoped to the issued IFRS 9 hedge-accounting requirements; preparers must apply the standard and current amendments to their facts rather than rely on this table. ^[Source: https://www.ifrs.org/issued-standards/list-of-standards/ifrs-9-financial-instruments/.]
 
 | Field | IFRS 9 treatment |
 |---|---|
@@ -101,9 +115,9 @@ IFRS 9 introduced a principles-based hedge-accounting framework replacing IAS 39
 | Hedge-accounting types | Fair-value hedge, cash-flow hedge, net-investment hedge |
 | Documentation | Mandatory designation document at inception |
 | Rebalancing | Allowed when hedge ratio drifts but economic relationship persists |
-| Discontinuation | Voluntary discontinuation no longer permitted absent reason; risk-management objective change required |
-| Time value of options | Cost of hedging concept; deferred in OCI |
-| Forward points | Cost of hedging deferred in OCI for forward-rate hedges |
+| Discontinuation | Apply IFRS 9's prospective-discontinuation criteria when the qualifying criteria are no longer met, after considering required rebalancing |
+| Time value of options | If excluded from designation, apply the applicable cost-of-hedging requirements and transaction classification |
+| Forward points | If excluded from designation, apply the applicable cost-of-hedging requirements rather than assuming OCI treatment |
 
 ### Cash-flow hedge mechanics
 
@@ -118,8 +132,8 @@ IFRS 9 introduced a principles-based hedge-accounting framework replacing IAS 39
 
 | Step | Treatment |
 |---|---|
-| Designate recognised asset / liability (e.g. fixed-rate bond) | Hedge instrument: pay-fixed IRS |
-| Both items remeasured at fair value | Changes flow to P&L |
+| Designate recognised fixed-rate liability for interest-rate risk | A receive-fixed / pay-floating IRS may offset the liability's fair-value sensitivity; use the actual designated relationship |
+| Hedging instrument and designated-risk adjustment | The derivative's fair-value change and the hedged item's change attributable to the designated risk are recognised in P&L under the applicable hedge-accounting rules |
 | Net effect | Offsets fair-value movement |
 
 ### Net-investment hedge mechanics
@@ -132,22 +146,24 @@ IFRS 9 introduced a principles-based hedge-accounting framework replacing IAS 39
 
 ## Hedge accounting under JGAAP
 
-Japanese GAAP hedge accounting follows ASB / FASF guidance with conceptual alignment to IFRS but technical differences in scope and detail.
+Japanese GAAP hedge accounting follows ASBJ standards and implementation guidance. Apply the version effective for the reporting period; this page does not assert equivalence with IFRS 9.
+
+Table source note: The current ASBJ financial-instruments standard and implementation guidance control. The table preserves high-level categories only and must not be used as a substitute for the version effective for the reporting period. ^[Source: https://www.asb-j.jp/en/accounting_standards.html.]
 
 | Field | JGAAP treatment |
 |---|---|
 | Primary categories | Deferral hedge accounting (繰延ヘッジ会計) and fair-value hedge accounting (時価ヘッジ会計) |
 | Special hedge accounting (特例処理) | Available for interest-rate swaps meeting strict criteria; swap fair value not separately recognised |
 | Designated hedge accounting (振当処理) | Available for FX hedges; hedged item recorded at hedge rate |
-| Effectiveness | Quantitative testing with prescribed ratio bands historically; under revision toward principles-based |
+| Effectiveness | Apply the current ASBJ standard and implementation guidance for the reporting period; this page does not carry forward a historical test band |
 | Documentation | Required at inception |
-| Discontinuation | Allowed with documented reason |
+| Discontinuation | Apply the current standard's prospective discontinuation conditions, such as expiry, sale, termination or exercise of the hedging instrument, loss of qualifying criteria, or a forecast transaction no longer being expected; documentation alone is insufficient |
 
-Special hedge accounting (特例処理) for IRS and designated hedge accounting (振当処理) for FX forwards are common Japan-specific simplifications that reduce P&L volatility for qualifying hedges.
+Special hedge accounting (特例処理) for an interest-rate swap and designated hedge accounting (振当処理) for a foreign-exchange forward are available only when the applicable requirements are met. Verify the entity's election and presentation from its accounting policy and notes; this page makes no frequency claim.
 
 ## Embedded derivative disclosure
 
-Under IFRS 9, embedded derivatives in host financial liabilities follow specific separation rules. Common embedded derivatives in Japan corporate context:
+Under IFRS 9, embedded derivatives in host financial liabilities follow specific separation rules. Possible features to assess include:
 
 | Type | Examples |
 |---|---|
@@ -159,11 +175,11 @@ Under IFRS 9, embedded derivatives in host financial liabilities follow specific
 
 Separation rules require an embedded derivative to be separately accounted for as a derivative if it is not closely related to the host contract, the combined instrument is not measured at fair value through P&L, and the embedded derivative would meet the definition of a stand-alone derivative.
 
-For convertible bonds issued by a Japanese corporate, the equity-conversion right is typically treated as equity (not derivative) when settled by gross delivery of own shares, satisfying the fixed-for-fixed criterion. This is the "own equity" exception under IAS 32 / IFRS 9 and is critical to CB accounting — see [[finance/japan-convertible-bond-mechanics|convertible bond mechanics]].
+For a convertible bond, classification of the conversion feature depends on the exact contractual terms and IAS 32's own-equity requirements; gross delivery of own shares alone does not establish equity classification. Test the number of shares, amount and currency of consideration, reset/contingent-settlement clauses, and any applicable exception before applying IFRS 9 — see [[finance/japan-convertible-bond-mechanics|convertible bond mechanics]].
 
 ### Shōsha commodity hedge
 
-Shōsha trade physical commodities (energy, metals, grains, soft commodities) and run sophisticated commodity-derivative books.
+Shōsha may disclose physical commodity exposures and derivative or natural-hedge arrangements. Use each group's dated securities report rather than inferring the size or sophistication of a derivatives book.
 
 | Group | Public disclosure source |
 |---|---|
@@ -173,39 +189,41 @@ Shōsha trade physical commodities (energy, metals, grains, soft commodities) an
 
 Commodity hedge instruments include exchange-traded futures (CME, ICE, TOCOM, LME, SHFE), OTC swaps, options, and physical natural hedges through paired buy / sell contracts.
 
-### Manufacturing commodity hedge
+### Manufacturing commodity-risk review
 
-| Sector | Commodity exposure | Typical hedge |
+Table source note: Sector labels identify possible input exposures and evidence to inspect, not a claim that a company uses the listed hedge. Confirm the named company's procurement contract, derivative, natural offset, volume, horizon, and accounting treatment. ^[Sources: https://disclosure2.edinet-fsa.go.jp/ and https://www.meti.go.jp/english/statistics/index.html.]
+
+| Sector | Possible commodity exposure | Evidence to verify |
 |---|---|---|
-| Auto | Steel, aluminium, copper, palladium, lithium, rare earths | Long-term supply contracts + selective futures hedges |
-| Electronics | Copper, gold, rare metals, energy | Supplier contracts + selective hedges |
-| Chemicals | Crude oil, naphtha, gas | Crude futures, naphtha swaps |
-| Steel | Iron ore, coking coal, scrap | Long-term contracts, occasional swaps |
-| Food / brewing | Grains, sugar, hops, packaging | Forward purchases, exchange-traded futures |
-| Energy / utilities | LNG, oil, coal, electricity | Long-term LNG contracts, futures, OTC swaps |
+| Auto | Steel, aluminium, copper, palladium, lithium, rare earths | Supplier contracts, price-adjustment clauses, inventories, and any disclosed derivatives |
+| Electronics | Copper, gold, rare metals, energy | Supplier contracts, pass-through terms, inventories, and any disclosed derivatives |
+| Chemicals | Crude oil, naphtha, gas | Feedstock pricing formulas, purchase contracts, and any disclosed futures or swaps |
+| Steel | Iron ore, coking coal, scrap | Purchase contracts, sales-price linkage, inventories, and any disclosed derivatives |
+| Food / brewing | Grains, sugar, hops, packaging | Purchase commitments, pricing clauses, and any disclosed forwards or futures |
+| Energy / utilities | LNG, oil, coal, electricity | Supply contracts, generation/sales offsets, storage, and any disclosed futures, options, or swaps |
 
-Energy procurement at large industrial consumers operates separately as a specialised function with multi-year supply contracts, hedging, and storage strategy.
+For a large industrial consumer, verify which legal entity owns procurement, contracting, derivatives, and storage decisions; organisational form and contract tenor are issuer-specific.
 
 ## Hedge counterparty selection
 
+Table source note: The table is a non-ranked counterparty-category map as of 2026-07-29, not evidence of dominance or a recommendation. Dealer participation and exchange-traded activity must be verified from the contracting entity, BOJ turnover statistics, and the relevant exchange product/clearing disclosures. ^[Sources: https://www.boj.or.jp/en/statistics/bis/deri/index.htm and https://www.jpx.co.jp/english/derivatives/.]
+
 | Counterparty | Role |
 |---|---|
-| [[megabanks/mufg|MUFG]] / MUFG Bank | Dominant FX / IRS counterparty for Japan corporate |
-| [[megabanks/smfg|SMFG]] / SMBC | Dominant FX / IRS counterparty |
-| [[megabanks/mizuho-fg|Mizuho FG]] / Mizuho Bank | Dominant FX / IRS counterparty |
-| Trust banks (SMTB, MUFJ Trust) | Specialist hedge / custody / ALM |
-| Global banks | Cross-border, exotic, large-notional hedges |
-| Exchange clearing | TOCOM, JSCC, OSE-listed derivatives |
-| Commodity exchanges | CME / ICE / LME / SHFE for commodity hedge |
+| Japanese bank dealers | Potential FX / IRS counterparties; confirm the approved contracting entity and product permissions |
+| Trust-bank dealers | Potential hedge, custody, or ALM counterparties; functions vary by entity |
+| Global bank dealers | Potential cross-border or structured-hedge counterparties |
+| Exchange and clearing venues | Listed or cleared derivatives where the relevant contract is admitted |
+| Commodity exchanges | Venue choice depends on the commodity, contract, jurisdiction, and access arrangement |
 
-Counterparty exposure is typically limited under treasury policy by counterparty credit rating, notional cap, and CSA collateralisation. Credit Support Annex (CSA) collateralisation is standard for large notional bilateral OTC derivatives.
+For each counterparty relationship, verify approved-entity limits, credit criteria, notional and mark-to-market exposure, netting, collateral, clearing, wrong-way risk, and termination terms. A CSA is contract-specific and cannot be inferred from notional size.
 
 ## Disclosure surfaces
 
 | Surface | Document |
 |---|---|
 | Securities Report financial-instruments notes | Annual; fair-value disclosure, hedge designation, counterparty risk, sensitivity |
-| Quarterly Securities Report | Updates on material changes |
+| Statutory interim filing | Verify the current filing regime and reporting period; do not assume the former quarterly Securities Report remains required |
 | Risk-management section of integrated report | Narrative on hedge policy and outcomes |
 | TDnet | Material derivative loss / gain disclosure if disclosure threshold triggered |
 | Board / committee reports | Internal hedge-effectiveness reports |
@@ -214,18 +232,7 @@ Counterparty exposure is typically limited under treasury policy by counterparty
 
 ## Pre-issuance bond hedge
 
-When a Japanese corporate plans a foreign-currency bond issuance, a pre-issuance hedge typically covers interest-rate risk (treasury lock or forward starting swap) and execution-currency risk. Post-issuance, cross-currency swap may swap foreign-currency proceeds into JPY (or vice versa) depending on use of proceeds. This is a critical interface with [[finance/japan-acquisition-finance|Japan acquisition finance]] for M&A funding and [[finance/japan-convertible-bond-mechanics|convertible bond]] hedging where CB is paired with hedge overlays.
-
-## Activist and investor scrutiny
-
-Hedge policy is occasionally an activist topic when:
-
-- Hedge losses become material P&L items.
-- Unhedged FX exposure produces volatile reported earnings.
-- Commodity hedge or speculation losses become public scandal.
-- Hedge accounting designation produces visible OCI volatility.
-
-See [[finance/japan-activist-investor-playbook|activist playbook]] and [[finance/japan-shareholder-proposal-and-agm-voting-route|shareholder proposal route]] for activist demand-and-response routing.
+Before a foreign-currency bond issuance, an issuer may consider a treasury lock, forward-starting swap, FX instrument, no derivative, or another documented strategy. After issuance, it may consider a cross-currency swap in either direction depending on the actual proceeds and liabilities. Establish the decision, designation, notional, timing, counterparties, and termination terms from named evidence; do not infer a hedge from the issuance alone. Related interfaces include [[finance/japan-acquisition-finance|Japan acquisition finance]] and any separately documented overlay discussed in [[finance/japan-convertible-bond-mechanics|convertible bond mechanics]].
 
 ## Related
 
@@ -263,4 +270,4 @@ See [[finance/japan-activist-investor-playbook|activist playbook]] and [[finance
 - BOJ: TONA / TONIA reference rate statistics.
 - MoF: foreign exchange and international policy statistics.
 - METI: trade and industry statistics.
-- ASB (Accounting Standards Board of Japan): hedge-accounting guidance.
+- ASBJ (Accounting Standards Board of Japan): hedge-accounting guidance.

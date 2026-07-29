@@ -1,20 +1,26 @@
 ---
 source: finance/japan-tender-offer-process
-source_hash: 57d0e6c34608c064
+source_hash: dce22546014cd6c3
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本のTOBプロセス"
-translated_at: 2026-06-26T08:29:32.996Z
+translated_at: 2026-07-29T14:37:22.568Z
 ---
 # 日本のTOBプロセス
 
-## 概要日本のTOB分析は、TOBトリガー、公告、公開買付届出書、対象会社意見表明、訂正、EDINET 法定提出、TDnet 適時開示、大量保有報告、決済、スクイーズアウト / 上場廃止ルートを追う開示管理ワークフローである。これは単なる取引ルールではなく、上場会社の支配権取引プロセスであるため [[finance/INDEX|finance]] に属する。
+## 概要
+
+日本の TOB 分析は、TOB トリガー、公告、公開買付届出書、対象会社意見表明、訂正、EDINET 法定提出、TDnet 適時開示、大量保有報告、決済、スクイーズアウト／上場廃止ルートを追う開示管理ワークフローである。これは単なる取引ルールではなく、上場会社の支配権取引プロセスであるため [[finance/INDEX|finance]] に属する。
+
+**2026年5月1日**以後に行われる取得については、改正制度の**30%ルール**が従来の3分の1の支配閾値に代わり、この支配閾値ルールは市場内取引にも適用される。別個の市場外5%ルールと法定除外は、引き続き取引ごとの分析を要する。本ページは、5%を超えるすべての取得に公開買付けが義務づけられるとは扱わない。
 
 このページは [[finance/cross-border-m-a-japan|cross-border M&A Japan]]、[[finance/japan-acquisition-finance|Japan acquisition finance]]、[[finance/japan-activist-investor-playbook|Japan activist investor playbook]]、[[securities/tokyo-stock-exchange|Tokyo Stock Exchange]]、[[financial-licenses/securities-license-stack|securities license stack]]、[[securities/japan-underwriting-market-structure|引受 market structure]]、[[megabanks/sbi-hd|SBI HD]]、[[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]] とあわせて使う。
 
 ## プロセスマップ
+
+出典: 本表は、金融庁の[2026年5月1日施行後の公開買付制度、様式、ガイドラインおよび Q&A](https://www.fsa.go.jp/news/r7/shouken/20250704/20250704.html)と [JPX TDnet](https://www.jpx.co.jp/english/equities/listing/disclosure/tdnet/index.html)に従う。各公開買付けについては、提出済みの公告・届出書が優先する。
 
 | 段階 | 主な成果物 | 公開情報としての重要性 |
 |---|---|---|
@@ -31,6 +37,8 @@ translated_at: 2026-06-26T08:29:32.996Z
 
 大量保有報告書は TOB 文書と同じではない。これは「誰が大口ブロックを所有 / 支配しているか」に答えるものであり、「買付プロセスは何か」に答えるものではない。
 
+出典: 本表は、金融庁の[大量保有報告制度](https://www.fsa.go.jp/common/shinsei/tairyohoyu/index.html)を、[2026年5月1日施行後の公開買付制度](https://www.fsa.go.jp/news/r7/shouken/20250704/20250704.html)および [JPX TDnet](https://www.jpx.co.jp/english/equities/listing/disclosure/tdnet/index.html)から区別する。
+
 | 報告ルート | 典型的な用途 |
 |---|---|
 | 大量保有報告書 | 主要株式保有をめぐる初期のブロック所有 / 共同保有者開示。 |
@@ -42,13 +50,15 @@ translated_at: 2026-06-26T08:29:32.996Z
 
 ## 抽出すべき項目
 
+出典: 本表は金融庁の[公開買付制度](https://www.fsa.go.jp/news/r7/shouken/20250704/20250704.html)に対応する検索チェックリストである。個別取引の条件を確定するのは、実際の公開買付公告、公開買付届出書、訂正および対象会社の意見表明のみである。
+
 | 項目 | 理由 |
 |---|---|
 | 買付者と対象会社 | 法人とグループのルート。 |
 | 買付価格とプレミアム | バリュエーションと少数株主の公正性。 |
 | 買付期間 | 市場タイミングと対抗提案の窓。 |
 | 最低 / 最高買付数量 | 支配意図、スクイーズアウト可能性、部分買付リスク。 |
-| 資金証明 | 決済能力。 |
+| 開示された資金源と裏付け文書 | 買付者の決済能力について、提出文書に記載された証拠。 |
 | 条件 / 承認 | 独禁法、対内投資、業種規制、資金調達、株主承認。 |
 | 対象会社意見 | 取締役会プロセス、特別委員会、フェアネス・オピニオン、利益相反。 |
 | TOB後方針 | 上場廃止、統合、戦略、配当 / 資本政策。 |
@@ -57,8 +67,8 @@ translated_at: 2026-06-26T08:29:32.996Z
 
 - [[megabanks/sbi-hd|SBI HD]] / [[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]] は、銀行支配と公開 TOB 分析の歴史的アンカーとして有用である。
 - [[megabanks/sony-fg|Sony FG]]、[[payment-firms/wealthnavi|WealthNavi]]、その他の上場金融 / fintech 案件では、支配が変わるときに TOB / スクイーズアウトの読解が必要になる場合がある。
-- [[securities-firms/smbc-nikko|SMBC Nikko]]、[[securities-firms/mufg-mums|MUMSS]]、[[securities-firms/nomura-hd|Nomura]]、[[securities-firms/daiwa-sg|Daiwa Securities Group]] は、公開買付代理人、財務アドバイザー、引受会社、フェアネス助言参加者として重要である。
-- 当事者が証券会社、公開買付代理人、財務アドバイザーとして行動している場合、[[financial-licenses/securities-license-stack|Securities license stack]] が必要である。
+- 証券会社は公開買付代理人、ブローカー、引受会社、アドバイザーを務め得るが、[[securities-firms/smbc-nikko|SMBC Nikko]]、[[securities-firms/mufg-mums|MUMSS]]、[[securities-firms/nomura-hd|Nomura]]、[[securities-firms/daiwa-sg|Daiwa Securities Group]]、その他の会社の役割は、提出済みの買付・対象会社文書から確認しなければならない。
+- [[financial-licenses/securities-license-stack|Securities license stack]] は、実際に行われた規制対象業務についてのみ確認する。「財務アドバイザー」という一般的名称だけでは、ライセンス要件を確定できない。
 
 ## 調査チェックリスト
 
@@ -67,7 +77,7 @@ translated_at: 2026-06-26T08:29:32.996Z
 3. TOB前持分、共同保有者、公表後の変化について大量保有報告書を確認する。
 4. 最低 / 最高応募数量、スクイーズアウト条件、上場廃止計画を特定する。
 5. 公開されている範囲で、資金源、規制承認、特別委員会プロセス、フェアネス・オピニオンを確認する。
-6. TOB 条件は頻繁に変更されるため、正確な日付と原資料を使う。
+6. TOB 条件は変更され得るため、正確な日付と原資料を使う。
 
 ## 関連項目
 

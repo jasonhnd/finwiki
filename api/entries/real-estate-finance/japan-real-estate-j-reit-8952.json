@@ -28,9 +28,9 @@
     "domain": "real-estate-finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "real-estate-finance",
@@ -48,13 +48,16 @@
     "sources": [
       "https://www.j-re.co.jp/",
       "https://www.j-re.co.jp/english/",
+      "https://www.j-re.co.jp/en_cms/about/index.html",
+      "https://www.j-re.co.jp/en_cms/portfolio/statement.html",
+      "https://www.j-re.co.jp/en_cms/finance/index.html",
       "https://www.mec.co.jp/e/index.html",
       "https://www.jpx.co.jp/english/markets/products/reit/index.html",
       "https://www.ares.or.jp/en/",
       "https://www.fsa.go.jp/en/"
     ]
   },
-  "summary": "The MEC vs Mitsui rivalry expressed at the listed-REIT layer through JRE vs NBF is the defining feature: both are conservative-LTV (low-to-mid 40% zone), AA-rated, premium-yield (low end of J-REIT yield distribution), foreign-investor-benchmark office J-REIT. The key contrast is sponsor pipeline sou",
+  "summary": "JRE and NBF provide a useful sponsor-model comparison, but any valuation, ownership, pipeline or sub-market conclusion must be built from same-date issuer disclosures. Sponsor arrangements can differ, and neither sponsor's wider landbank is a substitute for the REIT's current property list.",
   "headings": [
     "Japan Real Estate Investment (JRE, J-REIT 8952)",
     "TL;DR",
@@ -63,18 +66,15 @@
     "2. Portfolio composition",
     "3. Capital and leverage",
     "4. Top-tenant exposure",
-    "5. JRE vs NBF — the MEC vs Mitsui rivalry proxy",
+    "5. JRE vs NBF — same-vintage office-J-REIT comparison",
     "6. Why Marunouchi exposure matters",
     "Related"
   ],
   "body_links": {
-    "wikilinks_count": 23,
+    "wikilinks_count": 18,
     "wikilinks": [
       "INDEX",
       "banking/trust-bank-custody-operating-comparison",
-      "financial-regulators/jcr",
-      "financial-regulators/rating-and-investment",
-      "megabanks/mizuho-bank",
       "megabanks/mufg-bank",
       "real-estate-finance/INDEX",
       "real-estate-finance/glp-j-reit-3281",
@@ -90,16 +90,11 @@
       "real-estate-finance/nippon-prologis-reit-3283",
       "real-estate-finance/nomura-real-estate-master-fund-nmf",
       "real-estate-finance/top-10-j-reit-overview-matrix",
-      "trust-banks/mitsubishi-ufj-trust-bank",
-      "trust-banks/mizuho-trust-bank",
-      "trust-banks/sumitomo-mitsui-trust"
+      "trust-banks/mitsubishi-ufj-trust-bank"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX.md",
       "https://finwiki.zksc.io/ja/banking/trust-bank-custody-operating-comparison/",
-      "https://finwiki.zksc.io/ja/financial-regulators/jcr/",
-      "https://finwiki.zksc.io/ja/financial-regulators/rating-and-investment/",
-      "https://finwiki.zksc.io/ja/megabanks/mizuho-bank/",
       "https://finwiki.zksc.io/ja/megabanks/mufg-bank/",
       "https://finwiki.zksc.io/ja/domains/real-estate-finance/",
       "https://finwiki.zksc.io/ja/real-estate-finance/glp-j-reit-3281/",
@@ -115,17 +110,21 @@
       "https://finwiki.zksc.io/ja/real-estate-finance/nippon-prologis-reit-3283/",
       "https://finwiki.zksc.io/ja/real-estate-finance/nomura-real-estate-master-fund-nmf/",
       "https://finwiki.zksc.io/ja/real-estate-finance/top-10-j-reit-overview-matrix/",
-      "https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/",
-      "https://finwiki.zksc.io/ja/trust-banks/mizuho-trust-bank/",
-      "https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/"
+      "https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 5,
+    "external_links": [
+      "https://www.j-re.co.jp/en_cms/about/index.html",
+      "https://www.j-re.co.jp/en_cms/finance/index.html",
+      "https://www.j-re.co.jp/en_cms/portfolio/statement.html",
+      "https://www.jpx.co.jp/english/equities/products/reits/issues/index.html",
+      "https://www.nbf-m.com/nbf_e/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 9105,
-    "word_like_tokens": 1454,
+    "nonspace_chars": 10624,
+    "word_like_tokens": 1813,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-30"
   }
 }

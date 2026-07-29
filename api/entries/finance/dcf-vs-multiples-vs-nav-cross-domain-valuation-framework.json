@@ -26,9 +26,9 @@
     "domain": "finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "finance",
@@ -48,21 +48,19 @@
       "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/fair-ma-rule/ma-guideline-publications.html",
       "https://www.fsa.go.jp/en/laws_regulations/faq_on_fiea.pdf",
       "https://www.jpx.co.jp/english/equities/follow-up/02.html",
-      "https://pages.stern.nyu.edu/~adamodar/",
-      "https://www.ares.or.jp/en/",
-      "https://www.jrei.jp/",
-      "https://www.jcr.co.jp/en/",
-      "https://www.boj.or.jp/en/statistics/index.htm"
+      "https://pages.stern.nyu.edu/adamodar/New_Home_Page/valuationtools.html",
+      "https://www.mlit.go.jp/tochi_fudousan_kensetsugyo/tochi_fudousan_kensetsugyo_fr4_000001_00248.html",
+      "https://www.ares.or.jp/action/jreit/"
     ]
   },
-  "summary": "Three valuation approaches dominate financial analysis across domains: discounted cash flow (DCF), trading / transaction multiples, and net asset value (NAV). Each carries a structural assumption about what drives value — future free cash flow, market-implied comparable pricing, or the sum of asset",
+  "summary": "Three common valuation approaches are discounted cash flow (DCF), trading / transaction multiples, and net asset value (NAV). Each tests a different value premise—future free cash flow, comparable market pricing, or asset values net of liabilities—and none is presumed to dominate across companies, t",
   "headings": [
     "DCF vs multiples vs NAV cross-domain valuation framework",
     "TL;DR",
     "Wiki route",
     "The Three Approaches at a Glance",
     "Mechanics",
-    "When DCF Fits",
+    "When DCF May Fit",
     "Common DCF Pitfalls",
     "Japan-Specific DCF Adjustments",
     "Common Multiples by Asset Type",
@@ -118,9 +116,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 13118,
-    "word_like_tokens": 2043,
+    "nonspace_chars": 17638,
+    "word_like_tokens": 2852,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-07-30"
   }
 }

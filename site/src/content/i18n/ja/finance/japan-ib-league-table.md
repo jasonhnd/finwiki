@@ -1,11 +1,11 @@
 ---
 source: finance/japan-ib-league-table
-source_hash: a2dbdfd6ef807a75
+source_hash: 017318ee4db7a4a6
 lang: ja
 status: machine
 fidelity: ok
 title: "日本のIBリーグテーブル"
-translated_at: 2026-06-02T13:21:55.044Z
+translated_at: 2026-07-29T14:32:12.538Z
 ---
 # 日本のIBリーグテーブル
 
@@ -20,6 +20,8 @@ translated_at: 2026-06-02T13:21:55.044Z
 FinWiki では、このページは [[securities-firms/goldman-sachs-japan]]、[[securities-firms/nomura-hd]]、[[securities-firms/daiwa-sg]]、[[securities-firms/smbc-nikko]]、[[securities-firms/mizuho-securities]]、[[securities-firms/mufg-mums]] を解釈するためのレイヤーである。
 
 ## 何が順位付けされるか
+
+出典: 本表は [LSEG Investment Banking League Tables](https://www.lseg.com/en/data-analytics/financial-data/deals-data/investment-banking-league-tables)が説明する商品区分と、[JPX](https://www.jpx.co.jp/english/equities/listing-on-tse/new/basic/03.html)が説明する IPO 関係者の役割を反映する。順位を引用する場合は、情報ベンダーの集計方法と対象期間を併記しなければならない。
 
 | テーブル種別 | 典型的な指標 | 重要性 |
 |---|---|---|

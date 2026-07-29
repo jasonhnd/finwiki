@@ -5,22 +5,26 @@ aliases:
   - "GLP J-REIT"
   - "GLP J-REIT 3281"
   - "GLPJ"
-  - "GLP J-REIT Singapore sponsor"
-  - "GLP Pte Ltd J-REIT"
+  - "GLP J-REIT Ares sponsor"
+  - "GLP Japan Inc J-REIT"
   - "GLP logistics J-REIT Japan"
   - "GLP J-REIT modern logistics"
 domain: real-estate-finance
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
 confidence: likely
-tags: [real-estate-finance, j-reit, glp, logistics, modern-logistics, singapore-sponsor, 3281]
+tags: [real-estate-finance, j-reit, glp, ares-management, logistics, modern-logistics, 3281]
 status: active
 sources:
   - "https://www.glpjreit.com/"
   - "https://www.glpjreit.com/en/"
-  - "https://www.glp.com/global/"
+  - "https://www.glpjreit.com/en/portfolio/data.html"
+  - "https://www.glpjreit.com/en/ir/highlight.html"
+  - "https://www.glpjreit.com/en/about/profile3.html"
+  - "https://www.glpjreit.com/en/about/characteristics03.html"
+  - "https://www.glpjreit.com/en/finance/investment2.html"
   - "https://www.jpx.co.jp/english/markets/products/reit/index.html"
   - "https://www.ares.or.jp/en/"
   - "https://www.fsa.go.jp/en/"
@@ -30,9 +34,9 @@ sources:
 
 ## TL;DR
 
-**GLP J-REIT (TSE J-REIT 3281)** is one of the two leading **modern-logistics J-REITs** in Japan — sponsored by **GLP (Global Logistic Properties / GLP Pte Ltd)**, the Singapore-based global logistics-real-estate platform. GLP J-REIT was listed in December 2012 as the first foreign-sponsor logistics J-REIT in Japan and was a key driver of the post-2012 modern-logistics J-REIT segment expansion. Its portfolio is concentrated in **large-scale Class-A modern logistics facilities** (multi-tenant cross-dock warehouses with 24/7 truck access, high-ceiling clearances, sprinkler systems, and large floor plates) located in **Greater Tokyo and Greater Osaka logistics submarkets** — facilities developed by sponsor GLP and contributed into the J-REIT via the sponsor-pipeline asset-recycling mechanism.
+**GLP J-REIT (TSE J-REIT 3281)** is a large **modern-logistics J-REIT** in Japan. Its current sponsor is **GLP Japan Inc.**, which became part of **Ares Management Corporation (NYSE: ARES)** on March 1, 2025; the issuer also describes Ares Management as its broader sponsor group. **GLP Japan Advisors Inc.** remains the asset manager. GLP J-REIT was listed in December 2012 and holds large-scale modern logistics facilities concentrated in Greater Tokyo and Greater Osaka. The former GLP Pte Ltd / Singapore description is historical context and is not the current legal sponsor boundary.
 
-GLP J-REIT's structural identity rests on three pillars: (i) **sponsor pipeline** — GLP develops modern logistics assets on the sponsor balance sheet and feeds stabilized properties into GLP J-REIT through preferential-supply agreements; (ii) **active asset rotation** — periodic disposition of properties no longer matching modern-logistics specifications; (iii) **e-commerce-anchored tenant demand** — beneficiary of the secular growth in Japanese e-commerce (Amazon Japan, Rakuten, Yodobashi.com, Mercari logistics demand). GLP J-REIT competes head-on with [[real-estate-finance/nippon-prologis-reit-3283|Nippon Prologis REIT (NPR, 3283)]] for the AAA-grade modern-logistics tenant base.
+Current issuer materials identify sponsor-support functions and disclose the portfolio, tenants, acquisitions and dispositions. Use those dated records to evaluate pipeline contribution, asset changes and demand exposure. Compare GLP J-REIT with [[real-estate-finance/nippon-prologis-reit-3283|Nippon Prologis REIT (NPR, 3283)]] while keeping the two current sponsor structures distinct.
 
 ## Wiki route
 
@@ -40,90 +44,102 @@ This entry sits under [[real-estate-finance/INDEX|real-estate-finance index]] as
 
 ## 1. Corporate identity
 
+Table evidence (reviewed 2026-07-29): [GLP J-REIT's official site](https://www.glpjreit.com/en/), [JPX's listed-REIT directory](https://www.jpx.co.jp/english/equities/products/reits/issues/index.html), and issuer disclosures linked from those pages.
+
 | Item | Detail |
 |---|---|
 | Ticker | TSE J-REIT **3281** |
 | Investment corporation | GLP J-REIT (GLP投資法人) |
-| Asset-management company | GLP Japan Advisors Inc. (sponsor: GLP / Global Logistic Properties) |
-| Sponsor | GLP Pte Ltd (Singapore-based global logistics real estate platform) |
+| Asset-management company | GLP Japan Advisors Inc. |
+| Current sponsor | GLP Japan Inc.; shareholder of the asset manager and part of Ares Management Corporation since March 1, 2025 |
+| Broader sponsor group | Ares Management Corporation (NYSE: ARES), as described by the issuer |
 | Listing date | December 2012 |
 | Asset focus | Modern multi-tenant logistics facilities — Class-A warehouses |
 | Geographic focus | Greater Tokyo logistics submarkets (Inzai, Funabashi, Soka, Atsugi, Saitama corridor) and Greater Osaka |
 | Rating | Investment-grade by [[financial-regulators/jcr|JCR]] / [[financial-regulators/rating-and-investment|R&I]] |
-| Index inclusion | TSE REIT Index, TSE REIT Logistics Index, GPR / FTSE EPRA Nareit Developed Asia |
+| Index status | Verify current inclusion directly from each index provider's dated constituent list |
 
-## 2. Sponsor platform — GLP
+## 2. Sponsor platform — GLP Japan within Ares Management
 
-| Item | GLP detail |
+Table evidence (reviewed 2026-07-29): [issuer structure](https://www.glpjreit.com/en/about/profile3.html), [property-management support](https://www.glpjreit.com/en/about/characteristics03.html), and the latest [asset-management report](https://www.glpjreit.com/file/en-ir_library_term-bc82993cd995ee87970d20b66cc358b6a9e6218f.pdf).
+
+| Item | Current relationship |
 |---|---|
-| Headquarters | Singapore |
-| Scope | Global logistics real estate platform with operations in Japan, China, US, Europe, Brazil, Vietnam, India |
-| Japan operations | One of the two leading modern-logistics developers in Japan (with US Prologis) |
-| Sponsor pipeline role | GLP develops modern logistics facilities on balance sheet; stabilizes properties; feeds select stabilized assets to GLP J-REIT |
-| Investor base | GLP itself has a global LP base including Chinese sovereign wealth (historical) and various global institutional investors |
-| Comparator | US Prologis (sponsor of [[real-estate-finance/nippon-prologis-reit-3283|Nippon Prologis REIT]]) is the closest global comparator |
+| Sponsor | GLP Japan Inc. |
+| Sponsor-group boundary | GLP Japan became part of Ares Management Corporation on March 1, 2025 |
+| Asset manager | GLP Japan Advisors Inc.; GLP Japan is its shareholder |
+| Sponsor support | Sponsor-support agreement covers market research, asset acquisition, operations, leasing and property management |
+| Property manager | GLP Japan Inc. is appointed for the portfolio under the issuer's disclosed structure |
+| Historical label | GLP Pte Ltd / Singapore describes the former group context, not the current sponsor relationship |
 
-GLP's Singapore-headquartered foreign-sponsor status is a distinctive feature of GLP J-REIT — most other J-REIT sponsors are Japanese listed developers (Mitsui Fudosan, Mitsubishi Estate, Nomura Real Estate, etc.). The foreign sponsor brings global logistics-asset expertise and access to global LP capital at the sponsor level.
+Use the issuer's current corporate diagram and report for related-party analysis. The Ares group boundary, GLP Japan's legal role and GLP Japan Advisors' asset-management role should not be collapsed into a generic “GLP Singapore” label.
 
 ## 3. Portfolio composition
+
+Table evidence (reviewed 2026-07-29; metrics as of 2026-06-30): [GLP J-REIT portfolio data](https://www.glpjreit.com/en/portfolio/data.html). The disclosed snapshot is **86 properties**, ¥871.5 billion acquisition price, 172 tenants, 99.1% occupancy, and 4.5-year WALE.
 
 | Axis | GLP J-REIT pattern |
 |---|---|
 | Asset class | Modern multi-tenant logistics — Class-A warehouses |
-| Property specifications | High ceiling clearance (typically 5.5m+ effective height), sprinkler systems, multi-tenant cross-dock layouts, ramp access for upper floors |
-| Property size | Mostly large multi-tenant facilities (100,000m2+ GFA is not unusual) |
+| Property specifications | Use the issuer's property-level specifications; ceiling height, ramps, floor plates and tenant configuration vary by asset |
+| Property size | Use the current property list and a stated denominator to describe the size distribution |
 | Geographic focus | Greater Tokyo and Greater Osaka logistics submarkets along major expressways |
 | Tenant base | Third-party logistics (3PL) providers, e-commerce platforms, retailers, manufacturers |
-| Sponsor pipeline source | GLP development pipeline (preferential supply agreement) |
+| Sponsor pipeline source | GLP Japan / Ares sponsor-group support arrangements; verify each acquisition disclosure |
 
 ## 4. Capital and leverage
 
+Table evidence (reviewed 2026-07-29; financial figures for the period ended 2026-02): [GLP J-REIT financial highlights](https://www.glpjreit.com/en/ir/highlight.html). Period-end total assets were ¥872.305 billion, LTV was 45.5%, and DPU was ¥3,399.
+
 | Item | GLP J-REIT pattern |
 |---|---|
-| LTV policy band | Mid-40% zone typical |
+| LTV snapshot | **45.5%** at 2026-02 period-end |
 | Debt mix | Bank loans plus public investment-corporation bonds |
 | Bond curve | Investment-grade J-REIT bond pricing |
-| Sponsor support stake | GLP retains a sponsor-support unit-holder stake |
-| Distribution policy | Semi-annual DPU; J-REIT 90% pass-through |
-| Foreign-investor share | High — benchmark Japan logistics name; the foreign-sponsor link drives natural global-investor visibility |
+| Sponsor support stake | As of 2026-02-28, the issuer states that Ares Management held 2.0% through a disclosed custody account; GLP Capital Japan 2 Private Limited separately appeared at 1.4% in the major-unitholder table |
+| Distribution snapshot | **¥3,399 DPU** for the period ended 2026-02 |
+| Foreign-investor relevance | Verify index inclusion, unit-holder ownership and JPX trading flow separately from dated sources |
 
-## 5. Asset rotation strategy
+## 5. Acquisition and disposition review
 
-GLP J-REIT's distinctive operating feature is **active asset rotation**:
+Review each acquisition and disposition from the issuer's dated transaction record:
 
 | Rotation activity | Rationale |
 |---|---|
-| Disposition of older or non-spec assets | Properties not matching evolving modern-logistics specifications are sold |
-| Acquisition of newer sponsor pipeline assets | Replacement with newer, larger, more spec-current assets from GLP development pipeline |
-| Capital efficiency | Recycled capital redeployed into newer assets with better long-term tenant demand |
-| Portfolio refresh | Average property age and spec-currency maintained over time |
-| Cap-rate management | Disposition typically at higher implied cap rates than acquisition; spread benefits unit-holders |
+| Disposition | Record property, counterparty, price, appraisal, book value, fees and reason stated by the issuer |
+| Acquisition | Record property origin, seller, price, appraisal, funding and sponsor / third-party classification |
+| Capital allocation | Trace sale proceeds, distributions, buybacks and acquisitions in the issuer's dated disclosures |
+| Portfolio refresh | Compare property age, specifications and lease profile before and after each disclosed transaction |
 
-This rotation-centric model contrasts with the more buy-and-hold model historically applied by office J-REITs and is one of the key reasons modern-logistics J-REITs have shown higher AUM growth tempo than office J-REITs.
+Do not infer a recurring disposition-cap-rate spread or a unitholder benefit without a transaction sample. Each sale and acquisition must be tested using the disclosed appraisal, book value, price, fees and use of proceeds.
 
 ## 6. Tenant economics
 
+Table evidence (reviewed 2026-07-29): [GLP J-REIT portfolio data](https://www.glpjreit.com/en/portfolio/data.html) supports the tenant count, occupancy and lease snapshot; the qualitative lease observations below are analytical generalizations and not issuer forecasts.
+
 | Tenant dynamic | Reading |
 |---|---|
-| Tenant concentration | Often higher than office J-REIT — single-tenant or two-tenant facilities exist; multi-tenant facilities have several large 3PL or e-commerce tenants |
-| Lease length | Typically longer than office (5-10+ years) for modern logistics |
-| Rent reset | Less frequent step-ups than office; tenant-stickiness high due to capex tenant has invested in site |
-| Tenant industries | 3PL (Yamato, Sagawa, Yusen, Nittsu), e-commerce (Amazon Japan, Rakuten, etc.), retailers, manufacturers |
-| Sponsor as tenant | GLP itself is not a tenant; tenants are independent logistics operators and corporate users |
+| Tenant concentration | Calculate from the current tenant and property disclosures using a stated denominator |
+| Lease length | Use the current lease-expiry schedule and issuer-defined WALE |
+| Rent reset | Read the disclosed lease terms; do not infer reset frequency or tenant retention from asset class |
+| Tenant industries | Classify only tenants identified in current issuer disclosure |
+| Sponsor as tenant | Check the current tenant and related-party disclosures rather than inferring from sponsor status |
 
 ## 7. GLP J-REIT vs Nippon Prologis REIT
 
+Table evidence (reviewed 2026-07-29): [GLP J-REIT official disclosures](https://www.glpjreit.com/en/) and [Nippon Prologis REIT official disclosures](https://www.prologis-reit.co.jp/en/). Time-varying metrics are intentionally excluded from this structural comparison.
+
 | Axis | GLP J-REIT (3281) | Nippon Prologis REIT (3283) |
 |---|---|---|
-| Sponsor | GLP Pte Ltd (Singapore) | US Prologis |
+| Sponsor | GLP Japan Inc.; part of Ares Management since 2025-03-01 | US Prologis |
 | Listing date | December 2012 | February 2013 (shortly after) |
-| Asset focus | Modern logistics — Class-A multi-tenant | Modern logistics — AAA-grade Prologis-developed |
+| Asset focus | Modern logistics; verify property specifications from issuer data | Modern logistics; use NPR's issuer-defined facility classifications |
 | Geographic focus | Greater Tokyo / Greater Osaka | Greater Tokyo / Greater Osaka |
-| Sponsor platform | Global logistics real estate platform | Global logistics real estate platform |
-| Asset rotation | Active rotation | Active rotation |
-| Foreign-investor profile | High — foreign-sponsor link | High — foreign-sponsor link |
+| Sponsor platform | GLP Japan / Ares Management sponsor group | Prologis global logistics platform |
+| Acquisition / disposition evidence | Use GLP J-REIT's dated transaction history | Use NPR's dated transaction history |
+| Unit-holder evidence | Use the current issuer major-unitholder disclosure; do not infer ownership from sponsor domicile | Use the current issuer major-unitholder disclosure; do not infer ownership from sponsor domicile |
 
-Both names compete for the AAA-grade modern-logistics tenant base and for foreign-investor logistics-J-REIT allocation. The GLP-Prologis pairing is the **listed proxy for the GLP-vs-Prologis global logistics rivalry** within Japan.
+Both names provide listed exposure to modern logistics in Japan. Any competitive or investor-allocation comparison must use current issuer data; the historical GLP-versus-Prologis framing does not replace the current GLP Japan / Ares legal relationship.
 
 ## Related
 
@@ -146,7 +162,7 @@ Both names compete for the AAA-grade modern-logistics tenant base and for foreig
 ## Sources
 
 - GLP J-REIT — official site https://www.glpjreit.com/ and English IR.
-- GLP (group) — https://www.glp.com/global/
+- GLP J-REIT sponsor structure and major-unitholder disclosures — official issuer site.
 - JPX — REIT Market English landing.
 - ARES — English landing.
 - FSA — investment-corporation framework.

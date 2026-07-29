@@ -21,15 +21,14 @@
       "J-REIT yield vs JGB",
       "Japan REIT JGB spread",
       "J-REIT dividend-yield JGB-10Y",
-      "Japan J-REIT risk premium",
-      "TSE REIT Index yield"
+      "J-REIT distribution-yield comparison"
     ],
     "domain": "real-estate-finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "real-estate-finance",
@@ -54,7 +53,7 @@
       "https://www.boj.or.jp/en/research/brp/fsr/index.htm"
     ]
   },
-  "summary": "The J-REIT dividend yield minus 10Y JGB yield spread is a primary watch metric for Japan real-estate-investor positioning. Historically the spread has sat in a roughly 200 - 400bp band around the TSE REIT Index average dividend yield. NIRP / YCC compression pinned the 10Y JGB near zero and pushed th",
+  "summary": "The J-REIT distribution yield minus a matched-date 10-year JGB yield is a useful positioning metric, but the result depends on index constituents, price date and whether distributions are trailing or forecast. This page therefore does not present an unsupported timeless “historical band” or a 2026 f",
   "headings": [
     "J-REIT dividend yield vs JGB spread",
     "TL;DR",
@@ -117,13 +116,22 @@
       "https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/",
       "https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 8,
+    "external_links": [
+      "https://www.ares.or.jp/action/jreit/",
+      "https://www.boj.or.jp/en/mopo/index.htm",
+      "https://www.boj.or.jp/en/research/brp/fsr/index.htm",
+      "https://www.boj.or.jp/en/statistics/index.htm",
+      "https://www.jpx.co.jp/english/equities/products/reits/issues/index.html",
+      "https://www.jpx.co.jp/english/markets/indices/factsheets/files/e_102_fac2_REIT.pdf",
+      "https://www.jpx.co.jp/english/markets/statistics-equities/investor-type/index.html",
+      "https://www.mof.go.jp/english/policy/jgbs/reference/interest_rate/index.htm"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 11243,
-    "word_like_tokens": 1912,
+    "nonspace_chars": 15037,
+    "word_like_tokens": 2560,
     "inbound_wikilinks_count": 11,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-30"
   }
 }

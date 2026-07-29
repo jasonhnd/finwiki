@@ -7,9 +7,9 @@ aliases:
   - "finance/japan-shareholder-proposal-and-agm-voting"
 domain: "finance"
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
-review_by: 2026-11-22
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
 confidence: likely
 tags: [finance, governance, AGM, shareholder-proposal, voting, Japan]
 status: active
@@ -31,6 +31,8 @@ This page belongs to [[finance/INDEX|finance domain]] and links to [[finance/jap
 
 ## Route Map
 
+Source: the table follows the [Companies Act](https://www.japaneselawtranslation.go.jp/en/laws/view/4481/en) and [JPX corporate-governance materials](https://www.jpx.co.jp/equities/listing/cg/index.html); company-specific dates and voting methods must be read from the issuer's convocation notice.
+
 | Layer | Public source route | Public record field |
 |---|---|---|
 | Shareholders meeting decision | Companies Act Article 298 | Date, time, place, meeting purpose, written voting, electronic voting. |
@@ -43,6 +45,8 @@ This page belongs to [[finance/INDEX|finance domain]] and links to [[finance/jap
 | Voting result | Issuer disclosure / TDnet / governance materials | Approval ratio, proposal result, director election results. |
 
 ## Companies Act Fields
+
+Source: each row in the table is keyed to the [Companies Act](https://www.japaneselawtranslation.go.jp/en/laws/view/4481/en); statutory exceptions and articles in force for the meeting date prevail.
 
 | Article | Public field |
 |---|---|
@@ -61,6 +65,8 @@ This page belongs to [[finance/INDEX|finance domain]] and links to [[finance/jap
 
 ## AGM Materials Route
 
+Source: the table is a document-retrieval checklist based on the [Companies Act](https://www.japaneselawtranslation.go.jp/en/laws/view/4481/en) and [JPX corporate-governance materials](https://www.jpx.co.jp/equities/listing/cg/index.html), not a statement that every issuer uses every voting channel.
+
 | Public material | Record fields |
 |---|---|
 | Convocation notice | Meeting date, location / format, agenda, voting deadline, voting method. |
@@ -74,6 +80,8 @@ This page belongs to [[finance/INDEX|finance domain]] and links to [[finance/jap
 
 JPX timely disclosure guidebook materials identify listed-company AGM / voting facilitation fields in the corporate-governance report route. The source pack recorded the following public disclosure items:
 
+Source: the table follows the [JPX timely-disclosure guidebook](https://www.jpx.co.jp/english/equities/listing/disclosure/guidebook/dh3otn0000000xbv-att/Guidebook.pdf) and the current [JPX corporate-governance route](https://www.jpx.co.jp/equities/listing/cg/index.html).
+
 | JPX governance-report item | Public field |
 |---|---|
 | Early posting of notice | Timing and method of convocation notice publication. |
@@ -84,6 +92,8 @@ JPX timely disclosure guidebook materials identify listed-company AGM / voting f
 | Other facilitation measures | Additional issuer-disclosed AGM facilitation items. |
 
 ## Public Record Fields
+
+Source: the table is a retrieval checklist for the [Companies Act](https://www.japaneselawtranslation.go.jp/en/laws/view/4481/en), issuer convocation notices, and the [JPX corporate-governance route](https://www.jpx.co.jp/equities/listing/cg/index.html); issuer filings control for each meeting.
 
 | Field | Source route |
 |---|---|

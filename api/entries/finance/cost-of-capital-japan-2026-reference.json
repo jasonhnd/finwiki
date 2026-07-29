@@ -22,14 +22,14 @@
       "Japan equity risk premium 2026",
       "Japan risk-free rate reference",
       "Japan TONA discount rate",
-      "Japan TSE Prime WACC range"
+      "Japan hypothetical WACC sensitivity grid"
     ],
     "domain": "finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "finance",
@@ -46,16 +46,16 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.boj.or.jp/en/statistics/index.htm",
-      "https://www.mof.go.jp/english/jgbs/auction/calendar/index.html",
+      "https://www.boj.or.jp/en/statistics/market/index.htm",
+      "https://www.mof.go.jp/english/policy/jgbs/reference/interest_rate/index.htm",
       "https://www.jpx.co.jp/english/markets/statistics-equities/index.html",
       "https://www.jpx.co.jp/english/equities/follow-up/02.html",
-      "https://www.boj.or.jp/en/announcements/release_2024/k240319a.htm",
-      "https://www.fsa.go.jp/en/",
-      "https://pages.stern.nyu.edu/~adamodar/"
+      "https://www.boj.or.jp/en/mopo/mpmdeci/state_2024/k240319a.htm",
+      "https://pages.stern.nyu.edu/adamodar/New_Home_Page/datacurrent.html",
+      "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/ctryprem.htm"
     ]
   },
-  "summary": "The cost of capital is the single most-leveraged input in any DCF valuation and the structural anchor for LBO economics, real-estate IRR underwriting, and acquisition finance pricing. For Japan as of 2026, the structural inputs are: (1) risk-free reference rate based on 10-year JGB yield (~1.0-1.5%",
+  "summary": "The cost of capital is a highly sensitive input in any DCF valuation and a structural anchor for LBO economics, real-estate IRR underwriting, and acquisition finance pricing. For Japan, practitioners should refresh the JGB or TONA/OIS reference rate on the valuation date, select and document an ERP",
   "headings": [
     "Cost of capital Japan 2026 reference",
     "TL;DR",
@@ -69,7 +69,7 @@
     "Beta Sources"
   ],
   "body_links": {
-    "wikilinks_count": 22,
+    "wikilinks_count": 19,
     "wikilinks": [
       "INDEX",
       "derivatives/japan-irs-market",
@@ -85,9 +85,6 @@
       "finance/real-options-valuation-japan-applications",
       "insurance/economic-value-based-solvency",
       "insurance/japan-life-insurance-alm-overview",
-      "megabanks/mizuho-fg",
-      "megabanks/mufg",
-      "megabanks/smfg",
       "money-market/boj-post-2024-floor-system-complementary-deposit-facility",
       "money-market/japan-money-market",
       "real-estate-finance/cap-rate-noi-irr-real-estate-valuation-framework",
@@ -109,9 +106,6 @@
       "https://finwiki.zksc.io/ja/finance/real-options-valuation-japan-applications/",
       "https://finwiki.zksc.io/ja/insurance/economic-value-based-solvency/",
       "https://finwiki.zksc.io/ja/insurance/japan-life-insurance-alm-overview/",
-      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
-      "https://finwiki.zksc.io/ja/megabanks/mufg/",
-      "https://finwiki.zksc.io/ja/megabanks/smfg/",
       "https://finwiki.zksc.io/ja/money-market/boj-post-2024-floor-system-complementary-deposit-facility/",
       "https://finwiki.zksc.io/ja/money-market/japan-money-market/",
       "https://finwiki.zksc.io/ja/real-estate-finance/cap-rate-noi-irr-real-estate-valuation-framework/",
@@ -122,9 +116,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 11169,
-    "word_like_tokens": 1874,
+    "nonspace_chars": 14622,
+    "word_like_tokens": 2485,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-30"
   }
 }

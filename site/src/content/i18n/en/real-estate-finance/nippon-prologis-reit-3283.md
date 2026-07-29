@@ -1,26 +1,28 @@
 ---
 source: real-estate-finance/nippon-prologis-reit-3283
-source_hash: d6477807a80320f1
+source_hash: 4b62996beeb7c8fe
 lang: en
 status: machine
 fidelity: ok
 title: "Nippon Prologis REIT (3283)"
-translated_at: 2026-06-01T03:31:12.245Z
+translated_at: 2026-07-29T23:56:42+09:00
 ---
 
 # Nippon Prologis REIT (3283)
 
 ## TL;DR
 
-**Nippon Prologis REIT, Inc. (NPR, TSE J-REIT 3283)** is the **Prologis-sponsored modern-logistics J-REIT** — the Japan-listed vehicle of US-headquartered **Prologis, Inc.** (NYSE: PLD), the world's largest publicly-listed logistics REIT and one of the two leading modern-logistics platforms in Japan (alongside [[real-estate-finance/glp-j-reit-3281|GLP J-REIT]]). Listed in February 2013 shortly after GLP J-REIT, NPR established the formal **sponsor support agreement** structure that has since become a template for foreign-sponsor J-REITs — combining preferential-supply rights on the sponsor's Japan development pipeline, sponsor unit-holder support stake, and asset-rotation rights for spec-current logistics facilities.
+**Nippon Prologis REIT, Inc. (NPR, TSE J-REIT 3283)** is the **Prologis-sponsored modern-logistics J-REIT** linked to US-headquartered **Prologis, Inc.** (NYSE: PLD). Listed in February 2013 shortly after GLP J-REIT, NPR discloses a formal sponsor-support framework. Prologis's current global scale and its rank within Japan must be measured from dated, consistently defined data; NPR's exact rights, holdings and approval processes must be read from current NPR documents rather than treated as a market-wide template.
 
-NPR's portfolio is concentrated in **AAA-grade modern logistics facilities** — high-spec multi-tenant warehouses in **Greater Tokyo, Osaka, and Aichi/Nagoya logistics submarkets** developed by Prologis Japan on the sponsor balance sheet. The AAA-grade designation refers to facility specifications: large floor plates, multi-story ramp access, multi-tenant cross-dock layouts, high ceiling clearance, sprinkler systems, BCP-resilient design (earthquake, flood mitigation), tenant amenities. NPR is a **benchmark name** for foreign-investor Japan logistics allocation and competes head-on with [[real-estate-finance/glp-j-reit-3281|GLP J-REIT]] for the AAA-grade tenant base.
+NPR's portfolio is concentrated in modern logistics facilities in **Greater Tokyo, Osaka, and Aichi/Nagoya logistics submarkets**. Where NPR or Prologis uses a facility-class label, treat it as an issuer-defined property specification rather than an independent credit rating, and verify features property by property. Compare NPR with [[real-estate-finance/glp-j-reit-3281|GLP J-REIT]] using same-date portfolio, tenant, ownership and trading data rather than assuming a fixed competitive ranking or shared tenant segment.
 
 ## Wiki route
 
-This entry sits under [[real-estate-finance/INDEX|real-estate-finance index]] as the **Prologis-sponsored modern-logistics J-REIT anchor**. Read it together with [[real-estate-finance/glp-j-reit-3281|GLP J-REIT (3281)]] for the closest peer contrast (GLP-vs-Prologis rivalry), with [[real-estate-finance/logistics-j-reit-vs-office-j-reit-asset-class-comparison|logistics J-REIT vs office J-REIT asset-class comparison]] for sector-level analysis, and with [[real-estate-finance/top-10-j-reit-overview-matrix|Top 10 J-REIT overview matrix]] for cross-J-REIT positioning. For office contrast use [[real-estate-finance/nippon-building-fund-j-reit-8951|NBF (8951)]] and [[real-estate-finance/japan-real-estate-j-reit-8952|JRE (8952)]]; for diversified contrast use [[real-estate-finance/nomura-real-estate-master-fund-nmf|NMF]]. Governance frame: [[real-estate-finance/j-reit-vs-us-reit-governance-comparison|J-REIT vs US REIT governance]] and [[real-estate-finance/j-reit-sponsor-structure-conflict|J-REIT sponsor structure and conflict]].
+This entry sits under [[real-estate-finance/INDEX|real-estate-finance index]] as the **Prologis-sponsored modern-logistics J-REIT anchor**. Read it together with [[real-estate-finance/glp-j-reit-3281|GLP J-REIT (3281)]] for a same-sector peer comparison, with [[real-estate-finance/logistics-j-reit-vs-office-j-reit-asset-class-comparison|logistics J-REIT vs office J-REIT asset-class comparison]] for sector-level analysis, and with [[real-estate-finance/top-10-j-reit-overview-matrix|Top 10 J-REIT overview matrix]] for cross-J-REIT positioning. For office contrast use [[real-estate-finance/nippon-building-fund-j-reit-8951|NBF (8951)]] and [[real-estate-finance/japan-real-estate-j-reit-8952|JRE (8952)]]; for diversified contrast use [[real-estate-finance/nomura-real-estate-master-fund-nmf|NMF]]. Governance frame: [[real-estate-finance/j-reit-vs-us-reit-governance-comparison|J-REIT vs US REIT governance]] and [[real-estate-finance/j-reit-sponsor-structure-conflict|J-REIT sponsor structure and conflict]].
 
 ## 1. Corporate identity
+
+Table evidence (reviewed 2026-07-29): [Nippon Prologis REIT official disclosures](https://www.prologis-reit.co.jp/en/) and the [JPX listed-REIT directory](https://www.jpx.co.jp/english/equities/products/reits/issues/index.html).
 
 | Item | Detail |
 |---|---|
@@ -29,28 +31,32 @@ This entry sits under [[real-estate-finance/INDEX|real-estate-finance index]] as
 | Asset-management company | Prologis REIT Management K.K. (sponsor: Prologis) |
 | Sponsor | Prologis, Inc. (NYSE: PLD); Japan operations: Prologis Japan |
 | Listing date | February 2013 |
-| Asset focus | AAA-grade modern logistics facilities |
+| Asset focus | Modern logistics facilities; issuer-defined facility labels are not credit ratings |
 | Geographic focus | Greater Tokyo, Osaka, Nagoya logistics submarkets |
 | Rating | Investment-grade by [[financial-regulators/jcr|JCR]] / [[financial-regulators/rating-and-investment|R&I]] |
-| Index inclusion | TSE REIT Index, TSE REIT Logistics Index, GPR / FTSE EPRA Nareit Developed Asia |
+| Index inclusion | Verify current inclusion directly from each index provider's dated constituent list |
 
 ## 2. Prologis sponsor platform
+
+Table evidence (reviewed 2026-07-29): [Nippon Prologis REIT sponsor disclosures](https://www.prologis-reit.co.jp/en/) and [Prologis corporate disclosures](https://www.prologis.com/).
 
 | Item | Prologis detail |
 |---|---|
 | Headquarters | San Francisco, US |
 | NYSE ticker | PLD |
-| Scale | World's largest publicly-listed logistics REIT |
-| Global presence | Operations across the Americas, Europe, Asia (Japan, China, Korea, Singapore) |
-| Japan operations | Prologis Japan — one of the two leading modern-logistics developers in Japan (with GLP) |
-| Development pipeline | Maintained on sponsor balance sheet; stabilized properties feed NPR via the sponsor support agreement |
-| Comparator | GLP (sponsor of [[real-estate-finance/glp-j-reit-3281|GLP J-REIT]]) is the closest global comparator in Japan |
+| Scale | Use dated Prologis portfolio and market-capitalization data with a stated denominator; no global rank is asserted here |
+| Global presence | Use a dated Prologis corporate report and its geographic definitions; do not infer NPR's rights or portfolio from the group footprint |
+| Japan operations | Prologis Japan; compare current development and portfolio data with peers on one definition |
+| Development pipeline | Read the current sponsor-support agreement and property-level acquisition history; do not assume every stabilized sponsor asset transfers to NPR |
+| Comparator | [[real-estate-finance/glp-j-reit-3281|GLP J-REIT]], whose current materials identify GLP Japan within the broader Ares sponsor group |
 
-Prologis's US-listed status means its Japan strategy is integrated with the broader Prologis global platform. NPR is one of several public-listed logistics REIT vehicles Prologis sponsors globally.
+Prologis's US listing and global operations provide group context only. Any claim about other listed vehicles, the Japan strategy or resources available to NPR requires a dated Prologis/NPR disclosure and the relevant agreement.
 
 ## 3. Sponsor support agreement structure
 
-The Prologis-NPR sponsor support agreement is one of the most clearly disclosed formal sponsor-pipeline mechanisms in the J-REIT market. Key components:
+NPR discloses a formal Prologis sponsor-support agreement. The current terms, scope and transaction history—not a cross-market disclosure ranking—establish what the arrangement provides:
+
+Table evidence (reviewed 2026-07-29): [Nippon Prologis REIT official sponsor-support disclosures](https://www.prologis-reit.co.jp/en/). Rights and approval processes are summarized from the issuer's current public materials; “typically” is not used as a substitute for a disclosed percentage.
 
 | Component | Description |
 |---|---|
@@ -58,58 +64,66 @@ The Prologis-NPR sponsor support agreement is one of the most clearly disclosed 
 | Information rights | NPR receives information on sponsor pipeline development progress |
 | Warehousing support | Sponsor can warehouse stabilized assets pending NPR acquisition timing |
 | Asset rotation cooperation | Sponsor cooperates with NPR's portfolio refresh strategy |
-| Sponsor unit-holder stake | Prologis retains a meaningful unit-holder stake (typically several percent), aligning sponsor and unit-holder interests |
+| Sponsor unit-holder stake | Prologis retains a disclosed unit-holder stake; the current percentage must be read from the latest unitholder disclosure |
 | AM-company cooperation | Asset-management-company (Prologis REIT Management K.K.) is staffed and supported by Prologis Japan |
-| Related-party-transaction governance | Acquisitions from sponsor require third-party appraisal, independent committee approval, and unit-holder disclosure |
+| Related-party-transaction governance | Follow NPR's current related-party policy and each transaction's appraisal, approval and disclosure record |
 
-This formal sponsor-support-agreement template has been replicated (in modified form) by other foreign-sponsor J-REITs and by domestic-sponsor J-REITs seeking to formalize their sponsor relationship.
+This table describes NPR only. Similar labels used by another J-REIT do not establish identical contractual rights or governance.
 
 ## 4. Portfolio composition
 
+Table evidence (reviewed 2026-07-29; property and asset-size figures as of 2026-05-31, occupancy as of 2026-06-30): [Nippon Prologis REIT official dashboard](https://www.prologis-reit.co.jp/en/). The issuer disclosed **60 properties**, ¥963.2 billion asset size and 98.3% occupancy.
+
 | Axis | NPR pattern |
 |---|---|
-| Asset class | AAA-grade modern logistics — Class-A Plus warehouses |
-| Property specifications | Very high ceiling clearance, large floor plates, multi-story ramp access, multi-tenant cross-dock, sprinklers, BCP-resilient design |
-| Property size | Predominantly very large (often 100,000+ m2 GFA), supporting multiple major tenants per asset |
+| Asset class | Modern logistics facilities; verify any Class-A / Class-A Plus label against the issuer's definition |
+| Property specifications | Record ceiling height, floor load, ramp, dock, fire-protection and BCP features property by property; no listed feature is assumed to apply to every NPR asset |
+| Property size | Calculate the distribution from the current property list; do not infer a 100,000+ m2 threshold as typical |
 | Geographic focus | Greater Tokyo (Funabashi, Inzai, Soka, Sagamihara), Greater Osaka, Aichi/Nagoya |
-| Tenant base | 3PL providers, e-commerce platforms (Amazon Japan presence is significant), retailers, manufacturers |
-| Sponsor pipeline source | Prologis Japan development pipeline |
+| Tenant base | Use dated issuer tenant disclosures and a stated denominator; sector labels do not establish concentration |
+| Acquisition source | Read the current sponsor-support agreement and classify each completed transaction; the wider Prologis Japan development pipeline is not automatically NPR's pipeline |
 
 ## 5. Capital and leverage
 
+Table evidence (reviewed 2026-07-29; figures as of 2026-05-31): [Nippon Prologis REIT financial data](https://www.prologis-reit.co.jp/en/financial/index.html). Debt was ¥362.3 billion, appraisal LTV 28.5%, average debt cost 0.92%, fixed-rate ratio 93.2%, and long-term debt ratio 98.6%; May 2026 DPU was ¥1,928.
+
 | Item | NPR pattern |
 |---|---|
-| LTV policy band | Mid-40% zone typical |
-| Debt mix | Bank loans plus public investment-corporation bonds |
-| Bond curve | Investment-grade J-REIT bond pricing |
-| Sponsor support stake | Prologis retains a sponsor-support unit-holder stake |
-| Distribution policy | Semi-annual DPU; J-REIT 90% pass-through |
-| Foreign-investor share | High — benchmark Japan logistics name with foreign-sponsor link driving global-investor visibility |
+| Appraisal LTV snapshot | **28.5%** as of 2026-05-31 |
+| Debt mix | Use NPR's dated debt schedule to distinguish loans and investment-corporation bonds and record rates, maturities and hedging |
+| Bond terms | Compare only dated NPR issues with matched-date instruments; an investment-grade label does not establish a bond curve or current pricing |
+| Sponsor support stake | Use the latest dated unit-holder disclosure for Prologis's position |
+| Distribution snapshot | **¥1,928 DPU** for the period ended 2026-05 |
+| Foreign-investor relevance | Use dated unit-holder disclosure for ownership and JPX data for trading flow; do not infer either from index status |
 
 ## 6. NPR vs GLP J-REIT
 
+Table evidence (reviewed 2026-07-29): [Nippon Prologis REIT disclosures](https://www.prologis-reit.co.jp/en/) and [GLP J-REIT disclosures](https://www.glpjreit.com/en/). Time-varying metrics are intentionally excluded.
+
 | Axis | NPR (3283) | GLP J-REIT (3281) |
 |---|---|---|
-| Sponsor | Prologis (US, NYSE PLD) | GLP Pte Ltd (Singapore) |
+| Sponsor | Prologis (US, NYSE PLD) | GLP Japan within the broader Ares sponsor group |
 | Listing date | February 2013 | December 2012 |
-| Asset focus | AAA-grade modern logistics | Modern logistics (Class-A multi-tenant) |
+| Asset focus | Modern logistics; apply NPR's disclosed specifications | Modern logistics; apply GLP J-REIT's disclosed specifications |
 | Geographic focus | Greater Tokyo / Osaka / Nagoya | Greater Tokyo / Osaka |
-| Sponsor support | Formalized sponsor support agreement | Sponsor pipeline preferential supply |
-| Asset rotation | Active | Active |
-| Foreign-investor profile | High; benchmark name | High; benchmark name |
-| Distinctive feature | Prologis global scale and AAA-grade specification focus | GLP global scale and Singapore-anchored LP base |
+| Sponsor support | Apply NPR's current sponsor-support agreement | Apply GLP J-REIT's current sponsor-support agreements |
+| Asset rotation | Measure dated acquisitions and dispositions | Measure dated acquisitions and dispositions |
+| Foreign-investor profile | Use NPR's dated unit-holder disclosure | Use GLP J-REIT's dated unit-holder disclosure |
+| Distinctive feature | Prologis sponsor platform and issuer-defined facility specifications | GLP Japan / Ares sponsor-group context; verify from current issuer disclosure |
 
-## 7. Why foreign sponsors anchor the modern-logistics segment
+## 7. Sponsor mix in the modern-logistics segment
 
-The modern-logistics J-REIT segment in Japan is unusual in being **dominated by foreign sponsors** — Prologis (US) and GLP (Singapore) anchor the segment, while domestic developer-sponsors (Mitsui Fudosan, Mitsubishi Estate, Nomura Real Estate) play smaller roles in modern logistics relative to office and residential. Structural reasons:
+The modern-logistics J-REIT segment includes both cross-border and domestic sponsor relationships. Prologis sponsors NPR; GLP J-REIT currently identifies GLP Japan within the broader Ares sponsor group; other listed vehicles have LaSalle, KKR-linked, Mitsui Fudosan, Mitsubishi Estate and other relationships. This page does not establish sponsor dominance by asset value or market capitalization.
 
-| Driver | Reading |
+Table evidence (reviewed 2026-07-29): [Nippon Prologis REIT](https://www.prologis-reit.co.jp/en/), [GLP J-REIT](https://www.glpjreit.com/en/), and the [JPX listed-REIT directory](https://www.jpx.co.jp/english/equities/products/reits/issues/index.html). The sources identify issuers and sponsor relationships; they do not by themselves prove the causal explanations previously associated with sector growth.
+
+| Review item | Evidence required |
 |---|---|
-| Modern-logistics-spec expertise | Prologis and GLP developed AAA-grade modern-logistics expertise at global scale before Japanese developers built equivalent platforms |
-| Land acquisition tempo | Foreign sponsors aggressively secured logistics-zoned land in key submarkets through the 2010s |
-| Capital efficiency | Foreign sponsors' global LP capital provided faster capital-deployment tempo than domestic balance-sheet financing alone |
-| Tenant relationship | International logistics tenants (Amazon, global 3PLs) prefer counterparties they know globally |
-| Reasonable counter | Domestic developers have responded with logistics-focused J-REIT entries (e.g. logistics sleeves within diversified J-REITs) |
+| Sponsor map | Current issuer and asset-manager disclosures for every vehicle in the comparison set |
+| Scale | Same-date acquisition value, appraisal value or market capitalization using one consistent definition |
+| Development contribution | Property-level origin and acquisition history, distinguishing sponsor and third-party assets |
+| Capital source | Disclosed sponsor, fund and issuer financing; do not infer speed or advantage from headquarters |
+| Tenant relationship | Dated tenant and leasing disclosure; do not infer preference from a tenant's nationality |
 
 ## Related
 

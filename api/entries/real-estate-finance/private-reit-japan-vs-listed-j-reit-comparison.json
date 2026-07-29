@@ -28,9 +28,9 @@
     "domain": "real-estate-finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "real-estate-finance",
@@ -47,11 +47,12 @@
     "sources": [
       "https://j-reit.jp/en/",
       "https://www.ares.or.jp/en/",
+      "https://www.ares.or.jp/news/uploads/private_fund_survey202601.pdf",
       "https://www.jpx.co.jp/english/markets/products/reit/index.html",
       "https://www.fsa.go.jp/en/"
     ]
   },
-  "summary": "Private REIT (私募リート / 非上場REIT) and listed J-REIT are structurally the same kind of investment corporation under the Investment Trust Act, but the listing status changes almost everything about how they are used in practice. Listed J-REIT trade continuously on JPX with full continuing-disclosure obli",
+  "summary": "Private REIT (私募リート / 非上場REIT) and listed J-REIT can both use an investment-corporation form under the Investment Trust Act, but listing status materially changes trading and disclosure. Listed J-REIT trade on JPX under public continuing-disclosure rules. Private-REIT subscription, redemption, NAV a",
   "headings": [
     "Private REIT Japan vs listed J-REIT comparison",
     "TL;DR",
@@ -65,7 +66,7 @@
     "7. Relationship with GK-TK private real-estate funds"
   ],
   "body_links": {
-    "wikilinks_count": 20,
+    "wikilinks_count": 19,
     "wikilinks": [
       "INDEX",
       "banking/INDEX",
@@ -78,7 +79,6 @@
       "policy-finance/INDEX",
       "policy-finance/japan-housing-finance-agency",
       "real-estate-finance/INDEX",
-      "real-estate-finance/INDEX\\",
       "real-estate-finance/j-reit-market-overview",
       "real-estate-finance/j-reit-sponsor-structure-conflict",
       "real-estate-finance/j-reit-vs-us-reit-governance-comparison",
@@ -107,13 +107,17 @@
       "https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/",
       "https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 3,
+    "external_links": [
+      "https://www.ares.or.jp/news/uploads/private_fund_survey202601.pdf",
+      "https://www.fsa.go.jp/en/refer/legislation/20130416/02.pdf",
+      "https://www.jpx.co.jp/english/equities/products/reits/issues/index.html"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 10452,
-    "word_like_tokens": 1705,
+    "nonspace_chars": 12918,
+    "word_like_tokens": 2101,
     "inbound_wikilinks_count": 12,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-30"
   }
 }
