@@ -1,14 +1,14 @@
 ---
-title: FSA 海外無登録暗号資産取引所 警告書発出制度 (2018-2025)
+title: FSA 海外無登録暗号資産取引所 警告書発出制度
 aliases:
   - FSA warning letter system
   - 海外無登録 警告書
   - 改正資金決済法 域外適用
 domain: exchanges
 created: 2026-05-19
-last_updated: 2026-05-25
-last_tended: 2026-06-24
-review_by: 2026-08-08
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
 confidence: likely
 tags:
   - exchanges
@@ -18,11 +18,12 @@ tags:
   - foreign-exchange
   - warning-letter
 sources:
-  - https://www.fsa.go.jp/
+  - https://www.fsa.go.jp/policy/virtual_currency02/
+  - https://www.fsa.go.jp/policy/virtual_currency/angoushisan_mutouroku.pdf
 status: active
 ---
 
-# FSA 海外無登録暗号資産取引所 警告書発出制度 (2018-2025)
+# FSA 海外無登録暗号資産取引所 警告書発出制度
 
 ## Wiki route
 
@@ -30,43 +31,23 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 
 ## 制度概要
 
-2017-04 施行の改正資金決済法は、日本居住者向けに無登録で暗号資産交換業を勧誘する行為を禁じた。違反した海外事業者に対し、FSA は三段階の措置を講じる:
+2017-04 に暗号資産交換業の登録制度が開始され、国内で暗号資産と法定通貨との交換サービスを行うには登録が必要となった。FSA は、警告書を発出した無登録の海外所在業者（所在不明を含む）の一覧と個別公表を公開している。
 
-1. **警告書発出** — 文書通知、ウェブサイト掲載で公示
-2. **継続的監視** — 同一事業者への複数回発出も行う
-3. **App Store / Google Play 削除要請** (2025+ 新型措置) — 国内アクセスの補完的遮断
+本ページの履歴は、FSA の個別公表で直接確認できる主要な警告ラウンドに限定する。警告後のサービス提供状況、アプリ配信状況、法人化・撤退の評価はこの静的表から推定しない。
 
-法的拘束力は持たないが (域外適用の限界)、日本市場へのアクセス遮断を狙う制度設計となっている。
+## FSA 個別公表で確認できる主要警告ラウンド
 
-## 警告書発出履歴 (主要 8 事業者)
+出典: 表全体は FSA [暗号資産・電子決済手段関係](https://www.fsa.go.jp/policy/virtual_currency02/) の個別公表と [警告書を発出した無登録海外所在業者一覧](https://www.fsa.go.jp/policy/virtual_currency/angoushisan_mutouroku.pdf)（2026-07-29 確認）に基づく。
 
-| 日付 | 事業者 | 回数 |
-|------|--------|------|
-| 2018-03 | [[exchanges/jp-foreign-exchange-binance-holdings-legacy|Binance Holdings]] | 1 回目 |
-| 2020-06 | [[exchanges/jp-foreign-exchange-bitforex|Bitforex]] | 1 回目 |
-| 2021-05 | [[exchanges/jp-foreign-exchange-bybit|Bybit]] | 1 回目 |
-| 2021-06 | [[exchanges/jp-foreign-exchange-binance-holdings-legacy|Binance Holdings]] | 2 回目 |
-| 2023-03 | [[exchanges/jp-foreign-exchange-bybit|Bybit]] / [[exchanges/jp-foreign-exchange-bitget|Bitget]] / [[exchanges/jp-foreign-exchange-bitforex|Bitforex]] / [[exchanges/jp-foreign-exchange-mexc|MEXC]] | 4 社一括 |
-| 2024-06 | [[exchanges/jp-foreign-exchange-lbank|LBank]] | 1 回目 |
-| 2024-11 | [[exchanges/jp-foreign-exchange-bybit|Bybit]] (3 回目 = 最多) / [[exchanges/jp-foreign-exchange-kucoin|KuCoin]] / [[exchanges/jp-foreign-exchange-bitcastle|bitcastle]] / [[exchanges/jp-foreign-exchange-bitget|Bitget]] / [[exchanges/jp-foreign-exchange-mexc|MEXC]] | 5 社一括 |
-| 2025-02 | [[exchanges/jp-foreign-exchange-mexc|MEXC]] | App Store 削除要請 |
-| 2025-04 | [[exchanges/jp-foreign-exchange-bitcastle|bitcastle]] | 暗号資産・FX 業二重警告 |
-
-## 警告事業者の対応パターン (3 種)
-
-### 撤退
-- [[exchanges/jp-foreign-exchange-bybit|Bybit]] — 2026-03 日本居住者向けサービス完全終了
-- [[exchanges/jp-foreign-exchange-kucoin|KuCoin]] — 実質撤退
-
-### 法人化 (唯一の正規化路径)
-- [[exchanges/jp-foreign-exchange-binance-holdings-legacy|Binance Holdings]] → [[exchanges/jp-exchange-binance-japan|Binance Japan]] (2022-10 サクラエクスチェンジ買収で関東財務局長第00031号取得)
-
-### 継続稼働 (警告無視)
-- [[exchanges/jp-foreign-exchange-mexc|MEXC]] / [[exchanges/jp-foreign-exchange-bitget|Bitget]] / [[exchanges/jp-foreign-exchange-lbank|LBank]] / [[exchanges/jp-foreign-exchange-bitcastle|bitcastle]] — 警告継続中も日本人向け勧誘継続
-
-## App Store 削除要請の意義
-
-2025-02 MEXC 案件は、FSA が直接 Apple/Google にアプリ削除を要請した初期事例。警告書の法的拘束力欠如を補い、デバイス層でのアクセス遮断を実現する**実効的措置**として位置づけられる。今後の海外事業者対応の標準モデルとなる可能性が高い。
+| 公表日 | FSA 公表上の事業者 |
+|---|---|
+| 2018-03-23 | [[exchanges/jp-foreign-exchange-binance-holdings-legacy|Binance]] |
+| 2020-06-26 | [[exchanges/jp-foreign-exchange-bitforex|Bitforex Limited]] |
+| 2021-05-28 | [[exchanges/jp-foreign-exchange-bybit|Bybit Fintech Limited]] |
+| 2021-06-25 | [[exchanges/jp-foreign-exchange-binance-holdings-legacy|Binance Holdings Limited]] |
+| 2023-03-31 | [[exchanges/jp-foreign-exchange-bitget|Bitget Limited]] / [[exchanges/jp-foreign-exchange-mexc|MEXC Global]] / [[exchanges/jp-foreign-exchange-bybit|Bybit Fintech Limited]] / [[exchanges/jp-foreign-exchange-bitforex|Bitforex Limited]] |
+| 2024-06-14 | [[exchanges/jp-foreign-exchange-lbank|LBank Exchange]] |
+| 2024-11-28 | [[exchanges/jp-foreign-exchange-kucoin|KuCoin]] / [[exchanges/jp-foreign-exchange-bitcastle|bitcastle LLC]] / [[exchanges/jp-foreign-exchange-bybit|Bybit Fintech Limited]] / [[exchanges/jp-foreign-exchange-mexc|MEXC Global]] / [[exchanges/jp-foreign-exchange-bitget|Bitget Limited]] |
 
 ## 関連
 
@@ -74,9 +55,4 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 - [[exchanges/jp-vasp-regulatory-timeline]] — JP VASP 規制タイムライン
 - [[exchanges/fsa-business-improvement-orders-history]] — FSA 業務改善命令履歴
 
-来源: 公開情報整理 (FSA「警告書発出先一覧」、金融庁/関東財務局等の警告書公表、各社サイトの WHOIS/アーカイブ確認)
-
----
-
-> [!note] 2026-05-25 refresh note
-> 2025-04 bitcastle 二重警告以降の 2025-Q3 / Q4 / 2026 警告ラウンドについては、本リフレッシュ時点（2026-05-25）で FSA 一次公表ページへの再確認が完了していない。新規追加・タイムライン延長は次回 review_by（2027-05-19）以前の中間リフレッシュで FSA「警告書発出先一覧」を直接参照して反映する。当面、表は 2025-04 までを公式記録とする。
+来源: FSA「暗号資産・電子決済手段関係」および無登録海外所在業者一覧。

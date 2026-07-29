@@ -1,20 +1,20 @@
 ---
 source: exchanges/cex-coinone-korea
-source_hash: dc768035d3a694b6
+source_hash: 183386be3c769b1c
 lang: en
 status: machine
 fidelity: ok
-title: "Coinone (코인원) — Korea CEX mid-tier / NH NongHyup Bank real-name account / independent overview"
-translated_at: 2026-05-31T03:19:56.393Z
+title: "Coinone (코인원) — Korean KRW spot CEX / NH NongHyup Bank real-name account overview"
+translated_at: 2026-07-29T11:02:23.000Z
 ---
 
-# Coinone (코인원) — Korea CEX mid-tier / NH NongHyup Bank real-name account / independent overview
+# Coinone (코인원) — Korean KRW spot CEX / NH NongHyup Bank real-name account overview
 
 ## Wiki route
 
-This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/korea-cex-five-pillars-comparison|韓国 5 大 CEX 制度比較]] for the Korea peer / regulatory context, [[exchanges/cex-upbit-korea|Upbit]] / [[exchanges/cex-bithumb-korea|Bithumb]] for the closest top-tier peers, and [[exchanges/global-cex-top10-comparison|global CEX top 10 comparison]] for the broader system / market boundary.
+This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/korea-cex-five-pillars-comparison|韓国 5 大 CEX 制度比較]] for the Korea peer / regulatory context, [[exchanges/cex-upbit-korea|Upbit]] / [[exchanges/cex-bithumb-korea|Bithumb]] for peer comparisons, and [[exchanges/global-cex-top10-comparison|global CEX top 10 comparison]] for the broader system / market boundary.
 
-> Founded 2014-08  · Korea spot market #3 (estimated around 3%) · **NH 농협은행 real-name account** · one of the 1  co-founders of DAXA (established 5 社) · history of management going through judicial proceedings in the **2022  listing-bribery (청탁) prosecution case**
+> Founded 2014-08 · Korean KRW spot CEX · **NH 농협은행 real-name account** · KoFIU-filed operator
 
 ## 1. Corporation / Shareholders
 
@@ -29,21 +29,20 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
   - **이상준** and other Korean IT / financial investors
   - **reports of investment consideration by the 카카오뱅크 side** (2018–2019) and other histories of exploring multiple strategic capital relationships
   - detailed shareholder composition partially disclosed due to non-listed status
-- IPO consideration: no direct announcement, but a follow could be possible if Bithumb's KOSDAQ listing push succeeds
 
 ## 2. Registration / License status (Korean system)
 
 - **가상자산사업자 (VASP)** registration: registered with FIU (2021-09  Korea's 1 -th registration class)
 - **ISMS / ISMS-P certification**: holds KISA ISMS-P
 - **실명확인 입출금 계정 (real-name account)**: contracted with **NH 농협은행 (NH NongHyup Bank)**
-  - NH 농협은행 is one of Korea's 5  major banks (1 ), and [[exchanges/cex-bithumb-korea|Bithumb]] also contracts with the same NH 농협은행 → among Korea's 5  major CEXes, **NH 농협은행 is the only bank contracting with 2 社 (Bithumb + Coinone)**
+  - [[exchanges/cex-bithumb-korea|Bithumb]] also uses real-name accounts at the same bank; verify each contract's current status in official notices
   - for the detailed system see [[exchanges/korea-cex-five-pillars-comparison|韓国 5 大 CEX 制度比較]]
 
 ## 3. Supported currencies
 
 - KRW spot market (legal as one of Korea's 5  major CEXes, 1 )
-- Number of supported tokens: 200+ (a mid-scale lineup alongside [[exchanges/cex-upbit-korea|Upbit]] / [[exchanges/cex-bithumb-korea|Bithumb]])
-- Centered on BTC / ETH / major altcoins, with active support for Korean tokens such as Klaytn-family / WEMIX / XPLA
+- The number of listed assets and market composition change; verify them in the current official market list
+- Verify each token's listing status in official notices
 - Listing review: DAXA common criteria + Coinone's own criteria
 
 ## 4. Scope of business
@@ -57,27 +56,18 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 
 ## 5. Market share / Trading volume
 
-- **Korea spot market share**: approximately 3% (a #3  position behind [[exchanges/cex-upbit-korea|Upbit]] 70% / [[exchanges/cex-bithumb-korea|Bithumb]] 25%, a mid-tier #3 ahead of [[exchanges/cex-korbit-korea|Korbit]] / [[exchanges/cex-gopax-korea|GOPAX]])
-- 24h volume: $20–200M (linked to market volatility)
-- Customer base: centered on Korean residents (full KYC implemented)
+Market share, 24-hour volume, and rankings vary by timestamp and methodology, so this static entry does not freeze them. Comparisons should use the same provider, measurement time, and market definition; verify geographic eligibility and KYC in the current official terms.
 
 ## 6. History / Major incidents
 
+Source: The entire table is based on [Coinone's official history](https://www.coinonecorp.com/company/history) and [KoFIU's virtual-asset service provider filing status](https://www.kofiu.go.kr/kor/notification/notice.do), checked on 2026-07-29.
+
 | Period | Item |
 |------|------|
-| 2014-08 | Coinone founded (co-founded by 차명훈 / Daniel Lim) |
-| 2015 | early track record in Korean BTC margin trading |
-| 2016 | leading position in Korean ETH trading |
-| 2017 | established a top 3  position during the Korean crypto boom |
-| 2018 | strategic investment by 데일리금융그룹 (Daily Financial Group) and others |
-| 2019 | shift in 데일리금융 shareholding ratio, continued independent management |
-| 2021-03 | Korea's 특정금융정보법 enacted, VASP registration system begins |
-| 2021-09 | completed VASP registration with FIU (Korea's 1 -th registration class) |
-| **2022** | **Coinone management's listing-bribery (청탁) suspicion case**; Korean prosecutors indicted multiple parties for **listing bribery (청탁) / violation of the Act on the Aggravated Punishment of Specific Economic Crimes (특정경제범죄법)**. Founder / CEO 차명훈 also became a subject of the judicial proceedings. A symbolic case of Korean CEX listing-governance problems |
-| 2023 | participated as one of the 1  co-founders of the DAXA self-regulatory body (established 5 社). Building out **DAXA common listing criteria in the wake of the listing-bribery case** became an industry-wide issue |
-| 2023–2024 | judicial proceedings continued, management structure rebuilt |
-| 2024-07 | 가상자산이용자보호법 enacted, user-protection framework built out |
-| 2024–2026 | maintained mid-tier #3  position, continued independent management |
+| 2014-02 | Coinone's corporate entity was established |
+| 2014-10 | Coinone's trading service launched |
+| 2021-11 | KoFIU accepted Coinone's virtual-asset service provider filing |
+| As of 2026-06-30 | Coinone appears in KoFIU's virtual-asset service provider filing status |
 
 ## 7. Strategic developments
 
@@ -85,22 +75,19 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 - **NH 농협은행 relationship**: with the situation of sharing the same bank with [[exchanges/cex-bithumb-korea|Bithumb]], the negotiation over AML/CFT responsibility-sharing on the NH 농협은행 side remains an ongoing issue
 - **DAXA participation**: standardizing listing criteria within DAXA together with [[exchanges/cex-upbit-korea|Upbit]] / [[exchanges/cex-bithumb-korea|Bithumb]] / [[exchanges/cex-korbit-korea|Korbit]] / [[exchanges/cex-gopax-korea|GOPAX]]. Played a leading role in the **governance rebuild after the 2022  listing-bribery case**
 - **2024  User Protection Act response**: contributing to the user-protection fund, strengthening surveillance of unfair trading, rebuilding internal controls
-- **Major listing venue for Korean tokens**: continues as a major listing venue for Korean L1  / L2  tokens such as Klaytn / its successor Kaia, WEMIX, XPLA
+- **Listed assets**: verify current listings, including Korean-project tokens, in the official market list and notices
 - **Cross remittance service**: an overseas remittance service mediated by crypto, adapting to regulatory-environment changes
 
 ## 8. Positioning within the industry
 
-Coinone, as a **mid-tier CEX at Korea spot market #3 **, holds a **middle position** between the top 2 ([[exchanges/cex-upbit-korea|Upbit]] / [[exchanges/cex-bithumb-korea|Bithumb]]) and the lower tier ([[exchanges/cex-korbit-korea|Korbit]] / [[exchanges/cex-gopax-korea|GOPAX]]). It carries both the individuality of independent management and the burden of the governance problem of the 2022  listing-bribery case at the same time.
-
-Within [[exchanges/korea-cex-five-pillars-comparison|韓国 5 大 CEX 制度比較]], the unique positioning of a **founder-led independent player** serves to maintain the structural diversity of the Korean CEX industry. The building-out of DAXA common listing criteria since the 2022  case also has a Coinone-led aspect, and its contribution to lifting industry-wide governance cannot be ignored.
+Evaluate Coinone's industry position by combining KoFIU filing status, the current official market scope, and trading volumes captured at the same timestamp. Do not infer a permanent rank from historical share figures; see [[exchanges/korea-cex-five-pillars-comparison]] for the regulatory comparison.
 
 ## Related
 
-- [[exchanges/cex-upbit-korea]] — Korea #1
-
-- [[exchanges/cex-bithumb-korea]] — Korea #2 (most important cross-link, same NH 농협은행 bank)
-- [[exchanges/cex-korbit-korea]] — Korea #4 (peer)
-- [[exchanges/cex-gopax-korea]] — Korea #5 (peer)
+- [[exchanges/cex-upbit-korea]] — Korean peer comparison
+- [[exchanges/cex-bithumb-korea]] — Korean peer comparison (most important cross-link, same NH 농협은행 bank)
+- [[exchanges/cex-korbit-korea]] — Korean peer comparison
+- [[exchanges/cex-gopax-korea]] — Korean peer comparison
 - [[exchanges/korea-cex-five-pillars-comparison]] — Korea 5  major CEX system comparison
 - [[exchanges/global-cex-top10-comparison]] — Global CEX top 10
 

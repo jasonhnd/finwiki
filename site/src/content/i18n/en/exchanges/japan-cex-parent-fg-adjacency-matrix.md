@@ -1,11 +1,11 @@
 ---
 source: exchanges/japan-cex-parent-fg-adjacency-matrix
-source_hash: 4d0a6750ba39a74b
+source_hash: 8d53efa7007d517e
 lang: en
 status: machine
 fidelity: ok
 title: "Japan CEX parent FG adjacency matrix"
-translated_at: 2026-07-28T18:19:40Z
+translated_at: 2026-07-29T12:27:14.000Z
 ---
 
 # Japan CEX parent FG adjacency matrix
@@ -20,7 +20,7 @@ This sits under [[exchanges/INDEX|exchanges index]] as the FG-adjacency operatio
 
 ## Why this matrix matters
 
-The "what does the parent FG actually give the VASP" question is not academic. A VASP whose parent runs a **securities brokerage** with millions of active accounts can cross-sell a crypto product into that existing account base at roughly zero customer-acquisition cost; a VASP whose parent runs a **direct-bank** can settle JPY deposits intra-group with no interbank fee and no settlement lag; a VASP whose parent runs a **payments wallet** can route crypto-to-fiat off-ramp through the wallet's prepaid balance instead of a third-party PSP; a VASP whose parent runs a **points loyalty programme** can mint promotional crypto-rewards using the parent's loyalty inventory; and a VASP whose parent runs an **e-commerce or marketplace** business can settle merchant-side crypto experiments through the parent's existing merchant relationship.
+Parent-group brokerage, bank, wallet, points and marketplace surfaces can create possible distribution or settlement links, but ownership alone does not prove zero CAC, preferential fees, instant settlement or live product integration. Each link must be supported by a dated group or operator disclosure.
 
 Each of those connections has a measurable effect on **CAC** (customer acquisition cost), **unit economics**, **JPY funding cost**, **product velocity** (how fast a new feature can ship using parent infrastructure), and **incident-response posture** (whether a hack can be cushioned by parent liquidity, as in [[exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis|DMM Bitcoin Lazarus hack detailed analysis]] where the parent DMM HD covered the customer make-whole). The matrix below names each parent FG and the specific cross-services it contributes, so a reader can answer "what does this VASP look like with parent context stripped away" before any product-level comparison.
 
@@ -28,21 +28,21 @@ Each of those connections has a measurable effect on **CAC** (customer acquisiti
 
 ### SBI VC Trade — SBI HD (8473)
 
-**Parent FG**: [[megabanks/sbi-hd|SBI HD]] (TSE Prime 8473), Japan's largest online-finance conglomerate by retail-securities account count via [[securities-firms/sbi-securities|SBI Securities]]. **Group services contributed**:
-- **Securities cross-sell** — SBI VC Trade reaches into the SBI Securities account base (Japan's #1 online broker) as a cross-promotion lane, with the SBI 共通 ID linking accounts across group brands
+**Parent FG**: [[megabanks/sbi-hd|SBI HD]] (TSE Prime 8473), which includes [[securities-firms/sbi-securities|SBI Securities]]. **Group services disclosed**:
+- **Securities adjacency** — verify current cross-promotion and SBI 共通 ID linkage in dated SBI group disclosures; do not infer account transfer or rank
 - **Bank-deposit channel** — [[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]] (group bank, Mizuho-line legacy) provides the in-group JPY settlement rail; [[megabanks/sbi-regional-bank-hd|SBI Regional Bank HD]] (regional-bank holding) and partner regional banks contribute additional bank deposits
 - **Remittance** — [[payment-firms/sbi-remit|SBI Remit]] runs the group's outbound remittance / 資金移動業 surface
 - **FX adjacency** — [[securities-firms/sbi-fx-trade|SBI FX Trade]] runs leveraged-FX, and the affiliated [[exchanges/jp-exchange-bi-fxtrade|BI FXTRADE]] holds the crypto-derivatives license inside the group
 - **Insurance / asset management** — [[life-insurers/sbi-life|SBI Life]], [[non-life-insurers/sbi-insurance|SBI Insurance]], [[asset-managers/sbi-asset-management|SBI Asset Management]] round out the group's product depth
 
-**Adjacency intensity**: very high — the parent group runs an integrated financial-superstore model and the VASP is one of the cross-sell surfaces. JPY in/out is fastest in the industry partly because of the SBI Shinsei bank-rail. Detail: [[exchanges/jp-exchange-sbi-vc-trade|jp-exchange-sbi-vc-trade]].
+**Adjacency evidence**: the group discloses securities, bank, remittance, FX, insurance and asset-management entities. Verify any actual VASP integration and JPY settlement terms separately. Detail: [[exchanges/jp-exchange-sbi-vc-trade|jp-exchange-sbi-vc-trade]].
 
 ### GMO Coin — GMO Financial HD (7177) / GMO Internet Group (9449)
 
 **Parent FG**: [[payment-firms/gmo-financial-hd|GMO Financial HD]] (TSE Prime 7177), itself a subsidiary of GMO Internet Group (TSE Prime 9449). **Group services contributed**:
 - **Securities cross-sell** — [[securities-firms/gmo-click-securities|GMO Click Securities]] (group brokerage, also GMO Financial HD subsidiary) provides FIEA-side product depth and shared infrastructure
 - **Direct bank** — [[payment-firms/gmo-aozora-net|GMO Aozora Net Bank]] (joint venture with Aozora Bank) runs as the group internet-bank, contributing an internal JPY-deposit rail
-- **Payment processing** — [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]] (TSE Prime, listed separately) is a top-3 JP PSP; [[payment-firms/gmo-epsilon|GMO Epsilon]] is the SME-focused PSP arm
+- **Payment processing** — [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]] and [[payment-firms/gmo-epsilon|GMO Epsilon]] provide payment surfaces; verify current group relationships and integration separately
 - **BNPL** — [[payment-firms/gmo-postpay|GMO Postpay]] runs the group's BNPL / 後払い line
 - **Internet infrastructure** — the broader GMO Internet Group runs the GMO Cloud / domain / SSL businesses, contributing operational-engineering depth
 
@@ -51,7 +51,7 @@ Each of those connections has a measurable effect on **CAC** (customer acquisiti
 ### bitFlyer — independent (no listed parent)
 
 **Parent FG**: bitFlyer Holdings (private, founder + management + minority financial-investor cap-table). **Group services contributed**:
-- **No FG ecosystem services in the megabank sense** — bitFlyer is the largest independent VASP without a megabank or e-commerce parent
+- **Independent structure** — bitFlyer does not disclose a megabank or e-commerce parent in the reviewed corporate materials; do not infer a market-size rank
 - **Internal sister entity**: [[exchanges/jp-exchange-custodiem|Custodiem]] (旧 FTX Japan, acquired 2024) sits inside bitFlyer Holdings for institutional / segregated-asset business
 - **External partnership rails**: bitFlyer routes JPY through partner megabanks (no in-group bank) and runs partnership-based points crosslinks (e.g., T-Point legacy distribution)
 
@@ -70,16 +70,16 @@ Each of those connections has a measurable effect on **CAC** (customer acquisiti
 ### Rakuten Wallet — Rakuten Group (4755) / Rakuten FG
 
 **Parent FG**: [[payment-firms/rakuten-fg|Rakuten FG]] inside Rakuten Group (TSE Prime 4755). **Group services contributed**:
-- **Bank** — Rakuten Bank (listed separately, TSE Prime 5838) is one of Japan's largest internet banks; contributes the dominant in-group JPY rail
-- **Securities** — [[securities-firms/rakuten-securities|Rakuten Securities]] (online broker, top-3 by account count) provides the FIEA brokerage surface
-- **Card** — [[card-issuers/rakuten-card|Rakuten Card]] (largest JP card issuer by transaction value) provides the card-side surface
-- **Points** — Rakuten Points (largest JP loyalty programme, ~90M ID holders) is the cross-link surface; Rakuten Wallet historically allowed crypto purchases using Rakuten Points
+- **Bank** — Rakuten Bank is the group banking surface; verify current JPY-rail integration in operator disclosures
+- **Securities** — [[securities-firms/rakuten-securities|Rakuten Securities]] provides the group brokerage surface; do not fix an account-count rank
+- **Card** — [[card-issuers/rakuten-card|Rakuten Card]] provides the group card surface; do not fix a transaction-value rank
+- **Points** — Rakuten Points is the group loyalty surface; verify current Rakuten Wallet linkage and user metrics in dated disclosures
 - **Edy** — [[payment-firms/rakuten-edy|Rakuten Edy]] is the prepaid-e-money arm; see [[payments/japan-prepaid-electronic-money-operator-matrix|JP prepaid e-money operator matrix]]
 - **Insurance** — [[life-insurers/rakuten-life|Rakuten Life]], [[non-life-insurers/rakuten-general-insurance|Rakuten General Insurance]], [[non-life-insurers/rakuten-insurance-hd|Rakuten Insurance HD]]
-- **E-commerce** — Rakuten Ichiba (largest JP marketplace) is the merchant-side surface where in-group crypto experiments can be tested
+- **E-commerce** — Rakuten Ichiba is the group marketplace surface; verify any crypto experiment or merchant integration in dated disclosures
 - **Mobile** — Rakuten Mobile (MNO) gives the group a telco channel
 
-**Adjacency intensity**: very high — among the deepest FG ecosystems in JP, with the unique points-cross-link being a distinguishing feature among VASPs. Detail: [[exchanges/jp-exchange-rakuten-wallet|jp-exchange-rakuten-wallet]].
+**Adjacency evidence**: the group discloses bank, securities, card, points, e-money, insurance, e-commerce and mobile entities. Verify actual VASP integrations separately. Detail: [[exchanges/jp-exchange-rakuten-wallet|jp-exchange-rakuten-wallet]].
 
 ### DMM Bitcoin — DMM HD (private)
 
@@ -87,8 +87,8 @@ Each of those connections has a measurable effect on **CAC** (customer acquisiti
 - **Securities** — DMM.com Securities runs the FX / equity broker arm
 - **Crypto-adjacent product**: [[exchanges/jp-exchange-dmm-com-securities|DMM.com Securities]] holds the FIEA crypto-derivative line
 - **No bank in group** — DMM uses external megabank partnerships for JPY rails
-- **Distribution** — DMM's adult-content / video / e-commerce surfaces provide a marketing reach that no other JP VASP parent matches
-- **Group financial capacity** — the Lazarus 2024-05 hack make-whole was funded by the parent group (~ JPY 48 billion), demonstrating the FG's standalone capital backstop role: see [[exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis|DMM Bitcoin Lazarus hack detailed analysis]]. DMM Bitcoin subsequently announced service handover to SBI VC Trade with customer migration in 2024
+- **Distribution** — DMM's video / e-commerce surfaces provide potential group distribution; comparative reach requires same-date evidence
+- **Group financial capacity** — the Lazarus 2024-05 hack make-whole was funded by the parent group (~ JPY 48 billion), demonstrating the FG's standalone capital backstop role: see [[exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis|DMM Bitcoin Lazarus hack detailed analysis]].
 
 **Adjacency intensity**: medium (pre-2024) → near-zero (post-handover) — the case demonstrates that **even a non-financial parent FG with adequate cash can backstop a VASP hack**, and the eventual wind-down shows the limits when group strategic priority shifts. Detail: [[exchanges/jp-exchange-dmm-bitcoin|jp-exchange-dmm-bitcoin]].
 
@@ -96,17 +96,17 @@ Each of those connections has a measurable effect on **CAC** (customer acquisiti
 
 **Parent FG**: [[payment-firms/mercari-hd|Mercari HD]] (TSE Prime 4385). **Group services contributed**:
 - **Wallet / payments** — Merpay (group wallet, holds 資金移動業 license) provides the in-group JPY rail and is the primary entry point for Mercoin's BTC purchases via Mercari points / Mercari sales proceeds
-- **Marketplace** — Mercari (largest JP C2C marketplace, ~22M monthly active) is the customer-acquisition channel; the marketplace's UX lets sellers convert sale proceeds directly into BTC via Mercoin
+- **Marketplace** — Mercari is the group marketplace surface; verify current active-user metrics and the Mercoin sale-proceeds flow in dated disclosures
 - **No bank in group** — Mercari does not run a bank; JPY rails route through Merpay's 資金移動業 license + partner banks
 - **Points cross-link** — Mercari ポイント can be exchanged for BTC inside Mercoin, which is the distinguishing cross-link
-- **Crypto product**: Mercoin offers BTC and a narrow set of additional crypto; the in-app UX is integrated into the Mercari mobile app (rare embed depth among JP VASPs)
+- **Crypto product**: verify Mercoin's current assets and in-app UX in the operator's current product page; do not infer comparative embed depth
 
-**Adjacency intensity**: very high — Mercari HD effectively built a captive on-ramp via the marketplace customer base. The product strategy is to make BTC purchases feel like a feature of Mercari rather than a separate exchange. Detail: [[exchanges/jp-exchange-mercoin|jp-exchange-mercoin]].
+**Adjacency evidence**: Mercari and Merpay provide disclosed marketplace, wallet and points surfaces. Verify conversion flows and acquisition effects separately. Detail: [[exchanges/jp-exchange-mercoin|jp-exchange-mercoin]].
 
 ### Laser Digital Japan — Nomura HD (8604)
 
 **Parent FG**: [[securities-firms/nomura-hd|Nomura HD]] (TSE Prime 8604), via Laser Digital Holdings (Swiss-based digital-asset subsidiary). **Group services contributed**:
-- **Institutional brokerage** — Nomura Securities (group brokerage, JP #1 by retail wealth) provides institutional client base and prime-brokerage adjacency
+- **Institutional brokerage** — Nomura Securities provides the group brokerage surface; do not fix a retail-wealth rank or infer client transfer
 - **Asset management** — [[asset-managers/nomura-asset-management|Nomura Asset Management]] provides institutional ETF / fund engineering depth
 - **Trust banking** — [[trust-banks/nomura-trust-bank|Nomura Trust Bank]] provides the trust / custody-side legal entity for institutional flows
 - **Public regulatory status** — Laser Digital Japan's official page says the Japanese entity provides operational services to the wider Laser Digital group; JVCEA records it as a **第二種会員** from 2025-09-19. JVCEA's membership category is not a Type II Financial Instruments Business registration, and the entity does not appear in the checked FSA crypto-asset-exchange or financial-instruments-business workbooks
@@ -125,19 +125,19 @@ Each of those connections has a measurable effect on **CAC** (customer acquisiti
 ### PayPay-related — SoftBank-FG cluster
 
 **Parent FG**: SoftBank Group (TSE Prime 9984) via PayPay Corp and the PayPay-FG cluster. **Group services contributed**:
-- **Wallet** — PayPay (largest JP QR / code payment by GMV) is the cross-link surface
+- **Wallet** — PayPay is the group wallet surface; verify current GMV rank and crypto linkage separately
 - **Card** — PayPay Card (card issuer) and PayPay Card Gold sit inside the PayPay-FG
 - **Bank** — PayPay Bank (formerly Japan Net Bank) is the in-group internet bank
 - **Securities** — PayPay Securities provides the FIEA broker surface
 - **Telco** — SoftBank (TSE Prime 9434, separately listed) is the parent telco channel; LINE Yahoo (TSE Prime 4689) is the messaging / search surface
-- **Crypto link**: PayPay holds ~40% of [[exchanges/jp-exchange-binance-japan|Binance Japan]] (acquired SEBC license vehicle), giving PayPay-FG indirect crypto-exchange exposure without holding an own-name VASP license
+- **Crypto link**: PayPay has disclosed a minority investment in [[exchanges/jp-exchange-binance-japan|Binance Japan]]; verify the current stake and governance rights in dated corporate disclosures
 
 **Adjacency intensity**: medium (indirect) — the PayPay-FG runs a strong payments + bank + telco + securities stack but engages crypto via minority investment in Binance Japan rather than an own-brand VASP. This is a deliberate optionality posture as of 2026.
 
 ### au-related — KDDI cluster
 
 **Parent FG**: KDDI (TSE Prime 9433) via auじぶん銀行 / au PAY / au Financial cluster. **Group services contributed**:
-- **Telco** — KDDI (au) is one of the 3 MNOs
+- **Telco** — KDDI (au) provides the group telco surface; do not use a fixed market-count classification
 - **Bank** — auじぶん銀行 (joint venture with MUFG) is the in-group internet bank
 - **Wallet** — au PAY (QR / code payment) and au PAY Card sit inside the FG
 - **Securities** — auカブコム証券 (joint venture with MUFG, formerly カブドットコム証券) provides FIEA broker surface
@@ -147,37 +147,24 @@ Each of those connections has a measurable effect on **CAC** (customer acquisiti
 
 ## Big comparison matrix table
 
-| VASP | Parent FG | TSE code | Bank in group | Securities in group | Wallet/payments in group | Points in group | Insurance | E-commerce / marketplace | Adjacency intensity | Cross-sell flywheel |
-|---|---|---|---|---|---|---|---|---|---|---|
-| **SBI VC Trade** | [[megabanks/sbi-hd\|SBI HD]] | 8473 | [[regional-banks/sbi-shinsei-bank\|SBI Shinsei Bank]] + regional-bank-HD | [[securities-firms/sbi-securities\|SBI Securities]] (JP #1 online) | [[payment-firms/sbi-remit\|SBI Remit]] | SBI 共通 ID | [[life-insurers/sbi-life\|SBI Life]] + [[non-life-insurers/sbi-insurance\|SBI Insurance]] | (limited) | very high | Yes — superstore model |
-| **GMO Coin** | [[payment-firms/gmo-financial-hd\|GMO Financial HD]] / GMO Internet | 7177 / 9449 | [[payment-firms/gmo-aozora-net\|GMO Aozora Net]] | [[securities-firms/gmo-click-securities\|GMO Click Securities]] | [[payment-firms/gmo-payment-gateway\|GMO Payment Gateway]] + [[payment-firms/gmo-epsilon\|GMO Epsilon]] | (limited) | (limited) | (limited) | high | Yes — internet-finance |
-| **bitFlyer** | independent | n/a | partner banks only | (none) | (none) | partnership only | (none) | (none) | low | No — brand only |
-| **Coincheck** | [[securities-firms/monex-group\|Monex Group]] (via Coincheck Group N.V., NASDAQ:CNCK) | 8698 (JP) / CNCK (US) | (none in JP) | Monex Securities | (none) | Monex points | (none) | (none) | medium-high | Yes — securities cross-sell + global capital |
-| **Rakuten Wallet** | [[payment-firms/rakuten-fg\|Rakuten FG]] / Rakuten Group | 4755 | Rakuten Bank (5838) | [[securities-firms/rakuten-securities\|Rakuten Securities]] | [[card-issuers/rakuten-card\|Rakuten Card]] + [[payment-firms/rakuten-edy\|Rakuten Edy]] | Rakuten Points (~90M IDs) | [[life-insurers/rakuten-life\|Rakuten Life]] + [[non-life-insurers/rakuten-general-insurance\|Rakuten General Insurance]] | Rakuten Ichiba | very high | Yes — full superstore + points |
-| **DMM Bitcoin** | DMM HD (private) | n/a | (none) | DMM.com Securities | (none) | DMM Points | (none) | DMM marketplaces | medium → wind-down 2024 | (was) marketing reach |
-| **Mercoin** | [[payment-firms/mercari-hd\|Mercari HD]] | 4385 | (none) | (none) | Merpay (資金移動業) | Mercari Points | (none) | Mercari (largest JP C2C) | very high | Yes — captive marketplace on-ramp |
-| **Laser Digital Japan** | [[securities-firms/nomura-hd\|Nomura HD]] | 8604 | (none own bank) | Nomura Securities (JP #1 wealth) | (none) | (none) | (Nomura Insurance) | (none) | very high (institutional) | Yes — institutional client coverage |
-| **Crypto Garage** | Digital Garage + 東京短資 JV; Nomura board link | 4819 (Digital Garage) | (no disclosed in-group bank) | (no disclosed in-group broker) | (none) | (none) | (none) | (none) | medium-high (institutional JV) | Yes — wholesale / technology adjacency |
-| **PayPay-related (via Binance Japan minority)** | SoftBank Group / PayPay-FG | 9984 | PayPay Bank | PayPay Securities | PayPay (largest JP QR) | PayPay Points | (limited) | (limited) | medium (indirect, ~40% stake only) | Indirect — optionality |
-| **au-related** | KDDI | 9433 | auじぶん銀行 (with MUFG) | auカブコム証券 (with MUFG) | au PAY | Ponta-adjacent | (au Insurance) | au マーケット | low (no own VASP) | (no crypto entity) |
+Source: the FSA registry, JVCEA membership list, and parent-group official sites listed in frontmatter. Ownership and group services can change, so the table avoids inferred intensity rankings, user counts, market positions and unsupported absence claims.
 
-## FG-adjacency intensity ranking
+| Operator / cluster | Public verification entry | Relationship recorded here |
+|---|---|---|
+| **SBI VC Trade / SBI** | https://www.sbigroup.co.jp/ | parent-group ecosystem |
+| **GMO Coin / GMO** | https://www.gmo.jp/ | parent-group ecosystem |
+| **bitFlyer** | https://corporate.bitflyer.com/ | corporate group information |
+| **Coincheck / Monex** | https://www.monexgroup.jp/ | parent-group relationship |
+| **Rakuten Wallet / Rakuten** | https://corp.rakuten.co.jp/ | parent-group ecosystem |
+| **DMM Bitcoin / DMM** | https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx | registry and historical status |
+| **Mercoin / Mercari** | https://about.mercari.com/ | parent-group relationship |
+| **Laser Digital Japan / Nomura** | https://www.laserdigital.com/japan/en/information/about-laser-digital-japan | official Japan entity description |
+| **Crypto Garage** | https://cryptogarage.co.jp/en/about/ | disclosed shareholders and business |
+| **JVCEA membership** | https://jvcea.or.jp/member/ | current membership category |
 
-Reading the matrix as a single ranking by adjacency intensity (high = parent FG contributes meaningfully across multiple of bank / securities / wallet / points / insurance / e-commerce dimensions):
+## Reading the adjacency evidence
 
-1. **SBI VC Trade** (SBI HD) — financial-superstore parent, deepest cross-product reach
-2. **Rakuten Wallet** (Rakuten FG) — superstore + unique points cross-link (~90M Rakuten Points IDs)
-3. **Mercoin** (Mercari HD) — captive C2C-marketplace on-ramp + Merpay 資金移動業 wallet integration
-4. **Laser Digital Japan** (Nomura HD) — institutional-only, deep brokerage + trust-banking adjacency
-5. **GMO Coin** (GMO Financial HD / GMO Internet) — internet-finance parent with bank + brokerage + PSP
-6. **Coincheck** (Monex Group / Coincheck Group N.V.) — securities cross-sell + global capital surface
-7. **Crypto Garage** (Digital Garage + 東京短資 JV; Nomura board link) — institutional wholesale / technology surface
-8. **PayPay-related (via Binance Japan)** (SoftBank / PayPay-FG) — minority position (~40%), indirect adjacency
-9. **DMM Bitcoin** (DMM HD, pre-2024) — non-financial parent backstop role demonstrated (now wound down)
-10. **bitFlyer** (independent) — no FG ecosystem services; brand + JVCEA-network position only
-11. **au-related** (KDDI) — no VASP in group; reference / counterfactual row
-
-The **bank-FG retail superstore model (SBI, Rakuten)**, the **captive marketplace on-ramp model (Mercoin)**, and the **institutional brokerage adjacency model (Laser Digital, Crypto Garage)** are three structurally distinct high-intensity adjacency archetypes. A reader analysing JP VASP competitive dynamics needs to identify which archetype each operator belongs to before peer-comparing fees, products, or volume metrics.
+The table is an ownership-and-entry-point map, not a ranking. A group relationship does not by itself prove shared customer acquisition, preferential funding, instant settlement, loss support or product integration. Those claims require a dated parent-company disclosure or operator announcement and should be evaluated separately.
 
 ## Cross-products commonly contributed by parent FGs
 
@@ -186,42 +173,42 @@ The following cross-products appear repeatedly across the matrix and represent t
 - **Bank-deposit rail** — in-group bank account that customer can use for instant JPY in/out (SBI Shinsei, Rakuten Bank, GMO Aozora Net, Daiwa Next Bank, auじぶん銀行, PayPay Bank). Without an in-group bank, the VASP must route through partner-megabank rails with corresponding settlement-time and fee disadvantages.
 - **Securities-brokerage account base** — the parent's existing FIEA brokerage customers as a cross-sell pool (SBI Securities, Rakuten Securities, Nomura Securities, Daiwa Securities, Monex Securities, GMO Click Securities, auカブコム証券, PayPay Securities). Cross-sell from a brokerage account is the lowest-CAC channel for a JP VASP.
 - **Wallet / 資金移動業** — Merpay, PayPay, au PAY, Rakuten Pay, Rakuten Edy, SBI Remit (outbound remit). The 資金移動業 license is structurally complementary to 暗号資産交換業 since it handles JPY-side movement that the VASP's exchange license does not cover.
-- **Points / loyalty cross-link** — Rakuten Points (largest), PayPay Points, Ponta (au-adjacent), JRE POINT (transit, separately), nanaco Points, WAON Points, dPoint (NTT DoCoMo). The points-cross-link enables promotional crypto-rewards mint without cash burn. See [[exchanges/jp-cex-points-economy-integration|JP CEX points-economy integration]] for the per-operator integration depth.
+- **Points / loyalty cross-link** — Rakuten Points, PayPay Points, Ponta, JRE POINT, nanaco Points, WAON Points and dPoint are possible loyalty surfaces. Verify actual crypto integration and economics in dated disclosures; see [[exchanges/jp-cex-points-economy-integration|JP CEX points-economy integration]].
 - **Card-issuer surface** — Rakuten Card, PayPay Card, [[card-issuers/aeon-financial-service|AEON Financial Service]] cards, JCB (multi-FG), [[card-issuers/smbc-card|SMBC Card]], [[card-issuers/mufg-nicos|MUFG NICOS]]. Card-issuer integration lets a VASP enable JPY auto-charge or crypto-purchase via card.
 - **Insurance cross-sell** — [[life-insurers/sbi-life|SBI Life]], [[life-insurers/rakuten-life|Rakuten Life]], Nomura insurance, AIG. Less directly crypto-relevant but contributes to overall FG bundle.
 - **E-commerce / marketplace** — Rakuten Ichiba, Mercari, DMM marketplaces. Marketplace integration enables merchant-side crypto-payment experiments and seller-side off-ramp.
 - **Telco channel** — SoftBank, KDDI (au), NTT DoCoMo, Rakuten Mobile. Telco distribution gives MNO bundling optionality for the FG.
 
-A VASP that plugs into 4-5+ of these surfaces (SBI VC Trade, Rakuten Wallet) operates with structurally different unit economics than one that plugs into 0-1 (bitFlyer, DMM Bitcoin post-handover). This is the single most important framing the matrix supports.
+The number of adjacent group surfaces does not itself establish integration depth or unit economics. Record only disclosed links, then evaluate commercial effects separately.
 
 ## Funding-cost lens across the matrix
 
-A JPY-funding-cost ranking for the VASPs in this matrix follows the in-group bank presence and parent-FG credit profile:
+A JPY-funding-cost ranking cannot be inferred from parent ownership or in-group bank presence alone:
 
-- **Lowest funding cost**: SBI VC Trade (SBI Shinsei in group), Rakuten Wallet (Rakuten Bank in group), and GMO Coin (GMO Aozora Net in group) have disclosed in-group bank rails and listed-parent support
-- **Medium / externally evidenced funding context**: Coincheck (Monex Group, no in-group bank but listed parent with capital-market access), Mercoin (Mercari HD, Merpay 資金移動業 covers JPY-side but no actual bank), and Crypto Garage (Digital Garage + Tokyo Tanshi JV, with no disclosed Daiwa in-group bank rail)
-- **Higher funding cost**: bitFlyer (independent, no listed parent), DMM Bitcoin (pre-handover; DMM HD is private, no public capital-market access), Laser Digital Japan (institutional-only, Nomura HD strong but no direct in-group bank focused on the entity)
+- **In-group bank evidence**: record disclosed bank relationships and settlement products without assigning a funding-cost tier
+- **Parent capital-market evidence**: listed-parent status and wallet licences do not disclose the VASP's actual borrowing or liquidity terms
+- **External funding evidence**: record only dated credit facilities, guarantees, intercompany loans or settlement agreements
 
-The funding-cost dimension matters because crypto-exchange operations require **substantial working capital** to fund order-book liquidity, customer-withdrawal buffer, and operational JPY positions. A VASP with cheap in-group funding can run a deeper book and tighter spreads than an independent VASP forced to use external bank lines or unsecured paper. See [[exchanges/jp-crypto-bank-credit-facilities|JP crypto bank credit facilities]] for the bank-credit-line specifics.
+Funding terms can affect liquidity operations, but group affiliation alone does not prove cheaper funding, deeper books or tighter spreads. See [[exchanges/jp-crypto-bank-credit-facilities|JP crypto bank credit facilities]] for dated facility evidence.
 
 ## Incident-response capacity across the matrix
 
-The capacity of the parent FG to absorb a hack-related make-whole event varies dramatically:
+Incident-response capacity must be assessed from dated financing and make-whole evidence, not parent-group labels:
 
-- **High capacity (proven)**: DMM HD funded ~JPY 48B Lazarus 2024-05 hack make-whole for DMM Bitcoin from group cash without dilutive external financing. SBI HD, Rakuten Group, Mercari HD, Nomura HD all have similar or larger balance-sheet capacity available in principle
-- **High capacity (untested)**: Monex Group, GMO Internet Group, Daiwa SG
-- **Lower capacity**: bitFlyer (independent, no megaparent), pre-2018 Coincheck (independent at the time of the 2018-01 NEM hack, which is why the make-whole consumed Coincheck founders' equity and triggered the Monex acquisition)
+- **Observed case**: verify DMM Bitcoin's make-whole amount and funding route in DMM's dated disclosures
+- **Untested groups**: do not infer incident support from consolidated balance-sheet size
+- **Independent operators**: absence of a listed parent does not establish response capacity; verify cash, insurance, credit and incident plans
 
-The lesson from the Coincheck NEM 2018-01 incident ([[exchanges/coincheck-nem-hack-detailed-analysis|Coincheck NEM hack detailed analysis]]) and the DMM Bitcoin 2024-05 incident ([[exchanges/dmm-bitcoin-lazarus-hack-detailed-analysis|DMM Bitcoin Lazarus hack detailed analysis]]) is that **parent FG cash backstop capacity is one of the most important non-obvious dimensions** when assessing a JP VASP's long-term standing — a VASP with no parent backstop cannot survive a major hack without dilutive external financing or service termination.
+The Coincheck and DMM incidents show why disclosed funding, insurance, segregation and recovery plans should be reviewed together. They do not prove that an operator without a parent backstop cannot recover.
 
 ## Boundary cases
 
 - **Coincheck Group N.V. NASDAQ listing (2024)** — After the SPAC merger, the question becomes whether **Coincheck Inc. (Japan)** is best read as a Monex Group subsidiary (its corporate parent in JP) or as a Coincheck Group N.V. subsidiary (its ultimate listed parent in the US). For matrix purposes both are recorded — the JP parent FG ecosystem flows through Monex, while the global capital surface flows through Coincheck Group N.V. The matrix uses both labels.
 - **DMM Bitcoin wind-down (2024) → SBI VC Trade handover** — The post-Lazarus customer migration to SBI VC Trade is a unique event in JP VASP history. After completion, the DMM HD row effectively zeroes out and the migrated user base shifts to the SBI HD row. The matrix records the pre-2024 state with a wind-down note rather than deleting the row, since the historical FG-adjacency lesson (non-financial parent backstop) remains the most-cited precedent.
-- **PayPay's minority position in Binance Japan** — The PayPay-FG holds ~40% of Binance Japan (acquired SEBC's license vehicle), but Binance Japan operates under the Binance global brand rather than as a PayPay-FG product. The matrix lists this as **medium (indirect)** adjacency rather than **none**, because the equity link gives PayPay-FG optionality on JP crypto without the capex of building from scratch.
+- **PayPay's minority position in Binance Japan** — verify the current stake, governance rights and operating relationship in dated PayPay / Binance disclosures; do not infer adjacency intensity or strategic intent from the investment alone.
 - **Mercari HD as a non-bank parent FG** — Mercari does not hold a bank, but Merpay's 資金移動業 license effectively delivers the JPY in/out function via the [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer regulatory route]]. For the matrix this is recorded as "no bank in group / wallet in group" rather than "bank in group", because the regulatory entity is fundamentally different from a Banking Act bank.
 - **Laser Digital Japan / Crypto Garage regulatory routes** — Laser Digital Japan is a JVCEA 第二種会員 and says it provides group operational services; that membership label is not FIEA Type II registration. Crypto Garage is instead an FSA-registered crypto-asset exchange service provider (Kanto No. 00029). The matrix includes both because they are institution-facing crypto entities, but it records these different public regulatory routes rather than collapsing them into a fictional shared FIEA Type II license. ^[Sources: https://www.laserdigital.com/japan/en/information/about-laser-digital-japan; https://jvcea.or.jp/information/admission-info/20250919-001/; https://cryptogarage.co.jp/en/about/; https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx.]
-- **au-FG counterfactual** — KDDI built out one of the deepest non-bank-FG payment / banking / brokerage stacks in JP but has not entered crypto exchange. The matrix retains the empty row as a reference for "what FG-adjacency looks like without a VASP entity attached", which is useful for benchmarking the cost of the missing crypto position.
+- **au-FG comparison** — record KDDI's disclosed payment, banking and brokerage entities and verify any crypto relationship in current registrations and announcements; do not infer a missing-position cost.
 - **bitFlyer's deliberate independence** — bitFlyer chose to remain independent through multiple acquisition discussions (most recently 2024-2025 speculation around a Mizuho-FG or SBI-FG sale that did not materialize). The matrix records this as **low adjacency** but flags that the operator compensates with brand strength and JVCEA-network position rather than parent infrastructure.
 
 ## Related

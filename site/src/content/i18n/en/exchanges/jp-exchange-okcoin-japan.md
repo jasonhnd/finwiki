@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-exchange-okcoin-japan
-source_hash: d03d6f1dbbc0caa4
+source_hash: 7c7b03cac1ba82d3
 lang: en
 status: machine
 fidelity: ok
 title: "OKCoin Japan K.K. (OKJ) — Japan crypto-asset exchange operator overview"
-translated_at: 2026-05-31T05:31:05.764Z
+translated_at: 2026-07-29T11:50:43.000Z
 ---
 
 # OKCoin Japan K.K. (OKJ) — Japan crypto-asset exchange operator overview
@@ -24,7 +24,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - **Corporate number**: 8030001122337
 - **Established**: 2017-09-19
 - **Head office**: 〒105-0001  5F, 1-2-10  Toranomon, Minato-ku, Tokyo
-- **Parent company**: the OKX (formerly OKEx / OKEx Holdings Limited) group. Established as the Japan local entity of the global entity OKX (registered in Seychelles, holding Okcoin International Ltd. and others). The shareholding ratio / intermediate-holding-company structure is not disclosed.
+- **Group relationship**: Established as the Japanese local entity of the OKX group (formerly OKEx).
 - **Listing status**: unlisted (the parent OKX, as a group as a whole, is also unlisted)
 - **Note**: the service brand was refreshed from the former name "OKCoinJapan" (service started 2020-08-20) to "OKJ" on 2024-08-20 (simultaneously with the 4th anniversary of the service launch). The trade name / FSA registered name remains OKCoin Japan K.K., unchanged.
 
@@ -38,63 +38,41 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 ## 3. Listed currencies
 
-- **Number of listings (as of 2026-05)**: sales outlet 49 listings / exchange (order-book trading) roughly the same scale
-- **Major listings**: BTC, ETH, XRP, SOL, ADA, DOT, DOGE, AVAX, LTC, BCH, LINK, DAI, SHIB, PEPE, TON, TRX, TRUMP, SUI, etc.
-- **Notable listings**: OKB (OKX ecosystem native token), FNCT (Financie token), OAS (Oasys), PLT (Palette), DEP (Digital Entertainment Asset) — relatively many domestic Japanese / Asian project listings
-- **Distinctive features**: also actively adopts altcoins / emerging-chain tokens (KAIA, ASTR, IOTX, etc.). Compared with the several hundred listings that global OKX handles worldwide, the Japan offering is substantially limited (due to the FSA review process).
+- **Supported assets**: The official product pages retrieved on 2026-05-18 showed major assets including BTC, ETH, XRP, and SOL, as well as OKB, FNCT, OAS, PLT, and DEP. Availability changes, so this entry does not fix a total or domestic rank; use the live product pages.
 
 ## 4. Scope of business
 
-- **Spot exchange (order-book trading)**: yes. Maker/Taker fee structure (Lv1: Maker 0.07% / Taker 0.14%; Lv7  with monthly trading volume above JPY 3 billion is by negotiation)
-- **Sales outlet (OTC dealer)**: yes. No fee on all listings (spread-inclusive)
-- **Derivatives (futures / margin trading)**: none
-- **Staking**: yes. 12 eligible listings (SOL, TRX, SEI, ADA, APT, ASTR, AVAX, ETH, IOST, QTUM, SUI, XTZ). Flexible / fixed-term plans available. All assets cold-wallet managed
-- **Crypto lending**: yes
-- **Flash Deals (timed sale purchase)**: yes
-- **Auto-accumulation (regular purchase)**: yes
-- **Large-lot OTC service**: yes (for corporate / large lots, BTC and ETH, etc.). Added ETH in 2026-04, added a sell-order function in 2026-05
-- **Corporate Premier service**: yes ("OKJ Corporate Premier", started 2025-04-10)
-- **NFT**: none
-- **Fiat-currency deposit channel**: bank transfer only (via GMO Aozora Net Bank 24/365, no fee. Convenience-store deposit / quick deposit not supported)
-- **Withdrawal limit**: crypto-asset withdrawal cap of JPY 300 million equivalent per day
+The following is a snapshot of service categories confirmed on OKJ's official product, fee, and deposit/withdrawal pages retrieved on 2026-05-18. Availability, pricing, eligible assets, funding methods, and limits can change, so the current official pages take precedence. ^[Sources: https://www.okcoin.jp/pages/products/fees.html; https://www.okcoin.jp/pages/products/staking.html; https://www.okcoin.jp/pages/products/deposit-withdraw.html.]
+
+- **Trading and asset-use categories**: exchange, sales outlet, staking, crypto lending, Flash Deals, and recurring purchases
+- **Corporate and large-lot categories**: large-lot OTC service and OKJ Corporate Premier
+- **Fees and funding conditions**: this entry does not copy fixed values or unsupported-item claims; check the current official fee and deposit/withdrawal pages
 
 ## 5. Market share / trading volume
 
-- **Trading volume / account count**: not disclosed
-- **Customer base**: mainly retail (individual) centered. Through the corporate Premier service, it has also begun addressing institutional investors / the corporate layer
-- **Competitive position**: a mid-tier player among the 26 JVCEA member companies. Compared with the major market makers ([[exchanges/jp-exchange-bitflyer|bitFlyer]] / [[exchanges/jp-exchange-coincheck|Coincheck]] / [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]], etc.) it is considered smaller in scale, but its number of listings ranks in the upper domestic class. Account count / trading volume not disclosed. For the geographic distribution of VASP parent companies, see [[exchanges/jp-vasp-parent-company-map|JP VASP parent-company map]].
+- The OKJ corporate and product materials reviewed on 2026-07-29 contain no comparable trading-volume or account-count figures. This entry does not infer a domestic rank or scale. Corporate-service availability is treated as a documented service category in §4.
 
 ## 6. History / major events
 
+The table below is limited to milestones whose dates can be confirmed in the company profile, the FSA register, and OKJ's official notices. Current availability of individual assets should be checked on the company's live product pages rather than inferred from this history. ^[Sources: https://www.okcoin.jp/pages/company/about.html; https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx; https://support.okcoin.jp/hc/ja/categories/360002138653.]
+
 | Year/Month | Item |
 |------|------|
-| 2017-09 | OKCoin Japan K.K. established |
+| September 19, 2017 | OKCoin Japan K.K. established |
 | 2020-03 | Obtained FSA crypto-asset exchange business registration (Kanto Local Finance Bureau No. 00020) |
 | 2020-08 | Began providing the crypto-asset trading service "OKCoinJapan" |
-| 2022-07 | Began AVAX (Avalanche) order-book trading. The same year, altcoins such as SHIB (2023-02) were listed one after another |
-| 2023-05 | Began publishing the "OKJ BTC Index" (transparency of the mid price) |
-| 2023-05 | Began the eKYC service (account opening in as little as 5 minutes) |
 | 2024-08 | Refreshed the service brand from "OKCoinJapan" to "OKJ" (4th anniversary; no trade-name change) |
-| 2025-01 | Concluded a partnership with Kaia (formerly Klaytn) (promoting Line Mini Dapp usage) |
 | 2025-04 | Began providing the "OKJ Corporate Premier" service for large-lot corporates |
-| 2026-04 | Added ETH to large-lot OTC, subsequently added a sell-order function |
-| 2026-05 | Began handling BERA (Berachain) |
-- **Administrative disposition history**: none confirmed within the scope of public materials (continued confirmation required)
-- **Hacks / system failures**: no major incidents disclosed (continued confirmation required)
-- **Parent company OKX's regulatory risk**: global OKX and Aux Cayman Islands Ltd. (formerly Okcoin International Ltd.) agreed to a settlement with the U.S. FinCEN, CFTC, and DOJ in 2024 (penalties exceeding USD 160 million). Although not a direct disposition of the Japan entity, it warrants attention as group credit risk.
+- **Scope of the administrative-action and major-event review**: Within the company profile, FSA register, and OKJ official notices reviewed above, this review did not identify a statement showing an administrative action, hack, or major system outage. This is not an assertion that no such event exists.
+- **U.S. criminal proceeding involving an affiliated group entity**: On February 24, 2025, Seychelles-based Aux Cayes Fintech Co. Ltd., the operator of OKX, pleaded guilty to operating an unlicensed money-transmitting business in the United States and agreed to pay more than USD 504 million in total. The U.S. Department of Justice materials attribute the charged conduct to Aux Cayes, so this is not presented as a direct action against the Japanese entity. ^[Source: https://www.justice.gov/usao-sdny/pr/okx-pleads-guilty-violating-us-anti-money-laundering-laws-and-agrees-pay-penalties.]
 
 ## 7. Strategic developments
 
-- **Direct blockchain delegation**: in 2026-05, in conjunction with a collaboration with Dawn Labs (Solana-related), conducted delegation to a Solana validator node. Deepening involvement in PoS infrastructure
-- **OKJ Academy (education)**: announced launch as of 2026-05. A retail-customer-cultivation line
-- **Kaia strategic integration**: as differentiation from Line BITMAX, expanding touchpoints to the LINE economic sphere (Kaia chain)
-- **Active adoption of multiple / emerging listings**: from public information, one can read a posture of treating listing expansion ahead of peers (domestic / Web3  gaming-type tokens, etc.) as a growth driver
+- **Product and partnership developments**: Update only matters supported by an OKJ official notice with a confirmed date and content; individual initiatives are not used to infer a PoS strategy, customer strategy, or differentiation from peers.
 
 ## 8. Related persons
 
-- **Representative Director**: Zhongyang Feng — listed on the official company-overview page (retrieved 2026-05). Details of his career are not disclosed
-- **Major shareholders**: not disclosed. The group parent is of the OKX (Seychelles) lineage
-- **Founder story**: not disclosed
+- **Representative Director**: Zhongyang Feng — listed on the official company-overview page retrieved in 2026-05.
 
 ## Related
 

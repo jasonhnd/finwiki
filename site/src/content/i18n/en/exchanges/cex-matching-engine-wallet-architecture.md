@@ -1,11 +1,11 @@
 ---
 source: exchanges/cex-matching-engine-wallet-architecture
-source_hash: 4cb313ca28c39e4a
+source_hash: 6dced29c86136959
 lang: en
 status: machine
 fidelity: ok
 title: "CEX matching engine + cold/hot wallet internal architecture"
-translated_at: 2026-05-31T03:19:56.456Z
+translated_at: 2026-07-29T11:02:23.000Z
 ---
 
 # CEX matching engine + cold/hot wallet internal architecture
@@ -60,23 +60,17 @@ The Coincheck 2018  NEM 580 億円 incident was the result of "effectively hot 1
 
 ## 5. Major technology stack
 
-The 5  technologies of institutional custody ([[exchanges/global-institutional-custody-five-pillars]] / [[exchanges/jp-institutional-custody-three-pillars]]):
+Representative technology categories used for signing and key management ([[exchanges/global-institutional-custody-five-pillars]] / [[exchanges/jp-institutional-custody-three-pillars]]):
 
-| Technology | Representative vendor | Role |
+Source: The entire table is based on [Safe Signatures](https://docs.safe.global/advanced/smart-account-signatures), [NIST FIPS 140-3](https://csrc.nist.gov/pubs/fips/140-3/final), and [Fireblocks' MPC overview](https://www.fireblocks.com/report/what-is-mpc), checked on 2026-07-29.
+
+| Technology | Public specification example | Role |
 |---|---|---|
-| **multi-sig** | Gnosis Safe (now Safe) | Standard 2-of-3  signing threshold · smart-contract based |
-| **HSM** | Thales / Utimaco / Ledger Vault | Hardware cryptographic module · FIPS 140-2/3  certified |
-| **MPC** | Fireblocks / Fordefi / Sepior | Key distribution · eliminates single point of failure |
-| **air-gap signing** | Casa / Anchorage | Fully offline signing · no network connection |
-| **Shamir's Secret Sharing** | many | Threshold distribution of the private key (k-of-n) |
+| **multi-signature** | Safe smart-account signatures | A smart-account model that supports multiple owner signatures; the threshold is configured for each account |
+| **HSM / cryptographic module** | NIST FIPS 140-3 | Defines security requirements and four security levels for the design and implementation of cryptographic modules |
+| **MPC** | Fireblocks MPC | Distributes private-key operations across multiple parties and key shares so that no complete private key is held in one place |
 
-CEX implementation examples:
-- **Coinbase Custody** — mix of multi-sig + HSM
-- **Anchorage Digital** — MPC-centric (US OCC national bank charter)
-- **Komainu** — cold + air-gap (Nomura JV)
-- **Fireblocks** — MPC SaaS · adopted by domestic GMO Coin and others
-
-The 2025  Bybit Lazarus hack ([[exchanges/bybit-lazarus-hack-detailed-analysis]]) was a social-engineering attack that deceived multi-sig signers via **Safe UI spoofing**. The technology itself functioned, but a vulnerability in the UI layer was exposed, reaffirming the importance of air-gap + hardware confirmation. For detailed forensic methods, read [[security/bytecode-forensic-three-tier-verify|bytecode forensic 3-tier verify]] and [[security/forensic-identity-anchor-chain|forensic identity anchor chain]] together. For a structural analysis of supply-chain attacks, see [[security/module-path-confusion-supply-chain-attack|module path confusion supply chain attack]].
+The signing method, threshold, and HSM / MPC configuration used by a particular CEX or custody provider can change. Do not infer an operator's implementation from this table. For an individual incident analysis, see [[exchanges/bybit-lazarus-hack-detailed-analysis]]; for forensic methods, see [[security/bytecode-forensic-three-tier-verify|bytecode forensic 3-tier verify]] and [[security/forensic-identity-anchor-chain|forensic identity anchor chain]].
 
 ---
 

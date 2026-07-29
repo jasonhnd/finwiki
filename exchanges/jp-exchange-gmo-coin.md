@@ -6,9 +6,9 @@ aliases:
   - GMOコイン
 domain: exchanges
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-06-23
-review_by: 2026-08-07
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
 confidence: likely
 tags:
   - fintech
@@ -22,6 +22,11 @@ sources:
   - https://coin.z.com/jp/corp/product/info/spot/
   - https://coin.z.com/jp/corp/product/info/exchange/
   - https://coin.z.com/jp/corp/product/info/staking/
+  - https://coin.z.com/jp/corp/guide/reason/
+  - https://coin.z.com/jp/news/2026/04/15790/
+  - https://coin.z.com/jp/news/2026/04/15863/
+  - https://coin.z.com/jp/news/2026/07/16131/
+  - https://coin.z.com/jp/news/2026/07/16232/
   - https://jvcea.or.jp/member/
   - https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx
 ---
@@ -40,7 +45,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - **商号**: GMOコイン株式会社 / GMO Coin, Inc.
 - **設立年月**: 2016年10月
 - **本店所在地**: 〒150-0043 東京都渋谷区道玄坂1-2-3 渋谷フクラス（SHIBUYA FUKURAS）
-- **資本金**: 37.58億円（資本準備金含む、2026年5月公式サイト掲載値）
+- **資本金**: 37.58億円（資本準備金含む、2026-07-29 公式会社情報で確認）
 - **親会社**: GMOフィナンシャルホールディングス株式会社（同社の100%子会社）
 - GMOフィナンシャルホールディングスは GMO インターネットグループ株式会社（東証プライム 9449）の傘下に位置する中間持株会社。暗号資産・FX・外為事業をまとめる金融サブグループ。
 - 上場状態: 非上場（親の GMO インターネットグループは上場）
@@ -57,33 +62,35 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 ## 3. 取扱通貨
 
-- **販売所**: 22銘柄（2026年5月時点 — BTC/ETH/BCH/LTC/XRP/XLM/XTZ/DOT/ATOM/ADA/DAI/LINK/DOGE/SOL/FIL/SAND/CHZ/AVAX/SUI/ZPG/ZPGAG/ZPGPT）
-  - 2026年4月にジパングコイン（ZPG）シリーズ（金・銀・プラチナ連動）を国内初取扱
-  - 2026年3月にワイルダーワールド（WILD）を国内初取扱
-- **取引所（現物）**: 19銘柄（BTC/ETH/BCH/LTC/XRP/XLM/XTZ/DOT/ATOM/ADA/DAI/LINK/FCR/DOGE/SOL/ASTR/NAC/SUI/WILD）
-- **ステーキング対応**: ETH/XTZ/DOT/ATOM/ADA/SOL/ASTR の7銘柄（自動分配・分別管理）
-- 特色: 取引所レバレッジ銘柄数が「国内最多」と自称（2024年4月12日調べ）。NOT A HOTEL COIN（NAC）・FCR Coin など独自 IEO 銘柄も取扱。
+- **サービス横断の取扱暗号資産**: 公式「GMOコインでできること」は 2026-07-29 確認時に 24 銘柄と表示する。商品別の対象は販売所・取引所・暗号資産 FX 等で異なるため、最新の各商品ページで確認する必要がある。
+- **販売所**: 同日確認した販売所ページは 19 銘柄を掲載。2026-04-20 に金・銀・プラチナ価格へ連動するジパングコインシリーズ（ZPG/ZPGAG/ZPGPT）の取扱いを開始した。
+- **DAI の取扱終了**: 販売所・取引所での売買は 2026-06-06 に、送付は 2026-06-27 に終了。残高の強制売却代金は 2026-07-02 に日本円残高へ反映され、現在の取扱銘柄には含まれない。
+- **取引所・ステーキング**: 現物、レバレッジおよびステーキングの対象は商品ごとの公式ページで管理される。過去の固定リストを現在の全取扱銘柄とみなさない。
+- NOT A HOTEL COIN（NAC）や FCR Coin など、過去の IEO 銘柄も取扱対象に含む。
 
 ## 4. 業務範囲
 
-- **現物取引**: 販売所（2Way プライス）+ 取引所（板取引・Maker マイナス手数料 -0.01%）
-- **デリバティブ**: 取引所レバレッジ（最大2倍・個人）+ 暗号資産FX（同）
-- **外国為替FX**: 金融商品取引業として取扱。21通貨ペア（2026年5月時点）、最大25倍レバレッジ。
-- **貸暗号資産**: ベーシック（定期型・最大10%年率）+ プレミアム の2タイプ
-- **ステーキング**: 7銘柄・保有量ベースで月次自動配布
+- **現物取引**: 販売所（2Way プライス）と取引所（板取引）。Maker / Taker 手数料は現行手数料ページを確認する
+- **デリバティブ**: 取引所レバレッジと暗号資産 FX。レバレッジ・証拠金条件は現行商品ルールを確認する
+- **外国為替FX**: 金融商品取引業として取扱。通貨ペア・レバレッジ等の条件は現行商品ページを確認する
+- **貸暗号資産**: ベーシックとプレミアムを案内。期間・利率・募集状況は現行商品ページを確認する
+- **ステーキング**: 対象資産の保有量に基づく報酬配布。対象銘柄・配布条件は公式ページで更新される。
 - **つみたて暗号資産**: 積立サービス（500円〜）
 - **IEO**: 過去に FCR、NAC などで実施
 - **法人サービス**: 法人口座対応、API 取引（Public/Private）、WebTrader（高機能取引ツール）
 - **入金チャネル**: 銀行振込（GMOあおぞらネット銀行推奨）、即時入金（Pay-easy、ネットバンキング等）、即時出金（2026年2月9日開始）
+- **代用暗号資産**: 2026-07-25 から BTC・ETH・XRP・SOL を取引所レバレッジと暗号資産 FX の証拠金に充当できるサービスを開始。代用掛目は開始時点で一律 50% とされ、価格変動・不足金・強制売却のルールがある。
 
 ## 5. 市占・取引高
 
 - 公表されている月間取引高・口座数: 非公表（単独の IR 開示なし）
 - GMO インターネットグループの連結決算に「暗号資産事業」として数字が含まれるが、GMO コイン単体の取引高は定期的に公表されていない
-- 業界ポジション: FSA 登録番号 第00006号（登録6社目）で業歴・規制遵守の面では上位層。スポット取引 + デリバティブ + 外為 FX の兼業体制は [[exchanges/jp-exchange-coincheck|コインチェック]]・[[exchanges/jp-exchange-bitflyer|bitFlyer]]・[[exchanges/jp-exchange-sbi-vc-trade|SBI VC トレード]] とともに上位 tier に位置するとみられる（数字根拠なし・公表データ待ち）。ステーキング・レンディング業務の規制境界は [[exchanges/jp-cex-staking-lending-regulation|JP CEX ステーキング・レンディング規制]] 参照。
+- 公開資料から GMO コイン単体の国内順位を確定できない。比較可能なのは、現物・暗号資産デリバティブ・外国為替 FX・貸暗号資産・ステーキングを一法人で提供する商品範囲であり、市場シェアの順位とは区別する。ステーキング・レンディング業務の規制境界は [[exchanges/jp-cex-staking-lending-regulation|JP CEX ステーキング・レンディング規制]] 参照。
 - 顧客層: 主に個人小売投資家。法人口座・API 提供によりトレーダー・機関需要にも対応
 
 ## 6. 沿革・重大事件
+
+以下の表は GMO コインの会社情報・商品ページ・個別ニュース、FSA 登録一覧および JVCEA 会員一覧で確認できる節目に限定する。「国内最多」「国内初」は各発表時点の同社表現であり、現在の市場順位を示さない。^[Sources: https://coin.z.com/jp/corp/about/company/; https://coin.z.com/jp/news/2026/04/15790/; https://coin.z.com/jp/news/2026/04/15863/; https://coin.z.com/jp/news/2026/07/16131/; https://coin.z.com/jp/news/2026/07/16232/; https://jvcea.or.jp/member/; https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx.]
 
 | 年月 | 事項 |
 |------|------|
@@ -94,25 +101,24 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 | 2026-01 | スイ（SUI）取扱開始（販売所・取引所・つみたて） |
 | 2026-02-09 | 日本円の即時出金サービス開始 |
 | 2026-03 | ワイルダーワールド（WILD）国内初取扱 |
-| 2026-04 | ジパングコイン（ZPG）シリーズ（金・銀・プラチナ連動）国内初取扱 |
-| 2026-04-30 | ダイ（DAI）取扱廃止を発表 |
+| 2026-04-20 | ジパングコイン（ZPG）シリーズ（金・銀・プラチナ連動）の取扱開始 |
+| 2026-04-30〜07-02 | DAI の取扱終了を告知し、売買・送付停止と残高の強制売却代金反映を完了 |
 | 2026-05 | 外国為替FXに7通貨ペア追加（HUF/JPY 等） |
+| 2026-07-25 | BTC・ETH・XRP・SOL を証拠金に充当できる「代用暗号資産」サービス開始 |
 
-- 重大なハッキング・行政処分・業務停止命令: 公表なし（2026年5月時点）
-- GMO グループ全体のセキュリティ障害やシステムメンテナンスによる一時停止は複数回発生しているが、資産流出等の大規模インシデントは確認されていない
+- 2026-07-29 に確認した同社ニュース、FSA 公表資料および JVCEA 会員情報の範囲では、同社を対象とする重大な資産流出、行政処分または業務停止命令を確認していない。これは将来の不存在を保証する記述ではない。
 
 ## 7. 戦略動向
 
-- **新銘柄積極追加**: 2026年のみで SUI・WILD・ZPG シリーズ等を順次上場。国内初上場を戦略的に押し出している
-- **外国為替FX の拡充**: 2026年5月に通貨ペアを21ペアに拡充（HUF/JPY・NOK/SEK 等高金利・エキゾチック追加）
-- **AI 連携**: 2026年2月に AI 価格アラート「SignalWise」を導入、自動売買サービス「GPT-Trade」との外部連携を提供
+- **商品ライン更新**: 2026 年に SUI・WILD・ZPG シリーズの取扱開始と DAI の取扱終了を行った。追加と終了の双方があるため、過去の銘柄数を現在値として固定しない。
+- **外国為替FX の拡充**: 2026年5月に HUF/JPY・NOK/SEK 等 7 通貨ペアを追加。
 - **即時入出金インフラ**: GMO あおぞらネット銀行との連携による入金、2026年2月より即時出金対応
-- **ステーキング手数料ゼロキャンペーン**: 利用者獲得施策として継続展開
-- **グループ内 DLT・SC 関連**: GMO インターネットグループは別法人 GMO Trust（米国）で USD ステーブルコイン（旧 GYEN/ZUSD）を発行しているが、当社はこれらの発行・運営に直接関与していない。国内 stablecoin・電子決済手段等取引業への参入については現時点で公開情報なし
+- **暗号資産の証拠金利用**: 2026-07-25 開始の代用暗号資産により、保有する BTC・ETH・XRP・SOL をレバレッジ取引の証拠金へ振り替える選択肢を追加した。対象・掛目・リスク条件は公式ルールの更新対象である。
+- **グループ内 DLT・SC 関連**: GMO インターネットグループは別法人 GMO-Z.com Trust Company, Inc. を通じて米国でステーブルコイン事業を行う。GMO コインの国内交換業とは法人・規制主体を区別する。
 
 ## 8. 関連人物
 
-- **代表取締役社長**: 石村 富隆（2026年5月公式サイト掲載）
+- **代表取締役社長**: 石村 富隆（2026-07-29 公式サイト掲載）
 - **取締役**: 山本 樹
 - **取締役監査等委員**: 中農 義郎、熊谷 文麿、花木 大悟
 - 創業経緯・創業者の単独記述は公表なし（GMO グループの戦略事業として 2016年10月に設立）
@@ -129,11 +135,13 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 ## Sources
 
-- [GMOコイン 会社情報](https://coin.z.com/jp/corp/about/company/)（取得 2026-05-18）
-- [GMOコイン ニュース](https://coin.z.com/jp/news/)（取得 2026-05-18）
-- [GMOコイン 販売所](https://coin.z.com/jp/corp/product/info/spot/)（取得 2026-05-18）
-- [GMOコイン 取引所](https://coin.z.com/jp/corp/product/info/exchange/)（取得 2026-05-18）
-- [GMOコイン ステーキング](https://coin.z.com/jp/corp/product/info/staking/)（取得 2026-05-18）
-- [GMOコイン 外国為替FX](https://coin.z.com/jp/corp/product/info/fx/)（取得 2026-05-18）
-- [JVCEA 会員一覧](https://jvcea.or.jp/member/)（取得 2026-05-18）
+- [GMOコイン 会社情報](https://coin.z.com/jp/corp/about/company/)（取得 2026-07-29）
+- [GMOコインでできること](https://coin.z.com/jp/corp/guide/reason/)（取得 2026-07-29）
+- [GMOコイン 販売所](https://coin.z.com/jp/corp/product/info/spot/)（取得 2026-07-29）
+- [GMOコイン 取引所](https://coin.z.com/jp/corp/product/info/exchange/)（取得 2026-07-29）
+- [GMOコイン ステーキング](https://coin.z.com/jp/corp/product/info/staking/)（取得 2026-07-29）
+- [GMOコイン DAI 取扱終了のお知らせ](https://coin.z.com/jp/news/2026/04/15863/)（取得 2026-07-29）
+- [GMOコイン DAI 強制売却代金の反映完了](https://coin.z.com/jp/news/2026/07/16131/)（取得 2026-07-29）
+- [GMOコイン 代用暗号資産取引ルール](https://coin.z.com/jp/news/2026/07/16232/)（取得 2026-07-29）
+- [JVCEA 会員一覧](https://jvcea.or.jp/member/)（取得 2026-07-29）
 - [FSA 暗号資産交換業者登録一覧 Excel](https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx)（snapshot 令和8年4月1日 = 2026-04-01）

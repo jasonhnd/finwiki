@@ -1,14 +1,14 @@
 ---
 source: exchanges/jvcea-whitelist-listing-timeline
-source_hash: 34cd433d49345420
+source_hash: 8f56fc07f873d89f
 lang: en
 status: machine
 fidelity: ok
-title: "JVCEA Whitelist Listed Token Timeline (2017-2026)"
-translated_at: 2026-05-31T06:16:15.747Z
+title: "JVCEA Green List / Handled Crypto-Assets Publication Timeline (2017-2026)"
+translated_at: 2026-07-29T11:50:43.000Z
 ---
 
-# JVCEA Whitelist Listed Token Timeline (2017-2026)
+# JVCEA Green List / Handled Crypto-Assets Publication Timeline (2017-2026)
 
 ## Wiki route
 
@@ -16,41 +16,34 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 
 ## Overview
 
-The JVCEA Whitelist is the list of crypto asset tokens that domestic VASPs (crypto asset exchange operators) are permitted to handle. From its simple composition centred on BTC/ETH at the time of the 2017 年 revised Payment Services Act, it has expanded to approximately 33  tokens as of 2026 年. A distinctive ecosystem has formed, reflecting domestically exclusive tokens, domestic first-listing tokens, and domestic-market-specific demand (JPY-pegged stablecoins, precious-metal-linked stablecoins, cultural tokens). Compared to the 350-2,376  tokens on overseas CEXs, the strict screening criteria (JVCEA 8  major standards) are a defining feature.
+JVCEA publishes the "Green List" separately from its "Handled Crypto-Assets and Explanatory Documents" materials. The Green List is a mechanism to streamline member review for assets meeting specified requirements; it is not a nationwide permission list of assets that every operator may handle. The version updated on 2026-07-22 lists 31 assets, while the handled-assets materials were updated on 2026-07-27.
 
 ## Timeline Key Milestones
 
-- **2017-04** Revised Payment Services Act takes effect · Initial ~17  tokens including BTC/ETH/XRP/BCH/LTC/MONA/XEM etc.
-- **2018-01** Post-[[exchanges/coincheck-nem-hack-detailed-analysis|Coincheck NEM 事件]] tightening · New listings effectively frozen for ~1  year(s)
-- **2019-04** Terminology change: "virtual currency" → "crypto asset" (revised Payment Services Act)
-- **2020-2021** Polkadot (DOT) / Chainlink (LINK) / Polygon (MATIC) etc. listed (DeFi summer reflection)
-- **2022-06-09** Green List system introduced → listing review period shortened to 1-3  months (previously 6  months-1  year)
-- **2023-04** XRP handling maintained (unaffected by US SEC vs Ripple litigation)
-- **2024-2025** Solana (SOL) listed domestically · TON / SUI and other L1  tokens listed
-- **2026-01-15** ZPG (Digital Asset Markets) + WILD (GMO Coin) domestic first listings
+- **2017-04** Registration framework for crypto-asset exchange operators began under the amended Payment Services Act
+- **2018-10** JVCEA became a certified association under the Payment Services Act
+- **2022-06-09** JVCEA announced the Green List system
+- **2026-07-22** Current Green List updated, listing 31 assets
+- **2026-07-27** "Handled Crypto-Assets and Explanatory Documents" updated
 
-## Domestically Exclusive and First-Listed Tokens
+## Reading the publications separately
 
-- **ZPG / ZPGAG / ZPGPT** ([[exchanges/jp-exchange-digital-asset-markets|デジタルアセットマーケッツ]]) — Domestically exclusive precious-metal-linked stablecoins (gold/silver/platinum)
-- **NIDT** ([[exchanges/jp-exchange-backseat-exchange|BACKSEAT]], formerly coinbook) — Domestically exclusive
-- **MONA** (Monacoin) — Japan-originating token from early days
-- **JPYC** ([[exchanges/jp-exchange-jpyc|JPYC 株式会社]], funds transfer operator) — JPY-pegged stablecoin · 2026-04  Series B 28 億円
-- **KAIA** ([[exchanges/jp-exchange-line-xenesis|LINE Xenesis]], formerly BITMAX) — Formerly LINK→Finschia→KAIA lineage
+- **Green List**: streamlines review under JVCEA's criteria; inclusion does not mean every member handles the asset
+- **Handled Crypto-Assets and Explanatory Documents**: public information on assets handled by members; check the operator and document update date
+- **Individual service interface**: actual trading, deposits and withdrawals, recurring purchase, and other availability differ by operator and should be checked at the time of use
 
-## Overseas vs Domestic Token Handling Difference
+## Current official snapshot
 
-| Exchange | Token count |
-|--------|------------|
-| [[exchanges/jp-foreign-exchange-mexc|MEXC]] (overseas) | 2,376+ (highest listing count) |
-| Binance (overseas) | 350+ (spot) |
-| [[exchanges/jp-exchange-coincheck|Coincheck]] (domestic top) | 30+ |
-| JVCEA Whitelist total | ~33  tokens |
+The following is based on JVCEA's official publication pages reviewed on 2026-07-29. It does not compare volatile asset counts at overseas exchanges or individual operators. ^[Sources: https://jvcea.or.jp/statistics/document/greenlist/; https://jvcea.or.jp/statistics/document/assets/.]
 
-The mixture of domestically exclusive cultural tokens (NIDT/MONA/KAIA) and overseas global tokens (BTC/ETH/SOL/DOT etc.) characterises the domestic market.
+| Publication | Update date | What it establishes |
+|--------|--------|------------|
+| JVCEA Green List | 2026-07-22 | 31 assets and the requirements for Green List eligibility |
+| Handled Crypto-Assets and Explanatory Documents | 2026-07-27 | Assets handled by members and the explanatory documents |
 
 ## Strategic Implications
 
-Domestic VASP Whitelist applications require several months of review cost + passing the JVCEA 8  major standards (technology, regulation, liquidity, AML, etc.). Post-listing liquidity is secured by the CEX itself acting as market maker (unlike overseas, no external market makers). After US BTC ETF approval (2024-01), institutional flow and domestic spot volume show a correlated trend. The Green List system has accelerated new listing pace, though it remains limited compared to overseas.
+Green List inclusion does not automatically complete a member's handling launch or filings and procedures with the FSA. Review, filing, service availability, and liquidity-management requirements should be checked in the latest JVCEA rules and each member's official announcement. This publication does not establish a fixed review period, the presence or absence of external market makers, or rankings against overseas exchanges.
 
 ## Related
 

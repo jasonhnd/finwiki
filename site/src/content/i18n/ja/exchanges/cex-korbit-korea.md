@@ -1,33 +1,29 @@
 ---
 source: exchanges/cex-korbit-korea
-source_hash: 72b6dbd280b3bbb7
+source_hash: 90757e533c39c8c7
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
-title: "Korbit（코빗）— 韓国初の CEX / SK Square 子会社 / 4-pair-bank exclusivity overview"
-translated_at: 2026-06-26T08:29:09.703Z
+title: "Korbit（코빗）— 韓国初の CEX / SK Square 出資 / Shinhan 実名口座 overview"
+translated_at: 2026-07-29T12:03:55.000Z
 ---
 
-# Korbit（코빗）— 韓国初の CEX / SK Square 子会社 / 4-pair-bank exclusivity overview
+# Korbit（코빗）— 韓国初の CEX / SK Square 出資 / Shinhan 実名口座 overview
 
 ## ウィキ上の位置づけ
 
 本項目は [[exchanges/INDEX|exchanges index]] 配下に位置づける。韓国の同業・規制文脈は [[exchanges/korea-cex-five-pillars-comparison|韓国 5 大 CEX 制度比較]]、最も近い上位同業の比較は [[exchanges/cex-upbit-korea|Upbit]] / [[exchanges/cex-bithumb-korea|Bithumb]]、より広い制度・市場境界は [[exchanges/global-cex-top10-comparison|global CEX top 10 comparison]] と併読する。
 
-> 2013-07 設立 · **韓国初の本格 CEX** · SK Square 子会社 · 신한은행 실명계좌 · 韓国 spot 市場 #4（推定 2% 前後）· **DAXA 共同設立 5 社の 1 つ**
+> 2013-07 設立 · **韓国初の Bitcoin-KRW 取引サービス** · SK Square 出資 · 신한은행 실명계좌 · KoFIU 届出済 VASP
 
 ## 1. 法人・株主
 
 - 商号：주식회사 코빗（Korbit Inc.）
 - 設立：2013-07
 - 本店所在地：서울특별시 강남구
-- **親会社**：**SK Square 株式会社**（SK 그룹의 ICT 投資持株会社、KOSPI 상장）
-  - 2017-09：NHN Entertainment（後の NHN）が Korbit を約 1,200 억원で買収（韓国 IT 大手による暗号通貨業界初の大型 M&A）
-  - 2021-08：**SK Square**（당시 SK Telecom 으로부터 인적분할 신설） が **NHN 으로부터 코빗 지분 35% 매입**（약 900 억원 규모）→ 段階的に保有比率拡大
-  - 現在：SK Square が **65% 超の支配株主**、NHN が少数株主として残留
+- **投資関係**：SK Square は Korbit への持分投資を公表している。本項では、基準日の異なる報道から現在の支配比率や子会社性を推定しない
 - 創業者：Tony Lyu（Korbit Inc.）— 韓国初の CEX 設立者として知られる
-- IPO 検討：直接的アナウンスはないが、SK Square の上場子会社として親会社経由での資本市場アクセス可能
 
 ## 2. 登録・牌照状況（韓国制度）
 
@@ -35,16 +31,16 @@ translated_at: 2026-06-26T08:29:09.703Z
 - **ISMS / ISMS-P 認証**：KISA ISMS-P 保有
 - **실명확인 입출금 계정**（実名口座）：**신한은행（Shinhan Bank）** との契約
   - 신한은행は韓国 5 大銀行の 1 つ（KB / Shinhan / NH農協 / Hana / Woori）
-  - Korbit は신한은행との契約を維持する **韓国 KRW spot 5 社** の 1 つ（**4-pair-bank exclusivity**：[[exchanges/cex-upbit-korea|Upbit]]-K-Bank, [[exchanges/cex-bithumb-korea|Bithumb]]-NH農協, Korbit-Shinhan, [[exchanges/cex-coinone-korea|Coinone]]-NH農협, [[exchanges/cex-gopax-korea|GOPAX]]-전북은행）
+  - 他社の提携銀行は変更され得るため、本項では Korbit–Shinhan の関係だけを記載する
 - 詳細制度は [[exchanges/korea-cex-five-pillars-comparison|韓国 5 大 CEX 制度比較]] 参照
 
 ## 3. 取扱通貨
 
 - KRW spot 市場（韓国 5 大 CEX の 1 つとして合法）
-- 取扱銘柄数：100+（[[exchanges/cex-upbit-korea|Upbit]] の 180+、[[exchanges/cex-bithumb-korea|Bithumb]] の 200+ と比較すると保守的）
+- 取扱銘柄は随時変わるため、本項では固定件数や同業比較を置かない
 - BTC / ETH / 主要アルトコイン中心
 - 上場審査：DAXA 共通基準 + Korbit 独自基準
-- **2025–2026 期**：USDT market 拡張、グローバル銘柄追加
+- USDT market を含む商品構成は、Korbit の現行商品画面で基準日を付して確認する
 
 ## 4. 業務範囲
 
@@ -55,51 +51,43 @@ translated_at: 2026-06-26T08:29:09.703Z
 - **NFT marketplace**：Korbit NFT（2021 launch）、Klaytn 系 NFT 取扱で先行
 - **B2B / 機関向け**：Korbit Pro、API trading、カストディ関連サービス
 
-## 5. 市占・取引高
+## 5. 規模情報の読み方
 
-- **韓国 spot 市場シェア**：約 2%（[[exchanges/cex-upbit-korea|Upbit]] 70% / [[exchanges/cex-bithumb-korea|Bithumb]] 25% / [[exchanges/cex-coinone-korea|Coinone]] 3% に次ぐ #4 ポジション）
-- 24h volume：$10–100M（市場ボラティリティ連動）
-- 顧客層：韓国居住者中心（KYC 完全実施）
-- 黒字化：2024–2025 期に複数四半期黒字化達成（SK Square 連結ベースでの収益化）
+- 市場シェア、24h volume、順位は観測時点とデータ提供者で変わるため、本項では固定値を採用しない
+- 韓国 CEX の比較では、KRW market、同一基準日、実名口座の有無を揃えて照合する
+- 収益性や連結範囲は各社の対象期開示に依存するため、持分投資から Korbit 単体の損益を推定しない
 
 ## 6. 沿革・重大事件
 
+出典: 表全体は [Korbit 公式会社紹介](https://www.korbit.co.kr/company)、[金融委員会の届出受理発表](https://www.fsc.go.kr/no010101/76638)、[KoFIU の仮想資産事業者届出状況](https://www.kofiu.go.kr/kor/notification/notice.do)（2026-07-29 確認）に基づく。
+
 | 時期 | 事項 |
 |------|------|
-| **2013-07** | **Korbit 設立、韓国初の本格 CEX として営業開始**（Tony Lyu 創業） |
-| 2014–2016 | 韓国初期市場でリーダー的ポジション維持 |
-| 2017-09 | **NHN Entertainment による Korbit 買収**（約 1,200 억원） |
-| 2017-12 | 韓国仮想通貨ブーム期、Upbit / Bithumb の急成長で市場シェア低下 |
-| 2018 | NHN 傘下での経営継続、独立系から大企業傘下に転換 |
-| 2021-03 | 韓国 특정금융정보법 施行、VASP 登録制度開始 |
-| 2021-08 | **SK Square が NHN から Korbit 지분 35% 매입** |
-| 2021-09 | FIU に VASP 登録完了（韓国第 1 期登録クラス） |
-| 2021 | Korbit NFT marketplace ローンチ、Klaytn 系 NFT 取扱で先行 |
-| 2023 | DAXA 자율규제 협의체 共同設立 5 社の 1 つとして参画 |
-| 2024-07 | 가상자산이용자보호법 施行、利用者保護体制整備 |
-| 2024–2026 | SK Square 支配株主下で経営安定化、黒字化達成 |
+| 2013 | Korbit が韓国初の Bitcoin-KRW 取引サービスとして営業を開始 |
+| 2021-10-01 | 金融委員会が Korbit の仮想資産事業者届出受理を決定 |
+| 2026-06-30 基準 | KoFIU の仮想資産事業者届出状況に Korbit が掲載 |
 
 ## 7. 戦略動向
 
-- **SK Square 戦略子会社ポジション**：SK 그룹の ICT 投資ポートフォリオの中で、暗号通貨 / Web3 関連事業の中核子会社として位置付け。SK Telecom の **T-ウォレット / SK Coin** 等のグループ Web3 戦略との連携可能性
+- **SK Square との投資関係**：公表された持分投資を確認対象とし、子会社性や将来のグループ Web3 連携は推定しない
 - **신한은행 関係**：실명계좌 契約の長期安定性、신한은행との関係は **신한금융그룹의 디지털 자산 전략** との整合性
 - **DAXA 参画**：[[exchanges/cex-upbit-korea|Upbit]] / [[exchanges/cex-bithumb-korea|Bithumb]] / [[exchanges/cex-coinone-korea|Coinone]] / [[exchanges/cex-gopax-korea|GOPAX]] と共に DAXA で上場基準を共通化、規制対応コスト分散
-- **NFT / Klaytn 系展開**：韓国系 L1 / L2 トークン（Klaytn 후속 Kaia、WEMIX、XPLA 等）の主要上場場所として継続
+- **NFT / 韓国系 network 対応**：NFT marketplace と関連商品の提供実績を確認し、銘柄別の主要市場という順位付けは行わない
 - **2024 利용자보호법 対応**：利用者保護基金拠出、不公正取引監視強化、内部統制再構築
-- **保守的経営**：Upbit / Bithumb のような市場シェア競争よりも、**SK Square 連結での収益化 + 規制対応コスト最小化** を優先
+- **比較の境界**：市場シェアや収益性の推定ではなく、KoFIU 届出・実名口座・商品開示を同一基準日で比較する
 
 ## 8. 業界での位置付け
 
-Korbit は **韓国初の本格 CEX** として歴史的地位を持ち、SK Square 子会社化により **韓国大手 ICT グループ傘下の唯一の VASP** という独自ポジションを保持する。[[exchanges/cex-upbit-korea|Upbit]] / [[exchanges/cex-bithumb-korea|Bithumb]] のトップ 2 社には大きく差をつけられているが、**5 大 VASP の 1 社という制度的地位 + SK Square バックアップ** で長期生存力は高い。
+Korbit は、2013 年に Bitcoin-KRW 取引サービスを開始した韓国 CEX として歴史的な参照点を持つ。現在の比較では、KoFIU 届出、Shinhan Bank の実名口座、SK Square の持分投資をそれぞれ独立した事実として扱う。
 
-[[exchanges/korea-cex-five-pillars-comparison|韓国 5 大 CEX 制度比較]] の中では、Upbit-K-Bank / Bithumb-NH農협 のトップ 2 ペアに次ぐ **第 3 グループ（Korbit-Shinhan + Coinone-NH農协 + GOPAX-전북은행）** に位置し、市場シェア 1–3% レベルで安定的に営業継続する構造。
+[[exchanges/korea-cex-five-pillars-comparison|韓国 5 大 CEX 制度比較]] では、各社の提携銀行、届出状態、商品範囲を同一基準日で確認する。本項は市場順位、シェア帯、将来の継続性を固定しない。
 
 ## 関連項目
 
-- [[exchanges/cex-upbit-korea]] — 韓国 #1（最重要 cross-link）
-- [[exchanges/cex-bithumb-korea]] — 韓国 #2
-- [[exchanges/cex-coinone-korea]] — 韓国 #3（peer）
-- [[exchanges/cex-gopax-korea]] — 韓国 #5（peer）
+- [[exchanges/cex-upbit-korea]] — 韓国 CEX comparison（最重要 cross-link）
+- [[exchanges/cex-bithumb-korea]] — 韓国 CEX comparison
+- [[exchanges/cex-coinone-korea]] — 韓国 CEX peer
+- [[exchanges/cex-gopax-korea]] — 韓国 CEX peer
 - [[exchanges/korea-cex-five-pillars-comparison]] — 韓国 5 大 CEX 制度比較
 - [[exchanges/global-cex-top10-comparison]] — グローバル CEX top 10
 - [[exchanges/global-vasp-regulatory-comparison-matrix]] — グローバル VASP 規制比較
@@ -112,7 +100,6 @@ Korbit は **韓国初の本格 CEX** として歴史的地位を持ち、SK Squ
 - 公開情報整理 (FSC / FIU 가상자산사업자 등록 公開リスト)
 - 公開情報整理 (KISA ISMS-P 인증 발표)
 - 公開情報整理 (Shinhan 銀行 / 신한은행 실명확인 입출금 계정 보도)
-- 公開情報整理 (NHN Entertainment 2017-09 Korbit 買収 報道, Korea Herald / 코인데스크 코리아)
-- 公開情報整理 (SK Square 2021-08 Korbit 지분 매입 공시 / 보도)
+- 公開情報整理 (SK Square Korbit 持分投資公示 / IR 資料)
 - 公開情報整理 (DAXA 자율규제 협의체 발표)
 - 公開情報整理 (가상자산이용자보호법 2024-07 시행 관련 보도)

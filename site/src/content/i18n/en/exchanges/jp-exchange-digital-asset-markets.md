@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-exchange-digital-asset-markets
-source_hash: b7d3593120e2a020
+source_hash: 8662c93c15fe863a
 lang: en
 status: machine
 fidelity: ok
 title: "Digital Asset Markets, Inc. — Japan crypto-asset exchange operator overview"
-translated_at: 2026-05-31T03:19:56.433Z
+translated_at: 2026-07-29T12:10:50Z
 ---
 
 # Digital Asset Markets, Inc. — Japan crypto-asset exchange operator overview
@@ -43,34 +43,37 @@ The capital participation from Mitsui & Co. (2019年8月) and Japan Exchange Gro
 
 ## 3. Handled currencies
 
-The handled tokens number 3 (as of 2026年5月), all of which are the Zipangcoin series that the company independently issues and manages:
+The official service information reviewed on 2026-07-29 identifies the Zipangcoin series below as brokerage assets. This entry does not retain a fixed count; the current service screen takes precedence:
 
 - **ZPG (Zipangcoin)**: A crypto-asset aiming to track the price of gold (GOLD) (handling started 2022年2月)
 - **ZPGAG (Zipangcoin Silver)**: Tracks the price of silver (SILVER) (handling started 2023年7月)
 - **ZPGPT (Zipangcoin Platinum)**: Tracks the price of platinum (PLATINUM) (handling started 2023年7月)
 
-Major altcoins such as BTC / ETH are not handled. A niche position, rare in Japan, specializing in precious-metal-price-tracking crypto-assets.
+For the current availability of BTC, ETH, or other assets, the service screen takes precedence. Do not infer a fixed “three assets only” count or a market rank.
 
 ## 4. Scope of business
 
 - **Brokerage format**: Spot trading only of ZPG / ZPGAG / ZPGPT. The exchange (order-book trading) format is not offered
 - **Margin trading (derivatives)**: None
-- **Crypto-asset lending / staking**: Not disclosed
-- **NFT**: Not disclosed
+- **Crypto-asset lending / staking**: no offering was identified in the official service and business information reviewed on 2026-07-29; check the current service screen
+- **NFT**: no offering was identified in the official service and business information reviewed on 2026-07-29; check the current business information
 - **ST (security token) business**: The company website explicitly lists "ST business" as a business domain. Being developed as a platform business supporting issuance, distribution, fundraising, and management (details non-public)
 - **Cybersecurity business**: Separately offers data-protection services under the "Digital Shelter" brand
 - **Fiat-deposit channel**: Bank transfer (Resona Bank / PayPay Bank / GMO Aozora Net Bank), GMO Aozora Net Bank's "bank deposit," PayPay Bank's "Link settlement"
-- **Passkey authentication**: Planned to be introduced in late 2026年5月 (disclosed in an important notice)
+- **Passkey authentication**: an older “important notice” said introduction was planned for late May 2026. The official pages reviewed on 2026-07-29 did not confirm completion, so current availability must be checked on the service screen
+- **Digital Asset Prime Service**: launched on June 23, 2026 as a large-lot digital-asset trading service for institutional investors and corporates
 
 Crypto-assets are managed in 100% cold wallets, and cash is segregated via a money trust with Nisshokin Trust Bank.
 
 ## 5. Market share / trading volume
 
-- **Trading volume / number of accounts**: Not disclosed
-- **Customer base**: Mainly individual retail (iPhone app + web account-opening flow). Explicit provision of services for corporates / institutional investors has not been confirmed
-- **Competitive positioning**: A niche player among the 26社 domestic crypto-asset exchange operators. Does not handle major currencies such as BTC / ETH and specializes in 3 precious-metal-linked coins, targeting customer needs different from those of a typical exchange
+- Among the company, FSA, and JVCEA materials identified in this review as of 2026-07-29, no disclosure of trading volume or account count was identified. This does not establish that no such disclosure exists
+- **Customer base**: in addition to DA Trade for individuals, Digital Asset Prime Service has been offered to institutional investors and corporates since June 2026
+- **Competitive positioning**: do not assert a fixed operator count or market rank; describe the official service characteristics of precious-metal-linked crypto assets and large-lot corporate trading
 
 ## 6. History / major events
+
+The table below is limited to milestones directly confirmed through the company's official profile and news and the FSA/JVCEA registration materials.^[Sources: https://corp.digiasset.co.jp/aboutus; https://corp.digiasset.co.jp/news/20210217; https://corp.digiasset.co.jp/news/20220207; https://corp.digiasset.co.jp/; https://jvcea.or.jp/member/.]
 
 | Year-Month | Item |
 |------|------|
@@ -86,15 +89,16 @@ Crypto-assets are managed in 100% cold wallets, and cash is segregated via a mon
 | 2025-03 | Cooperated in the strategic partnership between InterTrade and Fireblocks |
 | 2025-07 | Obtained the Privacy Mark |
 | 2026-04 | Joined the Japan Digital Decentralized Finance Association |
+| 2026-06-23 | Launched Digital Asset Prime Service for institutional investors and corporates |
 
-No publicly confirmed cases of administrative action, hacking, or major system failure.
+Among the company, FSA, and JVCEA materials identified in this review as of 2026-07-29, no record of an administrative disposition, hack, or major system failure was identified. This does not establish that no such event exists.
 
 ## 7. Strategic developments
 
 - **Fireblocks linkage (2025年3月)**: Cooperated in the strategic partnership between its parent-level company InterTrade and Fireblocks. Suggests an advancement of custody technology.
 - **ST (security token) business**: Listed as a business domain on the company website, advocating the construction of a platform for digitizing, issuing, and distributing rights to tangible assets. Specific deals / scale are non-public.
-- **Introduction of passkey authentication (planned for late 2026年5月)**: Strengthening the security of user authentication.
-- Because it has major financial institutions such as JPX, Mitsui & Co., and Monex Group as shareholders, there is a basis for institutional linkage; however, no publicly disclosed retail-expansion plan has been confirmed at this stage.
+- **Passkey authentication**: an older notice stated a planned introduction in late May 2026. The official pages reviewed on 2026-07-29 did not confirm completion; the historical plan should not be presented as a current plan or an implemented feature.
+- **Expansion for institutions and corporates**: Digital Asset Prime Service launched on June 23, 2026. Do not infer undisclosed partnerships or expansion plans from the shareholder list alone.
 
 ## 8. Related persons
 
@@ -124,3 +128,5 @@ No publicly confirmed cases of administrative action, hacking, or major system f
 - [Digital Asset Markets, Inc. official service site](https://www.digiasset.co.jp/) (retrieved 2026-05-18)
 - [JVCEA member list](https://jvcea.or.jp/member/) (retrieved 2026-05-18)
 - [FSA crypto-asset exchange operator registration list Excel](https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx) (snapshot 令和8年4月1日 = 2026-04-01)
+- [Completion of crypto-asset exchange operator registration](https://corp.digiasset.co.jp/news/20210217) (2021-02-17)
+- [Start of ZPG handling](https://corp.digiasset.co.jp/news/20220207) (2022-02-07)

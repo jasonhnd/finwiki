@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-exchange-osl-japan
-source_hash: 204c3cb989306bcc
+source_hash: 8cd7d2533337450a
 lang: en
 status: machine
 fidelity: ok
 title: "OSL Japan Co., Ltd. — Japan crypto-asset exchange operator overview"
-translated_at: 2026-05-31T05:31:05.768Z
+translated_at: 2026-07-29T11:50:43.000Z
 ---
 
 # OSL Japan Co., Ltd. — Japan crypto-asset exchange operator overview
@@ -25,57 +25,48 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - **Head office**: Kabutocho No. 2 Heiwa Building 4F, 2-9-8  Nihonbashi Kabutocho, Chuo-ku, Tokyo
 - **Capital**: 9億3,316万円 (including capital surplus; from the company overview as of 2026-05-18)
 - **Corporate number**: 3010001185935
-- **Parent company**: OSL Group Limited (HKEX-listed, ticker 863.HK). The company professes itself to be the only digital-asset trading-platform enterprise listed on the Hong Kong Stock Exchange.
+- **Parent company**: OSL Group Limited (HKEX-listed, ticker 863.HK). Its official site emphasizes its status as a listed digital-asset platform (retrieved 2026-05-18); this entry does not validate an exclusivity claim.
 
 ## 2. Licensing & registration status
 
 - **Crypto-asset exchange business**: Director-General of the Kanto Local Finance Bureau 第00023号 (registration date 2020-09-23)
 - **JVCEA member**: Type I member #1028 (crypto-asset exchange business only)
-- No public record of electronic-payment-instruments business or financial-instruments business could be confirmed (not disclosed)
 
 The Hong Kong parent OSL Group holds Type 1・4・7・9  licenses from the HK SFC as well as AMLO (Anti-Money Laundering and Counter-Terrorist Financing Ordinance) registration, and the Japanese subsidiary functions as one base of the group's Asia expansion.
 
 ## 3. Handled currencies
 
-- **Number of handled symbols**: 5 symbols (confirmed from the 2026-05-18 closing-price list)
-- **Symbols**: BTC (Bitcoin), ETH (Ethereum), ADA (Cardano), DAI (stablecoin), ETC (Ethereum Classic)
-- **Characteristics**: The number of symbols is at the lowest level in the industry. It is among the smallest class of the 30 社-plus VASPs in Japan. Handling DAI (a Maker-family stablecoin) is distinctive, and it also offers a dedicated service for large-lot DAI transactions. Altcoins are few.
+- **Supported assets**: The official closing-price list retrieved on 2026-05-18 showed BTC, ETH, ADA, DAI, and ETC. Availability changes, so this entry does not fix a total or domestic rank.
 
 ## 4. Scope of business
 
 - **Sales counter (principal trading)**: Offers buying and selling of BTC・ETH・ADA・DAI・ETC. In the closing-price list, the exchange (order-book trading) column is "-", and the provision of order-book trading cannot be confirmed.
-- **OSL Japan Prime (OTC service for corporates・large lots)**: A dedicated OTC (Over The Counter) trading service for corporate and large-lot clients. It provides dedicated customer support (Japanese, English, and Chinese), preferential fees based on monthly trading volume, security via IP whitelisting, and expanded withdrawal-limit accommodation.
-- **Deposit channels**: Bank transfer (see the FAQ for details). Public information on convenience-store deposit and quick deposit cannot be confirmed (not disclosed).
-- **Margin trading・derivatives・lending・NFT**: No public information on provision.
+- **OSL Japan Prime (OTC service for corporates and large lots)**: The official page retrieved on 2026-05-18 described OTC service for corporate and large-lot clients, multilingual support, and security features. Because pricing and trading conditions can change, the current official page takes precedence.
+- **Deposit channel**: Bank transfer as described in the official FAQ. Use the live FAQ for other conditions.
 - **Smartphone app**: Provides an iOS / Android compatible app.
 
 ## 5. Market share & trading volume
 
-- Disclosed trading volume and account numbers cannot be confirmed (not disclosed).
-- Given a composition of 5  handled symbols and a sales counter only, it is positioned as a niche specializing in corporate and large-lot clients rather than mass retail acquisition.
-- The OTC Prime service appeals to scale as a parent group, claiming "cumulative group trading volume of over 1,000 億 US dollars since establishment in 2018 年" (figures for the Japanese subsidiary alone are not disclosed).
-- Competitive positioning: niche (institutional・large-lot focused). Its market segment differs from that of the major domestic spot retail players ([[exchanges/jp-exchange-bitflyer|bitFlyer]], [[exchanges/jp-exchange-coincheck|Coincheck]], [[exchanges/jp-exchange-gmo-coin|GMO Coin]], etc.) (the OTC layer is [[exchanges/jp-crypto-market-maker-otc-layer|JP crypto market maker / OTC レイヤー]], and [[exchanges/hk-sfc-vasp-licensing-overview|HK SFC VASP ライセンス]] is the parent's home-jurisdiction license).
+- The OSL Japan corporate and product materials reviewed on 2026-07-29 contain no Japan-subsidiary trading-volume or account-count figures comparable across firms. This entry does not infer a market rank or scale. For the OTC context, see [[exchanges/jp-crypto-market-maker-otc-layer|JP crypto market maker / OTC layer]].
 
 ## 6. History & major incidents
 
+The table below is based on OSL Japan's company profile and disclosures, the FSA register, and the FSA's published administrative action. The June 2024 business-suspension and business-improvement orders were issued to CoinBest before its trade-name change and remain part of the current legal entity's history. ^[Sources: https://www.osl.com/jp/cms/company; https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx; https://www.fsa.go.jp/news/r5/sonota/20240614-2/20240614.html.]
+
 | Year/Month | Event |
 |------|--------|
-| 2017-08-25 | CoinBest Co., Ltd. established |
-| 2020-09-23 | Obtained crypto-asset exchange operator registration (第00023号) from the Financial Services Agency (Kanto Local Finance Bureau). One of the early cases of a Hong Kong-based group obtaining FSA registration in Japan |
-| 2022-08 | Ran a CoinBest 5 th-anniversary campaign (capital 5 億3,500万円, URL: coinbest.com era) |
-| 2023 | Collaborated on hometown-tax NFT return gifts with Numata City, Gunma Prefecture (in partnership with Furusato Choice) |
+| 2017-08 | CoinBest Co., Ltd. established |
+| 2020-09-23 | Registered by the FSA (Kanto Local Finance Bureau) as a crypto-asset exchange service provider, No. 00023 |
+| 2024-06-14 | The Kanto Local Finance Bureau issued CoinBest a business-suspension order and a business-improvement order |
 | 2025-02-06 | CoinBest, under OSL Group Limited, renamed to "OSL Japan Co., Ltd." The corporate site was also unified to osl.com/jp/ |
-| 2025-02-10 | Held a Japan-market strategy briefing (announced via PR TIMES) |
 | 2025-11-28 | Change of Representative Director. Yang Chao (Wilson Yang) stepped down, and Takashi Yoshikawa became Representative Director and President |
-| 2025-12 | 5 th anniversary of starting regulatory-compliant business as the OSL group (group-wide. The Hong Kong SFC license was obtained around 2020-12 ) |
 
-No public record of administrative dispositions, hacks, or large-scale system failures could be confirmed.
+Apart from the June 2024 administrative action, this review did not identify public-source material showing a hack or large-scale system failure within the primary sources checked here.
 
 ## 7. Strategic developments
 
 - OSL Group publicly announced a strategic shift from an "exchange" to a "stablecoin trading and settlement platform" in 2025 年. The Japanese entity has indicated a direction of conforming to this group strategy (from the 5 th-anniversary CEO message of 2025-12 ).
-- Group-wide, it holds or is applying for over 50  licenses in over 10  regions (as of 2025-12 ).
-- No public disclosure of specific new services or capital measures in Japan (as of 2026-05-18) could be confirmed.
+- For the Japanese entity, this entry records only dated official disclosures and does not infer group application counts or undisclosed measures.
 - It continues to post "hometown-tax NFT" terms, and collaboration with the public sector also continues.
 
 ## 8. Related people

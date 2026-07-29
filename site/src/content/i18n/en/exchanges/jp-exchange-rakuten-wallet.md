@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-exchange-rakuten-wallet
-source_hash: ad7adca32cca9b49
+source_hash: b962b3d42ac494ef
 lang: en
 status: machine
 fidelity: ok
 title: "Rakuten Wallet, Inc. — Japan crypto-asset exchange overview"
-translated_at: 2026-06-18T23:33:48.315Z
+translated_at: 2026-07-29T11:50:43.000Z
 ---
 
 # Rakuten Wallet, Inc. — Japan crypto-asset exchange overview
@@ -61,20 +61,20 @@ Margin trading (crypto-asset derivatives) supports the 9 currencies of BTC, ETH,
 
 ## 5. Market share / trading volume
 
-- The number of accounts / monthly trading volume is not published (as of 2026-05-18).
-- A customer base leveraging the ecosystem of the Rakuten Group (over 1億 members) is a differentiating factor. Through linkage with Rakuten Points / Rakuten Cash, it aims to onboard Rakuten users with no crypto-asset experience.
-- Position among competitors: mid-tier. Amid a configuration where [[exchanges/jp-exchange-bitflyer|bitFlyer]], [[exchanges/jp-exchange-coincheck|Coincheck]], and [[exchanges/jp-exchange-gmo-coin|GMOコイン]] form the top, it has established a unique position in [[payment-firms/rakuten-fg|楽天経済圏]] (the [[exchanges/jp-cex-points-economy-integration|JP CEX ポイント経済統合]] pattern). It has a stronger retail-specialized character than institutional-investor services.
+- The Rakuten Wallet corporate and product materials reviewed on 2026-07-29 contain no account-count or monthly-trading-volume figures comparable across firms. This entry does not infer a market rank or scale. Rakuten Point and Rakuten Cash linkage is treated as a documented service category in §4.
 
 ## 6. History / major events
 
+The table below is limited to milestones confirmed in Rakuten Group's acquisition announcement, Rakuten Wallet's corporate information and disclosures, and the FSA register. The 2018 acquisition announcement also states the service-launch, registration-application, and business-improvement-order dates. ^[Sources: https://corp.rakuten.co.jp/news/press/2018/0831_02.html; https://www.rakuten-wallet.co.jp/company/company.html; https://www.rakuten-wallet.co.jp/irpress/statement.html; https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx.]
+
 | Date | Event |
 |------|--------|
-| 2016年12月 | Traders Holdings established **Minna no Bitcoin, Inc.** |
-| 2017年3月 | Started a virtual-currency exchange service |
-| 2017年9月 | Submitted a virtual-currency-exchange-operator registration application to the Kanto Local Finance Bureau |
-| 2018年4月 | Received a business improvement order from the Kanto Local Finance Bureau (as a deemed operator before registration) |
-| 2018年10月 | Rakuten Card acquired all shares of Minna no Bitcoin from a Traders Holdings subsidiary, making it a subsidiary |
-| 2019年3月 | Changed the trade name to **Rakuten Wallet, Inc.** Completed FSA crypto-asset-exchange-operator registration (第00015号) |
+| December 15, 2016 | **Minna no Bitcoin, Inc.** established |
+| March 30, 2017 | Virtual-currency exchange service launched |
+| September 7, 2017 | Registration application submitted to the Kanto Local Finance Bureau |
+| April 25, 2018 | Business-improvement order received while operating as a deemed operator before registration |
+| October 2018 | Rakuten Card acquired all shares of Minna no Bitcoin and made it a subsidiary |
+| March 2019 | Renamed **Rakuten Wallet, Inc.** and registered as a crypto-asset exchange service provider, No. 00015, on March 25 |
 | 2019年4月 | Became a 100% subsidiary of Rakuten Payment, Inc. via reorganization within the Rakuten Group |
 | 2019年8月 | Started a crypto-asset spot-trading service |
 | 2020年3月 | Started a crypto-asset margin-trading service |
@@ -86,7 +86,7 @@ Margin trading (crypto-asset derivatives) supports the 9 currencies of BTC, ETH,
 | 2022年7月 | Became a 100% subsidiary of Rakuten Securities via reorganization within the Rakuten Group |
 | 2022年10月 | Reorganized into a 100% subsidiary of Rakuten Securities Holdings |
 
-Major administrative dispositions: the 2018年4月 business improvement order (during the period as a deemed operator before registration, disclosed by the parent company Traders Holdings). No record of administrative dispositions after registration has been confirmed in public information.
+The principal administrative action is the April 25, 2018 business-improvement order issued while the company was a deemed operator before registration. Within the company disclosures and FSA materials reviewed above, this review did not identify a separate post-registration action; this is not an assertion that none exists.
 
 ## 7. Strategic trends
 

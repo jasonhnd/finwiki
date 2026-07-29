@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-listed-cex-related-companies-matrix
-source_hash: 1d362e8aecdda2fe
+source_hash: b4fd47792c5e393e
 lang: en
 status: machine
 fidelity: ok
 title: "Japan listed CEX-related companies matrix — TSE / Nasdaq listings + holding-company list"
-translated_at: 2026-06-18T23:33:48.347Z
+translated_at: 2026-07-29T11:50:43.000Z
 ---
 
 # Japan listed CEX-related companies matrix — TSE / Nasdaq listings + holding-company list
@@ -16,33 +16,32 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 
 ## Overview
 
-Among the CEXs (crypto-asset exchange operators) with bases in Japan, this lists those that are under listed companies or that are themselves listed. Covering Prime + Standard + Nasdaq + US OTC, it organizes the routes through which institutional and individual investors can gain exposure to the Japanese CEX industry via the secondary market. See: [[exchanges/jp-vasp-parent-company-map]].
+This entry organizes relationships between Japanese CEX operating entities and listed parent companies or listed intermediate holding companies when confirmed in official disclosures. It is not an exhaustive investment list, and it identifies the corporate hierarchy to avoid double-counting direct parents and upstream shareholders. See [[exchanges/jp-vasp-parent-company-map]].
 
-## Self / direct-parent listing matrix
+## Listed-company / parent-company matrix
 
-| Parent company | Market | Ticker | CEX under it |
-|---|---|---|---|
-| **Coincheck Group N.V.** | NASDAQ | CNCK (listed 2024-12 ) | [[exchanges/jp-exchange-coincheck]] (via a Dutch-entity SPAC) |
-| **Monex Group** | TSE Prime | 8698 | parent of Coincheck + derivatives parent of [[exchanges/jp-exchange-monex]] |
-| **SBI HD** | TSE Prime | 8473 | parent of [[exchanges/jp-exchange-sbi-vc-trade]] + SBI FXT + SBI Securities |
-| **GMO Internet Group** | TSE Prime | 9449 | parent of [[exchanges/jp-exchange-gmo-coin]] |
-| **Money Partners Group** | TSE → delisted | (2025-02) | parent of [[exchanges/jp-exchange-money-partners]] |
-| **Traders HD** | TSE Standard | 8704 | parent of [[exchanges/jp-exchange-traders-securities]] |
-| **JN Group** | TSE | 6634 | parent of [[exchanges/jp-exchange-zaif]] (made a wholly owned subsidiary 2025-07 ) |
-| **Ceres** | TSE Prime | 3696 | parent of [[exchanges/jp-exchange-mercury]] (CoinTrade) |
-| **OSL Group** | HKEX | 863.HK | parent of [[exchanges/jp-exchange-osl-japan]] |
-| **Gaudiy Group** | unlisted | — | cumulative fundraising 134 億 |
+The following is based on company profiles, group-company lists, and disclosures reviewed as of 2026-07-29. Markets and ownership ratios can change; use the exchange's and issuer's latest disclosures for investment decisions. ^[Sources: https://www.monexgroup.jp/en/group_companies/ccg.html; https://www.gmo.jp/en/company-profile/outline/; https://www.sbigroup.co.jp/company/group/sbivc.html; https://www.jngroup.jp/wp-content/uploads/2025/02/kaiji_20250208.pdf; https://www.tradershd.com/ir/stock/; https://www.ceres-inc.jp/ir/.]
 
-## Via overseas-listed parent companies
+| Listed company / intermediate holding company | Market / code | Relationship to CEX |
+|---|---|---|
+| **Coincheck Group N.V.** | Nasdaq / CNCK (listed December 2024) | Listed holding company of [[exchanges/jp-exchange-coincheck]] |
+| **Monex Group** | TSE Prime / 8698 | Upstream shareholder holding about 80% of Coincheck Group voting rights in the December 2024 disclosure; not counted again as a separate direct owner of Coincheck |
+| **SBI Holdings** | TSE Prime / 8473 | Upstream parent of group company [[exchanges/jp-exchange-sbi-vc-trade]] |
+| **GMO Financial Holdings / GMO Internet Group** | TSE Standard / 7177; TSE Prime / 9449 | Distinguishes the direct parent of [[exchanges/jp-exchange-gmo-coin]] from the upstream group |
+| **Traders Holdings** | TSE Standard / 8704 | Parent company of [[exchanges/jp-exchange-traders-securities]] |
+| **JN Group** | TSE Standard / 6634 | Disclosed in February 2025 that ZED Holdings and [[exchanges/jp-exchange-zaif]] became consolidated subsidiaries |
+| **Ceres** | TSE Prime / 3696 | Parent company of [[exchanges/jp-exchange-mercury]] (CoinTrade) |
+| **OSL Group** | Hong Kong Stock Exchange / 863 | Upstream group of [[exchanges/jp-exchange-osl-japan]] |
 
-- **Coinbase Global** (NASDAQ: COIN) → [[exchanges/jp-exchange-coinbase-japan]] (Japan dormant)
-- **HashKey Group** (preparing for listing) → [[exchanges/jp-exchange-tokyo-hash]]
-- **Nomura HD** (TSE Prime 8604) → [[exchanges/jp-exchange-laser-digital-japan]]
+### Historical listed routes
+
+- Money Partners Group was delisted in February 2025 and is therefore not treated as a current listed exposure route to [[exchanges/jp-exchange-money-partners]].
+- Relationships between Coinbase Global or Nomura Holdings and Japanese entities or related businesses differ in operating status and licensing entity, so they are not included in the table of active CEX direct parents.
 
 ## Investor implications
 
-- **Direct exposure to the Japanese CEX industry**: Monex Group / SBI HD / GMO Internet Group / CNCK / JN Group are the main routes. For parent-company profiles, also read [[securities-firms/monex-group|Monex Group]] · [[megabanks/sbi-hd|SBI HD]] · [[payment-firms/gmo-financial-hd|GMO Financial HD]] · [[payment-firms/bitflyer|bitFlyer Holdings]].
-- **Institutional allocation**: going via large financial conglomerates (Monex / SBI / Nomura) is realistic. The only specialist listing is CNCK.
-- **Withdrawal / contraction (counter-examples)**: Money Partners Group delisting, LINE Xenesis termination, DMM Bitcoin wind-down — specialist independents struggle to sustain themselves in the capital markets. See: [[exchanges/jp-vasp-ma-consolidation-history]].
+- When both an intermediate holding company and an upstream parent are listed for the same CEX, review economic ownership, minority interests, and voting rights rather than double-counting the same exposure from a simple "under the group" label.
+- The CEX registration entity, consolidation scope, and contribution to the listed company's segment are not identical. Read the profiles of [[securities-firms/monex-group|Monex Group]], [[megabanks/sbi-hd|SBI HD]], and [[payment-firms/gmo-financial-hd|GMO Financial HD]] alongside this matrix.
+- Delisting, business transfer, and conditional acquisition are different states. See [[exchanges/jp-vasp-ma-consolidation-history]] for the timeline.
 
 Source: compilation of public information (TSE/Nasdaq disclosures, EDINET, each listed company's IR / securities reports, FSA crypto-asset exchange operator registration list)

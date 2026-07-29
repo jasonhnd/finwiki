@@ -1,21 +1,21 @@
 ---
 source: exchanges/jp-exchange-kraken-japan-historical
-source_hash: f54dc121c8a8cc88
+source_hash: 75da3a0283083566
 lang: en
 status: machine
 fidelity: ok
-title: "Payward Asia (Kraken Japan) — Japan Crypto Asset Exchange Operator (dormant / exited) overview"
-translated_at: 2026-05-31T06:16:15.665Z
+title: "Payward Asia (Kraken Japan) — former Japanese crypto-asset exchange operator"
+translated_at: 2026-07-29T11:28:13Z
 ---
 
-# Payward Asia (Kraken Japan) — Japan Crypto Asset Exchange Operator (dormant / exited) overview
+# Payward Asia (Kraken Japan) — former Japanese crypto-asset exchange operator
 
 
 ## Wiki route
 
 This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exchanges/jp-exchange-coinbase-japan|Coinbase 株式会社 — 日本暗号資産交換業者]] for the closest parallel pattern (外資系 retail exit) and [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度]] for the broader system / regulatory boundary.
 
-> Kraken is a rare foreign exchange operator that **entered the Japanese market 2  times and withdrew 2  times**. 1 st time 2014–2018, 2 nd time 2020–2023. Currently dormant.
+> Kraken-branded services for Japanese residents operated during two completed periods, 2014–2018 and 2020–2023. Payward Asia Inc. operated the second period.
 
 **foreign-exchange-exit / 2 -time Japan market withdrawal / FSA registration history → cancelled**
 
@@ -24,35 +24,35 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 - Trade name (final): Payward Asia Inc. (Japan branch-based) / former Kraken Japan division
 - Parent company: Payward, Inc. (USA, San Francisco; brand name Kraken)
   - Founded 2011年; Jesse Powell founding CEO
-  - 2025-04  NASDAQ listing preparation phase reported (publicly announced)
 - Business structure in Japan: initially direct service from Payward US headquarters (2014–2018), then re-entry via locally registered entity under Payward Asia (2020–2023)
 
 ## 2. Licence · registration history
 
 - 1 st phase (2014–2018): Service suspended around the time of the revised Payment Services Act enforcement (2017-04 ). Services to Japan residents ceased without obtaining registration
-- 2 nd phase (2020–2023): Registered as a crypto asset exchange operator at the Kanto Local Finance Bureau under the Payward Asia name (during 2020 年). Joined JVCEA as a Class 1 member
-- 3 rd phase (2023-01  onward): Japan withdrawal announced. FSA registration cancellation procedures carried out. Withdrew from JVCEA
-- 2026-04  snapshot: Payward Asia not listed in FSA registration list (cancellation confirmed)
+- Second phase (2020–2023): Payward Asia Inc. registered as a crypto-asset exchange operator on 2020-09-08 under Kanto Local Finance Bureau No. 00022 and provided services as a JVCEA Type-I member.
+- 2023-01-31: it discontinued the Japanese crypto-asset exchange business as stated in its official closure notice and ended the FSA registration.
+- Payward Asia is absent from both the FSA registration-list snapshot dated 2026-04-01 and the current file retrieved on 2026-07-29.
 
 ## 3. Supported assets
 
-- Before service suspension in 1 st phase: Lineup aligned with US headquarters, centred on BTC, ETH, BCH, LTC, XRP, etc.
-- At 2 nd-phase re-entry: Reduced listing for Japan; limited to major tokens on the JVCEA whitelist
-- After withdrawal: Zero listed assets (dormant)
+- This entry does not reconstruct a complete first-period asset list from sources that do not provide one.
+- At the second-period launch, the official registration and launch notices listed five assets: Bitcoin (XBT), Ethereum (ETH), XRP, Bitcoin Cash (BCH), and Litecoin (LTC).
+- Payward Asia handles no assets after the Japanese service ended.
 
 ## 4. Business scope
 
-- Spot trading only (retail). Limited public information on derivatives, margin, and staking
-- Fiat deposit: bank transfer (JPY)
-- During 2 nd phase, expansion into OTC and corporate services was limited and ceased entirely alongside the retail withdrawal
+- The second-period launch notice described crypto-to-crypto and JPY-to-crypto spot trading.
+- The closing asset-return notice covered withdrawals and trading in JPY and crypto assets and procedures for unstaking and returning DOT, ADA, and ETH. The service therefore should not be characterized as “spot only.”
 
 ## 5. Market share · trading volume
 
-- No public figures. In both phases, account counts and trading volume did not achieve a notable share of the domestic market; the firm trailed domestic leaders such as bitFlyer, Coincheck, and GMO Coin as a foreign operator
+- The official notices reviewed for this entry provide no Japan-specific account count, trading volume, or comparable domestic market share. No unsupported ranking is assigned.
 - Customer base: primarily retail residents of Japan (corporate was limited)
 - Industry positioning: frequently cited alongside [[exchanges/jp-exchange-coinbase-japan|Coinbase Japan]] as an example of the foreign exchange operator Japan market withdrawal pattern
 
 ## 6. History · major events
+
+The table is limited to milestones confirmed by Kraken and Payward Asia's official registration, launch, closure, and asset-return notices and by the FSA registration list. ^[Sources: https://blog.kraken.com/kraken-japan/%E6%9A%97%E5%8F%B7%E8%B3%87%E7%94%A3%E4%BA%A4%E6%8F%9B%E6%A5%AD%E7%99%BB%E9%8C%B2%E5%AE%8C%E4%BA%86%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B; https://blog.kraken.com/kraken-japan/launch-in-japan; https://blog.kraken.com/kraken-japan/%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%9A%97%E5%8F%B7%E8%B3%87%E7%94%A3%E4%BA%A4%E6%8F%9B%E6%A5%AD%E3%81%AE%E5%BB%83%E6%AD%A2%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B; https://blog.kraken.com/kraken-japan/20230124-2; https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx.]
 
 | Period | Event |
 |------|------|
@@ -61,29 +61,22 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 | 2018-04 | Kraken Global Blog announces suspension of services to Japan residents by 2018-06 , citing high costs and regulatory environment |
 | 2018-06 | 1 st phase service fully suspended. Japan resident accounts closed |
 | 2019–2020 | Japan re-entry preparation period. FSA registration application filed under Payward Asia name |
-| During 2020 年 | Payward Asia completes registration as crypto asset exchange operator at Kanto Local Finance Bureau. Joins JVCEA as Class 1 member |
-| 2020–2022 | 2 nd phase service operations. Retail spot provided for major tokens including BTC/ETH |
-| 2023-01 | Kraken headquarters formally announces withdrawal from Japan operations (background: crypto market downturn, global workforce reduction 30%, regulatory burden) |
-| 2023-04 | 2 rd phase service suspended, customer asset repatriation completed. FSA registration cancellation procedures carried out |
-| 2026-04 | FSA registration list snapshot confirms absence of Payward Asia (dormant status continues) |
+| 2020-09-08 | Payward Asia registered as a crypto-asset exchange operator under Kanto Local Finance Bureau No. 00022 |
+| 2020-09 | Began the second service period with XBT, ETH, XRP, BCH, and LTC |
+| 2022-12-28 | Announced closure, citing conditions in Japan and weakness in the global crypto market and prioritization of resources under its global strategy |
+| 2023-01-31 | Discontinued the Japanese crypto-asset exchange business and instructed customers on withdrawal or JPY conversion and statutory deposit procedures |
+| 2026-04-01 | Confirmed that Payward Asia was absent from the FSA registration-list snapshot |
 
 ## 7. Strategic developments
 
-The 2 nd-phase withdrawal (announced 2023-01 ) was driven by the following strategic factors at parent company Payward:
+The official closure notice said the decision reflected conditions surrounding the Japanese market and weakness in the global crypto market, which made the resources needed for further growth unjustified, together with a strategy of prioritizing investment in areas aligned with Kraken's global strategy. This entry does not add regulatory cost, US enforcement, or workforce reductions as direct causes.
 
-1. 2022 年 crypto market downturn and global cost reduction (workforce reduction 30%)
-2. Restrictions on foreign operators' listed tokens in the Japan market (JVCEA whitelist compliance required) and KYC/AML compliance costs
-3. Intensified SEC oversight in the US home market and strategic decision to concentrate on domestic market
-
-After withdrawal, Payward headquarters is advancing **NASDAQ listing preparations for 2025–2026 年**, and as of 2026-05  there is no public announcement of a further Japan re-entry. Foreign spot CEX operators accessible in the Japan market are limited to [[exchanges/jp-exchange-binance-japan|Binance Japan]] and [[exchanges/jp-exchange-bittrade|BitTrade]].
-
-**Industry positioning**: A representative example of the "foreign retail CEX withdrawal pattern" alongside [[exchanges/jp-exchange-coinbase-japan|Coinbase Japan]] (2023-02  withdrawal). The simultaneous withdrawal of both firms demonstrates that the JVCEA whitelist, FSA regulatory burden, and real-name account requirement (see [[exchanges/jvcea-self-regulatory-overview|JVCEA 自主規制]]) have become structural barriers to foreign operator entry. For comparative analysis see [[exchanges/jp-vasp-ma-consolidation-history|JP VASP M&A コンソリデーション史]].
+The case can be compared with [[exchanges/jp-exchange-coinbase-japan|Coinbase Japan]] as a foreign retail CEX exit, while keeping each company's stated reasons, legal entity, and closure date separate. See [[exchanges/jp-vasp-ma-consolidation-history|JP VASP M&A and consolidation history]].
 
 ## 8. Related individuals
 
 - **Jesse Powell**: Payward / Kraken founder, former CEO (resigned 2023-09 ). Made multiple communications about the Japan market during the 2018 年 1 st-phase withdrawal
-- **Dave Ripley**: Current Payward CEO (assumed office 2023-09 ). Top management at the time of the 2023 年 2 nd-phase withdrawal decision
-- Japan entity representative director: No public information (official website gone as of 2026-05 )
+- **Takeshi Chino**: Representative Director of Payward Asia named in the 2020 registration and launch notices.
 
 ## Related
 
@@ -99,8 +92,8 @@ After withdrawal, Payward headquarters is advancing **NASDAQ listing preparation
 
 ## Sources
 
-- Compiled from public information (Payward Inc. / Kraken Blog 2018-04  Suspension of Services to Japanese Residents)
-- Compiled from public information (FSA Kanto Local Finance Bureau crypto asset exchange operator registration list — Payward Asia cancellation confirmed, 令和8年4月1日 snapshot)
-- Compiled from public information (CoinPost / Kaso-tsuka Watch 2018年 Kraken Japan withdrawal coverage)
-- Compiled from public information (CoinPost 2020  Kraken re-entry coverage, 2023-01  withdrawal announcement coverage)
-- Compiled from public information (JVCEA member directory — Payward Asia absence confirmed, 2026-05)
+- [Kraken Blog: completion of crypto-asset exchange registration](https://blog.kraken.com/kraken-japan/%E6%9A%97%E5%8F%B7%E8%B3%87%E7%94%A3%E4%BA%A4%E6%8F%9B%E6%A5%AD%E7%99%BB%E9%8C%B2%E5%AE%8C%E4%BA%86%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B) (retrieved 2026-07-29)
+- [Kraken Blog: launch of services in Japan](https://blog.kraken.com/kraken-japan/launch-in-japan) (retrieved 2026-07-29)
+- [Kraken Blog: closure of the Japanese crypto-asset exchange business](https://blog.kraken.com/kraken-japan/%E6%97%A5%E6%9C%AC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%9A%97%E5%8F%B7%E8%B3%87%E7%94%A3%E4%BA%A4%E6%8F%9B%E6%A5%AD%E3%81%AE%E5%BB%83%E6%AD%A2%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B) (retrieved 2026-07-29)
+- [Kraken Blog: closure and return of assets](https://blog.kraken.com/kraken-japan/20230124-2) (retrieved 2026-07-29)
+- [FSA crypto-asset exchange operator registration list Excel](https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx) (snapshot dated 2026-04-01; retrieved 2026-07-29)

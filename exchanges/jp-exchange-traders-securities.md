@@ -6,9 +6,9 @@ aliases:
   - トレイダーズ証券株式会社
 domain: exchanges
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-06-24
-review_by: 2026-08-08
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
 confidence: likely
 tags:
   - fintech
@@ -53,7 +53,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 - 暗号資産デリバティブ取引（「みんなのコイン」「LIGHT FX コイン」）にて取扱い。同社ウェブサイト上のサービスページ（min-fx.jp）では BTC・ETH・XRP・LTC・BCH の主要5銘柄が言及されている。
 - 現物取扱なし。全取引がレバレッジ2倍上限の CFD（暗号資産証拠金取引）。
-- 銘柄数の公式明示なし（公表なし）。
+- 2026年5月18日に取得した公式サービスページで確認できる範囲を示しており、現在の対象は利用時点の公式画面を優先する。
 
 ## 4. 業務範囲
 
@@ -65,12 +65,11 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 ## 5. 市占・取引高
 
-- 口座数（FX 2ブランド合算）：667,900口座（2027年3月期 4月時点 = 2026-04 公表）
-- 預り資産（同）：133,611,648千円（≒1,336億円）（2026-04 公表）
-- 暗号資産 CFD 単独の口座数・取引高は公表なし。
-- 競合内ポジション：FX 中堅証券（みんなのFX は国内 FX 口座数トップ10圏内と推定されるが公式ランキング出典なし）。暗号資産デリバティブは同業13社のうち規模は中位と推定（公表なし）。同業他社には [[exchanges/jp-exchange-monex|マネックス証券]]、[[exchanges/jp-exchange-sbi-securities|SBI 証券]]、[[exchanges/jp-exchange-bi-fxtrade|SBI FXトレード]] があり、上場企業の対比は [[exchanges/jp-listed-cex-related-companies-matrix|JP 上場 CEX 関連企業マトリクス]] 参照。
+- 2026年4月公表の口座数・預り資産は FX 2 ブランド合算の時点値であり、暗号資産 CFD 単独の市場比較には使わない。2026年7月29日に確認した公式資料には暗号資産 CFD 単独の口座数・取引高が含まれないため、本項では市場順位や規模を推定しない。上場企業の対比は [[exchanges/jp-listed-cex-related-companies-matrix|JP 上場 CEX 関連企業マトリクス]] を参照。
 
 ## 6. 沿革・重大事件
+
+以下の表はトレイダーズ証券の公式会社概要・沿革、JVCEA 会員一覧、および「みんなのコイン」公式ページに基づく。親会社の上場市場と証券事業会社の法人沿革は区別する。 ^[Sources: https://traderssec.com/company/outline/; https://jvcea.or.jp/member/; https://min-fx.jp/lineup/coin/.]
 
 | 年月 | 事項 |
 |------|------|
@@ -86,7 +85,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 | 2022-01 | 暗号資産証拠金取引「みんなのコイン」「LIGHT FX コイン」開始 |
 | 2023-04 | 本社を恵比寿ガーデンプレイスタワー28階に移転 |
 
-- 行政処分・ハック・大規模システム障害：公表なし（取得日 2026-05-18 現在）
+- 上記の公式会社沿革・会員一覧・サービス資料を今回確認した範囲では、暗号資産 CFD に関する行政処分・ハック・大規模システム障害を示す記載は特定していない。これは不存在の断定ではない。
 
 ## 7. 戦略動向
 
@@ -100,7 +99,6 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - 代表取締役社長（CEO）：須山 剛（令和8年4月1日現在）
 - 取締役（CAO）：松山 彰
 - 取締役（CSO）：井口 喜雄
-- 創業者情報（1999年設立時）：公表なし
 
 ## Related
 
