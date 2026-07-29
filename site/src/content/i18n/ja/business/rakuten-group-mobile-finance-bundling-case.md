@@ -1,153 +1,128 @@
 ---
 source: business/rakuten-group-mobile-finance-bundling-case
-source_hash: 5169a5b3dc46e01a
+source_hash: 30361d37018866c8
 lang: ja
+model: qwen3-4b-instruct-2507-4bit-guarded-full-sync+manual-review
 status: machine
 fidelity: ok
-title: "楽天グループのモバイル・金融バンドリング事例 — カード／銀行／証券の利益によって交差補助される通信事業のキャッシュバーン"
-translated_at: 2026-06-18T15:47:13.953Z
+title: "楽天エコシステム事例 — FinTech業績、モバイル改善、計画中の銀行中心再編"
+translated_at: 2026-07-29T05:13:34.783Z
 ---
 
-# 楽天グループのモバイル・金融バンドリング事例 — カード／銀行／証券の利益によって交差補助される通信事業のキャッシュバーン
+# 楽天エコシステム事例 — FinTech業績、モバイル改善、計画中の銀行中心再編
 
-## Wiki ルート
+## ウィキルート
 
-本項目は上場企業の戦略事例として [[business/INDEX|business INDEX]] の下に位置する。通信事業が金融を補助するという逆方向の対比パターンについては [[business/ntt-docomo-d-point-telco-finance-case|NTT Docomo d-Point telco-finance case]] と対照し、インターネットから金融へと展開するコングロマリットの類似例については [[business/gmo-internet-group|GMO Internet Group]] と、対照的な独立系金融グループの道筋については [[business/kitao-yoshitaka-sbi-independent-strategy-case|Kitao Yoshitaka SBI independent strategy]] と読み合わせること。対象主体のカバレッジについては [[business/INDEX|business INDEX]] と併せて参照。
+この項目は[[business/INDEX|business INDEX]]の下にあります。[[payment-firms/rakuten-fg|Rakuten FinTech]]、[[business/mizuho-rakuten-finance-stake-accumulation-case|Mizuho × Rakuten strategic stakes]]、[[banking/rakuten-bank|Rakuten Bank]]、および[[business/ntt-docomo-d-point-telco-finance-case|NTT DOCOMO finance integration case]]と共に読むことになります。
 
-## 要旨
+## TL;DR
 
-楽天グループ（東証 4755）は、**収益性のある金融子会社が深刻な赤字のモバイル網運営事業を交差補助する**コングロマリットとして運営されている。中核となるエンジン——[[card-issuers/rakuten-card|Rakuten Card]]（取扱高で日本最大のクレジットカード発行会社）、[[banking/rakuten-bank|Rakuten Bank]]（日本最大のインターネット銀行、2023-04 に上場）、[[securities-firms/rakuten-securities|Rakuten Securities]]（トップ3 のオンライン証券）、および楽天保険／楽天 Edy——が、楽天モバイルの網展開に充てる営業キャッシュを生み出している（2019 以降の累積損失は ¥1 兆円超と推定）。
+楽天は共通の会員・ポイント基盤を軸に、インターネットサービス、FinTech、モバイルを組み合わせている。FY2025決算では、FinTechセグメントが売上高¥975.9 billion、Non-GAAP営業利益¥199.9 billionを計上する一方、モバイルセグメントはNon-GAAP営業損失¥161.8 billionだった。ただし、「FinTechがモバイルの損失を1円単位ですべて直接補填した」ことは開示されたキャッシュフロー上の事実ではない。グループ財務、資金調達、セグメント間取引、設備投資も考慮する必要がある。^[Source: https://global.rakuten.com/corp/news/press/2026/0212_01.html.]
 
-2023-2025 の資本再構成の動き——楽天銀行の上場、楽天証券のみずほへの一部売却、複数のストレート／転換社債の発行——は、モバイル／EC／決済／金融のスーパーアプリが単独の競合には得られないネットワーク効果を複合できるというコングロマリットの論理をなおも維持しようとしながら、スローモーションで負債削減を進める親会社の姿を浮き彫りにする。
+2025年には状況も大きく変わった。楽天モバイルは初めて通期EBITDA黒字を達成したが、Non-GAAP営業利益ベースではなお赤字だった。2026年5月、楽天グループと楽天銀行は、株式交付により楽天カードと楽天証券ホールディングスを楽天銀行傘下に置く確定契約を締結した。効力発生日は2026-10-01の予定だが、承認その他の条件を前提とする。^[Sources: https://global.rakuten.com/corp/news/press/2026/0212_01.html; https://global.rakuten.com/corp/news/press/2026/0520_11.html.]
 
-## 1. グループ構成
+## 1. FY2025 証拠スナップショット
 
-| セグメント | 代表的主体 | 利益スタンス（2024-2025） |
+以下の表は楽天のFY2025決算を用い、会社による指標の定義を維持する。EBITDA、Non-GAAP営業利益、IFRS営業利益は相互に置き換えられない。^[Source: https://global.rakuten.com/corp/news/press/2026/0212_01.html.]
+
+| 指標 | FY2025実績 | 読解上の限界 |
+|---|---:|---|
+| 連結収益 | ¥2.5 trillion | 結果のハイライトで四捨五入された値 |
+| 連結IFRS営業利益 | ¥14.4 billion | この指標で2年連続で黒字となった年 |
+| 連結Non-GAAP営業利益 | ¥106.3 billion | 経営陣定義の指標、前年比¥99.2 billion改善 |
+| FinTech収益 | ¥975.9 billion | セグメント収益、前年比19.0%増 |
+| FinTech非GAAP営業利益 | ¥199.9 billion | セグメント指標、前年比30.3%増 |
+| モバイルセグメント収益 | ¥482.8 billion | セグメント範囲はRakuten Mobile Inc.だけとは異なる |
+| モバイルセグメント非GAAP営業損失 | ¥161.8 billion | 前年比¥47.1 billion改善 |
+| モバイルセグメントEBITDA | ¥28.8 billion | セグメントとして初の通期EBITDA黒字 |
+| Rakuten Mobile Inc.契約回線数 | 10.01 million（2025-12末） | 楽天の定義に基づきMNO、MVNE、MVNO、BCP回線を含む |
+
+これらの数字は、グループレベルの損益の差異を示すものであり、特定のカードまたは銀行傘下会社から特定のモバイルインボイスへの現金の直接的追跡とはならない。
+
+## 2. FinTech運営スタック
+
+この表は楽天のFY2025決算と2026年5月の再編開示に基づき、事業上の役割、公表KPI、所有上の境界を分けている。^[Sources: https://global.rakuten.com/corp/news/press/2026/0212_01.html; https://global.rakuten.com/corp/news/press/2026/0520_11.html.]
+
+| 事業 | FY2025 / 2026年の公表指標 | 所有・再編上の境界 |
 |---|---|---|
-| インターネットサービス | 楽天市場（EC）、楽天トラベル | 収益性あり、成熟した成長 |
-| モバイル | 楽天モバイル（RMK）、楽天シンフォニー | 重い営業赤字、インフラ設備投資 |
-| 金融 | [[card-issuers/rakuten-card|Rakuten Card]]、[[banking/rakuten-bank|Rakuten Bank]]、[[securities-firms/rakuten-securities|Rakuten Securities]]、楽天ペイ | 高い収益性；成長＋クロスセルのエンジン |
-| 保険 | 楽天生命、楽天損害保険、楽天保険 HD | わずかに黒字 |
-| ロイヤルティ | 楽天ポイント（約 120 百万会員） | セグメント横断の接着剤 |
+| [[card-issuers/rakuten-card|Rakuten Card]] | FY2025ショッピングGTV ¥26.5 trillion | 2026年10月の株式交付により楽天銀行子会社となる計画 |
+| [[banking/rakuten-bank|Rakuten Bank]] | 2025-12末時点で単体口座17.63 million、預金¥13.2 trillion | 東証上場；再編後のカード・証券持株事業の親会社となる計画 |
+| [[securities-firms/rakuten-securities|Rakuten Securities]] | 2025-12末時点で総合証券口座13.26 million超 | 楽天証券ホールディングス側51%、みずほ証券49% |
+| Rakuten Payment | ¥9.5 billion FY2025 非GAAP営業利益 | 銀行中心の株式交付の外、Rakutenグループ内に留まる予定 |
+| 楽天インシュアランスホールディングス／楽天ウォレット | 発表された再編範囲の対象外 | 楽天グループが100%保有を継続する計画 |
 
-構造的なパターン：金融セグメントの利益がモバイルセグメントの損失を賄い、親会社の株式が増資を通じてタイミングの橋渡しを提供する。
+したがって「すべてが楽天銀行傘下へ移る」構造ではない。楽天ペイメント、保険、ウォレット事業は、2026年5月の計画で明確に除外されている。
 
-## 2. モバイルのキャッシュバーン — 交差補助の制約
+## 3. 過大解釈を避けたモバイル経済
 
-楽天モバイルは 2019-2020 に第 4 番目のキャリアとして日本の MNO 市場に参入し、ソフトウェア仮想化されたコア（Open RAN）を用いて自前の 4G／5G 網をゼロから構築した。これには以下が必要であった：
+楽天のFY2025開示は、改善と残存リスクの両方を示す。
 
-- 基地局展開にわたる数兆円規模の設備投資
-- 顧客獲得コスト（無料プランのプロモーション価格）
-- 加入者基盤が 5-6 百万ユーザー（楽天の開示による損益分岐規模の推定値）を下回る間の営業損失
+- Rakuten Mobile Inc.のEBITDAは¥12.9 billion、モバイルセグメントは¥28.8 billionに達した。
+- Rakuten Mobile Inc.はなお¥166.0 billionのNon-GAAP営業損失を計上し、モバイルセグメントの損失は¥161.8 billionだった。
+- 会社は2026年償還債の資金を確保済みとし、2026年以降はRakuten Mobileを主に自己資金で賄う方針を説明した。
 
-2024-2025, までに楽天モバイルは約 7-8 百万回線に達したが、依然として赤字であった。2019  以降のモバイルセグメントの累積損失は、¥1 兆円超と広く推定されている。
+これらの事実が、旧ページの支持のない累計損失、損益分岐株主数の閾値および自動「相互補填」メカニズムに関する推定を置き換えます。^[Sources: https://global.rakuten.com/corp/news/press/2026/0212_01.html; https://global.rakuten.com/corp/news/press/2026/0514_01.html.]
 
-## 3. 金融の利益エンジン
+## 4. 資本および組織のタイムライン
 
-| 子会社 | 役割 | 交差補助への寄与 |
+以下のタイムライン表は、実施済みの資本取引とスケジュールされたFinTechの再編を区別しています。^[Sources: https://global.rakuten.com/corp/news/press/2023/0322_01.html; https://global.rakuten.com/corp/news/press/2022/1101_01.html; https://global.rakuten.com/corp/news/assets/pdf/press/20231109_08_E.pdf; https://global.rakuten.com/corp/news/assets/pdf/press/20241113_12_E.pdf; https://global.rakuten.com/corp/news/press/2026/0520_11.html.]
+
+| 日付 | 動作 | 状態／効果 |
 |---|---|---|
-| **[[card-issuers/rakuten-card|Rakuten Card]]** | 日本における取扱高で第 1  位の発行会社 | 加盟店インターチェンジ＋リボ払い金利＋楽天ポイントのエンジン；年間取扱高 >¥20 兆円と推定 |
-| **[[banking/rakuten-bank|Rakuten Bank]]** | 第 1  位のインターネット銀行、2023-04 に上場（東証 5838） | 資金利益、手数料収入；上場時の一部売却で現金を調達 |
-| **[[securities-firms/rakuten-securities|Rakuten Securities]]** | トップ3 のオンライン証券（SBI、松井との比較） | 委託手数料、信用取引貸付；みずほへの一部売却 |
-| 楽天ペイ／楽天 Edy | QR コード＋プリペイド電子マネー | キャッシュレス・エコシステムの連携、[[payments/cashless-jp-landscape|cashless landscape]] を参照 |
-| 楽天保険 HD | 生命＋損害 | より小さな交差補助への寄与 |
+| 2022-11-01 | 楽天証券株式をみずほ証券へ当初譲渡 | 完了；議決権19.99% |
+| 2023-04-21 | 楽天銀行の上場 | TSEプライム上場完了；楽天グループが支配を維持 |
+| 2023-12 (契約文書に基づく) | 楽天証券株式を追加譲渡 | みずほの持分が49%へ上昇し、楽天側は51%を維持 |
+| 2024-11-13 | 楽天カード／みずほ資本提携を発表 | 14.99%を譲渡し、楽天カードは連結子会社にとどまる |
+| 2026-05-20 | 銀行中心型FinTech再編に関する最終合意書 | 署名完了 |
+| 2026-10-01 | 株式交付の効力発生日 | 予定かつ条件付き；本レビュー時点では未完了 |
 
-経済的なフライホイール：EC がカード取引を駆動 → カード取引がポイント発行を駆動 → ポイントによる囲い込みが銀行預金の獲得＋証券口座の開設を駆動 → これらすべてがモバイルに資金を充てる手数料／金利の利益を生み出す。
+## 5. 計画中の銀行中心構造
 
-## 4. 2023-2025 の資本再構成の動き
+発表どおり取引が効力を生じれば、楽天銀行は楽天カードと楽天証券ホールディングスの直接の親会社となる。みずほ銀行は楽天銀行の議決権10.52%を取得する計画で、みずほ証券は楽天証券の49%を引き続き保有する見込みである。楽天グループの予定議決権比率は49.95%で、これとは別に無議決権A種株式も保有する。^[Source: https://global.rakuten.com/corp/news/press/2026/0520_11.html.]
 
-| 日付 | 措置 | 目的 |
-|---|---|---|
-| 2023-04 | 楽天銀行の上場（東証 5838） | 現金調達、株式価値の顕在化、支配権の維持 |
-| 2023-Q4 | 楽天証券のみずほへの一部売却（約 19.99%） | みずほの戦略的持分＋親会社への現金 |
-| 2024-Q1 | 複数の社債発行（ストレート＋転換） | 社債の満期の壁の借換え |
-| 2024 | 楽天シンフォニー（5G ソフトウェアベンダー）の外部顧客獲得 | 楽天の外部で技術スタックを収益化 |
-| 2024-2025 | 楽天カードの債務発行／証券化 | 運転資本の最適化 |
-| 2025 | 継続的なモバイル加入者の増加、モバイル損失の縮小（ただし依然マイナス） | 損益分岐への接近 |
+この構造は少なくとも4つの異なる基準で読む必要がある。
 
-各資本再構成は、交差補助の連鎖を断ち切ることなく、コングロマリットを純損失から純黒字へと転換させる方向へさらに前進させる。
+1. 普通株式所有権；
+2. 無議決権A種株式；
+3. 議決権比率；
+4. 会計上の支配。
 
-## 5. 交差補助パターンの比較
+これらを単一の「楽天がX%を所有」という数字にまとめるのは誤解を招く。
 
-| グループ | 交差補助の方向 | フローの例 |
-|---|---|---|
-| **楽天** | 金融 → モバイル（本事例） | カード／銀行／証券の利益がモバイルの損失を埋める |
-| **NTT ドコモ** | 通信 → 金融（次項目） | モバイル加入者基盤が d-Point／d-Card／d-Barai の成長を駆動、[[business/ntt-docomo-d-point-telco-finance-case|d-Point case]] を参照 |
-| **KDDI／au** | 通信 → 金融 | au PAY／au じぶん銀行／au 保険がモバイルプランにバンドルされる |
-| **ソフトバンク／PayPay** | 通信＋資本 → 金融 | [[megabanks/paypay-fg|PayPay FG]] がソフトバンクの後ろ盾を得る、[[megabanks/paypay-fg|PayPay FG]] を参照 |
-| **GMO インターネットグループ** | インターネットインフラ → 金融 | [[business/gmo-internet-group|GMO Internet Group]] の決済／銀行／FX がインターネット基盤の上に積層される |
-| **SBI ホールディングス** | 独立戦略 | [[business/kitao-yoshitaka-sbi-independent-strategy-case|Kitao Yoshitaka SBI]] —— コングロマリットの交差補助なし、金融の純粋専業 |
+## 6. 戦略的解釈
 
-楽天は補助の方向において独特である：金融の利益が赤字の通信ユニットを補助しており、これは世界の大半のスーパーアプリ構造とは逆である。
+公表された狙いは、銀行・カード・証券間の連携深化、意思決定の迅速化、銀行の預金調達力の活用である。銀行中心の構造が資本配分を改善し、FinTechグループの資金調達や評価を容易にする可能性は、合理的な投資家の推論ではある。ただし、クロージング後の財務開示で実際の資金調達、コスト、クロスセル効果が示されるまでは推論にとどまる。
 
-## 6. 交差補助が持続する理由
+同様に、モバイルとFinTechの統合は顧客獲得コストを下げ、サービス横断利用を増やす可能性がある。ただし決算発表だけでは、顧客ごとの因果関係も、ポイント経済だけでモバイル投資のすべてを正当化できることも証明しない。
 
-1. **ネットワーク効果の論拠** —— モバイル＋EC＋カード＋銀行＋証券＋旅行＋保険＋ポイントを単一 ID 上に集約することで、単独の競合には得られない複合効果が可能になる。（実証的な証拠はまちまち。）
-2. **埋没した設備投資** —— モバイル網の構築コストは大部分が埋没費用であり、撤退すれば資産の評価減と資本規律の欠如のシグナルを招く
-3. **ロイヤルティ／ブランドの結束** —— サービス横断の単一通貨としての楽天ポイントがユーザーを結びつける；モバイルはポイントのエンゲージメントを駆動する「常時稼働」のサービスである
-4. **創業者のコミットメント** —— 三木谷浩史（CEO／創業者）はモバイルの成功に向けて複数年にわたり公的にコミットしている
-5. **オプショナリティ** —— モバイルが損益分岐に加えて利益に到達すれば、連結実体のバリュエーション倍率は大幅に拡大する
+## 7. モニタリングポイント
 
-## 7. 交差補助モデルへのリスク
-
-- **金融子会社のキャッシュフローの混乱** —— カード／銀行／証券への規制上または競争上のショック（例えば金融庁による自己資本規制の強化——[[exchanges/fsa-vasp-registration-system|FSA reach]] テンプレートを参照）が資金供給の連鎖を断ち切りうる
-- **社債の満期の壁** —— 金利が高止まりする場合の親会社レベルの債務の借換えリスク
-- **モバイルの競争** —— ドコモ／KDDI／ソフトバンクが優れたカバレッジを有する；楽天モバイルはローミング協定の経済性に依存する
-- **クロスデフォルトのシナリオ** —— モバイルがさらに不振となれば、グループ全体の社債コベナンツが発動しうる
-- **強制的な事業売却** —— 資本再構成の動きが続けば、金融子会社が段階的に売却され（証券 → みずほは既に発生）、コングロマリットが空洞化する可能性がある
-
-## 8. 比較：楽天銀行の上場 vs その他のカーブアウト
-
-| 案件 | ビークル | 親会社の保有継続 | 税務上の取扱い |
-|---|---|---|---|
-| **楽天銀行 2023** | 上場による一部売出し | 上場後約 63%（ロックアップの段階的解除） | 売却部分のキャピタルゲイン |
-| [[business/sony-fg-partial-spinoff-case|Sony FG 2025 (planned)]] | パーシャルスピンオフ（株式分配） | <20% | [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|partial-spinoff regime]] の下で繰延 |
-| [[business/softbank-vision-fund-arm-ipo-template|Arm 2023]] | 上場による一部売出し | 約 90% | 売却部分のキャピタルゲイン |
-
-楽天がパーシャルスピンオフではなく上場を選んだのは、現金調達が単なるバリュエーションの顕在化ではなく、親会社の資本再構成のニーズの中心であったためである。完全なオプションの集合については [[corporate-strategy/spinoff-decision-tree-japan|spinoff decision tree Japan]] を参照。
-
-## 9. 反論
-
-- 「スーパーアプリ」の論拠は主張されてはいるが、この規模のモバイル損失を正当化するのに必要な水準では実証的に確立されていない
-- 金融子会社の売却（銀行の上場、証券の一部売却）は、時間の経過とともに交差補助のエンジンを段階的に弱める
-- モバイルの損益分岐規模は繰り返し後ろ倒しされてきた——6 百万加入者で予測されていたものが 7-8 百万となり、さらに増えた
-- 金融子会社における競争上の堀はポイントと EC のトラフィックに依存する；単独でのバリュエーションはより低くなる
-- 創業者兼 CEO の体制固定化が、合理的にモバイルを打ち切る能力を制約する
-
-## 10. 未解決の論点
-
-- 楽天モバイルはいつ営業損益分岐に到達するのか、そもそも到達するのか？
-- 親会社は最終的にモバイルを事業売却（NTT／KDDI／ソフトバンクへの売却）し、この賭けが失敗したと認めざるを得なくなるのか？
-- 段階的な金融子会社の上場／一部売却の動きは、[[securities-firms/rakuten-securities|Rakuten Securities]] におけるみずほの戦略的地位にどう影響するのか？
-- 主要セグメントのいずれかが売却された場合、ポイントのロイヤルティ・エンジンはセグメント横断の接着作用を維持できるのか？
-- 親会社レベルの信用ストレスを踏まえ、金融庁はカード／銀行の自己資本充実度への規制上の精査を強めるのか？
+- 2026年10月の効力発生日と、規制・証券登録に関する全条件を確認する。
+- クロージング後の議決権、無議決権株式、会計上の支配を照合する。
+- FinTechの現金生成額を、実際の母会社配当およびグループ融資、単にセグメント営業利益だけにとどまらず比較する。
+- モバイル部門のEBITDA、営業収益、資本支出、自由キャッシュフローを別々に追跡する。
+- どんな「統合型FinTech」図面においても、Rakuten Payment、保険、ウォレットの除外を明確に表示する。
 
 ## 関連
 
 - [[business/INDEX|business INDEX]]
-- [[business/ntt-docomo-d-point-telco-finance-case|NTT Docomo d-Point telco-finance case]]
-- [[business/gmo-internet-group|GMO Internet Group]]
-- [[business/kitao-yoshitaka-sbi-independent-strategy-case|Kitao Yoshitaka SBI independent strategy]]
-- [[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]]
-- [[business/softbank-vision-fund-arm-ipo-template|SoftBank Vision Fund Arm IPO template]]
-- [[payment-firms/rakuten-fg|Rakuten FG]]
-- [[card-issuers/rakuten-card|Rakuten Card]]
+- [[business/mizuho-rakuten-finance-stake-accumulation-case|Mizuho × Rakuten strategic stakes]]
+- [[payment-firms/rakuten-fg|Rakuten FinTech]]
 - [[banking/rakuten-bank|Rakuten Bank]]
+- [[card-issuers/rakuten-card|Rakuten Card]]
 - [[securities-firms/rakuten-securities|Rakuten Securities]]
-- [[megabanks/paypay-fg|PayPay FG]]
-- [[payments/cashless-jp-landscape|Japan cashless payment landscape]]
-- [[corporate-strategy/spinoff-decision-tree-japan|spinoff decision tree Japan]]
+- [[business/ntt-docomo-d-point-telco-finance-case|NTT DOCOMO finance integration case]]
+- [[business/kddi-au-financial-bundling-case|KDDI / au finance case]]
 - [[INDEX|FinWiki index]]
 
 ## 出典
 
-- 楽天グループ コーポレート戦略：https://corp.rakuten.co.jp/about/strategy/
-- 楽天グループ IR：https://global.rakuten.com/corp/investors/
-- 楽天モバイル ネットワークサイト：https://network.mobile.rakuten.co.jp/en/
-- 楽天グループ プレスリリース：https://global.rakuten.com/corp/news/press/
-- 金融庁 英語ポータル：https://www.fsa.go.jp/en/
+- Rakuten Group FY2025 results highlights (2026-02-12): https://global.rakuten.com/corp/news/press/2026/0212_01.html
+- Rakuten Group Q1 FY2026 results highlights (2026-05-14): https://global.rakuten.com/corp/news/press/2026/0514_01.html
+- Rakuten, definitive FinTech reorganization agreement (2026-05-20): https://global.rakuten.com/corp/news/press/2026/0520_11.html
+- Rakuten Bank listing approval announcement (2023-03-22): https://global.rakuten.com/corp/news/press/2023/0322_01.html
 
 ---
 
-> [!info] 校核状态
-> confidence: **likely**。コングロマリットの構造、セグメント業績、資本再構成の動きは、楽天グループの IR 資料および金融庁／東証への届出において公開されている。前向きの交差補助の持続可能性は、本質的に予測である。
+> [!info] Verification status
+> confidence: **certain** for FY2025 metrics and announced transaction terms. The October 2026 reorganization remains scheduled and conditional. Unsupported cumulative-loss, break-even and direct cross-subsidy claims were removed.

@@ -1,146 +1,112 @@
 ---
 source: business/softbank-paypay-financial-integration-case
-source_hash: 6655ad3910555606
+source_hash: 879466b2c70bf31a
 lang: en
+model: source-language-sync
 status: machine
 fidelity: ok
-title: "SoftBank / PayPay financial integration case — super-app folds card / bank / securities under PayPay, then files for a US listing"
-translated_at: 2026-06-15T03:48:21.850Z
+title: "SoftBank / PayPay financial integration case — finance subsidiaries, Nasdaq listing, and LINE account linkage"
+translated_at: 2026-07-29T05:13:34.783Z
 ---
 
-# SoftBank / PayPay financial integration case — super-app folds card / bank / securities under PayPay, then files for a US listing
+# SoftBank / PayPay financial integration case — finance subsidiaries, Nasdaq listing, and LINE account linkage
 
 ## Wiki route
 
-This entry sits under [[business/INDEX|business INDEX]] as a public-company strategic case. Read it against [[business/kddi-au-financial-bundling-case|KDDI au financial bundling case]] for the contrasting "own the bank, hand securities to the megabank" division of labour, [[business/ntt-docomo-d-point-telco-finance-case|NTT Docomo d-Point telco-finance case]] for the partner-led-bank model, and [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]] for the other super-app that owns every finance vertical. For entity profiles see [[megabanks/paypay-fg|PayPay (financial group)]], [[card-issuers/paypay-card|PayPay Card]], and [[securities-firms/paypay-securities|PayPay Securities]]. Pair with [[business/INDEX|business INDEX]], [[payments/cashless-jp-landscape|Japan cashless payment landscape]], and [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|SoftBank / Yahoo / PayPay points ecosystem]].
+This entry sits under [[business/INDEX|business INDEX]] as a public-company strategic case. Read it with [[megabanks/paypay-fg|PayPay finance ecosystem]] for the current entity and KPI profile, [[business/kddi-au-financial-bundling-case|KDDI / au financial bundling case]], [[business/ntt-docomo-d-point-telco-finance-case|NTT DOCOMO finance integration case]], and [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]].
 
 ## TL;DR
 
-PayPay — Japan's largest QR-code payment app (~72mn registered users as of December 2025) and a consolidated subsidiary of [[megabanks/paypay-fg|SoftBank]] (with [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|LY Corporation]] holding a minority) — has spent 2022-2026 folding the SoftBank group's consumer-finance verticals **into the payment app itself**. PayPay made [[card-issuers/paypay-card|PayPay Card]] a wholly-owned subsidiary in 2022, took majority control of PayPay Bank and [[securities-firms/paypay-securities|PayPay Securities]] in April 2025, and is absorbing LINE Pay (the largest domestic QR-payment rival) with completion targeted for March 2026.
+PayPay combined a high-frequency payment app with adjacent card, bank and securities companies, then completed a Nasdaq listing on **2026-03-12** under ticker `PAYP`. After the IPO, SoftBank and its group companies retained 62.2% of voting rights and 40.8% of the economic interest, and PayPay remained a SoftBank consolidated subsidiary. PayPay reported 74 million registered users in July 2026. ^[Sources: https://about.paypay.ne.jp/en/pr/20260312/01/; https://www.softbank.jp/en/corp/set/data/ir/documents/presentations/fy2025/investors/pdf/sbkk_investors_presentation_20260511_en.pdf; https://about.paypay.ne.jp/en/pr/20260702/01/.]
 
-The capstone strategic move is a **US listing**: SoftBank confidentially filed in 2025 to list PayPay shares on the Nasdaq Global Select Market (intended ticker PAYP), with SoftBank stating it will retain majority control after the offering. The architectural insight: rather than spreading finance across separate group companies (KDDI's holding-company route) or cross-subsidising a loss-making telco (Rakuten's route), SoftBank consolidates **every consumer-finance vertical under one high-frequency payment super-app** and crystallises its value through a public listing.
+The earlier version incorrectly said PayPay would absorb LINE Pay in March 2026. LY Corporation instead ended LINE Pay's Japanese service on 2025-04-30, with an optional balance-transfer path; it explicitly said LINE Pay's overseas services were outside that termination. In July 2026, PayPay and LY announced phased account linkage between LINE and PayPay. ^[Sources: https://www.lycorp.co.jp/en/news/release/008632/; https://about.paypay.ne.jp/en/pr/20260702/01/.]
 
-## 1. PayPay Finance Stack
+## 1. Finance perimeter
 
-| Vertical | Entity | Consolidation step |
+The legal entities remain separately licensed businesses. “PayPay financial group” on this wiki is an analytical description, not the name of a statutory financial holding company. The current group-company list and SoftBank disclosure support the following map. ^[Sources: https://about.paypay.ne.jp/en/about/; https://www.softbank.jp/en/corp/set/data/ir/documents/presentations/fy2025/investors/pdf/sbkk_investors_presentation_20260511_en.pdf.]
+
+| Layer | Entity | Verified position |
 |---|---|---|
-| Payments | PayPay app (QR + e-money) | Core; ~72mn registered users (Dec 2025) |
-| Card | [[card-issuers/paypay-card|PayPay Card]] | Wholly-owned subsidiary of PayPay since 2022 |
-| Bank | PayPay Bank | Majority voting rights moved to PayPay in April 2025 |
-| Securities | [[securities-firms/paypay-securities|PayPay Securities]] | Majority voting rights moved to PayPay in April 2025 |
-| Insurance | PayPay Insurance distribution | App-embedded distribution |
-| Loyalty | PayPay Points | Unified with the SoftBank / Yahoo ecosystem — see [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|points ecosystem]] |
+| Payments | PayPay Corporation | Nasdaq-listed payment company and SoftBank consolidated subsidiary |
+| Card | [[card-issuers/paypay-card|PayPay Card]] | PayPay group company; SoftBank FY2025 disclosure reports 100.0% group voting interest |
+| Bank | PayPay Bank | PayPay subsidiary from 2025-04-11; PayPay's announcement reported 75.53% ownership after conversion of preferred shares, with SMBC at 21.54% |
+| Securities | [[securities-firms/paypay-securities|PayPay Securities]] | PayPay announced completion of the transaction making it a subsidiary effective 2025-04-01 |
+| Other group companies | PayPay SC, PayPay India, Credit Engine | Listed on PayPay's official company profile; their services and regulatory boundaries differ |
 
-The pattern: one payment app becomes the front door, and card, bank, securities, and insurance are pulled inside it as subsidiaries rather than left as sibling group companies.
+## 2. Verified timeline
 
-## 2. The Consolidation Timeline
+The following timeline table uses PayPay, LY Corporation and SoftBank primary disclosures; it separates completed transactions from later service integration. ^[Sources: https://about.paypay.ne.jp/en/pr/20250210/01/; https://about.paypay.ne.jp/en/pr/20250414/01/; https://www.lycorp.co.jp/en/news/release/008632/; https://about.paypay.ne.jp/en/pr/20260312/01/; https://about.paypay.ne.jp/en/pr/20260702/01/.]
 
-| Date | Step |
-|---|---|
-| 2022 | PayPay makes [[card-issuers/paypay-card|PayPay Card]] a wholly-owned subsidiary |
-| April 2025 | PayPay acquires majority voting rights in PayPay Bank and [[securities-firms/paypay-securities|PayPay Securities]] |
-| 2025 (announced) | SoftBank confidentially files to list PayPay as ADRs on Nasdaq (intended ticker PAYP); SoftBank to retain majority |
-| March 2026 (target) | Absorption-type merger with LINE Pay completes, removing the largest domestic QR-payment rival |
-
-Each step moves a finance vertical inside the PayPay perimeter, and the listing converts the consolidated super-app into a separately traded security while SoftBank keeps control.
-
-## 3. Super-App Consolidation Pattern
-
-PayPay illustrates **consolidate-then-list** super-app economics:
-
-| Lever | Why folding it into the app matters |
-|---|---|
-| Single app identity | One PayPay account routes the user into card, bank, securities, and insurance without re-onboarding |
-| High-frequency payments | Daily QR payments keep the app open; finance products ride that engagement |
-| Points engine | PayPay Points across SoftBank / Yahoo / PayPay binds users — see [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|points ecosystem]] |
-| Rival absorption | LINE Pay merger removes the main competing QR wallet, deepening the near-monopoly in QR payments |
-| Listing currency | A public listing crystallises value and provides acquisition / incentive currency while SoftBank retains control |
-
-The app is the distribution layer; the finance verticals are subsidiaries plugged into it; the listing is the value-crystallisation event.
-
-## 4. Comparison Matrix — Telco / Super-App Finance Models In Japan
-
-| Group | Front door | Card | Bank | Securities | Pattern |
-|---|---|---|---|---|---|
-| **SoftBank / PayPay** (this case) | PayPay app | [[card-issuers/paypay-card|PayPay Card]] — owned | PayPay Bank — owned | [[securities-firms/paypay-securities|PayPay Securities]] — owned | Consolidate all verticals under the app, then list |
-| **KDDI / au** | au ID / au PAY | au PAY Card — owned | [[regional-banks/au-jibun-bank|au Jibun Bank]] — owned | au Kabucom — **handed to MUFG** | Own bank + payments, partner out securities — see [[business/kddi-au-financial-bundling-case|KDDI case]] |
-| **NTT Docomo** | d-Point / d-Barai | d-Card — owned | Partner ([[megabanks/smfg|SMBC]]) | Limited build | Partner-led bank layer — see [[business/ntt-docomo-d-point-telco-finance-case|Docomo case]] |
-| **Rakuten** | Rakuten ID / Points | Rakuten Card — owned | [[payment-firms/rakuten-fg|Rakuten Bank]] — owned | Rakuten Securities — owned (partial Mizuho sale) | Finance subsidises loss-making mobile — see [[business/rakuten-group-mobile-finance-bundling-case|Rakuten case]] |
-
-SoftBank's distinction: it consolidates the finance verticals **inside the payment app** (not a separate financial holding company) and then pursues a **standalone US listing** of that super-app, whereas KDDI and Rakuten keep finance under group holding structures.
-
-## 5. Strategic Rationale
-
-For **SoftBank Group**:
-
-- A separately listed PayPay crystallises the value of the consumer-finance flywheel while SoftBank keeps majority control
-- A US (Nasdaq) listing taps a deeper investor pool and a fintech-friendly valuation environment than a domestic-only float
-- Folding card / bank / securities into PayPay simplifies the group's consumer-finance lines into one investable story
-
-For **PayPay**:
-
-- Owning the finance verticals lets the app cross-sell credit, deposits, investing, and insurance off a single high-frequency relationship
-- The LINE Pay absorption removes the main QR-payment rival, strengthening the distribution moat
-- A listing provides growth capital and an acquisition / incentive currency
-
-For **users and LY Corporation**:
-
-- One PayPay account spans payments, card, bank, securities, insurance, and points
-- LY Corp retains a minority economic interest in the consolidated super-app
-
-## 6. Read-Across To Other Super-App Strategies
-
-The PayPay case is a template for **payment-app-led finance consolidation**:
-
-| Candidate | Front door | Consolidation potential |
+| Date | Event | What it did not mean |
 |---|---|---|
-| Rakuten | Rakuten ID + Points | Already owns the verticals but under a group holding, not one app — see [[business/rakuten-group-mobile-finance-bundling-case|Rakuten case]] |
-| KDDI / au | au PAY + au ID | Bundled under au-FH holding; securities handed to MUFG — see [[business/kddi-au-financial-bundling-case|KDDI case]] |
-| Docomo | d-Barai + d-Point | Partner-led bank layer; could deepen but currently channel-only — see [[business/ntt-docomo-d-point-telco-finance-case|Docomo case]] |
-| GMO Internet | (no mobile) | Internet-infra-led finance, not app-led — see [[business/gmo-internet-group|GMO Internet Group]] |
+| 2025-04-01 | PayPay Securities became a PayPay subsidiary | It did not merge the securities licence into the payment company |
+| 2025-04-11 | PayPay Bank became a PayPay subsidiary | SMBC retained a disclosed minority position |
+| 2025-04-30 | LINE Pay's Japanese service ended | This was not a transfer or absorption of the Japanese LINE Pay business by PayPay |
+| 2026-03-11 (US time) | PayPay priced 54,987,214 ADS at US$16 each | The total combined 31,054,254 newly issued ADS and 23,932,960 ADS sold by the selling shareholder |
+| 2026-03-12 | Trading began on Nasdaq Global Select Market under `PAYP` | SoftBank did not relinquish control |
+| 2026-07-02 | PayPay and LY announced phased LINE / PayPay account linkage | The announcement described staged future functions, not a completed merger of the two services |
 
-The pattern most likely to replicate elsewhere: a dominant payment app that absorbs adjacent finance verticals as subsidiaries and then seeks a separate listing while the parent retains control.
+## 3. What the IPO established
 
-## 7. Counterpoints
+PayPay's pricing announcement states that 31,054,254 ADS were offered by PayPay and 23,932,960 ADS by SVF II Piranha (DE) LLC, for 54,987,214 ADS in total, before any over-allotment exercise. SoftBank's FY2025 results subsequently confirmed that PayPay remained consolidated. These are different economic flows: the primary shares raise capital for PayPay, while the secondary shares monetize part of the selling shareholder's stake. ^[Sources: https://about.paypay.ne.jp/en/pr/20260312/01/; https://www.softbank.jp/en/corp/set/data/ir/documents/presentations/fy2025/investors/pdf/sbkk_investors_presentation_20260511_en.pdf.]
 
-- The Nasdaq listing was confidentially filed and is subject to SEC review, market conditions, and final pricing; treat the listing, ticker, valuation, and timing as **announced / filed intent**, not a settled completed event, and do not state offering size or post-listing market value as fact
-- Consolidating verticals under one app concentrates regulatory exposure: PayPay Bank and [[securities-firms/paypay-securities|PayPay Securities]] sit under FSA supervision, and app-level outages or compliance issues now touch the whole finance stack
-- The LINE Pay absorption raises competition-policy attention given PayPay's already-dominant QR-payment share
-- A QR-payment-led moat depends on continued merchant acceptance and promotional spend; cashback-driven user growth has historically been expensive
-- SoftBank retaining majority control limits public-shareholder discipline over PayPay's capital allocation
+The listing provides market price discovery for PayPay, but it does not prove that the US market assigns a permanently higher valuation than a Japanese listing would have. That claim would require a comparable-company and counterfactual valuation study.
 
-## 8. Open Questions
+## 4. Distribution architecture
 
-- At what valuation and timing will the PayPay Nasdaq listing actually price, if it proceeds?
-- How will the completed LINE Pay merger reshape Japan's QR-payment market structure and any regulatory response?
-- Will PayPay deepen lending and embedded-finance products now that PayPay Bank and [[securities-firms/paypay-securities|PayPay Securities]] sit inside the app?
-- How does the SoftBank "consolidate-then-list" route compare in capital efficiency with KDDI's [[business/kddi-au-financial-bundling-case|own-bank / partner-securities]] swap and Rakuten's [[business/rakuten-group-mobile-finance-bundling-case|cross-subsidy]] model?
-- What is the AI-agent-payment angle (per [[fintech/ai-payment-two-tracks|AI payment two tracks]]) for a consolidated PayPay finance stack?
+This table describes customer-entry functions, not a claim that all products share one licence, one balance sheet or one set of terms. ^[Sources: https://about.paypay.ne.jp/en/about/; https://about.paypay.ne.jp/en/pr/20260702/01/.]
+
+| Customer entry | Adjacent service | Evidence-based interpretation |
+|---|---|---|
+| PayPay account and app | Payments, remittance and identity verification | High-frequency entry point; product eligibility still follows each service's rules |
+| PayPay Card | Credit and card payments | Separate card issuer linked into the PayPay customer journey |
+| PayPay Bank | Deposits and bank-connected services | Separately licensed bank and separately governed company |
+| PayPay Securities | Securities products | Separately licensed securities operator |
+| LINE account linkage | Payments, send / receive functions, point exchange planned in stages | Commercial linkage announced in July 2026; not evidence of a LINE Pay absorption |
+
+## 5. Comparison with peer structures
+
+The following comparison table is structural and dated to the cited disclosures; it does not rank customer scale, profitability or product quality. ^[Sources: PayPay: https://about.paypay.ne.jp/en/about/; NTT DOCOMO: https://www.docomo.ne.jp/info/news_release/2026/03/31_00.html; KDDI / MUFG: https://www.mufg.jp/dam/pressrelease/2024/pdf/news-20241129-003_en.pdf; Rakuten Group: https://global.rakuten.com/corp/investors/financial/.]
+
+| Group | Main digital entry | Banking boundary | Securities boundary | Listed-finance feature |
+|---|---|---|---|---|
+| **SoftBank / PayPay** | PayPay app | PayPay Bank is a PayPay subsidiary with SMBC retaining a minority interest | PayPay Securities is a PayPay subsidiary | PayPay listed on Nasdaq in March 2026 |
+| **NTT DOCOMO** | d-branded customer channels | Consolidated bank with joint voting governance alongside Sumitomo Mitsui Trust Bank | Monex Securities consolidated through an intermediate holding company | NTT DOCOMO Financial Group is not described as separately listed |
+| **KDDI / au** | au ID / au PAY | Bank-focused finance perimeter | Securities boundary changed through the KDDI / MUFG transaction | au Financial Holdings remains the coordination layer |
+| **Rakuten** | Rakuten ID / points ecosystem | Rakuten Bank separately listed | Rakuten Securities has a capital alliance with Mizuho Securities | Multiple separately constituted group companies |
+
+## 6. Evidence limits and monitoring points
+
+- Registered users, identity-verified users, monthly transaction users and active users are different measures.
+- PayPay consolidated GMV and PayPay-only transaction counts have different scopes and should not be divided to infer an average ticket.
+- App integration does not erase bank, securities, card and payment regulatory boundaries.
+- Monitor the delivery and terms of the staged LINE / PayPay linkage rather than treating announced functions as already live.
+- Use future SEC and SoftBank filings to track dilution, voting control, IPO proceeds and any later selling-shareholder transactions.
 
 ## Related
 
 - [[business/INDEX|business INDEX]]
-- [[business/kddi-au-financial-bundling-case|KDDI au financial bundling case]]
-- [[business/ntt-docomo-d-point-telco-finance-case|NTT Docomo d-Point telco-finance case]]
-- [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]]
-- [[business/gmo-internet-group|GMO Internet Group]]
-- [[megabanks/paypay-fg|PayPay financial group]]
+- [[megabanks/paypay-fg|PayPay finance ecosystem]]
 - [[card-issuers/paypay-card|PayPay Card]]
 - [[securities-firms/paypay-securities|PayPay Securities]]
+- [[business/kddi-au-financial-bundling-case|KDDI / au financial bundling case]]
+- [[business/ntt-docomo-d-point-telco-finance-case|NTT DOCOMO finance integration case]]
+- [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Group mobile-finance bundling case]]
 - [[payments/cashless-jp-landscape|Japan cashless payment landscape]]
 - [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|SoftBank / Yahoo / PayPay points ecosystem]]
-- [[fintech/ai-payment-two-tracks|AI payment two tracks]]
 - [[INDEX|FinWiki index]]
 
 ## Sources
 
-- SoftBank financial segment strategy: https://www.softbank.jp/en/corp/philosophy/strategy/financial/
-- PayPay Corporation corporate site: https://about.paypay.ne.jp/en/
-- LY Corporation — transfer of PayPay Bank shares to PayPay: https://www.lycorp.co.jp/en/news/release/016692/
-- PayPay Card installment-payment press release (2025-09-30): https://about.paypay.ne.jp/en/pr/20250930/01/
-- FinTech Futures — SoftBank unit PayPay files for Nasdaq IPO: https://www.fintechfutures.com/stock-exchange-ipos/softbank-unit-paypay-files-for-nasdaq-ipo
+- PayPay company profile: https://about.paypay.ne.jp/en/about/
+- PayPay, PayPay Securities subsidiary transaction (2025-02-10): https://about.paypay.ne.jp/en/pr/20250210/01/
+- PayPay, PayPay Bank subsidiary transaction (2025-04-14): https://about.paypay.ne.jp/en/pr/20250414/01/
+- LY Corporation, LINE Pay Japan termination announcement (2024-06-13): https://www.lycorp.co.jp/en/news/release/008632/
+- PayPay, IPO pricing and Nasdaq trading announcement (2026-03-12): https://about.paypay.ne.jp/en/pr/20260312/01/
+- SoftBank, FY2025 results presentation: https://www.softbank.jp/en/corp/set/data/ir/documents/presentations/fy2025/investors/pdf/sbkk_investors_presentation_20260511_en.pdf
+- PayPay, LINE / PayPay account-linkage announcement (2026-07-02): https://about.paypay.ne.jp/en/pr/20260702/01/
 
 ---
 
 > [!info] Verification status
-> confidence: **likely**. PayPay's user base, the 2022-2025 consolidation of PayPay Card / Bank / Securities, the LINE Pay merger target, and the confidential Nasdaq filing with SoftBank retaining majority are publicly disclosed in SoftBank / PayPay / LY Corporation releases and IPO filings. Offering size, valuation, ticker, and pricing/timing are filed intent subject to SEC review and market conditions — not settled facts.
+> confidence: **certain** for the completed subsidiary transactions, LINE Pay Japan termination, IPO pricing and listing, and July 2026 account-linkage announcement. The old “PayPay absorbs LINE Pay in March 2026” and “IPO still pending” claims were removed.

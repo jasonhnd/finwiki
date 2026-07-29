@@ -1,109 +1,114 @@
 ---
 source: corporate-strategy/japan-holding-company-conversion
-source_hash: 8deddb19a63e60de
+source_hash: 9293aedc347e7bbc
 lang: ja
+model: qwen3-4b-instruct-2507-4bit-guarded-full-sync+manual-review
 status: machine
 fidelity: ok
-title: "持株会社化 (Japan holding-company conversion) — 株式移転 / 株式交換 / 会社分割 (抜け殻方式) による純粋・事業持株会社構造へのルート"
-translated_at: 2026-06-15T03:48:21.814Z
+title: "持株会社化 — 株式移転／株式交換／会社分割（抜け殻方式）による純粋持株会社・事業持株会社への移行"
+translated_at: 2026-07-29T05:13:34.783Z
 ---
 
-# 持株会社化 (Japan holding-company conversion) — 株式移転 / 株式交換 / 会社分割 (抜け殻方式) による純粋・事業持株会社構造へのルート
+# 持株会社化 — 株式移転／株式交換／会社分割（抜け殻方式）による純粋持株会社・事業持株会社への移行
 
-## Wiki 内の位置づけ
+## ウィキルート
 
-本項目は [[corporate-strategy/INDEX|corporate-strategy INDEX]] の下に位置し、グループ資本のオーバーレイについては [[finance/INDEX|finance INDEX]] へとつながる。これは規制（regime）のページではなく **構造選択のガイド** である: [[corporate-strategy/japan-kabushiki-koukan-iten-regime|株式交換 / 株式移転 regime]] と [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|会社分割 tax regime]] で文書化された各 regime の中から選択する。事業売却（divestiture）側の対応物については [[corporate-strategy/spinoff-decision-tree-japan|the spinoff decision tree]] と、なぜこれほど多くの日本のグループが持株会社の下に位置するのかについては [[finance/japan-listed-financial-groups-investable-universe|the listed-financial-groups universe]] と併せて読むこと。
+この項目は[[corporate-strategy/INDEX|corporate-strategy INDEX]]の下に位置し、グループ資本オーバーレイに[[finance/INDEX|finance INDEX]]へルーティングされます。これは**構造選定ガイド**であり、制度ページとは異なり、[[corporate-strategy/japan-kabushiki-koukan-iten-regime|株式交換 / 株式移転 regime]]および[[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|会社分割 tax regime]]に記載された制度のうちから選ぶもので、[[corporate-strategy/spinoff-decision-tree-japan|the spinoff decision tree]]（売却側の対応）とともに読み、[[finance/japan-listed-financial-groups-investable-universe|the listed-financial-groups universe]]（なぜ多くの日本企業がホールドイング会社を採用しているか）も併せて参照してください。
 
-## 要点
+## TL;DR
 
-**持株会社化 (mochikabu-gaisha-ka, holding-company conversion / 「ホールディングス化」)** とは、**持株会社 (持株会社)** が頂点に位置し、事業会社を子会社として保有するようにグループを再編する行為である。それ自体は会社法上の仕組みではなく——三つの基礎的な仕組みのいずれかを通じて到達される *ゴール* である。
+**持株会社化（mochikabu-gaisha-ka, holding-company conversion）**とは、グループを再編し、**持株会社**を頂点として事業子会社を保有する構造へ移行することを指す。それ自体が会社法上の一つの手続ではなく、次の3つの基本手法のいずれかで実現する**目的**である。
 
-あらゆる転換は二つの構造選択によって定義される:
+変換を定義するための2つの構造的選択肢がある。
 
-1. **持株会社の種類** — 子会社株式のみを保有し配当で食べていく **純粋持株会社 (pure holding company)** か、子会社を保有し *かつ* 自ら事業を営む **事業持株会社 (operating holding company)** か。
-2. **転換手法** — **株式移転 (share transfer)**、**株式交換 (share exchange)**、または **会社分割 (company split, 「抜け殻方式」 / shell method)**。
+1. **持株会社の種類** — **純粋持株会社**は子会社株式の保有・管理を主業とし、主に配当収入に依存する。**事業持株会社**は子会社を保有しながら、自らも事業を営む。
+2. **移行方法** — **株式移転**、**株式交換**、または**会社分割**（「抜け殻方式」／「シェル方式」）。
 
-標準的な対応関係:
+標準マッピング：
 
-- **株式移転** → 会社が *自らを* 新設の純粋持株会社の下に置く。単一の上場会社が純粋持株会社へ至る最も一般的なルート。
-- **株式交換** → 既存の会社が対象会社の 100% 親会社（事業または純粋）になる——将来の持株会社が既に存在する場合に用いられる。
-- **会社分割 (抜け殻方式)** → 事業会社がその事業を子会社へ *切り出し*、**元の法的エンティティを持株会社の殻** （「抜け殻」、empty husk）として残す。元のエンティティの上場・免許・沿革を頂点に保持する。
+- **株式移転** → 新設する持株会社（HoldCo）の下へ会社を完全子会社として置く。単独の上場会社が純粋持株会社体制へ移行する最も一般的な経路である。
+- **株式交換** → 既存会社を対象会社の100%親会社とする（事業持株会社または純粋持株会社）。将来のHoldCoが既に存在する場合に用いる。
+- **会社分割（抜け殻方式）** → 運営会社が自社の事業を**子会社に移転**し、元の法的実体を**HoldCoの殻（「抜け殻」、空の殻）**として残す。元の法的実体の上場、ライセンス、および歴史が保持される。
 
-日本は **戦後の純粋持株会社の禁止を 1997 に解除した** （独占禁止法改正）ため、持株会社化はグループ設計の主流ツールとなり、日本の上場グループ全体にわたる「○○ホールディングス」という名称の大きな部分の基礎をなしている。
+日本は戦後続いていた純粋持株会社の禁止を、**1997年の独占禁止法改正**で解除した。以後、持株会社化は主流のグループ設計手法となり、上場会社に「○○ホールディングス」という社名が広がる一因となった。
 
-## 1. 純粋持株会社 vs 事業持株会社
+## 1. 純粋な保有会社 vs 業務執行会社
 
 | | 純粋持株会社 (pure) | 事業持株会社 (operating) |
 |---|---|---|
-| Own business | None — only holds and manages subsidiaries | Runs a business *and* holds subsidiaries |
-| Revenue | Subsidiary dividends + group-management fees | Operating revenue + dividends |
-| Typical name | "○○ホールディングス" / "○○グループ本社" | The original operating company, now also a parent |
-| Strengths | Clean group governance, neutral capital allocator, flexible bolt-on M&A | Lower setup cost; no new top entity needed |
-| Trade-offs | New entity, group-relief / consolidated-tax considerations, dividend-only cash flow | Conflicts of interest between the parent's own business and group oversight |
+| 自社事業 | なし — 連結子会社を保有・管理するのみ | 事業を運営 *かつ* 子会社を保有 |
+| 売上高 | 子会社からの配当金 + 連結管理手数料 | 事業売上高 + 配当金 |
+| 代表名称 | 「○○ホールディングス」／「○○グループ本社」 | 元の事業会社が親会社機能も担う |
+| 長所 | きれいなグループガバナンス、中立的な資本配分、柔軟なM&A追加 | 設立コストが低い；新たなトップエンティティの設立不要 |
+| 代償 | 新規エンティティ、グループ対策／連結課税上の考慮、配当金のみのキャッシュフロー | 親会社の自社事業とグループ監督との間の利益相反 |
 
-純粋持株会社モデルは、いずれか一つを優遇することなく、競合する事業子会社にわたって資本を配分する **中立的な頂点 (neutral apex)** をグループが求める場合に好まれる——これは [[business/japan-listed-corp-strategic-restructuring-matrix|the listed-corp strategic-restructuring matrix]] に収集された戦略的再編のケースで繰り返し現れるテーマである。
+出典：「純粋」と「運営」は、JFTCおよび日本の会社法関連の政策資料で用いられる機能的表現である。強みとその代償は分析的な検討項目であり、特定のグループに対しての法的効果または推奨とはならない。^[Sources: https://www.jftc.go.jp/dk/guideline/unyoukijun/holding.html; https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/.]
 
-## 2. 三つの転換手法
+純粋なHoldingCoモデルは、グループが中立的な頂点を持つものを望む場合に好まれ、その頂点は競合する事業運営子会社への資本配分を実施するが、どの会社にも偏りを示さない — これは[[business/japan-listed-corp-strategic-restructuring-matrix|the listed-corp strategic-restructuring matrix]]に収録された戦略的再編案件において繰り返されるテーマである。
 
-### 手法 A — 株式移転 (share transfer): 新しい屋根を築く
+## 2. 3つの変換方法
 
-事業会社が単独会社による [[corporate-strategy/japan-kabushiki-koukan-iten-regime|株式移転]] を実行する: **新たな純粋持株会社が設立され**、事業会社はその完全子会社となり、株主は事業会社株式を持株会社株式と交換する（通常は一対一）。
+### 方法A — 株式移転（share transfer）：新しい屋根を築く
 
-- **結果**: 純粋持株会社への最も明快なルート。
-- **上場**: *新しい* 持株会社が事業会社に代わって上場する（テクニカルな再上場 / 上場維持は取引所規則の下で処理される）。
-- **複数会社のバリアント**: 二つの会社が一つの持株会社へ同時に 株式移転 を行う——[[corporate-strategy/INDEX|corporate-strategy INDEX]] の多くの金融グループの背後にある共同持株会社 / 対等合併（merger-of-equals）のパターン。
+事業会社が単独で[[corporate-strategy/japan-kabushiki-koukan-iten-regime|株式移転]]を行う。**新しい純粋持株会社を設立**し、事業会社をその完全子会社とする一方、株主は事業会社株式を持株会社株式と交換する（交換比率は通常1対1）。
 
-### 手法 B — 株式交換 (share exchange): 既存の会社を上に向ける
+- **結果**：純粋持株会社への最もシンプルな経路。
+- **上場**：運営会社の代わりに*新しい*HoldCoが上場する（技術的再上場／上場維持は取引所規則により処理）。
+- **複数会社変形**：2社が同時に1つのHoldCoへの株式移転を行う——多くの金融グループが[[corporate-strategy/INDEX|corporate-strategy INDEX]]において採用する、共同HoldCo／同等間合併パターン。
 
-意図された持株会社（または取得者）が **既に存在する** 場合、[[corporate-strategy/japan-kabushiki-koukan-iten-regime|株式交換]] がそれを対象会社の 100% 親会社にする。これは、取得側の親会社が自らの事業を営み続ける場合には通常 **事業持株会社** を生み、あるいは既存の持株会社を新しい子会社に及ぼす。
+### 方法B — 株式交換（share exchange）：既存会社を親会社にする
 
-### 手法 C — 会社分割 (抜け殻方式 / shell method): 事業会社を空洞化する
+予定するHoldCo（または買収者）が**既に存在する場合**、[[corporate-strategy/japan-kabushiki-koukan-iten-regime|株式交換]]によってその会社を対象会社の100%親会社とする。親会社が自社事業を継続すれば通常は**事業持株会社**となり、既存の純粋持株会社であれば新たな子会社を傘下に加えることになる。
 
-元の会社が [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|新設分割]] （または 吸収分割）を実行し、その事業の **すべて** を新設（または既存）の子会社へ移転する。**元の法的エンティティは持株会社として頂点に留まり**、いまや事業子会社の株式のみを保有する——「empty husk」（抜け殻）。
+### 方法C — 会社分割（抜け殻方式 / shell method）：事業を実施しない会社を空にする
 
-- **主要な利点**: 頂点のエンティティが **変わらない** ため、その証券取引所の上場、規制上の免許、契約、企業の沿革がすべて、再上場のイベントなしに持株会社レベルに残る。
-- **従業員の移転**: これは 会社分割 を用いるため、雇用契約は 労働契約承継法 の下で（法定の協議手続を伴い）**自動的に** 移転する——その承継の仕組みは [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|the 会社分割 regime]] に詳述されている。
-- **トレードオフ**: 課税繰延となるには分割が 適格 テストを満たさなければならず、債権者保護 / 従業員協議のタイムラインが適用される。
+元会社は[[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|新設分割]]（または吸収分割）を実施し、事業を新設（または既存）の子会社へ移転する。元の法人は頂点に残り、事業子会社の株式を保有する「抜け殻」となる。
 
-## 3. 手法選択のマトリクス
+- **重要な境界**：頂点会社は**変わらない**が、移転事業に付随する契約、従業員、その他の権利は案件ごとに検討が必要である。会社分割によってすべての事業許認可が当然に移転するとは限らない。
+- **従業員の移転**：この場合に会社分割が用いられるため、労働契約は**自動的に継承**される（法定の相談手続を経ることで）——詳細は[[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|the 会社分割 regime]]に記載。
+- **トレードオフ**：課税繰延べには適格分割の要件を満たす必要がある。また、債権者保護と従業員協議の日程が適用される。
 
-| Goal | Best method | Why |
+## 3. 方法選定マトリクス
+
+| 目的 | 最適な方法 | 理由 |
 |---|---|---|
-| Single listed company → pure HoldCo, clean | **株式移転** | Creates a neutral apex; shareholders simply roll into the new HoldCo |
-| Keep the *original* entity (its listing / licenses) at the top | **会社分割 (抜け殻方式)** | The apex never changes; only the business moves down |
-| Future parent already exists; absorb a target to 100% | **株式交換** | Points the existing company upward over the target |
-| Two firms combine under one neutral parent | **株式移転 (joint)** | Parallel transfers into a single new HoldCo (merger-of-equals) |
-| Partial control only (not 100%) — *not* a full HoldCo conversion | **株式交付** | See [[corporate-strategy/kabushiki-koufu-stock-distribution-regime|株式交付 regime]]; stops below 100% |
+| 1社の株式会社 → 純粋なHoldCo、クリーンな構造 | **株式移転** | 中間の頂点を中立的に行い、株主は単に新しいHoldCoに移行する |
+| 当初の企業（その上場・認可資格など）をそのままトップに保つ | **会社分割（抜け殻方式）** | 頂点自体は変化しない；事業だけが下に移動する |
+| 将来の親会社が既に存在し、対象会社を100%傘下に置く | **株式交換** | 既存会社を対象会社の親会社にする |
+| 2社が1つの中立的親会社の下に統合 | **株式移転（共同）** | 両社が並行して1つの新しいHoldCoに移転（等価合併） |
+| 部分的な支配のみ（100%ではない）——完全なHoldCo変換ではない | **株式交付** | [[corporate-strategy/kabushiki-koufu-stock-distribution-regime|株式交付 regime]]を参照；100%未満で停止 |
 
-## 4. 税のレイヤー — 適格 扱いが貫通する
+対象：このマトリクスは、会社法に基づく株式移転、株式交換、会社分割、および株式交付の法的効果を示している。「最適な方法」とは、この簡易的判断支援において、構造的に最も近い一致を指す。税適格性、交換処理、許可、債権者権利、および業界承認については別途評価が必要である。^[Sources: https://laws.e-gov.go.jp/document?lawid=417AC0000000086; https://www.mof.go.jp/tax_policy/summary/corporation/c06.htm.]
 
-持株会社化は **税中立 (tax-neutral)** である場合にのみ魅力的であり、それは基礎となる仕組みが 適格 であることを要する。テストは標準的な 組織再編成 のテストである:
+## 4. 税務層 — 適格扱いによる課税繰延べ
 
-- **株式移転 / 株式交換**: 単独会社の転換は通常 **100%-group (完全支配関係)** 取引である——最も軽いテスト群——ため、適格（課税繰延）扱いは通例である。テストの詳細は [[corporate-strategy/japan-kabushiki-koukan-iten-regime|the 株式交換 / 株式移転 regime]] を参照のこと。
-- **会社分割 (抜け殻方式)**: 子会社への分割は 適格分割 テストを満たさなければならず（完全支配グループの分割が再び最も軽いケース）、資産を簿価で引き継ぐ。繰越欠損金の濫用防止ルール（法人税法 57 条以下）は、支配株主の変動テストが発動すると効いてくる。
+保有会社の変更は、**課税中立**である場合にのみ魅力的であり、その際、基本的な 組織再編成 のテストが適用される。
 
-ひとたび持株会社が存在すれば、継続的なグループ課税（**グループ通算制度** の連結グループ regime、親子会社間の受取配当の扱い）が現実の設計要素となる——[[corporate-strategy/INDEX|this domain]] にわたって繰り返される税対構造の緊張である。
+- **株式移転 / 株式交換**：単独会社の移行は通常、**100%グループ（完全支配関係）**の再編であり、要件が比較的簡素なため、適格（課税繰延べ）扱いが標準的である。詳細は[[corporate-strategy/japan-kabushiki-koukan-iten-regime|the 株式交換 / 株式移転 regime]]を参照。
+- **会社分割（抜け殻方式）**：子会社への分割は適格分割の要件を満たす必要があり、適格であれば資産の簿価を引き継ぐ。所有権変更の判定に該当する場合、繰越欠損金の濫用防止規定（法人税法第57条以下）が適用され得る。
 
-## 5. なぜグループは転換するのか — 戦略的ドライバー
+HoldCo設立後は、継続的なグループ課税（**グループ通算制度**による損益通算、親子会社間の受取配当の取扱い）が実際の設計要因となる。これは[[corporate-strategy/INDEX|this domain]]で繰り返し現れる、税制と法的構造の緊張関係である。
 
-- **グループ・ガバナンス & 資本配分**: 中立的な頂点は、社内政治ではなくポートフォリオのロジックに基づいて事業子会社間で資本をシフトできる。
-- **M&A の機動性**: ボルトオン買収は、既存の事業エンティティを乱すことなく、持株会社の下に新しい子会社として収まる。そのファイナンスは [[finance/japan-acquisition-finance|Japan acquisition finance]] にある。
-- **事業承継**: オーナー経営の企業にとって、持株会社を介在させることで、世代交代に先立って支配を集中させ、株式基盤を再構築できる——承継税制の枠組みとの相互作用は [[corporate-strategy/japan-business-succession-jigyou-shoukei|business succession (事業承継)]] にある。
-- **リスクのリングフェンス**: 別個の事業子会社は負債を隔離する。一つの問題が頂点や兄弟会社を直接汚染することはない。
-- **規制業種の構造**: 金融では、持株会社モデルは FSA の下での銀行 / 保険の持株会社監督と整合する——[[finance/japan-listed-financial-groups-investable-universe|the listed-financial-groups universe]] のエンティティがこのように組織されている主な理由。
+## 5. なぜグループが変更を行うのか — 戦略的要因
 
-## 6. 規制と独占禁止のレイヤー
+- **グループのガバナンスおよび資本配分**：中立的な頂点会社は、内部の政治的要因よりもポートフォリオ論理に基づいて、事業運営子会社間で資本を移動できる。
+- **M&Aの柔軟性**：追加買収をHoldCo傘下の新たな子会社として組み込み、既存の事業会社への影響を抑えられる。資金調達は[[finance/japan-acquisition-finance|Japan acquisition finance]]を参照。
+- **事業継承**：所有者経営型企業において、HoldCoを中間に設けることで、権利の集中と株式ベースの再構築が可能になり、世代交代前に制御を再編できる。継承課税枠組みとの相互作用は [[corporate-strategy/japan-business-succession-jigyou-shoukei|business succession (事業承継)]] に記載されている。
+- **リスクの分離**：運営される子会社が独立しており、一つの会社の問題が頂点会社または姉妹会社に直接影響を及ぼさない。
+- **規制業界の構造**：金融業において、HoldCoモデルはFSAによる銀行・保険会社のホールディング会社監督体制と一致しており、[[finance/japan-listed-financial-groups-investable-universe|the listed-financial-groups universe]] の会社がこの構造を採用する主な理由である。
 
-- **独占禁止法**: 純粋持株会社は **1997 改正まで禁止されていた**。今日では許容されているが、公正取引委員会は依然として過度の集中を生むグループ構造を監視する——企業結合審査のオーバーレイは [[finance/jftc-merger-control-process|the JFTC merger-control process]] にある。
-- **業種別の持株会社ルール**: 銀行 / 保険の持株会社は、汎用的な会社法上の仕組みの上に重ねて、専用の FSA 監督（持株会社 認可）の下に位置する。
-- **上場の継続性**: 株式移転 の下では取引所が新しい頂点のテクニカルな再上場を処理し、会社分割 (抜け殻方式) の下では頂点の上場が保持される——[[securities/japan-ipo-listing-disclosure-route|the listing / disclosure route]] と相互作用する区別である。
+## 6. リスクおよび独占禁止法的層
 
-## 7. 反論と留意点
+- **独占禁止法**：純粋持株会社は1997年改正まで禁止されていた。現在は認められるが、公正取引委員会は過度の事業支配力集中を招き得るグループ構造を引き続き監視する。企業結合審査は[[finance/jftc-merger-control-process|the JFTC merger-control process]]を参照。
+- **業法上の持株会社規制**：銀行・保険持株会社は、一般の会社法上の仕組みに加え、持株会社認可を含む金融庁の専門監督を受ける。
+- **上場継続性**：株式移転の場合は、取引所規則により新設頂点会社の技術的再上場が処理される；会社分割（抜け殻方式）の場合は、頂点会社の上場が維持される — これは[[securities/japan-ipo-listing-disclosure-route|the listing / disclosure route]]との相互作用を持つ。
 
-- **持株会社はタダではない**: 新しい頂点は管理・取締役会・監査のコストの層を加え、純粋持株会社レベルでの配当のみのキャッシュフローは意図的なグループ配当方針を要する。
-- **適格 は確認されなければならない**: 税中立性は、選択された仕組みの適格テストを満たすことに依存する。金銭対価や継続性テストの不充足は、転換を課税対象に転じさせ得る。
-- **事業持株会社における利益相反**: 事業持株会社は、自らの事業を営むことと子会社を監督することの間で利益相反に直面し得る——多くのグループが最終的に純粋持株会社へ移行する理由。
-- **手法は手段であり目的ではない**: 持株会社化は *結果* である。現実の選択は、そこに至るために [[corporate-strategy/japan-kabushiki-koukan-iten-regime|株式移転 / 株式交換]] と [[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|会社分割]] のいずれを用いるかである。
+## 7. 反論と注意点
+
+- **HoldCoは完全に自由ではない**：新しい頂点会社は管理、取締役、監査費用を追加し、純粋なHoldCoレベルの配当のみのキャッシュフローには、明確なグループ間配当方針が必要となる。
+- **適格の確認が必須**：課税中立性は、選択されたメカニズムの適格条件を満たす必要がある。現金対価または継続性の欠如が、変更を課税対象にすることがある。
+- **事業持株会社における対立**：事業を運営するHoldCoは、自社の事業運営と子会社の監督の間に対立を生じる可能性がある。そのため、多くのグループは最終的に純粋持株会社に移行する。
+- **方法は手段であり、目的ではない**：持株会社化は「結果」である。実際の選択は、[[corporate-strategy/japan-kabushiki-koukan-iten-regime|株式移転 / 株式交換]]または[[corporate-strategy/japan-kaisha-bunkatsu-tax-regime|会社分割]]のどちらを使用するかである。
 
 ## 関連
 

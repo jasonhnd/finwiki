@@ -24,9 +24,9 @@
     "domain": "corporate-strategy",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "corporate-strategy",
@@ -46,7 +46,11 @@
       "https://www.meti.go.jp/policy/jigyou_saisei/kyousouryoku_kyouka/spinoff.html",
       "https://laws.e-gov.go.jp/document?lawid=417AC0000000086",
       "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/01/01_04_05.htm",
-      "https://www.mof.go.jp/public_relations/finance/202402/202402e.html"
+      "https://www.mof.go.jp/public_relations/finance/202402/202402e.html",
+      "https://www.sony.com/en/SonyInfo/IR/library/SFG_pso/",
+      "https://investors.arm.com/financials/sec-filings",
+      "https://www.rakuten-bank.co.jp/corp/ir/",
+      "https://www.global.toshiba/ww/ir/corporate/tender-offer.html"
     ]
   },
   "summary": "This entry sits under corporate-strategy INDEX and routes into finance INDEX for transaction context. Read with partial spinoff tax deferral for the partial-spinoff regime detail, 会社分割 tax regime for the underlying split mechanics, 株式交付 regime for the acquisition-side parallel, and Sony FG partial s",
@@ -100,9 +104,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 11253,
-    "word_like_tokens": 1816,
+    "nonspace_chars": 12020,
+    "word_like_tokens": 1958,
     "inbound_wikilinks_count": 14,
-    "last_modified": "2026-06-15"
+    "last_modified": "2026-07-29"
   }
 }

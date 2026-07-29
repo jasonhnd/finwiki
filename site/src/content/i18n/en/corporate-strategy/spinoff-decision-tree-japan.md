@@ -1,11 +1,12 @@
 ---
 source: corporate-strategy/spinoff-decision-tree-japan
-source_hash: ec1eda532998bc2b
+source_hash: 87f7e9d850c0a024
 lang: en
+model: source-language-sync
 status: machine
 fidelity: ok
 title: "Spinoff decision tree Japan — 株式分配 vs パーシャルスピンオフ vs 会社分割 vs IPO partial sell-down option selection"
-translated_at: 2026-06-18T15:47:13.959Z
+translated_at: 2026-07-29T05:13:34.783Z
 ---
 
 # Spinoff decision tree Japan — 株式分配 vs パーシャルスピンオフ vs 会社分割 vs IPO partial sell-down option selection
@@ -100,14 +101,13 @@ START: What is the parent's strategic intent?
 - Want valuation clarity but preserve brand cooperation
 - Conglomerate discount real but full exit too disruptive
 - Cross-sell / brand-license / supply-chain ties matter
-- Want to receive in-kind distribution of subsidiary shares to existing shareholders (no tax leakage at shareholder level)
-- Examples: [[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]], Kokuyo × Askul
+- Want to distribute subsidiary shares in kind to existing shareholders and seek deferral under the qualified regime
+- Completed example: [[business/sony-fg-partial-spinoff-case|Sony FG partial spin-off]]
 
 ### Use **IPO partial sell-down** when:
 
 - Want cash inflow (the regime offers cash; partial-spinoff does not)
 - Want to retain majority control while crystallizing public-market valuation
-- Want collateral-margin loan optionality against newly-quoted stake
 - Tax cost on sold portion acceptable
 - Examples: [[business/softbank-vision-fund-arm-ipo-template|Arm 2023 IPO]], [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Bank 2023 IPO]]
 
@@ -160,11 +160,12 @@ START: What is the parent's strategic intent?
 
 | Case | Path chosen | Why this path |
 |---|---|---|
-| [[business/sony-fg-partial-spinoff-case|Sony FG (2025 planned)]] | パーシャルスピンオフ | Wanted brand cooperation; tax-deferral material |
-| [[business/softbank-vision-fund-arm-ipo-template|Arm (2023)]] | IPO partial sell-down (~10%) | Wanted mark + collateral, not exit |
-| [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Bank (2023)]] | IPO partial sell-down (~37% sold) | Needed cash for parent recap |
-| [[business/toshiba-tob-squeeze-out-2023-2024-case|Toshiba (2023-2024)]] | TOB take-private | Restructure free of public scrutiny |
-| Kokuyo × Askul (2020) | First-wave partial-related transaction | Pre-2023-regime structure |
+| [[business/sony-fg-partial-spinoff-case|Sony FG (2025)]] | Partial spin-off completed 2025-10-01; listing completed 2025-09-29 | Sony distributed slightly more than 80% and retained a minority stake so Sony FG could continue using the Sony brand |
+| [[business/softbank-vision-fund-arm-ipo-template|Arm (2023)]] | IPO with SoftBank retaining control | Public offering created a listed market while SoftBank remained the controlling shareholder |
+| [[business/rakuten-group-mobile-finance-bundling-case|Rakuten Bank (2023)]] | IPO / partial sell-down with Rakuten Group retaining control | Public listing raised capital and established a quoted bank equity while retaining group ownership |
+| [[business/toshiba-tob-squeeze-out-2023-2024-case|Toshiba (2023)]] | Cash TOB followed by share consolidation and delisting | The disclosed outcome is a completed take-private; Toshiba's FAQ did not commit to a re-listing timetable |
+
+Sources: status and rationale are limited to each issuer's public disclosures. The table does not infer collateral strategy, parent recap necessity, or a future re-IPO where the issuer did not disclose it. ^[Sources: https://www.sony.com/en/SonyInfo/IR/library/SFG_pso/; https://investors.arm.com/financials/sec-filings; https://www.rakuten-bank.co.jp/corp/ir/; https://www.global.toshiba/ww/ir/corporate/tender-offer.html.]
 
 ## 6. The Conglomerate-Discount Math
 
@@ -228,5 +229,5 @@ The choice depends on how much of the standalone value depends on parent-subsidi
 
 ---
 
-> [!info] Verification status
+> [!info] 校核状态
 > confidence: **likely**. The decision tree synthesizes settled Japan corporate-restructuring regimes; specific tax conditions vary per transaction. Live case mappings reflect publicly disclosed transactions.

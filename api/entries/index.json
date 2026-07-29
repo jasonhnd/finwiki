@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-07-29T12:51:53+09:00",
+  "generated_at": "2026-07-29T15:37:08+09:00",
   "site_url": "https://finwiki.zksc.io/",
   "total_entries": 1482,
   "entries": [
@@ -1356,7 +1356,7 @@
     {
       "slug": "business/aeon-financial-service-retail-bank-case",
       "domain": "business",
-      "title": "Aeon Financial Service retail-bank case — a supermarket group's full financial holding: Aeon Bank + Aeon credit card + pan-Asia consumer finance",
+      "title": "AEON Financial Service case — retail distribution, banking, cards, and Asian consumer finance",
       "api_url": "https://finwiki.zksc.io/api/entries/business/aeon-financial-service-retail-bank-case.json",
       "url": "https://finwiki.zksc.io/ja/business/aeon-financial-service-retail-bank-case/",
       "html_url": "https://finwiki.zksc.io/ja/business/aeon-financial-service-retail-bank-case/",
@@ -1369,7 +1369,7 @@
     {
       "slug": "business/brian-armstrong-coinbase-public-company-template",
       "domain": "business",
-      "title": "Brian Armstrong / Coinbase listed-exchange operating template · direct-listing IPO + regulatory-engagement strategy",
+      "title": "Brian Armstrong / Coinbase public-company operating case",
       "api_url": "https://finwiki.zksc.io/api/entries/business/brian-armstrong-coinbase-public-company-template.json",
       "url": "https://finwiki.zksc.io/ja/business/brian-armstrong-coinbase-public-company-template/",
       "html_url": "https://finwiki.zksc.io/ja/business/brian-armstrong-coinbase-public-company-template/",
@@ -1395,7 +1395,7 @@
     {
       "slug": "business/cz-binance-founder-handoff-case",
       "domain": "business",
-      "title": "Changpeng Zhao (CZ) Binance founder-handoff case — DOJ $4.3bn settlement + step-down + Richard Teng CEO appointment + retained ownership",
+      "title": "Changpeng Zhao / Binance founder-handoff case",
       "api_url": "https://finwiki.zksc.io/api/entries/business/cz-binance-founder-handoff-case.json",
       "url": "https://finwiki.zksc.io/ja/business/cz-binance-founder-handoff-case/",
       "html_url": "https://finwiki.zksc.io/ja/business/cz-binance-founder-handoff-case/",
@@ -1408,7 +1408,7 @@
     {
       "slug": "business/founder-pivot-outcome-template-matrix",
       "domain": "business",
-      "title": "Founder / executive pivot outcome template matrix",
+      "title": "Founder / executive transition evidence matrix",
       "api_url": "https://finwiki.zksc.io/api/entries/business/founder-pivot-outcome-template-matrix.json",
       "url": "https://finwiki.zksc.io/ja/business/founder-pivot-outcome-template-matrix/",
       "html_url": "https://finwiki.zksc.io/ja/business/founder-pivot-outcome-template-matrix/",
@@ -1460,7 +1460,7 @@
     {
       "slug": "business/japan-listed-corp-strategic-restructuring-matrix",
       "domain": "business",
-      "title": "Japan listed corporate strategic restructuring matrix",
+      "title": "Japan listed corporate strategic restructuring matrix — five primary-source cases",
       "api_url": "https://finwiki.zksc.io/api/entries/business/japan-listed-corp-strategic-restructuring-matrix.json",
       "url": "https://finwiki.zksc.io/ja/business/japan-listed-corp-strategic-restructuring-matrix/",
       "html_url": "https://finwiki.zksc.io/ja/business/japan-listed-corp-strategic-restructuring-matrix/",
@@ -1473,7 +1473,7 @@
     {
       "slug": "business/jpx-public-company-as-market-infrastructure",
       "domain": "business",
-      "title": "Japan Exchange Group (JPX 8697) — listed exchange operator as market infrastructure",
+      "title": "Japan Exchange Group (JPX 8697) — listed company operating regulated market infrastructure",
       "api_url": "https://finwiki.zksc.io/api/entries/business/jpx-public-company-as-market-infrastructure.json",
       "url": "https://finwiki.zksc.io/ja/business/jpx-public-company-as-market-infrastructure/",
       "html_url": "https://finwiki.zksc.io/ja/business/jpx-public-company-as-market-infrastructure/",
@@ -1486,7 +1486,7 @@
     {
       "slug": "business/kddi-au-financial-bundling-case",
       "domain": "business",
-      "title": "KDDI au financial bundling case — au-FH consolidates bank + payments, hands securities to MUFG in 2024 reciprocal swap",
+      "title": "KDDI / au finance case — au Jibun Bank ownership, MUFG securities transfer, and au Financial Holdings listing preparations",
       "api_url": "https://finwiki.zksc.io/api/entries/business/kddi-au-financial-bundling-case.json",
       "url": "https://finwiki.zksc.io/ja/business/kddi-au-financial-bundling-case/",
       "html_url": "https://finwiki.zksc.io/ja/business/kddi-au-financial-bundling-case/",
@@ -1538,7 +1538,7 @@
     {
       "slug": "business/mizuho-rakuten-finance-stake-accumulation-case",
       "domain": "business",
-      "title": "Mizuho × Rakuten finance stake-accumulation case — megabank serially buys into a cash-pressed conglomerate's finance subsidiaries (Securities 49% + Card 14.99% + Bank ~10%)",
+      "title": "Mizuho × Rakuten strategic stakes — Rakuten Securities, Rakuten Card, and the planned Rakuten Bank alliance",
       "api_url": "https://finwiki.zksc.io/api/entries/business/mizuho-rakuten-finance-stake-accumulation-case.json",
       "url": "https://finwiki.zksc.io/ja/business/mizuho-rakuten-finance-stake-accumulation-case/",
       "html_url": "https://finwiki.zksc.io/ja/business/mizuho-rakuten-finance-stake-accumulation-case/",
@@ -1551,7 +1551,7 @@
     {
       "slug": "business/ntt-docomo-d-point-telco-finance-case",
       "domain": "business",
-      "title": "NTT Docomo + d-Point + d-Barai + d-Card case — telco-as-finance-distribution-channel model with SMBC tie-up",
+      "title": "NTT DOCOMO finance integration case — Monex, net banking, d Card / d Payment, and NTT DOCOMO Financial Group",
       "api_url": "https://finwiki.zksc.io/api/entries/business/ntt-docomo-d-point-telco-finance-case.json",
       "url": "https://finwiki.zksc.io/ja/business/ntt-docomo-d-point-telco-finance-case/",
       "html_url": "https://finwiki.zksc.io/ja/business/ntt-docomo-d-point-telco-finance-case/",
@@ -1577,7 +1577,7 @@
     {
       "slug": "business/rakuten-group-mobile-finance-bundling-case",
       "domain": "business",
-      "title": "Rakuten Group mobile-finance bundling case — telco cash burn cross-subsidized by card / bank / securities profits",
+      "title": "Rakuten ecosystem case — FinTech earnings, mobile improvement, and the planned bank-centered reorganization",
       "api_url": "https://finwiki.zksc.io/api/entries/business/rakuten-group-mobile-finance-bundling-case.json",
       "url": "https://finwiki.zksc.io/ja/business/rakuten-group-mobile-finance-bundling-case/",
       "html_url": "https://finwiki.zksc.io/ja/business/rakuten-group-mobile-finance-bundling-case/",
@@ -1603,7 +1603,7 @@
     {
       "slug": "business/seven-bank-atm-platform-deconsolidation-case",
       "domain": "business",
-      "title": "Seven Bank ATM-platform + deconsolidation case — retailer-owned bank funded by interbank ATM fees, cut below 40% in Seven & i's 2025 portfolio reshape",
+      "title": "Seven Bank case — ATM platform economics and the 2025 Seven & i deconsolidation",
       "api_url": "https://finwiki.zksc.io/api/entries/business/seven-bank-atm-platform-deconsolidation-case.json",
       "url": "https://finwiki.zksc.io/ja/business/seven-bank-atm-platform-deconsolidation-case/",
       "html_url": "https://finwiki.zksc.io/ja/business/seven-bank-atm-platform-deconsolidation-case/",
@@ -1616,7 +1616,7 @@
     {
       "slug": "business/softbank-paypay-financial-integration-case",
       "domain": "business",
-      "title": "SoftBank / PayPay financial integration case — super-app folds card / bank / securities under PayPay, then files for a US listing",
+      "title": "SoftBank / PayPay financial integration case — finance subsidiaries, Nasdaq listing, and LINE account linkage",
       "api_url": "https://finwiki.zksc.io/api/entries/business/softbank-paypay-financial-integration-case.json",
       "url": "https://finwiki.zksc.io/ja/business/softbank-paypay-financial-integration-case/",
       "html_url": "https://finwiki.zksc.io/ja/business/softbank-paypay-financial-integration-case/",
@@ -1629,7 +1629,7 @@
     {
       "slug": "business/softbank-vision-fund-arm-ipo-template",
       "domain": "business",
-      "title": "SoftBank Vision Fund + Arm IPO template — fund-structured stake monetization via portfolio listing",
+      "title": "SoftBank / Arm 2023 IPO case — all-secondary sell-down with parent control retained",
       "api_url": "https://finwiki.zksc.io/api/entries/business/softbank-vision-fund-arm-ipo-template.json",
       "url": "https://finwiki.zksc.io/ja/business/softbank-vision-fund-arm-ipo-template/",
       "html_url": "https://finwiki.zksc.io/ja/business/softbank-vision-fund-arm-ipo-template/",
@@ -1642,7 +1642,7 @@
     {
       "slug": "business/sony-fg-partial-spinoff-case",
       "domain": "business",
-      "title": "Sony Financial Group partial spinoff case — 株式分配方式 + 親会社 20% 未満残存 + 課税繰延",
+      "title": "Sony Financial Group partial spin-off case — completed listing, share distribution, and 16.40% retained stake",
       "api_url": "https://finwiki.zksc.io/api/entries/business/sony-fg-partial-spinoff-case.json",
       "url": "https://finwiki.zksc.io/ja/business/sony-fg-partial-spinoff-case/",
       "html_url": "https://finwiki.zksc.io/ja/business/sony-fg-partial-spinoff-case/",
@@ -1655,7 +1655,7 @@
     {
       "slug": "business/toyota-financial-services-captive-finance-case",
       "domain": "business",
-      "title": "Toyota Financial Services captive-finance case — automaker-owned bank for the dealer channel, funded by auto-loan ABS",
+      "title": "Toyota Financial Services captive-finance case — vehicle sales support with diversified market funding",
       "api_url": "https://finwiki.zksc.io/api/entries/business/toyota-financial-services-captive-finance-case.json",
       "url": "https://finwiki.zksc.io/ja/business/toyota-financial-services-captive-finance-case/",
       "html_url": "https://finwiki.zksc.io/ja/business/toyota-financial-services-captive-finance-case/",
@@ -16007,7 +16007,7 @@
     {
       "slug": "retail/aeon-group",
       "domain": "retail",
-      "title": "AEON Group",
+      "title": "AEON Group retail-finance operating map",
       "api_url": "https://finwiki.zksc.io/api/entries/retail/aeon-group.json",
       "url": "https://finwiki.zksc.io/ja/retail/aeon-group/",
       "html_url": "https://finwiki.zksc.io/ja/retail/aeon-group/",
@@ -16020,7 +16020,7 @@
     {
       "slug": "retail/familymart-itochu-financial-integration",
       "domain": "retail",
-      "title": "FamilyMart + Itochu financial integration — post-2020 take-private, FamiPay, Itochu Money, Yamada Cycle",
+      "title": "FamilyMart + ITOCHU financial integration",
       "api_url": "https://finwiki.zksc.io/api/entries/retail/familymart-itochu-financial-integration.json",
       "url": "https://finwiki.zksc.io/ja/retail/familymart-itochu-financial-integration/",
       "html_url": "https://finwiki.zksc.io/ja/retail/familymart-itochu-financial-integration/",
@@ -16046,7 +16046,7 @@
     {
       "slug": "retail/japan-retail-financial-distribution-wedge-matrix",
       "domain": "retail",
-      "title": "Japan retail financial-distribution wedge matrix",
+      "title": "Japan retail financial-distribution matrix",
       "api_url": "https://finwiki.zksc.io/api/entries/retail/japan-retail-financial-distribution-wedge-matrix.json",
       "url": "https://finwiki.zksc.io/ja/retail/japan-retail-financial-distribution-wedge-matrix/",
       "html_url": "https://finwiki.zksc.io/ja/retail/japan-retail-financial-distribution-wedge-matrix/",
@@ -16072,7 +16072,7 @@
     {
       "slug": "retail/lawson-kddi-retail-finance",
       "domain": "retail",
-      "title": "Lawson + KDDI Retail Finance",
+      "title": "Lawson + KDDI retail-finance operating map",
       "api_url": "https://finwiki.zksc.io/api/entries/retail/lawson-kddi-retail-finance.json",
       "url": "https://finwiki.zksc.io/ja/retail/lawson-kddi-retail-finance/",
       "html_url": "https://finwiki.zksc.io/ja/retail/lawson-kddi-retail-finance/",
@@ -16085,7 +16085,7 @@
     {
       "slug": "retail/lawson-mitsubishi-corporation-tie-up-2024-deep",
       "domain": "retail",
-      "title": "Lawson + Mitsubishi Corporation 2024 take-private deep — KDDI 50/50 tie-up, Ponta deepening, au telco-payment integration",
+      "title": "Lawson 2024 take-private",
       "api_url": "https://finwiki.zksc.io/api/entries/retail/lawson-mitsubishi-corporation-tie-up-2024-deep.json",
       "url": "https://finwiki.zksc.io/ja/retail/lawson-mitsubishi-corporation-tie-up-2024-deep/",
       "html_url": "https://finwiki.zksc.io/ja/retail/lawson-mitsubishi-corporation-tie-up-2024-deep/",
@@ -16111,7 +16111,7 @@
     {
       "slug": "retail/seven-i-holdings-finance-deep-dive",
       "domain": "retail",
-      "title": "Seven & i Holdings finance deep dive — 7-Bank, ATM platform, nanaco, EC acquiring, 2024 York reorganization",
+      "title": "Seven & i finance deep dive",
       "api_url": "https://finwiki.zksc.io/api/entries/retail/seven-i-holdings-finance-deep-dive.json",
       "url": "https://finwiki.zksc.io/ja/retail/seven-i-holdings-finance-deep-dive/",
       "html_url": "https://finwiki.zksc.io/ja/retail/seven-i-holdings-finance-deep-dive/",
