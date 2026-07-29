@@ -15,7 +15,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 32 |
+| Changed or new entries in current worktree | 0 |
 | canonical_anchor declarations checked (informational) | 12 |
 | canonical_anchor drift (informational, non-gating) | 0 |
 
@@ -41,38 +41,6 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `business/aeon-financial-service-retail-bank-case.md` | `M` | 7 | ok |
-| `business/brian-armstrong-coinbase-public-company-template.md` | `M` | 5 | ok |
-| `business/cz-binance-founder-handoff-case.md` | `M` | 4 | ok |
-| `business/founder-pivot-outcome-template-matrix.md` | `M` | 5 | ok |
-| `business/gmo-internet-group.md` | `M` | 22 | ok |
-| `business/japan-listed-corp-strategic-restructuring-matrix.md` | `M` | 11 | ok |
-| `business/jpx-public-company-as-market-infrastructure.md` | `M` | 6 | ok |
-| `business/kddi-au-financial-bundling-case.md` | `M` | 6 | ok |
-| `business/mizuho-rakuten-finance-stake-accumulation-case.md` | `M` | 6 | ok |
-| `business/ntt-docomo-d-point-telco-finance-case.md` | `M` | 5 | ok |
-| `business/rakuten-group-mobile-finance-bundling-case.md` | `M` | 8 | ok |
-| `business/seven-bank-atm-platform-deconsolidation-case.md` | `M` | 7 | ok |
-| `business/softbank-paypay-financial-integration-case.md` | `M` | 7 | ok |
-| `business/softbank-vision-fund-arm-ipo-template.md` | `M` | 4 | ok |
-| `business/sony-fg-partial-spinoff-case.md` | `M` | 5 | ok |
-| `business/toyota-financial-services-captive-finance-case.md` | `M` | 5 | ok |
-| `corporate-strategy/japan-business-succession-jigyou-shoukei.md` | `M` | 17 | ok |
-| `corporate-strategy/japan-gappei-merger-regime.md` | `M` | 24 | ok |
-| `corporate-strategy/japan-group-tsusan-consolidated-tax-regime.md` | `M` | 19 | ok |
-| `corporate-strategy/japan-holding-company-conversion.md` | `M` | 22 | ok |
-| `corporate-strategy/japan-kabushiki-bunpai-spinoff-regime.md` | `M` | 19 | ok |
-| `corporate-strategy/japan-kabushiki-koukan-iten-regime.md` | `M` | 23 | ok |
-| `corporate-strategy/japan-kaisha-bunkatsu-tax-regime.md` | `M` | 14 | ok |
-| `corporate-strategy/kabushiki-koufu-stock-distribution-regime.md` | `M` | 14 | ok |
-| `corporate-strategy/spinoff-decision-tree-japan.md` | `M` | 19 | ok |
-| `corporate-strategy/toshiba-tob-squeeze-out-2023-2024-case.md` | `M` | 8 | ok |
-| `retail/aeon-group.md` | `M` | 5 | ok |
-| `retail/familymart-itochu-financial-integration.md` | `M` | 4 | ok |
-| `retail/japan-retail-financial-distribution-wedge-matrix.md` | `M` | 5 | ok |
-| `retail/lawson-kddi-retail-finance.md` | `M` | 5 | ok |
-| `retail/lawson-mitsubishi-corporation-tie-up-2024-deep.md` | `M` | 4 | ok |
-| `retail/seven-i-holdings-finance-deep-dive.md` | `M` | 5 | ok |
 
 ## Domain Snapshot
 

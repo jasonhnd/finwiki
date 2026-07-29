@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-07-29T15:33:43+09:00",
+  "generated_at": "2026-07-29T15:37:07+09:00",
   "counts": {
     "markdown_files": 1603,
     "public_markdown_pages": 1602,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1489,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10978938,
-    "word_like_tokens": 1768279,
+    "nonspace_utf8_chars": 10976869,
+    "word_like_tokens": 1767941,
     "entity_anchors": 12,
     "entity_mirror_pages": 12,
     "entity_nodes": 89,
@@ -10503,7 +10503,7 @@
       "entity_edges": [],
       "nonspace_chars": 8495,
       "word_like_tokens": 1340,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "business/brian-armstrong-coinbase-public-company-template.md",
@@ -10564,7 +10564,7 @@
       "entity_edges": [],
       "nonspace_chars": 10148,
       "word_like_tokens": 1587,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "business/christine-moy-talent-signal-jpm-apollo.md",
@@ -10670,7 +10670,7 @@
       "entity_edges": [],
       "nonspace_chars": 8844,
       "word_like_tokens": 1431,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "business/founder-pivot-outcome-template-matrix.md",
@@ -10737,7 +10737,7 @@
       "entity_edges": [],
       "nonspace_chars": 12657,
       "word_like_tokens": 1960,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "business/gmo-internet-group.md",
@@ -10809,7 +10809,7 @@
       "entity_edges": [],
       "nonspace_chars": 6597,
       "word_like_tokens": 1033,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "business/hester-peirce-sec-regulatory-pivot-case.md",
@@ -10970,7 +10970,7 @@
       "entity_edges": [],
       "nonspace_chars": 11438,
       "word_like_tokens": 1878,
-      "last_modified": "2026-06-15"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "business/jpx-public-company-as-market-infrastructure.md",
@@ -11028,7 +11028,7 @@
       "entity_edges": [],
       "nonspace_chars": 10784,
       "word_like_tokens": 1635,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "business/kddi-au-financial-bundling-case.md",
@@ -11084,7 +11084,7 @@
       "entity_edges": [],
       "nonspace_chars": 8710,
       "word_like_tokens": 1479,
-      "last_modified": "2026-06-15"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "business/kitao-yoshitaka-sbi-independent-strategy-case.md",
@@ -11293,7 +11293,7 @@
       "entity_edges": [],
       "nonspace_chars": 8177,
       "word_like_tokens": 1362,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "business/ntt-docomo-d-point-telco-finance-case.md",
@@ -11349,7 +11349,7 @@
       "entity_edges": [],
       "nonspace_chars": 9571,
       "word_like_tokens": 1657,
-      "last_modified": "2026-06-15"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "business/paolo-ardoino-tether-business-model-template.md",
@@ -11456,7 +11456,7 @@
       "entity_edges": [],
       "nonspace_chars": 9320,
       "word_like_tokens": 1541,
-      "last_modified": "2026-06-15"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "business/sandeep-nailwal-polygon-india-dpi-pattern.md",
@@ -11563,7 +11563,7 @@
       "entity_edges": [],
       "nonspace_chars": 8314,
       "word_like_tokens": 1388,
-      "last_modified": "2026-06-15"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "business/softbank-paypay-financial-integration-case.md",
@@ -11621,7 +11621,7 @@
       "entity_edges": [],
       "nonspace_chars": 9763,
       "word_like_tokens": 1610,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "business/softbank-vision-fund-arm-ipo-template.md",
@@ -11671,7 +11671,7 @@
       "entity_edges": [],
       "nonspace_chars": 8517,
       "word_like_tokens": 1382,
-      "last_modified": "2026-06-15"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "business/sony-fg-partial-spinoff-case.md",
@@ -11729,7 +11729,7 @@
       "entity_edges": [],
       "nonspace_chars": 8823,
       "word_like_tokens": 1470,
-      "last_modified": "2026-06-15"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "business/toyota-financial-services-captive-finance-case.md",
@@ -11783,7 +11783,7 @@
       "entity_edges": [],
       "nonspace_chars": 10839,
       "word_like_tokens": 1661,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/INDEX.md",
@@ -16544,7 +16544,7 @@
       "entity_edges": [],
       "nonspace_chars": 11623,
       "word_like_tokens": 1923,
-      "last_modified": "2026-06-03"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "corporate-strategy/japan-gappei-merger-regime.md",
@@ -16608,7 +16608,7 @@
       "entity_edges": [],
       "nonspace_chars": 14873,
       "word_like_tokens": 2412,
-      "last_modified": "2026-06-03"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "corporate-strategy/japan-group-tsusan-consolidated-tax-regime.md",
@@ -16666,7 +16666,7 @@
       "entity_edges": [],
       "nonspace_chars": 11953,
       "word_like_tokens": 2074,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "corporate-strategy/japan-holding-company-conversion.md",
@@ -16730,7 +16730,7 @@
       "entity_edges": [],
       "nonspace_chars": 11954,
       "word_like_tokens": 1934,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "corporate-strategy/japan-kabushiki-bunpai-spinoff-regime.md",
@@ -16794,7 +16794,7 @@
       "entity_edges": [],
       "nonspace_chars": 17815,
       "word_like_tokens": 3004,
-      "last_modified": "2026-06-15"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "corporate-strategy/japan-kabushiki-koukan-iten-regime.md",
@@ -16860,7 +16860,7 @@
       "entity_edges": [],
       "nonspace_chars": 13250,
       "word_like_tokens": 2140,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "corporate-strategy/japan-kaisha-bunkatsu-tax-regime.md",
@@ -16920,7 +16920,7 @@
       "entity_edges": [],
       "nonspace_chars": 16824,
       "word_like_tokens": 2760,
-      "last_modified": "2026-06-15"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "corporate-strategy/kabushiki-koufu-stock-distribution-regime.md",
@@ -16982,7 +16982,7 @@
       "entity_edges": [],
       "nonspace_chars": 13347,
       "word_like_tokens": 2149,
-      "last_modified": "2026-06-15"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "corporate-strategy/spinoff-decision-tree-japan.md",
@@ -17048,7 +17048,7 @@
       "entity_edges": [],
       "nonspace_chars": 12020,
       "word_like_tokens": 1958,
-      "last_modified": "2026-06-15"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "corporate-strategy/toshiba-tob-squeeze-out-2023-2024-case.md",
@@ -17120,7 +17120,7 @@
       "entity_edges": [],
       "nonspace_chars": 15253,
       "word_like_tokens": 2520,
-      "last_modified": "2026-06-15"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "cross-domain-anchor-convention.md",
@@ -89365,7 +89365,7 @@
       "entity_edges": [],
       "nonspace_chars": 7294,
       "word_like_tokens": 1172,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "retail/familymart-itochu-financial-integration.md",
@@ -89441,7 +89441,7 @@
       "entity_edges": [],
       "nonspace_chars": 9982,
       "word_like_tokens": 1657,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "retail/japan-retail-economic-sphere-comparison.md",
@@ -89733,7 +89733,7 @@
       "entity_edges": [],
       "nonspace_chars": 7420,
       "word_like_tokens": 1191,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "retail/lawson-mitsubishi-corporation-tie-up-2024-deep.md",
@@ -89804,7 +89804,7 @@
       "entity_edges": [],
       "nonspace_chars": 9499,
       "word_like_tokens": 1512,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "retail/seven-and-i-hd.md",
@@ -89939,7 +89939,7 @@
       "entity_edges": [],
       "nonspace_chars": 11715,
       "word_like_tokens": 1952,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "retail/store-traffic-as-financial-distribution.md",
@@ -106162,8 +106162,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5444,
-      "word_like_tokens": 964,
+      "nonspace_chars": 3375,
+      "word_like_tokens": 626,
       "last_modified": "2026-07-29"
     }
   ]
