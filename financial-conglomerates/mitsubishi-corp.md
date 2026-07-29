@@ -12,15 +12,19 @@ aliases:
   - "mitsubishi-corporation"
 domain: financial-conglomerates
 created: 2026-05-24
-last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-20
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, sogo-shosha, parent-company, mitsubishi-group, energy, metals, automotive, retail, finance, conglomerate]
 status: active
 sources:
   - "三菱商事 (8058) 公式 IR — https://www.mitsubishicorp.com/jp/ja/ir/"
   - "三菱商事 統合報告書 (最新版) — https://www.mitsubishicorp.com/jp/ja/ir/library/ar/"
+  - "三菱商事 2025年度定時株主総会 招集ご通知 — https://www.mitsubishicorp.com/jp/ja/ir/sh_meeting/pdf/matome_2026.pdf"
+  - "三菱商事 MC-UBSR株式譲渡リリース — https://www.mitsubishicorp.com/jp/ja/news/release/2022/0000048846.html"
+  - "三菱HCキャピタル 株式基本情報 — https://www.mitsubishi-hc-capital.com/investors/stock/basic.html"
+  - "三菱商事フィナンシャルサービス 会社概要 — https://www.mcfj.co.jp/corp/about.html"
   - "EDINET 有価証券報告書 — https://disclosure.edinet-fsa.go.jp/ (検索: 三菱商事)"
   - "JPX 銘柄情報 8058 — https://www2.jpx.co.jp/"
 ---
@@ -48,11 +52,11 @@ This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates IN
 
 ```
 三菱商事 (8058, 東証 PRIME)
-  ├── [[trading-company-finance/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]] (100%)        — 内向け CMS / グループファイナンス
-  ├── [[asset-managers/mitsubishi-corp-asset-management|三菱商事アセットマネジメント]] (100%)  — グループ運用 / オルタナ
-  ├── [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] (約 20% 級, 持分法)            — 外向けリース、上場 8593
+  ├── [[trading-company-finance/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]] (100%) — 財務・経理・審査受託 / グループファイナンス
+  ├── [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] (所有割合 18.35%, 持分法)       — 外向け総合リース、上場 8593
   ├── ローソン (50%, 残り 50% KDDI、2024 年 MBO で非公開化)                              — コンビニ・リテール金融プラットフォーム
-  └── 三菱自動車工業 (約 20% 級, 持分法)                                                  — 自動車・モビリティ
+  ├── 三菱自動車工業 (約 20% 級, 持分法)                                                  — 自動車・モビリティ
+  └── 旧MC-UBSR (現KJR Management) (0%, 2022 年に全株式売却)                             — 現在は KKR 系
 ```
 
 ### 沿革ハイライト ^[extracted]
@@ -87,13 +91,15 @@ This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates IN
 
 | Finance subsidiary / 関連 | Wiki anchor | 持分 | 機能 |
 |---|---|---|---|
-| 三菱商事フィナンシャルサービス | [[trading-company-finance/mitsubishi-corp-finance]] | 100% | 内向け CMS / グループファイナンス / 一括ファクタリング / 為替金利ヘッジ仲介 |
-| 三菱商事アセットマネジメント | [[asset-managers/mitsubishi-corp-asset-management]] | 100% | グループ運用 / オルタナ運用 (該当 wiki が存在する場合) |
-| 三菱HCキャピタル | [[leasing-firms/mitsubishi-hc-capital]] | 約 20% 級 (持分法) | **外向け** 総合リース・ファイナンス、東証 PRIME **8593** |
+| 三菱商事フィナンシャルサービス | [[trading-company-finance/mitsubishi-corp-finance]] | 100% | 財務・経理・審査受託、グループファイナンス |
+| 三菱HCキャピタル | [[leasing-firms/mitsubishi-hc-capital]] | 所有割合 18.35%（議決権 18.4%、持分法） | **外向け** 総合リース・ファイナンス、東証 PRIME **8593** |
+| 旧 三菱商事・ユービーエス・リアルティ（現KJR Management） | [[asset-managers/mitsubishi-corp-asset-management]] | 0%（2022年4月に51%全株式を譲渡） | 現在は KKR 系。不動産AMの歴史的境界として記録 |
+
+Sources: ^[三菱商事フィナンシャルサービス「会社概要」（三菱商事100%）: https://www.mcfj.co.jp/corp/about.html; 三菱HCキャピタル「株式基本情報」（2026-03-31現在、所有割合18.35%）: https://www.mitsubishi-hc-capital.com/investors/stock/basic.html; 三菱商事「2025年度定時株主総会 招集ご通知」（議決権18.4%）: https://www.mitsubishicorp.com/jp/ja/ir/sh_meeting/pdf/matome_2026.pdf; 三菱商事「子会社の株式譲渡に関するお知らせ」（旧MC-UBSRの譲渡後0%）: https://www.mitsubishicorp.com/jp/ja/news/release/2022/0000048846.html.]
 
 加えて、**三菱グループの cross-shareholding** を通じた financial-services ecosystem 連結:
 
-「外向けリース = 三菱HCキャピタル」「内向け CMS = MCFS」の **二層構造** が三菱商事の財務オペレーションの定型。
+「外向けリース = 持分法適用の三菱HCキャピタル」「グループ財経審査 = 100%子会社 MCFJ」の **二層構造**。旧MC-UBSRは2022年に全株式を売却済みで、現在のKJR Managementを三菱商事子会社として扱わない。
 
 ### 5 大商社ポジショニング
 
@@ -139,10 +145,14 @@ This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates IN
 
 - 三菱商事 (8058) 公式 IR — https://www.mitsubishicorp.com/jp/ja/ir/
 - 三菱商事 統合報告書 (最新版) — https://www.mitsubishicorp.com/jp/ja/ir/library/ar/
+- 三菱商事 2025年度定時株主総会 招集ご通知 — https://www.mitsubishicorp.com/jp/ja/ir/sh_meeting/pdf/matome_2026.pdf
+- 三菱商事 MC-UBSR株式譲渡リリース — https://www.mitsubishicorp.com/jp/ja/news/release/2022/0000048846.html
+- 三菱HCキャピタル 株式基本情報 — https://www.mitsubishi-hc-capital.com/investors/stock/basic.html
+- 三菱商事フィナンシャルサービス 会社概要 — https://www.mcfj.co.jp/corp/about.html
 - EDINET 有価証券報告書 — https://disclosure.edinet-fsa.go.jp/ (検索: 三菱商事 / 8058)
 - JPX 銘柄情報 8058 — https://www2.jpx.co.jp/
 
 ---
 
 > [!info] 検証状況
-> confidence: **likely**。三菱商事は public-surface (IR + 統合報告書 + EDINET 有価証券報告書) で十分にカバーされている大企業。金融子会社の boundary は [[trading-company-finance/mitsubishi-corp-finance]] / [[leasing-firms/mitsubishi-hc-capital]] の各エントリと cross-validation 済み。具体的な persistent 数値 (連結純利益、セグメント別利益、HCキャピタル持分比率) は最新 有価証券報告書 / 統合報告書 で都度更新。
+> confidence: **likely**。MCFJ 100%、三菱HCキャピタルの所有割合18.35%（議決権18.4%）、旧MC-UBSRの譲渡後0%は、2026-07-29 時点の各社公式開示で再確認した。

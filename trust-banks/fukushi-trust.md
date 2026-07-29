@@ -5,14 +5,14 @@ aliases:
   - "ふくし信託株式会社"
 domain: trust-banks
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
-review_by: 2026-11-22
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, trust-company, welfare, estate-planning, guardianship]
 status: active
 sources:
-  - "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx"
+  - "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf"
   - "https://www.fukushitrust.com/"
 ---
 
@@ -30,7 +30,7 @@ Fukushi Trust's public site presents trust products for concerns such as future 
 
 The page matters because welfare-oriented trust is a different lane from real-estate finance or securities trust. It is relevant to household financial planning, guardianship-adjacent asset administration, and social-support design.
 
-## Entity Boundary
+## Entity Boundary ^[金融庁の現行登録と会社公式サイト: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://www.fukushitrust.com/]
 
 | Item | Reading |
 |---|---|

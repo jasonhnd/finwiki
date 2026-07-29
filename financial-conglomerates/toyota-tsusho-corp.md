@@ -11,15 +11,17 @@ aliases:
   - "toyota-tsusho"
 domain: financial-conglomerates
 created: 2026-05-24
-last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-20
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, sogo-shosha, parent-company, toyota-group, mobility, africa, ctc-africa, automotive-trading, captive-trading-house]
 status: active
 sources:
   - "豊田通商 (8015) 公式 IR — https://www.toyota-tsusho.com/ir/"
   - "豊田通商 統合報告書 — https://www.toyota-tsusho.com/ir/library/annual_report/"
+  - "豊田通商 第105期有価証券報告書 — https://www.toyota-tsusho.com/ir/library/securities-report/upload_files/105th_yuho_ALL.pdf"
+  - "トヨタ自動車 TFS設立リリース — https://global.toyota/jp/detail/12459084"
   - "EDINET 有価証券報告書 — https://disclosure.edinet-fsa.go.jp/ (検索: 豊田通商)"
   - "JPX 銘柄情報 8015 — https://www2.jpx.co.jp/"
 ---
@@ -27,7 +29,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] as a **sōgō shōsha parent holding-company** with a distinctive **トヨタグループ系商社 (Toyota group captive trading house)** character — Toyota Motor が約 22% 級主要株主、5 大商社とは独立な **第 6 商社 / トヨタ系商社** の位置付け。Read it against [[financial-conglomerates/mitsubishi-corp|三菱商事]] and [[financial-conglomerates/sojitz-corp|双日]] (中堅商社) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see [[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]] (内向け CMS) and the **[[leasing-firms/toyota-financial|トヨタファイナンシャルサービス (TFS)]] family** (Toyota Motor 100% 子会社系の **オートローン / リース / 保険プラットフォーム** — 豊田通商と直接資本関係はないが、Toyota group ecosystem の中で隣接)。System frame: [[finance/INDEX|finance index]] と [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
+This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] as a **sōgō shōsha parent holding-company** with a distinctive **トヨタグループ系商社 (Toyota group captive trading house)** character。Read it against [[financial-conglomerates/mitsubishi-corp|三菱商事]] and [[financial-conglomerates/sojitz-corp|双日]] for peer / contrast context. 豊田通商の公式有価証券報告書は、国内グループファイナンスを親会社に一元化すると説明しており、「豊田通商フィナンス」という100%国内子会社は確認できない。別系列の **[[leasing-firms/toyota-financial|トヨタファイナンシャルサービス (TFS)]]** は Toyota Motor 100% 子会社で、豊田通商の子会社ではない。System frame: [[finance/INDEX|finance index]] と [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
 
 ## 1. 会社概要
 
@@ -47,7 +49,7 @@ This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates IN
 
 ```
 豊田通商 (8015, 東証 PRIME)
-  ├── [[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]] (100%)                 — 内向け CMS / グループファイナンス
+  ├── [[trading-company-finance/toyota-tsusho-finance|親会社財務機能]]                             — 国内グループファイナンスを豊田通商に一元化
   ├── CFAO (100%, 2012 取得 → 2016 完全子会社化)                                  — アフリカ流通網 (自動車・医薬品・食品)
   ├── Eurus Energy (再エネ大手、TEPCO HD と JV)                                   — 風力 IPP
   └── 多数の Toyota 海外ディーラー網                                              — 自動車流通
@@ -83,8 +85,10 @@ This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates IN
 
 | Finance subsidiary / 関連 | Wiki anchor | 持分 | 機能 |
 |---|---|---|---|
-| 豊田通商フィナンス | [[trading-company-finance/toyota-tsusho-finance]] | 100% | 内向け CMS / グループファイナンス / 一括ファクタリング |
-| **トヨタファイナンシャルサービス (TFS) family** | **[[leasing-firms/toyota-financial]]** | **Toyota Motor 100% 子会社 (豊田通商とは別系列)** | **オートローン / リース / 保険、Toyota 車両販売連動の世界最大級 captive finance** |
+| 豊田通商（親会社財務機能） | [[trading-company-finance/toyota-tsusho-finance]] | — | 国内グループファイナンスを親会社に一元化。海外は地域現地法人等で集中調達・資金供給 |
+| **トヨタファイナンシャルサービス (TFS)** | **[[leasing-firms/toyota-financial]]** | **Toyota Motor 100% 子会社（豊田通商とは別系列）** | **Toyotaの販売金融統括会社** |
+
+Sources: ^[豊田通商「第105期有価証券報告書」（財務戦略・親会社への国内グループファイナンス一元化）: https://www.toyota-tsusho.com/ir/library/securities-report/upload_files/105th_yuho_ALL.pdf; トヨタ自動車「金融統括会社の設立等について」（TFS 100%出資）: https://global.toyota/jp/detail/12459084.]
 
 加えて、**トヨタグループの financial-services エコシステム**:
 
@@ -117,7 +121,7 @@ This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates IN
 
 - [[financial-conglomerates/INDEX|financial-conglomerates INDEX]]
 - [[financial-conglomerates/mitsubishi-corp|三菱商事]] · [[financial-conglomerates/mitsui-co|三井物産]] · [[financial-conglomerates/itochu-corp|伊藤忠商事]] · [[financial-conglomerates/sumitomo-corp|住友商事]] · [[financial-conglomerates/marubeni-corp|丸紅]] · [[financial-conglomerates/sojitz-corp|双日]] (peer 商社)
-- [[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]] (内向け group treasury)
+- [[trading-company-finance/toyota-tsusho-finance|豊田通商の親会社財務機能]] (国内グループファイナンス)
 - [[leasing-firms/toyota-financial|TFS / トヨタファイナンシャルサービス]] (Toyota Motor 直系 captive finance)
 - [[megabanks/mufg|MUFG]] · [[regional-banks/aichi-fg|あいち FG]] (中京経済圏金融との取引)
 - [[finance/INDEX|finance index]] · [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]
@@ -126,10 +130,12 @@ This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates IN
 
 - 豊田通商 (8015) 公式 IR — https://www.toyota-tsusho.com/ir/
 - 豊田通商 統合報告書 — https://www.toyota-tsusho.com/ir/library/annual_report/
+- 豊田通商 第105期有価証券報告書 — https://www.toyota-tsusho.com/ir/library/securities-report/upload_files/105th_yuho_ALL.pdf
+- トヨタ自動車 TFS設立リリース — https://global.toyota/jp/detail/12459084
 - EDINET 有価証券報告書 — https://disclosure.edinet-fsa.go.jp/ (検索: 豊田通商 / 8015)
 - JPX 銘柄情報 8015 — https://www2.jpx.co.jp/
 
 ---
 
 > [!info] 検証状況
-> confidence: **likely**。豊田通商は public-surface で十分カバー。Toyota Motor 持分比率、CFAO 連結状況、Eurus Energy 再エネ容量 は最新 有価証券報告書 / 統合報告書 で都度更新。Toyota グループ ecosystem 内の TFS との役割境界も継続観察。
+> confidence: **likely**。国内グループファイナンスを親会社に一元化する構造と、TFSがToyota Motor 100%子会社である別系列境界は、2026-07-29 時点の公式開示で再確認した。「豊田通商フィナンス」100%子会社という未確認表現は削除した。

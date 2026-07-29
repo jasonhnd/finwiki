@@ -25,9 +25,9 @@
     "domain": "trading-company-finance",
     "type": null,
     "created": "2026-05-24",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-06-24",
-    "review_by": "2026-08-08",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -53,11 +53,11 @@
   "headings": [
     "三井物産フィナンシャルサービス (Mitsui & Co. Financial Services)",
     "Wiki route",
-    "1. 会社概要",
-    "三井物産の金融機能配置",
-    "2. 事業セグメント・マップ",
+    "1. 会社概要 ^[三井物産 IR: https://www.mitsui.com/jp/ja/ir/; EDINET: https://disclosure2.edinet-fsa.go.jp/]",
+    "三井物産の金融機能配置 ^[三井物産の有価証券報告書・関係会社開示と各社公式 IR に基づく比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]",
+    "2. 事業セグメント・マップ ^[三井物産 IR / 有価証券報告書。業務範囲は非上場子会社の開示制約があるため最新関係会社開示を優先: https://www.mitsui.com/jp/ja/ir/]",
     "三井物産の事業構造と金融機能",
-    "競合 / Peer",
+    "競合 / Peer ^[各親会社の有価証券報告書・公式 IR を横断した比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]",
     "4. 規制・政策",
     "Related",
     "Sources"
@@ -110,9 +110,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4223,
-    "word_like_tokens": 614,
+    "nonspace_chars": 4545,
+    "word_like_tokens": 661,
     "inbound_wikilinks_count": 10,
-    "last_modified": "2026-06-24"
+    "last_modified": "2026-07-29"
   }
 }

@@ -25,9 +25,9 @@
     "domain": "trading-company-finance",
     "type": null,
     "created": "2026-05-24",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-06-24",
-    "review_by": "2026-09-22",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -54,12 +54,12 @@
   "headings": [
     "双日フィナンス (Sojitz Finance)",
     "Wiki route",
-    "1. 会社概要",
+    "1. 会社概要 ^[双日 IR: https://www.sojitz.com/jp/ir/; EDINET: https://disclosure2.edinet-fsa.go.jp/]",
     "双日と銀行系列",
-    "双日系金融機能の配置",
-    "2. 事業セグメント・マップ",
+    "双日系金融機能の配置 ^[双日の有価証券報告書・関係会社開示と各社公式 IR に基づく比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]",
+    "2. 事業セグメント・マップ ^[双日 IR / 有価証券報告書。業務範囲は非上場子会社の開示制約があるため最新関係会社開示を優先: https://www.sojitz.com/jp/ir/]",
     "双日の事業構造と金融機能",
-    "競合 / Peer",
+    "競合 / Peer ^[各親会社の有価証券報告書・公式 IR を横断した比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]",
     "4. 規制・政策",
     "Related"
   ],
@@ -111,9 +111,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4113,
-    "word_like_tokens": 608,
+    "nonspace_chars": 4423,
+    "word_like_tokens": 653,
     "inbound_wikilinks_count": 10,
-    "last_modified": "2026-06-24"
+    "last_modified": "2026-07-29"
   }
 }

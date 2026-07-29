@@ -1,12 +1,12 @@
 ---
 source: trust-banks/custody-bank
-source_hash: 4a0c6785c098d2a6
+source_hash: ed8e64d261f10db8
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本カストディ銀行 (CBJ)"
-translated_at: 2026-06-26T08:32:15.215Z
+translated_at: 2026-07-28T23:40:04.332Z
 ---
 
 # 日本カストディ銀行 (CBJ)
@@ -72,7 +72,7 @@ TCSB 系（旧 みずほ + りそな系）
   └── 朝日生命 5.0% / 明治安田生命 4.5% / かんぽ生命 3.5% / 富国生命 2.0%
 ```
 
-## 2. 事業セグメント・マップ
+## 2. 事業セグメント・マップ ^[日本カストディ銀行「ディスクロージャー誌 2025」: https://www.custody.jp/data/disclosure/pdf/disclosure202507.pdf]
 
 | セグメント | 主要事業 | 特徴 |
 |---|---|---|
@@ -113,7 +113,7 @@ TCSB 系（旧 みずほ + りそな系）
   - 2024〜 NISA 拡充 → 投信保管資産の増加
   - 2025〜 確定拠出年金制度改革（拠出限度額拡大）→ 信託資産の拡大圧力
 
-## 5. 重要年表
+## 5. 重要年表 ^[日本カストディ銀行「ディスクロージャー誌 2025」: https://www.custody.jp/data/disclosure/pdf/disclosure202507.pdf; 金融庁「信託兼営金融機関認可一覧」: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf]
 
 | 年月 | 事象 |
 |---|---|

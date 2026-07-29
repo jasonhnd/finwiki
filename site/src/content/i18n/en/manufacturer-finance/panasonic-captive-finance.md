@@ -1,24 +1,24 @@
 ---
 source: manufacturer-finance/panasonic-captive-finance
-source_hash: bd54e70b0f100895
+source_hash: 0f33e2b3b7cee109
 lang: en
 status: machine
 fidelity: ok
 title: "Panasonic Captive Finance (パナソニック顧客金融)"
-translated_at: 2026-06-19T13:31:34.052Z
+translated_at: 2026-07-28T23:40:43.658Z
 ---
 
 # Panasonic Captive Finance (パナソニック顧客金融)
 
 ## Wiki route
 
-This entry sits under [[manufacturer-finance/INDEX|manufacturing index]]. Read it against [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi 産業金融]], [[manufacturer-finance/sony-group-finance-arm|Sony FG]], [[manufacturer-finance/mitsubishi-heavy-export-finance|MHI 輸出金融]], and [[manufacturer-finance/toyota-financial-services|Toyota Financial Services]] for peer industrial-conglomerate finance arms. Pair with [[leasing-firms/smfl|SMFL (三井住友ファイナンス&リース)]] and [[megabanks/mufg|MUFG]] for the bank-side counterpart of Panasonic's B2B vendor-finance flows, [[manufacturer-finance/INDEX|manufacturer-finance INDEX]] for the broader regulatory boundary.
+This entry sits under [[manufacturer-finance/INDEX|manufacturing index]]. Read it against [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi 産業金融]], [[manufacturer-finance/sony-group-finance-arm|Sony FG]], [[manufacturer-finance/mitsubishi-heavy-export-finance|MHI 輸出金融]], and [[manufacturer-finance/toyota-financial-services|Toyota Financial Services]] for peer industrial-conglomerate finance boundaries. Pair with [[manufacturer-finance/vendor-finance-mechanism|vendor-finance mechanism]] for accounting mechanics and [[leasing-firms/INDEX|leasing-firms INDEX]] for separately evidenced financing providers.
 
 ## TL;DR
 
-Panasonic Holdings (6752) is an integrated electronics and battery manufacturer spanning home appliances, housing, automotive batteries, and B2B solutions. **Unlike Toyota or Sony, it does not have a directly affiliated captive bank, insurer, or large-scale card business under the parent.** Instead, it takes a three-layer structure: **(1) it arranges vendor finance for B2B customers through alliances with Sumitomo Mitsui Finance and Leasing (SMFL) and bank-affiliated leasing; (2) it structures capital-investment finance on a per-JV basis through EV-battery joint ventures with Tesla, Mazda, and others; and (3) the former Panasonic Finance (domestic corporate cards / installment) was substantially scaled back in the reorganization around 2017 年.** From a manufacturing perspective, it is a sample of "a model in which a giant manufacturer runs customer finance via bank affiliates and JVs **without holding a captive**." This policy became clearer with the 2022  transition to a holding-company structure plus the 2024  mid-term plan (Operational Excellence).
+“Panasonic Captive Finance” is not an official legal name or reporting-segment name. It is a FinWiki analytical route for distinguishing product sales, trade receivables, capital investment, and external finance at Panasonic Holdings Corporation (6752). The current official group list shows the holding company, 6 operating companies, and specialist-function companies / affiliates, but does not identify a standalone captive bank or insurer. A statement that a specific leasing company, bank, JBIC, or NEXI participates in customer finance or factory investment is therefore added only when a transaction-specific contract or release exists. Mazda is a battery-supply collaboration, while Subaru covers supply and preparations to jointly establish a new factory; the two should not both be described generically as existing JVs.
 
-## 1. Corporate structure and the position of the finance division
+## 1. Company and analytical boundary
 
 | Item | Content |
 |---|---|
@@ -26,81 +26,72 @@ Panasonic Holdings (6752) is an integrated electronics and battery manufacturer 
 | Established | 1935-12-15 (predecessor: 1918 Matsushita Electric Housewares Manufacturing Works) |
 | Headquarters | 1006  Oaza Kadoma, Kadoma City, Osaka Prefecture |
 | Listing | TSE PRIME 6752 (former ADR was withdrawn in 2013 ) |
-| Consolidated revenue | approx. 8.5 兆円 (FY2024) |
-| Consolidated operating profit | approx. 3,800 億円 scale (FY2024) |
-| Transition to holding-company structure | 2022-04-01 (reorganized the entire Panasonic Group into a 8  operating-company structure) |
-| Main captive finance | **Directly affiliated arms are limited** (the former Panasonic Finance has been scaled back) |
-| Main finance alliances | [[leasing-firms/smfl|SMFL]] / [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] / [[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG]] |
+| Current group structure | Holding company + 6 operating companies + specialist-function companies / affiliates |
+| Panasonic Automotive Systems | From 2024-12-02, Apollo-related funds 80% and Panasonic Holdings 20% |
+| Panasonic Housing Solutions | Part of the YKK Group from 2026-04-01 |
+| Nature of this page | A manufacturing-finance boundary page, not an official finance entity or segment |
 
-### Position of the finance division (after the 2022  transition to a holding-company structure)
+Sources: ^[Panasonic Holdings「Group Companies」: https://holdings.panasonic/global/corporate/phd/group-companies.html; Panasonic「Automotive Systems share transfer completed」: https://news.panasonic.com/global/press/en241202-6.]
+
+### Current Operating Company System
 
 ```
 Panasonic Holdings (6752)
-  ├── Panasonic Corporation (Lifestyle Appliances, Air Quality & Air Conditioning, Cold Chain, etc.)
-  ├── Panasonic Automotive Systems
-  ├── Panasonic Industry (6786,  separately listed)
-  ├── Panasonic Connect (B2B solutions, Blue Yonder)
-  ├── Panasonic Energy (automotive and industrial batteries)
-  ├── Panasonic Housing Solutions
-  ├── Panasonic Entertainment & Communication
-  └── Corporate Finance (parent-company finance)
-        ├── Supply-chain finance / accounts-receivable factoring
-        ├── Customer leasing arranged in alliance with SMFL / Mitsubishi HC Capital, etc.
-        ├── EV-battery JVs (Tesla, Mazda, etc.) handle capital-investment finance on a per-JV basis
-        └── Former Panasonic Finance (domestic corporate cards / installment) has reduced functions
+  ├── Panasonic Connect
+  ├── Panasonic Electric Works
+  ├── Panasonic HVAC & CC
+  ├── Panasonic Energy
+  ├── Panasonic Industry
+  └── Panasonic Corporation
+      + Specialist-function companies and domestic / overseas affiliates
 ```
 
-The former "Panasonic Finance Co., Ltd." transferred part of its corporate-card functions to OBC and bank affiliates around 2017 年, and within the current Panasonic Holdings consolidation the weight of captive finance has shrunk.
+Panasonic Industry is an operating company within the group, not a separately listed “6786 company.” The old 8-operating-company model is not retained as the current organization, and the consolidation / ownership boundaries for Automotive and Housing are reflected here.
 
-## 2. Products / business lines × finance-arrangement patterns
+## 2. Business lines and the boundary of finance statements
 
-| Business line | Main customer-finance arrangement | Partner finance |
+| Business / project | Scope confirmed by primary sources | Wording caution |
 |---|---|---|
-| Lifestyle Appliances (white goods) | Credit via mass retailers (Orico, Jaccs, etc.) | Mass-retailer tie-ups; parent involvement is limited |
-| Air Quality & Air Conditioning (air conditioners, B2B) | Leasing / subscription | [[leasing-firms/smfl|SMFL]] / [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] |
-| Automotive Systems | Parts for automobile OEMs (vendor financing) | Connected to OEM-affiliated captives (Toyota Industries, etc.) |
-| Panasonic Energy (automotive batteries) | EV-battery JVs (Tesla, Mazda, Subaru) | Per-JV capital-investment finance, bank syndicate + JBIC |
-| Panasonic Connect (Blue Yonder, industrial) | SaaS subscription, IT-equipment leasing | Bank-affiliated leasing + SaaS billing |
-| Housing Solutions | Mortgage brokerage, renovation loans | Bank / credit-sales alliances |
-| Industry (6786) | B2B parts vendor financing | Separately listed, independent IR |
+| Batteries for Mazda | Preparations for supply from 2027 年 onward; for 2030 年, domestic capacity of 10 GWh/year is planned for this collaboration | This is a supply collaboration; the announcement does not show formation of a JV |
+| Mazda-related equipment | Total investment of about 833 億円 in production infrastructure and other items; subsidy ceiling of about 283 億円 | The disclosed amount also includes Panasonic Energy supply outside this collaboration |
+| Batteries for Subaru | Supply and preparations to jointly establish a new domestic factory | Do not recast the start of preparations as a completed JV or finalized financing |
+| Kansas factory | Began operations in 2025-07; produces 2170 cylindrical automotive batteries; North American No. 2 production site | Separate factory operations from funders and the accounting finance structure |
+| B2B product sales | Trade receivables, contract liabilities, leases, and similar items are visible in consolidated disclosures | Do not infer a comprehensive alliance with a specific financial institution without transaction-level evidence |
 
-For EV batteries, it has continued supplying 1810 / 21700  cells to **Tesla Gigafactory 1 (Nevada)** since 2014 , and is advancing capacity-expansion investment for Tesla 4680  cells, including in the United States (the Kansas plant). Finance on a per-joint-venture basis is arranged through a combination of a bank syndicate + [[financial-regulators/jbic|JBIC]] (overseas capital investment) + U.S. IRA subsidies (the Section 45X manufacturing tax credit).
+Sources: ^[Panasonic Energy / Mazda joint announcement: https://news.panasonic.com/uploads/tmg_block_page_image/file/26478/en240906-4-1.pdf; Panasonic Energy / Subaru announcement: https://news.panasonic.com/global/press/en240906-6; Panasonic「Kansas factory」: https://news.panasonic.com/global/stories/18073.]
 
-## 3. KPIs (FY2024  consolidated)
+## 3. FY2026 disclosed scale
 
 | Indicator | Value | Source |
 |---|---|---|
-| Consolidated revenue | approx. 8.5 兆円 | Panasonic Holdings earnings report |
-| Consolidated operating profit | approx. 3,800 億円 | ditto |
-| Consolidated net profit | approx. 4,400 億円 (including one-time gains) | ditto |
-| Consolidated total assets | approx. 9.5 兆円 scale | ditto |
-| Energy segment revenue | approx. 9,500 億円 scale | segment information |
-| Energy segment operating profit | tens of billions of yen scale | ditto |
-| ROE | around 8-10% (FY2024) | Integrated Report |
-| Net D/E | around 0.2-0.3 x | ditto |
-| Share of revenue to Tesla | a few % of consolidated revenue (estimate) | estimate from public information |
+| Consolidated sales | 8兆487億円 | FY3/26 results |
+| Adjusted operating profit | 4,474億円 | Same source |
+| FY3/27 sales forecast | 7兆6,000億円 | Forecast announced 2026-05-12 |
+| FY3/27 adjusted operating profit forecast | 6,000億円 | Same source |
+| AI-infrastructure-related sales | FY3/26 3,220億円 → FY3/27 forecast 5,500億円 | Group Growth Strategy |
 
-> KPIs are stated as approximate figures from Panasonic Holdings' "Integrated Report," "earnings reports," "Investor Day materials," and "EDINET securities reports." Details of each operating company—Energy / Blue Yonder / Industry—are disclosed separately.
+Sources: ^[Panasonic「FY2026 Financial Results, FY2027 Forecast, and Group Growth Strategy」(2026-05-29): https://news.panasonic.com/global/stories/18722.]
 
-## 4. Strategy (Operational Excellence + Energy)
+These are Panasonic Group results and forecasts, not KPIs for a captive-finance division. Automotive's move to equity-method accounting and deconsolidation affected the FY3/26 sales decline, so the figures should not be compared mechanically with values under the old organization.
 
-- **Operational Excellence (2024〜 mid-term plan)**: Places top priority on improving group-wide margins and capital efficiency. Through the holding-company structure and clearer accountability of each operating company, it accelerates the cleanup of low-profitability businesses and concentrated investment in high-growth areas (Energy, Blue Yonder).
-- **Concentrated investment in automotive batteries**: Increased production of Tesla 4680  cells, supply contracts for Mazda and Subaru, the new De Soto plant in Kansas, U.S. (approx. 4 GWh → 30 GWh expansion plan), and so on. The investment scale is on the order of several hundred billion to over a trillion yen, arranged with IRA subsidies + bank-syndicate financing + JBIC.
-- **Making Blue Yonder a B2B SaaS business**: Positions Blue Yonder, the U.S. supply-chain SaaS acquired in 2021  for approximately 7,100 億円, at the core of Panasonic Connect, raising the subscription share of revenue.
-- **A captive-free path**: Reduces the former Panasonic Finance functions and arranges customer finance in alliance with SMFL, Mitsubishi HC Capital, and others. This lightens the parent's B/S and works toward improving ROE.
-- **2024〜2026  priorities**: Balancing intensifying competition in the Chinese EV market against Tesla-dependency risk, monetizing automotive batteries, and structural reform of the housing business (Panasonic Homes).
+## 4. Strategy and verification principles
 
-## 5. Regulation and policy
+- **Verify the organizational boundary first**: Use the current 6 operating companies, the 20% Automotive interest, and the transfer of Housing to YKK as the baseline.
+- **Separate supply contracts from finance contracts**: Battery supply, factory construction, subsidies, bank lending, and export credit require separate evidence.
+- **Resolve external finance by counterparty**: Record a counterparty for leasing, installments, housing loans, and similar products only when a product page or a finance-company transaction announcement exists.
+- **Separate forecasts from results**: Do not treat the FY3/27 forecast or growth-investment plan as FY3/26 results.
+
+## 5. Regulation and Policy
 
 - As a listed company, it is subject to disclosure under the TSE, the Financial Instruments and Exchange Act, the Companies Act, and IFRS.
 - Automotive batteries are strongly affected by the U.S. IRA's (Inflation Reduction Act) Section 45X manufacturing tax credit, the European Battery Regulation, and Japan's GX (decarbonization) investment-promotion measures.
-- In large overseas capital investments, there are deals that use [[financial-regulators/jbic|JBIC]] coordinated financing and [[policy-finance/nexi|NEXI]] cover.
-- The housing business had an integration with Toyota Housing (Prime Life Technologies), but subsequent structural changes have continued.
-- The scaling-back of the former Panasonic Finance is a case of "a choice not to insist on direct finance" weighed against the compliance costs of the Money Lending Business Act and the Installment Sales Act.
+- Trade receivables, contract liabilities, leases, and transfers of receivables in the consolidated financial statements follow IFRS recognition and disclosure.
+- Explanations of JBIC / NEXI / private-bank programs are not evidence that they are used in a specific Panasonic project.
+- If a separate entity providing customer loans, installment sales, or insurance is confirmed, verify its permissions under the Money Lending Business Act, Installment Sales Act, Insurance Business Act, and related laws on a legal-entity basis.
 
 ## Related
 
-- [[leasing-firms/smfl|SMFL]] · [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] · [[leasing-firms/orix-corp|オリックス]] · [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]]
+- [[manufacturer-finance/vendor-finance-mechanism|vendor-finance mechanism]] · [[leasing-firms/smfl|SMFL]] · [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] · [[leasing-firms/orix-corp|オリックス]]
 - [[financial-regulators/jbic|JBIC]] · [[policy-finance/nexi|NEXI]]
 - [[manufacturer-finance/hitachi-industrial-finance-platform|Hitachi 産業金融]] · [[manufacturer-finance/sony-group-finance-arm|Sony FG]] · [[manufacturer-finance/toyota-financial-services|Toyota Financial Services]] · [[manufacturer-finance/mitsubishi-heavy-export-finance|MHI 輸出金融]]
 - [[manufacturer-finance/toyota-motor|Toyota Motor]] · [[manufacturer-finance/seiko-epson|Seiko Epson]]
@@ -108,13 +99,15 @@ For EV batteries, it has continued supplying 1810 / 21700  cells to **Tesla Giga
 
 ## Sources
 
-- Panasonic Holdings「IR Information」: https://holdings.panasonic/global/corporate/about/ir/
-- Panasonic Holdings「Company Profile」: https://holdings.panasonic/global/corporate/about/profile.html
-- Panasonic Holdings「Press Releases」: https://news.panasonic.com/global/
+- Panasonic Holdings「Group Companies」: https://holdings.panasonic/global/corporate/phd/group-companies.html
+- Panasonic「FY2026 Financial Results, FY2027 Forecast, and Group Growth Strategy」: https://news.panasonic.com/global/stories/18722
+- Panasonic「Automotive Systems share transfer completed」: https://news.panasonic.com/global/press/en241202-6
+- Panasonic Energy / Mazda joint announcement: https://news.panasonic.com/uploads/tmg_block_page_image/file/26478/en240906-4-1.pdf
+- Panasonic Energy / Subaru joint announcement: https://news.panasonic.com/global/press/en240906-6
+- Panasonic「Kansas factory」: https://news.panasonic.com/global/stories/18073
 - EDINET (securities reports): https://disclosure2.edinet-fsa.go.jp/
-- SMFL (Sumitomo Mitsui Finance and Leasing): https://www.smfl.co.jp/
 
 ---
 
 > [!info] Proofreading status
-> confidence: **likely**. Composed from public information based on Panasonic Holdings IR / earnings reports / EDINET. Energy segment figures, the share of revenue to Tesla, and the actual amount of IRA subsidies are stated as approximate figures due to limited disclosure. Details of the former Panasonic Finance reorganization are tracked only to a limited extent from public information.
+> confidence: **likely**. Corrected as of 2026-07-29 using Panasonic's official group list, FY2026 results, primary-source disclosures of the Automotive / Housing ownership changes, and battery collaborations. “Panasonic Captive Finance” is not an official entity or reporting segment. Participation by financial institutions and funding structures are not asserted without transaction-specific primary evidence.

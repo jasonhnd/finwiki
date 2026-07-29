@@ -29,9 +29,9 @@
     "domain": "financial-conglomerates",
     "type": null,
     "created": "2026-05-24",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-20",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -52,6 +52,8 @@
     "sources": [
       "伊藤忠商事 (8001) 公式 IR — https://www.itochu.co.jp/ja/ir/",
       "伊藤忠商事 統合報告書 — https://www.itochu.co.jp/ja/ir/library/annual_report/",
+      "伊藤忠商事 第102期有価証券報告書 — https://www.itochu.co.jp/ja/files/security_102.pdf",
+      "東京センチュリー 株式基本情報 — https://www.tokyocentury.co.jp/jp/ir/stock/basic.html",
       "EDINET 有価証券報告書 — https://disclosure.edinet-fsa.go.jp/ (検索: 伊藤忠商事)",
       "JPX 銘柄情報 8001 — https://www2.jpx.co.jp/"
     ]
@@ -105,9 +107,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5552,
-    "word_like_tokens": 860,
+    "nonspace_chars": 5947,
+    "word_like_tokens": 939,
     "inbound_wikilinks_count": 12,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-07-29"
   }
 }

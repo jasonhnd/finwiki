@@ -8,14 +8,14 @@ aliases:
   - "trust-banks/mitsubishi-ufj-trust"
 domain: trust-banks
 created: 2026-05-20
-last_updated: 2026-06-05
-last_tended: 2026-06-05
-review_by: 2026-11-20
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, bank, trust-bank, mufg, operating-company]
 status: active
 sources:
-  - "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
+  - "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf"
   - "https://www.tr.mufg.jp/ir/about/"
   - "https://www.tr.mufg.jp/ippan/about/index.html"
 ---
@@ -30,7 +30,7 @@ This entry sits under [[trust-banks/INDEX|trust-banks INDEX]] (its domain route)
 
 三菱UFJ信託銀行 (Mitsubishi UFJ Trust and Banking Corporation, MUTB) は [[megabanks/mufg|MUFG]] の中核 trust-bank operating company。**銀行法上の銀行免許に加え兼営法 (金融機関の信託業務の兼営等に関する法律) に基づく信託業務の兼営認可**を持つ「信託兼営金融機関」で、預貸などの銀行業務と、信託財産・年金・不動産・証券代行・受託財産管理を一体で営む。商業銀行の [[megabanks/mufg-bank|三菱UFJ銀行]] とは別の銀行法人であり、銀行免許 + 信託兼営という点でメガバンク本体と区別される。
 
-## 1. License / group boundary
+## 1. License / group boundary ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; 三菱UFJ信託銀行「会社概要」: https://www.tr.mufg.jp/ippan/about/index.html]
 
 | Item | Notes |
 |---|---|

@@ -26,9 +26,9 @@
     "domain": "megabanks",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-06-23",
-    "review_by": "2026-08-07",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -59,7 +59,7 @@
     "1. 会社概要",
     "設立スキーム（公開資料ベース）^[extracted]",
     "親会社チェーン",
-    "主要子会社・持分予定（公開発表ベース）",
+    "主要子会社・持分（公開発表ベース）",
     "重要年表（公開発表ベース）^[extracted]",
     "2. 事業セグメント・マップ",
     "通信系 FG「第 4 極」の位置付け"
@@ -94,9 +94,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6934,
-    "word_like_tokens": 1243,
+    "nonspace_chars": 7013,
+    "word_like_tokens": 1256,
     "inbound_wikilinks_count": 80,
-    "last_modified": "2026-06-23"
+    "last_modified": "2026-07-29"
   }
 }

@@ -1,11 +1,11 @@
 ---
 source: trading-company-finance/sumitomo-corp-financial-management
-source_hash: e19a7e42fc28795f
+source_hash: 42f381285a8d6048
 lang: en
 status: machine
 fidelity: ok
 title: "Sumitomo Corporation Financial Management (住友商事フィナンシャルマネジメント)"
-translated_at: 2026-06-19T12:43:19.955Z
+translated_at: 2026-07-28T23:40:43.953Z
 ---
 
 # Sumitomo Corporation Financial Management (住友商事フィナンシャルマネジメント)
@@ -14,13 +14,13 @@ translated_at: 2026-06-19T12:43:19.955Z
 
 This entry sits under [[trading-company-finance/INDEX|trading-company-finance INDEX]]. Read it against [[leasing-firms/smfl|SMFL]] (the same-parent external-facing leasing / asset finance JV with [[megabanks/smfg|SMFG]]) and [[trading-company-finance/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]] (the closest peer trading-house group-treasury arm). For the broader peer set, see [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]], [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]], [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]]. See [[banking/INDEX|banking index]] for the broader regulatory boundary.
 
-## 1. Company overview
+## 1. Company overview ^[住友商事フィナンシャルマネジメント「会社情報」: https://ssfm.co.jp/company/]
 
 | Item | Notes |
 |---|---|
 | Wiki role | **Internal-facing finance for the Sumitomo Corporation group**: CMS / group factoring / group finance |
 
-### Placement of Sumitomo group + SMFG financial functions
+### Placement of Sumitomo group + SMFG financial functions ^[住友商事フィナンシャルマネジメント「事業紹介」: https://ssfm.co.jp/field/; 住友商事 IR: https://www.sumitomocorp.com/ja/jp/ir]
 
 | Layer | Entity | Role |
 |---|---|---|
@@ -30,7 +30,7 @@ This entry sits under [[trading-company-finance/INDEX|trading-company-finance IN
 | **External-facing life & nonlife insurance** | [[non-life-insurers/mitsui-sumitomo-insurance|三井住友海上]] / [[life-insurers/sumitomo-life|住友生命]] | Nonlife / life |
 | **Internal-facing / group finance** | **Sumitomo Corp FM (this page)** | Internal banking / CMS / internal factoring for group companies |
 
-## 2. Business-segment map
+## 2. Business-segment map ^[住友商事フィナンシャルマネジメント「事業紹介」: https://ssfm.co.jp/field/]
 
 | Segment | Content |
 |---|---|
@@ -41,7 +41,7 @@ This entry sits under [[trading-company-finance/INDEX|trading-company-finance IN
 | **Overseas remittance service** | Overseas remittance / collection for group companies |
 | **Trade-finance support** | Credit support tied to Sumitomo Corporation's own metals / transportation & construction machinery / infrastructure / media & digital / living-related & real estate / resources, chemicals & electronics transactions |
 
-### Competitors / Peers
+### Competitors / Peers ^[各親会社の有価証券報告書・公式 IR を横断した比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]
 
 | Trading house | Internal-facing finance subsidiary | External-facing leasing arm |
 |---|---|---|

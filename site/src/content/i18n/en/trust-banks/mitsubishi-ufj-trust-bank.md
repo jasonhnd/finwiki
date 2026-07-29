@@ -1,11 +1,11 @@
 ---
 source: trust-banks/mitsubishi-ufj-trust-bank
-source_hash: 9b6ab834d1ed258f
+source_hash: 76dc3d3b3dcb019b
 lang: en
 status: machine
 fidelity: ok
 title: "Mitsubishi UFJ Trust and Banking (MUTB)"
-translated_at: 2026-06-15T04:09:41.171Z
+translated_at: 2026-07-28T23:40:44.100Z
 ---
 
 # Mitsubishi UFJ Trust and Banking (MUTB)
@@ -18,7 +18,7 @@ This entry sits under [[trust-banks/INDEX|trust-banks INDEX]] (its domain route)
 
 Mitsubishi UFJ Trust and Banking Corporation (三菱UFJ信託銀行, MUTB) is the core trust-bank operating company of [[megabanks/mufg|MUFG]]. It is a "trust-business-concurrent financial institution" that, **in addition to a bank license under the Banking Act, holds a license to concurrently conduct trust business under the Concurrent Operation Act (the Act on Concurrent Operation of Trust Business by Financial Institutions)**, conducting banking business such as deposits and lending together with trust assets, pensions, real estate, transfer agency, and entrusted-asset administration as an integrated whole. It is a separate banking legal entity from the commercial bank [[megabanks/mufg-bank|三菱UFJ銀行]], and is distinguished from the megabank entity itself by the combination of a bank license + concurrent trust operation.
 
-## 1. License / group boundary
+## 1. License / group boundary ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; 三菱UFJ信託銀行「会社概要」: https://www.tr.mufg.jp/ippan/about/index.html]
 
 | Item | Notes |
 |---|---|

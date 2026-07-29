@@ -10,9 +10,9 @@ aliases:
   - "marubeni-financial-services"
 domain: trading-company-finance
 created: 2026-05-24
-last_updated: 2026-05-26
-last_tended: 2026-06-24
-review_by: 2026-08-08
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, finance, trading-company-finance, marubeni, fuyo-group, group-treasury, factoring, cms]
 status: active
@@ -29,13 +29,13 @@ sources:
 
 This entry sits under [[trading-company-finance/INDEX|trading-company-finance INDEX]]. Read it against [[leasing-firms/mizuho-lease|みずほリース]] (the listed leasing arm where 丸紅 became a strategic shareholder in 2024) and [[leasing-firms/fuyo-lease|芙蓉総合リース]] (the 芙蓉グループ peer leasing arm — 丸紅 is part of the 芙蓉 community). For peer 商社系 group-treasury arms, see [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]], [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]], [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]], [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]]. See [[banking/INDEX|banking index]] for the broader regulatory boundary.
 
-## 1. 会社概要
+## 1. 会社概要 ^[丸紅 IR: https://www.marubeni.com/jp/ir/; EDINET: https://disclosure2.edinet-fsa.go.jp/]
 
 | Item | Notes |
 |---|---|
 | Wiki role | **丸紅グループの内向け金融** + 芙蓉グループ系金融機能の一翼 |
 
-### 丸紅系金融機能の配置
+### 丸紅系金融機能の配置 ^[丸紅の有価証券報告書・関係会社開示と各社公式 IR に基づく比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]
 
 | 層 | 主体 | 役割 |
 |---|---|---|
@@ -45,7 +45,7 @@ This entry sits under [[trading-company-finance/INDEX|trading-company-finance IN
 | **損保 (芙蓉系)** | [[non-life-insurers/tokio-marine|東京海上HD]] | 芙蓉グループ系主要損保 |
 | **内向け / グループ金融** | **丸紅フィナンス (本ページ)** | グループ各社の internal banking / CMS / 内部ファクタリング |
 
-## 2. 事業セグメント・マップ
+## 2. 事業セグメント・マップ ^[丸紅 IR / 有価証券報告書。業務範囲は非上場子会社の開示制約があるため最新関係会社開示を優先: https://www.marubeni.com/jp/ir/]
 
 | セグメント | 内容 |
 |---|---|
@@ -56,7 +56,7 @@ This entry sits under [[trading-company-finance/INDEX|trading-company-finance IN
 | **海外送金サービス** | グループ各社の海外向け送金・回収 |
 | **トレード・ファイナンス補助** | 丸紅本体の電力・プラント・食料・農薬・化学品 取引に紐づく与信補助 |
 
-### 競合 / Peer
+### 競合 / Peer ^[各親会社の有価証券報告書・公式 IR を横断した比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]
 
 | 商社 | 内向け金融子会社 | 外向けリース系 |
 |---|---|---|

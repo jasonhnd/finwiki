@@ -5,14 +5,14 @@ aliases:
   - "株式会社山田エスクロー信託"
 domain: trust-banks
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
-review_by: 2026-11-22
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, trust-company, escrow, real-estate, m-and-a]
 status: active
 sources:
-  - "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx"
+  - "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf"
   - "https://www.y-escrow-trust.co.jp/"
   - "https://www.y-escrow-trust.co.jp/news/pdf/920f75354c325c19353be143f28eff510517861c.pdf"
 ---
@@ -31,7 +31,7 @@ Yamada Escrow Trust's public site describes it as a management trust company han
 
 The page matters because escrow trust is a concrete transaction-control mechanism. It is useful for FinWiki when an asset transfer or payment flow needs segregation, retention, or bankruptcy-remoteness.
 
-## Entity Boundary
+## Entity Boundary ^[金融庁の現行登録と山田エスクロー信託公式サイト: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://www.y-escrow-trust.co.jp/]
 
 | Item | Reading |
 |---|---|

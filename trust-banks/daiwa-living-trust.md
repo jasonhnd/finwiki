@@ -5,14 +5,14 @@ aliases:
   - "大和リビング信託株式会社"
 domain: trust-banks
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
-review_by: 2026-11-22
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, trust-company, real-estate, housing, asset-succession]
 status: active
 sources:
-  - "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx"
+  - "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf"
   - "https://www.daiwaliving-trust.co.jp/"
 ---
 
@@ -30,7 +30,7 @@ Daiwa Living Trust's public site describes the company as supporting asset and f
 
 The page matters because it is a housing / rental-property trust route rather than a capital-markets or private-bank trust route. It is useful for landlord, rental housing, and family succession analysis.
 
-## Entity Boundary
+## Entity Boundary ^[金融庁の現行登録と会社公式サイト: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://www.daiwaliving-trust.co.jp/]
 
 | Item | Reading |
 |---|---|

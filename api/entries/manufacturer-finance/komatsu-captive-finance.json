@@ -28,9 +28,9 @@
     "domain": "manufacturer-finance",
     "type": null,
     "created": "2026-06-03",
-    "last_updated": "2026-06-03",
-    "last_tended": "2026-06-03",
-    "review_by": "2026-12-03",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "manufacturing",
@@ -53,6 +53,7 @@
       "https://www.komatsu.com/en-us/services-and-support/financing",
       "https://www.komatsu.eu/en/komatsu-finance",
       "https://www.komatsu.jp/en/ir",
+      "https://www.komatsu.jp/en/ir/library/annual/cfomessage",
       "https://disclosure2.edinet-fsa.go.jp/"
     ]
   },
@@ -103,9 +104,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8014,
-    "word_like_tokens": 1109,
+    "nonspace_chars": 7880,
+    "word_like_tokens": 1086,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-07-29"
   }
 }

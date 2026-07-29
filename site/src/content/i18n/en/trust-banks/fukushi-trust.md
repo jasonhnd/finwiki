@@ -1,11 +1,11 @@
 ---
 source: trust-banks/fukushi-trust
-source_hash: 0bd309315a7a0517
+source_hash: ba266b0513b3a6db
 lang: en
 status: machine
 fidelity: ok
 title: "Fukushi Trust (Fukushi Trust)"
-translated_at: 2026-05-31T15:29:03.889Z
+translated_at: 2026-07-28T23:40:44.017Z
 ---
 
 # Fukushi Trust (Fukushi Trust)
@@ -22,7 +22,7 @@ Fukushi Trust's public site presents trust products for concerns such as future 
 
 The page matters because welfare-oriented trust is a different lane from real-estate finance or securities trust. It is relevant to household financial planning, guardianship-adjacent asset administration, and social-support design.
 
-## Entity Boundary
+## Entity Boundary ^[金融庁の現行登録と会社公式サイト: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://www.fukushitrust.com/]
 
 | Item | Reading |
 |---|---|

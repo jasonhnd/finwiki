@@ -1,11 +1,11 @@
 ---
 source: trust-banks/lgt-wealth-management-trust
-source_hash: d800ffd806a0a01b
+source_hash: 7bce65c284307626
 lang: en
 status: machine
 fidelity: ok
 title: "LGTウェルスマネジメント信託 (LGT Wealth Management Trust)"
-translated_at: 2026-05-31T23:59:49.341Z
+translated_at: 2026-07-28T23:40:44.073Z
 ---
 # LGTウェルスマネジメント信託 (LGT Wealth Management Trust)
 
@@ -21,7 +21,7 @@ LGT Wealth Management Trust is the Japan trust-company and wealth-management rou
 
 The page matters because it sits between foreign private banking, Japan trust-company regulation, and discretionary / advisory wealth services. It is not a foreign bank branch page; it is a Japan trust-company and financial instruments registration route.
 
-## Entity Boundary
+## Entity Boundary ^[金融庁の現行免許と LGT 会社情報: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://www.lgt.com/jp-jp/company-information]
 
 | Item | Reading |
 |---|---|
@@ -34,7 +34,7 @@ The page matters because it sits between foreign private banking, Japan trust-co
 
 Keep this page separate from [[foreign-financial-institutions/ubs-japan|UBS Japan]] and [[trust-banks/smbc-trust-bank|SMBC Trust Bank]] because their legal forms, licenses, and group structures differ.
 
-## Business Role Map
+## Business Role Map ^[LGT「LGT in Japan」: https://www.lgt.com/jp-jp/about-us/lgt-in-japan]
 
 | Function | FinWiki relevance |
 |---|---|

@@ -1,12 +1,12 @@
 ---
 source: manufacturer-finance/vendor-finance-mechanism
-source_hash: a73fdf3db2a09c99
+source_hash: 4aba467d72fc6f18
 lang: ja
 model: claude-opus-4-8
 status: machine
 fidelity: ok
 title: "captive・vendor finance の仕組み (Captive / Vendor Finance Mechanism)"
-translated_at: 2026-06-05T00:00:00.000Z
+translated_at: 2026-07-28T23:40:04.048Z
 ---
 
 # Captive / Vendor Finance Mechanism (captive・vendor finance の仕組み)
@@ -17,7 +17,7 @@ This entry sits under [[manufacturer-finance/INDEX|manufacturing index]] as the 
 
 ## TL;DR
 
-**Captive finance** とは、メーカー (OEM / ベンダー) が **自社製品の購入者に対する金融を、本体外の連結金融子会社 (captive) で提供する仕組み**。**Vendor finance** はその B2B 版で、設備・機器ベンダーが顧客 (法人) の購入を分割・リース・サブスクで支える。両者の本質は **「製品を売る」と「その代金を貸す/リースする」を同一グループ内で垂直統合する** こと。これにより OEM は (1) 販売チャネルの維持・送客力、(2) 残価リスク (residual value) のグループ内集約、(3) 顧客との長期関係とデータ取得、(4) ABS による債権のオフバランス化、を一体で設計できる。FinWiki の manufacturer-finance ドメインは、この仕組みを **誰が・どう運用しているか** を企業別に記述する。本ページはその共通の **mechanism 定義** として、captive / vendor / floorplan / residual value / ABS funding の各部品を整理する。
+**Captive finance** とは、メーカー (OEM / ベンダー) が **自社製品の購入者に対する金融を、本体外の連結金融子会社 (captive) で提供する仕組み**。**Vendor finance** は設備・機器ベンダーが顧客の購入を分割・リース等で支える仕組みで、自社 captive のほか提携金融機関を使う形も含む。OEM は販売チャネル、残価・信用リスク、顧客関係、資金調達を一体で設計できる。ただし、ABS による証券化は自動的なオフバランス化を意味せず、金融資産の消滅認識要件を満たすかで会計処理が分かれる。
 
 ## 1. captive と vendor finance の定義
 
@@ -28,6 +28,8 @@ This entry sits under [[manufacturer-finance/INDEX|manufacturing index]] as the 
 | **Floorplan / 在庫金融** | captive または提携金融 | ディーラー (流通段階) | 在庫車・在庫機器の短期回転与信 |
 | **Bank-affiliated leasing** | 銀行系・独立系リース会社 | 法人・個人 | リース全般 (captive の競合 / 補完) |
 
+Sources: ^[J.D. Power「OEMs and Captive Finance Solutions」: https://www.jdpowervalues.com/oems-and-captive-finance-solutions; OECD「Export credits」: https://www.oecd.org/en/topics/export-credits.html.]
+
 「captive を持つ型」(Toyota / Honda) と「captive を持たず銀行系・提携で回す型」(Panasonic / MHI) の対比は、本ドメインの主要な分析軸。後者は [[manufacturer-finance/panasonic-captive-finance|Panasonic 顧客金融]] と [[manufacturer-finance/mitsubishi-heavy-export-finance|MHI 輸出金融]] を参照。
 
 ## 2. なぜメーカーは captive を持つのか (4 つの動機)
@@ -35,7 +37,7 @@ This entry sits under [[manufacturer-finance/INDEX|manufacturing index]] as the 
 1. **販売チャネルの支配と送客力**: 新車・新機器購入の現場で「製品 + ローン + リース + 保険」を一括提案でき、銀行系オートローンに対する優位性は **販売現場の即時与信**。captive は OEM のブランドロイヤルティを金融面から強化する。
 2. **残価リスクのグループ内集約 (residual value)**: 後述の通り、リース・残クレは中古車/中古機器の将来価格に賭ける商品。OEM 本体は新車販売利益を先に確定し、価格変動リスクは captive の B/S に集約する設計が一般的。
 3. **顧客との長期関係とデータ**: ローン・リース・カードを通じて購買・利用データを取得し、買い替えサイクルやクロスセルに活かす。
-4. **資本効率と ABS funding**: 積み上がる売掛・割賦・リース債権を ABS で証券化・オフバランス化し、グループ全体のレバレッジを抑える ([[structured-finance/auto-loan-abs-japan-toyota-honda|auto-loan ABS]] / [[structured-finance/japan-equipment-lease-abs|equipment lease ABS]] と接続)。
+4. **資金調達とリスク移転**: 積み上がる売掛・割賦・リース債権を ABS で証券化し、資金回収と投資家へのリスク移転を図る。会計上の消滅認識は取引条件と適用基準次第で、要件を満たさない場合は債権を認識し続け、受取対価を金融負債として認識する ([[structured-finance/auto-loan-abs-japan-toyota-honda|auto-loan ABS]] / [[structured-finance/japan-equipment-lease-abs|equipment lease ABS]] と接続)。
 
 ## 3. Residual Value (残価) リスクの仕組み
 
@@ -45,7 +47,7 @@ This entry sits under [[manufacturer-finance/INDEX|manufacturing index]] as the 
 - 満了時の実際の中古価格が **RV を下回る** と、captive に **残価損 (residual loss)** が発生する。逆に上回れば益。
 - OEM captive はしばしば **RV を意図的にやや高く設定 (lease subvention)** して月額を下げ、在庫を動かしブランドロイヤルティを維持する。これは販売促進と残価リスクのトレードオフ。
 - **BEV / EV のリスク**: 技術更新の速さ (バッテリー劣化・世代交代) で中古価格の予測が難しく、RV モデルの精緻化が課題。EV リース返却車の残価動向は業界の重要論点 (Deloitte 等が分析)。
-- 設備・機器の vendor finance でも同型の RV リスクがあり、**true-lease (オペレーティングリース、残価リスクをベンダー側が負う) と finance-lease (ファイナンスリース、実質割賦) の区別** が会計・リスク配分を分ける。詳細は [[structured-finance/japan-equipment-lease-abs|Japan equipment lease ABS (residual-value, true-lease vs finance-lease)]] 参照。
+- 設備・機器の vendor finance でも同型の RV リスクがある。商品上の返却・購入選択、貸手の残価負担、借手・貸手それぞれの会計処理を分けて読む必要がある。IFRS 16 では借手は原則として使用権資産とリース負債を認識するため、「operating lease = 借手の off-balance」と一般化できない。詳細は [[structured-finance/japan-equipment-lease-abs|Japan equipment lease ABS (residual-value, true-lease vs finance-lease)]] 参照。
 
 ## 4. Funding: captive はどう資金を調達するか
 
@@ -53,11 +55,13 @@ captive 自身は預金を持たない (銀行免許を持つ一部を除く) �
 
 | funding 手段 | 内容 |
 |---|---|
-| **ABS (証券化)** | 自動車ローン・リース・割賦債権を SPV に譲渡し ABS で売却。オフバランス化と資金回収を同時に実現。米 captive は SEC 登録の owner trust シリーズで定期発行。 |
+| **ABS (証券化)** | 自動車ローン・リース・割賦債権を参照して ABS を発行。資金回収・資金源分散に使うが、債権の消滅認識は譲渡条件と会計基準次第。 |
 | **社債 / CP** | captive 名義の社債・コマーシャルペーパー。親会社の信用補完 (Keepwell Agreement 等) で調達コストを抑える。 |
 | **親会社保証 / Keepwell** | 親 OEM が captive の流動性・正味純資産維持を約束し、captive 単独より高い信用力を付与 (法的保証ではない場合が多い)。[[manufacturer-finance/honda-finance|Honda Finance]] の AHFC が典型例。 |
 | **銀行団融資 / シンジケート** | メガバンク・地銀のコミットメントライン。 |
 | **提携リース会社経由** | 自前 captive を軽くし、[[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] / [[leasing-firms/orix-corp|オリックス]] / [[leasing-firms/tokyo-century|東京センチュリー]] 等にリース組成を委ねる型 (Panasonic / Hitachi の一部)。 |
+
+Sources: ^[IFRS Foundation「IFRS 9 Financial Instruments」: https://www.ifrs.org/issued-standards/list-of-standards/ifrs-9-financial-instruments/; IFRS Foundation「IFRS 16 Leases」: https://www.ifrs.org/issued-standards/list-of-standards/ifrs-16-leases/.]
 
 ## 5. 規制・政策
 
@@ -82,8 +86,10 @@ captive 自身は預金を持たない (銀行免許を持つ一部を除く) �
 - Deloitte「Electric Vehicle Lease Returns: Market Analysis」(EV 残価リスク): https://www.deloitte.com/us/en/Industries/consumer/articles/electric-vehicle-lease-returns-market-analysis.html
 - J.D. Power「OEMs and Captive Finance Solutions」: https://www.jdpowervalues.com/oems-and-captive-finance-solutions
 - EDINET (各社「金融サービス事業」セグメント開示): https://disclosure2.edinet-fsa.go.jp/
+- IFRS Foundation「IFRS 9 Financial Instruments」: https://www.ifrs.org/issued-standards/list-of-standards/ifrs-9-financial-instruments/
+- IFRS Foundation「IFRS 16 Leases」: https://www.ifrs.org/issued-standards/list-of-standards/ifrs-16-leases/
 
 ---
 
 > [!info] 校正ステータス
-> confidence: **likely**。captive / vendor finance・residual value・floorplan・ABS funding の各機構は、公開された OEM IR セグメント開示・業界アナリシス (Deloitte / J.D. Power) ・OECD 枠組みに基づく一般的な仕組みの記述。特定社の財務数値は本ページでは扱わず、企業別エントリ ([[manufacturer-finance/toyota-financial-services|TFS]] / [[manufacturer-finance/honda-finance|Honda Finance]] 等) に委ねる。脆い financial figures より mechanism 知識を優先する方針。
+> confidence: **likely**。2026-07-29 時点で一般的な captive / vendor finance の説明を再確認し、ABS とリースを自動的な off-balance 手段として扱っていた表現を IFRS 9 / IFRS 16 の境界に合わせて修正した。

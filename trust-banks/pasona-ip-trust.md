@@ -6,14 +6,14 @@ aliases:
   - "Pasona Intellectual Property Trust"
 domain: trust-banks
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
-review_by: 2026-11-22
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, trust-company, intellectual-property, IP-finance, Pasona]
 status: active
 sources:
-  - "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx"
+  - "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf"
   - "https://pasona-ipt.co.jp/"
   - "https://pasona-ipt.co.jp/company/"
   - "https://pasona-ipt.co.jp/strengths/"
@@ -33,7 +33,7 @@ Pasona IP Trust presents itself as a trust service for intellectual property, su
 
 The page matters because it expands FinWiki's trust-company coverage beyond money, securities, real estate, and digital securities. IP trust is a distinct route for intangible-asset administration and potential IP-finance analysis.
 
-## Entity Boundary
+## Entity Boundary ^[金融庁の現行登録とパソナ知財信託会社情報: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://pasona-ipt.co.jp/company/]
 
 | Item | Reading |
 |---|---|

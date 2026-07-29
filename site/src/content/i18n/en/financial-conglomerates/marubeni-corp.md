@@ -1,18 +1,18 @@
 ---
 source: financial-conglomerates/marubeni-corp
-source_hash: 6115edd23437c200
+source_hash: aed7502df1dc90af
 lang: en
 status: machine
 fidelity: ok
 title: "Marubeni (Marubeni Corporation)"
-translated_at: 2026-06-18T23:59:13.068Z
+translated_at: 2026-07-29T00:26:22.746Z
 ---
 
 # Marubeni (Marubeni Corporation)
 
 ## Wiki route
 
-This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] as a **sōgō shōsha parent holding-company**. Read it against [[financial-conglomerates/itochu-corp|伊藤忠商事]] (shared pre-war roots = the former Marubeni-Itochu Trading, split after the war in 1949 ) and [[financial-conglomerates/sumitomo-corp|住友商事]] (among the mid-tier of the 5  major trading houses) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]] (in-house CMS) and **[[leasing-firms/mizuho-lease|みずほリース]]** (former IBJ Leasing; Marubeni took a strategic stake in 2024 年). System frame: [[finance/INDEX|finance index]] and [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]].
+This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] as a **sōgō shōsha parent holding-company**. Read it against [[financial-conglomerates/itochu-corp|伊藤忠商事]] (shared pre-war roots = the former Marubeni-Itochu Trading, split after the war in 1949 ) and [[financial-conglomerates/sumitomo-corp|住友商事]] (among the mid-tier of the 5  major trading houses) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see [[trading-company-finance/marubeni-financial-services|丸紅フィナンシャルサービス]] (in-house group treasury) and **[[leasing-firms/mizuho-lease|みずほリース]]** (20.2% stake as of 2026-03-31). System frame: [[finance/INDEX|finance index]] and [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]].
 
 ## 1. Company overview
 
@@ -26,14 +26,14 @@ This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates IN
 | Founded | 1858 年 (founded by the Ōmi merchant Itoh Chubei; shares its roots with both Marubeni and Itochu) ^[extracted] |
 | Head office | Ōtemachi, Chiyoda-ku, Tokyo (formerly also an Osaka head office) ^[extracted] |
 | Accounting standard | IFRS ^[extracted] |
-| Main segments | Lifestyle; Information & Logistics; Food; Agriculture; Chemicals; Energy; Metals; Power; Infrastructure Projects; Aerospace & Ship; Finance, Leasing & Real Estate; Construction Machinery, Automobiles & Industrial Machinery; Next Generation Business Development Division ^[extracted] |
+| Main segments | Lifestyle; Food & Agri; Metals; Energy & Chemicals; Power & Infrastructure Services; Finance, Leasing & Real Estate; Aerospace & Mobility; Information Solutions; Next Generation Business Development; Next Generation Corporate Development ^[extracted] |
 
 ### Major subsidiaries / affiliates (JapanFG context)
 
 ```
 Marubeni (8002, TSE PRIME)
-  ├── [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]] (100%)            — in-house CMS / group finance
-  ├── [[leasing-firms/mizuho-lease|みずほリース]] (approx. 20% class, 2024 strategic stake)   — external leasing, TSE PRIME 8425, former IBJ Leasing
+  ├── [[trading-company-finance/marubeni-financial-services|丸紅フィナンシャルサービス]] (100%) — group treasury
+  ├── [[leasing-firms/mizuho-lease|みずほリース]] (20.2%, equity method)                    — external integrated financial services, TSE PRIME 8425
   ├── Helena Agri-Enterprises (one of the largest US agricultural-distribution players)                       — core of the Agriculture segment (the former Gavilon grain division was 2022 sold to Viterra)
   └── numerous power IPPs (Marubeni Power Retail, global IPP)                          — core of the Power business segment
 ```
@@ -48,36 +48,37 @@ Marubeni (8002, TSE PRIME)
 | 2000s〜 | Strengthened overseas expansion of power IPPs; grew into a world-top-class IPP trading house |
 | 2013 | Acquired Gavilon Holdings (major US grain trader) → entered the world Top 5  of grain trading houses |
 | 2022 | Sold Gavilon's grain-trading division to Viterra (Glencore group); made Helena's agricultural-distribution business its core |
-| 2024 | **[[leasing-firms/mizuho-lease|みずほリース]] strategic stake (approx. 20% class)** — strengthening of the leasing / asset-finance platform |
+| 2024 | **Additionally acquired [[leasing-firms/mizuho-lease|みずほリース]] shares, raising the stake from 4.4% to 20.0%** — strengthening leasing / asset-finance collaboration |
 
 ## 2. Business segment map
 
 | Segment | Main businesses | Representative subsidiaries / affiliates |
 |---|---|---|
-| Lifestyle | Textiles (apparel materials & products), consumer | — |
-| Information & Logistics | IT services, logistics | — |
-| Food | Food manufacturers, food service, coffee, coffee wholesale | — |
-| Agriculture | US Helena Agri-Enterprises (one of the largest agrochemical / fertilizer / seed distributors) | Helena |
-| Chemicals | Petrochemicals, functional chemicals, fertilizer | — |
-| Energy | Crude oil & LNG (limited upstream stakes, trading-centric) | — |
-| Metals | Iron ore, coal, non-ferrous (a mid-level resource ratio among the 5  majors) | — |
-| Power | Power IPPs (world-top class), renewables, offshore wind | numerous IPP subsidiaries |
-| Infrastructure Projects | Plants, water & sewage, transport infrastructure | — |
-| Aerospace & Ship | Commercial machinery, shipping | — |
-| Finance, Leasing & Real Estate | Group finance, leasing, real estate | [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]], [[leasing-firms/mizuho-lease|みずほリース]] (equity method) |
-| Construction Machinery, Automobiles & Industrial Machinery | Construction machinery (Komatsu group), automobile distribution, industrial machinery | — |
-| Next Generation Business Development | Startups / new businesses | — |
+| Lifestyle | Pulp, tires & automotive aftermarket, apparel & lifestyle-related | B-Quik, Santher, etc. |
+| Food & Agri | Food manufacturing & distribution, grain, livestock, agricultural inputs | Helena, Creekstone, etc. |
+| Metals | Steel products; metal resources such as iron ore and copper | — |
+| Energy & Chemicals | Energy trading, oil & gas, chemicals, new energy | — |
+| Power & Infrastructure Services | Power generation, power wholesale & retail, overseas water & infrastructure | numerous IPP / infrastructure businesses |
+| Finance, Leasing & Real Estate | Sales finance, integrated leasing, PE, real estate, insurance | [[leasing-firms/mizuho-lease|みずほリース]], Mizuho Marubeni Leasing, etc. |
+| Aerospace & Mobility | Aircraft, ships, construction machinery, mobility | Aircastle, etc. |
+| Information Solutions | ICT & digital solutions | ARTERIA Networks, etc. |
+| Next Generation Business Development | Pharmaceutical distribution, industrial solutions, etc. | — |
+| Next Generation Corporate Development | Consumer-related investments & M&A | — |
+
+Sources: ^[Marubeni, "2025年度決算 IR資料" (2026-05, FY2025 organizational basis): https://www.marubeni.com/jp/news/2026/release/data/202605012-2J.pdf.]
 
 ## 3. Financial-services adjacency
 
 | Finance subsidiary / affiliate | Wiki anchor | Stake | Function |
 |---|---|---|---|
-| Marubeni Finance | [[trading-company-finance/marubeni-financial-services]] | 100% | in-house CMS / group finance / bulk factoring |
-| **Mizuho Leasing** | **[[leasing-firms/mizuho-lease]]** | **approx. 20% class (2024 strategic stake)** | **integrated leasing, TSE PRIME 8425, former IBJ Leasing, scale next to the 3  major leasing firms** |
+| Marubeni Financial Services | [[trading-company-finance/marubeni-financial-services]] | 100% | group treasury including borrowing and cash receipts/payments |
+| **Mizuho Leasing** | **[[leasing-firms/mizuho-lease]]** | **20.2% (equity method, as of 2026-03-31)** | **integrated financial services, TSE PRIME 8425** |
+
+Sources: ^[Marubeni, "2025年度決算 IR資料" (updated 2026-05-15; Mizuho Leasing stake 20.2%): https://www.marubeni.com/jp/news/2026/release/data/202605012-2J.pdf; Marubeni, "第102回定時株主総会 電子提供措置事項" (Marubeni Financial Services directly 100% owned): https://www.marubeni.com/jp/ir/stock/meeting/pdf/fye2603_102nd_id_jp.pdf.]
 
 In addition, **the Mizuho group's financial-services ecosystem**:
 
-A three-layer structure of "**the Mizuho Leasing strategic stake (2024)** = an alternative means for Marubeni to acquire a leasing / asset-finance platform", "Marubeni Finance = in-house CMS", and "Mizuho FG = a main-bank-type relationship".
+Read "**the Mizuho Leasing equity-method investment** = collaboration with an external integrated-financial-services provider", "Marubeni Financial Services = group treasury", and "Mizuho FG = banking relationship" as separate legal entities and capital relationships.
 
 ### Identity among the 5  major trading houses
 
@@ -109,8 +110,8 @@ A three-layer structure of "**the Mizuho Leasing strategic stake (2024)** = an a
 
 - [[financial-conglomerates/INDEX|financial-conglomerates INDEX]]
 - [[financial-conglomerates/mitsubishi-corp|三菱商事]] · [[financial-conglomerates/mitsui-co|三井物産]] · [[financial-conglomerates/itochu-corp|伊藤忠商事]] · [[financial-conglomerates/sumitomo-corp|住友商事]] · [[financial-conglomerates/toyota-tsusho-corp|豊田通商]] · [[financial-conglomerates/sojitz-corp|双日]] (peer trading houses)
-- [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]] (in-house group treasury)
-- [[leasing-firms/mizuho-lease|みずほリース]] (2024 strategic stake, approx. 20% class)
+- [[trading-company-finance/marubeni-financial-services|丸紅フィナンシャルサービス]] (group treasury)
+- [[leasing-firms/mizuho-lease|みずほリース]] (20.2% stake as of 2026-03-31)
 - [[megabanks/mizuho-fg|みずほ FG]] (main bank / group lineage)
 - [[leasing-firms/tokyo-century|東京センチュリー]] (Mizuho + Itochu as 2 -axis shareholders; Marubeni separately bets on Mizuho Leasing)
 - [[finance/INDEX|finance index]] · [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]
@@ -119,10 +120,12 @@ A three-layer structure of "**the Mizuho Leasing strategic stake (2024)** = an a
 
 - Marubeni (8002) official IR — https://www.marubeni.com/jp/ir/
 - Marubeni integrated report — https://www.marubeni.com/jp/ir/library/annual_report/
+- Marubeni FY2025 financial results IR materials — https://www.marubeni.com/jp/news/2026/release/data/202605012-2J.pdf
+- Marubeni 102nd Ordinary General Meeting of Shareholders, matters provided electronically — https://www.marubeni.com/jp/ir/stock/meeting/pdf/fye2603_102nd_id_jp.pdf
 - EDINET annual securities report — https://disclosure.edinet-fsa.go.jp/ (search: 丸紅 / 8002)
 - JPX stock information 8002 — https://www2.jpx.co.jp/
 
 ---
 
 > [!info] Verification status
-> confidence: **likely**. Marubeni is well covered on the public surface. 2024 The exact stake ratio of the Mizuho Leasing strategic stake, Helena's revenue scale, and IPP generation capacity (GW) should be updated each time from the latest annual securities report / integrated report.
+> confidence: **likely**. Marubeni Financial Services' direct 100% ownership, Mizuho Leasing's 20.2% stake, and the FY2025 organizational-basis segment structure were re-confirmed against Marubeni's official disclosures as of 2026-07-29.

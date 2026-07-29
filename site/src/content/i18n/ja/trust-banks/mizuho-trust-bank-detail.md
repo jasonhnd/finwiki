@@ -1,11 +1,11 @@
 ---
 source: trust-banks/mizuho-trust-bank-detail
-source_hash: 04ec75fa24762977
+source_hash: a4d900c2679bc6b9
 lang: ja
 status: machine
 fidelity: ok
 title: "みずほ信託銀行 事業詳細"
-translated_at: 2026-06-02T14:54:39.049Z
+translated_at: 2026-07-28T23:40:04.489Z
 ---
 
 # みずほ信託銀行 事業詳細
@@ -85,15 +85,15 @@ translated_at: 2026-06-02T14:54:39.049Z
 - **アジア・米州**：駐在員事務所・現地法人を通じた邦人企業支援
 - **海外不動産信託**：邦人投資家の海外不動産投資受託
 
-## 5. 競合・業界ポジション（3 大信託銀行）
+## 5. 競合・業界ポジション（3 大信託銀行） ^[各社公式の会社・事業情報: https://www.tr.mufg.jp/ippan/about/index.html; https://www.smtb.jp/corporate/summary/; https://www.mizuho-tb.co.jp/company/index.html]
 
-| 信託銀行 | 親 FG | 規模感（信託財産） |
+| 信託銀行 | 親 FG | 公開情報で確認できる主な機能 |
 |---|---|---|
-| [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行 (MUTB)]] | [[megabanks/mufg|MUFG]] | **3 大信託最大** (300 兆円超) |
-| [[trust-banks/sumitomo-mitsui-trust|三井住友信託銀行]] | [[trust-banks/INDEX|trust-banks INDEX]] | 300 兆円超 (年金で先行) |
-| **みずほ信託銀行** | みずほ FG | 中位規模 (200 兆円台) |
+| [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行 (MUTB)]] | [[megabanks/mufg|MUFG]] | 受託財産、年金、不動産、証券代行など |
+| [[trust-banks/sumitomo-mitsui-trust|三井住友信託銀行]] | 三井住友トラストグループ | 個人、法人、投資家、不動産、マーケット各事業 |
+| **みずほ信託銀行** | [[megabanks/mizuho-fg|みずほ FG]] | 信託、年金、不動産、証券代行、受託財産など |
 
-その他、地銀系信託（[[trust-banks/INDEX|trust-banks INDEX]] グループ等）や独立系信託（オリックス・東京海上等）の信託子会社も補完。
+規模順位は年度・集計範囲（銀行単体、連結、再信託、事務受任を含むか）で変わるため、同一定義の各社最新開示をそろえずに順位付けしない。
 
 ## 6. 戦略・最近の動向
 
@@ -104,18 +104,16 @@ translated_at: 2026-06-02T14:54:39.049Z
 - **ESG 信託 / インパクト投資**：年金運用のサステナビリティ要素組込み
 - **DX 投資**：信託事務のデジタル化・電子契約・ブロックチェーン活用検討
 
-## 7. 主要 KPI（概観 / 単体）
+## 7. 主要 KPI の確認ルート ^[みずほ信託銀行「株主・投資家のみなさま」「決算公告」: https://www.mizuho-tb.co.jp/company/investors/index.html; https://www.mizuho-tb.co.jp/company/investors/kessan_koukoku.html]
 
-| 項目 | 規模感 |
+| 項目 | 現行の一次資料 |
 |---|---|
-| 単体 総資産 | 8-10 兆円レンジ |
-| 単体 信託財産残高 | 200 兆円台（受託財産含む） |
-| 単体 預金残高 | 数兆円レンジ |
-| 単体 経常利益 | 数百億円レンジ |
-| 単体 自己資本比率 | バーゼル III 基準対応 |
-| 従業員 (単体) | 約 3,500 名 |
+| 総資産・預金・利益 | 最新の決算公告、決算短信、有価証券報告書 |
+| 信託財産 | 最新のディスクロージャー誌・有価証券報告書 |
+| 自己資本比率 | 最新のバーゼル規制関連資料 |
+| 従業員・拠点 | 会社概要（更新基準日を併記） |
 
-詳細は EDINET 有報・みずほ FG IR ・みずほ信託銀行 ディスクロージャー誌参照。
+数値を比較するときは、同じ基準日と集計範囲を使用する。
 
 ## 8. リスク・規制論点
 

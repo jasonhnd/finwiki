@@ -1,11 +1,11 @@
 ---
 source: trust-banks/lombard-odier-trust
-source_hash: 148070d65455a07d
+source_hash: e46c459acaa8f869
 lang: en
 status: machine
 fidelity: ok
 title: "Lombard Odier Trust Japan / Lombard Odier Trust"
-translated_at: 2026-05-31T23:59:49.411Z
+translated_at: 2026-07-28T23:40:44.082Z
 ---
 # Lombard Odier Trust Japan / Lombard Odier Trust
 
@@ -19,7 +19,7 @@ Lombard Odier Trust is a trust-company row connected to the Lombard Odier privat
 
 This page is for Lombard Odier Trust Co., Ltd. and the Japan trust-company route. It should not absorb the broader Lombard Odier group profile, external asset-management services, or non-Japan private-banking operations.
 
-## Business Role Map
+## Business Role Map ^[金融庁の現行免許と Lombard Odier 東京拠点: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://asia.lombardodier.com/ja/home/offices/tokyo.html]
 
 | Route | Reading |
 |---|---|

@@ -1,126 +1,130 @@
 ---
 source: financial-conglomerates/itochu-corp
-source_hash: f0c3b12da3d4afe9
+source_hash: cb6a2504d6502a4f
 lang: en
 status: machine
 fidelity: ok
 title: "ITOCHU Corporation (伊藤忠商事)"
-translated_at: 2026-06-18T23:59:13.058Z
+translated_at: 2026-07-29T01:44:13.248Z
 ---
 # ITOCHU Corporation (伊藤忠商事)
 
 ## Wiki route
 
-This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] as a **sōgō shōsha parent holding company** (a non-financial-services 商社 parent, but JapanFG-relevant via its financial-services subsidiaries and strategic shareholdings). Read it against [[financial-conglomerates/mitsubishi-corp|三菱商事]] (largest by 5  / resource-heavy contrast) and [[financial-conglomerates/marubeni-corp|丸紅]] (contrast as a textile / grain trading house) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]] (internal CMS) and especially **[[leasing-firms/tokyo-century|東京センチュリー]]** (ITOCHU's strategic stake of **about 25%-class** = a 2  largest shareholder alongside Mizuho FG, TSE PRIME **8439**). System frame: [[finance/INDEX|finance index]] and [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]].
+This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] as a **sōgō shōsha parent holding-company** (non-financial-services trading-company parent, but JapanFG-relevant via its financial-services subsidiaries and strategic shareholdings). Read it against [[financial-conglomerates/mitsubishi-corp|Mitsubishi Corporation]] (top of the Big 5  / resource-oriented contrast) and [[financial-conglomerates/marubeni-corp|Marubeni]] (contrast as a textile & grain trading company) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see [[trading-company-finance/itochu-finance|ITOCHU Treasury]] (inward-facing group treasury) and especially **[[leasing-firms/tokyo-century|Tokyo Century]]** (ITOCHU ownership ratio **29.94%**, TSE PRIME **8439**). System frame: [[finance/INDEX|finance index]] and [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial group investment universe]].
 
-## 1. Company overview
+## 1. Company Overview
 
 | Item | Notes |
 |---|---|
-| Legal name | ITOCHU Corporation (伊藤忠商事株式会社) ^[extracted] |
+| Official name | 伊藤忠商事株式会社 (ITOCHU Corporation) ^[extracted] |
 | English | ITOCHU Corporation ^[extracted] |
 | Ticker | TSE PRIME **8001** ^[extracted] |
 | Listing | Tokyo Stock Exchange PRIME Market, including Nagoya listing ^[extracted] |
-| Established | 1949 年 (re-established as ITOCHU Corporation in 1949 年 after the split from the former Marubeni-Itochu Corporation) ^[extracted] |
-| Founded | 1858 年 (founded by Ōmi merchant Chūbei Itoh) ^[extracted] |
-| Head office | Kita-Aoyama, Minato-ku, Tokyo (Aoyama head office); Osaka head office (Umeda, Kita-ku, Osaka) ^[extracted] |
-| Consolidated employees | About 11 万 (after FamilyMart consolidation) ^[extracted] |
+| Established | 1949 年 (re-established as ITOCHU Corporation via demerger from the former Marubeni-Itochu Shoji on 1949 年) ^[extracted] |
+| Founded | 1858 年 (founded by Ōmi merchant Chubei Itoh) ^[extracted] |
+| Head offices | Kita-Aoyama, Minato-ku, Tokyo (Aoyama headquarters), Osaka headquarters (Umeda, Kita-ku, Osaka) ^[extracted] |
+| Consolidated employees | Approx. 11 万 (after FamilyMart consolidation) ^[extracted] |
 | Accounting standard | IFRS ^[extracted] |
-| Main segments | Textile, machinery, metals, energy & chemicals, food, housing & lifestyle, information & finance, the 8  (Eighth) ^[extracted] |
+| Main segments | Textile, Machinery, Metals, Energy & Chemicals, Food, General Products & Realty, ICT & Financial Business, The 8 th (Eighth) ^[extracted] |
 
-### Main subsidiaries / affiliates (JapanFG context)
+### Major subsidiaries and affiliates (JapanFG context)
 
 ```
-ITOCHU Corporation (8001,  TSE PRIME)
-  ├── [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]] (100%)                      — internal CMS / group finance
-  ├── [[leasing-firms/tokyo-century|東京センチュリー]] (about 25%-class, equity method)             — outward-facing leasing, TSE PRIME 8439, Mizuho + ITOCHU 2  core shareholders
-  ├── [[payment-firms/famima-digital-one|ファミリーマート]] (100%, made a wholly owned subsidiary via the 2020 年 TOB)     — convenience-store retail / retail-finance platform
-  ├── Dole Food (full acquisition of the former U.S. Dole food business)                              — core of the food segment
-  └── CITIC (China CITIC Group, about 10%-class + via Charoen Pokphand)                   — China / Asia strategic alliance
+伊藤忠商事 (8001, 東証 PRIME)
+  ├── [[trading-company-finance/itochu-finance|伊藤忠トレジャリー]] (100%)                    — 金融サービス / グループ財務
+  ├── [[leasing-firms/tokyo-century|東京センチュリー]] (29.94%; 議決権 30.0%, 持分法)    — 外向け総合リース、東証 PRIME 8439
+  ├── [[payment-firms/famima-digital-one|ファミリーマート]] (議決権 94.7%)                      — コンビニリテール・リテール金融プラットフォーム
+  ├── Dole Food (旧 米国 Dole の食品事業を全面取得)                              — 食品セグメント核
+  └── CITIC (中国中信集団, 約 10% 級 + チャロン・ポカパン 経由)                   — 中国・アジア戦略提携
 ```
 
 ### History highlights ^[extracted]
 
 | Year | Event |
 |---|---|
-| 1858 | Founded by Ōmi merchant Chūbei Itoh (linen wholesale) |
-| 1872 | Established the "Benichū" trade name |
-| 1949 | Established the present ITOCHU Corporation from the former Marubeni-Itochu Corporation (postwar split) |
-| 1949 | [[financial-conglomerates/marubeni-corp|丸紅]] separated and became independent (originally of the same root) |
-| 2000s〜 | Strengthened non-resource areas (textile / food / ICT), entered the 5  top tier by net profit |
-| 2015 | CITIC (China CITIC Group) strategic alliance (CITIC + Charoen Pokphand + ITOCHU 3 社-way cooperation) |
-| 2018 | Full acquisition of the Dole Food food business |
-| 2020 | **FamilyMart TOB → made a wholly owned subsidiary (100%)** |
-| 2023〜 | Reached the top spot among the 5  by net profit (depending on the period) |
-| 2024 | Berkshire Hathaway continued to increase its trading-company stakes |
+| 1858 | Founded by Ōmi merchant Chubei Itoh (linen wholesaling) |
+| 1872 | Establishment of the "Benichu" trade name |
+| 1949 | Current ITOCHU Corporation established from the former Marubeni-Itochu Shoji (postwar split) |
+| 1949 | [[financial-conglomerates/marubeni-corp|Marubeni]] separated and became independent (originally of the same root) |
+| 2000s〜 | Strengthening of non-resource fields (textiles, food, ICT), entered the upper ranks of the Big 5  by net income |
+| 2015 | CITIC (China CITIC Group) strategic alliance (CITIC + Charoen Pokphand + ITOCHU 3 社-way partnership) |
+| 2018 | Full acquisition of Dole Food's food business |
+| 2020 | **FamilyMart TOB and delisting → became a consolidated subsidiary** |
+| 2023〜 | Reached the top of the Big 5  by net income (depending on period) |
+| 2024 | Berkshire Hathaway continues increasing its holdings in trading-company shares |
 
-## 2. Business segment map
+## 2. Business Segment Map
 
 | Segment | Main businesses | Representative subsidiaries / affiliates |
 |---|---|---|
-| Textile | Textile trading business (apparel materials / product OEM), brand business (Paul Smith, Hunting World, etc.) | ITOCHU Fashion System |
-| Machinery | Plant / industrial machinery / automobiles / vessels / aircraft | — |
-| Metals | Iron ore / coal / non-ferrous (lowest resource ratio among the 5 ) | — |
-| Energy & chemicals | Crude oil / LNG (limited), chemicals trading | — |
-| Food | Grain, fresh produce (Dole), food manufacturers, convenience-store food supply chain | Dole Food, ITOCHU Foods |
-| Housing & lifestyle | Housing materials, lifestyle, consumer | — |
-| Information & finance | ICT (telecom / IT services), financial services (including retail finance) | [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]] |
-| The 8  (Eighth) | Convenience-store / retail integration segment (newly created 2020 年) | [[payment-firms/famima-digital-one|ファミマ]] (100%), FamiPay |
+| Textile | Textile trading business (apparel materials, product OEM), brand business (Paul Smith, Hunting World, etc.) | ITOCHU Fashion System |
+| Machinery | Plants, industrial machinery, automobiles, ships, aircraft | — |
+| Metals | Iron ore, coal, non-ferrous metals (lowest resource ratio among the Big 5 ) | — |
+| Energy & Chemicals | Crude oil, LNG (limited), chemicals trading | — |
+| Food | Grains, fresh produce (Dole), food manufacturers, convenience-store food supply chain | Dole Food, ITOCHU-SHOKUHIN |
+| General Products & Realty | Housing materials, lifestyle, consumer | — |
+| ICT & Financial Business | ICT (telecom, IT services), financial services (including retail finance) | [[trading-company-finance/itochu-finance|ITOCHU Treasury]] |
+| The 8 th (Eighth) | Convenience-store & retail integrated segment (newly established in 2020 年) | [[payment-firms/famima-digital-one|FamilyMart]] (voting rights 94.7%), FamiPay |
 
 ## 3. Financial-services adjacency
 
 | Finance subsidiary / affiliate | Wiki anchor | Stake | Function |
 |---|---|---|---|
-| ITOCHU Finance | [[trading-company-finance/itochu-finance]] | 100% | Internal CMS / group finance / bulk factoring |
-| **Tokyo Century** | **[[leasing-firms/tokyo-century]]** | **About 25%-class (equity method)** | **A corner of the 3  leasing players, TSE PRIME 8439, Mizuho FG + ITOCHU 2  core shareholder structure** |
-| FamilyMart (retail-finance platform) | [[payment-firms/famima-digital-one]] | 100% | FamiPay, FamilyMart ATM, insurance sales, fintech |
+| ITOCHU Treasury | [[trading-company-finance/itochu-finance]] | 100% | Financial services / group treasury |
+| **Tokyo Century** | **[[leasing-firms/tokyo-century]]** | **Ownership ratio 29.94%; voting rights 30.0% (equity method)** | **Outward-facing general leasing & finance, TSE PRIME 8439** |
+| FamilyMart (retail finance platform) | [[payment-firms/famima-digital-one]] | Voting rights 94.7% | Convenience stores, retail touchpoints such as FamiPay |
+
+Sources: ^[伊藤忠商事 第102期有価証券報告書（2026-03-31現在）: https://www.itochu.co.jp/ja/files/security_102.pdf; 東京センチュリー「株式基本情報」（2026-03-31現在）: https://www.tokyocentury.co.jp/jp/ir/stock/basic.html.]
 
 In addition, the **ITOCHU Group's financial-services ecosystem**:
 
-The three-layer structure of **"Tokyo Century = ITOCHU's outward-facing leasing / finance arm," "FamilyMart = ITOCHU's retail-finance platform," and "ITOCHU Finance = internal CMS"** is the standard pattern of the ITOCHU Group's financial operations.
+Read the three layers — **"Tokyo Century = equity-method outward-facing general leasing," "FamilyMart = retail touchpoint," "ITOCHU Treasury = group treasury"** — while distinguishing the legal-entity and equity boundaries.
 
-### Identity within the 5  trading companies
+### Identity within the Big 5  trading companies
 
-- **A non-resource 5  trading company**: ITOCHU has the lowest resource ratio among the 5  and is a "**lifestyle-industry trading company**" that earns through **textile / food / ICT / convenience stores**.
-- **CITIC cooperation**: With access to the Chinese market as a strategic axis, it covers East Asia / ASEAN through 3 社-way cooperation with CITIC + Charoen Pokphand (the Thai conglomerate).
+- **Non-resource Big 5  trading company**: ITOCHU has the lowest resource ratio among the Big 5 , earning from **textiles, food, ICT, and convenience stores** as a "**consumer-lifestyle industry trading company**"
+- **CITIC alliance**: Access to the Chinese market as a strategic axis; the 3 社-way partnership with CITIC + Charoen Pokphand (Thai conglomerate) covers East Asia and ASEAN
 
 ### Competitors
 
-- **Domestic**: the 5  trading companies ([[financial-conglomerates/mitsubishi-corp|三菱]] / [[financial-conglomerates/mitsui-co|三井]] / [[financial-conglomerates/sumitomo-corp|住友]] / [[financial-conglomerates/marubeni-corp|丸紅]])
-- **Convenience stores (FamilyMart domain)**: Seven & i HD (7-Eleven), [[financial-conglomerates/mitsubishi-corp|三菱商事]] / KDDI (Lawson)
-- **Textile trading companies**: [[financial-conglomerates/marubeni-corp|丸紅]] (also strong in textiles), other textile-specialist trading companies
+- **Domestic**: The Big 5  trading companies ([[financial-conglomerates/mitsubishi-corp|Mitsubishi]] / [[financial-conglomerates/mitsui-co|Mitsui]] / [[financial-conglomerates/sumitomo-corp|Sumitomo]] / [[financial-conglomerates/marubeni-corp|Marubeni]])
+- **Convenience stores (FamilyMart domain)**: Seven & i Holdings (7-Eleven), [[financial-conglomerates/mitsubishi-corp|Mitsubishi Corporation]] / KDDI (Lawson)
+- **Textile trading companies**: [[financial-conglomerates/marubeni-corp|Marubeni]] (also strong in textiles), other textile-specialized trading companies
 
-## 5. Regulation / policy
+## 5. Regulation & Policy
 
-- **Accounting**: Adopts IFRS; after the FamilyMart integration it became a consolidated subsidiary, with a large weighting of equity-method investments ^[extracted]
+- **Accounting**: IFRS adopted; after FamilyMart integration, it became a consolidated subsidiary; large weight of equity-method investments ^[extracted]
 
 ## 7. Open questions
 
-- **FamilyMart integration synergies** — the monetization pace of FamiPay / ATM / insurance sales / fintech
-- Deepening of the relationship with **Tokyo Century** (possibility of an additional stake or of separation / restructuring)
-- The future of the **CITIC cooperation** (strategic reassessment amid China's economic slowdown and U.S.-China confrontation)
-- Long-term monetization of the **Dole Food** integration, and the direction of additional M&A
-- The future of the **competition for the top net-profit spot** among the 5  trading companies (the balance of power among [[financial-conglomerates/mitsubishi-corp|三菱]] / [[financial-conglomerates/mitsui-co|三井]] / ITOCHU)
-- The **8  (Eighth) segment** — the medium-term plan for convenience-store + retail integration
+- **FamilyMart integration synergies** — pace of monetization of FamiPay / ATMs / insurance sales / fintech
+- Deepening of the relationship with **Tokyo Century** (additional stake or possibility of separation/restructuring)
+- Future of the **CITIC alliance** (strategic reassessment amid China's economic slowdown and US-China tensions)
+- Long-term monetization of the **Dole Food** integration, direction of additional M&A
+- Future of the **net-income top-position race** within the Big 5  trading companies (power balance among [[financial-conglomerates/mitsubishi-corp|Mitsubishi]] / [[financial-conglomerates/mitsui-co|Mitsui]] / ITOCHU)
+- **The 8 th (Eighth) segment** — medium-term plan for convenience-store + retail integration
 
 ## Related
 
 - [[financial-conglomerates/INDEX|financial-conglomerates INDEX]]
-- [[financial-conglomerates/mitsubishi-corp|三菱商事]] · [[financial-conglomerates/mitsui-co|三井物産]] · [[financial-conglomerates/sumitomo-corp|住友商事]] · [[financial-conglomerates/marubeni-corp|丸紅]] · [[financial-conglomerates/toyota-tsusho-corp|豊田通商]] · [[financial-conglomerates/sojitz-corp|双日]] (peer trading companies)
-- [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]] (internal group treasury)
-- [[leasing-firms/tokyo-century|東京センチュリー]] (a 3  leasing player, ITOCHU strategic stake of about 25%-class)
-- [[payment-firms/famima-digital-one|ファミリーマート]] (convenience store 100% made a subsidiary)
-- [[megabanks/mizuho-fg|みずほ FG]] (a 2  core shareholder of Tokyo Century)
-- [[finance/INDEX|finance index]] · [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]
+- [[financial-conglomerates/mitsubishi-corp|Mitsubishi Corporation]] · [[financial-conglomerates/mitsui-co|Mitsui & Co.]] · [[financial-conglomerates/sumitomo-corp|Sumitomo Corporation]] · [[financial-conglomerates/marubeni-corp|Marubeni]] · [[financial-conglomerates/toyota-tsusho-corp|Toyota Tsusho]] · [[financial-conglomerates/sojitz-corp|Sojitz]] (peer trading companies)
+- [[trading-company-finance/itochu-finance|ITOCHU Treasury]] (group treasury)
+- [[leasing-firms/tokyo-century|Tokyo Century]] (ITOCHU ownership ratio 29.94%)
+- [[payment-firms/famima-digital-one|FamilyMart]] (consolidated subsidiary with 94.7% voting rights)
+- [[megabanks/mizuho-fg|Mizuho FG]] (Tokyo Century's 2 -axis shareholder)
+- [[finance/INDEX|finance index]] · [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial group investment universe]]
 
 ## Sources
 
 - ITOCHU Corporation (8001) official IR — https://www.itochu.co.jp/ja/ir/
-- ITOCHU Corporation integrated report — https://www.itochu.co.jp/ja/ir/library/annual_report/
-- EDINET securities reports — https://disclosure.edinet-fsa.go.jp/ (search: 伊藤忠商事 / 8001)
+- ITOCHU Corporation Integrated Report — https://www.itochu.co.jp/ja/ir/library/annual_report/
+- ITOCHU Corporation 102th Annual Securities Report (有価証券報告書) — https://www.itochu.co.jp/ja/files/security_102.pdf
+- Tokyo Century basic stock information — https://www.tokyocentury.co.jp/jp/ir/stock/basic.html
+- EDINET annual securities reports — https://disclosure.edinet-fsa.go.jp/ (search: 伊藤忠商事 / 8001)
 - JPX issue information 8001 — https://www2.jpx.co.jp/
 
 ---
 
 > [!info] Verification status
-> confidence: **likely**. ITOCHU Corporation is sufficiently covered on the public surface. The consolidated figures after FamilyMart was made a wholly owned subsidiary (2020), the continued confirmation of the about 25%-class Tokyo Century stake, and the net-profit ranking should be updated each time from the latest securities report / integrated report.
+> Confidence: **likely**. ITOCHU Treasury 100%, Tokyo Century's ownership ratio 29.94% (voting rights 30.0%), and FamilyMart's voting rights 94.7% were re-confirmed as of 2026-07-29 via each company's official disclosures.

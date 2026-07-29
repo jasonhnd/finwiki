@@ -1,12 +1,12 @@
 ---
 source: trust-banks/sbi-shinsei-trust-bank
-source_hash: 9629d32ea59df5ee
+source_hash: 6f61fa3fcb83f32a
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "SBI新生信託銀行（SBI Shinsei Trust Bank）"
-translated_at: 2026-06-26T08:32:30.863Z
+translated_at: 2026-07-28T23:40:04.574Z
 ---
 
 # SBI新生信託銀行（SBI Shinsei Trust Bank）
@@ -23,7 +23,7 @@ SBI Shinsei Trust Bankは、SBI Shinsei / SBI Holdingsグループ内の信託�
 
 この項目が重要なのは、同社がもはや静かなグループ内信託子会社にとどまらないためである。公開リリースと会社サイトは、不動産信託、債権流動化、セキュリティトークン構造、規制対象のデジタル金融構想と同社を結び付けている。そのため、古典的な信託銀行機能と[[fintech/jp-stablecoin-progmat|stablecoin / tokenized-money]]の調査領域の中間に位置する。
 
-## 法人格の境界
+## 法人格の境界 ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; SBI新生信託銀行「会社概要」: https://www.shinseitrust.com/corporate/about.html]
 
 | 項目 | 読み方 |
 |---|---|

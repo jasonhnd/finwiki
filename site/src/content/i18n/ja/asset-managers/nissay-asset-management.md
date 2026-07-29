@@ -1,11 +1,11 @@
 ---
 source: asset-managers/nissay-asset-management
-source_hash: 8fa5604564498c50
+source_hash: d46c8dc77dc071c9
 lang: ja
 status: machine
 fidelity: ok
 title: "ニッセイアセットマネジメント (Nissay AM)"
-translated_at: 2026-06-15T03:48:21.901Z
+translated_at: 2026-07-28T23:40:03.789Z
 ---
 
 # ニッセイアセットマネジメント (Nissay AM)
@@ -27,7 +27,9 @@ translated_at: 2026-06-15T03:48:21.901Z
 | FSA 登録 | 関東財務局長(金商)第369号 |
 | FIEA スコープ | 第二種金融商品取引業、投資助言・代理業、投資運用業 |
 | 親会社境界 | [[life-insurers/nippon-life|日本生命保険 (相互会社)]] 100% 資産運用子会社 |
-| 本社 | 東京都千代田区麹町 |
+| 本社 | 東京都千代田区丸の内1-6-6 日本生命丸の内ビル |
+
+Sources: ^[FSA 金融商品取引業者登録一覧: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx; ニッセイアセットマネジメント 会社概要: https://www.nam.co.jp/company/info/outline.html.]
 
 ## 2. 事業上の役割
 
@@ -58,13 +60,15 @@ translated_at: 2026-06-15T03:48:21.901Z
 
 ## 5. 競合・peer
 
-| Peer | 系譜 | 差別化軸 |
+| Peer | 公開されている系列・資本境界 | 比較カテゴリ |
 |---|---|---|
-| [[asset-managers/t-and-d-asset-management|T&D AM]] | [[life-insurers/td-hd|T&D HD]] 系 | 中堅生保 FG の運用機能 |
-| [[asset-managers/asset-management-one|アセマネOne]] | みずほ + 第一生命 JV | 銀行 + 生保 JV |
-| [[asset-managers/tokio-marine-asset-management|東京海上 AM]] | [[non-life-insurers/tokio-marine|東京海上 HD]] 系 | 損保系運用会社 |
-| [[asset-managers/sbi-asset-management|SBI AM]] | [[megabanks/sbi-hd|SBI HD]] 系 | ネット証券系低コスト投信 |
-| [[asset-managers/mufg-asset-management|MUAM]] | [[megabanks/mufg|MUFG]] 系 | メガバンク系 + eMAXIS Slim |
+| [[asset-managers/t-and-d-asset-management|T&D AM]] | [[life-insurers/td-hd|T&D HD]] 100% | 生保グループ系 AM |
+| [[asset-managers/asset-management-one|アセマネOne]] | みずほ FG 70% / 第一生命 HD 30%（議決権 51% / 49%） | 銀行・生保 JV |
+| [[asset-managers/tokio-marine-asset-management|東京海上 AM]] | [[non-life-insurers/tokio-marine|東京海上 HD]] 100% | 損保グループ系 AM |
+| [[asset-managers/sbi-asset-management|SBI AM]] | SBIグローバルアセットマネジメント / [[megabanks/sbi-hd|SBI グループ]] | SBI グループ系 AM |
+| [[asset-managers/mufg-asset-management|MUAM]] | [[megabanks/mufg|MUFG]] グループ | 銀行グループ系 AM |
+
+Sources: ^[ニッセイアセットマネジメント 会社概要: https://www.nam.co.jp/company/info/outline.html; T&Dアセットマネジメント 会社概要: https://www.tdasset.co.jp/company/about/; Asset Management One 会社概要: https://www.am-one.co.jp/company/profile/; Tokio Marine Asset Management corporate profile: https://www.tokiomarineam.com/who_we_are/; SBIアセットマネジメント 会社概要: https://www.sbiam.co.jp/gaiyo/gaiyo_gai.html; 三菱UFJアセットマネジメント 会社概要: https://www.am.mufg.jp/corp/about/gaiyou.html.]
 
 ## 関連
 
@@ -81,5 +85,5 @@ translated_at: 2026-06-15T03:48:21.901Z
 ## 出典
 
 - FSA, "金融商品取引業者登録一覧", `kinyushohin.xlsx` (公開エクセル一覧).
-- ニッセイアセットマネジメント株式会社, "会社概要" (公式コーポレートサイト).
+- ニッセイアセットマネジメント株式会社, "会社概要" (https://www.nam.co.jp/company/info/outline.html).
 - 日本生命保険相互会社, "グループ会社一覧".

@@ -1,11 +1,11 @@
 ---
 source: megabanks/ndfg
-source_hash: c21a834977f693df
+source_hash: 8ff0b00e14998705
 lang: en
 status: machine
 fidelity: ok
 title: "NTT DOCOMO Financial Group (NDFG)"
-translated_at: 2026-06-19T06:09:18.159Z
+translated_at: 2026-07-29T00:32:28.742Z
 ---
 
 # NTT DOCOMO Financial Group (NDFG)
@@ -16,12 +16,12 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[non
 
 ## TL;DR
 
-The **financial-business supervisory intermediate holding company "NTT DOCOMO Financial Group, Inc." (DOCOMO FG)** which NTT DOCOMO will **commence operations on 2026-07-01** (succeeding the businesses and related shares in the financial domain via absorption-type split). It reorganizes securities (Monex Group) + banking (SBI Sumishin Net Bank / docomo Neobank brand) + cards & payments (d CARD / d払い / d Smart Bank) under 1  roof. Its positioning is the **4 th pole of the "telco-affiliated FGs"** alongside [[megabanks/au-fh|au-fg]] / [[megabanks/paypay-fg]] / [[payment-firms/rakuten-fg]]. The parent company is NTT DOCOMO (NTT 100%). ^[extracted]
+The **financial-business supervisory intermediate holding company "NTT DOCOMO Financial Group, Inc." (DOCOMO FG)**, which **commenced operations on 2026-07-01** with NTT DOCOMO succeeding to it the businesses and related shares in the financial domain via absorption-type split. It reorganizes securities (Monex Group) + banking (SBI Sumishin Net Bank / docomo Neobank brand) + cards & payments (d CARD / d払い / d Smart Bank) under 1  roof. Its positioning is the **4 th pole of the "telco-affiliated FGs"** alongside [[megabanks/au-fh|au-fg]] / [[megabanks/paypay-fg]] / [[payment-firms/rakuten-fg]]. The parent company is NTT DOCOMO (NTT 100%). ^[extracted]
 
 ## 1. Company overview
 
 **Legal name**: NTT DOCOMO Financial Group, Inc. (abbreviated DOCOMO FG) ^[extracted]
-**English name**: NTT DOCOMO Financial Holdings (the official English name is unpublished; this is a customary notation)
+**English name**: only the Japanese trade name is confirmed in official announcements (the customary English notation is not treated as the official trade name)
 **Commencement of operations**: **2026-07-01** (the effective date of the absorption-type split, on an official-announcement basis) ^[extracted]
 **Parent company**: NTT DOCOMO, INC. (Nippon Telegraph and Telephone Corporation 100%) ^[extracted]
 **Headquarters**: 2-11-1  Nagatacho, Chiyoda-ku, Tokyo, Sanno Park Tower ^[extracted]
@@ -40,7 +40,7 @@ NTT DOCOMO announced a spin-off / transfer scheme consolidating its existing fin
         └── NDFG（中间金融持股公司，事业开始 2026-07-01）★
 ```
 
-### Major subsidiaries & planned holdings (on a public-announcement basis)
+### Major subsidiaries & holdings (on a public-announcement basis)
 
 ```
 NDFG（中间持股，NTT docomo 100%，事业开始 2026-07-01）
@@ -77,7 +77,7 @@ NDFG（中间持股，NTT docomo 100%，事业开始 2026-07-01）
 
 ## 2. Business segment map
 
-| Segment | Main operators (planned) | Features |
+| Segment | Main operators | Features |
 |---|---|---|
 | Securities | Monex Group / Monex Securities | A major online broker, holding U.S. TradeStation |
 | Crypto assets | Coincheck Group (under Monex) | A major domestic exchange operator |
@@ -85,6 +85,8 @@ NDFG（中间持股，NTT docomo 100%，事业开始 2026-07-01）
 | Cards | d CARD (d CARD GOLD / d CARD PLATINUM line) | Operated integrally with the d-point base |
 | Points & payments | d POINT / d Payment / d払い | Telecom contractors + external merchants |
 | Investment & asset-building | NISA / iDeCo, d Smart Bank linkage | Linked with Monex + Sumishin SBI |
+
+Sources: ^[NTT ドコモ「金融事業における事業再編および『NTTドコモ・フィナンシャルグループ』体制への移行について」: https://www.docomo.ne.jp/info/news_release/2026/03/31_00.html; NTT ドコモ「マネックスグループ・マネックス証券との資本業務提携契約を締結」: https://www.docomo.ne.jp/info/news_release/2023/10/04_00.html.]
 
 ### Positioning as the "4 th pole" of telco-affiliated FGs
 
@@ -137,4 +139,4 @@ NDFG（中间持股，NTT docomo 100%，事业开始 2026-07-01）
 ---
 
 > [!info] Verification status
-> confidence: **tentative** (v1.1  based on public announcements + timely disclosures, 2026-05-29 re-verified / 2026-05-30 official announcement fixing the company name, dates, and headquarters). **2026-05-30 update**: per the business-reorganization release published by NTT DOCOMO 2026-03-31, the company name "**NTT DOCOMO Financial Group, Inc.**", **2026-07-01 commencement of operations** (the absorption-type split takes effect), the headquarters "2-11-1  Nagatacho, Chiyoda-ku, Tokyo, Sanno Park Tower", and the succession targets (the "d CARD®" and "d払い®" businesses + the shares of docomo Insurance / docomo Finance / docomo Monex HD / SBI Sumishin →docomo SMTB Net Bank) are fixed — the former "forecast" annotations (company name, establishment date, headquarters, d-CARD spin-off, transfer scope) have been removed upon official confirmation. Monex Securities as of 2024-01-04 (docomo Monex HD, DOCOMO voting rights approx. 49%), and SBI Sumishin Net Bank **becoming an NTT DOCOMO consolidated subsidiary as of 2025-10-01** (joint management with Sumitomo Mitsui Trust at voting rights 50%／50%, with a scheduled name change to "docomo SMTB Net Bank" at 2026-08-03) are officially confirmed. **Whether d-points remain in the main body vs are transferred to NDFG** is not individually specified in the official releases and, being unconfirmed speculation, is isolated to `.opinions/JapanFG/ndfg.md`. Evaluative issues such as the applicability of holding-company regulation and the superior-bargaining-position guideline discussion are also isolated to `.opinions`. Important figures and proper nouns are **limited to those based on public documents**.
+> confidence: **likely** (v1.2  based on public announcements + timely disclosures, 2026-07-29 verification). Per the business-reorganization release published by NTT DOCOMO 2026-03-31, the company name "**NTT DOCOMO Financial Group, Inc.**", **2026-07-01 commencement of operations** (the absorption-type split takes effect), the headquarters "2-11-1  Nagatacho, Chiyoda-ku, Tokyo, Sanno Park Tower", and the succession targets (the "d CARD®" and "d払い®" businesses + the shares of docomo Insurance / docomo Finance / docomo Monex HD / SBI Sumishin →docomo SMTB Net Bank) are confirmed. Because the official announcements do not indicate an English trade name, the customary English name is not treated as the official trade name. Monex Securities as of 2024-01-04 (docomo Monex HD, DOCOMO voting rights approx. 49%), and SBI Sumishin Net Bank **becoming an NTT DOCOMO consolidated subsidiary as of 2025-10-01** (joint management with Sumitomo Mitsui Trust at voting rights 50%／50%, with a scheduled name change to "docomo SMTB Net Bank" at 2026-08-03) are officially confirmed. **Whether d-points remain in the main body vs are transferred to NDFG** is not individually specified in the official releases and, being unconfirmed speculation, is isolated to `.opinions/JapanFG/ndfg.md`.

@@ -8,14 +8,14 @@ aliases:
   - "trust-banks/mizuho-trust-banking"
 domain: trust-banks
 created: 2026-05-20
-last_updated: 2026-06-05
-last_tended: 2026-06-05
-review_by: 2026-11-20
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, bank, trust-bank, mizuho, operating-company]
 status: active
 sources:
-  - "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
+  - "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf"
   - "https://www.mizuho-tb.co.jp/company/about/info.html"
   - "https://www.mizuho-tb.co.jp/company/about/info02.html"
 ---
@@ -30,7 +30,7 @@ This entry sits under [[trust-banks/INDEX|trust-banks INDEX]] (its domain route)
 
 みずほ信託銀行 (Mizuho Trust & Banking Co., Ltd.) は [[megabanks/mizuho-fg|みずほ FG]] の trust-bank operating company。**銀行法の銀行免許に加え兼営法に基づく信託業務の兼営認可**を持つ信託兼営金融機関で、銀行業務と信託・年金・不動産・証券代行・受託財産業務を一体で営む。商業銀行中核は [[megabanks/mizuho-bank|みずほ銀行]] が担い、みずほ信託銀行は信託・受託財産側を担うという機能分担になる。
 
-## 1. License / group boundary
+## 1. License / group boundary ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; みずほ信託銀行「会社概要」: https://www.mizuho-tb.co.jp/company/about/info.html]
 
 | Item | Notes |
 |---|---|

@@ -12,15 +12,17 @@ aliases:
   - "itochu"
 domain: financial-conglomerates
 created: 2026-05-24
-last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-20
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, sogo-shosha, parent-company, textile, food, retail, familymart, ict, non-resource, conglomerate]
 status: active
 sources:
   - "伊藤忠商事 (8001) 公式 IR — https://www.itochu.co.jp/ja/ir/"
   - "伊藤忠商事 統合報告書 — https://www.itochu.co.jp/ja/ir/library/annual_report/"
+  - "伊藤忠商事 第102期有価証券報告書 — https://www.itochu.co.jp/ja/files/security_102.pdf"
+  - "東京センチュリー 株式基本情報 — https://www.tokyocentury.co.jp/jp/ir/stock/basic.html"
   - "EDINET 有価証券報告書 — https://disclosure.edinet-fsa.go.jp/ (検索: 伊藤忠商事)"
   - "JPX 銘柄情報 8001 — https://www2.jpx.co.jp/"
 ---
@@ -28,7 +30,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] as a **sōgō shōsha parent holding-company** (non-financial-services 商社 parent, but JapanFG-relevant via its financial-services 子会社 and strategic shareholdings). Read it against [[financial-conglomerates/mitsubishi-corp|三菱商事]] (5 大首位 / 資源寄り対照) and [[financial-conglomerates/marubeni-corp|丸紅]] (繊維・穀物商社としての対照) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]] (内向け CMS) and especially **[[leasing-firms/tokyo-century|東京センチュリー]]** (伊藤忠の戦略的持分 **約 25% 級** = みずほ FG と並ぶ 2 大株主、東証 PRIME **8439**)。System frame: [[finance/INDEX|finance index]] と [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
+This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] as a **sōgō shōsha parent holding-company** (non-financial-services 商社 parent, but JapanFG-relevant via its financial-services 子会社 and strategic shareholdings). Read it against [[financial-conglomerates/mitsubishi-corp|三菱商事]] (5 大首位 / 資源寄り対照) and [[financial-conglomerates/marubeni-corp|丸紅]] (繊維・穀物商社としての対照) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see [[trading-company-finance/itochu-finance|伊藤忠トレジャリー]] (内向け group treasury) and especially **[[leasing-firms/tokyo-century|東京センチュリー]]** (伊藤忠の所有割合 **29.94%**、東証 PRIME **8439**)。System frame: [[finance/INDEX|finance index]] と [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
 
 ## 1. 会社概要
 
@@ -49,9 +51,9 @@ This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates IN
 
 ```
 伊藤忠商事 (8001, 東証 PRIME)
-  ├── [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]] (100%)                      — 内向け CMS / グループファイナンス
-  ├── [[leasing-firms/tokyo-century|東京センチュリー]] (約 25% 級, 持分法)             — 外向けリース、東証 PRIME 8439、みずほ + 伊藤忠 2 軸株主
-  ├── [[payment-firms/famima-digital-one|ファミリーマート]] (100%, 2020 年 TOB で完全子会社化)     — コンビニリテール・リテール金融プラットフォーム
+  ├── [[trading-company-finance/itochu-finance|伊藤忠トレジャリー]] (100%)                    — 金融サービス / グループ財務
+  ├── [[leasing-firms/tokyo-century|東京センチュリー]] (29.94%; 議決権 30.0%, 持分法)    — 外向け総合リース、東証 PRIME 8439
+  ├── [[payment-firms/famima-digital-one|ファミリーマート]] (議決権 94.7%)                      — コンビニリテール・リテール金融プラットフォーム
   ├── Dole Food (旧 米国 Dole の食品事業を全面取得)                              — 食品セグメント核
   └── CITIC (中国中信集団, 約 10% 級 + チャロン・ポカパン 経由)                   — 中国・アジア戦略提携
 ```
@@ -67,7 +69,7 @@ This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates IN
 | 2000s〜 | 非資源領域 (繊維・食品・ICT) 強化、純利益で 5 大上位入り |
 | 2015 | CITIC (中国中信集団) 戦略提携 (CITIC + チャロン・ポカパン + 伊藤忠 3 社連携) |
 | 2018 | Dole Food 食品事業全面取得 |
-| 2020 | **ファミリーマート TOB → 完全子会社化 (100%)** |
+| 2020 | **ファミリーマート TOB・上場廃止 → 連結子会社化** |
 | 2023〜 | 純利益で 5 大首位 (時期により) 到達 |
 | 2024 | Berkshire Hathaway 商社株買い増し継続 |
 
@@ -81,20 +83,22 @@ This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates IN
 | エネルギー・化学品 | 原油・LNG (限定的)、化学品トレード | — |
 | 食料 | 穀物、青果 (Dole)、食品メーカー、コンビニ食品サプライチェーン | Dole Food、伊藤忠食品 |
 | 住生活 | 住宅資材、ライフスタイル、コンシューマー | — |
-| 情報・金融 | ICT (テレコム・IT サービス)、金融サービス (リテール金融含む) | [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]] |
-| 第8 (Eighth) | コンビニ・リテール統合セグメント (2020 年新設) | [[payment-firms/famima-digital-one|ファミマ]] (100%)、ファミペイ |
+| 情報・金融 | ICT (テレコム・IT サービス)、金融サービス (リテール金融含む) | [[trading-company-finance/itochu-finance|伊藤忠トレジャリー]] |
+| 第8 (Eighth) | コンビニ・リテール統合セグメント (2020 年新設) | [[payment-firms/famima-digital-one|ファミマ]] (議決権 94.7%)、ファミペイ |
 
 ## 3. Financial-services adjacency
 
 | Finance subsidiary / 関連 | Wiki anchor | 持分 | 機能 |
 |---|---|---|---|
-| 伊藤忠ファイナンス | [[trading-company-finance/itochu-finance]] | 100% | 内向け CMS / グループファイナンス / 一括ファクタリング |
-| **東京センチュリー** | **[[leasing-firms/tokyo-century]]** | **約 25% 級 (持分法)** | **3 大リースの一角、東証 PRIME 8439、みずほ FG + 伊藤忠 2 軸株主構造** |
-| ファミマ (リテール金融プラットフォーム) | [[payment-firms/famima-digital-one]] | 100% | ファミペイ、ファミマ ATM、保険販売、フィンテック |
+| 伊藤忠トレジャリー | [[trading-company-finance/itochu-finance]] | 100% | 金融サービス / グループ財務 |
+| **東京センチュリー** | **[[leasing-firms/tokyo-century]]** | **所有割合 29.94%; 議決権 30.0% (持分法)** | **外向け総合リース・ファイナンス、東証 PRIME 8439** |
+| ファミリーマート (リテール金融プラットフォーム) | [[payment-firms/famima-digital-one]] | 議決権 94.7% | コンビニ、ファミペイ等のリテール接点 |
+
+Sources: ^[伊藤忠商事 第102期有価証券報告書（2026-03-31現在）: https://www.itochu.co.jp/ja/files/security_102.pdf; 東京センチュリー「株式基本情報」（2026-03-31現在）: https://www.tokyocentury.co.jp/jp/ir/stock/basic.html.]
 
 加えて、**伊藤忠グループの financial-services エコシステム**:
 
-**「東京センチュリー = 伊藤忠の外向けリース・ファイナンス腕」「ファミマ = 伊藤忠のリテール金融プラットフォーム」「伊藤忠ファイナンス = 内向け CMS」** の三層構造が伊藤忠グループの財務オペレーションの定型。
+**「東京センチュリー = 持分法適用の外向け総合リース」「ファミリーマート = リテール接点」「伊藤忠トレジャリー = グループ財務」** の三層を、法人・持分境界を分けて読む。
 
 ### 5 大商社内の identity
 
@@ -124,9 +128,9 @@ This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates IN
 
 - [[financial-conglomerates/INDEX|financial-conglomerates INDEX]]
 - [[financial-conglomerates/mitsubishi-corp|三菱商事]] · [[financial-conglomerates/mitsui-co|三井物産]] · [[financial-conglomerates/sumitomo-corp|住友商事]] · [[financial-conglomerates/marubeni-corp|丸紅]] · [[financial-conglomerates/toyota-tsusho-corp|豊田通商]] · [[financial-conglomerates/sojitz-corp|双日]] (peer 商社)
-- [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]] (内向け group treasury)
-- [[leasing-firms/tokyo-century|東京センチュリー]] (3 大リース、伊藤忠 戦略的持分 約 25% 級)
-- [[payment-firms/famima-digital-one|ファミリーマート]] (コンビニ 100% 子会社化)
+- [[trading-company-finance/itochu-finance|伊藤忠トレジャリー]] (グループ財務)
+- [[leasing-firms/tokyo-century|東京センチュリー]] (伊藤忠 所有割合 29.94%)
+- [[payment-firms/famima-digital-one|ファミリーマート]] (議決権 94.7% の連結子会社)
 - [[megabanks/mizuho-fg|みずほ FG]] (東京センチュリー の 2 軸株主)
 - [[finance/INDEX|finance index]] · [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]
 
@@ -134,10 +138,12 @@ This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates IN
 
 - 伊藤忠商事 (8001) 公式 IR — https://www.itochu.co.jp/ja/ir/
 - 伊藤忠商事 統合報告書 — https://www.itochu.co.jp/ja/ir/library/annual_report/
+- 伊藤忠商事 第102期有価証券報告書 — https://www.itochu.co.jp/ja/files/security_102.pdf
+- 東京センチュリー 株式基本情報 — https://www.tokyocentury.co.jp/jp/ir/stock/basic.html
 - EDINET 有価証券報告書 — https://disclosure.edinet-fsa.go.jp/ (検索: 伊藤忠商事 / 8001)
 - JPX 銘柄情報 8001 — https://www2.jpx.co.jp/
 
 ---
 
 > [!info] 検証状況
-> confidence: **likely**。伊藤忠商事は public-surface で十分カバー。ファミマ完全子会社化 (2020) 後の連結数値、東京センチュリー 約 25% 級持分の継続確認、純利益順位は最新 有価証券報告書 / 統合報告書で都度更新。
+> confidence: **likely**。伊藤忠トレジャリー 100%、東京センチュリーの所有割合 29.94%（議決権 30.0%）、ファミリーマートの議決権 94.7% は、2026-07-29 時点で各社の公式開示により再確認した。

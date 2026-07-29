@@ -1,11 +1,11 @@
 ---
 source: trust-banks/hogaraka-trust
-source_hash: 56b9506ffdf481e3
+source_hash: d61e598d40f4bf8b
 lang: en
 status: machine
 fidelity: ok
 title: "Hogaraka Trust"
-translated_at: 2026-05-31T15:29:03.879Z
+translated_at: 2026-07-28T23:40:44.035Z
 ---
 
 # Hogaraka Trust
@@ -22,7 +22,7 @@ Hogaraka Trust describes itself as a Takashimaya group trust company. Its public
 
 The page matters because it shows a department-store / retail group trust route. It is useful for analyzing how non-bank customer networks can distribute estate and asset-succession trust services.
 
-## Entity Boundary
+## Entity Boundary ^[金融庁の現行登録とほがらか信託会社概要: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://www.hogaraka-trust.co.jp/company/]
 
 | Item | Reading |
 |---|---|

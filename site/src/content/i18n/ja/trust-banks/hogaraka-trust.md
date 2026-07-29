@@ -1,12 +1,12 @@
 ---
 source: trust-banks/hogaraka-trust
-source_hash: 56b9506ffdf481e3
+source_hash: d61e598d40f4bf8b
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "ほがらか信託 (Hogaraka Trust)"
-translated_at: 2026-06-26T08:32:30.857Z
+translated_at: 2026-07-28T23:40:04.407Z
 ---
 
 # ほがらか信託 (Hogaraka Trust)
@@ -23,7 +23,7 @@ translated_at: 2026-06-26T08:32:30.857Z
 
 このページが重要なのは、百貨店・小売グループ系の信託ルートを示すためである。銀行以外の顧客ネットワークが相続・資産承継型の信託サービスをどう提供するかを分析する際に有用。
 
-## 法人境界
+## 法人境界 ^[金融庁の現行登録とほがらか信託会社概要: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://www.hogaraka-trust.co.jp/company/]
 
 | 項目 | 読み方 |
 |---|---|

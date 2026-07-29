@@ -1,11 +1,11 @@
 ---
 source: trust-banks/greif-trust
-source_hash: 854d27b526706917
+source_hash: 3670b70f7fef21d3
 lang: ja
 status: machine
 fidelity: ok
 title: "Greif Trust / グライフ信託"
-translated_at: 2026-06-02T14:25:12.446Z
+translated_at: 2026-07-28T23:40:04.397Z
 ---
 # Greif Trust / グライフ信託
 
@@ -19,7 +19,7 @@ Greif Trust は、中国財務局管内の信託会社一覧に載る会社で�
 
 このページは株式会社グライフ信託を対象とする。公開資料では金融商品取引や不動産関連の許認可にも触れられるが、それらは個別ソースの免許文言で裏づけられる範囲に限ってマッピングする。
 
-## 事業上の役割マップ
+## 事業上の役割マップ ^[株式会社グライフ信託「会社概要」: https://www.greif-trust.com/company/; 金融庁の現行登録: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf]
 
 | ルート | 読み方 |
 |---|---|

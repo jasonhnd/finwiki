@@ -7,9 +7,9 @@ aliases:
   - "asset-managers/daiwa-am"
 domain: asset-managers
 created: 2026-05-20
-last_updated: 2026-06-05
-last_tended: 2026-06-05
-review_by: 2026-11-20
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, asset-management, fiea-operator, daiwa]
 status: active
@@ -39,9 +39,11 @@ This entry sits under [[asset-managers/INDEX|asset-managers INDEX]] (its domain 
 |---|---|
 | Legal name | 大和アセットマネジメント株式会社 / Daiwa Asset Management Co., Ltd. |
 | License route | 金融商品取引法上の **投資運用業**・**投資助言・代理業**・第二種; 関東財務局長(金商)第352号 |
-| Parent boundary | [[securities-firms/daiwa-sg|Daiwa Securities Group]] majority; [[life-insurers/kampo-life|Kampo Life]] minority (per public disclosure) |
+| Parent boundary | [[securities-firms/daiwa-sg|Daiwa Securities Group]] 80%; [[life-insurers/kampo-life|かんぽ生命保険]] 20% |
 | Supervision | [[financial-regulators/fsa|FSA]] + 投資信託協会 / 日本投資顧問業協会 |
 | Wiki role | 大和証券グループ系 運用会社 anchor |
+
+Sources: ^[FSA 金融商品取引業者登録一覧: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx; 大和アセットマネジメント 会社概要: https://www.daiwa-am.co.jp/company/outline.html.]
 
 ## 2. Operating model
 
@@ -70,4 +72,4 @@ This entry sits under [[asset-managers/INDEX|asset-managers INDEX]] (its domain 
 - Daiwa Asset Management, "会社情報".
 
 > [!info] 校核状態
-> confidence: likely. 法人名・登録番号・大和証券グループ系列は公開情報。資本構成 (Daiwa SG majority + Kampo Life minority) は公開開示に基づく **shape**。具体的 AUM / ファンド本数は記載しない。
+> confidence: likely. 法人名・登録番号・資本構成（大和証券グループ本社 80%、かんぽ生命保険 20%）は、2026-07-29 時点の FSA 登録一覧と公式会社概要で再確認した。具体的 AUM / ファンド本数は記載しない。

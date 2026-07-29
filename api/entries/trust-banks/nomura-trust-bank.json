@@ -24,9 +24,9 @@
     "domain": "trust-banks",
     "type": null,
     "created": "2026-05-20",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-20",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -41,10 +41,11 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf",
       "https://www.nomura-trust.co.jp/company/corp.html",
       "https://www.nomura-trust.co.jp/company/business.html",
       "https://www.nomura-trust.co.jp/ir/pdf/2503.pdf",
+      "https://www.nomura-trust.co.jp/ir/pdf/2603.pdf",
       "Nomura Holdings 有価証券報告書 / Form 20-F",
       "Wikipedia: 野村信託銀行 (公開情報)"
     ]
@@ -53,17 +54,17 @@
   "headings": [
     "野村信託銀行 (Nomura Trust Bank)",
     "Wiki route",
-    "1. 法人・ライセンス境界",
+    "1. 法人・ライセンス境界 ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; 野村信託銀行「会社概要」（2026-05-13 時点）: https://www.nomura-trust.co.jp/company/corp.html]",
     "2. 親会社 野村 HD 構造",
     "4. 主要業務 — 証券グループ付随の信託機能",
-    "5. 重要年表",
-    "6. ピア比較 — 信託銀行マーケット",
+    "5. 重要年表 ^[野村信託銀行「会社概要」「仕事を知る」: https://www.nomura-trust.co.jp/company/corp.html; https://www.nomura-trust.co.jp/recruit/graduate/business/]",
+    "6. ピア比較 — 法人境界と主力機能 ^[各社公式会社情報: https://www.smtb.jp/corporate/summary/; https://www.tr.mufg.jp/ippan/about/index.html; https://www.mizuho-tb.co.jp/company/about/info.html; https://www.nomura-trust.co.jp/company/business.html; https://www.bank-daiwa.co.jp/about/outline/; https://www.shinseitrust.com/corporate/about.html]",
     "7. 監督・規制",
     "8. Counterpoints",
     "9. Open questions"
   ],
   "body_links": {
-    "wikilinks_count": 19,
+    "wikilinks_count": 18,
     "wikilinks": [
       "asset-managers/nomura-asset-management",
       "banking/INDEX",
@@ -72,8 +73,6 @@
       "megabanks/mizuho-fg",
       "megabanks/mufg",
       "regional-banks/daiwa-next-bank",
-      "regional-banks/sbi-shinsei-bank",
-      "securities-firms/daiwa-securities-group",
       "securities-firms/nomura-hd",
       "securities-firms/nomura-securities",
       "securities/INDEX",
@@ -81,6 +80,7 @@
       "trust-banks/japan-trustee-services-bank",
       "trust-banks/master-trust-bank-of-japan",
       "trust-banks/mitsubishi-ufj-trust-bank",
+      "trust-banks/mizuho-trust-bank",
       "trust-banks/mizuho-trust-banking",
       "trust-banks/sbi-shinsei-trust-bank",
       "trust-banks/sumitomo-mitsui-trust"
@@ -93,11 +93,11 @@
       "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
       "https://finwiki.zksc.io/ja/megabanks/mufg/",
       "https://finwiki.zksc.io/ja/regional-banks/daiwa-next-bank/",
-      "https://finwiki.zksc.io/ja/regional-banks/sbi-shinsei-bank/",
       "https://finwiki.zksc.io/ja/securities-firms/nomura-hd/",
       "https://finwiki.zksc.io/ja/domains/securities/",
       "https://finwiki.zksc.io/ja/domains/trust-banks/",
       "https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/",
+      "https://finwiki.zksc.io/ja/trust-banks/mizuho-trust-bank/",
       "https://finwiki.zksc.io/ja/trust-banks/sbi-shinsei-trust-bank/",
       "https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/"
     ],
@@ -105,9 +105,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4725,
-    "word_like_tokens": 763,
+    "nonspace_chars": 5387,
+    "word_like_tokens": 880,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-07-29"
   }
 }

@@ -3,9 +3,9 @@ title: みずほ FG (Mizuho FG)
 aliases: ["Mizuho FG", "Mizuho Financial Group", "みずほフィナンシャルグループ", "みずほ FG", "MHFG"]
 domain: megabanks
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-15
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: certain
 tags: [JapanFG, megabank]
 status: active
@@ -21,6 +21,8 @@ sources:
   - "日本経済新聞「PayPay証券を連結子会社に PayPay、出資比率75%へ」(2025-02): https://www.nikkei.com/article/DGXZQOUB102E20Q5A210C2000000/"
   - "日本経済新聞「みずほ銀行が広告ビジネス、サイバーエージェントと提携」(2024-01): https://www.nikkei.com/article/DGXZQOUB256360V20C24A1000000/"
   - "Yahoo!ニュース/ABEMA TIMES「メガバンク初 みずほ銀行が対話型AIを業務に導入」(2023): https://news.yahoo.co.jp/articles/51973b383cf6057abe0cb43e1aa87a4c64d27bd5"
+  - "Mizuho「Group Companies」(2026-07-01 時点): https://www.mizuhogroup.com/who-we-are/group/outline"
+  - "Mizuho「Financial Information」(FY2025 決算公表確認): https://www.mizuhogroup.com/investors/financial-information"
 ---
 
 # みずほ FG (Mizuho FG)
@@ -31,7 +33,7 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[meg
 
 ## TL;DR
 
-日本第 3 大金融集団・3 大メガバンクの一角（総資産 **283.3 兆円**、純利益 **8854 億円**（過去最高）/ 2025-03 期実績）^[extracted]。2003-01-08 に**第一勧業銀行 + 富士銀行 + 日本興業銀行 3 行統合**を起源とする持株会社。3 行合併由来の構造的複雑性と**2002 / 2011 / 2021 連発の大規模システム障害**が長らくブランド毀損要因。**「One MIZUHO」**戦略でグループ一体運営へ。**楽天証券との資本業務提携**（2022-11-〜）・**PayPay 銀行への戦略出資**・**サイバーエージェントとの合弁（CA Mobile / その他）**で B2C デジタル弱点をパートナー連携で補完。G-SIB Bucket 1。^[extracted]
+日本第 3 大金融集団・3 大メガバンクの一角（総資産 **283.3 兆円**、純利益 **8854 億円**（過去最高）/ 2025-03 期実績）^[extracted]。2003-01-08 に**第一勧業銀行 + 富士銀行 + 日本興業銀行 3 行統合**を起源とする持株会社。3 行合併由来の構造的複雑性と**2002 / 2011 / 2021 連発の大規模システム障害**が長らくブランド毀損要因。**「One MIZUHO」**戦略でグループ一体運営へ。**楽天証券との資本業務提携**（2022-11〜）・**PayPay 証券への少数出資**・**サイバーエージェント等との業務提携**で B2C デジタル領域を外部連携で補完する。G-SIB Bucket 1。^[extracted]
 
 ## 1. 会社概要
 
@@ -56,7 +58,7 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[meg
 | 従業員（連結）| 52,554 名（単体 2,626 名）|
 | 資本金 | 2 兆 2560 億円 |
 
-> ※ 数値は第 23 期（2025-03 期）有価証券報告書・Wikipedia infobox 確報値。FY2025（2026-03 期）は 2026-05-15 公表予定、本稿未反映。^[extracted]
+> ※ 数値は第 23 期（2025-03 期）有価証券報告書・Wikipedia infobox 確報値。FY2025（2026-03 期）は公表済みだが、この比較表には未反映。最新決算は公式 Financial Information を参照。^[extracted]
 
 ### 主要株主（2025-03-31）^[extracted]
 
@@ -141,6 +143,8 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[meg
 | 信販・カード | オリコ（持分法 約 49%）+ みずほ楽天カード | UC カード（三菱 UFJ ニコス系）から距離 |
 | リース | みずほリース（持分法 23.5%、丸紅 23%）| 東証 PRIME 8425 |
 
+Sources: ^[Mizuho「Group Companies」(2026-07-01 時点): https://www.mizuhogroup.com/who-we-are/group/outline; Mizuho「Financial Information」: https://www.mizuhogroup.com/investors/financial-information.]
+
 ### デジタル戦略
 
 - **「One MIZUHO」戦略**: 3 行カルチャー統合・グループ一体運営の長期テーマ ^[extracted]
@@ -201,6 +205,8 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[meg
 - みずほ FG 第 23 期（2025-03 期）有価証券報告書
 - みずほ FG「中期経営計画 2024-2026」(2024-05 公表)
 - みずほ FG 沿革（公式 IR・2025-04 更新）
+- **Mizuho「Group Companies」**（2026-07-01 時点の主要会社・議決権）https://www.mizuhogroup.com/who-we-are/group/outline
+- **Mizuho「Financial Information」**（FY2025 決算公表確認）https://www.mizuhogroup.com/investors/financial-information
 - **日本経済新聞「PayPay証券を連結子会社に PayPay、出資比率75%へ」**（https://www.nikkei.com/article/DGXZQOUB102E20Q5A210C2000000/, 2025-02）── みずほ証券 PayPay 証券 24.8% 出資
 - **日本経済新聞「みずほ銀行が広告ビジネス、サイバーエージェントと提携」**（https://www.nikkei.com/article/DGXZQOUB256360V20C24A1000000/, 2024-01）── サイバーエージェント・フライウィールとの業務提携
 - **Yahoo!ニュース/ABEMA TIMES「メガバンク初 みずほ銀行が対話型AIを業務に導入」**（https://news.yahoo.co.jp/articles/51973b383cf6057abe0cb43e1aa87a4c64d27bd5, 2023）── 全社員向け対話型 AI 導入
@@ -208,4 +214,4 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[meg
 ---
 
 > [!info] 検証状況
-> confidence: **extracted**（v1.2 Wikipedia infobox + 公式 IR + 公開報道校核 2026-05-19）。2025-03 期決算（純利益 8854 億・総資産 283.3 兆）と主要株主比率は確報値。FY2025（2026-03 期）決算は 2026-05-15 公表だが本稿未取込。Greenhill 買収金額（770 億円 / 5.5 億ドル）と楽天証券資本提携額（約 800 億円）は当時の為替・取引構造で変動あり。**「PayPay 銀行への出資」「CA Mobile 合弁」の主張は誤認のため `.opinions/JapanFG/mizuho-fg.md` に隔離**し、本文は確認済の PayPay 証券出資（みずほ証券 24.8%）・サイバーエージェント等業務提携に訂正。ChatGPT 全社員導入（メガバンク初）は公開報道で確認・訂正済（旧 "メガバンク初級" 誤記）。
+> confidence: **extracted**（v1.3 公式 Group Companies / Financial Information で 2026-07-29 校核）。2025-03 期決算（純利益 8854 億・総資産 283.3 兆）と主要株主比率は同時点の確報値で、FY2025（2026-03 期）は公表済みだが本稿の財務比較表には未取込。Greenhill 買収金額（770 億円 / 5.5 億ドル）と楽天証券資本提携額（約 800 億円）は当時の為替・取引構造で変動あり。**「PayPay 銀行への出資」「CA Mobile 合弁」の主張は誤認のため `.opinions/JapanFG/mizuho-fg.md` に隔離**し、本文は確認済の PayPay 証券出資（みずほ証券 24.8%）・サイバーエージェント等業務提携に訂正。ChatGPT 全社員導入（メガバンク初）は公開報道で確認・訂正済（旧 "メガバンク初級" 誤記）。

@@ -1,11 +1,11 @@
 ---
 source: trust-banks/smbc-trust-bank
-source_hash: 31d56da60b09f5ad
+source_hash: 03e95f233f1b88e7
 lang: en
 status: machine
 fidelity: ok
 title: "SMBC Trust Bank (SMBC信託銀行)"
-translated_at: 2026-06-15T04:09:41.202Z
+translated_at: 2026-07-28T23:40:44.200Z
 ---
 
 # SMBC Trust Bank (SMBC信託銀行)
@@ -18,7 +18,7 @@ This entry sits under [[trust-banks/INDEX|trust-banks INDEX]] (its domain route)
 
 SMBC信託銀行 (SMBC Trust Bank Ltd.) is a 100% subsidiary of [[megabanks/sumitomo-mitsui-banking-corp|三井住友銀行]] and the trust-bank operating company of [[megabanks/smfg|SMBC / SMFG グループ]]. It is a trust-coterminous financial institution that holds, **in addition to a bank license under the Banking Act, the concurrent operation of trust business under the Concurrent Operation Act**, and, centered on the PRESTIA brand, handles foreign-currency, high-net-worth, and cross-border personal finance together with trust and real-estate functions. The key point is that it is a separate group and separate legal entity from the similarly-named [[trust-banks/smtb|三井住友信託銀行 (SMTB)]].
 
-## 1. License / group boundary
+## 1. License / group boundary ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; SMBC信託銀行「会社概要」: https://www.smbctb.co.jp/aboutus/information/]
 
 | Item | Notes |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: manufacturer-finance/komatsu-captive-finance
-source_hash: 0f446cbbf8bd5770
+source_hash: 8fd1a6e86e8fc3e4
 lang: en
 status: machine
 fidelity: ok
 title: "Komatsu Captive Finance (コマツ顧客金融 / Komatsu Financial)"
-translated_at: 2026-06-19T06:09:18.030Z
+translated_at: 2026-07-29T00:28:44.536Z
 ---
 
 # Komatsu Captive Finance (コマツ顧客金融 / Komatsu Financial)
@@ -16,7 +16,7 @@ This entry sits under [[manufacturer-finance/INDEX|manufacturing index]] as the 
 
 ## TL;DR
 
-Komatsu (Komatsu Ltd., TSE PRIME 6301) is a global major in construction and mining machinery, the global No.2 after Caterpillar. Its captive finance centers on **B2B equipment finance (vendor / captive finance)** built around **Komatsu Financial L.P. in the Americas**, **Komatsu Finance in Europe (own captive in Germany, France, and Italy; alliances in other regions)**, and **domestic and regional sales finance**. From a manufacturing perspective, the axes to read are **(1) what it means for Komatsu Ltd (6301) to hold a "retail finance" business outside the parent's main segment / in a consolidated subsidiary, (2) the point that, unlike auto captives, the customers are corporates (construction / mining operators), making it B2B vendor finance, (3) the residual-value risk of leases and the accounting distinction between true-lease / finance-lease, and (4) the point that the captive handles wholesale (floorplan) credit for distributor inventory (connecting to [[manufacturer-finance/floorplan-finance-mechanism|floorplan mechanism]])**. It forms a top tier of construction-equipment captives alongside Caterpillar Financial and Volvo Financial Services.
+Komatsu (Komatsu Ltd., TSE PRIME 6301) is a construction- and mining-machinery manufacturer that positions retail finance as an important means of product sales. Through **Komatsu Financial L.P.** in the Americas and others, it provides purchase finance and leases for new and used machines and for parts / services. From a manufacturing perspective, the axes to read are **(1) the significance of connecting construction-machinery sales with finance, (2) B2B vendor finance whose customers are mainly corporates, (3) residual-value and credit risk, and (4) the region-by-region use of own finance vs alliance finance**.
 
 ## 1. Company structure and manufacturing perspective
 
@@ -29,6 +29,8 @@ Komatsu (Komatsu Ltd., TSE PRIME 6301) is a global major in construction and min
 | Customers | Mainly corporates (construction / mining / forestry operators) + distributors |
 | Main products | retail installment, leases (full-service / operating), parts & service finance, wholesale (floorplan) |
 | Disclosure | Disclosed as a "retail finance" business in Komatsu Ltd's securities report and integrated report |
+
+Sources: ^[Komatsu「Financing」: https://www.komatsu.com/en-us/services-and-support/financing; Komatsu Europe「Komatsu Finance」: https://www.komatsu.eu/en/komatsu-finance; Komatsu Report「CFO message」: https://www.komatsu.jp/en/ir/library/annual/cfomessage.]
 
 ### Group structure from a manufacturing perspective
 
@@ -47,7 +49,7 @@ Komatsu Ltd. (Komatsu Ltd. 6301, manufacturing parent)
 
 - retail finance is consolidated and disclosed as Komatsu Ltd's **"retail finance (sales finance)" business**. It is structured to separately manage financial assets / receivables, distinguished from the core construction-machinery sales (industrial).
 - In leases / installments, Komatsu's parent body **records "machinery sales,"** while the residual-value risk of the machinery and customer credit risk are concentrated on the captive's (Komatsu Financial, etc.) balance sheet. It is the same type of **vertical integration of "selling the product" and "lending / leasing the consideration"** as auto captives, but differs in that the customer is a **corporate (B2B)**. For the general mechanism, see [[manufacturer-finance/vendor-finance-mechanism|captive / vendor finance mechanism]].
-- The captive also extends credit to distributors' (sales agencies') **inventory (floorplan / wholesale)**, supporting everything from upstream distribution inventory to downstream customer credit. Komatsu Financial L.P. provides wholesale / retail / operating leases to its 30+ contracted distributors and their customers. For details see [[manufacturer-finance/floorplan-finance-mechanism|floorplan / wholesale finance mechanism]].
+- Depending on the region, distributor-facing credit is also combined, connecting upstream distribution inventory with downstream customer finance. The scope and terms of each product must be checked against the current disclosures of the regional entities and dealers. For details see [[manufacturer-finance/floorplan-finance-mechanism|floorplan / wholesale finance mechanism]].
 
 ## 2. Product / business lines × significance from a manufacturing perspective
 
@@ -55,10 +57,12 @@ Komatsu Ltd. (Komatsu Ltd. 6301, manufacturing parent)
 |---|---|---|
 | New-vehicle / new-machine retail installment | Installment for new construction machinery (flexibility of term and payment design) | Maintaining the machinery sales channel, stimulating demand |
 | Used-machine finance | Installment for used / certified-used machines (zero-down / payment-deferral programs, etc.) | Activating the used market, controlling the replacement cycle |
-| full-service / operating lease | Residual-value-set leases (choice of return / purchase / extension at maturity) | Concentrating residual-value risk, off-balancing, usage-based provision |
+| full-service / operating lease | Residual-value-set leases (choice of return / purchase / extension at maturity) | Residual-value risk management, usage-based provision. Lessee accounting depends on the applicable standard |
 | parts & service finance | Finance for parts / maintenance / repair (linked to genuine parts) | Aftermarket revenue, long-term customer relationships |
 | Distributor inventory finance (wholesale / floorplan) | Captive extends credit to agency inventory | Distribution-inventory support, leveling of production / shipment |
 | Multi-brand support | Komatsu-affiliated brands (e.g., road machinery, crushers, etc.) are also offered finance via distributors | Finance follows the expansion of product lines |
+
+Sources: ^[Komatsu「Financing」: https://www.komatsu.com/en-us/services-and-support/financing; Komatsu Europe「Komatsu Finance」: https://www.komatsu.eu/en/komatsu-finance.]
 
 ### Connection with equipment lease ABS
 
@@ -69,14 +73,14 @@ Construction-machinery lease / installment receivables can be the target of equi
 | Indicator | Content | Source |
 |---|---|---|
 | Parent company | Komatsu Ltd. (TSE PRIME 6301) | Komatsu IR |
-| Industry position | Global construction-machinery No.2 (after Caterpillar) | Industry reports |
 | Americas captive | Komatsu Financial L.P. | Komatsu Financial official |
 | Europe captive | Komatsu Finance (own in Germany / France / Italy; alliances elsewhere) | Komatsu Europe official |
-| Distributors | 30+ contracted distributors + wholesale / retail / lease to their customers | Komatsu Financial official |
-| Main competitor captives | Caterpillar Financial, Volvo Financial Services | Industry reports |
 | Disclosure category | Consolidated and disclosed as Komatsu Ltd's "retail finance" business | EDINET / Komatsu IR |
+| Company policy | Positions retail finance as an important means of selling construction and mining machinery | Komatsu Report |
+| Management target | retail finance net D/E ratio revised to 6x or below | Komatsu Report |
+| Average finance term | About 4 years | Komatsu Report |
 
-> Specific asset balances, receivables, and operating profit of the retail finance business are disclosed in Komatsu Ltd's "retail finance" segment / integrated report. This entry centers its description on the company structure, captive design, and B2B vendor-finance mechanism, with a policy of referring to primary sources for the highly variable financial figures (prioritizing mechanism knowledge over fragile financial figures).
+Sources: ^[Komatsu Report「CFO message」: https://www.komatsu.jp/en/ir/library/annual/cfomessage; Komatsu「Financing」: https://www.komatsu.com/en-us/services-and-support/financing; Komatsu Europe「Komatsu Finance」: https://www.komatsu.eu/en/komatsu-finance.]
 
 ## 4. Strategy (Residual Value + B2B + Lifecycle)
 
@@ -109,9 +113,10 @@ Construction-machinery lease / installment receivables can be the target of equi
 - Komatsu "Financing" (Komatsu Financial L.P.'s retail / lease / parts finance): https://www.komatsu.com/en-us/services-and-support/financing
 - Komatsu Europe "Komatsu Finance" (own captive in Germany / France / Italy; alliances in other regions): https://www.komatsu.eu/en/komatsu-finance
 - Komatsu Ltd "Investor Relations": https://www.komatsu.jp/en/ir
+- Komatsu Report "CFO message": https://www.komatsu.jp/en/ir/library/annual/cfomessage
 - EDINET (securities report — retail finance business disclosure): https://disclosure2.edinet-fsa.go.jp/
 
 ---
 
 > [!info] Verification status
-> confidence: **likely**. Composed of public information from Komatsu / Komatsu Europe / Komatsu IR. That Komatsu Financial L.P. in the Americas provides new-vehicle / used-machine retail, full-service lease, parts & service finance, and wholesale to 30+ distributors; that it holds its own captive in Germany / France / Italy in Europe with alliances elsewhere; that Komatsu Ltd consolidates and discloses a "retail finance" business; and that Caterpillar Financial / Volvo Financial Services are main competitors — are confirmed in public materials. Because the financial figures of the retail finance business are highly variable, they are referred to primary sources, and the text centers on the B2B captive structure, residual value, and floorplan.
+> confidence: **likely**. As of 2026-07-29, re-verified the Komatsu / Komatsu Europe product pages and the Komatsu Report's retail finance policy. Removed unsubstantiated rankings and contracted-dealer counts, limiting the entry to current official disclosures.

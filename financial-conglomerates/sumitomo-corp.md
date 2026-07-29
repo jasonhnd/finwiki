@@ -10,15 +10,19 @@ aliases:
   - "sumitomo"
 domain: financial-conglomerates
 created: 2026-05-24
-last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-20
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, sogo-shosha, parent-company, sumitomo-group, steel, transport, retail, infrastructure, media, conglomerate]
 status: active
 sources:
   - "住友商事 (8053) 公式 IR — https://www.sumitomocorp.com/ja/jp/ir"
   - "住友商事 統合報告書 — https://www.sumitomocorp.com/ja/jp/ir/library/integrated"
+  - "住友商事 2025年度有価証券報告書 — https://www.sumitomocorp.com/-/media/Files/hq/ir/report/yuho/2025/202603yuho.pdf?sc_lang=ja"
+  - "住友商事フィナンシャルマネジメント 会社情報 — https://ssfm.co.jp/company/"
+  - "SMFL 会社概要 — https://www.smfl.co.jp/saiyo/careers/about-us/"
+  - "住友三井オートサービス 2026年3月期有価証券報告書 — https://www.smauto.co.jp/pdf/company/business-info/finance/report/SecuritiesReport46-2025040120260331_v1.pdf"
   - "EDINET 有価証券報告書 — https://disclosure.edinet-fsa.go.jp/ (検索: 住友商事)"
   - "JPX 銘柄情報 8053 — https://www2.jpx.co.jp/"
 ---
@@ -26,7 +30,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] as a **sōgō shōsha parent holding-company**. Read it against [[financial-conglomerates/mitsubishi-corp|三菱商事]] (旧 財閥商社の両雄) and [[financial-conglomerates/mitsui-co|三井物産]] (財閥商社の三巨頭) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see [[trading-company-finance/sumitomo-corp-financial-management|住友商事フィナンシャルマネジメント]] (内向け CMS) and especially **[[leasing-firms/smfl|SMFL (三井住友ファイナンス&リース)]]** (住友商事 50% + [[megabanks/smfg|SMFG]] 50%、3 大リースの一角) and **[[leasing-firms/sumitomo-mitsui-auto-service|住友三井オートサービス]]** (オートリース国内首位級)。System frame: [[finance/INDEX|finance index]] と [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
+This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] as a **sōgō shōsha parent holding-company**. Read it against [[financial-conglomerates/mitsubishi-corp|三菱商事]] and [[financial-conglomerates/mitsui-co|三井物産]] for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see [[trading-company-finance/sumitomo-corp-financial-management|住友商事フィナンシャルマネジメント]] (100%子会社の財務・経理専門会社)、**[[leasing-firms/smfl|SMFL (三井住友ファイナンス&リース)]]** (住友商事 50% + [[megabanks/smfg|SMFG]] 50%) and **[[leasing-firms/sumitomo-mitsui-auto-service|住友三井オートサービス]]** (住友商事 40.4%)。System frame: [[finance/INDEX|finance index]] と [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
 
 ## 1. 会社概要
 
@@ -45,9 +49,9 @@ This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates IN
 
 ```
 住友商事 (8053, 東証 PRIME)
-  ├── [[trading-company-finance/sumitomo-corp-financial-management|住友商事フィナンシャルマネジメント]] (100%) — 内向け CMS / グループファイナンス
-  ├── [[leasing-firms/smfl|SMFL]] (50%, 残り 50% [[megabanks/smfg|SMFG]])                              — 外向け総合リース、3 大リースの一角
-  ├── [[leasing-firms/sumitomo-mitsui-auto-service|住友三井オートサービス]] (一部持分)                — オートリース国内首位級
+  ├── [[trading-company-finance/sumitomo-corp-financial-management|住友商事フィナンシャルマネジメント]] (100%) — 財務・経理専門会社
+  ├── [[leasing-firms/smfl|SMFL]] (50%, 残り 50% [[megabanks/smfg|SMFG]])                              — 外向け総合リース
+  ├── [[leasing-firms/sumitomo-mitsui-auto-service|住友三井オートサービス]] (40.4%)                    — 自動車リース
   ├── J:COM (Jupiter Telecom、KDDI 50/50 JV)                                                    — ケーブル TV / メディア
   └── SCSK (約 50% 級, 連結子会社)                                                              — IT サービス国内大手、東証 PRIME 9719
 ```
@@ -80,13 +84,15 @@ This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates IN
 
 | Finance subsidiary / 関連 | Wiki anchor | 持分 | 機能 |
 |---|---|---|---|
-| 住友商事フィナンシャルマネジメント | [[trading-company-finance/sumitomo-corp-financial-management]] | 100% | 内向け CMS / グループファイナンス / 一括ファクタリング |
-| **SMFL (三井住友ファイナンス&リース)** | **[[leasing-firms/smfl]]** | **50% (残り 50% [[megabanks/smfg|SMFG]])** | **3 大リースの一角、SMFL Mirai Partners、SMFL レンタル 等含む** |
-| **住友三井オートサービス** | **[[leasing-firms/sumitomo-mitsui-auto-service]]** | **一部持分 (住友商事 + [[financial-conglomerates/mitsui-co|三井物産]] + [[megabanks/smfg|SMFG]] 系)** | **オートリース国内首位級** |
+| 住友商事フィナンシャルマネジメント | [[trading-company-finance/sumitomo-corp-financial-management]] | 100% | 住友商事グループの財務・経理専門会社 |
+| **SMFL (三井住友ファイナンス&リース)** | **[[leasing-firms/smfl]]** | **50% (残り 50% [[megabanks/smfg|SMFG]])** | **総合リース・金融サービス** |
+| **住友三井オートサービス** | **[[leasing-firms/sumitomo-mitsui-auto-service]]** | **40.4%** | **自動車・車両のリース等。残る主要株主はSMFL 33.4%、SMFG 26.2%** |
+
+Sources: ^[住友商事フィナンシャルマネジメント「会社情報」（住友商事100%子会社）: https://ssfm.co.jp/company/; SMFL「会社概要」（住友商事50%、SMFG50%）: https://www.smfl.co.jp/saiyo/careers/about-us/; 住友三井オートサービス「2026年3月期有価証券報告書」（2026-03-31現在）: https://www.smauto.co.jp/pdf/company/business-info/finance/report/SecuritiesReport46-2025040120260331_v1.pdf.]
 
 加えて、**住友グループの financial-services エコシステム**:
 
-「**SMFL = 住友商事の外向けリース・asset finance 腕** (SMFG と 50/50 JV)」「**住友三井オートサービス = オートリース** (3 社共同)」「住友商事フィナンシャルマネジメント = 内向け CMS」の三層構造。これは [[financial-conglomerates/mitsubishi-corp|三菱商事]] (HCキャピタル 持分法 + MCFS) や [[financial-conglomerates/mitsui-co|三井物産]] (JA三井リース + MBFS) と比較して、**メガバンク (SMFG) との 50/50 JV** という共同支配体制が住友商事の特徴。
+「**SMFL = SMFGとの50/50総合リースJV**」「**住友三井オートサービス = 住友商事40.4%の自動車リース会社**」「住友商事フィナンシャルマネジメント = 100%子会社の財務・経理専門会社」の三層構造。住友三井オートサービスの現株主に三井物産は含まれない。
 
 ### 5 大商社内の identity
 
@@ -128,10 +134,14 @@ This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates IN
 
 - 住友商事 (8053) 公式 IR — https://www.sumitomocorp.com/ja/jp/ir
 - 住友商事 統合報告書 — https://www.sumitomocorp.com/ja/jp/ir/library/integrated
+- 住友商事 2025年度有価証券報告書 — https://www.sumitomocorp.com/-/media/Files/hq/ir/report/yuho/2025/202603yuho.pdf?sc_lang=ja
+- 住友商事フィナンシャルマネジメント 会社情報 — https://ssfm.co.jp/company/
+- SMFL 会社概要 — https://www.smfl.co.jp/saiyo/careers/about-us/
+- 住友三井オートサービス 2026年3月期有価証券報告書 — https://www.smauto.co.jp/pdf/company/business-info/finance/report/SecuritiesReport46-2025040120260331_v1.pdf
 - EDINET 有価証券報告書 — https://disclosure.edinet-fsa.go.jp/ (検索: 住友商事 / 8053)
 - JPX 銘柄情報 8053 — https://www2.jpx.co.jp/
 
 ---
 
 > [!info] 検証状況
-> confidence: **likely**。住友商事は public-surface で十分カバー。SMFL 50/50 持分、住友三井オートサービス持分、J:COM / SCSK 連結状況は最新 有価証券報告書 / 統合報告書 で都度更新。マダガスカル ニッケル (Ambatovy) 等の資源案件の最新評価も継続確認。
+> confidence: **likely**。住友商事FM 100%、SMFL 50%、住友三井オートサービス 40.4%（SMFL 33.4%、SMFG 26.2%）は、2026-07-29 時点の公式開示で再確認した。

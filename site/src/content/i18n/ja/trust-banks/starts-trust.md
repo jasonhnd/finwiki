@@ -1,12 +1,12 @@
 ---
 source: trust-banks/starts-trust
-source_hash: dc6d6781c5ef55e7
+source_hash: 83a5d21a52513dc4
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "スターツ信託"
-translated_at: 2026-06-26T08:32:30.864Z
+translated_at: 2026-07-28T23:40:04.615Z
 ---
 
 # スターツ信託
@@ -21,7 +21,7 @@ translated_at: 2026-06-26T08:32:30.864Z
 
 このページが重要なのは、スターツ信託が単なる登録一覧上の一行ではないためである。土地信託、不動産管理信託、地域の信託代理店提携を分析するための FinWiki 上の主要ルートである。
 
-## 法人境界
+## 法人境界 ^[金融庁の現行免許とスターツ公式リリース: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://www.starts.co.jp/news/press/2015/1142/; https://www.starts.co.jp/news/press/2024/6317/]
 
 | 項目 | 読み方 |
 |---|---|

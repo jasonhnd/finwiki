@@ -1,11 +1,11 @@
 ---
 source: trust-banks/sbi-shinsei-trust-bank
-source_hash: 9629d32ea59df5ee
+source_hash: 6f61fa3fcb83f32a
 lang: en
 status: machine
 fidelity: ok
 title: "SBI Shinsei Trust Bank"
-translated_at: 2026-06-01T00:41:50.457Z
+translated_at: 2026-07-28T23:40:44.183Z
 ---
 # SBI Shinsei Trust Bank
 
@@ -21,7 +21,7 @@ SBI Shinsei Trust Bank is the trust-bank arm inside the SBI Shinsei / SBI Holdin
 
 The page matters because the entity is no longer only a quiet group trust subsidiary. Public releases and the company site connect it to real-estate trust, receivables securitization, security-token structures, and regulated digital-finance initiatives. That puts it between classic trust-bank functions and the [[fintech/jp-stablecoin-progmat|stablecoin / tokenized-money]] research surface.
 
-## Entity Boundary
+## Entity Boundary ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; SBI新生信託銀行「会社概要」: https://www.shinseitrust.com/corporate/about.html]
 
 | Item | Reading |
 |---|---|

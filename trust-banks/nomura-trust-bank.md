@@ -3,17 +3,18 @@ title: "野村信託銀行 (Nomura Trust Bank)"
 aliases: ["Nomura Trust Bank", "野村信託銀行", "野村信託銀行株式会社", "The Nomura Trust and Banking"]
 domain: trust-banks
 created: 2026-05-20
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-20
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, bank, trust-bank, securities-group, operating-company, nomura-group]
 status: active
 sources:
-  - "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
+  - "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf"
   - "https://www.nomura-trust.co.jp/company/corp.html"
   - "https://www.nomura-trust.co.jp/company/business.html"
   - "https://www.nomura-trust.co.jp/ir/pdf/2503.pdf"
+  - "https://www.nomura-trust.co.jp/ir/pdf/2603.pdf"
   - "Nomura Holdings 有価証券報告書 / Form 20-F"
   - "Wikipedia: 野村信託銀行 (公開情報)"
 ---
@@ -23,7 +24,7 @@ sources:
 
 This entry sits under [[trust-banks/INDEX|trust-banks INDEX]]. Read it with [[banking/INDEX|banking index]] for adjacent context, [[securities-firms/nomura-hd|野村 HD]] for parent group context, [[trust-banks/sumitomo-mitsui-trust|SMTB]] / [[trust-banks/mitsubishi-ufj-trust-bank|MUTB]] for peer trust-bank comparison, and [[financial-licenses/INDEX|金融ライセンス INDEX]] for the broader regulatory boundary.
 
-## 1. 法人・ライセンス境界
+## 1. 法人・ライセンス境界 ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; 野村信託銀行「会社概要」（2026-05-13 時点）: https://www.nomura-trust.co.jp/company/corp.html]
 
 | Item | Reading |
 |---|---|
@@ -61,22 +62,23 @@ This entry sits under [[trust-banks/INDEX|trust-banks INDEX]]. Read it with [[ba
 - **資産流動化信託** — 不動産・金銭債権の信託受託 ^[extracted]
 - **銀行代理店モデル** — 野村證券を銀行代理店・信託契約代理店として活用し、証券チャネルから銀行・信託商品を販売 ^[extracted]
 
-## 5. 重要年表
+## 5. 重要年表 ^[野村信託銀行「会社概要」「仕事を知る」: https://www.nomura-trust.co.jp/company/corp.html; https://www.nomura-trust.co.jp/recruit/graduate/business/]
 
 | 年月 | 事象 |
 |---|---|
-| 2008-09 | リーマン破綻 + 野村証券による Lehman アジア部門買収、グループ拡大期 |
+| 1993-08-24 | 野村グループの顧客へ銀行・信託機能を提供する目的で設立 |
+| 2026-05-13 | 2026 年 3 月期決算概況と同日基準の会社概要を公表 |
 
-## 6. ピア比較 — 信託銀行マーケット
+## 6. ピア比較 — 法人境界と主力機能 ^[各社公式会社情報: https://www.smtb.jp/corporate/summary/; https://www.tr.mufg.jp/ippan/about/index.html; https://www.mizuho-tb.co.jp/company/about/info.html; https://www.nomura-trust.co.jp/company/business.html; https://www.bank-daiwa.co.jp/about/outline/; https://www.shinseitrust.com/corporate/about.html]
 
-| 信託銀行 | 親 FG | 預金規模 | 強み軸 |
+| 金融機関 | 親グループ | 公開情報で確認できる主力機能 |
 |---|---|---|---|
-| [[trust-banks/sumitomo-mitsui-trust|三井住友信託 (SMTB)]] | SuMi TRUST HD | ¥数十兆円 | 国内最大独立系信託、年金 / 不動産 / カストディ |
-| [[trust-banks/mitsubishi-ufj-trust-bank|三菱 UFJ 信託 (MUTB)]] | [[megabanks/mufg|MUFG]] | ¥数十兆円 | メガ系、年金 / カストディ / 法人 |
-| [[trust-banks/mizuho-trust-banking|みずほ信託 (MTBJ)]] | [[megabanks/mizuho-fg|みずほ FG]] | ¥数十兆円 | メガ系、不動産信託 / 年金 |
-| **野村信託銀行** | **[[securities-firms/nomura-hd|野村 HD]]** | **預金 1兆3,573億円 / 総資産 2兆754億円 (FY2025.3 単体)** | **証券グループ付随、Wealth Mgmt 補完** |
-| [[regional-banks/daiwa-next-bank|大和ネクスト銀行]]（大和証券系）| [[securities-firms/daiwa-securities-group|大和証券 G]] | ¥数千億円 | ネット銀行型、証券グループ |
-| [[trust-banks/sbi-shinsei-trust-bank|SBI 新生信託]] | [[regional-banks/sbi-shinsei-bank|SBI 新生]] | 小規模 | スタートアップ / 暗号資産信託対応 |
+| [[trust-banks/sumitomo-mitsui-trust|三井住友信託 (SMTB)]] | 三井住友トラストグループ | 個人、法人、投資家、不動産、マーケット各事業 |
+| [[trust-banks/mitsubishi-ufj-trust-bank|三菱 UFJ 信託 (MUTB)]] | [[megabanks/mufg|MUFG]] | 受託財産、年金、不動産、証券代行 |
+| [[trust-banks/mizuho-trust-bank|みずほ信託]] | [[megabanks/mizuho-fg|みずほ FG]] | 信託、年金、不動産、証券代行、受託財産 |
+| **野村信託銀行** | **[[securities-firms/nomura-hd|野村 HD]]** | **リテール、バンキング、財産管理、証券・運用** |
+| [[regional-banks/daiwa-next-bank|大和ネクスト銀行]] | 大和証券グループ | 証券口座と連携する銀行サービス |
+| [[trust-banks/sbi-shinsei-trust-bank|SBI 新生信託銀行]] | SBI グループ | 不動産、金銭債権流動化、デジタル関連の信託 |
 
 野村信託は規模で 3 大信託に劣るが、**証券グループ系信託**として大和ネクスト銀行と並ぶ独自カテゴリ。SMTB / MUTB / MTBJ は法人カストディ / 年金で機関投資家向けが厚いのに対し、野村信託は **個人富裕層と野村證券顧客向けの付随業務**で住み分け。
 
@@ -116,10 +118,11 @@ This entry sits under [[trust-banks/INDEX|trust-banks INDEX]]. Read it with [[ba
 
 ## Sources
 
-- FSA, "銀行免許一覧", `ginkou.xlsx`.
+- FSA, "信託兼営金融機関認可一覧", `kenei.pdf`, as of 2026-06-17.
 - Nomura Trust Bank, "会社概要", https://www.nomura-trust.co.jp/company/corp.html （本店 東京都千代田区大手町二丁目2番2号 アーバンネット大手町ビル19F・設立 1993-08-24・資本金 575 億円）
 - Nomura Trust Bank, "事業内容", https://www.nomura-trust.co.jp/company/business.html
 - **野村信託銀行 2025年3月期 決算概況** (2025-05-13、預金 1兆3,573億円 / 総資産 2兆754億円 / 当期純利益 60億円・単体: https://www.nomura-trust.co.jp/ir/pdf/2503.pdf)
+- **野村信託銀行 2026年3月期 決算概況** (2026-05-13、経常収益 503 億円 / 経常利益 74 億円 / 当期純利益 48 億円・単体): https://www.nomura-trust.co.jp/ir/pdf/2603.pdf
 - Nomura Holdings 有価証券報告書 / Form 20-F（年次連結開示）
 - Wikipedia: 野村信託銀行（公開情報）
 

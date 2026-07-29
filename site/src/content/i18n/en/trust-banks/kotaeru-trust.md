@@ -1,11 +1,11 @@
 ---
 source: trust-banks/kotaeru-trust
-source_hash: 45cb0010fcdba3be
+source_hash: 9892e8c9b81dc3ba
 lang: en
 status: machine
 fidelity: ok
 title: "Kotaeru Trust"
-translated_at: 2026-05-31T23:59:49.364Z
+translated_at: 2026-07-28T23:40:44.064Z
 ---
 # Kotaeru Trust
 
@@ -19,7 +19,7 @@ Kotaeru Trust is a management-type trust company whose public materials emphasiz
 
 This page covers Kotaeru Trust Co., Ltd. as a trust-company operator. It should not be used as a generic tax opinion page on stock options; legal and tax claims need public primary-source support.
 
-## Business Role Map
+## Business Role Map ^[コタエル信託「ストックオプション信託」: https://trust.kotaeru.co.jp/service/stockoption/; 金融庁の現行登録: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf]
 
 | Route | Reading |
 |---|---|

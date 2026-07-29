@@ -26,9 +26,9 @@
     "domain": "manufacturer-finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "manufacturing",
@@ -44,23 +44,25 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://holdings.panasonic/global/corporate/about/ir/",
-      "https://holdings.panasonic/global/corporate/about/profile.html",
-      "https://news.panasonic.com/global/",
-      "https://disclosure2.edinet-fsa.go.jp/",
-      "https://www.smfl.co.jp/"
+      "https://holdings.panasonic/global/corporate/phd/group-companies.html",
+      "https://news.panasonic.com/global/stories/18722",
+      "https://news.panasonic.com/global/press/en241202-6",
+      "https://news.panasonic.com/global/press/en240906-6",
+      "https://news.panasonic.com/uploads/tmg_block_page_image/file/26478/en240906-4-1.pdf",
+      "https://news.panasonic.com/global/stories/18073",
+      "https://disclosure2.edinet-fsa.go.jp/"
     ]
   },
-  "summary": "This entry sits under manufacturing index. Read it against Hitachi 産業金融, Sony FG, MHI 輸出金融, and Toyota Financial Services for peer industrial-conglomerate finance arms. Pair with SMFL (三井住友ファイナンス&リース) and MUFG for the bank-side counterpart of Panasonic's B2B vendor-finance flows, manufacturer-financ",
+  "summary": "This entry sits under manufacturing index. Read it against Hitachi 産業金融, Sony FG, MHI 輸出金融, and Toyota Financial Services for peer industrial-conglomerate finance boundaries. Pair with vendor-finance mechanism for accounting mechanics and leasing-firms INDEX for separately evidenced financing provid",
   "headings": [
     "Panasonic Captive Finance (パナソニック顧客金融)",
     "Wiki route",
     "TL;DR",
-    "1. 会社構造と金融部門の位置",
-    "金融部門の位置 (2022 持株会社制移行後)",
-    "2. 製品 / 事業ライン × 金融組成パターン",
-    "3. KPI (FY2024 連結)",
-    "4. 戦略 (Operational Excellence + Energy)",
+    "1. 会社・分析境界",
+    "現行 Operating Company System",
+    "2. 事業ラインと金融記述の境界",
+    "3. FY2026 開示スケール",
+    "4. 戦略と検証原則",
     "5. 規制・政策",
     "Related"
   ],
@@ -69,6 +71,7 @@
     "wikilinks": [
       "INDEX",
       "financial-regulators/jbic",
+      "leasing-firms/INDEX",
       "leasing-firms/mitsubishi-hc-capital",
       "leasing-firms/orix-corp",
       "leasing-firms/smfl",
@@ -79,13 +82,13 @@
       "manufacturer-finance/sony-group-finance-arm",
       "manufacturer-finance/toyota-financial-services",
       "manufacturer-finance/toyota-motor",
-      "megabanks/mufg",
-      "megabanks/smfg",
+      "manufacturer-finance/vendor-finance-mechanism",
       "policy-finance/nexi"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX.md",
       "https://finwiki.zksc.io/ja/financial-regulators/jbic/",
+      "https://finwiki.zksc.io/ja/domains/leasing-firms/",
       "https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/",
       "https://finwiki.zksc.io/ja/leasing-firms/orix-corp/",
       "https://finwiki.zksc.io/ja/leasing-firms/smfl/",
@@ -96,17 +99,16 @@
       "https://finwiki.zksc.io/ja/manufacturer-finance/sony-group-finance-arm/",
       "https://finwiki.zksc.io/ja/manufacturer-finance/toyota-financial-services/",
       "https://finwiki.zksc.io/ja/manufacturer-finance/toyota-motor/",
-      "https://finwiki.zksc.io/ja/megabanks/mufg/",
-      "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/manufacturer-finance/vendor-finance-mechanism/",
       "https://finwiki.zksc.io/ja/policy-finance/nexi/"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5930,
-    "word_like_tokens": 921,
+    "nonspace_chars": 5935,
+    "word_like_tokens": 840,
     "inbound_wikilinks_count": 11,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-07-29"
   }
 }

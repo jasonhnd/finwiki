@@ -10,15 +10,17 @@ aliases:
   - "marubeni"
 domain: financial-conglomerates
 created: 2026-05-24
-last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-20
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, sogo-shosha, parent-company, power, ipp, grain, food, infrastructure, agribusiness, mizuho-group]
 status: active
 sources:
   - "丸紅 (8002) 公式 IR — https://www.marubeni.com/jp/ir/"
   - "丸紅 統合報告書 — https://www.marubeni.com/jp/ir/library/annual_report/"
+  - "丸紅 2025年度決算 IR資料 — https://www.marubeni.com/jp/news/2026/release/data/202605012-2J.pdf"
+  - "丸紅 第102回定時株主総会 電子提供措置事項 — https://www.marubeni.com/jp/ir/stock/meeting/pdf/fye2603_102nd_id_jp.pdf"
   - "EDINET 有価証券報告書 — https://disclosure.edinet-fsa.go.jp/ (検索: 丸紅)"
   - "JPX 銘柄情報 8002 — https://www2.jpx.co.jp/"
 ---
@@ -26,7 +28,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] as a **sōgō shōsha parent holding-company**. Read it against [[financial-conglomerates/itochu-corp|伊藤忠商事]] (戦前の同根 = 旧 丸紅伊藤忠商事、戦後 1949 分割) and [[financial-conglomerates/sumitomo-corp|住友商事]] (5 大商社中堅同士) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]] (内向け CMS) and **[[leasing-firms/mizuho-lease|みずほリース]]** (旧 興銀リース、2024 年に丸紅が戦略的株主入り)。System frame: [[finance/INDEX|finance index]] と [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
+This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] as a **sōgō shōsha parent holding-company**. Read it against [[financial-conglomerates/itochu-corp|伊藤忠商事]] (戦前の同根 = 旧 丸紅伊藤忠商事、戦後 1949 分割) and [[financial-conglomerates/sumitomo-corp|住友商事]] (5 大商社中堅同士) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see [[trading-company-finance/marubeni-financial-services|丸紅フィナンシャルサービス]] (内向け group treasury) and **[[leasing-firms/mizuho-lease|みずほリース]]** (2026-03-31 時点の持分率 20.2%)。System frame: [[finance/INDEX|finance index]] と [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]。
 
 ## 1. 会社概要
 
@@ -40,14 +42,14 @@ This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates IN
 | 創業 | 1858 年 (近江商人 伊藤忠兵衛 創業、丸紅と伊藤忠の同根を共有) ^[extracted] |
 | 本社 | 東京都千代田区大手町 (旧 大阪本社あり) ^[extracted] |
 | 会計基準 | IFRS ^[extracted] |
-| 主要セグメント | ライフスタイル、情報・物流、食料、農業、化学品、エネルギー、金属、電力、インフラプロジェクト、航空・船舶、金融・リース・不動産、建機・自動車・産機、次世代事業開発本部 ^[extracted] |
+| 主要セグメント | ライフスタイル、食料・アグリ、金属、エネルギー・化学品、電力・インフラサービス、金融・リース・不動産、エアロスペース・モビリティ、情報ソリューション、次世代事業開発、次世代コーポレートディベロップメント ^[extracted] |
 
 ### 主要子会社・関連会社 (JapanFG 文脈)
 
 ```
 丸紅 (8002, 東証 PRIME)
-  ├── [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]] (100%)            — 内向け CMS / グループファイナンス
-  ├── [[leasing-firms/mizuho-lease|みずほリース]] (約 20% 級, 2024 戦略的持分入り)   — 外向けリース、東証 PRIME 8425、旧 興銀リース
+  ├── [[trading-company-finance/marubeni-financial-services|丸紅フィナンシャルサービス]] (100%) — グループ財務
+  ├── [[leasing-firms/mizuho-lease|みずほリース]] (20.2%, 持分法)                    — 外向け総合金融サービス、東証 PRIME 8425
   ├── Helena Agri-Enterprises (米国 農業流通最大手の一角)                       — 農業セグメント核 (旧 Gavilon の穀物部門は 2022 Viterra 売却)
   └── 多数の電力 IPP (Marubeni Power Retail、世界 IPP)                          — 電力事業セグメント核
 ```
@@ -62,36 +64,37 @@ This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates IN
 | 2000s〜 | 電力 IPP 海外展開強化、世界トップ級 IPP 商社に成長 |
 | 2013 | Gavilon Holdings (米国 穀物トレード大手) 買収 → 穀物商社世界 Top 5 入り |
 | 2022 | Gavilon の穀物トレード部門を Viterra (Glencore 系) に売却、Helena の農業流通事業を core 化 |
-| 2024 | **[[leasing-firms/mizuho-lease|みずほリース]] 戦略的株主入り (約 20% 級)** — リース・asset finance プラットフォーム強化 |
+| 2024 | **[[leasing-firms/mizuho-lease|みずほリース]] の持分を 4.4% から 20.0% に追加取得** — リース・asset finance 連携を強化 |
 
 ## 2. 事業セグメント・マップ
 
 | Segment | 主要事業 | 代表的子会社・関連 |
 |---|---|---|
-| ライフスタイル | 繊維 (アパレル素材・製品)、コンシューマー | — |
-| 情報・物流 | IT サービス、物流 | — |
-| 食料 | 食品メーカー、外食、コーヒー、コーヒー卸 | — |
-| 農業 | 米国 Helena Agri-Enterprises (農薬・肥料・種子流通最大手の一角) | Helena |
-| 化学品 | 石化、機能性化学品、肥料 | — |
-| エネルギー | 原油・LNG (上流持分は限定的、トレード中心) | — |
-| 金属 | 鉄鉱石・石炭・非鉄 (5 大の中では資源比率は中位) | — |
-| 電力 | 電力 IPP (世界トップ級)、再エネ、洋上風力 | 多数の IPP 子会社 |
-| インフラプロジェクト | プラント、上下水、交通インフラ | — |
-| 航空・船舶 | 商用機械、海運 | — |
-| 金融・リース・不動産 | グループ金融、リース、不動産 | [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]]、[[leasing-firms/mizuho-lease|みずほリース]] (持分法) |
-| 建機・自動車・産機 | 建設機械 (Komatsu 系)、自動車流通、産業機械 | — |
-| 次世代事業開発 | スタートアップ・新規事業 | — |
+| ライフスタイル | パルプ、タイヤ・自動車アフターマーケット、衣料・生活関連 | B-Quik、Santher 等 |
+| 食料・アグリ | 食品製造・流通、穀物、畜産、農業資材 | Helena、Creekstone 等 |
+| 金属 | 鉄鋼製品、鉄鉱石・銅等の金属資源 | — |
+| エネルギー・化学品 | エネルギートレード、石油・ガス、化学品、新エネルギー | — |
+| 電力・インフラサービス | 発電、電力卸売・小売、海外水・インフラ | 多数の IPP・インフラ事業 |
+| 金融・リース・不動産 | 販売金融、総合リース、PE、不動産、保険 | [[leasing-firms/mizuho-lease|みずほリース]]、みずほ丸紅リース等 |
+| エアロスペース・モビリティ | 航空機、船舶、建機、モビリティ | Aircastle 等 |
+| 情報ソリューション | ICT・デジタルソリューション | アルテリア・ネットワークス等 |
+| 次世代事業開発 | 医薬品販売、インダストリアルソリューション等 | — |
+| 次世代コーポレートディベロップメント | コンシューマー関連投資・M&A | — |
+
+Sources: ^[丸紅「2025年度決算 IR資料」（2026-05、2025年度組織ベース）: https://www.marubeni.com/jp/news/2026/release/data/202605012-2J.pdf.]
 
 ## 3. Financial-services adjacency
 
 | Finance subsidiary / 関連 | Wiki anchor | 持分 | 機能 |
 |---|---|---|---|
-| 丸紅フィナンス | [[trading-company-finance/marubeni-financial-services]] | 100% | 内向け CMS / グループファイナンス / 一括ファクタリング |
-| **みずほリース** | **[[leasing-firms/mizuho-lease]]** | **約 20% 級 (2024 戦略的持分入り)** | **総合リース、東証 PRIME 8425、旧 興銀リース、3 大リースに次ぐ規模** |
+| 丸紅フィナンシャルサービス | [[trading-company-finance/marubeni-financial-services]] | 100% | 借入・資金受払等のグループ財務 |
+| **みずほリース** | **[[leasing-firms/mizuho-lease]]** | **20.2% (持分法、2026-03-31現在)** | **総合金融サービス、東証 PRIME 8425** |
+
+Sources: ^[丸紅「2025年度決算 IR資料」（2026-05-15更新、みずほリース持分率 20.2%）: https://www.marubeni.com/jp/news/2026/release/data/202605012-2J.pdf; 丸紅「第102回定時株主総会 電子提供措置事項」（丸紅フィナンシャルサービス 直接100%）: https://www.marubeni.com/jp/ir/stock/meeting/pdf/fye2603_102nd_id_jp.pdf.]
 
 加えて、**みずほグループの financial-services エコシステム**:
 
-「**みずほリース戦略的株主入り (2024)** = 丸紅にとってリース・asset finance プラットフォーム取得の代替手段」「丸紅フィナンス = 内向け CMS」「みずほ FG = メインバンク的関係」の三層構造。
+「**みずほリース持分法投資** = 外向け総合金融サービスとの連携」「丸紅フィナンシャルサービス = グループ財務」「みずほ FG = 銀行関係」を別の法人・資本関係として読む。
 
 ### 5 大商社内の identity
 
@@ -123,8 +126,8 @@ This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates IN
 
 - [[financial-conglomerates/INDEX|financial-conglomerates INDEX]]
 - [[financial-conglomerates/mitsubishi-corp|三菱商事]] · [[financial-conglomerates/mitsui-co|三井物産]] · [[financial-conglomerates/itochu-corp|伊藤忠商事]] · [[financial-conglomerates/sumitomo-corp|住友商事]] · [[financial-conglomerates/toyota-tsusho-corp|豊田通商]] · [[financial-conglomerates/sojitz-corp|双日]] (peer 商社)
-- [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]] (内向け group treasury)
-- [[leasing-firms/mizuho-lease|みずほリース]] (2024 戦略的持分 約 20% 級)
+- [[trading-company-finance/marubeni-financial-services|丸紅フィナンシャルサービス]] (グループ財務)
+- [[leasing-firms/mizuho-lease|みずほリース]] (2026-03-31 時点 持分率 20.2%)
 - [[megabanks/mizuho-fg|みずほ FG]] (メインバンク / グループ系列)
 - [[leasing-firms/tokyo-century|東京センチュリー]] (みずほ + 伊藤忠 2 軸株主、丸紅は別途みずほリースに張る)
 - [[finance/INDEX|finance index]] · [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]
@@ -133,10 +136,12 @@ This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates IN
 
 - 丸紅 (8002) 公式 IR — https://www.marubeni.com/jp/ir/
 - 丸紅 統合報告書 — https://www.marubeni.com/jp/ir/library/annual_report/
+- 丸紅 2025年度決算 IR資料 — https://www.marubeni.com/jp/news/2026/release/data/202605012-2J.pdf
+- 丸紅 第102回定時株主総会 電子提供措置事項 — https://www.marubeni.com/jp/ir/stock/meeting/pdf/fye2603_102nd_id_jp.pdf
 - EDINET 有価証券報告書 — https://disclosure.edinet-fsa.go.jp/ (検索: 丸紅 / 8002)
 - JPX 銘柄情報 8002 — https://www2.jpx.co.jp/
 
 ---
 
 > [!info] 検証状況
-> confidence: **likely**。丸紅は public-surface で十分カバー。2024 みずほリース 戦略的持分入りの正確な持分比率、Helena 売上規模、IPP 発電容量 (GW) は最新 有価証券報告書 / 統合報告書 で都度更新。
+> confidence: **likely**。丸紅フィナンシャルサービスの直接所有 100%、みずほリースの持分率 20.2%、2025年度組織ベースのセグメント構成は、2026-07-29 時点の丸紅公式開示で再確認した。

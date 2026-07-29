@@ -25,9 +25,9 @@
     "domain": "trading-company-finance",
     "type": null,
     "created": "2026-05-24",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-06-24",
-    "review_by": "2026-08-08",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -46,17 +46,19 @@
       "住友商事 (8053) 有価証券報告書 (関係会社一覧)",
       "住友商事 公式 IR / 統合報告書",
       "公益社団法人リース事業協会 (JLA) https://www.leasing.or.jp/",
-      "EDINET 有価証券報告書検索"
+      "EDINET 有価証券報告書検索",
+      "住友商事フィナンシャルマネジメント「会社情報」: https://ssfm.co.jp/company/",
+      "住友商事フィナンシャルマネジメント「事業紹介」: https://ssfm.co.jp/field/"
     ]
   },
   "summary": "This entry sits under trading-company-finance INDEX. Read it against SMFL (the same-parent 外向けリース・asset finance JV with SMFG) and 三菱商事フィナンシャルサービス (the closest peer 商社系 group-treasury arm). For the broader peer set, see 三井物産FS, 伊藤忠ファイナンス, 丸紅フィナンス. See banking index for the broader regulatory boundary",
   "headings": [
     "住友商事フィナンシャルマネジメント (Sumitomo Corporation Financial Management)",
     "Wiki route",
-    "1. 会社概要",
-    "住友グループ + SMFG 金融機能の配置",
-    "2. 事業セグメント・マップ",
-    "競合 / Peer",
+    "1. 会社概要 ^[住友商事フィナンシャルマネジメント「会社情報」: https://ssfm.co.jp/company/]",
+    "住友グループ + SMFG 金融機能の配置 ^[住友商事フィナンシャルマネジメント「事業紹介」: https://ssfm.co.jp/field/; 住友商事 IR: https://www.sumitomocorp.com/ja/jp/ir]",
+    "2. 事業セグメント・マップ ^[住友商事フィナンシャルマネジメント「事業紹介」: https://ssfm.co.jp/field/]",
+    "競合 / Peer ^[各親会社の有価証券報告書・公式 IR を横断した比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]",
     "4. 規制・政策",
     "Related",
     "Sources"
@@ -111,9 +113,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4109,
-    "word_like_tokens": 586,
+    "nonspace_chars": 4490,
+    "word_like_tokens": 640,
     "inbound_wikilinks_count": 10,
-    "last_modified": "2026-06-24"
+    "last_modified": "2026-07-29"
   }
 }
