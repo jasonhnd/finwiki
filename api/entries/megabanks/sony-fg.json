@@ -26,9 +26,9 @@
     "domain": "megabanks",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-15",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -44,7 +44,12 @@
       "ソニーグループ 2024-05 経営方針説明会 (金融事業分離・パーシャルスピンオフ発表資料)",
       "ソニー生命 / ソニー損保 / ソニー銀行 公式沿革",
       "ニッセイ基礎研究所「ソニーのパーシャル・スピンオフ－ソニーフィナンシャルの分離・上場」 https://www.nli-research.co.jp/report/detail/id=83393?site=nli",
-      "SMBC日興証券「ソニーグループ（6758）のパーシャル・スピンオフに関するお知らせ」(2025-09-17、2025-10-01 効力発生・再上場 8729 を確認) https://www.smbcnikko.co.jp/news/customer/2025/n_20250917_01.html"
+      "SMBC日興証券「ソニーグループ（6758）のパーシャル・スピンオフに関するお知らせ」(2025-09-17、2025-10-01 効力発生・再上場 8729 を確認) https://www.smbcnikko.co.jp/news/customer/2025/n_20250917_01.html",
+      "Sony Group FY2025 Form 20-F: https://www.sony.com/en/SonyInfo/IR/library/FY2025_20F_PDF.pdf",
+      "Sony Financial Group「Group Structure」: https://www.sonyfg.co.jp/en/company/structure.html",
+      "Sony Financial Group「About Our Group」: https://www.sonyfg.co.jp/en/company/about_group.html",
+      "Sony Financial Group「Basic Stock Information」: https://www.sonyfg.co.jp/en/ir/shareholder/shareholder.html",
+      "Sony Financial Group「Interim Report 2025」: https://www.sonyfg.co.jp/en/financial_info/annualreport/260130_01.pdf"
     ]
   },
   "summary": "This entry sits under megabanks INDEX. Read it against ソニー生命保険 for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -53,8 +58,8 @@
     "Wiki route",
     "TL;DR",
     "1. 会社概要",
-    "主要子会社・グループ構造（再上場後想定）",
-    "主要株主（パーシャルスピンオフ後の構造、開示スキームベース）",
+    "主要子会社・グループ構造（2025-10-01 以降）",
+    "株式・会計上の位置",
     "重要年表 ^[extracted]",
     "2. 事業セグメント・マップ",
     "B2C ブランド戦略",
@@ -98,9 +103,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5121,
-    "word_like_tokens": 870,
+    "nonspace_chars": 6686,
+    "word_like_tokens": 1147,
     "inbound_wikilinks_count": 34,
-    "last_modified": "2026-06-22"
+    "last_modified": "2026-07-29"
   }
 }

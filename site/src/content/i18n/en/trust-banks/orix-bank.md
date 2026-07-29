@@ -1,11 +1,11 @@
 ---
 source: trust-banks/orix-bank
-source_hash: 17b514ac30036249
+source_hash: 4bb25fee15895866
 lang: en
 status: machine
 fidelity: ok
 title: "ORIX Bank"
-translated_at: 2026-06-15T04:09:41.194Z
+translated_at: 2026-07-28T23:40:44.164Z
 ---
 
 # ORIX Bank
@@ -18,7 +18,7 @@ This entry sits under [[trust-banks/INDEX|trust-banks INDEX]] (its domain route)
 
 ORIX Bank Corporation (オリックス銀行) is a banking entity listed on the FSA's bank license list, but rather than a trust-dedicated firm / trust bank like the megabank-group ones, it is a specialty bank closer to an **"ordinary bank" that also conducts trust business (a trust-concurrent financial institution)**. Originating from Yamaichi Securities' trust subsidiary, it joined the [[leasing-firms/orix-corp|ORIX]] group as of 1998 年. It holds no ATMs and is internet-centric, specializing in investment-property loans, online time deposits (e-Direct deposits), and card loans. As of 2026-04-27 it has been announced that ORIX will transfer all shares to [[regional-banks/daiwa-next-bank|大和ネクスト銀行]] under [[securities-firms/daiwa-sg|大和証券グループ本社]], and an ownership transition watch is needed.
 
-## 1. License / group boundary
+## 1. License / group boundary ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; オリックス銀行「会社概要」: https://www.orixbank.co.jp/aboutus/profile/company.html; ORIX と大和ネクスト銀行の 2026-04-27 公表: https://www.orix.co.jp/grp/company/newsroom/newsrelease/pdf/260427_ORIXJ.pdf; https://www.bank-daiwa.co.jp/info/2026/pdf/0427_02.pdf]
 
 | Item | Notes |
 |---|---|

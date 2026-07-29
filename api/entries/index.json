@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-07-29T07:12:21+09:00",
+  "generated_at": "2026-07-29T10:53:54+09:00",
   "site_url": "https://finwiki.zksc.io/",
   "total_entries": 1482,
   "entries": [
@@ -667,7 +667,7 @@
     {
       "slug": "asset-managers/mitsubishi-corp-asset-management",
       "domain": "asset-managers",
-      "title": "三菱商事系アセットマネジメント (Mitsubishi Corp Asset Management arm)",
+      "title": "三菱商事・UBSリアルティ（現 KJR Management）",
       "api_url": "https://finwiki.zksc.io/api/entries/asset-managers/mitsubishi-corp-asset-management.json",
       "url": "https://finwiki.zksc.io/ja/asset-managers/mitsubishi-corp-asset-management/",
       "html_url": "https://finwiki.zksc.io/ja/asset-managers/mitsubishi-corp-asset-management/",
@@ -18750,7 +18750,7 @@
     {
       "slug": "trust-banks/escrow-agent-japan-trust",
       "domain": "trust-banks",
-      "title": "エスクロー・エージェント・ジャパン信託 (Escrow Agent Japan Trust)",
+      "title": "ミトラ信託 (Mitra Trust)",
       "api_url": "https://finwiki.zksc.io/api/entries/trust-banks/escrow-agent-japan-trust.json",
       "url": "https://finwiki.zksc.io/ja/trust-banks/escrow-agent-japan-trust/",
       "html_url": "https://finwiki.zksc.io/ja/trust-banks/escrow-agent-japan-trust/",
@@ -19088,7 +19088,7 @@
     {
       "slug": "trust-banks/orient-trust-japan",
       "domain": "trust-banks",
-      "title": "ノーザン・トラスト・ジャパン (Northern Trust Japan)",
+      "title": "ノーザン・トラスト・グローバル・インベストメンツ (Northern Trust Japan)",
       "api_url": "https://finwiki.zksc.io/api/entries/trust-banks/orient-trust-japan.json",
       "url": "https://finwiki.zksc.io/ja/trust-banks/orient-trust-japan/",
       "html_url": "https://finwiki.zksc.io/ja/trust-banks/orient-trust-japan/",

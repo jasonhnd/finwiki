@@ -8,9 +8,9 @@ aliases:
   - "みついすみともぎんこう"
 domain: megabanks
 created: 2026-05-20
-last_updated: 2026-06-05
-last_tended: 2026-06-05
-review_by: 2026-12-05
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, bank, megabank, operating-company]
 status: active
@@ -62,6 +62,8 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]] (its domain route). Re
 | License route | 銀行法上の銀行免許 (都市銀行); FSA bank license list |
 | Bank code | 0009 |
 | Parent boundary | [[megabanks/smfg|SMFG]] 傘下 bank operating company |
+
+Sources: ^[金融庁「銀行免許一覧」: https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx; SMBC「会社概要」: https://www.smbc.co.jp/aboutus/profile/gaiyo.html; SMBC「主要子会社・関連会社」: https://www.smbc.co.jp/aboutus/profile/group.html.]
 
 ## 2. Operating model
 

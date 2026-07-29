@@ -1,11 +1,11 @@
 ---
 source: trust-banks/starts-trust
-source_hash: dc6d6781c5ef55e7
+source_hash: 83a5d21a52513dc4
 lang: en
 status: machine
 fidelity: ok
 title: "Starts Trust"
-translated_at: 2026-06-01T02:31:57.128Z
+translated_at: 2026-07-28T23:40:44.218Z
 ---
 # Starts Trust
 
@@ -21,7 +21,7 @@ Starts Trust is a real-estate-oriented trust company in the Starts group. Public
 
 The page matters because Starts Trust is not a generic registry row. It is the main FinWiki route for land trust, real-estate management trust, and regional trust-agent partnership analysis.
 
-## Entity Boundary
+## Entity Boundary ^[金融庁の現行免許とスターツ公式リリース: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://www.starts.co.jp/news/press/2015/1142/; https://www.starts.co.jp/news/press/2024/6317/]
 
 | Item | Reading |
 |---|---|

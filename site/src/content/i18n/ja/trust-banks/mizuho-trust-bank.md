@@ -1,12 +1,12 @@
 ---
 source: trust-banks/mizuho-trust-bank
-source_hash: e499c4ccd952a942
+source_hash: 9e211aca69f1a406
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "みずほ信託銀行 (Mizuho Trust & Banking)"
-translated_at: 2026-06-26T08:32:30.860Z
+translated_at: 2026-07-28T23:40:04.500Z
 ---
 
 # みずほ信託銀行 (Mizuho Trust & Banking)
@@ -19,7 +19,7 @@ translated_at: 2026-06-26T08:32:30.860Z
 
 みずほ信託銀行 (Mizuho Trust & Banking Co., Ltd.) は [[megabanks/mizuho-fg|みずほ FG]] の trust-bank operating company。**銀行法の銀行免許に加え兼営法に基づく信託業務の兼営認可**を持つ信託兼営金融機関で、銀行業務と信託・年金・不動産・証券代行・受託財産業務を一体で営む。商業銀行中核は [[megabanks/mizuho-bank|みずほ銀行]] が担い、みずほ信託銀行は信託・受託財産側を担うという機能分担になる。
 
-## 1. ライセンス / グループ境界
+## 1. ライセンス / グループ境界 ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; みずほ信託銀行「会社概要」: https://www.mizuho-tb.co.jp/company/about/info.html]
 
 | 項目 | 備考 |
 |---|---|

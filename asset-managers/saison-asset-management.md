@@ -9,20 +9,19 @@ aliases:
   - "Saison AM"
 domain: asset-managers
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, asset-management, investment-trust, mutual-fund, saison, NISA, iDeCo, direct-sales]
 status: active
 sources:
-  - "https://www.saison-am.co.jp/company/profile/"
-  - "https://www.saison-am.co.jp/company/history/"
-  - "https://corporate.saisoncard.co.jp/"
-  - "https://www.fsa.go.jp/menkyo/menkyoj/investment_mgmt.xlsx"
-  - "Wikipedia: セゾン投信 (公開情報, 2026-05-25 抽出)"
-  - "セゾン投信 ニュースリリース: 運用資産総額1兆円到達 (2025-10-06) https://www.saison-am.co.jp/news/2025/release/20251006173450.html"
-  - "日本経済新聞: セゾン投信、中野晴啓会長が退任へ 直販モデルに転機 (2023-06) https://www.nikkei.com/article/DGXZQOUB017CW0R00C23A6000000/"
+  - "https://www.saison-am.co.jp/company/outline/"
+  - "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx"
+  - "https://www.saison-am.co.jp/news/2025/release/20251006173450.html"
+  - "https://www.saison-am.co.jp/fund/global/"
+  - "https://www.saison-am.co.jp/fund/master/"
+  - "https://www.saison-am.co.jp/fund/japan/"
 ---
 
 # セゾン投信 (Saison Asset Management)
@@ -33,21 +32,24 @@ This entry sits under [[asset-managers/INDEX|asset-managers INDEX]] as the opera
 
 ## TL;DR
 
-[[card-issuers/credit-saison|クレディセゾン]] グループの投資信託運用会社（FIEA 投資運用業 + 投資信託委託会社）。2006 設立、2017 [[card-issuers/credit-saison|Credit Saison]] 連結子会社化。主力商品は **「セゾン・グローバルバランスファンド」**（Vanguard 系 ETF を組み合わせた世界分散ファンド・ファンド）と **「セゾン資産形成の達人ファンド」**（中興 active fund-of-funds）の **2 本柱**。**直販 + クレディセゾンカード顧客導線** を組み合わせた独立系直販投信のリーディングプレイヤーで、2024 新 NISA 制度開始以降、長期積立投資文化の追い風で AUM 集積を加速。^[extracted]
+セゾン投信は、[[card-issuers/credit-saison|クレディセゾン]] 60%・日本郵便 40% 出資の投資信託運用会社。2006-06-12 設立、関東財務局長(金商)第349号で、第二種金融商品取引業と投資運用業を登録する。現在は **「セゾン・グローバルバランスファンド」**、**「セゾン資産形成の達人ファンド」**、**「セゾン共創日本ファンド」** の 3 本を運用し、直販と販売金融機関の双方を使う。
 
 ## 1. 法人概要
 
 | Item | 内容 |
 |---|---|
-| 正式名 | セゾン投信株式会社 ^[extracted] |
+| 正式名 | セゾン投信株式会社 |
 | 英名 | Saison Asset Management Co., Ltd. |
-| 設立 | 2006-04 ^[extracted] |
-| 親会社 | [[card-issuers/credit-saison|株式会社クレディセゾン]]（東証 PRIME 8253、連結子会社）|
-| 親会社化 | **2017** [[card-issuers/credit-saison|Credit Saison]] による子会社化 ^[extracted] |
-| 本社 | 東京都豊島区東池袋（[[card-issuers/credit-saison|クレディセゾン]] と近接）|
-| 業態 | 投資信託委託会社（投資信託及び投資法人に関する法律）・投資運用業（FIEA） |
-| 上場 | 非上場（親会社 [[card-issuers/credit-saison]] が東証 PRIME 8253）|
-| 主要販売チャネル | **直販（自社窓口）** + 一部金融機関 + [[card-issuers/credit-saison|Credit Saison]] カード顧客導線 |
+| 設立 | 2006-06-12 |
+| 株主 | [[card-issuers/credit-saison|株式会社クレディセゾン]] 60%、日本郵便株式会社 40% |
+| 資本境界 | 2017 年にクレディセゾンの連結子会社化。現在は上記 2 社出資 |
+| 本社 | 東京都豊島区東池袋3-1-1 サンシャイン60 48階 |
+| 登録業務 | 関東財務局長(金商)第349号; 第二種金融商品取引業、投資運用業 |
+| 事業内容 | 投資信託の設定、運用ならびに販売 |
+| 加入協会 | 資産運用業協会 |
+| 販売チャネル | 自社直販 + 販売金融機関 |
+
+Sources: ^[セゾン投信 会社概要・運用体制等（2026-04-01 現在）: https://www.saison-am.co.jp/company/outline/; FSA 金融商品取引業者登録一覧: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx.]
 
 ### 2.1 主力ファンド 2 本柱
 
@@ -55,6 +57,8 @@ This entry sits under [[asset-managers/INDEX|asset-managers INDEX]] as the opera
 |---|---|
 | **セゾン・グローバルバランスファンド** | Vanguard 系 ETF（バンガード・トータル・ワールド・ストック ETF 等）を **株式 50% / 債券 50%** で組み合わせた世界分散ファンド・ファンド。低コスト・長期保有訴求の代表商品 |
 | **セゾン資産形成の達人ファンド** | 国内外の **アクティブ運用ファンド** を吟味して組み合わせる中興型アクティブファンド・ファンド。長期厳選投資 |
+
+Sources: ^[セゾン・グローバルバランスファンド公式: https://www.saison-am.co.jp/fund/global/; セゾン資産形成の達人ファンド公式: https://www.saison-am.co.jp/fund/master/.]
 
 ### 2.2 投資哲学
 
@@ -71,15 +75,17 @@ This entry sits under [[asset-managers/INDEX|asset-managers INDEX]] as the opera
 ## 3. 親会社関係（[[card-issuers/credit-saison|Credit Saison]] 連結内）
 
 ```
-株式会社クレディセゾン（東証 PRIME 8253）
-  ├── 信販・カード事業（コア）
-  │     └─ セゾンカード・UC カード・American Express 提携
-  ├── セゾンファンデックス（不動産担保ローン・カードローン）
-  ├── アトリウム（不動産関連）
-  ├── セゾン投信（本ページ、投資信託）
-  │     └─ 「セゾン・グローバルバランスファンド」「セゾン資産形成の達人ファンド」
-  └── 海外（Kisetsu Saison Finance India 等）
+セゾン投信
+  ├── 株式会社クレディセゾン 60%
+  └── 日本郵便株式会社 40%
+
+運用ファンド
+  ├── セゾン・グローバルバランスファンド
+  ├── セゾン資産形成の達人ファンド
+  └── セゾン共創日本ファンド
 ```
+
+Source: ^[セゾン投信 会社概要・運用体制等: https://www.saison-am.co.jp/company/outline/.]
 
 ### 子会社化の経緯（2017）
 
@@ -97,7 +103,8 @@ This entry sits under [[asset-managers/INDEX|asset-managers INDEX]] as the opera
 | ファンド本数 | 3 本（グローバルバランスファンド / 資産形成の達人ファンド / 2022-02 設定の **セゾン共創日本ファンド**）|
 | 顧客（ファンド保有者）数 | **79 万人超**（2025-03 時点）。出所: 同リリース |
 | 販売金融機関 | **29 社**（直販 + 提携金融機関、2025-03 時点）|
-| 業界順位 | 独立系直販投信としては国内有力（vs [[JapanFG/hifumi|ひふみ投信]] [[JapanFG/sawakami-am|さわかみ投信]] [[JapanFG/commons-am|コモンズ投信]]）|
+
+Sources: ^[セゾン投信「運用資産総額1兆円到達！」（2025-10-06）: https://www.saison-am.co.jp/news/2025/release/20251006173450.html; セゾン投信 会社概要・運用体制等: https://www.saison-am.co.jp/company/outline/.]
 
 > 主力ファンド個別の純資産総額は公式「運用状況」ページ（毎営業日更新）で開示。最新数値は公式 IR を参照。
 
@@ -132,11 +139,13 @@ This entry sits under [[asset-managers/INDEX|asset-managers INDEX]] as the opera
 | 項目 | 内容 |
 |---|---|
 | 主管庁 | 金融庁（FSA）|
-| 業法 | 金融商品取引法（FIEA、投資運用業）・投信法（投資信託及び投資法人に関する法律）|
-| 業界団体 | 投資信託協会・日本証券業協会（販売側）|
-| ライセンス | 投資運用業（金融庁登録）・第二種金融商品取引業 |
-| 顧客資産分別管理 | 信託銀行（[[trust-banks/master-trust-bank|マスタートラスト信託]] 等）に信託 |
-| 監査 | 監査法人による会計監査 + 受託銀行による日次基準価額計算 |
+| 金融商品取引業者登録 | 関東財務局長(金商)第349号 |
+| 登録業務 | 第二種金融商品取引業、投資運用業 |
+| 加入協会 | 資産運用業協会 |
+| ファンド別の受託・資産管理 | 各ファンドの最新の投資信託説明書（交付目論見書）で確認 |
+| 開示 | 公式サイトで目論見書、運用報告書、会社の財務状況を公開 |
+
+Sources: ^[FSA 金融商品取引業者登録一覧: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx; セゾン投信 会社概要・運用体制等: https://www.saison-am.co.jp/company/outline/; セゾン資産形成の達人ファンド 目論見書: https://www.saison-am.co.jp/pdf/fund/master/prospectus/prospectus2.pdf.]
 
 ## Related
 
@@ -152,15 +161,13 @@ This entry sits under [[asset-managers/INDEX|asset-managers INDEX]] as the opera
 
 ## Sources
 
-- セゾン投信公式: 会社概要（profile/）
-- セゾン投信公式: 沿革（history/）
+- セゾン投信公式「会社概要・運用体制等」https://www.saison-am.co.jp/company/outline/
 - **セゾン投信 公式ニュースリリース「運用資産総額 1 兆円到達！」**（2025-10-06、3 ファンド合算で 1 兆円・運用開始 2007-03-15・ファンド保有者 79 万人超・販売金融機関 29 社、いずれも 2025-03 時点）https://www.saison-am.co.jp/news/2025/release/20251006173450.html
 - **日本経済新聞「セゾン投信、中野晴啓会長が退任へ 直販モデルに転機」**（2023-06、親会社クレディセゾンと販売方針巡る対立・2023-06-28 株主総会で退任）https://www.nikkei.com/article/DGXZQOUB017CW0R00C23A6000000/
-- クレディセゾン IR: 子会社一覧（corporate.saisoncard.co.jp）
-- 金融庁: 投資運用業者一覧
-- Wikipedia: セゾン投信（公開情報、2026-05-25 抽出）
+- 金融庁「金融商品取引業者登録一覧」https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx
+- セゾン投信公式 3 ファンド: https://www.saison-am.co.jp/fund/global/ / https://www.saison-am.co.jp/fund/master/ / https://www.saison-am.co.jp/fund/japan/
 
 ---
 
 > [!info] 校核状态
-> confidence: **likely**（v1.0 公開情報ベース、2026-05-25 抽出 / 2026-05-29 KPI・退任を一次情報で更新）。設立年（2006）・親会社化年（2017）・主力ファンド・直販モデル・新 NISA 制度関係は公開情報で確認。**運用資産総額は 2025-10-06 に 3 ファンド合算で 1 兆円到達（2025-12 末 約 1.07 兆円）、ファンド保有者 79 万人超・販売金融機関 29 社（2025-03 時点）を公式リリースで確認**。**中野晴啓会長の退任は 2023-06-28（親会社との販売方針対立、事実上の解任と報道）を日経で確認**。主力ファンド個別の純資産総額は公式「運用状況」ページ参照。
+> confidence: **likely**. 2026-07-29 時点で、会社概要（2026-04-01 現在）と FSA 登録一覧を使い、設立日、所在地、株主 60% / 40%、登録番号・業務・協会を再確認した。AUM 1 兆円到達日は 2025-10-06、ファンド保有者 79 万人超・販売金融機関 29 社は 2025-03 時点として公式リリースに日付を固定した。比較順位は置かない。

@@ -1,12 +1,12 @@
 ---
 source: megabanks/japan-post-holdings
-source_hash: 436818da72b2e42b
+source_hash: 32fa238142f8f9f6
 lang: en
 model: codex-source-faithful
 status: machine
 fidelity: ok
 title: "Japan Post Holdings Co., Ltd."
-translated_at: 2026-07-28T19:18:08Z
+translated_at: 2026-07-29T01:38:38Z
 ---
 # Japan Post Holdings Co., Ltd.
 
@@ -54,9 +54,11 @@ Japan Post Holdings Co., Ltd. (6178, Minister of Finance holding more than one-t
 | 2017-04 | Toll Holdings (Australia, logistics subsidiary) goodwill impairment on the scale of 4,000 億円 |
 | **2019-06** | **[[life-insurers/kampo-life|かんぽ生命]] improper-sales issue surfaces** → business-improvement order |
 | 2019-12 | Administrative disposition → resignation of management taking responsibility |
-| 2021 | Capital and business alliance with Rakuten ([[regional-banks/japan-post-bank|ゆうちょ銀行]] becomes a Rakuten Group shareholder)|
+| 2021 | Capital and business alliance with Rakuten (Japan Post Holdings becomes a Rakuten Group shareholder)|
 | 2023-2024 | Continuation of dividend policy / treasury-stock acquisition / strengthening of shareholder returns |
 | 2025~ | Digital postal / logistics efficiency / deepening of Rakuten cooperation |
+
+Sources: ^[Japan Post Holdings「History」: https://www.japanpost.jp/en/corporate/changes/index.html; Japan Post Holdings「IR Q&A」: https://www.japanpost.jp/en/ir/faq/index.html.]
 
 ## 2. Business segments
 
@@ -66,6 +68,8 @@ Japan Post Holdings Co., Ltd. (6178, Minister of Finance holding more than one-t
 | **Banking** | [[regional-banks/japan-post-bank|ゆうちょ銀行 7182]] | **One of the largest banks in Japan by total assets** (over 200 兆円), deposit / investment business |
 | **Life insurance** | [[life-insurers/kampo-life|かんぽ生命 7181]] | One of the largest life insurers in Japan, simplified life insurance / endowment insurance, etc. |
 | **Real estate / other** | Japan Post Real Estate, etc. | Utilization of former post-office buildings / real-estate business such as Otemachi Place |
+
+Sources: ^[Japan Post Holdings「FY2026 Financial Results」: https://www.japanpost.jp/en/ir/library/earnings/pdf/20260515_02.pdf; Japan Post Holdings「Annual Reports」: https://www.japanpost.jp/en/ir/library/disclosure/index.html.]
 
 ### Legal holding obligation
 
@@ -99,7 +103,7 @@ Each ratio follows the denominator definition used in the relevant company's dis
 
 ### Capital and business alliance with Rakuten (2021~)
 
-- The Japan Post Group, including [[regional-banks/japan-post-bank|ゆうちょ銀行]], invested in Rakuten Group (4755)
+- Japan Post invested in Rakuten Group (4755); the investor was not Japan Post Bank
 - Cooperation in the logistics / mobile / financial fields
 
 ### Progress of financial 2 社 privatization

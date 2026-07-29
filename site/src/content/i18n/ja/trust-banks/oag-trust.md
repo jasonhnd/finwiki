@@ -1,12 +1,12 @@
 ---
 source: trust-banks/oag-trust
-source_hash: 4fb50db746ead816
+source_hash: 6a0151db3ff9b3c3
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "OAG信託"
-translated_at: 2026-06-26T08:32:30.861Z
+translated_at: 2026-07-28T23:40:04.532Z
 ---
 
 # OAG信託
@@ -23,7 +23,7 @@ OAG信託は、自社をOAG Consulting Groupの会社と位置づけ、管理型
 
 このページが重要なのは、OAG信託が資金保全信託に特化した参照先だからである。論点が資産運用ではなく、前払金や預り金を信託構造で保全する場合に有用である。
 
-## 事業体の境界
+## 事業体の境界 ^[金融庁の現行登録と OAG 信託公式サイト: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://oag-trust.com/]
 
 | 項目 | 読み方 |
 |---|---|

@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-07-29T07:12:20+09:00
+Generated: 2026-07-29T10:53:53+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1600
-Public pages listed: 1599
+Markdown files: 1601
+Public pages listed: 1600
 
 ## Reading Rules
 
@@ -30,7 +30,7 @@ Public pages listed: 1599
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/CHANGELOG.md
 - Domain: root
 - Type: control_doc
-- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-07-29 - Table provenance batch 01 corrections (#231), 日本語, English
+- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-07-29 - Table provenance batch 02 corrections (#232), 日本語, English
 
 ### How to navigate FinWiki — reader profile guide
 - URL: https://finwiki.zksc.io/HOW-TO-NAVIGATE.md
@@ -749,7 +749,7 @@ Public pages listed: 1599
 - Headings: 大和アセットマネジメント, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/asset-managers/, https://finwiki.zksc.io/ja/asset-managers/nikko-asset-management/, https://finwiki.zksc.io/ja/asset-managers/nomura-asset-management/, https://finwiki.zksc.io/ja/financial-regulators/fsa/, https://finwiki.zksc.io/ja/life-insurers/kampo-life/, https://finwiki.zksc.io/ja/regional-banks/daiwa-next-bank/, https://finwiki.zksc.io/ja/securities-firms/daiwa-sg/, https://finwiki.zksc.io/ja/securities/financial-instruments-business-operators-japan-index/, https://finwiki.zksc.io/ja/securities/nisa-2024-flow/
 
-### 三菱商事系アセットマネジメント (Mitsubishi Corp Asset Management arm)
+### 三菱商事・UBSリアルティ（現 KJR Management）
 - URL: https://finwiki.zksc.io/ja/asset-managers/mitsubishi-corp-asset-management/
 - Japanese HTML: https://finwiki.zksc.io/ja/asset-managers/mitsubishi-corp-asset-management/
 - English alternate: https://finwiki.zksc.io/en/asset-managers/mitsubishi-corp-asset-management/
@@ -758,9 +758,9 @@ Public pages listed: 1599
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/asset-managers/mitsubishi-corp-asset-management.md
 - Domain: asset-managers
 - Type: wiki_entry
-- Summary: This entry sits under asset-managers INDEX. Read it against アセットマネジメントOne (the みずほ FG + 第一生命 JV AM, peer banking-system AM) and 三菱UFJアセットマネジメント (the MUFG 系列 AM). For the same-parent group-treasury arm, see 三菱商事FS. For broader 商社系金融 peer set: 三井物産FS / 住友商事FM / 伊藤忠ファイナンス / 丸紅フィナンス / 豊田通商フィナンス / 双日フィナン
-- Headings: 三菱商事系アセットマネジメント (Mitsubishi Corp Asset Management arm), Wiki route, 1. 会社概要, 三菱グループ内の AM 機能配置, 2. 事業セグメント・マップ, Peer / 競合, group-treasury 機能との分業, 4. 規制・政策
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/asset-managers/, https://finwiki.zksc.io/ja/asset-managers/asset-management-one/, https://finwiki.zksc.io/ja/asset-managers/mufg-asset-management/, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/finance/japan-acquisition-finance/, https://finwiki.zksc.io/ja/financial-regulators/boj-monetary-policy/, https://finwiki.zksc.io/ja/financial-regulators/fsa-supervision-bureau/, https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/, https://finwiki.zksc.io/ja/life-insurers/dai-ichi-life/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/domains/securities/
+- Summary: This entry sits under asset-managers INDEX as a corporate-history route: Mitsubishi Corp.-UBS Realty (MC-UBSR) was sold in full to KKR in 2022 and renamed KJR Management. It is not a current Mitsubishi Corporation subsidiary. Keep it separate from 三菱UFJアセットマネジメント and 三菱UFJ信託銀行, which belong to MUFG,
+- Headings: 三菱商事・UBSリアルティ（現 KJR Management）, Wiki route, 1. 会社概要, 現在の法人グループ境界, 2. 事業境界, J-REIT 運用会社の参照先, group-treasury 機能との分業, 4. 規制・政策
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/asset-managers/, https://finwiki.zksc.io/ja/asset-managers/asset-management-one/, https://finwiki.zksc.io/ja/asset-managers/mufg-asset-management/, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/finance/japan-acquisition-finance/, https://finwiki.zksc.io/ja/financial-regulators/boj-monetary-policy/, https://finwiki.zksc.io/ja/financial-regulators/fsa-supervision-bureau/, https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/trading-company-finance/itochu-finance/, https://finwiki.zksc.io/ja/trading-company-finance/marubeni-financial-services/, https://finwiki.zksc.io/ja/trading-company-finance/mitsubishi-corp-finance/
 
 ### 三菱UFJアセットマネジメント
 - URL: https://finwiki.zksc.io/ja/asset-managers/mufg-asset-management/
@@ -832,7 +832,7 @@ Public pages listed: 1599
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/asset-managers/principal-japan.md
 - Domain: asset-managers
 - Type: wiki_entry
-- Summary: This entry sits under asset-managers INDEX. Read it against Manulife Life Insurance Japan and NN Life Japan for foreign-financial-group peer context, and insurance index for the broader Japan retirement / insurance system / regulatory boundary.
+- Summary: This entry sits under asset-managers INDEX. Compare Asset Management One as a domestic institutional asset-management peer; read Manulife Life Insurance Japan and NN Life Japan for foreign-financial-group peer context, and insurance index for the broader Japan retirement / insurance system / regulat
 - Headings: Principal Japan / プリンシパル・ジャパン, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/asset-managers/, https://finwiki.zksc.io/ja/asset-managers/asset-management-one/, https://finwiki.zksc.io/ja/financial-licenses/foreign-financial-group-adjacent-licenses/, https://finwiki.zksc.io/ja/financial-licenses/insurance-license-and-solvency/, https://finwiki.zksc.io/ja/domains/insurance/, https://finwiki.zksc.io/ja/insurance/global-solvency-framework-comparison-matrix/, https://finwiki.zksc.io/ja/insurance/japan-life-insurance-big-four/, https://finwiki.zksc.io/ja/life-insurers/aia-life-japan/, https://finwiki.zksc.io/ja/life-insurers/manulife-japan/, https://finwiki.zksc.io/ja/life-insurers/metlife-japan/, https://finwiki.zksc.io/ja/life-insurers/nn-life-japan/, https://finwiki.zksc.io/ja/life-insurers/prudential-japan/
 
@@ -888,7 +888,7 @@ Public pages listed: 1599
 - Entity node: kind=operating_company scope=japan_core status=anchor
 - Summary: This entry sits under asset-managers INDEX. Read it against アセットマネジメントOne for peer / contrast context, securities license stack for the FIEA license boundary, and FSA 金商業者 index for the registry layer.
 - Headings: 三井住友トラスト・アセットマネジメント (SMT-AM), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. 出資・統治構造, 4. Why standalone page matters, 5. 競合・peer
-- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/asset-managers/, https://finwiki.zksc.io/ja/asset-managers/asset-management-one/, https://finwiki.zksc.io/ja/asset-managers/mufg-asset-management/, https://finwiki.zksc.io/ja/asset-managers/nikko-asset-management/, https://finwiki.zksc.io/ja/asset-managers/nomura-asset-management/, https://finwiki.zksc.io/ja/asset-managers/smd-am/, https://finwiki.zksc.io/ja/financial-licenses/securities-license-stack/, https://finwiki.zksc.io/ja/securities/financial-instruments-business-operators-japan-index/, https://finwiki.zksc.io/ja/securities/nisa-2024-flow/, https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/asset-managers/, https://finwiki.zksc.io/ja/asset-managers/asset-management-one/, https://finwiki.zksc.io/ja/asset-managers/mufg-asset-management/, https://finwiki.zksc.io/ja/asset-managers/nikko-asset-management/, https://finwiki.zksc.io/ja/asset-managers/nomura-asset-management/, https://finwiki.zksc.io/ja/asset-managers/smd-am/, https://finwiki.zksc.io/ja/financial-licenses/securities-license-stack/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/securities-firms/nomura-hd/, https://finwiki.zksc.io/ja/securities/financial-instruments-business-operators-japan-index/, https://finwiki.zksc.io/ja/securities/nisa-2024-flow/, https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/
 
 ### T&Dアセットマネジメント (T&D AM)
 - URL: https://finwiki.zksc.io/ja/asset-managers/t-and-d-asset-management/
@@ -5665,7 +5665,7 @@ Public pages listed: 1599
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/financial-conglomerates/marubeni-corp.md
 - Domain: financial-conglomerates
 - Type: wiki_entry
-- Summary: This entry sits under financial-conglomerates INDEX as a sōgō shōsha parent holding-company. Read it against 伊藤忠商事 (戦前の同根 = 旧 丸紅伊藤忠商事、戦後 1949 分割) and 住友商事 (5 大商社中堅同士) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see 丸紅フィナンス (内向け CMS) an
+- Summary: This entry sits under financial-conglomerates INDEX as a sōgō shōsha parent holding-company. Read it against 伊藤忠商事 (戦前の同根 = 旧 丸紅伊藤忠商事、戦後 1949 分割) and 住友商事 (5 大商社中堅同士) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see 丸紅フィナンシャルサービス (内向け g
 - Headings: 丸紅 (Marubeni Corporation), Wiki route, 1. 会社概要, 主要子会社・関連会社 (JapanFG 文脈), 沿革ハイライト ^[extracted], 2. 事業セグメント・マップ, 3. Financial-services adjacency, 5 大商社内の identity
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/finance/japan-listed-financial-groups-investable-universe/, https://finwiki.zksc.io/ja/domains/financial-conglomerates/, https://finwiki.zksc.io/ja/financial-conglomerates/itochu-corp/, https://finwiki.zksc.io/ja/financial-conglomerates/mitsubishi-corp/, https://finwiki.zksc.io/ja/financial-conglomerates/mitsui-co/, https://finwiki.zksc.io/ja/financial-conglomerates/sojitz-corp/, https://finwiki.zksc.io/ja/financial-conglomerates/sumitomo-corp/, https://finwiki.zksc.io/ja/financial-conglomerates/toyota-tsusho-corp/, https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/, https://finwiki.zksc.io/ja/leasing-firms/mizuho-lease/, https://finwiki.zksc.io/ja/leasing-firms/orix-corp/
 
@@ -5691,9 +5691,9 @@ Public pages listed: 1599
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/financial-conglomerates/mitsui-co.md
 - Domain: financial-conglomerates
 - Type: wiki_entry
-- Summary: This entry sits under financial-conglomerates INDEX as a sōgō shōsha parent holding-company. Read it against 三菱商事 (純利益首位を争う最大ライバル) and 伊藤忠商事 (非資源寄り 5 大商社の対照) for peer / contrast context. For the financial-services adjacency that anchors this entry on JapanFG — see 三井物産フィナンシャルサービス (内向け CMS) and SMFL
+- Summary: This entry sits under financial-conglomerates INDEX as a sōgō shōsha parent holding-company. Read it against 三菱商事 and 伊藤忠商事 for peer / contrast context. For the financial-services adjacency that anchors this entry on JapanFG — see 三井物産フィナンシャルマネジメント (100%子会社の経理・財務機能会社) and JA三井リース (三井物産の所有割合43.86%、議決
 - Headings: 三井物産 (Mitsui & Co., Ltd.), Wiki route, 1. 会社概要, 主要子会社・関連会社 (JapanFG 文脈), 沿革ハイライト ^[extracted], 2. 事業セグメント・マップ, 3. Financial-services adjacency, 5 大商社内の identity
-- First resolved wikilinks: https://finwiki.zksc.io/ja/cooperative-banks/ja-mitsui-leasing/, https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/finance/japan-listed-financial-groups-investable-universe/, https://finwiki.zksc.io/ja/domains/financial-conglomerates/, https://finwiki.zksc.io/ja/financial-conglomerates/itochu-corp/, https://finwiki.zksc.io/ja/financial-conglomerates/marubeni-corp/, https://finwiki.zksc.io/ja/financial-conglomerates/mitsubishi-corp/, https://finwiki.zksc.io/ja/financial-conglomerates/sojitz-corp/, https://finwiki.zksc.io/ja/financial-conglomerates/sumitomo-corp/, https://finwiki.zksc.io/ja/financial-conglomerates/toyota-tsusho-corp/, https://finwiki.zksc.io/ja/leasing-firms/smfl/, https://finwiki.zksc.io/ja/leasing-firms/sumitomo-mitsui-auto-service/
+- First resolved wikilinks: https://finwiki.zksc.io/ja/cooperative-banks/ja-mitsui-leasing/, https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/finance/japan-listed-financial-groups-investable-universe/, https://finwiki.zksc.io/ja/domains/financial-conglomerates/, https://finwiki.zksc.io/ja/financial-conglomerates/itochu-corp/, https://finwiki.zksc.io/ja/financial-conglomerates/marubeni-corp/, https://finwiki.zksc.io/ja/financial-conglomerates/mitsubishi-corp/, https://finwiki.zksc.io/ja/financial-conglomerates/sojitz-corp/, https://finwiki.zksc.io/ja/financial-conglomerates/sumitomo-corp/, https://finwiki.zksc.io/ja/financial-conglomerates/toyota-tsusho-corp/, https://finwiki.zksc.io/ja/leasing-firms/sumitomo-mitsui-auto-service/, https://finwiki.zksc.io/ja/megabanks/smfg/
 
 ### 双日 (Sojitz Corporation)
 - URL: https://finwiki.zksc.io/ja/financial-conglomerates/sojitz-corp/
@@ -5704,7 +5704,7 @@ Public pages listed: 1599
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/financial-conglomerates/sojitz-corp.md
 - Domain: financial-conglomerates
 - Type: wiki_entry
-- Summary: This entry sits under financial-conglomerates INDEX as a sōgō shōsha parent holding-company — 5 大商社の次のレイヤーである 7 大商社の中堅商社 に位置付けられる。Read it against 丸紅 (5 大商社の中下位、双日との近接ポジション) and 豊田通商 (中堅・5 大下位の他のもう一極) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG
+- Summary: This entry sits under financial-conglomerates INDEX as a sōgō shōsha parent holding-company — 5 大商社の次のレイヤーである 7 大商社の中堅商社 に位置付けられる。Read it against 丸紅 and 豊田通商 for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see Sojitz Global Finance Plc。双日公
 - Headings: 双日 (Sojitz Corporation), Wiki route, 1. 会社概要, 主要子会社・関連会社 (JapanFG 文脈), 沿革ハイライト ^[extracted], 2. 事業セグメント・マップ, 3. Financial-services adjacency, 7 大商社内の identity
 - First resolved wikilinks: https://finwiki.zksc.io/ja/cooperative-banks/ja-mitsui-leasing/, https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/finance/japan-listed-financial-groups-investable-universe/, https://finwiki.zksc.io/ja/domains/financial-conglomerates/, https://finwiki.zksc.io/ja/financial-conglomerates/itochu-corp/, https://finwiki.zksc.io/ja/financial-conglomerates/marubeni-corp/, https://finwiki.zksc.io/ja/financial-conglomerates/mitsubishi-corp/, https://finwiki.zksc.io/ja/financial-conglomerates/mitsui-co/, https://finwiki.zksc.io/ja/financial-conglomerates/sojitz-corp/, https://finwiki.zksc.io/ja/financial-conglomerates/sumitomo-corp/, https://finwiki.zksc.io/ja/financial-conglomerates/toyota-tsusho-corp/, https://finwiki.zksc.io/ja/leasing-firms/kanematsu-leasing/
 
@@ -5717,7 +5717,7 @@ Public pages listed: 1599
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/financial-conglomerates/sumitomo-corp.md
 - Domain: financial-conglomerates
 - Type: wiki_entry
-- Summary: This entry sits under financial-conglomerates INDEX as a sōgō shōsha parent holding-company. Read it against 三菱商事 (旧 財閥商社の両雄) and 三井物産 (財閥商社の三巨頭) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see 住友商事フィナンシャルマネジメント (内向け CMS) and especiall
+- Summary: This entry sits under financial-conglomerates INDEX as a sōgō shōsha parent holding-company. Read it against 三菱商事 and 三井物産 for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see 住友商事フィナンシャルマネジメント (100%子会社の財務・経理専門会社)、SMFL (三井住友ファイナンス&リース) (住友商
 - Headings: 住友商事 (Sumitomo Corporation), Wiki route, 1. 会社概要, 主要子会社・関連会社 (JapanFG 文脈), 沿革ハイライト ^[extracted], 2. 事業セグメント・マップ, 3. Financial-services adjacency, 5 大商社内の identity
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/finance/japan-listed-financial-groups-investable-universe/, https://finwiki.zksc.io/ja/domains/financial-conglomerates/, https://finwiki.zksc.io/ja/financial-conglomerates/itochu-corp/, https://finwiki.zksc.io/ja/financial-conglomerates/marubeni-corp/, https://finwiki.zksc.io/ja/financial-conglomerates/mitsubishi-corp/, https://finwiki.zksc.io/ja/financial-conglomerates/mitsui-co/, https://finwiki.zksc.io/ja/financial-conglomerates/sojitz-corp/, https://finwiki.zksc.io/ja/financial-conglomerates/toyota-tsusho-corp/, https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/, https://finwiki.zksc.io/ja/leasing-firms/orix-corp/, https://finwiki.zksc.io/ja/leasing-firms/smfl/
 
@@ -5730,7 +5730,7 @@ Public pages listed: 1599
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/financial-conglomerates/toyota-tsusho-corp.md
 - Domain: financial-conglomerates
 - Type: wiki_entry
-- Summary: This entry sits under financial-conglomerates INDEX as a sōgō shōsha parent holding-company with a distinctive トヨタグループ系商社 (Toyota group captive trading house) character — Toyota Motor が約 22% 級主要株主、5 大商社とは独立な 第 6 商社 / トヨタ系商社 の位置付け。Read it against 三菱商事 and 双日 (中堅商社) for peer / contrast context. For th
+- Summary: This entry sits under financial-conglomerates INDEX as a sōgō shōsha parent holding-company with a distinctive トヨタグループ系商社 (Toyota group captive trading house) character。Read it against 三菱商事 and 双日 for peer / contrast context. 豊田通商の公式有価証券報告書は、国内グループファイナンスを親会社に一元化すると説明しており、「豊田通商フィナンス」という100%国内子会社は確認でき
 - Headings: 豊田通商 (Toyota Tsusho Corporation), Wiki route, 1. 会社概要, 主要子会社・関連会社 (JapanFG 文脈), 沿革ハイライト ^[extracted], 2. 事業セグメント・マップ, 3. Financial-services adjacency, Toyota グループ系商社の identity
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/finance/, https://finwiki.zksc.io/ja/finance/japan-listed-financial-groups-investable-universe/, https://finwiki.zksc.io/ja/domains/financial-conglomerates/, https://finwiki.zksc.io/ja/financial-conglomerates/itochu-corp/, https://finwiki.zksc.io/ja/financial-conglomerates/marubeni-corp/, https://finwiki.zksc.io/ja/financial-conglomerates/mitsubishi-corp/, https://finwiki.zksc.io/ja/financial-conglomerates/mitsui-co/, https://finwiki.zksc.io/ja/financial-conglomerates/sojitz-corp/, https://finwiki.zksc.io/ja/financial-conglomerates/sumitomo-corp/, https://finwiki.zksc.io/ja/leasing-firms/toyota-financial/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/regional-banks/aichi-fg/
 
@@ -10833,7 +10833,7 @@ Public pages listed: 1599
 - Domain: manufacturer-finance
 - Type: wiki_entry
 - Summary: This entry sits under manufacturing index. Read it against Toyota Motor and Mitsubishi Heavy export finance for peer industrial-finance contrast, 旧 日立キャピタル for the legacy captive-leasing entity history, 三菱HCキャピタル for the post-2021 surviving merged entity, and manufacturer-finance INDEX for the broad
-- Headings: Hitachi Industrial Finance Platform (日立グループ産業金融プラットフォーム), Wiki route, TL;DR, 1. 会社構造と金融部門の位置, 金融部門の位置 (post-2021), 2. 事業ライン × 金融組成パターン, 3. KPI (FY2024, 連結ベース), 4. 戦略 (Connect, Build, Finance)
+- Headings: Hitachi Industrial Finance Platform (日立グループ産業金融プラットフォーム), Wiki route, TL;DR, 1. 会社・captive の境界, 2. 製品・サービスと金融の接点, 3. 現行スケール, 4. 読み方, 5. 規制・政策
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/financial-regulators/jbic/, https://finwiki.zksc.io/ja/leasing-firms/hitachi-capital/, https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/, https://finwiki.zksc.io/ja/leasing-firms/orix-corp/, https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/, https://finwiki.zksc.io/ja/domains/manufacturer-finance/, https://finwiki.zksc.io/ja/manufacturer-finance/mitsubishi-heavy-export-finance/, https://finwiki.zksc.io/ja/manufacturer-finance/panasonic-captive-finance/, https://finwiki.zksc.io/ja/manufacturer-finance/sony-group-finance-arm/, https://finwiki.zksc.io/ja/manufacturer-finance/toyota-financial-services/, https://finwiki.zksc.io/ja/manufacturer-finance/toyota-motor/
 
 ### Honda Finance (ホンダ captive auto-finance arm / American Honda Finance Corporation)
@@ -10872,7 +10872,7 @@ Public pages listed: 1599
 - Domain: manufacturer-finance
 - Type: wiki_entry
 - Summary: This entry sits under manufacturing index. Read it against Hitachi 産業金融, Panasonic 顧客金融, Sony FG, and Toyota Financial Services for peer industrial-conglomerate finance arms. Pair with JBIC・NEXI for the policy-finance counterpart, JETRO vs NEXI vs JBIC for the export-support stack overview, and 三菱商事
-- Headings: Mitsubishi Heavy Export Finance (三菱重工 輸出金融プラットフォーム), Wiki route, TL;DR, 1. 会社構造と金融部門の位置, 金融組成の位置 (プログラム別), 2. 製品 / 事業ライン × 輸出金融組成パターン, 主要プログラム (2024-2026), 3. KPI (FY2024 連結)
+- Headings: Mitsubishi Heavy Export Finance (三菱重工 輸出金融プラットフォーム), Wiki route, TL;DR, 1. 会社・分析境界, 2. 案件別の金融確認ポイント, 3. FY2025 スケール, 4. 戦略 (Energy Transition + Defense + Project Finance), 5. 規制・政策
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/financial-regulators/jbic/, https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/, https://finwiki.zksc.io/ja/domains/manufacturer-finance/, https://finwiki.zksc.io/ja/manufacturer-finance/hitachi-industrial-finance-platform/, https://finwiki.zksc.io/ja/manufacturer-finance/panasonic-captive-finance/, https://finwiki.zksc.io/ja/manufacturer-finance/seiko-epson/, https://finwiki.zksc.io/ja/manufacturer-finance/sony-group-finance-arm/, https://finwiki.zksc.io/ja/manufacturer-finance/toyota-financial-services/, https://finwiki.zksc.io/ja/manufacturer-finance/toyota-motor/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/, https://finwiki.zksc.io/ja/megabanks/mufg/
 
 ### Nissan Financial Services (日産系 captive auto-finance arm / Nissan Motor Acceptance Company)
@@ -10897,9 +10897,9 @@ Public pages listed: 1599
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/manufacturer-finance/panasonic-captive-finance.md
 - Domain: manufacturer-finance
 - Type: wiki_entry
-- Summary: This entry sits under manufacturing index. Read it against Hitachi 産業金融, Sony FG, MHI 輸出金融, and Toyota Financial Services for peer industrial-conglomerate finance arms. Pair with SMFL (三井住友ファイナンス&リース) and MUFG for the bank-side counterpart of Panasonic's B2B vendor-finance flows, manufacturer-financ
-- Headings: Panasonic Captive Finance (パナソニック顧客金融), Wiki route, TL;DR, 1. 会社構造と金融部門の位置, 金融部門の位置 (2022 持株会社制移行後), 2. 製品 / 事業ライン × 金融組成パターン, 3. KPI (FY2024 連結), 4. 戦略 (Operational Excellence + Energy)
-- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/financial-regulators/jbic/, https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/, https://finwiki.zksc.io/ja/leasing-firms/orix-corp/, https://finwiki.zksc.io/ja/leasing-firms/smfl/, https://finwiki.zksc.io/ja/domains/manufacturer-finance/, https://finwiki.zksc.io/ja/manufacturer-finance/hitachi-industrial-finance-platform/, https://finwiki.zksc.io/ja/manufacturer-finance/mitsubishi-heavy-export-finance/, https://finwiki.zksc.io/ja/manufacturer-finance/seiko-epson/, https://finwiki.zksc.io/ja/manufacturer-finance/sony-group-finance-arm/, https://finwiki.zksc.io/ja/manufacturer-finance/toyota-financial-services/, https://finwiki.zksc.io/ja/manufacturer-finance/toyota-motor/
+- Summary: This entry sits under manufacturing index. Read it against Hitachi 産業金融, Sony FG, MHI 輸出金融, and Toyota Financial Services for peer industrial-conglomerate finance boundaries. Pair with vendor-finance mechanism for accounting mechanics and leasing-firms INDEX for separately evidenced financing provid
+- Headings: Panasonic Captive Finance (パナソニック顧客金融), Wiki route, TL;DR, 1. 会社・分析境界, 現行 Operating Company System, 2. 事業ラインと金融記述の境界, 3. FY2026 開示スケール, 4. 戦略と検証原則
+- First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/financial-regulators/jbic/, https://finwiki.zksc.io/ja/domains/leasing-firms/, https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/, https://finwiki.zksc.io/ja/leasing-firms/orix-corp/, https://finwiki.zksc.io/ja/leasing-firms/smfl/, https://finwiki.zksc.io/ja/domains/manufacturer-finance/, https://finwiki.zksc.io/ja/manufacturer-finance/hitachi-industrial-finance-platform/, https://finwiki.zksc.io/ja/manufacturer-finance/mitsubishi-heavy-export-finance/, https://finwiki.zksc.io/ja/manufacturer-finance/seiko-epson/, https://finwiki.zksc.io/ja/manufacturer-finance/sony-group-finance-arm/, https://finwiki.zksc.io/ja/manufacturer-finance/toyota-financial-services/
 
 ### Seiko Epson Corporation (セイコーエプソン)
 - URL: https://finwiki.zksc.io/ja/manufacturer-finance/seiko-epson/
@@ -10925,7 +10925,7 @@ Public pages listed: 1599
 - Type: wiki_entry
 - Canonical anchor: megabanks/sony-fg -> https://finwiki.zksc.io/ja/megabanks/sony-fg/
 - Summary: This entry sits under manufacturing index. Read it against Hitachi industrial finance, Panasonic captive finance, Toyota Financial Services, and MHI 輸出金融 for peer industrial-conglomerate finance arms. Pair with ソニーフィナンシャルグループ (SFG) for the entity profile, Sony FG partial spinoff case for the 2025 ca
-- Headings: Sony Group Finance Arm (ソニーグループ 金融事業アーム), Wiki route, TL;DR, 1. ソニーグループにおける金融部門の位置, 主要子会社 (FY2025 想定), 2. 製品 / 事業ライン (グループ全体マップ), 3. KPI (FY2024 連結 + SFG セグメント), 4. 戦略 (金融分離と再上場)
+- Headings: Sony Group Finance Arm (ソニーグループ 金融事業アーム), Wiki route, TL;DR, 1. パーシャルスピンオフ後の位置, 主要事業会社, 2. SFG の事業構造, 3. 開示の読み分け, 4. 戦略上の読み方
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/business/sony-fg-partial-spinoff-case/, https://finwiki.zksc.io/ja/corporate-strategy/japan-kabushiki-bunpai-spinoff-regime/, https://finwiki.zksc.io/ja/life-insurers/sony-life/, https://finwiki.zksc.io/ja/domains/manufacturer-finance/, https://finwiki.zksc.io/ja/manufacturer-finance/hitachi-industrial-finance-platform/, https://finwiki.zksc.io/ja/manufacturer-finance/mitsubishi-heavy-export-finance/, https://finwiki.zksc.io/ja/manufacturer-finance/panasonic-captive-finance/, https://finwiki.zksc.io/ja/manufacturer-finance/toyota-financial-services/, https://finwiki.zksc.io/ja/megabanks/sony-fg/, https://finwiki.zksc.io/ja/non-life-insurers/sony-insurance/, https://finwiki.zksc.io/ja/regional-banks/sony-bank/
 
 ### Toyota Financial Services (トヨタファイナンシャルサービス 製造業視点アンカー)
@@ -10938,7 +10938,7 @@ Public pages listed: 1599
 - Domain: manufacturer-finance
 - Type: wiki_entry
 - Canonical anchor: leasing-firms/toyota-financial -> https://finwiki.zksc.io/ja/leasing-firms/toyota-financial/
-- Summary: This entry sits under manufacturing index and complements Toyota Financial Services (JapanFG entity profile) and トヨタファイナンス (国内オペレーティング会社). The manufacturing entry exists to look at TFS from the parent OEM's manufacturing/strategy perspective: how Toyota uses the largest auto captive finance in the w
+- Summary: This entry sits under manufacturing index and complements Toyota Financial Services (JapanFG entity profile) and トヨタファイナンス (国内オペレーティング会社). The manufacturing entry looks at TFS from the parent OEM's manufacturing/strategy perspective: how Toyota connects sales channels, residual-value risk, funding a
 - Headings: Toyota Financial Services (トヨタファイナンシャルサービス 製造業視点アンカー), Wiki route, TL;DR, 1. 会社構造と製造業視点, 製造業視点のグループ構造, Toyota Motor 本体との関係, 2. 製品 / 事業ライン × 製造業視点での意義, 自動車 ABS との接続
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/card-issuers/toyota-finance/, https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/, https://finwiki.zksc.io/ja/leasing-firms/orix-corp/, https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/, https://finwiki.zksc.io/ja/leasing-firms/toyota-financial/, https://finwiki.zksc.io/ja/domains/manufacturer-finance/, https://finwiki.zksc.io/ja/manufacturer-finance/hitachi-industrial-finance-platform/, https://finwiki.zksc.io/ja/manufacturer-finance/mitsubishi-heavy-export-finance/, https://finwiki.zksc.io/ja/manufacturer-finance/panasonic-captive-finance/, https://finwiki.zksc.io/ja/manufacturer-finance/sony-group-finance-arm/, https://finwiki.zksc.io/ja/manufacturer-finance/toyota-motor/
 
@@ -11096,7 +11096,7 @@ Public pages listed: 1599
 - Type: wiki_entry
 - Entity node: kind=financial_group scope=japan_core status=anchor
 - Summary: This entry sits under megabanks INDEX. Read it against 楽天インシュアランスホールディングス for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: NTT ドコモ・フィナンシャルグループ (NDFG), Wiki route, TL;DR, 1. 会社概要, 設立スキーム（公開資料ベース）^[extracted], 親会社チェーン, 主要子会社・持分予定（公開発表ベース）, 重要年表（公開発表ベース）^[extracted]
+- Headings: NTT ドコモ・フィナンシャルグループ (NDFG), Wiki route, TL;DR, 1. 会社概要, 設立スキーム（公開資料ベース）^[extracted], 親会社チェーン, 主要子会社・持分（公開発表ベース）, 重要年表（公開発表ベース）^[extracted]
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/domains/megabanks/, https://finwiki.zksc.io/ja/megabanks/au-fh/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/megabanks/paypay-fg/, https://finwiki.zksc.io/ja/megabanks/sbi-hd/, https://finwiki.zksc.io/ja/megabanks/smfg/, https://finwiki.zksc.io/ja/non-life-insurers/rakuten-insurance-hd/, https://finwiki.zksc.io/ja/payment-firms/rakuten-fg/
 
 ### 日本郵政 (Japan Post Holdings)
@@ -11191,7 +11191,7 @@ Public pages listed: 1599
 - Type: wiki_entry
 - Entity node: kind=financial_group scope=japan_core status=anchor
 - Summary: This entry sits under megabanks INDEX. Read it against 三菱 UFJ FG (MUFG) for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: SBI 地銀ホールディングス, Wiki route, TL;DR, 1. 会社概要, 主要構成要素, 2020 統合プラットフォーム化の戦略意図, 2. 主要事業, パートナー地銀網（主要、時系列に出資した順）^[extracted]
+- Headings: SBI 地銀ホールディングス, Wiki route, TL;DR, 1. 会社概要, 主要構成要素, 2020 統合プラットフォーム化の戦略意図, 2. 主要事業, 提携履歴（主要）^[extracted]
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/domains/megabanks/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/megabanks/ndfg/, https://finwiki.zksc.io/ja/megabanks/sbi-hd/, https://finwiki.zksc.io/ja/megabanks/smfg/, https://finwiki.zksc.io/ja/regional-banks/chiba-bank/, https://finwiki.zksc.io/ja/regional-banks/concordia-fg/, https://finwiki.zksc.io/ja/regional-banks/fukuoka-fg/, https://finwiki.zksc.io/ja/regional-banks/jimoto-hd/, https://finwiki.zksc.io/ja/regional-banks/sbi-shinsei-bank/
 
 ### 株式会社三井住友銀行 (SMBC)
@@ -11232,7 +11232,7 @@ Public pages listed: 1599
 - Type: wiki_entry
 - Entity node: kind=financial_group scope=japan_core status=anchor
 - Summary: This entry sits under megabanks INDEX. Read it against ソニー生命保険 for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: ソニーフィナンシャルグループ (Sony FG), Wiki route, TL;DR, 1. 会社概要, 主要子会社・グループ構造（再上場後想定）, 主要株主（パーシャルスピンオフ後の構造、開示スキームベース）, 重要年表 ^[extracted], 2. 事業セグメント・マップ
+- Headings: ソニーフィナンシャルグループ (Sony FG), Wiki route, TL;DR, 1. 会社概要, 主要子会社・グループ構造（2025-10-01 以降）, 株式・会計上の位置, 重要年表 ^[extracted], 2. 事業セグメント・マップ
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/au-jibun-bank/, https://finwiki.zksc.io/ja/banking/minna-bank-baas-model/, https://finwiki.zksc.io/ja/banking/rakuten-bank/, https://finwiki.zksc.io/ja/insurance/saison-automobile-fire/, https://finwiki.zksc.io/ja/life-insurers/sony-life/, https://finwiki.zksc.io/ja/domains/megabanks/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/megabanks/ndfg/, https://finwiki.zksc.io/ja/megabanks/paypay-fg/, https://finwiki.zksc.io/ja/megabanks/sbi-hd/
 
 ### 三井住友銀行 (SMBC)
@@ -17160,6 +17160,15 @@ Public pages listed: 1599
 - Type: release_note
 - Headings: 表出典124件と公開事実の校正, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
 
+### 表出典168件と金融グループ事実の校正
+- URL: https://finwiki.zksc.io/releases/v2026.07.29-11.md
+- Raw Markdown: https://finwiki.zksc.io/releases/v2026.07.29-11.md
+- Source path: releases/v2026.07.29-11.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.29-11.md
+- Domain: releases
+- Type: release_note
+- Headings: 表出典168件と金融グループ事実の校正, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
+
 ### 事実鮮度イベント推論の精度改善
 - URL: https://finwiki.zksc.io/releases/v2026.07.29-2.md
 - Raw Markdown: https://finwiki.zksc.io/releases/v2026.07.29-2.md
@@ -19848,7 +19857,7 @@ Public pages listed: 1599
 - Domain: trading-company-finance
 - Type: wiki_entry
 - Summary: This entry sits under trading-company-finance INDEX. Read it against 東京センチュリー (the same-parent 外向けリース・asset finance platform — 伊藤忠 + みずほ FG の 2 軸株主構造、上場 8439) and 三菱商事フィナンシャルサービス (the closest peer 商社系 group-treasury arm). For the broader peer set, see 三井物産FS, 丸紅フィナンス, 住友商事FM. See banking index for t
-- Headings: 伊藤忠ファイナンス (ITOCHU Finance Corporation), Wiki route, 1. 会社概要, 伊藤忠系金融機能の構造, 2. 事業セグメント・マップ, 伊藤忠商事の事業構造との関係, 競合 / Peer, 4. 規制・政策
+- Headings: 伊藤忠ファイナンス (ITOCHU Finance Corporation), Wiki route, 1. 会社概要 ^[伊藤忠商事 IR: https://www.itochu.co.jp/ja/ir/; EDINET: https://disclosure2.edinet-fsa.go.jp/], 伊藤忠系金融機能の構造 ^[伊藤忠商事の有価証券報告書・関係会社開示と各社公式 IR に基づく比較。EDINET: https://disclosure2.edinet-fsa.go.jp/], 2. 事業セグメント・マップ ^[伊藤忠商事 IR / 有価証券報告書。業務範囲は非上場子会社の開示制約があるため最新関係会社開示を優先: https://www.itochu.co.jp/ja/ir/], 伊藤忠商事の事業構造との関係, 競合 / Peer ^[各親会社の有価証券報告書・公式 IR を横断した比較。EDINET: https://disclosure2.edinet-fsa.go.jp/], 4. 規制・政策
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/cooperative-banks/ja-mitsui-leasing/, https://finwiki.zksc.io/ja/finance/japan-acquisition-finance/, https://finwiki.zksc.io/ja/financial-regulators/boj-monetary-policy/, https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/, https://finwiki.zksc.io/ja/leasing-firms/mizuho-lease/, https://finwiki.zksc.io/ja/leasing-firms/smfl/, https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/payment-firms/famima-digital-one/, https://finwiki.zksc.io/ja/domains/trading-company-finance/
 
 ### 丸紅フィナンス (Marubeni Finance Corporation)
@@ -19861,7 +19870,7 @@ Public pages listed: 1599
 - Domain: trading-company-finance
 - Type: wiki_entry
 - Summary: This entry sits under trading-company-finance INDEX. Read it against みずほリース (the listed leasing arm where 丸紅 became a strategic shareholder in 2024) and 芙蓉総合リース (the 芙蓉グループ peer leasing arm — 丸紅 is part of the 芙蓉 community). For peer 商社系 group-treasury arms, see 三菱商事FS, 三井物産FS, 住友商事FM, 伊藤忠ファイナンス. Se
-- Headings: 丸紅フィナンス (Marubeni Finance Corporation), Wiki route, 1. 会社概要, 丸紅系金融機能の配置, 2. 事業セグメント・マップ, 競合 / Peer, 4. 規制・政策, Related
+- Headings: 丸紅フィナンス (Marubeni Finance Corporation), Wiki route, 1. 会社概要 ^[丸紅 IR: https://www.marubeni.com/jp/ir/; EDINET: https://disclosure2.edinet-fsa.go.jp/], 丸紅系金融機能の配置 ^[丸紅の有価証券報告書・関係会社開示と各社公式 IR に基づく比較。EDINET: https://disclosure2.edinet-fsa.go.jp/], 2. 事業セグメント・マップ ^[丸紅 IR / 有価証券報告書。業務範囲は非上場子会社の開示制約があるため最新関係会社開示を優先: https://www.marubeni.com/jp/ir/], 競合 / Peer ^[各親会社の有価証券報告書・公式 IR を横断した比較。EDINET: https://disclosure2.edinet-fsa.go.jp/], 4. 規制・政策, Related
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/cooperative-banks/ja-mitsui-leasing/, https://finwiki.zksc.io/ja/finance/japan-acquisition-finance/, https://finwiki.zksc.io/ja/financial-regulators/boj-monetary-policy/, https://finwiki.zksc.io/ja/leasing-firms/fuyo-lease/, https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/, https://finwiki.zksc.io/ja/leasing-firms/mizuho-lease/, https://finwiki.zksc.io/ja/leasing-firms/smfl/, https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/, https://finwiki.zksc.io/ja/megabanks/mizuho-bank/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/, https://finwiki.zksc.io/ja/non-life-insurers/tokio-marine/
 
 ### 三菱商事フィナンシャルサービス (Mitsubishi Corporation Financial Services)
@@ -19874,7 +19883,7 @@ Public pages listed: 1599
 - Domain: trading-company-finance
 - Type: wiki_entry
 - Summary: This entry sits under trading-company-finance INDEX. Read it against 三菱商事アセットマネジメント for the asset-management adjacent within the same parent, and 三井物産フィナンシャルサービス for the closest peer trading-company group-treasury arm. For the leasing peer set already covered in this wiki — 三菱HCキャピタル (the Mitsubishi
-- Headings: 三菱商事フィナンシャルサービス (Mitsubishi Corporation Financial Services), Wiki route, 1. 会社概要, 三菱グループ金融機能の三層構造, 2. 事業セグメント・マップ, 商社系 group-treasury の典型像, 競合 / Peer, 4. 規制・政策
+- Headings: 三菱商事フィナンシャルサービス (Mitsubishi Corporation Financial Services), Wiki route, 1. 会社概要 ^[三菱商事フィナンシャルサービス「会社概要」: https://www.mcfj.co.jp/corp/about.html], 三菱グループ金融機能の三層構造 ^[三菱商事フィナンシャルサービス「事業紹介」: https://www.mcfj.co.jp/bussiness/; 三菱商事 IR: https://www.mitsubishicorp.com/jp/ja/ir/], 2. 事業セグメント・マップ ^[三菱商事フィナンシャルサービス「事業紹介」: https://www.mcfj.co.jp/bussiness/], 商社系 group-treasury の典型像, 競合 / Peer ^[各親会社の有価証券報告書・公式 IR を横断した比較。EDINET: https://disclosure2.edinet-fsa.go.jp/], 4. 規制・政策
 - First resolved wikilinks: https://finwiki.zksc.io/ja/asset-managers/mitsubishi-corp-asset-management/, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/cooperative-banks/ja-mitsui-leasing/, https://finwiki.zksc.io/ja/finance/japan-acquisition-finance/, https://finwiki.zksc.io/ja/financial-regulators/boj-monetary-policy/, https://finwiki.zksc.io/ja/leasing-firms/fuyo-lease/, https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/, https://finwiki.zksc.io/ja/leasing-firms/mizuho-lease/, https://finwiki.zksc.io/ja/leasing-firms/smfl/, https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/megabanks/mufg-bank/
 
 ### 三井物産フィナンシャルサービス (Mitsui & Co. Financial Services)
@@ -19887,7 +19896,7 @@ Public pages listed: 1599
 - Domain: trading-company-finance
 - Type: wiki_entry
 - Summary: This entry sits under trading-company-finance INDEX. Read it against 三菱商事フィナンシャルサービス (the closest peer trading-company group-treasury arm) and JA三井リース (the same-parent leasing arm, 三井物産系 + 農林中金 JV). For the broader peer set, see 丸紅フィナンス, 住友商事FM, 伊藤忠ファイナンス. The Mitsui-group banking side is SMBC under
-- Headings: 三井物産フィナンシャルサービス (Mitsui & Co. Financial Services), Wiki route, 1. 会社概要, 三井物産の金融機能配置, 2. 事業セグメント・マップ, 三井物産の事業構造と金融機能, 競合 / Peer, 4. 規制・政策
+- Headings: 三井物産フィナンシャルサービス (Mitsui & Co. Financial Services), Wiki route, 1. 会社概要 ^[三井物産 IR: https://www.mitsui.com/jp/ja/ir/; EDINET: https://disclosure2.edinet-fsa.go.jp/], 三井物産の金融機能配置 ^[三井物産の有価証券報告書・関係会社開示と各社公式 IR に基づく比較。EDINET: https://disclosure2.edinet-fsa.go.jp/], 2. 事業セグメント・マップ ^[三井物産 IR / 有価証券報告書。業務範囲は非上場子会社の開示制約があるため最新関係会社開示を優先: https://www.mitsui.com/jp/ja/ir/], 三井物産の事業構造と金融機能, 競合 / Peer ^[各親会社の有価証券報告書・公式 IR を横断した比較。EDINET: https://disclosure2.edinet-fsa.go.jp/], 4. 規制・政策
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/cooperative-banks/ja-mitsui-leasing/, https://finwiki.zksc.io/ja/finance/japan-acquisition-finance/, https://finwiki.zksc.io/ja/financial-regulators/boj-monetary-policy/, https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/, https://finwiki.zksc.io/ja/leasing-firms/mizuho-lease/, https://finwiki.zksc.io/ja/leasing-firms/smfl/, https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/, https://finwiki.zksc.io/ja/megabanks/smfg/, https://finwiki.zksc.io/ja/megabanks/sumitomo-mitsui-banking-corp/, https://finwiki.zksc.io/ja/non-life-insurers/mitsui-sumitomo-insurance/, https://finwiki.zksc.io/ja/domains/trading-company-finance/
 
 ### 双日フィナンス (Sojitz Finance)
@@ -19900,7 +19909,7 @@ Public pages listed: 1599
 - Domain: trading-company-finance
 - Type: wiki_entry
 - Summary: This entry sits under trading-company-finance INDEX. Read it against 丸紅フィナンス (the closest mid-tier 商社系 group-treasury peer) and 伊藤忠ファイナンス (another peer 商社系 internal-treasury arm). For the mid-tier 商社 captive 比較, see 兼松リース (smaller mid-tier 商社系リース). For 5 大商社系の比較 baseline, see 三菱商事FS / 三井物産FS / 住友商事F
-- Headings: 双日フィナンス (Sojitz Finance), Wiki route, 1. 会社概要, 双日と銀行系列, 双日系金融機能の配置, 2. 事業セグメント・マップ, 双日の事業構造と金融機能, 競合 / Peer
+- Headings: 双日フィナンス (Sojitz Finance), Wiki route, 1. 会社概要 ^[双日 IR: https://www.sojitz.com/jp/ir/; EDINET: https://disclosure2.edinet-fsa.go.jp/], 双日と銀行系列, 双日系金融機能の配置 ^[双日の有価証券報告書・関係会社開示と各社公式 IR に基づく比較。EDINET: https://disclosure2.edinet-fsa.go.jp/], 2. 事業セグメント・マップ ^[双日 IR / 有価証券報告書。業務範囲は非上場子会社の開示制約があるため最新関係会社開示を優先: https://www.sojitz.com/jp/ir/], 双日の事業構造と金融機能, 競合 / Peer ^[各親会社の有価証券報告書・公式 IR を横断した比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/cooperative-banks/ja-mitsui-leasing/, https://finwiki.zksc.io/ja/finance/japan-acquisition-finance/, https://finwiki.zksc.io/ja/financial-regulators/boj-monetary-policy/, https://finwiki.zksc.io/ja/leasing-firms/kanematsu-leasing/, https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/, https://finwiki.zksc.io/ja/leasing-firms/mizuho-lease/, https://finwiki.zksc.io/ja/leasing-firms/smfl/, https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/megabanks/smfg/
 
 ### 住友商事フィナンシャルマネジメント (Sumitomo Corporation Financial Management)
@@ -19913,7 +19922,7 @@ Public pages listed: 1599
 - Domain: trading-company-finance
 - Type: wiki_entry
 - Summary: This entry sits under trading-company-finance INDEX. Read it against SMFL (the same-parent 外向けリース・asset finance JV with SMFG) and 三菱商事フィナンシャルサービス (the closest peer 商社系 group-treasury arm). For the broader peer set, see 三井物産FS, 伊藤忠ファイナンス, 丸紅フィナンス. See banking index for the broader regulatory boundary
-- Headings: 住友商事フィナンシャルマネジメント (Sumitomo Corporation Financial Management), Wiki route, 1. 会社概要, 住友グループ + SMFG 金融機能の配置, 2. 事業セグメント・マップ, 競合 / Peer, 4. 規制・政策, Related
+- Headings: 住友商事フィナンシャルマネジメント (Sumitomo Corporation Financial Management), Wiki route, 1. 会社概要 ^[住友商事フィナンシャルマネジメント「会社情報」: https://ssfm.co.jp/company/], 住友グループ + SMFG 金融機能の配置 ^[住友商事フィナンシャルマネジメント「事業紹介」: https://ssfm.co.jp/field/; 住友商事 IR: https://www.sumitomocorp.com/ja/jp/ir], 2. 事業セグメント・マップ ^[住友商事フィナンシャルマネジメント「事業紹介」: https://ssfm.co.jp/field/], 競合 / Peer ^[各親会社の有価証券報告書・公式 IR を横断した比較。EDINET: https://disclosure2.edinet-fsa.go.jp/], 4. 規制・政策, Related
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/cooperative-banks/ja-mitsui-leasing/, https://finwiki.zksc.io/ja/finance/japan-acquisition-finance/, https://finwiki.zksc.io/ja/financial-regulators/boj-monetary-policy/, https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/, https://finwiki.zksc.io/ja/leasing-firms/mizuho-lease/, https://finwiki.zksc.io/ja/leasing-firms/smfl/, https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/, https://finwiki.zksc.io/ja/life-insurers/sumitomo-life/, https://finwiki.zksc.io/ja/megabanks/smfg/, https://finwiki.zksc.io/ja/megabanks/sumitomo-mitsui-banking-corp/, https://finwiki.zksc.io/ja/non-life-insurers/mitsui-sumitomo-insurance/
 
 ### 豊田通商フィナンス (Toyota Tsusho Finance)
@@ -19926,7 +19935,7 @@ Public pages listed: 1599
 - Domain: trading-company-finance
 - Type: wiki_entry
 - Summary: This entry sits under trading-company-finance INDEX. Read it against トヨタファイナンシャルサービス (TFS) (the Toyota-group captive auto-finance holding, distinct from this 商社系 internal-treasury arm) and トヨタファイナンス (the auto-loan / Toyota dealer finance operating company). For peer 商社系 group-treasury arms, see 三菱商事
-- Headings: 豊田通商フィナンス (Toyota Tsusho Finance), Wiki route, 1. 会社概要, トヨタグループ金融機能の三系統, 2. 事業セグメント・マップ, 豊田通商の事業構造と金融機能, 競合 / Peer, 4. 規制・政策
+- Headings: 豊田通商フィナンス (Toyota Tsusho Finance), Wiki route, 1. 会社概要 ^[豊田通商 IR: https://www.toyota-tsusho.com/ir/; EDINET: https://disclosure2.edinet-fsa.go.jp/], トヨタグループ金融機能の三系統 ^[豊田通商・トヨタ自動車の有価証券報告書と各社公式 IR に基づく比較。EDINET: https://disclosure2.edinet-fsa.go.jp/], 2. 事業セグメント・マップ ^[豊田通商 IR / 有価証券報告書。業務範囲は非上場子会社の開示制約があるため最新関係会社開示を優先: https://www.toyota-tsusho.com/ir/], 豊田通商の事業構造と金融機能, 競合 / Peer ^[各親会社の有価証券報告書・公式 IR を横断した比較。EDINET: https://disclosure2.edinet-fsa.go.jp/], 4. 規制・政策
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/card-issuers/jcb/, https://finwiki.zksc.io/ja/card-issuers/toyota-finance/, https://finwiki.zksc.io/ja/cooperative-banks/ja-mitsui-leasing/, https://finwiki.zksc.io/ja/finance/japan-acquisition-finance/, https://finwiki.zksc.io/ja/financial-regulators/boj-monetary-policy/, https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/, https://finwiki.zksc.io/ja/leasing-firms/mizuho-lease/, https://finwiki.zksc.io/ja/leasing-firms/smfl/, https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/, https://finwiki.zksc.io/ja/leasing-firms/toyota-financial/, https://finwiki.zksc.io/ja/megabanks/mufg/
 
 ### trust-banks — Japanese trust banks & trust companies index
@@ -20004,7 +20013,7 @@ Public pages listed: 1599
 - Domain: trust-banks
 - Type: wiki_entry
 - Summary: This entry sits under trust-banks INDEX. Read it against 日本マスタートラスト信託銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 日本カストディ銀行 (CBJ), Wiki route, TL;DR, 1. 会社概要, 主要株主（公開資料、2020-07-27 現在）^[extracted], 重要性 ★, 合併歴史・前身, 2. 事業セグメント・マップ
+- Headings: 日本カストディ銀行 (CBJ), Wiki route, TL;DR, 1. 会社概要, 主要株主（公開資料、2020-07-27 現在）^[extracted], 重要性 ★, 合併歴史・前身, 2. 事業セグメント・マップ ^[日本カストディ銀行「ディスクロージャー誌 2025」: https://www.custody.jp/data/disclosure/pdf/disclosure202507.pdf]
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/life-insurers/dai-ichi-life/, https://finwiki.zksc.io/ja/life-insurers/nippon-life/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/domains/trust-banks/, https://finwiki.zksc.io/ja/trust-banks/master-trust-bank/, https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/
 
 ### Daito Mirai Trust / 大東みらい信託
@@ -20030,10 +20039,10 @@ Public pages listed: 1599
 - Domain: trust-banks
 - Type: wiki_entry
 - Summary: Daiwa Living Trust is a standalone trust-company route under trust-banks INDEX and is promoted from the Japan trust companies registry index. Read it with Japan trust-bank custody map, Japan acquisition finance, and Starts Trust.
-- Headings: 大和リビング信託 (Daiwa Living Trust), Wiki route, Overview, Entity Boundary, Business Role Map, Public Context, Research Checklist, Related
+- Headings: 大和リビング信託 (Daiwa Living Trust), Wiki route, Overview, Entity Boundary ^[金融庁の現行登録と会社公式サイト: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://www.daiwaliving-trust.co.jp/], Business Role Map, Public Context, Research Checklist, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/banking/japan-trust-bank-custody-map/, https://finwiki.zksc.io/ja/finance/japan-acquisition-finance/, https://finwiki.zksc.io/ja/policy-finance/japan-housing-finance-agency/, https://finwiki.zksc.io/ja/domains/trust-banks/, https://finwiki.zksc.io/ja/trust-banks/starts-trust/, https://finwiki.zksc.io/ja/trust-banks/trust-companies-japan-index/
 
-### エスクロー・エージェント・ジャパン信託 (Escrow Agent Japan Trust)
+### ミトラ信託 (Mitra Trust)
 - URL: https://finwiki.zksc.io/ja/trust-banks/escrow-agent-japan-trust/
 - Japanese HTML: https://finwiki.zksc.io/ja/trust-banks/escrow-agent-japan-trust/
 - English alternate: https://finwiki.zksc.io/en/trust-banks/escrow-agent-japan-trust/
@@ -20042,8 +20051,8 @@ Public pages listed: 1599
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/trust-banks/escrow-agent-japan-trust.md
 - Domain: trust-banks
 - Type: wiki_entry
-- Summary: Escrow Agent Japan Trust is a standalone trust-company route under trust-banks INDEX and is promoted from the Japan trust companies registry index. Read it with Japan MBO / squeeze-out process, Japan acquisition finance, and Japan trust-bank custody map.
-- Headings: エスクロー・エージェント・ジャパン信託 (Escrow Agent Japan Trust), Wiki route, Overview, Entity Boundary, Business Role Map, Public Context, Research Checklist, Related
+- Summary: Mitra Trust is a standalone trust-company route under trust-banks INDEX and is promoted from the Japan trust companies registry index. The repository path retains the former company name for link stability. Read it with Japan MBO / squeeze-out process, Japan acquisition finance, and Japan trust-bank
+- Headings: ミトラ信託 (Mitra Trust), Wiki route, Overview, Entity Boundary ^[金融庁「運用型信託会社免許・管理型信託会社登録一覧」（2026-06-30 時点）: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; ミトラ信託「会社概要」: https://eajt.co.jp/information/index.html], Business Role Map ^[ミトラ信託 公式サイト: https://eajt.co.jp/], Public Context, Research Checklist, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/banking/japan-trust-bank-custody-map/, https://finwiki.zksc.io/ja/finance/japan-acquisition-finance/, https://finwiki.zksc.io/ja/finance/japan-mbo-and-squeeze-out-process/, https://finwiki.zksc.io/ja/domains/trust-banks/, https://finwiki.zksc.io/ja/trust-banks/trust-companies-japan-index/
 
 ### フィンテックグローバル信託 (Fintech Global Trust)
@@ -20056,7 +20065,7 @@ Public pages listed: 1599
 - Domain: trust-banks
 - Type: wiki_entry
 - Summary: Fintech Global Trust is a standalone trust-company route under trust-banks INDEX and is promoted from the Japan trust companies registry index. Read it with Japan acquisition finance, cross-border M&A Japan, and Japan trust-bank custody map.
-- Headings: フィンテックグローバル信託 (Fintech Global Trust), Wiki route, Overview, Entity Boundary, Business Role Map, Public Context, Research Checklist, Related
+- Headings: フィンテックグローバル信託 (Fintech Global Trust), Wiki route, Overview, Entity Boundary ^[金融庁の現行免許と会社公式サイト: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://fgitr.co.jp/], Business Role Map ^[フィンテックグローバル信託 公式サイト: https://fgitr.co.jp/], Public Context, Research Checklist, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/banking/japan-trust-bank-custody-map/, https://finwiki.zksc.io/ja/finance/cross-border-m-a-japan/, https://finwiki.zksc.io/ja/finance/japan-acquisition-finance/, https://finwiki.zksc.io/ja/domains/trust-banks/, https://finwiki.zksc.io/ja/trust-banks/fpg-trust/, https://finwiki.zksc.io/ja/trust-banks/trust-companies-japan-index/
 
 ### First Trust Japan / ファースト信託
@@ -20082,7 +20091,7 @@ Public pages listed: 1599
 - Domain: trust-banks
 - Type: wiki_entry
 - Summary: FPG Trust is a standalone trust-company route under trust-banks INDEX and is promoted from the Japan trust companies registry index. Read it with Japan acquisition finance, cross-border M&A Japan, and Japan trust-bank custody map.
-- Headings: FPG信託 (FPG Trust), Wiki route, Overview, Entity Boundary, Business Role Map, Public Context, Research Checklist, Related
+- Headings: FPG信託 (FPG Trust), Wiki route, Overview, Entity Boundary ^[金融庁の現行免許と FPG 信託会社概要: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://www.fpgtrust.jp/profile/index.html], Business Role Map ^[FPG 信託「信託サービス」: https://www.fpgtrust.jp/service/index.html], Public Context, Research Checklist, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/banking/japan-trust-bank-custody-map/, https://finwiki.zksc.io/ja/finance/cross-border-m-a-japan/, https://finwiki.zksc.io/ja/finance/japan-acquisition-finance/, https://finwiki.zksc.io/ja/domains/trust-banks/, https://finwiki.zksc.io/ja/trust-banks/trust-companies-japan-index/
 
 ### ふくし信託 (Fukushi Trust)
@@ -20095,7 +20104,7 @@ Public pages listed: 1599
 - Domain: trust-banks
 - Type: wiki_entry
 - Summary: Fukushi Trust is a standalone trust-company route under trust-banks INDEX and is promoted from the Japan trust companies registry index. Read it with Japan trust-bank custody map, Japan foundation requirements, and Hogaraka Trust.
-- Headings: ふくし信託 (Fukushi Trust), Wiki route, Overview, Entity Boundary, Business Role Map, Public Context, Research Checklist, Related
+- Headings: ふくし信託 (Fukushi Trust), Wiki route, Overview, Entity Boundary ^[金融庁の現行登録と会社公式サイト: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://www.fukushitrust.com/], Business Role Map, Public Context, Research Checklist, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/banking/japan-trust-bank-custody-map/, https://finwiki.zksc.io/ja/non-profit/japan-general-foundation-establishment-requirements/, https://finwiki.zksc.io/ja/domains/trust-banks/, https://finwiki.zksc.io/ja/trust-banks/hogaraka-trust/, https://finwiki.zksc.io/ja/trust-banks/trust-companies-japan-index/
 
 ### Greif Trust / グライフ信託
@@ -20108,7 +20117,7 @@ Public pages listed: 1599
 - Domain: trust-banks
 - Type: wiki_entry
 - Summary: Wiki route: trust-banks/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/greif-trust
-- Headings: Greif Trust / グライフ信託, Overview, Entity Boundary, Business Role Map, Public Context, Research Checklist, Related, Sources
+- Headings: Greif Trust / グライフ信託, Overview, Entity Boundary, Business Role Map ^[株式会社グライフ信託「会社概要」: https://www.greif-trust.com/company/; 金融庁の現行登録: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf], Public Context, Research Checklist, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/financial-licenses/securities-license-stack/, https://finwiki.zksc.io/ja/domains/trust-banks/, https://finwiki.zksc.io/ja/trust-banks/greif-trust/, https://finwiki.zksc.io/ja/trust-banks/miyoshi-smile-trust/, https://finwiki.zksc.io/ja/trust-banks/sumire-regional-trust/, https://finwiki.zksc.io/ja/trust-banks/trust-companies-japan-index/
 
 ### ほがらか信託 (Hogaraka Trust)
@@ -20121,7 +20130,7 @@ Public pages listed: 1599
 - Domain: trust-banks
 - Type: wiki_entry
 - Summary: Hogaraka Trust is a standalone trust-company route under trust-banks INDEX and is promoted from the Japan trust companies registry index. Read it with retail, Japan trust-bank custody map, and Daiwa Living Trust.
-- Headings: ほがらか信託 (Hogaraka Trust), Wiki route, Overview, Entity Boundary, Business Role Map, Public Context, Research Checklist, Related
+- Headings: ほがらか信託 (Hogaraka Trust), Wiki route, Overview, Entity Boundary ^[金融庁の現行登録とほがらか信託会社概要: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://www.hogaraka-trust.co.jp/company/], Business Role Map, Public Context, Research Checklist, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/banking/japan-trust-bank-custody-map/, https://finwiki.zksc.io/ja/domains/retail/, https://finwiki.zksc.io/ja/domains/trust-banks/, https://finwiki.zksc.io/ja/trust-banks/daiwa-living-trust/, https://finwiki.zksc.io/ja/trust-banks/trust-companies-japan-index/
 
 ### JIA Trust / JIA信託
@@ -20134,7 +20143,7 @@ Public pages listed: 1599
 - Domain: trust-banks
 - Type: wiki_entry
 - Summary: Wiki route: trust-banks/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/jia-trust
-- Headings: JIA Trust / JIA信託, Overview, Entity Boundary, Business Role Map, Public Context, Research Checklist, Related, Sources
+- Headings: JIA Trust / JIA信託, Overview, Entity Boundary, Business Role Map ^[JIA 信託 公式サイト: https://www.jiatrust.co.jp/; 金融庁の現行免許: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf], Public Context, Research Checklist, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/finance/japan-acquisition-finance/, https://finwiki.zksc.io/ja/securities/financial-instruments-business-operators-japan-index/, https://finwiki.zksc.io/ja/domains/trust-banks/, https://finwiki.zksc.io/ja/trust-banks/capital-trust/, https://finwiki.zksc.io/ja/trust-banks/jia-trust/, https://finwiki.zksc.io/ja/trust-banks/trust-companies-japan-index/
 
 ### 日証金信託銀行 (JSF Trust and Banking)
@@ -20147,7 +20156,7 @@ Public pages listed: 1599
 - Domain: trust-banks
 - Type: wiki_entry
 - Summary: JSF Trust and Banking is the trust-bank subsidiary route for Japan Securities Finance. Read it with margin trading / securities finance, stock lending, Japan market infrastructure, and trust-bank custody map.
-- Headings: 日証金信託銀行 (JSF Trust and Banking), Wiki route, Overview, Entity Boundary, Business Line Map, Public Context, Regulatory / Research Notes, Caveats
+- Headings: 日証金信託銀行 (JSF Trust and Banking), Wiki route, Overview, Entity Boundary ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; 日証金信託銀行「会社概要」: https://www.jsftb.co.jp/company/outline.html], Business Line Map, Public Context, Regulatory / Research Notes, Caveats
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/banking/japan-trust-bank-custody-map/, https://finwiki.zksc.io/ja/domains/exchanges/, https://finwiki.zksc.io/ja/financial-licenses/securities-license-stack/, https://finwiki.zksc.io/ja/financial-regulators/japan-securities-finance/, https://finwiki.zksc.io/ja/securities/financial-instruments-business-operators-japan-index/, https://finwiki.zksc.io/ja/securities/japan-margin-trading-and-securities-finance/, https://finwiki.zksc.io/ja/securities/japan-market-infrastructure-map/, https://finwiki.zksc.io/ja/securities/japan-stock-lending-market-route/, https://finwiki.zksc.io/ja/securities/osaka-digital-exchange/, https://finwiki.zksc.io/ja/domains/trust-banks/, https://finwiki.zksc.io/ja/trust-banks/custody-bank/
 
 ### JValue Trust / ジェイバリュー信託
@@ -20199,7 +20208,7 @@ Public pages listed: 1599
 - Domain: trust-banks
 - Type: wiki_entry
 - Summary: Wiki route: trust-banks/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/kotaeru-trust
-- Headings: Kotaeru Trust / コタエル信託, Overview, Entity Boundary, Business Role Map, Public Context, Research Checklist, Related, Sources
+- Headings: Kotaeru Trust / コタエル信託, Overview, Entity Boundary, Business Role Map ^[コタエル信託「ストックオプション信託」: https://trust.kotaeru.co.jp/service/stockoption/; 金融庁の現行登録: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf], Public Context, Research Checklist, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/finance/japan-large-shareholding-disclosure/, https://finwiki.zksc.io/ja/financial-licenses/securities-license-stack/, https://finwiki.zksc.io/ja/domains/trust-banks/, https://finwiki.zksc.io/ja/trust-banks/kotaeru-trust/, https://finwiki.zksc.io/ja/trust-banks/trust-companies-japan-index/
 
 ### Kyodo Trust / 共同信託
@@ -20225,7 +20234,7 @@ Public pages listed: 1599
 - Domain: trust-banks
 - Type: wiki_entry
 - Summary: LGT Wealth Management Trust is a standalone trust-company route under trust-banks INDEX and is promoted from the Japan trust companies registry index. Read it with UBS Japan, SMBC Trust Bank, Mitsubishi UFJ Trust Bank, and Japan trust-bank custody map.
-- Headings: LGTウェルスマネジメント信託 (LGT Wealth Management Trust), Wiki route, Overview, Entity Boundary, Business Role Map, Public Context, Research Checklist, Related
+- Headings: LGTウェルスマネジメント信託 (LGT Wealth Management Trust), Wiki route, Overview, Entity Boundary ^[金融庁の現行免許と LGT 会社情報: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://www.lgt.com/jp-jp/company-information], Business Role Map ^[LGT「LGT in Japan」: https://www.lgt.com/jp-jp/about-us/lgt-in-japan], Public Context, Research Checklist, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/banking/japan-trust-bank-custody-map/, https://finwiki.zksc.io/ja/foreign-financial-institutions/ubs-japan/, https://finwiki.zksc.io/ja/domains/trust-banks/, https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/, https://finwiki.zksc.io/ja/trust-banks/smbc-trust-bank/, https://finwiki.zksc.io/ja/trust-banks/trust-companies-japan-index/
 
 ### Lombard Odier Trust Japan / ロンバー・オディエ信託
@@ -20238,7 +20247,7 @@ Public pages listed: 1599
 - Domain: trust-banks
 - Type: wiki_entry
 - Summary: Wiki route: trust-banks/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/lombard-odier-trust
-- Headings: Lombard Odier Trust Japan / ロンバー・オディエ信託, Overview, Entity Boundary, Business Role Map, Public Context, Research Checklist, Related, Sources
+- Headings: Lombard Odier Trust Japan / ロンバー・オディエ信託, Overview, Entity Boundary, Business Role Map ^[金融庁の現行免許と Lombard Odier 東京拠点: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://asia.lombardodier.com/ja/home/offices/tokyo.html], Public Context, Research Checklist, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/financial-licenses/foreign-financial-group-adjacent-licenses/, https://finwiki.zksc.io/ja/financial-licenses/securities-license-stack/, https://finwiki.zksc.io/ja/domains/trust-banks/, https://finwiki.zksc.io/ja/trust-banks/lgt-wealth-management-trust/, https://finwiki.zksc.io/ja/trust-banks/lombard-odier-trust/, https://finwiki.zksc.io/ja/trust-banks/trust-companies-japan-index/
 
 ### 日本マスタートラスト信託銀行
@@ -20251,7 +20260,7 @@ Public pages listed: 1599
 - Domain: trust-banks
 - Type: wiki_entry
 - Summary: This entry sits under trust-banks INDEX. Read it against 日本カストディ銀行 (CBJ) for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 日本マスタートラスト信託銀行, Wiki route, TL;DR, 1. 会社概要, 主要株主（公開資料）^[extracted], 機能ポジション, 重要年表 ^[extracted], 2. 事業セグメント・マップ
+- Headings: 日本マスタートラスト信託銀行, Wiki route, TL;DR, 1. 会社概要, 主要株主（公開資料）^[extracted], 機能ポジション, 重要年表 ^[extracted], 2. 事業セグメント・マップ ^[日本マスタートラスト信託銀行「会社概要」および 2024 年度決算: https://www.mastertrust.co.jp/company/information.html; https://www.mastertrust.co.jp/assets/pdf/financial/zm20250521.pdf]
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/cooperative-banks/norinchukin/, https://finwiki.zksc.io/ja/life-insurers/meiji-yasuda/, https://finwiki.zksc.io/ja/life-insurers/nippon-life/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/domains/trust-banks/, https://finwiki.zksc.io/ja/trust-banks/custody-bank/, https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/
 
 ### Midori Trust / みどり信託
@@ -20277,7 +20286,7 @@ Public pages listed: 1599
 - Domain: trust-banks
 - Type: wiki_entry
 - Summary: This entry sits under trust-banks INDEX (its domain route). Read it against 三井住友信託銀行 (SMTB) and みずほ信託銀行 for peer / contrast (the other megabank-group trust banks), and against the FSA plus banking for the supervisory / system boundary. The commercial-bank sibling in the same group is 三菱UFJ銀行.
-- Headings: 三菱UFJ信託銀行 (MUTB), Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
+- Headings: 三菱UFJ信託銀行 (MUTB), Wiki route, TL;DR, 1. License / group boundary ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; 三菱UFJ信託銀行「会社概要」: https://www.tr.mufg.jp/ippan/about/index.html], 2. Operating model, 3. Why this page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/financial-regulators/fsa/, https://finwiki.zksc.io/ja/fintech/jp-stablecoin-progmat/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/megabanks/mufg-bank/, https://finwiki.zksc.io/ja/domains/trust-banks/, https://finwiki.zksc.io/ja/trust-banks/custody-bank/, https://finwiki.zksc.io/ja/trust-banks/master-trust-bank/, https://finwiki.zksc.io/ja/trust-banks/mizuho-trust-bank/, https://finwiki.zksc.io/ja/trust-banks/smtb/
 
 ### Miyoshi Smile Trust / 三好スマイル信託
@@ -20316,7 +20325,7 @@ Public pages listed: 1599
 - Domain: trust-banks
 - Type: wiki_entry
 - Summary: This entry sits under trust-banks INDEX (its domain route). Read it against 三菱UFJ信託銀行 (MUTB) and 三井住友信託銀行 (SMTB) for peer / contrast (the other megabank-group trust banks), and against the FSA plus banking for the supervisory / system boundary. The commercial-bank sibling in the same group is みずほ銀行.
-- Headings: みずほ信託銀行 (Mizuho Trust & Banking), Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
+- Headings: みずほ信託銀行 (Mizuho Trust & Banking), Wiki route, TL;DR, 1. License / group boundary ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; みずほ信託銀行「会社概要」: https://www.mizuho-tb.co.jp/company/about/info.html], 2. Operating model, 3. Why this page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/asset-managers/asset-management-one/, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/financial-regulators/fsa/, https://finwiki.zksc.io/ja/megabanks/mizuho-bank/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/, https://finwiki.zksc.io/ja/securities-firms/mizuho-securities/, https://finwiki.zksc.io/ja/domains/trust-banks/, https://finwiki.zksc.io/ja/trust-banks/master-trust-bank/, https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/, https://finwiki.zksc.io/ja/trust-banks/smtb/
 
 ### Nichizei Trust / 日税信託
@@ -20342,7 +20351,7 @@ Public pages listed: 1599
 - Domain: trust-banks
 - Type: wiki_entry
 - Summary: This entry sits under trust-banks INDEX (its domain route). Read it against 三菱UFJ信託銀行 (MUTB) for megabank-group peer / contrast, and against the FSA plus banking for the supervisory / system boundary. Its parent — the cooperative central bank — is 農林中央金庫.
-- Headings: 農中信託銀行 (Norinchukin Trust & Banking), Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
+- Headings: 農中信託銀行 (Norinchukin Trust & Banking), Wiki route, TL;DR, 1. License / group boundary ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; 農中信託銀行「会社概要」: https://www.nochutb.co.jp/about/summary.html], 2. Operating model, 3. Why this page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/, https://finwiki.zksc.io/ja/banking/ja-bank-system-japan/, https://finwiki.zksc.io/ja/banking/jf-marine-bank-system-japan/, https://finwiki.zksc.io/ja/cooperative-banks/norinchukin/, https://finwiki.zksc.io/ja/financial-regulators/fsa/, https://finwiki.zksc.io/ja/domains/trust-banks/, https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/
 
 ### 野村信託銀行 (Nomura Trust Bank)
@@ -20355,8 +20364,8 @@ Public pages listed: 1599
 - Domain: trust-banks
 - Type: wiki_entry
 - Summary: This entry sits under trust-banks INDEX. Read it with banking index for adjacent context, 野村 HD for parent group context, SMTB / MUTB for peer trust-bank comparison, and 金融ライセンス INDEX for the broader regulatory boundary.
-- Headings: 野村信託銀行 (Nomura Trust Bank), Wiki route, 1. 法人・ライセンス境界, 2. 親会社 野村 HD 構造, 4. 主要業務 — 証券グループ付随の信託機能, 5. 重要年表, 6. ピア比較 — 信託銀行マーケット, 7. 監督・規制
-- First resolved wikilinks: https://finwiki.zksc.io/ja/asset-managers/nomura-asset-management/, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/post-megabank-positioning/, https://finwiki.zksc.io/ja/domains/financial-licenses/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/regional-banks/daiwa-next-bank/, https://finwiki.zksc.io/ja/regional-banks/sbi-shinsei-bank/, https://finwiki.zksc.io/ja/securities-firms/nomura-hd/, https://finwiki.zksc.io/ja/domains/securities/, https://finwiki.zksc.io/ja/domains/trust-banks/, https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/
+- Headings: 野村信託銀行 (Nomura Trust Bank), Wiki route, 1. 法人・ライセンス境界 ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; 野村信託銀行「会社概要」（2026-05-13 時点）: https://www.nomura-trust.co.jp/company/corp.html], 2. 親会社 野村 HD 構造, 4. 主要業務 — 証券グループ付随の信託機能, 5. 重要年表 ^[野村信託銀行「会社概要」「仕事を知る」: https://www.nomura-trust.co.jp/company/corp.html; https://www.nomura-trust.co.jp/recruit/graduate/business/], 6. ピア比較 — 法人境界と主力機能 ^[各社公式会社情報: https://www.smtb.jp/corporate/summary/; https://www.tr.mufg.jp/ippan/about/index.html; https://www.mizuho-tb.co.jp/company/about/info.html; https://www.nomura-trust.co.jp/company/business.html; https://www.bank-daiwa.co.jp/about/outline/; https://www.shinseitrust.com/corporate/about.html], 7. 監督・規制
+- First resolved wikilinks: https://finwiki.zksc.io/ja/asset-managers/nomura-asset-management/, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/post-megabank-positioning/, https://finwiki.zksc.io/ja/domains/financial-licenses/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/regional-banks/daiwa-next-bank/, https://finwiki.zksc.io/ja/securities-firms/nomura-hd/, https://finwiki.zksc.io/ja/domains/securities/, https://finwiki.zksc.io/ja/domains/trust-banks/, https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/, https://finwiki.zksc.io/ja/trust-banks/mizuho-trust-bank/
 
 ### OAG信託 (OAG Trust)
 - URL: https://finwiki.zksc.io/ja/trust-banks/oag-trust/
@@ -20368,10 +20377,10 @@ Public pages listed: 1599
 - Domain: trust-banks
 - Type: wiki_entry
 - Summary: OAG Trust is a standalone trust-company route under trust-banks INDEX and is promoted from the Japan trust companies registry index. Read it with Japan trust-bank custody map, Japan acquisition finance, and Yamada Escrow Trust.
-- Headings: OAG信託 (OAG Trust), Wiki route, Overview, Entity Boundary, Business Role Map, Public Context, Research Checklist, Related
+- Headings: OAG信託 (OAG Trust), Wiki route, Overview, Entity Boundary ^[金融庁の現行登録と OAG 信託公式サイト: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://oag-trust.com/], Business Role Map, Public Context, Research Checklist, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/banking/japan-trust-bank-custody-map/, https://finwiki.zksc.io/ja/finance/japan-acquisition-finance/, https://finwiki.zksc.io/ja/domains/trust-banks/, https://finwiki.zksc.io/ja/trust-banks/escrow-agent-japan-trust/, https://finwiki.zksc.io/ja/trust-banks/trust-companies-japan-index/, https://finwiki.zksc.io/ja/trust-banks/yamada-escrow-trust/
 
-### ノーザン・トラスト・ジャパン (Northern Trust Japan)
+### ノーザン・トラスト・グローバル・インベストメンツ (Northern Trust Japan)
 - URL: https://finwiki.zksc.io/ja/trust-banks/orient-trust-japan/
 - Japanese HTML: https://finwiki.zksc.io/ja/trust-banks/orient-trust-japan/
 - English alternate: https://finwiki.zksc.io/en/trust-banks/orient-trust-japan/
@@ -20380,9 +20389,9 @@ Public pages listed: 1599
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/trust-banks/orient-trust-japan.md
 - Domain: trust-banks
 - Type: wiki_entry
-- Summary: This entry sits under trust-banks INDEX as a foreign-affiliated trust / asset-servicing subsidiary anchor. Read it against State Street Japan / BNY Mellon Japan / JPMorgan Japan for the foreign custodian / asset-servicing peer cluster, マスタートラスト信託銀行 / 三菱 UFJ 信託銀行 for the domestic trust peer cluster,
-- Headings: ノーザン・トラスト・ジャパン (Northern Trust Japan), Wiki route, 1. 親会社概要, 2. 日本拠点法人構成（公開情報ベース）, 3. 業務ライン, 主要顧客タイプ, 4. 親会社・日本の競合関係, 米 3 大カストディの相対位置
-- First resolved wikilinks: https://finwiki.zksc.io/ja/banking/japan-trust-bank-custody-map/, https://finwiki.zksc.io/ja/card-issuers/orico/, https://finwiki.zksc.io/ja/foreign-financial-institutions/bny-mellon-japan/, https://finwiki.zksc.io/ja/foreign-financial-institutions/citigroup-japan/, https://finwiki.zksc.io/ja/foreign-financial-institutions/jpmorgan-japan/, https://finwiki.zksc.io/ja/foreign-financial-institutions/state-street-japan/, https://finwiki.zksc.io/ja/foreign-financial-institutions/ubs-japan/, https://finwiki.zksc.io/ja/life-insurers/dai-ichi-life/, https://finwiki.zksc.io/ja/life-insurers/nippon-life/, https://finwiki.zksc.io/ja/non-life-insurers/tokio-marine/, https://finwiki.zksc.io/ja/domains/trust-banks/, https://finwiki.zksc.io/ja/trust-banks/lgt-wealth-management-trust/
+- Summary: This entry remains under trust-banks INDEX as a classification boundary. It records that Northern Trust's confirmed Japan entity is an asset manager / financial instruments operator, not a row in the current trust-company registry. Use foreign financial institutions and asset managers for substantiv
+- Headings: ノーザン・トラスト・グローバル・インベストメンツ (Northern Trust Japan), Wiki route, 1. 親会社概要 ^[Northern Trust「What We Do」「About Us」: https://www.northerntrust.com/japan/what-we-do; https://www.northerntrust.com/japan/about-us], 2. 日本拠点法人構成（公開情報ベース）, 3. 日本法人の業務・登録境界 ^[Northern Trust 日本公式ページ・東京拠点情報: https://www.northerntrust.com/japan; https://www.northerntrust.com/asia-pac/about-us/locations/jp/tokyo-minato-ku-ark-hills-sengokuyama-mori-tower], 主要顧客タイプ, 4. 日本での entity boundary ^[Northern Trust 日本公式ページと金融庁の現行信託会社一覧: https://www.northerntrust.com/japan; https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf], グローバル事業と日本法人の切り分け
+- First resolved wikilinks: https://finwiki.zksc.io/ja/domains/asset-managers/, https://finwiki.zksc.io/ja/banking/japan-trust-bank-custody-map/, https://finwiki.zksc.io/ja/domains/foreign-financial-institutions/, https://finwiki.zksc.io/ja/foreign-financial-institutions/bny-mellon-japan/, https://finwiki.zksc.io/ja/foreign-financial-institutions/citigroup-japan/, https://finwiki.zksc.io/ja/foreign-financial-institutions/jpmorgan-japan/, https://finwiki.zksc.io/ja/foreign-financial-institutions/state-street-japan/, https://finwiki.zksc.io/ja/foreign-financial-institutions/ubs-japan/, https://finwiki.zksc.io/ja/domains/trust-banks/, https://finwiki.zksc.io/ja/trust-banks/lgt-wealth-management-trust/, https://finwiki.zksc.io/ja/trust-banks/master-trust-bank/, https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/
 
 ### オリックス銀行 (ORIX Bank)
 - URL: https://finwiki.zksc.io/ja/trust-banks/orix-bank/
@@ -20394,7 +20403,7 @@ Public pages listed: 1599
 - Domain: trust-banks
 - Type: wiki_entry
 - Summary: This entry sits under trust-banks INDEX (its domain route). Read it against 三菱UFJ信託銀行 (MUTB) for the contrast with a full-service megabank-group trust bank — ORIX Bank is a different animal — and against the FSA plus banking for the supervisory / system boundary. Its current parent is ORIX.
-- Headings: オリックス銀行 (ORIX Bank), Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
+- Headings: オリックス銀行 (ORIX Bank), Wiki route, TL;DR, 1. License / group boundary ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; オリックス銀行「会社概要」: https://www.orixbank.co.jp/aboutus/profile/company.html; ORIX と大和ネクスト銀行の 2026-04-27 公表: https://www.orix.co.jp/grp/company/newsroom/newsrelease/pdf/260427ORIXJ.pdf; https://www.bank-daiwa.co.jp/info/2026/pdf/042702.pdf], 2. Operating model, 3. Why this page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/post-megabank-positioning/, https://finwiki.zksc.io/ja/financial-regulators/fsa/, https://finwiki.zksc.io/ja/leasing-firms/orix-corp/, https://finwiki.zksc.io/ja/regional-banks/daiwa-next-bank/, https://finwiki.zksc.io/ja/securities-firms/daiwa-sg/, https://finwiki.zksc.io/ja/domains/trust-banks/, https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/
 
 ### パソナ知財信託 (Pasona IP Trust)
@@ -20407,7 +20416,7 @@ Public pages listed: 1599
 - Domain: trust-banks
 - Type: wiki_entry
 - Summary: Pasona IP Trust is a standalone trust-company route under trust-banks INDEX and is promoted from the Japan trust companies registry index. Read it with Japan acquisition finance, business cases, and Japan trust-bank custody map.
-- Headings: パソナ知財信託 (Pasona IP Trust), Wiki route, Overview, Entity Boundary, Business Role Map, Public Context, Research Checklist, Related
+- Headings: パソナ知財信託 (Pasona IP Trust), Wiki route, Overview, Entity Boundary ^[金融庁の現行登録とパソナ知財信託会社情報: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://pasona-ipt.co.jp/company/], Business Role Map, Public Context, Research Checklist, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/banking/japan-trust-bank-custody-map/, https://finwiki.zksc.io/ja/domains/business/, https://finwiki.zksc.io/ja/finance/japan-acquisition-finance/, https://finwiki.zksc.io/ja/domains/trust-banks/, https://finwiki.zksc.io/ja/trust-banks/trust-companies-japan-index/
 
 ### Ryugaku Anshin Trust / 留学安心信託
@@ -20433,7 +20442,7 @@ Public pages listed: 1599
 - Domain: trust-banks
 - Type: wiki_entry
 - Summary: SBI Shinsei Trust Bank is a licensed trust-bank operating-company page under trust-banks INDEX. Read it with SBI Shinsei Bank, SBI Holdings, Mitsubishi UFJ Trust Bank, Progmat, Japan stablecoin regulation, and Japan trust-bank custody map.
-- Headings: SBI新生信託銀行 (SBI Shinsei Trust Bank), Wiki route, Overview, Entity Boundary, Business Line Map, Public Context, Regulatory / Research Notes, Caveats
+- Headings: SBI新生信託銀行 (SBI Shinsei Trust Bank), Wiki route, Overview, Entity Boundary ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; SBI新生信託銀行「会社概要」: https://www.shinseitrust.com/corporate/about.html], Business Line Map, Public Context, Regulatory / Research Notes, Caveats
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/banking/japan-trust-bank-custody-map/, https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/, https://finwiki.zksc.io/ja/finance/japan-acquisition-finance/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/, https://finwiki.zksc.io/ja/fintech/jp-stablecoin-progmat/, https://finwiki.zksc.io/ja/megabanks/sbi-hd/, https://finwiki.zksc.io/ja/payment-firms/progmat/, https://finwiki.zksc.io/ja/regional-banks/sbi-shinsei-bank/, https://finwiki.zksc.io/ja/securities-firms/sbi-securities/, https://finwiki.zksc.io/ja/securities/osaka-digital-exchange/, https://finwiki.zksc.io/ja/domains/trust-banks/
 
 ### 積水ハウス信託 (Sekisui House Trust)
@@ -20446,7 +20455,7 @@ Public pages listed: 1599
 - Domain: trust-banks
 - Type: wiki_entry
 - Summary: Sekisui House Trust is a standalone trust-company route under trust-banks INDEX and is promoted from the Japan trust companies registry index. Read it with Japan trust-bank custody map, Japan Housing Finance Agency, and Daiwa Living Trust.
-- Headings: 積水ハウス信託 (Sekisui House Trust), Wiki route, Overview, Entity Boundary, Business Role Map, Public Context, Research Checklist, Related
+- Headings: 積水ハウス信託 (Sekisui House Trust), Wiki route, Overview, Entity Boundary ^[金融庁の現行登録と積水ハウス信託会社情報: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://www.sekisuihouse-trust.co.jp/company/], Business Role Map, Public Context, Research Checklist, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/banking/japan-trust-bank-custody-map/, https://finwiki.zksc.io/ja/domains/manufacturer-finance/, https://finwiki.zksc.io/ja/policy-finance/japan-housing-finance-agency/, https://finwiki.zksc.io/ja/domains/trust-banks/, https://finwiki.zksc.io/ja/trust-banks/daiwa-living-trust/, https://finwiki.zksc.io/ja/trust-banks/starts-trust/, https://finwiki.zksc.io/ja/trust-banks/trust-companies-japan-index/
 
 ### SMBC信託銀行 (SMBC Trust Bank)
@@ -20459,7 +20468,7 @@ Public pages listed: 1599
 - Domain: trust-banks
 - Type: wiki_entry
 - Summary: This entry sits under trust-banks INDEX (its domain route). Read it against 三菱UFJ信託銀行 (MUTB) for peer / contrast and — critically — against 三井住友信託銀行 (SMTB), a similarly-named but separate-group trust bank. For the supervisory / system boundary see the FSA plus banking. The commercial-bank sibling in
-- Headings: SMBC信託銀行 (SMBC Trust Bank), Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
+- Headings: SMBC信託銀行 (SMBC Trust Bank), Wiki route, TL;DR, 1. License / group boundary ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; SMBC信託銀行「会社概要」: https://www.smbctb.co.jp/aboutus/information/], 2. Operating model, 3. Why this page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/foreign-bank-japan-retreat/, https://finwiki.zksc.io/ja/financial-regulators/fsa/, https://finwiki.zksc.io/ja/megabanks/smfg/, https://finwiki.zksc.io/ja/megabanks/sumitomo-mitsui-banking-corp/, https://finwiki.zksc.io/ja/securities-firms/smbc-nikko/, https://finwiki.zksc.io/ja/domains/trust-banks/, https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/, https://finwiki.zksc.io/ja/trust-banks/smtb/
 
 ### 三井住友信託銀行 (SMTB)
@@ -20472,7 +20481,7 @@ Public pages listed: 1599
 - Domain: trust-banks
 - Type: wiki_entry
 - Summary: This entry sits under trust-banks INDEX (its domain route). Read it against 三菱UFJ信託銀行 (MUTB) and みずほ信託銀行 for peer / contrast, and — critically — against SMBC信託銀行, a similarly-named but separate-group trust bank. For the supervisory / system boundary see the FSA plus banking. Its holding-company pare
-- Headings: 三井住友信託銀行 (SMTB), Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
+- Headings: 三井住友信託銀行 (SMTB), Wiki route, TL;DR, 1. License / group boundary ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; 三井住友信託銀行「会社概要」: https://www.smtb.jp/corporate/summary/], 2. Operating model, 3. Why this page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/financial-regulators/fsa/, https://finwiki.zksc.io/ja/megabanks/smfg/, https://finwiki.zksc.io/ja/domains/trust-banks/, https://finwiki.zksc.io/ja/trust-banks/custody-bank/, https://finwiki.zksc.io/ja/trust-banks/master-trust-bank/, https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/, https://finwiki.zksc.io/ja/trust-banks/mizuho-trust-bank/, https://finwiki.zksc.io/ja/trust-banks/smbc-trust-bank/, https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/
 
 ### スターツ信託 (Starts Trust)
@@ -20485,7 +20494,7 @@ Public pages listed: 1599
 - Domain: trust-banks
 - Type: wiki_entry
 - Summary: Starts Trust is a standalone trust-company route under trust-banks INDEX and is promoted from the Japan trust companies registry index. Read it with Japan trust-bank custody map, Japan acquisition finance, and Escrow Agent Japan Trust.
-- Headings: スターツ信託 (Starts Trust), Wiki route, Overview, Entity Boundary, Business Role Map, Public Context, Research Checklist, Related
+- Headings: スターツ信託 (Starts Trust), Wiki route, Overview, Entity Boundary ^[金融庁の現行免許とスターツ公式リリース: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://www.starts.co.jp/news/press/2015/1142/; https://www.starts.co.jp/news/press/2024/6317/], Business Role Map, Public Context, Research Checklist, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/banking/japan-trust-bank-custody-map/, https://finwiki.zksc.io/ja/finance/japan-acquisition-finance/, https://finwiki.zksc.io/ja/domains/trust-banks/, https://finwiki.zksc.io/ja/trust-banks/escrow-agent-japan-trust/, https://finwiki.zksc.io/ja/trust-banks/trust-companies-japan-index/
 
 ### Sumire Regional Trust / すみれ地域信託
@@ -20511,7 +20520,7 @@ Public pages listed: 1599
 - Domain: trust-banks
 - Type: wiki_entry
 - Summary: This entry sits under trust-banks INDEX. Read it against 日本マスタートラスト信託銀行 for peer / contrast context and banking index for the broader system / regulatory boundary.
-- Headings: 三井住友トラストグループ (SuMi TRUST), Wiki route, TL;DR, 1. 会社概要, 最新財務サマリ（FY2024 / 2025-03 期、連結）, 主要子会社・関連会社, 合併歴史・前身, 重要年表（抜粋）
+- Headings: 三井住友トラストグループ (SuMi TRUST), Wiki route, TL;DR, 1. 会社概要, 最新財務サマリ（FY2025 / 2026-03 期、連結） ^[三井住友トラストグループ「2026年3月期決算短信」: https://www.smtg.jp/-/media/tg/investors/fs/2603/2603_01.pdf], 主要子会社・関連会社, 合併歴史・前身, 重要年表（抜粋） ^[三井住友トラストグループ「100年史」「2026年3月期決算短信」: https://www.smtg.jp/aboutus/chronicle100/history/section24009; https://www.smtg.jp/-/media/tg/investors/fs/2603/260301.pdf]
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/megabanks/ndfg/, https://finwiki.zksc.io/ja/megabanks/sbi-hd/, https://finwiki.zksc.io/ja/megabanks/smfg/, https://finwiki.zksc.io/ja/regional-banks/ssnb/, https://finwiki.zksc.io/ja/domains/trust-banks/, https://finwiki.zksc.io/ja/trust-banks/master-trust-bank/
 
 ### Japan trust companies registry index
@@ -20523,8 +20532,8 @@ Public pages listed: 1599
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/trust-banks/trust-companies-japan-index.md
 - Domain: trust-banks
 - Type: wiki_entry
-- Summary: FSA's trust-company list contains 38 trust companies as of 2026-03-31. This page is the registry route for the independent / group trust-company surface. It is separate from licensed trust banks such as trust-banks/mitsubishi-ufj-trust-bank, trust-banks/mizuho-trust-bank, trust-banks/smtb, trust-ban
-- Headings: Japan trust companies registry index, TL;DR, Boundary, Registry Snapshot, Promotion Priority Map, Official Registry Rows, Standalone Promotion Rules, Related
+- Summary: FSA's trust-company list contains 37 trust companies as of 2026-06-30: 13 operating-type companies and 24 management-type companies. This page is the registry route for the independent / group trust-company surface. It is separate from licensed trust banks such as trust-banks/mitsubishi-ufj-trust-ba
+- Headings: Japan trust companies registry index, TL;DR, Boundary ^[金融庁「免許・許可・登録等を受けている事業者一覧」: https://www.fsa.go.jp/menkyo/menkyo.html], Registry Snapshot ^[金融庁「運用型信託会社免許・管理型信託会社登録一覧」（2026-06-30 時点）: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf], Promotion Priority Map ^[金融庁の現行 37 社一覧と公開 FinWiki route の照合: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://github.com/jasonhnd/finwiki/tree/main/trust-banks], Official Registry Rows ^[金融庁「運用型信託会社免許・管理型信託会社登録一覧」（2026-06-30 時点）: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf], Standalone Promotion Rules, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/financial-regulators/missing-financial-institutions-backlog/, https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/, https://finwiki.zksc.io/ja/leasing-firms/smfl/, https://finwiki.zksc.io/ja/life-insurers/prudential-japan/, https://finwiki.zksc.io/ja/megabanks/sbi-hd/, https://finwiki.zksc.io/ja/payment-firms/rakuten-fg/, https://finwiki.zksc.io/ja/securities-firms/monex-group/, https://finwiki.zksc.io/ja/domains/trust-banks/, https://finwiki.zksc.io/ja/trust-banks/alterna-trust/, https://finwiki.zksc.io/ja/trust-banks/asahi-trust/, https://finwiki.zksc.io/ja/trust-banks/capital-trust/
 
 ### UK Trust / UK信託
@@ -20537,7 +20546,7 @@ Public pages listed: 1599
 - Domain: trust-banks
 - Type: wiki_entry
 - Summary: Wiki route: trust-banks/INDEX -> trust-banks/trust-companies-japan-index -> trust-banks/uk-trust
-- Headings: UK Trust / UK信託, Overview, Entity Boundary, Business Role Map, Public Context, Research Checklist, Related, Sources
+- Headings: UK Trust / UK信託, Overview, Entity Boundary, Business Role Map ^[金融庁の現行登録と UK 信託公式サイト: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://uktrust.jp/], Public Context, Research Checklist, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/banking/japan-trust-bank-custody-map/, https://finwiki.zksc.io/ja/domains/trust-banks/, https://finwiki.zksc.io/ja/trust-banks/asahi-trust/, https://finwiki.zksc.io/ja/trust-banks/oag-trust/, https://finwiki.zksc.io/ja/trust-banks/trust-companies-japan-index/, https://finwiki.zksc.io/ja/trust-banks/uk-trust/
 
 ### 山田エスクロー信託 (Yamada Escrow Trust)
@@ -20550,7 +20559,7 @@ Public pages listed: 1599
 - Domain: trust-banks
 - Type: wiki_entry
 - Summary: Yamada Escrow Trust is a standalone trust-company route under trust-banks INDEX and is promoted from the Japan trust companies registry index. Read it with Japan MBO / squeeze-out process, Japan acquisition finance, and Escrow Agent Japan Trust.
-- Headings: 山田エスクロー信託 (Yamada Escrow Trust), Wiki route, Overview, Entity Boundary, Business Role Map, Public Context, Research Checklist, Related
+- Headings: 山田エスクロー信託 (Yamada Escrow Trust), Wiki route, Overview, Entity Boundary ^[金融庁の現行登録と山田エスクロー信託公式サイト: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://www.y-escrow-trust.co.jp/], Business Role Map, Public Context, Research Checklist, Related
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/finance/japan-acquisition-finance/, https://finwiki.zksc.io/ja/finance/japan-mbo-and-squeeze-out-process/, https://finwiki.zksc.io/ja/domains/trust-banks/, https://finwiki.zksc.io/ja/trust-banks/escrow-agent-japan-trust/, https://finwiki.zksc.io/ja/trust-banks/trust-companies-japan-index/
 
 ### FinWiki Internal Link Improvement Plan

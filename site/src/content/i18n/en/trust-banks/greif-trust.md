@@ -1,11 +1,11 @@
 ---
 source: trust-banks/greif-trust
-source_hash: 854d27b526706917
+source_hash: 3670b70f7fef21d3
 lang: en
 status: machine
 fidelity: ok
 title: "Greif Trust / グライフ信託"
-translated_at: 2026-06-19T12:43:19.861Z
+translated_at: 2026-07-28T23:40:44.026Z
 ---
 
 # Greif Trust / グライフ信託
@@ -20,7 +20,7 @@ Greif Trust is a Chugoku Finance Bureau trust-company row with public company-pr
 
 This page covers 株式会社グライフ信託. Public materials also mention financial-instruments and real-estate permissions; those should be mapped only where supported by source-specific license text.
 
-## Business Role Map
+## Business Role Map ^[株式会社グライフ信託「会社概要」: https://www.greif-trust.com/company/; 金融庁の現行登録: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf]
 
 | Route | Reading |
 |---|---|

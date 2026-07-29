@@ -1,11 +1,11 @@
 ---
 source: asset-managers/nissay-asset-management
-source_hash: 8fa5604564498c50
+source_hash: d46c8dc77dc071c9
 lang: en
 status: machine
 fidelity: ok
 title: "Nissay Asset Management (Nissay AM)"
-translated_at: 2026-06-15T03:48:21.901Z
+translated_at: 2026-07-28T23:59:38.374Z
 ---
 
 # Nissay Asset Management (Nissay AM)
@@ -27,7 +27,9 @@ Nissay Asset Management (Nissay AM) is the asset-management operating company of
 | FSA registration | Director-General of the Kanto Local Finance Bureau (Kinsho) 第369号 |
 | FIEA scope | Type II Financial Instruments Business, Investment Advisory and Agency Business, Investment Management Business |
 | Parent boundary | [[life-insurers/nippon-life|日本生命保険 (相互会社)]] 100% asset-management subsidiary |
-| Head office | Kojimachi, Chiyoda-ku, Tokyo |
+| Head office | Marunouchi 1-6-6, Chiyoda-ku, Tokyo (Nippon Life Marunouchi Building) |
+
+Sources: ^[FSA 金融商品取引業者登録一覧: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx; ニッセイアセットマネジメント 会社概要: https://www.nam.co.jp/company/info/outline.html.]
 
 ## 2. Business role
 
@@ -58,13 +60,15 @@ Nippon Life Insurance Company (mutual company, unlisted)
 
 ## 5. Competitors / peers
 
-| Peer | Lineage | Differentiator |
+| Peer | Ownership | Category |
 |---|---|---|
-| [[asset-managers/t-and-d-asset-management|T&D AM]] | [[life-insurers/td-hd|T&D HD]] affiliated | Asset-management function of a mid-tier life-insurance FG |
-| [[asset-managers/asset-management-one|アセマネOne]] | Mizuho + Dai-ichi Life JV | Bank + life insurer JV |
-| [[asset-managers/tokio-marine-asset-management|東京海上 AM]] | [[non-life-insurers/tokio-marine|東京海上 HD]] affiliated | P&C-affiliated asset manager |
-| [[asset-managers/sbi-asset-management|SBI AM]] | [[megabanks/sbi-hd|SBI HD]] affiliated | Online-brokerage-affiliated low-cost investment trusts |
-| [[asset-managers/mufg-asset-management|MUAM]] | [[megabanks/mufg|MUFG]] affiliated | Megabank-affiliated + eMAXIS Slim |
+| [[asset-managers/t-and-d-asset-management|T&D AM]] | [[life-insurers/td-hd|T&D HD]] 100% | Life-insurance group affiliated AM |
+| [[asset-managers/asset-management-one|アセマネOne]] | Mizuho FG 70% / Dai-ichi Life HD 30% (voting rights 51% / 49%) | Bank/life insurer JV |
+| [[asset-managers/tokio-marine-asset-management|東京海上 AM]] | [[non-life-insurers/tokio-marine|東京海上 HD]] 100% | P&C group affiliated AM |
+| [[asset-managers/sbi-asset-management|SBI AM]] | SBI Global Asset Management / [[megabanks/sbi-hd|SBI Group]] | SBI group affiliated AM |
+| [[asset-managers/mufg-asset-management|MUAM]] | [[megabanks/mufg|MUFG]] Group | Bank group affiliated AM |
+
+Sources: ^[ニッセイアセットマネジメント 会社概要: https://www.nam.co.jp/company/info/outline.html; T&Dアセットマネジメント 会社概要: https://www.tdasset.co.jp/company/about/; Asset Management One 会社概要: https://www.am-one.co.jp/company/profile/; Tokio Marine Asset Management corporate profile: https://www.tokiomarineam.com/who_we_are/; SBIアセットマネジメント 会社概要: https://www.sbiam.co.jp/gaiyo/gaiyo_gai.html; 三菱UFJアセットマネジメント 会社概要: https://www.am.mufg.jp/corp/about/gaiyou.html.]
 
 ## Related
 
@@ -81,5 +85,5 @@ Nippon Life Insurance Company (mutual company, unlisted)
 ## Sources
 
 - FSA, "金融商品取引業者登録一覧", `kinyushohin.xlsx` (public Excel list).
-- Nissay Asset Management Corporation, "会社概要" (official corporate site).
+- Nissay Asset Management Corporation, "会社概要" (https://www.nam.co.jp/company/info/outline.html).
 - Nippon Life Insurance Company, "グループ会社一覧".

@@ -1,11 +1,11 @@
 ---
 source: megabanks/resona-bank
-source_hash: 865fdc43debe0d35
+source_hash: 0973ff691ac7fdc3
 lang: ja
 status: machine
 fidelity: ok
 title: "りそな銀行 (Resona Bank)"
-translated_at: 2026-06-15T03:48:21.911Z
+translated_at: 2026-07-28T23:40:04.164Z
 ---
 
 # りそな銀行 (Resona Bank)
@@ -28,6 +28,8 @@ translated_at: 2026-06-15T03:48:21.911Z
 | 銀行コード | 0010 |
 | 親会社境界 | [[megabanks/resona-hd|りそな HD]] 傘下 bank operating company |
 | 特徴的な点 | 商業銀行機能に加え信託・年金関連機能を兼営する都市銀行系モデル |
+
+Sources: ^[金融庁「銀行免許一覧」: https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx; りそな銀行「会社概要」: https://www.resonabank.co.jp/about/gaiyo/; りそなHD「グループ会社」: https://www.resona-gr.co.jp/holdings/about/group/.]
 
 ## 2. オペレーティングモデル
 

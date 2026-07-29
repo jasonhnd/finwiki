@@ -1,11 +1,11 @@
 ---
 source: megabanks/sumitomo-mitsui-banking-corp
-source_hash: 6c5222a041f80441
+source_hash: 239174516261672a
 lang: en
 status: machine
 fidelity: ok
 title: "Sumitomo Mitsui Banking Corporation (SMBC)"
-translated_at: 2026-06-15T03:48:21.820Z
+translated_at: 2026-07-28T23:40:43.898Z
 ---
 
 # Sumitomo Mitsui Banking Corporation (SMBC)
@@ -27,6 +27,8 @@ Sumitomo Mitsui Banking Corporation (三井住友銀行) is the commercial-banki
 | License route | Bank license under the Banking Act (city bank); FSA bank license list |
 | Bank code | 0009 |
 | Parent boundary | bank operating company under [[megabanks/smfg|SMFG]] |
+
+Sources: ^[金融庁「銀行免許一覧」: https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx; SMBC「会社概要」: https://www.smbc.co.jp/aboutus/profile/gaiyo.html; SMBC「主要子会社・関連会社」: https://www.smbc.co.jp/aboutus/profile/group.html.]
 
 ## 2. Operating model
 

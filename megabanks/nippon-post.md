@@ -11,9 +11,9 @@ aliases:
   - "megabanks/japan-post-co"
 domain: megabanks
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-15
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, post, government-related]
 status: active
@@ -24,6 +24,8 @@ sources:
   - "楽天グループ 公式プレスリリース「日本郵政グループと楽天グループ、資本・業務提携に合意」(2021-03-12) — https://corp.rakuten.co.jp/news/press/2021/0312_02.html"
   - "Bloomberg「日本郵政が楽天に1500億円出資、資本業務提携－物流以外も連携へ」(2021-03-12) — https://www.bloomberg.co.jp/news/articles/2021-03-12/QPUBBVDWX2PS01"
   - "日本経済新聞「日本郵政、楽天G株で850億円の特損計上 23年4〜6月」 — https://www.nikkei.com/article/DGXZQOUA308QV0Q3A630C2000000/"
+  - "日本郵便「Corporate Information」(2026-03-31 時点の郵便局数): https://www.post.japanpost.jp/about/profile_en.html"
+  - "ゆうちょ銀行「About JAPAN POST BANK」(2026-03-31 時点の日本郵政持分): https://www.jp-bank.japanpost.jp/en/ir/investor/en_ir_inv_index.html"
 ---
 # 日本郵政 (Japan Post Holdings)
 
@@ -92,7 +94,7 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[lif
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
-| 郵便・物流 | 日本郵便 | 国内ユニバーサルサービス義務、~24,000 郵便局網 |
+| 郵便・物流 | 日本郵便 | 国内ユニバーサルサービス義務、24,115 郵便局（2026-03-31） |
 | EC・配達 | 日本郵便（ゆうパック）| Amazon・楽天・メルカリ等の宅配 BPO 受託 |
 | リテール銀行 | [[regional-banks/yucho]]（上場 7182）| 預貯金規模 国内最大級、郵便局窓口で口座営業 |
 | 生命保険 | [[life-insurers/kampo-life]]（上場 7181）| 簡易生命保険ベース、保険料収入で大手 |
@@ -100,9 +102,11 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[lif
 | グループ CVC | 日本郵政キャピタル | スタートアップ・物流テック出資 |
 | シニア・地域 | 日本郵便「みまもりサービス」等 | 郵便局網を介護・自治体連携プラットフォーム化 |
 
+Sources: ^[日本郵便「Corporate Information」: https://www.post.japanpost.jp/about/profile_en.html; ゆうちょ銀行「About JAPAN POST BANK」: https://www.jp-bank.japanpost.jp/en/ir/investor/en_ir_inv_index.html; 日本郵政「Group Governance」: https://www.japanpost.jp/en/group/governance/index.html.]
+
 ### グループ統合シナジー
 
-- **郵便局網 × 金融**: 全国 ~24,000 局を [[regional-banks/yucho]] / [[life-insurers/kampo-life]] の販売窓口として活用。窓口手数料（金融 2 社 → 日本郵便）がグループ内移転の主軸 ^[extracted]
+- **郵便局網 × 金融**: 全国 24,115 局（2026-03-31）を [[regional-banks/yucho]] / [[life-insurers/kampo-life]] の販売窓口として活用。窓口手数料（金融 2 社 → 日本郵便）がグループ内移転の主軸 ^[extracted]
 - **物流 × EC**: 日本郵便のラストワンマイル網と EC プラットフォームの連携。旧 楽天 G 提携はこの文脈で位置付けられていた ^[extracted]
 
 ### 提携・買収戦略

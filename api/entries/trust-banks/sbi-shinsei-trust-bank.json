@@ -24,9 +24,9 @@
     "domain": "trust-banks",
     "type": null,
     "created": "2026-05-22",
-    "last_updated": "2026-05-22",
-    "last_tended": "2026-05-22",
-    "review_by": "2026-11-22",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -54,7 +54,7 @@
     "SBI新生信託銀行 (SBI Shinsei Trust Bank)",
     "Wiki route",
     "Overview",
-    "Entity Boundary",
+    "Entity Boundary ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; SBI新生信託銀行「会社概要」: https://www.shinseitrust.com/corporate/about.html]",
     "Business Line Map",
     "Public Context",
     "Regulatory / Research Notes",
@@ -100,9 +100,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5965,
-    "word_like_tokens": 937,
+    "nonspace_chars": 6112,
+    "word_like_tokens": 962,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-07-29"
   }
 }

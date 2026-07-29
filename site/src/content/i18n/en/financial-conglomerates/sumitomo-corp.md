@@ -1,17 +1,17 @@
 ---
 source: financial-conglomerates/sumitomo-corp
-source_hash: 2c86e9497bd4bc85
+source_hash: 9106717a7f2b0a95
 lang: en
 status: machine
 fidelity: ok
 title: "住友商事 (Sumitomo Corporation)"
-translated_at: 2026-06-18T23:59:13.107Z
+translated_at: 2026-07-29T00:27:32.358Z
 ---
 # 住友商事 (Sumitomo Corporation)
 
 ## Wiki route
 
-This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] as a **sōgō shōsha parent holding company**. Read it against [[financial-conglomerates/mitsubishi-corp|三菱商事]] (the two giants of the old zaibatsu trading houses) and [[financial-conglomerates/mitsui-co|三井物産]] (the three giants of the zaibatsu trading houses) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see [[trading-company-finance/sumitomo-corp-financial-management|住友商事フィナンシャルマネジメント]] (in-house CMS) and especially **[[leasing-firms/smfl|SMFL (三井住友ファイナンス&リース)]]** (Sumitomo Corporation 50% + [[megabanks/smfg|SMFG]] 50%, one of the 3  big leasing players) and **[[leasing-firms/sumitomo-mitsui-auto-service|住友三井オートサービス]]** (top-tier domestic auto-leasing). System frame: [[finance/INDEX|finance index]] and [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]].
+This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] as a **sōgō shōsha parent holding company**. Read it against [[financial-conglomerates/mitsubishi-corp|三菱商事]] and [[financial-conglomerates/mitsui-co|三井物産]] for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see [[trading-company-finance/sumitomo-corp-financial-management|住友商事フィナンシャルマネジメント]] (a 100% subsidiary specializing in treasury and accounting), **[[leasing-firms/smfl|SMFL (三井住友ファイナンス&リース)]]** (Sumitomo Corporation 50% + [[megabanks/smfg|SMFG]] 50%) and **[[leasing-firms/sumitomo-mitsui-auto-service|住友三井オートサービス]]** (Sumitomo Corporation 40.4%). System frame: [[finance/INDEX|finance index]] and [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]].
 
 ## 1. Company overview
 
@@ -30,9 +30,9 @@ This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates IN
 
 ```
 Sumitomo Corporation (8053, TSE PRIME)
-  ├── [[trading-company-finance/sumitomo-corp-financial-management|住友商事フィナンシャルマネジメント]] (100%) — in-house CMS / group finance
-  ├── [[leasing-firms/smfl|SMFL]] (50%, remaining 50% [[megabanks/smfg|SMFG]])                              — outward-facing comprehensive leasing, one of the 3  big leasing players
-  ├── [[leasing-firms/sumitomo-mitsui-auto-service|住友三井オートサービス]] (partial stake)                — top-tier domestic auto-leasing
+  ├── [[trading-company-finance/sumitomo-corp-financial-management|住友商事フィナンシャルマネジメント]] (100%) — treasury / accounting specialist company
+  ├── [[leasing-firms/smfl|SMFL]] (50%, remaining 50% [[megabanks/smfg|SMFG]])                              — outward-facing comprehensive leasing
+  ├── [[leasing-firms/sumitomo-mitsui-auto-service|住友三井オートサービス]] (40.4%)                    — automobile leasing
   ├── J:COM (Jupiter Telecom, KDDI 50/50 JV)                                                    — cable TV / media
   └── SCSK (approx. 50% class, consolidated subsidiary)                                                              — major domestic IT-services player, TSE PRIME 9719
 ```
@@ -65,13 +65,15 @@ Sumitomo Corporation (8053, TSE PRIME)
 
 | Finance subsidiary / affiliate | Wiki anchor | Stake | Function |
 |---|---|---|---|
-| Sumitomo Mitsui Finance and Leasing | [[trading-company-finance/sumitomo-corp-financial-management]] | 100% | in-house CMS / group finance / bulk factoring |
-| **SMFL (Sumitomo Mitsui Finance and Leasing)** | **[[leasing-firms/smfl]]** | **50% (remaining 50% [[megabanks/smfg|SMFG]])** | **one of the 3  big leasing players, including SMFL Mirai Partners, SMFL Rental, etc.** |
-| **Sumitomo Mitsui Auto Service** | **[[leasing-firms/sumitomo-mitsui-auto-service]]** | **partial stake (Sumitomo Corporation + [[financial-conglomerates/mitsui-co|三井物産]] + [[megabanks/smfg|SMFG]] group)** | **top-tier domestic auto-leasing** |
+| Sumitomo Corporation Financial Management | [[trading-company-finance/sumitomo-corp-financial-management]] | 100% | the Sumitomo Corporation group's treasury / accounting specialist company |
+| **SMFL (Sumitomo Mitsui Finance and Leasing)** | **[[leasing-firms/smfl]]** | **50% (remaining 50% [[megabanks/smfg|SMFG]])** | **comprehensive leasing / financial services** |
+| **Sumitomo Mitsui Auto Service** | **[[leasing-firms/sumitomo-mitsui-auto-service]]** | **40.4%** | **leasing etc. of automobiles / vehicles. The remaining major shareholders are SMFL 33.4% and SMFG 26.2%** |
+
+Sources: ^[Sumitomo Corporation Financial Management "Company information" (a 100% subsidiary of Sumitomo Corporation): https://ssfm.co.jp/company/; SMFL "Company profile" (Sumitomo Corporation 50%, SMFG 50%): https://www.smfl.co.jp/saiyo/careers/about-us/; Sumitomo Mitsui Auto Service "Securities report for the fiscal year ending March 2026" (as of 2026-03-31): https://www.smauto.co.jp/pdf/company/business-info/finance/report/SecuritiesReport46-2025040120260331_v1.pdf.]
 
 In addition, the **Sumitomo group's financial-services ecosystem**:
 
-A three-layer structure of "**SMFL = Sumitomo Corporation's outward-facing leasing / asset-finance arm** (a 50/50 JV with SMFG)," "**Sumitomo Mitsui Auto Service = auto-leasing** (jointly with 3 社)," and "Sumitomo Corporation Financial Management = in-house CMS." Compared with [[financial-conglomerates/mitsubishi-corp|三菱商事]] (HC Capital equity method + MCFS) and [[financial-conglomerates/mitsui-co|三井物産]] (JA Mitsui Leasing + MBFS), the joint-control regime of a **50/50 JV with a megabank (SMFG)** is the distinctive feature of Sumitomo Corporation.
+A three-layer structure of "**SMFL = a 50/50 comprehensive-leasing JV with SMFG**," "**Sumitomo Mitsui Auto Service = an automobile-leasing company 40.4% held by Sumitomo Corporation**," and "Sumitomo Corporation Financial Management = a 100% subsidiary specializing in treasury and accounting." Mitsui & Co. is not among the current shareholders of Sumitomo Mitsui Auto Service.
 
 ### Identity among the 5  big trading houses
 
@@ -113,10 +115,14 @@ A three-layer structure of "**SMFL = Sumitomo Corporation's outward-facing leasi
 
 - Sumitomo Corporation (8053) official IR — https://www.sumitomocorp.com/ja/jp/ir
 - Sumitomo Corporation integrated report — https://www.sumitomocorp.com/ja/jp/ir/library/integrated
+- Sumitomo Corporation FY2025 securities report — https://www.sumitomocorp.com/-/media/Files/hq/ir/report/yuho/2025/202603yuho.pdf?sc_lang=ja
+- Sumitomo Corporation Financial Management company information — https://ssfm.co.jp/company/
+- SMFL company profile — https://www.smfl.co.jp/saiyo/careers/about-us/
+- Sumitomo Mitsui Auto Service securities report for the fiscal year ending March 2026 — https://www.smauto.co.jp/pdf/company/business-info/finance/report/SecuritiesReport46-2025040120260331_v1.pdf
 - EDINET securities reports — https://disclosure.edinet-fsa.go.jp/ (search: 住友商事 / 8053)
 - JPX issue information 8053 — https://www2.jpx.co.jp/
 
 ---
 
 > [!info] Verification status
-> confidence: **likely**. Sumitomo Corporation is sufficiently covered on the public surface. The SMFL 50/50 stake, the Sumitomo Mitsui Auto Service stake, and the J:COM / SCSK consolidation status are updated each time from the latest securities report / integrated report. The latest valuation of resource projects such as Madagascar nickel (Ambatovy) is also continuously confirmed.
+> confidence: **likely**. Sumitomo Corporation FM 100%, SMFL 50%, and Sumitomo Mitsui Auto Service 40.4% (SMFL 33.4%, SMFG 26.2%) were reconfirmed against official disclosures as of 2026-07-29.

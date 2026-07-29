@@ -24,9 +24,9 @@
     "domain": "megabanks",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -42,7 +42,9 @@
       "Wikipedia: 三井住友銀行 (2026-05-25 抽出)",
       "SMBC 公式サイト (https://www.smbc.co.jp/, 2026-05-25 参照)",
       "SMFG 統合報告書 / 決算短信 (2024-25 公開分)",
-      "金融庁 銀行免許一覧 (2026-05-25 参照)"
+      "金融庁 銀行免許一覧 (2026-05-25 参照)",
+      "SMBC「会社概要」(2026-03-31 時点): https://www.smbc.co.jp/aboutus/profile/gaiyo.html",
+      "SMBC「主要子会社・関連会社」: https://www.smbc.co.jp/aboutus/profile/group.html"
     ]
   },
   "summary": "This entry sits under megabanks INDEX. Read it against SMFG (親会社), MUFG 銀行, みずほ銀行 for peer / contrast (3 大メガバンク), and 金融庁 / 日本銀行 for the broader regulatory boundary.",
@@ -100,9 +102,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4852,
-    "word_like_tokens": 788,
+    "nonspace_chars": 5609,
+    "word_like_tokens": 929,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-07-29"
   }
 }

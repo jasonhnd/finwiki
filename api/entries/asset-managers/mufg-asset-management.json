@@ -26,9 +26,9 @@
     "domain": "asset-managers",
     "type": null,
     "created": "2026-05-20",
-    "last_updated": "2026-06-05",
-    "last_tended": "2026-06-05",
-    "review_by": "2026-11-20",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -89,9 +89,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3017,
-    "word_like_tokens": 466,
+    "nonspace_chars": 3164,
+    "word_like_tokens": 491,
     "inbound_wikilinks_count": 18,
-    "last_modified": "2026-06-22"
+    "last_modified": "2026-07-29"
   }
 }

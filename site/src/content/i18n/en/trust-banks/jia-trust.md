@@ -1,11 +1,11 @@
 ---
 source: trust-banks/jia-trust
-source_hash: 182e341975dce53c
+source_hash: 92e5489fd5906e58
 lang: en
 status: machine
 fidelity: ok
 title: "JIA Trust / JIA Trust Co., Ltd."
-translated_at: 2026-05-31T23:59:49.362Z
+translated_at: 2026-07-28T23:40:44.044Z
 ---
 # JIA Trust / JIA Trust Co., Ltd.
 Wiki route: [[trust-banks/INDEX]] -> [[trust-banks/trust-companies-japan-index]] -> [[trust-banks/jia-trust]]
@@ -18,7 +18,7 @@ JIA Trust is an operating-type trust company under the Japan Investment Adviser 
 
 This page covers JIA Trust Co., Ltd., not the full [[securities/financial-instruments-business-operators-japan-index|financial-instruments operator]] surface of the broader JIA group. Use this page for trust-company classification and structured-asset custody / administration context.
 
-## Business Role Map
+## Business Role Map ^[JIA 信託 公式サイト: https://www.jiatrust.co.jp/; 金融庁の現行免許: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf]
 
 | Route | Reading |
 |---|---|

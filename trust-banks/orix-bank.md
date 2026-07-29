@@ -3,14 +3,14 @@ title: "オリックス銀行 (ORIX Bank)"
 aliases: ["ORIX Bank", "オリックス銀行", "オリックス銀行株式会社"]
 domain: trust-banks
 created: 2026-05-20
-last_updated: 2026-06-05
-last_tended: 2026-06-05
-review_by: 2026-11-20
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, bank, trust-bank, orix, acquisition-watch, operating-company]
 status: active
 sources:
-  - "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
+  - "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf"
   - "https://www.orixbank.co.jp/aboutus/profile/company.html"
   - "https://www.orix.co.jp/grp/company/newsroom/newsrelease/pdf/260427_ORIXJ.pdf"
   - "https://www.bank-daiwa.co.jp/info/2026/pdf/0427_02.pdf"
@@ -26,7 +26,7 @@ This entry sits under [[trust-banks/INDEX|trust-banks INDEX]] (its domain route)
 
 オリックス銀行 (ORIX Bank Corporation) は、FSA の銀行免許リストに掲載される銀行法人だが、**メガバンク系のような信託専業 / 信託銀行ではなく、信託業務を兼営する「普通銀行」(信託兼営金融機関)** に近い specialty bank。山一證券の信託子会社を前身とし、1998 年に [[leasing-firms/orix-corp|ORIX]] グループ入り。ATM を持たずネット中心で、投資用不動産ローン・ネット定期 (eダイレクト預金)・カードローンに特化する。2026-04-27 に ORIX が全株式を [[securities-firms/daiwa-sg|大和証券グループ本社]] 傘下 [[regional-banks/daiwa-next-bank|大和ネクスト銀行]] へ譲渡すると公表しており、ownership transition watch が必要。
 
-## 1. License / group boundary
+## 1. License / group boundary ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; オリックス銀行「会社概要」: https://www.orixbank.co.jp/aboutus/profile/company.html; ORIX と大和ネクスト銀行の 2026-04-27 公表: https://www.orix.co.jp/grp/company/newsroom/newsrelease/pdf/260427_ORIXJ.pdf; https://www.bank-daiwa.co.jp/info/2026/pdf/0427_02.pdf]
 
 | Item | Notes |
 |---|---|

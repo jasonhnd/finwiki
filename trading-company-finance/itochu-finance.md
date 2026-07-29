@@ -10,9 +10,9 @@ aliases:
   - "itochu-finance-corp"
 domain: trading-company-finance
 created: 2026-05-24
-last_updated: 2026-05-26
-last_tended: 2026-06-24
-review_by: 2026-08-08
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, finance, trading-company-finance, itochu, group-treasury, factoring, cms]
 status: active
@@ -29,13 +29,13 @@ sources:
 
 This entry sits under [[trading-company-finance/INDEX|trading-company-finance INDEX]]. Read it against [[leasing-firms/tokyo-century|東京センチュリー]] (the same-parent **外向けリース・asset finance** platform — 伊藤忠 + みずほ FG の 2 軸株主構造、上場 8439) and [[trading-company-finance/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]] (the closest peer 商社系 group-treasury arm). For the broader peer set, see [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]], [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]], [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]]. See [[banking/INDEX|banking index]] for the broader regulatory boundary.
 
-## 1. 会社概要
+## 1. 会社概要 ^[伊藤忠商事 IR: https://www.itochu.co.jp/ja/ir/; EDINET: https://disclosure2.edinet-fsa.go.jp/]
 
 | Item | Notes |
 |---|---|
 | Wiki role | **伊藤忠グループの内向け金融**：CMS / グループファクタリング / グループファイナンス |
 
-### 伊藤忠系金融機能の構造
+### 伊藤忠系金融機能の構造 ^[伊藤忠商事の有価証券報告書・関係会社開示と各社公式 IR に基づく比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]
 
 | 層 | 主体 | 役割 |
 |---|---|---|
@@ -43,7 +43,7 @@ This entry sits under [[trading-company-finance/INDEX|trading-company-finance IN
 | **外向けリース (上場)** | [[leasing-firms/tokyo-century|東京センチュリー]] (8439) | 大型リース・航空機 (米 ACG)・海外案件・モビリティ — 伊藤忠 + みずほ FG 2 軸 |
 | **内向け / グループ金融** | **伊藤忠ファイナンス (本ページ)** | グループ各社の internal banking / CMS / 内部ファクタリング |
 
-## 2. 事業セグメント・マップ
+## 2. 事業セグメント・マップ ^[伊藤忠商事 IR / 有価証券報告書。業務範囲は非上場子会社の開示制約があるため最新関係会社開示を優先: https://www.itochu.co.jp/ja/ir/]
 
 | セグメント | 内容 |
 |---|---|
@@ -58,7 +58,7 @@ This entry sits under [[trading-company-finance/INDEX|trading-company-finance IN
 
 特に **食料 / 住生活 / 情報** セグメントは中小サプライヤーとの取引が多く、CMS / 一括ファクタリングを通じてサプライヤー側のキャッシュフロー安定化と本社側の支払いコスト最適化を同時実現する典型例。
 
-### 競合 / Peer
+### 競合 / Peer ^[各親会社の有価証券報告書・公式 IR を横断した比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]
 
 | 商社 | 内向け金融子会社 | 外向けリース系 |
 |---|---|---|

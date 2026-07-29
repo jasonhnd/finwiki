@@ -1,17 +1,17 @@
 ---
 source: financial-conglomerates/toyota-tsusho-corp
-source_hash: 765b339b900e0672
+source_hash: 670c7c006ae30eff
 lang: en
 status: machine
 fidelity: ok
 title: "豊田通商 (Toyota Tsusho Corporation)"
-translated_at: 2026-06-15T03:48:21.934Z
+translated_at: 2026-07-29T00:27:46.480Z
 ---
 # 豊田通商 (Toyota Tsusho Corporation)
 
 ## Wiki route
 
-This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] as a **sōgō shōsha parent holding-company** with a distinctive **トヨタグループ系商社 (Toyota group captive trading house)** character — Toyota Motor is a major shareholder at roughly the 22% class, positioned as the **No. 6  trading house / Toyota-affiliated trading house** independent of the 5  major sogo shosha. Read it against [[financial-conglomerates/mitsubishi-corp|三菱商事]] and [[financial-conglomerates/sojitz-corp|双日]] (mid-tier trading houses) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see [[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]] (in-house CMS) and the **[[leasing-firms/toyota-financial|トヨタファイナンシャルサービス (TFS)]] family** (the **auto-loan / leasing / insurance platform** of Toyota Motor's 100% subsidiary line — no direct capital relationship with Toyota Tsusho, but adjacent within the Toyota group ecosystem). System frame: [[finance/INDEX|finance index]] and [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]].
+This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] as a **sōgō shōsha parent holding-company** with a distinctive **トヨタグループ系商社 (Toyota group captive trading house)** character. Read it against [[financial-conglomerates/mitsubishi-corp|三菱商事]] and [[financial-conglomerates/sojitz-corp|双日]] for peer / contrast context. Toyota Tsusho's official securities report explains that domestic group finance is centralized in the parent company, and no 100% domestic subsidiary called "豊田通商フィナンス" can be confirmed. The separately affiliated **[[leasing-firms/toyota-financial|トヨタファイナンシャルサービス (TFS)]]** is a Toyota Motor 100% subsidiary and is not a subsidiary of Toyota Tsusho. System frame: [[finance/INDEX|finance index]] and [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]].
 
 ## 1. Company profile
 
@@ -31,7 +31,7 @@ This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates IN
 
 ```
 豊田通商 (8015, 東証 PRIME)
-  ├── [[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]] (100%)                 — in-house CMS / group finance
+  ├── [[trading-company-finance/toyota-tsusho-finance|Parent-company treasury function]]           — domestic group finance centralized in Toyota Tsusho
   ├── CFAO (100%, acquired 2012  → wholly owned 2016 )                                  — African distribution network (autos / pharma / food)
   ├── Eurus Energy (renewables major, JV with TEPCO HD)                                   — wind IPP
   └── Numerous Toyota overseas dealer networks                                              — automotive distribution
@@ -67,8 +67,10 @@ This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates IN
 
 | Finance subsidiary / affiliate | Wiki anchor | Stake | Function |
 |---|---|---|---|
-| 豊田通商フィナンス | [[trading-company-finance/toyota-tsusho-finance]] | 100% | in-house CMS / group finance / consolidated factoring |
-| **Toyota Financial Services (TFS) family** | **[[leasing-firms/toyota-financial]]** | **Toyota Motor 100% subsidiary (a separate line from Toyota Tsusho)** | **auto loans / leasing / insurance, one of the world's largest captive finance operations linked to Toyota vehicle sales** |
+| 豊田通商 (parent-company treasury function) | [[trading-company-finance/toyota-tsusho-finance]] | — | Domestic group finance centralized in the parent company. Overseas, centralized funding and funds supply via regional local entities etc. |
+| **Toyota Financial Services (TFS)** | **[[leasing-firms/toyota-financial]]** | **Toyota Motor 100% subsidiary (a separate line from Toyota Tsusho)** | **Toyota's sales-finance holding company** |
+
+Sources: ^[豊田通商「第105期有価証券報告書」(financial strategy / centralization of domestic group finance in the parent company): https://www.toyota-tsusho.com/ir/library/securities-report/upload_files/105th_yuho_ALL.pdf; トヨタ自動車「金融統括会社の設立等について」(TFS 100% ownership): https://global.toyota/jp/detail/12459084.]
 
 In addition, the **Toyota group's financial-services ecosystem**:
 
@@ -101,7 +103,7 @@ In addition, the **Toyota group's financial-services ecosystem**:
 
 - [[financial-conglomerates/INDEX|financial-conglomerates INDEX]]
 - [[financial-conglomerates/mitsubishi-corp|三菱商事]] · [[financial-conglomerates/mitsui-co|三井物産]] · [[financial-conglomerates/itochu-corp|伊藤忠商事]] · [[financial-conglomerates/sumitomo-corp|住友商事]] · [[financial-conglomerates/marubeni-corp|丸紅]] · [[financial-conglomerates/sojitz-corp|双日]] (peer trading houses)
-- [[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]] (in-house group treasury)
+- [[trading-company-finance/toyota-tsusho-finance|Toyota Tsusho's parent-company treasury function]] (domestic group finance)
 - [[leasing-firms/toyota-financial|TFS / トヨタファイナンシャルサービス]] (Toyota Motor direct-line captive finance)
 - [[megabanks/mufg|MUFG]] · [[regional-banks/aichi-fg|あいち FG]] (transactions with Chukyo-economic-zone finance)
 - [[finance/INDEX|finance index]] · [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]
@@ -110,10 +112,12 @@ In addition, the **Toyota group's financial-services ecosystem**:
 
 - 豊田通商 (8015) official IR — https://www.toyota-tsusho.com/ir/
 - 豊田通商 integrated report — https://www.toyota-tsusho.com/ir/library/annual_report/
+- 豊田通商 105th securities report — https://www.toyota-tsusho.com/ir/library/securities-report/upload_files/105th_yuho_ALL.pdf
+- Toyota Motor TFS establishment release — https://global.toyota/jp/detail/12459084
 - EDINET securities reports — https://disclosure.edinet-fsa.go.jp/ (search: 豊田通商 / 8015)
 - JPX issue information 8015 — https://www2.jpx.co.jp/
 
 ---
 
 > [!info] Verification status
-> confidence: **likely**. Toyota Tsusho is sufficiently covered on the public surface. Toyota Motor's stake ratio, CFAO's consolidation status, and Eurus Energy's renewable-energy capacity are updated as needed in the latest securities reports / integrated reports. The role boundary with TFS within the Toyota group ecosystem also remains under ongoing observation.
+> confidence: **likely**. The structure of centralizing domestic group finance in the parent company, and the separate-line boundary of TFS as a Toyota Motor 100% subsidiary, were reconfirmed against official disclosures as of 2026-07-29. The unverified description of a 100% subsidiary "豊田通商フィナンス" has been removed.

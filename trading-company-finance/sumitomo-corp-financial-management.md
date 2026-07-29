@@ -8,9 +8,9 @@ aliases:
   - "sumitomo-corp-finance"
 domain: trading-company-finance
 created: 2026-05-24
-last_updated: 2026-05-26
-last_tended: 2026-06-24
-review_by: 2026-08-08
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, finance, trading-company-finance, sumitomo-corp, group-treasury, factoring, cms]
 status: active
@@ -19,6 +19,8 @@ sources:
   - "住友商事 公式 IR / 統合報告書"
   - "公益社団法人リース事業協会 (JLA) https://www.leasing.or.jp/"
   - "EDINET 有価証券報告書検索"
+  - "住友商事フィナンシャルマネジメント「会社情報」: https://ssfm.co.jp/company/"
+  - "住友商事フィナンシャルマネジメント「事業紹介」: https://ssfm.co.jp/field/"
 ---
 
 # 住友商事フィナンシャルマネジメント (Sumitomo Corporation Financial Management)
@@ -27,13 +29,13 @@ sources:
 
 This entry sits under [[trading-company-finance/INDEX|trading-company-finance INDEX]]. Read it against [[leasing-firms/smfl|SMFL]] (the same-parent 外向けリース・asset finance JV with [[megabanks/smfg|SMFG]]) and [[trading-company-finance/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]] (the closest peer 商社系 group-treasury arm). For the broader peer set, see [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]], [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]], [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]]. See [[banking/INDEX|banking index]] for the broader regulatory boundary.
 
-## 1. 会社概要
+## 1. 会社概要 ^[住友商事フィナンシャルマネジメント「会社情報」: https://ssfm.co.jp/company/]
 
 | Item | Notes |
 |---|---|
 | Wiki role | **住友商事グループの内向け金融**：CMS / グループファクタリング / グループファイナンス |
 
-### 住友グループ + SMFG 金融機能の配置
+### 住友グループ + SMFG 金融機能の配置 ^[住友商事フィナンシャルマネジメント「事業紹介」: https://ssfm.co.jp/field/; 住友商事 IR: https://www.sumitomocorp.com/ja/jp/ir]
 
 | 層 | 主体 | 役割 |
 |---|---|---|
@@ -43,7 +45,7 @@ This entry sits under [[trading-company-finance/INDEX|trading-company-finance IN
 | **外向け生損保** | [[non-life-insurers/mitsui-sumitomo-insurance|三井住友海上]] / [[life-insurers/sumitomo-life|住友生命]] | 損保 / 生保 |
 | **内向け / グループ金融** | **住友商事FM (本ページ)** | グループ各社の internal banking / CMS / 内部ファクタリング |
 
-## 2. 事業セグメント・マップ
+## 2. 事業セグメント・マップ ^[住友商事フィナンシャルマネジメント「事業紹介」: https://ssfm.co.jp/field/]
 
 | セグメント | 内容 |
 |---|---|
@@ -54,7 +56,7 @@ This entry sits under [[trading-company-finance/INDEX|trading-company-finance IN
 | **海外送金サービス** | グループ各社の海外向け送金・回収 |
 | **トレード・ファイナンス補助** | 住友商事本体の金属 / 輸送機・建機 / インフラ / メディア・デジタル / 生活・不動産 / 資源・化学品・エレクトロニクス 取引に紐づく与信補助 |
 
-### 競合 / Peer
+### 競合 / Peer ^[各親会社の有価証券報告書・公式 IR を横断した比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]
 
 | 商社 | 内向け金融子会社 | 外向けリース系 |
 |---|---|---|

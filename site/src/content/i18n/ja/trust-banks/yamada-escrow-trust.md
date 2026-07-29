@@ -1,11 +1,11 @@
 ---
 source: trust-banks/yamada-escrow-trust
-source_hash: ba3bb8d9e786d672
+source_hash: 4076073b9b11c598
 lang: ja
 status: machine
 fidelity: ok
 title: "山田エスクロー信託 (Yamada Escrow Trust)"
-translated_at: 2026-06-02T16:33:58.473Z
+translated_at: 2026-07-28T23:40:04.657Z
 ---
 # 山田エスクロー信託 (Yamada Escrow Trust)
 
@@ -21,7 +21,7 @@ Yamada Escrow Trust の公開サイトでは、同社を金銭信託、有価証
 
 このページが重要なのは、エスクロー信託が具体的な取引管理メカニズムだからである。資産移転や支払フローで分別管理、留保、倒産隔離が必要になる場合に、FinWiki 上で有用な参照点となる。
 
-## 法人境界
+## 法人境界 ^[金融庁の現行登録と山田エスクロー信託公式サイト: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://www.y-escrow-trust.co.jp/]
 
 | 項目 | 読み方 |
 |---|---|

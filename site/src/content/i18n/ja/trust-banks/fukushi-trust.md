@@ -1,12 +1,12 @@
 ---
 source: trust-banks/fukushi-trust
-source_hash: 0bd309315a7a0517
+source_hash: ba266b0513b3a6db
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "ふくし信託"
-translated_at: 2026-06-26T08:32:30.857Z
+translated_at: 2026-07-28T23:40:04.385Z
 ---
 # ふくし信託
 
@@ -22,7 +22,7 @@ translated_at: 2026-06-26T08:32:30.857Z
 
 福祉志向の信託は、不動産金融や証券信託とは異なる領域であるため、このページには意義がある。 家計の資産設計、後見に隣接する財産管理、社会的支援の設計に関係する。
 
-## エンティティ境界
+## エンティティ境界 ^[金融庁の現行登録と会社公式サイト: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://www.fukushitrust.com/]
 
 | 項目 | 読み方 |
 |---|---|

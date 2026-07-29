@@ -1,11 +1,11 @@
 ---
 source: megabanks/resona-hd
-source_hash: 3f38a5326433d658
+source_hash: a4801044a1186d56
 lang: ja
 status: machine
 fidelity: ok
 title: "りそなホールディングス"
-translated_at: 2026-06-02T15:14:17.094Z
+translated_at: 2026-07-28T23:40:04.174Z
 ---
 
 # りそなホールディングス
@@ -16,7 +16,7 @@ translated_at: 2026-06-02T15:14:17.094Z
 
 ## 要約
 
-3 大メガバンク（[[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]）に次ぐ「**第 4 のメガバンク**」位置付け。**信託機能を持つ商業銀行 G**として、信託銀行を分離せず銀行兼業で運営する**日本初の本格的「商銀＋信託」モデル**。2003-05 公的資金 **1 兆 9600 億円**注入（実質国有化）→ 2015-06 完済の再生史。地盤は**首都圏（埼玉）+ 関西**。2021-04 関西みらい FG 完全子会社化 → **2024-04 KMFG 吸収合併・関西みらい銀＋みなと銀の直接子会社化**で関西統合フェーズ完了。FY2024（2025-03 期）純利益 **2,133 億円** / 総資産 **77.4 兆円**。^[extracted]
+3 大メガバンク（[[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]）に次ぐ「**第 4 のメガバンク**」位置付け。**信託機能を持つ商業銀行 G**として、信託銀行を分離せず銀行兼業で運営する**日本初の本格的「商銀＋信託」モデル**。2003-05 公的資金 **1 兆 9600 億円**注入（実質国有化）→ 2015-06 完済の再生史。地盤は**首都圏（埼玉）+ 関西**。2021-04 関西みらい FG 完全子会社化 → **2024-04 KMFG 吸収合併・関西みらい銀＋みなと銀の直接子会社化**で関西統合フェーズ完了。FY2024（2025-03 期）純利益 **2,133 億円** / 総資産 **77.4 兆円**、FY2025（2026-03 期）純利益 **2,587 億円**。^[extracted]
 
 ## 1. 会社概要
 
@@ -89,6 +89,8 @@ translated_at: 2026-06-02T15:14:17.094Z
 | 資産運用 | りそなアセットマネジメント | 個人向け投信・ファンドラップ |
 | 関西エリア | [[regional-banks/kansai-mirai-bank|関西みらい銀行]]・[[regional-banks/minato-bank|みなと銀行]]（2024-04 直接子会社化）| 関西アーバン＋近畿大阪＋みなと統合体 |
 
+Sources: ^[りそな HD「Major Group Companies」(2026-04-01 時点): https://www.resona-gr.co.jp/holdings/english/about/outline/group/index.html; りそな HD「Financial Results Report: Fiscal Year 2025」: https://www.resona-gr.co.jp/holdings/english/investors/financial/results_c/index.html.]
+
 ### FY2024 連結決算（2025-03 期、IR 確認済）^[extracted]
 
 | 項目 | 金額・数値 |
@@ -156,7 +158,8 @@ translated_at: 2026-06-02T15:14:17.094Z
 
 - **Wikipedia: りそなホールディングス**（https://ja.wikipedia.org/wiki/りそなホールディングス, 2026-05-19 抽出）
 - **Wikipedia: りそな銀行 / 埼玉りそな銀行 / 関西みらいフィナンシャルグループ**（2026-05-19 抽出）
-- りそな HD 公式 IR / 統合報告書（最新）
+- **りそな HD「Major Group Companies」**（2026-04-01 時点）https://www.resona-gr.co.jp/holdings/english/about/outline/group/index.html
+- **りそな HD「Financial Results Report: Fiscal Year 2025」** https://www.resona-gr.co.jp/holdings/english/investors/financial/results_c/index.html
 
 ---
 

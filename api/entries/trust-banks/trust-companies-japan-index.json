@@ -24,9 +24,9 @@
     "domain": "trust-banks",
     "type": null,
     "created": "2026-05-21",
-    "last_updated": "2026-05-22",
-    "last_tended": "2026-05-22",
-    "review_by": "2026-11-21",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -40,18 +40,18 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx",
-      "https://www.fsa.go.jp/en/regulated/licensed/trustcompanies.xlsx"
+      "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf",
+      "https://www.fsa.go.jp/menkyo/menkyo.html"
     ]
   },
-  "summary": "FSA's trust-company list contains 38 trust companies as of 2026-03-31. This page is the registry route for the independent / group trust-company surface. It is separate from licensed trust banks such as trust-banks/mitsubishi-ufj-trust-bank, trust-banks/mizuho-trust-bank, trust-banks/smtb, trust-ban",
+  "summary": "FSA's trust-company list contains 37 trust companies as of 2026-06-30: 13 operating-type companies and 24 management-type companies. This page is the registry route for the independent / group trust-company surface. It is separate from licensed trust banks such as trust-banks/mitsubishi-ufj-trust-ba",
   "headings": [
     "Japan trust companies registry index",
     "TL;DR",
-    "Boundary",
-    "Registry Snapshot",
-    "Promotion Priority Map",
-    "Official Registry Rows",
+    "Boundary ^[金融庁「免許・許可・登録等を受けている事業者一覧」: https://www.fsa.go.jp/menkyo/menkyo.html]",
+    "Registry Snapshot ^[金融庁「運用型信託会社免許・管理型信託会社登録一覧」（2026-06-30 時点）: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf]",
+    "Promotion Priority Map ^[金融庁の現行 37 社一覧と公開 FinWiki route の照合: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://github.com/jasonhnd/finwiki/tree/main/trust-banks]",
+    "Official Registry Rows ^[金融庁「運用型信託会社免許・管理型信託会社登録一覧」（2026-06-30 時点）: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf]",
     "Standalone Promotion Rules",
     "Related",
     "Sources"
@@ -160,9 +160,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8945,
-    "word_like_tokens": 1382,
+    "nonspace_chars": 9775,
+    "word_like_tokens": 1531,
     "inbound_wikilinks_count": 37,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-07-29"
   }
 }

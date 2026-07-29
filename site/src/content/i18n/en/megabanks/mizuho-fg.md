@@ -1,11 +1,11 @@
 ---
 source: megabanks/mizuho-fg
-source_hash: bfa284e24d0d8399
+source_hash: 70e0a57430773873
 lang: en
 status: machine
 fidelity: ok
 title: "Mizuho FG (Mizuho FG)"
-translated_at: 2026-06-19T06:09:18.130Z
+translated_at: 2026-07-29T00:31:54.301Z
 ---
 
 # Mizuho FG (Mizuho FG)
@@ -16,7 +16,7 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[meg
 
 ## TL;DR
 
-Japan's no. 3  financial group and one of the 3  megabanks (total assets **283.3 兆円**, net income **8854 億円** (record high) / 2025-03  results) ^[extracted]. A holding company originating from the 2003-01-08 **integration of Dai-Ichi Kangyo Bank + Fuji Bank + Industrial Bank of Japan 3 行**. The structural complexity stemming from the 3 行 merger and the **large-scale system failures recurring in 2002 / 2011 / 2021 ** were long brand-damaging factors. It moved toward unified group operation under the **"One MIZUHO"** strategy. Through a **capital and business alliance with Rakuten Securities** (2022-11-〜), a **strategic investment in PayPay Bank**, and a **JV with CyberAgent (CA Mobile / others)**, it complements its B2C digital weaknesses via partnerships. G-SIB Bucket 1. ^[extracted]
+Japan's no. 3  financial group and one of the 3  megabanks (total assets **283.3 兆円**, net income **8854 億円** (record high) / 2025-03  results) ^[extracted]. A holding company originating from the 2003-01-08 **integration of Dai-Ichi Kangyo Bank + Fuji Bank + Industrial Bank of Japan 3 行**. The structural complexity stemming from the 3 行 merger and the **large-scale system failures recurring in 2002 / 2011 / 2021 ** were long brand-damaging factors. It moved toward unified group operation under the **"One MIZUHO"** strategy. Through a **capital and business alliance with Rakuten Securities** (2022-11〜), a **minority investment in PayPay Securities**, and **business alliances with CyberAgent, etc.**, it complements the B2C digital domain via external partnerships. G-SIB Bucket 1. ^[extracted]
 
 ## 1. Company overview
 
@@ -41,7 +41,7 @@ Japan's no. 3  financial group and one of the 3  megabanks (total assets **283.3
 | Employees (consolidated) | 52,554 名 (parent 2,626 名) |
 | Capital | 2 兆 2560 億円 |
 
-> ※ Figures are the confirmed values from the 23 th-term (2025-03 ) securities report / Wikipedia infobox. FY2025 (2026-03 ) is to be disclosed 2026-05-15, not reflected in this article. ^[extracted]
+> ※ Figures are the confirmed values from the 23 th-term (2025-03 ) securities report / Wikipedia infobox. FY2025 (2026-03 ) has been disclosed but is not reflected in this comparison table. See the official Financial Information for the latest results. ^[extracted]
 
 ### Major shareholders (2025-03-31) ^[extracted]
 
@@ -126,6 +126,8 @@ Mizuho FG (holding company, listed 8411)
 | Credit / cards | Orico (equity method approx. 49%) + Mizuho Rakuten Card | Distanced from UC Card (Mitsubishi UFJ NICOS lineage) |
 | Leasing | Mizuho Leasing (equity method 23.5%, Marubeni 23%) | TSE PRIME 8425  |
 
+Sources: ^[Mizuho「Group Companies」(2026-07-01 時点): https://www.mizuhogroup.com/who-we-are/group/outline; Mizuho「Financial Information」: https://www.mizuhogroup.com/investors/financial-information.]
+
 ### Digital strategy
 
 - **"One MIZUHO" strategy**: a long-term theme of 3 行 cultural integration and unified group operation ^[extracted]
@@ -187,6 +189,8 @@ Mizuho FG (holding company, listed 8411)
 - Mizuho FG 23 th-term (2025-03 ) securities report
 - Mizuho FG "Medium-Term Management Plan 2024-2026" (disclosed 2024-05 )
 - Mizuho FG history (official IR, updated 2025-04 )
+- **Mizuho "Group Companies"** (major companies / voting rights as of 2026-07-01) https://www.mizuhogroup.com/who-we-are/group/outline
+- **Mizuho "Financial Information"** (FY2025 results disclosure confirmed) https://www.mizuhogroup.com/investors/financial-information
 - **Nihon Keizai Shimbun "PayPay Securities to become a consolidated subsidiary; PayPay, to a 75% stake"** (https://www.nikkei.com/article/DGXZQOUB102E20Q5A210C2000000/, 2025-02) ── Mizuho Securities' 24.8% investment in PayPay Securities
 - **Nihon Keizai Shimbun "Mizuho Bank enters the advertising business, partners with CyberAgent"** (https://www.nikkei.com/article/DGXZQOUB256360V20C24A1000000/, 2024-01) ── business alliance with CyberAgent / FreeWheel
 - **Yahoo! News / ABEMA TIMES "A first among megabanks: Mizuho Bank introduces conversational AI into operations"** (https://news.yahoo.co.jp/articles/51973b383cf6057abe0cb43e1aa87a4c64d27bd5, 2023) ── company-wide conversational-AI deployment for all employees
@@ -194,4 +198,4 @@ Mizuho FG (holding company, listed 8411)
 ---
 
 > [!info] Verification status
-> confidence: **extracted** (v1.2  Wikipedia infobox + official IR + public-reporting verification 2026-05-19). The 2025-03  results (net income 8854 億 / total assets 283.3 兆) and major-shareholder ratios are confirmed values. The FY2025 (2026-03 ) results are to be disclosed 2026-05-15 but are not incorporated in this article. The Greenhill acquisition amount (770 億円 / 5.5 億 dollars) and the Rakuten Securities capital-alliance amount (approx. 800 億円) vary with the exchange rate / deal structure at the time. **The claims of "investment in PayPay Bank" and "CA Mobile JV" are misrecognitions and are isolated to `.opinions/JapanFG/mizuho-fg.md`**, and the body is corrected to the confirmed PayPay Securities investment (Mizuho Securities 24.8%) and the business alliance with CyberAgent, etc. The ChatGPT all-employee deployment (a first among megabanks) has been confirmed and corrected via public reporting (former "lower-grade among megabanks" misnotation).
+> confidence: **extracted** (v1.3  verified 2026-07-29 against the official Group Companies / Financial Information). The 2025-03  results (net income 8854 億 / total assets 283.3 兆) and major-shareholder ratios are confirmed values as of that point; FY2025 (2026-03 ) has been disclosed but is not incorporated in this article's financial comparison table. The Greenhill acquisition amount (770 億円 / 5.5 億 dollars) and the Rakuten Securities capital-alliance amount (approx. 800 億円) vary with the exchange rate / deal structure at the time. **The claims of "investment in PayPay Bank" and "CA Mobile JV" are misrecognitions and are isolated to `.opinions/JapanFG/mizuho-fg.md`**, and the body is corrected to the confirmed PayPay Securities investment (Mizuho Securities 24.8%) and the business alliance with CyberAgent, etc. The ChatGPT all-employee deployment (a first among megabanks) has been confirmed and corrected via public reporting (former "lower-grade among megabanks" misnotation).

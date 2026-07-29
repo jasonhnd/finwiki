@@ -1,11 +1,11 @@
 ---
 source: megabanks/japan-financial-conglomerate-structure-overview
-source_hash: 5535ad674c33dad3
+source_hash: e04b662c8e3396d0
 lang: en
 status: machine
 fidelity: ok
 title: "Japan financial conglomerate structure overview"
-translated_at: 2026-05-31T23:59:49.416Z
+translated_at: 2026-07-29T00:31:31.676Z
 ---
 # Japan financial conglomerate structure overview
 
@@ -16,9 +16,9 @@ A **Japanese financial conglomerate** (金融コングロマリット / 金融�
 Japan's conglomerate landscape sits on a six-cluster taxonomy:
 
 1. **Mega-bank FG** (3 entities) — MUFG, SMFG, Mizuho FG. Universal-bank franchises with global G-SIB designation.
-2. **Trust-dominant FG** (2 entities) — Sumitomo Mitsui Trust HD, Mitsubishi UFJ Trust (within MUFG). Asset-administration and pension-trust focus.
-3. **Postal / public-finance FG** (3 entities) — Nippon Post (Japan Post Holdings) consolidating Yucho Bank, Kampo Life; Norinchukin Bank; JFC / JBIC / DBJ as policy-finance institutions.
-4. **Communications / payment FG** (4 entities) — au FH (KDDI), PayPay FG (SoftBank / LY), Rakuten FG, Sony FG, NTT Docomo FG (ndfg). Started from telecom or EC, now consolidating bank / securities / insurance / payment licenses.
+2. **Trust-dominant FG** — Sumitomo Mitsui Trust Group is the independent trust-led group; Mitsubishi UFJ Trust is part of MUFG rather than a second independent FG.
+3. **Postal / cooperative / policy-finance cluster** — Japan Post Holdings, Norinchukin Bank, JFC, JBIC and DBJ are heterogeneous statutory or cooperative institutions, not one legal FG type.
+4. **Communications / payment-origin FG** (5 analysis routes) — au FH, PayPay ecosystem, Rakuten FG, the now-independent Sony FG, and NTT Docomo FG. Their legal structures differ and not every route is a statutory financial holding company.
 5. **Independent securities / asset-management FG** (3+ entities) — Nomura HD, Daiwa SG, SBI HD. Securities-led with banking and asset-management adjacencies.
 6. **Regional bank FG** (20+ entities) — Concordia FG, Mebuki FG, Yamaguchi FG, Fukuoka FG, Kyushu FG, Kyoto FG, Hokuhoku FG, Shizuoka FG, etc. Two or more regional banks consolidated under a single holding company.
 
@@ -62,11 +62,13 @@ These institutions are public or quasi-public in nature and operate under specif
 
 | Entity | Origin | Bank | Securities | Insurance | Payment | Card |
 |---|---|---|---|---|---|---|
-| [[megabanks/au-fh|au FH]] | KDDI (telecom) | [[banking/au-jibun-bank|au Jibun Bank]] | au Kabucom Securities | [[non-life-insurers/au-insurance|au Insurance]] | [[payment-firms/au-payment|au Payment]] (au PAY) | au PAY Card |
+| [[megabanks/au-fh|au FH]] | KDDI (telecom) | [[banking/au-jibun-bank|au Jibun Bank]] | — (au Kabucom left in 2025-01) | [[non-life-insurers/au-insurance|au Insurance]] | au Financial Services (au PAY) | au Financial Services (au PAY Card) |
 | [[megabanks/paypay-fg|PayPay FG]] | SoftBank / LY | [[banking/paypay-bank|PayPay Bank]] | [[securities-firms/paypay-securities|PayPay Securities]] | PayPay Insurance | [[payment-firms/paypay|PayPay]] | [[card-issuers/paypay-card|PayPay Card]] |
 | [[payment-firms/rakuten-fg|Rakuten FG]] | Rakuten (EC) | [[banking/rakuten-bank|Rakuten Bank]] | Rakuten Securities (49% sold to Mizuho FG) | Rakuten Life, Rakuten Non-life | Rakuten Pay | Rakuten Card |
-| [[megabanks/sony-fg|Sony FG]] | Sony Group | [[banking/sony-bank|Sony Bank]] | (planned) | [[life-insurers/sony-life|Sony Life]], Sony Assurance | — | — |
-| [[megabanks/ndfg|NTT Docomo FG]] | NTT Docomo (telecom) | (planned 2026-07) | (planned) | (planned) | d Barai (d Payment) | d Card |
+| [[megabanks/sony-fg|Sony FG]] | Sony origin; independent listed FG since 2025 | [[banking/sony-bank|Sony Bank]] | — | [[life-insurers/sony-life|Sony Life]], Sony Assurance | — | — |
+| [[megabanks/ndfg|NTT Docomo FG]] | NTT Docomo (telecom) | Sumishin SBI Net Bank (Docomo SMTB name from 2026-08-03) | Monex Securities route | Docomo Insurance / agency route | d Barai | d Card |
+
+Sources: ^[auFH「現行グループ会社」: https://www.au-financial.com/corporate_vision.html; SoftBank FY2025 results: https://www.softbank.jp/en/corp/set/data/ir/documents/presentations/fy2025/investors/pdf/sbkk_investors_presentation_20260511_en.pdf; Sony Group FY2025 Form 20-F: https://www.sony.com/en/SonyInfo/IR/library/FY2025_20F_PDF.pdf; NTTドコモ「NDFG体制移行」: https://www.docomo.ne.jp/info/news_release/2026/03/31_00.html.]
 
 These FGs have built financial-license stacks around their core telecom or EC franchise. The pattern: large customer base + branded payment → add bank / securities / insurance / card to monetize the customer lifecycle. See [[fintech/embedded-wallet-fintech-disintermediation-overview]] for the broader pattern.
 
@@ -108,6 +110,8 @@ The FSA supervises financial conglomerates through:
 | Financial Conglomerate Supervisory Guidelines | FSA guideline on group-level risk management, capital adequacy, intra-group transactions, governance. |
 | G-SIB / D-SIB designation | The three megabanks are FSB-designated G-SIBs. FSA also designates D-SIBs (domestic systemically important banks) with additional capital surcharges. |
 | Reverse-stress-test and resolution planning | TLAC requirements for G-SIBs; recovery and resolution planning under FSA supervision. |
+
+Sources: ^[FSA「Supervisory Guidelines for Major Banks」: https://www.fsa.go.jp/en/; FSB「Global Systemically Important Banks」: https://www.fsb.org/work-of-the-fsb/financial-innovation-and-structural-change/global-systemically-important-financial-institutions-g-sifis/; BIS「G-SIB framework」: https://www.bis.org/bcbs/gsib/.]
 
 ## Why Japan's Conglomerate Landscape Looks This Way
 

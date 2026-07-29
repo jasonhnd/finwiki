@@ -3,9 +3,9 @@ title: ソニーフィナンシャルグループ (Sony FG)
 aliases: ["Sony Financial Group", "ソニーフィナンシャル G", "SFG", "旧 ソニーフィナンシャルホールディングス", "SFH", "Sony Financial Holdings"]
 domain: megabanks
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-15
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, mfg-financial, sony]
 status: active
@@ -19,6 +19,11 @@ sources:
   - "ソニー生命 / ソニー損保 / ソニー銀行 公式沿革"
   - "ニッセイ基礎研究所「ソニーのパーシャル・スピンオフ－ソニーフィナンシャルの分離・上場」 https://www.nli-research.co.jp/report/detail/id=83393?site=nli"
   - "SMBC日興証券「ソニーグループ（6758）のパーシャル・スピンオフに関するお知らせ」(2025-09-17、2025-10-01 効力発生・再上場 8729 を確認) https://www.smbcnikko.co.jp/news/customer/2025/n_20250917_01.html"
+  - "Sony Group FY2025 Form 20-F: https://www.sony.com/en/SonyInfo/IR/library/FY2025_20F_PDF.pdf"
+  - "Sony Financial Group「Group Structure」: https://www.sonyfg.co.jp/en/company/structure.html"
+  - "Sony Financial Group「About Our Group」: https://www.sonyfg.co.jp/en/company/about_group.html"
+  - "Sony Financial Group「Basic Stock Information」: https://www.sonyfg.co.jp/en/ir/shareholder/shareholder.html"
+  - "Sony Financial Group「Interim Report 2025」: https://www.sonyfg.co.jp/en/financial_info/annualreport/260130_01.pdf"
 ---
 
 # ソニーフィナンシャルグループ (Sony FG)
@@ -29,7 +34,7 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[lif
 
 ## TL;DR
 
-ソニーブランド × 個人金融に特化した総合金融持株会社。生命保険（ソニー生命、ライフプランナー営業）+ 損害保険（ソニー損保、ネット自動車保険）+ ネット銀行（ソニー銀行、外貨・住宅ローン強）の 3 本柱。2007 上場（旧称 SFH）→ 2020-09 親会社ソニーグループによる TOB で完全子会社化 → 2024-05 金融事業分離方針 → **TSE Prime relisting date: 2025-09-29** / **partial spin-off effective date: 2025-10-01**。メガバンク系と異なり、製造業由来コングロマリットの金融部門が独立再上場するレアケース。
+ソニーブランド × 個人金融に特化した総合金融持株会社。生命保険（ソニー生命）+ 損害保険（ソニー損保）+ ネット銀行（ソニー銀行）を中核とし、介護・ベンチャーキャピタル・少額短期保険も持つ。2007 上場（旧称 SFH）→ 2020-09 Sony Group による完全子会社化 → **2025-09-29 東証 PRIME 再上場** → **2025-10-01 パーシャルスピンオフ発効**。現在は Sony Group の連結子会社ではなく、発効日時点で Sony Group が 16.40% を保有する持分法適用会社として別個に開示される。
 
 ## 1. 会社概要
 
@@ -43,24 +48,27 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[lif
 - Partial spin-off effective date: **2025-10-01**.
 **設立**：2004-04-01（ソニーフィナンシャルホールディングスとして設立、2007-10 上場）^[extracted]
 **本社**：東京都千代田区大手町 1-9-2 大手町フィナンシャルシティ グランキューブ ^[extracted]
-**親会社**：ソニーグループ株式会社（2020-09〜 完全親会社、2025-10 以降は持株比率低下・独立予定）^[extracted]
+**主要株主関係**：Sony Group は発効日時点で 1,172,218,284 株（16.40%）を保有し、SFG は Sony Group の持分法適用会社 ^[extracted]
 
-### 主要子会社・グループ構造（再上場後想定）
+### 主要子会社・グループ構造（2025-10-01 以降）
 
 ```
-ソニーフィナンシャルグループ（持株会社・東証 PRIME 再上場予定 8729）
+ソニーフィナンシャルグループ（持株会社・東証 PRIME 8729）
   ├── ソニー生命保険（100%）── 1981 創業（米プルデンシャル合弁起源）、ライフプランナー営業
   ├── ソニー損害保険（100%）── 1998 創業、ネット自動車保険大手
   ├── ソニー銀行（100%）── 2001 開業、ネット銀行・外貨預金・住宅ローン
-  ├── ソニーフィナンシャルベンチャーズ（100%）── CVC・フィンテック投資
-  └── ソニーライフ・コミュニケーションズ等 周辺会社
+  ├── ソニーライフケア（100%）── 介護事業
+  ├── ソニーフィナンシャルベンチャーズ（100%）── CVC
+  └── ソニー少額短期保険（100%）
 ```
 
-### 主要株主（パーシャルスピンオフ後の構造、開示スキームベース）
+### 株式・会計上の位置
 
-- **ソニーグループ**：パーシャルスピンオフ後、議決権を 20% 未満まで低下（連結除外要件）— 開示スキーム ^[extracted]
-- ソニーグループ既存株主への按分交付（現物配当方式、ソニーグループ株 1 株につきソニー FG 株 1 株を付与）^[extracted]
-- 一般株主：再上場後に流動性確保
+- **Sony Group 保有**：1,172,218,284 株、16.40%（2025-10-01）^[extracted]
+- **SFG 発行済株式**：6,770,358,214 株（2026-03-31）。自己株式取得等で母数が変動するため、異なる基準日の数値を混ぜて持分比率を再計算しない
+- **Sony Group の会計**：SFG を連結除外し持分法適用会社として認識。Financial Services は discontinued operations として継続事業・報告セグメントから分離
+
+Sources: ^[Sony Group FY2025 Form 20-F, Note 33: https://www.sony.com/en/SonyInfo/IR/library/FY2025_20F_PDF.pdf; SFG Interim Report 2025: https://www.sonyfg.co.jp/en/financial_info/annualreport/260130_01.pdf; SFG「Basic Stock Information」: https://www.sonyfg.co.jp/en/ir/shareholder/shareholder.html.]
 
 ### 重要年表 ^[extracted]
 
@@ -78,6 +86,7 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[lif
 | **2020-09-29** | **TOB 成立 → 完全子会社化 → 東証 上場廃止** |
 | **2024-05-22** | **ソニーグループ 経営方針説明会で「金融事業 パーシャルスピンオフ・再上場」発表** ★ |
 | **2025-09-29** | **ソニーフィナンシャルグループとして東証 PRIME 再上場**（証券コード 8729 復活、2025-10-01 効力発生のパーシャルスピンオフによる・日本初）★ |
+| **2025-10-01** | **パーシャルスピンオフ発効、Sony Group の持分法適用会社へ移行** |
 
 ## 2. 事業セグメント・マップ
 
@@ -87,12 +96,16 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[lif
 | 損害保険 | ソニー損保 | **ネット自動車保険** 国内最大級・走行距離連動型先駆 |
 | ネット銀行 | ソニー銀行 | **外貨預金・住宅ローン** 強い・MoneyKit ブランド |
 | CVC・フィンテック | ソニーフィナンシャルベンチャーズ | グループ内ベンチャー投資 |
+| 介護 | ソニーライフケア | Lifecare Design / Proud Life を傘下に運営 |
+| 少額短期保険 | ソニー少額短期保険 | 少額短期保険 |
+
+Sources: ^[SFG「About Our Group」: https://www.sonyfg.co.jp/en/company/about_group.html; SFG「Group Structure」: https://www.sonyfg.co.jp/en/company/structure.html.]
 
 ### B2C ブランド戦略
 
 - **ソニーブランド × 金融商品**：製造業（エレクトロニクス）由来の信頼性・革新性をそのまま金融商品ブランドへ転用
 - **チャネル分離**：生保はリアル営業（ライフプランナー）、損保・銀行はネット完結 → 顧客層・購入動機別に明確な使い分け
-- **クロスセル**：グループ内 3 社間で顧客紹介・共同販売 → 個人金融ライフサイクル全体カバー（保険・預金・ローン）
+- **事業ポートフォリオ**：生命・損保・銀行に加え、介護・VC・少額短期保険を公式グループ一覧で区分
 
 ### 競合ポジション
 
@@ -128,8 +141,13 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[lif
 - TOB 関連: ソニーグループ 2020-05-19 公開買付届出書
 - **ニッセイ基礎研究所「ソニーのパーシャル・スピンオフ－ソニーフィナンシャルの分離・上場」**（スキーム詳細・親会社持株比率低下・日本初パーシャルスピンオフを解説）https://www.nli-research.co.jp/report/detail/id=83393?site=nli
 - **SMBC 日興証券「ソニーグループ（6758）のパーシャル・スピンオフに関するお知らせ」**（2025-09-17、2025-10-01 効力発生・2025-09-29 ソニー FG 再上場・証券コード 8729・ソニーG 株 1 株につきソニー FG 株 1 株付与を確認）https://www.smbcnikko.co.jp/news/customer/2025/n_20250917_01.html
+- **Sony Group「FY2025 Form 20-F」** https://www.sony.com/en/SonyInfo/IR/library/FY2025_20F_PDF.pdf
+- **Sony Financial Group「Group Structure」** https://www.sonyfg.co.jp/en/company/structure.html
+- **Sony Financial Group「About Our Group」** https://www.sonyfg.co.jp/en/company/about_group.html
+- **Sony Financial Group「Basic Stock Information」** https://www.sonyfg.co.jp/en/ir/shareholder/shareholder.html
+- **Sony Financial Group「Interim Report 2025」** https://www.sonyfg.co.jp/en/financial_info/annualreport/260130_01.pdf
 
 ---
 
 > [!info] 検証状況
-> confidence: **likely**（Wikipedia + 公式発表ベース、2026-05-19 校核 / 2026-05-30 スピンオフ実施を一次情報で確定）。重要数値（再上場日 **2025-09-29**、パーシャルスピンオフ効力発生 **2025-10-01**、TOB 完全子会社化 2020-09-29、各社設立年）は公式発表・証券各社告知ベース。**旧「予測（forecast）」標注（再上場・スピンオフ・親会社持株比率低下・現物配当）は実施確認により除去**（NLI 基礎研・SMBC 日興告知で確定）。再上場後の確定持株比率・主要株主構造は有価証券報告書ベースの数値更新を要する。
+> confidence: **likely**（v1.2 Sony Group Form 20-F / SFG 上場後 IR で 2026-07-29 校核）。再上場日 **2025-09-29**、パーシャルスピンオフ効力発生 **2025-10-01**、発効日時点の Sony Group 保有 **16.40%**、持分法適用、2026-03-31 の SFG 発行済株式数を基準日付きで分離した。再上場・スピンオフを「予定」「想定」とする旧記述を除去し、現行の介護・VC・少額短期保険も公式グループ構造に追加。以後の持分比率は最新 SFG 開示で更新する。

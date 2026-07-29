@@ -8,9 +8,9 @@ aliases:
   - "mitsubishi-corp-finance"
 domain: trading-company-finance
 created: 2026-05-24
-last_updated: 2026-05-26
-last_tended: 2026-06-24
-review_by: 2026-08-08
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, finance, trading-company-finance, mitsubishi-corp, group-treasury, factoring, cms]
 status: active
@@ -19,6 +19,8 @@ sources:
   - "三菱商事 公式 IR / 統合報告書"
   - "公益社団法人リース事業協会 (JLA) https://www.leasing.or.jp/"
   - "EDINET 有価証券報告書検索"
+  - "三菱商事フィナンシャルサービス「会社概要」: https://www.mcfj.co.jp/corp/about.html"
+  - "三菱商事フィナンシャルサービス「事業紹介」: https://www.mcfj.co.jp/bussiness/"
 ---
 
 # 三菱商事フィナンシャルサービス (Mitsubishi Corporation Financial Services)
@@ -27,14 +29,14 @@ sources:
 
 This entry sits under [[trading-company-finance/INDEX|trading-company-finance INDEX]]. Read it against [[asset-managers/mitsubishi-corp-asset-management|三菱商事アセットマネジメント]] for the asset-management adjacent within the same parent, and [[trading-company-finance/mitsui-bussan-financial-services|三井物産フィナンシャルサービス]] for the closest peer trading-company group-treasury arm. For the leasing peer set already covered in this wiki — [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] (the Mitsubishi-side listed leasing platform), [[leasing-firms/smfl|SMFL]] (住友商事 + SMFG), [[leasing-firms/tokyo-century|東京センチュリー]] (伊藤忠系), [[cooperative-banks/ja-mitsui-leasing|JA三井リース]] (三井物産 + JA) — see [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
-## 1. 会社概要
+## 1. 会社概要 ^[三菱商事フィナンシャルサービス「会社概要」: https://www.mcfj.co.jp/corp/about.html]
 
 | Item | Notes |
 |---|---|
 | Legal name | 三菱商事フィナンシャルサービス株式会社 ^[extracted] |
 | Wiki role | **三菱商事グループの内向け金融**：CMS / グループファクタリング / グループファイナンス / 為替リスクヘッジ仲介 |
 
-### 三菱グループ金融機能の三層構造
+### 三菱グループ金融機能の三層構造 ^[三菱商事フィナンシャルサービス「事業紹介」: https://www.mcfj.co.jp/bussiness/; 三菱商事 IR: https://www.mitsubishicorp.com/jp/ja/ir/]
 
 | 層 | 主体 | 役割 |
 |---|---|---|
@@ -44,7 +46,7 @@ This entry sits under [[trading-company-finance/INDEX|trading-company-finance IN
 
 この三層構造は商社系金融のテンプレートで、三井物産 ([[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]])・住友商事 ([[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]])・丸紅 ([[trading-company-finance/marubeni-financial-services|丸紅FS]]) でも類似の構造が存在する。
 
-## 2. 事業セグメント・マップ
+## 2. 事業セグメント・マップ ^[三菱商事フィナンシャルサービス「事業紹介」: https://www.mcfj.co.jp/bussiness/]
 
 | セグメント | 内容 |
 |---|---|
@@ -64,7 +66,7 @@ This entry sits under [[trading-company-finance/INDEX|trading-company-finance IN
 
 この機能を独立子会社化することで、グループ内金融サービスの専門性 + ガバナンス + 会計分離 + (一部) 規制対応 を確保している。
 
-### 競合 / Peer
+### 競合 / Peer ^[各親会社の有価証券報告書・公式 IR を横断した比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]
 
 | 商社 | 内向け金融子会社 | リース系外向け |
 |---|---|---|

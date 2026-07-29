@@ -7,9 +7,9 @@ aliases:
   - "セイコーエプソン"
 domain: "manufacturer-finance"
 created: 2026-05-19
-last_updated: 2026-06-24
-last_tended: 2026-06-24
-review_by: 2026-12-24
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [manufacturing, electronics, nagano, treasury, supply-chain-finance]
 status: active
@@ -68,6 +68,8 @@ Epson belongs in manufacturer-finance because large manufacturers create repeate
 | Manufacturer treasury | Cash, borrowings, bonds, lease obligations and shareholder returns create capital-market and banking touchpoints. |
 | Capex / leasing | Industrial robotics, commercial printing and production equipment connect to leasing and equipment-finance pages, even if Epson is not itself a lessor. |
 | FX / global footprint | Overseas group-company count and global revenue base make FX and trade-finance analysis relevant.^[source:epson-company-outline-2026] |
+
+Sources: ^[source:epson-company-outline-2026] ^[source:epson-fy2026-results-2026] ^[source:epson-cashflow-2026]
 
 ## 4. Risk / policy map
 

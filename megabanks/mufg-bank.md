@@ -9,9 +9,9 @@ aliases:
   - "megabanks/mitsubishi-ufj-bank"
 domain: megabanks
 created: 2026-05-20
-last_updated: 2026-06-05
-last_tended: 2026-06-05
-review_by: 2026-12-05
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, bank, megabank, operating-company]
 status: active
@@ -63,6 +63,8 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]] (its domain route). Re
 | License route | 銀行法上の銀行免許 (都市銀行); FSA bank license list |
 | Bank code | 0005 |
 | Parent boundary | [[megabanks/mufg|MUFG]] 傘下 bank operating company |
+
+Sources: ^[金融庁「銀行免許一覧」: https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx; 三菱UFJ銀行「会社概要」: https://www.bk.mufg.jp/kigyou/profile.html; MUFG「グループ会社」: https://www.mufg.jp/profile/biz_and_network/group/index.html.]
 
 ## 2. Operating model
 

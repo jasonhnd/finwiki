@@ -1,41 +1,41 @@
 ---
 source: trust-banks/escrow-agent-japan-trust
-source_hash: eb11934ec15e232c
+source_hash: 076088fca7facee4
 lang: en
 status: machine
 fidelity: ok
 title: "エスクロー・エージェント・ジャパン信託 (Escrow Agent Japan Trust)"
-translated_at: 2026-05-31T15:29:03.918Z
+translated_at: 2026-07-28T23:40:43.989Z
 ---
 
-# エスクロー・エージェント・ジャパン信託 (Escrow Agent Japan Trust)
+# ミトラ信託 (Mitra Trust)
 
 ## Wiki route
 
-Escrow Agent Japan Trust is a standalone trust-company route under [[trust-banks/INDEX|trust-banks INDEX]] and is promoted from [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]]. Read it with [[finance/japan-mbo-and-squeeze-out-process|Japan MBO / squeeze-out process]], [[finance/japan-acquisition-finance|Japan acquisition finance]], and [[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]].
+Mitra Trust is a standalone trust-company route under [[trust-banks/INDEX|trust-banks INDEX]] and is promoted from [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]]. The repository path retains the former company name for link stability. Read it with [[finance/japan-mbo-and-squeeze-out-process|Japan MBO / squeeze-out process]], [[finance/japan-acquisition-finance|Japan acquisition finance]], and [[banking/japan-trust-bank-custody-map|Japan trust-bank custody map]].
 
 Use this page for escrow, real-estate transaction support, inheritance-related trust services, and property-sale / administration workflows.
 
 ## Overview
 
-Escrow Agent Japan Trust is the trust-company subsidiary of Escrow Agent Japan. Its public company information states that it is registered as a management trust company and is wholly owned by Escrow Agent Japan.
+The current legal name is ミトラ信託株式会社 (MITRA Trust, Inc.); its official profile identifies 株式会社エスクロー・エージェント・ジャパン信託 as the former name. The same profile states that it is a management trust company wholly owned by ミトラグループ株式会社, itself identified there as the former 株式会社エスクロー・エージェント・ジャパン. ^[ミトラ信託「会社概要」: https://eajt.co.jp/information/index.html]
 
 The page matters because escrow, real-estate, inheritance, and administrative outsourcing are recurring transaction-control themes in finance. The trust company provides a concrete route for non-bank escrow / trust services.
 
-## Entity Boundary
+## Entity Boundary ^[金融庁「運用型信託会社免許・管理型信託会社登録一覧」（2026-06-30 時点）: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; ミトラ信託「会社概要」: https://eajt.co.jp/information/index.html]
 
 | Item | Reading |
 |---|---|
-| Legal name | 株式会社エスクロー・エージェント・ジャパン信託 |
-| English name | Escrow Agent Japan Trust, Inc. |
+| Legal name | ミトラ信託株式会社（旧社名：株式会社エスクロー・エージェント・ジャパン信託） |
+| English name | MITRA Trust, Inc. |
 | License type | Management trust company |
-| Registration | 関東財務局長（信4）第11号 in public company information |
-| Parent | Escrow Agent Japan 100% |
+| Registration | 関東財務局長（信4）第11号 |
+| Parent | ミトラグループ株式会社 100% |
 | Business surface | Trust services, inheritance-related services, real-estate auction / sale support |
 
 Keep this page separate from the listed parent company's broader financial / real-estate solution business. This page is the trust-company layer.
 
-## Business Role Map
+## Business Role Map ^[ミトラ信託 公式サイト: https://eajt.co.jp/]
 
 | Function | FinWiki relevance |
 |---|---|
@@ -46,7 +46,7 @@ Keep this page separate from the listed parent company's broader financial / rea
 
 ## Public Context
 
-Escrow Agent Japan Trust is a practical infrastructure page. It helps explain how trust and escrow functions can sit under real-estate, inheritance, and transaction-administration workflows without becoming a bank or securities broker.
+Mitra Trust is a practical infrastructure page. It helps explain how trust and escrow functions can sit under real-estate, inheritance, and transaction-administration workflows without becoming a bank or securities broker.
 
 Specific deal, property, auction, or client claims should be added only with public transaction-level support.
 
@@ -69,5 +69,5 @@ Specific deal, property, auction, or client claims should be added only with pub
 ## Sources
 
 - FSA: trust company list.
-- Escrow Agent Japan Trust: official company information.
-- Escrow Agent Japan: official company profile and group context.
+- FSA: current trust-company list as of 2026-06-30.
+- Mitra Trust: official company information and services.

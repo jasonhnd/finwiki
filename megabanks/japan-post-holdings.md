@@ -62,9 +62,11 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[reg
 | 2017-04 | トール・ホールディングス（豪、物流子会社）4,000 億円規模ののれん減損 |
 | **2019-06** | **[[life-insurers/kampo-life|かんぽ生命]] 不適切販売問題 表面化** → 業務改善命令 |
 | 2019-12 | 行政処分 → 経営陣引責退任 |
-| 2021 | 楽天との資本業務提携（[[regional-banks/japan-post-bank|ゆうちょ銀行]] が楽天グループ株主に）|
+| 2021 | 楽天との資本業務提携（日本郵政が楽天グループ株主に）|
 | 2023-2024 | 配当方針継続・自己株式取得・株主還元強化 |
 | 2025〜 | デジタル郵便・物流効率化・楽天連携深化 |
+
+Sources: ^[Japan Post Holdings「History」: https://www.japanpost.jp/en/corporate/changes/index.html; Japan Post Holdings「IR Q&A」: https://www.japanpost.jp/en/ir/faq/index.html.]
 
 ## 2. 事業セグメント
 
@@ -74,6 +76,8 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[reg
 | **銀行** | [[regional-banks/japan-post-bank|ゆうちょ銀行 7182]] | **総資産規模で日本最大級の銀行**（200 兆円超）、預金・運用業 |
 | **生命保険** | [[life-insurers/kampo-life|かんぽ生命 7181]] | 国内最大級の生保会社の一つ、簡易生命保険・養老保険等 |
 | **不動産・その他** | 日本郵政不動産 等 | 旧郵便局舎活用・大手町プレイス等の不動産事業 |
+
+Sources: ^[Japan Post Holdings「FY2026 Financial Results」: https://www.japanpost.jp/en/ir/library/earnings/pdf/20260515_02.pdf; Japan Post Holdings「Annual Reports」: https://www.japanpost.jp/en/ir/library/disclosure/index.html.]
 
 ### 法律上の保有義務
 
@@ -89,7 +93,9 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[reg
 | ゆうちょ銀行 | 日本郵政 | 約 49.87% | 2026-03-31 |
 | かんぽ生命 | 日本郵政 | 49.75% | 2026-03-31 |
 
-比率の分母定義は各社開示に従う。^[https://www.japanpost.jp/en/ir/stock/index10.html; https://www.post.japanpost.jp/about/profile_en.html; https://www.jp-bank.japanpost.jp/en/ir/investor/en_ir_inv_index.html; https://www.jp-life.japanpost.jp/IR/en/stock/basic.html]
+Sources: ^[Japan Post Holdings「General Stock Information」: https://www.japanpost.jp/en/ir/stock/index10.html; Japan Post Co.「Corporate Information」: https://www.post.japanpost.jp/about/profile_en.html; Japan Post Bank「About JAPAN POST BANK」: https://www.jp-bank.japanpost.jp/en/ir/investor/en_ir_inv_index.html; Japan Post Insurance「General Stock Information」: https://www.jp-life.japanpost.jp/IR/en/stock/basic.html.]
+
+比率の分母定義は各社開示に従う。
 
 ### トリプル IPO（2015-11-04）
 
@@ -107,7 +113,7 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[reg
 
 ### 楽天との資本業務提携（2021〜）
 
-- [[regional-banks/japan-post-bank|ゆうちょ銀行]] を含む日本郵政グループが楽天グループ（4755）に出資
+- 日本郵政が楽天グループ（4755）に出資（ゆうちょ銀行による出資ではない）
 - 物流・モバイル・金融分野での連携
 
 ### 金融 2 社民営化の進捗

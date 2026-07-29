@@ -3,14 +3,14 @@ title: "SMBC信託銀行 (SMBC Trust Bank)"
 aliases: ["SMBC Trust Bank", "SMBC信託銀行", "株式会社SMBC信託銀行", "PRESTIA"]
 domain: trust-banks
 created: 2026-05-20
-last_updated: 2026-06-05
-last_tended: 2026-06-05
-review_by: 2026-11-20
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, bank, trust-bank, smfg, operating-company]
 status: active
 sources:
-  - "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
+  - "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf"
   - "https://www.smbctb.co.jp/aboutus/information/"
   - "https://www.smbctb.co.jp/aboutus/"
 ---
@@ -25,7 +25,7 @@ This entry sits under [[trust-banks/INDEX|trust-banks INDEX]] (its domain route)
 
 SMBC信託銀行 (SMBC Trust Bank Ltd.) は [[megabanks/sumitomo-mitsui-banking-corp|三井住友銀行]] の 100% 子会社で、[[megabanks/smfg|SMBC / SMFG グループ]] の trust-bank operating company。**銀行法の銀行免許に加え兼営法に基づく信託業務の兼営**を持つ信託兼営金融機関で、PRESTIA ブランドを軸に外貨・富裕層・クロスボーダー個人金融と信託・不動産機能を担う。名称の似た [[trust-banks/smtb|三井住友信託銀行 (SMTB)]] とは別グループ・別法人である点が重要。
 
-## 1. License / group boundary
+## 1. License / group boundary ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; SMBC信託銀行「会社概要」: https://www.smbctb.co.jp/aboutus/information/]
 
 | Item | Notes |
 |---|---|

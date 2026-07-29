@@ -1,11 +1,11 @@
 ---
 source: trading-company-finance/marubeni-financial-services
-source_hash: e9df83ef8c949d24
+source_hash: 65f99596a85ae056
 lang: en
 status: machine
 fidelity: ok
 title: "Marubeni Finance Corporation (丸紅フィナンス)"
-translated_at: 2026-06-19T13:13:22.622Z
+translated_at: 2026-07-28T23:40:43.916Z
 ---
 
 # Marubeni Finance Corporation (丸紅フィナンス)
@@ -14,13 +14,13 @@ translated_at: 2026-06-19T13:13:22.622Z
 
 This entry sits under [[trading-company-finance/INDEX|trading-company-finance INDEX]]. Read it against [[leasing-firms/mizuho-lease|みずほリース]] (the listed leasing arm where Marubeni became a strategic shareholder in 2024) and [[leasing-firms/fuyo-lease|芙蓉総合リース]] (the Fuyo Group peer leasing arm — Marubeni is part of the Fuyo community). For peer trading-company group-treasury arms, see [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]], [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]], [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]], [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]]. See [[banking/INDEX|banking index]] for the broader regulatory boundary.
 
-## 1. Company overview
+## 1. Company overview ^[丸紅 IR: https://www.marubeni.com/jp/ir/; EDINET: https://disclosure2.edinet-fsa.go.jp/]
 
 | Item | Notes |
 |---|---|
 | Wiki role | **Marubeni Group's inward-facing finance** + one wing of the Fuyo Group's financial functions |
 
-### Placement of Marubeni's financial functions
+### Placement of Marubeni's financial functions ^[丸紅の有価証券報告書・関係会社開示と各社公式 IR に基づく比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]
 
 | Layer | Entity | Role |
 |---|---|---|
@@ -30,7 +30,7 @@ This entry sits under [[trading-company-finance/INDEX|trading-company-finance IN
 | **Non-life insurance (Fuyo affiliate)** | [[non-life-insurers/tokio-marine|東京海上HD]] | Principal non-life insurer of the Fuyo Group |
 | **Inward-facing / group finance** | **Marubeni Finance (this page)** | Internal banking / CMS / internal factoring for group companies |
 
-## 2. Business segment map
+## 2. Business segment map ^[丸紅 IR / 有価証券報告書。業務範囲は非上場子会社の開示制約があるため最新関係会社開示を優先: https://www.marubeni.com/jp/ir/]
 
 | Segment | Content |
 |---|---|
@@ -41,7 +41,7 @@ This entry sits under [[trading-company-finance/INDEX|trading-company-finance IN
 | **Overseas remittance services** | Overseas remittance / collection for group companies |
 | **Trade-finance support** | Credit support tied to Marubeni's own transactions in power, plants, food, agrochemicals, and chemicals |
 
-### Competitors / Peers
+### Competitors / Peers ^[各親会社の有価証券報告書・公式 IR を横断した比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]
 
 | Trading company | Inward-facing finance subsidiary | Outward-facing leasing affiliate |
 |---|---|---|

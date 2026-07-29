@@ -10,9 +10,9 @@ aliases:
   - "trust-banks/master-trust-bank-of-japan"
 domain: trust-banks
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-15
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, trust-banking, custody]
 status: active
@@ -21,6 +21,7 @@ sources:
   - 三菱 UFJ 信託銀行 開示資料 (2025)
   - "https://www.mastertrust.co.jp/assets/pdf/financial/zm20250521.pdf"
   - "https://www.mastertrust.co.jp/company/information.html"
+  - "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf"
 ---
 # 日本マスタートラスト信託銀行
 
@@ -75,7 +76,7 @@ This entry sits under [[trust-banks/INDEX|trust-banks INDEX]]. Read it against [
 | 2020 年代 | カストディ DX / コーポレートアクション電子化 / 議決権電子行使対応 |
 | **2024 年度末 (2025-03)** | **預かり資産残高 770 兆円**（前年度末比 約 67 兆円増、国内最大規模、信託財産残高 約 598.7 兆円 + 事務受任等管理資産）|
 
-## 2. 事業セグメント・マップ
+## 2. 事業セグメント・マップ ^[日本マスタートラスト信託銀行「会社概要」および 2024 年度決算: https://www.mastertrust.co.jp/company/information.html; https://www.mastertrust.co.jp/assets/pdf/financial/zm20250521.pdf]
 
 | セグメント | 機能 | 顧客 |
 |---|---|---|
@@ -85,9 +86,9 @@ This entry sits under [[trust-banks/INDEX|trust-banks INDEX]]. Read it against [
 | **議決権行使代行** | 委託者指図に基づく議決権行使、ISS / Glass Lewis 等助言会社対応 | 機関投資家 |
 | **信託代理業務** | 信託受益権記録、エスクロー、特定金外信託 | 法人顧客 |
 
-### 業界構造 — カストディ 2 強体制
+### 業界構造 — カストディ 2 強体制 ^[日本マスタートラスト信託銀行「会社概要」: https://www.mastertrust.co.jp/company/information.html; 日本カストディ銀行「ディスクロージャー誌 2025」: https://www.custody.jp/data/disclosure/pdf/disclosure202507.pdf]
 
-日本の資産管理専業信託は **2 強寡占**:
+日本の資産管理専業信託の主要 2 社を、各社公開資料の法人・株主境界で比較する： ^[日本マスタートラスト信託銀行「会社概要」: https://www.mastertrust.co.jp/company/information.html; 日本カストディ銀行「ディスクロージャー誌 2025」: https://www.custody.jp/data/disclosure/pdf/disclosure202507.pdf]
 
 | 機関 | 系列 | 設立 | 主要株主 |
 |---|---|---|---|

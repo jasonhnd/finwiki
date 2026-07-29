@@ -48,7 +48,7 @@
 |---|---:|---:|---:|
 | `JapanFG` | 1 | 0 | 17.0 |
 | `agent-economy` | 47 | 0 | 12.7 |
-| `asset-managers` | 15 | 0 | 17.2 |
+| `asset-managers` | 15 | 0 | 15.9 |
 | `banking` | 40 | 0 | 42.8 |
 | `business` | 25 | 0 | 20.0 |
 | `card-issuers` | 24 | 0 | 16.5 |
@@ -64,7 +64,7 @@
 | `derivatives` | 33 | 0 | 20.8 |
 | `exchanges` | 147 | 0 | 12.8 |
 | `finance` | 27 | 0 | 23.0 |
-| `financial-conglomerates` | 8 | 0 | 25.6 |
+| `financial-conglomerates` | 8 | 0 | 24.6 |
 | `financial-licenses` | 9 | 0 | 43.7 |
 | `financial-regulators` | 53 | 0 | 21.8 |
 | `fintech` | 144 | 0 | 10.8 |
@@ -74,8 +74,8 @@
 | `leasing-firms` | 24 | 0 | 22.4 |
 | `life-insurers` | 47 | 0 | 11.4 |
 | `loyalty` | 17 | 0 | 22.4 |
-| `manufacturer-finance` | 14 | 0 | 17.4 |
-| `megabanks` | 20 | 0 | 15.8 |
+| `manufacturer-finance` | 14 | 0 | 14.1 |
+| `megabanks` | 20 | 0 | 15.4 |
 | `money-market` | 17 | 0 | 23.4 |
 | `non-life-insurers` | 57 | 0 | 12.4 |
 | `non-profit` | 12 | 0 | 8.9 |
@@ -93,7 +93,7 @@
 | `systems` | 62 | 0 | 9.7 |
 | `trade` | 13 | 0 | 11.8 |
 | `trading-company-finance` | 8 | 0 | 28.3 |
-| `trust-banks` | 48 | 0 | 12.7 |
+| `trust-banks` | 48 | 0 | 12.1 |
 
 ## canonical_anchor Integrity (drift-gated)
 

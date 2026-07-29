@@ -1,12 +1,12 @@
 ---
 source: megabanks/paypay-fg
-source_hash: 58f4386c5ab6f022
+source_hash: e558c89029bf7fd3
 lang: en
 model: codex-source-faithful
 status: machine
 fidelity: ok
 title: "PayPay financial ecosystem (analytical grouping)"
-translated_at: 2026-07-28T19:18:08Z
+translated_at: 2026-07-28T23:40:43.811Z
 ---
 
 # PayPay financial ecosystem (analytical grouping)
@@ -42,6 +42,8 @@ PayPay's official profile lists PayPay Card, PayPay Bank, PayPay Securities, Pay
 | PayPay Securities Corporation | 75.3% | Smartphone-focused securities services | Financial segment |
 | SB Payment Service Corp. | 100.0% | Payment processing | Financial-segment entity separate from PayPay's official group-company list |
 
+Sources: ^[SoftBank「FY2025 Results」p. 67: https://www.softbank.jp/en/corp/set/data/ir/documents/presentations/fy2025/investors/pdf/sbkk_investors_presentation_20260511_en.pdf; PayPay「Company Profile」: https://about.paypay.ne.jp/en/about/.]
+
 These are **SoftBank-side consolidated voting-rights ratios** from its year ended 2026-03 disclosure. They do not mean that PayPay Corporation directly owns each entity at the stated ratio. ([SoftBank, FY2025 results, p. 67](https://www.softbank.jp/en/corp/set/data/ir/documents/presentations/fy2025/investors/pdf/sbkk_investors_presentation_20260511_en.pdf))
 
 ## 3. Latest KPIs
@@ -55,6 +57,8 @@ These are **SoftBank-side consolidated voting-rights ratios** from its year ende
 | PayPay consolidated GMV | JPY 19.4 trillion | FY2025; eligible payments of PayPay / Card / Bank after eliminating internal transactions |
 | SoftBank Financial-segment revenue | JPY 404.5 billion | FY2025 |
 | SoftBank Financial-segment income | JPY 86.3 billion | FY2025 |
+
+Sources: ^[SoftBank「FY2025 Earnings Data Sheet」pp. 15, 19: https://www.softbank.jp/corp/set/data/ir/documents/presentations/fy2025/results/pdf/sbkk_earnings_datasheet_pdf_20260511.pdf; PayPay「本人確認済ユーザー4,000万人」: https://about.paypay.ne.jp/en/pr/20260318/02/; PayPay「登録ユーザー7,400万人」: https://about.paypay.ne.jp/en/pr/20260702/01/.]
 
 GMV and number of payments do not use the same consolidation scope. SoftBank's data sheet defines GMV as a consolidated metric covering eligible payments of PayPay Corporation, PayPay Card, and PayPay Bank, while number of payments is a PayPay standalone metric. Dividing one by the other to derive a simple “average payment value” would therefore be invalid. ([SoftBank FY2025 earnings data sheet, pp. 15, 19](https://www.softbank.jp/corp/set/data/ir/documents/presentations/fy2025/results/pdf/sbkk_earnings_datasheet_pdf_20260511.pdf); [PayPay, 2026-03-18](https://about.paypay.ne.jp/en/pr/20260318/02/))
 

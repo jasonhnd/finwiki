@@ -1,11 +1,11 @@
 ---
 source: trust-banks/sekisui-house-trust
-source_hash: 4397f79efa007f60
+source_hash: 7553ecd804e6d6d8
 lang: en
 status: machine
 fidelity: ok
 title: "Sekisui House Trust"
-translated_at: 2026-06-01T00:41:50.420Z
+translated_at: 2026-07-28T23:40:44.192Z
 ---
 
 # Sekisui House Trust
@@ -22,7 +22,7 @@ Sekisui House Trust is a management trust company connected to the Sekisui House
 
 The page matters because it is a housing-company trust route. It shows how a construction / housing group can use trust-company functions to support long-term property management and family succession.
 
-## Entity Boundary
+## Entity Boundary ^[金融庁の現行登録と積水ハウス信託会社情報: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://www.sekisuihouse-trust.co.jp/company/]
 
 | Item | Reading |
 |---|---|

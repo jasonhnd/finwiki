@@ -1,11 +1,11 @@
 ---
 source: trust-banks/uk-trust
-source_hash: 5a3e16c0ef3de247
+source_hash: 5e9bf02382d71c95
 lang: ja
 status: machine
 fidelity: ok
 title: "UK Trust / UK信託"
-translated_at: 2026-06-02T16:33:58.473Z
+translated_at: 2026-07-28T23:40:04.647Z
 ---
 # UK Trust / UK信託
 
@@ -19,7 +19,7 @@ UK Trust は、2024 レジストリ上の信託会社であり、公開公式サ
 
 このページは 株式会社UK信託 を対象とする。類似した名称の非金融系 UK 企業や持株会社ページと統合してはならない。公開情報の深さがまだ限られるため、現時点のページは意図的に範囲を狭くしている。
 
-## 事業上の役割マップ
+## 事業上の役割マップ ^[金融庁の現行登録と UK 信託公式サイト: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://uktrust.jp/]
 
 | 経路 | 読み方 |
 |---|---|

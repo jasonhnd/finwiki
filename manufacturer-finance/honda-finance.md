@@ -11,16 +11,18 @@ aliases:
   - "アメリカン ホンダ ファイナンス"
 domain: "manufacturer-finance"
 created: 2026-06-03
-last_updated: 2026-06-03
-last_tended: 2026-06-03
-review_by: 2026-12-03
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [manufacturing, honda, captive-finance, auto-finance, abs, residual-value, keepwell, japan, usa, global]
 status: active
 sources:
   - "https://global.honda/en/investors/"
   - "https://ir.americanhondafinance.com/"
-  - "https://ir.americanhondafinance.com/IR_DCTM/quarterly_reports/Form%2010K%20FY2025%20Year%20ended%20Mar.%202025.pdf"
+  - "https://ir.americanhondafinance.com/IR_DCTM/quarterly_reports/AHFC-03.31.2026-10K%20As%20Filed.pdf"
+  - "https://www.honda.co.jp/HFC/about/profile/"
+  - "https://global.honda/en/investors/financial_data/segment.html"
   - "https://my.americanhondafinance.com/s/about-us-pre-login"
   - "https://hondanews.com/en-US/releases/release-f20318eb27d18d74308003004c34bb7d-dedicated-acura-financial-services-launched"
   - "https://disclosure2.edinet-fsa.go.jp/"
@@ -34,7 +36,7 @@ This entry sits under [[manufacturer-finance/INDEX|manufacturing index]] and is 
 
 ## TL;DR
 
-ホンダの captive auto-finance は、**米州 American Honda Finance Corporation (AHFC)** ・**国内 Honda Finance Co., Ltd. (ホンダファイナンス)** ・**カナダ Honda Canada Finance Inc. (HCFI)** を中心とする、Toyota Financial Services に次ぐ規模の自動車 captive。manufacturing 視点で読むべき軸は **(1) Honda Motor (本田技研工業 7267) が金融を本体外の連結子会社に置く意味、(2) 残価リスク (residual value) を OEM 本体ではなく captive 側へ集約する設計、(3) AHFC が米国で自動車ローン・リース ABS を定期発行する funding 機関である点 ([[structured-finance/auto-loan-abs-japan-toyota-honda|Japan / US auto-loan ABS]] と接続)、(4) Keepwell Agreement という親会社流動性保証の仕組み**。AHFC は HFS (Honda Financial Services) と AFS (Acura Financial Services) の 2 ブランド (DBA) で小売金融を提供し、Ford Motor Credit・Ally Financial・GM Financial・Toyota Motor Credit と並ぶ米国オート captive のトップティアを構成する。
+ホンダの captive auto-finance は、**米州 American Honda Finance Corporation (AHFC)** ・**国内 株式会社ホンダファイナンス** ・**カナダ Honda Canada Finance Inc. (HCFI)** を中心とする。manufacturing 視点で読むべき軸は **(1) Honda Motor (本田技研工業 7267) が金融を連結子会社に置く意味、(2) ローン・リース・ディーラー金融を製品販売と接続する設計、(3) AHFC が社債・CP・ABS・銀行借入を組み合わせて資金調達する点、(4) Keep Well Agreement による親会社の信用補完**。AHFC は米国・カナダで Honda Financial Services と Acura Financial Services のブランドを使用する。
 
 ## 1. 会社構造と製造業視点
 
@@ -46,9 +48,12 @@ This entry sits under [[manufacturer-finance/INDEX|manufacturing index]] and is 
 | AHFC 親会社 | American Honda Motor Co., Inc. (AHM) の 100% 子会社 (AHM は HMC の 100% 子会社) |
 | AHFC ブランド | HFS (Honda Financial Services) / AFS (Acura Financial Services) — いずれも AHFC の DBA |
 | カナダ | Honda Canada Finance Inc. (HCFI, AHFC の過半数子会社、Honda Canada Inc. が非支配持分) |
-| 国内 captive | Honda Finance Co., Ltd. (ホンダファイナンス、国内オートローン・リース) |
-| 親会社保証 | HMC と AHFC が Keepwell Agreement を締結 (流動性・正味純資産の維持を約束) |
+| 国内 captive | 株式会社ホンダファイナンス (1999 年設立、本田技研工業が株主) |
+| 国内登録 | 東京都知事 (1) 第31999号。有効期間は 2024-10-26〜2027-10-25 |
+| 親会社信用補完 | HMC と AHFC / HCFI の間に Keep Well Agreement |
 | AHFC 開示 | 米国 SEC 登録発行体 (Form 10-K を毎年提出、3 月期決算) |
+
+Sources: ^[AHFC, Form 10-K for the fiscal year ended 2026-03-31: https://ir.americanhondafinance.com/IR_DCTM/quarterly_reports/AHFC-03.31.2026-10K%20As%20Filed.pdf; ホンダファイナンス「会社概要・事業内容」: https://www.honda.co.jp/HFC/about/profile/.]
 
 ### 製造業視点のグループ構造
 
@@ -80,9 +85,11 @@ Honda Motor Co., Ltd. (本田技研工業 7267, 製造業本体)
 | ディーラー在庫金融 (フロアプラン) | 米州・国内 | ディーラー支援、生産・出荷タイミング調整 |
 | 自動車保険・延長保証の付帯 | 米州 | 顧客関係の長期化 |
 
+Sources: ^[AHFC, Form 10-K for the fiscal year ended 2026-03-31: https://ir.americanhondafinance.com/IR_DCTM/quarterly_reports/AHFC-03.31.2026-10K%20As%20Filed.pdf; ホンダファイナンス「会社概要・事業内容」: https://www.honda.co.jp/HFC/about/profile/.]
+
 ### 自動車 ABS との接続
 
-AHFC は米国オート captive の主要 ABS 発行体の一つで、**Honda Auto Receivables Owner Trust** シリーズで自動車ローン・リース債権を定期的に証券化する。国内ホンダファイナンスも日本の自動車ローン ABS 市場で発行体となる。Honda Motor 本体の B/S に積み上がるはずの auto receivables を captive が ABS でオフバランス化し、グループ全体のレバレッジを抑える構造は、Toyota / Nissan 系と共通。詳細は [[structured-finance/auto-loan-abs-japan-toyota-honda|Auto-loan ABS Japan (Toyota Finance, Honda Finance, Nissan Credit)]] と [[structured-finance/japan-auto-loan-abs-waterfall-mechanics|Japan auto-loan ABS waterfall mechanics]] 参照。
+AHFC は資金調達源として commercial paper、medium-term notes、asset-backed securities、銀行借入、関係会社借入を明記する。証券化時に債権が会計上消滅するかは、適用会計基準の譲渡・支配・リスク移転要件によって決まり、ABS 発行だけで自動的にオフバランスになるわけではない。詳細は [[structured-finance/auto-loan-abs-japan-toyota-honda|Auto-loan ABS Japan (Toyota Finance, Honda Finance, Nissan Credit)]] と [[structured-finance/japan-auto-loan-abs-waterfall-mechanics|Japan auto-loan ABS waterfall mechanics]] 参照。
 
 ## 3. 主要指標 (定性 + 公開ベース)
 
@@ -92,10 +99,11 @@ AHFC は米国オート captive の主要 ABS 発行体の一つで、**Honda Au
 | AHFC 決算期 | 3 月期 (親会社 HMC に合わせる) | AHFC Form 10-K |
 | AHFC 開示 | SEC 登録発行体、Form 10-K 毎年提出 | SEC EDGAR |
 | 親会社保証 | Keepwell Agreement (HMC ↔ AHFC) | AHFC Form 10-K |
-| 主要競合 (米国) | Ford Motor Credit, Ally Financial, GM Financial, Toyota Motor Credit | 業界レポート |
-| 国内 captive | Honda Finance Co., Ltd. (オートローン・リース) | EDINET / Honda IR |
+| FY2026 金融サービス事業 売上収益 | 3兆5,327億円 | Honda segment information |
+| FY2026 金融サービス事業 セグメント利益 | 2,755億円 | Honda segment information |
+| 国内 captive | 株式会社ホンダファイナンス (クレジット、カーリース、ディーラー金融等) | 同社会社概要 |
 
-> 具体的な連結総資産・債権残高・ABS 発行額は、Honda Motor「金融サービス事業」セグメント開示および AHFC の SEC Form 10-K に四半期・年次で開示される。本エントリは会社構造・captive 設計・funding 機構を中心に記述し、変動の大きい財務数値は一次資料を参照する方針 (脆い financial figures より mechanism 知識を優先)。
+Sources: ^[Honda「Segment Information」(FY2026): https://global.honda/en/investors/financial_data/segment.html; AHFC, Form 10-K for the fiscal year ended 2026-03-31: https://ir.americanhondafinance.com/IR_DCTM/quarterly_reports/AHFC-03.31.2026-10K%20As%20Filed.pdf; ホンダファイナンス「会社概要・事業内容」: https://www.honda.co.jp/HFC/about/profile/.]
 
 ## 4. 戦略 (Residual Value + EV + Brand-Split)
 
@@ -128,7 +136,9 @@ AHFC は米国オート captive の主要 ABS 発行体の一つで、**Honda Au
 
 - Honda Motor Co., Ltd.「Investor Relations」: https://global.honda/en/investors/
 - American Honda Finance Corporation「Investor Relations」: https://ir.americanhondafinance.com/
-- AHFC「Form 10-K (FY ended Mar. 2025)」: https://ir.americanhondafinance.com/IR_DCTM/quarterly_reports/Form%2010K%20FY2025%20Year%20ended%20Mar.%202025.pdf
+- AHFC「Form 10-K (FY ended Mar. 2026)」: https://ir.americanhondafinance.com/IR_DCTM/quarterly_reports/AHFC-03.31.2026-10K%20As%20Filed.pdf
+- ホンダファイナンス「会社概要・事業内容」: https://www.honda.co.jp/HFC/about/profile/
+- Honda「Segment Information」: https://global.honda/en/investors/financial_data/segment.html
 - AHFC「About Us」: https://my.americanhondafinance.com/s/about-us-pre-login
 - Honda News「Dedicated Acura Financial Services Launched」: https://hondanews.com/en-US/releases/release-f20318eb27d18d74308003004c34bb7d-dedicated-acura-financial-services-launched
 - EDINET (有価証券報告書): https://disclosure2.edinet-fsa.go.jp/
@@ -136,4 +146,4 @@ AHFC は米国オート captive の主要 ABS 発行体の一つで、**Honda Au
 ---
 
 > [!info] 校正ステータス
-> confidence: **likely**。AHFC の SEC Form 10-K・会社概要・Honda Motor IR・Honda News を基準に公開情報で構成。AHFC が AHM の 100% 子会社 (AHM は HMC の 100% 子会社)、1980-02-06 カリフォルニア州設立、HFS / AFS の DBA 運用、Honda Canada Finance の過半数保有、HMC との Keepwell Agreement は一次資料で確認。連結財務数値・ABS 発行額は変動が大きいため一次資料参照とし、本文では captive 構造と funding 機構を中心に記述。
+> confidence: **likely**。2026-07-29 時点で AHFC FY2026 Form 10-K、Honda FY2026 segment information、ホンダファイナンス会社概要を再確認。会社構造、Keep Well Agreement、国内登録、商品範囲と FY2026 セグメント値を一次資料に限定して校正した。

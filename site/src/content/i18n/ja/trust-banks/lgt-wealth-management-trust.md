@@ -1,12 +1,12 @@
 ---
 source: trust-banks/lgt-wealth-management-trust
-source_hash: d800ffd806a0a01b
+source_hash: 7bce65c284307626
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "LGTウェルスマネジメント信託"
-translated_at: 2026-06-26T08:32:30.859Z
+translated_at: 2026-07-28T23:40:04.447Z
 ---
 
 # LGTウェルスマネジメント信託
@@ -23,7 +23,7 @@ LGTウェルスマネジメント信託は、LGT の日本における信託会�
 
 このページが重要なのは、外資系プライベートバンキング、日本の信託会社規制、投資一任・助言型ウェルスサービスの間に位置するためである。外国銀行支店のページではなく、日本の信託会社および金融商品取引業登録の経路として扱う。
 
-## エンティティ境界
+## エンティティ境界 ^[金融庁の現行免許と LGT 会社情報: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://www.lgt.com/jp-jp/company-information]
 
 | 項目 | 読み方 |
 |---|---|
@@ -36,7 +36,7 @@ LGTウェルスマネジメント信託は、LGT の日本における信託会�
 
 法形式、免許、グループ構造が異なるため、本ページは [[foreign-financial-institutions/ubs-japan|UBS Japan]] および [[trust-banks/smbc-trust-bank|SMBC Trust Bank]] から分けて扱う。
 
-## 事業役割マップ
+## 事業役割マップ ^[LGT「LGT in Japan」: https://www.lgt.com/jp-jp/about-us/lgt-in-japan]
 
 | 機能 | FinWiki 上の意味 |
 |---|---|

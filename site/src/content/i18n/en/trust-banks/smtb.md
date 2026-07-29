@@ -1,11 +1,11 @@
 ---
 source: trust-banks/smtb
-source_hash: 85b201db959e1830
+source_hash: e4dea20b0edd2536
 lang: en
 status: machine
 fidelity: ok
 title: "三井住友信託銀行 (SMTB)"
-translated_at: 2026-06-15T04:09:41.209Z
+translated_at: 2026-07-28T23:40:44.209Z
 ---
 
 # 三井住友信託銀行 (SMTB)
@@ -18,7 +18,7 @@ This entry sits under [[trust-banks/INDEX|trust-banks INDEX]] (its domain route)
 
 Sumitomo Mitsui Trust Bank, Limited (三井住友信託銀行, SMTB) is the core trust-bank operating company of [[trust-banks/sumitomo-mitsui-trust|三井住友トラストグループ (三井住友トラスト・ホールディングス)]]. It is a trust-business-concurrent financial institution that holds, **in addition to a bank license under the Banking Act, a concurrent trust business under the Concurrent Operation Act**, and is the center of one of Japan's largest, strongly specialist-oriented trust-bank groups. Despite the similar name, it is a **separate group** from [[megabanks/smfg|SMFG / SMBC グループ]], and this boundary is decisively important in trust-bank analysis.
 
-## 1. License / group boundary
+## 1. License / group boundary ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; 三井住友信託銀行「会社概要」: https://www.smtb.jp/corporate/summary/]
 
 | Item | Notes |
 |---|---|

@@ -7,15 +7,16 @@ aliases:
   - "トヨタ自動車"
 domain: "manufacturer-finance"
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-16
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [manufacturing, automotive, japan, toyota]
 status: active
 sources:
   - "https://global.toyota/en/company/profile/overview/?padid=ag478_from_header_menu"
   - "https://global.toyota/en/ir/library/annual/"
+  - "https://global.toyota/pages/global_toyota/ir/financial-results/2026_4q_summary_en.pdf"
   - "https://global.toyota/en/company/profile/other-toyota-businesses/finance/"
 ---
 
@@ -36,10 +37,12 @@ This entry sits under [[manufacturer-finance/INDEX|manufacturing index]]. Read i
 | 正式名 | Toyota Motor Corporation / トヨタ自動車株式会社 |
 | 設立 | 1937年8月28日 |
 | 本社 | 1 Toyota-Cho, Toyota City, Aichi Prefecture 471-8571, Japan |
-| 資本金 | 6,350億円（2025-03-31） |
-| 従業員 | 単体 71,515人、連結 383,853人（2025-03-31） |
+| 資本金 | 6,350億円（2026-03-31） |
+| 従業員 | 単体 73,133人、連結 390,927人（2026-03-31） |
 | 主業 | Motor vehicle production and sales |
 | 金融子会社 | [[leasing-firms/toyota-financial|Toyota Financial Services]] |
+
+Sources: ^[Toyota Motor Corporation「Overview」(2026-03-31): https://global.toyota/en/company/profile/overview/?padid=ag478_from_header_menu.]
 
 Toyota は自動車製造・販売を中核に、金融、モビリティ、部品、物流、販売網を含む巨大グループを形成する。金融子会社は販売金融・リース・保険・クレジットカードを担い、車両販売と残価管理を一体化する。
 
@@ -53,7 +56,9 @@ Toyota は自動車製造・販売を中核に、金融、モビリティ、部�
 | 金融 | [[leasing-firms/toyota-financial|TFS]] | ローン、リース、保険、カード |
 | グローバル生産 | 北米、欧州、アジア等 | 為替、貿易金融、サプライチェーン |
 
-FY2025 Integrated Report では、FY2025 の総販売台数は 9,362,410 台、売上収益は 48,036.7 billion yen とされる。Toyota Financial Services は 35 以上の国・地域をカバーする。
+Sources: ^[Toyota Motor Corporation「Financial Services」: https://global.toyota/en/company/profile/other-toyota-businesses/finance/; Toyota FY2026 Financial Summary: https://global.toyota/pages/global_toyota/ir/financial-results/2026_4q_summary_en.pdf.]
+
+FY2026 の連結販売台数は 959.5 万台、売上収益は 50兆6,849億円。Toyota の会社案内は TFS の販売金融ネットワークを 35 以上の国・地域と説明する。
 
 ## 3. 戦略と競合
 
@@ -78,9 +83,10 @@ FY2025 Integrated Report では、FY2025 の総販売台数は 9,362,410 台、�
 
 - Toyota Motor Corporation「Company Overview」: https://global.toyota/en/company/profile/overview/?padid=ag478_from_header_menu
 - Toyota Motor Corporation「Annual Report / Integrated Report」: https://global.toyota/en/ir/library/annual/
+- Toyota Motor Corporation「FY2026 Financial Summary」: https://global.toyota/pages/global_toyota/ir/financial-results/2026_4q_summary_en.pdf
 - Toyota「Financial Services」: https://global.toyota/en/company/profile/other-toyota-businesses/finance/
 
 ---
 
 > [!info] 校正ステータス
-> confidence: **likely**。公式会社概要・IR・金融事業ページで基本属性、FY2025 規模、TFS接続を確認。
+> confidence: **likely**。2026-07-29 時点の公式会社概要、FY2026 Financial Summary、金融事業ページで基本属性、FY2026 規模、TFS 接続を再確認。
