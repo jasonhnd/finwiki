@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-foreign-exchange-mexc
-source_hash: b92e7c769209f6ec
+source_hash: 985735ee391fbd22
 lang: en
 status: machine
 fidelity: ok
 title: "MEXC Global — overseas unregistered crypto-asset exchange operator (Japan FSA warnings 2  times)"
-translated_at: 2026-05-31T05:31:05.802Z
+translated_at: 2026-07-29T11:50:43.000Z
 ---
 
 # MEXC Global — overseas unregistered crypto-asset exchange operator (Japan FSA warnings 2  times)
@@ -19,78 +19,50 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 ## 1. Corporate entity / shareholders
 
-- Trade name: MEXC Global (English: MEXC Global Pte. Ltd.)
-- Established: 2018 年 4 月 (based on official announcement)
-- Head office location: Republic of Singapore
-- Parent company / listing status: Unlisted. No external capital raising published
-- Shareholding ratio: Not published
+- **Name in the FSA warning letters**: MEXC Global
+- **Location in the FSA warning letters**: Republic of Singapore
+- **Representative field**: "unknown" in the 2023-03-31 warning and John Chen Ju in the 2024-11-28 warning
 
-The company is a globally expanding centralized crypto-asset exchange providing services in 170  or more countries and regions.
+This section is limited to corporate-identification details confirmed in the FSA warning letters and does not infer legal form, establishment date, parent company, listing status, or ownership ratios.
 
 ## 2. Licensing / registration status
 
 - **Japan FSA (crypto-asset exchange business): Unregistered**
 - No registration as a crypto-asset exchange operator under Japan's Payment Services Act
 - JVCEA membership: Non-member (neither Type 1 nor Type 2 applicable)
-- Major regulation outside Japan: Registration status with Singapore authorities is not published
 
 On the grounds that it provides services to Japanese residents, the Financial Services Agency issued warning letters in 2023 年 and 2024 年 (see §6 ).
 
 ## 3. Handled currencies
 
-MEXC is known as one of the world's leading exchanges in terms of the large number of altcoin listings.
-
-- Spot trading pairs: Over 2,300  pairs (as of 2025-12 )
-- Listed issues: More than 1,500  kinds of crypto-assets
-- 2024 年 new listings: 2,376  issues per year (of which first listings 1,716 · meme coins 605)
-- Native token: **MX token** (MX) — used for platform fee discounts, staking, etc.
-- Characteristics: Explicitly states a policy of early-listing meme coins and emerging altcoins. Actively handles small-cap issues that major exchanges do not cover
+The FSA warning materials do not describe MEXC's supported assets or product mix. This entry therefore does not infer an asset count or the later availability of products to Japan residents.
 
 ## 4. Scope of business
 
-- Spot trading: Yes (maker fee 0% · taker 0.1%, etc.)
-- Perpetual futures (Futures): Yes (up to 500 x leverage)
-- Copy trading: Yes
-- Staking: Yes
-- NFT marketplace: Yes
-- DEX+ function (decentralized exchange linkage): Yes
-- Fiat-currency deposit: Credit card / P2P supported (details per published materials)
-- Services for corporations: Published
+- The FSA warning materials do not enumerate MEXC's products, fees, leverage, or funding functions. This entry is limited to the regulatory fact of unregistered business at the warning dates and does not freeze a current product list.
 
 ## 5. Market share / trading volume
 
-- Number of users: More than 3,000 万 as of the end of 2024 年 (company-published · 2025-01  annual report)
-- Futures 24 -hour trading volume: About 94 億 USD (CoinGecko data as of 2025-05 )
-- Position among competitors: Within the global top 5 位 in futures trading volume (2024 年 CoinGecko annual report)
-- Customer base: Retail-centered. Mainly individual traders oriented toward emerging altcoins and meme coins
-- Owing to the large number of listings, has high recognition as a first-listing destination for new issues
+- The FSA warning materials contain no comparable figures for MEXC's Japan trading volume, account count, or market share. This entry does not infer a global rank or a Japan-market position.
 
 ## 6. History / major incidents
 
+The table includes only Japan-facing warnings confirmed in the FSA publication "Issuance of Warning Letters to Crypto-Asset Exchange Operators, etc." It is not a table of MEXC's complete corporate history, products, or user scale. ^[Source: https://www.fsa.go.jp/policy/virtual_currency02/index.html.]
+
 | Period | Item |
 |------|------|
-| 2018-04 | MEXC Global established (Singapore) |
-| 2021 | Fully rolled out spot and futures services |
-| 2022-12 | CEO John Chen stepped down (described in a Binance official article published 2023-12 ). Details of the successor structure not published |
 | 2023-03-31 | **Financial Services Agency issued its 1 -th warning letter**. Notified that it was conducting crypto-asset exchange business without registration, targeting Japanese residents. In that document, the representative was listed as "unknown" and the location as "Republic of Singapore" |
 | 2024-11-28 | **Financial Services Agency issued its 2 -th warning letter**. Same reason. The representative was listed as "John Chen Ju" and the location as "Republic of Singapore." On the same day, KuCoin, bitcastle LLC, Bybit, and Bitget were also warned simultaneously |
-| 2025-02-07 | The Financial Services Agency requested Apple and Google to stop distributing the MEXC app to Japan in their stores (the 1 社 of simultaneous requests in 5 社). Removed from the App Store and Google Play in the middle of the same month |
-| Throughout 2024  | Newly listed 2,376  issues during the year · achieved more than 3,000 万 users (company annual report) |
 
-**Policy toward Japanese residents**: The company's terms of use do not explicitly prohibit use by Japanese residents, but the Japan FSA judges that it effectively provides services to the Japanese market and has continuously issued warnings.
+**Japanese regulatory position**: The two FSA materials state that, at each warning date, MEXC was conducting unregistered crypto-asset exchange business with Japan residents as counterparties. This entry does not infer later terms-of-use or access availability.
 
 ## 7. Strategic developments
 
-- Accelerates the speed of new listings through 2024 年. Positions the advantage of "first-listing" as the axis of its marketing within the industry
-- Continuous addition of new features such as copy trading and DEX+
-- Since being removed from the Japan App Store in 2025 年 2 月, no official communication directed at Japan has been confirmed
-- In response to [[exchanges/jp-foreign-exchange-bybit|Bybit]]'s withdrawal from Japan (the 2026 年 policy), published content in its Japanese-language blog introducing MEXC as a candidate migration destination (2026-01-22) — however, this is MEXC's own marketing content, and there is no published development regarding obtaining Japan FSA approval. The simultaneous warning targets also apply to [[exchanges/jp-foreign-exchange-kucoin|KuCoin]] and [[exchanges/jp-foreign-exchange-bitget|Bitget]] (for background, see [[exchanges/fsa-foreign-exchange-warning-system|FSA 海外取引所警告制度]]).
+- The FSA publication lists warnings to MEXC for unregistered business on 2023-03-31 and 2024-11-28. This entry does not infer later Japan-facing service or registration steps from that material alone. Same-date warning targets include [[exchanges/jp-foreign-exchange-kucoin|KuCoin]] and [[exchanges/jp-foreign-exchange-bitget|Bitget]]; see [[exchanges/fsa-foreign-exchange-warning-system|FSA overseas exchange warning system]] for context.
 
 ## 8. Related persons
 
-- **John Chen Ju**: The representative name listed in the FSA warning letter issued on 2024-11-28. Some reports say he stepped down as CEO in 2022 年 12 月, but he is still listed as the representative in the FSA document thereafter. Confirmation of details is difficult within the scope of published information
-- **Vugar Usi Zade**: Took office as COO from 2025-12  (mentioned by multiple review media)
-- Founders (joint): The names Sheen Xin Hu, Aaron Wagener, and Piotr Brzezinski appear in some sources, but official confirmation is difficult
+- **John Chen Ju**: Named as the representative of MEXC Global in the FSA warning dated 2024-11-28.
 
 ## Related
 
@@ -109,6 +81,3 @@ MEXC is known as one of the world's leading exchanges in terms of the large numb
 - [Warning letter against MEXC Global (2023-03-31) PDF](https://www.fsa.go.jp/policy/virtual_currency02/MEXCGlobal_keikokushiryo.pdf) (retrieved 2026-05-19)
 - [FSA list of names, etc. of unregistered operators Excel](https://www.fsa.go.jp/policy/virtual_currency/angoushisan_mutouroku.xlsx) (retrieved 2026-05-19)
 - [Atarashii Keizai "Financial Services Agency warns overseas crypto-asset exchanges operating without registration"](https://www.neweconomy.jp/posts/435203) (2024-11-28 report, retrieved 2026-05-19)
-- [Google search snippet: FSA on names, etc. of unregistered operators PDF (令和5年3月 version)](https://www.fsa.go.jp/policy/virtual_currency/angoushisan_mutouroku.pdf) (retrieved 2026-05-19)
-- [Nihon Keizai Shimbun "Financial Services Agency makes its first stop request to Apple"](https://www.nikkei.com/) (2025-02-07 report, retrieved 2026-05-19)
-- [GlobeNewswire MEXC 2024 Annual Report (30 Million Users)](https://www.globenewswire.com/) (published 2025-01-20, retrieved 2026-05-19)

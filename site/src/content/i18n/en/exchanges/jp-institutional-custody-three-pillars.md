@@ -1,55 +1,53 @@
 ---
 source: exchanges/jp-institutional-custody-three-pillars
-source_hash: d8215470acdc563c
+source_hash: 859bd23a621bd35b
 lang: en
 status: machine
 fidelity: ok
 title: "Japan Institutional Custody Three-Pillar Structure — Komainu / Ginco / Fireblocks Japan Comparison"
-translated_at: 2026-05-31T06:16:15.746Z
+translated_at: 2026-07-29T11:50:43.000Z
 ---
 
 # Japan Institutional Custody Three-Pillar Structure — Komainu / Ginco / Fireblocks Japan Comparison
 
 ## Overview
 
-The domestic institutional custody market is bifurcated along two axes: **technology (cold vs MPC) × parent company (domestic vs overseas)**. Alongside VASP in-house custody (bitFlyer / Coincheck / bitbank, etc.), a B2B vendor layer (infrastructure for institutions, other VASPs, and financial institutions) has emerged, with Komainu / Ginco / Fireblocks Japan as its core players.
+This entry compares Komainu, Ginco, and Fireblocks—three institutional custody or wallet-infrastructure providers referenced by Japanese businesses—only on technical methods and functions confirmed in their official materials. It is not a domestic market-share or ranking comparison, and it distinguishes the legal custodian from a technology vendor.
 
 ## Three Company Profiles
 
-### Komainu Holdings (UK Jersey)
-- Founded 2018  · Joint venture of Nomura HD + CoinShares + Ledger forming [[exchanges/jp-custody-komainu]]
-- Specialises in **cold custody + offline signing** for institutions and sovereign clients
-- Clients include UAE government; acquisition of 2024-10 Propine accelerates Asia expansion
-- Board holds [[exchanges/jp-exchange-laser-digital-japan]] (Nomura-affiliated) executives + Blockstream dual-anchor structure
+### Komainu Holdings (Jersey)
+- Established in 2018 by Nomura Holdings, CoinShares, and Ledger [[exchanges/jp-custody-komainu]]
+- Its official technical description combines HSMs and MPC with a QR-based signing flow in an offline environment
+- Provides institutional custody; specific customer relationships should be checked in primary disclosures as of their publication dates
 
-### Ginco, Inc. (Domestic independent)
-- Founded 2017  · Founder Yuuto Morikawa · 2026-04  CEO transition → Ryo Sakane [[exchanges/jp-custody-ginco]]
-- Provides **Ginco Enterprise Wallet (MPC)** + Ginco Node
-- B2B SaaS · Serves VASPs / banks / trust banks / crypto asset exchange operators
-- Domestic independent with no capital group affiliation; largest domestic VASP infrastructure provider
+### Ginco, Inc. (Japan)
+- Provides Ginco Enterprise Wallet and Ginco Node [[exchanges/jp-custody-ginco]]
+- Its official description says private keys are distributed in HSMs and dedicated offline signing terminals are used; this entry does not label the method as MPC
+- Provides corporate wallet and node infrastructure; individual customers and capital relationships should be checked in each disclosure
 
-### Fireblocks Japan (Overseas vendor Japan subsidiary)
-- Global parent Fireblocks Inc. (NY HQ · 2018 Israel roots) [[exchanges/jp-custody-fireblocks-japan]]
-- **MPC custody + policy engine + treasury workflow**
-- 2,400+ institutions globally · $10T+ cumulative transaction volume · Series E $550M ($8B valuation)
-- Tokyo office 5 名scale · Supports Mitsui MDC (Zipangcoin RWA) + SMBC/Ava Labs/TIS SC (2025-04) + Minna no Ginko + CoinTrade, etc.
+### Fireblocks Japan (Japanese business layer of an overseas vendor)
+- Japanese corporate or business layer providing the Fireblocks platform [[exchanges/jp-custody-fireblocks-japan]]
+- **MPC-based wallet infrastructure + Policy Engine + workflows**
+- Fireblocks' global customer count changes by disclosure date and is not used here as a fixed domestic rank or market-size measure
 
 ## Technology / Business Model Comparison
 
+The following is a snapshot of official technical and service descriptions reviewed on 2026-07-29. Product configurations and implementations may change. ^[Sources: https://komainu.com/about/; https://komainu.com/expertise/custody-technology/; https://komainu.com/services/custody/; https://www.ginco.co.jp/en/service/enterprise-wallet--en; https://developers.fireblocks.com/docs/what-is-fireblocks.]
+
 | Axis | Komainu | Ginco | Fireblocks |
 |---|---|---|---|
-| Technology | Cold + offline signing | MPC SaaS + node services | MPC + policy + workflow |
-| Primary clients | Institutions, sovereign clients | Domestic VASPs / financial institutions | Thousands of institutions (global) |
-| Pricing | Monthly fee / AUM-based | License fee / per-tx | Subscription |
-| Parent | Nomura HD-affiliated (overseas entity) | Domestic independent | Overseas vendor (New York, US) |
+| Key management confirmed in official material | HSM + MPC, offline QR signing | Distributed storage in HSMs, dedicated offline signing terminals | MPC-based wallet infrastructure |
+| Main functions | Institutional custody | Enterprise Wallet and node services | Policy Engine and transfer / treasury workflows |
+| Entity / origin | Jersey company established by Nomura, CoinShares, and Ledger in 2018 | Japanese company Ginco | Fireblocks' global technology platform |
 
 ## Regulatory Positioning
 
-All three hold **no FSA crypto asset exchange registration** (not required as B2B infrastructure) · [[exchanges/fsa-vasp-registration-system|JVCEA 非加盟]] · They operate as a vendor layer that relies on client-side VASP licenses.
+It is not valid to conclude categorically that registration is unnecessary merely because a service is B2B infrastructure. The regulatory assessment depends on the entity managing crypto-assets as a business, control of keys, and the contractual structure. Check the [[exchanges/fsa-vasp-registration-system|FSA registration framework]] and the current registration of the exact contracting entity. This entry does not determine the three providers' Japanese licensing obligations.
 
 ## Competitive Landscape (International Comparison)
 
-Anchorage / Coinbase Custody / BitGo / Fidelity Digital Assets — none have entered the domestic market directly, or do so via partnerships (e.g. BitGo × Mitsui). Institutional pure custody continues to overlap with [[exchanges/jp-exchange-crypto-garage]]-type Daiwa / SBI Securities Token connectivity businesses.
+Functional comparisons with overseas providers such as Anchorage, Coinbase Custody, BitGo, and Fidelity Digital Assets are outside this entry's scope. Availability and partnerships in Japan change over time and should be checked in each provider's current official materials.
 
 ---
-Sources: Company official corporate websites · Nikkei / ITmedia · Company IR reporting
+Sources: Official corporate and technical materials from Komainu, Ginco, and Fireblocks

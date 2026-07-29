@@ -1,20 +1,22 @@
 ---
 source: exchanges/jp-crypto-exchange-overview
-source_hash: 6cbedeba6ca63680
+source_hash: 9e1590b840ccaa4c
 lang: en
 status: machine
 fidelity: ok
 title: "Japan crypto exchange overview — FSA / JVCEA regulated VASP market"
-translated_at: 2026-06-18T23:33:48.365Z
+translated_at: 2026-07-29T11:02:23.000Z
 ---
 
 # Japan crypto exchange overview — FSA / JVCEA regulated VASP market
 
 ## TL;DR
 
-Japan's crypto-asset exchange business is built on two layers: a registration system under the FSA / Local Finance Bureaus, and [[exchanges/jvcea-self-regulatory-overview|JVCEA]] self-regulation. The crypto-asset exchange registration system began in 2017-04-01, and the electronically recorded transferable rights (EPI) handling business was also institutionalized in 2023-06-01. As of 2026-02-28, the FSA's English-language registration list shows 27  crypto-asset exchange service providers. The domestic market needs to be viewed inclusive of "registered VASPs + JVCEA members + FSA supervision + tax reporting / CARF."
+Japan's crypto-asset exchange business is built on two layers: a registration system under the FSA / Local Finance Bureaus, and [[exchanges/jvcea-self-regulatory-overview|JVCEA]] self-regulation. The crypto-asset exchange registration system began on 2017-04-01, and the electronically recorded payment instrument service-provider regime was introduced on 2023-06-01. Because the counts of registered operators and members change, consult the FSA's current registry and the JVCEA member list rather than freezing a number here.
 
 ## 1. Institutional structure
+
+Source: The entire table is based on the FSA's [Crypto-assets and electronic payment instruments](https://www.fsa.go.jp/policy/virtual_currency02/) page and [registered operator list](https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.pdf), the [JVCEA member list](https://jvcea.or.jp/member/), and the NTA's [CARF page](https://www.nta.go.jp/taxes/shiraberu/kokusai/carf/index.htm), checked on 2026-07-29.
 
 | Layer | Content | Main reference |
 |---|---|---|
@@ -27,25 +29,24 @@ Japan's crypto-asset exchange business is built on two layers: a registration sy
 
 The Bank of Japan describes crypto-assets as property values that can be electronically recorded and transferred and that are not legal tender. To conduct an exchange business domestically, registration with the FSA / Local Finance Bureaus is required.
 
-## 2. Market map
+## 2. Current-information entry points
 
-| Cluster | Typical players | Notes |
+Source: The entire table is based on the public FSA, JVCEA, and NTA pages, checked on 2026-07-29.
+
+| Publisher | Information available | URL |
 |---|---|---|
-| Independent veterans | [[exchanges/jp-exchange-bitflyer|bitFlyer]], [[exchanges/jp-exchange-bitbank|bitbank]], [[exchanges/jp-exchange-btcbox|BTCBOX]] | Core players from the early days of the 2017 registration system |
-| Financial-group-affiliated | [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]], [[exchanges/jp-exchange-gmo-coin|GMO Coin]], [[exchanges/jp-exchange-rakuten-wallet|Rakuten Wallet]] | Connected to securities / FX / banking groups |
-| Japanese subsidiaries of overseas operators | [[exchanges/jp-exchange-binance-japan|Binance Japan]], [[exchanges/jp-exchange-okcoin-japan|OKJ]], [[exchanges/jp-exchange-osl-japan|OSL Japan]] | Japanese incorporation / obtaining registration is the entry gate |
-| Derivatives specialists / securities-affiliated | [[exchanges/jp-exchange-sbi-securities|SBI Securities]], [[exchanges/jp-exchange-monex|Monex]], [[exchanges/jp-exchange-traders-securities|Traders Securities]] | Division of spot vs. derivatives licenses |
-| Institutional / specialized | [[exchanges/jp-exchange-crypto-garage|Crypto Garage]], [[exchanges/jp-exchange-digital-asset-markets|Digital Asset Markets]], [[exchanges/jp-exchange-jpyc|JPYC]] | custody, RWA, EPI-adjacent |
+| FSA | Registration number, operator name, location, and handled crypto-assets | [Registry PDF](https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.pdf) |
+| FSA | Unregistered operators that have received warning letters | [Crypto-assets and electronic payment instruments](https://www.fsa.go.jp/policy/virtual_currency02/) |
+| JVCEA | Current members and membership categories | [Member list](https://jvcea.or.jp/member/) |
+| NTA | CARF framework and implementation information | [CARF](https://www.nta.go.jp/taxes/shiraberu/kokusai/carf/index.htm) |
 
-The JVCEA member page allows verification of the number of Type-I members and the business categories (crypto-asset exchange business, crypto-asset derivatives business, electronically recorded transferable rights handling business). The FSA registration list is the primary source for viewing "registration number, operator name, location, handled crypto-assets."
+Parent ownership, products, handled assets, and operating status can change. Supplement these registries with each operator's current official disclosures.
 
 ## 3. Strategic reading
 
-- **Registration as moat**: Services for Japan residents are premised on registration. Major overseas operators face a binary choice: receive a warning while in an unregistered state, or acquire / establish a Japanese subsidiary to obtain registration.
-- **Trade-off between number of tokens and safety**: JVCEA token screening restricts domestically listed tokens and keeps the product count lower than overseas CEXs, while prioritizing investor protection and market soundness.
-- **Sales-outlet economics**: In the domestic retail market, the sales-outlet (hanbaisho) spread tends to be a revenue source, and must be viewed separately from order-book depth / fee competition on the exchange.
-- **Financial-group connection**: SBI, GMO, Rakuten, Monex, Mercari, etc. have strengths in cross-selling with securities / FX / banking / points / EC.
-- **Stablecoin / EPI adjacency**: From 2023-06-01 onward, the electronically recorded transferable rights system stands as a separate layer, and the boundary between the crypto-asset exchange business and stablecoin intermediation becomes important.
+- Attach a retrieval date when citing operator counts, member counts, or handled crypto-assets.
+- Check crypto-asset exchange services, crypto-asset derivatives, and electronic payment instrument services as separate regulatory categories.
+- Verify parent ownership, products, and sales-counter / order-book distinctions in each company's current official materials.
 
 ## 4. Regulation and policy
 

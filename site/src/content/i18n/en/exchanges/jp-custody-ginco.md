@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-custody-ginco
-source_hash: ba42d5a211a423db
+source_hash: 1330b241411254ef
 lang: en
 status: machine
 fidelity: ok
 title: "Ginco Inc. — Japan B2B blockchain custody infrastructure provider"
-translated_at: 2026-06-18T23:33:48.279Z
+translated_at: 2026-07-29T11:02:23.000Z
 ---
 
 # Ginco Inc. — Japan B2B blockchain custody infrastructure provider
@@ -15,7 +15,7 @@ translated_at: 2026-06-18T23:33:48.279Z
 
 This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]] for adjacent context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system boundary.
 
-> A B2B infrastructure provider rather than a VASP · non-member of JVCEA · no FSA crypto-asset-exchange-business registration · established 2017-12-21
+> B2B blockchain infrastructure provider · established 2017-12-21 · summarized from official product pages and case studies
 
 ## 1. Corporate entity / shareholders
 
@@ -23,7 +23,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - **Established**: 2017年12月21日
 - **Head office location**: 27-4号, 3-chome Hatchobori, Chuo-ku, Tokyo 〒104-0032 
 - **Capital**: 1億円 (as stated on the official site)
-- **Representative**: Ryo Sakane (as of 2026年4月 · after the management-structure change described below)
+- **Representative**: Ryo Sakane (as stated on the official site in 2026-04)
 - **Founder**: Muyuto Morikawa (started R&D in 2016年10月, founded the company in 2017年12月)
 - **Major investors** (publicly disclosed, in chronological order):
   - 2018年1月: third-party allotment of new shares from Global Brain
@@ -34,8 +34,8 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 ## 2. License / registration status
 
-- **Crypto-asset-exchange-business registration**: none (because it is a B2B infrastructure provider rather than a VASP)
-- **JVCEA membership**: non-member (out of scope because it does not directly conduct the buying / selling / exchange of crypto assets)
+- **Japanese regulatory position**: official materials describe Ginco as a B2B blockchain infrastructure provider. Whether a particular service requires registration depends on the provider and activities, so verify the current FSA lists and obtain specialist advice
+- **Industry associations**: verify current membership, including JVCEA, in each association's official member list; this entry does not infer non-membership from an omission
 - **Affiliated organizations** (publicly disclosed):
   - Fintech Association of Japan (general incorporated association)
   - Japan Cryptoasset Business Association (JCBA) (general incorporated association)
@@ -47,9 +47,9 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 Because the company does not directly provide buying / selling / custody services for crypto assets to individuals or corporations, "handled currencies" is defined as the number of supported assets as B2B infrastructure that supports its client VASPs.
 
-- **Ginco Enterprise Wallet support**: centered on Bitcoin and Ethereum, it advertises domestically top-tier blockchain support, including ERC20  tokens (addable in as little as 2 weeks) and proprietary-blockchain currencies (addable in as little as 1 months)
+- **Ginco Enterprise Wallet support**: official product pages describe support for multiple blockchains. Scope and implementation time vary by engagement and date, so verify current materials
 - **Consumer-facing Ginco Wallet**: a self-custody-type mobile wallet supporting Bitcoin, Ethereum, and several other assets (provided from 2018年4月)
-- A specific official list of supported assets is not posted on the official site · "not disclosed"
+- Verify currently supported assets and blockchains in official product documentation or an engagement-specific proposal
 
 ## 4. Scope of business
 
@@ -57,9 +57,11 @@ Because the company does not directly provide buying / selling / custody service
 
 ### Main products / services
 
+Source: The entire table is based on Ginco's official [Enterprise Wallet](https://www.ginco.co.jp/service/enterprise-wallet) and [company outline](https://www.ginco.co.jp/company/outline), checked on 2026-07-29.
+
 | Service | Content |
 |---|---|
-| **Ginco Enterprise Wallet** | A cold / hot wallet integrated-management system utilizing an HSM (hardware security module). No. 1 in domestic B2B crypto-asset-wallet adoption share (as of the 2021年8月 announcement) |
+| **Ginco Enterprise Wallet** | Distributes private-key management between an HSM and a dedicated signing device, and provides cold / hot wallets, deposits and withdrawals, and approval workflows. The official page displays "No. 1 adoption record" but does not state the comparison population or survey date |
 | **GEW Monitoring Solution** | A business monitoring tool that integrates and manages multiple wallets |
 | **Ginco Web3 Cloud** | A general-purpose blockchain development platform at financial-institution level (supporting public / private) |
 | **Web3 Professional Service** | End-to-end business-creation support, from planning and requirements definition to development |
@@ -72,37 +74,23 @@ Because the company does not directly provide buying / selling / custody service
 - Security-token (ST) custody systems
 - Web3  consulting / node hosting
 
-## 5. Market share / positioning
+## 5. Positioning in public information
 
-- **Domestic B2B crypto-asset wallet**: in 2021年8月 the company announced that "the business crypto-asset-exchange-operator-facing wallet Ginco Enterprise Wallet is the top domestic share." Specific figures (number of companies / percentage) are not disclosed.
-- **Customer base**: domestic FSA-registered crypto-asset-exchange operators, securities companies (Mizuho Securities, Daiwa Securities Group, etc.), trust banks (Mitsubishi UFJ Trust and Banking, etc.)
-- **Competitors**: internationally, [[exchanges/jp-custody-fireblocks-japan|Fireblocks（米国）]] has already entered the Japanese market. [[exchanges/jp-custody-komainu|Komainu（Nomura系）]] provides institutional custody. Among domestic peer infrastructure there are system vendors of the Liquid lineage and others, but Ginco differentiates itself on "all in-house development" and the "most supported chains domestically." The company's position is detailed in [[exchanges/jp-institutional-custody-three-pillars|JP institutional custody 三本柱]].
-- **Toyo Keizai "Amazing Ventures 100"**: selected in 2023年9月
+- The official Enterprise Wallet page displays "Japan's largest number of supported currencies" and "No. 1 adoption record." Because that page does not state the comparison population, percentage, or survey date, treat these as current company marketing claims.
+- Individual customers, competitor ranks, and supported-asset counts can change. Check case-specific official releases and the current product page.
 
-## 6. History / major events
+## 6. Official company-outline snapshot
 
-| Year/month | Item |
+Source: The entire table is based on Ginco's official [company outline](https://www.ginco.co.jp/company/outline), checked on 2026-07-29.
+
+| Item | Official description |
 |---|---|
-| 2016-10 | Founder Muyuto Morikawa started a blockchain R&D business |
-| 2017-12 | Ginco Inc. founded |
-| 2018-01 | Third-party allotment of new shares from Global Brain |
-| 2018-04 | Japan's first multi-blockchain-compatible wallet app provided |
-| 2018-09 | Won the Tech in Asia 2018 Tokyo Grand Prix and the Nikkei FIN/SUM UK Award |
-| 2019-01 | Started providing blockchain-utilization solutions for businesses |
-| 2019-02 | Partnered with Microsoft, started a fully managed blockchain-node service |
-| 2019-02 | Started providing a business crypto-asset-wallet service |
-| 2019-07 | Selected for the Ministry of Economy, Trade and Industry's "J-LOD" blockchain-utilization program |
-| 2020-04 | Third-party allotment of new shares from DBJ Capital |
-| 2021-08 | Ginco Enterprise Wallet became the top domestic share (company announcement) |
-| 2021-09 | Started providing the NFT-service development platform "Ginco NFT Base" |
-| 2021-11 | Third-party allotment of new shares from Miyako Capital, DBJ Capital, and Mitsubishi UFJ Capital |
-| 2022-07 | Participated in Mizuho Securities' security-token proof-of-concept experiment |
-| 2023-06 | Participated in a comprehensive Web3 / digital-asset proof-of-concept by Sumitomo Mitsui Trust Bank and Trust Base |
-| 2023-08 | Realized a crypto-asset trust service with Mitsubishi UFJ Trust and Banking |
-| 2023-11 | Collaborated with Mitsubishi UFJ Trust and Banking and Progmat to begin cross-industry SC development for the crypto-asset industry |
-| 2024-03 | Issued an ST on a public chain with Daiwa Securities Group |
-| 2024-05 | Established an Indian subsidiary as an overseas development base |
-| 2026-04-01 | Change in management structure (no details disclosed) |
+| Company | Ginco Inc. |
+| Representative | Ryo Sakane |
+| Location | 3-27-4 Hatchobori, Chuo-ku, Tokyo |
+| Established | 2017-12-21 |
+| Capital | JPY 100 million |
+| Business | Business crypto-asset wallet, NFT / security-token infrastructure, blockchain platforms, consumer wallet, and consulting |
 
 ## 7. Strategic developments (recent 12  months)
 
@@ -113,13 +101,13 @@ Because the company does not directly provide buying / selling / custody service
 - **2025-12**: Participated as a validator in the Canton Network (an enterprise blockchain of the Goldman Sachs / Digital Asset lineage)
 - **2026-01**: Concluded a Web3 -domain partnership with GVA Law Office
 - **2026-03**: Supported a web3 -technology-introduction verification in Ebara Corporation's "Ebara Brain Project"
-- **2026-04**: Change in management structure (presumed to be a handover of the representative role from Muyuto Morikawa to Ryo Sakane, but the details are not disclosed)
+- **2026-04**: The official site identifies Ryo Sakane as Representative Director. Do not infer the handover history or role changes without an official announcement
 
-**Direction of strategy**: it is diversifying from exchange-facing wallets, to ST and crypto-asset trust infrastructure for financial institutions (trust banks, securities companies), and further to next-generation Web3  infrastructure such as BTCFi and DID. The establishment of a development base in India is seen as a move to strengthen cost competitiveness and expand talent. As Fireblocks (US) strengthens its direct sales to major Japanese financial institutions, Ginco maintains a stance of using the "depth of domestic regulatory compliance" and the "flexibility from all-in-house development" as its competitive advantages.
+**Scope supported by public materials**: official product pages and case studies describe wallets, ST and trust-related infrastructure, BTCFi, and DID. This entry does not infer the purpose of a development base, a competitor's sales strategy, or Ginco's superiority without public evidence.
 
 ## 8. Related people
 
-- **Muyuto Morikawa**: founder and former Representative Director CEO. Started blockchain R&D in 2016年, founded the company in 2017年12月. Presumed to have stepped down in the management-structure change of 2026年4月 (details undisclosed)
+- **Muyuto Morikawa**: founder identified in the official history. Verify his current role in official people or corporate disclosures; do not infer that a change of representative means he stepped down
 - **Ryo Sakane**: Representative Director (as stated on the official site as of 2026年4月)
 - **Min Brian**: CISO. Appointed in 2025年11月. Responsible for strengthening IT governance and external collaboration
 

@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-exchange-custodiem
-source_hash: 4591f44c0e47ec42
+source_hash: dc1e4df7237df234
 lang: en
 status: machine
 fidelity: ok
 title: "Custodiem, Inc. — Japanese crypto-asset exchange service provider overview"
-translated_at: 2026-05-31T03:19:56.417Z
+translated_at: 2026-07-29T12:08:22.000Z
 ---
 
 # Custodiem, Inc. — Japanese crypto-asset exchange service provider overview
@@ -34,24 +34,22 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 ## 3. Supported currencies
 
-On the official site, the current lineup of supported assets is not disclosed (since the end of 2024年, the migration of existing accounts to bitFlyer has been prioritized). In the predecessor FTX Japan era, it handled major currencies including BTC and ETH. A detailed current asset list is not disclosed.
+Current service-site notices and trading rules take precedence for supported assets. The company states that operations related to running an exchange are suspended, while notices cover withdrawals and continued handling of certain assets; therefore, a historical fixed list should not be presented as the set of assets currently available for trading.
 
 ## 4. Scope of business
 
-- **Crypto custody (crypto-asset deposit)**: newly developed as the core business from 2024年 onward
-- **Crypto-asset exchange business**: spot trading (service continuing for existing customers)
-- **Derivatives trading**: supported by the financial-instruments-business license (operating status not disclosed)
-- **Future business (planned)**: crypto-asset spot-ETF-related services after the development of Japanese domestic legislation
-- **Account migration**: promoting migration to bitFlyer on a customer-consent basis
-- **Information-leak response**: 2026年4月, disclosing and responding to a possible customer-information leak due to a cloud-environment misconfiguration
+- **Crypto custody / spot-ETF-related business**: the 2024 name-change notice described these as core businesses to be considered and prepared for, conditional on development of the legal framework
+- **Crypto-asset exchange and Type I financial instruments businesses**: the licenses are maintained. The official site says operations related to running an exchange are suspended, while withdrawal services continue
+- **Information-leak response**: the company disclosed that it identified a possible customer-information leak caused by a cloud misconfiguration on July 31, 2025, and received an FSA reporting order on August 21, 2025
 
 ## 5. Market share / trading volume
 
-- Both trading volume and account count are not disclosed
-- Since 2024年, it has prioritized the return of existing customers' assets and migration to bitFlyer, and new-customer acquisition is halted
-- Industry position: historically the 2th registered operator holding license number 第00002号, but its current business scale is in a retail-service-contraction phase
+- Among the Custodiem, FSA, and JVCEA materials identified in this review as of 2026-07-29, no current trading-volume or account-count disclosure was identified. This does not establish that no such disclosure exists
+- Current official notices focus on withdrawals, and state that operations related to running an exchange are suspended. The low registration number should not be treated as evidence of current business scale or market rank
 
 ## 6. History / major events
+
+The table below is limited to corporate continuity, registration, acquisition, name change, and material events confirmed through Custodiem/former FTX Japan notices, bitFlyer Holdings' acquisition disclosure, the National Tax Agency corporate-number record, and FSA/JVCEA materials.^[Sources: https://www.custodiem.com/; https://support.custodiem.com/hc/ja/articles/29710664413709-FTX-Japan-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%95%86%E5%8F%B7%E5%A4%89%E6%9B%B4%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B; https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=7010401115356; https://jvcea.or.jp/member/.]
 
 | Year/month | Reason |
 |------|------|
@@ -65,19 +63,19 @@ On the official site, the current lineup of supported assets is not disclosed (s
 | 2022年4月 | **Acquisition of the former Liquid company (FTX Japan Holdings) and QUOINE by FTX Trading** → trade name changed to "FTX Japan Co., Ltd." (the corporate number continued unchanged) |
 | 2022年11月 | FTX Trading collapse (FTX Japan continued operations under the protection of Japanese law, with assets segregated) |
 | 2023年 | Began and carried out asset-return services to customers |
-| 2024年7月 | Disclosed that **FTX Japan became a wholly-owned subsidiary of bitFlyer Holdings, Inc.** (share-transfer agreement concluded) |
-| 2024年8月26日 | Trade name changed to "**Custodiem, Inc.**" (corporate number 7010401115356  unchanged) |
-| 2024年9月13日 | Head-office relocation (Chiyoda-ku → Midtown Tower 37F, Akasaka, Minato-ku) |
-| 2026年4月 | Disclosed and apologized for a possible customer-information leak due to a cloud-environment misconfiguration |
+| 2024-07-26 | **bitFlyer Holdings, Inc. completed its acquisition of all shares in FTX Japan, making it a wholly owned subsidiary** |
+| 2024-08-28 | Trade name changed to "**Custodiem, Inc.**" (corporate number 7010401115356 unchanged) |
+| 2024-09-13 | Head-office relocation (Chiyoda-ku → Midtown Tower 37F, Akasaka, Minato-ku) |
+| 2025-07-31 | Identified a possible leak of some customer information caused by a cloud-environment misconfiguration |
+| 2025-08-21 | Received an FSA reporting order concerning the possible information leak |
 
 **Confirmation of corporate continuity**: via the National Tax Agency corporate-number publication site, it is confirmed from a primary source that QUOINE Co., Ltd. → FTX Japan Co., Ltd. → Custodiem, Inc. are the same corporate number 7010401115356 . The FSA 第00002号 (originally registered under the QUOINE name) was also succeeded as-is.
 
 ## 7. Strategic trends
 
-- **Core-business shift (2024-2025)**: a pivot from the crypto-asset exchange business (retail broker) to **crypto custody (crypto-asset deposit for institutional investors)**
+- **Core-business transition policy**: the 2024 official notice described crypto custody and spot-ETF-related services following development of the legal framework as businesses under consideration and preparation. It should not be read as confirmation that either service has launched
 - **Role division within the [[exchanges/jp-exchange-bitflyer|bitFlyer]] group**: bitFlyer = sales outlet / exchange, Custodiem = custody + future ETF-related services (for the background of customer-asset return from FTX Japan, see [[exchanges/ftx-japan-100pct-return-case-study|FTX Japan 100% 返還ケーススタディ]])
 - **Crypto-asset spot-ETF preparation**: plans to offer spot-ETF-related services, conditional on the development of Japan's domestic legal system (the timing of legislative development is uncertain; for market impact, see [[exchanges/btc-spot-etf-japan-impact|BTC spot ETF 日本 impact]] and [[exchanges/jp-institutional-custody-three-pillars|JP institutional custody 三本柱]])
-- **Account migration to bitFlyer**: continuing to promote the consent-based migration of existing Custodiem account customers
 - **Capital-adequacy ratio**: disclosed as of 2026年3月31日 (for detailed figures, see the PDF)
 
 ## 8. Related people
@@ -102,3 +100,5 @@ On the official site, the current lineup of supported assets is not disclosed (s
 - [JVCEA member list](https://jvcea.or.jp/member/) (accessed 2026-05-18)
 - [National Tax Agency corporate-number publication site — corporate number 7010401115356](https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=7010401115356) (accessed 2026-05-18)
 - [FSA Crypto-Asset Exchange Service Provider Registration List (Excel)](https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx) (snapshot 令和8年4月1日 = 2026-04-01)
+- [Custodiem — name change from FTX Japan](https://support.custodiem.com/hc/ja/articles/29710664413709-FTX-Japan-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AE%E5%95%86%E5%8F%B7%E5%A4%89%E6%9B%B4%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B) (2024-08-28)
+- [Custodiem — possible information leak caused by a cloud misconfiguration](https://support.custodiem.com/hc/ja/articles/39008469668237-%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E7%92%B0%E5%A2%83%E3%81%AE%E8%A8%AD%E5%AE%9A%E3%81%AE%E8%AA%A4%E3%82%8A%E3%81%AB%E3%82%88%E3%82%8B%E3%81%8A%E5%AE%A2%E6%A7%98%E6%83%85%E5%A0%B1%E6%BC%8F%E3%81%88%E3%81%84%E5%8F%AF%E8%83%BD%E6%80%A7%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E8%A9%AB%E3%81%B3%E3%81%A8%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B) (accessed 2026-07-29)

@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-vasp-ma-consolidation-history
-source_hash: 2f1800920e9306d8
+source_hash: 9cd1cd58610f97fd
 lang: en
 status: machine
 fidelity: ok
 title: "Domestic Crypto Asset Exchange M&A and Consolidation History (2018-2026)"
-translated_at: 2026-05-31T06:16:15.698Z
+translated_at: 2026-07-29T11:50:43.000Z
 ---
 
 # Domestic Crypto Asset Exchange M&A and Consolidation History (2018-2026)
@@ -17,40 +17,44 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 
 ## Overview
 
-The domestic VASP industry, triggered by the 2018-01  Coincheck NEM outflow incident (580 億円), experienced a chain reaction of regulatory pressure (revisions to the Payment Services Act, strengthening of JVCEA self-regulatory standards), repeated outflow incidents, and increasing capital requirements, making independent survival increasingly difficult. As a result, the trend of **conglomerate integration under major financial groups (SBI / Monex / bitFlyer HD / Rakuten / GMO)** has become firmly established.
+This entry organizes major share acquisitions, business transfers, mergers, and trade-name changes involving Japanese crypto-asset exchange operators when confirmed in timely disclosures or official company announcements. It does not treat signing, closing, customer-asset transfer, and merger as the same "completed acquisition," and it labels conditional transactions accordingly.
 
 ## Major Transaction Timeline
 
+The table is based on official disclosures by the parties. Amounts are shown only when disclosed, and estimates from external M&A databases are not used to turn a customer-asset transfer into a share acquisition. ^[Sources: https://www.monexgroup.jp/jp/news_release/irnews/auto_20180405405861.html; https://global.rakuten.com/corp/news/press/2018/0831_01.html; https://bitflyer.com/pub/20240726-Completion-of-FTX-Japan-K.K.-Share-Acquisition-ja.pdf; https://www.sbigroup.co.jp/news/2026/0625_16429.html; https://www.jngroup.jp/wp-content/uploads/2025/02/kaiji_20250208.pdf.]
+
 | Period | Transaction | Driver |
 |------|------|------|
-| 2018-04  | [[exchanges/jp-exchange-coincheck]] → [[exchanges/jp-exchange-monex]] Group subsidiary (approx. 36 億円) | Post-NEM 580 億円 outflow rescue |
-| 2018-10  | Rakuten → acquisition of Minna no Bitcoin → now [[exchanges/jp-exchange-rakuten-wallet]] | Parent company strategy (financial ecosystem) |
-| 2021-12  | [[exchanges/jp-exchange-sbi-vc-trade]] → TaoTao integration | Capital concentration |
-| 2022-04  | QUOINE → renamed FTX Japan (FTX subsidiary) | Parent company strategy |
-| 2022-02  | DeCurret → sold to Amber Group → 2023-08  acquired by Sony Group → 2024-07  renamed [[exchanges/jp-exchange-sblox]] | Multiple sponsor changes |
-| 2022-10  | Binance → acquisition of Sakura Exchange Bitcoin → now [[exchanges/jp-exchange-binance-japan]] | Overseas major exchange entering Japan |
-| 2024-07  | FTX Japan (QUOINE legal entity) → fully acquired by bitFlyer Holdings → renamed [[exchanges/jp-exchange-custodiem]] | Post-parent company (FTX) bankruptcy rescue |
-| 2024  | [[exchanges/jp-exchange-bitbank]] → FTX Japan customer asset transfer and absorption | Customer protection purpose |
-| 2025-03  | [[exchanges/jp-exchange-dmm-bitcoin]] → transfer to SBI VC Trade | Business exit following approx. 482 億円 outflow incident |
-| 2025-07  | [[exchanges/jp-exchange-zaif]] → fully acquired by JN Group (6634) | Parent company strategy |
-| 2026-04  | BitPoint → absorbed by SBI VC Trade | SBI group 3 件 consecutive consolidations |
+| 2018-04 | Monex Group announced an agreement to acquire all shares of [[exchanges/jp-exchange-coincheck]] for ¥3.6 billion | Rebuilding Coincheck's governance and internal controls |
+| 2018-10 | Rakuten acquired all shares of Everybody's Bitcoin, later [[exchanges/jp-exchange-rakuten-wallet]] | Payment and financial-service integration within Rakuten Group |
+| 2021-12 | [[exchanges/jp-exchange-sbi-vc-trade]] absorbed TaoTao | Integration of exchange operators within SBI Group |
+| 2022-04 | QUOINE under Liquid Group changed its name to FTX Japan | Reorganization after FTX acquired Liquid Group |
+| 2022-2024 | DeCurret's exchange entity moved to Amber Group and later the Sony side, then changed its name to [[exchanges/jp-exchange-sblox]] in July 2024 | Shareholder and brand changes |
+| 2022-11 | Binance announced acquisition of all Sakura Exchange BitCoin shares, later [[exchanges/jp-exchange-binance-japan]] | Business expansion through a registered Japanese entity |
+| 2024-07-26 | bitFlyer Holdings completed acquisition of all FTX Japan shares, later renamed [[exchanges/jp-exchange-custodiem]] | Share transfer during FTX bankruptcy proceedings |
+| 2025-03 | Customer accounts and entrusted assets of [[exchanges/jp-exchange-dmm-bitcoin]] transferred to SBI VC Trade | Customer transfer accompanying the closure of DMM Bitcoin's business |
+| 2025-02 | JN Group disclosed that ZED Holdings and [[exchanges/jp-exchange-zaif]] became consolidated subsidiaries | Group reorganization |
+| 2026-04-01 | SBI VC Trade absorbed BITPoint | Integration of exchange operators within SBI Group |
+| 2026-06-25 | SBI Holdings announced a share-acquisition agreement for [[exchanges/jp-exchange-bitbank]] | Conditional transaction subject to regulatory approvals; not closed as of that announcement |
 
 ## Driver Analysis (3  Integration Triggers)
 
-1. **Rescue mergers following outflow incidents** — Coincheck (2018) and DMM Bitcoin (2025) were transferred to capital-strong parent companies following incident disclosure
-2. **Capital requirements** — JVCEA strengthening and rising segregated management costs pressured independent operators
-3. **Parent company strategy** — Major financial groups absorbed exchanges to expand their financial ecosystems (Rakuten, SBI, Sony, JN)
+1. **Business continuity and customer protection after incidents** — Coincheck's share acquisition and DMM Bitcoin's customer transfer used different transaction structures
+2. **Intragroup reorganization** — TaoTao and BITPoint were merged into SBI VC Trade
+3. **Market entry and business portfolios** — The Rakuten, Binance, and Sony-side transactions included acquisition of a registered entity, technology, or customer base
 
-## Post-Consolidation Market Concentration (as of 2026-05 )
+These are classifications drawn from public materials, not claims about companies' undisclosed decision-making.
 
-- **SBI group**: SBI VC Trade + TaoTao + DMM Bitcoin (2025) + BitPoint (2026) = **largest domestic concentration hub**
+## Consolidation-status snapshot (2026-07-29)
+
+- **SBI group**: TaoTao and BITPoint were absorbed by SBI VC Trade. DMM Bitcoin transferred customer accounts and entrusted assets. The bitbank transaction announced on 2026-06-25 remained conditional
 - **bitFlyer group**: bitFlyer + Custodiem (formerly FTX Japan)
 - **GMO group**: GMO Coin (no independent consolidation, organic expansion model)
 - **Monex group**: Coincheck
 - **Rakuten / LINE group**: Rakuten Wallet / LINE Xenesis (BITMAX)
 - **Sony group**: S.BLOX (formerly DeCurret)
 
-→ The top 5  groups account for the majority of domestic trading volume, with oligopolization progressing.
+This corporate-relationship map does not establish trading-volume share or a "largest domestic" rank. Any concentration analysis requires JVCEA or other data for the same period and metric.
 
 ## Related Entries
 

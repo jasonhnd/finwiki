@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-exchange-backseat-exchange
-source_hash: 3d90aef64cf8a026
+source_hash: 4761ce1f7253d897
 lang: en
 status: machine
 fidelity: ok
 title: "BACKSEAT Crypto-Asset Exchange Co., Ltd. — Japanese crypto-asset exchange operator overview"
-translated_at: 2026-05-31T03:19:56.384Z
+translated_at: 2026-07-29T12:10:50Z
 ---
 
 # BACKSEAT Crypto-Asset Exchange Co., Ltd. — Japanese crypto-asset exchange operator overview
@@ -23,8 +23,8 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - **English name**: BACKSEAT Exchange Inc.
 - **Established**: 2018年5月18日
 - **Head-office location**: 〒102-0082 東京都千代田区一番町7番地1
-- **Parent company**: BACKSEAT株式会社 (100% investment). The detailed capital composition of BACKSEAT株式会社 is not disclosed.
-- **Capital**: 2,327百万円 (including capital reserves) (as of 2026年4月30日) — capital increases were carried out in succession in 2026年1月 and 4.
+- **Parent company**: the official company profile identifies BACKSEAT Inc. as the 100% shareholder as of April 30, 2026. The page reviewed in this round does not describe the parent's own detailed capital composition, so this entry does not infer beyond it.
+- **Capital**: ¥2,327 million (including capital reserves), as of April 30, 2026
 - **Fiscal year-end**: 3
 
 On the trade name: it is unusual in embedding the industry-category name into the company name, in the form "BACKSEAT暗号資産交換業". The top of the corporate site proclaims "Web3". The former brand "coinbook" still survives as the service name of the trading platform (service.coinbook.co.jp), and is configured to direct users to the company's official site via URL redirect.
@@ -32,15 +32,15 @@ On the trade name: it is unusual in embedding the industry-category name into th
 ## 2. License / registration status
 
 - **Crypto-asset exchange business**: Kanto Local Finance Bureau Director-General 第00026号 (registration date 2021-04-16)
-- **Financial instruments business (crypto-asset derivatives)**: not disclosed — the JVCEA member category is "crypto-asset exchange business" only (JVCEA #1031 Type I member)
-- **Electronic Payment Instrument exchange business / funds transfer business**: not registered (not disclosed)
+- **Financial instruments business (crypto-asset derivatives)**: the JVCEA listing reviewed on 2026-07-29 shows “crypto-asset exchange business” only (JVCEA #1031 Type I member). This entry does not infer registration status beyond the reviewed materials
+- **Electronic payment instrument exchange business / funds transfer business**: no registration indication was identified in the company, FSA, and JVCEA materials reviewed on 2026-07-29. This does not establish that no such registration exists
 - **Associations joined**: Japan Virtual and Crypto assets Exchange Association (JVCEA), Japan Digital Decentralized Finance Association, Japan Crypto Asset Business Association
 - **Bodies joined**: JPCrypto-ISAC (joined 2026年4月), Nippon CSIRT Association (joined 2026年1月)
 
 ## 3. Supported assets
 
 - The public price pairs that can be confirmed on the exchange page (service.coinbook.co.jp) are the 2  pairs **ADA/JPY** and **NIDT/JPY** (display as of 2026年5月).
-- The service list includes the service categories of sales counter, exchange, OTC, and IEO, but the total number of handled listings is not explicitly stated on the official site.
+- The service list includes broker, exchange, OTC, and IEO categories. The official page reviewed on 2026-07-29 did not identify a total asset count, so consult the current trading screen.
 - **NIDT (Nippon Idol Token)**: there is a track record of conducting an IEO, and quarterly periodic information disclosure continues (2026年4月 disclosure confirmed).
 
 ## 4. Scope of business
@@ -55,37 +55,34 @@ On the trade name: it is unusual in embedding the industry-category name into th
 
 ## 5. Market share / trading volume
 
-- Monthly and annual trading volumes and number of accounts: **not disclosed**.
-- Among the JVCEA 33 社, Type I member #1031 (the 3 th from the latecomer side by member-number order). FSA registration number 第00026号 is a latecomer registered in 2021年.
-- From the fact that the listings displayed on the exchange remain the 2  pairs ADA · NIDT, and the suspension notice for staking and external deposits/withdrawals (2026年2月), it is presumed to be a **niche / institution-leaning position**, but there is no disclosed quantitative basis. For comparison of mainstream listing counts, see [[exchanges/jp-exchange-bitflyer|bitFlyer]] / [[exchanges/jp-exchange-coincheck|Coincheck]] / [[exchanges/jp-exchange-gmo-coin|GMOコイン]] (the IEO framework in general is [[exchanges/jp-ieo-system-and-cases|JP IEO 制度・事例]]).
+- The company, FSA, and JVCEA materials reviewed on 2026-07-29 did not identify comparable monthly or annual trading volumes or account counts. This does not establish that no such disclosure exists.
+- The current JVCEA member list identifies it as member #1031 among 32 Type I members. A member number does not indicate registration order or market ranking.
+- Because no trading-volume or account-count figures are disclosed, this entry does not assert a market ranking or an institution-focused customer mix. For listing-count comparisons, see [[exchanges/jp-exchange-bitflyer|bitFlyer]] / [[exchanges/jp-exchange-coincheck|Coincheck]] / [[exchanges/jp-exchange-gmo-coin|GMOコイン]] (the IEO framework in general is [[exchanges/jp-ieo-system-and-cases|JP IEO 制度・事例]]).
 - Customer base: targets both individuals and corporations, as stated on the corporate site. Institutional OTC is also offered.
 
 ## 6. History / major events
 
+This table is limited to corporate and regulatory milestones confirmed on the company's current About and disclosure pages and the current JVCEA listing. Name changes without a confirmed date, notices without sufficient detail, and individual maintenance events are excluded. ^[Sources: https://www.backseat-exchange.com/about; https://jvcea.or.jp/member/.]
+
 | Period | Item |
 |------|------|
-| 2018年5月 | Established as 株式会社coinbook |
-| 2021年4月 | Crypto-asset exchange FSA registration (Kanto Local Finance Bureau 第00026号) |
-| (unknown) | Conducted the NIDT (Nippon Idol Token) IEO |
-| (unknown) | 株式会社coinbook → renamed to BACKSEAT暗号資産交換業株式会社 (the former site coinbook.co.jp redirects to the new site) |
-| 6th term (令和4年4月–令和5年3月) | Public notice of reduction in the amount of capital (details unknown) |
-| 9th term (令和7年4月–令和8年3月) | Public notice of reduction in the amount of capital (9th-term portion) |
-| 2026年1月 | Capital increase · change of Japanese-yen deposit account holder name · joined the Nippon CSIRT Association |
-| 2026年2月 | Suspension of external deposits/withdrawals and staking service |
-| 2026年4月 | Capital increase (reached 2,327百万円, as of 2026年4月30日) · joined JPCrypto-ISAC |
-| 2026年5月 | Emergency system maintenance (5month 7day · 11day) |
+| May 18, 2018 | Company established |
+| April 2021 | Registered by the FSA as a crypto-asset exchange operator (Kanto Local Finance Bureau No. 00026) |
+| As of April 30, 2026 | Official company profile lists capital and reserves of ¥2,327 million and BACKSEAT Inc. as the 100% shareholder |
 
-Public records of administrative dispositions / hacks / major system failures: none stated on the official site (separate confirmation of FSA administrative-disposition cases required).
+Within the company, JVCEA, and FSA sources designated for this review and checked on 2026-07-29, no administrative action, hack, or major system failure record was identified. This is not an assertion that none exists.
 
 ## 7. Strategic developments
 
-- **Successive capital increases in 2026年**: capital was built up to 2,327百万円 through capital increases over 2  occasions in 2026年1月 · 4, from which an intent to strengthen the business base can be inferred. However, the purpose of the increases and the source of investment are not disclosed.
+- **Capital information**: the official company profile lists capital and reserves of ¥2,327 million and BACKSEAT Inc. as the 100% shareholder as of April 30, 2026. This entry does not infer increase dates or use of proceeds without a confirmed official disclosure.
 - **Building out security / compliance frameworks**: successively joined industry bodies in the cybersecurity field, such as JPCrypto-ISAC (2026年4月) and the Nippon CSIRT Association (2026年1月).
-- **Suspension of staking and external deposits/withdrawals (2026年2月)**: whether this is a service contraction or a framework review is not disclosed.
+- **Suspension of staking and external deposits/withdrawals (February 2026)**: the official suspension notice does not characterize the reason as either a service contraction or a framework review, so this entry does not interpret it.
 - **Proclaiming Web3 **: the corporate site's catchphrase explicitly states "Web3". It sets the social implementation of blockchain technology as a management goal.
-- No public information on IPO, overseas expansion, or specific partnerships has been confirmed.
+- Within the company, JVCEA, and FSA materials designated for this review and checked on 2026-07-29, no IPO, overseas-expansion, or specific-partnership disclosure was identified. This is not an assertion that none exists.
 
 ## 8. Related persons
+
+The roles and biographies below reflect the company's official About page as reviewed on 2026-07-29 and do not guarantee future officer assignments. ^[Source: https://www.backseat-exchange.com/about.]
 
 | Name | Title | Brief biography |
 |------|------|------|

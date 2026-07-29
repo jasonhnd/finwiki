@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-exchange-coincheck
-source_hash: 7e21bf0374c5fbe1
+source_hash: 5c3f40e1ad049076
 lang: en
 status: machine
 fidelity: ok
 title: "Coincheck, Inc. (コインチェック株式会社) — Japanese crypto-asset exchange operator overview"
-translated_at: 2026-06-18T23:33:48.326Z
+translated_at: 2026-07-29T11:33:00Z
 ---
 
 # Coincheck, Inc. (コインチェック株式会社) — Japanese crypto-asset exchange operator overview
@@ -38,7 +38,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 ## 3. Handled currencies
 
-- **Number of handled tokens**: as of 2022年9月, 18 tokens (+1  QoQ). Continued expansion as appropriate thereafter
+- **Number of handled tokens**: variable; this entry does not freeze a count and defers to Coincheck's current supported-assets page
 - **Major tokens**: BTC, ETH, ETC, XRP, NEM (XEM), LTC, XLM, MONA, BAT, QTUM, LSK, XEM, ENJ, SAND, AXS, etc.
 - **Features**: Early multi-token support domestically. First to introduce the IEO (Initial Exchange Offering) function in Japan. Operates an NFT marketplace (Coincheck NFT). Spot-centered; does not offer margin or derivatives transactions
 
@@ -61,9 +61,11 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
   - End of 2023年6月: approx. 3,465億円
   - End of 2024年12月: approx. 1兆 305億円 (Coincheck Group N.V. financial disclosure 2025-02)
 - **Trading volume**: spot trading volume 2Q FYE Mar. 2022 (3 months) 7,695百万円 (at the time). It contracted substantially during the market-downturn period (around 2023年). It expanded substantially in FY 2024年 after the market recovered. For individual monthly data, see JVCEA statistics
-- **Position within the competition**: the largest scale domestically on a verified-account basis. One of the top 3社 along with bitFlyer, GMO Coin, etc.
+- **Competitive position**: the values above are historical figures for their stated dates and do not establish a current 2026 ranking or “top three” status. No market rank is asserted without current official values using the same period and definition.
 
 ## 6. History / major incidents
+
+This table is limited to milestones confirmed in Coincheck's company profile, FSA/JVCEA registration materials, FSA enforcement materials, and SEC Business Combination disclosures. Incident amounts, listing dates, and transaction structure follow the definitions in those primary sources. ^[Sources: https://coincheck.com/ja/info/company; https://jvcea.or.jp/member/; https://www.sec.gov/Archives/edgar/data/1843993/000121390024107527/ea022426401ex99-1_thunder4.htm; https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx.]
 
 | Year/month | Event |
 |------|------|
@@ -83,10 +85,10 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 ## 7. Strategic developments
 
 - **Connection to global capital markets**: After the Nasdaq listing, strengthened IR activities for US institutional investors. As Coincheck Group N.V., conducts continuous SEC disclosure such as F-1  / F-3  / 6-K, etc. (CIK: 0001913847)
-- **Web 3  / metaverse expansion**: aims to maintain the No. 1  position among domestic NFT platforms, continuing partnerships with IP holders
+- **Web3 / metaverse expansion**: operates Coincheck NFT and partnerships with IP holders. Advertising rankings are not treated as the current market rank.
 - **IEO expansion**: leveraging Japan's first IEO service to continue attracting projects
 - **Coincheck Labs**: continues investment in / incubation of blockchain-related startups
-- **Expansion of handled tokens**: addition of spot / new tokens. Account openings and assets in custody surged during the market-recovery period of 2024-2025年
+- **Supported assets**: assets may be added or removed, so the current list takes precedence. Changes in accounts and assets in custody should be compared using the same disclosure periods and definitions.
 
 ## 8. Related people
 
@@ -98,7 +100,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 ## Related
 
 - [[fintech/japan-financial-regulation]] — Japanese financial regulation as a whole
-- [[exchanges/jp-exchange-bittrade]] — BitTrade (a Monex Group affiliate)
+- [[exchanges/jp-exchange-bittrade]] — peer crypto-asset exchange operator (not a Monex Group affiliate)
 - [[exchanges/jp-exchange-bitflyer]] — bitFlyer
 - [[exchanges/jp-exchange-gmo-coin]] — GMO Coin
 - [[fintech/japan-stablecoin-regulatory-landscape]] — related stablecoin system
@@ -108,6 +110,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 ## Sources
 
+- [Coincheck company profile](https://coincheck.com/ja/info/company) (retrieved 2026-07-29)
 - [JVCEA member list](https://jvcea.or.jp/member/) (retrieved 2026-05-18)
 - [SEC 8-K: Thunder Bridge IV × Coincheck Closing Press Release 2024-12-10](https://www.sec.gov/Archives/edgar/data/1843993/000121390024107527/ea022426401ex99-1_thunder4.htm) (retrieved 2026-05-18)
 - [SEC Form 425: Coincheck Group B.V. / Monex Group 2Q FYE Mar. 2023  Results 2022-10-28](https://www.sec.gov/Archives/edgar/data/1913847/000121390022066936/ea167724-425_coincheck.htm) (retrieved 2026-05-18)

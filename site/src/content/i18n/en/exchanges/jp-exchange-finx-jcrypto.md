@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-exchange-finx-jcrypto
-source_hash: 6bdd19cf56fd425b
+source_hash: dd45513b7853bd33
 lang: en
 status: machine
 fidelity: ok
 title: "FINX JCrypto Inc. — Japan crypto-asset exchange operator"
-translated_at: 2026-05-31T03:19:56.475Z
+translated_at: 2026-07-29T11:16:34Z
 ---
 
 # FINX JCrypto Inc. — Japan crypto-asset exchange operator
@@ -18,11 +18,13 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 ## TL;DR
 
-FINX JCrypto is a registered Japanese crypto asset exchange operator. The current FSA list shows registration number Kanto Local Finance Bureau No.00012 and a broad asset lineup including BTC, ETH, XRP, XLM, BCH, DAI, DOT, LTC, SHIB, OAS, ADA, AVAX, BNB, DOGE, PEPE, POL, SOL, and TRX.
+FINX JCrypto is a registered Japanese crypto asset exchange operator. The FSA list dated 2026-04-01 shows registration number Kanto Local Finance Bureau No.00012 and lists BTC, ETH, XRP, XLM, BCH, DAI, DOT, LTC, SHIB, OAS, ADA, AVAX, BNB, DOGE, PEPE, POL, SOL, and TRX.
 
 For FinWiki, this is a cleanup page: the operator exists in the official FSA list but was missing from the previous exchange entity coverage.
 
 ## 1. Corporate / license
+
+The table below is based on the FSA crypto-asset exchange operator list dated 2026-04-01, FINX JCrypto's company information, and its official trading materials. The FSA address and handled assets are disclosures in that snapshot; current service availability is governed by the current trading screen and contract documents.^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx; https://realestate.coinestate.co.jp/company.html; https://www.coinestate.co.jp/static/resource/trade_manual.pdf?v=20260424.]
 
 | Item | Reading |
 |---|---|
@@ -35,7 +37,7 @@ For FinWiki, this is a cleanup page: the operator exists in the official FSA lis
 
 ## 2. Listed currencies
 
-The FSA registry row lists BTC, ETH, XRP, XLM, BCH, DAI, DOT, LTC, SHIB, OAS, ADA, AVAX, BNB, DOGE, PEPE, POL, SOL, and TRX.
+The 2026-04-01 FSA registry row lists BTC, ETH, XRP, XLM, BCH, DAI, DOT, LTC, SHIB, OAS, ADA, AVAX, BNB, DOGE, PEPE, POL, SOL, and TRX. This is a dated registry disclosure; current order, deposit, and withdrawal availability must be checked in the service and contract documents.
 
 ## 3. Scope of business
 
@@ -44,7 +46,7 @@ The public company-facing surface is narrower than many retail exchanges. The of
 ## 4. Strategic developments
 
 - **Real-estate adjacency**: Public materials position the company near real-estate value creation and crypto-asset settlement.
-- **Long-tail VASP**: It is a registered operator, but not one of the major consumer-facing exchange brands such as [[exchanges/jp-exchange-bitflyer|bitFlyer]], [[exchanges/jp-exchange-coincheck|Coincheck]], [[exchanges/jp-exchange-gmo-coin|GMO Coin]], or [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]]. Real-estate × token adjacency belongs in the [[exchanges/rwa-tokenization-cex-integration|RWA tokenization × CEX 統合]] discussion.
+- **Public positioning**: Official materials present the Coin Estate service and real-estate / crypto-asset transaction adjacency. This differs in public positioning from broad consumer brands, but it does not establish a market-share rank. Real-estate × token adjacency belongs in the [[exchanges/rwa-tokenization-cex-integration|RWA tokenization × CEX 統合]] discussion.
 - **Registry completeness**: The main reason to include this page is to avoid gaps against the FSA registered-operator list.
 
 ## Related
@@ -60,6 +62,7 @@ The public company-facing surface is narrower than many retail exchanges. The of
 
 ## Sources
 
-- FSA: Crypto asset exchange operator list.
-- FINX JCrypto: Company profile.
-- FINX JCrypto: Code of ethics.
+- [FSA crypto-asset exchange operator list](https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx) (snapshot 2026-04-01)
+- [FINX JCrypto company profile](https://realestate.coinestate.co.jp/company.html) (accessed 2026-07-29)
+- [FINX JCrypto trade manual](https://www.coinestate.co.jp/static/resource/trade_manual.pdf?v=20260424) (2026/01 Ver.1)
+- [FINX JCrypto code of ethics](https://coinestate.co.jp/static/resource/code_of_ethics_ja.pdf) (accessed 2026-07-29)

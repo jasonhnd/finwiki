@@ -1,12 +1,12 @@
 ---
 source: exchanges/japan-vasp-business-model-competitive-matrix
-source_hash: 7ff7b5f5d7727731
+source_hash: 646dc84ccd72844e
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本 VASP ビジネスモデル競合マトリクス — 39 社の事業セグメント・収益構造・差別化軸比較"
-translated_at: 2026-07-28T18:19:40Z
+translated_at: 2026-07-29T11:02:23.000Z
 ---
 ﻿
 # 日本 VASP ビジネスモデル競合マトリクス — 39 社の事業セグメント・収益構造・差別化軸比較
@@ -21,15 +21,15 @@ FSA の暗号資産交換業者登録一覧は 2026-06-30 時点で **26 業者*
 
 ## このマトリクスが重要な理由
 
-- 日本 VASP 市場は **30 社規模で収益・取引量が大きく偏る** (bitFlyer / Coincheck / GMO Coin / SBI VC Trade / bitbank の top 5 で口座数の 70%+ シェア推定)。残りの 25-30 社は **特定セグメント深耕** (機関 OTC / IEO / RWA / デリバ専業 / 海外系流動性ゲートウェイ) で生き残る。
+- 日本 VASP 市場の登録母集団、収益、取引量および口座数は時点と集計範囲で変わるため、FSA / JVCEA と各社の日時付き開示で確認する。機関 OTC / IEO / RWA / デリバ専業 / 海外系流動性ゲートウェイなどの事業セグメントを分けて比較する。
 - **収益モデルの違いは大きく営業利益率を左右する**:
-  - 販売所スプレッド (国内主流) → 営業利益率 30-50%
-  - 取引所板厚 (海外流動性ブリッジ) → 営業利益率 5-15%
-  - デリバ (金商法 1 種) → 営業利益率 20-40%
+  - 販売所スプレッドの収益寄与は各社の開示で確認し、固定利益率を推定しない
+  - 取引所板と海外流動性ブリッジの収益寄与は各社の開示で確認する
+  - デリバ (金商法 1 種) の収益寄与は現物事業と分けて確認する
   - 機関 OTC / RWA → 営業利益率不安定 (大口取引依存)
 - **JVCEA 銘柄審査** が銘柄数を絞るため、海外系日本法人 (Binance / OKJ / OSL / Bybit Japan 計画中) は **グローバル親会社の銘柄ラインナップを日本市場に持ち込めない構造**。これが「海外大手の日本市場参入インセンティブを抑制する規制 moat」になっている。
 - 二大新規セグメント:
-  - **電子決済手段等取引業 (ECISP)** = SBI VC Trade 第00001号で USDC 取扱開始 (2025-03)、他社追随見込
+  - **電子決済手段等取引業 (ECISP)** = SBI VC Trade 第00001号で USDC 取扱開始。追加登録は FSA の現行一覧で確認する
   - **IEO** = Coincheck IEO が国内初導入、その後 GMO Coin / bitbank が追随
 
 ## 事業者別セクション
@@ -38,14 +38,14 @@ FSA の暗号資産交換業者登録一覧は 2026-06-30 時点で **26 業者*
 
 - **[[exchanges/jp-exchange-bitflyer|bitFlyer]]** (関東財務局第00003号、JVCEA #1002)
   - **モデル**: 現物販売所 + 取引所 (Lightning Spot) + デリバ (Lightning FX) + クレカ (bitFlyer クレカ、アプラス発行)
-  - **収益軸**: BTC 取引量国内首位継続 + デリバ手数料 + bitFlyer クレカ from アプラス
+  - **収益軸**: 現物 / デリバ手数料と bitFlyer クレカ。BTC 取引量の順位は日時付き同一集計で確認する
   - **2025-12 期決算**: 売上 135 億円、営業利益 42 億円
   - **差別化**: Lightning FX デリバの板厚 + マルチ法域展開 (US 子 bitFlyer USA、欧子 bitFlyer Europe SAS)
   - **2024 動向**: [[exchanges/jp-exchange-custodiem|Custodiem]] (旧 FTX Japan) を 2024 取得 → デリバ補強
 - **[[exchanges/jp-exchange-bitbank|bitbank]]** (FSA 登録、独立系)
   - **モデル**: 現物取引所 (板取引特化) + ステーキング + IEO
   - **収益軸**: 取引手数料 (Maker rebate model)
-  - **差別化**: 国内現物板取引量 No.2 級、独立を貫く非上場プライベート
+  - **差別化**: 現物板取引と独立系の非上場企業という事業構造。取引量順位は固定しない
   - **戦略**: IEO 早期参入 + リテール取引所板厚で勝負
 - **[[exchanges/jp-exchange-btcbox|BTCBOX]]** (独立系老舗)
   - **モデル**: 現物取引所 (BTC 中心) + 中国系流動性
@@ -56,11 +56,11 @@ FSA の暗号資産交換業者登録一覧は 2026-06-30 時点で **26 業者*
 - **[[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]]** (関東財務局第00011号、JVCEA #1011)
   - **モデル**: 現物販売所 + デリバ (3247 号、金商法 1 種) + ECISP USDC (国内 ECISP 第00001号) + ステーキング + USDC レンディング (2026-03 国内初)
   - **収益軸**: 販売所スプレッド + デリバ手数料 + USDC レンディング金利
-  - **差別化**: **日本唯一の 3 種牌照同時保有** (暗号資産交換業 + 金商法 1 種 + ECISP)。SBI Circle Holdings 50/50 JV (2025-08) で USDC 国内独占分销
+  - **差別化**: 暗号資産交換業、金融商品取引業および ECISP の登録・業務範囲を各レジストリで確認する。USDC の提携・流通範囲は当事者の現行開示で確認する
   - **戦略**: USD-JPY SC 跨境合规通道のキングメーカー化 ([[fintech/stablecoin-channel-japan-sbi-jpyc-ring|SBI × JPYC × Circle 環]] 参照)
 - **[[exchanges/jp-exchange-gmo-coin|GMO Coin]]** (関東財務局第00006号、JVCEA #1006)
   - **モデル**: 現物販売所 + 取引所 + レバレッジ取引 + ステーキング + 暗号資産レンディング
-  - **収益軸**: 販売所スプレッド (国内最大級収益エンジン) + レバレッジ手数料
+  - **収益軸**: 販売所スプレッド + レバレッジ手数料。収益規模の順位は決算開示なしに推定しない
   - **差別化**: GMO インターネットグループ (9449) のインフラ事業延長で、テクニカルスタックの自社開発
 - **[[exchanges/jp-exchange-coincheck|Coincheck]]** (関東財務局第00014号、JVCEA #1017、Monex 系)
   - **モデル**: 現物販売所 + 取引所 + IEO 国内初導入 + NFT マーケットプレイス (Coincheck NFT)
@@ -82,7 +82,7 @@ FSA の暗号資産交換業者登録一覧は 2026-06-30 時点で **26 業者*
   - **戦略**: 2022 サクラエクスチェンジ買収で登録取得、PayPay (Z HD 系) 出資で国内決済連携
 - **[[exchanges/jp-exchange-coinbase-japan|Coinbase Japan]]** (関東財務局登録あり、2023 撤退・ライセンス保持)
   - **モデル**: 2023 撤退で dormant 状態
-  - **戦略**: ライセンス保持で将来再参入オプション (現状休止)
+  - **戦略**: 現行の登録状態とサービス提供状況は FSA レジストリと当事者発表で確認する
 - **[[exchanges/jp-exchange-okcoin-japan|OKCoin Japan (OKJ)]]** (OKX 系)
   - **モデル**: 現物販売所 (デリバなし)
   - **差別化**: 別法人として Type 1 spot 運営 (海外 OKX の deriv は国内未提供)
@@ -128,7 +128,7 @@ FSA の暗号資産交換業者登録一覧は 2026-06-30 時点で **26 業者*
 - **[[exchanges/jp-exchange-gaia|Gaia]]** (ニッチ)
 - **[[exchanges/jp-exchange-bi-fxtrade|BI FXTRADE]]** (SBI FX トレード子)
 - **[[exchanges/jp-exchange-mercury|Mercury]]** (セレス 3696 系、CoinTrade 運営)
-- **[[exchanges/jp-exchange-line-xenesis|LINE Xenesis]]** (LINE ヤフー 4689 系、2026-06 サービス終了予定)
+- **[[exchanges/jp-exchange-line-xenesis|LINE Xenesis]]** (LINE ヤフー 4689 系、2026-06 サービス終了)
 - **[[exchanges/jp-exchange-coinhub|CoinHub]]**
 - **[[exchanges/jp-exchange-gaudiy|Gaudiy]]**
 - **[[exchanges/jp-exchange-sblox|S.BLOX]]** (旧ディーカレット = ソニーグループ傘下、暗号資産交換業)
@@ -137,87 +137,49 @@ FSA の暗号資産交換業者登録一覧は 2026-06-30 時点で **26 業者*
 
 - **[[exchanges/jp-exchange-jpyc|JPYC]]** (関東財務局第00099号資金移動業)
   - **モデル**: 円ステーブルコイン JPYC 発行・換金専業 (暗号資産交換業 **非**)
-  - **差別化**: 唯一の資金移動業者型 SC 発行体
+  - **差別化**: 資金移動業者型 SC 発行モデル。現行の同区分事業者は FSA 登録資料で確認する
 
 ## 大型比較マトリクス表
 
-| 業者名 | 親 | FSA 登録番号 | JVCEA 区分 | 現物販売所 | 現物取引所 | レバレッジ | デリバ (金商法 1 種) | カストディ | ステーキング | IEO | 機関 OTC | リテール販売所 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| **bitFlyer** | bitFlyer Holdings | 第00003号 | 第一種 #1002 (現物 + デリバ) | ◎ Lightning Spot | ○ Lightning | ○ Lightning FX | ○ | ○ | △ | ✕ | △ | ◎ |
-| **Coincheck** | Monex Group (8698) | 第00014号 | 第一種 #1017 (現物のみ) | ◎ | ○ | ✕ | ✕ | ○ | ○ | **◎ 国内初** | ✕ | ◎ |
-| **GMO Coin** | GMO Internet (9449) | 第00006号 | 第一種 #1006 | ◎ | ○ | ○ | ○ | ○ | ○ | △ | ✕ | ◎ |
-| **SBI VC Trade** | SBI HD (8473) | 第00011号 (+ ECISP 第00001号) | 第一種 #1011 (3 牌照) | ○ | ○ | ✕ | ○ (3247) | ○ | ○ | △ | △ | ○ |
-| **bitbank** | 独立系 | (登録あり) | 第一種 | △ | ◎ Maker-rebate | ✕ | ✕ | ○ | ○ | ○ | ✕ | △ |
-| **BTCBOX** | 独立系 | (登録あり) | 第一種 | △ | ○ | ✕ | ✕ | ○ | ✕ | ✕ | ✕ | △ |
-| **Rakuten ウォレット** | 楽天 (4755) | (登録あり) | 第一種 | ◎ | ✕ | ✕ | ✕ | ○ | ✕ | ✕ | ✕ | ◎ |
-| **Mercoin** | メルカリ (4385) | (登録あり) | 第一種 | ◎ | ✕ | ✕ | ✕ | ○ | ✕ | ✕ | ✕ | ◎ |
-| **Binance Japan** | Binance Global (PayPay 40%) | (登録あり) | 第一種 | ◎ | ○ | ✕ | ✕ | ○ | ○ | ✕ | ✕ | ◎ |
-| **Coinbase Japan** | Coinbase Global (COIN) | (登録あり、dormant) | 第一種 | (休止) | (休止) | ✕ | ✕ | (休止) | ✕ | ✕ | ✕ | (休止) |
-| **OKCoin Japan (OKJ)** | OKX Group | (登録あり) | 第一種 | ○ | ○ | ✕ | ✕ | ○ | △ | ✕ | ✕ | ○ |
-| **OSL Japan** | OSL Group (HKEX:863) | (登録あり) | 第一種 | ○ | ○ | ✕ | ✕ | ○ | △ | ✕ | △ | ○ |
-| **Gate Japan** | Gate.io | (登録あり) | 第一種 | ○ | ○ | ✕ | ✕ | ○ | ✕ | ✕ | ✕ | ○ |
-| **Tokyo Hash** | HashKey Group | (登録あり) | 第一種 | ✕ | ✕ | ✕ | ✕ | ○ | ✕ | ✕ | ◎ | ✕ |
-| **Crypto Garage** | DG HD + 東京短資 + 野村 HD | (登録あり) | 第一種 | ✕ | ✕ | ✕ | ✕ | ○ | ✕ | ✕ | ◎ | ✕ |
-| **Digital Asset Markets** | JPX + 三井物産 + Monex | (登録あり) | 第一種 | ✕ | ○ (機関 PTS) | ✕ | ✕ | ○ | ✕ | ✕ | ◎ | ✕ |
-| **Laser Digital Japan** | 野村 HD (スイス子) | (登録あり) | 第二種 (デリバ) | ✕ | ✕ | ✕ | ○ | ○ | ✕ | ✕ | ◎ | ✕ |
-| **SBI 証券** | SBI HD | (デリバ業) | (デリバ) | ✕ | ✕ | ✕ | ○ | ✕ | ✕ | ✕ | △ | ✕ |
-| **Monex** | Monex Group | (デリバ業) | (デリバ) | ✕ | ✕ | ✕ | ○ | ✕ | ✕ | ✕ | △ | ✕ |
-| **Trek Labs Japan** | Backpack Exchange | (登録あり) | 第二種 (デリバ) | ✕ | ✕ | ✕ | ○ | ○ | ✕ | ✕ | ○ | ✕ |
-| **Saxo Bank Japan** | Saxo Bank A/S | (登録あり) | 第二種 (デリバ) | ✕ | ✕ | ✕ | ○ | ○ | ✕ | ✕ | ○ | ✕ |
-| **DMM Bitcoin** | DMM | (廃業 2024-12) | (廃業) | (廃業) | (廃業) | (廃業) | (廃業) | (廃業) | ✕ | ✕ | ✕ | (廃業) |
-| **Zaif** | JN グループ HD (6634) | (登録あり) | 第一種 | ○ | ○ | ✕ | ✕ | ○ | ✕ | △ | ✕ | ○ |
-| **BitTrade** | Hbg (旧 Huobi Japan) | (登録あり) | 第一種 | ○ | ○ | ✕ | ✕ | ○ | ○ | △ | ✕ | ○ |
-| **Backseat Exchange** | (独立系、旧 coinbook) | (登録あり) | 第一種 | ○ | ✕ | ✕ | ✕ | ○ | ✕ | ✕ | △ | ○ |
-| **LINE Xenesis** | LINE ヤフー (4689) | (登録あり) | 第一種 | (2026-06 終了) | (終了) | ✕ | ✕ | (終了) | ✕ | ✕ | ✕ | (終了) |
-| **JPYC** | JPYC 株式会社 (独立系) | 第00099号 (資金移動業) | 第一種 #1042 (資金移動業) | (非該当) | (非該当) | (非該当) | (非該当) | (非該当) | ✕ | ✕ | ✕ | ✕ |
-| **S.BLOX** | ソニーグループ | (登録あり) | 第一種 | ○ | ○ | ✕ | ✕ | ○ | ✕ | ✕ | △ | ○ |
-| **Mercury (CoinTrade)** | セレス (3696) | (登録あり) | 第一種 | ○ | ✕ | ✕ | ✕ | ○ | ○ (Fireblocks インフラ) | ✕ | ✕ | ○ |
-| **BI FXTRADE** | SBI FX トレード | (登録あり) | 第一種 | △ | ✕ | ✕ | ✕ | ○ | ✕ | ✕ | △ | △ |
-| **CoinHub** | 独立系 | (登録あり) | 第一種 | △ | ✕ | ✕ | ✕ | ○ | ✕ | ✕ | ✕ | △ |
-| **Gaudiy** | 独立系 | (登録あり) | 第一種 | △ | ✕ | ✕ | ✕ | ○ | ✕ | ✕ | ✕ | △ |
-| **Gaia** | 独立系 | (登録あり) | 第一種 | △ | ✕ | ✕ | ✕ | ○ | ✕ | ✕ | ✕ | △ |
-| **DMM.com Securities** | DMM | (デリバ業) | (デリバ) | ✕ | ✕ | ✕ | ○ | ✕ | ✕ | ✕ | △ | ✕ |
-| **Money Partners** | 独立系 | (デリバ業) | (デリバ) | ✕ | ✕ | ✕ | ○ | ✕ | ✕ | ✕ | △ | ✕ |
-| **Goldenway Japan** | Goldenway 系 | (デリバ業) | (デリバ) | ✕ | ✕ | ✕ | ○ | ✕ | ✕ | ✕ | △ | ✕ |
-| **Traders Securities** | 独立系 | (デリバ業) | (デリバ) | ✕ | ✕ | ✕ | ○ | ✕ | ✕ | ✕ | △ | ✕ |
-| **FinX/JCrypto** | 独立系 | (登録あり) | 第一種 | △ | △ | ✕ | ✕ | ○ | ✕ | ✕ | ✕ | △ |
+出典: [金融庁の暗号資産交換業者一覧](https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx)、[英語一覧](https://www.fsa.go.jp/en/regulated/licensed/en_kasoutuka.pdf)、[JVCEA 会員一覧](https://jvcea.or.jp/member/)。個別サービスは各社の現行公式ページで確認する。
 
-凡例: ◎ = 主力戦略軸 / ○ = 提供 / △ = 限定的・準備中 / ✕ = 提供なし
+| 分析対象 | 一次資料で確認する事項 | この表で断定しない事項 |
+|---|---|---|
+| **暗号資産交換業者** | 登録名、登録番号、登録日、法人情報 | 現在の商品、銘柄数、取引量、収益性 |
+| **暗号資産デリバティブ事業者** | 金融商品取引業の登録と業務範囲 | 現物業との同一性 |
+| **電子決済手段等取引業者** | 別制度の登録と取扱電子決済手段 | 暗号資産交換業への包含 |
+| **JVCEA 会員** | 現行の会員種別と会員名 | FSA 登録区分との同一性 |
+| **廃止・移管・履歴 entity** | FSA / JVCEA / 当事者の日時付き公表 | 「休止」「再参入」「準備中」の推測 |
+| **個別サービス** | 当事者の現行商品ページと約款 | ◎○△✕ による時点不明の採点 |
 
 ## 収益モデル × ターゲット二軸クロス分析
 
-### 収益モデル別グループ
+### 収益モデル別の確認方法
 
-1. **販売所スプレッド主軸** (営業利益率 30-50%): bitFlyer / Coincheck / GMO Coin / Rakuten ウォレット / Mercoin / Binance Japan / SBI VC Trade (一部)
-2. **取引所手数料主軸** (営業利益率 5-15%): bitbank / OKJ / OSL / Binance Japan (一部)
-3. **デリバ手数料主軸** (営業利益率 20-40%): bitFlyer (Lightning FX) / GMO Coin (レバ) / SBI 証券 / Monex / Trek Labs Japan / Saxo Bank Japan / Laser Digital Japan
-4. **機関 OTC + RWA** (大口取引依存): Crypto Garage / Digital Asset Markets / Tokyo Hash / Laser Digital Japan
-5. **stablecoin / EPI** (新興セグメント): JPYC (資金移動業者型) / SBI VC Trade (ECISP USDC)
-6. **NFT + IEO** (新興): Coincheck (Coincheck NFT + IEO 国内初) / bitbank (IEO)
+- 販売所、取引所、デリバティブ、カストディ、OTC、ステーキング、レンディング、IEO、電子決済手段は、別々の収益源として開示資料を確認する。
+- 非開示企業について、販売所スプレッドや同業他社の数値から営業利益率を推定しない。
+- 商品提供の有無は、登録だけで判断せず、各社の現行商品ページと約款で確認する。
 
 ### ターゲット顧客別
 
-- **個人リテール深耕**: bitFlyer / Coincheck / GMO Coin / Rakuten ウォレット / Mercoin / Binance Japan / OKJ / Gate Japan
-- **機関投資家深耕**: Crypto Garage / Digital Asset Markets / Tokyo Hash / Laser Digital Japan / Saxo Bank Japan
-- **企業間決済 (B2B)**: SBI VC Trade (USDC) + JPYC (資金移動業)
-- **証券会社 PTS / RWA**: Digital Asset Markets / Crypto Garage
+リテール、機関、法人決済、証券・RWA の分類は、当事者が明示した顧客区分と商品説明に基づく。登録区分、親会社または UI の外観だけから対象顧客を推定しない。
 
 ## 競争構造の差別化軸
 
 ### 銘柄数競争
 
-- **国内最多銘柄**: SBI VC Trade (約 40 銘柄) > Coincheck > Binance Japan > GMO Coin
-- **JVCEA 銘柄審査制約**: グローバル CEX が世界中で扱う 700+ 銘柄 (Binance) を国内で 30-40 銘柄程度に絞られる構造制約
-- **ECISP 銘柄拡大**: SBI VC Trade の USDC 取扱以降、他 ECISP 取得者が同様に USDC / PYUSD / EURC 拡大予定
+- **取扱銘柄**: 各社の現行商品ページを同じ日時で確認し、銘柄数ランキングを固定しない
+- **JVCEA 銘柄審査**: 国内取扱銘柄は登録・審査・各社商品公開で確認し、海外親会社の銘柄数から国内数を推定しない
+- **ECISP 取扱商品**: 各 ECISP の登録と現行商品ページで確認し、未公表の追加銘柄を予測しない
 
 ### スプレッド競争
 
-- 国内販売所スプレッドは 0.5-3% レンジで業者・銘柄により差。bitFlyer / Coincheck / GMO Coin / Rakuten ウォレット がリテール販売所主軸。
-- 取引所板の Maker rebate モデルは bitbank が最も明確 (-0.02% Maker rebate)。
+- 国内販売所スプレッドは業者・銘柄・時間で変わるため、発注時の提示価格と手数料表で確認する。
+- Maker / taker 条件は各社の現行手数料表で確認し、最優位や固定料率を記録しない。
 
 ### 上場速度競争
 
-- **新規上場速度**: 独立系 (bitbank / S.BLOX) が機動的、大手金融系 (SBI / GMO / 楽天 / メルカリ) は親会社 IR 開示と JVCEA 銘柄審査で遅い
+- **新規上場速度**: 同一期間の日時付き上場発表で比較し、資本系列から速度を推定しない
 - **IEO**: Coincheck IEO 国内初導入後 (2021)、GMO Coin / bitbank が追随
 
 ### グローバル流動性ブリッジ
@@ -233,14 +195,14 @@ FSA の暗号資産交換業者登録一覧は 2026-06-30 時点で **26 業者*
 - SBI VC Trade = ECISP 経由 USDC 取扱業者 + 暗号資産交換業 + 金商法 1 種
 - 両者は法的に異なるが、stablecoin ビジネスとして競合関係 ([[fintech/japan-epi-four-camps-comparison|EPI 四阵营]] 参照)
 
-### B2. Coinbase Japan の dormant 状態 — 撤退でなく休止のオプション保持
+### B2. Coinbase Japan と DMM Bitcoin の現行状態確認
 
-- Coinbase Japan は 2018 FSA 登録 → 2023 撤退、ただしライセンス保持。将来再参入オプションを残す。
-- 一方 DMM Bitcoin は 2024-12 廃業確定で復活なし。
+- Coinbase Japan の登録、サービス停止後の法人状態および再開有無は、FSA レジストリと Coinbase の現行公式発表で確認する。
+- DMM Bitcoin の廃業、事業移管および法人状態は、当局資料と当事者の現行公式発表で確認する。
 
 ### B3. LINE Xenesis 2026-06 サービス終了 — 大手系の収益難証拠
 
-- LINE ヤフー 4689 系の LINE Xenesis は 2026-06 サービス終了予定。LINE 経済圏内で十分な収益化に至らなかった事例。
+- LINE ヤフー 4689 系の LINE Xenesis は 2026-06 にサービスを終了した。終了理由や収益性は当事者の公表範囲を超えて推定しない。
 
 ### B4. デリバ専業 vs 現物専業の二極化
 

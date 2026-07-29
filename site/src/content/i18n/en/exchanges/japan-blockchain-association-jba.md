@@ -1,11 +1,11 @@
 ---
 source: exchanges/japan-blockchain-association-jba
-source_hash: 96aea64e3642b359
+source_hash: c7804e8bfdffbdbd
 lang: en
 status: machine
 fidelity: ok
 title: "JBA — Japan Blockchain Association"
-translated_at: 2026-05-31T03:19:56.471Z
+translated_at: 2026-07-29T11:02:23.000Z
 ---
 
 # JBA — Japan Blockchain Association
@@ -43,13 +43,15 @@ The **Japan Blockchain Association (JBA), a general incorporated association**, 
 
 ## Demarcation with JCBA / JVCEA (three-tier structure)
 
-| Body | Role | Member focus | Legal positioning |
-|---|---|---|---|
-| **[[exchanges/jvcea-self-regulatory-overview|JVCEA]]** | Accredited self-regulation enforcement | FSA-registered VASPs | Accredited Financial Instruments Firms Association + Accredited Funds-Settlement Business Association |
-| **[[exchanges/jcba-japan-crypto-business-association|JCBA]]** | Industry policy / tax advocacy | Crypto-asset business in general | General incorporated association (voluntary body) |
-| **JBA** | Technology / research / education | Blockchain-technology community | General incorporated association (voluntary body) |
+Source: The entire table is based on the [JBA association overview](https://jba-web.jp/about), [JVCEA association overview](https://jvcea.or.jp/about/), and [JCBA official site](https://cryptocurrency-association.org/), checked on 2026-07-29.
 
-Many major VASPs hold overlapping memberships in 3  bodies ([[exchanges/jp-exchange-bitflyer|bitFlyer]] · [[exchanges/jp-exchange-coincheck|Coincheck]] · [[exchanges/jp-exchange-bitbank|bitbank]], etc.). JBA's historical value as a technology body lies in its legacy from the self-regulatory rule-making period before the founding of JVCEA, when domestic VASPs autonomously formulated anti-money-laundering and cold-wallet operating standards. This has been inherited as the basis of the current [[exchanges/jp-vasp-aml-travel-rule-implementation|JVCEA Travel Rule 実装]] and [[exchanges/jp-vasp-security-audit-certification|VASP セキュリティ監査基準]].
+| Body | Principal purpose or role stated officially | Corporate / accreditation status |
+|---|---|---|---|
+| **[[exchanges/jvcea-self-regulatory-overview|JVCEA]]** | Member self-regulation and user protection | General incorporated association; certified payment-services business association; authorized financial instruments firms association |
+| **[[exchanges/jcba-japan-crypto-business-association|JCBA]]** | Sound development of crypto-asset and Web3 businesses and policy advocacy | General incorporated association |
+| **JBA** | Dissemination, development, and education of blockchain technology | General incorporated association |
+
+The three associations' overview pages alone do not establish company-by-company overlapping memberships or a direct lineage from historical association rules to current self-regulation. Check each association's current member list and the applicable rule text directly.
 
 ## Notable historical members / representatives
 

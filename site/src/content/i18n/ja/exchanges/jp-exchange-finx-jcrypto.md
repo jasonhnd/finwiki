@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-exchange-finx-jcrypto
-source_hash: 6bdd19cf56fd425b
+source_hash: dd45513b7853bd33
 lang: ja
 status: machine
 fidelity: ok
 title: "FINX JCrypto株式会社 — 日本暗号資産交換業者"
-translated_at: 2026-06-02T12:19:04.235Z
+translated_at: 2026-07-29T11:16:34Z
 ---
 ﻿
 # FINX JCrypto株式会社 — 日本暗号資産交換業者
@@ -18,11 +18,13 @@ translated_at: 2026-06-02T12:19:04.235Z
 
 ## 要約
 
-FINX JCrypto は登録済みの日本の暗号資産交換業者である。現行の FSA 一覧では、登録番号は関東財務局長 第00012 号で、BTC、ETH、XRP、XLM、BCH、DAI、DOT、LTC、SHIB、OAS、ADA、AVAX、BNB、DOGE、PEPE、POL、SOL、TRX を含む幅広い取扱銘柄が示されている。
+FINX JCrypto は登録済みの日本の暗号資産交換業者である。2026-04-01 付 FSA 一覧では、登録番号は関東財務局長 第00012 号で、BTC、ETH、XRP、XLM、BCH、DAI、DOT、LTC、SHIB、OAS、ADA、AVAX、BNB、DOGE、PEPE、POL、SOL、TRX が記載されている。
 
 FinWiki において、このページは収録漏れを補うための整理ページである。同社は FSA 公式一覧に存在する事業者だが、従来の交換業者エンティティ収録には含まれていなかった。
 
 ## 1. 法人・ライセンス
+
+以下の表は 2026-04-01 付 FSA 暗号資産交換業者一覧、FINX JCrypto の会社表示、および公式取引資料に基づく。FSA 登録住所・取扱暗号資産は同スナップショットの表示であり、個別サービスの現在の提供可否は現行取引画面・契約書面を優先する。^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx; https://realestate.coinestate.co.jp/company.html; https://www.coinestate.co.jp/static/resource/trade_manual.pdf?v=20260424.]
 
 | 項目 | 内容 |
 |---|---|
@@ -35,7 +37,7 @@ FinWiki において、このページは収録漏れを補うための整理ペ
 
 ## 2. 取扱通貨
 
-FSA 登録一覧の行には、BTC、ETH、XRP、XLM、BCH、DAI、DOT、LTC、SHIB、OAS、ADA、AVAX、BNB、DOGE、PEPE、POL、SOL、TRX が記載されている。
+2026-04-01 付 FSA 登録一覧の行には、BTC、ETH、XRP、XLM、BCH、DAI、DOT、LTC、SHIB、OAS、ADA、AVAX、BNB、DOGE、PEPE、POL、SOL、TRX が記載されている。これは日付のある登録開示であり、現在の注文・入出金可否はサービス画面・契約書面で確認する。
 
 ## 3. 業務範囲
 
@@ -44,7 +46,7 @@ FSA 登録一覧の行には、BTC、ETH、XRP、XLM、BCH、DAI、DOT、LTC、S
 ## 4. 戦略動向
 
 - **不動産隣接領域**: 公開資料では、同社は不動産価値創造と暗号資産決済に近い位置づけとされている。
-- **ロングテール VASP**: 登録事業者ではあるが、[[exchanges/jp-exchange-bitflyer|bitFlyer]]、[[exchanges/jp-exchange-coincheck|Coincheck]]、[[exchanges/jp-exchange-gmo-coin|GMO Coin]]、[[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]] のような主要な消費者向け取引所ブランドではない。不動産 × トークン隣接領域は [[exchanges/rwa-tokenization-cex-integration|RWA tokenization × CEX 統合]] の議論に属する。
+- **公開上の位置づけ**: 公式資料は Coin Estate サービスと不動産・暗号資産取引の隣接領域を示す。広範な消費者向けブランドとは公開上の位置づけが異なるが、市場シェア順位を示すものではない。不動産 × トークン隣接領域は [[exchanges/rwa-tokenization-cex-integration|RWA tokenization × CEX 統合]] の議論に属する。
 - **登録一覧の網羅性**: このページを含める主な理由は、FSA 登録事業者一覧との照合で欠落を避けるためである。
 
 ## 関連項目
@@ -60,6 +62,7 @@ FSA 登録一覧の行には、BTC、ETH、XRP、XLM、BCH、DAI、DOT、LTC、S
 
 ## 出典
 
-- FSA: 暗号資産交換業者一覧。
-- FINX JCrypto: 会社概要。
-- FINX JCrypto: 倫理規程。
+- [FSA 暗号資産交換業者一覧](https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx)（snapshot 2026-04-01）
+- [FINX JCrypto 会社概要](https://realestate.coinestate.co.jp/company.html)（取得 2026-07-29）
+- [FINX JCrypto 取引操作マニュアル](https://www.coinestate.co.jp/static/resource/trade_manual.pdf?v=20260424)（2026/01 Ver.1）
+- [FINX JCrypto 倫理規程](https://coinestate.co.jp/static/resource/code_of_ethics_ja.pdf)（取得 2026-07-29）

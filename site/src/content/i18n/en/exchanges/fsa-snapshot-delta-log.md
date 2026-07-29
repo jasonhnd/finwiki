@@ -1,11 +1,11 @@
 ---
 source: exchanges/fsa-snapshot-delta-log
-source_hash: 56c552890a177a84
+source_hash: feb870ac46a112c3
 lang: en
 status: machine
 fidelity: ok
 title: "FSA crypto operator registry — snapshot delta log"
-translated_at: 2026-06-22T07:08:50.155Z
+translated_at: 2026-07-29T11:02:23.000Z
 ---
 
 # FSA crypto operator registry — snapshot delta log
@@ -47,16 +47,17 @@ At each FSA publication update, append the following block:
   - (notable items: institutional changes / large M&A / major new entrants, etc.)
 ```
 
-## Known major snapshot change history (past 2  years)
+## Comparison of saved registry snapshots
 
-| Snapshot point | Major changes | Reference entity wiki |
+Source: The entire table was counted and compared from the rows in the FSA `kasoutuka.xlsx` [2024-08-20 archive](https://web.archive.org/web/20240820011719/https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx), [2025-02-06 archive](https://web.archive.org/web/20250206070223/https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx), and [2025-09-07 archive](https://web.archive.org/web/20250907103139/https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx), checked on 2026-07-29.
+
+| Archive timestamp | Registered operators | Entries visible in the archived file |
 |---|---|---|
-| 令和6年4月1日 (2024-04-01) | FTX Japan (formerly QUOINE) was at that point still registered under the name "FTX Japan" (the 100% customer-asset return was completed 2023-02 ). **The old description "bitbank absorption completed" is incorrect** — it was not bitbank but bitFlyer Holdings that acquired FTX Japan (made a wholly-owned subsidiary 2024-07, renamed to Custodiem 2024-08; see the 2024-10-01 row below). The other comprehensive deltas of this snapshot are difficult to reconstruct from public primary sources.^[FSA kasoutuka Wayback snapshots; Custodiem public release sources] | [[exchanges/ftx-japan-100pct-return-case-study]] / [[exchanges/jp-exchange-custodiem]] |
-| 令和6年10月1日 (2024-10-01) | **Corporate-name change**: FTX Japan Co., Ltd. → Custodiem, Inc. (announced 2024-07-26 in connection with becoming a wholly-owned subsidiary of bitFlyer HD; the name change took effect in the summer of 2024 年). The total number of registered operators was flat at 29 社 (the Wayback FSA xlsx dated 2024-08-20 carries "FTX Japan"; in the one dated 2025-01-15 it is gone = renamed to Custodiem). Note that DMM Bitcoin's intention to close was announced 2024-12-01, but at this point deregistration was not yet reflected. 〔Sources: Custodiem name-change notice / FSA xlsx Wayback 2024-08-20〕^[FSA archived kasoutuka.xlsx; JVCEA member list; Custodiem notice] | [[exchanges/jp-exchange-custodiem]] |
-| 令和7年4月1日 (2025-04-01) | **Deregistration (business closure)**: DMM Bitcoin Co., Ltd. (Director-General of the Kanto Local Finance Bureau 第00010号, registered 平成29年12月1日) — following the outflow of about 482億円 BTC in 2024-05 , it transferred accounts and custodied assets to SBI VC Trade on 2025-03-08 and ended its service, and was deregistered. **Corporate-name change**: CoinBest Co., Ltd. → OSL Japan Co., Ltd. (under the Hong-Kong-listed OSL Group umbrella, renamed 2025-02 ; the registration number and corporate number 3010001185935  were carried over). Total number of registered operators 29  → 28 社 (28 社 confirmed in the FSA list dated 令和7年6月30日). Consistent with the FSA xlsx diff between the one dated 2025-02-06 (carrying 29社 / 第00010号) → the one dated 2025-09-07 (with 28社 / 第00010号 gone). 〔Sources: ITmedia / SBI HD transfer release / DMM Bitcoin Wikipedia (第00010号) / Akasaka Keizai Shimbun (OSL renaming) / FSA xlsx Wayback 2025-02-06・2025-09-07〕^[FSA archived kasoutuka.xlsx; SBI HD transfer release; public DMM Bitcoin and OSL notices] | [[exchanges/jp-exchange-dmm-bitcoin]] / [[exchanges/jp-exchange-sbi-vc-trade]] |
-| 令和7年10月1日 (2025-10-01) | New registrations / business closures at that point could not be identified from public primary sources (because the FSA does not permanently publish past versions of the list, a strict diff is difficult to reconstruct). The total number of registered operators was **flat at 28 社** (consistent with the public description "28  operators as of the end of 2025 年 10 月" and with 28 社 dated 令和7年6月30日). No public reports of notable new entrants or business closures were confirmed. 〔Source: FSA xlsx Wayback 2025-09-07 (28社)〕 | — |
-| **令和8年4月1日 (2026-04-01)** | Latest snapshot baseline (citation source for [[exchanges/jp-exchange-bitbank]] / [[exchanges/jp-exchange-line-xenesis]] etc.) | See individual pages |
-| 令和8年10月1日 (2026-10-01) planned | **LINE Xenesis business closure to be reflected** (2026-06-01 service termination) | [[exchanges/jp-exchange-line-xenesis]] |
+| 2024-08-20 | 29 | FTX Japan is listed |
+| 2025-02-06 | 29 | DMM Bitcoin (No. 00010) and CoinBest are listed |
+| 2025-09-07 | 28 | No. 00010 is absent and OSL Japan is listed |
+
+This table shows only differences visible in the archived files themselves. It does not infer the effective date or reason for a change unless another primary notice establishes it.
 
 ## Update workflow
 

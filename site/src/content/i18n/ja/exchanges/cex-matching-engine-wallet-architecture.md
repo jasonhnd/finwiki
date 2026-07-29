@@ -1,12 +1,12 @@
 ---
 source: exchanges/cex-matching-engine-wallet-architecture
-source_hash: 4cb313ca28c39e4a
+source_hash: 6dced29c86136959
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "CEX matching engine + cold/hot ウォレット内部架構"
-translated_at: 2026-06-26T08:28:53.956Z
+translated_at: 2026-07-29T12:22:29.000Z
 ---
 
 # CEX matching engine + cold/hot ウォレット内部架構
@@ -45,9 +45,13 @@ CEX (Binance / Coinbase / bitFlyer / 国内全社) は CLOB 基盤。機関大�
 - 顧客が "BTC 100 枚買いたい" と quote 要求
 - マーケットメイカーが bid/ask 提示
 - 個別 fill (order book に出ない)
-- 大口取引で slippage 制御 + 価格秘匿国内 OTC: bitFlyer / Coincheck が「販売所」名義で類似機能を一般顧客向けに提供 ([[exchanges/jp-cex-sales-vs-exchange-model-economics]] 参照)。
+- 大口取引で slippage 制御 + 価格秘匿
 
-## 4. cold/hot ウォレット内部架構国内 VASP 義務 ([[exchanges/jp-vasp-cold-storage-segregation-rules]]) に基づく 3 層構成:
+国内 OTC: bitFlyer / Coincheck が「販売所」名義で類似機能を一般顧客向けに提供 ([[exchanges/jp-cex-sales-vs-exchange-model-economics]] 参照)。
+
+## 4. cold/hot ウォレット内部架構
+
+国内 VASP 義務 ([[exchanges/jp-vasp-cold-storage-segregation-rules]]) に基づく 3 層構成:
 
 - **ホットウォレット (≤ 5% 国内義務)** — matching engine 直結 · リアルタイム入出金処理 · maker/taker bot 連携 · API 経由で署名
 - **ウォームウォレット** — 半オフライン · 大口出金時のステージング · 1 日複数回 cold から補充
@@ -55,23 +59,19 @@ CEX (Binance / Coinbase / bitFlyer / 国内全社) は CLOB 基盤。機関大�
 
 Coincheck 2018 NEM 580 億円事件は「実質ホット 100%」の結果 ([[exchanges/coincheck-nem-hack-detailed-analysis]])。同事件後の規制強化で 3 層分離が国内義務化。
 
-## 5. 主要技術スタック機関カストディの 5 技術 ([[exchanges/global-institutional-custody-five-pillars]] / [[exchanges/jp-institutional-custody-three-pillars]]):
+## 5. 主要技術スタック
 
-| 技術 | 代表ベンダー | 役割 |
+署名・鍵管理で使われる代表的な技術カテゴリ ([[exchanges/global-institutional-custody-five-pillars]] / [[exchanges/jp-institutional-custody-three-pillars]]):
+
+出典: 表全体は [Safe Signatures](https://docs.safe.global/advanced/smart-account-signatures)、[NIST FIPS 140-3](https://csrc.nist.gov/pubs/fips/140-3/final)、[Fireblocks MPC 解説](https://www.fireblocks.com/report/what-is-mpc)（2026-07-29 確認）に基づく。
+
+| 技術 | 公開仕様の例 | 役割 |
 |---|---|---|
-| **multi-sig** | Gnosis Safe (現 Safe) | 標準 2-of-3 署名閾値 · スマコン基盤 |
-| **HSM** | Thales / Utimaco / Ledger Vault | ハードウェア暗号モジュール · FIPS 140-2/3 認証 |
-| **MPC** | Fireblocks / Fordefi / Sepior | 鍵分散 · single point of failure 排除 |
-| **air-gap signing** | Casa / Anchorage | 完全オフライン署名 · ネット非接続 |
-| **シャミア秘密分散 (Shamir's Secret Sharing)** | 多数 | 秘密鍵の閾値分散 (k-of-n) |
+| **multi-signature** | Safe smart-account signatures | 複数の owner 署名を設定可能なスマートアカウント方式。閾値は構成ごとに設定される |
+| **HSM / cryptographic module** | NIST FIPS 140-3 | 暗号モジュールの設計・実装に対するセキュリティ要件と 4 段階のセキュリティレベルを定義 |
+| **MPC** | Fireblocks MPC | private-key operation を複数 party の計算と key share に分散し、単一の完全な秘密鍵を一か所に保持しない方式 |
 
-CEX 実装例:
-- **Coinbase カストディ** — multi-sig + HSM 混合
-- **Anchorage Digital** — MPC 中心 (米 OCC 国法銀行ライセンス)
-- **Komainu** — cold + air-gap (Nomura JV)
-- **Fireblocks** — MPC SaaS · 国内 GMO コイン等が採用
-
-2025 Bybit Lazarus hack ([[exchanges/bybit-lazarus-hack-detailed-analysis]]) は **Safe UI 偽装**で multi-sig 署名者を騙した社会工学攻撃。技術自体は機能したが UI 層の脆弱性が露呈、air-gap + ハードウェア確認の重要性を再認識させた。詳細フォレンジック手法は [[security/bytecode-forensic-three-tier-verify|bytecode forensic 3-tier verify]] と [[security/forensic-identity-anchor-chain|forensic identity anchor chain]] を併読。サプライチェーン攻撃の構造分析は [[security/module-path-confusion-supply-chain-attack|module path confusion supply chain attack]] 参照。
+特定の CEX や custody provider が採用する署名方式、閾値、HSM / MPC 構成は変更され得るため、この表から個社実装を推定しない。個別事件の分析は [[exchanges/bybit-lazarus-hack-detailed-analysis]]、フォレンジック手法は [[security/bytecode-forensic-three-tier-verify|bytecode forensic 3-tier verify]] と [[security/forensic-identity-anchor-chain|forensic identity anchor chain]] を参照。
 
 ---
 

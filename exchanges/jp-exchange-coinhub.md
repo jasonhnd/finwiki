@@ -3,9 +3,9 @@ title: "COINHUB株式会社 — 日本暗号資産交換業者"
 aliases: ["COINHUB", "CoinHub", "COINHUB株式会社", "コインハブ"]
 domain: exchanges
 created: 2026-05-20
-last_updated: 2026-05-20
-last_tended: 2026-05-20
-review_by: 2026-11-20
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
 confidence: likely
 tags: [exchanges, jp-crypto-exchange, vasp, crypto-atm, fsa-registered]
 status: active
@@ -30,6 +30,8 @@ For FinWiki, this is the second missing FSA-registered VASP page identified in t
 
 ## 1. 法人・牌照
 
+以下の表は 2026-04-01 FSA 暗号資産交換業者一覧と COINHUB 公式サイトの法人表示に基づく。FSA 一覧の「取扱暗号資産」は同スナップショット上の登録表示であり、現在の ATM 稼働状況や顧客向け提供可否を単独で保証しない。^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx; https://coinhub.co.jp/en.]
+
 | Item | Reading |
 |---|---|
 | Legal name | COINHUB株式会社 |
@@ -46,8 +48,8 @@ COINHUB's public site describes business activities as crypto asset exchange ser
 
 ## 3. 戦略動向
 
-- **Crypto ATM / cash interface**: The company is positioned around a crypto ATM network and physical access pattern.
-- **Narrow asset scope**: The FSA registry row lists BTC only, making it a focused operator compared with broad-listing domestic exchanges.
+- **Crypto ATM / cash interface**: The official site positions the business around crypto ATMs and a physical access pattern; current machine availability must be checked on the service itself.
+- **Registry scope**: The 2026-04-01 FSA registry row lists BTC. This is a dated registration disclosure, not a permanent asset count or evidence that every service is currently available.
 - **Completeness role**: Its inclusion closes a direct gap against the FSA registered-operator list.
 
 ## Related
@@ -63,5 +65,5 @@ COINHUB's public site describes business activities as crypto asset exchange ser
 
 ## Sources
 
-- FSA: Crypto asset exchange operator list.
-- COINHUB: Corporate information.
+- [FSA 暗号資産交換業者一覧](https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx)（snapshot 2026-04-01）
+- [COINHUB official site](https://coinhub.co.jp/en)（取得 2026-07-29）

@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-exchange-traders-securities
-source_hash: 45ecf0a550e81157
+source_hash: af004dd678381b16
 lang: en
 status: machine
 fidelity: ok
 title: "Traders Securities — Japanese crypto-asset derivatives trading operator overview"
-translated_at: 2026-05-31T05:31:05.801Z
+translated_at: 2026-07-29T11:50:43.000Z
 ---
 
 # Traders Securities — Japanese crypto-asset derivatives trading operator overview
@@ -37,7 +37,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 - Handled in crypto-asset derivatives trading ("Minna no Coin," "LIGHT FX Coin"). The service page on the company's website (min-fx.jp) mentions the major 5 issues BTC, ETH, XRP, LTC, and BCH.
 - No physical handling. All trades are CFDs (crypto-asset margin trading) with a leverage cap of 2x.
-- No official statement of the number of issues (not published).
+- This reflects the official service page retrieved on 2026-05-18; use the live official screen for the current set.
 
 ## 4. Scope of business
 
@@ -49,12 +49,11 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 ## 5. Market share / trading volume
 
-- Number of accounts (FX 2-brand combined): 667,900口座 (as of 4 of the 2027年3月 term = published 2026-04 )
-- Assets under custody (same): 133,611,648 thousand yen (≒1,336億円) (published 2026-04 )
-- The number of accounts / trading volume for crypto-asset CFD alone is not published.
-- Position among competitors: A mid-tier FX securities firm (Minna no FX is estimated to be within the top 10 in domestic FX account numbers, but there is no official ranking source). Crypto-asset derivatives are estimated to be mid-sized among the 13社 peers (not published). Other peer firms include [[exchanges/jp-exchange-monex|マネックス証券]], [[exchanges/jp-exchange-sbi-securities|SBI 証券]], and [[exchanges/jp-exchange-bi-fxtrade|SBI FXトレード]]; for a comparison of listed companies, see [[exchanges/jp-listed-cex-related-companies-matrix|JP 上場 CEX 関連企業マトリクス]].
+- The April 2026 account and custody figures are combined metrics for two FX brands and are not used as standalone crypto-asset CFD comparisons. The official materials reviewed on 2026-07-29 contain no standalone crypto-asset CFD account or trading-volume figures, so this entry does not infer a market rank or scale. For listed-company comparisons, see [[exchanges/jp-listed-cex-related-companies-matrix|Japan listed CEX-related companies matrix]].
 
 ## 6. History / major incidents
+
+The table below is based on Traders Securities' official company profile and history, the JVCEA member list, and the official Minna no Coin page. It distinguishes the parent company's listing market from the corporate history of the securities operating company. ^[Sources: https://traderssec.com/company/outline/; https://jvcea.or.jp/member/; https://min-fx.jp/lineup/coin/.]
 
 | Year/month | Item |
 |------|------|
@@ -70,7 +69,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 | 2022-01 | Launched crypto-asset margin trading "Minna no Coin" and "LIGHT FX Coin" |
 | 2023-04 | Relocated head office to the 28F of Yebisu Garden Place Tower |
 
-- Administrative dispositions / hacks / large-scale system failures: Not published (as of retrieval date 2026-05-18)
+- Within the official company history, member list, and service materials reviewed for this update, no description of an administrative action, hack, or large-scale system failure concerning the crypto-asset CFD service was identified. This is not a claim that none exists.
 
 ## 7. Strategic developments
 
@@ -84,7 +83,6 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - Representative Director and President (CEO): Takeshi Suyama (as of 令和8年4月1日)
 - Director (CAO): Akira Matsuyama
 - Director (CSO): Yoshio Iguchi
-- Founder information (at establishment in 1999年): Not published
 
 ## Related
 

@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-web3-policy-public-body-layer
-source_hash: 185b972d281afdce
+source_hash: bb592b3290673972
 lang: en
 status: machine
 fidelity: ok
 title: "Domestic Web3 / Crypto-Asset Public Policy Body Layer (METI Web3  Policy Office / LDP web3  PT / Cabinet Secretariat)"
-translated_at: 2026-05-31T06:16:15.719Z
+translated_at: 2026-07-29T11:50:43.000Z
 ---
 
 # Domestic Web3 / Crypto-Asset Public Policy Body Layer (METI Web3  Policy Office / LDP web3  PT / Cabinet Secretariat)
@@ -16,75 +16,62 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 
 ## Overview
 
-Domestic Web3 / crypto-asset policy is shaped by a four-pole structure: **FSA (financial regulation) + METI (industrial policy) + LDP web3  PT (member legislation + intra-party policy) + Cabinet Secretariat (cross-ministry digital strategy coordination)**. The FSA oversees VASP licensing, JVCEA supervision, and the Payment Services Act / Financial Instruments and Exchange Act, while the **METI Web3  Policy Office oversees industry development, token taxation (corporate taxation), startup support, and international standardization**. The LDP web3  PT bridges both at the political layer, and the Cabinet Secretariat / Digital Agency handles cross-ministry coordination. Since the **2022 年 "Kishida Web3  Declaration"**, the government as a whole has established a pro-web3  posture, and web3 / crypto-asset policy has been continuously included in the annual "Basic Policy on Economic and Fiscal Management" and "New Form of Capitalism" documents.
+Japanese Web3 and crypto-asset policy involves the FSA's financial regulation, METI's industrial policy, cross-government work by the Cabinet Secretariat and Digital Agency, and policy proposals from the ruling party. The LDP web3 PT, however, is a party body rather than an administrative agency, and these actors do not form a fixed four-pole chain of command. This entry distinguishes their roles using official organizations and public documents reviewed as of 2026-07-29.
 
 ## Major Public Policy Bodies
 
 ### **Ministry of Economy, Trade and Industry Web3  Policy Promotion Office (METI Web3  Policy Office)**
 
-- **Established**: 2022–07  (Commerce and Information Policy Bureau, METI)
+- **Established**: July 2022 (based on METI's publication)
 - **Position**: Under the Information Economy Division, Commerce and Information Policy Bureau, METI
-- **Mandate**: Web3  industry development, proposals for reforming the token taxation framework (corporate taxation), Web3  startup support, NFT industrial policy, overseas expansion support, international standardization
+- **Areas on the official page**: Web3.0 business-environment development, study groups and reports, and dialogue with startups and other stakeholders
 - **Official site**: https://www.meti.go.jp/policy/it_policy/web3/index.html
-- **Key outputs**:
-  - Publication of the "Web3  White Paper" series (annual)
-  - Proposals to revise the year-end mark-to-market taxation of corporate-held crypto assets (materialized in the 2024  amendment as an exclusion for self-issued + third-party-issued tokens)
-  - Development of DAO guidelines (limited liability partnership LLC + DAO structure)
-  - NFT guidelines (boundary clarification for the Premiums Act + gambling offence)
-  - Ministry delegations to overseas web3  events (Denver Eth Denver / ETHGlobal Tokyo, etc.)
+- **Confirmed publications**: Web3.0 business-environment study materials, reports, and links to related measures. Final tax-law content must be checked separately in Ministry of Finance and National Tax Agency materials
 
 ### **Liberal Democratic Party web3  Project Team (web3  PT)**
 
-- **Established**: 2022–01  (PT under the Headquarters for Promotion of Digital Society)
-- **Position**: Under the Headquarters for Promotion of Digital Society, Policy Research Council, LDP
-- **Past chairs / advisors**: Centred on Taira Masaaki, Member of the House of Representatives (former Deputy Minister for Digital), with ongoing participation from members including Shiozaki Akihisa / Kanda Jun'ichi / Yamada Taro / Kawasaki Hideto
-- **Key outputs**:
-  - Annual publication of "web3  policy proposal 2022", "web3  policy proposal 2023", "web3  policy proposal 2024", "web3  policy proposal 2025"
-  - Continued proposal for separate taxation of individual income (not yet realised)
-  - Parliamentary pressure toward the 2024  amendment to the Corporation Tax Act (a driving force)
-  - Discussions on DAO legalisation
-  - Relaxation of visa requirements for Web3  overseas talent
-  - Utilisation of the regulatory sandbox
-- **Industry liaison**: Close consultations with [[exchanges/jcba-japan-crypto-business-association|JCBA]] + [[exchanges/jvcea-self-regulatory-overview|JVCEA]]; jointly drafts policy proposals
+- **Position**: An internal project team under the LDP's Headquarters for the Promotion of a Digital Society; it is not an administrative agency
+- **Organizational location**: Under the LDP Policy Research Council's Headquarters for the Promotion of a Digital Society
+- **Public activities**: Uses proposals and meeting materials published on the LDP website to present policy ideas on taxation, DAOs, user protection, and the business environment
+- **Boundary**: Party proposals are not themselves statutes or government decisions. Distinguish them from enacted laws, tax-reform outlines, and ministerial ordinances
 
 ### **Cabinet Secretariat / Digital Agency**
 
-- **Digital Agency**: Established 2021–09 . Oversees My Number / government digital infrastructure. **No direct jurisdiction over Web3 / crypto assets, but overlap in digital ID + stablecoins + CBDC etc.**
-- **Cabinet Secretariat Council for Realisation of New Form of Capitalism**: Continued inclusion of web3 / crypto assets in the "New Form of Capitalism" grand design + action plan
-- **Cabinet Secretariat Council for Realisation of a Digital Garden City Nation**: Regional revitalisation × web3 / NFT utilisation (precedents such as Niigata Yamakoshi NFT)
+- **Digital Agency**: Established in September 2021. It is responsible for government information systems and common functions of the digital society; any published Web3-related research or trials are distinct from financial-regulatory authority
+- **Cabinet Secretariat**: Coordinates cross-government documents such as the "New Form of Capitalism." Web3 references must be checked in each dated edition
 
 ### **Financial Services Agency (FSA) — Regulatory side**
 
 - **Position**: External bureau of the Cabinet Office
 - **Mandate**: VASP registration ([[exchanges/fsa-vasp-registration-system|FSA 登録制度]]), oversight of JVCEA-certified self-regulatory body, stablecoin regulation (amended Payment Services Act 2023–06), regulation of crypto-asset derivatives under the Financial Instruments and Exchange Act
 - **Financial Council Working Groups**: Continuously convened WGs on crypto assets and stablecoins; preliminary deliberation on amendment bills
-- **Relationship with METI**: Division of roles between regulation and industry development; director-general-level consultations between the two ministries continue
+- **Relationship with METI**: Financial regulation and industrial policy have different mandates. Check concrete joint work at the level of each published meeting and document
 
 ### **Bank of Japan (BOJ)**
 
-- **Mandate**: CBDC (central bank digital currency) proof-of-concept experiments (Stage 1: 2021–04  / Stage 2: 2022–04  / Stage 3  / Pilot operation 2024–)
-- **Relationship with crypto assets**: Official position that CBDC ≠ crypto assets, though competition / complementarity with private stablecoins (→ [[exchanges/jp-exchange-jpyc|JPYC]]) is a live topic
+- **CBDC experiments**: Began proof-of-concept phase 1 in April 2021, phase 2 in April 2022, and a pilot program in April 2023
+- **Boundary**: The BOJ has not decided to issue a CBDC, and its work is not the same as the legal framework for private crypto-assets or stablecoins
 
 ## Role Division and Interaction among the 4  Policy Poles
+
+The table simplifies roles confirmed on each institution's or party's official website. It is not a command structure or a guaranteed path to enactment. ^[Sources: https://www.fsa.go.jp/about/about.html; https://www.meti.go.jp/policy/it_policy/web3/index.html; https://www.jimin.jp/; https://www.cas.go.jp/; https://www.digital.go.jp/about; https://www.boj.or.jp/paym/digital/index.htm.]
 
 | Pole | Primary role | Primary tools |
 |---|---|---|
 | **FSA** | Regulatory enforcement · licensing | Payment Services Act / FIEA / Cabinet Office ordinances / [[exchanges/jvcea-self-regulatory-overview|JVCEA]] certification |
-| **METI Web3  Policy Office** | Industry development · tax proposals | White papers / subsidies / regulatory sandbox |
-| **LDP web3  PT** | Political layer · member legislation | Annual policy proposals / intra-party decisions / budget pressure |
-| **Cabinet Secretariat / Digital Agency** | Cross-ministry coordination | Basic economic policy / New Form of Capitalism / Digital Garden City Nation |
+| **METI Web3 Policy Promotion Office** | Web3.0 business-environment and industrial policy | Study groups / reports / related measures |
+| **LDP web3 PT** | Intra-party policy proposals | Proposals / meetings / party procedures |
+| **Cabinet Secretariat / Digital Agency** | Cross-government policy / digital infrastructure | Government plans / research / trials |
 
-In practice, policy formation follows the path: industry ([[exchanges/jcba-japan-crypto-business-association|JCBA]] / [[exchanges/jvcea-self-regulatory-overview|JVCEA]]) → LDP web3  PT → METI / FSA → Cabinet Secretariat / ruling-party tax commission → outline of tax reform → submission to the Diet.
+The policy path differs by matter. Industry requests, councils, ministry review, ruling-party procedures, Cabinet decisions, Diet deliberation, ordinances, and self-regulation should not be treated as one linear flow.
 
-## Major Policy Agenda (2024–2026)
+## Topics recurring in public materials
 
-1. **Separate taxation of individual income** — long-standing industry request; under continuing deliberation by the ruling-party tax commission. The focus is realisation in the **2026 年 annual tax reform outline**
-2. **DAO legalisation** — LLC + DAO hybrid design; legal positioning of articles of association + smart contracts
-3. **NFT secondary-market legislation** — boundary clarification for copyright + Premiums Act + gambling offence
-4. **Stablecoin expansion** — framework consolidation for Mitsubishi UFJ Trust Progmat / [[exchanges/jp-exchange-jpyc|JPYC]] / megabank issuers
-5. **Overseas web3  talent attraction** — visa relaxation + highly skilled professional resident status
-6. **AML / Travel Rule strengthening** — → [[exchanges/jp-vasp-aml-travel-rule-implementation|犯収法 + FATF Travel Rule 国内実装]]
-7. **Token taxation: corporate adaptation** — operation of the 2024  amendment; clarification of uncovered areas (gas fees, airdrops, etc.)
+1. **Crypto-asset taxation** — distinguish party and industry proposals from enacted tax law and National Tax Agency treatment
+2. **Legal treatment of DAOs and NFTs** — distinguish study-group or proposal stages from enacted law
+3. **Stablecoins** — distinguish electronic payment instruments under the amended Payment Services Act from individual services
+4. **AML / Travel Rule** — see [[exchanges/jp-vasp-aml-travel-rule-implementation|domestic implementation of the Act on Prevention of Transfer of Criminal Proceeds and the FATF Travel Rule]]
+5. **Talent and startup support** — check implemented measures and proposed measures in dated official materials
 
 ## International Comparison / Coordination
 
@@ -95,7 +82,7 @@ In practice, policy formation follows the path: industry ([[exchanges/jcba-japan
 - **South Korea**: FSC + DAXA + Virtual Asset User Protection Act (2024–07)
 - **Hong Kong**: SFC VASP licensing
 
-Japan's framework is evaluated as "comprehensive and early-mover", similar to MiCA; during its G7  Presidency (2023), Japan led international discussions on web3 / stablecoin harmonisation.
+Because national frameworks differ in covered assets, licensing, tax, and AML scope, this entry does not rank Japan as simply "close to" or "ahead of" MiCA. Use each authority's current legislation for international comparison.
 
 ## Related
 

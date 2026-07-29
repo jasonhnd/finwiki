@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-exchange-bi-fxtrade
-source_hash: 0b030c939669d821
+source_hash: 9a313d4dfa525864
 lang: en
 status: machine
 fidelity: ok
 title: "SBI FXトレード株式会社（BI FXTRADE）— Japan crypto-asset-derivatives operator overview"
-translated_at: 2026-06-18T23:33:48.302Z
+translated_at: 2026-07-29T12:10:50Z
 ---
 
 # SBI FXトレード株式会社（BI FXTRADE）— Japan crypto-asset-derivatives operator overview
@@ -38,64 +38,63 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 ## 3. Handled currencies
 
-- **Number of handled instruments**: 6 instruments (derivatives only; no spot trading)
-- **Instruments**: BTC/JPY, XRP/JPY, ETH/JPY, BTC/USD, XRP/USD, ETH/USD
-- **Characteristics**: Crypto-asset CFDs (contracts for difference) offered against both the yen and the dollar. No spot holding / wallet. Positioned as a crypto-asset-derivatives add-on service by an FX-focused operator.
+- **Eligible instruments**: crypto-asset CFD instruments and currency pairs are updated on the official product pages, so this entry does not retain a fixed count or list.
+- **Characteristics**: an FX-focused operator offers contracts-for-difference crypto-asset derivatives. Check the current product pages for eligible instruments and currency pairs.
 
 ## 4. Scope of operations
 
 The company is an FX (foreign-exchange margin trading) specialist firm, and crypto assets are provided as a derivatives service (**SBI Bitcoin FX**) added onto the same account base as FX.
 
+The following table defines the service boundary from the company's current product pages and JVCEA listing; current official pages take precedence for instrument and pair counts. ^[Sources: https://www.sbifxt.co.jp/advantage/cfd_index.html; https://www.sbifxt.co.jp/advantage/cfd_coin.html; https://jvcea.or.jp/member/.]
+
 | Service | Availability |
 |---------|---------|
-| FX (over-the-counter foreign-exchange margin trading) | ✓ Main business / 34 currency pairs |
+| FX (over-the-counter foreign-exchange margin trading) | ✓ Main business; see the current product page for currency pairs |
 | Accumulation foreign currency (accumulation FX) | ✓ Foreign-currency accumulation service |
-| SBI Bitcoin FX (crypto-asset CFD) | ✓ 6 instruments / leverage up to 2x (individuals) |
-| Crypto-asset spot trading | ✗ None |
+| SBI Bitcoin FX (crypto-asset CFD) | ✓; see the current product page for instruments and trading conditions |
+| Crypto-asset spot trading | JVCEA listing shows crypto-asset derivatives trading only |
 | NEOBANK | ✓ Bank agency business (SBI Sumishin Net Bank) |
-| Crypto-asset lending / NFT / staking | ✗ None |
-| Electronic payment instruments trading business | ✗ None |
+| Crypto-asset lending / NFT / staking | No offering was identified on the product pages reviewed on 2026-07-29 |
+| Electronic payment instruments trading business | No registration indication was identified in the materials reviewed on 2026-07-29 |
 
-**Deposit channels (crypto-asset CFD)**: quick deposit (SBI Sumishin Net Bank, Rakuten Bank, MUFG Bank, Sumitomo Mitsui Banking Corporation, Japan Post Bank, Mizuho Bank, PayPay Bank), instant deposit from SBI FXトレード NEOBANK. **No convenience-store payment / crypto-currency deposit**.
+**Deposit channels (crypto-asset CFD)**: official guidance lists quick deposit and a deposit path from SBI FXTRADE NEOBANK. Supported financial institutions, acceptance methods, and fees can change; consult the current deposit guidance.
 
-**Main specs of the crypto-asset CFD**: trading type = over-the-counter crypto-asset margin trading; leverage = 2x for individual accounts (corporations separately); loss-cut level = margin maintenance ratio 50% or below; trading fees, loss-cut fees, and account-maintenance fees all free; variable funding rate.
+**Main specs of the crypto-asset CFD**: the trading type is over-the-counter crypto-asset margin trading. Leverage, loss-cut, fee, and funding-rate terms can change; consult the current product summary and pre-contract disclosure.
 
 ## 5. Market share / trading volume
 
-- **Trading volume / number of accounts**: not published (no regular disclosure for the crypto-asset CFD alone)
-- **Customer base**: mainly existing FX customers (retail-centered). No description of a dedicated program for institutional investors.
-- **Position**: no published trading-volume ranking for the crypto-asset CFD. In the FX division it touts "industry-narrowest-class spreads" and "Oricon Customer Satisfaction FX-beginner category No. 1位". An FX specialist with the name recognition of the SBI Group as a backdrop, its customer base is mainly the retail FX trader segment.
+- **Trading volume / number of accounts**: the company and product pages reviewed on 2026-07-29 did not identify recurring trading-volume or account-count disclosure for the crypto-asset CFD alone. This does not establish that no such disclosure exists.
+- **Customer base**: the product is offered on the FX account platform. This entry does not infer a customer mix or the presence or absence of a dedicated institutional program beyond the reviewed materials.
+- **Position**: no comparable trading-volume dataset for the crypto-asset CFD alone was identified, so no market rank is assigned. Advertising ranks for the foreign-exchange FX business are not carried over to the crypto-asset CFD.
 
 ## 6. History / major incidents
 
+This chronology includes only events listed in SBI FXTRADE's official company history. Incomplete captures and future or adjacent events not present in that history are excluded. ^[Source: https://corp.sbifxt.co.jp/company/.]
+
 | Year/Month | Item |
 |------|------|
-| 2011年11月 | Established |
-| 2012年5月 | SBI FXTRADE service launched |
-| 2015年12月 | Accumulation FX (accumulation foreign currency) provision started |
-| 2017年4月 | Overseas business started |
-| 2018年10月 | Option FX started |
-| 2020年8月 | Accumulation FX trading costs abolished; **crypto-asset CFD trading (SBI Bitcoin FX) handling started** |
-| 2021年11月 | 10th anniversary of establishment |
-| 2023年1月 | SDGs business partnership with Tabechoku |
-| 2024年12月 | (As of 2026-05-18; details unknown because the end of the official history was obtained midway) |
-| 2026年4月 | 15th-anniversary special page published, foreign-currency delivery service started |
+| November 2011 | Established |
+| May 2012 | SBI FXTRADE service launched |
+| December 2015 | Accumulation FX (Tsumitate Gaika) launched |
+| April 2017 | Overseas business launched |
+| October 2018 | Option FX launched |
+| August 2020 | Accumulation FX trading costs abolished and **crypto-asset CFD trading (SBI Bitcoin FX) launched** |
+| November 2021 | 10th anniversary |
+| January 2023 | SDGs business partnership with Tabechoku |
+| December 2024 | SBI FXTRADE NEOBANK launched |
 
-No published records of administrative actions, hacks, or large-scale system failures were confirmed within the public information as of 2026-05-18.
+Within the company, JVCEA, and FSA sources designated for this review and checked on 2026-07-29, no administrative action, hack, or large-scale system failure record was identified. This is not an assertion that none exists.
 
 ## 7. Strategic trends
 
-- **2026年4月**: "Foreign-currency delivery service" launched (delivery of foreign-currency cash to FX-account customers)
-- **2026年4月**: 15th-anniversary special page published, anniversary campaign rolled out
-- **2026年5月**: reduction of the benchmark spread of a new currency pair (Turkish lira/yen) (1.28 sen)
-- For the crypto-asset CFD, since the 2020年8月 launch, the instrument expansion (in the order BTC→XRP→ETH) is complete, and the against-the-dollar instruments have also been added. No new-expansion announcements for the crypto-asset division were confirmed in the most recent 12 months.
+- The official company history runs through the launch of SBI FXTRADE NEOBANK in December 2024. When reviewed on July 29, 2026, it did not list a newer crypto-asset-CFD milestone.
+- Current instruments and trading conditions are governed by the product pages; this entry does not infer the historical sequence of additions or unpublished expansion plans.
 - The overall crypto-asset strategy of the SBI Group is led by the group holding company ([[megabanks/sbi-hd|SBI HD]]) and [[exchanges/jp-exchange-sbi-vc-trade|SBI VCトレード]], and the company is positioned as a complementary one on the retail FX base. For the derivatives / spot-concurrent structure of JP VASPs, see [[exchanges/jp-vasp-derivative-license-system|JP VASP デリバティブライセンス制度]].
 
 ## 8. Related people
 
-- **Representative Director and President**: Yukio Fujita (as of 2026-05-18)
-- **Directors**: Marito Ueda, Hidehiro Nakamura, Yuichi Kato
-- **Outside director**: Joseph Kraft
+- **Representative Director and President**: Marito Ueda (official company profile reviewed 2026-07-29)
+- **Directors**: Hidehiro Nakamura, Kazuya Noguchi, Naoki Yoshioka
 - **Auditors**: Yoshio Nakata, Takeki Saito
 - **Founding background**: nothing published (the SBI Group established it as an FX-specialist subsidiary)
 
@@ -122,7 +121,7 @@ Within the SBI Group, spot trading is consolidated at SBI VC Trade, while SBI FX
 
 ## Sources
 
-- [SBI FXトレード company overview](https://corp.sbifxt.co.jp/company/) (obtained 2026-05-18)
+- [SBI FXトレード company overview](https://corp.sbifxt.co.jp/company/) (obtained 2026-07-29)
 - [SBI FXトレード corporate site](https://corp.sbifxt.co.jp/) (obtained 2026-05-18)
 - [SBI Bitcoin FX features page](https://www.sbifxt.co.jp/advantage/cfd_index.html) (obtained 2026-05-18)
 - [SBI Bitcoin FX handled crypto assets](https://www.sbifxt.co.jp/advantage/cfd_coin.html) (obtained 2026-05-18)

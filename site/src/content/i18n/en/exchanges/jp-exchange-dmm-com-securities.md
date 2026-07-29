@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-exchange-dmm-com-securities
-source_hash: 34cf925a21d24d24
+source_hash: 4adb90420fd8091d
 lang: en
 status: machine
 fidelity: ok
 title: "株式会社DMM.com証券 (DMM.com Securities) — Japan financial-instruments business operator (crypto-asset derivatives) overview"
-translated_at: 2026-07-28T18:19:40Z
+translated_at: 2026-07-29T12:08:22.000Z
 ---
 
 # 株式会社DMM.com証券 (DMM.com Securities) — Japan financial-instruments business operator (crypto-asset derivatives) overview
@@ -26,7 +26,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - **Capital**: 98億円 (capital reserve 73億9千万 yen)
 - **Representative Director**: Ryuji Tanigawa
 - **Parent company**: DMM.com LLC (合同会社 DMM.com) (DMM.com Group) — unlisted
-- **Corporate number**: not disclosed (not posted on the official site)
+- **Corporate number**: not shown on the official company profile reviewed on 2026-07-29
 
 ## 2. License / registration status
 
@@ -34,24 +34,26 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - **Type-II Financial Instruments Business**: included in the same 第1629号 (2017年6月27日 registration)
 - **Commodity Futures Business**: included in the same 第1629号 (2011年1月1日 registration)
 - **JVCEA Type-I member #1043**: crypto-asset derivatives business only (no spot / crypto-asset exchange registration)
-- Electronic-payment-instruments business / funds-transfer business: not registered (not disclosed)
+- Electronic-payment-instruments business / funds-transfer business: no registration indication on the official company profile or JVCEA list reviewed on 2026-07-29
 - **Associations joined**:
   - Japan Securities Dealers Association (member number 1105)
   - Financial Futures Association of Japan (member number 1145)
   - Japan Commodity Futures Association
   - Type II Financial Instruments Firms Association (member number 480)
   - Japan Virtual and Crypto assets Exchange Association (JVCEA member number 1043)
-- **Capital-adequacy ratio**: 419.6% (as of 令和8年3月 = 2026-03)
+- **Capital-adequacy ratio**: 421.6% (as of March 2026)
 
 ## 3. Handled currencies (crypto assets)
 
 - **No crypto-asset spot trading**. The JVCEA registration is for "crypto-asset derivatives business" only.
-- The 22 instruments handled in the official CFD service (DMM CFD) consist of **8 stock-index instruments + 14 commodity-CFD instruments**. As of 2026-05-18, no listing of crypto-asset CFD instruments can be confirmed on the official site.
-- The company-outline page explicitly states "crypto-asset-related OTC derivatives trading" in its business description, consistent with the JVCEA registration. The actual provision status of crypto-asset CFDs is judged to be "registered · non-public service (or suspended)" (not disclosed).
+- The DMM CFD instrument page reviewed on 2026-07-29 lists **8 stock-index instruments + 14 commodity-CFD instruments**, but no crypto-asset CFD instruments.
+- The company profile identifies OTC derivatives as a business, while the JVCEA list identifies the company under crypto-asset-related derivatives. These establish its registration and business classification, but do not by themselves confirm current customer-facing provision of crypto-asset CFDs.
 
 ## 4. Scope of business
 
 The company's mainstay business comprises the following 4 pillars:
+
+The table below is based on the DMM.com Securities company profile, DMM CFD instrument page, and official DMM Banusy service display reviewed on 2026-07-29. Instrument counts are a snapshot of those pages, not permanent totals.^[Sources: https://securities.dmm.com/company/; https://fx.dmm.com/cfd/service/lineup/; https://banusy.dmm.com/.]
 
 | Service | Detail |
 |---------|------|
@@ -61,18 +63,20 @@ The company's mainstay business comprises the following 4 pillars:
 | DMM Banusy | Racehorse fund (commodity-investment-related business) |
 
 - Crypto-asset spot: **none** (handled by the separate legal entity DMM Bitcoin, but wound down in 2025-03 )
-- Leveraged trading (crypto assets): JVCEA-registered, but crypto-asset CFD instruments are not posted on the official service page (as of 2026-05-18)
+- Leveraged trading (crypto assets): listed by JVCEA, but crypto-asset instruments were not shown on the official CFD instrument page reviewed on 2026-07-29
 - Fiat-currency deposit channels: bank transfer / quick deposit (supporting approximately 340 financial institutions nationwide)
-- Staking / lending / NFTs: not supported
-- Corporate services: no public information
+- Staking / lending / NFTs: no offering was shown on the above official service pages reviewed on 2026-07-29
+- Corporate services: no specific offering was identified on the above official service pages reviewed on 2026-07-29
 
 ## 5. Market share / trading volume
 
-- Number of accounts / monthly trading volume: not disclosed (disclosure materials not public)
-- Capital-adequacy ratio 419.6% (as of 2026-03) — financial soundness maintained at a high level
-- Position within the peer group: in the FX / CFD field, a major player alongside GMO Click Securities and Gaitame.com. As a crypto-asset derivatives business operator, among the 33 社 JVCEA Type-I members, it belongs to the business category of no-spot / derivatives-specialist operators (1社 of 13社). The actual handling volume of crypto-asset CFDs is not disclosed.
+- Among the company and JVCEA materials identified in this review as of 2026-07-29, no account-count or monthly-volume disclosure for crypto-asset CFDs was identified. This does not establish that no such disclosure exists
+- The capital-adequacy ratio of 421.6% as of March 2026 is a point-in-time figure from the official company profile; it does not establish market rank or the scale of crypto-asset CFD provision
+- The JVCEA list identifies the company under crypto-asset-related derivatives. Do not freeze changing membership totals or assert a market rank without values using the same period and definition
 
 ## 6. History / major incidents
+
+The table below is limited to registration, separate-entity relationships, and point-in-time financial facts confirmed through DMM.com Securities' official profile and financial display, the JVCEA list, the National Police Agency notice on the DMM Bitcoin theft, and SBI VC Trade's transfer notice. Rows about DMM Bitcoin do not describe an incident at DMM.com Securities.^[Sources: https://securities.dmm.com/company/; https://jvcea.or.jp/member/; https://www.npa.go.jp/bureau/cyber/koho/caution/caution20241224.html; https://www.sbivc.co.jp/newsview/1zkj8mf5x3y.]
 
 | Date | Event |
 |------|------|
@@ -84,7 +88,7 @@ The company's mainstay business comprises the following 4 pillars:
 | 2024-05-31 | **An illicit outflow of crypto assets worth approximately 482億円 occurred at the related group company DMM Bitcoin (a separate legal entity)** ^[NPA DMM Bitcoin theft notice; SBI VC Trade transfer notice; FSA/JVCEA entity-separation sources] |
 | 2024-12-02 | DMM Bitcoin announced wind-down · announced transfer to SBI VC Trade. The DMM Group's crypto-asset spot exchange business disappeared |
 | 2025-03-08 | DMM Bitcoin services fully terminated. As DMM.com Securities is a separate legal entity from DMM Bitcoin, any direct business impact is not disclosed (no official statement) |
-| 2026-03 | Disclosed capital-adequacy ratio 419.6% (financially sound) |
+| 2026-03 | Disclosed a capital-adequacy ratio of 421.6% |
 
 **Relationship to the wind-down of DMM Bitcoin (a separate legal entity)**:
 
@@ -92,15 +96,15 @@ DMM.com Securities' official company profile lists it as a Type I and Type II Fi
 
 ## 7. Strategic developments
 
-- Recent public announcements have mainly concerned feature enhancements to FX / CFD / equity trading. No announcement of new services in the crypto-asset field can be confirmed (as of 2026-05-18).
-- DMM CFD has expanded from 14 instruments before 2024年 to 22 instruments (adding 8 commodity-CFD instruments). No plan to add crypto-asset CFDs is stated on the official site.
-- DMM Banusy (racehorse fund) continues as a distinctive service with no parallel at other firms.
+- The official company and service pages reviewed on 2026-07-29 list FX, CFDs, equities, and the racehorse fund, while no crypto-asset CFD instruments appear in the current lineup.
+- The same snapshot lists eight stock-index and 14 commodity-CFD instruments. Among the official materials identified in this review, no future crypto-asset CFD addition was identified, but this does not establish that no such plan exists.
+- DMM Banusy remains listed as a business that differentiates the company's product mix.
 
 ## 8. Related figures
 
-- **Ryuji Tanigawa**: Representative Director (as of 2026-05-18) — detailed background not disclosed
+- **Ryuji Tanigawa**: Representative Director (official company profile reviewed 2026-07-29)
 - **Parent company**: DMM.com LLC (DMM Group holding company)
-- Detailed official information on the founding / establishment background is not public
+- Do not extend the founding history beyond what is stated in the official company profile reviewed on 2026-07-29
 
 ## Related
 
