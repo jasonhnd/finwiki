@@ -11,98 +11,93 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/business/brian-armstrong-coinbase-public-company-template.md",
   "raw_markdown_url": "https://finwiki.zksc.io/business/brian-armstrong-coinbase-public-company-template.md",
   "domain": "business",
-  "title": "Brian Armstrong / Coinbase listed-exchange operating template · direct-listing IPO + regulatory-engagement strategy",
+  "title": "Brian Armstrong / Coinbase public-company operating case",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Brian Armstrong / Coinbase listed-exchange operating template · direct-listing IPO + regulatory-engagement strategy",
+    "title": "Brian Armstrong / Coinbase public-company operating case — 2021 direct listing and regulatory perimeter",
     "aliases": [
       "brian-armstrong-coinbase-public-company-template",
       "Brian Armstrong Coinbase template",
       "Coinbase direct listing 2021",
-      "Coinbase SEC engagement",
-      "crypto-native public exchange template",
-      "Coinbase Wells notice case",
-      "Armstrong founder-CEO conviction template",
-      "Coinbase IPO direct listing template"
+      "Coinbase public company case"
     ],
     "domain": "business",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
-    "confidence": "likely",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
+    "confidence": "high",
     "tags": [
       "business",
-      "people",
+      "case-study",
       "brian-armstrong",
       "coinbase",
       "direct-listing",
-      "sec-engagement",
-      "crypto-public-company"
+      "regulation",
+      "public-company"
     ],
     "status": "active",
     "canonical_anchor": null,
     "related": [],
     "note": null,
     "sources": [
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001679788",
-      "https://investor.coinbase.com/",
-      "https://www.coinbase.com/blog",
-      "https://www.sec.gov/litigation/litreleases.htm",
-      "https://www.federalregister.gov/agencies/commodity-futures-trading-commission"
+      "https://www.sec.gov/Archives/edgar/data/1679788/000162828021006850/coinbaseglobalinc424b.htm",
+      "https://www.sec.gov/Archives/edgar/data/1679788/000167978826000047/coinbase2025ars.pdf",
+      "https://www.sec.gov/newsroom/press-releases/2025-47",
+      "https://help.coinbase.com/en/coinbase/other-topics/other/mica-cblu",
+      "https://www.coinbase.com/blog/coinbase-strengthens-commitment-to-innovation-and-oversight-with-national-trust-charter-application"
     ]
   },
-  "summary": "This entry sits under business INDEX. Read it with Jamie Dimon anti-crypto pivot case as the bank-side contrast template and Larry Fink BlackRock digital-asset template as the asset-manager-side parallel. Cross-reference exchanges INDEX for the broader exchange-architecture context and CFTC / SEC cr",
+  "summary": "This page records a bounded public-company case: Coinbase Global's 2021 direct listing, the SEC civil action and dismissal, and the regulated-entity perimeter disclosed by Coinbase through 2025. It does not score political influence, infer the merits of dismissed claims, or treat a pending charter a",
   "headings": [
-    "Brian Armstrong / Coinbase listed-exchange operating template · direct-listing IPO + regulatory-engagement strategy",
-    "Wiki route",
-    "Key facts (public sources only)",
-    "Part 1 · Public-company structure from day one of listing",
-    "Part 2 · Regulatory engagement as strategy, not defence",
-    "Part 3 · Product scope as a regulatory perimeter problem",
-    "Part 4 · Listed-exchange financial structure",
-    "Listed-exchange operating mechanics",
-    "Founder-CEO conviction layer",
-    "Strategic reading"
+    "Brian Armstrong / Coinbase public-company operating case",
+    "Scope",
+    "Verified timeline",
+    "Direct-listing mechanics",
+    "Enforcement record and reading discipline",
+    "Operating and regulatory perimeter",
+    "Revenue model visible through filings",
+    "What the case supports",
+    "What the case does not establish",
+    "Reusable review checklist"
   ],
   "body_links": {
-    "wikilinks_count": 12,
+    "wikilinks_count": 8,
     "wikilinks": [
       "INDEX",
       "business/INDEX",
-      "business/hester-peirce-sec-regulatory-pivot-case",
-      "business/jamie-dimon-anti-crypto-pivot-case",
+      "business/cz-binance-founder-handoff-case",
+      "business/founder-pivot-outcome-template-matrix",
       "business/larry-fink-blackrock-digital-asset-template",
-      "business/matt-huang-triple-role-coi-template",
-      "business/paolo-ardoino-tether-business-model-template",
-      "business/sandeep-nailwal-polygon-india-dpi-pattern",
       "exchanges/INDEX",
-      "exchanges/jp-listed-cex-related-companies-matrix",
       "exchanges/us-crypto-licensing-multi-layer-system",
       "fintech/cftc-sec-crypto-jurisdiction"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX.md",
       "https://finwiki.zksc.io/ja/domains/business/",
-      "https://finwiki.zksc.io/ja/business/hester-peirce-sec-regulatory-pivot-case/",
-      "https://finwiki.zksc.io/ja/business/jamie-dimon-anti-crypto-pivot-case/",
+      "https://finwiki.zksc.io/ja/business/cz-binance-founder-handoff-case/",
+      "https://finwiki.zksc.io/ja/business/founder-pivot-outcome-template-matrix/",
       "https://finwiki.zksc.io/ja/business/larry-fink-blackrock-digital-asset-template/",
-      "https://finwiki.zksc.io/ja/business/matt-huang-triple-role-coi-template/",
-      "https://finwiki.zksc.io/ja/business/paolo-ardoino-tether-business-model-template/",
-      "https://finwiki.zksc.io/ja/business/sandeep-nailwal-polygon-india-dpi-pattern/",
       "https://finwiki.zksc.io/ja/domains/exchanges/",
-      "https://finwiki.zksc.io/ja/exchanges/jp-listed-cex-related-companies-matrix/",
       "https://finwiki.zksc.io/ja/exchanges/us-crypto-licensing-multi-layer-system/",
       "https://finwiki.zksc.io/ja/fintech/cftc-sec-crypto-jurisdiction/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 6,
+    "external_links": [
+      "https://help.coinbase.com/en/coinbase/other-topics/other/mica-cblu",
+      "https://www.coinbase.com/blog/coinbase-strengthens-commitment-to-innovation-and-oversight-with-national-trust-charter-application",
+      "https://www.sec.gov/Archives/edgar/data/1679788/000162828021006850/coinbaseglobalinc424b.htm",
+      "https://www.sec.gov/Archives/edgar/data/1679788/000167978826000047/coinbase2025ars.pdf",
+      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001679788",
+      "https://www.sec.gov/newsroom/press-releases/2025-47"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 16132,
-    "word_like_tokens": 2557,
-    "inbound_wikilinks_count": 8,
+    "nonspace_chars": 10148,
+    "word_like_tokens": 1587,
+    "inbound_wikilinks_count": 6,
     "last_modified": "2026-05-29"
   }
 }

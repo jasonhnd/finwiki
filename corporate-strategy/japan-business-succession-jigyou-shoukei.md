@@ -11,9 +11,9 @@ aliases:
   - "特例承継計画"
 domain: "corporate-strategy"
 created: 2026-06-03
-last_updated: 2026-06-03
-last_tended: 2026-06-03
-review_by: 2026-12-03
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
 confidence: likely
 tags: [corporate-strategy, business-succession, tax, japan, sme, inheritance-tax, gift-tax]
 status: active
@@ -58,6 +58,8 @@ Each has a **一般措置 (general measure)** and a more generous **特例措置
 | 親族外（役員・従業員）承継 | Manager / employee | Often [[finance/japan-mbo-and-squeeze-out-process|MBO]] (successor buys shares, often with acquisition finance) | Successor's funding + tax |
 | M&A | Third-party acquirer | Share sale / 事業譲渡 / 会社分割 | Valuation, capital-gains tax to seller |
 
+Sources: this route classification follows the SME Agency's current business-succession support map; the table is a navigation summary, not a statement that every internal succession uses an MBO or every third-party succession uses the same legal form. ^[Sources: https://www.chusho.meti.go.jp/zaimu/shoukei/business_succession_support_measures.html; https://www.chusho.meti.go.jp/pamflet/hakusyo/2025/chusho/b1_1_9.html.]
+
 When an internal successor exists, the binding constraint is usually **tax on the share transfer**, which is exactly what the 事業承継税制 targets. When none exists, the company typically routes to **M&A** — using the divestiture mechanisms mapped in [[corporate-strategy/spinoff-decision-tree-japan|the spinoff decision tree]] or an outright sale, with acquirer funding drawn from [[finance/japan-acquisition-finance|Japan acquisition finance]].
 
 ## 2. 法人版事業承継税制 (Corporate Version)
@@ -68,11 +70,13 @@ The corporate version lets a **successor who acquires non-listed company shares 
 
 | Feature | 一般措置 (general) | 特例措置 (special) |
 |---|---|---|
-| Deferral ratio (shares) | Capped (historically ~2/3 of shares, 80% of inheritance tax on those) | **100% of the tax on qualifying shares deferred** |
-| Eligible shares | Limited | Effectively all shares |
-| Predecessors / successors | One-to-one | **Multiple predecessors → up to 3 representative successors** |
-| Employment requirement | Strict 80%-retention test | 80% retention **relaxed** — deferral can continue if shortfall is justified with a reason report |
+| Deferral ratio | Gift tax: 100%; inheritance tax: 80% | Gift and inheritance tax: **100%** |
+| Eligible shares | Up to two-thirds of total shares | No share-count ceiling for qualifying shares |
+| Predecessors / successors | Multiple shareholders → one successor | Multiple shareholders → up to three representative successors |
+| Employment requirement | Five-year average 80% employment-maintenance requirement | A shortfall does not automatically terminate deferral; the prescribed report / support process applies |
 | Advance plan required | No | **Yes — 特例承継計画 must be filed** |
+
+Sources: the comparison is from the NTA's current business-succession-tax overview and the SME Agency's official comparison of the general and special measures. It states the high-level limits only; certification, filing, continued-holding, management, and exemption conditions remain transaction-specific. ^[Sources: https://www.nta.go.jp/publication/pamph/jigyo-shokei/index.htm; https://www.chusho.meti.go.jp/zaimu/shoukei/shoukei_enkatsu_zouyo_souzoku.html; https://www.chusho.meti.go.jp/zaimu/zeisei/pamphlet/shoukei_zeisei_jirei.pdf.]
 
 The **特例措置** is the headline regime: it can defer **100%** of the gift / inheritance tax on qualifying shares, removing the "tax on illiquid stock" trap almost entirely — provided the company keeps operating and the successor keeps the shares and management role.
 

@@ -1,272 +1,155 @@
 ---
 source: retail/japan-retail-financial-distribution-wedge-matrix
-source_hash: 51df7472a35d1ee4
+source_hash: e5bf2863e5c381a7
 lang: ja
+model: qwen3-4b-instruct-2507-4bit-guarded-full-sync+manual-review
 status: machine
 fidelity: ok
-title: "日本の小売金融流通ウェッジ・マトリクス"
-translated_at: 2026-07-28T20:55:25Z
+title: "日本の流通系金融比較マトリクス"
+translated_at: 2026-07-29T05:13:34.783Z
 ---
 
-# 日本の小売金融流通ウェッジ・マトリクス
+# 日本の流通系金融比較マトリクス
 
-## TL;DR
+## 目的
 
-日本の三大小売アンカー型金融スタック — **イオン**（モール・アンカー型）、**セブン&アイ**（コンビニ + ATM アンカー型）、**ローソン + KDDI**（2024 の KDDI / 三菱による共同非公開化後のコンビニ + 通信ハイブリッド型）— は、消費者側から見ると表面的には似ている（店舗、カード、ポイント、アプリ、銀行ないし銀行隣接型プロダクト）。それらは、**どの小売ウェッジを突くか、どのライセンス層を保有するか、どのポイント通貨を所有するか、どの銀行免許を帯びるか、そして顧客 ID グラフをどう収益化するか**において構造的に異なる。このマトリクスは、ブランドの問いの前にウェッジの問いに答えられるよう、それらの軸を並べて集めている。[[retail/aeon-group|AEON Group]]、[[retail/seven-and-i-hd|Seven & i Holdings]]、[[retail/lawson-kddi-retail-finance|Lawson + KDDI retail finance]] 間の横断的な比較サーフェスとして [[retail/INDEX|retail INDEX]] の内側に位置する。
+本ページでは、現在の公開情報に基づき、4つの日本国内の小売関連金融構造を比較している。
 
-## ウィキ上の位置づけ
+- イオン
+- セブン&アイ / セブン銀行
+- ファミリーマート / 伊藤忠
+- ローソン / KDDI / 三菱商事
 
-マトリクス型の読みサーフェスとして [[retail/INDEX|retail INDEX]] の内側に位置する。3 つのエンティティ別ページは [[retail/aeon-group|AEON Group]]、[[retail/seven-and-i-hd|Seven & i Holdings]]、[[retail/lawson-kddi-retail-finance|Lawson + KDDI retail finance]] である。ロイヤルティ / ポイントの文脈は [[loyalty/INDEX|loyalty INDEX]] にあり、より広い状況は [[loyalty/japan-points-landscape|Japan points landscape]] にあり、加えて [[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) case]]、[[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|d Point / au / KDDI / docomo telco-point consolidation]]、[[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] の個別ディープダイブがある。銀行免許側は [[banking/japan-net-bank-competition-map|Japan net bank competition map]] と [[banking/japan-baas-operating-models|Japan BaaS operating models]] にあり、加えて [[banking/quick-deposit-four-methods|quick-deposit four methods]] のファンディング・レールの文脈がある。決済レールの文脈は [[payments/INDEX|payments INDEX]] にあり、[[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]]、[[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|Japan transit 前払式 Suica / PASMO / ICOCA economics]]、[[payments/waon-nanaco-retail-prepaid-comparison|WAON vs nanaco retail 前払式 comparison]]、[[payments/famipay-valucreate-strategy|FamiPay / Valucreate strategy]] への個別ルートがある。エンティティ別の金融ページ：[[card-issuers/aeon-bank|Aeon Bank]]、[[card-issuers/aeon-financial-service|Aeon Financial Service]]、[[regional-banks/seven-bank|Seven Bank]]、[[card-issuers/seven-card-service|Seven Card Service]]、[[payment-firms/seven-payment-service|Seven Payment Service]]、[[regional-banks/lawson-bank|Lawson Bank]]、[[megabanks/au-fh|au Financial Holdings]]、[[payment-firms/au-payment|au Payment]]、[[payment-firms/recruit-mufg-business|Recruit / MUFG business]]。
+比較対象は事業体の境界と流通チャネルであり、規模、収益性、顧客価値、戦略の質の順位ではない。変動する件数や仮想シナリオは除外した。
 
-## なぜこのマトリクスが重要か
+[[retail/INDEX|retail INDEX]]からたどる。詳細は[[retail/aeon-group|AEON]]、[[retail/seven-i-holdings-finance-deep-dive|Seven & i / Seven Bank]]、[[retail/familymart-itochu-financial-integration|FamilyMart / ITOCHU]]、[[retail/lawson-kddi-retail-finance|Lawson / KDDI]]を参照する。
 
-「小売グループが銀行を運営する」という枠組みは粗すぎる。3 つの観察が、ウェッジの問いを独自のマトリクスに値するものにする。
+## 現在の所有権および支配
 
-1. **ウェッジが異なる。** イオンのウェッジは、複数時間の滞留時間を伴う**モールとスーパーマーケットの商圏**である。セブン&アイのウェッジは、**コンビニの来店頻度に加えて自社所有の ATM 密度**である。ローソンのウェッジは、KDDI と三菱商事による 2024 共同非公開化の後では、**コンビニ密度に加えて、所有するのではなくホストする通信経済圏**（au PAY、au PAY カード、au じぶん銀行）である。
-2. **ライセンス層が異なる。** イオンは [[card-issuers/aeon-bank|Aeon Bank]] のもとで住宅ローンと投資信託販売を伴う完全な普通銀行免許を帯びる。セブンは [[regional-banks/seven-bank|Seven Bank]] のもとで B2B の現金・認証プロダクトを伴う ATM 特化型の普通銀行免許を帯びる。ローソンは [[regional-banks/lawson-bank|Lawson Bank]] のもとではるかに小さな ATM 専用の普通銀行免許を帯び、加えて JV 親会社を通じた [[megabanks/au-fh|au FH]] への間接エクスポージャーを帯びる。
-3. **ポイント通貨が異なる。** イオンの WAON POINT は**クローズドなグループ内通貨**である。セブンの nanaco ポイントは**クローズドなグループ内通貨**である。ローソンのロイヤルティは、ロイヤルティマーケティング（CCC カーブアウト後の三菱商事グループ）が支配する**マルチブランドの Pontaポイント・アライアンス**であり — JAL、KDDI、ガソリンスタンド、多くの非ローソン・チェーンを含む、根本的に異なるネットワーク効果の形をしている。
+この表の情報源：[AEON Financial Service overview](https://www.aeonfinancial.co.jp/en/corp/about/)、[Seven Bank's 2026 shareholder list](https://www.sevenbank.co.jp/english/ir/stock/stock_info.html)、[ITOCHU's FamilyMart tie-up release](https://www.itochu.co.jp/en/news/press/2021/210316_2.html)、[KDDI's final Lawson ownership notice](https://news.kddi.com/kddi/corporate/english/ir-news/2024/08/20/pdf/press_20240820.pdf)。
 
-これら 3 つの違いは、クロスセルのための実質的に異なる CAC、実質的に異なる決済データの収益化、そして銀行、BaaS、プリペイド、銀行代理業の登録間の実質的に異なる規制境界へとカスケードする。
+| 小売グループ構成 | 現在の構造上の中核 | 公表資料で確認できる所有関係の境界 |
+|---|---|---|
+| イオン | イオングループに、上場会社のイオンフィナンシャルサービスとイオン銀行がある | イオンフィナンシャルサービスがグループの金融サービス事業を担うが、商品提供主体と許認可はそれぞれ別である |
+| セブン&アイ / セブン銀行 | セブン銀行と金融子会社が、持分法の関係を通じてセブン&アイとつながる | セブン銀行はセブン&アイの連結子会社ではなくなった。2026-03-31の株主スナップショットでは、セブン‐イレブン・ジャパンが33.38%、伊藤忠が20.41%を保有 |
+| ファミリーマート / 伊藤忠 | 伊藤忠の構造を通じて支配される非公開会社のファミリーマートに、JAグループの公表済み少数持分がある | ファミリーマートの傘下銀行は確認できない。決済、カード、ATMの各提携先を別々に特定する必要がある |
+| ローソン / KDDI / 三菱商事 | 2024年の非公開化後、非公開会社のローソンを共同運営 | KDDIと三菱商事がローソン議決権を各50%保有 |
 
-## エンティティ別セクション
+セブン銀行の行は基準日に注意が必要である。46.44%や39.92%といった過去の数値ではなく、現在の株主一覧を使う必要がある。
 
-### イオングループ — モール・アンカー型のフルスタック小売金融
+## 物理的な流通と銀行レイヤー
 
-- **アンカー・ウェッジ**：総合スーパー、スーパーマーケット、ショッピングモール。**複数時間の滞留時間**は、カウンター主導の販売（カード申込、保険リード、住宅ローン相談）を経済的にする — コンビニのスループット経済性とは根本的に異なる。
-- **銀行免許**：[[card-issuers/aeon-bank|Aeon Bank]] は 2006-05-15 に設立され、2007-10 に銀行免許を取得して営業を開始した。[[card-issuers/aeon-financial-service|イオンフィナンシャルサービス]]連結グループ内の AFS コーポレーションの 100% 子会社で、預金、住宅ローン、投資信託販売、保険販売を扱うフルサービスのリテール銀行である。^[イオン銀行「会社概要」: https://www.aeonbank.co.jp/company/about/outline/; イオン銀行「沿革」: https://www.aeonbank.co.jp/company/about/history/; イオンフィナンシャルサービス「組織再編に関するお知らせ」(2024-10-28): https://www.aeonfinancial.co.jp/-/media/AeonGroup/Aeonfinancial/Files/news/2024/news241028.pdf]
-- **カード発行アーム**：[[card-issuers/aeon-financial-service|Aeon Financial Service]] のもとでの AEON Card（AFS、TSE プライム 8570）— 流通カード枚数で国内最大級のクレジットカード発行体。カード + WAON のデュアルレール発行、Visa / Mastercard / JCB のブランド・バリアント。
-- **プリペイド電子マネー**：**WAON**（資金決済法のプリペイド支払手段登録のもとでの FeliCa ベースの蓄積価値型電子マネー）。クローズド・スキーム；加盟店フットプリントはイオン店舗で最も深い；多くの交通隣接型およびコンビニ加盟店で受け入れられる。
-- **ポイント通貨**：**WAON POINT** — クローズドなグループ内リワード。他の共通ポイント・スキームへのクロスプログラム変換は限定的；ロイヤルティの価値はネットワーク効果ではなくグループ内の粘着性である。
-- **アプリ層**：**iAEON** + **AEON Pay**（WAON、AEON Card、クーポン、顧客 ID と統合された QR / コード決済アプリ）。PayPay / d払い / au PAY / 楽天ペイ の背後にあるサブスケールのウォレットとして [[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]] の内側に位置するが、**自社店舗のキャンペーン制御**を有する。
-- **顧客 ID グラフ**：iAEON 登録 + AEON Card + WAON 会員 + AEON Bank 口座によってアンカーされたイオン顧客 ID。グループ内マーケティングのためのクロスリファレンス；アジアの消費者金融子会社（タイ、マレーシア、香港など）が ID グラフを国境を越えて拡張する。
-- **ATM ネットワーク**：イオン施設および駅にわたる ~6,500 の ATM — 大きいが、支配的なコンビニ ATM ネットワークではない。戦略的ポジションは**モール回廊の預金・残高照会インフラ**である。
-- **銀行プロダクトの CAC**：**店内クロスセルでは低い**（モールのカウンターでの住宅ローン相談；金融支店での投資信託の売り込み）。AEON Bank がアプリ UX とレートで [[banking/japan-net-bank-competition-map|net banks]] と競合する**純オンライン預金では高い**。
-- **決済データの収益化**：イオンは、食料品バスケットが支配的な SKU カテゴリーであるため、3 社のうち**最も豊富な店内 SKU レベルのバスケット・データ**を有する。これは米国の「ファーストパーティ小売メディア」モデルへの最も強いアナロジーである。データのプロダクト化ルートは、イオンの小売メディアおよびカテゴリー・マネジメント機能を通る。
-- **規制境界**：直接の銀行免許 + プリペイド手段発行体登録 + 保険募集 / 代理免許 + アジアの消費者金融子会社を帯びる。プライマリーな BaaS スポンサーのアイデンティティはない — イオンは自社のライセンスを卸売りするのではなく消費する。銀行代理業のレーンは、店内販売のために AFS / Aeon Bank の内側に保持される。
+この表の情報源：[AEON Financial Service domestic operations](https://www.aeonfinancial.co.jp/en/corp/enterprise/)、[Seven Bank's operating overview](https://www.sevenbank.co.jp/english/corp/company/business.html)、[FamilyMart's Famima ATM launch](https://www.family.co.jp/company/news_releases/2026/20260601_01.html)、[Lawson Bank](https://www.lawsonbank.jp/)。
 
-### セブン&アイ・ホールディングス — コンビニ・アンカー型の ATM プラットフォーム
-
-- **アンカー・ウェッジ**：7-イレブンのコンビニ密度 — **店舗数で日本最大の CVS ネットワーク**（公表ベースで国内約 21,000+ 店舗；国内の 7-Eleven Japan 営業セグメントがフランチャイズの中核）。高頻度・短滞留時間の来店が、カウンター主導のプロダクト販売ではなく ATM、プリペイド、収納代行行動を駆動する。
-- **銀行免許**：[[regional-banks/seven-bank|Seven Bank]]（TSE プライム 8410,、アイワ銀行として 2001-04-10設立、2001-05-21開業、2005-10改称）。**ATM 特化型の普通銀行**。7-イレブンおよびその他のパートナー拠点内に設置された約 **27,000+ の自社所有 ATM**、ATM 利用手数料を支払う ~600 のパートナー金融機関を伴う。主たる収益は純利鞘ではなく**パートナー銀行が支払う ATM 稼働手数料**である。
-- **カード発行アーム**：[[card-issuers/seven-card-service|Seven Card Service]] — Seven Card（Visa / JCB ブランド）および nanaco リンクのカード層。AEON Card より発行枚数は小さいが、nanaco チャージおよび 7-イレブンの小売特典と緊密に統合されている。
-- **プリペイド電子マネー**：**nanaco**（FeliCa ベースの蓄積価値型電子マネー）。クローズド・スキーム；加盟店フットプリントはセブン&アイ・グループ店舗内で最も深い；上限とリフィルのメカニクスは資金決済法のプリペイド手段発行体登録によって統治される。[[payments/waon-nanaco-retail-prepaid-comparison|WAON vs nanaco retail 前払式 comparison]] で WAON と並ぶ。
-- **ポイント通貨**：**nanaco ポイント** — クローズドなグループ内リワード。共通ポイント・アライアンスのメンバーシップなし；クロスプログラム変換は限定的。ネットワーク効果ではなくグループ内の粘着性。
-- **アプリ層**：**7iD**（セブン&アイの統一顧客 ID プログラム）+ nanaco アプリ + 7NOW アプリ・サーフェス。セブンの QR 決済の取り組み（最も顕著には 7pay、2019に終了）は、歴史的に AEON Pay や PayPay より弱かった — セブンの戦略的サーフェスは、新たなウォレットではなく nanaco + ATM + 7iD へと退いている。
-- **顧客 ID グラフ**：**7iD** が統一 ID であり、nanaco、Seven Card、オムニ 7 EC、7NOW、Seven Bank 口座のリンケージをアンカーする。7iD のリーチは来店回数で日本の小売における最も高頻度の ID タッチである（7-イレブンの集客頻度のため）が、AEON のバスケットより来店ごとの SKU の幅は狭い。
-- **ATM ネットワーク**：~27,000+ の ATM — **日本最大のコンビニ ATM ネットワーク**。戦略的ポジションは、より広い銀行システムのための**ラストマイルの現金アクセスおよび認証インフラ**である；パートナー銀行は事実上、支店 ATM フットプリントを Seven Bank にアウトソースしている。
-- **銀行プロダクトの CAC**：**ATM 手数料収益では非常に低い**（7-イレブンの ATM を使う各パートナー銀行のカード保有者は、セブン側の獲得コストゼロの課金可能なイベントである）。銀行が大半のケースで消費者のメインバンクではないため、**プロプライエタリな Seven Bank 預金口座では高い** — Seven Bank は預金残高をメガバンクやネット銀行と争う。POS カウンターでの nanaco 発行では低い。
-- **決済データの収益化**：セブンのデータは**高頻度、低バスケットサイズ、低 SKU 幅**である — 日々の必需品の価格設定と欠品検知の強いシグナルだが、カテゴリー横断のバスケット親和性のシグナルは弱い。小売メディアの潜在性は本物だが、来店ごとのデータの形が深さを制限する。
-- **規制境界**：直接の銀行免許 + プリペイド手段発行体登録 + 電子決済代行隣接の登録を帯びる。B2B 層（[[payment-firms/seven-payment-service|Seven Payment Service]] および Seven Bank の法人支払・ATM レシート・プロダクト）は、消費者向けの小売金融よりも**資金移動および銀行サービス・ユーティリティ**の境界に近い。イオン / メガバンクの意味での BaaS スポンサーではない。
-
-### ローソン + KDDI — コンビニ + 通信ハイブリッド（2024後）
-
-- **アンカー・ウェッジ**：ローソンのコンビニ密度（**7-イレブンとファミリーマートに次ぐ店舗数で第 3 位の CVS チェーン**；公表ベースで国内約 14,000+ 店舗）。KDDI と三菱商事による 2024-02 共同非公開化（1 株 ¥10,360、KDDI + 三菱商事 50/50,、2024年央に完了）の後、ウェッジは **CVS 密度 × KDDI の au 加入者ベース × Pontaポイント・アライアンス**になる。追加された戦略資産は新たな銀行免許ではない — それはローソン POS および Pontaポイント・ネットワークを通じてルーティングされる au PAY 経済圏である。
-- **銀行免許**：[[regional-banks/lawson-bank|ローソン銀行]]の準備会社は 2016-11 に設立され、2018-08-10 に普通銀行免許を取得し、2018-10-15 に銀行業務を開始した。免許取得時の株主構成はローソン 95%、三菱 UFJ 銀行 5%で、ローソンの現行グループ情報は全国 13,500 台超の ATM を記載している。2024 年以降のローソン親会社構造を通じ、KDDI 側の **au じぶん銀行** への間接的な接点もある。[[megabanks/au-fh|au Financial Holdings]] を参照。^[金融庁「株式会社ローソン銀行に対する銀行業の免許」(2018-08-10): https://www.fsa.go.jp/news/30/ginkou/20180810-1/20180810.html; ローソン「沿革」: https://www.lawson.co.jp/company/corporate/data/history/detail/development.html; ローソン「グループ会社」: https://www.lawson.co.jp/company/gr/]
-- **カード発行アーム**：ローソンは AEON Card / Seven Card の規模でプライマリーなクレジットカード発行体を所有していない。**au PAY カード**（KDDI 側の au フィナンシャルホールディングスを通じて発行）が 2024後にローソン・チャネルを通じて押し出されるクレジットカードである。ローソン Ponta クレジットカードのバリアントは存在するが、カード発行の重心はローソンの内側ではなく KDDI 経済圏の内側にある。
-- **プリペイド電子マネー**：ローソンは WAON や nanaco に匹敵する**プロプライエタリな FeliCa ベースの蓄積価値型スキームを運営していない**。POS は交通系 IC（Suica / PASMO / ICOCA ファミリー）と主要なコード決済ウォレットを受け入れる。これは構造的な違いである — クローズドなプリペイドのロックインがない。
-- **ポイント通貨**：**Pontaポイント** — **マルチブランド・アライアンス**であり、ロイヤルティマーケティング株式会社（CCC 事業カーブアウト後の三菱商事グループ）が運営する。メンバーには JAL、KDDI、ガソリンスタンド（Shell / ENEOS）、ホットペッパー / レストラン、ローソン、多くの非ローソン加盟店が含まれる。ネットワーク効果は WAON POINT / nanaco ポイントとは根本的に異なる。
-- **アプリ層**：**ローソンアプリ + au PAY アプリ + Pontaポイント・アプリ**のトライアド。ローソン POS は au PAY（KDDI 側、[[payment-firms/au-payment|au Payment]] を参照）に加えて PayPay、d払い、楽天ペイ、JCB / Visa / Mastercard、交通系 IC、Pontaポイント を受け入れる。ローソン・サーフェスを単一のアプリ内ウォレットが支配することはない。
-- **顧客 ID グラフ**：**3 つの ID にわたって断片化**している — ローソン ID、au ID（KDDI）、Pontaポイント ID。2024以降の戦略的な問いは、これらが統合できるか、それとも連邦型のままかである。au + ローソンのクロス ID リンケージは進行中だが、iAEON / 7iD の規模の**単一の統一された小売金融 ID** はまだ存在しない。
-- **ATM ネットワーク**：~13,000 の Lawson Bank ATM。戦略的ポジションは **Seven Bank に対してサブスケール**だが、依然として意味のある店内の現金およびコード決済チャージのノードである。
-- **銀行プロダクトの CAC**：**混合。** au PAY カードと au じぶん銀行の獲得はローソン POS およびローソンアプリを通じて押し出せるが、顧客は通常ローソンではなく KDDI モバイル契約を通じて入ってくる — したがって CAC 構造は**小売アンカー型ではなく通信アンカー型**である。Lawson Bank 自身の預金口座の獲得は小規模である。
-- **決済データの収益化**：決済データは**3 者にわたって共有**される — ローソン POS データ、KDDI au 通信 / 決済データ、三菱商事の流通データ（Ponta）。単一の当事者が完全なグラフを支配することはない。これは構造的にイオンのファーストパーティ・データやセブンの 7iD アンカー型データより弱いが、通信 / モビリティ / レストラン / EC のパートナーが集約されたときには**カテゴリー横断でより強い**。
-- **規制境界**：Lawson Bank 免許 + ロイヤルティマーケティングのもとでの Pontaポイント・ロイヤルティ運営 + ローソン POS の受け入れを通じてルーティングされる KDDI 側のプリペイドおよび資金移動免許（au PAY）。50/50  の JV ガバナンスのため、**単一の法人が統合されたスタックを所有することはない** — KDDI も三菱も、相手の同意なしにローソン内のライセンスを一方的に連結できない。
-
-## 大比較マトリクス表以下のマトリクスは、ウェッジの軸を並べて畳み込む。数値は公表ベースの概算であり、開示サイクルとともに変動する — 最新の提出資料についてはエンティティ別ページを参照。
-
-| 軸 | AEON | Seven & i | Lawson + KDDI |
+| 構成 | 金融サービスの物理的な顧客接点 | 銀行 / インフラ提供者 | 正しい境界 |
 |---|---|---|---|
-| アンカー小売ウェッジ | モール + スーパーマーケット（長い滞留） | 7-イレブン CVS（高頻度） | ローソン CVS + KDDI au 通信ゾーン |
-| 国内店舗数 | イオングループ施設・スーパー・モール・ドラッグストア 約 6,500+ | 7-Eleven Japan 約 21,000+ 店舗 | ローソン 約 14,000+ 店舗 |
-| 概算の日次／月次フットフォール | 来店ごとの滞留時間が長い。グループ各業態合計で月次フットフォールは数億 | 店舗あたりの来店頻度が最も高い。7-イレブン・グループ合計で月次フットフォールは十数億 | 第 3 位の CVS フットフォール。月次フットフォールは数億の低〜中位 |
-| POS の主要決済レール | FeliCa（WAON）+ AEON Card + AEON Pay（QR）+ 交通系 IC + PayPay／d払い／au PAY／楽天ペイ の受け入れ | FeliCa（nanaco）+ Seven Card + 交通系 IC + PayPay／d払い／au PAY／楽天ペイ の受け入れ | プロプライエタリな FeliCa スキームなし。交通系 IC + au PAY + PayPay／d払い／楽天ペイ + Pontaポイント |
-| 自社の前払式電子マネー | **WAON**（クローズド） | **nanaco**（クローズド） | **プロプライエタリなものなし** |
-| 自社の QR 決済ウォレット | **AEON Pay／iAEON** | 規模のあるものなし（7pay は 2019 に終了） | プロプライエタリなものなし。**au PAY**（KDDI 側）を経由 |
-| 銀行免許の層 | 普通銀行（フルな小売銀行）— [[card-issuers/aeon-bank\|Aeon Bank]] | 普通銀行（ATM 特化型）— [[regional-banks/seven-bank\|Seven Bank]] | 普通銀行（ATM 専用、サブスケール）— [[regional-banks/lawson-bank\|Lawson Bank]] + 間接的に [[megabanks/au-fh\|au FH]]／au じぶん銀行 |
-| カード発行会社アーム | [[card-issuers/aeon-financial-service\|AFS]] のもとでの **AEON Card**（TSE プライム 8570） | [[card-issuers/seven-card-service\|Seven Card Service]] のもとでの **Seven Card** | ローソン Ponta カード + **au PAY カード**（KDDI 側）— AEON Card 規模のグループ内発行会社なし |
-| ポイント通貨 | **WAON POINT**（クローズドなグループ内） | **nanaco ポイント**（クローズドなグループ内） | **Pontaポイント**（マルチブランド・アライアンス：JAL、KDDI、ガソリン、レストラン、ローソン 等） |
-| 顧客 ID アンカー | **iAEON** + AEON Card + WAON | **7iD** + nanaco + Seven Card | 連邦型：ローソン ID + au ID + Ponta ID |
-| 自社 ATM ネットワーク | イオン系 ATM 約 6,500 | **Seven Bank ATM 約 27,000+**（最大の CVS 銀行 ATM ネットワーク） | Lawson Bank ATM 約 13,000 |
-| BaaS スポンサーとしての立ち位置 | 限定的 — イオンは自社のライセンスを自ら消費する | 限定的 — Seven Bank はパートナー銀行に **ATM 手数料収益** を卸売りする（BaaS とは異なる） | 限定的 — KDDI 側の au FH は au じぶん銀行を通じて銀行機能を卸売りできるが、Lawson Bank 自体は小規模 |
-| アジア／クロスボーダーのフットプリント | **大きい** — AFS のもとのアジア消費者金融子会社（タイ、マレーシア、香港、カンボジア、ミャンマー） | **選択的** — Seven Bank の ASEAN ATM オペレーション（インドネシア、フィリピン）+ Western Union 送金 | **直接のものはごくわずか** — KDDI モバイルの国際フットプリントはあるが小売金融ではない |
-| 保険の流通 | あり — AFS／Aeon Allianz Life を通じたカウンター主導の保険募集 | 限定的 — 主に商品バンドリング | 限定的 — KDDI au の保険ラインを通信チャネルで流通 |
-| 住宅ローン組成 | **あり — Aeon Bank** は意味のある小売住宅ローン組成者（モール金融支店での定額手数料 + 変動金利商品） | 限定的 — 主力商品ラインではない | 規模のあるものなし |
-| 銀行プロダクトの CAC | 店内クロスセルでは **低い**。オンライン預金では高い | ATM 手数料のパートナー収益では **非常に低い**。直接預金では高い | 混合 — KDDI 経由で通信アンカー型、小売アンカー型ではない |
-| 決済データの形 | 高い SKU 幅、複数時間のバスケット | 高頻度、狭いバスケット | 3 者（ローソン、KDDI、三菱商事）に分散 |
-| 規制境界（免許 + 銀行代理業 + BaaS） | 銀行 + 前払式 + 保険代理 + アジア消費者金融 | 銀行 + 前払式 + 電子決済代行隣接 | 銀行 + Ponta ロイヤルティ運営 + JV 経由の KDDI 側ライセンス |
-| ガバナンスの形 | 単一の上場親会社（AEON Co. 8267）+ 上場子会社 AFS（8570） | 単一の上場親会社（Seven & i 3382）+ 上場子会社 Seven Bank（8410） | **50/50 JV**（KDDI 9433 + 三菱商事 8058）— Lawson Inc. は 2024-Q3 に上場廃止 |
+| イオン | ショッピングセンター内の銀行支店、保険ショップ、ATM、小売POS | イオン銀行その他のイオンフィナンシャルサービス事業体 | 銀行、代理業、カード、保険、前払式支払手段の全機能が1つの免許に含まれるわけではない |
+| セブン&アイ / セブン銀行 | セブン‐イレブンや多数のグループ外施設にあるセブン銀行ATM | セブン銀行 | ATM網は銀行のプラットフォームであり、小売側の親会社は銀行を連結していない |
+| ファミリーマート / 伊藤忠 | ファミマATMの展開、店舗レジ、アプリ | セブン銀行がファミマATMのインフラを運営 | ファミリーマートブランドのATMは、ファミリーマートの銀行免許を意味しない |
+| ローソン / KDDI / 三菱商事 | ローソン銀行ATM、POS、Loppi、店頭サービス | 銀行サービスはローソン銀行、受け入れるその他の商品は各提供者 | KDDIの銀行・カード商品はKDDI側の商品である |
 
-## 境界ケース / 戦略的分岐
+セブン銀行の役割は現在、従来の小売グループの境界を越えている。セブン&アイとの密接な関係を維持する一方、伊藤忠が大口持分を保有し、セブン銀行は2026年にファミマATMのインフラ提供を開始した。
 
-3 つのモデルは、特定のシナリオでストレステストされると、異なる形でクラスター化する。ウェッジの違いは境界で最も鋭くなる。
+## 支払い、クレジットカード、ロイヤルティ層
 
-### キャッシュレス比率が急激に上昇する（2030+ シナリオ）
+この表の情報源：[AEON Financial Service domestic operations](https://www.aeonfinancial.co.jp/en/corp/enterprise/)、[Seven Card Service](https://www.7card.co.jp/company/bs/)、[FamilyMart's payment directory](https://www.family.co.jp/services/payment.html)、[Lawson's point-card directory](https://www.lawson.co.jp/ponta/)。
 
-METI のキャッシュレス比率目標が 2030 までに 65%（現在のベースラインは 2025 年で 58% — 開示パックについては [[payments/INDEX|payments INDEX]] を参照）であることは、店舗ごとの ATM 引き出しボリュームの減少を含意する。
-
-- **イオン**：キャッシュレスの上昇は*助けになる* — AEON Pay / AEON Card / WAON はすべて、より高いキャッシュレス支出から便益を得る。住宅ローンと保険のカウンター事業はキャッシュレス比率からほぼ独立している。
-- **セブン**：キャッシュレスの上昇は*まず ATM 手数料のラインを傷つける*が、Seven Bank は **B2B の現金支払、認証、デジタル手続き**インフラへとピボットしてきた。問題は、これらの新たなラインが減少する ATM 引き出しボリュームを相殺できるかどうかである。
-- **ローソン + KDDI**：キャッシュレスの上昇は*ローソン POS での au PAY を助ける*が、Lawson Bank の規模劣位の問題を解決しない。KDDI のインセンティブは、Lawson Bank とは無関係に au PAY のシェアを駆動することである。
-
-### 主要な QR ウォレット（PayPay）が排他的な POS 受け入れを要求する
-
-仮想：支配的なウォレットが排他的または優先的な POS 配置を求める。
-
-- **イオン**：抵抗する可能性が高い — AEON Pay は社内の代替であり、PayPay に譲歩することは iAEON の ID グラフ戦略を弱める。
-- **セブン**：マルチウォレット受け入れにより開放的 — セブンは規模のある競合 QR ウォレットを持たないため、すべての主要ウォレットを受け入れることが既存のデフォルトである。
-- **ローソン + KDDI**：50/50  の JV のため**一方的に同意できない** — KDDI は PayPay の排他性に抵抗する（au PAY と競合する）一方、三菱商事は Ponta ネットワークの侵食に抵抗する。ここでのガバナンスの膠着はバグではなく機能である。
-
-### プリペイド発行体に対する規制圧力（未使用残高の保全）
-
-FSA が現在の 50% を超えてプリペイド支払手段の保全比率を厳格化する場合。
-
-- **イオン**：WAON 残高を通じた直接エクスポージャー — AFS のバランスシートを所与とすれば運用上は管理可能。
-- **セブン**：nanaco 残高を通じた直接エクスポージャー — Seven Bank のバランスシートを所与とすれば運用上は管理可能。
-- **ローソン + KDDI**：ローソンがプロプライエタリな FeliCa スキームを運営していないため**直接エクスポージャーなし**。au PAY 残高のエクスポージャーはローソンではなく KDDI / au FH の内側にある。
-
-### 主要銀行の 1 つが BaaS スポンサーシップを挿入しようとする
-
-メガバンクが 3 つの小売グループの 1 つに BaaS を卸売りする場合。
-
-- **イオン**：適合性は低い — Aeon Bank がすでに大半の小売銀行機能をカバーしている。
-- **セブン**：可能 — Seven Bank はパートナー銀行フレンドリーである（すでに ~600 の機関に ATM アクセスを卸売りしている）。預金口座層での BaaS パートナーシップは構造的に互換性がある。
-- **ローソン + KDDI**：au じぶん銀行（すでに KDDI 経済圏の内側にある）を通じて、またはローソン POS を通じてルーティングされる [[payment-firms/recruit-mufg-business|Recruit / MUFG business]] 型の外部パートナーシップを通じて可能。
-
-### 創業者 / ガバナンスの継承
-
-- **イオン**：創業家・岡田家のプレゼンスは残るが、グループは上場コングロマリットとして運営される — 継承はコーポレートガバナンスを介する。
-- **セブン**：アクティビスト投資家の圧力（公表ベースで 2024-2025）および 2024-2025 の分離 / 非公開化の議論が、ガバナンスの形をより流動的にしてきた — セブン&アイが単一の上場グループのままであるかどうかの問いは、Seven Bank の戦略的マンデートがコンビニ・フランチャイズの内側にとどまるかどうかに影響する。
-- **ローソン + KDDI**：50/50  の JV が日本の主要な小売金融に前例がないため、**ガバナンスが最も新規な変数**である — KDDI も三菱も一方的なエグジットを持たず、戦略的なデッドロックが再編を引き起こしうる。
-
-### 国境を越えた消費者金融の拡大
-
-- **イオン**：AFS のアジア消費者金融子会社 — タイ、マレーシア、香港、カンボジア、ミャンマー — を通じて**すでに実質的な規模で国境を越えている**。収益ミックスは ASEAN の規制サイクルに敏感。
-- **セブン**：**国境を越えた ATM オペレーション**（インドネシア、フィリピン）はあるが、規模のある消費者金融の組成はない。
-- **ローソン + KDDI**：**直接の小売金融の国境を越えたフットプリントはごくわずか**；KDDI モバイルは国際的だが、小売金融スタックは国内のみ。
-
-### 組込型金融 / BaaS スポンサーシップへのピボット仮想：非銀行フィンテックが 3 つの小売グループの 1 つを通じて預金口座プロダクトを卸売りしたい。
-
-- **イオン**：Aeon Bank がすでに社内でユースケースをカバーしているため、預金口座層での BaaS スポンサーシップは見送る可能性が高い；組込型金融の機会は、[[card-issuers/aeon-financial-service|AFS]] を通じた**クレジットカード・アズ・ア・サービス**層（パートナー向けのプライベートラベル・カードの発行）に着地する可能性がより高い。
-- **セブン**：**BaaS スポンサーシップに最も構造的に適合** — Seven Bank のパートナー銀行モデル（~600 の機関が ATM 利用手数料を支払う）は、すでにインフラ・アズ・ア・サービス・プロダクトを卸売りしている；預金口座 API 層への拡張は自然なステップである。ブロッカーはライセンスではなくプロダクト戦略の選択である。
-- **ローソン + KDDI**：BaaS スポンサーシップは、Lawson Bank 自身よりも KDDI の **au じぶん銀行** ルートを通じて着地する可能性が高い。JV 構造が排他的なパートナーシップ・アレンジメントを複雑にする。
-
-### 金利正常化への感応度
-
-より高い BoJ 政策金利を伴うポスト ZIRP 環境。
-
-- **イオン**：住宅ローン組成のスプレッドが拡大 — [[card-issuers/aeon-bank|Aeon Bank]] の収益に直接的にアクリーティブ。アジア消費者金融子会社は BoJ レートへの感応度は低いがローカル市場のダイナミクスに従う。
-- **セブン**：預金 / 貸付のブックが小さいため、純利鞘のエクスポージャーは限定的。ATM 手数料収益は金利非感応的。nanaco 未使用残高のフロートは、意味のある金利水準でのみ、より重要な収益貢献者になる。
-- **ローソン + KDDI**：Lawson Bank の小さなブックが直接的な感応度を制限する。au じぶん銀行側（[[megabanks/au-fh|au FH]] の内側）は、金利正常化からより実質的に便益を得る。
-
-### ロイヤルティ・ポイント負債のボラティリティ
-
-FRS / IFRS 15型のポイント負債開示がさらに厳格化する場合 — 会計の枠組みについては [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] を参照。
-
-- **イオン / セブン**：両社ともクローズドなグループ内ポイント（WAON POINT、nanaco ポイント）を運営し、ブレッケージの前提をセグメント報告で開示している。より厳格な認識は P&L 認識のタイミングを圧縮するが、営業キャッシュには直接影響しない。
-- **ローソン + KDDI**：Pontaポイント負債はロイヤルティマーケティング株式会社（三菱商事グループ）の内側にある。ローソンのエクスポージャーは、負債保有者としての直接的なものではなく、そのパートナー会員コストを通じた**間接的**なものである。異なる会計境界。
-
-## クロスセクション：アプリ対店舗の統合の深さ
-
-3 つのウェッジは、店内、アプリ内、銀行内のサーフェスがどう縫い合わされるかにおいて異なる。これは、単なるマーケティングではなく構造的なプロダクト設計の問いである。
-
-| レイヤー | AEON | Seven & i | Lawson + KDDI |
+| 構成 | グループに関連する決済 / カード | ロイヤルティまたはIDの接点 | 重要な制約 |
 |---|---|---|---|
-| 統一アプリ | iAEON + AEON Pay | 7iD + nanaco アプリ + 7NOW（単一のスーパーアプリなし） | ローソンアプリ + au PAY + Ponta アプリ（連邦型） |
-| 店内での識別 | iAEON コードスキャン、WAON タップ、AEON Card スワイプ | 7iD コードスキャン、nanaco タップ、Seven Card スワイプ | Pontaポイント スキャン、au PAY スキャン、ローソンアプリのコード |
-| ATM での識別 | AEON Bank キャッシュカード、パートナー銀行カード | Seven Bank キャッシュカード、パートナー銀行カード（約 600 パートナー）、海外カード | Lawson Bank キャッシュカード、パートナー銀行カード |
-| クロスプロダクトのクロスセル誘導 | 高い — AEON Pay は Aeon Bank、AEON Card、保険カウンターへ誘導できる | 中程度 — 7iD は nanaco、Seven Card、Seven Bank へ誘導できる | 低い — 連邦型 ID はアプリ内クロスセルの摩擦を減らすが、サーフェスは 3 つのアプリに分かれる |
-| エンゲージメントとしてのレシート | iAEON のレシート／クーポン回帰ループ | セブンのレシート／7iD のクーポンループ | ローソンのレシート／Ponta ポイント + au PAY クーポン |
-| 住宅ローン／保険のリード | モール金融支店でのカウンター主導 | 限定的 — 戦略的サーフェスではない | 限定的 — 代わりに通信チャネルの保険 |
+| イオン | イオンカード、WAON、AEON Pay | WAON POINTとイオンのアプリ・カードの関係 | 特典ごとに発行者、加盟店、商品、基準日を確認する |
+| セブン&アイ / セブン銀行 | セブン・カードサービスを通じたセブンカード / セブンカード・プラスとnanaco | nanacoと7iDは関連するが、契約上は別である | セブン・カードサービスはセブン銀行の子会社 |
+| ファミリーマート / 伊藤忠 | ファミマデジタルワンを通じたFamiPayと、ポケットカードと連携したファミマカード | FamiPayの特典に加え、dポイント、楽天ポイント、Vポイントを受け入れ | 複数ポイントの受け入れは、ファミリーマートが各プログラムを所有することを意味しない |
+| ローソン / KDDI / 三菱商事 | ローソンはau PAYその他の決済手段を受け入れ、ローソン銀行はATMサービスを提供 | ローソンは現在、Pontaとdポイントの双方を案内 | au PAYとau PAY カードはローソン発行ではなく、Pontaもローソン専用ではない |
 
-アプリ統合の深さは、「3 社ともすべて小売アンカー型の金融グループである」が構造的な違いを過小評価している理由の最も明確な例である。イオンの**シングルアプリ + カウンター主導**モデルとセブンの**シングル ID + 取引頻度主導**モデルは、ローソンの**連邦型アプリ + パートナーネットワーク主導**モデルと根本的に異なる。
+## エンティティ × プロダクト × チャネル マトリクス
 
-## クロスセクション：店舗経済性から金融プロダクトへのマッピング各店舗経済性の形は、異なる金融プロダクトの機会セットを生み出す。マッピングは恣意的ではない — 滞留時間、バスケットサイズ、来店頻度から導かれる。
+この表の情報源：上記の現在の会社および製品ページ、[Seven Bank's subsidiary list](https://www.sevenbank.co.jp/english/corp/company/outline.html)、および[Famima Digital One's creation announcement](https://www.family.co.jp/company/news_releases/2019/20190701_01.html)。
 
-| 店舗経済性の軸 | AEON モール／SM | 7-イレブン CVS | ローソン CVS |
-|---|---|---|---|
-| 来店ごとの滞留時間 | 30 分 – 3 時間 | 2 – 8 分 | 2 – 8 分 |
-| 平均バスケットサイズ | ¥3,000 – ¥10,000+ | ¥500 – ¥1,500 | ¥500 – ¥1,500 |
-| 顧客あたりの来店頻度 | 月 1 – 4 回 | 月 8 – 30 回 | 月 8 – 30 回 |
-| 最も適合する金融プロダクト | カウンター主導の住宅ローン、保険、投資信託 | 公共料金支払、ATM 引き出し、前払式チャージ | 公共料金支払、ATM 引き出し、コード決済チャージ |
-| 最もレバレッジの効くデータ | カテゴリー横断バスケット（食品 + アパレル + 日用品） | 日々の必需品の SKU 回転 | 日々の必需品の SKU 回転 + KDDI 経由の通信／モビリティのクロスデータ |
-| 顧客 ID の活性化の瞬間 | モール入口でのアプリ内クーポン、金融支店での着座相談 | POS でのアプリ内プッシュ、ATM 取引 | POS でのアプリ内プッシュ、au PAY チャージ、Ponta スキャン |
+| 商品または機能 | AEON | Seven & i / Seven Bank | FamilyMart / ITOCHU | Lawson / KDDI / Mitsubishi |
+|---|---|---|---|---|
+| 対象の小売構成における免許銀行 | イオン銀行 | セブン銀行 | ファミリーマート子会社として確認できるものはない | ローソン銀行 |
+| カードレイヤー | イオンカード | セブン・カードサービス | ポケットカードと連携したファミマカード | KDDI側のau PAY カードは、別契約に基づき受け入れ・流通する可能性がある |
+| 電子マネー / アプリウォレット | WAONとAEON Pay | nanaco | FamiPay | au PAYはKDDI側。ローソンは複数の決済手段を受け入れる |
+| 主な小売チャネルのATM提供者 | イオン銀行と提携先 | セブン銀行 | ファミマATM契約に基づくセブン銀行 | ローソン銀行 |
+| ポイントの関係 | WAON POINT | nanacoポイントと小売会員との連携 | FamiPay特典と、受け入れる複数の共通ポイント | 現在、Pontaとdポイントの双方を受け入れ |
+| 保険の流通 | イオン保険サービスの代理店と銀行チャネル | 商品ごとに異なり、本比較の中核ではない | 将来商品・提携商品には別途根拠が必要 | KDDIとの提携で保険が検討分野として挙げられた |
 
-店舗経済性は、どの金融プロダクトが各ウェッジと*運用上互換性がある*かを決定する。カウンター主導の住宅ローン組成は、CVS の頻度ではなくモール規模の滞留時間と構造的に互換性がある。規模のある ATM 手数料収益は、モールの滞留ではなく CVS の頻度と構造的に互換性がある。各ウェッジは**異なる金融の手の集合が得意**である。
+## 所有、提携、受け入れの区別
 
-## 三者ウェッジ相互作用マトリクス
+「店舗で利用できる」ことは3種類の異なる関係を表し得る。これらの混同が、小売金融マッピングの誤りの多くを生む。
 
-3 つのグループは厳密に相互排他的ではない — 顧客が複数の経済圏に属するオーバーラップ・ゾーンが存在する。以下の相互作用マトリクスは、3 つのウェッジが共有 / 争われる顧客サーフェスをどう扱うかを集める。
+以下の分類表の情報源：[AEON Financial Service overview](https://www.aeonfinancial.co.jp/en/corp/about/), [Seven Bank's subsidiary list](https://www.sevenbank.co.jp/english/corp/company/outline.html), [FamilyMart's Famima ATM announcement](https://www.family.co.jp/company/news_releases/2026/20260601_01.html), [KDDI's Lawson partnership announcement](https://newsroom.kddi.com/english/news/detail/kddi_pr_secret-79.html)
 
-| 争われるサーフェス | AEON の扱い | Seven & i の扱い | Lawson + KDDI の扱い |
-|---|---|---|---|
-| カウンターでの QR 決済受け入れ | AEON Pay に加え PayPay／d払い／au PAY／楽天ペイ を受け入れ | 主要な QR ウォレットをすべて受け入れ | 主要な QR ウォレットをすべて受け入れ + au PAY（通信アンカー型） |
-| 交通系 IC の受け入れ | あまねく受け入れ（Suica／PASMO／10 IC アライアンス） | あまねく受け入れ | あまねく受け入れ |
-| クロスカードのクレジット発行 | AEON Card は自社発行会社。他社発行会社のカードも受け入れ | Seven Card は自社発行会社。他社発行会社のカードも受け入れ | au PAY カードを推進。他社発行会社のカードも受け入れ |
-| ATM のパートナー銀行受け入れ | あり — AEON Bank はパートナー銀行カードに対応 | あり — Seven Bank は約 600 のパートナー銀行に対応 | あり — Lawson Bank はパートナー銀行に対応 |
-| 店内での公共料金支払 | AEON Pay 対応キオスクおよび AEON Bank ATM | nanaco／7iD 層および Seven Bank ATM | Loppi + Lawson Bank ATM + au PAY アプリ |
-| 保険カウンター | あり — モール内の AEON Insurance Service カウンター | なし — 戦略的サーフェスではない | なし — 戦略的サーフェスではない |
-| 住宅ローンカウンター | あり — AEON Bank のモール金融支店 | なし — 戦略的サーフェスではない | なし — 戦略的サーフェスではない |
-| インバウンド観光客のカード受け入れ | あり — AEON Bank ATM は海外カードを受け入れ | あり — Seven Bank ATM は海外カードを受け入れ（戦略的優先事項） | あり — Lawson Bank ATM は海外カードを受け入れ |
-| B2B の現金支払／払い戻し | 限定的 — AEON Bank のサービスライン | あり — [[payment-firms/seven-payment-service\|Seven Payment Service]] は戦略的ライン | 限定的 |
-| 認証／デジタル手続きインフラ | 限定的 | 戦略的優先事項 — Seven Bank のピボット方向 | 限定的 |
+| 関係 | 意味 | 例 |
+|---|---|---|
+| 自社所有／連結 | その事業は報告グループ内の子会社である | セブン銀行はセブンカードサービスおよびセブン・ペイメントサービスを子会社として所有している |
+| 持分法適用関係 | 完全連結を伴わない重要な影響力 | セブン銀行とセブン&アイ、伊藤忠との現在の関係 |
+| 提携 / 流通 | 別の提供者の商品が小売チャネルを利用 | セブン銀行がファミマATMを運営し、KDDIのサービスはローソンを通じて流通する可能性がある |
+| POSでの受け入れ | 店舗が決済手段やポイント会員証を受け入れる | ファミリーマートは複数のコード決済・共通ポイントを受け入れ、ローソンはPontaとdポイントの双方を案内 |
+| 計画 / 検討 | 会社が意向や例を発表 | ファミリーマートは銀行代理業の許可取得を検討し、ローソンとの提携は銀行・保険の流通可能性を例示 |
 
-争われるサーフェスのマトリクスは、**収斂は本物だが部分的**であることを示す：すべてのグループがすべての決済レールを受け入れるが、フルな小売銀行カウンター・スタックを運営するのはイオンのみであり、フルな B2B 現金ユーティリティ・スタックを運営するのはセブンのみである。
+## 証拠に基づく差異
 
-## ウェッジ別の戦略的読み
+この表の情報源：[AEON Financial Service overview](https://www.aeonfinancial.co.jp/en/corp/about/)、[Seven Bank's operating overview](https://www.sevenbank.co.jp/english/corp/company/business.html)、[FamilyMart's Famima ATM launch](https://www.family.co.jp/company/news_releases/2026/20260601_01.html)、[KDDI's final Lawson ownership notice](https://news.kddi.com/kddi/corporate/english/ir-news/2024/08/20/pdf/press_20240820.pdf)。
 
-各ウェッジが**独自に所有する**もの対**レンタルする**もの対**持たない**ものの短いプロサマリー。
+| 比較軸 | イオン | セブン&アイ / セブン銀行 | ファミリーマート / 伊藤忠 | ローソン / KDDI / 三菱商事 |
+|---|---|---|---|---|
+| 中核となる物理チャネル | モール、スーパーマーケットその他の小売チャネル | コンビニと第三者施設のATM設置場所 | コンビニアプリ、POS、提携ATMの展開 | コンビニPOS、ATM、サービス端末 |
+| 金融事業体の統合 | イオンの幅広い金融サービスグループ | カード・決済子会社を持つ銀行中心のグループ | ウォレットと提携カードのモデル。銀行インフラは提携先 | ローソン銀行と、共同所有関係の下にあるKDDI側商品 |
+| ガバナンス上の事実 | 上場グループ構造 | セブン銀行は2025年にセブン&アイの連結から外れた | ファミリーマートは2020年に非公開化 | ローソンの最終的な50対50所有が2024年に完了 |
+| グループをまたぐ依存 | イオン各社の間で商品ごとに依存 | セブン銀行はグループ内外の施設にサービスを提供 | 対象レイヤーでポケットカードとセブン銀行に依存 | ローソン各社とKDDI側のサービスの双方に依存 |
 
-- **イオンが所有するもの**：モールとスーパーマーケットの商圏、規模のある住宅ローン組成を伴うフルな小売銀行免許、クローズドなプリペイド電子マネー（WAON）、トップ層の発行カードブランド（AEON Card）、アジアの消費者金融フットプリント。イオンが**レンタルするもの**：QR 決済のマインドシェア（AEON Pay が店内で好まれるところでさえ、PayPay が依然として総コード決済価値で支配する）。イオンが**持たないもの**：CVS 密度のウェッジ、または Seven Bank の規模での ATM プラットフォーム・ユーティリティ事業。
-- **セブン&アイが所有するもの**：最大の CVS ネットワーク、最大の CVS 銀行 ATM プラットフォーム、クローズドなプリペイド電子マネー（nanaco）、7iD 顧客 ID アンカー、B2B 現金ユーティリティ事業。セブンが**レンタルするもの**：機関銀行の預金関係（メインの預金についてメガバンクやネット銀行と正面から競合しない）。セブンが**持たないもの**：モール回廊のカウンター主導の金融流通サーフェス、またはイオンの規模でのアジア消費者金融子会社グループ。
-- **ローソン + KDDI が所有するもの**：第 3 位の CVS ネットワーク、KDDI の加入者ベース（~30M のモバイル加入者）への間接エクスポージャー、三菱商事 / ロイヤルティマーケティングを通じた Pontaポイント・マルチブランド・アライアンス。ローソン + KDDI が**レンタルするもの**：そのプロプライエタリな金融スタック — au PAY、au PAY カード、au じぶん銀行は KDDI が所有し、ローソンが所有するのではなくローソン POS を通じてルーティングされる。ローソン + KDDI が**持たないもの**：プロプライエタリな FeliCa ベースの蓄積価値型スキーム、イオン規模のカード発行体、Aeon Bank 規模のフルな小売銀行、または Seven Bank 規模の ATM プラットフォーム。
+この表は構造上の比較に限られ、顧客獲得コストの低さ、転換率の高さ、利益プールの大きさ、データの優位性、競争上の堀の強さを示すものではない。
 
-この読みは、3 社が**同じ顧客のウォレットを争う競合者**として最もよく理解されるのではなく、**QR 決済受け入れ層およびインバウンド観光客 ATM 層で時折競合する、異なる金融流通ウェッジの事業者**として理解されることを示す。
+## 意図的に除外した主張
 
-## Related
+- 出典のない店舗滞在時間や客単価の範囲
+- 年をまたいで検証せず転記したATM数・提携先数
+- 独占ウォレットを想定した仮説上の交渉
+- 事業体の財務諸表なしに行うポイント債務会計の推定
+- 50対50の株主がすべての顧客データにアクセスできるという主張
+- 計画中の銀行代理業許可申請が承認済みという主張
+- キャッシュレス化が必ず特定グループに有利または不利に働くとの予測
+- 日付と定義をそろえた比較指標なしでの「最大」「最良」「最も強固」といった順位付け
 
-- [[retail/INDEX]]
-- [[retail/aeon-group]]
-- [[retail/seven-and-i-hd]]
-- [[retail/lawson-kddi-retail-finance]]
-- [[loyalty/INDEX]]
-- [[loyalty/japan-points-landscape]]
-- [[loyalty/v-point-smbc-ccc-case]]
-- [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation]]
-- [[loyalty/point-liability-accounting-boundary]]
-- [[banking/japan-net-bank-competition-map]]
-- [[banking/japan-baas-operating-models]]
-- [[banking/quick-deposit-four-methods]]
-- [[payments/INDEX]]
-- [[payments/japan-code-payment-competitive-map]]
-- [[payments/japan-transit-prepaid-suica-pasmo-icoca-economics]]
-- [[payments/waon-nanaco-retail-prepaid-comparison]]
-- [[payments/famipay-valucreate-strategy]]
-- [[card-issuers/aeon-bank]]
-- [[card-issuers/aeon-financial-service]]
-- [[regional-banks/seven-bank]]
-- [[card-issuers/seven-card-service]]
-- [[payment-firms/seven-payment-service]]
-- [[regional-banks/lawson-bank]]
-- [[megabanks/au-fh]]
-- [[payment-firms/au-payment]]
-- [[payment-firms/recruit-mufg-business]]
+## 再利用可能なレビューワークフロー
+
+以下のチェックリスト表の情報源：[Seven Bank's shareholder list](https://www.sevenbank.co.jp/english/ir/stock/stock_info.html)、[FamilyMart's current payment directory](https://www.family.co.jp/services/payment.html)、[KDDI's Lawson partnership announcement](https://newsroom.kddi.com/english/news/detail/kddi_pr_secret-79.html)。
+
+| ステップ | 質問 | 最小証拠 |
+|---|---|---|
+| 1 | 商品を所有・運営する法人はどこか？ | 会社概要、子会社一覧、商品契約 |
+| 2 | 連結、持分法、提携、単なる受け入れのどれか？ | 最新の年度決算と取引開示 |
+| 3 | 開始済み、展開中、計画、検討段階のどれか？ | 日付のある実施発表 |
+| 4 | どの許認可が適用されるか？ | 規制当局の登録簿または事業体の許認可開示 |
+| 5 | 指標は現在も有効で比較可能か？ | 同じ基準日・定義による一次データ |
+| 6 | 顧客データの利用を伴う主張か？ | 現在のプライバシー通知、同意、共同利用の開示 |
+
+## 関連
+
+- [[retail/INDEX|retail INDEX]]
+- [[retail/aeon-group|AEON Group]]
+- [[retail/seven-and-i-hd|Seven & i Holdings]]
+- [[retail/seven-i-holdings-finance-deep-dive|Seven & i finance deep dive]]
+- [[retail/familymart-itochu-financial-integration|FamilyMart + ITOCHU]]
+- [[retail/lawson-kddi-retail-finance|Lawson + KDDI]]
+- [[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|Lawson 2024 take-private]]
+- [[regional-banks/seven-bank|Seven Bank]]
+- [[regional-banks/lawson-bank|Lawson Bank]]
+- [[card-issuers/aeon-bank|AEON Bank]]
+- [[loyalty/japan-points-landscape|Japan points landscape]]
+- [[payments/cashless-jp-landscape|Japan cashless landscape]]
 - [[INDEX|FinWiki index]]
 
-## Sources
+## 出典
 
-- AEON Co., Ltd. corporate information (https://www.aeon.info/en/company/).
-- AEON Financial Service corporate profile and integrated reports (https://www.aeonfinancial.co.jp/en/corp/about/).
-- AEON Bank official company outline (https://www.aeonbank.co.jp/company/about/outline/).
-- WAON official service pages (https://www.waon.net/about/).
-- Seven & i Holdings official corporate profile (https://www.7andi.com/en/company/profile).
-- Seven & i Holdings IR financial-services data (https://www.7andi.com/en/ir/library/co_financial/2025/finance/).
-- Seven Bank official corporate and group-service pages (https://www.sevenbank.co.jp/english/corp/, https://www.sevenbank.co.jp/group/).
-- nanaco official introduction (https://www.nanaco-net.jp/introduction/).
-- Lawson, Inc. official corporate information (https://www.lawson.co.jp/company/).
-- Lawson Bank official IR (https://www.lawsonbank.jp/).
-- KDDI corporate newsroom — 2024 joint TOB on Lawson with Mitsubishi Corp (https://www.kddi.com/corporate/newsrelease/).
-- au PAY official site (https://aupay.auone.jp/).
-- Pontaポイント official site (https://www.ponta.jp/).
-- Mitsubishi Corp press releases on Lawson investment and Ponta business (https://www.mitsubishicorp.com/jp/ja/pr/).
-- FSA banking license registry (https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx).
-- METI cashless payment policy portal (https://www.meti.go.jp/policy/mono_info_service/cashless/).
+- AEON Financial Service overview: https://www.aeonfinancial.co.jp/en/corp/about/
+- AEON Financial Service domestic operations: https://www.aeonfinancial.co.jp/en/corp/enterprise/
+- Seven Bank operating overview: https://www.sevenbank.co.jp/english/corp/company/business.html
+- Seven Bank shareholder list: https://www.sevenbank.co.jp/english/ir/stock/stock_info.html
+- Seven Bank subsidiary list: https://www.sevenbank.co.jp/english/corp/company/outline.html
+- FamilyMart FamiPay: https://www.family.co.jp/services/payment/famipay.html
+- FamilyMart payment directory: https://www.family.co.jp/services/payment.html
+- FamilyMart Famima ATM launch: https://www.family.co.jp/company/news_releases/2026/20260601_01.html
+- KDDI / Mitsubishi Corporation / Lawson partnership: https://newsroom.kddi.com/english/news/detail/kddi_pr_secret-79.html
+- KDDI final Lawson ownership notice: https://news.kddi.com/kddi/corporate/english/ir-news/2024/08/20/pdf/press_20240820.pdf

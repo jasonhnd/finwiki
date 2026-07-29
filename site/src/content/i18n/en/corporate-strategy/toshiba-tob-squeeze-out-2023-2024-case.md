@@ -1,79 +1,79 @@
 ---
 source: corporate-strategy/toshiba-tob-squeeze-out-2023-2024-case
-source_hash: 5c08166f9979ec59
+source_hash: ed7bf82e4fc04181
 lang: en
+model: source-language-sync
 status: machine
 fidelity: ok
 title: "Toshiba TOB by JIP consortium 2023-2024 case — Japan large-cap going-private squeeze-out template"
-translated_at: 2026-06-18T15:47:13.963Z
+translated_at: 2026-07-29T05:13:34.783Z
 ---
 
 # Toshiba TOB by JIP consortium 2023-2024 case — Japan large-cap going-private squeeze-out template
 
 ## Wiki route
 
-This entry sits under [[corporate-strategy/INDEX|corporate-strategy INDEX]] and routes into [[finance/INDEX|finance INDEX]] for the transaction-finance overlay. Read with [[finance/japan-mbo-and-squeeze-out-process|Japan MBO / squeeze-out process]] for the procedural mechanics, [[finance/japan-tender-offer-process|Japan tender offer process]] for the TOB framework, [[corporate-strategy/spinoff-decision-tree-japan|spinoff decision tree Japan]] for the alternative-path context, and [[finance/japan-activist-investor-playbook|Japan activist investor playbook]] for the pre-deal activist dynamics that drove this outcome.
+This entry sits under [[corporate-strategy/INDEX|corporate-strategy INDEX]] and routes into [[finance/INDEX|finance INDEX]] for the transaction-finance overlay. Read with [[finance/japan-mbo-and-squeeze-out-process|Japan MBO / squeeze-out process]] for the procedural mechanics, [[finance/japan-tender-offer-process|Japan tender offer process]] for the TOB framework, [[corporate-strategy/spinoff-decision-tree-japan|spinoff decision tree Japan]] for alternative-path context, and [[finance/japan-activist-investor-playbook|Japan activist investor playbook]] for a separate framework for studying shareholder campaigns without treating them as the sole cause of this transaction.
 
 ## TL;DR
 
-The **2023 take-private of Toshiba Corporation (then TSE Prime 6502)** by a consortium led by Japan Industrial Partners (JIP) is the canonical recent Japan large-cap going-private case. The transaction — ~¥2tn TOB at ¥4,620 per share, completed September 2023, delisted December 20, 2023 — ended a multi-year crisis at one of Japan's most prominent industrial groups driven by accounting fraud (2015 disclosure), Westinghouse-bankruptcy spillover, foreign-activist pressure, and repeated governance failures.
+The **2023 take-private of Toshiba Corporation (then TSE Prime 6502)** was executed by TBJH Inc., an acquisition vehicle in a structure managed by Japan Industrial Partners (JIP) and its affiliates. The tender offer was planned at an aggregate **¥1,999,905,997,320** if all 432,880,086 eligible shares were purchased, at **¥4,620 per share**. It ran from **2023-08-08 through 2023-09-20**; 340,459,163 shares were tendered, and TBJH's post-settlement holding, including 100 shares already owned, represented **78.65%** of voting rights. Toshiba delisted on **2023-12-20**, and the share consolidation used for the remaining squeeze-out became effective on **2023-12-22**. ^[Sources: https://www.global.toshiba/content/dam/toshiba/ww/ir/corporate/news/20230807_4.pdf; https://www.global.toshiba/content/dam/toshiba/ww/ir/corporate/news/20230921_1.pdf; https://www.global.toshiba/ww/ir/corporate/tender-offer.html.]
 
-The case templates several distinct elements: (1) **going-private as a resolution mechanism** for chronic activist / governance friction, (2) **domestic-led consortium financing** (vs foreign-buyout dominance feared by METI), (3) **squeeze-out execution at scale** (¥2tn deal size), (4) **post-private restructuring runway** for break-up / refocus / re-IPO planning. Reads alongside the SBG-Arm IPO template ([[business/softbank-vision-fund-arm-ipo-template|here]]) as the inverse case — Toshiba goes private to restructure; Arm goes public to mark value.
+The case is useful for studying a conditional tender offer, a two-thirds minimum, a post-TOB share-consolidation squeeze-out, and delisting. It does **not** establish a disclosed break-up plan, a 3–7-year holding period, or a re-listing timetable: Toshiba's own FAQ said that any future listing would depend on TBJH's management policy and that Toshiba was not in a position to answer.
 
-## 1. Pre-Crisis Context (2015-2022)
+## 1. Publicly Documented Route to the 2023 Transaction
 
 | Period | Event |
 |---|---|
-| 2015 | Accounting fraud disclosed (multi-year profit overstatement) |
-| 2017 | Westinghouse nuclear-unit bankruptcy; Toshiba multi-billion impairment |
-| 2017-2018 | Memory-business (Toshiba Memory → Kioxia) sold for ~¥2tn to BainCapital-led consortium |
-| 2017-2018 | Massive capital injection from foreign activist funds (Effissimo, Elliott, King Street, etc.) |
-| 2020 | Effissimo and related activists hold combined ~30%+ |
-| 2020 | Failed take-private attempt by CVC Capital Partners (¥5,000+/share signal but inadequate) |
-| 2021 | Multiple management changes; spin-into-three plan announced |
-| 2022 | Spin-into-three rejected by shareholders |
-| 2022-Q4 | Strategic review process launched for new bidders |
-| 2023-Q1 | JIP-led consortium selected as preferred bidder |
-| 2023-03 | TOB announced |
+| 2022-04-07 | Toshiba announced establishment of a special committee |
+| 2022-04-21 | Toshiba announced the start of discussions with potential investors and sponsors |
+| 2022-09-30 | Toshiba published a progress report on those discussions |
+| 2023-03-23 | TBJH and Toshiba announced the planned tender offer, subject to conditions precedent |
+| 2023-08-07 | TBJH decided to commence the offer after the relevant conditions were fulfilled or expected to be fulfilled |
+| 2023-08-08 to 2023-09-20 | Tender-offer period (30 business days) |
+| 2023-09-21 | Toshiba announced the successful result |
+| 2023-11-22 | Extraordinary general meeting approved the share-consolidation resolutions |
+| 2023-12-20 | Toshiba shares were delisted |
+| 2023-12-22 | Share consolidation became effective |
 
-The pre-crisis decade is foundational — Toshiba was in continuous activist-foreign-shareholder friction that public-listed status amplified. Going private was framed as the only remaining tool to break the cycle.
+Sources: every row is limited to Toshiba's tender-offer announcement index and the dated company releases linked there. Earlier governance history is intentionally not compressed into this transaction table. ^[Sources: https://www.global.toshiba/ww/ir/corporate/tender-offer.html; https://www.global.toshiba/content/dam/toshiba/ww/ir/corporate/news/20230921_1.pdf; https://www.global.toshiba/content/dam/toshiba/ww/ir/corporate/news/20231219_1.pdf.]
 
 ## 2. The 2023 TOB Architecture
 
 | Element | Detail |
 |---|---|
-| Bidder | Japan Industrial Partners (JIP), domestic PE firm |
-| Bidder consortium | JIP + ORIX + Chubu Electric + 17 other domestic financial / industrial entities |
-| Financing | Multi-tranche bank loan stack (Mizuho, MUFG, SMBC, etc.) + equity from consortium |
+| Tender offeror | TBJH Inc.; its parent was TBJ Holdings Inc. |
+| JIP relationship | Toshiba's FAQ states that 75% of TBJ Holdings' issued shares were held by a partnership managed by JIP and its affiliates |
+| Planned commencement announced | 2023-03-23, subject to conditions precedent |
+| Actual tender-offer period | 2023-08-08 to 2023-09-20 (30 business days) |
 | TOB price | ¥4,620 per share |
-| Total deal size | ~¥2tn (largest Japan domestic-led PE deal) |
-| Minimum tender condition | ~2/3 of shares (squeeze-out trigger) |
-| TOB period | March 2023 → August 2023 (multi-extension) |
-| TOB result | ~78% tendered; consortium clears 2/3 threshold |
-| Squeeze-out | Post-TOB squeeze-out via 株式併合 / put rights |
-| Delisting | December 20, 2023 (TSE Prime 6502) |
+| Planned maximum / aggregate price | 432,880,086 shares / ¥1,999,905,997,320 if all eligible shares were purchased |
+| Minimum tender condition | 288,731,000 shares, equivalent to 66.7% of voting rights on the offer's stated denominator |
+| TOB result | 340,459,163 shares tendered; 78.65% post-settlement voting-right ownership including 100 pre-owned shares |
+| Settlement commencement | 2023-09-27 |
+| Squeeze-out / delisting | Share consolidation approved 2023-11-22; delisted 2023-12-20; consolidation effective 2023-12-22 |
 
-The financing stack was deliberately **domestic-only** to address METI's national-security and core-technology preservation concerns — Toshiba's defense, nuclear, semiconductor, and infrastructure businesses are politically sensitive.
+Sources: price, period, planned maximum, aggregate price, minimum condition, and bidder structure come from the commencement release; tendered shares and 78.65% result come from the results release; delisting and consolidation dates come from Toshiba's transaction page and delisting release. ^[Sources: https://www.global.toshiba/content/dam/toshiba/ww/ir/corporate/news/20230807_4.pdf; https://www.global.toshiba/content/dam/toshiba/ww/ir/corporate/news/20230921_1.pdf; https://www.global.toshiba/ww/ir/corporate/tender-offer.html; https://www.global.toshiba/content/dam/toshiba/ww/ir/corporate/news/20231219_1.pdf.]
 
-## 3. Why TOB Take-Private Was Chosen Over Alternatives
+## 3. What the Public Process Establishes
 
-Pre-2023 strategic review evaluated five paths:
+The public record supports the following process facts without attributing unrecorded political motives or naming hypothetical strategic buyers:
 
-| Path | Rejected because |
+| Decision point | Publicly disclosed evidence |
 |---|---|
-| Spin into three (2021 plan) | Shareholder vote failed; perceived as restructuring-avoidant |
-| Sell to foreign PE | METI / political resistance; national-security concerns |
-| Sell to strategic acquirer (Hitachi, etc.) | No realistic strategic buyer at price expected |
-| IPO of subsidiaries (Kioxia model) | Kioxia path already exhausted; remaining businesses less IPO-ready |
-| **Domestic PE-led take-private** | **Chosen** — allows restructuring + retains domestic ownership |
+| Governance of the process | Toshiba established a special committee in April 2022 |
+| Market check | Toshiba solicited and discussed proposals with potential investors and sponsors |
+| Selected proposal | Toshiba's FAQ describes TBJH's offer as the only comprehensive bid reached through the approximately one-year competitive process |
+| Board position | Toshiba announced its opinion supporting commencement of the offer and recommending that shareholders tender |
+| Disclosed privatization rationale | Toshiba stated that a stable management platform and unified shareholder support would help execute a consistent mid- to long-term strategy |
 
-The chosen path enabled simultaneous: (a) ending activist-shareholder friction, (b) preserving domestic ownership / control, (c) creating runway for major restructuring outside public-company quarterly scrutiny.
+Sources: the table uses Toshiba's own transaction index, commencement materials, and FAQ. It does not claim that foreign ownership, national-security politics, a named strategic buyer, or an activist cash-exit demand was the decisive rejected alternative. ^[Sources: https://www.global.toshiba/ww/ir/corporate/tender-offer.html; https://www.global.toshiba/content/dam/toshiba/ww/ir/corporate/news/20230807_4.pdf.]
 
 ## 4. Squeeze-Out Mechanics
 
 After the TOB cleared the ~2/3 threshold, the consortium executed the standard Japan squeeze-out sequence per [[finance/japan-mbo-and-squeeze-out-process|Japan MBO / squeeze-out process]]:
 
-1. **TOB clearance** at ~78% holding
+1. **TOB completion** at 78.65% voting-right ownership after settlement
 2. **Special resolution** at extraordinary shareholders' meeting (2/3 threshold met by consortium)
 3. **株式併合 (share consolidation)** — remaining shareholders' fractional shares converted to cash at TOB-equivalent price
 4. **Dissenting shareholders' appraisal rights** — minority right to seek court determination of fair price
@@ -81,43 +81,38 @@ After the TOB cleared the ~2/3 threshold, the consortium executed the standard J
 
 For shareholders who tendered into TOB: cash received at ¥4,620. For non-tenderers swept up by squeeze-out: cash at equivalent price (subject to dissenter rights). Dissenting shareholders have appraisal litigation route under Companies Act art. 182-4 et seq.
 
-## 5. Post-Private Restructuring Runway
+## 5. Post-Private Public Record
 
-Going private gave the consortium runway (typically 3-7 years) to:
+The transaction documents distinguish disclosed outcomes from possible future actions:
 
-| Workstream | Likely action |
+| Topic | What is publicly established |
 |---|---|
-| Portfolio refocus | Divest non-core businesses (multiple smaller divestitures) |
-| Cost rationalization | Restructure organizationally without quarterly-results pressure |
-| Strategic refocus | Concentrate on defense, energy, infrastructure, and high-margin specialty |
-| Re-IPO path | Eventually re-list Toshiba (partial or full) in 5-7 year horizon |
-| Subsidiary IPOs | Possible separate IPOs of cleaned-up subsidiaries |
+| Ownership | TBJH became Toshiba's parent after settlement and later completed the squeeze-out |
+| Listed status | Toshiba delisted on 2023-12-20 |
+| Share consolidation | Effective on 2023-12-22; fractional-share proceeds were later paid at the TOB-equivalent ¥4,620 per share basis described by Toshiba |
+| Privatization objective | Toshiba cited a stable management platform, unified shareholder support, and consistent mid- to long-term strategy |
+| Re-listing | No timetable was disclosed; Toshiba's FAQ said it was a matter for TBJH's management policy |
+| Portfolio / subsidiary IPO plan | The cited transaction materials do not establish a specific divestiture, break-up, or subsidiary-IPO program |
 
-The model: take private at modest premium → restructure for 3-7 years → re-list at higher valuation. The reverse of [[business/softbank-vision-fund-arm-ipo-template|Arm's public mark-to-market]] strategy.
+Sources: the table is bounded to Toshiba's tender-offer FAQ and dated transaction announcements. It deliberately excludes inferred holding periods, portfolio actions, valuation targets, and exit routes. ^[Sources: https://www.global.toshiba/ww/ir/corporate/tender-offer.html; https://www.global.toshiba/content/dam/toshiba/ww/ir/corporate/news/20230921_1.pdf; https://www.global.toshiba/content/dam/toshiba/ww/ir/corporate/news/20231219_1.pdf.]
 
-## 6. Comparison Of Recent Japan Large-Cap Going-Private Cases
+## 6. What This Case Does and Does Not Establish
 
-| Case | Year | Price (¥/share) | Deal size | Buyer | Outcome |
-|---|---|---|---|---|---|
-| **Toshiba** | 2023 | 4,620 | ~¥2tn | JIP-led domestic consortium | Delisted Dec 2023 |
-| Hitachi Metals | 2021-2022 | 2,181 | ~¥800bn | Bain Capital / Hitachi divestiture | Delisted 2023 |
-| Shinko Electric | 2024 | 5,920 | ~¥800bn | JIC-led consortium | Delisting in progress |
-| JSR | 2024 | 4,350 | ~¥900bn | JIC + foreign LP | Delisted 2024 |
-| Benesse Holdings | 2024 | 2,600 | ~¥260bn | EQT-led + founder | Delisted 2024 |
+| Question | Confirmed by Toshiba disclosures | Not established by this case alone |
+|---|---|---|
+| Offer scale | ¥4,620 per share; planned aggregate just under ¥2tn if every eligible share was purchased | A comparable “market price” for other take-privates |
+| Completion threshold | 66.7% minimum; 78.65% voting-right ownership after settlement | That every Japanese squeeze-out uses the same minimum |
+| Minority elimination | Share consolidation approved after the TOB | That a share consolidation is the only available squeeze-out method |
+| Governance process | Special committee, proposal process, board opinion, and detailed disclosure | That every take-private must use an identical process or adviser set |
+| Future exit | No re-listing timetable in Toshiba's FAQ | A standard PE holding period or promised re-IPO |
 
-The pattern: domestic PE / strategic-investor consortiums (often with quasi-government JIC participation) leading large-cap take-privates. Foreign-only buyouts increasingly rare for sensitive sectors.
+Sources: this evidence-bound table is derived solely from Toshiba's releases and the Companies Act. Cross-deal price, buyer, timing, and outcome comparisons require each other issuer's primary transaction documents and are not inferred here. ^[Sources: https://www.global.toshiba/ww/ir/corporate/tender-offer.html; https://www.global.toshiba/content/dam/toshiba/ww/ir/corporate/news/20230807_4.pdf; https://www.global.toshiba/content/dam/toshiba/ww/ir/corporate/news/20230921_1.pdf; https://laws.e-gov.go.jp/document?lawid=417AC0000000086.]
 
-## 7. The Activist-Resolution Template
+## 7. Governance Reading, Separated from the Record
 
-Toshiba is the textbook case of going-private as **activist-friction resolution mechanism**:
-
-1. **Public-listed status amplifies activist leverage** — Effissimo, Elliott, King Street could force AGM resolutions, special meetings, governance reviews
-2. **Public-company governance reform tools** had been exhausted (board changes, plan votes, etc.)
-3. **Private-ownership consensus** between consortium and selling activist shareholders ended the cycle
-4. **Cash exit** allowed activists to monetize at acceptable price and exit cleanly
-5. **Restructuring under private ownership** freed management from quarterly disclosure pressure
-
-This template applies whenever: (a) a public company has chronic activist friction, (b) public-company governance is materially constrained by activist agenda, (c) restructuring requires multi-year horizon, (d) cash-buyout consortium is financeable.
+- **Record:** Toshiba established a special committee, ran discussions with potential investors and sponsors, recommended TBJH's offer, and described privatization as supporting stable, consistent mid- to long-term management.
+- **Permissible interpretation:** concentrated private ownership can reduce the coordination burden among dispersed public shareholders.
+- **Boundary:** the cited transaction releases do not prove that activist pressure was the sole cause, disclose each selling shareholder's motive, or guarantee that private ownership improves operating performance.
 
 ## 8. Comparison With Pre-2023-Regime Partial-Spinoff Path
 
@@ -127,39 +122,31 @@ If the partial-spinoff regime ([[corporate-strategy/japan-kabushiki-bunpai-spino
 |---|---|---|
 | Activist exit | Cash via TOB | Receive subsidiary shares (not cash) — does not satisfy activists wanting cash |
 | Restructuring runway | Multi-year under private ownership | None — both parent and subsidiary remain public |
-| Tax to selling shareholders | Cash → taxable | Share distribution → deferred |
+| Tax to selling shareholders | Cash consideration generally realizes a disposition; actual tax depends on the holder | No immediate recognition only if the distribution satisfies the applicable qualified regime |
 | Capital required from buyer | Large cash (¥2tn) | None — purely a share-structure rearrangement |
 | Governance reset | Yes (private board) | No (public-company board continues) |
 
-For Toshiba's situation (activists demanding cash exit, governance overhaul needed), TOB take-private was structurally superior to spinoff. For Sony FG (no activist pressure, no urgent restructuring), partial-spinoff was structurally superior to TOB. See [[corporate-strategy/spinoff-decision-tree-japan|spinoff decision tree Japan]] for the full option-fit framework.
+Sources: Toshiba transaction mechanics come from its official releases; the partial-spin-off column is a regime-level comparison from METI and MOF materials. The table does not assert that Toshiba formally selected between these two paths or that one was legally “superior.” ^[Sources: https://www.global.toshiba/ww/ir/corporate/tender-offer.html; https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/oshirase/spinoff-kaitei_20260522.html; https://www.mof.go.jp/tax_policy/summary/corporation/c06.htm.]
 
-## 9. METI Fair M&A Guidelines Interaction
+## 9. METI Fair M&A Guidelines Context
 
-The 2023 transaction occurred under META's revised Fair M&A Guidelines (2019 publication, ongoing refinement), which constrain:
+METI's Fair M&A Guidelines are a principles-based framework for fair process and minority-shareholder protection in management buyouts and acquisitions of controlled subsidiaries. They discuss measures such as independent special committees, independent advice, market checks, valuation information, majority-of-minority conditions, and enhanced disclosure. They are not a statute that makes every listed measure mandatory in every transaction.
 
-- Special committees of independent directors required to assess fairness
-- Multiple-bidder process required (else explain why not)
-- Fairness opinions from independent financial advisors
-- Disclosure of conflicts of interest
-- Minority shareholder protection mechanisms
-
-Toshiba's TOB process complied with these guidelines (special committee formed, multi-bidder process run, fairness opinions obtained). Compliance is a soft requirement but failure to comply invites shareholder litigation and damages.
+Toshiba's own releases document its special committee, proposal process, legal and financial advisers, valuation materials, and board opinion. Any assessment of guideline conformity should be tied to those disclosed measures rather than assuming that a fairness opinion or a particular market-check form was categorically required.
 
 ## 10. Counterpoints
 
-- The ¥4,620 TOB price was criticized by some shareholders as inadequate relative to break-up value — appraisal rights litigation may extend years
-- Domestic-PE consortium model (JIC + JIP + ORIX etc.) is partly subsidized by quasi-government capital; pure-private deal might not have priced as attractively
-- Multi-year restructuring runway requires consortium discipline; precedent for PE-led Japan industrial restructuring is mixed
-- The activist-exit motivation may set precedent inviting more activist campaigns aimed at forcing take-privates
-- Re-IPO timing is uncertain; if market conditions worsen, the consortium may struggle to exit at adequate valuation
+- The planned aggregate price assumed purchase of all eligible shares; the actual tendered share count was lower, so “¥2tn deal size” must be labeled as the planned maximum rather than actual tender cash paid.
+- The two-thirds minimum was transaction-specific and should not be generalized to every tender offer.
+- The cited releases explain process and mechanics but do not establish post-private operating results, break-up plans, financing performance, or an exit valuation.
+- A future re-listing remains unconfirmed unless TBJH or Toshiba makes a later official disclosure.
 
 ## 11. Open Questions
 
-- What is the consortium's planned re-IPO horizon and valuation target?
-- Will Toshiba's portfolio be broken up (multiple smaller IPOs) or re-listed as a single entity?
-- Does the JIP-led template encourage more activist-pressure-driven take-privates of Japanese listed companies?
-- How will the squeeze-out appraisal litigation by dissenting shareholders ultimately resolve?
-- Will the partial-spinoff regime (now available, see [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|here]]) reduce the demand for TOB take-privates in non-activist situations?
+- Have TBJH or Toshiba published a later official ownership, restructuring, or listing update?
+- What operating changes are visible in Toshiba's post-private public releases, without inferring an undisclosed portfolio plan?
+- How do later Japanese take-privates differ when compared from issuer-by-issuer primary documents?
+- How do current tender-offer and squeeze-out rules alter the sequencing used in this 2023 case?
 
 ## Related
 
@@ -182,13 +169,14 @@ Toshiba's TOB process complied with these guidelines (special committee formed, 
 
 ## Sources
 
-- Toshiba Corporate / IR portal: https://www.global.toshiba/jp/ir/corporate.html
-- Japan Industrial Partners (JIP): https://www.jip.co.jp/en/
-- FSA English portal: https://www.fsa.go.jp/en/
-- METI Fair M&A Guidelines: https://www.meti.go.jp/policy/economy/keiei_innovation/saihen/M&A_guideline.html
-- JPX news / disclosure releases: https://www.jpx.co.jp/news/
+- Toshiba tender-offer announcements and FAQ: https://www.global.toshiba/ww/ir/corporate/tender-offer.html
+- TBJH tender-offer commencement release (2023-08-07): https://www.global.toshiba/content/dam/toshiba/ww/ir/corporate/news/20230807_4.pdf
+- Toshiba tender-offer results release (2023-09-21): https://www.global.toshiba/content/dam/toshiba/ww/ir/corporate/news/20230921_1.pdf
+- Toshiba delisting release (2023-12-19): https://www.global.toshiba/content/dam/toshiba/ww/ir/corporate/news/20231219_1.pdf
+- METI Fair M&A Guidelines portal: https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/fairma.html
+- Companies Act: https://laws.e-gov.go.jp/document?lawid=417AC0000000086
 
 ---
 
 > [!info] 校核状态
-> confidence: **likely**. TOB completion, delisting, and consortium structure are public record. Post-private restructuring details and re-IPO planning are partially disclosed. Appraisal litigation outcomes remain pending.
+> confidence: **certain** for the dated offer, result, squeeze-out, and delisting facts tied to Toshiba's releases. Post-private strategy, portfolio actions, financing outcomes, and any re-listing plan are not treated as established without later primary disclosure.

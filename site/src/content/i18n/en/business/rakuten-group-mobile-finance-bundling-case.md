@@ -1,153 +1,128 @@
 ---
 source: business/rakuten-group-mobile-finance-bundling-case
-source_hash: 5169a5b3dc46e01a
+source_hash: 30361d37018866c8
 lang: en
+model: source-language-sync
 status: machine
 fidelity: ok
-title: "Rakuten Group mobile-finance bundling case — telco cash burn cross-subsidized by card / bank / securities profits"
-translated_at: 2026-06-18T15:47:13.953Z
+title: "Rakuten ecosystem case — FinTech earnings, mobile improvement, and the planned bank-centered reorganization"
+translated_at: 2026-07-29T05:13:34.783Z
 ---
 
-# Rakuten Group mobile-finance bundling case — telco cash burn cross-subsidized by card / bank / securities profits
+# Rakuten ecosystem case — FinTech earnings, mobile improvement, and the planned bank-centered reorganization
 
 ## Wiki route
 
-This entry sits under [[business/INDEX|business INDEX]] as a public-company strategic case. Read it against [[business/ntt-docomo-d-point-telco-finance-case|NTT Docomo d-Point telco-finance case]] for the contrast pattern where telco subsidizes finance instead of the reverse, [[business/gmo-internet-group|GMO Internet Group]] for the internet-to-finance conglomerate parallel, and [[business/kitao-yoshitaka-sbi-independent-strategy-case|Kitao Yoshitaka SBI independent strategy]] for the contrasting independent-FG path. Pair with [[business/INDEX|business INDEX]] for entity coverage.
+This entry sits under [[business/INDEX|business INDEX]]. Read it with [[payment-firms/rakuten-fg|Rakuten FinTech]], [[business/mizuho-rakuten-finance-stake-accumulation-case|Mizuho × Rakuten strategic stakes]], [[banking/rakuten-bank|Rakuten Bank]], and [[business/ntt-docomo-d-point-telco-finance-case|NTT DOCOMO finance integration case]].
 
 ## TL;DR
 
-Rakuten Group (TSE 4755) operates as a conglomerate where **profitable financial subsidiaries cross-subsidize a deeply loss-making mobile network operator**. The core engine — [[card-issuers/rakuten-card|Rakuten Card]] (Japan's largest credit-card issuer by volume), [[banking/rakuten-bank|Rakuten Bank]] (Japan's largest internet bank, IPO'd 2023-04), [[securities-firms/rakuten-securities|Rakuten Securities]] (top-3 online broker), and Rakuten Insurance / Rakuten Edy — generates the operating cash that funds Rakuten Mobile's network rollout (estimated cumulative losses exceeding ¥1tn since 2019).
+Rakuten combines internet services, FinTech and mobile around a common membership and points ecosystem. FY2025 results show why investors often describe finance as a source of support for the wider group: FinTech generated ¥975.9 billion of revenue and ¥199.9 billion of Non-GAAP operating income, while the Mobile segment still recorded a ¥161.8 billion Non-GAAP operating loss. But “FinTech directly funded every yen of mobile loss” is not a disclosed cash-flow fact; group treasury, financing, segment transfers and capital expenditure must also be considered. ^[Source: https://global.rakuten.com/corp/news/press/2026/0212_01.html.]
 
-The 2023-2025 recapitalization moves — Rakuten Bank IPO, Rakuten Securities partial sale to Mizuho, and multiple straight / convertible bond placements — reveal a parent company in a slow-motion deleveraging while still trying to preserve the conglomerate logic that a mobile / e-commerce / payments / finance super-app can compound network effects unavailable to standalone competitors.
+The picture also changed materially in 2025: Rakuten Mobile achieved its first full-year EBITDA profit, while remaining loss-making at the Non-GAAP operating-income level. In May 2026, Rakuten Group and Rakuten Bank signed a definitive agreement for Rakuten Bank to place Rakuten Card and Rakuten Securities Holdings under the bank through share deliveries scheduled for 2026-10-01, subject to approvals and conditions. ^[Sources: https://global.rakuten.com/corp/news/press/2026/0212_01.html; https://global.rakuten.com/corp/news/press/2026/0520_11.html.]
 
-## 1. Group Architecture
+## 1. FY2025 evidence snapshot
 
-| Segment | Representative entity | Profit posture (2024-2025) |
+The following table uses Rakuten's FY2025 results and preserves the company's metric definitions. EBITDA, Non-GAAP operating income and IFRS operating income are not interchangeable. ^[Source: https://global.rakuten.com/corp/news/press/2026/0212_01.html.]
+
+| Metric | FY2025 result | Reading limit |
+|---|---:|---|
+| Consolidated revenue | ¥2.5 trillion | Rounded figure in the results highlight |
+| Consolidated IFRS operating income | ¥14.4 billion | Second consecutive profitable year on this measure |
+| Consolidated Non-GAAP operating income | ¥106.3 billion | Management-defined metric, ¥99.2 billion YoY improvement |
+| FinTech revenue | ¥975.9 billion | Segment revenue, up 19.0% YoY |
+| FinTech Non-GAAP operating income | ¥199.9 billion | Segment metric, up 30.3% YoY |
+| Mobile segment revenue | ¥482.8 billion | Segment scope differs from Rakuten Mobile Inc. alone |
+| Mobile segment Non-GAAP operating loss | ¥161.8 billion | Improved ¥47.1 billion YoY |
+| Mobile segment EBITDA | ¥28.8 billion | First full-year positive EBITDA for the segment |
+| Rakuten Mobile Inc. subscriptions | 10.01 million at 2025-12 end | Includes MNO, MVNE, MVNO and BCP lines under Rakuten's definition |
+
+These figures support a group-level earnings contrast, not a direct tracing of cash from a particular card or bank subsidiary to a particular mobile invoice.
+
+## 2. FinTech operating stack
+
+The table is based on Rakuten's FY2025 results and May 2026 reorganization disclosure. It separates operating role, disclosed KPI and ownership boundary. ^[Sources: https://global.rakuten.com/corp/news/press/2026/0212_01.html; https://global.rakuten.com/corp/news/press/2026/0520_11.html.]
+
+| Business | FY2025 / 2026 public marker | Ownership or reorganization boundary |
 |---|---|---|
-| Internet services | Rakuten Ichiba (e-commerce), Rakuten Travel | Profitable, mature growth |
-| Mobile | Rakuten Mobile (RMK), Rakuten Symphony | Heavy operating loss, infrastructure capex |
-| Finance | [[card-issuers/rakuten-card|Rakuten Card]], [[banking/rakuten-bank|Rakuten Bank]], [[securities-firms/rakuten-securities|Rakuten Securities]], Rakuten Pay | Highly profitable; growth + cross-sell engine |
-| Insurance | Rakuten Life, Rakuten General Insurance, Rakuten Insurance HD | Marginally profitable |
-| Loyalty | Rakuten Points (~120mn members) | Cross-segment glue |
+| [[card-issuers/rakuten-card|Rakuten Card]] | ¥26.5 trillion FY2025 shopping GTV | Planned to become a Rakuten Bank subsidiary through the October 2026 share delivery |
+| [[banking/rakuten-bank|Rakuten Bank]] | 17.63 million non-consolidated accounts and ¥13.2 trillion deposits at 2025-12 end | TSE-listed; proposed parent of the reorganized card and securities-holding businesses |
+| [[securities-firms/rakuten-securities|Rakuten Securities]] | More than 13.26 million general securities accounts at 2025-12 end | Rakuten Securities Holdings held 51%; Mizuho Securities held 49% |
+| Rakuten Payment | ¥9.5 billion FY2025 Non-GAAP operating income | Planned to remain under Rakuten Group, outside the bank-centered share delivery |
+| Rakuten Insurance Holdings / Rakuten Wallet | Excluded from the announced reorganization scope | Planned to remain 100% held by Rakuten Group |
 
-The structural pattern: financial-segment profit pays for mobile-segment loss while parent equity provides the timing bridge through capital raises.
+The architecture is therefore not “everything moves under Rakuten Bank.” Rakuten Payment, insurance and wallet businesses have explicit carve-outs in the May 2026 plan.
 
-## 2. Mobile Cash Burn — The Cross-Subsidy Constraint
+## 3. Mobile economics without overclaiming
 
-Rakuten Mobile entered the Japan MNO market in 2019-2020 as the 4th carrier, building its own 4G/5G network from scratch with a software-virtualized core (Open RAN). This required:
+Rakuten's FY2025 disclosure shows both improvement and residual risk:
 
-- Capex of multi-trillion yen across base-station rollout
-- Customer-acquisition costs (free-tier promotional pricing)
-- Operating losses while subscriber base scales below 5-6mn users (estimated breakeven scale per Rakuten disclosures)
+- Rakuten Mobile Inc. reached ¥12.9 billion of EBITDA and the Mobile segment reached ¥28.8 billion.
+- Rakuten Mobile Inc. still recorded a ¥166.0 billion Non-GAAP operating loss; the Mobile segment loss was ¥161.8 billion.
+- The company said funding for 2026 bond redemptions had been secured and described a policy of primarily self-funding Rakuten Mobile from 2026 onward.
 
-By 2024-2025, Rakuten Mobile had reached ~7-8mn lines but still ran losses. Cumulative mobile-segment losses since 2019 are widely estimated above ¥1tn.
+These facts replace the old page's unsupported estimates of cumulative losses, break-even subscriber thresholds and automatic “cross-subsidy” mechanics. ^[Sources: https://global.rakuten.com/corp/news/press/2026/0212_01.html; https://global.rakuten.com/corp/news/press/2026/0514_01.html.]
 
-## 3. Finance Profit Engine
+## 4. Capital and organization timeline
 
-| Subsidiary | Role | Cross-subsidy contribution |
+The following timeline table distinguishes completed capital actions from the scheduled FinTech reorganization. ^[Sources: https://global.rakuten.com/corp/news/press/2023/0322_01.html; https://global.rakuten.com/corp/news/press/2022/1101_01.html; https://global.rakuten.com/corp/news/assets/pdf/press/20231109_08_E.pdf; https://global.rakuten.com/corp/news/assets/pdf/press/20241113_12_E.pdf; https://global.rakuten.com/corp/news/press/2026/0520_11.html.]
+
+| Date | Action | Status / effect |
 |---|---|---|
-| **[[card-issuers/rakuten-card|Rakuten Card]]** | #1 issuer by transaction volume in Japan | Merchant interchange + revolving interest + Rakuten Points engine; >¥20tn annual handling estimated |
-| **[[banking/rakuten-bank|Rakuten Bank]]** | #1 internet bank, IPO'd 2023-04 (TSE 5838) | Net-interest income, fee income; raised cash via partial sale at IPO |
-| **[[securities-firms/rakuten-securities|Rakuten Securities]]** | Top-3 online broker (vs SBI, Matsui) | Brokerage fees, margin lending; partial-sale to Mizuho |
-| Rakuten Pay / Rakuten Edy | QR-code + prepaid e-money | Cashless ecosystem tie-in, see [[payments/cashless-jp-landscape|cashless landscape]] |
-| Rakuten Insurance HD | Life + non-life | Smaller cross-subsidy contribution |
+| 2022-11-01 | Initial Rakuten Securities share transfer to Mizuho Securities | Completed; 19.99% voting interest |
+| 2023-04-21 | Rakuten Bank listing | Completed TSE Prime listing; Rakuten Group retained control |
+| 2023-12 (under the cited agreement) | Additional Rakuten Securities transfer | Mizuho position increased to 49%, Rakuten side retained 51% |
+| 2024-11-13 | Rakuten Card / Mizuho capital alliance announced | 14.99% transfer, with Rakuten Card remaining consolidated |
+| 2026-05-20 | Definitive bank-centered FinTech reorganization agreement | Signed |
+| 2026-10-01 | Share-delivery effective date | Scheduled and conditional; not completed at this review date |
 
-The economic flywheel: e-commerce drives Card transactions → Card transactions drive Points issuance → Points lock-in drives Bank deposit acquisition + Securities account opening → all of which generate fee / interest profit that funds Mobile.
+## 5. Planned bank-centered structure
 
-## 4. 2023-2025 Recapitalization Moves
+If the transaction takes effect as announced, Rakuten Bank will become the direct parent of Rakuten Card and Rakuten Securities Holdings. Mizuho Bank is planned to receive a 10.52% voting interest in Rakuten Bank, while Mizuho Securities is expected to continue holding 49% of Rakuten Securities. Rakuten Group's planned voting-rights ratio is 49.95%, alongside non-voting Class A shares. ^[Source: https://global.rakuten.com/corp/news/press/2026/0520_11.html.]
 
-| Date | Action | Purpose |
-|---|---|---|
-| 2023-04 | Rakuten Bank IPO (TSE 5838) | Raise cash, mark equity value, retain control |
-| 2023-Q4 | Rakuten Securities partial sale to Mizuho (~19.99%) | Mizuho strategic stake + cash to parent |
-| 2024-Q1 | Multiple bond placements (straight + convertible) | Refinance bond maturity wall |
-| 2024 | Rakuten Symphony (5G-software vendor) external customer wins | Monetize tech-stack outside Rakuten |
-| 2024-2025 | Rakuten Card debt issuance / securitization | Working-capital optimization |
-| 2025 | Continued mobile subscriber growth, reduced (but still negative) mobile losses | Approach to breakeven |
+This structure should be read using at least four separate measures:
 
-Each recapitalization moves further toward turning the conglomerate from net-loss to net-positive without breaking the cross-subsidy chain.
+1. common-share ownership;
+2. Class A non-voting shares;
+3. voting-rights ratios;
+4. accounting control.
 
-## 5. Comparative Cross-Subsidy Patterns
+Collapsing them into one “Rakuten owns X%” number would be misleading.
 
-| Group | Direction of cross-subsidy | Example flow |
-|---|---|---|
-| **Rakuten** | Finance → Mobile (this case) | Card / Bank / Securities profit fills Mobile loss |
-| **NTT Docomo** | Telco → Finance (next entry) | Mobile subscriber base drives d-Point / d-Card / d-Barai growth, see [[business/ntt-docomo-d-point-telco-finance-case|d-Point case]] |
-| **KDDI / au** | Telco → Finance | au PAY / au Jibun Bank / au Insurance bundled into mobile plans |
-| **SoftBank / PayPay** | Telco + capital → Finance | [[megabanks/paypay-fg|PayPay FG]] with SoftBank backing, see [[megabanks/paypay-fg|PayPay FG]] |
-| **GMO Internet Group** | Internet infra → Finance | [[business/gmo-internet-group|GMO Internet Group]] payment / bank / FX layered on internet base |
-| **SBI Holdings** | Independent strategy | [[business/kitao-yoshitaka-sbi-independent-strategy-case|Kitao Yoshitaka SBI]] — no conglomerate cross-subsidy, finance pure-play |
+## 6. Strategic interpretation
 
-Rakuten is unique in the direction of subsidy: financial profits subsidize a loss-making telco unit, the inverse of most super-app structures globally.
+The public rationale is deeper collaboration among bank, card and securities businesses, faster decision-making and more use of the bank's deposit-gathering capability. A reasonable investor inference is that a bank-centered structure may improve capital allocation and make the FinTech group easier to finance and evaluate. It remains an inference until post-closing financial disclosures show actual funding, cost or cross-sell effects.
 
-## 6. Why The Cross-Subsidy Persists
+Likewise, mobile / FinTech bundling can lower customer-acquisition costs or increase use across services, but the results release does not prove causality for each customer or establish that points economics alone justify all mobile investment.
 
-1. **Network-effect thesis** — Mobile + e-commerce + card + bank + securities + travel + insurance + points on one ID enables compound effects unavailable to standalone competitors. (Empirical evidence mixed.)
-2. **Sunk capex** — Mobile network buildout cost is largely sunk; abandoning would write down assets and signal capital indiscipline
-3. **Loyalty / brand cohesion** — Rakuten Points as a single currency across services binds users; mobile is the "always-on" service that drives Points engagement
-4. **Founder commitment** — Mickey Mikitani (CEO / founder) has publicly committed multi-year to mobile success
-5. **Optionality** — If mobile reaches breakeven plus profit, the consolidated entity's valuation multiple expands significantly
+## 7. Monitoring points
 
-## 7. Risks To The Cross-Subsidy Model
-
-- **Financial-subsidiary cash flow disruption** — A regulatory or competitive shock to Card / Bank / Securities (e.g., capital-adequacy tightening from FSA — see [[exchanges/fsa-vasp-registration-system|FSA reach]] template) could break the funding chain
-- **Bond maturity wall** — Refinancing risk on parent-level debt if rates stay elevated
-- **Mobile competition** — Docomo / KDDI / SoftBank have superior coverage; Rakuten Mobile depends on roaming agreement economics
-- **Cross-default scenarios** — Group-wide bond covenants could trigger if mobile underperforms further
-- **Forced divestiture** — If recap moves continue, finance subsidiaries may be progressively sold (Securities → Mizuho already happened) leaving the conglomerate hollowed out
-
-## 8. Comparison: Rakuten Bank IPO vs Other Carve-Outs
-
-| Deal | Vehicle | Parent retained | Tax treatment |
-|---|---|---|---|
-| **Rakuten Bank 2023** | IPO partial sell-down | ~63% post-IPO (lockup gradual release) | Capital gain on sold portion |
-| [[business/sony-fg-partial-spinoff-case|Sony FG 2025 (planned)]] | Partial spinoff (株式分配) | <20% | Deferred under [[corporate-strategy/japan-kabushiki-bunpai-spinoff-regime|partial-spinoff regime]] |
-| [[business/softbank-vision-fund-arm-ipo-template|Arm 2023]] | IPO partial sell-down | ~90% | Capital gain on sold portion |
-
-Rakuten chose IPO over partial spinoff because the cash-raise was central to the parent's recapitalization needs, not just valuation crystallization. See [[corporate-strategy/spinoff-decision-tree-japan|spinoff decision tree Japan]] for full option set.
-
-## 9. Counterpoints
-
-- The "super-app" thesis is asserted but not empirically established at the level needed to justify mobile losses of this magnitude
-- Selling down financial subsidiaries (Bank IPO, Securities partial sale) progressively weakens the cross-subsidy engine over time
-- Mobile breakeven scale has been repeatedly pushed back — what was forecast at 6mn subscribers became 7-8mn became more
-- Competitive moat in financial subsidiaries depends on Points and e-commerce traffic; standalone valuations would be lower
-- Founder-CEO entrenchment limits the ability to discontinue Mobile rationally
-
-## 10. Open Questions
-
-- When will Rakuten Mobile reach operating breakeven, if ever?
-- Will the parent eventually have to divest mobile (sell to NTT / KDDI / SoftBank) and admit the bet failed?
-- How will progressive financial-subsidiary IPO / partial-sale moves affect Mizuho's strategic position in [[securities-firms/rakuten-securities|Rakuten Securities]]?
-- Can the Points loyalty engine sustain the cross-segment glue if any major segment is divested?
-- Will FSA increase regulatory scrutiny on Card / Bank capital adequacy given parent-level credit stress?
+- Confirm the October 2026 effective date and all regulatory / securities-registration conditions.
+- Reconcile post-closing voting rights, non-voting shares and accounting control.
+- Compare FinTech cash generation with actual parent distributions and group financing, not only segment operating profit.
+- Track mobile EBITDA, operating income, capital expenditure and free cash flow separately.
+- Keep Rakuten Payment, insurance and wallet exclusions visible in any “integrated FinTech” diagram.
 
 ## Related
 
 - [[business/INDEX|business INDEX]]
-- [[business/ntt-docomo-d-point-telco-finance-case|NTT Docomo d-Point telco-finance case]]
-- [[business/gmo-internet-group|GMO Internet Group]]
-- [[business/kitao-yoshitaka-sbi-independent-strategy-case|Kitao Yoshitaka SBI independent strategy]]
-- [[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]]
-- [[business/softbank-vision-fund-arm-ipo-template|SoftBank Vision Fund Arm IPO template]]
-- [[payment-firms/rakuten-fg|Rakuten FG]]
-- [[card-issuers/rakuten-card|Rakuten Card]]
+- [[business/mizuho-rakuten-finance-stake-accumulation-case|Mizuho × Rakuten strategic stakes]]
+- [[payment-firms/rakuten-fg|Rakuten FinTech]]
 - [[banking/rakuten-bank|Rakuten Bank]]
+- [[card-issuers/rakuten-card|Rakuten Card]]
 - [[securities-firms/rakuten-securities|Rakuten Securities]]
-- [[megabanks/paypay-fg|PayPay FG]]
-- [[payments/cashless-jp-landscape|Japan cashless payment landscape]]
-- [[corporate-strategy/spinoff-decision-tree-japan|spinoff decision tree Japan]]
+- [[business/ntt-docomo-d-point-telco-finance-case|NTT DOCOMO finance integration case]]
+- [[business/kddi-au-financial-bundling-case|KDDI / au finance case]]
 - [[INDEX|FinWiki index]]
 
 ## Sources
 
-- Rakuten Group corporate strategy: https://corp.rakuten.co.jp/about/strategy/
-- Rakuten Group Investor Relations: https://global.rakuten.com/corp/investors/
-- Rakuten Mobile network site: https://network.mobile.rakuten.co.jp/en/
-- Rakuten Group press releases: https://global.rakuten.com/corp/news/press/
-- FSA English portal: https://www.fsa.go.jp/en/
+- Rakuten Group FY2025 results highlights (2026-02-12): https://global.rakuten.com/corp/news/press/2026/0212_01.html
+- Rakuten Group Q1 FY2026 results highlights (2026-05-14): https://global.rakuten.com/corp/news/press/2026/0514_01.html
+- Rakuten, definitive FinTech reorganization agreement (2026-05-20): https://global.rakuten.com/corp/news/press/2026/0520_11.html
+- Rakuten Bank listing approval announcement (2023-03-22): https://global.rakuten.com/corp/news/press/2023/0322_01.html
 
 ---
 
-> [!info] 校核状态
-> confidence: **likely**. Conglomerate structure, segment results, and recapitalization moves are publicly disclosed in Rakuten Group IR materials and FSA / TSE filings. Forward-looking cross-subsidy sustainability is inherently forecast.
+> [!info] Verification status
+> confidence: **certain** for FY2025 metrics and announced transaction terms. The October 2026 reorganization remains scheduled and conditional. Unsupported cumulative-loss, break-even and direct cross-subsidy claims were removed.

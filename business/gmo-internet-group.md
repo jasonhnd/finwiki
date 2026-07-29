@@ -6,10 +6,10 @@ aliases:
   - "GMOインターネットグループ"
 domain: "business"
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-15
-confidence: likely
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
+confidence: certain
 tags: [business, parent-company, payments, internet-infrastructure, finance, crypto]
 status: active
 sources:
@@ -34,6 +34,8 @@ The group should be read as **internet infrastructure extended into regulated fi
 
 ## Group Map
 
+The following table uses GMO Internet Group's official business classification and the named entities' official company materials; it describes representative routes rather than a complete legal-entity chart. ^[Sources: https://www.gmo.jp/en/company-profile/business/; https://ir.group.gmo/assets/pdf/en/integrated-report_2025.pdf; https://www.gmo-pg.com/en/corp/company-management/; https://gmo-aozora.com/company/outline.html.]
+
 | Layer | Representative entity / asset | JapanFG relevance |
 |---|---|---|
 | Internet infrastructure | Domains, hosting, cloud, security, ecommerce infrastructure | Recurring technology base and merchant relationships |
@@ -57,6 +59,8 @@ That combination makes GMO a bridge between [[payments/cashless-jp-landscape|cas
 
 ## Finance / License Stack
 
+This table separates operating activity from the relevant regulated or control boundary. The GMO Aozora row does not imply that GMO alone controls the bank: the bank's 2026-02-20 outline reports Aozora Bank with 85.12% of voting rights and the two GMO shareholders with 7.43% each. ^[Sources: https://www.gmo.jp/en/company-profile/business/; https://gmo-aozora.com/company/outline.html; https://www.gmo-pg.com/en/corp/company-management/.]
+
 | Activity | Regulated or control layer | Related route |
 |---|---|---|
 | Merchant payment gateway | Card acquiring contracts, PCI DSS, settlement, installment-sales / card-number handling boundary | [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]] |
@@ -77,6 +81,8 @@ GMO's pattern is a **regulated-adjacent internet conglomerate**:
 This is why [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]] can be more strategically important than its consumer visibility suggests: it is the merchant-side control point for card, code payment, convenience-store payment, bank transfer, and other checkout methods.
 
 ## Competitive Context
+
+The peer table is an analytical comparison of the group business boundaries disclosed by GMO and the linked FinWiki entity profiles; it does not state market-share rankings or identical licenses. ^[Sources: https://www.gmo.jp/en/company-profile/business/; https://ir.group.gmo/assets/pdf/en/integrated-report_2025.pdf.]
 
 | Competitor / peer | GMO contrast |
 |---|---|
@@ -99,7 +105,8 @@ This is why [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]] can be mor
 
 ## Sources
 
-- GMO Internet Group official company profile and business operations pages.
-- GMO Internet Group Integrated Report 2025.
-- GMO Payment Gateway official corporate profile.
-- GMO Aozora Net Bank official company outline.
+- GMO Internet Group official company profile: https://www.gmo.jp/en/company-profile/
+- GMO Internet Group business operations: https://www.gmo.jp/en/company-profile/business/
+- GMO Internet Group Integrated Report 2025: https://ir.group.gmo/assets/pdf/en/integrated-report_2025.pdf
+- GMO Payment Gateway corporate materials: https://www.gmo-pg.com/en/corp/company-management/
+- GMO Aozora Net Bank company outline: https://gmo-aozora.com/company/outline.html
