@@ -15,7 +15,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 64 |
+| Changed or new entries in current worktree | 0 |
 | canonical_anchor declarations checked (informational) | 12 |
 | canonical_anchor drift (informational, non-gating) | 0 |
 
@@ -41,70 +41,6 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `card-issuers/aeon-bank.md` | `M` | 22 | ok |
-| `card-issuers/aeon-financial-service-detail.md` | `M` | 3 | ok |
-| `card-issuers/aeon-financial-service.md` | `M` | 16 | ok |
-| `card-issuers/aplus.md` | `M` | 9 | ok |
-| `card-issuers/credit-saison.md` | `M` | 8 | ok |
-| `card-issuers/epos-card.md` | `M` | 10 | ok |
-| `card-issuers/installment-sales-act-2020-amendment.md` | `M` | 15 | ok |
-| `card-issuers/jaccs.md` | `M` | 19 | ok |
-| `card-issuers/jal-card.md` | `M` | 23 | ok |
-| `card-issuers/jcb.md` | `M` | 6 | ok |
-| `card-issuers/jr-east-financial.md` | `M` | 5 | ok |
-| `card-issuers/life-card.md` | `M` | 14 | ok |
-| `card-issuers/mufg-nicos.md` | `M` | 14 | ok |
-| `card-issuers/orico.md` | `M` | 19 | ok |
-| `card-issuers/paypay-card.md` | `M` | 9 | ok |
-| `card-issuers/pocket-card.md` | `M` | 10 | ok |
-| `card-issuers/rakuten-card.md` | `M` | 8 | ok |
-| `card-issuers/seven-card-service.md` | `M` | 7 | ok |
-| `card-issuers/shizugin-card.md` | `M` | 50 | ok |
-| `card-issuers/smbc-card.md` | `M` | 8 | ok |
-| `card-issuers/toyota-finance.md` | `M` | 9 | ok |
-| `card-issuers/ucs-card.md` | `M` | 6 | ok |
-| `card-issuers/view-card.md` | `M` | 11 | ok |
-| `consumer-finance/acom-co-detail.md` | `M` | 12 | ok |
-| `consumer-finance/acom.md` | `M` | 20 | ok |
-| `consumer-finance/aiful.md` | `M` | 17 | ok |
-| `consumer-finance/shinsei-financial.md` | `M` | 12 | ok |
-| `consumer-finance/smbc-consumer-finance.md` | `M` | 12 | ok |
-| `leasing-firms/chibagin-leasing.md` | `M` | 40 | ok |
-| `leasing-firms/fuyo-lease.md` | `M` | 12 | ok |
-| `leasing-firms/hitachi-capital.md` | `M` | 18 | ok |
-| `leasing-firms/hokkaido-lease.md` | `M` | 10 | ok |
-| `leasing-firms/ibj-leasing.md` | `M` | 16 | ok |
-| `leasing-firms/iyogin-leasing.md` | `M` | 45 | ok |
-| `leasing-firms/kanematsu-leasing.md` | `M` | 15 | ok |
-| `leasing-firms/mebuki-lease.md` | `M` | 44 | ok |
-| `leasing-firms/mitsubishi-hc-capital.md` | `M` | 11 | ok |
-| `leasing-firms/nec-capital-solutions.md` | `M` | 10 | ok |
-| `leasing-firms/nec-leasing.md` | `M` | 11 | ok |
-| `leasing-firms/ntt-tc-lease.md` | `M` | 12 | ok |
-| `leasing-firms/orix-corp.md` | `M` | 3 | ok |
-| `leasing-firms/ricoh-leasing.md` | `M` | 12 | ok |
-| `leasing-firms/showa-leasing.md` | `M` | 12 | ok |
-| `leasing-firms/smfl.md` | `M` | 12 | ok |
-| `leasing-firms/tokyo-century-detail.md` | `M` | 10 | ok |
-| `leasing-firms/tokyo-century.md` | `M` | 7 | ok |
-| `leasing-firms/toyota-financial.md` | `M` | 7 | ok |
-| `leasing-firms/yamaguchi-leasing.md` | `M` | 51 | ok |
-| `leasing-firms/yokohama-bank-leasing.md` | `M` | 7 | ok |
-| `loyalty/au-pay-loyalty-ecosystem-deep.md` | `M` | 23 | ok |
-| `loyalty/d-point-au-kddi-docomo-telco-point-consolidation.md` | `M` | 27 | ok |
-| `loyalty/d-point-detailed-ecosystem.md` | `M` | 10 | ok |
-| `loyalty/jal-mileage-bank-vs-ana-mileage-club-comparison.md` | `M` | 17 | ok |
-| `loyalty/japan-points-landscape.md` | `M` | 19 | ok |
-| `loyalty/jre-point-and-jre-bank-ecosystem.md` | `M` | 30 | ok |
-| `loyalty/point-exchange-network-risk.md` | `M` | 13 | ok |
-| `loyalty/point-liability-accounting-boundary.md` | `M` | 5 | ok |
-| `loyalty/point-program-unit-economics.md` | `M` | 22 | ok |
-| `loyalty/ponta-points-deep-dive.md` | `M` | 13 | ok |
-| `loyalty/rakuten-point-ecosystem-deep.md` | `M` | 26 | ok |
-| `loyalty/retail-media-points-data-loop.md` | `M` | 21 | ok |
-| `loyalty/sb-yahoo-paypay-points-unified-ecosystem.md` | `M` | 13 | ok |
-| `loyalty/t-point-v-point-post-2024-merger.md` | `M` | 11 | ok |
-| `loyalty/v-point-smbc-ccc-case.md` | `M` | 16 | ok |
 
 ## Domain Snapshot
 

@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-07-29T17:20:34+09:00",
+  "generated_at": "2026-07-29T17:23:27+09:00",
   "counts": {
     "markdown_files": 1604,
     "public_markdown_pages": 1603,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1489,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 11001092,
-    "word_like_tokens": 1772025,
+    "nonspace_utf8_chars": 10998109,
+    "word_like_tokens": 1771473,
     "entity_anchors": 12,
     "entity_mirror_pages": 12,
     "entity_nodes": 89,
@@ -11956,7 +11956,7 @@
       "entity_edges": [],
       "nonspace_chars": 6054,
       "word_like_tokens": 992,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/aeon-financial-service-detail.md",
@@ -12002,7 +12002,7 @@
       "entity_edges": [],
       "nonspace_chars": 3004,
       "word_like_tokens": 540,
-      "last_modified": "2026-06-24"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/aeon-financial-service.md",
@@ -12067,7 +12067,7 @@
       "entity_edges": [],
       "nonspace_chars": 3414,
       "word_like_tokens": 510,
-      "last_modified": "2026-06-22"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/aplus.md",
@@ -12128,7 +12128,7 @@
       "entity_edges": [],
       "nonspace_chars": 2451,
       "word_like_tokens": 380,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/credit-saison.md",
@@ -12189,7 +12189,7 @@
       "entity_edges": [],
       "nonspace_chars": 4527,
       "word_like_tokens": 715,
-      "last_modified": "2026-06-22"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/epos-card.md",
@@ -12246,7 +12246,7 @@
       "entity_edges": [],
       "nonspace_chars": 2885,
       "word_like_tokens": 426,
-      "last_modified": "2026-06-05"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/installment-sales-act-2020-amendment.md",
@@ -12301,7 +12301,7 @@
       "entity_edges": [],
       "nonspace_chars": 5195,
       "word_like_tokens": 707,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/jaccs.md",
@@ -12360,7 +12360,7 @@
       "entity_edges": [],
       "nonspace_chars": 4524,
       "word_like_tokens": 698,
-      "last_modified": "2026-06-22"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/jal-card.md",
@@ -12431,7 +12431,7 @@
       "entity_edges": [],
       "nonspace_chars": 5194,
       "word_like_tokens": 929,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/jcb.md",
@@ -12493,7 +12493,7 @@
       "entity_edges": [],
       "nonspace_chars": 5000,
       "word_like_tokens": 814,
-      "last_modified": "2026-06-22"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/jr-east-financial.md",
@@ -12549,7 +12549,7 @@
       "entity_edges": [],
       "nonspace_chars": 3631,
       "word_like_tokens": 653,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/life-card.md",
@@ -12606,7 +12606,7 @@
       "entity_edges": [],
       "nonspace_chars": 2909,
       "word_like_tokens": 437,
-      "last_modified": "2026-06-05"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/mufg-nicos.md",
@@ -12667,7 +12667,7 @@
       "entity_edges": [],
       "nonspace_chars": 3318,
       "word_like_tokens": 506,
-      "last_modified": "2026-06-22"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/orico.md",
@@ -12738,7 +12738,7 @@
       "entity_edges": [],
       "nonspace_chars": 6238,
       "word_like_tokens": 960,
-      "last_modified": "2026-06-22"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/paypay-card.md",
@@ -12803,7 +12803,7 @@
       "entity_edges": [],
       "nonspace_chars": 2578,
       "word_like_tokens": 386,
-      "last_modified": "2026-06-26"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/pocket-card.md",
@@ -12860,7 +12860,7 @@
       "entity_edges": [],
       "nonspace_chars": 3134,
       "word_like_tokens": 485,
-      "last_modified": "2026-06-05"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/rakuten-card.md",
@@ -12923,7 +12923,7 @@
       "entity_edges": [],
       "nonspace_chars": 2637,
       "word_like_tokens": 418,
-      "last_modified": "2026-06-22"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/seven-card-service.md",
@@ -12981,7 +12981,7 @@
       "entity_edges": [],
       "nonspace_chars": 2445,
       "word_like_tokens": 388,
-      "last_modified": "2026-06-26"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/shizugin-card.md",
@@ -13108,7 +13108,7 @@
       "entity_edges": [],
       "nonspace_chars": 8460,
       "word_like_tokens": 1299,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/smbc-card.md",
@@ -13167,7 +13167,7 @@
       "entity_edges": [],
       "nonspace_chars": 2695,
       "word_like_tokens": 397,
-      "last_modified": "2026-06-26"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/toyota-finance.md",
@@ -13220,7 +13220,7 @@
       "entity_edges": [],
       "nonspace_chars": 3233,
       "word_like_tokens": 508,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/ucs-card.md",
@@ -13277,7 +13277,7 @@
       "entity_edges": [],
       "nonspace_chars": 2157,
       "word_like_tokens": 344,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "card-issuers/view-card.md",
@@ -13341,7 +13341,7 @@
       "entity_edges": [],
       "nonspace_chars": 3854,
       "word_like_tokens": 670,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "consumer-finance/INDEX.md",
@@ -13462,7 +13462,7 @@
       "entity_edges": [],
       "nonspace_chars": 4739,
       "word_like_tokens": 767,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "consumer-finance/acom.md",
@@ -13533,7 +13533,7 @@
       "entity_edges": [],
       "nonspace_chars": 7699,
       "word_like_tokens": 1282,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "consumer-finance/aiful.md",
@@ -13599,7 +13599,7 @@
       "entity_edges": [],
       "nonspace_chars": 6479,
       "word_like_tokens": 1004,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "consumer-finance/shinsei-financial.md",
@@ -13654,7 +13654,7 @@
       "entity_edges": [],
       "nonspace_chars": 3266,
       "word_like_tokens": 499,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "consumer-finance/smbc-consumer-finance.md",
@@ -13709,7 +13709,7 @@
       "entity_edges": [],
       "nonspace_chars": 2948,
       "word_like_tokens": 460,
-      "last_modified": "2026-06-05"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "cooperative-banks/INDEX.md",
@@ -53005,7 +53005,7 @@
       "entity_edges": [],
       "nonspace_chars": 7082,
       "word_like_tokens": 1094,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "leasing-firms/fuyo-lease.md",
@@ -53062,7 +53062,7 @@
       "entity_edges": [],
       "nonspace_chars": 3666,
       "word_like_tokens": 619,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "leasing-firms/hitachi-capital.md",
@@ -53127,7 +53127,7 @@
       "entity_edges": [],
       "nonspace_chars": 4196,
       "word_like_tokens": 687,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "leasing-firms/hokkaido-lease.md",
@@ -53185,7 +53185,7 @@
       "entity_edges": [],
       "nonspace_chars": 3490,
       "word_like_tokens": 520,
-      "last_modified": "2026-06-24"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "leasing-firms/ibj-leasing.md",
@@ -53244,7 +53244,7 @@
       "entity_edges": [],
       "nonspace_chars": 3547,
       "word_like_tokens": 618,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "leasing-firms/iyogin-leasing.md",
@@ -53359,7 +53359,7 @@
       "entity_edges": [],
       "nonspace_chars": 7541,
       "word_like_tokens": 1188,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "leasing-firms/kanematsu-leasing.md",
@@ -53417,7 +53417,7 @@
       "entity_edges": [],
       "nonspace_chars": 3149,
       "word_like_tokens": 491,
-      "last_modified": "2026-06-24"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "leasing-firms/mebuki-lease.md",
@@ -53499,7 +53499,7 @@
       "entity_edges": [],
       "nonspace_chars": 8945,
       "word_like_tokens": 1499,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "leasing-firms/mitsubishi-hc-capital.md",
@@ -53555,7 +53555,7 @@
       "entity_edges": [],
       "nonspace_chars": 2935,
       "word_like_tokens": 440,
-      "last_modified": "2026-06-05"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "leasing-firms/mizuho-lease.md",
@@ -53676,7 +53676,7 @@
       "entity_edges": [],
       "nonspace_chars": 4887,
       "word_like_tokens": 872,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "leasing-firms/nec-leasing.md",
@@ -53738,7 +53738,7 @@
       "entity_edges": [],
       "nonspace_chars": 3869,
       "word_like_tokens": 673,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "leasing-firms/ntt-tc-lease.md",
@@ -53801,7 +53801,7 @@
       "entity_edges": [],
       "nonspace_chars": 4265,
       "word_like_tokens": 674,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "leasing-firms/orix-corp.md",
@@ -53861,7 +53861,7 @@
       "entity_edges": [],
       "nonspace_chars": 4789,
       "word_like_tokens": 806,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "leasing-firms/ricoh-leasing.md",
@@ -53919,7 +53919,7 @@
       "entity_edges": [],
       "nonspace_chars": 3558,
       "word_like_tokens": 591,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "leasing-firms/showa-leasing.md",
@@ -53979,7 +53979,7 @@
       "entity_edges": [],
       "nonspace_chars": 3507,
       "word_like_tokens": 564,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "leasing-firms/smfl.md",
@@ -54038,7 +54038,7 @@
       "entity_edges": [],
       "nonspace_chars": 4634,
       "word_like_tokens": 688,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "leasing-firms/sumitomo-mitsui-auto-service.md",
@@ -54177,7 +54177,7 @@
       "entity_edges": [],
       "nonspace_chars": 4724,
       "word_like_tokens": 731,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "leasing-firms/tokyo-century.md",
@@ -54235,7 +54235,7 @@
       "entity_edges": [],
       "nonspace_chars": 3991,
       "word_like_tokens": 626,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "leasing-firms/toyota-financial.md",
@@ -54411,7 +54411,7 @@
       "entity_edges": [],
       "nonspace_chars": 7845,
       "word_like_tokens": 1247,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "leasing-firms/yokohama-bank-leasing.md",
@@ -54481,7 +54481,7 @@
       "entity_edges": [],
       "nonspace_chars": 3556,
       "word_like_tokens": 510,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "life-insurers/INDEX.md",
@@ -57370,7 +57370,7 @@
       "entity_edges": [],
       "nonspace_chars": 15196,
       "word_like_tokens": 2596,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "loyalty/d-point-au-kddi-docomo-telco-point-consolidation.md",
@@ -57445,7 +57445,7 @@
       "entity_edges": [],
       "nonspace_chars": 13831,
       "word_like_tokens": 2369,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "loyalty/d-point-detailed-ecosystem.md",
@@ -57539,7 +57539,7 @@
       "entity_edges": [],
       "nonspace_chars": 13595,
       "word_like_tokens": 2356,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "loyalty/jal-mileage-bank-vs-ana-mileage-club-comparison.md",
@@ -57622,7 +57622,7 @@
       "entity_edges": [],
       "nonspace_chars": 15101,
       "word_like_tokens": 2529,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "loyalty/japan-points-landscape.md",
@@ -57702,7 +57702,7 @@
       "entity_edges": [],
       "nonspace_chars": 7301,
       "word_like_tokens": 1208,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "loyalty/jre-point-and-jre-bank-ecosystem.md",
@@ -57791,7 +57791,7 @@
       "entity_edges": [],
       "nonspace_chars": 13818,
       "word_like_tokens": 2386,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "loyalty/point-economy-funding-source-comparison.md",
@@ -57943,7 +57943,7 @@
       "entity_edges": [],
       "nonspace_chars": 9143,
       "word_like_tokens": 1456,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "loyalty/point-liability-accounting-boundary.md",
@@ -58013,7 +58013,7 @@
       "entity_edges": [],
       "nonspace_chars": 9211,
       "word_like_tokens": 1504,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "loyalty/point-program-unit-economics.md",
@@ -58093,7 +58093,7 @@
       "entity_edges": [],
       "nonspace_chars": 12065,
       "word_like_tokens": 1993,
-      "last_modified": "2026-06-15"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "loyalty/ponta-points-deep-dive.md",
@@ -58184,7 +58184,7 @@
       "entity_edges": [],
       "nonspace_chars": 11793,
       "word_like_tokens": 1958,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "loyalty/rakuten-point-ecosystem-deep.md",
@@ -58268,7 +58268,7 @@
       "entity_edges": [],
       "nonspace_chars": 9347,
       "word_like_tokens": 1564,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "loyalty/retail-media-points-data-loop.md",
@@ -58349,7 +58349,7 @@
       "entity_edges": [],
       "nonspace_chars": 9662,
       "word_like_tokens": 1639,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "loyalty/sb-yahoo-paypay-points-unified-ecosystem.md",
@@ -58531,7 +58531,7 @@
       "entity_edges": [],
       "nonspace_chars": 12463,
       "word_like_tokens": 2107,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "loyalty/v-point-smbc-ccc-case.md",
@@ -58610,7 +58610,7 @@
       "entity_edges": [],
       "nonspace_chars": 7905,
       "word_like_tokens": 1392,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "manufacturer-finance/INDEX.md",
@@ -106485,8 +106485,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6358,
-      "word_like_tokens": 1178,
+      "nonspace_chars": 3375,
+      "word_like_tokens": 626,
       "last_modified": "2026-07-29"
     }
   ]
