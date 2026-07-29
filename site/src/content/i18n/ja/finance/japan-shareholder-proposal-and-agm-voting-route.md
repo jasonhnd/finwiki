@@ -1,11 +1,11 @@
 ---
 source: finance/japan-shareholder-proposal-and-agm-voting-route
-source_hash: 168e5487f7ad9da3
+source_hash: bdaa850cfdfb9e17
 lang: ja
 status: machine
 fidelity: ok
 title: "日本の株主提案・株主総会議決権行使ルート"
-translated_at: 2026-06-18T23:59:13.125Z
+translated_at: 2026-07-29T14:32:12.538Z
 ---
 
 # 日本の株主提案・株主総会議決権行使ルート
@@ -17,6 +17,8 @@ translated_at: 2026-06-18T23:59:13.125Z
 本ページは [[finance/INDEX|finance domain]] に属し、[[finance/japan-activist-investor-playbook|Japan activist investor playbook]]・[[finance/japan-large-shareholding-disclosure|large-shareholding disclosure]]・[[finance/japan-fair-disclosure-and-insider-trading-controls|fair disclosure and insider trading controls]]・[[finance/japan-mbo-and-squeeze-out-process|Japan MBO and squeeze-out process]]・[[finance/japan-tender-offer-process|Japan tender offer process]]・[[securities/tokyo-stock-exchange|Tokyo Stock Exchange]]・[[financial-regulators/japan-exchange-group|Japan Exchange Group]] にリンクする。
 
 ## ルートマップ
+
+出典: 本表は [会社法](https://www.japaneselawtranslation.go.jp/en/laws/view/4481/en)と [JPX コーポレートガバナンス資料](https://www.jpx.co.jp/equities/listing/cg/index.html)に従う。会社固有の日程と議決権行使方法は、発行体の招集通知で確認しなければならない。
 
 | レイヤー | 公開ソースルート | 公開記録フィールド |
 |---|---|---|
@@ -30,6 +32,8 @@ translated_at: 2026-06-18T23:59:13.125Z
 | 議決結果 | 発行体開示 / TDnet / ガバナンス資料 | 賛成比率、議案の結果、取締役選任結果。 |
 
 ## 会社法フィールド
+
+出典: 本表の各行は [会社法](https://www.japaneselawtranslation.go.jp/en/laws/view/4481/en)に対応する。株主総会日に施行されている条文と法定例外が優先する。
 
 | 条文 | 公開フィールド |
 |---|---|
@@ -48,6 +52,8 @@ translated_at: 2026-06-18T23:59:13.125Z
 
 ## 株主総会資料ルート
 
+出典: 本表は [会社法](https://www.japaneselawtranslation.go.jp/en/laws/view/4481/en)と [JPX コーポレートガバナンス資料](https://www.jpx.co.jp/equities/listing/cg/index.html)に基づく文書検索チェックリストであり、すべての発行体がすべての議決権行使チャネルを採用するとの主張ではない。
+
 | 公開資料 | 記録フィールド |
 |---|---|
 | 招集通知 | 総会日、場所 / 形式、議題、議決権行使期限、議決権行使方法。 |
@@ -61,6 +67,8 @@ translated_at: 2026-06-18T23:59:13.125Z
 
 JPX の適時開示ガイドブック資料は、コーポレートガバナンス報告書ルートにおける上場会社の株主総会 / 議決権行使円滑化フィールドを示している。ソースパックは以下の公開開示項目を記録した：
 
+出典: 本表は [JPX 適時開示ガイドブック](https://www.jpx.co.jp/english/equities/listing/disclosure/guidebook/dh3otn0000000xbv-att/Guidebook.pdf)と最新の [JPX コーポレートガバナンス資料](https://www.jpx.co.jp/equities/listing/cg/index.html)に従う。
+
 | JPX ガバナンス報告書項目 | 公開フィールド |
 |---|---|
 | 招集通知の早期発送 | 招集通知の公表の時期と方法。 |
@@ -71,6 +79,8 @@ JPX の適時開示ガイドブック資料は、コーポレートガバナン�
 | その他の円滑化措置 | 発行体が開示するその他の株主総会円滑化項目。 |
 
 ## 公開記録フィールド
+
+出典: 本表は、[会社法](https://www.japaneselawtranslation.go.jp/en/laws/view/4481/en)、発行体の招集通知、および [JPX コーポレートガバナンス資料](https://www.jpx.co.jp/equities/listing/cg/index.html)を確認するための検索チェックリストである。各株主総会については発行体の提出書類が優先する。
 
 | フィールド | ソースルート |
 |---|---|

@@ -11,29 +11,32 @@ aliases:
   - "Japan bond-type GK-TK"
 domain: real-estate-finance
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
 confidence: likely
 tags: [real-estate-finance, securitization, gk-tk, tmk, spv, offshore-feeder, japan]
 status: active
 sources:
-  - "https://www.ares.or.jp/en/"
-  - "https://www.jpx.co.jp/english/markets/products/securitized/"
-  - "https://www.fsa.go.jp/en/"
-  - "https://elaws.e-gov.go.jp/"
-  - "https://www.nta.go.jp/english/"
+  - "https://elaws.e-gov.go.jp/document?lawid=417AC0000000086"
+  - "https://elaws.e-gov.go.jp/document?lawid=132AC0000000048"
+  - "https://elaws.e-gov.go.jp/document?lawid=410AC0000000105"
+  - "https://elaws.e-gov.go.jp/document?lawid=323AC0000000025"
+  - "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/14/14_01_01.htm"
+  - "https://www.nta.go.jp/law/shitsugi/hyoka/08/06.htm"
+  - "https://www.mof.go.jp/english/policy/tax_policy/tax_conventions/tax_convetion_list_en.html"
+  - "https://www.ifrs.org/issued-standards/list-of-standards/ifrs-10-consolidated-financial-statements/"
 ---
 
 # GK-TK bond real-estate SPV
 
 ## TL;DR
 
-The GK-TK structure (合同会社 + 匿名組合) is the dominant private-SPV vehicle for Japanese real-estate investment by professional and foreign investors. A 合同会社 (GK — Japanese LLC) is the legal-entity layer that holds the asset (typically a 信託受益権 on the underlying real estate), and the 匿名組合 (TK — silent partnership) is the contractual layer through which investors provide capital to the GK in return for profit-distribution rights without becoming members of the GK. The bond-type GK-TK variant (社債型) additionally issues 社債 (corporate bonds) at the GK level, giving senior debt investors a clean bond claim that is bankruptcy-remote from TK equity. The structure is widely used because (a) TK distributions are deductible at the GK level if conditions are met, producing pass-through-like tax efficiency; (b) the GK form is bankruptcy-remote and cheap to set up compared to a TMK ([[real-estate-finance/japan-cmbs-rmbs-securitization|specified-purpose company]]); (c) foreign LP can invest through an offshore feeder into the TK layer without becoming a Japan-tax-resident; and (d) it is flexible across [[real-estate-finance/real-estate-bridge-fund-japan|bridge fund]], private [[real-estate-finance/j-reit-market-overview|REIT]] feeder, single-asset deal, and foreign-direct-investment use cases.
+GK-TK (合同会社 + 匿名組合) is a private-SPV arrangement used in Japanese real-estate transactions. A 合同会社 (GK) is the legal-entity layer, while a 商法-based 匿名組合 (TK) is a contract under which an investor contributes to the operator's business and receives the contractually allocated result without becoming a GK member merely by holding the TK interest. A bond-type variant may add GK-issued 社債; priority, security, transferability, and insolvency outcomes depend on the actual bond, security, intercreditor, and governance documents. Corporate-tax allocation under a TK, foreign-investor withholding/PE/treaty treatment, and bankruptcy remoteness are fact-specific and must not be inferred from the vehicle label. This page is a legal/tax routing aid, not advice.
 
 ## Wiki route
 
-This entry sits under [[real-estate-finance/INDEX|real-estate-finance index]] and is the legal-vehicle routing page for Japanese real-estate SPV structures. Read it together with [[real-estate-finance/j-reit-market-overview|J-REIT market overview]] for the listed-equity vehicle, with [[real-estate-finance/private-reit-japan-vs-listed-j-reit-comparison|private REIT vs listed J-REIT comparison]] for the private-fund alternative, with [[real-estate-finance/real-estate-bridge-fund-japan|real-estate bridge fund]] for the dominant bridge-vehicle use case, with [[real-estate-finance/japan-cmbs-rmbs-securitization|Japan CMBS / RMBS securitization]] for the related securitization route (which often uses TMK rather than GK-TK), and with [[real-estate-finance/japan-real-estate-appraisal-methodology|Japan real-estate appraisal methodology]] for the asset-valuation inputs. Pair with [[banking/japan-master-trust-and-custody-bank-landscape|Japan master-trust and custody bank landscape]] for the trustee infrastructure that holds the underlying 信託受益権, with [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]] for the operating split, and with [[banking/master-trust-bank-operating-model|master trust bank operating model]] for the asset-administration backstop. Cross-domain anchors: [[insurance/japan-life-insurance-alm-overview|Japan life insurance ALM overview]] is the senior-bond buyer at the GK-社債 layer; [[policy-finance/japan-housing-finance-agency|JHF]] is not in this commercial-real-estate vehicle chain but [[policy-finance/INDEX|policy-finance index]] is the parallel public-credit reference; and [[finance/INDEX|finance index]] holds the corporate-finance-vehicle context.
+This entry sits under [[real-estate-finance/INDEX|real-estate-finance index]] and routes to possible Japanese real-estate SPV structures without ranking their prevalence. [[real-estate-finance/j-reit-market-overview|J-REIT market overview]], [[real-estate-finance/private-reit-japan-vs-listed-j-reit-comparison|private REIT vs listed J-REIT comparison]], [[real-estate-finance/real-estate-bridge-fund-japan|real-estate bridge fund]], [[real-estate-finance/japan-cmbs-rmbs-securitization|Japan CMBS / RMBS securitization]], and [[real-estate-finance/japan-real-estate-appraisal-methodology|Japan real-estate appraisal methodology]] are adjacent routes, not evidence that a bridge uses GK-TK, CMBS uses TMK, or an appraisal input applies. Likewise, [[banking/japan-master-trust-and-custody-bank-landscape|Japan master-trust and custody bank landscape]], [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]], [[banking/master-trust-bank-operating-model|master trust bank operating model]], [[insurance/japan-life-insurance-alm-overview|Japan life insurance ALM overview]], [[policy-finance/japan-housing-finance-agency|JHF]], [[policy-finance/INDEX|policy-finance index]], and [[finance/INDEX|finance index]] are contextual only; verify the actual trustee, investor, and vehicle chain from the transaction documents.
 
 ### Two layers, one vehicle
 
@@ -42,25 +45,29 @@ This entry sits under [[real-estate-finance/INDEX|real-estate-finance index]] an
 | GK (合同会社) | Japanese LLC under 会社法 | Legal entity that holds the asset; bears the contracts; has the bank account; can issue 社債 (bonds) |
 | TK (匿名組合) | Silent partnership under 商法 | Contractual capital-provision structure; TK investor provides capital to GK and receives profit-distribution rights, without becoming a GK member |
 
+Table source note: The GK row is grounded in the Companies Act and the TK row in Commercial Code Articles 535 onward. The table states legal forms only; it does not establish tax, regulatory, or insolvency outcomes for a deal. ^[Sources: https://elaws.e-gov.go.jp/document?lawid=417AC0000000086 and https://elaws.e-gov.go.jp/document?lawid=132AC0000000048.]
+
 The GK-TK combination produces a vehicle that:
 
 1. has a legal entity (the GK) capable of holding 信託受益権, owning bank accounts, signing contracts, and issuing 社債;
 2. has investors (TK investors) who are not legally members of the GK and are not on the public register;
-3. allows the GK to deduct TK distributions for tax purposes if TK-distribution conditions are met under National Tax Agency rules, producing pass-through-like tax economics;
-4. is bankruptcy-remote — the TK investors' loss is capped at their TK contribution, and the GK is structured to ring-fence the asset.
+3. allocates TK profit or loss under the contract, with the operator's and investor's tax calculations governed by applicable law and NTA guidance; and
+4. can include separateness, limited-purpose, security, and governance covenants, but “bankruptcy remote” is a structuring objective rather than an automatic consequence of using a GK or TK.
 
 ### Why GK and not KK or LLP
 
+Table source note: This is a legal-form comparison, not a universal cost or suitability ranking. Verify the Companies Act and the separate LLP/LPS statutes before selecting a vehicle. ^[Sources: https://elaws.e-gov.go.jp/document?lawid=417AC0000000086, https://elaws.e-gov.go.jp/document?lawid=417AC0000000040, and https://elaws.e-gov.go.jp/document?lawid=410AC0000000090.]
+
 | Form | Why not for this use case |
 |---|---|
-| 株式会社 (KK) | Member register (株主名簿) is mandatory and disclosed in some contexts; higher set-up cost; no inherent tax-deductibility benefit; less flexible |
-| 合資会社 / 合名会社 (general / limited partnership) | Members bear unlimited or partial liability; not suitable for clean SPV structure |
-| 有限責任事業組合 (LLP / 投資事業有限責任組合) | Distinct purpose; LPS used for private-equity funds, not for asset-holding SPV |
-| 合同会社 (GK) | Limited liability, simple governance (no shareholder meeting structure needed), low set-up cost, can issue 社債, suits the SPV role |
+| 株式会社 (KK) | Has a different statutory governance and equity framework; suitability and cost are transaction-specific, and a shareholder register is not by itself a general public beneficial-owner register |
+| 合資会社 / 合名会社 | At least one member bears unlimited liability under the applicable company form, which may not match a limited-purpose SPV design |
+| 有限責任事業組合 (LLP) / 投資事業有限責任組合 (LPS) | Separate statutory partnership regimes with different formation, business, governance, and investor rules; neither is interchangeable with a GK merely because all can be used in investment structures |
+| 合同会社 (GK) | Companies Act company form with limited-liability members and flexible internal governance; whether it suits an SPV depends on the full legal, tax, regulatory, and financing design |
 
 ### The 信託受益権 layer
 
-The GK typically does not hold the real estate directly. Instead:
+A transaction may place real estate in trust and have the GK hold the beneficial interest, or may use another permitted holding route. The following diagram is illustrative only:
 
 ```
 Investors (TK + senior bondholders + mezzanine if any)
@@ -80,57 +87,61 @@ Investors (TK + senior bondholders + mezzanine if any)
 
 Reasons for the 信託受益権 layer:
 
-1. **Asset transferability** — beneficial-trust-interest can be transferred by simple notification to the trust-bank rather than by real-estate registration (which carries 登録免許税 and other transfer costs).
-2. **Stamp-duty / 不動産取得税 efficiency** — transfers of 信託受益権 are subject to lower transaction costs than transfers of real estate title.
-3. **Bankruptcy remoteness** — the trust-bank holding title isolates the asset from the GK's other creditors.
-4. **Operational standardization** — the trust-bank provides standardized rental-income collection, expense-payment, and reporting.
+1. **Transfer mechanics** — a beneficial interest follows the trust documents and applicable perfection/notification rules rather than direct-title conveyancing; requirements remain transaction-specific.
+2. **Tax and cost analysis** — registration, acquisition, stamp, and other taxes/costs differ by asset and transfer form and require current specialist calculation.
+3. **Asset segregation objective** — legal title at the trustee and the trust terms can support segregation, but do not justify an automatic insolvency conclusion.
+4. **Operating allocation** — trust documents can allocate collection, payment, and reporting roles; the actual service scope is deal-specific.
 
-The trust-bank role here is typically filled by [[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]], [[trust-banks/sumitomo-mitsui-trust|SMTB]], or [[trust-banks/mizuho-trust-bank|Mizuho Trust]] — not by custody-only specialists like [[trust-banks/master-trust-bank|MTBJ]] or [[trust-banks/custody-bank|CBJ]], because the role is fee-bearing real-estate-trust front-office work rather than asset-administration utility work. See [[banking/trust-bank-custody-operating-comparison|trust-bank custody operating comparison]].
+The appointed trustee must be verified from the transaction documents. The linked trust-bank pages describe possible market participants and operating roles; this page does not infer appointment, exclusion, or market rank from a bank category.
 
 ### Structure
 
 The bond-type GK-TK (社債型 GK-TK) adds a senior 社債 layer issued by the GK itself. Capital stack:
 
+Table source note: This is an illustrative capital-stack ordering, not a legal conclusion for every GK-TK. Actual ranking, security, transfer restrictions, enforcement, and loss allocation come from the bond/loan/TK/security/intercreditor documents; all claims remain against or through the same transaction structure. ^[Sources: https://elaws.e-gov.go.jp/document?lawid=417AC0000000086 and https://elaws.e-gov.go.jp/document?lawid=132AC0000000048.]
+
 | Layer | Form | Position |
 |---|---|---|
-| Senior bond | 社債 issued by GK | Senior, secured (usually by collateral over the 信託受益権) |
-| Mezzanine | 社債 (subordinated) or subordinated loan | Junior to senior bond; senior to TK |
-| TK equity | 匿名組合出資 | Most junior; absorbs first loss |
+| Senior bond | 社債 issued by GK | Intended senior position; secured only if security is validly granted and perfected under the documents |
+| Mezzanine | 社債 (subordinated) or subordinated loan | Illustrative contractual ordering below senior and above TK; actual priority follows the documents |
+| TK equity | 匿名組合出資 | Illustrative contractual first-loss position; actual allocation follows the TK and transaction documents |
 
-The senior bond gets a clean, transferable, bankruptcy-remote claim. The mezzanine sits between senior and equity. The TK equity is first-loss.
+The senior/mezzanine/TK labels describe an intended economic waterfall only. They do not make a bond claim “bankruptcy remote” from the issuer or establish priority without the operative documents.
 
 ### Why the bond layer
 
-1. **Investor universe** — life insurers, regional banks, asset managers, and other yen institutional investors prefer 社債-format investments for the same reasons they prefer publicly issued bonds: standardized claim form, easy custody, clear maturity, clear coupon.
-2. **Risk-weight treatment** — 社債 form supports cleaner risk-weight analysis for bank holders.
-3. **JASDEC settlement** — 社債 can settle through [[securities/japan-securities-depository-center|JASDEC]] book-entry, supporting clean institutional custody.
-4. **Public ratings** — a 社債 layer can be rated by [[financial-regulators/jcr|JCR]] / [[financial-regulators/rating-and-investment|R&I]] / [[JapanFG/sp-global-ratings-japan|S&P]] / [[JapanFG/moodys-japan|Moody's]] using structured-finance criteria similar to [[real-estate-finance/japan-cmbs-rmbs-securitization|Japan CMBS / RMBS]] criteria.
+1. **Documented claim form** — a bond can specify principal, coupon, maturity, covenants, and transfer terms.
+2. **Investor analysis** — regulatory capital, accounting, mandate eligibility, and internal credit treatment are investor- and instrument-specific.
+3. **Settlement** — book-entry settlement is available only where the instrument and participants meet the applicable statutory and JASDEC requirements.
+4. **Ratings** — a bond may be rated if an issuer obtains a rating; neither a rating nor multiple ratings is inherent in the structure.
 
 ### How it differs from CMBS
 
 | Aspect | GK-TK 社債型 | Single-borrower CMBS |
 |---|---|---|
-| Issuing vehicle | GK | Issuing-SPV trust |
-| Format | 社債 | Trust certificates / beneficial interests |
-| Tranching | Senior 社債 + mezzanine + TK equity | Senior / mezzanine / subordinated tranches |
-| Public rating typical | Sometimes — depends on investor base | Yes — usually multi-rated |
-| Distribution | Private placement; sometimes 私募 social-bond style | Public or private |
-| Use case | Asset-holding SPV with senior bond financing | Loan-securitization with multi-tranche distribution |
+| Issuing vehicle | Confirm the GK and its authority in the named documents | Confirm the issuer, trust, or SPV in the named documents |
+| Format | Confirm the actual 社債 terms and any other claims | Confirm the actual note, certificate, beneficial interest, or other format |
+| Tranching | Record only the actual bond, loan, and TK ranking | Record only the actual classes and waterfall |
+| Public rating | Deal-specific; not inherent | Deal-specific; not inherent |
+| Distribution | Confirm public/private route, investors, transfer restrictions, and FIEA treatment | Confirm public/private route, investors, transfer restrictions, and FIEA treatment |
+| Use case | Describe the actual asset, financing, and claims | Describe the actual loan/asset securitization and claims |
 
-In practice, 社債型 GK-TK is the structure of choice for a single-asset or small-portfolio real-estate deal seeking institutional yen senior financing without the full overhead of CMBS issuance. CMBS is the structure of choice when the underlying is a non-recourse loan that needs to be securitized for distribution. The two structures can co-exist — a 社債型 GK-TK can also have its senior bond securitized into a CMBS-style trust.
+This table is an analytical comparison, not a claim that either route is universally preferred. Selection depends on the asset, claim being financed, disclosure route, investors, tax analysis, and transaction documents; layered structures are possible but require deal-specific review.
 
 ### TK distribution as deductible expense
 
-The economic core of the GK-TK structure is the tax treatment of TK distributions. Under National Tax Agency rules, distributions to TK investors are deductible at the GK level if specific conditions are met. The conditions are technical and project-specific; public-source headline conditions include:
+For a corporate operator, NTA Corporate Tax Basic Circular 14-1-3 addresses the operator's and a corporate TK investor's allocation of contractual profit or loss. That guidance is not a checklist guaranteeing “pass-through” treatment for every payment, investor, or transaction. Classification, timing, withholding, anti-avoidance, and cross-border consequences require fact-specific analysis. ^[Source: https://www.nta.go.jp/law/tsutatsu/kihon/hojin/14/14_01_01.htm.]
+
+Table source note: The rows translate the Commercial Code contract and NTA allocation guidance into diligence questions; they are not statutory safe-harbour conditions. ^[Sources: https://elaws.e-gov.go.jp/document?lawid=132AC0000000048 and https://www.nta.go.jp/law/tsutatsu/kihon/hojin/14/14_01_01.htm.]
 
 | Condition (headline) | Reading |
 |---|---|
-| TK investor not deemed to operate the GK business | TK is a silent-partnership relationship; TK investor cannot direct GK operations |
-| Profit and loss share match TK contract | Distributions track contract terms |
-| TK contract is genuine | Not a sham or recharacterization risk |
-| Other anti-abuse conditions | NTA may challenge structures with mixed indicia of equity / operation |
+| Commercial Code contract | Confirm that the arrangement is a TK under Commercial Code Article 535 onward |
+| Contractual allocation | Confirm the profit/loss amount and timing under the operative TK contract and applicable tax guidance |
+| Investor/operator status | Analyse the operator and investor separately, including whether an investor participates in important business decisions |
+| Payment character and cross-border rules | Distinguish profit allocation, return of contribution, fixed-return financing, withholding, PE, treaty, and anti-avoidance questions |
 
-When conditions are met, GK income flows out as deductible TK distributions, producing pass-through-like economics. The TK investor is taxed on the distribution in its own jurisdiction.
+The table is a diligence route, not a safe harbour. NTA guidance for individuals, for example, generally classifies TK profit distributions as miscellaneous income but changes the analysis where the investor is jointly operating the business; a fixed return may instead be lending income. Investor taxation can arise in Japan and elsewhere. ^[Source: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/16.htm.]
 
 ### Foreign-LP treatment
 
@@ -138,77 +149,86 @@ For a foreign-LP TK investor, the public-source position is:
 
 | Aspect | Reading |
 |---|---|
-| Japan-source income | Real-estate income from Japan property is Japan-source |
-| Treaty access | Treaty access requires foreign LP to be a treaty-eligible resident; treaty rate depends on treaty terms |
-| Offshore-feeder structure | Foreign LP often invests through an offshore feeder (Cayman, Singapore, Luxembourg, depending on LP preference) into the TK layer |
-| Permanent establishment | Properly structured TK investment should not create a Japan PE for the foreign LP — but this is fact-specific and requires advice |
+| Japan-source income | Determine the character and Japan-source status of the actual payment or income under domestic law; do not assume a TK distribution automatically retains the character of the underlying real estate |
+| Treaty access | Test entity transparency or classification, residence, beneficial ownership, limitation-on-benefits or other entitlement conditions, the applicable income article and rate, and required procedure under the exact treaty/MLI and Japanese law |
+| Offshore-feeder structure | A foreign investor may use a feeder, but entity classification, beneficial ownership, treaty eligibility, and Japanese filing/withholding consequences vary |
+| Permanent establishment | PE status cannot be inferred from TK or feeder form alone; personnel, agency, decision-making, management activity, domestic law, and the applicable treaty must be analysed |
 
-The offshore-feeder GK-TK is the standard structure for foreign sovereign-wealth, pension, and private-equity LP investment into Japan real estate. Details vary materially across deals and require structure-specific tax advice.
+Table source note: The rows are issue-spotting questions, not conclusions that a foreign LP is treaty-eligible or lacks a Japan PE. Use the current treaty text and NTA procedure, and obtain structure-specific advice. ^[Sources: https://www.mof.go.jp/english/policy/tax_policy/tax_conventions/tax_convetion_list_en.html and https://www.nta.go.jp/taxes/shiraberu/taxanswer/gensen/2888.htm.]
+
+Foreign investors may use GK-TK and feeder arrangements, but prevalence, tax residence, beneficial ownership, PE, and after-tax outcomes cannot be generalized.
 
 ### Domestic-LP treatment
 
-Domestic Japanese investors in TK receive distributions as either:
-
-- 不動産所得 (real-estate income) — if the TK is structured to flow through real-estate income character; or
-- 雑所得 (miscellaneous income) — if structured differently.
+For an individual TK investor, NTA guidance generally treats a profit distribution as miscellaneous income, subject to exceptions and recharacterisation based on facts such as joint operation or a fixed return. Corporate investors follow the applicable corporate-tax allocation rules. Do not infer that underlying real-estate income automatically retains its character at the investor level. ^[Sources: https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/16.htm and https://www.nta.go.jp/law/tsutatsu/kihon/hojin/14/14_01_01.htm.]
 
 ## 4. GK-TK vs TMK
 
-The two main JP real-estate SPV alternatives are GK-TK and TMK (特定目的会社, under 資産流動化法).
+GK-TK and TMK (特定目的会社 under 資産流動化法) are two possible routes among other company, trust, investment-corporation, and contractual structures; this page does not rank them as the two main alternatives.
+
+Table source note: This is a statutory-route comparison, not a cost, speed, tax, or “friendliness” ranking. Consult the Companies Act, Commercial Code, Asset Liquidation Act, FIEA, and current tax rules for the actual transaction. ^[Sources: https://elaws.e-gov.go.jp/document?lawid=417AC0000000086, https://elaws.e-gov.go.jp/document?lawid=132AC0000000048, https://elaws.e-gov.go.jp/document?lawid=410AC0000000105, and https://elaws.e-gov.go.jp/document?lawid=323AC0000000025.]
 
 | Aspect | GK-TK | TMK |
 |---|---|---|
 | Statute | 会社法 (GK) + 商法 (TK) | 資産流動化法 (TMK) |
-| Set-up | Standard incorporation + TK contract — lower cost, faster | TMK registration with 内閣総理大臣 (delegated) — higher cost, more disclosure |
-| Disclosure | Minimal beyond GK basic disclosure | Higher — TMK has 資産流動化計画 filing and ongoing reporting |
-| Tax | Pass-through-like via TK-distribution deduction | Pass-through via 導管性 conditions (similar concept, different statutory route) |
-| Bankruptcy remoteness | Standard SPV bankruptcy-remoteness with covenant + governance | Statutory bankruptcy-remoteness baked into 資産流動化法 |
+| Formation / procedure | Companies Act incorporation plus transaction contracts and any required regulatory filings | Asset Liquidation Act entity and asset-liquidation-plan procedures; required notices/registrations depend on the transaction |
+| Disclosure | Company-register and any applicable FIEA/contractual disclosure; TK status alone does not eliminate other duties | Statutory plan and transaction disclosures under the Asset Liquidation Act/FIEA as applicable |
+| Tax | Operator/investor allocation and deductions depend on the contract, taxpayer, and tax rules | Distribution deduction depends on satisfying all applicable conduit requirements |
+| Insolvency design | Separateness, security, covenants, and governance are contractual/structural; no automatic immunity | Statutory restrictions and the asset plan supplement transaction protections but do not guarantee an insolvency outcome |
 | Bond issuance | GK can issue 社債 | TMK can issue 特定社債 (specified bonds) |
-| Equity layer | TK contributions (silent) | 特定出資 (preferred / common) — more like corporate equity |
-| Typical use case | Single-asset or small-portfolio investment, bridge fund, private REIT feeder | Multi-asset securitization, CMBS-style structure, fund-investor-broad distribution |
-| Foreign-LP friendliness | High — offshore-feeder + TK fits foreign LP well | Moderate — TMK is more structured and disclosure-heavy |
+| Equity layer | TK contributions under the operative contract | Distinguish 特定出資 from 優先出資 and any other permitted financing under the Asset Liquidation Act and plan; do not collapse them into “preferred / common” |
+| Illustrative use | Private asset-holding and financing structures | Asset-liquidation/securitisation structures using the statutory TMK regime |
+| Cross-border suitability | Fact-specific: investor status, regulation, PE, withholding, treaty, and documents | Fact-specific under the same categories plus TMK statutory requirements |
 | Listing capability | Cannot be a J-REIT vehicle | TMK is not the J-REIT vehicle either; J-REIT uses 投資法人 under 投信法 |
 
 ### Cross-vehicle map
 
-| Use case | Typical vehicle |
+Table source note: The rows are an illustrative routing map, not exclusive or “typical” legal conclusions. The investment-corporation, GK/TK, and TMK routes arise under different statutes, and a transaction may use more than one entity or trust layer. ^[Sources: https://elaws.e-gov.go.jp/document?lawid=326AC0000000198, https://elaws.e-gov.go.jp/document?lawid=417AC0000000086, https://elaws.e-gov.go.jp/document?lawid=132AC0000000048, and https://elaws.e-gov.go.jp/document?lawid=410AC0000000105.]
+
+| Use case | Possible vehicle route |
 |---|---|
 | [[real-estate-finance/j-reit-market-overview|Listed J-REIT]] | 投資法人 (under 投信法), not GK-TK or TMK |
 | Private REIT | 投資法人 (under 投信法) — open-end / private-placement variant |
-| Bridge fund / warehouse | GK-TK SPV |
-| Single-asset acquisition vehicle | GK-TK SPV |
-| Multi-asset CMBS issuance | TMK or specialized trust-issuing structure |
-| Foreign-LP direct investment | GK-TK with offshore feeder |
+| Bridge fund / warehouse | GK-TK is one possible private-SPV route; actual vehicle is deal-specific |
+| Single-asset acquisition vehicle | GK-TK, TMK, direct company, or trust layers may be considered |
+| CMBS issuance | TMK or trust/SPV routes may be considered; asset and issuance structure control |
+| Cross-border private investment | GK-TK with or without a feeder is one possible route; tax/regulatory suitability is investor-specific |
 
 ### Disclosure footprint
 
+Table source note: The table distinguishes Companies Act registration, Commercial Code TK status, FIEA securities disclosure, and tax filing. None should be substituted for a transaction-level beneficial-ownership or disclosure review. ^[Sources: https://elaws.e-gov.go.jp/document?lawid=417AC0000000086, https://elaws.e-gov.go.jp/document?lawid=132AC0000000048, and https://elaws.e-gov.go.jp/document?lawid=323AC0000000025.]
+
 | Disclosure surface | GK-TK presence |
 |---|---|
-| Public register of the GK | Yes — name, address, members of the GK (which are the structural sponsor, not the TK investors) |
-| TK investor names | Not publicly disclosed |
-| 社債 (if 社債型) | Disclosed in JASDEC and in 社債 issuance documentation; public placement triggers FIEA disclosure |
-| Real-estate ownership | Held in trust by 信託受託者 (the trust-bank); 不動産登記 shows the trust-bank as registered holder with trust notation |
-| Tenant lease arrangements | Private — between the trust-bank (as title holder) and tenants, with the GK as beneficiary |
-| Financial statements | GK files 計算書類 with NTA; not publicly disclosed unless 社債 issuance disclosure triggers public release |
+| Public register of the GK | Companies Act registration items apply, including prescribed executive/representative-member information as applicable; consult the current registry rather than inferring beneficial ownership |
+| TK investor names | TK status alone does not make the investor a GK member or a corporate-register item; other laws, filings, contracts, or disclosure duties may still apply |
+| 社債 (if 社債型) | Issuance documents apply; FIEA public-offering disclosure and book-entry/JASDEC treatment depend on the actual offering and instrument |
+| Real-estate ownership | If a trust is used, verify the named trustee, trust notation, beneficiary, and registry; otherwise trace the actual title route |
+| Tenant lease arrangements | Verify the actual landlord, tenant, master lease, property manager, disclosure duties, and privacy limits; do not assume the trustee contracts directly |
+| Financial statements | A GK prepares Companies Act financial statements and separately files applicable tax returns; tax returns are not public merely because filed, while securities disclosure depends on the offering/issuer facts |
 
-The combination of trust-bank title registration + TK-investor non-disclosure means that public visibility into beneficial ownership of Japan commercial real estate held in GK-TK structures is limited.
+Public visibility must be assessed from the actual registry, trust notation, GK register, securities disclosure, large-holding/beneficial-owner rules, contracts, and other applicable filings. A trust title plus TK status does not support a market-wide conclusion.
 
 ### Accounting treatment
 
-For the TK investor under Japan GAAP / IFRS treatment:
+For a TK investor, classify and account for the interest under the reporting entity's applicable standard, facts, rights, and policy.
+
+Table source note: The table is an accounting-verification route, not a universal classification, income label, or impairment model. Apply the current ASBJ/IFRS requirements to the contract and reporting entity. ^[Sources: https://www.asb-j.jp/en/ and https://www.ifrs.org/issued-standards/list-of-standards/.]
 
 | Aspect | Reading |
 |---|---|
-| TK investment classification | Investment-asset; categorization depends on TK contract terms and IFRS-9 / 金融商品会計基準 application |
-| Income recognition | TK distribution income recognized per contract |
-| Impairment | Standard impairment testing for investment assets |
+| TK investment classification | Determine the asset, instrument, partnership/contract, consolidation, and measurement classification from rights and applicable standards |
+| Income recognition | Determine recognition, presentation, allocation, and timing from the contract and applicable accounting policy; a cash distribution does not settle the label |
+| Impairment | Identify the applicable impairment or loss-recognition model only after classification and measurement are established |
 
-For the structural sponsor (often the asset-management firm or developer that established the GK):
+For any entity alleged to sponsor, establish, manage, or control the GK:
+
+Table source note: This is a control-assessment route, not a conclusion that every GK is or is not consolidated. Under IFRS, use IFRS 10 and the reporting entity's facts; for Japan GAAP, use the current ASBJ standards and implementation guidance. ^[Source: https://www.ifrs.org/issued-standards/list-of-standards/ifrs-10-consolidated-financial-statements/.]
 
 | Aspect | Reading |
 |---|---|
-| GK as subsidiary | Sometimes — depends on equity-vs-debt analysis of the structural sponsor's economic interest |
-| GK as VIE | IFRS-10 / 連結会計 control assessment applies — if structural sponsor has control over relevant activities and is exposed to variable returns, consolidation may be triggered |
+| GK as subsidiary | No conclusion from legal form alone; apply the reporting entity's current consolidation standard to rights, power, and economics |
+| Structured-entity / control analysis | Under IFRS 10, assess power, exposure or rights to variable returns, and ability to use power to affect returns; Japan-GAAP analysis must use the applicable ASBJ requirements |
 
 ## Related
 
@@ -239,8 +259,7 @@ For the structural sponsor (often the asset-management firm or developer that es
 
 ## Sources
 
-- ARES (Association for Real Estate Securitization): Japan real-estate securitization market summary statistics.
-- JPX: securitized-product disclosure surface.
-- FSA: investment-product regulation and disclosure framework.
-- e-Gov: 会社法, 商法, 資産流動化法 statutory text.
-- National Tax Agency: TK-distribution tax-treatment guidance.
+- e-Gov: Companies Act, Commercial Code, Asset Liquidation Act, FIEA, and the separate LLP/LPS statutes.
+- National Tax Agency: Corporate Tax Basic Circular 14-1-3, individual-income guidance for TK distributions, and TK-interest valuation guidance.
+- Ministry of Finance: current treaty list and treaty texts.
+- IFRS Foundation: IFRS 10 control model.

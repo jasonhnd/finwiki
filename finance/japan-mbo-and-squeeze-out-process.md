@@ -6,16 +6,16 @@ aliases:
   - "日本 MBO squeeze-out"
 domain: "finance"
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
-review_by: 2026-11-22
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
 confidence: likely
 tags: [finance, M&A, MBO, squeeze-out, TOB, disclosure, Japan]
 status: active
 sources:
   - "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/fair-ma-rule/ma-guideline-publications.html"
   - "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/pdf/fairmaguidelines.pdf"
-  - "https://www.fsa.go.jp/common/law/kaiji/20241001_guideline-tenderoffer.pdf"
+  - "https://www.fsa.go.jp/common/law/kaiji/index.html"
   - "https://www.fsa.go.jp/en/laws_regulations/faq_on_fiea/section04.html"
   - "https://www.japaneselawtranslation.go.jp/en/laws/view/3206/en"
   - "https://www.japaneselawtranslation.go.jp/en/laws/view/3384/en"
@@ -27,11 +27,13 @@ sources:
 
 ## Overview
 
-A Japanese listed-company MBO or controlling-shareholder buyout is a public-company control transaction. The public process route includes board and special committee process, valuation / fairness work, TOB launch and disclosure, target opinion / TDnet disclosure, settlement, post-TOB squeeze-out, and delisting where applicable.
+A Japanese listed-company MBO or controlling-shareholder buyout is a public-company control transaction. Depending on the transaction, the public record may include board deliberation, conflict safeguards such as a special committee, valuation or fairness work, TOB disclosure, target opinion / TDnet disclosure, settlement, a post-TOB squeeze-out, and delisting.
 
 This page sits under [[finance/INDEX|finance domain]] and treats MBO / squeeze-out as a public-company control route. Use it with [[finance/japan-tender-offer-process|Japan tender offer process]], [[finance/japan-acquisition-finance|Japan acquisition finance]], [[finance/japan-activist-investor-playbook|Japan activist investor playbook]], [[finance/cross-border-m-a-japan|cross-border M&A Japan]], [[securities/tokyo-stock-exchange|Tokyo Stock Exchange]], [[financial-regulators/japan-exchange-group|Japan Exchange Group]], [[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]], [[megabanks/sony-fg|Sony FG]], and [[payment-firms/wealthnavi|WealthNavi]].
 
 ## Four-Layer Framework
+
+Source: the table maps METI's [Fair M&A Guidelines](https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/pdf/fairmaguidelines.pdf), the FSA's [post-May 1, 2026 tender-offer regime](https://www.fsa.go.jp/news/r7/shouken/20250704/20250704.html), the [Companies Act](https://www.japaneselawtranslation.go.jp/en/laws/view/4481/en), and [JPX delisting materials](https://www.jpx.co.jp/equities/listing/delisting/).
 
 | Layer | Public source route | Public record field |
 |---|---|---|
@@ -42,11 +44,15 @@ This page sits under [[finance/INDEX|finance domain]] and treats MBO / squeeze-o
 
 ## Process Map
 
+Source: the table is a process checklist synthesized from METI's [Fair M&A Guidelines](https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/pdf/fairmaguidelines.pdf), the FSA's [tender-offer disclosure regime](https://www.fsa.go.jp/news/r7/shouken/20250704/20250704.html), and [JPX TDnet](https://www.jpx.co.jp/equities/listing/disclosure/tdnet/index.html); actual sequencing follows the filed transaction documents.
+
+METI's Fair M&A Guidelines are non-statutory guidance. An MBO label does not universally require a special committee, financial adviser, valuation report, fairness opinion, or any fixed safeguard package. Determine the applicable legal requirements and evaluate any safeguards from the actual conflicts, board process, guidance, and filed transaction record.
+
 | Stage | What happens | Documents / evidence |
 |---|---|---|
 | Initial proposal | Management, sponsor, parent, or controlling shareholder proposes a going-private / buyout route | Proposal letter, board minutes where disclosed, announcement background |
-| Conflict setup | Target identifies conflicts and process protections | Special committee, outside directors, independent adviser, legal adviser |
-| Valuation / fairness | Financial adviser evaluates price and fairness | Valuation report, fairness opinion where obtained, special committee opinion |
+| Conflict setup | Target identifies conflicts and selects process protections appropriate to the transaction | Special committee, outside directors, independent adviser, or legal adviser where used |
+| Valuation / fairness, if used | The target, board, or committee may obtain valuation or fairness advice where selected for the transaction; this is not a default statutory step | Valuation report, fairness opinion, or committee opinion only where obtained or issued |
 | TOB launch | Offeror launches tender offer | Public notice, tender offer statement, offeror press release |
 | Target response | Target board states support / board position / neutrality / opposition | Position report, TDnet disclosure, special committee reasoning |
 | Offer period and amendments | Offer may be extended or terms amended | EDINET amendments, TDnet updates |
@@ -56,10 +62,12 @@ This page sits under [[finance/INDEX|finance domain]] and treats MBO / squeeze-o
 
 ## Squeeze-Out Routes
 
+Source: the table routes to the [Companies Act](https://www.japaneselawtranslation.go.jp/en/laws/view/4481/en) and [JPX delisting materials](https://www.jpx.co.jp/equities/listing/delisting/); the applicable cash-out or consolidation route depends on the post-offer ownership and resolutions actually obtained.
+
 | Route | When it is relevant | Reading rule |
 |---|---|---|
-| Special controlling shareholder cash-out | Buyer reaches the high statutory voting-right threshold required for the Companies Act route | Fast route when ownership threshold is satisfied; check notices, approvals, acquisition day, and inspection rights. |
-| Share consolidation | Common second-step route when post-TOB ownership is high but cash-out threshold route is not directly used | Requires shareholder-resolution mechanics and gives dissenting shareholders appraisal-right issues. |
+| Special controlling shareholder cash-out | Buyer reaches at least 90% of voting rights and satisfies the Companies Act definition and procedure | Check target approval, notices, acquisition day, and the statutory price-review and inspection routes. |
+| Share consolidation | Possible second-step route when the special-controlling-shareholder route is unavailable or not selected | Requires the applicable shareholder resolution and gives affected shareholders statutory purchase / price-review routes. |
 | Class-wide call acquisition | Possible where the capital structure supports acquisition of shares subject to call | More structure-specific; check articles, class-share design, and disclosure. |
 | Merger / share exchange | Group reorganization context | Corporate-law, tax, and M&A control fields. |
 
@@ -83,7 +91,7 @@ FinWiki records public process protections and the source documents that disclos
 
 ## Financing Overlay
 
-MBOs often require acquisition debt, sponsor equity, rollover equity, bridge loans, or bank financing. Route funding analysis to [[finance/japan-acquisition-finance|Japan acquisition finance]]. In a TOB statement, look for financing proof, lender names where disclosed, conditions precedent, maximum purchase amount, and whether the offeror can settle if all shares are tendered.
+An MBO may use acquisition debt, sponsor equity, rollover equity, bridge finance, or other funding. Route funding analysis to [[finance/japan-acquisition-finance|Japan acquisition finance]]. In the filed TOB documents, read the disclosed funding source, supporting documents, conditions, maximum purchase amount, and settlement arrangements; record a lender only when the filing names it.
 
 ## Source Fields
 

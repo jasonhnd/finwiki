@@ -10,33 +10,35 @@ aliases:
   - "real-estate hold-period sensitivity"
 domain: real-estate-finance
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
 confidence: likely
 tags: [real-estate-finance, valuation, cap-rate, noi, irr, j-reit, methodology, jrei]
 status: active
 sources:
-  - "https://www.jrei.jp/"
-  - "https://www.ares.or.jp/en/"
+  - "https://www.reinet.or.jp/?page_id=14347&lang=en"
+  - "https://www.ares.or.jp/action/jreit/"
   - "https://j-reit.jp/en/"
-  - "https://www.mlit.go.jp/totikensangyo/totikensangyo_tk2_000001.html"
-  - "https://www.jpx.co.jp/english/markets/products/reit/index.html"
+  - "https://www.mlit.go.jp/tochi_fudousan_kensetsugyo/tochi_fudousan_kensetsugyo_fr4_000001_00248.html"
+  - "https://www.jpx.co.jp/english/equities/products/reits/"
   - "https://www.boj.or.jp/en/statistics/index.htm"
-  - "https://pages.stern.nyu.edu/~adamodar/"
+  - "https://pages.stern.nyu.edu/adamodar/New_Home_Page/valuationtools.html"
 ---
 
 # Cap rate NOI IRR real-estate valuation framework
 
 ## TL;DR
 
-Real-estate valuation in Japan is structured around four interlinked metrics: cap rate (NOI yield), NOI / NCF (net operating income / net cash flow), unlevered IRR (project return), and levered IRR (equity return). These metrics overlay the three-approach appraisal framework — income, comparison, cost — codified in the [[real-estate-finance/japan-real-estate-appraisal-methodology|不動産鑑定評価基準]]. J-REIT pricing is dominated by [[real-estate-finance/j-reit-market-overview|price-to-NAV mechanics]] under JREI cap-rate inputs, while private real-estate funds add hold-period IRR underwriting and explicit leverage. JREI's semi-annual Real Estate Investor Survey is the de facto cap-rate benchmark, with [[real-estate-finance/real-estate-cap-rate-compression-2026|current 2026 cap-rate ranges]] reflecting modest widening from NIRP-era lows. This page is a methodology reference, not investment advice — verify cap rates and IRR ranges against current JREI / ARES publications before any decision use.
+Cap rate, NOI / NCF, unlevered IRR, and levered IRR are related but definition-sensitive real-estate metrics. The [[real-estate-finance/japan-real-estate-appraisal-methodology|不動産鑑定評価基準]] supplies the appraisal framework; a J-REIT's named appraiser and disclosure, a fund's governing documents and underwriting, and a transaction's actual cash flows supply the asset- and vehicle-specific inputs. JREI's dated Real Estate Investor Survey reports respondent expectations and is not a transaction tape, a universal appraisal input, or evidence of current direction by itself. This page is a methodology reference, not investment advice or a statement of current cap-rate / IRR ranges.
 
 ## Wiki route
 
 This page sits under [[real-estate-finance/INDEX|real-estate-finance index]] as the valuation-methodology routing surface. Use it together with [[real-estate-finance/japan-real-estate-appraisal-methodology|Japan real-estate appraisal methodology]] for the statutory MLIT appraisal framework, [[real-estate-finance/real-estate-cap-rate-compression-2026|cap-rate compression 2026]] for the current cap-rate range map, [[real-estate-finance/j-reit-market-overview|J-REIT market overview]] for the listed-vehicle pricing context, [[real-estate-finance/private-reit-japan-vs-listed-j-reit-comparison|private REIT vs listed J-REIT comparison]] for the unlisted-vehicle parallel, [[real-estate-finance/j-reit-dividend-yield-vs-jgb-spread|J-REIT dividend yield vs JGB spread]] for the yield-spread reading, [[real-estate-finance/bank-commercial-real-estate-lending-japan|bank commercial real-estate lending Japan]] for leverage-side underwriting, and [[finance/dcf-vs-multiples-vs-nav-cross-domain-valuation-framework|DCF / multiples / NAV framework]] for the cross-domain valuation context. Pair with [[finance/cost-of-capital-japan-2026-reference|cost of capital Japan 2026 reference]] for the discount-rate input layer.
 
 ## The Four Interlinked Metrics
+
+Table source note: These are analytical definitions. The exact numerator, denominator, timing convention, fees, tax, debt, and sale treatment must be reconciled to the named appraisal, issuer disclosure, fund report, or model. ^[Sources: https://www.mlit.go.jp/tochi_fudousan_kensetsugyo/tochi_fudousan_kensetsugyo_fr4_000001_00248.html and https://pages.stern.nyu.edu/adamodar/New_Home_Page/valuationtools.html.]
 
 | Metric | Formula | What it captures |
 |---|---|---|
@@ -47,7 +49,9 @@ This page sits under [[real-estate-finance/INDEX|real-estate-finance index]] as 
 
 ## NOI vs NCF (Definition Reconciliation)
 
-The definitions diverge across JREI surveys, [[real-estate-finance/j-reit-market-overview|J-REIT]] IR, private-fund LP reporting, and appraisal practice. Reconciling them is essential to any cross-method comparison.
+Definitions can diverge across surveys, [[real-estate-finance/j-reit-market-overview|J-REIT]] IR, private-fund LP reporting, appraisal reports, and transaction models. Reconcile the named source before comparison.
+
+Table source note: The plus/minus map is an illustrative analytical bridge, not a definition imposed by JREI, MLIT, ARES, or every issuer. Determine recurring/non-recurring treatment, capex, tenant improvements, leasing commissions, reserves, tax, and financing from the cited document. ^[Sources: https://www.mlit.go.jp/tochi_fudousan_kensetsugyo/tochi_fudousan_kensetsugyo_fr4_000001_00248.html and https://www.ares.or.jp/action/jreit/.]
 
 | Item | NOI | NCF |
 |---|---|---|
@@ -60,25 +64,27 @@ The definitions diverge across JREI surveys, [[real-estate-finance/j-reit-market
 | Property-management fee | − | − |
 | Building-management fee | − | − |
 | Repair / maintenance (recurring) | − | − |
-| Capex / TI / leasing commission (one-off) | typically excluded | typically deducted |
-| Reserves for capital repairs | typically excluded | typically deducted |
+| Capex / TI / leasing commission (one-off) | Verify the named NOI definition | Verify the named NCF definition |
+| Reserves for capital repairs | Verify the named NOI definition | Verify the named NCF definition |
 | Depreciation | excluded | excluded |
 | Interest expense | excluded | excluded |
 | Income tax | excluded | excluded |
 
-The general convention: NOI is property-operating-income before capex / reserves; NCF is NOI less capex / reserves and is the cash flow that supports actual distribution / debt service. J-REIT IR typically discloses both with reconciliation.
+One analytical bridge treats NOI as property operating income before specified capital items and NCF as cash flow after those items. Do not use that bridge as an issuer or appraisal definition unless the source provides the reconciliation.
 
 ## Cap Rate — Three Sub-Definitions
+
+Table source note: The labels are an analytical taxonomy. Use the exact cash-flow period, price/value date, stabilisation premise, terminal-year convention, and survey/transaction definition from the named source. ^[Sources: https://www.reinet.or.jp/?page_id=14347&lang=en and https://www.mlit.go.jp/tochi_fudousan_kensetsugyo/tochi_fudousan_kensetsugyo_fr4_000001_00248.html.]
 
 | Type | Definition |
 |---|---|
 | Going-in cap rate | First-year NOI / acquisition price |
 | Stabilised cap rate | NOI in fully-leased / stabilised state / current price |
 | Reversion / terminal cap | Cap rate applied to year-N+1 NOI for DCF terminal value |
-| Expected (forward) cap rate | Survey-based forward yield expectation; JREI semi-annual survey is the benchmark |
+| Expected (forward) cap rate | A defined respondent expectation from a named survey, property type, location, and survey date |
 | Transaction (market) cap rate | Implied cap rate from a closed transaction |
 
-JREI surveys publish expected cap rate ranges by property type and city; ARES publishes J-REIT transaction-cap-rate and property-level data. The two together form the public-source cap-rate reference.
+Use the exact JREI survey release for respondent expectations and the exact ARES/J-REIT or issuer dataset for disclosed properties and transactions. They differ in population, definition, date, and observation type and should not be blended into a single benchmark without reconciliation.
 
 ## Income-Approach DCF Mechanics
 
@@ -90,33 +96,39 @@ Value = Σ(NCF_t / (1+r)^t) + (TerminalValue_(N+1) / (1+r)^N)
 TerminalValue = NCF_(N+1) / TerminalCap
 ```
 
+Table source note: The input map follows the income-approach structure in MLIT's Real Estate Appraisal Standards. The horizon and terminal-cap spread are modelling choices; they are not published market medians and must be supported for the asset and valuation date. ^[Source: https://www.mlit.go.jp/tochi_fudousan_kensetsugyo/tochi_fudousan_kensetsugyo_fr4_000001_00248.html.]
+
 | Input | Source |
 |---|---|
 | Forecast NCF | Lease roll forecast, market-rent assumption, vacancy assumption, capex schedule |
-| Discount rate r | Cap rate + growth + risk premium components |
-| Holding period N | Typically 10 years for institutional valuation |
-| Terminal cap | Survey-based or marginal-buyer underwriting; typically 25-50bp wide of going-in cap |
+| Discount rate r | Support from the appraisal/model's risk, timing, growth, and cash-flow assumptions; do not add overlapping components |
+| Holding period N | Model-selected explicit forecast period; 10 years is an illustrative convention, not a universal requirement |
+| Terminal cap | Survey-based or marginal-buyer underwriting; any spread to going-in cap is deal- and date-specific |
 
-The direct-capitalisation method (V = NOI / cap rate) and the DCF method are required to be reconciled in MLIT-compliant appraisal opinions.
+Read the named appraisal to determine how the direct-capitalisation and DCF methods were applied and reconciled under the MLIT framework; this page does not prescribe a universal weighting or pairing.
 
 ## J-REIT vs Private Real-Estate Fund Pricing
 
-The same underlying real estate is priced differently in listed J-REIT vehicles and in private real-estate funds.
+Listed and private vehicles can produce different values or return requirements for reasons that must be identified from the named vehicles and date.
+
+Table source note: This comparison is a structural practitioner synthesis. The leverage and hurdle-rate bands are illustrative sensitivity assumptions as of 2026-07-29, not ARES/J-REIT market averages or terms for a named fund; current vehicle disclosures and governing tax requirements control. ^[Sources: https://www.ares.or.jp/action/jreit/ and https://j-reit.jp/en/list/.]
 
 | Field | J-REIT (listed) | Private fund |
 |---|---|---|
 | Pricing anchor | Listed unit price relative to NAV per unit | Acquisition cap rate plus hold-period IRR underwriting |
-| Cap-rate input | JREI appraised cap rate (semi-annual cycle) | Underwriting cap rate based on transaction comps |
+| Cap-rate input | Named appraiser's disclosed assumptions and valuation date; do not attribute them to JREI without evidence | Fund's documented underwriting assumptions and evidence |
 | Discount mechanism | Price-to-NAV traded ratio (can be discount or premium) | Hold-period IRR vs fund-target IRR |
-| Leverage policy | Conservative; LTV typically ~40-50% | Higher; LTV often 50-70% depending on strategy |
-| Distribution profile | Mandatory ~90% distribution for tax pass-through | Discretionary; reinvestment / leverage flexibility |
-| Liquidity | Daily listed liquidity | Lock-up + redemption-window structure |
-| Investor base | Retail + institutional + foreign-buyer + life-insurer | Predominantly institutional (life-insurer, pension, foreign-GP) |
-| Marginal-buyer underwriting | Public-market discount rate | Private-market hurdle IRR (often 12-18% for value-add) |
+| Leverage policy | Actual vehicle policy, debt disclosure, covenant definitions, and measurement date | Actual fund/vehicle documents, debt terms, and measurement date |
+| Distribution profile | Tax-conduit eligibility depends on satisfying the applicable statutory distribution and other conditions; verify the vehicle and period | Fund terms and tax structure determine distribution/reinvestment flexibility |
+| Liquidity | Listed trading exists, but depth, spread, volume, and executable size are date-specific | Transfer, lock-up, redemption, gate, and secondary-liquidity terms are vehicle-specific |
+| Investor base | Measure holders from dated ownership disclosure; do not infer the marginal buyer | Identify actual LPs or disclosed categories; do not infer from private status |
+| Marginal-buyer underwriting | Infer only from cited market and transaction evidence | Use the named bidder/fund hurdle and model; no market-wide range is asserted |
 
-This pricing divergence is the structural reason a J-REIT may trade at a different cap rate / NAV ratio than what private-market buyers underwrite for the same asset type — see [[real-estate-finance/j-reit-dividend-yield-vs-jgb-spread|J-REIT dividend yield vs JGB spread]] and [[real-estate-finance/private-reit-japan-vs-listed-j-reit-comparison|private REIT vs listed J-REIT comparison]].
+When a J-REIT market price, reported NAV, appraisal, or private bid differs, reconcile valuation date, assets/liabilities, tax, fees, control, liquidity, leverage, cash-flow definitions, and assumptions before attributing a cause. See [[real-estate-finance/j-reit-dividend-yield-vs-jgb-spread|J-REIT dividend yield vs JGB spread]] and [[real-estate-finance/private-reit-japan-vs-listed-j-reit-comparison|private REIT vs listed J-REIT comparison]].
 
 ## Unlevered vs Levered IRR
+
+Table source note: These are cash-flow-basis definitions. Timing, fees, taxes, working capital, capex, sale costs, debt draws/repayment, and distributions must be specified before comparing IRRs. ^[Source: https://pages.stern.nyu.edu/adamodar/New_Home_Page/valuationtools.html.]
 
 | IRR | Cash flow basis | What it measures |
 |---|---|---|
@@ -142,52 +154,58 @@ Levered IRR solves: −P×(1−L) + Σ((C × (1+g)^(t−1)) − (debt service)_t
 
 ### Leverage Effect on IRR
 
-| Cap rate vs cost of debt | Effect |
-|---|---|
-| Cap rate > cost of debt (positive carry) | Leverage amplifies equity IRR upward |
-| Cap rate ≈ cost of debt | Leverage adds little to equity IRR but adds risk |
-| Cap rate < cost of debt (negative carry) | Leverage reduces equity IRR and concentrates downside |
+Table source note: The directions below are illustrative all-else-equal cases, not predictions. IRR is nonlinear and depends on cash-flow timing, amortisation, fees, taxes, covenants, refinance, sale value, and downside losses as well as a first-year yield/debt-cost comparison. ^[Source: https://pages.stern.nyu.edu/adamodar/New_Home_Page/valuationtools.html.]
 
-In the [[real-estate-finance/real-estate-cap-rate-compression-2026|2026 environment]] with cap rates of 3-5% and post-NIRP-normalisation funding costs, the positive-carry spread for prime assets is narrower than during the NIRP era. This compresses levered-IRR uplift and makes hold-period assumptions more critical.
+| Simplified case | Conditional effect |
+|---|---|
+| Property cash yield exceeds all-in debt cost | Leverage may increase modelled equity IRR if all other cash flows and exit assumptions are held constant |
+| Property cash yield approximates all-in debt cost | Model the timing and fees; leverage can still change IRR and downside materially |
+| Property cash yield is below all-in debt cost | Negative carry can reduce equity cash flow; quantify rather than infer the final IRR |
+
+Use same-date asset cash yield and executed or supportable all-in debt cost. The [[real-estate-finance/real-estate-cap-rate-compression-2026|scenario page]] does not establish a current carry spread for a named asset or facility.
 
 ## Hold-Period Sensitivity
 
-Hold-period assumption interacts with cap-rate compression / widening expectation:
+Hold period interacts with income, capex, financing, and exit assumptions.
+
+Table source note: The directions are simplified sensitivity cases with other inputs held constant. They are not recommended holding periods or forecasts of which return component will dominate. ^[Source: https://pages.stern.nyu.edu/adamodar/New_Home_Page/valuationtools.html.]
 
 | Assumption | Direction |
 |---|---|
-| Long hold (10y+) with cap-rate stability | Income return dominates total return |
-| Short hold (3-5y) with cap-rate compression | Exit-cap gain dominates total return |
-| Long hold with cap-rate widening | Income return offsets exit-cap loss |
-| Short hold with cap-rate widening | Exit-cap loss dominates; potentially negative levered IRR |
+| Longer hold with unchanged exit cap | More periods of operating cash flow and capex enter the model; quantify the net effect |
+| Shorter hold with a lower exit cap | Exit value may increase all else equal, but transaction costs and cash-flow timing still matter |
+| Longer hold with a higher exit cap | Operating cash flow may offset part of the lower exit value; the net result is model-specific |
+| Shorter hold with a higher exit cap | Lower exit value may have greater weight; quantify leverage, fees, and sale costs |
 
-In a normalising-rate environment, prudent underwriting assumes exit-cap modestly wider than going-in cap (e.g. +25-50bp). This dampens forecast IRR and is a discipline-test for fund underwriting quality.
+Select exit cap from asset-, market-, date-, and scenario-specific evidence and show sensitivities. A wider exit cap is not universally “prudent,” and this page prescribes no fixed spread.
 
-## JREI Appraisal Methodology Overlap
+## Appraisal and Underwriting Overlap
 
-[[real-estate-finance/japan-real-estate-appraisal-methodology|JREI appraisal methodology]] uses many of the same inputs as private-fund underwriting, but with critical differences:
+An appraisal under the [[real-estate-finance/japan-real-estate-appraisal-methodology|MLIT framework]] and private-fund underwriting may use related inputs, but the actual report and model control.
 
-| Field | JREI appraisal | Private-fund underwriting |
+Table source note: The rows are an analytical comparison of appraisal and underwriting workflows, not universal market terms. MLIT standards govern appraisal methodology; private-fund horizons and assumptions remain manager-, strategy-, asset-, and date-specific. ^[Sources: https://www.mlit.go.jp/tochi_fudousan_kensetsugyo/tochi_fudousan_kensetsugyo_fr4_000001_00248.html and https://www.ares.or.jp/action/jreit/.]
+
+| Field | Named appraisal | Private-fund underwriting |
 |---|---|---|
-| Cap-rate input | Market-survey based; JREI Real Estate Investor Survey ranges | Transaction-based; deal-comp anchored |
-| Growth assumption | Typically conservative; modest real-rent growth | Strategy-specific; value-add assumes business-plan rent uplift |
-| Capex assumption | Reserve-based; long-term-average rate | Strategy-specific; renovation / repositioning capex |
-| Hold period (DCF) | Typically 10 years | Strategy-specific (3-7y core+; 5-10y value-add) |
-| Reconciliation | Mandatory across income / comparison / cost approaches | Single income-approach DCF often dominates |
-| Independence | Statutory licensed-appraiser independence | Manager-self-underwritten |
+| Cap-rate input | Read the appraiser's stated evidence, adjustment, and valuation date; JREI survey use is not assumed | Read the fund's stated transaction, appraisal, survey, or other evidence and adjustments |
+| Growth assumption | Read the exact rent, occupancy, expense, and terminal assumptions | Read the exact business-plan assumptions and execution dependencies |
+| Capex assumption | Read recurring/non-recurring repairs, tenant improvements, leasing costs, reserves, and timing | Read the exact renovation, repositioning, maintenance, and leasing plan |
+| Hold period (DCF) | Appraisal-specific explicit forecast period; no universal 10-year rule asserted here | Strategy- and fund-term-specific |
+| Reconciliation | Read which approaches and sub-methods were applied, weighted, or excluded and why | Read model governance, review, valuation-agent, and LP-document requirements |
+| Independence | Identify the licensed appraiser, engagement, conflicts, fee terms, and report statements | Identify preparer, approver, external reviewer if any, conflicts, and valuation policy |
 
-J-REIT NAV is built from JREI-anchored appraised values; the appraisal lag (2-4 quarter refresh cycle) is the structural reason traded J-REIT price-to-NAV moves faster than appraisal-NAV.
+A J-REIT's NAV calculation should be reconstructed from its disclosed assets, liabilities, units, appraisal dates, and named appraisers. Do not attribute values to JREI or infer a universal refresh lag or a single cause of price-to-NAV movement.
 
 ## Cap Rate vs Discount Rate (Critical Distinction)
 
 | Concept | Definition |
 |---|---|
 | Cap rate | NOI / price; first-year yield; static measure |
-| Discount rate | Required total return; risk-free + risk premium − growth |
+| Discount rate | Rate used to present-value the specified cash flows; construction must match currency, timing, risk, and cash-flow definition |
 
-The relationship: Cap rate ≈ Discount rate − Expected NOI growth.
+Under a stable perpetual-growth model with consistent cash-flow definitions, value = next-period cash flow / (discount rate − growth), so the corresponding yield can approximate discount rate minus growth. This is a model identity, not a universal property valuation rule.
 
-A 3.5% cap rate with 1.0% expected NOI growth implies a ~4.5% discount rate. Equating cap rate to discount rate (a common shorthand) only holds in a zero-growth steady state. See [[finance/cost-of-capital-japan-2026-reference|cost of capital Japan 2026 reference]] for the discount-rate construction.
+As a purely illustrative stable-growth case, a 3.5% yield plus 1.0% perpetual growth corresponds to approximately a 4.5% discount rate before checking timing and definition consistency. Do not treat those figures as current Japan inputs. See [[finance/cost-of-capital-japan-2026-reference|cost of capital Japan 2026 reference]] for the discount-rate construction.
 
 ## Related
 

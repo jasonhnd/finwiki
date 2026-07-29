@@ -11,14 +11,15 @@ aliases:
   - "J-REIT foreign-investor flow"
 domain: real-estate-finance
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
 confidence: likely
 tags: [real-estate-finance, j-reit, foreign-investor, fx-hedging, ownership-structure, japan]
 status: active
 sources:
   - "https://www.ares.or.jp/en/"
+  - "https://www.ares.or.jp/action/monthly/pdf/ares_monthly_report_202606.pdf"
   - "https://www.jpx.co.jp/english/markets/statistics-equities/investor-type/index.html"
   - "https://www.jpx.co.jp/english/markets/products/reit/index.html"
   - "https://www.boj.or.jp/en/statistics/index.htm"
@@ -29,51 +30,60 @@ sources:
 
 ## TL;DR
 
-Foreign investors hold approximately one-quarter to one-third of total J-REIT investment units outstanding by value, with weekly flows publicly trackable on the JPX investor-type statistics for J-REIT trading. The foreign-investor base is structurally three-pronged: (1) global REIT specialist funds (US, European, Asia-Pacific) that include J-REIT exposure within a global-REIT index-tracking or active-pick mandate; (2) sovereign wealth funds and large pension funds taking core or core-plus real-estate exposure to Japan via the listed market; (3) hedge funds and trading-style investors running directional or cap-rate / interest-rate spread trades. The economic decision for any foreign investor in J-REIT is dominated by two factors: the yield pickup of J-REIT distributions over the JGB curve, and the JPY-USD (or JPY-EUR / JPY-AUD) hedging cost. Post-2022 FRB / ECB tightening pushed the JPY-USD hedging cost so high that fully-hedged J-REIT yield to USD investors dropped below the unhedged carry; this is the structural driver behind cross-border-flow swings in the listed-J-REIT market. Comparison to US REIT foreign ownership (~10-15% range) shows J-REIT is structurally more reliant on foreign-investor demand.
+The ARES unitholder survey for February 2026 reported **foreign corporations and other foreign holders at 23.6%** of the surveyed market value of J-REIT investment units held directly by the reported holder categories. “Direct” means direct ownership of investment units, not ownership of real estate, and excludes indirect exposure through investment trusts or ETFs. The same survey reported financial institutions at 54.6% and individuals/others at 8.7%; the trust-bank line includes nominee holdings and therefore needs careful interpretation. JPX weekly investor-type statistics measure trading flow, not beneficial ownership. Foreign-investor return analysis should distinguish the local-currency distribution/price return from the separately observed FX hedge or unhedged FX return. This page no longer asserts an unsupported US-REIT foreign-ownership percentage.
 
 ## Wiki route
 
-This entry sits under [[real-estate-finance/INDEX|real-estate-finance index]] and is the foreign-flow routing page for the Japanese listed real-estate market. Read it together with [[real-estate-finance/j-reit-market-overview|J-REIT market overview]] for the listed-equity vehicle, with [[real-estate-finance/top-10-j-reit-overview-matrix|top-10 J-REIT overview matrix]] for the largest issuers that foreign investors most commonly own, with [[real-estate-finance/private-reit-japan-vs-listed-j-reit-comparison|private REIT vs listed J-REIT comparison]] for the unlisted alternative, with [[real-estate-finance/japan-real-estate-appraisal-methodology|Japan real-estate appraisal methodology]] for the cap-rate inputs that drive J-REIT NAV, with [[real-estate-finance/gk-tk-bond-real-estate-spv|GK-TK SPV]] for the alternative private-vehicle path that some foreign LPs take, and with [[real-estate-finance/real-estate-bridge-fund-japan|real-estate bridge fund]] for the foreign-LP bridge-equity path. Pair with [[insurance/japan-life-insurance-alm-overview|Japan life insurance ALM overview]] for the dominant domestic-yen institutional buyer (whose flow direction is often the inverse of foreign-investor flow) and with [[banking/japan-master-trust-and-custody-bank-landscape|Japan master-trust and custody bank landscape]] for the custody infrastructure that foreign investors access via global custodian sub-custody. Cross-domain anchors: [[policy-finance/japan-housing-finance-agency|JHF]] sits in the parallel residential-finance chain; [[policy-finance/INDEX|policy-finance index]] is the public-credit reference; and [[finance/INDEX|finance index]] holds the broader cross-border investment-flow context.
+This entry sits under [[real-estate-finance/INDEX|real-estate-finance index]] and is the foreign-flow routing page for the Japanese listed real-estate market. Read it together with [[real-estate-finance/j-reit-market-overview|J-REIT market overview]] for the listed-equity vehicle, with [[real-estate-finance/top-10-j-reit-overview-matrix|top-10 J-REIT overview matrix]] for issuer comparison, with [[real-estate-finance/private-reit-japan-vs-listed-j-reit-comparison|private REIT vs listed J-REIT comparison]] for the unlisted alternative, with [[real-estate-finance/japan-real-estate-appraisal-methodology|Japan real-estate appraisal methodology]] for the cap-rate inputs that drive J-REIT NAV, with [[real-estate-finance/gk-tk-bond-real-estate-spv|GK-TK SPV]] for private-vehicle structure, and with [[real-estate-finance/real-estate-bridge-fund-japan|real-estate bridge fund]] for bridge-equity structure. Pair with [[insurance/japan-life-insurance-alm-overview|Japan life insurance ALM overview]] for domestic-yen ALM context and with [[banking/japan-master-trust-and-custody-bank-landscape|Japan master-trust and custody bank landscape]] for infrastructure background; neither link establishes who owns J-REIT units or a universal custody route. Cross-domain anchors: [[policy-finance/japan-housing-finance-agency|JHF]] sits in the parallel residential-finance chain; [[policy-finance/INDEX|policy-finance index]] is the public-credit reference; and [[finance/INDEX|finance index]] holds the broader cross-border investment-flow context.
 
 ### Headline scale
+
+Table evidence (reviewed 2026-07-29; ownership snapshot for 2026-02): [ARES June 2026 monthly report](https://www.ares.or.jp/action/monthly/pdf/ares_monthly_report_202606.pdf) and [JPX investor-type statistics](https://www.jpx.co.jp/english/markets/statistics-equities/investor-type/index.html). ARES ownership and JPX trading flow are different datasets.
 
 | Metric | Reading |
 |---|---|
 | Foreign-investor net buy / sell (weekly flow) | Publicly tracked on JPX investor-type statistics for J-REIT |
-| Domestic-individual share | Material but smaller than foreign-investor share at index level |
-| Domestic-institutional share | Anchored by life insurers, regional banks, and asset managers; see [[insurance/japan-life-insurance-alm-overview|Japan life insurance ALM overview]] |
+| Foreign corporations / other foreign holders | **23.6%** of surveyed investment-unit market value in the ARES February 2026 survey; direct unit holdings only, excluding indirect investment-trust / ETF exposure |
+| Individuals / other | **8.7%** by market value in the ARES February 2026 survey |
+| Financial institutions | **54.6%** by market value in the ARES February 2026 survey; nominee/trust allocations require care |
 
-The 25-35% range is large relative to most listed-market segments in Japan. Foreign investors are not the largest holder by share in J-REIT (domestic life insurers, pension funds, and asset managers in aggregate hold more), but they are the most active marginal flow — i.e. price-setting at the margin is heavily influenced by foreign flow.
+The survey supports a 23.6% point-in-time foreign-holder reading, not a timeless 25–35% range. Whether foreign investors are price-setting at a given time requires the contemporaneous JPX flow series and cannot be inferred from ownership alone.
 
 ### How the share is observed
 
-JPX publishes weekly investor-type statistics for J-REIT trading separately from the equity-market statistics. The investor categories include 個人 (individuals), 投信 (investment trusts), 銀行 (banks), 生損保 (life and non-life insurers), 信託銀行 (trust banks — which often serve as nominee for foreign and domestic mandates), 自己 (proprietary), 外国人 (foreign), and others. Foreign-investor net buy / sell can be tracked on a weekly basis. Holdings-share readings are harder to extract on a real-time basis because trust-bank nominee positions (the 「信託口」 surface, e.g. [[banking/master-trust-bank-operating-model|MTBJ]] and [[trust-banks/custody-bank|CBJ]]) commingle domestic and foreign beneficial ownership.
+JPX publishes weekly investor-type statistics for J-REIT trading separately from the equity-market statistics. The categories include 個人 (individuals), 投信 (investment trusts), 銀行 (banks), 生損保 (life and non-life insurers), 信託銀行 (trust banks), 自己 (proprietary), 外国人 (foreign), and others. These statistics show trading flow only. For ownership, use a dated ARES unitholder survey; for a named vehicle, use its dated issuer unitholder or major-holder disclosure and record the denominator and whether the name is registered or beneficial. A trust-bank or other nominee label cannot be reclassified as domestic or foreign beneficial ownership without additional evidence.
 
 ### Segment 1 — Global REIT specialist funds
 
-Global REIT index-tracking and active funds include J-REIT exposure as part of the developed-market REIT universe. Public-source structure:
+Global REIT mandates may include J-REIT exposure, but the aggregate sources used here do not identify individual funds. Analytical structure:
+
+Table evidence (reviewed 2026-07-29): [JPX's TSE REIT Index factsheet](https://www.jpx.co.jp/english/markets/indices/factsheets/files/e_102_fac2_REIT.pdf) defines the domestic index universe. The investor-segment rows are an analytical taxonomy; ARES aggregate ownership data do not identify individual funds.
 
 | Segment | Reading |
 |---|---|
-| Funds | Global REIT funds run by major US, European, Asia-Pacific asset managers |
-| Style | Index-tracking and active — active strategies overweight or underweight J-REIT vs the index |
-| FX treatment | Often partially hedged or fully hedged back to base currency (USD, EUR, AUD) |
-| Holdings concentration | Tilted toward the largest [[real-estate-finance/top-10-j-reit-overview-matrix|top-10 J-REIT]] names that meet liquidity and ADR / cross-listing criteria |
+| Funds | Possible global REIT funds; verify any named holding in fund- or issuer-level disclosure |
+| Style | Index-tracking or active are possible; actual J-REIT weight requires fund-level disclosure |
+| FX treatment | Mandate-specific; use the fund's dated hedge disclosure rather than assuming a hedge ratio |
+| Holdings concentration | Mandate-specific; do not infer individual-fund holdings from aggregate ARES ownership |
 
 ### Segment 2 — Sovereign wealth and large pension
 
-Sovereign wealth funds and large pension funds take J-REIT positions as part of broader real-estate allocations.
+Sovereign wealth and pension mandates are possible foreign-holder categories, but the sources used here do not establish a position for any named fund.
+
+Table evidence (reviewed 2026-07-29): [ARES aggregate ownership data](https://www.ares.or.jp/action/monthly/pdf/ares_monthly_report_202606.pdf) establish the foreign-holder category but do not split sovereign wealth, pensions and other institutions. The rows below describe possible mandate patterns, not measured shares.
 
 | Segment | Reading |
 |---|---|
-| Funds | Sovereign wealth (Asia-Pacific, Middle East) and US / European / Asia-Pacific pensions |
-| Style | Often long-term, partially hedged; J-REIT often a complement to direct-property or [[real-estate-finance/gk-tk-bond-real-estate-spv|GK-TK SPV]] / [[real-estate-finance/private-reit-japan-vs-listed-j-reit-comparison|private-REIT]] holdings |
-| Holdings concentration | Across the large-cap J-REIT names; passive index tilt |
-| Reporting visibility | Limited; large foreign-pension and SWF positions sometimes surface in 大量保有報告 5%-rule disclosure when crossed |
+| Funds | Possible sovereign-wealth or pension mandates; no named holder is inferred from the ARES aggregate |
+| Style | Mandate-specific; any hedge ratio or relationship to direct property / [[real-estate-finance/gk-tk-bond-real-estate-spv|GK-TK SPV]] / [[real-estate-finance/private-reit-japan-vs-listed-j-reit-comparison|private REIT]] requires fund-level evidence |
+| Holdings concentration | Not observable from the cited aggregate data |
+| Reporting visibility | Check dated issuer holder disclosure and applicable 大量保有報告 filings; absence from the aggregate taxonomy is not evidence of absence |
 
 ### Segment 3 — Hedge funds and trading-style investors
 
-Hedge funds and trading-style accounts run directional and spread strategies on J-REIT.
+Directional and spread trades are possible J-REIT strategies, but JPX does not identify hedge funds within the aggregate foreign category.
+
+Table evidence (reviewed 2026-07-29): [JPX investor-type statistics](https://www.jpx.co.jp/english/markets/statistics-equities/investor-type/index.html) report the aggregate foreign trading category, not hedge-fund subcategories. This table is an analytical strategy taxonomy and does not attribute observed volume to a named investor class.
 
 | Strategy | Reading |
 |---|---|
@@ -83,7 +93,7 @@ Hedge funds and trading-style accounts run directional and spread strategies on 
 | Cross-asset | J-REIT vs equity REIT proxies (e.g. major Japan developer stocks) |
 | Hedging | Active FX-hedge management — sometimes the hedge itself is the trade |
 
-### Why the hedging cost dominates
+### How to test hedging cost
 
 For a USD-base foreign investor in J-REIT, the all-in return is approximately:
 
@@ -93,83 +103,74 @@ Total USD return = (J-REIT yield + J-REIT price return)
                  + (JPY-USD FX return on unhedged portion)
 ```
 
-The JPY hedging cost is set by the cross-currency basis swap plus the interest-rate differential. Post-2022 FRB tightening pushed the USD-JPY hedging cost above 4% per year at peak, materially higher than most J-REIT distribution yields. Public-source consequence:
+The JPY hedging cost reflects the interest-rate differential, forward points and cross-currency basis. Its value changes with currency, tenor and date; this page does not use an undated point estimate.
+
+Table evidence (reviewed 2026-07-29): [BoJ statistics](https://www.boj.or.jp/en/statistics/index.htm) provide Japanese rates and related market series; the investor must pair them with the relevant foreign-currency curve and executable hedge quote. The scenarios below are conditional arithmetic, not historical return claims.
 
 | Scenario | Reading |
 |---|---|
-| Fully-hedged J-REIT yield to USD investor (high FRB rate environment) | Often negative on a hedged basis — i.e. distribution yield minus hedging cost < 0% |
+| Fully hedged J-REIT return | Local-currency return minus the period- and tenor-specific hedge cost |
 | Unhedged J-REIT yield to USD investor | Distribution yield in JPY, exposed to JPY-USD FX |
-| Implication | Foreign-investor demand for hedged J-REIT exposure compresses sharply when hedging cost is high |
-| Counter-flow | Hedged-yen yield-investors (yen institutional buyers) may find the same J-REIT attractive at the same time as foreign hedged investors find it unattractive |
+| Demand hypothesis | Compare the calculated hedged return with contemporaneous JPX foreign trading flow; do not infer demand direction from hedge cost alone |
+| Counter-flow hypothesis | Test domestic investor-category flow separately; no automatic offset to foreign flow is assumed |
 
 ### Cross-currency basis swap
 
-The cross-currency basis swap (JPY-USD basis) adds or subtracts a few tens of basis points on top of the interest-rate differential. The basis can be negative for USD-receiving / JPY-paying counterparties (which is the relevant side for foreign-investor J-REIT hedging), reducing the hedged yield further. Public-source data on the cross-currency basis is available from BoJ and major rate-data providers.
+The cross-currency basis can adjust the hedge result beyond the interest-rate differential. Its sign and economic effect depend on quotation convention, trade direction, currency pair, tenor and date. Use an executable or documented quote matched to the investor's hedge; this page does not assert a direction or an undated basis-point adjustment.
 
 ### Implications for J-REIT pricing
 
-The JPY-hedging-cost cycle drives swings in foreign-investor J-REIT flow. Public-source observations:
+A possible link between hedge economics and foreign J-REIT flow is a hypothesis, not an inevitable cycle. Testing checklist:
 
-1. When FRB / ECB rates are low and JPY-USD basis is benign, hedged J-REIT yield is attractive to foreign investors and foreign-investor flow is net positive.
-2. When FRB / ECB rates rise and JPY-USD basis widens, hedged J-REIT yield drops or turns negative; foreign-investor flow turns net negative.
-3. The marginal price impact on J-REIT units is meaningful because foreign-investor trading share is large.
+1. Calculate the period-matched hedged return with a documented quote and explicit basis convention.
+2. Compare it with contemporaneous JPX foreign net trading flow; do not assume the sign.
+3. Test any price-impact claim with matched volume and return data; an ownership snapshot does not establish marginal price setting.
 
 ## 4. Comparison to US REIT foreign ownership
 
+Table evidence (reviewed 2026-07-29): [ARES](https://www.ares.or.jp/action/monthly/pdf/ares_monthly_report_202606.pdf) supplies a J-REIT ownership snapshot and [JPX](https://www.jpx.co.jp/english/markets/statistics-equities/investor-type/index.html) supplies J-REIT trading flow. No directly comparable official US beneficial-ownership series was identified, so this table compares market structure and data availability rather than unsupported percentages.
+
 | Aspect | J-REIT | US REIT |
 |---|---|---|
-| Foreign-investor trading-volume share | Often 40-60% weekly | Lower share of trading volume |
-| Domestic-institutional anchor | Life insurers, pension, asset managers, [[insurance/japan-life-insurance-alm-overview|life ALM book]] | Pension funds, mutual funds, insurance, retail |
-| Domestic-retail share | Material but smaller than foreign-investor flow | Material — US REIT is widely held in retail brokerage accounts |
-| Currency-hedging cost as driver | Major driver | Not relevant (domestic-currency market) |
-| Cross-listing | Limited (a few J-REIT names cross-listed via ADR) | N/A |
-| Foreign-investor mandate route | Global REIT funds, SWF, pension, hedge funds | Global REIT funds and direct international allocations |
+| Foreign ownership / flow evidence used here | ARES ownership survey plus JPX trading flow | No like-for-like percentage asserted |
+| Domestic-institutional evidence | ARES aggregate categories; no named pension or insurance sleeve inferred | No like-for-like series identified here |
+| Domestic-retail evidence | ARES February 2026 individuals / other category at 8.7%; do not compare a stock with JPX foreign flow | No like-for-like percentage asserted |
+| Currency-hedging hypothesis | Potentially relevant to a non-JPY-base investor; quantify by currency, tenor and date | Apply the same investor-base test rather than assuming irrelevance |
+| Cross-listing / depositary receipt | No J-REIT exchange cross-listing is established here; a depositary receipt is not by itself an exchange cross-listing | N/A |
+| Foreign-investor mandate route | Not inferred from ARES ownership or JPX flow categories | Not inferred without fund- or issuer-level evidence |
 
-### Why J-REIT is more foreign-heavy
+### Why raw percentages should not be compared
 
-Several structural factors explain why J-REIT has a higher foreign-ownership share than US REIT:
+J-REIT ownership is reported through Japanese holder categories and nominee structures, while US public-company ownership data use different filing and institutional-reporting conventions. A defensible cross-market comparison therefore needs a common denominator, date and beneficial-owner treatment. Without those controls, “J-REIT is more foreign-heavy” is not established by the sources used here.
 
-1. **Smaller domestic-retail base** — Japanese retail investors hold less listed REIT relative to other yen assets than US retail investors hold US REIT.
-2. **Domestic-yen yield environment** — for much of the J-REIT era, yen-yield investors found J-REIT distribution yield attractive relative to JGB; this absorbed some demand but left room for foreign-investor entry at the marginal-flow level.
-3. **Global REIT index inclusion** — Japan's large listed-REIT market gets meaningful weight in global REIT indices, which produces structural foreign-investor demand.
+Global index inclusion and FX hedging can affect demand, but their price impact must be demonstrated with period-matched flow and return data rather than inferred from a holder label.
 
 ### Life insurer flow
 
-[[insurance/japan-life-insurance-alm-overview|Japanese life insurers]] hold J-REIT as part of the alternative-asset / real-estate sleeve. They do not need to hedge JPY exposure since their liabilities are JPY. When foreign investors net-sell J-REIT (due to hedging-cost pressure), life insurers may net-buy if J-REIT pricing produces attractive yen-yield pickup over JGB.
+ARES reports an aggregate financial-institution category but does not isolate a life-insurer J-REIT sleeve. A possible yen-yield allocation response should be tested with dated insurer disclosure or JPX life / non-life trading flow and matched JGB / J-REIT data; no inverse response to foreign flow is assumed. See [[insurance/japan-life-insurance-alm-overview|Japanese life-insurer ALM]] for the separate balance-sheet framework.
 
 ### Pension fund flow
 
-[[banking/master-trust-bank-operating-model|Master trust bank]] custody data shows GPIF and corporate pensions hold meaningful J-REIT allocations through equity mandates and dedicated real-estate sleeves. Pension-fund flow is generally more stable than foreign or hedge-fund flow because of allocation-target structures.
+This page makes no claim that a named public or corporate pension holds a dedicated J-REIT or real-estate sleeve. ARES aggregate categories and nominee names do not establish that allocation. Any named pension holding requires a dated fund disclosure or issuer ownership filing; JPX trust-bank trading flow is not pension ownership evidence.
 
 ### Regional bank flow
 
-Regional banks hold J-REIT in the treasury portfolio for yield. Regional bank flow is sensitive to absolute yen yields and to the overall yen-curve shape.
+ARES and JPX category labels do not by themselves establish a regional-bank holding or its yield sensitivity. Test a named-bank claim with dated bank or issuer disclosure and use JPX bank-category statistics only as aggregate trading flow.
 
-## 6. Custody and ownership-channel mechanics
+## 6. Custody and ownership evidence boundary
 
-Foreign investors typically hold J-REIT through global-custodian Japan sub-custody chains:
+A custody chain is mandate-specific. This page does not assert that every foreign investor uses a named global custodian, a Japan branch, MTBJ / CBJ or any single registration route.
 
-```
-Foreign investor
-    │
-    │  custody mandate
-    ▼
-Global custodian (BNY Mellon / State Street / JPM / Citi)
-    │
-    │  sub-custody mandate
-    ▼
-Japan sub-custodian (typically the global custodian's Japan branch)
-    │
-    │  JASDEC book-entry
-    ▼
-JASDEC ────► Foreign-investor's beneficial holding recorded
-              under domestic trust-bank nominee
-              (「信託口」 surface — MTBJ or CBJ)
-```
+Table evidence (reviewed 2026-07-29): [ARES ownership statistics](https://www.ares.or.jp/action/monthly/pdf/ares_monthly_report_202606.pdf), [JPX investor-type statistics](https://www.jpx.co.jp/english/markets/statistics-equities/investor-type/index.html), and [JASDEC](https://www.jasdec.com/en/) define separate ownership, trading-flow, and settlement evidence layers. None identifies a specific beneficial owner without the applicable holder disclosure.
 
-This means foreign-investor beneficial holdings of J-REIT sit under the same MTBJ / CBJ nominee surface as domestic-institutional holdings. The investor-type breakdown in J-REIT trading statistics is observable from trade-side data, but holdings-side breakdown requires settlement-side analysis (which is not in public granular surface).
+| Question | Evidence required |
+|---|---|
+| Aggregate foreign ownership | Dated ARES unitholder survey with denominator and indirect-holding exclusions |
+| Named-vehicle holder | Dated issuer unitholder / major-holder disclosure, distinguishing registered name from beneficial owner where disclosed |
+| Investor-type trading | JPX weekly statistics; flow only, not holdings |
+| Settlement infrastructure | JASDEC and custodian operating documentation; it does not identify the beneficial owner of a specific aggregate position |
 
-See [[banking/master-trust-bank-operating-model|Master Trust Bank of Japan operating model]] for the trust-bank nominee mechanism and [[banking/japan-master-trust-and-custody-bank-landscape|Japan master-trust and custody bank landscape]] for the broader infrastructure map.
+Nominee names cannot be mapped automatically to foreign or domestic beneficial owners. See [[banking/master-trust-bank-operating-model|Master Trust Bank of Japan operating model]] and [[banking/japan-master-trust-and-custody-bank-landscape|Japan master-trust and custody bank landscape]] for infrastructure background, not ownership attribution.
 
 ## Related
 

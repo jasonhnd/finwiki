@@ -7,9 +7,9 @@ aliases:
   - "日本 acquisition finance"
 domain: finance
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
-review_by: 2026-11-22
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
 confidence: likely
 tags: [finance, M&A, acquisition-finance, LBO, syndicated-loan, TOB]
 status: active
@@ -26,6 +26,7 @@ sources:
   - "https://www.jsla.org/english"
   - "https://www.boj.or.jp/en/statistics/dl/loan/index.htm"
   - "https://www.lseg.com/en/data-analytics/financial-data/deals-data/investment-banking-league-tables"
+  - "https://www.fsa.go.jp/news/r6/ginkou/20250630-2/250630-2.html"
 ---
 
 # Japan acquisition finance
@@ -36,7 +37,7 @@ This page sits under [[finance/INDEX|finance domain]]. Read it with [[finance/ja
 
 ## Overview
 
-Japan acquisition finance is the debt-financing route behind M&A, LBO, MBO, sponsor acquisitions, corporate acquisitions, and tender offers. The basic stack is buyer / sponsor -> SPC or newco -> equity cheque -> senior debt -> mezzanine or junior debt -> bridge / bond takeout -> hedging -> security package -> post-closing refinancing.
+Japan acquisition finance is the debt-financing route behind M&A, LBO, MBO, sponsor acquisitions, corporate acquisitions, and tender offers. A transaction may use a buyer or sponsor, an SPC or newco, equity, senior debt, junior debt, bridge finance, hedging, security, or refinancing, but those are optional components rather than a universal sequence.
 
 Use this page with [[finance/japan-tender-offer-process|Japan tender offer process]], [[finance/cross-border-m-a-japan|cross-border M&A Japan]], [[finance/japan-ib-league-table|Japan IB league table]], [[securities/japan-underwriting-market-structure|underwriting market structure]], and [[banking/post-megabank-positioning|post-megabank positioning]].
 
@@ -57,7 +58,7 @@ Use this page with [[finance/japan-tender-offer-process|Japan tender offer proce
 | Layer | Purpose | Risk |
 |---|---|---|
 | Equity | Absorbs first loss and supports acquisition certainty. | Sponsor capacity, valuation discipline, governance. |
-| Senior loan | Main acquisition debt, often syndicated or clubbed. | Leverage, covenant headroom, refinancing, collateral. |
+| Senior loan | Potential acquisition-debt layer; a facility may be bilateral, clubbed, or syndicated as the executed documents specify. | Leverage, covenant headroom, refinancing, collateral. |
 | Mezzanine / junior debt | Fills leverage gap when senior debt is insufficient. | Higher cost, subordination, exit risk. |
 | Bridge finance | Temporary debt before bond, equity, or long-term loan takeout. | Market-window and takeout risk. |
 | Hedging | Interest-rate and FX risk management. | Mark-to-market, documentation, counterparty risk. |
@@ -74,22 +75,26 @@ Use this page with [[finance/japan-tender-offer-process|Japan tender offer proce
 | Security agent | Who holds collateral for lenders? |
 | Hedge provider | Who provides interest-rate / FX hedges? |
 
-Japan anchors include [[megabanks/mufg-bank|MUFG Bank]], [[megabanks/mizuho-bank|Mizuho Bank]], [[megabanks/sumitomo-mitsui-banking-corp|SMBC]], [[trust-banks/smtb|SMTB]], [[financial-regulators/dbj|DBJ]], [[securities-firms/nomura-hd|Nomura]], [[securities-firms/daiwa-sg|Daiwa Securities Group]], [[foreign-financial-institutions/jpmorgan-japan|J.P. Morgan Japan]], [[securities-firms/goldman-sachs-japan|Goldman Sachs Japan]], and [[securities-firms/morgan-stanley-japan|Morgan Stanley Japan]].
+Potential participants include commercial banks, trust banks, policy-finance institutions, private-credit funds, securities firms, and financial advisers. Do not infer a lender, arranger, agent, or adviser mandate from an institution's capability page: identify each role from the dated facility disclosure, tender-offer statement, commitment evidence, or issuer filing. Entity pages such as [[megabanks/mufg-bank|MUFG Bank]], [[megabanks/mizuho-bank|Mizuho Bank]], [[megabanks/sumitomo-mitsui-banking-corp|SMBC]], [[trust-banks/smtb|SMTB]], and [[financial-regulators/dbj|DBJ]] are research routes only.
 
 ## TOB / Public Disclosure Interface
+
+Source: this table is a filing-review checklist routed to the FSA's [tender-offer FAQ](https://www.fsa.go.jp/en/laws_regulations/faq_on_fiea/section04.html), [EDINET](https://disclosure.edinet-fsa.go.jp/), and [JPX TDnet](https://www.jpx.co.jp/english/equities/listing/disclosure/tdnet/index.html); the actual filed documents determine the funding evidence and disclosure status.
 
 | Public artifact | Acquisition-finance question |
 |---|---|
 | Offeror announcement | Is financing committed, conditional, or still under discussion? |
 | Tender offer statement | What funding source supports settlement? |
 | Target opinion | Does the board / committee discuss certainty of funds or offeror financing? |
-| TDnet | Are financing terms, amendments, or target responses timely disclosed? |
+| TDnet | Did a listed company publish a material financing decision, amendment, or target response under the applicable exchange rules? |
 | EDINET | Are statutory documents updated when terms change? |
 | Post-closing disclosure | Is there refinancing, delisting, merger, squeeze-out, or capital-policy change? |
 
 For public-company acquisitions, open [[finance/japan-tender-offer-process|Japan tender offer process]] before interpreting a financing headline. TOB rules, large-shareholding reports, target-company opinions, and settlement funding can change during the public process.
 
 ## Risk Map
+
+Source: the table is a diligence checklist based on the FSA's [Monitoring Report on Domestic Practices of LBO Loans (2025)](https://www.fsa.go.jp/news/r6/ginkou/20250630-2/250630-2.html); it does not state any deal's leverage, covenant, or approval outcome.
 
 | Risk | Control question |
 |---|---|
@@ -103,7 +108,7 @@ For public-company acquisitions, open [[finance/japan-tender-offer-process|Japan
 
 ## Research Checklist
 
-1. Identify buyer, target, sponsor, lenders, adviser, offer agent, and settlement bank.
+1. Identify buyer and target first; record sponsor, lender, adviser, offer-agent, and settlement-bank roles only when a dated public document names them.
 2. Separate acquisition debt from ordinary working-capital facilities.
 3. Pull public TOB / TDnet / EDINET documents when the target is listed.
 4. Check whether lender commitments are firm, conditional, syndicated, or bridge-style.

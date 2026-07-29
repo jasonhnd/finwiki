@@ -1,22 +1,24 @@
 ---
 source: finance/japan-mbo-and-squeeze-out-process
-source_hash: 80048e28af160590
+source_hash: 98319b2958143b48
 lang: ja
 status: machine
 fidelity: ok
 title: "日本の MBO とスクイーズアウト手続"
-translated_at: 2026-06-02T13:21:55.083Z
+translated_at: 2026-07-29T14:37:22.568Z
 ---
 
 # 日本の MBO とスクイーズアウト手続
 
 ## 概要
 
-日本の上場会社 MBO または支配株主による買収は、公開会社の支配権取引である。公開プロセスのルートには、取締役会と特別委員会の手続、バリュエーション / 公正性作業、TOB 開始と開示、対象者意見 / TDnet 開示、決済、TOB 後のスクイーズアウト、該当する場合の上場廃止が含まれる。
+日本の上場会社 MBO または支配株主による買収は、公開会社の支配権取引である。取引に応じて、公開記録には、取締役会での検討、特別委員会などの利益相反対応、バリュエーションまたは公正性に関する作業、TOB 開示、対象者意見／TDnet 開示、決済、TOB 後のスクイーズアウト、上場廃止が含まれ得る。
 
 このページは [[finance/INDEX|finance domain]] の下に位置し、MBO / スクイーズアウトを公開会社の支配権ルートとして扱う。[[finance/japan-tender-offer-process|Japan tender offer process]]、[[finance/japan-acquisition-finance|Japan acquisition finance]]、[[finance/japan-activist-investor-playbook|Japan activist investor playbook]]、[[finance/cross-border-m-a-japan|cross-border M&A Japan]]、[[securities/tokyo-stock-exchange|Tokyo Stock Exchange]]、[[financial-regulators/japan-exchange-group|Japan Exchange Group]]、[[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]]、[[megabanks/sony-fg|Sony FG]]、[[payment-firms/wealthnavi|WealthNavi]] とあわせて使う。
 
 ## 四層フレームワーク
+
+出典: 本表は、経済産業省の[公正な M&A の在り方に関する指針](https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/pdf/fairmaguidelines.pdf)、金融庁の[May 1, 2026 施行後の公開買付制度](https://www.fsa.go.jp/news/r7/shouken/20250704/20250704.html)、[会社法](https://www.japaneselawtranslation.go.jp/en/laws/view/4481/en)、および [JPX の上場廃止資料](https://www.jpx.co.jp/equities/listing/delisting/)を対応づける。
 
 | 層 | 公開ソースのルート | 公開記録で見る項目 |
 |---|---|---|
@@ -27,11 +29,15 @@ translated_at: 2026-06-02T13:21:55.083Z
 
 ## プロセスマップ
 
+出典: 本表は、経済産業省の[公正な M&A の在り方に関する指針](https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/pdf/fairmaguidelines.pdf)、金融庁の[公開買付制度](https://www.fsa.go.jp/news/r7/shouken/20250704/20250704.html)、および [JPX TDnet](https://www.jpx.co.jp/equities/listing/disclosure/tdnet/index.html)を総合したプロセス・チェックリストである。実際の順序は提出済みの取引文書に従う。
+
+経済産業省の公正な M&A の在り方に関する指針は、法令ではない指針である。MBO という名称だけで、特別委員会、フィナンシャルアドバイザー、株式価値算定書、フェアネス・オピニオン、または固定的な保護パッケージが普遍的に必要となるわけではない。適用法上の要件を確認し、実際の利益相反、取締役会手続、指針、提出済み取引記録から各保護策を評価する。
+
 | 段階 | 起きること | 文書 / 証拠 |
 |---|---|---|
 | 初期提案 | 経営陣、スポンサー、親会社、または支配株主が非公開化 / 買収ルートを提案する。 | 提案書、開示されている場合の取締役会議事録、公表資料の背景説明 |
-| 利益相反体制の設定 | 対象会社が利益相反と手続保護を特定する。 | 特別委員会、社外取締役、独立アドバイザー、リーガルアドバイザー |
-| バリュエーション / 公正性 | フィナンシャルアドバイザーが価格と公正性を評価する。 | 株式価値算定書、取得されている場合のフェアネス・オピニオン、特別委員会意見 |
+| 利益相反体制の設定 | 対象会社が利益相反を特定し、取引に適した手続保護を選択する。 | 採用された場合の特別委員会、社外取締役、独立アドバイザー、リーガルアドバイザー |
+| バリュエーション / 公正性（採用する場合） | 対象会社、取締役会、または委員会は、当該取引で選択した場合にバリュエーションまたは公正性の助言を取得し得る。法定の既定ステップではない | 取得または発行された場合に限り、株式価値算定書、フェアネス・オピニオン、委員会意見 |
 | TOB 開始 | 買付者が公開買付けを開始する。 | 公告、公開買付届出書、買付者プレスリリース |
 | 対象者対応 | 対象会社取締役会が賛同 / 意見 / 中立 / 反対を表明する。 | 意見表明報告書、TDnet 開示、特別委員会の理由 |
 | 買付期間と修正 | 買付けが延長され、または条件が修正されることがある。 | EDINET 訂正、TDnet 更新 |
@@ -41,10 +47,12 @@ translated_at: 2026-06-02T13:21:55.083Z
 
 ## スクイーズアウトのルート
 
+出典: 本表は [会社法](https://www.japaneselawtranslation.go.jp/en/laws/view/4481/en)と [JPX の上場廃止資料](https://www.jpx.co.jp/equities/listing/delisting/)への確認経路を示す。適用されるキャッシュアウトまたは株式併合の経路は、公開買付後の実際の保有比率と取得済み決議に依存する。
+
 | ルート | 関連する場面 | 読み方 |
 |---|---|---|
-| 特別支配株主の株式等売渡請求 | 買付者が会社法ルートに必要な高い議決権比率に到達した場合 | 所有比率要件を満たす場合の迅速なルート。通知、承認、取得日、閲覧権を確認する。 |
-| 株式併合 | TOB 後の所有比率が高いが、キャッシュアウト閾値ルートを直接使わない場合の一般的な第二段階 | 株主総会決議の手続が必要で、反対株主の株式買取請求権の問題が生じる。 |
+| 特別支配株主の株式等売渡請求 | 買付者が議決権の 90% 以上を保有し、会社法上の定義と手続を満たす場合 | 対象会社の承認、通知、取得日、法定の価格決定・書類閲覧ルートを確認する。 |
+| 株式併合 | 特別支配株主ルートを利用できない、または選択しない場合に用い得る第二段階 | 適用される株主総会決議が必要で、影響を受ける株主には法定の買取・価格決定ルートがある。 |
 | 全部取得条項付種類株式 | 資本構成がコール対象株式の取得を支える場合 | より構造依存。定款、種類株式設計、開示を確認する。 |
 | 合併 / 株式交換 | グループ再編の文脈 | 会社法、税務、M&A 支配権の領域。 |
 
@@ -68,7 +76,7 @@ FinWiki は、公開された手続保護と、それを開示するソース文
 
 ## 資金調達の重ね合わせ
 
-MBO では、買収ローン、スポンサー出資、ロールオーバー出資、ブリッジローン、銀行融資が必要になることが多い。資金調達分析は [[finance/japan-acquisition-finance|Japan acquisition finance]] へルートする。TOB 届出書では、資金証明、開示されている貸付人名、前提条件、買付予定数の上限、全株応募時に買付者が決済できるかを確認する。
+MBO では、買収ローン、スポンサー出資、ロールオーバー出資、ブリッジ・ファイナンス、その他の資金を用いる場合がある。資金調達分析は [[finance/japan-acquisition-finance|Japan acquisition finance]] へルートする。提出済み TOB 文書では、開示された資金源、裏付け文書、条件、買付予定数の上限、決済手配を確認し、貸付人は提出書類に名称が記載されている場合に限り記録する。
 
 ## ソース項目
 

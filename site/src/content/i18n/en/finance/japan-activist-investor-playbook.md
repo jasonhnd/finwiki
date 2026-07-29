@@ -1,11 +1,11 @@
 ---
 source: finance/japan-activist-investor-playbook
-source_hash: 52e94840008cd874
+source_hash: cd15cfa80137c6a6
 lang: en
 status: machine
 fidelity: ok
 title: "Japan activist investor playbook"
-translated_at: 2026-05-31T06:16:15.738Z
+translated_at: 2026-07-29T14:32:12.538Z
 ---
 
 # Japan activist investor playbook
@@ -22,6 +22,8 @@ Use this page with [[finance/japan-tender-offer-process|Japan tender offer proce
 
 ## Public Playbook Stages
 
+Source: the table is a public-record workflow derived from the FSA's [corporate-governance reform materials](https://www.fsa.go.jp/en/policy/corporategovernencereform/20240115.html), [JPX corporate-governance materials](https://www.jpx.co.jp/english/equities/listing/cg/index.html), and the FSA's [large-shareholding filing rules](https://www.fsa.go.jp/common/shinsei/tairyohoyu/index.html).
+
 | Stage | Public artifact | Main question |
 |---|---|---|
 | Screening | TSE cost-of-capital request, valuation, balance sheet, governance report. | Is there a public reason activists might engage? |
@@ -35,17 +37,21 @@ Use this page with [[finance/japan-tender-offer-process|Japan tender offer proce
 
 ## Governance / Disclosure Hooks
 
+Source: the table maps the FSA's [current Stewardship Code materials](https://www.fsa.go.jp/en/refer/councils/stewardship/index.html), [JPX corporate-governance materials](https://www.jpx.co.jp/english/equities/listing/cg/index.html), and the post-2026 [large-shareholding filing route](https://www.fsa.go.jp/common/shinsei/tairyohoyu/index.html).
+
 | Hook | How to use it |
 |---|---|
 | Corporate Governance Code | Baseline for board independence, capital policy, disclosure, and shareholder rights. |
 | Stewardship Code | Investor-side engagement and voting principles. |
-| TSE cost-of-capital / stock-price action | Public pressure surface for companies trading below capital-efficiency expectations. |
+| TSE cost-of-capital / stock-price action | TSE requests action from all Prime and Standard Market companies, irrespective of P/B level; valuation and capital efficiency remain company-specific analysis fields. |
 | FIEA 5% large-shareholding rule | Identifies major holders, joint holders, purpose, and changes where filed. |
 | Companies Act | Shareholder meeting, proposal, and corporate-law route. |
 | TOB rules | When a campaign becomes a public acquisition / control process. |
 | TDnet / EDINET | Timely disclosure and statutory filing surface. |
 
 ## Engagement Types
+
+Source: the table is an analytical classification for reading the public filings identified in the FSA's [large-shareholding route](https://www.fsa.go.jp/common/shinsei/tairyohoyu/index.html) and METI's [Guidelines for Corporate Takeovers](https://www.meti.go.jp/english/press/2023/0831_001.html); a filing's stated purpose controls over this taxonomy.
 
 | Type | Better reading |
 |---|---|
@@ -57,6 +63,8 @@ Use this page with [[finance/japan-tender-offer-process|Japan tender offer proce
 | TOB / control bid | Move to [[finance/japan-tender-offer-process|tender offer process]] and takeover-guideline route. |
 
 ## Actor Map
+
+Source: the table assigns public-record roles using [JPX disclosure infrastructure](https://www.jpx.co.jp/english/equities/listing/disclosure/tdnet/index.html) and the FSA's [large-shareholding filing route](https://www.fsa.go.jp/common/shinsei/tairyohoyu/index.html); it is not evidence that any named actor is participating in a particular campaign.
 
 | Actor | Role |
 |---|---|
@@ -70,10 +78,10 @@ Use this page with [[finance/japan-tender-offer-process|Japan tender offer proce
 
 ## JapanFG Relevance
 
-Japan financial-company activism often touches capital policy, listing status, bank relationships, securities adviser roles, and public-market infrastructure:
+For a finance-sector campaign, research may need to cover capital policy, listing status, bank relationships, adviser roles, and public-market infrastructure. The following links identify possible actor categories and do not establish a mandate or participation in any campaign:
 
 - Infrastructure / regulator-adjacent anchors: [[financial-regulators/japan-exchange-group|Japan Exchange Group]], [[financial-regulators/jsda|JSDA]], [[securities/tokyo-stock-exchange|TSE]].
-- Advisers / brokers: [[securities-firms/nomura-hd|Nomura]], [[securities-firms/daiwa-sg|Daiwa Securities Group]], [[securities-firms/smbc-nikko|SMBC Nikko]], [[securities-firms/mizuho-securities|Mizuho Securities]], [[securities-firms/goldman-sachs-japan|Goldman Sachs Japan]], [[foreign-financial-institutions/jpmorgan-japan|J.P. Morgan Japan]], [[securities-firms/morgan-stanley-japan|Morgan Stanley Japan]].
+- Possible adviser / broker research routes: [[securities-firms/nomura-hd|Nomura]], [[securities-firms/daiwa-sg|Daiwa Securities Group]], [[securities-firms/smbc-nikko|SMBC Nikko]], [[securities-firms/mizuho-securities|Mizuho Securities]], [[securities-firms/goldman-sachs-japan|Goldman Sachs Japan]], [[foreign-financial-institutions/jpmorgan-japan|J.P. Morgan Japan]], [[securities-firms/morgan-stanley-japan|Morgan Stanley Japan]]. Confirm any actual role from the issuer, investor, or transaction filing.
 - Finance / fintech cases that may intersect public-company control: [[megabanks/sbi-hd|SBI HD]], [[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]], [[megabanks/sony-fg|Sony FG]], [[payment-firms/wealthnavi|WealthNavi]].
 
 ## Red Flags / Caveats
@@ -82,7 +90,7 @@ Japan financial-company activism often touches capital policy, listing status, b
 |---|---|
 | Joint-holder ambiguity | Multiple holders acting together can change disclosure obligations and control analysis. |
 | "Important suggestion" language | Purpose descriptions in large-shareholding reports require careful reading. |
-| Insider information | Engagement must not be confused with lawful possession / use of non-public information. |
+| Insider information | Engagement does not displace insider-trading, selective-disclosure, confidentiality, or trading-restriction analysis for non-public information. |
 | Market manipulation | Public campaigns and trading activity need separate evidence and legal caution. |
 | Hostile takeover overreach | Not every engagement is a control transaction. |
 | Adviser conflict | Investment banks, brokers, lenders, and advisers may sit on multiple sides of a situation. |

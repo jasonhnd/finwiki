@@ -1,18 +1,18 @@
 ---
 source: real-estate-finance/jrei-foreign-investment-tax-treatment
-source_hash: 18533317a531ff5d
+source_hash: f635f640370d8859
 lang: en
 status: machine
 fidelity: ok
 title: "Foreign investment in Japan real estate tax treatment"
-translated_at: 2026-06-01T03:31:12.298Z
+translated_at: 2026-07-29T00:00:00.000Z
 ---
 
 # Foreign investment in Japan real estate tax treatment
 
 ## TL;DR
 
-Foreign investment in Japan real estate carries distinct Japanese tax treatment that varies by investor type (non-resident corporate vs individual), holding structure (direct vs through TK / GK-TK / TMK vs through J-REIT), income type (rental vs capital gain), permanent-establishment (PE) status, and double-tax-treaty (DTT) coverage. Key fixtures include rental-income withholding, capital-gains taxation for non-residents holding Japan-real-estate-rich entities, TK investor tax-pass-through efficiency for properly structured arrangements, and the J-REIT 90% distribution rule that delivers entity-level tax pass-through. This is route-and-link only; not tax, legal, or investment advice. All readings require qualified Japanese tax-counsel verification against the most recent NTA / MoF guidance before any decision use.
+Japanese tax treatment of foreign investment in real estate varies by taxpayer classification, direct or vehicle-based holding route, income/payment type, PE and beneficial-owner facts, domestic-law source rules, treaty text, and procedural filings. Rental payments and sale consideration can carry different withholding rules; TK allocations, TMK/J-REIT distribution deductions, and securities gains each have separate conditions. No table below supplies a rate or exemption for a real transaction. This is a routing checklist, not tax, legal, or investment advice; use the current NTA rule/procedure and the exact MoF treaty text with qualified Japanese counsel.
 
 ## Wiki route
 
@@ -20,150 +20,161 @@ This entry sits under [[real-estate-finance/INDEX]] and is the cross-border-tax-
 
 ## Tax-Surface Map
 
+Table source note: Each row is a separate issue-spotting route. NTA's non-resident real-estate page specifically addresses rent and its individual residential-use exception; NTA Tax Answer 2879 addresses withholding on consideration for land etc.; treaty relief requires the exact treaty and procedure. Do not transfer a rate, threshold, or exemption from one row to another. ^[Sources: https://www.nta.go.jp/english/taxes/individual/12014.htm, https://www.nta.go.jp/taxes/shiraberu/taxanswer/gensen/2879.htm, https://www.nta.go.jp/taxes/shiraberu/taxanswer/gensen/2888.htm, and https://www.mof.go.jp/english/policy/tax_policy/tax_conventions/tax_convetion_list_en.html.]
+
 | Income / event | Tax surface for non-resident investor |
 |---|---|
-| Rental income (direct ownership) | Japan-source income; subject to Japan corporate / individual income tax filing; withholding may apply on payments to non-residents. |
-| Capital gain on direct sale | Japan-source income; subject to non-resident capital-gains taxation under specified rules. |
-| Capital gain on shares of Japan real-estate-rich company | Source-rule tax may apply if entity exceeds defined real-estate-share threshold. |
-| Distributions from J-REIT | Subject to Japanese withholding tax; DTT reduction may apply. |
-| Capital gain on J-REIT secondary sale | Source-rule capital-gains tax may apply; DTT typically reduces / exempts for portfolio holders. |
-| TK distributions to TK investor | TK income treatment for TK investor; specific source-rule conditions. |
-| GK-TK / TMK distributions | Entity-level treatment with pass-through to investor depending on structure. |
-| Bridge / mezz interest paid abroad | Withholding tax on interest payments; DTT reduction may apply. |
+| Rental income (direct ownership) | Japan-source income and filing/withholding analysis; payer and individual-residential-use facts matter |
+| Direct sale of land/building | Gain/source-rule and filing analysis plus a separate purchaser withholding analysis for consideration paid to a non-resident |
+| Shares of a Japan real-estate-rich entity | Domestic source-rule and exact-treaty analysis, including current ownership/asset tests |
+| Distribution from a J-REIT | Domestic withholding/classification plus beneficial-owner, treaty, and filing analysis |
+| Secondary sale of J-REIT units | Domestic source-rule, holding/transaction facts, and exact-treaty analysis; no portfolio exemption is assumed |
+| TK profit allocation/payment | Operator/investor classification, allocation timing, source, withholding, PE, and treaty analysis |
+| GK-TK / TMK payment | Identify the legal payment first; vehicle label alone does not establish pass-through treatment |
+| Cross-border bridge / mezzanine return | Determine whether the return is interest, profit allocation, distribution, fee, or another item before applying withholding/treaty rules |
 
 All readings above are general public-surface summaries. Actual treatment depends on the investor's home jurisdiction, treaty, PE status, structure, and current NTA / MoF guidance.
 
 ## Investor-Type Distinction
 
-| Investor type | Public-surface reading |
-|---|---|
-| Non-resident corporate (no Japan PE) | Subject to limited-tax-liability rules; Japan-source income taxable; treaty position critical. |
-| Non-resident corporate (with Japan PE / branch) | Treated more closely to Japan domestic corporate for Japan-PE-attributable income. |
-| Non-resident individual | Limited-tax-liability rules apply; rental-income filing required; treaty position critical. |
-| Foreign pension fund | DTT-specific exemption may apply for J-REIT distributions in some treaties. |
-| Foreign sovereign-wealth fund | Sovereign-immunity-style treaty provisions may apply depending on treaty. |
-| Foreign-incorporated investment vehicle | Treated as a corporate non-resident unless treaty-specific transparent treatment applies. |
+Table source note: “Corporate,” “individual,” “pension,” “sovereign,” and “vehicle” labels are starting facts, not treaty conclusions. Residence, transparency, beneficial ownership, PE attribution, LOB/entitlement, and filing evidence must be tested under the exact current treaty and Japanese rules. ^[Sources: https://www.mof.go.jp/english/policy/tax_policy/tax_conventions/tax_convetion_list_en.html and https://www.nta.go.jp/taxes/shiraberu/taxanswer/gensen/2888.htm.]
 
-The PE / FPI (foreign-portfolio-investor) distinction is the most common analytical gating step: PE-attributable income is taxed broader-net; non-PE income is limited to source rules.
+| Investor type | Issues to verify |
+|---|---|
+| Non-resident corporate (no Japan PE asserted) | Test taxpayer status, Japanese-source income, PE facts, filing/withholding, and exact-treaty provisions |
+| Non-resident corporate (Japan PE / branch may exist) | Test whether a PE exists, income attribution, domestic rules, filing/withholding, and the exact treaty |
+| Non-resident individual | Test taxpayer status, Japanese-source rent/gain, filing/withholding, and the exact treaty |
+| Foreign pension fund | No generic exemption; check entity/residence/beneficial-owner status and the exact treaty provision and procedure |
+| Foreign sovereign or sovereign-related investor | No generic immunity conclusion; check Japanese law, entity facts, and the exact treaty or other applicable instrument |
+| Foreign-incorporated investment vehicle | Japanese classification and treaty transparency/entitlement are fact-specific; incorporation label alone does not decide treatment |
+
+PE status and attribution are among the questions to resolve; do not rank them above taxpayer, source, payment, ownership, anti-abuse, treaty-entitlement, and procedure questions without the actual facts.
 
 ## Permanent Establishment (PE) Logic
 
+Table source note: This is an issue-spotting map only. Domestic-law and treaty PE definitions, duration tests, agency rules, attribution, and exceptions differ; use the exact current treaty rather than the former universal twelve-month statement. ^[Source: https://www.mof.go.jp/english/policy/tax_policy/tax_conventions/tax_convetion_list_en.html.]
+
 | PE trigger pattern | Comment |
 |---|---|
-| Branch office in Japan | Classic PE trigger; income attributable to branch is Japan-taxable. |
-| Construction / installation project >12 months | Construction-PE trigger under most treaties. |
-| Dependent agent in Japan | Agency-PE trigger when agent habitually exercises authority. |
-| Asset-management or property-management activities | Asset-management activity carried out in Japan may risk PE under some interpretations; structuring uses trust-bank / qualified-asset-manager arrangements to mitigate. |
+| Branch office in Japan | Apply the exact domestic-law and treaty PE definitions, attribution rules, and exceptions to the branch facts |
+| Construction / installation project | The relevant duration and other tests come from domestic law and the applicable treaty; there is no universal 12-month threshold |
+| Agent activity in Japan | Apply the exact domestic-law and treaty agency tests, including role, authority, independence, and exceptions |
+| Asset-management or property-management activities | Map personnel, authority, decisions, locations, outsourced functions, and attribution; no PE or no-PE result follows from a trust-bank or manager label |
 
-The PE risk is one of the central structuring questions for foreign-GP real-estate investment in Japan. The trust-bank / qualified-asset-manager arrangement is part of the standard mitigation pattern, which is why trust-bank involvement (per [[trust-banks/mitsubishi-ufj-trust-bank]] and [[trust-banks/sumitomo-mitsui-trust]]) is structurally important.
+Trust-bank or asset-manager involvement is not treated as a standard mitigation or safe harbour. Verify the actual functions, authority, place of activity, and contracts, using [[trust-banks/mitsubishi-ufj-trust-bank]] and [[trust-banks/sumitomo-mitsui-trust]] only as capability context.
 
 ## Withholding Tax on Rental Income
 
+Table source note: NTA specifically states the non-resident rent rule and individual residential-use exception. Agent/property-manager rows remain contract-and-payer diligence questions, not separate statutory rates. ^[Source: https://www.nta.go.jp/english/taxes/individual/12014.htm.]
+
 | Payer / payee | Withholding logic |
 |---|---|
-| Tenant pays non-resident landlord | Withholding tax obligation may apply at statutory rate. |
-| Tenant pays Japan-resident agent for non-resident | Withholding obligation typically with agent / payer. |
-| Property manager remits to non-resident | Withholding obligation typically with payer. |
-| Treaty-relief application | Treaty may reduce withholding subject to filing / documentation. |
+| Tenant pays non-resident landlord | NTA states 20.42% withholding on rent, subject to the stated exception for an individual renting land/house for the individual or relatives to reside in; verify current law and facts |
+| Tenant pays through a Japan-resident agent | Agency does not by itself answer who is the statutory payer or withholding agent; map the payment and contract |
+| Property manager remits to non-resident | Determine whether it is the payer/withholding agent under the actual arrangement |
+| Treaty-relief application | Do not assume rent is reduced; check the exact treaty and submit any required form/documentation |
 
-Non-resident landlords typically file Japan corporate / individual income tax returns to net withholding against actual tax liability; refunds applied through filing.
+Depending on the taxpayer, income, withholding, treaty position, and current NTA procedure, a Japan corporate- or individual-income-tax return may be required or available; whether withholding is credited or refunded must be determined through the applicable filing and assessment process.
 
 ## Capital Gains for Non-Resident
 
+Table source note: NTA Tax Answers 2878 and 1932 support the domestic-source and filing analysis for a non-resident individual's direct sale of Japanese real estate. NTA's specific non-resident/foreign-corporation real-estate handout flags that certain shares of a “real-estate-related corporation” can also fall within Japanese rules, but the current entity, asset, ownership, holding, transaction, taxpayer, and treaty tests must be applied; this table deliberately states no generic threshold, exemption, or indirect-sale look-through rule. ^[Sources: https://www.nta.go.jp/taxes/shiraberu/taxanswer/gensen/2878.htm, https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1932.htm, https://www.nta.go.jp/about/organization/sapporo/hikyoju_gaikoku/pdf/01.pdf, and https://www.mof.go.jp/english/policy/tax_policy/tax_conventions/tax_convetion_list_en.html.]
+
 | Sale type | Source rule |
 |---|---|
-| Direct sale of Japan real estate | Japan-source capital gain; non-resident is subject to Japan capital-gains tax on net gain; treaty typically does not exempt. |
-| Sale of shares in Japan real-estate-rich entity | Source-rule may treat gain as Japan-source if entity's real-estate-share exceeds threshold; tax applies even though shares are equity. |
-| Sale of J-REIT units (portfolio holding) | Typically exempted from Japan capital-gains tax for treaty-resident portfolio holders, subject to specific holding-threshold and treaty conditions. |
-| Sale of TMK preferred shares | Source-rule and treaty-specific analysis required. |
-| Indirect sale through foreign holding vehicle | Anti-avoidance rules may attribute Japan-source gain. |
+| Direct sale of Japan real estate | For the non-resident individual case addressed by NTA, the gain is Japanese-source and generally requires a return; purchaser withholding on consideration is a separate mechanism, and treaty effects require the exact text |
+| Sale of shares in a Japan real-estate-related entity | Japanese source rules can cover certain share dispositions; apply all current statutory tests and the exact treaty without importing a generic percentage threshold |
+| Sale of J-REIT units (portfolio holding) | Domestic source rules, ownership/transaction facts, and the exact treaty must be tested; no general portfolio-holder exemption is asserted |
+| Sale of TMK preferred shares | Classify the security and apply current domestic source, taxpayer, ownership/transaction, and exact-treaty rules; no result is inferred from “TMK” |
+| Sale through a foreign holding vehicle | Analyse the actual seller, asset/entity chain, Japanese source rules, anti-avoidance provisions if applicable, and exact treaty; no generic look-through conclusion is asserted |
 
-The real-estate-rich-entity rule (where an entity's Japan-real-estate-share triggers source-rule capital-gains tax) is the key structuring gate for foreign-investor exit planning.
+The real-estate-rich-entity rule is one exit-planning question among the taxpayer, asset, ownership, holding, transaction, domestic-source, and exact-treaty tests; it is not treated as the single structuring gate.
 
 ## TK Investor Tax Efficiency
 
-The Tokumei Kumiai (TK / silent partnership) is a long-standing structure used by foreign investors in Japan real estate. Key features:
+Commercial Code Article 535 onward defines the Tokumei Kumiai (TK / silent partnership). It is one possible contractual route; this page does not infer prevalence, investor population, or tax outcome from the TK label.
+
+Table source note: Commercial Code Article 535 onward defines the TK contract. NTA guidance separately addresses individual TK distributions and corporate operator/investor allocations; neither source creates a universal tax pass-through or no-PE safe harbour. ^[Sources: https://elaws.e-gov.go.jp/document?lawid=132AC0000000048, https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/16.htm, and https://www.nta.go.jp/law/tsutatsu/kihon/hojin/14/14_01_01.htm.]
 
 | Feature | Reading |
 |---|---|
 | Legal form | Silent partnership between TK operator (active partner) and TK investor (silent partner). |
-| Investor visibility | TK investor is anonymous to outside world; only TK operator contracts with third parties. |
-| Tax pass-through | TK income flows through to TK investor and is treated as the investor's own income for Japanese tax purposes. |
-| Source-rule | TK distribution paid to non-resident TK investor is generally subject to Japan withholding under specific provisions. |
-| PE / non-PE distinction | Non-resident TK investor not deemed to have PE solely by being a silent partner; structuring discipline required. |
-| Combined with GK | GK-TK is the standard pattern: GK (LLC) holds title / contracts; TK investor takes economic exposure as silent partner. |
-| DTT interaction | Treaty position on TK income varies by treaty; some treaties have specific TK-income provisions. |
+| Investor visibility | A TK investor is not a GK member merely by the TK interest, but other laws, filings, contracts, KYC, or disclosure duties may identify it |
+| Tax allocation | Treatment differs for operator and investor and depends on taxpayer status, contract, payment character, and current guidance |
+| Source / withholding | Determine the income character, domestic source rule, recipient status, and withholding provision for the actual payment |
+| PE / non-PE distinction | TK status alone is not used here to conclude PE or non-PE; analyse personnel, agency, management, attribution, domestic law, and treaty |
+| Combined with GK | GK-TK is one possible pattern in which a GK operates the business and a TK investor takes contractual exposure |
+| DTT interaction | Review the exact treaty article by article together with domestic classification and procedure; no specific TK provision or outcome is assumed |
 
-The GK-TK structure is the workhorse for cross-border real-estate-fund deployment into Japan because:
-
-- TK investor tax pass-through avoids second layer of entity-level tax;
-- TK investor avoids PE deemed status by virtue of silent-partner role;
-- structure is well-established and recognised by Japanese tax authority for compliant patterns.
+GK-TK is one available cross-border structuring route. It does not by label eliminate entity-level tax, withholding, PE, or treaty-entitlement analysis; the operator, investor, contract, activity, payment, and procedure must all be tested.
 
 Cross-link to [[real-estate-finance/real-estate-private-credit-japan|private credit]] for the structure-level deployment context.
 
 ## TMK Tax Pass-Through
 
-Tokutei Mokuteki Kaisha (TMK / specific-purpose company) is a securitisation-vehicle structure with conditional tax pass-through:
+Tokutei Mokuteki Kaisha (TMK / specified-purpose company) is a statutory vehicle under the Asset Liquidation Act. Any distribution deduction is conditional under the current Special Taxation Measures Act and related rules.
+
+Table source note: The Asset Liquidation Act governs the TMK and asset-liquidation plan; Special Taxation Measures Act Article 67-14 governs the tax special measure. The rows are a verification checklist and intentionally do not reduce the current statutory conditions to a market shorthand. ^[Sources: https://elaws.e-gov.go.jp/document?lawid=410AC0000000105 and https://elaws.e-gov.go.jp/document?lawid=332AC0000000026.]
 
 | Condition | Effect |
 |---|---|
-| TMK qualifying conditions met | TMK entitled to distribution-deduction at entity level, achieving near-pass-through. |
-| Compliance with asset-management restrictions | Required for qualifying status. |
-| 90%+ distribution of distributable income | Required for distribution-deduction qualifying. |
-| Investor base meets criteria | Required for qualifying status. |
-| Preferred-share structure | Standard pattern; preferred-share holders take economic exposure. |
+| TMK and asset-liquidation plan | Confirm formation, plan, notifications/registrations, asset scope, and operation under the Asset Liquidation Act |
+| Article 67-14 conditions | A distribution deduction is available only for a fiscal year satisfying all current statutory and subordinate-rule requirements |
+| Distribution test | Apply the current statutory “more than 90%” calculation and definitions; do not substitute an accounting payout ratio |
+| Investor / financing conditions | Test the exact current equity, specified-bond, borrowing, ownership, and other conditions that apply to the TMK |
+| Instruments and distributions | Read the asset plan, specified equity/bonds/borrowings, constitutional documents, and actual distribution; preferred equity is not assumed to be universal |
 
-TMK is the workhorse for senior-and-mezz securitisation of single-asset / portfolio real-estate deals where investor base is institutional. Read with [[real-estate-finance/real-estate-private-credit-japan|private credit]] for use-case context.
+TMK is one possible statutory securitisation route. This page makes no market-share, “workhorse,” asset-count, tranche, or investor-base claim. Read with [[real-estate-finance/real-estate-private-credit-japan|private credit]] for use-case questions only.
 
 ## J-REIT 90% Distribution Rule
 
-The J-REIT (J-REIT / 投資法人) structure delivers entity-level tax pass-through through the 90% distribution rule:
+A qualifying J-REIT (投資法人) distribution may be deductible only when all current statutory conditions are satisfied; the more-than-90% test is one condition, not a standalone pass-through rule:
+
+Table source note: JPX's 2026 guidebook describes major conduit requirements, including distribution of more than 90% of distributable profits and entrusting asset management; NTA confirms that distributions are deductible only for a fiscal year satisfying the applicable requirements. The 90% test is necessary but not the sole condition. ^[Sources: https://www.jpx.co.jp/english/equities/products/reits/guidebook/b5b4pj000003984r-att/REIT.pdf and https://www.nta.go.jp/law/shitsugi/hojin/26/05.htm.]
 
 | Feature | Reading |
 |---|---|
 | Legal form | J-REIT (toushi-houjin) is a closed-end investment corporation under the Investment Trust and Investment Corporation Act. |
-| Distribution rule | Distributions equal to or exceeding 90% of distributable income qualify for tax-deduction at entity level. |
-| Effect | Effectively no entity-level corporate tax when 90% rule satisfied. |
-| Distribution to unit holders | Treated as taxable income at unit-holder level; subject to withholding at unit-holder level (with treaty reduction). |
-| 90% rule discipline | All listed J-REITs structure distributions to maintain qualifying status. |
-| Capital retention constraint | 90% distribution rule effectively limits internal-capital-retention; J-REITs grow primarily through equity issuance and debt. |
-| Sponsor-support arrangement | Sponsor and asset-manager arrangements are structured to avoid PE / control issues. |
+| Distribution test | More than 90% of distributable profits is one major conduit requirement; use the current statutory calculation |
+| Effect | A qualifying distribution may be deductible when all applicable requirements are met; zero entity tax is not guaranteed |
+| Distribution to unit holders | Domestic classification/withholding applies at holder level; treaty reduction or exemption requires exact treaty entitlement and procedure |
+| Compliance | Verify each issuer and fiscal year; this page does not infer compliance from listing status |
+| Capital retention | A high distribution requirement affects retention, but financing choices remain issuer-specific |
+| Asset management | Entrusting asset management is another major conduit requirement described by JPX; verify the statutory and issuer facts |
 
-The 90% distribution rule is the structural reason J-REIT vehicles distribute the bulk of operating cashflow rather than retain. This shapes:
-
-- J-REIT investor base (yield-focused);
-- J-REIT growth pattern (equity-raise-driven);
-- J-REIT distribution-policy disclosure;
-- J-REIT dividend-yield reading per [[real-estate-finance/j-reit-dividend-yield-vs-jgb-spread]].
+The more-than-90% distribution test, together with all other applicable conditions, can affect retention and distribution policy but does not by itself determine the issuer's tax result. Verify the issuer's statutory calculation, deductible amount, retained cash, financing disclosures, and holder-level treatment. Read distribution yield separately at [[real-estate-finance/j-reit-dividend-yield-vs-jgb-spread]].
 
 ## Double-Tax Treaty Network
 
 Japan has a broad double-tax-treaty network with major foreign-investor jurisdictions. Treaty-relevant features for real-estate-investor reading:
 
-| Treaty provision | Typical treatment |
-|---|---|
-| Real-property article | Income from immovable property typically taxable in the source state (i.e., Japan); treaty does not exempt. |
-| Capital-gains article | Gains from immovable property typically source-taxable; gains from real-estate-rich-entity shares typically follow real-property rule. |
-| Dividend article | Dividend (including J-REIT distribution) typically subject to source-state withholding capped by treaty rate (often 5% / 10% / 15% per shareholding band). |
-| Interest article | Cross-border interest typically subject to source-state withholding capped by treaty rate. |
-| TK / silent-partnership article | Few treaties have explicit TK-provisions; default treatment varies. |
-| Pension-fund article | Some treaties exempt pension-fund-source distributions. |
-| LOB (limitation-of-benefits) article | Some treaties include LOB to prevent treaty-shopping. |
-| MAP / arbitration article | Available for double-tax dispute resolution. |
+Table source note: These are treaty-article topics, not “typical rates.” Use the MoF's current convention list and exact treaty/MLI synthesised text, then complete NTA entitlement and filing procedures before applying relief. ^[Sources: https://www.mof.go.jp/english/policy/tax_policy/tax_conventions/tax_convetion_list_en.html and https://www.nta.go.jp/taxes/shiraberu/taxanswer/gensen/2888.htm.]
 
-The major Japan treaties (US, UK, Singapore, Netherlands, Australia, France, Germany, and others) shape the actual after-tax economics of foreign-investor allocation. Treaty position is the single most important structuring driver after structure-type.
+| Treaty provision | Question to verify in the exact text |
+|---|---|
+| Immovable-property income | Check whether and how the source state may tax the exact income under the applicable treaty |
+| Capital gains | Check direct property, real-estate-rich entity, other securities, ownership, and transaction provisions in the exact treaty |
+| Dividend / investment-corporation distribution | Classify the payment first, then apply the exact article, rate/threshold, beneficial-owner and entitlement conditions |
+| Interest | Confirm the payment is interest, then apply the exact article, exemptions, rate, and procedure |
+| TK / silent partnership | Check whether the treaty expressly addresses the payment and how domestic classification interacts; no default result is assumed |
+| Pension / sovereign provision | Apply only where the exact investor and income satisfy the relevant treaty or other instrument |
+| LOB / principal-purpose or entitlement rule | Test all benefit-entitlement conditions, including any MLI effect |
+| MAP / arbitration | Availability, scope, and procedure differ by treaty |
+
+The applicable treaty can be a material structuring input, together with domestic-law classification, investor/beneficial-owner status, PE, ownership, payment type, anti-abuse provisions, and procedural compliance. No importance ranking is asserted.
 
 ## Common Cross-Border Structures
 
+Table source note: The table maps questions to structures; it does not promise “pass-through,” treaty relief, or a preferred route. Official support is limited to the cited NTA TK allocation guidance, JPX J-REIT conduit overview, and MoF treaty texts; a live structure requires current legal/tax advice. ^[Sources: https://www.nta.go.jp/law/tsutatsu/kihon/hojin/14/14_01_01.htm, https://www.jpx.co.jp/english/equities/products/reits/guidebook/b5b4pj000003984r-att/REIT.pdf, and https://www.mof.go.jp/english/policy/tax_policy/tax_conventions/tax_convetion_list_en.html.]
+
 | Structure | Use case | Tax-economic logic |
 |---|---|---|
-| Direct foreign-corporate ownership | Simple direct exposure | Limited; full source-rule application; no pass-through. |
-| GK-TK with foreign TK investor | Foreign-fund deployment into single-asset or portfolio | TK pass-through; PE management; treaty position important. |
-| TMK securitisation | Senior-mezz securitisation of acquired portfolio | TMK entity-pass-through with 90%+ distribution; preferred-share investor base. |
-| Listed J-REIT unit holding | Portfolio allocation to public Japan real-estate-equity | J-REIT entity-pass-through; treaty-reduced unit-holder withholding. |
-| Private real-estate-fund (foreign-domiciled) holding GK-TK | GP-led fund deployment | TK pass-through to fund; fund-investor tax position depends on home jurisdiction. |
-| Cross-border real-estate-debt fund | Mezz / preferred-equity / bridge lending | Interest withholding; treaty position for interest article. |
+| Direct foreign-corporate ownership | Direct asset exposure | Apply property income/gain, filing, withholding, PE, and treaty rules directly to the owner |
+| GK-TK with foreign TK investor | Contractual exposure through a Japan operator | Analyse operator/investor allocation, payment character, withholding, PE, entity classification, and treaty entitlement |
+| TMK securitisation | Statutory asset-liquidation structure | Test all TMK distribution-deduction, investor, asset-plan, withholding, and regulatory requirements |
+| Listed J-REIT unit holding | Public-market real-estate-equity exposure | Verify issuer conduit status separately from holder-level withholding, gains, and treaty treatment |
+| Foreign fund holding a GK-TK interest | Pooled cross-border deployment | Analyse every entity/partner layer, transparency, beneficial ownership, PE, withholding, and treaty entitlement |
+| Cross-border real-estate-credit structure | Debt, mezzanine, preferred, or bridge exposure | Classify each return and instrument before testing deduction, source, withholding, transfer-pricing/interest-limitation, and treaty rules |
 
 The choice of structure is driven by investor-type, target asset class, target return profile, exit plan, and treaty position. None of the above is universally optimal; structure selection is case-by-case under qualified Japanese tax counsel.
 
@@ -194,8 +205,6 @@ The choice of structure is driven by investor-type, target asset class, target r
 
 ## Sources
 
-- MoF (Ministry of Finance): tax-policy and tax-reform publications.
-- NTA (National Tax Agency): English tax-information portal, withholding-tax guidance, international-taxation pages.
-- MoF: international-policy and double-tax-treaty publications.
-- FSA: investment-corporation and J-REIT-supervisory commentary.
-- ARES (Association for Real Estate Securitization): J-REIT and real-estate-fund market guidance.
+- NTA: non-resident real-estate rent guidance, land-sale-consideration withholding, treaty-relief procedure, and TK individual/corporate allocation guidance.
+- MoF: current treaty list, treaty texts, and MLI synthesised texts.
+- JPX 2026 J-REIT Guidebook and NTA: investment-corporation conduit requirements and distribution deduction.
