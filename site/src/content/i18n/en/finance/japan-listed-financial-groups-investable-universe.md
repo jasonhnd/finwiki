@@ -1,11 +1,11 @@
 ---
 source: finance/japan-listed-financial-groups-investable-universe
-source_hash: 4e9e307637f0d117
+source_hash: 65976c05d2c55b32
 lang: en
 status: machine
 fidelity: ok
 title: "Japan listed financial groups investable universe"
-translated_at: 2026-06-15T03:48:21.922Z
+translated_at: 2026-07-29T14:32:12.538Z
 ---
 
 # Japan listed financial groups investable universe
@@ -16,9 +16,11 @@ This page sits under [[finance/INDEX|finance index]]. It is a public-source refe
 
 ## TL;DR
 
-This is a reference universe map of Japan-listed financial groups, organised by sub-sector. It is NOT a buy / sell list, NOT investment advice, NOT a recommendation, and NOT a model portfolio. All KPI ranges (market-cap class, ROE class, yield class, foreign ownership class, index inclusion, capital-action class) are public-surface descriptors that must be re-confirmed against each issuer's most recent IR materials, JPX timely disclosures, and EDINET filings before any reader uses them in a real-world decision. Data verification is the reader's responsibility; any stale or rotated entry should be reconciled against the original issuer source.
+This is a reference universe map of Japan-listed financial groups, organised by sub-sector. It is NOT a buy / sell list, NOT investment advice, NOT a recommendation, and NOT a model portfolio. Company names, codes, and listing status are an editorial snapshot checked against the **June 2026 month-end file** published on JPX's monthly listed-company data page. This is a month-end / list-publication context, not a daily as-of claim. Business perimeter, ownership, index membership, and financial metrics must be established separately from dated issuer, JPX, EDINET, or index-provider records.
 
 ## Universe Scope
+
+Source: coverage is an editorial taxonomy checked against the June 2026 month-end file on JPX's [monthly listed-company data page](https://www.jpx.co.jp/english/markets/statistics-equities/misc/01.html); it is representative rather than exhaustive and does not establish investability for any reader.
 
 | Sub-sector | Coverage in this page |
 |---|---|
@@ -26,7 +28,7 @@ This is a reference universe map of Japan-listed financial groups, organised by 
 | Trust FG | The single listed large trust FG anchor. |
 | Regional bank FGs | Representative listed regional FGs across geography and size; not exhaustive. |
 | Net banks / digital banks | Recently-listed digital / online bank anchors and adjacent fintech-banking listed names. |
-| Major life and non-life insurers | The listed life and non-life groups with significant index weight. |
+| Major life and non-life insurers | Listed life and non-life insurance groups. |
 | Major securities | Listed independent and online securities groups; megabank-affiliated securities arms sit under their parent FG. |
 | Card / consumer finance | Listed card issuers and consumer finance lenders. |
 | Leasing | Listed general / equipment / bank-affiliated leasing groups. |
@@ -35,155 +37,164 @@ This is a reference universe map of Japan-listed financial groups, organised by 
 
 The universe is read against [[finance/INDEX|finance INDEX]], which is the entity-level index for individual issuers.
 
-## Investable-Universe Matrix Fields
+## Universe Matrix Fields
 
-For each entity below, the matrix uses these public-surface fields:
+Source: the June 2026 month-end file on JPX's [monthly listed-company data page](https://www.jpx.co.jp/english/markets/statistics-equities/misc/01.html) is the control used here for issuer name, code, and listing status in that month-end / list-publication context. The tables intentionally omit market capitalisation, ROE, yield, foreign ownership, index membership, capital-return policy, and risk rankings because those fields require a named observation date and primary evidence.
 
-| Field | What it captures |
+| Field | Treatment in this page |
 |---|---|
-| Ticker | TSE 4-digit issuer code (primary listing). |
-| Market-cap class | 大型 / 中型 / 小型 descriptor; not a point estimate. |
-| Sub-sector | banking / insurance / securities / consumer finance / leasing / fintech / telco-finance. |
-| Major shareholder shape | Sovereign / strategic / parent / public-float-heavy descriptor only. |
-| ROE class | Range descriptor (low single-digit / mid single-digit / high single-digit / double-digit) read from latest IR; stale-risk warning applies. |
-| Yield class | Range descriptor (low / mid / high) read from latest IR; not a forecast. |
-| Buyback / capital-return policy | "Disclosed buyback programme present", "progressive dividend", "policy under review", etc. - presence-only descriptor. |
-| Index inclusion | Nikkei 225 / TOPIX Core 30 / TOPIX Large 70 / FTSE Russell Japan presence. |
-| Foreign-ownership class | Low / mid / high band read from latest IR; stale-risk warning applies. |
-| Recent capital action | TOB-target / activist-target / rights-offering / convertible issuance / capital-and-business alliance, where publicly disclosed. |
-| Stewardship anchor | Whether the issuer is a known stewardship / engagement target, routed via [[finance/japan-shareholder-proposal-and-agm-voting-route]]. |
-| Key risks | The dominant balance-sheet / earnings risk class for the sub-sector. |
-
-All values below are categorical descriptors derived from public-surface IR / disclosure context. They are NOT point estimates and they go stale fast. Re-confirm against the issuer's most recent kessan tanshin, securities report, governance report, and IR deck before use.
+| Entity / ticker | Snapshot checked against the June 2026 month-end file on JPX's monthly-data page. |
+| Editorial category | Navigation label only; verify the current business perimeter in the issuer's latest securities report. |
+| Ownership note | Included only where a dated issuer disclosure is linked in the row. |
+| Metrics / index status | Not stated; retrieve from dated issuer or index-provider records. |
 
 ## Megabank FGs
 
-| Entity | Ticker | Market-cap class | Major shareholder shape | ROE class | Yield class | Buyback policy presence | Index inclusion | Foreign-ownership class | Key risks |
-|---|---|---|---|---|---|---|---|---|---|
-| [[megabanks/mufg]] | 8306 | 大型 | Public-float-heavy with trust / insurer cross-holdings | Mid single-digit to high single-digit historical range | Mid yield class | Buyback programme historically disclosed | Nikkei 225, TOPIX Core 30, FTSE Russell Japan | High foreign ownership | NIM compression, JGB rate path, US / overseas credit cost, FX translation. |
-| [[megabanks/smfg]] | 8316 | 大型 | Public-float-heavy with strategic cross-holdings | Mid single-digit to high single-digit historical range | Mid yield class | Buyback programme historically disclosed | Nikkei 225, TOPIX Core 30, FTSE Russell Japan | High foreign ownership | NIM compression, overseas credit, equity holdings unwind pace, capital-policy execution. |
-| [[megabanks/mizuho-fg]] | 8411 | 大型 | Public-float-heavy with strategic cross-holdings | Low single-digit to mid single-digit historical range | Mid yield class | Buyback policy presence varies by period | Nikkei 225, TOPIX Core 30, FTSE Russell Japan | High foreign ownership | NIM compression, system / operational risk legacy, overseas credit, capital-policy execution. |
-| Resona HD | 8308 | 中型 to 大型 | Public-float-heavy regional / SME-bank franchise | Mid single-digit historical range | Mid yield class | Progressive dividend stance historically disclosed | TOPIX, FTSE Russell Japan | Mid foreign ownership | Domestic-focused NIM, SME credit cycle, regional rate sensitivity, branch-network cost. |
+Source: entity names, codes, and listing status were checked against the June 2026 month-end file on JPX's [monthly listed-company data page](https://www.jpx.co.jp/english/markets/statistics-equities/misc/01.html). Category labels are navigation aids, not current financial or investment conclusions.
+
+| Entity | Ticker | Editorial category |
+|---|---|---|
+| [[megabanks/mufg]] | 8306 | Megabank financial group |
+| [[megabanks/smfg]] | 8316 | Megabank financial group |
+| [[megabanks/mizuho-fg]] | 8411 | Megabank financial group |
+| Resona HD | 8308 | Large domestic banking group |
 
 Read these against [[finance/japan-ib-league-table]] for adviser-side franchise depth and [[finance/INDEX|finance INDEX]] for entity-level pages.
 
 ## Trust FG
 
-| Entity | Ticker | Market-cap class | Major shareholder shape | ROE class | Yield class | Buyback policy presence | Index inclusion | Foreign-ownership class | Key risks |
-|---|---|---|---|---|---|---|---|---|---|
-| Sumitomo Mitsui Trust HD | 8309 | 大型 | Public-float-heavy with strategic / corporate cross-holdings | Mid single-digit historical range | Mid yield class | Buyback programme historically disclosed | Nikkei 225, TOPIX, FTSE Russell Japan | Mid to high foreign ownership | Trust-banking fee compression, asset-management flow, JGB rate path, real-estate exposure, fiduciary / governance event risk. |
+Source: the entity name, code, and listing status were checked against the June 2026 month-end file on JPX's [monthly listed-company data page](https://www.jpx.co.jp/english/markets/statistics-equities/misc/01.html).
+
+| Entity | Ticker | Editorial category |
+|---|---|---|
+| Sumitomo Mitsui Trust Group | 8309 | Trust-bank financial group |
 
 ## Regional FGs (representative)
 
-This list is representative, not exhaustive. Regional FG mergers and reorganisations rotate the universe frequently; verify each ticker against the latest JPX issuer search before use.
+This list is representative, not exhaustive. Names, codes, and listing status were checked against the June 2026 month-end file on JPX's [monthly listed-company data page](https://www.jpx.co.jp/english/markets/statistics-equities/misc/01.html); geography is an editorial navigation label that should be confirmed from the issuer profile.
 
-| Entity | Ticker | Market-cap class | Sub-sector | Major shareholder shape | Yield class | Index inclusion | Key risks |
-|---|---|---|---|---|---|---|---|
-| Concordia FG | 7186 | 中型 | Kanto regional bank FG | Public-float-heavy | Mid yield class | TOPIX | NIM, regional credit cycle, deposit cost. |
-| Mebuki FG | 7167 | 中型 | Kanto / Tohoku regional FG | Public-float-heavy | Mid to high yield class | TOPIX | NIM, demographic shrinkage, SME credit. |
-| Fukuoka FG | 8354 | 中型 to 大型 | Kyushu regional FG | Public-float-heavy with parent-of digital-bank franchise | Mid yield class | Nikkei 225 historically, TOPIX | Digital-bank execution, NIM, Kyushu regional credit. |
-| Yamaguchi FG | 8418 | 中型 | Chugoku regional FG | Public-float-heavy | Mid to high yield class | TOPIX | Governance event risk, NIM, regional credit. |
-| Shizuoka FG | 5831 | 中型 | Tokai regional FG | Public-float-heavy | Mid yield class | TOPIX | NIM, regional credit, securities portfolio risk. |
-| Kyushu FG | 7180 | 中型 | Kyushu regional FG | Public-float-heavy | Mid to high yield class | TOPIX | Regional credit cycle, NIM, branch-cost structure. |
-| Hokuhoku FG | 8377 | 中型 | Hokkaido / Hokuriku regional FG | Public-float-heavy | Mid to high yield class | TOPIX | Demographic shrinkage, NIM, regional credit. |
-| Hirogin HD | 7337 | 中型 | Chugoku regional FG | Public-float-heavy | Mid yield class | TOPIX | NIM, securities portfolio risk, SME credit. |
-| Tokyo Kiraboshi FG | 7173 | 小型 to 中型 | Tokyo metropolitan FG | Public-float with strategic stakes | Mid yield class | TOPIX | SME credit, NIM, deposit cost, governance. |
-| Nishi-Nippon FH | 7189 | 中型 | Kyushu regional FG | Public-float-heavy | Mid to high yield class | TOPIX | Regional credit, NIM, real-estate exposure. |
-| Dai-shi Hokuetsu FG | 7327 | 中型 | Niigata regional FG | Public-float-heavy | Mid to high yield class | TOPIX | Demographic shrinkage, NIM, regional credit. |
-| Hokkoku FH | 7381 | 小型 to 中型 | Hokuriku regional FG | Public-float-heavy with tech / digital initiative | Mid yield class | TOPIX | Digital-initiative execution, NIM, regional credit. |
+| Entity | Ticker | Editorial geography |
+|---|---|---|
+| Concordia FG | 7186 | Kanto |
+| Mebuki FG | 7167 | Kanto / Tohoku |
+| Fukuoka FG | 8354 | Kyushu |
+| Yamaguchi FG | 8418 | Chugoku |
+| Shizuoka FG | 5831 | Tokai |
+| Kyushu FG | 7180 | Kyushu |
+| Hokuhoku FG | 8377 | Hokkaido / Hokuriku |
+| Hirogin HD | 7337 | Chugoku |
+| Tokyo Kiraboshi FG | 7173 | Tokyo metropolitan area |
+| Nishi-Nippon FH | 7189 | Kyushu |
+| Dai-shi Hokuetsu FG | 7327 | Niigata |
+| Hokkoku FH | 7381 | Hokuriku |
 
-Regional FGs are read with [[finance/japan-activist-investor-playbook]] because they have been a recurring stewardship and capital-policy engagement universe.
+For any engagement analysis, first establish the current holder, proposal, voting record, and issuer response through the routes in [[finance/japan-activist-investor-playbook]].
 
 ## Net banks / digital banks and bank-adjacent listed names
 
-| Entity | Ticker | Market-cap class | Sub-sector | Major shareholder shape | Index inclusion | Key risks |
-|---|---|---|---|---|---|---|
-| Rakuten Bank | 5838 | 中型 | Net bank, listed digital bank | Parent Rakuten group majority / strategic | TOPIX | Parent-funding linkage, deposit-cost competition, credit growth quality, regulatory perimeter. |
-| Mercari | 4385 | 中型 to 大型 | C2C marketplace with finance / payment / lending arm (adjacent) | Public-float-heavy | TOPIX | Financial-service unit losses, regulatory perimeter, marketplace GMV, credit quality. |
+Source: entity names, codes, and listing status were checked against the June 2026 month-end file on JPX's [monthly listed-company data page](https://www.jpx.co.jp/english/markets/statistics-equities/misc/01.html). Rakuten Group's ownership figure is taken from its [February 25, 2026 disclosure](https://global.rakuten.com/corp/news/assets/pdf/press/20260225_13_E.pdf).
 
-Note: many digital-bank brands in Japan (e.g. SBI Sumishin Net Bank, au Jibun Bank, PayPay Bank) sit inside a listed parent FG rather than being standalone listings; see [[finance/INDEX|finance INDEX]] for parent-of mapping.
+| Entity | Ticker | Editorial category | Dated ownership note |
+|---|---|---|---|
+| Rakuten Bank | 5838 | Listed internet bank | Rakuten Group disclosed 49.26% as of the transaction described on February 25, 2026; re-check later filings before use. |
+| Mercari | 4385 | Marketplace with financial-service activities; adjacent to, not itself classified here as, a bank | Not stated. |
+
+SBI Sumishin Net Bank (code 7163) is excluded from this listed-company snapshot because JPX recorded its [September 25, 2025 delisting](https://www.jpx.co.jp/english/news/1023/20250828-12.html). Establish any later parent or business-perimeter statement from a current issuer filing rather than from the former listing.
 
 ## Major insurers (listed)
 
-| Entity | Ticker | Market-cap class | Sub-sector | Major shareholder shape | Yield class | Buyback policy presence | Index inclusion | Foreign-ownership class | Key risks |
-|---|---|---|---|---|---|---|---|---|---|
-| [[life-insurers/dai-ichi-life]] HD | 8750 | 大型 | Life insurance | Public-float-heavy with strategic cross-holdings | Mid yield class | Buyback programme historically disclosed | Nikkei 225, TOPIX Core 30 / Large 70, FTSE Russell Japan | High foreign ownership | NIRP legacy / rate sensitivity, equity-market sensitivity, FX, overseas life-insurance underwriting. |
-| [[non-life-insurers/sompo]] HD | 8630 | 大型 | Non-life insurance + nursing / overseas | Public-float-heavy with strategic cross-holdings | Mid yield class | Buyback / cross-holding unwind policy historically disclosed | Nikkei 225, TOPIX, FTSE Russell Japan | Mid to high foreign ownership | NatCat cycle, overseas underwriting, governance / agency-channel event risk, cross-holding unwind pace. |
-| Tokio Marine HD | 8766 | 大型 | Non-life insurance + overseas | Public-float-heavy with strategic cross-holdings | Mid yield class | Buyback programme historically disclosed | Nikkei 225, TOPIX Core 30, FTSE Russell Japan | High foreign ownership | NatCat cycle, overseas P&C underwriting, FX, capital-policy execution. |
-| MS&AD Insurance Group HD | 8725 | 大型 | Non-life insurance + life + overseas | Public-float-heavy with strategic cross-holdings | Mid yield class | Buyback programme historically disclosed | Nikkei 225, TOPIX, FTSE Russell Japan | Mid to high foreign ownership | NatCat cycle, overseas underwriting, cross-holding unwind pace, governance event risk. |
+Source: names, codes, and listing status were checked against the June 2026 month-end file on JPX's [monthly listed-company data page](https://www.jpx.co.jp/english/markets/statistics-equities/misc/01.html). Insurance-business labels are editorial navigation categories.
+
+| Entity | Ticker | Editorial category |
+|---|---|---|
+| [[life-insurers/dai-ichi-life]] HD | 8750 | Life-insurance group |
+| [[non-life-insurers/sompo]] HD | 8630 | Non-life-insurance group |
+| Tokio Marine HD | 8766 | Non-life-insurance group |
+| MS&AD Insurance Group HD | 8725 | Insurance group |
 
 Life insurers are read with [[finance/japan-large-shareholding-disclosure]] when the cross-holding unwind shows up on the disclosure surface.
 
 ## Major securities
 
-| Entity | Ticker | Market-cap class | Sub-sector | Major shareholder shape | Yield class | Index inclusion | Key risks |
-|---|---|---|---|---|---|---|---|
-| [[securities-firms/nomura-hd]] | 8604 | 大型 | Independent securities / wholesale + retail + AM | Public-float-heavy | Mid yield class | Nikkei 225, TOPIX, FTSE Russell Japan | Wholesale earnings volatility, US / overseas litigation, retail-flow cycle, capital-and-cost discipline. |
-| Daiwa Securities Group | 8601 | 大型 | Independent securities / wholesale + retail + AM | Public-float-heavy | Mid yield class | Nikkei 225, TOPIX, FTSE Russell Japan | Trading earnings volatility, retail-flow cycle, wholesale capacity vs cost. |
-| Monex Group | 8698 | 小型 to 中型 | Online broker + crypto (Coincheck) + US (TradeStation legacy / disposed) | Public-float with founder / strategic stake | Low to mid yield class | TOPIX | Crypto-cycle dependency, retail-trading cycle, regulatory perimeter. |
-| Matsui Securities | 8628 | 中型 | Online broker, retail-flow concentrated | Founder-family / strategic stake significant | Mid to high yield class | TOPIX | Retail-trading cycle, fee compression, demographic skew. |
-| SBI HD | 8473 | 大型 | Financial conglomerate (securities + bank + insurance + AM + VC) | Strategic / founder-aligned with public float | Mid to high yield class | TOPIX, FTSE Russell Japan | Conglomerate-discount, capital allocation across subsidiaries, Shinsei-bank integration, crypto / fintech cycle. |
+Source: names, codes, and listing status were checked against the June 2026 month-end file on JPX's [monthly listed-company data page](https://www.jpx.co.jp/english/markets/statistics-equities/misc/01.html). The category is a research-routing label; current segment composition belongs to the issuer's dated filings.
+
+| Entity | Ticker | Editorial category |
+|---|---|---|
+| [[securities-firms/nomura-hd]] | 8604 | Securities group |
+| Daiwa Securities Group | 8601 | Securities group |
+| Monex Group | 8698 | Online brokerage / financial-services group |
+| Matsui Securities | 8628 | Online securities company |
+| SBI HD | 8473 | Financial-services group |
 
 Read these with [[finance/japan-ib-league-table]] for advisory franchise depth; megabank-affiliated securities arms (SMBC Nikko, Mizuho Securities, MUFG / MUMS) sit inside parent FG entries above and inside [[finance/INDEX|finance INDEX]].
 
 ## Card / consumer finance
 
-| Entity | Ticker | Market-cap class | Sub-sector | Major shareholder shape | Yield class | Index inclusion | Key risks |
-|---|---|---|---|---|---|---|---|
-| Aeon Financial Service | 8570 | 中型 | Card + retail-finance + ASEAN consumer finance | Aeon group parent stake significant | Mid to high yield class | TOPIX | ASEAN credit cycle, parent-channel dependency, FX, regulatory / interest-rate cap risk. |
-| Credit Saison | 8253 | 中型 | Card + asset-formation lending + overseas finance | Public-float with strategic stakes | Mid yield class | TOPIX, Nikkei 225 historically | Credit cost cycle, overseas finance asset quality, transition from card to balance-sheet lender. |
-| Acom | 8572 | 中型 | Consumer finance, MUFG-affiliated | MUFG-affiliated majority stake | Mid yield class | TOPIX | Interest-rate cap regulatory legacy, claims-for-refund cycle, credit cycle, parent-group capital policy. |
-| Aiful | 8515 | 小型 to 中型 | Consumer finance, independent | Founder / strategic stake significant | Low to mid yield class | TOPIX | Interest-rate cap legacy, refund-claims tail risk, credit cycle, funding cost. |
-| JACCS | 8584 | 小型 to 中型 | Card + installment + auto loans, MUFG-affiliated | MUFG-affiliated stake significant | Mid to high yield class | TOPIX | Auto-loan credit cycle, installment business profitability, NIM. |
-| Orient (Orico) | 8585 | 小型 to 中型 | Card + installment + guarantee, Mizuho-aligned | Mizuho-aligned stake significant | Low to mid yield class | TOPIX | Guarantee-business risk, card-business profitability, NIM. |
-| Pocket Card | 8519 | 小型 | Card issuer | Strategic / parent stake significant | Mid yield class | TOPIX | Card-business profitability, parent-channel dependency, credit cycle. |
+Source: names, codes, and listing status were checked against the June 2026 month-end file on JPX's [monthly listed-company data page](https://www.jpx.co.jp/english/markets/statistics-equities/misc/01.html). Pocket Card is excluded because JPX records its [February 1, 2018 delisting](https://www.jpx.co.jp/english/news/1021/20180116-11.html). Acom's ownership figure is taken from its [issuer stock-information page](https://www.acom.co.jp/corp/english/ir/stock/outline/), dated March 31, 2026.
 
-Consumer finance issuers carry interest-rate cap regulatory and refund-claim legacy that should be checked against each issuer's latest IR and securities report.
+| Entity | Ticker | Editorial category | Dated ownership note |
+|---|---|---|---|
+| Aeon Financial Service | 8570 | Card / financial services | Not stated. |
+| Credit Saison | 8253 | Card / finance | Not stated. |
+| Acom | 8572 | Consumer finance | Mitsubishi UFJ Financial Group, Inc. 37.57% as of March 31, 2026; re-check later issuer filings. |
+| Aiful | 8515 | Consumer finance | Not stated. |
+| JACCS | 8584 | Card / instalment finance | Not stated. |
+| Orient (Orico) | 8585 | Card / instalment / guarantee | Not stated. |
+
+For risk analysis, use each issuer's latest securities report and financial disclosures; the category label does not establish a current risk ranking.
 
 ## Leasing
 
-| Entity | Ticker | Market-cap class | Sub-sector | Major shareholder shape | Yield class | Index inclusion | Key risks |
-|---|---|---|---|---|---|---|---|
-| ORIX | 8591 | 大型 | Diversified financial services (leasing + corporate finance + real estate + AM + overseas) | Public-float-heavy | Mid yield class | Nikkei 225, TOPIX Core 30, FTSE Russell Japan | Conglomerate-discount, overseas business cycle, aircraft / real-estate exposure. |
-| Tokyo Century | 8439 | 中型 | Leasing + specialty finance + aviation | Itochu strategic stake / public float | Mid yield class | TOPIX | Aviation finance cycle, overseas finance asset quality, NIM. |
-| Mitsubishi HC Capital | 8593 | 中型 to 大型 | Leasing + corporate finance | MUFG / Mitsubishi-aligned strategic stake | Mid yield class | TOPIX | Leasing-margin pressure, overseas finance asset quality. |
-| Fuyo General Lease | 8424 | 中型 | Leasing + corporate finance | Mizuho-aligned strategic stake | Mid yield class | TOPIX | Leasing-margin pressure, NIM, real-estate exposure. |
-| Mizuho Leasing | 8425 | 中型 | Leasing + corporate finance | Mizuho strategic stake significant | Mid yield class | TOPIX | Leasing-margin pressure, parent-policy dependency. |
+Source: names, codes, and listing status were checked against the June 2026 month-end file on JPX's [monthly listed-company data page](https://www.jpx.co.jp/english/markets/statistics-equities/misc/01.html). The category is an editorial routing label.
 
-Note: JA Mitsui Leasing is jointly held by JA group and Mitsui & Co; it is NOT listed and therefore sits outside this universe but is included as a sub-sector note because peers compare share against it.
+| Entity | Ticker | Editorial category |
+|---|---|---|
+| ORIX | 8591 | Diversified financial services |
+| Tokyo Century | 8439 | Leasing / specialty finance |
+| Mitsubishi HC Capital | 8593 | Leasing / finance |
+| Fuyo General Lease | 8424 | Leasing / finance |
+| Mizuho Leasing | 8425 | Leasing / finance |
+
+Unlisted peers are outside this universe; verify their ownership and business perimeter separately from current issuer records.
 
 ## Telco-finance / payment hybrid
 
-| Entity | Ticker | Market-cap class | Sub-sector | Major shareholder shape | Index inclusion | Key risks |
-|---|---|---|---|---|---|---|
-| KDDI | 9433 | 大型 | Telco that holds au Financial Holdings | Public-float-heavy with strategic cross-holdings | Nikkei 225, TOPIX Core 30, FTSE Russell Japan | Telco capex cycle, financial-arm credit growth quality, regulatory perimeter, payment-fee competition. |
-| SoftBank Corp | 9434 | 大型 | Telco that holds PayPay FG (PayPay, PayPay Bank, PayPay Card, PayPay Securities) | SoftBank Group parent majority | Nikkei 225, TOPIX Core 30, FTSE Russell Japan | Telco capex cycle, parent-funding linkage, payment-business credit / regulatory perimeter. |
+Source: names, codes, and listing status were checked against the June 2026 month-end file on JPX's [monthly listed-company data page](https://www.jpx.co.jp/english/markets/statistics-equities/misc/01.html). SoftBank Group is the group shorthand; the direct holder identified on SoftBank Corp's [issuer stock-information page](https://www.softbank.jp/en/corp/ir/stock/info/), dated March 31, 2026, is SoftBank Group Japan Corporation.
+
+| Entity | Ticker | Editorial category | Dated ownership note |
+|---|---|---|---|
+| KDDI | 9433 | Telecom group with financial-service activities | Not stated. |
+| SoftBank Corp | 9434 | Telecom group with financial-service activities | SoftBank Group Japan Corporation 40.10% as of March 31, 2026; re-check later issuer filings. |
 
 These hybrid entries are useful to read alongside [[finance/INDEX|finance INDEX]] because the financial subsidiary balance sheets are disclosed inside the telco parent.
 
 ## Fintech / crypto
 
-| Entity | Ticker | Market-cap class | Sub-sector | Major shareholder shape | Index inclusion | Key risks |
-|---|---|---|---|---|---|---|
-| Monex Group | 8698 | 小型 to 中型 | Online broker + crypto (Coincheck) | Founder / strategic stake | TOPIX | Crypto-cycle dependency, broker fee compression. |
-| Remixpoint | 3825 | 小型 | Energy + crypto-adjacent treasury holdings | Public-float, treasury volatility | TOPIX small-cap segment | Crypto-treasury mark-to-market, going-concern / disclosure event risk historical caution. |
+Source: names, codes, and listing status were checked against the June 2026 month-end file on JPX's [monthly listed-company data page](https://www.jpx.co.jp/english/markets/statistics-equities/misc/01.html). Business mix must be checked against each issuer's latest securities report.
+
+| Entity | Ticker | Editorial category |
+|---|---|---|
+| Monex Group | 8698 | Online brokerage / crypto-adjacent financial services |
+| Remixpoint | 3825 | Crypto-adjacent listed company |
 
 Monex appears in both the "Securities" matrix and here, because the fintech sub-sector intersects with the listed-securities sub-sector.
 
 ## Index Inclusion Layer
 
-| Index | Reading rule |
+Source: this table provides verification routes, not constituent claims. Use [JPX TOPIX materials](https://www.jpx.co.jp/english/markets/indices/topix/), the Nikkei Indexes constituent data, and the relevant FTSE Russell constituent file current on the decision date.
+
+| Index / dataset | Verification rule |
 |---|---|
-| Nikkei 225 | Price-weighted, narrow; megabank FGs, large insurers, ORIX, Nomura, Daiwa, KDDI, and SoftBank Corp historically present. |
-| TOPIX | Broad TSE Prime / Standard / Growth weight; almost every entry above is in TOPIX. |
-| TOPIX Core 30 / Large 70 | Large-cap subset; megabank FGs, Tokio Marine, ORIX, KDDI, SoftBank Corp, and Dai-ichi Life historically in scope. |
-| FTSE Russell Japan | Global investor reference; megabank FGs, large insurers, large securities, large telco-finance hybrids historically eligible. |
+| Nikkei 225 | Verify the current constituent file and effective date from Nikkei Indexes; do not infer membership from market size. |
+| TOPIX | Verify current membership and transition status from JPX data; a TSE listing does not by itself prove current TOPIX membership. |
+| TOPIX Core 30 / Large 70 | Verify the current size-based sub-index constituent file and rebalance effective date from JPX. |
+| FTSE Russell Japan | Verify current membership, review date, and effective date from the licensed index-provider data. |
 
 Index inclusion rotates; always re-confirm against [[securities/tokyo-stock-exchange]] and the JPX TOPIX methodology page before relying on a name's index status.
 
 ## Stewardship / Engagement Anchor Layer
 
-Many of the entities above are stewardship engagement targets in the Japanese-listed financial-group universe. The engagement route is documented in [[finance/japan-shareholder-proposal-and-agm-voting-route]] and in [[finance/japan-activist-investor-playbook]]. Recurring engagement themes across this universe include:
+The engagement route is documented in [[finance/japan-shareholder-proposal-and-agm-voting-route]] and [[finance/japan-activist-investor-playbook]]. The following are research questions, not claims that any named issuer is currently subject to a campaign:
 
 - cost of capital, PBR < 1.0 pressure, and capital-policy disclosure (TSE cost-of-capital request);
 - cross-holding (政策保有株) unwind pace and disclosure;
@@ -198,32 +209,36 @@ Cross-holding unwind for insurers and megabanks shows up on the [[finance/japan-
 
 Recent capital actions across this universe (presence-only descriptor; verify before use):
 
-| Action class | Presence in universe |
+Source: this is an evidence-requirement table. Establish any issuer-specific action through [JPX TDnet](https://www.jpx.co.jp/equities/listing/disclosure/tdnet/index.html), [EDINET](https://disclosure.edinet-fsa.go.jp/), and the issuer's dated filing; the table makes no current issuer-level assertion.
+
+| Action class | Required primary evidence |
 |---|---|
-| Buyback programme | Disclosed historically by megabank FGs, Tokio Marine, MS&AD, ORIX, Nomura, SBI HD, and others. |
-| Cross-holding unwind | Disclosed by megabank FGs and the three non-life insurers as a programme commitment. |
-| Capital-and-business alliance | SBI HD - Shinsei Bank case, Aeon group consumer-finance reorganisation, regional-FG capital alliance cases. |
-| TOB target | Has occurred for some regional FGs and for SBI HD's Shinsei Bank acquisition; verify the specific case in TDnet / EDINET. |
-| Activist or large-shareholding target | Several regional FGs and consumer finance issuers have been disclosed in large-shareholding filings; verify each filer / purpose against the EDINET record. |
-| Convertible / equity-linked issuance | Used selectively by some consumer finance, leasing, and fintech issuers; never assume - check the most recent TDnet release. |
+| Buyback programme | Board-resolution disclosure, amount / period / method, completion notices, and cancellation or treasury-stock treatment. |
+| Cross-holding unwind | Current securities report, governance report, and dated disposal disclosure where material. |
+| Capital-and-business alliance | Executed agreement disclosure, ownership change, conditions, and effective date. |
+| TOB target | Tender-offer announcement / statement, target opinion, amendments, result, and post-offer ownership. |
+| Activist or large-shareholding target | Large Shareholding Report / amendment, stated purpose, joint holders, and issuer response. |
+| Convertible / equity-linked issuance | Pricing and terms announcement, securities filing, use of proceeds, dilution, and settlement / conversion terms. |
 
 For any specific capital action, the primary record is the issuer's TDnet release, EDINET securities report or extraordinary report, and the issuer IR page. None of the above is investment advice.
 
-## Key Risk Layer by Sub-Sector
+## Risk-Diligence Questions by Sub-Sector
 
-| Sub-sector | Dominant risk class |
+Source: the table is an analytical diligence-question taxonomy—not issuer facts—derived from the public filing routes described above. Validate materiality and direction from each issuer's current financial, regulatory, and risk disclosures.
+
+| Sub-sector | Questions to test in current filings |
 |---|---|
-| Megabank FG | NIM compression / JGB rate path, overseas credit cost, FX translation, capital-policy execution, governance / system events. |
-| Trust FG | Trust-fee compression, asset-management flow, real-estate exposure, fiduciary / governance event risk. |
-| Regional FG | NIM, demographic shrinkage, SME credit cycle, deposit cost, branch-cost structure, securities portfolio risk. |
-| Net bank | Parent-funding linkage, deposit-cost competition, credit growth quality, regulatory perimeter. |
-| Life insurance | NIRP legacy / rate sensitivity, equity-market sensitivity, FX, overseas life underwriting. |
-| Non-life insurance | NatCat cycle, overseas P&C underwriting, FX, cross-holding unwind pace, governance / agency-channel event risk. |
-| Securities | Wholesale / trading earnings volatility, US / overseas litigation, retail-flow cycle, capital-and-cost discipline. |
-| Card / consumer finance | Interest-rate cap regulatory legacy, refund-claim tail, credit cycle, parent-channel dependency. |
-| Leasing | Leasing-margin pressure, NIM, aviation / real-estate exposure, overseas finance asset quality. |
-| Telco-finance hybrid | Telco capex cycle, financial-arm credit growth quality, payment-fee competition, regulatory perimeter. |
-| Fintech / crypto | Crypto-cycle dependency, regulatory perimeter, going-concern / disclosure event risk for smaller issuers. |
+| Megabank FG | What do dated filings say about net interest income, securities valuation, credit costs, FX, capital, and operational events? |
+| Trust FG | What do dated filings say about trust fees, asset-management flows, real estate, and fiduciary controls? |
+| Regional FG | What do dated filings say about deposits, loans, securities portfolios, credit costs, and branch economics? |
+| Net bank | What do dated filings say about deposits, funding, credit quality, group transactions, and regulation? |
+| Life insurance | What do dated filings say about duration, rates, equities, FX, underwriting, and solvency? |
+| Non-life insurance | What do dated filings say about catastrophe losses, underwriting, FX, governance, and strategic holdings? |
+| Securities | What do dated filings say about trading, retail flows, litigation, capital, and cost controls? |
+| Card / consumer finance | What do dated filings say about credit costs, funding, regulation, refunds, and group transactions? |
+| Leasing | What do dated filings say about margins, funding, asset values, and overseas exposures? |
+| Telco-finance hybrid | What do dated filings say about subsidiary perimeter, credit, funding, payments, and regulation? |
+| Fintech / crypto | What do dated filings say about custody, valuation, liquidity, regulation, and disclosure controls? |
 
 ## Reader Verification Checklist
 
@@ -240,10 +255,10 @@ Before using any line in this page in any real-world decision, the reader should
 ## Caveats
 
 - This is a public-surface reference universe page, not a model portfolio, not a recommendation, not investment advice, not tax advice, not legal advice.
-- Tickers, sub-sector classifications, and major shareholder shapes change as a result of mergers, alliances, TOBs, reorganisations, and corporate actions.
-- ROE, dividend yield, foreign-ownership, and capital-policy descriptors are range / class labels only; they are NOT point estimates and they go stale fast.
-- Index inclusion and FTSE Russell eligibility rotate periodically; the index methodology pages override anything stated here.
-- Some named entities sit inside a listed parent rather than as standalone listings (e.g. PayPay Bank inside SoftBank Corp; SBI Sumishin Net Bank historically inside SBI HD); see [[finance/INDEX|finance INDEX]] for the parent-of mapping.
+- Names, codes, listing status, and editorial categories can change through mergers, TOBs, reorganisations, and corporate actions; this page records the June 2026 month-end / list-publication context from JPX's monthly-data page.
+- This page deliberately omits ROE, dividend yield, foreign ownership, capital-policy rankings, and constituent assertions. Retrieve them from dated primary or licensed sources.
+- Index inclusion rotates periodically; the current index-provider constituent record controls.
+- Some financial businesses sit inside listed parents rather than as standalone listings. Establish the current parent perimeter from dated issuer filings.
 - Private financial groups (e.g. JA Mitsui Leasing, mutual life insurers) are explicitly out of scope for an "investable universe" page because they are not listed.
 - Data verification is the reader's responsibility. The FinWiki public-surface convention is route-and-link, NOT signal generation.
 

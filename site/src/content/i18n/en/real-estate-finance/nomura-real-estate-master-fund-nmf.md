@@ -1,19 +1,20 @@
 ---
 source: real-estate-finance/nomura-real-estate-master-fund-nmf
-source_hash: ca7f6b1f61ca4220
+source_hash: 31ad8f5132b08e3c
 lang: en
 status: machine
 fidelity: ok
 title: "Nomura Real Estate Master Fund (NMF, J-REIT 3462)"
-translated_at: 2026-06-01T03:31:12.256Z
+translated_at: 2026-07-29T23:56:42+09:00
 ---
+
 # Nomura Real Estate Master Fund (NMF, J-REIT 3462)
 
 ## TL;DR
 
-**Nomura Real Estate Master Fund Inc. (NMF, TSE J-REIT 3462)** is the **diversified-portfolio J-REIT** sponsored by **Nomura Real Estate Holdings** (TSE Prime 3231) and managed by Nomura Real Estate Asset Management. NMF is the post-2015 merged entity formed by consolidating three Nomura-sponsored J-REITs — **Nomura Real Estate Office Fund**, **Nomura Real Estate Residential Fund**, and **Nomura Real Estate Master Fund (legacy)** — into a single diversified vehicle with portfolio exposure across **office, residential, retail, and logistics** assets. The 2015 merger created one of the **largest J-REITs by AUM** at the time and established NMF as the leading example of the "diversified mega-J-REIT" model — combining stable office cash flows, demographically-anchored residential income, retail diversification, and logistics growth in one vehicle to give investors broad real-estate exposure without single-asset-class concentration risk.
+**Nomura Real Estate Master Fund Inc. (NMF, TSE J-REIT 3462)** is a **diversified-portfolio J-REIT** managed by Nomura Real Estate Asset Management. It was newly incorporated on **2015-10-01** through a consolidation-type merger in which former Nomura Real Estate Master Fund, Nomura Real Estate Office Fund, and Nomura Real Estate Residential Fund were all eliminated; the new investment corporation listed on **2015-10-02**. Its portfolio includes office, residential, retail, logistics and other assets. Any at-the-time or current size ranking requires a same-date J-REIT census, and diversification alone does not prove smoother distributions or lower volatility than pure-play peers.
 
-For FinWiki, NMF is the **diversified-J-REIT template** — the contrast to pure-play office J-REIT like [[real-estate-finance/nippon-building-fund-j-reit-8951|NBF]] and [[real-estate-finance/japan-real-estate-j-reit-8952|JRE]] and to pure-play logistics J-REIT like [[real-estate-finance/glp-j-reit-3281|GLP J-REIT]] and [[real-estate-finance/nippon-prologis-reit-3283|Nippon Prologis REIT]]. The diversified profile gives smoother DPU through cycles but at the cost of less crisp asset-class exposure for investors who want pure-play themes.
+For FinWiki, NMF is a **diversified-J-REIT comparison case** — the contrast to pure-play office J-REIT like [[real-estate-finance/nippon-building-fund-j-reit-8951|NBF]] and [[real-estate-finance/japan-real-estate-j-reit-8952|JRE]] and to pure-play logistics J-REIT like [[real-estate-finance/glp-j-reit-3281|GLP J-REIT]] and [[real-estate-finance/nippon-prologis-reit-3283|Nippon Prologis REIT]]. Its multiple sleeves change the exposure mix, but historical DPU volatility must be calculated over matched periods rather than assumed from the diversified label.
 
 ## Wiki route
 
@@ -21,80 +22,98 @@ This entry sits under [[real-estate-finance/INDEX|real-estate-finance index]] as
 
 ## 1. Corporate identity
 
+Table evidence (reviewed 2026-07-29): [NMF official disclosures](https://www.nre-mf.co.jp/en/) and the [JPX listed-REIT directory](https://www.jpx.co.jp/english/equities/products/reits/issues/index.html).
+
 | Item | Detail |
 |---|---|
 | Ticker | TSE J-REIT **3462** |
 | Investment corporation | Nomura Real Estate Master Fund Inc. (野村不動産マスターファンド投資法人) |
-| Asset-management company | Nomura Real Estate Asset Management Co., Ltd. (sponsor: Nomura Real Estate Holdings) |
-| Sponsor | Nomura Real Estate Holdings (TSE Prime 3231); ultimate parent: [[securities-firms/nomura-hd|Nomura Holdings]] |
-| Listing date | Listed October 2015 as the merged successor (legacy NMF listed earlier; merger consolidated three Nomura J-REITs) |
+| Asset-management company | Nomura Real Estate Asset Management Co., Ltd.; Nomura Real Estate Holdings owns 100% of its outstanding shares |
+| Group roles | Nomura Real Estate Development is an information provider and a special related corporation; these roles are distinct from Nomura Real Estate Holdings' ownership of the asset manager |
+| Establishment / listing | New investment corporation incorporated **2015-10-01** and listed **2015-10-02** |
 | Asset focus | Diversified — office, residential, retail, logistics |
-| Asset administration trustee | Trust-bank trustee — varies by property |
-| Rating | High investment-grade by [[financial-regulators/jcr|JCR]] / [[financial-regulators/rating-and-investment|R&I]]; among the higher-rated J-REITs given diversification and scale |
-| Index inclusion | TSE REIT Index, GPR / FTSE EPRA Nareit Developed Asia |
+| Investment-corporation asset custodian | Sumitomo Mitsui Trust Bank under NMF's asset-custody agreement |
+| General administrator | Mitsubishi UFJ Trust and Banking Corporation for organizational administration and accounting; it also serves separately as transfer agent and special-account administrative agent |
+| Rating | Use the issuer's dated current ratings; diversification and scale alone do not establish a rating rank |
+| Index inclusion | Verify current inclusion directly from each index provider's dated constituent list |
 
 ## 2. The 2015 three-way merger
 
-NMF in its current form was created by the October 2015 consolidation of three Nomura Real Estate-sponsored J-REITs:| Pre-merger J-REIT | Asset focus | Role in merger |
+NMF in its current form was newly established through an October 2015 consolidation-type merger of three former Nomura Real Estate-related J-REITs:
+
+Table evidence (reviewed 2026-07-29): [NMF's merger FAQ](https://www.nre-mf.co.jp/en/ir/faq.html) states that all three former REITs were eliminated and a new investment corporation was established; the [merger schedule](https://www.nre-mf.co.jp/en/merger/index.html) gives the 2015-10-01 incorporation and 2015-10-02 listing dates.
+
+| Pre-merger J-REIT | Asset focus | Role in merger |
 |---|---|---|
-| Nomura Real Estate Office Fund | Office | Contributed office portfolio |
-| Nomura Real Estate Residential Fund | Residential | Contributed residential portfolio |
-| Nomura Real Estate Master Fund (legacy) | Diversified seed | Surviving entity / acquirer |
+| Nomura Real Estate Office Fund | Office | Eliminated in the consolidation-type merger; assets and obligations comprehensively succeeded by the new investment corporation |
+| Nomura Real Estate Residential Fund | Residential | Eliminated in the consolidation-type merger; assets and obligations comprehensively succeeded by the new investment corporation |
+| Former Nomura Real Estate Master Fund | Logistics and retail | Eliminated in the consolidation-type merger; assets and obligations comprehensively succeeded by the new investment corporation |
+
+Rationale-table evidence (reviewed 2026-07-29): [NMF official disclosures](https://www.nre-mf.co.jp/en/) and the merger documents should be used for stated objectives; scale, cost, liquidity and pipeline effects require matched pre- / post-merger data.
 
 | Merger rationale | Reading |
 |---|---|
-| Scale | Combined AUM placed merged NMF in the top tier of J-REITs by size, improving index weight and liquidity |
-| Diversification | Single diversified vehicle smoothed DPU vs three separate asset-class-specific vehicles |
-| Cost efficiency | Consolidated asset-management-company structure reduced overhead vs running three separate AM teams |
-| Pipeline efficiency | Single acquisition pipeline from Nomura Real Estate Holdings rather than three competing internal allocation channels |
-| Sponsor strategy | Aligned with Nomura Real Estate Holdings' shift toward a more integrated real-estate platform |
+| Scale | Record combined AUM, then compare same-date J-REIT AUM, index weight and trading liquidity separately |
+| Diversification | Combined multiple asset sleeves in one vehicle; any DPU-smoothing effect requires a matched pre- / post-merger calculation |
+| Cost efficiency | Test pre- / post-merger fees and overhead on a consistent basis; consolidation alone does not prove savings |
+| Pipeline structure | One listed vehicle replaced three, but current acquisition rights and asset sources remain disclosure-specific |
+| Sponsor strategy | Compare the merger documents with Nomura Real Estate Holdings' dated strategy disclosures |
 
-The 2015 merger was a precedent for later within-sponsor J-REIT consolidation (e.g. KJR Management consolidating multiple Mitsubishi Corp / KKR-anchored J-REITs).
+Later within-sponsor J-REIT consolidations should be evaluated from their own transaction documents; this page does not assert that they followed NMF as a causal precedent.
 
 ## 3. Portfolio composition
 
+Table evidence (reviewed 2026-07-29; issuer snapshot as of 2026-03-30, occupancy as of 2026-06-30): [NMF official dashboard](https://www.nre-mf.co.jp/en/). NMF disclosed **285 properties**, ¥1,097 billion acquisition price and 99.0% occupancy.
+
+| Asset sleeve | NMF pattern |
 |---|---|
-| Office | Largest sleeve — meaningful office portfolio inherited from former Nomura Real Estate Office Fund |
-| Residential | Material weight — inherited from former Residential Fund; demographically-anchored income |
-| Retail | Selective retail holdings — neighborhood/suburban retail |
-| Logistics | Growing logistics sleeve added as part of diversification strategy |
-| Other | Hotel, mixed-use opportunistic |
+| Office | Use the current asset-class allocation and stated denominator; historical assets include the former Nomura Real Estate Office Fund portfolio |
+| Residential | Use the current asset-class allocation and stated denominator; historical assets include the former Residential Fund portfolio |
+| Retail | Use the current asset-class allocation and property list |
+| Logistics | Use the current asset-class allocation and acquisition / disposition history |
+| Other | Use the issuer's current classifications for hotel, mixed-use and other assets |
 
 Specific weights shift with acquisitions and dispositions; NMF's IR materials publish current sector mix. The portfolio is geographically diversified across Tokyo metro, Osaka, Nagoya, and other major cities.
 
 ## 4. Capital and leverage
 
+Table evidence (reviewed 2026-07-29): [NMF official financial and distribution disclosures](https://www.nre-mf.co.jp/en/). Actual DPU was ¥3,634 for the period ended 2026-02; forecasts were ¥3,695 for 2026-08 and ¥3,719 for 2027-02 at review time and remain forecasts, not actual results.
+
 | Item | NMF pattern |
 |---|---|
-| LTV policy band | Mid-40% zone typical |
-| Debt mix | Bank loans plus public investment-corporation bonds; benefits from Nomura-affiliation in capital-markets access |
-| Bond curve | AA-zone domestic-rating; multiple tenors outstanding |
-| Sponsor support stake | Nomura Real Estate Holdings retains a sponsor-support unit-holder stake |
-| Distribution policy | Semi-annual DPU; J-REIT 90% pass-through |
-| Foreign-investor share | Material — large diversified name attracts global REIT funds |
+| LTV | Read the point-in-time ratio from the current issuer financial disclosure; no undated “typical” band is asserted here |
+| Debt mix | Bank loans plus public investment-corporation bonds; compare dated terms rather than attributing an access benefit to affiliation |
+| Bond curve | Use the current rating and outstanding-issue schedule with dates and tenors |
+| Sponsor support stake | Use the latest dated major-unit-holder disclosure |
+| Distribution snapshot | ¥3,634 actual DPU for 2026-02; later-period figures shown above were issuer forecasts at review time |
+| Foreign-investor relevance | Use dated unit-holder ownership and JPX trading-flow sources separately |
 
 ## 5. Diversified vs pure-play J-REIT
+
+Table evidence (reviewed 2026-07-29): [NMF](https://www.nre-mf.co.jp/en/), [NBF](https://www.nbf-m.com/nbf_e/), [JRE](https://www.j-re.co.jp/en_cms/portfolio/statement.html), [GLP J-REIT](https://www.glpjreit.com/en/portfolio/data.html), and [NPR](https://www.prologis-reit.co.jp/en/) issuer disclosures. DPU behaviour and investor-use rows are a comparison framework, not performance results or forecasts.
 
 | Dimension | Diversified (NMF) | Pure-play office (NBF / JRE) | Pure-play logistics (GLP J-REIT / NPR) |
 |---|---|---|---|
 | Asset-class focus | Multiple sleeves | Single (office) | Single (logistics) |
-| DPU volatility | Lower — diversification smooths cycle | Higher — single-asset-class cycle exposure | Higher — logistics-cycle exposure |
-| Cap-rate sensitivity | Blended across asset classes | Office cap-rate driven | Logistics cap-rate driven |
+| DPU behaviour | Calculate matched historical periods; no lower-volatility claim is assumed | Calculate the same periods and distribution convention | Calculate the same periods and distribution convention |
+| Cap-rate sensitivity | Calculate from current property mix, NOI and appraisal assumptions | Calculate from current office properties, NOI and appraisal assumptions | Calculate from current logistics properties, NOI and appraisal assumptions |
 | Investor use case | Broad real-estate exposure | Pure-play office theme | Pure-play logistics theme |
-| AUM scale | Top tier given merger | Top tier given developer sponsor scale | Mid-to-large depending on name |
-| Foreign-investor appeal | Diversified Japan-real-estate proxy | Benchmark Japan office | Benchmark Japan logistics |
+| AUM scale | Compare same-date issuer AUM on one definition | Compare same-date issuer AUM on one definition | Compare same-date issuer AUM on one definition |
+| Possible mandate framing | Broad Japan real-estate exposure | Office-focused exposure | Logistics-focused exposure |
 
-The diversified-vs-pure-play choice is fundamental to investor selection: investors wanting Marunouchi exposure pick JRE, wanting logistics-theme pick GLP J-REIT or NPR, wanting broad Japan real estate pick NMF.
+The diversified-vs-pure-play choice is an exposure-design question. Actual investor selection and demand require fund-level or ownership evidence and cannot be inferred from the vehicle label.
 
-## 6. NMF's role in the J-REIT ecosystem
+## 6. NMF in the J-REIT market structure
+
+Table evidence (reviewed 2026-07-29): [NMF official disclosures](https://www.nre-mf.co.jp/en/) and [JPX index/listing information](https://www.jpx.co.jp/english/equities/products/reits/index.html). Index weight, issuance and investor use must be read from dated disclosures.
 
 | Function | NMF role |
 |---|---|
-| Sponsor capital recycling | Recycles Nomura Real Estate Holdings stabilized assets into listed-market liquidity |
-| Foreign-investor entry point | Provides single-name diversified Japan real-estate exposure for global mandates |
-| Index weight | Among the largest constituents of TSE REIT Index, contributing to overall J-REIT index dynamics |
-| Bond-market issuance | Benchmark issuer in the J-REIT investment-corporation-bond segment |
-| Diversified template | Reference model for other multi-asset-class J-REITs (Orix JREIT, JMF, etc.) |
+| Sponsor capital recycling | Trace disclosed acquisitions, sellers, prices, continuing mandates and use of proceeds transaction by transaction |
+| Potential mandate use | Offers single-name diversified Japan real-estate exposure; actual global-mandate use is not inferred |
+| Index position | TSE REIT Index constituent; weight and contribution are date-specific |
+| Bond-market issuance | Investment-corporation-bond issuer; use dated issuance and outstanding-debt disclosures |
+| Diversified structure | Case study of a multi-asset-class J-REIT; no claim that peers adopted NMF as a reference model |
 
 ## Related
 

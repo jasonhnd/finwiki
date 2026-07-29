@@ -23,9 +23,9 @@
     "domain": "finance",
     "type": null,
     "created": "2026-05-22",
-    "last_updated": "2026-05-22",
-    "last_tended": "2026-05-22",
-    "review_by": "2026-11-22",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "finance",
@@ -44,6 +44,7 @@
       "https://www.fsa.go.jp/common/shinsei/tairyohoyu/summary/index.html",
       "https://www.fsa.go.jp/common/shinsei/tairyohoyu/index.html",
       "https://www.fsa.go.jp/en/laws_regulations/faq_on_fiea/section05.html",
+      "https://www.fsa.go.jp/en/refer/councils/stewardship/20250917/01.pdf",
       "https://www.fsa.go.jp/singi/singi_kinyu/tosin/20231225.html",
       "https://www.fsa.go.jp/access/r5/246.html",
       "https://disclosure2.edinet-fsa.go.jp/week0010.aspx?media=53999",
@@ -51,7 +52,7 @@
       "https://www.jpx.co.jp/equities/listing/disclosure/tdnet/index.html"
     ]
   },
-  "summary": "Japan's large-shareholding disclosure regime is the FIEA \"5% rule\" for revealing block ownership, influence, and market-supply information. Once a holder's ratio exceeds 5%, a Large Shareholding Report is generally required within five business days. Later material changes, including a 1% or greater",
+  "summary": "Japan's large-shareholding disclosure regime is the FIEA \"5% rule\" for revealing block ownership, influence, and market-supply information. Once a holder's ratio exceeds 5%, a Large Shareholding Report is generally required within five business days. Later material changes, including a holding-ratio",
   "headings": [
     "Japan large shareholding disclosure",
     "Overview",
@@ -92,13 +93,17 @@
       "https://finwiki.zksc.io/ja/regional-banks/sbi-shinsei-bank/",
       "https://finwiki.zksc.io/ja/securities/tokyo-stock-exchange/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 3,
+    "external_links": [
+      "https://www.fsa.go.jp/common/shinsei/tairyohoyu/index.html",
+      "https://www.fsa.go.jp/news/r7/shouken/20250704/20250704.html",
+      "https://www.jpx.co.jp/equities/listing/disclosure/tdnet/index.html"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 6032,
-    "word_like_tokens": 940,
+    "nonspace_chars": 6838,
+    "word_like_tokens": 1091,
     "inbound_wikilinks_count": 20,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-07-30"
   }
 }

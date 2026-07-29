@@ -11,9 +11,9 @@ aliases:
   - "asset-managers/cvc-japan-landscape"
 domain: finance
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
 confidence: likely
 tags: [finance, matrix, private-equity, japan, buyout, growth, secondaries, infrastructure, private-credit, fund-structure]
 status: active
@@ -21,29 +21,32 @@ sources:
   - "https://www.jpx.co.jp/equities/listing/disclosure/tdnet/index.html"
   - "https://disclosure.edinet-fsa.go.jp/"
   - "https://www.fsa.go.jp/en/laws_regulations/index.html"
-  - "https://www.kkr.com/our-firm/locations/tokyo"
-  - "https://www.bain.com/offices/tokyo/"
+  - "https://www.kkr.com/locations"
+  - "https://www.baincapital.com/locations"
   - "https://www.carlyle.com/where-we-are-located/japan"
   - "https://www.advantagepartners.com/en/"
   - "https://www.j-star.co.jp/en/"
-  - "https://www.polaris-cap.com/en/"
-  - "https://www.integralcorp.jp/en/"
-  - "https://www.j-ic.co.jp/en/business/jic-capital/"
+  - "https://polaris-cg.com/us/"
+  - "https://www.integralkk.com/en/"
+  - "https://www.jiccapital.co.jp/en/"
   - "https://www.collercapital.com/"
   - "https://www.ardian.com/"
-  - "https://www.macquarie.com/au/en/expertise/macquarie-asset-management.html"
-  - "https://www.globalinfra.com/"
+  - "https://www.macquarie.com/us/en/about/company/macquarie-asset-management/capabilities.html"
   - "https://www.apollo.com/"
   - "https://www.blackstone.com/"
   - "https://www.aresmgmt.com/"
   - "https://www.dbj.jp/en/"
+  - "https://www.meti.go.jp/english/policy/economy/startup_nbp/limitedpartners.html"
+  - "https://www.japaneselawtranslation.go.jp/en/laws/view/5019/en"
+  - "https://www.fsa.go.jp/news/r6/ginkou/20250630-2/250630-2.html"
+  - "https://ilpa.org/industry-guidance/principles-best-practices/continuation-funds/"
 ---
 
 # Japan private equity fund structure matrix
 
 ## TL;DR
 
-Japan's private capital universe is NOT one asset class; it is at least six distinct sub-strategies (buyout, growth, secondaries, continuation, infrastructure, private credit) and three distinct GP archetypes (global mega-PE Japan team, domestic independent GP, policy-aligned / state-affiliated GP) each running a different fund-structure recipe. This matrix is the side-by-side comparison surface for **fund type, target company profile (size / sector), leverage assumptions, hold period, carry and management-fee economics (typically 1/20, 1.5/20, or 2/20), LP mix (sovereign, pension, insurer, family office), and vehicle jurisdiction (Japan investment LPS, Cayman ELP, Delaware LP)**. This is a route map, NOT investment advice, NOT a recommendation, NOT a fundraising solicitation, NOT a GP endorsement.
+Japan's private-capital universe is not one asset class. This page distinguishes buyout, growth, secondaries, continuation, infrastructure, and private credit, and separates global, domestic-independent, and policy-aligned GP archetypes. It compares the diligence fields for fund type, target profile, financing, investment period, fee / carry terms, LP mix, and vehicle jurisdiction. None of those commercial terms can be inferred from an industry label: verify them in the specific LPA, side letter, public fund-closing release, and LP disclosure. This is a route map, NOT investment advice, a recommendation, a fundraising solicitation, or a GP endorsement.
 
 ## Wiki route
 
@@ -51,15 +54,15 @@ This entry sits under [[finance/INDEX|finance index]]. Read it against [[finance
 
 ## Why this matrix matters
 
-Most external commentary on "Japan PE" conflates global mega-PE Japan teams (KKR Japan, Bain Japan, Carlyle Japan, EQT Japan, CVC Japan) with domestic independents (Advantage Partners, J-STAR, Integral, Polaris) and with state-affiliated / sovereign-adjacent vehicles (JIC Capital, INCJ / JIC, DBJ / DBJC). These are NOT the same business model.
+Labels such as global manager, Japan team, domestic independent, or policy-aligned vehicle do not establish a fund's mandate, vehicle, economics, or LP base.
 
 A practitioner needs side-by-side visibility into:
 
 - **fund type** (buyout / growth / secondaries / continuation / infrastructure / private credit);
 - **target profile** by enterprise-value band and sector;
-- **leverage assumption** (low growth-equity leverage vs 5-7x EBITDA buyout vs unlevered infrastructure);
-- **hold period** (3-5 yr growth, 4-7 yr buyout, 7-10+ yr infrastructure);
-- **fee / carry split** (1/20 for credit, 1.5/20 for newer managers, 2/20 for buyout standard);
+- **financing and leverage assumptions**, established from the transaction and fund documents;
+- **investment / hold period**, established from the LPA and asset plan;
+- **fee, carry, hurdle, catch-up, and waterfall terms**, established from the LPA and side letters;
 - **LP mix** (sovereign / pension / insurer / family office / fund-of-funds);
 - **vehicle jurisdiction** (Japan investment LPS / 投資事業有限責任組合, Cayman exempted LP, Delaware LP, sometimes parallel structures).
 
@@ -67,10 +70,12 @@ This matrix is the comparison surface for those questions. The mechanics of any 
 
 ## Fund-type taxonomy
 
+Source: this is an analytical taxonomy using the diligence fields in METI's [Model Limited Partnership Agreement](https://www.meti.go.jp/english/policy/economy/startup_nbp/limitedpartners.html); it does not establish any fund's mandate or economics.
+
 | Sub-strategy | Short definition |
 |---|---|
-| **Buyout** | Acquire majority / 100% control of established companies; use leverage. |
-| **Growth equity** | Minority / co-control of growth-stage companies; limited leverage. |
+| **Buyout** | Control-oriented acquisition strategy; ownership and leverage are transaction-specific. |
+| **Growth equity** | Growth-company equity strategy; control rights and leverage are transaction-specific. |
 | **Secondaries** | Buy existing LP interests / portfolios from prior LPs. |
 | **Continuation fund** | GP-led secondary; existing GP rolls one or more portfolio companies into a new vehicle. |
 | **Infrastructure** | Long-life, cash-yielding assets (utilities, renewables, transport, digital infra). |
@@ -80,15 +85,17 @@ Read this with [[finance/japan-leveraged-buyout-economics]] for the buyout IRR w
 
 ## GP archetype taxonomy
 
+Source: each row links to the public firm or strategy page used for the examples. Presence in the table means only that the linked public page exists; it is not a current fundraising, performance, Japan-allocation, or endorsement claim.
+
 | Archetype | Examples (public website disclosures) |
 |---|---|
-| **Global mega-PE Japan team** | KKR Japan, Bain Capital Japan, Carlyle Japan, EQT Japan, CVC Japan |
-| **Domestic independent buyout** | Advantage Partners, J-STAR, Unison Capital |
-| **Domestic independent growth** | Polaris Capital Group, Integral Corporation, NSSK |
-| **Sovereign / policy-aligned** | JIC Capital (under Japan Investment Corporation), DBJ Capital ([[financial-regulators/dbj|DBJ]]-affiliated) |
-| **Foreign secondaries / continuation** | Coller Capital, Ardian, Strategic Partners (BX), Lexington Partners (Franklin), HarbourVest |
-| **Foreign / global infrastructure** | Macquarie Asset Management, Global Infrastructure Partners (BlackRock), KKR Infrastructure, Brookfield Infrastructure |
-| **Foreign / global private credit** | Apollo, Blackstone Credit (BXCI), Ares Japan, Oaktree, Sixth Street, Bain Capital Credit |
+| **Global private-equity firms with Japan pages** | [KKR locations](https://www.kkr.com/locations), [Bain Capital locations](https://www.baincapital.com/locations), [Carlyle Japan](https://www.carlyle.com/where-we-are-located/japan) |
+| **Domestic independent buyout** | [Advantage Partners](https://www.advantagepartners.com/en/), [J-STAR](https://www.j-star.co.jp/en/) |
+| **Domestic independent growth / buyout** | [Polaris Capital Group](https://polaris-cg.com/us/), [Integral](https://www.integralkk.com/en/) |
+| **Sovereign / policy-aligned** | [JIC Capital](https://www.jiccapital.co.jp/en/), [DBJ](https://www.dbj.jp/en/) |
+| **Foreign secondaries / continuation** | [Coller Capital](https://www.collercapital.com/), [Ardian](https://www.ardian.com/), [Blackstone](https://www.blackstone.com/) |
+| **Foreign / global infrastructure** | [Macquarie Asset Management](https://www.macquarie.com/us/en/about/company/macquarie-asset-management/capabilities.html), [KKR](https://www.kkr.com/locations) |
+| **Foreign / global private credit** | [Apollo](https://www.apollo.com/), [Blackstone](https://www.blackstone.com/), [Ares](https://www.aresmgmt.com/) |
 
 This is a public-website-only enumeration; it is NOT a recommendation, ranking, or vouching for any GP.
 
@@ -96,195 +103,218 @@ This is a public-website-only enumeration; it is NOT a recommendation, ranking, 
 
 ### Buyout
 
+Source: the table is a diligence checklist structured around METI's [Model Limited Partnership Agreement](https://www.meti.go.jp/english/policy/economy/startup_nbp/limitedpartners.html) and the FSA's [2025 LBO-loan monitoring report](https://www.fsa.go.jp/news/r6/ginkou/20250630-2/250630-2.html). It does not provide industry-standard size, leverage, hold-period, fee, carry, or return benchmarks.
+
 | Dimension | Typical reading |
 |---|---|
-| Target company profile | Established, EBITDA ¥1-50bn typical band; EV ¥10-500bn typical; sector-agnostic with healthcare, industrials, software, consumer concentrations. |
-| Sector | Industrials, healthcare, software / IT services, consumer, financial services. |
-| Leverage assumption | 5-7x EBITDA typical; sometimes higher for stable cash-flow businesses; LBO loan clubbed across [[megabanks/mufg-bank]], [[megabanks/mizuho-bank]], [[megabanks/sumitomo-mitsui-banking-corp|SMBC]], [[trust-banks/smtb|SMTB]]. |
-| Hold period | 4-7 years typical (some 3-5 yr for global mega-PE Japan teams; some 5-8 yr for domestic independents). |
-| Fee / carry | 2% / 20% (standard for global mega-PE Japan team); 1.5% / 20% (some newer / domestic); above 8% hurdle / preferred return; European-style waterfall common in domestic, deal-by-deal in global. |
-| LP mix | Global pensions (CalPERS, CPP, OTPP, GPIF (limited)), sovereign wealth (ADIA, GIC, KIA), Japanese megabank treasury, Japanese life insurers, foundations, family offices, fund-of-funds. |
-| Vehicle jurisdiction | Global mega-PE Japan team: Cayman ELP main vehicle + Japan parallel for tax-exempt LP. Domestic independent: Japan investment LPS (投資事業有限責任組合) main vehicle, sometimes Cayman parallel. |
-| Exit routes | Trade sale to strategic, sponsor-to-sponsor secondary, IPO on TSE Prime / Growth, dividend recap. |
-| Deal sourcing | Take-private from TSE, carve-out from listed parent, succession / family business, sponsor-to-sponsor. |
+| Target company profile | Verify control mandate, size, sector, and eligibility from the specific fund and transaction disclosures. |
+| Sector | Verify the permitted and excluded sectors in the governing documents and dated strategy disclosure. |
+| Leverage assumption | Deal-specific; verify debt commitments, covenant package, downside case, and fund-level borrowing authority. |
+| Hold period | Fund- and asset-specific; verify LPA term, extensions, investment plan, and exit assumptions. |
+| Fee / carry | Fund-specific; verify management-fee base / step-down, carry, hurdle, catch-up, waterfall, clawback, and side letters. |
+| LP mix | Use only disclosed LP / investor records; do not infer composition from GP archetype. |
+| Vehicle jurisdiction | Fund-specific; verify governing agreement, parallel vehicles, tax blockers, and investor eligibility. |
+| Exit routes | Verify the asset plan and actual exit; possible routes depend on the investment and documents. |
+| Deal sourcing | Establish the actual sourcing route from dated transaction evidence rather than from the strategy label. |
 
 Read this against [[finance/japan-mbo-and-squeeze-out-process]] for take-private mechanics, [[finance/japan-leveraged-buyout-economics]] for IRR walk, and [[finance/japan-listed-financial-groups-investable-universe]] for the listed-target universe.
 
 ### Growth equity
 
+Source: the table is an analytical strategy checklist using METI's [Model Limited Partnership Agreement](https://www.meti.go.jp/english/policy/economy/startup_nbp/limitedpartners.html). Fund size, mandate, fees, carry, duration, and LP composition require fund-specific evidence.
+
 | Dimension | Typical reading |
 |---|---|
-| Target company profile | High-growth, often pre-profitability or early-profit, EV ¥5-50bn typical band; tech, healthcare, consumer brands. |
-| Sector | Software / SaaS, fintech, healthcare, D2C consumer, climate / energy transition. |
-| Leverage assumption | Low / zero; growth equity is mostly equity-funded. |
-| Hold period | 3-5 years typical (sometimes longer for true growth investments). |
-| Fee / carry | 2% / 20% standard; sometimes 2.5% / 20% for smaller / earlier funds; European-style waterfall. |
-| LP mix | Sovereign wealth, pension, insurer, fund-of-funds, family office; less mega-pension because of smaller cheque sizes. |
-| Vehicle jurisdiction | Japan investment LPS main for domestic; Cayman ELP for cross-border. |
-| Exit routes | IPO on TSE Growth / Prime, trade sale to strategic, sponsor-to-sponsor. |
-| Deal sourcing | Founder / management connections, VC graduation, secondary from earlier-stage VC, founder-led carve-out. |
+| Target company profile | Growth-stage companies; profitability, size, control rights, and sector mandate are fund-specific. |
+| Sector | Verify the permitted and excluded sectors in the governing documents and dated strategy disclosure. |
+| Leverage assumption | Deal-specific; verify company, acquisition, and fund-level borrowing in the governing documents. |
+| Hold period | Fund- and asset-specific; verify the LPA term, extensions, and investment plan. |
+| Fee / carry | Fund-specific; verify the LPA and side letters rather than assuming a standard rate. |
+| LP mix | Use only disclosed investor records; do not infer allocation or cheque size. |
+| Vehicle jurisdiction | Fund-specific; verify the governing vehicle and any parallel structure. |
+| Exit routes | Verify the asset plan and actual exit; the strategy label does not establish a route. |
+| Deal sourcing | Establish the actual sourcing route from dated transaction evidence. |
 
-Domestic growth GPs include Polaris Capital Group (formerly Polaris Holdings), Integral Corporation, NSSK, and JIC Capital (within Japan Investment Corporation umbrella). Each runs a public-website disclosure.
+The GP-archetype table above provides the bounded public-page routes used here; confirm each firm's current strategy and fund status directly.
 
 ### Secondaries
+
+Source: the table is an analytical strategy checklist based on the fund-agreement diligence fields in METI's [Model Limited Partnership Agreement](https://www.meti.go.jp/english/policy/economy/startup_nbp/limitedpartners.html); no commercial term or jurisdiction in it is an industry benchmark.
 
 | Dimension | Typical reading |
 |---|---|
 | Target | Existing LP interests in PE / VC funds, portfolios of secondary positions, GP-led restructurings. |
-| Sector | Sector-agnostic; secondary buyer underwrites underlying portfolio composition. |
+| Sector | Portfolio-specific; verify the underlying exposures and any mandate limits. |
 | Leverage assumption | Fund-level credit facility (NAV-based or subscription-line); portco leverage inherits underlying fund. |
-| Hold period | 2-5 years typical (shorter than primary because remaining fund life shorter). |
-| Fee / carry | 1% / 10% (some), 1.25% / 12.5%, or 1.5% / 15% — typically lower than buyout because lower expected return and shorter duration. |
-| LP mix | Pension, insurer, sovereign, fund-of-funds — investors with secondary-market expertise. |
-| Vehicle jurisdiction | Cayman ELP standard; sometimes Luxembourg SCSp or Delaware LP for Western LP base. |
+| Hold period | Portfolio- and fund-life-specific; verify remaining term, extensions, and liquidity plan. |
+| Fee / carry | Fund-specific; verify fee base, carry, hurdle, catch-up, waterfall, and transaction fees in governing documents. |
+| LP mix | Use only disclosed investor records. |
+| Vehicle jurisdiction | Fund-specific; verify governing law, parallel vehicles, and investor eligibility. |
 | Routes | LP-led (LP sells stake), GP-led (continuation fund), structured / preferred secondaries. |
 
-Global secondary GPs active in Japan include Coller Capital, Ardian, Strategic Partners (Blackstone), Lexington Partners (Franklin Templeton), HarbourVest, Pantheon, and Goldman Sachs Vintage. Japan-specific secondaries activity remains thinner than US / EU but growing.
+The GP-archetype table above links the public firm pages used for examples. It does not establish current Japan deployment, fundraising status, or market-growth claims.
 
 ### Continuation fund
+
+Source: the table is a conflict-and-terms diligence checklist read with ILPA's dated [Continuation Funds guidance page](https://ilpa.org/industry-guidance/principles-best-practices/continuation-funds/); the existing-fund LPA, continuation-vehicle documents, LPAC materials, and transaction disclosure control.
 
 | Dimension | Typical reading |
 |---|---|
 | Target | One or more existing portfolio companies of the same GP, transferred from an existing fund into a new vehicle. |
 | Sector | Sector inherits underlying portfolio company. |
 | Leverage assumption | Inherits portco leverage; sometimes refinanced at transfer. |
-| Hold period | 3-5 years typical post-transfer. |
-| Fee / carry | Reset at transfer; typically 1% / 10% or 1.5% / 15%; sometimes "deal-level" fees if single-asset. |
-| LP mix | Existing LPs (rollover option), new LPs (capital injection); ILPA Continuation Fund Guidance applies on conflicts and process. |
-| Vehicle jurisdiction | Cayman ELP standard; Japan-domiciled variants exist for tax-exempt LP base. |
-| Conflict management | LPAC consent, fairness opinion, GP commitment, status-quo option for existing LPs. |
+| Hold period | Asset- and continuation-vehicle-specific; verify term, extensions, and exit plan. |
+| Fee / carry | Reset or retained terms are transaction-specific; verify all fees, carry, crystallisation, rollover, and side-letter treatment. |
+| LP mix | Existing LPs (rollover option), new LPs (capital injection); current ILPA Continuation Fund Guidance is voluntary, non-binding industry guidance to consider alongside the governing documents and applicable law. |
+| Vehicle jurisdiction | Transaction-specific; verify the governing vehicle, rollover mechanics, and parallel structures. |
+| Conflict management | Treat consent, conflict review, valuation, rollover, and election terms as non-binding considerations only where adopted or incorporated into the governing documents; do not assume every ILPA measure applies. |
 
-Continuation funds are a relatively newer structure in Japan; conflict-management process follows ILPA guidance and increasingly local LP expectations.
+Do not infer a single required process from the label "continuation fund." Apply the governing documents, transaction-specific law, and the current dated version of ILPA guidance.
 
 ### Infrastructure
+
+Source: the table is an analytical strategy checklist using the fund-agreement fields in METI's [Model Limited Partnership Agreement](https://www.meti.go.jp/english/policy/economy/startup_nbp/limitedpartners.html) and asset-level diligence fields; leverage, duration, fees, returns, and jurisdiction require fund- and asset-specific public evidence.
 
 | Dimension | Typical reading |
 |---|---|
 | Target | Long-life cash-yielding assets: renewables (solar / wind / hydro), digital infra (data centers, towers, fiber), transport (toll roads, airports), utilities, regulated networks. |
 | Sector | Energy transition, digital infra, transport, social infra. |
-| Leverage assumption | Asset-level financing (project finance, infra loan, infra bond); fund-level moderate; total leverage 50-70% of asset value typical. |
-| Hold period | 7-10+ years typical (some core-plus 7-10 yr; core 10-15+ yr; super-core 15-25 yr). |
-| Fee / carry | 1% / 10% (core), 1.25% / 15% (core-plus), 1.5% / 20% (value-add); above 6-8% preferred return. |
-| LP mix | Pension, insurer, sovereign, infra-focused fund-of-funds; long-duration LP base. |
-| Vehicle jurisdiction | Cayman ELP for global; Luxembourg SCSp for EU LP base; Japan-specific structures for domestic infra TK-GK. |
-| Income profile | Yield-oriented: 4-8% cash yield + capital appreciation. |
+| Leverage assumption | Asset- and project-specific; verify financing documents, recourse, covenants, and fund-level borrowing authority. |
+| Hold period | Fund- and asset-specific; verify term, extensions, concession / contract life, and exit plan. |
+| Fee / carry | Fund-specific; verify the LPA, asset-management fees, transaction fees, hurdle, carry, and side letters. |
+| LP mix | Use only disclosed investor records. |
+| Vehicle jurisdiction | Asset- and investor-specific; verify governing law and any Japan TK-GK or parallel structure. |
+| Income profile | Asset-specific; verify contracted / merchant revenue, distributions, capital expenditure, and valuation assumptions. |
 
-Global infra GPs active in Japan / APAC infrastructure include Macquarie Asset Management, Global Infrastructure Partners (BlackRock), KKR Infrastructure, Brookfield Infrastructure, I Squared Capital, Stonepeak. Japan-domestic infra includes [[financial-regulators/dbj|DBJ]]-affiliated DBJ Capital, JOIN (Japan Overseas Infrastructure Investment Corporation), and several Japan-listed renewable / infra funds.
+The GP-archetype table above links the public infrastructure pages used for examples. It does not establish current Japan deployment or fund status.
 
 ### Private credit
+
+Source: the table is an analytical strategy checklist using the fund-agreement fields in METI's [Model Limited Partnership Agreement](https://www.meti.go.jp/english/policy/economy/startup_nbp/limitedpartners.html); fund leverage, borrower leverage, duration, fees, return targets, LP mix, and jurisdiction require the governing fund and loan documents.
 
 | Dimension | Typical reading |
 |---|---|
 | Target | Direct lending to sponsor-backed companies, mezzanine debt, distressed / special-situations, asset-based lending, real-estate credit. |
-| Sector | Sector-agnostic in direct lending; specialized in distressed / asset-based. |
-| Leverage assumption | Fund-level credit facility (NAV-based) 0.5-1.5x leverage typical; underlying loans not "levered" but borrower leverage 4-6x. |
-| Hold period | 3-5 years per loan typical; fund life 5-8 years. |
-| Fee / carry | 1% / 10% or 1.25% / 12.5%; lower than equity strategies; above 5-7% hurdle. |
-| LP mix | Insurer (large), pension, sovereign, family office; insurance LPs especially attracted by yield. |
-| Vehicle jurisdiction | Cayman ELP standard; Delaware LP for US LP base; sometimes Luxembourg SCSp / RAIF for EU. |
-| Income profile | Yield + spread; floating-rate dominant in senior direct lending. |
+| Sector | Portfolio- and mandate-specific; verify concentrations, exclusions, and borrower exposures. |
+| Leverage assumption | Fund- and borrower-specific; verify facility documents, borrower capital structure, covenants, and downside recovery. |
+| Hold period | Loan- and fund-specific; verify maturity, extensions, reinvestment period, and fund term. |
+| Fee / carry | Fund-specific; verify management fee, incentive allocation / carry, hurdle, catch-up, and side letters. |
+| LP mix | Use only disclosed investor records. |
+| Vehicle jurisdiction | Fund-specific; verify governing law, feeder / blocker entities, and investor eligibility. |
+| Income profile | Verify rate basis, spread, fees, payment priority, maturity, and recovery terms in the loan documents. |
 
-Global private credit active in Japan includes Apollo, Blackstone Credit (BXCI), Ares Japan, Oaktree, Sixth Street, Bain Capital Credit, KKR Credit. Japan-domestic private credit is less developed; megabank loan portfolios and trust-bank loan participations occupy adjacent space.
+The GP-archetype table above links the public credit pages used for examples. It does not establish current Japan deployment, fundraising status, or relative market development.
 
 ## Big comparison matrix table
 
-The following matrix compares all six fund-types side-by-side across the seven dimensions. Every cell is a categorical descriptor based on public-website GP disclosures and general industry public-source convention. NOT investment advice; NOT a recommendation; NOT a GP endorsement.
+The following matrix compares all six fund types side-by-side as analytical diligence fields. It does not establish a market benchmark or the terms of any named fund. NOT investment advice; NOT a recommendation; NOT a GP endorsement.
+
+Source: the matrix is a diligence-field comparison anchored to METI's [Model Limited Partnership Agreement](https://www.meti.go.jp/english/policy/economy/startup_nbp/limitedpartners.html). It deliberately does not present numerical industry benchmarks; fund-specific terms require the LPA, side letters, audited reporting, and dated public closing disclosures.
 
 | Dimension | Buyout | Growth | Secondaries | Continuation | Infrastructure | Private credit |
 |---|---|---|---|---|---|---|
-| **Target profile** | Established, control acquisition, EV ¥10-500bn | Growth-stage, minority / co-control, EV ¥5-50bn | LP interests / portfolios | Single or multi-asset GP-led | Long-life cash-yielding assets | Sponsor-backed borrowers, distressed, asset-based |
-| **Sector concentration** | Industrials, healthcare, software, consumer, financial services | Software / SaaS, fintech, healthcare, D2C, climate | Sector-agnostic | Inherits portco | Renewables, digital infra, transport, utilities | Sector-agnostic |
-| **Typical EBITDA / EV band** | EBITDA ¥1-50bn, EV ¥10-500bn | EV ¥5-50bn (often pre-profit) | N/A (LP secondary) | Portco-specific | Asset-specific | Borrower-EBITDA dependent |
-| **Leverage assumption** | 5-7x EBITDA typical | Low / zero | Fund-level NAV facility | Inherits portco | 50-70% LTV asset-level | Underlying borrower 4-6x; fund 0.5-1.5x |
-| **Hold period** | 4-7 yr | 3-5 yr | 2-5 yr | 3-5 yr | 7-10+ yr | 3-5 yr per loan, 5-8 yr fund |
-| **Management fee** | 2% (standard); 1.5% (newer / domestic) | 2-2.5% | 1-1.5% | 1-1.5% (reset) | 1-1.5% (tier by strategy) | 1-1.25% |
-| **Carry %** | 20% above 8% preferred | 20% above 8% preferred | 10-15% above 6-8% preferred | 10-15% reset | 10-20% tier by core / core-plus / value-add | 10-12.5% above 5-7% preferred |
-| **Waterfall** | European (domestic JP LPS) or deal-by-deal (global mega-PE) | European common | European | European | European | European |
-| **GP commitment** | 1-5% of fund size | 1-3% | 1-2% | 1-3% (signal in single-asset) | 1-3% | 1-2% |
-| **LP mix dominant** | Global pension, sovereign, insurer | Sovereign, pension, FOF, family office | Pension, insurer, FOF | Existing LP rollover + new LP | Pension, insurer, sovereign, long-duration | Insurer (large), pension, sovereign |
-| **Japan LP presence** | Megabank treasury, life insurers, GPIF (selective) | Less mega-pension, more family office / regional bank | Limited Japan-specific | Limited | Japan policy-aligned (DBJ, JIC), insurers | Insurers (e.g. Nippon Life, Dai-ichi Life), megabank treasury |
-| **Vehicle jurisdiction** | Cayman ELP main + Japan parallel; OR Japan investment LPS | Japan investment LPS (domestic) / Cayman ELP (global) | Cayman ELP standard | Cayman ELP standard | Cayman ELP / Luxembourg SCSp / Japan TK-GK | Cayman ELP / Delaware LP / Luxembourg RAIF |
-| **Tax structure** | Capital-gain treatment for LPs; depends on LP jurisdiction | Same as buyout | Capital-gain | Capital-gain (transfer event) | Often dividend / interest income | Interest income (mostly) |
-| **Exit / realisation** | Trade sale, sponsor-to-sponsor, IPO, dividend recap | IPO TSE Growth / Prime, trade sale, sponsor-to-sponsor | Distributions from underlying funds | Sale, recap, IPO of single asset | Asset sale, refinancing, listing of YieldCo | Loan repayment, refinancing, restructuring |
-| **Adviser franchise** | Megabank-affiliated securities + global IB | Boutique advisers + global IB for larger | Specialised secondaries advisers (Lazard, Evercore, etc.) | GP's existing IB + independent FO | Infrastructure-specialist advisers | Credit-focused placement agents |
-| **Typical target returns (gross)** | 20-25% gross IRR target | 20-30% gross IRR target | 15-20% gross IRR target | 15-20% gross IRR target | 10-15% gross IRR (core-plus); 15-20% (value-add) | 8-12% gross IRR (senior); 12-18% (mezz / distressed) |
-| **Typical fund size band** | ¥100-500bn (global mega-PE Japan team); ¥30-150bn (domestic) | ¥20-80bn typical | ¥100-500bn (global) | ¥30-100bn (single-asset typical) | ¥200bn-1tn (global infra fund) | ¥50-300bn |
-| **Disclosure path** | LP capital calls, LPA, ILPA template reporting | Same as buyout | ILPA secondary template | ILPA Continuation Fund Guidance + LPAC consent | LP reporting + asset-level | LP reporting + loan-level |
+| **Target profile** | Established, control acquisition; size is fund-specific | Growth-stage, minority / co-control; size is fund-specific | LP interests / portfolios | Single or multi-asset GP-led | Long-life assets | Sponsor-backed borrowers, distressed, asset-based |
+| **Sector concentration** | Verify governing mandate and portfolio | Verify governing mandate and portfolio | Verify underlying portfolio | Verify transferred asset(s) | Verify governing mandate and assets | Verify governing mandate and borrowers |
+| **Target size / financial band** | Fund-specific | Fund-specific | Portfolio-specific | Asset-specific | Asset-specific | Borrower-specific |
+| **Leverage assumption** | Deal-specific | Deal-specific | Fund- and portfolio-specific | Asset-specific | Asset- and project-specific | Fund- and borrower-specific |
+| **Hold period** | LPA- and asset-specific | LPA- and asset-specific | Remaining-life-specific | Continuation-vehicle-specific | Fund- and asset-specific | Loan- and fund-specific |
+| **Management fee** | LPA / side-letter-specific | LPA / side-letter-specific | LPA / side-letter-specific | Continuation documents control | LPA plus asset-level fees | LPA / side-letter-specific |
+| **Carry / incentive allocation** | LPA-specific | LPA-specific | LPA-specific | Transfer / continuation documents control | LPA-specific | LPA-specific |
+| **Waterfall** | Verify whole-fund vs deal-by-deal and clawback | Verify governing documents | Verify governing documents | Verify crystallisation / reset | Verify governing documents | Verify governing documents |
+| **GP commitment** | Verify subscription and related-party funding | Verify | Verify | Verify rollover and new commitment | Verify | Verify |
+| **LP mix evidence** | Disclosed LP records only | Disclosed LP records only | Disclosed LP records only | Disclosed rollover and new-LP records only | Disclosed LP records only | Disclosed LP records only |
+| **Japan LP presence** | Use disclosed LP records only | Use disclosed LP records only | Use disclosed LP records only | Use disclosed rollover / new-LP records only | Use disclosed LP records only | Use disclosed LP records only |
+| **Vehicle jurisdiction** | Fund-specific; parallel vehicles possible | Fund-specific | Fund-specific | Fund-specific | Fund- and asset-specific | Fund-specific |
+| **Tax structure** | LP- and transaction-specific | LP- and transaction-specific | LP- and transfer-specific | LP- and transfer-specific | Investor-, vehicle-, and asset-specific | Investor-, vehicle-, and income-specific |
+| **Exit / realisation** | Verify asset plan and actual disposition | Verify asset plan and actual disposition | Verify underlying distributions and transfers | Verify continuation documents and actual disposition | Verify asset plan and actual disposition | Verify repayment, refinancing, enforcement, or restructuring |
+| **Adviser evidence** | Dated fund or transaction documents | Dated fund or transaction documents | Dated fund or transaction documents | Dated continuation documents | Dated fund or asset documents | Dated fund or loan documents |
+| **Target returns** | Do not infer; verify dated fund documents | Do not infer; verify dated fund documents | Do not infer; verify dated fund documents | Do not infer; verify transaction documents | Do not infer; verify dated fund documents | Do not infer; verify dated fund documents |
+| **Fund size** | Verify the dated final-close disclosure | Verify the dated final-close disclosure | Verify the dated final-close disclosure | Verify the vehicle disclosure | Verify the dated final-close disclosure | Verify the dated final-close disclosure |
+| **Disclosure path** | Governing documents and LP reporting; ILPA templates may be used | Governing documents and LP reporting; ILPA templates may be used | Transfer documents and LP reporting | Continuation documents, conflict records, and LP reporting | Governing documents, LP reporting, and asset records | Governing documents, LP reporting, and loan records |
 
 ## GP archetype overlay
 
+Source: the table is an analytical vehicle / investor diligence map using METI's [Model Limited Partnership Agreement](https://www.meti.go.jp/english/policy/economy/startup_nbp/limitedpartners.html) as the Japan fund-document route. Archetype does not establish the actual vehicle, LP mix, or carry terms of a specific fund.
+
 | Archetype | Fund vehicle pattern | LP mix pattern | Carry pattern |
 |---|---|---|---|
-| Global mega-PE Japan team | Cayman ELP main + Japan parallel; Japan deal team into global fund | Global pension / sovereign dominant; some Japan LP | 2/20 standard; deal-by-deal waterfall common |
-| Domestic independent buyout | Japan investment LPS main; Cayman parallel for international LP | Japan megabank treasury + insurer + GPIF / pension + family office | 2/20 or 1.5/20; European waterfall common |
-| Domestic independent growth | Japan investment LPS main | Japan megabank treasury + family office + regional bank + JIC | 2/20 or 2.5/20; European |
-| Sovereign / policy-aligned | Japan investment LPS or co-investment vehicle | Government / quasi-government LP dominant; pension secondary | Often hurdle-based with government policy overlay; carry may be capped |
-| Foreign secondaries | Cayman ELP / Luxembourg SCSp | Global secondaries-specialist LP | 1-1.5% / 10-15% |
-| Foreign / global infra | Cayman ELP / Luxembourg SCSp | Pension / insurer / sovereign long-duration | Tiered by core / core-plus / value-add |
-| Foreign / global private credit | Cayman ELP / Delaware LP / Luxembourg RAIF | Insurer-heavy | 1-1.25% / 10-12.5% |
+| Global mega-PE Japan team | Potential global main fund plus Japan parallel; verify | Use disclosed LP records only | Fund-specific; verify LPA / side letters |
+| Domestic independent buyout | Potential Japan investment LPS plus parallel vehicle; verify | Use disclosed LP records only | Fund-specific; verify LPA / side letters |
+| Domestic independent growth | Potential Japan investment LPS; verify | Use disclosed LP records only | Fund-specific; verify LPA / side letters |
+| Sovereign / policy-aligned | Potential Japan LPS or co-investment vehicle; verify | Use disclosed public mandate / LP records only | Fund-specific; verify governing documents |
+| Foreign secondaries | Potential Cayman / Luxembourg / other vehicle; verify | Use disclosed LP records only | Fund-specific; verify LPA / transaction documents |
+| Foreign / global infra | Potential global and asset-level vehicles; verify | Use disclosed LP records only | Fund-specific; verify LPA / asset fees |
+| Foreign / global private credit | Potential global main / feeder vehicles; verify | Use disclosed LP records only | Fund-specific; verify LPA / side letters |
 
 ## Vehicle-jurisdiction reading guide
 
-| Vehicle | Statute / Jurisdiction | Typical use |
-|---|---|---|
-| **投資事業有限責任組合 (Japan investment LPS)** | Japan Investment LPS Act | Domestic GP main vehicle; tax-transparent; Japan LP base. |
-| **Cayman Exempted LP (ELP)** | Cayman Islands ELP Law | Standard global vehicle; tax-transparent; Cayman residency. |
-| **Delaware LP** | Delaware Revised Uniform LP Act | US LP base preference; tax-transparent. |
-| **Luxembourg SCSp / RAIF** | Luxembourg AIFMD | EU LP base preference; AIFMD passporting. |
-| **TK-GK (匿名組合 / 合同会社)** | Japan Commercial Code (TK) + Companies Act (GK) | Japan real-estate / infra investment structure with TK investors. |
-| **GK-TK** | Same | Inverse pairing; used for Japan REIT-style or infra investment. |
+Source: the Japan LPS row is anchored to the current [Investment Limited Partnership Act translation](https://www.japaneselawtranslation.go.jp/en/laws/view/5019/en). All other rows are jurisdiction-routing prompts only and require the official law, registry, tax, and regulatory analysis for the actual vehicle.
 
-Most Japan-active global GPs use a Cayman ELP main vehicle with a Japan parallel LPS for tax-exempt Japanese LP investors. Domestic independents lead with Japan LPS and pair Cayman for international LPs.
+| Vehicle | Governing-law route | Evidence to verify |
+|---|---|---|
+| **投資事業有限責任組合 (Japan investment LPS)** | Current [Investment Limited Partnership Act translation](https://www.japaneselawtranslation.go.jp/en/laws/view/5019/en) | Governing agreement, statutory scope, registration, LP eligibility, and separate tax analysis. |
+| **Cayman Exempted LP (ELP)** | Current Cayman legislation and registry | Actual partnership, governing agreement, feeder / parallel entities, investor eligibility, and tax analysis. |
+| **Delaware LP** | Current Delaware legislation and registry | Actual partnership, governing agreement, feeder / blocker entities, investor eligibility, and tax analysis. |
+| **Luxembourg SCSp / RAIF** | Current Luxembourg and applicable EU rules | Actual vehicle, manager / AIF status, investor eligibility, and tax analysis. |
+| **GK-TK (合同会社・匿名組合)** | Current Japan company, commercial, financial-regulatory, and tax rules | Actual GK / TK contracts, asset ownership, licensing perimeter, cash-flow waterfall, and tax analysis. |
+
+Do not infer vehicle architecture, tax transparency, or investor eligibility from a GP archetype. Verify the actual governing agreements, registry records, investor documents, and current tax analysis.
 
 ## Fee / carry economics deep-dive
 
-| Structure | Management fee | Carry | Hurdle | Catch-up | Waterfall |
-|---|---|---|---|---|---|
-| Buyout standard (global mega-PE) | 2% on commitments during investment period, then on NAV / invested | 20% | 8% preferred return | 100% GP catch-up to 20% | Deal-by-deal common |
-| Buyout domestic | 2% or 1.5% on commitments | 20% | 8% preferred | 100% GP catch-up | European (whole-fund) common |
-| Growth equity | 2-2.5% | 20% | 8% preferred | 100% catch-up | European |
-| Secondaries | 1-1.5% on NAV | 10-15% | 6-8% preferred | Partial or no catch-up | European |
-| Continuation fund | 1-1.5% reset | 10-15% reset | 6-8% preferred | Reset | European |
-| Infrastructure core | 1% on NAV | 10% | 6% preferred | No catch-up | European |
-| Infrastructure value-add | 1.5% on NAV | 20% | 8% preferred | 100% catch-up | European |
-| Private credit | 1-1.25% on invested | 10-12.5% | 5-7% preferred | Partial catch-up | European |
+Source: METI's [Model Limited Partnership Agreement](https://www.meti.go.jp/english/policy/economy/startup_nbp/limitedpartners.html) identifies agreement fields to negotiate; it does not establish market rates. The table therefore records evidence requirements rather than unsupported numerical benchmarks.
 
-Fee / carry varies by GP, fund vintage, LP relationship (anchor LPs negotiate breaks), and side-letter terms. Public-website disclosures often summarize standard terms; LPA-level negotiated terms are not public.
+| Structure | Terms to verify | Primary evidence |
+|---|---|---|
+| Buyout | Fee base / step-down, carry, hurdle, catch-up, waterfall, clawback, transaction fees | Executed LPA, side letters, subscription documents |
+| Growth equity | Fee base, carry, hurdle, recycling, follow-on reserves, waterfall | Executed LPA and side letters |
+| Secondaries | Fee base, carry, hurdle, NAV facility, transaction / broken-deal fees | Executed LPA and transaction documents |
+| Continuation fund | Fee / carry reset, crystallisation, rollover option, status-quo option, conflicts | Existing-fund LPA, continuation documents, LPAC materials |
+| Infrastructure | Fund fee, asset-management / development fees, carry, hurdle, asset-level charges | LPA, asset agreements, side letters |
+| Private credit | Management fee, incentive allocation, hurdle, leverage / facility costs, origination fees | LPA, facility and loan documents, side letters |
+
+Do not infer fee or carry terms from a GP label or marketing page. The executed LPA, side letters, subscription documents, and applicable transaction agreements control, and some terms may not be public.
 
 ## LP-mix overlay (public-source descriptors only)
 
-| LP type | Typical PE allocation | Japan PE allocation pattern |
+Source: this is an evidence-routing table, not an allocation benchmark. Use the LP's own dated annual report or investment disclosure together with ILPA's [Reporting Template](https://ilpa.org/industry-guidance/templates-standards-model-documents/ilpa-templates-hub/ilpa-reporting-template/) and the fund's governing documents.
+
+| LP type | Evidence to verify | Japan-specific verification route |
 |---|---|---|
-| Sovereign wealth funds | 10-25% of total | ADIA, GIC, KIA, Mubadala, Temasek active in Japan PE selectively |
-| Public pensions (global) | 10-15% | CalPERS, CalSTRS, CPP, OTPP, GPIF (limited / through external mandates) |
-| Insurance companies | 5-15% | Nippon Life, Dai-ichi Life, Sumitomo Life, Meiji Yasuda Life, Tokio Marine, Sompo, MS&AD |
-| Endowments / foundations | 10-25% | Limited Japan PE presence; mostly global foundations |
-| Family offices | Variable | Growing Japan LP segment; some single-family offices active in PE / VC |
-| Fund-of-funds | All | HarbourVest, Pantheon, Mercer, etc.; multiple Japan-focused FOF programs |
-| Banks (treasury / proprietary) | Small allocation | Japanese megabank treasury, regional banks, [[financial-regulators/dbj|DBJ]] |
-| Government-aligned | Variable | JIC (Japan Investment Corporation), DBJ, JBIC, JOIN |
+| Sovereign wealth funds | Dated asset-allocation report, commitment disclosure, and fund vintage | Verify the named LP's disclosed Japan or fund commitment; do not infer from asset class. |
+| Public pensions | Dated portfolio / external-manager disclosure and commitment record | Verify mandate structure, manager, vintage, and look-through treatment. |
+| Insurance companies | Dated general-account / separate-account disclosure and regulatory classification | Verify the named insurer's disclosed commitment and accounting perimeter. |
+| Endowments / foundations | Dated investment report and manager / fund disclosure | Verify the named institution and commitment; do not infer geographic exposure. |
+| Family offices | Consented public disclosure or fund-closing release | Treat composition as undisclosed unless directly identified. |
+| Fund-of-funds | Manager report, underlying-fund schedule, and commitment disclosure | Verify whether Japan exposure is direct, underlying, or merely within a global mandate. |
+| Banks (treasury / proprietary) | Annual report, securities note, and named fund disclosure | Verify balance-sheet classification and the specific commitment; see [[financial-regulators/dbj|DBJ]] only for its own public route. |
+| Government-aligned | Statutory mandate, official annual report, and named commitment | Separate policy mandate, LP commitment, co-investment, and direct investment. |
 
 Read this with [[securities/japan-asset-manager-landscape-matrix]] for the asset-manager landscape, [[finance/japan-listed-financial-groups-investable-universe]] for the Japan listed-FG LP perimeter, and [[securities/japan-prime-brokerage-and-institutional-financing]] for the institutional-financing surface.
 
 ## Deal-sourcing overlay
 
-| Source | Deal-type | Frequency |
+Source: the table is a channel taxonomy. Any frequency or trend claim requires a dated transaction dataset; individual take-private, carve-out, restructuring, or auction evidence should be traced through [TDnet](https://www.jpx.co.jp/equities/listing/disclosure/tdnet/index.html) and [EDINET](https://disclosure.edinet-fsa.go.jp/).
+
+| Source | Deal type | Evidence required |
 |---|---|---|
-| Take-private from TSE Prime / Standard | Buyout, MBO | Increasing post TSE PBR < 1.0 pressure |
-| Carve-out from listed parent | Buyout | Common; driven by conglomerate-discount / activist engagement |
-| Family / succession (事業承継) | Buyout, growth | Growing as Japanese SME succession ages |
-| Sponsor-to-sponsor secondary | Buyout | Common in mid-market |
-| Founder / management connections | Growth | Standard |
-| VC graduation | Growth | TSE Growth / Prime IPO alternative |
-| Bank / lender connections | Buyout, credit | Megabank ([[megabanks/mufg-bank]], [[megabanks/mizuho-bank]], [[megabanks/sumitomo-mitsui-banking-corp|SMBC]]) cross-referral |
-| Distressed sale / restructuring | Buyout, credit | Growing post-COVID, post-rate-rise |
-| Auction process | All | Megabank-affiliated securities ([[securities-firms/smbc-nikko]], [[securities-firms/mizuho-securities]]) often runs sell-side |
+| Take-private from TSE Prime / Standard | Buyout, MBO | Tender-offer filing, target opinion, financing disclosure, and delisting route. |
+| Carve-out from listed parent | Buyout | Parent / target disclosure, transferred perimeter, separation terms, and buyer financing. |
+| Family / succession (事業承継) | Buyout, growth | Seller / target disclosure, ownership transition, and dated transaction record. |
+| Sponsor-to-sponsor secondary | Buyout | Buyer, seller, target, fund ownership, and completion disclosure. |
+| Founder / management route | Growth | Company / founder disclosure and transaction documents. |
+| VC-to-growth transition | Growth | Cap-table, financing-round, secondary-sale, and exit-alternative evidence. |
+| Bank / lender introduction | Buyout, credit | Named adviser / lender disclosure; do not infer referrals from a banking relationship. |
+| Distressed sale / restructuring | Buyout, credit | Court, creditor, restructuring-plan, or issuer disclosure as applicable. |
+| Auction process | All | Seller / target process disclosure and named adviser evidence where public. |
 
 Read this with [[finance/japan-acquisition-finance]] for deal-funding mechanics and [[finance/japan-mbo-and-squeeze-out-process]] for take-private process.
 
 ## Hold-period and exit-route reading
 
-| Fund type | Year 1-2 | Year 3-5 | Year 5-7+ | Exit route |
+Source: this is a phase map, not a duration benchmark. Actual investment period, fund term, extensions, asset plan, and exit timing must be verified in the specific documents identified by METI's [Model Limited Partnership Agreement](https://www.meti.go.jp/english/policy/economy/startup_nbp/limitedpartners.html) and transaction disclosures.
+
+| Fund type | Entry / deployment | Value creation / monitoring | Exit preparation | Exit route |
 |---|---|---|---|---|
 | Buyout | Acquisition, operational improvement plan launch | Operational uplift, bolt-on M&A | Exit prep / process | Trade sale, sponsor-to-sponsor, IPO, dividend recap |
 | Growth | Investment, board / governance setup | Growth funding rounds, scale | Exit prep | IPO TSE Growth / Prime, trade sale |
@@ -301,27 +331,27 @@ The six-fund-type taxonomy above does NOT cleanly classify all real-world strate
 
 - **Buyout-plus-growth hybrid**: Some funds explicitly run a hybrid mandate (e.g. Japan domestic GPs with both control and minority deals); LPA carry economics may differ by deal classification.
 
-- **Single-asset continuation fund**: A GP-led secondary that holds only one portfolio company. ILPA Continuation Fund Guidance treats this with heightened conflict scrutiny (fairness opinion, status-quo option, GP rollover).
+- **Single-asset continuation fund**: A GP-led secondary that holds one portfolio company. Review the current ILPA guidance and governing documents for conflicts, valuation, elections, consent, and rollover; do not assume a fixed safeguard package.
 
-- **Co-investment vehicles**: Many large LPs (especially sovereigns) negotiate side-by-side co-invest rights with reduced or zero fee / carry; these sit outside the main fund LPA.
+- **Co-investment vehicles**: A side-by-side vehicle may have economics and governance different from the main fund; verify the co-investment agreement, allocation policy, and side-letter treatment.
 
-- **Separately managed accounts (SMAs)**: Large LPs negotiate dedicated mandate with bespoke terms; often single-LP vehicle with separate carry / fee structure.
+- **Separately managed accounts (SMAs)**: A dedicated mandate may use bespoke terms; verify the manager agreement, vehicle, investor count, fees, and incentive allocation.
 
-- **Open-ended evergreen funds**: Especially in private credit and infrastructure; perpetual capital with periodic redemption windows rather than fund-life with vintage.
+- **Open-ended evergreen funds**: Some strategies use open-ended or evergreen terms; verify duration, subscriptions, redemption / withdrawal limits, valuation, and liquidity gates.
 
 - **Cross-asset platforms**: Some global firms (e.g. Apollo, Blackstone, Brookfield, KKR) run integrated PE + credit + infra + real estate platforms; the cross-platform allocation across LP commitments matters as much as fund-level economics.
 
-- **Government-aligned / policy carry caps**: Some Japan policy-aligned vehicles (JIC Capital, certain DBJ funds) operate with capped carry, policy-aligned investment criteria, or co-investment obligations that distinguish from market-standard LPA economics.
+- **Government-aligned / policy terms**: Do not infer a carry cap, policy criterion, or co-investment obligation from the sponsor label; verify the statutory mandate and governing fund documents.
 
-- **Activist hedge funds with PE-style holds**: Several Japan-focused activist funds (Effissimo, Strategic Capital, Murakami group, Oasis) take long PE-style holds in listed companies. They are NOT formally PE GPs but functionally compete for some Japan listed-target deal flow. See [[finance/japan-activist-investor-playbook]].
+- **Activist funds with PE-adjacent situations**: An activist position is not a PE fund merely because an engagement is long-running or precedes a control transaction. Verify the fund form, disclosed holding, campaign record, and transaction role; see [[finance/japan-activist-investor-playbook]].
 
-- **TK-GK structures for real-estate / infra**: Japan-specific TK (匿名組合) and GK (合同会社) structures are used for real-estate and infrastructure investment with tax-pass-through; carry and waterfall mechanics differ from standard LP / LPS structure.
+- **GK-TK structures for real estate / infrastructure**: The legal, regulatory, accounting, and tax result depends on the actual GK, TK contract, asset, financing, and investor; do not infer pass-through treatment from the label.
 
-- **Japan investment LPS vs Cayman ELP tax treatment**: Japan investment LPS is tax-transparent at the LPS level; Cayman ELP is also tax-transparent but Japan-resident LPs face different treatment depending on the deemed-PE / management-and-control test. See [[finance/multi-jurisdiction-identity-tax-leverage]] for the multi-jurisdiction surface.
+- **Japan investment LPS vs Cayman ELP tax treatment**: A vehicle label does not establish the investor-level tax result. Verify entity classification, source of income, investor residence, treaty position, permanent-establishment analysis, and current law; see [[finance/multi-jurisdiction-identity-tax-leverage]].
 
-- **Regional bank lending vs PE deal flow**: As regional bank consolidation continues (see [[banking/regional-bank-consolidation-pattern]]), regional banks have become both LP investors (limited) and deal-sourcing partners for domestic PE GPs targeting SME succession.
+- **Regional-bank interfaces**: Lending, LP investment, and deal introduction are separate roles and each requires transaction- or institution-specific evidence; see [[banking/regional-bank-consolidation-pattern]].
 
-- **Continuation fund vs primary fund tension**: An LP that committed to Fund III may be asked to consent to a Fund III asset being rolled into a continuation fund. The ILPA Continuation Fund Guidance specifies process; LPAC consent and majority-LP approval are typical.
+- **Continuation fund vs primary fund tension**: An existing LP may face a sell / roll election or consent process. Apply the LPA, transaction documents, applicable law, and the current dated ILPA guidance; do not assume a universal voting threshold.
 
 ## Practitioner verification checklist
 
@@ -330,7 +360,7 @@ Before relying on any cell above:
 1. Open the specific GP's public website disclosure (locations / firm pages linked in Sources).
 2. Verify fund size, vintage, and strategy against the GP's most recent annual report or fund-closing press release.
 3. Verify LP composition (where disclosed) against the LP's own annual report (e.g. CalPERS, OTPP, CPP, GPIF transparency reports).
-4. Verify Japan-vehicle status against the EDINET investment-LPS notification (where applicable) and the Cayman / Luxembourg / Delaware public registry (where applicable).
+4. Verify Japan-vehicle status against the applicable official registry and governing agreement, and verify any Cayman / Luxembourg / Delaware vehicle against the relevant current official registry.
 5. Read related FinWiki entries: [[finance/japan-private-equity-operating-model]], [[finance/japan-leveraged-buyout-economics]], [[finance/japan-acquisition-finance]], [[finance/japan-mbo-and-squeeze-out-process]].
 6. Cross-check adviser franchise against [[finance/japan-ib-league-table]].
 7. Date-stamp the verification step.
@@ -338,12 +368,12 @@ Before relying on any cell above:
 ## Caveats
 
 - This is a public-surface route map, NOT investment advice, NOT a fundraising solicitation, NOT a GP endorsement, NOT a recommendation.
-- Cell-level descriptors are categorical only and reflect general industry public-source convention; specific fund LPA terms vary widely and are NOT public.
-- Public-website GP disclosures are marketing pages, not full LPA disclosure; readers should consult the GP's full Form ADV (if SEC-registered), placement memorandum, and LPA directly via the GP's investor-relations team for actual fund terms.
-- LP composition descriptors are based on publicly disclosed LP allocations (e.g. CalPERS, CPP transparency reports) and are NOT GP-disclosed.
+- Cell-level descriptors are analytical prompts only; specific fund terms require fund- and transaction-specific evidence and may not be public.
+- Public GP pages do not establish the full governing terms. Use available regulatory filings, offering and governing documents, side letters, and dated LP / fund disclosures as applicable.
+- LP composition must be taken from dated LP-side, GP-side, or fund-closing disclosure; absent that evidence, treat it as undisclosed.
 - Vehicle jurisdiction conventions evolve; tax treaty and BEPS / Pillar Two developments may change Cayman / Luxembourg / Delaware preferences.
-- Some named GPs may operate multiple Japan-specific strategies; the matrix shows dominant strategy patterns only.
-- Carry, fee, hurdle, catch-up, and waterfall structures are LPA-level confidential terms; the matrix shows market-standard ranges only.
+- A named GP may operate multiple strategies; this matrix does not assign a dominant strategy, allocation, or current fundraising status.
+- Carry, fee, hurdle, catch-up, and waterfall structures are governing-document terms; this matrix intentionally does not state market-standard ranges.
 - Activist funds, hedge funds with PE-style holds, family offices, and policy-aligned vehicles do NOT cleanly map onto the six-fund-type taxonomy; the boundary-cases section addresses these.
 
 ## Related
@@ -386,10 +416,9 @@ Before relying on any cell above:
 - Coller Capital public website.
 - Ardian public website.
 - Macquarie Asset Management public website.
-- Global Infrastructure Partners (now BlackRock) public website.
 - Apollo Global Management public website.
 - Blackstone public website.
 - Ares Management public website.
 - DBJ public website.
 - CalPERS, CPP, OTPP, GPIF transparency reports (LP-side public disclosure).
-- ILPA Continuation Fund Guidance (industry standard reference).
+- ILPA Continuation Fund Guidance (industry guidance).

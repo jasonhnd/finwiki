@@ -28,9 +28,9 @@
     "domain": "real-estate-finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "real-estate-finance",
@@ -48,35 +48,36 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.mec.co.jp/e/investor/",
-      "https://www.j-re.co.jp/english/",
-      "https://www.jpx.co.jp/english/markets/products/reit/",
+      "https://www.mec.co.jp/en/ir/",
+      "https://www.mec.co.jp/en/ir/stock/grade/index.html",
+      "https://www.j-re.co.jp/en_cms/",
+      "https://www.jpx.co.jp/english/equities/products/reits/issues/index.html",
       "https://www.ares.or.jp/en/",
       "https://www.fsa.go.jp/en/"
     ]
   },
-  "summary": "For FinWiki, Mitsubishi Estate is the premium-office concentration template — the contrast case to Mitsui Fudosan's broader asset-class diversification. The financing question is how a single-district concentration (Marunouchi) can sustain top-tier credit while funding overseas growth, large redevel",
+  "summary": "For FinWiki, Mitsubishi Estate is the premium-office concentration case — a comparison with Mitsui Fudosan's disclosed asset-class mix. The financing question is how Marunouchi concentration, overseas investment, large redevelopment capex (such as Tokyo Torch / Torch Tower), and sponsor-J-REIT relat",
   "headings": [
     "Mitsubishi Estate financing model",
     "TL;DR",
     "Wiki route",
     "Corporate identity",
     "Marunouchi concentration",
-    "1. Corporate bonds (Mitsubishi Estate straight bonds)",
-    "2. Syndicated bank loans",
+    "1. Corporate bonds",
+    "2. Bank loans and private funding",
     "3. Sponsor J-REIT — Japan Real Estate Investment Corporation (JRE, 8952)",
-    "4. Equity finance — opportunistic",
+    "4. Equity and equity-credit instruments",
     "5. Overseas expansion — UK / US / Asia"
   ],
   "body_links": {
     "wikilinks_count": 20,
     "wikilinks": [
       "INDEX",
-      "banking/trust-bank-custody-operating-comparison\\",
       "business/INDEX",
       "corporate-strategy/INDEX",
       "derivatives/yen-basis-swap-market",
       "financial-conglomerates/mitsubishi-corp",
+      "financial-conglomerates/mitsubishi-corp\\",
       "real-estate-finance/INDEX",
       "real-estate-finance/aeon-mall-financing-and-securitization",
       "real-estate-finance/bank-commercial-real-estate-lending-japan",
@@ -112,13 +113,20 @@
       "https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/",
       "https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 6,
+    "external_links": [
+      "https://www.j-re.co.jp/en_cms/",
+      "https://www.jpx.co.jp/english/equities/products/reits/issues/index.html",
+      "https://www.mec.co.jp/en/ir/",
+      "https://www.mec.co.jp/en/ir/stock/grade/index.html",
+      "https://www.mec.co.jp/ir/library/2026/4Q/factsheet_2025_4_en.pdf",
+      "https://www.mitsuifudosan.co.jp/english/corporate/ir/investors_guide/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 17679,
-    "word_like_tokens": 2786,
+    "nonspace_chars": 17304,
+    "word_like_tokens": 2778,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-30"
   }
 }

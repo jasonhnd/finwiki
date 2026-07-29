@@ -28,9 +28,9 @@
     "domain": "real-estate-finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "real-estate-finance",
@@ -46,14 +46,17 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.ares.or.jp/en/",
-      "https://www.jpx.co.jp/english/markets/products/securitized/",
-      "https://www.fsa.go.jp/en/",
-      "https://elaws.e-gov.go.jp/",
-      "https://www.nta.go.jp/english/"
+      "https://elaws.e-gov.go.jp/document?lawid=417AC0000000086",
+      "https://elaws.e-gov.go.jp/document?lawid=132AC0000000048",
+      "https://elaws.e-gov.go.jp/document?lawid=410AC0000000105",
+      "https://elaws.e-gov.go.jp/document?lawid=323AC0000000025",
+      "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/14/14_01_01.htm",
+      "https://www.nta.go.jp/law/shitsugi/hyoka/08/06.htm",
+      "https://www.mof.go.jp/english/policy/tax_policy/tax_conventions/tax_convetion_list_en.html",
+      "https://www.ifrs.org/issued-standards/list-of-standards/ifrs-10-consolidated-financial-statements/"
     ]
   },
-  "summary": "The GK-TK structure (合同会社 + 匿名組合) is the dominant private-SPV vehicle for Japanese real-estate investment by professional and foreign investors. A 合同会社 (GK — Japanese LLC) is the legal-entity layer that holds the asset (typically a 信託受益権 on the underlying real estate), and the 匿名組合 (TK — silent part",
+  "summary": "GK-TK (合同会社 + 匿名組合) is a private-SPV arrangement used in Japanese real-estate transactions. A 合同会社 (GK) is the legal-entity layer, while a 商法-based 匿名組合 (TK) is a contract under which an investor contributes to the operator's business and receives the contractually allocated result without becoming",
   "headings": [
     "GK-TK bond real-estate SPV",
     "TL;DR",
@@ -67,10 +70,8 @@
     "TK distribution as deductible expense"
   ],
   "body_links": {
-    "wikilinks_count": 27,
+    "wikilinks_count": 24,
     "wikilinks": [
-      "JapanFG/moodys-japan",
-      "JapanFG/sp-global-ratings-japan",
       "banking/INDEX",
       "banking/japan-master-trust-and-custody-bank-landscape",
       "banking/master-trust-bank-operating-model",
@@ -91,7 +92,6 @@
       "real-estate-finance/real-estate-bridge-fund-japan",
       "real-estate-finance/top-10-j-reit-overview-matrix",
       "securities/japan-securities-depository-center",
-      "trust-banks/custody-bank",
       "trust-banks/master-trust-bank",
       "trust-banks/mitsubishi-ufj-trust-bank",
       "trust-banks/mizuho-trust-bank",
@@ -118,7 +118,6 @@
       "https://finwiki.zksc.io/ja/real-estate-finance/real-estate-bridge-fund-japan/",
       "https://finwiki.zksc.io/ja/real-estate-finance/top-10-j-reit-overview-matrix/",
       "https://finwiki.zksc.io/ja/securities/japan-securities-depository-center/",
-      "https://finwiki.zksc.io/ja/trust-banks/custody-bank/",
       "https://finwiki.zksc.io/ja/trust-banks/master-trust-bank/",
       "https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/",
       "https://finwiki.zksc.io/ja/trust-banks/mizuho-trust-bank/",
@@ -128,9 +127,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 14139,
-    "word_like_tokens": 2373,
+    "nonspace_chars": 20033,
+    "word_like_tokens": 3307,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-30"
   }
 }

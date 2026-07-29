@@ -1,97 +1,109 @@
 ---
 source: real-estate-finance/nippon-building-fund-j-reit-8951
-source_hash: 66976e224d579c8b
+source_hash: b1ca50bbe4d56b11
 lang: en
 status: machine
 fidelity: ok
 title: "Nippon Building Fund (NBF, J-REIT 8951)"
-translated_at: 2026-06-01T03:31:12.233Z
+translated_at: 2026-07-29T23:56:42+09:00
 ---
 
 # Nippon Building Fund (NBF, J-REIT 8951)
 
 ## TL;DR
 
-**Nippon Building Fund Inc. (NBF, TSE J-REIT 8951)** is the **flagship office J-REIT** of the Japanese listed-REIT market — sponsored by [[real-estate-finance/mitsui-fudosan-financing-model|Mitsui Fudosan]] (TSE Prime 8801), historically the **largest J-REIT by AUM** for most of the J-REIT era, and a benchmark name in every global-REIT-index Japan sleeve. NBF specializes in **Tokyo CBD office buildings** — Otemachi, Marunouchi, Nihonbashi, Shibuya, and Shinjuku — with a long-stabilized portfolio of large multi-tenant office towers acquired primarily from the Mitsui Fudosan sponsor pipeline. NBF is the **first-listed Japanese REIT** (September 2001) and pairs with [[real-estate-finance/japan-real-estate-j-reit-8952|Japan Real Estate (JRE, 8952)]] — the Mitsubishi Estate-sponsored office J-REIT — as the structural Mitsui-vs-Mitsubishi rivalry proxy in the listed office-REIT market.
+**Nippon Building Fund Inc. (NBF, TSE J-REIT 8951)** is a Mitsui Fudosan-sponsored, office-specialized J-REIT and was one of the two first-listed J-REITs in September 2001. At 2026-07-01, its official portfolio page reported 69 properties and a ¥1,558.9 billion acquisition-price total; Tokyo's 23 wards represented 78.8% of that acquisition-price denominator. Current rank, index membership, sponsor-origin share and comparison with [[real-estate-finance/japan-real-estate-j-reit-8952|Japan Real Estate (JRE, 8952)]] must still be established from same-date issuer and index-provider data.
 
-NBF's investor profile combines (i) a **conservative LTV** in the low-to-mid-40% range, (ii) **AA-domestic-rating-zone credit** that supports tight investment-corporation-bond pricing, (iii) **DPU yield at the low end of the J-REIT distribution** (reflecting the sponsor + Tokyo CBD office + scale + liquidity premium), and (iv) **high foreign-investor relevance** as a benchmark Japan office name in global REIT mandates. Top-tenant exposure is structurally moderate (no single tenant typically dominates more than mid-single-digit percent of total rent) because the portfolio is composed of large multi-tenant office buildings rather than single-tenant build-to-suit assets.
+Tenant concentration depends on the contractual layer. NBF's [major-tenants disclosure](https://www.nbf-m.com/nbf_e/portfolio/tenant.html) at 2025-12-31 lists Mitsui Fudosan as tenant / master lessee for Shinjuku Mitsui Building and 23 other properties: **573,235 m2, or 47.0% of total rentable area**. Mitsui Fudosan generally subleases those properties to multiple end tenants, and NBF receives the sublease rent less a stated percentage. The 47.0% contractual counterparty concentration and the diversification of underlying occupants are therefore different measurements; neither should be replaced by an unsupported “mid-single-digit” claim.
 
 ## Wiki route
 
-This entry sits under [[real-estate-finance/INDEX|real-estate-finance index]] as the **Mitsui Fudosan office J-REIT anchor**. Read it together with [[real-estate-finance/mitsui-fudosan-financing-model|Mitsui Fudosan financing model]] for the sponsor-side asset-recycling mechanism that supplies NBF's acquisition pipeline, with [[real-estate-finance/japan-real-estate-j-reit-8952|Japan Real Estate (JRE, 8952)]] for the closest peer contrast (MEC vs Mitsui rivalry), and with [[real-estate-finance/top-10-j-reit-overview-matrix|Top 10 J-REIT overview matrix]] for cross-J-REIT positioning. The structural-governance frame is [[real-estate-finance/j-reit-vs-us-reit-governance-comparison|J-REIT vs US REIT governance comparison]] and [[real-estate-finance/j-reit-sponsor-structure-conflict|J-REIT sponsor structure and conflict of interest]]. For office vs logistics contrast use [[real-estate-finance/logistics-j-reit-vs-office-j-reit-asset-class-comparison|logistics J-REIT vs office J-REIT asset-class comparison]] and the logistics anchors [[real-estate-finance/glp-j-reit-3281|GLP J-REIT (3281)]] and [[real-estate-finance/nippon-prologis-reit-3283|Nippon Prologis REIT (3283)]].
+This entry sits under [[real-estate-finance/INDEX|real-estate-finance index]] as the **Mitsui Fudosan office J-REIT anchor**. Read it together with [[real-estate-finance/mitsui-fudosan-financing-model|Mitsui Fudosan financing model]] for sponsor-side financing and asset-recycling context, with [[real-estate-finance/japan-real-estate-j-reit-8952|Japan Real Estate (JRE, 8952)]] for a same-vintage office-J-REIT comparison, and with [[real-estate-finance/top-10-j-reit-overview-matrix|Top 10 J-REIT overview matrix]] for cross-J-REIT positioning. The structural-governance frame is [[real-estate-finance/j-reit-vs-us-reit-governance-comparison|J-REIT vs US REIT governance comparison]] and [[real-estate-finance/j-reit-sponsor-structure-conflict|J-REIT sponsor structure and conflict of interest]]. For office vs logistics contrast use [[real-estate-finance/logistics-j-reit-vs-office-j-reit-asset-class-comparison|logistics J-REIT vs office J-REIT asset-class comparison]] and the logistics anchors [[real-estate-finance/glp-j-reit-3281|GLP J-REIT (3281)]] and [[real-estate-finance/nippon-prologis-reit-3283|Nippon Prologis REIT (3283)]].
 
 ## 1. Corporate identity
+
+Table evidence (reviewed 2026-07-29): [NBF investment-corporation structure](https://www.nbf-m.com/en/client/docs/investment.pdf), [NBF official disclosures](https://www.nbf-m.com/nbf_e/) and the [JPX listed-REIT directory](https://www.jpx.co.jp/english/equities/products/reits/issues/index.html).
 
 | Item | Detail |
 |---|---|
 | Ticker | TSE J-REIT **8951** |
 | Investment corporation | Nippon Building Fund Inc. (日本ビルファンド投資法人) |
-| Asset-management company | Nippon Building Fund Management Ltd. (sponsor: Mitsui Fudosan) |
+| Asset-management company | Nippon Building Fund Management Ltd., under NBF's asset-management entrustment agreement |
 | Sponsor | [[real-estate-finance/mitsui-fudosan-financing-model|Mitsui Fudosan]] (TSE Prime 8801) |
 | Listing date | September 2001 (first-listed J-REIT alongside [[real-estate-finance/japan-real-estate-j-reit-8952|JRE]]) |
-| Asset focus | Office buildings — Tokyo CBD core |
-| Asset administration trustee | Trust-bank trustee — [[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]] / [[trust-banks/sumitomo-mitsui-trust|SMTB]] / [[trust-banks/mizuho-trust-bank|Mizuho Trust]] depending on individual property trust beneficial interests |
-| Rating | High investment-grade by [[financial-regulators/jcr|JCR]] / [[financial-regulators/rating-and-investment|R&I]]; AA-zone domestic rating typical for the flagship office J-REIT |
-| Index inclusion | TSE REIT Index, TSE REIT Office Index, GPR / FTSE EPRA Nareit Developed Asia, GPR 250 Japan |
+| Investment scope | Office-specialized portfolio; actual geographic exposure must use the dated portfolio denominator |
+| Investment-corporation asset custodian and unitholder-register administrator | [[trust-banks/sumitomo-mitsui-trust|Sumitomo Mitsui Trust Bank, Limited]] |
+| General administrators | Reiwa Accounting Holdings Co., Ltd. for accounting; PwC Tax Japan for tax affairs |
+| Property-level trust trustee | A separate asset-level role for property held through trust beneficial interests; identify it only from the applicable property/title disclosure |
+| Rating | Use the current ratings and outlooks disclosed by NBF and each rating agency |
+| Index status | Verify current inclusion directly from each index provider's dated constituent list |
 
 ## 2. Portfolio composition
 
+Table evidence (reviewed 2026-07-29; issuer snapshot as of 2026-07-01, occupancy as of 2026-06-30): [NBF official portfolio dashboard](https://www.nbf-m.com/nbf_e/). NBF disclosed **69 properties**, ¥1,558.9 billion asset size and 98.2% occupancy.
+
 | Axis | NBF pattern |
 |---|---|
-| Asset class | Office (overwhelmingly); minor non-office exposure has historically been incidental |
-| Geographic concentration | Tokyo 23 wards (heavy weight); secondary cities (Yokohama, Osaka, Nagoya, Fukuoka, Sapporo) at smaller scale |
-| Tokyo sub-market focus | Otemachi / Marunouchi / Nihonbashi (Mitsui Fudosan core territory), Shibuya, Shinjuku, Toranomon, Kasumigaseki |
-| Property size | Mostly large multi-tenant office buildings — large floor plates, multiple tenants per asset |
-| Acquisition pipeline source | Predominantly from Mitsui Fudosan sponsor pipeline (asset-recycling — sponsor sells stabilized properties into NBF and redeploys capital into next development cycle) |
-| Property age | Mix of older-stabilized core buildings and newer redevelopment-completion assets contributed by sponsor |
+| Asset class | Office-specialized, as stated by NBF |
+| Geographic concentration | At 2026-07-01, Tokyo's 23 wards were 78.8% of total acquisition price; other Greater Tokyo was 7.9% and other cities 13.3% |
+| Tokyo sub-market focus | Derive from the current property list using a stated denominator; do not infer it from the sponsor's wider territory |
+| Property size and tenant structure | Calculate from current property and tenant data; the master-lease counterparty table is not an end-occupant census |
+| Acquisition source | Classify each dated acquisition as sponsor / related-party or third-party from the transaction disclosure; sponsor redevelopment is not a committed pipeline |
+| Property age | Calculate from the current property list using a stated weighting method |
 
 ## 3. Capital and leverage
 
+Table evidence (reviewed 2026-07-29): [NBF official financial strategy and portfolio dashboard](https://www.nbf-m.com/nbf_e/). The issuer states an LTV target range of **36%–46%**; all point-in-time debt and DPU figures must use the applicable period disclosure.
+
 | Item | NBF pattern |
 |---|---|
-| LTV policy band | Conservative — typically low-to-mid-40% zone disclosed in IR materials |
-| Debt mix | Mix of bank loans (megabank + trust-bank syndicate) and **investment-corporation bonds** (公募投資法人債) issued publicly at AA-zone domestic-rating tight spreads |
-| Bond curve | NBF investment-corporation bonds are benchmark issuance for the office-J-REIT segment; tenors 5Y, 7Y, 10Y, longer-dated opportunistically |
-| Sponsor support stake | Mitsui Fudosan retains a small sponsor-support unit-holder stake (single-digit percent), consistent with the [[real-estate-finance/j-reit-sponsor-structure-conflict|sponsor-support pattern]] |
-| Distribution policy | Semi-annual DPU; J-REIT 90% pass-through structure as per [[real-estate-finance/j-reit-market-overview|J-REIT market overview]] |
-| Foreign-investor share | High — benchmark name in global REIT mandates (see [[real-estate-finance/j-reit-foreign-investor-ownership|J-REIT foreign investor ownership]]) |
+| LTV policy band | Issuer target range **36%–46%** |
+| Debt mix | Use NBF's current debt schedule for lenders, instruments, rates and maturities |
+| Bond curve | Compare dated NBF bond terms with matched J-REIT issues; do not assume benchmark status |
+| Sponsor support stake | Use NBF's dated major-unit-holder disclosure; do not substitute a typical sponsor percentage |
+| Distribution policy | Fiscal periods end in June and December; tax deductibility is subject to statutory conduit conditions, including the applicable greater-than-90% distribution test |
+| Foreign-investor share | Use NBF's dated unit-holder disclosure; JPX investor-type trading data measures flow, not issuer ownership |
 
-## 4. Top-tenant exposure
+## 4. Contractual master lessee vs end tenants
 
-NBF's portfolio of large multi-tenant office towers structurally limits single-tenant concentration. Public-source observations:
+Table evidence (as of 2025-12-31): [NBF major tenants](https://www.nbf-m.com/nbf_e/portfolio/tenant.html).
 
-| Tenant-concentration metric | NBF pattern |
+| Measurement | Officially disclosed reading |
 |---|---|
-| Sponsor (Mitsui Fudosan) as tenant | Minimal — Mitsui Fudosan is sponsor and developer, not a major tenant in NBF's portfolio |
-| Tenant industry mix | Diversified across financial services, professional services, IT/telecom, manufacturing, government |
-| Tenant lease structure | Standard Japanese fixed-term lease (普通借家契約 / 定期借家契約) with periodic rent reset mechanisms |
+| Contractual tenant / master lessee | Mitsui Fudosan: Shinjuku Mitsui Building and 23 other properties |
+| Leased area | **573,235 m2**, **47.0%** of NBF's total rentable area |
+| Sublease structure | Mitsui Fudosan generally subleases the relevant properties to various sublessees; some leased space is excluded from that description |
+| Rent mechanism | NBF receives the rents collected by Mitsui Fudosan from sublessees less a stated percentage |
+| Next named tenant | Sony Group: **73,477 m2**, **6.0%** of total rentable area |
 
-The multi-tenant structure is a key reason NBF's DPU is less volatile than single-tenant logistics J-REIT (which have concentration on one or two tenants per asset).
+The official table measures NBF's contractual tenant exposure, so Mitsui Fudosan cannot be described as a minimal tenant. Analysis of end-occupant diversification requires a separate subtenant dataset and a clearly stated denominator. Contractual concentration, building-level multi-tenancy and DPU volatility are not interchangeable.
 
-## 5. NBF vs JRE — the MEC vs Mitsui rivalry proxy
+## 5. NBF vs JRE — same-vintage office-J-REIT comparison
+
+Table evidence (reviewed 2026-07-29): [NBF official disclosures](https://www.nbf-m.com/nbf_e/), [JRE portfolio disclosures](https://www.j-re.co.jp/en_cms/portfolio/statement.html), and [JPX listing data](https://www.jpx.co.jp/english/equities/products/reits/issues/index.html). Sub-market labels are qualitative and should be checked against current property lists.
 
 | Axis | NBF (Mitsui Fudosan) | JRE (Mitsubishi Estate) |
 |---|---|---|
 | Ticker | 8951 | 8952 |
 | Sponsor | [[real-estate-finance/mitsui-fudosan-financing-model|Mitsui Fudosan]] | [[real-estate-finance/mitsubishi-estate-financing-model|Mitsubishi Estate]] |
 | Listing date | September 2001 (first) | September 2001 (co-first) |
-| Tokyo sub-market anchor | Otemachi / Nihonbashi / Shibuya / Shinjuku | Marunouchi / Otemachi / Yurakucho |
-| Pipeline | Mitsui Fudosan asset-recycling | Mitsubishi Estate asset-recycling |
-| AUM scale | Top tier; competes with JRE for largest-office-J-REIT position | Top tier; competes with NBF |
-| LTV | Low-to-mid 40% | Low-to-mid 40% |
-| DPU yield zone | Premium (low end of J-REIT distribution) | Premium (low end) |
-| Foreign-investor profile | Benchmark Japan office name | Benchmark Japan office name |
-| Marunouchi premium | Less direct exposure to Marunouchi-specific cap-rate premium | Direct exposure (heart of MEC Marunouchi estate) |
+| Geographic exposure | Calculate from the same-date property lists using the same denominator | Calculate from the same-date property lists using the same denominator |
+| Acquisition source | Classify dated transactions and read the current sponsor-support agreement | Classify dated transactions and read the current sponsor-support agreement |
+| AUM scale | Compare same-date issuer figures | Compare same-date issuer figures |
+| LTV | Use the current issuer definition and date | Use the current issuer definition and date |
+| DPU yield | Align market price, DPU definition and date | Align market price, DPU definition and date |
+| Foreign-investor profile | Use dated NBF unit-holder disclosure | Use dated JRE unit-holder disclosure |
+| Sub-market exposure | Derive from NBF's current property list | Derive from JRE's current property list |
 
-The NBF-JRE pairing is the **listed proxy** for the broader Mitsui Fudosan vs Mitsubishi Estate rivalry — the two top-tier listed developers each anchor a top-tier office J-REIT and recycle CBD office buildings into their respective vehicles.
+NBF and JRE provide a useful sponsor-model comparison. Do not infer pipeline contribution, valuation or sub-market sensitivity without same-date issuer data and the relevant agreements or transactions.
 
 ## 6. Counterpoints
 
-- **"NBF is just Mitsui Fudosan's stabilized-asset bucket"** — partly true. The sponsor-pipeline dependence is a structural feature of [[real-estate-finance/j-reit-sponsor-structure-conflict|external-management J-REIT]]; NBF's related-party-transaction governance is the protection layer.
-- **"Office J-REIT premium will compress as remote-work continues"** — debated. Tokyo CBD office demand has been more resilient than US CBD post-pandemic; the multi-tenant large-building model in central Tokyo retains tenant demand more than single-tenant suburban office.
-- **"NBF DPU yield is too low to be attractive"** — depends on benchmark. Yield is premium relative to JGB (the [[real-estate-finance/j-reit-dividend-yield-vs-jgb-spread|J-REIT dividend yield vs JGB spread]] frame applies); but on a hedged-USD basis the yield can be unattractive — see [[real-estate-finance/j-reit-foreign-investor-ownership|J-REIT foreign investor ownership]].
-- **"Conservative LTV is overly cautious"** — counterargument is that the AA-zone rating and tight bond-pricing economics make the lower LTV worthwhile on a through-cycle basis.
-- **"NBF will not grow further given mature Mitsui Fudosan pipeline"** — Mitsui Fudosan continues large-scale CBD redevelopment, so the sponsor-pipeline supply continues to exist; growth tempo varies with redevelopment cycle.
+- For sponsor dependence, calculate sponsor / related-party acquisitions over a stated period and apply the issuer's transaction controls.
+- For office-demand resilience, compare dated vacancy, rent, lease expiry and tenant retention with a defined peer set.
+- For yield attractiveness, align DPU, market price, tax, currency hedge, date and JGB tenor.
+- For leverage, compare financing cost, maturity, covenant headroom and downside scenarios rather than labeling the LTV.
+- For growth, use disclosed acquisition capacity and an identified pipeline; sponsor redevelopment alone is not a committed NBF acquisition.
 
 ## Related
 
@@ -114,7 +126,7 @@ The NBF-JRE pairing is the **listed proxy** for the broader Mitsui Fudosan vs Mi
 
 ## Sources
 
-- NBF — official site https://www.nbf-m.com/ (Japanese) and https://www.nbf-m.com/nbf/en/ (English IR).
+- NBF — official site, investment-corporation structure, portfolio and tenant disclosures.
 - Mitsui Fudosan IR — https://www.mitsuifudosan.co.jp/english/ir/
 - JPX — REIT Market English landing.
 - ARES — Association for Real Estate Securitization, English.

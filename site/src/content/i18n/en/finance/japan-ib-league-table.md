@@ -1,11 +1,11 @@
 ---
 source: finance/japan-ib-league-table
-source_hash: a2dbdfd6ef807a75
+source_hash: 017318ee4db7a4a6
 lang: en
 status: machine
 fidelity: ok
 title: "Japan IB league table"
-translated_at: 2026-05-31T06:16:15.690Z
+translated_at: 2026-07-29T14:32:12.538Z
 ---
 
 # Japan IB league table
@@ -22,6 +22,8 @@ Japan investment-banking league tables are ranking tools, not ground truth. The 
 For FinWiki, this page is the interpretation layer for [[securities-firms/goldman-sachs-japan]], [[securities-firms/nomura-hd]], [[securities-firms/daiwa-sg]], [[securities-firms/smbc-nikko]], [[securities-firms/mizuho-securities]], and [[securities-firms/mufg-mums]].
 
 ## What Gets Ranked
+
+Source: the table reflects the product categories described by [LSEG Investment Banking League Tables](https://www.lseg.com/en/data-analytics/financial-data/deals-data/investment-banking-league-tables) and the IPO roles described by [JPX](https://www.jpx.co.jp/english/equities/listing-on-tse/new/basic/03.html); vendor methodology and period must accompany any ranking.
 
 | Table type | Typical metric | Why it matters |
 |---|---|---|

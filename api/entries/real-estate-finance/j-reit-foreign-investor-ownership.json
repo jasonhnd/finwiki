@@ -28,9 +28,9 @@
     "domain": "real-estate-finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "real-estate-finance",
@@ -46,13 +46,14 @@
     "note": null,
     "sources": [
       "https://www.ares.or.jp/en/",
+      "https://www.ares.or.jp/action/monthly/pdf/ares_monthly_report_202606.pdf",
       "https://www.jpx.co.jp/english/markets/statistics-equities/investor-type/index.html",
       "https://www.jpx.co.jp/english/markets/products/reit/index.html",
       "https://www.boj.or.jp/en/statistics/index.htm",
       "https://www.fsa.go.jp/en/"
     ]
   },
-  "summary": "Foreign investors hold approximately one-quarter to one-third of total J-REIT investment units outstanding by value, with weekly flows publicly trackable on the JPX investor-type statistics for J-REIT trading. The foreign-investor base is structurally three-pronged: (1) global REIT specialist funds",
+  "summary": "The ARES unitholder survey for February 2026 reported foreign corporations and other foreign holders at 23.6% of the surveyed market value of J-REIT investment units held directly by the reported holder categories. “Direct” means direct ownership of investment units, not ownership of real estate, an",
   "headings": [
     "J-REIT foreign investor ownership",
     "TL;DR",
@@ -62,7 +63,7 @@
     "Segment 1 — Global REIT specialist funds",
     "Segment 2 — Sovereign wealth and large pension",
     "Segment 3 — Hedge funds and trading-style investors",
-    "Why the hedging cost dominates",
+    "How to test hedging cost",
     "Cross-currency basis swap"
   ],
   "body_links": {
@@ -119,13 +120,19 @@
       "https://finwiki.zksc.io/ja/trust-banks/mizuho-trust-bank/",
       "https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 5,
+    "external_links": [
+      "https://www.ares.or.jp/action/monthly/pdf/ares_monthly_report_202606.pdf",
+      "https://www.boj.or.jp/en/statistics/index.htm",
+      "https://www.jasdec.com/en/",
+      "https://www.jpx.co.jp/english/markets/indices/factsheets/files/e_102_fac2_REIT.pdf",
+      "https://www.jpx.co.jp/english/markets/statistics-equities/investor-type/index.html"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 12728,
-    "word_like_tokens": 2210,
+    "nonspace_chars": 14832,
+    "word_like_tokens": 2494,
     "inbound_wikilinks_count": 22,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-30"
   }
 }

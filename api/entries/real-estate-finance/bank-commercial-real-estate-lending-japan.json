@@ -27,9 +27,9 @@
     "domain": "real-estate-finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "real-estate-finance",
@@ -53,10 +53,13 @@
       "https://www.smfg.co.jp/english/investor/",
       "https://www.mizuho-fg.com/investors/index.html",
       "https://www.smtb.jp/english/investors",
-      "https://www.tr.mufg.jp/english/ir/"
+      "https://www.tr.mufg.jp/english/ir/",
+      "https://www.boj.or.jp/en/research/brp/fsr/fsr230421.htm",
+      "https://www.boj.or.jp/en/research/brp/fsr/fsr240418a.htm",
+      "https://www.boj.or.jp/en/research/brp/fsr/fsr260421.htm"
     ]
   },
-  "summary": "Japan commercial real-estate (CRE) lending is a layered system. Megabanks anchor large project finance and J-REIT sponsor loans. Trust banks bridge balance-sheet lending with real-estate trust functions, appraisal, and asset administration. Regional banks have grown CRE concentration to offset core",
+  "summary": "Japan commercial real-estate (CRE) credit can involve megabanks, trust banks, regional banks, policy lenders, foreign banks, and non-bank capital. Roles, exposure, recourse, LTV, DSCR, pricing, tenor, guarantees, and collateral are lender-, borrower-, facility-, asset-, and date-specific. BOJ Financ",
   "headings": [
     "Japan bank commercial real estate lending",
     "TL;DR",
@@ -65,8 +68,8 @@
     "Project Finance vs Corporate Finance",
     "Loan-to-Value (LTV) Underwriting Range",
     "Debt-Service-Coverage (DSCR) and Interest-Coverage Floors",
-    "Post-2008 Supervisory Tightening",
-    "Post-Pandemic CRE Concentration",
+    "Supervisory and Historical Review",
+    "Pandemic-Period and Concentration Review",
     "Megabank CRE Exposure Shape"
   ],
   "body_links": {
@@ -123,9 +126,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 13111,
-    "word_like_tokens": 2034,
+    "nonspace_chars": 16063,
+    "word_like_tokens": 2562,
     "inbound_wikilinks_count": 11,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-30"
   }
 }

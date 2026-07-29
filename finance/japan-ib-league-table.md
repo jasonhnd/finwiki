@@ -6,9 +6,9 @@ aliases:
   - "Japan investment banking league table"
 domain: "finance"
 created: 2026-05-19
-last_updated: 2026-05-20
-last_tended: 2026-05-20
-review_by: 2026-11-15
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
 confidence: likely
 tags: [finance, investment-banking, league-table, JapanFG, securities]
 status: active
@@ -33,6 +33,8 @@ Japan investment-banking league tables are ranking tools, not ground truth. The 
 For FinWiki, this page is the interpretation layer for [[securities-firms/goldman-sachs-japan]], [[securities-firms/nomura-hd]], [[securities-firms/daiwa-sg]], [[securities-firms/smbc-nikko]], [[securities-firms/mizuho-securities]], and [[securities-firms/mufg-mums]].
 
 ## What Gets Ranked
+
+Source: the table reflects the product categories described by [LSEG Investment Banking League Tables](https://www.lseg.com/en/data-analytics/financial-data/deals-data/investment-banking-league-tables) and the IPO roles described by [JPX](https://www.jpx.co.jp/english/equities/listing-on-tse/new/basic/03.html); vendor methodology and period must accompany any ranking.
 
 | Table type | Typical metric | Why it matters |
 |---|---|---|

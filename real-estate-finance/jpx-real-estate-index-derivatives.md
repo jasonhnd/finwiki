@@ -11,201 +11,166 @@ aliases:
   - "J-REIT hedging"
 domain: real-estate-finance
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
 confidence: likely
 tags: [real-estate-finance, derivatives, etf, futures, options, j-reit, index, hedging, jpx]
 status: active
 sources:
-  - "https://www.jpx.co.jp/english/markets/indices/reit/"
-  - "https://www.jpx.co.jp/english/markets/derivatives/"
-  - "https://www.jpx.co.jp/english/markets/products/reit/"
-  - "https://www.ares.or.jp/en/"
-  - "https://www.fsa.go.jp/en/"
+  - "https://www.jpx.co.jp/english/equities/products/reits/outline/"
+  - "https://www.jpx.co.jp/english/derivatives/products/reit/reit-futures/index.html"
+  - "https://www.jpx.co.jp/english/derivatives/products/reit/index.html"
+  - "https://www.jpx.co.jp/english/equities/products/etfs/issues/01-07.html"
+  - "https://www.ares.or.jp/action/jreit/"
 ---
 
 # JPX TSE REIT Index derivatives
 
 ## TL;DR
 
-The **Tokyo Stock Exchange REIT Index (東証REIT指数)** is JPX's headline benchmark for the J-REIT market, a market-cap-weighted index of all listed J-REITs. It is the standard reference index for J-REIT performance attribution, ETF tracking, and sector-allocation comparisons. The **investable derivatives layer** around this index includes:
+The **Tokyo Stock Exchange REIT Index (東証REIT指数)** is a JPX index for the J-REIT segment. JPX sources confirm the index methodology, listed tracker ETFs, TSE REIT Index Futures, and TSE REIT Index Options. Listing status does not establish liquidity, borrow, spreads, suitability, or hedge effectiveness.
 
-1. **ETFs** on the TSE REIT Index — the most liquid and widely used investment surface, including **NEXT FUNDS Tokyo Stock Exchange REIT Index ETF (1343)**, **Listed Index Fund J-REIT (Tokyo Stock Exchange REIT Index) (1345)**, **MAXIS J-REIT ETF (1597)**, and several other tracker ETFs.
-2. **Index futures** on the TSE REIT Index — JPX has at various times listed index futures targeting the J-REIT sector; the actual current product status and depth of futures trading should be verified against JPX's live derivatives product list before use.
-3. **Options** — the J-REIT options market depth is materially shallower than for the major equity indices (TOPIX / Nikkei 225), reflecting both narrower buy-side demand and dealer hedging-cost considerations.
-4. **Single-name J-REIT margin trading and stock-lending** — provides an indirect hedging channel for individual unit positions even where index-level derivatives are thin.
+1. **ETFs** on the TSE REIT Index include **NEXT FUNDS Tokyo Stock Exchange REIT Index ETF (1343)**, **Listed Index Fund J-REIT (Tokyo Stock Exchange REIT Index) (1345)**, and **MAXIS J-REIT ETF (1597)**.
+2. **Index futures** on the TSE REIT Index — a currently listed Osaka Exchange product as of 2026-07-29; verify live volume and open interest separately.
+3. **Options** — TSE REIT Index Options regular contracts launched on April 13, 2026; product availability is confirmed, while liquidity claims require dated JPX statistics.
+4. **Single-name or ETF shorting / lending** — availability, eligibility, borrow, and execution must be checked for the named security and date.
 
-For FinWiki, this entry matters because **the absence (or shallowness) of deep index-derivatives infrastructure for J-REIT is itself a structural feature** of the asset class. Compared with equity-index derivatives (Nikkei 225 / TOPIX futures and options), the J-REIT derivatives layer is small — meaning that **hedging J-REIT equity exposure at the index level is operationally constrained** for institutional investors. ETFs are the dominant hedging-and-exposure tool rather than index futures or options.
+For FinWiki, product availability and product liquidity are separate questions. JPX confirms live TSE REIT Index futures and options; users must compare dated volume, open interest, spreads, and ETF borrow before choosing a hedge. This page does not infer that a listed contract is liquid merely from its product page.
 
 ## Wiki route
 
-This entry sits under [[real-estate-finance/INDEX|real-estate-finance index]] as the **derivatives / index-product surface** for J-REIT. Read it against [[real-estate-finance/j-reit-market-overview|J-REIT market overview]] (the underlying market), [[real-estate-finance/top-10-j-reit-overview-matrix|top 10 J-REIT matrix]] (single-name detail), and [[real-estate-finance/logistics-j-reit-vs-office-j-reit-asset-class-comparison|logistics vs office comparison]] (sector composition). For the listed developer side of real-estate equity see [[real-estate-finance/mitsui-fudosan-financing-model|Mitsui Fudosan]] and [[real-estate-finance/mitsubishi-estate-financing-model|Mitsubishi Estate]]. For the cap-rate / cycle dimension see [[real-estate-finance/real-estate-cap-rate-compression-2026|cap-rate compression 2026]]. System frame: [[derivatives/INDEX|derivatives index]] and [[exchanges/INDEX|exchanges domain]] for the JPX product framework.
+This entry sits under [[real-estate-finance/INDEX|real-estate-finance index]] as a product-verification surface. [[real-estate-finance/j-reit-market-overview|J-REIT market overview]], [[real-estate-finance/top-10-j-reit-overview-matrix|J-REIT reference matrix]], [[real-estate-finance/logistics-j-reit-vs-office-j-reit-asset-class-comparison|logistics vs office comparison]], [[real-estate-finance/mitsui-fudosan-financing-model|Mitsui Fudosan]], [[real-estate-finance/mitsubishi-estate-financing-model|Mitsubishi Estate]], and [[real-estate-finance/real-estate-cap-rate-compression-2026|cap-rate reference]] are context only. Product rules and current trading data must come from JPX, the fund, broker, and market sources. See [[derivatives/INDEX|derivatives index]] and [[exchanges/INDEX|exchanges domain]] for general product context.
 
 ## TSE REIT Index — the underlying benchmark
+
+Table source note: The index attributes are sourced to JPX's TSE REIT Index overview; constituent count and weights are date-sensitive and must be refreshed. ^[Source: https://www.jpx.co.jp/english/equities/products/reits/outline/.]
 
 | Attribute | Detail |
 |---|---|
 | Publisher | Tokyo Stock Exchange (JPX subsidiary) |
 | Index methodology | Market-capitalization weighted, free-float adjusted, of all REIT-segment-listed J-REITs |
-| Constituents | All J-REITs listed on the TSE REIT segment (typically 50+ vehicles, varies as new IPOs and mergers occur) |
-| Base value | 1000 at base date (May 31, 2003) |
+| Constituents | Eligible REIT-segment issues under the current JPX methodology; count changes with listings, mergers, and delistings |
+| Base value / date | 1000 at 2003-03-31; calculation started 2003-04-01 |
 | Rebalancing | Periodic free-float and weight adjustments per JPX methodology |
 | Sector classification | Implicit (not formally sectorized); investors track logistics / office / retail / residential / hotel / diversified composition via JPX disclosure |
 | Dividend treatment | Price return (income-distribution adjusted in total-return variants) |
 
-The index is the **standard J-REIT performance benchmark** used by:
+JPX publishes index information and variants on its methodology surface. Any claim that a manager, sponsor, or foreign investor uses the index must be supported by that party's dated mandate or disclosure.
 
-- J-REIT-tracking ETFs.
-- Investment-manager performance attribution against passive benchmarks.
-- Sponsor IR materials when discussing relative-performance.
-- Foreign-investor allocation models comparing J-REIT to other Asian / global REIT indices (FTSE NAREIT, GPR, EPRA).
+## ETF surface — listed trackers
 
-JPX publishes the index value daily, including total-return variants. ARES (Association for Real Estate Securitization) also publishes a parallel ARES Investors Indices set, which serves complementary sector-detail and AUM analytics.
+JPX confirms the following listed tracker codes; it does not, by listing them, establish AUM, turnover, spreads, borrow, or relative depth.
 
-## ETF surface — primary investable wrapper
-
-ETFs are the **deepest investable derivatives-adjacent product** in the J-REIT space:
+Table source note: Each named code is checked against JPX's current REIT ETF list as of 2026-07-29. AUM/liquidity rankings are not inferred from listing status. ^[Source: https://www.jpx.co.jp/english/equities/products/etfs/issues/01-07.html.]
 
 | ETF | Code | Provider | Mechanism |
 |---|---|---|---|
-| **NEXT FUNDS Tokyo Stock Exchange REIT Index ETF** | TSE **1343** | Nomura Asset Management | Tracks TSE REIT Index; one of the highest-AUM J-REIT ETFs |
-| **Listed Index Fund J-REIT (Tokyo Stock Exchange REIT Index)** | TSE **1345** | Nikko Asset Management | Tracks TSE REIT Index |
-| **MAXIS J-REIT ETF** | TSE **1597** | Mitsubishi UFJ Asset Management | Tracks TSE REIT Index |
-| Other tracker ETFs | Multiple | Various Japanese asset managers | Tracks TSE REIT Index or close variants |
+| **NEXT FUNDS Tokyo Stock Exchange REIT Index ETF** | TSE **1343** | Nomura Asset Management | Listed tracker; verify current fund page and trading data |
+| **Listed Index Fund J-REIT (Tokyo Stock Exchange REIT Index)** | TSE **1345** | Amova Asset Management | Listed tracker; verify current fund page and trading data |
+| **MAXIS J-REIT ETF** | TSE **1597** | Mitsubishi UFJ Asset Management | Listed tracker; verify current fund page and trading data |
 
-ETFs offer:
-
-- **Index-level long exposure** for institutional and retail investors who want diversified J-REIT exposure without single-name selection.
-- **Stock-loan availability** for short-sellers and hedgers — the ETF unit can be shorted on TSE under standard margin / lending rules.
-- **Daily liquidity at NAV-tracking spreads** for passive index allocation.
-- **An indirect hedge surface** — investors with concentrated single-name J-REIT positions can short an index ETF to hedge sector exposure without selling the underlying positions.
-
-The **Bank of Japan** historically held large positions in equity and J-REIT ETFs as part of its quantitative-easing asset-purchase program. The J-REIT ETF purchase program ran in scaled-down form into the BoJ exit cycle (2024 onward). Even after policy normalization, the **legacy BoJ J-REIT ETF holdings** remain a significant ownership stake that affects market structure and float dynamics. See [[real-estate-finance/j-reit-market-overview|J-REIT market overview]] for the BoJ-overhang context.
+Before describing exposure or using an ETF in a hedge analysis, verify its current objective, index, portfolio, creation/redemption terms, margin eligibility, securities-borrow availability, turnover, spread, premium/discount, tax, and tracking difference. Do not infer a Bank of Japan ownership effect without same-date holdings, free-float, lending, and price-impact evidence.
 
 ## Index futures listing status
 
-JPX's **derivatives product roster** historically included or contemplated index futures referencing the TSE REIT Index. The actual current status (live listed product, open interest, daily volume, exchange-traded liquidity) should be verified directly against JPX's product list at the time of use — derivatives products can be delisted for low volume or relaunched with revised specifications.
+JPX lists **TSE REIT Index Futures** at Osaka Exchange. The contract opened on June 16, 2008; contract specifications and the live product roster confirm current availability as of 2026-07-29. Availability does not establish execution depth, so volume and open interest still require dated statistics. ^[Sources: https://www.jpx.co.jp/english/derivatives/products/reit/reit-futures/index.html and https://www.jpx.co.jp/english/derivatives/products/reit/reit-futures/01.html.]
 
-The **structural question** is why J-REIT index futures have lower liquidity than equity-index futures (Nikkei 225 / TOPIX), even though the J-REIT market is meaningful in size:
+The following are hypotheses to test when comparing dated J-REIT futures liquidity with Nikkei 225 / TOPIX products:
+
+Table source note: This is an analytical hypothesis matrix, not an empirical attribution of current liquidity. Test each row against dated JPX market statistics, constituent liquidity, ETF borrow, and participant data. ^[Sources: https://www.jpx.co.jp/english/derivatives/market-report/ and https://www.jpx.co.jp/english/derivatives/products/reit/reit-futures/index.html.]
 
 | Constraint | Effect on J-REIT index futures liquidity |
 |---|---|
-| **Smaller market cap** | The aggregate J-REIT market cap is smaller than TOPIX-listed equity cap by an order of magnitude; lower notional turnover supports thinner futures. |
-| **Buy-and-hold institutional base** | J-REIT institutional investors (life insurers, pension funds, regional banks) are largely buy-and-hold yield investors with limited need for short-tenor hedging. |
-| **Different volatility profile** | J-REIT volatility tends to be lower than equity-index volatility; hedging-demand pressure is lower. |
-| **Dealer warehousing economics** | A J-REIT index-futures market-maker would need to hedge basis exposure across 50+ individual J-REIT names; single-name liquidity is uneven, raising warehousing cost. |
-| **ETF substitutability** | Liquid J-REIT ETFs (1343, 1345, 1597) provide index-level long and short exposure, partly substituting for index futures. |
+| **Smaller market cap** | Compare same-date underlying-market size and notional turnover rather than assuming a liquidity effect |
+| **Buy-and-hold institutional base** | Test short-tenor hedging demand against dated participant data |
+| **Different volatility profile** | Compare realised and implied volatility over the same period |
+| **Dealer warehousing economics** | Test constituent liquidity, basis, and securities-borrow cost |
+| **ETF substitutability** | Compare ETF turnover and borrow with futures volume and open interest on the same date |
 
-In aggregate, **J-REIT index derivatives in Japan are dominated by ETFs rather than futures or options**. This is different from the equity-index complex, where futures, options, and ETFs coexist with deep multi-product liquidity.
+Do not infer a current product hierarchy without a common-date comparison of cash ETF turnover/borrow, futures volume/open interest, and options volume/open interest.
 
 ## Hedging real-estate equity exposure via short ETF / short futures
 
-When real-estate equity investors want to **hedge sector exposure** at the index level, the operational toolkit includes:
+The following are instruments or strategies whose availability and economics must be tested; they are not recommendations or statements of operational feasibility:
 
-1. **Short J-REIT ETF (1343 / 1345 / 1597)** — borrow units via stock-lending markets and sell short on TSE. The most accessible hedge for sector exposure.
-2. **Short single-name J-REITs** — for investors with specific sector or sponsor concerns; subject to single-name lending availability.
-3. **Short TSE REIT Index futures** (where listed and liquid) — direct sector hedge in derivative form; subject to product availability.
-4. **Pair trade — long listed developer (8801 / 8802) vs short J-REIT ETF** — captures the developer-vs-stabilized-asset spread; views on whether developer equity outperforms or underperforms the REIT segment.
-5. **Sector-rotation pair trade — long logistics REIT vs short office REIT** — captures the [[real-estate-finance/logistics-j-reit-vs-office-j-reit-asset-class-comparison|logistics vs office]] sector view.
-6. **Cap-rate hedge via JGB futures / IRS** — indirect hedge of rate-sensitivity of REIT valuations via the rates market (see [[derivatives/INDEX|derivatives index]]); this hedges the rate component but not the property-specific component of REIT valuations.
+1. **Short J-REIT ETF (1343 / 1345 / 1597)** — verify margin eligibility, locate, borrow rate, capacity, spread, tracking, and recall risk.
+2. **Short single-name J-REITs** — verify eligibility, locate, borrow, concentration, and mismatch.
+3. **Short TSE REIT Index futures** — currently listed; execution remains subject to live liquidity and basis risk.
+4. **Listed developer (8801 / 8802) versus J-REIT ETF** — model factor exposures and basis; the pair does not isolate one spread by definition.
+5. **Logistics REIT versus office REIT** — define the [[real-estate-finance/logistics-j-reit-vs-office-j-reit-asset-class-comparison|sector view]] and verify borrow, issuer, sponsor, leverage, and asset mismatches.
+6. **JGB futures / IRS overlay** — estimate rate sensitivity and basis under [[derivatives/INDEX|derivatives index]]; it does not automatically hedge a cap rate or property-specific risk.
 
-Each tool has cost (borrow rate, futures roll cost, basis risk) and capacity (lending market depth, futures open interest) constraints. The **operational reality** is that hedge precision in J-REIT is lower than in equity-index, because the index-derivatives surface is shallower.
+For every case, quantify order size, turnover, open interest, bid/ask, borrow, roll, basis, tracking, margin, tax, and stress behavior on the same date. No relative hedge precision is asserted without those data.
 
 ## Options market depth
 
-The **TSE REIT Index options market** is materially shallower than for the major equity indices (TOPIX, Nikkei 225). Reasons:
+JPX launched regular-contract **TSE REIT Index Options** on April 13, 2026. The contract is live as of 2026-07-29; because the product is new, depth must be evaluated from current volume, open interest, quotes, and spreads rather than inherited historical statements. ^[Sources: https://www.jpx.co.jp/english/derivatives/products/reit/index.html and https://www.jpx.co.jp/english/corporate/about-jpx/history/02.html.]
 
-- **Smaller underlying market cap** — limits the natural option demand.
-- **Lower volatility** — reduces demand for both protective puts and yield-enhancing covered calls relative to equity-index alternatives.
-- **Yield-oriented investor base** — J-REIT unit-holders are largely yield-income-focused, not volatility-trading-focused; option demand from this base is limited.
-- **Single-name options** — option markets on individual J-REIT names are also generally thin; index-level options are not a primary product.
+Potential fields to test in a liquidity study include:
 
-This means that **options-based hedging strategies (protective puts, collar overlays, covered calls)** are operationally difficult to execute at scale on the J-REIT segment. Investors who require option-based hedging often have to use approximations:
+- **Underlying market size and turnover** — measure them for the same date; do not infer option demand.
+- **Realised and implied volatility** — compare matched windows and definitions; do not infer customer demand from volatility alone.
+- **Participant activity** — use dated participant or position data where available; do not characterize the investor base without evidence.
+- **Substitute products** — verify actual listings, volume, open interest, spreads, and borrow before describing substitution.
 
-- Use **TOPIX or Nikkei 225 index options** as cross-asset proxies (imperfect hedge — equity-index volatility is the wrong reference for REIT volatility).
-- Use **single-name J-REIT margin / short positions** to create synthetic option-like exposure.
-- Use **interest-rate options** (JGB futures options, swaption) to hedge the rate-component of REIT valuations.
+Protective puts, collars, covered calls, cross-asset proxies, single-name positions, and rate options each introduce distinct payoff, basis, liquidity, margin, and legal risks. Model those risks from executable, same-date data rather than treating any as a substitute.
 
-The **lack of deep J-REIT option markets** is itself a structural finding: the sector's investor base does not generate enough two-sided option demand to support deep market-making, and dealers do not find the warehousing economics attractive at current bid-ask levels.
+No blanket conclusion about current option-market depth is made without dated JPX statistics and executable quotes.
 
 ## Dealer hedging activity
 
-Dealer banks and securities firms involved in J-REIT-derivatives market-making engage in cross-product hedging when warehousing index-level exposure:
+Actual dealer books are private. The table lists possible risk mappings only and does not assert that any dealer uses them.
+
+Table source note: The rows are possible hedge mappings, not evidence that a named dealer currently runs each book. Product availability is grounded in JPX listings; actual dealer activity is private and must not be inferred. ^[Source: https://www.jpx.co.jp/english/derivatives/products/reit/index.html.]
 
 | Dealer activity | Hedging tool |
 |---|---|
 | Short ETF position from client buying | Buy basket of underlying single-name J-REITs to neutralize index exposure |
 | Long ETF position from client selling | Short basket of underlying single-name J-REITs |
-| Index-futures inventory (where listed) | Cross-hedge with underlying ETF / single-name basket |
-| Options book (where listed) | Delta-hedge via index-futures or underlying ETF; rebalance daily |
+| Index-futures inventory | Possible cross-hedge with underlying ETF / single-name basket |
+| Options book | Possible delta hedge via index futures or underlying ETF; rebalance as risk policy requires |
 | Rate-sensitive J-REIT carry | IRS / JGB futures hedge of rate component |
 | Cross-currency exposure (foreign-investor flow) | FX forward / swap to hedge JPY exposure |
 
-Dealer-balance-sheet capacity is a constraint: warehousing cost (RWA, LCR / NSFR, single-name borrow cost) reduces market-making depth in stressed conditions. The thin J-REIT derivatives surface partly reflects the fact that the **dealer franchise economics are marginal** at current product volumes.
+Any claim about dealer capacity, regulation, warehousing cost, market-making depth, or franchise economics requires named, dated evidence; product volume alone does not establish it.
 
 ## Comparison to equity-index derivatives
 
+Table source note: This is a directional comparison framework, not a current liquidity ranking. Product availability comes from JPX; all size, participation, and depth comparisons require same-date market statistics. ^[Source: https://www.jpx.co.jp/english/derivatives/products/.]
+
 | Dimension | TSE REIT Index derivatives | TOPIX / Nikkei 225 derivatives |
 |---|---|---|
-| Underlying market cap | Smaller (J-REIT segment) | Much larger (full TSE equity market) |
-| ETF depth | Multi-product, multi-billion-yen AUM | Order of magnitude larger AUM |
-| Futures liquidity | Thin (where listed) | Very deep (TOPIX futures, Nikkei 225 futures, mini and large contracts) |
-| Options liquidity | Thin / limited | Very deep (TOPIX options, Nikkei 225 options, weekly contracts) |
-| Foreign-investor participation | Significant in ETFs and units; limited in futures/options | Very high across all derivative products |
-| Dealer market-making depth | Limited | Deep multi-dealer competition |
-| BoJ presence (legacy) | Significant ETF holdings | Significant ETF holdings |
+| Underlying market cap | Measure on a common date and perimeter | Measure on the same date and perimeter |
+| ETF depth | Compare AUM, turnover, spreads, premium/discount, and borrow on a common date | Compare the same fields and definitions |
+| Futures availability | TSE REIT Index Futures listed; measure live liquidity | Multiple listed TOPIX / Nikkei 225 futures contracts; measure live liquidity |
+| Options availability | TSE REIT Index Options listed from 2026-04-13; measure live liquidity | Multiple listed TOPIX / Nikkei 225 option contracts; measure live liquidity |
+| Foreign-investor participation | Use matched participant/ownership data; no direction is assumed | Use matched participant/ownership data |
+| Dealer market-making depth | Compare executable quotes, size, spreads, and dealer count | Compare the same fields |
+| BoJ holdings | Use same-date instrument-level holdings and free-float data before testing an effect | Use the same definitions |
 
-The asymmetry is structural — J-REIT is a smaller, more yield-oriented asset class than broad equity, so its derivatives layer is correspondingly thinner.
+The table defines a same-date comparison, not a structural conclusion.
 
 ## Comparison to overseas REIT-derivatives markets
 
-The thin J-REIT derivatives layer is not unique to Japan; many regional REIT markets have similar profiles relative to their equity-index counterparts. However the comparison is instructive:
-
-| Market | REIT index | Index futures | Index options | ETF depth |
-|---|---|---|---|---|
-| Japan | TSE REIT Index | Limited / variable | Limited | Moderate (multi-product) |
-| United States | FTSE NAREIT All Equity REITs Index, MSCI US REIT Index | Limited direct futures listings; primarily ETF-based exposure | Limited at index level; deep at single-name level for major REITs (Prologis, Equinix, AMT, etc.) | Very deep (Vanguard Real Estate ETF VNQ, iShares US Real Estate ETF IYR, others) |
-| United Kingdom | FTSE EPRA / NAREIT UK | Very limited | Limited | Modest |
-| Pan-European | FTSE EPRA / NAREIT Europe | Limited | Limited | Modest (regional and country ETFs) |
-| Asia-Pacific | FTSE EPRA / NAREIT Asia | Limited | Limited | Modest (regional ETFs) |
-
-The pattern across markets is that **REIT index derivatives are universally thinner than equity-index derivatives**, with ETFs serving as the primary investable wrapper. This reflects the inherent characteristics of the REIT asset class — smaller market cap, yield-oriented investor base, lower volatility — rather than Japan-specific factors.
+No overseas depth ranking is supplied. A valid cross-market comparison must first align product status, contract notional, currency, time zone, volume, open interest, executable spread/size, ETF AUM/turnover/borrow, and observation date from each exchange or fund source.
 
 ## Implications for investors and risk managers
 
-The structural reality of the J-REIT derivatives landscape produces several practical implications for market participants:
-
-1. **Index-level passive exposure is well-served by ETFs** — institutional and retail allocation to the J-REIT segment as a whole is straightforward via the listed ETF universe.
-2. **Sector-tilt exposure requires single-name selection or sector-specific ETFs** — the standard TSE REIT Index ETFs are market-cap weighted across the full segment; achieving a logistics-overweight or office-overweight tilt requires either single-name allocation or selection of specialized vehicles.
-3. **Tactical short-hedging at the index level is operationally feasible via ETF short-selling** — subject to borrow-rate cost and lending availability.
-4. **Tactical option-based hedging is operationally constrained** — the lack of deep J-REIT index options means investors who want option-payoff exposure have to use cross-asset proxies or single-name options where available.
-5. **Rate-component hedging is well-served via the rates market** — JGB futures, IRS, and OIS positions hedge the rate-sensitivity component of REIT valuations without requiring deep J-REIT-specific derivatives infrastructure.
-6. **Sector-rotation pair trades require careful single-name selection** — long-short pair trades between logistics and office REITs (see [[real-estate-finance/logistics-j-reit-vs-office-j-reit-asset-class-comparison|comparison]]) are operationally feasible but require single-name borrow capacity.
+This page confirms products, not suitability. For any proposed exposure or hedge, document the objective, eligible instrument, mandate, payoff, delta/beta/duration basis, borrow, liquidity, margin, tax, counterparty, legal terms, tracking error, stress loss, and unwind plan. The [[real-estate-finance/logistics-j-reit-vs-office-j-reit-asset-class-comparison|sector comparison]] is contextual and does not establish that a trade is feasible.
 
 ## ARES Investor Indices — complementary analytical surface
 
-In parallel to the JPX-published TSE REIT Index, **ARES (Association for Real Estate Securitization) publishes a set of Investor Indices** that provide deeper analytical breakdowns:
-
-- Total-return index variants.
-- Sector-attribution analytics (office, retail, residential, logistics, hotel, healthcare, diversified).
-- Property-type and geographic-region attribution.
-- AUM-based statistics on J-REIT segment scale and composition.
-
-The ARES indices serve as the **standard reference for J-REIT performance attribution** in institutional-investor reporting. They complement the JPX-published TSE REIT Index by providing the sector-detail and AUM-context that the headline market-cap-weighted index does not directly expose.
-
-This dual-source data architecture (JPX market-cap-weighted headline index + ARES attribution indices) is the standard analytical toolkit for J-REIT performance analysis, both for domestic institutional investors and foreign analysts assessing the segment.
+ARES publishes index and market-analytics materials on its own terms. Before combining them with JPX data, verify the exact series name, methodology, universe, return definition, sector classification, currency, date, and licence. This page does not call the combination a standard toolkit or claim institutional adoption.
 
 ## Index-rebalancing dynamics
 
 The TSE REIT Index is periodically rebalanced as new J-REITs list, existing REITs merge or delist, and free-float weightings adjust. Rebalancing dynamics:
 
-- **New J-REIT listing** — newly listed J-REITs enter the index following the standard TSE inclusion methodology; can create short-term ETF rebalancing flow and price pressure on the new constituent.
-- **J-REIT merger** — sector consolidation reduces the total constituent count; surviving entity's weight may increase, affecting passive tracker rebalancing.
-- **Free-float adjustment** — large sponsor or strategic-holder positions are excluded from free-float weight calculation; changes in sponsor holdings can shift index weights.
-- **Sector composition drift** — as logistics J-REITs grow faster than office J-REITs in recent years, the **implicit sector composition** of the TSE REIT Index has shifted toward logistics; passive ETF holders inherit this drift mechanically.
-
-The implicit sector-composition shift is itself a market signal worth tracking — a passive TSE REIT Index allocation today carries a different sector mix than the same allocation would have carried a decade ago, reflecting the cumulative outperformance of logistics-segment REITs over office-segment REITs in that window.
+- **New J-REIT listing** — apply the current JPX inclusion rule and effective date; measure any flow or price effect rather than assuming it.
+- **J-REIT merger** — apply the current treatment and calculate actual constituent/weight changes.
+- **Free-float adjustment** — use JPX's current methodology and published factors; do not infer a factor from sponsor holdings alone.
+- **Sector composition** — classify constituents consistently and compare dated weights; do not infer growth, outperformance, or investor impact from a composition change alone.
 
 ## Related
 
@@ -231,9 +196,9 @@ The implicit sector-composition shift is itself a market signal worth tracking �
 
 ## Sources
 
-- JPX, TSE REIT Index methodology and constituent landing — https://www.jpx.co.jp/english/markets/indices/reit/
-- JPX, Derivatives market product roster — https://www.jpx.co.jp/english/markets/derivatives/
-- JPX, REIT market segment landing — https://www.jpx.co.jp/english/markets/products/reit/
+- JPX, TSE REIT Index overview — https://www.jpx.co.jp/english/equities/products/reits/outline/
+- JPX, Derivatives market product roster — https://www.jpx.co.jp/english/derivatives/
+- JPX, REIT market segment landing — https://www.jpx.co.jp/english/equities/products/reits/
 - ARES, Investor Indices and J-REIT market analytics — https://www.ares.or.jp/en/
 - FSA, Investment Trust Act and Financial Instruments and Exchange Act framework — https://www.fsa.go.jp/en/
 - JREI (Japan Real Estate Institute) appraisal methodology references — public landing
