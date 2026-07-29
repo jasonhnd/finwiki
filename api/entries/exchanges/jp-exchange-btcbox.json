@@ -23,9 +23,9 @@
     "domain": "exchanges",
     "type": null,
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-06-24",
-    "review_by": "2026-08-08",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "fintech",
@@ -58,13 +58,10 @@
     "8. 関連人物"
   ],
   "body_links": {
-    "wikilinks_count": 12,
+    "wikilinks_count": 9,
     "wikilinks": [
       "exchanges/INDEX",
       "exchanges/fsa-vasp-registration-system",
-      "exchanges/jp-exchange-bitflyer",
-      "exchanges/jp-exchange-coincheck",
-      "exchanges/jp-exchange-gmo-coin",
       "exchanges/jp-vasp-parent-company-map",
       "exchanges/jvcea-self-regulatory-overview",
       "exchanges/jvcea-spot-volume-statistics-analysis",
@@ -76,9 +73,6 @@
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/ja/domains/exchanges/",
       "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
-      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/",
-      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/",
-      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-gmo-coin/",
       "https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/",
       "https://finwiki.zksc.io/ja/exchanges/jvcea-self-regulatory-overview/",
       "https://finwiki.zksc.io/ja/exchanges/jvcea-spot-volume-statistics-analysis/",
@@ -97,9 +91,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 4448,
-    "word_like_tokens": 789,
-    "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-24"
+    "nonspace_chars": 4417,
+    "word_like_tokens": 765,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-07-29"
   }
 }

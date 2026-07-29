@@ -1,22 +1,22 @@
 ---
 source: exchanges/global-dex-aggregator-comparison-matrix
-source_hash: 7c44c761060d7bef
+source_hash: ee8c251b929931e7
 lang: en
 status: machine
 fidelity: ok
 title: "Global DEX Aggregator comparison matrix · cross-comparison of the 8 major aggregators"
-translated_at: 2026-05-31T03:19:56.367Z
+translated_at: 2026-07-29T11:02:23.000Z
 ---
 
 # Global DEX Aggregator comparison matrix · cross-comparison of the 8 major aggregators
 
 ## TL;DR
 
-- Cross-compares the 8 major DEX aggregators as of 2026-Q2 across 8 axes: **chain coverage · routing model · MEV protection · gas relay · daily volume · fee model · partner integration · governance token**
+- Cross-compares 8 major DEX aggregators across structural axes: **chain coverage · routing model · MEV protection · gas relay · partner integration · governance token**; point-in-time volume, share, fees and chain counts must be rechecked in official interfaces
 - **The 3 quadrants of routing model**: **on-chain pathfinder** (1inch · ParaSwap · KyberSwap · OpenOcean · OKX DEX) · **RFQ (Request-For-Quote / market maker quote)** (0x Protocol · Matcha · OKX DEX also includes RFQ) · **batch auction** (CowSwap / CoW Protocol) — Jupiter is an SVM aggregator dedicated to the Solana ecosystem
 - **Differentiation in chain coverage**: EVM-heavy (1inch · 0x · CowSwap · ParaSwap · KyberSwap · OpenOcean · OKX DEX) vs Solana-only (Jupiter) · a true multi-VM aggregator does not yet exist (OpenOcean is one of the few examples covering EVM + Solana simultaneously, but its Solana route effectively rides on Jupiter sub-routing)
 - **The 3 major mechanisms of MEV protection**: **CoW Protocol's batch auction + uniform clearing price** (structurally eliminates MEV) · **1inch Fusion / 0x Settler's intent-based + signed quote** (nearly cancels MEV) · **flashbots private mempool** wrapper (integrated by some aggregators) — Jupiter's MEV on Solana is mitigated by the Jito tip model
-- **Daily volume** (2026-Q2 estimate): 1inch ~$1.5-2B · Jupiter ~$1-2B (routing for 70%+ of Solana goes through it) · 0x/Matcha ~$0.8-1.2B · CowSwap ~$0.4-0.6B · KyberSwap / OKX DEX ~$0.3-0.5B · ParaSwap / OpenOcean ~$0.2-0.4B each
+- **Live-check boundary**: volume, share, chain support, fees and integrations change continuously; confirm them in each protocol's official UI / API and dated public materials
 - **Governance token**: 1INCH · ZRX · COW · JUP · KNC · OKB (OKX's own token) · PSP (ParaSwap, 2024  launch) · OpenOcean OOE · the governance model and fee distribution of each differ greatly
 - Related: [[exchanges/global-dex-major-five-comparison|global DEX 5強]] (DEX comparison) · [[exchanges/solana-ecosystem-dex-comparison|Solana ecosystem DEX]] (Solana 6 layer) · this matrix specializes in cross-comparing 8  aggregators
 
@@ -28,7 +28,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 
 DEX aggregators evolved from the simple pathfinders of 2020-2021年 to **intent-based routing + MEV protection + cross-chain swap** by 2024-2026年. Aggregators are greatly differentiated by **the design of their routing model**, and the path by which a user obtains "best price" differs fundamentally from one aggregator to another.
 
-However, comparison information on aggregators is scattered — 1inch's official materials emphasize its own RFQ + Fusion, CoW Protocol emphasizes MEV elimination via batch auction, and Jupiter emphasizes its dominance on Solana. The value of the matrix lies in **comparing 8  aggregators across 8 axes on the same basis**, enabling traders / exchange-integration partners / institutions making routing selections to choose "the aggregator best suited to their use case."
+However, comparison information on aggregators is scattered — 1inch's official materials emphasize RFQ + Fusion, CoW Protocol emphasizes batch-auction MEV controls, and Jupiter emphasizes its Solana product scope. The matrix compares 8 aggregators on the same structural basis so traders, integration partners and institutions can narrow candidates by use case.
 
 Note: because aggregators ride on top of the liquidity pools of base DEXs (Uniswap / Curve / Balancer / Solana Raydium / Orca, etc.), aggregator competition becomes a meta-game of "pure routing layers that do not have their own DEX." CowSwap (CoW Protocol) and 1inch Fusion are exceptional in that they hold their own solver / market-maker networks, reaching for "more than just the middle layer."
 
@@ -36,17 +36,17 @@ Note: because aggregators ride on top of the liquidity pools of base DEXs (Unisw
 
 ### 1inch (1INCH · v6 + Fusion)
 
-**Routing model**: **a two-layer of on-chain Pathfinder + Fusion intent layer**. The Pathfinder algorithm searches paths across all DEX liquidity (Uniswap v2/v3/v4 + Curve + Balancer + Sushiswap + 100+ AMM) and optimizes gas + slippage. **Fusion** is an intent-based bidding layer launched in 2023年, where users submit signed orders, resolvers (MEV searchers / market makers) bid competitively, and 1inch itself intermediates order matching.
+**Routing model**: **a two-layer on-chain Pathfinder + Fusion intent layer**. Pathfinder searches liquidity in its published scope and evaluates gas + slippage. Fusion uses signed orders and resolver competition; confirm the current design in official materials.
 
-**Chain coverage**: **EVM-only** (Ethereum + Arbitrum + Optimism + Polygon + BNB Chain + Base + Avalanche + zkSync Era + others, 11+ chains). Solana / Aptos / Sui are out of scope (intentionally EVM-first).
+**Chain coverage**: **EVM-focused**. Confirm the current supported networks in the official 1inch UI / API.
 
 **MEV protection mechanism**: in Fusion intent-based mode, resolvers keep MEV at swap execution minimal (an incentive whereby resolver competition refunds MEV value to the user) · classical pathfinder mode is MEV exposed. Optional flashbots integration exists.
 
 **Gas relayer support**: in Fusion mode, resolvers pay gas and the user is gasless. Pathfinder mode uses the user's own gas.
 
-**Daily volume**: ~$1.5-2B/day (2026-Q2 estimate · DefiLlama aggregators board). The **leader position among EVM aggregators**.
+**Live metrics**: volume and market position vary by period and data source; verify them in dated DefiLlama data and the official interface.
 
-**Fee model**: Pathfinder is no-fee (LP fee only) · in Fusion, a fee from resolvers (small spread) · via partner integration, a referral fee can be set.
+**Fee model**: Pathfinder, Fusion and partner integrations have different cost structures. Confirm applicable fees and referral terms in current official specifications.
 
 **Partner integrations**: via MetaMask Swaps (MetaMask adopts 1inch as one of 1 default routing providers) · Coinbase Wallet · TrustWallet, and many others.
 
@@ -56,17 +56,17 @@ Note: because aggregators ride on top of the liquidity pools of base DEXs (Unisw
 
 **Routing model**: **RFQ-first hybrid**. 0x Protocol obtains **signed quotes from professional market makers (Wintermute · GSR · Jane Street, etc.)** and simultaneously compares on-chain liquidity to select the best. Settler (launched in 2024年) implements an MEV-resistant smart router. Matcha is a UI that wraps 0x Protocol for consumers.
 
-**Chain coverage**: **EVM multi-chain** (Ethereum + Arbitrum + Optimism + Polygon + Base + BNB Chain + Avalanche + others, 9+).
+**Chain coverage**: **EVM multi-chain**. Confirm the current supported networks in official 0x / Matcha materials.
 
 **MEV protection mechanism**: RFQ quotes are private and signed · MEV searchers cannot front-run with a sandwich (it executes at the moment the maker commits to a price). Settler protects classical AMM swaps too with permit2 + and a smart router.
 
 **Gas relayer support**: via the 0x API, the user pays gas · some partners (Coinbase Wallet, etc.) support gasless via meta-transactions.
 
-**Daily volume**: ~$0.8-1.2B (the total via Matcha + the 0x API). The ratio of professional market-maker liquidity is higher than other aggregators.
+**Live metrics**: Matcha and 0x API volume and liquidity composition vary with aggregation scope; verify them in dated official materials and analytics.
 
-**Fee model**: a 0.15% protocol fee is standard (2024-2025 phased rollout) · a partner referral fee can be set.
+**Fee model**: protocol and partner referral fees differ by product and API agreement; confirm them in current 0x pricing specifications.
 
-**Partner integrations**: **Coinbase Wallet swap** · **MetaMask Swaps (co-provider)** · **Robinhood crypto swap backend** (announced in 2024年) · Brave Wallet, etc. One of 1 aggregators with the most enterprise integrations.
+**Partner integrations**: wallet and application integrations change continuously; verify them on the current 0x customer / integration pages.
 
 **Governance token**: **ZRX** (2017年 launch · ZRX staking + governance · a fee-distribution discussion is underway in 2024年).
 
@@ -74,51 +74,51 @@ Note: because aggregators ride on top of the liquidity pools of base DEXs (Unisw
 
 **Routing model**: **Batch auction with uniform clearing price**. Users send an intent (sell X for at least Y) · all orders within a ~12-second batch window are matched by CoW (Coincidence of Wants) · the remainder is settled by solvers on external AMM/RFQ. Because **uniform clearing price** makes all orders of the same token pair settle at the same price, MEV (sandwich + frontrunning) structurally cannot arise.
 
-**Chain coverage**: **EVM** (Ethereum mainnet + Gnosis Chain + Arbitrum + Base · as of 2026-Q2). Multi-chain expansion is more conservative than other aggregators.
+**Chain coverage**: **EVM**. Confirm current supported networks in the official CoW Protocol interface.
 
 **MEV protection mechanism**: **structurally MEV-absent** — in the batch-auction model, orders are not executed individually, so sandwich attacks physically cannot arise. Solver competition converts MEV value into user surplus.
 
 **Gas relayer support**: **fully gasless** — solvers bear the gas (deducted from swap output) · the user wallet only signs.
 
-**Daily volume**: ~$0.4-0.6B (2026-Q2). Volume is smaller than other aggregators, but **the size per 1 trade is large** (institutions + large retail come seeking MEV-protected swaps).
+**Live metrics**: volume, trade size and user composition are not fixed here; verify them in dated public data.
 
-**Fee model**: a 0.1-0.5% solver fee (a transparent method charging from user surplus) · the CowDAO fee switch was enabled in 2024年 and distributes rewards to COW stakers.
+**Fee model**: solver fees and protocol / partner allocations vary with transaction terms and governance; confirm current official specifications.
 
-**Partner integrations**: **Safe (Gnosis Safe) native swap integration** (institutional multisigs swap on CoW) · Argent Wallet · Rabby Wallet · strong with a user base that has high demand for MEV protection.
+**Partner integrations**: **Safe (Gnosis Safe) native swap integration** (institutional multisigs swap on CoW) · Argent Wallet · Rabby Wallet. Verify current integrations against each product's official materials.
 
 **Governance token**: **COW** (2023年 launch · COW staking receives fees + governance).
 
 ### Jupiter (JUP · Solana only)
 
-**Routing model**: **SVM (Sealevel) native aggregator** — integrated routing across Solana's Raydium / Orca / Meteora / Phoenix / Lifinity / Saber / others, 25+ DEXs. Jupiter v6 integrates transaction simulation + multi-hop optimization + just-in-time liquidity.
+**Routing model**: **SVM (Sealevel) native aggregator** — routes across multiple Solana DEXs. Confirm current integrations and implementation features in Jupiter's official materials.
 
 **Chain coverage**: **Solana alone** (intentionally). Cross-chain is a separate product via Jupiter Bridge (through Wormhole).
 
 **MEV protection mechanism**: Solana has a different MEV environment from Ethereum — by placing Jupiter swaps into a **Jito Bundle** (see [[exchanges/dex-jito-solana|Jito Solana]]), sandwich attacks are suppressed via Jito validator tips. Jupiter rejects transactions when the price moves significantly with **Slippage Bot Protection**.
 
-**Gas relayer support**: Solana's gas fees are extremely low, on the order of $0.001 — the need for gasless is lower than on EVM. Jupiter assumes the user holds their own SOL.
+**Gas relayer support**: network fees, priority fees, relayers and SOL requirements vary by route and congestion; confirm them in the current Jupiter UI / specifications.
 
-**Daily volume**: **~$1-2B (70%+ of the entire Solana DEX trading volume routes through Jupiter)**. The de facto gateway to the Solana ecosystem.
+**Live metrics**: Solana volume and routing share vary by period and data source; verify them with Jupiter and dated analytics.
 
-**Fee model**: 0% protocol fee (LP fee + Jito tip only) · via partner integration, a referral can be set.
+**Fee model**: swap, partner-integration and priority / tip costs differ by route; confirm them in the current UI and official specifications.
 
 **Partner integrations**: Phantom Wallet · Solflare Wallet · Backpack (the default swap across the entire Solana wallet ecosystem) · also expanding into Jupiter LST (Liquid Staking Token) and Jupiter Perp.
 
-**Governance token**: **JUP** (2024-01  launch · one of the largest retroactive airdrops in Solana history · JUP staking + governance).
+**Governance token**: confirm current JUP governance, staking and rights in Jupiter's official materials.
 
 ### OpenOcean (OOE · multi-VM)
 
-**Routing model**: **Multi-VM pathfinder** — an EVM aggregator (a 1inch-style pathfinder) + Solana sub-routing (sometimes internally calling the Jupiter API) + also covers the Move VM AMMs of Aptos / Sui. **The only true multi-VM aggregator**.
+**Routing model**: **Multi-VM pathfinder** — spans its published EVM, Solana and Move-VM scope. Confirm actual sub-routing and integrations in official materials.
 
-**Chain coverage**: **EVM + Solana + Aptos + Sui + TON, 20+ chains**. The largest number of chains in coverage.
+**Chain coverage**: **multi-chain / multi-VM**. Confirm current supported networks in the official OpenOcean interface.
 
 **MEV protection mechanism**: Flashbots Protect integration (EVM) · Jito Bundle integration (Solana) · there is no MEV elimination at the protocol layer, but it passes through each chain's MEV mitigation.
 
 **Gas relayer support**: Chain-specific — partial meta-transactions on EVM · on Solana, gas is low to begin with.
 
-**Daily volume**: ~$0.2-0.4B (2026-Q2). Coverage is broad, but volume on each chain is smaller than other EVM-specialists.
+**Live metrics**: aggregate and per-chain volume vary by period and data source; verify them in dated public data.
 
-**Fee model**: 0.1% protocol fee · partner referral fee.
+**Fee model**: protocol and partner referral fees differ by route and integration terms; confirm current official specifications.
 
 **Partner integrations**: integrated with many wallets on each chain (MetaMask · Phantom · Pontem · Suiet, etc.) · cross-chain swap functionality (via LayerZero / Wormhole) is a differentiator.
 
@@ -128,17 +128,17 @@ Note: because aggregators ride on top of the liquidity pools of base DEXs (Unisw
 
 **Routing model**: **Pathfinder + RFQ hybrid** — its own ParaSwapPool (providing market-maker RFQ) + an external AMM pathfinder · Delta (an intent-based layer launched in 2024年) for gasless intent swaps.
 
-**Chain coverage**: **EVM** (Ethereum + Arbitrum + Optimism + Polygon + Base + Avalanche + BNB Chain + zkEVM, etc., 11+ chains).
+**Chain coverage**: **EVM**. Confirm current supported networks in official ParaSwap materials.
 
 **MEV protection mechanism**: MEV mitigation at the Delta intent layer · classical pathfinder mode is MEV exposed · MEV elimination is weaker compared with 1inch / CowSwap.
 
 **Gas relayer support**: Delta is gasless · classical pathfinder uses user gas.
 
-**Daily volume**: ~$0.2-0.4B (2026-Q2). Hidden in the shadow of 1inch / 0x, its market share is on a declining trend.
+**Live metrics**: volume and market-share direction are not fixed here; verify them in dated public data.
 
-**Fee model**: Free pathfinder · a protocol fee from Delta · partner referral fee.
+**Fee model**: Pathfinder, Delta and partner-integration costs must be checked in current official specifications.
 
-**Partner integrations**: integrated with retail wallets such as Argent · Ledger Live · Zerion.
+**Partner integrations**: retail-wallet integrations change continuously; verify them on ParaSwap's current official integration page.
 
 **Governance token**: **PSP** (2021年 launch · a fee-distribution model upgrade in 2024年 · sePSP staking).
 
@@ -146,35 +146,35 @@ Note: because aggregators ride on top of the liquidity pools of base DEXs (Unisw
 
 **Routing model**: **a dual line of the KyberSwap Aggregator (pathfinder) + Kyber Elastic (its own concentrated-liquidity AMM)**. The Aggregator routes both external AMMs + its own Elastic.
 
-**Chain coverage**: **15+ chains** (Ethereum + Arbitrum + Optimism + Polygon + Base + BNB Chain + Avalanche + Linea + zkSync + Mantle + others).
+**Chain coverage**: **EVM multi-chain**. Confirm current supported networks in official KyberSwap materials.
 
 **MEV protection mechanism**: after the 2023年 hack, the core router was extensively re-audited · a MEV protection layer is not built in · users are MEV exposed.
 
 **Gas relayer support**: Limited — assumes the user's own gas.
 
-**Daily volume**: ~$0.3-0.5B (2026-Q2).
+**Live metrics**: verify volume in dated public data.
 
-**Fee model**: 0% aggregator fee · Kyber Elastic LP fee (swap fee from the pool).
+**Fee model**: aggregator and liquidity-pool costs differ by route; confirm current official specifications.
 
 **Partner integrations**: Krystal Wallet · MetaMask, etc. Strong in the Vietnam / SEA market.
 
 **Governance token**: **KNC** (2017年 launch · 2022年 migration · KNC staking + governance · KyberDAO).
 
-**Note**: there is a history of KyberSwap Elastic suffering a **$48M exploit** in 2023-11 (a complex AMM tick-liquidity vulnerability) · even after the fix, TVL has not recovered. The Aggregator continues, but its own Elastic is effectively in a wind-down state. For details, see [[exchanges/global-dex-major-five-comparison|global DEX 5強]] and peers.
+**Note**: the November 2023 KyberSwap Elastic exploit is an important historical event. Recheck current product status, security controls and liquidity-product scope in official incident and product disclosures. For details, see [[exchanges/global-dex-major-five-comparison|global DEX 5強]] and peers.
 
 ### OKX DEX Aggregator (OKB · centralized-backed)
 
 **Routing model**: **On-chain pathfinder + RFQ hybrid** — integrates RFQ liquidity backed by OKX (the CEX) · a hybrid of external AMMs + the OKX Spot order book. The default swap built into the OKX Wallet.
 
-**Chain coverage**: **EVM + Solana + TON + Aptos + Sui, 20+ chains**. Chain expansion is fast owing to the advantage of being CEX-backed.
+**Chain coverage**: **multi-chain / multi-VM**. Confirm current supported networks in the official OKX DEX interface.
 
 **MEV protection mechanism**: Partial — via OKX RFQ liquidity it is MEV-resistant · via external AMMs it is MEV exposed.
 
 **Gas relayer support**: via the OKX Wallet, partially gasless through OKX Pay integration.
 
-**Daily volume**: ~$0.3-0.5B (2026-Q2). Growing steadily on the CEX-backed brand recognition and the OKX Wallet user base.
+**Live metrics**: volume and growth rates are not fixed here; verify them in dated public data.
 
-**Fee model**: ~0.1% protocol fee · reducible through linkage within the OKX ecosystem.
+**Fee model**: protocol fees and ecosystem conditions vary by route, region and time; confirm current official specifications.
 
 **Partner integrations**: OKX Wallet (default) · seamless linkage to the OKX CEX (on-chain swap → CEX deposit).
 
@@ -182,25 +182,20 @@ Note: because aggregators ride on top of the liquidity pools of base DEXs (Unisw
 
 ## Big comparison matrix table
 
-**8  aggregators × 8 axes cross-comparison** (state of 2026-Q2):
+Source: each protocol's official product page (URLs below). Chain support, routing, MEV controls, fees and integrations change continuously, so volume, market share, fixed fees and fixed chain counts are excluded.
 
-| Aggregator | Routing model | Chain coverage | MEV protection | Gas relayer | Daily volume (estimate) | Fee model | Partner integrations | Governance token |
-|---|---|---|---|---|---|---|---|---|
-| **1inch** | Pathfinder + Fusion intent | **EVM 11+** | Fusion intent (resolver competition) + Flashbots opt-in | Fusion: solver pays · Pathfinder: user | **~$1.5-2B** | Free pathfinder · Fusion small spread | MetaMask Swaps default · Coinbase Wallet · Trust | **1INCH** (veINCH) |
-| **0x / Matcha** | RFQ-first hybrid (Settler smart router) | EVM 9+ | RFQ signed quote (private) + Settler MEV-resist | Partial meta-tx via partners | ~$0.8-1.2B | 0.15% protocol fee | **Coinbase Wallet · MetaMask co-provider · Robinhood backend** | **ZRX** (staking) |
-| **CowSwap / CoW Protocol** | **Batch auction + uniform clearing price** | EVM (Eth + Gnosis + Arb + Base) | **Structurally MEV-free** (batch CoW + uniform price) | **Fully gasless** (solver pays) | ~$0.4-0.6B (high avg ticket) | 0.1-0.5% solver fee · CowDAO fee switch on | **Safe native swap** · Argent · Rabby | **COW** (staking) |
-| **Jupiter** | Solana SVM native aggregator (25+ Solana DEX) | **Solana only** | Jito Bundle integration + slippage bot protect | Low gas baseline (Solana ~$0.001) | **~$1-2B (70%+ Solana DEX routing)** | 0% protocol fee | **Phantom · Solflare · Backpack** (all Solana wallet default) | **JUP** (2024 airdrop) |
-| **OpenOcean** | Multi-VM pathfinder (EVM + Solana + Aptos + Sui + TON) | **20+ chain across multi-VM** | Pass-through (Flashbots EVM · Jito Solana) | Chain-specific partial | ~$0.2-0.4B | 0.1% protocol fee | MetaMask · Phantom · Pontem · Suiet | **OOE** (staking) |
-| **ParaSwap** | Pathfinder + RFQ + Delta intent layer | EVM 11+ | Delta intent partial · pathfinder exposed | Delta gasless · pathfinder user-pay | ~$0.2-0.4B | Free pathfinder · Delta fee | Argent · Ledger Live · Zerion | **PSP** (sePSP) |
-| **KyberSwap** | Aggregator + own Kyber Elastic AMM | EVM 15+ | None (post-2023 hack focus on safety not MEV) | Limited | ~$0.3-0.5B | 0% agg fee · Elastic LP fee | Krystal · MetaMask · SEA market | **KNC** (KyberDAO) |
-| **OKX DEX** | On-chain pathfinder + RFQ (CEX backed) | **20+ chain EVM + Solana + TON + Aptos + Sui** | Partial (RFQ MEV-resist · external AMM exposed) | Partial (OKX Pay gasless paths) | ~$0.3-0.5B | ~0.1% protocol fee · OKX ecosystem discount | **OKX Wallet default · CEX seamless on/off ramp** | **OKB** (CEX-wide) |
+| Aggregator | Official public information | Routing scope to verify in official materials |
+|---|---|---|
+| **1inch** | https://1inch.io/ | Pathfinder and intent products |
+| **0x / Matcha** | https://0x.org/ · https://matcha.xyz/ | API, RFQ and routing products |
+| **CoW Protocol** | https://cow.fi/ | intent- and solver-based trading |
+| **Jupiter** | https://jup.ag/ | Solana swap routing |
+| **OpenOcean** | https://openocean.finance/ | publicly documented multi-chain routing |
+| **ParaSwap** | https://www.paraswap.io/ | swap routing and API |
+| **KyberSwap** | https://kyberswap.com/ | aggregator and liquidity products |
+| **OKX DEX** | https://www.okx.com/web3/dex | DEX aggregation in OKX Wallet |
 
-**How to read the matrix**:
-- Horizontally: profiling each of the 1  aggregators × 8 axes · vertically: comparing the differences of the same axis × 8  aggregators
-- **Routing-model differences**: Pathfinder (1inch · ParaSwap · KyberSwap · OpenOcean) vs RFQ-heavy (0x · OKX) vs Batch auction (CowSwap) vs Solana SVM native (Jupiter). **The user experience differs fundamentally** — RFQ quotes instantly · pathfinder does real-time on-chain calc · batch auction waits ~12s for matching
-- **MEV-protection-strength ranking**: **CowSwap (structural) > 1inch Fusion (intent) > 0x (RFQ private quote) > OKX RFQ partial > the rest (exposed or minimal)**
-- **Chain coverage**: **OpenOcean + OKX DEX are the multi-chain top** · **1inch / 0x / CowSwap / ParaSwap / KyberSwap are EVM-only** · **Jupiter is Solana only**. True multi-VM aggregators are still few
-- **Governance token + fee distribution model**: COW · ZRX · 1INCH have a fee switch underway / enabled · JUP / OOE / PSP / KNC have token utility centered on governance · OKB is a CEX-wide token
+How to read it: this table is an architecture entry map. Recheck current chains, prices, fees, tokens and integrations in the live official UI or API documentation.
 
 ## Composition / use case patterns
 
@@ -209,7 +204,7 @@ Note: because aggregators ride on top of the liquidity pools of base DEXs (Unisw
 - MEV protection is at the level of flashbots opt-in · sufficient for mid-sized retail trades (< $10K)
 
 **Pattern B — "Solana memecoin / spot trader"**:
-- From any of Phantom / Solflare / Backpack, nearly all Solana DEXs route on one screen via Jupiter · there is no reason to choose another aggregator
+- Jupiter's Solana routing is available through wallets such as Phantom / Solflare / Backpack; compare current integrations and quote quality at the time of use
 - MEV mitigation with Jito Bundle · slippage protection absorbs the volatility of memecoins
 
 **Pattern C — "Large-lot trade / institutional trader"**:
@@ -224,10 +219,10 @@ Note: because aggregators ride on top of the liquidity pools of base DEXs (Unisw
 **Pattern E — "CEX-integrated user"**:
 - An OKX Wallet user does an on-chain swap on OKX DEX → seamlessly deposits to the OKX CEX, or the reverse
 - A Coinbase Wallet user does a 0x backed swap → seamless linkage to the Coinbase exchange
-- The biggest wedge of CEX-backed aggregators is **minimizing on/off-ramp friction**
+- Treat **on/off-ramp friction** as one evaluation axis for CEX-backed aggregators, not a fixed greatest advantage
 
 **Pattern F — "Developer / dApp embedding swap"**:
-- The 0x API (swap quote API) has the most enterprise integrations — CEX backends of Coinbase / Robinhood / etc. consume the 0x quote API
+- The 0x API provides a public entry point for enterprise integrations; verify current customer and integration examples on official pages
 - The 1inch API has many wallet integrations · the CowSwap API has many smart-contract / multisig-protocol integrations
 
 ## Boundary cases / future trajectory
@@ -245,7 +240,7 @@ Note: because aggregators ride on top of the liquidity pools of base DEXs (Unisw
 **Pressure to standardize MEV protection**:
 - In 2024-2025年, "retail MEV exposure" regulatory discussion under EU MiCA + US SEC
 - Robinhood crypto / Coinbase Wallet partially MEV-protect with a 0x backed swap · the direction is for MEV protection to become a default requirement for institutional retail flow
-- The CoW Protocol model is the only answer that can **structurally eliminate MEV** · there is a possibility that other aggregators imitate it in 2027-2028
+- Compare MEV controls, including CoW Protocol's batch-auction design, through current specifications and measurements; do not predict uniqueness or future imitation
 
 **Blurring of the boundary between RFQ and AMM**:
 - 0x RFQ wins for large-lot token pairs where professional market-maker quotes surpass the depth of AMM-style liquidity
@@ -255,37 +250,37 @@ Note: because aggregators ride on top of the liquidity pools of base DEXs (Unisw
 **The threat of CEX-backed aggregators such as OKX / Coinbase**:
 - Centralized-backed aggregators (OKX DEX · 0x backed swap on Coinbase) challenge pure-DeFi aggregators (1inch / CowSwap) with the wedge of **on/off-ramp + KYC + institutional liquidity**
 - On the regulatory side, CEX-backed aggregators comply with MiCA / FSA / SEC · they can absorb institutional retail flow
-- 2027+: a shift could occur where CEX-backed aggregators occupy 50%+ of retail volume · pure-DeFi aggregators need to differentiate by providing **MEV-resistance + transparency**
+- The mix between CEX-backed and pure-DeFi aggregators can continue to change; compare on/off-ramp access, MEV resistance, transparency and self-custody separately
 
-**Jupiter's Solana dominance and non-Solana expansion**:
-- Jupiter occupies 70%+ of Solana's DEX routing · the de facto gateway to the Solana ecosystem
+**Jupiter's Solana scope and non-Solana expansion**:
+- Do not fix Jupiter's Solana routing share here; verify it in dated analytics and the current official product scope
 - The 2024年 JUP airdrop gives community ownership + governance · expanding Solana DAO governance influence
 - Non-Solana expansion (via Jupiter Bridge Wormhole) is at an experimental stage · a strategy of maintaining Solana focus
 
 **Aggregators' own MEV-extraction competition**:
 - A model of keeping / redistributing MEV value at the solver / resolver layer while claiming "MEV elimination" (CowSwap · 1inch Fusion) is spreading
-- A fee switch distributing solver MEV revenue to COW stakers · 1INCH stakers is underway
+- Verify solver / resolver revenue and token-holder allocation in current governance proposals and implementation status
 - Challenge: balancing **full MEV refund to users** vs **fee distribution to token holders** · debated in DAO governance
 
 **Governance token + fee-switch-enable trend**:
-- In 2024-2026年, a fee switch for COW · ZRX · 1INCH, etc., is enabled / proposals are underway
-- For anti-token-mode Jupiter (JUP) and Robinhood-backed 0x backed swap as well, the destination of collected fees is a subject of debate
-- Regulatory uncertainty from the SEC / MiCA on token fee distribution is a headwind
+- Verify each protocol's fee-switch state in current governance proposals and implementation status
+- Do not infer ownership of collected fees from token names or integration partners; confirm official specifications
+- Verify the regulatory treatment of token fee distribution in current authority materials for the relevant jurisdiction
 
 **Long-tail token coverage competition**:
 - **How many tokens / pools an aggregator can route** is the core competition of the pathfinder model
 - Pathfinder speed + AMM coverage handling memecoins / niche tokens (integrating niche AMMs such as Curve / Balancer / KyberSwap Elastic) is important
-- Jupiter is at the core of the Solana memecoin economy · 1inch / 0x are strong on EVM long-tail
+- Compare chain / token coverage and quote quality at the same point in time through official UIs / APIs
 
 **Embedded wallet × Agentic swap**:
 - Embedded wallets such as Privy / Coinbase CDP / Crossmint ([[agent-economy/privy-embedded-wallet-overview|Privy overview 参照]]) call the aggregator backend
 - AI agents ([[agent-economy/agent-protocol-mainnet-adoption-2026|agent protocol mainnet adoption]]) obtain aggregator quotes as a paid API via x402 · execute MEV-protected swaps
-- 2026-2027  trend: agents consume CowSwap / 1inch Fusion as the default route · MEV protection becomes a mandatory requirement in agentic commerce
+- Verify agentic-swap adoption in dated integration disclosures; do not infer a default route or mandatory requirement
 
 **Regulatory wildcard — do aggregators qualify as CASP/VASP?**:
-- Whether EU MiCA makes aggregators (no self-order placement · routing only) subject to CASP obligations is a grey area
-- Japan's FSA treats aggregators themselves as not requiring VASP registration (non-custodial routing), but CEX-backed aggregators (OKX DEX, etc.) are a separate discussion
-- The EU MiCA TA (Technical Advice) of 2026-2027年 is expected to clarify aggregator categorization · a major factor in regulatory-risk variation
+- Verify an aggregator's EU MiCA treatment by function and legal entity in current authority materials
+- Verify Japan registration requirements from the actual custody, intermediation, execution and other functions in current FSA materials
+- Do not predict the content or timing of future technical advice; update categorization after publication
 
 ## Related
 <!-- wiki-links:managed -->

@@ -1,65 +1,62 @@
 ---
 source: exchanges/jp-exchange-laser-digital-japan
-source_hash: a4d3e2f96431c41e
+source_hash: 4cf215ccd16afeee
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
-title: "Laser Digital Japan — 日本暗号資産交換業者 overview"
-translated_at: 2026-06-26T08:29:09.708Z
+title: "Laser Digital Japan — 日本法人・暗号資産関連事業"
+translated_at: 2026-07-29T11:28:13Z
 ---
 
-# Laser Digital Japan — 日本暗号資産交換業者 overview
+# Laser Digital Japan — 日本法人・暗号資産関連事業
 
 
 ## ウィキ上の位置づけ
 
 本項目は [[exchanges/INDEX|exchanges index]] 配下に位置づける。隣接文脈は [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]]、より広い制度境界は [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] と併読する。
 
-> JVCEA 第二種会員 #2037 · 代表取締役: 工藤英明 · 親会社: Laser Digital Holdings AG（野村ホールディングス 100% 子会社）
+> JVCEA 第二種会員 #2037 · 代表取締役: 工藤英明 · 日本法人の公式説明: Laser Digital グループへの運営サービス提供
 
 ## 1. 法人・株主
 
 - **商号**: Laser Digital Japan（英文同一）
-- **設立**: 2023 年（年度詳細公表なし）
+- **設立**: 2023年10月2日
 - **本店所在地**: 東京都江東区豊洲 2-2-1 豊洲ベイサイドクロスタワー
-- **直接親会社**: Laser Digital Holdings AG（スイス・チューリッヒ登記、会社番号 CHE-439.243.745）
-- **最終親会社**: 野村ホールディングス株式会社（東証プライム: 8604）。野村 HD が 2022-09 に Laser Digital Holdings AG を設立し、同グループを傘下に収めた。
-- **資本比率**: 野村 HD が Laser Digital Holdings AG を 100% 保有（公表）。日本法人の具体的出資比率は公表なし。
+- **資本金**: 1億円
+- **グループ関係**: 公式サイトは Laser Digital Japan を Laser Digital の日本子会社と説明し、野村が 2022 年に Laser Digital を設立したとする。日本法人の直接株主名・出資比率は同社の会社概要ページに掲載されていないため、Laser Digital Holdings AG の直接 100% 子会社とは断定しない。
 
 ## 2. 牌照・登録状況
 
 - **JVCEA 第二種会員**: 会員番号 #2037（取引所形式の暗号資産交換業登録は非保有）
-- **暗号資産交換業（FSA 登録）**: 2025-10 時点で FSA との事前協議段階（Bloomberg 報道）。2026-05-18 現在、JVCEA 会員一覧に取引所業務登録番号の記載なし。FSA 登録状況の確定には XLSX 原表の直接確認が必要。
-- **金融商品取引業**: 有無は公表資料から確認できず（「公表なし」）。
+- **暗号資産交換業（FSA 登録）**: 令和8年4月1日（2026-04-01）snapshot および 2026-07-29 取得の FSA 登録一覧に Laser Digital Japan の掲載はない。第二種会員資格を暗号資産交換業登録と同一視しない。
+- **金融商品取引業**: 2026-07-29 に確認した同社会社概要には金融商品取引業の登録番号が掲載されていない。
 - **グループ他拠点ライセンス**: Laser Digital Middle East FZE（Dubai VARA VL/23/06/001）、Laser Digital UK Ltd（FCA FRN 1000108）、ADGM Financial Services Permission（2026 取得）。
 
 ## 3. 取扱通貨
 
-- 機関投資家向け OTC ・市場造成中心の業態のため、一般小売口座での取扱銘柄リストは公表なし。
-- グループレベルでは BTC / ETH 等主要銘柄を対象とした取引・ファンド商品を提供。
-- 日本法人は現状「グループへの運営サービス提供」役割が主であり、直接の小売取引は行っていない。
+- 日本法人の公式「暗号資産取引説明書」「取扱暗号資産概要説明書」は 2026-07-29 時点でいずれも「coming soon」と表示され、取扱銘柄を掲載していない。
+- グループの商品説明と日本法人の提供サービスを混同しない。日本法人の公式説明は「グループへの運営サービス提供」である。
 
 ## 4. 業務範囲
 
-- **トレーディング（OTC / 市場造成）**: Laser Digital グループとして OTC 取引・トークン市場造成・流動性提供を提供。API および GUI 経由で機関向け二方向価格ストリームを提供。
-- **資産運用**: Bitcoin Adoption Fund（2023 年開始）を Bitcoin Diversified Yield Fund SP（BDYF、2026-01 アップグレード）として刷新。ケイマン籍、機関投資家・適格投資家限定。
-- **ソリューション（クロスアセット / トレジャリー管理）**: TradFi × 暗号資産の融合ファイナンス・ソリューション。
-- **アーリーステージ投資**: デジタル資産エコシステム企業への直接出資・インキュベーション（KAIO トークン化プラットフォーム等）。
-- **日本法人（LDJ）の位置付け**: グループへの運営サービス提供機能。国内金融機関・暗号資産取引業者向けブローカー・ディーラー業務展開を計画（Bloomberg 2025-10 報道）。
+- **グループの業務**: Laser Digital は機関向けトレーディング、資産運用、ソリューションおよびアーリーステージ投資を掲げる。
+- **日本法人（LDJ）の公表業務**: Laser Digital グループへの運営サービス提供。日本向けサイトは取引関連文書の導線を設けているが、2026-07-29 時点で説明書は未掲載であり、FSA 暗号資産交換業者一覧にも載っていない。
+- **調査・規制協力**: 2026 年に野村との機関投資家調査を公表し、FSA FinTech PoC Hub 支援の AML 実証へ参加した。
 
 ## 5. 市占・取引高
 
-- 取引高・口座数ともに非公表（機関専業のため）。
-- 顧客層：機関投資家・適格認定投資家に特化。日本国内の一般個人向け取引サービスは現時点で未提供。
-- 競合内ポジション：機関向け digital asset 専業（Crypto Garage と並ぶ野村 HD の暗号資産エンティティ）。リテール取引量ランキング対象外。
+- 日本法人について比較可能な取引高・口座数は公式資料に掲載されていない。グループ全体の機関向け商品を日本法人の実績として集計しない。
+- 日本法人は FSA 登録交換業者一覧に掲載されていないため、国内登録取引所のリテール取引量ランキング対象として扱わない。
 
 ## 6. 沿革・重大事件
+
+以下の表は Laser Digital Japan の会社概要・日本サイトの公表、JVCEA 会員一覧および FSA 登録一覧で確認できる日本法人とグループの節目を区別して記載する。^[Sources: https://www.laserdigital.com/japan/information/company-outline; https://www.laserdigital.com/japan/en/information/about-laser-digital-japan; https://www.laserdigital.com/japan/ja; https://jvcea.or.jp/member/; https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx.]
 
 | 時期 | 内容 |
 |------|------|
 | 2022-09 | 野村 HD が Laser Digital Holdings AG をスイスで設立。 |
-| 2023 | 日本法人（Laser Digital Japan）設立。 |
+| 2023-10-02 | 日本法人（Laser Digital Japan）設立。工藤英明を代表取締役に掲載。 |
 | 2023 | ドバイで VARA ライセンス取得（グループ）。 |
 | 2023 | Bitcoin Adoption Fund 開始（グループ）。 |
 | 2025-10 | Bloomberg が「日本法人での FSA 暗号資産交換業登録を目指し金融庁と事前協議中」と報道。 |
@@ -69,15 +66,15 @@ translated_at: 2026-06-26T08:29:09.708Z
 | 2026-02-27 | LDJ が日立製作所主導・FSA FinTech PoC Hub 支援の暗号資産 AML 実証実験（16 社参加、2026-03〜05）への参加を発表。 |
 | 2026-04-16 | 野村 HD × Laser Digital 共同「2026 機関投資家デジタル資産投資動向調査」公表。 |
 | 2026-05-14 | Quadra（機関向け統合取引エコシステム）との戦略統合を発表。 |
-| 2026 現在 | JVCEA 第二種会員 #2037 として登録済み。 |
+| 2026-07-29 | JVCEA 第二種会員 #2037。FSA 暗号資産交換業者一覧には掲載なし。 |
 
 ## 7. 戦略動向
 
-- **[[securities-firms/nomura-hd|野村グループ]] digital asset 戦略の中核**: [[exchanges/jp-exchange-crypto-garage|Crypto Garage]]（野村 × MUFG × エスビーアイ JV 系）とは異なり、Laser Digital は野村 HD が 100% 直接設立・保有するグローバルデジタル資産専業子会社。グループ全体として機関向けトレード・AM・カストディの生態系構築を推進。
+- **[[securities-firms/nomura-hd|野村グループ]]の digital asset 事業**: 野村が設立した Laser Digital グループは機関向けトレーディング、資産運用、ソリューション、投資を掲げる。日本法人の直接株主比率は会社概要に掲載されていない。[[exchanges/jp-exchange-crypto-garage|Crypto Garage]] はデジタルガレージと東京短資を主要株主とする別法人であり、「野村 × MUFG × SBI の JV」とは位置付けない。
 - **[[exchanges/jp-custody-komainu|Komainu]] との役割分担**: Komainu（2018 年設立、野村 × CoinShares × Ledger の JV）はカストディ・インフラ担当。Laser Digital は取引・資産運用担当。Komainu Board に Laser Digital の Steve Ashley・Jez Mohideen（CEO）が参画し、両社の密接な連携体制を示す。
-- **BDYF（natively tokenized BTC yield fund）**: 2025-2026 年の主力商品。Cayman 籍で初のネイティブ・トークン化 BTC 利回りファンドと位置付け。
+- **グループ商品**: BDYF などのファンドに関する「初」「ネイティブ・トークン化」等の表現はグループ発表の商品説明として扱い、日本法人の直接提供商品とは断定しない。
 - **米国国法信託銀行申請（2026-01）**: OCC への de novo 申請により、米国での カストディ・spot 取引に向けた布石。
-- **日本法人の機能進化**: 2025-10 時点での「FSA 登録目指し事前協議中」から、JVCEA Type 2 加盟を経て本格的な国内業務拡大フェーズへ移行中と見られる。国内 FSA 登録番号の公表状況に引き続き注目が必要。
+- **日本法人の公開準備状況**: 日本向けサイトに取引文書の導線はあるが 2026-07-29 時点で本文は「coming soon」。JVCEA 第二種会員資格を FSA 登録の進捗完了とは解釈しない。
 - **AML × 規制協力**: 2026-02 の FSA FinTech PoC Hub 参画は、規制当局との協調路線を明確化した動き。
 
 ## 8. 関連人物
@@ -99,10 +96,10 @@ translated_at: 2026-06-26T08:29:09.708Z
 
 ## 出典
 
-- [Laser Digital 公式サイト — グループ概要](https://laserdigital.com/)（取得 2026-05-18）
-- [Laser Digital Japan AML PoC 参加プレスリリース](https://laserdigital.com/company-news/laser-digital-japan-to-participate-in-hitachi-led-aml-framework-project-for-digital-assets-supported-by-the-jfsas-fintech-poc-hub/)（取得 2026-05-18）
-- [Laser Digital Company News Archive](https://laserdigital.com/company-news/)（取得 2026-05-18）
-- [JVCEA 会員一覧](https://jvcea.or.jp/member/)（取得 2026-05-18）
+- [Laser Digital Japan 会社概要](https://www.laserdigital.com/japan/information/company-outline)（取得 2026-07-29）
+- [About Laser Digital Japan](https://www.laserdigital.com/japan/en/information/about-laser-digital-japan)（取得 2026-07-29）
+- [Laser Digital Japan 日本サイト](https://www.laserdigital.com/japan/ja)（取得 2026-07-29）
+- [JVCEA 会員一覧](https://jvcea.or.jp/member/)（取得 2026-07-29）
 - [FSA 暗号資産交換業者登録一覧 Excel](https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx)（snapshot 令和 8 年 4 月 1 日 = 2026-04-01）
 - [CoinPost: 野村 HD 傘下 Laser Digital、日本法人で暗号資産交換業登録を目指す](https://coinpost.jp/?p=655580)（取得 2026-05-18）
 - [CoinPost: 野村、仮想通貨関連事業で損失計上も「中長期育成」を堅持](https://coinpost.jp/?p=685975)（取得 2026-05-18）

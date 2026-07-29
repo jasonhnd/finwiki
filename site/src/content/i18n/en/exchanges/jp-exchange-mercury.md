@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-exchange-mercury
-source_hash: 843579db325c9880
+source_hash: abad3d9905a082ba
 lang: en
 status: machine
 fidelity: ok
 title: "Mercury Inc. (CoinTrade) — Japanese crypto-asset exchange operator overview"
-translated_at: 2026-05-31T05:31:05.794Z
+translated_at: 2026-07-29T11:50:43.000Z
 ---
 
 # Mercury Inc. (CoinTrade) — Japanese crypto-asset exchange operator overview
@@ -24,7 +24,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - **Established**: 2017年9月1日
 - **Head office**: Shibuya Infoss Tower 12F, 20-1号 Sakuragaoka-cho, Shibuya-ku, Tokyo (〒150-0031)
 - **Capital**: 3,000万円 (as of end of 2025年12月)
-- **Shareholder**: Ceres Inc. (a Mothers-listed IT company; points / mobile business), invested 100% (public information; investment ratio not disclosed)
+- **Shareholder**: Ceres Inc. (100% funding at establishment)
 - **Affiliated company**: bitbank, Inc. (per official site)
 
 Ceres Inc. is a Mothers-listed company founded in 2005年 by Satoshi Motoki. Mercury was established in 2017年9月 as Ceres's crypto-asset business division.
@@ -34,11 +34,11 @@ Ceres Inc. is a Mothers-listed company founded in 2005年 by Satoshi Motoki. Mer
 - **Crypto-asset exchange business**: Kanto Local Finance Bureau Director-General 第00025号
 - **JVCEA membership type**: Type 1 (crypto-asset exchange business only; no derivatives-business registration)
 - Member associations: JVCEA · JCBA (Japan Crypto Asset Business Association) · JBA (Japan Blockchain Association) · BCCC · JPCrypto-ISAC
-- Registration for financial instruments business / electronic payment instruments business / funds-transfer business cannot be confirmed from public information
+- Within the FSA and JVCEA lists reviewed on 2026-07-29, the registration confirmed for the company in this entry is its crypto-asset exchange business registration.
 
 ## 3. Supported currencies
 
-- **Supported assets**: the official top page shows prices for BTC · ETH · XRP · LTC · BCH · ADA, confirming these as the main supported assets. The total number of supported assets is not stated on the official site (as of 2026-05-18).
+- **Supported assets**: In the official top-page snapshot retrieved on 2026-05-18, prices were displayed for BTC, ETH, XRP, LTC, BCH, and ADA. The live official screen should be used for the current full list.
 - **Staking targets**: 11 assets in total (per official site)
 - **Distinctive feature**: brokerage (販売所) format (no exchange = order-book trading offered). Differentiates as a multi-function asset-operation platform specialized in staking, lending, and recurring purchase.
 
@@ -52,40 +52,33 @@ Ceres Inc. is a Mothers-listed company founded in 2005年 by Satoshi Motoki. Mer
 - **Minimum purchase amount**: 100円
 - **Margin / derivatives**: none (FSA registration is also crypto-asset exchange business only)
 - **Corporate services**: account opening supported for both individuals and corporations (there is an "Account-Opening Flow (Corporate Customers)" document)
-- **Deposit channels**: public information mentions "JPY deposit methods · scheduled deposits." Specific channels (whether quick deposit exists) cannot be confirmed within the publicly viewable pages
+- **Deposit channels**: The official pages retrieved on 2026-05-18 describe JPY deposit methods and scheduled deposits. Use the live official FAQ for current conditions.
 - **2026-05-15 award**: won Oricon Customer Satisfaction Survey "first highly-rated company" (official announcement)
 
 ## 5. Market share / trading volume
 
-- Trading volume, account count, and AUM are not disclosed (as of 2026-05-18)
-- No figures can be obtained from the company's corporate site or JVCEA disclosure materials either
-- Among 26 社 JVCEA Type 1 members, registration number is #00025  (a latecomer in registration order)
-- Presumed a small-to-mid-scale retail-individual platform. A niche-segment strategy specialized in staking / recurring investment is evident. bitbank is a group affiliate, so infrastructure-side cooperation is possible
-- Competitive position: **niche** (no trading-volume basis; no per-company disclosure in JVCEA statistics)
+- The CoinTrade and JVCEA materials reviewed on 2026-07-29 contain no company-level trading-volume, account-count, or AUM figures on a comparable basis. This entry does not infer a market rank or scale.
 
 ## 6. History / major events
 
+The table below is limited to corporate and service milestones confirmed by company disclosures, CoinTrade's official FAQ, and the FSA register. Individual officers' appointment dates and start dates inferred from copyright notices are not used as historical evidence. ^[Sources: https://coin-trade.cc/assets/pdf/about/rule/rule20241113.pdf; https://support.coin-trade.cc/hc/ja/articles/21085480166681-CoinTrade-%E3%82%B3%E3%82%A4%E3%83%B3%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89-%E3%81%A8%E3%81%AF%E3%81%A9%E3%82%93%E3%81%AA%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%A7%E3%81%99%E3%81%8B; https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx.]
+
 | Year-month | Event |
 |------|--------|
-| 2017年9月1日 | Mercury Inc. established (Ceres Inc. invested 100%) |
-| 2017年9月 | Satoshi Motoki appointed director |
-| 2018年8月 | Hiroki Terato and Hitoshi Tada appointed director / auditor |
-| 2021年2月17日 | FSA crypto-asset exchange operator registration (Kanto Local Finance Bureau Director-General 第00025号) |
-| 2020年7月 | Satoshi Motoki appointed Representative Director and President |
-| 2021年 (inferred from Copyright notice) | CoinTrade service officially launched |
-| 2021年3月 | Takaaki Fujiwara appointed Director and Vice President |
-| 2023年3月 | Takahito Komiya appointed director |
-| 2026年5月 | Oricon Customer Satisfaction Survey "highly-rated company" first certification (official announcement 2026-05-15) |
+| September 1, 2017 | Mercury Inc. established (100% funded by Ceres Inc.) |
+| February 17, 2021 | Registered by the FSA as a crypto-asset exchange service provider (Kanto Local Finance Bureau No. 00025) |
+| March 2021 | CoinTrade crypto-asset brokerage service launched |
+| July 2022 | CoinTradeStake service launched |
+| June 2024 | CoinTradeLending service launched |
 
-No public information on administrative actions, hacks, or major outages has been confirmed as of 2026-05-18. There were announcements of deposit/withdrawal suspension measures for POL · BCH in 2026年4月-5 (presumed technical reasons on the token side; separate from FSA administrative action).
+Within the company disclosures, official FAQ, and FSA register reviewed above, this review did not identify a statement showing an administrative action, hack, or major outage. This describes the scope of the materials checked and does not assert that no such event exists.
 
 ## 7. Strategic developments
 
 - **2026年5月**: temporary deposit/withdrawal suspension handling for POL · BCH (specific cause cannot be judged from public information)
 - **2026年4月-5**: rolled out a self-organized event series including Fukuoka (user-acquisition / education type)
 - A clear staking-strengthening path. Expanding awareness centered on individual investors via columns and media exposure
-- Details of capital / technical cooperation with bitbank are undisclosed. The official site has a link to bitbank MARKETS
-- No public information on IPO / M&A
+- CoinTrade's official pages describe staking, lending, and recurring-purchase services. This entry does not infer group cooperation or capital measures beyond those disclosures.
 
 ## 8. Related people
 

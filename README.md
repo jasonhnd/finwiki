@@ -8,12 +8,12 @@ FinWiki は、金融、決済、ステーブルコイン、暗号資産、資本
 
 | Metric | Current snapshot | Notes |
 |---|---:|---|
-| Markdown files | 1605 | Public corpus, control docs, templates, and release notes |
+| Markdown files | 1606 | Public corpus, control docs, templates, and release notes |
 | Topical domains | 40 | Domain directories listed in [INDEX.md](INDEX.md) |
 | Link-audited entries | 1489 | Entries checked by `tools/wiki_link_audit.ts` |
 | Unresolved link issues | 0 | Must stay at zero before release |
-| Text volume | 約1085万字 | Markdown 全体の空白除外 UTF-8 文字数（約 10,850,093） |
-| Word-like tokens | 約175万 | English / CJK mixed corpus の近似 token count |
+| Text volume | 約1083万字 | Markdown 全体の空白除外 UTF-8 文字数（約 10,828,713） |
+| Word-like tokens | 約174万 | English / CJK mixed corpus の近似 token count |
 
 ### 入口
 
@@ -61,6 +61,7 @@ FinWiki は、金融、決済、ステーブルコイン、暗号資産、資本
 30. 企業戦略・組織再編・小売金融の table review では、完了済み、予定、条件付きの状態を分離し、所有、議決権、連結、持分法、商品提供、販売チャネルを同一視しません。会社法上の手続と税務上の適格 / 非適格判断は別々に公式一次資料へ結び、単一比率や対価だけで支配・税務結果を断定しません。mirror は heading / table に加えて list marker と blockquote shape、否定・条件表現も検証します。
 31. カード、消費者金融、リース、ポイントの table review では、ブランドと法人、株主と親会社、連結と持分法、決済手段と登録区分、ポイント残高と会計上の負債を分離します。会社概要だけで他社比較や精緻 KPI を支えず、公開されない settlement、liability migration、収益認識を確定事実にしません。公式会社概要・沿革・株主情報、規制当局の一覧、商品規約、発行会社の財務注記を table scope ごとに結び、開示されない部分は条件付き分析または削除とします。
 32. デリバティブ・証券化の table review では、取引所の現行 contract specification と市場慣行・推定値、fallback protocol の対象 benchmark と実際の cessation trigger、法的 vehicle と税務・会計結果、JHF 自身の元利金適時支払義務と guarantee / subordination を分離します。JPX、BOJ、FSA、ISDA、JHF、法令、deal-specific rating report の基準日と対象を明示し、vintage のない spread、発行量、格付、waterfall、leverage を一般的な確定値にしません。
+33. 暗号資産取引所・VASP・カストディの table review では、brand、運営法人、規制上の登録・警告、サービス提供状況、legacy / exited status を日付付きで分離します。規制当局の registry / notice、運営会社の公式 disclosure・product terms、incident / restructuring disclosure を table scope ごとに結び、aggregator や generic homepage だけで global ranking、volume、対応資産数、固定 fee / latency、insurance / custody guarantee を支えません。cross-country matrix は法的 perimeter と vintage を揃え、hack、bankruptcy、M&A、撤退は発生日・完了日・条件を区別し、未開示の dynamic metric は確定事実にしません。
 
 ### 検証
 
@@ -81,12 +82,12 @@ FinWiki is a public Markdown knowledge base covering finance, payments, stableco
 
 | Metric | Current snapshot | Notes |
 |---|---:|---|
-| Markdown files | 1605 | Public corpus, control docs, templates, and release notes |
+| Markdown files | 1606 | Public corpus, control docs, templates, and release notes |
 | Topical domains | 40 | Domain directories listed in [INDEX.md](INDEX.md) |
 | Link-audited entries | 1489 | Entries checked by `tools/wiki_link_audit.ts` |
 | Unresolved link issues | 0 | Must stay at zero before release |
-| Text volume | ~10.85M chars | ~10,850,093 non-space UTF-8 characters across Markdown |
-| Word-like tokens | ~1.75M | Approximate English / CJK mixed-corpus token count |
+| Text volume | ~10.83M chars | ~10,828,713 non-space UTF-8 characters across Markdown |
+| Word-like tokens | ~1.74M | Approximate English / CJK mixed-corpus token count |
 
 ### Entrances
 
@@ -134,6 +135,7 @@ FinWiki is a public Markdown knowledge base covering finance, payments, stableco
 30. Table review for corporate strategy, reorganizations, and retail finance separates completed, scheduled, and conditional states and does not collapse ownership, voting rights, consolidation, equity-method accounting, product provision, and distribution channels into one relationship. Tie Companies Act procedure and qualified / non-qualified tax analysis separately to official primary sources; a single percentage or consideration form does not determine control or tax outcome. Mirror validation also checks list markers, blockquote shape, negation, and conditional language.
 31. Table review for cards, consumer finance, leasing, and loyalty points separates brands from legal entities, shareholders from parents, consolidation from equity-method treatment, payment instruments from registration categories, and point balances from accounting liabilities. A company profile alone does not support peer comparisons or precise KPIs, and undisclosed settlement, liability migration, or revenue recognition is not stated as fact. Tie each table scope to official profiles, histories, shareholder disclosures, regulator lists, product terms, and issuer financial notes; express undisclosed mechanics only as conditional analysis or remove them.
 32. Table review for derivatives and securitization separates current exchange contract specifications from market convention or estimates, benchmarks covered by a fallback protocol from an actual cessation trigger, legal vehicles from tax or accounting outcomes, and JHF's own direct and timely principal-and-interest payment obligation from guarantees or subordination. State the date and scope of JPX, BOJ, FSA, ISDA, JHF, statutory, and deal-specific rating evidence; do not present spreads, issuance volumes, ratings, waterfalls, or leverage without a defined vintage as general fixed values.
+33. Table review for crypto exchanges, VASPs, and custody separates the brand, operating legal entity, regulatory registration or warning, service availability, and legacy or exited status with explicit dates. Bind regulator registries and notices, operator disclosures and product terms, and incident or restructuring disclosures to each table scope; an aggregator or generic homepage does not establish global rank, volume, supported-asset count, fixed fees or latency, or an insurance or custody guarantee. Cross-country matrices align legal perimeter and vintage, hacks, bankruptcies, M&A, and exits distinguish event, completion, and condition dates, and undisclosed dynamic metrics are not stated as established facts.
 
 ### Validation
 
@@ -154,12 +156,12 @@ FinWiki 是一个公开 Markdown 知识库，覆盖金融、支付、稳定币�
 
 | Metric | Current snapshot | Notes |
 |---|---:|---|
-| Markdown files | 1605 | 公开 corpus、控制文档、模板与 release notes |
+| Markdown files | 1606 | 公开 corpus、控制文档、模板与 release notes |
 | Topical domains | 40 | [INDEX.md](INDEX.md) 中列出的领域目录 |
 | Link-audited entries | 1489 | 经 `tools/wiki_link_audit.ts` 检查的条目 |
 | Unresolved link issues | 0 | 发布前必须保持为零 |
-| Text volume | 约1085万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 10,850,093） |
-| Word-like tokens | 约175万 | English / CJK mixed corpus 的近似 token count |
+| Text volume | 约1083万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 10,828,713） |
+| Word-like tokens | 约174万 | English / CJK mixed corpus 的近似 token count |
 
 ### 入口
 
@@ -207,6 +209,7 @@ FinWiki 是一个公开 Markdown 知识库，覆盖金融、支付、稳定币�
 30. 复核企业战略、组织重组与零售金融表格时，必须分离已完成、计划中和附条件状态，不得把所有权、表决权、合并范围、权益法、产品提供与销售渠道混为一种关系。公司法程序与税务适格 / 非适格判断必须分别连接官方一手资料，不能凭单一比例或对价形式断定控制权或税务结果。mirror 还必须验证 list marker、blockquote shape、否定和条件表达。
 31. 复核卡片、消费金融、租赁与积分表格时，必须区分品牌与法人、股东与母公司、合并范围与权益法、支付工具与登记类别、积分余额与会计负债。公司概要不能单独支撑多公司比较或精确 KPI，未公开的 settlement、liability migration 与收入确认不得写成确定事实。每张表都要连接官方公司概要、沿革、股东披露、监管名单、产品条款与发行人财务注释；未披露机制只能作为附条件分析，或直接删除。
 32. 复核衍生品与证券化表格时，必须区分交易所当前 contract specification 与市场惯例或估算、fallback protocol 覆盖的 benchmark 与实际 cessation trigger、法律 vehicle 与税务或会计结果、JHF 自身及时支付本息的义务与 guarantee / subordination。应写明 JPX、BOJ、FSA、ISDA、JHF、法令及 deal-specific rating report 的日期与适用范围，不把缺少 vintage 的 spread、发行量、评级、waterfall 或 leverage 写成通用固定值。
+33. 复核加密资产交易所、VASP 与托管表格时，必须按日期区分 brand、运营法人、监管登记或警告、服务可用状态，以及 legacy / exited status。每张表都要连接监管 registry / notice、运营方官方 disclosure 与 product terms、incident / restructuring disclosure；aggregator 或 generic homepage 不能单独证明 global ranking、volume、支持资产数量、固定 fee / latency，或 insurance / custody guarantee。跨国 matrix 必须对齐法律 perimeter 与 vintage；hack、bankruptcy、M&A 与退出要区分事件日、完成日和条件，未披露的 dynamic metric 不得写成确定事实。
 
 ### 验证
 

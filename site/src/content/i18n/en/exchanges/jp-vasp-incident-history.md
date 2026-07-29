@@ -1,44 +1,47 @@
 ---
 source: exchanges/jp-vasp-incident-history
-source_hash: ef95a12cb2378e51
+source_hash: 8ff3ab837d160b52
 lang: en
 status: machine
 fidelity: ok
 title: "Japan Domestic VASP Crypto Asset Breach History (2014-2026)"
-translated_at: 2026-05-31T06:16:15.688Z
+translated_at: 2026-07-29T11:50:43.000Z
 ---
 
 # Japan Domestic VASP Crypto Asset Breach History (2014-2026)
 
 ## Overview
 
-The history of domestic VASPs in Japan has been shaped by major asset breach incidents that have driven regulatory progress. Mt.Gox (2014) triggered the amendment of the Payment Services Act; Coincheck (2018) was the starting point for the establishment of the self-regulatory organization JVCEA and the mandatory cold storage ratio requirement; DMM Bitcoin (2024) was a large-scale incident in which the North Korean Lazarus attribution was officially confirmed by public authorities, leading to the transfer of business to SBI VC Trade. Breaches have not been isolated events — they have recurred in a cycle accompanied by "regulatory reflection" in the form of hot wallet 5% caps and mandatory segregation of client assets.
+This entry organizes major asset-loss incidents affecting Japanese exchange operators or domestic customers, limited to amounts, asset quantities, and outcomes confirmed by public authorities and the companies involved. It presents the chronology of incidents, legislation, and self-regulation, but does not claim that a single incident caused a specific rule unless an official source states that relationship.
 
 ## Major Incident Timeline
 
+Amounts are contemporaneous estimates; crypto-asset quantities and yen conversions are kept distinct. The table uses public materials for Mt.Gox, Coincheck, Zaif, BITPoint, and DMM Bitcoin. A Liquid incident from a different period is excluded because it could not be established on the same basis. ^[Sources: https://www.fsa.go.jp/news/30/virtual_currency/20180308.html; https://www.fsa.go.jp/news/30/virtual_currency/20180925.html; https://www.remixpoint.co.jp/corporate/press/2019/; https://www.npa.go.jp/bureau/cyber/koho/caution/caution20241224.html; https://www.dmm.com/bitcoin/news/20241202_01.html.]
+
 | Date | VASP | Breach scale | Outcome |
 |------|------|---------|------|
-| 2014-02  | Mt.Gox | Approx. 850,000  BTC (approx. 470 億円 at the time) | Civil rehabilitation → bankruptcy → ongoing legal resolution; triggered 2017  Payment Services Act amendment |
-| 2018-01  | [[exchanges/jp-exchange-coincheck]] | Approx. 580 億円 (5.2 億 XEM) | Establishment of JVCEA (2018-04), FSA business improvement order, acquisition by Monex Group |
-| 2018-09  | [[exchanges/jp-exchange-zaif]] (formerly Tech Bureau) | Approx. 70 億円 | Business transferred to Fisco Digital Asset Group |
-| 2019-07  | BITPoint Japan | Approx. 35 億円 | Rebuilt under Laser Tech |
-| 2019-09  | Liquid (QUOINE) | Approx. 105 億円 (two-stage breach) | Acquired by FTX → FTX collapse → business succeeded by [[exchanges/jp-exchange-custodiem]] |
-| 2024-05  | [[exchanges/jp-exchange-dmm-bitcoin]] | 4,502.9  BTC approx. 482 億円 | FBI / National Police Agency jointly attributed to Lazarus / TraderTraitor; cessation of business → transfer to SBI VC Trade (2025) |
+| 2014-02 | Mt.Gox | About 850,000 BTC (reported as about 750,000 customer BTC and 100,000 company BTC) | Legal proceedings followed, ultimately under civil rehabilitation |
+| 2018-01 | [[exchanges/jp-exchange-coincheck]] | About 523 million XEM, then approximately ¥58 billion | FSA business-improvement order; later acquired by Monex Group |
+| 2018-09 | [[exchanges/jp-exchange-zaif]] (former Tech Bureau) | Approximately ¥6.7 billion | FSA business-improvement order; Zaif business transferred to Fisco Cryptocurrency Exchange |
+| 2019-07 | BITPoint Japan | Approximately ¥3.02 billion | Then-parent Remixpoint disclosed the incident and implemented service suspension and resumption measures |
+| 2024-05 | [[exchanges/jp-exchange-dmm-bitcoin]] | 4,502.9 BTC, then approximately ¥48.2 billion | NPA and partners attributed the theft to TraderTraitor; customer accounts and entrusted assets transferred to SBI VC Trade |
 
 ## Regulatory Reflection (3  Phases)
 
-1. **Phase 1 (2017  Payment Services Act amendment)** — In response to Mt.Gox, introduced VASP registration system and defined crypto assets as a "payment method"
-2. **Phase 2 (2018-2020  self-regulation + operator discipline)** — Following the successive Coincheck/Zaif incidents, JVCEA was designated a certified self-regulatory organization. Hot wallet client asset 5% cap, cold storage 95% requirement, and mandatory segregation of assets (trust or individual management) introduced
-3. **Phase 3 (2020  Financial Instruments and Exchange Act amendment)** — Crypto asset derivatives brought under the FIEA framework; internal management systems and cyber-resilience requirements strengthened
+1. **2017 Payment Services Act amendment** — Introduced the registration framework for crypto-asset exchange operators
+2. **2018-2020 self-regulation and operator rules** — JVCEA became a certified association under the Payment Services Act; legislation and self-regulation developed customer-asset management and performance-guarantee crypto assets corresponding to online holdings
+3. **2020 FIEA and related amendments** — Brought crypto-asset derivatives into the Financial Instruments and Exchange Act framework and amended customer-asset rules for exchange operators
+
+These phases show the order in which the frameworks took effect, not a one-to-one causal relationship with individual incidents.
 
 ## Significance of the Lazarus Attribution
 
-The DMM Bitcoin incident (2024-05) is the first large-scale Japanese VASP case officially attributed to the North Korean Lazarus Group's sub-unit TraderTraitor through a joint statement by the FBI, the US Treasury Department, and the National Police Agency. The attack method was a social-engineering plus supply-chain hybrid: attackers impersonated recruiters on LinkedIn to infiltrate an engineer at outsourced contractor [[exchanges/jp-custody-ginco]], then stole signing keys. Unlike risks from unregistered overseas operators, this incident exposed the risk of key exfiltration from within registered VASPs — a distinct category of "compliance boundary-external risk."
+For the DMM Bitcoin incident, Japan's National Police Agency published a joint statement with the FBI and the US Department of Defense Cyber Crime Center attributing the activity to TraderTraitor, associated with North Korean authorities. The statement describes attackers approaching an employee of contractor [[exchanges/jp-custody-ginco]] under the guise of recruitment, inducing execution of a malicious Python script, and abusing session information from a communications system to manipulate a transaction request. It does not state that the signing key itself was stolen.
 
 ## Related
 
 - [[exchanges/jp-exchange-coincheck]] · [[exchanges/jp-exchange-zaif]] · [[exchanges/jp-exchange-custodiem]] · [[exchanges/jp-exchange-dmm-bitcoin]]
-- [[exchanges/jp-foreign-exchange-bitforex]] — Overseas exit scam parallel cases
+- [[exchanges/jp-foreign-exchange-bitforex]] — Record of an overseas operator warned for unregistered business in Japan
 - [[fintech/japan-financial-regulation]] — Payment Services Act / FIEA framework
 - [[exchanges/jp-custody-ginco]] — DMM incident intrusion vector
 

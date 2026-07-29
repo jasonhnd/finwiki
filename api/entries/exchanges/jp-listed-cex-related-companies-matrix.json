@@ -23,9 +23,9 @@
     "domain": "exchanges",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-19",
-    "last_tended": "2026-06-23",
-    "review_by": "2026-08-07",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "exchanges",
@@ -38,8 +38,10 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.jpx.co.jp/",
-      "https://www.nasdaq.com/"
+      "https://www.monexgroup.jp/en/group_companies/ccg.html",
+      "https://www.gmo.jp/en/company-profile/outline/",
+      "https://www.sbigroup.co.jp/company/group/sbivc.html",
+      "https://www.jngroup.jp/wp-content/uploads/2025/02/kaiji_20250208.pdf"
     ]
   },
   "summary": "This entry sits under exchanges index. Read it against 国内 VASP 親会社・株主構造マップ — 三分類 + 大手金融グループ系列 for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
@@ -48,52 +50,42 @@
     "Wiki route",
     "概要",
     "自社・直接親会社 上場マトリックス",
-    "海外上場 親会社経由",
+    "歴史的な上場ルート",
     "投資家含意"
   ],
   "body_links": {
-    "wikilinks_count": 20,
+    "wikilinks_count": 15,
     "wikilinks": [
       "exchanges/INDEX",
       "exchanges/fsa-vasp-registration-system",
-      "exchanges/jp-exchange-coinbase-japan",
       "exchanges/jp-exchange-coincheck",
       "exchanges/jp-exchange-gmo-coin",
-      "exchanges/jp-exchange-laser-digital-japan",
       "exchanges/jp-exchange-mercury",
-      "exchanges/jp-exchange-monex",
       "exchanges/jp-exchange-money-partners",
       "exchanges/jp-exchange-osl-japan",
       "exchanges/jp-exchange-sbi-vc-trade",
-      "exchanges/jp-exchange-tokyo-hash",
       "exchanges/jp-exchange-traders-securities",
       "exchanges/jp-exchange-zaif",
       "exchanges/jp-vasp-ma-consolidation-history",
       "exchanges/jp-vasp-parent-company-map",
       "megabanks/sbi-hd",
-      "payment-firms/bitflyer",
       "payment-firms/gmo-financial-hd",
       "securities-firms/monex-group"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/ja/domains/exchanges/",
       "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
-      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-coinbase-japan/",
       "https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/",
       "https://finwiki.zksc.io/ja/exchanges/jp-exchange-gmo-coin/",
-      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-laser-digital-japan/",
       "https://finwiki.zksc.io/ja/exchanges/jp-exchange-mercury/",
-      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-monex/",
       "https://finwiki.zksc.io/ja/exchanges/jp-exchange-money-partners/",
       "https://finwiki.zksc.io/ja/exchanges/jp-exchange-osl-japan/",
       "https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/",
-      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-tokyo-hash/",
       "https://finwiki.zksc.io/ja/exchanges/jp-exchange-traders-securities/",
       "https://finwiki.zksc.io/ja/exchanges/jp-exchange-zaif/",
       "https://finwiki.zksc.io/ja/exchanges/jp-vasp-ma-consolidation-history/",
       "https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/",
       "https://finwiki.zksc.io/ja/megabanks/sbi-hd/",
-      "https://finwiki.zksc.io/ja/payment-firms/bitflyer/",
       "https://finwiki.zksc.io/ja/payment-firms/gmo-financial-hd/",
       "https://finwiki.zksc.io/ja/securities-firms/monex-group/"
     ],
@@ -101,9 +93,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2318,
-    "word_like_tokens": 382,
+    "nonspace_chars": 2737,
+    "word_like_tokens": 416,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-23"
+    "last_modified": "2026-07-29"
   }
 }

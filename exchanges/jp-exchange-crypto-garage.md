@@ -6,9 +6,9 @@ aliases:
   - Crypto Garage Inc
 domain: exchanges
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-06-24
-review_by: 2026-09-22
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
 confidence: likely
 tags:
   - fintech
@@ -57,17 +57,13 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 ## 3. 取扱通貨
 
-取扱銘柄数および具体的な一覧は公式サイト・公表書類上で個別列挙されておらず、公表なし。
-
-サービス設計から推察される銘柄特性：
-- **Bitcoin (BTC)** が中心的資産（R&D テーマが Bitcoin / Lightning / Liquid Network であり、BTC 建て OTC・決済がコア）
-- SETTLENET PRO は「円建てトークン（JPY 建て）× オンチェーン DvP 決済」を提供しており、日本円建てトークン（内部決済通貨）を利用
-- 同社の R&D は Discreet Log Contracts（DLC）および Liquid Network サイドチェーン資産を含む
-- リテール向け多銘柄取引所ではなく機関向け特化型のため、取扱銘柄数は少数精鋭と推定
+公式サイトは SETTLENET PRO / CUSTODY / OTC と Bitcoin・Lightning・Liquid Network の R&D を案内するが、取扱銘柄の固定一覧・固定数は掲載していない。対応資産は契約サービスと現行サービス資料で確認し、研究テーマから取扱銘柄数を推定しない。
 
 ## 4. 業務範囲
 
 同社は **リテール向けスポット取引所ではなく**、機関・法人向けデジタルアセット・インフラに特化した事業者（自称："regulated institutional digital assets infrastructure company"）。主要サービスラインは以下のとおり：
+
+以下の表は Crypto Garage の現行サービスページに基づく。開始時期・機能・対象顧客は各サービスの公式説明を優先し、未掲載機能を推定しない。^[Sources: https://cryptogarage.co.jp/services/pro/; https://cryptogarage.co.jp/services/custody/; https://cryptogarage.co.jp/services/otc/; https://cryptogarage.co.jp/services/rd/.]
 
 | サービス | 内容 |
 |----------|------|
@@ -82,11 +78,13 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 ## 5. 市占・取引高
 
-- 取引高・口座数はいずれも **公表なし**
+- 2026-07-29 に本輪で列明した Crypto Garage 公式・FSA・JVCEA 資料の範囲では、取引高・口座数の開示を識別していない。これは不存在を断定するものではない
 - **顧客層**：機関投資家・事業法人・暗号資産取引所・流動性プロバイダー・富裕層・ファミリーオフィス・運用会社に特化。一般リテール投資家向けサービスは提供していない
-- 市場ポジション：リテール取引量競争には参加していない **ニッチ（機関向けインフラ）** プレイヤー。取扱数十社程度の法人クライアントを対象とすると推察されるが、定量データ非公表
+- 市場ポジション：公式資料は機関・法人向けインフラを主対象としている。顧客社数や市場順位は公表値なしに推定しない
 
 ## 6. 沿革・重大事件
+
+以下の表は Crypto Garage の公式 About・ニュース一覧と FSA/JVCEA 登録資料で直接確認できる節目に限定する。^[Sources: https://cryptogarage.co.jp/en/about/; https://cryptogarage.co.jp/news/; https://jvcea.or.jp/member/; https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx.]
 
 | 年月 | 事項 |
 |------|------|
@@ -107,15 +105,15 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 | 2025-08 | Pacific Meta と企業の暗号資産保有支援コンサルティングパッケージ共同開発・提供開始 |
 | 2025-12 | IEEE Blockchain 2025 で Custodial Wallet に関する論文採択 |
 
-行政処分・ハック・システム障害等の重大事件：公表なし（2024年6月「他社暗号資産流出に係る当社の対応について」は他社事案への言及であり、同社固有の事故ではない）。
+2026-07-29 に本輪で列明した Crypto Garage 公式・FSA・JVCEA 資料の範囲では、行政処分・ハック・重大システム障害の記録を識別していない。これは不存在を断定するものではない。2024年6月の「他社暗号資産流出に係る当社の対応」は他社事案への言及である。
 
 ## 7. 戦略動向
 
-- **機関向け × Bitcoin ネイティブ** の路線を一貫維持。SETTLENET PRO は暗号資産インターディーラー市場という国内唯一クラスのニッチポジションを確立
+- **機関向け × Bitcoin ネイティブ** の路線を公式サービス・R&D ページで継続。SETTLENET PRO は暗号資産インターディーラー向けと説明されるが、市場順位は断定しない
 - **Blockstream / Liquid Network との協業**：公式サイト "Backed By" セクションに Blockstream が掲載。R&D テーマが Bitcoin・Lightning・Liquid Network に特化しており、Liquid Network サイドチェーン技術の日本市場における主要普及パートナーとしての役割が示唆される（Blockstream との具体的出資額・契約内容は非公表）
 - **野村グループ × Komainu 連携**（2023年11月）：機関投資家向けカストディ・サービス領域での協業。[[exchanges/jp-custody-komainu|Komainu]]（[[securities-firms/nomura-hd|野村 HD]] × Ledger × CoinShares の合弁カストディアン）との連携により、グローバルレベルの機関向けインフラ整備を進める（同社のポジションは [[exchanges/jp-institutional-custody-three-pillars|JP institutional custody 三本柱]] と [[exchanges/jp-crypto-market-maker-otc-layer|JP crypto market maker / OTC レイヤー]] で詳述）
 - **web3 開発受託の拡張**：2024年以降、日産自動車・日本英語検定協会・スカパー JSAT・岩手県紫波町など非 crypto 領域へのブロックチェーン開発支援案件が増加。mahola API を通じた開発者向けビジネスラインを多角化
-- **直近 12 ヶ月（2025年5月基準）**：Pacific Meta との暗号資産保有コンサルティング共同提供（2025年8月）、IEEE Blockchain 2025 論文採択（2025年12月）。IPO・海外展開に関する公開発表はなし
+- **直近の公式掲載**：Pacific Meta との暗号資産保有支援（2025年8月）や IEEE Blockchain 2025 の論文採択（2025年12月）を公式ニュースに掲載。2026-07-29 に本輪で列明した公式・FSA・JVCEA 資料の範囲では IPO・海外展開の開示を識別していないが、これは不存在を断定するものではない
 
 ## 8. 関連人物
 

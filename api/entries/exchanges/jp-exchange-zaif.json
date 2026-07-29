@@ -25,9 +25,9 @@
     "domain": "exchanges",
     "type": null,
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-06-24",
-    "review_by": "2026-08-08",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "fintech",
@@ -66,13 +66,11 @@
     "現 Zaif Inc. の法人：株式会社フィスコ・コイン → 現在（法人番号 1120101054642）"
   ],
   "body_links": {
-    "wikilinks_count": 12,
+    "wikilinks_count": 10,
     "wikilinks": [
       "exchanges/INDEX",
       "exchanges/coincheck-nem-hack-detailed-analysis",
       "exchanges/fsa-vasp-registration-system",
-      "exchanges/jp-exchange-bitflyer",
-      "exchanges/jp-exchange-coincheck",
       "exchanges/jp-vasp-incident-history",
       "exchanges/jp-vasp-ma-consolidation-history",
       "exchanges/jp-vasp-parent-company-map",
@@ -85,8 +83,6 @@
       "https://finwiki.zksc.io/ja/domains/exchanges/",
       "https://finwiki.zksc.io/ja/exchanges/coincheck-nem-hack-detailed-analysis/",
       "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
-      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/",
-      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/",
       "https://finwiki.zksc.io/ja/exchanges/jp-vasp-incident-history/",
       "https://finwiki.zksc.io/ja/exchanges/jp-vasp-ma-consolidation-history/",
       "https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/",
@@ -95,7 +91,7 @@
       "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
       "https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/"
     ],
-    "external_links_count": 10,
+    "external_links_count": 9,
     "external_links": [
       "https://corp.zaif.jp/outline/",
       "https://jvcea.or.jp/member/",
@@ -105,14 +101,13 @@
       "https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=1120001184556",
       "https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=1120101054642",
       "https://www.jngroup.jp/corporate/outline/",
-      "https://www.nihon-ma.co.jp/news/2025/07/15/",
       "https://zaif.jp/"
     ]
   },
   "metrics": {
-    "nonspace_chars": 5850,
-    "word_like_tokens": 1065,
-    "inbound_wikilinks_count": 8,
-    "last_modified": "2026-06-24"
+    "nonspace_chars": 5660,
+    "word_like_tokens": 989,
+    "inbound_wikilinks_count": 7,
+    "last_modified": "2026-07-29"
   }
 }

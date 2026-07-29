@@ -11,10 +11,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/cex-korbit-korea.md",
   "raw_markdown_url": "https://finwiki.zksc.io/exchanges/cex-korbit-korea.md",
   "domain": "exchanges",
-  "title": "Korbit（코빗）— 韓国初の CEX / SK Square 子会社 / 4-pair-bank exclusivity overview",
+  "title": "Korbit（코빗）— 韓国初の CEX / SK Square 出資 / Shinhan 実名口座 overview",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Korbit（코빗）— 韓国初の CEX / SK Square 子会社 / 4-pair-bank exclusivity",
+    "title": "Korbit（코빗）— 韓国初の CEX / SK Square 出資 / Shinhan 実名口座",
     "aliases": [
       "Korbit",
       "코빗",
@@ -24,9 +24,9 @@
     "domain": "exchanges",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2027-05-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "exchanges",
@@ -41,6 +41,9 @@
     "related": [],
     "note": null,
     "sources": [
+      "https://www.korbit.co.kr/company",
+      "https://www.fsc.go.kr/no010101/76638",
+      "https://www.kofiu.go.kr/kor/notification/notice.do",
       "公開情報整理 (Korbit 公식 IR / 회사 소개 페이지, korbit.co.kr)",
       "公開情報整理 (SK Square 공시 / SK 그룹 IR 자료)",
       "公開情報整理 (FSC / FIU 가상자산사업자 등록 정보, 한국 금융정보분석원)",
@@ -51,13 +54,13 @@
   },
   "summary": "This entry sits under exchanges index. Read it against 韓国 5 大 CEX 制度比較 for the Korea peer / regulatory context, Upbit / Bithumb for the closest top-tier peers, and global CEX top 10 comparison for the broader system / market boundary.",
   "headings": [
-    "Korbit（코빗）— 韓国初の CEX / SK Square 子会社 / 4-pair-bank exclusivity overview",
+    "Korbit（코빗）— 韓国初の CEX / SK Square 出資 / Shinhan 実名口座 overview",
     "Wiki route",
     "1. 法人・株主",
     "2. 登録・牌照状況（韓国制度）",
     "3. 取扱通貨",
     "4. 業務範囲",
-    "5. 市占・取引高",
+    "5. 規模情報の読み方",
     "6. 沿革・重大事件",
     "7. 戦略動向",
     "8. 業界での位置付け"
@@ -84,13 +87,17 @@
       "https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/",
       "https://finwiki.zksc.io/ja/exchanges/korea-cex-five-pillars-comparison/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 3,
+    "external_links": [
+      "https://www.fsc.go.kr/no010101/76638",
+      "https://www.kofiu.go.kr/kor/notification/notice.do",
+      "https://www.korbit.co.kr/company"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 4839,
-    "word_like_tokens": 821,
+    "nonspace_chars": 3863,
+    "word_like_tokens": 608,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-07-29"
   }
 }

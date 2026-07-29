@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-exchange-jpyc
-source_hash: 572712ecf2c9b4cb
+source_hash: 7fbae7f7d594e52d
 lang: en
 status: machine
 fidelity: ok
 title: "JPYC Inc. — Japanese-yen stablecoin issuer (funds-transfer-operator type)"
-translated_at: 2026-06-18T23:33:48.366Z
+translated_at: 2026-07-29T11:28:13Z
 ---
 
 # JPYC Inc. — Japanese-yen stablecoin issuer (funds-transfer-operator type)
@@ -26,76 +26,71 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - **Established**: 2019年11月
 - **Head office**: 〒100-0004  1-chome 6-1号 Otemachi, Chiyoda-ku, Tokyo, 4F Otemachi Building, inside FINOLAB
 - **Capital**: 1億円 (100,000,000円)
-- **Parent company / listing**: Unlisted. Major investors (disclosed): in the 2026-04  additional round, Metaplanet (TSE Growth 3350), Sumitomo Life Insurance Company, and others participated. In 2026-02 , Asteria Corporation (TSE Growth 3853) participated as lead investor in the Series B 17.8億円 and concluded a capital and business alliance.
+- **Parent company / listing**: Unlisted. The Series B first close announced on 2026-02-26 named Asteria as lead investor and said JPY 1.78 billion was planned to be raised; the second close announced on 2026-04-20 said another JPY 2.8 billion was planned from investors including Metaplanet and a Sumitomo Life fund.
 
 ## 2. License / registration status
 
-**JPYC Inc. is not a crypto-asset exchange service provider**. The company's main licenses are the following 2 件:
+**JPYC Inc. is not a crypto-asset exchange service provider**. The registrations below are confirmed by the company's registration announcement and legal notice and by the JVCEA member list. ^[Sources: https://corporate.jpyc.co.jp/news/posts/first-yen-stablecoin-jpyc; https://corporate.jpyc.co.jp/law; https://jvcea.or.jp/member/.]
 
 | Type | Registration number | Governing law |
 |------|----------|--------|
 | Funds-transfer operator | Kanto Local Finance Bureau 第00099号 | Payment Services Act, Article 37 |
 | Prepaid payment instrument (third-party type) issuer | Kanto Local Finance Bureau 第00773号 | Payment Services Act, Article 31 |
 
-- **JVCEA**: Type-I member #1042 — only the registration category "funds transfer." The JVCEA categories of crypto-asset exchange business, derivatives, and electronically recorded transferable rights handling business have not been granted.
-- It also holds a secondhand-dealer license (Tokyo Metropolitan Public Safety Commission: 第304372004277号) and secondhand-market operator license (ditto 第304372004710号) (presumed to be for NFT secondary-circulation support).
+- **JVCEA**: Type-I member #1042, category “funds transfer.” This does not signify registration as a crypto-asset exchange operator.
+- Its legal notice also lists a secondhand-dealer license (Tokyo Metropolitan Public Safety Commission No. 304372004277) and secondhand-market operator license (No. 304372004710). Their purpose is not inferred beyond the registrations shown.
 
-**Why it is not a "crypto-asset exchange business"**: JPYC has the issuance and circulation of the yen-pegged stablecoin "JPYC" as the core of its business, but that token is legally classified as an "electronically recorded transferable right (amended Payment Services Act, Article 2 , Paragraph 9 )," and since the amended act came into force in 2023 年 6 月, the company conducts issuance and redemption within the framework of the funds-transfer-operator license it obtains. The institutional transition from the former "prepaid payment instrument" form (JPYC v1) to "funds-transfer-operator-type stablecoin" (JPYC v2) was completed in the latter half of 2025 年.
+**Why it is not a crypto-asset exchange business**: Current JPYC is an “electronic payment instrument” under the Payment Services Act and is issued and redeemed by the company as a funds-transfer operator. The former prepaid payment instrument was renamed “JPYC Prepaid” on 2024-11-27; it is a separate token and the company does not exchange it for current JPYC. The funds-transfer registration was obtained on 2025-08-18, and current JPYC and JPYC EX launched on 2025-10-27.
 
 ## 3. Handled currencies
 
-- **Handled tokens**: JPYC (Japanese-yen-pegged stablecoin) only — 1  type
-- **Issuance network**: Multi-chain support including Ethereum, Polygon, Avalanche, Gnosis Chain, Shiden Network, Astar Network, etc. (see the company's official FAQ)
+- **Handled token**: current JPYC, an electronic payment instrument, is issued and redeemed. JPYC Prepaid is a separate prepaid payment instrument.
+- **Issuance networks**: the formal launch announcement listed Avalanche, Ethereum, and Polygon on 2025-10-27. It said expansion would follow, so networks used by the older prepaid token should not be mixed into the current lineup.
 - **Peg ratio**: 1 JPYC = 1  Japanese yen
-- **Liquidity**: Can be held, transferred, and used for payment in various wallets such as HashPort Wallet
+- **Use**: it can be held and sent through compatible wallets, while JPYC EX is the issuance and redemption window for identity-verified users.
 - **No crypto-asset handling**: Does not provide buy/sell services for crypto-assets such as BTC, ETH, etc.
 
 ## 4. Scope of business
 
-- **JPYC EX (exchange / issuance platform)**: A window to deposit Japanese yen and issue (purchase) JPYC / redeem it (withdraw to Japanese yen). Started the service for individuals in autumn 2025 年.
-- **Services for corporations**: Corporate DX support / automated-payment solutions such as "JPYC Gateway" (jointly developed with Asteria).
-- **Payment**: Successively expanding JPYC payment support at various merchants such as restaurants ("Chibo," etc.) (as of 2026-04 ).
-- **Per-1  redemption cap**: 100 万円 (as of 2025-12  → there are reports that the issuance cap was revised to 100 万円 per 1  in 2026-05 ).
+- **JPYC EX (issuance and redemption platform)**: the official window through which identity-verified users reserve issuance by bank transfer or reserve redemption by sending JPYC. It launched on 2025-10-27. “EX” should not be read as a crypto-asset trading venue.
+- **For businesses and developers**: the company promotes SDK and API integration and use in business-to-business transfers and payments. Each partnership's status—planned, under development, or launched—must be kept distinct.
+- **Backing**: the launch announcement states that deposits and Japanese government bonds preserve at least 100% of the outstanding issuance value.
 - **Fiat-currency deposit channel**: Bank transfer.
-- Does not provide crypto-asset lending, derivatives, NFT marketplace, etc.
+- JPYC EX is not presented as offering crypto-asset trading, crypto lending, or crypto-asset derivatives.
 
 ## 5. Market share / trading volume
 
-- **Cumulative number of accounts**: As of 2025-12 , surpassed 1 万 (JPYC EX opened accounts).
-- **Cumulative issuance amount**: As of 2025-12 , surpassed an equivalent of 5 億円.
-- **Customer base**: Individual retail (JPYC EX) + corporations (B2B settlement, payroll DeFi use, etc.).
-- **Market share**: The only regulatory-compliant **funds-transfer-operator-type** yen stablecoin issuer in Japan. One of the 3  major domestic yen SCs alongside Progmat Coin (trust type) and DCJPY (bank type). It has a different competitive axis from crypto-asset exchange service providers.
+- The company's 2026-02-26 announcement reported cumulative issuance of JPY 1.3 billion as of 2026-02-16; its 2026-04-20 announcement reported JPY 2.1 billion as of 2026-04-15. These are company-reported, dated cumulative figures, not current outstanding supply or a third-party market-share measure.
+- **Customer base**: identity-verified JPYC EX users and businesses and developers integrating the token into payments and transfers.
+- The company's August 2025 announcement said it became the first domestic funds-transfer operator able to issue a yen-denominated electronic payment instrument. This is a dated regulatory first, not a permanent market rank or claim of being the only provider.
 
 ## 6. History / major incidents
+
+The table is limited to establishment, token classification, registration, launch, and funding milestones confirmed in JPYC's official announcements. Issuance figures elsewhere in this entry retain the company's stated measurement dates. ^[Sources: https://corporate.jpyc.co.jp/news/posts/jpyc-prepaid-renaming; https://corporate.jpyc.co.jp/news/posts/first-yen-stablecoin-jpyc; https://corporate.jpyc.co.jp/news/posts/jpyc-ex-launch; https://corporate.jpyc.co.jp/news/posts/series-b-first-close; https://corporate.jpyc.co.jp/news/posts/series-b-second-close.]
 
 | Period | Event |
 |------|--------|
 | 2019-11 | JPYC Inc. established. Noritaka Okabe assumed the position of Representative Director |
-| 2021 | Started offering JPYC (v1 prepaid type) on Ethereum |
+| 2021-01 | Began offering the former JPYC as a prepaid payment instrument |
 | 2022 | Expanded multi-chain deployment (Polygon, Avalanche, etc.) |
-| 2023-06 | Amended Payment Services Act came into force. Began preparations to transition JPYC's institutional positioning from "prepaid payment instrument" to "electronically recorded transferable right (stablecoin)" |
-| 2023 | Obtained funds-transfer-operator registration (第00099号) from the Kanto Local Finance Bureau |
-| 2025-Q3 | Started the JPYC v2 (funds-transfer-business-based) service. JPYC EX offered to individuals |
-| 2025-12 | JPYC EX surpassed 1 万 cumulative accounts and 5 億円 cumulative issuance amount |
-| 2026-02 | Announced raising 17.8 億円 in a Series B with Asteria Corporation as lead investor. Concluded a capital and business alliance |
-| 2026-04-21 | Raised 28 億円 in an additional Series B close (Metaplanet, Sumitomo Life, and others participating) |
-| 2026-04-28 | FSA official materials specified JPYC as "funds transfer business" for the first time |
-| 2026-05-16 | A major update revising the issuance cap to 100 万円 per 1  on JPYC EX |
+| 2024-11-27 | Renamed the existing prepaid token “JPYC Prepaid” |
+| 2025-08-18 | Obtained funds-transfer-operator registration, Kanto Local Finance Bureau No. 00099 |
+| 2025-10-27 | Formally launched the electronic payment instrument JPYC and the JPYC EX issuance/redemption platform |
+| 2026-02-26 | Announced a planned JPY 1.78 billion Series B first close |
+| 2026-04-20 | Announced a planned additional JPY 2.8 billion Series B second close |
 
-※ No reports of administrative actions, hacks, or major system failures have been disclosed as of 2026-05 .
+Within the company news and public registration information checked on 2026-07-29, no administrative disposition against JPYC or major asset outflow was identified. This is a bounded review, not a guarantee of future absence.
 
 ## 7. Strategic trends
 
-- **Asteria capital alliance** (2026-02): Developing "JPYC Gateway" with the IT-infrastructure company Asteria, accelerating the incorporation of JPYC into corporate API remittance / automated settlement.
-- **Metaplanet / Sumitomo Life participation** (2026-04): Metaplanet, known for its Bitcoin holdings, and a major life insurer participated in the investment, raising recognition among the institutional-investor segment.
-- **Merchant expansion** (2026-04): JPYC payment began at the restaurant chain "Chibo," etc., expanding usage scenes for general consumers.
-- **Limit increase** (2026-05): Revising the issuance cap to 100 万円 per 1  to promote corporate use.
-- No public plans regarding overseas expansion or IPO can be confirmed as of 2026-05 .
+- **Use of Series B funding**: the 2026 first- and second-close announcements identify systems and application development, hiring, business-to-business transfers and payment adoption, and alliances as intended uses.
+- **Open integration**: official SDKs and multi-chain support are intended to enable wallet, card-repayment, collection, and business-payment integrations. Planned, under-development, and launched integrations remain distinct.
+- **Separation of current JPYC and Prepaid**: the redeemable electronic payment instrument and the former prepaid token are managed as separate tokens, and the company does not exchange them for each other.
 
 ## 8. Related people
 
 - **Noritaka Okabe** (Okabe Noritaka): Representative Director. Founder of JPYC. The central figure who has been promoting the issuance of a yen-pegged stablecoin in Japan.
-- Details of other directors / shareholder composition have not been disclosed (as of 2026-05 ).
+- Other directors and the shareholder composition are described only to the extent shown in official company and funding disclosures checked on 2026-07-29.
 
 ## Related
 
@@ -110,7 +105,10 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 ## Sources
 
-- [JPYC Inc. company overview](https://jpyc.co.jp/about) (retrieved 2026-05-18)
-- [JPYC EX top page](https://jpyc.co.jp/) (retrieved 2026-05-18)
-- [JVCEA member list](https://jvcea.or.jp/member/) (retrieved 2026-05-18)
-- [CoinPost: list of JPYC funds-transfer-business-related articles](https://coinpost.jp/?s=JPYC+%E8%B3%87%E9%87%91%E7%A7%BB%E5%8B%95%E6%A5%AD) (retrieved 2026-05-18)
+- [JPYC corporate site](https://corporate.jpyc.co.jp/) (retrieved 2026-07-29)
+- [Formal launch of JPYC and JPYC EX](https://corporate.jpyc.co.jp/news/posts/jpyc-ex-launch) (retrieved 2026-07-29)
+- [Funds-transfer-operator registration](https://corporate.jpyc.co.jp/news/posts/first-yen-stablecoin-jpyc) (retrieved 2026-07-29)
+- [Renaming to JPYC Prepaid](https://corporate.jpyc.co.jp/news/posts/jpyc-prepaid-renaming) (retrieved 2026-07-29)
+- [Series B first close](https://corporate.jpyc.co.jp/news/posts/series-b-first-close) (retrieved 2026-07-29)
+- [Series B second close](https://corporate.jpyc.co.jp/news/posts/series-b-second-close) (retrieved 2026-07-29)
+- [JVCEA member list](https://jvcea.or.jp/member/) (retrieved 2026-07-29)

@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-exchange-money-partners
-source_hash: eef69da5d1767565
+source_hash: a3ca32f424766551
 lang: en
 status: machine
 fidelity: ok
 title: "Money Partners Co., Ltd. — Japan Crypto Asset Exchange Operator Overview"
-translated_at: 2026-05-31T06:16:15.676Z
+translated_at: 2026-07-29T11:50:43.000Z
 ---
 
 # Money Partners Co., Ltd. — Japan Crypto Asset Exchange Operator Overview
@@ -30,7 +30,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 ## 2. Licences and registration status
 
-- **Crypto asset exchange business**: Kanto Local Finance Bureau Director 第00001号 (registration date 2017-09-29) — the first number issued domestically
+- **Crypto asset exchange business**: Kanto Local Finance Bureau No. 00001 (registration date: 2017-09-29)
 - **Type I financial instruments business**: Kanto Local Finance Bureau Director (FIEA) 第2028号 (registered 2008年9月)
 - **JVCEA member**: Type I member #1001  — registered for both crypto asset exchange business and crypto asset derivatives trading (OTC)
 - **Membership associations**: Japan Securities Dealers Association; Japan Virtual and Crypto assets Exchange Association (JVCEA); Japan Cryptoasset Business Association
@@ -51,47 +51,38 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 ## 5. Market share and trading volume
 
-- No public account-number or trading-volume data has been disclosed (after delisting, IR information is being consolidated under the Gaitame.com Group).
-- Given CFD-only crypto trading, 4  pairs, and suspended new-account registration, the company's position in the retail market is judged to be a niche (primarily serving existing customers).
-- During its peak FX era, the company held a recognised brand in the domestic retail FX market as part of a TSE First Section-listed group, but expansion of its crypto asset business was limited.
+- The corporate-history and crypto-asset CFD pages reviewed on 2026-07-29 contain no standalone crypto-CFD account or trading-volume figures comparable across firms. This entry does not infer a market rank or scale.
 
 ## 6. History and significant events
 
+The table below summarizes milestones confirmed in the company's corporate history and crypto-asset CFD disclosures and in the FSA register. A registration number is an identifier in registration order; it does not by itself mean that the company was the sole first registrant in Japan. ^[Sources: https://www.moneypartners.co.jp/aboutus/outline.html; https://www.moneypartners.co.jp/crypto/index.html; https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx.]
+
 | Date | Event |
 |------|-------|
-| 2005-06  | Establishment of Money Partners Co., Ltd. (now Money Partners Group). FX business launched |
-| 2007-06  | Listed on Osaka Securities Exchange Nippon New Market "Hercules" |
-| 2008-05  | Transition to holding company structure. Current entity (demerger preparation company) established |
-| 2008-10  | Trade name changed to current through absorption-type demerger. Type I FIEA business #2028  registered |
-| 2012-05  | Parent company Money Partners Group listed on TSE Second Section |
-| 2013-05  | Parent company reclassified to TSE First Section |
-| **2017-09** | **Obtained the first domestic number "Kanto Local Finance Bureau Director 第00001号" as a crypto asset exchange operator** (2017-09-29) |
-| 2018-04  | Then-Representative Director Yasumasa Okuyama became the inaugural JVCEA Chairman |
-| 2021-11  | Registration amendment for Type I FIEA business covering crypto-asset OTC derivatives completed |
-| 2021-12  | Crypto asset CFD service "Mainichi Crypto Asset" launched |
-| 2022-04  | Parent company migrated to Prime Market |
-| 2023-10  | Parent company migrated to Standard Market |
-| 2024-12  | TOB by Gaitame.com on parent company completed |
-| 2025-02  | Parent company Money Partners Group delisted. Acceptance of new account applications suspended |
-| 2025-03  | Announcement of termination of Securities and CFD-Metals services |
-| **2025-06** | **FX business transferred to Gaitame.com by absorption-type demerger. From this point, the company's primary business is crypto asset CFD only** |
-| 2025-12  | Head office relocated within the same tower from 33F to 16F |
-| 2026-05  | Board composition change (see official disclosure documents for details) |
+| 2005-06 | Money Partners Co., Ltd. (now Money Partners Group) established; FX business launched |
+| 2008-05 | Transition to a holding-company structure; the current entity was established as a demerger preparation company |
+| 2008-10 | Renamed to its current trade name through an absorption-type demerger; registered as a Type I financial instruments business operator, No. 2028 |
+| 2017-09-29 | Registered as a crypto-asset exchange service provider, Kanto Local Finance Bureau No. 00001 |
+| 2021-11 | Registration amendment completed for Type I financial instruments business covering crypto-asset OTC derivatives |
+| 2021-12 | "Mainichi Crypto Asset" CFD service launched |
+| 2024-12 | Gaitame.com's tender offer for the parent company completed |
+| 2025-02 | Money Partners Group delisted; acceptance of new account applications ended |
+| 2025-03 | Termination of the securities and CFD-Metals services announced |
+| **2025-06** | **FX business transferred to Gaitame.com through an absorption-type demerger; thereafter the company's principal business was crypto-asset CFDs** |
 
-The FSA registration number "第00001号" indicates that this was the first operator to complete registration when the crypto asset exchange business regime was enacted on 2017年9月29日 (contemporaneous registrants include [[exchanges/jp-exchange-bitflyer|bitFlyer]] #00003, [[exchanges/jp-exchange-bitbank|bitbank]] #00004, [[exchanges/jp-exchange-gmo-coin|GMOコイン]] #00006, [[exchanges/jp-exchange-bittrade|BitTrade]] #00007 , and others).
+FSA registration number No. 00001 is the identifier assigned to the company. Its registration date, September 29, 2017, is shared with multiple operators, so the number alone is not treated as evidence that the company was Japan's sole first completed registration.
 
 ## 7. Strategic developments
 
 - Since 2025年, the FX, securities, and CFD-Metals businesses have been successively integrated into Gaitame.com or discontinued. The remaining business is concentrated solely in crypto asset CFD.
 - As of 2026年2月, the "Mainichi Crypto Asset" service continues to be offered (explicitly stated in official announcements).
-- New account registration has been suspended; the company is in a phase of continued operation for existing account holders. The possibility of future business restructuring within the Gaitame.com Group has not been confirmed in public information.
-- A content and information service called "Mane-Para-Bo" (2025年11月) has been launched, but detailed specifications are limited in public disclosure.
+- New account applications remain suspended while "Mainichi Crypto Asset" continues for existing accounts. This entry does not infer future group restructuring.
 
 ## 8. Key persons
 
 - **Representative Director, Chairman and President**: Masumi Uruno (appointed 2024年10月)
 - **Representative Director**: Akinori Nishimura
-- **Founder and former Representative**: Yasumasa Okuyama (established 2005年; inaugural JVCEA Chairman 2018年; current position not publicly disclosed)
+- **Founder and former Representative**: Yasumasa Okuyama (established the company in 2005 and became the inaugural JVCEA Chairman in 2018)
 - **Former Representative**: Shuji Fukushima (appointed 2020年11月; succeeded by successor)
 
 ## Related

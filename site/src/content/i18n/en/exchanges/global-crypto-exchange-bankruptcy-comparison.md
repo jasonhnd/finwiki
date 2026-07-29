@@ -1,11 +1,11 @@
 ---
 source: exchanges/global-crypto-exchange-bankruptcy-comparison
-source_hash: 780f4decc61d2096
+source_hash: 28b38c93de6fd360
 lang: en
 status: machine
 fidelity: ok
 title: "International comparison of crypto-asset exchange bankruptcy proceedings"
-translated_at: 2026-05-31T03:19:56.484Z
+translated_at: 2026-07-29T11:02:23.000Z
 ---
 
 # International comparison of crypto-asset exchange bankruptcy proceedings
@@ -16,35 +16,25 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 
 ## Overview
 
-This contrasts 6 件+ major crypto-asset exchange / lending-operator bankruptcy cases that occurred in 2014-2026 年 within the frameworks of US Chapter 11 +, Japan's civil rehabilitation / bankruptcy, and each country's system. The **presence or absence of customer-asset segregation** is the single largest factor determining repayment speed, and it is the area where the philosophical differences in institutional design are most strikingly expressed.
+This page compares official creditor-information entry points for major crypto-asset exchange and lending-operator insolvency proceedings. Recovery percentages, payment dates, and claim eligibility can change during a proceeding, so this page does not freeze those values. Consult each official portal and the latest court filings.
 
-## Comparison table of the 6  major bankruptcy cases
+## Official portals for major proceedings
 
-| Case | Jurisdiction | Filing | Procedure | Repayment speed | Repayment rate |
-|---|---|---|---|---|---|
-| **Mt.Gox** | Japan | 2014-02 | Civil rehabilitation → bankruptcy → civil rehabilitation restart | **12 years** (started 2024-06 ) | Partial recovery of customer assets + price-surge gains |
-| **FTX International** | US | 2022-11 | Chapter 11 | 3 years (completed 2025-06 100%) | Internal commingling → legal restructuring |
-| **FTX Japan** | Japan | 2022-11 (parent bankrupt but itself sound) | Segregation function | **3 months** (immediate 100% return 2023-02 , world's first) | 100% |
-| **Celsius Network** | US | 2022-07 | Chapter 11 | 2 years (2024-01) | 60-79% (DeFi lending failure) |
-| **Voyager Digital** | US | 2022-07 | Chapter 11 | 2 years (2024-05) | 35-50% (institutional lending exposure) |
-| **BlockFi** | US | 2022-11 | Chapter 11 | 1 years (2023 partial repayment) | Partial repayment after customer-asset freeze |
+Source: The entire table is based on the official proceeding portals for [Mt.Gox](https://www.mtgox.com/), [FTX at Kroll](https://restructuring.ra.kroll.com/FTX/), [Celsius at Stretto](https://cases.stretto.com/celsius/), [Voyager at Stretto](https://cases.stretto.com/Voyager/), and [BlockFi at Kroll](https://restructuring.ra.kroll.com/blockfi/), checked on 2026-07-29.
 
-## Institutional factors (repayment-speed differences)
+| Case | Jurisdiction | Filing period | Proceeding | Official information entry point |
+|---|---|---|---|---|
+| **Mt.Gox** | Japan | 2014-02 | Civil rehabilitation after bankruptcy proceedings | Mt.Gox rehabilitation site |
+| **FTX Trading Ltd. and affiliates** | United States | 2022-11 | Chapter 11 | Kroll restructuring portal |
+| **Celsius Network and affiliates** | United States | 2022-07 | Chapter 11 | Stretto case portal |
+| **Voyager Digital and affiliates** | United States | 2022-07 | Chapter 11 | Stretto case portal |
+| **BlockFi and affiliates** | United States | 2022-11 | Chapter 11 | Kroll restructuring portal |
 
-- **Customer-asset segregation**: mandatory in Japan (trust) > no strict interpretation in the US → Japan achieves early repayment
-- **Customer-asset commingling**: FTX International (Alameda commingling) / Celsius (DeFi-management commingling) → repayment delay
-- **Presence of outflow**: Mt.Gox (massive outflow) = 12 years vs FTX Japan (no outflow) = 3 months
+## Comparison cautions
 
-## Repayment forms
-
-- **JPY immediate**: FTX Japan (world's first)
-- **BTC physical + JPY choice**: Mt.Gox (civil rehabilitation plan)
-- **New-company shares + cash hybrid**: Celsius / FTX International
-- **Fiat only**: BlockFi
-
-## Regulatory reflection
-
-Japan orients toward **prevention** with FSA business-improvement orders + JVCEA self-regulation. The US, by contrast, has a structure that relies on **after-the-fact response** via Chapter 11 + SEC enforcement. MiCA (EU) introduced a phased CASP bankruptcy-resolution protocol, building a preventive framework across the entire EU bloc. The **philosophical difference in institutional design** produces entirely different outcomes from the same bankruptcy event.
+- Distinguish the filing date, plan effective date, distribution start date, and an individual creditor's receipt date.
+- Instead of relying on headline recovery rates, check the claim class, valuation date, currency, tax treatment, and unresolved objections.
+- For current payment status and deadlines, prioritize the latest notice or docket on the official portal.
 
 ## Related entries
 

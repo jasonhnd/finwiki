@@ -62,7 +62,7 @@
 | `cooperative-banks` | 46 | 0 | 13.2 |
 | `corporate-strategy` | 11 | 0 | 18.7 |
 | `derivatives` | 33 | 0 | 15.0 |
-| `exchanges` | 147 | 0 | 12.8 |
+| `exchanges` | 147 | 0 | 11.3 |
 | `finance` | 27 | 0 | 23.0 |
 | `financial-conglomerates` | 8 | 0 | 24.6 |
 | `financial-licenses` | 9 | 0 | 43.7 |

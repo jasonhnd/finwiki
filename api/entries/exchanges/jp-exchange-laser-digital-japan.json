@@ -11,10 +11,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/jp-exchange-laser-digital-japan.md",
   "raw_markdown_url": "https://finwiki.zksc.io/exchanges/jp-exchange-laser-digital-japan.md",
   "domain": "exchanges",
-  "title": "Laser Digital Japan — 日本暗号資産交換業者 overview",
+  "title": "Laser Digital Japan — 日本法人・暗号資産関連事業 overview",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Laser Digital Japan — 日本暗号資産交換業者",
+    "title": "Laser Digital Japan — 日本法人・暗号資産関連事業",
     "aliases": [
       "Laser Digital Japan",
       "レーザーデジタルジャパン",
@@ -23,9 +23,9 @@
     "domain": "exchanges",
     "type": null,
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-06-24",
-    "review_by": "2026-09-22",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "fintech",
@@ -40,8 +40,9 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://laserdigital.com/",
-      "https://laserdigital.com/company-news/laser-digital-japan-to-participate-in-hitachi-led-aml-framework-project-for-digital-assets-supported-by-the-jfsas-fintech-poc-hub/",
+      "https://www.laserdigital.com/japan/information/company-outline",
+      "https://www.laserdigital.com/japan/en/information/about-laser-digital-japan",
+      "https://www.laserdigital.com/japan/ja",
       "https://jvcea.or.jp/member/",
       "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
       "https://coinpost.jp/?p=655580",
@@ -51,7 +52,7 @@
   },
   "summary": "This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.",
   "headings": [
-    "Laser Digital Japan — 日本暗号資産交換業者 overview",
+    "Laser Digital Japan — 日本法人・暗号資産関連事業 overview",
     "Wiki route",
     "1. 法人・株主",
     "2. 牌照・登録状況",
@@ -94,16 +95,16 @@
       "https://coinpost.jp/?p=685975",
       "https://jvcea.or.jp/member/",
       "https://komainu.com/about/",
-      "https://laserdigital.com/",
-      "https://laserdigital.com/company-news/",
-      "https://laserdigital.com/company-news/laser-digital-japan-to-participate-in-hitachi-led-aml-framework-project-for-digital-assets-supported-by-the-jfsas-fintech-poc-hub/",
-      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx"
+      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
+      "https://www.laserdigital.com/japan/en/information/about-laser-digital-japan",
+      "https://www.laserdigital.com/japan/information/company-outline",
+      "https://www.laserdigital.com/japan/ja"
     ]
   },
   "metrics": {
-    "nonspace_chars": 5411,
-    "word_like_tokens": 887,
-    "inbound_wikilinks_count": 13,
-    "last_modified": "2026-06-24"
+    "nonspace_chars": 5477,
+    "word_like_tokens": 873,
+    "inbound_wikilinks_count": 11,
+    "last_modified": "2026-07-29"
   }
 }

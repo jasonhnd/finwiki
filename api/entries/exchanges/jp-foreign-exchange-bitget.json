@@ -23,9 +23,9 @@
     "domain": "exchanges",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-19",
-    "last_tended": "2026-05-19",
-    "review_by": "2027-05-19",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "fintech",
@@ -42,7 +42,6 @@
       "https://www.fsa.go.jp/policy/virtual_currency02/index.html",
       "https://www.fsa.go.jp/policy/virtual_currency02/Bitget_keikokushiryo.pdf",
       "https://www.fsa.go.jp/news/r6/kasou_tuka/20241128/20241128.html",
-      "https://www.bitget.com/ja/blog/press-release/",
       "https://coinpost.jp/?s=Bitget"
     ]
   },
@@ -83,21 +82,18 @@
       "https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-mexc/",
       "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/"
     ],
-    "external_links_count": 7,
+    "external_links_count": 4,
     "external_links": [
       "https://coinpost.jp/?s=Bitget",
-      "https://jinacoin.ne.jp/",
-      "https://www.bitget.com/ja/blog/press-release/",
       "https://www.fsa.go.jp/news/r6/kasou_tuka/20241128/bitget_keikokushiryo.pdf",
       "https://www.fsa.go.jp/policy/virtual_currency02/Bitget_keikokushiryo.pdf",
-      "https://www.fsa.go.jp/policy/virtual_currency02/index.html",
-      "https://www.google.com/search?q=Bitget+Limited+FSA+%E9%87%91%E8%9E%8D%E5%BA%81+%E8%AD%A6%E5%91%8A+2023"
+      "https://www.fsa.go.jp/policy/virtual_currency02/index.html"
     ]
   },
   "metrics": {
-    "nonspace_chars": 4911,
-    "word_like_tokens": 809,
-    "inbound_wikilinks_count": 10,
-    "last_modified": "2026-05-24"
+    "nonspace_chars": 3162,
+    "word_like_tokens": 493,
+    "inbound_wikilinks_count": 9,
+    "last_modified": "2026-07-29"
   }
 }

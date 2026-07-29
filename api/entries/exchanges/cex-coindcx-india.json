@@ -11,10 +11,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/exchanges/cex-coindcx-india.md",
   "raw_markdown_url": "https://finwiki.zksc.io/exchanges/cex-coindcx-india.md",
   "domain": "exchanges",
-  "title": "CoinDCX — インド最大 CEX / FIU-IND PMLA registered overview",
+  "title": "CoinDCX — インド CEX / FIU-IND PMLA reporting entity overview",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "CoinDCX — インド最大 CEX / FIU-IND PMLA registered",
+    "title": "CoinDCX — インド CEX / FIU-IND PMLA reporting entity",
     "aliases": [
       "CoinDCX",
       "Neblio Technologies",
@@ -23,9 +23,9 @@
     "domain": "exchanges",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2027-05-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "exchanges",
@@ -40,6 +40,8 @@
     "related": [],
     "note": null,
     "sources": [
+      "https://coindcx.com/about-us/",
+      "https://coindcx.com/blog/announcements/coindcx-is-now-fiu-registered/",
       "公開情報整理 (CoinDCX 公式 IR / About ページ, coindcx.com)",
       "公開情報整理 (FIU-IND PMLA Reporting Entity 登録公示, fiuindia.gov.in)",
       "公開情報整理 (B Capital / Pantera Capital / Steadview Capital 投資ラウンド発表)",
@@ -50,13 +52,13 @@
   },
   "summary": "This entry sits under exchanges index. Read it against WazirX for the closest India peer / contrast context, global CEX top 10 comparison for the broader global benchmark, and グローバル VASP 規制比較 for the regulatory boundary view.",
   "headings": [
-    "CoinDCX — インド最大 CEX / FIU-IND PMLA registered overview",
+    "CoinDCX — インド CEX / FIU-IND PMLA reporting entity overview",
     "Wiki route",
     "1. 法人・株主",
     "2. 登録・牌照状況（インド制度）",
     "3. 取扱通貨",
     "4. 業務範囲",
-    "5. 市占・取引高",
+    "5. 規模情報の読み方",
     "6. 沿革・重大事件",
     "7. 戦略動向",
     "8. 業界での位置付け"
@@ -83,13 +85,16 @@
       "https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bitget/",
       "https://finwiki.zksc.io/ja/exchanges/jp-foreign-exchange-bybit/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 2,
+    "external_links": [
+      "https://coindcx.com/about-us/",
+      "https://coindcx.com/blog/announcements/coindcx-is-now-fiu-registered/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 5245,
-    "word_like_tokens": 911,
+    "nonspace_chars": 4882,
+    "word_like_tokens": 813,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-25"
+    "last_modified": "2026-07-29"
   }
 }

@@ -7,9 +7,9 @@ aliases:
   - オーケーコイン・ジャパン
 domain: exchanges
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-06-24
-review_by: 2026-08-08
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
 confidence: likely
 tags:
   - fintech
@@ -42,7 +42,7 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 - **法人番号**: 8030001122337
 - **設立**: 2017年9月19日
 - **本店**: 〒105-0001 東京都港区虎ノ門1-2-10 5階
-- **親会社**: OKX（旧 OKEx / OKEx Holdings Limited）グループ。グローバル法人 OKX（Seychelles 登記、Okcoin International Ltd. などを傘下に持つ）の日本現地法人として設立。出資比率・中間持株会社の構造は非公表。
+- **グループ関係**: OKX（旧 OKEx）グループの日本現地法人として設立。
 - **上場状態**: 非上場（親会社 OKX もグループ全体として非上場）
 - **備考**: サービスブランドは旧称「OKCoinJapan」（2020年8月20日サービス開始）から 2024年8月20日に「OKJ」へ刷新（サービス開始4周年記念と同時）。商号・FSA登録名称はオーケーコイン・ジャパン株式会社のまま変更なし。
 
@@ -56,63 +56,41 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 ## 3. 取扱通貨
 
-- **取扱銘柄数（2026年5月時点）**: 販売所 49銘柄 / 取引所（板取引）はほぼ同規模
-- **主要銘柄**: BTC、ETH、XRP、SOL、ADA、DOT、DOGE、AVAX、LTC、BCH、LINK、DAI、SHIB、PEPE、TON、TRX、TRUMP、SUI 等
-- **注目銘柄**: OKB（OKX エコシステムネイティブトークン）、FNCT（フィナンシェトークン）、OAS（Oasys）、PLT（Palette）、DEP（Digital Entertainment Asset）— 国産・アジア系プロジェクト銘柄が比較的多い
-- **特色**: アルトコイン・新興チェーントークン（KAIA、ASTR、IOTX 等）も積極採用。グローバル OKX が世界で取り扱う数百銘柄と比較すると日本向けは大幅に限定（FSA 審査プロセスによる）。
+- **取扱銘柄**: 2026年5月18日に取得した公式商品ページでは BTC・ETH・XRP・SOL 等の主要銘柄に加え、OKB・FNCT・OAS・PLT・DEP 等を確認した。対象は変動するため、固定的な総数や国内順位は置かず、利用時点の公式商品ページを優先する。
 
 ## 4. 業務範囲
 
-- **Spot 取引所（板取引）**: 有。メイカー/テイカー手数料体系（Lv1: Maker 0.07% / Taker 0.14%、月間取引量 30億円超の Lv7 は応相談）
-- **販売所（OTC dealer）**: 有。全銘柄手数料無料（スプレッド内包）
-- **デリバティブ（先物・証拠金取引）**: 無
-- **ステーキング**: 有。対象 12銘柄（SOL、TRX、SEI、ADA、APT、ASTR、AVAX、ETH、IOST、QTUM、SUI、XTZ）。フレキシブル・定期プランあり。全資産コールドウォレット管理
-- **貸暗号資産（Crypto Lending）**: 有
-- **Flash Deals（タイムセール購入）**: 有
-- **自動積立（定期買付）**: 有
-- **大口 OTC サービス**: 有（法人・大口向け、BTC・ETH 等）。2026年4月に ETH、2026年5月に売り注文機能追加
-- **法人プレミアサービス**: 有（「OKJ法人プレミア」、2025年4月10日開始）
-- **NFT**: 無
-- **法定通貨入金チャネル**: 銀行振込のみ（GMOあおぞらネット銀行経由 24/365、手数料無料。コンビニ入金・クイック入金は非対応）
-- **出金制限**: 暗号資産出庫上限 1日3億円相当
+以下は 2026年5月18日に取得した OKJ の公式商品・手数料・入出金ページで確認できたサービス区分のスナップショットである。提供可否、料金、対象銘柄、入出金方法・上限は変動するため、利用時点の公式ページを優先する。 ^[Sources: https://www.okcoin.jp/pages/products/fees.html; https://www.okcoin.jp/pages/products/staking.html; https://www.okcoin.jp/pages/products/deposit-withdraw.html.]
+
+- **取引・運用カテゴリ**：取引所、販売所、ステーキング、貸暗号資産、Flash Deals、自動積立
+- **法人・大口カテゴリ**：大口 OTC サービス、OKJ 法人プレミア
+- **料金・入出金条件**：固定値や非対応項目を本稿に転記せず、現行の公式手数料・入出金ページで確認する
 
 ## 5. 市占・取引高
 
-- **取引高・口座数**: 非公表
-- **顧客層**: 主にリテール（個人）中心。法人向けプレミアサービスで機関投資家・法人層にも対応開始
-- **競合内ポジション**: JVCEA 26社のうちの中堅。主要マーケットメーカー（[[exchanges/jp-exchange-bitflyer|bitFlyer]]・[[exchanges/jp-exchange-coincheck|Coincheck]]・[[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]] 等）と比べると規模は小さいとみられるが、取扱銘柄数は国内上位クラス。口座数・取引高の公表なし。VASP 親会社の地理分布は [[exchanges/jp-vasp-parent-company-map|JP VASP 親会社マップ]] 参照。
+- 2026年7月29日に確認した OKJ の会社・商品資料には、同一基準で比較できる取引高・口座数が含まれない。本項では国内順位や規模を推定しない。法人向けサービスの有無は §4 の公式サービス区分として扱う。
 
 ## 6. 沿革・重大事件
 
+以下の表は、会社概要、金融庁登録一覧および OKJ の公式告知で日付を確認できる節目に限定する。個別銘柄の現在の取扱可否は、沿革ではなく同社のライブ商品ページで確認する必要がある。 ^[Sources: https://www.okcoin.jp/pages/company/about.html; https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx; https://support.okcoin.jp/hc/ja/categories/360002138653.]
+
 | 年月 | 事項 |
 |------|------|
-| 2017年9月 | オーケーコイン・ジャパン株式会社 設立 |
+| 2017年9月19日 | オーケーコイン・ジャパン株式会社 設立 |
 | 2020年3月 | FSA 暗号資産交換業登録 取得（関東財務局 第00020号） |
 | 2020年8月 | 暗号資産取引サービス「OKCoinJapan」 提供開始 |
-| 2022年7月 | AVAX（アバランチ）板取引 開始。同年 SHIB（2023年2月）等アルトコイン相次ぎ上場 |
-| 2023年5月 | 「OKJ BTC Index」公表開始（仲値の透明化） |
-| 2023年5月 | eKYC（最短5分口座開設）サービス開始 |
 | 2024年8月 | サービスブランドを「OKCoinJapan」から「OKJ」へ刷新（4周年記念、商号変更なし） |
-| 2025年1月 | Kaia（旧 Klaytn）とパートナーシップ締結（Line Mini Dapp 利用促進） |
 | 2025年4月 | 「OKJ法人プレミア」大口法人向けサービス 提供開始 |
-| 2026年4月 | 大口 OTC に ETH 追加、その後売り注文機能追加 |
-| 2026年5月 | BERA（ベラチェーン）取扱い開始 |
-- **行政処分歴**: 公表資料の範囲で確認なし（要継続確認）
-- **ハック・システム障害**: 重大事案の公表なし（要継続確認）
-- **親会社 OKX の規制リスク**: グローバル OKX 及び Aux Cayman Islands Ltd.（前名 Okcoin International Ltd.）は 2024年に米 FinCEN・CFTC・DOJ との和解（1億6,000万ドル超の制裁金）に合意。日本法人の直接処分ではないが、グループ信用リスクとして留意が必要。
+- **行政処分・重大事案の確認範囲**: 上記の会社概要、金融庁登録一覧および OKJ 公式告知を今回確認した範囲では、行政処分、ハックまたは重大システム障害を示す記載は特定していない。これは不存在の断定ではない。
+- **関連グループの米国刑事手続**: 2025年2月24日、OKX を運営するセーシェル法人 Aux Cayes Fintech Co. Ltd. は、米国で無登録送金業を運営した罪を認め、総額5億400万米ドル超の支払いに合意した。米司法省の訴追資料は対象行為を同法人によるものと明記しており、日本法人への直接処分として扱わない。 ^[Source: https://www.justice.gov/usao-sdny/pr/okx-pleads-guilty-violating-us-anti-money-laundering-laws-and-agrees-pay-penalties.]
 
 ## 7. 戦略動向
 
-- **ブロックチェーン直接委任**: 2026年5月、Dawn Labs（Solana 関連）とのコラボレーションに伴い Solana バリデーターノードへの委任を実施。PoS インフラへの関与を深化
-- **OKJ アカデミー（教育）**: 2026年5月時点で開始を予告。リテール顧客育成路線
-- **Kaia 戦略連携**: Line BITMAX との差別化として LINE 経済圏（Kaia チェーン）への接点を拡充
-- **多通貨・新興銘柄積極採用**: 他社に先行した銘柄拡充（国産・Web3 ゲーム系トークン等）を成長ドライバーとする姿勢が公開情報から読み取れる
+- **商品・提携動向**：日付と内容を確認できる OKJ の公式告知がある事項だけを更新し、個別施策から PoS 戦略、顧客戦略、他社との差別化を推定しない。
 
 ## 8. 関連人物
 
-- **代表取締役**: Zhongyang Feng（冯中阳）— 公式会社概要ページ（2026年5月取得）に記載。経歴の詳細は公表なし
-- **主要株主**: 非公表。グループ親会社は OKX（Seychelles）系
-- **創業者ストーリー**: 非公表
+- **代表取締役**: Zhongyang Feng（冯中阳）— 公式会社概要ページ（2026年5月取得）に記載。
 
 ## Related
 
