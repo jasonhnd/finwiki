@@ -109,12 +109,17 @@
       "https://finwiki.zksc.io/ja/retail/japan-retail-financial-distribution-wedge-matrix/",
       "https://finwiki.zksc.io/ja/retail/seven-and-i-hd/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 4,
+    "external_links": [
+      "https://dpoint.docomo.ne.jp/",
+      "https://point.rakuten.co.jp/guidance/en/faq/pointinfo/",
+      "https://www.ccc.co.jp/en/news/press/",
+      "https://www.ppc.go.jp/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 9327,
-    "word_like_tokens": 1582,
+    "nonspace_chars": 9662,
+    "word_like_tokens": 1639,
     "inbound_wikilinks_count": 4,
     "last_modified": "2026-06-04"
   }

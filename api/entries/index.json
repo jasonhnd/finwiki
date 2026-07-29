@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-07-29T15:37:08+09:00",
+  "generated_at": "2026-07-29T17:20:35+09:00",
   "site_url": "https://finwiki.zksc.io/",
   "total_entries": 1482,
   "entries": [
@@ -1694,7 +1694,7 @@
     {
       "slug": "card-issuers/aeon-financial-service-detail",
       "domain": "card-issuers",
-      "title": "電通グループ金融子会社 (Dentsu Group Financial Arm)",
+      "title": "電通ベンチャーズ (Dentsu Ventures)",
       "api_url": "https://finwiki.zksc.io/api/entries/card-issuers/aeon-financial-service-detail.json",
       "url": "https://finwiki.zksc.io/ja/card-issuers/aeon-financial-service-detail/",
       "html_url": "https://finwiki.zksc.io/ja/card-issuers/aeon-financial-service-detail/",
@@ -1811,7 +1811,7 @@
     {
       "slug": "card-issuers/jr-east-financial",
       "domain": "card-issuers",
-      "title": "JR東日本 金融グループ (JR-East Financial Subsidiaries)",
+      "title": "JR東日本のカード・銀行代理サービス",
       "api_url": "https://finwiki.zksc.io/api/entries/card-issuers/jr-east-financial.json",
       "url": "https://finwiki.zksc.io/ja/card-issuers/jr-east-financial/",
       "html_url": "https://finwiki.zksc.io/ja/card-issuers/jr-east-financial/",
@@ -9754,7 +9754,7 @@
     {
       "slug": "leasing-firms/yokohama-bank-leasing",
       "domain": "leasing-firms",
-      "title": "横浜銀リース (Yokohama Bank Leasing)",
+      "title": "浜銀ファイナンス (Hamagin Finance)",
       "api_url": "https://finwiki.zksc.io/api/entries/leasing-firms/yokohama-bank-leasing.json",
       "url": "https://finwiki.zksc.io/ja/leasing-firms/yokohama-bank-leasing/",
       "html_url": "https://finwiki.zksc.io/ja/leasing-firms/yokohama-bank-leasing/",
@@ -10391,7 +10391,7 @@
     {
       "slug": "loyalty/au-pay-loyalty-ecosystem-deep",
       "domain": "loyalty",
-      "title": "au PAY loyalty ecosystem deep — au PAY + Ponta + au Smart Pass + UQ Mobile + au Card + au Jibun Bank integrated stack",
+      "title": "au PAY loyalty ecosystem deep — au PAY + Ponta + Ponta Pass + UQ Mobile + au Card + au Jibun Bank stack",
       "api_url": "https://finwiki.zksc.io/api/entries/loyalty/au-pay-loyalty-ecosystem-deep.json",
       "url": "https://finwiki.zksc.io/ja/loyalty/au-pay-loyalty-ecosystem-deep/",
       "html_url": "https://finwiki.zksc.io/ja/loyalty/au-pay-loyalty-ecosystem-deep/",
@@ -10404,7 +10404,7 @@
     {
       "slug": "loyalty/d-point-au-kddi-docomo-telco-point-consolidation",
       "domain": "loyalty",
-      "title": "dポイント (NTT docomo) vs au PAY ポイント (KDDI) — telco-anchored Japan point consolidation",
+      "title": "dポイント (NTT docomo) vs Pontaポイント (KDDI linkage) — telco-anchored Japan point comparison",
       "api_url": "https://finwiki.zksc.io/api/entries/loyalty/d-point-au-kddi-docomo-telco-point-consolidation.json",
       "url": "https://finwiki.zksc.io/ja/loyalty/d-point-au-kddi-docomo-telco-point-consolidation/",
       "html_url": "https://finwiki.zksc.io/ja/loyalty/d-point-au-kddi-docomo-telco-point-consolidation/",
@@ -10417,7 +10417,7 @@
     {
       "slug": "loyalty/d-point-detailed-ecosystem",
       "domain": "loyalty",
-      "title": "d Point detailed ecosystem (NTT docomo) — accrual mechanics, d Card / d払い convergence, 2025 reform",
+      "title": "d Point detailed ecosystem (NTT docomo) — accrual mechanics, d Card / d払い convergence, current rank rules",
       "api_url": "https://finwiki.zksc.io/api/entries/loyalty/d-point-detailed-ecosystem.json",
       "url": "https://finwiki.zksc.io/ja/loyalty/d-point-detailed-ecosystem/",
       "html_url": "https://finwiki.zksc.io/ja/loyalty/d-point-detailed-ecosystem/",
@@ -10573,7 +10573,7 @@
     {
       "slug": "loyalty/t-point-v-point-post-2024-merger",
       "domain": "loyalty",
-      "title": "T-Point + V-Point post-2024 merger — dual-brand transition, CCCMK Holdings, points-liability transfer",
+      "title": "T-Point + V-Point post-2024 unification — account linking, customer transition, public accounting boundary",
       "api_url": "https://finwiki.zksc.io/api/entries/loyalty/t-point-v-point-post-2024-merger.json",
       "url": "https://finwiki.zksc.io/ja/loyalty/t-point-v-point-post-2024-merger/",
       "html_url": "https://finwiki.zksc.io/ja/loyalty/t-point-v-point-post-2024-merger/",

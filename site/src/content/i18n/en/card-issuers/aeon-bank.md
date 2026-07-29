@@ -1,11 +1,11 @@
 ---
 source: card-issuers/aeon-bank
-source_hash: c082123a745510f9
+source_hash: cd9cec3bf07c9942
 lang: en
 status: machine
 fidelity: ok
 title: "Aeon Bank / Aeon Financial Service (Aeon Bank / AFS)"
-translated_at: 2026-06-18T23:33:48.282Z
+translated_at: 2026-07-29T07:29:14.000Z
 ---
 # Aeon Bank / Aeon Financial Service (Aeon Bank / AFS)
 
@@ -39,7 +39,6 @@ This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against
 ```
 Aeon Co., Ltd. (8267,  largest distribution player)
         ├── Aeon Bank, Ltd. (100%) ── commercial bank / branches inside Aeon Mall + ATMs
-        ├── Aeon Allianz Life Insurance (JV with Allianz) ── life insurance
         ├── Aeon Insurance Service ── walk-in insurance shops
         ├── AEON Thana Sinsap (Thailand) PCL ── Thai consumer finance (SET listed)
         ├── AEON Credit Service (M) Bhd ── Malaysian consumer finance (Bursa listed)
@@ -53,7 +52,6 @@ Aeon Co., Ltd. (8267,  largest distribution player)
 ### Key subsidiaries / affiliates
 
 - **Aeon Bank**: the commercial-bank core. Stores = staffed branches inside Aeon Mall + ATMs inside Aeon stores. Strengthening direct mortgage sales. ^[extracted]
-- **Aeon Allianz Life**: JV with Germany's Allianz, walk-in sales channel ^[extracted]
 - **AEON Thana Sinsap (Thailand)**: listed on Thailand's SET, the largest overseas AFS subsidiary in Southeast Asia ^[extracted]
 - **AEON Credit Service (Asia) / (M)**: locally listed in Hong Kong and Malaysia respectively ^[extracted]
 
@@ -63,10 +61,11 @@ Aeon Co., Ltd. (8267,  largest distribution player)
 |---|---|---|
 | Commercial bank (domestic) | Aeon Bank | Branches inside Aeon Mall + 6,855  ATMs (2025-03-31, 47  prefectures nationwide), strengthening direct mortgage sales |
 | Electronic money | WAON (Aeon group) | Distribution-affiliated electronic money, linked with Aeon Bank accounts |
-| Life insurance | Aeon Allianz Life (JV) | Walk-in sales |
 | Non-life insurance / agency | Aeon Insurance Service | Walk-in insurance shops |
 | Overseas consumer finance (Thailand) | AEON Thana Sinsap PCL (SET listed) | Largest overseas subsidiary |
 | Overseas consumer finance (Hong Kong) | AEON Credit Service (Asia) (HKEX listed) | Long-established, the oldest in the region |
+
+Sources: [Aeon Bank Disclosure 2025](https://www.aeonbank.co.jp/company/release/data/2025/pdf/disclosure/aeonbank202507_p2.pdf) for domestic-bank and ATM disclosure and [Aeon Financial Service IR](https://www.aeonfinancial.co.jp/ir/) for group businesses and overseas subsidiaries. Aeon Allianz Life left the AFS consolidation scope on 2025-07-01 and is not included in the current segment map.
 
 ## 3. History
 
@@ -79,7 +78,9 @@ Aeon Co., Ltd. (8267,  largest distribution player)
 | **2013-04-01** | **Aeon Credit Service → renamed Aeon Financial Service / converted to holding company, making Aeon Bank a 100% subsidiary** ^[extracted] |
 | 2013~ | Asian consumer-finance subsidiary group consolidated under AFS, maintaining local listings ^[extracted] |
 | 2020-03-31 | AFS acquired the shares 60% of Allianz Life Insurance → renamed 2020-05-01 "Aeon Allianz Life Insurance" |
-| 2025  | Aeon Allianz Life transferred to Meiji Yasuda Life (2025-07-01 Meiji Yasuda acquired approximately 85% → renamed 2025-10-01 "Meiji Yasuda Trust Life Insurance") |
+| 2025-07-01 / 2025-10-01 | AFS completed the transfer of 85.1% of Aeon Allianz Life's issued shares to Meiji Yasuda Life. After becoming a Meiji Yasuda subsidiary, it was renamed Meiji Yasuda Trust Life Insurance on 2025-10-01. |
+
+Sources: [Aeon Financial Service IR](https://www.aeonfinancial.co.jp/ir/) and [Aeon Bank company information](https://www.aeonbank.co.jp/company/) for the group and bank events; [Meiji Yasuda Life's 2025-07-01 completion release](https://www.meijiyasuda.co.jp/profile/news/release/2025/pdf/20250701_01.pdf) for the 85.1% acquisition completion and 2025-10-01 rename.
 
 ### Distribution-affiliated bank model (differentiation axis)
 
@@ -140,7 +141,7 @@ Aeon Co., Ltd. (8267,  largest distribution player)
 - AEON Credit Service (Asia) Co., Ltd. official (HKEX)
 - AEON Credit Service (M) Bhd official (Bursa Malaysia)
 - Aeon Bank disclosure magazine 2025 (6,855  ATMs / 2025-03-31) — https://www.aeonbank.co.jp/company/release/data/2025/pdf/disclosure/aeonbank202507_p2.pdf
-- Aeon Allianz Life Insurance history (AFS acquired 60% in 2020-03-31 → renamed 2020-05-01 / transferred to 2025-10-01 Meiji Yasuda Trust Life) — https://ja.wikipedia.org/wiki/イオン・アリアンツ生命保険
+- Meiji Yasuda Life 2025-07-01 acquisition-completion release (85.1% acquisition; renamed Meiji Yasuda Trust Life on 2025-10-01) — https://www.meijiyasuda.co.jp/profile/news/release/2025/pdf/20250701_01.pdf
 
 ---
 

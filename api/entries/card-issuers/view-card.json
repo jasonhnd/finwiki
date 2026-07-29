@@ -57,7 +57,7 @@
     "1. 法人・株主",
     "2. ライセンス・登録",
     "3. 商品ライン",
-    "4. 主要 KPI（公表ベース）",
+    "4. 公表値の扱い",
     "5. 業界ポジション",
     "6. 沿革",
     "7. 関連企業・取引先"
@@ -98,8 +98,8 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 4644,
-    "word_like_tokens": 836,
+    "nonspace_chars": 3854,
+    "word_like_tokens": 670,
     "inbound_wikilinks_count": 1,
     "last_modified": "2026-06-06"
   }

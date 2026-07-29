@@ -79,12 +79,15 @@
       "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
       "https://finwiki.zksc.io/ja/domains/payments/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 2,
+    "external_links": [
+      "https://www.eposcard.co.jp/company/",
+      "https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 2666,
-    "word_like_tokens": 394,
+    "nonspace_chars": 2885,
+    "word_like_tokens": 426,
     "inbound_wikilinks_count": 13,
     "last_modified": "2026-06-05"
   }

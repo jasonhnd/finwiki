@@ -36,6 +36,8 @@ This entry sits under [[card-issuers/INDEX|card-issuers INDEX]] (its domain rout
 | Cash-advance lane | カードのキャッシング枠は貸金業法の枠組み；グループの貸付本体は [[consumer-finance/aiful|アイフル]] |
 | Supervision | 金融庁（貸金・前払式）＋ 経済産業省（割賦販売法）、自主規制は [[card-issuers/installment-sales-act-2020-amendment|日本クレジット協会]] |
 
+Sources: [ライフカード会社概要](https://www.lifecard.co.jp/company/outline/) and [METI の包括信用購入あっせん業者一覧](https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html).
+
 ## 2. Operating model
 
 ライフカードは AIFUL に、無担保貸付に加えてカード・プリペイドの payment surface を与える。割賦の中身は一括・分割払い (分割払い)・リボ (リボルビング)、加えて銀行保証・保険代理といった consumer-credit と payments の交差点に位置する事業を持つ。前払式（プリペイド）は割賦のカード発行とは別ライセンス系統（資金決済法）であり、貸付本体（貸金業法）とも切り分けて読む必要がある。[[consumer-finance/acom|アコム]] や bank-affiliated card issuer に対する good comparator になる。

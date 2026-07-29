@@ -35,6 +35,8 @@ SMBCコンシューマーファイナンスは **PROMISE (プロミス) ブラ�
 | Main lanes | Consumer lending (カードローン), guarantee (保証業), overseas consumer finance |
 | Regulatory route | 貸金業 (Money Lending Business Act) 登録、日本貸金業協会加盟 (official profile) |
 
+Sources: [SMBC Consumer Finance's corporate profile](https://www.smbc-cf.com/corporate/outline.html) and [service overview](https://www.smbc-cf.com/business/service.html). The ownership route is stated as a direct-versus-ultimate-parent distinction and should be read against the current company disclosure.
+
 直接の株主が三井住友カードで、その上に SMFG が立つ二段の親子関係に注意。INDEX の「SMFG 100% 完全子会社」は ultimate parent ベースの表現で、直接の保有主体は三井住友カード。
 
 ## 2. Business role

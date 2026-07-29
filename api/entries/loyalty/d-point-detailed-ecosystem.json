@@ -11,17 +11,17 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/loyalty/d-point-detailed-ecosystem.md",
   "raw_markdown_url": "https://finwiki.zksc.io/loyalty/d-point-detailed-ecosystem.md",
   "domain": "loyalty",
-  "title": "d Point detailed ecosystem (NTT docomo) — accrual mechanics, d Card / d払い convergence, 2025 reform",
+  "title": "d Point detailed ecosystem (NTT docomo) — accrual mechanics, d Card / d払い convergence, current rank rules",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "d Point detailed ecosystem (NTT docomo) — accrual mechanics, d Card / d払い convergence, 2025 reform",
+    "title": "d Point detailed ecosystem (NTT docomo) — accrual mechanics, d Card / d払い convergence, current rank rules",
     "aliases": [
       "loyalty/d-point-detailed-ecosystem",
       "d-point-detailed-ecosystem",
       "d Point detailed",
       "dポイント詳細",
       "d Point Club mechanics",
-      "dポイントクラブ 2025",
+      "dポイントクラブ current rank rules",
       "d Card GOLD point multiplier",
       "docomo d-account loyalty"
     ],
@@ -49,8 +49,9 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://dpoint.docomo.ne.jp/",
-      "https://dpoint.docomo.ne.jp/club/",
+      "https://dpoint.docomo.ne.jp/guide/index.html",
+      "https://dpoint.docomo.ne.jp/guide/about_rank/index.html",
+      "https://dpoint.docomo.ne.jp/dpc/d_account/kiyaku.html",
       "https://dcard.docomo.ne.jp/",
       "https://service.smt.docomo.ne.jp/keitai_payment/",
       "https://www.docomo.ne.jp/info/news_release/",
@@ -61,11 +62,11 @@
   },
   "summary": "This entry sits under loyalty index as the operator-deep page for dポイント, pairing with d Point / au telco-point consolidation case for the comparative telco-anchor view, V Point (SMBC × CCC) case for the bank-anchored contrast, Japan points and loyalty landscape for the ecosystem map, point liability",
   "headings": [
-    "d Point detailed ecosystem (NTT docomo) — accrual mechanics, d Card / d払い convergence, 2025 reform",
+    "d Point detailed ecosystem (NTT docomo) — accrual mechanics, d Card / d払い convergence, current rank rules",
     "Wiki route",
     "TL;DR",
     "d-account, dポイントクラブ, and member scale",
-    "2025 dポイントクラブ reform — rank-system overhaul",
+    "Current dポイントクラブ rank rules",
     "Accrual rate at docomo services vs partner merchants",
     "d Card GOLD — the gold-status hurdle and economics",
     "d払い convergence — wallet, card, and bill payment",
@@ -118,12 +119,28 @@
       "https://finwiki.zksc.io/ja/domains/retail/",
       "https://finwiki.zksc.io/ja/retail/lawson-mitsubishi-corporation-tie-up-2024-deep/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 15,
+    "external_links": [
+      "https://about.paypay.ne.jp/en/about/",
+      "https://dcard.docomo.ne.jp/",
+      "https://dpoint.docomo.ne.jp/dpc/d_account/kiyaku.html",
+      "https://dpoint.docomo.ne.jp/guide/about_rank/index.html",
+      "https://dpoint.docomo.ne.jp/guide/index.html",
+      "https://elaws.e-gov.go.jp/document?lawid=421AC0000000059",
+      "https://point.rakuten.co.jp/guidance/en/faq/pointinfo/",
+      "https://service.smt.docomo.ne.jp/keitai_payment/",
+      "https://vpoint.jp/",
+      "https://www.asb.or.jp/jp/wp-content/uploads/asbj_29.pdf",
+      "https://www.fsa.go.jp/menkyo/menkyo.html",
+      "https://www.ifrs.org/issued-standards/list-of-standards/ifrs-15-revenue-from-contracts-with-customers/",
+      "https://www.loyalty.co.jp/company/outline",
+      "https://www.nanaco-net.jp/introduction/",
+      "https://www.waon.net/point/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 13513,
-    "word_like_tokens": 2318,
+    "nonspace_chars": 13595,
+    "word_like_tokens": 2356,
     "inbound_wikilinks_count": 13,
     "last_modified": "2026-06-04"
   }

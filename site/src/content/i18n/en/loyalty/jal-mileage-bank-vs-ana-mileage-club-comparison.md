@@ -1,11 +1,11 @@
 ---
 source: loyalty/jal-mileage-bank-vs-ana-mileage-club-comparison
-source_hash: 046e45c8844f6138
+source_hash: 4153b110a28ea274
 lang: en
 status: machine
 fidelity: ok
 title: "JAL Mileage Bank vs ANA Mileage Club — accrual, redemption, partner network, status tier, deferred-revenue accounting"
-translated_at: 2026-06-19T06:09:18.088Z
+translated_at: 2026-07-29T07:52:14.000Z
 ---
 
 # JAL Mileage Bank vs ANA Mileage Club — accrual, redemption, partner network, status tier, deferred-revenue accounting
@@ -16,14 +16,14 @@ This entry sits under [[loyalty/INDEX|loyalty index]] as the **frequent-flyer-pr
 
 ## TL;DR
 
-**JAL Mileage Bank (JMB)** and **ANA Mileage Club (AMC)** are the two dominant Japanese airline frequent-flyer programs. Both are **mileage-based deferred-revenue loyalty programs** under IFRS 15 / ASBJ Statement No.29 (contract liability under "material right" framework), and both are structurally distinct from common-point programs (dポイント, Pontaポイント, V Point, PayPay Points, Rakuten Points) in three respects: ① **mile-denominated currency** with redemption primarily against airline-seat inventory (not retail purchase value); ② **status-tier dynamics** based on flown-revenue-mile (FOP / PP) thresholds that determine lounge access, upgrade priority, and service tier; ③ **alliance interoperability** (JAL → oneworld, ANA → Star Alliance) that opens cross-airline mileage accrual and redemption. The accrual side of both programs has materially expanded into **non-flight earning** via co-branded credit cards ([[card-issuers/jal-card|JAL Card]], ANA Card series), partner-merchant scan campaigns, and bilateral exchange with common-point programs. The accounting treatment of mileage liability differs materially from cash-equivalent points — under IFRS 15, the airline allocates a portion of ticket revenue to the granted miles using **standalone selling prices** of the redemption seat / award, then releases revenue as miles are redeemed or recognised as breakage. This produces large, persistent contract-liability balances on airline balance sheets (typically multi-hundred-billion-yen scale for both JAL and ANA combined).
+**JAL Mileage Bank (JMB)** and **ANA Mileage Club (AMC)** are major Japanese airline frequent-flyer programmes. Both use mile-denominated rewards, annual status metrics, alliance partners, co-branded cards, and non-flight earning routes. Accounting must be established from each airline's exact filing note. IFRS 15 supplies a possible material-right framework for miles granted in a customer contract, but this page does not infer entity-specific balance, classification, or breakage policy from programme terms alone.
 
 ## Program scale and identity layer
 
 | Item | JAL Mileage Bank (JMB) | ANA Mileage Club (AMC) |
 |---|---|---|
 | Operator | [[card-issuers/jal-card|日本航空 (JAL) ]] | ANA Holdings 全日本空輸 (ANA) |
-| Alliance | **oneworld** (founding member) | **Star Alliance** (founding member) |
+| Alliance | **oneworld** member | **Star Alliance** member |
 | Mileage validity | 36 months from accrual month (legacy default) | 36 months from accrual month |
 | Status-tier metric | **FLY ON POINT (FOP)** based on flown revenue miles | **PREMIUM POINT (PP)** based on flown revenue miles |
 | Member base (Japan + global) | Tens of millions of accounts (combined JMB + JGC) | Tens of millions of accounts (combined AMC + SFC) |
@@ -31,6 +31,8 @@ This entry sits under [[loyalty/INDEX|loyalty index]] as the **frequent-flyer-pr
 | Premium status tier | **JMB Diamond** (top-tier annual qualifier; FOP threshold) | **AMC Diamond** (top-tier annual qualifier; PP threshold) |
 | Anchor co-branded card issuer | [[card-issuers/jal-card|JAL Card]] (株式会社JALカード, JAL 100% subsidiary) | ANA Card series — issued by partner card companies (JCB / VISA / Master / AmEx / Diners) under co-brand |
 | Mileage program operator | JAL internal (no separate operating company) | ANA internal (no separate operating company) |
+
+Sources: [JAL Mileage Bank](https://www.jal.co.jp/jp/ja/jalmile/), [ANA Mileage Club](https://www.ana.co.jp/ja/jp/amc/), [oneworld](https://www.oneworld.com/), and [Star Alliance](https://www.staralliance.com/). Programme rules and partner availability are subject to change.
 
 The **JGC / SFC perpetual-status mechanism** is a Japanese FFP-specific feature: once a member meets the FOP / PP threshold in a single calendar year, they can apply for a JAL Global Club or Super Flyers Club credit card (the "lifetime ticket" pattern), and as long as they continue to hold that card and pay the annual fee, they retain a service tier (Sapphire / Gold equivalent) regardless of subsequent-year flight activity. This creates a structurally large "former-flyer" status-holder base that does not exist in the same scale at non-Japanese FFPs.
 
@@ -60,6 +62,8 @@ The materially larger volume of mile-issuance now comes from non-flight sources,
 | **Hotel partner accrual** | JAL ABC, JAL ホテル, partner global hotel chains (oneworld + non-alliance hotel partners) | ANA インターコンチネンタル, ANA Crowne Plaza, partner global hotel chains |
 | **Other** | Car rental, restaurant, leisure partner programs | Car rental, restaurant, leisure partner programs |
 
+Sources: the official [JAL Mileage Bank](https://www.jal.co.jp/jp/ja/jalmile/) and [ANA Mileage Club](https://www.ana.co.jp/ja/jp/amc/) partner directories. This table identifies programme categories, not a complete partner inventory.
+
 The **deepest structural difference** is on the **common-point bilateral exchange** side: **JAL Mileage Bank has a particularly strong relationship with Pontaポイント** (Loyalty Marketing-operated, Mitsubishi-affiliated), reinforced by JAL's status as a Pontaポイント alliance member. **ANA Mileage Club has a stronger relationship with Rakuten Points and historically Tポイント**, reflecting different commercial partner negotiations. Under the [[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|2024 Lawson + Mitsubishi take-private]], the JAL ↔ Pontaポイント ↔ Lawson cross-ecosystem becomes a more coherent triangle.
 
 ## Mileage redemption — seat inventory dominant
@@ -77,6 +81,8 @@ The dominant redemption mode for both programs is **award airline tickets** agai
 | **Non-flight redemption** | Limited (electronic money / partner products) | Limited (electronic money / partner products) |
 | **Convert mile → e-money** | **JAL ペイ** (JAL Pay; conversion of miles into JAL Pay balance, paid back via ePay) | **ANA Pay** (conversion of miles into ANA Pay balance) |
 
+Sources: [JAL Mileage Bank](https://www.jal.co.jp/jp/ja/jalmile/) and [ANA Mileage Club](https://www.ana.co.jp/ja/jp/amc/). Availability, fees, and conversion rules are not inferred from alliance membership alone.
+
 The redemption-economics rule of thumb is **2-3¥ per mile equivalent value** for international premium-cabin redemption (typical "sweet spot" for both programs), vs **~1¥/mile** for low-season domestic economy. This is materially higher than common-point redemption value (~1¥/point), which is the economic justification for accumulating miles rather than converting to common points or cash.
 
 The **mile → e-money conversion** route (JAL Pay, ANA Pay) provides a cash-like exit but typically at a less-favorable conversion ratio than premium-cabin award redemption — economically, it functions as a "soft floor" rather than a primary redemption target.
@@ -92,21 +98,21 @@ The **mile → e-money conversion** route (JAL Pay, ANA Pay) provides a cash-lik
 
 Both programs reset annually (calendar year basis), but the **JGC / SFC perpetual-status mechanism** is the most important Japan-specific feature. The economic implication is that **JGC / SFC card-holders represent a long-tail of perpetual-loyalty members** whose deferred-mileage liability persists even when they fly less, and whose card-spend produces a steady mile-issuance flow that the airline must accrue against contract liability.
 
-## Deferred-revenue accounting — IFRS 15 contract liability
+## Accounting review framework — not an airline-specific conclusion
 
-Both JAL and ANA report under IFRS / J-GAAP-aligned standards, and treat **unredeemed mileage as contract liability (deferred revenue)** under the IFRS 15 "material right" framework:
+Use the following framework when reading the exact JAL or ANA filing. The rows are conditional, not statements of either airline's current policy:
 
 | Event | Accounting treatment |
 |---|---|
-| **Customer purchases ticket that earns miles** | Allocate transaction price between the ticket-service obligation and the mileage-grant obligation, using standalone selling prices (SSPs); recognise ticket-service portion as revenue at flight completion; recognise mileage portion as contract liability |
-| **Customer purchases ticket-related ancillary that earns miles** (e.g., paid seat upgrade) | Same treatment — split transaction price by SSP |
-| **Customer earns miles from co-branded card spend or partner-merchant accrual** | The mile-issuer (JAL / ANA) receives cash from the card-issuer or partner for the miles purchased; recognise as contract liability at the cash-received amount |
-| **Customer redeems miles for award ticket** | Release the corresponding contract liability into recognised revenue at the date of redemption (or flight, depending on the carrier's recognition policy) |
-| **Mileage expires unredeemed** | Release the contract liability based on the breakage assumption (typically estimated via historical redemption-pattern statistical model); breakage is recognised in proportion to actual redemption pattern under IFRS 15 |
+| **Ticket purchase grants miles** | Determine whether the miles provide a material right. If so, allocate transaction price using relative standalone selling prices and recognise the allocated amount as the related obligation is satisfied |
+| **Ancillary purchase grants miles** | Perform the same contract-specific material-right and allocation assessment; do not assume the ticket policy automatically applies |
+| **Co-branded card / partner miles** | Identify the contracting parties, consideration, issuer obligation, and principal-agent role before classifying receipts or obligations |
+| **Award redemption** | If a contract liability exists, recognise the allocated amount when the promised award service is provided under the entity's policy |
+| **Expiry / expected breakage** | Apply the applicable breakage guidance only to a recognised obligation and only when the estimation criteria are satisfied |
 
-The **contract-liability balance** for both JAL and ANA is in the **multi-hundred-billion-yen scale** based on public IR disclosures (the exact balance varies year-to-year and is disclosed in the consolidated balance sheet's "other liabilities" / "contract liabilities" line). The breakage assumption is reviewed annually, and JAL's COVID-period and post-COVID disclosures show how pandemic-era recognition policies (mile-validity extensions, special breakage assumptions) materially affected reported revenue.
+Sources: [IFRS 15](https://www.ifrs.org/issued-standards/list-of-standards/ifrs-15-revenue-from-contracts-with-customers/) and [ASBJ Statement No.29](https://www.asb.or.jp/jp/wp-content/uploads/asbj_29.pdf). [JAL investor information](https://www.jal.com/ja/investor/) and [ANA Group investor information](https://www.ana.co.jp/group/investors/) are the filing routes; an entity fact requires the relevant dated note.
 
-The contrast with **[[loyalty/d-point-detailed-ecosystem|dポイント]]** is that NTT docomo's contract-liability disclosure combines dポイント with telecom-revenue deferred amounts, while **JAL and ANA disclose mileage liability in clearly identifiable contract-liability line items** (because mileage is the dominant non-flight deferred-revenue obligation for an airline). The broader framework is documented in [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]].
+No combined “multi-hundred-billion-yen” estimate or claim of clearly identifiable airline-specific line items is made without exact dated notes. The broader framework is documented in [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]].
 
 ## Partner-network depth — beyond alliance
 

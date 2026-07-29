@@ -50,7 +50,7 @@
       "https://www.chiginkyo.or.jp/"
     ]
   },
-  "summary": "This entry sits under the leasing-firms INDEX as the FG-subsidiary leasing operating-company anchor for 千葉銀行 (Chiba Bank). Read it against parent operating bank 千葉銀行 (no-holding 単独銀行 model) and sibling subsidiary ちばぎん証券. Peer comparison: めぶきリース (北関東地銀系リース) / 横浜銀リース (神奈川地銀系リース) / 北海道リース / 山口リース / いよぎ",
+  "summary": "This entry sits under the leasing-firms INDEX as the FG-subsidiary leasing operating-company anchor for 千葉銀行 (Chiba Bank). Read it against parent operating bank 千葉銀行 (no-holding 単独銀行 model) and sibling subsidiary ちばぎん証券. Peer comparison: めぶきリース (北関東地銀系リース) / 浜銀ファイナンス (神奈川地銀系リース) / 北海道リース / 山口リース / い",
   "headings": [
     "ちばぎんリース (Chibagin Leasing)",
     "Wiki route",
@@ -64,7 +64,7 @@
     "強み・弱み"
   ],
   "body_links": {
-    "wikilinks_count": 34,
+    "wikilinks_count": 33,
     "wikilinks": [
       "banking/INDEX",
       "banking/regional-bank-api-digital-partnership-route",
@@ -93,7 +93,6 @@
       "regional-banks/chiba-kogyo-bank",
       "regional-banks/concordia-fg",
       "regional-banks/fukuoka-fg",
-      "regional-banks/hokkaido-bank",
       "regional-banks/iyogin-hd",
       "regional-banks/mebuki-fg",
       "regional-banks/shizuoka-fg",
@@ -129,7 +128,6 @@
       "https://finwiki.zksc.io/ja/regional-banks/chiba-kogyo-bank/",
       "https://finwiki.zksc.io/ja/regional-banks/concordia-fg/",
       "https://finwiki.zksc.io/ja/regional-banks/fukuoka-fg/",
-      "https://finwiki.zksc.io/ja/regional-banks/hokkaido-bank/",
       "https://finwiki.zksc.io/ja/regional-banks/iyogin-hd/",
       "https://finwiki.zksc.io/ja/regional-banks/mebuki-fg/",
       "https://finwiki.zksc.io/ja/regional-banks/shizuoka-fg/",
@@ -137,12 +135,20 @@
       "https://finwiki.zksc.io/ja/regional-banks/yokohama-bank/",
       "https://finwiki.zksc.io/ja/securities-firms/chibagin-securities/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 7,
+    "external_links": [
+      "http://www.cblnet.co.jp/about/",
+      "https://www.chibabank.co.jp/news/news202200805_01_001",
+      "https://www.do-lease.co.jp/company/history.html",
+      "https://www.do-lease.co.jp/company/profile.html",
+      "https://www.iyogin-hd.co.jp/company/group.html",
+      "https://www.mebuki-lease.co.jp/gaiyo/index.html",
+      "https://www.ymfg.co.jp/about/profile/group/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 7146,
-    "word_like_tokens": 1087,
+    "nonspace_chars": 7082,
+    "word_like_tokens": 1094,
     "inbound_wikilinks_count": 6,
     "last_modified": "2026-06-08"
   }

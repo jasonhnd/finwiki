@@ -1,18 +1,18 @@
 ---
 source: leasing-firms/ibj-leasing
-source_hash: b8da8de7feb9978d
+source_hash: 547f77f66afa372a
 lang: ja
 status: machine
 fidelity: ok
-title: "興銀リース (旧称・現みずほリース統合)"
-translated_at: 2026-06-19T06:09:18.173Z
+title: 興銀リース (旧称・現みずほリース統合)
+translated_at: 2026-07-29T07:37:42Z
 ---
 
 # 興銀リース (旧称・現みずほリース統合)
 
 ## Wiki route
 
-このエントリは [[leasing-firms/INDEX|leasing-firms INDEX]] の下に位置する。[[leasing-firms/mizuho-lease|Mizuho Leasing / みずほリース]] (合併後の存続承継エンティティ post-2019 ) および [[banking/INDEX|banking index]] (より広範なシステム / 規制境界) と照らし合わせて読むこと。みずほ側の歴史エンティティとして、親グループのコンテキストのために [[megabanks/mizuho-fg|Mizuho FG]] と併せて読むこと。
+This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it against [[leasing-firms/mizuho-lease|Mizuho Leasing / みずほリース]] (the surviving successor entity post-2019 merger) and [[banking/INDEX|banking index]] for the broader system / regulatory boundary. As a Mizuho-side historical entity, read it together with [[megabanks/mizuho-fg|Mizuho FG]] for parent-group context.
 
 ## TL;DR
 
@@ -28,6 +28,8 @@ translated_at: 2026-06-19T06:09:18.173Z
 | Parent (旧) | 旧 日本興業銀行 (IBJ) → 1999 統合後 みずほフィナンシャルグループ [[megabanks/mizuho-fg|Mizuho FG]] |
 | Successor entity | [[leasing-firms/mizuho-lease|みずほリース (Mizuho Leasing)]] (2019-04-01 〜) |
 | Wiki role | 旧 IBJ レガシー資産 + みずほリース 統合事歴のノード。歴史的継続性確認と検索性のために残置 |
+
+出典: [みずほリース](https://www.mizuho-ls.co.jp/)および[みずほフィナンシャルグループ](https://www.mizuho-fg.co.jp/)（旧社からの継続、名称およびグループ関係）。
 
 ## 2. Merger history & business lines (旧)
 

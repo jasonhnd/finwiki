@@ -42,6 +42,8 @@ Rakuten Point (楽天ポイント, launched November 2002) is the **clearest ful
 | Spend surface | 70+ services + ~5M affiliated locations; bills, EC, mobile, investing | Points are near-cash *inside* the ecosystem |
 | Currency types | Regular points vs **limited-time / limited-use points (期間限定ポイント)** | Limited points steer redemption and raise breakage |
 
+Sources: [Rakuten Point guidance](https://point.rakuten.co.jp/guidance/en/faq/pointinfo/), [Rakuten Group updates](https://global.rakuten.com/corp/news/update/2022/0719_01.html), and [Rakuten investor information](https://corp.rakuten.co.jp/investors/financial/). The role column is an economic interpretation of the disclosed programme design.
+
 The defining property is **closed-loop reinvestment**: points earned on shopping or card spend can be spent on future shopping, mobile bills, or even fractional investing in 楽天証券 — so value rarely leaves the perimeter. That is what makes Rakuten Point behave like an internal scrip rather than a coupon.
 
 ## The SPU flywheel: why "reward rate" is endogenous

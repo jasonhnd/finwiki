@@ -111,12 +111,18 @@
       "https://finwiki.zksc.io/ja/payments/funds-transfer-vs-prepaid-boundary/",
       "https://finwiki.zksc.io/ja/payments/japan-prepaid-electronic-money-operator-matrix/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 5,
+    "external_links": [
+      "https://corp.rakuten.co.jp/investors/financial/",
+      "https://elaws.e-gov.go.jp/document?lawid=421AC0000000059",
+      "https://point.rakuten.co.jp/guidance/en/faq/pointinfo/",
+      "https://www.asb.or.jp/jp/wp-content/uploads/asbj_29.pdf",
+      "https://www.fsa.go.jp/menkyo/menkyo.html"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 11401,
-    "word_like_tokens": 1877,
+    "nonspace_chars": 12065,
+    "word_like_tokens": 1993,
     "inbound_wikilinks_count": 4,
     "last_modified": "2026-06-15"
   }

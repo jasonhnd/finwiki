@@ -19,12 +19,8 @@ tags: [loyalty, points, ponta, loyalty-marketing, kddi, au-pay, lawson, mitsubis
 status: active
 sources:
   - "https://www.ponta.jp/"
-  - "https://aupay.wallet.auone.jp/contents/static/point/"
-  - "https://www.kddi.com/corporate/newsrelease/"
-  - "https://www.mitsubishicorp.com/jp/ja/pr/"
-  - "https://www.lawson.co.jp/company/news/"
-  - "https://www.recruit.co.jp/newsroom/"
-  - "https://www.loyalty.co.jp/"
+  - "https://www.loyalty.co.jp/company/outline"
+  - "https://news.kddi.com/kddi/corporate/newsrelease/2020/05/21/4447.html"
   - "https://paymentsjapan.or.jp/category/publications/"
 ---
 
@@ -32,11 +28,11 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[loyalty/INDEX|loyalty index]] as the **deep operator page** for Pontaポイント, pairing with [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|d Point / au (KDDI) telco-point consolidation case]] for the strategic framing of au PAY ポイント (the unified brand that absorbed Ponta on the wallet side in 2024-12), [[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) case]] for the bank-anchored contrast, [[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]] for the telco-anchored peer, [[loyalty/japan-points-landscape|Japan points and loyalty landscape]] for the ecosystem map, [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] for the IFRS 15 treatment, [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]] for the wallet-layer overlay, [[megabanks/au-fh|au Financial Holdings]] for the parent financial-holding structure, and [[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|Lawson + Mitsubishi 2024 deep tie-up]] for the most contested retail-anchor surface.
+This entry sits under [[loyalty/INDEX|loyalty index]] as the **deep operator page** for Pontaポイント, pairing with [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|d Point / au (KDDI) telco-point consolidation case]] for the KDDI linkage, [[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) case]] for the bank-anchored contrast, [[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]] for the telco-anchored peer, [[loyalty/japan-points-landscape|Japan points and loyalty landscape]] for the ecosystem map, [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] for the accounting framework, [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]] for the wallet-layer overlay, [[megabanks/au-fh|au Financial Holdings]] for the parent financial-holding structure, and [[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|Lawson + Mitsubishi 2024 deep tie-up]] for the retail-anchor surface.
 
 ## TL;DR
 
-**Pontaポイント** is one of Japan's three largest common-point programmes, operated by **株式会社ロイヤリティ マーケティング (Loyalty Marketing, Inc.)** — a Mitsubishi Corporation group company since the 2015 acquisition. Originally launched in **2010 as a CCC + Mitsubishi Corp joint coalition** competing against T-Point's then-dominance, Ponta gained anchor partner status at **Lawson (Mitsubishi Corp investee), KDDI au (telco coalition partner), JAL (airline alliance), Recruit Holdings ecosystem (じゃらん, Hot Pepper, GEO), and 出光昭和シェル (fuel)**. The strategic reshaping occurred through two waves: **2010-2020 coalition phase** (Mitsubishi-Recruit-KDDI multi-equity alliance), and **2024-onward consolidation phase** (KDDI's Lawson take-private with Mitsubishi solidified the telco-retail-trading-house axis; 2024-12 au PAY ポイント brand unification absorbed Ponta into the au wallet's loyalty layer). Active Ponta-ID base exceeds **100 million** (Loyalty Marketing public disclosures combined with KDDI au IDs). The structural distinction vs dポイント (pure NTT docomo anchor) and V-Point (pure SMBC anchor) is that **Ponta is a coalition across three large groups** (Mitsubishi Corp, KDDI, Recruit) rather than a single-anchor programme — giving it broader retail surface but more complex governance and revenue-sharing economics.
+**Pontaポイント** is a Japanese common-point programme operated by **株式会社ロイヤリティ マーケティング (Loyalty Marketing, Inc.)**. The operator was established on **2008-12-01** and launched Ponta in 2010. Its official company profile describes a multi-shareholder coalition: Mitsubishi Corporation 22.37%, Lawson 20%, KDDI 20%, Recruit 15%, JAL 15%, MUFG Bank 5%, and GEO 2.63%. KDDI changed its loyalty currency from au WALLET ポイント to **Pontaポイント on 2020-05-21**; au PAY remains the payment service through which Ponta can be earned or used. There is no separate 2024 conversion into a currency called “au PAY ポイント” in the cited official materials.
 
 ## Loyalty Marketing, Inc. — the operator entity
 
@@ -44,28 +40,31 @@ This entry sits under [[loyalty/INDEX|loyalty index]] as the **deep operator pag
 
 | Layer | Role |
 |---|---|
-| Established | 2010-03 (originally JV of Mitsubishi Corp, others) |
-| Current parent | Mitsubishi Corporation (acquired full / majority stake in 2015 from CCC) |
-| Primary role | Operates the Pontaポイント common-point programme; manages partner-merchant contracts, point-issuance funding, redemption settlement, ID database, and data-marketing operations |
+| Established | 2008-12-01 |
+| Shareholders | Mitsubishi Corporation 22.37%; Lawson 20%; KDDI 20%; Recruit 15%; JAL 15%; MUFG Bank 5%; GEO 2.63% |
+| Primary role | Operates the Pontaポイント programme and provides loyalty / marketing services described in the company profile |
 | Headquarters | Tokyo |
-| Operating relationship with KDDI / au | au PAY ポイント and Pontaポイント are operationally unified under au PAY ポイント brand from 2024-12; Loyalty Marketing continues to operate the Ponta retail-coalition partner network |
+| Operating relationship with KDDI / au | KDDI changed au WALLET ポイント to Pontaポイント on 2020-05-21; au PAY users can earn and use Ponta under published service terms |
 | Operating relationship with Lawson | Lawson is a major retail anchor; the 2024 KDDI + Mitsubishi take-private deepens the operational integration |
 
-The corporate history reflects two strategic phases. The **2010-2015 CCC-coalition phase** had Ponta as a counterweight to T-Point with CCC's involvement in the founding consortium. The **2015 Mitsubishi acquisition** consolidated control of Loyalty Marketing under Mitsubishi Corp, separating Ponta operationally from CCC (which retained T-Point as a parallel-but-competing common-point at the time). The **2024 KDDI-Mitsubishi take-private of Lawson** further consolidates the telco-retail-trading-house axis around Ponta as the shared loyalty currency.
+Sources: Loyalty Marketing's [official company profile](https://www.loyalty.co.jp/company/outline) supplies the establishment date and complete shareholder list; KDDI's [2020-05-21 announcement](https://news.kddi.com/kddi/corporate/newsrelease/2020/05/21/4447.html) supplies the point-service change. The shareholder list does not establish a parent-subsidiary relationship.
 
-## KDDI au PAY linkage — 2024-12 brand unification
+The ownership structure is therefore better described as a **multi-shareholder coalition**, not as a Mitsubishi parent-subsidiary structure. The **2024 KDDI-Mitsubishi take-private of Lawson** changes the retail-channel relationship, while Loyalty Marketing's current shareholder percentages remain the appropriate source for the operator's ownership.
 
-The most significant recent change in the Ponta ecosystem is the **2024-12 unification of au PAY ポイント and Pontaポイント** under the au PAY ポイント brand on the wallet side. The mechanics:
+## KDDI au PAY linkage — 2020 point-service change
 
-| Aspect | Pre-unification | Post-2024-12 unification |
+KDDI's official announcement describes a **2020-05-21 change from au WALLET ポイント to Pontaポイント** and account linking between au ID and Ponta membership. The currency continues to be called Pontaポイント; “au PAY ポイント運用” is a separate service name, not evidence of a renamed common-point currency.
+
+| Aspect | Before 2020-05-21 | From 2020-05-21 |
 |---|---|---|
-| Wallet-side accrual | au PAY usage → au WALLET ポイント (separate); Ponta accrued at scan-and-earn surfaces | Unified au PAY ポイント brand for wallet activity; Ponta retains separate retail-coalition identity |
-| Card-side accrual | au PAY カード → au WALLET ポイント | Unified au PAY ポイント |
-| Retail-coalition accrual | Ponta at Lawson, Recruit ecosystem, JAL, etc. | Continues as Pontaポイント at retail; wallet-redemption converts at 1:1 to au PAY ポイント |
-| Customer ID | au-ID (mobile-line anchored) + Ponta-ID (separate) | Linked / unified at the wallet layer |
-| Operator | KDDI / au Financial Service (wallet); Loyalty Marketing (Ponta retail) | KDDI / au Financial Service (wallet); Loyalty Marketing (Ponta retail) — coordinated but separate legal entities |
+| KDDI point currency | au WALLET ポイント | Pontaポイント |
+| Payment surface | au PAY / predecessor services | au PAY remains the payment surface; eligible transactions earn or use Ponta under current terms |
+| Customer identity | au ID and Ponta member ID were separate | Users can link the IDs under the published process |
+| Programme operator | KDDI operated the legacy point; Loyalty Marketing operated Ponta | Loyalty Marketing operates Ponta; KDDI operates its payment and customer services |
 
-The substantive economic effect is that an au subscriber using au PAY at any merchant earns into a single unified balance, and that balance is functionally Ponta-equivalent at all Ponta-accepting retailers. The strategic intent is to **convert Ponta's coalition reach into au-anchored loyalty depth**, narrowing the funnel toward au Financial Holdings cross-sell (au じぶん銀行, au カブコム証券, au 損害保険).
+Sources: KDDI, [“au WALLET ポイント”から“Pontaポイント”へ変更](https://news.kddi.com/kddi/corporate/newsrelease/2020/05/21/4447.html), 2020-05-21. Eligibility, accrual, and redemption remain product- and merchant-specific.
+
+The strategic effect is that KDDI can connect au PAY and other au services to Ponta's coalition surface. It does not make every au PAY transaction eligible for points, nor does it collapse the operating entities into one company.
 
 For the strategic framing, see [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|d Point / au telco-point consolidation case]].
 
@@ -82,9 +81,11 @@ For the strategic framing, see [[loyalty/d-point-au-kddi-docomo-telco-point-cons
 | 2024 KDDI + Mitsubishi take-private | Both shareholders incentivised to deepen Ponta integration at Lawson |
 | Cross-coalition complication | dポイント was historically also earnable at Lawson via partnership; post-KDDI ownership, KDDI's strategic incentive favours Ponta over dポイント |
 
+Sources: [Ponta](https://www.ponta.jp/), [d Point](https://dpoint.docomo.ne.jp/), and [Lawson news](https://www.lawson.co.jp/company/news/). The final clause is editorial analysis of the public ownership and partnership structure.
+
 The **2024 take-private** materially strengthens the Ponta-Lawson tie because KDDI's economic incentive is now aligned with maximising Ponta accrual / redemption at Lawson, and Mitsubishi Corp's existing operational involvement at Loyalty Marketing means both 50% shareholders share aligned interest in Ponta's success at the retail anchor. For the deep mechanics of the Lawson take-private and the strategic restructuring, see [[retail/lawson-mitsubishi-corporation-tie-up-2024-deep|Lawson + Mitsubishi Corporation 2024 take-private + KDDI tie-up]].
 
-The **contested-partnership question** is whether dポイント retains earn parity at Lawson over the medium term, or whether KDDI gradually shifts incentive structures toward Ponta-only. The 2024-2025 operational reality is that both points still accrue at Lawson, but campaign multipliers and bonus events have favoured Ponta / au PAY ポイント in KDDI-aligned promotion windows.
+Future campaign balance between Ponta and dポイント at Lawson is an analytical question. Current earn / use eligibility must be checked in Lawson and each programme's live terms; no trend in campaign preference is asserted without dated campaign data.
 
 ## Recruit ecosystem — じゃらん, Hot Pepper, GEO
 
@@ -98,15 +99,14 @@ The **Recruit Holdings coalition** brings non-telco daily-use surfaces to the Po
 | Air Regi (Recruit's POS for SMB merchants) | Indirect — merchants on Air Regi can opt into Ponta acceptance | SMB merchant infrastructure |
 | ホットペッパーグルメ / ビューティー | Bookings earn Ponta | Discretionary services |
 
-Recruit's relationship with the Ponta coalition adds **non-Mitsubishi non-KDDI commercial surfaces** that broaden the Ponta-ID's daily-use frequency. The historical Recruit-CCC-au-KDDI cross-equity moves around the Ponta operator (Loyalty Marketing) are publicly documented through KDDI and Recruit press releases.
+Recruit's relationship with the Ponta coalition adds **non-Mitsubishi and non-KDDI commercial surfaces**. Loyalty Marketing's current company profile lists Recruit as a 15% shareholder.
 
 ## Comparison with d-Point, PayPay Points, and V-Point
 
-| Dimension | Pontaポイント / au PAY ポイント | dポイント | PayPay Points | V Point |
+| Dimension | Pontaポイント | dポイント | PayPay Points | V Point |
 |---|---|---|---|---|
 | Anchor type | Coalition: KDDI telco + Mitsubishi retail (Lawson) + Recruit services + JAL airline | NTT docomo telco | SoftBank / LY wallet | SMBC bank / card |
-| Operator | Loyalty Marketing (Ponta) + au Financial Service (au PAY ポイント) | NTT docomo direct | PayPay 株式会社 | CCCMK Holdings |
-| Member ID base | 100M+ combined Ponta + au IDs | 100M+ d-accounts | 70M+ PayPay registered | 130M+ unified |
+| Operator | Loyalty Marketing | NTT docomo / NTT docomo Financial Group under current terms | PayPay 株式会社 | CCCMK Holdings / SMBC-side services under current terms |
 | Wallet integration | au PAY | d払い | PayPay (dominant; see [[payments/japan-code-payment-operator-2025-market-share-matrix|share matrix]]) | V NEAR PAY + Olive |
 | Credit card | au PAY カード | d Card / d Card GOLD | PayPay Card | SMBC Card / Olive一体型 |
 | Bank | au じぶん銀行 | (planned NDFG; partner banks today) | PayPay Bank | SMBC / Olive |
@@ -114,6 +114,8 @@ Recruit's relationship with the Ponta coalition adds **non-Mitsubishi non-KDDI c
 | Insurance | au 損害保険 | (planned NDFG roll-up) | LINE保険 / partner route | SMBC partner route |
 | Retail flagship | Lawson (50/50 KDDI + Mitsubishi), Recruit ecosystem, JAL | Lawson (partnership), McDonald's, Matsumoto Kiyoshi, ENEOS | National QR acceptance | T-card / TSUTAYA legacy network, FamilyMart legacy |
 | Coalition character | **Multi-group alliance** (KDDI + Mitsubishi + Recruit + JAL) | Single-anchor (NTT docomo) with bilateral partners | Single-anchor (SoftBank / LY / PayPay) with national QR | Bilateral (SMFG + CCC) |
+
+Sources: [Ponta](https://www.ponta.jp/), [d Point](https://dpoint.docomo.ne.jp/), [PayPay corporate information](https://about.paypay.ne.jp/en/about/), and [V Point](https://vpoint.jp/). The coalition labels compare disclosed programme structures rather than market rankings.
 
 The structural distinction is that **Ponta is the most coalition-shaped of the four major common points**, with three large equity stakeholders (KDDI, Mitsubishi Corp, Recruit) plus airline (JAL) and others. This gives Ponta the broadest retail and service surface but creates **multi-party governance complexity** that single-anchor programmes (d-Point, PayPay Points) avoid.
 
@@ -123,12 +125,14 @@ The **JAL alliance** is a distinctive feature of the Ponta ecosystem. The mechan
 
 | Aspect | Description |
 |---|---|
-| Exchange direction | Ponta ↔ JAL mileage at defined conversion rates (typically less than 1:1 in either direction, reflecting the airline-mileage premium) |
-| Settlement | Bilateral net-settlement between Loyalty Marketing and JAL Mileage Bank |
+| Exchange direction | Ponta ↔ JAL mileage conversion is offered under published customer terms |
+| Customer rate | The current conversion rate, minimum unit, eligibility, and exclusions must be read from the programme terms at the time of use |
 | Customer use case | Convert Ponta to JAL miles for award flights; convert JAL miles to Ponta for daily retail use |
-| Cross-program economics | The spread between consumer-facing conversion rate and bilateral settlement rate is the operators' margin |
+| Commercial settlement | The consumer pages do not disclose the operators' settlement timing, settlement rate, credit support, or margin |
 
-This exchange relationship is one of the most mature in Japan, predating the comparable Rakuten ↔ ANA and dポイント ↔ JAL exchanges in operational depth. For accounting framing of cross-program exchange, see [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]] which describes how the liability transfer between operators occurs.
+Sources: [Ponta](https://www.ponta.jp/) and [JAL Mileage Bank](https://www.jal.co.jp/jp/ja/jalmile/). The customer conversion route is public; any bilateral settlement economics are analytical and not presented as a disclosed rate.
+
+For accounting review of an exchange, see [[loyalty/point-liability-accounting-boundary|point liability accounting boundary]]. Recognition depends on the relevant contracts and which entity has the enforceable redemption obligation; a consumer conversion page alone does not establish a “liability transfer” between operators.
 
 ## Related
 
@@ -158,9 +162,8 @@ This exchange relationship is one of the most mature in Japan, predating the com
 ## Sources
 
 - Pontaポイント official: https://www.ponta.jp/
-- au PAY ポイント official: https://aupay.wallet.auone.jp/contents/static/point/
-- ロイヤリティ マーケティング official: https://www.loyalty.co.jp/
-- KDDI corporate newsroom (au PAY ポイント / Ponta unification, Lawson acquisition): https://www.kddi.com/corporate/newsrelease/
+- ロイヤリティ マーケティング 会社概要：https://www.loyalty.co.jp/company/outline
+- KDDI 2020-05-21 Pontaポイント変更発表：https://news.kddi.com/kddi/corporate/newsrelease/2020/05/21/4447.html
 - 三菱商事 press releases (Lawson investment, Ponta business): https://www.mitsubishicorp.com/jp/ja/pr/
 - Lawson press releases: https://www.lawson.co.jp/company/news/
 - Recruit Holdings newsroom (Ponta history and coalition): https://www.recruit.co.jp/newsroom/

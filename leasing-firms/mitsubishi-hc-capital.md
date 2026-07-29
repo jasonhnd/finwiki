@@ -24,7 +24,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]] (its domain route). Read it against [[leasing-firms/orix-corp|オリックス株式会社 (ORIX Corporation)]] for peer / contrast (independent conglomerate vs. bank/trading-house affiliate), against [[megabanks/mufg|MUFG]] for the group / parent context, and against [[financial-regulators/fsa|the FSA]] for the supervisory boundary (lessors register 貸金業 under the FSA-overseen Money Lending Business Act).
+This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]] (its domain route). Read it against [[leasing-firms/orix-corp|オリックス株式会社 (ORIX Corporation)]] for peer / contrast (independent conglomerate vs. bank/trading-house affiliate), against [[megabanks/mufg|MUFG]] for the group / shareholder context, and against [[financial-regulators/fsa|the FSA]] for the supervisory boundary.
 
 ## TL;DR
 
@@ -38,8 +38,10 @@ This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]] (its domain ro
 | Securities code | 8593 (東証プライム) |
 | Formed | 2021-04-01、**三菱UFJリース + 日立キャピタル**の合併 (商号変更) |
 | Group affiliation | 三菱商事・MUFG ([[megabanks/mufg|三菱UFJフィナンシャル・グループ]]) 系 |
-| License/業 | リース・割賦・**貸金業** (Money Lending Business Act) ほかアセットファイナンス各業 |
+| License/業 | リース・割賦・各種ファイナンス。貸金業者登録番号は関東財務局長（14）第00330号（有効期限 2023-09-27〜2026-09-27） |
 | Wiki role | Mega-merger bank/trading-house-affiliated lessor anchor |
+
+出典: [三菱HCキャピタル会社概要](https://www.mitsubishi-hc-capital.com/corporate/overview.html)（統合後の法人情報、上場、事業、貸金業登録番号・有効期限）。
 
 合併では、三菱UFJリースの強み (国内・三菱商事/MUFG 連携、航空機エンジンなどアセット) と、日立キャピタルの強み (海外事業・日立グループ連携・販売金融) が統合された。
 

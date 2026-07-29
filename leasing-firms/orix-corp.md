@@ -110,6 +110,8 @@ ORIX Corporation（持株機能 + 直接事業、上場 8591 / IX）
 | 米州 | ORIX USA | 米国不動産・PE・融資 |
 | アジア・豪州 | ORIX Asia / Australia / India | 中国・インド・印度・豪州 |
 
+出典: [ORIX Integrated Report 2025](https://www.orix.co.jp/grp/en/ir/library/annual_report/)（この表の事業セグメントおよびグループ構成）。
+
 ### 多角化モデル
 
 - **「リース＋」モデル**: 創業のリースを起点に、隣接事業（融資 → 不動産 → 投資 → 保険 → 銀行 → AM）へ段階的拡張 ^[extracted]

@@ -46,6 +46,8 @@ sources:
 | 規制上の確認経路 | 割賦販売法と経済産業省の信用取引関連資料を参照する。貸金業とカード番号取扱いの開示は公式ページで確認する。^[verified-2026-06-24] |
 | 会社概要上の範囲 | 公式概要は、クレジットカード、デビットカード・プリペイドカード・その他決済、ローン、保証、信用販売、トランザクション、関連事業を列挙している。^[verified-2026-06-24] |
 
+Sources: [三井住友カード会社概要](https://www.smbc-card.com/company/info/outline.jsp) and [METI の信用取引政策](https://www.meti.go.jp/policy/economy/consumer/credit/). The card-number merchant-contract registration should be read from the current METI list.
+
 ## 2. 事業上の役割
 
 - クレジットカード発行と加盟店向けサービスは、SMFG のリテールキャッシュレス戦略の中心にある。公式会社ページは、単なるカード発行ではなく、クレジットカード、信用販売、トランザクション事業を説明している。^[verified-2026-06-24]

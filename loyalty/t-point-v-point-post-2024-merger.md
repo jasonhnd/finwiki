@@ -1,5 +1,5 @@
 ---
-title: "T-Point + V-Point post-2024 merger — dual-brand transition, CCCMK Holdings, points-liability transfer"
+title: "T-Point + V-Point post-2024 unification — account linking, customer transition, public accounting boundary"
 aliases:
   - "loyalty/t-point-v-point-post-2024-merger"
   - "t-point-v-point-post-2024-merger"
@@ -18,16 +18,17 @@ tags: [loyalty, points, t-point, v-point, ccc, ccc-mk, smbc, smfg, merger, point
 status: active
 sources:
   - "https://vpoint.jp/"
-  - "https://www.ccc.co.jp/news/"
   - "https://www.ccc.co.jp/en/news/press/20240109_002347.html"
-  - "https://www.smbc-card.com/mem/service/cardless/vpoint.jsp"
-  - "https://www.smfg.co.jp/news/"
+  - "https://www.ccc.co.jp/en/news/press/20240422_002200.html"
+  - "https://www.smbc-card.com/company/news/news0001852.jsp"
+  - "https://www.smbc-card.com/mem/cardinfo/23/cardinfo4010742.jsp"
+  - "https://www.smfg.co.jp/investor/financial/disclosure/fy2025_inter_pdf/fy2025_inter_00.pdf"
   - "https://www.smbc.co.jp/kojin/olive/"
   - "https://about.paypay.ne.jp/corp/"
   - "https://paymentsjapan.or.jp/category/publications/"
 ---
 
-# T-Point + V-Point post-2024 merger — dual-brand transition, CCCMK Holdings, points-liability transfer
+# T-Point + V-Point post-2024 unification — account linking, customer transition, public accounting boundary
 
 ## Wiki route
 
@@ -35,7 +36,7 @@ This entry sits under [[loyalty/INDEX|loyalty index]] as the **post-2024-04-22 o
 
 ## TL;DR
 
-The **T-Point + V-Point merger of 2024-04-22** was the largest common-point integration in Japan to date. **CCC Marketing's T-Point common-point business and SMBC group's V-Point credit-card reward programme unified under the V-Point brand**, operated by **CCCMK Holdings (the SMFG-CCC joint venture established 2023-06)**. The strategic intent was to combine T-Point's ~70 million-card physical-merchant network (TSUTAYA, FamilyMart legacy, ENEOS, drug stores, restaurants) with SMBC's bank-card-issuance backbone (SMBC Card / SMCC), creating a **bank-led common-point counterweight** to Rakuten (e-commerce), dポイント (telco), and PayPay Points (wallet). The unification is genuinely operational — T-Point branding for the common-point business ended 2024-04-22 — but a **dual-brand transition reality persists**: TSUTAYA-branded T-cards continued to function as V-Point-earning cards during the migration window, and TSUTAYA-issued cards remain readable at participating merchants. SMBC-issued V-cards (Olive一体型, SMBC Card) coexist with legacy CCC-issued cards under the same V-Point brand. The **points-liability transfer mechanics** at unification followed the IFRS 15 / ASBJ 29 framework: legacy T-Point liability sat with each issuing partner on its own balance sheet, conversion ratios were defined contractually, and the receiving operator (V-Point under CCCMK) recognised new liability as legacy balances migrated. PayPay Points operates from a structurally different anchor (wallet rather than card / bank) and the comparison illuminates why V-Point's competitive ceiling and floor are shaped differently.
+The T Point and SMBC-side V Point services adopted the **V Point brand on 2024-04-22**. Customer balances are not automatically one ledger merely because the brand is shared: SMBC Card's official guidance says customers must complete the specified **ID-linking procedure** to combine points. Without linking, points remain managed within their existing service scopes and some use conditions differ. Public customer notices establish the brand and linking mechanics; they do **not** establish a transfer of accounting liabilities among CCCMK, SMBC Card, partners, or SMFG.
 
 ## Timeline of the merger and the dual-brand transition
 
@@ -49,11 +50,11 @@ The **T-Point + V-Point merger of 2024-04-22** was the largest common-point inte
 | 2023-10 | Olive Account launches with V-Point as core loyalty layer; sets stage for unification |
 | 2024-01-09 | Joint CCC / SMBC press release confirms 2024-04-22 unification date and brand consolidation under V-Point |
 | **2024-04-22** | **T Point and Vポイント unify under "Vポイント" brand**; T-Point common-point branding ends; partner-merchant network migrates to V-Point acceptance |
-| 2024-06 onward | TSUTAYA continues to issue physical "T-card design" cards that earn V-Point at participating merchants — the dual-brand reality |
-| 2025 | Rolling migration of legacy T-card holders to V-card design; partner-merchant acceptance broadens |
-| 2026 (ongoing) | Long-tail T-card holders continue to earn V-Point; full design migration extends beyond initial timeline |
+| 2024-04-22 onward | Existing cards and SMBC-side services continue under the published transition and account-linking conditions |
 
-The 2024-04-22 date marks the **brand-level unification**, but the **operational reality is a dual-brand long tail**: TSUTAYA branding persists on legacy and newly issued T-card-design cards because TSUTAYA / CCC operates retail businesses that have brand equity in the T-card design, while SMBC-issued cards (V-Point-branded Olive一体型 and SMBC Card) carry V-Point branding. Both card types earn into the same unified V-Point ledger.
+Sources: [CCC's unification announcement](https://www.ccc.co.jp/en/news/press/20240109_002347.html), its [2024-04-22 launch release](https://www.ccc.co.jp/en/news/press/20240422_002200.html), and [SMBC Card's account-linking notice](https://www.smbc-card.com/company/news/news0001852.jsp). The chronology is limited to public customer-facing events.
+
+The 2024-04-22 date marks the **brand-level unification**. SMBC Card states that point balances combine only after the customer links the relevant IDs. Without linking, the customer continues to use each balance within its existing service scope; shared branding alone does not prove a single ledger.
 
 ## CCCMK Holdings — the joint venture vehicle
 
@@ -65,6 +66,8 @@ The 2024-04-22 date marks the **brand-level unification**, but the **operational
 | SMFG / SMBC | Bank-side capital partner; brings SMBC Card (SMCC) issuance and Olive Account integration |
 | CCCMK Holdings | The joint venture vehicle holding the unified V-Point common-point operation, established 2023-06 |
 | Vポイント株式会社 | The specific operating company for V-Point under CCCMK Holdings |
+
+Sources: [V Point](https://vpoint.jp/), [CCC news](https://www.ccc.co.jp/news/), [SMBC Card](https://www.smbc-card.com/mem/service/cardless/vpoint.jsp), and [SMFG news](https://www.smfg.co.jp/news/). Corporate-role labels are limited to these public disclosures.
 
 The capital-partnership structure transfers part of CCC's data-marketing operations into the SMFG-CCC umbrella while preserving CCC's brand presence in retail (TSUTAYA, etc.). SMFG's capital contribution to CCCMK Holdings is publicly disclosed in SMFG IR materials; the headline is that the bank-side anchor gains material economic interest in the loyalty operation alongside the data-marketing rights.
 
@@ -80,7 +83,7 @@ The 2024-04-22 unification was a **brand-level** consolidation; the operational 
 | Olive一体型 (SMBC-issued) | SMBC | SMBC / Olive design | Earns V-Point with bank-account integration |
 | SMBC Card / SMCC | SMBC Card | SMBC Card design | Earns V-Point with credit-card rate |
 
-The implication is that a customer can hold any of the above card forms and accrue points into the same V-Point ledger. This dual-brand reality reflects CCC's continued operation of TSUTAYA retail and the practical fact that legacy card replacement takes years across a 70-million-card base.
+The implication is that different card forms can participate in V Point, while **balance combination and cross-scope use depend on successful account linking and current terms**. Card design is not evidence that all balances are already consolidated.
 
 ## Comparison with PayPay Points
 
@@ -93,33 +96,33 @@ The implication is that a customer can hold any of the above card forms and accr
 | Credit-card integration | SMBC Card, V-Point Card, Olive一体型 | PayPay Card (SoftBank / LY) |
 | Bank integration | SMBC + Olive | PayPay Bank (former JNB) |
 | Securities integration | SBI証券 cooperation (SMBC × SBI alliance) | PayPay Securities |
-| Member ID base | 130M+ unified (CCC + SMBC sides at integration) | 70M+ PayPay registered users |
 | Retail acceptance | Inherited CCC physical-merchant network | National QR acceptance via PayPay merchant base |
-| Earn economics at own product | Card spend rate; Olive bonus tiers | Wallet usage rate (campaign-funded) |
+| Earn surface | Card / Olive and participating merchant terms | Wallet, card, and campaign terms |
 | Investment-product attachment | SBI証券 fund-purchase with V-Point | PayPay 証券 with PayPay Points |
-| Campaign style | Bank-style structured promotions (lower headline rates, durable economics) | Wallet-style frequent campaigns (higher headline rates, breakage-funded) |
 | Data graph | CCC retail database + SMBC customer flow | LY (Yahoo Japan + LINE) data assets + PayPay transaction flow |
+
+Sources: [V Point](https://vpoint.jp/), [SMBC Olive](https://www.smbc.co.jp/kojin/olive/), [PayPay corporate information](https://about.paypay.ne.jp/en/about/), and [LY Corporation](https://www.lycorp.co.jp/en/). The comparison is a product-perimeter analysis, not a user-count or performance claim.
 
 The structural comparison reveals two different financial-distribution archetypes. **V-Point's strength** is the **investment / NISA cross-sell** via the SBI alliance and the **bank-account main-account anchor** via Olive. **PayPay Points' strength** is the **wallet activity moat** with frequent campaigns that drive high MAU. The two systems compete most directly at the **retail-merchant earn surface** — convenience stores, drugstores, restaurants — where V-Point's CCC heritage network overlaps with PayPay's national QR coverage.
 
 For the broader PayPay Points unification with Yahoo points and SoftBank Smart Login, see [[loyalty/sb-yahoo-paypay-points-unified-ecosystem|SB/Yahoo/PayPay unified points]].
 
-## Points-liability transfer mechanics — IFRS 15 / ASBJ 29 framing
+## Publicly disclosed accounting boundary
 
-The 2024-04-22 unification raised a non-trivial **points-liability transfer question**. Each operator with a pre-unification T-Point or V-Point liability had to handle the migration:
+The public evidence supports a narrow accounting conclusion:
 
-| Event | Accounting treatment |
+| Question | What the cited public evidence establishes |
 |---|---|
-| Pre-unification T-Point liability on CCC books | Recognised as contract liability (under IFRS 15) or accrued liability (under ASBJ 29) on CCC / partner balance sheets |
-| Pre-unification V-Point liability on SMBC Card books | Recognised as contract liability on SMBC Card / SMCC books |
-| Unification event (2024-04-22) | Liability migration from legacy ledger to unified V-Point ledger under CCCMK Holdings; defined conversion ratios and settlement mechanics |
-| Receiving operator (CCCMK) | Recognises new liability as legacy balances migrate; bears redemption obligation going forward |
-| Migration window | Bilateral net-settlement between CCC / partners and CCCMK / SMBC for the transferred liability balance |
-| Cross-program exchange | V-Point ↔ ANA mileage, V-Point ↔ partner programs continue with adjusted conversion rates; settlement-leg mechanics described in [[loyalty/point-liability-accounting-boundary]] |
+| Customer-facing brand | T Point and V Point adopted the V Point brand on 2024-04-22 |
+| Balance combination | Combination requires the specified ID linking; without it, service scopes remain separate |
+| SMFG disclosure | SMFG's FY2025 interim disclosure reports a provision for expected future use of SMBC-group common V Points, estimated from unused points |
+| Not established by these sources | CCCMK or partner liability migration, the receiving accounting entity, bilateral settlement rate / cycle, transfer consideration, or journal entries |
 
-The clean version of the migration is that **1 T-Point = 1 V-Point at conversion**, with the receiving CCCMK / SMBC entity assuming the redemption obligation. The friction version is that some legacy partners renegotiated participation terms, some long-tail merchants did not migrate, and some campaign-grant balances had different expiry rules requiring rule harmonisation.
+Sources: [SMBC Card's linking notice](https://www.smbc-card.com/company/news/news0001852.jsp), its [customer guidance](https://www.smbc-card.com/mem/cardinfo/23/cardinfo4010742.jsp), and SMFG's [FY2025 interim disclosure](https://www.smfg.co.jp/investor/financial/disclosure/fy2025_inter_pdf/fy2025_inter_00.pdf). [ASBJ Statement No.29](https://www.asb.or.jp/jp/wp-content/uploads/asbj_29.pdf) supplies the framework, not facts about undisclosed migration contracts.
 
-The disclosure clue for analysts reading SMCC / SMFG IR materials post-unification is to track **whether "ポイント引当金" still appears as a JGAAP line item or has migrated into "契約負債" (contract liability)** — the migration tells you whether the company has fully adopted the IFRS 15 / ASBJ 29 deferred-revenue model. CCCMK Holdings' disclosure approach is more limited because it is not a separately listed entity, but SMFG-level segment notes provide partial visibility.
+The customer conversion ratio and availability belong to the service terms. They do not identify which legal entity recognises a liability or how any intercompany / partner settlement is recorded.
+
+The presence of a **point provision** or **contract liability** line does not, by itself, prove or disprove adoption of a revenue-recognition model. Classification depends on the underlying promise and accounting policy; analysts must read the exact note rather than infer from the line label.
 
 ## SBI alliance — investment-product attachment as the bank-led differentiation
 
@@ -131,7 +134,9 @@ The **SMBC × SBI alliance** is the most distinctive cross-sell pathway for V-Po
 | Eligible products | Selected investment trust units (主要な投資信託銘柄) |
 | Conversion | 1 V-Point = 1 yen toward fund purchase |
 | Tax treatment | Standard NISA / 特定口座 treatment applies post-purchase |
-| Settlement | V-Point liability extinguished against SBI証券 fund-purchase order |
+| Accounting evidence | The consumer service terms establish permitted use; they do not establish which entity's liability is extinguished or the inter-entity settlement entry |
+
+Sources: [V Point](https://vpoint.jp/), [SMBC Olive](https://www.smbc.co.jp/kojin/olive/), and the official [SBI Securities](https://www.sbisec.co.jp/) service terms. Product eligibility and conversion rules must be checked against the current terms.
 
 The strategic intent is to make V-Point a **near-cash investment funding currency**, increasing the appeal of V-Point to higher-income / wealth-accumulating households who would otherwise sit outside the high-MAU wallet-points segment. This is the bank-led common-point's structural differentiation against telco-led and wallet-led peers.
 
@@ -161,8 +166,9 @@ The strategic intent is to make V-Point a **near-cash investment funding currenc
 - Vポイント公式サイト: https://vpoint.jp/
 - CCC press releases on T Point and V Point unification: https://www.ccc.co.jp/news/
 - CCC 2024-01-09 press release on unification: https://www.ccc.co.jp/en/news/press/20240109_002347.html
-- SMBC Card V Point service pages: https://www.smbc-card.com/mem/service/cardless/vpoint.jsp
-- SMFG news releases on T Point alliance and V Point integration: https://www.smfg.co.jp/news/
+- SMBC Card account-linking notice: https://www.smbc-card.com/company/news/news0001852.jsp
+- SMBC Card linking guidance: https://www.smbc-card.com/mem/cardinfo/23/cardinfo4010742.jsp
+- SMFG FY2025 interim disclosure: https://www.smfg.co.jp/investor/financial/disclosure/fy2025_inter_pdf/fy2025_inter_00.pdf
 - SMBC Olive Account official site: https://www.smbc.co.jp/kojin/olive/
 - PayPay corporate official: https://about.paypay.ne.jp/corp/
 - Cashless Promotion Council publications: https://paymentsjapan.or.jp/category/publications/

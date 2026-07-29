@@ -1,97 +1,94 @@
 ---
 source: loyalty/point-liability-accounting-boundary
-source_hash: 58fa8c87ada6791b
+source_hash: d8ab80a7f3b1bd31
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "ポイント負債の会計境界（日本のロイヤルティ・プログラム）"
-translated_at: 2026-06-26T08:28:38.466Z
+translated_at: 2026-07-29T07:29:14.000Z
 ---
 
-# ポイント負債の会計境界（日本のロイヤルティ・プログラム）
+# Point liability accounting boundary (JP loyalty programs)
 
 ## TL;DR
 
-日本における「ポイント」は単一の会計概念ではない。同じ言葉が、(1) 純粋な費用である**マーケティング・プロモーションの付与**、(2) IFRS 15 ／ ASBJ 基準第 29, 号の下で繰延収益となる**ロイヤルティ負債**、(3) 収益が最終的にいつ認識されるかを左右する**ブレッキッジの仮定**、(4) [[payments/funds-transfer-vs-prepaid-boundary|資金移動 / 前払式 boundary]] を越えて FSA 登録をトリガーする**購入されたプリペイド価値**、そして (5) 事業者間に決済レグを導入する**プログラム横断の交換ポイント**をカバーする。これらを混同することは、日本のロイヤルティ事業者の開示を読む際に最も多い誤りである。
+"Points" in Japan are not one accounting concept. Classification depends on the **contract, funder, customer promise, redemption obligor, and principal-agent role**. A grant may be marketing expense, a provision, a contract liability, consideration payable to a customer, or another item. Purchased stored value is a separate regulatory question under the Payment Services Act. Cross-program conversion may create inter-operator accounting or settlement, but consumer terms alone do not reveal those commercial mechanics.
 
-プログラムごとのカバレッジについては、ロイヤルティ・ドメインの [[loyalty/japan-points-landscape]] を、より広範な [[fintech/INDEX|fintech]] および [[payments/INDEX|payments]] のコンテキストについては [[loyalty/INDEX|loyalty index]] を参照のこと。
+For program-by-program coverage, see [[loyalty/japan-points-landscape]] in the loyalty domain, and [[loyalty/INDEX|loyalty index]] for the broader [[fintech/INDEX|fintech]] and [[payments/INDEX|payments]] context.
 
-## 5 つの会計バケット
+## Five accounting buckets
 
 | Bucket | Trigger | Accounting treatment | Regulatory layer |
 |---|---|---|---|
-| マーケティング・プロモーション費用 | 事業者が、過去の販売に紐付く将来の交換義務を伴わないボーナス・ポイントを付与する | 付与時に費用化（プロモーション／広告費用） | 一般に資金決済法の対象外 |
-| ロイヤルティ負債（契約負債） | 顧客の購入から獲得され、事業者が後に履行しなければならないポイント | IFRS 15 （重要な権利）の下での繰延収益、または JGAAP（ASBJ 基準第 29 号のフレーミング）の下での未払負債 | JGAAP／IFRS の下での開示；コード決済で使用される場合は Payments Japan の開示規範が適用される |
-| ブレッキッジ | 予想される未使用残高 | 予想される交換期間にわたるパターンベースの収益認識 | スタンドアロンの登録なし；見積りは監査可能でなければならない |
-| 購入／チャージされた価値 | 顧客がストアド残高に対して現金を支払う | プリペイド負債；規制対象の前払式支払手段となり得る | [[financial-licenses/payment-license-stack|FSA 前払式発行会社 registry]] ／ 資金決済法 |
-| プログラム横断の交換 | ある事業者のポイントが別の事業者のものに変換される | 事業者間の決済レグ + 負債の移転 | 二者間契約、場合により決済銀行の関与 |
+| Campaign / promotional grant | An incentive is offered; identify who funds it and who owes redemption | Could be marketing expense, a liability / provision, consideration payable to a customer, or part of a customer contract | Analyse the underlying payment feature separately |
+| Customer option / loyalty promise | A purchase grants an option that may provide a material right | If the revenue standard applies and a material right exists, allocate transaction price and recognise the related contract liability | Financial-statement disclosure under the applicable standard |
+| Breakage | A recognised customer obligation may not be exercised | Apply breakage guidance only when the relevant criteria and estimate are met | No standalone licence; estimation and disclosure follow the accounting framework |
+| Purchased / charged value | Customer pays cash for stored value | Usually a financial / prepaid liability rather than a loyalty contract liability | Payment Services Act; registration / notification depends on issuer type and thresholds |
+| Cross-program exchange | A customer converts value between programmes | Entries depend on the contracts, obligor change, principal-agent role, and consideration; no universal “liability transfer” entry | Consumer terms plus undisclosed commercial contracts |
 
-## 1. マーケティング・プロモーション費用（契約負債なし）
+Sources: [IFRS 15](https://www.ifrs.org/issued-standards/list-of-standards/ifrs-15-revenue-from-contracts-with-customers/), [ASBJ Statement No.29](https://www.asb.or.jp/jp/wp-content/uploads/asbj_29.pdf), the [Payment Services Act](https://elaws.e-gov.go.jp/document?lawid=421AC0000000059), and the FSA's [registry index](https://www.fsa.go.jp/menkyo/menkyo.html). The table is an issue map, not entity-specific accounting advice.
 
-日本の事業者が、過去の顧客購入に紐付か**ない**キャンペーンの一環として「1,000 ポイント贈呈」クーポンを配布する場合、過去の対価を条件とする強制可能な将来の義務は存在しない。その経済的実質は広告に近い：
+## 1. Marketing-promotional cost (no contract liability)
 
-- 付与時（または交換確率が合理的に見積り可能なとき）に費用化される。
-- 繰延収益の配分はない — 配分すべき先行の履行義務が存在しない。
-- セグメント報告において顧客獲得コストの一部として扱われる。
+A campaign label does not determine the accounting. Review:
 
-最も目に見える例は、繰り返される PayPay／d払い／楽天ペイの「100% 還元」または「5% 還元」キャンペーンである。キャンペーンの付与自体はプロモーション費用である一方、*基礎となる*購入で獲得されたポイントは下記のロイヤルティ負債バケットに属する。これら 2 つの層を分離せずに PayPay または楽天のキャンペーン開示を読むと、実効的なディスカウント率を過大評価することになる。
+- who funds the award and which entity promises redemption;
+- whether the award is connected to a customer contract or paid to / on behalf of a customer;
+- whether the reporting entity is principal or agent;
+- whether an enforceable redemption obligation exists at grant;
+- when recognition and measurement criteria for any expense, provision, payable, or contract liability are met.
 
-## 2. IFRS 15 ／ ASBJ 基準第 29
+Only after that analysis can a grant be classified as marketing expense. It is not universally expensed at grant.
 
-号の下でのロイヤルティ負債顧客が支出によってポイントを獲得する場合 — 典型的な「100円につき1ポイント」— 日本の取扱いは、発行者が JGAAP と IFRS のいずれで報告するかによって分かれる：
+## 2. Loyalty liability under IFRS 15 / ASBJ Statement No.29
 
-- **IFRS 15**：ポイントは**重要な権利**（顧客オプション）であり、別個の履行義務である。取引価格は、相対的な独立販売価格を用いて、販売された商品と付与されたポイントの間で配分される。ポイントに配分された収益は契約負債として**繰り延べられ**、ポイントが交換されたとき（または失効が予想されるとき）に認識される。楽天グループ（IFRS 報告者）は、ポイント関連の繰延収益をセグメント注記の契約負債の下で開示する。
-- **JGAAP／ASBJ 基準第 29号**：歴史的に日本は、相手勘定を販管費とする**ポイント交換のための見積負債**（「ポイント引当金」）を認識していた。FY2021 から適用される ASBJ 基準第 29 号（「収益認識会計基準」、収益認識に関する会計基準）は、上場企業について JGAAP を IFRS 15 と実質的に整合させ、会計を引当金モデルから IFRS の取扱いを反映する繰延収益モデルへとシフトさせた。多くの大手事業者（イオンフィナンシャルサービス、NTT ドコモ、JCB）は、FY2021 の移行の前後で開示を再表示した。
+When a customer earns points by spending, first determine whether the option provides a **material right** that the customer would not receive without entering the contract:
 
-日本の発行者の開示を読む際に最も有用なテストは、「ポイント引当金」が依然としてラインアイテムであるか、それとも「契約負債」へと移行したかを確認することである。その移行は、当該企業が収益認識モデルを完全に採用したかどうかを示す。
+- **IFRS 15**: If the option provides a material right, it is a separate performance obligation. Allocate transaction price using relative standalone selling prices and recognise the allocated amount when that obligation is satisfied, subject to the standard's breakage guidance.
+- **JGAAP / ASBJ Statement No.29**: Apply the Japanese revenue-recognition standard to the actual contract and performance obligations. Separate provisions or payables may still arise for fact patterns outside the customer-contract allocation model.
 
-## 3. ブレッキッジの仮定（繰延収益が認識されるとき）
+The line label alone is not a sufficient test. A continuing “ポイント引当金” does not prove non-adoption, and a “契約負債” line does not prove that every point grant is deferred revenue. Read the accounting-policy note, scope, and reconciliation.
 
-ブレッキッジ — 予想される未使用残高 — は、決して交換されないポイントについての収益認識の*タイミング*を左右する：
+## 3. Breakage assumption (when deferred revenue is recognised)
 
-- IFRS 15 と ASBJ 基準第 29, 号の両方の下で、ブレッキッジは交換のパターンに比例して認識される（失効時に一度に全額ではなく）。
-- 予想されるブレッキッジ率は、過去データに基づく**信頼できる見積り**でなければならない；そうでなければ、収益はさらなる交換の確率がほとんどなくなったときにのみ認識される。
-- より長い失効期間または譲渡可能なポイントを有する事業者は、負債をより長く保持しなければならない；これは近時の収益を直接抑制する。
+Breakage — expected unused balance — drives the *timing* of revenue recognition for points that never get redeemed:
 
-Payments Japan のコード決済の開示期待（コード決済発行者のための業界自主規制枠組み）は、ブレッキッジが収益平準化のためのリリース・バルブとして使用されないように、事業者に**交換率、平均失効期間、未使用残高**を比較可能な形で開示するよう促す。
+- If the entity expects to be entitled to a breakage amount for a recognised contract liability, recognise it in proportion to the pattern of rights exercised, subject to the applicable standard.
+- If the entity does not expect to be entitled to breakage, recognise the remaining amount only when exercise becomes remote.
+- Estimate quality, expiry, transferability, and changing redemption patterns require entity-specific evidence.
 
-## 4. 購入／チャージされた価値（プリペイド境界）
+## 4. Purchased / charged value (prepaid boundary)
 
-顧客が残高をロードするために現金を支払う場合 — nanaco、WAON、Suica、またはギフトカード／プリペイドカード — 事業者は資金決済法の**前払式支払手段**の層に越える：
+When a customer pays cash to load a balance — nanaco, WAON, Suica, or a gift card / prepaid card — the operator crosses into the **prepaid payment instrument** layer of the Payment Services Act:
 
-- 受領した資金はロイヤルティ負債ではなくプリペイド負債である。
-- 事業者は前払式支払手段発行者（前払式支払手段発行者）として FSA に登録しなければならない — 登録の境界については [[financial-licenses/payment-license-stack|payment-license stack]] を参照。
-- 資金決済法の下での半期ごとの**保全（資産保全）**要件は、未使用残高が 10 百万円を超える場合に適用される。
-- プリペイド価値が現金で払戻可能となるか、または無関係なユーザー間で自由に譲渡可能となる場合、事業者はさらに**資金移動業**のライセンスへと越える可能性がある — そのステップについては [[payments/funds-transfer-vs-prepaid-boundary|資金移動 vs 前払式 boundary]] を参照。
+- Funds received are a prepaid liability, not a loyalty liability.
+- **Third-party** prepaid issuers generally require registration; **self-issued** instruments follow a notification regime once the statutory threshold is crossed. Confirm the legal entity and current registry / filing status.
+- Issuance-deposit / preservation duties and thresholds follow the current statute and implementing rules; check them for the relevant record date.
+- If the prepaid value becomes refundable in cash or freely transferable between unrelated users, the operator may cross further into the **funds-transfer business** licence — see [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boundary]] for that step.
 
-これは、「ポイント」がロイヤルティ・マーケティングのトピックであることをやめ、決済規制のトピックとなる一線である。イオン（WAON）、セブン & アイ（nanaco）、JR 東日本（Suica）のような事業者はこちら側に属する。それらの残高の上に乗るボーナス・ポイントのオーバーレイの大半は依然としてロイヤルティ会計であるが、基礎となるチャージ残高はプリペイドである。
+This is the line where "points" stop being a loyalty marketing topic and become a payments-regulatory topic. Operators like AEON (WAON), Seven & i (nanaco), and JR East (Suica) sit on this side. Most of the bonus-point overlay sitting on top of those balances is still loyalty accounting, but the underlying charged balance is prepaid.
 
-## 5. プログラム横断の交換ポイント（決済レグ + 会計タイミング）
+## 5. Cross-program exchange points (settlement leg + accounting timing)
 
-ポイントがプログラム間で変換される場合 — 楽天ポイント ↔ ANA マイル、dポイント ↔ JAL マイル、V Point ↔ パートナー・プログラム — 2 つの会計事象が同時に発生する：
+When a customer converts between programmes, several outcomes are possible depending on the contracts. The originating obligation may be extinguished, modified, or fulfilled through an agent; the receiving programme may recognise a new obligation; and consideration may or may not move between operators at conversion. Consumer pages usually disclose only direction, rate, unit, eligibility, and expiry. They do not establish settlement timing, wholesale rate, insolvency allocation, operator margin, or journal entries.
 
-1. **負債の移転**：起点となる事業者は（変換比率で）その負債を消滅させ、受領する事業者は自らのバランスシートに新たな負債を作成する。
-2. **決済レグ**：現金または準現金が、契約上合意されたレート（多くの場合、消費者向けの交換比率より低い）で、起点となる事業者から受領する事業者へと流れる。そのスプレッドは、受領する事業者の獲得収益であり、起点となる事業者のリリース・コストである。
+## Operator examples
 
-これが重要なのは、「未使用ポイント負債」を事業者間で非加算的にするからである。同じ円の消費者購買力が、変換ウィンドウ中の 2 つの異なる時点で 2 つの異なる負債ラインに存在し得る。不正利用防止管理（レート制限、本人確認の紐付け、異常な変換パターンのスロットリング）は、このフローの上に乗る。
-
-## 事業者の例
-
-| 事業者 | Liability shape | Disclosure clue |
+| Public evidence | What it can establish | What it cannot establish alone |
 |---|---|---|
-| 楽天グループ | 楽天ポイントについての IFRS 契約負債；連結バランスシート上で相当な規模 | セグメント注記が「契約負債」をポイント関連部分とともに内訳開示 |
-| イオンフィナンシャルサービス | WAON POINT ロイヤルティ負債 + WAON プリペイド負債が別個のラインに存在 | AFS IR はロイヤルティ・プログラムをプリペイド残高と区別する；グループ・レベルのイオンリテールが WAON POINT 側を連結 |
-| NTT ドコモ／dポイント | 通信顧客コホートを伴う dポイント負債；IFRS 15 の下で通信収益の配分とバンドルされる| NTT 年次報告書が交換の仮定と繰延収益の配分を開示 |
-| PayPay | PayPay ポイントは重いプロモーション要素を含む；キャンペーンのオーバーハングは費用である一方、購入で獲得されたポイントは負債である | PayPay および ソフトバンク／LY の開示は「キャンペーン費用」を「ポイント負債」から分離する；キャンペーン費用ラインが支配的になる傾向がある |
-| T ポイント → V Point（2024 の統合後、[[loyalty/v-point-smbc-ccc-case]] を参照） | 負債は統合の各側で発行事業者（SMBC カード／CCCMK）に存在する；レガシーの T 残高は定められた変換ルールの下で移行された | SMCC／SMFG の IR コメンタリーが移行のメカニクスを論じる |
+| Consumer programme terms | Customer right, conversion direction, rate, expiry, and eligibility | Reporting entity, funding source, wholesale settlement, or accounting classification |
+| FSA registry | Whether a named legal entity appears in a current public registration list | Whether every feature of a branded service uses that registration |
+| SMFG FY2025 interim disclosure | SMFG reports a provision for expected future use of SMBC-group common V Points, estimated from unused points | CCCMK / partner liability migration or bilateral settlement mechanics |
 
-## なぜこの境界が JapanFG 分析にとって重要か
+Sources: the FSA's [registry index](https://www.fsa.go.jp/menkyo/menkyo.html), SMFG's [FY2025 interim disclosure](https://www.smfg.co.jp/investor/financial/disclosure/fy2025_inter_pdf/fy2025_inter_00.pdf), [IFRS 15](https://www.ifrs.org/issued-standards/list-of-standards/ifrs-15-revenue-from-contracts-with-customers/), and [ASBJ Statement No.29](https://www.asb.or.jp/jp/wp-content/uploads/asbj_29.pdf).
 
-- 日本の事業者の IR スライド上の高い「ポイント残高」数値は、高い*負債*と等しくない。プロモーションの付与、ロイヤルティ負債、プリペイド残高、交換に紐付く移転残高の間の区分が経済的な強度を決定する。
-- ロイヤルティ事業者を買収する銀行または通信グループ（SMBC + V Point、NTT + dポイントの連結）は、**負債会計とプリペイド・ライセンスの義務**を同時に承継する。この取引はマーケティング資産の移転以上のものである。
-- 重いキャンペーン支出を伴うコード決済事業者は、プロモーションの付与が即座に P&L に当たる一方で、その下のロイヤルティ負債層が比較的小さいため、部分的に損失を出しているように見える。
-- プログラム横断の交換は非加算的なシステムを生み出す。集計された「日本のポイント経済」の数値は、事業者が報告する残高の合計として読むべきではない。
+## Why this boundary matters for JapanFG analysis
+
+- A high "point balance" number on a Japanese operator's IR slide does not equal a high *liability*. The split between promotional grant, loyalty liability, prepaid balance, and exchange-bound transfer balance determines economic intensity.
+- A bank or telco group acquiring a loyalty operator (SMBC + V Point, NTT + dポイント consolidation) inherits **liability accounting and prepaid-license obligations** at the same time. The deal is more than a marketing asset transfer.
+- Campaign intensity cannot be translated into P&L timing without the contract and funder analysis.
+- Cross-program totals should not be added without checking whether balances, obligations, or flows overlap.
 
 ## Related
 
@@ -111,10 +108,8 @@ Payments Japan のコード決済の開示期待（コード決済発行者の�
 
 ## Sources
 
-- ASBJ 基準第 29, 号「収益認識会計基準」（収益認識に関する会計基準）、企業会計基準委員会。
-- FSA 前払式支払手段発行者登録一覧（前払式支払手段発行者登録一覧）。
-- Payments Japan 協会のコード決済開示規範。
-- 楽天グループ IR — 契約負債のセグメント注記。
-- イオンフィナンシャルサービス IR — WAON POINT および WAON プリペイドの開示。
-- NTT ドコモ 年次報告書 — dポイントの会計および交換の開示。
-- Vポイント公式（Vpoint.jp）— 参照されている SMBC／CCCMK の共通ポイント事業者に関するコンテキストのため。
+- ASBJ Statement No.29, "Accounting Standard for Revenue Recognition" (収益認識に関する会計基準), Accounting Standards Board of Japan.
+- IFRS 15, Revenue from Contracts with Customers: https://www.ifrs.org/issued-standards/list-of-standards/ifrs-15-revenue-from-contracts-with-customers/
+- Payment Services Act: https://elaws.e-gov.go.jp/document?lawid=421AC0000000059
+- FSA licence / registration index: https://www.fsa.go.jp/menkyo/menkyo.html
+- SMFG FY2025 interim disclosure: https://www.smfg.co.jp/investor/financial/disclosure/fy2025_inter_pdf/fy2025_inter_00.pdf

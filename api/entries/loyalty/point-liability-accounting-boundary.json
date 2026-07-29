@@ -45,15 +45,13 @@
     "note": null,
     "sources": [
       "https://www.asb.or.jp/jp/wp-content/uploads/asbj_29.pdf",
-      "https://www.fsa.go.jp/menkyo/menkyoj/03kohyou.pdf",
-      "https://corp.rakuten.co.jp/investors/financial/",
-      "https://www.aeonfinancial.co.jp/ir/",
-      "https://www.docomo.ne.jp/corporate/ir/",
-      "https://paymentsjapan.or.jp/",
-      "https://vpoint.jp/"
+      "https://www.ifrs.org/issued-standards/list-of-standards/ifrs-15-revenue-from-contracts-with-customers/",
+      "https://elaws.e-gov.go.jp/document?lawid=421AC0000000059",
+      "https://www.fsa.go.jp/menkyo/menkyo.html",
+      "https://www.smfg.co.jp/investor/financial/disclosure/fy2025_inter_pdf/fy2025_inter_00.pdf"
     ]
   },
-  "summary": "\"Points\" in Japan are not one accounting concept. The same word covers (1) marketing-promotional grants that are pure expense, (2) loyalty liabilities that are deferred revenue under IFRS 15 / ASBJ Statement No.29, (3) breakage assumptions that drive when revenue is finally recognised, (4) purchased",
+  "summary": "\"Points\" in Japan are not one accounting concept. Classification depends on the contract, funder, customer promise, redemption obligor, and principal-agent role. A grant may be marketing expense, a provision, a contract liability, consideration payable to a customer, or another item. Purchased store",
   "headings": [
     "Point liability accounting boundary (JP loyalty programs)",
     "TL;DR",
@@ -98,12 +96,18 @@
       "https://finwiki.zksc.io/ja/domains/payments/",
       "https://finwiki.zksc.io/ja/payments/funds-transfer-vs-prepaid-boundary/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 5,
+    "external_links": [
+      "https://elaws.e-gov.go.jp/document?lawid=421AC0000000059",
+      "https://www.asb.or.jp/jp/wp-content/uploads/asbj_29.pdf",
+      "https://www.fsa.go.jp/menkyo/menkyo.html",
+      "https://www.ifrs.org/issued-standards/list-of-standards/ifrs-15-revenue-from-contracts-with-customers/",
+      "https://www.smfg.co.jp/investor/financial/disclosure/fy2025_inter_pdf/fy2025_inter_00.pdf"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 10233,
-    "word_like_tokens": 1686,
+    "nonspace_chars": 9211,
+    "word_like_tokens": 1504,
     "inbound_wikilinks_count": 18,
     "last_modified": "2026-06-04"
   }

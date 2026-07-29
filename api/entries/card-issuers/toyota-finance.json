@@ -77,13 +77,16 @@
       "https://finwiki.zksc.io/ja/manufacturer-finance/toyota-motor/",
       "https://finwiki.zksc.io/ja/payments/credit-purchase-card-operators-japan-index/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 2,
+    "external_links": [
+      "https://www.tfsc.jp/corporate/index.html",
+      "https://www.toyota-finance.co.jp/company/data.html"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 3073,
-    "word_like_tokens": 484,
-    "inbound_wikilinks_count": 22,
+    "nonspace_chars": 3233,
+    "word_like_tokens": 508,
+    "inbound_wikilinks_count": 19,
     "last_modified": "2026-06-06"
   }
 }
