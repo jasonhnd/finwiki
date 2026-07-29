@@ -58,10 +58,11 @@
     "グローバル分散"
   ],
   "body_links": {
-    "wikilinks_count": 6,
+    "wikilinks_count": 7,
     "wikilinks": [
       "banking/INDEX",
       "leasing-firms/INDEX",
+      "leasing-firms/mitsubishi-hc-capital",
       "leasing-firms/orix-corp",
       "leasing-firms/tokyo-century",
       "manufacturer-finance/toyota-motor",
@@ -70,17 +71,25 @@
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/ja/domains/banking/",
       "https://finwiki.zksc.io/ja/domains/leasing-firms/",
+      "https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/",
       "https://finwiki.zksc.io/ja/leasing-firms/orix-corp/",
       "https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/",
       "https://finwiki.zksc.io/ja/manufacturer-finance/toyota-motor/",
       "https://finwiki.zksc.io/ja/megabanks/mufg/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 6,
+    "external_links": [
+      "https://global.toyota/en/company/profile/other-toyota-businesses/finance/",
+      "https://www.mitsubishi-hc-capital.com/corporate/overview.html",
+      "https://www.orix.co.jp/grp/en/ir/library/annual_report/",
+      "https://www.tfsc.jp/en/company/index.html",
+      "https://www.tfsc.jp/en/what/index.html",
+      "https://www.tokyocentury.co.jp/jp/company/info/outline/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 4339,
-    "word_like_tokens": 686,
+    "nonspace_chars": 4926,
+    "word_like_tokens": 762,
     "inbound_wikilinks_count": 15,
     "last_modified": "2026-07-29"
   }

@@ -91,13 +91,16 @@
       "https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/",
       "https://finwiki.zksc.io/ja/megabanks/mufg/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 2,
+    "external_links": [
+      "https://www.hitachi.com/",
+      "https://www.mitsubishi-hc-capital.com/english/corporate/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 4061,
-    "word_like_tokens": 666,
+    "nonspace_chars": 4196,
+    "word_like_tokens": 687,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-07-29"
   }
 }

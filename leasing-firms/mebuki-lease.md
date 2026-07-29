@@ -39,6 +39,8 @@ This entry sits under the [[leasing-firms/INDEX|leasing-firms INDEX]] as the FG-
 | Group boundary | [[regional-banks/mebuki-fg]] 100% subsidiary; [[regional-banks/joyo-bank]] / [[regional-banks/ashikaga-bank]] 銀リース連携相手 |
 | Wiki role | Regional-bank FG leasing-subsidiary anchor (北関東地盤) |
 
+出典: [めぶきリース](https://www.mebuki-lease.co.jp/)および[めぶきフィナンシャルグループ](https://www.mebuki-fg.co.jp/)（この表のグループ帰属）。
+
 ## 2. 持株ツリー
 
 ```
@@ -86,6 +88,8 @@ This entry sits under the [[leasing-firms/INDEX|leasing-firms INDEX]] as the FG-
 | 銀リース連携 | [[regional-banks/joyo-bank]] / [[regional-banks/ashikaga-bank]] 顧客紹介 + 共同提案 |
 | 主要顧客層 | 北関東中堅企業 + 製造業・農業機械・医療機関・自治体 |
 | 親会社 | [[regional-banks/mebuki-fg]] 100% 出資 |
+
+出典: [めぶきリース会社概要・沿革](https://www.mebuki-lease.co.jp/gaiyo/index.html)（この表の設立、商号変更、資本金、本社および親会社）。
 
 > 注: めぶきリースは非上場の完全子会社のため単体財務 KPI 精緻値は単独開示されず、[[regional-banks/mebuki-fg]] 有価証券報告書セグメント情報を参照
 

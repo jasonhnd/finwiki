@@ -1,11 +1,11 @@
 ---
 source: leasing-firms/orix-corp
-source_hash: cc00c969aa6fc607
+source_hash: 4ced89b2262c48f4
 lang: en
 status: machine
 fidelity: ok
 title: "ORIX Corporation (オリックス株式会社)"
-translated_at: 2026-06-19T06:09:18.086Z
+translated_at: 2026-07-29T08:00:00Z
 ---
 
 # ORIX Corporation (オリックス株式会社)
@@ -102,6 +102,8 @@ ORIX Corporation (holding function + direct businesses, listed 8591 / IX)
 | Asset management | ORIX AM | REITs, private funds |
 | Americas | ORIX USA | US real estate, PE, lending |
 | Asia & Australasia | ORIX Asia / Australia / India | China, India, India, Australia |
+
+Source: [ORIX Integrated Report 2025](https://www.orix.co.jp/grp/en/ir/library/annual_report/) (business segments and group structure in this table).
 
 ### Diversification model
 

@@ -1,11 +1,11 @@
 ---
 source: card-issuers/jal-card
-source_hash: 805f834e862c1319
+source_hash: 304042fc40665774
 lang: en
 status: machine
 fidelity: ok
 title: "株式会社JALカード (JAL Card)"
-translated_at: 2026-06-18T23:33:48.340Z
+translated_at: 2026-07-29T07:29:14.000Z
 ---
 
 # 株式会社JALカード (JAL Card)
@@ -110,6 +110,8 @@ JAL Card does not appear in parent JAL's segment disclosure, but it has its own 
 - [METI 割賦販売法 登録事業者一覧](https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html)
 - 日本航空 (JAL) 統合報告書 2024 — mileage business segment
 
+
+Sources: [JAL Card history](https://jalcard.jal.co.jp/profile/company/history/) and [JAL Card company overview](https://jalcard.jal.co.jp/profile/company/overview/). Parent-company restructuring and product dates should be read as JAL and JAL Card public disclosures, respectively.
 ---
 
 > [!info] Verification status

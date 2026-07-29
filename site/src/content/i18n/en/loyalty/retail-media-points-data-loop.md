@@ -1,6 +1,6 @@
 ---
 source: loyalty/retail-media-points-data-loop
-source_hash: 00b70bf5ae34beb0
+source_hash: 10877633ee40a543
 lang: en
 model: claude-opus-4-8
 status: machine
@@ -44,6 +44,8 @@ A retailer's own-brand card sees only that retailer. A **common point** (the mod
 | Cross-merchant breadth | One ID spans grocery, convenience, fuel, travel, EC → a fuller behavioural profile than any single store |
 | Payment binding | Earn tied to a wallet / card links *purchase intent* to *payment instrument* → finance cross-sell signal |
 | Redemption pull | Spending points brings the customer back into measurable, attributable sessions → closes the retail-media loop |
+
+Sources: [Rakuten Point guidance](https://point.rakuten.co.jp/guidance/en/faq/pointinfo/), [CCC news releases](https://www.ccc.co.jp/en/news/press/), [d Point](https://dpoint.docomo.ne.jp/), and the [Personal Information Protection Commission](https://www.ppc.go.jp/). The effects are an analytical model and remain subject to consent and applicable privacy rules.
 
 The historic archetype is the T-Point database (CCC) — a common point explicitly built and marketed as a data business. Its successor structure under **CCCMK Holdings** (the SMFG-CCC joint venture operating V-Point) carries the same data-asset logic into a bank-anchored ecosystem; for the transition mechanics see [[loyalty/v-point-smbc-ccc-case|V Point (SMBC × CCC) case]] and [[loyalty/t-point-v-point-post-2024-merger|T-Point + V-Point post-2024 merger]].
 

@@ -45,6 +45,8 @@ This entry sits under [[card-issuers/INDEX|card-issuers INDEX]] (its domain rout
 | Cash-advance lane | カードのキャッシング枠は貸金業法の枠組みで提供される（子会社・商品単位） |
 | Supervision | 金融庁（銀行・貸金）＋ 経済産業省（割賦販売法）、業界自主規制は [[card-issuers/installment-sales-act-2020-amendment|日本クレジット協会]] |
 
+Sources: [イオンフィナンシャルサービス会社概要](https://www.aeonfinancial.co.jp/corp/about/) for the group and bank relationship, and [METI の登録事業者一覧](https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html) for the installment-sales route.
+
 ## 2. Operating model
 
 AFS は card issuing、bank deposits、insurance agency、電子マネー (WAON 系)、加盟店サービス (issuing/acquiring) を一つの retail-finance スタックとして運営する。割賦の中身は一括・分割払い (分割払い)・リボ (リボルビング) で、ポイント・electronic-money 残高と loyalty を組み合わせて利用を駆動する。銀行子会社を持つ点が、預金基盤を持たない純カード会社（[[card-issuers/epos-card|エポスカード]]・[[card-issuers/pocket-card|ポケットカード]]）との構造的な違いになる。アジア consumer finance も含む footprint は固定の cap table ではなく、公開開示から読める **shape** として扱う。

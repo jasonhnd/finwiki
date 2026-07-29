@@ -1,41 +1,43 @@
 ---
 source: leasing-firms/chibagin-leasing
-source_hash: b8c525f20fba9c38
+source_hash: 90c909cd85f5b934
 lang: ja
 status: machine
 fidelity: ok
 title: "ちばぎんリース (Chibagin Leasing)"
-translated_at: 2026-06-02T14:01:20.911Z
+translated_at: 2026-07-29T07:37:42Z
 ---
 # ちばぎんリース (Chibagin Leasing)
 
-## ウィキ上の位置づけ
+## Wiki route
 
-この項目は、[[leasing-firms/INDEX|leasing-firms INDEX]] の配下にあり、[[regional-banks/chiba-bank|千葉銀行 (Chiba Bank)]] に対する FG 子会社リース事業会社のアンカーである。親事業銀行 [[regional-banks/chiba-bank|千葉銀行]]（持株会社化していない単独銀行モデル）および兄弟子会社 [[securities-firms/chibagin-securities|ちばぎん証券]] と対照して読む。ピア比較は、[[leasing-firms/mebuki-lease|めぶきリース]]（北関東地銀系リース）/ [[leasing-firms/yokohama-bank-leasing|横浜銀リース]]（神奈川地銀系リース）/ [[leasing-firms/hokkaido-lease|北海道リース]] / [[leasing-firms/yamaguchi-leasing|山口リース]] / [[leasing-firms/iyogin-leasing|いよぎんリース]]、および大手リース会社 [[leasing-firms/mitsubishi-hc-capital|三菱 HC キャピタル]] / [[leasing-firms/mizuho-lease|みずほリース]] / [[leasing-firms/tokyo-century|東京センチュリー]]。より広い制度ルートは [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]]、[[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]]、[[banking/INDEX|banking index]] を参照する。投資可能ユニバースの文脈は [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]]。
+This entry sits under the [[leasing-firms/INDEX|leasing-firms INDEX]] as the FG-subsidiary leasing operating-company anchor for [[regional-banks/chiba-bank|千葉銀行 (Chiba Bank)]]. Read it against parent operating bank [[regional-banks/chiba-bank|千葉銀行]] (no-holding 単独銀行 model) and sibling subsidiary [[securities-firms/chibagin-securities|ちばぎん証券]]. Peer comparison: [[leasing-firms/mebuki-lease|めぶきリース]] (北関東地銀系リース) / [[leasing-firms/yokohama-bank-leasing|浜銀ファイナンス]] (神奈川地銀系リース) / [[leasing-firms/hokkaido-lease|北海道リース]] / [[leasing-firms/yamaguchi-leasing|山口リース]] / [[leasing-firms/iyogin-leasing|いよぎんリース]] and major lessor [[leasing-firms/mitsubishi-hc-capital|三菱 HC キャピタル]] / [[leasing-firms/mizuho-lease|みずほリース]] / [[leasing-firms/tokyo-century|東京センチュリー]]. For broader system route see [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]], [[banking/regional-bank-api-digital-partnership-route|regional-bank API/digital partnership route]] and [[banking/INDEX|banking index]]. Investable-universe context: [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]].
 
-## 要約
+## TL;DR
 
-株式会社ちばぎんリースは、[[regional-banks/chiba-bank|千葉銀行 (東証 PRIME 8331)]] 100% 子会社の地銀系リース会社で、千葉県・首都圏東部を地盤に**設備リース・ファイナンスリース・オペレーティングリース・自治体リース・医療リース・ファクタリング・オートリース**等を提供。地銀系リース上位の一角で、千葉銀の千葉県内シェア No.1 + 預金 18-20 兆円規模の中堅企業 メインバンク 顧客基盤を背景とする。**親 [[regional-banks/chiba-bank]] が持株会社化していない単独銀行 (単独銀行モデル)** のため、ちばぎんリースは銀行本体直下にぶら下がる構造で、[[leasing-firms/mebuki-lease]] (持株会社下) や [[leasing-firms/yokohama-bank-leasing]] (銀行連結子会社) とは法的位置が異なる。^[extracted]
+株式会社ちばぎんリースは、[[regional-banks/chiba-bank|千葉銀行 (東証 PRIME 8331)]] グループの総合リース会社で、千葉県を中心に事業を展開する。千葉銀行の 2022-08-05 公開資料は同行の「グループ会社」と位置付けている。本ページでは、最新の直接・間接議決権内訳を示す資料なしに「千葉銀行単体の100%子会社」とは記載しない。
 
 ## 1. 会社概要
 
-| 項目 | 注記 |
+| Item | Notes |
 |---|---|
 | 正式名 | 株式会社ちばぎんリース |
-| 英文名 | Chibagin Leasing Co., Ltd. |
-| 親会社 | [[regional-banks/chiba-bank|千葉銀行]] 100% (持株会社化していない単独銀行直下) |
+| English name | Chibagin Leasing Co., Ltd. |
+| グループ関係 | [[regional-banks/chiba-bank|千葉銀行]] グループ会社 |
 | 設立 | 1986-12-15 (「ちばぎんファイナンス株式会社」として設立)。1995-07 に「ちばぎんリース株式会社」へ商号変更。資本金 1 億円。本店: 千葉市美浜区中瀬 (ちばぎん幕張ビル) |
 | 主要事業 | 設備リース / ファイナンスリース / オペレーティングリース / 自治体リース / 医療リース / ファクタリング / オートリース / 集金代行 |
-| 規制 | リース業 (銀行業免許不要、貸金業登録は対応領域に応じて) |
-| 上場区分 | 非上場 ([[regional-banks/chiba-bank]] 100% 子会社) |
-| ウィキ上の役割 | 千葉銀行系リース子会社 アンカー (単独銀行モデル) |
+| 規制上の範囲 | 公式会社情報が示す事業は総合リース。本ページでは会社固有の貸金業登録を裏付ける当局資料を確認できないため、貸金業者とは断定しない |
+| 上場区分 | 非上場のグループ会社 |
+| Wiki role | 千葉銀行系リース子会社 anchor (no-holding model) |
+
+出典: [ちばぎんリース会社概要](http://www.cblnet.co.jp/about/)（商号、沿革、資本金、本店、事業概要）および[千葉銀行 2022-08-05 公開資料](https://www.chibabank.co.jp/news/news202200805_01_001)（千葉銀行グループ会社との位置付け）。
 
 ### 持株ツリー (千葉銀グループ簡略図)
 
 ```
 [[regional-banks/chiba-bank|千葉銀行]] (単独銀行・上場 8331、持株会社化していない)
   ├── [[securities-firms/chibagin-securities|ちばぎん証券]] (100%) ── グループ証券
-  ├── ちばぎんリース (100%、本ページ) ── グループリース
+  ├── ちばぎんリース (グループ会社、本ページ) ── グループリース
   │     ├── 千葉県 + 首都圏東部 設備リース
   │     ├── 京葉工業地帯製造業向けリース
   │     └── 自治体・医療・農業機械リース
@@ -62,21 +64,21 @@ translated_at: 2026-06-02T14:01:20.911Z
 
 | グループ会社 | 連携内容 |
 |---|---|
-| [[regional-banks/chiba-bank]] | 法人顧客紹介、銀行融資 + リース組合せ提案、京葉工業地帯製造業 メインバンク 連携 |
-| [[securities-firms/chibagin-securities]] | 中堅企業 メインバンク クロス提案 (リース + 私募債 + 株式公開) |
+| [[regional-banks/chiba-bank]] | 法人顧客紹介、銀行融資 + リース組合せ提案、京葉工業地帯製造業 main bank 連携 |
+| [[securities-firms/chibagin-securities]] | 中堅企業 main bank クロス提案 (リース + 私募債 + 株式公開) |
 | ちばぎん総研 | 千葉県業界レポート (製造業設備投資動向) 提供 |
 
-### 地銀系リース ピア比較
+### 地銀系リース peer 比較
 
-| リース子会社 | 親銀行 / FG | 親会社 model | 地盤 | 上場 |
-|---|---|---|---|---|
-| **ちばぎんリース** (本ページ) | [[regional-banks/chiba-bank|千葉銀行]] | no-holding 単独銀行 | 千葉県・首都圏東部 | 親 8331 |
-| [[leasing-firms/mebuki-lease|めぶきリース]] | [[regional-banks/mebuki-fg|めぶき FG]] | 持株会社下兄弟会社 | 茨城・栃木・北関東 | 親 7167 |
-| [[leasing-firms/yokohama-bank-leasing|横浜銀リース]] | [[regional-banks/yokohama-bank]] / [[regional-banks/concordia-fg]] | 銀行連結子会社 | 神奈川・首都圏 | 親 7186 |
-| [[leasing-firms/hokkaido-lease|北海道リース]] | [[regional-banks/hokkaido-bank]] | 銀行系リース | 北海道 | 親 8328 系 |
-| [[leasing-firms/yamaguchi-leasing|山口リース]] | [[regional-banks/yamaguchi-fg|YMFG]] | 持株会社系列 | 山口・広島・北九州 | 親 8418 |
-| [[leasing-firms/iyogin-leasing|いよぎんリース]] | [[regional-banks/iyogin-hd|いよぎん HD]] | 持株会社下兄弟会社 | 愛媛・四国 | 親 5830 |
-| しずぎんリース | [[regional-banks/shizuoka-fg|しずおか FG]] | 持株会社下兄弟会社 | 静岡県 | 親 5831 |
+| リース会社 | 公式に確認できる関係 | 一次資料（2026-07-29 参照） |
+|---|---|---|
+| **ちばぎんリース** (本ページ) | 千葉銀行グループ会社 | [千葉銀行 2022-08-05 公開資料](https://www.chibabank.co.jp/news/news202200805_01_001) |
+| [[leasing-firms/mebuki-lease|めぶきリース]] | めぶきFGが株主 | [めぶきリース会社概要](https://www.mebuki-lease.co.jp/gaiyo/index.html) |
+| [[leasing-firms/hokkaido-lease|北海道リース]] | 北海道銀行が主要株主第1位、2024-10 から同行持分法適用会社 | [北海道リース会社概要](https://www.do-lease.co.jp/company/profile.html)・[沿革](https://www.do-lease.co.jp/company/history.html) |
+| [[leasing-firms/yamaguchi-leasing|ワイエムリース]] | YMFG 子会社 | [YMFGグループ会社一覧（2025-09-25現在）](https://www.ymfg.co.jp/about/profile/group/) |
+| [[leasing-firms/iyogin-leasing|いよぎんリース]] | いよぎんHDグループ会社 | [いよぎんHDグループ会社一覧](https://www.iyogin-hd.co.jp/company/group.html) |
+
+この比較表は各社の資本・会計上の関係だけを扱い、地盤、規模、上場順位を推定しない。
 
 ### 大手リース・専業リースとの競合
 
@@ -91,7 +93,7 @@ translated_at: 2026-06-02T14:01:20.911Z
 ### 規制枠組み
 
 - **主管**: 金融庁 (FSA) ・経済産業省
-- **法的根拠**: リース業 (銀行法上の銀行業免許不要)、貸金業登録 (ファクタリング / 集金代行領域で必要に応じて取得)
+- **確認範囲**: 公式会社情報が示す総合リース事業。会社固有の許認可・登録は当局公開情報または会社の登録票で個別確認する
 - **親銀行ガバナンス**: [[regional-banks/chiba-bank]] が単独銀行のため、銀行法上の銀行業以外子会社規制 (主要業務 / 付随業務 / 業務範囲規制) で位置づけられる
 
 ### 規制論点
@@ -107,7 +109,7 @@ translated_at: 2026-06-02T14:01:20.911Z
 
 - **単体財務 KPI**: 親 [[regional-banks/chiba-bank]] 有価証券報告書注記 / セグメント情報で部分開示 (資本金 1 億円 = ちばぎんリース公式会社概要)
 
-## 関連
+## Related
 
 - [[regional-banks/chiba-bank]] · [[securities-firms/chibagin-securities]] · [[regional-banks/chiba-kogyo-bank]]
 - [[leasing-firms/mebuki-lease]] · [[leasing-firms/yokohama-bank-leasing]] · [[leasing-firms/hokkaido-lease]] · [[leasing-firms/yamaguchi-leasing]] · [[leasing-firms/iyogin-leasing]]
@@ -118,7 +120,7 @@ translated_at: 2026-06-02T14:01:20.911Z
 - [[finance/japan-listed-financial-groups-investable-universe]] · [[finance/INDEX]]
 - [[leasing-firms/INDEX|leasing-firms INDEX]]
 
-## 出典
+## Sources
 
 - **ちばぎんリース 公式サイト — 会社概要** (https://www.chibagin-lease.co.jp/, リダイレクト先 http://www.cblnet.co.jp/about/。1986-12-15 ちばぎんファイナンスとして設立 / 1995-07 ちばぎんリースへ商号変更 / 資本金 1 億円 / 本店 千葉市美浜区中瀬)
 - **千葉銀行 公式 IR** (https://www.chibabank.co.jp/)
@@ -128,5 +130,5 @@ translated_at: 2026-06-02T14:01:20.911Z
 
 ---
 
-> [!info] 校核状態
-> confidence: **likely** (FG leasing-subsidiary アンカー created 2026-05-25)。[[regional-banks/chiba-bank]] page = 単独銀行 (単独銀行モデル) holding strategy を扱い、本ページは leasing-subsidiary operating boundary を扱う。設立年 (1986-12-15、旧称 ちばぎんファイナンス) ・商号変更 (1995-07 ちばぎんリース) ・資本金 (1 億円) はちばぎんリース公式会社概要で確認済 (出典下記)。単体財務 KPI 精緻値は親 [[regional-banks/chiba-bank]] 有価証券報告書セグメント情報を参照。
+> [!info] 校核状态
+> confidence: **likely** (FG leasing-subsidiary anchor created 2026-05-25)。[[regional-banks/chiba-bank]] page = 単独銀行 (no-holding model) holding strategy を扱い、本ページは leasing-subsidiary operating boundary を扱う。設立年 (1986-12-15、旧称 ちばぎんファイナンス) ・商号変更 (1995-07 ちばぎんリース) ・資本金 (1 億円) はちばぎんリース公式会社概要で確認済 (出典下記)。単体財務 KPI 精緻値は親 [[regional-banks/chiba-bank]] 有価証券報告書セグメント情報を参照。

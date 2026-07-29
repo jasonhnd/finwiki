@@ -1,11 +1,11 @@
 ---
 source: card-issuers/aplus
-source_hash: 012b0ac6ad7b659e
+source_hash: 4c6a77594ba28e1a
 lang: en
 status: machine
 fidelity: ok
 title: "APLUS (アプラス)"
-translated_at: 2026-06-15T03:48:21.875Z
+translated_at: 2026-07-29T07:29:14.000Z
 ---
 
 # APLUS (アプラス)
@@ -27,6 +27,8 @@ APLUS is the comprehensive sales-credit (総合信販) operator of the [[regiona
 | Group | [[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]] / SBI group |
 | Main lanes | Shopping credit, card, payment services, installment finance |
 | Regulatory route | METI Installment Sales Act lists and official SBI Shinsei group company pages. |
+
+Sources: [SBI Group APLUS profile](https://www.sbigroup.co.jp/english/company/group/aplus.html/) and [METI list of comprehensive credit-purchase intermediaries](https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html).
 
 ## 2. Business role
 

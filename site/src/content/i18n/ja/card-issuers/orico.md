@@ -1,19 +1,19 @@
 ---
 source: card-issuers/orico
-source_hash: 5b74384c05822228
+source_hash: 50578decbfada090
 lang: ja
 status: machine
 fidelity: ok
-title: "オリエントコーポレーション（Orico）"
-translated_at: 2026-06-02T15:14:17.092Z
+title: "株式会社オリエントコーポレーション (Orico)"
+translated_at: 2026-07-29T07:29:14.000Z
 ---
-# オリエントコーポレーション（Orico）
+# 株式会社オリエントコーポレーション (Orico)
 
-## ウィキ上の位置づけ
+## Wiki route
 
-この項目は [[card-issuers/INDEX|card-issuers INDEX]] の配下に置く。比較・対照の文脈は [[card-issuers/jaccs|株式会社ジャックス (Jaccs)]] と照合し、より広い制度・規制上の境界は [[banking/INDEX|banking index]] とあわせて読む。
+This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against [[card-issuers/jaccs|株式会社ジャックス (Jaccs)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
-## 要約
+## TL;DR
 
 **[[megabanks/mizuho-fg]] 系・伊藤忠商事系の国内大手信販**。1954-12-22 広島で「廣島総合信用」として設立、1962 にオリエントファイナンス、2001 に現社名へ改称。**自動車ローン (オートローン) 国内最大手**を背骨に、ショッピングクレジット・クレジットカード (Orico Card 各種)・カードローン・法人ファイナンス・不動産担保ローンを展開。2005-12 経営再建で [[megabanks/mizuho-fg]] (旧興銀系) + 伊藤忠商事 + KDDI 等の優先株注入を受け、現在は **みずほ FG の持分法適用関連会社 + 伊藤忠商事**が主要株主の枠組み。東証 PRIME 8585。競合は [[card-issuers/jaccs]] / クレディセゾン / 三井住友カード ([[megabanks/smfg]] 系) / 三菱 UFJ ニコス ([[megabanks/mufg]] 系) / イオン系 [[card-issuers/aeon-bank]]。^[extracted]
 
@@ -96,6 +96,8 @@ translated_at: 2026-06-02T15:14:17.092Z
 | **エポスカード** | 丸井グループ | 流通系・若年層 | マルイ販促連携 |
 | **楽天カード** | 楽天 FG ([[payment-firms/rakuten-fg]] 系) | 国内発行枚数 No.1 級 | ポイント経済圏 |
 
+Sources: [Orico 会社情報](https://www.orico.co.jp/company/) and [Orico IR](https://www.orico.co.jp/company/ir/). Competitor descriptions are comparative context and should not be read as current market-share rankings.
+
 ### 戦略課題
 
 - **オートローン市場の構造変化**: EV シフト・サブスク (KINTO 等)・カーシェアの普及で、従来型「個人購入+割賦」モデルが中長期で変容リスク
@@ -119,7 +121,7 @@ translated_at: 2026-06-02T15:14:17.092Z
   - グレーゾーン金利問題の収束 (利息制限法・出資法上限金利の一本化、2010-06 完了) ^[extracted]
   - インボイス制度 (2023-10〜) でカード明細・経費精算の取扱変化
 
-## 関連項目
+## Related
 
 - [[megabanks/mizuho-fg]] (主要株主・持分法適用親会社) · 伊藤忠商事 (主要株主)
 - 国内信販競合: [[card-issuers/jaccs]] (オートローン直接競合・[[megabanks/mufg]] 系)
@@ -127,7 +129,7 @@ translated_at: 2026-06-02T15:14:17.092Z
 - デジタル決済競合: [[megabanks/paypay-fg]] (PayPay) · [[payment-firms/paidy]] (BNPL) · 楽天ペイ · d 払い ([[megabanks/ndfg]] 系) · au PAY ([[megabanks/au-fh]] 系)
 - 自動車金融周辺: トヨタファイナンス (トヨタ系) · ホンダファイナンス (ホンダ系)
 
-## 出典
+## Sources
 
 - **Wikipedia: 株式会社オリエントコーポレーション** (公開情報、2026-05-19 参照)
 - **Orico 公式コーポレートサイト** 会社概要・沿革・IR (https://www.orico.co.jp/)
@@ -139,4 +141,4 @@ translated_at: 2026-06-02T15:14:17.092Z
 ---
 
 > [!info] 検証状況
-> 確度: **高め** (Wikipedia + Orico 公式公開情報ベース、2026-05-19 参照)。設立 (1954)・改称 (1962 / 2001)・上場 (1971)・経営再建枠組み (2005-12 みずほ + 伊藤忠 + KDDI 優先株)・自動車ローン国内 No.1 等の重要事実は公開情報で検証可能。主要株主の正確な持株比率・連結子会社の最新範囲・2024 中計の数値目標は有価証券報告書 / IR 公表資料を要参照。
+> confidence: **likely** (Wikipedia + Orico 公式公開情報ベース、2026-05-19 参照)。設立 (1954)・改称 (1962 / 2001)・上場 (1971)・経営再建枠組み (2005-12 みずほ + 伊藤忠 + KDDI 優先株)・自動車ローン国内 No.1 等の重要事実は公開情報で検証可能。主要株主の正確な持株比率・連結子会社の最新範囲・2024 中計の数値目標は有価証券報告書 / IR 公表資料を要参照。

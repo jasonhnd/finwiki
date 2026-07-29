@@ -11,10 +11,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/loyalty/t-point-v-point-post-2024-merger.md",
   "raw_markdown_url": "https://finwiki.zksc.io/loyalty/t-point-v-point-post-2024-merger.md",
   "domain": "loyalty",
-  "title": "T-Point + V-Point post-2024 merger — dual-brand transition, CCCMK Holdings, points-liability transfer",
+  "title": "T-Point + V-Point post-2024 unification — account linking, customer transition, public accounting boundary",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "T-Point + V-Point post-2024 merger — dual-brand transition, CCCMK Holdings, points-liability transfer",
+    "title": "T-Point + V-Point post-2024 unification — account linking, customer transition, public accounting boundary",
     "aliases": [
       "loyalty/t-point-v-point-post-2024-merger",
       "t-point-v-point-post-2024-merger",
@@ -51,10 +51,11 @@
     "note": null,
     "sources": [
       "https://vpoint.jp/",
-      "https://www.ccc.co.jp/news/",
       "https://www.ccc.co.jp/en/news/press/20240109_002347.html",
-      "https://www.smbc-card.com/mem/service/cardless/vpoint.jsp",
-      "https://www.smfg.co.jp/news/",
+      "https://www.ccc.co.jp/en/news/press/20240422_002200.html",
+      "https://www.smbc-card.com/company/news/news0001852.jsp",
+      "https://www.smbc-card.com/mem/cardinfo/23/cardinfo4010742.jsp",
+      "https://www.smfg.co.jp/investor/financial/disclosure/fy2025_inter_pdf/fy2025_inter_00.pdf",
       "https://www.smbc.co.jp/kojin/olive/",
       "https://about.paypay.ne.jp/corp/",
       "https://paymentsjapan.or.jp/category/publications/"
@@ -62,14 +63,14 @@
   },
   "summary": "This entry sits under loyalty index as the post-2024-04-22 operational detail page for the T-Point + V-Point unification, complementing the strategic V Point (SMBC × CCC) bank-led common-point case entry that documents the structural framing. Read with Japan points and loyalty landscape for the ecos",
   "headings": [
-    "T-Point + V-Point post-2024 merger — dual-brand transition, CCCMK Holdings, points-liability transfer",
+    "T-Point + V-Point post-2024 unification — account linking, customer transition, public accounting boundary",
     "Wiki route",
     "TL;DR",
     "Timeline of the merger and the dual-brand transition",
     "CCCMK Holdings — the joint venture vehicle",
     "Dual-brand mechanics — what's TSUTAYA-branded vs SMBC-branded",
     "Comparison with PayPay Points",
-    "Points-liability transfer mechanics — IFRS 15 / ASBJ 29 framing",
+    "Publicly disclosed accounting boundary",
     "SBI alliance — investment-product attachment as the bank-led differentiation",
     "Related"
   ],
@@ -115,13 +116,28 @@
       "https://finwiki.zksc.io/ja/payments/japan-code-payment-operator-2025-market-share-matrix/",
       "https://finwiki.zksc.io/ja/domains/retail/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 14,
+    "external_links": [
+      "https://about.paypay.ne.jp/en/about/",
+      "https://vpoint.jp/",
+      "https://www.asb.or.jp/jp/wp-content/uploads/asbj_29.pdf",
+      "https://www.ccc.co.jp/en/news/press/20240109_002347.html",
+      "https://www.ccc.co.jp/en/news/press/20240422_002200.html",
+      "https://www.ccc.co.jp/news/",
+      "https://www.lycorp.co.jp/en/",
+      "https://www.sbisec.co.jp/",
+      "https://www.smbc-card.com/company/news/news0001852.jsp",
+      "https://www.smbc-card.com/mem/cardinfo/23/cardinfo4010742.jsp",
+      "https://www.smbc-card.com/mem/service/cardless/vpoint.jsp",
+      "https://www.smbc.co.jp/kojin/olive/",
+      "https://www.smfg.co.jp/investor/financial/disclosure/fy2025_inter_pdf/fy2025_inter_00.pdf",
+      "https://www.smfg.co.jp/news/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 12819,
-    "word_like_tokens": 2197,
+    "nonspace_chars": 12463,
+    "word_like_tokens": 2107,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-29"
   }
 }

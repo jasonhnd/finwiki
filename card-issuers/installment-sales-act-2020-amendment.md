@@ -86,6 +86,8 @@ METI は、2020年改正の背景を「少額かつ多頻度の後払サービ�
 | 目的ローン | 金銭消費貸借でも販売契約との密接牽連性があれば個別信用購入あっせんになり得る | 販売店との提携、勧誘、手続一体性 |
 | コード決済連携 | カード番号等の保存・連携・不正利用防止義務が問題になる | 非保持化、PCI DSS、EMV 3-Dセキュア等 |
 
+Sources: [METI の後払分野に関する概要・FAQ](https://www.meti.go.jp/policy/economy/consumer/credit/kappuhanbaihoatobaraibunyanogaiyofaq.html) for the legal boundary and [令和2年改正の概要](https://www.meti.go.jp/policy/economy/consumer/credit/R2kaiseinogaiyou.pdf) for the amendment framework. The rows are analytical classifications, not determinations for any individual service.
+
 ## Related
 
 - [[payment-firms/paidy]]

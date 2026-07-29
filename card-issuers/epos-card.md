@@ -36,6 +36,8 @@ This entry sits under [[card-issuers/INDEX|card-issuers INDEX]] (its domain rout
 | Supervision | 金融庁（貸金）＋ 経済産業省（割賦販売法）、自主規制は [[card-issuers/installment-sales-act-2020-amendment|日本クレジット協会]] |
 | Wiki role | Marui group retail-origin card operating-company anchor |
 
+Sources: [エポスカード会社情報](https://www.eposcard.co.jp/company/) for the operating-company boundary and [METI の包括信用購入あっせん業者一覧](https://www.meti.go.jp/policy/economy/consumer/credit/115tourokujigyousyaitiran.html) for the statutory route.
+
 ## 2. Operating model
 
 エポスカードは丸井の retail / commercial-facility relationship を customer-acquisition channel として使い、カード利用を loyalty、テナント／施設経済、家賃保証・保険などの生活密着型金融商品につなぐ。割賦の中身は一括・分割払い (分割払い)・リボ (リボルビング)、加えて issuing 中心に加盟店・co-brand を展開する。日本のカード issuer が必ずしも銀行子会社ではないことを示す典型例で、[[card-issuers/pocket-card|ポケットカード]]・[[card-issuers/aeon-financial-service|イオンフィナンシャルサービス]] と同じ retail-origin lane に位置する。

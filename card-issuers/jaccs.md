@@ -98,15 +98,19 @@ ASEAN は MUFG 全体の海外戦略（Krungsri / Bank Danamon / VietinBank、[[
 | 2022-04 | 東証市場区分見直し → **東証 PRIME 8584** |
 | 2024〜 | 中期経営計画（公開分）始動 |
 
+Sources: [ジャックスの会社沿革](https://www.jaccs.co.jp/corporate/about/history/) and [ジャックス IR](https://www.jaccs.co.jp/corporate/ir/) for the issuer history and current disclosure.
+
 ### グループ内ポジショニング
 
-[[megabanks/mufg]] グループ内の消費者金融・クレカ・信販 3 軸：
+ジャックスと MUFG の関係について、ジャックスの現行開示から確認できる範囲：
 
-| 機能 | 担当会社 | [[megabanks/mufg]] からの位置付け |
-|---|---|---|
-| メガバンク・カード | 三菱 UFJ ニコス | 100% 連結子会社・三大クレカ |
-| 消費者金融（無担保） | アコム | 持分法 39.6%・東証 STD 8572 |
-| **信販・個品割賦** | **Jaccs** | **持分法適用関連会社・東証 PRIME 8584** |
+| 確認項目 | 公表内容 |
+|---|---|
+| MUFG との関係 | ジャックスは公式グループ戦略で「MUFGグループ企業」と説明 |
+| 三菱UFJ銀行の持株 | 39.41%（ジャックス公式、2026-03-31 現在） |
+| 上場区分 | 東証プライム、証券コード 8584 |
+
+Sources: [ジャックス株式基本情報](https://www.jaccs.co.jp/corporate/ir/stock/stockinformation/) and [ジャックスのグループ戦略](https://www.jaccs.co.jp/corporate/about/group/strategy/). Acom and Mitsubishi UFJ NICOS percentages are not inferred here.
 
 つまり Jaccs は「[[megabanks/mufg]] が直接の銀行融資ではカバーしにくい**販売金融＝加盟店経由の割賦**」を担当する位置。
 

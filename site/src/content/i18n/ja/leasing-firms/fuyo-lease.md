@@ -1,29 +1,29 @@
 ---
 source: leasing-firms/fuyo-lease
-source_hash: aa64fdc8af33a41e
+source_hash: d87e583b19baeaab
 lang: ja
 status: machine
 fidelity: ok
-title: "芙蓉総合リース"
-translated_at: 2026-06-02T14:25:12.434Z
+title: 芙蓉総合リース
+translated_at: 2026-07-29T07:37:42Z
 ---
 
 # 芙蓉総合リース
 
-## ウィキ上の位置づけ
+## Wiki route
 
-この項目は [[leasing-firms/INDEX|leasing-firms INDEX]] の下に置く。比較対象・対照軸は [[leasing-firms/orix-corp|オリックス株式会社 (ORIX Corporation)]]、より広い制度・規制境界は [[banking/INDEX|banking index]] とあわせて読む。
+This entry sits under [[leasing-firms/INDEX|leasing-firms INDEX]]. Read it against [[leasing-firms/orix-corp|オリックス株式会社 (ORIX Corporation)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
-## 要約
+## TL;DR
 
-旧 富士銀行 系の準大手総合リース会社（東証 PRIME **8424**）。**3 大リース（[[leasing-firms/orix-corp]] / 三菱 HC キャピタル / [[leasing-firms/tokyo-century]]）に次ぐ準大手** で、**芙蓉グループ**（旧 富士銀行コミュニティ：[[megabanks/mizuho-fg]] + 丸紅 + 日産 + キヤノン + 日清製粉 + 東京海上 [[non-life-insurers/tokio-marine]] 等）の金融中核機能を担う。1969-09-04 創業（旧称：芙蓉ファクター）。一般機器リース + 不動産 + 環境・再エネ + 医療・介護 + 航空機・船舶 + 海外（アジア中心）の 6 軸構成。同じ旧富士銀行系で「準三大リースに先行統合できた」[[leasing-firms/tokyo-century]] とは兄弟関係 + 競合関係。^[extracted]
+芙蓉総合リースは東証 PRIME **8424** 上場の総合リース会社。公式沿革によると、1969-05 に富士銀行（現みずほ銀行）、丸紅飯田（現丸紅）ほか芙蓉グループ4社の出資で設立された。不動産、航空機、エネルギー・環境、BPO/ICT、ヘルスケア、モビリティ／ロジスティクス等を事業分野として掲げる。
 
 ## 1. 会社概要
 
 **正式名**：芙蓉総合リース株式会社 ^[extracted]
 **英名**：Fuyo General Lease Co., Ltd. ^[extracted]
 **証券コード**：東証 PRIME 8424 ^[extracted]
-**創業**：1969-09-04（旧称：芙蓉ファクター）^[extracted]
+**設立**：1969-05-01
 **本社**：東京都千代田区（丸の内エリア）^[extracted]
 **業態**：総合リース・ファイナンス（銀行系）^[extracted]
 
@@ -81,10 +81,11 @@ translated_at: 2026-06-02T14:25:12.434Z
 
 | 年月 | 事象 |
 |---|---|
-| **1969-09-04** | 芙蓉ファクター として創業（旧 富士銀行系リース）^[extracted] |
-| 1971 | 富士銀行系列リースとしての位置付け確立 ^[extracted] |
-| **1999** | 富士銀行 + 第一勧業銀行 + 日本興業銀行 統合 → みずほ FG 発足、芙蓉総合リースも実質的に みずほ系へ ^[extracted] |
-| 2024〜 | 中期経営計画 推進中 ^[extracted] |
+| **1969-05-01** | 富士銀行、丸紅飯田ほか芙蓉グループ各社の出資で設立 |
+| 2004-12 | 東京証券取引所市場第一部に上場 |
+| 2022 | 中期経営計画「Fuyo Shared Value 2026」を開始 |
+
+出典: [芙蓉総合リース会社概要](https://www.fgl.co.jp/fgl/about.html)、[公式沿革](https://www.fgl.co.jp/eng/fgl/history.html)および[IR FAQ](https://www.fgl.co.jp/ir/faq.html)。
 
 ### 芙蓉グループ内取引
 
@@ -96,12 +97,12 @@ translated_at: 2026-06-02T14:25:12.434Z
 
 ### 競合構造
 
-| 観点 | 芙蓉総合リース | [[leasing-firms/tokyo-century]] |
+| 会社 | 公式に確認できる沿革・株主文脈 | 一次資料（2026-07-29 参照） |
 |---|---|---|
-| 系列 | 旧 富士銀行（みずほ系）| 旧 第一勧業銀行（みずほ系）|
-| 統合戦略 | 単独で準大手維持 | 東京リース + センチュリーリース 合併で大手化 |
-| 業容規模 | 準大手 | 三大リースの一角 |
-| 客層 | 芙蓉グループ + 中堅企業 | みずほ系 + ITC（伊藤忠）等 |
+| 芙蓉総合リース | 1969-05、富士銀行、丸紅飯田ほか芙蓉グループ各社の出資で設立 | [公式沿革](https://www.fgl.co.jp/eng/fgl/history.html) |
+| [[leasing-firms/tokyo-century|東京センチュリー]] | 1964 年設立のセンチュリー・リーシング・システムと 1969 年設立の東京リースが 2009 年に合併 | [公式沿革](https://www.tokyocentury.co.jp/jp/company/chronology/) |
+
+この表は公式沿革の差を示す分析用比較であり、現在の親子関係、規模順位、顧客構成を推定しない。
 
 その他競合：
 
@@ -123,12 +124,12 @@ translated_at: 2026-06-02T14:25:12.434Z
   - 2025〜 リース会計基準 IFRS 16 ベース変更による BS 計上影響
   - 脱炭素 / TCFD 開示要求の強化
 
-## 関連
+## Related
 
 - [[megabanks/mizuho-fg]] · [[leasing-firms/tokyo-century]] · [[leasing-firms/orix-corp]] · [[megabanks/mufg]] · [[non-life-insurers/tokio-marine]]
 - 芙蓉グループ：丸紅・日産・キヤノン・日清製粉・東京海上
 
-## 出典
+## Sources
 
 - **Wikipedia: 芙蓉総合リース**（https://ja.wikipedia.org/wiki/芙蓉総合リース, 2026-05-19 抽出）
 - 芙蓉総合リース 公式コーポレートサイト・有価証券報告書

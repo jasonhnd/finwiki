@@ -1,18 +1,18 @@
 ---
 source: card-issuers/credit-saison
-source_hash: 3028b16ea5c32458
+source_hash: 9bbf45c486c11c4e
 lang: ja
 status: machine
 fidelity: ok
 title: "クレディセゾン (Credit Saison)"
-translated_at: 2026-06-18T23:33:48.306Z
+translated_at: 2026-07-29T07:29:14.000Z
 ---
 
 # クレディセゾン (Credit Saison)
 
-## Wiki 経路
+## Wiki route
 
-本エントリは [[card-issuers/INDEX|card-issuers INDEX]] の下に位置する。ピア / 対照の文脈については [[card-issuers/jaccs|株式会社ジャックス (Jaccs)]] と、より広範なシステム / 規制の境界については [[banking/INDEX|banking index]] と照らして読むこと。
+This entry sits under [[card-issuers/INDEX|card-issuers INDEX]]. Read it against [[card-issuers/jaccs|株式会社ジャックス (Jaccs)]] for peer / contrast context and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## TL;DR
 
@@ -129,14 +129,16 @@ translated_at: 2026-06-18T23:33:48.306Z
 | 2024〜 | 海外（インド）事業拡大・中期経営計画推進 |
 | 2024 | 新 NISA 制度開始 → セゾン投信 資産集積加速 |
 
-## 関連
+Sources: [クレディセゾン公式の会社情報](https://corporate.saisoncard.co.jp/company/) and [IR ライブラリー](https://corporate.saisoncard.co.jp/ir/library/). Individual investment-product and overseas-business developments should be checked against the relevant company release.
+
+## Related
 
 - [[megabanks/mizuho-fg]]（主要株主・メインバンク系列）
 - [[megabanks/mufg]] · [[megabanks/smfg]]（競合カード会社の親会社）
 - [[megabanks/paypay-fg]]（テック系カード競合）
 - [[card-issuers/jcb]]（国際ブランド競合・パートナー）
 
-## 出典
+## Sources
 
 - **Wikipedia: 株式会社クレディセゾン**（公開情報、2026-05-19 抽出）
 - **クレディセゾン公式 IR / 会社沿革**（公開資料ベース）
@@ -144,5 +146,5 @@ translated_at: 2026-06-18T23:33:48.306Z
 
 ---
 
-> [!info] 検証状況
+> [!info] 校核状态
 > confidence: **likely**（v1.0 公開情報ベース、2026-05-19 抽出）。主要数値（累計会員 4000 万、設立年、商号変更年、子会社化年）は Wikipedia + 公式沿革経由。最新の有価証券報告書（2025-03 期）の財務数値は未取り込み、次回更新時に IR から数値補完予定。海外（インド）事業の最新収益数値も次回課題。

@@ -13,7 +13,7 @@ sources:
   - "https://shizugin-card.shizuokabank.co.jp/company/"
   - "https://ja.wikipedia.org/wiki/静銀カード"
   - "https://www.shizuokabank.co.jp/"
-  - "https://www.shizuokafg.co.jp/"
+  - "https://www.shizuoka-fg.co.jp/company/gaiyo-history.html"
   - "https://disclosure.edinet-fsa.go.jp/"
   - "https://www.j-credit.or.jp/"
 ---
@@ -39,6 +39,8 @@ This entry sits under the [[card-issuers/INDEX|card-issuers INDEX]] as the FG-su
 | 規制 | 割賦販売法 (割販法) / 貸金業法 / 資金決済法 (関連業務に応じて) |
 | 上場区分 | 非上場 ([[regional-banks/shizuoka-fg]] グループ) |
 | Wiki role | しずおか FG 系クレジットカード子会社 anchor |
+
+Sources: [静銀カード会社案内](https://shizugin-card.shizuokabank.co.jp/company/) and [しずおかFG会社概要・沿革](https://www.shizuoka-fg.co.jp/company/gaiyo-history.html). The company source supports the legal entity and establishment information; group-structure changes should be checked against current FG disclosure.
 
 ### 持株ツリー (しずおか FG グループ簡略図)
 
@@ -78,6 +80,8 @@ This entry sits under the [[card-issuers/INDEX|card-issuers INDEX]] as the FG-su
 |---|---|---|---|---|
 | **しずぎんカード** (本ページ) | [[regional-banks/shizuoka-fg|しずおか FG]] | 持株会社下兄弟会社 (2022-10-) | 静岡県 | 親 5831 |
 | はまぎんファイナンス (カード・信用保証) | [[regional-banks/yokohama-bank]] / [[regional-banks/concordia-fg]] | 銀行連結子会社 | 神奈川・首都圏 | 親 7186 |
+
+Sources: [静銀カード会社案内](https://shizugin-card.shizuokabank.co.jp/company/) for the issuer and [しずおかFG会社概要・沿革](https://www.shizuoka-fg.co.jp/company/gaiyo-history.html) for the parent-group context. The peer row is illustrative only and should be verified against the peer's current disclosure.
 
 ### 大手カードイシュアーとの競合
 
@@ -130,7 +134,7 @@ This entry sits under the [[card-issuers/INDEX|card-issuers INDEX]] as the FG-su
 - **静銀カード株式会社 公式サイト — 会社案内** (https://shizugin-card.shizuokabank.co.jp/company/, 設立 1983-04-01 / 資本金 5,000 万円 / 従業員 81 名 / 本店 静岡市清水区草薙)
 - **Wikipedia: 静銀カード** (https://ja.wikipedia.org/wiki/静銀カード, 1983-04 設立経緯 / 2006-03 しずぎん joyca / 2022-10 親会社変更 / 2023-08-01 現社名へ商号変更)
 - **静岡銀行 公式サイト** (https://www.shizuokabank.co.jp/, グループ会社情報)
-- **しずおか FG 公式 IR** (https://www.shizuokafg.co.jp/)
+- **しずおか FG 会社概要・沿革** (https://www.shizuoka-fg.co.jp/company/gaiyo-history.html)
 - **EDINET 有価証券報告書 (しずおか FG 連結 / セグメント情報)** (https://disclosure.edinet-fsa.go.jp/)
 - **日本クレジット協会** (https://www.j-credit.or.jp/, 加盟事業者名簿)
 - **Wikipedia: しずぎんカード / 静岡銀行 / しずおかフィナンシャルグループ** (2026-05-25 抽出)
