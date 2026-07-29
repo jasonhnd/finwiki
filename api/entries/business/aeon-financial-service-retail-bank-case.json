@@ -11,10 +11,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/business/aeon-financial-service-retail-bank-case.md",
   "raw_markdown_url": "https://finwiki.zksc.io/business/aeon-financial-service-retail-bank-case.md",
   "domain": "business",
-  "title": "Aeon Financial Service retail-bank case — a supermarket group's full financial holding: Aeon Bank + Aeon credit card + pan-Asia consumer finance",
+  "title": "AEON Financial Service case — retail distribution, banking, cards, and Asian consumer finance",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Aeon Financial Service retail-bank case — a supermarket group's full financial holding: Aeon Bank + Aeon credit card + pan-Asia consumer finance",
+    "title": "AEON Financial Service case — retail distribution, banking, cards, and Asian consumer finance",
     "aliases": [
       "aeon-financial-service-retail-bank-case",
       "Aeon Financial Service case",
@@ -25,10 +25,10 @@
     "domain": "business",
     "type": null,
     "created": "2026-06-03",
-    "last_updated": "2026-06-03",
-    "last_tended": "2026-06-03",
-    "review_by": "2026-12-03",
-    "confidence": "likely",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
+    "confidence": "certain",
     "tags": [
       "business",
       "case-study",
@@ -46,39 +46,33 @@
     "note": null,
     "sources": [
       "https://www.aeonfinancial.co.jp/en/corp/",
+      "https://www.aeonfinancial.co.jp/en/corp/history/",
       "https://www.aeonfinancial.co.jp/en/corp/overseas/",
-      "https://www.aeonfinancial.co.jp/en/ir/info/member/",
-      "https://www.aeon.com.hk/en/corporate-info/company-profile.html",
-      "https://www.fsa.go.jp/en/"
+      "https://www.aeonfinancial.co.jp/-/media/AeonGroup/Aeonfinancial/Files/en/ir/library/annual/2025/Integrated--Report_2025_E.pdf",
+      "https://www.aeon.com.hk/en/corporate-info/company-profile.html"
     ]
   },
-  "summary": "This entry sits under business INDEX as a public-company strategic case: a retail (supermarket) conglomerate that built a full financial holding rather than a single utility rail. Read it against Seven Bank ATM-platform + deconsolidation case — the cleanest contrast, since Seven & i monetised store",
+  "summary": "This entry sits under business INDEX. Read it with AEON Financial Service, AEON Bank, AEON Group, Seven Bank case, and store traffic as financial distribution.",
   "headings": [
-    "Aeon Financial Service retail-bank case — a supermarket group's full financial holding: Aeon Bank + Aeon credit card + pan-Asia consumer finance",
+    "AEON Financial Service case — retail distribution, banking, cards, and Asian consumer finance",
     "Wiki route",
     "TL;DR",
-    "1. The Full-Stack Retail-Finance Model",
-    "2. Why A Supermarket Group Built A Whole Bank",
-    "3. The Pan-Asia Consumer-Finance Footprint",
-    "4. Contrast — Two Retailer Paths To Finance",
-    "5. Comparison — Card / Consumer-Finance Peers",
-    "6. Strategic Rationale",
-    "7. Counterpoints"
+    "1. Operating structure",
+    "2. Retail distribution logic",
+    "3. Overseas footprint",
+    "4. AEON Bank (M) milestone",
+    "5. Comparison with Seven Bank",
+    "6. Risks and monitoring points",
+    "Related"
   ],
   "body_links": {
-    "wikilinks_count": 14,
+    "wikilinks_count": 8,
     "wikilinks": [
       "INDEX",
       "business/INDEX",
-      "business/rakuten-group-mobile-finance-bundling-case",
       "business/seven-bank-atm-platform-deconsolidation-case",
-      "business/toyota-financial-services-captive-finance-case",
       "card-issuers/aeon-bank",
       "card-issuers/aeon-financial-service",
-      "card-issuers/credit-saison",
-      "card-issuers/jaccs",
-      "finance/cross-border-m-a-japan",
-      "payments/japan-consumer-credit-operator-comparison-matrix",
       "payments/waon-prepaid-aeon",
       "retail/aeon-group",
       "retail/store-traffic-as-financial-distribution"
@@ -86,15 +80,9 @@
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX.md",
       "https://finwiki.zksc.io/ja/domains/business/",
-      "https://finwiki.zksc.io/ja/business/rakuten-group-mobile-finance-bundling-case/",
       "https://finwiki.zksc.io/ja/business/seven-bank-atm-platform-deconsolidation-case/",
-      "https://finwiki.zksc.io/ja/business/toyota-financial-services-captive-finance-case/",
       "https://finwiki.zksc.io/ja/card-issuers/aeon-bank/",
       "https://finwiki.zksc.io/ja/card-issuers/aeon-financial-service/",
-      "https://finwiki.zksc.io/ja/card-issuers/credit-saison/",
-      "https://finwiki.zksc.io/ja/card-issuers/jaccs/",
-      "https://finwiki.zksc.io/ja/finance/cross-border-m-a-japan/",
-      "https://finwiki.zksc.io/ja/payments/japan-consumer-credit-operator-comparison-matrix/",
       "https://finwiki.zksc.io/ja/payments/waon-prepaid-aeon/",
       "https://finwiki.zksc.io/ja/retail/aeon-group/",
       "https://finwiki.zksc.io/ja/retail/store-traffic-as-financial-distribution/"
@@ -103,9 +91,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 10825,
-    "word_like_tokens": 1780,
+    "nonspace_chars": 8495,
+    "word_like_tokens": 1340,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-07-29"
   }
 }

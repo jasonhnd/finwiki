@@ -1,165 +1,137 @@
 ---
-title: "Lawson + Mitsubishi Corporation 2024 take-private deep — KDDI 50/50 tie-up, Ponta deepening, au telco-payment integration"
+title: "Lawson 2024 take-private — KDDI and Mitsubishi Corporation 50/50 transaction"
 aliases:
   - "retail/lawson-mitsubishi-corporation-tie-up-2024-deep"
   - "lawson-mitsubishi-corporation-tie-up-2024-deep"
   - "Lawson Mitsubishi 2024"
-  - "ローソン MBO 2024"
-  - "ローソン KDDI 三菱商事 50/50 JV"
-  - "Lawson take-private 2024-02"
-  - "Lawson + KDDI deep"
+  - "ローソン 非公開化 2024"
+  - "Lawson KDDI Mitsubishi 50/50"
 domain: retail
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
-confidence: likely
-tags: [retail, convenience-store, lawson, kddi, mitsubishi-corp, ponta, au-pay, take-private, jv-50-50, 2024-restructuring]
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
+confidence: high
+tags: [retail, convenience-store, lawson, kddi, mitsubishi-corporation, take-private, tender-offer, 2024]
 status: active
 sources:
-  - "https://www.kddi.com/corporate/newsrelease/"
-  - "https://www.lawson.co.jp/company/"
-  - "https://www.lawson.co.jp/company/ir/"
-  - "https://www.mitsubishicorp.com/jp/ja/pr/"
-  - "https://www.ponta.jp/"
-  - "https://aupay.auone.jp/"
-  - "https://www.lawsonbank.jp/"
-  - "https://www.aupay-card.co.jp/"
+  - "https://newsroom.kddi.com/english/news/detail/kddi_pr_secret-79.html"
+  - "https://www.kddi.com/english/corporate/ir/ir-library/meeting/"
+  - "https://www.lawson.co.jp/company/ir/others/static/irinfo_20240327.html"
+  - "https://www.lawson.co.jp/company/news/detail/1486715_2504.html"
+  - "https://www.lawson.co.jp/company/news/detail/1489023_2504.html"
+  - "https://news.kddi.com/kddi/corporate/english/ir-news/2024/08/20/pdf/press_20240820.pdf"
 ---
 
-# Lawson + Mitsubishi Corporation 2024 take-private deep — KDDI 50/50 tie-up, Ponta deepening, au telco-payment integration
+# Lawson 2024 take-private
 
-## Wiki route
+## Scope
 
-This entry sits under [[retail/INDEX|retail index]] as the **strategic-restructuring deep dive** for the 2024-02 Lawson take-private. It extends [[retail/lawson-kddi-retail-finance|Lawson + KDDI retail finance]] (the structural overview page) with the deal mechanics, the post-private capital structure, and the longer-arc strategic logic of moving a listed CVS retailer into a 50/50 telco-trading-house JV. Pair it with [[retail/seven-i-holdings-finance-deep-dive|Seven & i Holdings finance deep dive]] for the contrast against an activist-pressured listed CVS retailer that did NOT take private, [[retail/familymart-itochu-financial-integration|FamilyMart + Itochu financial integration]] for the 2020 precedent of trading-house-led CVS take-private, [[retail/japan-retail-financial-distribution-wedge-matrix|Japan retail financial-distribution wedge matrix]] for the cross-case wedge layout, [[loyalty/ponta-points-deep-dive|Ponta points deep dive]] for the loyalty layer, [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|d Point / au telco-point consolidation case]] for the telco-anchored common-point dynamics, [[loyalty/au-pay-loyalty-ecosystem-deep|au PAY loyalty ecosystem deep]] for the KDDI-side loyalty stack, [[megabanks/au-fh|au Financial Holdings]] as the KDDI-side finance HC, [[financial-conglomerates/mitsubishi-corp|Mitsubishi Corporation]] as the trading-house side, and [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]] for the wallet-layer overlay.
+This page is the transaction record for Lawson's 2024 privatization and joint ownership by KDDI and Mitsubishi Corporation. It does not treat every strategic example in the announcement as implemented, and it does not infer Ponta exclusivity, customer-data access, or in-store financial-product conversion.
 
-## TL;DR
+Route from [[retail/INDEX|retail INDEX]]. The operating map is [[retail/lawson-kddi-retail-finance|Lawson + KDDI retail finance]]. Cross-read [[retail/familymart-itochu-financial-integration|FamilyMart + ITOCHU]] and [[retail/seven-i-holdings-finance-deep-dive|Seven & i finance]].
 
-In **February 2024**, **KDDI** and **Mitsubishi Corporation** jointly tendered for the publicly listed shares of **Lawson, Inc.** at **¥10,360 per share** (a roughly 16% premium to the pre-announcement closing price of ¥8,913; see KDDI / Lawson public disclosures). The TOB closed and Lawson **delisted from the Tokyo Stock Exchange Prime market** in **July 2024**, with KDDI and Mitsubishi Corp holding a **50/50 joint shareholder structure** for the post-private Lawson. The strategic rationale is **bidirectional**: KDDI gains a **national CVS retail footprint** (~14,500 Lawson stores) for au PAY acceptance, au PAY Card distribution, Pontaポイント accrual scale, and au じぶん銀行 customer acquisition; Mitsubishi Corp retains its trading-house anchor on food supply chain, distribution, and the Pontaポイント program (operated by Loyalty Marketing, Inc., a Mitsubishi Corp-affiliated entity). The deal is the **third major CVS-finance restructuring of the 2020s** after the [[retail/familymart-itochu-financial-integration|2020 FamilyMart take-private by Itochu]] and the **continuing activist-driven 2024 reorganization of [[retail/seven-i-holdings-finance-deep-dive|Seven & i Holdings]]**, completing the picture that **all three top-tier Japanese CVS chains are now under or being moved into trading-house-anchored or trading-house-plus-telco-anchored ownership structures**. The 50/50 JV governance design is unusual and important: it locks in **dual-anchor strategic alignment** rather than letting either KDDI or Mitsubishi Corp unilaterally drive Lawson's finance strategy.
+## Transaction chronology
 
-## Deal mechanics
+The February announcement was an agreement and planned tender offer. The tender offer began after conditions were satisfied in March, closed in April, and was followed by delisting and squeeze-out steps. Final 50/50 voting rights were confirmed in August.
 
-| Item | Detail |
-|---|---|
-| Acquirer side | **KDDI 株式会社** (telco) + **三菱商事株式会社** (general trading company) |
-| Vehicle | Joint tender offer (公開買付け / TOB) at the joint-acquirer level |
-| Original Mitsubishi Corp stake | ~50% pre-deal (Mitsubishi Corp was the historical anchor shareholder of Lawson since the 2017 consolidation of the franchise base) |
-| KDDI pre-deal stake | Minimal; KDDI was a strategic capital partner via prior small-stake / alliance discussions |
-| TOB price | ¥10,360 per share (subject to specific dates of announcement and revision; refer to KDDI / Lawson public disclosure for the exact pricing schedule) |
-| TOB period | 2024-02 announcement; TOB completion through mid-2024 |
-| Post-TOB governance | **50/50** joint shareholder structure between KDDI and Mitsubishi Corp |
-| Delisting | Lawson delisted from 東証 PRIME (旧称: 一部) in **July 2024** |
-| Listing-era ticker | 2651 (delisted) |
-| Counterparties to TOB | Existing public minority shareholders |
+Sources for the following table: [KDDI's partnership announcement](https://newsroom.kddi.com/english/news/detail/kddi_pr_secret-79.html), [Lawson's tender-offer information page](https://www.lawson.co.jp/company/ir/others/static/irinfo_20240327.html), [Lawson's tender-offer result](https://www.lawson.co.jp/company/news/detail/1486715_2504.html), [Lawson's share-consolidation notice](https://www.lawson.co.jp/company/news/detail/1489023_2504.html), and [KDDI's final ownership notice](https://news.kddi.com/kddi/corporate/english/ir-news/2024/08/20/pdf/press_20240820.pdf).
 
-The headline pricing is documented on the KDDI corporate newsroom: https://www.kddi.com/corporate/newsrelease/. The structural decision to use a **50/50 JV** rather than a controlling-acquirer structure is explicit: it requires both KDDI and Mitsubishi Corp to agree on major strategic moves and prevents either side from converting Lawson into a single-ecosystem captive.
-
-### KDDI side
-
-| Asset gained | Strategic logic |
-|---|---|
-| **~14,500 Lawson store POS** | Acceptance surface for au PAY (vs PayPay, d払い, 楽天ペイ); see [[loyalty/au-pay-loyalty-ecosystem-deep|au PAY loyalty ecosystem deep]] |
-| **Daily CVS visitor traffic** | High-frequency consumer touchpoint for au PAY Card and au じぶん銀行 acquisition |
-| **Pontaポイント accrual surface at Lawson** | Reinforces KDDI's [[megabanks/au-fh|au Financial Holdings]] loyalty-anchored finance flywheel |
-| **In-store financial-product distribution** | Loppi terminal, store posters, branded plastic counter cards for au PAY Card / au じぶん銀行 / au Smart Pass |
-| **Cross-sell into au telco subscriber base** | "Use Lawson + au PAY + Ponta + au Card" bundled-discount campaigns |
-| **Defensive offset vs PayPay × FamilyMart, dポイント × McDonald's** | Locking in CVS chain as a closed acceptance zone reduces competitive risk |
-
-### Mitsubishi Corporation side
-
-| Asset retained | Strategic logic |
-|---|---|
-| **Food supply chain anchor** | Mitsubishi Corp's 食品流通 (food distribution) business has Lawson as a major customer |
-| **Loyalty Marketing / Pontaポイント** | Continued control of the point-program operator gives Mitsubishi a multi-brand alliance asset |
-| **Trading-house consumer-facing channel** | Lawson is one of the few Mitsubishi Corp-affiliated direct consumer touchpoints |
-| **De-listing reduces short-term-investor pressure** | Take-private allows long-horizon investments (POS reform, supply-chain modernization, store reformatting) without quarterly disclosure pressure |
-| **Co-investment with KDDI dilutes risk** | A 50/50 JV halves the equity outlay while keeping veto-grade governance |
-
-The mutual logic is that **neither side could justify the take-private alone**: KDDI alone would have over-paid for retail it could not efficiently operate; Mitsubishi alone would not have monetized the consumer telco-data integration that KDDI brings. The JV resolves both constraints.
-
-## Ponta integration deepening
-
-**Pontaポイント** is operated by **Loyalty Marketing, Inc.** (株式会社ロイヤリティ マーケティング), an entity that became affiliated with Mitsubishi Corporation through the 2019 CCC (Culture Convenience Club) Ponta-business carve-out. Pontaポイント is structurally a **multi-brand common point** with the following major anchors:
-
-| Pontaポイント partner | Sector | Notes |
+| Date | Step | Status |
 |---|---|---|
-| **Lawson** | CVS | Core daily-life accrual surface; reinforced by 2024 take-private |
-| **KDDI au** | Telco / wallet | au PAY / au PAY Card / au じぶん銀行 accrual; "au Ponta" co-brand from 2020 onward |
-| **JAL** | Airline | JAL Mileage Bank ↔ Ponta bilateral exchange; see [[loyalty/jal-mileage-bank-vs-ana-mileage-club-comparison|JAL Mileage Bank vs ANA Mileage Club]] |
-| **Recruit / じゃらん / Hot Pepper** | Travel / restaurant booking | Major non-CVS accrual partner |
-| **Nikko shoe stores, Game stores, etc.** | Various retail | Long-tail alliance partners |
-| **Idemitsu, Showa Shell-system fuel** | Fuel retail | SS-channel accrual |
+| 2024-02-06 | KDDI, Mitsubishi Corporation, and Lawson signed the capital and business partnership; KDDI announced a planned tender offer | Announcement and agreement, not closing |
+| 2024-03-28 | KDDI commenced the tender offer after the preconditions described in the filings | Tender offer opened |
+| 2024-04-25 | Tender-offer period ended | Results announced on 2024-04-26 |
+| 2024-07-24 | Lawson shares were delisted from the TSE Prime Market | Public trading ended |
+| 2024-08-15 | Transfer of shares corresponding to fractional interests from the share consolidation was completed | Final squeeze-out implementation step |
+| 2024-08-19 | KDDI confirmed that it and Mitsubishi Corporation each held 50% of Lawson voting rights | Joint ownership completed |
 
-The 2024 Lawson take-private deepens Ponta in three concrete ways:
+## Price and ownership mechanics
 
-1. **Lawson POS becomes a Ponta-priority acceptance surface** (vs the previous era of co-existence with dポイント at Lawson). Pre-2024, Lawson uniquely accepted both dポイント (NTT docomo) and Pontaポイント (KDDI / Mitsubishi-affiliated) at scan. Post-2024, the strategic incentive shifts toward Ponta exclusivity at the campaign / bonus-multiplier layer, although baseline dポイント scan likely persists for legacy customer-base reasons.
-2. **Lawson-side data flows into the Ponta ID graph** more directly under unified ownership, enabling sharper targeting for KDDI-side au PAY Card and au じぶん銀行 acquisition.
-3. **Ponta's competitive position against [[loyalty/v-point-smbc-ccc-case|V Point]], [[loyalty/d-point-detailed-ecosystem|dポイント]], and PayPay Points** strengthens at the high-frequency CVS surface — the most contested daily-life category.
+KDDI's investor briefing described a tender-offer price of ¥10,360 per share and expected acquisition cost of approximately ¥497.1 billion for KDDI's acquisition. Mitsubishi Corporation already held a majority stake before the transaction, while KDDI held a small pre-existing interest.
 
-## au telco-payment integration
+Sources for the following table: [KDDI's 2024 investor-meeting summary](https://www.kddi.com/english/corporate/ir/ir-library/meeting/), [KDDI's transaction presentation](https://www.kddi.com/extlib/files/english/corporate/ir/library/meeting/pdf/kddi_240206_e.pdf), and the [final 50/50 notice](https://news.kddi.com/kddi/corporate/english/ir-news/2024/08/20/pdf/press_20240820.pdf).
 
-**au PAY**, **au PAY Card**, **au じぶん銀行**, and the broader [[megabanks/au-fh|au Financial Holdings]] stack gain Lawson-channel distribution at three layers:
-
-| Layer | Pre-2024 | Post-2024 |
+| Item | Publicly disclosed value or structure | Boundary |
 |---|---|---|
-| **au PAY acceptance** | Accepted at Lawson POS (and at all major CVS chains) | Continues; promoted with bonus campaigns and "Ponta + au PAY" multipliers |
-| **au PAY Card distribution** | Available via online channel + au shop counters | Promoted at Lawson in-store posters, counter-card distribution, Loppi terminal touchpoints |
-| **au じぶん銀行 account opening** | Online / au shop | Promoted with Lawson-channel campaigns, "open account at au じぶん銀行 + use au PAY at Lawson + get Ponta bonus" cross-sell |
-| **Pontaポイント bonus campaigns** | Standard scan rate at Lawson | Reform-period campaigns add category-specific Ponta multipliers tied to au PAY usage |
+| Tender-offer price | ¥10,360 per share | Use the transaction filing for eligible securities and detailed terms |
+| KDDI expected acquisition cost | Approximately ¥497.1 billion | KDDI described this as cost for its acquisition, not enterprise value |
+| KDDI pre-transaction voting-right ratio | Approximately 2.1% in KDDI's presentation | “Minimal stake” should not replace the disclosed number |
+| Mitsubishi Corporation pre-transaction voting-right ratio | Approximately 50.1% in KDDI's presentation | Its existing holding was not purchased through KDDI's tender offer |
+| Final ownership | 50% voting rights for KDDI and 50% for Mitsubishi Corporation | Neither shareholder has unilateral voting control |
 
-The strategic intent is to **fuse Lawson's daily-frequency consumer touchpoint with KDDI's financial-product acquisition funnel** — the kind of physical-digital integration that PayPay / SoftBank can only approximate through QR-only acceptance, and that Rakuten lacks a major CVS partner for.
+## Stated strategic program
 
-The competitive overlap with **[[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|d Point / au telco-point consolidation case]]** is direct: NTT docomo's dポイント historically anchored at Lawson, and the 2024 deal raises the medium-term question of whether dポイント's Lawson surface gradually contracts. This is the "telco-anchored point alliance" battleground.
+The three companies described the partnership as “Real × Digital × Green.” The release listed examples for further consideration and collaboration.
 
-## Comparison vs Seven & i HD and FamilyMart-Itochu
+Sources for the following table: [KDDI's capital and business partnership release](https://newsroom.kddi.com/english/news/detail/kddi_pr_secret-79.html) and [KDDI's investor-meeting summary](https://www.kddi.com/english/corporate/ir/ir-library/meeting/).
 
-| Dimension | **Lawson** (post-2024 KDDI + Mitsubishi 50/50) | **[[retail/seven-i-holdings-finance-deep-dive|Seven & i Holdings]]** (listed, activist-pressured 2024-2026) | **[[retail/familymart-itochu-financial-integration|FamilyMart]]** (post-2020 Itochu take-private) |
-|---|---|---|---|
-| Listing status | Delisted 2024-07 | 東証 PRIME 3382, listed; activist pressure active | Delisted 2020-11 (Itochu joint TOB) |
-| Controlling shareholder | KDDI 50% + Mitsubishi Corp 50% (JV) | Diverse public + founder family (~10% Ito family) + foreign investors | Itochu Corporation ~50%, with co-investors |
-| Anchor trading house | Mitsubishi Corp | None (independent) | Itochu Corporation |
-| Anchor telco | KDDI (au) | None (no telco anchor) | None directly; FamiPay → wallet, no telco JV |
-| Bank subsidiary | [[regional-banks/lawson-bank|Lawson Bank]] (small, ATM-focused) | [[regional-banks/seven-bank|Seven Bank]] (large, ATM-platform model) | None proprietary; uses partner banks |
-| Captive credit card | au PAY Card (KDDI-side, distributed through Lawson channel) | Seven Card / Seven Card Plus (Seven Card Service) | FamiPay / FamiPay バーチャルカード, FamiPay Card |
-| Captive prepaid e-money | None proprietary; uses transit IC + Pontaポイント | nanaco | FamiPay |
-| Captive common point | Pontaポイント (Loyalty Marketing / Mitsubishi-affiliated) | nanaco point (closed loop) | FamiPay ボーナス + dポイント / 楽天ポイント / Tポイント co-acceptance pre-2024 |
-| Loyalty model | Multi-brand alliance via Ponta | Closed-loop nanaco | Multi-acceptance + proprietary FamiPay |
-| Telco wallet exclusivity | au PAY emphasized + PayPay / d払い / 楽天ペイ accepted | All major QR wallets accepted | FamiPay app + major QR wallets accepted |
-| Strategic frame | "CVS × Telco × Trading House" | "CVS × ATM Bank × Global CVS" | "CVS × Trading House × FamiPay wallet" |
+| Program area | Publicly stated example | Evidence status |
+|---|---|---|
+| Real touchpoints | Lawson products or services at au Style / au shops and KDDI products or services at Lawson | Announced collaboration example |
+| Digital | Use digital technology to improve stores and connect online and physical services | Strategic direction; specific product evidence required |
+| Finance and other services | Consider telecommunications, banking, insurance, health-care, entertainment, and mobility services through Lawson | Not proof that every service was launched nationwide |
+| Green and community | Environmental measures, disaster-prevention functions, and community services | Program objective; verify individual projects |
 
-The three CVS chains have **converged on trading-house-anchored or trading-house-plus-telco-anchored ownership**, but their **finance-stack architecture is distinct**: Seven & i is ATM-bank-led, FamilyMart-Itochu is FamiPay-wallet-led, Lawson-KDDI-Mitsubishi is telco-loyalty-led. The [[retail/japan-retail-financial-distribution-wedge-matrix|retail financial-distribution wedge matrix]] captures this in cross-tab form.
+## What changed and what did not automatically change
+
+Sources for the following table: the final transaction notices and partnership release linked above, plus Lawson's [current point-card directory](https://www.lawson.co.jp/ponta/).
+
+| Topic | Documented change | Unsupported automatic conclusion |
+|---|---|---|
+| Equity ownership | KDDI and Mitsubishi Corporation each reached 50% of voting rights | KDDI alone controls Lawson |
+| Listing | Lawson was delisted | Lawson stopped publishing all corporate information |
+| Joint operation | Shareholders' agreement provisions took effect after completion | Every commercial decision requires publicly disclosed unanimous approval |
+| Point acceptance | Lawson currently presents both Ponta and d Point routes | Ponta became exclusive immediately after privatization |
+| KDDI products | Collaboration included possible KDDI-product distribution | au PAY Card or au Jibun Bank automatically became Lawson products |
+| Customer information | Partnership contemplates digital collaboration | Ownership alone permits unrestricted data combination |
+
+## Relationship to Lawson's financial surface
+
+Lawson Bank, POS payment acceptance, Loppi, bill payment, Ponta, and d Point existed as identifiable service layers. The transaction added KDDI as a joint owner and expanded the strategic collaboration agenda. It did not merge these contracts into one license or one customer account.
+
+Sources for the following table: [Lawson's current service directory](https://www.lawson.co.jp/service/), [Lawson Bank](https://www.lawsonbank.jp/), and the [KDDI partnership release](https://newsroom.kddi.com/english/news/detail/kddi_pr_secret-79.html).
+
+| Layer | Transaction relevance | Required follow-up evidence |
+|---|---|---|
+| Lawson Bank ATM | Named in the partnership as a Lawson touchpoint | Bank disclosures for services, ownership, and permissions |
+| au PAY | KDDI product accepted at Lawson and part of the broader KDDI relationship | Current issuer terms and Lawson acceptance page |
+| Ponta | Existing shared customer touchpoint across Lawson and KDDI | Current point rules and privacy notices |
+| Loppi / store services | Physical application and payment interface | Current Lawson service catalog |
+| Proposed banking or insurance distribution | Included among possible collaboration areas | Product launch, provider, license, and terms |
+
+## Reusable take-private checklist
+
+Sources for the following checklist table: [KDDI's partnership announcement](https://newsroom.kddi.com/english/news/detail/kddi_pr_secret-79.html), [Lawson's tender-offer information](https://www.lawson.co.jp/company/ir/others/static/irinfo_20240327.html), and [KDDI's final ownership notice](https://news.kddi.com/kddi/corporate/english/ir-news/2024/08/20/pdf/press_20240820.pdf).
+
+| Question | Evidence |
+|---|---|
+| Was the event only announced or actually completed? | Announcement, tender-offer result, delisting notice, and final squeeze-out notice |
+| Who purchased shares and who retained existing shares? | Tender-offer filing and pre/post ownership table |
+| Is the quoted amount price per share, acquisition cost, or enterprise value? | Investor presentation and offer document |
+| When did public trading end? | Exchange or issuer delisting notice |
+| When did final voting rights become 50/50? | Final ownership notice |
+| Are strategic examples launched products? | Separate dated implementation releases |
 
 ## Related
 
-- [[retail/INDEX|retail index]]
-- [[retail/lawson-kddi-retail-finance|Lawson + KDDI retail finance (structural overview)]]
-- [[retail/seven-and-i-hd|Seven & i Holdings]]
-- [[retail/seven-i-holdings-finance-deep-dive|Seven & i Holdings finance deep dive]]
-- [[retail/familymart-itochu-financial-integration|FamilyMart + Itochu financial integration]]
+- [[retail/INDEX|retail INDEX]]
+- [[retail/lawson-kddi-retail-finance|Lawson + KDDI retail-finance map]]
+- [[retail/familymart-itochu-financial-integration|FamilyMart + ITOCHU]]
+- [[retail/seven-i-holdings-finance-deep-dive|Seven & i finance deep dive]]
 - [[retail/aeon-group|AEON Group]]
-- [[retail/japan-retail-financial-distribution-wedge-matrix|Japan retail financial-distribution wedge matrix]]
-- [[megabanks/au-fh|au Financial Holdings]]
-- [[payment-firms/au-payment|au Payment]]
+- [[retail/japan-retail-financial-distribution-wedge-matrix|Japan retail financial-distribution matrix]]
 - [[regional-banks/lawson-bank|Lawson Bank]]
 - [[financial-conglomerates/mitsubishi-corp|Mitsubishi Corporation]]
-- [[trading-company-finance/mitsubishi-corp-finance|Mitsubishi Corp Finance]]
-- [[financial-conglomerates/itochu-corp|Itochu Corporation]]
-- [[trading-company-finance/itochu-finance|Itochu Finance]]
-- [[loyalty/ponta-points-deep-dive|Ponta points deep dive]]
-- [[loyalty/d-point-au-kddi-docomo-telco-point-consolidation|d Point / au telco-point consolidation case]]
-- [[loyalty/d-point-detailed-ecosystem|d Point detailed ecosystem]]
-- [[loyalty/au-pay-loyalty-ecosystem-deep|au PAY loyalty ecosystem deep]]
-- [[loyalty/japan-points-landscape|Japan points landscape]]
-- [[payments/japan-code-payment-operator-2025-market-share-matrix|Japan code-payment operator 2025 market share matrix]]
-- [[payments/cashless-jp-landscape|Japan cashless payment landscape]]
+- [[megabanks/au-fh|au Financial Holdings]]
+- [[loyalty/ponta-points-deep-dive|Ponta deep dive]]
 - [[INDEX|FinWiki index]]
 
 ## Sources
 
-- KDDI corporate newsroom (Lawson joint TOB announcements): https://www.kddi.com/corporate/newsrelease/
-- Lawson corporate / IR site: https://www.lawson.co.jp/company/ir/
-- Mitsubishi Corporation press releases (Lawson investment, Ponta business): https://www.mitsubishicorp.com/jp/ja/pr/
-- Pontaポイント official site: https://www.ponta.jp/
-- au PAY official site: https://aupay.auone.jp/
-- Lawson Bank official site: https://www.lawsonbank.jp/
-- au PAY Card official site: https://www.aupay-card.co.jp/
+- KDDI / Mitsubishi Corporation / Lawson partnership, 2024-02-06: https://newsroom.kddi.com/english/news/detail/kddi_pr_secret-79.html
+- KDDI investor meeting and transaction summary: https://www.kddi.com/english/corporate/ir/ir-library/meeting/
+- Lawson tender-offer information: https://www.lawson.co.jp/company/ir/others/static/irinfo_20240327.html
+- Lawson tender-offer result, 2024-04-26: https://www.lawson.co.jp/company/news/detail/1486715_2504.html
+- Lawson share-consolidation notice: https://www.lawson.co.jp/company/news/detail/1489023_2504.html
+- KDDI final 50/50 voting-right notice, 2024-08-20: https://news.kddi.com/kddi/corporate/english/ir-news/2024/08/20/pdf/press_20240820.pdf

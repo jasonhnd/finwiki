@@ -1,172 +1,132 @@
 ---
 source: business/brian-armstrong-coinbase-public-company-template
-source_hash: 96835c0a62d66610
+source_hash: faf1fb1cdbad5e6d
 lang: en
+model: source-language-sync
 status: machine
 fidelity: ok
-title: "Brian Armstrong / Coinbase listed-exchange operating template · direct-listing IPO + regulatory-engagement strategy"
-translated_at: 2026-05-30T16:08:36.689Z
+title: "Brian Armstrong / Coinbase public-company operating case"
+translated_at: 2026-07-29T05:13:34.783Z
 ---
 
-# Brian Armstrong / Coinbase listed-exchange operating template · direct-listing IPO + regulatory-engagement strategy
+# Brian Armstrong / Coinbase public-company operating case
 
-## Wiki route
+## Scope
 
-This entry sits under [[business/INDEX|business INDEX]]. Read it with [[business/jamie-dimon-anti-crypto-pivot-case|Jamie Dimon anti-crypto pivot case]] as the bank-side contrast template and [[business/larry-fink-blackrock-digital-asset-template|Larry Fink BlackRock digital-asset template]] as the asset-manager-side parallel. Cross-reference [[exchanges/INDEX|exchanges INDEX]] for the broader exchange-architecture context and [[fintech/cftc-sec-crypto-jurisdiction|CFTC / SEC crypto jurisdiction]] for the regulatory-perimeter dimension that defines Armstrong's operating constraint.
+This page records a bounded public-company case: Coinbase Global's 2021 direct listing, the SEC civil action and dismissal, and the regulated-entity perimeter disclosed by Coinbase through 2025. It does not score political influence, infer the merits of dismissed claims, or treat a pending charter application as an approval.
 
-## Key facts (public sources only)
+It sits under [[business/INDEX|business INDEX]]. Read it with [[business/cz-binance-founder-handoff-case|CZ / Binance founder-handoff case]], [[business/larry-fink-blackrock-digital-asset-template|Larry Fink / BlackRock digital-asset case]], [[exchanges/us-crypto-licensing-multi-layer-system|US crypto licensing multi-layer system]], and [[fintech/cftc-sec-crypto-jurisdiction|CFTC / SEC crypto jurisdiction]].
 
-- **Founder + CEO** of Coinbase Global, Inc. (Nasdaq: **COIN**) since company founding (2012). Position publicly disclosed in every Coinbase 10-K filing.
-- **Direct listing** of Coinbase Class A common stock on Nasdaq, **2021-04-14**, reference price $250, opened ~$381. Direct-listing route disclosed in Coinbase S-1 / Form S-1 prospectus (SEC filing).
-- **Dual-class share structure** with Class B common stock retained by founders / insiders providing supermajority voting control — disclosed in Coinbase 10-K share-structure section, with Armstrong listed as significant Class B holder.
-- **Wells Notice** received from SEC Division of Enforcement, publicly announced by Coinbase **2023-03-22** (Coinbase 8-K). SEC complaint filed **2023-06-06** alleging unregistered exchange / broker / clearing-agency operation.
-- **Coinbase v. SEC** mandamus petition (Third Circuit, 2023) seeking SEC response to Coinbase's rulemaking petition; Third Circuit ordered SEC to respond.
-- **SEC dismissal** of enforcement action against Coinbase publicly announced via SEC press release / Coinbase 8-K in **2025** (post-Atkins SEC leadership transition).
-- **Public lobbying spend** — Coinbase reported lobbying expenditure on US Congress quarterly via LD-2 filings (publicly searchable on US Senate Lobbying Disclosure database). 2024 spend among the highest of any single crypto entity.
-- **Fairshake PAC** — Coinbase was publicly disclosed as one of the largest corporate contributors to Fairshake (crypto-aligned super-PAC) for the 2024 US election cycle. FEC filings public.
-- **GENIUS Act / FIT21** legislative work — Coinbase publicly campaigned for both bills, with Armstrong personally testifying / commenting in public hearings (House Financial Services and House Agriculture Committee hearing records).
+## Verified timeline
 
-### Part 1 · Public-company structure from day one of listing
+Sources for the following table: [Coinbase's 2021 SEC prospectus](https://www.sec.gov/Archives/edgar/data/1679788/000162828021006850/coinbaseglobalinc424b.htm), [Coinbase's 2025 annual report](https://www.sec.gov/Archives/edgar/data/1679788/000167978826000047/coinbase2025ars.pdf), and the [SEC's 2025 dismissal release](https://www.sec.gov/newsroom/press-releases/2025-47).
 
-The 2021 direct listing instead of a traditional IPO is the structural decision that sets the template apart from earlier exchange listings.
-
-- **Direct listing** rather than book-built IPO — no underwriter, no roadshow, no greenshoe, no lockup imposed by underwriters. Existing shareholders sold directly.
-- **No primary capital raised at listing** — Coinbase did not issue new shares for cash at direct-listing date. The S-1 explicitly framed the listing as a liquidity event, not a capital raise.
-- **Dual-class structure** — Class A public common, Class B retained insider with supermajority votes, preserving founder control through public-market entry.
-- **Spot-exchange revenue model on a public ledger** — quarterly revenue (transaction take rate × volume) becomes a public read-out of US retail crypto activity, making Coinbase's 10-Q a de facto industry indicator.
-
-The direct-listing choice is the first crypto-native exchange to use this route at scale and is one of the clearest examples of a high-conviction founder-CEO retaining control on entry to public markets while accepting full SEC disclosure. The parallel to other listed-exchange templates and to onshore VASP listings is documented in [[exchanges/jp-listed-cex-related-companies-matrix|JP listed CEX-related companies matrix]].
-
-### Part 2 · Regulatory engagement as strategy, not defence
-
-Armstrong / Coinbase's public posture toward US regulators evolved through three phases — visible in public filings and public statements:
-
-| Phase | Period | Posture | Public evidence |
-|---|---|---|---|
-| Cooperative submission | 2018-2022 | Engaged with SEC staff, FinCEN, state regulators on licensing | NMLS state money-transmission licences, NY BitLicense, public testimony |
-| Public confrontation | 2023-2024 | Coinbase v. SEC mandamus, public Wells-Notice disclosure, public defence of staking, public listing review | SEC 8-Ks, Third Circuit petition, Coinbase blog |
-| Legislative-led re-engagement | 2024-2025 | Lobbying for FIT21 / GENIUS Act, Fairshake PAC, post-election engagement with new SEC leadership | LD-2 filings, FEC filings, public hearing testimony |
-
-This is a textbook **regulatory-engagement-as-strategy** pattern: when the perimeter is unclear and the regulator pursues case-by-case enforcement, the listed exchange uses its public-company disclosure surface as a campaign platform. Each Wells Notice / response cycle is announced publicly. Each litigation milestone is reported as a corporate event. The contrast with the bank-side template — see [[business/jamie-dimon-anti-crypto-pivot-case|Jamie Dimon anti-crypto pivot case]] for the lagged-bank pattern, and [[business/hester-peirce-sec-regulatory-pivot-case|Hester Peirce SEC regulatory pivot case]] for the regulator-side counterpart — is structural: Coinbase needs **rulemaking clarity** to expand product scope, so confrontation is a strategic input, not a reputational liability.
-
-The full federal-versus-state jurisdictional context is mapped in [[fintech/cftc-sec-crypto-jurisdiction|CFTC / SEC crypto jurisdiction]] and [[exchanges/us-crypto-licensing-multi-layer-system|US crypto licensing multi-layer system]].
-
-### Part 3 · Product scope as a regulatory perimeter problem
-
-Coinbase's product surface — spot trading, custody, staking, USDC distribution, derivatives (via Coinbase Derivatives, regulated as a CFTC DCM / DCO), wallet, Base L2 — sits across multiple US regulatory perimeters simultaneously. Public disclosures show the company runs distinct regulated entities for each leg:
-
-| Product | Regulated entity / licence | Regulator |
+| Date | Public event | Evidence boundary |
 |---|---|---|
-| Spot trading | Coinbase, Inc. (state money-transmitter licences + NY BitLicense) | State, NYDFS |
-| Custody | Coinbase Custody Trust Company, LLC (NY Trust charter) | NYDFS |
-| Derivatives | Coinbase Derivatives, LLC (DCM) + Coinbase Financial Markets (FCM) | CFTC, NFA |
-| International | Coinbase Bermuda (BMA Digital Asset Business Class F) | BMA |
-| Stablecoin distribution | USDC issued by Circle, distributed via Coinbase under public partnership disclosed in Coinbase 10-K | — |
+| 2021-04-14 | Coinbase Class A shares began trading on Nasdaq under COIN through a direct listing | The prospectus registered resales by existing holders; it was not an underwritten IPO |
+| 2023-06-06 | SEC filed a civil action against Coinbase, alleging unregistered exchange, broker, and clearing-agency activity and an unregistered staking offering | Allegations were contested; they were not criminal charges against Armstrong |
+| 2025-02-27 | SEC announced a joint stipulation to dismiss the civil action | SEC said the decision was intended to facilitate its new crypto-policy work and was not an assessment of the merits |
+| 2025 | Coinbase Luxembourg received MiCA authorization from Luxembourg's CSSF | The authorization supports crypto-asset services across the EEA through Coinbase Luxembourg; it does not replace every separate payment-service permission |
+| 2025-10-03 | Coinbase announced an application for an OCC national trust company charter | Coinbase expressly described this as an application and said it did not intend to become a bank |
 
-This **multi-licence per product** structure is the template now followed by listed-exchange peers globally. The contrast with Tether's offshore-anchor model — see [[business/paolo-ardoino-tether-business-model-template|Paolo Ardoino Tether business-model template]] — is sharp: where Tether optimises for jurisdictional flexibility, Coinbase optimises for onshore regulated-counterparty status.
+## Direct-listing mechanics
 
-### Part 4 · Listed-exchange financial structure
+The 2021 prospectus is the primary record for the listing structure.
 
-Public-filing reads on Coinbase's financial structure (per 10-K / 10-Q public disclosure):
+Sources for the following table: [Coinbase's Rule 424(b)(4) prospectus](https://www.sec.gov/Archives/edgar/data/1679788/000162828021006850/coinbaseglobalinc424b.htm).
 
-- **Transaction revenue** as primary line — highly cyclical with crypto market activity
-- **Subscription and services revenue** (custody, USDC distribution revenue share, staking, blockchain rewards) as anti-cyclical hedge — grown materially since 2022
-- **USDC revenue share** with Circle as a structurally important and disclosed-related contract
-- **High operating leverage** — cost base relatively fixed against highly variable revenue → outsized quarterly swings between profit and loss
-
-The structural lesson is that a listed-exchange revenue model needs an anti-cyclical hedge (custody, stablecoin distribution, subscription) to survive the trough quarters that pure spot transaction fees cannot. The hedge layer is itself a regulatory perimeter — custody requires trust-charter status, stablecoin distribution requires the [[fintech/cftc-sec-crypto-jurisdiction|jurisdictional]] framework to be clear, staking has been the SEC's most-litigated line.
-
-## Listed-exchange operating mechanics
-
-Coinbase's daily operations as a public company introduce mechanics that an offshore exchange does not face. The mechanics — visible in 10-K risk factors and proxy disclosures — define the template:
-
-| Mechanic | Coinbase implementation | Source / disclosure |
+| Mechanic | What the filing says | What should not be inferred |
 |---|---|---|
-| Customer-asset segregation | Customer crypto held in trust accounts at Coinbase Custody Trust Company, LLC; cash deposits at FDIC-insured banks via custody / pass-through arrangements | 10-K, Coinbase blog disclosures, NYDFS trust-charter terms |
-| Bankruptcy-remote treatment of customer assets | Disclosed risk factor — Coinbase 10-K warned that in a hypothetical insolvency scenario, customer crypto held by the platform could be treated as property of the bankruptcy estate (Coinbase 2022 10-K) | Coinbase 10-K filings |
-| Listing-decision framework | Coinbase publishes a public listing-review framework; tokens subject to delisting if regulatory or operational risk escalates | Coinbase blog |
-| SOC reports | Coinbase publishes SOC 1 and SOC 2 reports to institutional customers (under NDA) | Industry standard for trust-charter custodians |
-| Public proxy / governance | Annual proxy filed with SEC; dual-class voting structure disclosed | DEF 14A filings |
-| Audit | Big-Four audit firm; PCAOB-registered auditor; 10-K signed | 10-K signed audit report |
+| Securities registered | Resale of up to 114,850,769 Class A shares by registered stockholders | Coinbase did not sell a conventional primary IPO tranche |
+| Underwriting | No investment bank underwrote the resale | There was no traditional book-building or underwriter stabilization process |
+| Issuer proceeds | Coinbase would receive no proceeds from registered holders' sales | The listing itself was not a primary capital raise |
+| Trading venue | Nasdaq Global Select Market, symbol COIN | Exchange admission does not constitute SEC approval of the securities or business |
+| Capital structure | Class A and Class B common stock were outstanding | Voting control must be read from the applicable annual report or proxy for the date being analyzed |
 
-The combination of these mechanics is what allows Coinbase to claim **regulated counterparty status** in pitches to US institutional buyers (banks, asset managers, family offices) that other crypto exchanges cannot replicate without parallel licensing investment.
+The useful structural lesson is narrow: a direct listing can provide public liquidity and SEC reporting without a conventional underwritten primary offering. It does not eliminate market-volatility, disclosure, governance, or regulatory risks.
 
-## Founder-CEO conviction layer
+## Enforcement record and reading discipline
 
-Armstrong's public posture (visible only through public statements, blog posts, SEC filings, and public Congressional testimony) is consistent across phases:
+Coinbase disclosed the SEC action in its public filings and contested it in court. On 2025-02-27 the SEC announced dismissal of the action. The SEC also stated that:
 
-- Long-term horizon for crypto adoption (publicly stated repeatedly since 2014)
-- Willingness to litigate regulatory questions in public rather than settle quietly
-- Willingness to spend public lobbying capital at scale (LD-2 filings) and PAC capital (FEC filings)
-- Open letters and policy-position blog posts as a public-engagement mode
+- dismissal was an exercise of Commission discretion connected to the Crypto Task Force's policy work;
+- dismissal did not reflect an assessment of the merits of the allegations; and
+- the decision did not state the SEC's position on another case.
 
-The conviction-CEO archetype is shared with Larry Fink (in a very different direction) — see [[business/larry-fink-blackrock-digital-asset-template|Larry Fink BlackRock digital-asset template]] — and contrasts with the lagged-bank CEO who turns only under combined pressures, documented in [[business/jamie-dimon-anti-crypto-pivot-case|Jamie Dimon anti-crypto pivot case]]. The triple-role-COI structural risk that affects VC-backed exchange ecosystems — see [[business/matt-huang-triple-role-coi-template|Matt Huang triple-role COI template]] — does not apply to Armstrong's role because his Class B control is single-role-CEO, not multi-board-multi-portfolio.
+Accordingly, this case supports a documented sequence—public-company disclosure, litigation, and dismissal—but not a claim that a court finally validated every Coinbase product or rejected every SEC theory.
 
-The India / DPI policy-coupling pattern documented in [[business/sandeep-nailwal-polygon-india-dpi-pattern|Sandeep Nailwal Polygon India DPI pattern]] is the geographic counterexample — Coinbase's policy-coupling is US-anchored and federal-statute-anchored, not DPI-anchored.
+## Operating and regulatory perimeter
 
-## Strategic reading
+Coinbase's annual report describes a group with product- and jurisdiction-specific permissions rather than one universal “crypto license.”
 
-- **The direct-listing template is replicable but rare** — Coinbase's choice required a market large enough to absorb founder / VC selling without underwriter price stabilisation. Smaller crypto-native companies have generally reverted to traditional IPO or SPAC routes.
-- **Public-company status is a regulatory chip** — SEC enforcement against a public company with disclosed-investor base, audited financials, and public 10-Ks operates on a different signal-to-noise ratio than enforcement against an offshore unregulated entity. Armstrong / Coinbase have used this asymmetry strategically.
-- **Listed exchange = real-time public-market quote on regulator-exchange relations** — COIN share-price reaction to each SEC announcement, Wells Notice, FIT21 / GENIUS Act news, or Chair-of-SEC change is a public market signal that policymakers themselves watch.
-- **Multi-licence structure is expensive but unavoidable** — the cost of running Coinbase Trust, Coinbase Derivatives, Coinbase Financial Markets, Coinbase Bermuda as parallel regulated entities is significant, but is the price of operating at scale within US-onshore regulatory perimeters.
+Sources for the following table: [Coinbase's 2025 annual report](https://www.sec.gov/Archives/edgar/data/1679788/000167978826000047/coinbase2025ars.pdf), [Coinbase's MiCA transition notice](https://help.coinbase.com/en/coinbase/other-topics/other/mica-cblu), and [Coinbase's national trust charter application announcement](https://www.coinbase.com/blog/coinbase-strengthens-commitment-to-innovation-and-oversight-with-national-trust-charter-application).
 
-## Template diffusion — who has copied which pieces
-
-The Coinbase template has not been replicated wholesale — each piece has diffused selectively:
-
-| Template piece | Adopted by | Not adopted by |
+| Perimeter | Publicly documented entity or status | Boundary |
 |---|---|---|
-| Direct-listing route for crypto IPO | Few; most subsequent crypto-public listings have used traditional IPO, reverse merger, or SPAC | Most |
-| Multi-licence per product structure | Robinhood Crypto, Gemini, Paxos — to varying depth | Offshore exchanges, prediction markets |
-| Public confrontation with SEC | Ripple (XRP litigation 2020-2023), Grayscale (BTC ETF petition 2022-2024) | Most VC-backed crypto companies prefer quiet settlement |
-| Public lobbying / PAC spend | A16Z, Ripple, Coinbase, Kraken — top contributors to Fairshake | Most non-US-domiciled exchanges |
-| Dual-class founder control | Robinhood, Reddit — non-crypto-specific pattern | Most traditional IPOs no longer use heavy dual-class structures |
-| Public listing framework / SOC reports | Most regulated US custodians have followed | Offshore-only platforms |
-| Quarterly earnings call as policy platform | Coinbase relatively unique in using earnings calls for regulatory commentary | Most exchanges keep regulatory remarks separate |
+| US platform activity | Coinbase, Inc.; state-level permissions include NYDFS oversight | Exact permission and product availability vary by state and product |
+| US custody | Coinbase Custody Trust Company, LLC remains under NYDFS oversight | Coinbase's 2025 OCC filing was an application, not an approved replacement charter |
+| EEA crypto-asset services | Coinbase Luxembourg S.A., authorized by Luxembourg's CSSF under MiCA | E-money services continue through a separately regulated Coinbase entity |
+| Public-company reporting | Coinbase Global, Inc. files annual, quarterly, current, and proxy reports with the SEC | Reporting-company status is distinct from product licensing |
 
-The template's most-distinctive piece — **public confrontation with the SEC as strategy** — depended on specific 2023-2024 political conditions and may not be replicable in steady state. Other pieces (multi-licence structure, public listing framework, SOC reports) are now industry-standard for US-onshore regulated exchanges.
+The correct analytical unit is therefore “entity × product × jurisdiction × date.” A group-level brand name alone is insufficient evidence that a product is permitted everywhere.
 
-## Geographic expansion and jurisdiction stack
+## Revenue model visible through filings
 
-Coinbase's geographic footprint as disclosed in public filings shows a deliberate **multi-jurisdiction regulated-entity stack** rather than a single-domicile model:
+Coinbase's public reports separate transaction revenue from subscription-and-services revenue. The latter includes several activities whose economics and regulatory treatment differ, so it should not be treated as a single recurring-revenue product.
 
-| Jurisdiction | Regulated entity / posture | Public source |
+Sources for the following table: [Coinbase's 2025 annual report](https://www.sec.gov/Archives/edgar/data/1679788/000167978826000047/coinbase2025ars.pdf).
+
+| Filing category | Main public-company sensitivity | Review question |
 |---|---|---|
-| United States | Coinbase, Inc. + state money-transmitter licences + NY BitLicense; Coinbase Custody Trust (NY); Coinbase Derivatives, LLC (CFTC DCM); Coinbase Financial Markets (FCM) | SEC 10-K, NYDFS public registers, CFTC DCM list |
-| Bermuda | Coinbase Bermuda Limited — Class F Digital Asset Business licence under the BMA | BMA public register, Coinbase blog |
-| United Kingdom | FCA-registered crypto-asset entity (CB Payments Limited / Coinbase Europe Limited subsidiaries) | FCA public register |
-| EU | MiCA preparation; pre-MiCA national-regime registrations in select Member States | Coinbase blog, EU national regulators |
-| Singapore | MAS exemption / DPT licence track | MAS public register |
-| Japan | Coinbase exited the Japan market in early 2023 per public announcement | Coinbase blog |
-| Canada | Coinbase Canada — pre-registration with provincial securities regulators | CSA public register |
-| Brazil | Local registered entity | Coinbase blog |
+| Transaction revenue | Trading activity, asset mix, pricing, and customer mix | How concentrated is revenue in periods of high market activity? |
+| Subscription and services | Stablecoin revenue, blockchain rewards, interest and finance-fee income, custody, and other services | Which components are rate-sensitive, asset-price-sensitive, or permission-dependent? |
+| Operating expenses | Technology, transaction, sales and marketing, general and administrative, and other disclosed costs | Which costs scale with activity and which remain relatively fixed? |
+| Customer crypto assets and liabilities | Safeguarding, disclosure, and legal-treatment assumptions | What exactly does the current filing say, rather than an older filing or generalized industry claim? |
 
-The Japan exit (announced via Coinbase blog post in early 2023, citing market conditions) is itself an instructive datapoint — even a well-capitalised listed-exchange template did not find the [[exchanges/jp-listed-cex-related-companies-matrix|Japanese VASP framework]] viable as a standalone business segment at the scale Coinbase needed, while remaining in higher-volume regulated jurisdictions.
+## What the case supports
 
-The **multi-domicile regulated-entity stack** is expensive to maintain (legal, compliance, capital, audit duplicated per jurisdiction) and is itself a moat against newer entrants without the listed-company balance sheet to fund it.
+- A direct listing and a conventional IPO are different transaction structures.
+- Public filings make listing mechanics, revenue categories, risk factors, and enforcement milestones observable.
+- A crypto platform can require several regulated entities because custody, trading, derivatives, payments, and geographic distribution do not share one permission.
+- Dismissal of an enforcement action must be described using the regulator's stated basis and legal posture.
+- A charter application remains pending until the responsible authority grants it.
+
+## What the case does not establish
+
+- that public-company status immunizes a platform from enforcement;
+- that the 2025 dismissal resolved the legal classification of every listed asset or service;
+- that every Coinbase customer contracts with the same entity;
+- that Coinbase is a bank; or
+- that political spending, market reaction, or regulatory access caused the litigation outcome without separate evidence.
+
+## Reusable review checklist
+
+Sources for the following checklist table: [Coinbase's SEC filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001679788), the [SEC dismissal release](https://www.sec.gov/newsroom/press-releases/2025-47), and Coinbase's [MiCA transition notice](https://help.coinbase.com/en/coinbase/other-topics/other/mica-cblu).
+
+| Question | Preferred evidence |
+|---|---|
+| Was the listing an IPO, direct listing, SPAC, or reverse merger? | Final prospectus and exchange notice |
+| Did the issuer or selling holders receive proceeds? | Prospectus cover and plan of distribution |
+| Is an enforcement event an allegation, judgment, settlement, or dismissal? | Complaint, court order, and regulator release |
+| Is a license approved, applied for, or merely planned? | Regulator register or dated company notice with status language |
+| Which entity serves a customer? | Current user agreement, annual report, and jurisdiction notice |
+| Which revenue stream is being discussed? | Current annual or quarterly report and accounting note |
 
 ## Related
 
 - [[business/INDEX|business INDEX]]
-- [[business/jamie-dimon-anti-crypto-pivot-case|Jamie Dimon anti-crypto pivot case]]
-- [[business/larry-fink-blackrock-digital-asset-template|Larry Fink BlackRock digital-asset template]]
-- [[business/matt-huang-triple-role-coi-template|Matt Huang triple-role COI template]]
-- [[business/paolo-ardoino-tether-business-model-template|Paolo Ardoino Tether business-model template]]
-- [[business/hester-peirce-sec-regulatory-pivot-case|Hester Peirce SEC regulatory pivot case]]
-- [[business/sandeep-nailwal-polygon-india-dpi-pattern|Sandeep Nailwal Polygon India DPI pattern]]
+- [[business/cz-binance-founder-handoff-case|CZ / Binance founder-handoff case]]
+- [[business/founder-pivot-outcome-template-matrix|founder / executive transition matrix]]
+- [[business/larry-fink-blackrock-digital-asset-template|Larry Fink / BlackRock digital-asset case]]
 - [[exchanges/INDEX|exchanges INDEX]]
 - [[exchanges/us-crypto-licensing-multi-layer-system|US crypto licensing multi-layer system]]
-- [[exchanges/jp-listed-cex-related-companies-matrix|JP listed CEX-related companies matrix]]
 - [[fintech/cftc-sec-crypto-jurisdiction|CFTC / SEC crypto jurisdiction]]
 - [[INDEX|FinWiki index]]
 
 ## Sources
 
-- Coinbase Global, Inc. SEC EDGAR filings (CIK 0001679788) including S-1, 10-K, 10-Q, 8-K: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001679788
-- Coinbase Investor Relations: https://investor.coinbase.com/
-- Coinbase official blog (public posts): https://www.coinbase.com/blog
-- SEC litigation releases: https://www.sec.gov/litigation/litreleases.htm
-- US Senate Lobbying Disclosure Act database (LD-2 filings): https://lda.senate.gov/
-- FEC public records on Fairshake PAC (publicly searchable at fec.gov)
-- US Congressional hearing records on FIT21 / GENIUS Act (House Financial Services and House Agriculture Committee public hearings)
+- Coinbase Global, Inc., 2021 prospectus: https://www.sec.gov/Archives/edgar/data/1679788/000162828021006850/coinbaseglobalinc424b.htm
+- Coinbase Global, Inc., 2025 annual report: https://www.sec.gov/Archives/edgar/data/1679788/000167978826000047/coinbase2025ars.pdf
+- SEC, dismissal of civil enforcement action against Coinbase, 2025-02-27: https://www.sec.gov/newsroom/press-releases/2025-47
+- Coinbase, MiCA authorization and service transition: https://help.coinbase.com/en/coinbase/other-topics/other/mica-cblu
+- Coinbase, national trust charter application, 2025-10-03: https://www.coinbase.com/blog/coinbase-strengthens-commitment-to-innovation-and-oversight-with-national-trust-charter-application

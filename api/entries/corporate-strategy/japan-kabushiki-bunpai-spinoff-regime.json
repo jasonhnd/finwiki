@@ -33,9 +33,9 @@
     "domain": "corporate-strategy",
     "type": null,
     "created": "2026-06-03",
-    "last_updated": "2026-06-03",
-    "last_tended": "2026-06-03",
-    "review_by": "2026-12-03",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "corporate-strategy",
@@ -54,7 +54,7 @@
       "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/spinoff.html",
       "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/01/01_04_05.htm",
       "https://laws.e-gov.go.jp/document?lawid=417AC0000000086",
-      "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/pdf/20250714-spinoff.pdf",
+      "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/oshirase/spinoff-kaitei_20260522.html",
       "https://www.fsa.go.jp/en/",
       "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/saihenzeisei/spin-off.html",
       "https://www.meti.go.jp/policy/jigyou_saisei/kyousouryoku_kyouka/2306spinoff_QA.pdf",
@@ -112,9 +112,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 16026,
-    "word_like_tokens": 2716,
-    "inbound_wikilinks_count": 17,
-    "last_modified": "2026-06-15"
+    "nonspace_chars": 17815,
+    "word_like_tokens": 3004,
+    "inbound_wikilinks_count": 12,
+    "last_modified": "2026-07-29"
   }
 }
