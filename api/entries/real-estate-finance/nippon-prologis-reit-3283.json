@@ -23,14 +23,14 @@
       "日本プロロジスリート投資法人",
       "Prologis J-REIT Japan",
       "Prologis sponsor support agreement",
-      "NPR AAA logistics J-REIT"
+      "NPR logistics J-REIT"
     ],
     "domain": "real-estate-finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "real-estate-finance",
@@ -49,13 +49,15 @@
     "sources": [
       "https://www.prologis-reit.co.jp/",
       "https://www.prologis-reit.co.jp/english/",
+      "https://www.prologis-reit.co.jp/en/",
+      "https://www.prologis-reit.co.jp/en/financial/index.html",
       "https://www.prologis.com/",
       "https://www.jpx.co.jp/english/markets/products/reit/index.html",
       "https://www.ares.or.jp/en/",
       "https://www.fsa.go.jp/en/"
     ]
   },
-  "summary": "NPR's portfolio is concentrated in AAA-grade modern logistics facilities — high-spec multi-tenant warehouses in Greater Tokyo, Osaka, and Aichi/Nagoya logistics submarkets developed by Prologis Japan on the sponsor balance sheet. The AAA-grade designation refers to facility specifications: large flo",
+  "summary": "NPR's portfolio is concentrated in modern logistics facilities in Greater Tokyo, Osaka, and Aichi/Nagoya logistics submarkets. Where NPR or Prologis uses a facility-class label, treat it as an issuer-defined property specification rather than an independent credit rating, and verify features propert",
   "headings": [
     "Nippon Prologis REIT (3283)",
     "TL;DR",
@@ -66,7 +68,7 @@
     "4. Portfolio composition",
     "5. Capital and leverage",
     "6. NPR vs GLP J-REIT",
-    "7. Why foreign sponsors anchor the modern-logistics segment"
+    "7. Sponsor mix in the modern-logistics segment"
   ],
   "body_links": {
     "wikilinks_count": 17,
@@ -108,13 +110,19 @@
       "https://finwiki.zksc.io/ja/real-estate-finance/real-estate-cap-rate-compression-2026/",
       "https://finwiki.zksc.io/ja/real-estate-finance/top-10-j-reit-overview-matrix/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 5,
+    "external_links": [
+      "https://www.glpjreit.com/en/",
+      "https://www.jpx.co.jp/english/equities/products/reits/issues/index.html",
+      "https://www.prologis-reit.co.jp/en/",
+      "https://www.prologis-reit.co.jp/en/financial/index.html",
+      "https://www.prologis.com/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 9386,
-    "word_like_tokens": 1496,
+    "nonspace_chars": 11588,
+    "word_like_tokens": 1924,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-30"
   }
 }

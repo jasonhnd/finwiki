@@ -27,9 +27,9 @@
     "domain": "finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "finance",
@@ -52,11 +52,17 @@
       "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/fair-ma-rule/ma-guideline-publications.html",
       "https://www.meti.go.jp/english/press/2023/0831_001.html",
       "https://www.fsa.go.jp/en/laws_regulations/faq_on_fiea/section04.html",
-      "https://www.mof.go.jp/en/policy/international_policy/gaitame_kawase/fdi/index.html",
-      "https://www.jftc.go.jp/en/policy_enforcement/mergers_acquisitions/index.html",
+      "https://www.mof.go.jp/english/policy/international_policy/fdi/",
+      "https://www.jftc.go.jp/en/policy_enforcement/mergers/index.html",
       "https://www.jpx.co.jp/english/equities/listing/disclosure/tdnet/index.html",
       "https://www.fsa.go.jp/en/",
-      "https://www.moj.go.jp/EN/index.html"
+      "https://www.moj.go.jp/EN/index.html",
+      "https://www.fsa.go.jp/news/r7/shouken/20250704/20250704.html",
+      "https://www.fsa.go.jp/common/shinsei/tairyohoyu/index.html",
+      "https://www.japaneselawtranslation.go.jp/en/laws/view/4481/en",
+      "https://www.jftc.go.jp/en/policy_enforcement/mergers/index_files/ThresholdforNotification.pdf",
+      "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/pdf/fairmaguidelines.pdf",
+      "https://www.fsa.go.jp/news/r6/ginkou/20250630-2/250630-2.html"
     ]
   },
   "summary": "Japan M&A is not one process; it is at least seven distinct deal-type processes that share statutory plumbing but diverge on the buyer type, control mechanism, regulatory screen stack, financing form, and timeline. This matrix lays out inbound (foreign buyer of Japanese target), outbound (Japanese b",
@@ -73,7 +79,7 @@
     "Outbound (Japanese buyer of foreign target)"
   ],
   "body_links": {
-    "wikilinks_count": 32,
+    "wikilinks_count": 33,
     "wikilinks": [
       "INDEX",
       "corporate-strategy/INDEX",
@@ -94,6 +100,7 @@
       "finance/japan-private-equity-operating-model",
       "finance/japan-shareholder-proposal-and-agm-voting-route",
       "finance/japan-tender-offer-process",
+      "finance/jftc-merger-control-process",
       "finance/multi-jurisdiction-identity-tax-leverage",
       "financial-regulators/dbj",
       "megabanks/mizuho-bank",
@@ -128,6 +135,7 @@
       "https://finwiki.zksc.io/ja/finance/japan-private-equity-operating-model/",
       "https://finwiki.zksc.io/ja/finance/japan-shareholder-proposal-and-agm-voting-route/",
       "https://finwiki.zksc.io/ja/finance/japan-tender-offer-process/",
+      "https://finwiki.zksc.io/ja/finance/jftc-merger-control-process/",
       "https://finwiki.zksc.io/ja/finance/multi-jurisdiction-identity-tax-leverage/",
       "https://finwiki.zksc.io/ja/financial-regulators/dbj/",
       "https://finwiki.zksc.io/ja/megabanks/mizuho-bank/",
@@ -142,16 +150,26 @@
       "https://finwiki.zksc.io/ja/securities-firms/smbc-nikko/",
       "https://finwiki.zksc.io/ja/trust-banks/smtb/"
     ],
-    "external_links_count": 2,
+    "external_links_count": 12,
     "external_links": [
       "https://disclosure.edinet-fsa.go.jp/",
-      "https://www.jpx.co.jp/equities/listing/disclosure/tdnet/index.html"
+      "https://www.fsa.go.jp/common/shinsei/tairyohoyu/index.html",
+      "https://www.fsa.go.jp/news/r6/ginkou/20250630-2/250630-2.html",
+      "https://www.fsa.go.jp/news/r7/shouken/20250704/20250704.html",
+      "https://www.japaneselawtranslation.go.jp/en/laws/view/4481/en",
+      "https://www.jftc.go.jp/en/policy_enforcement/mergers/index.html",
+      "https://www.jftc.go.jp/en/policy_enforcement/mergers/index_files/ThresholdforNotification.pdf",
+      "https://www.jpx.co.jp/equities/listing/disclosure/tdnet/index.html",
+      "https://www.lseg.com/en/data-analytics/financial-data/deals-data/investment-banking-league-tables",
+      "https://www.meti.go.jp/english/press/2023/0831_001.html",
+      "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/pdf/fairmaguidelines.pdf",
+      "https://www.mof.go.jp/english/policy/international_policy/fdi/"
     ]
   },
   "metrics": {
-    "nonspace_chars": 31896,
-    "word_like_tokens": 5066,
+    "nonspace_chars": 43583,
+    "word_like_tokens": 6954,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-06-15"
+    "last_modified": "2026-07-30"
   }
 }

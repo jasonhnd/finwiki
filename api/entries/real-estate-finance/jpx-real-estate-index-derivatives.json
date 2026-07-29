@@ -28,9 +28,9 @@
     "domain": "real-estate-finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "real-estate-finance",
@@ -48,20 +48,20 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.jpx.co.jp/english/markets/indices/reit/",
-      "https://www.jpx.co.jp/english/markets/derivatives/",
-      "https://www.jpx.co.jp/english/markets/products/reit/",
-      "https://www.ares.or.jp/en/",
-      "https://www.fsa.go.jp/en/"
+      "https://www.jpx.co.jp/english/equities/products/reits/outline/",
+      "https://www.jpx.co.jp/english/derivatives/products/reit/reit-futures/index.html",
+      "https://www.jpx.co.jp/english/derivatives/products/reit/index.html",
+      "https://www.jpx.co.jp/english/equities/products/etfs/issues/01-07.html",
+      "https://www.ares.or.jp/action/jreit/"
     ]
   },
-  "summary": "The Tokyo Stock Exchange REIT Index (東証REIT指数) is JPX's headline benchmark for the J-REIT market, a market-cap-weighted index of all listed J-REITs. It is the standard reference index for J-REIT performance attribution, ETF tracking, and sector-allocation comparisons. The investable derivatives laye",
+  "summary": "The Tokyo Stock Exchange REIT Index (東証REIT指数) is a JPX index for the J-REIT segment. JPX sources confirm the index methodology, listed tracker ETFs, TSE REIT Index Futures, and TSE REIT Index Options. Listing status does not establish liquidity, borrow, spreads, suitability, or hedge effectiveness.",
   "headings": [
     "JPX TSE REIT Index derivatives",
     "TL;DR",
     "Wiki route",
     "TSE REIT Index — the underlying benchmark",
-    "ETF surface — primary investable wrapper",
+    "ETF surface — listed trackers",
     "Index futures listing status",
     "Hedging real-estate equity exposure via short ETF / short futures",
     "Options market depth",
@@ -116,9 +116,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 18045,
-    "word_like_tokens": 3002,
+    "nonspace_chars": 14639,
+    "word_like_tokens": 2408,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-07-30"
   }
 }

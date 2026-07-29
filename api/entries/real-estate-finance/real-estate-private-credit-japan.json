@@ -27,9 +27,9 @@
     "domain": "real-estate-finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "real-estate-finance",
@@ -46,23 +46,23 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.ares.or.jp/en/",
-      "https://www.fsa.go.jp/en/news/index.html",
-      "https://www.boj.or.jp/en/research/brp/fsr/index.htm",
-      "https://www.dbj.jp/en/ir/",
-      "https://www.tr.mufg.jp/english/ir/",
-      "https://www.smtb.jp/english/investors",
-      "https://www.mof.go.jp/english/policy/financial_system/index.html"
+      "https://www.boj.or.jp/en/research/brp/fsr/fsr260421.htm",
+      "https://www.boj.or.jp/en/research/brp/fsr/data/fsr230421a.pdf",
+      "https://www.dbj.jp/en/service/asset_finance/",
+      "https://www.smtb.jp/english/sale/financial",
+      "https://www.smtb.jp/english/sale/estate/service",
+      "https://www.tr.mufg.jp/english/aboutmutb/business/realestate.html",
+      "https://www.tokyocentury.co.jp/jp/business/service/realestate/finance.html"
     ]
   },
-  "summary": "Japan real-estate private credit is a layered non-bank financing market sitting alongside bank CRE lending. The market has two distinct deployment routes: foreign general-partner (GP) entrants (Blackstone, KKR, Apollo, Brookfield, and others) running cross-border real-estate-debt strategies into Jap",
+  "summary": "Japan real-estate private credit is a useful analytical label for privately negotiated debt or debt-like capital alongside bank CRE lending. Public sources evidence real-estate lending, non-recourse finance, and selected institutional capabilities, but do not establish a complete market size, named-",
   "headings": [
     "Japan real estate private credit",
     "TL;DR",
     "Wiki route",
     "Product Stack",
-    "Target Return Bands (Indicative)",
-    "Foreign GP Entrants",
+    "Illustrative Return Scenarios",
+    "Foreign-manager evidence",
     "Japan-Incorporated Private Credit",
     "Capital Stack Example",
     "Bridge Financing Use Cases",
@@ -122,9 +122,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 13526,
-    "word_like_tokens": 2073,
+    "nonspace_chars": 18070,
+    "word_like_tokens": 2876,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-30"
   }
 }

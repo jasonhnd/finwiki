@@ -1,11 +1,11 @@
 ---
 source: finance/cross-border-m-a-japan
-source_hash: 84838b7f56977120
+source_hash: beda67538997a9bb
 lang: en
 status: machine
 fidelity: ok
 title: "Cross-border M&A Japan"
-translated_at: 2026-06-18T23:59:13.057Z
+translated_at: 2026-07-29T14:32:12.538Z
 ---
 
 # Cross-border M&A Japan
@@ -26,12 +26,14 @@ For FinWiki, this page is the transaction-context layer behind [[securities-firm
 
 ## Regulatory Map
 
+Source: the table routes readers to the MOF's [FEFTA inward-investment materials](https://www.mof.go.jp/english/policy/international_policy/fdi/), the JFTC's [business-combination review materials](https://www.jftc.go.jp/en/policy_enforcement/mergers/index.html), and [JPX TDnet](https://www.jpx.co.jp/english/equities/listing/disclosure/tdnet/index.html); transaction-specific thresholds and approvals must be checked at signing.
+
 | Layer | Authority / source | What to check |
 |---|---|---|
-| Foreign investment screening | MOF and business ministries under FEFTA | Prior notification / screening for inward direct investment and sensitive sectors. |
+| Foreign investment screening | MOF and the ministry responsible for the target business under FEFTA | Whether the investor, transaction, target business, ownership level, and available exemption create a prior-notification or post-reporting obligation. |
 | Business combination / antitrust | JFTC | Whether the deal may substantially restrain competition and what notification / review process applies. |
 | Securities disclosure | FSA / EDINET / TDnet / exchange rules | Tender offer, large shareholding, listed-company disclosure, financing disclosure. |
-| Sector regulation | Business ministry or regulator | Banking, insurance, telecom, defense, energy, medical, data, and infrastructure sensitivities. |
+| Sector regulation | Authority designated by the law governing the target business | Whether the specific target business, licence, asset, or ownership change requires consent, notification, or another sector-specific step. |
 | Financing | Banks / securities firms | Acquisition finance, bridge loan, bond issuance, equity offering, hedging. |
 
 ## METI Inbound M&A Reading
@@ -44,8 +46,8 @@ METI's 2023 inbound M&A case-study project frames foreign capital as one possibl
 
 ## JapanFG Relevance
 
-- [[securities-firms/goldman-sachs-japan]] and other foreign IBs often compete strongly in cross-border advisory.
-- [[securities-firms/nomura-hd]], [[securities-firms/daiwa-sg]], [[securities-firms/smbc-nikko]], [[securities-firms/mizuho-securities]], and [[securities-firms/mufg-mums]] compete through domestic issuer access, financing relationships, and execution support.
+- Potential adviser categories include Japanese securities firms and the Japan operations of global investment banks. A firm's role, mandate, and ranking must be taken from the dated transaction filing or a vendor table whose period and credit methodology are stated; this page does not assign current adviser strength.
+- Entity pages such as [[securities-firms/goldman-sachs-japan]], [[securities-firms/nomura-hd]], [[securities-firms/daiwa-sg]], [[securities-firms/smbc-nikko]], [[securities-firms/mizuho-securities]], and [[securities-firms/mufg-mums]] are research routes, not evidence that a firm advised or financed a particular transaction.
 - [[financial-regulators/jbic]], [[policy-finance/INDEX|policy-finance INDEX]], and export-credit / policy-finance pages become relevant when the acquisition supports resource security, infrastructure, or national industrial policy.
 
 ## Due-Diligence Checklist

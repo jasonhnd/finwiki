@@ -28,9 +28,9 @@
     "domain": "real-estate-finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "real-estate-finance",
@@ -48,13 +48,14 @@
     "sources": [
       "https://www.nre-mf.co.jp/",
       "https://www.nre-mf.co.jp/english/",
+      "https://www.nre-mf.co.jp/en/",
       "https://www.nomura-re-hd.co.jp/english/",
       "https://www.jpx.co.jp/english/markets/products/reit/index.html",
       "https://www.ares.or.jp/en/",
       "https://www.fsa.go.jp/en/"
     ]
   },
-  "summary": "For FinWiki, NMF is the diversified-J-REIT template — the contrast to pure-play office J-REIT like NBF and JRE and to pure-play logistics J-REIT like GLP J-REIT and Nippon Prologis REIT. The diversified profile gives smoother DPU through cycles but at the cost of less crisp asset-class exposure for",
+  "summary": "For FinWiki, NMF is a diversified-J-REIT comparison case — the contrast to pure-play office J-REIT like NBF and JRE and to pure-play logistics J-REIT like GLP J-REIT and Nippon Prologis REIT. Its multiple sleeves change the exposure mix, but historical DPU volatility must be calculated over matched",
   "headings": [
     "Nomura Real Estate Master Fund (NMF, J-REIT 3462)",
     "TL;DR",
@@ -64,16 +65,14 @@
     "3. Portfolio composition",
     "4. Capital and leverage",
     "5. Diversified vs pure-play J-REIT",
-    "6. NMF's role in the J-REIT ecosystem",
+    "6. NMF in the J-REIT market structure",
     "Related"
   ],
   "body_links": {
-    "wikilinks_count": 19,
+    "wikilinks_count": 17,
     "wikilinks": [
       "INDEX",
       "finance/japan-listed-financial-groups-investable-universe",
-      "financial-regulators/jcr",
-      "financial-regulators/rating-and-investment",
       "real-estate-finance/INDEX",
       "real-estate-finance/glp-j-reit-3281",
       "real-estate-finance/j-reit-dividend-yield-vs-jgb-spread",
@@ -93,8 +92,6 @@
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX.md",
       "https://finwiki.zksc.io/ja/finance/japan-listed-financial-groups-investable-universe/",
-      "https://finwiki.zksc.io/ja/financial-regulators/jcr/",
-      "https://finwiki.zksc.io/ja/financial-regulators/rating-and-investment/",
       "https://finwiki.zksc.io/ja/domains/real-estate-finance/",
       "https://finwiki.zksc.io/ja/real-estate-finance/glp-j-reit-3281/",
       "https://finwiki.zksc.io/ja/real-estate-finance/j-reit-dividend-yield-vs-jgb-spread/",
@@ -111,13 +108,23 @@
       "https://finwiki.zksc.io/ja/real-estate-finance/top-10-j-reit-overview-matrix/",
       "https://finwiki.zksc.io/ja/securities-firms/nomura-hd/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 9,
+    "external_links": [
+      "https://www.glpjreit.com/en/portfolio/data.html",
+      "https://www.j-re.co.jp/en_cms/portfolio/statement.html",
+      "https://www.jpx.co.jp/english/equities/products/reits/index.html",
+      "https://www.jpx.co.jp/english/equities/products/reits/issues/index.html",
+      "https://www.nbf-m.com/nbf_e/",
+      "https://www.nre-mf.co.jp/en/",
+      "https://www.nre-mf.co.jp/en/ir/faq.html",
+      "https://www.nre-mf.co.jp/en/merger/index.html",
+      "https://www.prologis-reit.co.jp/en/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 8900,
-    "word_like_tokens": 1456,
+    "nonspace_chars": 11639,
+    "word_like_tokens": 1961,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-30"
   }
 }

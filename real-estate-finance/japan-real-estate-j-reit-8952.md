@@ -11,15 +11,18 @@ aliases:
   - "JRE 8952 Marunouchi"
 domain: real-estate-finance
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
 confidence: likely
 tags: [real-estate-finance, j-reit, jre, mitsubishi-estate, office, marunouchi, 8952]
 status: active
 sources:
   - "https://www.j-re.co.jp/"
   - "https://www.j-re.co.jp/english/"
+  - "https://www.j-re.co.jp/en_cms/about/index.html"
+  - "https://www.j-re.co.jp/en_cms/portfolio/statement.html"
+  - "https://www.j-re.co.jp/en_cms/finance/index.html"
   - "https://www.mec.co.jp/e/index.html"
   - "https://www.jpx.co.jp/english/markets/products/reit/index.html"
   - "https://www.ares.or.jp/en/"
@@ -30,88 +33,97 @@ sources:
 
 ## TL;DR
 
-**Japan Real Estate Investment Corporation (JRE, TSE J-REIT 8952)** is the **Mitsubishi Estate-sponsored flagship office J-REIT** — the structural twin to [[real-estate-finance/nippon-building-fund-j-reit-8951|Nippon Building Fund (NBF, 8951)]] and the listed proxy for **Mitsubishi Estate's Marunouchi office estate**. JRE is one of the **co-first-listed Japanese REITs** (September 2001 alongside NBF) and consistently ranks at the top tier of J-REIT by AUM. Its portfolio is anchored in **Marunouchi, Otemachi, and Yurakucho** — the heart of Mitsubishi Estate's century-plus institutional landbank — supplemented by Tokyo CBD office buildings outside the Marunouchi anchor and select secondary-city office holdings.
+**Japan Real Estate Investment Corporation (JRE, TSE J-REIT 8952)** is an office J-REIT whose asset manager is wholly owned by Mitsubishi Estate. JRE and [[real-estate-finance/nippon-building-fund-j-reit-8951|Nippon Building Fund (NBF, 8951)]] were the two first-listed Japanese REITs in September 2001. Any current size or geographic ranking must be calculated from same-date issuer data. JRE's stated investment policy allocates at least 70% to the Tokyo metropolitan area, but actual exposure must be measured from the current property list and must not be treated as a proxy for Mitsubishi Estate's wider Marunouchi landbank.
 
-The **MEC vs Mitsui** rivalry expressed at the listed-REIT layer through JRE vs NBF is the defining feature: both are conservative-LTV (low-to-mid 40% zone), AA-rated, premium-yield (low end of J-REIT yield distribution), foreign-investor-benchmark office J-REIT. The key contrast is **sponsor pipeline source** (Mitsubishi Estate's Marunouchi-and-adjacent-CBD vs Mitsui Fudosan's Otemachi-Nihonbashi-Shibuya-Shinjuku footprint) and **asset character** (JRE's Marunouchi anchor gives it the most direct listed exposure to Marunouchi-specific cap-rate dynamics — see [[real-estate-finance/mitsubishi-estate-financing-model|Mitsubishi Estate financing model]]).
+JRE and NBF provide a useful sponsor-model comparison, but any valuation, ownership, pipeline or sub-market conclusion must be built from same-date issuer disclosures. Sponsor arrangements can differ, and neither sponsor's wider landbank is a substitute for the REIT's current property list.
 
 ## Wiki route
 
-This entry sits under [[real-estate-finance/INDEX|real-estate-finance index]] as the **Mitsubishi Estate office J-REIT anchor**. Read it together with [[real-estate-finance/mitsubishi-estate-financing-model|Mitsubishi Estate financing model]] for the sponsor-side Marunouchi estate and asset-recycling layer, with [[real-estate-finance/nippon-building-fund-j-reit-8951|Nippon Building Fund (NBF, 8951)]] for the structural twin / Mitsui rivalry contrast, and with [[real-estate-finance/top-10-j-reit-overview-matrix|Top 10 J-REIT overview matrix]] for cross-J-REIT positioning. The governance frame is [[real-estate-finance/j-reit-vs-us-reit-governance-comparison|J-REIT vs US REIT governance comparison]] and [[real-estate-finance/j-reit-sponsor-structure-conflict|J-REIT sponsor structure and conflict]]. For diversified-portfolio contrast use [[real-estate-finance/nomura-real-estate-master-fund-nmf|Nomura Real Estate Master Fund]]; for logistics contrast use [[real-estate-finance/glp-j-reit-3281|GLP J-REIT (3281)]] and [[real-estate-finance/nippon-prologis-reit-3283|Nippon Prologis REIT (3283)]].
+This entry sits under [[real-estate-finance/INDEX|real-estate-finance index]] as the **Mitsubishi Estate office J-REIT anchor**. Read it together with [[real-estate-finance/mitsubishi-estate-financing-model|Mitsubishi Estate financing model]] for the sponsor-side Marunouchi estate and asset-recycling layer, with [[real-estate-finance/nippon-building-fund-j-reit-8951|Nippon Building Fund (NBF, 8951)]] for a same-vintage office-J-REIT comparison, and with [[real-estate-finance/top-10-j-reit-overview-matrix|Top 10 J-REIT overview matrix]] for cross-J-REIT positioning. The governance frame is [[real-estate-finance/j-reit-vs-us-reit-governance-comparison|J-REIT vs US REIT governance comparison]] and [[real-estate-finance/j-reit-sponsor-structure-conflict|J-REIT sponsor structure and conflict]]. For diversified-portfolio contrast use [[real-estate-finance/nomura-real-estate-master-fund-nmf|Nomura Real Estate Master Fund]]; for logistics contrast use [[real-estate-finance/glp-j-reit-3281|GLP J-REIT (3281)]] and [[real-estate-finance/nippon-prologis-reit-3283|Nippon Prologis REIT (3283)]].
 
 ## 1. Corporate identity
+
+Table evidence (reviewed 2026-07-29): [JRE corporate overview](https://www.j-re.co.jp/en_cms/about/index.html), [JRE corporate/financial disclosures](https://www.j-re.co.jp/en_cms/finance/index.html), [JRE portfolio data](https://www.j-re.co.jp/en_cms/portfolio/statement.html), and the [JPX listed-REIT directory](https://www.jpx.co.jp/english/equities/products/reits/issues/index.html).
 
 | Item | Detail |
 |---|---|
 | Ticker | TSE J-REIT **8952** |
 | Investment corporation | Japan Real Estate Investment Corporation (ジャパンリアルエステイト投資法人) |
-| Asset-management company | Japan Real Estate Asset Management Co., Ltd. (sponsor: Mitsubishi Estate) |
+| Asset-management company | Japan Real Estate Asset Management Co., Ltd.; Mitsubishi Estate owns 100% of its shares |
 | Sponsor | [[real-estate-finance/mitsubishi-estate-financing-model|Mitsubishi Estate]] (TSE Prime 8802) |
 | Listing date | September 2001 (co-first-listed alongside NBF) |
-| Asset focus | Office buildings — Tokyo CBD core with strong Marunouchi anchor |
-| Asset administration trustee | Trust-bank trustee — [[trust-banks/mitsubishi-ufj-trust-bank|MUFG Trust]] / [[trust-banks/sumitomo-mitsui-trust|SMTB]] / [[trust-banks/mizuho-trust-bank|Mizuho Trust]] varies by property |
-| Rating | High investment-grade by [[financial-regulators/jcr|JCR]] / [[financial-regulators/rating-and-investment|R&I]]; AA-zone domestic rating typical |
-| Index inclusion | TSE REIT Index, TSE REIT Office Index, GPR / FTSE EPRA Nareit Developed Asia |
+| Investment scope | Office buildings; policy allocation is at least 70% to Tokyo/Kanagawa/Chiba/Saitama and no more than 30% to other major cities |
+| Investment-corporation asset custodian | [[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust and Banking Corporation]] |
+| General administrator | Mitsubishi UFJ Trust and Banking Corporation for the investor list, general affairs and accounting |
+| Property-level trust trustee | A separate asset-level role for property held through trust beneficial interests; identify it only from the applicable property/title disclosure |
+| Rating | JCR **AA+**, R&I **AA**, S&P **A+** as of 2026-03-31 |
+| Index inclusion | Verify current inclusion directly from each index provider's dated constituent list |
 
 ## 2. Portfolio composition
 
+Table evidence (reviewed 2026-07-29; figures as of 2026-03-31): [JRE portfolio data](https://www.j-re.co.jp/en_cms/portfolio/statement.html). Occupancy was 98.9%, appraisal value ¥1,447.290 billion, book value ¥1,082.573 billion, and tenant count 1,674.
+
 | Axis | JRE pattern |
 |---|---|
-| Asset class | Office (overwhelmingly) |
-| Geographic concentration | Tokyo 23 wards (heavy weight); secondary cities at smaller scale |
-| Tokyo sub-market focus | **Marunouchi / Otemachi / Yurakucho** (Mitsubishi Estate core territory), plus other CBD sub-markets |
-| Property size | Large multi-tenant office buildings; many in or adjacent to the Marunouchi estate |
-| Acquisition pipeline source | Predominantly from Mitsubishi Estate sponsor pipeline (asset-recycling) |
-| Property age | Mix of older stabilized assets in Marunouchi area and newer redevelopment-completion buildings |
+| Asset class | Office buildings, as stated in JRE's investment scope |
+| Geographic concentration | Policy: Tokyo metropolitan area at least 70%, other major cities no more than 30%; calculate the actual current mix separately |
+| Tokyo sub-market focus | Calculate from the current property list using a stated denominator |
+| Property size and tenant structure | Calculate from current property and tenant data; do not generalize every building as large or multi-tenant |
+| Portfolio snapshot | 98.9% occupancy, ¥1,447.290 billion appraisal value, ¥1,082.573 billion book value, 1,674 tenants |
+| Acquisition source | Classify each dated acquisition from its transaction disclosure; sponsor affiliation alone does not identify the seller or establish a committed pipeline |
 
-The Marunouchi anchor is the most distinctive feature: very few other listed J-REIT have meaningful Marunouchi-specific exposure (Mitsubishi Estate is the dominant Marunouchi landowner). JRE therefore acts as the listed proxy for Marunouchi cap-rate movements.
+Any sponsor-support right must be read from the current agreement and separated from completed transactions. Exposure must be measured from JRE's property-level portfolio rather than inferred from Mitsubishi Estate's broader Marunouchi ownership.
 
 ## 3. Capital and leverage
 
+Table evidence (reviewed 2026-07-29; figures as of 2026-03-31): [JRE financial data](https://www.j-re.co.jp/en_cms/finance/index.html). Total assets were ¥1,122.234 billion, debt was ¥503.193 billion, LTV was 44.8%, and the disclosed ratings were JCR AA+, R&I AA and S&P A+.
+
 | Item | JRE pattern |
 |---|---|
-| LTV policy band | Conservative — typically low-to-mid 40% zone |
-| Debt mix | Bank loans (megabank + trust-bank syndicate, frequently led by [[megabanks/mufg-bank|MUFG Bank]] given the Mitsubishi-group affiliation) plus public investment-corporation bonds |
-| Bond curve | AA-zone domestic-rating tight spreads; benchmark issuance for office-J-REIT segment alongside NBF |
-| Sponsor support stake | Mitsubishi Estate retains a sponsor-support unit-holder stake (single-digit percent typical) |
-| Distribution policy | Semi-annual DPU; J-REIT 90% pass-through |
-| Foreign-investor share | High — benchmark Japan office name in global REIT mandates |
+| LTV snapshot | **44.8%** as of 2026-03-31 |
+| Debt mix | Bank loans plus public investment-corporation bonds; lender and facility details must be read from the current debt schedule |
+| Bond curve | Compare dated JRE bond terms with matched office-J-REIT issues; do not assume benchmark status |
+| Sponsor support stake | Use JRE's dated major-unit-holder disclosure; do not substitute a typical sponsor percentage |
+| Distribution policy | Fiscal periods end in March and September; tax deductibility is subject to statutory conduit conditions, including the applicable greater-than-90% distribution test |
+| Foreign-investor share | Use JRE's dated unit-holder disclosure; market-wide investor-flow data is not an issuer ownership percentage |
 
 ## 4. Top-tenant exposure
 
 | Tenant-concentration metric | JRE pattern |
 |---|---|
-| Sponsor as tenant | Limited; Mitsubishi Estate is sponsor and developer, not a major rent-paying tenant |
-| Tenant industry mix | Diversified — financial services particularly relevant given Marunouchi exposure (megabank HQs and financial-sector tenants cluster in the Marunouchi-Otemachi area) |
-| Tenant lease structure | Standard Japanese fixed-term lease with periodic rent reset |
+| Sponsor as tenant | Check the current major-tenant and related-party disclosures; sponsor status alone does not establish rental exposure |
+| Tenant industry mix | Use JRE's current tenant disclosure and property-level data rather than inferring the mix from a district label |
+| Tenant lease structure | Contract- and property-specific; confirm from issuer disclosure where material |
 
-## 5. JRE vs NBF — the MEC vs Mitsui rivalry proxy
+## 5. JRE vs NBF — same-vintage office-J-REIT comparison
+
+Table evidence (reviewed 2026-07-29): [JRE portfolio and finance disclosures](https://www.j-re.co.jp/en_cms/portfolio/statement.html), [NBF portfolio disclosures](https://www.nbf-m.com/nbf_e/), and [JPX listing data](https://www.jpx.co.jp/english/equities/products/reits/issues/index.html). Qualitative sub-market labels are not a substitute for each issuer's property list.
 
 | Axis | JRE (Mitsubishi Estate) | NBF (Mitsui Fudosan) |
 |---|---|---|
 | Ticker | 8952 | 8951 |
 | Sponsor | [[real-estate-finance/mitsubishi-estate-financing-model|Mitsubishi Estate]] | [[real-estate-finance/mitsui-fudosan-financing-model|Mitsui Fudosan]] |
 | Listing date | September 2001 (co-first) | September 2001 (co-first) |
-| Tokyo sub-market anchor | **Marunouchi / Otemachi / Yurakucho** | Otemachi / Nihonbashi / Shibuya / Shinjuku |
-| Pipeline | Mitsubishi Estate asset-recycling | Mitsui Fudosan asset-recycling |
-| AUM scale | Top tier | Top tier |
-| LTV | Low-to-mid 40% | Low-to-mid 40% |
-| DPU yield zone | Premium | Premium |
-| Foreign-investor profile | Benchmark Japan office | Benchmark Japan office |
-| Distinctive feature | Marunouchi anchor (Mitsubishi Estate institutional landbank) | Broader CBD footprint with redevelopment-completion contributions |
+| Geographic exposure | Calculate from the same-date property lists using the same denominator | Calculate from the same-date property lists using the same denominator |
+| Acquisition source | Classify dated transactions and read the current sponsor-support agreement | Classify dated transactions and read the current sponsor-support agreement |
+| AUM scale | Compare same-date issuer figures | Compare same-date issuer figures |
+| LTV | Use the current issuer definition and date | Use the current issuer definition and date |
+| DPU yield | Compare market price, DPU definition and date consistently | Compare market price, DPU definition and date consistently |
+| Foreign-investor profile | Use dated JRE unit-holder disclosure | Use dated NBF unit-holder disclosure |
+| Distinctive feature | Derive sub-market exposure from JRE's current property list | Derive sub-market exposure from NBF's current property list |
 
-Both names compete head-on for investment-corporation-bond issuance, foreign-investor allocation, and AUM ranking. Their similar conservative LTV / AA-rating / premium-DPU profile is a function of the parallel structural model both sponsors apply (see [[real-estate-finance/mitsui-fudosan-financing-model|Mitsui Fudosan financing model]] and [[real-estate-finance/mitsubishi-estate-financing-model|Mitsubishi Estate financing model]]).
+For a defensible comparison, align the reporting date, leverage definition, rating, debt maturity, property mix, market price, DPU and investor-ownership source. Sponsor affiliation is context, not proof of identical financing or valuation outcomes.
 
 ## 6. Why Marunouchi exposure matters
 
-Marunouchi is a distinct Tokyo office sub-market with several structural features:
+Marunouchi can matter only to the extent that JRE's dated portfolio has measurable exposure there. Mitsubishi Estate's broader district ownership and development plans do not automatically transmit to JRE.
 
-- Concentration of megabank headquarters ([[megabanks/mufg-bank|MUFG Bank]], [[megabanks/mizuho-bank|Mizuho Bank]] HQ in adjacent Otemachi), large life-insurer headquarters, and major Japanese corporate HQs.
-- Effectively single-landlord ownership pattern around the Marunouchi anchor estate (Mitsubishi Estate is dominant).
-- Cap-rate behavior often tighter than broader Tokyo CBD given trophy-asset characteristics.
-- Tenant retention rate structurally high due to address prestige and clustering effects.
-- Redevelopment pipeline visibility from Mitsubishi Estate's master-plan for the Marunouchi area.
+- Identify JRE-owned properties from the current portfolio list and separate them from sponsor-owned buildings.
+- Measure acquisition price, book value, appraisal value, NOI and occupancy for the identified properties where disclosed.
+- Check tenant and lease disclosures rather than inferring retention or industry mix from address prestige.
+- Treat sponsor redevelopment and any disclosed support rights as context only; verify the agreement and each transaction rather than treating them as JRE ownership or a committed acquisition.
 
-JRE's exposure to these features makes its NAV and DPU more directly sensitive to Marunouchi-specific dynamics than other listed office J-REIT.
+Any claim that JRE is more sensitive to Marunouchi than another office J-REIT requires a same-date, property-level exposure comparison.
 
 ## Related
 
@@ -135,7 +147,7 @@ JRE's exposure to these features makes its NAV and DPU more directly sensitive t
 
 ## Sources
 
-- JRE — official site https://www.j-re.co.jp/ and English IR.
+- JRE — official site https://www.j-re.co.jp/, corporate overview, portfolio and financial disclosures.
 - Mitsubishi Estate IR — https://www.mec.co.jp/e/index.html
 - JPX — REIT Market English landing.
 - ARES — English landing.

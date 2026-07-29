@@ -24,9 +24,9 @@
     "domain": "finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "finance",
@@ -44,15 +44,16 @@
     "note": null,
     "sources": [
       "https://www.fsa.go.jp/en/refer/councils/corporategovernance/index.html",
-      "https://www.fsa.go.jp/en/news/2024/20240426/01.html",
+      "https://www.fsa.go.jp/en/news/2025/20250630-1.html",
+      "https://www.fsa.go.jp/news/r7/sonota/20260327.html",
       "https://www.jpx.co.jp/english/equities/listing/cg/index.html",
-      "https://www.jpx.co.jp/english/equities/listing/cg/tvdivq00000098ja-att/cgcode_e_20210611.pdf",
+      "https://www.jpx.co.jp/english/corporate/news/news-releases/1020/20260721-01.html",
       "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/fair-ma-rule/ma-guideline-publications.html",
       "https://www.jpx.co.jp/english/equities/listing/disclosure/tdnet/index.html",
       "https://www.jpx.co.jp/english/listing/co-search/",
       "https://disclosure2.edinet-fsa.go.jp/",
-      "https://www.boj.or.jp/en/research/wps_rev/lab/lab23e01.htm",
-      "https://www.nta.go.jp/english/taxes/individual/12010.htm"
+      "https://www.asb-j.jp/jp/accounting_standards_system/details.html?topics_id=109",
+      "https://www.ifrs.org/news-and-events/news/2018/04/ifrs-9-and-equity-investments/"
     ]
   },
   "summary": "This page sits under finance domain. Read it with listed financial groups investable universe for the bank / insurer issuer side, Japan activist investor playbook for the activist-pressure interface, fair disclosure controls for the disposal-timing information handling, convertible bond mechanics fo",
@@ -63,8 +64,8 @@
     "What counts as policy-holding stock",
     "Regulatory pressure trajectory",
     "IFRS 9 (for issuers applying IFRS)",
-    "Revised JGAAP",
-    "Tax-efficient disposal routes",
+    "Japanese GAAP (other securities)",
+    "Disposal-route diligence",
     "Strategic signal in unwinding",
     "Peer comparison framework"
   ],
@@ -122,13 +123,25 @@
       "https://finwiki.zksc.io/ja/megabanks/smfg/",
       "https://finwiki.zksc.io/ja/securities/japan-underwriting-market-structure/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 11,
+    "external_links": [
+      "https://disclosure2.edinet-fsa.go.jp/",
+      "https://www.asb-j.jp/jp/accounting_standards_system/details.html?topics_id=109",
+      "https://www.fsa.go.jp/common/shinsei/tairyohoyu/index.html",
+      "https://www.fsa.go.jp/en/news/2025/20250630-1.html",
+      "https://www.fsa.go.jp/en/refer/councils/corporategovernance/index.html",
+      "https://www.fsa.go.jp/news/r7/sonota/20260327.html",
+      "https://www.jpx.co.jp/english/corporate/news/news-releases/1020/20260721-01.html",
+      "https://www.jpx.co.jp/english/equities/listing/cg/index.html",
+      "https://www.jpx.co.jp/english/equities/listing/disclosure/tdnet/index.html",
+      "https://www.jpx.co.jp/english/equities/trading/tostnet/index.html",
+      "https://www.jpx.co.jp/english/news/1020/20260428-01.html"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 12833,
-    "word_like_tokens": 1912,
+    "nonspace_chars": 17815,
+    "word_like_tokens": 2854,
     "inbound_wikilinks_count": 18,
-    "last_modified": "2026-06-15"
+    "last_modified": "2026-07-30"
   }
 }

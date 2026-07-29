@@ -28,9 +28,9 @@
     "domain": "finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "finance",
@@ -52,25 +52,28 @@
       "https://www.jpx.co.jp/equities/listing/disclosure/tdnet/index.html",
       "https://disclosure.edinet-fsa.go.jp/",
       "https://www.fsa.go.jp/en/laws_regulations/index.html",
-      "https://www.kkr.com/our-firm/locations/tokyo",
-      "https://www.bain.com/offices/tokyo/",
+      "https://www.kkr.com/locations",
+      "https://www.baincapital.com/locations",
       "https://www.carlyle.com/where-we-are-located/japan",
       "https://www.advantagepartners.com/en/",
       "https://www.j-star.co.jp/en/",
-      "https://www.polaris-cap.com/en/",
-      "https://www.integralcorp.jp/en/",
-      "https://www.j-ic.co.jp/en/business/jic-capital/",
+      "https://polaris-cg.com/us/",
+      "https://www.integralkk.com/en/",
+      "https://www.jiccapital.co.jp/en/",
       "https://www.collercapital.com/",
       "https://www.ardian.com/",
-      "https://www.macquarie.com/au/en/expertise/macquarie-asset-management.html",
-      "https://www.globalinfra.com/",
+      "https://www.macquarie.com/us/en/about/company/macquarie-asset-management/capabilities.html",
       "https://www.apollo.com/",
       "https://www.blackstone.com/",
       "https://www.aresmgmt.com/",
-      "https://www.dbj.jp/en/"
+      "https://www.dbj.jp/en/",
+      "https://www.meti.go.jp/english/policy/economy/startup_nbp/limitedpartners.html",
+      "https://www.japaneselawtranslation.go.jp/en/laws/view/5019/en",
+      "https://www.fsa.go.jp/news/r6/ginkou/20250630-2/250630-2.html",
+      "https://ilpa.org/industry-guidance/principles-best-practices/continuation-funds/"
     ]
   },
-  "summary": "Japan's private capital universe is NOT one asset class; it is at least six distinct sub-strategies (buyout, growth, secondaries, continuation, infrastructure, private credit) and three distinct GP archetypes (global mega-PE Japan team, domestic independent GP, policy-aligned / state-affiliated GP)",
+  "summary": "Japan's private-capital universe is not one asset class. This page distinguishes buyout, growth, secondaries, continuation, infrastructure, and private credit, and separates global, domestic-independent, and policy-aligned GP archetypes. It compares the diligence fields for fund type, target profile",
   "headings": [
     "Japan private equity fund structure matrix",
     "TL;DR",
@@ -133,13 +136,36 @@
       "https://finwiki.zksc.io/ja/securities/japan-prime-brokerage-and-institutional-financing/",
       "https://finwiki.zksc.io/ja/trust-banks/smtb/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 22,
+    "external_links": [
+      "https://disclosure.edinet-fsa.go.jp/",
+      "https://ilpa.org/industry-guidance/principles-best-practices/continuation-funds/",
+      "https://ilpa.org/industry-guidance/templates-standards-model-documents/ilpa-templates-hub/ilpa-reporting-template/",
+      "https://polaris-cg.com/us/",
+      "https://www.advantagepartners.com/en/",
+      "https://www.apollo.com/",
+      "https://www.ardian.com/",
+      "https://www.aresmgmt.com/",
+      "https://www.baincapital.com/locations",
+      "https://www.blackstone.com/",
+      "https://www.carlyle.com/where-we-are-located/japan",
+      "https://www.collercapital.com/",
+      "https://www.dbj.jp/en/",
+      "https://www.fsa.go.jp/news/r6/ginkou/20250630-2/250630-2.html",
+      "https://www.integralkk.com/en/",
+      "https://www.j-star.co.jp/en/",
+      "https://www.japaneselawtranslation.go.jp/en/laws/view/5019/en",
+      "https://www.jiccapital.co.jp/en/",
+      "https://www.jpx.co.jp/equities/listing/disclosure/tdnet/index.html",
+      "https://www.kkr.com/locations",
+      "https://www.macquarie.com/us/en/about/company/macquarie-asset-management/capabilities.html",
+      "https://www.meti.go.jp/english/policy/economy/startup_nbp/limitedpartners.html"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 27892,
-    "word_like_tokens": 4412,
+    "nonspace_chars": 32989,
+    "word_like_tokens": 5019,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-07-30"
   }
 }

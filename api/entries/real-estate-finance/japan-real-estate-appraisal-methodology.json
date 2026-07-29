@@ -28,9 +28,9 @@
     "domain": "real-estate-finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "real-estate-finance",
@@ -46,26 +46,28 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.ares.or.jp/en/",
+      "https://www.ares.or.jp/action/jreit/",
       "https://www.reinet.or.jp/",
-      "https://www.mlit.go.jp/totikensangyo/totikensangyo_tk2_000001.html",
-      "https://www.jpx.co.jp/english/markets/products/reit/index.html",
+      "https://www.mlit.go.jp/totikensangyo/totikensangyo_tk4_000024.html",
+      "https://www.asb-j.jp/en/accounting_standards/y2008/2008-1128.html",
+      "https://www.jpx.co.jp/english/equities/products/reits/guidebook/b5b4pj000003984r-att/REIT.pdf",
+      "https://www.jpx.co.jp/english/equities/products/reits/",
       "https://www.fsa.go.jp/en/",
       "https://www.reinet.or.jp/pdf/REIS/publication_data50th.pdf"
     ]
   },
-  "summary": "Japan real-estate appraisal practice follows the 不動産鑑定評価基準 (Real Estate Appraisal Standards) issued by MLIT, which requires three approaches to value — income approach (DCF + direct capitalization), comparison approach (transaction comparables), and cost approach (replacement cost net of depreciatio",
+  "summary": "Japan real-estate appraisal practice follows MLIT's 不動産鑑定評価基準 and reconciles income, comparison, and cost evidence according to the property and available data. For J-REIT analysis, keep accounting book value separate from appraisal-based fair-value NAV: JPX's 2026 guidebook expressly distinguishes",
   "headings": [
     "Japan real-estate appraisal methodology",
     "TL;DR",
     "Wiki route",
     "Real Estate Appraisal Standards",
-    "Independence rules",
+    "Independence and conflict review",
     "Method outline",
     "Key sensitivities",
     "DCF in J-REIT practice",
     "Method outline",
-    "Cap rate sourcing — JREI cap-rate survey"
+    "Cap-rate survey context — JREI"
   ],
   "body_links": {
     "wikilinks_count": 21,
@@ -118,9 +120,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 13928,
-    "word_like_tokens": 2246,
+    "nonspace_chars": 18017,
+    "word_like_tokens": 2923,
     "inbound_wikilinks_count": 14,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-30"
   }
 }

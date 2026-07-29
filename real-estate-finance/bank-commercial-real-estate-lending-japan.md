@@ -10,9 +10,9 @@ aliases:
   - "Japan project finance real estate"
 domain: real-estate-finance
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
 confidence: likely
 tags: [real-estate-finance, cre, lending, banking, megabank, trust-bank, regional-bank, project-finance]
 status: active
@@ -25,149 +25,152 @@ sources:
   - "https://www.mizuho-fg.com/investors/index.html"
   - "https://www.smtb.jp/english/investors"
   - "https://www.tr.mufg.jp/english/ir/"
+  - "https://www.boj.or.jp/en/research/brp/fsr/fsr230421.htm"
+  - "https://www.boj.or.jp/en/research/brp/fsr/fsr240418a.htm"
+  - "https://www.boj.or.jp/en/research/brp/fsr/fsr260421.htm"
 ---
 
 # Japan bank commercial real estate lending
 
 ## TL;DR
 
-Japan commercial real-estate (CRE) lending is a layered system. Megabanks anchor large project finance and J-REIT sponsor loans. Trust banks bridge balance-sheet lending with real-estate trust functions, appraisal, and asset administration. Regional banks have grown CRE concentration to offset core net-interest-margin compression, which is a recurring [[banking/INDEX|banking supervisor]] concern. Underwriting practice is centred on loan-to-value (LTV) caps and debt-service-coverage (DSCR) targets, with post-2008 supervisory tightening, post-pandemic concentration monitoring, and post-NIRP rate-normalisation stress all visible in [[banking/INDEX|FSR / FSA]] commentary. This page is route-and-link; specific exposure figures and underwriting terms must be verified against megabank IR and the BoJ Financial System Report before use.
+Japan commercial real-estate (CRE) credit can involve megabanks, trust banks, regional banks, policy lenders, foreign banks, and non-bank capital. Roles, exposure, recourse, LTV, DSCR, pricing, tenor, guarantees, and collateral are lender-, borrower-, facility-, asset-, and date-specific. BOJ Financial System Reports and FSA materials provide system-risk context; each lender's dated IR and the executed facility documents control any institution- or deal-level conclusion. This page is a verification route, not a league table, market-share estimate, or statement of current approval standards.
 
 ## Wiki route
 
-This entry sits under [[real-estate-finance/INDEX]] and routes to bank-side counterparties on [[banking/INDEX]]. Read against [[real-estate-finance/j-reit-market-overview]] for sponsor-side bank lending into the listed J-REIT universe, [[real-estate-finance/real-estate-private-credit-japan]] for the non-bank private-credit alternative, [[real-estate-finance/real-estate-cap-rate-compression-2026]] for the valuation backdrop driving LTV / DSCR ratios, and [[real-estate-finance/japan-real-estate-appraisal-methodology]] for the appraisal floor used in CRE underwriting. Megabank-side anchors are [[megabanks/mufg-bank]], [[megabanks/sumitomo-mitsui-banking-corp]], and [[megabanks/mizuho-bank]]; trust-side anchors are [[trust-banks/sumitomo-mitsui-trust]] and [[trust-banks/mitsubishi-ufj-trust-bank]]; policy-finance anchor is [[financial-regulators/dbj]]. Regional-bank concentration drivers route to [[banking/regional-bank-consolidation-pattern]]. Insurer competitor / co-lender map sits at [[insurance/japan-life-insurance-alm-overview]]. Funding-cost backdrop sits at [[money-market/japan-money-market]].
+This entry sits under [[real-estate-finance/INDEX]] and routes to bank-side counterparties on [[banking/INDEX]]. Read against [[real-estate-finance/j-reit-market-overview]] for the listed J-REIT context, [[real-estate-finance/real-estate-private-credit-japan]] for non-bank private credit, [[real-estate-finance/real-estate-cap-rate-compression-2026]] for valuation scenarios, and [[real-estate-finance/japan-real-estate-appraisal-methodology]] for appraisal evidence used in underwriting. Institution routes include [[megabanks/mufg-bank]], [[megabanks/sumitomo-mitsui-banking-corp]], [[megabanks/mizuho-bank]], [[trust-banks/sumitomo-mitsui-trust]], [[trust-banks/mitsubishi-ufj-trust-bank]], and [[financial-regulators/dbj]]. Regional-bank structure routes to [[banking/regional-bank-consolidation-pattern]]. The insurer context sits at [[insurance/japan-life-insurance-alm-overview]], and the funding-rate context at [[money-market/japan-money-market]].
 
 ## Bank-Side Structural Map
 
-| Lender class | Functional role | CRE positioning |
+Table source note: The classes are research routes, not evidence that every institution performs each function or holds a stated market position. Confirm legal entity, product, geography, balance-sheet exposure, and role from dated BOJ/FSA and institution disclosures. ^[Sources: https://www.boj.or.jp/en/research/brp/fsr/fsr240418a.htm, https://www.fsa.go.jp/en/news/index.html, https://www.mufg.jp/english/ir/index.html, https://www.smfg.co.jp/english/investor/, and https://www.mizuho-fg.com/investors/index.html.]
+
+| Lender class | Possible functions to verify | Evidence check |
 |---|---|---|
-| Megabanks ([[megabanks/mufg-bank]], [[megabanks/sumitomo-mitsui-banking-corp]], [[megabanks/mizuho-bank]]) | Large balance sheets, syndicated project finance, J-REIT sponsor lending, overseas CRE arms. | Anchor underwriters for prime Tokyo / Osaka office, logistics, hospitality, large mixed-use. |
-| Trust banks ([[trust-banks/sumitomo-mitsui-trust]], [[trust-banks/mitsubishi-ufj-trust-bank]]) | Trust-account lending plus real-estate brokerage, appraisal, and asset administration. | Bridge between balance-sheet lending, real-estate trust schemes (TMK / GK-TK), and pension / institutional client allocation. |
-| Regional banks | Local SME credit, real-estate-secured term loans, plus growing apartment-loan and Tokyo-CRE participation. | Concentration risk where CRE share of loan book rises to offset domestic NIM compression. |
-| Policy / development banks ([[financial-regulators/dbj]]) | Policy-linked project finance, infrastructure, urban redevelopment co-lending. | Co-lender / lead-arranger for large urban-redevelopment and logistics projects with policy alignment. |
-| Foreign banks | Cross-border CRE finance, J-REIT senior tranches, mezzanine, and warehouse facilities. | Niche, often paired with foreign private-credit GPs covered in [[real-estate-finance/real-estate-private-credit-japan]]. |
+| Megabanks ([[megabanks/mufg-bank]], [[megabanks/sumitomo-mitsui-banking-corp]], [[megabanks/mizuho-bank]]) | Corporate, syndicated, non-recourse, project, or overseas CRE credit where disclosed | Identify the contracting entity, booked geography, borrower, recourse, asset, and role |
+| Trust banks ([[trust-banks/sumitomo-mitsui-trust]], [[trust-banks/mitsubishi-ufj-trust-bank]]) | Lending, trust, brokerage, appraisal, custody, or administration where the entity is licensed and engaged | Separate lender, trustee, broker, appraiser, and administrator roles; do not infer bundling |
+| Regional banks | Local corporate, real-estate-secured, apartment, fund, or out-of-area credit where disclosed | Measure CRE definitions and concentration from the named bank and period; do not infer a NIM motive |
+| Policy / development banks ([[financial-regulators/dbj]]) | Policy-linked finance or co-finance where a project disclosure identifies participation | Verify mandate, instrument, amount, ranking, and arranger/co-lender role |
+| Foreign banks | Cross-border, senior, mezzanine, warehouse, or other facilities where disclosed | Establish Japan exposure and actual role; nationality does not prove a niche or pairing with [[real-estate-finance/real-estate-private-credit-japan|private credit]] |
 
 ## Project Finance vs Corporate Finance
 
+Table source note: The comparison follows BOJ's description of non-recourse real-estate-fund lending versus corporate loans. Tenor, recourse, covenants, and pricing remain facility-specific; 5-10 years is only an illustrative tenor case. ^[Source: https://www.boj.or.jp/en/research/brp/fsr/fsr230421.htm.]
+
 | Dimension | Project finance | Corporate finance |
 |---|---|---|
-| Borrower | Special-purpose vehicle (TMK, GK-TK, or LLP) holding a defined asset / portfolio. | Operating corporate balance sheet. |
-| Recourse | Limited to project cashflow and asset, with sponsor support letters and completion guarantees. | Full corporate recourse to all unencumbered assets. |
-| Underwriting metric | Loan-to-value (LTV), debt-service-coverage (DSCR), interest-coverage (ICR), debt yield. | Corporate leverage (net debt / EBITDA), interest coverage, balance-sheet quality. |
-| Tenor | 5 - 10 years typical with bullet / partial-amortisation. | Revolver, term, or bond-style, often shorter for revolver. |
-| Pricing | Senior margin over reference rate, often higher than corporate; subordinated tranches priced wider. | Corporate-credit spreads, tighter for prime corporates. |
-| Use case | Single-asset acquisitions, J-REIT sponsor warehouse, large redevelopment, logistics portfolios. | Listed developer / REIT corporate facilities, working capital, refi of bond stack. |
+| Borrower | May be a special-purpose entity holding a defined asset or portfolio; identify its exact legal form. | The named operating or holding company. |
+| Recourse | Read all guarantees, completion support, bad-boy carve-outs, indemnities, cash controls, and security; “non-recourse” is not absolute. | Determine recourse, guarantees, negative pledge, security, and structural subordination from the facility. |
+| Underwriting metric | Possible metrics include LTV, DSCR, ICR, debt yield, sponsor support, and completion or operating tests. | Possible metrics include leverage, coverage, liquidity, covenants, security, and group support. |
+| Tenor | Use contractual maturity, amortisation, extension conditions, and tail; five to ten years is only an illustrative model range. | Use the actual revolver, term-loan, or other facility maturity and renewal terms. |
+| Pricing | Record reference rate, margin, fees, floors, step-ups, hedging, and tranche ranking. | Record the same facility-specific components; no relative pricing direction is presumed. |
+| Use case | Possible cases include asset acquisition, warehouse, redevelopment, or portfolio finance. | Possible cases include corporate facilities, working capital, acquisition, or refinancing. |
 
-CRE project finance dominates J-REIT sponsor lending, [[real-estate-finance/real-estate-private-credit-japan|private-credit-co-invested]] deals, and large redevelopment. Listed developer / REIT corporate finance sits more on the bond-and-loan side and is read against [[finance/japan-private-equity-fund-structure-matrix]] when sponsor LBO / take-private logic is involved.
+Classify each facility from its borrower, recourse, security, and cash-flow terms rather than the sponsor or asset label. Read any [[real-estate-finance/real-estate-private-credit-japan|private-credit]] participation and [[finance/japan-private-equity-fund-structure-matrix|sponsor structure]] from the named transaction.
 
 ## Loan-to-Value (LTV) Underwriting Range
 
-| Asset class | Senior LTV class | Total LTV (senior plus mezz) | Why the range |
-|---|---|---|---|
-| Prime Tokyo office (CBD core) | 55 - 65% | 70 - 75% | Lower cap rate, deep liquidity, foreign-buyer support; senior lenders accept modestly higher LTV. |
-| Tokyo / Osaka logistics | 55 - 65% | 70 - 75% | Long-WAULT institutional tenants, e-commerce-driven demand, stable cashflow. |
-| Tokyo residential (rental) | 60 - 70% | 75 - 80% | Long-term occupancy stability, fragmented tenant base, lower cashflow volatility. |
-| Osaka / regional-city office | 50 - 60% | 65 - 70% | Thinner buyer base, higher cap rate, tenant concentration risk. |
-| Hospitality (hotels, ryokans) | 45 - 55% | 60 - 70% | Operating-cashflow volatility, RevPAR sensitivity, COVID-era memory. |
-| Retail (prime urban) | 50 - 60% | 65 - 70% | Tenant-mix risk and rent-reset cycle. |
+Table source note: The numeric bands are illustrative stress-grid inputs as of 2026-07-29, not observed bank terms, approval limits, or market distributions. BOJ identifies LTV/DSCR, property cash flow/value, sponsor quality, location, and operator capability as risk inputs but does not publish these bands; replace them with the actual credit proposal. ^[Source: https://www.boj.or.jp/en/research/brp/fsr/fsr230421.htm.]
 
-These are class descriptors only. Actual underwriting LTVs vary by sponsor, asset quality, lease maturity, and current cap-rate environment per [[real-estate-finance/real-estate-cap-rate-compression-2026]].
+| Asset class | Senior LTV model input | Total LTV model input (senior plus mezz) | Variables to test |
+|---|---|---|---|
+| Prime Tokyo office (CBD core) | 55 - 65% | 70 - 75% | Appraised value, leases, tenants, capex, liquidity evidence, sponsor, and refinance case |
+| Tokyo / Osaka logistics | 55 - 65% | 70 - 75% | Appraised value, WAULT definition, tenant credit/concentration, capex, and reletting case |
+| Tokyo residential (rental) | 60 - 70% | 75 - 80% | Appraised value, occupancy, rent roll, turnover, expenses, capex, and local liquidity |
+| Osaka / regional-city office | 50 - 60% | 65 - 70% | Appraised value, tenant concentration, lease events, capex, and sale/refinance evidence |
+| Hospitality (hotels, ryokans) | 45 - 55% | 60 - 70% | Ownership/management contracts, revenue and cost scenarios, capex, and operator credit |
+| Retail (prime urban) | 50 - 60% | 65 - 70% | Tenant mix, lease structure, sales linkage, reletting, capex, and valuation evidence |
+
+These percentages are hypothetical sensitivity inputs only, not asset-class descriptors or observed underwriting ranges. Replace them with evidence for the named sponsor, asset, leases, valuation date, and facility; use [[real-estate-finance/real-estate-cap-rate-compression-2026]] only as a separate cap-rate evidence route.
 
 ## Debt-Service-Coverage (DSCR) and Interest-Coverage Floors
 
-| Metric | Typical floor | Reading |
+Table source note: The values are illustrative covenant/stress assumptions as of 2026-07-29, not current market floors. BOJ confirms use of DSCR and LTV in real-estate-fund loan risk management; actual definitions, cure rights, and thresholds come from the facility documents. ^[Source: https://www.boj.or.jp/en/research/brp/fsr/fsr230421.htm.]
+
+| Metric | Illustrative test input | Reading |
 |---|---|---|
-| DSCR (senior) | 1.30 - 1.50x | Operating cashflow vs senior debt service; tighter for higher-volatility assets. |
+| DSCR (senior) | 1.30 - 1.50x | Operating cashflow vs senior debt service; whether a lender sets a tighter threshold for a higher-volatility asset is a hypothesis to verify in the named facility or credit evidence. |
 | DSCR (total) | 1.10 - 1.25x | Operating cashflow vs senior plus mezz / preferred-equity service. |
 | Interest coverage ratio (ICR) | 2.0 - 3.0x | Operating cashflow vs interest only; relevant for bullet-structured deals. |
 | Debt yield | 8 - 10% | NOI / total debt, lender-side stress metric independent of cap rate. |
 
-DSCR floors stress-test rate normalisation. Post-NIRP unwind has raised reference rates from negative / zero territory; DSCR tested under hypothetical +100 to +200bp shock is now a standard covenant review per [[banking/INDEX|FSR]] commentary. Read in conjunction with [[money-market/japan-money-market]] for the funding-cost reference path.
+DSCR scenarios should test facility-relevant upward and downward rate moves, reset/floor/cap mechanics, reference-rate and margin basis, hedge mismatch, and refinancing basis. A +100 to +200bp shock remains an illustrative sensitivity, not a BOJ-mandated covenant test. Read in conjunction with [[money-market/japan-money-market]] for the funding-cost reference path.
 
-## Post-2008 Supervisory Tightening
+## Supervisory and Historical Review
 
-The 2008 - 2009 cycle exposed three structural issues:
+Do not infer current rules from a crisis label. For any claim about the 2008 - 2009 cycle or a 2009 - 2015 supervisory response, identify the dated BOJ/FSA document, institution, portfolio definition, and effective requirement.
 
-1. CRE-concentration risk at regional banks where loan-book share of real estate exceeded prudent thresholds;
-2. mark-to-market volatility on real-estate-secured collateral as cap rates widened;
-3. cross-collateralisation and complex GK-TK / TMK structures that complicated workout.
+Table source note: The rows are a historical-document review grid, not claims that a uniform tightening occurred or that a requirement remains in force. Current BOJ/FSA publications and the named bank's risk policies control. ^[Sources: https://www.boj.or.jp/en/research/brp/fsr/index.htm and https://www.fsa.go.jp/en/news/index.html.]
 
-Supervisory response over 2009 - 2015 (BoJ FSR, FSA inspection focus) tightened:
-
-| Area | Tightening |
+| Area | Evidence to extract |
 |---|---|
-| Concentration limits | Internal-limit-setting expectations on CRE share of total loan book. |
-| Appraisal discipline | Conservative appraisal floors and periodic revaluation requirements. |
-| Stress testing | Bank-internal stress scenarios for cap-rate widening, vacancy shock, rate shock. |
-| Project finance covenants | Tighter LTV / DSCR triggers and cash-trap mechanics. |
-| Mezzanine / preferred-equity disclosure | Better visibility on total leverage including non-bank tranches. |
+| Concentration | Definition, denominator, segment, geography, limit, observation date, and supervisory wording |
+| Valuation | Appraisal standard, valuer, date, review trigger, haircut, and collateral-value use |
+| Stress testing | Scenario, horizon, variables, loss channel, governance, and disclosed result |
+| Covenants and cash control | Exact LTV / DSCR definition, trigger, cure, cash trap, waiver, and enforcement |
+| Total leverage | Senior, mezzanine, preferred equity, guarantees, and off-balance-sheet commitments included or excluded |
 
-These are the baseline expectations carried into the current cycle and visible in megabank IR risk disclosures for [[megabanks/mufg-bank]], [[megabanks/sumitomo-mitsui-banking-corp]], and [[megabanks/mizuho-bank]].
+## Pandemic-Period and Concentration Review
 
-## Post-Pandemic CRE Concentration
+Asset and lender outcomes during and after the pandemic were heterogeneous. Use a consistent time series before describing stress, recovery, or concentration.
 
-COVID-era stress concentrated in:
+Table source note: The table is a qualitative scenario map. BOJ's 2024 Financial System Report discusses domestic/foreign real-estate risk and a commercial-real-estate repricing stress; asset-specific outcomes and recovery timing must be verified from dated data. ^[Source: https://www.boj.or.jp/en/research/brp/fsr/fsr240418a.htm.]
 
-| Asset class | Stress pattern |
+| Asset class | Evidence series to compare |
 |---|---|
-| Hospitality | Cashflow collapse during travel restrictions; supervisory forbearance and restructuring waves. |
-| Retail | Tenant-rent restructuring, footfall recovery uneven. |
-| Office (regional) | Hybrid-work residual demand uncertainty; sub-prime office cap-rate widening. |
-| Hospitality recovery | Inbound-tourism rebound from 2023 supported rapid recovery; prime hotel cap rates re-tightened. |
+| Hospitality | Occupancy, ADR, RevPAR, operator cash flow, rent/management terms, arrears, restructuring, value, and loan performance |
+| Retail | Footfall, sales, rent collection, tenant changes, vacancy, value, and loan performance |
+| Office | Occupancy, incentives, effective rent, lease expiry, capex, value, and loan performance by city and grade |
+| Residential / logistics | Occupancy, rent growth, concessions, tenant concentration, value, and loan performance |
 
-Concentration monitoring intensified at regional banks where:
+For a regional bank, test rather than assume:
 
-- domestic NIM compression incentivised CRE growth;
-- Tokyo / out-of-prefecture CRE participation by regional banks raised supervisory attention;
-- apartment-loan portfolios (アパートローン) carried legacy underwriting weakness from the 2015 - 2018 vintage.
+- the bank's definition and share of CRE, real-estate-industry, non-recourse, and apartment loans;
+- home-prefecture versus out-of-area exposure and the relevant supervisory commentary;
+- underwriting vintage, collateral, borrower cash flow, arrears, modifications, and loss performance.
 
-Regional-bank consolidation, partly driven by these structural pressures, is mapped at [[banking/regional-bank-consolidation-pattern]].
+[[banking/regional-bank-consolidation-pattern]] provides a separate consolidation route; do not attribute a merger to CRE or NIM pressure without deal-specific evidence.
 
 ## Megabank CRE Exposure Shape
 
-Megabank IR disclosures publish CRE exposure under categories such as "real estate industry loans", "real-estate non-recourse loans", or "real-estate-related credit". The composition typically includes:
+Megabank disclosures may use categories such as "real estate industry loans", "real-estate non-recourse loans", or "real-estate-related credit". Taxonomy, consolidation scope, geography, and period differ.
+
+Table source note: These are disclosure-search categories, not a standardized regulatory taxonomy and not current exposure amounts. BOJ's real-estate-risk analysis and each bank's dated IR materials control. ^[Sources: https://www.boj.or.jp/en/research/brp/fsr/fsr240418a.htm, https://www.mufg.jp/english/ir/index.html, https://www.smfg.co.jp/english/investor/, and https://www.mizuho-fg.com/investors/index.html.]
 
 | Category | What it includes |
 |---|---|
-| Real estate industry loans | Loans to listed developers, real-estate operators, J-REIT sponsors. |
-| Real-estate non-recourse loans | Project finance / SPV lending against specific assets or portfolios. |
-| Apartment loans | Individual / SME apartment-investor loans. |
-| Construction industry loans | Loans to construction contractors with real-estate sector exposure. |
-| Overseas CRE | Foreign-branch CRE exposure (US / EU / Asia office, logistics, residential). |
+| Real estate industry loans | Record the issuer's industry definition, borrower scope, consolidation, amount, and date |
+| Real-estate non-recourse loans | Record the issuer's recourse definition, vehicles, assets, geography, amount, and date |
+| Apartment loans | Record borrower type, property scope, collateral, amount, vintage, and performance measures |
+| Construction industry loans | Keep separate unless the issuer's taxonomy includes them in CRE; record overlap explicitly |
+| Overseas CRE | Record booked entity, country, asset class, recourse, currency, amount, and date |
 
-Three megabanks have meaningfully different mixes:
-
-- [[megabanks/mufg-bank]] carries significant overseas CRE through US / EU branch networks plus a large domestic real-estate sponsor book.
-- [[megabanks/sumitomo-mitsui-banking-corp]] runs a focused domestic CRE book plus selective overseas project finance.
-- [[megabanks/mizuho-bank]] has a mixed domestic / overseas profile with a long history in J-REIT and listed-developer relationships.
-
-Trust-bank anchors [[trust-banks/sumitomo-mitsui-trust]] and [[trust-banks/mitsubishi-ufj-trust-bank]] add a real-estate-trust dimension where the trust bank holds beneficiary-interest structures and provides asset administration alongside lending.
-
-Exact CRE exposure figures and concentration ratios rotate at each quarterly disclosure; verify on the relevant megabank IR page before use.
+Compare [[megabanks/mufg-bank]], [[megabanks/sumitomo-mitsui-banking-corp]], and [[megabanks/mizuho-bank]] only after normalising those definitions. For [[trust-banks/sumitomo-mitsui-trust]] and [[trust-banks/mitsubishi-ufj-trust-bank]], identify the legal entity and separate trustee, lending, brokerage, appraisal, and administration roles. Verify figures and ratios for the cited reporting date on the relevant IR page.
 
 ## J-REIT Sponsor Lending
 
-Bank lending to J-REIT sponsors and individual J-REIT vehicles is a core CRE business line. Typical structures:
+Bank facilities may be provided to a J-REIT, its sponsor, or a warehouse vehicle. Prevalence and lender share require a defined disclosure sample.
+
+Table source note: The table is a transaction-structure taxonomy. BOJ describes senior/mezzanine lending to real-estate investment funds, while current J-REIT borrowing must be verified from the issuer's disclosure available through ARES/J-REIT data. ^[Sources: https://www.boj.or.jp/en/research/brp/fsr/fsr230421.htm and https://www.ares.or.jp/action/jreit/.]
 
 | Structure | Description |
 |---|---|
-| Sponsor support loans | Direct lending to J-REIT sponsor for warehousing acquired assets pre-dropdown. |
-| J-REIT-level senior loans | Term loans / bond purchases at the listed J-REIT entity. |
-| Bridge facilities | Short-tenor financing for acquisition pending equity raise or refi. |
-| Warehouse facilities | Revolving credit for acquisition / disposition of properties on sponsor balance sheet. |
+| Sponsor facility | Verify borrower, assets, purpose, recourse, security, and any relationship to a future dropdown |
+| J-REIT-level loan | Verify lender, amount, maturity, rate, security, covenants, and use from the listed vehicle's disclosure |
+| Bridge facility | Verify tenor, committed takeout if any, extension, mandatory prepayment, and refinancing assumptions |
+| Warehouse facility | Verify vehicle, borrowing base, eligibility, revolving feature, recourse, and acquisition/disposition controls |
 
 Bank lending to J-REIT vehicles is read against [[real-estate-finance/j-reit-market-overview|J-REIT market overview]] and [[real-estate-finance/j-reit-foreign-investor-ownership]] for the cross-border ownership dimension. J-REIT funding mix also includes [[real-estate-finance/j-reit-dividend-yield-vs-jgb-spread|bond / equity issuance]] as alternatives to bank borrowing.
 
-## Post-NIRP Rate Normalisation Stress
+## Rate and Refinancing Stress
 
-BoJ NIRP exit and the post-YCC normalisation path raised:
+For each facility, use its actual reference rate, fixed/floating mix, hedge, maturity, and refinance terms. Possible sensitivity channels include:
 
-- senior floating-rate CRE loan service cost;
-- DSCR stress on legacy bullet-structured deals at refi;
-- cap-rate floor pressure as risk-free rates rose (covered in [[real-estate-finance/real-estate-cap-rate-compression-2026]]);
-- competitive repricing as banks adjusted spread on new originations.
+- debt service on a floating-rate loan;
+- DSCR and refinancing proceeds for a bullet or partially amortising facility;
+- valuation sensitivity under the scenarios in [[real-estate-finance/real-estate-cap-rate-compression-2026]];
+- reference-rate, margin, fee, hedge, and covenant changes on a new facility.
 
-Underwriting standards in 2025 - 2026 vintage CRE loans incorporate higher reference-rate assumptions, more conservative refinancing-risk modelling, and revised DSCR floors. Read with [[money-market/japan-money-market]] for the funding-cost-reference detail and [[insurance/japan-life-insurance-alm-overview]] for the parallel ALM repricing logic in life-insurer competitor balance sheets.
+For a 2025-2026-vintage CRE loan, analysts should test higher reference rates, refinancing risk, and DSCR sensitivity; this page does not claim a universal change in bank approval standards or covenant floors. Read with [[money-market/japan-money-market]] for funding-cost-reference detail and [[insurance/japan-life-insurance-alm-overview]] for life-insurer ALM context; neither route by itself establishes a competitor's loan pricing.
 
 ## Related
 

@@ -23,9 +23,9 @@
     "domain": "finance",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-20",
-    "last_tended": "2026-05-20",
-    "review_by": "2026-11-15",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "finance",
@@ -87,13 +87,16 @@
       "https://finwiki.zksc.io/ja/securities-firms/smbc-nikko/",
       "https://finwiki.zksc.io/ja/domains/securities/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 2,
+    "external_links": [
+      "https://www.jpx.co.jp/english/equities/listing-on-tse/new/basic/03.html",
+      "https://www.lseg.com/en/data-analytics/financial-data/deals-data/investment-banking-league-tables"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 3970,
-    "word_like_tokens": 613,
+    "nonspace_chars": 4312,
+    "word_like_tokens": 671,
     "inbound_wikilinks_count": 26,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-30"
   }
 }

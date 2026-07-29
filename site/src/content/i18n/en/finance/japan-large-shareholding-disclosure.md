@@ -1,18 +1,18 @@
 ---
 source: finance/japan-large-shareholding-disclosure
-source_hash: 6c385d176a279d46
+source_hash: ab8a0fd07de74c6a
 lang: en
 status: machine
 fidelity: ok
 title: "Japan large shareholding disclosure"
-translated_at: 2026-05-31T06:16:15.700Z
+translated_at: 2026-07-29T14:32:12.538Z
 ---
 
 # Japan large shareholding disclosure
 
 ## Overview
 
-Japan's large-shareholding disclosure regime is the FIEA "5% rule" for revealing block ownership, influence, and market-supply information. Once a holder's ratio exceeds 5%, a Large Shareholding Report is generally required within five business days. Later material changes, including a 1% or greater holding-ratio change, generally require a Change Report within five business days. Filings are made through EDINET.
+Japan's large-shareholding disclosure regime is the FIEA "5% rule" for revealing block ownership, influence, and market-supply information. Once a holder's ratio exceeds 5%, a Large Shareholding Report is generally required within five business days. Later material changes, including a holding-ratio change of one percentage point or more, generally require a Change Report within five business days. Filings are made through EDINET.
 
 This page is written for the post-May-1-2026 amended regime. The FSA's submission page was updated on 2026-05-01 and states that the amended large-shareholding regime took effect that day, changing holding-ratio calculation, joint-holder scope, and forms. Use source dates carefully.
 
@@ -20,11 +20,13 @@ Read this page with [[finance/japan-tender-offer-process|Japan tender offer proc
 
 ## Regime Snapshot
 
+Source: the table records the FSA's [large-shareholding filing route updated for the May 1, 2026 regime](https://www.fsa.go.jp/common/shinsei/tairyohoyu/index.html); the amended forms and Q&A control in edge cases.
+
 | Topic | Rule of thumb |
 |---|---|
 | Trigger | Holding ratio of listed shares etc. exceeds 5%. |
 | Initial report | Large Shareholding Report, generally within five business days. |
-| Change report | Generally within five business days after a 1% or greater change or other material change. |
+| Change report | Generally within five business days after a change of one percentage point or more or another material change. |
 | Filing surface | EDINET electronic submission; paper filing is not the ordinary route. |
 | Purpose | Transparency around management influence and market supply / demand. |
 | Post-2026 caution | Reforms effective 2026-05-01 changed calculation, joint-holder scope, and forms. |
@@ -32,6 +34,8 @@ Read this page with [[finance/japan-tender-offer-process|Japan tender offer proc
 ## What It Is Not
 
 Large-shareholding disclosure is not a tender offer document. It discloses holder, holding ratio, purpose, joint-holder, and related block-ownership information, but it does not itself disclose an offer price, tender period, purchase conditions, funding proof, or target board opinion.
+
+Source: the table distinguishes the FSA's [large-shareholding filing route](https://www.fsa.go.jp/common/shinsei/tairyohoyu/index.html) from the FSA's [tender-offer disclosure regime](https://www.fsa.go.jp/news/r7/shouken/20250704/20250704.html) and [JPX TDnet](https://www.jpx.co.jp/equities/listing/disclosure/tdnet/index.html).
 
 | Filing | Public record field |
 |---|---|
@@ -56,7 +60,7 @@ Under the post-2026 regime, public filings include holder-analysis fields such a
 - pledge / borrowing / financing context where disclosed;
 - rapid accumulation or sale patterns.
 
-Aggregation fields can include funds, adviser entities, affiliates, derivatives counterparties, or persons acting jointly. The filer, joint holders, purpose, and change history are recorded together where disclosed.
+Aggregation is determined by the amended statutory holding-ratio and joint-holder definitions, not by an actor label alone. A fund, adviser, affiliate, derivative counterparty, or collaborating investor is included only when the legal rights, authority, agreement, or relationship satisfies the applicable rule. Use the current forms and FSA Q&A for the filing date, then record the filer, joint holders, purpose, and change history exactly as disclosed.
 
 ## Activism / Control Reading
 
