@@ -28,9 +28,9 @@
     "domain": "real-estate-finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "real-estate-finance",
@@ -48,16 +48,22 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.mof.go.jp/english/policy/tax_policy/tax_reform/index.htm",
-      "https://www.nta.go.jp/english/index.htm",
-      "https://www.nta.go.jp/english/taxes/withholding/index.htm",
-      "https://www.nta.go.jp/english/taxes/international/index.htm",
-      "https://www.fsa.go.jp/en/news/index.html",
-      "https://www.ares.or.jp/en/",
-      "https://www.mof.go.jp/english/policy/international_policy/convention/index.htm"
+      "https://www.nta.go.jp/english/taxes/individual/12014.htm",
+      "https://www.nta.go.jp/taxes/shiraberu/taxanswer/gensen/2878.htm",
+      "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1932.htm",
+      "https://www.nta.go.jp/about/organization/sapporo/hikyoju_gaikoku/pdf/01.pdf",
+      "https://www.nta.go.jp/taxes/shiraberu/taxanswer/gensen/2879.htm",
+      "https://www.nta.go.jp/taxes/shiraberu/taxanswer/gensen/2888.htm",
+      "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/16.htm",
+      "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/14/14_01_01.htm",
+      "https://www.mof.go.jp/english/policy/tax_policy/tax_conventions/tax_convetion_list_en.html",
+      "https://www.jpx.co.jp/english/equities/products/reits/guidebook/b5b4pj000003984r-att/REIT.pdf",
+      "https://www.nta.go.jp/law/shitsugi/hojin/26/05.htm",
+      "https://elaws.e-gov.go.jp/document?lawid=410AC0000000105",
+      "https://elaws.e-gov.go.jp/document?lawid=332AC0000000026"
     ]
   },
-  "summary": "Foreign investment in Japan real estate carries distinct Japanese tax treatment that varies by investor type (non-resident corporate vs individual), holding structure (direct vs through TK / GK-TK / TMK vs through J-REIT), income type (rental vs capital gain), permanent-establishment (PE) status, an",
+  "summary": "Japanese tax treatment of foreign investment in real estate varies by taxpayer classification, direct or vehicle-based holding route, income/payment type, PE and beneficial-owner facts, domestic-law source rules, treaty text, and procedural filings. Rental payments and sale consideration can carry d",
   "headings": [
     "Foreign investment in Japan real estate tax treatment",
     "TL;DR",
@@ -124,9 +130,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 14338,
-    "word_like_tokens": 2275,
+    "nonspace_chars": 21032,
+    "word_like_tokens": 3407,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-30"
   }
 }

@@ -25,9 +25,9 @@
     "domain": "finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "finance",
@@ -45,27 +45,28 @@
     "note": null,
     "sources": [
       "https://www.jftc.go.jp/en/legislation_gls/index.html",
-      "https://www.jftc.go.jp/en/legislation_gls/amended_ama09/notification.html",
-      "https://www.jftc.go.jp/en/policy_enforcement/mergers_acquisitions/index.html",
-      "https://www.jftc.go.jp/houdou/pressrelease/2021/aug/210804.html",
+      "https://www.jftc.go.jp/en/policy_enforcement/mergers/index.html",
+      "https://www.jftc.go.jp/en/policy_enforcement/mergers/index_files/ThresholdforNotification.pdf",
+      "https://www.jftc.go.jp/en/policy_enforcement/mergers/191217002.pdf",
+      "https://www.jftc.go.jp/en/policy_enforcement/mergers/191217.pdf",
       "https://www.jftc.go.jp/en/pressreleases/yearly-2024/index.html"
     ]
   },
-  "summary": "JFTC (Japan Fair Trade Commission) merger control is the antitrust gate that sits in parallel with the FIEA tender offer route: any control transaction that crosses domestic-turnover thresholds must be pre-notified to JFTC under the Antimonopoly Act (AMA) and cleared before completion. It belongs in",
+  "summary": "JFTC (Japan Fair Trade Commission) merger control is the antitrust review route that may sit in parallel with the FIEA tender offer route. Prior notification is required only when an enumerated transaction form, the applicable domestic-sales thresholds, the voting-right or transferred-business test,",
   "headings": [
     "JFTC merger control process",
     "Overview",
     "Notification thresholds (post-2010 amendment)",
     "Phase I / Phase II review",
     "Gun-jumping prohibitions",
-    "Recent case map",
+    "Public case-file route",
     "What to extract from a JFTC file",
     "Research checklist",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 12,
+    "wikilinks_count": 11,
     "wikilinks": [
       "INDEX",
       "finance/INDEX",
@@ -76,7 +77,6 @@
       "finance/japan-ib-league-table",
       "finance/japan-leveraged-buyout-economics",
       "finance/japan-mbo-and-squeeze-out-process",
-      "finance/japan-takeover-defense-poison-pill",
       "finance/japan-tender-offer-process",
       "financial-licenses/securities-license-stack"
     ],
@@ -90,17 +90,21 @@
       "https://finwiki.zksc.io/ja/finance/japan-ib-league-table/",
       "https://finwiki.zksc.io/ja/finance/japan-leveraged-buyout-economics/",
       "https://finwiki.zksc.io/ja/finance/japan-mbo-and-squeeze-out-process/",
-      "https://finwiki.zksc.io/ja/finance/japan-takeover-defense-poison-pill/",
       "https://finwiki.zksc.io/ja/finance/japan-tender-offer-process/",
       "https://finwiki.zksc.io/ja/financial-licenses/securities-license-stack/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 4,
+    "external_links": [
+      "https://www.jftc.go.jp/en/policy_enforcement/mergers/191217.pdf",
+      "https://www.jftc.go.jp/en/policy_enforcement/mergers/191217002.pdf",
+      "https://www.jftc.go.jp/en/policy_enforcement/mergers/index.html",
+      "https://www.jftc.go.jp/en/policy_enforcement/mergers/index_files/ThresholdforNotification.pdf"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 5876,
-    "word_like_tokens": 918,
-    "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-04"
+    "nonspace_chars": 8074,
+    "word_like_tokens": 1312,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-07-30"
   }
 }

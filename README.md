@@ -12,8 +12,8 @@ FinWiki は、金融、決済、ステーブルコイン、暗号資産、資本
 | Topical domains | 40 | Domain directories listed in [INDEX.md](INDEX.md) |
 | Link-audited entries | 1489 | Entries checked by `tools/wiki_link_audit.ts` |
 | Unresolved link issues | 0 | Must stay at zero before release |
-| Text volume | 約1096万字 | Markdown 全体の空白除外 UTF-8 文字数（約 10,962,506） |
-| Word-like tokens | 約177万 | English / CJK mixed corpus の近似 token count |
+| Text volume | 約1096万字 | Markdown 全体の空白除外 UTF-8 文字数（約 10,959,252） |
+| Word-like tokens | 約176万 | English / CJK mixed corpus の近似 token count |
 
 ### 入口
 
@@ -87,8 +87,8 @@ FinWiki is a public Markdown knowledge base covering finance, payments, stableco
 | Topical domains | 40 | Domain directories listed in [INDEX.md](INDEX.md) |
 | Link-audited entries | 1489 | Entries checked by `tools/wiki_link_audit.ts` |
 | Unresolved link issues | 0 | Must stay at zero before release |
-| Text volume | ~10.96M chars | ~10,962,506 non-space UTF-8 characters across Markdown |
-| Word-like tokens | ~1.77M | Approximate English / CJK mixed-corpus token count |
+| Text volume | ~10.96M chars | ~10,959,252 non-space UTF-8 characters across Markdown |
+| Word-like tokens | ~1.76M | Approximate English / CJK mixed-corpus token count |
 
 ### Entrances
 
@@ -162,8 +162,8 @@ FinWiki 是一个公开 Markdown 知识库，覆盖金融、支付、稳定币�
 | Topical domains | 40 | [INDEX.md](INDEX.md) 中列出的领域目录 |
 | Link-audited entries | 1489 | 经 `tools/wiki_link_audit.ts` 检查的条目 |
 | Unresolved link issues | 0 | 发布前必须保持为零 |
-| Text volume | 约1096万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 10,962,506） |
-| Word-like tokens | 约177万 | English / CJK mixed corpus 的近似 token count |
+| Text volume | 约1096万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 10,959,252） |
+| Word-like tokens | 约176万 | English / CJK mixed corpus 的近似 token count |
 
 ### 入口
 

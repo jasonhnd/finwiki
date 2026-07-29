@@ -23,9 +23,9 @@
     "domain": "finance",
     "type": null,
     "created": "2026-05-22",
-    "last_updated": "2026-05-22",
-    "last_tended": "2026-05-22",
-    "review_by": "2026-11-22",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "finance",
@@ -43,7 +43,7 @@
     "sources": [
       "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/fair-ma-rule/ma-guideline-publications.html",
       "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/pdf/fairmaguidelines.pdf",
-      "https://www.fsa.go.jp/common/law/kaiji/20241001_guideline-tenderoffer.pdf",
+      "https://www.fsa.go.jp/common/law/kaiji/index.html",
       "https://www.fsa.go.jp/en/laws_regulations/faq_on_fiea/section04.html",
       "https://www.japaneselawtranslation.go.jp/en/laws/view/3206/en",
       "https://www.japaneselawtranslation.go.jp/en/laws/view/3384/en",
@@ -51,7 +51,7 @@
       "https://www.jpx.co.jp/equities/listing/delisting/"
     ]
   },
-  "summary": "A Japanese listed-company MBO or controlling-shareholder buyout is a public-company control transaction. The public process route includes board and special committee process, valuation / fairness work, TOB launch and disclosure, target opinion / TDnet disclosure, settlement, post-TOB squeeze-out, a",
+  "summary": "A Japanese listed-company MBO or controlling-shareholder buyout is a public-company control transaction. Depending on the transaction, the public record may include board deliberation, conflict safeguards such as a special committee, valuation or fairness work, TOB disclosure, target opinion / TDnet",
   "headings": [
     "Japan MBO and squeeze-out process",
     "Overview",
@@ -92,13 +92,19 @@
       "https://finwiki.zksc.io/ja/regional-banks/sbi-shinsei-bank/",
       "https://finwiki.zksc.io/ja/securities/tokyo-stock-exchange/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 5,
+    "external_links": [
+      "https://www.fsa.go.jp/news/r7/shouken/20250704/20250704.html",
+      "https://www.japaneselawtranslation.go.jp/en/laws/view/4481/en",
+      "https://www.jpx.co.jp/equities/listing/delisting/",
+      "https://www.jpx.co.jp/equities/listing/disclosure/tdnet/index.html",
+      "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/pdf/fairmaguidelines.pdf"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 6712,
-    "word_like_tokens": 1018,
+    "nonspace_chars": 8278,
+    "word_like_tokens": 1287,
     "inbound_wikilinks_count": 29,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-30"
   }
 }

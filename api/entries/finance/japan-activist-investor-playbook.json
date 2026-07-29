@@ -24,9 +24,9 @@
     "domain": "finance",
     "type": null,
     "created": "2026-05-22",
-    "last_updated": "2026-05-22",
-    "last_tended": "2026-05-22",
-    "review_by": "2026-11-22",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "finance",
@@ -48,7 +48,9 @@
       "https://www.fsa.go.jp/en/news/2025/20250321-2.html",
       "https://www.jpx.co.jp/english/equities/listing/cg/index.html",
       "https://www.jpx.co.jp/english/equities/follow-up/02.html",
+      "https://www.jpx.co.jp/english/news/1020/20260428-01.html",
       "https://www.meti.go.jp/english/press/2023/0831_001.html",
+      "https://www.fsa.go.jp/en/refer/councils/stewardship/index.html",
       "https://www.fsa.go.jp/en/laws_regulations/faq_on_fiea/section05.html",
       "https://www.fsa.go.jp/en/laws_regulations/faq_on_fiea/section04.html",
       "https://www.japaneselawtranslation.go.jp/en/laws/view/4481/en",
@@ -120,13 +122,20 @@
       "https://finwiki.zksc.io/ja/securities/japan-underwriting-market-structure/",
       "https://finwiki.zksc.io/ja/securities/tokyo-stock-exchange/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 6,
+    "external_links": [
+      "https://www.fsa.go.jp/common/shinsei/tairyohoyu/index.html",
+      "https://www.fsa.go.jp/en/policy/corporategovernencereform/20240115.html",
+      "https://www.fsa.go.jp/en/refer/councils/stewardship/index.html",
+      "https://www.jpx.co.jp/english/equities/listing/cg/index.html",
+      "https://www.jpx.co.jp/english/equities/listing/disclosure/tdnet/index.html",
+      "https://www.meti.go.jp/english/press/2023/0831_001.html"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 7597,
-    "word_like_tokens": 1114,
+    "nonspace_chars": 9370,
+    "word_like_tokens": 1416,
     "inbound_wikilinks_count": 20,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-07-30"
   }
 }

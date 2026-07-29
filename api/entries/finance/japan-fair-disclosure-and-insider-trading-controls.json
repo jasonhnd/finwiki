@@ -23,9 +23,9 @@
     "domain": "finance",
     "type": null,
     "created": "2026-05-22",
-    "last_updated": "2026-05-22",
-    "last_tended": "2026-05-22",
-    "review_by": "2026-11-22",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "finance",
@@ -106,13 +106,18 @@
       "https://finwiki.zksc.io/ja/securities/japan-underwriting-market-structure/",
       "https://finwiki.zksc.io/ja/securities/tokyo-stock-exchange/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 4,
+    "external_links": [
+      "https://www.fsa.go.jp/en/laws_regulations/disclosure/20180206-2.pdf",
+      "https://www.japaneselawtranslation.go.jp/en/laws/view/4633/en",
+      "https://www.jpx.co.jp/english/equities/listing/disclosure/",
+      "https://www.jpx.co.jp/equities/listing/disclosure/tdnet/index.html"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 7024,
-    "word_like_tokens": 1020,
+    "nonspace_chars": 8036,
+    "word_like_tokens": 1194,
     "inbound_wikilinks_count": 12,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-30"
   }
 }

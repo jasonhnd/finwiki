@@ -25,9 +25,9 @@
     "domain": "finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "finance",
@@ -47,19 +47,18 @@
     "sources": [
       "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/fair-ma-rule/ma-guideline-publications.html",
       "https://www.meti.go.jp/english/press/2023/0831_001.html",
-      "https://www.jftc.go.jp/en/policy_enforcement/mergers_acquisitions/index.html",
-      "https://www.courts.go.jp/app/hanrei_en/detail?id=825",
-      "https://www.jpx.co.jp/english/equities/follow-up/02.html"
+      "https://www.courts.go.jp/hanrei/search2/index.html",
+      "https://www.jpx.co.jp/english/equities/listing/code-of-conduct/index.html"
     ]
   },
-  "summary": "Japan takeover defense is a board-level response system that sits on top of the FIEA tender-offer process: when a hostile bidder appears, the target chooses between pre-bid structural defenses (advance-warning rights-plan, golden parachute, cross-shareholdings) and in-bid tactical responses (white-k",
+  "summary": "Japan takeover defense is a set of possible issuer responses that may interact with the FIEA tender-offer process, the Companies Act, listing rules, and judicial review. A company may have a disclosed advance-warning response policy or may evaluate an event-specific response, but no mechanism or out",
   "headings": [
     "Japan takeover defense and poison pill",
     "Overview",
     "Defense taxonomy",
     "Bull-Dog Sauce 2007 — the foundational case",
-    "METI 2023 Fair M&A Guidelines",
-    "Recent cases (2020-2026)",
+    "METI 2023 Guidelines for Corporate Takeovers",
+    "Primary public records",
     "Pre-bid vs in-bid response decision",
     "What to extract from a defense filing",
     "Research checklist",
@@ -89,13 +88,17 @@
       "https://finwiki.zksc.io/ja/finance/japan-tender-offer-process/",
       "https://finwiki.zksc.io/ja/finance/jftc-merger-control-process/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 3,
+    "external_links": [
+      "https://www.courts.go.jp/hanrei/search2/index.html",
+      "https://www.jpx.co.jp/english/equities/listing/code-of-conduct/index.html",
+      "https://www.meti.go.jp/english/press/2023/0831_001.html"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 6634,
-    "word_like_tokens": 1016,
-    "inbound_wikilinks_count": 3,
-    "last_modified": "2026-05-25"
+    "nonspace_chars": 8312,
+    "word_like_tokens": 1336,
+    "inbound_wikilinks_count": 2,
+    "last_modified": "2026-07-30"
   }
 }

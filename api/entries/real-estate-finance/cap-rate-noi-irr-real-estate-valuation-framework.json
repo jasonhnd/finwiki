@@ -27,9 +27,9 @@
     "domain": "real-estate-finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "real-estate-finance",
@@ -46,16 +46,16 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.jrei.jp/",
-      "https://www.ares.or.jp/en/",
+      "https://www.reinet.or.jp/?page_id=14347&lang=en",
+      "https://www.ares.or.jp/action/jreit/",
       "https://j-reit.jp/en/",
-      "https://www.mlit.go.jp/totikensangyo/totikensangyo_tk2_000001.html",
-      "https://www.jpx.co.jp/english/markets/products/reit/index.html",
+      "https://www.mlit.go.jp/tochi_fudousan_kensetsugyo/tochi_fudousan_kensetsugyo_fr4_000001_00248.html",
+      "https://www.jpx.co.jp/english/equities/products/reits/",
       "https://www.boj.or.jp/en/statistics/index.htm",
-      "https://pages.stern.nyu.edu/~adamodar/"
+      "https://pages.stern.nyu.edu/adamodar/New_Home_Page/valuationtools.html"
     ]
   },
-  "summary": "Real-estate valuation in Japan is structured around four interlinked metrics: cap rate (NOI yield), NOI / NCF (net operating income / net cash flow), unlevered IRR (project return), and levered IRR (equity return). These metrics overlay the three-approach appraisal framework — income, comparison, co",
+  "summary": "Cap rate, NOI / NCF, unlevered IRR, and levered IRR are related but definition-sensitive real-estate metrics. The 不動産鑑定評価基準 supplies the appraisal framework; a J-REIT's named appraiser and disclosure, a fund's governing documents and underwriting, and a transaction's actual cash flows supply the ass",
   "headings": [
     "Cap rate NOI IRR real-estate valuation framework",
     "TL;DR",
@@ -120,9 +120,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 11607,
-    "word_like_tokens": 1906,
+    "nonspace_chars": 16076,
+    "word_like_tokens": 2665,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-07-30"
   }
 }

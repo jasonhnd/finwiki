@@ -24,9 +24,9 @@
     "domain": "finance",
     "type": null,
     "created": "2026-05-22",
-    "last_updated": "2026-05-22",
-    "last_tended": "2026-05-22",
-    "review_by": "2026-11-22",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "finance",
@@ -52,7 +52,8 @@
       "https://www.smtb.jp/english/sale/financial/buyout",
       "https://www.jsla.org/english",
       "https://www.boj.or.jp/en/statistics/dl/loan/index.htm",
-      "https://www.lseg.com/en/data-analytics/financial-data/deals-data/investment-banking-league-tables"
+      "https://www.lseg.com/en/data-analytics/financial-data/deals-data/investment-banking-league-tables",
+      "https://www.fsa.go.jp/news/r6/ginkou/20250630-2/250630-2.html"
     ]
   },
   "summary": "This page sits under finance domain. Read it with Japan tender offer process, cross-border M&A Japan, securities domain, and banking domain when a deal crosses public disclosure, securities underwriting, and bank lending.",
@@ -69,7 +70,7 @@
     "Caveats"
   ],
   "body_links": {
-    "wikilinks_count": 19,
+    "wikilinks_count": 14,
     "wikilinks": [
       "INDEX",
       "banking/INDEX",
@@ -79,14 +80,9 @@
       "finance/japan-ib-league-table",
       "finance/japan-tender-offer-process",
       "financial-regulators/dbj",
-      "foreign-financial-institutions/jpmorgan-japan",
       "megabanks/mizuho-bank",
       "megabanks/mufg-bank",
       "megabanks/sumitomo-mitsui-banking-corp",
-      "securities-firms/daiwa-sg",
-      "securities-firms/goldman-sachs-japan",
-      "securities-firms/morgan-stanley-japan",
-      "securities-firms/nomura-hd",
       "securities/INDEX",
       "securities/japan-underwriting-market-structure",
       "trust-banks/smtb"
@@ -100,25 +96,25 @@
       "https://finwiki.zksc.io/ja/finance/japan-ib-league-table/",
       "https://finwiki.zksc.io/ja/finance/japan-tender-offer-process/",
       "https://finwiki.zksc.io/ja/financial-regulators/dbj/",
-      "https://finwiki.zksc.io/ja/foreign-financial-institutions/jpmorgan-japan/",
       "https://finwiki.zksc.io/ja/megabanks/mizuho-bank/",
       "https://finwiki.zksc.io/ja/megabanks/mufg-bank/",
       "https://finwiki.zksc.io/ja/megabanks/sumitomo-mitsui-banking-corp/",
-      "https://finwiki.zksc.io/ja/securities-firms/daiwa-sg/",
-      "https://finwiki.zksc.io/ja/securities-firms/goldman-sachs-japan/",
-      "https://finwiki.zksc.io/ja/securities-firms/morgan-stanley-japan/",
-      "https://finwiki.zksc.io/ja/securities-firms/nomura-hd/",
       "https://finwiki.zksc.io/ja/domains/securities/",
       "https://finwiki.zksc.io/ja/securities/japan-underwriting-market-structure/",
       "https://finwiki.zksc.io/ja/trust-banks/smtb/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 4,
+    "external_links": [
+      "https://disclosure.edinet-fsa.go.jp/",
+      "https://www.fsa.go.jp/en/laws_regulations/faq_on_fiea/section04.html",
+      "https://www.fsa.go.jp/news/r6/ginkou/20250630-2/250630-2.html",
+      "https://www.jpx.co.jp/english/equities/listing/disclosure/tdnet/index.html"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 6861,
-    "word_like_tokens": 1034,
+    "nonspace_chars": 7754,
+    "word_like_tokens": 1211,
     "inbound_wikilinks_count": 59,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-30"
   }
 }
