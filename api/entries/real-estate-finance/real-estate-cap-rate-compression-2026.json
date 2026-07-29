@@ -28,9 +28,9 @@
     "domain": "real-estate-finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "real-estate-finance",
@@ -48,6 +48,7 @@
     "sources": [
       "https://www.ares.or.jp/en/",
       "https://www.jrei.jp/",
+      "https://www.reinet.or.jp/pdf/REIS/published-document_main_the-japanese-real-estate-investor-survey_202604.pdf",
       "https://www.boj.or.jp/en/research/brp/fsr/index.htm",
       "https://www.mlit.go.jp/totikensangyo/totikensangyo_fr2_000019.html",
       "https://www.mufg.jp/english/ir/index.html",
@@ -55,17 +56,17 @@
       "https://www.smtb.jp/english/investors"
     ]
   },
-  "summary": "Japan real-estate cap rates have compressed across asset classes through the BoJ NIRP / YCC era to historically low absolute levels. As of 2026, expected (forward) cap-rate ranges sit at approximately: Tokyo prime CBD office 3.0 - 3.5%, Osaka prime office 3.5 - 4.0%, Tokyo / Greater-Tokyo logistics",
+  "summary": "The Japan Real Estate Institute's 54th investor survey provides a dated, reproducible April 2026 expected-yield snapshot: 3.2% for Marunouchi/Otemachi A-class office, 4.0% for Umeda office, 3.8% for Tokyo Koto-bay multi-tenant logistics, 3.6% for a Tokyo Jonan one-room rental residence, 3.3% for Gin",
   "headings": [
     "Japan real estate cap rate compression 2026",
     "TL;DR",
     "Wiki route",
     "Cap Rate Definition (Short Form)",
     "2026 Cap-Rate Range Map",
-    "Comparison to BoJ NIRP-Era Lows",
+    "Comparison with Earlier JREI Survey Readings",
     "Post-NIRP Normalisation Impact",
-    "Foreign-Buyer Cap-Rate Floor",
-    "Cap-Rate Component Decomposition",
+    "Foreign-Buyer Cap-Rate-Floor Hypothesis",
+    "Rate Relationships and Evidence Boundary",
     "Cap-Rate-Sensitivity in J-REIT NAV"
   ],
   "body_links": {
@@ -118,13 +119,17 @@
       "https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/",
       "https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 3,
+    "external_links": [
+      "https://www.boj.or.jp/en/mopo/index.htm",
+      "https://www.mof.go.jp/english/policy/jgbs/reference/interest_rate/index.htm",
+      "https://www.reinet.or.jp/pdf/REIS/published-document_main_the-japanese-real-estate-investor-survey_202604.pdf"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 11083,
-    "word_like_tokens": 1864,
+    "nonspace_chars": 14293,
+    "word_like_tokens": 2415,
     "inbound_wikilinks_count": 14,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-30"
   }
 }

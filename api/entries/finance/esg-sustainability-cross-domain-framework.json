@@ -31,9 +31,9 @@
     "domain": "finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "finance",
@@ -52,19 +52,20 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.ssb-j.jp/en/",
+      "https://www.ssb-j.jp/jp/ssbj_standards.html",
       "https://www.ifrs.org/issued-standards/ifrs-sustainability-standards-navigator/",
-      "https://www.fsa.go.jp/en/news/2023/20230701/01.pdf",
-      "https://www.jpx.co.jp/english/equities/follow-up/02.html",
-      "https://www.meti.go.jp/policy/energy_environment/global_warming/transition_finance.html",
-      "https://www.mof.go.jp/english/policy/jgbs/topics/Climate_Transition_Bond/index.htm",
-      "https://www.msci.com/our-solutions/esg-investing/esg-ratings",
-      "https://www.spglobal.com/esg/scores/",
-      "https://www.sustainalytics.com/esg-ratings",
-      "https://www.gresb.com/nl-en/"
+      "https://www.fsa.go.jp/news/r7/shouken/20260220/20260220.html",
+      "https://www.jpx.co.jp/english/equities/listing/cg/index.html",
+      "https://www.meti.go.jp/english/policy/energy_environment/transition_finance/index.html",
+      "https://www.mof.go.jp/english/policy/jgbs/topics/JapanClimateTransitionBonds/index.html",
+      "https://www.msci.com/data-and-analytics/sustainability-solutions/esg-ratings",
+      "https://www.spglobal.com/sustainable1/en/csa/methodology",
+      "https://www.sustainalytics.com/morningstar-sustainalytics-ratings-transparency/methodology-disclosure-archive",
+      "https://www.lseg.com/en/ftse-russell/esg-scores?language=en",
+      "https://www.gresb.com/nl-en/real-estate-assessment/"
     ]
   },
-  "summary": "ESG / sustainability has moved from voluntary disclosure to a structured cross-domain framework that overlays corporate valuation, M&A diligence, real-estate operating quality, fixed-income structuring, and listed-equity governance. The 2026 landscape rests on four pillars: (1) ratings (MSCI / S&P G",
+  "summary": "ESG / sustainability analysis can involve provider ratings, disclosure frameworks, governance rules, labelled debt, real-estate assessments, and transaction diligence. Their legal force, methodology, scope, and use differ by issuer, date, jurisdiction, product, and mandate. This page routes to the c",
   "headings": [
     "ESG sustainability cross-domain framework",
     "TL;DR",
@@ -127,9 +128,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 12596,
-    "word_like_tokens": 1857,
+    "nonspace_chars": 17749,
+    "word_like_tokens": 2746,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-02"
+    "last_modified": "2026-07-30"
   }
 }

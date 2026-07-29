@@ -20,25 +20,25 @@
       "GLP J-REIT",
       "GLP J-REIT 3281",
       "GLPJ",
-      "GLP J-REIT Singapore sponsor",
-      "GLP Pte Ltd J-REIT",
+      "GLP J-REIT Ares sponsor",
+      "GLP Japan Inc J-REIT",
       "GLP logistics J-REIT Japan",
       "GLP J-REIT modern logistics"
     ],
     "domain": "real-estate-finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "real-estate-finance",
       "j-reit",
       "glp",
+      "ares-management",
       "logistics",
       "modern-logistics",
-      "singapore-sponsor",
       "3281"
     ],
     "status": "active",
@@ -48,22 +48,26 @@
     "sources": [
       "https://www.glpjreit.com/",
       "https://www.glpjreit.com/en/",
-      "https://www.glp.com/global/",
+      "https://www.glpjreit.com/en/portfolio/data.html",
+      "https://www.glpjreit.com/en/ir/highlight.html",
+      "https://www.glpjreit.com/en/about/profile3.html",
+      "https://www.glpjreit.com/en/about/characteristics03.html",
+      "https://www.glpjreit.com/en/finance/investment2.html",
       "https://www.jpx.co.jp/english/markets/products/reit/index.html",
       "https://www.ares.or.jp/en/",
       "https://www.fsa.go.jp/en/"
     ]
   },
-  "summary": "GLP J-REIT's structural identity rests on three pillars: (i) sponsor pipeline — GLP develops modern logistics assets on the sponsor balance sheet and feeds stabilized properties into GLP J-REIT through preferential-supply agreements; (ii) active asset rotation — periodic disposition of properties no",
+  "summary": "Current issuer materials identify sponsor-support functions and disclose the portfolio, tenants, acquisitions and dispositions. Use those dated records to evaluate pipeline contribution, asset changes and demand exposure. Compare GLP J-REIT with Nippon Prologis REIT (NPR, 3283) while keeping the two",
   "headings": [
     "GLP J-REIT (3281)",
     "TL;DR",
     "Wiki route",
     "1. Corporate identity",
-    "2. Sponsor platform — GLP",
+    "2. Sponsor platform — GLP Japan within Ares Management",
     "3. Portfolio composition",
     "4. Capital and leverage",
-    "5. Asset rotation strategy",
+    "5. Acquisition and disposition review",
     "6. Tenant economics",
     "7. GLP J-REIT vs Nippon Prologis REIT"
   ],
@@ -107,13 +111,22 @@
       "https://finwiki.zksc.io/ja/real-estate-finance/real-estate-cap-rate-compression-2026/",
       "https://finwiki.zksc.io/ja/real-estate-finance/top-10-j-reit-overview-matrix/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 8,
+    "external_links": [
+      "https://www.glpjreit.com/en/",
+      "https://www.glpjreit.com/en/about/characteristics03.html",
+      "https://www.glpjreit.com/en/about/profile3.html",
+      "https://www.glpjreit.com/en/ir/highlight.html",
+      "https://www.glpjreit.com/en/portfolio/data.html",
+      "https://www.glpjreit.com/file/en-ir_library_term-bc82993cd995ee87970d20b66cc358b6a9e6218f.pdf",
+      "https://www.jpx.co.jp/english/equities/products/reits/issues/index.html",
+      "https://www.prologis-reit.co.jp/en/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 9131,
-    "word_like_tokens": 1507,
+    "nonspace_chars": 10625,
+    "word_like_tokens": 1758,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-30"
   }
 }

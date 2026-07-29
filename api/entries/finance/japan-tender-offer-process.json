@@ -24,9 +24,9 @@
     "domain": "finance",
     "type": null,
     "created": "2026-05-22",
-    "last_updated": "2026-05-22",
-    "last_tended": "2026-05-22",
-    "review_by": "2026-11-22",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "finance",
@@ -44,10 +44,11 @@
     "note": null,
     "sources": [
       "https://www.fsa.go.jp/en/laws_regulations/faq_on_fiea.pdf",
-      "https://www.fsa.go.jp/common/law/kaiji/20241001_guideline-tenderoffer.pdf",
+      "https://www.fsa.go.jp/common/law/kaiji/index.html",
       "https://www.fsa.go.jp/news/r5/sonota/20240628-3/20240628.html",
       "https://www.jpx.co.jp/english/equities/listing/disclosure/tdnet/index.html",
-      "https://www.jpx.co.jp/english/listing/co-search/index.html"
+      "https://www.jpx.co.jp/english/listing/co-search/index.html",
+      "https://www.fsa.go.jp/news/r7/shouken/20250704/20250704.html"
     ]
   },
   "summary": "Japan TOB analysis is a disclosure-control workflow: tender offer trigger, public notice, tender offer statement, target company opinion, amendments, EDINET statutory filing, TDnet timely disclosure, large-shareholding reports, settlement, and squeeze-out / delisting route. It belongs in finance bec",
@@ -100,13 +101,17 @@
       "https://finwiki.zksc.io/ja/securities/japan-underwriting-market-structure/",
       "https://finwiki.zksc.io/ja/securities/tokyo-stock-exchange/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 3,
+    "external_links": [
+      "https://www.fsa.go.jp/common/shinsei/tairyohoyu/index.html",
+      "https://www.fsa.go.jp/news/r7/shouken/20250704/20250704.html",
+      "https://www.jpx.co.jp/english/equities/listing/disclosure/tdnet/index.html"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 5672,
-    "word_like_tokens": 845,
+    "nonspace_chars": 7062,
+    "word_like_tokens": 1101,
     "inbound_wikilinks_count": 33,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-30"
   }
 }

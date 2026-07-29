@@ -23,9 +23,9 @@
     "domain": "finance",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-20",
-    "last_tended": "2026-05-20",
-    "review_by": "2026-11-15",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "finance",
@@ -42,8 +42,8 @@
     "sources": [
       "https://www.meti.go.jp/english/press/2023/0419_002.html",
       "https://www.mof.go.jp/english/policy/international_policy/fdi/gaitamehou_20200508.htm",
-      "https://www.jftc.go.jp/en/pressreleases/yearly-2019/December/191217.html",
-      "https://www.jftc.go.jp/en/legislation_gls/imonopoly_guidelines_files/191217policy.pdf",
+      "https://www.jftc.go.jp/en/policy_enforcement/mergers/index.html",
+      "https://www.jftc.go.jp/en/policy_enforcement/mergers/191217.pdf",
       "https://www.lseg.com/en/data-analytics/financial-data/deals-data/investment-banking-league-tables"
     ]
   },
@@ -89,13 +89,17 @@
       "https://finwiki.zksc.io/ja/securities-firms/smbc-nikko/",
       "https://finwiki.zksc.io/ja/domains/securities/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 3,
+    "external_links": [
+      "https://www.jftc.go.jp/en/policy_enforcement/mergers/index.html",
+      "https://www.jpx.co.jp/english/equities/listing/disclosure/tdnet/index.html",
+      "https://www.mof.go.jp/english/policy/international_policy/fdi/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 4473,
-    "word_like_tokens": 666,
+    "nonspace_chars": 5221,
+    "word_like_tokens": 802,
     "inbound_wikilinks_count": 44,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-30"
   }
 }

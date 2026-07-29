@@ -28,9 +28,9 @@
     "domain": "real-estate-finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "real-estate-finance",
@@ -49,12 +49,14 @@
     "sources": [
       "https://www.aeonmall.com/en/ir/",
       "https://www.aeon-jreit.co.jp/en/",
+      "https://www.aeon-jreit.co.jp/en/portfolio/list.html",
+      "https://www.aeon-jreit.co.jp/en/strategy/financial.html",
       "https://www.jpx.co.jp/english/markets/products/reit/",
       "https://www.ares.or.jp/en/",
       "https://www.aeon.info/en/ir/"
     ]
   },
-  "summary": "AEON Group's mall arm — AEON Mall Co., Ltd. (TSE Prime 8905) — is the largest shopping-mall developer-operator in Japan and a textbook case of the listed developer / sponsor J-REIT two-layer financing model. AEON Mall develops and operates large suburban malls on a corporate balance sheet funded by",
+  "summary": "AEON Group's mall arm — AEON Mall Co., Ltd. (TSE Prime 8905) — is a major Japanese shopping-mall developer and operator and an example of a listed developer / sponsor J-REIT two-layer model. AEON Mall develops and operates malls on its corporate balance sheet using the funding mix disclosed in its c",
   "headings": [
     "AEON Mall financing and securitization",
     "TL;DR",
@@ -68,10 +70,9 @@
     "Integration with AEON Group financial-services rhythm"
   ],
   "body_links": {
-    "wikilinks_count": 33,
+    "wikilinks_count": 29,
     "wikilinks": [
       "INDEX",
-      "banking/trust-bank-custody-operating-comparison",
       "banking/trust-bank-custody-operating-comparison\\",
       "business/INDEX",
       "card-issuers/aeon-bank",
@@ -93,20 +94,16 @@
       "real-estate-finance/mitsui-fudosan-financing-model",
       "real-estate-finance/mitsui-fudosan-financing-model\\",
       "real-estate-finance/real-estate-cap-rate-compression-2026",
-      "real-estate-finance/real-estate-cap-rate-compression-2026\\",
       "real-estate-finance/top-10-j-reit-overview-matrix",
       "retail/INDEX",
       "retail/aeon-group",
       "retail/seven-and-i-hd",
       "retail/seven-and-i-hd\\",
       "trust-banks/mitsubishi-ufj-trust-bank",
-      "trust-banks/mitsubishi-ufj-trust-bank\\",
-      "trust-banks/sumitomo-mitsui-trust",
-      "trust-banks/sumitomo-mitsui-trust\\"
+      "trust-banks/sumitomo-mitsui-trust"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX.md",
-      "https://finwiki.zksc.io/ja/banking/trust-bank-custody-operating-comparison/",
       "https://finwiki.zksc.io/ja/domains/business/",
       "https://finwiki.zksc.io/ja/card-issuers/aeon-bank/",
       "https://finwiki.zksc.io/ja/card-issuers/aeon-financial-service/",
@@ -128,13 +125,22 @@
       "https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/",
       "https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 8,
+    "external_links": [
+      "https://www.aeon-jreit.co.jp/en/",
+      "https://www.aeon-jreit.co.jp/en/about/profile.html",
+      "https://www.aeon-jreit.co.jp/en/about/structure.html",
+      "https://www.aeon-jreit.co.jp/en/portfolio/list.html",
+      "https://www.aeon-jreit.co.jp/en/strategy/financial.html",
+      "https://www.aeonmall.com/en/ir/",
+      "https://www.fsa.go.jp/en/refer/legislation/20130416/02.pdf",
+      "https://www.jpx.co.jp/english/equities/products/reits/issues/index.html"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 21372,
+    "nonspace_chars": 21281,
     "word_like_tokens": 3474,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-30"
   }
 }

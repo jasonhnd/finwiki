@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-07-29T21:36:48+09:00",
+  "generated_at": "2026-07-30T00:31:32+09:00",
   "counts": {
-    "markdown_files": 1606,
-    "public_markdown_pages": 1605,
+    "markdown_files": 1607,
+    "public_markdown_pages": 1606,
     "site_urls_in_sitemap": 1482,
     "topical_domains": 40,
     "link_audited_entries": 1489,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10828713,
-    "word_like_tokens": 1741930,
+    "nonspace_utf8_chars": 10959252,
+    "word_like_tokens": 1764477,
     "entity_anchors": 12,
     "entity_mirror_pages": 12,
     "entity_nodes": 89,
@@ -2663,11 +2663,11 @@
         "日本語",
         "English",
         "中文",
-        "2026-07-29 - Table provenance batch 07 corrections (#237)",
+        "2026-07-29 - Table provenance batch 08 corrections (#238)",
         "日本語",
         "English",
         "中文",
-        "2026-07-29 - Table provenance batch 06 corrections (#236)"
+        "2026-07-29 - Table provenance batch 07 corrections (#237)"
       ],
       "wikilinks": [],
       "resolved_wikilinks": [],
@@ -2676,9 +2676,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 259936,
-      "word_like_tokens": 47811,
-      "last_modified": "2026-07-29"
+      "nonspace_chars": 267918,
+      "word_like_tokens": 49339,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "HOW-TO-NAVIGATE.md",
@@ -3236,9 +3236,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 25602,
-      "word_like_tokens": 4301,
-      "last_modified": "2026-07-29"
+      "nonspace_chars": 26959,
+      "word_like_tokens": 4524,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "SCHEMA.md",
@@ -29773,7 +29773,7 @@
         "TSA — transition services agreement",
         "Tax considerations",
         "Carve-out workstreams",
-        "Recent examples (2023-2026)",
+        "Verified public example",
         "Research checklist"
       ],
       "wikilinks": [
@@ -29804,12 +29804,18 @@
         "https://finwiki.zksc.io/ja/finance/multi-jurisdiction-identity-tax-leverage/",
         "https://finwiki.zksc.io/ja/financial-licenses/securities-license-stack/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.japaneselawtranslation.go.jp/en/laws/view/4481/en",
+        "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/saihenzeisei/spin-off.html",
+        "https://www.meti.go.jp/press/2023/02/20240214006/20240214006.html",
+        "https://www.meti.go.jp/press/2026/04/20260417003/20260417003.html",
+        "https://www.sony.com/en/SonyInfo/IR/news/20251001_E.pdf"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 7957,
-      "word_like_tokens": 1226,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 10641,
+      "word_like_tokens": 1670,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "finance/cost-of-capital-japan-2026-reference.md",
@@ -29825,7 +29831,7 @@
       "domain": "finance",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "The cost of capital is the single most-leveraged input in any DCF valuation and the structural anchor for LBO economics, real-estate IRR underwriting, and acquisition finance pricing. For Japan as of 2026, the structural inputs are: (1) risk-free reference rate based on 10-year JGB yield (~1.0-1.5%",
+      "summary": "The cost of capital is a highly sensitive input in any DCF valuation and a structural anchor for LBO economics, real-estate IRR underwriting, and acquisition finance pricing. For Japan, practitioners should refresh the JGB or TONA/OIS reference rate on the valuation date, select and document an ERP",
       "headings": [
         "Cost of capital Japan 2026 reference",
         "TL;DR",
@@ -29853,9 +29859,6 @@
         "finance/real-options-valuation-japan-applications",
         "insurance/economic-value-based-solvency",
         "insurance/japan-life-insurance-alm-overview",
-        "megabanks/mizuho-fg",
-        "megabanks/mufg",
-        "megabanks/smfg",
         "money-market/boj-post-2024-floor-system-complementary-deposit-facility",
         "money-market/japan-money-market",
         "real-estate-finance/cap-rate-noi-irr-real-estate-valuation-framework",
@@ -29877,9 +29880,6 @@
         "https://finwiki.zksc.io/ja/finance/real-options-valuation-japan-applications/",
         "https://finwiki.zksc.io/ja/insurance/economic-value-based-solvency/",
         "https://finwiki.zksc.io/ja/insurance/japan-life-insurance-alm-overview/",
-        "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
-        "https://finwiki.zksc.io/ja/megabanks/mufg/",
-        "https://finwiki.zksc.io/ja/megabanks/smfg/",
         "https://finwiki.zksc.io/ja/money-market/boj-post-2024-floor-system-complementary-deposit-facility/",
         "https://finwiki.zksc.io/ja/money-market/japan-money-market/",
         "https://finwiki.zksc.io/ja/real-estate-finance/cap-rate-noi-irr-real-estate-valuation-framework/",
@@ -29889,9 +29889,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 11169,
-      "word_like_tokens": 1874,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 14622,
+      "word_like_tokens": 2485,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "finance/cross-border-m-a-japan.md",
@@ -29947,12 +29947,16 @@
         "https://finwiki.zksc.io/ja/securities-firms/smbc-nikko/",
         "https://finwiki.zksc.io/ja/domains/securities/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.jftc.go.jp/en/policy_enforcement/mergers/index.html",
+        "https://www.jpx.co.jp/english/equities/listing/disclosure/tdnet/index.html",
+        "https://www.mof.go.jp/english/policy/international_policy/fdi/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4473,
-      "word_like_tokens": 666,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 5221,
+      "word_like_tokens": 802,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "finance/dcf-vs-multiples-vs-nav-cross-domain-valuation-framework.md",
@@ -29968,14 +29972,14 @@
       "domain": "finance",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "Three valuation approaches dominate financial analysis across domains: discounted cash flow (DCF), trading / transaction multiples, and net asset value (NAV). Each carries a structural assumption about what drives value — future free cash flow, market-implied comparable pricing, or the sum of asset",
+      "summary": "Three common valuation approaches are discounted cash flow (DCF), trading / transaction multiples, and net asset value (NAV). Each tests a different value premise—future free cash flow, comparable market pricing, or asset values net of liabilities—and none is presumed to dominate across companies, t",
       "headings": [
         "DCF vs multiples vs NAV cross-domain valuation framework",
         "TL;DR",
         "Wiki route",
         "The Three Approaches at a Glance",
         "Mechanics",
-        "When DCF Fits",
+        "When DCF May Fit",
         "Common DCF Pitfalls",
         "Japan-Specific DCF Adjustments",
         "Common Multiples by Asset Type",
@@ -30028,9 +30032,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 13118,
-      "word_like_tokens": 2043,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 17638,
+      "word_like_tokens": 2852,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "finance/esg-sustainability-cross-domain-framework.md",
@@ -30046,7 +30050,7 @@
       "domain": "finance",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "ESG / sustainability has moved from voluntary disclosure to a structured cross-domain framework that overlays corporate valuation, M&A diligence, real-estate operating quality, fixed-income structuring, and listed-equity governance. The 2026 landscape rests on four pillars: (1) ratings (MSCI / S&P G",
+      "summary": "ESG / sustainability analysis can involve provider ratings, disclosure frameworks, governance rules, labelled debt, real-estate assessments, and transaction diligence. Their legal force, methodology, scope, and use differ by issuer, date, jurisdiction, product, and mandate. This page routes to the c",
       "headings": [
         "ESG sustainability cross-domain framework",
         "TL;DR",
@@ -30106,9 +30110,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 12596,
-      "word_like_tokens": 1857,
-      "last_modified": "2026-06-02"
+      "nonspace_chars": 17749,
+      "word_like_tokens": 2746,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "finance/fire-math-reverse-derivation.md",
@@ -30194,14 +30198,9 @@
         "finance/japan-ib-league-table",
         "finance/japan-tender-offer-process",
         "financial-regulators/dbj",
-        "foreign-financial-institutions/jpmorgan-japan",
         "megabanks/mizuho-bank",
         "megabanks/mufg-bank",
         "megabanks/sumitomo-mitsui-banking-corp",
-        "securities-firms/daiwa-sg",
-        "securities-firms/goldman-sachs-japan",
-        "securities-firms/morgan-stanley-japan",
-        "securities-firms/nomura-hd",
         "securities/INDEX",
         "securities/japan-underwriting-market-structure",
         "trust-banks/smtb"
@@ -30215,24 +30214,24 @@
         "https://finwiki.zksc.io/ja/finance/japan-ib-league-table/",
         "https://finwiki.zksc.io/ja/finance/japan-tender-offer-process/",
         "https://finwiki.zksc.io/ja/financial-regulators/dbj/",
-        "https://finwiki.zksc.io/ja/foreign-financial-institutions/jpmorgan-japan/",
         "https://finwiki.zksc.io/ja/megabanks/mizuho-bank/",
         "https://finwiki.zksc.io/ja/megabanks/mufg-bank/",
         "https://finwiki.zksc.io/ja/megabanks/sumitomo-mitsui-banking-corp/",
-        "https://finwiki.zksc.io/ja/securities-firms/daiwa-sg/",
-        "https://finwiki.zksc.io/ja/securities-firms/goldman-sachs-japan/",
-        "https://finwiki.zksc.io/ja/securities-firms/morgan-stanley-japan/",
-        "https://finwiki.zksc.io/ja/securities-firms/nomura-hd/",
         "https://finwiki.zksc.io/ja/domains/securities/",
         "https://finwiki.zksc.io/ja/securities/japan-underwriting-market-structure/",
         "https://finwiki.zksc.io/ja/trust-banks/smtb/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://disclosure.edinet-fsa.go.jp/",
+        "https://www.fsa.go.jp/en/laws_regulations/faq_on_fiea/section04.html",
+        "https://www.fsa.go.jp/news/r6/ginkou/20250630-2/250630-2.html",
+        "https://www.jpx.co.jp/english/equities/listing/disclosure/tdnet/index.html"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6861,
-      "word_like_tokens": 1034,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 7754,
+      "word_like_tokens": 1211,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "finance/japan-activist-investor-playbook.md",
@@ -30309,12 +30308,19 @@
         "https://finwiki.zksc.io/ja/securities/japan-underwriting-market-structure/",
         "https://finwiki.zksc.io/ja/securities/tokyo-stock-exchange/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.fsa.go.jp/common/shinsei/tairyohoyu/index.html",
+        "https://www.fsa.go.jp/en/policy/corporategovernencereform/20240115.html",
+        "https://www.fsa.go.jp/en/refer/councils/stewardship/index.html",
+        "https://www.jpx.co.jp/english/equities/listing/cg/index.html",
+        "https://www.jpx.co.jp/english/equities/listing/disclosure/tdnet/index.html",
+        "https://www.meti.go.jp/english/press/2023/0831_001.html"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 7597,
-      "word_like_tokens": 1114,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 9370,
+      "word_like_tokens": 1416,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "finance/japan-convertible-bond-mechanics.md",
@@ -30390,9 +30396,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 12438,
-      "word_like_tokens": 1896,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 16313,
+      "word_like_tokens": 2620,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "finance/japan-corporate-fx-and-rate-hedge-policy.md",
@@ -30415,10 +30421,10 @@
         "TL;DR",
         "Hedge policy framework",
         "Exposure types",
-        "Typical hedge ratio fields",
+        "Hedge-ratio evidence fields",
         "Instrument selection",
         "Exposure types",
-        "Typical hedge instruments",
+        "Possible hedge instruments",
         "TONA transition"
       ],
       "wikilinks": [
@@ -30478,9 +30484,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 14032,
-      "word_like_tokens": 2068,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 18629,
+      "word_like_tokens": 2812,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "finance/japan-cross-shareholding-unwinding-economics.md",
@@ -30504,8 +30510,8 @@
         "What counts as policy-holding stock",
         "Regulatory pressure trajectory",
         "IFRS 9 (for issuers applying IFRS)",
-        "Revised JGAAP",
-        "Tax-efficient disposal routes",
+        "Japanese GAAP (other securities)",
+        "Disposal-route diligence",
         "Strategic signal in unwinding",
         "Peer comparison framework"
       ],
@@ -30561,12 +30567,24 @@
         "https://finwiki.zksc.io/ja/megabanks/smfg/",
         "https://finwiki.zksc.io/ja/securities/japan-underwriting-market-structure/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://disclosure2.edinet-fsa.go.jp/",
+        "https://www.asb-j.jp/jp/accounting_standards_system/details.html?topics_id=109",
+        "https://www.fsa.go.jp/common/shinsei/tairyohoyu/index.html",
+        "https://www.fsa.go.jp/en/news/2025/20250630-1.html",
+        "https://www.fsa.go.jp/en/refer/councils/corporategovernance/index.html",
+        "https://www.fsa.go.jp/news/r7/sonota/20260327.html",
+        "https://www.jpx.co.jp/english/corporate/news/news-releases/1020/20260721-01.html",
+        "https://www.jpx.co.jp/english/equities/listing/cg/index.html",
+        "https://www.jpx.co.jp/english/equities/listing/disclosure/tdnet/index.html",
+        "https://www.jpx.co.jp/english/equities/trading/tostnet/index.html",
+        "https://www.jpx.co.jp/english/news/1020/20260428-01.html"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 12833,
-      "word_like_tokens": 1912,
-      "last_modified": "2026-06-15"
+      "nonspace_chars": 17815,
+      "word_like_tokens": 2854,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "finance/japan-fair-disclosure-and-insider-trading-controls.md",
@@ -30635,12 +30653,17 @@
         "https://finwiki.zksc.io/ja/securities/japan-underwriting-market-structure/",
         "https://finwiki.zksc.io/ja/securities/tokyo-stock-exchange/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.fsa.go.jp/en/laws_regulations/disclosure/20180206-2.pdf",
+        "https://www.japaneselawtranslation.go.jp/en/laws/view/4633/en",
+        "https://www.jpx.co.jp/english/equities/listing/disclosure/",
+        "https://www.jpx.co.jp/equities/listing/disclosure/tdnet/index.html"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 7024,
-      "word_like_tokens": 1020,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 8036,
+      "word_like_tokens": 1194,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "finance/japan-ib-league-table.md",
@@ -30696,12 +30719,15 @@
         "https://finwiki.zksc.io/ja/securities-firms/smbc-nikko/",
         "https://finwiki.zksc.io/ja/domains/securities/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.jpx.co.jp/english/equities/listing-on-tse/new/basic/03.html",
+        "https://www.lseg.com/en/data-analytics/financial-data/deals-data/investment-banking-league-tables"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3970,
-      "word_like_tokens": 613,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 4312,
+      "word_like_tokens": 671,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "finance/japan-large-shareholding-disclosure.md",
@@ -30717,7 +30743,7 @@
       "domain": "finance",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "Japan's large-shareholding disclosure regime is the FIEA \"5% rule\" for revealing block ownership, influence, and market-supply information. Once a holder's ratio exceeds 5%, a Large Shareholding Report is generally required within five business days. Later material changes, including a 1% or greater",
+      "summary": "Japan's large-shareholding disclosure regime is the FIEA \"5% rule\" for revealing block ownership, influence, and market-supply information. Once a holder's ratio exceeds 5%, a Large Shareholding Report is generally required within five business days. Later material changes, including a holding-ratio",
       "headings": [
         "Japan large shareholding disclosure",
         "Overview",
@@ -30756,12 +30782,16 @@
         "https://finwiki.zksc.io/ja/regional-banks/sbi-shinsei-bank/",
         "https://finwiki.zksc.io/ja/securities/tokyo-stock-exchange/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.fsa.go.jp/common/shinsei/tairyohoyu/index.html",
+        "https://www.fsa.go.jp/news/r7/shouken/20250704/20250704.html",
+        "https://www.jpx.co.jp/equities/listing/disclosure/tdnet/index.html"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6032,
-      "word_like_tokens": 940,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 6838,
+      "word_like_tokens": 1091,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "finance/japan-leveraged-buyout-economics.md",
@@ -30861,7 +30891,7 @@
         "Wiki route",
         "TL;DR",
         "Universe Scope",
-        "Investable-Universe Matrix Fields",
+        "Universe Matrix Fields",
         "Megabank FGs",
         "Trust FG",
         "Regional FGs (representative)",
@@ -30906,14 +30936,21 @@
       ],
       "markdown_links": [
         "https://disclosure.edinet-fsa.go.jp/",
+        "https://global.rakuten.com/corp/news/assets/pdf/press/20260225_13_E.pdf",
+        "https://www.acom.co.jp/corp/english/ir/stock/outline/",
+        "https://www.jpx.co.jp/english/markets/indices/topix/",
+        "https://www.jpx.co.jp/english/markets/statistics-equities/misc/01.html",
+        "https://www.jpx.co.jp/english/news/1021/20180116-11.html",
+        "https://www.jpx.co.jp/english/news/1023/20250828-12.html",
         "https://www.jpx.co.jp/equities/listing/disclosure/tdnet/index.html",
-        "https://www.jpx.co.jp/markets/indices/topix/"
+        "https://www.jpx.co.jp/markets/indices/topix/",
+        "https://www.softbank.jp/en/corp/ir/stock/info/"
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 23272,
-      "word_like_tokens": 3680,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 19051,
+      "word_like_tokens": 3096,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "finance/japan-m-a-deal-process-comparison-matrix.md",
@@ -30962,6 +30999,7 @@
         "finance/japan-private-equity-operating-model",
         "finance/japan-shareholder-proposal-and-agm-voting-route",
         "finance/japan-tender-offer-process",
+        "finance/jftc-merger-control-process",
         "finance/multi-jurisdiction-identity-tax-leverage",
         "financial-regulators/dbj",
         "megabanks/mizuho-bank",
@@ -30996,6 +31034,7 @@
         "https://finwiki.zksc.io/ja/finance/japan-private-equity-operating-model/",
         "https://finwiki.zksc.io/ja/finance/japan-shareholder-proposal-and-agm-voting-route/",
         "https://finwiki.zksc.io/ja/finance/japan-tender-offer-process/",
+        "https://finwiki.zksc.io/ja/finance/jftc-merger-control-process/",
         "https://finwiki.zksc.io/ja/finance/multi-jurisdiction-identity-tax-leverage/",
         "https://finwiki.zksc.io/ja/financial-regulators/dbj/",
         "https://finwiki.zksc.io/ja/megabanks/mizuho-bank/",
@@ -31012,13 +31051,23 @@
       ],
       "markdown_links": [
         "https://disclosure.edinet-fsa.go.jp/",
-        "https://www.jpx.co.jp/equities/listing/disclosure/tdnet/index.html"
+        "https://www.fsa.go.jp/common/shinsei/tairyohoyu/index.html",
+        "https://www.fsa.go.jp/news/r6/ginkou/20250630-2/250630-2.html",
+        "https://www.fsa.go.jp/news/r7/shouken/20250704/20250704.html",
+        "https://www.japaneselawtranslation.go.jp/en/laws/view/4481/en",
+        "https://www.jftc.go.jp/en/policy_enforcement/mergers/index.html",
+        "https://www.jftc.go.jp/en/policy_enforcement/mergers/index_files/ThresholdforNotification.pdf",
+        "https://www.jpx.co.jp/equities/listing/disclosure/tdnet/index.html",
+        "https://www.lseg.com/en/data-analytics/financial-data/deals-data/investment-banking-league-tables",
+        "https://www.meti.go.jp/english/press/2023/0831_001.html",
+        "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/pdf/fairmaguidelines.pdf",
+        "https://www.mof.go.jp/english/policy/international_policy/fdi/"
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 31896,
-      "word_like_tokens": 5066,
-      "last_modified": "2026-06-15"
+      "nonspace_chars": 43583,
+      "word_like_tokens": 6954,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "finance/japan-mbo-and-squeeze-out-process.md",
@@ -31034,7 +31083,7 @@
       "domain": "finance",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "A Japanese listed-company MBO or controlling-shareholder buyout is a public-company control transaction. The public process route includes board and special committee process, valuation / fairness work, TOB launch and disclosure, target opinion / TDnet disclosure, settlement, post-TOB squeeze-out, a",
+      "summary": "A Japanese listed-company MBO or controlling-shareholder buyout is a public-company control transaction. Depending on the transaction, the public record may include board deliberation, conflict safeguards such as a special committee, valuation or fairness work, TOB disclosure, target opinion / TDnet",
       "headings": [
         "Japan MBO and squeeze-out process",
         "Overview",
@@ -31073,12 +31122,18 @@
         "https://finwiki.zksc.io/ja/regional-banks/sbi-shinsei-bank/",
         "https://finwiki.zksc.io/ja/securities/tokyo-stock-exchange/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.fsa.go.jp/news/r7/shouken/20250704/20250704.html",
+        "https://www.japaneselawtranslation.go.jp/en/laws/view/4481/en",
+        "https://www.jpx.co.jp/equities/listing/delisting/",
+        "https://www.jpx.co.jp/equities/listing/disclosure/tdnet/index.html",
+        "https://www.meti.go.jp/policy/economy/keiei_innovation/keizaihousei/pdf/fairmaguidelines.pdf"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6712,
-      "word_like_tokens": 1018,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 8278,
+      "word_like_tokens": 1287,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "finance/japan-private-equity-fund-structure-matrix.md",
@@ -31094,7 +31149,7 @@
       "domain": "finance",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "Japan's private capital universe is NOT one asset class; it is at least six distinct sub-strategies (buyout, growth, secondaries, continuation, infrastructure, private credit) and three distinct GP archetypes (global mega-PE Japan team, domestic independent GP, policy-aligned / state-affiliated GP)",
+      "summary": "Japan's private-capital universe is not one asset class. This page distinguishes buyout, growth, secondaries, continuation, infrastructure, and private credit, and separates global, domestic-independent, and policy-aligned GP archetypes. It compares the diligence fields for fund type, target profile",
       "headings": [
         "Japan private equity fund structure matrix",
         "TL;DR",
@@ -31155,12 +31210,35 @@
         "https://finwiki.zksc.io/ja/securities/japan-prime-brokerage-and-institutional-financing/",
         "https://finwiki.zksc.io/ja/trust-banks/smtb/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://disclosure.edinet-fsa.go.jp/",
+        "https://ilpa.org/industry-guidance/principles-best-practices/continuation-funds/",
+        "https://ilpa.org/industry-guidance/templates-standards-model-documents/ilpa-templates-hub/ilpa-reporting-template/",
+        "https://polaris-cg.com/us/",
+        "https://www.advantagepartners.com/en/",
+        "https://www.apollo.com/",
+        "https://www.ardian.com/",
+        "https://www.aresmgmt.com/",
+        "https://www.baincapital.com/locations",
+        "https://www.blackstone.com/",
+        "https://www.carlyle.com/where-we-are-located/japan",
+        "https://www.collercapital.com/",
+        "https://www.dbj.jp/en/",
+        "https://www.fsa.go.jp/news/r6/ginkou/20250630-2/250630-2.html",
+        "https://www.integralkk.com/en/",
+        "https://www.j-star.co.jp/en/",
+        "https://www.japaneselawtranslation.go.jp/en/laws/view/5019/en",
+        "https://www.jiccapital.co.jp/en/",
+        "https://www.jpx.co.jp/equities/listing/disclosure/tdnet/index.html",
+        "https://www.kkr.com/locations",
+        "https://www.macquarie.com/us/en/about/company/macquarie-asset-management/capabilities.html",
+        "https://www.meti.go.jp/english/policy/economy/startup_nbp/limitedpartners.html"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 27892,
-      "word_like_tokens": 4412,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 32989,
+      "word_like_tokens": 5019,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "finance/japan-private-equity-operating-model.md",
@@ -31252,9 +31330,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 14279,
-      "word_like_tokens": 2224,
-      "last_modified": "2026-06-15"
+      "nonspace_chars": 20410,
+      "word_like_tokens": 3204,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "finance/japan-shareholder-proposal-and-agm-voting-route.md",
@@ -31325,12 +31403,16 @@
         "https://finwiki.zksc.io/ja/securities/japan-underwriting-market-structure/",
         "https://finwiki.zksc.io/ja/securities/tokyo-stock-exchange/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.japaneselawtranslation.go.jp/en/laws/view/4481/en",
+        "https://www.jpx.co.jp/english/equities/listing/disclosure/guidebook/dh3otn0000000xbv-att/Guidebook.pdf",
+        "https://www.jpx.co.jp/equities/listing/cg/index.html"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 7458,
-      "word_like_tokens": 1085,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 8712,
+      "word_like_tokens": 1299,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "finance/japan-takeover-defense-poison-pill.md",
@@ -31346,14 +31428,14 @@
       "domain": "finance",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "Japan takeover defense is a board-level response system that sits on top of the FIEA tender-offer process: when a hostile bidder appears, the target chooses between pre-bid structural defenses (advance-warning rights-plan, golden parachute, cross-shareholdings) and in-bid tactical responses (white-k",
+      "summary": "Japan takeover defense is a set of possible issuer responses that may interact with the FIEA tender-offer process, the Companies Act, listing rules, and judicial review. A company may have a disclosed advance-warning response policy or may evaluate an event-specific response, but no mechanism or out",
       "headings": [
         "Japan takeover defense and poison pill",
         "Overview",
         "Defense taxonomy",
         "Bull-Dog Sauce 2007 — the foundational case",
-        "METI 2023 Fair M&A Guidelines",
-        "Recent cases (2020-2026)",
+        "METI 2023 Guidelines for Corporate Takeovers",
+        "Primary public records",
         "Pre-bid vs in-bid response decision",
         "What to extract from a defense filing",
         "Research checklist",
@@ -31381,12 +31463,16 @@
         "https://finwiki.zksc.io/ja/finance/japan-tender-offer-process/",
         "https://finwiki.zksc.io/ja/finance/jftc-merger-control-process/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.courts.go.jp/hanrei/search2/index.html",
+        "https://www.jpx.co.jp/english/equities/listing/code-of-conduct/index.html",
+        "https://www.meti.go.jp/english/press/2023/0831_001.html"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6634,
-      "word_like_tokens": 1016,
-      "last_modified": "2026-05-25"
+      "nonspace_chars": 8312,
+      "word_like_tokens": 1336,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "finance/japan-tender-offer-process.md",
@@ -31450,12 +31536,16 @@
         "https://finwiki.zksc.io/ja/securities/japan-underwriting-market-structure/",
         "https://finwiki.zksc.io/ja/securities/tokyo-stock-exchange/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.fsa.go.jp/common/shinsei/tairyohoyu/index.html",
+        "https://www.fsa.go.jp/news/r7/shouken/20250704/20250704.html",
+        "https://www.jpx.co.jp/english/equities/listing/disclosure/tdnet/index.html"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5672,
-      "word_like_tokens": 845,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 7062,
+      "word_like_tokens": 1101,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "finance/jftc-merger-control-process.md",
@@ -31471,14 +31561,14 @@
       "domain": "finance",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "JFTC (Japan Fair Trade Commission) merger control is the antitrust gate that sits in parallel with the FIEA tender offer route: any control transaction that crosses domestic-turnover thresholds must be pre-notified to JFTC under the Antimonopoly Act (AMA) and cleared before completion. It belongs in",
+      "summary": "JFTC (Japan Fair Trade Commission) merger control is the antitrust review route that may sit in parallel with the FIEA tender offer route. Prior notification is required only when an enumerated transaction form, the applicable domestic-sales thresholds, the voting-right or transferred-business test,",
       "headings": [
         "JFTC merger control process",
         "Overview",
         "Notification thresholds (post-2010 amendment)",
         "Phase I / Phase II review",
         "Gun-jumping prohibitions",
-        "Recent case map",
+        "Public case-file route",
         "What to extract from a JFTC file",
         "Research checklist",
         "Related",
@@ -31494,7 +31584,6 @@
         "finance/japan-ib-league-table",
         "finance/japan-leveraged-buyout-economics",
         "finance/japan-mbo-and-squeeze-out-process",
-        "finance/japan-takeover-defense-poison-pill",
         "finance/japan-tender-offer-process",
         "financial-licenses/securities-license-stack"
       ],
@@ -31508,16 +31597,20 @@
         "https://finwiki.zksc.io/ja/finance/japan-ib-league-table/",
         "https://finwiki.zksc.io/ja/finance/japan-leveraged-buyout-economics/",
         "https://finwiki.zksc.io/ja/finance/japan-mbo-and-squeeze-out-process/",
-        "https://finwiki.zksc.io/ja/finance/japan-takeover-defense-poison-pill/",
         "https://finwiki.zksc.io/ja/finance/japan-tender-offer-process/",
         "https://finwiki.zksc.io/ja/financial-licenses/securities-license-stack/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.jftc.go.jp/en/policy_enforcement/mergers/191217.pdf",
+        "https://www.jftc.go.jp/en/policy_enforcement/mergers/191217002.pdf",
+        "https://www.jftc.go.jp/en/policy_enforcement/mergers/index.html",
+        "https://www.jftc.go.jp/en/policy_enforcement/mergers/index_files/ThresholdforNotification.pdf"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5876,
-      "word_like_tokens": 918,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 8074,
+      "word_like_tokens": 1312,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "finance/multi-jurisdiction-identity-tax-leverage.md",
@@ -31581,13 +31674,13 @@
       "domain": "finance",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "Real options frame business decisions as options held on real (not financial) assets — the option to expand, contract, abandon, delay, switch, or stage an investment. Unlike static DCF NPV which treats the decision as a now-or-never go / no-go, real options recognise that management can wait, observ",
+      "summary": "Real options frame some business decisions as contingent rights over real (not financial) assets — for example, a documented ability to expand, contract, abandon, delay, switch, or stage an investment. DCF NPV can also incorporate scenarios and decision rules; the distinction is whether the analyst",
       "headings": [
         "Real options valuation Japan applications",
         "TL;DR",
         "Wiki route",
         "Why Real Options vs DCF NPV",
-        "The Six Common Real-Option Types",
+        "Six Illustrative Real-Option Types",
         "Option to Expand / Abandon / Delay",
         "Real-Options Framing vs DCF NPV",
         "TOB → Squeeze-Out Optionality",
@@ -31645,9 +31738,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 12434,
-      "word_like_tokens": 1943,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 16595,
+      "word_like_tokens": 2630,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "financial-conglomerates/INDEX.md",
@@ -75611,7 +75704,7 @@
       "domain": "real-estate-finance",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "AEON Group's mall arm — AEON Mall Co., Ltd. (TSE Prime 8905) — is the largest shopping-mall developer-operator in Japan and a textbook case of the listed developer / sponsor J-REIT two-layer financing model. AEON Mall develops and operates large suburban malls on a corporate balance sheet funded by",
+      "summary": "AEON Group's mall arm — AEON Mall Co., Ltd. (TSE Prime 8905) — is a major Japanese shopping-mall developer and operator and an example of a listed developer / sponsor J-REIT two-layer model. AEON Mall develops and operates malls on its corporate balance sheet using the funding mix disclosed in its c",
       "headings": [
         "AEON Mall financing and securitization",
         "TL;DR",
@@ -75626,7 +75719,6 @@
       ],
       "wikilinks": [
         "INDEX",
-        "banking/trust-bank-custody-operating-comparison",
         "banking/trust-bank-custody-operating-comparison\\",
         "business/INDEX",
         "card-issuers/aeon-bank",
@@ -75648,20 +75740,16 @@
         "real-estate-finance/mitsui-fudosan-financing-model",
         "real-estate-finance/mitsui-fudosan-financing-model\\",
         "real-estate-finance/real-estate-cap-rate-compression-2026",
-        "real-estate-finance/real-estate-cap-rate-compression-2026\\",
         "real-estate-finance/top-10-j-reit-overview-matrix",
         "retail/INDEX",
         "retail/aeon-group",
         "retail/seven-and-i-hd",
         "retail/seven-and-i-hd\\",
         "trust-banks/mitsubishi-ufj-trust-bank",
-        "trust-banks/mitsubishi-ufj-trust-bank\\",
-        "trust-banks/sumitomo-mitsui-trust",
-        "trust-banks/sumitomo-mitsui-trust\\"
+        "trust-banks/sumitomo-mitsui-trust"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/INDEX.md",
-        "https://finwiki.zksc.io/ja/banking/trust-bank-custody-operating-comparison/",
         "https://finwiki.zksc.io/ja/domains/business/",
         "https://finwiki.zksc.io/ja/card-issuers/aeon-bank/",
         "https://finwiki.zksc.io/ja/card-issuers/aeon-financial-service/",
@@ -75683,12 +75771,21 @@
         "https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/",
         "https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.aeon-jreit.co.jp/en/",
+        "https://www.aeon-jreit.co.jp/en/about/profile.html",
+        "https://www.aeon-jreit.co.jp/en/about/structure.html",
+        "https://www.aeon-jreit.co.jp/en/portfolio/list.html",
+        "https://www.aeon-jreit.co.jp/en/strategy/financial.html",
+        "https://www.aeonmall.com/en/ir/",
+        "https://www.fsa.go.jp/en/refer/legislation/20130416/02.pdf",
+        "https://www.jpx.co.jp/english/equities/products/reits/issues/index.html"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 21372,
+      "nonspace_chars": 21281,
       "word_like_tokens": 3474,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "real-estate-finance/bank-commercial-real-estate-lending-japan.md",
@@ -75704,7 +75801,7 @@
       "domain": "real-estate-finance",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "Japan commercial real-estate (CRE) lending is a layered system. Megabanks anchor large project finance and J-REIT sponsor loans. Trust banks bridge balance-sheet lending with real-estate trust functions, appraisal, and asset administration. Regional banks have grown CRE concentration to offset core",
+      "summary": "Japan commercial real-estate (CRE) credit can involve megabanks, trust banks, regional banks, policy lenders, foreign banks, and non-bank capital. Roles, exposure, recourse, LTV, DSCR, pricing, tenor, guarantees, and collateral are lender-, borrower-, facility-, asset-, and date-specific. BOJ Financ",
       "headings": [
         "Japan bank commercial real estate lending",
         "TL;DR",
@@ -75713,8 +75810,8 @@
         "Project Finance vs Corporate Finance",
         "Loan-to-Value (LTV) Underwriting Range",
         "Debt-Service-Coverage (DSCR) and Interest-Coverage Floors",
-        "Post-2008 Supervisory Tightening",
-        "Post-Pandemic CRE Concentration",
+        "Supervisory and Historical Review",
+        "Pandemic-Period and Concentration Review",
         "Megabank CRE Exposure Shape"
       ],
       "wikilinks": [
@@ -75768,9 +75865,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 13111,
-      "word_like_tokens": 2034,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 16063,
+      "word_like_tokens": 2562,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "real-estate-finance/cap-rate-noi-irr-real-estate-valuation-framework.md",
@@ -75786,7 +75883,7 @@
       "domain": "real-estate-finance",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "Real-estate valuation in Japan is structured around four interlinked metrics: cap rate (NOI yield), NOI / NCF (net operating income / net cash flow), unlevered IRR (project return), and levered IRR (equity return). These metrics overlay the three-approach appraisal framework — income, comparison, co",
+      "summary": "Cap rate, NOI / NCF, unlevered IRR, and levered IRR are related but definition-sensitive real-estate metrics. The 不動産鑑定評価基準 supplies the appraisal framework; a J-REIT's named appraiser and disclosure, a fund's governing documents and underwriting, and a transaction's actual cash flows supply the ass",
       "headings": [
         "Cap rate NOI IRR real-estate valuation framework",
         "TL;DR",
@@ -75848,9 +75945,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 11607,
-      "word_like_tokens": 1906,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 16076,
+      "word_like_tokens": 2665,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "real-estate-finance/gk-tk-bond-real-estate-spv.md",
@@ -75866,7 +75963,7 @@
       "domain": "real-estate-finance",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "The GK-TK structure (合同会社 + 匿名組合) is the dominant private-SPV vehicle for Japanese real-estate investment by professional and foreign investors. A 合同会社 (GK — Japanese LLC) is the legal-entity layer that holds the asset (typically a 信託受益権 on the underlying real estate), and the 匿名組合 (TK — silent part",
+      "summary": "GK-TK (合同会社 + 匿名組合) is a private-SPV arrangement used in Japanese real-estate transactions. A 合同会社 (GK) is the legal-entity layer, while a 商法-based 匿名組合 (TK) is a contract under which an investor contributes to the operator's business and receives the contractually allocated result without becoming",
       "headings": [
         "GK-TK bond real-estate SPV",
         "TL;DR",
@@ -75880,8 +75977,6 @@
         "TK distribution as deductible expense"
       ],
       "wikilinks": [
-        "JapanFG/moodys-japan",
-        "JapanFG/sp-global-ratings-japan",
         "banking/INDEX",
         "banking/japan-master-trust-and-custody-bank-landscape",
         "banking/master-trust-bank-operating-model",
@@ -75902,7 +75997,6 @@
         "real-estate-finance/real-estate-bridge-fund-japan",
         "real-estate-finance/top-10-j-reit-overview-matrix",
         "securities/japan-securities-depository-center",
-        "trust-banks/custody-bank",
         "trust-banks/master-trust-bank",
         "trust-banks/mitsubishi-ufj-trust-bank",
         "trust-banks/mizuho-trust-bank",
@@ -75929,7 +76023,6 @@
         "https://finwiki.zksc.io/ja/real-estate-finance/real-estate-bridge-fund-japan/",
         "https://finwiki.zksc.io/ja/real-estate-finance/top-10-j-reit-overview-matrix/",
         "https://finwiki.zksc.io/ja/securities/japan-securities-depository-center/",
-        "https://finwiki.zksc.io/ja/trust-banks/custody-bank/",
         "https://finwiki.zksc.io/ja/trust-banks/master-trust-bank/",
         "https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/",
         "https://finwiki.zksc.io/ja/trust-banks/mizuho-trust-bank/",
@@ -75938,9 +76031,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 14139,
-      "word_like_tokens": 2373,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 20033,
+      "word_like_tokens": 3307,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "real-estate-finance/glp-j-reit-3281.md",
@@ -75956,16 +76049,16 @@
       "domain": "real-estate-finance",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "GLP J-REIT's structural identity rests on three pillars: (i) sponsor pipeline — GLP develops modern logistics assets on the sponsor balance sheet and feeds stabilized properties into GLP J-REIT through preferential-supply agreements; (ii) active asset rotation — periodic disposition of properties no",
+      "summary": "Current issuer materials identify sponsor-support functions and disclose the portfolio, tenants, acquisitions and dispositions. Use those dated records to evaluate pipeline contribution, asset changes and demand exposure. Compare GLP J-REIT with Nippon Prologis REIT (NPR, 3283) while keeping the two",
       "headings": [
         "GLP J-REIT (3281)",
         "TL;DR",
         "Wiki route",
         "1. Corporate identity",
-        "2. Sponsor platform — GLP",
+        "2. Sponsor platform — GLP Japan within Ares Management",
         "3. Portfolio composition",
         "4. Capital and leverage",
-        "5. Asset rotation strategy",
+        "5. Acquisition and disposition review",
         "6. Tenant economics",
         "7. GLP J-REIT vs Nippon Prologis REIT"
       ],
@@ -76007,12 +76100,21 @@
         "https://finwiki.zksc.io/ja/real-estate-finance/real-estate-cap-rate-compression-2026/",
         "https://finwiki.zksc.io/ja/real-estate-finance/top-10-j-reit-overview-matrix/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.glpjreit.com/en/",
+        "https://www.glpjreit.com/en/about/characteristics03.html",
+        "https://www.glpjreit.com/en/about/profile3.html",
+        "https://www.glpjreit.com/en/ir/highlight.html",
+        "https://www.glpjreit.com/en/portfolio/data.html",
+        "https://www.glpjreit.com/file/en-ir_library_term-bc82993cd995ee87970d20b66cc358b6a9e6218f.pdf",
+        "https://www.jpx.co.jp/english/equities/products/reits/issues/index.html",
+        "https://www.prologis-reit.co.jp/en/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 9131,
-      "word_like_tokens": 1507,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 10625,
+      "word_like_tokens": 1758,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "real-estate-finance/j-reit-dividend-yield-vs-jgb-spread.md",
@@ -76028,7 +76130,7 @@
       "domain": "real-estate-finance",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "The J-REIT dividend yield minus 10Y JGB yield spread is a primary watch metric for Japan real-estate-investor positioning. Historically the spread has sat in a roughly 200 - 400bp band around the TSE REIT Index average dividend yield. NIRP / YCC compression pinned the 10Y JGB near zero and pushed th",
+      "summary": "The J-REIT distribution yield minus a matched-date 10-year JGB yield is a useful positioning metric, but the result depends on index constituents, price date and whether distributions are trailing or forecast. This page therefore does not present an unsupported timeless “historical band” or a 2026 f",
       "headings": [
         "J-REIT dividend yield vs JGB spread",
         "TL;DR",
@@ -76089,12 +76191,21 @@
         "https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/",
         "https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.ares.or.jp/action/jreit/",
+        "https://www.boj.or.jp/en/mopo/index.htm",
+        "https://www.boj.or.jp/en/research/brp/fsr/index.htm",
+        "https://www.boj.or.jp/en/statistics/index.htm",
+        "https://www.jpx.co.jp/english/equities/products/reits/issues/index.html",
+        "https://www.jpx.co.jp/english/markets/indices/factsheets/files/e_102_fac2_REIT.pdf",
+        "https://www.jpx.co.jp/english/markets/statistics-equities/investor-type/index.html",
+        "https://www.mof.go.jp/english/policy/jgbs/reference/interest_rate/index.htm"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 11243,
-      "word_like_tokens": 1912,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 15037,
+      "word_like_tokens": 2560,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "real-estate-finance/j-reit-foreign-investor-ownership.md",
@@ -76110,7 +76221,7 @@
       "domain": "real-estate-finance",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "Foreign investors hold approximately one-quarter to one-third of total J-REIT investment units outstanding by value, with weekly flows publicly trackable on the JPX investor-type statistics for J-REIT trading. The foreign-investor base is structurally three-pronged: (1) global REIT specialist funds",
+      "summary": "The ARES unitholder survey for February 2026 reported foreign corporations and other foreign holders at 23.6% of the surveyed market value of J-REIT investment units held directly by the reported holder categories. “Direct” means direct ownership of investment units, not ownership of real estate, an",
       "headings": [
         "J-REIT foreign investor ownership",
         "TL;DR",
@@ -76120,7 +76231,7 @@
         "Segment 1 — Global REIT specialist funds",
         "Segment 2 — Sovereign wealth and large pension",
         "Segment 3 — Hedge funds and trading-style investors",
-        "Why the hedging cost dominates",
+        "How to test hedging cost",
         "Cross-currency basis swap"
       ],
       "wikilinks": [
@@ -76175,12 +76286,18 @@
         "https://finwiki.zksc.io/ja/trust-banks/mizuho-trust-bank/",
         "https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.ares.or.jp/action/monthly/pdf/ares_monthly_report_202606.pdf",
+        "https://www.boj.or.jp/en/statistics/index.htm",
+        "https://www.jasdec.com/en/",
+        "https://www.jpx.co.jp/english/markets/indices/factsheets/files/e_102_fac2_REIT.pdf",
+        "https://www.jpx.co.jp/english/markets/statistics-equities/investor-type/index.html"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 12728,
-      "word_like_tokens": 2210,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 14832,
+      "word_like_tokens": 2494,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "real-estate-finance/j-reit-market-overview.md",
@@ -76196,7 +76313,7 @@
       "domain": "real-estate-finance",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "J-REIT (Japan Real Estate Investment Trust) is the Japan listed-real-estate market layer. It is organized as an investment corporation (投資法人) under the Investment Trust Act rather than as an operating real-estate company. The TSE REIT Index covers around 60 listed J-REIT names with combined market c",
+      "summary": "J-REIT (Japan Real Estate Investment Trust) is the Japan listed-real-estate market layer. It is organized as an investment corporation (投資法人) under the Investment Trust Act rather than as an operating real-estate company. The ARES unitholder survey for February 2026 covered all 58 J-REITs then liste",
       "headings": [
         "J-REIT market overview",
         "TL;DR",
@@ -76223,18 +76340,13 @@
         "real-estate-finance/INDEX",
         "real-estate-finance/INDEX\\",
         "real-estate-finance/j-reit-sponsor-structure-conflict",
-        "real-estate-finance/j-reit-sponsor-structure-conflict\\",
         "real-estate-finance/j-reit-vs-us-reit-governance-comparison",
         "real-estate-finance/private-reit-japan-vs-listed-j-reit-comparison",
         "real-estate-finance/top-10-j-reit-overview-matrix",
         "retail/aeon-group",
-        "retail/aeon-group\\",
         "retail/seven-and-i-hd",
         "trust-banks/mitsubishi-ufj-trust-bank",
-        "trust-banks/mitsubishi-ufj-trust-bank\\",
-        "trust-banks/mizuho-trust-bank\\",
-        "trust-banks/sumitomo-mitsui-trust",
-        "trust-banks/sumitomo-mitsui-trust\\"
+        "trust-banks/sumitomo-mitsui-trust"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/INDEX.md",
@@ -76255,12 +76367,19 @@
         "https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/",
         "https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.ares.or.jp/action/jreit/",
+        "https://www.ares.or.jp/action/monthly/pdf/ares_monthly_report_202606.pdf",
+        "https://www.fsa.go.jp/en/refer/legislation/20130416/02.pdf",
+        "https://www.jpx.co.jp/english/equities/products/reits/guidebook/b5b4pj000003984r-att/REIT.pdf",
+        "https://www.jpx.co.jp/english/equities/products/reits/issues/index.html",
+        "https://www.jpx.co.jp/english/markets/statistics-equities/investor-type/index.html"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 10613,
-      "word_like_tokens": 1737,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 13816,
+      "word_like_tokens": 2258,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "real-estate-finance/j-reit-sponsor-structure-conflict.md",
@@ -76276,16 +76395,16 @@
       "domain": "real-estate-finance",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "A typical J-REIT looks like a single entity from the outside but is a three-party structure: the investment corporation that issues units, the asset-management company that runs it, and the sponsor (usually a developer) that sits behind both. The sponsor owns the asset-management company, supplies t",
+      "summary": "A J-REIT can look like a single entity from the outside but operates through an investment corporation and an external asset-management company. Many, but not all, J-REITs also have a sponsor that owns or influences the asset manager, may supply acquisition opportunities, and may hold investment uni",
       "headings": [
         "J-REIT sponsor structure and conflict of interest",
         "TL;DR",
         "Wiki route",
         "1. The three-party structure",
-        "2. Sponsor-support agreement — what it usually includes",
+        "2. Sponsor-support agreement — issuer-specific possibilities",
         "3. Named sponsors — public mapping",
         "4. Conflict-of-interest channels",
-        "5. FSA scrutiny lane",
+        "5. Regulatory and issuer-control verification",
         "6. Unit-holder protection toolkit",
         "7. Why this matters for investors"
       ],
@@ -76293,7 +76412,6 @@
         "INDEX",
         "banking/INDEX",
         "banking/trust-bank-custody-operating-comparison",
-        "banking/trust-bank-custody-operating-comparison\\",
         "finance/INDEX",
         "finance/japan-listed-financial-groups-investable-universe",
         "insurance/INDEX",
@@ -76327,12 +76445,28 @@
         "https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/",
         "https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.aeon-jreit.co.jp/en/",
+        "https://www.daiwa-house-reit.co.jp/en/",
+        "https://www.daiwa-office.co.jp/en/",
+        "https://www.fsa.go.jp/en/refer/legislation/20130416/02.pdf",
+        "https://www.glpjreit.com/en/",
+        "https://www.hulic-reit.co.jp/en/",
+        "https://www.j-re.co.jp/en_cms/",
+        "https://www.jpx.co.jp/english/equities/products/reits/guidebook/b5b4pj000003984r-att/REIT.pdf",
+        "https://www.kdx-reit.com/eng/",
+        "https://www.morihills-reit.co.jp/en/",
+        "https://www.mt-reit.jp/en/",
+        "https://www.nbf-m.com/nbf_e/",
+        "https://www.nre-mf.co.jp/en/",
+        "https://www.orixjreit.com/en/",
+        "https://www.prologis-reit.co.jp/en/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 10148,
-      "word_like_tokens": 1602,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 12301,
+      "word_like_tokens": 2009,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "real-estate-finance/j-reit-top-20-detailed-matrix.md",
@@ -76344,22 +76478,22 @@
       },
       "raw_markdown_url": "https://finwiki.zksc.io/real-estate-finance/j-reit-top-20-detailed-matrix.md",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/real-estate-finance/j-reit-top-20-detailed-matrix.md",
-      "title": "J-REIT top 20 detailed matrix",
+      "title": "J-REIT 20-name reference matrix",
       "domain": "real-estate-finance",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This matrix maps the top 20 listed J-REITs by approximate market capitalization (as of 2026-05) into a single comparison table covering ticker, sponsor, asset focus, AUM scale, market-cap band, LTV policy zone, distribution-per-unit (DPU) yield zone, sponsor type, top-tenant exposure pattern, and 20",
+      "summary": "This page is a 20-name editorial reference set, not a current top-20 ranking, market-cap league table, or investable screen. It preserves a cross-sector issuer sample while routing every row to official issuer evidence. Live market capitalization, AUM, LTV, distribution per unit (DPU), NAV per unit,",
       "headings": [
-        "J-REIT top 20 detailed matrix",
+        "J-REIT 20-name reference matrix",
         "TL;DR",
         "Wiki route",
-        "1. The top 20 — single-table master matrix",
-        "2. Asset-class concentration matrix",
-        "3. Sponsor-type matrix",
-        "4. LTV policy zone matrix",
-        "5. Tenant-concentration matrix",
-        "6. Foreign-sponsor vs domestic-sponsor split",
-        "7. Trustee-bank concentration"
+        "1. The 20-name reference set",
+        "2. Asset-class mix inside this reference set",
+        "3. Sponsor / asset-manager relationship matrix",
+        "4. LTV comparison protocol",
+        "5. Tenant-concentration protocol",
+        "6. Sponsor geography and ownership",
+        "7. Trustee verification"
       ],
       "wikilinks": [
         "INDEX",
@@ -76367,13 +76501,10 @@
         "banking/trust-bank-custody-operating-comparison",
         "finance/japan-listed-financial-groups-investable-universe",
         "leasing-firms/orix-corp",
-        "leasing-firms/orix-corp\\",
         "real-estate-finance/INDEX",
         "real-estate-finance/aeon-mall-financing-and-securitization",
-        "real-estate-finance/aeon-mall-financing-and-securitization\\",
         "real-estate-finance/bank-commercial-real-estate-lending-japan",
         "real-estate-finance/glp-j-reit-3281",
-        "real-estate-finance/glp-j-reit-3281\\",
         "real-estate-finance/j-reit-dividend-yield-vs-jgb-spread",
         "real-estate-finance/j-reit-foreign-investor-ownership",
         "real-estate-finance/j-reit-market-overview",
@@ -76381,34 +76512,22 @@
         "real-estate-finance/j-reit-vs-us-reit-governance-comparison",
         "real-estate-finance/japan-real-estate-appraisal-methodology",
         "real-estate-finance/japan-real-estate-j-reit-8952",
-        "real-estate-finance/japan-real-estate-j-reit-8952\\",
         "real-estate-finance/jpx-real-estate-index-derivatives",
         "real-estate-finance/jrei-foreign-investment-tax-treatment",
         "real-estate-finance/logistics-j-reit-vs-office-j-reit-asset-class-comparison",
         "real-estate-finance/mitsubishi-estate-financing-model",
-        "real-estate-finance/mitsubishi-estate-financing-model\\",
         "real-estate-finance/mitsui-fudosan-financing-model",
-        "real-estate-finance/mitsui-fudosan-financing-model\\",
         "real-estate-finance/nippon-building-fund-j-reit-8951",
-        "real-estate-finance/nippon-building-fund-j-reit-8951\\",
         "real-estate-finance/nippon-prologis-reit-3283",
-        "real-estate-finance/nippon-prologis-reit-3283\\",
         "real-estate-finance/nomura-real-estate-master-fund-nmf",
-        "real-estate-finance/nomura-real-estate-master-fund-nmf\\",
         "real-estate-finance/private-reit-japan-vs-listed-j-reit-comparison",
         "real-estate-finance/real-estate-cap-rate-compression-2026",
         "real-estate-finance/top-10-j-reit-overview-matrix",
         "retail/aeon-group",
-        "retail/aeon-group\\",
         "securities-firms/daiwa-sg",
-        "securities-firms/daiwa-sg\\",
         "securities-firms/nomura-hd",
-        "securities-firms/nomura-hd\\",
         "trust-banks/mitsubishi-ufj-trust-bank",
-        "trust-banks/mitsubishi-ufj-trust-bank\\",
-        "trust-banks/mizuho-trust-bank\\",
-        "trust-banks/sumitomo-mitsui-trust",
-        "trust-banks/sumitomo-mitsui-trust\\"
+        "trust-banks/sumitomo-mitsui-trust"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/INDEX.md",
@@ -76444,12 +76563,40 @@
         "https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/",
         "https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://sekisuihouse-reit.co.jp/en/",
+        "https://www.activia-reit.co.jp/en/",
+        "https://www.aeon-jreit.co.jp/en/",
+        "https://www.ares.or.jp/action/jreit/",
+        "https://www.daiwa-office.co.jp/en/",
+        "https://www.frontier-reit.co.jp/en/",
+        "https://www.fsa.go.jp/en/refer/legislation/20130416/02.pdf",
+        "https://www.glpjreit.com/en/",
+        "https://www.hulic-reit.co.jp/en/",
+        "https://www.iif-reit.com/en/",
+        "https://www.j-re.co.jp/en_cms/",
+        "https://www.jcr.co.jp/en/",
+        "https://www.jlf-reit.com/english/",
+        "https://www.jpx.co.jp/english/equities/products/reits/guidebook/b5b4pj000003984r-att/REIT.pdf",
+        "https://www.jpx.co.jp/english/equities/products/reits/issues/index.html",
+        "https://www.jpx.co.jp/english/markets/statistics-equities/investor-type/index.html",
+        "https://www.kdx-reit.com/eng/",
+        "https://www.mflp-reit.co.jp/en/",
+        "https://www.morihills-reit.co.jp/en/",
+        "https://www.mt-reit.jp/en/",
+        "https://www.naf-r.jp/english/",
+        "https://www.nbf-m.com/nbf_e/",
+        "https://www.nre-mf.co.jp/en/",
+        "https://www.orixjreit.com/en/",
+        "https://www.pic-reit.co.jp/en/",
+        "https://www.prologis-reit.co.jp/en/",
+        "https://www.r-i.co.jp/en/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 29817,
-      "word_like_tokens": 5025,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 20250,
+      "word_like_tokens": 3330,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "real-estate-finance/j-reit-vs-us-reit-governance-comparison.md",
@@ -76465,16 +76612,16 @@
       "domain": "real-estate-finance",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "The single biggest structural difference between J-REIT and US REIT is the management model. J-REIT use an external-management structure: an investment corporation outsources asset management to a separately incorporated asset-management company, typically owned by the developer sponsor. US REIT, af",
+      "summary": "A central structural difference between J-REIT and most publicly traded US REITs is the management model. J-REITs use an external-management structure: an investment corporation outsources asset management to a separately incorporated asset-management company, often sponsor-affiliated. Nareit report",
       "headings": [
         "J-REIT vs US REIT governance comparison",
         "TL;DR",
         "Wiki route",
         "1. Side-by-side comparison",
         "2. External vs internal management — what is at stake",
-        "3. Why US REIT moved internal",
+        "3. Current US pattern and historical evidence boundary",
         "4. Conflict of interest — where it shows up",
-        "5. Pipeline visibility",
+        "5. Acquisition sourcing and pipeline disclosure",
         "6. Unit-holder vs shareholder protection",
         "7. Why this matters for valuation"
       ],
@@ -76485,7 +76632,6 @@
         "finance/INDEX",
         "finance/japan-listed-financial-groups-investable-universe",
         "insurance/INDEX",
-        "money-market/INDEX\\",
         "policy-finance/INDEX",
         "real-estate-finance/INDEX",
         "real-estate-finance/j-reit-market-overview",
@@ -76511,12 +76657,17 @@
         "https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/",
         "https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.fsa.go.jp/en/refer/legislation/20130416/02.pdf",
+        "https://www.irs.gov/instructions/i1120rei",
+        "https://www.jpx.co.jp/english/equities/products/reits/guidebook/b5b4pj000003984r-att/REIT.pdf",
+        "https://www.reit.com/investing/reits-sustainability/2024-reit-sustainability-report-leadership"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 9981,
-      "word_like_tokens": 1574,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 12562,
+      "word_like_tokens": 1962,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "real-estate-finance/japan-cmbs-rmbs-securitization.md",
@@ -76532,7 +76683,7 @@
       "domain": "real-estate-finance",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "Japan's mortgage-backed securitization market splits cleanly into two strands. RMBS (residential mortgage-backed securities) is dominated by Japan Housing Finance Agency (JHF) monthly Monthly Pass-Through MBS issuance backed by Flat 35 fixed-rate housing loans originated through private bank channel",
+      "summary": "Japan's mortgage-backed securitization market includes JHF MBS, private RMBS, and CMBS. Scale, issuer mix, structures, ratings, and distribution must be measured for a stated period from current JHF, JSDA, and transaction disclosures. This page explains the JHF payment mechanism and supplies deal-sp",
       "headings": [
         "Japan CMBS and RMBS securitization market",
         "TL;DR",
@@ -76543,7 +76694,7 @@
         "Private RMBS",
         "Rating-agency criteria for RMBS",
         "Single-borrower CMBS post-2010",
-        "Conduit CMBS — dormant"
+        "Conduit CMBS — activity-status test"
       ],
       "wikilinks": [
         "JapanFG/moodys-japan",
@@ -76567,7 +76718,6 @@
         "real-estate-finance/private-reit-japan-vs-listed-j-reit-comparison",
         "real-estate-finance/real-estate-bridge-fund-japan",
         "real-estate-finance/top-10-j-reit-overview-matrix",
-        "regional-banks/japan-post-bank",
         "securities-firms/mizuho-securities",
         "securities-firms/mufg-morgan-stanley-securities",
         "securities-firms/smbc-nikko-securities",
@@ -76598,7 +76748,6 @@
         "https://finwiki.zksc.io/ja/real-estate-finance/private-reit-japan-vs-listed-j-reit-comparison/",
         "https://finwiki.zksc.io/ja/real-estate-finance/real-estate-bridge-fund-japan/",
         "https://finwiki.zksc.io/ja/real-estate-finance/top-10-j-reit-overview-matrix/",
-        "https://finwiki.zksc.io/ja/regional-banks/japan-post-bank/",
         "https://finwiki.zksc.io/ja/securities-firms/mizuho-securities/",
         "https://finwiki.zksc.io/ja/securities/japan-securities-depository-center/",
         "https://finwiki.zksc.io/ja/trust-banks/custody-bank/",
@@ -76610,9 +76759,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 15310,
-      "word_like_tokens": 2442,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 16154,
+      "word_like_tokens": 2592,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "real-estate-finance/japan-real-estate-appraisal-methodology.md",
@@ -76628,18 +76777,18 @@
       "domain": "real-estate-finance",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "Japan real-estate appraisal practice follows the 不動産鑑定評価基準 (Real Estate Appraisal Standards) issued by MLIT, which requires three approaches to value — income approach (DCF + direct capitalization), comparison approach (transaction comparables), and cost approach (replacement cost net of depreciatio",
+      "summary": "Japan real-estate appraisal practice follows MLIT's 不動産鑑定評価基準 and reconciles income, comparison, and cost evidence according to the property and available data. For J-REIT analysis, keep accounting book value separate from appraisal-based fair-value NAV: JPX's 2026 guidebook expressly distinguishes",
       "headings": [
         "Japan real-estate appraisal methodology",
         "TL;DR",
         "Wiki route",
         "Real Estate Appraisal Standards",
-        "Independence rules",
+        "Independence and conflict review",
         "Method outline",
         "Key sensitivities",
         "DCF in J-REIT practice",
         "Method outline",
-        "Cap rate sourcing — JREI cap-rate survey"
+        "Cap-rate survey context — JREI"
       ],
       "wikilinks": [
         "JapanFG/japan-real-estate-institute",
@@ -76689,9 +76838,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 13928,
-      "word_like_tokens": 2246,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 18017,
+      "word_like_tokens": 2923,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "real-estate-finance/japan-real-estate-j-reit-8952.md",
@@ -76707,7 +76856,7 @@
       "domain": "real-estate-finance",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "The MEC vs Mitsui rivalry expressed at the listed-REIT layer through JRE vs NBF is the defining feature: both are conservative-LTV (low-to-mid 40% zone), AA-rated, premium-yield (low end of J-REIT yield distribution), foreign-investor-benchmark office J-REIT. The key contrast is sponsor pipeline sou",
+      "summary": "JRE and NBF provide a useful sponsor-model comparison, but any valuation, ownership, pipeline or sub-market conclusion must be built from same-date issuer disclosures. Sponsor arrangements can differ, and neither sponsor's wider landbank is a substitute for the REIT's current property list.",
       "headings": [
         "Japan Real Estate Investment (JRE, J-REIT 8952)",
         "TL;DR",
@@ -76716,16 +76865,13 @@
         "2. Portfolio composition",
         "3. Capital and leverage",
         "4. Top-tenant exposure",
-        "5. JRE vs NBF — the MEC vs Mitsui rivalry proxy",
+        "5. JRE vs NBF — same-vintage office-J-REIT comparison",
         "6. Why Marunouchi exposure matters",
         "Related"
       ],
       "wikilinks": [
         "INDEX",
         "banking/trust-bank-custody-operating-comparison",
-        "financial-regulators/jcr",
-        "financial-regulators/rating-and-investment",
-        "megabanks/mizuho-bank",
         "megabanks/mufg-bank",
         "real-estate-finance/INDEX",
         "real-estate-finance/glp-j-reit-3281",
@@ -76741,16 +76887,11 @@
         "real-estate-finance/nippon-prologis-reit-3283",
         "real-estate-finance/nomura-real-estate-master-fund-nmf",
         "real-estate-finance/top-10-j-reit-overview-matrix",
-        "trust-banks/mitsubishi-ufj-trust-bank",
-        "trust-banks/mizuho-trust-bank",
-        "trust-banks/sumitomo-mitsui-trust"
+        "trust-banks/mitsubishi-ufj-trust-bank"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/INDEX.md",
         "https://finwiki.zksc.io/ja/banking/trust-bank-custody-operating-comparison/",
-        "https://finwiki.zksc.io/ja/financial-regulators/jcr/",
-        "https://finwiki.zksc.io/ja/financial-regulators/rating-and-investment/",
-        "https://finwiki.zksc.io/ja/megabanks/mizuho-bank/",
         "https://finwiki.zksc.io/ja/megabanks/mufg-bank/",
         "https://finwiki.zksc.io/ja/domains/real-estate-finance/",
         "https://finwiki.zksc.io/ja/real-estate-finance/glp-j-reit-3281/",
@@ -76766,16 +76907,20 @@
         "https://finwiki.zksc.io/ja/real-estate-finance/nippon-prologis-reit-3283/",
         "https://finwiki.zksc.io/ja/real-estate-finance/nomura-real-estate-master-fund-nmf/",
         "https://finwiki.zksc.io/ja/real-estate-finance/top-10-j-reit-overview-matrix/",
-        "https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/",
-        "https://finwiki.zksc.io/ja/trust-banks/mizuho-trust-bank/",
-        "https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/"
+        "https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.j-re.co.jp/en_cms/about/index.html",
+        "https://www.j-re.co.jp/en_cms/finance/index.html",
+        "https://www.j-re.co.jp/en_cms/portfolio/statement.html",
+        "https://www.jpx.co.jp/english/equities/products/reits/issues/index.html",
+        "https://www.nbf-m.com/nbf_e/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 9105,
-      "word_like_tokens": 1454,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 10624,
+      "word_like_tokens": 1813,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "real-estate-finance/jpx-real-estate-index-derivatives.md",
@@ -76791,13 +76936,13 @@
       "domain": "real-estate-finance",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "The Tokyo Stock Exchange REIT Index (東証REIT指数) is JPX's headline benchmark for the J-REIT market, a market-cap-weighted index of all listed J-REITs. It is the standard reference index for J-REIT performance attribution, ETF tracking, and sector-allocation comparisons. The investable derivatives laye",
+      "summary": "The Tokyo Stock Exchange REIT Index (東証REIT指数) is a JPX index for the J-REIT segment. JPX sources confirm the index methodology, listed tracker ETFs, TSE REIT Index Futures, and TSE REIT Index Options. Listing status does not establish liquidity, borrow, spreads, suitability, or hedge effectiveness.",
       "headings": [
         "JPX TSE REIT Index derivatives",
         "TL;DR",
         "Wiki route",
         "TSE REIT Index — the underlying benchmark",
-        "ETF surface — primary investable wrapper",
+        "ETF surface — listed trackers",
         "Index futures listing status",
         "Hedging real-estate equity exposure via short ETF / short futures",
         "Options market depth",
@@ -76849,9 +76994,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 18045,
-      "word_like_tokens": 3002,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 14639,
+      "word_like_tokens": 2408,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "real-estate-finance/jrei-foreign-investment-tax-treatment.md",
@@ -76867,7 +77012,7 @@
       "domain": "real-estate-finance",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "Foreign investment in Japan real estate carries distinct Japanese tax treatment that varies by investor type (non-resident corporate vs individual), holding structure (direct vs through TK / GK-TK / TMK vs through J-REIT), income type (rental vs capital gain), permanent-establishment (PE) status, an",
+      "summary": "Japanese tax treatment of foreign investment in real estate varies by taxpayer classification, direct or vehicle-based holding route, income/payment type, PE and beneficial-owner facts, domestic-law source rules, treaty text, and procedural filings. Rental payments and sale consideration can carry d",
       "headings": [
         "Foreign investment in Japan real estate tax treatment",
         "TL;DR",
@@ -76931,9 +77076,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 14338,
-      "word_like_tokens": 2275,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 21032,
+      "word_like_tokens": 3407,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "real-estate-finance/logistics-j-reit-vs-office-j-reit-asset-class-comparison.md",
@@ -76949,16 +77094,16 @@
       "domain": "real-estate-finance",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "The Japanese J-REIT market is bifurcated by asset class, with logistics and office representing the two largest and most liquid sectors after the diversified / mixed segment. Logistics J-REITs — including Industrial & Infrastructure Fund Investment Corporation (IIF, 3249), GLP J-REIT (3281), Nippon",
+      "summary": "Logistics and office are two analytically important J-REIT exposures, but live sector size and liquidity rankings must be taken from current JPX / ARES data rather than inferred here. Selected logistics vehicles include Industrial & Infrastructure Fund Investment Corporation (IIF, 3249), GLP J-REIT",
       "headings": [
         "Logistics J-REIT vs office J-REIT asset class comparison",
         "TL;DR",
         "Wiki route",
-        "Logistics J-REITs (selected major)",
-        "Office J-REITs (selected major)",
+        "Logistics J-REITs (selected examples)",
+        "Office J-REITs (selected examples)",
         "Asset-class economics — head-to-head",
         "E-commerce demand tailwind for logistics",
-        "Foreign sponsor share — the structural difference",
+        "Sponsor relationships in the selected logistics sample",
         "Tenant diversification — single-tenant vs multi-tenant",
         "Cap-rate dynamics"
       ],
@@ -76984,9 +77129,7 @@
         "retail/aeon-group",
         "retail/seven-and-i-hd",
         "trust-banks/mitsubishi-ufj-trust-bank",
-        "trust-banks/mitsubishi-ufj-trust-bank\\",
-        "trust-banks/sumitomo-mitsui-trust",
-        "trust-banks/sumitomo-mitsui-trust\\"
+        "trust-banks/sumitomo-mitsui-trust"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/INDEX.md",
@@ -77010,12 +77153,29 @@
         "https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/",
         "https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://mel-reit.co.jp/en/",
+        "https://www.ares.or.jp/action/monthly/pdf/ares_monthly_report_202606.pdf",
+        "https://www.daiwa-office.co.jp/en/",
+        "https://www.glpjreit.com/en/",
+        "https://www.heiwa-re.co.jp/en/",
+        "https://www.iif-reit.com/en/",
+        "https://www.j-re.co.jp/en_cms/",
+        "https://www.jpx.co.jp/english/equities/products/reits/issues/index.html",
+        "https://www.jpx.co.jp/english/markets/statistics-equities/investor-type/index.html",
+        "https://www.lasalle-logiport.com/en/",
+        "https://www.mflp-reit.co.jp/en/",
+        "https://www.mt-reit.jp/en/",
+        "https://www.nbf-m.com/nbf_e/",
+        "https://www.orixjreit.com/en/",
+        "https://www.prologis-reit.co.jp/en/",
+        "https://www.reinet.or.jp/pdf/REIS/published-document_main_the-japanese-real-estate-investor-survey_202604.pdf"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 19387,
-      "word_like_tokens": 3033,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 19885,
+      "word_like_tokens": 3263,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "real-estate-finance/mitsubishi-estate-financing-model.md",
@@ -77031,26 +77191,26 @@
       "domain": "real-estate-finance",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "For FinWiki, Mitsubishi Estate is the premium-office concentration template — the contrast case to Mitsui Fudosan's broader asset-class diversification. The financing question is how a single-district concentration (Marunouchi) can sustain top-tier credit while funding overseas growth, large redevel",
+      "summary": "For FinWiki, Mitsubishi Estate is the premium-office concentration case — a comparison with Mitsui Fudosan's disclosed asset-class mix. The financing question is how Marunouchi concentration, overseas investment, large redevelopment capex (such as Tokyo Torch / Torch Tower), and sponsor-J-REIT relat",
       "headings": [
         "Mitsubishi Estate financing model",
         "TL;DR",
         "Wiki route",
         "Corporate identity",
         "Marunouchi concentration",
-        "1. Corporate bonds (Mitsubishi Estate straight bonds)",
-        "2. Syndicated bank loans",
+        "1. Corporate bonds",
+        "2. Bank loans and private funding",
         "3. Sponsor J-REIT — Japan Real Estate Investment Corporation (JRE, 8952)",
-        "4. Equity finance — opportunistic",
+        "4. Equity and equity-credit instruments",
         "5. Overseas expansion — UK / US / Asia"
       ],
       "wikilinks": [
         "INDEX",
-        "banking/trust-bank-custody-operating-comparison\\",
         "business/INDEX",
         "corporate-strategy/INDEX",
         "derivatives/yen-basis-swap-market",
         "financial-conglomerates/mitsubishi-corp",
+        "financial-conglomerates/mitsubishi-corp\\",
         "real-estate-finance/INDEX",
         "real-estate-finance/aeon-mall-financing-and-securitization",
         "real-estate-finance/bank-commercial-real-estate-lending-japan",
@@ -77086,12 +77246,19 @@
         "https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/",
         "https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.j-re.co.jp/en_cms/",
+        "https://www.jpx.co.jp/english/equities/products/reits/issues/index.html",
+        "https://www.mec.co.jp/en/ir/",
+        "https://www.mec.co.jp/en/ir/stock/grade/index.html",
+        "https://www.mec.co.jp/ir/library/2026/4Q/factsheet_2025_4_en.pdf",
+        "https://www.mitsuifudosan.co.jp/english/corporate/ir/investors_guide/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 17679,
-      "word_like_tokens": 2786,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 17304,
+      "word_like_tokens": 2778,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "real-estate-finance/mitsui-fudosan-financing-model.md",
@@ -77107,25 +77274,24 @@
       "domain": "real-estate-finance",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "For FinWiki, Mitsui Fudosan is the office / mixed-use developer financing template: it shows how Japan's largest developers combine (i) public corporate debt at investment-grade pricing, (ii) syndicated bank financing for greenfield capex, (iii) sponsor-REIT equity recycling for stabilized assets, a",
+      "summary": "For FinWiki, Mitsui Fudosan is an office / mixed-use developer financing case. The analysis traces public corporate debt, bank financing, disclosed transfers to related funds or J-REITs, and asset-management fees without treating any element as automatic. The financing question is how those instrume",
       "headings": [
         "Mitsui Fudosan financing model",
         "TL;DR",
         "Wiki route",
         "Corporate identity",
         "1. Corporate debt — public bonds",
-        "2. Syndicated bank loans",
-        "3. Sponsor J-REIT equity recycling",
+        "2. Bank loans and private funding",
+        "3. Related listed REIT vehicles and transaction testing",
         "4. Asset-management fee income",
         "5. Overseas project finance",
-        "Asset Recycling — the mechanics"
+        "Asset-recycling transaction checklist"
       ],
       "wikilinks": [
         "INDEX",
         "business/INDEX",
         "corporate-strategy/INDEX",
         "derivatives/yen-basis-swap-market",
-        "finance/INDEX",
         "financial-conglomerates/mitsubishi-corp",
         "real-estate-finance/INDEX",
         "real-estate-finance/aeon-mall-financing-and-securitization",
@@ -77147,7 +77313,6 @@
         "https://finwiki.zksc.io/ja/domains/business/",
         "https://finwiki.zksc.io/ja/domains/corporate-strategy/",
         "https://finwiki.zksc.io/ja/derivatives/yen-basis-swap-market/",
-        "https://finwiki.zksc.io/ja/domains/finance/",
         "https://finwiki.zksc.io/ja/financial-conglomerates/mitsubishi-corp/",
         "https://finwiki.zksc.io/ja/domains/real-estate-finance/",
         "https://finwiki.zksc.io/ja/real-estate-finance/aeon-mall-financing-and-securitization/",
@@ -77163,12 +77328,19 @@
         "https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/",
         "https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.frontier-reit.co.jp/en/",
+        "https://www.jpx.co.jp/english/equities/products/reits/issues/index.html",
+        "https://www.mflp-reit.co.jp/en/",
+        "https://www.mitsuifudosan.co.jp/english/corporate/ir/investors_guide/",
+        "https://www.mitsuifudosan.co.jp/english/corporate/ir/shareholder/bond/",
+        "https://www.nbf-m.com/nbf_e/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 17978,
-      "word_like_tokens": 2833,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 17582,
+      "word_like_tokens": 2793,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "real-estate-finance/nippon-building-fund-j-reit-8951.md",
@@ -77184,7 +77356,7 @@
       "domain": "real-estate-finance",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "NBF's investor profile combines (i) a conservative LTV in the low-to-mid-40% range, (ii) AA-domestic-rating-zone credit that supports tight investment-corporation-bond pricing, (iii) DPU yield at the low end of the J-REIT distribution (reflecting the sponsor + Tokyo CBD office + scale + liquidity pr",
+      "summary": "Tenant concentration depends on the contractual layer. NBF's major-tenants disclosure at 2025-12-31 lists Mitsui Fudosan as tenant / master lessee for Shinjuku Mitsui Building and 23 other properties: 573,235 m2, or 47.0% of total rentable area. Mitsui Fudosan generally subleases those properties to",
       "headings": [
         "Nippon Building Fund (NBF, J-REIT 8951)",
         "TL;DR",
@@ -77192,16 +77364,14 @@
         "1. Corporate identity",
         "2. Portfolio composition",
         "3. Capital and leverage",
-        "4. Top-tenant exposure",
-        "5. NBF vs JRE — the MEC vs Mitsui rivalry proxy",
+        "4. Contractual master lessee vs end tenants",
+        "5. NBF vs JRE — same-vintage office-J-REIT comparison",
         "6. Counterpoints",
         "Related"
       ],
       "wikilinks": [
         "INDEX",
         "banking/trust-bank-custody-operating-comparison",
-        "financial-regulators/jcr",
-        "financial-regulators/rating-and-investment",
         "real-estate-finance/INDEX",
         "real-estate-finance/glp-j-reit-3281",
         "real-estate-finance/j-reit-dividend-yield-vs-jgb-spread",
@@ -77223,8 +77393,6 @@
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/INDEX.md",
         "https://finwiki.zksc.io/ja/banking/trust-bank-custody-operating-comparison/",
-        "https://finwiki.zksc.io/ja/financial-regulators/jcr/",
-        "https://finwiki.zksc.io/ja/financial-regulators/rating-and-investment/",
         "https://finwiki.zksc.io/ja/domains/real-estate-finance/",
         "https://finwiki.zksc.io/ja/real-estate-finance/glp-j-reit-3281/",
         "https://finwiki.zksc.io/ja/real-estate-finance/j-reit-dividend-yield-vs-jgb-spread/",
@@ -77243,12 +77411,18 @@
         "https://finwiki.zksc.io/ja/trust-banks/mizuho-trust-bank/",
         "https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.j-re.co.jp/en_cms/portfolio/statement.html",
+        "https://www.jpx.co.jp/english/equities/products/reits/issues/index.html",
+        "https://www.nbf-m.com/en/client/docs/investment.pdf",
+        "https://www.nbf-m.com/nbf_e/",
+        "https://www.nbf-m.com/nbf_e/portfolio/tenant.html"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 10332,
-      "word_like_tokens": 1710,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 10872,
+      "word_like_tokens": 1834,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "real-estate-finance/nippon-prologis-reit-3283.md",
@@ -77264,7 +77438,7 @@
       "domain": "real-estate-finance",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "NPR's portfolio is concentrated in AAA-grade modern logistics facilities — high-spec multi-tenant warehouses in Greater Tokyo, Osaka, and Aichi/Nagoya logistics submarkets developed by Prologis Japan on the sponsor balance sheet. The AAA-grade designation refers to facility specifications: large flo",
+      "summary": "NPR's portfolio is concentrated in modern logistics facilities in Greater Tokyo, Osaka, and Aichi/Nagoya logistics submarkets. Where NPR or Prologis uses a facility-class label, treat it as an issuer-defined property specification rather than an independent credit rating, and verify features propert",
       "headings": [
         "Nippon Prologis REIT (3283)",
         "TL;DR",
@@ -77275,7 +77449,7 @@
         "4. Portfolio composition",
         "5. Capital and leverage",
         "6. NPR vs GLP J-REIT",
-        "7. Why foreign sponsors anchor the modern-logistics segment"
+        "7. Sponsor mix in the modern-logistics segment"
       ],
       "wikilinks": [
         "INDEX",
@@ -77315,12 +77489,18 @@
         "https://finwiki.zksc.io/ja/real-estate-finance/real-estate-cap-rate-compression-2026/",
         "https://finwiki.zksc.io/ja/real-estate-finance/top-10-j-reit-overview-matrix/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.glpjreit.com/en/",
+        "https://www.jpx.co.jp/english/equities/products/reits/issues/index.html",
+        "https://www.prologis-reit.co.jp/en/",
+        "https://www.prologis-reit.co.jp/en/financial/index.html",
+        "https://www.prologis.com/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 9386,
-      "word_like_tokens": 1496,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 11588,
+      "word_like_tokens": 1924,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "real-estate-finance/nomura-real-estate-master-fund-nmf.md",
@@ -77336,7 +77516,7 @@
       "domain": "real-estate-finance",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "For FinWiki, NMF is the diversified-J-REIT template — the contrast to pure-play office J-REIT like NBF and JRE and to pure-play logistics J-REIT like GLP J-REIT and Nippon Prologis REIT. The diversified profile gives smoother DPU through cycles but at the cost of less crisp asset-class exposure for",
+      "summary": "For FinWiki, NMF is a diversified-J-REIT comparison case — the contrast to pure-play office J-REIT like NBF and JRE and to pure-play logistics J-REIT like GLP J-REIT and Nippon Prologis REIT. Its multiple sleeves change the exposure mix, but historical DPU volatility must be calculated over matched",
       "headings": [
         "Nomura Real Estate Master Fund (NMF, J-REIT 3462)",
         "TL;DR",
@@ -77346,14 +77526,12 @@
         "3. Portfolio composition",
         "4. Capital and leverage",
         "5. Diversified vs pure-play J-REIT",
-        "6. NMF's role in the J-REIT ecosystem",
+        "6. NMF in the J-REIT market structure",
         "Related"
       ],
       "wikilinks": [
         "INDEX",
         "finance/japan-listed-financial-groups-investable-universe",
-        "financial-regulators/jcr",
-        "financial-regulators/rating-and-investment",
         "real-estate-finance/INDEX",
         "real-estate-finance/glp-j-reit-3281",
         "real-estate-finance/j-reit-dividend-yield-vs-jgb-spread",
@@ -77373,8 +77551,6 @@
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/INDEX.md",
         "https://finwiki.zksc.io/ja/finance/japan-listed-financial-groups-investable-universe/",
-        "https://finwiki.zksc.io/ja/financial-regulators/jcr/",
-        "https://finwiki.zksc.io/ja/financial-regulators/rating-and-investment/",
         "https://finwiki.zksc.io/ja/domains/real-estate-finance/",
         "https://finwiki.zksc.io/ja/real-estate-finance/glp-j-reit-3281/",
         "https://finwiki.zksc.io/ja/real-estate-finance/j-reit-dividend-yield-vs-jgb-spread/",
@@ -77391,12 +77567,22 @@
         "https://finwiki.zksc.io/ja/real-estate-finance/top-10-j-reit-overview-matrix/",
         "https://finwiki.zksc.io/ja/securities-firms/nomura-hd/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.glpjreit.com/en/portfolio/data.html",
+        "https://www.j-re.co.jp/en_cms/portfolio/statement.html",
+        "https://www.jpx.co.jp/english/equities/products/reits/index.html",
+        "https://www.jpx.co.jp/english/equities/products/reits/issues/index.html",
+        "https://www.nbf-m.com/nbf_e/",
+        "https://www.nre-mf.co.jp/en/",
+        "https://www.nre-mf.co.jp/en/ir/faq.html",
+        "https://www.nre-mf.co.jp/en/merger/index.html",
+        "https://www.prologis-reit.co.jp/en/"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 8900,
-      "word_like_tokens": 1456,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 11639,
+      "word_like_tokens": 1961,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "real-estate-finance/private-reit-japan-vs-listed-j-reit-comparison.md",
@@ -77412,7 +77598,7 @@
       "domain": "real-estate-finance",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "Private REIT (私募リート / 非上場REIT) and listed J-REIT are structurally the same kind of investment corporation under the Investment Trust Act, but the listing status changes almost everything about how they are used in practice. Listed J-REIT trade continuously on JPX with full continuing-disclosure obli",
+      "summary": "Private REIT (私募リート / 非上場REIT) and listed J-REIT can both use an investment-corporation form under the Investment Trust Act, but listing status materially changes trading and disclosure. Listed J-REIT trade on JPX under public continuing-disclosure rules. Private-REIT subscription, redemption, NAV a",
       "headings": [
         "Private REIT Japan vs listed J-REIT comparison",
         "TL;DR",
@@ -77437,7 +77623,6 @@
         "policy-finance/INDEX",
         "policy-finance/japan-housing-finance-agency",
         "real-estate-finance/INDEX",
-        "real-estate-finance/INDEX\\",
         "real-estate-finance/j-reit-market-overview",
         "real-estate-finance/j-reit-sponsor-structure-conflict",
         "real-estate-finance/j-reit-vs-us-reit-governance-comparison",
@@ -77466,12 +77651,16 @@
         "https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/",
         "https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.ares.or.jp/news/uploads/private_fund_survey202601.pdf",
+        "https://www.fsa.go.jp/en/refer/legislation/20130416/02.pdf",
+        "https://www.jpx.co.jp/english/equities/products/reits/issues/index.html"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 10452,
-      "word_like_tokens": 1705,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 12918,
+      "word_like_tokens": 2101,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "real-estate-finance/real-estate-bridge-fund-japan.md",
@@ -77487,7 +77676,7 @@
       "domain": "real-estate-finance",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "A real-estate bridge fund (also called warehousing fund or pre-REIT vehicle) is a temporary SPV that acquires a property and holds it for a short period — typically 6 to 18 months — before transferring it to a long-term institutional owner such as a J-REIT, a private REIT, or a corporate pension or",
+      "summary": "A real-estate bridge or warehouse vehicle temporarily holds an asset pending a planned financing, stabilisation, or sale. A J-REIT or private vehicle can be a potential takeout buyer, but neither the buyer, hold period, GK-TK/trust structure, leverage, nor exit price is universal. The 6–18 month per",
       "headings": [
         "Real-estate bridge fund (Japan)",
         "TL;DR",
@@ -77497,7 +77686,7 @@
         "Equity layer",
         "Debt layer",
         "Dealer-bank role",
-        "Takeout to listed J-REIT",
+        "Possible takeout to a listed J-REIT",
         "Takeout to private REIT or pension"
       ],
       "wikilinks": [
@@ -77547,9 +77736,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 12277,
-      "word_like_tokens": 2060,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 14926,
+      "word_like_tokens": 2420,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "real-estate-finance/real-estate-cap-rate-compression-2026.md",
@@ -77565,17 +77754,17 @@
       "domain": "real-estate-finance",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "Japan real-estate cap rates have compressed across asset classes through the BoJ NIRP / YCC era to historically low absolute levels. As of 2026, expected (forward) cap-rate ranges sit at approximately: Tokyo prime CBD office 3.0 - 3.5%, Osaka prime office 3.5 - 4.0%, Tokyo / Greater-Tokyo logistics",
+      "summary": "The Japan Real Estate Institute's 54th investor survey provides a dated, reproducible April 2026 expected-yield snapshot: 3.2% for Marunouchi/Otemachi A-class office, 4.0% for Umeda office, 3.8% for Tokyo Koto-bay multi-tenant logistics, 3.6% for a Tokyo Jonan one-room rental residence, 3.3% for Gin",
       "headings": [
         "Japan real estate cap rate compression 2026",
         "TL;DR",
         "Wiki route",
         "Cap Rate Definition (Short Form)",
         "2026 Cap-Rate Range Map",
-        "Comparison to BoJ NIRP-Era Lows",
+        "Comparison with Earlier JREI Survey Readings",
         "Post-NIRP Normalisation Impact",
-        "Foreign-Buyer Cap-Rate Floor",
-        "Cap-Rate Component Decomposition",
+        "Foreign-Buyer Cap-Rate-Floor Hypothesis",
+        "Rate Relationships and Evidence Boundary",
         "Cap-Rate-Sensitivity in J-REIT NAV"
       ],
       "wikilinks": [
@@ -77626,12 +77815,16 @@
         "https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/",
         "https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/"
       ],
-      "markdown_links": [],
+      "markdown_links": [
+        "https://www.boj.or.jp/en/mopo/index.htm",
+        "https://www.mof.go.jp/english/policy/jgbs/reference/interest_rate/index.htm",
+        "https://www.reinet.or.jp/pdf/REIS/published-document_main_the-japanese-real-estate-investor-survey_202604.pdf"
+      ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 11083,
-      "word_like_tokens": 1864,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 14293,
+      "word_like_tokens": 2415,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "real-estate-finance/real-estate-private-credit-japan.md",
@@ -77647,14 +77840,14 @@
       "domain": "real-estate-finance",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "Japan real-estate private credit is a layered non-bank financing market sitting alongside bank CRE lending. The market has two distinct deployment routes: foreign general-partner (GP) entrants (Blackstone, KKR, Apollo, Brookfield, and others) running cross-border real-estate-debt strategies into Jap",
+      "summary": "Japan real-estate private credit is a useful analytical label for privately negotiated debt or debt-like capital alongside bank CRE lending. Public sources evidence real-estate lending, non-recourse finance, and selected institutional capabilities, but do not establish a complete market size, named-",
       "headings": [
         "Japan real estate private credit",
         "TL;DR",
         "Wiki route",
         "Product Stack",
-        "Target Return Bands (Indicative)",
-        "Foreign GP Entrants",
+        "Illustrative Return Scenarios",
+        "Foreign-manager evidence",
         "Japan-Incorporated Private Credit",
         "Capital Stack Example",
         "Bridge Financing Use Cases",
@@ -77711,9 +77904,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 13526,
-      "word_like_tokens": 2073,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 18070,
+      "word_like_tokens": 2876,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "real-estate-finance/top-10-j-reit-overview-matrix.md",
@@ -85779,9 +85972,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 10933,
-      "word_like_tokens": 2101,
-      "last_modified": "2026-07-29"
+      "nonspace_chars": 11635,
+      "word_like_tokens": 2231,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "releases/v2026.05.20-2.md",
@@ -89195,6 +89388,39 @@
       "nonspace_chars": 8059,
       "word_like_tokens": 1445,
       "last_modified": "2026-07-29"
+    },
+    {
+      "source_path": "releases/v2026.07.29-17.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.07.29-17.md",
+      "html_url": null,
+      "alternate_html_urls": null,
+      "raw_markdown_url": "https://finwiki.zksc.io/releases/v2026.07.29-17.md",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.29-17.md",
+      "title": "財務・不動産金融の表出典233件を校正",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "canonical_anchor": "",
+      "summary": "",
+      "headings": [
+        "財務・不動産金融の表出典233件を校正",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "entity_node": null,
+      "entity_edges": [],
+      "nonspace_chars": 7916,
+      "word_like_tokens": 1376,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "releases/v2026.07.29-2.md",
