@@ -29,9 +29,9 @@
     "domain": "derivatives",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "derivatives",
@@ -49,12 +49,11 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.boj.or.jp/en/statistics/bis/yoshi/index.htm",
-      "https://www.bis.org/statistics/derstats.htm",
-      "https://www.stat.go.jp/english/data/cpi/index.html",
-      "https://www.mof.go.jp/english/policy/jgbs/topics/Inflation-Indexed_Bonds/index.htm",
-      "https://www.boj.or.jp/en/mopo/outline/qqe.htm",
-      "https://www.isda.org/"
+      "Statistics Bureau CPI — https://www.stat.go.jp/english/data/cpi/index.html",
+      "MOF inflation-indexed bonds — https://www.mof.go.jp/english/policy/jgbs/topics/bond/10year_inflation/index.htm",
+      "BOJ price-stability target — https://www.boj.or.jp/en/mopo/outline/target.htm",
+      "BOJ monetary-policy framework — https://www.boj.or.jp/en/mopo/outline/index.htm",
+      "ISDA inflation derivatives definitions — https://www.isda.org/book/2008-isda-inflation-derivatives-definitions/"
     ]
   },
   "summary": "A JPY inflation swap is an OTC derivative in which one party pays a fixed rate and the other party pays a floating rate indexed to a Japanese Consumer Price Index (CPI) measure — most commonly the Statistics Bureau's CPI ex-fresh-food index (生鮮食品除く). The two principal structural forms are zero-coupo",
@@ -116,8 +115,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 11189,
-    "word_like_tokens": 1856,
+    "nonspace_chars": 10546,
+    "word_like_tokens": 1790,
     "inbound_wikilinks_count": 6,
     "last_modified": "2026-05-29"
   }

@@ -1,132 +1,128 @@
 ---
 source: derivatives/japan-single-stock-options
-source_hash: 68d2992a76f25883
+source_hash: 24321043d0b7651b
 lang: en
 status: machine
 fidelity: ok
 title: "Japan single-stock options (OSE)"
-translated_at: 2026-05-31T03:19:56.375Z
+translated_at: 2026-07-29T20:00:00+09:00
 ---
 
 # Japan single-stock options (OSE)
 
 ## TL;DR
 
-Single-stock options (個別証券オプション / Securities Options) on the Osaka Exchange (OSE) under Japan Exchange Group (JPX) are exchange-listed options on selected individual Japanese stocks. Despite OSE listing options on ~150 large-cap names at any time, the actual liquidity is structurally limited compared with the United States: daily turnover concentrates in a handful of high-vol names and remains a small fraction of the volume seen on equivalent US single-stock option contracts. OSE single-stock options clear at [[securities/japan-securities-clearing-corp|JSCC]].
+Single-stock options (個別証券オプション / Securities Options) on the Osaka Exchange (OSE) under Japan Exchange Group (JPX) are exchange-listed options on eligible stocks, ETFs and REITs. OSE's current product overview states that the eligible universe exceeds 200 issues, while the exact list changes; actual trading must be checked in JPX's daily issue-level statistics. OSE single-stock options clear at [[securities/japan-securities-clearing-corp|JSCC]]. ^[Sources: https://www.jpx.co.jp/english/derivatives/products/individual/securities-options/index.html; https://www.jpx.co.jp/english/markets/statistics-derivatives/daily/.]
 
-The structurally limited single-stock option market in Japan reflects multiple factors: a smaller retail option-trading culture than the US, the dominance of [[derivatives/structured-product-eb-knockin-japan-retail|structured EB / Knock-in retail notes]] as the equity-vol distribution channel rather than direct option trading, and a market-maker landscape that has historically not been as deep as the US listed-option ecosystem. Post-2022, issuer-side hedging activity around structured products and corporate buyback / share-cancellation hedging has driven incremental flow, but the single-stock option market remains structurally much shallower than the US Cboe/Nasdaq-PHLX/NYSE Arca/MEMX listed option ecosystem.
+Eligible-universe size is not the same as liquidity. JPX's issue-level statistics can show little or no trading in many eligible contracts on a given day. Comparisons with the United States therefore require a stated date range and like-for-like venue statistics rather than a fixed multiple or an inferred cause.
 
-For FinWiki, this entry covers contract specs, the liquidity-reality comparison with US single-stock options, the role of OTC equity options for institutional flow, the post-2022 issuer-side hedging developments, and the structural reasons single-stock option depth has not developed.
+For FinWiki, this entry covers current contract specifications, evidence routes for liquidity comparison, possible bilateral alternatives for institutional users, and the limits of what public product pages establish.
 
 ## Wiki route
 
-This entry sits under [[derivatives/INDEX|derivatives index]]. Read it against [[derivatives/nikkei-225-futures-options]] for the index-option peer that dominates exchange-traded Japan equity-vol flow, [[derivatives/topix-futures]] for the broader index-derivatives context, and [[derivatives/structured-product-eb-knockin-japan-retail]] for the retail-distribution channel that absorbs much of the equity-vol demand. The listing venue is [[securities/osaka-exchange|Osaka Exchange]]; clearing at [[securities/japan-securities-clearing-corp|JSCC]].
+This entry sits under [[derivatives/INDEX|derivatives index]]. Read it against [[derivatives/nikkei-225-futures-options]] for the index-option peer, [[derivatives/topix-futures]] for the broader index-derivatives context, and [[derivatives/structured-product-eb-knockin-japan-retail]] for a retail-distribution product context. The listing venue is [[securities/osaka-exchange|Osaka Exchange]]; clearing at [[securities/japan-securities-clearing-corp|JSCC]].
 
 ## Contract Specifications
 
 OSE Securities Options have the following standard specs:
 
+The table is limited to OSE's current regular-trading specifications; the contract unit follows each underlying security's minimum trading unit and is not a universal 100 shares. ^[Sources: https://www.jpx.co.jp/english/derivatives/products/individual/securities-options/index.html; https://www.jpx.co.jp/english/derivatives/products/individual/securities-options/01.html.]
+
 | Element | Detail |
 |---|---|
-| Underlying | Individual listed stocks (selected by OSE based on liquidity, market cap, and free-float criteria) |
-| Number of underlyings | ~150 large-cap Japanese stocks at any time; subject to periodic addition / removal |
-| Multiplier | 100 shares per contract |
+| Underlying | Eligible stocks, ETFs and REITs selected by OSE |
+| Number of underlyings | More than 200 stocks, ETFs and REITs in the current OSE product overview; the exact list changes |
+| Contract unit | Minimum trading unit of each underlying security |
 | Style | European-style exercise |
-| Settlement | Cash-settled to the Special Quotation (SQ) of the underlying on the morning of the second Friday of the contract month |
-| Expiry cycle | Monthly (typically nearest two months + selected quarterly months listed) |
-| Tick size | Premium-tick varies by underlying price |
-| Trading hours | OSE day session and night session (limited night session for single-stock options) |
+| Settlement | Exercise is available only on the last trading day; settlement follows OSE / JSCC securities-option rules |
+| Expiry cycle | Nearest two months plus two nearest March-cycle months |
+| Tick size | JPY 0.1 to JPY 5,000 depending on quotation level and the underlying trading unit |
+| Regular trading hours | 09:00-11:35 and 12:30-15:45 JST; no regular night session |
 
-European-style + cash-settled (not physical-delivery) is a key difference from US single-stock options, which are American-style + physically-delivered. The OSE European/cash-settled convention simplifies margining and avoids assignment risk for short positions but reduces the "real option" content vs the American-style US contract.
+European exercise is a key difference from standard US single-stock options. Settlement mechanics must be read from the current OSE rules for the particular underlying; this page does not generalize all OSE securities options as cash-settled.
 
 ## Liquidity Reality
 
-Despite the ~150 listed names, daily volume is highly concentrated:
+OSE publishes issue-level trading statistics, and many eligible issues can have little or no trading on a given day. The following is a qualitative liquidity classification rather than a fixed ranking. ^[Sources: https://www.jpx.co.jp/english/markets/statistics-derivatives/daily/; https://www.jpx.co.jp/english/derivatives/products/individual/securities-options/index.html.]
 
-| Liquidity tier | Names | Profile |
+| Evidence view | Public route | Interpretation boundary |
 |---|---|---|
-| Active tier (handful of names) | High-vol large-caps with retail and institutional interest (e.g., SoftBank Group, Toyota, fast-movers around earnings, banks) | Visible bid-ask, occasional block transactions |
-| Marginal tier | Most listed names | Sporadic transactions; wide bid-ask; market makers post but liquidity is thin |
-| Effectively dormant tier | Long-tail listed names | Very few or no transactions on most days |
+| Eligible universe | OSE's current securities-option product list | Eligibility does not establish active quotes or turnover |
+| Trading activity | JPX daily issue-level volume and open interest | Measure over a stated date range; do not infer a permanent rank from one day |
+| Executable liquidity | Current order book or documented dealer quote | Historical volume alone does not establish current bid-ask depth |
 
 Comparison with the US single-stock option market:
 
+This comparison table deliberately avoids unsupported universe and volume ranges; current counts and turnover should be read from each venue's own listings and statistics. ^[Sources: https://www.jpx.co.jp/english/derivatives/products/individual/securities-options/index.html; https://www.jpx.co.jp/english/markets/statistics-derivatives/daily/; https://www.cboe.com/us/options/market_statistics/.]
+
 | Aspect | OSE Securities Options | US single-stock options (Cboe / NASDAQ / NYSE) |
 |---|---|---|
-| Underlying universe | ~150 stocks | ~3,000+ stocks across multiple exchanges |
-| Daily option volume (aggregate) | Modest; sub-million contracts industry-wide | Tens of millions of contracts daily |
-| Retail participation | Very limited | Major driver (post-Robinhood) |
-| Market-maker depth | A handful of dedicated market makers | Dozens of major makers; tight competition |
-| Style | European, cash-settled | American, physical |
+| Underlying universe | More than 200 stocks, ETFs and REITs in OSE's current overview | Broader multi-exchange listed-option universe |
+| Turnover evidence | OSE publishes daily issue-level statistics | US venues publish daily market statistics |
+| Exercise style | European | Generally American for standard equity options |
 | Multi-exchange competition | Single venue (OSE) | Many competing exchanges; complex SOR routing |
 
-The depth gap is large and persistent. Institutional Japan equity-option flow that cannot be transacted on OSE is typically done OTC bilaterally with dealer banks (see [[derivatives/dealer-bank-derivatives-revenue-mix]] for the dealer-franchise revenue side).
+The cited venue statistics support a broader US multi-exchange comparison route, but they do not by themselves establish a timeless depth multiple. Bilateral dealer transactions are a possible alternative where documented and available; no share of institutional flow is inferred here (see [[derivatives/dealer-bank-derivatives-revenue-mix]] for public-disclosure boundaries on dealer franchises).
 
 ## Why Liquidity Is Limited (Structural Factors)
 
-Several structural reasons explain the shallower OSE single-stock option market:
+The following are research questions rather than established causal weights:
 
-1. **Retail option culture**: Japanese retail equity investors lean heavily toward margin trading (信用取引), CFD / FX-margin trading (see [[derivatives/retail-fx-margin-trade-japan]]), and structured retail bonds (see [[derivatives/structured-product-eb-knockin-japan-retail]]) rather than direct option trading. The cultural and regulatory drift has favored those channels over single-stock options.
-2. **Structured product distribution**: EB notes, knock-in notes, and other equity-linked structured products distributed via [[securities/japan-online-brokerage-competition|securities firms]] and [[banking/INDEX|bank retail]] channels absorb a meaningful share of retail equity-vol demand without the customer ever touching an option contract.
-3. **Market-maker economics**: Single-stock option market making in Japan has historically faced thinner two-sided flow than the US, limiting how much capital dedicated makers commit. The chicken-and-egg problem (no flow → no market makers → no flow) has persisted.
-4. **Tax treatment**: Japanese tax treatment for individual investors trading listed options is less favorable than for some other equity instruments, dampening retail interest.
-5. **Pricing transparency**: Wider bid-ask spreads and lower transparency vs the US make the OSE contract less attractive even for sophisticated retail.
+1. **Investor channel choice**: compare direct option statistics with relevant margin, CFD / FX-margin and [[derivatives/structured-product-eb-knockin-japan-retail|structured-product]] data over the same period.
+2. **Structured-product distribution**: use issuer and distributor disclosures before attributing retail equity-volatility demand to EB or knock-in notes.
+3. **Market-maker participation**: review current OSE participant and quote data rather than assuming a fixed number of dedicated makers.
+4. **Tax and conduct rules**: identify the customer and instrument before comparing tax treatment or suitability requirements.
+5. **Pricing quality**: measure executable spreads and depth for a stated sample rather than generalizing from eligibility.
 
-The result: a listed single-stock option market exists but functions more as a niche institutional and structured-product hedging venue than as a major retail / institutional speculative arena.
+The public product pages establish that a listed market exists; they do not establish a universal investor mix or the causal importance of any one factor above.
 
 ## OTC Single-Stock Options
 
-For institutional flow that cannot be transacted on OSE, dealer banks offer OTC single-stock options bilaterally:
+For institutional flow that cannot be transacted on OSE, dealer banks may offer OTC single-stock options bilaterally. The table is a structural use-case map, not evidence that every structure is commonly used or available to every issuer. ^[Sources: https://www.isda.org/book/equity-derivatives-definitions/; https://www.jpx.co.jp/english/derivatives/rules/flexible/.]
 
-| Use case | Typical structure |
+| Possible use case | Illustrative structure and boundary |
 |---|---|
-| Block hedging on cross-shareholding unwind | OTC put or collar on specific name; tailored size and tenor |
-| Corporate buyback execution (TOSTNeT, ToSTNeT-3 large-block) | Synthetic forward / collar to manage execution price |
-| Structured-note hedging | Dealers hedge issued EB / Knock-in note risk via OTC options or futures on the underlying |
-| Sale of large strategic holding | Multi-leg OTC options to defer recognition or manage market impact |
+| Block hedging on a disclosed share sale | Bilateral put or collar may be considered; actual use requires transaction evidence |
+| Corporate buyback execution | A synthetic forward or collar is a possible structure, subject to own-share and insider-information controls |
+| Structured-note hedging | Dealer hedge instruments depend on the issued payoff, liquidity and disclosure; no standard route is assumed |
+| Sale of a large strategic holding | Multi-leg options are possible, but legal, accounting and market-impact treatment is transaction-specific |
 
-OTC single-stock options are documented under ISDA Master Agreement and CSA. Counterparty risk and collateral terms drive a non-trivial bid-ask vs the equivalent listed contract (when one exists).
+Bilateral single-stock options may be documented under an ISDA Master Agreement and, where applicable, a CSA. Counterparty, collateral, valuation and documentation terms are transaction-specific; no fixed bid-ask premium over a listed contract is asserted.
 
 ## Post-2022 Issuer-Side Hedging Developments
 
-Several trends have driven incremental single-stock option flow since 2022:
+Public developments since 2022 can motivate transaction-level research, but they do not establish aggregate option flow without supporting data:
 
-1. **Cross-shareholding unwind acceleration**: TSE's market restructuring (Prime / Standard / Growth) and intensified focus on capital efficiency and corporate-governance reforms have pushed Japanese corporates to unwind cross-shareholdings. Bank securities affiliates (MUFG Securities, SMBC Nikko, Mizuho Securities) execute these unwinds and use single-stock options / OTC collars to manage execution risk.
-2. **Buyback program execution**: Increased share-buyback volume in Japan has created hedging demand from securities firms running buyback mandates.
-3. **Structured-product issuance volume**: EB / Knock-in note volumes through [[derivatives/structured-bond-japan-retail-issuance|retail structured channels]] have grown; issuer-side dealer hedging on the underlying names creates flow into OSE single-stock options where available and OTC otherwise.
-4. **Family-office and HNW segment growth**: Japan's wealth-management segment has slowly increased option-using strategies (covered call, cash-secured put) for HNW clients, particularly via [[securities/japan-prime-brokerage-and-institutional-financing|prime-brokerage]] channels.
+1. **Cross-shareholding reform**: use issuer disclosures to test whether a specific unwind employed an option or collar.
+2. **Buyback execution**: a buyback announcement does not by itself establish a derivatives hedge.
+3. **Structured-product issuance**: use the disclosed payoff and hedge information for products in [[derivatives/structured-bond-japan-retail-issuance|retail structured channels]] before assigning flow to OSE or OTC options.
+4. **Wealth-management strategies**: covered calls and cash-secured puts are possible strategies, but customer adoption requires provider or investor disclosure.
 
-These developments add flow but have not transformed the market into a US-style retail-driven listed option market.
+Any conclusion about market transformation should be based on a stated time series of issue-level volume, open interest and participant data.
 
 ## Clearing and Margin
 
 | Element | Detail |
 |---|---|
 | CCP | [[securities/japan-securities-clearing-corp|JSCC]] |
-| Margin | SPAN-style portfolio margining; can offset against related products (futures, ETFs) in some cases |
-| Settlement | Cash-settled to SQ; no physical delivery risk on short positions at expiry |
+| Margin | Calculated under JSCC's current VaR method |
+| Exercise | European; available only on the expiration day |
 | Default management | Standard JSCC waterfall |
 
-European-style + cash-settled materially reduces operational complexity at expiry compared with American-style physical-delivery products, but limits some option strategy variants (e.g., early exercise on deep-ITM American puts before ex-dividend).
+European-style exercise removes early-exercise decisions before expiry, but settlement and delivery obligations still depend on OSE / JSCC rules for the underlying security.
 
 ## Comparison with US Single-Stock Options Depth
 
-The depth gap with the US is best illustrated by stock-level coverage:
+The following table routes the comparison to current venue statistics instead of fixed daily-volume bands. ^[Sources: https://www.jpx.co.jp/english/markets/statistics-derivatives/daily/; https://www.cboe.com/us/options/market_statistics/.]
 
-| US example | Daily option volume profile |
+| Market | Public comparison route |
 |---|---|
-| Apple (AAPL) | Hundreds of thousands to millions of contracts daily across many strikes and expiries |
-| Tesla (TSLA) | Routinely millions of contracts daily; sometimes the most-traded single name globally |
-| Nvidia (NVDA) | Hundreds of thousands to millions daily |
+| OSE securities options | Daily issue-level volume and open interest published by JPX |
+| US listed equity options | Daily multi-exchange statistics published by US venues |
 
-| OSE example | Daily option volume profile |
-|---|---|
-| Most-active OSE single-stock options | Thousands to low tens of thousands of contracts daily for top names |
-| Typical OSE single-stock option | Hundreds or fewer daily contracts |
+The sources support a much broader and more active US venue complex, but this page does not freeze a point-in-time multiple or rank.
 
-The order-of-magnitude difference reflects the structural factors above plus the much larger US underlying market cap and retail investor base.
-
-For Japan-equity exposure expressed at the index level, the [[derivatives/nikkei-225-futures-options|Nikkei 225 futures and options]] complex offers very different depth — at the index, OSE liquidity is on par with major global equity-index option markets.
+For Japan-equity exposure expressed at the index level, the [[derivatives/nikkei-225-futures-options|Nikkei 225 futures and options]] complex is a separate product set. Its current depth should be measured from JPX statistics rather than described through a fixed global rank.
 
 ## Related
 

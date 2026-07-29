@@ -30,9 +30,9 @@
     "domain": "derivatives",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "derivatives",
@@ -51,19 +51,12 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.fsa.go.jp/en/",
-      "https://www.fsa.go.jp/en/regulated/licensed/fibo.pdf",
-      "https://www.boj.or.jp/en/paym/market/",
-      "https://www.tradeweb.com/our-markets/regulated-platforms/",
-      "https://www.bloomberg.com/professional/expertise/multi-asset/",
-      "https://www.tpicap.com/",
-      "https://www.bgcg.com/",
-      "https://www.icap.com/",
-      "https://www.jpx.co.jp/english/",
-      "https://www.isda.org/"
+      "FSA 2012 OTC-derivative reform framework — https://www.fsa.go.jp/en/refer/legislation/20121012/02.pdf",
+      "FSA 2015 electronic-platform implementation summary — https://www.fsa.go.jp/common/conference/danwa/20150923/01.pdf",
+      "FSA current licensed-entity index — https://www.fsa.go.jp/en/regulated/licensed/index.html"
     ]
   },
-  "summary": "Japan does not have a US-style \"Swap Execution Facility (SEF)\" license — but it operates a functionally equivalent regime of Electronic Trading Platforms (ETPs) for OTC derivatives execution, supervised by the FSA under FIEA. The ETP regime, mandated for designated standardized OTC products (yen IRS",
+  "summary": "Japan regulates Electronic Trading Platforms (ETPs) for OTC derivatives under FIEA. This is a Japan-specific framework, not a US SEF licence. FSA's September 2015 implementation material described mandatory ETP execution for in-scope yen-LIBOR IRS, an order-book or RFQ-to-at-least-three execution me",
   "headings": [
     "Swap execution facility — Japan equivalent (ETP regime)",
     "TL;DR",
@@ -146,8 +139,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 15718,
-    "word_like_tokens": 2392,
+    "nonspace_chars": 9890,
+    "word_like_tokens": 1506,
     "inbound_wikilinks_count": 5,
     "last_modified": "2026-06-04"
   }

@@ -1,18 +1,18 @@
 ---
 source: derivatives/japan-otc-derivative-market-overview
-source_hash: a3a0b502fc85b9c2
+source_hash: e558e49e5ae0da2f
 lang: en
 status: machine
 fidelity: ok
 title: "Japan OTC derivative market overview"
-translated_at: 2026-05-31T03:19:56.497Z
+translated_at: 2026-07-29T21:20:00.000Z
 ---
 
 # Japan OTC derivative market overview
 
 ## TL;DR
 
-Japan's **over-the-counter (OTC) derivative market** spans four product clusters — interest-rate, FX, credit, and equity / structured — all governed under the Financial Instruments and Exchange Act (FIEA), supervised by the Financial Services Agency (FSA), and (for in-scope products) cleared at the Japan Securities Clearing Corporation (JSCC) with trade-reporting to a designated trade repository. Yen interest-rate OTC derivatives are the largest cluster by notional outstanding; FX OTC is the largest by daily turnover (driven by retail FX, [[derivatives/retail-fx-margin-trade-japan]]); credit OTC is the smallest by notional but materially active for index trades; equity / structured OTC is dominated by retail structured-bond distribution and dealer-bank hedging.
+Japan's **over-the-counter (OTC) derivative market** spans interest-rate, FX, credit, and equity / structured products. FSA reporting and clearing requirements apply according to product, entity, and counterparty scope; JSCC separately publishes the products it accepts for clearing. Aggregate datasets use different populations and measures, so they do not support an unqualified ranking of the four clusters.
 
 This entry is the cross-product anchor that ties the four OTC product clusters together. For listed-derivative coverage (JGB futures, TONA futures, Nikkei 225 futures and options), see [[derivatives/INDEX]] and [[securities/japan-market-infrastructure-map]].
 
@@ -22,47 +22,42 @@ This entry sits under [[derivatives/INDEX|derivatives index]] as the OTC market 
 
 ## The Four OTC Product Clusters
 
-| Cluster | Principal instruments | Notional scale | Liquidity center | Anchor pages |
+| Cluster | Principal instruments | Relevant public-data surface | Infrastructure boundary | Anchor pages |
 |---|---|---|---|---|
-| Interest-rate OTC | Yen IRS, yen OIS, yen swaption, cross-currency basis swap, asset swap, inflation swap, CMS | Trillions of USD-equivalent (BIS semi-annual) | OTC, much cleared at JSCC | [[derivatives/japan-irs-market]], [[derivatives/ois-tona-curve]], [[derivatives/yen-basis-swap-market]], [[derivatives/japan-swaption-market]], [[derivatives/japan-inflation-swap]], [[derivatives/japan-cms-constant-maturity-swap]] |
-| FX OTC | FX forward, FX swap, FX option, NDF (where relevant), cross-currency swap, retail FX margin | Hundreds of billions of USD-equivalent daily | OTC, mostly bilateral; retail FX cleared / netted via FX dealers | [[derivatives/fx-options-japan-corporate-treasury]], [[derivatives/retail-fx-margin-trade-japan]], [[derivatives/fx-stp-broker-aggregation]] |
-| Credit OTC | Single-name CDS (Japan corporates), iTraxx Japan index, basis trade, recovery swap | Tens of billions of USD-equivalent | OTC, mostly bilateral; JSCC operates a designated CDS clearing service | [[derivatives/japan-cds-market-overview]], [[derivatives/cds-japan-corporate-spread-mechanics]], [[derivatives/basis-trade-bond-cds-japan]] |
-| Equity / structured OTC | Equity-linked swaps, single-stock options, variance swaps, structured bonds (EB, knock-in, PRDC), repackaging notes | Variable; dominated by retail structured-bond issuance and dealer-bank hedging | OTC bilateral | [[derivatives/structured-bond-japan-retail-issuance]], [[derivatives/structured-product-eb-knockin-japan-retail]], [[derivatives/japan-single-stock-options]], [[derivatives/equity-volatility-hedging-corporates-japan]] |
+| Interest-rate OTC | Yen IRS, OIS, swaption, cross-currency basis swap, inflation swap, CMS | BIS and BOJ aggregate notional, market value, and survey turnover | JSCC publishes an eligible IRS set; eligibility is not identical to a mandate | [[derivatives/japan-irs-market]], [[derivatives/ois-tona-curve]], [[derivatives/yen-basis-swap-market]], [[derivatives/japan-swaption-market]], [[derivatives/japan-inflation-swap]], [[derivatives/japan-cms-constant-maturity-swap]] |
+| FX OTC | FX forward, FX swap, FX option, and cross-currency swap | BIS and BOJ survey tables, with currency and reporting-location dimensions | Product and counterparty scope determine reporting and clearing treatment | [[derivatives/fx-options-japan-corporate-treasury]], [[derivatives/retail-fx-margin-trade-japan]], [[derivatives/fx-stp-broker-aggregation]] |
+| Credit OTC | CDS index and single-name transactions | BIS aggregate statistics and JSCC's current eligible CDS list | JSCC eligibility is defined by its current product criteria | [[derivatives/japan-cds-market-overview]], [[derivatives/cds-japan-corporate-spread-mechanics]], [[derivatives/basis-trade-bond-cds-japan]] |
+| Equity / structured OTC | Equity-linked swaps, OTC options, and contract-specific structured exposures | Applicable disclosures and reporting datasets | Bilateral terms and regulatory scope must be checked trade by trade | [[derivatives/structured-bond-japan-retail-issuance]], [[derivatives/structured-product-eb-knockin-japan-retail]], [[derivatives/japan-single-stock-options]], [[derivatives/equity-volatility-hedging-corporates-japan]] |
+
+Sources: ^[source:https://www.bis.org/statistics/derstats.htm] ^[source:https://www.boj.or.jp/en/statistics/bis/yoshi/index.htm] ^[source:https://www.jpx.co.jp/jscc/en/cash/irs/product.html] ^[source:https://www.jpx.co.jp/jscc/en/cash/cds/product.html]
 
 The OTC market is structurally separate from the exchange-traded derivative market (JGB futures, TONA futures, Nikkei 225 futures and options on OSE), but the two markets are tightly coupled through dealer-bank hedging and end-user portfolio decisions.
 
 ## Market Participants
 
-| Category | Role |
+| Category | Evidence-bounded role |
 |---|---|
-| Megabank-affiliated securities firms | MUFG Securities, SMBC Nikko, Mizuho Securities — dominant JPY rates / FX / structured franchise. |
-| Independent Japanese securities firms | Nomura, Daiwa, Mitsubishi UFJ Morgan Stanley — strong yen franchise plus cross-border. |
-| Global investment banks | JPMorgan, Goldman, Citi, Morgan Stanley, Deutsche Bank, Barclays, BNP Paribas, HSBC, UBS. |
-| Domestic banks (end-users) | Megabanks treasury, regional banks, trust banks, Norinchukin Bank — primarily ALM hedging. |
-| Life insurers (end-users) | Long-tenor receive-fixed flow for policy-reserve duration matching. |
-| Non-life insurers (end-users) | Smaller-scale ALM hedging plus FX-linked liability hedges. |
-| Corporates (end-users) | Floating-to-fixed loan hedging, foreign-issuance swap-back, FX revenue hedging, capital-structure hedging. |
-| Foreign macro / hedge funds | Tactical Japan-rate and credit positioning. |
-| Pension funds / asset managers | Duration management on JPY fixed-income mandates. |
-| Inter-dealer brokers | ICAP / Tradition / BGC / Tullett Prebon — anonymous execution and price discovery. |
-| CCP | JSCC — central clearing of mandated yen IRS / OIS and designated CDS. |
-| Trade repository | DTCC Data Repository Japan — designated TR for FIEA reporting. |
-| Regulator | FSA under FIEA. |
-| Central bank | BoJ — macro driver and surveillance role. |
+| Registered firms and other dealers | Execute or intermediate transactions within applicable registration and conduct scope |
+| Banks, insurers, corporates, funds, and other end users | Hedge or take exposure; direction and size require institution-specific evidence |
+| JSCC | Publishes eligible OTC IRS and CDS products and clearing rules |
+| Reporting entities and submission routes | Defined by FSA reporting guidance, including applicable scope and exemptions |
+| BOJ and BIS | Publish aggregate survey and statistical surfaces |
 
-The dealer franchise is the structural backbone. See [[megabanks/mufg-bank]], [[megabanks/sumitomo-mitsui-banking-corp]], [[megabanks/mizuho-bank]] for parent-FG context.
+Sources: ^[source:https://www.fsa.go.jp/en/news/2022/20220912-1/01.pdf] ^[source:https://www.jpx.co.jp/jscc/en/cash/irs/product.html] ^[source:https://www.jpx.co.jp/jscc/en/cash/cds/product.html]
+
+No source used here establishes a current dealer ranking or a universal end-user trade direction.
 
 ## Regulatory Framework
 
-| Layer | Detail |
+| Layer | Evidence-bounded detail |
 |---|---|
 | FIEA | Statutory framework for OTC derivative dealing, reporting, clearing, and conduct. |
-| FSA supervision | Supervises FIEA-registered dealers, JSCC as CCP, and trade-repository operations. |
-| Mandatory clearing | FSA-designated standardized yen IRS and certain CDS must clear at JSCC. |
-| Trade reporting | All FIEA-regulated entity OTC derivative trades must report to a designated TR. |
-| ISDA documentation | Most OTC trades use ISDA Master Agreement (1992 or 2002 form) plus CSAs, ISDA 2020 protocol. See [[derivatives/isda-2020-protocol-japan-implementation]]. |
-| Capital and margin | Basel III RWA, leverage ratio, NSFR, LCR. Uncleared Margin Rules (UMR) for non-cleared bilateral derivatives. |
-| Equivalence regimes | EMIR equivalence for JSCC; CFTC substituted-compliance / equivalence elements for clearing and reporting. |
+| FSA reporting framework | Reporting entities, reportable information, timing, and routes are defined by current guidance; do not replace the scope test with “all trades” |
+| JSCC product eligibility | Current eligible IRS and CDS products are listed by JSCC; eligibility does not alone prove a legal clearing obligation |
+| Contract documentation | ISDA or other terms may govern bilateral transactions, subject to applicable law and CCP rules |
+| Margin and capital | Applicable requirements depend on entity, product, clearing status, and threshold scope |
+
+Sources: ^[source:https://www.fsa.go.jp/en/news/2022/20220912-1/01.pdf] ^[source:https://www.jpx.co.jp/jscc/en/cash/irs/product.html] ^[source:https://www.jpx.co.jp/jscc/en/cash/cds/product.html]
 
 See [[derivatives/otc-clearing-jp-trade-repository]] for the clearing and reporting infrastructure detail.
 

@@ -1,114 +1,97 @@
 ---
 source: derivatives/topix-futures
-source_hash: ad870e686022e9b4
+source_hash: a2ae1c774d240e08
 lang: ja
 status: machine
 fidelity: ok
 title: "TOPIX 先物（OSE）"
-translated_at: 2026-06-02T12:19:04.211Z
+translated_at: 2026-07-29T18:49:00+09:00
 ---
+
 # TOPIX 先物（OSE）
 
 ## 要約
 
-TOPIX 先物は、東京証券取引所株価指数（TOPIX）を対象とする上場株価指数先物である。TOPIX は JPX の旗艦的な浮動株時価総額加重指数で、プライム市場（旧市場第一部）の全構成銘柄、概ね 2,000 stocks を対象とする。日本取引所グループ（JPX）傘下の大阪取引所（OSE）に上場し、[[securities/japan-securities-clearing-corp|JSCC]]で清算される。標準 TOPIX Futures 契約と、より小型の mini TOPIX Futures は、広範な日本株 equity-beta エクスポージャーに対する機関投資家向けヘッジ手段として機能する。
+TOPIX 先物は、東証株価指数（TOPIX）を原資産とする取引所上場の株価指数先物である。JPX は TOPIX を、投資可能性を備え、日本株市場の広範な部分をカバーする浮動株調整時価総額加重ベンチマークと説明している。現在の構成銘柄は固定数を前提にせず、JPX の最新の構成銘柄情報で確認する必要がある。先物は大阪取引所（OSE）に上場し、[[securities/japan-securities-clearing-corp|JSCC]] で清算される。 ^[Source: https://www.jpx.co.jp/english/markets/indices/topix/.]
 
-[[derivatives/nikkei-225-futures-options|Nikkei 225 futures]] 複合体と比べると、TOPIX 先物の日次出来高は小さいが、ユーザー層はより機関投資家寄りである。国内年金基金、生命保険会社、資産運用会社、銀行 ALM デスクは、ポートフォリオ全体のヘッジや戦術的ポジショニングに TOPIX 先物を用いる。これは、TOPIX がパッシブ指数マンデートで保有されるユニバースをよりよく代表しているためであり、特に [[insurance/japan-life-insurance-alm-overview|life-insurance ALM]] や年金配分は、価格加重の Nikkei 225 よりも TOPIX 型の広範市場ベンチマークに連動することが多い。
+OSE は、標準の TOPIX 先物とミニ TOPIX 先物に加え、TOPIX Core30 先物や TOPIX Banks Index 先物など、現在提供されているサブインデックス契約も上場している。商品の存在だけから、利用者の順位、取引高の比較、投資家別シェアを判断することはできない。
 
-FinWiki では、本項目で契約仕様、Nikkei 225 futures との比較、先物と ETF のベーシス裁定、サブインデックス先物（TOPIX Core 30, TOPIX 100, TOPIX Banks）、機関投資家フローの特徴を扱う。
+FinWiki では、現行の契約仕様、日経 225 との指数算出手法の比較、根拠が確認できる範囲に限定した現物・先物ベーシスの分析枠組み、日本銀行の ETF 政策の経緯、サブインデックス先物、JSCC の証拠金制度を扱う。
 
 ## ウィキ上の位置づけ
 
-この項目は [[derivatives/INDEX|derivatives index]] に属する。価格加重指数の同等商品として [[derivatives/nikkei-225-futures-options]]、個別株式デリバティブの補完として [[derivatives/japan-single-stock-options]]、機関投資家のエンドユーザー側として [[securities/japan-asset-manager-landscape-matrix]] と併読する。上場市場は [[securities/osaka-exchange|Osaka Exchange]]、清算レイヤーは [[securities/japan-securities-clearing-corp|JSCC]]、より広い [[securities/tokyo-stock-exchange|TSE]] 現物株ユニバースが原資産である。
+本項目は [[derivatives/INDEX|デリバティブ索引]] に属する。株価平均型指数を原資産とする先物との比較には [[derivatives/nikkei-225-futures-options]]、個別銘柄の株式デリバティブとの補完関係には [[derivatives/japan-single-stock-options]] を参照する。上場市場は [[securities/osaka-exchange|大阪取引所]]、清算機関は [[securities/japan-securities-clearing-corp|JSCC]] であり、より広い [[securities/tokyo-stock-exchange|東証]] の現物株式市場が構成銘柄を提供する。
 
 ## 契約仕様
 
 OSE は TOPIX 連動先物契約を主に二つ、加えて複数のサブインデックス先物を上場している:
 
+以下の表は JPX の現行仕様を反映している。JPX の現行商品一覧に掲載されていない TOPIX 100 先物や、対象を特定していない業種別指数先物は除外した。 ^[Sources: https://www.jpx.co.jp/english/derivatives/products/domestic/topix-futures/01.html; https://www.jpx.co.jp/english/derivatives/products/domestic/mini-topix-futures/01.html; https://www.jpx.co.jp/english/derivatives/products/domestic/topix-core30futures/01.html; https://www.jpx.co.jp/english/derivatives/products/domestic/topix-banks-index-futures/01.html.]
+
 | 契約 | 原資産 | 乗数 | 呼値 | 上場限月 |
 |---|---|---|---|---|
-| TOPIX Futures (Standard) | TOPIX（浮動株時価総額加重、約2,000 Prime stocks） | JPY 10,000 × index | 0.5 index points (= JPY 5,000 per tick) | Mar / Jun / Sep / Dec、および近限月 |
-| mini TOPIX Futures | TOPIX | JPY 1,000 × index (1/10) | 0.25 index points (= JPY 250 per tick) | 月次 |
-| TOPIX Core 30 Futures | TOPIX Core 30 (30 large-caps) | JPY 10,000 × index | 0.5 | 四半期 |
-| TOPIX Banks Futures | TOPIX Banks sector index | JPY 10,000 × index | 0.1 | 四半期 |
+| TOPIX 先物（標準） | TOPIX | JPY 10,000 × 指数 | 0.5 指数ポイント（= 一ティック当たり JPY 5,000） | 六月・十二月限：直近 10 限月、三月・九月限：直近 3 限月 |
+| ミニ TOPIX 先物 | TOPIX | JPY 1,000 × 指数（1/10） | 0.25 指数ポイント（= 一ティック当たり JPY 250） | 三月サイクルの直近 3 四半期限月 |
+| TOPIX Core30 先物 | TOPIX Core30 | JPY 1,000 × 指数 | 0.5 ポイント（= 一ティック当たり JPY 500） | 三月サイクルの直近 3 四半期限月 |
+| TOPIX Banks Index 先物 | TOPIX Banks Index | JPY 10,000 × 指数 | 0.1 ポイント | 三月サイクルの直近 3 四半期限月 |
 
-すべての契約は、限月第2金曜日の朝に算出される Special Quotation（SQ）に対して現金決済される。SQ は SQ 日の原資産構成銘柄の始値から計算される。
+すべての契約は、各限月の第二金曜日の朝に算出される Special Quotation（SQ）に対して現金決済される。SQ は SQ 日の原資産構成銘柄の始値から計算される。
 
-取引時間は OSE の二部制（日中立会 ~08:45–15:15 JST、ナイト・セッション ~16:30–06:00 JST 翌日）に従い、[[derivatives/nikkei-225-futures-options|Nikkei 225 futures]] のスケジュールと対応する。
+上記四契約の通常取引時間は、08:45-15:45 JST および 17:00-翌日06:00 JST である。
 
-## TOPIX vs Nikkei 225: 手法上の違い
+## TOPIX と Nikkei 225：算出手法の違い
 
-TOPIX と Nikkei 225 の根本的な違いが、どの投資家がどの先物を使うかを決める:
+以下の比較は指数の算出手法に限定しており、利用者、業種構成の偏り、流動性、取引高の順位は推定しない。 ^[Sources: https://www.jpx.co.jp/english/markets/indices/topix/; https://indexes.nikkei.co.jp/en/nkave/index/profile?idx=nk225.]
 
 | 観点 | TOPIX | Nikkei 225 |
 |---|---|---|
-| 構成銘柄 | プライム市場の全銘柄（約2,000） | 225 selected stocks |
-| 加重方式 | 浮動株時価総額 | 価格加重（価格 ÷ 除数） |
-| セクター偏り | 実際の時価総額分布を反映し、金融セクターや広範市場がよく表れる | 株価の高い銘柄の影響で、テクノロジー・産業セクターが過大加重される（例: Fast Retailing、SoftBank Group が支配的） |
-| 追跡ベンチマークとしての用途 | パッシブ指数マンデート、年金基金、資産運用会社の TOPIX トラッカー、広範な日本株エクスポージャー | 国内 retail-flow 指標、海外勢のマクロ Japan-beta proxy、金融メディアのヘッドライン指数 |
-| 手法更新 | TSE 市場再編（Prime / Standard / Growth）が TOPIX 加重方針に影響し、浮動株比率を定期見直し | Nikkei Inc. による定期見直し。構成銘柄変更は比較的少ない |
+| 公表上の対象範囲 | 日本株市場の広範な部分。JPX の最新の構成銘柄情報を参照 | 選定された 225 銘柄。日経の最新の構成銘柄情報を参照 |
+| 加重方式 | 浮動株調整時価総額加重 | 株価平均型 |
+| 指数算出者 | JPX 総研 | 日本経済新聞社 |
+| 先物の取引単位 | 標準契約は TOPIX × JPY 10,000 | ラージ契約は Nikkei 225 × JPY 1,000 |
 
-TOPIX は時価総額加重の広範ベンチマークであるため、日本の機関投資家（生命保険会社、地域銀行、年金基金、パッシブ運用マンデートを運用する資産運用会社）は、原資産の保有が広範市場ポートフォリオである場合、Nikkei 225 futures ではなく TOPIX 先物でヘッジする。対照的に Nikkei 225 contract は、225-stock price-weighted の形が戦術的取引に許容される、または好まれる retail や海外マクロポジションをより多く引き付ける。
+ヘッジ手段を比較する際は、実際の現物バスケットを各指数の算出手法に対応づけ、ベーシスリスクを測定する必要がある。商品設計だけでは、特定の投資家がどの契約を利用しているかは判断できない。
 
-二つの先物は同じ現物バスケットに対する同等のヘッジではない。TOPIX 追跡ポートフォリオを Nikkei 225 futures でヘッジすると、二つの指数の構成銘柄加重が大きく異なるため、セクターベーシスリスクが残る。
+## 現物・先物ベーシスの分析枠組み
 
-## ETF ベーシス裁定
+TOPIX の現物・先物ベーシスは測定できるが、商品ページだけでは、その大きさや方向、取引主体を特定できない。
 
-TOPIX 先物と ETF のベーシス取引は、主要な機関投資家・ディーラー活動である:
+1. **現物の参照値**：対象を明示した TOPIX 現物バスケット、またはベンチマークと商品構造を確認済みの上場中の TOPIX 連動 ETF を用いる。
+2. **先物の参照値**：対応する TOPIX 先物の限月と同一時点の価格を用いる。
+3. **キャリーの入力値**：資金調達コスト、予想配当、満期までの期間、取引費用を明記する。
+4. **観測ベーシス**：時点をそろえた現物値と先物値を比較する。価格差だけから裁定ポジションを推定しない。
 
-1. **現物レッグ**: TOPIX 追跡 ETF（例: NEXT FUNDS TOPIX ETF [1306]、TOPIX ETF iShares [1475]、Daiwa ETF TOPIX [1305]、Nikko TOPIX ETF [1308]）が、原資産バスケットへの現物エクスポージャーを提供する。
-2. **先物レッグ**: TOPIX 先物が、証拠金ファイナンス付きの合成エクスポージャーを提供する。
-3. **ベーシス**: インプライド配当利回り、キャリーコスト、需給の不均衡が、測定可能な現物・先物ベーシス（指数ポイント）を動かす。
-4. **裁定**: Authorized participants と ETF market makers は、ロング ETF / ショート先物（またはその逆）を行い、ベーシスの歪みを捕捉する。
+指定参加者やマーケットメイカーは、権限と開示の範囲内で現物と先物を組み合わせる場合があるが、本項目では実際の取引方向やシェアを推定しない。制度上の枠組みは [[securities/japan-market-maker-and-liquidity-provider-landscape|ETF マーケットメイク]] を参照する。
 
-この取引は [[securities/japan-market-maker-and-liquidity-provider-landscape|ETF market making]] とも交差する:
+日本銀行は March 19, 2024 付で ETF と J-REIT の買入れを終了した。September 19, 2025 付の決定では、実務上の準備を終えた後、保有 ETF を簿価ベースで年間約 JPY 330 billion のペースで市場に売却するとし、将来そのペースを変更し得ることも明記した。これらの政策上の事実だけから、TOPIX ベーシスの方向や規模を判断することはできない。 ^[Sources: https://www.boj.or.jp/en/mopo/mpmdeci/state_2024/k240319a.htm; https://www.boj.or.jp/en/mopo/mpmdeci/state_2025/k250919a.htm.]
 
-| 方向 | 発動条件 |
-|---|---|
-| ロング ETF / ショート先物（正のベーシス） | 先物インプライド価格が現物を上回るとき（例: 権利落ち日前、先物買い需要が強いとき） |
-| ロング先物 / ショート ETF（負のベーシス） | 先物が現物に対して割安なとき（例: ETF の解約需要により供給が集中するとき） |
+## 投資家データの適用範囲
 
-TOPIX ベーシスの持続的な駆動要因の一つは、BoJ の過去の ETF 保有である。BoJ は TOPIX 連動 ETF と Nikkei 225 連動 ETF を、2010 through 2024 に金融政策の下で購入しており、BoJ の ETF 残高は現在、保有 / ランオフ局面にある。BoJ の ETF 保有は、原資産 TOPIX 構成銘柄の浮動株を減らし、ETF レベルでの権利落ちダイナミクスに影響する。BoJ オペレーションの文脈は [[money-market/boj-open-market-operations]] を参照。
+投資家別シェア、口座区分、ヘッジ目的を述べるには、JPX の具体的なデータセット、商品、期間を示す必要がある。本項目では、TOPIX 先物の利用を推測して、生命保険会社、年金基金、銀行、運用会社、証券会社、海外投資家、個人投資家を分類しない。
 
-## 機関投資家フローの特徴
+## サブインデックス先物：Core30 と Banks
 
-TOPIX 先物のユーザー基盤は Nikkei 225 よりも機関投資家寄りである:
+以下の表は、主要な TOPIX 商品と併せて、現在上場している TOPIX Core30 先物と TOPIX Banks 指数先物を示す。 ^[Sources: https://www.jpx.co.jp/english/derivatives/products/domestic/topix-core30futures/01.html; https://www.jpx.co.jp/english/derivatives/products/domestic/topix-banks-index-futures/01.html; https://www.jpx.co.jp/english/derivatives/products/domestic/index.html.]
 
-| ユーザー区分 | 用途 |
-|---|---|
-| 生命保険会社（財務 / equity ALM） | TOPIX 追跡保有の戦術的な株式デュレーション調整、オーバーレイ戦略 |
-| 年金基金（GPIF、企業 DB、公的セクター） | リバランスフロー、パッシブ追跡オーバーレイ、四半期見直し前後の transition management |
-| 資産運用会社（アクティブ・パッシブ） | 申込 / 解約フローの cash-equitization、インデックスファンドの tracking error 低減 |
-| 銀行 treasury / ALM | 政策保有株式 unwind programs に伴う株式ポートフォリオヘッジ |
-| 証券会社自己勘定 | マーケットメイク、ETF や Nikkei 先物との裁定取引 |
-| 海外機関投資家 | 国単位の Japan-beta sizing、マクロ戦術 |
-| リテール | Nikkei mini より小さい比率。mini TOPIX が主なリテールアクセス可能 TOPIX 契約 |
+| サブインデックス契約 | 原資産 | 取引単位 | 呼値 | 上場限月 |
+|---|---|---|---|---|
+| TOPIX Core30 先物 | TOPIX Core30 | JPY 1,000 × 指数 | 0.5 ポイント | 三月サイクルの直近 3 四半期限月 |
+| TOPIX Banks Index 先物 | TOPIX Banks Index | JPY 10,000 × 指数 | 0.1 ポイント | 三月サイクルの直近 3 四半期限月 |
 
-Government Pension Investment Fund（GPIF）は世界最大の年金基金であり、日本株市場の構造的参加者である。TOPIX 連動保有により、TOPIX 先物（または超大型取引では TOPIX swaps）が自然なリバランス手段となる。企業の政策保有株式 unwind programs（[[finance/INDEX|finance]] anchor）では、ブロック取引執行前の移行ヘッジとして TOPIX 先物が頻繁に使われる。
-
-## サブインデックス先物: Core 30, 100, Banks
-
-OSE はより狭いサブインデックス先物を上場している:
-
-| サブインデックス契約 | 原資産 | 用途 |
-|---|---|---|
-| TOPIX Core 30 Futures | 流動性 / 時価総額上位 30 stocks | 大型株 Japan-beta の分離、政策保有株式 unwind ヘッジ |
-| TOPIX 100 Futures | 上位 100 stocks | 中大型株に焦点を当てたヘッジ |
-| TOPIX Banks Futures | TOPIX Banks sector | 銀行セクター beta ヘッジ、個別銀行とのペア取引、日本銀行セクターへのマクロ見通し |
-| TOPIX Sector Indices (other) | 各種セクター | 流動性は限定的。セクターローテーション・オーバーレイ |
-
-TOPIX Banks Futures は、銀行セクターのレジームシフト（例: NIRP exit speculation、BoJ policy normalization scenarios）の局面で関心を集めてきた。サブインデックスの流動性は代表的な TOPIX 契約よりかなり薄く、Core 30 / Banks 契約はより断続的に取引される。
+現在の取引状況や投資家の関心は、対象期間を明示した JPX の統計で確認する必要がある。本項目では、流動性の順位やイベントに伴う需要を推定しない。
 
 ## 清算と証拠金
 
+以下の表は、JPX の現行契約仕様と JSCC の VaR 証拠金制度を反映している。 ^[Sources: https://www.jpx.co.jp/jscc/en/cash/futures/marginsystem/VaR.html; https://www.jpx.co.jp/english/derivatives/products/domestic/topix-futures/01.html; https://www.jpx.co.jp/english/derivatives/products/domestic/mini-topix-futures/01.html.]
+
 | 要素 | 詳細 |
 |---|---|
-| CCP | [[securities/japan-securities-clearing-corp|JSCC]]。執行時に novation |
-| 証拠金 | SPAN 型ポートフォリオ証拠金。TOPIX 先物、mini、サブインデックス、オプション間のオフセットあり |
-| 決済 | 限月第2金曜日の SQ に対する現金決済 |
-| デフォルト管理 | 標準的な JSCC waterfall |
+| CCP | [[securities/japan-securities-clearing-corp|JSCC]]。約定時に債務引受 |
+| 証拠金 | JSCC の現行 VaR 方式 |
+| 決済 | JPX の現行仕様に基づく、商品別の SQ による現金決済 |
+| デフォルト管理 | JSCC の現行規則に準拠 |
 
-SPAN ポートフォリオ証拠金方式は、一つの証拠金計算の下で複雑な multi-leg strategies（TOPIX vs Nikkei spreads、TOPIX vs Core 30, TOPIX futures vs ETF hedges）を支える。
+JSCC は適用する VaR 証拠金方式と現行パラメータを公表している。本項目では、すべてのポートフォリオの組み合わせに一律の相殺額が適用されるとはしていない。
 
 ## 関連項目
 
@@ -131,9 +114,7 @@ SPAN ポートフォリオ証拠金方式は、一つの証拠金計算の下で
 
 ## 出典
 
-- Japan Exchange Group / Osaka Exchange: TOPIX Futures、mini TOPIX Futures、サブインデックス先物の契約仕様。
-- JPX: TOPIX 指数手法、浮動株比率見直しスケジュール、SQ 算出規則。
-- JPX: OSE デリバティブの月次取引高および投資家区分別統計。
-- Japan Securities Clearing Corporation: SPAN ベースの証拠金計算手法。
-- Bank of Japan: ETF 保有開示およびバランスシート統計。
-- Financial Services Agency: 上場デリバティブに関する FIEA 枠組み。
+- 日本取引所グループ／大阪取引所：現行の TOPIX 先物、ミニ TOPIX 先物、TOPIX Core30 先物、TOPIX Banks Index 先物の仕様。
+- JPX：現行の TOPIX の説明、構成銘柄情報への経路、浮動株調整時価総額加重方式。
+- 日本証券クリアリング機構：現行の VaR 証拠金方式。
+- 日本銀行：March 19, 2024 の ETF 買入れ終了と、September 19, 2025 の ETF 売却方針決定。

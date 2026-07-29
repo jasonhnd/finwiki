@@ -1,20 +1,20 @@
 ---
 source: derivatives/jgb-special-participants-primary-dealer
-source_hash: d2e1cfe8eb007253
+source_hash: d44df44d2c16c7b5
 lang: en
 status: machine
 fidelity: ok
 title: "JGB Special Participants (Japan primary dealer system)"
-translated_at: 2026-05-31T03:19:56.438Z
+translated_at: 2026-07-29T21:20:00.000Z
 ---
 
 # JGB Special Participants (Japan primary dealer system)
 
 ## TL;DR
 
-The JGB Special Participants system (国債市場特別参加者制度) is Japan's primary dealer regime: a Ministry of Finance (MoF)-administered framework under which a defined set of financial institutions are recognized as the principal counterparties to MoF JGB auctions in exchange for accepting bid-and-make-market obligations across the JGB curve. The system was introduced in 2004 and has been refined over multiple iterations; the current list typically contains around 20 firms, comprising Japanese megabank securities affiliates, major Japanese independent securities firms, and foreign investment-bank subsidiaries operating in Japan.
+The JGB Special Participants system (国債市場特別参加者制度) is a Ministry of Finance framework introduced in October 2004. Participants accept auction-bidding, purchase, secondary-market-liquidity, and information-provision responsibilities under MOF's published terms. The linked MOF list dated 27 December 2023 contains 19 companies; a “current” count must be taken from the latest MOF list rather than assumed.
 
-Special Participants commit to: (i) submitting meaningful bids at each JGB auction across the major maturities; (ii) providing two-sided quotes in the JGB secondary market; (iii) reporting trading activity and inventory; and (iv) maintaining adequate financial resources. In exchange they receive: (i) access to MoF non-price auctions (Non-Price Competitive Auction I and II), allowing them to obtain JGBs at the weighted-average winning price; (ii) regular dialogue with MoF on JGB issuance policy; (iii) participation in MoF buybacks; and (iv) standing as recognized JGB market makers in the eyes of MoF, BoJ, and the FSA.
+MOF's terms require sufficient secondary-market liquidity but do not state a generic continuous two-sided-quote obligation. Entitlements include meetings with MOF and access, subject to detailed conditions, to Non-Price Competitive Auctions I and II, buybacks, STRIPS, enhanced-liquidity auctions, and preferential counterparty selection for interest-rate swaps.
 
 The Japanese system is conceptually similar to the US primary dealer system (administered by the New York Fed) and the UK gilt-edged market maker (GEMM) system, but with distinct operational features that reflect Japanese market structure and MoF's auction-design approach.
 
@@ -29,31 +29,18 @@ This entry sits under [[derivatives/INDEX|derivatives index]] in the JGB / rates
 | Element | Detail |
 |---|---|
 | Regulator / administrator | Ministry of Finance (MoF), Financial Bureau, Government Debt Management Division |
-| Established | 2004 (formalization of the prior JGB primary-dealer-like arrangement) |
-| Recognized firms | Approximately 20 at any time (varies by year as firms join / leave) |
-| Recognition basis | Application + MoF assessment of capital adequacy, market-making capability, JGB activity, and compliance |
-| Renewal | Annual review; firms can be added or removed; conduct standards enforced |
-| Membership categories | Single tier (no formal A / B sub-tier in the JGB system); some operational differentiation exists in practice |
+| Established | October 2004 |
+| Published snapshot | 19 companies on the linked list dated 27 December 2023 |
+| Designation | Subject to MOF's published terms, application, and examination |
+| Monitoring | MOF terms provide for interviews in principle quarterly and for revocation or suspension in specified circumstances |
+| Responsibilities | Bidding, purchase, secondary-market liquidity, and information provision under the terms |
 | Publication | MoF publishes the current list on its Special Participants page |
 
-The number of recognized firms is materially smaller than the FSA's broader [[securities/financial-instruments-business-operators-japan-index|Financial Instruments Business Operators]] universe and reflects MoF's deliberate concentration of auction counterparties to firms capable of meeting bid and market-making obligations.
+Sources: ^[source:https://www.mof.go.jp/english/policy/jgbs/debt_management/pd/index.html] ^[source:https://www.mof.go.jp/english/policy/jgbs/debt_management/pd/231227.pdf] ^[source:https://www.mof.go.jp/english/policy/jgbs/debt_management/pd/20240425.pdf]
 
 ## List Composition (Typical)
 
-While the exact list is updated periodically by MoF, the typical composition is:
-
-| Dealer category | Representative firms |
-|---|---|
-| Japanese megabank securities affiliates | MUFG Securities, SMBC Nikko Securities, Mizuho Securities (and their bond-trading desks within the securities entities) |
-| Independent Japanese securities firms | Nomura Securities, Daiwa Securities |
-| Other Japanese securities | SBI Securities, Tokai Tokyo Securities, OKASAN Securities (varies by year) |
-| Trust and other megabank-affiliated bond entities | Where applicable (specific entities vary) |
-| Foreign investment-bank subsidiaries in Japan | JPMorgan Securities Japan, Goldman Sachs Japan, Morgan Stanley MUFG Securities, Citigroup Global Markets Japan, Deutsche Securities, Barclays Securities Japan, BNP Paribas Securities (Japan), HSBC Securities (Japan), UBS Securities Japan |
-| Other | Société Générale Securities (Japan), Crédit Agricole Securities (Japan), and similar foreign-firm subsidiaries when present |
-
-Notable: foreign-firm subsidiaries operating as Japan-registered securities companies (under FIEA license — see [[securities/financial-instruments-business-operators-japan-index|FIBO registry]]) are eligible and a substantial share of the list. This open membership to foreign firms is one of the structural features of the Japanese system.
-
-The list above is illustrative; the official current list is maintained by MoF and updated on the official page (see Sources).
+The list is entity-specific and changes over time. This page therefore does not reconstruct an illustrative roster from brand names. Use the latest file linked by MOF; the cited 27 December 2023 snapshot contains the exact 19 legal-entity names for that date.
 
 ## Obligations of Special Participants
 
@@ -61,14 +48,15 @@ Special Participants accept the following obligations under MoF rules:
 
 | Obligation | Detail |
 |---|---|
-| Bid obligation at each auction | Submit meaningful bids at each MoF JGB auction across major tenors; minimum participation thresholds defined by MoF in the auction rules |
-| Successful bid share | Achieve a minimum share of successful awards over time (assessed in annual reviews) |
-| Secondary market quotes | Provide two-sided quotes on the JGB secondary market; obligation calibrated by tenor and time of day |
-| Inventory and activity reporting | Report JGB inventory positions and trading volumes to MoF |
-| Capital adequacy and regulatory compliance | Maintain FIEA-required capital and operational standards |
-| Cooperation with MoF | Participate in MoF dialogue on issuance plans, market functioning, and product development |
+| Bidding responsibility | Submit bids whose total face amount meets the formula in MOF's terms for each applicable auction |
+| Purchase responsibility | Meet the minimum successful-purchase proportions specified by maturity zone in the terms |
+| Secondary-market responsibility | Provide sufficient liquidity; MOF considers quote presentation and outright and futures transaction activity |
+| Information responsibility | Provide information requested by MOF concerning JGB markets and operations |
+| Ongoing status | Subject to the designation, suspension, and revocation conditions in the current terms |
 
-Performance against these obligations is reviewed annually; firms not meeting thresholds can be downgraded or removed from the list.
+Source: ^[source:https://www.mof.go.jp/english/policy/jgbs/debt_management/pd/20240425.pdf]
+
+MOF's terms provide for monitoring and interviews in principle quarterly; they do not describe a generic annual-renewal cycle.
 
 ## Benefits of Special Participant Status
 
@@ -76,14 +64,14 @@ In exchange for the obligations, Special Participants receive:
 
 | Benefit | Detail |
 |---|---|
-| Non-Price Competitive Auction I (Non-Price I) | Eligible to receive a portion of the JGB auction at the weighted-average winning price; pre-auction allocation based on Special Participant share |
-| Non-Price Competitive Auction II (Non-Price II) | Additional post-auction allocation at the weighted-average winning price; another non-price entitlement |
-| MoF dialogue and consultation | Regular forums with MoF on issuance plans, market functioning, and JGB program development; influence on MoF planning |
-| Buyback participation | Eligibility to participate in MoF JGB buyback / liability management operations |
-| Recognition | Formal MoF and BoJ recognition as JGB market makers; useful for client distribution and reputation |
-| Access to operational facilities | Standard JGB clearing and settlement infrastructure access (BoJ-NET, [[securities/japan-securities-clearing-corp|JSCC]]) |
+| Non-Price Competitive Auction I | Conducted simultaneously with the competitive auction; awarded at the weighted-average accepted price within the applicable limit |
+| Non-Price Competitive Auction II | Conducted after the auction on the same day; awarded at the weighted-average accepted price within the applicable entitlement |
+| MOF meetings | Participation in meetings concerning debt-management policy and markets |
+| Other conditional access | Buybacks, STRIPS, enhanced-liquidity auctions, and preferential interest-rate-swap counterparty selection under the terms |
 
-The Non-Price Competitive Auction (I and II) mechanism is particularly important: it provides Special Participants with a guaranteed allocation channel at the auction's weighted-average price, removing some of the price-discovery risk of competitive bidding alone. Non-Price I is allocated before the competitive auction; Non-Price II is allocated after, at the same weighted-average price.
+Source: ^[source:https://www.mof.go.jp/english/policy/jgbs/debt_management/pd/20240425.pdf]
+
+These are conditional entitlements, not guaranteed allocations. Limits and performance-based calculations must be read from the current terms and dated auction notice.
 
 ## Auction Mechanics in the JGB System
 
@@ -92,55 +80,31 @@ The JGB auction process accommodates Special Participants alongside other bidder
 | Auction component | Eligibility / mechanism |
 |---|---|
 | Price-competitive auction | Open to all qualified bidders (Special Participants + others); allocation by competitive bid |
-| Non-Price Competitive Auction I (Non-Price I) | Special Participants only; pre-auction; allocation at expected weighted-average price; subject to entitlement based on prior auction performance |
-| Non-Price Competitive Auction II (Non-Price II) | Special Participants only; post-auction; allocation at the actual weighted-average winning price from the competitive auction; additional entitlement |
-| Auction format | Multi-price (conventional) auction for most JGBs; conventional yield-based or price-based depending on series |
+| Non-Price Competitive Auction I | Special Participants; conducted simultaneously with the competitive auction and priced at the weighted-average accepted price |
+| Non-Price Competitive Auction II | Special Participants; conducted after the auction on the same day and priced at the weighted-average accepted price |
+| Exact terms | Product, amount, limits, and bidding method follow the dated auction notice and current MOF rules |
 
-The Non-Price I entitlement creates an incentive for Special Participants to maintain a strong auction-bidding track record because Non-Price I share scales with historical performance.
+Source: ^[source:https://www.mof.go.jp/english/policy/jgbs/debt_management/pd/20240425.pdf]
+
+The entitlement calculations refer to historical participation under MOF's rules; this page does not recast them as an unconditional allocation.
 
 ## Comparison with US Primary Dealer System
 
-The US primary dealer system, administered by the Federal Reserve Bank of New York, has structural similarities and differences:
-
-| Aspect | US Primary Dealers | JGB Special Participants |
-|---|---|---|
-| Administrator | Federal Reserve Bank of New York | Ministry of Finance (Japan) |
-| Number of firms | ~24 firms (varies); list maintained by NY Fed | ~20 firms; list maintained by MoF |
-| Membership composition | US bank-affiliated dealers + non-bank dealers + foreign-bank US subsidiaries | Japanese securities firms + foreign investment-bank subsidiaries |
-| Auction obligations | Bid at each US Treasury auction; meaningful share | Bid at each JGB auction; meaningful share |
-| Secondary market obligations | Reasonable market activity; reporting | Two-sided quotes; reporting |
-| Special access | TOMO (Temporary Open Market Operations) counterparty; SOMA portfolio operations counterparty | Non-Price Competitive Auction I and II; MoF buyback participation |
-| Bid award mechanism | Competitive (uniform price for Treasuries since 1992) | Multi-price competitive + Non-Price I and II |
-| Regulator interaction | Fed (NY Fed) operationally; OCC, SEC, banking regulators substantively | MoF operationally; FSA prudentially; BoJ for monetary operations |
-| Foreign-firm participation | Yes (extensive) | Yes (extensive) |
-
-Key structural difference: the US Treasury runs uniform-price auctions (since 1992), so all winning bidders pay the same (highest accepted) yield; Japan continues to use multi-price (conventional) auctions in most JGB tenors, so winning bidders pay their own bid yields. This makes the Non-Price I and II mechanism in Japan particularly valuable because it offers Special Participants access at the weighted-average price.
+The New York Fed's “primary dealer” designation belongs to a different legal and operational framework. A valid comparison must align the date, administrator, auction role, central-bank-counterparty role, reporting duties, and securities scope. It should not import US obligations into the MOF terms; the Japan-side facts on this page come only from MOF's published framework.
 
 ## Comparison with UK GEMM System
 
-The UK has Gilt-Edged Market Makers (GEMMs) recognized by the UK Debt Management Office (DMO):
-
-| Aspect | UK GEMMs | JGB Special Participants |
-|---|---|---|
-| Administrator | UK Debt Management Office (DMO) | Ministry of Finance (Japan) |
-| Number of firms | Around 15-20 GEMMs | ~20 Special Participants |
-| Bid obligation at auction | Required | Required |
-| Secondary market obligation | Two-sided quotes | Two-sided quotes |
-| Inflation-linked recognition | Separate Index-Linked GEMM (IL-GEMM) recognition for index-linked gilts | Single tier; JGBi auctions are open to same list of Special Participants |
-| Tiering | Some operational differentiation | Single recognized list |
-| Strip and switch auction access | Standard | Standard |
-
-The UK has historically separated inflation-linked GEMM recognition into a sub-tier; Japan has not adopted that segmentation for JGBi.
+The UK GEMM framework is likewise separate. Counts, subcategories, quoting duties, and auction access change and require current UK DMO sources. No UK detail is used to infer a Japanese obligation or entitlement here.
 
 ## Why the System Matters
 
 The Special Participants system is critical to:
 
-1. **JGB auction success**: A reliable, capitalized counterparty base assures MoF that auctions will clear at orderly prices, reducing the risk of failed auctions.
-2. **Secondary market liquidity**: Two-sided quoting obligations support a continuous JGB market that broader institutional investors and BoJ can access.
-3. **Information flow to MoF**: Regular dialogue allows MoF to calibrate issuance plans based on market feedback.
-4. **Dealer franchise economics**: Special Participant status is a meaningful franchise asset for securities firms; non-Special Participants face structural disadvantages in JGB market making.
-5. **Foreign-firm integration**: Open membership to foreign-firm Japan subsidiaries integrates global investment banks into the JGB market and supports cross-border JGB investor activity.
+1. **Auction-policy rationale**: The framework is designed to support stable issuance and dialogue; it does not guarantee an auction result or price.
+2. **Secondary market liquidity**: MOF requires sufficient liquidity and evaluates the activity described in its terms.
+3. **Information flow to MoF**: The terms require information provision and provide for meetings; how MOF uses feedback remains a policy decision.
+4. **Conditional auction access**: Status can provide access to the enumerated non-price and debt-management operations under their detailed conditions.
+5. **Published accountability**: MOF publishes the participant list and terms, allowing designation status to be checked at a stated date.
 
 ## Related
 

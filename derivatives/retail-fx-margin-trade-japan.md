@@ -12,207 +12,205 @@ aliases:
   - "derivatives/non-deliverable-forward-jpy-asia"
 domain: derivatives
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
 confidence: likely
 tags: [derivatives, fx, retail, regulation, FFAJ, JFSA]
 status: active
 sources:
-  - "https://www.fsa.go.jp/en/"
-  - "https://www.ffaj.or.jp/"
-  - "https://www.boj.or.jp/en/statistics/bis/yoshi/index.htm"
-  - "https://www.fsa.go.jp/en/news/index.html"
+  - "https://www.fsa.go.jp/ordinary/iwagai/"
+  - "https://www.fsa.go.jp/news/21/syouken/20090731-6.html"
+  - "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.pdf"
+  - "https://www.ffaj.or.jp/library/performance/fx_flash/"
+  - "https://www.ffaj.or.jp/members/document/"
+  - "https://www.ffaj.or.jp/regulation/corporate-customers/"
+  - "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1521.htm"
+  - "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1522.htm"
 ---
 
 # Retail FX margin trading in Japan
 
 ## TL;DR
 
-Japan's retail FX margin trading market (FX 証拠金取引) is among the largest in the world by turnover. It is structured as a regulated retail brokerage product offered by licensed Type 1 Financial Instruments Business operators under FIEA, with strict conduct rules from the Financial Services Agency (JFSA) and self-regulatory oversight from the Financial Futures Association of Japan (FFAJ). Individual accounts are capped at ~25x leverage; corporate (法人) accounts can go higher under different limits. Top brokers include [[securities-firms/gmo-click-securities|GMO Click Securities]], [[securities-firms/sbi-fx-trade|SBI FX Trade]], [[securities-firms/dmm-com-securities|DMM.com Securities]], [[securities-firms/matsui-sec|Matsui Securities (Matsui FX)]], OANDA Japan, and [[securities-firms/saxo-bank-securities|Saxo Bank Securities]]. Client funds must be segregated from broker accounts (信託保全).
+Japan's retail FX margin trading market (FX 証拠金取引) is a regulated leveraged-derivatives market. A business offering FX transactions to residents of Japan must hold Financial Instruments Business registration; an overseas license alone is not sufficient. Individual OTC accounts require at least 4% margin, equivalent to leverage no greater than 25 times. Corporate OTC margin is calculated by currency pair from historical price movements rather than by a single universal leverage cap. The FSA warns that losses can exceed deposited margin even when a provider applies its loss-cut rule. ^[Source: https://www.fsa.go.jp/ordinary/iwagai/.]
 
 This entry sits in the [[derivatives/INDEX|derivatives index]] as the retail-FX surface, distinct from the wholesale corporate FX covered by [[derivatives/corporate-fx-hedge-policy-japan-listed|corporate FX hedge policy at Japan listed companies]] and [[derivatives/fx-options-japan-corporate-treasury|FX options for Japan corporate treasury]].
 
 ## Wiki route
 
-This page is the retail-FX brokerage entry in the [[derivatives/INDEX|derivatives index]]. Read it against [[derivatives/fx-stp-broker-aggregation|FX STP and broker liquidity aggregation]] for the back-end liquidity-routing view, [[derivatives/fx-options-japan-corporate-treasury|FX options for Japan corporate treasury]] for the wholesale counterpart, and [[money-market/japan-money-market|Japan money market]] for the rate-environment backdrop that drives carry-trade flows.
+This page is the retail-FX brokerage entry in the [[derivatives/INDEX|derivatives index]]. Read it against [[derivatives/fx-stp-broker-aggregation|FX STP and broker liquidity aggregation]] for the back-end liquidity-routing view, [[derivatives/fx-options-japan-corporate-treasury|FX options for Japan corporate treasury]] for the wholesale counterpart, and [[money-market/japan-money-market|Japan money market]] for rate-environment context relevant to financing and swap points.
 
 ## Market size
 
-Japan retail FX is consistently one of the highest-turnover retail derivatives markets globally. FFAJ publishes monthly turnover data for member firms. Headline characteristics:
+FFAJ publishes a monthly bulletin for OTC retail FX handled by reporting members. The June 2026 bulletin, updated on July 14, 2026, provides the following dated snapshot. ^[Source: https://www.ffaj.or.jp/library/performance/fx_flash/.]
 
-- Notional monthly turnover frequently in the range of several hundred trillion yen across the member-firm population.
-- Open-position aggregate measured in trillions of yen.
-- Number of active accounts in the millions; concentrated at the top 5-6 brokers.
-- USD/JPY is by far the dominant pair, followed by EUR/JPY, GBP/JPY, AUD/JPY, and ZAR/JPY (the latter driven by retail carry-trade demand for high-coupon emerging-market currencies).
-
-The Japan retail FX phenomenon is sometimes referred to in international press as "Mrs. Watanabe" carry trades, reflecting the historical pattern of Japanese household investors using FX margin to express yield-pickup views during the long zero-rate era. The pattern is much less reductionist than that label suggests: the actual flow is dominated by active day-trading and scalping populations alongside slower carry-trade positions.
-
-### Composition of customer activity
-
-Industry observers typically classify Japan retail FX customer behavior into rough segments:
-
-| Segment | Behavior | Typical share |
+| Reported field | June 2026 snapshot | Interpretation boundary |
 |---|---|---|
-| Day-traders / scalpers | High-frequency intraday positions, typically held minutes to hours. | Large share of trade-count; smaller share of open-position notional. |
-| Swing traders | 1-5 day positions; technical-driven or news-driven. | Moderate share. |
-| Carry-trade investors | Long-tenor positions in high-yield crosses (ZAR/JPY, MXN/JPY, TRY/JPY historically). | Smaller share of trade-count; larger share of open-position notional. |
-| Automated / algorithmic | EA-driven (MetaTrader / cTrader) systematic strategies. | Growing share of trade volume. |
-| Hedging-equivalent (corporate proxy) | 法人 accounts using retail-style FX for small hedges. | Small but stable share; mostly SME corporates. |
+| OTC retail FX handling members / reporting members | 46 / 46 | Member-firm reporting population as of June 30, 2026 |
+| Monthly trading volume | ¥667.5552 trillion (`6,675,552` hundred million yen) | Reported turnover, not customer assets or revenue |
+| Month-end open positions | ¥11.1265 trillion (`111,265` hundred million yen) | Aggregate reported open positions as of June 30, 2026 |
+| Short / long open positions | ¥6.2929 trillion / ¥4.8336 trillion (`62,929` / `48,336` hundred million yen) | Components of the reported month-end total |
 
-The categorization is not exclusive and customers often shift across segments. FFAJ statistics distinguish individual vs corporate accounts but do not publish trading-strategy breakdowns.
+### Statistical scope and interpretation
+
+The FFAJ bulletin also links data files for trading volume by currency pair, major-currency open positions and deposit information. Any currency-pair ranking should identify the extracted file and month rather than be presented as a timeless market fact.
+
+The snapshot establishes member-reported turnover and positions. It does not by itself establish a global market ranking, active-customer count, provider market share or the shares of day-trading, carry, automated and hedging strategies. "Mrs. Watanabe" is therefore a media label, not an FFAJ customer taxonomy.
 
 ## Leverage cap
 
-A defining structural rule. JFSA-regulated retail FX leverage has been progressively tightened:
+A central structural rule is the minimum margin required for individual OTC FX:
 
-| Year | Individual-account leverage cap |
-|---|---|
-| Pre-2010 | Up to 200-400x at some brokers, effectively unregulated. |
-| 2010 (Aug) | Capped at 50x. |
-| 2011 (Aug) | Capped at 25x. |
-| Current | 25x cap for individuals, with discussion of further reductions periodically. |
+The following table's historical and current individual thresholds follow FSA materials; the current legal statement is a minimum 4% margin, equivalent to leverage no greater than 25 times. ^[Sources: https://www.fsa.go.jp/ordinary/iwagai/; https://www.fsa.go.jp/news/21/syouken/20090731-6.html.]
 
-The 25x cap means an individual customer can hold a USD/JPY position up to 25 times their margin deposit. Above that threshold, position must be reduced or additional margin posted. Brokers run automated loss-cut systems (ロスカット) that close positions when margin-utilization ratio (証拠金維持率) breaches threshold (typically 100% or 50%, broker-specific).
+| Effective period | Individual-account minimum margin | Implied maximum leverage |
+|---|---|---|
+| Before August 1, 2010 | The cited 2009 rule had not yet taken effect | Not established by the cited rule |
+| August 1, 2010-July 31, 2011 | At least 2% under the transitional measure | At most 50x |
+| From August 1, 2011 | At least 4% | At most 25x |
+| Current FSA page | At least 4%, regardless of currency pair | At most 25x; provider terms may be stricter |
 
-For corporate (法人) accounts, leverage is permitted to be higher and is set by each broker subject to FFAJ self-regulatory guidance, with periodic JFSA reviews. The cap is dynamically adjusted based on historical volatility of each currency pair (高 volatility → lower cap).
+The 4% minimum-margin rule is equivalent to a maximum legal leverage of 25 times for an individual account. A provider may impose more conservative requirements. Each provider must establish a loss-cut rule; its agreed trigger and operation should be checked in the current pre-contract documents. The FSA page does not prescribe a universal 100% or 50% trigger.
+
+For corporate (法人) accounts, FSA requires at least the currency-pair-specific margin amount calculated from historical market prices. The resulting maximum leverage varies by currency pair and recalculation period; it is not a single broker-selected cap.
 
 ### Loss-cut mechanism
 
-The automated loss-cut (ロスカット) system is a structural feature of every Japan retail FX broker:
+FSA requires each FX dealer to establish a loss-cut rule, but does not prescribe the universal 100% / 50% thresholds previously shown here. ^[Source: https://www.fsa.go.jp/ordinary/iwagai/.]
 
-| Phase | Margin maintenance ratio | Broker action |
+| Phase | Regulatory position | Broker action |
 |---|---|---|
-| Normal | >100% | No action; trader holds position. |
-| Margin call | 100% | Some brokers send notification; trader must add margin or close. |
-| Loss-cut trigger | ~50% (broker-specific, common threshold) | Automatic forced-close of position. |
+| Before trigger | Threshold is defined in the broker's pre-contract documents | Broker monitors valuation loss and required margin |
+| Loss-cut trigger | Broker-specific agreed level | Broker forcibly closes the position under its rule |
+| Gap / illiquid market | Execution may occur beyond the trigger price | Realized loss can exceed deposited margin |
 
-The system protects both the customer (limits maximum loss to ~50% of margin) and the broker (limits residual exposure to client default). It can backfire during gap moves: if FX gaps through the loss-cut level (as in January 2019 JPY flash crash), the realized close price can be substantially worse than the trigger threshold, sometimes wiping out more than the deposited margin. Brokers vary in their treatment of negative-balance situations; some have voluntary negative-balance protection policies, others do not.
+The rule is intended to limit further loss, but it does not guarantee a maximum loss. FSA explicitly warns that rapid market moves can produce losses greater than the deposited margin even when the loss-cut rule is applied.
 
-## Top brokers
+## Registered-provider examples
 
-Approximate FFAJ-member ranking (varies month-to-month and by metric used):
+The following entities appeared in FFAJ's OTC FX provider list dated June 1, 2026. The table is a registration cross-check, not a market-share or quality ranking. ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.pdf; https://www.ffaj.or.jp/members/document/.]
 
-| Broker | Parent | Notable |
+| Provider | Registration number shown by FFAJ | Check before use |
 |---|---|---|
-| [[securities-firms/gmo-click-securities|GMO Click Securities]] | GMO Internet Group | Long-running market-share leader in trading volume; proprietary trading platform. |
-| [[securities-firms/sbi-fx-trade|SBI FX Trade]] | SBI Holdings | Aggressive spread pricing; full SBI-group cross-sell. |
-| [[securities-firms/dmm-com-securities|DMM.com Securities (DMM FX)]] | DMM.com Group | Heavy retail-marketing; large account base. |
-| [[securities-firms/matsui-sec|Matsui Securities (Matsui FX)]] | Matsui Securities | Online-securities pioneer; FX is one of several product lines. |
-| OANDA Japan | OANDA Corp (foreign-affiliated) | Global brand; tight spreads; STP routing emphasis. |
-| [[securities-firms/saxo-bank-securities|Saxo Bank Securities]] | Saxo Bank (foreign-affiliated) | Multi-asset platform; institutional-grade tools for retail. |
+| [[securities-firms/gmo-click-securities|GMO Click Securities]] | Kanto Local Finance Bureau (Financial Instruments) No. 77 | Current legal entity, registration, product documents and service availability |
+| [[securities-firms/sbi-fx-trade|SBI FX Trade]] | Kanto Local Finance Bureau (Financial Instruments) No. 2635 | Current legal entity, registration, product documents and service availability |
+| [[securities-firms/dmm-com-securities|DMM.com Securities]] | Kanto Local Finance Bureau (Financial Instruments) No. 1629 | Current legal entity, registration, product documents and service availability |
+| [[securities-firms/matsui-sec|Matsui Securities]] | Kanto Local Finance Bureau (Financial Instruments) No. 164 | Current legal entity, registration, product documents and service availability |
+| OANDA Securities | Kanto Local Finance Bureau (Financial Instruments) No. 2137 | Current legal entity, registration, product documents and service availability |
+| [[securities-firms/saxo-bank-securities|Saxo Bank Securities]] | Kanto Local Finance Bureau (Financial Instruments) No. 239 | Current legal entity, registration, product documents and service availability |
 
-Other meaningful players include Hirose-tusyo (LION FX), Gaitame.com, Money Partners, External Securities, Rakuten Securities, and Monex. The market is consolidated at the top but the long tail of mid-sized brokers remains meaningful.
+The list is not exhaustive. Inclusion does not establish relative scale, pricing quality, execution quality or suitability.
 
-### Competitive levers
+### Provider-term comparison checklist
 
-Brokers compete on a defined set of customer-facing attributes:
+Provider terms change over time. A dated comparison should inspect:
 
-- **Spread tightness**: USD/JPY spread is the most-watched metric, with leading brokers regularly offering 0.2-0.3 pip headline spreads during liquid hours.
-- **Swap-point favorability**: overnight financing on carry-trade currency pairs (ZAR/JPY, MXN/JPY) matters for slower-rolling positions.
-- **Platform usability**: proprietary platforms (e.g., GMO Click's Hyper Speed Next, DMM FX's DMM FX Plus) vs MetaTrader 4/5.
-- **Execution speed and reject rate**: matters for automated strategies and scalpers.
-- **Mobile app quality**: increasingly the dominant distribution surface for new account openings.
-- **Cashback / point-incentive programs**: many brokers offer trading-volume rebates or affiliate point credits.
-- **Customer service in Japanese**: a distinguishing feature vs offshore brokers; Japan-domestic brokers offer phone / chat support in Japanese during Tokyo business hours.
+- **Spread conditions**: advertised and actual spreads, applicable hours and exception conditions in current documents.
+- **Swap points**: current receipts, payments and calendar treatment for the exact currency pair.
+- **Platform and orders**: supported order types, minimum trade size and system requirements.
+- **Execution**: execution policy, slippage handling, rejection handling and disclosed risk information.
+- **System availability**: maintenance windows, incident disclosures and fallback channels.
+- **Fees and incentives**: current fee schedule, campaign period, eligibility and exclusions.
+- **Support**: current service hours, channels and supported languages.
 
 ## Regulation
 
-Retail FX is regulated under the Financial Instruments and Exchange Act (FIEA, 金融商品取引法). Operators must hold a Type 1 Financial Instruments Business license from the JFSA. Key statutory features:
+FX transactions are derivatives under the Financial Instruments and Exchange Act (FIEA, 金融商品取引法). A business offering them to residents of Japan needs Financial Instruments Business registration. The main FSA investor-protection boundaries are:
 
-| Requirement | Detail |
+The table summarizes FSA's investor-protection rules and registered-business boundary. ^[Sources: https://www.fsa.go.jp/ordinary/iwagai/; https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.pdf.]
+
+| Requirement | Evidence-bounded position |
 |---|---|
-| License | Type 1 Financial Instruments Business under FIEA. |
-| Capital | Minimum statutory capital and net-asset requirements. |
-| Conduct | Strict suitability, disclosure, and prohibited-conduct rules (no recommendation of unsuitable products, full risk disclosure). |
-| Margin segregation | Client deposits must be held in trust (信託保全) at a separate trust bank, isolated from broker assets. |
-| Reporting | Daily / monthly position and turnover reporting to FFAJ and JFSA. |
-| Self-regulation | FFAJ membership effectively required; FFAJ publishes self-regulatory rules and disciplinary actions. |
-| Advertising | Restrictions on misleading advertising and exaggerated profit claims. |
+| Registration | Financial Instruments Business registration is required; an overseas license alone is insufficient for offering the business to Japan residents. |
+| Provider disclosure | Registered firms disclose business and financial explanatory materials; OTC FX firms also publish specified risk information. |
+| Margin | Individuals maintain at least 4%; corporate OTC FX uses a currency-pair-specific historical-price calculation. |
+| Loss-cut | Each provider defines a rule and agreed trigger; a loss beyond deposited margin remains possible. |
+| Client money | Customer assets must be clearly separated from provider assets through a money trust at a trust bank or equivalent arrangement. |
+| Solicitation | The FSA lists prohibited solicitation practices, including specified unsolicited and repeated solicitation. |
+| Self-regulatory route | FFAJ is the self-regulatory organization for participating firms; current membership and dispute routes must be checked directly. |
 
-In the event of broker bankruptcy, segregated client funds at the trust bank are returned to clients; this protection is one of the structural features that distinguishes the regulated Japan market from off-shore unregulated FX venues.
+Trust segregation is intended to protect customer assets if a provider fails. The actual return process and amount remain subject to the trust arrangement, account records and applicable insolvency process; segregation is not a guarantee against trading losses.
 
 ## Segregated client funds (信託保全)
 
-The 信託保全 framework requires retail FX brokers to deposit client margin funds with a designated trust bank at least once per business day (typically end of day). The trust agreement defines how funds are returned to clients in the event of broker insolvency. The mechanism was tightened after several broker failures in the late 2000s and early 2010s to ensure 100% segregation of client funds. The trust banks involved are typically large established names like Mitsubishi UFJ Trust, Sumitomo Mitsui Trust, and Resona; the segregation arrangement is normally disclosed in the broker's terms-of-service.
+The FSA states that providers must manage customer assets separately from their own assets through a money trust at a trust bank or equivalent arrangement. The cited FSA page does not specify a universal valuation cadence, deposit cut-off, trustee or recovery timetable. Those operational details must be taken from the provider's current trust, account and pre-contract documents. ^[Source: https://www.fsa.go.jp/ordinary/iwagai/.]
 
-Failure to maintain proper segregation is a serious supervisory issue and has triggered JFSA business-improvement orders and revocations in past cases.
+Any claim about a segregation breach or enforcement outcome should be tied to a dated FSA order for the exact legal entity rather than inferred from an industry anecdote.
 
-### Historical broker failure cases
+### Enforcement and withdrawal evidence boundary
 
-Japan retail FX has had several broker failure / withdrawal episodes:
+A provider-failure, withdrawal or customer-transfer case requires three separate evidence checks:
 
-- Multiple smaller brokers exited or were absorbed during the 2010-2012 period as the 50x → 25x leverage cap reduced revenue capacity.
-- One-off cases of operational failure (system outages, withdrawal-processing delays) triggered JFSA business-improvement orders.
-- Foreign-affiliated brokers periodically exit the Japan market when the regulatory cost-benefit no longer justifies a Type 1 license; remaining Japan customers are typically transferred to a successor licensed broker.
+- **Regulatory record**: exact entity, date, legal basis and disposition in an FSA or local-finance-bureau notice.
+- **Service transition**: transfer, termination and withdrawal mechanics in dated provider and successor notices.
+- **Customer-asset treatment**: applicable trust agreement, account records and insolvency or administration process.
 
-The pattern reinforces the practical importance of 信託保全 segregation: customers of failed brokers have generally recovered their margin deposits via the trust mechanism, even when the broker itself ceased operations.
+Without those case records, this page does not assign a failure cause, recovery rate or customer-transfer outcome.
 
 ## Individual vs corporate leverage difference
 
-A retail FX broker offers two distinct account types:
+The FSA distinguishes the margin rules for individuals and corporations:
+
+The individual and corporate rows use the FSA's current margin rules; neither row guarantees that a broker will offer the maximum legally possible leverage. ^[Source: https://www.fsa.go.jp/ordinary/iwagai/.]
 
 | Account type | Leverage cap | Notes |
 |---|---|---|
-| Individual (個人口座) | 25x max, fixed by JFSA. | Same across all brokers; not negotiable. |
-| Corporate (法人口座) | Variable, set by broker subject to FFAJ guidelines and weekly volatility-based recalculation. | Can exceed 25x for low-volatility pairs; reduced for high-volatility / EM pairs. |
+| Individual (個人口座) | At most 25x under the 4% minimum-margin rule | Broker terms can be more conservative |
+| Corporate (法人口座) | Variable by currency pair under the historical-price-based minimum-margin calculation | Actual leverage depends on the current required margin and broker terms |
 
-The corporate-account opening process requires KYC of the corporate entity, beneficial-owner identification, and review of business purpose. Small / mid-cap Japan corporates sometimes use 法人 FX accounts as a lighter-weight alternative to bank FX forwards for small hedging needs; this is distinct from the larger-scale corporate hedging covered in [[derivatives/corporate-fx-hedge-policy-japan-listed|corporate FX hedge policy at Japan listed companies]].
+Corporate-account availability, onboarding documents and permitted use are provider-specific. The existence of a corporate account does not establish the customer's hedging purpose or make it equivalent to a bank forward. Company-level hedging analysis still requires company disclosures and the framework in [[derivatives/corporate-fx-hedge-policy-japan-listed|corporate FX hedge policy at Japan listed companies]].
 
 ## Product taxonomy
 
-Beyond simple spot-FX-margin trading, Japan retail FX brokers offer a wider product set:
+Provider catalogues may include products beyond OTC FX margin trading, but product rules, registrations and legal entities can differ:
 
-| Product | Description | Typical broker offering |
+Product availability and legal entity vary by provider; the table is a taxonomy, not a claim that one FX registration covers every product. ^[Sources: https://www.fsa.go.jp/ordinary/iwagai/; https://www.fsa.go.jp/policy/virtual_currency02/index.html.]
+
+| Product | Description | Verification boundary |
 |---|---|---|
-| Spot FX margin | Day-trading / swing-trading in major and cross pairs | Universal; the core product. |
-| Mini / micro lots | Smaller notional ticks (1,000-unit lots vs 10,000-unit standard) | Most brokers offer; appeals to retail users testing smaller position sizes. |
-| Automated / system trade | Pre-built EAs / strategy marketplaces | MetaTrader-based brokers (Hirose, OANDA Japan); proprietary equivalents at GMO Click etc. |
-| CFD on indices / commodities | Stock-index CFDs (Nikkei 225 CFD, S&P 500 CFD), oil, gold | Most brokers offer; FFAJ separate stats. |
-| Binary options | Fixed-payout on direction within timeframe | Tightly restricted by JFSA since 2013; only a few licensed providers, with strict time / payout limits. |
-| Crypto-related | BTC/JPY trading | Separate regulatory regime (Payment Services Act); typically separate licensed entity. |
+| OTC FX margin | Leveraged bilateral FX derivative between customer and provider | Confirm provider registration, pre-contract documents and available currency pairs |
+| Mini / micro trade size | A smaller provider-defined contract or order size | Confirm current minimum size and increments; no universal lot size is implied |
+| Automated / system trade | Order or strategy functionality delivered through a platform | Confirm supported functions, execution policy, fees and operational risks |
+| Index / commodity CFD | A non-FX derivative linked to an index or commodity | Confirm the separate product documents, margin rule and registered entity |
+| OTC binary option | A separate fixed-payout derivative category | Confirm the current registered-provider list and applicable rules |
+| Crypto-asset service | Trading or intermediation involving crypto-assets | Confirm the separate regulatory perimeter, registration and legal entity |
 
-The product mix at each broker reflects strategic positioning: some focus exclusively on FX (e.g., DMM FX); others run multi-product platforms (e.g., SBI, GMO Click).
+The taxonomy does not establish that any named FX provider offers every row, or that one registration covers every product.
 
-## Spread economics
+## Spread and fee evidence boundary
 
-The retail FX broker spread is the principal revenue source. Stylized economics:
-
-| Component | Per-trade impact |
-|---|---|
-| Customer-facing spread (USD/JPY) | 0.2-0.5 pips typically advertised; can widen during volatile periods. |
-| Internalization revenue (B-book) | Spread captured net of customer P&L over horizon; positive on average for retail flow. |
-| STP markup (A-book) | Markup typically 0.1-0.3 pips above wholesale price; revenue per trade lower than B-book but lower risk. |
-| Overnight swap-point spread | Spread between long and short swap on overnight positions; relevant for carry traders. |
-| Inactivity / withdrawal fees | Minor; some brokers charge; competitive pressure has eroded these. |
-
-Industry profit pools are concentrated at the top brokers (GMO Click, SBI, DMM) which combine large volume with proprietary cost-efficient infrastructure.
+The FSA retail-risk page does not establish a broker's internalisation model, STP markup, fee mix or profitability. Those fields must be taken from the provider's current pre-contract document, fee schedule, execution policy and financial disclosure. This page therefore does not present a generic B-book / A-book revenue table or unsupported pip and fee ranges.
 
 ## Comparison with overseas retail FX regimes
 
 Japan's regulatory model differs in meaningful ways from other major retail FX jurisdictions:
 
-| Jurisdiction | Individual leverage cap | Margin segregation | Notes |
-|---|---|---|---|
-| Japan | 25x | Mandatory 100% trust segregation (信託保全) | Among the strictest globally. |
-| US (NFA / CFTC) | 50x majors, 20x minors | Mandatory segregation | Strict but slightly higher leverage than Japan. |
-| EU (ESMA) | 30x majors, 20x minors, lower for exotics / commodities | Mandatory segregation | Tightened in 2018 ESMA intervention. |
-| UK (FCA) | 30x majors (post-Brexit aligned) | Mandatory segregation | Mirrors ESMA post-Brexit. |
-| Australia (ASIC) | 30x majors (since 2021) | Mandatory segregation | Tightened in 2021. |
-| Many offshore (e.g., Saint Vincent, Marshall Islands) | 500x+ common | Often not mandated | Effectively unregulated; not lawful destinations for Japan residents. |
+The comparison table is limited to leverage requirements stated by the cited regulators. Product definitions, client-money rules, negative-balance protection and eligibility differ by jurisdiction and must be checked separately; no cross-border legality conclusion follows from this table. ^[Sources: https://www.fsa.go.jp/ordinary/iwagai/; https://www.cftc.gov/PressRoom/PressReleases/8566-22; https://www.esma.europa.eu/press-news/esma-news/esma-adopts-final-product-intervention-measures-cfds-and-binary-options; https://www.fca.org.uk/publications/policy-statements/ps19-18-restricting-contract-difference-products; https://asic.gov.au/about-asic/news-centre/find-a-media-release/2020-releases/20-254mr-asic-product-intervention-order-strengthens-cfd-protections/.]
 
-The pattern is that major OECD jurisdictions have converged toward strict leverage caps and segregation rules over the past decade; Japan was an early mover on the 25x cap and remains among the most restrictive.
+| Jurisdiction / product scope | Retail leverage limit in cited rule |
+|---|---|
+| Japan retail OTC FX margin | At most 25x under the 4% minimum-margin rule |
+| US retail off-exchange forex | Security deposit of 2% for major currencies and 5% for other currencies, equivalent to 50x and 20x respectively |
+| EU retail CFDs | 30:1 for major currency pairs, with lower limits for other underlyings |
+| UK retail CFDs and CFD-like options | 30:1 to 2:1 according to underlying volatility |
+| Australia retail CFDs | 30:1 for major currency pairs, with lower limits for other underlyings |
 
-## Educational and tax framework
+The cited regimes all constrain retail leverage, but their legal product perimeter and customer-protection architecture are not interchangeable.
 
-A few additional structural features shape Japan retail FX participation:
+## Tax evidence boundary
 
-- **Tax treatment**: profits from regulated retail FX are taxed at a flat 20.315% (national + local + reconstruction tax) under the separated declaration tax regime, similar to other financial derivatives. Losses can be carried forward up to three years against future derivative gains.
-- **Loss-aggregation with futures / options**: retail FX losses can be aggregated with profits from index futures, single-stock options, and certain other derivatives for tax purposes.
-- **Broker-issued tax statements**: brokers issue annual transaction statements (取引報告書 / 損益計算書) suitable for personal tax filing.
-- **Educational disclaimers**: brokers must provide pre-account-opening risk-disclosure documents (契約締結前交付書面) covering leverage risk, loss-cut mechanism, and market-risk scenarios.
+The National Tax Agency pages cited below describe the treatment of qualifying FX settlements and "miscellaneous income, etc. from futures transactions" under law current as of April 1, 2025. ^[Sources: https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1521.htm; https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1522.htm.]
 
-These features make regulated Japan retail FX more administratively friendly than offshore equivalents and contribute to the population of active participants.
+| Feature | NTA statement | Scope guardrail |
+|---|---|---|
+| Applicable FX settlements | For FX settlements conducted on or after January 1, 2012, qualifying gains and losses enter the separated-tax framework described by the NTA | The exact transaction and taxpayer must satisfy the statutory scope |
+| Stated rates | Income tax 15% plus local tax 5%; for filings from 2013 through 2037, reconstruction special income tax is generally 2.1% of the base income-tax amount | Do not apply a single effective-rate label without checking the taxpayer and filing year |
+| Loss offset | A loss can be offset against other eligible "miscellaneous income, etc. from futures transactions" | It cannot be offset against income outside that category merely because it is investment income |
+| Loss carryforward | A remaining eligible loss may be carried forward for each of the following 3 years, subject to conditions | Filing and continuity requirements must be satisfied |
+| OTC counterparty boundary | For OTC derivatives from October 1, 2016, transactions with a counterparty other than a Type 1 Financial Instruments Business operator or registered financial institution fall outside the separated treatment described on the FX page | Verify the exact legal entity and current tax law |
+
+Tax and filing consequences depend on the taxpayer, transaction and current law. This page is not tax advice.
 
 ## Related
 
@@ -233,7 +231,11 @@ These features make regulated Japan retail FX more administratively friendly tha
 
 ## Sources
 
-- Financial Services Agency (JFSA): FIEA Type 1 Financial Instruments Business registration and supervision pages.
-- Financial Futures Association of Japan (FFAJ): self-regulatory rules and monthly retail FX turnover statistics.
-- Bank of Japan: BIS Triennial FX survey, Japan section.
-- JFSA news releases: enforcement and business-improvement-order announcements.
+- Financial Services Agency: retail FX risks and investor-protection rules — https://www.fsa.go.jp/ordinary/iwagai/
+- Financial Services Agency: 2009 margin-rule publication and transitional measure — https://www.fsa.go.jp/news/21/syouken/20090731-6.html
+- Financial Services Agency: current Financial Instruments Business registry — https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.pdf
+- Financial Futures Association of Japan: monthly OTC retail FX bulletin — https://www.ffaj.or.jp/library/performance/fx_flash/
+- Financial Futures Association of Japan: registered OTC FX provider list — https://www.ffaj.or.jp/members/document/
+- Financial Futures Association of Japan: corporate OTC FX margin regulation — https://www.ffaj.or.jp/regulation/corporate-customers/
+- National Tax Agency: FX taxation — https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1521.htm
+- National Tax Agency: special treatment for miscellaneous income from futures transactions — https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1522.htm

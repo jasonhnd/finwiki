@@ -1,185 +1,115 @@
 ---
 source: structured-finance/japan-consumer-loan-abs-structure
-source_hash: 8c3e13aa5bc363f3
+source_hash: c3953fb990c4d1e3
 lang: en
 status: machine
 fidelity: ok
-title: "Japan consumer-loan ABS structure — dynamic-pool, interest-rate ceiling, early-amortization"
-translated_at: 2026-06-01T04:15:40.169Z
+title: "Japan consumer-loan ABS structure — evidence-bound reading"
+translated_at: 2026-07-29T10:06:23.508Z
 ---
-# Japan consumer-loan ABS structure — dynamic-pool, interest-rate ceiling, early-amortization
+
+# Japan consumer-loan ABS structure — evidence-bound reading
 
 ## TL;DR
 
-Japan consumer-loan ABS — issued in modest annual volumes (~JPY 300–600 bn) by the surviving consumer-finance and shopping-credit originators ([[consumer-finance/acom|Acom]] under MUFG, [[consumer-finance/aiful|Aiful]], [[consumer-finance/smbc-consumer-finance|SMBC Consumer Finance]], [[card-issuers/aplus|Aplus]] under SBI / others, [[card-issuers/orico|Orient Corp]] under Mizuho-Itochu, [[card-issuers/jaccs|JACCS]]) — uses **dynamic-pool revolving structures with hard early-amortization triggers** because pool receivables are short-tenor (1–4 years) and continuously replenished. The asset class lives under the **interest-rate ceiling regime of the Interest Rate Restriction Act** capping APRs at 15–20% by loan size, with **the Moneylending Business Act 2006 revision** having permanently restructured the industry — every surviving issuer rebuilt its underwriting and pool composition after the post-2006 overpayment-refund wave. Senior tranches are typically AAA with subordination of 15–25% (much deeper than auto-loan ABS at 6–12%, reflecting unsecured-pool default volatility). The **early-amortization trigger** is the bondholder's main protection: when cumulative net charge-off or 90+ day delinquency exceeds a threshold, the deal flips from revolving to amortising mode and senior bondholders get all incoming cash. Rated primarily by [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR and R&I]]; rarely co-rated by global agencies because foreign demand for unsecured-Japanese-consumer-credit ABS is thin.
+The Interest Rate Restriction Act supplies statutory maximum rates by principal band, but it does not supply a securitized pool's APR, default rate, trigger level, retention, payoff period or investor base. No stable public deal document was located that supports the previous “five survivors,” annual default ranges, illustrative early-amortization thresholds, 5–10% retention or fixed buyer categories. Those claims are removed. Reconstruct a consumer-loan ABS only from the named pool and transaction documents.
 
 ## Wiki route
 
-This entry sits under [[structured-finance/INDEX|structured-finance index]] as the **dynamic-pool consumer-loan operating-mechanics** node. Read against [[structured-finance/consumer-loan-abs-japan-card-issuer|consumer-loan / card-receivable ABS Japan]] for the broader issuer landscape, [[structured-finance/japan-credit-card-receivable-abs|Japan credit-card receivable ABS]] for the revolving-card contrast (different product, similar mechanics), [[structured-finance/japan-auto-loan-abs-waterfall-mechanics|Japan auto-loan ABS waterfall mechanics]] for the secured-pool contrast, and [[structured-finance/jcr-ri-japan-securitization-rating-methodology-operating-playbook|JCR / R&I securitization rating methodology operating playbook]] for the methodology layer. Regulatory anchor: the [[banking/INDEX|banking domain]] for the Moneylending Business Act context, and [[finance/INDEX|finance index]] for the consumer-finance industry economics.
+Use this page with [[structured-finance/consumer-loan-abs-japan-card-issuer]], [[structured-finance/japan-credit-card-receivable-abs]], and [[structured-finance/credit-rating-methodology-jcr-r-and-i]].
 
-## 1. The five repeat issuers — post-2006 survivor set
+## 1. Issuer and collateral identity
 
-The Japanese consumer-finance industry was massively consolidated by the 2006 Moneylending Business Act revision and the resulting overpayment-refund wave (2007–2015). The five major survivors that still issue ABS:
+[JSDA's securitization-market survey](https://www.jsda.or.jp/en/statistics/securitization-market/) is a public market entry point; the following table states the named-deal evidence still required.
 
-| Issuer | Affiliation | Pool focus | Notes |
-|---|---|---|---|
-| [[consumer-finance/acom|Acom]] | MUFG group (consolidated subsidiary post-2008) | Unsecured consumer loans (mukotei, ~JPY 0.5–3M typical balance) | Largest standalone unsecured consumer-finance ABS issuer |
-| [[consumer-finance/aiful|Aiful]] | Independent (avoided megabank acquisition) | Unsecured consumer loans + small-business loans | Survived 2009–2010 near-bankruptcy / ADR restructuring; issues ABS as a key funding tool |
-| [[consumer-finance/smbc-consumer-finance|SMBC Consumer Finance]] | SMFG group (formerly Promise) | Unsecured consumer loans | Re-branded from Promise post-acquisition; tight underwriting |
-| [[card-issuers/aplus|Aplus]] | SBI Group affiliate | Shopping credit (installment) + small consumer loans | Mixed pool — installment / shopping credit dominates |
-| [[card-issuers/orico|Orient Corp]] | Mizuho-Itochu group | Shopping credit + auto-installment + consumer loans | Diversified; consumer-loan share is smaller than shopping credit |
-| [[card-issuers/jaccs|JACCS]] | MUFG group | Shopping credit + auto-installment + card | Smaller in pure consumer-loan ABS; bigger in installment / card |
-
-The pre-2006 universe (Takefuji, Lake, Sanyo Shinpan, etc.) is gone — bankrupted, acquired, or restructured into the survivors above. Industry consolidation is one of the structural facts that shapes today's ABS pool composition: surviving issuers underwrite tighter, repay-rate-track better, and have rebuilt rating-agency relationships.
-
-## 2. Pool composition — unsecured vs secured, mukotei vs yutei
-
-| Pool sub-class | Description | Typical APR (post-2006 cap) | Typical default rate (annualised) |
-|---|---|---|---|
-| **Unsecured consumer loan, small balance (≤ JPY 100K)** | Cash-advance / small unsecured | 20.0% cap (per Interest Rate Restriction Act) | 4.0–7.0% |
-| **Unsecured consumer loan, mid balance (JPY 100K – 1M)** | Standard unsecured personal loan | 18.0% cap | 2.5–4.5% |
-| **Unsecured consumer loan, large balance (> JPY 1M)** | Larger unsecured personal loan | 15.0% cap | 1.5–3.0% |
-| **Secured consumer loan (mortgage-backed personal loan)** | Personal loan backed by 2nd lien on residence | 5.0–10.0% | 0.5–1.5% |
-| **Shopping credit / installment (shopping installment)** | Tied to retailer purchase financing | Variable (Installment Sales Act regime) | 1.0–3.0% |
-
-The **interest-rate ceiling under the Interest Rate Restriction Act** was the central regulatory restructuring of the 2000s — the previous "grey zone" between the Interest Rate Restriction Act (15–20%) and the higher Moneylending Business Act maximum (29.2%) was eliminated, and lenders were required to refund interest collected in the grey zone. The post-cleanup APR profile is the binding constraint on pool yield in current ABS deals.
-
-## 3. Dynamic-pool replenishment — the revolving phase
-
-Consumer-loan ABS uses a **revolving-pool structure** because individual receivables turn over rapidly:
-
-| Phase | Duration | What happens |
-|---|---|---|
-| **Revolving period** | 18–36 months typical | Cash collected on the pool is used to **buy new eligible receivables** from the originator (replenishment), keeping pool balance flat at the target |
-| **Controlled-amortization period** | Optional, 6–12 months | Controlled paydown of senior at a scheduled rate |
-| **Pass-through amortization** | Until senior paid | All principal collections pay senior; pool runs off naturally |
-| **Early-amortization** | If trigger hit | Cash flow is no longer used to buy new receivables — switches immediately to senior paydown |
-
-**Eligibility criteria for replenishment receivables**:
-- Must be originated post-deal-closing within defined origination window
-- Maximum balance per obligor (concentration limit)
-- Minimum APR floor (to maintain pool yield)
-- Maximum tenor (to control duration)
-- Originator origination-criteria-compliant
-- Not delinquent at transfer date
-
-The originator submits replenishment pools monthly; the trustee verifies eligibility; replenishments that fail criteria are bounced and the cash sits in the principal collection account, building toward an early-amortization indicator.
-
-## 4. The early-amortization trigger structure — investor protection
-
-Senior bondholders rely on the early-amortization trigger as the **primary defense** because the revolving structure exposes them to gradual pool deterioration:
-
-| Trigger type | Threshold (illustrative) | Effect |
-|---|---|---|
-| **Cumulative net charge-off (CNL)** | > 5–10% of original pool balance | Flip to amortization |
-| **90+ day delinquency** | > 4–7% of current pool balance for 3 consecutive months | Flip to amortization |
-| **Excess spread compression** | 3-month-average excess spread < 1.0–2.0% per annum | Flip to amortization |
-| **Pool yield decline** | Pool weighted-average APR drops > 100–200 bp from closing | Flip to amortization |
-| **Reserve below floor** | Reserve drawn below required floor | Stop replenishment, build reserve |
-| **Originator bankruptcy / rating downgrade** | Originator rating drops below BBB / files insolvency | Immediate flip to amortization + backup-servicer activation |
-| **Pool concentration breach** | Single-obligor / regional / vintage concentration above limit | Stop replenishment temporarily |
-
-When a trigger flips, **all incoming cash pays senior**, the revolving phase ends permanently, and the originator's equity tranche stops receiving distributions. Senior class pays off in months to a year (much faster than the original WAL) — investors get money back early, but at a possible discount if the deal had been pricing above par.
-
-## 5. Credit enhancement stack — deeper than secured ABS
-
-| Layer | Typical sizing for AAA senior |
+| Field | Required evidence |
 |---|---|
-| Subordination (mezz + equity) | 15–25% of original pool (vs 6–12% for auto-loan ABS) |
-| Cash reserve at closing | 1.5–3.0% of senior balance |
-| Cash reserve target | 2.5–4.5% (built by trapping excess spread) |
-| Overcollateralization | 2–4% target |
-| Excess spread (1st defense) | 8–15% per annum on pool (high pool APR less low bond coupon less servicing — meaningful soak) |
+| Legal issuer / trust | Offering or rating document |
+| Originator and servicer | Sale, trust and servicing documents |
+| Current parent / affiliation | Dated corporate disclosure |
+| Receivable type | Eligibility criteria and pool cutoff |
+| Program history | Dated series list |
 
-Why the deeper subordination: consumer-loan pools are **unsecured**, default-cycle-sensitive, and have no collateral recovery. The 2006–2010 industry crisis showed that mass refund claims (over JPY 1 trillion in cumulative refunds across the industry) can hit pool yield catastrophically — rating agencies bake this tail risk into stress assumptions.
+## 2. Interest-rate law and pool data
 
-## 6. The waterfall — interest priority then sequential principal
+[Article 1 of the Interest Rate Restriction Act](https://laws.e-gov.go.jp/law/329AC0000000100) supports the following statutory table.
 
-Like auto-loan ABS, consumer-loan ABS runs interest-priority then sequential principal:
+| Principal amount | Statutory maximum annual interest rate |
+|---|---:|
+| Less than JPY 100,000 | 20% |
+| JPY 100,000 or more and less than JPY 1,000,000 | 18% |
+| JPY 1,000,000 or more | 15% |
 
-| Priority | Item |
+These are legal maxima, not typical APRs, pool yields or default rates. Other statutes and facts may also apply.
+
+## 3. Pool-performance evidence
+
+[JCR's structured-finance methodology library](https://www.jcr.co.jp/en/rrinfo/meth_sf/) supports the following evidence checklist.
+
+| Metric | Required definition |
 |---|---|
-| 1 | Servicer fee (0.50–1.00% per annum — higher than auto because servicing intensity is higher for delinquent unsecured) |
-| 2 | Trustee / account-bank fees |
-| 3 | Senior interest |
-| 4 | Mezz interest |
-| 5 | Reserve top-up |
-| 6 | OC build |
-| 7 | During revolving: principal recycles into new receivables. During amortization: senior principal, then mezz, then equity |
-| 8 | Residual / originator equity |
+| Delinquency | Aging bucket, numerator, denominator and observation date |
+| Charge-off / default | Contractual or reporting definition and recovery treatment |
+| Yield | Included fees, interest and denominator |
+| Seasoning / vintage | Origination cohorts and cutoff |
+| Concentration | Product, geography, channel and obligor fields disclosed |
 
-**Excess spread trapping** is more aggressive than auto-loan ABS — when triggers approach thresholds but haven't hit, excess spread starts trapping into reserve before formal trigger activation, providing additional buffer.
+## 4. Revolving and early-amortization mechanics
 
-## 7. Default modelling — vintage curves and the 2006 reset
+[JCR's general methodology](https://www.jcr.co.jp/en/pdf/dm28/General_Methodology20210802.pdf) supports reviewing the following transaction controls, not universal thresholds.
 
-JCR / R&I default modelling for consumer-loan ABS uses **vintage curves**:
-
-| Modelling input | Description |
+| Control | Required named-deal evidence |
 |---|---|
-| Vintage curve | Historical CNL / delinquency for each origination cohort (e.g., 2020Q1 vintage tracks 24-36 month default curve) |
-| Pool seasoning adjustment | Replenishment pool's mix of vintages — newly-originated receivables haven't peaked yet, while seasoned receivables are past peak |
-| Macro overlay | Unemployment / wage-growth stress |
-| Behavioural model | Refinancing rates, payoff curves |
-| Tail risk | Regulatory shock (another overpayment-refund-type wave) stress |
+| Revolving / replenishment period | Start, end and eligibility tests |
+| Performance trigger | Exact metric, threshold and observation period |
+| Consequence | End of replenishment, waterfall switch or reserve action |
+| Cure | Cure period and reversibility |
+| Originator / servicer event | Contractual definition and replacement mechanics |
 
-The 2006 reset means **pre-2007 vintage data is largely unusable** for current pool modelling — the underwriting standards, APR caps, and obligor behaviour are different. Surviving issuers rebuilt their data infrastructure post-2007 to enable defensible criteria — JCR / R&I have ~15+ years of clean post-reset data now.
+## 5. Cash-flow and enhancement
 
-## 8. Investor base — narrow and domestic
+[JCR's general methodology](https://www.jcr.co.jp/en/pdf/dm28/General_Methodology20210802.pdf) supports the following model-input table.
 
-| Tranche | Buyer base |
+| Input | Evidence required |
 |---|---|
-| Senior AAA | Life insurers (small allocations), regional banks (cautious), specialty fixed-income managers — narrower than the auto-ABS senior buyer base because of asset-class reputation overhang |
-| Mezz | Specialty credit funds, some asset managers |
-| Equity | Originator retention (typically 5–10% retained — economic and rating-comfort) |
+| Collections and fees | Account definitions and payment priority |
+| Defaults and recoveries | Named assumptions and timing |
+| Enhancement | Actual subordination, reserve, OC or external support |
+| Excess spread | Contractual formula, trapping and release |
+| Notes | Class balances, interest, amortization and loss allocation |
 
-Foreign investor participation is minimal in pure consumer-loan ABS — unlike auto-loan ABS where the Toyota Financial Services international shelf attracts substantial US/EU demand, consumer-loan ABS is overwhelmingly Japan-domestic.
+## 6. Rating and investor claims
 
-## 9. Counterpoints
+[JCR's public rating list](https://jcr.co.jp/en/ratinglist/sf_sf/) and the named offering document support the following controls.
 
-- **"Consumer-loan ABS is just credit-card ABS"** — Structurally similar (revolving, early-amortization triggers) but consumer-loan products are typically **closed-end installment loans** rather than open-end revolving credit; pool dynamics differ in tenor and prepayment behaviour
-- **"The overpayment-refund wave is ancient history"** — Refund claims technically continue (statute of limitations issues still produce occasional claims), and any new regulatory tightening could trigger a similar disruption; rating agencies still model this tail
-- **"Senior tranches survived 2008–2010 fine, so they're safe"** — They did, but the mechanism that saved them was rapid early-amortization activation; investors got money back early at par, but the **negative duration shock** is real — investors expecting WAL of 3 years got money back in 6 months
-- **"15–25% subordination is excessive"** — Critics note the subordination buffer has rarely been used in post-2010 deals (defaults trending down), suggesting structures could be more efficient; rating agencies counter that the tail risk justifies the buffer regardless of realised performance
-- **"BNPL is eating this market"** — BNPL ([[payment-firms/bnpl-landscape|BNPL landscape]]) competes for small-balance consumer-credit demand; whether BNPL receivables eventually appear in ABS pools is open
+| Claim | Required evidence |
+|---|---|
+| Rating | Named class, date, agency and criteria version |
+| Retention | Actual retained interest and holder |
+| Buyer / distribution | Offering or allocation disclosure, if public |
+| Foreign participation | Dated allocation evidence |
+| Spread | Named pricing result and benchmark |
 
-## 10. Open questions
+## 7. Deferred claims
 
-- Whether BNPL-style receivables eventually get securitised at scale, and how rating agencies treat short-tenor (3-6 month) BNPL pools
-- Whether [[regional-banks/sbi-shinsei|Shinsei]]-affiliated [[card-issuers/aplus|Aplus]] and [[card-issuers/orico|Orient Corp]] consolidate consumer-finance ABS programs under new ownership structures
-- Whether BOJ rate normalization stresses consumer borrower payment capacity meaningfully (current household leverage is low, so the channel is weak)
-- Whether digital-only / fintech consumer lenders ([[JapanFG/lendable|Lendable]], [[JapanFG/funds|Funds]], etc.) ever build pool scale sufficient to issue ABS
-- The role of [[card-issuers/jaccs|JACCS]] consolidating shopping-credit ABS as installment-sales receivables grow with e-commerce
+The removed numerical thresholds and market rankings may be restored only with a public named transaction, date, definition and direct link. A generic agency or issuer homepage is insufficient.
+
+## Wiki route
+
+Read this entry within [[structured-finance/INDEX|structured finance]] and use [[finance/INDEX|finance]] for cross-domain capital-markets context.
 
 ## Related
 
-- [[structured-finance/INDEX|structured-finance index]]
-- [[structured-finance/consumer-loan-abs-japan-card-issuer|consumer-loan / card-receivable ABS Japan]]
-- [[structured-finance/japan-credit-card-receivable-abs|Japan credit-card receivable ABS]]
-- [[structured-finance/japan-auto-loan-abs-waterfall-mechanics|Japan auto-loan ABS waterfall mechanics]]
-- [[structured-finance/japan-equipment-lease-abs|Japan equipment lease ABS]]
-- [[structured-finance/jcr-ri-japan-securitization-rating-methodology-operating-playbook|JCR / R&I securitization rating methodology operating playbook]]
-- [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I methodology]]
-- [[structured-finance/fitch-moody-sp-japan-criteria|Fitch / Moody's / S&P Japan criteria]]
-- [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK / TMK SPV vehicle]]
-- [[structured-finance/japan-securitization-product-matrix|Japan securitization product matrix]]
-- [[consumer-finance/acom|Acom]] · [[consumer-finance/aiful|Aiful]] · [[consumer-finance/smbc-consumer-finance|SMBC Consumer Finance]]
-- [[card-issuers/aplus|Aplus]] · [[card-issuers/orico|Orient Corp]] · [[card-issuers/jaccs|JACCS]]
-- [[payment-firms/bnpl-landscape|BNPL landscape]]
-- [[banking/INDEX|banking index]] · [[finance/INDEX|finance index]]
+- [[structured-finance/INDEX]]
+- [[structured-finance/consumer-loan-abs-japan-card-issuer]]
+- [[structured-finance/japan-credit-card-receivable-abs]]
+- [[structured-finance/japan-auto-loan-abs-waterfall-mechanics]]
+- [[structured-finance/credit-rating-methodology-jcr-r-and-i]]
+- [[structured-finance/spv-tk-gk-vehicle-japan-tax]]
 
 ## Sources
 
-- JCR consumer-finance ABS criteria — https://www.jcr.co.jp/en/
-- R&I consumer-finance ABS methodology — https://www.r-i.co.jp/en/
-- Acom investor relations — https://www.acom.co.jp/
-- Aiful investor relations — https://www.aiful.co.jp/
-- SMBC Consumer Finance corporate site — https://www.smbc-cf.com/
-- Aplus corporate site — https://www.aplus.co.jp/
-- JSDA structured-finance statistics — https://www.jsda.or.jp/en/
-- FSA Moneylending Business Act materials — https://www.fsa.go.jp/en/
-- ASF Japan — https://www.asf-japan.gr.jp/
-
----
-
-> [!info] Validation status
-> confidence: **likely**. Dynamic-pool revolving structure, early-amortization trigger logic, and post-2006 industry restructuring history are well-documented in JCR / R&I criteria and in surviving-issuer IR. Specific subordination ranges, APR caps under the Interest Rate Restriction Act, and default-rate ranges reflect industry-disclosed pool data and methodology publications; exact trigger thresholds vary by deal.
+- [Interest Rate Restriction Act](https://laws.e-gov.go.jp/law/329AC0000000100).
+- [JCR, structured-finance methodology library](https://www.jcr.co.jp/en/rrinfo/meth_sf/).
+- [JCR, General Methodology for Structured Finance Rating](https://www.jcr.co.jp/en/pdf/dm28/General_Methodology20210802.pdf).
+- [JSDA, securitization market](https://www.jsda.or.jp/en/statistics/securitization-market/).

@@ -1,5 +1,5 @@
 ---
-title: "Nikkei VIX / JPX-VI — Japan equity volatility index"
+title: "Nikkei 225 VI — Japan equity volatility index"
 aliases:
   - "nikkei-vix-jpx-vi-equivalent"
   - "JPX-VI"
@@ -12,173 +12,158 @@ aliases:
   - "derivatives/nikkei-vix-and-volatility"
 domain: derivatives
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
 confidence: likely
-tags: [derivatives, equity-vol, volatility-index, JPX-VI, Nikkei-225, options, ETF, ETN, BOJ]
+tags: [derivatives, equity-vol, volatility-index, Nikkei-225-VI, Nikkei-225, options, futures, BOJ]
 status: active
 sources:
-  - "https://www.jpx.co.jp/english/markets/indices/jpx-vi/"
-  - "https://www.jpx.co.jp/english/markets/derivatives/"
-  - "https://indexes.nikkei.co.jp/en/nkave/index/profile?idx=nk225"
-  - "https://www.jpx.co.jp/english/markets/derivatives/options/"
-  - "https://www.jscc.co.jp/en/"
-  - "https://www.cboe.com/tradable_products/vix/"
+  - "https://indexes.nikkei.co.jp/en/nkave/index/profile?idx=nk225vi"
+  - "https://indexes.nikkei.co.jp/nkave/archives/news/20250120E_2.pdf"
+  - "https://www.jpx.co.jp/english/derivatives/products/vi/225-vi-futures/01.html"
+  - "https://www.jpx.co.jp/english/equities/products/etfs/issues/01.html"
+  - "https://www.jpx.co.jp/english/equities/products/etns/issues/01.html"
+  - "https://www.cboe.com/tradable-products/vix"
+  - "https://www.boj.or.jp/en/mopo/mpmdeci/index.htm"
+  - "https://www.mof.go.jp/english/policy/international_policy/reference/feio/index.html"
   - "https://www.fsa.go.jp/en/"
 ---
 
-# Nikkei VIX / JPX-VI — Japan equity volatility index
+# Nikkei 225 VI — Japan equity volatility index
 
 ## TL;DR
 
-**JPX-VI (日経平均ボラティリティー・インデックス, the Nikkei 225 Volatility Index, often called the "Nikkei VIX")** is the Japan analogue of the CBOE VIX. It is a model-free implied-volatility index computed from out-of-the-money [[derivatives/INDEX|Nikkei 225 options]] listed on [[securities/osaka-exchange|大阪取引所 (OSE)]] and disseminated through JPX. The methodology is a **30-day constant-maturity implied volatility** derived from a near-term / next-term option strip, analogous to the VIX 2003 methodology, but adapted to OSE's Nikkei 225 option expiry calendar and tick conventions.
+**Nikkei Stock Average Volatility Index (Nikkei 225 VI; 日経平均ボラティリティー・インデックス)** is calculated by Nikkei Inc. from Nikkei 225 futures and options prices on OSE. It estimates expected fluctuation in the Nikkei 225 over a one-month horizon, using near-term and next-term out-of-the-money option prices and interpolation / extrapolation to 30 days. ^[Sources: https://indexes.nikkei.co.jp/en/nkave/index/profile?idx=nk225vi; https://indexes.nikkei.co.jp/nkave/archives/news/20250120E_2.pdf.]
 
-JPX-VI matters because it is the only **publicly disseminated, exchange-published** measure of Japan-equity implied volatility — used by domestic asset managers for risk-overlay sizing, by foreign macro funds as the "fear gauge" for Japan equity beta, and by structured-product desks as the input to volatility-linked retail and institutional payoffs. It is **not directly tradable**: hedging JPX-VI exposure requires either trading the underlying [[derivatives/INDEX|Nikkei 225 option]] strip, the small set of JPX-VI-linked ETF/ETN products, or proxy-hedging via CBOE VIX futures (with material basis risk).
+The index itself is a reference value, while OSE lists **Nikkei 225 VI Futures** on it. Those futures are therefore a direct listed route to the index's future level; trading the underlying Nikkei 225 option strip and bilateral volatility derivatives are separate routes.
 
-This entry covers: index methodology and term structure; comparison to CBOE VIX; the JPX-VI-linked ETF / ETN product set; mean-reversion behavior around BOJ monetary-policy events and intervention episodes; and the structural reason Japan's equity-vol market remains **less liquid and more dealer-dependent** than the US VIX complex.
+This entry covers the published index methodology, the OSE-listed futures contract, the distinction between the index and the broader Nikkei 225 option surface, and evidence-bounded comparisons with Cboe VIX products. It does not infer current ETF / ETN availability or institutional positions without a live product list or disclosure.
 
 ## Wiki route
 
-This entry sits under [[derivatives/INDEX|derivatives index]] in the equity-volatility cluster. Read it with [[securities/osaka-exchange|大阪取引所 (OSE)]] for the underlying Nikkei 225 option listing venue, [[securities/japan-market-infrastructure-map|Japan market infrastructure map]] for the JSCC clearing layer, [[derivatives/equity-volatility-hedging-corporates-japan|equity volatility hedging by Japan corporates]] for the end-user side, and [[derivatives/dealer-bank-derivatives-revenue-mix|dealer bank derivatives revenue mix]] for the dealer-franchise economics that explain why the JPX-VI product complex is structurally narrower than VIX. The [[derivatives/japan-interest-rate-derivatives-overview|Japan interest rate derivatives overview]] gives the BOJ-policy backdrop that drives implied-vol regime shifts.
+This entry sits under [[derivatives/INDEX|derivatives index]] in the equity-volatility cluster. Read it with [[securities/osaka-exchange|大阪取引所 (OSE)]] for the underlying Nikkei 225 option listing venue, [[securities/japan-market-infrastructure-map|Japan market infrastructure map]] for the JSCC clearing layer, [[derivatives/equity-volatility-hedging-corporates-japan|equity volatility hedging by Japan corporates]] for potential end-user applications, and [[derivatives/dealer-bank-derivatives-revenue-mix|dealer bank derivatives revenue mix]] for dealer-franchise context. The [[derivatives/japan-interest-rate-derivatives-overview|Japan interest rate derivatives overview]] provides the BOJ-policy backdrop for reviewing volatility data.
 
-## Why JPX-VI matters
+## Why Nikkei 225 VI matters
 
-A volatility index serves three functions in any equity-derivatives ecosystem:
+The public product record supports three distinct layers; it does not establish how a particular investor uses them: ^[Sources: https://indexes.nikkei.co.jp/en/nkave/index/profile?idx=nk225vi; https://www.jpx.co.jp/english/derivatives/products/vi/225-vi-futures/01.html.]
 
-1. **Pricing benchmark** — single number summarizing the implied-vol surface for the major equity index;
-2. **Risk-overlay input** — asset managers and pension funds use it for VaR scaling, vol-target portfolio construction, and tail-risk hedging triggers;
-3. **Tradable instrument** — VIX futures, VIX options, and VIX ETPs in the US allow direct vol speculation and hedging.
+1. **Published index measure** — Nikkei publishes a single value derived from the specified Nikkei 225 futures and option inputs;
+2. **Direct listed derivative** — OSE lists Nikkei 225 VI Futures under its current product catalogue;
+3. **Other analytical or implementation routes** — use of the option strip, OTC instruments or an ETP requires a stated method, current product evidence and user-specific controls.
 
-For Japan, JPX-VI delivers (1) and (2) well but only **partially** delivers (3) — the product set tradable directly off JPX-VI is structurally smaller than the CBOE VIX complex, and a meaningful share of "Japan equity vol trading" still routes through bilateral OTC variance / volatility swaps with dealer banks via [[derivatives/dealer-bank-derivatives-revenue-mix|equity derivatives desks at the megabank securities arms and foreign IBs]]. This asymmetry is the central structural fact for Japan equity vol.
+For Japan, Nikkei 225 VI provides the benchmark and OSE lists futures on it, but the direct listed product set is narrower than the Cboe VIX complex. Bilateral OTC variance / volatility swaps and the underlying Nikkei 225 option strip remain separate implementation routes.
 
 ## Index methodology
 
-JPX-VI follows a **model-free implied-volatility methodology** in the same family as the CBOE VIX 2003 revision:
+The following table summarizes Nikkei's current methodology: it uses Nikkei 225 futures and out-of-the-money Nikkei 225 options for the near-term and next-term months, then interpolates or extrapolates to 30 days. ^[Sources: https://indexes.nikkei.co.jp/en/nkave/index/profile?idx=nk225vi; https://indexes.nikkei.co.jp/nkave/archives/news/20250120E_2.pdf.]
 
 | Component | Reading |
 |---|---|
 | Underlying universe | Out-of-the-money [[derivatives/INDEX|Nikkei 225 put and call options]] listed on [[securities/osaka-exchange|OSE]]. |
-| Strikes | All OTM strikes with non-zero bid (subject to JPX inclusion rules). |
-| Maturities | Near-term and next-term option months (rolled per JPX-published rules); blended to a constant 30-day maturity. |
-| Risk-free rate | Yen risk-free curve (post-LIBOR: [[derivatives/japan-interest-rate-derivatives-overview|TONA-referenced OIS]] discounting). |
-| Formula family | Variance-swap fair-strike approximation: integrate option prices across strikes, weight by 1/K², annualize to 30-day variance, take square root. |
-| Dissemination | JPX publishes the index in real time during OSE trading hours; daily official close also disseminated. |
+| Strikes | OTM strikes retained under Nikkei's published validity and truncation rules |
+| Maturities | Near-term and next-term option months, interpolated or extrapolated to 30 days |
+| Futures input | Near-term Nikkei 225 futures price establishes the at-the-money reference |
+| Formula | The volatility of each option month is calculated under Nikkei's guidebook and then converted to a 30-day index value |
+| Dissemination | Nikkei publishes the index in real time |
 
-The 30-day constant-maturity rule means JPX-VI is **not** the implied vol of any single option contract — it is a strip-weighted aggregate. This is the same property that makes the US VIX a "model-free" index, and is the reason JPX-VI tends to be more stable than any single-strike implied vol but still spikes during stress events.
+The 30-day calculation means Nikkei 225 VI is **not** the implied volatility of a single option contract. It combines option prices across strikes and uses near-term and next-term maturities to produce a 30-day measure under Nikkei's published methodology.
 
 ### Term structure
 
-JPX publishes the 30-day headline JPX-VI, but the underlying [[derivatives/INDEX|Nikkei 225 option]] surface extends across multiple expiries. The **JPX-VI term structure** — the implied-vol curve across 1-month, 3-month, 6-month, and longer expiries — is the canonical input for:
+Nikkei publishes the 30-day headline index, while the underlying [[derivatives/INDEX|Nikkei 225 option]] surface extends across multiple expiries. A practitioner can construct an implied-volatility term structure from those option expiries for analytical uses such as:
 
-- **Calendar spread trading** (selling rich front-month vol vs buying back-month);
-- **Variance-swap pricing** by dealer desks;
-- **Structured-product hedging** for retail volatility-linked notes;
-- **Risk-overlay timing** for institutional vol-target portfolios.
+- **Comparing implied volatility across expiries**;
+- **Testing changes in the slope of the option-implied term structure**;
+- **Structured-product scenario analysis**;
+- **Risk-overlay research** for portfolios with Japan-equity exposure.
 
-In normal regimes, JPX-VI term structure is in **contango** (back months > front month), consistent with the empirical mean-reversion property of equity vol. During stress events — particularly BOJ-policy surprises, US-VIX contagion episodes, or sharp JPY appreciation — the term structure typically inverts into **backwardation** (front > back), and front-month JPX-VI spikes 50-200% intraday.
+Contango and backwardation are observable states of a volatility-futures or option-implied term structure, but their frequency and magnitude are empirical questions. Any claim about a particular event window should be tested against Nikkei index history and the relevant OSE contract data rather than assumed from the product design.
 
-## Comparison to CBOE VIX
+## Comparison to Cboe VIX
 
-| Dimension | JPX-VI | CBOE VIX |
+The comparison table uses each index owner's methodology and OSE's current VI-futures specifications; qualitative liquidity depth is not a fixed volume ranking. ^[Sources: https://indexes.nikkei.co.jp/en/nkave/index/profile?idx=nk225vi; https://www.jpx.co.jp/english/derivatives/products/vi/225-vi-futures/01.html; https://www.cboe.com/tradable-products/vix.]
+
+| Dimension | Nikkei 225 VI | Cboe VIX |
 |---|---|---|
-| **Underlying** | Nikkei 225 options on [[securities/osaka-exchange|OSE]] | S&P 500 options on CBOE |
-| **Methodology family** | Model-free 30-day implied vol | Model-free 30-day implied vol (2003 methodology) |
-| **Real-time dissemination** | JPX during OSE trading hours | CBOE during US trading hours |
-| **Futures (direct)** | Limited / discontinued history (see counterpoints) | CBOE VIX futures — deep, liquid |
-| **Options on the index** | Not actively listed | CBOE VIX options — deep |
-| **ETP product depth** | Narrow set of JPX-VI ETF / ETN | Very deep (VXX, UVXY, SVXY, VIXY, etc.) |
-| **Typical normal-regime level** | Low-to-mid teens (low 20s in heightened periods) | Low-to-mid teens (similar regime) |
-| **Stress-event spikes** | 40-60+ during crises; faster mean reversion | 40-80+ during crises |
-| **Mean reversion half-life** | Days-to-weeks; mean-revert faster than US in many regimes | Days-to-weeks |
-| **Trading-hours overlap** | Asia day session (Tokyo) | US session (Eastern Time) |
-| **Correlation to other vol indices** | Positive but imperfect with CBOE VIX; co-moves during global risk-off | Anchor for global equity vol |
+| **Underlying** | Nikkei 225 options on [[securities/osaka-exchange|OSE]] | S&P 500 options on Cboe |
+| **Methodology family** | Published 30-day option-implied methodology | Published near-term option-implied methodology |
+| **Index owner / dissemination** | Nikkei Inc. | Cboe Global Markets |
+| **Futures (direct)** | OSE Nikkei 225 VI Futures: 8 serial months, JPY 10,000 multiplier, 0.05-point tick | Cboe VIX futures |
+| **Options on the index** | No OSE Nikkei 225 VI options in the current JPX product catalogue | Cboe VIX options |
+| **Primary option input venue** | Osaka Exchange | Cboe options market |
 
-The structural difference that matters most: **CBOE VIX has a deep tradable derivatives ecosystem on the index itself** (VIX futures, VIX options, vol ETPs), while JPX-VI is primarily a **published index for reference and ETP-tracking** with a thinner direct-vol derivative complex. This means a Japan-equity macro fund that wants to short Japan vol typically does so via OTC variance swaps with dealer desks, via selling the underlying [[derivatives/INDEX|Nikkei 225 option]] strip directly, or via a CBOE VIX overlay with basis risk — rather than via a "JPX-VI future" of comparable depth to VIX futures.
+The verified structural difference is product breadth: OSE lists Nikkei 225 VI Futures, while Cboe lists both VIX futures and VIX options. Potential implementation routes include the OSE future, the underlying Nikkei 225 option strip and documented OTC instruments; actual use depends on mandate, liquidity, tenor and basis risk.
 
-## ETF and ETN products
+## ETF and ETN verification
 
-A small set of JPX-VI-linked exchange-listed products trades on [[securities/tokyo-stock-exchange|TSE]]. These are structurally:
+TSE's live ETF and ETN issue lists, together with each issue's prospectus, are the authoritative sources for deciding whether a currently listed product tracks Nikkei 225 VI, a futures index, or another volatility benchmark. A generic product-family description is not evidence that a particular issue remains listed.
 
-- **ETFs / ETNs that track JPX-VI futures** (where available) or proxy-tracking strategies on the underlying option surface;
-- **Inverse and leveraged variants** in some product families (subject to JPX listing rules and FSA disclosure);
-- **Time-decay sensitive** — like all vol-ETPs globally, term-structure contango imposes a structural cost on long-vol products.
+Potential implementation routes, subject to mandate, liquidity and suitability, include:
 
-The product set is materially smaller than the US VIX ETP complex. The largest Japan vol-ETP AUM is a fraction of the largest US vol-ETPs, which limits the liquidity and tracking quality available to a retail or smaller-institutional Japan-vol trader.
+1. **OSE Nikkei 225 VI Futures**;
+2. **Direct Nikkei 225 option strip** on OSE, with an explicitly documented construction across strikes;
+3. **Bilateral volatility derivatives**, where documented and available from an authorised counterparty;
+4. **A current TSE-listed product**, only after its live listing and benchmark are verified.
 
-For an institutional client wanting larger Japan-vol exposure, the practical route is:
+## Event-study boundary
 
-1. **OTC variance / volatility swap** with a dealer bank ([[securities-firms/nomura-hd|Nomura]], [[securities-firms/goldman-sachs-japan|GS Japan]], [[securities-firms/morgan-stanley-japan|MS Japan]], [[foreign-financial-institutions/jpmorgan-japan|JPM Japan]], [[foreign-financial-institutions/citigroup-japan|Citi Japan]], [[securities-firms/mizuho-securities|Mizuho Securities]], [[securities-firms/smbc-nikko|SMBC Nikko]]);
-2. **Direct Nikkei 225 option strip** on OSE, replicating the vol exposure across strikes;
-3. **CBOE VIX proxy** with basis-risk hedging on the JPX-VI vs VIX correlation.
+Nikkei's index series, BOJ decisions and MOF intervention records can be aligned to test event hypotheses. The following table states measurement questions only; the cited product pages do not support a preset direction, magnitude or reversion speed. ^[Sources: https://indexes.nikkei.co.jp/en/nkave/index/profile?idx=nk225vi; https://www.boj.or.jp/en/mopo/mpmdeci/index.htm; https://www.mof.go.jp/english/policy/international_policy/reference/feio/index.html.]
 
-## Mean reversion and BOJ events
-
-JPX-VI has a documented empirical property: **faster mean reversion than CBOE VIX** in many regimes, and **distinctive spike-and-collapse patterns around BOJ events**. The pattern shape:
-
-| Event type | Typical JPX-VI behavior |
+| Event window | Measurement question |
 |---|---|
-| **BOJ monetary-policy meeting (no surprise)** | Modest pre-meeting drift up; post-meeting drift down as event vol clears. |
-| **BOJ policy surprise (rate / YCC / asset-purchase shift)** | Sharp intraday spike (often 20-50% same-day move); spread compression on the option surface; backwardation in the term structure for days. |
-| **MOF / BOJ FX intervention** | Indirect spike via JPY equity-correlation channel; spike often smaller than for direct equity-news shocks. |
-| **Earnings season concentration (Apr / May, Oct / Nov)** | Persistent elevated level; rapid intraday mean reversion within each session. |
-| **US-VIX contagion (overnight)** | Open-gap spike at OSE morning session; partial mean reversion intraday if US risk-off does not propagate further. |
-| **Geopolitical / regional shock (e.g. North Asia geopolitics)** | Sustained elevated regime; slow mean reversion. |
+| **BOJ monetary-policy meeting** | Define the window and compare pre- and post-decision index observations. |
+| **BOJ policy change** | Classify the dated decision, then measure direction, magnitude and persistence. |
+| **MOF-directed FX intervention, with BOJ acting as agent** | Align official intervention dates with index observations; direction and magnitude require dated market data. |
+| **Earnings calendar** | Define the constituent and date sample, then test whether the index distribution differs. |
+| **Cboe VIX move across time zones** | Align timestamps and test co-movement without assuming an opening gap or intraday reversal. |
+| **Geopolitical event** | Define events ex ante and measure the index path against a stated control window. |
 
-The fast mean reversion is a structural feature dealers exploit: short-vol carry strategies in Japan have historically had attractive Sharpe ratios in calm regimes, but with episodic blow-up risk concentrated around BOJ-policy surprise dates (a published calendar event, which the dealer franchise sizes around).
+Mean reversion, carry and event sensitivity must be measured over a stated sample and instrument. Nikkei's index page and BOJ's decision calendar provide inputs for such a study, but they do not establish a universal strategy return or a single dominant sizing variable.
 
-For a Japan asset manager running a [[derivatives/equity-volatility-hedging-corporates-japan|vol-overlay program]], the BOJ calendar is the single most important input to overlay sizing — even more than the standalone JPX-VI level, because the regime shift on a BOJ-surprise day can dominate weeks of carry.
+## Review questions by user type
 
-## Use cases by client type
+The following table lists review questions derived from the index and futures design, not disclosed client positions or market-share rankings. ^[Sources: https://www.jpx.co.jp/english/derivatives/products/vi/225-vi-futures/01.html; https://indexes.nikkei.co.jp/en/nkave/index/profile?idx=nk225vi.]
 
-| Client | Use case |
+| User type | Evidence-bounded review question |
 |---|---|
-| **Domestic life insurer / pension** | Risk-overlay input for VaR sizing, tail-hedge triggering, and vol-target sleeve construction. Underlying hedges executed via [[derivatives/INDEX|Nikkei 225 puts]] or OTC put spreads at dealer banks. |
-| **Foreign macro hedge fund** | Direction trade on Japan vs US vol relative-value; calendar trades along JPX-VI term structure; tail-hedge for Japan-equity beta. |
-| **Domestic AM (long-only)** | Reference index for portfolio-risk disclosure; some flow into vol-target / risk-parity sleeves. |
-| **Retail investor (via ETP)** | Direct directional exposure to Japan vol via the listed ETF / ETN; small share of retail equity-product activity. |
-| **Structured-product desk** | Pricing input for vol-linked retail notes, principal-protected with vol exposure, and trigger-based structured equity products. |
-| **Dealer-bank desk** | Real-time vol surface management; calibration anchor for OTC variance swaps and option-book Greeks. |
+| **Domestic life insurer / pension** | Does a named public disclosure use the index as a market indicator or research input, and does it separately identify any [[derivatives/INDEX|Nikkei 225 put]] or OTC hedge? |
+| **Foreign macro hedge fund** | Does a dated disclosure identify directional, relative-value, term-structure or tail-hedge use, with the instrument and period stated? |
+| **Domestic AM (long-only)** | Does a named fund document use of the index in risk reporting, portfolio construction or a hedge mandate? |
+| **Retail investor** | Access, if any, depends on the current listed-product set, broker availability and suitability controls. |
+| **Structured-product desk** | Does a dated product document identify the index or its option inputs in valuation, payoff or hedge documentation? |
+| **Dealer-bank desk** | Does a public disclosure identify use in volatility-surface monitoring, valuation or risk management? |
 
-## Historical regime markers
+## Historical review windows
 
-JPX-VI (and its predecessor implied-vol indices on the Nikkei surface) has gone through several distinct regime episodes that are useful reference points for any vol analysis:
+Nikkei publishes historical index data that can be used to test the following public event windows; the table does not assign unsupported peak values or causal attribution. ^[Sources: https://indexes.nikkei.co.jp/en/nkave/index/profile?idx=nk225vi; https://www.boj.or.jp/en/mopo/mpmdeci/index.htm.]
 
-| Episode | JPX-VI behavior |
+| Episode | Nikkei 225 VI review window |
 |---|---|
-| **Global financial crisis (2008-2009)** | Sustained elevated regime — Japan vol behaved similarly to global equity vol, with multi-month elevated readings; Lehman week saw historic spike levels. |
-| **Tōhoku earthquake (March 2011)** | Sharp spike in the days following the earthquake and Fukushima incident; sustained elevated for several weeks before mean-reversion as policy response stabilized markets. |
-| **Abenomics launch and QQE era (2013 onward)** | Generally lower base-level vol as BOJ asset-purchase regime suppressed equity vol; episodic spikes around China devaluation episodes (Aug 2015), BOJ negative-rate introduction (Jan 2016), Brexit (Jun 2016). |
-| **COVID-19 onset (Mar 2020)** | Historic spike to crisis-regime levels along with CBOE VIX; faster mean-reversion than US VIX in the recovery phase. |
-| **BOJ YCC tweaks (2022-2024)** | Each adjustment of the BOJ yield-curve-control band — Dec 2022, July 2023, subsequent steps — generated discrete spikes followed by partial reversal as the market re-priced policy expectations. |
-| **BOJ rate-policy normalization onset** | Post-YCC and on the path toward eventual rate-policy normalization, JPX-VI regime adjusted to a higher base level reflecting policy-uncertainty risk premium. |
+| **Global financial crisis (2008-2009)** | Compare the published index series around major global-credit events. |
+| **Tōhoku earthquake (March 2011)** | Review the index window around the earthquake and subsequent market sessions. |
+| **QQE-era policy decisions (2013 onward)** | Align index observations with dated BOJ decisions before testing policy-event hypotheses. |
+| **COVID-19 onset (March 2020)** | Compare Nikkei 225 VI and Cboe VIX with consistent timestamps and currencies. |
+| **BOJ YCC adjustments (2022-2024)** | Use the BOJ decision archive to define event windows; measure rather than assume direction or persistence. |
+| **Post-YCC policy period** | Treat any change in the index distribution as a testable sample-dependent result. |
 
-These episodes are useful for **regime classification** in any historical-vol or backtested-strategy analysis on Japan equity vol. None of these reference points should be cited as price-action commentary in any forward-looking trading context — they are publicly visible regime markers in a publicly disseminated index.
+These episodes are candidate **review windows**, not predefined regimes. Classification, sampling, timestamps and control windows must be stated before a historical-volatility or backtest result is interpreted. None of the reference points establishes a forward-looking price path.
 
-## Detailed product family — JPX-VI-linked ETP
+## Detailed listed product family
 
-Public-source observation on the JPX-VI-linked exchange-listed product family:
+The following table limits the currently confirmed direct listed derivative to OSE Nikkei 225 VI Futures; current TSE ETP availability must be checked against the live TSE product list rather than inferred from generic structures. ^[Sources: https://www.jpx.co.jp/english/derivatives/products/vi/225-vi-futures/01.html; https://www.jpx.co.jp/english/equities/products/etns/issues/01.html; https://www.jpx.co.jp/english/equities/products/etfs/issues/01.html.]
 
-| Product type | Structure |
+| Product type | Current evidence-bound description |
 |---|---|
-| **Long JPX-VI futures-based ETP** | Holds a rolling position in JPX-VI futures (where listed) or proxy-replicating the strip; tracks JPX-VI levels but suffers structural roll-cost in contango (front-month richer than spot). |
-| **Inverse JPX-VI ETP** | Inverse-linked product replicating short vol exposure; benefits from contango term-structure carry; carries asymmetric downside in vol-spike regimes (historic global precedent: US XIV-2018 unwind). |
-| **Leveraged JPX-VI ETP** | 2x or similar leveraged exposure to vol changes; subject to daily-rebalancing erosion if vol is choppy. |
-| **VIX-linked / cross-VIX ETP (where applicable)** | Some Japan-listed products provide exposure to US VIX rather than JPX-VI directly, given the broader US VIX futures liquidity. |
+| **Nikkei 225 VI Futures** | OSE-listed futures; 09:00-15:45 and 17:00-19:00 JST, 8 nearest serial months, JPY 10,000 multiplier and 0.05-point tick |
+| **Nikkei 225 option strip** | Listed OSE options used in the index calculation; a separate replication route rather than a futures contract |
+| **TSE-listed volatility ETPs** | Verify current issue and benchmark in the live ETF / ETN list before asserting availability |
 
-The JPX-VI ETP set is materially **smaller in AUM** than the US VIX ETP complex. Retail and small-institutional access to direct JPX-VI exposure is therefore narrower than US-equivalent access to VIX-linked products. This is one of the structural reasons Japan equity vol trading is concentrated at the institutional dealer-mediated tier rather than spread across a deep retail ETP layer.
+The table deliberately leaves TSE volatility products as a live-verification item. No current issue, assets-under-management figure or investor-access conclusion should be inferred from historical product families.
 
-## Pension and insurance use of JPX-VI
+## Potential pension and insurance applications
 
-Japanese life insurers ([[finance/japan-listed-financial-groups-investable-universe|listed life insurers]] and the major non-listed mutual life insurers) and the corporate / public pension system (GPIF and corporate DB / DC pension plans) carry **trillion-yen-scale Japan equity exposure** through their domestic equity allocations. JPX-VI plays multiple roles in their risk management:
-
-- **VaR / ES sizing input** for regulatory-capital reporting (insurers under ICS / J-SAM solvency frameworks; banks under Basel for equity-position risk);
-- **Tail-hedge triggering** — some institutional vol-overlay programs use JPX-VI threshold rules (e.g. "buy puts when JPX-VI exceeds X percentile") to systematically hedge equity exposure during stress regimes;
-- **Vol-target sleeve construction** — risk-parity and vol-target portfolio strategies adjust Japan-equity allocation inversely to JPX-VI level, increasing exposure when vol is low and reducing when vol is high;
-- **Asset-liability matching adjacency** — for insurers running long-dated equity exposure backing long-duration liability books, JPX-VI is part of the input set for ALM scenario analysis;
-- **Counterparty discussion benchmark** — JPX-VI is the lingua franca for institutional discussions with dealer banks about equity-derivative hedging needs.
-
-The pension and insurance institutional flow is one of the **structurally important drivers of Japan equity-derivative dealer franchise revenue** — see [[derivatives/dealer-bank-derivatives-revenue-mix|dealer bank derivatives revenue mix]] for the dealer-side economic flow that this client tier creates.
+Nikkei 225 VI may be considered as a market indicator or research input for a portfolio with Japan-equity exposure. Possible analytical applications include scenario design, volatility monitoring and comparison with option-based hedges. Actual use by a pension fund or insurer must be supported by that institution's public disclosure; the index methodology alone does not establish positions, trigger rules, regulatory-capital treatment or dealer-flow importance.
 
 ## Related
 
@@ -209,10 +194,8 @@ The pension and insurance institutional flow is one of the **structurally import
 
 ## Sources
 
-- JPX, JPX-VI index methodology, calculation rules, and real-time dissemination pages.
-- JPX, derivatives market — Nikkei 225 options contract specifications.
-- Nikkei Indexes, Nikkei 225 index profile.
-- JPX, options market overview (OSE listed options).
-- JSCC, clearing scope for listed derivatives and OTC equity derivatives where applicable.
-- CBOE, VIX methodology and tradable-products reference (comparative basis only).
+- Nikkei Indexes, Nikkei 225 VI profile, calculation outline, and real-time dissemination.
+- JPX / OSE, Nikkei 225 VI Futures contract specifications.
+- JPX / TSE, current ETF and ETN issue lists.
+- Cboe, VIX methodology and tradable-products reference (comparative basis only).
 - FSA, supervisory framework for listed and OTC derivatives under FIEA.

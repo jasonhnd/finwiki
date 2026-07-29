@@ -28,9 +28,9 @@
     "domain": "derivatives",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "derivatives",
@@ -55,20 +55,17 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.boj.or.jp/en/statistics/bis/yoshi/index.htm",
-      "https://www.bis.org/statistics/derstats.htm",
-      "https://www.bis.org/publ/otc_hy2502.htm",
-      "https://www.jscc.co.jp/en/",
-      "https://www.lch.com/services/swapclear",
-      "https://www.jpx.co.jp/english/markets/derivatives/jgb-futures/",
-      "https://www.jpx.co.jp/english/markets/derivatives/tona-3m/",
-      "https://www.mof.go.jp/english/policy/jgbs/auction/index.htm",
-      "https://www.mof.go.jp/jgbs/individual/inflation_indexed/index.html",
-      "https://www.isda.org/",
-      "https://www.fsa.go.jp/en/"
+      "BOJ BIS survey results — https://www.boj.or.jp/en/statistics/bis/yoshi/index.htm",
+      "BIS OTC derivatives statistics — https://www.bis.org/statistics/derstats.htm",
+      "JSCC IRS products — https://www.jpx.co.jp/jscc/en/cash/irs/product.html",
+      "JPX JGB futures specifications — https://www.jpx.co.jp/english/derivatives/products/jgb/jgb-futures/01.html",
+      "JPX mini 10-year JGB futures — https://www.jpx.co.jp/english/derivatives/products/jgb/mini-jgb-futures/index.html",
+      "MOF inflation-indexed bonds — https://www.mof.go.jp/english/policy/jgbs/topics/bond/10year_inflation/index.htm",
+      "Statistics Bureau CPI — https://www.stat.go.jp/english/data/cpi/index.html",
+      "ISDA interest-rate product disclosure — https://www.isda.org/a/ORiDE/isda-rates.pdf"
     ]
   },
-  "summary": "Japan's yen-rates derivatives complex spans interest-rate swap (IRS) referencing TIBOR / TONA, overnight index swap (OIS) referencing TONA, JGB futures (10-year standard, 5-year, 20-year super-long, 10-year mini), JGB inflation-linked bond (JGBi) underlying for inflation swaps, swaption (option on y",
+  "summary": "Japan's yen-rates complex spans IRS, TONA OIS, JGB futures, swaptions, CMS, inflation swaps, and yen cross-currency swaps, with JGB inflation-linked bonds included as a cash-market comparison. The current JPX physically delivered JGB-futures lineup is 5-year, 10-year, and mini 20-year; mini 10-year",
   "headings": [
     "Japan rates derivative product matrix",
     "TL;DR",
@@ -77,7 +74,7 @@
     "Product 1 — Yen IRS (TIBOR-floating)",
     "Product 2 — Yen OIS (TONA)",
     "Product 3 — JGB futures (10Y standard)",
-    "Product 4 — JGB futures (5Y, 20Y super-long, 10Y mini)",
+    "Product 4 — Other current JGB futures",
     "Product 5 — JGB inflation-linked bond (JGBi)",
     "Product 6 — Swaption (option on yen IRS)"
   ],
@@ -129,8 +126,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 19778,
-    "word_like_tokens": 3359,
+    "nonspace_chars": 12641,
+    "word_like_tokens": 2090,
     "inbound_wikilinks_count": 3,
     "last_modified": "2026-06-06"
   }

@@ -29,9 +29,9 @@
     "domain": "derivatives",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "derivatives",
@@ -50,16 +50,15 @@
     "related": [],
     "note": null,
     "sources": [
-      "ISDA — https://www.isda.org/",
       "ISDA 2020 IBOR Fallbacks Protocol — https://www.isda.org/protocol/isda-2020-ibor-fallbacks-protocol/",
-      "JSDA TIBOR fallback materials — https://www.jsda.or.jp/en/",
-      "FSA IBOR transition materials — https://www.fsa.go.jp/en/",
-      "BOJ Cross-Industry Committee on Japanese Yen Interest Rate Benchmarks — https://www.boj.or.jp/en/",
-      "JBATA TIBOR Administration — https://www.jbatibor.or.jp/english/",
-      "UK FCA LIBOR cessation notices — https://www.fca.org.uk/"
+      "ISDA benchmark-reform InfoHub — https://www.isda.org/?p=865907",
+      "JBATA Euroyen TIBOR cessation statement — https://www.jbatibor.or.jp/english/news/tibor_18.html",
+      "JBATA TIBOR reform page — https://www.jbatibor.or.jp/english/reform/",
+      "BOJ Cross-Industry Committee — https://www.boj.or.jp/en/paym/market/jpy_cmte/index.htm",
+      "FCA LIBOR wind-down decisions — https://www.fca.org.uk/markets/transition-libor/benchmarks-regulation-powers-policy-decision-making"
     ]
   },
-  "summary": "The ISDA 2020 IBOR Fallback Protocol (formally \"ISDA 2020 IBOR Fallbacks Protocol,\" published October 2020, effective from 25 January 2021) is the multilateral contractual mechanism through which legacy IBOR-referencing derivatives — including JPY LIBOR — were automatically amended to incorporate ri",
+  "summary": "The ISDA 2020 IBOR Fallbacks Protocol, published on 23 October 2020 and effective from 25 January 2021, lets adhering parties incorporate the IBOR Fallbacks Supplement into covered legacy non-cleared derivatives. For yen benchmarks, its Relevant IBOR scope includes JPY LIBOR, Japanese Yen TIBOR, and",
   "headings": [
     "ISDA 2020 IBOR Fallback Protocol — Japan implementation (TIBOR / TONA / JPY LIBOR)",
     "TL;DR",
@@ -68,12 +67,12 @@
     "2. The fallback rate architecture",
     "3. JPY LIBOR fallback specifics",
     "4. JPY LIBOR cessation timeline — the operational events",
-    "5. TIBOR — the JPY rate that survived",
+    "5. Japanese Yen TIBOR and Euroyen TIBOR status",
     "6. Japanese market adherence",
-    "7. The JSDA 2024 documentation update"
+    "7. Euroyen TIBOR transition in 2024"
   ],
   "body_links": {
-    "wikilinks_count": 23,
+    "wikilinks_count": 22,
     "wikilinks": [
       "banking/INDEX",
       "derivatives/INDEX",
@@ -88,7 +87,6 @@
       "derivatives/swap-execution-facility-japan",
       "derivatives/yen-basis-swap-market",
       "financial-regulators/boj-financial-markets-dept",
-      "financial-regulators/jbatibor",
       "financial-regulators/jsda",
       "megabanks/mizuho-fg",
       "megabanks/mufg",
@@ -127,8 +125,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 15693,
-    "word_like_tokens": 2522,
+    "nonspace_chars": 14398,
+    "word_like_tokens": 2318,
     "inbound_wikilinks_count": 2,
     "last_modified": "2026-06-04"
   }

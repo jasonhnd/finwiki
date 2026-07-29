@@ -1,11 +1,11 @@
 ---
 source: derivatives/fx-stp-broker-aggregation
-source_hash: 77324e4b5cd20de8
+source_hash: 9a30b512fb802b24
 lang: en
 status: machine
 fidelity: ok
 title: "FX STP and broker liquidity aggregation"
-translated_at: 2026-05-31T03:19:56.374Z
+translated_at: 2026-07-29T20:00:00+09:00
 ---
 
 # FX STP and broker liquidity aggregation
@@ -126,23 +126,23 @@ Each major ECN has distinct strengths:
 - **Integral OCX**: broker-focused aggregation; popular with smaller / mid-sized brokers.
 - **FastMatch (now Euronext FX)**: ECN for spot FX with mixed institutional / broker participation.
 
-JPY-pair liquidity is structurally concentrated on EBS, with significant additional liquidity on the single-bank platforms of the three Japanese megabanks during Tokyo-session hours.
+Venue shares and dealer-platform depth change over time and require current venue or survey data. Historical importance is not treated here as a current liquidity ranking.
 
 ### Tokyo session liquidity dynamics
 
-The intraday liquidity profile of USD/JPY (the dominant JPY pair) follows a distinct pattern:
+The following table is an illustrative operations clock in JST, not a measured ranking of liquidity depth. Actual activity depends on date, venue, daylight-saving time, customer flow and market events. ^[Sources: https://www.boj.or.jp/en/paym/market/market_fx/index.htm; https://www.globalfxc.org/fx_global_code.htm.]
 
 | Session window (JST) | Activity profile |
 |---|---|
-| 08:00-09:00 | Tokyo open; significant fixing-related and TWAP-style flow. |
-| 09:00-12:00 | Most active local session; megabank desks fully staffed; corporate flow into the 09:55 fixing. |
-| 12:00-13:00 | Tokyo lunch lull (less aggressive in modern algorithmic era but still observable). |
-| 13:00-16:00 | Tokyo afternoon; flow tapers as European traders prepare to enter. |
-| 16:00-20:00 | London open overlap; deepest global liquidity for USD/JPY. |
-| 20:00-04:00 | New York session; ECN flows dominate. |
-| 04:00-08:00 | Wellington / Sydney handover; thin liquidity. |
+| 08:00-09:00 | Tokyo-business-day start; venue and client workflows come online. |
+| 09:00-12:00 | Tokyo morning operating window. |
+| 12:00-13:00 | Midday window; electronic venues remain available. |
+| 13:00-16:00 | Tokyo afternoon operating window. |
+| 16:00-20:00 | Tokyo-to-Europe overlap; the exact overlap shifts with daylight-saving time. |
+| 20:00-04:00 | Europe / North America operating overlap, depending on season. |
+| 04:00-08:00 | Asia-Pacific handover window. |
 
-The 09:55 JST Tokyo fixing is especially significant because it is the reference fixing used by many Japan corporate and asset-manager workflows; flow around the fixing concentrates briefly and can cause material spread widening.
+A dealer or client may use a documented fixing or benchmark workflow, but this page does not assign universal importance to 09:55 JST or claim a predictable spread effect without benchmark-specific data.
 
 ## Regulatory disclosure
 

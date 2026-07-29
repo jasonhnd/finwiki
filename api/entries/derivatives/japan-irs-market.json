@@ -28,9 +28,9 @@
     "domain": "derivatives",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "derivatives",
@@ -47,14 +47,15 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.boj.or.jp/en/statistics/bis/yoshi/index.htm",
-      "https://www.bis.org/statistics/derstats.htm",
-      "https://www.jscc.co.jp/en/",
-      "https://www.fsa.go.jp/en/",
-      "https://www.isda.org/"
+      "JBATA TIBOR reform — https://www.jbatibor.or.jp/english/reform/",
+      "JBATA Euroyen TIBOR cessation — https://www.jbatibor.or.jp/english/news/tibor_18.html",
+      "FCA LIBOR wind-down — https://www.fca.org.uk/markets/transition-libor/benchmarks-regulation-powers-policy-decision-making",
+      "JSCC IRS eligible products — https://www.jpx.co.jp/jscc/en/cash/irs/product.html",
+      "BOJ BIS survey results — https://www.boj.or.jp/en/statistics/bis/yoshi/index.htm",
+      "BIS OTC derivatives statistics — https://www.bis.org/statistics/derstats.htm"
     ]
   },
-  "summary": "The yen interest-rate swap (IRS) market is the OTC derivative venue in which two counterparties exchange a stream of fixed JPY-denominated interest payments for a stream of floating-rate JPY payments over a defined tenor. It is the dominant interest-rate-hedging instrument for Japanese banks, life i",
+  "summary": "The yen interest-rate swap (IRS) market is the OTC derivative venue in which two counterparties exchange defined fixed and floating JPY interest cash flows over a stated tenor. Institution-specific use, direction, and product share require dated transaction or portfolio evidence.",
   "headings": [
     "Japan yen interest-rate swap (IRS) market",
     "TL;DR",
@@ -62,7 +63,7 @@
     "Instrument Mechanics",
     "TIBOR vs TONA Migration",
     "Notional Outstanding",
-    "Dealer Bank Revenue Split",
+    "Public dealer-data boundary",
     "Corporate vs Financial-Institution End-Users",
     "JSCC Clearing Mandate",
     "Related"
@@ -125,8 +126,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 11241,
-    "word_like_tokens": 1849,
+    "nonspace_chars": 10861,
+    "word_like_tokens": 1772,
     "inbound_wikilinks_count": 29,
     "last_modified": "2026-06-04"
   }

@@ -27,9 +27,9 @@
     "domain": "structured-finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "structured-finance",
@@ -44,24 +44,25 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.jsda.or.jp/en/",
-      "https://www.fsa.go.jp/en/",
-      "https://www.jcr.co.jp/en/",
-      "https://www.r-i.co.jp/en/"
+      "https://laws.e-gov.go.jp/law/418AC0000000108",
+      "https://laws.e-gov.go.jp/law/323AC0000000025",
+      "https://www.fsa.go.jp/policy/marketentry/guidebook/reference1.html",
+      "https://www.tr.mufg.jp/houjin/shisan/saiken.html",
+      "https://www.jhf.go.jp/english/mbs_faq.html"
     ]
   },
-  "summary": "Japanese securitization deals can use either an SPV (TK-GK, TMK, etc.) or a trust beneficial interest (信託受益権) as the issuance vehicle. Trust beneficial interest is its own securitization vehicle, not just a wrapper: the originator transfers assets to a trust, the trust holds the assets, and trust be",
+  "summary": "Japanese securitization may use a trust, a corporate vehicle, or a layered combination. A trust is a legal relationship rather than a corporation; the trustee holds and administers trust property for beneficiaries under the Trust Act. The Financial Instruments and Exchange Act (FIEA) classification",
   "headings": [
     "Trust beneficial interest vs SPV (Japan securitization vehicle)",
     "TL;DR",
     "Wiki route",
     "1. Trust beneficial interest as securitization vehicle",
-    "2. Single-asset trust (信託受益権の流動化)",
-    "3. Multi-asset trust",
+    "2. Asset and transfer evidence",
+    "3. Layered trust and corporate structures",
     "4. Trust vs SPV comparison",
-    "5. Why trust is used for RMBS",
-    "6. Why SPV is used for auto / consumer ABS",
-    "7. Dual-listed / combined structures"
+    "5. Product-use claims",
+    "6. Combined-structure review",
+    "7. Editorial boundary"
   ],
   "body_links": {
     "wikilinks_count": 12,
@@ -93,13 +94,22 @@
       "https://finwiki.zksc.io/ja/structured-finance/spv-tk-gk-vehicle-japan-tax/",
       "https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 8,
+    "external_links": [
+      "https://laws.e-gov.go.jp/law/323AC0000000025",
+      "https://laws.e-gov.go.jp/law/340AC0000000033",
+      "https://laws.e-gov.go.jp/law/340AC0000000034",
+      "https://laws.e-gov.go.jp/law/410AC0000000105",
+      "https://laws.e-gov.go.jp/law/418AC0000000108",
+      "https://www.fsa.go.jp/policy/marketentry/guidebook/reference1.html",
+      "https://www.jhf.go.jp/english/mbs_faq.html",
+      "https://www.tr.mufg.jp/houjin/shisan/saiken.html"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 7720,
-    "word_like_tokens": 1217,
-    "inbound_wikilinks_count": 11,
+    "nonspace_chars": 10716,
+    "word_like_tokens": 1691,
+    "inbound_wikilinks_count": 7,
     "last_modified": "2026-06-04"
   }
 }

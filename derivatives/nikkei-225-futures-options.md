@@ -11,9 +11,9 @@ aliases:
   - "Nikkei weekly options"
 domain: derivatives
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
 confidence: likely
 tags: [derivatives, equity-derivatives, Nikkei-225, OSE, JPX, futures, options, Globex, weekly-options]
 status: active
@@ -30,11 +30,11 @@ sources:
 
 ## TL;DR
 
-The Nikkei 225 futures and options complex listed on the Osaka Exchange (OSE) under Japan Exchange Group (JPX) is the largest exchange-traded derivative product set in Japan by daily turnover and the canonical hedge instrument for Japanese equity-beta exposure. The complex contains three principal contracts — large Nikkei 225 Futures, Nikkei 225 mini (one-tenth size), and the recently launched Nikkei 225 Micro Futures (further reduced) — plus the Nikkei 225 Options market that spans monthly, quarterly, and weekly expiries. All clear at [[securities/japan-securities-clearing-corp|JSCC]].
+The Nikkei 225 futures and options complex listed on the Osaka Exchange (OSE) under Japan Exchange Group (JPX) provides exchange-traded routes to Nikkei 225 equity exposure. The complex contains three futures sizes — large Nikkei 225 Futures, Nikkei 225 mini (one-tenth size), and Nikkei 225 Micro Futures (further reduced) — plus standard and mini Nikkei 225 Options. All clear at [[securities/japan-securities-clearing-corp|JSCC]].
 
-A parallel listing of Nikkei 225 futures on CME Globex provides near-24-hour price discovery; the OSE night session and CME-listed Nikkei contract together create overnight liquidity that is a meaningful share of total Nikkei futures activity. Participant mix is roughly split among foreign institutional (high-frequency and macro), Japanese securities firm proprietary desks, foreign HFT, and retail (especially in the mini contract); pure-cash equity hedging by domestic life insurers and pension funds is a smaller but structurally significant slice.
+CME Globex also lists Nikkei 225 futures. OSE and CME publish their own schedules, volume and open-interest data; cross-venue activity and participant mix should be compared for a stated period rather than inferred from product availability.
 
-For FinWiki, this entry covers contract specifications, the mini / micro retail layer, weekly options, the OSE / Globex trading-hours dual track, participant mix, and how the complex relates to the [[derivatives/nikkei-vix-jpx-vi-equivalent|JPX-VI volatility index]] and to [[derivatives/topix-futures|TOPIX futures]].
+For FinWiki, this entry covers contract specifications, the mini / micro retail layer, weekly options, the OSE trading schedule, participant mix, and how the complex relates to the [[derivatives/nikkei-vix-jpx-vi-equivalent|Nikkei 225 VI]] and to [[derivatives/topix-futures|TOPIX futures]].
 
 ## Wiki route
 
@@ -44,113 +44,121 @@ This entry sits under [[derivatives/INDEX|derivatives index]]. Read it against [
 
 OSE lists three Nikkei 225 futures contracts and the Nikkei 225 Options surface:
 
+The contract table uses JPX's current product specifications as of this review; weekly Wednesday / Friday expiries belong to Nikkei 225 mini Options, not the standard Nikkei 225 Options contract. ^[Sources: https://www.jpx.co.jp/english/derivatives/products/domestic/225futures/01.html; https://www.jpx.co.jp/english/derivatives/products/domestic/225mini/01.html; https://www.jpx.co.jp/english/derivatives/products/domestic/225micro-futures/01.html; https://www.jpx.co.jp/english/derivatives/products/domestic/225options/01.html; https://www.jpx.co.jp/english/derivatives/products/domestic/225mini-options/index.html.]
+
 | Contract | Underlying | Multiplier | Tick | Listed months |
 |---|---|---|---|---|
-| Nikkei 225 Futures (Large) | Nikkei 225 stock average | JPY 1,000 × index | JPY 10 (= JPY 10,000 per tick) | Mar / Jun / Sep / Dec, plus nearest months |
-| Nikkei 225 mini | Nikkei 225 stock average | JPY 100 × index (1/10) | JPY 5 (= JPY 500 per tick) | Monthly, multiple consecutive months |
-| Nikkei 225 Micro Futures | Nikkei 225 stock average | JPY 10 × index (1/100) | JPY 5 | Monthly |
-| Nikkei 225 Options | Nikkei 225 stock average | JPY 1,000 × index | Premium-tick-scaled | Monthly (third Friday), quarterly, weekly |
+| Nikkei 225 Futures (Large) | Nikkei 225 stock average | JPY 1,000 × index | JPY 10 (= JPY 10,000 per tick) | Quarterly March-cycle months; June / December up to 8 years and March / September up to 1.5 years |
+| Nikkei 225 mini | Nikkei 225 stock average | JPY 100 × index (1/10) | JPY 5 (= JPY 500 per tick) | Quarterly months plus the nearest three monthly months |
+| Nikkei 225 micro Futures | Nikkei 225 stock average | JPY 10 × index (1/100) | JPY 5 (= JPY 50 per tick) | Current JPX contract-month schedule |
+| Nikkei 225 Options | Nikkei 225 stock average | Option price × JPY 1,000 | JPY 1 at premiums up to JPY 300; JPY 5 above JPY 300 | Quarterly months plus the nearest eight monthly months |
+| Nikkei 225 mini Options | Nikkei 225 stock average | Option price × JPY 100 | Current JPX premium tick schedule | Wednesday and Friday expiries, including the second-Friday monthly series |
 
-All contracts are cash-settled against the Special Quotation (SQ) on the morning of the second Friday of the contract month (so-called "SQ day"). Options are European-style for the standard monthly and weekly series.
+Large, mini and micro futures and standard Nikkei 225 Options use the second-Friday SQ cycle described in their specifications. Nikkei 225 mini Options separately provide Wednesday and Friday expiries, with final settlement against the SQ for that expiry.
 
 ## Trading Hours: OSE Day, OSE Night, and CME Globex
 
-The Nikkei futures complex effectively trades around the clock through three overlapping venues:
+The OSE hours below are exact current regular-session hours; CME publishes its own session calendar and holiday rules. ^[Sources: https://www.jpx.co.jp/english/derivatives/products/domestic/225futures/01.html; https://www.cmegroup.com/markets/equities/international-indices/nikkei-225-yen.html.]
 
-| Venue / session | Hours (JST, approximate) | Activity profile |
+| Venue / session | Hours | Activity profile |
 |---|---|---|
-| OSE Day Session | 08:45–15:15 | Domestic securities-firm flow; client hedging; intraday HFT. |
-| OSE Night Session | 16:30–06:00 (next day) | Foreign macro and HFT activity; reacts to European data, US economic data, FOMC, US equity moves. |
-| CME Globex Nikkei 225 (USD- and JPY-denominated) | Near-24-hour | US-overlap pricing; institutional cross-border hedging; provides reference price during US session. |
+| OSE Day Session | 08:45-15:45 JST | Domestic and cross-border trading during Japan hours |
+| OSE Night Session | 17:00-06:00 JST (next day) | Trading during European and US overlaps |
+| CME Globex Nikkei 225 (USD- and JPY-denominated) | See CME product calendar | Parallel cross-border venue |
 
-The OSE night session was extended over multiple rule cycles to capture more of the European and US trading day. CME-listed Nikkei 225 futures (both USD-denominated and JPY-denominated) provide a parallel venue and arbitrage opportunities exist between OSE and CME pricing, especially during gap periods.
+OSE and CME provide parallel venues with different calendars and contract terms. A cross-venue comparison should align timestamps, currencies and contract months before measuring price differences or activity.
 
-For institutions running global equity-vol books, the dual OSE / CME listing means a Japan-equity hedge can be put on at almost any time. For Japanese domestic flow, the OSE night session captures most of the after-hours business; CME volumes are dominated by US-based and global accounts.
+The OSE night session and CME listing create overlapping implementation windows. Actual availability follows each venue's calendar, and any claim about after-hours share or account origin requires dated venue and participant data.
 
-## Mini and Micro: The Retail Layer
+## Mini and Micro: Contract-Size Layer
 
-The Nikkei 225 mini (launched 2006) and Nikkei 225 Micro (launched 2023) contracts scale the standard contract down for smaller participants:
+The Nikkei 225 mini (launched 2006) and Nikkei 225 Micro (launched 2023) contracts scale down the standard contract:
+
+The following table's contract-size ratios and launch dates follow JPX; margin is risk-based and does not mechanically equal the size ratio at every point in time. ^[Sources: https://www.jpx.co.jp/english/derivatives/products/domestic/225mini/01.html; https://www.jpx.co.jp/english/derivatives/products/domestic/225micro-futures/index.html; https://www.jpx.co.jp/jscc/en/cash/futures/marginsystem/VaR.html.]
 
 | Aspect | mini | Micro |
 |---|---|---|
 | Size vs Large | 1/10 | 1/100 |
-| Margin requirement | ~1/10 of Large | ~1/100 of Large |
-| Primary user base | Active retail; small institutional residual hedging; introductory algorithmic strategies | Retail; entry-level investors; small-account portfolio overlay |
-| Daily volume | Frequently exceeds the Large contract on a contract-count basis | Smaller absolute volume; growing |
+| Margin framework | JSCC VaR method | JSCC VaR method |
+| Investor composition | See JPX investor-type statistics for the product and period | See JPX investor-type statistics for the product and period |
+| Current volume | See JPX daily product statistics | See JPX daily product statistics |
 
-The mini contract has been a major driver of Nikkei futures activity since its launch, especially among Japanese retail brokers' margin-trading customers and Japanese day-trader populations. The Micro further lowers the entry threshold; its adoption is being watched as a measure of retail equity-derivatives engagement.
+The mini and micro contracts reduce contract size relative to the large contract. Current adoption and investor composition should be read from JPX product and investor-type statistics rather than inferred from contract size.
 
-Retail access to Nikkei futures is mediated by [[securities/INDEX|securities firms]] offering futures margin trading, including major online brokers like SBI Securities, Rakuten Securities, Matsui Securities, Monex, and au Kabucom Securities (covered in [[securities/japan-online-brokerage-competition]]).
+Retail access depends on the current product menu, account approval and suitability controls of each [[securities/INDEX|securities firm]]. Provider availability should be checked directly rather than inferred from a general online-broker list (see [[securities/japan-online-brokerage-competition]]).
 
 ## Weekly Options
 
-Nikkei 225 Weekly Options expand the options surface beyond the standard monthly expiry:
+The following table shows how Nikkei 225 mini Options expand the surface beyond the standard second-Friday monthly expiry. ^[Source: https://www.jpx.co.jp/english/derivatives/products/domestic/225mini-options/index.html.]
 
 | Aspect | Detail |
 |---|---|
-| Expiry cycle | Every Friday (with monthly expiries falling on the second Friday) |
-| Listed series | Typically two to five weekly expiries listed at any time |
+| Expiry cycle | Every Wednesday and Friday; contracts other than the second-Friday monthly series are weekly contracts |
+| Listed series | Nearest four non-second-Friday Friday expiries, nearest four Wednesday expiries, and nearest three second-Friday months |
 | Style | European; cash-settled to the weekly SQ |
-| Use cases | Short-dated tactical positioning around scheduled events (BoJ MPM, FOMC, earnings), gamma scalping, defined-risk option strategies |
+| Possible analytical uses | Short-dated event windows, gamma analysis and defined-risk option structures; actual use is not inferred |
 
-Weekly options have grown in adoption among foreign macro funds, dealer prop desks, and sophisticated retail; daily volume in weekly options is now a meaningful share of total Nikkei option turnover. Implied-vol pricing in the weekly series provides a more granular event-vol curve than monthly options alone, and it feeds into the [[derivatives/nikkei-vix-jpx-vi-equivalent|JPX-VI]] computation directly through the underlying option strip.
+The additional Wednesday and Friday expiries allow market participants to isolate shorter event windows. They are not described here as direct inputs to [[derivatives/nikkei-vix-jpx-vi-equivalent|Nikkei 225 VI]]: Nikkei's published index methodology uses the specified near-term and next-term Nikkei 225 option inputs.
 
 ## Participant Mix
 
-OSE publishes investor-category breakdowns for Nikkei futures and options through its trade statistics. The high-level composition (publicly disclosed in monthly OSE releases):
+OSE publishes investor-category breakdowns for Nikkei futures and options through its trade statistics:
 
-| Category | Typical share of Nikkei futures volume |
+The table is a route map to the published statistics and does not preserve an unsupported fixed 60-70% share. ^[Sources: https://www.jpx.co.jp/english/markets/statistics-derivatives/investor-type/; https://www.jpx.co.jp/english/markets/statistics-derivatives/daily/.]
+
+| Category | Reading approach |
 |---|---|
-| Foreign investors (institutional, HFT, macro) | Largest single block, frequently 60–70%+ of futures turnover |
-| Securities firm proprietary trading | Significant share; market-making and prop |
-| Securities firm brokerage flow (institutional client) | Substantial; channels foreign and domestic institutional orders |
-| Individual investors (retail) | Concentrated in mini and Micro; meaningful share of mini volume |
-| Banks, insurers, pension funds | Smaller direct share; often access via prime brokers |
+| Foreign investors | Read the current investor-type table for the product and period |
+| Securities firms | Includes proprietary and brokerage-mediated activity depending on the published table |
+| Individual investors | Compare large, mini and micro contracts separately |
+| Banks, insurers and other institutions | Read direct reported activity; intermediated access is not separately inferred here |
 
-For options, the participant mix tilts more toward sophisticated institutional and prop accounts because of the higher operational complexity of options market-making and hedging.
-
-The foreign-investor share is a regularly cited statistic for understanding who drives Nikkei futures pricing — and explains the OSE night session's prominence (when foreign accounts overlap with European and US hours).
+Investor-type shares vary by product and period. A reproducible comparison should identify the JPX table, contract, date range and whether the measure is volume or open interest.
 
 ## Comparison with Other Nikkei-Linked Products
 
 Multiple instruments express Nikkei 225 exposure across cash and derivatives:
 
+The following table sources venue and product availability to each exchange; ETF examples are product identifiers, not a volume ranking. ^[Sources: https://www.jpx.co.jp/english/derivatives/products/domestic/index.html; https://www.jpx.co.jp/english/equities/products/etfs/issues/01.html; https://www.cmegroup.com/markets/equities/international-indices/nikkei-225-yen.html; https://www.sgx.com/derivatives.]
+
 | Instrument | Venue | Use case |
 |---|---|---|
-| Nikkei 225 ETFs (1321 Daiwa, 1330 Nikko, 1320 NEXT FUNDS, etc.) | TSE | Cash-equity exposure; physical-backed; used by buy-and-hold and ETF arbitrage |
-| Nikkei 225 Futures (Large, mini, Micro) | OSE | Leveraged exposure; institutional and retail hedging |
-| Nikkei 225 Options | OSE | Direction + volatility expression |
-| CME Nikkei 225 Futures (USD and JPY) | CME Globex | US-hour pricing; cross-border arbitrage |
-| Nikkei 225 Index Futures (SGX) | Singapore Exchange | Asia-overlap pricing |
-| Inverse / leveraged ETFs (e.g., 1357, 1570) | TSE | Retail one-day-leverage products |
+| Nikkei 225 ETFs (1321 Daiwa, 1330 Nikko, 1320 NEXT FUNDS, etc.) | TSE | Verify current issue, benchmark and structure in the TSE list |
+| Nikkei 225 Futures (Large, mini, Micro) | OSE | Three contract sizes under current JPX specifications |
+| Nikkei 225 Options | OSE | Standard and mini option products |
+| CME Nikkei 225 Futures (USD and JPY) | CME Globex | Parallel USD- and JPY-denominated contracts |
+| Nikkei 225 Index Futures (SGX) | Singapore Exchange | Verify the current SGX contract page and calendar |
+| Inverse / leveraged ETFs (e.g., 1357, 1570) | TSE | Verify current issue and leverage objective in the TSE list |
 
-The OSE / CME / SGX listings together provide near-continuous Nikkei 225 futures pricing globally. ETF and futures arbitrage is a steady source of basis flow; market makers in Nikkei ETFs (see [[securities/japan-market-maker-and-liquidity-provider-landscape]]) routinely run futures hedges.
+The listings provide separate venue routes. Cross-venue continuity, basis flow and market-maker hedging require synchronized price, volume and disclosure evidence; they are not inferred from listing availability (see [[securities/japan-market-maker-and-liquidity-provider-landscape]]).
 
 ## Comparison with TOPIX Futures and JPX-Prime 150
 
-[[derivatives/topix-futures|TOPIX futures]] are the JPX-flagship broad-market index futures (covering ~2,000 TSE Prime stocks); Nikkei 225 futures cover the 225-stock price-weighted Nikkei 225 average. The two products serve overlapping but distinct hedging audiences:
+[[derivatives/topix-futures|TOPIX futures]] reference the free-float-adjusted market-cap-weighted TOPIX, while Nikkei 225 futures reference the 225-stock price-weighted Nikkei 225. The comparison below is methodological rather than a participant or volume ranking. ^[Sources: https://www.jpx.co.jp/english/markets/indices/topix/; https://indexes.nikkei.co.jp/en/nkave/index/profile?idx=nk225; https://www.jpx.co.jp/english/derivatives/products/domestic/topix-futures/01.html; https://www.jpx.co.jp/english/derivatives/products/domestic/225futures/01.html.]
 
 | Aspect | Nikkei 225 futures | TOPIX futures |
 |---|---|---|
-| Universe | 225 stocks; price-weighted | ~2,000 stocks; free-float market-cap weighted |
-| Sector tilt | Tech / industrials heavy due to price weighting | Broader, with banks / large-cap industrials reflected at market-cap weight |
-| Daily volume | Larger (especially with mini + Micro retail) | Smaller; institutional-dominated |
-| Primary users | Retail + foreign macro + Japanese securities prop | Domestic institutional ALM, pension hedging |
+| Universe | 225 selected stocks; price-weighted | TOPIX constituents under the current JPX methodology; free-float-adjusted market-cap weighted |
+| Weighting method | Price weighted | Free-float-adjusted market-cap weighted |
+| Contract unit | Nikkei 225 × JPY 1,000 (large) | TOPIX × JPY 10,000 (large) |
+| Current volume and users | Refer to JPX product and investor-type statistics | Refer to JPX product and investor-type statistics |
 
-For broader equity-vol hedging, JPX has also launched JPX-Prime 150 futures and TSE Mothers (now TSE Growth) futures, with much smaller volumes; the Nikkei 225 / TOPIX pair remains the dominant pair.
+JPX also lists JPX Prime 150 futures and TSE Growth Market 250 Index Futures. Their current activity, and any comparison with Nikkei 225 or TOPIX products, should be read from JPX's product and daily-statistics pages.
 
 ## Clearing and Margin
 
 All Nikkei 225 futures and options clear at [[securities/japan-securities-clearing-corp|JSCC]]:
 
+The following table uses JSCC's current VaR margin page and the product-specific JPX settlement specifications. ^[Sources: https://www.jpx.co.jp/jscc/en/cash/futures/marginsystem/VaR.html; https://www.jpx.co.jp/english/derivatives/products/domestic/225futures/01.html; https://www.jpx.co.jp/english/derivatives/products/domestic/225options/01.html; https://www.jpx.co.jp/english/derivatives/products/domestic/225mini-options/index.html.]
+
 | Element | Detail |
 |---|---|
 | CCP | JSCC; novation at trade execution |
-| Margin methodology | SPAN-style portfolio margining; portfolio offsets across futures, options, and related products |
-| Settlement | Cash-settled to SQ (Special Quotation) on the second Friday of the contract month for monthly series; for weekly options, to the weekly Friday SQ |
-| Default management | Standard JSCC waterfall (defaulter margin → defaulter contribution → JSCC capital → member fund → further resources) |
+| Margin methodology | Current JSCC VaR method; parameters and permitted offsets follow current JSCC rules |
+| Settlement | Product-specific SQ: second-Friday cycle for the large, mini and micro futures and standard options; Wednesday / Friday expiries for mini Options |
+| Default management | Governed by current JSCC rules |
 
-The SPAN-based portfolio approach allows Nikkei 225 futures, options, mini, and Micro positions to net under one margin calculation, supporting active option-futures strategies.
+Portfolio offsets, where permitted, depend on current JSCC parameters. This page does not assert a fixed offset or netting outcome for every account and position combination.
 
 ## Related
 

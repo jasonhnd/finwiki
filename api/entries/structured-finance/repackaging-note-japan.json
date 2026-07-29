@@ -11,34 +11,27 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/structured-finance/repackaging-note-japan.md",
   "raw_markdown_url": "https://finwiki.zksc.io/structured-finance/repackaging-note-japan.md",
   "domain": "structured-finance",
-  "title": "Repackaging note in Japan (リパッケージ債) — SPV-wrapped bond / loan repackaging",
+  "title": "Repackaging note in Japan — named-transaction evidence guide",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Repackaging note in Japan (リパッケージ債) — SPV-wrapped bond / loan repackaging",
+    "title": "Repackaging note in Japan — named-transaction evidence guide",
     "aliases": [
       "Japan repackaging note",
-      "リパッケージ債",
-      "Repack Japan",
-      "Currency-swap repackaging",
-      "Coupon-restructured repackaging",
-      "Retail repackaging note Japan",
+      "Japan repack",
       "structured-finance/repackaging-note-japan"
     ],
     "domain": "structured-finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "structured-finance",
       "repackaging",
-      "repack",
-      "currency-swap",
-      "coupon-restructured",
-      "retail",
-      "megabank",
+      "note",
+      "derivatives",
       "japan"
     ],
     "status": "active",
@@ -46,74 +39,49 @@
     "related": [],
     "note": null,
     "sources": [
-      "JSDA bond market statistics — https://www.jsda.or.jp/en/",
-      "Megabank securities IR (MUFG MS, SMBC Nikko, Mizuho Securities)",
-      "Foreign investment bank Japan operations (public disclosures)",
-      "FSA structured-products disclosure framework"
+      "https://www.jcr.co.jp/en/rrinfo/meth_sf/",
+      "https://www.jcr.co.jp/en/pdf/dm28/General_Methodology20210802.pdf",
+      "https://www.fsa.go.jp/policy/marketentry/guidebook/reference1.html"
     ]
   },
-  "summary": "A repackaging note (リパッケージ債, \"repack\") is a structured-credit product in which an SPV purchases an underlying debt asset (a bond, a loan, a basket of bonds), enters into derivative overlays (currency swap, interest-rate swap, sometimes credit-default swap), and reissues new notes to investors with a",
+  "summary": "The prior page generalized ticket sizes, offshore vehicles, dealer dominance, rating patterns and investor use cases without named public notes. Those claims are removed. A repackaging note must be analyzed as one integrated transaction: underlying asset, issuer, note terms, derivatives, collateral,",
   "headings": [
-    "Repackaging note in Japan (リパッケージ債) — SPV-wrapped bond / loan repackaging",
+    "Repackaging note in Japan — named-transaction evidence guide",
     "TL;DR",
     "Wiki route",
-    "1. The repack — basic mechanics",
-    "2. Institutional vs retail repacks",
-    "3. Use cases — what gets repackaged",
-    "4. Dealer franchise — megabank securities vs foreign IB",
-    "5. SPV / legal structure",
-    "6. Rating treatment",
-    "7. The post-2008 evolution"
+    "1. Transaction identity",
+    "2. Transformation claims",
+    "3. FIEA and offer boundary",
+    "4. Rating and pricing",
+    "5. Deferred claims",
+    "Related",
+    "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 19,
+    "wikilinks_count": 4,
     "wikilinks": [
-      "derivatives/japan-cds-market-overview",
-      "finance/INDEX",
-      "financial-regulators/boj",
-      "financial-regulators/japan-exchange-group",
-      "megabanks/mizuho-fg",
-      "megabanks/mufg",
-      "megabanks/smfg",
-      "real-estate-finance/INDEX",
-      "regional-banks/japan-post-bank",
-      "securities-firms/daiwa-securities",
-      "securities-firms/mizuho-securities",
-      "securities-firms/mufg-securities",
-      "securities-firms/nomura-securities",
-      "securities-firms/smbc-nikko",
+      "derivatives/INDEX",
       "structured-finance/INDEX",
-      "structured-finance/abcp-conduit-japan-megabank",
       "structured-finance/credit-rating-methodology-jcr-r-and-i",
-      "structured-finance/japan-abs-market-overview",
-      "structured-finance/spv-tk-gk-vehicle-japan-tax"
+      "structured-finance/japan-securitization-product-matrix"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/ja/derivatives/japan-cds-market-overview/",
-      "https://finwiki.zksc.io/ja/domains/finance/",
-      "https://finwiki.zksc.io/ja/financial-regulators/boj/",
-      "https://finwiki.zksc.io/ja/financial-regulators/japan-exchange-group/",
-      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
-      "https://finwiki.zksc.io/ja/megabanks/mufg/",
-      "https://finwiki.zksc.io/ja/megabanks/smfg/",
-      "https://finwiki.zksc.io/ja/domains/real-estate-finance/",
-      "https://finwiki.zksc.io/ja/regional-banks/japan-post-bank/",
-      "https://finwiki.zksc.io/ja/securities-firms/mizuho-securities/",
-      "https://finwiki.zksc.io/ja/securities-firms/mufg-securities/",
-      "https://finwiki.zksc.io/ja/securities-firms/smbc-nikko/",
+      "https://finwiki.zksc.io/ja/domains/derivatives/",
       "https://finwiki.zksc.io/ja/domains/structured-finance/",
-      "https://finwiki.zksc.io/ja/structured-finance/abcp-conduit-japan-megabank/",
       "https://finwiki.zksc.io/ja/structured-finance/credit-rating-methodology-jcr-r-and-i/",
-      "https://finwiki.zksc.io/ja/structured-finance/japan-abs-market-overview/",
-      "https://finwiki.zksc.io/ja/structured-finance/spv-tk-gk-vehicle-japan-tax/"
+      "https://finwiki.zksc.io/ja/structured-finance/japan-securitization-product-matrix/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 3,
+    "external_links": [
+      "https://www.fsa.go.jp/policy/marketentry/guidebook/reference1.html",
+      "https://www.jcr.co.jp/en/pdf/dm28/General_Methodology20210802.pdf",
+      "https://www.jcr.co.jp/en/rrinfo/meth_sf/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 11587,
-    "word_like_tokens": 1789,
-    "inbound_wikilinks_count": 2,
+    "nonspace_chars": 3854,
+    "word_like_tokens": 560,
+    "inbound_wikilinks_count": 1,
     "last_modified": "2026-06-04"
   }
 }

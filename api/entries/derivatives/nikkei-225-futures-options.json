@@ -28,9 +28,9 @@
     "domain": "derivatives",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "derivatives",
@@ -56,14 +56,14 @@
       "https://www.fsa.go.jp/en/"
     ]
   },
-  "summary": "The Nikkei 225 futures and options complex listed on the Osaka Exchange (OSE) under Japan Exchange Group (JPX) is the largest exchange-traded derivative product set in Japan by daily turnover and the canonical hedge instrument for Japanese equity-beta exposure. The complex contains three principal c",
+  "summary": "The Nikkei 225 futures and options complex listed on the Osaka Exchange (OSE) under Japan Exchange Group (JPX) provides exchange-traded routes to Nikkei 225 equity exposure. The complex contains three futures sizes — large Nikkei 225 Futures, Nikkei 225 mini (one-tenth size), and Nikkei 225 Micro Fu",
   "headings": [
     "Nikkei 225 futures and options (OSE)",
     "TL;DR",
     "Wiki route",
     "Contract Specifications",
     "Trading Hours: OSE Day, OSE Night, and CME Globex",
-    "Mini and Micro: The Retail Layer",
+    "Mini and Micro: Contract-Size Layer",
     "Weekly Options",
     "Participant Mix",
     "Comparison with Other Nikkei-Linked Products",
@@ -113,8 +113,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 10930,
-    "word_like_tokens": 1770,
+    "nonspace_chars": 12592,
+    "word_like_tokens": 2058,
     "inbound_wikilinks_count": 4,
     "last_modified": "2026-06-04"
   }

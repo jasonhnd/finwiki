@@ -29,9 +29,9 @@
     "domain": "structured-finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "structured-finance",
@@ -47,24 +47,25 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.jcr.co.jp/en/",
-      "https://www.r-i.co.jp/en/",
-      "https://www.fsa.go.jp/en/",
-      "https://www.jsda.or.jp/en/"
+      "https://www.fsa.go.jp/menkyo/menkyoj/shinyoukakuduke.pdf",
+      "https://www.jcr.co.jp/en/service/company/company",
+      "https://www.r-i.co.jp/en/company/",
+      "https://www.jcr.co.jp/en/rrinfo/meth_sf/",
+      "https://jcr.co.jp/en/ratinglist/sf_sf/"
     ]
   },
-  "summary": "JCR (Japan Credit Rating Agency) and R&I (Rating and Investment Information) are Japan's two dominant domestic credit rating agencies for structured finance. Both are FSA-designated as credit rating agencies (the Japanese equivalent of NRSRO designation), and both publish detailed structured-finance",
+  "summary": "JCR and R&I are legal entities listed in Japan's FSA register of credit rating agencies. Registration is not an “NRSRO equivalent,” does not make their methodologies interchangeable, and does not establish that either agency is required or dominant for an asset class. A structured-finance conclusion",
   "headings": [
     "Credit rating methodology (JCR, R&I) for Japan structured finance",
     "TL;DR",
     "Wiki route",
-    "1. JCR — Japan Credit Rating Agency",
-    "2. R&I — Rating and Investment Information",
-    "3. FSA designation (NRSRO equivalent)",
-    "4. Methodology vs S&P / Moody's / Fitch",
-    "5. Structured-finance criteria — common elements",
-    "6. RMBS criteria specifics",
-    "7. CMBS criteria specifics"
+    "1. Agency identity and registration",
+    "2. Methodology evidence",
+    "3. Registration is not rating equivalence",
+    "4. Named-transaction comparison",
+    "5. Editorial boundary",
+    "Related",
+    "Sources"
   ],
   "body_links": {
     "wikilinks_count": 12,
@@ -96,13 +97,19 @@
       "https://finwiki.zksc.io/ja/structured-finance/jhf-mbs-vs-private-rmbs-spread/",
       "https://finwiki.zksc.io/ja/structured-finance/spv-tk-gk-vehicle-japan-tax/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 5,
+    "external_links": [
+      "https://jcr.co.jp/en/ratinglist/sf_sf/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/shinyoukakuduke.pdf",
+      "https://www.jcr.co.jp/en/rrinfo/meth_sf/",
+      "https://www.jcr.co.jp/en/service/company/company",
+      "https://www.r-i.co.jp/en/company/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 7865,
-    "word_like_tokens": 1176,
-    "inbound_wikilinks_count": 30,
+    "nonspace_chars": 6103,
+    "word_like_tokens": 994,
+    "inbound_wikilinks_count": 26,
     "last_modified": "2026-05-29"
   }
 }
