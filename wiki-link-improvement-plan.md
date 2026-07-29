@@ -61,7 +61,7 @@
 | `control-proposal` | 1 | 0 | 4.0 |
 | `cooperative-banks` | 46 | 0 | 13.2 |
 | `corporate-strategy` | 11 | 0 | 18.7 |
-| `derivatives` | 33 | 0 | 20.8 |
+| `derivatives` | 33 | 0 | 15.0 |
 | `exchanges` | 147 | 0 | 12.8 |
 | `finance` | 27 | 0 | 23.0 |
 | `financial-conglomerates` | 8 | 0 | 24.6 |
@@ -89,7 +89,7 @@
 | `securities` | 33 | 0 | 32.1 |
 | `securities-firms` | 37 | 0 | 18.5 |
 | `security` | 10 | 0 | 9.9 |
-| `structured-finance` | 30 | 0 | 23.4 |
+| `structured-finance` | 30 | 0 | 10.3 |
 | `systems` | 62 | 0 | 9.7 |
 | `trade` | 13 | 0 | 11.8 |
 | `trading-company-finance` | 8 | 0 | 28.3 |

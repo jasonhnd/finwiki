@@ -1,11 +1,11 @@
 ---
 source: derivatives/equity-volatility-hedging-corporates-japan
-source_hash: 21d5c779778f2634
+source_hash: f4785b8c6421136f
 lang: en
 status: machine
 fidelity: ok
 title: "Equity volatility hedging by Japan corporates"
-translated_at: 2026-05-31T03:19:56.496Z
+translated_at: 2026-07-29T20:00:00+09:00
 ---
 
 # Equity volatility hedging by Japan corporates
@@ -98,12 +98,14 @@ Public-source rationale for ESO hedging:
 
 ### The instrument set
 
-| Instrument | Use |
+The following table is a set of possible structures for legal, accounting and treasury review, not evidence that Japanese issuers generally adopt them. Grant-date measurement under IFRS 2 is distinct from later economic dilution management, and any own-share transaction remains subject to the Companies Act, FIEA and the issuer's approvals. ^[Sources: https://www.ifrs.org/issued-standards/list-of-standards/ifrs-2-share-based-payment/; https://elaws.e-gov.go.jp/document?lawid=417AC0000000086; https://www.jpx.co.jp/english/derivatives/products/individual/securities-options/01.html.]
+
+| Instrument | Possible use and boundary |
 |---|---|
-| **Single-name listed options on own stock (where listed)** | Buy calls to offset future-exercise dilution; constrained by treasury-share repurchase rules and insider-trading windows. |
-| **OTC option block** | Bilateral block call option from dealer; dealer hedges via delta-and-vega hedging. |
-| **Employee-trust share custody overlay** | Trust bank holds the underlying shares earmarked for ESO settlement; dealer hedges the corporate's net position. |
-| **Variance overlay** | Hedge the IFRS-2 fair-value volatility input via a variance swap referencing the underlying single name (less common given single-name vol-swap pricing). |
+| **Single-name listed option, where an eligible contract exists** | Potential economic overlay; it does not revise grant-date IFRS 2 measurement and requires legal review for own-share exposure. |
+| **Bilateral option** | Bespoke economic exposure subject to counterparty, documentation, valuation and insider-information controls. |
+| **Employee-trust share arrangement** | Possible share-delivery mechanism; its legal and accounting treatment depends on the disclosed trust structure. |
+| **Variance or volatility instrument** | Research or risk-management tool where available; not evidence of hedge-accounting eligibility or common issuer use. |
 
 ### Regulatory boundary
 
@@ -166,20 +168,20 @@ The dealer earns spread on the execution, financing on the inventory, and option
 
 ## Dealer franchise on equity OTC options
 
-Public-source observation on the corporate-side dealer franchise:
+The following table identifies public corporate groups and affiliations that can be verified from official group pages and the FSA registry. It is not a ranking of option-book depth, market share or transaction flow. ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.pdf; https://www.nomuraholdings.com/company/outline/; https://www.daiwa-grp.jp/english/about/; https://www.smfg.co.jp/english/company/organization/; https://www.mizuhogroup.com/who-we-are/company-information.]
 
-| Dealer | Strength on corporate equity OTC options |
+| Group / entity | Publicly verifiable context |
 |---|---|
-| **[[securities-firms/nomura-hd|Nomura]]** | Largest domestic corporate-coverage franchise; deepest single-name option book; cross-shareholding-unwinding flow dominance. |
-| **[[securities-firms/daiwa-sg|Daiwa SG]]** | Second-tier domestic corporate coverage; competitive structured-product franchise. |
-| **[[securities-firms/smbc-nikko|SMBC Nikko]]** | Megabank-affiliated; corporate-coverage strength via SMBC banking relationships; group-cross-shareholding flow channel. |
-| **[[securities-firms/mizuho-securities|Mizuho Securities]]** | Megabank-affiliated; corporate-coverage via Mizuho banking and trust integration; Dai-ichi Life adjacency. |
-| **[[securities-firms/goldman-sachs-japan|GS Japan]]** | Tier-1 global IB; deepest cross-border M&A and structured equity capability. |
-| **[[securities-firms/morgan-stanley-japan|MS Japan / MUMSS]]** | Tier-1 global IB + MUFG JV; dual-channel corporate coverage. |
-| **[[foreign-financial-institutions/jpmorgan-japan|JPM Japan]]** | Tier-1 global IB; banking-book + securities capability. |
-| **[[foreign-financial-institutions/citigroup-japan|Citi Japan]]** | Tier-1 global IB; FX-prime adjacency particularly valuable for cross-border M&A. |
+| **[[securities-firms/nomura-hd|Nomura]]** | Japan-headquartered securities group; confirm the contracting entity and current licence for a specific service. |
+| **[[securities-firms/daiwa-sg|Daiwa SG]]** | Japan-headquartered securities group; product capability requires current entity-level disclosure. |
+| **[[securities-firms/smbc-nikko|SMBC Nikko]]** | Securities entity within SMFG. |
+| **[[securities-firms/mizuho-securities|Mizuho Securities]]** | Securities entity within Mizuho Financial Group. |
+| **[[securities-firms/goldman-sachs-japan|Goldman Sachs Japan]]** | Japan entities within a global financial group; contracting scope must be verified. |
+| **[[securities-firms/morgan-stanley-japan|Morgan Stanley Japan / MUMSS]]** | Includes the Morgan Stanley–MUFG joint-venture structure; entity scope matters. |
+| **[[foreign-financial-institutions/jpmorgan-japan|JPMorgan Japan]]** | Japan banking and securities entities within a global group. |
+| **[[foreign-financial-institutions/citigroup-japan|Citigroup Japan]]** | Japan banking and securities entities within a global group. |
 
-The structural pattern: **domestic-corporate cross-shareholding and buyback flow** concentrates at the megabank securities arms; **cross-border M&A and complex structured equity** concentrates at the global IBs; the OTC equity-option book on the dealer side is hedged primarily via the listed [[securities/osaka-exchange|OSE]] Nikkei 225 options, single-name listed options, the underlying [[securities/tokyo-stock-exchange|TSE]] cash market, and the [[securities/japan-stock-lending-market-route|stock-loan market]] for delta hedging.
+Specific capabilities, hedge instruments and flow concentration require transaction or market-share evidence. The listed [[securities/osaka-exchange|OSE]] option market, [[securities/tokyo-stock-exchange|TSE]] cash market and [[securities/japan-stock-lending-market-route|stock-loan market]] are possible hedge venues, but no dealer-specific hedge route is inferred here.
 
 ## Related
 

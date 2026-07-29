@@ -1,11 +1,11 @@
 ---
 source: derivatives/japan-cms-constant-maturity-swap
-source_hash: 9b3a21384c19d0d6
+source_hash: ec18bb62b25d2a43
 lang: en
 status: machine
 fidelity: ok
 title: "Japan CMS (constant maturity swap) market"
-translated_at: 2026-05-31T03:19:56.420Z
+translated_at: 2026-07-29T21:20:00.000Z
 ---
 
 # Japan CMS (constant maturity swap) market
@@ -16,7 +16,7 @@ A constant maturity swap (CMS) is an OTC interest-rate derivative in which one l
 
 CMS is the structural building block for a range of yield-curve-shape-linked structured products distributed in Japan: CMS-linked notes (paying coupons indexed to the 10Y JPY swap rate), CMS-spread notes (paying coupons indexed to a 10Y-minus-2Y spread or similar curve-steepness measure), and CMS-capped / CMS-floored floaters. Pricing CMS requires a convexity adjustment because the CMS-rate payoff is non-linear in the underlying forward swap rate; the convexity correction depends on the implied volatility of the underlying swap rate, drawing directly on the [[derivatives/japan-swaption-market|JPY swaption vol grid]].
 
-For FinWiki, this entry covers CMS mechanics, the convexity adjustment, JPY use cases (CMS-linked notes, CMS-spread products), pricing inputs, and the dealer franchise.
+For FinWiki, this entry covers CMS mechanics, the convexity adjustment, JPY use cases (CMS-linked notes and CMS-spread products), pricing inputs, and the limits of public market-share evidence.
 
 ## Wiki route
 
@@ -62,21 +62,15 @@ CMS products in JPY serve several end-user purposes:
 | Product | Structure | End-user appeal |
 |---|---|---|
 | CMS-linked note (coupon = a + b × CMS-10Y) | Periodic coupons tied to the 10Y JPY swap rate | Yield enhancement vs vanilla floater; view that long-end rates will rise |
-| CMS-spread note (coupon = a + b × (CMS-10Y − CMS-2Y)) | Coupons tied to curve steepness | Yield pickup if the curve steepens; insurance against curve flattening |
-| CMS-capped floater | Floating coupon with a cap referencing a CMS rate | Defines upside on a floating note; popular when rate hike concerns exist |
+| CMS-spread note (coupon = a + b × (CMS-10Y − CMS-2Y)) | Coupons tied to a contractually defined curve spread | For a positive multiplier, the coupon generally benefits when the referenced spread stays above the relevant threshold; caps, floors, and signs can change the exposure |
+| CMS-capped floater | Floating coupon with a cap referencing a CMS rate | Defines the maximum coupon under the contractual formula |
 | CMS-floored floater | Floating coupon with a floor referencing a CMS rate | Defines downside in low-rate environment |
 | Range-accrual CMS | Coupon accrues only when CMS rate sits in a defined range | Yield enhancement on a directional view of curve range |
-| Snowball CMS | Coupons cumulatively increase based on past CMS rate observations | Highly path-dependent; episodic distribution |
+| Snowball CMS | Coupons depend on past CMS-rate observations under a contract-specific formula | Path-dependent exposure whose payoff must be checked in the note or confirmation |
 
-End-users of CMS-linked notes in Japan span:
+Source: ^[source:https://www.isda.org/a/ORiDE/isda-rates.pdf]
 
-- **Regional banks**: Yield-enhancement on JPY bond portfolios when vanilla coupon income is insufficient.
-- **Trust banks / pension funds**: Curve-shape-linked allocations as part of broader fixed-income mandates.
-- **High-net-worth retail (via private banking)**: Distribution of CMS-spread notes paying enhanced coupons.
-- **Life insurers**: Selective use as part of ALM-portfolio building blocks.
-- **Corporate treasury**: Limited direct use; more reliance on vanilla IRS.
-
-Volumes are episodic and concentrated in periods when the JPY swap curve presents an attractive shape vs flat-yield alternatives.
+These are payoff archetypes, not evidence of a particular investor class, sales channel, or level of activity. Those facts are transaction- and distribution-specific and should be verified in the relevant prospectus, confirmation, or issuer disclosure.
 
 ## Pricing Inputs
 
@@ -92,18 +86,9 @@ A complete CMS pricing engine for JPY requires:
 
 CMS-spread products are particularly sensitive to the correlation between two swap rates (e.g., 10Y vs 2Y) because the spread payoff has lower volatility than either tenor alone; mispricing correlation can materially mis-value the product.
 
-## Dealer Franchise
+## Public-data boundary
 
-JPY CMS market making sits within the broader rates structuring desks at:
-
-| Dealer category | Activity |
-|---|---|
-| Japanese megabank securities affiliates (MUFG Securities, SMBC Nikko, Mizuho Securities) | Structuring CMS-linked and CMS-spread notes for distribution via banking-channel and securities-channel clients; warehousing CMS risk against swaption book |
-| Independent Japanese securities (Nomura, Daiwa) | Structured-product origination with retail and institutional distribution |
-| Global investment banks (JPMorgan, Goldman, Citi, Deutsche, BNP, Barclays, HSBC) | CMS market making for institutional flow; cross-border distribution; cross-currency CMS-spread products |
-| Inter-dealer brokers | Limited; CMS is more dealer-to-end-client than IDB-traded |
-
-Dealer P&L from CMS products is part of the broader rates / structured-products line in IR; not separately disclosed.
+The official sources cited here describe interest-rate-derivative mechanics and JSCC's eligible IRS products; they do not publish a current dealer ranking, CMS market share, or Japan-specific CMS turnover series. A named-dealer or liquidity-franchise comparison therefore requires a dated public transaction, prospectus, venue dataset, or dealer disclosure and is not inferred here.
 
 ## Liquidity and Market Depth
 
@@ -143,10 +128,6 @@ JPY CMS is predominantly bilateral. JSCC has not extended clearing scope to CMS 
 
 ## Sources
 
-- BIS: Semi-annual OTC Derivatives Statistics (JPY interest-rate derivatives).
-- Bank of Japan: Japan portion of BIS OTC derivatives survey.
-- Japan Securities Clearing Corporation: Clearing scope and product registry.
-- Financial Services Agency: FIEA framework on OTC derivatives and structured-product distribution.
-- ISDA: Standard documentation; product definitions for swap and CMS variants.
-- Academic literature: Brigo-Mercurio "Interest Rate Models — Theory and Practice"; Hagan papers on CMS convexity.
-- Industry publications: Risk Magazine, GlobalCapital structured-products coverage.
+- ISDA: Disclosure Annex for Interest Rate Transactions — product mechanics and valuation-risk disclosures: https://www.isda.org/a/ORiDE/isda-rates.pdf
+- ISDA: RFR Conventions and IBOR Fallbacks Product Table — benchmark and convention context: https://www.isda.org/a/bdigE/RFR-Conventions-and-IBOR-Fallbacks-Product-Table-October-2021.pdf
+- JSCC: Eligible IRS products — clearing-scope check: https://www.jpx.co.jp/jscc/en/cash/irs/product.html

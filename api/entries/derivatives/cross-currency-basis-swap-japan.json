@@ -28,9 +28,9 @@
     "domain": "derivatives",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "derivatives",
@@ -45,11 +45,11 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.boj.or.jp/en/paym/market/index.htm",
-      "https://www.boj.or.jp/en/announcements/release_2008/index.htm",
+      "https://www.boj.or.jp/en/mopo/measures/mkt_ope/ope_h/index.htm",
+      "https://www.boj.or.jp/en/mopo/measures/mkt_ope/ope_h/opetori13.htm",
       "https://www.federalreserve.gov/monetarypolicy/bst_liquidityswaps.htm",
-      "https://www.isda.org/",
-      "https://www.bis.org/publ/qtrpdf/r_qt1709.htm"
+      "https://www.isda.org/a/ORiDE/isda-rates.pdf",
+      "https://www.bis.org/publ/qtrpdf/r_qt1609e.htm"
     ]
   },
   "summary": "A cross-currency basis swap (CCBS) is an OTC derivative in which two counterparties exchange floating-rate interest payments in two different currencies, with the principal also exchanged at inception and re-exchanged at maturity. The \"basis\" is the spread quoted on one leg (conventionally the non-U",
@@ -107,9 +107,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 13736,
-    "word_like_tokens": 2419,
+    "nonspace_chars": 11788,
+    "word_like_tokens": 2084,
     "inbound_wikilinks_count": 12,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-29"
   }
 }

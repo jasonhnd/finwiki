@@ -1,11 +1,11 @@
 ---
 source: derivatives/cross-currency-basis-swap-japan
-source_hash: dca35ba5aaeece95
+source_hash: 36cd967c0ee1eedf
 lang: en
 status: machine
 fidelity: ok
 title: "Cross-currency basis swap (Japan focus)"
-translated_at: 2026-05-31T03:19:56.465Z
+translated_at: 2026-07-29T21:20:00.000Z
 ---
 
 # Cross-currency basis swap (Japan focus)
@@ -29,6 +29,8 @@ A standard JPY-USD 5Y CCBS works like this:
 | t=0 | Counterparty A delivers JPY notional to Counterparty B; B delivers USD notional to A at the prevailing spot rate. |
 | t=0 → T | A pays USD floating (typically 3M USD SOFR + spread) to B; B pays JPY floating (typically 3M JPY TONA / LIBOR-equivalent + basis spread) to A. |
 | t=T | Principals re-exchanged at the original spot rate (not the maturity rate). |
+
+Source: ^[source:https://www.isda.org/a/ORiDE/isda-rates.pdf]
 
 The basis spread is the adjustment applied on top of the non-USD floating index that makes the swap zero-NPV at inception. By convention, the JPY-USD basis is quoted as the spread paid on the JPY-leg payer side: a "negative basis" of -50bp means the JPY-leg payer pays JPY-floating LESS 50bp, which corresponds to the JPY funder needing to give up 50bp of yield to get hold of USD. The wider (more negative) the basis, the costlier it is for a yen-rich entity to swap yen into dollars on a hedged basis.
 
@@ -55,17 +57,11 @@ Covered interest parity (CIP) says that under no-arbitrage, the basis should be 
 4. Limited USD supply through arbitrage channels because of leverage ratio caps on US bank dealers.
 5. Differential post-2008 monetary policy regimes (BoJ near-zero rates while Fed normalized; the carry vs hedge cost mismatch).
 
-The BIS Quarterly Review series has tracked CIP deviations extensively. The pattern repeats across EUR-USD, GBP-USD, AUD-USD bases, but JPY-USD is structurally one of the most persistently wide because of Japan's deep pool of yen-denominated savings that need to find USD return.
+The cited BIS analysis documents covered-interest-parity deviations and balance-sheet and hedging-demand mechanisms. It does not establish a timeless ranking of currency pairs or a single investor-cause explanation.
 
 ## JPY-USD vs EUR-USD basis dynamics
 
-Both bases are persistently negative (USD demand exceeds CIP-implied supply), but JPY-USD tends to be more persistent and wider than EUR-USD. The differential reflects:
-
-- Japan's larger absolute pool of yen savings seeking USD assets relative to euro-zone equivalents.
-- ECB / Eurosystem operations vs BoJ operations differ in scope; see [[money-market/boj-open-market-operations|BoJ open market operations]].
-- Different regulatory treatment of FX-hedged carry in life-insurer ALM frameworks across jurisdictions.
-
-The two bases co-move during global USD-funding stress episodes (e.g., March 2020 covid), but the JPY-USD basis was the one that widened most sharply and required the largest central-bank swap-line drawdown.
+A valid JPY-USD versus EUR-USD comparison must align the observation date, maturity, spread-bearing leg, sign convention, and source. Global dollar stress can affect both, but the cited sources do not support an undated claim that one is always wider or required the largest swap-line drawdown.
 
 ### Term-structure of basis
 
@@ -84,16 +80,17 @@ The shape can invert during stress: short-end widens sharply while long-end rema
 
 ## Year-end / quarter-end widening
 
-CCBS basis routinely widens at quarter-ends, especially year-end, because dealer banks reduce balance-sheet provision into reporting dates. The pattern is:
+The BIS documents yen-dollar quarter-end spikes from 2014 and links them to tighter balance-sheet constraints. It does not establish a fixed two-week calendar rule or guarantee an immediate reversal:
 
-| Period | Typical JPY-USD 3M basis behavior |
+| Observation window | Evidence-based reading |
 |---|---|
-| Mid-quarter | Range-trading around prevailing structural level. |
-| Last 2 weeks of quarter | Sharp widening (more negative) as dealers withdraw. |
-| First week of new quarter | Snap-back toward structural level. |
-| Year-end (December) | Largest widening of the calendar year. |
+| Quarter-end | Yen-dollar basis can show spikes as balance-sheet-intensive arbitrage becomes more costly. |
+| Year-end | Reporting-date effects can be pronounced, but size and sign must be checked against a dated market series. |
+| After the reporting date | Reversal is possible, not automatic; persistent widening may reflect funding demand or broader stress. |
 
-This pattern is well-documented in BIS Quarterly Review research and is reflected in spot vs forward-implied basis curves. Japanese banks (notably [[megabanks/mufg-bank|MUFG Bank]], [[megabanks/sumitomo-mitsui-banking-corp|Sumitomo Mitsui Banking Corp]], and [[megabanks/mizuho-bank|Mizuho Bank]]) are dominant counterparties on the JPY-USD basis market and feel both sides of these dynamics.
+Source: ^[source:https://www.bis.org/publ/qtrpdf/r_qt1609e.htm]
+
+The cited public research supports the mechanism at aggregate level; it does not rank individual Japanese banks' CCBS activity.
 
 ## Central bank swap lines
 
@@ -101,7 +98,7 @@ Permanent / standing FX swap lines between the Fed and a small group of central 
 
 - Fed lends USD to BoJ against JPY collateral at an OIS-linked rate.
 - BoJ on-lends USD to Japanese banks via auctions (US Dollar Funds-Supplying Operations against pooled collateral).
-- The mechanism caps how wide the CCBS basis can practically go during stress because Japanese banks have an alternative USD source.
+- The mechanism provides an alternative source of USD funding under announced terms; it does not guarantee or cap a market basis quote.
 
 BoJ-Fed swap-line drawdowns spiked during the 2008-2009 crisis and again in March-April 2020 during the covid funding shock. After each episode, drawdowns normalized to zero and the standing facility reverted to backstop status.
 
@@ -113,13 +110,15 @@ When activated, the operation typically works as follows:
 
 | Step | Action |
 |---|---|
-| 1 | BoJ announces auction parameters (size, tenor, frequency) via press release. |
-| 2 | Eligible Japanese counterparties (mainly megabanks and major regional / trust banks) submit bids against pooled JGB collateral. |
-| 3 | Allocation against bid rate (or fixed-rate, full-allotment in stress mode). |
-| 4 | USD delivered to bidder accounts via correspondent-banking arrangements. |
-| 5 | USD repaid at maturity (typically 7-day, 84-day, or 3M tenors during stress periods). |
+| 1 | BoJ selects auction participants from eligible counterparties and notifies the loan dates, bid cut-off, loan rate, and other terms through BOJ-NET. |
+| 2 | Participants submit requested amounts; under the current outline, BoJ accepts notified amounts unless it exercises its right to reject all or part. |
+| 3 | The loan rate is determined by the Federal Reserve Bank of New York. |
+| 4 | Borrowers pledge eligible pooled collateral above the notified benchmark yen value. |
+| 5 | BoJ disburses dollars through borrower-specified USD accounts at the FRBNY; principal and interest are repaid on the notified maturity date. |
 
-The facility was used heavily in 2020-Q1 / Q2 with 7-day, 14-day, 84-day operations; aggregate outstanding peaked at over USD 200bn before normalization. The presence of the facility itself is part of why the JPY-USD basis is "anchored" rather than allowed to widen indefinitely in stress.
+Source: ^[source:https://www.boj.or.jp/en/mopo/measures/mkt_ope/ope_h/opetori13.htm]
+
+The exact tenor and frequency are offer-specific. In March 2020, the six central banks moved seven-day operations to daily frequency and continued weekly 84-day operations; this should not be generalized into a permanent 7-day / 84-day / 3M menu. ^[source:https://www.federalreserve.gov/newsevents/pressreleases/monetary20200320a.htm]
 
 ## Corporate JPY funding for USD project
 
@@ -129,69 +128,47 @@ A non-Japanese multinational with a JPY-denominated bond issuance can use a CCBS
 2. Enter a CCBS: pay JPY fixed (matching the bond), receive USD floating + basis adjustment.
 3. Use the USD proceeds for the intended project.
 
-The all-in USD funding cost equals the JPY bond coupon swapped to USD, adjusted for the prevailing basis. When the JPY-USD basis is sharply negative, this route can be cheaper than direct USD bond issuance for the issuer, while simultaneously giving the dealer counterparty (typically a Japanese megabank) profitable basis exposure.
+The all-in comparison requires same-date issuer credit curves, issuance costs, swap cash flows, collateral, FX convention, and executable quotes. Neither issuer savings nor dealer profit follows from the sign of a basis quote alone.
 
 ## Life-insurer USD bond hedging cost
 
-The dominant structural buyer of CCBS hedging from the Japan side is the Japan life-insurance sector. Life insurers hold large USD-denominated bond portfolios as yield-pickup vs domestic JGBs (see [[insurance/japan-life-insurance-alm-overview|Japan life-insurance ALM overview]]). To eliminate FX risk on those holdings, they use a combination of:
+An institution with foreign-currency assets may use forwards, swaps, options, or no hedge, but product, maturity, hedge ratio, and direction require a dated institution-specific disclosure. The public sources cited here do not establish that life insurers are the dominant CCBS buyer or prescribe a 3M / 1Y / 3Y–10Y hedge mix.
 
-- Rolling 3M FX forwards.
-- 1Y FX forwards.
-- Long-dated CCBS (3Y, 5Y, 10Y) for stable structural hedges.
+### Hedge-cost calculation
 
-The total all-in hedged USD yield equals USD bond coupon - hedge cost (forward points and basis spread). In periods of wide negative JPY-USD basis (e.g., late-2010s and 2022-2023), the all-in hedged yield on a 10Y US Treasury can shrink to near-zero or even turn negative vs JGBs, which prompts life-insurer reallocation back to JGBs or unhedged USD bonds. The flow shift is one of the most-watched dynamics in global fixed-income markets.
+Use same-vintage executable inputs rather than a timeless numerical example:
 
-### Numerical illustration
-
-A stylized example to make the mechanics concrete. Consider a 10Y US Treasury at 4.5% yield and a 10Y JGB at 1.0%. The naive carry is 350bp. Now overlay hedge cost:
-
-| Component | Approximate value (illustrative) |
+| Component | Measurement rule |
 |---|---|
-| 10Y UST yield | 4.5% |
-| Implied 3M-rolling FX forward hedge cost | ~2.5-3.0% (driven by short-rate differential) |
-| Plus 5Y JPY-USD CCBS basis spread | ~30-50bp (negative) |
-| All-in hedged USD yield | ~1.2-1.7% |
-| 10Y JGB yield | ~1.0% |
-| Net pickup vs JGB | ~20-70bp |
+| Unhedged USD bond return | Bond yield or expected holding-period return on the chosen valuation date |
+| FX-forward component | Annualized cost implied by the exact forward schedule and spot FX used for the hedge |
+| Cross-currency basis component | Executable basis quote for the hedge tenor, with quote-side and leg convention stated |
+| Hedged JPY return | Unhedged USD return less the contract-specific hedge components and transaction costs |
+| Comparison asset | Same-date JGB yield or return at a duration consistent with the USD asset |
 
-The exact numbers fluctuate substantially over time, but the pattern is consistent: when the JPY-USD basis is wide and short-rate differential is large, the all-in hedged USD yield converges toward JGB yield, leaving little extra reward for the operational complexity and credit exposure of holding hedged USD bonds. This is a recurring decision point in life-insurer ALM committees.
+Source: ^[source:https://www.bis.org/publ/qtrpdf/r_qt1609e.htm]
+
+The removed 4.5%, 1.0%, and 20–70 bp figures had no valuation date or primary-source quote and therefore were not reproducible.
 
 ## Market participants and flow taxonomy
 
-The JPY-USD CCBS market is structurally lopsided. Typical flow taxonomy:
+Possible contractual directions can be described without assigning them to an investor class:
 
-| Flow direction | Typical participant | Position |
+| Flow direction | Economic reading | Evidence boundary |
 |---|---|---|
-| Pay USD floating, receive JPY floating + basis | Japan-domiciled USD asset holder hedging | Net USD borrower (synthetic) |
-| Pay JPY floating + basis, receive USD floating | Non-Japan corporate raising synthetic JPY | Net JPY borrower (synthetic) |
-| Dealer (megabank / global bank) | Intermediates between the two sides | Holds residual basis exposure under risk limits |
-| Speculative (hedge fund) | Takes basis-narrowing or widening view | Small share in stress periods, larger in tranquil periods |
+| Pay the defined USD leg, receive the defined JPY leg | USD-paying exposure under the confirmation | Purpose and end-user identity require transaction evidence |
+| Pay the defined JPY leg, receive the defined USD leg | JPY-paying exposure under the confirmation | Spread sign and leg convention must be stated |
+| Intermediated or offsetting position | Residual risks depend on hedges, collateral, and netting | Dealer P&L and inventory are not observable from product name |
 
-The structural imbalance — much more Japan-domiciled USD-asset-hedging demand than non-Japan JPY-borrowing demand — explains why the basis sits persistently negative rather than reverting to CIP zero.
+Source: ^[source:https://www.isda.org/a/ORiDE/isda-rates.pdf]
 
 ### Major dealer franchises
 
-Dealer participation is concentrated:
-
-- [[megabanks/mufg-bank|MUFG Bank]]: significant balance-sheet and Japan-corporate franchise; long-standing PB / dealer in JPY-USD basis market.
-- [[megabanks/sumitomo-mitsui-banking-corp|Sumitomo Mitsui Banking Corp]]: similar profile; SMFG group-wide cross-business synergy.
-- [[megabanks/mizuho-bank|Mizuho Bank]]: strong corporate / financial-institution dealing franchise; deep JGB collateral integration.
-- Citi, JPMorgan, Goldman Sachs, Morgan Stanley: dominant foreign dealers; especially active during stress periods when megabank balance sheet is constrained.
-- Nomura, Daiwa: also participate, especially in life-insurer-related flow and longer-tenor structures.
-
-The concentration creates pricing-dispersion opportunities: a Japan corporate or insurer running a multi-dealer panel can capture pricing improvements of several basis points on large notional trades by sourcing pricing competitively.
+The cited official sources do not publish a current dealer ranking, named-firm market share, stress-period dominance, or guaranteed multi-dealer price improvement. Those claims require dated venue, RFQ, transaction, or dealer-disclosure evidence.
 
 ## Regulatory and documentation framework
 
-CCBS trades are documented under ISDA master agreements with CSA collateralization. Specific features:
-
-- ISDA 2002 master is the typical reference document; some Japanese counterparties also use the Japanese-law equivalent.
-- CSA terms specify collateral currency (JPY vs USD), eligible collateral types, threshold, minimum transfer amount, and valuation methodology.
-- Post-2008 reforms pushed standardized CCBS toward central clearing where eligible (CME, LCH SwapClear), though Japan CCBS clearing adoption has been slower than for USD IRS.
-- BoJ and FSA monitor systemic exposure via trade-repository reporting under FIEA derivatives reporting rules.
-- Capital treatment under Basel III (counterparty credit risk, CVA charge) influences dealer pricing especially for non-cleared trades.
-
-The economic effect is that bilateral non-cleared CCBS pricing carries an embedded capital charge that widens the basis from what would prevail in a fully-cleared, fully-collateralized environment.
+Documentation, governing law, collateral, reporting, clearing, and capital treatment are transaction- and counterparty-specific. An ISDA 1992 or 2002 form, a CSA, or a CCP cannot be assumed without reviewing the executed documents and current eligible-product and regulatory scope. Likewise, a quantified capital component of the basis requires a pricing model and dated inputs.
 
 ## Related
 
@@ -214,7 +191,7 @@ The economic effect is that bilateral non-cleared CCBS pricing carries an embedd
 
 ## Sources
 
-- Bank of Japan: Money Markets page and US Dollar Funds-Supplying Operations announcements.
+- Bank of Japan: U.S. Dollar Funds-Supplying Operations against Pooled Collateral and transaction outline.
 - Federal Reserve: Central bank liquidity swap line page.
 - Bank for International Settlements: Quarterly Review research on CIP deviations.
-- ISDA: master-agreement and CSA frameworks for cross-currency swap documentation.
+- ISDA: interest-rate derivatives disclosure annex describing cross-currency swaps.

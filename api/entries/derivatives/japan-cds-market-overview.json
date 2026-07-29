@@ -28,9 +28,9 @@
     "domain": "derivatives",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "derivatives",
@@ -48,31 +48,30 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.isda.org/",
-      "https://www.fsa.go.jp/en/refer/councils/follow-up/index.html",
-      "https://www.jpx.co.jp/jscc/en/cds/index.html",
-      "https://www.theice.com/clear-credit",
-      "https://ihsmarkit.com/products/markit-itraxx.html",
-      "https://www.boj.or.jp/en/statistics/index.htm",
-      "https://www.bis.org/statistics/derstats.htm",
-      "https://www.jsda.or.jp/en/"
+      "https://www.jpx.co.jp/jscc/en/otc/member_cds.html",
+      "https://www.jpx.co.jp/jscc/en/cash/cds/product.html",
+      "https://www.jpx.co.jp/jscc/en/cash/cds/clearing.html",
+      "https://www.jpx.co.jp/jscc/en/participant/cds/cds2.html",
+      "https://www.jpx.co.jp/jscc/en/cds_archive/index.html",
+      "https://www.spglobal.com/spdji/en/documents/methodologies/iTraxx_Japan_Index_Rules.pdf",
+      "https://www.bis.org/statistics/derstats.htm"
     ]
   },
-  "summary": "The Japan credit default swap (CDS) market is a small but structurally important corner of the global credit derivatives universe. The dominant index reference is iTraxx Japan, the IHS Markit / S&P Global benchmark covering 50 investment-grade Japanese corporate names rolled every six months. Single",
+  "summary": "JSCC started index CDS clearing on 19 July 2011 and single-name CDS clearing on 15 December 2014. Its service page states that coverage comprised index CDS and 60 single-name issues as of 16 September 2025, while the live product page lists the eligible iTraxx Japan series and reference entities. Th",
   "headings": [
     "Japan CDS market overview",
     "TL;DR",
     "Wiki route",
-    "Product taxonomy",
-    "iTraxx Japan composition",
-    "Single-name CDS coverage",
-    "Dealer set",
-    "Notional outstanding",
-    "Clearing infrastructure",
-    "CDS spread quoting"
+    "Product and clearing scope",
+    "Service chronology",
+    "What the public clearing pages prove",
+    "CDS and clearing mechanics",
+    "Contract fields and quote interpretation",
+    "iTraxx Japan rule boundary",
+    "Market measurement boundary"
   ],
   "body_links": {
-    "wikilinks_count": 23,
+    "wikilinks_count": 12,
     "wikilinks": [
       "INDEX",
       "banking/INDEX",
@@ -85,18 +84,7 @@
       "derivatives/structured-product-eb-knockin-japan-retail",
       "derivatives/yen-basis-swap-market",
       "finance/INDEX",
-      "finance/japan-convertible-bond-mechanics",
-      "finance/japan-cross-shareholding-unwinding-economics",
-      "insurance/japan-life-insurance-alm-overview",
-      "megabanks/mizuho-bank",
-      "megabanks/mufg",
-      "megabanks/sumitomo-mitsui-banking-corp",
-      "securities-firms/daiwa-sg",
-      "securities-firms/goldman-sachs-japan",
-      "securities-firms/morgan-stanley-japan",
-      "securities-firms/nomura-hd",
-      "securities-firms/smbc-nikko",
-      "securities/japan-prime-brokerage-and-institutional-financing"
+      "insurance/japan-life-insurance-alm-overview"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX.md",
@@ -110,26 +98,23 @@
       "https://finwiki.zksc.io/ja/derivatives/structured-product-eb-knockin-japan-retail/",
       "https://finwiki.zksc.io/ja/derivatives/yen-basis-swap-market/",
       "https://finwiki.zksc.io/ja/domains/finance/",
-      "https://finwiki.zksc.io/ja/finance/japan-convertible-bond-mechanics/",
-      "https://finwiki.zksc.io/ja/finance/japan-cross-shareholding-unwinding-economics/",
-      "https://finwiki.zksc.io/ja/insurance/japan-life-insurance-alm-overview/",
-      "https://finwiki.zksc.io/ja/megabanks/mizuho-bank/",
-      "https://finwiki.zksc.io/ja/megabanks/mufg/",
-      "https://finwiki.zksc.io/ja/megabanks/sumitomo-mitsui-banking-corp/",
-      "https://finwiki.zksc.io/ja/securities-firms/daiwa-sg/",
-      "https://finwiki.zksc.io/ja/securities-firms/goldman-sachs-japan/",
-      "https://finwiki.zksc.io/ja/securities-firms/morgan-stanley-japan/",
-      "https://finwiki.zksc.io/ja/securities-firms/nomura-hd/",
-      "https://finwiki.zksc.io/ja/securities-firms/smbc-nikko/",
-      "https://finwiki.zksc.io/ja/securities/japan-prime-brokerage-and-institutional-financing/"
+      "https://finwiki.zksc.io/ja/insurance/japan-life-insurance-alm-overview/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 7,
+    "external_links": [
+      "https://www.bis.org/statistics/derstats.htm",
+      "https://www.jpx.co.jp/jscc/en/cash/cds/clearing.html",
+      "https://www.jpx.co.jp/jscc/en/cash/cds/product.html",
+      "https://www.jpx.co.jp/jscc/en/cds_archive/index.html",
+      "https://www.jpx.co.jp/jscc/en/otc/member_cds.html",
+      "https://www.jpx.co.jp/jscc/en/participant/cds/cds2.html",
+      "https://www.spglobal.com/spdji/en/documents/methodologies/iTraxx_Japan_Index_Rules.pdf"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 13701,
-    "word_like_tokens": 2159,
-    "inbound_wikilinks_count": 11,
-    "last_modified": "2026-06-04"
+    "nonspace_chars": 8485,
+    "word_like_tokens": 1425,
+    "inbound_wikilinks_count": 10,
+    "last_modified": "2026-07-29"
   }
 }

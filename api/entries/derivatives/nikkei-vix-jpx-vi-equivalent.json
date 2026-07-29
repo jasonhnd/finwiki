@@ -11,10 +11,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/derivatives/nikkei-vix-jpx-vi-equivalent.md",
   "raw_markdown_url": "https://finwiki.zksc.io/derivatives/nikkei-vix-jpx-vi-equivalent.md",
   "domain": "derivatives",
-  "title": "Nikkei VIX / JPX-VI — Japan equity volatility index",
+  "title": "Nikkei 225 VI — Japan equity volatility index",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Nikkei VIX / JPX-VI — Japan equity volatility index",
+    "title": "Nikkei 225 VI — Japan equity volatility index",
     "aliases": [
       "nikkei-vix-jpx-vi-equivalent",
       "JPX-VI",
@@ -29,19 +29,18 @@
     "domain": "derivatives",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "derivatives",
       "equity-vol",
       "volatility-index",
-      "JPX-VI",
+      "Nikkei-225-VI",
       "Nikkei-225",
       "options",
-      "ETF",
-      "ETN",
+      "futures",
       "BOJ"
     ],
     "status": "active",
@@ -49,27 +48,29 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.jpx.co.jp/english/markets/indices/jpx-vi/",
-      "https://www.jpx.co.jp/english/markets/derivatives/",
-      "https://indexes.nikkei.co.jp/en/nkave/index/profile?idx=nk225",
-      "https://www.jpx.co.jp/english/markets/derivatives/options/",
-      "https://www.jscc.co.jp/en/",
-      "https://www.cboe.com/tradable_products/vix/",
+      "https://indexes.nikkei.co.jp/en/nkave/index/profile?idx=nk225vi",
+      "https://indexes.nikkei.co.jp/nkave/archives/news/20250120E_2.pdf",
+      "https://www.jpx.co.jp/english/derivatives/products/vi/225-vi-futures/01.html",
+      "https://www.jpx.co.jp/english/equities/products/etfs/issues/01.html",
+      "https://www.jpx.co.jp/english/equities/products/etns/issues/01.html",
+      "https://www.cboe.com/tradable-products/vix",
+      "https://www.boj.or.jp/en/mopo/mpmdeci/index.htm",
+      "https://www.mof.go.jp/english/policy/international_policy/reference/feio/index.html",
       "https://www.fsa.go.jp/en/"
     ]
   },
-  "summary": "JPX-VI matters because it is the only publicly disseminated, exchange-published measure of Japan-equity implied volatility — used by domestic asset managers for risk-overlay sizing, by foreign macro funds as the \"fear gauge\" for Japan equity beta, and by structured-product desks as the input to vola",
+  "summary": "The index itself is a reference value, while OSE lists Nikkei 225 VI Futures on it. Those futures are therefore a direct listed route to the index's future level; trading the underlying Nikkei 225 option strip and bilateral volatility derivatives are separate routes.",
   "headings": [
-    "Nikkei VIX / JPX-VI — Japan equity volatility index",
+    "Nikkei 225 VI — Japan equity volatility index",
     "TL;DR",
     "Wiki route",
-    "Why JPX-VI matters",
+    "Why Nikkei 225 VI matters",
     "Index methodology",
     "Term structure",
-    "Comparison to CBOE VIX",
-    "ETF and ETN products",
-    "Mean reversion and BOJ events",
-    "Use cases by client type"
+    "Comparison to Cboe VIX",
+    "ETF and ETN verification",
+    "Event-study boundary",
+    "Review questions by user type"
   ],
   "body_links": {
     "wikilinks_count": 24,
@@ -129,9 +130,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 16586,
-    "word_like_tokens": 2778,
+    "nonspace_chars": 13902,
+    "word_like_tokens": 2281,
     "inbound_wikilinks_count": 8,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-29"
   }
 }

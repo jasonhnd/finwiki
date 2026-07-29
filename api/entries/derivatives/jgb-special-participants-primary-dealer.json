@@ -29,9 +29,9 @@
     "domain": "derivatives",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "derivatives",
@@ -49,15 +49,12 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.mof.go.jp/english/policy/jgbs/topics/special_participants/index.htm",
-      "https://www.mof.go.jp/english/policy/jgbs/",
-      "https://www.boj.or.jp/en/paym/market/",
-      "https://www.fsa.go.jp/en/",
-      "https://www.newyorkfed.org/markets/primarydealers",
-      "https://www.bankofengland.co.uk/markets/gilt-edged-market-makers"
+      "MOF Special Participants page — https://www.mof.go.jp/english/policy/jgbs/debt_management/pd/index.html",
+      "MOF Special Participants list dated 27 December 2023 — https://www.mof.go.jp/english/policy/jgbs/debt_management/pd/231227.pdf",
+      "MOF terms and conditions dated 25 April 2024 — https://www.mof.go.jp/english/policy/jgbs/debt_management/pd/20240425.pdf"
     ]
   },
-  "summary": "The JGB Special Participants system (国債市場特別参加者制度) is Japan's primary dealer regime: a Ministry of Finance (MoF)-administered framework under which a defined set of financial institutions are recognized as the principal counterparties to MoF JGB auctions in exchange for accepting bid-and-make-market",
+  "summary": "The JGB Special Participants system (国債市場特別参加者制度) is a Ministry of Finance framework introduced in October 2004. Participants accept auction-bidding, purchase, secondary-market-liquidity, and information-provision responsibilities under MOF's published terms. The linked MOF list dated 27 December 20",
   "headings": [
     "JGB Special Participants (Japan primary dealer system)",
     "TL;DR",
@@ -128,9 +125,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 12604,
-    "word_like_tokens": 1966,
+    "nonspace_chars": 8808,
+    "word_like_tokens": 1376,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-29"
   }
 }

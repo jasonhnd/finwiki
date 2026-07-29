@@ -1,126 +1,81 @@
 ---
 source: structured-finance/japan-rmbs-issuance-structure
-source_hash: 32452d89f45d5fad
+source_hash: 28596d277446d4cf
 lang: ja
 status: machine
 fidelity: ok
-title: "日本の RMBS 発行ストラクチャー"
-translated_at: 2026-06-19T12:43:19.896Z
+title: "日本の民間RMBS発行ストラクチャー — 特定取引の根拠確認ガイド"
+translated_at: 2026-07-29T10:06:23.508Z
 ---
 
-# 日本の RMBS 発行ストラクチャー
+# 日本の民間RMBS発行ストラクチャー — 特定取引の根拠確認ガイド
 
 ## TL;DR
 
-日本のプライベート RMBS は通常、メガバンクが組成した住宅ローンを裏付けとするジャンボ案件である。これらは JHF MBS と並存しつつも区別される。JHF MBS は政府支援型で、フラット 35  の固定金利ローンを裏付けとするのに対し、プライベート RMBS はメガバンクの組成で、独自の信用補完とストラクチャーを持つ。シニアクラスは通常、高い投資適格格付けを受け、メザニンおよびエクイティクラスが信用リスクを吸収する。[[structured-finance/INDEX]] におけるプライベート RMBS のストラクチャーレイヤーを理解し、[[structured-finance/jhf-mbs-mechanics]] と対比するためにこのページを用いること。
+従来のページでは、民間RMBSのオリジネーター、信託の選好、トランシェ数、信用補完、格付、スプレッド、投資家を一般化していた。これらの主張は削除した。民間RMBSの条件は取引ごとに異なる。JHF MBSについては別途、公的資料に基づいて記載している。JHFは受益権行使事由の発生前に元利金を適時に支払う義務を負う。このストラクチャーは、一般的なシニア / 劣後構成でも、JHFによる別個の保証でもない。
 
-## Wiki route
+## Wiki内の参照先
 
-| You want | Go to |
+本ページは、[[structured-finance/jhf-mbs-mechanics]]、[[structured-finance/jhf-mbs-vs-private-rmbs-spread]]、[[structured-finance/japan-trust-beneficial-interest-vs-spv]]と併せて参照する。
+
+## 1. 特定の民間RMBS
+
+[JSDAの証券化市場調査](https://www.jsda.or.jp/en/statistics/securitization-market/)および[JCRの格付一覧](https://jcr.co.jp/en/ratinglist/sf_sf/)は調査の入口である。以下の表は、必要な根拠一式を示す。
+
+| 項目 | 必要な公開根拠 |
 |---|---|
-| JHF MBS engine | [[structured-finance/jhf-mbs-mechanics]] |
-| JHF vs private spread | [[structured-finance/jhf-mbs-vs-private-rmbs-spread]] |
-| Trust beneficial interest vs SPV | [[structured-finance/japan-trust-beneficial-interest-vs-spv]] |
-| Market overview | [[structured-finance/japan-abs-market-overview]] |
-| Rating methodology | [[structured-finance/credit-rating-methodology-jcr-r-and-i]] |
+| 法的な発行体 / 信託 | 募集資料、信託資料または格付資料 |
+| オリジネーター / サービサー | 売買資料およびサービシング関連資料 |
+| 住宅ローン・プール | 適格基準、基準日および層別データ |
+| ビークル / 譲渡 | 信託 / SPVおよび対抗要件に関する資料 |
+| クラス / 信用補完 | クロージング時残高、ウォーターフォール、準備金およびその他の補完 |
+| 格付 / 価格 | 日付が明記されたクラス別の格付アクションおよび特定取引の発行結果 |
 
-## 1. オリジネーター
+## 2. JHFとの比較
 
-| Originator | Typical product |
-|---|---|
-| [[megabanks/mufg]] / Mitsubishi UFJ Bank | Variable-rate mortgages, jumbo pools |
-| [[megabanks/smfg]] / Sumitomo Mitsui Banking Corporation | Variable-rate mortgages |
-| [[megabanks/mizuho-fg]] / Mizuho Bank | Mixed-rate mortgages |
-| Trust banks (Mitsubishi UFJ Trust, [[trust-banks/sumitomo-mitsui-trust]], Mizuho Trust) | Long-tenor fixed-rate mortgages |
-| Regional banks (occasional) | Smaller, regional-pool deals |
+[JHFの公式FAQ](https://www.jhf.go.jp/english/mbs_faq.html)はJHF欄を裏付けている。民間RMBS欄は特定取引ごとに確認する。
 
-メガバンクがプライベート RMBS 発行を支配しているのは、ジャンボ証券化を経済的に成立させるのに十分な大きさの住宅ローンポートフォリオを保有しているためである。
-
-## 2. JHF MBS との比較
-
-| Dimension | JHF MBS | Private RMBS |
+| 比較項目 | JHF MBS | 民間RMBS |
 |---|---|---|
-| Originator | Private banks → JHF buys via securitization support | Private banks (megabanks) |
-| Government support | Yes — senior class government-supported via JHF | No — senior class privately-credit-enhanced |
-| Underlying product | Flat 35 (long-tenor fixed-rate) | Variable-rate or mixed-rate jumbo mortgages |
-| Issuance cadence | Monthly | Intermittent, programmatic |
-| Senior-class rating | Top-tier (effectively sovereign-linked) | AAA-AA via credit enhancement |
-| Spread vs JGB | Tight (~10-30bp typical) | Wider (~50-100bp typical for senior) |
-| Investor base | Lifers, regional banks, asset managers, public-credit investors | Lifers, asset managers, foreign investors at the senior class |
+| 発行体 / 債務者 | JHF。受益権行使事由の発生前は元利金の適時支払義務を負う | 特定の信託 / SPV / 債務者 |
+| 信託の仕組み | 第三者受益信託。事由発生後は債券に代わり受益権が交付される | 取引ごとに異なる |
+| 信用補完 | 通常の月次MBSは、事由発生後の受益権についてOCを使用する。グリーンMBSは使用しない | 取引ごとに異なる |
+| 担保 | JHFが買い取った適格なFlat 35住宅ローン | 特定プール |
+| 格付 | 日付が明記されたJHFのシリーズ格付 | 日付が明記されたクラス格付 |
+| 価格 | 日付が明記されたJHFの発行結果 | 日付が明記された特定取引。一般的なレンジは設けない |
 
-スプレッドのエコノミクスについては [[structured-finance/jhf-mbs-vs-private-rmbs-spread]] を参照。
+## 3. プール、ウォーターフォール、パフォーマンス
 
-## 3. ストラクチャー — 典型的なトランチング
+[JCRの格付方法ライブラリー](https://www.jcr.co.jp/en/rrinfo/meth_sf/)は、以下の分析チェックリストを支持している。
 
-| Tranche | Purpose |
+| 項目 | 特定取引について必要な根拠 |
 |---|---|
-| Senior | AAA / AA target; bulk of issuance; sold to lifers and asset managers |
-| Mezzanine | Single-A or BBB target; smaller; sold to spread investors |
-| Subordinated / equity | First-loss; often retained by originator |
+| ローン属性 | 開示されたLTV、金利タイプ、期間、経過期間および地域 |
+| デフォルト / 回収 | 定義、前提、費用および時期 |
+| 期限前返済 | プールデータおよび引用されたシナリオ |
+| ウォーターフォール | クラスの支払順位、トリガーおよび損失配分 |
+| カウンターパーティ | サービサー、口座、受託者およびヘッジの条件 |
+| パフォーマンス | 日付が明記された受託者 / サービサーまたは格付機関の開示 |
 
-トランチングは、劣後構造（キャッシュフローはまずシニアに、次にメザニン、最後にエクイティへ支払われる）と、以下に述べる追加的な信用補完によって達成される。
+## 4. 保留した主張
 
-## 4. 信用補完
+オリジネーター順位、信託利用が標準であるとの主張、3–4クラス構成、AAA/AAの格付結果、劣後比率レンジ、投資家層、50–100bpのスプレッドについては、公開された特定取引がない限り保留する。
 
-| Mechanism | Purpose |
-|---|---|
-| Subordination | Junior tranches absorb losses before senior. |
-| Overcollateralization (OC) | Collateral pool exceeds bond face value; excess absorbs losses. |
-| Excess spread | Coupon on collateral exceeds bond coupon + servicing fee; trapped if performance deteriorates. |
-| Cash reserve / liquidity facility | Backup for shortfalls; sized to cover months of interest. |
-| Servicer advance | Servicer advances delinquent payments to bondholders. |
+## Wiki内の位置付け
 
-プライベート RMBS のストラクチャーは、劣後構造に加えて超過担保に大きく依存する。準備金口座はシニアクラスにとって一般的である。
+本項目は[[structured-finance/INDEX|ストラクチャード・ファイナンス索引]]に位置付け、分野横断の資本市場文脈は[[finance/INDEX|ファイナンス索引]]を参照する。
 
-## 5. 期限前返済モデリング
-
-| Driver | Effect |
-|---|---|
-| Refinancing waves | Falling rates trigger refinance; mortgages prepay, shortens bond duration. |
-| Move / sale | Borrower sells house; prepays at par. |
-| Default / foreclosure | Treated as prepayment for cash-flow purposes; losses absorbed by junior. |
-| Curtailment | Partial prepayment reduces principal. |
-
-日本の期限前返済行動は歴史的に米国 RMBS より緩やかである。日本の住宅ローン借換えはより摩擦が大きい（組成コスト、期限前返済手数料の仕組み、勤務先連動の福利厚生）ためである。格付機関の前提は通常、JCR / R&I の基準にキャリブレートされた保守的な期限前返済モデルを用いる。
-
-## 6. ビークルの選択
-
-日本のプライベート RMBS は、信託受益権ストラクチャーを用いることが最も多い。オリジネーターが住宅ローンプールを信託（受託者として [[trust-banks/sumitomo-mitsui-trust]] または別の信託銀行）に譲渡し、信託がトランチ化された信託受益権を投資家に発行する。信託と SPV のトレードオフについては [[structured-finance/japan-trust-beneficial-interest-vs-spv]] を参照。
-
-一部の案件では、代わりに資産流動化法に基づく TMK（特定目的会社）を用いる。TMK ルートは正式な上場債の発行を可能にし、信託受益権ルートは通常私募である。[[structured-finance/spv-tk-gk-vehicle-japan-tax]] を参照。
-
-## 7. サービシング
-
-- オリジネーターは通常サービシング（ローン回収、顧客対応）を保持する。
-- バックアップサービサーがシニアクラスのために指名され、オリジネーターが破綻した場合に発動される。
-- サービサー・アドバンスは標準的である。オリジネーターは、回収可能性の限度まで、延滞ローンの予定返済を立て替える。
-
-## 8. 投資家ベース
-
-| Class | Investor | Why |
-|---|---|---|
-| Senior | Lifers, megabank ALM books, asset managers, foreign-investor accounts | JGB-plus yield with AAA-AA collateral |
-| Mezz | Spread investors, hedge funds, certain pension funds | Yield pickup |
-| Equity | Originator retention | Risk-retention compliance + economics |
-
-日本は米国／EU の制度に類似したリスク・リテンション要件を一部維持している。通常、純経済的エクスポージャーの 5% がオリジネーターによって保有される。
-
-## Related
+## 関連ページ
 
 - [[structured-finance/INDEX]]
 - [[structured-finance/jhf-mbs-mechanics]]
 - [[structured-finance/jhf-mbs-vs-private-rmbs-spread]]
 - [[structured-finance/japan-trust-beneficial-interest-vs-spv]]
-- [[structured-finance/spv-tk-gk-vehicle-japan-tax]]
 - [[structured-finance/credit-rating-methodology-jcr-r-and-i]]
-- [[policy-finance/japan-housing-finance-agency]]
-- [[real-estate-finance/INDEX]]
-- [[banking/INDEX]]
 
-## Sources
+## 出典
 
-- JCR (Japan Credit Rating Agency), RMBS structured-finance criteria.
-- R&I (Rating and Investment Information), RMBS methodology.
-- Japan Housing Finance Agency, IR pages.
-- JSDA (Japan Securities Dealers Association).
-- Megabank IR (MUFG, SMFG, Mizuho FG).
+- [JSDA, securitization market](https://www.jsda.or.jp/en/statistics/securitization-market/).
+- [JCR, structured-finance methodology library](https://www.jcr.co.jp/en/rrinfo/meth_sf/).
+- [JCR, structured-finance rating list](https://jcr.co.jp/en/ratinglist/sf_sf/).
+- [JHF, FAQs about MBS](https://www.jhf.go.jp/english/mbs_faq.html).

@@ -28,9 +28,9 @@
     "domain": "derivatives",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "derivatives",
@@ -54,7 +54,7 @@
       "https://www.theocc.com/"
     ]
   },
-  "summary": "Single-stock options (個別証券オプション / Securities Options) on the Osaka Exchange (OSE) under Japan Exchange Group (JPX) are exchange-listed options on selected individual Japanese stocks. Despite OSE listing options on ~150 large-cap names at any time, the actual liquidity is structurally limited compare",
+  "summary": "Single-stock options (個別証券オプション / Securities Options) on the Osaka Exchange (OSE) under Japan Exchange Group (JPX) are exchange-listed options on eligible stocks, ETFs and REITs. OSE's current product overview states that the eligible universe exceeds 200 issues, while the exact list changes; actual",
   "headings": [
     "Japan single-stock options (OSE)",
     "TL;DR",
@@ -113,9 +113,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 10994,
-    "word_like_tokens": 1745,
+    "nonspace_chars": 10699,
+    "word_like_tokens": 1700,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-07-29"
   }
 }

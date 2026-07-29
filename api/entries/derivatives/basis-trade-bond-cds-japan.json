@@ -28,9 +28,9 @@
     "domain": "derivatives",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "derivatives",
@@ -59,7 +59,7 @@
       "https://www.jsda.or.jp/en/"
     ]
   },
-  "summary": "The Japan bond-CDS basis is the spread between a corporate's CDS protection cost and its cash bond's credit spread over the swap or JGB benchmark curve at matched tenor. Negative basis (CDS < bond spread) historically attracted long-cash-short-CDS trades that lock in a \"free\" carry net of funding co",
+  "summary": "The Japan bond-CDS basis compares a corporate CDS spread with a matched cash bond's credit spread over a stated government or swap benchmark. Under the convention used here, basis = CDS spread minus bond spread. A negative quoted basis can motivate a financed long-bond / bought-protection comparison",
   "headings": [
     "Bond-CDS basis trade Japan",
     "TL;DR",
@@ -126,9 +126,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 12805,
-    "word_like_tokens": 2158,
+    "nonspace_chars": 13821,
+    "word_like_tokens": 2276,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-29"
   }
 }

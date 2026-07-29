@@ -1,18 +1,18 @@
 ---
 source: derivatives/fx-options-japan-corporate-treasury
-source_hash: 9ab67194cdcfe54a
+source_hash: a85a9b173ea8c809
 lang: en
 status: machine
 fidelity: ok
 title: "FX options for Japan corporate treasury"
-translated_at: 2026-05-31T03:19:56.359Z
+translated_at: 2026-07-29T20:00:00+09:00
 ---
 
 # FX options for Japan corporate treasury
 
 ## TL;DR
 
-FX options are the non-linear, premium-priced layer of Japan corporate FX hedging. Where a forward locks the rate completely, an option offers protection against an adverse move while preserving upside, in exchange for an upfront premium (or, in zero-cost structures, embedded conditional risk). The Japan corporate menu spans vanilla calls / puts, risk-reversal structures, knock-out forwards, knock-in options, straddles, strangles, and the more contentious target redemption forward (TRF) family. Dealer franchise is dominated by the megabank corporate desks at [[megabanks/mufg-bank|MUFG Bank]], [[megabanks/sumitomo-mitsui-banking-corp|Sumitomo Mitsui Banking Corp]], and [[megabanks/mizuho-bank|Mizuho Bank]], with foreign-bank presence from Citi, JPMorgan, and Nomura in the structured-product space.
+FX options are the non-linear, premium-priced layer of Japan corporate FX hedging. Where a forward locks the rate completely, an option can protect against an adverse move while preserving some or all favourable participation, in exchange for an upfront premium or embedded conditional risk. The product vocabulary includes vanilla calls / puts, risk reversals, barriers and path-dependent structures. A company's permitted menu, counterparties and actual use must be established from its policy and public disclosures rather than inferred from dealer affiliation.
 
 This entry is the option-side counterpart to [[derivatives/corporate-fx-hedge-policy-japan-listed|corporate FX hedge policy at Japan listed companies]] inside the [[derivatives/INDEX|derivatives index]].
 
@@ -95,16 +95,18 @@ Dealer bid/offer is typically quoted in volatility points for vanilla structures
 
 The [[derivatives/INDEX|derivatives index]] links to volatility-derivatives entries that cover the surface in more depth.
 
-## Dealer franchise
+## Provider categories
 
-| Dealer category | Examples | Strength |
+The following table maps provider categories and publicly identifiable examples. It does not rank market share, pricing quality or product strength; authorisation and entity scope should be checked in the FSA registry and the provider's current disclosures. ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.pdf; https://www.fsa.go.jp/menkyo/menkyoj/ginkou.pdf; https://www.isda.org/membership/.]
+
+| Provider category | Examples | Evidence-bounded role |
 |---|---|---|
-| Megabank corporate desk | [[megabanks/mufg-bank|MUFG Bank]], [[megabanks/sumitomo-mitsui-banking-corp|Sumitomo Mitsui Banking Corp]], [[megabanks/mizuho-bank|Mizuho Bank]] | Dominant in vanilla forward + vanilla option flow to Japan corporates; relationship pricing. |
-| Foreign-bank dealer | Citi, JPMorgan, Deutsche Bank, Goldman Sachs | Stronger in exotic / structured products and EM-currency NDF / option flow. |
-| Japanese securities dealer | Nomura, Daiwa, SMBC Nikko | Active in corporate-bond-linked FX hedges, M&A-deal-contingent options. |
-| Trading-house in-house treasury | Major sogo shosha | Often net buyer of vanilla / collar structures; sometimes price-maker in TRF-type structures internally. |
+| Megabank corporate desk | [[megabanks/mufg-bank|MUFG Bank]], [[megabanks/sumitomo-mitsui-banking-corp|Sumitomo Mitsui Banking Corp]], [[megabanks/mizuho-bank|Mizuho Bank]] | Potential bank counterparty for permitted corporate hedges. |
+| Foreign-bank group | Citi, JPMorgan, Deutsche Bank, Goldman Sachs | Potential cross-border counterparty; contracting entity and licence vary. |
+| Japanese securities group | Nomura, Daiwa, SMBC Nikko | Potential securities counterparty where the relevant entity offers the instrument. |
+| Corporate in-house treasury | Major trading companies | End user operating under its own policy, not assumed to be a third-party market maker. |
 
-The boundary between megabank and foreign-bank dealers is fluid: megabanks own the lending relationship and the vanilla forward flow; foreign banks compete on structured-product pricing and EM expertise.
+Capabilities and prices are transaction-specific. A relationship-bank affiliation alone does not establish flow ownership or superior pricing.
 
 ### Pricing-axis distinction by dealer
 
@@ -131,14 +133,14 @@ The pattern is well-known to corporate treasurers and is reflected in the struct
 
 ## Retail vs corporate boundary
 
-Japan FX options for corporate treasury are separate from the retail FX margin trading market (see [[derivatives/retail-fx-margin-trade-japan|retail FX margin trading in Japan]]). The two are governed by different regulatory regimes:
+Japan FX options for corporate treasury are separate from the retail FX margin market described in [[derivatives/retail-fx-margin-trade-japan|retail FX margin trading in Japan]]. The comparison table states only high-level boundaries supported by FSA materials and IFRS 9; entity, product and customer classification can change the applicable requirements. ^[Sources: https://www.fsa.go.jp/ordinary/iwagai/; https://www.fsa.go.jp/en/refer/legislation/index.html; https://www.ifrs.org/issued-standards/list-of-standards/ifrs-9-financial-instruments/.]
 
 | Dimension | Corporate FX option | Retail FX (margin) |
 |---|---|---|
-| Counterparty | Bank / securities dealer under bilateral ISDA. | Retail FX broker licensed under FIEA Type 1 Financial Instruments Business. |
-| Leverage cap | None at the contract level; bilateral credit terms apply. | ~25x for individuals; higher for corporate accounts. |
-| Suitability | Bank's own KYC / risk-rating framework; FSA principles-based supervision. | Strict FSA conduct rules; segregated client funds. |
-| Disclosure | Quarterly / annual securities-report derivative-position disclosure. | Daily reporting to JFSA; turnover stats by Financial Futures Association of Japan (FFAJ). |
+| Counterparty | Bank / securities dealer under the applicable master agreement and confirmation, often ISDA-based. | Retail FX broker licensed under FIEA Type 1 Financial Instruments Business. |
+| Margin / credit | Bilateral terms and any applicable margin rule depend on counterparties and documentation. | Individuals require at least 4% margin (no more than 25x leverage); corporate minimum margin varies by currency pair under the FSA calculation. |
+| Conduct | Customer classification, product governance, suitability and disclosure depend on the regulated entity and product. | FSA conduct rules, provider disclosures and the required loss-cut framework apply. |
+| Public information | A listed corporate may disclose material derivatives in securities filings under the applicable accounting rules. | FFAJ publishes aggregate member statistics; provider-specific reporting should not be inferred from those aggregates. |
 
 A small-to-mid Japan corporate may technically open a retail-style FX margin account at firms like [[securities-firms/gmo-click-securities|GMO Click Securities]], [[securities-firms/sbi-fx-trade|SBI FX Trade]], or [[securities-firms/dmm-com-securities|DMM.com Securities]] (as a 法人 corporate account), but operationally larger corporates run option / forward hedging through their banking relationships rather than through retail-style brokers.
 

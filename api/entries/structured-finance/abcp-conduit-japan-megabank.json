@@ -11,10 +11,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/structured-finance/abcp-conduit-japan-megabank.md",
   "raw_markdown_url": "https://finwiki.zksc.io/structured-finance/abcp-conduit-japan-megabank.md",
   "domain": "structured-finance",
-  "title": "ABCP conduit (asset-backed commercial paper) — Japan megabank-sponsored programs",
+  "title": "ABCP conduit (asset-backed commercial paper) — Japan evidence guide",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "ABCP conduit (asset-backed commercial paper) — Japan megabank-sponsored programs",
+    "title": "ABCP conduit (asset-backed commercial paper) — Japan evidence guide",
     "aliases": [
       "Japan ABCP conduit",
       "Asset-backed commercial paper Japan",
@@ -27,18 +27,15 @@
     "domain": "structured-finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "structured-finance",
       "abcp",
       "conduit",
       "megabank",
-      "mufg",
-      "smbc",
-      "mizuho",
       "japan",
       "commercial-paper"
     ],
@@ -47,41 +44,28 @@
     "related": [],
     "note": null,
     "sources": [
-      "JSDA commercial paper statistics — https://www.jsda.or.jp/en/",
-      "MUFG IR (https://www.mufg.jp/english/)",
-      "SMFG IR (https://www.smfg.co.jp/english/)",
-      "Mizuho FG IR (https://www.mizuho-fg.com/index.html)",
-      "BOJ short-term money market statistics"
+      "https://www.jcr.co.jp/en/rrinfo/meth_sf/",
+      "https://www.jcr.co.jp/en/pdf/dm28/General_Methodology20210802.pdf",
+      "https://www.jsda.or.jp/en/statistics/securitization-market/"
     ]
   },
-  "summary": "ABCP conduits are off-balance-sheet special-purpose vehicles (TK / GK SPV structures) that buy short-tenor receivables from corporate sellers and fund the purchases by issuing yen-denominated commercial paper into the JSDA-overseen domestic CP market, with a liquidity backstop from the sponsor megab",
+  "summary": "No stable public program document was located in this review that supports the previous MUFG/SMBC/Mizuho program names, vehicle forms, outstanding amounts, 100% liquidity facilities, highest short-term ratings, contraction timeline, foreign-buyer share or pricing ranges. Those claims are removed. An",
   "headings": [
-    "ABCP conduit (asset-backed commercial paper) — Japan megabank-sponsored programs",
+    "ABCP conduit (asset-backed commercial paper) — Japan evidence guide",
     "TL;DR",
     "Wiki route",
-    "1. What an ABCP conduit looks like",
-    "2. Japan megabank conduit programs",
-    "3. Liquidity backstop — the structural anchor",
-    "4. Post-2008 contraction",
-    "5. Current market size and structure",
-    "6. Foreign-investor base",
-    "7. Comparison to term ABS"
+    "1. Program identity",
+    "2. Assets and support",
+    "3. Rating and stress history",
+    "4. Investor and pricing evidence",
+    "5. Deferred claims",
+    "Wiki route",
+    "Related"
   ],
   "body_links": {
-    "wikilinks_count": 16,
+    "wikilinks_count": 5,
     "wikilinks": [
       "finance/INDEX",
-      "financial-conglomerates/toyota-tsusho-corp",
-      "financial-regulators/boj",
-      "financial-regulators/japan-exchange-group",
-      "leasing-firms/mitsubishi-hc-capital",
-      "leasing-firms/orix-corp",
-      "leasing-firms/smfl",
-      "leasing-firms/tokyo-century",
-      "megabanks/mizuho-fg",
-      "megabanks/mufg",
-      "megabanks/smfg",
-      "regional-banks/japan-post-bank",
       "structured-finance/INDEX",
       "structured-finance/credit-rating-methodology-jcr-r-and-i",
       "structured-finance/japan-abs-market-overview",
@@ -89,29 +73,23 @@
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/ja/domains/finance/",
-      "https://finwiki.zksc.io/ja/financial-conglomerates/toyota-tsusho-corp/",
-      "https://finwiki.zksc.io/ja/financial-regulators/boj/",
-      "https://finwiki.zksc.io/ja/financial-regulators/japan-exchange-group/",
-      "https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/",
-      "https://finwiki.zksc.io/ja/leasing-firms/orix-corp/",
-      "https://finwiki.zksc.io/ja/leasing-firms/smfl/",
-      "https://finwiki.zksc.io/ja/leasing-firms/tokyo-century/",
-      "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
-      "https://finwiki.zksc.io/ja/megabanks/mufg/",
-      "https://finwiki.zksc.io/ja/megabanks/smfg/",
-      "https://finwiki.zksc.io/ja/regional-banks/japan-post-bank/",
       "https://finwiki.zksc.io/ja/domains/structured-finance/",
       "https://finwiki.zksc.io/ja/structured-finance/credit-rating-methodology-jcr-r-and-i/",
       "https://finwiki.zksc.io/ja/structured-finance/japan-abs-market-overview/",
       "https://finwiki.zksc.io/ja/structured-finance/spv-tk-gk-vehicle-japan-tax/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 4,
+    "external_links": [
+      "https://jcr.co.jp/en/ratinglist/sf_sf/",
+      "https://www.jcr.co.jp/en/pdf/dm28/General_Methodology20210802.pdf",
+      "https://www.jcr.co.jp/en/rrinfo/meth_sf/",
+      "https://www.jsda.or.jp/en/statistics/securitization-market/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 10990,
-    "word_like_tokens": 1824,
-    "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-04"
+    "nonspace_chars": 4087,
+    "word_like_tokens": 623,
+    "inbound_wikilinks_count": 1,
+    "last_modified": "2026-07-29"
   }
 }

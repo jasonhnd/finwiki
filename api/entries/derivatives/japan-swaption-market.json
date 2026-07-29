@@ -30,9 +30,9 @@
     "domain": "derivatives",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "derivatives",
@@ -50,25 +50,24 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.boj.or.jp/en/statistics/bis/yoshi/index.htm",
-      "https://www.bis.org/statistics/derstats.htm",
-      "https://www.jscc.co.jp/en/",
-      "https://www.fsa.go.jp/en/",
-      "https://www.isda.org/",
-      "https://www.naic.org/cipr_topics/topic_variable_annuities.htm"
+      "ISDA interest-rate product disclosure — https://www.isda.org/a/ORiDE/isda-rates.pdf",
+      "ISDA RFR conventions and fallbacks product table — https://www.isda.org/a/bdigE/RFR-Conventions-and-IBOR-Fallbacks-Product-Table-October-2021.pdf",
+      "BIS OTC derivatives statistics — https://www.bis.org/statistics/derstats.htm",
+      "BOJ BIS survey results — https://www.boj.or.jp/en/statistics/bis/yoshi/index.htm",
+      "JSCC IRS eligible products — https://www.jpx.co.jp/jscc/en/cash/irs/product.html"
     ]
   },
-  "summary": "A swaption is an OTC interest-rate option granting the holder the right (but not the obligation) to enter into a defined interest-rate swap at a future date and at a pre-agreed strike rate. JPY swaptions are the volatility-sensitive complement to the JPY interest-rate swap and OIS-TONA markets, and",
+  "summary": "A swaption is an OTC interest-rate option granting the holder the right, but not the obligation, to enter into or settle against a defined interest-rate swap under agreed terms. JPY swaptions relate to the JPY interest-rate swap and OIS-TONA markets. The cited aggregate sources do not establish that",
   "headings": [
     "Japan swaption (interest-rate option) market",
     "TL;DR",
     "Wiki route",
     "Instrument Mechanics",
     "JPY Swaption Implied-Volatility Grid",
-    "Payer vs Receiver Flow",
+    "Payer vs Receiver Direction and Position Evidence",
     "Bermudan Callable Swaptions",
     "Life-Insurer Variable-Annuity (GMxB) Hedging",
-    "Dealer Franchise",
+    "Public dealer-data boundary",
     "Clearing Status"
   ],
   "body_links": {
@@ -121,9 +120,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 11754,
-    "word_like_tokens": 1906,
-    "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-04"
+    "nonspace_chars": 10705,
+    "word_like_tokens": 1681,
+    "inbound_wikilinks_count": 8,
+    "last_modified": "2026-07-29"
   }
 }

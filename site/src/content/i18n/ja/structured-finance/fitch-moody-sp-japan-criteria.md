@@ -1,117 +1,104 @@
 ---
 source: structured-finance/fitch-moody-sp-japan-criteria
-source_hash: b30514a0576fdf52
+source_hash: d78a857743d91be7
 lang: ja
 status: machine
 fidelity: ok
-title: "Fitch / Moody's / S&P の日本ストラクチャードファイナンス基準 — グローバル格付機関 vs JCR / R&I"
-translated_at: 2026-06-19T13:13:22.644Z
+title: "Fitch / Moody's / S&Pの日本向けストラクチャード・ファイナンス格付基準 — グローバル格付機関とJCR / R&I"
+translated_at: 2026-07-29T09:38:56.815Z
 ---
-
-# Fitch / Moody's / S&P の日本ストラクチャードファイナンス基準 — グローバル格付機関 vs JCR / R&I
+# Fitch / Moody's / S&Pの日本向けストラクチャード・ファイナンス格付基準 — グローバル格付機関とJCR / R&I
 
 ## TL;DR
 
-日本の証券化はデュアル格付けである: 国内機関である [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR and R&I]] は円建て投資家基盤（生命保険会社、地方銀行、[[regional-banks/japan-post-bank|Japan Post Bank]]）をカバーし、一方ディールが外国投資家やUSD建てトランシェを狙う場合にはMoody's、S&P、Fitchが追加される。スプリット格付けのギャップはシニア層で 1–3 ノッチに達し得る。その要因は、(i) **ソブリン格付けキャップ** — グローバル機関は日本のストラクチャードトランシェを日本のソブリン格付け（現在 A+/A1）以下にキャップするが、JCRとR&Iは国内でソブリンを AAA / AA+ と格付ける; (ii) 日本の住宅ローンおよびオートプールに対する**回収率の前提**の差異（グローバル機関は住宅の差押えタイミングや地方担保の再販価値について典型的により保守的）; (iii) グローバル機関のより厳しい**遷移行列**が同一プールに対してより高いモデル化デフォルト頻度を生む、ことである。結果として、JCRがAAAと格付けるシニアオートABSトランシェがS&PではしばしばAまたはAAと格付けられ、これが外国アセットマネージャーがそれをグローバルIGマンデートで保有できるかどうかを決定する。
+信頼できる格付機関比較は、同一の特定取引、トランシェ、格付日、格付基準の版を揃えることから始まる。従来の一律な主張、すなわち二重格付が原則であること、1–3ノッチの格付差、固定的な回収率格差、日本のRMBSがAAAを取得できないとするソブリン上限は、いずれも裏付けられていない。S&Pの公開格付基準は、ソブリン格付が絶対的な上限ではないことを説明している。Moody'sとFitchについても、結論は適用される格付基準と特定の格付アクションに基づく必要があり、架空の「グローバル格付機関」合成モデルに基づいてはならない。
 
-## Wiki route
+## Wiki内の参照先
 
-本項目は [[structured-finance/INDEX|structured-finance index]] の下に **格付機関基準比較** ノードとして位置する。国内機関の見方については [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I methodology]]、投資家需要側については [[structured-finance/japan-abs-market-overview|Japan ABS market overview]]、格付けが乗る法的エンティティ層については [[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV vehicle]] と対照して読むこと。関連するクロスボーダーの観点: [[real-estate-finance/INDEX|real-estate-finance index]]（RMBS / J-REIT債）および、より広い信用スプレッドの文脈については [[finance/INDEX|finance index]]。
+本ページは、[[structured-finance/INDEX|structured-finance index]]配下の**格付基準比較**ノードである。国内格付機関の観点については[[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I methodology]]、投資家需要については[[structured-finance/japan-abs-market-overview|Japan ABS market overview]]、格付対象となる法的主体については[[structured-finance/spv-tk-gk-vehicle-japan-tax|TK / GK SPV vehicle]]と対照して読む。クロスボーダーの関連領域として、RMBS / J-REITデットを扱う[[real-estate-finance/INDEX|real-estate-finance index]]、より広い信用スプレッドの文脈を扱う[[finance/INDEX|finance index]]も参照する。
 
-## 1. The three global agencies — Japan structured-finance footprint
+## 1. グローバル格付機関各社 — 日本のストラクチャード・ファイナンスでの位置付け
 
-| Agency | Japan SF focus | Office | Typical mandates |
+[金融庁の現行登録簿](https://www.fsa.go.jp/menkyo/menkyoj/shinyoukakuduke.pdf)から確認できるのは、以下の表に示す日本での登録範囲に限られる。
+
+| 格付機関グループ | ここで確認できること | 別途根拠が必要なこと |
 |---|---|---|---|
-| **Moody's Japan K.K.** | RMBS, auto ABS, CMBS, consumer ABS, repackaging notes | Tokyo | Cross-border tranches, foreign-investor-marketed deals |
-| **S&P Global Ratings Japan** | RMBS, ABCP conduits, auto ABS, CLO investor analysis | Tokyo | Megabank-sponsored deals, USD-denominated tranches |
-| **Fitch Ratings Japan** | RMBS, auto ABS, repackaging, occasional CMBS | Tokyo | Foreign-investor demand-driven mandates |
+| Moody'sの日本法人 | 金融庁登録簿の現行項目 | 資産クラス別の実績、受任状況、格付は、公開された特定の格付アクションで確認する必要がある |
+| S&Pの日本法人 | 金融庁登録簿の現行項目 | 同左。特定の格付アクションが引用する格付基準を適用する |
+| Fitchの日本法人 | 金融庁登録簿の現行項目 | 同左。グループ名から日本での活動を推測しない |
 
-三機関すべてが、FSAの [[financial-regulators/japan-exchange-group|JPX]] 近接の規制レジーム（元々は 2008 危機の後に登録と行為規範を課した金融商品取引法への 2010 改正）の下で **信用格付業者** として登録されている。
+各法人について、金融庁登録簿の現行状況と正確な登録項目を再確認する。グループ名だけでは、日本での登録や活動を立証できない。
 
-## 2. Sovereign-rating cap — the structural ceiling
+## 2. ソブリン格付上限 — 構造上の上限
 
-グローバル機関はストラクチャードファイナンス発行に **ソブリン格付けキャップ（または「カントリーシーリング」）** を適用する。そのメカニズム:
+[S&Pの公式ストラクチャード・ファイナンス格付基準ライブラリー](https://www.spglobal.com/ratings/en/regulatory/ratings-criteria/-/articles/criteria/structured-finance/filter/general)は、以下の根拠確認ルールを支持し、ソブリン格付を絶対的な上限として扱うことを明示的に否定している。
 
-| Step | Rule |
+| 確認事項 | 根拠確認ルール |
 |---|---|
-| Country ceiling | The cap on any structured-finance tranche issued out of a given jurisdiction, anchored to the sovereign rating |
-| Japan sovereign rating | S&P: A+ / Moody's: A1 / Fitch: A (as of recent cycle, historically downgraded from AA / Aa during the 2010s) |
-| Tranche ceiling | Typically equal to or one notch above the sovereign ceiling for highly-rated structured-finance instruments meeting "rated above sovereign" criteria |
-| Result | A Japanese RMBS senior tranche cannot easily be rated AAA by S&P, even if the underlying pool would otherwise qualify — typical ceiling AA+ / AA |
+| ストラクチャード・ファイナンス格付はソブリン格付を上回り得るか | 当該格付機関の現行「ソブリン格付を上回る格付」に関する基準とストラクチャード・ファイナンス格付基準を適用し、一律の上限を設けない |
+| 日本のソブリン格付は何か | 恒久的な数値ではなく、当該格付機関による日付が明記されたソブリン格付アクションを使用する |
+| 特定トランシェの制約要因は何か | 取引資料に記載されたソブリン、送金・通貨交換、カウンターパーティ、資産の分析を引用する |
+| スプリット・レーティングがあるか | 同じトランシェを同じ日付で比較し、各格付機関固有の格付尺度を記録する |
+| 格付差の原因は何か | 各格付機関が公表した当該取引の理由を使用し、一定のノッチ数を推測しない |
 
-対照的に、**JCRとR&Iは日本のソブリンを国内スケールで AAA（または AA+）と格付ける** が、これにはカントリーシーリングの問題がない。したがって、JCRからAAAを得るシニアトランシェは日常的にS&PからAA / AA-に着地する — シニア層での 2ノッチのスプリットである。
+## 3. モデル前提の相違
 
-## 3. Differences in modelling assumptions
+### 3a. デフォルト頻度 / 格付推移行列
 
-### 3a. Default frequency / transition matrix
+デフォルト頻度データ、較正対象地域、格付推移の前提は、格付機関、資産クラス、格付基準の版によって異なる。適用格付基準または特定取引の格付資料で公表されている場合に限り記録する。「文化的な支払規律」は、本ページで裏付けられた格付方法上の入力ではない。
 
-グローバル機関は、多管轄区域のデフォルトデータセット（大半は米国、EU、英国）から導かれた長期 **遷移行列** を用いる。日本のプールに適用すると、これはJCR / R&Iの国内経験ベースの行列よりも高いモデル化デフォルト頻度を生む。後者は、(i) 歴史的に低い日本の消費者デフォルト率、(ii) 文化的な支払い規律、(iii) 1997–2003 の銀行危機期間においてさえ低かった住宅ローンの差押え率、を反映している。
+### 3b. 回収率の前提
 
-### 3b. Recovery assumption
+[JCRの格付方法ライブラリー](https://www.jcr.co.jp/en/rrinfo/meth_sf/)と、適用されるグローバル格付機関の基準から支持されるのは、以下の表に示す資料ごとの比較に限られる。
 
-| Asset class | JCR / R&I assumption | Global-agency assumption | Gap |
+| 項目 | JCRまたはR&Iで必要な根拠 | S&P、Moody'sまたはFitchで必要な根拠 |
 |---|---|---|---|
-| Residential mortgage (urban) | 60–75% LGD-adjusted recovery over 18–24 months | 50–65% over 24–36 months | Modest |
-| Residential mortgage (rural / regional) | 50–65% recovery | 35–50% (foreclosure liquidity / resale value haircut) | Material |
-| Auto loan | 35–45% recovery (used-car wholesale value) | 25–40% | Modest |
-| Consumer unsecured | 0–5% recovery | 0–5% | Negligible |
-| CMBS (Tokyo CBD office) | 65–80% recovery | 55–75% | Modest |
-| CMBS (regional retail / hotel) | 45–60% recovery | 30–50% | Material |
+| 資産とプール | 特定の格付基準および取引資料 | 同じ取引および資産の定義 |
+| 回収率 / 損失率 | 公表された前提、ヘアカットおよび算定根拠 | 公表された前提、ヘアカットおよび算定根拠 |
+| 時期 | 公表された回収期間およびシナリオ | 公表された回収期間およびシナリオ |
+| 地域 | 開示された区分およびサンプル | 開示された区分およびサンプル |
+| 比較 | 定義を揃えた後にのみ計算する | 一般化した「国内対グローバル」の比率レンジを設けない |
 
-地方担保の回収率ギャップが、地方プールディールにおけるスプリット格付けの最大の要因である。
+特定の格付機関が公表した取引理由に明記されていない限り、回収率の差をスプリット・レーティングの最大要因と位置付けてはならない。
 
-### 3c. Cash-flow stress
+### 3c. キャッシュフロー・ストレス
 
-グローバル機関は追加のストレスシナリオ — 金利ショック、期限前償還率ストレス、サービサー機能停止のテールリスク — を重ね合わせるが、JCR / R&Iはこれらをそれほど積極的にモデル化しないか、定性的考慮事項として扱う。
+金利、期限前返済、カウンターパーティ、サービシングのストレスは、引用した格付基準の版に基づいて比較する。本ページでは、いずれかの格付機関が一律により積極的または保守的であるとは順位付けしない。
 
-## 4. Transition matrix differences — empirical observation
+## 4. 格付推移行列の相違 — 実証上の観察
 
-JCR格付けのSFトランシェは、同一の名目レター格付けを持つグローバル機関格付けのトランシェと比較して、歴史的に非常に低い遷移率（格下げ）を示す。このギャップは、(i) 異なるモデル化哲学、(ii) 異なるサンプル母集団（JCRサンプルは圧倒的に日本中心、グローバル機関サンプルは多管轄区域）、(iii) JCRによる定性的考慮事項（サービサーの強さ、オリジネーターのトラックレコード、[[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG]] / [[megabanks/mizuho-fg|Mizuho FG]] スポンサーサポート）のより強い重み付け、を反映している。
+コホート、観測期間、格付取下げ、格付尺度を揃えない限り、格付推移率の比較は記載しない。特定の格付資料が法的拘束力のある債務を明示し、その信用力を評価に反映している場合を除き、スポンサー名を信用補完として扱ってはならない。
 
-これは争点である — JCRは自社の国内アンカー型方法論が実際の日本プールパフォーマンスをよりよく反映すると主張し、グローバル機関は自社の方法論がより保守的でグローバルに比較可能だと主張する。
+## 5. 最近のJCR / S&Pスプリット・レーティング事例 — 例示的なパターン
 
-## 5. Recent JCR / S&P split-rating cases — illustrative pattern
+[JCRの公開格付一覧](https://jcr.co.jp/en/ratinglist/sf_sf/)と、他の格付機関による特定案件の格付アクションが、以下の比較に必要な入力である。
 
-特定の取引を名指しせずとも、公開されたJSDAのSF統計における反復パターンは以下を示す:
+| 比較項目 | 必要な公開根拠 |
+|---|---|
+| 取引 | 法的な発行体、シリーズおよび担保 |
+| トランシェ | 同一クラスおよび同一の支払順位 |
+| 格付 | 各格付機関による日付が明記された格付記号、見通し / ウォッチ、アクション |
+| 格付基準 | 各アクションが引用した版 |
+| ストラクチャー上の前提 | 各資料に記載された信用補完、カウンターパーティ、キャッシュフロー・ストレス |
+| スプレッド | 日付が明記された発行市場または流通市場の観測値。格付記号からベーシスポイントを推測しない |
 
-| Deal type | JCR typical | S&P / Moody's typical | Spread implication |
-|---|---|---|---|
-| Megabank-sponsored auto ABS (senior) | AAA | AA / AA+ | 5–15 bp pickup for foreign investors |
-| Regional-bank RMBS (senior) | AAA | A+ / AA- | 20–40 bp pickup |
-| CMBS senior (Tokyo CBD) | AAA | AA- / AA | 15–25 bp pickup |
-| CMBS senior (regional) | AA / AA+ | A / A+ | 30–60 bp pickup |
-| ABCP (megabank conduit) | A-1+ / J-1+ | A-1+ | Minimal |
+## 6. 二重格付が行われる理由
 
-2010年代には、JCRが格付けを維持し続けた日本のSFトランシェをS&PまたはMoody'sが格下げし、方法論の乖離について発行体と投資家からコメントを生んだ周期的なエピソードが見られた。
+発行体が複数の格付機関を起用する場合はあるが、その理由は取引ごとに異なる。投資家の運用方針、規制上の認定、担保適格性は、実際の投資家に適用される法域と規則に照らして確認する必要がある。本ページでは、「グローバル」格付が必要または十分であるとは想定しない。
 
-## 6. Why dual-rating still happens
+## 7. 留意点
 
-スプリット格付けのコストにもかかわらず、デュアルまたはトリプル格付けは依然として一般的である。その理由は:
+- 同一トランシェかつ同一日付でない格付記号の比較は、寛大さや保守性の根拠にはならない。
+- 格付方法の改訂が格付に影響することはあり得るが、その影響は格付機関の見直し発表を引用して示す必要がある。
+- 人員体制、所要時間、投資家の認識については、公開された具体的な情報源がない限り記載しない。
 
-1. **外国投資家基盤** — グローバルIGマンデートを運用するグローバルアセットマネージャーは、債券を保有するためにグローバル機関の格付けを要求する; JCRのみでは不十分
-2. **レポ適格性** — クロスボーダーレポ（例: ECB担保枠組み、米国トライパーティレポ）では、グローバル機関の格付けのみがカウントされる
-3. **銀行資本の取扱い** — バーゼルIII標準的手法の下では、承認されたECAIからの格付けのみがカウントされる; 一部の管轄区域ではJCR / R&Iは承認されていない
-4. **マーケティングの見栄え** — グローバル機関の格付けは、価格がJCRをベースに設定されていても「外国口座にとって投資可能」を示唆する
+## 8. 未解決の確認事項
 
-ディーラー（[[securities-firms/mufg-securities|MUFG MS]] / [[securities-firms/smbc-nikko|SMBC Nikko]] / [[securities-firms/mizuho-securities|Mizuho Securities]]）は、ターゲットとする投資家リストに基づきどの機関に依頼するかを選択する。
+- どの版の格付基準と取引資料が、特定トランシェに適用されるか。
+- 格付記号、日付、通貨、支払順位は揃っているか。
+- 規制上または投資家による利用は、関係法域で引用された規則から導けるか。
 
-## 7. Counterpoints
-
-- **「ソブリンキャップは機械的」** — 批判者は、カントリーシーリングが過度に機械的であり、自国通貨建てJGBが一度もデフォルトしていないことを反映していないと主張する; よく構築された日本のSFトランシェはキャップを外されてしかるべきだと論じる。グローバル機関は、日本にそのような制限がないにもかかわらず、移転・交換性リスクの観点からキャップを維持している
-- **「JCR / R&Iは甘すぎる」** — 外国投資家は時に、JCR / R&IのAAA格付けをS&PのAA-に対して過大評価とみなし、国内格付けのみが利用可能な場合でもグローバル機関の水準に近い価格を付ける
-- **「遷移行列のサンプリングバイアス」** — JCRの、自社サンプルが日本特有の行動をよりよく反映しているという弁護は妥当だが、日本の信用状況がグローバル規範に収斂する場合（例: 家計レバレッジの上昇、[[financial-regulators/boj|BOJ]] の金利正常化下での住宅ローンストレス）には前向きの盲点を生む
-- **「東京オフィスの人員制約」** — グローバル機関は国内機関よりも小規模なチームで日本のSFをカバーする; 一部の発行体は格付け所要時間の長さと、より粒度の粗い発行体エンゲージメントを報告している
-- **「方法論の更新がクリフリスクを生む」** — グローバル機関がストラクチャードファイナンス基準を更新すると、大量の格付けレビューが日本のSFユニバース全体で同時格下げを生み得て、JCRのみのディールが回避するスプレッド拡大を生む
-
-## 8. Open questions
-
-- [[financial-regulators/boj|BOJ]] が金利を正常化し、日本の家計デフォルト率がグローバル平均へと上昇する場合、スプリット格付けギャップがどれだけ縮小するか
-- FSAが最終的に、高品質な日本のSFについてグローバル機関にソブリンキャップメカニズムの引き上げを迫るかどうか
-- 新しい日本のSF資産クラス（ESG連動オートABS、グリーンRMBS）が五機関すべてに格付けられるか、管轄区域別にスプリットされるか
-- より多くの外国投資家が日本のSF市場に参入し、グローバル機関の格付けを既定として要求する場合の [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I]] の競争上の立ち位置
-- 中国拠点の機関（Dagong等）がクロスボーダーディールのカバレッジのために日本のSFでフットプリントを獲得するかどうか
-
-## Related
+## 関連ページ
 
 - [[structured-finance/INDEX|structured-finance index]]
 - [[structured-finance/credit-rating-methodology-jcr-r-and-i|JCR / R&I methodology]]
@@ -123,17 +110,14 @@ JCR格付けのSFトランシェは、同一の名目レター格付けを持つ
 - [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|Mizuho FG]]
 - [[financial-regulators/japan-exchange-group|JPX]] · [[cooperative-banks/norinchukin|Norinchukin]]
 
-## Sources
+## 出典
 
-- JCR official methodology — https://www.jcr.co.jp/en/
-- R&I official methodology — https://www.r-i.co.jp/en/
-- JSDA structured-finance statistics — https://www.jsda.or.jp/en/
-- Moody's Japan K.K. methodology library (public)
-- S&P Global Ratings Japan structured-finance criteria (public)
-- Fitch Ratings Japan structured-finance criteria (public)
-- FSA registered credit rating agencies list (public)
+- [FSA, registered credit rating agencies](https://www.fsa.go.jp/menkyo/menkyoj/shinyoukakuduke.pdf).
+- [S&P Global Ratings, structured-finance criteria library](https://www.spglobal.com/ratings/en/regulatory/ratings-criteria/-/articles/criteria/structured-finance/filter/general).
+- [JCR, structured-finance methodology library](https://www.jcr.co.jp/en/rrinfo/meth_sf/).
+- [JCR, structured-finance rating list](https://jcr.co.jp/en/ratinglist/sf_sf/).
 
 ---
 
-> [!info] 校核状态
-> confidence: **likely**. Sovereign-cap mechanism and split-rating dynamics are well-documented in public methodology papers from all three global agencies and in JCR / R&I commentary. Specific recent split-rating cases are abstracted to avoid naming individual transactions. Transition-matrix numbers are illustrative and reflect typical industry-discussed gaps, not single-source claims.
+> [!info] 校核状態
+> confidence: **likely**. 本ページでは、特定取引を示さないスプリット・レーティング事例、固定的な回収率レンジ、スプレッドへの影響、ソブリン上限を意図的に記載していない。比較は、公開された特定の格付アクションに基づいて再現する。
