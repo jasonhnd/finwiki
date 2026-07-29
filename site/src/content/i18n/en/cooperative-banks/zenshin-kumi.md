@@ -1,11 +1,12 @@
 ---
 source: cooperative-banks/zenshin-kumi
-source_hash: d1f253889563ed04
+source_hash: 912a3817d684b20b
 lang: en
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "National Federation of Credit Cooperatives (Zenshinkumiren)"
-translated_at: 2026-06-18T23:33:48.310Z
+translated_at: 2026-07-29T03:30:48.135Z
 ---
 
 # National Federation of Credit Cooperatives (Zenshinkumiren)
@@ -16,37 +17,39 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read 
 
 ## TL;DR
 
-The **central institution of Japan's credit-cooperative (shinkumi) industry**. Established 1954-04 , it is a cooperative financial institution whose member base, per the FSA registry, is **143  credit cooperatives** as of 2026-02-20. It is one wing of the "central 2  federations," alongside the Shinkin Central Bank [[cooperative-banks/shinkin-central]], but its scale is about 1/10 of the latter. Its four pillars are fund management for member shinkumi, surplus-fund management, settlement agency, a shared systems center, and ATM interconnection. **A credit cooperative = specialized in lending to SME members + regional members, with stricter membership than a credit union (shinkin)**, and this body acts as their central bank. It carries a regional-financial-safety-net function. ^[extracted]
+A **systemic central financial institution** whose members are Japanese credit unions. According to the official company profile, the establishment date is 1954-03-29, and the number of members as of 2025-03-31 is 143 credit unions. Responsible for coordinating funds through deposit and loan transactions with credit unions, managing surplus funds, supporting business stability, providing proxy loans, and supporting over-the-counter sales of financial products. The difference between Shinkin banks and banks is determined not by an undefined "strictness" ranking, but by the underlying law, investor qualifications, and legal upper limits on deposits and loans made by non-members. ^[Sources: https://www.zenshinkumiren.jp/company/profile/; https://www.zenshinkumiren.jp/credit-union/.]
 
 ## 1. Company overview
 
 **Official name**: National Federation of Credit Cooperatives ^[extracted]
 **English name**: National Federation of Credit Cooperatives (abbreviated Zenshinkumiren)
-**Established**: 1954-04  (a cooperative financial institution under the Credit Cooperatives Act)
+**Established**: 1954-03-29
 **Governing law**: Small and Medium-sized Enterprise Cooperatives Act + Act on Financial Businesses by Cooperatives (the "Kyokin Act")
 **Listing**: unlisted (members = capital subscribed by credit cooperatives)
-**Headquarters**: Ichibancho, Chiyoda-ku, Tokyo 10
-**Number of members**: **143  credit cooperatives** (as of the FSA registry 2026-02-20)
+**Head office**: 1-9-5 Kyobashi, Chuo-ku, Tokyo
+**Number of members**: **143 credit unions** (official company profile as of 2025-03-31)
 **Institutional design**: general representatives' meeting + board of directors + board of auditors (the governance form of a cooperative financial institution)
 
 ### Sector positioning
 
-| Central institution | Sector | Number of members (2024) | Relative system scale |
+| Confirmation target | Basis law / primary source | Posting rules |
 |---|---|---|---|
-| [[cooperative-banks/norinchukin]] (Norinchukin) | JA・JF・forestry cooperatives | approx. 5000+ | Largest (total assets on the order of 100 兆円) |
-| [[cooperative-banks/shinkin-central]] (Shinkin Central Bank) | Credit unions (shinkin) | 254  shinkin | Medium (total assets approx. 40 兆円) |
-| **Zenshinkumiren** | **Credit cooperatives** | **143  shinkumi** | **Small (about 1/10 of the Shinkin Central Bank)** |
-| [[cooperative-banks/rokin-renraku|rokin-renraku]] (National Association of Labour Banks) | Labour banks (rokin) | 13  rokin | Small |
+| **Zenshin Union** | Small and Medium Enterprises Cooperative Association Act/Cooperative Association Act/Official Company Profile | For the number of members, total assets, and amount of funds, use the official values ​​from the same reference date. |
+| [[cooperative-banks/shinkin-central]] | Shinkin Bank Act/Company Profile of the Shinkin Bank | Check the definition of the number of Shinkin banks and number of members |
+| [[cooperative-banks/norinchukin]] | The Norinchukin Bank Act / Overview of the organization of the Norinchukin Bank | Do not confuse the number of member organizations such as JA, JF, JForest, etc. with the total number of unit cooperatives. |
+| [[cooperative-banks/rokin-renraku|Labor Bank Federation]] | Labor Bank Law/Official overview of the association | Check the number of Labor Banks and the definition of member organizations |
+
+Sources: Each central organization has a different legal basis, membership definition, and base date, so they cannot be combined based on size ranking or approximate numbers. The 143 members of Zenshin Union are based on the official company profile as of 2025-03-31. ^[Sources: https://www.zenshinkumiren.jp/company/profile/; https://www.shinkin-central-bank.jp/about/profile/company.html; https://www.nochubank.or.jp/about/profile.html; https://www.rokinren.com/about/profile.html.]
 
 ### Characteristics of member shinkumi
 
 - **A credit cooperative = based on the SME Cooperatives Act + the Kyokin Act, a separate legal system from the Credit Union (Shinkin) Act**
-- **Strict membership**: credit unions are limited to a region / occupation but may lend to a degree to non-members in their business area; credit cooperatives are **in principle limited to members only** (with exceptions)
+- **Legal limit on transactions with non-members**: In the comparison table of the Federation of Credit Unions, it is explained that deposits and loans made by credit unions to non-members are limited to the total 20%. Shinkin banks also have limits on loans to non-members, so they do not simply rank them based on ``stringency''.
 - **3  classifications**:
   - **Regional shinkumi** (the majority, serving regional members)
   - **Industry shinkumi** (workers in a specific industry; e.g., physicians' shinkumi, Metropolitan Police staff shinkumi)
   - **Occupational shinkumi** (those belonging to a specific company/organization)
-- Many are **small shinkumi** (deposit scale per 1  shinkumi in the hundreds of billions to several trillion yen, smaller than regional and second-tier regional banks)
+- The size of individual credit unions should be confirmed through official disclosures, and the overall range and ranking of the business types should not be determined based on rough numbers.
 
 ### The 4  pillars
 
@@ -100,11 +103,13 @@ The **central institution of Japan's credit-cooperative (shinkumi) industry**. E
 | Item | [[cooperative-banks/shinkin-central]] | Zenshinkumiren |
 |---|---|---|
 | Sector | Credit unions (Credit Union Act) | Credit cooperatives (Kyokin Act + SME Cooperatives Act) |
-| Number of members | 254  shinkin (2025-11  FSA registry) | **143  shinkumi** (2026-02  FSA registry) |
-| Deposit scale (industry total) | approx. 145 兆円 | just under approx. 20 兆円 |
-| Membership strictness | Medium (regional residents may use) | **High (in principle members only)** |
-| Listing | Unlisted | Unlisted |
-| Government / system support | Industry contribution + self-help | Industry contribution + self-help |
+| Number of constituent institutions | Check the base date using the FSA Shinkin bank directory and Shinkin Chukin official summary. | Confirm the base date using the FSA credit union directory and the official overview of the Federation of Shinsei Cooperatives. |
+| Name of investor | member | union member |
+| Business district | Limited (wide area) | Limited (narrow area) |
+| Non-member deposits | no limit | up to the entire 20% |
+| Loan to members/non-members | up to the entire 20% | up to the entire 20% |
+
+Sources: Comparisons of legal systems, business districts, investor qualifications, and non-member transactions are based on the official comparison table of the Federation of Shinshin Unions, and for the number of institutions, check each official summary and the Financial Services Agency directory with reference date. The previous version's ranking of industry deposit estimates and ``membership system stringency'' has been withdrawn. ^[Sources: https://www.zenshinkumiren.jp/credit-union/; https://www.zenshinkumiren.jp/company/profile/; https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx; https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx.]
 
 ### Competitors / substitute forces
 
@@ -136,12 +141,14 @@ The **central institution of Japan's credit-cooperative (shinkumi) industry**. E
 
 ## Sources
 
-- **Wikipedia: National Federation of Credit Cooperatives** (https://ja.wikipedia.org/wiki/全国信用協同組合連合会, extracted 2026-05-19)
-- Zenshinkumiren official website / disclosure magazine (FY 2024 年 edition)
+- Zenshin Union Company Profile: https://www.zenshinkumiren.jp/company/profile/
+- Zenshin Union Management Indicators/Disclosure: https://www.zenshinkumiren.jp/management_indicator/
+- Zenshin Union's business: https://www.zenshinkumiren.jp/business/
+- Differences between credit unions and other financial institutions: https://www.zenshinkumiren.jp/credit-union/
 - FSA: list of credit-cooperative federations and credit-cooperative approvals (2026-02-20): https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx
 - Credit-cooperative industry statistics
 
 ---
 
 > [!info] Verification status
-> confidence: **likely** (based on public information, derived from Wikipedia + official disclosure + the FSA registry). The number of member shinkumi is 143 in the 2026-02-20 FSA registry, with annual variation due to cooperative reorganization. Detailed financial metrics require direct confirmation from IR. The comparative scale against the Shinkin Central Bank is a relative industry approximation.
+> Confidence: **likely** (Published primary sources reconfirmed on 2026-07-29). For the date of establishment, head office, number of members, operations, and legal comparisons of credit unions, official materials of the Japan Federation of Credit Unions were used. The old version's secondary materials, approximate rankings among central institutions, and undefined membership-based rankings have been withdrawn.

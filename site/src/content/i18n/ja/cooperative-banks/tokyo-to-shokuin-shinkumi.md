@@ -1,17 +1,18 @@
 ---
 source: cooperative-banks/tokyo-to-shokuin-shinkumi
-source_hash: b2da9b7748bd9a25
+source_hash: fa3dea91a704f0b1
 lang: ja
+model: source-language-sync
 status: machine
 fidelity: ok
 title: "東京都職員信用組合 (Tokyo Metropolitan Government Employees Credit Cooperative)"
-translated_at: 2026-06-18T23:33:48.285Z
+translated_at: 2026-07-29T03:30:48.134Z
 ---
 # 東京都職員信用組合 (Tokyo Metropolitan Government Employees Credit Cooperative)
 
-## Wiki ルート
+## Wiki route
 
-本項目は [[cooperative-banks/INDEX|cooperative-banks INDEX]] に属し、日本最大の **自治体職員 (local government employee) 信用組合** として、[[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]] にカタログ化された 143 組合の母集団のなかで、[[cooperative-banks/keishicho-shinkumi|警視庁職員信用組合]] (警察) や [[cooperative-banks/tokyo-shobo-shinkumi|東京消防信用組合]] (消防) のような peer の 職域 (occupation-based) 信用組合を補完する。
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the **largest 自治体職員 (local government employee) shinkumi** in Japan, complementing peer 職域 (occupation-based) shinkumi like [[cooperative-banks/keishicho-shinkumi|警視庁職員信用組合]] (police) and [[cooperative-banks/tokyo-shobo-shinkumi|東京消防信用組合]] (fire dept) within the 143-cooperative population catalogued in [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]].
 
 ## 1. 法人概要
 
@@ -56,20 +57,16 @@ translated_at: 2026-06-18T23:33:48.285Z
 | **定期・流動性預金** | 組合員世帯向け預金 |
 | **退職金運用** | 組合員定年退職者向け資産運用相談 |
 
-## 5. KPI
+## 5. KPI update route
 
-| 指標 | 値 | 出典 |
+| 公開項目 | 一次資料 | 掲載ルール |
 |---|---|---|
-| 総資産 | **899 億 4,898 万円** | Wikipedia (2022-03 末) |
-| 預金残高 | **730 億 7,051 万円** | Wikipedia (2022-03 末) |
-| 貸出金 | **410 億 3,246 万円** (住宅ローン中心) | Wikipedia (2022-03 末) |
-| 純資産 | 93 億 7,937 万円 | Wikipedia (2022-03 末) |
-| 出資金 | 1 億 6,254 万円 | Wikipedia (2022-03 末) |
-| 自己資本比率 | 22.67% | 金融庁 関東財務局 経営指標 |
-| 不良債権比率 | 0.77% | 金融庁 関東財務局 経営指標 |
-| 店舗数 / 職員数 | 1 店 (本店のみ) / 33 人 | Wikipedia (2022-03 末) |
+| 預金・貸出金・自己資本比率・不良債権指標 | 金融庁の中小企業金融関連経営指標と同組合の最新公式開示 | 資料の対象年度と指標定義を揃える |
+| 総資産・出資金・純資産 | 東京都職員信用組合の最新ディスクロージャー誌 | 同一基準日・同一資料から転記する |
+| 組合員・役職員・店舗 | 同組合の組織概要またはディスクロージャー誌 | 基準日と店舗区分を明記する |
+| 法人番号・本店・登録管轄 | 金融庁の信用組合免許一覧 | 名簿の更新日を確認する |
 
-> 注: 数値は Wikipedia (2022-03 末: 預金 730 億円・貸出金 410 億円・総資産 899 億円) 及び金融庁関東財務局の中小企業金融関連経営指標。職域信組としては最大級だが、実規模は預金約 730 億円・総資産約 900 億円 (数百億円台)。
+Sources: KPI は金融庁の経営指標と東京都職員信用組合の最新公式開示、法人識別情報は金融庁の信用組合免許一覧で更新する。旧版の二次資料由来 2022 年値と未定義の規模順位は撤回した。 ^[Sources: https://www.fsa.go.jp/policy/chusho/shihyou/kantou/tokyo/03.pdf; https://www.toshokushin.co.jp/; https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx.]
 
 ## 6. 監督・規制
 
@@ -81,7 +78,7 @@ translated_at: 2026-06-18T23:33:48.285Z
   - **共済組合との機能調整**
   - **OB / OG 組合員管理** (高齢化対応)
 
-## 関連
+## Related
 
 - [[cooperative-banks/keishicho-shinkumi]] — 警視庁職員信用組合 (peer 職域信組、警察系)
 - [[cooperative-banks/tokyo-shobo-shinkumi]] — 東京消防信用組合 (peer 職域信組、消防系)
@@ -92,11 +89,10 @@ translated_at: 2026-06-18T23:33:48.285Z
 - [[cooperative-banks/iwaki-shinkumi]] — いわき信用組合 (peer 地域型信組、業態対比)
 - [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
-## 出典
+## Sources
 
 - **金融庁 信用組合免許一覧**: https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx (法人番号 8011105001107, registry No. 50)
 - **東京都職員信用組合 公式**: https://www.toshokushin.co.jp/
-- **Wikipedia: 東京都職員信用組合** (2022-03 末: 預金 730 億 7,051 万円・貸出金 410 億 3,246 万円・総資産 899 億 4,898 万円・純資産 93 億 7,937 万円・出資金 1 億 6,254 万円・1 店・職員 33 人・設立 1921-03-30): https://ja.wikipedia.org/wiki/東京都職員信用組合
 - **金融庁 関東財務局 中小企業金融関連経営指標 [東京都:信用組合]** (預金 75,935 百万円・貸出金 37,267 百万円・自己資本比率 22.67%・不良債権比率 0.77%): https://www.fsa.go.jp/policy/chusho/shihyou/kantou/tokyo/03.pdf
 - **全国信用組合中央協会**: https://www.shinyokumiai.or.jp/
 - **全信組連 (全国信用協同組合連合会) 公式**: https://www.zenshinkumiren.jp/
@@ -108,4 +104,4 @@ translated_at: 2026-06-18T23:33:48.285Z
 ---
 
 > [!info] 校核状態
-> confidence: **likely**。FSA registry 由来の法人番号・registry No.・本店所在地 (東京都庁内) は ^[extracted] (公開情報)。総資産・預金等 KPI は Wikipedia (2022-03 末) + 金融庁関東財務局経営指標で確定 (預金 730 億円・貸出 410 億円・総資産 899 億円・自己資本比率 22.67%)。当初「数千億円規模」概数は実規模 (数百億円台) に修正。自治体職員系信組の最大級アンカーとして Wave 13 拡張で追加。地方職員共済組合との具体的役割分担は本文で断定せず、要追加検証。
+> confidence: **likely**。法人番号・登録管轄・本店所在地は金融庁名簿、KPI は金融庁の経営指標と同組合の公式開示を根拠とする。旧版の二次資料由来 KPI と規模順位は削除済み。地方職員共済組合との具体的役割分担は未確認のため断定しない。

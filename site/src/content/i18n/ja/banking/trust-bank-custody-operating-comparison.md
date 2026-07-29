@@ -1,17 +1,19 @@
 ---
 source: banking/trust-bank-custody-operating-comparison
-source_hash: 5fa3f76fb2d0b058
+source_hash: 0c236f7ee0c557e1
 lang: ja
-model: local-ja-business-term-glossary
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "日本の信託銀行カストディ業務比較"
-translated_at: 2026-06-26T08:31:59.820Z
+translated_at: 2026-07-29T03:30:48.121Z
 ---
 
 # 日本の信託銀行カストディ業務比較
 
-## 概要日本のカストディ分析では、機関の類型を主要なフィールドとして用いる。フルサービス信託銀行、資産管理専門会社、グローバルカストディアン / ICSD 支店、決済インフラは、それぞれ異なる役割を担う。株主表における「信託口」やカストディアン名は、通常はノミニー / 管理上の表層であり、当該信託銀行が経済的な投資家であることの証明ではない。
+## 概要
+
+日本の監護権分析では、主要フィールドとして機関タイプが使用されます。フルサービスの信託銀行、資産管理スペシャリスト、グローバルカストディアン/ICSD支店、決済インフラストラクチャがさまざまな仕事を行っています。株主表の「信託口座」またはカストディアン名は通常、指名者/管理面であり、信託銀行が経済的投資家であることを証明するものではありません。
 
 このページは [[banking/INDEX|banking domain]] の下に位置し、信託銀行カストディの背後にある業務層を比較する。[[banking/japan-trust-bank-custody-map|Japan trust bank and custody map]]、[[banking/japan-master-trust-and-custody-bank-landscape|Japan master trust and custody bank landscape]]、[[trust-banks/master-trust-bank|Master Trust Bank of Japan]]、[[trust-banks/custody-bank|Custody Bank of Japan]]、[[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust Bank]]、[[trust-banks/smtb|SMTB]]、[[trust-banks/mizuho-trust-bank|Mizuho Trust]]、[[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]]、[[foreign-financial-institutions/state-street-japan|State Street Japan]]、[[foreign-financial-institutions/euroclear-bank-japan|Euroclear Bank Japan]]、[[foreign-financial-institutions/clearstream-banking-japan|Clearstream Banking Japan]]、[[securities/japan-market-infrastructure-map|securities market infrastructure]]、[[securities/japan-stock-lending-market-route|stock lending market route]] とあわせて用いること。
 
@@ -24,6 +26,8 @@ translated_at: 2026-06-26T08:31:59.820Z
 | グローバルカストディアン / サブカストディアン | [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]], [[foreign-financial-institutions/state-street-japan|State Street Japan]] | クロスボーダーの資産サービシング、機関投資家向けカストディ、ファンドサービス、証券サービス | カストディの役割だけからローカル銀行のバランスシートエクスポージャーを推論してはならない。 |
 | ICSD / 担保インフラ | [[foreign-financial-institutions/euroclear-bank-japan|Euroclear Bank Japan]], [[foreign-financial-institutions/clearstream-banking-japan|Clearstream Banking Japan]] | 国際決済、担保、クロスボーダーカストディ | ICSD 支店の存在を国内リテール銀行の経路として扱ってはならない。 |
 | 市場インフラ | [[securities/japan-securities-depository-center|JASDEC]], [[securities/japan-securities-clearing-corp|JSCC]], 日銀 JGB 振替決済 | 振替、清算、DVP、JGB 決済 | インフラは運用機関ではない。 |
+
+出典：金融庁の信託業務リスト、信託会社協会の説明、MTBJ/CBJの業務ページ、JASDEC、JSCC、日本銀行のシステムページから金融機関のカテゴリと機能をマッピング。この例は市場シェアを確立するものではありません。 ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; https://www.shintaku-kyokai.or.jp/trust/trustbanks/; https://www.mastertrust.co.jp/about/overview.html; https://www.custody.jp/corporate/information/index.html; https://www.jasdec.com/en/system/; https://www.boj.or.jp/en/paym/jgb_bes/index.htm.]
 
 ## 業務機能
 
@@ -56,6 +60,8 @@ translated_at: 2026-06-26T08:31:59.820Z
 | 投資信託の保有 | ファンド、運用者、受益者の経済性まで見通すこと。 |
 | 証券貸借残高 | 方向性のあるショートの仮説ではなく、貸借プログラム、担保、市場のプランビングを反映している場合がある。 |
 | 外国カストディアン名 | 外国投資家のためのサブカストディまたはグローバルカストディの可能性がある。ローカルでの支配意図を仮定してはならない。 |
+
+出典: この表は解釈プロトコルです。受益権と議決権は、候補者の名前だけからではなく、発行者の届出と該当する信託/ファンドの開示から確立されなければなりません。 ^[Sources: https://www.shintaku-kyokai.or.jp/trust/trustbanks/; https://www.mastertrust.co.jp/about/overview.html; https://www.custody.jp/corporate/information/index.html.]
 
 ## ソースフィールド
 

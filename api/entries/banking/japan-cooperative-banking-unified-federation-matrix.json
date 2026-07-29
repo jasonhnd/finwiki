@@ -28,9 +28,9 @@
     "domain": "banking",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "banking",
@@ -62,11 +62,14 @@
       "https://www.nochubank.or.jp/about/features.html",
       "https://www.rokinren.com/about/profile.html",
       "https://www.rokinren.com/about/our-roles.html",
-      "https://www.shinkin-central-bank.jp/",
+      "https://www.shinkin-central-bank.jp/about/profile/company.html",
       "https://www.shinkumi.co.jp/",
       "https://org.ja-group.jp/factbook/",
       "https://www.dic.go.jp/",
-      "Norinchukin disclosure 2024-2025",
+      "https://www.sic.or.jp/afc/about/summary/summary/mechanism-insurance-savings/",
+      "https://www.boj.or.jp/en/about/education/oshiete/kess/i08.htm",
+      "https://www.boj.or.jp/paym/torihiki/ichiran.pdf",
+      "https://www.nochubank.or.jp/about/profile.html",
       "https://www.nochubank.or.jp/ir/results/",
       "https://www.jabank.org/about/jyokyo/",
       "https://www.scbri.jp/reports/.assets/finance_20240502.pdf",
@@ -74,7 +77,7 @@
       "https://all.rokin.or.jp/about/accounts.html"
     ]
   },
-  "summary": "Japan's \"cooperative-finance\" lane is not one system. There are five distinct federation-anchored systems sitting under three different ministries and three different statutes: JA Bank (497 JA + 31 Shinnoren + 農中 under 農協法 / 農林中央金庫法, joint FSA + 農水省), JF Marine Bank (71 JF + 10 JF Shingyoren + 農中 un",
+  "summary": "Japan's \"cooperative-finance\" lane is not one system. The dated public snapshots used here distinguish JA Bank (497 JA + 31 Shinnoren + Norinchukin at 2025-04-01), JF Marine Bank (71 JF + 10 JF Shingyoren + Norinchukin at 2025-04-01), 信用金庫 (254 shinkin in the cited FSA workbook), 信用組合 (143 shinkumi",
   "headings": [
     "Japan cooperative-banking unified federation matrix",
     "TL;DR",
@@ -88,17 +91,14 @@
     "労働金庫 — Rokin system (Japan rokin bank registry)"
   ],
   "body_links": {
-    "wikilinks_count": 35,
+    "wikilinks_count": 32,
     "wikilinks": [
       "INDEX",
       "banking/INDEX",
       "banking/cooperative-banking-japan",
       "banking/credit-cooperative-registry-japan",
-      "banking/foreign-bank-japan-retreat",
       "banking/ja-bank-system-japan",
       "banking/japan-banking-license-tier-comparison-matrix",
-      "banking/japan-foreign-bank-retreat-refocus-timeline-matrix",
-      "banking/japan-regional-bank-m-a-consolidation-family-tree-matrix",
       "banking/jf-marine-bank-system-japan",
       "banking/regional-bank-consolidation-pattern",
       "banking/rokin-bank-registry-japan",
@@ -131,11 +131,8 @@
       "https://finwiki.zksc.io/ja/domains/banking/",
       "https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/",
       "https://finwiki.zksc.io/ja/banking/credit-cooperative-registry-japan/",
-      "https://finwiki.zksc.io/ja/banking/foreign-bank-japan-retreat/",
       "https://finwiki.zksc.io/ja/banking/ja-bank-system-japan/",
       "https://finwiki.zksc.io/ja/banking/japan-banking-license-tier-comparison-matrix/",
-      "https://finwiki.zksc.io/ja/banking/japan-foreign-bank-retreat-refocus-timeline-matrix/",
-      "https://finwiki.zksc.io/ja/banking/japan-regional-bank-m-a-consolidation-family-tree-matrix/",
       "https://finwiki.zksc.io/ja/banking/jf-marine-bank-system-japan/",
       "https://finwiki.zksc.io/ja/banking/regional-bank-consolidation-pattern/",
       "https://finwiki.zksc.io/ja/banking/rokin-bank-registry-japan/",
@@ -157,9 +154,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 34677,
-    "word_like_tokens": 5310,
-    "inbound_wikilinks_count": 9,
-    "last_modified": "2026-06-04"
+    "nonspace_chars": 35002,
+    "word_like_tokens": 5430,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-07-29"
   }
 }

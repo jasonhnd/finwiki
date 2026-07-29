@@ -6,8 +6,8 @@ aliases:
   - "Iwaki Credit Co-operative"
 domain: cooperative-banks
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
 review_by: 2026-11-25
 confidence: likely
 tags: [JapanFG, shinkumi, credit-cooperative, cooperative-banking, tohoku, fukushima, regional-shinkumi, operating-company]
@@ -91,6 +91,8 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as a *
 | 組合員数 | 41,810 名 (2024-03-31) | いわき信組公式 組合概要 |
 | 店舗数 | 15 店 (2024-03-31) | いわき信組公式 組合概要 |
 | 常勤役職員数 | 185 名 (2024-03-31) | いわき信組公式 組合概要 |
+
+Sources: [いわき信用組合「組合概要」](https://www.iwaki-shinkumi.shinkumi.net/about-profile.html)（2024-03-31 現在）および [公式ディスクロージャー誌一覧](https://www.iwaki-shinkumi.com/about-disk.html)。
 
 > 注: 上記は **いわき信用組合公式「組合概要」(2024 年 3 月 31 日現在)** に基づく確定値。最新の半期/通期数値は [いわき信組ディスクロージャー誌](https://www.iwaki-shinkumi.com/about-disk.html) + [[banking/credit-cooperative-registry-japan|FSA信用組合免許一覧]] を参照。
 

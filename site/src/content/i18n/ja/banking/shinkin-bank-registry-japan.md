@@ -1,14 +1,16 @@
 ---
 source: banking/shinkin-bank-registry-japan
-source_hash: e4f488b2b4f4beef
+source_hash: cb190ac0da65390c
 lang: ja
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "日本の信用金庫登録簿"
-translated_at: 2026-06-18T23:33:48.317Z
+translated_at: 2026-07-29T03:30:48.119Z
 ---
 
 # 日本の信用金庫登録簿
+
 
 ## Wiki ルート
 
@@ -28,6 +30,8 @@ translated_at: 2026-06-18T23:33:48.317Z
 | 免許を受けた信用金庫 | 254 |
 | 法的／制度的ルート | 信用金庫法 |
 | Wiki での取扱い | 登録簿インデックス。単独ページは中央機関または戦略的に重要な例外についてのみ |
+
+出典: 現時点の日付、中央行、および 254 信用金庫の行は、引用された FSA ワークブックから読み取られます。カウントはスナップショットであり、ワークブックが変更されたときに再生成する必要があります。 ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx; https://www.fsa.go.jp/menkyo/menkyo.html.]
 
 ## 2. カバレッジの決定
 

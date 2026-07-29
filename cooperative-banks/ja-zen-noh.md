@@ -11,8 +11,8 @@ aliases:
   - "National Federation of Agricultural Cooperative Associations"
 domain: cooperative-banks
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-07-29
+last_tended: 2026-07-29
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, cooperative-central, ja-group, economic-business, agricultural-finance]
@@ -20,9 +20,9 @@ status: active
 sources:
   - "https://www.zennoh.or.jp/"
   - "https://www.zennoh.or.jp/about/"
+  - "https://www.zennoh.or.jp/about/structure/"
   - "https://www.zennoh.or.jp/about/financial/"
   - "https://www.zennoh.or.jp/about/financial/statement/r6-7.html"
-  - "https://www.jacom.or.jp/noukyo/news/2025/07/250722-83404.php"
   - "https://org.ja-group.jp/factbook/"
   - "https://org.ja-group.jp/pdf/jafactbook/jafactbook_2026.pdf"
   - "農業協同組合法 (昭和 22 年法律第 132 号)"
@@ -35,7 +35,7 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 
 ## TL;DR
 
-**JA グループ 4 大全国連の経済事業中核 = 全国規模の購買 + 販売の事業連合会**。1972 設立 (全販連 + 全購連 合併)、農業協同組合法を根拠とする **連合会**。事業内容は **(1) 購買 = 飼料・肥料・農薬・農業機械・燃料・生活物資の調達と供給**、**(2) 販売 = 米・麦・園芸・畜産物の集荷と流通**、**(3) 加工・物流・直営店舗 (A コープ等)**。**取扱高は年間数兆円規模**、日本最大級の農産物流通組織。[[cooperative-banks/norinchukin|農林中金]] は金融、JA 全農は **「モノ」のフロー**を担当する補完関係。全国 JA → JA 全農 → 市場・大手流通 → 消費者 のフロー、および **逆方向の購買フロー (メーカー → JA 全農 → 全国 JA → 農業者)** が二大事業ライン。**自身は預金や保険を扱わない非金融事業体**だが、JA Bank と同じ JA 全国 497 組合を顧客基盤とする。^[extracted]
+**JA グループの経済事業中核 = 全国規模の購買 + 販売の事業連合会**。1972 年設立 (全販連 + 全購連 合併)、農業協同組合法を根拠とする連合会。事業内容は **(1) 購買 = 飼料・肥料・農薬・農業機械・燃料・生活物資の調達と供給**、**(2) 販売 = 米・麦・園芸・畜産物の集荷と流通**、**(3) 加工・物流等**。[[cooperative-banks/norinchukin|農林中金]] は金融、JA 全農は主に「モノ」のフローを担当する。自身は預金や保険を扱わない非金融事業体である。
 
 ## 1. 組織構造
 
@@ -45,10 +45,14 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 | 通称 | JA 全農 / 全農 |
 | 英名 | National Federation of Agricultural Cooperative Associations (ZEN-NOH) |
 | 法的形態 | **農協法に基づく連合会** (事業連合会) |
-| 設立 | **1972-03 (全販連 + 全購連 統合で発足)** ^[extracted] |
+| 設立 | **1972-03-30** |
 | 本部 | 東京都千代田区大手町 1-3-1 JA ビル |
-| 会員 | 全国 497 JA + 都道府県農協連 + 関連法人 |
+| 会員 | 812（うち准会員 151、2025-03-31 現在） |
+| 出資金 | 1,152 億 2,200 万円（2025-03-31 現在） |
+| 職員数 | 7,685 人（2025-03-31 現在） |
 | 取扱高 | 5 兆 1,286 億円 (2024 年度 / 第 54 期、購買 + 販売合算) |
+
+Sources: [JA 全農「組織概要」](https://www.zennoh.or.jp/about/structure/)（設立、会員、出資金、職員数、所在地）および [2024 年度財務情報](https://www.zennoh.or.jp/about/financial/statement/r6-7.html)（取扱高）。
 
 ### 統合史 ^[extracted]
 
@@ -132,7 +136,6 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 - **JA 全農 公式サイト**: https://www.zennoh.or.jp/
 - **JA 全農 会社概要**: https://www.zennoh.or.jp/about/
 - **JA 全農 財務情報 / 取扱高・財務諸表 (2024 年度・第 54 期)**: https://www.zennoh.or.jp/about/financial/statement/r6-7.html （取扱高 5 兆 1,286 億円）
-- **JAcom 農業協同組合新聞「11 年ぶりに取扱高 5 兆円台へ」(2025-07-22, 24 年度全農決算)**: https://www.jacom.or.jp/noukyo/news/2025/07/250722-83404.php
 - **JA グループ Factbook 2026**: https://org.ja-group.jp/pdf/jafactbook/jafactbook_2026.pdf
 - 農業協同組合法 (昭和 22 年法律第 132 号)
 - 規制改革会議 2014〜2015 農協改革議事録

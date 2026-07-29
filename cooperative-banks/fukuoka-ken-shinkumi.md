@@ -6,9 +6,9 @@ aliases:
   - "Fukuoka Prefecture Credit Co-operative"
 domain: cooperative-banks
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, shinkumi, credit-cooperative, cooperative-banking, kyushu, fukuoka, regional-shinkumi, prefecture-wide-shinkumi, operating-company]
 status: active
@@ -18,7 +18,6 @@ sources:
   - "https://www.zenshinkumiren.jp/"
   - "https://www.dic.go.jp/"
   - "https://kenshin-f.jp/disclosure/"
-  - "https://ja.wikipedia.org/wiki/福岡県信用組合"
   - "中小企業等協同組合法"
 ---
 # 福岡県信用組合 (Fukuoka Prefecture Credit Cooperative)
@@ -95,18 +94,16 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 | **教育・冠婚葬祭** | 組合員家庭の生活資金 |
 | **資産運用相談** | 国債・投信窓販 (系統経由) |
 
-## 5. KPI
+## 5. KPI update route
 
-| 指標 | 値 (2022-03-31 現在) | 出典 |
+| 公開項目 | 一次資料 | 掲載ルール |
 |---|---|---|
-| 総資産 | 約 4,750.9 億円 | Wikipedia (ディスクロージャー誌準拠) |
-| 預金残高 | 約 3,273.6 億円 | 同上 |
-| 貸出金残高 | 約 2,520.5 億円 | 同上 |
-| 資本金 | 約 24.4 億円 | 同上 |
-| 従業員数 | 355 人 | 同上 |
-| 店舗数 | 51 店 (2018-12-17 合併時点) | 同上 |
+| 総資産・預金・貸出金・出資金 | 福岡県信用組合の最新ディスクロージャー誌 | 同一基準日・同一資料から転記する |
+| 自己資本比率・不良債権指標 | 同ディスクロージャー誌 | 指標定義と基準日を併記する |
+| 組合員・役職員・店舗 | 同組合の組織概要またはディスクロージャー誌 | 合併時点の店舗数を現行値として扱わない |
+| 法人番号・本店・登録管轄 | 金融庁の信用組合免許一覧 | 名簿の更新日を確認する |
 
-> 注: 福岡県信組は 2018-12-17 に福岡県中央信組・とびうめ信組・福岡県南部信組が合併して発足した福岡県最大の信用組合で、九州では大分県信組に次ぐ預金規模。組合員数は当組合ディスクロージャー誌を要参照。最新数値は [福岡県信組ディスクロージャー](https://kenshin-f.jp/disclosure/) 参照。
+Sources: KPI と沿革の更新は福岡県信用組合の公式ディスクロージャー、法人識別情報は金融庁の信用組合免許一覧を使う。旧版の二次資料由来 KPI と未検証の業界順位は撤回した。 ^[Sources: https://kenshin-f.jp/disclosure/; https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx.]
 
 ## 6. 監督・規制
 
@@ -136,7 +133,6 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 
 - **金融庁 信用組合免許一覧**: https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx (法人番号 4290005002505, registry No. 128)
 - **福岡県信用組合 ディスクロージャー**: https://kenshin-f.jp/disclosure/
-- **Wikipedia「福岡県信用組合」** (財務諸数値 2022-03-31 現在、ディスクロージャー誌準拠): https://ja.wikipedia.org/wiki/福岡県信用組合
 - **全国信用組合中央協会**: https://www.shinyokumiai.or.jp/
 - **全信組連 (全国信用協同組合連合会) 公式**: https://www.zenshinkumiren.jp/
 - **預金保険機構 公式**: https://www.dic.go.jp/
@@ -146,4 +142,4 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the
 ---
 
 > [!info] 校核状態
-> confidence: **likely**。FSA registry 由来の法人番号・registry No.・本店所在地は ^[extracted] (公開情報)。総資産・預金・貸出金・従業員数・店舗数 KPI は Wikipedia (ディスクロージャー誌準拠、2022-03-31 現在) で出典付与済み。組合員数のみ当組合ディスクロージャー誌を要参照。Kyushu 県域型信組の代表アンカーとして Wave 13 拡張で追加。
+> confidence: **likely**。法人番号・登録管轄・本店所在地は金融庁名簿、最新 KPI と沿革は公式ディスクロージャー誌を根拠とする。旧版の二次資料由来 KPI は削除済みで、数値は一次資料を直接確認した場合だけ再掲する。

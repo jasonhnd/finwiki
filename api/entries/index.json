@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-07-29T10:53:54+09:00",
+  "generated_at": "2026-07-29T12:51:53+09:00",
   "site_url": "https://finwiki.zksc.io/",
   "total_entries": 1482,
   "entries": [
@@ -2370,7 +2370,7 @@
     {
       "slug": "cooperative-banks/kitakyushu-shinkin",
       "domain": "cooperative-banks",
-      "title": "北九州信用金庫",
+      "title": "福岡ひびき信用金庫（旧 kitakyushu-shinkin route）",
       "api_url": "https://finwiki.zksc.io/api/entries/cooperative-banks/kitakyushu-shinkin.json",
       "url": "https://finwiki.zksc.io/ja/cooperative-banks/kitakyushu-shinkin/",
       "html_url": "https://finwiki.zksc.io/ja/cooperative-banks/kitakyushu-shinkin/",
@@ -2409,7 +2409,7 @@
     {
       "slug": "cooperative-banks/nagoya-shinkin",
       "domain": "cooperative-banks",
-      "title": "名古屋信用金庫",
+      "title": "「名古屋信用金庫」識別ノート",
       "api_url": "https://finwiki.zksc.io/api/entries/cooperative-banks/nagoya-shinkin.json",
       "url": "https://finwiki.zksc.io/ja/cooperative-banks/nagoya-shinkin/",
       "html_url": "https://finwiki.zksc.io/ja/cooperative-banks/nagoya-shinkin/",
@@ -2513,7 +2513,7 @@
     {
       "slug": "cooperative-banks/sapporo-shinkin",
       "domain": "cooperative-banks",
-      "title": "札幌信用金庫",
+      "title": "札幌信用金庫（2018年に北海道信用金庫へ統合）",
       "api_url": "https://finwiki.zksc.io/api/entries/cooperative-banks/sapporo-shinkin.json",
       "url": "https://finwiki.zksc.io/ja/cooperative-banks/sapporo-shinkin/",
       "html_url": "https://finwiki.zksc.io/ja/cooperative-banks/sapporo-shinkin/",
@@ -2552,7 +2552,7 @@
     {
       "slug": "cooperative-banks/shinkin-network-services",
       "domain": "cooperative-banks",
-      "title": "Shinkin Network Services (信金ネットワークサービス)",
+      "title": "一般社団法人しんきん共同センター（旧 shinkin-network-services route）",
       "api_url": "https://finwiki.zksc.io/api/entries/cooperative-banks/shinkin-network-services.json",
       "url": "https://finwiki.zksc.io/ja/cooperative-banks/shinkin-network-services/",
       "html_url": "https://finwiki.zksc.io/ja/cooperative-banks/shinkin-network-services/",
@@ -2565,7 +2565,7 @@
     {
       "slug": "cooperative-banks/shinkin-shoken",
       "domain": "cooperative-banks",
-      "title": "信金中央金庫グループ証券機能 / 信金 AM (Shinkin securities + asset management lane)",
+      "title": "しんきんアセットマネジメント投信 (Shinkin Asset Management)",
       "api_url": "https://finwiki.zksc.io/api/entries/cooperative-banks/shinkin-shoken.json",
       "url": "https://finwiki.zksc.io/ja/cooperative-banks/shinkin-shoken/",
       "html_url": "https://finwiki.zksc.io/ja/cooperative-banks/shinkin-shoken/",

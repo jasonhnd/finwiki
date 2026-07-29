@@ -1,11 +1,12 @@
 ---
 source: cooperative-banks/yokohama-kogin-shinkumi
-source_hash: 06fdc7ab5b7c425e
+source_hash: 6c8a6efeee124ab8
 lang: en
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "横浜幸銀信用組合 (Yokohama Kogin Credit Cooperative)"
-translated_at: 2026-06-18T23:33:48.299Z
+translated_at: 2026-07-29T03:30:48.134Z
 ---
 # 横浜幸銀信用組合 (Yokohama Kogin Credit Cooperative)
 
@@ -84,7 +85,9 @@ In Kanagawa Prefecture there are 6  credit cooperatives on the FSA registry (reg
 | Number of branches | 29 店 (2024-03-31) | Yokohama Kogin official cooperative overview |
 | Number of staff | 320  persons (2024-03-31) | Yokohama Kogin official cooperative overview |
 
-> Note: The above are confirmed values based on the **Yokohama Kogin Credit Cooperative official "cooperative overview" (as of 2024 年 3 月 31 日)**. The deposit scale is among the largest among Shogin-affiliated shinkumi. For the latest half-year/full-year figures, refer to the [Yokohama Kogin disclosure magazine](https://www.yokohamakougin.co.jp/disclosure/index.html) + [[banking/credit-cooperative-registry-japan|FSA信用組合免許一覧]].
+Sources: [Yokohama Kobankin Credit Union “Overview”](https://www.yokohamakougin.co.jp/about/overview.html)（2024-03-31 Current) and [Official Disclosure Magazine List](https://www.yokohamakougin.co.jp/disclosure/index.html)。
+
+> Note: The above is a final value based on **Yokohama Kobankin Credit Union official “Cooperative Overview” (as of March 31, 2024)**. The latest half-year/full-year figures are in the official disclosure magazine. [[banking/credit-cooperative-registry-japan|FSA credit union license list]] See.
 
 ## 6. Supervision / regulation
 
@@ -113,7 +116,6 @@ In Kanagawa Prefecture there are 6  credit cooperatives on the FSA registry (reg
 
 - **Yokohama Kogin Credit Cooperative official "cooperative overview" (as of 2024-03-31)**: https://www.yokohamakougin.co.jp/about/overview.html — deposits and installment savings 6,550 億円 / loans 4,900 億円 / capital contributions 275 億円 / members 73,349  persons / branches 29 / staff 320 名 / established 昭和 37 年 2 月 28 日
 - **Yokohama Kogin Credit Cooperative official disclosure magazine**: https://www.yokohamakougin.co.jp/disclosure/index.html
-- **Wikipedia "Yokohama Kogin Credit Cooperative" "Shogin Credit Cooperative"** (the 2017-03-13 reorganization history of the current structure): https://ja.wikipedia.org/wiki/横浜幸銀信用組合
 - **FSA credit cooperative license list**: https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx (corporate number 3020005003571,  registry No. 58)
 - **National Association of Credit Cooperatives**: https://www.shinyokumiai.or.jp/
 - **全信組連 (National Federation of Credit Cooperatives) official**: https://www.zenshinkumiren.jp/
@@ -124,4 +126,4 @@ In Kanagawa Prefecture there are 6  credit cooperatives on the FSA registry (reg
 ---
 
 > [!info] 校核状態
-> confidence: **likely**. The corporate number / registry No. / head-office location, which derive from the FSA registry, are ^[extracted] (public information). Deposits / loans / capital contributions / number of members / branches / number of staff are confirmed in the **Yokohama Kogin official cooperative overview (2024-03-31)** (replacing the previous approximate estimates with actual figures). Added in the Wave 13  expansion as the Kanto representative of Kogin-affiliated ethnic shinkumi. The current structure was **reorganized in 2017-03-13** (the previously unconfirmed merger history was confirmed in Wikipedia "Yokohama Kogin Credit Cooperative" "Shogin Credit Cooperative"), and the origin of its establishment is 昭和 37 年 (1962).
+> confidence: **likely**. We have listed the corporate number, registry number, and head office location derived from the FSA registry, as well as deposits, loans, investments, number of members, stores, and staff in the official association profile. The details of the merger history cannot be determined until primary documents are confirmed.

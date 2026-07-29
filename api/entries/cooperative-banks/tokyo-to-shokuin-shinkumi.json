@@ -24,9 +24,9 @@
     "domain": "cooperative-banks",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -46,7 +46,6 @@
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx",
       "https://www.toshokushin.co.jp/",
-      "https://ja.wikipedia.org/wiki/東京都職員信用組合",
       "https://www.fsa.go.jp/policy/chusho/shihyou/kantou/tokyo/03.pdf",
       "https://www.shinyokumiai.or.jp/",
       "https://www.zenshinkumiren.jp/",
@@ -62,7 +61,7 @@
     "組合員資格 ^[extracted]",
     "全信組連内の位置付け",
     "主要業務 ^[extracted]",
-    "5. KPI",
+    "5. KPI update route",
     "6. 監督・規制",
     "Related",
     "Sources"
@@ -93,9 +92,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4241,
-    "word_like_tokens": 654,
+    "nonspace_chars": 3952,
+    "word_like_tokens": 529,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-07-29"
   }
 }

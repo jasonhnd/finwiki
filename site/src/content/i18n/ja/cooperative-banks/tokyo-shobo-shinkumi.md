@@ -1,21 +1,22 @@
 ---
 source: cooperative-banks/tokyo-shobo-shinkumi
-source_hash: 2e2d737d43691eeb
+source_hash: 3f96d3cfbbc76caa
 lang: ja
+model: source-language-sync
 status: machine
 fidelity: ok
 title: "東京消防信用組合 (Tokyo Fire Department Credit Cooperative)"
-translated_at: 2026-06-02T16:33:58.523Z
+translated_at: 2026-07-29T03:30:48.134Z
 ---
 # 東京消防信用組合 (Tokyo Fire Department Credit Cooperative)
 
-## ウィキ上の位置づけ
+## Wiki route
 
-このエントリは、[[cooperative-banks/INDEX|cooperative-banks INDEX]] 配下にある **東京消防庁職員向け職域信組アンカー**であり、[[cooperative-banks/keishicho-shinkumi|警視庁職員信用組合]] (警察) と [[cooperative-banks/tokyo-to-shokuin-shinkumi|東京都職員信用組合]] (都職員) とともに、143協同組織金融機関として [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]] に収録される東京の緊急対応・公務員系職域信組三点セットを構成する。
+This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as the **東京消防庁職員 occupation-based shinkumi anchor**, completing the Tokyo emergency/civil-service shinkumi trio with [[cooperative-banks/keishicho-shinkumi|警視庁職員信用組合]] (police) and [[cooperative-banks/tokyo-to-shokuin-shinkumi|東京都職員信用組合]] (metropolitan civil servant) within the 143-cooperative population catalogued in [[banking/credit-cooperative-registry-japan|Japan credit cooperative registry]].
 
-## 要約
+## TL;DR
 
-東京消防信用組合は、東京都千代田区大手町 (東京消防庁本部内) に本店を置く **東京消防庁所属職員 (消防官 + 事務職員 + OB) を組合員とする職域信用組合**。FSA 登録番号 49 (関東財務局所管)、法人番号 2010005002121。組合員資格を **東京消防庁職員 + その配偶者・親族**に限定する小規模職域信組で、組合員向けの **生活資金ローン・住宅ローン・退職金運用**を主要業務とする。[[cooperative-banks/zenshin-kumi|全国信用協同組合連合会 (全信組連)]] 会員、[[financial-regulators/dic|預金保険機構]] 対象。東京消防庁約 1.8 万人 (消防官 + 事務職員) という比較的小規模な組合員基盤で運営される、職域信組のニッチ代表例。^[extracted]
+東京消防信用組合は、東京都千代田区大手町 (東京消防庁本部内) に本店を置く **東京消防庁所属職員 (消防官 + 事務職員 + OB) を組合員とする職域信用組合**。FSA registry No. 49 (関東財務局所管)、法人番号 2010005002121。組合員資格を **東京消防庁職員 + その配偶者・親族**に限定する小規模職域信組で、組合員向けの **生活資金ローン・住宅ローン・退職金運用**を主要業務とする。[[cooperative-banks/zenshin-kumi|全国信用協同組合連合会 (全信組連)]] 会員、[[financial-regulators/dic|預金保険機構]] 対象。東京消防庁約 1.8 万人 (消防官 + 事務職員) という比較的小規模な組合員基盤で運営される、職域信組のニッチ代表例。^[extracted]
 
 ## 1. 法人概要
 
@@ -24,7 +25,7 @@ translated_at: 2026-06-02T16:33:58.523Z
 | 正式名 | 東京消防信用組合 |
 | 通称 | 東京消防信組 |
 | 法人番号 | **2010005002121** ^[extracted FSA registry] |
-| FSA 登録番号 | **49** (関東財務局) |
+| FSA registry No. | **49** (関東財務局) |
 | 法的形態 | **信用協同組合** (中小企業等協同組合法準拠) |
 | 本店所在地 | 東京都千代田区大手町1-3-5 東京消防庁内 (郵便番号 100-8119) ^[extracted FSA registry] |
 | 系統 | [[cooperative-banks/zenshin-kumi|全信組連]] 会員 |
@@ -44,7 +45,7 @@ translated_at: 2026-06-02T16:33:58.523Z
 
 ### 東京都内 emergency/civil-servant 職域信組三巨頭 (registry比較)
 
-| 信組 | 本店 | 組合員基盤 | 登録番号 |
+| 信組 | 本店 | 組合員基盤 | registry No. |
 |---|---|---|---|
 | 警視庁職員信用組合 | 千代田区霞が関 警視庁内 | 警視庁職員 約 4.6 万人 | 40 |
 | **東京消防信用組合** ★本ページ | **千代田区大手町 東京消防庁内** | **東京消防庁職員 約 1.8 万人** | **49** |
@@ -70,18 +71,16 @@ translated_at: 2026-06-02T16:33:58.523Z
 | **退職金運用** | 組合員定年退職者向け資産運用相談 |
 | **団信付き団体扱い** | 給与天引き融資 |
 
-## 5. KPI (確定値)
+## 5. KPI update route
 
-| 指標 | 値 | 出典 |
+| 公開項目 | 一次資料 | 掲載ルール |
 |---|---|---|
-| 総資産 | 884 億 6,944 万円 (2022-03-31) | Wikipedia「東京消防信用組合」(基礎情報) |
-| 預金残高 | 733 億 4,594 万円 (2022-03-31) | Wikipedia「東京消防信用組合」(基礎情報) |
-| 貸出金 | 402 億 9,272 万円 (住宅ローン中心, 2022-03-31) | Wikipedia「東京消防信用組合」(基礎情報) |
-| 純資産 | 56 億 7,449 万円 (2022-03-31) | Wikipedia「東京消防信用組合」(基礎情報) |
-| 店舗数 | 3 店 (本店・立川支店・幡ケ谷支店) | 東京消防信組 公式 |
-| 役職員数 | 37 名 (2022-03-31) | Wikipedia「東京消防信用組合」(基礎情報) |
+| 総資産・預金・貸出金・出資金・純資産 | 東京消防信用組合の最新通期経営レポート | 半期と通期を混在させず、同一基準日で転記する |
+| 自己資本比率・不良債権指標 | 同経営レポート | 指標定義と基準日を併記する |
+| 組合員・役職員・店舗 | 同経営レポートまたは公式組織案内 | 店舗と出張所の区分を保持する |
+| 法人番号・本店・登録管轄 | 金融庁の信用組合免許一覧 | 名簿の更新日を確認する |
 
-> 注: 上記は **Wikipedia 基礎情報 (2022 年 3 月 31 日現在)** に基づく値。最新の半期/通期数値は [東京消防信組公式ディスクロージャー誌](https://www.shoubou.co.jp/profile/report.html) (FY2024 通期 = 2025-03-31 現在等、画像 PDF) + [[banking/credit-cooperative-registry-japan|FSA信用組合免許一覧]] を参照。職域信組として総資産 1,000 億円未満の小規模行。
+Sources: 最新 KPI は東京消防信用組合の公式経営レポート、法人識別情報は金融庁の信用組合免許一覧で更新する。旧版の二次資料由来 2022 年値と、そこから導いた規模評価は撤回した。 ^[Sources: https://www.shoubou.co.jp/profile/report.html; https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx.]
 
 ## 6. 監督・規制
 
@@ -94,22 +93,21 @@ translated_at: 2026-06-02T16:33:58.523Z
   - **共済組合との機能調整**
   - **OB / OG 組合員管理**
 
-## 関連項目
+## Related
 
-- [[cooperative-banks/keishicho-shinkumi]] — 警視庁職員信用組合 (ピア職域信組、警察系)
-- [[cooperative-banks/tokyo-to-shokuin-shinkumi]] — 東京都職員信用組合 (ピア職域信組、都職員系)
+- [[cooperative-banks/keishicho-shinkumi]] — 警視庁職員信用組合 (peer 職域信組、警察系)
+- [[cooperative-banks/tokyo-to-shokuin-shinkumi]] — 東京都職員信用組合 (peer 職域信組、都職員系)
 - [[cooperative-banks/zenshin-kumi]] — 全国信用協同組合連合会 (信組業界中央機関)
 - [[financial-regulators/dic]] — 預金保険機構
-- [[banking/credit-cooperative-registry-japan]] — 日本の信用組合登録一覧 (143 shinkumi 全体)
+- [[banking/credit-cooperative-registry-japan]] — Japan credit cooperative registry (143 shinkumi 全体)
 - [[banking/cooperative-banking-japan]] — 協同組織金融全体
-- [[cooperative-banks/iwaki-shinkumi]] — いわき信用組合 (ピア地域型信組、業態対比)
+- [[cooperative-banks/iwaki-shinkumi]] — いわき信用組合 (peer 地域型信組、業態対比)
 - [[cooperative-banks/INDEX|cooperative-banks INDEX]]
 
-## 出典
+## Sources
 
 - **東京消防信用組合 公式「経営レポート」(ディスクロージャー誌一覧)**: https://www.shoubou.co.jp/profile/report.html — FY2024 通期 (2025-03-31)・FY2025 上半期 (2025-09-30) 等の開示誌 (画像 PDF)
-- **Wikipedia「東京消防信用組合」基礎情報 (2022-03-31 現在)**: https://ja.wikipedia.org/wiki/東京消防信用組合 — 総資産 884.69 億円・預金 733.46 億円・貸出 402.93 億円・純資産 56.74 億円・店舗 3・役職員 37 名・設立 1954-01-18
-- **金融庁 信用組合免許一覧**: https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx (法人番号 2010005002121, 登録番号 49)
+- **金融庁 信用組合免許一覧**: https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx (法人番号 2010005002121, registry No. 49)
 - **全国信用組合中央協会**: https://www.shinyokumiai.or.jp/
 - **全信組連 (全国信用協同組合連合会) 公式**: https://www.zenshinkumiren.jp/
 - **預金保険機構 公式**: https://www.dic.go.jp/
@@ -119,5 +117,5 @@ translated_at: 2026-06-02T16:33:58.523Z
 
 ---
 
-> [!info] 検証状態
-> 信頼度: **高め**。FSA 登録一覧由来の法人番号・登録番号・本店所在地 (東京消防庁内) は ^[extracted] (公開情報)。総資産・預金・貸出・純資産・店舗・役職員数は **Wikipedia 基礎情報 (2022-03-31)** で確定 (従前の概数推定を実数に置換、最新は公式ディスクロージャー誌)。消防職員系職域信組の代表アンカーとして Wave 13 拡張で追加。共済組合との具体的役割分担は未確認のため `.opinions/JapanFG/tokyo-shobo-shinkumi.md` に隔離。
+> [!info] 校核状態
+> confidence: **likely**。法人番号・登録管轄・本店所在地は金融庁名簿、最新 KPI は公式経営レポートを根拠とする。旧版の二次資料由来 KPI と規模比較は削除済み。共済組合との具体的役割分担は未確認のため断定しない。

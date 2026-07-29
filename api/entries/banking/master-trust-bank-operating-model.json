@@ -24,9 +24,9 @@
     "domain": "banking",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "banking",
@@ -68,11 +68,8 @@
     "Three competitive layers"
   ],
   "body_links": {
-    "wikilinks_count": 28,
+    "wikilinks_count": 25,
     "wikilinks": [
-      "asset-managers/mitsubishi-ufj-asset-management",
-      "asset-managers/nomura-asset-management",
-      "asset-managers/sbi-asset-management",
       "banking/INDEX",
       "banking/custody-bank-operating-model",
       "banking/japan-banking-license-tier-comparison-matrix",
@@ -100,8 +97,6 @@
       "trust-banks/sumitomo-mitsui-trust"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/ja/asset-managers/nomura-asset-management/",
-      "https://finwiki.zksc.io/ja/asset-managers/sbi-asset-management/",
       "https://finwiki.zksc.io/ja/domains/banking/",
       "https://finwiki.zksc.io/ja/banking/custody-bank-operating-model/",
       "https://finwiki.zksc.io/ja/banking/japan-banking-license-tier-comparison-matrix/",
@@ -132,9 +127,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 17587,
-    "word_like_tokens": 2654,
+    "nonspace_chars": 17653,
+    "word_like_tokens": 2573,
     "inbound_wikilinks_count": 13,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-29"
   }
 }

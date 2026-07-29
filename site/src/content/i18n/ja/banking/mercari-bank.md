@@ -1,11 +1,12 @@
 ---
 source: banking/mercari-bank
-source_hash: 385edc86a2548249
+source_hash: 01b5eddc47a996e5
 lang: ja
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "メルカリバンク (Mercari Bank)"
-translated_at: 2026-06-02T11:47:37.287Z
+translated_at: 2026-07-29T03:30:48.114Z
 ---
 
 # メルカリバンク (Mercari Bank)
@@ -52,6 +53,8 @@ translated_at: 2026-06-02T11:47:37.287Z
 | Stickiness | メルカリアプリの利用頻度を金融導線に転換できるか |
 | License leverage | 自社ライセンスとみんなの銀行 API の境界をどこまで広げられるか |
 
+出典: これらは将来の研究に関する質問であり、パフォーマンスは開示されていません。サービスの構造やサービス開始の事実は、みんな銀行/メルペイのリリース、支店資料、メルカリのヘルプ、メルペイの電子決済代行通知から得られます。 ^[Sources: https://corporate.minna-no-ginko.com/common/pdf/news/2025/12/18/newsrelease_media_1218_01.pdf; https://static.jp.mercari.com/electronic_payment_agency_business.]
+
 ## 関連項目
 
 - [[banking/mercari-bank-license-stack]]
@@ -65,6 +68,6 @@ translated_at: 2026-06-02T11:47:37.287Z
 ## 出典
 
 - みんなの銀行 / メルペイ, 2025-12-18: メルカリバンク service launch release.
-- みんなの銀行: メルカリ支店 official FAQ / branch page.
+- みんなの銀行：メルカリ支店の公式 FAQ / 支店ページ。
 - メルカリ Help: みんなの銀行口座をメルペイに連携する.
 - メルカリ: 電子決済等代行業に関する表示等.

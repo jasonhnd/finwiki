@@ -1,11 +1,12 @@
 ---
 source: cooperative-banks/rokin-renraku
-source_hash: 44e90e38b292171e
+source_hash: 45a4a043fcd95f02
 lang: en
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "The Rokinren Bank (労働金庫連合会)"
-translated_at: 2026-06-18T23:33:48.322Z
+translated_at: 2026-07-29T03:30:48.132Z
 ---
 
 # The Rokinren Bank (労働金庫連合会)
@@ -30,6 +31,8 @@ The Rokinren Bank is the central financial institution for the "rokin" (labor ba
 | Established | 1955年3月23日 |
 | Members | The 13  labor banks nationwide |
 | Location | Uchikanda, Chiyoda-ku, Tokyo |
+
+Sources: [Rokinren Federation Profile]https://www.rokinren.com/about/profile.html)。
 
 According to the official profile, as of 2025-03-31 it had funds under management of 6兆2,093億円, a loan balance of 9,925億円, and a capital adequacy ratio of 15.83%. Its capital is 1,600億円, and the number of full-time officers and employees is 417.
 

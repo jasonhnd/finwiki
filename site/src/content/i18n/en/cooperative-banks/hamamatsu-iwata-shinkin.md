@@ -1,11 +1,12 @@
 ---
 source: cooperative-banks/hamamatsu-iwata-shinkin
-source_hash: af8bdb858c5348d2
+source_hash: a185e0ba19940681
 lang: en
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "Hamamatsu Iwata Shinkin Bank"
-translated_at: 2026-06-15T03:48:21.919Z
+translated_at: 2026-07-29T03:30:48.125Z
 ---
 
 # Hamamatsu Iwata Shinkin Bank
@@ -30,6 +31,8 @@ Hamamatsu Iwata Shinkin Bank (Hamashin) is a major regional shinkin bank headqua
 | Deposit protection | [[financial-regulators/dic|預金保険機構 (DIC)]] — shinkin deposits are DIC-insured |
 | Home market | Western Shizuoka Prefecture (Hamamatsu, Iwata, Kosai, etc.) |
 | Wiki role | Western Shizuoka / Chubu major shinkin operating-company anchor page |
+
+Sources: For official name, corporate number, location of head office, and presence on the license list, check the Financial Services Agency list, and check the official profile of Hamamatsu Iwata Shinkin Bank for merger history, business area, and organizational information. ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx; https://www.hamashin.com/profile/.]
 
 ## 2. Institution-type business model
 

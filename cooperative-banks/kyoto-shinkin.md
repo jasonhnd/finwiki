@@ -3,15 +3,14 @@ title: "京都信用金庫"
 aliases: ["Kyoto Shinkin Bank", "京都信金", "きょうしん", "コミュニティ・バンク京信", "信金"]
 domain: cooperative-banks
 created: 2026-06-03
-last_updated: 2026-06-03
-last_tended: 2026-06-03
-review_by: 2026-12-03
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, shinkin, cooperative-banking, kyoto, kansai, operating-company]
 status: active
 sources:
   - "https://www.kyoto-shinkin.co.jp/"
-  - "https://ja.wikipedia.org/wiki/京都信用金庫"
   - "https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx"
   - "https://www.shinkin-central-bank.jp/"
 ---
@@ -24,7 +23,7 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read 
 
 ## TL;DR
 
-京都信用金庫（きょうしん、ブランド名「コミュニティ・バンク京信」）は、京都府京都市下京区に本店を置く、京都府および隣接地域を主たる営業地盤とする大手信用金庫。1923 年創業で、京都の地域金融機関のなかでは [[regional-banks/kyoto-bank|京都銀行]]・[[cooperative-banks/kyoto-chuo-shinkin|京都中央信用金庫]] に次ぐ規模だが、両者より歴史は古い。京都の中小企業向け融資、地域コミュニティ金融、住宅ローン、個人預金を中核業務とする協同組織金融機関。
+京都信用金庫（きょうしん、ブランド名「コミュニティ・バンク京信」）は、京都府京都市下京区に本店を置き、京都府および隣接地域の公式営業地区を地盤とする信用金庫。1923 年創業で、京都の中小企業向け融資、地域コミュニティ金融、住宅ローン、個人預金を中核業務とする協同組織金融機関。
 
 ## 1. License / group boundary
 
@@ -35,9 +34,11 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read 
 | Brand name | コミュニティ・バンク京信（2023 年制定） |
 | License route | 信用金庫法 / FSA 信用金庫免許一覧 |
 | Group boundary | Member of [[cooperative-banks/shinkin-central|信金中央金庫]] cooperative system |
-| Home market | 京都府 + 隣接地域（店舗網 90 拠点超規模） |
-| Wiki role | Kyoto/Kansai 大手 shinkin operating-company anchor page |
+| Home market | 京都府と隣接地域の公式営業地区（現行店舗一覧で確認） |
+| Wiki role | Kyoto/Kansai shinkin operating-company anchor page |
 | Supervisory bureau | 近畿財務局 |
+
+Sources: 正式名、法人番号、本店所在地、免許名簿上の存在は金融庁一覧、創業・ブランド・営業地区・店舗情報は京都信用金庫の公式サイトで確認する。旧版の無基準日店舗概数は撤回した。 ^[Sources: https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx; https://www.kyoto-shinkin.co.jp/.]
 
 ## 2. Operating model
 
@@ -65,5 +66,4 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]]. Read 
 
 - FSA: 信用金庫免許一覧 (latest snapshot per FSA registry): https://www.fsa.go.jp/menkyo/menkyoj/shinkin.xlsx
 - 京都信用金庫（コミュニティ・バンク京信）公式サイト: https://www.kyoto-shinkin.co.jp/
-- 京都信用金庫 (Wikipedia 日本語版): https://ja.wikipedia.org/wiki/京都信用金庫
 - 信金中央金庫 cooperative system context: https://www.shinkin-central-bank.jp/

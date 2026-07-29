@@ -1,11 +1,12 @@
 ---
 source: cooperative-banks/keishicho-shinkumi
-source_hash: 7075171b07444edb
+source_hash: 8dd0075fc112372f
 lang: en
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "警視庁職員信用組合 (Metropolitan Police Employees Credit Cooperative)"
-translated_at: 2026-06-18T23:33:48.275Z
+translated_at: 2026-07-29T03:30:48.129Z
 ---
 # 警視庁職員信用組合 (Metropolitan Police Employees Credit Cooperative)
 
@@ -74,18 +75,16 @@ In Tokyo there are 19  credit cooperatives on the FSA registry, of which the rep
 | **Time / liquidity deposits** | Deposits for member households |
 | **Retirement-allowance investment** | Asset-management consultation for members reaching retirement age |
 
-## 5. KPI
+## 5. KPI update route
 
-| Indicator | Value | Source |
+| Public items | Primary source | Posting rules |
 |---|---|---|
-| Total assets | **6,830 億 3,070 万円** | Wikipedia (end of 2022-03 ) |
-| Deposit balance | **5,216 億 463 万円** | Wikipedia (end of 2022-03 ) |
-| Loans | **3,553 億 5,139 万円** (housing-loan-centered) | Wikipedia (end of 2022-03 ) |
-| Net assets | 385 億 321 万円 | Wikipedia (end of 2022-03 ) |
-| Capital contributions | 47 億 2,359 万円 | Wikipedia (end of 2022-03 ) |
-| Branches / staff | 7 店 (head and branch offices / sub-offices) / 144  persons | Wikipedia (end of 2022-03 ) |
+| Total assets, deposits, loans, capital investments, net assets | Metropolitan Police Department Employees Credit Union “令和6年 Management Information (DISCLOSURE 2025)” | Check and post the consolidated/non-consolidated classification of the same reference date |
+| Equity ratio/Non-performing loan indicators | Management information | Include the indicator definition and base date |
+| Union members, officers, employees, stores | Management information or official organization information | Maintaining the classification of stores and branch offices |
+| Corporate number/head office/registration jurisdiction | Financial Services Agency credit union license list | Check the update date of the list |
 
-> Note: The figures are from Wikipedia (end of 2022-03 : deposits 5,216 億円, loans 3,553 億円, total assets 6,830 億円). For the latest, refer to the Metropolitan Police Employees Credit Cooperative's FY令和6年 management information (DISCLOSURE 2025). As an occupation-based shinkumi, it is large-scale (total assets about 6,800 億円).
+Sources: The latest KPIs are updated with the official management information of the Metropolitan Police Department Employees Credit Union, and the corporate identification information is updated with the Financial Services Agency's list of credit union licenses. The undefined comparative evaluation of ``large scale'' with the 2022 values ​​derived from secondary sources in the previous edition has been withdrawn. ^[Sources: https://www.keishintokyo.co.jp/pdf/Keishin_Disclo2025web.pdf; https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx.]
 
 ## 6. Supervision / regulation
 
@@ -113,7 +112,6 @@ In Tokyo there are 19  credit cooperatives on the FSA registry, of which the rep
 - **FSA list of credit-cooperative licenses**: https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx (corporate number 5010005002102,  registry No. 40)
 - **Metropolitan Police Employees Credit Cooperative (Keishin) official**: https://www.keishintokyo.co.jp/
 - **Metropolitan Police Employees Credit Cooperative FY令和6年 management information (DISCLOSURE 2025)**: https://www.keishintokyo.co.jp/pdf/Keishin_Disclo2025web.pdf
-- **Wikipedia: Metropolitan Police Employees Credit Cooperative** (end of 2022-03 : deposits 5,216 億 463 万円, loans 3,553 億 5,139 万円, total assets 6,830 億 3,070 万円, net assets 385 億 321 万円, capital contributions 47 億 2,359 万円, 7 店, staff 144  persons, established 1952-03-07): https://ja.wikipedia.org/wiki/警視庁職員信用組合
 - **National Central Society of Credit Cooperatives**: https://www.shinyokumiai.or.jp/
 - **Zenshinkumiren (National Federation of Credit Cooperatives) official**: https://www.zenshinkumiren.jp/
 - **Deposit Insurance Corporation of Japan official**: https://www.dic.go.jp/
@@ -124,4 +122,4 @@ In Tokyo there are 19  credit cooperatives on the FSA registry, of which the rep
 ---
 
 > [!info] Verification status
-> confidence: **likely**. The corporate number, registry No., and head-office location (inside the Metropolitan Police Department headquarters) derived from the FSA registry are ^[extracted] (public information). KPIs such as total assets and deposits are confirmed via Wikipedia (end of 2022-03 ) + the Metropolitan Police Employees Credit Cooperative's official management information (deposits 5,216 億円, loans 3,553 億円, total assets 6,830 億円, capital contributions 47.2 億円, 7 店, staff 144  persons). The initial rough figure of "a scale of several tens to several hundreds of billions of yen" was corrected to the actual scale (total assets about 6,800 億円). It was added in the Wave 13  expansion as a representative anchor of an occupation-based shinkumi (police line). The specific division of roles with the Police Mutual Aid Association is not asserted in the body text and requires additional verification.
+> confidence: **likely**. The corporate number, registered jurisdiction, and head office location are based on the Financial Services Agency directory, and the latest KPIs are based on official management information. KPIs and scale comparisons derived from secondary materials in the previous version have been deleted. The specific division of roles with the police mutual aid association has not been confirmed, so we cannot make a definitive statement.

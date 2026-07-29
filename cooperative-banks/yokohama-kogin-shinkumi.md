@@ -8,8 +8,8 @@ aliases:
   - "요코하마행은신용조합"
 domain: cooperative-banks
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
 review_by: 2026-11-25
 confidence: likely
 tags: [JapanFG, shinkumi, credit-cooperative, cooperative-banking, kanto, kanagawa, yokohama, ethnic-business-finance, korean-shinkumi, operating-company]
@@ -21,8 +21,6 @@ sources:
   - "https://www.dic.go.jp/"
   - "https://www.yokohamakougin.co.jp/about/overview.html"
   - "https://www.yokohamakougin.co.jp/disclosure/index.html"
-  - "https://ja.wikipedia.org/wiki/横浜幸銀信用組合"
-  - "https://ja.wikipedia.org/wiki/商銀信用組合"
   - "中小企業等協同組合法"
 ---
 # 横浜幸銀信用組合 (Yokohama Kogin Credit Cooperative)
@@ -102,7 +100,9 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as a *
 | 店舗数 | 29 店 (2024-03-31) | 横浜幸銀 公式組合概要 |
 | 職員数 | 320 人 (2024-03-31) | 横浜幸銀 公式組合概要 |
 
-> 注: 上記は **横浜幸銀信用組合 公式「組合概要」(2024 年 3 月 31 日現在)** に基づく確定値。預金規模は商銀系信組で最大級。最新の半期/通期数値は [横浜幸銀ディスクロージャー誌](https://www.yokohamakougin.co.jp/disclosure/index.html) + [[banking/credit-cooperative-registry-japan|FSA信用組合免許一覧]] を参照。
+Sources: [横浜幸銀信用組合「組合概要」](https://www.yokohamakougin.co.jp/about/overview.html)（2024-03-31 現在）および [公式ディスクロージャー誌一覧](https://www.yokohamakougin.co.jp/disclosure/index.html)。
+
+> 注: 上記は **横浜幸銀信用組合 公式「組合概要」(2024 年 3 月 31 日現在)** に基づく確定値。最新の半期/通期数値は公式ディスクロージャー誌と [[banking/credit-cooperative-registry-japan|FSA信用組合免許一覧]] を参照。
 
 ## 6. 監督・規制
 
@@ -131,7 +131,6 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as a *
 
 - **横浜幸銀信用組合 公式「組合概要」(2024-03-31 現在)**: https://www.yokohamakougin.co.jp/about/overview.html — 預金・積金 6,550 億円・貸出 4,900 億円・出資金 275 億円・組合員 73,349 人・店舗 29・職員 320 名・設立 昭和 37 年 2 月 28 日
 - **横浜幸銀信用組合 公式 ディスクロージャー誌**: https://www.yokohamakougin.co.jp/disclosure/index.html
-- **Wikipedia「横浜幸銀信用組合」「商銀信用組合」** (現行体制の 2017-03-13 再編経緯): https://ja.wikipedia.org/wiki/横浜幸銀信用組合
 - **金融庁 信用組合免許一覧**: https://www.fsa.go.jp/menkyo/menkyoj/shinkumi.xlsx (法人番号 3020005003571, registry No. 58)
 - **全国信用組合中央協会**: https://www.shinyokumiai.or.jp/
 - **全信組連 (全国信用協同組合連合会) 公式**: https://www.zenshinkumiren.jp/
@@ -142,4 +141,4 @@ This entry sits under [[cooperative-banks/INDEX|cooperative-banks INDEX]] as a *
 ---
 
 > [!info] 校核状態
-> confidence: **likely**。FSA registry 由来の法人番号・registry No.・本店所在地は ^[extracted] (公開情報)。預金・貸出・出資金・組合員数・店舗・職員数は **横浜幸銀公式組合概要 (2024-03-31)** で確定 (従前の概数推定を実数に置換)。幸銀系民族信組の関東代表として Wave 13 拡張で追加。現行体制は **2017-03-13 に再編** (従前未確認だった合併経緯を Wikipedia「横浜幸銀信用組合」「商銀信用組合」で確認)、源流の設立は昭和 37 年 (1962)。
+> confidence: **likely**。FSA registry 由来の法人番号・registry No.・本店所在地と、公式組合概要の預金・貸出・出資金・組合員数・店舗・職員数を記載した。合併史の詳細は一次資料を確認できるまで断定しない。

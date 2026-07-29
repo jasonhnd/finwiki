@@ -1,11 +1,12 @@
 ---
 source: banking/japan-baas-operating-models
-source_hash: 049f4c58eae75d8f
+source_hash: 6b3f376f12a93b24
 lang: ja
+model: google-translate-guarded-line-sync+manual-review
 status: machine
 fidelity: ok
 title: "日本の BaaS オペレーティングモデル"
-translated_at: 2026-06-02T11:47:37.321Z
+translated_at: 2026-07-29T03:30:48.102Z
 ---
 
 # 日本の BaaS オペレーティングモデル
@@ -26,6 +27,8 @@ translated_at: 2026-06-02T11:47:37.321Z
 | 法人 API バンク | 法人口座と決済ワークフローが SaaS / 会計 / プラットフォーム業務に組み込まれる | 免許銀行 | [[payment-firms/gmo-aozora-net|GMO Aozora Net Bank]] | API の信頼性、財務オペレーション、SME の KYC、webhook / 連携リスク。 |
 | 銀行代理経由 | 非銀行または隣接する銀行パートナーが銀行代理構造の下で銀行サービスを取り次ぐ / 取り扱う | 免許銀行 | [[regional-banks/ui-bank|UI Bank]] / CQ BANK 型経路 | 代理権限と顧客説明の境界。 |
 | ナローBaaS | クイック入金や口座直接引落しのような単一の銀行機能 | 免許銀行＋決済 / API レイヤー | [[banking/quick-deposit-four-methods|quick deposit]] | 完全な銀行関係がなくともナローな実用性が価値を持ちうる。 |
+
+出典: 行は、引用されたみんなの銀行、SSNB、GMO あおぞら、UI Bank のサービス ページに基づいた分析オペレーティング モデル ラベルです。法的役割は、現在の FSA 登録簿および契約書で指定主体ごとに確認する必要があります。ラベルだけではライセンスや責任の割り当ては確立されません。 ^[Sources: https://baas.minna-no-ginko.com/; https://www.netbk.co.jp/contents/neobank/; https://gmo-aozora.com/company/outline.html; https://www.uibank.co.jp/cqbank/; https://www.fsa.go.jp/common/shinsei/dendai/index.html.]
 
 ## 法的スタック対 UX スタック
 
@@ -68,6 +71,8 @@ translated_at: 2026-06-02T11:47:37.321Z
 | カスタマーサポート | 銀行、パートナー、または分担 | 苦情とオペレーショナルリスクにとって重要。 |
 | データ利用 / 同意 | 関連するプライバシー / API 規約の下での銀行とパートナー | 組込型金融の収益化にとって重要。 |
 | 経済的アップサイド | 銀行、パートナー、またはレベニューシェア | 預金、貸付、手数料、クロスセルに依存する。 |
+
+出典: この責任表は勤勉チェックリストであり、指定された契約に関する結論ではありません。エンティティ固有の割り当てには、銀行/パートナー条件、公開されている場合はアウトソーシング契約、および該当する FSA 登録またはガイダンスが必要です。 ^[Sources: https://www.fsa.go.jp/common/shinsei/dendai/index.html; https://www.fsa.go.jp/menkyo/menkyoj/dendai.pdf; https://www.zenginkyo.or.jp/abstract/council/openapi/.]
 
 ## 公開データ項目
 
