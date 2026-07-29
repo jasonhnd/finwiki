@@ -26,9 +26,9 @@
     "domain": "trading-company-finance",
     "type": null,
     "created": "2026-05-24",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-06-24",
-    "review_by": "2026-08-08",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -55,11 +55,11 @@
   "headings": [
     "豊田通商フィナンス (Toyota Tsusho Finance)",
     "Wiki route",
-    "1. 会社概要",
-    "トヨタグループ金融機能の三系統",
-    "2. 事業セグメント・マップ",
+    "1. 会社概要 ^[豊田通商 IR: https://www.toyota-tsusho.com/ir/; EDINET: https://disclosure2.edinet-fsa.go.jp/]",
+    "トヨタグループ金融機能の三系統 ^[豊田通商・トヨタ自動車の有価証券報告書と各社公式 IR に基づく比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]",
+    "2. 事業セグメント・マップ ^[豊田通商 IR / 有価証券報告書。業務範囲は非上場子会社の開示制約があるため最新関係会社開示を優先: https://www.toyota-tsusho.com/ir/]",
     "豊田通商の事業構造と金融機能",
-    "競合 / Peer",
+    "競合 / Peer ^[各親会社の有価証券報告書・公式 IR を横断した比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]",
     "4. 規制・政策",
     "Related",
     "Sources"
@@ -112,9 +112,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4458,
-    "word_like_tokens": 632,
+    "nonspace_chars": 4782,
+    "word_like_tokens": 677,
     "inbound_wikilinks_count": 11,
-    "last_modified": "2026-06-24"
+    "last_modified": "2026-07-29"
   }
 }

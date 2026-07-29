@@ -27,9 +27,9 @@
     "domain": "trust-banks",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-15",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -44,7 +44,8 @@
       "Wikipedia: 日本マスタートラスト信託銀行 (2026-05-19 抽出)",
       "三菱 UFJ 信託銀行 開示資料 (2025)",
       "https://www.mastertrust.co.jp/assets/pdf/financial/zm20250521.pdf",
-      "https://www.mastertrust.co.jp/company/information.html"
+      "https://www.mastertrust.co.jp/company/information.html",
+      "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf"
     ]
   },
   "summary": "This entry sits under trust-banks INDEX. Read it against 日本カストディ銀行 (CBJ) for peer / contrast context and banking index for the broader system / regulatory boundary.",
@@ -56,8 +57,8 @@
     "主要株主（公開資料）^[extracted]",
     "機能ポジション",
     "重要年表 ^[extracted]",
-    "2. 事業セグメント・マップ",
-    "業界構造 — カストディ 2 強体制",
+    "2. 事業セグメント・マップ ^[日本マスタートラスト信託銀行「会社概要」および 2024 年度決算: https://www.mastertrust.co.jp/company/information.html; https://www.mastertrust.co.jp/assets/pdf/financial/zm20250521.pdf]",
+    "業界構造 — カストディ 2 強体制 ^[日本マスタートラスト信託銀行「会社概要」: https://www.mastertrust.co.jp/company/information.html; 日本カストディ銀行「ディスクロージャー誌 2025」: https://www.custody.jp/data/disclosure/pdf/disclosure202507.pdf]",
     "「信託口」名義の意味"
   ],
   "body_links": {
@@ -88,9 +89,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 4839,
-    "word_like_tokens": 733,
+    "nonspace_chars": 5396,
+    "word_like_tokens": 817,
     "inbound_wikilinks_count": 27,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-07-29"
   }
 }

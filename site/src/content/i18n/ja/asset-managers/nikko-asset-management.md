@@ -1,11 +1,11 @@
 ---
 source: asset-managers/nikko-asset-management
-source_hash: 30f777c181c2e742
+source_hash: af79e650429a590a
 lang: ja
 status: machine
 fidelity: ok
 title: "アモーヴァ・アセットマネジメント (旧 日興アセット)"
-translated_at: 2026-06-15T03:48:21.885Z
+translated_at: 2026-07-28T23:40:03.780Z
 ---
 
 # アモーヴァ・アセットマネジメント (旧 日興アセット)
@@ -28,6 +28,8 @@ translated_at: 2026-06-15T03:48:21.885Z
 | 親会社境界 | [[trust-banks/sumitomo-mitsui-trust|SuMi TRUST]] 完全子会社 (信託 FG 系列) |
 | 系譜 | 旧 Nikko Securities Investment Trust 系; 2009 年に Sumitomo Trust が取得 |
 | 監督 | [[financial-regulators/fsa|FSA]] + 投資信託協会 / 日本投資顧問業協会 |
+
+Sources: ^[FSA 金融商品取引業者登録一覧: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx; Amova Asset Management 会社概要: https://www.amova-am.com/about/outline.]
 
 ## 2. 事業モデル
 
@@ -56,4 +58,4 @@ translated_at: 2026-06-15T03:48:21.885Z
 - Amova Asset Management, "社名変更および証券投資信託約款変更のお知らせ" (2025-09-01).
 
 > [!info] 校核状態
-> confidence: likely. 旧名・現名・登録番号・SuMi TRUST 完全子会社・2025-09-01 改称は公開情報。具体的 AUM 値は記載しない (公開報道は ~$260bn 規模だが固定値として扱わない)。
+> confidence: likely. 旧名・現名・登録番号・SuMi TRUST 完全子会社・2025-09-01 改称は、2026-07-29 時点の FSA 登録一覧と公式会社概要・改称公告で再確認した。具体的 AUM 値は記載しない。

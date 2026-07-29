@@ -1,11 +1,11 @@
 ---
 source: manufacturer-finance/sony-group-finance-arm
-source_hash: dd8a802b5d1d1157
+source_hash: 13221c5cf3f4c9f1
 lang: en
 status: machine
 fidelity: ok
 title: "Sony Group Finance Arm (Sony Group financial-business arm)"
-translated_at: 2026-06-22T06:12:59.592Z
+translated_at: 2026-07-29T00:30:26.191Z
 ---
 
 # Sony Group Finance Arm (Sony Group financial-business arm)
@@ -16,77 +16,81 @@ This entry sits under [[manufacturer-finance/INDEX|manufacturing index]]. Read i
 
 ## TL;DR
 
-Sony Group's (6758) **financial-business arm = Sony Financial Group (SFG, formerly SFH)** is an unusual captive finance that has constituted a **profit pillar fully independent of the entertainment business** within a conglomerate spanning electronics / games / music / film / semiconductors. Its three pillars — life insurance (Sony Life), non-life insurance (Sony Insurance), and an internet bank (Sony Bank) — unlike the Toyota / Hitachi / Panasonic-style captives, originate **not from "sales finance for the parent's products" but from "Sony-brand personal finance."** In 2020-09 Sony Group took it fully private via TOB → in 2024-05 partial spin-off plan → **TSE Prime relisting date: 2025-09-29** / **partial spin-off effective / completion date: 2025-10-01**, again separating it from the conglomerate. From a manufacturing standpoint, read it as the **completed form of the cycle in which a manufacturing conglomerate takes on / spins off finance.**
+Sony Group's (6758) former financial business is Sony Financial Group (SFG, 8729), whose core is life insurance, non-life insurance, and banking. SFG relisted on TSE PRIME on 2025-09-29, and the partial spin-off took effect on 2025-10-01. It is now not a consolidated subsidiary / reportable segment of Sony Group but is disclosed separately as an equity-method affiliate in which Sony Group holds 16.40%. Accordingly, read it not as "Sony Group's current captive-finance arm" but as a completed case of carving a financial group out of a manufacturing conglomerate.
 
-## 1. The Position of the Finance Division Within Sony Group
+## 1. Position After the Partial Spin-off
 
 | Item | Content |
 |---|---|
-| Parent legal name | Sony Group Corporation / Sony Group Corporation |
-| Parent listing | TSE PRIME 6758, NYSE-listed (ADR: SONY) |
-| Financial holding company | [[megabanks/sony-fg|ソニーフィナンシャルグループ]] (formerly Sony Financial Holdings 8729) |
-| Made a wholly owned subsidiary | 2020-09-29 (TOB completed, delisted) |
-| TSE PRIME relisting | 2025-09-29 (securities code 8729 revived) |
-| Partial spin-off effective date | 2025-10-01 (financial-business partial spin-off completed) |
-| Parent's final stake (assumed post-re-listing) | below 20% (deconsolidation requirement) |
-| Financial segment FY2024  revenue | approx. 1.4 兆円 scale (Sony Group consolidated segment disclosure) |
-| Financial segment FY2024  operating profit | approx. 1,800 億円 scale |
+| Sony Group | Sony Group Corporation, TSE PRIME 6758 / NYSE SONY |
+| SFG | Sony Financial Group Inc., TSE PRIME 8729 |
+| SFG relisting | 2025-09-29 |
+| Spin-off effective | 2025-10-01 |
+| Sony Group holding | 1,172,218,284 shares, 16.40% (2025-10-01) |
+| Accounting position | SFG deconsolidated and recognized as an equity-method affiliate |
+| Sony Group presentation | Financial Services separated from continuing operations / reportable segments as a discontinued operation |
+| SFG shares outstanding | 6,770,358,214 shares (2026-03-31) |
 
-### Principal subsidiaries (assumed FY2025 )
+Sources: ^[Sony Group FY2025 Form 20-F, Note 33: https://www.sony.com/en/SonyInfo/IR/library/FY2025_20F_PDF.pdf; SFG Interim Report 2025: https://www.sonyfg.co.jp/en/financial_info/annualreport/260130_01.pdf; SFG "Basic Stock Information": https://www.sonyfg.co.jp/en/ir/shareholder/shareholder.html.]
+
+16.40% is the finalized figure as of the effective date; do not write "assumed below 20% post-relisting." Because SFG's shares outstanding have changed through share buybacks, do not mix the 2025-10-01 holding with the 2026-03-31 shares outstanding to recompute a current ratio.
+
+### Principal operating companies
 
 ```
-Sony Group (6758)
-  └── Sony Financial Group (SFG, 100% → below 20% post-re-listing)
-        ├── [[life-insurers/sony-life|ソニー生命保険]] (1981,  Lifeplanner sales)
-        ├── Sony Insurance (1998,  online auto insurance)
-        ├── [[regional-banks/sony-bank|ソニー銀行]] (2001,  internet bank, foreign-currency deposits, mortgages)
-        └── Sony Financial Ventures (CVC, fintech investment)
-        In parallel: Sony Network Communications (So-net lineage, adjacent to finance)
+Sony Group (16.40% as of 2025-10-01; equity-method affiliate)
+  └── Sony Financial Group (8729)
+        ├── Sony Life
+        ├── Sony Assurance
+        ├── Sony Bank
+        ├── Sony Lifecare
+        ├── Sony Financial Ventures
+        └── Sony Small-Amount and Short-Term Insurance
 ```
 
-## 2. Product / Business Lines (Group-wide Map)
+## 2. SFG's Business Structure
 
-| Business line | Content | Touchpoint with finance |
+| Business | Principal entity | SFG stake |
 |---|---|---|
-| Game & Network Services (G&NS) | PlayStation, PSN | Billing / credit / carrier billing, scope for Sony Bank card linkage |
-| Music | Sony Music, artist royalties | Royalty / copyright finance |
-| Pictures | Sony Pictures, distribution | Content finance, film tax regimes |
-| Electronics (ET&S) | TV, cameras, audio | Sales finance (limited), Sony Store credit-card linkage |
-| Imaging & Sensing (I&SS) | CMOS image sensors | Capital-expenditure finance (Kumamoto No. 2  plant, etc.) |
-| Finance | SFG (life / non-life / bank) | **Planned for separation via re-listing** |
+| Life insurance | Sony Life Insurance | 100% |
+| Non-life insurance | Sony Assurance | 100% |
+| Banking | Sony Bank | 100% |
+| Nursing care | Sony Lifecare (with Lifecare Design / Proud Life beneath it) | 100% |
+| Venture capital | Sony Financial Ventures | 100% |
+| Small-amount short-term insurance | Sony Small-Amount and Short-Term Insurance | 100% |
 
-Sony's financial segment has functioned over the past 20  years as a **"stable revenue source that smooths hardware-cycle fluctuations."** Even when the electronics business was in the red, a structure has continued in which life insurance's stock-type earnings and the bank's interest earnings underpin consolidated operating profit.
+Sources: ^[SFG "About Our Group": https://www.sonyfg.co.jp/en/company/about_group.html; SFG "Group Structure" (2025-10-01): https://www.sonyfg.co.jp/en/company/structure.html.]
 
-## 3. KPIs (FY2024  consolidated + SFG segment)
+Life, non-life, and banking are the core, but the current official list also includes nursing care, VC, and small-amount short-term insurance. Do not place Sony Network Communications and the like alongside these as financial subsidiaries.
 
-| Metric | Value | Source |
+## 3. How to Read the Disclosures
+
+| Aspect | Current treatment | Primary material |
 |---|---|---|
-| Sony Group consolidated revenue | approx. 13.0 兆円 (FY2024) | Sony Group earnings release |
-| Sony Group consolidated operating profit | approx. 1.2 兆円 scale | Same as above |
-| Financial segment sales revenue | approx. 1.4 兆円 | Sony Group segment information |
-| Financial segment operating profit | approx. 1,800 億円 scale | Same as above |
-| Sony Life policies in force | approx. 50 兆円 scale | SFG disclosure |
-| Sony Insurance direct premiums | approx. 1,400 億円 scale | Same as above |
-| Sony Bank deposit balance | approx. 3.5 兆円 scale | Same as above |
-| Sony Bank mortgage balance | approx. 2.4 兆円 scale | Same as above |
-| Parent stake (assumed post-re-listing) | below 20% | 2024-05  management-policy briefing |
+| Sony Group's segments | Financial Services is outside the reportable segments of continuing operations | Sony Group Form 20-F |
+| Sony Group's FY2026 comparatives | Pre-spin-off periods presented in discontinued operations | Sony Group Form 20-F Note 33 |
+| SFG's results / capital | Confirm via SFG's independent IR / IFRS consolidated materials | SFG FY2025 results |
+| Ownership / shares issued | Attach record dates; do not confuse with the post-buyback denominator | SFG stock information / interim report |
+| Brand relationship | SFG maintains a license relationship for the Sony trademark | SFG corporate governance disclosure |
 
-> Figures are approximations from Sony Group's "Annual Report on Form 20-F," earnings releases, Investor Day materials, and the SFG disclosure booklet. At the time of re-listing, SFG's independent IR is expected to resume, returning to more granular disclosure.
+Sources: ^[Sony Group FY2025 Form 20-F: https://www.sony.com/en/SonyInfo/IR/library/FY2025_20F_PDF.pdf; SFG FY2025 Consolidated Financial Summary: https://www.sonyfg.co.jp/en/financial_info/results/sfgi_fy2025_4q_03.pdf; SFG Interim Report 2025: https://www.sonyfg.co.jp/en/financial_info/annualreport/260130_01.pdf.]
 
-## 4. Strategy (Finance Separation and Re-listing)
+Do not retain the former "financial segment" approximations as current Sony Group KPIs. Sony Group's Note 33 shows financial services revenue of 678.0 billion yen in FY2026 discontinued operations, but this is not synonymous with SFG's annual results as an independent company.
 
-- **The logic of the 2020  full subsidiarization**: A decision to shrink the conglomerate discount of the time and to fully deploy the financial subsidiary as a resource for group optimization. With the financial segment's ROE declining in a low-interest-rate environment, the reading was that incorporating it into the parent was more advantageous in terms of capital efficiency.
-- **The logic of the 2024-05  separation announcement**: In a rising-interest-rate phase, SFG's standalone valuation recovered, and crystallizing the value of independent equity via re-listing serves shareholder-value maximization better. Further, the 2023  Industrial Competitiveness Enhancement Act's partial-spinoff tax regime gave a push (for details, see [[business/sony-fg-partial-spinoff-case|Sony FG partial spinoff case]]).
-- **Post-re-listing brand-use agreement**: SFG continues to use the Sony brand (incurring license fees), while SFG holds independent management decisions, capital procurement, and personnel.
-- **Entertainment purification**: The Sony Group parent **concentrates on the "IP × sensor" core** of Game / Music / Pictures / I&SS, and by spinning off finance, simplifies the growth story for investors.
-- **Cross-sell scope**: PlayStation members → Sony Bank cross-sell, Sony Store cards → Sony Insurance cross-sell, and so on, continuing on a commercial basis even after re-listing.
+## 4. Strategic Reading
+
+- **Treat it as a completed transaction**: Do not describe the relisting / spin-off as "planned" or "assumed."
+- **Update the parent-subsidiary relationship**: Sony Group is not a controlling shareholder; SFG is an equity-method affiliate.
+- **Separate brand from control**: Continuation of the Sony trademark license does not imply consolidated control by Sony Group.
+- **Prioritize independent IR**: Update insurance policies, bank deposits, capital / dividends, etc. from SFG / operating-company disclosures with record dates.
 
 ## 5. Regulation / Policy
 
 - As a listed company, subject to the TSE, the FIEA, the Companies Act, and U.S. SEC (NYSE ADR) regulation.
 - Financial subsidiaries comply with the Insurance Business Act and the Banking Act under Financial Services Agency (FSA) supervision.
-- For partial spinoffs, the 2023  amendment to the Industrial Competitiveness Enhancement Act made tax deferral possible, and Sony FG received METI certification as a **第 1 号-class case among large conglomerate transactions.**
-- In personal-information / data regulation, the separation / linkage design between Sony Group-wide user data (PlayStation Account, Sony Account) and SFG-side insurance / banking data becomes a point of contention.
+- SFG is under FSA supervision as an insurance holding company / bank holding company, and Sony Life / Sony Assurance / Sony Bank are licensed under their respective sectoral acts.
+- Confirm the tax and Companies Act treatment of the partial spin-off from certification materials at the time of the transaction; do not assert qualification from general regime discussion alone.
+- Customer-data linkage between Sony Group and SFG rests on each company's published policies, consent, and the Act on the Protection of Personal Information, etc.; do not presume cross-selling as fact.
 
 ## Related
 
@@ -97,13 +101,16 @@ Sony's financial segment has functioned over the past 20  years as a **"stable r
 
 ## Sources
 
-- Sony Group Corporation "Investor Relations Library": https://www.sony.com/en/SonyInfo/IR/library/
-- Sony Group "SFG Partial Spin-off": https://www.sony.com/en/SonyInfo/IR/library/SFG_pso/
-- Sony Group press release 2024-05-22 "Financial Business Partial Spin-off / Re-listing": https://www.sony.com/en/SonyInfo/News/Press/202405/24-026E/
-- Sony Financial Group corporate site: https://www.sonyfh.co.jp/
+- Sony Group "FY2025 Form 20-F": https://www.sony.com/en/SonyInfo/IR/library/FY2025_20F_PDF.pdf
+- Sony Financial Group "Corporate Profile": https://www.sonyfg.co.jp/en/company/about_us.html
+- Sony Financial Group "Group Structure": https://www.sonyfg.co.jp/en/company/structure.html
+- Sony Financial Group "About Our Group": https://www.sonyfg.co.jp/en/company/about_group.html
+- Sony Financial Group "Basic Stock Information": https://www.sonyfg.co.jp/en/ir/shareholder/shareholder.html
+- Sony Financial Group "Interim Report 2025": https://www.sonyfg.co.jp/en/financial_info/annualreport/260130_01.pdf
+- Sony Financial Group "FY2025 Consolidated Financial Summary": https://www.sonyfg.co.jp/en/financial_info/results/sfgi_fy2025_4q_03.pdf
 - EDINET (securities reports): https://disclosure2.edinet-fsa.go.jp/
 
 ---
 
 > [!info] Verification status
-> confidence: **likely**. Based on Sony Group IR + the SFG corporate site + EDINET. Financial-segment figures are stated as approximations; the TSE Prime relisting date (2025-09-29) and partial spin-off effective / completion date (2025-10-01) are based on Sony Group / securities-firm notices. The parent's final post-relisting stake requires an update from securities-report data.
+> confidence: **likely**. Verified as of 2026-07-29 against the Sony Group Form 20-F and SFG's post-listing IR. Separated, with record dates, the 2025-09-29 relisting, the 2025-10-01 spin-off effective date, the 16.40% stake as of the effective date, equity-method treatment, and the FY2026 shares outstanding. Update subsequent ownership ratios from the latest SFG disclosures reflecting share buybacks and the like.

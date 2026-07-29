@@ -1,11 +1,11 @@
 ---
 source: megabanks/au-fh
-source_hash: 4130a03e20ca3b57
+source_hash: 535d40c09fa96a3a
 lang: en
 status: machine
 fidelity: ok
 title: "au Financial Holdings (au-FH)"
-translated_at: 2026-06-25T00:30:00.000Z
+translated_at: 2026-07-29T00:31:23.895Z
 ---
 
 # au Financial Holdings (au-FH)
@@ -16,14 +16,14 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[meg
 
 ## TL;DR
 
-A KDDI 100% subsidiary and the holding company of the KDDI financial economic sphere. **Established 2019-04-01**. Under its umbrella are **au Jibun Bank / au PAY Card / au PAY / au PAY Sonpo (general insurance) / au Asset Management**, etc. 2025-01-31 it acquired all shares of au Jibun Bank from MUFG (in exchange, it sold the former au Kabucom Securities → Mitsubishi UFJ e-Smart Securities to MUFG) → **the bank's 100% subsidiary conversion was completed**. **FY2026/3 operating profit 432 億円** (prior period 406 億円, +6.4% / CAGR FY2023+ **30.4%**), **total assets approx. 9.3 兆円**. **2026-05-12 KDDI made an official timely disclosure of the start of TSE-listing preparations for auFH** — the first IPO candidacy among telco-affiliated FGs (timing undecided; KDDI plans to remain a major shareholder even after listing). Via au Ponta + the 2024-07 Lawson 50/50 JV, it builds a "telecom × convenience store × finance" ecosystem. On 2026-06-18, **all** 14,726,100 Lifenet shares held by auFH (18.32% of issued shares / 18.33% of voting rights) were transferred to JAL, so auFH ceased to be Lifenet's major shareholder while the business alliance continues under a new agreement.^[source:lifenet-jal-transfer-2026][source:au-fh-lifenet-alliance-2026] One of the four poles of telco-affiliated FGs ([[megabanks/ndfg]] / au-FH / [[megabanks/paypay-fg]] / [[payment-firms/rakuten-fg]]).^[extracted]
+A KDDI 100% subsidiary and the bank / insurance holding company overseeing KDDI's financial services. **Established 2019-04-01**. Its current main group companies are **au Jibun Bank / au Financial Service / au Sonpo / au Asset Management / au Financial Partner / au Small Amount and Short Term Insurance / au Reinsurance**. On 2025-01-31 it turned au Jibun Bank into a 100% subsidiary, while transferring the former au Kabucom Securities to MUFG. On 2026-07-01, au Payment absorbed the former au Financial Service and, as the new "au Financial Service", consolidated au PAY, au PAY Card, loans, etc. into a single legal entity. KDDI announced on 2026-05-12 the start of TSE-listing preparations for auFH, but the listing timing / market / execution are undetermined. On 2026-06-18, all held shares of [[life-insurers/lifenet|Lifenet Insurance]] were transferred to JAL, dissolving the capital relationship, while the business alliance continues under a new agreement.^[auFH current group: https://www.au-financial.com/corporate_vision.html; payment/card merger: https://www.au-financial.com/pdf/fs/news_20260701_01.pdf; Lifenet transfer: https://ir.lifenet-seimei.co.jp/ja/news/index/auto_20260618573585/pdfFile.pdf]
 
 ## 1. Company overview
 
 **Legal name**: au フィナンシャルホールディングス株式会社 ^[extracted]
 **English name**: au Financial Holdings Corporation
 **Established**: **2019-04-01** (newly set up to integrate KDDI's financial businesses) ^[extracted]
-**Head office**: Iidabashi, Chiyoda-ku, Tokyo ^[extracted]
+**Head office**: THE LINKPILLAR 1 NORTH 11F, 2-21-1 Takanawa, Minato-ku, Tokyo
 **Parent company**: **KDDI Corporation (100%)** ^[extracted]
 **Positioning**: Core company of the "financial business" within KDDI's Personal segment ^[extracted]
 **Listing**: Unlisted (KDDI wholly-owned subsidiary) → **2026-05-12 KDDI made an official timely disclosure of the start of TSE-listing preparations** (timing undecided; KDDI plans to remain a major shareholder even after listing) ^[extracted]
@@ -39,6 +39,8 @@ A KDDI 100% subsidiary and the holding company of the KDDI financial economic sp
 | FY2025/3 | **406 億円** | — |
 | FY2026/3 | **432 億円** | **+6.4%** (CAGR **+30.4%** vs FY2023 ) |
 
+Sources: ^[KDDI「2026年3月期 決算説明会資料」: https://www.kddi.com/extlib/files/corporate/ir/library/presentation/2026/pdf/kddi_260512_main_T8v6VV.pdf; auFH「株式上場準備の開始」: https://www.au-financial.com/pdf/auFH/news_20260512_02.pdf.]
+
 **Main business KPIs (latest disclosed values)** ^[extracted]
 
 | Item | Value | Point in time / source |
@@ -47,9 +49,11 @@ A KDDI 100% subsidiary and the holding company of the KDDI financial economic sp
 | **au Jibun Bank deposit balance** | **surpassed 5 兆円** | 2025-08-06 official PR |
 | **au Jibun Bank deposit-account count** | **surpassed 700 万** | 2025-09-20 official PR |
 | au Jibun Bank personal deposits | **YoY ×+1.3 ** | FY2026/3  progress |
-| au PAY Card gold members | **172 万 members** | within FY2026/3  |
+| au PAY Card gold members | **surpassed 200 万 members** | 2026-05-25 official announcement |
 | Ponta Pass net increase | **29 万 members (Q2)** | FY2026/3  2Q |
 | au PAY merchants (locations) | approx. 753 万 locations | as of 2025-11-28 |
+
+Sources: ^[auFH「株式上場準備の開始」: https://www.au-financial.com/pdf/auFH/news_20260512_02.pdf; auじぶん銀行「預金残高5兆円」: https://www.jibunbank.co.jp/corporate/news/2025/0812_01.html; auじぶん銀行「口座数700万」: https://www.jibunbank.co.jp/corporate/news/2025/0912_01.html; auFH news: https://www.au-financial.com/news/.]
 
 **Parent company KDDI consolidated (reference)** ^[extracted]
 
@@ -61,6 +65,8 @@ A KDDI 100% subsidiary and the holding company of the KDDI financial economic sp
 | Personal segment operating profit | — | 8,283 億円 (▲2.1%) | — |
 | Lawson equity-method P&L | +57 億円 (FY25/3  1Q) | ▲44 億円 (FY26/3  1Q, second-half growth factored in) | — |
 
+Sources: ^[KDDI「2026年3月期 決算短信」: https://www.kddi.com/extlib/files/corporate/ir/library/presentation/2026/pdf/kddi_2026_4qc_PsXBu3.pdf; KDDI「2026年3月期 決算説明会資料」: https://www.kddi.com/extlib/files/corporate/ir/library/presentation/2026/pdf/kddi_260512_main_T8v6VV.pdf.]
+
 ### Major subsidiaries / holdings (based on public information)
 
 ```
@@ -69,12 +75,13 @@ au Financial Holdings (unlisted, KDDI 100%, total assets 9.3兆円, TSE-listing 
   │     ※ Former name: Jibun Bank (established 2008 , KDDI 50% + Bank of Tokyo-Mitsubishi UFJ 50% joint venture)
   │       → 2020-05 renamed "au Jibun Bank" → 2025-01-31 KDDI 100% conversion
   │       → 2025-08 deposit balance surpassed 5兆円 / 2025-09 口座count surpassed 700万
-  ├── au Payment Corporation (100%) ── operates QR / barcode payment au PAY
-  ├── au PAY Card Corporation (100%) ── formerly KDDI Financial Service
-  │     ※ Gold members 172万 (FY26/3)
-  ├── au Financial Service Corporation (100%) ── money lending (personal loans)
-  ├── au PAY Sonpo (General Insurance) Corporation (100%) ── formerly au Sonpo (originated as a KDDI + Aioi Nissay Dowa Insurance JV)
+  ├── au Financial Service (100%) ── au PAY / au PAY Card / loans / payment agency
+  │     ※ Formed 2026-07-01 when au Payment absorbed the former au Financial Service
+  ├── au Sonpo (General Insurance) (100%)
   ├── au Asset Management Corporation (100%) ── investment-trust management
+  ├── au Financial Partner (100%) ── insurance solicitation / bank agency / financial-instruments intermediation
+  ├── au Small Amount and Short Term Insurance (100%)
+  └── au Reinsurance
 
  【departed from under au-FH (2025-01-31)】
    Former au Kabucom Securities → MUFG 100% conversion → renamed "Mitsubishi UFJ e-Smart Securities"
@@ -105,6 +112,8 @@ au Financial Holdings (unlisted, KDDI 100%, total assets 9.3兆円, TSE-listing 
 | 2025-08-06 | **au Jibun Bank deposit balance surpassed 5 兆円** (official PR) ^[extracted] |
 | 2025-09-20 | **au Jibun Bank deposit-account count surpassed 700 万** (official PR) ^[extracted] |
 | **2026-05-12** | **KDDI made an official timely disclosure of the start of TSE-listing preparations for auFH** (timing undecided; KDDI plans to remain a major shareholder even after listing) ^[extracted] |
+| **2026-06-18** | **Completed transfer of all held Lifenet Insurance shares to JAL** (capital relationship dissolved; business alliance continues) |
+| **2026-07-01** | **au Payment + former au Financial Service integrated, inaugurating the new au Financial Service** |
 
 ### Chronology topics
 
@@ -117,15 +126,15 @@ au Financial Holdings (unlisted, KDDI 100%, total assets 9.3兆円, TSE-listing 
 | Segment | Main operators | Characteristics / recent trends |
 |---|---|---|
 | Net bank | au Jibun Bank | Formerly MUFG-affiliated → 2025-01-31 KDDI 100% conversion. Deposits 5 兆円 / accounts 700 万. Shifting from mortgage dependence to a deposit-loan-ratio-focused strategy ^[extracted] |
-| QR / barcode payment | au PAY (au Payment) | Merchants 753 万 locations. User base over 4000 万 via Ponta linkage ^[extracted] |
-| Credit | au PAY Card | Gold members 172 万. Linked to KDDI telecom charges ^[extracted] |
-| Money lending | au Financial Service | Personal loans / deferred payment |
-| General insurance | au PAY Sonpo | Formerly au Sonpo, originated as an Aioi Nissay Dowa Insurance JV |
+| Payment / card / lending | au Financial Service | au PAY, au PAY Card, au PAY Smart Loan, etc. Legal-entity integration on 2026-07-01 |
+| General insurance | au Sonpo | General insurance business |
 | Life insurance | Lifenet Insurance (business alliance continues; capital relationship dissolved) | Collaboration such as au life insurance and au Jibun Bank group credit life insurance continues. However, auFH transferred all held shares to JAL on 2026-06-18 and is no longer a major shareholder.^[source:lifenet-jal-transfer-2026][source:au-fh-lifenet-alliance-2026] |
 | Investment trust / asset management | au Asset Management | Investment-trust sales via au PAY |
 | Net securities | **Blank** (2025-01-31 au Kabucom departed) | As of 2026-05 , no official announcement of rebuilding / partnership |
 | Points | au PAY × Ponta (Loyalty Marketing) | KDDI + Mitsubishi Corporation alliance |
 | Convenience-store linkage | Lawson (KDDI + Mitsubishi Corporation 50/50) | 2024-07  going private / fintech-izing the store network |
+
+Sources: ^[auFH「経営方針 / 現行グループ会社」: https://www.au-financial.com/corporate_vision.html; auFH「事業紹介」: https://www.au-financial.com/operations.html; au Financial Services「合併完了」: https://www.au-financial.com/pdf/fs/news_20260701_01.pdf; Lifenet「株式取得完了」: https://ir.lifenet-seimei.co.jp/ja/news/index/auto_20260618573585/pdfFile.pdf.]
 
 ### Strategic core: telecom × convenience store × finance economic sphere + IPO independence
 
@@ -141,8 +150,10 @@ au Financial Holdings (unlisted, KDDI 100%, total assets 9.3兆円, TSE-listing 
 |---|---|---|---|---|
 | [[megabanks/ndfg]] | NTT docomo | [[regional-banks/ssnb|住信SBI→ドコモSMTBネット銀行]] (consolidated subsidiary, 2025-10-01〜) | dポイント / d Card | NDFG itself unlisted, with Monex listed under its umbrella |
 | **au-FH** | KDDI | au Jibun Bank (100%) | au Ponta / Lawson | **2026-05-12 announced start of TSE-listing preparations** |
-| [[megabanks/paypay-fg]] | SoftBank Group / Z | PayPay Bank (former Japan Net) | PayPay | Via LINE Yahoo |
+| [[megabanks/paypay-fg]] | SoftBank Corp. | PayPay Bank (former Japan Net) | PayPay | PayPay listed on Nasdaq; SoftBank consolidation continues |
 | [[payment-firms/rakuten-fg]] | Rakuten Group | Rakuten Bank (listed) | Rakuten Points / Rakuten Ichiba | Bank / securities / card listed individually |
+
+Sources: ^[NTTドコモ「NDFG体制移行」: https://www.docomo.ne.jp/info/news_release/2026/03/31_00.html; auFH「上場準備開始」: https://www.au-financial.com/pdf/auFH/news_20260512_02.pdf; SoftBank FY2025 results: https://www.softbank.jp/en/corp/set/data/ir/documents/presentations/fy2025/investors/pdf/sbkk_investors_presentation_20260511_en.pdf.]
 
 ### Alliances / M&A
 
@@ -183,8 +194,11 @@ au Financial Holdings (unlisted, KDDI 100%, total assets 9.3兆円, TSE-listing 
 - **au Financial Holdings / Lifenet Insurance "Notice Regarding Change in Major Shareholder of LIFENET Insurance and Execution of New Business Alliance Agreement"** (2026-04-30; auFH decided to transfer all 14,726,100 shares / 18.32% to JAL) https://www.au-financial.com/pdf/auFH/news_20260430_01.pdf
 - **Lifenet Insurance "Notice Concerning Completion of Acquisition of Shares of Common Stock of the Company by Japan Airlines Co., Ltd. and Change in Major Shareholder"** (2026-06-18; JAL acquisition completed; auFH has no shares after the change) https://ir.lifenet-seimei.co.jp/ja/news/index/auto_20260618573585/pdfFile.pdf
 - **Lifenet Insurance IR "Shareholder / share information (share status)"** (checked 2026-06-25; note that all common shares held by auFH were transferred to JAL on 2026-06-18) https://ir.lifenet-seimei.co.jp/ja/ir/stock/overview.html
+- **auFH "Company overview"** (current head office / KDDI 100% / bank-insurance holding company operations) https://www.au-financial.com/corporate_overview.html
+- **auFH "Management policy"** (current group companies) https://www.au-financial.com/corporate_vision.html
+- **au Financial Service "Completion of merger with au Payment"** (2026-07-01) https://www.au-financial.com/pdf/fs/news_20260701_01.pdf
 
 ---
 
 > [!info] Verification status
-> confidence: **likely** (v1.3 KDDI / auFH official IR FY26/3 + au Jibun Bank official PR + 2026-05-12 IPO timely disclosure + Lifenet Insurance 2026-06-18 IR, re-verified 2026-06-25). Because au-FH standalone remains unlisted, **revenue is not separately disclosed and only operating profit is published** (FY26/3 432 億円, CAGR +30.4%). Total assets 9.3 兆円, au Jibun Bank deposits 5 兆円 / accounts 700 万 are official figures. **2026-06-25 correction**: the Lifenet stake was fully transferred to JAL on 2026-06-18, so auFH is no longer the largest-shareholder / equity-method route for Lifenet. **Most important: the 2026-05-12 official announcement of TSE-listing preparation — the first IPO candidacy among telco-affiliated FGs** — timing / market section / fundraising scale are all undecided and require continued scrutiny. The blanking of the securities business is a fact (as of 2026-05, no official announcement of rebuilding). The assessment of the stablecoin Progmat linkage is isolated to `.opinions`.
+> confidence: **likely** (2026-07-29). Re-verified against KDDI / auFH official IR, auFH current company / business pages, au Jibun Bank official PR, and Lifenet Insurance IR. Reflected the 2026-07-01 merger of au Payment and the former au Financial Service, the head-office relocation, and the current group companies. The TSE listing is only at the preparation-start stage and execution is undetermined. The capital relationship with Lifenet Insurance was dissolved on 2026-06-18.

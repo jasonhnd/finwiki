@@ -1,12 +1,12 @@
 ---
 source: megabanks/japan-financial-conglomerate-structure-overview
-source_hash: 5535ad674c33dad3
+source_hash: e04b662c8e3396d0
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Japan financial conglomerate structure overview"
-translated_at: 2026-06-26T08:32:07.555Z
+translated_at: 2026-07-28T23:40:04.069Z
 ---
 
 # Japan financial conglomerate structure overview
@@ -18,8 +18,8 @@ translated_at: 2026-06-26T08:32:07.555Z
 日本のコングロマリットの状況は、六つのクラスターからなる分類体系の上に成り立っている：
 
 1. **メガバンク FG**（3 エンティティ）— MUFG、SMFG、Mizuho FG。グローバルな G-SIB 指定を持つユニバーサルバンクのフランチャイズ。
-2. **信託優位 FG**（2 エンティティ）— 三井住友トラスト HD、三菱 UFJ 信託（MUFG 内）。資産管理および年金信託に注力。
-3. **郵政／公的金融 FG**（3 エンティティ）— ゆうちょ銀行、かんぽ生命を連結する日本郵政（日本郵政ホールディングス）；農林中央金庫；政策金融機関としての JFC / JBIC / DBJ。
+2. **信託優位 FG** — 独立した信託主導グループは三井住友トラストグループであり、三菱 UFJ 信託は二つ目の独立 FG ではなく MUFG の一部である。
+3. **郵政／協同組織／政策金融クラスター** — 日本郵政、農林中央金庫、JFC、JBIC、DBJ は、それぞれ異なる法的根拠を持つ郵政・協同組織・政策金融機関であり、単一の法的 FG 類型ではない。
 4. **通信／決済 FG**（4 エンティティ）— au FH（KDDI）、PayPay FG（ソフトバンク / LY）、楽天 FG、Sony FG、NTT ドコモ FG（ndfg）。通信または EC から出発し、現在は銀行／証券／保険／決済のライセンスを連結している。
 5. **独立系証券／アセットマネジメント FG**（3以上のエンティティ）— 野村 HD、大和 SG、SBI HD。銀行およびアセットマネジメントの隣接領域を伴う証券主導。
 6. **地方銀行 FG**（20以上のエンティティ）— コンコルディア FG、めぶき FG、山口 FG、ふくおか FG、九州 FG、京都 FG、ほくほく FG、しずおか FG など。二つ以上の地方銀行が単一の持株会社の下に連結されたもの。
@@ -64,11 +64,13 @@ SuMi トラストは SMFG とは構造的に別である — 類似した命名�
 
 | Entity | Origin | Bank | Securities | Insurance | Payment | Card |
 |---|---|---|---|---|---|---|
-| [[megabanks/au-fh|au FH]] | KDDI (telecom) | [[banking/au-jibun-bank|au Jibun Bank]] | au Kabucom Securities | [[non-life-insurers/au-insurance|au Insurance]] | [[payment-firms/au-payment|au Payment]] (au PAY) | au PAY Card |
+| [[megabanks/au-fh|au FH]] | KDDI (telecom) | [[banking/au-jibun-bank|au Jibun Bank]] | — (au Kabucom left in 2025-01) | [[non-life-insurers/au-insurance|au Insurance]] | au Financial Services (au PAY) | au Financial Services (au PAY Card) |
 | [[megabanks/paypay-fg|PayPay FG]] | SoftBank / LY | [[banking/paypay-bank|PayPay Bank]] | [[securities-firms/paypay-securities|PayPay Securities]] | PayPay Insurance | [[payment-firms/paypay|PayPay]] | [[card-issuers/paypay-card|PayPay Card]] |
 | [[payment-firms/rakuten-fg|Rakuten FG]] | Rakuten (EC) | [[banking/rakuten-bank|Rakuten Bank]] | Rakuten Securities (49% sold to Mizuho FG) | Rakuten Life, Rakuten Non-life | Rakuten Pay | Rakuten Card |
-| [[megabanks/sony-fg|Sony FG]] | Sony Group | [[banking/sony-bank|Sony Bank]] | (planned) | [[life-insurers/sony-life|Sony Life]], Sony Assurance | — | — |
-| [[megabanks/ndfg|NTT Docomo FG]] | NTT Docomo (telecom) | (planned 2026-07) | (planned) | (planned) | d Barai (d Payment) | d Card |
+| [[megabanks/sony-fg|Sony FG]] | Sony origin; independent listed FG since 2025 | [[banking/sony-bank|Sony Bank]] | — | [[life-insurers/sony-life|Sony Life]], Sony Assurance | — | — |
+| [[megabanks/ndfg|NTT Docomo FG]] | NTT Docomo (telecom) | Sumishin SBI Net Bank (Docomo SMTB name from 2026-08-03) | Monex Securities route | Docomo Insurance / agency route | d Barai | d Card |
+
+Sources: ^[auFH「現行グループ会社」: https://www.au-financial.com/corporate_vision.html; SoftBank FY2025 results: https://www.softbank.jp/en/corp/set/data/ir/documents/presentations/fy2025/investors/pdf/sbkk_investors_presentation_20260511_en.pdf; Sony Group FY2025 Form 20-F: https://www.sony.com/en/SonyInfo/IR/library/FY2025_20F_PDF.pdf; NTTドコモ「NDFG体制移行」: https://www.docomo.ne.jp/info/news_release/2026/03/31_00.html.]
 
 これらの FG は、中核となる通信または EC のフランチャイズの周りに金融ライセンスのスタックを構築してきた。そのパターンは：大規模な顧客基盤 + ブランド決済 → 顧客ライフサイクルを収益化するために銀行／証券／保険／カードを追加する。より広範なパターンについては [[fintech/embedded-wallet-fintech-disintermediation-overview]] を参照。
 
@@ -110,6 +112,8 @@ FSA は金融コングロマリットを以下を通じて監督する：
 | Financial Conglomerate Supervisory Guidelines | FSA guideline on group-level risk management, capital adequacy, intra-group transactions, governance. |
 | G-SIB / D-SIB designation | The three megabanks are FSB-designated G-SIBs. FSA also designates D-SIBs (domestic systemically important banks) with additional capital surcharges. |
 | Reverse-stress-test and resolution planning | TLAC requirements for G-SIBs; recovery and resolution planning under FSA supervision. |
+
+Sources: ^[FSA「Supervisory Guidelines for Major Banks」: https://www.fsa.go.jp/en/; FSB「Global Systemically Important Banks」: https://www.fsb.org/work-of-the-fsb/financial-innovation-and-structural-change/global-systemically-important-financial-institutions-g-sifis/; BIS「G-SIB framework」: https://www.bis.org/bcbs/gsib/.]
 
 ## Why Japan's Conglomerate Landscape Looks This Way
 

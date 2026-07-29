@@ -25,9 +25,9 @@
     "domain": "asset-managers",
     "type": null,
     "created": "2026-05-24",
-    "last_updated": "2026-05-24",
-    "last_tended": "2026-05-24",
-    "review_by": "2026-11-20",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -42,7 +42,7 @@
     "note": null,
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx",
-      "https://www.smtam.jp/company/profile/",
+      "https://www.smtam.jp/institutional/company/outline/",
       "https://www.smth.jp/company/group/"
     ]
   },
@@ -60,7 +60,7 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 10,
+    "wikilinks_count": 12,
     "wikilinks": [
       "asset-managers/INDEX",
       "asset-managers/asset-management-one",
@@ -69,6 +69,8 @@
       "asset-managers/nomura-asset-management",
       "asset-managers/smd-am",
       "financial-licenses/securities-license-stack",
+      "megabanks/mufg",
+      "securities-firms/nomura-hd",
       "securities/financial-instruments-business-operators-japan-index",
       "securities/nisa-2024-flow",
       "trust-banks/sumitomo-mitsui-trust"
@@ -81,6 +83,8 @@
       "https://finwiki.zksc.io/ja/asset-managers/nomura-asset-management/",
       "https://finwiki.zksc.io/ja/asset-managers/smd-am/",
       "https://finwiki.zksc.io/ja/financial-licenses/securities-license-stack/",
+      "https://finwiki.zksc.io/ja/megabanks/mufg/",
+      "https://finwiki.zksc.io/ja/securities-firms/nomura-hd/",
       "https://finwiki.zksc.io/ja/securities/financial-instruments-business-operators-japan-index/",
       "https://finwiki.zksc.io/ja/securities/nisa-2024-flow/",
       "https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/"
@@ -89,9 +93,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3397,
-    "word_like_tokens": 496,
+    "nonspace_chars": 4125,
+    "word_like_tokens": 619,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-22"
+    "last_modified": "2026-07-29"
   }
 }

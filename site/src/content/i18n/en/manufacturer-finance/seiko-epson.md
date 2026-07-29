@@ -1,11 +1,11 @@
 ---
 source: manufacturer-finance/seiko-epson
-source_hash: 853dc31f362ab8f1
+source_hash: 55160b5a41b7dc8a
 lang: en
 status: machine
 fidelity: ok
 title: "Seiko Epson Corporation"
-translated_at: 2026-06-24T09:30:00.000Z
+translated_at: 2026-07-28T23:40:43.668Z
 ---
 # Seiko Epson Corporation
 
@@ -55,6 +55,8 @@ Epson belongs in manufacturer-finance because large manufacturers create repeate
 | Manufacturer treasury | Cash, borrowings, bonds, lease obligations and shareholder returns create capital-market and banking touchpoints. |
 | Capex / leasing | Industrial robotics, commercial printing and production equipment connect to leasing and equipment-finance pages, even if Epson is not itself a lessor. |
 | FX / global footprint | Overseas group-company count and global revenue base make FX and trade-finance analysis relevant.^[source:epson-company-outline-2026] |
+
+Sources: ^[source:epson-company-outline-2026] ^[source:epson-fy2026-results-2026] ^[source:epson-cashflow-2026]
 
 ## 4. Risk / policy map
 

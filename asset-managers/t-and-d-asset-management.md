@@ -3,15 +3,15 @@ title: "T&Dアセットマネジメント (T&D AM)"
 aliases: ["T&D Asset Management", "T&Dアセットマネジメント", "T&Dアセットマネジメント株式会社", "TDAM"]
 domain: asset-managers
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
-review_by: 2026-11-20
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, asset-management, fiea-operator, td-hd, life-insurance]
 status: active
 sources:
   - "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx"
-  - "https://www.tdasset.co.jp/company/profile/"
+  - "https://www.tdasset.co.jp/company/about/"
   - "https://www.td-holdings.co.jp/group/"
 ---
 
@@ -23,7 +23,7 @@ This entry sits under [[asset-managers/INDEX|asset-managers INDEX]]. Read it aga
 
 ## TL;DR
 
-T&Dアセットマネジメント (T&D AM) は [[life-insurers/td-hd|T&D ホールディングス (8795)]] の asset-management operating company。FSA 金融商品取引業者一覧では「T&Dアセットマネジメント株式会社」、関東財務局長(金商)第363号として掲載される。**第一生命 / 日本生命 / 明治安田生命 に次ぐ中堅生保 FG** の [[life-insurers/td-hd|T&D HD]] (太陽生命 + 大同生命 + T&D フィナンシャル生命) の運用機能を担い、グループ生保責任準備金運用 + 公募投信 + 年金運用を扱う。**中堅生保系運用会社カテゴリ**として、最大手 [[asset-managers/nissay-asset-management|ニッセイ AM]] や [[asset-managers/asset-management-one|アセマネOne]] (第一生命 + みずほ JV) の補完的位置付け。
+T&Dアセットマネジメント (T&D AM) は [[life-insurers/td-hd|T&D ホールディングス (8795)]] の asset-management operating company。FSA 金融商品取引業者一覧では「T&Dアセットマネジメント株式会社」、関東財務局長(金商)第357号として掲載される。[[life-insurers/td-hd|T&D HD]] (太陽生命 + 大同生命 + T&D フィナンシャル生命) の運用機能を担い、公募投信・投資一任・投資助言を扱う。
 
 ## 1. 法人・ライセンス境界
 
@@ -31,10 +31,12 @@ T&Dアセットマネジメント (T&D AM) は [[life-insurers/td-hd|T&D ホー�
 |---|---|
 | Legal name | T&Dアセットマネジメント株式会社 |
 | 英名 | T&D Asset Management Co., Ltd. |
-| FSA registration | 関東財務局長(金商)第363号 |
+| FSA registration | 関東財務局長(金商)第357号 |
 | FIEA scope | 第二種金融商品取引業、投資助言・代理業、投資運用業 |
 | Parent boundary | [[life-insurers/td-hd|T&D ホールディングス]] (上場 8795) 100% asset-management 子会社 |
-| 本社 | 東京都中央区日本橋 |
+| 本社 | 東京都港区芝5-36-7 三田ベルジュビル |
+
+Sources: ^[FSA 金融商品取引業者登録一覧: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx; T&Dアセットマネジメント 会社概要: https://www.tdasset.co.jp/company/about/.]
 
 ## 2. Business role
 
@@ -70,14 +72,16 @@ T&D ホールディングス (上場 8795)
 
 ## 5. 競合・peer
 
-| Peer | 系譜 | 差別化軸 |
+| Peer | 公開されている系列・資本境界 | 比較カテゴリ |
 |---|---|---|
-| [[asset-managers/nissay-asset-management|ニッセイ AM]] | [[life-insurers/nippon-life|日本生命]] 系 (相互会社) | 生保系運用会社の最大手 |
-| [[asset-managers/asset-management-one|アセマネOne]] | みずほ + 第一生命 JV | 銀行 + 生保 JV |
-| [[asset-managers/tokio-marine-asset-management|東京海上 AM]] | [[non-life-insurers/tokio-marine|東京海上 HD]] 系 | 損保系運用会社 |
-| [[asset-managers/mufg-asset-management|MUAM]] | [[megabanks/mufg|MUFG]] 系 | メガバンク系 |
-| [[asset-managers/sbi-asset-management|SBI AM]] | [[megabanks/sbi-hd|SBI HD]] 系 | ネット証券系低コスト投信 |
-| [[asset-managers/smt-am|SMT-AM]] | [[trust-banks/sumitomo-mitsui-trust|SuMi TRUST]] 系 | 信託専業独立系 |
+| [[asset-managers/nissay-asset-management|ニッセイ AM]] | [[life-insurers/nippon-life|日本生命]] 100% | 生保グループ系 AM |
+| [[asset-managers/asset-management-one|アセマネOne]] | みずほ FG 70% / 第一生命 HD 30%（議決権 51% / 49%） | 銀行・生保 JV |
+| [[asset-managers/tokio-marine-asset-management|東京海上 AM]] | [[non-life-insurers/tokio-marine|東京海上 HD]] 100% | 損保グループ系 AM |
+| [[asset-managers/mufg-asset-management|MUAM]] | [[megabanks/mufg|MUFG]] グループ | 銀行グループ系 AM |
+| [[asset-managers/sbi-asset-management|SBI AM]] | SBIグローバルアセットマネジメント / [[megabanks/sbi-hd|SBI グループ]] | SBI グループ系 AM |
+| [[asset-managers/smt-am|SMT-AM]] | [[trust-banks/sumitomo-mitsui-trust|三井住友トラストグループ]] 100% | 信託グループ系 AM |
+
+Sources: ^[T&Dアセットマネジメント 会社概要: https://www.tdasset.co.jp/company/about/; ニッセイアセットマネジメント 会社概要: https://www.nam.co.jp/company/info/outline.html; Asset Management One 会社概要: https://www.am-one.co.jp/company/profile/; Tokio Marine Asset Management corporate profile: https://www.tokiomarineam.com/who_we_are/; 三菱UFJアセットマネジメント 会社概要: https://www.am.mufg.jp/corp/about/gaiyou.html; SBIアセットマネジメント 会社概要: https://www.sbiam.co.jp/gaiyo/gaiyo_gai.html; 三井住友トラスト・アセットマネジメント 会社概要・株主構成: https://www.smtam.jp/institutional/company/outline/.]
 
 ## Related
 
@@ -94,5 +98,5 @@ T&D ホールディングス (上場 8795)
 ## Sources
 
 - FSA, "金融商品取引業者登録一覧", `kinyushohin.xlsx` (公開エクセル一覧).
-- T&Dアセットマネジメント株式会社, "会社概要" (公式コーポレートサイト).
+- T&Dアセットマネジメント株式会社, "会社概要" (https://www.tdasset.co.jp/company/about/).
 - T&D ホールディングス, "グループ会社一覧".

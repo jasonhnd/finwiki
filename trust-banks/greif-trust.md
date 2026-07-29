@@ -3,14 +3,14 @@ title: "Greif Trust / グライフ信託"
 aliases: ["グライフ信託", "株式会社グライフ信託", "Greif Trust"]
 domain: trust-banks
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
-review_by: 2026-11-22
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, trust-company, regional, real-estate, public-source]
 status: active
 sources:
-  - "FSA trust company list: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx"
+  - "FSA trust company list: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf"
   - "Greif Trust company profile: https://www.greif-trust.com/company/"
 ---
 
@@ -26,7 +26,7 @@ Greif Trust is a Chugoku Finance Bureau trust-company row with public company-pr
 
 This page covers 株式会社グライフ信託. Public materials also mention financial-instruments and real-estate permissions; those should be mapped only where supported by source-specific license text.
 
-## Business Role Map
+## Business Role Map ^[株式会社グライフ信託「会社概要」: https://www.greif-trust.com/company/; 金融庁の現行登録: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf]
 
 | Route | Reading |
 |---|---|

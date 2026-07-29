@@ -1,11 +1,11 @@
 ---
 source: trust-banks/uk-trust
-source_hash: 5a3e16c0ef3de247
+source_hash: 5e9bf02382d71c95
 lang: en
 status: machine
 fidelity: ok
 title: "UK Trust"
-translated_at: 2026-06-01T02:31:57.156Z
+translated_at: 2026-07-28T23:40:44.246Z
 ---
 
 # UK Trust
@@ -20,7 +20,7 @@ UK Trust is a 2024 registry-row trust company with a public official site descri
 
 This page covers UK Trust Co., Ltd. It should not be merged with similarly named non-financial UK companies or holding-company pages. The current page is intentionally narrow because the public source depth is still limited.
 
-## Business Role Map
+## Business Role Map ^[金融庁の現行登録と UK 信託公式サイト: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://uktrust.jp/]
 
 | Route | Reading |
 |---|---|

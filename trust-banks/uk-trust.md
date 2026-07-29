@@ -3,14 +3,14 @@ title: "UK Trust / UK信託"
 aliases: ["UK信託", "株式会社UK信託", "UK Trust"]
 domain: trust-banks
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
-review_by: 2026-11-22
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, trust-company, estate-planning, public-source]
 status: active
 sources:
-  - "FSA trust company list: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx"
+  - "FSA trust company list: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf"
   - "UK Trust official site: https://uktrust.jp/"
   - "UK Trust website announcement: https://uktrust.jp/uktwebsite/"
 ---
@@ -27,7 +27,7 @@ UK Trust is a 2024 registry-row trust company with a public official site descri
 
 This page covers 株式会社UK信託. It should not be merged with similarly named non-financial UK companies or holding-company pages. The current page is intentionally narrow because the public source depth is still limited.
 
-## Business Role Map
+## Business Role Map ^[金融庁の現行登録と UK 信託公式サイト: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://uktrust.jp/]
 
 | Route | Reading |
 |---|---|

@@ -7,9 +7,9 @@ aliases:
   - "Nisshokin Trust Bank"
 domain: trust-banks
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
-review_by: 2026-11-22
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, trust-bank, securities-finance, client-asset-protection, security-token, crypto]
 status: active
@@ -34,7 +34,7 @@ Use this page when the question is about client asset protection trusts, margin 
 
 The bank deserves a standalone page because its trust functions are tightly connected to securities-market infrastructure. Its public history includes customer asset protection trust, securities trust, FX margin trust, derivatives / CFD margin trust, crypto-asset deposit trust, and security-token-related trust handling.
 
-## Entity Boundary
+## Entity Boundary ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; 日証金信託銀行「会社概要」: https://www.jsftb.co.jp/company/outline.html]
 
 | Item | Reading |
 |---|---|

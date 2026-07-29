@@ -1,42 +1,42 @@
 ---
 source: trust-banks/escrow-agent-japan-trust
-source_hash: eb11934ec15e232c
+source_hash: 076088fca7facee4
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
-title: "エスクロー・エージェント・ジャパン信託 (Escrow Agent Japan Trust)"
-translated_at: 2026-06-26T08:32:30.855Z
+title: "ミトラ信託 (Mitra Trust)"
+translated_at: 2026-07-28T23:40:04.353Z
 ---
 
-# エスクロー・エージェント・ジャパン信託 (Escrow Agent Japan Trust)
+# ミトラ信託 (Mitra Trust)
 
 ## ウィキ上の位置づけ
 
-Escrow Agent Japan Trust は、[[trust-banks/INDEX|trust-banks INDEX]] 配下の独立した信託会社ルートであり、[[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] から昇格した項目である。[[finance/japan-mbo-and-squeeze-out-process|Japan MBO / squeeze-out process]]、[[finance/japan-acquisition-finance|Japan acquisition finance]]、[[banking/japan-trust-bank-custody-map|Japan trust-bank カストディ map]] とあわせて読む。
+ミトラ信託は、[[trust-banks/INDEX|trust-banks INDEX]] 配下の独立した信託会社ルートであり、[[trust-banks/trust-companies-japan-index|日本の信託会社登録インデックス]] から昇格した項目である。リポジトリのパスはリンク互換性のため旧社名を維持している。[[finance/japan-mbo-and-squeeze-out-process|Japan MBO / squeeze-out process]]、[[finance/japan-acquisition-finance|Japan acquisition finance]]、[[banking/japan-trust-bank-custody-map|Japan trust-bank カストディ map]] とあわせて読む。
 
 このページは、エスクロー、不動産取引支援、相続関連信託サービス、不動産売却・管理ワークフローを整理するために使う。
 
 ## 概要
 
-Escrow Agent Japan Trust は、Escrow Agent Japan の信託会社子会社である。公開会社情報では、管理型信託会社として登録され、Escrow Agent Japan が全株式を保有するとされている。
+現行法人名はミトラ信託株式会社（MITRA Trust, Inc.）であり、公式会社概要は旧社名を株式会社エスクロー・エージェント・ジャパン信託と記載する。同じ会社概要によれば、管理型信託会社で、旧社名を株式会社エスクロー・エージェント・ジャパンとするミトラグループ株式会社の完全子会社である。^[ミトラ信託「会社概要」: https://eajt.co.jp/information/index.html]
 
 このページが重要なのは、エスクロー、不動産、相続、管理業務アウトソーシングが、金融における取引統制の反復的なテーマだからである。この信託会社は、銀行以外のエスクロー・信託サービスをたどる具体的なルートを提供する。
 
-## エンティティ境界
+## エンティティ境界 ^[金融庁「運用型信託会社免許・管理型信託会社登録一覧」（2026-06-30 時点）: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; ミトラ信託「会社概要」: https://eajt.co.jp/information/index.html]
 
 | 項目 | 読み方 |
 |---|---|
-| 法人名 | 株式会社エスクロー・エージェント・ジャパン信託 |
-| 英文名 | Escrow Agent Japan Trust, Inc. |
+| 法人名 | ミトラ信託株式会社（旧社名：株式会社エスクロー・エージェント・ジャパン信託） |
+| 英文名 | MITRA Trust, Inc. |
 | 免許種別 | 管理型信託会社 |
-| 登録 | 公開会社情報では関東財務局長（信4）第11号 |
-| 親会社 | Escrow Agent Japan 100% |
+| 登録 | 関東財務局長（信4）第11号 |
+| 親会社 | ミトラグループ株式会社 100% |
 | 事業領域 | 信託サービス、相続関連サービス、不動産競売・売却支援 |
 
 このページは、上場親会社が展開する広範な金融・不動産ソリューション事業とは分けて扱う。本ページは信託会社レイヤーを対象とする。
 
-## 事業上の役割マップ
+## 事業上の役割マップ ^[ミトラ信託 公式サイト: https://eajt.co.jp/]
 
 | 機能 | FinWiki での関連性 |
 |---|---|
@@ -47,7 +47,7 @@ Escrow Agent Japan Trust は、Escrow Agent Japan の信託会社子会社であ
 
 ## 公開情報上の文脈
 
-Escrow Agent Japan Trust は実務インフラを示すページである。不動産、相続、取引管理のワークフローの下に、銀行や証券会社にならず信託・エスクロー機能が配置される仕組みを説明する。
+ミトラ信託は実務インフラを示すページである。不動産、相続、取引管理のワークフローの下に、銀行や証券会社にならず信託・エスクロー機能が配置される仕組みを説明する。
 
 個別案件、不動産、競売、顧客に関する記述は、公開された取引レベルの根拠がある場合に限って追加する。
 
@@ -70,5 +70,5 @@ Escrow Agent Japan Trust は実務インフラを示すページである。不�
 ## 出典
 
 - FSA：信託会社一覧。
-- Escrow Agent Japan Trust：公式会社情報。
-- Escrow Agent Japan：公式会社概要とグループ文脈。
+- FSA：2026-06-30 時点の現行信託会社一覧。
+- ミトラ信託：公式会社情報とサービス。

@@ -6,14 +6,14 @@ aliases:
   - "LGT Japan"
 domain: trust-banks
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
-review_by: 2026-11-22
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, trust-company, wealth-management, private-bank, asset-management]
 status: active
 sources:
-  - "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx"
+  - "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf"
   - "https://www.lgt.com/jp-jp/company-information"
   - "https://www.lgt.com/jp-jp/about-us/lgt-in-japan"
   - "https://www.lgt.com/jp-en/company-information"
@@ -33,7 +33,7 @@ LGT Wealth Management Trust is the Japan trust-company and wealth-management rou
 
 The page matters because it sits between foreign private banking, Japan trust-company regulation, and discretionary / advisory wealth services. It is not a foreign bank branch page; it is a Japan trust-company and financial instruments registration route.
 
-## Entity Boundary
+## Entity Boundary ^[金融庁の現行免許と LGT 会社情報: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://www.lgt.com/jp-jp/company-information]
 
 | Item | Reading |
 |---|---|
@@ -46,7 +46,7 @@ The page matters because it sits between foreign private banking, Japan trust-co
 
 Keep this page separate from [[foreign-financial-institutions/ubs-japan|UBS Japan]] and [[trust-banks/smbc-trust-bank|SMBC Trust Bank]] because their legal forms, licenses, and group structures differ.
 
-## Business Role Map
+## Business Role Map ^[LGT「LGT in Japan」: https://www.lgt.com/jp-jp/about-us/lgt-in-japan]
 
 | Function | FinWiki relevance |
 |---|---|

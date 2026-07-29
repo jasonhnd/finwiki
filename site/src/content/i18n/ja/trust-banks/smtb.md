@@ -1,12 +1,12 @@
 ---
 source: trust-banks/smtb
-source_hash: 85b201db959e1830
+source_hash: e4dea20b0edd2536
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "三井住友信託銀行 (SMTB)"
-translated_at: 2026-06-26T08:32:15.216Z
+translated_at: 2026-07-28T23:40:04.605Z
 ---
 
 # 三井住友信託銀行 (SMTB)
@@ -19,7 +19,7 @@ translated_at: 2026-06-26T08:32:15.216Z
 
 三井住友信託銀行 (Sumitomo Mitsui Trust Bank, Limited, SMTB) は [[trust-banks/sumitomo-mitsui-trust|三井住友トラストグループ (三井住友トラスト・ホールディングス)]] の中核 trust-bank operating company。**銀行法の銀行免許に加え兼営法に基づく信託業務の兼営**を持つ信託兼営金融機関で、日本最大級の専業色の強い信託銀行グループの中心。名称は似ているが [[megabanks/smfg|SMFG / SMBC グループ]] とは**別グループ**であり、信託銀行分析ではこの境界が決定的に重要。
 
-## 1. ライセンス／グループ境界
+## 1. ライセンス／グループ境界 ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; 三井住友信託銀行「会社概要」: https://www.smtb.jp/corporate/summary/]
 
 | 項目 | 備考 |
 |---|---|

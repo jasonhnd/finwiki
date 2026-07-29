@@ -1,11 +1,11 @@
 ---
 source: trust-banks/jsf-trust-bank
-source_hash: b66cb24e3d865934
+source_hash: de75d5e97c53d947
 lang: en
 status: machine
 fidelity: ok
 title: "JSF Trust and Banking"
-translated_at: 2026-05-31T23:59:49.337Z
+translated_at: 2026-07-28T23:40:44.054Z
 ---
 # JSF Trust and Banking
 
@@ -21,7 +21,7 @@ JSF Trust and Banking Co., Ltd. is a specialist trust bank wholly owned by [[fin
 
 The bank deserves a standalone page because its trust functions are tightly connected to securities-market infrastructure. Its public history includes customer asset protection trust, securities trust, FX margin trust, derivatives / CFD margin trust, crypto-asset deposit trust, and security-token-related trust handling.
 
-## Entity Boundary
+## Entity Boundary ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; 日証金信託銀行「会社概要」: https://www.jsftb.co.jp/company/outline.html]
 
 | Item | Reading |
 |---|---|

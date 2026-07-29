@@ -1,17 +1,17 @@
 ---
 source: financial-conglomerates/mitsui-co
-source_hash: 2b67e695583592ea
+source_hash: 498b1678db2deb86
 lang: en
 status: machine
 fidelity: ok
 title: "Mitsui & Co., Ltd. (三井物産)"
-translated_at: 2026-06-18T23:59:13.088Z
+translated_at: 2026-07-29T00:26:57.355Z
 ---
 # Mitsui & Co., Ltd. (三井物産)
 
 ## Wiki route
 
-This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] as a **sōgō shōsha parent holding-company**. Read it against [[financial-conglomerates/mitsubishi-corp|三菱商事]] (the largest rival contending for the top net-profit spot) and [[financial-conglomerates/itochu-corp|伊藤忠商事]] (a contrast among the 5  major trading companies, leaning non-resource) for peer / contrast context. For the financial-services adjacency that anchors this entry on JapanFG — see [[trading-company-finance/mitsui-bussan-financial-services|三井物産フィナンシャルサービス]] (in-house CMS), while [[leasing-firms/smfl|SMFL (住友三井オートサービス系の総合リース)]] is **incorrect** — Mitsui & Co.'s main leasing subsidiary is [[cooperative-banks/ja-mitsui-leasing|JA三井リース]] (JA Zen-Noh + Mitsui & Co. 50/50  lineage — the merged body of the former Mitsui Leasing + JA Leasing), which is a separate matter from the stake in [[leasing-firms/smfl|SMFL]] of the SMFG / Sumitomo Corp lineage (SMFL = 50% SMFG + 50% Sumitomo Corp), plus a certain stake in [[leasing-firms/sumitomo-mitsui-auto-service|住友三井オートサービス]]. System frame: [[finance/INDEX|finance index]] and [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]].
+This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] as a **sōgō shōsha parent holding-company**. Read it against [[financial-conglomerates/mitsubishi-corp|三菱商事]] and [[financial-conglomerates/itochu-corp|伊藤忠商事]] for peer / contrast context. For the financial-services adjacency that anchors this entry on JapanFG — see [[trading-company-finance/mitsui-bussan-financial-services|三井物産フィナンシャルマネジメント]] (a 100% subsidiary functioning as an accounting & finance company) and [[cooperative-banks/ja-mitsui-leasing|JA三井リース]] (Mitsui & Co. ownership 43.86%, voting rights 38.84%). [[leasing-firms/sumitomo-mitsui-auto-service|住友三井オートサービス]], despite including "三井" in its name, has Sumitomo Corp, SMFG, and SMFL as its current shareholders and is not an investee of Mitsui & Co. System frame: [[finance/INDEX|finance index]] and [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]].
 
 ## 1. Company overview
 
@@ -30,9 +30,8 @@ This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates IN
 
 ```
 Mitsui & Co. (8031, TSE PRIME)
-  ├── [[trading-company-finance/mitsui-bussan-financial-services|三井物産フィナンシャルサービス (MBFS)]] (100%) — in-house CMS / group finance
-  ├── [[cooperative-banks/ja-mitsui-leasing|JA三井リース]] (approx. 33% class, equity method)                      — merged body of former Mitsui Leasing + JA Leasing
-  ├── [[leasing-firms/sumitomo-mitsui-auto-service|住友三井オートサービス]] (partial stake)        — top-tier domestic auto-leasing
+  ├── [[trading-company-finance/mitsui-bussan-financial-services|三井物産フィナンシャルマネジメント (MFM)]] (100%) — accounting & finance functions
+  ├── [[cooperative-banks/ja-mitsui-leasing|JA三井リース]] (ownership 43.86% / voting rights 38.84%, equity method)             — comprehensive leasing
   ├── IHH Healthcare (Asian hospital chain, major-shareholder class)                                     — healthcare platform
   └── numerous overseas resource JVs (Vale-related, LNG, oil upstream)
 ```
@@ -68,9 +67,11 @@ Mitsui & Co. (8031, TSE PRIME)
 
 | Finance subsidiary / affiliate | Wiki anchor | Stake | Function |
 |---|---|---|---|
-| Mitsui & Co. Financial Services (MBFS) | [[trading-company-finance/mitsui-bussan-financial-services]] | 100% | in-house CMS / group factoring / FX-interest hedging intermediation |
-| JA Mitsui Leasing | [[cooperative-banks/ja-mitsui-leasing]] | approx. 33% class (equity method) | merged body of former Mitsui Leasing + JA Zen-Noh-lineage leasing, major comprehensive lessor |
-| Sumitomo Mitsui Auto Service | [[leasing-firms/sumitomo-mitsui-auto-service]] | certain stake (Mitsui & Co. + Sumitomo Corp + SMFG lineage) | top-tier domestic auto-leasing |
+| Mitsui & Co. Financial Management (MFM) | [[trading-company-finance/mitsui-bussan-financial-services]] | 100% | accounting & finance-related operations, treasury operations |
+| JA Mitsui Leasing | [[cooperative-banks/ja-mitsui-leasing]] | ownership 43.86% / voting rights 38.84% (equity method) | comprehensive leasing & finance |
+| Sumitomo Mitsui Auto Service (name boundary) | [[leasing-firms/sumitomo-mitsui-auto-service]] | no Mitsui & Co. stake | current shareholders are Sumitomo Corp, SMFG, and SMFL |
+
+Sources: ^[Mitsui & Co. Financial Management official site (MFM, 100% Mitsui & Co.): https://www.webmfm.jp/; JA Mitsui Leasing "Securities report for FY ending March 2026" (as of 2026-03-31): https://www.jamitsuilease.co.jp/assets/pdf/ir/finance_report_20260629_q.pdf; Sumitomo Mitsui Auto Service "Company profile" (current shareholder list): https://www.smauto.co.jp/company/profile/.]
 
 In addition, the **financial-services ecosystem of the Mitsui group**:
 - [[megabanks/smfg|SMFG]] / Sumitomo Mitsui Banking Corporation (the Mitsui group's main megabank, cross-shareholdings)
@@ -105,9 +106,8 @@ Mitsui & Co. itself does not hold a banking license, but is anchored — through
 
 - [[financial-conglomerates/INDEX|financial-conglomerates INDEX]]
 - [[financial-conglomerates/mitsubishi-corp|三菱商事]] · [[financial-conglomerates/itochu-corp|伊藤忠商事]] · [[financial-conglomerates/sumitomo-corp|住友商事]] · [[financial-conglomerates/marubeni-corp|丸紅]] · [[financial-conglomerates/toyota-tsusho-corp|豊田通商]] · [[financial-conglomerates/sojitz-corp|双日]] (peer trading companies)
-- [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]] (in-house group treasury)
+- [[trading-company-finance/mitsui-bussan-financial-services|三井物産フィナンシャルマネジメント]] (a 100% subsidiary functioning as an accounting & finance company)
 - [[cooperative-banks/ja-mitsui-leasing|JA三井リース]] (equity-method leasing)
-- [[leasing-firms/sumitomo-mitsui-auto-service|住友三井オートサービス]] (auto leasing)
 - [[megabanks/smfg|SMFG]] · [[trust-banks/sumitomo-mitsui-trust|三井住友信託]] · [[non-life-insurers/mitsui-sumitomo-insurance|三井住友海上]] (Mitsui group finance)
 - [[finance/INDEX|finance index]] · [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]
 
@@ -115,10 +115,14 @@ Mitsui & Co. itself does not hold a banking license, but is anchored — through
 
 - Mitsui & Co. (8031) official IR — https://www.mitsui.com/jp/ja/ir/
 - Mitsui & Co. integrated report — https://www.mitsui.com/jp/ja/ir/library/integrated/
+- Mitsui & Co. 107th-term securities report — https://www.mitsui.com/jp/ja/ir/library/securities/__icsFiles/afieldfile/2026/06/12/ja_107yuho.pdf
+- Mitsui & Co. Financial Management official site — https://www.webmfm.jp/
+- JA Mitsui Leasing securities report for FY ending March 2026 — https://www.jamitsuilease.co.jp/assets/pdf/ir/finance_report_20260629_q.pdf
+- Sumitomo Mitsui Auto Service company profile — https://www.smauto.co.jp/company/profile/
 - EDINET securities report — https://disclosure.edinet-fsa.go.jp/ (search: 三井物産 / 8031)
 - JPX listing information 8031 — https://www2.jpx.co.jp/
 
 ---
 
 > [!info] Verification status
-> confidence: **likely**. Mitsui & Co. is sufficiently covered on the public surface. The financial-subsidiary boundary has been cross-validated with [[trading-company-finance/mitsui-bussan-financial-services]] / [[cooperative-banks/ja-mitsui-leasing]] / [[leasing-firms/sumitomo-mitsui-auto-service]]. The latest figures for consolidated net profit, segment-level profit, and equity-method investments are updated as needed in the securities report / integrated report.
+> confidence: **likely**. The boundaries — MFM at 100%, JA Mitsui Leasing at 43.86% ownership / 38.84% voting rights, and no Mitsui & Co. stake in Sumitomo Mitsui Auto Service — were reconfirmed against each company's official disclosures as of 2026-07-29.

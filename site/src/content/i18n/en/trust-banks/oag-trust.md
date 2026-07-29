@@ -1,11 +1,11 @@
 ---
 source: trust-banks/oag-trust
-source_hash: 4fb50db746ead816
+source_hash: 6a0151db3ff9b3c3
 lang: en
 status: machine
 fidelity: ok
 title: "OAG Trust"
-translated_at: 2026-06-01T00:41:50.432Z
+translated_at: 2026-07-28T23:40:44.146Z
 ---
 # OAG Trust
 
@@ -21,7 +21,7 @@ OAG Trust describes itself as an OAG Consulting Group company and states that it
 
 The page matters because OAG Trust is a focused route for fund-protection trust. It is useful where the question is not asset management, but safeguarding prepaid or held funds in a trust structure.
 
-## Entity Boundary
+## Entity Boundary ^[金融庁の現行登録と OAG 信託公式サイト: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://oag-trust.com/]
 
 | Item | Reading |
 |---|---|

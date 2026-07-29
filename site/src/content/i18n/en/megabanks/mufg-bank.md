@@ -1,11 +1,11 @@
 ---
 source: megabanks/mufg-bank
-source_hash: 706b0b2d03b3d468
+source_hash: 14e7bd21d3c69ad8
 lang: en
 status: machine
 fidelity: ok
 title: "MUFG Bank (三菱UFJ銀行)"
-translated_at: 2026-06-15T03:48:21.882Z
+translated_at: 2026-07-28T23:40:43.771Z
 ---
 
 # MUFG Bank (三菱UFJ銀行)
@@ -27,6 +27,8 @@ MUFG Bank, Ltd. (三菱UFJ銀行) is the commercial-banking core entity of [[meg
 | License route | bank license under the Banking Act (city bank); FSA bank license list |
 | Bank code | 0005 |
 | Parent boundary | bank operating company under [[megabanks/mufg|MUFG]] |
+
+Sources: ^[金融庁「銀行免許一覧」: https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx; 三菱UFJ銀行「会社概要」: https://www.bk.mufg.jp/kigyou/profile.html; MUFG「グループ会社」: https://www.mufg.jp/profile/biz_and_network/group/index.html.]
 
 ## 2. Operating model
 

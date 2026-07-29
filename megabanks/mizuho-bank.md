@@ -8,9 +8,9 @@ aliases:
   - "MHBK"
 domain: megabanks
 created: 2026-05-20
-last_updated: 2026-06-05
-last_tended: 2026-06-05
-review_by: 2026-12-05
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, bank, megabank, operating-company]
 status: active
@@ -62,6 +62,8 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]] (its domain route). Re
 | License route | 銀行法上の銀行免許 (都市銀行); FSA bank license list |
 | Bank code | 0001 |
 | Parent boundary | [[megabanks/mizuho-fg|みずほ FG]] 傘下 commercial-bank operating company |
+
+Sources: ^[金融庁「銀行免許一覧」: https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx; みずほ銀行「会社概要」: https://www.mizuhobank.co.jp/company/info/profile/index.html.]
 
 ## 2. Operating model
 

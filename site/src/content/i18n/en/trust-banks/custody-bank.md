@@ -1,11 +1,11 @@
 ---
 source: trust-banks/custody-bank
-source_hash: 4a0c6785c098d2a6
+source_hash: ed8e64d261f10db8
 lang: en
 status: machine
 fidelity: ok
 title: "Custody Bank of Japan (CBJ)"
-translated_at: 2026-06-19T13:13:22.642Z
+translated_at: 2026-07-28T23:40:43.971Z
 ---
 
 # Custody Bank of Japan (CBJ)
@@ -73,7 +73,7 @@ Custody Bank of Japan (CBJ)
   └── Asahi Mutual Life 5.0% / Meiji Yasuda Life 4.5% / Japan Post Insurance 3.5% / Fukoku Mutual Life 2.0%
 ```
 
-## 2. Business segment map
+## 2. Business segment map ^[日本カストディ銀行「ディスクロージャー誌 2025」: https://www.custody.jp/data/disclosure/pdf/disclosure202507.pdf]
 
 | Segment | Main business | Features |
 |---|---|---|
@@ -114,7 +114,7 @@ Custody Bank of Japan (CBJ)
   - 2024~ NISA expansion → increase in investment-trust assets under custody
   - 2025~ defined-contribution pension system reform (contribution-limit expansion) → upward pressure on trust assets
 
-## 5. Key chronology
+## 5. Key chronology ^[日本カストディ銀行「ディスクロージャー誌 2025」: https://www.custody.jp/data/disclosure/pdf/disclosure202507.pdf; 金融庁「信託兼営金融機関認可一覧」: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf]
 
 | Year/Month | Event |
 |---|---|

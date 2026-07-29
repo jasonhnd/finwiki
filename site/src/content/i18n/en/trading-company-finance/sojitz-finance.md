@@ -1,11 +1,11 @@
 ---
 source: trading-company-finance/sojitz-finance
-source_hash: 679634382f9aeb29
+source_hash: 92b0f7c7e86b0b6b
 lang: en
 status: machine
 fidelity: ok
 title: "Sojitz Finance (双日フィナンス)"
-translated_at: 2026-06-19T12:43:19.942Z
+translated_at: 2026-07-28T23:40:43.943Z
 ---
 # Sojitz Finance (双日フィナンス)
 
@@ -13,7 +13,7 @@ translated_at: 2026-06-19T12:43:19.942Z
 
 This entry sits under [[trading-company-finance/INDEX|trading-company-finance INDEX]]. Read it against [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]] (the closest mid-tier trading-house group-treasury peer) and [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]] (another peer trading-house internal-treasury arm). For the mid-tier trading-house captive comparison, see [[leasing-firms/kanematsu-leasing|兼松リース]] (smaller mid-tier trading-house leasing). For the 5 -major-trading-house comparison baseline, see [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]] / [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]] / [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]] / [[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]]. See [[banking/INDEX|banking index]] for the broader regulatory boundary.
 
-## 1. Company overview
+## 1. Company overview ^[双日 IR: https://www.sojitz.com/jp/ir/; EDINET: https://disclosure2.edinet-fsa.go.jp/]
 
 | Item | Notes |
 |---|---|
@@ -24,14 +24,14 @@ This entry sits under [[trading-company-finance/INDEX|trading-company-finance IN
 - **Former Nichimen**: relationship with Sanwa Bank (now [[megabanks/mufg|MUFG]], Sanwa lineage)
 - **Former Nissho Iwai**: relationship with the former Dai-Ichi Kangyo Bank and former IBJ (now [[megabanks/mizuho-fg|みずほ FG]])
 
-### Placement of Sojitz's financial functions
+### Placement of Sojitz's financial functions ^[双日の有価証券報告書・関係会社開示と各社公式 IR に基づく比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]
 
 | Layer | Entity | Role |
 |---|---|---|
 | **Outward-facing banks (main banking)** | [[megabanks/mufg|MUFG]] / [[megabanks/mizuho-fg|みずほ FG]] / [[megabanks/smfg|SMFG]] in parallel | Commercial banking and external financial services |
 | **Inward-facing / group finance** | **Sojitz Finance (this page)** | Group companies' internal banking / CMS / internal factoring |
 
-## 2. Business segment map
+## 2. Business segment map ^[双日 IR / 有価証券報告書。業務範囲は非上場子会社の開示制約があるため最新関係会社開示を優先: https://www.sojitz.com/jp/ir/]
 
 | Segment | Content |
 |---|---|
@@ -46,7 +46,7 @@ This entry sits under [[trading-company-finance/INDEX|trading-company-finance IN
 
 Sojitz Finance supports supplier finance / overseas-currency hedging / cross-border remittance, etc. in these segments. Because it is a mid-tier trading house, the scale of its financial functions is smaller than the 5  major trading houses, but the feature set is similar.
 
-### Competitors / Peers
+### Competitors / Peers ^[各親会社の有価証券報告書・公式 IR を横断した比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]
 
 | Trading house | Scale layer | Inward-facing finance subsidiary | Outward-facing leasing arm |
 |---|---|---|---|

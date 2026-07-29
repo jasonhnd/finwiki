@@ -29,9 +29,9 @@
     "domain": "financial-conglomerates",
     "type": null,
     "created": "2026-05-24",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-20",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -52,6 +52,10 @@
     "sources": [
       "三菱商事 (8058) 公式 IR — https://www.mitsubishicorp.com/jp/ja/ir/",
       "三菱商事 統合報告書 (最新版) — https://www.mitsubishicorp.com/jp/ja/ir/library/ar/",
+      "三菱商事 2025年度定時株主総会 招集ご通知 — https://www.mitsubishicorp.com/jp/ja/ir/sh_meeting/pdf/matome_2026.pdf",
+      "三菱商事 MC-UBSR株式譲渡リリース — https://www.mitsubishicorp.com/jp/ja/news/release/2022/0000048846.html",
+      "三菱HCキャピタル 株式基本情報 — https://www.mitsubishi-hc-capital.com/investors/stock/basic.html",
+      "三菱商事フィナンシャルサービス 会社概要 — https://www.mcfj.co.jp/corp/about.html",
       "EDINET 有価証券報告書 — https://disclosure.edinet-fsa.go.jp/ (検索: 三菱商事)",
       "JPX 銘柄情報 8058 — https://www2.jpx.co.jp/"
     ]
@@ -106,9 +110,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6215,
-    "word_like_tokens": 1001,
+    "nonspace_chars": 7161,
+    "word_like_tokens": 1194,
     "inbound_wikilinks_count": 18,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-07-29"
   }
 }

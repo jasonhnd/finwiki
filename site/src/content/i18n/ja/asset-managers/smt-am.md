@@ -1,11 +1,11 @@
 ---
 source: asset-managers/smt-am
-source_hash: 6f20ec5c65c73ea9
+source_hash: 4755437375daa2d9
 lang: ja
 status: machine
 fidelity: ok
 title: "三井住友トラスト・アセットマネジメント (SMT-AM)"
-translated_at: 2026-06-15T03:48:21.836Z
+translated_at: 2026-07-28T23:40:03.849Z
 ---
 
 # 三井住友トラスト・アセットマネジメント (SMT-AM)
@@ -26,8 +26,10 @@ translated_at: 2026-06-15T03:48:21.836Z
 | 英名 | Sumitomo Mitsui Trust Asset Management Co., Ltd. |
 | FSA registration | 関東財務局長(金商)第347号 |
 | FIEA scope | 第二種金融商品取引業、投資助言・代理業、投資運用業 |
-| Parent boundary | [[trust-banks/sumitomo-mitsui-trust|SuMi TRUST]] 100% asset-management 子会社 |
-| 本社 | 東京都港区 |
+| Parent boundary | [[trust-banks/sumitomo-mitsui-trust|三井住友トラストグループ]] 100% |
+| 本社 | 東京都港区芝公園1-1-1 |
+
+Sources: ^[FSA 金融商品取引業者登録一覧: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx; 三井住友トラスト・アセットマネジメント 会社概要・株主構成: https://www.smtam.jp/institutional/company/outline/.]
 
 ## 2. Business role
 
@@ -59,13 +61,15 @@ translated_at: 2026-06-15T03:48:21.836Z
 
 ## 5. 競合・peer
 
-| Peer | 系譜 | 差別化軸 |
+| Peer | 公開されている系列・資本境界 | 比較カテゴリ |
 |---|---|---|
-| [[asset-managers/mufg-asset-management|三菱UFJ AM]] | MUFG 100% | メガバンク + 信託の総合運用 |
-| [[asset-managers/asset-management-one|アセマネOne]] | みずほ + 第一生命 JV | 銀行・信託・保険の JV プラットフォーム |
-| [[asset-managers/smd-am|三井住友DS AM]] | SMFG + 大和 + 第一生命 JV | 銀行 + 証券 + 生保の JV |
-| [[asset-managers/nomura-asset-management|野村アセット]] | 野村系 | 大手証券系の独立性 |
-| [[asset-managers/nikko-asset-management|日興アセット]] | 三井住友 FG 系 | 証券系 + アジア展開 |
+| [[asset-managers/mufg-asset-management|三菱UFJ AM]] | [[megabanks/mufg|MUFG]] グループ | 銀行グループ系 AM |
+| [[asset-managers/asset-management-one|アセマネOne]] | みずほ FG 70% / 第一生命 HD 30%（議決権 51% / 49%） | 銀行・生保 JV |
+| [[asset-managers/smd-am|三井住友DS AM]] | SMFG 50.1%、大和証券グループ本社 23.5%、三井住友海上 15.0%、住友生命 10.4%、三井住友信託銀行 1.0% | 複数金融グループ出資 AM |
+| [[asset-managers/nomura-asset-management|野村アセット]] | [[securities-firms/nomura-hd|野村グループ]] | 証券グループ系 AM |
+| [[asset-managers/nikko-asset-management|アモーヴァ AM（旧 日興 AM）]] | [[trust-banks/sumitomo-mitsui-trust|三井住友トラストグループ]] | 同一信託グループ内 AM |
+
+Sources: ^[三菱UFJアセットマネジメント 会社概要: https://www.am.mufg.jp/corp/about/gaiyou.html; Asset Management One 会社概要: https://www.am-one.co.jp/company/profile/; 三井住友DSアセットマネジメント 会社概要: https://www.smd-am.co.jp/corporate/overview/; 野村アセットマネジメント 会社概要: https://www.nomura-am.co.jp/corporate/gaiyo/gaiyo.html; Amova Asset Management 会社概要: https://www.amova-am.com/about/outline.]
 
 ## 関連
 
@@ -81,5 +85,5 @@ translated_at: 2026-06-15T03:48:21.836Z
 ## 出典
 
 - FSA, "金融商品取引業者登録一覧", `kinyushohin.xlsx` (公開エクセル一覧).
-- 三井住友トラスト・アセットマネジメント株式会社, "会社概要" (公式コーポレートサイト).
+- 三井住友トラスト・アセットマネジメント株式会社, "会社概要・株主構成" (https://www.smtam.jp/institutional/company/outline/).
 - 三井住友トラストグループ, "グループ会社一覧".

@@ -1,11 +1,11 @@
 ---
 source: asset-managers/mufg-asset-management
-source_hash: 3805c373a4d3c186
+source_hash: 438fdcecae256259
 lang: en
 status: machine
 fidelity: ok
 title: "Mitsubishi UFJ Asset Management"
-translated_at: 2026-06-15T03:48:21.873Z
+translated_at: 2026-07-28T23:53:14.949Z
 ---
 
 # Mitsubishi UFJ Asset Management
@@ -27,6 +27,8 @@ Mitsubishi UFJ Asset Management Co., Ltd. is the asset-management company of [[m
 | Parent boundary | asset-management subsidiary of the [[megabanks/mufg|MUFG]] group (megabank-affiliated) |
 | Supervision | [[financial-regulators/fsa|FSA]] + the Investment Trusts Association / the Japan Investment Advisers Association |
 | Wiki role | MUFG-affiliated asset-management company anchor |
+
+Sources: ^[FSA 金融商品取引業者登録一覧: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx; 三菱UFJアセットマネジメント 会社概要: https://www.am.mufg.jp/corp/about/gaiyou.html.]
 
 ## 2. Operating model
 

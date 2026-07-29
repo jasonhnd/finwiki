@@ -9,9 +9,9 @@ aliases:
   - "asset-managers/mitsubishi-ufj-asset-management"
 domain: asset-managers
 created: 2026-05-20
-last_updated: 2026-06-05
-last_tended: 2026-06-05
-review_by: 2026-11-20
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, asset-management, fiea-operator, mufg]
 status: active
@@ -57,6 +57,8 @@ This entry sits under [[asset-managers/INDEX|asset-managers INDEX]] (its domain 
 | Parent boundary | [[megabanks/mufg|MUFG]] グループの asset-management 子会社 (megabank-affiliated) |
 | Supervision | [[financial-regulators/fsa|FSA]] + 投資信託協会 / 日本投資顧問業協会 |
 | Wiki role | MUFG 系 運用会社 anchor |
+
+Sources: ^[FSA 金融商品取引業者登録一覧: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx; 三菱UFJアセットマネジメント 会社概要: https://www.am.mufg.jp/corp/about/gaiyou.html.]
 
 ## 2. Operating model
 

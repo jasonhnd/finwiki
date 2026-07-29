@@ -1,11 +1,11 @@
 ---
 source: asset-managers/mufg-asset-management
-source_hash: 3805c373a4d3c186
+source_hash: 438fdcecae256259
 lang: ja
 status: machine
 fidelity: ok
 title: "三菱UFJアセットマネジメント"
-translated_at: 2026-06-15T03:48:21.873Z
+translated_at: 2026-07-28T23:40:03.770Z
 ---
 
 # 三菱UFJアセットマネジメント
@@ -27,6 +27,8 @@ translated_at: 2026-06-15T03:48:21.873Z
 | 親会社境界 | [[megabanks/mufg|MUFG]] グループの asset-management 子会社 (megabank-affiliated) |
 | 監督 | [[financial-regulators/fsa|FSA]] + 投資信託協会 / 日本投資顧問業協会 |
 | Wiki 上の役割 | MUFG 系 運用会社 anchor |
+
+Sources: ^[FSA 金融商品取引業者登録一覧: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx; 三菱UFJアセットマネジメント 会社概要: https://www.am.mufg.jp/corp/about/gaiyou.html.]
 
 ## 2. 運営モデル
 

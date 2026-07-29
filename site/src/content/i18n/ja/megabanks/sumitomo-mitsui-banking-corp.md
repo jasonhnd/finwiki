@@ -1,12 +1,12 @@
 ---
 source: megabanks/sumitomo-mitsui-banking-corp
-source_hash: 6c5222a041f80441
+source_hash: 239174516261672a
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "三井住友銀行 (SMBC)"
-translated_at: 2026-06-26T08:32:07.556Z
+translated_at: 2026-07-28T23:40:04.247Z
 ---
 
 # 三井住友銀行 (SMBC)
@@ -26,6 +26,8 @@ translated_at: 2026-06-26T08:32:07.556Z
 | 免許ルート | 銀行法上の銀行免許 (都市銀行); FSA bank license list |
 | 銀行コード | 0009 |
 | 親会社境界 | [[megabanks/smfg|SMFG]] 傘下 bank operating company |
+
+Sources: ^[金融庁「銀行免許一覧」: https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx; SMBC「会社概要」: https://www.smbc.co.jp/aboutus/profile/gaiyo.html; SMBC「主要子会社・関連会社」: https://www.smbc.co.jp/aboutus/profile/group.html.]
 
 ## 2. 事業モデル
 

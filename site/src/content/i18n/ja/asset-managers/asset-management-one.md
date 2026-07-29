@@ -1,11 +1,11 @@
 ---
 source: asset-managers/asset-management-one
-source_hash: 64cf17f58d66667d
+source_hash: 28d79dad8ce36087
 lang: ja
 status: machine
 fidelity: ok
 title: "アセットマネジメントOne"
-translated_at: 2026-06-15T03:48:21.848Z
+translated_at: 2026-07-28T23:40:03.739Z
 ---
 
 # アセットマネジメントOne
@@ -24,10 +24,12 @@ translated_at: 2026-06-15T03:48:21.848Z
 |---|---|
 | Legal name | アセットマネジメントOne株式会社 / Asset Management One Co., Ltd. |
 | License route | 金融商品取引法上の **投資運用業**・**投資助言・代理業**・第二種; 関東財務局長(金商)第324号 |
-| Group boundary | [[megabanks/mizuho-fg|Mizuho FG]] / [[life-insurers/dai-ichi-life|Dai-ichi Life Group]] JV (economic ~70/30, voting ~51/49 per public disclosure) |
+| Group boundary | [[megabanks/mizuho-fg|Mizuho FG]] / [[life-insurers/dai-ichi-life|Dai-ichi Life Group]] JV。公式会社概要の出資比率は 70% / 30%、議決権比率は 51% / 49% |
 | Origin | 2016 年、みずほ系運用 3 社 + DIAM の機能統合で発足 |
 | Supervision | [[financial-regulators/fsa|FSA]] + 投資信託協会 / 日本投資顧問業協会 |
 | Wiki role | みずほ + 第一生命 JV 運用会社 anchor |
+
+Sources: ^[FSA 金融商品取引業者登録一覧: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx; Asset Management One 会社概要: https://www.am-one.co.jp/company/profile/.]
 
 ## 2. オペレーティングモデル
 
@@ -56,4 +58,4 @@ translated_at: 2026-06-15T03:48:21.848Z
 - Asset Management One, "ごあいさつ".
 
 > [!info] 校核状態
-> confidence: likely. 法人名・登録番号・JV 親会社・設立沿革は公開情報。出資比率 (~70/30 economic, ~51/49 voting) は公開開示に基づく **shape** であり、固定値として扱わない。
+> confidence: likely. 法人名・登録番号・JV 親会社・設立沿革、出資比率 70% / 30% と議決権比率 51% / 49% は、2026-07-29 時点の FSA 登録一覧と公式会社概要で再確認した。

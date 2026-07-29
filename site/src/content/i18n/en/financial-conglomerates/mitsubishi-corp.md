@@ -1,131 +1,138 @@
 ---
 source: financial-conglomerates/mitsubishi-corp
-source_hash: 5e8e90000e7241f5
+source_hash: bddb9276690f6b07
 lang: en
 status: machine
 fidelity: ok
 title: "Mitsubishi Corporation (三菱商事)"
-translated_at: 2026-06-18T23:59:13.077Z
+translated_at: 2026-07-29T01:44:13.243Z
 ---
 # Mitsubishi Corporation (三菱商事)
 
 ## Wiki route
 
-This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] as a **sōgō shōsha parent holding-company** (not a financial group per se, but it is the cap-table parent of multiple JapanFG-tagged finance subsidiaries). Read it against [[financial-conglomerates/mitsui-co|三井物産]] and [[financial-conglomerates/itochu-corp|伊藤忠商事]] for the closest 5  major-trading-company peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see [[trading-company-finance/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]] (inward-facing group treasury) and [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] (outward-facing leasing, partial-owned listed). System frame: [[finance/INDEX|finance index]] and [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]] for the broader cross-shareholding lens that ties the trading houses to the megabanks / leasing firms.
+This entry sits under [[financial-conglomerates/INDEX|financial-conglomerates INDEX]] as a **sōgō shōsha parent holding-company** (not a financial group per se, but it is the cap-table parent of multiple JapanFG-tagged finance subsidiaries). Read it against [[financial-conglomerates/mitsui-co|Mitsui & Co.]] and [[financial-conglomerates/itochu-corp|Itochu Corporation]] for the closest 5  major trading company peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see [[trading-company-finance/mitsubishi-corp-finance|Mitsubishi Corporation Financial Services]] (inward-facing group treasury) and [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] (outward-facing leasing, partial-owned listed). System frame: [[finance/INDEX|finance index]] and [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]] for the broader cross-shareholding lens that ties trading companies to megabanks / leasing.
 
-## 1. Company overview
+## 1. Company Overview
 
 | Item | Notes |
 |---|---|
-| Legal name | Mitsubishi Corporation K.K. ^[extracted] |
+| Legal Name | Mitsubishi Corporation ^[extracted] |
 | English | Mitsubishi Corporation ^[extracted] |
-| Ticker | TSE PRIME **8058** ^[extracted] |
-| Listing | Tokyo Stock Exchange PRIME market, also listed in Nagoya ^[extracted] |
-| Founded | 1950 年 (took its current form after the postwar redivision of the old Mitsubishi Corporation; re-consolidated via the 1954 年 merger) ^[extracted] |
-| Head office | Marunouchi, Chiyoda-ku, Tokyo ^[extracted] |
-| Consolidated employees | Approx. over 8 万 (group consolidated) ^[extracted] |
-| Accounting standard | IFRS ^[extracted] |
-| Main segments | Natural gas, integrated materials, petroleum & chemicals solutions, mineral resources, industrial infrastructure, automotive & mobility, food industry, consumer industry (incl. Lawson), power solutions, urban development & infrastructure ^[extracted] |
+| Ticker | Tokyo Stock Exchange PRIME **8058** ^[extracted] |
+| Listing | Tokyo Stock Exchange PRIME market, including Nagoya listing ^[extracted] |
+| Founded | 1950 年 (following post-war demerger of former Mitsubishi Corporation and subsequent reconsolidation via 1954 年 merger) ^[extracted] |
+| Headquarters | Marunouchi, Chiyoda-ku, Tokyo ^[extracted] |
+| Consolidated Employees | Approximately 8 万 or more (consolidated group) ^[extracted] |
+| Accounting Standard | IFRS ^[extracted] |
+| Major Segments | Natural gas, comprehensive materials, oil and chemical solutions, metal resources, industrial infrastructure, automobiles and mobility, food industry, consumer industry (including Lawson), power solutions, multipurpose urban development ^[extracted] |
 
-### Main subsidiaries / affiliates (JapanFG context)
+### Major Subsidiaries and Related Companies (JapanFG context)
 
 ```
-Mitsubishi Corporation (8058, TSE PRIME)
-  ├── [[trading-company-finance/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]] (100%)        — inward-facing CMS / group finance
-  ├── [[asset-managers/mitsubishi-corp-asset-management|三菱商事アセットマネジメント]] (100%)  — group asset management / alternatives
-  ├── [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] (approx. 20% tier, equity method)            — outward-facing leasing, listed 8593
-  ├── Lawson (50%, remainder 50% KDDI, taken private via the 2024 年 MBO)                              — convenience-store / retail finance platform
-  └── Mitsubishi Motors (approx. 20% tier, equity method)                                                  — automotive & mobility
+Mitsubishi Corporation (8058,  Tokyo Stock Exchange PRIME)
+  ├── [[trading-company-finance/mitsubishi-corp-finance|Mitsubishi Corporation Financial Services]] (100%) — Finance, accounting, and audit outsourcing / Group finance
+  ├── [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] (ownership ratio 18.35%, equity method)       — Outward-facing comprehensive leasing, listed 8593
+
+  ├── Lawson (50%, remainder 50% KDDI, 2024 年 MBO taken private)                              — Convenience store and retail finance platform
+  ├── Mitsubishi Motors Corporation (approximately 20% level, equity method)                                                  — Automobiles and mobility
+  └── Former MC-UBSR (current KJR Management) (0%, all shares sold to 2022 年)                             — Currently KKR-backed
 ```
 
-### History highlights ^[extracted]
+### History Highlights ^[extracted]
 
 | Year | Event |
 |---|---|
-| 1918 | Old Mitsubishi Corporation founded |
-| 1947 | Old Mitsubishi Corporation dissolved in the GHQ zaibatsu dissolution |
-| 1954 | Current Mitsubishi Corporation founded through re-consolidation |
-| 1970s onward | Upstream entry into LNG (Brunei, Malaysia, Australia NWS) — a later core profit driver |
-| 1990s | Australian iron-ore / coking-coal JV with BHP (BMA, etc.) |
-| 2000s onward | Net profit reached the 1 兆円 tier in the resource boom cycle |
-| 2017 | Lawson made a subsidiary (equity stake 50%+) |
-| 2024 | Lawson 50/50  structure with KDDI; Lawson delisted via TOB |
+| 1918 | Former Mitsubishi Corporation founded |
+| 1947 | Former Mitsubishi Corporation dissolved by GHQ zaibatsu dissolution |
+| 1954 | Current Mitsubishi Corporation established through reconsolidation |
+| 1970s〜 | LNG (Brunei, Malaysia, Australia NWS) upstream entry — later core profit driver |
+| 1990s | Joint venture with BHP for Australian iron ore and coking coal (BMA, etc.) |
+| 2000s〜 | Net profit reached 1 兆円 level during resource boom cycle |
+| 2017 | Lawson made a subsidiary (50%+ shares) |
+| 2024 | KDDI and Lawson 50/50  structure, Lawson delisted via TOB |
 
-## 2. Business segment map
+## 2. Business Segment Map
 
-| Segment | Main business | Representative subsidiaries / JVs |
+| Segment | Major Operations | Representative Subsidiaries/JVs |
 |---|---|---|
-| Natural gas | LNG upstream (Australia NWS, Brunei, Malaysia, US Cameron LNG, etc.) | Mitsubishi Australia / Petroleum |
-| Integrated materials | Steel products, copper sheet, metal processing | Metal One (a 60/40 JV with the Nippon Steel side) |
-| Petroleum & chemicals solutions | Petrochemicals, chemicals trade, methanol | — |
-| Mineral resources | Iron ore / coking coal (BMA JV with BHP), copper, aluminium | Mitsubishi Development (Australia) |
-| Industrial infrastructure | Plant engineering, machinery, renewables | — |
-| Automotive & mobility | Isuzu, Mitsubishi Motors, overseas dealer network, mobility services | MC Autocraft |
-| Food industry | Food trading (ingredients / grains), coffee, salmon (Cermaq) | Kentucky Fried Chicken Japan (KFC Japan) — divested in 2024  |
-| Consumer industry | Convenience stores (Lawson), retail, healthcare | Lawson (50% MC + 50% KDDI) |
-| Power solutions | IPP, renewables, offshore wind, green hydrogen | Diamond Generating |
-| Urban development & infrastructure | Real estate (independent of the old Mitsubishi Estate side), overseas urban development | — |
+| Natural Gas | LNG upstream (Australia NWS, Brunei, Malaysia, US Cameron LNG, etc.) | Mitsubishi Australia / Petroleum |
+| Comprehensive Materials | Steel products, copper plate, metal processing | Metal One (JV with New Japan Steel, 60/40 ) |
+| Oil and Chemical Solutions | Petrochemicals, chemical products trading, methanol | — |
+| Metal Resources | Iron ore and coking coal (BHP BMA JV), copper, aluminum | Mitsubishi Development (Australia) |
+| Industrial Infrastructure | Plant engineering, machinery, renewable energy | — |
+| Automobiles and Mobility | Isuzu, Mitsubishi Motors, overseas dealer network, mobility services | MC Autocraft |
+| Food Industry | Food trading (materials and grains), coffee, salmon (Cermaq) | Japan Kentucky Fried Chicken (KFC Japan) — 2024  sold |
+| Consumer Industry | Convenience stores (Lawson), retail, healthcare | Lawson (50% MC + 50% KDDI) |
+| Power Solutions | IPP, renewable energy, offshore wind, green hydrogen | Diamond Generating |
+| Multipurpose Urban Development | Real estate (independent from former Mitsubishi Estate), overseas urban development | — |
 
 ## 3. Financial-services adjacency
 
-| Finance subsidiary / affiliate | Wiki anchor | Stake | Function |
+| Finance Subsidiary / Related | Wiki Anchor | Stake | Function |
 |---|---|---|---|
-| Mitsubishi Corporation Financial Service | [[trading-company-finance/mitsubishi-corp-finance]] | 100% | Inward-facing CMS / group finance / consolidated factoring / FX & rate hedge brokerage |
-| Mitsubishi Corporation Asset Management | [[asset-managers/mitsubishi-corp-asset-management]] | 100% | Group asset management / alternatives (where a corresponding wiki exists) |
-| Mitsubishi HC Capital | [[leasing-firms/mitsubishi-hc-capital]] | Approx. 20% tier (equity method) | **Outward-facing** integrated leasing & finance, TSE PRIME **8593** |
+| Mitsubishi Corporation Financial Services | [[trading-company-finance/mitsubishi-corp-finance]] | 100% | Finance, accounting, and audit outsourcing, group finance |
+| Mitsubishi HC Capital | [[leasing-firms/mitsubishi-hc-capital]] | Ownership ratio 18.35% (voting rights 18.4%, equity method) | **Outward-facing** comprehensive leasing and finance, Tokyo Stock Exchange PRIME **8593** |
+| Former Mitsubishi Corporation/UBS Realty (current KJR Management) | [[asset-managers/mitsubishi-corp-asset-management]] | 0% (transferred all shares to 2022年4月; 51%) | Currently KKR-backed. Recorded as historical boundary for real estate asset management |
 
-In addition, financial-services ecosystem linkage runs through the **Mitsubishi group's cross-shareholding**:
+Sources: ^[三菱商事フィナンシャルサービス「会社概要」（三菱商事100%）: https://www.mcfj.co.jp/corp/about.html; 三菱HCキャピタル「株式基本情報」（2026-03-31現在、所有割合18.35%）: https://www.mitsubishi-hc-capital.com/investors/stock/basic.html; 三菱商事「2025年度定時株主総会 招集ご通知」（議決権18.4%）: https://www.mitsubishicorp.com/jp/ja/ir/sh_meeting/pdf/matome_2026.pdf; 三菱商事「子会社の株式譲渡に関するお知らせ」（旧MC-UBSRの譲渡後0%）: https://www.mitsubishicorp.com/jp/ja/news/release/2022/0000048846.html.]
 
-The **two-layer structure** of "outward-facing leasing = Mitsubishi HC Capital" and "inward-facing CMS = MCFS" is the standard form of Mitsubishi Corporation's financial operations.
+Additionally, **Mitsubishi Group's cross-shareholding** linked financial-services ecosystem:
 
-### 5  major-trading-company positioning
+"Outward-facing leasing = Mitsubishi HC Capital (equity method)" and "Group finance and accounting review = 100% subsidiary MCFJ" in a **two-tier structure**. Former MC-UBSR has transferred all shares to 2022年, and currently KJR Management is not treated as a Mitsubishi Corporation subsidiary.
 
-| Trading company | Strength | Core profit source |
+### 5  Major Trading Company Positioning
+
+| Trading Company | Strengths | Core Profit Source |
 |---|---|---|
-| **Mitsubishi Corporation (8058)** | LNG / mineral resources / convenience stores (Lawson) | Balanced type of resources + consumer industry |
-| [[financial-conglomerates/mitsui-co|三井物産 (8031)]] | Iron ore (Vale stake) / LNG / machinery | Resource-leaning, regularly among the top in net profit |
-| [[financial-conglomerates/itochu-corp|伊藤忠商事 (8001)]] | Textiles / food (FamilyMart) / ICT | Non-resource = consumer industry + ICT |
-| [[financial-conglomerates/sumitomo-corp|住友商事 (8053)]] | Steel pipe / real estate / US media (J:COM, etc.) | Diversification-leaning; in recent years mid-to-lower among the 5  majors by net profit |
-| [[financial-conglomerates/marubeni-corp|丸紅 (8002)]] | Power IPP / food (grains) / steel pipe | Has a power & grain-trading-company aspect |
+| **Mitsubishi Corporation (8058)** | LNG / Metal resources / Convenience stores (Lawson) | Resources + lifestyle industry balance-type |
+| [[financial-conglomerates/mitsui-co|Mitsui & Co. (8031)]] | Iron ore (Vale stake) / LNG / Machinery | Resource-oriented, consistent net profit top performer |
+| [[financial-conglomerates/itochu-corp|Itochu Corporation (8001)]] | Textiles / Food (FamilyMart) / ICT | Non-resource = lifestyle industry + ICT |
+| [[financial-conglomerates/sumitomo-corp|Sumitomo Corporation (8053)]] | Steel pipes / Real estate / US media (J:COM, etc.) | Multi-faceted, recently net profit lower-mid range among 5  major companies |
+| [[financial-conglomerates/marubeni-corp|Marubeni (8002)]] | Power IPP / Food (grains) / Steel pipes | Power and grain trader aspect |
 
-### Competition
+### Competitors
 
-- Domestic: mutual competition among the 5  major trading companies ([[financial-conglomerates/mitsui-co|三井]] / [[financial-conglomerates/itochu-corp|伊藤忠]] / [[financial-conglomerates/sumitomo-corp|住友]] / [[financial-conglomerates/marubeni-corp|丸紅]])
-- Overseas resource majors: BHP, Glencore, Rio Tinto, Vale (both partner and competitor on a case-by-case basis)
-- Retail (Lawson domain): Seven & i HD (7-Eleven), FamilyMart (Itochu side)
+- Domestic: 5  major trading company mutual competition ([[financial-conglomerates/mitsui-co|Mitsui]] / [[financial-conglomerates/itochu-corp|Itochu]] / [[financial-conglomerates/sumitomo-corp|Sumitomo]] / [[financial-conglomerates/marubeni-corp|Marubeni]])
+- Overseas resource majors: BHP, Glencore, Rio Tinto, Vale (on a case-by-case basis both partner and competitor)
+- Retail (Lawson domain): Seven & i Holdings (7-Eleven), FamilyMart (Itochu-backed)
 
-## 5. Regulation / policy
+## 5. Regulation and Policy
 
-- **Accounting**: adopts **IFRS** (the 5  major trading companies generally use IFRS), with a large weight of equity-method investments — [[leasing-firms/mitsubishi-hc-capital|HCキャピタル]] / Mitsubishi Motors / many JV investments are accounted for by the equity method ^[extracted]
+- **Accounting**: **IFRS** adoption (5  major trading companies generally adopt IFRS), significant proportion of equity-method investments — [[leasing-firms/mitsubishi-hc-capital|HC Capital]] / Mitsubishi Motors / many JV investments accounted for by equity method ^[extracted]
 
 ## 6. Counterpoints
 
 ## 7. Open questions
 
-- The **post-privatisation Lawson strategy** from 2024 onward — what is the future positioning of the "real × digital" synergy with KDDI and of the convenience-store ATM (the former Lawson Bank)?
-- The monetisation timeline of **EX / GX investments** (offshore wind, hydrogen, CCS, etc.)
-- The pace of **shrinking / swapping resource assets** (e.g. scaling back Australian coal BMA, expanding renewables / copper / lithium)
-- Whether there is any move from **equity method to consolidated subsidiary** (HC Capital, Mitsubishi Motors, etc.)
-- The pressure to unwind the **Mitsubishi group cross-shareholding** (in the governance-reform context) and the trading company's stance
-- The future of the **net-profit top-spot rivalry** within the 5  major trading companies (comparison with [[financial-conglomerates/itochu-corp|伊藤忠]] / [[financial-conglomerates/mitsui-co|三井物産]])
+- 2024〜 **Lawson strategy after going private** — "Real × Digital" synergy with KDDI, future positioning of convenience store ATMs (former Lawson Bank)?
+- **EX / GX investment** (offshore wind, hydrogen, CCS, etc.) revenue realization timeline
+- **Resource asset reduction and replacement** (e.g., Australian coal BMA reduction, renewable energy, copper, lithium expansion) progress
+- Movement toward **equity method → consolidation as subsidiary** (HC Capital, Mitsubishi Motors, etc.)?
+- Pressure to unwind **Mitsubishi Group cross-shareholding** (in governance reform context) and the trading company's stance
+- **Net profit top position competition** within 5  major trading companies ([[financial-conglomerates/itochu-corp|Itochu]] / [[financial-conglomerates/mitsui-co|Mitsui & Co.]] comparison) going forward
 
 ## Related
 
 - [[financial-conglomerates/INDEX|financial-conglomerates INDEX]]
-- [[financial-conglomerates/mitsui-co|三井物産]] · [[financial-conglomerates/itochu-corp|伊藤忠商事]] · [[financial-conglomerates/sumitomo-corp|住友商事]] · [[financial-conglomerates/marubeni-corp|丸紅]] · [[financial-conglomerates/toyota-tsusho-corp|豊田通商]] · [[financial-conglomerates/sojitz-corp|双日]] (5  major trading companies + mid-tier trading companies)
-- [[trading-company-finance/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]] (inward-facing group treasury)
-- [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] (outward-facing leasing, joint control with MUFG)
-- [[megabanks/mufg|MUFG]] · [[trust-banks/mitsubishi-ufj-trust|三菱UFJ信託銀行]] (Mitsubishi group financial ecosystem)
-- [[finance/INDEX|finance index]] · [[finance/japan-listed-financial-groups-investable-universe|Japan 上場金融 G 投資ユニバース]]
+- [[financial-conglomerates/mitsui-co|Mitsui & Co.]] · [[financial-conglomerates/itochu-corp|Itochu Corporation]] · [[financial-conglomerates/sumitomo-corp|Sumitomo Corporation]] · [[financial-conglomerates/marubeni-corp|Marubeni]] · [[financial-conglomerates/toyota-tsusho-corp|Toyota Tsusho]] · [[financial-conglomerates/sojitz-corp|Sojitz]] (5  major trading companies + mid-tier trading companies)
+- [[trading-company-finance/mitsubishi-corp-finance|Mitsubishi Corporation Financial Services]] (inward-facing group treasury)
+- [[leasing-firms/mitsubishi-hc-capital|Mitsubishi HC Capital]] (outward-facing leasing, joint control with MUFG)
+- [[megabanks/mufg|MUFG]] · [[trust-banks/mitsubishi-ufj-trust|Mitsubishi UFJ Trust and Banking]] (Mitsubishi Group financial ecosystem)
+- [[finance/INDEX|finance index]] · [[finance/japan-listed-financial-groups-investable-universe|Japan listed financial groups investable universe]]
 
 ## Sources
 
-- Mitsubishi Corporation (8058) official IR — https://www.mitsubishicorp.com/jp/ja/ir/
-- Mitsubishi Corporation integrated report (latest edition) — https://www.mitsubishicorp.com/jp/ja/ir/library/ar/
-- EDINET securities reports — https://disclosure.edinet-fsa.go.jp/ (search: Mitsubishi Corporation / 8058)
-- JPX issue information 8058 — https://www2.jpx.co.jp/
+- Mitsubishi Corporation (8058) Official IR — https://www.mitsubishicorp.com/jp/ja/ir/
+- Mitsubishi Corporation Integrated Report (latest) — https://www.mitsubishicorp.com/jp/ja/ir/library/ar/
+- Mitsubishi Corporation 2025年 Annual General Meeting Notice of Convocation — https://www.mitsubishicorp.com/jp/ja/ir/sh_meeting/pdf/matome_2026.pdf
+- Mitsubishi Corporation MC-UBSR Stock Transfer Release — https://www.mitsubishicorp.com/jp/ja/news/release/2022/0000048846.html
+- Mitsubishi HC Capital Stock Basic Information — https://www.mitsubishi-hc-capital.com/investors/stock/basic.html
+- Mitsubishi Corporation Financial Services Company Overview — https://www.mcfj.co.jp/corp/about.html
+- EDINET Securities Report — https://disclosure.edinet-fsa.go.jp/ (Search: Mitsubishi Corporation / 8058)
+- JPX Stock Information 8058  — https://www2.jpx.co.jp/
 
 ---
 
-> [!info] Verification status
-> confidence: **likely**. Mitsubishi Corporation is a large company sufficiently covered on the public surface (IR + integrated report + EDINET securities reports). The boundary of the finance subsidiaries has been cross-validated with the [[trading-company-finance/mitsubishi-corp-finance]] / [[leasing-firms/mitsubishi-hc-capital]] entries. Specific persistent figures (consolidated net profit, segment profit, HC Capital stake ratio) are updated as needed from the latest securities report / integrated report.
+> [!info] Verification Status
+> confidence: **likely**. MCFJ 100%, ownership ratio of Mitsubishi HC Capital 18.35% (voting rights 18.4%), and post-transfer status of former MC-UBSR 0% were re-confirmed in official disclosures of each company as of 2026-07-29.

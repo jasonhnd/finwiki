@@ -1,47 +1,58 @@
 ---
 source: asset-managers/mitsubishi-corp-asset-management
-source_hash: 28d1c03258821915
+source_hash: 267c20187eb407b7
 lang: en
 status: machine
 fidelity: ok
-title: "Mitsubishi Corp-affiliated Asset Management (Mitsubishi Corp Asset Management arm)"
-translated_at: 2026-06-18T23:33:48.280Z
+title: "Mitsubishi Corp.-UBS Realty (now KJR Management)"
+translated_at: 2026-07-29T00:25:17.053Z
 ---
 
-# Mitsubishi Corp-affiliated Asset Management (Mitsubishi Corp Asset Management arm)
+# Mitsubishi Corp.-UBS Realty (now KJR Management)
 
 ## Wiki route
 
-This entry sits under [[asset-managers/INDEX|asset-managers INDEX]]. Read it against [[asset-managers/asset-management-one|アセットマネジメントOne]] (the [[megabanks/mizuho-fg|みずほ FG]] + [[life-insurers/dai-ichi-life|第一生命]] JV AM, peer banking-system AM) and [[asset-managers/mufg-asset-management|三菱UFJアセットマネジメント]] (the [[megabanks/mufg|MUFG]]-affiliated AM). For the same-parent group-treasury arm, see [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]]. For the broader trading-company-affiliated finance peer set: [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]] / [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]] / [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]] / [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]] / [[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]] / [[trading-company-finance/sojitz-finance|双日フィナンス]]. See [[securities/INDEX|securities index]] for the FIEA / investment-management-business boundary.
+This entry sits under [[asset-managers/INDEX|asset-managers INDEX]] as a corporate-history route: Mitsubishi Corp.-UBS Realty (MC-UBSR) was sold in full to KKR in 2022 and renamed KJR Management. It is not a current Mitsubishi Corporation subsidiary. Keep it separate from [[asset-managers/mufg-asset-management|三菱UFJアセットマネジメント]] and [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]], which belong to [[megabanks/mufg|MUFG]], a different corporate group. For Mitsubishi Corporation's treasury function, see [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]].
 
 ## 1. Company overview
 
 > [!warning] Important capital change (2022)
-> **Mitsubishi Corp.-UBS Realty Inc. (MC-UBSR)**, once the core of the Mitsubishi Corp-affiliated real-estate AM, was made a wholly owned subsidiary when, **in 2022-04-28, Mitsubishi Corporation (8058) and UBS Asset Management AG transferred all the shares they held to KKR (its indirect subsidiary 76  Inc.) (for approximately 2,300 億円), and its corporate name was changed to KJR Management Co., Ltd. (KJR Management)**. That is, this core company is **now not Mitsubishi Corp-affiliated but under KKR**, and the old premise of this page that it is a "collective node of the Mitsubishi Corp-affiliated real-estate AM" does not hold for MC-UBSR. The table below is recorded for the purpose of organizing the history.
+> **Mitsubishi Corp.-UBS Realty Inc. (MC-UBSR)**, once the core of the Mitsubishi Corp-affiliated real-estate AM, **transferred, in 2022-04-28, all the shares held by Mitsubishi Corporation and UBS Asset Management to KKR, and its corporate name was changed to KJR Management Co., Ltd. (KJR Management)**. After the 2025 group reorganization, KJR Management is 100% held by KJRM Holdings, which is 100% owned by the KKR group, and it handles J-REIT management. Therefore the company is not treated as a current Mitsubishi Corp-affiliated AM.
 
 | Item | Notes |
 |---|---|
-| Former core company (history) | **Mitsubishi Corp.-UBS Realty Inc. (MC-UBSR)** = the joint venture into which MC Asset Management (Mitsubishi Corporation 51% / UBS 49%), established in 2000 , was renamed in the same year. **In 2022-04-28 KKR acquired all the shares and the corporate name was changed to "KJR Management Co., Ltd."** (assets under management approximately 1.7 兆円, managing Japan Metropolitan Fund Investment Corporation and Industrial & Infrastructure Fund Investment Corporation) |
-| Former English | Mitsubishi Corp.-UBS Realty Inc. (now KJR Management Co., Ltd.) |
-| Former Parent → current Parent | Former: joint venture of Mitsubishi Corporation 51% + UBS 49% → **current: KKR 100% (since 2022–04 , Mitsubishi Corporation has no capital relationship)** |
-| License route | FIEA investment-management business (J-REIT management + private funds) |
-| Wiki role (redefinition) | This page is historically a collective node of "Mitsubishi Corp-affiliated real-estate AM," but the core MC-UBSR was sold to KKR in 2022 . **The specific subsidiary carrying the existing Mitsubishi Corp-affiliated real-estate / real-asset AM function requires reconfirmation** (this is not a snapshot of an individual subsidiary) |
+| Former corporate name | 三菱商事・ユービーエス・リアルティ株式会社 / Mitsubishi Corp.-UBS Realty Inc. |
+| Current corporate name | 株式会社 KJRマネジメント / KJR Management |
+| Capital change | Former: Mitsubishi Corporation 51% + UBS Asset Management 49% → KKR acquired all shares in 2022-04-28 |
+| Current direct shareholder | KJRM Holdings Inc. 100% (that holding company is 100% owned by the KKR group) |
+| FSA registration | Director-General of the Kanto Local Finance Bureau (Kinsho) No. 403 |
+| Registered business / current business | Investment-management business; asset management of Japan Metropolitan Fund Investment Corporation and Industrial & Infrastructure Fund Investment Corporation |
+| Wiki role | History and license boundary from MC-UBSR to KJR Management |
 
-### Placement of the AM function within the Mitsubishi group
+Sources: ^[Mitsubishi Corporation / UBS / KKR transfer agreement (2022-03-17): https://www.mitsubishicorp.com/jp/ja/news/release/2022/0000048879.html; KKR completion of acquisition (2022-04-28): https://media.kkr.com/news-details?download=1&news_id=6485532f-6180-415c-a8a0-9f89df61876f; KJR Management company overview: https://www.kjrm.co.jp/company/mgmt/; KJRM group reorganization / KKR relationship: https://www.kjrm.co.jp/about/inside/; FSA list of registered financial-instruments business operators: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx.]
 
-| Layer | Entity | Role |
+### Current corporate-group boundary
+
+| Entity | Current corporate group | Relation to this page |
 |---|---|---|
-| **Financial-institution-affiliated (general management)** | [[asset-managers/mufg-asset-management|三菱UFJアセットマネジメント]] | Traditional AM such as investment trusts and pensions |
-| **Trust-affiliated (trust management + real estate)** | [[trust-banks/mitsubishi-ufj-trust-bank|MUTB]]-affiliated + AMS (former Mitsubishi Trust) | Management inside the trust bank + real-estate AM utilizing the trust mechanism |
-| **Trading-company-affiliated (real assets + investment)** | **The Mitsubishi Corp-affiliated AM group of this page** | Real-asset AM utilizing real assets (real estate / infrastructure / renewable energy / PE) |
+| KJR Management | KKR / KJRM group | Current corporate entity of the former MC-UBSR. Currently no capital relationship with Mitsubishi Corporation |
+| [[asset-managers/mufg-asset-management|三菱UFJアセットマネジメント]] | [[megabanks/mufg|MUFG]] | Contains "Mitsubishi" in its name but is not a subsidiary of Mitsubishi Corporation |
+| [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]] | [[megabanks/mufg|MUFG]] | MUFG's trust bank. Not a subsidiary of Mitsubishi Corporation |
+| Mitsubishi Corporation | Mitsubishi Corporation group | Transferred all of its MC-UBSR stake in 2022. No specific successor AM subsidiary is inferred from the cited materials |
 
-## 2. Business segment map
+Sources: ^[KJR Management company overview: https://www.kjrm.co.jp/company/mgmt/; Mitsubishi Corporation transfer release: https://www.mitsubishicorp.com/jp/ja/news/release/2022/0000048879.html; Mitsubishi UFJ Asset Management company overview: https://www.am.mufg.jp/corp/about/gaiyou.html; Mitsubishi UFJ Trust Bank corporate information: https://www.tr.mufg.jp/ippan/about/index.html.]
 
-| Segment | Content |
-|---|---|
-| **Private real-estate funds** | Real-estate private funds for institutional investors (office / logistics / commercial / residence) |
+## 2. Business boundary
 
-### Peer / competitors
+| Point in time | Entity | Business boundary confirmable in public materials |
+|---|---|---|
+| At the 2022 transfer | MC-UBSR | Management of Japan Metropolitan Fund Investment Corporation and Industrial & Infrastructure Fund Investment Corporation. AUM at the time of the transfer announcement approximately 1.7 兆円 |
+| After the 2025 reorganization | KJR Management | J-REIT management |
+| After the 2025 reorganization | KJRM Private Solutions | Private-fund management |
+
+Sources: ^[Mitsubishi Corporation transfer release: https://www.mitsubishicorp.com/jp/ja/news/release/2022/0000048879.html; KJRM group reorganization: https://www.kjrm.co.jp/about/inside/; KJR Management company overview: https://www.kjrm.co.jp/company/mgmt/.]
+
+### References for J-REIT management companies
 
 | Affiliation | Representative J-REIT / AM |
 |---|---|
@@ -49,16 +60,16 @@ This entry sits under [[asset-managers/INDEX|asset-managers INDEX]]. Read it aga
 | Mitsui Fudosan-affiliated | Nippon Building Fund Investment Corporation (NBF), etc. |
 | Nomura-affiliated | NOMURA Real Estate-affiliated J-REITs |
 
-The real-estate AM industry is divided by affiliation according to **where it draws the "source of real assets" from**. The trading-company-affiliated camp follows a vertically integrated model that turns into funds the real assets discovered through the head office's overseas plants / infrastructure / logistics deals + domestic development.
+This table is a reference route, not a comparison of size rankings or management quality. Check each company's and each investment corporation's latest information in their respective official disclosures.
 
 ### Division of labor with the group-treasury function
 
-The Mitsubishi Corp-affiliated financial functions form a **multilayer structure** of the AM group of this page + [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]] (inward-facing CMS / group finance) + [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] (listed leasing / asset finance) + [[megabanks/mufg|MUFG]]-affiliated banks, trusts, and AM. The AM on this page is a specialized function bearing the "fund business derived from real assets."
+[[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]] is the treasury route of the Mitsubishi Corporation group, but KJR Management has been in the KKR / KJRM group since 2022. Also, the [[megabanks/mufg|MUFG]]-affiliated banks, trusts, and AMs are not subsidiaries of Mitsubishi Corporation. These three corporate boundaries are not treated as a consolidated node.
 
 ## 4. Regulation / policy
 
 - **Competent authority**: [[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] (FIEA investment-management operator)
-- **Industry bodies**: The Investment Trusts Association, Japan / The Association for Real Estate Securitization (ARES)
+- **Industry bodies**: The Asset Management Association / The Association for Real Estate Securitization (ARES)
 - **Regulatory points**:
   - FIEA **investment-management business** registration + conflict-of-interest management
   - **J-REIT** regulation (management guidelines / conflicts of interest / sponsor transactions)
@@ -89,15 +100,13 @@ The Mitsubishi Corp-affiliated financial functions form a **multilayer structure
 
 ## Sources
 
-- Mitsubishi Corporation (8058) securities report (EDINET disclosure) — list of affiliated companies
-- Mitsubishi Corporation official IR / integrated report (list of group companies)
-- **Mitsubishi Corporation news release "KKR, Mitsubishi Corporation, and UBS Agree on the Transfer to KKR of Shares of Mitsubishi Corp.-UBS Realty, One of the Largest Real-Estate Asset Management Companies in the Industry"** (2022-03-17, transfer of approximately 2,300 億円 / 100%, completed 2022–04 ) https://www.mitsubishicorp.com/jp/ja/news/release/2022/0000048879.html
-- **Wikipedia "KJR Management"** (formerly Mitsubishi Corp.-UBS Realty, MC Asset Management established 2000 , Mitsubishi Corporation 51% / UBS 49%, 2022-04-28 made a wholly owned subsidiary of KKR / corporate-name change, assets under management approximately 1.7 兆円, managing Japan Metropolitan Fund Investment Corporation and Industrial & Infrastructure Fund Investment Corporation)
-- FSA list of financial-instruments business operators https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx
-- The Association for Real Estate Securitization (ARES) https://www.ares.or.jp/
-- EDINET securities-report search https://disclosure.edinet-fsa.go.jp/
+- Mitsubishi Corporation "KKR, Mitsubishi Corporation, and UBS Agree on the Transfer to KKR of Shares of Mitsubishi Corp.-UBS Realty" (2022-03-17) https://www.mitsubishicorp.com/jp/ja/news/release/2022/0000048879.html
+- KKR "KKR Completes Acquisition of Leading Japanese Real Estate Asset Manager" (2022-04-28) https://media.kkr.com/news-details?download=1&news_id=6485532f-6180-415c-a8a0-9f89df61876f
+- KJR Management "Company overview" https://www.kjrm.co.jp/company/mgmt/
+- KJRM "About KJRM" https://www.kjrm.co.jp/about/inside/
+- FSA "List of registered financial-instruments business operators" https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx
 
 ---
 
 > [!info] Verification status
-> confidence: **tentative** (based on public information 2026-05-24, partial update 2026-05-29). **Mitsubishi Corp.-UBS Realty (MC-UBSR), which this page treated as the "core," was, in 2022-04-28, fully transferred to KKR and renamed "KJR Management"** (confirmed via the Mitsubishi Corporation official release and Wikipedia "KJR Management"). Therefore MC-UBSR is currently not Mitsubishi Corp-affiliated. **The identification of the existing Mitsubishi Corp-affiliated real-estate / real-asset AM subsidiary that exists since 2022  is undetermined**, and reconfirmation against the latest FSA list of financial-instruments business operators / the affiliated-companies list of the Mitsubishi Corporation securities report is necessary. This page is positioned as a collective node of the "Mitsubishi Corp-affiliated AM function group," not a snapshot of a specific subsidiary. **The parent trading-company page `mitsubishi-corp.md` has not been created → planned to be added as backlog in the future.**
+> confidence: **likely**. As of 2026-07-29, the primary releases of Mitsubishi Corporation and KKR, the official KJR Management company overview, KJRM's explanation of the 2025 reorganization, and the FSA registration list were cross-checked. KKR acquired all shares of MC-UBSR in 2022-04-28 and it was renamed KJR Management; the current direct shareholder is KJRM Holdings, 100% owned by the KKR group. Mitsubishi Corporation, MUFG, and KJRM are not treated as the same current AM group.

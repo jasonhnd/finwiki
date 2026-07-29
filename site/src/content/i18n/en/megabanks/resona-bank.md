@@ -1,11 +1,11 @@
 ---
 source: megabanks/resona-bank
-source_hash: 865fdc43debe0d35
+source_hash: 0973ff691ac7fdc3
 lang: en
 status: machine
 fidelity: ok
 title: "Resona Bank (りそな銀行)"
-translated_at: 2026-06-15T03:48:21.912Z
+translated_at: 2026-07-28T23:40:43.820Z
 ---
 
 # Resona Bank (りそな銀行)
@@ -28,6 +28,8 @@ Resona Bank, Limited (りそな銀行) is the core banking entity of [[megabanks
 | Bank code | 0010 |
 | Parent boundary | Bank operating company under [[megabanks/resona-hd|りそな HD]] |
 | Distinctive point | A city-bank-type model that combines trust and pension-related functions in addition to commercial-banking functions |
+
+Sources: ^[金融庁「銀行免許一覧」: https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx; りそな銀行「会社概要」: https://www.resonabank.co.jp/about/gaiyo/; りそなHD「グループ会社」: https://www.resona-gr.co.jp/holdings/about/group/.]
 
 ## 2. Operating model
 

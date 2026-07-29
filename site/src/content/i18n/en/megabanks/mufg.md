@@ -1,11 +1,11 @@
 ---
 source: megabanks/mufg
-source_hash: 528b151757a05ab0
+source_hash: 6d5845b3eba29f7d
 lang: en
 status: machine
 fidelity: ok
 title: "Mitsubishi UFJ FG (MUFG)"
-translated_at: 2026-06-19T06:09:18.145Z
+translated_at: 2026-07-28T23:40:43.781Z
 ---
 
 # Mitsubishi UFJ FG (MUFG)
@@ -81,7 +81,7 @@ MUFG (holding company, listed 8306)
   │     ├── Security Bank Corporation (Philippines, 20.0%)
   │     ├── Mitsubishi UFJ Bank (China) (三菱日聯銀行, 100%)
   │     ├── MUFG Bank Mexico / Europe / Malaysia / Brazil / Eurasia, 100% each
-  │     ├── MUFG Americas Holdings Corp (95.3%, former UnionBanCal) ── holds U.S. Bancorp stock 4.39%
+  │     ├── MUFG Americas Holdings Corp (100%, including 95.3% held indirectly) ── former UnionBanCal
   │     └── Mitsubishi UFJ eSmart Securities (100%) ── former au Kabu.com Securities, acquired from KDDI 2025-01-31
   ├── Mitsubishi UFJ Trust and Banking (100%) ── one of the three major trust banks; pension assets exceeding 250 兆
   │     └── The Master Trust Bank of Japan (46.5%; Nippon Life 33.5%, etc.)
@@ -91,9 +91,9 @@ MUFG (holding company, listed 8306)
   │     └── MUFG Securities Asia / India / EMEA / Canada / Americas (100% each)
   ├── Mitsubishi UFJ NICOS (100%) ── one of the three major credit-card companies
   │     └── Zenhoren (50.2%, acquired via TOB 2025-04-10, rent-debt guarantee)
-  ├── ACOM (equity method 37.6% + trust 2.0% = 39.6%) ── major consumer-finance company, TSE STD 8572
+  ├── ACOM (40.1% of voting rights, including 2.6% held indirectly) ── major consumer-finance company, TSE STD 8572
   │     └── Easy Buy PCL (Thailand, 71%), etc.
-  ├── Mitsubishi HC Capital (14.5% + bank 3.5% = 18.0%; Mitsubishi Corporation 18.4%) ── merger of former Mitsubishi UFJ Lease + Hitachi Capital
+  ├── Mitsubishi HC Capital (20.0% of voting rights, including 5.5% held indirectly) ── merger of former Mitsubishi UFJ Lease + Hitachi Capital
   └── WealthNavi (100%) ── robo-advisory
 ```
 
@@ -167,6 +167,8 @@ MUFG (holding company, listed 8306)
 | Leasing | Mitsubishi HC Capital (TSE PRIME 8593) | Merger of former Mitsubishi UFJ Lease + Hitachi Capital |
 | Think tank | Mitsubishi UFJ Research & Consulting (47%) | - |
 
+Sources: ^[MUFG「FY2025 Databook」pp. 6-7（2026-03-31 議決権、主要子会社・関連会社）: https://www.mufg.jp/dam/ir/presentation/2025/pdf/databook2603.pdf.]
+
 ### Digital strategy
 
 - **GO (Global Open) strategy**: API opening / partner linkage
@@ -238,26 +240,28 @@ MUFG (holding company, listed 8306)
 
 ## 6. Business-composition analysis (FY2026  by segment, consolidated) ^[extracted]
 
-Breakdown of **gross profits** 5,991.3 億 (YoY +24.6%):
+Breakdown of **gross profits** **5,991.3 十億円 = 5兆9,913億円** (YoY +24.6%). The official Databook unit is “十億円 (¥bn)”; the previous “億円” label understated the values by a 10-to-1 factor and has been corrected. ^[MUFG FY2025 Databook p. 39: https://www.mufg.jp/dam/ir/presentation/2025/pdf/databook2603.pdf]
 
-| Segment | FY2026 (¥100mn) | share of customer divisions | YoY | Main operators |
+| Segment | FY2025 (十億円) | share of customer divisions | YoY | Main operators |
 |---|---|---|---|---|
-| R&D + CWM (domestic retail / corporate / affluent) | 1,064.6 | 19% | +13.1% | MUFG Bank domestic・Mitsubishi UFJ Trust |
+| R&D (Retail & Digital) | 1,064.6 | 19% | +13.1% | MUFG Bank domestic retail / digital |
+| CWM (Commercial Banking & Wealth Management) | 866.9 | 15% | +19.2% | MUFG Bank corporate・Mitsubishi UFJ Trust |
 | JCIB (Japanese large-enterprise IB) | 1,125.9 | 20% | +9.9% | MUFG Bank corporate・MUMSS |
 | GCIB (Global large-enterprise IB) | 1,081.5 | 19% | +18.8% | MUFG Bank overseas・MUFG Securities |
 | GCB (Global Commercial Banking) | 904.2 | 16% | -6.7% | KS + BDI + other overseas local subsidiaries |
 | ├── KS (Krungsri / Thailand) | 706.2 | — | -7.8% | Bank of Ayudhya PCL |
 | └── BDI (Bank Danamon / Indonesia) | 187.7 | — | +1.3% | PT Bank Danamon Indonesia, Tbk. |
-| AM / IS (asset management / fiduciary) | 866.9 | 15% | +19.2% | Mitsubishi UFJ AM・Mitsubishi UFJ Trust (fiduciary) |
+| AM / IS (asset management / fiduciary) | 621.8 | 11% | +16.4% | Mitsubishi UFJ AM・Mitsubishi UFJ Trust (fiduciary) |
 | Global Markets (markets division) | 306.9 | — | +190.4% | MUFG Bank Treasury / MUFG Securities S&T |
 | Other (consolidation) | 19.3 | — | — | — |
 | **Total** | **5,991.3** | 100% | +24.6% | |
 
-Breakdown of **net operating profits** 2,365.4 億 (YoY +51.1%):
+Breakdown of **net operating profits** **2,365.4 十億円 = 2兆3,654億円** (YoY +51.1%):
 
-| Segment | FY2026 (¥100mn) | share of customer divisions | YoY |
+| Segment | FY2025 (十億円) | share of customer divisions | YoY |
 |---|---|---|---|
-| R&D + CWM | 285.9 | 11% | +2.8% |
+| R&D | 285.9 | 11% | +2.8% |
+| CWM | 408.0 | 16% | +36.9% |
 | JCIB | 707.0 | 28% | +11.1% |
 | GCIB | 580.3 | 23% | +25.9% |
 | GCB | 387.6 | 15% | -11.5% |
@@ -268,9 +272,9 @@ Breakdown of **net operating profits** 2,365.4 億 (YoY +51.1%):
 | Other | (120.3) | — | — |
 | **Total** | **2,365.4** | 100% | +51.1% |
 
-(Source: MUFG 2026-03  period Databook p.39 [databook2603.pdf], disclosed 2026-05-15)
+Sources: ^[MUFG「FY2025 Databook」p. 39（単位: 十億円、2026-05-19）: https://www.mufg.jp/dam/ir/presentation/2025/pdf/databook2603.pdf.]
 
-> **How to read it**: the 3  corporate-IB segments of JCIB + GCIB + GCB together account for 55% of gross profits and 66% of net operating profits, a **corporate-IB-led** earnings structure. Global Markets turned to a large surplus from FY2025  to FY2026  (FY2025: -339.5 → FY2026: +306.9), with the tailwind of rate normalization. GCB (KS+BDI) was negative YoY due to Thai / Indonesian local rates and FX.
+> **How to read it**: the 3 corporate-IB segments of JCIB + GCIB + GCB together account for 55% of customer-division gross profits and 66% of net operating profits. Global Markets gross profits moved from FY2024 -339.5 十億円 to FY2025 +306.9 十億円, while net operating profits remained negative at -35.5 十億円. GCB was negative YoY.
 
 ## 7. Current board / corporate governance (as of 2026-04-01) ^[extracted]
 
@@ -306,7 +310,7 @@ A list of public sanctions / fines / consent orders, etc., by major domestic and
 | **2024-06-24** | **the FSA** | **MUFG Bank + MUMSS + MS MUFG Securities** | **Business-improvement order** | (no monetary penalty) | **Cross-border sharing of non-public customer information across the bank-securities firewall (100 件+ in 2019-23 )** |
 | 2025-08-06 | SEC | MUFG Securities EMEA | Settled charges | **USD 9.8M** | SBSD substituted-compliance violation (2021-24) |
 
-(Source: official press releases of each regulatory authority, 2026-05-26 verified)
+Sources: ^[NY DFS 2013: https://www.dfs.ny.gov/reports_and_publications/press_releases/pr1306201; NY DFS 2014: https://www.dfs.ny.gov/reports_and_publications/press_releases/pr1411181; UK PRA 2017: https://www.bankofengland.co.uk/news/2017/february/pra-imposes-fine-on-the-bank-of-tokyo-mitsubishi-ufj-limited-and-fine-on-mufg-securities-emea-plc; CFTC 2017: https://www.cftc.gov/PressRoom/PressReleases/7598-17; OCC 2019: https://www.occ.gov/news-issuances/news-releases/2019/nr-occ-2019-20.html; FSA 2024: https://www.fsa.go.jp/news/r5/shouken/20240624-2/20240624.html; SEC 2025: https://www.sec.gov/files/litigation/admin/2025/34-103646.pdf.]
 
 - 2013-06-20 NY DFS: https://www.dfs.ny.gov/reports_and_publications/press_releases/pr1306201
 - 2014-11-18 NY DFS: https://www.dfs.ny.gov/reports_and_publications/press_releases/pr1411181

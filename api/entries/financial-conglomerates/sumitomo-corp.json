@@ -27,9 +27,9 @@
     "domain": "financial-conglomerates",
     "type": null,
     "created": "2026-05-24",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-20",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -50,11 +50,15 @@
     "sources": [
       "住友商事 (8053) 公式 IR — https://www.sumitomocorp.com/ja/jp/ir",
       "住友商事 統合報告書 — https://www.sumitomocorp.com/ja/jp/ir/library/integrated",
+      "住友商事 2025年度有価証券報告書 — https://www.sumitomocorp.com/-/media/Files/hq/ir/report/yuho/2025/202603yuho.pdf?sc_lang=ja",
+      "住友商事フィナンシャルマネジメント 会社情報 — https://ssfm.co.jp/company/",
+      "SMFL 会社概要 — https://www.smfl.co.jp/saiyo/careers/about-us/",
+      "住友三井オートサービス 2026年3月期有価証券報告書 — https://www.smauto.co.jp/pdf/company/business-info/finance/report/SecuritiesReport46-2025040120260331_v1.pdf",
       "EDINET 有価証券報告書 — https://disclosure.edinet-fsa.go.jp/ (検索: 住友商事)",
       "JPX 銘柄情報 8053 — https://www2.jpx.co.jp/"
     ]
   },
-  "summary": "This entry sits under financial-conglomerates INDEX as a sōgō shōsha parent holding-company. Read it against 三菱商事 (旧 財閥商社の両雄) and 三井物産 (財閥商社の三巨頭) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see 住友商事フィナンシャルマネジメント (内向け CMS) and especiall",
+  "summary": "This entry sits under financial-conglomerates INDEX as a sōgō shōsha parent holding-company. Read it against 三菱商事 and 三井物産 for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see 住友商事フィナンシャルマネジメント (100%子会社の財務・経理専門会社)、SMFL (三井住友ファイナンス&リース) (住友商",
   "headings": [
     "住友商事 (Sumitomo Corporation)",
     "Wiki route",
@@ -113,9 +117,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5982,
-    "word_like_tokens": 930,
+    "nonspace_chars": 6670,
+    "word_like_tokens": 1044,
     "inbound_wikilinks_count": 10,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-07-29"
   }
 }

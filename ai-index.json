@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-07-29T07:12:20+09:00",
+  "generated_at": "2026-07-29T10:53:53+09:00",
   "counts": {
-    "markdown_files": 1600,
-    "public_markdown_pages": 1599,
+    "markdown_files": 1601,
+    "public_markdown_pages": 1600,
     "site_urls_in_sitemap": 1482,
     "topical_domains": 40,
     "link_audited_entries": 1489,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10980187,
-    "word_like_tokens": 1768240,
+    "nonspace_utf8_chars": 11027888,
+    "word_like_tokens": 1776277,
     "entity_anchors": 12,
     "entity_mirror_pages": 12,
     "entity_nodes": 89,
@@ -2663,11 +2663,11 @@
         "日本語",
         "English",
         "中文",
-        "2026-07-29 - Table provenance batch 01 corrections (#231)",
+        "2026-07-29 - Table provenance batch 02 corrections (#232)",
         "日本語",
         "English",
         "中文",
-        "2026-07-29 - Regional-bank, retail-finance, and securities-firm low-marker corrections (#224)"
+        "2026-07-29 - Table provenance batch 01 corrections (#231)"
       ],
       "wikilinks": [],
       "resolved_wikilinks": [],
@@ -2676,8 +2676,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 222665,
-      "word_like_tokens": 40752,
+      "nonspace_chars": 230134,
+      "word_like_tokens": 42175,
       "last_modified": "2026-07-29"
     },
     {
@@ -6327,9 +6327,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 2838,
-      "word_like_tokens": 437,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 2959,
+      "word_like_tokens": 460,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "asset-managers/daiwa-asset-management.md",
@@ -6387,9 +6387,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 2671,
-      "word_like_tokens": 386,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 2776,
+      "word_like_tokens": 407,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "asset-managers/mitsubishi-corp-asset-management.md",
@@ -6401,18 +6401,18 @@
       },
       "raw_markdown_url": "https://finwiki.zksc.io/asset-managers/mitsubishi-corp-asset-management.md",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/asset-managers/mitsubishi-corp-asset-management.md",
-      "title": "三菱商事系アセットマネジメント (Mitsubishi Corp Asset Management arm)",
+      "title": "三菱商事・UBSリアルティ（現 KJR Management）",
       "domain": "asset-managers",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under asset-managers INDEX. Read it against アセットマネジメントOne (the みずほ FG + 第一生命 JV AM, peer banking-system AM) and 三菱UFJアセットマネジメント (the MUFG 系列 AM). For the same-parent group-treasury arm, see 三菱商事FS. For broader 商社系金融 peer set: 三井物産FS / 住友商事FM / 伊藤忠ファイナンス / 丸紅フィナンス / 豊田通商フィナンス / 双日フィナン",
+      "summary": "This entry sits under asset-managers INDEX as a corporate-history route: Mitsubishi Corp.-UBS Realty (MC-UBSR) was sold in full to KKR in 2022 and renamed KJR Management. It is not a current Mitsubishi Corporation subsidiary. Keep it separate from 三菱UFJアセットマネジメント and 三菱UFJ信託銀行, which belong to MUFG,",
       "headings": [
-        "三菱商事系アセットマネジメント (Mitsubishi Corp Asset Management arm)",
+        "三菱商事・UBSリアルティ（現 KJR Management）",
         "Wiki route",
         "1. 会社概要",
-        "三菱グループ内の AM 機能配置",
-        "2. 事業セグメント・マップ",
-        "Peer / 競合",
+        "現在の法人グループ境界",
+        "2. 事業境界",
+        "J-REIT 運用会社の参照先",
         "group-treasury 機能との分業",
         "4. 規制・政策",
         "Related",
@@ -6427,10 +6427,7 @@
         "financial-regulators/boj-monetary-policy",
         "financial-regulators/fsa-supervision-bureau",
         "leasing-firms/mitsubishi-hc-capital",
-        "life-insurers/dai-ichi-life",
-        "megabanks/mizuho-fg",
         "megabanks/mufg",
-        "securities/INDEX",
         "trading-company-finance/itochu-finance",
         "trading-company-finance/marubeni-financial-services",
         "trading-company-finance/mitsubishi-corp-finance",
@@ -6449,10 +6446,7 @@
         "https://finwiki.zksc.io/ja/financial-regulators/boj-monetary-policy/",
         "https://finwiki.zksc.io/ja/financial-regulators/fsa-supervision-bureau/",
         "https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/",
-        "https://finwiki.zksc.io/ja/life-insurers/dai-ichi-life/",
-        "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
         "https://finwiki.zksc.io/ja/megabanks/mufg/",
-        "https://finwiki.zksc.io/ja/domains/securities/",
         "https://finwiki.zksc.io/ja/trading-company-finance/itochu-finance/",
         "https://finwiki.zksc.io/ja/trading-company-finance/marubeni-financial-services/",
         "https://finwiki.zksc.io/ja/trading-company-finance/mitsubishi-corp-finance/",
@@ -6465,9 +6459,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5617,
-      "word_like_tokens": 894,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 5781,
+      "word_like_tokens": 955,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "asset-managers/mufg-asset-management.md",
@@ -6544,9 +6538,9 @@
           "confidence": "likely"
         }
       ],
-      "nonspace_chars": 3017,
-      "word_like_tokens": 466,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 3164,
+      "word_like_tokens": 491,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "asset-managers/nikko-asset-management.md",
@@ -6598,9 +6592,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2856,
-      "word_like_tokens": 422,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 3008,
+      "word_like_tokens": 448,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "asset-managers/nissay-asset-management.md",
@@ -6670,9 +6664,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 3575,
-      "word_like_tokens": 512,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 4252,
+      "word_like_tokens": 634,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "asset-managers/nomura-asset-management.md",
@@ -6745,9 +6739,9 @@
           "confidence": "likely"
         }
       ],
-      "nonspace_chars": 2945,
-      "word_like_tokens": 435,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 3098,
+      "word_like_tokens": 459,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "asset-managers/principal-japan.md",
@@ -6763,7 +6757,7 @@
       "domain": "asset-managers",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under asset-managers INDEX. Read it against Manulife Life Insurance Japan and NN Life Japan for foreign-financial-group peer context, and insurance index for the broader Japan retirement / insurance system / regulatory boundary.",
+      "summary": "This entry sits under asset-managers INDEX. Compare Asset Management One as a domestic institutional asset-management peer; read Manulife Life Insurance Japan and NN Life Japan for foreign-financial-group peer context, and insurance index for the broader Japan retirement / insurance system / regulat",
       "headings": [
         "Principal Japan / プリンシパル・ジャパン",
         "Wiki route",
@@ -6805,9 +6799,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5486,
-      "word_like_tokens": 800,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 5366,
+      "word_like_tokens": 792,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "asset-managers/saison-asset-management.md",
@@ -6863,9 +6857,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6248,
-      "word_like_tokens": 965,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 6282,
+      "word_like_tokens": 986,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "asset-managers/sbi-asset-management.md",
@@ -6919,9 +6913,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2564,
-      "word_like_tokens": 394,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 2708,
+      "word_like_tokens": 418,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "asset-managers/smd-am.md",
@@ -6981,9 +6975,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 2832,
-      "word_like_tokens": 435,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 2936,
+      "word_like_tokens": 447,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "asset-managers/smt-am.md",
@@ -7020,6 +7014,8 @@
         "asset-managers/nomura-asset-management",
         "asset-managers/smd-am",
         "financial-licenses/securities-license-stack",
+        "megabanks/mufg",
+        "securities-firms/nomura-hd",
         "securities/financial-instruments-business-operators-japan-index",
         "securities/nisa-2024-flow",
         "trust-banks/sumitomo-mitsui-trust"
@@ -7032,6 +7028,8 @@
         "https://finwiki.zksc.io/ja/asset-managers/nomura-asset-management/",
         "https://finwiki.zksc.io/ja/asset-managers/smd-am/",
         "https://finwiki.zksc.io/ja/financial-licenses/securities-license-stack/",
+        "https://finwiki.zksc.io/ja/megabanks/mufg/",
+        "https://finwiki.zksc.io/ja/securities-firms/nomura-hd/",
         "https://finwiki.zksc.io/ja/securities/financial-instruments-business-operators-japan-index/",
         "https://finwiki.zksc.io/ja/securities/nisa-2024-flow/",
         "https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/"
@@ -7043,9 +7041,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 3397,
-      "word_like_tokens": 496,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 4125,
+      "word_like_tokens": 619,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "asset-managers/t-and-d-asset-management.md",
@@ -7117,9 +7115,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3600,
-      "word_like_tokens": 588,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 4160,
+      "word_like_tokens": 689,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "asset-managers/tokio-marine-asset-management.md",
@@ -32219,9 +32217,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5552,
-      "word_like_tokens": 860,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 5947,
+      "word_like_tokens": 939,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "financial-conglomerates/marubeni-corp.md",
@@ -32237,7 +32235,7 @@
       "domain": "financial-conglomerates",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under financial-conglomerates INDEX as a sōgō shōsha parent holding-company. Read it against 伊藤忠商事 (戦前の同根 = 旧 丸紅伊藤忠商事、戦後 1949 分割) and 住友商事 (5 大商社中堅同士) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see 丸紅フィナンス (内向け CMS) an",
+      "summary": "This entry sits under financial-conglomerates INDEX as a sōgō shōsha parent holding-company. Read it against 伊藤忠商事 (戦前の同根 = 旧 丸紅伊藤忠商事、戦後 1949 分割) and 住友商事 (5 大商社中堅同士) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see 丸紅フィナンシャルサービス (内向け g",
       "headings": [
         "丸紅 (Marubeni Corporation)",
         "Wiki route",
@@ -32287,9 +32285,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5560,
-      "word_like_tokens": 885,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 6206,
+      "word_like_tokens": 1014,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "financial-conglomerates/mitsubishi-corp.md",
@@ -32352,9 +32350,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6215,
-      "word_like_tokens": 1001,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 7161,
+      "word_like_tokens": 1194,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "financial-conglomerates/mitsui-co.md",
@@ -32370,7 +32368,7 @@
       "domain": "financial-conglomerates",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under financial-conglomerates INDEX as a sōgō shōsha parent holding-company. Read it against 三菱商事 (純利益首位を争う最大ライバル) and 伊藤忠商事 (非資源寄り 5 大商社の対照) for peer / contrast context. For the financial-services adjacency that anchors this entry on JapanFG — see 三井物産フィナンシャルサービス (内向け CMS) and SMFL",
+      "summary": "This entry sits under financial-conglomerates INDEX as a sōgō shōsha parent holding-company. Read it against 三菱商事 and 伊藤忠商事 for peer / contrast context. For the financial-services adjacency that anchors this entry on JapanFG — see 三井物産フィナンシャルマネジメント (100%子会社の経理・財務機能会社) and JA三井リース (三井物産の所有割合43.86%、議決",
       "headings": [
         "三井物産 (Mitsui & Co., Ltd.)",
         "Wiki route",
@@ -32394,7 +32392,6 @@
         "financial-conglomerates/sojitz-corp",
         "financial-conglomerates/sumitomo-corp",
         "financial-conglomerates/toyota-tsusho-corp",
-        "leasing-firms/smfl",
         "leasing-firms/sumitomo-mitsui-auto-service",
         "megabanks/smfg",
         "non-life-insurers/mitsui-sumitomo-insurance",
@@ -32412,7 +32409,6 @@
         "https://finwiki.zksc.io/ja/financial-conglomerates/sojitz-corp/",
         "https://finwiki.zksc.io/ja/financial-conglomerates/sumitomo-corp/",
         "https://finwiki.zksc.io/ja/financial-conglomerates/toyota-tsusho-corp/",
-        "https://finwiki.zksc.io/ja/leasing-firms/smfl/",
         "https://finwiki.zksc.io/ja/leasing-firms/sumitomo-mitsui-auto-service/",
         "https://finwiki.zksc.io/ja/megabanks/smfg/",
         "https://finwiki.zksc.io/ja/non-life-insurers/mitsui-sumitomo-insurance/",
@@ -32422,9 +32418,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5849,
-      "word_like_tokens": 934,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 6307,
+      "word_like_tokens": 1006,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "financial-conglomerates/sojitz-corp.md",
@@ -32440,7 +32436,7 @@
       "domain": "financial-conglomerates",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under financial-conglomerates INDEX as a sōgō shōsha parent holding-company — 5 大商社の次のレイヤーである 7 大商社の中堅商社 に位置付けられる。Read it against 丸紅 (5 大商社の中下位、双日との近接ポジション) and 豊田通商 (中堅・5 大下位の他のもう一極) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG",
+      "summary": "This entry sits under financial-conglomerates INDEX as a sōgō shōsha parent holding-company — 5 大商社の次のレイヤーである 7 大商社の中堅商社 に位置付けられる。Read it against 丸紅 and 豊田通商 for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see Sojitz Global Finance Plc。双日公",
       "headings": [
         "双日 (Sojitz Corporation)",
         "Wiki route",
@@ -32502,9 +32498,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5415,
-      "word_like_tokens": 841,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 6119,
+      "word_like_tokens": 957,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "financial-conglomerates/sumitomo-corp.md",
@@ -32520,7 +32516,7 @@
       "domain": "financial-conglomerates",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under financial-conglomerates INDEX as a sōgō shōsha parent holding-company. Read it against 三菱商事 (旧 財閥商社の両雄) and 三井物産 (財閥商社の三巨頭) for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see 住友商事フィナンシャルマネジメント (内向け CMS) and especiall",
+      "summary": "This entry sits under financial-conglomerates INDEX as a sōgō shōsha parent holding-company. Read it against 三菱商事 and 三井物産 for peer / contrast context. For the financial-services adjacency that gives this entry its JapanFG anchor — see 住友商事フィナンシャルマネジメント (100%子会社の財務・経理専門会社)、SMFL (三井住友ファイナンス&リース) (住友商",
       "headings": [
         "住友商事 (Sumitomo Corporation)",
         "Wiki route",
@@ -32576,9 +32572,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5982,
-      "word_like_tokens": 930,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 6670,
+      "word_like_tokens": 1044,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "financial-conglomerates/toyota-tsusho-corp.md",
@@ -32594,7 +32590,7 @@
       "domain": "financial-conglomerates",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under financial-conglomerates INDEX as a sōgō shōsha parent holding-company with a distinctive トヨタグループ系商社 (Toyota group captive trading house) character — Toyota Motor が約 22% 級主要株主、5 大商社とは独立な 第 6 商社 / トヨタ系商社 の位置付け。Read it against 三菱商事 and 双日 (中堅商社) for peer / contrast context. For th",
+      "summary": "This entry sits under financial-conglomerates INDEX as a sōgō shōsha parent holding-company with a distinctive トヨタグループ系商社 (Toyota group captive trading house) character。Read it against 三菱商事 and 双日 for peer / contrast context. 豊田通商の公式有価証券報告書は、国内グループファイナンスを親会社に一元化すると説明しており、「豊田通商フィナンス」という100%国内子会社は確認でき",
       "headings": [
         "豊田通商 (Toyota Tsusho Corporation)",
         "Wiki route",
@@ -32640,9 +32636,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5428,
-      "word_like_tokens": 822,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 5764,
+      "word_like_tokens": 850,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "financial-licenses/INDEX.md",
@@ -58921,13 +58917,13 @@
         "Hitachi Industrial Finance Platform (日立グループ産業金融プラットフォーム)",
         "Wiki route",
         "TL;DR",
-        "1. 会社構造と金融部門の位置",
-        "金融部門の位置 (post-2021)",
-        "2. 事業ライン × 金融組成パターン",
-        "3. KPI (FY2024, 連結ベース)",
-        "4. 戦略 (Connect, Build, Finance)",
+        "1. 会社・captive の境界",
+        "2. 製品・サービスと金融の接点",
+        "3. 現行スケール",
+        "4. 読み方",
         "5. 規制・政策",
-        "Related"
+        "Related",
+        "Sources"
       ],
       "wikilinks": [
         "INDEX",
@@ -58968,9 +58964,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6048,
-      "word_like_tokens": 943,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 5534,
+      "word_like_tokens": 821,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "manufacturer-finance/honda-finance.md",
@@ -59030,9 +59026,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 8004,
-      "word_like_tokens": 1238,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 8416,
+      "word_like_tokens": 1292,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "manufacturer-finance/komatsu-captive-finance.md",
@@ -59092,9 +59088,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 8014,
-      "word_like_tokens": 1109,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 7880,
+      "word_like_tokens": 1086,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "manufacturer-finance/mitsubishi-heavy-export-finance.md",
@@ -59115,13 +59111,13 @@
         "Mitsubishi Heavy Export Finance (三菱重工 輸出金融プラットフォーム)",
         "Wiki route",
         "TL;DR",
-        "1. 会社構造と金融部門の位置",
-        "金融組成の位置 (プログラム別)",
-        "2. 製品 / 事業ライン × 輸出金融組成パターン",
-        "主要プログラム (2024-2026)",
-        "3. KPI (FY2024 連結)",
+        "1. 会社・分析境界",
+        "2. 案件別の金融確認ポイント",
+        "3. FY2025 スケール",
         "4. 戦略 (Energy Transition + Defense + Project Finance)",
-        "5. 規制・政策"
+        "5. 規制・政策",
+        "Related",
+        "Sources"
       ],
       "wikilinks": [
         "INDEX",
@@ -59162,9 +59158,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6898,
-      "word_like_tokens": 1058,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 6309,
+      "word_like_tokens": 964,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "manufacturer-finance/nissan-financial-services.md",
@@ -59226,9 +59222,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 8255,
-      "word_like_tokens": 1253,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 9082,
+      "word_like_tokens": 1365,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "manufacturer-finance/panasonic-captive-finance.md",
@@ -59244,22 +59240,23 @@
       "domain": "manufacturer-finance",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under manufacturing index. Read it against Hitachi 産業金融, Sony FG, MHI 輸出金融, and Toyota Financial Services for peer industrial-conglomerate finance arms. Pair with SMFL (三井住友ファイナンス&リース) and MUFG for the bank-side counterpart of Panasonic's B2B vendor-finance flows, manufacturer-financ",
+      "summary": "This entry sits under manufacturing index. Read it against Hitachi 産業金融, Sony FG, MHI 輸出金融, and Toyota Financial Services for peer industrial-conglomerate finance boundaries. Pair with vendor-finance mechanism for accounting mechanics and leasing-firms INDEX for separately evidenced financing provid",
       "headings": [
         "Panasonic Captive Finance (パナソニック顧客金融)",
         "Wiki route",
         "TL;DR",
-        "1. 会社構造と金融部門の位置",
-        "金融部門の位置 (2022 持株会社制移行後)",
-        "2. 製品 / 事業ライン × 金融組成パターン",
-        "3. KPI (FY2024 連結)",
-        "4. 戦略 (Operational Excellence + Energy)",
+        "1. 会社・分析境界",
+        "現行 Operating Company System",
+        "2. 事業ラインと金融記述の境界",
+        "3. FY2026 開示スケール",
+        "4. 戦略と検証原則",
         "5. 規制・政策",
         "Related"
       ],
       "wikilinks": [
         "INDEX",
         "financial-regulators/jbic",
+        "leasing-firms/INDEX",
         "leasing-firms/mitsubishi-hc-capital",
         "leasing-firms/orix-corp",
         "leasing-firms/smfl",
@@ -59270,13 +59267,13 @@
         "manufacturer-finance/sony-group-finance-arm",
         "manufacturer-finance/toyota-financial-services",
         "manufacturer-finance/toyota-motor",
-        "megabanks/mufg",
-        "megabanks/smfg",
+        "manufacturer-finance/vendor-finance-mechanism",
         "policy-finance/nexi"
       ],
       "resolved_wikilinks": [
         "https://finwiki.zksc.io/INDEX.md",
         "https://finwiki.zksc.io/ja/financial-regulators/jbic/",
+        "https://finwiki.zksc.io/ja/domains/leasing-firms/",
         "https://finwiki.zksc.io/ja/leasing-firms/mitsubishi-hc-capital/",
         "https://finwiki.zksc.io/ja/leasing-firms/orix-corp/",
         "https://finwiki.zksc.io/ja/leasing-firms/smfl/",
@@ -59287,16 +59284,15 @@
         "https://finwiki.zksc.io/ja/manufacturer-finance/sony-group-finance-arm/",
         "https://finwiki.zksc.io/ja/manufacturer-finance/toyota-financial-services/",
         "https://finwiki.zksc.io/ja/manufacturer-finance/toyota-motor/",
-        "https://finwiki.zksc.io/ja/megabanks/mufg/",
-        "https://finwiki.zksc.io/ja/megabanks/smfg/",
+        "https://finwiki.zksc.io/ja/manufacturer-finance/vendor-finance-mechanism/",
         "https://finwiki.zksc.io/ja/policy-finance/nexi/"
       ],
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5930,
-      "word_like_tokens": 921,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 5935,
+      "word_like_tokens": 840,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "manufacturer-finance/seiko-epson.md",
@@ -59341,9 +59337,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6610,
-      "word_like_tokens": 1007,
-      "last_modified": "2026-06-25"
+      "nonspace_chars": 6718,
+      "word_like_tokens": 1022,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "manufacturer-finance/sony-group-finance-arm.md",
@@ -59364,11 +59360,11 @@
         "Sony Group Finance Arm (ソニーグループ 金融事業アーム)",
         "Wiki route",
         "TL;DR",
-        "1. ソニーグループにおける金融部門の位置",
-        "主要子会社 (FY2025 想定)",
-        "2. 製品 / 事業ライン (グループ全体マップ)",
-        "3. KPI (FY2024 連結 + SFG セグメント)",
-        "4. 戦略 (金融分離と再上場)",
+        "1. パーシャルスピンオフ後の位置",
+        "主要事業会社",
+        "2. SFG の事業構造",
+        "3. 開示の読み分け",
+        "4. 戦略上の読み方",
         "5. 規制・政策",
         "Related"
       ],
@@ -59403,9 +59399,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5672,
-      "word_like_tokens": 929,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 6376,
+      "word_like_tokens": 1022,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "manufacturer-finance/toyota-financial-services.md",
@@ -59421,7 +59417,7 @@
       "domain": "manufacturer-finance",
       "entry_type": "wiki_entry",
       "canonical_anchor": "leasing-firms/toyota-financial",
-      "summary": "This entry sits under manufacturing index and complements Toyota Financial Services (JapanFG entity profile) and トヨタファイナンス (国内オペレーティング会社). The manufacturing entry exists to look at TFS from the parent OEM's manufacturing/strategy perspective: how Toyota uses the largest auto captive finance in the w",
+      "summary": "This entry sits under manufacturing index and complements Toyota Financial Services (JapanFG entity profile) and トヨタファイナンス (国内オペレーティング会社). The manufacturing entry looks at TFS from the parent OEM's manufacturing/strategy perspective: how Toyota connects sales channels, residual-value risk, funding a",
       "headings": [
         "Toyota Financial Services (トヨタファイナンシャルサービス 製造業視点アンカー)",
         "Wiki route",
@@ -59431,7 +59427,7 @@
         "Toyota Motor 本体との関係",
         "2. 製品 / 事業ライン × 製造業視点での意義",
         "自動車 ABS との接続",
-        "3. KPI (FY2024 連結 + 金融セグメント)",
+        "3. KPI (FY2026 連結 + 金融セグメント)",
         "4. 戦略 (Residual Value + EV + Mobility)"
       ],
       "wikilinks": [
@@ -59475,8 +59471,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 7332,
-      "word_like_tokens": 1139,
+      "nonspace_chars": 7430,
+      "word_like_tokens": 1156,
       "last_modified": "2026-07-29"
     },
     {
@@ -59526,9 +59522,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2900,
-      "word_like_tokens": 441,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3496,
+      "word_like_tokens": 528,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "manufacturer-finance/vendor-finance-mechanism.md",
@@ -59596,9 +59592,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 7071,
-      "word_like_tokens": 1024,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 7548,
+      "word_like_tokens": 1072,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "megabanks/INDEX.md",
@@ -59751,9 +59747,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 10229,
-      "word_like_tokens": 1977,
-      "last_modified": "2026-06-25"
+      "nonspace_chars": 11870,
+      "word_like_tokens": 2227,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "megabanks/japan-financial-conglomerate-structure-overview.md",
@@ -59825,7 +59821,6 @@
         "megabanks/sony-fg",
         "megabanks/sumitomo-mitsui-banking-corp",
         "non-life-insurers/au-insurance",
-        "payment-firms/au-payment",
         "payment-firms/paypay",
         "payment-firms/rakuten-fg",
         "policy-finance/japan-policy-finance-institution-mandate-matrix",
@@ -59890,7 +59885,6 @@
         "https://finwiki.zksc.io/ja/megabanks/sony-fg/",
         "https://finwiki.zksc.io/ja/megabanks/sumitomo-mitsui-banking-corp/",
         "https://finwiki.zksc.io/ja/non-life-insurers/au-insurance/",
-        "https://finwiki.zksc.io/ja/payment-firms/au-payment/",
         "https://finwiki.zksc.io/ja/payment-firms/paypay/",
         "https://finwiki.zksc.io/ja/payment-firms/rakuten-fg/",
         "https://finwiki.zksc.io/ja/policy-finance/japan-policy-finance-institution-mandate-matrix/",
@@ -59915,9 +59909,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 11986,
-      "word_like_tokens": 1827,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 12799,
+      "word_like_tokens": 1973,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "megabanks/japan-post-holdings.md",
@@ -59967,8 +59961,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5300,
-      "word_like_tokens": 845,
+      "nonspace_chars": 5778,
+      "word_like_tokens": 921,
       "last_modified": "2026-07-29"
     },
     {
@@ -60048,9 +60042,9 @@
           "confidence": "likely"
         }
       ],
-      "nonspace_chars": 2724,
-      "word_like_tokens": 416,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 2869,
+      "word_like_tokens": 440,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "megabanks/mizuho-fg.md",
@@ -60108,9 +60102,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 7732,
-      "word_like_tokens": 1399,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 8357,
+      "word_like_tokens": 1475,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "megabanks/mufg-bank.md",
@@ -60189,9 +60183,9 @@
           "confidence": "likely"
         }
       ],
-      "nonspace_chars": 2678,
-      "word_like_tokens": 429,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 2881,
+      "word_like_tokens": 467,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "megabanks/mufg.md",
@@ -60249,9 +60243,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 14148,
-      "word_like_tokens": 2949,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 15171,
+      "word_like_tokens": 3130,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "megabanks/ndfg.md",
@@ -60275,7 +60269,7 @@
         "1. 会社概要",
         "設立スキーム（公開資料ベース）^[extracted]",
         "親会社チェーン",
-        "主要子会社・持分予定（公開発表ベース）",
+        "主要子会社・持分（公開発表ベース）",
         "重要年表（公開発表ベース）^[extracted]",
         "2. 事業セグメント・マップ",
         "通信系 FG「第 4 極」の位置付け"
@@ -60311,9 +60305,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 6934,
-      "word_like_tokens": 1243,
-      "last_modified": "2026-06-23"
+      "nonspace_chars": 7013,
+      "word_like_tokens": 1256,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "megabanks/nippon-post.md",
@@ -60371,9 +60365,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5592,
-      "word_like_tokens": 920,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 6096,
+      "word_like_tokens": 1010,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "megabanks/paypay-fg.md",
@@ -60450,8 +60444,8 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 7132,
-      "word_like_tokens": 1159,
+      "nonspace_chars": 7681,
+      "word_like_tokens": 1253,
       "last_modified": "2026-07-29"
     },
     {
@@ -60500,9 +60494,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2074,
-      "word_like_tokens": 310,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 2264,
+      "word_like_tokens": 344,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "megabanks/resona-hd.md",
@@ -60562,9 +60556,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 4636,
-      "word_like_tokens": 785,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 5396,
+      "word_like_tokens": 915,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "megabanks/saitama-resona-bank.md",
@@ -60610,9 +60604,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2041,
-      "word_like_tokens": 301,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 2172,
+      "word_like_tokens": 322,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "megabanks/sbi-hd.md",
@@ -60674,9 +60668,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 7685,
-      "word_like_tokens": 1471,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 8471,
+      "word_like_tokens": 1577,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "megabanks/sbi-regional-bank-hd.md",
@@ -60701,7 +60695,7 @@
         "主要構成要素",
         "2020 統合プラットフォーム化の戦略意図",
         "2. 主要事業",
-        "パートナー地銀網（主要、時系列に出資した順）^[extracted]",
+        "提携履歴（主要）^[extracted]",
         "構想前史（2010 年代後半）",
         "「第 4 のメガバンク構想」提唱と SBI 地銀 HD への商号変更"
       ],
@@ -60742,9 +60736,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 5898,
-      "word_like_tokens": 989,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 6585,
+      "word_like_tokens": 1076,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "megabanks/smbc.md",
@@ -60812,9 +60806,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4852,
-      "word_like_tokens": 788,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 5609,
+      "word_like_tokens": 929,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "megabanks/smfg.md",
@@ -60882,9 +60876,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 14035,
-      "word_like_tokens": 2866,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 14652,
+      "word_like_tokens": 2966,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "megabanks/sony-fg.md",
@@ -60906,8 +60900,8 @@
         "Wiki route",
         "TL;DR",
         "1. 会社概要",
-        "主要子会社・グループ構造（再上場後想定）",
-        "主要株主（パーシャルスピンオフ後の構造、開示スキームベース）",
+        "主要子会社・グループ構造（2025-10-01 以降）",
+        "株式・会計上の位置",
         "重要年表 ^[extracted]",
         "2. 事業セグメント・マップ",
         "B2C ブランド戦略",
@@ -60952,9 +60946,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 5121,
-      "word_like_tokens": 870,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 6686,
+      "word_like_tokens": 1147,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "megabanks/sumitomo-mitsui-banking-corp.md",
@@ -61033,9 +61027,9 @@
           "confidence": "likely"
         }
       ],
-      "nonspace_chars": 2680,
-      "word_like_tokens": 416,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 2880,
+      "word_like_tokens": 450,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "money-market/INDEX.md",
@@ -85991,8 +85985,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 7132,
-      "word_like_tokens": 1422,
+      "nonspace_chars": 7800,
+      "word_like_tokens": 1539,
       "last_modified": "2026-07-29"
     },
     {
@@ -89208,6 +89202,39 @@
       "entity_edges": [],
       "nonspace_chars": 9663,
       "word_like_tokens": 1797,
+      "last_modified": "2026-07-29"
+    },
+    {
+      "source_path": "releases/v2026.07.29-11.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.07.29-11.md",
+      "html_url": null,
+      "alternate_html_urls": null,
+      "raw_markdown_url": "https://finwiki.zksc.io/releases/v2026.07.29-11.md",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.29-11.md",
+      "title": "表出典168件と金融グループ事実の校正",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "canonical_anchor": "",
+      "summary": "",
+      "headings": [
+        "表出典168件と金融グループ事実の校正",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "entity_node": null,
+      "entity_edges": [],
+      "nonspace_chars": 10606,
+      "word_like_tokens": 1939,
       "last_modified": "2026-07-29"
     },
     {
@@ -103216,11 +103243,11 @@
       "headings": [
         "伊藤忠ファイナンス (ITOCHU Finance Corporation)",
         "Wiki route",
-        "1. 会社概要",
-        "伊藤忠系金融機能の構造",
-        "2. 事業セグメント・マップ",
+        "1. 会社概要 ^[伊藤忠商事 IR: https://www.itochu.co.jp/ja/ir/; EDINET: https://disclosure2.edinet-fsa.go.jp/]",
+        "伊藤忠系金融機能の構造 ^[伊藤忠商事の有価証券報告書・関係会社開示と各社公式 IR に基づく比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]",
+        "2. 事業セグメント・マップ ^[伊藤忠商事 IR / 有価証券報告書。業務範囲は非上場子会社の開示制約があるため最新関係会社開示を優先: https://www.itochu.co.jp/ja/ir/]",
         "伊藤忠商事の事業構造との関係",
-        "競合 / Peer",
+        "競合 / Peer ^[各親会社の有価証券報告書・公式 IR を横断した比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]",
         "4. 規制・政策",
         "Related",
         "Sources"
@@ -103268,9 +103295,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3904,
-      "word_like_tokens": 560,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 4227,
+      "word_like_tokens": 607,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "trading-company-finance/marubeni-financial-services.md",
@@ -103290,10 +103317,10 @@
       "headings": [
         "丸紅フィナンス (Marubeni Finance Corporation)",
         "Wiki route",
-        "1. 会社概要",
-        "丸紅系金融機能の配置",
-        "2. 事業セグメント・マップ",
-        "競合 / Peer",
+        "1. 会社概要 ^[丸紅 IR: https://www.marubeni.com/jp/ir/; EDINET: https://disclosure2.edinet-fsa.go.jp/]",
+        "丸紅系金融機能の配置 ^[丸紅の有価証券報告書・関係会社開示と各社公式 IR に基づく比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]",
+        "2. 事業セグメント・マップ ^[丸紅 IR / 有価証券報告書。業務範囲は非上場子会社の開示制約があるため最新関係会社開示を優先: https://www.marubeni.com/jp/ir/]",
+        "競合 / Peer ^[各親会社の有価証券報告書・公式 IR を横断した比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]",
         "4. 規制・政策",
         "Related",
         "Sources"
@@ -103343,9 +103370,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4005,
-      "word_like_tokens": 596,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 4319,
+      "word_like_tokens": 641,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "trading-company-finance/mitsubishi-corp-finance.md",
@@ -103365,11 +103392,11 @@
       "headings": [
         "三菱商事フィナンシャルサービス (Mitsubishi Corporation Financial Services)",
         "Wiki route",
-        "1. 会社概要",
-        "三菱グループ金融機能の三層構造",
-        "2. 事業セグメント・マップ",
+        "1. 会社概要 ^[三菱商事フィナンシャルサービス「会社概要」: https://www.mcfj.co.jp/corp/about.html]",
+        "三菱グループ金融機能の三層構造 ^[三菱商事フィナンシャルサービス「事業紹介」: https://www.mcfj.co.jp/bussiness/; 三菱商事 IR: https://www.mitsubishicorp.com/jp/ja/ir/]",
+        "2. 事業セグメント・マップ ^[三菱商事フィナンシャルサービス「事業紹介」: https://www.mcfj.co.jp/bussiness/]",
         "商社系 group-treasury の典型像",
-        "競合 / Peer",
+        "競合 / Peer ^[各親会社の有価証券報告書・公式 IR を横断した比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]",
         "4. 規制・政策",
         "Related",
         "Sources"
@@ -103421,9 +103448,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4758,
-      "word_like_tokens": 680,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 5178,
+      "word_like_tokens": 748,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "trading-company-finance/mitsui-bussan-financial-services.md",
@@ -103443,11 +103470,11 @@
       "headings": [
         "三井物産フィナンシャルサービス (Mitsui & Co. Financial Services)",
         "Wiki route",
-        "1. 会社概要",
-        "三井物産の金融機能配置",
-        "2. 事業セグメント・マップ",
+        "1. 会社概要 ^[三井物産 IR: https://www.mitsui.com/jp/ja/ir/; EDINET: https://disclosure2.edinet-fsa.go.jp/]",
+        "三井物産の金融機能配置 ^[三井物産の有価証券報告書・関係会社開示と各社公式 IR に基づく比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]",
+        "2. 事業セグメント・マップ ^[三井物産 IR / 有価証券報告書。業務範囲は非上場子会社の開示制約があるため最新関係会社開示を優先: https://www.mitsui.com/jp/ja/ir/]",
         "三井物産の事業構造と金融機能",
-        "競合 / Peer",
+        "競合 / Peer ^[各親会社の有価証券報告書・公式 IR を横断した比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]",
         "4. 規制・政策",
         "Related",
         "Sources"
@@ -103497,9 +103524,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4223,
-      "word_like_tokens": 614,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 4545,
+      "word_like_tokens": 661,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "trading-company-finance/sojitz-finance.md",
@@ -103519,12 +103546,12 @@
       "headings": [
         "双日フィナンス (Sojitz Finance)",
         "Wiki route",
-        "1. 会社概要",
+        "1. 会社概要 ^[双日 IR: https://www.sojitz.com/jp/ir/; EDINET: https://disclosure2.edinet-fsa.go.jp/]",
         "双日と銀行系列",
-        "双日系金融機能の配置",
-        "2. 事業セグメント・マップ",
+        "双日系金融機能の配置 ^[双日の有価証券報告書・関係会社開示と各社公式 IR に基づく比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]",
+        "2. 事業セグメント・マップ ^[双日 IR / 有価証券報告書。業務範囲は非上場子会社の開示制約があるため最新関係会社開示を優先: https://www.sojitz.com/jp/ir/]",
         "双日の事業構造と金融機能",
-        "競合 / Peer",
+        "競合 / Peer ^[各親会社の有価証券報告書・公式 IR を横断した比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]",
         "4. 規制・政策",
         "Related"
       ],
@@ -103573,9 +103600,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4113,
-      "word_like_tokens": 608,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 4423,
+      "word_like_tokens": 653,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "trading-company-finance/sumitomo-corp-financial-management.md",
@@ -103595,10 +103622,10 @@
       "headings": [
         "住友商事フィナンシャルマネジメント (Sumitomo Corporation Financial Management)",
         "Wiki route",
-        "1. 会社概要",
-        "住友グループ + SMFG 金融機能の配置",
-        "2. 事業セグメント・マップ",
-        "競合 / Peer",
+        "1. 会社概要 ^[住友商事フィナンシャルマネジメント「会社情報」: https://ssfm.co.jp/company/]",
+        "住友グループ + SMFG 金融機能の配置 ^[住友商事フィナンシャルマネジメント「事業紹介」: https://ssfm.co.jp/field/; 住友商事 IR: https://www.sumitomocorp.com/ja/jp/ir]",
+        "2. 事業セグメント・マップ ^[住友商事フィナンシャルマネジメント「事業紹介」: https://ssfm.co.jp/field/]",
+        "競合 / Peer ^[各親会社の有価証券報告書・公式 IR を横断した比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]",
         "4. 規制・政策",
         "Related",
         "Sources"
@@ -103650,9 +103677,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4109,
-      "word_like_tokens": 586,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 4490,
+      "word_like_tokens": 640,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "trading-company-finance/toyota-tsusho-finance.md",
@@ -103672,11 +103699,11 @@
       "headings": [
         "豊田通商フィナンス (Toyota Tsusho Finance)",
         "Wiki route",
-        "1. 会社概要",
-        "トヨタグループ金融機能の三系統",
-        "2. 事業セグメント・マップ",
+        "1. 会社概要 ^[豊田通商 IR: https://www.toyota-tsusho.com/ir/; EDINET: https://disclosure2.edinet-fsa.go.jp/]",
+        "トヨタグループ金融機能の三系統 ^[豊田通商・トヨタ自動車の有価証券報告書と各社公式 IR に基づく比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]",
+        "2. 事業セグメント・マップ ^[豊田通商 IR / 有価証券報告書。業務範囲は非上場子会社の開示制約があるため最新関係会社開示を優先: https://www.toyota-tsusho.com/ir/]",
         "豊田通商の事業構造と金融機能",
-        "競合 / Peer",
+        "競合 / Peer ^[各親会社の有価証券報告書・公式 IR を横断した比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]",
         "4. 規制・政策",
         "Related",
         "Sources"
@@ -103726,9 +103753,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4458,
-      "word_like_tokens": 632,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 4782,
+      "word_like_tokens": 677,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "trust-banks/INDEX.md",
@@ -104106,7 +104133,7 @@
         "主要株主（公開資料、2020-07-27 現在）^[extracted]",
         "重要性 ★",
         "合併歴史・前身",
-        "2. 事業セグメント・マップ",
+        "2. 事業セグメント・マップ ^[日本カストディ銀行「ディスクロージャー誌 2025」: https://www.custody.jp/data/disclosure/pdf/disclosure202507.pdf]",
         "専業ポジション",
         "競合・国内 2 強体制"
       ],
@@ -104133,9 +104160,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5605,
-      "word_like_tokens": 956,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 5930,
+      "word_like_tokens": 1009,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "trust-banks/daito-mirai-trust.md",
@@ -104206,7 +104233,7 @@
         "大和リビング信託 (Daiwa Living Trust)",
         "Wiki route",
         "Overview",
-        "Entity Boundary",
+        "Entity Boundary ^[金融庁の現行登録と会社公式サイト: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://www.daiwaliving-trust.co.jp/]",
         "Business Role Map",
         "Public Context",
         "Research Checklist",
@@ -104234,9 +104261,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3068,
-      "word_like_tokens": 496,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3174,
+      "word_like_tokens": 512,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "trust-banks/escrow-agent-japan-trust.md",
@@ -104248,17 +104275,17 @@
       },
       "raw_markdown_url": "https://finwiki.zksc.io/trust-banks/escrow-agent-japan-trust.md",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trust-banks/escrow-agent-japan-trust.md",
-      "title": "エスクロー・エージェント・ジャパン信託 (Escrow Agent Japan Trust)",
+      "title": "ミトラ信託 (Mitra Trust)",
       "domain": "trust-banks",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "Escrow Agent Japan Trust is a standalone trust-company route under trust-banks INDEX and is promoted from the Japan trust companies registry index. Read it with Japan MBO / squeeze-out process, Japan acquisition finance, and Japan trust-bank custody map.",
+      "summary": "Mitra Trust is a standalone trust-company route under trust-banks INDEX and is promoted from the Japan trust companies registry index. The repository path retains the former company name for link stability. Read it with Japan MBO / squeeze-out process, Japan acquisition finance, and Japan trust-bank",
       "headings": [
-        "エスクロー・エージェント・ジャパン信託 (Escrow Agent Japan Trust)",
+        "ミトラ信託 (Mitra Trust)",
         "Wiki route",
         "Overview",
-        "Entity Boundary",
-        "Business Role Map",
+        "Entity Boundary ^[金融庁「運用型信託会社免許・管理型信託会社登録一覧」（2026-06-30 時点）: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; ミトラ信託「会社概要」: https://eajt.co.jp/information/index.html]",
+        "Business Role Map ^[ミトラ信託 公式サイト: https://eajt.co.jp/]",
         "Public Context",
         "Research Checklist",
         "Related",
@@ -104283,9 +104310,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3274,
-      "word_like_tokens": 519,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3509,
+      "word_like_tokens": 559,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "trust-banks/fintech-global-trust.md",
@@ -104306,8 +104333,8 @@
         "フィンテックグローバル信託 (Fintech Global Trust)",
         "Wiki route",
         "Overview",
-        "Entity Boundary",
-        "Business Role Map",
+        "Entity Boundary ^[金融庁の現行免許と会社公式サイト: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://fgitr.co.jp/]",
+        "Business Role Map ^[フィンテックグローバル信託 公式サイト: https://fgitr.co.jp/]",
         "Public Context",
         "Research Checklist",
         "Related",
@@ -104334,9 +104361,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3059,
-      "word_like_tokens": 495,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3191,
+      "word_like_tokens": 516,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "trust-banks/first-trust.md",
@@ -104407,8 +104434,8 @@
         "FPG信託 (FPG Trust)",
         "Wiki route",
         "Overview",
-        "Entity Boundary",
-        "Business Role Map",
+        "Entity Boundary ^[金融庁の現行免許と FPG 信託会社概要: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://www.fpgtrust.jp/profile/index.html]",
+        "Business Role Map ^[FPG 信託「信託サービス」: https://www.fpgtrust.jp/service/index.html]",
         "Public Context",
         "Research Checklist",
         "Related",
@@ -104433,9 +104460,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3268,
-      "word_like_tokens": 549,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3441,
+      "word_like_tokens": 579,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "trust-banks/fukushi-trust.md",
@@ -104456,7 +104483,7 @@
         "ふくし信託 (Fukushi Trust)",
         "Wiki route",
         "Overview",
-        "Entity Boundary",
+        "Entity Boundary ^[金融庁の現行登録と会社公式サイト: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://www.fukushitrust.com/]",
         "Business Role Map",
         "Public Context",
         "Research Checklist",
@@ -104482,9 +104509,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3169,
-      "word_like_tokens": 476,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3268,
+      "word_like_tokens": 490,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "trust-banks/greif-trust.md",
@@ -104505,7 +104532,7 @@
         "Greif Trust / グライフ信託",
         "Overview",
         "Entity Boundary",
-        "Business Role Map",
+        "Business Role Map ^[株式会社グライフ信託「会社概要」: https://www.greif-trust.com/company/; 金融庁の現行登録: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf]",
         "Public Context",
         "Research Checklist",
         "Related",
@@ -104532,9 +104559,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2115,
-      "word_like_tokens": 325,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 2230,
+      "word_like_tokens": 343,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "trust-banks/hogaraka-trust.md",
@@ -104555,7 +104582,7 @@
         "ほがらか信託 (Hogaraka Trust)",
         "Wiki route",
         "Overview",
-        "Entity Boundary",
+        "Entity Boundary ^[金融庁の現行登録とほがらか信託会社概要: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://www.hogaraka-trust.co.jp/company/]",
         "Business Role Map",
         "Public Context",
         "Research Checklist",
@@ -104581,9 +104608,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3015,
-      "word_like_tokens": 476,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3129,
+      "word_like_tokens": 493,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "trust-banks/jia-trust.md",
@@ -104604,7 +104631,7 @@
         "JIA Trust / JIA信託",
         "Overview",
         "Entity Boundary",
-        "Business Role Map",
+        "Business Role Map ^[JIA 信託 公式サイト: https://www.jiatrust.co.jp/; 金融庁の現行免許: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf]",
         "Public Context",
         "Research Checklist",
         "Related",
@@ -104631,9 +104658,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2191,
-      "word_like_tokens": 351,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 2291,
+      "word_like_tokens": 369,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "trust-banks/jsf-trust-bank.md",
@@ -104654,7 +104681,7 @@
         "日証金信託銀行 (JSF Trust and Banking)",
         "Wiki route",
         "Overview",
-        "Entity Boundary",
+        "Entity Boundary ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; 日証金信託銀行「会社概要」: https://www.jsftb.co.jp/company/outline.html]",
         "Business Line Map",
         "Public Context",
         "Regulatory / Research Notes",
@@ -104699,9 +104726,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5208,
-      "word_like_tokens": 798,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 5348,
+      "word_like_tokens": 823,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "trust-banks/jvalue-trust.md",
@@ -104874,7 +104901,7 @@
         "Kotaeru Trust / コタエル信託",
         "Overview",
         "Entity Boundary",
-        "Business Role Map",
+        "Business Role Map ^[コタエル信託「ストックオプション信託」: https://trust.kotaeru.co.jp/service/stockoption/; 金融庁の現行登録: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf]",
         "Public Context",
         "Research Checklist",
         "Related",
@@ -104900,9 +104927,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2416,
-      "word_like_tokens": 377,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 2546,
+      "word_like_tokens": 396,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "trust-banks/kyodo-trust.md",
@@ -104973,8 +105000,8 @@
         "LGTウェルスマネジメント信託 (LGT Wealth Management Trust)",
         "Wiki route",
         "Overview",
-        "Entity Boundary",
-        "Business Role Map",
+        "Entity Boundary ^[金融庁の現行免許と LGT 会社情報: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://www.lgt.com/jp-jp/company-information]",
+        "Business Role Map ^[LGT「LGT in Japan」: https://www.lgt.com/jp-jp/about-us/lgt-in-japan]",
         "Public Context",
         "Research Checklist",
         "Related",
@@ -105001,9 +105028,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3537,
-      "word_like_tokens": 565,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3718,
+      "word_like_tokens": 600,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "trust-banks/lombard-odier-trust.md",
@@ -105024,7 +105051,7 @@
         "Lombard Odier Trust Japan / ロンバー・オディエ信託",
         "Overview",
         "Entity Boundary",
-        "Business Role Map",
+        "Business Role Map ^[金融庁の現行免許と Lombard Odier 東京拠点: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://asia.lombardodier.com/ja/home/offices/tokyo.html]",
         "Public Context",
         "Research Checklist",
         "Related",
@@ -105051,9 +105078,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2549,
-      "word_like_tokens": 405,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 2684,
+      "word_like_tokens": 427,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "trust-banks/master-trust-bank.md",
@@ -105078,8 +105105,8 @@
         "主要株主（公開資料）^[extracted]",
         "機能ポジション",
         "重要年表 ^[extracted]",
-        "2. 事業セグメント・マップ",
-        "業界構造 — カストディ 2 強体制",
+        "2. 事業セグメント・マップ ^[日本マスタートラスト信託銀行「会社概要」および 2024 年度決算: https://www.mastertrust.co.jp/company/information.html; https://www.mastertrust.co.jp/assets/pdf/financial/zm20250521.pdf]",
+        "業界構造 — カストディ 2 強体制 ^[日本マスタートラスト信託銀行「会社概要」: https://www.mastertrust.co.jp/company/information.html; 日本カストディ銀行「ディスクロージャー誌 2025」: https://www.custody.jp/data/disclosure/pdf/disclosure202507.pdf]",
         "「信託口」名義の意味"
       ],
       "wikilinks": [
@@ -105107,9 +105134,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4839,
-      "word_like_tokens": 733,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 5396,
+      "word_like_tokens": 817,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "trust-banks/midori-trust.md",
@@ -105180,7 +105207,7 @@
         "三菱UFJ信託銀行 (MUTB)",
         "Wiki route",
         "TL;DR",
-        "1. License / group boundary",
+        "1. License / group boundary ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; 三菱UFJ信託銀行「会社概要」: https://www.tr.mufg.jp/ippan/about/index.html]",
         "2. Operating model",
         "3. Why this page matters",
         "Related",
@@ -105215,9 +105242,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2587,
-      "word_like_tokens": 384,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 2728,
+      "word_like_tokens": 412,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "trust-banks/miyoshi-smile-trust.md",
@@ -105323,9 +105350,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5045,
-      "word_like_tokens": 759,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 5456,
+      "word_like_tokens": 805,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "trust-banks/mizuho-trust-bank.md",
@@ -105346,7 +105373,7 @@
         "みずほ信託銀行 (Mizuho Trust & Banking)",
         "Wiki route",
         "TL;DR",
-        "1. License / group boundary",
+        "1. License / group boundary ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; みずほ信託銀行「会社概要」: https://www.mizuho-tb.co.jp/company/about/info.html]",
         "2. Operating model",
         "3. Why this page matters",
         "Related",
@@ -105381,9 +105408,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2539,
-      "word_like_tokens": 358,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 2684,
+      "word_like_tokens": 385,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "trust-banks/nichizei-trust.md",
@@ -105454,7 +105481,7 @@
         "農中信託銀行 (Norinchukin Trust & Banking)",
         "Wiki route",
         "TL;DR",
-        "1. License / group boundary",
+        "1. License / group boundary ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; 農中信託銀行「会社概要」: https://www.nochutb.co.jp/about/summary.html]",
         "2. Operating model",
         "3. Why this page matters",
         "Related",
@@ -105485,9 +105512,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2461,
-      "word_like_tokens": 342,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 2598,
+      "word_like_tokens": 367,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "trust-banks/nomura-trust-bank.md",
@@ -105507,11 +105534,11 @@
       "headings": [
         "野村信託銀行 (Nomura Trust Bank)",
         "Wiki route",
-        "1. 法人・ライセンス境界",
+        "1. 法人・ライセンス境界 ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; 野村信託銀行「会社概要」（2026-05-13 時点）: https://www.nomura-trust.co.jp/company/corp.html]",
         "2. 親会社 野村 HD 構造",
         "4. 主要業務 — 証券グループ付随の信託機能",
-        "5. 重要年表",
-        "6. ピア比較 — 信託銀行マーケット",
+        "5. 重要年表 ^[野村信託銀行「会社概要」「仕事を知る」: https://www.nomura-trust.co.jp/company/corp.html; https://www.nomura-trust.co.jp/recruit/graduate/business/]",
+        "6. ピア比較 — 法人境界と主力機能 ^[各社公式会社情報: https://www.smtb.jp/corporate/summary/; https://www.tr.mufg.jp/ippan/about/index.html; https://www.mizuho-tb.co.jp/company/about/info.html; https://www.nomura-trust.co.jp/company/business.html; https://www.bank-daiwa.co.jp/about/outline/; https://www.shinseitrust.com/corporate/about.html]",
         "7. 監督・規制",
         "8. Counterpoints",
         "9. Open questions"
@@ -105524,8 +105551,6 @@
         "megabanks/mizuho-fg",
         "megabanks/mufg",
         "regional-banks/daiwa-next-bank",
-        "regional-banks/sbi-shinsei-bank",
-        "securities-firms/daiwa-securities-group",
         "securities-firms/nomura-hd",
         "securities-firms/nomura-securities",
         "securities/INDEX",
@@ -105533,6 +105558,7 @@
         "trust-banks/japan-trustee-services-bank",
         "trust-banks/master-trust-bank-of-japan",
         "trust-banks/mitsubishi-ufj-trust-bank",
+        "trust-banks/mizuho-trust-bank",
         "trust-banks/mizuho-trust-banking",
         "trust-banks/sbi-shinsei-trust-bank",
         "trust-banks/sumitomo-mitsui-trust"
@@ -105545,20 +105571,20 @@
         "https://finwiki.zksc.io/ja/megabanks/mizuho-fg/",
         "https://finwiki.zksc.io/ja/megabanks/mufg/",
         "https://finwiki.zksc.io/ja/regional-banks/daiwa-next-bank/",
-        "https://finwiki.zksc.io/ja/regional-banks/sbi-shinsei-bank/",
         "https://finwiki.zksc.io/ja/securities-firms/nomura-hd/",
         "https://finwiki.zksc.io/ja/domains/securities/",
         "https://finwiki.zksc.io/ja/domains/trust-banks/",
         "https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/",
+        "https://finwiki.zksc.io/ja/trust-banks/mizuho-trust-bank/",
         "https://finwiki.zksc.io/ja/trust-banks/sbi-shinsei-trust-bank/",
         "https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/"
       ],
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4725,
-      "word_like_tokens": 763,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 5387,
+      "word_like_tokens": 880,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "trust-banks/oag-trust.md",
@@ -105579,7 +105605,7 @@
         "OAG信託 (OAG Trust)",
         "Wiki route",
         "Overview",
-        "Entity Boundary",
+        "Entity Boundary ^[金融庁の現行登録と OAG 信託公式サイト: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://oag-trust.com/]",
         "Business Role Map",
         "Public Context",
         "Research Checklist",
@@ -105607,9 +105633,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3227,
-      "word_like_tokens": 532,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3322,
+      "word_like_tokens": 548,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "trust-banks/orient-trust-japan.md",
@@ -105621,70 +105647,61 @@
       },
       "raw_markdown_url": "https://finwiki.zksc.io/trust-banks/orient-trust-japan.md",
       "github_url": "https://github.com/jasonhnd/finwiki/blob/main/trust-banks/orient-trust-japan.md",
-      "title": "ノーザン・トラスト・ジャパン (Northern Trust Japan)",
+      "title": "ノーザン・トラスト・グローバル・インベストメンツ (Northern Trust Japan)",
       "domain": "trust-banks",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "This entry sits under trust-banks INDEX as a foreign-affiliated trust / asset-servicing subsidiary anchor. Read it against State Street Japan / BNY Mellon Japan / JPMorgan Japan for the foreign custodian / asset-servicing peer cluster, マスタートラスト信託銀行 / 三菱 UFJ 信託銀行 for the domestic trust peer cluster,",
+      "summary": "This entry remains under trust-banks INDEX as a classification boundary. It records that Northern Trust's confirmed Japan entity is an asset manager / financial instruments operator, not a row in the current trust-company registry. Use foreign financial institutions and asset managers for substantiv",
       "headings": [
-        "ノーザン・トラスト・ジャパン (Northern Trust Japan)",
+        "ノーザン・トラスト・グローバル・インベストメンツ (Northern Trust Japan)",
         "Wiki route",
-        "1. 親会社概要",
+        "1. 親会社概要 ^[Northern Trust「What We Do」「About Us」: https://www.northerntrust.com/japan/what-we-do; https://www.northerntrust.com/japan/about-us]",
         "2. 日本拠点法人構成（公開情報ベース）",
-        "3. 業務ライン",
+        "3. 日本法人の業務・登録境界 ^[Northern Trust 日本公式ページ・東京拠点情報: https://www.northerntrust.com/japan; https://www.northerntrust.com/asia-pac/about-us/locations/jp/tokyo-minato-ku-ark-hills-sengokuyama-mori-tower]",
         "主要顧客タイプ",
-        "4. 親会社・日本の競合関係",
-        "米 3 大カストディの相対位置",
-        "5. KPI（親会社は SEC 開示ベース、日本拠点は非開示）",
-        "6.1 米 3 大カストディの末尾としての差別化"
+        "4. 日本での entity boundary ^[Northern Trust 日本公式ページと金融庁の現行信託会社一覧: https://www.northerntrust.com/japan; https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf]",
+        "グローバル事業と日本法人の切り分け",
+        "5. KPI（親会社公表値 / 日本法人は個別非開示） ^[Northern Trust「About Us」「What We Do」: https://www.northerntrust.com/japan/about-us; https://www.northerntrust.com/japan/what-we-do]",
+        "6.1 グループの事業範囲"
       ],
       "wikilinks": [
-        "asset-managers/daiwa-am",
-        "asset-managers/mitsubishi-ufj-am",
-        "asset-managers/nomura-am",
+        "asset-managers/INDEX",
         "banking/japan-trust-bank-custody-map",
-        "card-issuers/orico",
+        "foreign-financial-institutions/INDEX",
         "foreign-financial-institutions/bny-mellon-japan",
         "foreign-financial-institutions/citigroup-japan",
         "foreign-financial-institutions/jpmorgan-japan",
         "foreign-financial-institutions/state-street-japan",
         "foreign-financial-institutions/ubs-japan",
-        "life-insurers/dai-ichi-life",
-        "life-insurers/nippon-life",
-        "non-life-insurers/tokio-marine",
         "trust-banks/INDEX",
         "trust-banks/lgt-wealth-management-trust",
         "trust-banks/master-trust-bank",
         "trust-banks/mitsubishi-ufj-trust-bank",
-        "trust-banks/smbc-trust-bank",
         "trust-banks/sumitomo-mitsui-trust",
         "trust-banks/trust-companies-japan-index"
       ],
       "resolved_wikilinks": [
+        "https://finwiki.zksc.io/ja/domains/asset-managers/",
         "https://finwiki.zksc.io/ja/banking/japan-trust-bank-custody-map/",
-        "https://finwiki.zksc.io/ja/card-issuers/orico/",
+        "https://finwiki.zksc.io/ja/domains/foreign-financial-institutions/",
         "https://finwiki.zksc.io/ja/foreign-financial-institutions/bny-mellon-japan/",
         "https://finwiki.zksc.io/ja/foreign-financial-institutions/citigroup-japan/",
         "https://finwiki.zksc.io/ja/foreign-financial-institutions/jpmorgan-japan/",
         "https://finwiki.zksc.io/ja/foreign-financial-institutions/state-street-japan/",
         "https://finwiki.zksc.io/ja/foreign-financial-institutions/ubs-japan/",
-        "https://finwiki.zksc.io/ja/life-insurers/dai-ichi-life/",
-        "https://finwiki.zksc.io/ja/life-insurers/nippon-life/",
-        "https://finwiki.zksc.io/ja/non-life-insurers/tokio-marine/",
         "https://finwiki.zksc.io/ja/domains/trust-banks/",
         "https://finwiki.zksc.io/ja/trust-banks/lgt-wealth-management-trust/",
         "https://finwiki.zksc.io/ja/trust-banks/master-trust-bank/",
         "https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/",
-        "https://finwiki.zksc.io/ja/trust-banks/smbc-trust-bank/",
         "https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/",
         "https://finwiki.zksc.io/ja/trust-banks/trust-companies-japan-index/"
       ],
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 7268,
-      "word_like_tokens": 1109,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 6003,
+      "word_like_tokens": 870,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "trust-banks/orix-bank.md",
@@ -105705,7 +105722,7 @@
         "オリックス銀行 (ORIX Bank)",
         "Wiki route",
         "TL;DR",
-        "1. License / group boundary",
+        "1. License / group boundary ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; オリックス銀行「会社概要」: https://www.orixbank.co.jp/aboutus/profile/company.html; ORIX と大和ネクスト銀行の 2026-04-27 公表: https://www.orix.co.jp/grp/company/newsroom/newsrelease/pdf/260427ORIXJ.pdf; https://www.bank-daiwa.co.jp/info/2026/pdf/042702.pdf]",
         "2. Operating model",
         "3. Why this page matters",
         "Related",
@@ -105736,9 +105753,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3080,
-      "word_like_tokens": 466,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 3388,
+      "word_like_tokens": 523,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "trust-banks/pasona-ip-trust.md",
@@ -105759,7 +105776,7 @@
         "パソナ知財信託 (Pasona IP Trust)",
         "Wiki route",
         "Overview",
-        "Entity Boundary",
+        "Entity Boundary ^[金融庁の現行登録とパソナ知財信託会社情報: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://pasona-ipt.co.jp/company/]",
         "Business Role Map",
         "Public Context",
         "Research Checklist",
@@ -105785,9 +105802,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3272,
-      "word_like_tokens": 514,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3379,
+      "word_like_tokens": 530,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "trust-banks/ryugaku-anshin-trust.md",
@@ -105858,7 +105875,7 @@
         "SBI新生信託銀行 (SBI Shinsei Trust Bank)",
         "Wiki route",
         "Overview",
-        "Entity Boundary",
+        "Entity Boundary ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; SBI新生信託銀行「会社概要」: https://www.shinseitrust.com/corporate/about.html]",
         "Business Line Map",
         "Public Context",
         "Regulatory / Research Notes",
@@ -105901,9 +105918,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5965,
-      "word_like_tokens": 937,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 6112,
+      "word_like_tokens": 962,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "trust-banks/sekisui-house-trust.md",
@@ -105924,7 +105941,7 @@
         "積水ハウス信託 (Sekisui House Trust)",
         "Wiki route",
         "Overview",
-        "Entity Boundary",
+        "Entity Boundary ^[金融庁の現行登録と積水ハウス信託会社情報: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://www.sekisuihouse-trust.co.jp/company/]",
         "Business Role Map",
         "Public Context",
         "Research Checklist",
@@ -105954,9 +105971,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3271,
-      "word_like_tokens": 515,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3390,
+      "word_like_tokens": 532,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "trust-banks/smbc-trust-bank.md",
@@ -105977,7 +105994,7 @@
         "SMBC信託銀行 (SMBC Trust Bank)",
         "Wiki route",
         "TL;DR",
-        "1. License / group boundary",
+        "1. License / group boundary ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; SMBC信託銀行「会社概要」: https://www.smbctb.co.jp/aboutus/information/]",
         "2. Operating model",
         "3. Why this page matters",
         "Related",
@@ -106010,9 +106027,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2594,
-      "word_like_tokens": 389,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 2734,
+      "word_like_tokens": 414,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "trust-banks/smtb.md",
@@ -106033,7 +106050,7 @@
         "三井住友信託銀行 (SMTB)",
         "Wiki route",
         "TL;DR",
-        "1. License / group boundary",
+        "1. License / group boundary ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; 三井住友信託銀行「会社概要」: https://www.smtb.jp/corporate/summary/]",
         "2. Operating model",
         "3. Why this page matters",
         "Related",
@@ -106068,9 +106085,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2700,
-      "word_like_tokens": 405,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 2833,
+      "word_like_tokens": 428,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "trust-banks/starts-trust.md",
@@ -106091,7 +106108,7 @@
         "スターツ信託 (Starts Trust)",
         "Wiki route",
         "Overview",
-        "Entity Boundary",
+        "Entity Boundary ^[金融庁の現行免許とスターツ公式リリース: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://www.starts.co.jp/news/press/2015/1142/; https://www.starts.co.jp/news/press/2024/6317/]",
         "Business Role Map",
         "Public Context",
         "Research Checklist",
@@ -106117,9 +106134,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3213,
-      "word_like_tokens": 530,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3379,
+      "word_like_tokens": 560,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "trust-banks/sumire-regional-trust.md",
@@ -106191,11 +106208,11 @@
         "Wiki route",
         "TL;DR",
         "1. 会社概要",
-        "最新財務サマリ（FY2024 / 2025-03 期、連結）",
+        "最新財務サマリ（FY2025 / 2026-03 期、連結） ^[三井住友トラストグループ「2026年3月期決算短信」: https://www.smtg.jp/-/media/tg/investors/fs/2603/2603_01.pdf]",
         "主要子会社・関連会社",
         "合併歴史・前身",
-        "重要年表（抜粋）",
-        "2. 事業セグメント・マップ",
+        "重要年表（抜粋） ^[三井住友トラストグループ「100年史」「2026年3月期決算短信」: https://www.smtg.jp/aboutus/chronicle100/history/section24009; https://www.smtg.jp/-/media/tg/investors/fs/2603/260301.pdf]",
+        "2. 事業セグメント・マップ ^[三井住友トラストグループ「グループ会社について」（2026-04-01 時点）: https://www.smtg.jp/groupinfo/groupcompanies]",
         "信託専業独立路線"
       ],
       "wikilinks": [
@@ -106223,9 +106240,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4701,
-      "word_like_tokens": 765,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 5361,
+      "word_like_tokens": 835,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "trust-banks/trust-companies-japan-index.md",
@@ -106241,14 +106258,14 @@
       "domain": "trust-banks",
       "entry_type": "wiki_entry",
       "canonical_anchor": "",
-      "summary": "FSA's trust-company list contains 38 trust companies as of 2026-03-31. This page is the registry route for the independent / group trust-company surface. It is separate from licensed trust banks such as trust-banks/mitsubishi-ufj-trust-bank, trust-banks/mizuho-trust-bank, trust-banks/smtb, trust-ban",
+      "summary": "FSA's trust-company list contains 37 trust companies as of 2026-06-30: 13 operating-type companies and 24 management-type companies. This page is the registry route for the independent / group trust-company surface. It is separate from licensed trust banks such as trust-banks/mitsubishi-ufj-trust-ba",
       "headings": [
         "Japan trust companies registry index",
         "TL;DR",
-        "Boundary",
-        "Registry Snapshot",
-        "Promotion Priority Map",
-        "Official Registry Rows",
+        "Boundary ^[金融庁「免許・許可・登録等を受けている事業者一覧」: https://www.fsa.go.jp/menkyo/menkyo.html]",
+        "Registry Snapshot ^[金融庁「運用型信託会社免許・管理型信託会社登録一覧」（2026-06-30 時点）: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf]",
+        "Promotion Priority Map ^[金融庁の現行 37 社一覧と公開 FinWiki route の照合: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://github.com/jasonhnd/finwiki/tree/main/trust-banks]",
+        "Official Registry Rows ^[金融庁「運用型信託会社免許・管理型信託会社登録一覧」（2026-06-30 時点）: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf]",
         "Standalone Promotion Rules",
         "Related",
         "Sources"
@@ -106354,9 +106371,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 8945,
-      "word_like_tokens": 1382,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 9775,
+      "word_like_tokens": 1531,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "trust-banks/uk-trust.md",
@@ -106377,7 +106394,7 @@
         "UK Trust / UK信託",
         "Overview",
         "Entity Boundary",
-        "Business Role Map",
+        "Business Role Map ^[金融庁の現行登録と UK 信託公式サイト: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://uktrust.jp/]",
         "Public Context",
         "Research Checklist",
         "Related",
@@ -106404,9 +106421,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2080,
-      "word_like_tokens": 352,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 2171,
+      "word_like_tokens": 367,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "trust-banks/yamada-escrow-trust.md",
@@ -106427,7 +106444,7 @@
         "山田エスクロー信託 (Yamada Escrow Trust)",
         "Wiki route",
         "Overview",
-        "Entity Boundary",
+        "Entity Boundary ^[金融庁の現行登録と山田エスクロー信託公式サイト: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://www.y-escrow-trust.co.jp/]",
         "Business Role Map",
         "Public Context",
         "Research Checklist",
@@ -106453,9 +106470,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3074,
-      "word_like_tokens": 513,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3184,
+      "word_like_tokens": 531,
+      "last_modified": "2026-07-29"
     },
     {
       "source_path": "wiki-link-improvement-plan.md",
