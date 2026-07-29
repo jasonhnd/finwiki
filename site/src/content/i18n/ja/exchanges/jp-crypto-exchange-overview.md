@@ -1,18 +1,22 @@
 ---
 source: exchanges/jp-crypto-exchange-overview
-source_hash: 6cbedeba6ca63680
+source_hash: 9e1590b840ccaa4c
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の暗号資産交換業概要 — FSA / JVCEA 規制下の VASP 市場"
-translated_at: 2026-06-26T08:29:09.704Z
+translated_at: 2026-07-29T11:02:23.000Z
 ---
 # 日本の暗号資産交換業概要 — FSA / JVCEA 規制下の VASP 市場
 
-## 要約日本の暗号資産交換業は、金融庁・財務局の登録制と [[exchanges/jvcea-self-regulatory-overview|JVCEA]] 自主規制の二層で成り立つ。2017-04-01 に暗号資産交換業登録制が始まり、2023-06-01 には電子決済手段等取引業も制度化された。2026-02-28 時点の金融庁英語版登録一覧では暗号資産交換業者は 27 業者。国内市場は「登録 VASP + JVCEA 会員 + FSA 監督 + 税務報告/CARF」まで含めて見る必要がある。
+## 要約
+
+日本の暗号資産交換業は、金融庁・財務局の登録制と [[exchanges/jvcea-self-regulatory-overview|JVCEA]] 自主規制の二層で成り立つ。2017-04-01 に暗号資産交換業登録制が始まり、2023-06-01 には電子決済手段等取引業も制度化された。登録業者数と会員数は更新されるため、固定値ではなく金融庁の現行登録一覧と JVCEA 会員一覧を確認する。
 
 ## 1. 制度構造
+
+出典: 表全体は FSA [暗号資産・電子決済手段関係](https://www.fsa.go.jp/policy/virtual_currency02/)、[登録業者一覧](https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.pdf)、[JVCEA 会員一覧](https://jvcea.or.jp/member/)、[国税庁 CARF](https://www.nta.go.jp/taxes/shiraberu/kokusai/carf/index.htm)（2026-07-29 確認）に基づく。
 
 | 層 | 内容 | 主要参照 |
 |---|---|---|
@@ -25,25 +29,24 @@ translated_at: 2026-06-26T08:29:09.704Z
 
 日本銀行は暗号資産を、電子的に記録・移転できる財産的価値であり、法定通貨ではないものとして説明する。国内で交換業を行うには金融庁・財務局登録が必要。
 
-## 2. 市場マップ
+## 2. 現行情報の確認先
 
-| 区分 | 代表的な事業者 | 注記 |
+出典: 表全体は FSA、JVCEA、国税庁の各公開ページ（2026-07-29 確認）に基づく。
+
+| 公開主体 | 確認できる内容 | URL |
 |---|---|---|
-| 独立系老舗 | [[exchanges/jp-exchange-bitflyer|bitFlyer]], [[exchanges/jp-exchange-bitbank|bitbank]], [[exchanges/jp-exchange-btcbox|BTCBOX]] | 2017 登録制初期からの中核 |
-| 金融グループ系 | [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]], [[exchanges/jp-exchange-gmo-coin|GMO Coin]], [[exchanges/jp-exchange-rakuten-wallet|Rakuten ウォレット]] | 証券・FX・銀行グループ接続 |
-| 海外系日本法人 | [[exchanges/jp-exchange-binance-japan|Binance Japan]], [[exchanges/jp-exchange-okcoin-japan|OKJ]], [[exchanges/jp-exchange-osl-japan|OSL Japan]] | 日本法人化・登録取得が 参入ゲート |
-| デリバティブ専業/証券系 | [[exchanges/jp-exchange-sbi-securities|SBI Securities]], [[exchanges/jp-exchange-monex|Monex]], [[exchanges/jp-exchange-traders-securities|Traders Securities]] | 現物とデリバのライセンス分担 |
-| 機関向け・特殊 | [[exchanges/jp-exchange-crypto-garage|Crypto Garage]], [[exchanges/jp-exchange-digital-asset-markets|Digital Asset Markets]], [[exchanges/jp-exchange-jpyc|JPYC]] | カストディ, RWA, EPI-adjacent |
+| 金融庁 | 暗号資産交換業者の登録番号、商号、所在地、取扱暗号資産 | [登録一覧 PDF](https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.pdf) |
+| 金融庁 | 警告書を発出した無登録業者 | [暗号資産・電子決済手段関係](https://www.fsa.go.jp/policy/virtual_currency02/) |
+| JVCEA | 現行会員と会員区分 | [会員一覧](https://jvcea.or.jp/member/) |
+| 国税庁 | CARF の制度・実施情報 | [CARF](https://www.nta.go.jp/taxes/shiraberu/kokusai/carf/index.htm) |
 
-JVCEA 会員ページでは、第一種会員数と業務種別（暗号資産交換業、暗号資産デリバティブ取引業、電子決済手段等取引業）が確認できる。金融庁登録一覧は「登録番号・業者名・所在地・取扱暗号資産」を見る一次ソース。
+事業者の親会社、商品、取扱銘柄、営業状態は変更され得るため、個別ページでは発行体の現行公表も併用する。
 
 ## 3. 戦略的な読み方
 
-- **登録制が 参入障壁**: 日本居住者向けサービスは登録が前提。海外大手は無登録状態で警告を受けるか、日本法人を買収・設立して登録を取るかの二択になる。
-- **銘柄数と安全性の トレードオフ**: JVCEA 銘柄審査は国内上場銘柄を制限し、海外 CEX より商品数を抑える一方、投資者保護と市場健全性を優先する。
-- **販売所収益構造**: 国内個人市場では販売所スプレッドが収益源になりやすく、取引所板の厚み・手数料競争とは別に見る必要がある。
-- **金融グループ接続**: SBI、GMO、楽天、Monex、メルカリ等は、証券・FX・銀行・ポイント・EC との クロスセル が強み。
-- **ステーブルコイン / EPI 隣接領域**: 2023-06-01 以降は電子決済手段制度が別レイヤーとして立ち、暗号資産交換業と ステーブルコイン仲介の境界が重要になる。
+- 登録業者数、会員数、取扱暗号資産は取得日を付けて引用する。
+- 暗号資産交換業、暗号資産デリバティブ、電子決済手段等取引業を別の規制区分として確認する。
+- 親会社関係、提供商品、販売所 / 取引所の区分は各社の現行公式資料で補完する。
 
 ## 4. 規制と政策
 
@@ -64,7 +67,7 @@ JVCEA 会員ページでは、第一種会員数と業務種別（暗号資産�
 
 - 金融庁「暗号資産・電子決済手段関係」: https://www.fsa.go.jp/policy/virtual_currency02/
 - 金融庁「暗号資産交換業者登録一覧」: https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.pdf
-- FSA「List of Registered Crypto-asset Exchange Service Providers in Japan」: https://www.fsa.go.jp/en/regulated/ライセンスd/en_kasoutuka.pdf
+- FSA「List of Registered Crypto-asset Exchange Service Providers in Japan」: https://www.fsa.go.jp/en/regulated/licensed/en_kasoutuka.pdf
 - JVCEA「会員一覧」: https://jvcea.or.jp/member/
 - 日本銀行「暗号資産とは何ですか？」: https://www.boj.or.jp/about/education/oshiete/money/c27.htm
 - 国税庁「CARF」: https://www.nta.go.jp/taxes/shiraberu/kokusai/carf/index.htm

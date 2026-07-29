@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-exchange-sbi-vc-trade
-source_hash: cfb57185fa232f74
+source_hash: 79e73834e59aedb5
 lang: en
 status: machine
 fidelity: ok
 title: "SBI VC Trade Co., Ltd. (SBI VCトレード株式会社) — Japan crypto-asset exchange operator overview"
-translated_at: 2026-06-18T23:33:48.336Z
+translated_at: 2026-07-29T11:50:43.000Z
 ---
 
 # SBI VC Trade Co., Ltd. (SBI VCトレード株式会社) — Japan crypto-asset exchange operator overview
@@ -23,18 +23,20 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it against [[exc
 - **English notation**: SBI VC Trade Co., Ltd.
 - **Established**: 2017年5月26日
 - **Head-office location**: Izumi Garden Tower, Roppongi 1-6-1 , Minato-ku, Tokyo, postal code 106-6021 
-- **Capital**: 13億5,000万円 (including capital reserves)
+- **Capital**: JPY 6.35 billion
 - **Shareholders**: SBI Group 100% (parent company: SBI Holdings, Inc., listed on TSE Prime, securities code 8473)
 
 ## 2. License / registration status
 
-The company is currently the only operator in Japan that **simultaneously holds the 3types of licenses**, holding crypto-asset exchange business, financial instruments business (crypto-asset derivatives), and electronic-payment-instruments business on its own.
+The company's official profile lists three registrations: crypto-asset exchange business, Type I financial instruments business, and electronic-payment-instruments business. A comparative “only operator in Japan” claim is not used because other firms' registrations can change.
+
+The registration numbers below are based on the company's profile and the FSA registers. ^[Sources: https://www.sbivc.co.jp/company-profile; https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx; https://www.fsa.go.jp/menkyo/menkyoj/denshikessaisyudan.xlsx.]
 
 | Business | Registration number | Notes |
 |------|---------|------|
 | Crypto-asset exchange business | Director-General of the Kanto Local Finance Bureau 第00011号 | Registered 2017-12-01 |
 | Type 1 financial instruments business (crypto-asset derivatives) | Director-General of the Kanto Local Finance Bureau (Kinsho) 第3247号 | OTC-derivatives capable |
-| Electronic-payment-instruments business | Director-General of the Kanto Local Finance Bureau 第00001号 | Registration completed 2025-03-04, for handling USDC |
+| Electronic-payment-instruments business | Director-General of the Kanto Local Finance Bureau (Electronic Payment Intermediary) No. 00001 | USDC is listed as the handled electronic payment instrument |
 
 - **JVCEA membership type**: Type 1 (member number 1011)
 - **Associations joined**: Japan Virtual and Crypto assets Exchange Association (JVCEA), Japan Cryptoasset Business Association (JCBA), Japan Digital Economy Federation, Japan Digital Decentralized Finance Association, JPCrypto-ISAC
@@ -47,14 +49,16 @@ Related stablecoin routes: [[fintech/japan-ecisb-license]], [[fintech/japan-stab
 
 ## 3. Currencies handled
 
-As of 2026年5月, the spot-trading targets are about 40tokens. Main tokens: BTC · ETH · XRP · LTC · BCH · SOL · ADA · DOGE · DOT · LINK · XLM · AVAX · MATIC · SHIB · TON · SUI, etc. In addition, as electronic payment instruments (EP instruments), it handles **USDC** and JPY stability assets (ZPG · DAI).
+The official product pages retrieved on 2026-05-18 showed crypto assets including BTC, ETH, XRP, and SOL, and **USDC** as an electronic payment instrument. Availability changes, so this entry does not fix a total or domestic rank.
 
 Features:
-- **USDC** began general-public trading domestically on 2025年3月25日. Leveraging its electronic-payment-instruments-business registration (第00001号), it provides JPY⇔USDC spot exchange and a **USDC lending service** (launched 2026年3月18日, domestic-first).
+- **USDC** began general trading on 2025-03-25. Under electronic-payment-instruments business registration No. 00001, the company provides JPY-USDC spot exchange and a **USDC lending service** launched on 2026-03-18.
 - Has **staking-capable tokens** (ETH · SOL, etc.).
 - A somewhat broader listing lineup than other domestic operators, including **NIDT** (Nippon Idol Token) · **FLR** (Flare) · **XDC**.
 
 ## 4. Scope of business
+
+The following service categories are based on the company's official service catalog and USDC page. Eligible assets, rates, and tax treatment can change and should be checked in the applicable contractual documents. ^[Sources: https://www.sbivc.co.jp/; https://www.sbivc.co.jp/usdc.]
 
 | Service | Overview |
 |---------|------|
@@ -66,41 +70,33 @@ Features:
 | Staking | PoS tokens such as ETH |
 | SBI Web3  Wallet | Self-custody linkage |
 | SBIVC for Prime | OTC-dedicated service for large-lot / corporate clients |
-| USDC lending | Domestic-first (launched 2026-03-18), treated as miscellaneous income |
+| USDC lending | USDC coin-lending service |
 
 **Fiat-currency deposit channels**: bank transfer · quick deposit (Pay-easy, etc.). Account-management fees, annual fees, yen deposit/withdrawal fees, and crypto-asset deposit/withdrawal fees are free.
 
 ## 5. Market share / trading volume
 
-Public indicators:
-- **Capital-adequacy ratio** 354.0% (non-fixed own capital 76億9,800万円) ※ as of end of 2026年3月, company IR disclosure
-- Public figures for account count and monthly trading volume could not be confirmed (not disclosed)
-
-Position: based on holding 3types of licenses · the migration of DMM Bitcoin customer assets (presumed on the scale of several hundred thousand accounts) · being a 100% subsidiary of the SBI Group, it is seen as ranking among the domestic majors 5–6 社, but the company's own figures are not disclosed in public comparative rankings of trading volume or account count. The customer base is centered on individual retail, with a Prime service for large-lot / corporate clients also in place.
+The March 2026 capital-adequacy ratio is a dated IR metric and is not used as a trading-volume or account-count comparison. The official materials reviewed on 2026-07-29 contain no company-level account or monthly-volume figures comparable across firms, so this entry does not infer a domestic rank or migrated-account scale.
 
 ## 6. History / major incidents
 
+The table below is limited to corporate reorganizations, registrations, and asset migrations confirmed in official SBI Group and SBI VC Trade releases and FSA registers. Announced future events are distinguished from events whose effective dates subsequently occurred. ^[Sources: https://www.sbigroup.co.jp/news/2021/0901_12622.html; https://www.sbivc.co.jp/dmm_vct; https://www.fsa.go.jp/menkyo/menkyoj/denshikessaisyudan.xlsx; https://www.sbigroup.co.jp/news/2026/0130_16072.html; https://www.sbivc.co.jp/company-profile.]
+
 | Period | Item |
 |------|------|
-| 2017-05-26 | SBI VC Trade Co., Ltd. established |
 | 2017-12-01 | Crypto-asset exchange business registered with the Director-General of the Kanto Local Finance Bureau 第00011号 |
-| 2020-10  | SBI Liquidity Market acquired all issued shares of TaoTao Inc. (formerly of the Z Holdings lineage) and brought it into the SBI Group |
 | 2021-09-01 | Announced the merger resolution of SBI VC Trade and TaoTao Inc. (surviving company: TaoTao, dissolving company: SBI VC Trade; subsequently continued as the current SBI VC Trade Co., Ltd. via a trade-name change) |
-| 2021-12-01 | TaoTao × SBI VC Trade merger took effect (scheduled date). Integrated under the brand name VCTRADE |
-| 2022  | Acquired Type 1 financial instruments business (Kinsho 第3247号) (crypto-asset-derivatives capable) |
-| 2024-05  | DMM Bitcoin suffered unauthorized outflow of about 482億円 equivalent of BTC (the company was unrelated but was later selected as the migration destination) |
+| 2021-12-01 | Merger of TaoTao and the former SBI VC Trade took effect |
 | 2024-12-02 | Concluded a **basic agreement** toward the migration of accounts / custodied assets with DMM Bitcoin |
-| 2025-03-04 | Completed registration as an **electronic-payment-instruments operator** with the Director-General of the Kanto Local Finance Bureau 第00001号 (domestic-first) |
-| 2025-03-08 | **Completed migration** of DMM Bitcoin's accounts / custodied assets to SBI VC Trade (all customers) |
-| 2025-03-25 | Launched USDC general-public trading (the only domestic exchange where USDC can be bought/sold in JPY) |
+| 2025-03 | Registered as an **electronic-payment-instruments operator**, Kanto Local Finance Bureau No. 00001 |
+| 2025-03-08 | DMM Bitcoin accounts and custodied assets migrated to SBI VC Trade |
 | 2026-01-30 | Announced the merger resolution of SBI VC Trade and BITPoint Japan Co., Ltd. (SBI VC Trade as the surviving company, effective date scheduled for 2026年4月1日) |
-| 2026-04-01 | BITPoint Japan absorption-merger took effect (both brands maintained in parallel for the time being) |
-| 2026-03-18 | Launched USDC lending service (domestic-first) |
+| 2026-04-01 | Absorption merger of BITPoint Japan took effect |
 
 ## 7. Strategic trends
 
-- **Strategic significance of the 3 -type license structure**: consolidating crypto-asset exchange business (spot) · financial instruments business (derivatives) · electronic-payment-instruments business (stablecoins) into a single corporation is unique within Japan. In particular, the electronic-payment-instruments business (USDC handling) completed registration on 2025-03 , and is developing JPY-denominated spot exchange and lending of Circle's USDC.
-- **Synergy within the SBI Group**: a structure that enables linkage with financial-instruments operators under the same group, such as SBI Securities (Kinsho 第44号, JVCEA #1041) · BI FXTRADE (Kinsho 第2635号, JVCEA #1026). SBI Holdings has an investment / partnership relationship with Ripple Labs (XRP-related).
+- **Three-registration business structure**: the official company profile lists crypto-asset exchange, Type I financial instruments, and electronic-payment-instruments registrations. This entry makes no peer-comparison exclusivity claim.
+- **Corporate relationships within the SBI Group**: SBI Securities (Kinsho No. 44, JVCEA #1041) and SBI FXTRADE (Kinsho No. 2635, JVCEA #1026) are financial-instruments operators in the same group. Corporate relationships alone are not used to infer service linkage or integration. SBI Holdings has an investment and partnership relationship with Ripple Labs (XRP-related).
 - **BITPoint Japan merger** (effective 2026-04 ) aims at concentrating management resources within the group in anticipation of strengthened crypto-asset regulation under the Financial Instruments and Exchange Act (per the official announcement). Even after the merger, the 2 brands VCTRADE and BITPOINT will be maintained for the time being.
 - Has set up a **point of contact for MTGOX creditors**, and is also involved in the asset return associated with the Mt. Gox liquidation (details within the scope of public information).
 

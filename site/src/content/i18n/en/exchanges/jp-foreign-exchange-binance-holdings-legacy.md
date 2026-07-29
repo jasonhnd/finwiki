@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-foreign-exchange-binance-holdings-legacy
-source_hash: f577a319906563b6
+source_hash: b5c4655a4a753337
 lang: en
 status: machine
 fidelity: ok
 title: "Binance Holdings Limited — Japan FSA warning target・unregistered overseas operator (historical record)"
-translated_at: 2026-05-31T05:31:05.769Z
+translated_at: 2026-07-29T12:08:22.000Z
 ---
 
 # Binance Holdings Limited — Japan FSA warning target・unregistered overseas operator (historical record)
@@ -23,19 +23,19 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 **Relationship between Binance Holdings Limited and Binance Japan Co., Ltd.**:
 
+The following is the Japanese regulatory distinction based on the FSA's warning list for unregistered operators and the current JVCEA member list. It does not infer Binance Holdings Limited's global corporate location or intragroup capital relationships. ^[Sources: https://www.fsa.go.jp/policy/virtual_currency02/index.html; https://jvcea.or.jp/member/.]
+
 | Item | Binance Holdings Limited (this entry) | Binance Japan Co., Ltd. |
 |------|----------------------------------------|------------------------|
-| Character | Parent of the global Binance group | Operating entity for the Japanese domestic business |
-| Location | Hong Kong (as of 2018年) → unknown (2021年) → France and other countries | 〒102-0084  9-3  Nibancho, Chiyoda-ku, Tokyo |
-| FSA response | Warning target as an unregistered operator (2018, 2021) | FSA registration number Director-General of the Kanto Local Finance Bureau 第00031号 (2022年10月–) |
-| Regulatory status | Being unregistered in Japan became an issue (historical) | Duly registered operator (active) |
+| Entity identified in Japan | Overseas entity named in FSA warning letters | Japanese entity listed in the current JVCEA member list |
+| FSA response | Warned as an unregistered operator on 2018-03-23 and 2021-06-25 | Crypto-asset exchange operator, Director-General of the Kanto Local Finance Bureau No. 00031 |
+| Treatment in this entry | Historical record of unregistered-operation warnings | See the separate active-entity entry [[exchanges/jp-exchange-binance-japan]] |
 
 - **Trade name**: Binance Holdings Limited
 - **Founder**: Changpeng Zhao (Zhao Changpeng, commonly known as CZ)
 - **Established**: 2017年 (CZ, a Chinese-Canadian, began the venture in Shenzhen and later incorporated it as a Hong Kong entity)
 - **Service launch**: 2017年7月 (the global exchange Binance.com)
 - **Major locations (chronological)**: Shanghai/Shenzhen (2017) → Hong Kong (2018) → Malta (2018–) → Cayman Islands, etc. (the 2020年s)
-- **Global trading volume**: The world's largest crypto-asset exchange (spot and derivatives combined, 2021–2024年)
 
 ## 2. Course of licensing & unregistered status in Japan
 
@@ -49,27 +49,15 @@ Binance Holdings Limited (and global Binance) provided services to Japanese resi
 
 ## 3. Business expansion in Japan (history)
 
-Global Binance's Japanese-language service was offered to Japanese residents from the latter half of 2017年. In addition to spot trading of BTC・ETH and others, it also offered derivatives (futures・options), but these were outside the framework of Japanese regulation.
-
-- **Handled currencies**: Hundreds of symbols globally (no symbol restrictions tailored for Japan)
-- **Characteristics**: The fact that Japanese residents could effectively use all services, including derivatives and margin trading, is a major difference from registered Japanese operators
+The FSA warning material states that Binance Holdings Limited was conducting an unregistered crypto-asset exchange business with Japanese residents as counterparties on the warning dates. This entry does not infer the number of assets or the scope of Japan-facing products from that material.
 
 ## 4. Scope of business (for Japanese residents・during the unregistered period)
 
-Because it was not a registered operator under Japanese supervision, Japan's investor-protection regulations (segregated management・compensation system・symbol screening, etc.) did not apply.
-
-- Spot trading (Spot)
-- Derivatives・futures
-- Margin trading (leverage)
-- NFT marketplace
-- Staking・Earn services, etc.
+The FSA warning material does not enumerate products or deposit and withdrawal functions. This entry is limited to the regulatory fact of unregistered operation on the warning dates and does not fix a historical product list.
 
 ## 5. Market share & presence (during the unregistered period)
 
-While no official statistics exist, the fact that the FSA issued 2 warnings in total indicates the magnitude of global Binance's presence in the Japanese market.
-
-- At the time the warnings were issued, global Binance was the exchange with the world's largest trading volume
-- The number of Japanese-resident users and their trading volume are not disclosed
+The FSA warning material does not contain figures that permit comparison of Japan-resident user counts, trading volume, or market share with peers. Warning frequency is not used as a proxy for market size, and this entry does not infer a global rank.
 
 ## 6. History & major incidents
 
@@ -83,7 +71,7 @@ While no official statistics exist, the fact that the FSA issued 2 warnings in t
 
 ### Regulatory-avoidance period (2018–2021年)
 
-- **2018–2020年**: Global Binance grew into the world's largest exchange. Use by Japanese residents is believed to have continued, but official Japan-facing marketing was scaled back
+- **2018–2020**: This section centers on the warning facts confirmed by the FSA and does not infer the scale of Japan-resident use or the status of Japan-facing marketing
 - **2019年**: BNB (Binance Coin) migrated to its own chain (Binance Chain)
 - **2020年**: Binance Smart Chain (now BNB Chain) launched. Entered the DeFi ecosystem
 - **2021年6月**: **The FSA issued its 2nd warning letter to Binance Holdings Limited**. Continued provision of services to Japanese residents was confirmed, and it was warned as an unregistered operator. At the time, Binance's corporate location was disclosed as "unknown". Binance rebutted that it was not actively soliciting
@@ -107,17 +95,11 @@ While no official statistics exist, the fact that the FSA issued 2 warnings in t
 
 ### Sorting out the relationship with the Japanese entity (reference)
 
-The above sanctions and settlement by U.S. authorities targeted the global Binance Holdings Limited, and **no direct administrative disposition against the Kanto-Local-Finance-Bureau-registered Binance Japan Co., Ltd. has been disclosed by Japanese authorities** (as of 2026年5月).
+The above sanctions and settlement by U.S. authorities targeted global Binance Holdings Limited and are kept distinct from the FSA registration of Binance Japan Co., Ltd. as a separate entity and procedure.
 
 ## 7. Historical significance & positioning
 
-The Binance Holdings Limited case is noteworthy in the history of Japanese crypto-asset regulation in the following respects:
-
-1. **The only major case in which a foreign-capital major resolved its own FSA-unregistered status through Japanese incorporation**. While almost all global majors such as Coinbase・Kraken・Bybit either withdrew from or never entered the Japanese market, Binance established a local entity (Binance Japan) and obtained FSA registration, achieving regular entry (Kraken established and registered Kraken Japan in 2018年, after which, in 2023年, Binance Japan indirectly inherited it in the form of acquiring its predecessor SEBC)
-
-2. **A case of the effectiveness of FSA warnings**: Neither the 2018年 nor the 2021年 warning led to an immediate service halt, but the accumulation of warnings is believed to have been one factor in the eventual motivation toward incorporation and regular registration
-
-3. **The relationship between global regulatory pressure and Japanese entry**: Since the 43億-dollar settlement with U.S. authorities in 2023年, the Binance group has shifted toward substantially strengthening its compliance framework, and the Japanese entity is positioned within that context
+The regulatory milestones that can be confirmed in Japan are the 2018 and 2021 warnings to Binance Holdings Limited and the registration of Binance Japan Co., Ltd. as a separate entity. This entry does not infer whether the warnings motivated incorporation or whether this was unique among peers.
 
 ## 8. Related people
 

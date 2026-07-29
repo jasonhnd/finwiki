@@ -23,9 +23,9 @@
     "domain": "exchanges",
     "type": null,
     "created": "2026-05-18",
-    "last_updated": "2026-05-21",
-    "last_tended": "2026-05-21",
-    "review_by": "2027-05-18",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "fintech",
@@ -39,10 +39,14 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://jpyc.co.jp/about",
+      "https://corporate.jpyc.co.jp/",
       "https://jpyc.co.jp/",
       "https://jvcea.or.jp/member/",
-      "https://coinpost.jp/?s=JPYC+%E8%B3%87%E9%87%91%E7%A7%BB%E5%8B%95%E6%A5%AD"
+      "https://corporate.jpyc.co.jp/news/posts/first-yen-stablecoin-jpyc",
+      "https://corporate.jpyc.co.jp/news/posts/jpyc-ex-launch",
+      "https://corporate.jpyc.co.jp/news/posts/jpyc-prepaid-renaming",
+      "https://corporate.jpyc.co.jp/news/posts/series-b-first-close",
+      "https://corporate.jpyc.co.jp/news/posts/series-b-second-close"
     ]
   },
   "summary": "This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.",
@@ -84,18 +88,21 @@
       "https://finwiki.zksc.io/ja/fintech/stablecoin-channel-japan-sbi-jpyc-ring/",
       "https://finwiki.zksc.io/ja/payment-firms/jpyc/"
     ],
-    "external_links_count": 4,
+    "external_links_count": 7,
     "external_links": [
-      "https://coinpost.jp/?s=JPYC+%E8%B3%87%E9%87%91%E7%A7%BB%E5%8B%95%E6%A5%AD",
-      "https://jpyc.co.jp/",
-      "https://jpyc.co.jp/about",
+      "https://corporate.jpyc.co.jp/",
+      "https://corporate.jpyc.co.jp/news/posts/first-yen-stablecoin-jpyc",
+      "https://corporate.jpyc.co.jp/news/posts/jpyc-ex-launch",
+      "https://corporate.jpyc.co.jp/news/posts/jpyc-prepaid-renaming",
+      "https://corporate.jpyc.co.jp/news/posts/series-b-first-close",
+      "https://corporate.jpyc.co.jp/news/posts/series-b-second-close",
       "https://jvcea.or.jp/member/"
     ]
   },
   "metrics": {
-    "nonspace_chars": 4408,
-    "word_like_tokens": 769,
-    "inbound_wikilinks_count": 14,
-    "last_modified": "2026-06-04"
+    "nonspace_chars": 5352,
+    "word_like_tokens": 885,
+    "inbound_wikilinks_count": 12,
+    "last_modified": "2026-07-29"
   }
 }

@@ -24,9 +24,9 @@
     "domain": "exchanges",
     "type": null,
     "created": "2026-05-24",
-    "last_updated": "2026-05-24",
-    "last_tended": "2026-05-24",
-    "review_by": "2026-11-20",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "exchanges",
@@ -52,7 +52,7 @@
       "https://www.fca.org.uk/firms/cryptoassets"
     ]
   },
-  "summary": "世界の主要 VASP (Virtual Asset Service Provider) 規制は 8 極構造 に収斂してきた: 日本 (FSA + JVCEA 二層) / 韓国 (FSC + FIU 単一) / 香港 (SFC VATP) / シンガポール (MAS DPT) / EU (MiCA CASP) / 米国 (連邦 + 50 州フラグメント) / UAE (VARA 単独) / 英国 (FCA AML 中心 + 段階的本格化)。本エントリは 法源・ライセンス階層・必要資本・分別管理 (cold storage %)・AML/Travel Rule・ステーブルコイン規制・クロスボーダー",
+  "summary": "本エントリは、日本・韓国・香港・シンガポール・EU・米国・UAE・英国という 8 つの法域を、現行規制の確認入口として並べる。制度が単一モデルへ収斂したとは扱わず、法源、license class、資産分別、AML / Travel Rule、stablecoin、cross-border、marketing、enforcement、開示、例外を法域ごとの一次資料で確認する。各極の詳細は exchanges/jp-vasp-regulatory-timeline / exchanges/eu-mica-casp-regime-overview / exchanges/us-crypto-lic",
   "headings": [
     "グローバル VASP 規制 8 極比較マトリクス — JP / KR / HK / SG / EU / US / UAE / UK",
     "TL;DR",
@@ -66,7 +66,7 @@
     "F. AML / Travel Rule 実装"
   ],
   "body_links": {
-    "wikilinks_count": 20,
+    "wikilinks_count": 19,
     "wikilinks": [
       "exchanges/INDEX",
       "exchanges/coincheck-nem-hack-detailed-analysis",
@@ -76,7 +76,6 @@
       "exchanges/fsa-vasp-registration-system",
       "exchanges/global-cex-top10-comparison",
       "exchanges/hk-sfc-vasp-licensing-overview",
-      "exchanges/jp-cex-staking-lending-regulation",
       "exchanges/jp-vasp-aml-travel-rule-implementation",
       "exchanges/jp-vasp-cold-storage-segregation-rules",
       "exchanges/jp-vasp-regulatory-timeline",
@@ -98,7 +97,6 @@
       "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
       "https://finwiki.zksc.io/ja/exchanges/global-cex-top10-comparison/",
       "https://finwiki.zksc.io/ja/exchanges/hk-sfc-vasp-licensing-overview/",
-      "https://finwiki.zksc.io/ja/exchanges/jp-cex-staking-lending-regulation/",
       "https://finwiki.zksc.io/ja/exchanges/jp-vasp-aml-travel-rule-implementation/",
       "https://finwiki.zksc.io/ja/exchanges/jp-vasp-cold-storage-segregation-rules/",
       "https://finwiki.zksc.io/ja/exchanges/jp-vasp-regulatory-timeline/",
@@ -111,13 +109,22 @@
       "https://finwiki.zksc.io/ja/domains/financial-licenses/",
       "https://finwiki.zksc.io/ja/fintech/global-stablecoin-regulatory-five-pole-matrix/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 8,
+    "external_links": [
+      "https://www.dfs.ny.gov/virtual_currency_businesses",
+      "https://www.esma.europa.eu/policy-activities/crypto-assets",
+      "https://www.fca.org.uk/firms/cryptoassets",
+      "https://www.fsa.go.jp/en/policy/virtual_currency/",
+      "https://www.fsc.go.kr/eng/",
+      "https://www.mas.gov.sg/regulation/payments",
+      "https://www.sfc.hk/en/Rules-and-standards/Suitability-requirements/Virtual-asset-related-products-and-services",
+      "https://www.vara.ae/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 11897,
-    "word_like_tokens": 2107,
+    "nonspace_chars": 8966,
+    "word_like_tokens": 1442,
     "inbound_wikilinks_count": 64,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-29"
   }
 }

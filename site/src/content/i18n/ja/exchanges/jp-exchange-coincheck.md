@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-exchange-coincheck
-source_hash: 7e21bf0374c5fbe1
+source_hash: 5c3f40e1ad049076
 lang: ja
 status: machine
 fidelity: ok
 title: "コインチェック株式会社 — 日本の暗号資産交換業者概観"
-translated_at: 2026-06-02T12:19:04.255Z
+translated_at: 2026-07-29T11:33:00Z
 ---
 
 # コインチェック株式会社 — 日本の暗号資産交換業者概観
@@ -37,7 +37,7 @@ translated_at: 2026-06-02T12:19:04.255Z
 
 ## 3. 取扱通貨
 
-- **取扱銘柄数**：2022年9月時点で18銘柄（+1 QoQ）。以後も随時拡充継続
+- **取扱銘柄数**：変動するため固定数を本項へ転記せず、Coincheck の現行取扱暗号資産ページを優先する
 - **主要銘柄**：BTC、ETH、ETC、XRP、NEM（XEM）、LTC、XLM、MONA、BAT、QTUM、LSK、XEM、ENJ、SAND、AXS など
 - **特色**：国内で早期に多銘柄対応。IEO（Initial Exchange Offering）機能を国内初導入。NFT マーケットプレイス（Coincheck NFT）を運営。現物中心で、証拠金・デリバティブ取引は提供していない
 
@@ -60,9 +60,11 @@ translated_at: 2026-06-02T12:19:04.255Z
   - 2023年6月末：約3,465億円
   - 2024年12月末：約1兆305億円（Coincheck Group N.V. 財務開示 2025-02）
 - **取引高**：現物取引高 2Q FYE Mar.2022（3ヶ月）7,695百万円（当時）。市場低迷期（2023年頃）は大幅縮小。市況回復後の2024年度は大幅拡大。個別月次データは JVCEA 統計参照
-- **競合内ポジション**：認証口座数ベースで国内最大規模。ビットフライヤー・GMOコイン等とともに上位3社の一角
+- **競合内ポジション**：上記は各開示時点の履歴値であり、2026年の現在順位や「上位3社」を意味しない。同一期間・同一定義の現行公式値なしに市場順位を断定しない
 
 ## 6. 沿革・重大事件
+
+以下の表は Coincheck 会社概要、FSA/JVCEA 登録資料、金融庁の行政処分資料、および SEC の Business Combination 開示で確認できる節目に限定する。事件額・上場日・取引構造は各一次資料の定義に従う。^[出典: https://coincheck.com/ja/info/company; https://jvcea.or.jp/member/; https://www.sec.gov/Archives/edgar/data/1843993/000121390024107527/ea022426401ex99-1_thunder4.htm; https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx.]
 
 | 年月 | 事項 |
 |------|------|
@@ -82,10 +84,10 @@ translated_at: 2026-06-02T12:19:04.255Z
 ## 7. 戦略動向
 
 - **グローバル資本市場への接続**：Nasdaq 上場後、米国の機関投資家向け IR 活動を強化。Coincheck Group N.V. として F-1 / F-3 / 6-K 等の SEC 継続開示を実施（CIK: 0001913847）
-- **Web3 / メタバース展開**：国内 NFT プラットフォームの No.1 ポジション維持を目指し、IP ホルダーとの提携を継続
+- **Web3 / メタバース展開**：Coincheck NFT と IP ホルダーとの提携を展開。広告上の順位を現行市場順位として転用しない
 - **IEO 拡大**：国内初の IEO サービスを活かし、プロジェクト誘致を継続
 - **Coincheck Labs**：ブロックチェーン関連スタートアップへの投資・インキュベーション継続
-- **取扱銘柄拡充**：現物・新規銘柄の追加。2024-2025年の市場回復期に口座開設・預かり資産が急増
+- **取扱銘柄**：追加・廃止があり得るため、現行一覧を優先する。口座・預かり資産の変化は同じ開示期間・定義で比較する
 
 ## 8. 関連人物
 
@@ -97,7 +99,7 @@ translated_at: 2026-06-02T12:19:04.255Z
 ## 関連項目
 
 - [[fintech/japan-financial-regulation]] — 日本金融規制全体
-- [[exchanges/jp-exchange-bittrade]] — ビットトレード（マネックスグループ系列）
+- [[exchanges/jp-exchange-bittrade]] — 同業の暗号資産交換業者（マネックスグループ系列ではない）
 - [[exchanges/jp-exchange-bitflyer]] — bitFlyer
 - [[exchanges/jp-exchange-gmo-coin]] — GMOコイン
 - [[fintech/japan-stablecoin-regulatory-landscape]] — 関連 ステーブルコイン 制度
@@ -107,6 +109,7 @@ translated_at: 2026-06-02T12:19:04.255Z
 
 ## 出典
 
+- [Coincheck 会社概要](https://coincheck.com/ja/info/company)（取得 2026-07-29）
 - [JVCEA 会員一覧](https://jvcea.or.jp/member/)（取得 2026-05-18）
 - [SEC 8-K: Thunder Bridge IV × Coincheck Closing Press Release 2024-12-10](https://www.sec.gov/Archives/edgar/data/1843993/000121390024107527/ea022426401ex99-1_thunder4.htm)（取得 2026-05-18）
 - [SEC Form 425: Coincheck Group B.V. / Monex Group 2Q FYE Mar.2023 Results 2022-10-28](https://www.sec.gov/Archives/edgar/data/1913847/000121390022066936/ea167724-425_coincheck.htm)（取得 2026-05-18）

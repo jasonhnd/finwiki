@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-custody-fireblocks-japan
-source_hash: 01cf73e2747511b3
+source_hash: ac7e1edb62622928
 lang: ja
 status: machine
 fidelity: ok
 title: "Fireblocks — グローバル MPC カストディ・インフラプロバイダー（日本展開）"
-translated_at: 2026-06-02T12:19:04.241Z
+translated_at: 2026-07-29T11:02:23.000Z
 ---
 ﻿
 # Fireblocks — グローバル MPC カストディ・インフラプロバイダー（日本展開）
@@ -15,13 +15,13 @@ translated_at: 2026-06-02T12:19:04.241Z
 
 本項目は [[exchanges/INDEX|exchanges index]] の配下に位置する。隣接文脈は [[exchanges/fsa-vasp-registration-system|FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件]]、より広いシステム境界は [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] とあわせて読む。
 
-> FSA 暗号資産交換業登録なし · JVCEA 非加盟 · B2B インフラベンダー · 米国本社（ニューヨーク）· 東京拠点あり（社員 5 名前後 · LinkedIn 確認）
+> Fireblocks 公式が示す digital asset infrastructure platform · 日本関連の公開事例は Mitsui & Co. Digital Commodities customer story を参照
 
 ## 1. 法人・株主
 
 - **商号（グローバル）**: Fireblocks Inc.
 - **英文名**: Fireblocks
-- **日本拠点**: 正式法人設立は未確認（2026-05 時点）。LinkedIn では Tokyo ベースの社員が 5 名前後在籍確認
+- **日本関連の公開範囲**: 公式 customer story で Mitsui & Co. Digital Commodities の事例を確認できる。国内拠点の法人形態や人数は、この項目では推定しない
 - **グローバル本社**: New York City, USA（登記上）。R&D・創業は イスラエル Tel Aviv
 - **設立**: 2018 年（イスラエル発、その後米国 HQ に移行）
 - **形態**: 非上場プライベートカンパニー
@@ -30,11 +30,10 @@ translated_at: 2026-06-02T12:19:04.241Z
 
 ## 2. 牌照・登録状況
 
-- **日本 FSA 暗号資産交換業**: 登録なし（インフラ SaaS ベンダーとして日本 VASP に B2B 提供）
-- **JVCEA 会員**: 非加盟
+- **日本での規制上の位置づけ**: Fireblocks は公式資料で digital asset infrastructure platform と説明される。特定 service に登録が必要かは提供主体と業務実態に依存するため、FSA の現行一覧と専門家確認を要する
+- **業界団体**: JVCEA などの現行 membership は各団体の公式会員一覧で確認し、この項目では未掲載を根拠に否定しない
 - **米国内ライセンス**: Fireblocks Trust Company（米国信託会社）を保有（2024 年以降）
 - **EU**: MiCA 対応インフラとして欧州銀行・機関への提供を拡大中
-- **日本規制上の位置づけ**: 日本国内の VASP・銀行・信託銀行向けにシステム・インフラを提供する外資系ソフトウェアベンダー。暗号資産を自ら保管・取り扱う事業者ではないため、日本暗号資産交換業登録は不要の構造
 
 ## 3. 対応アセット
 
@@ -56,62 +55,37 @@ translated_at: 2026-06-02T12:19:04.241Z
 - **DeFi Access**: policy engine と連動した DeFi プロトコル接続
 - **COR Compliance**: MiCA・AML/CFT 対応コンプライアンスパッケージ
 
-## 5. 市場ポジション・競合比較
+## 5. 公式サイトで確認できる製品領域
 
-### グローバル institutional カストディ市場
+出典: 表全体は [Fireblocks About](https://www.fireblocks.com/about/) の製品ナビゲーションと説明（2026-07-29 確認）に基づく。
 
-| ベンダー | 特徴 | ポジション |
-|---|---|---|
-| **Fireblocks** | MPC + policy engine、SaaS、2,400+ 機関 | グローバルシェア最大級の機関向け MPC インフラ |
-| BitGo | 信託 + MPC 併用、米国規制対応 | 機関向け老舗。直接カストディ も |
-| Anchorage Digital | 連邦銀行 charter 保有（米国唯一） | 規制準拠型、米国中心 |
-| Ledger Enterprise | HSM + Vault、フランス発 | 大型銀行向け HW 重視 |
-| Komainu | 野村 + Ledger + CoinShares 系 | 機関向け、アジア展開（詳細は [[exchanges/jp-custody-komainu]] 参照） |
+| 製品領域 | 公式サイト上の位置づけ |
+|---|---|
+| Wallets | Treasury management、Wallet-as-a-Service、embedded wallets、wallet connectors |
+| Security & governance | Security、Policy Engine、DeFi security suite |
+| Financial applications | Tokenization、Earn、Staking、Off Exchange |
+| Reconciliation & compliance | Compliance integrations、COR Compliance、Financial Data |
+| Network | デジタル資産エコシステム向け connectivity layer |
 
-### 日本国内競合・住み分け
+競合順位、シェア、個社採用、国内拠点人数はライブな個別調査事項であり、この製品表から推定しない。
 
-**vs. [[exchanges/jp-custody-ginco|Ginco]]（国内独立系）**:
-- Ginco は「日本国内シェア No.1 暗号資産ビジネス向けウォレット」を掲げ、国内 VASP・金融機関の MPC ウォレット需要を獲得。日本語サポート・FSA 規制対応ノウハウ・国産 HSM 連携が強み（業界配置は [[exchanges/jp-institutional-custody-three-pillars|JP institutional カストディ三本柱]] 参照）
-- Fireblocks は同一領域で競合するが、グローバルネットワーク（Fireblocks Network）・豊富な DeFi 統合・policy engine の完成度で差別化。大手メガバンク・外資系機関の選定実績を積む
-- 実際に STIR（国内 Web3 コンサル）が Fireblocks を用いた CoinTrade 向けステーキングシステム構築支援を担い（2024-02）、国内ベンダー経由での採用も進む
+## 6. 公式資料で確認できる沿革・日本事例
 
-**vs. Komainu（Nomura 系）**:
-- Komainu は機関向け規制準拠型カストディアンとして直接カストディ（ Jersey TCSP ライセンス・Dubai VARA ライセンス）を提供。自社がカストディアンになる
-- Fireblocks は「インフラ SaaS」として金融機関が自ら カストディ業務を担うための道具を提供。ビジネスモデルが異なり、競合というより住み分け
-- ただし信託銀行・VASP の自社カストディ強化案件では、Fireblocks vs Komainu の検討が並立することがある
-
-## 6. 沿革・日本展開
+出典: 表全体は [Fireblocks About](https://www.fireblocks.com/about/) と [Mitsui customer story](https://www.fireblocks.com/customers/mitsui/)（2026-07-29 確認）に基づく。
 
 | 年月 | 出来事 |
 |---|---|
-| 2017 | Lazarus Group による韓国取引所 $200M 窃取事件を調査中、Michael Shaulov ら Check Point 出身者が危機感 |
-| 2018 | Fireblocks Inc. 設立（イスラエル）|
-| 2019-06 | ステルスから $16M 調達で正式発表 |
-| 2020-11 | Series B $30M（Paradigm リード） |
-| 2021-03 | Series C $133M・BNY Mellon 出資参加 |
-| 2021-07 | Series D $310M（Sequoia 共同リード）、バリュエーション $2.2B |
-| 2022-01 | Series E $550M、バリュエーション $8B |
-| 2022 | First Digital（イスラエル stablecoin 決済）を $100M で買収。FIS との機関向け共同展開 |
-| 2023 | BlockFold（オーストラリア、スマートコントラクト）買収 |
-| 2024-02 | 日本：STIR が Fireblocks MPC を活用した CoinTrade ステーキングシステム構築支援 |
-| 2025-04 | 日本：三井住友フィナンシャルグループ・三井住友銀行・TIS・Ava Labs・Fireblocks の 5 社がステーブルコイン商用化を共同検討（発表 2025-04-07） |
-| 2025-09 | Fireblocks Network for Payments ローンチ（ステーブルコイン決済専用ネットワーク） |
-| 2025-10 | Dynamic（米国、ウォレット技術）を $90M で買収 |
-| 2026-01 | TRES Finance（暗号資産会計）を $130M で買収 |
-| 2026-05 | 日本：AndGo ウォレット（国産 HW ウォレット）との統合実証完了（インタートレードらと共同） |
+| 2017 | 後の共同創業者が Check Point 在籍中に韓国取引所への Lazarus Group 攻撃を調査 |
+| 2018 | Fireblocks を設立 |
+| 2022-02-17 | Mitsui & Co. Digital Commodities が事業を開始し、Zipangcoin を発行 |
+| 2023 | MDC が platinum / silver-backed token を追加 |
+| 公表時点 | MDC は multi-chain 展開の infrastructure provider として Fireblocks を選定 |
 
-**日本早期関与**:
-- みんなの銀行・TIS・Solana Japan との stablecoin + Web3 ウォレット事業化共同検討（時期未確定、2024-2025 頃）
-- Mitsui & Co. Digital Commodities（MDC）：三井物産が設立した RWA トークン会社。Fireblocks を multi-chain 展開基盤として採用。Zipangcoin（金担保）・プラチナ・銀担保トークンを発行。MDC は JPY 39 億円の発行上限を開示（2022-02 以降稼働）
+**日本関連の直接確認例**: Fireblocks の [Mitsui customer story](https://www.fireblocks.com/customers/mitsui/) は、Mitsui & Co. Digital Commodities が multi-chain 展開の infrastructure provider として Fireblocks を選定したと説明している。
 
-## 7. 直近動向（2025-2026）
+## 7. 更新境界
 
-- **2026-05 時点でグローバル 2,400 機関**が Fireblocks を利用（$10T+ 取引、550M+ ウォレット）
-- **Asian Banker Business Achievement Awards 2026** で "Best Blockchain Technology Platform (Digital Assets)" 受賞（Kuala Lumpur、2026）
-- 欧州銀行 12 行コンソーシアム「Qivalis」が EUR ステーブルコイン発行基盤として採用（2026）
-- Western Union が $USDPT ステーブルコインの 決済インフラとして採用（フィリピン・ボリビア先行展開）
-- **日本**: 2026-05 に CoinPost CEO インタビュー「Fireblocks CEOが語る日本市場戦略」報道あり（詳細内容は公開記事要確認）
-- IPO 観測あり：Bloomberg 2025-11「Fireblocks が社員持分買い戻し向けの資金調達を検討中」と報道
+顧客数、処理額、対応 chain 数、資金調達、買収、IPO 観測は時点依存であるため、本ページの比較表では固定しない。更新時は Fireblocks の現行 About、product page、customer story、当事者 release を直接確認する。
 
 ## 8. 経営陣・日本拠点
 
@@ -120,10 +94,8 @@ translated_at: 2026-06-02T12:19:04.241Z
 - **Pavel Berengoltz** — CTO・共同創業者
 - **Idan Ofrat** — CPO・共同創業者
 
-**日本拠点**:
-- LinkedIn で Tokyo ベースの社員 5 名前後を確認（2026-05 時点）
-- 日本拠点代表・Country Manager の氏名は公表確認できず（公表なし）
-- 拠点の法人登記形態（支店 / 合同会社 / 連絡事務所など）は未確認
+**日本関連情報**:
+- 日本の法人形態、代表者、headcount は、公式な会社開示または登記資料を取得した時点で更新する。SNS だけから固定値や不存在を推定しない
 
 ## 関連項目
 
@@ -142,7 +114,6 @@ translated_at: 2026-06-02T12:19:04.241Z
 - [Fireblocks About](https://www.fireblocks.com/about/)（取得 2026-05-19）
 - [Fireblocks Mitsui Customer Story](https://www.fireblocks.com/customers/mitsui/)（取得 2026-05-19）
 - [Fireblocks — Wikipedia](https://en.wikipedia.org/wiki/Fireblocks)（取得 2026-05-19）
-- [Fireblocks LinkedIn](https://www.linkedin.com/company/fireblocks/)（取得 2026-05-19）
 - [CoinPost Fireblocks 検索結果](https://coinpost.jp/?s=Fireblocks)（取得 2026-05-19）
 - [あたらしい経済 Fireblocks 三井住友](https://www.neweconomy.jp/?s=Fireblocks+%E4%B8%89%E4%BA%95%E4%BD%8F%E5%8F%8B)（取得 2026-05-19）
 - [CoinPost: 三井住友銀行・Fireblocks・Ava Labs・TIS ステーブルコイン検討](https://coinpost.jp/?s=Fireblocks+SMBC)（取得 2026-05-19）

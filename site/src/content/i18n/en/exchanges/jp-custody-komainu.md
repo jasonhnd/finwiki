@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-custody-komainu
-source_hash: 524ad71d02b058e5
+source_hash: efe75a8413537e33
 lang: en
 status: machine
 fidelity: ok
 title: "Komainu — institutional digital-asset custody specialist"
-translated_at: 2026-06-18T23:33:48.290Z
+translated_at: 2026-07-29T11:23:34.000Z
 ---
 
 # Komainu — institutional digital-asset custody specialist
@@ -28,12 +28,14 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 ## 2. License / registration status
 
+This table is limited to Komainu's current entity-level regulatory disclosures and official history. The FCA registration belongs to Komainu UK, JFSC regulation to Komainu (Jersey), and the VARA license to Komainu MEA; none is a group-wide license. ^[Sources: https://komainu.com/entities/; https://komainu.com/about/.]
+
 | Regulatory authority | Type | Time of acquisition |
 |---------|------|---------|
-| Jersey Financial Services Commission (JFSC) | registration (Regulatory Approval) | 2019 年 |
-| UK Financial Conduct Authority (FCA) | Crypto Asset registration | 2025 年 |
-| Italy OAM (Organismo Agenti e Mediatori) | Virtual Asset registration | 2025 年 |
-| VARA (Virtual Asset Regulatory Authority, Dubai) | VASP license | 2023 年 |
+| Jersey Financial Services Commission (JFSC) | Fund-services-business regulation of Komainu (Jersey) Limited | 2019 |
+| UK Financial Conduct Authority (FCA) | MLR registration of Komainu UK Limited (FRN 985974) | 2025 |
+| Italy OAM (Organismo Agenti e Mediatori) | Virtual-asset registration listed in the official history | 2025 |
+| VARA (Virtual Asset Regulatory Authority, Dubai) | VASP custody license of Komainu MEA FZE | 2023 |
 
 - **Japan FSA crypto-asset exchange business**: not registered
 - **JVCEA membership**: not a member
@@ -43,60 +45,54 @@ This entry sits under [[exchanges/INDEX|exchanges index]]. Read it with [[exchan
 
 A specific list of brand names is not disclosed on the official site (as a custody specialist, there is no list of brand names like an exchange).
 
-- supports custody of major crypto assets **centered on BTC**
-- it is confirmed to have, in 2021 年, taken charge of the custody of a Bitcoin ETP (an ETF-like product) of the Swiss Stock Exchange
-- custodial staking support: supports proof-of-stake assets such as ETH (2021 年~)
-- Komainu Connect (2023 年~) covers trading / collateral use / lending and borrowing
-- as of 2026 年 4 月, Komainu CORE (collateral-as-a-service) is deployed
+- The official site presents institutional multi-asset custody and staking but does not publish a fixed list of supported assets
+- Custodial staking lets clients earn on-chain rewards while assets remain in custody
+- Komainu Connect (from 2023) covers trading, collateral use, borrowing, and lending
+- As reviewed in July 2026, Komainu CORE is listed as a current collateral-as-a-service offering; the official page does not state a launch month
 
 ## 4. Business scope
 
 The company's offered services are the 4  pillars of custody-first (centered on custody):
 
 1. **Custody (safekeeping)**: cold custody utilizing MPC (Multi-Party Computation) + HSM (Hardware Security Module) wallet technology. Independently verifiable on-chain segregated management.
-2. **Custodial Staking**: an institutional service that earns on-chain rewards (staking) while keeping assets in custody. Started 2021 年.
-3. **Komainu Connect (collateral management)**: a connection infrastructure that allows assets within custody to be utilized as collateral for trading / borrowing / lending. Started 2023 年. Partnered with major exchanges such as OKX.
-4. **Komainu CORE**: a Collateral-as-a-Service solution that makes digital assets function as regulation-compliant collateral. Began offering 2026 年 4 月.
+2. **Custodial Staking**: an institutional service that earns on-chain rewards while keeping assets in custody.
+3. **Komainu Connect (collateral management)**: infrastructure that allows assets in custody to be used as collateral for trading, borrowing, and lending. Started in 2023 and connects with exchanges including OKX.
+4. **Komainu CORE**: a Collateral-as-a-Service solution that enables digital assets to function as regulated collateral. It was listed on the official site when reviewed in July 2026, but no launch month was stated.
 
 Retail services such as fiat-currency deposit channels are not provided (pure institutional infrastructure).
 
 ## 5. Market position / customer base
 
 - **Target**: institutional investors / financial institutions / sovereign nations / government-affiliated funds
-- **Disclosed customer cases (primary-source confirmed)**:
-  - **UK police**: in 2021 年 1 月, adopted Komainu for the safekeeping of seized crypto assets (disclosed)
-  - **Swiss Stock Exchange-listed Bitcoin ETP**: in 2021 年 1 月, selected as the custody handler of the ETP (disclosed)
-  - **UAE government / VARA-jurisdiction case**: in 2023 年, involvement in a government-affiliated project around the same time as the acquisition of the VARA license in the UAE was reported
-  - **Partnership with OKX (Komainu Connect)**: in 2023 年 6 月, disclosed a partnership for custody connection with OKX
+- **Disclosed service integration**:
+  - **Komainu Connect**: the official history records the service's 2023 launch and exchange connectivity. This entry does not infer individual customer names or contract sizes
 - **Competitive comparison**: competes with institutional-custody providers such as Anchorage Digital, [[exchanges/jp-custody-fireblocks-japan|Fireblocks]], and BitGo (see [[exchanges/global-institutional-custody-five-pillars|グローバル institutional custody 5 本柱]]). The company's differentiation points are multi-regulatory compliance across Jersey / UK FCA / [[exchanges/uae-vara-licensing-overview|VARA]] + affinity with the [[securities-firms/nomura-hd|Nomura]] group.
 - **Number of accounts / AUM in custody**: not disclosed
 
 ## 6. History / major incidents
 
+This chronology includes only milestones stated by Komainu's official About and current service pages. Items supported only by reporting, yen conversions, and launch months not stated in official materials are excluded. ^[Sources: https://komainu.com/about/; https://komainu.com/services/komainu-core/.]
+
 | Period | Event |
 |------|--------|
-| 2018 年 | founded as a three-party joint venture of Nomura HD / CoinShares / Ledger |
-| 2019 年 | obtained Jersey Financial Services Commission (JFSC) registration |
-| 2021 年 1 月 | undertook a case for the safekeeping of the UK police's seized crypto assets |
-| 2021 年 1 月 | selected for the custody of a Swiss Stock Exchange Bitcoin ETP |
-| 2021 年 3 月 | completed Series A financing ($2,500 万) |
-| 2021 年 | integrated MPC technology into the tech stack, started custodial staking |
-| 2023 年 | obtained VARA (Dubai) VASP license |
-| 2023 年 | started Komainu Connect, partnered with OKX |
-| 2024 年 10 月 | acquired the Singapore custody company **Propine**, accelerating Asian-market expansion |
-| 2025 年 1 月 | completed **Series B $7,500 万** (Blockstream led as a strategic investor). Raised in Bitcoin terms (equivalent to approximately 116 億円 in BTC, as of 2025-01 ) |
-| 2025 年 | obtained UK FCA crypto registration, obtained Italy OAM registration |
-| 2026 年 4 月 | announced and began offering **Komainu CORE** (Collateral-as-a-Service) |
+| 2018 | Founded as a three-party joint venture of Nomura HD, CoinShares, and Ledger |
+| 2019 | Obtained Jersey Financial Services Commission (JFSC) registration |
+| March 2021 | Completed a $25 million Series A |
+| 2021 | Integrated MPC technology into its technology stack and launched custodial staking |
+| 2023 | Obtained a VARA (Dubai) VASP license |
+| 2023 | Launched Komainu Connect and connected with OKX |
+| 2025 | Completed a **$75 million Series B**, with Blockstream participating as a strategic investor |
+| 2025 | Obtained UK FCA crypto registration and Italy OAM registration |
+| Reviewed July 2026 | **Komainu CORE** listed as a current service; the official page does not state its launch month |
 
-- no disclosed information on administrative dispositions / hacks / large-scale outages (as of 2026-05 )
+- Within the designated official and regulatory sources reviewed on 2026-07-29, no administrative action, hack, or major outage record was identified; this is not an assertion that none exists
 
 ## 7. Strategic developments (most recent 12  months)
 
-- **Propine acquisition (2024-10)**: acquired Propine, a Singapore-based institutional custody company. Expansion of the footprint in the Asia-Pacific market is the explicit strategic objective.
-- **Blockstream Series B (2025-01)**: raised $75M. Suggests Bitcoin-centered institutional custody + strengthening of the handling of Bitcoin-native assets. At the same time, Adam Back (Blockstream CEO), PeterPaul Pardi, and Nicolas Brand (Blockstream Capital Partners) joined the Board.
-- **FCA registration (2025)**: formalization of service provision in the UK. Strengthening the appeal to institutional investors with a London base.
-- **Komainu CORE (2026-04)**: SaaS-ification of regulation-compliant collateral management. Suggests entry into the digital-collateral market (connection with DeFi, repo transactions, etc.).
-- **Japan expansion**: as of 2026-05 , there is no official announcement for Japan. However, the Nomura-affiliated Laser Digital Japan set up a BTC fund in 2026-01 , and there is also a view that this is groundwork for indirect Japan-oriented services within the group (no official information).
+- **Blockstream Series B (2025)**: the official history records a $75 million Series B and Blockstream's strategic participation. This entry does not infer allocation to particular uses or assets.
+- **Expansion across regulated jurisdictions (2025)**: the official history records UK FCA and Italy OAM registrations. Actual service availability must be checked for the contracting entity and applicable jurisdiction.
+- **Komainu CORE**: listed on the official site as regulated collateral-as-a-service when reviewed in July 2026. Its start date and future product scope are not inferred beyond the published materials.
+- **Japan expansion**: within the Komainu entity and regulatory materials designated for this review and checked on 2026-07-29, no disclosure of a Japanese entity, Japan FSA registration, or launch of a Japan-targeted service was identified. This is not an assertion that none exists, and a Nomura group connection alone is not treated as evidence of Japan expansion.
 
 ## 8. Management
 
@@ -132,6 +128,8 @@ Retail services such as fiat-currency deposit channels are not provided (pure in
 - [Komainu About Us](https://komainu.com/about/) (retrieved 2026-05-19)
 - [Komainu Services](https://komainu.com/services/) (retrieved 2026-05-19)
 - [Komainu official site TOP](https://komainu.com/) (retrieved 2026-05-19)
+- [Komainu Entities](https://komainu.com/entities/) (retrieved 2026-07-29)
+- [Komainu CORE](https://komainu.com/services/komainu-core/) (retrieved 2026-07-29)
 - [CoinPost "Komainu" search results](https://coinpost.jp/?s=Komainu) (retrieved 2026-05-19) — series of articles on the custodian Komainu established by Nomura HD and others (2020-2026 年)
 - [CoinPost — Komainu $75M Series B Blockstream report](https://coinpost.jp/p/596xxx) (retrieved 2026-05-19, article title "Komainu, established by Nomura HD and others, raises approximately 116 億円 in Bitcoin" 2025-01-17)
 - [CoinPost — Propine acquisition report](https://coinpost.jp/?s=Komainu) (retrieved 2026-05-19, article title "Komainu, in which Nomura invests, acquires the Singapore custody company Propine" 2024-10-23)

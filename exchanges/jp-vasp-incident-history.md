@@ -6,9 +6,9 @@ aliases:
   - JP crypto exchange incident timeline
 domain: exchanges
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-06-24
-review_by: 2026-08-08
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
 confidence: likely
 tags:
   - exchanges
@@ -19,6 +19,7 @@ tags:
 sources:
   - https://www.fsa.go.jp/
   - https://jvcea.or.jp/
+  - https://www.npa.go.jp/bureau/cyber/koho/caution/caution20241224.html
 status: active
 ---
 
@@ -26,33 +27,36 @@ status: active
 
 ## 概要
 
-国内 VASP 史は大規模流出事件によって規制が前進してきた歴史である。Mt.Gox (2014) は資金決済法改正の引き金となり、Coincheck (2018) は自主規制機関 JVCEA 発足とコールド保管比率規制の起点、DMM Bitcoin (2024) は北朝鮮 Lazarus 帰属が公的に確認された大型事案として SBI VC トレードへの事業移管を生んだ。流出は単発事件でなく、ホットウォレット 5% 上限・分別管理義務などの「制度反射」を伴って繰り返されてきた。
+本稿は、日本の交換業者または国内顧客に大きく影響した主要流出事案を、公的資料と当事社公表で確認できる金額・資産量・帰結に限定して整理する。事件と法改正・自主規制の時系列は示すが、各事件が単独で特定制度を生んだという因果関係は、公的資料で明記される範囲を超えて断定しない。
 
 ## 主要事件 timeline
 
+下表の金額は事件公表時点の概算で、暗号資産数量と円換算を混同しない。Mt.Gox、Coincheck、Zaif、BITPoint、DMM Bitcoin の公表資料を参照し、別時期の Liquid 事案は同一基準で確認できないため除外した。 ^[Sources: https://www.fsa.go.jp/news/30/virtual_currency/20180308.html; https://www.fsa.go.jp/news/30/virtual_currency/20180925.html; https://www.remixpoint.co.jp/corporate/press/2019/; https://www.npa.go.jp/bureau/cyber/koho/caution/caution20241224.html; https://www.dmm.com/bitcoin/news/20241202_01.html.]
+
 | 年月 | VASP | 流出規模 | 帰結 |
 |------|------|---------|------|
-| 2014-02 | Mt.Gox | 約 850,000 BTC (当時 470 億円相当) | 民事再生 → 破産 → 法的整理係属、2017 資金決済法改正のトリガー |
-| 2018-01 | [[exchanges/jp-exchange-coincheck]] | 約 580 億円 (5.2 億 XEM) | JVCEA 設立 (2018-04)、FSA 業務改善命令、マネックスグループ買収 |
-| 2018-09 | [[exchanges/jp-exchange-zaif]] (旧テックビューロ) | 約 70 億円 | フィスコデジタルアセットグループへの事業譲渡 |
-| 2019-07 | BITPoint Japan | 約 35 億円 | レーザーテック傘下で再建 |
-| 2019-09 | Liquid (QUOINE) | 約 105 億円 (二段階流出) | FTX 買収 → FTX 破綻 → [[exchanges/jp-exchange-custodiem]] へ承継 |
-| 2024-05 | [[exchanges/jp-exchange-dmm-bitcoin]] | 4,502.9 BTC 約 482 億円 | FBI/警察庁が Lazarus / TraderTraitor 帰属を公表、廃業 → SBI VC トレード移管 (2025) |
+| 2014-02 | Mt.Gox | 約 850,000 BTC（顧客分約750,000 BTC、会社分約100,000 BTC とされた） | 法的整理を経て民事再生手続 |
+| 2018-01 | [[exchanges/jp-exchange-coincheck]] | 約523百万 XEM、当時約580億円 | FSA 業務改善命令、のちにマネックスグループが買収 |
+| 2018-09 | [[exchanges/jp-exchange-zaif]]（旧テックビューロ） | 約67億円 | FSA 業務改善命令、Zaif 事業をフィスコ仮想通貨取引所へ譲渡 |
+| 2019-07 | BITPoint Japan | 約30.2億円 | 当時の親会社リミックスポイントが公表し、サービス停止・再開対応を実施 |
+| 2024-05 | [[exchanges/jp-exchange-dmm-bitcoin]] | 4,502.9 BTC、当時約482億円 | 警察庁等が TraderTraitor に帰属、顧客口座・預かり資産を SBI VC トレードへ移管 |
 
 ## 規制反射 (3 段階)
 
-1. **第一段階 (2017 資金決済法改正)** — Mt.Gox を受けて VASP 登録制度導入。暗号資産を「決済手段」として定義
-2. **第二段階 (2018-2020 自主規制 + 業者規律)** — Coincheck/Zaif 連続事案を受け JVCEA を認定自主規制団体に指定。ホットウォレット顧客資産 5% 上限、コールド保管 95% 義務、分別管理 (信託 or 個別管理) 義務化
-3. **第三段階 (2020 金商法改正)** — 暗号資産デリバティブを金商法傘下に取り込み、内部管理態勢・サイバー耐性要件を強化
+1. **2017 資金決済法改正** — 暗号資産交換業者の登録制度を導入
+2. **2018-2020 自主規制・業者規律** — JVCEA が認定資金決済事業者協会となり、法改正・自主規制で顧客資産管理とホットウォレット相当額の履行保証暗号資産などの枠組みを整備
+3. **2020 金商法等改正** — 暗号資産デリバティブを金融商品取引法の枠組みに取り込み、交換業の顧客資産管理規律も改正
+
+この区分は制度の施行順を示す。個別事件との一対一の因果関係を意味しない。
 
 ## Lazarus 帰属の位置づけ
 
-DMM Bitcoin 事案 (2024-05) は、FBI・米財務省・警察庁の共同声明で北朝鮮 Lazarus Group の下位部隊 TraderTraitor の犯行と公的に帰属された日本初の大型 VASP 事案。手口は委託先 [[exchanges/jp-custody-ginco]] のエンジニアを LinkedIn でリクルートを装って侵入、署名鍵を奪取するソーシャル + サプライチェーン複合型。海外無登録警告組と並ぶ「コンプライアンス境界外リスク」と異なり、登録 VASP の内部からの脱出経路リスクを浮き彫りにした。
+DMM Bitcoin 事案について、警察庁は FBI・米国防総省サイバー犯罪センターと連名で、北朝鮮当局と関係する TraderTraitor の関与を公表した。公表資料では、攻撃者が委託先 [[exchanges/jp-custody-ginco]] 従業員に採用連絡を装い、悪意ある Python スクリプトを実行させ、通信システムのセッション情報を悪用して取引依頼を改ざんしたと説明される。署名鍵そのものを奪取したとは記載しない。
 
 ## 関連
 
 - [[exchanges/jp-exchange-coincheck]] · [[exchanges/jp-exchange-zaif]] · [[exchanges/jp-exchange-custodiem]] · [[exchanges/jp-exchange-dmm-bitcoin]]
-- [[exchanges/jp-foreign-exchange-bitforex]] — exit scam の海外パラレル事例
+- [[exchanges/jp-foreign-exchange-bitforex]] — 日本で無登録営業警告を受けた海外事業者の記録
 - [[fintech/japan-financial-regulation]] — 資金決済法 / 金商法の枠組み
 - [[exchanges/jp-custody-ginco]] — DMM 事案の侵入経路
 

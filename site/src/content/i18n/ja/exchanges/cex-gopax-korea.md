@@ -1,19 +1,19 @@
 ---
 source: exchanges/cex-gopax-korea
-source_hash: 4d115fb9d7efc8a2
+source_hash: 74261e82046debf2
 lang: ja
 status: machine
 fidelity: ok
-title: "GOPAX（고팍스）— 韓国 CEX #5 / Binance 2023-02 過半数取得 → FIU 抗議で部分後退の概要"
-translated_at: 2026-06-02T12:19:04.212Z
+title: "GOPAX（고팍스）— 韓国 CEX / Binance 出資の概要"
+translated_at: 2026-07-29T12:03:55.000Z
 ---
-# GOPAX（고팍스）— 韓国 CEX #5 / Binance 2023-02 過半数取得 → FIU 抗議で部分後退の概要
+# GOPAX（고팍스）— 韓国 CEX / Binance 出資の概要
 
 ## ウィキ上の位置づけ
 
 この項目は [[exchanges/INDEX|exchanges index]] に属する。韓国の peer / 規制文脈として [[exchanges/korea-cex-five-pillars-comparison|韓国 5 大 CEX 制度比較]]、最も近い top-tier peers として [[exchanges/cex-upbit-korea|Upbit]] / [[exchanges/cex-bithumb-korea|Bithumb]]、より広いシステム / 市場境界として [[exchanges/global-cex-top10-comparison|global CEX top 10 comparison]] と併読する。
 
-> 2017-11 ローンチ · 旧 Streami（스트리미）· 韓国 spot 市場 #5（推定 1%）· **2023-02 Binance が GOPAX 持分約 72% を取得** → FIU 変更届の処理遅延 → 韓国 FIU の懸念で **Binance 議決権希釈の妥協案** が継続協議 · GoFi（GOPAX Earn）の Genesis Global 破産エクスポージャー事件
+> 2017-11 ローンチ · Streami（스트리미）が運営 · **Binance が 2023-02-03 に GOPAX への投資を発表** · GoFi（GOPAX Earn）は Genesis Global の流動性停止の影響を受けた
 
 ## 1. 法人・株主
 
@@ -21,29 +21,25 @@ translated_at: 2026-06-02T12:19:04.212Z
 - 設立：2015-04（Streami 設立）/ 2017-11（GOPAX 取引所ローンチ）
 - 本店所在地：ソウル特別市江南区
 - 創業者：이준행（Lee Joon-haeng）— Streami 創業者、ブロックチェーン送金事業を出発点とする
-- **株主構造（2026 年時点）**：
-  - **Binance**：**2023-02-08** に Streami 既存株主から GOPAX 持分約 **72%** 取得を発表（**Binance Asia Services Pte. Ltd.** 経由）
-  - ただし韓国 FIU の **変更届**（VASP 変更届）処理が **長期間継続協議中** → 公式の支配株主変更承認は遅延 / 部分的
-  - 2024–2025 期：Binance 議決権希釈 / 韓国法人独立性強化等の妥協案が継続議論
-  - 既存少数株主（初期投資家）も継続保有
-- IPO 検討：Binance 関連の規制不確実性により具体的アナウンスなし
+- **投資開示の境界**：
+  - **Binance** は **2023-02-03** に Industry Recovery Initiative を通じた GOPAX への投資を発表した
+  - Binance の公式発表は投資目的を GoFi 利用者支援と説明する一方、持株比率を記載していない
+  - 本項では、報道上の持株比率や未完了の規制手続から現在の支配関係を推定しない
 
 ## 2. 登録・牌照状況（韓国制度）
 
 - **가상자산사업자 (VASP)** 登録：FIU 登録済（2021-09 韓国第 1 期登録クラス）
 - **ISMS / ISMS-P 認証**：KISA ISMS-P 保有
 - **실명확인 입출금 계정**（実名確認入出金口座）：**전북은행（Jeonbuk Bank、JB금융그룹）** との契約
-  - **전북은행は韓国 5 大銀行（KB / Shinhan / NH / Hana / Woori）以外** の地方銀行（regional bank）。GOPAX は唯一の地方銀行系列 KRW spot 提供 VASP
-  - JB금융그룹（Jeonbuk Financial Group、KOSDAQ 上場）の信用力に依存する構造
-- **2023-02 Binance 株式取得** 発表後：
-  - 韓国 FIU は **変更届処理遅延**（実質的な保留）の姿勢
-  - **グローバル Binance**の米国 SEC / DOJ 合意（2023-11、$4.3B 罰金、CZ 退任）後、韓国 FIU はさらに慎重な立場
+  - 전북은행は地方銀行（regional bank）であり、GOPAX の法定通貨導線はこの実名口座契約を前提とする
+  - 銀行側の AML/CFT 確認と取引所側の VASP 義務を分けて扱う
+- **Binance 投資**：2023-02-03 の公式発表と KoFIU の届出状況を別々の証拠として扱い、投資発表だけから変更届の処理結果を推定しない
 - 詳細制度は [[exchanges/korea-cex-five-pillars-comparison|韓国 5 大 CEX 制度比較]] 参照
 
 ## 3. 取扱通貨
 
 - KRW spot 市場（韓国 5 大 CEX の 1 つとして合法）
-- 取扱銘柄数：80+（韓国 5 大 CEX の中で最も保守的）
+- 取扱銘柄は随時変わるため、本項では固定件数や同業間の多寡を置かない
 - BTC / ETH / 主要アルトコイン中心
 - 上場審査：DAXA 共通基準 + GOPAX 独自基準
 
@@ -56,56 +52,46 @@ translated_at: 2026-06-02T12:19:04.212Z
 - 法定通貨入金：전북은행 実名口座経由のみ
 - B2B / 機関向け：API 取引、OTC
 
-## 5. 市占・取引高
+## 5. 規模情報の読み方
 
-- **韓国 spot 市場シェア**：約 1%（韓国 5 大 CEX 中最下位 #5）
-- 24h volume：$1–20M（市場ボラティリティに連動）
-- 顧客層：韓国居住者中心（KYC 完全実施）
-- GoFi 事態以降、ユーザー信頼は弱まり、回復途上
+- 市場シェア、24h volume、順位は観測時点とデータ提供者で変わるため、本項では固定値を採用しない
+- 韓国 CEX の比較では、KRW market、同一基準日、実名口座の有無を揃えて照合する
+- GOPAX は KoFIU の仮想資産事業者届出状況に掲載されており、顧客向け KYC / AML の制度境界は登録情報と分けて確認する
 
 ## 6. 沿革・重大事件
 
+出典: 表全体は [Binance の GOPAX 投資発表](https://www.binance.com/en/blog/ecosystem/2331858048818231109) と [KoFIU の仮想資産事業者届出状況](https://www.kofiu.go.kr/kor/notification/notice.do)（2026-07-29 確認）に基づく。
+
 | 時期 | 事項 |
 |------|------|
-| 2015-04 | **Streami（스트리미）設立**（이준행 創業、ブロックチェーン送金事業を出発点とする） |
-| **2017-11** | **GOPAX 取引所ローンチ** |
-| 2018 | 韓国 CEX 市場で安定運営、保守的な銘柄選定 |
-| 2021-03 | 韓国特定金融情報法 施行 |
-| 2021-09 | FIU に VASP 登録完了（韓国 第 1 期 登録クラス） |
-| 2022-09 | **GoFi（GOPAX Earn）lending 商品出金停止** — Genesis Global / Babel Finance などのグローバル lending 事業者破産の影響で GoFi 運営が麻痺。ユーザー出金請求が累積 |
-| **2023-02-08** | **Binance が GOPAX 持分約 72% 取得を発表** — Binance Asia Services Pte. Ltd. 経由。Streami 既存株主から購入 |
-| 2023-02 以降 | 韓国 FIU **変更届処理遅延**、実質的な保留状態 |
-| 2023-11 | **グローバル Binance 米国 SEC / DOJ 合意 $4.3B 罰金, CZ 退任** → 韓国 FIU はさらに慎重な立場 |
-| 2023 | DAXA 自主規制協議体の共同設立 5 社の一つとして参加 |
-| 2024 | FIU 変更届関連で **Binance 議決権希釈 / 韓国法人独立性強化** 妥協案の協議継続 |
-| 2024-07 | 仮想資産利用者保護法 施行、利用者保護体制を整備 |
-| 2024–2026 | GoFi ユーザー弁済進行、韓国 FIU 変更届交渉継続、Binance の支配株主としての正式承認は未解決 |
+| 2023-02-03 | Binance が GOPAX への投資と株式取得を発表 |
+| 2026-06-30 基準 | KoFIU の仮想資産事業者届出状況に GOPAX が掲載 |
 
 ## 7. 戦略動向
 
-- **Binance 買収後のガバナンス交渉**：韓国 FIU の慎重姿勢により、**Binance 議決権希釈 + 韓国法人独立性強化**モデルへの妥協可能性。グローバル Binance の米国 SEC / DOJ 合意後、韓国当局の懸念はさらに高まった
-- **GoFi 弁済処理**：2022-09 GoFi 出金停止以降のユーザー弁済 / restructuring 処理は GOPAX の信頼回復の核心
-- **전북은행 関係**：韓国 5 大銀行ではない地方銀行 (전북은행) との実名口座契約は GOPAX の独特な位置を示す。銀行側の AML/CFT 責任分担問題は GOPAX の事業継続可能性に直接影響
+- **Binance 投資の開示境界**：2023-02-03 の公式発表で確認できるのは投資と GoFi 利用者支援であり、現在の持株比率や規制上の承認状態は同発表から推定しない
+- **GoFi 対応**：Genesis Global の流動性停止が GoFi に波及した事例として、外部 lending counterparty への依存と利用者保護を分けて検証する
+- **전북은행 関係**：実名口座契約を法定通貨導線として確認し、銀行側と VASP 側の AML/CFT 責任を分けて検証する
 - **DAXA 参加**：[[exchanges/cex-upbit-korea|Upbit]] / [[exchanges/cex-bithumb-korea|Bithumb]] / [[exchanges/cex-coinone-korea|Coinone]] / [[exchanges/cex-korbit-korea|Korbit]] とともに DAXA で上場基準を共通化
 - **2024 利用者保護法対応**：利用者保護基金拠出、不公正取引監視強化、内部統制再構築
-- **Binance グローバルシナジーへの期待**：Binance グローバル流動性 / 銘柄ラインアップ / 技術インフラを活用できる可能性があるが、韓国 FIU の慎重姿勢により実現は限定的
+- **Binance との関係**：将来の流動性・銘柄・技術統合を実装済みとは扱わず、公式に確認できる投資開示の範囲に限定する
 
 ## 8. 業界での位置付け
 
-GOPAX は **韓国 5 大 CEX 中最下位**だが、**グローバル Binance の韓国市場進出試行の核心事例**として、規制当局 / グローバル CEX / 韓国国内 VASP の三角ガバナンス問題を代表するケースである。
+GOPAX は、韓国で届出された VASP にグローバル CEX が投資した事例として、規制当局・投資家・国内事業者の開示境界を検討するケースである。
 
-[[exchanges/korea-cex-five-pillars-comparison|韓国 5 大 CEX 制度比較]] の文脈では、**5 大 KRW spot CEX 中、グローバル CEX（Binance）が支配株主になろうと試みた唯一の事例**であり、韓国規制当局がグローバル CEX の国内進入をどれほど慎重に扱うかを示す事例である。2023-11 グローバル Binance 米国合意後の交渉停滞は、韓国規制当局の信頼性懸念を反映している。
+[[exchanges/korea-cex-five-pillars-comparison|韓国 5 大 CEX 制度比較]] では、KoFIU の届出状況、実名口座、投資開示を別々の証拠として扱う。本項は報道上の順位・持株比率・規制交渉の将来結果を固定しない。
 
 GoFi 事態はまた、[[exchanges/global-crypto-exchange-bankruptcy-comparison|글로벌 CEX 파산 비교]] の文脈で **グローバル lending 事業者の倒産が韓国 CEX の子会社 lending 商品へ波及するパターン** の事例として重要である。
 
 ## 関連項目
 
-- [[exchanges/cex-upbit-korea]] — 韓国 #1
+- [[exchanges/cex-upbit-korea]] — 韓国 CEX comparison
 
-- [[exchanges/cex-bithumb-korea]] — 韓国 #2
+- [[exchanges/cex-bithumb-korea]] — 韓国 CEX comparison
 
-- [[exchanges/cex-coinone-korea]] — 韓国 #3（peer）
-- [[exchanges/cex-korbit-korea]] — 韓国 #4（peer）
+- [[exchanges/cex-coinone-korea]] — 韓国 CEX peer
+- [[exchanges/cex-korbit-korea]] — 韓国 CEX peer
 - [[exchanges/korea-cex-five-pillars-comparison]] — 韓国 5 大 CEX 制度比較
 - [[exchanges/global-cex-top10-comparison]] — グローバル CEX top 10（Binance 関連）
 - [[exchanges/global-crypto-exchange-bankruptcy-comparison]] — グローバル CEX 破綻比較（GoFi / Genesis 関連）

@@ -24,9 +24,9 @@
     "domain": "exchanges",
     "type": null,
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-06-24",
-    "review_by": "2026-08-08",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "fintech",
@@ -61,16 +61,13 @@
     "8. 関連人物"
   ],
   "body_links": {
-    "wikilinks_count": 12,
+    "wikilinks_count": 9,
     "wikilinks": [
       "exchanges/INDEX",
       "exchanges/fsa-vasp-registration-system",
       "exchanges/global-vasp-regulatory-comparison-matrix",
       "exchanges/hk-sfc-vasp-licensing-overview",
       "exchanges/jp-crypto-market-maker-otc-layer",
-      "exchanges/jp-exchange-bitflyer",
-      "exchanges/jp-exchange-coincheck",
-      "exchanges/jp-exchange-gmo-coin",
       "fintech/japan-bittrade-listing-process",
       "fintech/japan-financial-regulation",
       "fintech/japan-stablecoin-regulatory-landscape",
@@ -82,9 +79,6 @@
       "https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/",
       "https://finwiki.zksc.io/ja/exchanges/hk-sfc-vasp-licensing-overview/",
       "https://finwiki.zksc.io/ja/exchanges/jp-crypto-market-maker-otc-layer/",
-      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitflyer/",
-      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-coincheck/",
-      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-gmo-coin/",
       "https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/",
       "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
       "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
@@ -105,9 +99,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 4905,
-    "word_like_tokens": 936,
-    "inbound_wikilinks_count": 6,
-    "last_modified": "2026-06-24"
+    "nonspace_chars": 4436,
+    "word_like_tokens": 862,
+    "inbound_wikilinks_count": 5,
+    "last_modified": "2026-07-29"
   }
 }

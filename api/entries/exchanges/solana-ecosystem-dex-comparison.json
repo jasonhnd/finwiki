@@ -23,9 +23,9 @@
     "domain": "exchanges",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-19",
-    "last_tended": "2026-06-23",
-    "review_by": "2026-08-07",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "exchanges",
@@ -39,9 +39,12 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://jup.ag/",
-      "https://raydium.io/",
-      "https://www.orca.so/"
+      "https://dev.jup.ag/docs/",
+      "https://docs.raydium.io/",
+      "https://docs.orca.so/",
+      "https://docs.meteora.ag/",
+      "https://docs.drift.trade/",
+      "https://docs.phoenix.trade/"
     ]
   },
   "summary": "This entry sits under exchanges index. Read it against global dex major five comparison for peer / contrast context and FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for the broader system / regulatory boundary.",
@@ -49,13 +52,13 @@
     "Solana エコシステム DEX 群比較",
     "Wiki route",
     "概要",
-    "Top 6 protocol プロファイル",
-    "比較表 (設計 / 用途 / TVL)",
+    "6 protocol プロファイル",
+    "比較表 (設計 / 用途)",
     "memecoin 経済学 (Solana 独自)",
     "国際比較 — EVM 系との対比"
   ],
   "body_links": {
-    "wikilinks_count": 10,
+    "wikilinks_count": 8,
     "wikilinks": [
       "exchanges/INDEX",
       "exchanges/amm-design-evolution",
@@ -63,8 +66,6 @@
       "exchanges/fsa-vasp-registration-system",
       "exchanges/global-dex-major-five-comparison",
       "exchanges/global-perp-dex-five-comparison",
-      "exchanges/jvcea-whitelist-listing-timeline",
-      "exchanges/native-dex-flip-incumbent-pattern",
       "exchanges/ve33-governance-mechanism",
       "systems/cross-chain-four-poles-overview"
     ],
@@ -75,8 +76,6 @@
       "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
       "https://finwiki.zksc.io/ja/exchanges/global-dex-major-five-comparison/",
       "https://finwiki.zksc.io/ja/exchanges/global-perp-dex-five-comparison/",
-      "https://finwiki.zksc.io/ja/exchanges/jvcea-whitelist-listing-timeline/",
-      "https://finwiki.zksc.io/ja/exchanges/native-dex-flip-incumbent-pattern/",
       "https://finwiki.zksc.io/ja/exchanges/ve33-governance-mechanism/",
       "https://finwiki.zksc.io/ja/systems/cross-chain-four-poles-overview/"
     ],
@@ -84,9 +83,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3257,
-    "word_like_tokens": 569,
+    "nonspace_chars": 2599,
+    "word_like_tokens": 386,
     "inbound_wikilinks_count": 15,
-    "last_modified": "2026-06-23"
+    "last_modified": "2026-07-29"
   }
 }

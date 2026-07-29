@@ -1,11 +1,11 @@
 ---
 source: exchanges/jp-exchange-goldenway-japan
-source_hash: 0705c9f635425606
+source_hash: 68a3d515c5798f20
 lang: en
 status: machine
 fidelity: ok
 title: "Goldenway Japan Co., Ltd. — Japan crypto-asset exchange operator (derivatives only) overview"
-translated_at: 2026-05-31T05:31:05.767Z
+translated_at: 2026-07-29T12:10:50Z
 ---
 
 # Goldenway Japan Co., Ltd. — Japan crypto-asset exchange operator (derivatives only) overview
@@ -41,11 +41,11 @@ The name "Goldenway" derives from Goldenway Investment, the Hong Kong-based fina
 
 ## 3. Handled currencies
 
-- **Crypto-asset CFD symbols** (as of 2026年5月 · from the company's rate-list page):
+- **Crypto-asset CFD symbols** (confirmed on the company's rate-list page on 2026-07-29):
   - BTC/JPY, BTC/USD
   - ETH/JPY, ETH/USD
-- 4 pairs total (2 symbols × JPY-denominated・USD-denominated)
-- Characteristics: **No spot trading**. All are leveraged CFDs (margin trading). Spreads are zero (fixed in principle, with exceptions); instead, a position-linked commission is charged under the mechanism.
+- Four pairs were listed at that time (two assets × JPY- and USD-denominated pairs). Because the product lineup can change, the current rate list is authoritative.
+- Characteristics: the official rate list and JVCEA member listing reviewed on 2026-07-29 present the crypto-asset products as derivatives CFDs. Consult current product documents for spreads, position-linked commissions, and other conditions; this entry does not retain fixed values.
 
 ## 4. Scope of business
 
@@ -56,15 +56,17 @@ The name "Goldenway" derives from Goldenway Investment, the Hong Kong-based fina
 - **Currency knock-out options (FX KO)**: launched 2023年9月
 - **Corporate services**: corporate-oriented FX, commodity CFD, and crypto-asset CFD services launched from 2024年11月
 - **Deposits**: quick deposit (24 hours)・bank transfer. Major partner banks: Mitsubishi UFJ, Sumitomo Mitsui, Mizuho, Rakuten, PayPay, Sumishin SBI, Japan Post, AEON, Seven, GMO Aozora
-- **Spot crypto-asset trading**: none
+- **Spot crypto-asset trading**: no offering was identified in the official product and JVCEA materials reviewed on 2026-07-29. This is not an assertion of future or universal absence
 
 ## 5. Market share & trading volume
 
-- Neither account numbers nor trading volume disclosed
-- Position within the industry: **niche**. The main business is FX (a mid-tier domestic operator). Crypto-assets are a limited entry via BTC/ETH CFDs only. Both the number of handled symbols and account numbers are substantially fewer than those of major crypto-asset exchange operators.
+- The company and product pages checked on 2026-07-29 did not disclose account numbers or trading volume specifically for crypto-asset CFDs.
+- The disclosed crypto-asset scope consists of BTC/ETH CFDs and knock-out options, not a spot crypto-asset exchange. With no comparable account or volume data, no domestic rank is assigned.
 - Customer base: primarily retail traders (FX-shared accounts); corporate clients also supported from 2024年11月
 
 ## 6. History & major incidents
+
+The table is limited to corporate, registration, and service milestones confirmed in the company's overview, history, crypto-asset CFD rate list, and the JVCEA member list. ^[Sources: https://www.fxtrade.co.jp/aboutus/; https://www.fxtrade.co.jp/history/; https://www.fxtrade.co.jp/crypto/rate/; https://jvcea.or.jp/member/.]
 
 | Year/Month | Event |
 |------|--------|
@@ -90,14 +92,14 @@ The name "Goldenway" derives from Goldenway Investment, the Hong Kong-based fina
 | 2025年4月 | Crypto-asset KO (knock-out options) launched |
 | 2026年5月 | TradingView integration launched |
 
-Major incidents: Based on public information, no major incidents such as administrative dispositions, hacks, or system failures have been confirmed (as of 2026年5月).
+Within the official company and news pages and public registration information checked on 2026-07-29, no administrative disposition against the company or crypto-asset outflow incident was identified. This is a bounded review, not a guarantee of future absence.
 
 ## 7. Strategic developments
 
 - **2025年4月**: Newly established crypto-asset knock-out option (KO) trading. Expanded option products to crypto-assets in line with FX and commodity KO.
 - **2025年8月**: Obtained the "Silver" certification as a health-excellent enterprise (appealing to operational stability).
 - **2026年5月**: Launched an integration service between TradingView and FXTF GX. Strengthened convenience on the chart and tooling front.
-- The most recent expansion direction is an integrated-platform strategy of "providing the three fields of FX, commodities, and crypto-assets on 1口座". There is no public information regarding expansion of the crypto-asset symbol lineup.
+- The official site shows a product structure offering FX, commodity, and crypto-asset CFDs and knock-out options on a common platform. The crypto-asset product count is the snapshot shown on the official rate list on 2026-07-29; this entry does not speculate about future expansion.
 
 ## 8. Related people
 
@@ -118,8 +120,8 @@ Major incidents: Based on public information, no major incidents such as adminis
 
 ## Sources
 
-- [Goldenway Japan company overview](https://www.fxtrade.co.jp/aboutus/) (retrieved 2026-05-18)
-- [Company history](https://www.fxtrade.co.jp/history/) (retrieved 2026-05-18)
-- [FXTF GX-Crypto CFD real-time rates](https://www.fxtrade.co.jp/crypto/rate/) (retrieved 2026-05-18)
-- [JVCEA member list](https://jvcea.or.jp/member/) (retrieved 2026-05-18)
+- [Goldenway Japan company overview](https://www.fxtrade.co.jp/aboutus/) (retrieved 2026-07-29)
+- [Company history](https://www.fxtrade.co.jp/history/) (retrieved 2026-07-29)
+- [FXTF GX-Crypto CFD real-time rates](https://www.fxtrade.co.jp/crypto/rate/) (retrieved 2026-07-29)
+- [JVCEA member list](https://jvcea.or.jp/member/) (retrieved 2026-07-29)
 - [FSA crypto-asset exchange operator registration list Excel](https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx) (snapshot 令和8年4月1日 = 2026-04-01)

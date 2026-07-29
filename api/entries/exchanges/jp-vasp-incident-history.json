@@ -23,9 +23,9 @@
     "domain": "exchanges",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-19",
-    "last_tended": "2026-06-24",
-    "review_by": "2026-08-08",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "exchanges",
@@ -40,10 +40,11 @@
     "note": null,
     "sources": [
       "https://www.fsa.go.jp/",
-      "https://jvcea.or.jp/"
+      "https://jvcea.or.jp/",
+      "https://www.npa.go.jp/bureau/cyber/koho/caution/caution20241224.html"
     ]
   },
-  "summary": "国内 VASP 史は大規模流出事件によって規制が前進してきた歴史である。Mt.Gox (2014) は資金決済法改正の引き金となり、Coincheck (2018) は自主規制機関 JVCEA 発足とコールド保管比率規制の起点、DMM Bitcoin (2024) は北朝鮮 Lazarus 帰属が公的に確認された大型事案として SBI VC トレードへの事業移管を生んだ。流出は単発事件でなく、ホットウォレット 5% 上限・分別管理義務などの「制度反射」を伴って繰り返されてきた。",
+  "summary": "本稿は、日本の交換業者または国内顧客に大きく影響した主要流出事案を、公的資料と当事社公表で確認できる金額・資産量・帰結に限定して整理する。事件と法改正・自主規制の時系列は示すが、各事件が単独で特定制度を生んだという因果関係は、公的資料で明記される範囲を超えて断定しない。",
   "headings": [
     "国内 VASP 暗号資産流出事件史 (2014-2026)",
     "概要",
@@ -76,9 +77,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2072,
-    "word_like_tokens": 336,
+    "nonspace_chars": 2353,
+    "word_like_tokens": 332,
     "inbound_wikilinks_count": 20,
-    "last_modified": "2026-06-24"
+    "last_modified": "2026-07-29"
   }
 }

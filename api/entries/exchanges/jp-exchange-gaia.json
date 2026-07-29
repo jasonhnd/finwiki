@@ -22,9 +22,9 @@
     "domain": "exchanges",
     "type": null,
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-06-24",
-    "review_by": "2026-08-08",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "fintech",
@@ -41,7 +41,10 @@
       "https://www.gaia-btm.com/company/",
       "https://www.gaia-btm-service.com/",
       "https://jvcea.or.jp/member/",
-      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx"
+      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
+      "https://www.gaia-btm.com/news/2022/20220802843/",
+      "https://www.gaia-btm.com/news/2026/202605011326/",
+      "https://www.gaia-btm.com/news/2026/202605261333/"
     ]
   },
   "summary": "This entry sits under exchanges index. Read it with FSA 暗号資産交換業登録制度 — 番号体系・財務局管轄・登録要件 for adjacent context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system boundary.",
@@ -58,13 +61,12 @@
     "8. 関連人物"
   ],
   "body_links": {
-    "wikilinks_count": 10,
+    "wikilinks_count": 9,
     "wikilinks": [
       "exchanges/INDEX",
       "exchanges/fsa-vasp-registration-system",
       "exchanges/jp-crypto-merchant-payment-lightning",
       "exchanges/jp-exchange-coinhub",
-      "exchanges/jp-exchange-zaif",
       "exchanges/jp-vasp-aml-travel-rule-implementation",
       "fintech/japan-bittrade-listing-process",
       "fintech/japan-financial-regulation",
@@ -76,27 +78,30 @@
       "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
       "https://finwiki.zksc.io/ja/exchanges/jp-crypto-merchant-payment-lightning/",
       "https://finwiki.zksc.io/ja/exchanges/jp-exchange-coinhub/",
-      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-zaif/",
       "https://finwiki.zksc.io/ja/exchanges/jp-vasp-aml-travel-rule-implementation/",
       "https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/",
       "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
       "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
       "https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/"
     ],
-    "external_links_count": 6,
+    "external_links_count": 10,
     "external_links": [
       "https://jvcea.or.jp/member/",
       "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
       "https://www.gaia-btm-service.com/",
       "https://www.gaia-btm.com/company/",
       "https://www.gaia-btm.com/news/2021/",
-      "https://www.gaia-btm.com/news/2022/"
+      "https://www.gaia-btm.com/news/2022/",
+      "https://www.gaia-btm.com/news/2022/20220802843/",
+      "https://www.gaia-btm.com/news/2026/202605011326/",
+      "https://www.gaia-btm.com/news/2026/202605261333/",
+      "https://www.gaia-btm.com/news/2026/202607081340/"
     ]
   },
   "metrics": {
-    "nonspace_chars": 3810,
-    "word_like_tokens": 719,
+    "nonspace_chars": 4889,
+    "word_like_tokens": 890,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-24"
+    "last_modified": "2026-07-29"
   }
 }

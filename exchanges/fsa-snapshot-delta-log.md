@@ -6,9 +6,9 @@ aliases:
   - 暗号資産交換業者一覧 差分ログ
 domain: exchanges
 created: 2026-05-25
-last_updated: 2026-05-30
-last_tended: 2026-06-24
-review_by: 2026-08-08
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2027-01-29
 confidence: likely
 tags:
   - exchanges
@@ -70,16 +70,17 @@ FSA「暗号資産交換業者登録一覧」(`kasoutuka.xlsx`) と JVCEA 会員
   - （特筆事項：制度変更・大型 M&A・大手新規参入等）
 ```
 
-## 既知の主要 snapshot 変動履歴（過去 2 年）
+## 保存済み registry snapshot の比較
 
-| Snapshot 時点 | 主要変動 | 参考 entity wiki |
+出典: 表全体は FSA `kasoutuka.xlsx` の [2024-08-20 保存版](https://web.archive.org/web/20240820011719/https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx)、[2025-02-06 保存版](https://web.archive.org/web/20250206070223/https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx)、[2025-09-07 保存版](https://web.archive.org/web/20250907103139/https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx) の各行を比較して集計した（2026-07-29 確認）。
+
+| 保存時点 | 登録業者数 | 保存版で確認できる対象 |
 |---|---|---|
-| 令和6年4月1日（2024-04-01） | FTX Japan(旧 QUOINE) は当該時点なお「FTX Japan」名義で登録継続（顧客資産 100% 返還は 2023-02 完了済）。**旧記載「bitbank 吸収完了」は誤り** — FTX Japan を取得したのは bitbank ではなく bitFlyer Holdings（完全子会社化 2024-07・Custodiem へ商号変更 2024-08、後述 2024-10-01 行）。当該 snapshot のその他網羅差分は公開一次ソースで再構成困難。^[FSA kasoutuka Wayback snapshots; Custodiem public release sources] | [[exchanges/ftx-japan-100pct-return-case-study]] / [[exchanges/jp-exchange-custodiem]] |
-| 令和6年10月1日（2024-10-01） | **社名変更**: FTX Japan 株式会社 → 株式会社 Custodiem（bitFlyer HD 完全子会社化に伴い 2024-07-26 公表、2024 年夏に商号変更施行）。総登録社数は 29 社で横ばい（Wayback の 2024-08-20 付 FSA xlsx は「FTX Japan」を収載、2025-01-15 付では消失＝Custodiem へ改称済み）。なお DMM Bitcoin の廃業意向は 2024-12-01 公表だが、この時点では未だ登録抹消未反映。〔出典: Custodiem 商号変更告知 / FSA xlsx Wayback 2024-08-20〕^[FSA archived kasoutuka.xlsx; JVCEA member list; Custodiem notice] | [[exchanges/jp-exchange-custodiem]] |
-| 令和7年4月1日（2025-04-01） | **登録抹消（廃業）**: 株式会社DMM Bitcoin（関東財務局長 第00010号、平成29年12月1日登録）— 2024-05 の約482億円 BTC 流出を受け、2025-03-08 に口座・預かり資産を SBI VC トレードへ移管しサービス終了、登録抹消。**社名変更**: CoinBest 株式会社 → OSL Japan 株式会社（香港上場 OSL Group 傘下、2025-02 改称。登録番号・法人番号 3010001185935 は承継）。総登録社数 29 → 28 社（令和7年6月30日付 FSA 一覧で 28 社確認）。FSA xlsx の 2025-02-06 付（29社・第00010号収載）→ 2025-09-07 付（28社・第00010号消失）diff と整合。〔出典: ITmedia / SBI HD 移管リリース / DMM Bitcoin Wikipedia（第00010号）/ 赤坂経済新聞（OSL改称）/ FSA xlsx Wayback 2025-02-06・2025-09-07〕^[FSA archived kasoutuka.xlsx; SBI HD transfer release; public DMM Bitcoin and OSL notices] | [[exchanges/jp-exchange-dmm-bitcoin]] / [[exchanges/jp-exchange-sbi-vc-trade]] |
-| 令和7年10月1日（2025-10-01） | 当該時点の新規登録・廃業は公開一次ソースで特定できず（FSA は過去版一覧を常設公開しないため厳密 diff は再構成困難）。総登録社数は **28 社で横ばい**（「2025 年 10 月末時点で 28 業者」との公開記述および令和7年6月30日付 28 社と一致）。特筆すべき新規参入・廃業の公開報道は確認されず。〔出典: FSA xlsx Wayback 2025-09-07（28社）〕 | — |
-| **令和8年4月1日（2026-04-01）** | 最新 snapshot 基準（[[exchanges/jp-exchange-bitbank]] / [[exchanges/jp-exchange-line-xenesis]] etc. 引用元） | 個別ページ参照 |
-| 令和8年10月1日（2026-10-01）予定 | **LINE Xenesis 廃業反映予定**（2026-06-01 サービス終了） | [[exchanges/jp-exchange-line-xenesis]] |
+| 2024-08-20 | 29 | FTX Japan を収載 |
+| 2025-02-06 | 29 | DMM Bitcoin（第00010号）と CoinBest を収載 |
+| 2025-09-07 | 28 | 第00010号は不在、OSL Japan を収載 |
+
+この表は保存版そのものから確認できる差分だけを示す。保存日時の間に起きた変更の施行日や理由は、別の一次公表で確認しない限り推定しない。
 
 ## 更新ワークフロー
 

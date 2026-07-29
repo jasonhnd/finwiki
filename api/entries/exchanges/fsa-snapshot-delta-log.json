@@ -23,9 +23,9 @@
     "domain": "exchanges",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-30",
-    "last_tended": "2026-06-24",
-    "review_by": "2026-08-08",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2027-01-29",
     "confidence": "likely",
     "tags": [
       "exchanges",
@@ -59,25 +59,21 @@
     "目的",
     "記録テンプレート（snapshot 単位）",
     "YYYY-MM-DD snapshot delta",
-    "既知の主要 snapshot 変動履歴（過去 2 年）",
+    "保存済み registry snapshot の比較",
     "更新ワークフロー",
     "JVCEA 会員一覧との突合",
     "関連",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 15,
+    "wikilinks_count": 11,
     "wikilinks": [
       "exchanges/INDEX",
       "exchanges/fsa-foreign-exchange-warning-system",
       "exchanges/fsa-vasp-registration-system",
-      "exchanges/ftx-japan-100pct-return-case-study",
       "exchanges/jp-exchange-XXX",
       "exchanges/jp-exchange-bitbank",
-      "exchanges/jp-exchange-custodiem",
-      "exchanges/jp-exchange-dmm-bitcoin",
       "exchanges/jp-exchange-line-xenesis",
-      "exchanges/jp-exchange-sbi-vc-trade",
       "exchanges/jp-vasp-ma-consolidation-history",
       "exchanges/jp-vasp-parent-company-map",
       "exchanges/jp-vasp-regulatory-timeline",
@@ -88,12 +84,8 @@
       "https://finwiki.zksc.io/ja/domains/exchanges/",
       "https://finwiki.zksc.io/ja/exchanges/fsa-foreign-exchange-warning-system/",
       "https://finwiki.zksc.io/ja/exchanges/fsa-vasp-registration-system/",
-      "https://finwiki.zksc.io/ja/exchanges/ftx-japan-100pct-return-case-study/",
       "https://finwiki.zksc.io/ja/exchanges/jp-exchange-bitbank/",
-      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-custodiem/",
-      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-dmm-bitcoin/",
       "https://finwiki.zksc.io/ja/exchanges/jp-exchange-line-xenesis/",
-      "https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/",
       "https://finwiki.zksc.io/ja/exchanges/jp-vasp-ma-consolidation-history/",
       "https://finwiki.zksc.io/ja/exchanges/jp-vasp-parent-company-map/",
       "https://finwiki.zksc.io/ja/exchanges/jp-vasp-regulatory-timeline/",
@@ -116,9 +108,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 7116,
-    "word_like_tokens": 1363,
+    "nonspace_chars": 5873,
+    "word_like_tokens": 1071,
     "inbound_wikilinks_count": 0,
-    "last_modified": "2026-06-24"
+    "last_modified": "2026-07-29"
   }
 }
