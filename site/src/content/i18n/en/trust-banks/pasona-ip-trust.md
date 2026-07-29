@@ -1,11 +1,11 @@
 ---
 source: trust-banks/pasona-ip-trust
-source_hash: 06f14babc971c28a
+source_hash: 2c7e6c239a435d03
 lang: en
 status: machine
 fidelity: ok
 title: "Pasona IP Trust"
-translated_at: 2026-06-01T00:41:50.433Z
+translated_at: 2026-07-28T23:40:44.174Z
 ---
 # Pasona IP Trust
 
@@ -21,7 +21,7 @@ Pasona IP Trust presents itself as a trust service for intellectual property, su
 
 The page matters because it expands FinWiki's trust-company coverage beyond money, securities, real estate, and digital securities. IP trust is a distinct route for intangible-asset administration and potential IP-finance analysis.
 
-## Entity Boundary
+## Entity Boundary ^[金融庁の現行登録とパソナ知財信託会社情報: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://pasona-ipt.co.jp/company/]
 
 | Item | Reading |
 |---|---|

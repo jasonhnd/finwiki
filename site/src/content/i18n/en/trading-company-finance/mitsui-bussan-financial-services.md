@@ -1,11 +1,11 @@
 ---
 source: trading-company-finance/mitsui-bussan-financial-services
-source_hash: 0f92e8902aeb5662
+source_hash: 72e3b8c1d329f55b
 lang: en
 status: machine
 fidelity: ok
 title: "Mitsui & Co. Financial Services (三井物産フィナンシャルサービス)"
-translated_at: 2026-06-19T13:13:22.628Z
+translated_at: 2026-07-28T23:40:43.934Z
 ---
 
 # Mitsui & Co. Financial Services (三井物産フィナンシャルサービス)
@@ -14,13 +14,13 @@ translated_at: 2026-06-19T13:13:22.628Z
 
 This entry sits under [[trading-company-finance/INDEX|trading-company-finance INDEX]]. Read it against [[trading-company-finance/mitsubishi-corp-finance|三菱商事フィナンシャルサービス]] (the closest peer trading-company group-treasury arm) and [[cooperative-banks/ja-mitsui-leasing|JA三井リース]] (the same-parent leasing arm, Mitsui & Co. group + Norinchukin JV). For the broader peer set, see [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]], [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]], [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]]. The Mitsui-group banking side is [[megabanks/sumitomo-mitsui-banking-corp|SMBC]] under [[megabanks/smfg|SMFG]]. See [[banking/INDEX|banking index]] for the broader regulatory boundary.
 
-## 1. Company overview
+## 1. Company overview ^[三井物産 IR: https://www.mitsui.com/jp/ja/ir/; EDINET: https://disclosure2.edinet-fsa.go.jp/]
 
 | Item | Notes |
 |---|---|
 | Wiki role | **Mitsui & Co. group's inward-facing finance**: CMS / group factoring / group finance |
 
-### Mitsui & Co.'s financial-function layout
+### Mitsui & Co.'s financial-function layout ^[三井物産の有価証券報告書・関係会社開示と各社公式 IR に基づく比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]
 
 | Layer | Entity | Role |
 |---|---|---|
@@ -30,7 +30,7 @@ This entry sits under [[trading-company-finance/INDEX|trading-company-finance IN
 | **Inward-facing / group finance** | **Mitsui & Co. FS (this page)** | Internal banking / CMS / internal factoring for group companies |
 | **Overseas finance subsidiaries** | Mitsui & Co. (U.S.A.) / (Europe) / (Asia) Finance, etc. | Treasury / local-currency funding by region |
 
-## 2. Business-segment map
+## 2. Business-segment map ^[三井物産 IR / 有価証券報告書。業務範囲は非上場子会社の開示制約があるため最新関係会社開示を優先: https://www.mitsui.com/jp/ja/ir/]
 
 | Segment | Content |
 |---|---|
@@ -45,7 +45,7 @@ This entry sits under [[trading-company-finance/INDEX|trading-company-finance IN
 
 In particular, the **resources & energy** segment centers on long-term contracts plus large credit deals such as LNG, crude oil, and iron ore, and has a high degree of utilization of intra-group financial functions.
 
-### Competitors / Peers
+### Competitors / Peers ^[各親会社の有価証券報告書・公式 IR を横断した比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]
 
 | Trading company | Inward-facing finance subsidiary | Outward-facing leasing arm |
 |---|---|---|

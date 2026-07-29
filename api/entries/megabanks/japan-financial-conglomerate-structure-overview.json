@@ -27,9 +27,9 @@
     "domain": "megabanks",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -68,7 +68,7 @@
     "FSA Conglomerate Supervision"
   ],
   "body_links": {
-    "wikilinks_count": 63,
+    "wikilinks_count": 62,
     "wikilinks": [
       "INDEX",
       "asset-managers/mufg-asset-management",
@@ -112,7 +112,6 @@
       "megabanks/sony-fg",
       "megabanks/sumitomo-mitsui-banking-corp",
       "non-life-insurers/au-insurance",
-      "payment-firms/au-payment",
       "payment-firms/paypay",
       "payment-firms/rakuten-fg",
       "policy-finance/japan-policy-finance-institution-mandate-matrix",
@@ -177,7 +176,6 @@
       "https://finwiki.zksc.io/ja/megabanks/sony-fg/",
       "https://finwiki.zksc.io/ja/megabanks/sumitomo-mitsui-banking-corp/",
       "https://finwiki.zksc.io/ja/non-life-insurers/au-insurance/",
-      "https://finwiki.zksc.io/ja/payment-firms/au-payment/",
       "https://finwiki.zksc.io/ja/payment-firms/paypay/",
       "https://finwiki.zksc.io/ja/payment-firms/rakuten-fg/",
       "https://finwiki.zksc.io/ja/policy-finance/japan-policy-finance-institution-mandate-matrix/",
@@ -203,9 +201,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 11986,
-    "word_like_tokens": 1827,
+    "nonspace_chars": 12799,
+    "word_like_tokens": 1973,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-07-29"
   }
 }

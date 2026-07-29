@@ -1,11 +1,11 @@
 ---
 source: trust-banks/orix-bank
-source_hash: 17b514ac30036249
+source_hash: 4bb25fee15895866
 lang: ja
 status: machine
 fidelity: ok
 title: "オリックス銀行 (ORIX Bank)"
-translated_at: 2026-06-15T04:09:41.193Z
+translated_at: 2026-07-28T23:40:04.553Z
 ---
 
 # オリックス銀行 (ORIX Bank)
@@ -18,7 +18,7 @@ translated_at: 2026-06-15T04:09:41.193Z
 
 オリックス銀行 (ORIX Bank Corporation) は、FSA の銀行免許リストに掲載される銀行法人だが、**メガバンク系のような信託専業 / 信託銀行ではなく、信託業務を兼営する「普通銀行」(信託兼営金融機関)** に近い specialty bank。山一證券の信託子会社を前身とし、1998 年に [[leasing-firms/orix-corp|ORIX]] グループ入り。ATM を持たずネット中心で、投資用不動産ローン・ネット定期 (eダイレクト預金)・カードローンに特化する。2026-04-27 に ORIX が全株式を [[securities-firms/daiwa-sg|大和証券グループ本社]] 傘下 [[regional-banks/daiwa-next-bank|大和ネクスト銀行]] へ譲渡すると公表しており、ownership transition watch が必要。
 
-## 1. 免許／グループ境界
+## 1. 免許／グループ境界 ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; オリックス銀行「会社概要」: https://www.orixbank.co.jp/aboutus/profile/company.html; ORIX と大和ネクスト銀行の 2026-04-27 公表: https://www.orix.co.jp/grp/company/newsroom/newsrelease/pdf/260427_ORIXJ.pdf; https://www.bank-daiwa.co.jp/info/2026/pdf/0427_02.pdf]
 
 | 項目 | 備考 |
 |---|---|

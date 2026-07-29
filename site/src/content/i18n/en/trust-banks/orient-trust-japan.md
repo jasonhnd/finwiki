@@ -1,23 +1,23 @@
 ---
 source: trust-banks/orient-trust-japan
-source_hash: 0a11e81a206e571d
+source_hash: 74b23bf119b5dc82
 lang: en
 status: machine
 fidelity: ok
-title: "Northern Trust Japan (ノーザン・トラスト・ジャパン)"
-translated_at: 2026-06-19T12:43:19.943Z
+title: "Northern Trust Global Investments (Northern Trust Japan)"
+translated_at: 2026-07-29T00:36:53.627Z
 ---
 
-# Northern Trust Japan (ノーザン・トラスト・ジャパン)
+# Northern Trust Global Investments (Northern Trust Japan)
 
 > [!note] Naming note
-> This page was originally requested as the "orient-trust-japan" slot, but because no independent legal entity called "Orient Trust" can be confirmed in Japan ("Orient Corporation" [[card-issuers/orico]] is a consumer-credit company in a different category, and "Toyo Trust & Banking" was part of the former UFJ lineage and has already been merged into the current [[trust-banks/mitsubishi-ufj-trust-bank|三菱 UFJ 信託銀行]]), **Northern Trust Japan** is assigned as a substitute for a foreign-affiliated trust subsidiary.
+> This page was originally created as "orient-trust-japan", so the path is kept for compatibility. In the 2026-07-29 re-verification, the legal entity officially confirmable in Japan is **Northern Trust Global Investments Co., Ltd. (ノーザン・トラスト・グローバル・インベストメンツ株式会社)**, a financial instruments business operator, and there is no company under the Northern Trust name in the FSA's trust-company list as of 2026-06-30. This page is therefore treated not as a "Japanese trust company / trust bank" but as an entity-boundary route to prevent misclassification. ^[Northern Trust 東京拠点: https://www.northerntrust.com/asia-pac/about-us/locations/jp/tokyo-minato-ku-ark-hills-sengokuyama-mori-tower; 金融庁信託会社一覧: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf]
 
 ## Wiki route
 
-This entry sits under [[trust-banks/INDEX|trust-banks INDEX]] as a **foreign-affiliated trust / asset-servicing subsidiary** anchor. Read it against [[foreign-financial-institutions/state-street-japan|State Street Japan]] / [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]] / [[foreign-financial-institutions/jpmorgan-japan|JPMorgan Japan]] for the foreign custodian / asset-servicing peer cluster, [[trust-banks/master-trust-bank|マスタートラスト信託銀行]] / [[trust-banks/mitsubishi-ufj-trust-bank|三菱 UFJ 信託銀行]] for the domestic trust peer cluster, [[trust-banks/trust-companies-japan-index|the Japan trust companies registry index]] for the registry context, and [[banking/japan-trust-bank-custody-map|the Japan trust-bank custody map]] for system-level positioning.
+This entry remains under [[trust-banks/INDEX|trust-banks INDEX]] as a **classification boundary**. It records that Northern Trust's confirmed Japan entity is an asset manager / financial instruments operator, not a row in the current trust-company registry. Use [[foreign-financial-institutions/INDEX|foreign financial institutions]] and [[asset-managers/INDEX|asset managers]] for substantive peer analysis.
 
-## 1. Parent-company overview
+## 1. Parent-company overview ^[Northern Trust「What We Do」「About Us」: https://www.northerntrust.com/japan/what-we-do; https://www.northerntrust.com/japan/about-us]
 
 | Item | Content |
 |---|---|
@@ -26,103 +26,93 @@ This entry sits under [[trust-banks/INDEX|trust-banks INDEX]] as a **foreign-aff
 | Established | **1889** (one of the long-established U.S. major financial institutions) ^[extracted] |
 | Ticker | NASDAQ: **NTRS** |
 | Business type | High-net-worth private bank + institutional-investor services (C&IS = Corporate & Institutional Services)|
-| Global AUC/A | approx. 16 兆 dollars (2024, one of the U.S. 3  major custodians) ^[extracted] |
-| Global AUM | approx. 1.5 兆 dollars (2024) ^[extracted] |
-| Regulatory-capital status | Under U.S. FRB supervision, no G-SIB designation (mid-tier G scale) |
+| Group businesses | Asset servicing / investment management / wealth management |
+| Global AUM | 1.8 trillion dollars (as of 2026-03-31) |
+| Employees | Over 23,000 |
 
 ## 2. Japan-base legal-entity structure (based on public information)
 
 ```
 Northern Trust Corporation (U.S. NASDAQ: NTRS)
-  ├── Northern Trust Global Servicing Japan Co., Ltd.
-  │     ├── Head office: Tokyo
-  │     ├── Holds a trust-business license (registered with the FSA)
-  │     └── Custody / fund administration / transfer agent, etc. for institutional investors
-  ├── The Northern Trust Company (Japan branch)
-  │     └── A Japan branch of the U.S. parent company, a global-custody window
-  └── Northern Trust Securities Japan Co., Ltd.
-        └── Type I Financial Instruments Business (FIEA operator), securities-transaction intermediation for institutional investors
+  └── Northern Trust Global Investments Co., Ltd. (ノーザン・トラスト・グローバル・インベストメンツ株式会社)
+        ├── A 100% subsidiary of Northern Trust Corporation
+        ├── Established 2002-11
+        ├── Director-General of the Kanto Local Finance Bureau (Kinsho) No. 140
+        └── Investment management business / investment advisory and agency business / Type II Financial Instruments Business
 ```
 
-## 3. Business lines
+## 3. Japan entity business / registration boundary ^[Northern Trust 日本公式ページ・東京拠点情報: https://www.northerntrust.com/japan; https://www.northerntrust.com/asia-pac/about-us/locations/jp/tokyo-minato-ku-ark-hills-sengokuyama-mori-tower]
 
-| Segment | Japan operator | Content |
+| Item | Officially confirmable content |
 |---|---|---|
-| **Global custody** | Japan branch + Global Servicing | Safekeeping, settlement, and corporate-action processing of overseas equities, bonds, and alternative assets |
-| **Domestic trust (custody-adjacent)** | Global Servicing (trust-business license)| Back-office functions for GPIF / public pensions / asset managers ^[likely] |
-| Fund administration | Global Servicing | Investment-trust net-asset-value calculation, NAV computation, support for management-report preparation |
-| Transfer agent | Global Servicing | Institutional-investor account management, beneficiary-right-transfer management |
-| Securities intermediation / trading | Securities Japan | Foreign-securities-transaction intermediation for institutional investors |
-| High-net-worth private bank | ❌ no full-scale rollout in Japan | A mainstay business in the U.S. home market, but in Japan it specializes in wholesale |
+| Japan legal entity | Northern Trust Global Investments Co., Ltd. (ノーザン・トラスト・グローバル・インベストメンツ株式会社) |
+| Financial instruments business operator | Director-General of the Kanto Local Finance Bureau (Kinsho) No. 140 |
+| Registered businesses | Investment management business, investment advisory and agency business, Type II Financial Instruments Business |
+| Location | Ark Hills Sengokuyama Mori Tower, 1-9-10 Roppongi, Minato-ku, Tokyo |
+| Trust-company boundary | No entity under the Northern Trust name in the FSA trust-company list as of 2026-06-30 |
 
 ### Main customer types
 
-- **GPIF (Government Pension Investment Fund)**: one of the custody-mandate institutions for the overseas assets of public pensions ^[likely]
-- **Major life and non-life insurers**: overseas-managed-asset custody for [[life-insurers/dai-ichi-life|第一生命]] / [[life-insurers/nippon-life|日本生命]] / [[non-life-insurers/tokio-marine|東京海上]], etc.
-- **Major asset managers**: fund administration / custody for [[asset-managers/nomura-am|野村アセットマネジメント]] / [[asset-managers/daiwa-am|大和アセットマネジメント]] / [[asset-managers/mitsubishi-ufj-am|三菱 UFJ アセットマネジメント]], etc.
-- **Major corporate pension funds**: custody for the overseas-asset portion
+- The official Japan pages present asset-management solutions for institutional investors.
+- Specific customer names or individual custody mandate relationships are added only when the contracting entity and public primary sources can be confirmed.
 
-## 4. Parent-company / Japan competitive relationships
+## 4. Entity boundary in Japan ^[Northern Trust 日本公式ページと金融庁の現行信託会社一覧: https://www.northerntrust.com/japan; https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf]
 
-| Comparison axis | Northern Trust | [[foreign-financial-institutions/state-street-japan|State Street]] | [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon]] | [[trust-banks/master-trust-bank|マスタートラスト信託]] |
-|---|---|---|---|---|
-| Global ranking | U.S. 3  major custodian, the No.3  axis | World No.2 (AUC/A approx. 53 兆 dollars)| World No.1 (AUC/A approx. 59 兆 dollars)| One of the largest domestic trusts (Japanese-bank-affiliated)|
-| Focus in Japan | Institutional-investor services + high-net-worth (limited)| Institutional-investor services + SSGA (asset management)| Institutional-investor services + asset management | Domestic trust / a major GPIF mandate holder |
-| ETF / asset management | Has an asset-management division (U.S.-centric)| SSGA = the SPDR ETF manager | BNY Mellon IM | Mainly administrative functions; management is done by other group companies |
-| Japanese trust-bank license | Held by Global Servicing Japan | State Street Trust & Banking | Japan trust subsidiary | Japanese-bank trust (domestic corporation) |
-| Retail involvement | None | None | None | Indirectly via the Japanese-bank group |
+| Confirmed item | Treatment of Northern Trust Japan |
+|---|---|
+| Confirmed Japan entity | Northern Trust Global Investments Co., Ltd. |
+| Legal classification | Financial instruments business operator / asset-management company |
+| Trust company / trust bank | Not confirmable in the current FSA trust-company list or the list of financial institutions concurrently engaged in trust business |
+| Comparison targets | For asset management, [[asset-managers/INDEX]]; for group comparison, [[foreign-financial-institutions/INDEX]] |
+| Role of this route | A boundary to avoid mis-identifying the "Northern Trust" global trust/custody brand with a Japanese trust license |
 
-### Relative position of the U.S. 3  major custodians
+### Separating the global business from the Japan entity
 
-- [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon]]: World No.1, the largest scale
-- [[foreign-financial-institutions/state-street-japan|State Street]]: World No.2, holds SSGA / SPDR ETFs
-- **Northern Trust**: World No.3, strength in the high-net-worth private bank (U.S. home market), with institutional-investor services focused on selected large customers
+- Northern Trust Corporation provides asset servicing, investment management, and wealth management globally.
+- From those global product descriptions alone, it is not presumed that the Japan entity holds banking, trust, or custody licenses.
+- Comparisons in Japan are made with primary sources aligned on the same legal entity, registration category, and reference date.
 
-## 5. KPIs (the parent company is on an SEC-disclosure basis; the Japan bases are non-disclosed)
+## 5. KPIs (parent-company published figures / no separate disclosure for the Japan entity) ^[Northern Trust「About Us」「What We Do」: https://www.northerntrust.com/japan/about-us; https://www.northerntrust.com/japan/what-we-do]
 
 | Indicator | Sense of scale |
 |---|---|
-| Parent-company global AUC/A | approx. 16.8 兆 dollars (2024-12-31, Northern Trust Corp 10-K / 4Q24  results) |
-| Parent-company global AUM | approx. 1.5 兆 dollars (2024)|
-| Parent-company global employee count | approx. 23,000 名 (Northern Trust official) |
+| Parent-company global AUM | 1.8 trillion dollars (2026-03-31) |
+| Parent-company global employee count | Over 23,000 |
 | Japan-base employee count | n.d. (the Japan-base breakdown is non-disclosed) |
-| Japan-base AUC/A | Included in the parent-company global figures and non-disclosed |
-| Japan customer profile | Centered on large institutional investors (GPIF / major life and non-life insurers / major asset managers)|
+| Japan-entity AUM | n.d. (no separate disclosure for the Japan entity) |
+| Japan-entity target | Asset-management solutions for institutional investors |
 
-> The parent-company AUC/A and AUM can be confirmed in Northern Trust Corporation's SEC disclosures (10-K / quarterly results). Japan-base-specific KPIs are included in the parent-company global aggregate, and individual disclosure is limited. For the latest information, see Northern Trust Corporation's 10-K (SEC) and Northern Trust Japan's official page.
+> Do not conflate parent-company figures with figures specific to the Japan entity. Japan-entity-specific KPIs are publicly confirmable only to a limited extent.
 
-### Differentiation 6.1  as the tail end of the U.S. 3  major custodians
+### 6.1 The group's business scope
 
-- It trails [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon]] / [[foreign-financial-institutions/state-street-japan|State Street]] in scale
-- Differentiation axis: **integration with the high-net-worth private-bank function** (the U.S. home market is the main axis) + **deep service to selected large institutional investors**
-- In Japan it does not roll out a full-scale high-net-worth private bank, but narrows down to institutional-investor services (GPIF / major life and non-life insurers / major asset managers) ^[likely]
+- The parent company presents asset servicing, investment management, and wealth management.
+- The Japan entity's official presentation is as an asset-management company; the parent company's full business lines are not transcribed as the Japan entity's licensed businesses.
 
-### Position 6.2  as a GPIF / public-pension mandate institution
+### 6.2 Confirming Japan customers / products
 
-- GPIF's overseas-asset custody is distributed across multiple foreign custodians ([[foreign-financial-institutions/state-street-japan|State Street]] / [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon]] / Northern Trust, etc.)
-- The rising overseas-management ratio of public pensions / corporate pensions → a tailwind for foreign custodians as a whole
+- The official Japan pages present investment strategies for institutional investors.
+- Contractual relationships with specific pensions, insurers, or asset managers are recorded only when primary sources from the respective parties exist.
 
-### Differentiation 6.3  from Japanese-bank trusts
+### 6.3 Comparison with Japanese-bank trusts
 
-- **Japanese-bank-affiliated trusts** such as [[trust-banks/master-trust-bank|マスタートラスト信託]] / [[trust-banks/mitsubishi-ufj-trust-bank|三菱 UFJ 信託銀行]] / [[trust-banks/sumitomo-mitsui-trust|住信トラスト]] have an overwhelming share in the custody and management mandates of domestic assets
-- Foreign custodians such as Northern Trust differentiate through **specialized mandates for overseas assets**
+- [[trust-banks/master-trust-bank|マスタートラスト信託]] and [[trust-banks/mitsubishi-ufj-trust-bank|三菱 UFJ 信託銀行]] have separate license boundaries as Japanese trust banks / financial institutions concurrently engaged in trust business.
+- When comparing Northern Trust Japan with Japanese-bank trusts, first fix the functional difference between an asset-management company and a trust bank.
 
-### High-net-worth private bank (U.S. home market) 6.4 
+### 6.4 The parent company's wealth management
 
-- Northern Trust's **core business since its founding** is a private bank for Chicago high-net-worth individuals (since opening in 1889 )
-- Deep customer relationships in wealth management, trust, and estate management for ultra-high-net-worth individuals in the U.S.
-- In Japan it does not compete directly with private-bank players such as UBS [[foreign-financial-institutions/ubs-japan]] / [[trust-banks/lgt-wealth-management-trust|LGT]] / [[trust-banks/smbc-trust-bank|SMBC 信託（PRESTIA）]], but concentrates on the institutional-investor channel
+- Northern Trust Corporation presents wealth management as a group business.
+- This does not imply a private-bank license for the Japan entity or domestic retail offerings.
 
-## 7. Regulation / supervision
+## 7. Regulation / supervision ^[Northern Trust 日本公式ページ・東京拠点情報: https://www.northerntrust.com/japan; https://www.northerntrust.com/asia-pac/about-us/locations/jp/tokyo-minato-ku-ark-hills-sengokuyama-mori-tower; 金融庁信託会社一覧: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf]
 
 | Item | Content |
 |---|---|
-| Parent-company regulation | U.S. FRB (Federal Reserve Board) + OCC (Office of the Comptroller of the Currency) supervision |
-| Japan-base regulation | FSA (the respective licenses for trust business + a Japan branch of banking business + an FIEA operator)|
-| Global Servicing Japan | Trust-business license (the financial-supervision number is published by the FSA)|
-| Japan branch | Banking license (a Japan branch of a foreign bank)|
-| Securities Japan | Type I Financial Instruments Business (FIEA)|
-| Industry associations | Trust Companies Association / Japanese Bankers Association / Japan Securities Dealers Association |
+| Japan legal entity | Northern Trust Global Investments Co., Ltd. (ノーザン・トラスト・グローバル・インベストメンツ株式会社) |
+| Registration number | Director-General of the Kanto Local Finance Bureau (Kinsho) No. 140 |
+| Registered businesses | Investment management business, investment advisory and agency business, Type II Financial Instruments Business |
+| Member associations | The Investment Trusts Association, Japan / Japan Investment Advisers Association |
+| Trust-company registration | No entity under the Northern Trust name in the FSA list as of 2026-06-30 |
 
 ## Related
 
@@ -141,14 +131,13 @@ Northern Trust Corporation (U.S. NASDAQ: NTRS)
 
 ## Sources
 
-- Northern Trust official: Japan page (jp and en)
-- FSA: list of trust companies
-- FSA: list of banking licenses
-- Northern Trust Corporation 2024  Annual Report (SEC 10-K, https://www.sec.gov/Archives/edgar/data/0000073124/000007312425000105/ntrs-20241231.htm) — global AUC/A $16.8tn (2024-12-31)
-- Northern Trust Corporation 4Q24  Earnings Release (https://www.northerntrust.com/content/dam/northerntrust/pws/nt/documents/earnings/2024/quart-earn-release-q42024-bb3681.pdf)
-- Wikipedia: Northern Trust (public information, extracted 2026-05-25)
+- Northern Trust Japan: https://www.northerntrust.com/japan
+- Northern Trust Tokyo location / Japan legal entity: https://www.northerntrust.com/asia-pac/about-us/locations/jp/tokyo-minato-ku-ark-hills-sengokuyama-mori-tower
+- Northern Trust, "What We Do": https://www.northerntrust.com/japan/what-we-do
+- Northern Trust, "About Us": https://www.northerntrust.com/japan/about-us
+- FSA, current trust-company list as of 2026-06-30: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf
 
 ---
 
 > [!info] Verification status
-> confidence: **likely** (v1.0  based on public information, extracted 2026-05-25). The parent company NTRS's listing, being the U.S. 3 -major-custodian No.3  axis, global AUC/A of approx. 16.8 兆 dollars (2024-12-31, SEC 10-K), and the existence of Japan bases are confirmed from public information. The Japan-base-specific employee count is non-disclosed, hence the n.d. notation. The exact trade name, location, representative, and employee count of the Japan legal entity are planned to be supplemented at the next update from the FSA registration list + Northern Trust's official Japan page. The GPIF mandate-institution status is an estimate (^[likely]).
+> confidence: **confirmed** (2026-07-29, re-verified against Northern Trust's official Japan pages and Tokyo-location presentation and the FSA's current trust-company list). The entity confirmable in Japan is Northern Trust Global Investments Co., Ltd., registered as a financial instruments business operator for investment management, investment advisory and agency, and Type II Financial Instruments Business. The old version's descriptions of a "trust company", a "trust-bank Japan branch", a "securities subsidiary", and "specific customers such as GPIF" could not be confirmed in primary sources and have been deleted.

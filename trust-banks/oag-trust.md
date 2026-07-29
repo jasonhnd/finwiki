@@ -5,14 +5,14 @@ aliases:
   - "株式会社OAG信託"
 domain: trust-banks
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
-review_by: 2026-11-22
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, trust-company, escrow, bankruptcy-remoteness, consulting]
 status: active
 sources:
-  - "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx"
+  - "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf"
   - "https://oag-trust.com/"
   - "https://oag-trust.com/service/"
   - "https://www.oag-group.co.jp/wp/wp-content/uploads/2024/08/the-Heartful-OAG-no.232.pdf"
@@ -32,7 +32,7 @@ OAG Trust describes itself as an OAG Consulting Group company and states that it
 
 The page matters because OAG Trust is a focused route for fund-protection trust. It is useful where the question is not asset management, but safeguarding prepaid or held funds in a trust structure.
 
-## Entity Boundary
+## Entity Boundary ^[金融庁の現行登録と OAG 信託公式サイト: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://oag-trust.com/]
 
 | Item | Reading |
 |---|---|

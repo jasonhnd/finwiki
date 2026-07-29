@@ -26,9 +26,9 @@
     "domain": "manufacturer-finance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "manufacturing",
@@ -46,8 +46,10 @@
     "sources": [
       "https://www.hitachi.com/IR-e/library/integrated/",
       "https://www.hitachi.com/IR-e/library/annual/",
-      "https://www.hitachi.com/businesses/",
-      "https://www.mitsubishi-hc-capital.com/english/ir/library/",
+      "https://www.hitachi.com/en/about/hitachi/",
+      "https://www.hitachi.com/en/ir/library/fr/",
+      "https://www.hitachi.com/en/press/articles/2026/03/0327a/",
+      "https://www.hitachi.com/New/cnews/month/2021/04/f_210401a.pdf",
       "https://disclosure2.edinet-fsa.go.jp/"
     ]
   },
@@ -56,13 +58,13 @@
     "Hitachi Industrial Finance Platform (日立グループ産業金融プラットフォーム)",
     "Wiki route",
     "TL;DR",
-    "1. 会社構造と金融部門の位置",
-    "金融部門の位置 (post-2021)",
-    "2. 事業ライン × 金融組成パターン",
-    "3. KPI (FY2024, 連結ベース)",
-    "4. 戦略 (Connect, Build, Finance)",
+    "1. 会社・captive の境界",
+    "2. 製品・サービスと金融の接点",
+    "3. 現行スケール",
+    "4. 読み方",
     "5. 規制・政策",
-    "Related"
+    "Related",
+    "Sources"
   ],
   "body_links": {
     "wikilinks_count": 16,
@@ -106,9 +108,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6048,
-    "word_like_tokens": 943,
+    "nonspace_chars": 5534,
+    "word_like_tokens": 821,
     "inbound_wikilinks_count": 10,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-07-29"
   }
 }

@@ -1,11 +1,11 @@
 ---
 source: asset-managers/saison-asset-management
-source_hash: 66a45f8ebbaf88f9
+source_hash: 6badd6f5387946b4
 lang: en
 status: machine
 fidelity: ok
 title: "セゾン投信 (Saison Asset Management)"
-translated_at: 2026-06-18T23:33:48.291Z
+translated_at: 2026-07-29T00:25:41.045Z
 ---
 
 # セゾン投信 (Saison Asset Management)
@@ -16,21 +16,24 @@ This entry sits under [[asset-managers/INDEX|asset-managers INDEX]] as the opera
 
 ## TL;DR
 
-[[card-issuers/credit-saison|クレディセゾン]]'s investment-trust management company (FIEA investment management business + investment-trust management company). Established 2006 , made a consolidated subsidiary in 2017 [[card-issuers/credit-saison|Credit Saison]]. Its flagship products are the **2  two pillars**: **"Saison Global Balanced Fund"** (a globally diversified fund-of-funds combining Vanguard-family ETFs) and **"Saison Master of Asset Formation Fund"** (a mid-cap active fund-of-funds). A leading player among independent direct-sales investment trusts combining **direct sales + a Credit Saison cardholder funnel**, it has accelerated AUM accumulation on the tailwind of long-term accumulation-investment culture since the start of the 2024  new NISA scheme. ^[extracted]
+Saison Asset Management is an investment-trust management company owned 60% by [[card-issuers/credit-saison|クレディセゾン]] and 40% by Japan Post Co., Ltd. Established 2006-06-12, it is registered as Kanto Local Finance Bureau Director-General (Kinsho) No. 349, with Type II financial instruments business and investment management business. It currently manages 3 funds — **"Saison Global Balanced Fund"**, **"Saison Master of Asset Formation Fund"**, and **"Saison Kyoso Japan Fund"** — using both direct sales and distributing financial institutions.
 
 ## 1. Corporate overview
 
 | Item | Details |
 |---|---|
-| Official name | Saison Asset Management Co., Ltd. ^[extracted] |
+| Official name | Saison Asset Management Co., Ltd. |
 | English name | Saison Asset Management Co., Ltd. |
-| Established | 2006-04 ^[extracted] |
-| Parent company | [[card-issuers/credit-saison|株式会社クレディセゾン]] (TSE PRIME 8253, consolidated subsidiary) |
-| Parent-company conversion | **2017** made a subsidiary by [[card-issuers/credit-saison|Credit Saison]] ^[extracted] |
-| Head office | Higashi-Ikebukuro, Toshima-ku, Tokyo (close to [[card-issuers/credit-saison|クレディセゾン]]) |
-| Business type | Investment-trust management company (Act on Investment Trusts and Investment Corporations) / investment management business (FIEA) |
-| Listing | Unlisted (parent [[card-issuers/credit-saison]] is on TSE PRIME 8253) |
-| Main sales channels | **Direct sales (own counters)** + some financial institutions + [[card-issuers/credit-saison|Credit Saison]] cardholder funnel |
+| Established | 2006-06-12 |
+| Shareholders | [[card-issuers/credit-saison|株式会社クレディセゾン]] 60%, Japan Post Co., Ltd. 40% |
+| Capital boundary | Made a consolidated subsidiary of Credit Saison in 2017 . Currently owned by the above 2  companies |
+| Head office | Sunshine 60, 48F, 3-1-1 Higashi-Ikebukuro, Toshima-ku, Tokyo |
+| Registered businesses | Kanto Local Finance Bureau Director-General (Kinsho) No. 349; Type II financial instruments business, investment management business |
+| Business description | Establishment, management, and sale of investment trusts |
+| Member associations | Japan Investment Advisers / asset-management association (資産運用業協会) |
+| Sales channels | Own direct sales + distributing financial institutions |
+
+Sources: ^[セゾン投信 会社概要・運用体制等（2026-04-01 現在）: https://www.saison-am.co.jp/company/outline/; FSA 金融商品取引業者登録一覧: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx.]
 
 ### 2.1  Flagship funds — 2  two pillars
 
@@ -38,6 +41,8 @@ This entry sits under [[asset-managers/INDEX|asset-managers INDEX]] as the opera
 |---|---|
 | **Saison Global Balanced Fund** | A globally diversified fund-of-funds combining Vanguard-family ETFs (Vanguard Total World Stock ETF, etc.) at **equities 50% / bonds 50%**. The representative product emphasizing low cost and long-term holding |
 | **Saison Master of Asset Formation Fund** | A mid-cap active fund-of-funds that carefully selects and combines **actively managed funds** from Japan and abroad. Long-term carefully-selected investing |
+
+Sources: ^[セゾン・グローバルバランスファンド公式: https://www.saison-am.co.jp/fund/global/; セゾン資産形成の達人ファンド公式: https://www.saison-am.co.jp/fund/master/.]
 
 ### 2.2  Investment philosophy
 
@@ -54,15 +59,17 @@ This entry sits under [[asset-managers/INDEX|asset-managers INDEX]] as the opera
 ## 3. Parent-company relationship (within the [[card-issuers/credit-saison|Credit Saison]] consolidation)
 
 ```
-Credit Saison Co., Ltd. (TSE PRIME 8253)
-  ├── Credit-sales / card business (core)
-  │     └─ Saison Card / UC Card / American Express partnership
-  ├── Saison Fundex (real-estate-secured loans / card loans)
-  ├── Atrium (real-estate related)
-  ├── Saison Asset Management (this page, investment trusts)
-  │     └─ "Saison Global Balanced Fund" "Saison Master of Asset Formation Fund"
-  └── Overseas (Kisetsu Saison Finance India, etc.)
+Saison Asset Management
+  ├── Credit Saison Co., Ltd. 60%
+  └── Japan Post Co., Ltd. 40%
+
+Managed funds
+  ├── Saison Global Balanced Fund
+  ├── Saison Master of Asset Formation Fund
+  └── Saison Kyoso Japan Fund
 ```
+
+Source: ^[セゾン投信 会社概要・運用体制等: https://www.saison-am.co.jp/company/outline/.]
 
 ### Background to the subsidiary conversion (2017)
 
@@ -80,7 +87,8 @@ Credit Saison Co., Ltd. (TSE PRIME 8253)
 | Number of funds | 3  (Global Balanced Fund / Master of Asset Formation Fund / **Saison Kyoso Japan Fund** set up 2022-02 ) |
 | Number of customers (fund holders) | **Over 79 万** (as of 2025-03 ). Source: same release |
 | Distributing financial institutions | **29 社** (direct sales + partner financial institutions, as of 2025-03 ) |
-| Industry ranking | Among the leading domestic independent direct-sales investment trusts (vs [[JapanFG/hifumi|ひふみ投信]] [[JapanFG/sawakami-am|さわかみ投信]] [[JapanFG/commons-am|コモンズ投信]]) |
+
+Sources: ^[セゾン投信「運用資産総額1兆円到達！」（2025-10-06）: https://www.saison-am.co.jp/news/2025/release/20251006173450.html; セゾン投信 会社概要・運用体制等: https://www.saison-am.co.jp/company/outline/.]
 
 > The net asset value of each individual flagship fund is disclosed on the official "operating status" page (updated every business day). For the latest figures, refer to official IR.
 
@@ -115,11 +123,13 @@ Credit Saison Co., Ltd. (TSE PRIME 8253)
 | Item | Details |
 |---|---|
 | Competent authority | Financial Services Agency (FSA) |
-| Governing law | Financial Instruments and Exchange Act (FIEA, investment management business) / Investment Trust Act (Act on Investment Trusts and Investment Corporations) |
-| Industry bodies | The Investment Trusts Association / Japan Securities Dealers Association (sales side) |
-| License | Investment management business (FSA registration) / Type II financial instruments business |
-| Customer-asset segregation | Entrusted to a trust bank ([[trust-banks/master-trust-bank|マスタートラスト信託]] etc.) |
-| Audit | Accounting audit by an audit firm + daily NAV calculation by the trustee bank |
+| Financial instruments business registration | Kanto Local Finance Bureau Director-General (Kinsho) No. 349 |
+| Registered businesses | Type II financial instruments business, investment management business |
+| Member associations | Asset-management association (資産運用業協会) |
+| Trustee / asset custody per fund | Check the latest investment-trust explanatory document (delivery prospectus) of each fund |
+| Disclosure | Prospectuses, management reports, and the company's financial condition published on the official website |
+
+Sources: ^[FSA 金融商品取引業者登録一覧: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx; セゾン投信 会社概要・運用体制等: https://www.saison-am.co.jp/company/outline/; セゾン資産形成の達人ファンド 目論見書: https://www.saison-am.co.jp/pdf/fund/master/prospectus/prospectus2.pdf.]
 
 ## Related
 
@@ -135,15 +145,13 @@ Credit Saison Co., Ltd. (TSE PRIME 8253)
 
 ## Sources
 
-- Saison Asset Management official: company overview (profile/)
-- Saison Asset Management official: history (history/)
+- Saison Asset Management official "Company overview / management structure, etc." https://www.saison-am.co.jp/company/outline/
 - **Saison Asset Management official news release "Total assets under management reached 1 兆円!"** (2025-10-06, 3  funds combined at 1 兆円 / management started 2007-03-15 / over 79 万 fund holders / 29 社 distributing financial institutions, all as of 2025-03 ) https://www.saison-am.co.jp/news/2025/release/20251006173450.html
 - **Nihon Keizai Shimbun "Saison Asset Management, Chairman Haruhiro Nakano to retire; a turning point for the direct-sales model"** (2023-06, conflict with parent Credit Saison over the distribution policy / retired at the 2023-06-28 general shareholders' meeting) https://www.nikkei.com/article/DGXZQOUB017CW0R00C23A6000000/
-- Credit Saison IR: list of subsidiaries (corporate.saisoncard.co.jp)
-- FSA: list of investment management business operators
-- Wikipedia: Saison Asset Management (public information, extracted 2026-05-25)
+- FSA "List of registered financial instruments business operators" https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx
+- Saison Asset Management official 3  funds: https://www.saison-am.co.jp/fund/global/ / https://www.saison-am.co.jp/fund/master/ / https://www.saison-am.co.jp/fund/japan/
 
 ---
 
 > [!info] 校核状态
-> confidence: **likely** (based on v1.0  public information, extracted 2026-05-25 / KPIs and the retirement updated with primary sources 2026-05-29). Year of establishment (2006), year of subsidiary conversion (2017), flagship funds, direct-sales model, and the new-NISA-scheme relationship are confirmed from public information. **Total assets under management reached 1 兆円 on 2025-10-06 with 3  funds combined (end of 2025-12 , about 1.07 兆円), with over 79 万 fund holders and 29 社 distributing financial institutions (as of 2025-03 ), confirmed in the official release**. **The retirement of Chairman Haruhiro Nakano is confirmed by Nikkei as 2023-06-28 (conflict with the parent over the distribution policy, reported as effectively a dismissal)**. For the net asset value of each individual flagship fund, refer to the official "operating status" page.
+> confidence: **likely**. As of 2026-07-29 , re-confirmed the date of establishment, address, 60% / 40% shareholders, and the registration number, businesses, and associations using the company overview (as of 2026-04-01 ) and the FSA registration list. The date AUM reached 1 兆円 is 2025-10-06; over 79 万 fund holders and 29 社 distributing financial institutions are dated as of 2025-03  in the official release. No comparative ranking is included.

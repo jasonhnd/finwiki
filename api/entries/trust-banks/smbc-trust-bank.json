@@ -24,9 +24,9 @@
     "domain": "trust-banks",
     "type": null,
     "created": "2026-05-20",
-    "last_updated": "2026-06-05",
-    "last_tended": "2026-06-05",
-    "review_by": "2026-11-20",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -40,7 +40,7 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf",
       "https://www.smbctb.co.jp/aboutus/information/",
       "https://www.smbctb.co.jp/aboutus/"
     ]
@@ -50,7 +50,7 @@
     "SMBC信託銀行 (SMBC Trust Bank)",
     "Wiki route",
     "TL;DR",
-    "1. License / group boundary",
+    "1. License / group boundary ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; SMBC信託銀行「会社概要」: https://www.smbctb.co.jp/aboutus/information/]",
     "2. Operating model",
     "3. Why this page matters",
     "Related",
@@ -86,9 +86,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2594,
-    "word_like_tokens": 389,
-    "inbound_wikilinks_count": 14,
-    "last_modified": "2026-06-05"
+    "nonspace_chars": 2734,
+    "word_like_tokens": 414,
+    "inbound_wikilinks_count": 13,
+    "last_modified": "2026-07-29"
   }
 }

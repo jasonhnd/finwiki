@@ -1,11 +1,11 @@
 ---
 source: trust-banks/mizuho-trust-bank
-source_hash: e499c4ccd952a942
+source_hash: 9e211aca69f1a406
 lang: en
 status: machine
 fidelity: ok
 title: "Mizuho Trust & Banking (みずほ信託銀行)"
-translated_at: 2026-06-15T04:09:41.179Z
+translated_at: 2026-07-28T23:40:44.118Z
 ---
 
 # Mizuho Trust & Banking (みずほ信託銀行)
@@ -18,7 +18,7 @@ This entry sits under [[trust-banks/INDEX|trust-banks INDEX]] (its domain route)
 
 Mizuho Trust & Banking Co., Ltd. (みずほ信託銀行) is the trust-bank operating company of [[megabanks/mizuho-fg|みずほ FG]]. It is a trust-concurrent financial institution that holds, **in addition to a bank license under the Banking Act, concurrent authorization for trust business under the Concurrent Operation Act**, and conducts banking business together with trust, pension, real-estate, transfer-agency, and entrusted-property services as an integrated whole. The commercial-banking core is borne by [[megabanks/mizuho-bank|みずほ銀行]], while Mizuho Trust & Banking bears the trust / entrusted-property side — a division of functions.
 
-## 1. License / group boundary
+## 1. License / group boundary ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; みずほ信託銀行「会社概要」: https://www.mizuho-tb.co.jp/company/about/info.html]
 
 | Item | Notes |
 |---|---|

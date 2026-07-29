@@ -1,11 +1,11 @@
 ---
 source: megabanks/smfg
-source_hash: 8ba9ca40fa6f72ed
+source_hash: 50824cb75bb73947
 lang: ja
 status: machine
 fidelity: ok
 title: "三井住友 FG (SMFG / SMBC グループ)"
-translated_at: 2026-06-02T15:14:17.144Z
+translated_at: 2026-07-28T23:40:04.227Z
 ---
 
 # 三井住友 FG (SMFG / SMBC グループ)
@@ -155,9 +155,9 @@ SMFG（持株会社・上場 8316）
 - SBI HD は SMFG 株も保有（具体比率は SMFG 側公開情報要確認）
 - 「第 4 のメガバンク構想」（SBI 主導）に対し SMFG が出資受け入れる形
 - **Olive コンサルティング**（2025-09-05 設立）: SMFG 10% + 三井住友銀行 20% + SMBC 日興証券 30% + SBI HD 10% + SBI 証券 30%（5 社合弁）
-  - 2026 春に 三井住友銀行 Olive 最上位ランク「Olive Infinite」向け資産運用サービス開始予定
+  - 2026-05-26 に「Olive Infinite」と Olive 資産運用サービスを開始
 - **重要構造的理解**:
-  - SBI 新生銀行 = SBI HD 71.22% 連結子会社（**SMFG 直接子会社ではない**）→ 2025-07 再上場申請（公的資金完済めど）
+  - SBI 新生銀行 = SBI グループ連結子会社（**SMFG 直接子会社ではない**）→ 2025-07-31 公的資金完済、2025-12-17 東証 PRIME 再上場
   - 住信 SBI ネット銀行 = 2025-10-01 NTT ドコモへ全株式譲渡完了 → SBI HD 撤退・NTT ドコモ完全子会社化（NDFG 設立 9 ヶ月前）
 
 ### Jefferies 統合の詳細（2025-09-19 発表）^[extracted]
@@ -184,12 +184,14 @@ SMFG（持株会社・上場 8316）
 | 欧州 | SMBC International（英・ユニバーサル化）, SMBC Bank EU AG（独）| - |
 | シンクタンク | 日本総合研究所 | 五大シンクタンク |
 | ポイント | V ポイントマーケティング 55% | 旧 T ポイント統合 |
-| ★ ネット金融 提携 | SBI 証券 / SBI HD（8.91% 出資） | Olive Infinite × SBI 連携（2026 春開始予定）|
+| ★ ネット金融 提携 | SBI 証券 / SBI HD（8.91% 出資、2025-07-17 時点） | Olive Infinite × SBI 連携（2026-05-26 サービス開始）|
+
+Sources: ^[SMFG「主要子会社・関連会社」: https://www.smfg.co.jp/company/groupcompanies.html; SMBC「Olive Infinite」提供開始 (2026-05-26): https://www2.smbc.co.jp/news/pdf/j20260526_03.pdf; SBI HD「SBI 新生銀行の公的資金完済」: https://www.sbigroup.co.jp/news/2025/0731_15628.html.]
 
 ### デジタル戦略
 
-- **Olive プラットフォーム**: 三井住友 G 統合 app（銀行・証券・カード・保険・通貨）、570 万口座 ^[extracted from project source, needs primary IR verification]。証券は [[securities-firms/smbc-nikko|SMBC 日興証券]]、カードは [[card-issuers/smbc-card|三井住友カード]]、消費者金融は [[consumer-finance/smbc-consumer-finance|SMBCCF (旧プロミス)]] と [[megabanks/sbi-hd|SBI HD]] アライアンスの双方が支える。
-- **Olive Infinite × SBI 連携**（2025-09-05〜・2026 春サービス開始予定）★: Olive 最上位ランク向け資産運用サービス、SBI 連携の Olive コンサルティング JV ^[extracted from SBI HD Wikipedia]
+- **Olive プラットフォーム**: 三井住友 G 統合 app（銀行・証券・カード・保険・通貨）。公式キャンペーンページは 2026-06 に 700 万口座突破を掲示。証券は [[securities-firms/smbc-nikko|SMBC 日興証券]]、カードは [[card-issuers/smbc-card|三井住友カード]]、消費者金融は [[consumer-finance/smbc-consumer-finance|SMBCCF (旧プロミス)]] と [[megabanks/sbi-hd|SBI HD]] アライアンスの双方が支える。^[SMBC Olive: https://www.smbc.co.jp/kojin/olive/special/offers/20260630/]
+- **Olive Infinite × SBI 連携**（2025-09-05〜・2026-05-26 サービス開始）★: Olive 最上位ランクと、Olive コンサルティングが提供する資産運用サービスを開始。^[SMBC news release: https://www2.smbc.co.jp/news/pdf/j20260526_03.pdf]
 - **V ポイント経済圏**: 旧 T ポイント統合後の自社ポイント、SMCC 主管、CCC 20% / SMFG 25%
 - **ライフネット生命提携**（2023-08）: V ポイント付与保険商品開発
 
@@ -200,7 +202,7 @@ SMFG（持株会社・上場 8316）
 - **SBI HD「SMBC-SBI アライアンス」**（2022〜）★: 包括的資本業務提携
   - SMFG が SBI HD 株 8.91% 保有（2025-07-17 現在）
   - SBI HD 主導「第 4 のメガバンク構想」（SBI 新生銀行 + 地銀連合）に対する出資
-  - **Olive コンサルティング**（2025-09-05 設立、5 社合弁）→ 2026 春 Olive Infinite 向け運用サービス
+  - **Olive コンサルティング**（2025-09-05 設立、5 社合弁）→ 2026-05-26 Olive Infinite 向け運用サービス開始
   - SBI 新生銀行 は SBI HD 子会社（SMFG 直接ではない）
   - 注: NDFG-SSNB 関係とは構造異なる（NDFG = NTT ドコモ直接 TOB 買収・SBI HD 撤退）
 - **Jefferies 提携**（2025-09-19）★: 日本投資銀行事業統合
@@ -226,7 +228,7 @@ SMFG（持株会社・上場 8316）
 - **全国銀行協会 持株会社会員 非加盟**: りそな HD と並ぶ、メガで唯一
 - **2022-10 行政処分**: 金融庁 → SMFG / SMBC 日興証券（業界注目案件）^[extracted]
 - **直近政策論点**:
-  - 2024〜 SBI 新生銀行 統合プロセス（金融庁注視、SBI HD 主導 / SMFG 包括的アライアンス）
+  - SBI 新生銀行の公的資金完済・再上場後も、SMFG 直接子会社ではない構造を維持
   - 2025〜 営業店舗削減・地方拠点再編
   - 2025〜 ステーブルコイン（Progmat 加盟）
   - 2025〜2027 Jefferies 統合の業界規制対応
@@ -338,12 +340,14 @@ SMFG の連結業務純益 約 2 兆 6,779 億円 (YoY +4,213 億) の主要寄�
 - **Wikipedia: 三井住友フィナンシャルグループ**（https://ja.wikipedia.org/wiki/三井住友フィナンシャルグループ, 2026-05-18 抽出）
 - **Wikipedia: SBI ホールディングス**（https://ja.wikipedia.org/wiki/SBIホールディングス, 2026-05-18 抽出, SMBC-SBI アライアンス・Olive コンサルティング・SBI 新生銀行 相互参照）
 - SMFG 第 23 期（2025-03 期）有価証券報告書 ^[extracted via Wikipedia]
+- **SMFG「主要子会社・関連会社」** https://www.smfg.co.jp/company/groupcompanies.html
+- **SMBC「Olive Infinite」提供開始**（2026-05-26）https://www2.smbc.co.jp/news/pdf/j20260526_03.pdf
+- **SBI HD「SBI 新生銀行の公的資金完済」**（2025-07-31）https://www.sbigroup.co.jp/news/2025/0731_15628.html
 - **要追補**:
-  - Olive ユーザ KPI 一次資料 → 三井住友銀行 entry / SMBC 公式 IR
   - SBI HD 側の SMFG 株保有比率（双方向確認）
   - SMBC 銀行 entry での digital 戦略詳細
 
 ---
 
 > [!info] 校核状态
-> confidence: **certain**（v4.0 2026-05-26 拡張: 銀行 KPI / 事業構成分析 / 現取締役会 / 規制処分履歴 の 4 節を一次資料校核で追加）。総資産 **328 兆** / 親会社株主純利益 **1.58 兆**（+34.4%）/ FY2026 予想 1.70 兆 は SMFG 公式決算短信ベース。ROE 10.4% / ROCET1 13.8% / CET1 目標 10.5-11.0% は 2026-05-13 決算説明資料から抽出。取締役会 13 名構成は 2026-05 公式役員一覧から (Charles D. Lake II + Jennifer Rogers の外国人 2 名含む)。規制処分履歴は 2022-10-07 金融庁 SMBC日興相場操縦 業務停止 + 課徴金 404 億 (歴代 2 位) + SMFG 親会社改善措置命令 が中核。セグメント詳細は PDF レイアウト崩れあり ^[needs-verification]、決算説明資料原本要参照。Olive 570 万口座は引き続き要検証。次の作業: 2026-06-26 第 24 期有価証券報告書後の従業員数・主要株主再校核、SMBC 銀行 entry での Olive 詳細。
+> confidence: **certain**（v4.1 2026-07-29 校核）。総資産 **328 兆** / 親会社株主純利益 **1.58 兆**（+34.4%）/ FY2026 予想 1.70 兆は SMFG 公式決算短信ベース。ROE 10.4% / ROCET1 13.8% / CET1 目標 10.5-11.0% は 2026-05-13 決算説明資料から抽出。Olive は公式ページで 700 万口座突破を確認し、Olive Infinite / Olive 資産運用サービスは 2026-05-26 開始へ更新。SBI 新生銀行は公的資金完済・再上場後も SMFG 直接子会社ではない。セグメント詳細は PDF レイアウト崩れがあるため原本参照を要する。

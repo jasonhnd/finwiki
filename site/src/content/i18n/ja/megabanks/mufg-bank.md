@@ -1,12 +1,12 @@
 ---
 source: megabanks/mufg-bank
-source_hash: 706b0b2d03b3d468
+source_hash: 14e7bd21d3c69ad8
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "三菱UFJ銀行 (MUFG Bank)"
-translated_at: 2026-06-26T08:32:23.068Z
+translated_at: 2026-07-28T23:40:04.111Z
 ---
 
 # 三菱UFJ銀行 (MUFG Bank)
@@ -24,6 +24,8 @@ translated_at: 2026-06-26T08:32:23.068Z
 | ライセンス経路 | 銀行法上の銀行免許 (都市銀行); FSA bank license list |
 | 銀行コード | 0005 |
 | 親会社境界 | [[megabanks/mufg|MUFG]] 傘下 bank operating company |
+
+Sources: ^[金融庁「銀行免許一覧」: https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx; 三菱UFJ銀行「会社概要」: https://www.bk.mufg.jp/kigyou/profile.html; MUFG「グループ会社」: https://www.mufg.jp/profile/biz_and_network/group/index.html.]
 
 ## 2. 運営モデル
 

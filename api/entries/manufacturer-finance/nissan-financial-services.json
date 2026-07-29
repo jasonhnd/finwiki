@@ -30,9 +30,9 @@
     "domain": "manufacturer-finance",
     "type": null,
     "created": "2026-06-03",
-    "last_updated": "2026-06-03",
-    "last_tended": "2026-06-03",
-    "review_by": "2026-12-03",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "manufacturing",
@@ -52,6 +52,9 @@
     "note": null,
     "sources": [
       "https://www.nissan-global.com/EN/IR/",
+      "https://www.nissan-global.com/EN/COMPANY/PROFILE/SUBSIDIARY/",
+      "https://www.nissan-global.com/EN/IR/STOCK/RATING_CORPORATE_BOND/SALES/",
+      "https://www.nissan-global.com/EN/IR/FINANCIAL_RESULTS/ASSETS/FR/2025/PDF/fr2025.pdf",
       "https://www.nissanusa.com/finance/financing-online-bill-payment-options.html",
       "https://www.nissanfinance.com/s/",
       "https://www.nissan-global.com/EN/DOCUMENT/PDF/emtn_program_06.pdf",
@@ -107,9 +110,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8255,
-    "word_like_tokens": 1253,
+    "nonspace_chars": 9082,
+    "word_like_tokens": 1365,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-07-29"
   }
 }

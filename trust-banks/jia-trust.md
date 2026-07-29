@@ -3,14 +3,14 @@ title: "JIA Trust / JIA信託"
 aliases: ["JIA信託", "JIA信託株式会社", "Japan Investment Adviser Trust"]
 domain: trust-banks
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
-review_by: 2026-11-22
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, trust-company, aircraft-leasing, real-estate, public-source]
 status: active
 sources:
-  - "FSA trust company list: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx"
+  - "FSA trust company list: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf"
   - "JIA Trust official site: https://www.jiatrust.co.jp/"
 ---
 
@@ -26,7 +26,7 @@ JIA Trust is an operating-type trust company under the Japan Investment Adviser 
 
 This page covers JIA信託株式会社, not the full [[securities/financial-instruments-business-operators-japan-index|financial-instruments operator]] surface of the broader JIA group. Use this page for trust-company classification and structured-asset custody / administration context.
 
-## Business Role Map
+## Business Role Map ^[JIA 信託 公式サイト: https://www.jiatrust.co.jp/; 金融庁の現行免許: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf]
 
 | Route | Reading |
 |---|---|

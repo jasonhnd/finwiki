@@ -3,9 +3,9 @@ title: "SBIアセットマネジメント"
 aliases: ["SBI Asset Management", "SBIアセットマネジメント", "SBIアセットマネジメント株式会社"]
 domain: asset-managers
 created: 2026-05-20
-last_updated: 2026-06-05
-last_tended: 2026-06-05
-review_by: 2026-11-20
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, asset-management, fiea-operator, sbi]
 status: active
@@ -34,6 +34,8 @@ SBIアセットマネジメント株式会社は、金融商品取引法上の *
 | Parent boundary | SBIグローバルアセットマネジメント / [[megabanks/sbi-hd|SBI HD]] グループ (online / independent) |
 | Supervision | [[financial-regulators/fsa|FSA]] + 投資信託協会 / 日本投資顧問業協会 |
 | Wiki role | SBI 系 低コスト運用会社 anchor |
+
+Sources: ^[FSA 金融商品取引業者登録一覧: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx; SBIアセットマネジメント 会社概要: https://www.sbiam.co.jp/gaiyo/gaiyo_gai.html.]
 
 ## 2. Operating model
 

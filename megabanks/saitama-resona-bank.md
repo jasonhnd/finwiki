@@ -7,9 +7,9 @@ aliases:
   - "さいたまりそなぎんこう"
 domain: megabanks
 created: 2026-05-20
-last_updated: 2026-06-05
-last_tended: 2026-06-05
-review_by: 2026-12-05
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, bank, resona, operating-company]
 status: active
@@ -39,6 +39,8 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]] (its domain route). Re
 | Bank code | 0017 |
 | Parent boundary | [[megabanks/resona-hd|りそな HD]] 傘下 bank operating company |
 | Regional focus | 埼玉県内を中心とする retail / SME banking |
+
+Sources: ^[金融庁「銀行免許一覧」: https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx; 埼玉りそな銀行「会社概要」: https://www.saitamaresona.co.jp/about/gaiyo/.]
 
 ## 2. Operating model
 

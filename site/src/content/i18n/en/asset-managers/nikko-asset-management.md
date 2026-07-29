@@ -1,11 +1,11 @@
 ---
 source: asset-managers/nikko-asset-management
-source_hash: 30f777c181c2e742
+source_hash: af79e650429a590a
 lang: en
 status: machine
 fidelity: ok
 title: "Amova Asset Management (formerly Nikko Asset Management)"
-translated_at: 2026-06-15T03:48:21.886Z
+translated_at: 2026-07-28T23:55:56.689Z
 ---
 
 # Amova Asset Management (formerly Nikko Asset Management)
@@ -28,6 +28,8 @@ Amova Asset Management Co., Ltd. is the former "Nikko Asset Management." It chan
 | Parent boundary | [[trust-banks/sumitomo-mitsui-trust|SuMi TRUST]] wholly-owned subsidiary (trust-FG-affiliated) |
 | Lineage | Former Nikko Securities Investment Trust line; acquired by Sumitomo Trust in 2009 年 |
 | Supervision | [[financial-regulators/fsa|FSA]] + Investment Trusts Association / Japan Investment Advisers Association |
+
+Sources: ^[FSA 金融商品取引業者登録一覧: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx; Amova Asset Management 会社概要: https://www.amova-am.com/about/outline.]
 
 ## 2. Operating model
 
@@ -56,4 +58,4 @@ As an investment-management operator, it is a Japan-originating global asset man
 - Amova Asset Management, "社名変更および証券投資信託約款変更のお知らせ" (2025-09-01).
 
 > [!info] Verification status
-> confidence: likely. The former name, current name, registration number, SuMi TRUST wholly-owned-subsidiary status, and the 2025-09-01 rename are public information. Specific AUM figures are not stated (public reporting puts it on the order of ~$260bn, but this is not treated as a fixed value).
+> confidence: likely. The former name, current name, registration number, SuMi TRUST wholly-owned-subsidiary status, and the 2025-09-01 rename have been reconfirmed as of 2026-07-29 in the FSA registration list, official company overview, and the rename announcement. Specific AUM figures are not stated.

@@ -1,11 +1,11 @@
 ---
 source: megabanks/saitama-resona-bank
-source_hash: 909eb3f165f7f9d7
+source_hash: cef04a7bddb9fc59
 lang: en
 status: machine
 fidelity: ok
 title: "Saitama Resona Bank"
-translated_at: 2026-06-15T03:48:21.927Z
+translated_at: 2026-07-28T23:40:43.840Z
 ---
 
 # Saitama Resona Bank
@@ -28,6 +28,8 @@ Saitama Resona Bank, Limited is a banking corporation under the [[megabanks/reso
 | Bank code | 0017 |
 | Parent boundary | bank operating company under the [[megabanks/resona-hd|りそな HD]] umbrella |
 | Regional focus | retail / SME banking centered on Saitama Prefecture |
+
+Sources: ^[金融庁「銀行免許一覧」: https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx; 埼玉りそな銀行「会社概要」: https://www.saitamaresona.co.jp/about/gaiyo/.]
 
 ## 2. Operating model
 

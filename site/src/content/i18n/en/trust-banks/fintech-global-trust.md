@@ -1,11 +1,11 @@
 ---
 source: trust-banks/fintech-global-trust
-source_hash: a9d9a9c2a56d2646
+source_hash: 120d07545ea7cc76
 lang: en
 status: machine
 fidelity: ok
 title: "Fintech Global Trust"
-translated_at: 2026-05-31T15:29:03.898Z
+translated_at: 2026-07-28T23:40:43.999Z
 ---
 
 # Fintech Global Trust
@@ -22,7 +22,7 @@ Fintech Global Trust describes itself as an operating trust company that provide
 
 The page matters because the entity is a clear structured-finance trust-company route. It belongs in FinWiki as a bridge between trust-company regulation, asset structuring, and non-bank finance.
 
-## Entity Boundary
+## Entity Boundary ^[金融庁の現行免許と会社公式サイト: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://fgitr.co.jp/]
 
 |Item|Reading|
 |---|---|
@@ -35,7 +35,7 @@ The page matters because the entity is a clear structured-finance trust-company 
 
 Do not treat this page as a general fintech page. The useful boundary is the trust-company role in structuring, administration, and asset protection.
 
-## Business Role Map
+## Business Role Map ^[フィンテックグローバル信託 公式サイト: https://fgitr.co.jp/]
 
 |Function|FinWiki relevance|
 |---|---|

@@ -1,34 +1,39 @@
 ---
 source: asset-managers/principal-japan
-source_hash: c8432079b1c02079
+source_hash: 456bec9a80d308d2
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Principal Japan / プリンシパル・ジャパン"
-translated_at: 2026-06-26T08:32:07.545Z
+translated_at: 2026-07-29T01:07:13.000Z
 ---
 
 # Principal Japan / プリンシパル・ジャパン
 
-## Wiki ルート本項目は [[asset-managers/INDEX|asset-managers INDEX]] に属する。外資系金融グループの同業文脈については [[life-insurers/manulife-japan|Manulife Life Insurance Japan]] と [[life-insurers/nn-life-japan|NN Life Japan]] を、より広い日本の退職給付 / 保険制度 / 規制の境界については [[insurance/INDEX|insurance index]] を併せて参照のこと。
+## Wiki ルート
+
+本項目は [[asset-managers/INDEX|asset-managers INDEX]] に属する。国内の機関投資家向け資産運用の同業として [[asset-managers/asset-management-one|アセットマネジメント One]] と比較し、外資系金融グループの同業文脈については [[life-insurers/manulife-japan|マニュライフ生命保険]] と [[life-insurers/nn-life-japan|NN 生命]] を参照する。より広い日本の退職給付 / 保険制度 / 規制の境界については [[insurance/INDEX|insurance index]] を併せて参照のこと。
 
 ## TL;DR
 
-Principal Financial Group, Inc. は、退職給付、保険、資産運用に注力する米国本社のグローバル金融サービスグループで、本社はアイオワ州デモインに置かれ、NASDAQ（PFG）に上場している。日本における Principal の主たるフットプリントは、歴史的に見てリテール生命保険の販売よりも、機関投資家向け資産運用（Principal Global Investors）と年金関連のアドバイザリーの側にあった。[[life-insurers/prudential-japan|Prudential Japan]] や [[life-insurers/metlife-japan|MetLife Japan]] のようなリテール志向の外資系生保と比べると、Principal の日本でのプレゼンスは、外資系金融グループの境界のうち機関投資家 / 資産運用寄りに位置する。
+Principal Financial Group, Inc. は、退職給付、保険、資産運用に注力する米国本社のグローバル金融サービスグループで、本社はアイオワ州デモインに置かれ、NASDAQ（PFG）に上場している。日本では、現行の FSA 金融商品取引業者登録一覧に **プリンシパル・グローバル・インベスターズ株式会社** が Kanto Local Finance Bureau (Kinsho) No. 462, として掲載され、第二種金融商品取引業、投資助言・代理業、投資運用業を登録している。本ページは、小売保険免許や特定されていない「Principal Japan」法人を推定せず、確認済みの日本の資産運用法人をアンカーとする。
 
 ## 1. ライセンス / グループ境界
 
 | 項目 | 備考 |
 |---|---|
-| 正式名称 | Principal の日本の事業体（FSA 登録に基づく特定の事業体 — 資産運用 / アドバイザリー） |
-| 英語 / ブランド | Principal / Principal Financial Group |
-| ライセンスルート | FSA 金融商品取引業者（投資運用 / 投資助言） — [[financial-licenses/foreign-financial-group-adjacent-licenses|foreign financial group adjacent licenses]] を参照 |
-| 業界団体 | 該当に応じて日本投資顧問業協会 / 投資信託協会 |
-| Wiki 上の役割 | 外資系の日本の金融グループ（退職給付 / 資産運用に注力） |
+| 正式名称 | プリンシパル・グローバル・インベスターズ株式会社 |
+| 英語 / ブランド | Principal Global Investors / Principal Asset Management |
+| ライセンスルート | 関東財務局長(金商)第462号; 第二種金融商品取引業、投資助言・代理業、投資運用業 |
+| 登録所在地 | 東京都千代田区有楽町1-5-2 東宝日比谷プロムナードビル |
+| FSA 登録上の加入協会 | 第二種金融商品取引業協会、資産運用業協会 |
+| Wiki 上の役割 | Principal グループの日本における金融商品取引業者アンカー |
 | 親会社 / 構造 | Principal Financial Group, Inc.（NASDAQ: PFG）、アイオワ州デモイン |
 
-ライセンスルートの詳細は、保険免許を有する事業体については [[financial-licenses/insurance-license-and-solvency|insurance license and ソルベンシー]] に、資産運用については [[financial-licenses/foreign-financial-group-adjacent-licenses|foreign-financial-group adjacent licenses]] に属する。
+Sources: ^[FSA 金融商品取引業者登録一覧: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx; Principal official company profile: https://www.principal.com/about-us/our-company; Principal worldwide locations: https://www.principal.com/about-us/our-company/worldwide-locations.]
+
+確認済みの日本法人は [[financial-licenses/foreign-financial-group-adjacent-licenses|外資系金融グループの隣接免許]] ルートに属する。別の保険免許法人が存在する場合は、該当する FSA 保険登録簿による独立確認が必要であり、グローバル親会社の保険事業から推定しない。
 
 ## 2. オペレーティングモデル
 
@@ -39,7 +44,7 @@ Principal Financial Group のグローバル事業は以下にまたがる：
 - 米国保険ソリューション（生命保険およびスペシャルティ・ベネフィット）
 - Principal International（米国外の選定市場、歴史的には中南米とアジア）
 
-日本では、Principal の機関投資家向け資産運用および年金アドバイザリー事業が主たるエンゲージメントモデルであり、外資系リテール生保と比べてリテール生命保険の販売は限定的である。Principal Global Investors は、日本の年金基金、金融機関、その他の機関投資家に対して機関投資家向け運用サービスを提供しており、[[asset-managers/asset-management-one|アセットマネジメントOne]] のような国内大手運用会社と同じ機関投資家 / 年金マンデートのプールを争っている。
+日本で登録により確認できる事業境界は、投資運用業、投資助言・代理業、第二種金融商品取引業である。Principal のグローバル会社概要は、より広いグループが退職給付、資産運用、保険を扱うと説明しているが、それを日本の登録法人が全商品・全免許を提供する証拠として扱わない。
 
 JapanFG で扱うピアとの比較：
 
@@ -53,7 +58,7 @@ Principal のソルベンシー / 資本フレームワークは、米国 Nation
 ## 3. なぜこのページが重要か
 
 - JapanFG 内に Principal Financial Group の参照ページを加え、その機関投資家 / 資産運用の日本における境界を固定する。
-- Principal の日本でのプレゼンスが、リテール志向の外資系生保とは構造的に異なること——マス向け生命保険の販売よりも、主に資産運用と年金の側にあること——を明確にする。
+- 日本の免許法人を正確に特定し、確認済みの資産運用境界をグローバルグループの保険事業から分離する。
 - 日本における、米国本社のグループがリテール生保（Prudential、MetLife）から機関投資家向け資産運用（Principal）まで幅を持つ、より広い外資系金融グループのランドスケープを理解するうえで有用。
 - 日本市場における米国本社の退職給付重視の金融グループに関する参照を整える。
 
@@ -72,12 +77,12 @@ Principal のソルベンシー / 資本フレームワークは、米国 Nation
 
 ## 出典
 
-- FSA 金融商品取引業者一覧: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.pdf
-- FSA 生命保険会社免許一覧: https://www.fsa.go.jp/menkyo/hoken.pdf
-- Principal Financial Group 公式サイト: https://www.principal.com
-- Principal Financial Group, Inc. Annual Report（NASDAQ: PFG）
+- FSA「金融商品取引業者登録一覧」: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx
+- Principal「Our company」: https://www.principal.com/about-us/our-company
+- Principal「Worldwide locations」: https://www.principal.com/about-us/our-company/worldwide-locations
+- Principal「Profile and offerings」: https://www.principal.com/about-us/our-company/profile-and-offerings
 
 ---
 
 > [!info] 検証状況
-> confidence: **likely**（FSA 業者一覧 + Principal Financial Group 公式 + Principal Annual Report による公開情報のみで構成、2026-05-24 校核）。Principal の日本事業体のライセンスルート（資産運用か保険免許か）は最新の FSA 登録に照らして検証すべき。日本事業体レベルの財務は、Principal Financial Group の NASDAQ 開示では個別には区分開示されていない。
+> confidence: **likely**. 2026-07-29 時点の FSA 登録一覧で、日本法人名、登録番号、所在地、三つの登録業務、加入協会を再確認した。Principal の公式 global profile は親グループの事業境界にのみ使用し、日本法人の商品・保険免許をそこから推定しない。日本法人単体の財務数値は本ページでは扱わない。

@@ -26,9 +26,9 @@
     "domain": "asset-managers",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -45,13 +45,12 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.saison-am.co.jp/company/profile/",
-      "https://www.saison-am.co.jp/company/history/",
-      "https://corporate.saisoncard.co.jp/",
-      "https://www.fsa.go.jp/menkyo/menkyoj/investment_mgmt.xlsx",
-      "Wikipedia: セゾン投信 (公開情報, 2026-05-25 抽出)",
-      "セゾン投信 ニュースリリース: 運用資産総額1兆円到達 (2025-10-06) https://www.saison-am.co.jp/news/2025/release/20251006173450.html",
-      "日本経済新聞: セゾン投信、中野晴啓会長が退任へ 直販モデルに転機 (2023-06) https://www.nikkei.com/article/DGXZQOUB017CW0R00C23A6000000/"
+      "https://www.saison-am.co.jp/company/outline/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx",
+      "https://www.saison-am.co.jp/news/2025/release/20251006173450.html",
+      "https://www.saison-am.co.jp/fund/global/",
+      "https://www.saison-am.co.jp/fund/master/",
+      "https://www.saison-am.co.jp/fund/japan/"
     ]
   },
   "summary": "This entry sits under asset-managers INDEX as the operating-company anchor for Credit Saison グループの投資信託子会社. Read it against クレディセゾン（親会社）, peer 長期分散投資のレオス・キャピタルワークス（ひふみ投信）・さわかみ投信・コモンズ投信、distribution channel asset-managers/INDEX の直販投信群、broader context asset management index for the regulatory boundary.",
@@ -97,9 +96,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6248,
-    "word_like_tokens": 965,
+    "nonspace_chars": 6282,
+    "word_like_tokens": 986,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-07-29"
   }
 }

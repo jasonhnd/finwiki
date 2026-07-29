@@ -1,11 +1,11 @@
 ---
 source: trust-banks/lombard-odier-trust
-source_hash: 148070d65455a07d
+source_hash: e46c459acaa8f869
 lang: ja
 status: machine
 fidelity: ok
 title: "ロンバー・オディエ信託"
-translated_at: 2026-06-02T14:54:39.098Z
+translated_at: 2026-07-28T23:40:04.458Z
 ---
 
 # ロンバー・オディエ信託
@@ -20,7 +20,7 @@ Lombard Odier Trust は、日本における Lombard Odier のプライベート
 
 このページは、ロンバー・オディエ信託株式会社と日本の信託会社ルートを扱う。より広い Lombard Odier グループのプロフィール、外部資産運用サービス、日本国外のプライベートバンキング業務はここに吸収しない。
 
-## 事業上の役割マップ
+## 事業上の役割マップ ^[金融庁の現行免許と Lombard Odier 東京拠点: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://asia.lombardodier.com/ja/home/offices/tokyo.html]
 
 | ルート | 読み方 |
 |---|---|

@@ -28,9 +28,9 @@
     "domain": "financial-conglomerates",
     "type": null,
     "created": "2026-05-24",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
-    "review_by": "2026-11-20",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "JapanFG",
@@ -50,11 +50,13 @@
     "sources": [
       "豊田通商 (8015) 公式 IR — https://www.toyota-tsusho.com/ir/",
       "豊田通商 統合報告書 — https://www.toyota-tsusho.com/ir/library/annual_report/",
+      "豊田通商 第105期有価証券報告書 — https://www.toyota-tsusho.com/ir/library/securities-report/upload_files/105th_yuho_ALL.pdf",
+      "トヨタ自動車 TFS設立リリース — https://global.toyota/jp/detail/12459084",
       "EDINET 有価証券報告書 — https://disclosure.edinet-fsa.go.jp/ (検索: 豊田通商)",
       "JPX 銘柄情報 8015 — https://www2.jpx.co.jp/"
     ]
   },
-  "summary": "This entry sits under financial-conglomerates INDEX as a sōgō shōsha parent holding-company with a distinctive トヨタグループ系商社 (Toyota group captive trading house) character — Toyota Motor が約 22% 級主要株主、5 大商社とは独立な 第 6 商社 / トヨタ系商社 の位置付け。Read it against 三菱商事 and 双日 (中堅商社) for peer / contrast context. For th",
+  "summary": "This entry sits under financial-conglomerates INDEX as a sōgō shōsha parent holding-company with a distinctive トヨタグループ系商社 (Toyota group captive trading house) character。Read it against 三菱商事 and 双日 for peer / contrast context. 豊田通商の公式有価証券報告書は、国内グループファイナンスを親会社に一元化すると説明しており、「豊田通商フィナンス」という100%国内子会社は確認でき",
   "headings": [
     "豊田通商 (Toyota Tsusho Corporation)",
     "Wiki route",
@@ -103,9 +105,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5428,
-    "word_like_tokens": 822,
+    "nonspace_chars": 5764,
+    "word_like_tokens": 850,
     "inbound_wikilinks_count": 9,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-07-29"
   }
 }

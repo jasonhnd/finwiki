@@ -28,9 +28,9 @@
     "domain": "manufacturer-finance",
     "type": null,
     "created": "2026-06-03",
-    "last_updated": "2026-06-03",
-    "last_tended": "2026-06-03",
-    "review_by": "2026-12-03",
+    "last_updated": "2026-07-29",
+    "last_tended": "2026-07-29",
+    "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
       "manufacturing",
@@ -51,7 +51,9 @@
     "sources": [
       "https://global.honda/en/investors/",
       "https://ir.americanhondafinance.com/",
-      "https://ir.americanhondafinance.com/IR_DCTM/quarterly_reports/Form%2010K%20FY2025%20Year%20ended%20Mar.%202025.pdf",
+      "https://ir.americanhondafinance.com/IR_DCTM/quarterly_reports/AHFC-03.31.2026-10K%20As%20Filed.pdf",
+      "https://www.honda.co.jp/HFC/about/profile/",
+      "https://global.honda/en/investors/financial_data/segment.html",
       "https://my.americanhondafinance.com/s/about-us-pre-login",
       "https://hondanews.com/en-US/releases/release-f20318eb27d18d74308003004c34bb7d-dedicated-acura-financial-services-launched",
       "https://disclosure2.edinet-fsa.go.jp/"
@@ -104,9 +106,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8004,
-    "word_like_tokens": 1238,
+    "nonspace_chars": 8416,
+    "word_like_tokens": 1292,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-06-06"
+    "last_modified": "2026-07-29"
   }
 }

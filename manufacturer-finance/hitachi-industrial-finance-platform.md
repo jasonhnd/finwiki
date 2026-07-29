@@ -9,17 +9,19 @@ aliases:
   - "日立社会インフラ金融"
 domain: "manufacturer-finance"
 created: 2026-05-25
-last_updated: 2026-05-26
-last_tended: 2026-05-26
-review_by: 2026-11-25
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [manufacturing, hitachi, industrial-finance, vendor-finance, infrastructure-finance, social-innovation, japan]
 status: active
 sources:
   - "https://www.hitachi.com/IR-e/library/integrated/"
   - "https://www.hitachi.com/IR-e/library/annual/"
-  - "https://www.hitachi.com/businesses/"
-  - "https://www.mitsubishi-hc-capital.com/english/ir/library/"
+  - "https://www.hitachi.com/en/about/hitachi/"
+  - "https://www.hitachi.com/en/ir/library/fr/"
+  - "https://www.hitachi.com/en/press/articles/2026/03/0327a/"
+  - "https://www.hitachi.com/New/cnews/month/2021/04/f_210401a.pdf"
   - "https://disclosure2.edinet-fsa.go.jp/"
 ---
 
@@ -31,81 +33,63 @@ This entry sits under [[manufacturer-finance/INDEX|manufacturing index]]. Read i
 
 ## TL;DR
 
-日立製作所 (Hitachi, Ltd. / 6501) は **「Social Innovation Business」** を掲げる総合電機・社会インフラ企業で、エネルギー・鉄道・IT (Lumada) ・産業機器の大型案件を **自社バランスシート + vendor finance + プロジェクト金融組成** の組合せで売る。FinWiki manufacturing anchor として見るべきは「製造業本体が **金融子会社 (旧日立キャピタル) を 2021 に外部統合した後** どうやって顧客金融を維持しているか」。旧 [[leasing-firms/hitachi-capital|日立キャピタル]] は 2021-04-01 に三菱UFJリースと統合し [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル (Mitsubishi HC Capital, 8593)]] となったため、Hitachi 単独の captive leasing は消滅し、現在は **(1) コーポレート財務によるプロジェクト金融の直接支援、(2) Mitsubishi HC Capital とのアライアンス継続、(3) 海外子会社レベルの個別 vendor finance** の三層構造になっている。
+本ページ名の「Hitachi Industrial Finance Platform」は公式の法人名・事業セグメント名ではなく、日立製作所の製品・サービスと金融の接点を読むための FinWiki 分析ルート。旧 [[leasing-firms/hitachi-capital|日立キャピタル]] は 2021-04-01 に三菱UFJリースと合併し [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] となり、同日付で日立の関係会社ではなくなった。したがって、現在の日立を「三菱HCキャピタルを captive として持つ」と扱ってはいけない。現行の顧客金融は、案件・地域ごとの銀行、投資家、SPV、政策金融等との連携として確認する必要がある。公式に確認できる最近の例は、Hitachi ZeroCarbon と MUFG 銀行が電動車両・充電インフラ向け資金を組み合わせる NextGen 協業である。
 
-## 1. 会社構造と金融部門の位置
+## 1. 会社・captive の境界
 
 | 項目 | 内容 |
 |---|---|
 | 正式名 | 株式会社日立製作所 / Hitachi, Ltd. |
 | 設立 | 1920-02-01 (1910 年 久原鉱業所日立鉱山発足) |
 | 本社 | 東京都千代田区丸の内 1-6-6 |
-| 上場 | 東証 PRIME 6501、NYSE 上場廃止 (2007)、現在は東証 + 名証 |
-| 連結売上収益 | 約 9.7 兆円 (FY2024 通期) |
-| 連結営業利益 | 約 7,500 億円規模 (FY2024 通期) |
-| 連結子会社 | 約 700 社規模 |
-| 旧 captive finance | [[leasing-firms/hitachi-capital|日立キャピタル]] (2021-04 統合により消滅) |
-| 現 主要 finance alliance | [[leasing-firms/mitsubishi-hc-capital|三菱 HC キャピタル]] (8593) |
+| 上場 | 東京・名古屋、証券コード 6501 |
+| FY2025 連結売上収益 | 10兆5,867億円 (2026-03-31 終了年度) |
+| 連結従業員 | 287,901人 (2026-03-31) |
+| 旧 captive finance | [[leasing-firms/hitachi-capital|日立キャピタル]]。2021-04-01 の合併で消滅 |
+| 現在の三菱HCとの資本境界 | 旧日立キャピタルは合併日に日立の関係会社ではなくなった |
+| 本ページの性格 | 法人・セグメントではなく、製造業と金融の接点を整理する分析ページ |
 
-### 金融部門の位置 (post-2021)
+Sources: ^[Hitachi「Corporate Profile」: https://www.hitachi.com/en/about/hitachi/; Hitachi「IR FAQs」: https://www.hitachi.com/en/ir/faq/; Hitachi「Hitachi Announces Recognizing Extraordinary Profit」(2021-04-01): https://www.hitachi.com/New/cnews/month/2021/04/f_210401a.pdf; Hitachi「History: 2001–」: https://www.hitachi.com/ja-jp/about/history/2001/.]
 
-```
-日立製作所 (6501, 親会社)
-  ├── Digital Systems & Services (Lumada / IT)
-  ├── Green Energy & Mobility (鉄道・電力・グリッド)
-  ├── Connective Industries (産業機器・家電・建機 → 日立建機分離方向)
-  ├── Automotive Systems (旧, 現 Astemo は本田 + JIC 連携)
-  └── コーポレート財務 (Treasury & Group Finance)
-        ├── プロジェクト金融組成支援 (鉄道・電力・データセンター)
-        ├── 売掛債権ファクタリング・サプライチェーンファイナンス
-        ├── 海外子会社の現地 vendor finance (Hitachi Energy 含む)
-        └── アライアンス: 三菱 HC キャピタル経由の国内法人リース
-```
+2026-04-01 時点の日立の報告セグメントは Digital Systems & Services、Energy、Mobility、Connective Industries 等へ更新されている。旧ページにあった「Green Energy & Mobility」を一つの現行セグメントとして扱う構造や、三菱HCキャピタルを日立の現 captive とする構造は採用しない。
 
-旧 [[leasing-firms/hitachi-capital|日立キャピタル]] が三菱HCキャピタルに統合された結果、日立本体は **「自社財務 + 提携リース会社経由」** のハイブリッド型に移行。重い設備リースは 三菱HCキャピタル に流し、戦略的に重要な大型インフラ案件は本体財務が直接組成する。
+## 2. 製品・サービスと金融の接点
 
-## 2. 事業ライン × 金融組成パターン
-
-| 事業ライン | 主な顧客金融組成 | パートナー金融 |
+| 接点 | 現在確認できる境界 |
 |---|---|---|
-| 鉄道 (英国 Hitachi Rail、欧州・日本新幹線輸出) | PFI / PPP、リース、輸出金融 | [[financial-regulators/jbic|JBIC]] / [[policy-finance/nexi|NEXI]] / 三菱HCキャピタル / 欧州系インフラ投資ファンド |
-| エネルギー (Hitachi Energy = 旧 ABB Power Grids) | EPC + プロジェクトファイナンス | [[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG]] / [[megabanks/mizuho-fg|みずほ FG]] / 欧州 ECA |
-| IT・Lumada (デジタルプラットフォーム) | サブスクリプション、SaaS、利用量連動 | 自社ファイナンス (deferred revenue 計上) |
-| 産業機器・建機 (日立建機 6305 別上場) | vendor lease | [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] / [[leasing-firms/orix-corp|オリックス]] / 地銀 |
-| データセンター | DC 建設の SPV ファイナンス | 三菱地所連携、銀行団 |
-| 自動車部品 (Astemo, 本田 + JIC 連携) | OEM vendor financing 限定 | Honda 系金融との接続 |
+| 旧日立キャピタル | 2021 年の合併以前の captive / vendor finance 履歴。現在の資本関係と混同しない |
+| Hitachi ZeroCarbon / NextGen | 日立の技術・運用と MUFG 銀行の金融機能を組み合わせ、電動車両・充電インフラ導入を支援 |
+| 鉄道・エネルギー・産業案件 | 契約ごとに顧客、SPV、銀行、投資家、ECA 等の関与を一次資料で確認する。全案件共通の組成を仮定しない |
+| SaaS / XaaS | 顧客への請求モデルと資金提供は別概念。deferred revenue を「自社ファイナンス」と同一視しない |
+| 三菱HCキャピタル | 旧日立キャピタルの承継先。現在の日立連結 captive ではない |
 
-Hitachi Rail UK の **Class 800 / 802** や **Intercity Express Programme (IEP)** のような英国向け大型鉄道案件は、車両製造 + 30 年保守 + リースの一体取引で、リースを引き受ける SPV に英政府・年金ファンド・銀行団が出資する典型的な「日本メーカー製造 × 英国インフラファイナンス」案件として有名。
+Sources: ^[Hitachi / MUFG Bank「NextGen」MoU (2026-03-27): https://www.hitachi.com/en/press/articles/2026/03/0327a/; Hitachi「Outline of Consolidated Financial Results for the Year Ended March 31, 2026」: https://www.hitachi.com/content/dam/hitachi/global/en/press/files/2026/04/260427/2025_Anpre.pdf; Mitsubishi HC Capital「2021-04-01 corporate site launch」: https://www.mitsubishi-hc-capital.com/news/2021/20210401-01.html.]
 
-## 3. KPI (FY2024, 連結ベース)
+## 3. 現行スケール
 
-| 指標 | 値 | 出所 |
+| 指標 | FY2025 / 2026-03-31 時点 |
 |---|---|---|
-| 連結売上収益 | 約 9.7 兆円 | Hitachi Integrated Report FY2024 |
-| 連結 Adjusted EBITA | 約 10% 規模 | 同上 |
-| 連結純利益 | 約 6,000 億円規模 | 同上 |
-| 連結総資産 | 約 13 兆円規模 | 同上 |
-| Hitachi Energy 売上 | 約 1.4 兆円規模 | Segment disclosure |
-| Hitachi Rail 売上 | 約 0.7 兆円規模 | Segment disclosure |
-| ネット D/E | 0.3 倍前後 | 同上 |
-| R&D 投資 | 売上比 3-4% 程度 | 同上 |
+| 連結売上収益 | 10兆5,867億円 |
+| 単体売上 | 1兆8,432億円 |
+| 連結従業員 | 287,901人 |
+| 単体従業員 | 25,934人 |
+| 連結会社数 | 606社 |
+| 資本金 | 4,666億円 |
 
-> KPI は Hitachi 「Integrated Report」「Annual Report on Form 20-F (旧)」「決算短信」を基準とする。Hitachi Energy / Hitachi Rail は本社セグメント開示を要参照。
+Sources: ^[Hitachi「Corporate Profile」: https://www.hitachi.com/en/about/hitachi/; Hitachi「About Us」: https://www.hitachi.com/en/about/.]
 
-## 4. 戦略 (Connect, Build, Finance)
+## 4. 読み方
 
-- **Lumada × 顧客金融**: ソリューション販売を「機器売り切り」から「データを通じた持続課金」へ。会計上は契約資産・契約負債 (IFRS 15) として現れ、顧客に対しては利用量連動の請求になる。日立本体財務が deferred revenue を抱える。
-- **Hitachi Energy 戦略**: 2020 に旧 ABB Power Grids を約 78 億ドルで買収、世界の送配電・グリッド・HVDC 市場で ABB ブランド継続。プロジェクトファイナンス組成は欧州系銀行団 + 日本メガバンク + ECA (JBIC/NEXI + EKN 等) のシンジケート。
-- **Hitachi Rail UK の prime contractor 化**: 英国・イタリア (旧 AnsaldoBreda 統合) を起点に、欧州・アジアで車両 + メンテナンス + リースの一体案件を取りに行く。
-- **本田 + JIC との Astemo 連携**: 旧日立 Automotive Systems を 本田 + 日立 + JIC のスキームで分離・統合し、自動車部品事業を独立採算化。FinWiki manufacturing 視点では「captive を分離してメーカー本体の B/S を軽くする」流れの一例。
-- **アライアンス型 leasing**: 旧 日立キャピタルを手放した後も、日立製品の国内リース需要は [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] との優先取引で吸収する形が継続。
+- **資本境界を先に確認**: 旧日立キャピタルの歴史と、現在の日立連結範囲を分ける。
+- **案件単位で確認**: 鉄道・電力・データセンター等は、同じ事業ラインでも契約・国・時期で金融構造が異なる。
+- **請求モデルと金融を分ける**: subscription / deferred revenue は、それだけで顧客金融や貸付を意味しない。
+- **提携を一般化しない**: NextGen は確認済みの個別協業であり、全日立製品の標準金融スキームではない。
 
 ## 5. 規制・政策
 
 - 上場会社として東証・金商法・会社法・IFRS の開示対象。
-- 鉄道 (UK ORR、欧州 ERA、日本 国交省)、電力 (各国電力規制)、原子力 (NRA / IAEA)、輸出管理 (METI 安全保障貿易管理) と多重規制。
-- 顧客金融組成では [[financial-regulators/jbic|JBIC]]・[[policy-finance/nexi|NEXI]] を中心に ECA カバレッジを使う案件が多い。
-- 旧 日立キャピタル統合の歴史は、リース業界における **三大リース (オリックス / 三菱HCキャピタル / 東京センチュリー) 体制** の確立要因として参照される。
+- 銀行・リース・証券化・輸出金融の規制は、実際に関与する金融主体と取引形態に従う。
+- 鉄道、電力、原子力、輸出管理などの事業規制と、資金提供者にかかる金融規制を分けて読む。
 
 ## Related
 
@@ -118,12 +102,14 @@ Hitachi Rail UK の **Class 800 / 802** や **Intercity Express Programme (IEP)*
 ## Sources
 
 - Hitachi, Ltd.「Integrated Report」: https://www.hitachi.com/IR-e/library/integrated/
-- Hitachi, Ltd.「Annual Report」: https://www.hitachi.com/IR-e/library/annual/
-- Hitachi, Ltd.「Businesses」: https://www.hitachi.com/businesses/
-- Mitsubishi HC Capital「IR Library」: https://www.mitsubishi-hc-capital.com/english/ir/library/
+- Hitachi, Ltd.「Corporate Profile」: https://www.hitachi.com/en/about/hitachi/
+- Hitachi, Ltd.「Financial Results」: https://www.hitachi.com/en/ir/library/fr/
+- Hitachi / MUFG Bank「NextGen」MoU: https://www.hitachi.com/en/press/articles/2026/03/0327a/
+- Hitachi「Hitachi Announces Recognizing Extraordinary Profit」: https://www.hitachi.com/New/cnews/month/2021/04/f_210401a.pdf
+- Mitsubishi HC Capital「2021-04-01 corporate site launch」: https://www.mitsubishi-hc-capital.com/news/2021/20210401-01.html
 - EDINET (有価証券報告書): https://disclosure2.edinet-fsa.go.jp/
 
 ---
 
 > [!info] 校正ステータス
-> confidence: **likely**。Hitachi IR / Integrated Report・三菱HCキャピタル IR・EDINET をベースに公開情報で構成。FY2024 のセグメント別売上は概数で記載。Hitachi Rail UK / Hitachi Energy の個別案件金融組成の詳細は公開情報からは追跡限度あり。
+> confidence: **likely**。2026-07-29 時点で公式会社概要、FY2025 決算、2021 年の旧日立キャピタル合併、2026 年の NextGen 協業を再確認。旧 captive と現在の連結範囲を分離し、裏付けのない全社共通金融スキーム・優先提携・概算 KPI を削除した。

@@ -1,12 +1,12 @@
 ---
 source: trust-banks/fpg-trust
-source_hash: 33a6d0f98b9c20b6
+source_hash: b430f29533e61273
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "FPG信託 (FPG Trust)"
-translated_at: 2026-06-26T08:32:30.857Z
+translated_at: 2026-07-28T23:40:04.375Z
 ---
 
 # FPG信託 (FPG Trust)
@@ -23,7 +23,7 @@ FPG信託は FPG グループ傘下の運営信託会社である。公開され
 
 このページが重要なのは、FPG信託が単なる登録簿上の一行に留まらないからである。公開された会社資料は、動産、不動産、有価証券、金銭債権、その他受託資産の信託ストラクチャーを強調しており、ストラクチャード資産ファイナンスや富裕層／中小企業隣接の商品分析にとって有用なルートとなっている。
 
-## Entity Boundary
+## Entity Boundary ^[金融庁の現行免許と FPG 信託会社概要: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://www.fpgtrust.jp/profile/index.html]
 
 | Item | Reading |
 |---|---|
@@ -36,7 +36,7 @@ FPG信託は FPG グループ傘下の運営信託会社である。公開され
 
 これは信託会社であって、免許を受けた信託銀行ではない。公開情報がそれらを結び付けない限り、預金受入、銀行バランスシート、通常の銀行戦略に関する問いはこのページの範囲外とすること。
 
-## Business Role Map
+## Business Role Map ^[FPG 信託「信託サービス」: https://www.fpgtrust.jp/service/index.html]
 
 | Function | FinWiki relevance |
 |---|---|

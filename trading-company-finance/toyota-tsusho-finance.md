@@ -9,9 +9,9 @@ aliases:
   - "toyota-tsusho-finance"
 domain: trading-company-finance
 created: 2026-05-24
-last_updated: 2026-05-26
-last_tended: 2026-06-24
-review_by: 2026-08-08
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, finance, trading-company-finance, toyota-tsusho, toyota-group, group-treasury, factoring, cms]
 status: active
@@ -28,13 +28,13 @@ sources:
 
 This entry sits under [[trading-company-finance/INDEX|trading-company-finance INDEX]]. Read it against [[leasing-firms/toyota-financial|トヨタファイナンシャルサービス (TFS)]] (the Toyota-group **captive auto-finance** holding, distinct from this 商社系 internal-treasury arm) and [[card-issuers/toyota-finance|トヨタファイナンス]] (the auto-loan / Toyota dealer finance operating company). For peer 商社系 group-treasury arms, see [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]], [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]], [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]], [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]], [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]]. See [[banking/INDEX|banking index]] for the broader regulatory boundary.
 
-## 1. 会社概要
+## 1. 会社概要 ^[豊田通商 IR: https://www.toyota-tsusho.com/ir/; EDINET: https://disclosure2.edinet-fsa.go.jp/]
 
 | Item | Notes |
 |---|---|
 | Wiki role | **豊田通商グループの内向け金融** + トヨタ系商社サプライチェーン金融補助 |
 
-### トヨタグループ金融機能の三系統
+### トヨタグループ金融機能の三系統 ^[豊田通商・トヨタ自動車の有価証券報告書と各社公式 IR に基づく比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]
 
 | 系統 | 主体 | 役割 |
 |---|---|---|
@@ -44,7 +44,7 @@ This entry sits under [[trading-company-finance/INDEX|trading-company-finance IN
 
 この三系統は **トヨタ自動車 (本体) / 豊田通商 (商社) / 各販社 (国内 / 海外ディーラー)** という機能分業に対応する。
 
-## 2. 事業セグメント・マップ
+## 2. 事業セグメント・マップ ^[豊田通商 IR / 有価証券報告書。業務範囲は非上場子会社の開示制約があるため最新関係会社開示を優先: https://www.toyota-tsusho.com/ir/]
 
 | セグメント | 内容 |
 |---|---|
@@ -63,7 +63,7 @@ This entry sits under [[trading-company-finance/INDEX|trading-company-finance IN
 
 豊田通商フィナンス はこれらの分野でのサプライヤーファイナンス / 海外通貨ヘッジ / 国境跨ぎ送金 等を支える。
 
-### 競合 / Peer
+### 競合 / Peer ^[各親会社の有価証券報告書・公式 IR を横断した比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]
 
 | 商社 | 内向け金融子会社 | 外向けリース系 |
 |---|---|---|

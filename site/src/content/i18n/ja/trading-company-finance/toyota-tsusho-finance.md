@@ -1,11 +1,11 @@
 ---
 source: trading-company-finance/toyota-tsusho-finance
-source_hash: 903e4d44a8f40a6d
+source_hash: 301aeaf415095d48
 lang: ja
 status: machine
 fidelity: ok
 title: "豊田通商フィナンス (Toyota Tsusho Finance)"
-translated_at: 2026-06-02T16:33:58.473Z
+translated_at: 2026-07-28T23:40:04.321Z
 ---
 # 豊田通商フィナンス (Toyota Tsusho Finance)
 
@@ -13,13 +13,13 @@ translated_at: 2026-06-02T16:33:58.473Z
 
 この項目は [[trading-company-finance/INDEX|trading-company-finance INDEX]] の配下に置かれる。[[leasing-firms/toyota-financial|トヨタファイナンシャルサービス (TFS)]]（Toyota グループの **captive auto-finance** 持株会社で、本ページの商社系内部財務部門とは異なる）および [[card-issuers/toyota-finance|トヨタファイナンス]]（オートローン / Toyota ディーラー金融の運営会社）とあわせて読む。商社系グループ財務部門のピアについては [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]]、[[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]]、[[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]]、[[trading-company-finance/itochu-finance|伊藤忠ファイナンス]]、[[trading-company-finance/marubeni-financial-services|丸紅フィナンス]] を参照する。より広い規制上の境界については [[banking/INDEX|banking index]] を参照。
 
-## 1. 会社概要
+## 1. 会社概要 ^[豊田通商 IR: https://www.toyota-tsusho.com/ir/; EDINET: https://disclosure2.edinet-fsa.go.jp/]
 
 | 項目 | 内容 |
 |---|---|
 | ウィキ上の役割 | **豊田通商グループの内向け金融** + トヨタ系商社サプライチェーン金融補助 |
 
-### トヨタグループ金融機能の三系統
+### トヨタグループ金融機能の三系統 ^[豊田通商・トヨタ自動車の有価証券報告書と各社公式 IR に基づく比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]
 
 | 系統 | 主体 | 役割 |
 |---|---|---|
@@ -29,7 +29,7 @@ translated_at: 2026-06-02T16:33:58.473Z
 
 この三系統は **トヨタ自動車 (本体) / 豊田通商 (商社) / 各販社 (国内 / 海外ディーラー)** という機能分業に対応する。
 
-## 2. 事業セグメント・マップ
+## 2. 事業セグメント・マップ ^[豊田通商 IR / 有価証券報告書。業務範囲は非上場子会社の開示制約があるため最新関係会社開示を優先: https://www.toyota-tsusho.com/ir/]
 
 | セグメント | 内容 |
 |---|---|
@@ -48,7 +48,7 @@ translated_at: 2026-06-02T16:33:58.473Z
 
 豊田通商フィナンスは、これらの分野でのサプライヤーファイナンス / 海外通貨ヘッジ / 国境跨ぎ送金等を支える。
 
-### 競合 / ピア
+### 競合 / ピア ^[各親会社の有価証券報告書・公式 IR を横断した比較。EDINET: https://disclosure2.edinet-fsa.go.jp/]
 
 | 商社 | 内向け金融子会社 | 外向けリース系 |
 |---|---|---|

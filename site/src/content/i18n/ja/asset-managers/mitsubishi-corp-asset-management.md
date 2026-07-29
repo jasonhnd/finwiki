@@ -1,47 +1,58 @@
 ---
 source: asset-managers/mitsubishi-corp-asset-management
-source_hash: 28d1c03258821915
+source_hash: 267c20187eb407b7
 lang: ja
 status: machine
 fidelity: ok
-title: "三菱商事系アセットマネジメント"
-translated_at: 2026-06-02T14:54:39.066Z
+title: "三菱商事・UBSリアルティ（現 KJR Management）"
+translated_at: 2026-07-28T23:40:03.760Z
 ---
 
-# 三菱商事系アセットマネジメント
+# 三菱商事・UBSリアルティ（現 KJR Management）
 
 ## ウィキ上の位置づけ
 
-この項目は [[asset-managers/INDEX|asset-managers INDEX]] に属する。同業の銀行系 AM である [[asset-managers/asset-management-one|アセットマネジメントOne]]（[[megabanks/mizuho-fg|みずほ FG]] + [[life-insurers/dai-ichi-life|第一生命]] の JV AM）および [[asset-managers/mufg-asset-management|三菱UFJアセットマネジメント]]（[[megabanks/mufg|MUFG]] 系列 AM）と併せて読む。同じ親会社内のグループ財務機能は [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]] を参照。商社系金融の広い比較対象は [[trading-company-finance/mitsui-bussan-financial-services|三井物産FS]] / [[trading-company-finance/sumitomo-corp-financial-management|住友商事FM]] / [[trading-company-finance/itochu-finance|伊藤忠ファイナンス]] / [[trading-company-finance/marubeni-financial-services|丸紅フィナンス]] / [[trading-company-finance/toyota-tsusho-finance|豊田通商フィナンス]] / [[trading-company-finance/sojitz-finance|双日フィナンス]]。金融商品取引法 / 投資運用業の境界は [[securities/INDEX|securities index]] を参照。
+この項目は [[asset-managers/INDEX|asset-managers INDEX]] に属する企業沿革ルートである。三菱商事・ユービーエス・リアルティ（MC-UBSR）は 2022 年に KKR へ全株譲渡され、KJR Management に改称した。現在の三菱商事子会社ではない。[[asset-managers/mufg-asset-management|三菱UFJアセットマネジメント]] および [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]] は、別企業集団の [[megabanks/mufg|MUFG]] に属するため分けて扱う。三菱商事の財務機能は [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]] を参照。
+
+Sources: ^[三菱商事・UBS・KKR 譲渡合意（2022-03-17）: https://www.mitsubishicorp.com/jp/ja/news/release/2022/0000048879.html; KKR 取得完了（2022-04-28）: https://media.kkr.com/news-details?download=1&news_id=6485532f-6180-415c-a8a0-9f89df61876f; KJR Management 会社概要: https://www.kjrm.co.jp/company/mgmt/; KJRM グループ再編・KKR 関係: https://www.kjrm.co.jp/about/inside/; FSA 金融商品取引業者登録一覧: https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx.]
 
 ## 1. 会社概要
 
 > [!warning] 重要な資本異動（2022）
-> かつて三菱商事系不動産 AM の中核だった **三菱商事・ユービーエス・リアルティ株式会社 (MC-UBSR)** は、**2022-04-28 に三菱商事 (8058) と UBS Asset Management AG が保有全株式を KKR（間接子会社 76 株式会社）へ譲渡（約 2,300 億円）して完全子会社化され、商号を株式会社 KJRマネジメント (KJR Management) に変更**した。すなわち当該中核会社は **現在は三菱商事系ではなく KKR 傘下**であり、本ページの「三菱商事系不動産 AM の集合ノード」という旧前提は MC-UBSR については当てはまらない。下表は沿革整理のための記載。
+> かつて三菱商事系不動産 AM の中核だった **三菱商事・ユービーエス・リアルティ株式会社 (MC-UBSR)** は、**2022-04-28 に三菱商事と UBS Asset Management が保有する全株式を KKR に譲渡し、株式会社 KJRマネジメント (KJR Management) に商号変更**した。2025 年のグループ再編後、KJR Management は KKR グループ 100% 出資の KJRM Holdings が 100% 保有し、J-REIT 運用を担う。したがって同社を現在の三菱商事系 AM と扱わない。
 
 | 項目 | 注記 |
 |---|---|
-| 旧中核会社（沿革） | **三菱商事・ユービーエス・リアルティ株式会社 (MC-UBSR)** ＝ 2000 設立の エム・シー・アセットマネジメント (三菱商事 51% / UBS 49%) が同年改称した合弁。**2022-04-28 に KKR が全株取得し「株式会社 KJRマネジメント」へ商号変更**（運用残高 約 1.7 兆円、日本都市ファンド投資法人・産業ファンド投資法人を運用）|
-| 旧英名 | Mitsubishi Corp.-UBS Realty Inc.（現 KJR Management Co., Ltd.）|
-| 旧親会社 → 現親会社 | 旧：三菱商事 51% + UBS 49% の合弁 → **現：KKR 100%（2022-04 以降、三菱商事は資本関係なし）** |
-| ライセンス経路 | FIEA 投資運用業 (J-REIT 運用 + 私募ファンド) |
-| ウィキ上の役割（再定義） | 本ページは沿革上「三菱商事系不動産 AM」の集合ノードだが、中核だった MC-UBSR は 2022 に KKR へ売却済み。**現存する三菱商事系の不動産・実物アセット AM 機能の特定子会社は要再確認**（個別子会社のスナップショットではない）|
+| 旧法人名 | 三菱商事・ユービーエス・リアルティ株式会社 / Mitsubishi Corp.-UBS Realty Inc. |
+| 現法人名 | 株式会社 KJRマネジメント / KJR Management |
+| 資本異動 | 旧：三菱商事 51% + UBS Asset Management 49% → 2022-04-28 に KKR が全株取得 |
+| 現在の直接株主 | 株式会社 KJRMホールディングス 100%（同持株会社は KKR グループ 100% 出資） |
+| FSA 登録 | 関東財務局長(金商)第403号 |
+| 登録業務 / 現行事業 | 投資運用業；日本都市ファンド投資法人と産業ファンド投資法人の資産運用 |
+| Wiki 上の役割 | MC-UBSR から KJR Management への沿革・ライセンス境界 |
 
-### 三菱グループ内の AM 機能配置
+### 現在の法人グループ境界
 
-| 層 | 主体 | 役割 |
+| 主体 | 現在の法人グループ | 本ページとの関係 |
 |---|---|---|
-| **金融機関系 (一般運用)** | [[asset-managers/mufg-asset-management|三菱UFJアセットマネジメント]] | 投資信託・年金等の伝統的 AM |
-| **信託系 (信託運用 + 不動産)** | [[trust-banks/mitsubishi-ufj-trust-bank|MUTB]] 系列 + AMS (旧 三菱信託) | 信託銀行内の運用 + 信託機構を活用した不動産 AM |
-| **商社系 (実物アセット + 投資)** | **本ページの 三菱商事系 AM 群** | 実物アセット (不動産・インフラ・再エネ・PE) を活用した実物アセット AM |
+| KJR Management | KKR / KJRM グループ | 旧 MC-UBSR の現法人。現在は三菱商事との資本関係なし |
+| [[asset-managers/mufg-asset-management|三菱UFJアセットマネジメント]] | [[megabanks/mufg|MUFG]] | 名称に「三菱」を含むが、三菱商事の子会社ではない |
+| [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]] | [[megabanks/mufg|MUFG]] | MUFG の信託銀行。三菱商事の子会社ではない |
+| 三菱商事 | 三菱商事グループ | 2022 年に MC-UBSR 持分を全て譲渡。引用した資料から特定の後継 AM 子会社を推定しない |
 
-## 2. 事業セグメント・マップ
+Sources: ^[KJR Management 会社概要: https://www.kjrm.co.jp/company/mgmt/; 三菱商事 譲渡リリース: https://www.mitsubishicorp.com/jp/ja/news/release/2022/0000048879.html; 三菱UFJアセットマネジメント 会社概要: https://www.am.mufg.jp/corp/about/gaiyou.html; 三菱UFJ信託銀行 会社情報: https://www.tr.mufg.jp/ippan/about/index.html.]
 
-| セグメント | 内容 |
+## 2. 事業境界
+
+| 時点 | 主体 | 公開資料で確認できる事業境界 |
 |---|---|
-| **私募不動産ファンド** | 機関投資家向け不動産私募ファンド (オフィス / 物流 / 商業 / レジデンス) |
+| 2022 年の譲渡時 | MC-UBSR | 日本都市ファンド投資法人・産業ファンド投資法人の運用。譲渡発表時 AUM 約 1.7 兆円 |
+| 2025 年の再編後 | KJR Management | J-REIT 運用 |
+| 2025 年の再編後 | KJRM Private Solutions | 私募ファンド運用 |
 
-### 同業・競合
+Sources: ^[三菱商事 譲渡リリース: https://www.mitsubishicorp.com/jp/ja/news/release/2022/0000048879.html; KJRM グループ再編: https://www.kjrm.co.jp/about/inside/; KJR Management 会社概要: https://www.kjrm.co.jp/company/mgmt/.]
+
+### J-REIT 運用会社の参照先
 
 | 系列 | 代表 J-REIT / AM |
 |---|---|
@@ -49,16 +60,16 @@ translated_at: 2026-06-02T14:54:39.066Z
 | 三井不動産系 | 日本ビルファンド投資法人 (NBF) 等 |
 | 野村系 | NOMURA リアルエステート系 J-REIT |
 
-不動産 AM 業界は **「実物アセットの源流」をどこから引くか** で系列分けされる。商社系は本社の海外プラント / インフラ / 物流案件 + 国内開発で発掘した実物アセットを ファンド化する垂直統合モデル。
+この表は参照ルートであり、規模順位や運用品質の比較ではない。各社・各投資法人の最新情報はそれぞれの公式開示で確認する。
 
 ### グループ財務機能との分業
 
-三菱商事系金融機能は本ページの AM 群 + [[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]] (内向け CMS / グループファイナンス) + [[leasing-firms/mitsubishi-hc-capital|三菱HCキャピタル]] (上場リース・asset finance) + [[megabanks/mufg|MUFG]] 系列銀行・信託・AM の **多層構造**。本ページ AM は「実物アセット由来のファンドビジネス」を担う特化機能。
+[[trading-company-finance/mitsubishi-corp-finance|三菱商事FS]] は三菱商事グループの treasury route だが、KJR Management は 2022 年以降 KKR / KJRM グループである。また、[[megabanks/mufg|MUFG]] 系の銀行・信託・AM は三菱商事の子会社群ではない。この三つの法人境界を統合ノードとして扱わない。
 
 ## 4. 規制・政策
 
 - **主管**：[[financial-regulators/fsa-supervision-bureau|金融庁 監督局]] (FIEA 投資運用業者)
-- **業界団体**：投資信託協会 / 不動産証券化協会 (ARES)
+- **業界団体**：資産運用業協会 / 不動産証券化協会 (ARES)
 - **規制論点**：
   - FIEA **投資運用業** 登録 + 利益相反管理
   - **J-REIT** 規制 (運用ガイドライン・利益相反・スポンサー取引)
@@ -89,15 +100,13 @@ translated_at: 2026-06-02T14:54:39.066Z
 
 ## 出典
 
-- 三菱商事株式会社 (8058) 有価証券報告書 (EDINET 開示) — 関係会社一覧
-- 三菱商事 公式 IR / 統合報告書 (グループ会社一覧)
-- **三菱商事 ニュースリリース「KKR、三菱商事及び UBS が業界最大級の不動産運用会社である 三菱商事・ユービーエス・リアルティ株式の KKR への譲渡に合意」**（2022-03-17、約 2,300 億円・100% 譲渡、2022-04 完了）https://www.mitsubishicorp.com/jp/ja/news/release/2022/0000048879.html
-- **Wikipedia「KJRマネジメント」**（旧 三菱商事・ユービーエス・リアルティ、2000 設立 エム・シー・アセットマネジメント 三菱商事 51%/UBS 49%、2022-04-28 KKR 完全子会社化・商号変更、運用残高約 1.7 兆円、日本都市ファンド投資法人・産業ファンド投資法人を運用）
-- FSA 金融商品取引業者一覧 https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx
-- 不動産証券化協会 (ARES) https://www.ares.or.jp/
-- EDINET 有価証券報告書検索 https://disclosure.edinet-fsa.go.jp/
+- 三菱商事「KKR、三菱商事及び UBS が三菱商事・ユービーエス・リアルティ株式の KKR への譲渡に合意」（2022-03-17）https://www.mitsubishicorp.com/jp/ja/news/release/2022/0000048879.html
+- KKR「KKR Completes Acquisition of Leading Japanese Real Estate Asset Manager」（2022-04-28）https://media.kkr.com/news-details?download=1&news_id=6485532f-6180-415c-a8a0-9f89df61876f
+- KJR Management「会社概要」https://www.kjrm.co.jp/company/mgmt/
+- KJRM「KJRMを知る」https://www.kjrm.co.jp/about/inside/
+- FSA「金融商品取引業者登録一覧」https://www.fsa.go.jp/menkyo/menkyoj/kinyushohin.xlsx
 
 ---
 
 > [!info] 検証状況
-> 信頼度: **暫定** (公開情報ベース 2026-05-24、2026-05-29 一部更新)。本ページが「中核」としていた **三菱商事・ユービーエス・リアルティ (MC-UBSR) は 2022-04-28 に KKR へ全株譲渡され「KJRマネジメント」へ商号変更済み**（三菱商事 公式リリース・Wikipedia「KJRマネジメント」で確認）。したがって MC-UBSR は現在三菱商事系ではない。**2022 以降に現存する三菱商事系の不動産・実物アセット AM 子会社の特定は未確定**で、最新の FSA 金融商品取引業者一覧 / 三菱商事 有価証券報告書 関係会社一覧での再確認が必要。本ページは「三菱商事系 AM 機能群」の集合ノードとしての位置付けで、特定子会社のスナップショットではない。**親 商社 ページ `mitsubishi-corp.md` は未作成 → 将来的に backlog として追加予定**。
+> confidence: **likely**. 2026-07-29 時点で、三菱商事と KKR の一次リリース、KJR Management 公式会社概要、KJRM の 2025 年再編説明、FSA 登録一覧を照合した。MC-UBSR は 2022-04-28 に KKR が全株取得して KJR Management へ改称し、現在の直接株主は KKR グループ 100% 出資の KJRM Holdings である。三菱商事、MUFG、KJRM を同一の現行 AM グループとして扱わない。

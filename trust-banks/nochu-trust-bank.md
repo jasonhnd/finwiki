@@ -3,14 +3,14 @@ title: "農中信託銀行 (Norinchukin Trust & Banking)"
 aliases: ["Nochu Trust Bank", "Norinchukin Trust", "農中信託銀行", "農中信託銀行株式会社"]
 domain: trust-banks
 created: 2026-05-20
-last_updated: 2026-06-05
-last_tended: 2026-06-05
-review_by: 2026-11-20
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, bank, trust-bank, cooperative-finance, operating-company]
 status: active
 sources:
-  - "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
+  - "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf"
   - "https://www.nochutb.co.jp/about/summary.html"
   - "https://www.nochutb.co.jp/about/work/index.html"
 ---
@@ -25,7 +25,7 @@ This entry sits under [[trust-banks/INDEX|trust-banks INDEX]] (its domain route)
 
 農中信託銀行 (The Norinchukin Trust & Banking Co., Ltd.) は [[cooperative-banks/norinchukin|農林中央金庫]] 100% 出資の trust-bank operating company。**銀行法の銀行免許に加え兼営法に基づく信託業務の兼営認可**を持つ信託兼営金融機関で、JA バンク / 系統金融機関の中央機関である農林中央金庫グループ内で信託・資産管理・運用関連機能を担う。協同組織金融の中央機関に紐づく唯一の信託銀行という点が特徴。
 
-## 1. License / group boundary
+## 1. License / group boundary ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; 農中信託銀行「会社概要」: https://www.nochutb.co.jp/about/summary.html]
 
 | Item | Notes |
 |---|---|

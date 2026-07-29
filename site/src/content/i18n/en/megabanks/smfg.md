@@ -1,14 +1,13 @@
 ---
 source: megabanks/smfg
-source_hash: 8ba9ca40fa6f72ed
+source_hash: 50824cb75bb73947
 lang: en
 status: machine
 fidelity: ok
-title: "三井住友 FG (SMFG / SMBC グループ)"
-translated_at: 2026-06-19T06:09:18.045Z
+title: "Sumitomo Mitsui Financial Group (SMFG / SMBC Group)"
+translated_at: 2026-07-29T01:44:13.238Z
 ---
-
-# 三井住友 FG (SMFG / SMBC グループ)
+# Sumitomo Mitsui Financial Group (SMFG / SMBC Group)
 
 ## Wiki route
 
@@ -16,317 +15,320 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it with [[bankin
 
 ## TL;DR
 
-Japan's No. 2  financial group (total assets **328 兆 5111 億円**, net income attributable to parent-company shareholders **1 兆 5829 億円** / 2026-03 -period actuals, +34.4% vs. prior period). Established 2002-12-02 by a sole share transfer of Sumitomo Mitsui Banking Corporation. **In 2018-04  it changed the conglomerate name from "Sumitomo Mitsui Financial Group" to "SMBC Group"** (the holding-company name = SMFG continues). SMBC + SMBC Trust + SMBC Nikko Securities + Sumitomo Mitsui Card (Olive brand) + SMBCCF (formerly Promise) + SMFL + Japan Research Institute. **From 2022 年〜, the "SMBC-SBI Alliance" with SBI HD** (comprehensive capital and business alliance, SMFG holds 8.91% of SBI HD shares / established the Olive Consulting JV 2025-09 ). **In 2025-09 , announced integration of the Japan investment-banking business with US Jefferies** (the SMFG version of the MUFG-MS alliance). G-SIB Bucket 1. ^[extracted]
+Japan's 2 -largest financial conglomerate (total assets **328 兆 5111 億円**, parent company shareholder net income **1 兆 5829 億円** / FY2026-03  results, YoY +34.4%). 2002-12-02 Established through sole stock transfer of Sumitomo Mitsui Bank. **In 2018-04 , changed conglomerate name from "Sumitomo Mitsui Financial Group" to "SMBC Group"** (holding company name = SMFG continues). SMBC + SMBC Trust + SMBC Nikko Securities + Sumitomo Mitsui Card (Olive brand) + SMBCCF (formerly Promis) + SMFL + Japan Research Institute. **From 2022 年~, "SMBC-SBI Alliance" with SBI HD** (comprehensive capital and business alliance, SMFG holds 8.91% of SBI HD shares, 2025-09  Olive Consulting joint venture established). **2025-09  Announced integration of investment banking business with US Jefferies** (SMFG version of MUFG-MS alliance). G-SIB Bucket 1. ^[extracted]
 
-## 1. Company overview
+## 1. Company Overview
 
-**Legal name**: 株式会社三井住友フィナンシャルグループ ^[extracted]
-**English name**: Sumitomo Mitsui Financial Group, Inc.
-**Securities code**: TSE PRIME 8316 (listed 2002-12-01) / NSE Premier 8316  / NYSE: SMFG (ADR listed 2010-11-01) ^[extracted]
-**Established**: 2002-12-02 (sole share transfer of Sumitomo Mitsui Banking Corporation) ^[extracted]
-**Headquarters**: 1-1-2 Marunouchi, Chiyoda-ku, Tokyo (Sumitomo Mitsui Banking Corporation head-office building, relocated from the 2010-10-18 Hibiya Mitsui Building) ^[extracted]
-**Institutional design**: company with a nominating committee, etc. (transitioned 2017-06 ) ^[extracted]
-**Japanese Bankers Association holding-company member**: non-member (alongside Resona HD, the only megabank that is a non-member) ^[extracted]
+**Official Name**: Sumitomo Mitsui Financial Group, Inc. ^[extracted]
+**English Name**: Sumitomo Mitsui Financial Group, Inc.
+**Securities Code**: TSE PRIME 8316 (Listed 2002-12-01) / Nagoya Exchange Premier 8316  / NYSE: SMFG (ADR listing 2010-11-01) ^[extracted]
+**Established**: 2002-12-02 (through sole stock transfer of Sumitomo Mitsui Bank) ^[extracted]
+**Headquarters**: Marunouchi, Chiyoda-ku, Tokyo 1-1-2 (Sumitomo Mitsui Bank Head Office Building, relocated from Hibiya Mitsui Building 2010-10-18) ^[extracted]
+**Governance Structure**: Company with Nomination Committee (transitioned 2017-06 ) ^[extracted]
+**All-Japan Bankers Association Holding Company Member**: Non-member (alongside Resona HD, unique non-member among megabanks) ^[extracted]
 
-### 2026-03  period results (consolidated, announced 2026-05-13) ^[extracted from 決算短信]
+### 2026-03  Fiscal Year Financial Results (Consolidated, 2026-05-13 Announced) ^[extracted from 決算短信]
 
-| Item | FY2025  (2026-03) | FY2024  (2025-03) | vs. prior period |
+| Item | FY2025 (2026-03) | FY2024 (2025-03) | YoY |
 |---|---|---|---|
-| Revenue (ordinary revenue) | **10 兆 7908 億 5300 万円** | 10 兆 1748 億 9400 万円 | +6.1% |
-| Ordinary profit | **2 兆 3033 億 5000 万円** | 1 兆 7194 億 8200 万円 | +34.0% |
-| Net income attributable to parent-company shareholders | **1 兆 5829 億 7300 万円** | 1 兆 1779 億 9600 万円 | +34.4% |
-| Comprehensive income | 2 兆 1290 億 7700 万円 | 7125 億 4900 万円 | +198.8% |
-| Net assets | **15 兆 9331 億 4400 万円** | 14 兆 8415 億 900 万円 | +7.4% |
-| Equity | 15 兆 7854 億 5700 万円 | 14 兆 7034 億 3500 万円 | — |
-| Total assets | **328 兆 5111 億 4500 万円** | 306 兆 2820 億 1500 万円 | +7.3% |
-| Net assets per 1 share | 4,135.71 円 | 3,795.62 円 | — |
-| Net income per 1 share | 411.97 円 | 301.55 円 | — |
-| Capital adequacy ratio | 4.8% | 4.8% | — |
+| Revenue (Ordinary Revenue) | **10 兆 7908 億 5300 万円** | 10 兆 1748 億 9400 万円 | +6.1% |
+| Ordinary Profit | **2 兆 3033 億 5000 万円** | 1 兆 7194 億 8200 万円 | +34.0% |
+| Net Income Attributable to Parent Company Shareholders | **1 兆 5829 億 7300 万円** | 1 兆 1779 億 9600 万円 | +34.4% |
+| Comprehensive Income | 2 兆 1290 億 7700 万円 | 7125 億 4900 万円 | +198.8% |
+| Net Assets | **15 兆 9331 億 4400 万円** | 14 兆 8415 億 900 万円 | +7.4% |
+| Shareholders' Equity | 15 兆 7854 億 5700 万円 | 14 兆 7034 億 3500 万円 | — |
+| Total Assets | **328 兆 5111 億 4500 万円** | 306 兆 2820 億 1500 万円 | +7.3% |
+| 1 Per Share Net Assets | 4,135.71 円 | 3,795.62 円 | — |
+| 1 Per Share Net Income | 411.97 円 | 301.55 円 | — |
+| Capital Ratio | 4.8% | 4.8% | — |
 | ROE | 10.4% | 8.0% | — |
-| Capital stock | 2 兆 3459 億 6000 万円 (same as prior period) | 2 兆 3459 億 6000 万円 | — |
-| Employees (consolidated) | 12 万 2978 名 (prior-period figure, new disclosure unconfirmed) ^[needs-verification] | 12 万 2978 名 | — |
+| Capital | 2 兆 3459 億 6000 万円 (same as prior period) | 2 兆 3459 億 6000 万円 | — |
+| Employees (Consolidated) | 12 万 2978 名 (prior period figures, new disclosure status unconfirmed) ^[needs-verification] | 12 万 2978 名 | — |
 
-**FY2026  (2027-03) full-year forecast**: net income attributable to parent-company shareholders **1 兆 7000 億円** (+7.4%, 1  per share 223.75 円, announced 2026-05-13) ^[extracted]
+**FY2026 (2027-03) Full-Year Outlook**: Parent company shareholder net income **1 兆 7000 億円** (+7.4%, 1  per share 223.75 円, 2026-05-13 announced) ^[extracted]
 
-### Major shareholders (2025-03-31) ^[extracted]
+### Principal Shareholders (2025-03-31) ^[extracted]
 
 | Shareholder | Ratio |
 |---|---|
-| Japan Master Trust Bank (trust account) | 16.40% |
-| Japan Custody Bank (trust account) | 5.70% |
+| Japan Trustee Services Bank, Ltd. (Trust Account) | 16.40% |
+| Japan Custody Bank, Ltd. (Trust Account) | 5.70% |
 | State Street Bank | 4.73% |
 | NATSCUMCO | 1.88% |
 | JP Morgan Chase Bank | 1.36% |
 
-### Main subsidiaries / holdings + strategic-alliance partners
+### Main Subsidiaries and Holdings + Strategic Partners
 
 ```
-SMFG（持株会社・上場 8316）
-  ├── 三井住友銀行（SMBC, 100%）── 商業銀行コア・3 大メガバンク
-  │     ├── SMBC 信託銀行（プレスティアブランド, 100%）── 旧ソシエテジェネラル信託銀行（2013-10 改称、2014-12 シティバンク銀行 リテール承継）
-  │     ├── PayPay 銀行 21.5%（PayPay 75.5%）── ネット銀行（SoftBank G 系）
-  │     ├── SMBC International plc（英）100% ── 2024-04〜ユニバーサルバンク化
-  │     ├── SMBC Bank EU AG（独）100%
-  │     ├── 三井住友銀行（中国）100%
-  │     ├── SMBC Americas Holdings 100% ── SMBC Capital Markets 等
-  │     ├── BTPN（インドネシア）~96% ── アジア最大子会社
-  │     ├── VPBank（ベトナム）51%
-  │     ├── Rizal Commercial Banking（フィリピン）20%（2021-06 出資 4.9% → 2022-11 拡大）
-  │     └── Yes Bank（インド）~5% ── fintech 拠点
-  ├── SMBC 日興証券（100%）── 五大証券、旧日興コーディアル証券（2009-05 シティから買収・10-01 完全子会社化）
-  │     ├── **SMBC 日興ジェフリーズ証券**（議決権 60% / Jefferies 40%, 2027-01 開業予定, 2025-09-19 発表）
-  │     └── 海外: SMBC Capital Markets (Asia)、SMBC Derivative Products（英）等
-  ├── 三井住友カード（SMCC, 100%）── 大手 6 社・Olive ブランド主管
-  │     ├── SMBCCF（旧プロミス, 100%, 2024-10 SMCC 子会社化）── 消費者金融業界 #2
-  │     ├── SMBC モビット → 2023-07-01 SMCC 吸収済
-  │     ├── SMBC ファイナンスサービス → 2024-04-01 SMCC 吸収済（旧セディナ含む）
-  │     ├── V ポイントマーケティング 55%（SMFG 25% / CCC 20%）── 旧 T ポイント統合
-  │     └── SMBC GMO PAYMENT 50%（GMO PG 40% / SMBC 10%）
-  ├── 三井住友 F&L（SMFL, 50% / 住友商事 50%）── 大手総合リース
-  │     ├── SMBC Aviation Capital（アイルランド, 68%）── 航空機リース
-  │     └── SMFL みらいパートナーズ 100% ── 不動産・環境エネ
-  ├── 住友三井オートサービス（SMFG 26.2% / 住友商事 40.4% / SMFL 33.4%）── 大手カーリース
-  ├── 日本総合研究所 100% ── 五大シンクタンク
-  └── 三井住友 DS アセットマネジメント 50.1%（大和証券 G 23.5%）── 旧 三井住友 AM + 大和住銀投信合併（2019-04）
+SMFG (Holding Company, Listed 8316)
+  ├── Sumitomo Mitsui Bank (SMBC, 100%) ── Core commercial banking / 3  megabank
+  │     ├── SMBC Trust Bank (Prestige brand, 100%) ── Former Société Générale Trust Bank (renamed 2013-10 , inherited Citibank retail 2014-12 )
+  │     ├── PayPay Bank 21.5% (PayPay 75.5%) ── Online bank (SoftBank G group)
+  │     ├── SMBC International plc (UK) 100% ── 2024-04~ Universal banking
+  │     ├── SMBC Bank EU AG (Germany) 100%
+  │     ├── Sumitomo Mitsui Bank (China) 100%
+  │     ├── SMBC Americas Holdings 100% ── SMBC Capital Markets, etc.
+  │     ├── BTPN (Indonesia) ~96% ── Largest subsidiary in Asia
+  │     ├── VPBank (Vietnam) 51%
+  │     ├── Rizal Commercial Banking (Philippines) 20% (Investment 2021-06  4.9% → 2022-11  expansion)
+  │     └── Yes Bank (India) ~5% ── Fintech hub
+  ├── SMBC Nikko Securities (100%) ── Top-five securities firm, acquired from Citibank 2009-05 , wholly-owned subsidiary 10-01
+  │     ├── **SMBC Nikko Jefferies Securities** (voting rights 60% / Jefferies 40%, opening 2027-01  scheduled, 2025-09-19 announced)
+  │     └── Overseas: SMBC Capital Markets (Asia), SMBC Derivative Products (UK), etc.
+  ├── Sumitomo Mitsui Card (SMCC, 100%) ── Major 6 社 / Olive brand administrator
+  │     ├── SMBCCF (formerly Promis, 100%, became SMCC subsidiary 2024-10 ) ── Consumer finance industry #2
 
-戦略提携先・関連
-  ├── ★ **SBI HD（8.91% 保有・2025-07-17 現在）**「SMBC-SBI アライアンス」（2022〜）
-  │     ├── Olive コンサルティング（SMFG 10% / SMBC 20% / SMBC 日興 30% / SBI HD 10% / SBI 証券 30%, 2025-09-05 設立）
-  │     │     └── 2026 春「Olive Infinite」向け資産運用サービス開始予定
-  │     └── 参考: SBI 新生銀行 は SBI HD 連結子会社 71.22% — SMFG 直接子会社ではない
-  └── ★ Jefferies（最大 20% 無議決権予定）── 日本 IB 統合（2025-09-19 発表、2027-01 開業）
+  │     ├── SMBC Mobit → 2023-07-01 absorbed into SMCC
+  │     ├── SMBC Finance Services → 2024-04-01 absorbed into SMCC (including former Cedyna)
+  │     ├── V Point Marketing 55% (SMFG 25% / CCC 20%) ── Integrated former T Point
+  │     └── SMBC GMO PAYMENT 50% (GMO PG 40% / SMBC 10%)
+  ├── Sumitomo Mitsui F&L (SMFL, 50% / Sumitomo Corporation 50%) ── Major comprehensive leasing
+  │     ├── SMBC Aviation Capital (Ireland, 68%) ── Aircraft leasing
+  │     └── SMFL Mirai Partners 100% ── Real estate / environmental energy
+  ├── Sumitomo Mitsui Auto Service (SMFG 26.2% / Sumitomo Corporation 40.4% / SMFL 33.4%) ── Major car leasing
+  ├── Japan Research Institute 100% ── Top-five think tank
+  └── Sumitomo Mitsui DS Asset Management 50.1% (Daiwa Securities Group 23.5%) ── Merged Sumitomo Mitsui AM + Daiwa Sumitomo Trust Asset Management (2019-04)
+
+Strategic Partners and Related
+  ├── ★ **SBI HD (8.91% holding / 2025-07-17 current)** "SMBC-SBI Alliance" (from 2022~)
+  │     ├── Olive Consulting (SMFG 10% / SMBC 20% / SMBC Nikko 30% / SBI HD 10% / SBI Securities 30%, 2025-09-05 established)
+  │     │     └── 2026 Spring "Olive Infinite" asset management service launch scheduled
+  │     └── Note: SBI Shinsei Bank is SBI HD consolidated subsidiary 71.22% — not direct SMFG subsidiary
+  └── ★ Jefferies (maximum 20% non-voting planned) ── Investment banking integration (2025-09-19 announced, 2027-01 opening)
 ```
 
-### Merger history / predecessors
+### Merger History / Predecessors
 
-- Former **Sumitomo Bank** (established 1895 , Sumitomo zaibatsu-affiliated) + former **Heiwa Sogo Bank** (merged 1986 ) + former **Kawachi Bank**
-- Former **Mitsui Bank** (1876,  Mitsui family) → Teikoku Bank → Mitsui Bank (1984: Takenobu Igarashi logo) → 1990-04  **Mitsui Taiyo Kobe Bank** (Taiyo Kobe + Mitsui merger) → renamed **Sakura Bank** 1992 
-  - Former **Taiyo Kobe Bank**: 1973  merger of Taiyo Bank + Kobe Bank
-- **SMBC** (first-generation Sumitomo Mitsui Banking Corporation): 2001-04-01 merger of Sumitomo Bank + Sakura Bank
-- Former **Wakashio Bank** (← Taiheiyo Bank): 2003-03-17 **reverse merger** of the first-generation SMBC → 2 -generation SMBC (current entity)
-- **Establishment of SMFG**: 2002-12-02 holding-company conversion via a sole share transfer of SMBC
+- Former **Sumitomo Bank** (established 1895 , Sumitomo zaibatsu group) + former **Heiwa Mutual Bank** (merged 1986 ) + former **Kawachi Bank**
+- Former **Mitsui Bank** (1876,  Mitsui family) → Imperial Bank → Mitsui Bank (1984: Takesuke Igarashi logo) → 1990-04  **Taiyokaido Mitsui Bank** (Taiyokaido + Mitsui merger) → 1992  **Sakura Bank** renamed
+  - Former **Taiyokaido Kobe Bank**: 1973  Taiyokaido Bank + Kobe Bank merger
+- **SMBC** (first-generation Sumitomo Mitsui Bank): 2001-04-01 Sumitomo Bank + Sakura Bank merger
+- Former **Wakashio Bank** (← Pacific Bank): 2003-03-17 First-generation SMBC **reverse merger** → 2 -generation SMBC (current entity)
+- **SMFG Establishment**: 2002-12-02 SMBC sole stock transfer to holding company
 
-### Key timeline (excerpt) ^[extracted]
+### Important Chronology (Partial) ^[extracted]
 
-| Year/month | Event |
+| Year/Month | Event |
 |---|---|
-| 2002-12-02 | SMFG established / 2002-12-01 TSE listing |
-| 2003-03-17 | Wakashio Bank reverse-merged the first-generation SMBC → 2 -generation SMBC |
-| 2005-04 | Sumitomo Mitsui Card × NTT Docomo "Osaifu Keitai" capital and business alliance |
-| 2006-09-01 | SMBC Friend Securities made a wholly owned subsidiary |
-| **2006-10-17** | **full repayment of public funds** (the fastest among megabanks 3 行) |
+| 2002-12-02 | SMFG established / 2002-12-01 listed on TSE |
+| 2003-03-17 | Wakashio Bank reverse merges first-generation SMBC → 2 -generation SMBC |
+| 2005-04  | Sumitomo Mitsui Card × NTT DoCoMo "Osaifu Keitai" capital and business alliance |
+| 2006-09-01 | SMBC Friend Securities wholly acquired |
+| **2006-10-17** | **Public funds repaid** (fastest among megabanks 3 行) |
 | 2007-10-01 | Sumitomo Mitsui F&L established (SMFG 50% + Sumitomo Corporation 50%) |
-| 2008-10-01 | SMFG Card & Credit established (intermediate holding company overseeing the card business) |
-| **2009-05-01** | **acquired Nikko Cordial Securities from Citi** → SMBC Nikko Securities (dissolution of the JV with Daiwa) |
-| 2009-10-01 | Nikko Cordial Securities made a wholly owned subsidiary |
+| 2008-10-01 | SMFG Card & Credit established (card business intermediate holding) |
+| **2009-05-01** | **Acquired Nikko Cordial Securities from Citigroup** → SMBC Nikko Securities (dissolved joint venture with Daiwa) |
+| 2009-10-01 | Nikko Cordial Securities wholly acquired |
 | 2010-11-01 | NYSE listing (ADR) |
-| 2011-05 | Cedyna made a wholly owned subsidiary |
-| **2012-04** | **Promise made a wholly owned subsidiary via TOB** → SMBC Consumer Finance |
-| 2013-07-24 | acquired Societe Generale Trust Bank → SMBC Trust Bank (renamed in 10 , first acquisition of a trust function) |
-| 2014-12-25 | SMBC Trust Bank → succeeded the individual retail business of Citibank Japan |
-| 2016-07 | Sumitomo Mitsui AM (current Sumitomo Mitsui DS AM) made a consolidated subsidiary |
-| 2017-03-03 → 2017-11-14 | Kansai 3 行 (Kansai Urban + Minato + Kinki Osaka) integration talks → **creation of Kansai Mirai FG** |
-| 2017-06 | transitioned to a company with a nominating committee, etc. |
-| 2018-01-01 | SMBC Nikko Securities absorbed and merged SMBC Friend Securities |
-| **2018-04** | **changed the group name from "SMFG" to "SMBC Group"** |
-| 2019-04 | Sumitomo Mitsui AM + Daiwa SB Investments → established Sumitomo Mitsui DS AM |
-| 2019-04 | Sumitomo Mitsui Card absorbed and merged SMFG Card & Credit |
-| 2020-07-01 | 2 -generation SMBC Finance Service (formerly Cedyna) absorbed and merged the first-generation SMBCFS |
-| 2021-06 | investment in the Philippines' Rizal Commercial Banking (4.9% → 2022-11 20%) |
-| **2022 (〜2022-06  reports)** | **concluded the "SMBC-SBI Alliance" (comprehensive capital and business alliance) with SBI HD** ★ — SMFG became a major shareholder of SBI HD |
-| **2022-10** | **FSA → administrative disposition / order to submit reports against SMFG / SMBC Nikko Securities** |
-| 2023-07-01 | Sumitomo Mitsui Card absorbed and merged SMBC Mobit |
-| 2023-07-12 | SMBC International plc (UK) announced universal-bank conversion |
-| 2023-08-30 | capital and business alliance with Lifenet Insurance (V Point-linked insurance products) |
-| 2024-04-01 | **Kansai Mirai FG → fully merged into and dissolved by Resona HD** / Sumitomo Mitsui Card absorbed SMBCFS / Japan Research Institute HD established |
-| 2024-10-01 | SMCC made SMBCCF (formerly Promise) a wholly owned subsidiary |
-| 2025-04 | SMBC Global Investment & Consulting (formerly Nikko Global Wrap) absorbed the CIO function of SMBC Nikko Securities |
-| **2025-09-05** | **Olive Consulting established** (SMBC Group × SBI HD JV, 5 社 joint venture, asset-management service for Olive Infinite to launch in 2026  spring) ★ |
-| **2025-09-19** | **announced integration of the Japan investment-banking business with US Jefferies** ★ |
-| 2025-12-12 | Ginsen + Mitsui Sumitomo Insurance + SMFG → announced establishment of SMIF (integration 2026-04 ) |
-| 2026-04-01 | Japan Research Institute + Nikko Systems Solutions + Japan Research Institute HD planned three-way merger |
-| **2026-05-13** | **FY2025  (2026-03  period) full-year results announced**: net income 1.58 兆円 (+34.4%), total assets 328 兆円, FY2026  forecast 1.70 兆円 ★ |
-| **2026-10** (planned) | **SMBC Nikko Securities HD planned to be established** (a securities intermediate holding company, overseeing SMBC Nikko + SMBC Nikko Jefferies) |
+| 2011-05  | Cedyna wholly acquired |
+| **2012-04** | **Promis TOB wholly acquired** → SMBC Consumer Finance |
+| 2013-07-24 | Acquired Société Générale Trust Bank → SMBC Trust Bank (renamed 10 , obtained trust functions for first time) |
+| 2014-12-25 | SMBC Trust Bank → inherited Citibank retail operations |
+| 2016-07  | Sumitomo Mitsui AM (now Sumitomo Mitsui DS AM) consolidated subsidiary |
+| 2017-03-03 → 2017-11-14 | Kansai 3 行 (Kansai Urban + Minato + Kinki Osaka) integration discussion → **Kansai Mirai FG created** |
+| 2017-06  | Transitioned to Company with Nomination Committee |
+| 2018-01-01 | SMBC Nikko Securities absorbs SMBC Friend Securities |
+| **2018-04** | **Group name changed "SMFG" → "SMBC Group"** |
+| 2019-04  | Sumitomo Mitsui AM + Daiwa Sumitomo Trust AM → Sumitomo Mitsui DS AM established |
+| 2019-04  | Sumitomo Mitsui Card absorbs SMFG Card & Credit |
+| 2020-07-01 | 2 -generation SMBC Finance Services (former Cedyna) absorbs first-generation SMBCFS |
+| 2021-06  | Philippines Rizal Commercial Banking investment (4.9% → 2022-11  20%) |
+| **2022 (through 2022-06 reports)** | **"SMBC-SBI Alliance" with SBI HD (comprehensive capital and business alliance) concluded** ★ — SMFG becomes major shareholder of SBI HD |
+| **2022-10** | **Financial Services Agency → SMFG / SMBC Nikko Securities administrative action / reporting submission order** |
+| 2023-07-01 | Sumitomo Mitsui Card absorbs SMBC Mobit |
+| 2023-07-12 | SMBC International plc (UK) universal banking announcement |
+| 2023-08-30 | Strategic capital and business alliance with LifeNet Life Insurance (V Point linked insurance products) |
+| 2024-04-01 | **Kansai Mirai FG → Resona HD complete merger / dissolved** / Sumitomo Mitsui Card absorbs SMBCFS / Japan Research Institute HD established |
+| 2024-10-01 | SMCC wholly acquires SMBCCF (former Promis) |
+| 2025-04  | SMBC Global Investment & Consulting (former Nikko Global Wrap) absorbs SMBC Nikko Securities CIO functions |
+| **2025-09-05** | **Olive Consulting established** (SMBC Group × SBI HD JV, 5 社 joint venture, 2026 Spring Olive Infinite asset management service launch scheduled) ★ |
+| **2025-09-19** | **Integration of investment banking business with US Jefferies announced** ★ |
+| 2025-12-12 | Senzen + Sumitomo Mitsui Marine + SMFG → SMIF establishment announced (2026-04  integration) |
+| 2026-04-01 | Japan Research Institute + Nikko Systems Solutions + Japan Research Institute HD three-company merger planned |
+| **2026-05-13** | **FY2025 (2026-03 ) Full-year financial results announced**: Net income 1.58 兆円 (+34.4%), total assets 328 兆円, FY2026  outlook 1.70 兆円 ★ |
+| **2026-10** (scheduled) | **SMBC Nikko Securities HD establishment planned** (securities intermediate holding company, overseeing SMBC Nikko + SMBC Nikko Jefferies) |
 
-### Details of the SMBC-SBI Alliance (2022〜) ^[extracted from SBI HD Wikipedia]
+### Details of SMBC-SBI Alliance (from 2022~) ^[extracted from SBI HD Wikipedia]
 
-- the "SMBC-SBI Alliance" concluded 2022 年 = a comprehensive capital and business alliance
-- SMFG holds **8.91%** of SBI HD shares (as of 2025-07-17, a major shareholder of SBI HD)
-- SBI HD also holds SMFG shares (the specific ratio requires confirmation from SMFG-side public information)
-- a form in which SMFG accepts investment against the "fourth-megabank concept 4 " (SBI-led)
-- **Olive Consulting** (established 2025-09-05): SMFG 10% + Sumitomo Mitsui Banking Corporation 20% + SMBC Nikko Securities 30% + SBI HD 10% + SBI Securities 30% (5 社 joint venture)
-  - asset-management service for Sumitomo Mitsui Banking Corporation's Olive top-rank "Olive Infinite" to launch in 2026  spring
-- **Important structural understanding**:
-  - SBI Shinsei Bank = SBI HD 71.22% consolidated subsidiary (**not a direct SMFG subsidiary**) → 2025-07  re-listing application (with a view to full repayment of public funds)
-  - SBI Sumishin Net Bank = 2025-10-01 completed full share transfer to NTT Docomo → SBI HD withdrawal / NTT Docomo full subsidiarization (9  months before the establishment of NDFG)
+- 2022 年 concluded "SMBC-SBI Alliance" = Comprehensive capital and business alliance
+- SMFG holds **8.91%** of SBI HD shares (2025-07-17 current, major shareholder of SBI HD)
+- SBI HD also holds SMFG shares (specific ratio requires confirmation from SMFG public information)
+- SMFG accepts investment under the SBI-led "No. 4  Megabank Concept"
+- **Olive Consulting** (established 2025-09-05): SMFG 10% + Sumitomo Mitsui Bank 20% + SMBC Nikko Securities 30% + SBI HD 10% + SBI Securities 30% (5 社 joint venture)
+  - 2026-05-26 launched "Olive Infinite" and Olive asset management services
+- **Key Structural Understanding**:
+  - SBI Shinsei Bank = SBI Group consolidated subsidiary (**not SMFG direct subsidiary**) → 2025-07-31 public funds repaid, 2025-12-17 relisted on TSE PRIME
+  - Sumitomo Mitsui SBI Net Bank = 2025-10-01 fully transferred all shares to NTT DoCoMo → SBI HD withdrawal, NTT DoCoMo complete acquisition (NDFG established 9  months before)
 
-### Details of the Jefferies integration (announced 2025-09-19) ^[extracted]
+### Details of Jefferies Integration (announced 2025-09-19) ^[extracted]
 
-- Sumitomo Mitsui Banking Corporation additionally acquires up to 20.0% of Jefferies shares (on a non-voting basis)
-- SMBC Nikko Securities + Jefferies → **SMBC Nikko Jefferies Securities** (on a voting basis SMBC 60% / Jefferies 40%)
-- planned to launch 2027-01 , integrating the corporate Japanese-equity business
-- → the SMFG version of the MUFG-Morgan Stanley alliance, the 2 th deep global IB alliance among Japanese megabanks
+- Sumitomo Mitsui Bank acquires maximum 20.0% of Jefferies shares (non-voting basis)
+- SMBC Nikko Securities + Jefferies → **SMBC Nikko Jefferies Securities** (voting basis SMBC 60% / Jefferies 40%)
+- Opening scheduled 2027-01 , integrated corporate Japanese equity business
+- → SMFG version of MUFG-Morgan Stanley alliance, 2  example among megabanks of deep global IB partnership
 
-## 2. Business segment map
+## 2. Business Segment Map
 
-| Segment | Main operator | Characteristics |
+| Segment | Main Business Operator | Characteristics |
 |---|---|---|
-| Domestic corporate | SMBC | main bank for large corporations / strong with companies expanding into Asia |
-| Domestic individual | SMBC + SMCC + Olive | Olive integrated app (570 万 accounts ^[needs-verification]) |
-| Net bank | PayPay Bank 21.5% investment | originally SoftBank G-affiliated, SMFG is a minority investor |
-| Trust | SMBC Trust Bank (Prestia) | succession of the former Societe Generale + Citibank Japan retail, wealthy / foreign currency |
-| Securities IB | SMBC Nikko Securities + SMBC Nikko Jefferies (2027-01〜) | Jefferies alliance |
-| Credit cards | Sumitomo Mitsui Card | major 6 社, oversees Olive |
-| Consumer finance | SMBCCF (formerly Promise, SMCC 100% subsidiary) | industry #2, Asia expansion (Thailand/Vietnam/Hong Kong/Taiwan/China, etc.) |
-| Leasing | SMFL + Sumitomo Mitsui Auto Service | strong in aircraft leasing (SMBC Aviation Capital) |
-| Overseas (Asia) | BTPN (large in Indonesia), Rizal Commercial (Philippines 20%), VPBank (Vietnam 49%) | BTPN is the largest in Asia |
-| The Americas | SMBC Americas Holdings + SMBC MANUBANK | strong corporate IB, no commercial retail |
-| Europe | SMBC International (UK, universal-bank conversion), SMBC Bank EU AG (Germany) | - |
-| Think tank | Japan Research Institute | one of the five major think tanks |
-| Points | V Point Marketing 55% | former T Point integration |
-| ★ Net-finance alliance | SBI Securities / SBI HD (8.91% investment) | Olive Infinite × SBI linkage (planned to start in 2026  spring) |
+| Domestic Corporate | SMBC | Major corporate main bank, strong Asia expansion companies |
+| Domestic Retail | SMBC + SMCC + Olive | Olive integrated app (570 万 accounts ^[needs-verification]) |
+| Online Banking | PayPay Bank 21.5% investment | Originally SoftBank G group, SMFG minority investment |
+| Trust | SMBC Trust Bank (Prestige) | Former Société Générale + Citibank retail inheritance, affluent/FX |
+| Securities IB | SMBC Nikko Securities + SMBC Nikko Jefferies (from 2027-01~) | Jefferies partnership |
+| Credit Card | Sumitomo Mitsui Card | Major 6 社, Olive administrator |
+| Consumer Finance | SMBCCF (former Promis, SMCC 100% subsidiary) | Industry #2, Asia expansion (Thailand/Vietnam/HK/Taiwan/China, etc.) |
+| Leasing | SMFL + Sumitomo Mitsui Auto Service | Aircraft leasing (SMBC Aviation Capital) strength |
+| Overseas (Asia) | BTPN (Indonesia largest), Rizal Commercial (Philippines 20%), VPBank (Vietnam 49%) | BTPN largest in Asia |
+| Americas | SMBC Americas Holdings + SMBC MANUBANK | Corporate IB strength, no commercial retail |
+| Europe | SMBC International (UK, universal banking), SMBC Bank EU AG (Germany) | — |
+| Think Tank | Japan Research Institute | Top-five think tank |
+| Points | V Point Marketing 55% | Integrated former T Point |
+| ★ Online Finance Partnership | SBI Securities / SBI HD (8.91% investment, 2025-07-17 time point) | Olive Infinite × SBI partnership (2026-05-26 service launch) |
 
-### Digital strategy
+Sources: ^[SMFG「主要子会社・関連会社」: https://www.smfg.co.jp/company/groupcompanies.html; SMBC「Olive Infinite」提供開始 (2026-05-26): https://www2.smbc.co.jp/news/pdf/j20260526_03.pdf; SBI HD「SBI 新生銀行の公的資金完済」: https://www.sbigroup.co.jp/news/2025/0731_15628.html.]
 
-- **Olive platform**: the integrated app of the Sumitomo Mitsui G (banking, securities, cards, insurance, currency), 570 万 accounts ^[extracted from project source, needs primary IR verification]. Securities are supported by [[securities-firms/smbc-nikko|SMBC 日興証券]], cards by [[card-issuers/smbc-card|三井住友カード]], and consumer finance by both the [[consumer-finance/smbc-consumer-finance|SMBCCF (旧プロミス)]] and [[megabanks/sbi-hd|SBI HD]] alliances.
-- **Olive Infinite × SBI linkage** (2025-09-05〜, service planned to launch in 2026  spring) ★: an asset-management service for the Olive top rank, the SBI-linked Olive Consulting JV ^[extracted from SBI HD Wikipedia]
-- **V Point economic zone**: the in-house points after the former T Point integration, overseen by SMCC, CCC 20% / SMFG 25%
-- **Lifenet Insurance alliance** (2023-08): development of V Point-granting insurance products
+### Digital Strategy
 
-### Alliance / acquisition strategy
+- **Olive Platform**: Sumitomo Mitsui Group integrated app (banking, securities, card, insurance, currency). Official campaign page shows 2026-06  700 万 account milestone. Securities via [[securities-firms/smbc-nikko|SMBC Nikko Securities]], card via [[card-issuers/smbc-card|Sumitomo Mitsui Card]], consumer finance via [[consumer-finance/smbc-consumer-finance|SMBCCF (former Promis)]] and [[megabanks/sbi-hd|SBI HD]] alliance support both. ^[SMBC Olive: https://www.smbc.co.jp/kojin/olive/special/offers/20260630/]
+- **Olive Infinite × SBI Partnership** (from 2025-09-05~ / 2026-05-26 service launch) ★: Top-tier Olive rank and asset management services provided by Olive Consulting launch. ^[SMBC news release: https://www2.smbc.co.jp/news/pdf/j20260526_03.pdf]
+- **V Point Economic Ecosystem**: Own points after integrated former T Point, administered by SMCC, CCC 20% / SMFG 25%
+- **LifeNet Life Insurance Alliance** (2023-08): Developing insurance products with V Point issuance
 
-- **Goldman Sachs alliance** (from the former Sumitomo Bank era to the present): reversed during a period of financial unease, SMFG issued preferred shares 1503 億円 to GS (annual 4.5% dividend guaranteed for 25  years, with a common-share conversion clause, credit support for GS's 21 億-dollar investment-business loss, SMFG purchase of 13 億 dollars of GS bonds) ^[extracted]
-- **Citigroup** (2009-05〜): acquired Nikko Cordial Securities → SMBC Nikko Securities
-- **SBI HD "SMBC-SBI Alliance"** (2022〜) ★: a comprehensive capital and business alliance
-  - SMFG holds 8.91% of SBI HD shares (as of 2025-07-17)
-  - investment against the SBI HD-led "fourth-megabank concept 4 " (SBI Shinsei Bank + regional-bank coalition)
-  - **Olive Consulting** (established 2025-09-05, 5 社 joint venture) → asset-management service for Olive Infinite in 2026  spring
-  - SBI Shinsei Bank is an SBI HD subsidiary (not directly SMFG's)
-  - note: structurally different from the NDFG-SSNB relationship (NDFG = NTT Docomo direct TOB acquisition / SBI HD withdrawal)
-- **Jefferies alliance** (2025-09-19) ★: integration of the Japan investment-banking business
-- **NTT Docomo** (2005-04  / 7-11): Sumitomo Mitsui Card × Osaifu Keitai capital and business alliance → later sold the shares
-- **Orix / Itochu / Sumitomo Corporation**: a JV network at SMFL / Sumitomo Mitsui Auto Service, etc.
-- **FSA administrative disposition** (2022-10): publicized against SMFG / SMBC Nikko Securities → governance questions remain
+### Partnership and Acquisition Strategy
 
-### Kansai integration and regional-bank spin-off
+- **Goldman Sachs Partnership** (former Sumitomo Bank era to present): During financial crisis, reversed to SMFG issuing GS preferred shares (1503 億円, annual dividend rate 4.5% guaranteed for 25  years, ordinary share conversion provision, GS investment operation loss 21 億 dollar credit enhancement, SMFG purchases GS bonds 13 億 dollar) ^[extracted]
+- **Citigroup** (from 2009-05~): Acquired Nikko Cordial Securities → SMBC Nikko Securities
+- **SBI HD "SMBC-SBI Alliance"** (from 2022~) ★: Comprehensive capital and business alliance
+  - SMFG holds 8.91% of SBI HD shares (2025-07-17 current)
+  - Investment participation in the SBI HD-led "No. 4  Megabank Concept" (SBI Shinsei Bank + regional bank alliance)
+  - **Olive Consulting** (established 2025-09-05, 5 社 joint venture) → 2026-05-26 asset management service for Olive Infinite launch
+  - SBI Shinsei Bank is SBI HD subsidiary (not SMFG direct)
+  - Note: Structure differs from NDFG-SSNB relationship (NDFG = NTT DoCoMo direct TOB acquisition, SBI HD withdrawal)
+- **Jefferies Partnership** (2025-09-19) ★: Investment banking business integration
+- **NTT DoCoMo** (2005-04  / 7-11): Sumitomo Mitsui Card × Osaifu Keitai capital and business alliance → later share divestment
+- **Orix, Itochu, Sumitomo Corporation**: JV networks in SMFL / Sumitomo Mitsui Auto Service, etc.
+- **Financial Services Agency Administrative Action** (2022-10): Public notice to SMFG / SMBC Nikko Securities → governance questions remain
 
-In 2017-2024 , integrated Kansai 3 行 (Kansai Urban Bank, Minato Bank, Kinki Osaka Bank) into the **Resona HD-led** intermediate holding company "Kansai Mirai FG" (established 2017-11 ) → 2024-04  Kansai Mirai FG → fully merged into and dissolved by Resona HD. For **Basel III compliance**, it released the second regional banks and improved capital efficiency by 0.5%. ^[extracted]
+### Kansai Integration and Regional Bank Separation
 
-### Overseas strategy
+2017-2024  Kansai 3 行 (Kansai Urban Bank, Minato Bank, Kinki Osaka Bank) integrated into **Resona HD-led** intermediate holding "Kansai Mirai FG" (established 2017-11 ) → 2024-04  Kansai Mirai FG → Resona HD complete merger and dissolution. **Basel III compliance** divested second-tier regional banks, capital efficiency improved 0.5%. ^[extracted]
 
-- **Asia concentration**: BTPN (Indonesia 96%), Rizal Commercial Banking (Philippines 20%), VPBank (Vietnam 49%), Yes Bank (India ~5%)
-- **Europe**: SMBC International (UK universal-bank conversion), SMBC Bank EU AG (Germany)
-- **The Americas**: corporate-IB-centered, no retail
+### Overseas Strategy
 
-## 4. Regulation / policy
+- **Asia Focus**: BTPN (Indonesia 96%), Rizal Commercial Banking (Philippines 20%), VPBank (Vietnam 49%), Yes Bank (India ~5%)
+- **Europe**: SMBC International (UK universal banking), SMBC Bank EU AG (Germany)
+- **Americas**: Corporate IB focus, no retail
 
-- **Supervisory authority**: FSA
-- **Holding-company regulation**: Banking Act Article 52 -17
- - **Overseas regulation**: OJK (Indonesia), US Federal Reserve System, ECB, BoE, etc.
-- **Japanese Bankers Association holding-company member non-membership**: alongside Resona HD, the only megabank
-- **2022-10 行 administrative disposition**: FSA → SMFG / SMBC Nikko Securities (an industry-watched matter) ^[extracted]
-- **Recent policy talking points**:
-  - 2024〜 SBI Shinsei Bank integration process (FSA scrutiny, SBI HD-led / SMFG comprehensive alliance)
-  - 2025〜 reduction of sales branches / reorganization of regional bases
-  - 2025〜 stablecoin (Progmat membership)
-  - 2025〜2027  industry-regulation response to the Jefferies integration
+## 4. Regulation and Policy
 
-### Successive presidents ^[extracted]
+- **Regulator**: Financial Services Agency (FSA)
+- **Holding Company Regulation**: Banking Act Article 52 -17
+- **Overseas Regulation**: OJK (Indonesia), US Federal Reserve, ECB, BoE, etc.
+- **All-Japan Bankers Association Holding Company Member Non-member**: Alongside Resona HD, unique non-member among megabanks
+- **Financial Services Agency Administrative Action** (2022-10 行): SMFG / SMBC Nikko Securities (industry attention case) ^[extracted]
+- **Recent Policy Issues**:
+  - SBI Shinsei Bank's public funds repayment and relisting after, maintain non-SMFG direct subsidiary structure
+  - From 2025~ business branch reduction, regional hub reorganization
+  - From 2025~ stablecoin (Progmat member)
+  - From 2025~2027  Jefferies integration regulatory compliance
 
-| Generation | Name | Tenure | Alma mater |
+### Past Presidents ^[extracted]
+
+| Generation | Name | Term | Alma Mater |
 |---|---|---|---|
-| 1 | Yoshifumi Nishikawa | 2002-12〜2005-06 | Osaka Univ. Law |
-| 2 | Teisuke Kitayama | 2005-06〜2011-03 | Univ. of Tokyo Liberal Arts |
-| 3 | Koichi Miyata | 2011-04〜2017-03 | Univ. of Tokyo Law |
-| 4 | Takeshi Kunibe | 2017-04〜2019-04 | Univ. of Tokyo Economics |
-| 5 | Jun Ota | 2019-04〜2023-11 | Kyoto Univ. Law |
-| 6 | **Toru Nakashima** | **2023-12〜incumbent** | Univ. of Tokyo Engineering |
+| 1  | Yoshifumi Nishikawa | 2002-12 ~ 2005-06  | Osaka University Law |
+| 2  | Teisuke Kitayama | 2005-06 ~ 2011-03  | University of Tokyo Liberal Arts |
+| 3  | Koichi Miyata | 2011-04 ~ 2017-03  | University of Tokyo Law |
+| 4  | Takeshi Kunibe | 2017-04 ~ 2019-04  | University of Tokyo Economics |
+| 5  | Jun Ota | 2019-04 ~ 2023-11  | Kyoto University Law |
+| 6  | **Satoru Nakajima** | **2023-12 ~ Present** | University of Tokyo Engineering |
 
-## 5. Bank KPIs (Basel III + profitability metrics, FY2025  actuals) ^[extracted]
+## 5. Banking KPIs (Basel III + Profitability Metrics, FY2025  Results) ^[extracted]
 
-| Metric | FY2025  (2026-03) | FY2024  (2025-03) | Mid-term target / notes |
+| Metric | FY2025 (2026-03) | FY2024 (2025-03) | Mid-term Target / Notes |
 |---|---|---|---|
-| ROE (consolidated) | **10.4%** | 8.0% | +2.4 ppt YoY |
-| ROCET1  (CET1 -based ROE) | **13.8%** | 10.8% | +3.0 ppt YoY, mid-term-plan KPI |
-| CET1  ratio (fully-implemented basis) | 〜10.5% (fiscal year-end) | — | mid-term target range **10.5%-11.0%** |
-| Capital adequacy ratio (consolidated, simple) | 4.8% | 4.8% | flat |
-| Net income per 1  share (EPS) | **411.97 円** | 301.55 円 | — |
-| Net assets per 1  share (BPS) | 4,135.71 円 | 3,795.62 円 | — |
-| Dividend (annual, estimated) | 460 円 (^[needs-verification]) | 320-340 円 | mid-term policy: payout ratio 40%+ |
+| ROE (Consolidated) | **10.4%** | 8.0% | +2.4 ppt YoY |
+| ROCET1 (CET1  basis ROE) | **13.8%** | 10.8% | +3.0 ppt YoY, mid-term plan KPI |
+| CET1  Ratio (Full Implementation Basis) | ~10.5% (fiscal year-end) | — | Mid-term Target Range **10.5%-11.0%** |
+| Capital Ratio (Consolidated, Simple) | 4.8% | 4.8% | Flat |
+| 1  Per Share Net Income (EPS) | **411.97 円** | 301.55 円 | — |
+| 1  Per Share Net Assets (BPS) | 4,135.71 円 | 3,795.62 円 | — |
+| Dividend (Annual, Estimated) | 460 円 (^[needs-verification]) | 320-340 円 | Mid-term Policy: Payout Ratio 40%+ |
 
-(Source: SMFG FY2026 年 3 月 full-year financial summary 2026_fy_01.pdf, announced 2026-05-13 / results explanatory materials 2026_fy_setumei.pdf)
+(Source: SMFG 2026 年 3 月 Full-Year Financial Results Summary 2026_fy_01.pdf, 2026-05-13 announced / Financial Results Explanation Materials 2026_fy_setumei.pdf)
 
-> NIM (net interest margin) / NPL ratio / cost-income ratio are not individually disclosed in this entry. CET1  mid-term target 10.5%-11.0% operation, with the excess to be allocated to **shareholder returns** or **strategic investment** (Jefferies alliance, Olive Infinite, etc.) (2026-05-13 results explanatory materials p.53).
+> NIM (net interest margin) / non-performing loan ratio / cost-income ratio not individually disclosed in this entry. CET1  mid-term target 10.5%-11.0% operation, excess allocated to **shareholder return** or **strategic investment** (Jefferies partnership, Olive Infinite, etc.) policy (2026-05-13 financial results explanation materials p. 53).
 
-## 6. Business-composition analysis (FY2025  by segment, consolidated, partial) ^[extracted, partial]
+## 6. Business Composition Analysis (FY2025  Segment-wise, Consolidated, Partial) ^[extracted, partial]
 
-Main contributions to SMFG's consolidated business net profit of about 2 兆 6,779 億円 (YoY +4,213 億):
+SMFG consolidated business profit approximately 2 兆 6,779 億円 (YoY +4,213 億) major contributors:
 
-| Main contributing subsidiary | FY2025  business net profit (¥100 million) | vs. prior period |
+| Major Contributing Subsidiary | FY2025  Business Profit (¥ Billion) | YoY |
 |---|---|---|
-| Sumitomo Mitsui Banking Corporation (SMBC, standalone) | 5,864 | +510 |
-| Sumitomo Mitsui Card (SMCC, consolidated) | 8,844 | +660 |
-| SMBC Nikko Securities | 4,707 | +238 |
-| SMBC Capital Markets (overseas IB) | 1,283 | +550 |
-| SMBC Consumer Finance (SMBCCF) | 1,157 | +272 |
-| Sumitomo Mitsui DS AM (50.1%) | 807 | +85 |
-| SMFL (50% / Sumitomo Corporation 50%) | 4,112 | +1,053 |
-| BTPN (Indonesia 〜96%) | 1,792 | -389 |
-| Bank Tabungan Pensiunan Nasional, etc., overseas | 2,409 | -632 |
-| Other | 14,919 | +3,075 |
+| Sumitomo Mitsui Bank (SMBC, Stand-alone) | 5,864  | +510  |
+| Sumitomo Mitsui Card (SMCC, Consolidated) | 8,844  | +660  |
+| SMBC Nikko Securities | 4,707  | +238  |
+| SMBC Capital Markets (Overseas IB) | 1,283  | +550  |
+| SMBC Consumer Finance (SMBCCF) | 1,157  | +272  |
+| Sumitomo Mitsui DS AM (50.1%) | 807  | +85  |
+| SMFL (50% / Sumitomo Corporation 50%) | 4,112  | +1,053  |
+| BTPN (Indonesia ~96%) | 1,792  | -389  |
+| Bank Tabungan Pensiunan Nasional, etc. Overseas | 2,409  | -632  |
+| Other | 14,919  | +3,075  |
 
-(Source: SMFG FY2026 年 3 月 results explanatory materials 2026_fy_setumei.pdf, p.6-7, 2026-05-13)
+(Source: SMFG 2026 年 3 月 Financial Results Explanation Materials 2026_fy_setumei.pdf, p. 6-7,  2026-05-13)
 
-> **PDF layout disruption present** — a precise breakdown of the by-segment % composition / operating-net-profit details / by-region overseas ratios should be checked against the original results explanatory materials (https://www.smfg.co.jp/investor/financial/latest_statement/2026_3/2026_fy_setumei.pdf). ^[needs-verification]
+> **PDF Layout Issues** — Segment-wise % composition, operating profit details, regional overseas ratio precise breakdown requires reference to original financial results explanation materials (https://www.smfg.co.jp/investor/financial/latest_statement/2026_3/2026_fy_setumei.pdf). ^[needs-verification]
 
-**Reading**: the main contributors to business net profit are **domestic retail / cards / consumer credit (SMCC + SMBCCF)** at a scale of **about 1 兆円**, exceeding SMBC standalone (5,864 億), making the **card business + consumer finance one of the pillars of SMFG's consolidated profit** (in contrast to MUFG, which is led by JCIB+GCIB corporate IB). BTPN (Indonesia) is down YoY, affected by the regional economy.
+**Reading**: Business profit major contributors **domestic retail / card / credit (SMCC + SMBCCF)** at approximately 1 兆円 scale exceeding SMBC stand-alone (5,864 億), **card business + consumer finance constitutes one pillar of SMFG consolidated profit** (contrast with MUFG being corporate IB-led). BTPN (Indonesia) negative YoY, reflecting regional economic impact.
 
-## 7. Current board / corporate governance (as of 2026-05 ) ^[extracted]
+## 7. Current Board of Directors / Corporate Governance (2026-05  time point) ^[extracted]
 
-| Item | Number / details |
+| Item | Number / Details |
 |---|---|
-| Total directors | **13 名** |
-| Outside directors | **7 名 (53.8%)** |
-| Inside directors | 6 名 (46.2%) |
-| Female directors | **3 名 (23.1%)** |
-| Foreign directors | **2 名 (15.4%)** — Charles D. Lake II, Jennifer Rogers |
-| Institutional design | company with a nominating committee, etc. (transitioned 2017-06 ) |
+| Directors Total | **13 名** |
+| Outside Directors | **7 名 (53.8%)** |
+| Insider Directors | 6 名 (46.2%) |
+| Female Directors | **3 名 (23.1%)** |
+| Foreign Directors | **2 名 (15.4%)** — Charles D. Lake II, Jennifer Rogers |
+| Governance Structure | Company with Nomination Committee (transitioned 2017-06 ) |
 
-### Inside directors (6 名)
-- **Makoto Takashima** — Chairman of the Board
-- **Toru Nakashima** — Director and President, Executive Officer (6 th president, 2023-12〜)
-- **Yoshiko Kudo** — Director and Deputy President, Executive Officer (female)
-- Kazuyuki Anchi — Director and Senior Managing Executive Officer
+### Insider Directors (6 名)
+- **Makoto Takashima** — Chairman of Board of Directors
+- **Satoru Nakajima** — Director, Executive Vice President (6 -generation President, 2023-12~)
+- **Teiko Kudo** — Director, Executive Vice President (Female)
+- Kazuyuki Aji — Director, Executive Managing Director
 - Toshihiro Isshiki — Director
-- Honami Matsugasaki — Director (female)
+- Honami Matsugasaki — Director (Female)
 
-### Outside directors (7 名)
-- Sonosuke Kadonaga
-- Jun Sawada (former NTT president → current senior advisor)
-- Junko Goto (female)
+### Outside Directors (7 名)
+- Munenojo Kadoenaga
+- Jun Sawada (Former NTT President → Current Advisor)
+- Junko Goto (Female)
 - Isao Teshirogi
-- Tomomitsu Takashima
-- **Charles D. Lake II** (foreign)
-- **Jennifer Rogers** (foreign, female)
+- Toshimitsu Takashima
+- **Charles D. Lake II** (Foreign)
+- **Jennifer Rogers** (Foreign, Female)
 
-(Source: SMFG officer list https://www.smfg.co.jp/company/info/officer.html 2026-05-26 verification)
+(Source: SMFG Officer List https://www.smfg.co.jp/company/info/officer.html 2026-05-26 verified)
 
-## 8. Regulatory-disposition history (public basis, 2010-2026) ^[extracted]
+## 8. Regulatory Sanction History (Public Disclosure Basis, 2010-2026) ^[extracted]
 
-| Date | Regulator | Target | Disposition type | Amount | Overview |
+| Date | Regulatory Authority | Target | Sanction Type | Amount | Summary |
 |---|---|---|---|---|---|
-| 2019-04-23 | US Federal Reserve System | Sumitomo Mitsui Banking Corporation + SMBC NY branch | Written Agreement | (no monetary) | AML / BSA deficiencies (lifted 2025-09-04) |
-| **2022-10-07** | **FSA** | **SMBC Nikko Securities** | **business suspension order + business improvement order** | block-offer business **suspended for 3  months** | **market manipulation of 10  issues through block-offer trading** |
-| **2022-10-07** | **FSA** | **SMBC Nikko Securities** | **surcharge** | **JPY 40,407 百万 (about 404 億円)** | same as above (**the largest surcharge in history 2 位**) |
-| 2022-10-07 | FSA | **Sumitomo Mitsui FG (SMFG)** | **improvement-measure order** | (no monetary) | **parent-level governance failure** (supervisory responsibility for the subsidiary SMBC Nikko) |
-| 2023-02 | Tokyo District Court (criminal) | SMBC Nikko Securities | fine + additional collection | JPY 7 億 (fine) + about JPY 44.7 億 (additional collection) | criminal judgment for market manipulation |
+| 2019-04-23 | US Federal Reserve | Sumitomo Mitsui Bank + SMBC NY Branch | Written Agreement | (Non-monetary) | AML / BSA deficiencies (2025-09-04 lifted) |
+| **2022-10-07** | **Financial Services Agency (FSA)** | **SMBC Nikko Securities** | **Business Suspension Order + Business Improvement Order** | Block-offer business **3 -month suspension** | **Market manipulation via block-offer transactions in 10  securities** |
+| **2022-10-07** | **Financial Services Agency** | **SMBC Nikko Securities** | **Surcharge** | **JPY 40,407 百万 (approximately 404 億円)** | Same as above (**Historic 2 位 surcharge**) |
+| 2022-10-07 | Financial Services Agency | **Sumitomo Mitsui FG (SMFG)** | **Improvement Order** | (Non-monetary) | **Parent company-level governance failure** (subsidiary SMBC Nikko supervision responsibility) |
+| 2023-02  | Tokyo District Court (Criminal) | SMBC Nikko Securities | Criminal fine + Forfeiture | JPY 7 億 (fine) + approximately JPY 44.7 億 (forfeiture) | Market manipulation criminal judgment |
 
-(Source: official press releases of the FSA / each regulator, 2026-05-26 verification)
+(Source: Financial Services Agency and each regulatory authority official press releases, 2026-05-26 verified)
 
-- 2022-10-07 FSA: https://www.fsa.go.jp/news/r4/shouken/20221007/20221007.html
-- 2025-09-04 Fed lifting: https://www.federalreserve.gov/newsevents/pressreleases/enforcement20250909a.htm
+- 2022-10-07 Financial Services Agency: https://www.fsa.go.jp/news/r4/shouken/20221007/20221007.html
+- 2025-09-04 Fed Lifted: https://www.federalreserve.gov/newsevents/pressreleases/enforcement20250909a.htm
 
-> **Observation**: the 2022-10  **SMBC Nikko market-manipulation** matter, in which 5 名 executive employees were criminally prosecuted (arrested by the Tokyo District Public Prosecutors Office Special Investigation Department 2022-03 ), developed into a **dual disposition by the FSA / Tokyo District Court**, one of the largest securities-industry governance incidents in recent years. An improvement-measure order was also issued to the SMFG parent company, and subsequent strategies such as **Olive integration / SBI alliance / Jefferies alliance** are proceeding in the context of this governance reconstruction.
+> **Observation**: 2022-10  **SMBC Nikko market manipulation** case saw 5 名 executive staff criminally charged (2022-03  Tokyo District Public Prosecutors Special Investigation arrested), developing into **double penalty from Financial Services Agency and Tokyo District Court**, the largest recent securities industry governance incident. Parent company SMFG also received improvement order, **subsequent strategies including Olive integration / SBI partnership / Jefferies partnership** proceed in context of this governance reconstruction.
 
 ## Related
 
@@ -336,14 +338,16 @@ Main contributions to SMFG's consolidated business net profit of about 2 兆 6,7
 ## Sources
 
 - **Wikipedia: Sumitomo Mitsui Financial Group** (https://ja.wikipedia.org/wiki/三井住友フィナンシャルグループ, 2026-05-18 extracted)
-- **Wikipedia: SBI Holdings** (https://ja.wikipedia.org/wiki/SBIホールディングス, 2026-05-18 extracted, SMBC-SBI Alliance / Olive Consulting / SBI Shinsei Bank cross-ref)
-- SMFG 23  period (2025-03  period) securities report ^[extracted via Wikipedia]
-- **To be supplemented**:
-  - Olive user KPI primary source → Sumitomo Mitsui Banking Corporation entry / SMBC official IR
-  - SBI HD-side SMFG shareholding ratio (bidirectional confirmation)
-  - digital-strategy details in the SMBC bank entry
+- **Wikipedia: SBI Holdings** (https://ja.wikipedia.org/wiki/SBIホールディングス, 2026-05-18 extracted, SMBC-SBI Alliance, Olive Consulting, SBI Shinsei Bank cross-ref)
+- SMFG 23 -th Period (2025-03  Period) Securities Report ^[extracted via Wikipedia]
+- **SMFG "Main Subsidiaries and Related Companies"** https://www.smfg.co.jp/company/groupcompanies.html
+- **SMBC "Olive Infinite" Service Launch** (2026-05-26) https://www2.smbc.co.jp/news/pdf/j20260526_03.pdf
+- **SBI HD "SBI Shinsei Bank Public Funds Repayment"** (2025-07-31) https://www.sbigroup.co.jp/news/2025/0731_15628.html
+- **Requires Supplementation**:
+  - SBI HD's SMFG share holding ratio (mutual verification)
+  - SMBC Bank entry digital strategy details
 
 ---
 
-> [!info] Verification status
-> confidence: **certain** (v4.0 2026-05-26 expansion: added 4  sections of bank KPIs / business-composition analysis / current board / regulatory-disposition history via primary-source verification). Total assets **328 兆** / net income attributable to parent-company shareholders **1.58 兆** (+34.4%) / FY2026  forecast 1.70 兆 are based on the SMFG official financial summary. ROE 10.4% / ROCET1  13.8% / CET1  target 10.5-11.0% are extracted from the 2026-05-13 results explanatory materials. The board's 13 名 composition is from the 2026-05  official officer list (including the 2 名 foreigners Charles D. Lake II + Jennifer Rogers). The regulatory-disposition history centers on the 2022-10-07 FSA SMBC Nikko market-manipulation business suspension + surcharge 404 億 (the largest in history 2 位) + the SMFG parent-company improvement-measure order. Segment details have PDF layout disruption ^[needs-verification]; the original results explanatory materials should be checked. Olive 570 万 accounts still need verification. Next steps: re-verify the number of employees / major shareholders after the 2026-06-26 24 -period securities report, and Olive details in the SMBC bank entry.
+> [!info] Verification Status
+> confidence: **certain** (v4.1 2026-07-29 verified). Total assets **328 兆** / parent company shareholder net income **1.58 兆** (+34.4%) / FY2026  outlook 1.70 兆 based on SMFG official financial results summary. ROE 10.4% / ROCET1  13.8% / CET1  target 10.5-11.0% extracted from 2026-05-13 financial results explanation materials. Olive confirmed 700 万 account milestone on official page, Olive Infinite / Olive asset management service launch planned 2026-05-26 updated. SBI Shinsei Bank after public funds repayment and relisting remains non-SMFG direct subsidiary. Segment details have PDF layout issues, original reference required.

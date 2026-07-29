@@ -6,14 +6,14 @@ aliases:
   - "FGI Trust"
 domain: trust-banks
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
-review_by: 2026-11-22
+last_updated: 2026-07-29
+last_tended: 2026-07-29
+review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, trust-company, structured-finance, fintech, real-estate-finance]
 status: active
 sources:
-  - "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.xlsx"
+  - "https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf"
   - "https://fgitr.co.jp/"
 ---
 
@@ -31,7 +31,7 @@ Fintech Global Trust describes itself as an operating trust company that provide
 
 The page matters because the entity is a clear structured-finance trust-company route. It belongs in FinWiki as a bridge between trust-company regulation, asset structuring, and non-bank finance.
 
-## Entity Boundary
+## Entity Boundary ^[金融庁の現行免許と会社公式サイト: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://fgitr.co.jp/]
 
 | Item | Reading |
 |---|---|
@@ -44,7 +44,7 @@ The page matters because the entity is a clear structured-finance trust-company 
 
 Do not treat this page as a general fintech page. The useful boundary is the trust-company role in structuring, administration, and asset protection.
 
-## Business Role Map
+## Business Role Map ^[フィンテックグローバル信託 公式サイト: https://fgitr.co.jp/]
 
 | Function | FinWiki relevance |
 |---|---|

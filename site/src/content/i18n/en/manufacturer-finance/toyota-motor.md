@@ -1,11 +1,11 @@
 ---
 source: manufacturer-finance/toyota-motor
-source_hash: 460a2d43891ccb4e
+source_hash: c3633e9ac87d8d0b
 lang: en
 status: machine
 fidelity: ok
 title: "Toyota Motor Corporation (トヨタ自動車)"
-translated_at: 2026-06-19T13:31:34.052Z
+translated_at: 2026-07-29T00:30:49.942Z
 ---
 
 # Toyota Motor Corporation (トヨタ自動車)
@@ -25,10 +25,12 @@ Toyota Motor Corporation is one of Japan's largest automakers, established in 19
 | Formal name | Toyota Motor Corporation / トヨタ自動車株式会社 |
 | Established | 1937年8月28日 |
 | Headquarters | 1 Toyota-Cho, Toyota City, Aichi Prefecture 471-8571, Japan |
-| Capital | 6,350億円（2025-03-31） |
-| Employees | 71,515 on a non-consolidated basis, 383,853 consolidated（2025-03-31） |
+| Capital | 6,350億円（2026-03-31） |
+| Employees | 73,133 on a non-consolidated basis, 390,927 consolidated（2026-03-31） |
 | Main business | Motor vehicle production and sales |
 | Finance subsidiary | [[leasing-firms/toyota-financial|Toyota Financial Services]] |
+
+Sources: ^[Toyota Motor Corporation「Overview」(2026-03-31): https://global.toyota/en/company/profile/overview/?padid=ag478_from_header_menu.]
 
 With automobile production and sales at its core, Toyota forms a vast group encompassing finance, mobility, parts, logistics, and sales networks. Its finance subsidiary handles sales finance, leasing, insurance, and credit cards, integrating vehicle sales with residual-value management.
 
@@ -42,7 +44,9 @@ With automobile production and sales at its core, Toyota forms a vast group enco
 | Finance | [[leasing-firms/toyota-financial|TFS]] | Loans, leasing, insurance, cards |
 | Global production | North America, Europe, Asia, etc. | Foreign exchange, trade finance, supply chain |
 
-In the FY2025 Integrated Report, FY2025  total sales volume is stated as 9,362,410  units and revenue as 48,036.7 billion yen. Toyota Financial Services covers more than 35  countries and regions.
+Sources: ^[Toyota Motor Corporation「Financial Services」: https://global.toyota/en/company/profile/other-toyota-businesses/finance/; Toyota FY2026 Financial Summary: https://global.toyota/pages/global_toyota/ir/financial-results/2026_4q_summary_en.pdf.]
+
+FY2026 consolidated sales volume was 9.595 million units and revenue 50,684.9億円 (50.6849 trillion yen). Toyota's company profile describes TFS's sales-finance network as covering more than 35 countries and regions.
 
 ## 3. Strategy and competition
 
@@ -67,9 +71,10 @@ In the FY2025 Integrated Report, FY2025  total sales volume is stated as 9,362,4
 
 - Toyota Motor Corporation「Company Overview」: https://global.toyota/en/company/profile/overview/?padid=ag478_from_header_menu
 - Toyota Motor Corporation「Annual Report / Integrated Report」: https://global.toyota/en/ir/library/annual/
+- Toyota Motor Corporation「FY2026 Financial Summary」: https://global.toyota/pages/global_toyota/ir/financial-results/2026_4q_summary_en.pdf
 - Toyota「Financial Services」: https://global.toyota/en/company/profile/other-toyota-businesses/finance/
 
 ---
 
 > [!info] Proofreading status
-> confidence: **likely**. Basic attributes, FY2025  scale, and TFS connection confirmed via the official company overview, IR, and financial-business pages.
+> confidence: **likely**. Basic attributes, FY2026 scale, and TFS connection reconfirmed as of 2026-07-29 via the official company overview, FY2026 Financial Summary, and financial-business pages.

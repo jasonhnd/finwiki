@@ -1,11 +1,11 @@
 ---
 source: megabanks/resona-hd
-source_hash: 3f38a5326433d658
+source_hash: a4801044a1186d56
 lang: en
 status: machine
 fidelity: ok
 title: "りそなホールディングス (Resona Holdings)"
-translated_at: 2026-06-19T06:09:18.192Z
+translated_at: 2026-07-29T00:32:47.939Z
 ---
 
 # りそなホールディングス (Resona Holdings)
@@ -16,7 +16,7 @@ This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[for
 
 ## TL;DR
 
-Positioned as the "**4 th megabank**" following the 3  major megabanks ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]). As a **commercial bank G with trust functions**, it is **Japan's first full-fledged "commercial bank + trust" model**, operating with trust as a banking side-business without separating out a trust bank. A rehabilitation history of 2003-05  public-funds **injection of 1 兆 9600 億円** (effective nationalization) → 2015-06  full repayment. Its base is the **Tokyo metropolitan area (Saitama) + Kansai**. The Kansai-integration phase was completed with the 2021-04  full-subsidiarization of Kansai Mirai FG → the **2024-04  KMFG merger-by-absorption and direct subsidiarization of Kansai Mirai Bank + Minato Bank**. FY2024 (the 2025-03  term) net profit **2,133 億円** / total assets **77.4 兆円**. ^[extracted]
+Positioned as the "**4 th megabank**" following the 3  major megabanks ([[megabanks/mufg]] / [[megabanks/smfg]] / [[megabanks/mizuho-fg]]). As a **commercial bank G with trust functions**, it is **Japan's first full-fledged "commercial bank + trust" model**, operating with trust as a banking side-business without separating out a trust bank. A rehabilitation history of 2003-05  public-funds **injection of 1 兆 9600 億円** (effective nationalization) → 2015-06  full repayment. Its base is the **Tokyo metropolitan area (Saitama) + Kansai**. The Kansai-integration phase was completed with the 2021-04  full-subsidiarization of Kansai Mirai FG → the **2024-04  KMFG merger-by-absorption and direct subsidiarization of Kansai Mirai Bank + Minato Bank**. FY2024 (the 2025-03  term) net profit **2,133 億円** / total assets **77.4 兆円**, FY2025 (the 2026-03  term) net profit **2,587 億円**. ^[extracted]
 
 ## 1. 会社概要
 
@@ -89,6 +89,8 @@ Positioned as the "**4 th megabank**" following the 3  major megabanks ([[megaba
 | 資産運用 | りそなアセットマネジメント | 個人向け投信・ファンドラップ |
 | 関西エリア | [[regional-banks/kansai-mirai-bank|関西みらい銀行]]・[[regional-banks/minato-bank|みなと銀行]]（2024-04 直接子会社化）| 関西アーバン＋近畿大阪＋みなと統合体 |
 
+Sources: ^[りそな HD「Major Group Companies」(2026-04-01 時点): https://www.resona-gr.co.jp/holdings/english/about/outline/group/index.html; りそな HD「Financial Results Report: Fiscal Year 2025」: https://www.resona-gr.co.jp/holdings/english/investors/financial/results_c/index.html.]
+
 ### FY2024 連結決算（2025-03 期、IR 確認済）^[extracted]
 
 | 項目 | 金額・数値 |
@@ -156,7 +158,8 @@ Positioned as the "**4 th megabank**" following the 3  major megabanks ([[megaba
 
 - **Wikipedia: りそなホールディングス**（https://ja.wikipedia.org/wiki/りそなホールディングス, 2026-05-19 抽出）
 - **Wikipedia: りそな銀行 / 埼玉りそな銀行 / 関西みらいフィナンシャルグループ**（2026-05-19 抽出）
-- りそな HD 公式 IR / 統合報告書（最新）
+- **りそな HD「Major Group Companies」**（2026-04-01 時点）https://www.resona-gr.co.jp/holdings/english/about/outline/group/index.html
+- **りそな HD「Financial Results Report: Fiscal Year 2025」** https://www.resona-gr.co.jp/holdings/english/investors/financial/results_c/index.html
 
 ---
 

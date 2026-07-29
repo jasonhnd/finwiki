@@ -1,12 +1,12 @@
 ---
 source: trust-banks/sekisui-house-trust
-source_hash: 4397f79efa007f60
+source_hash: 7553ecd804e6d6d8
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "積水ハウス信託"
-translated_at: 2026-06-26T08:32:30.863Z
+translated_at: 2026-07-28T23:40:04.585Z
 ---
 
 # 積水ハウス信託
@@ -21,7 +21,7 @@ translated_at: 2026-06-26T08:32:30.863Z
 
 このページが重要なのは、住宅会社系の信託ルートだからである。建設・住宅グループが、長期的な不動産管理と家族内承継を支援するために信託会社機能をどう使えるかを示す。
 
-## 法人境界
+## 法人境界 ^[金融庁の現行登録と積水ハウス信託会社情報: https://www.fsa.go.jp/menkyo/menkyoj/sintaku01.pdf; https://www.sekisuihouse-trust.co.jp/company/]
 
 | 項目 | 読み方 |
 |---|---|
