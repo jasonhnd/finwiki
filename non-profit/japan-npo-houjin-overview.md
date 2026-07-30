@@ -10,8 +10,8 @@ aliases:
   - "NPO法 特定非営利活動促進法"
 domain: non-profit
 created: 2026-06-03
-last_updated: 2026-06-03
-last_tended: 2026-06-03
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-12-03
 confidence: likely
 tags: [non-profit, japan, npo, civil-society, legal-structure]
@@ -35,6 +35,8 @@ This entry sits under [[non-profit/INDEX|non-profit INDEX]] as the standalone de
 The **NPO法人** (特定非営利活動法人, "specified non-profit corporation") is a civic-society legal form governed by **its own statute family** — the 特定非営利活動促進法 (NPO Act, 1998) — and supervised by **prefectural governors / designated-city mayors**, not by the Legal Affairs Bureau that registers the general 社団・財団 forms. It is created by an **authorisation (認証)** process rather than mere registration, carries **no notary fee and no registration tax**, but in exchange demands **10+ members, narrow permitted activities (20 enumerated categories), and heavy mandatory public disclosure**.
 
 ## Governing law and supervisor
+
+The following table is scoped to public primary sources (npo-homepage.go.jp, laws.e-gov.go.jp, moj.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:npo-homepage.go.jp; laws.e-gov.go.jp; moj.go.jp]
 
 | Attribute | Detail |
 |---|---|
@@ -66,6 +68,8 @@ An NPO法人 may only pursue **特定非営利活動** — activities that fall 
 Activities outside these categories cannot be the **main purpose** of an NPO法人. An organisation whose mission does not map onto the list must use a different vehicle — typically a [[non-profit/japan-ippan-vs-koeki-shadan-houjin|一般社団法人]] (any lawful purpose) or a foundation form.
 
 ## Establishment requirements
+
+The following table is scoped to public primary sources (npo-homepage.go.jp, laws.e-gov.go.jp, moj.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:npo-homepage.go.jp; laws.e-gov.go.jp; moj.go.jp]
 
 | Requirement | NPO法人 rule |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: life-insurers/zurich-life
-source_hash: 93fb4449b28de1a8
+source_hash: a17ffbf9b768b520
 lang: ja
 status: machine
 fidelity: ok
 title: "チューリッヒ生命保険"
-translated_at: 2026-06-02T16:33:58.474Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # チューリッヒ生命保険
 
@@ -19,6 +19,8 @@ translated_at: 2026-06-02T16:33:58.474Z
 チューリッヒ生命保険株式会社は、金融庁の生命保険会社一覧と生命保険協会の会員一覧に掲載される、日本の生命保険運営会社。[[non-life-insurers/zurich-japan]] は Zurich group の日本における保険面 / 損害保険支店の文脈を扱い、本ページは生命保険の引受法人として分けて扱う。
 
 ## 1. 法人・グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, zurichlife.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; zurichlife.co.jp]
 
 | 項目 | 内容 |
 |---|---|

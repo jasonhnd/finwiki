@@ -1,11 +1,11 @@
 ---
 source: regional-banks/tokyo-star-bank
-source_hash: dbe31bedb806e2bf
+source_hash: 55b742e7a2d31fa0
 lang: en
 status: machine
 fidelity: ok
 title: "Tokyo Star Bank"
-translated_at: 2026-06-01T02:31:57.139Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Tokyo Star Bank
 
@@ -19,6 +19,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 Tokyo Star Bank, Ltd. is a Tokyo-headquartered second regional bank listed in the FSA bank-license list. Its official company profile explains that Taiwan's CTBC Bank acquired all shares in 2014 年, so within the Japan regional-bank surface it is classified as a foreign-owned second regional bank.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, tokyostarbank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; tokyostarbank.co.jp]
 
 | Item | Notes |
 |---|---|

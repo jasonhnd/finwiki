@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/bank-of-taiwan-japan
-source_hash: 2e263a34bc43fed7
+source_hash: e4c901fc652f4111
 lang: en
 status: machine
 fidelity: ok
 title: "Bank of Taiwan Tokyo Branch"
-translated_at: 2026-05-31T11:13:44.881Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Bank of Taiwan Tokyo Branch
@@ -20,6 +20,8 @@ This entry sits under[[foreign-financial-institutions/INDEX|foreign-financial-in
 Bank of Taiwan Tokyo Branch is a bank branch in Japan of Taiwan / Bank of Taiwan listed on the Financial Services Agency's list of foreign bank branches. Treated as a branch anchor connecting Taiwan public-sector banking heritage and Japan-Taiwan business flows.
 
 ## 1. License / branch boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, bot.com.tw). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; bot.com.tw]
 
 | Item | Notes |
 |---|---|

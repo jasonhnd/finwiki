@@ -10,8 +10,8 @@ aliases:
   - "payment-firms/digital-garage"
 domain: payment-firms
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, payments, psp, gateway, merchant-services]
@@ -34,6 +34,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 DGフィナンシャルテクノロジーは Digital Garage group の payment / fintech infrastructure operator。旧ベリトランスの決済代行文脈を引き継ぎ、online / store-facing payment gateway と merchant technology の境界を読むページ。
 
 ## 1. 法人・ライセンス境界
+
+The following table is scoped to public primary sources (dgft.jp, company.dgft.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:dgft.jp; company.dgft.jp; meti.go.jp]
 
 | Item | Reading |
 |---|---|

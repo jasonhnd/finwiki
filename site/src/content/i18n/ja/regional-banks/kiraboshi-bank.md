@@ -1,11 +1,11 @@
 ---
 source: regional-banks/kiraboshi-bank
-source_hash: f240787ded5e6811
+source_hash: 287d944eb345fa1d
 lang: ja
 status: machine
 fidelity: ok
 title: "きらぼし銀行"
-translated_at: 2026-06-02T14:54:39.057Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # きらぼし銀行
 
@@ -18,6 +18,8 @@ translated_at: 2026-06-02T14:54:39.057Z
 株式会社きらぼし銀行は、金融庁の銀行免許一覧に掲載される東京都本店の地方銀行で、[[regional-banks/kiraboshi-fg]] 傘下の中核的な運営銀行。2018 年に東京都民銀行、八千代銀行、新銀行東京の 3 行合併で発足し、東京都内・首都圏における中小企業金融、個人取引、資産形成、スタートアップ支援の接点を担う。
 
 ## 1. 免許・グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, kiraboshibank.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; kiraboshibank.co.jp]
 
 | 項目 | 内容 |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: regional-banks/ikeda-senshu-bank
-source_hash: 6ec6c7f75ace3015
+source_hash: eea90fc05117de0b
 lang: ja
 status: machine
 fidelity: ok
 title: "池田泉州銀行"
-translated_at: 2026-06-02T14:25:12.408Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 池田泉州銀行
@@ -20,6 +20,8 @@ translated_at: 2026-06-02T14:25:12.408Z
 株式会社池田泉州銀行は、金融庁の銀行免許一覧に掲載される大阪府本店の地方銀行。[[regional-banks/ikeda-senshu-hd]] の中核銀行であり、旧池田銀行・旧泉州銀行統合後の銀行免許エンティティとして扱う。
 
 ## 1. ライセンス・グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, sihd-bk.jp）の範囲に限定して読む。^[source:fsa.go.jp; sihd-bk.jp]
 
 | 項目 | 注記 |
 |---|---|

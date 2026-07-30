@@ -8,8 +8,8 @@ aliases:
   - "ANZ Japan"
 domain: securities-firms
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-22
 confidence: likely
 tags: [JapanFG, foreign-bank, Australia, securities, FIBO, corporate-banking]
@@ -40,6 +40,8 @@ Registration is observed in the checked FSA sources as of 2026-05-13; this page 
 
 ## Entity / License Stack
 
+The following table is scoped to public primary sources (fsa.go.jp, anz.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; anz.com]
+
 | Layer | Public-source reading | Wiki route |
 |---|---|---|
 | Foreign-bank branch | FSA foreign-bank branch list includes the Australia and New Zealand Banking Group row. | [[financial-licenses/foreign-bank-branch-license-route|foreign-bank branch route]] |
@@ -48,6 +50,8 @@ Registration is observed in the checked FSA sources as of 2026-05-13; this page 
 | Group member / association | IBA Japan presents ANZ as a financial-group member. | [[financial-licenses/foreign-financial-group-adjacent-licenses|adjacent-license route]] |
 
 ## Business Role Map
+
+The following table is scoped to public primary sources (fsa.go.jp, anz.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; anz.com]
 
 | Lane | Japan / corridor relevance |
 |---|---|

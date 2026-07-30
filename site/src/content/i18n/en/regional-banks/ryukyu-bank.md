@@ -1,11 +1,11 @@
 ---
 source: regional-banks/ryukyu-bank
-source_hash: 09e65919ac41cf8a
+source_hash: 0d3ec5fbaa9bf84b
 lang: en
 status: machine
 fidelity: ok
 title: "The Bank of the Ryukyus, Ltd. (株式会社琉球銀行)"
-translated_at: 2026-07-28T20:55:25Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # The Bank of the Ryukyus, Ltd. (株式会社琉球銀行)
@@ -57,6 +57,8 @@ The think-tank subsidiary "**Ryugin Research Institute**" is one of the main pub
 
 ## 2. Business segment map
 
+The following table is scoped to public primary sources (ryugin.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:ryugin.co.jp]
+
 | Segment | Characteristics |
 |---|---|
 | Individual deposits / loans | No. 2 in-prefecture share, centered on mortgages |
@@ -77,6 +79,8 @@ The think-tank subsidiary "**Ryugin Research Institute**" is one of the main pub
 - Human capital: maintaining in-prefecture employment and two-way mobility of mainland / Asia talent
 
 ### Competitive structure (within Okinawa Prefecture)
+
+The following table is scoped to public primary sources (ryugin.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:ryugin.co.jp]
 
 | Bank | Parent | Positioning |
 |---|---|---|

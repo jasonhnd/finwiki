@@ -1,11 +1,11 @@
 ---
 source: payment-firms/gmo-payment-gateway
-source_hash: ac10b6c103dd93b4
+source_hash: cf83064d557d8ad1
 lang: en
 status: machine
 fidelity: ok
 title: "GMO ペイメントゲートウェイ"
-translated_at: 2026-06-19T06:09:18.063Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # GMO ペイメントゲートウェイ
@@ -30,6 +30,8 @@ One of the largest domestic payment service providers (PSP). It provides EC merc
 
 ## 2. Business segment map
 
+The following table is scoped to public primary sources (gmo-pg.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:gmo-pg.com]
+
 | Segment | Main service | Characteristics |
 |---|---|---|
 | EC payment processing | credit card (Visa/Master/JCB/Amex) + convenience-store payment + bank transfer + electronic money | active stores 171,257 店 (as of 2026-03 ; 829,062 店 when including fincode byGMO, etc.) |
@@ -40,6 +42,8 @@ One of the largest domestic payment service providers (PSP). It provides EC merc
 | Adjacent businesses | financial services / remittance / transaction lending | lending using merchant data |
 
 ## 3. Corporate history
+
+The following table is scoped to public primary sources (gmo-pg.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:gmo-pg.com]
 
 | Year/Month | Event |
 |---|---|
@@ -61,6 +65,8 @@ One of the largest domestic payment service providers (PSP). It provides EC merc
 - **Asia concentration**: investment / JV in Vietnam's NextPay / Taiwan's ECPay / Thailand, etc.
 
 ### Competitive map
+
+The following table is scoped to public primary sources (gmo-pg.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:gmo-pg.com]
 
 | Competitor | Strength | Positioning |
 |---|---|---|

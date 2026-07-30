@@ -1,11 +1,11 @@
 ---
 source: securities-firms/traders-securities
-source_hash: 04cf88af57456afb
+source_hash: 42d35eba230679b4
 lang: en
 status: machine
 fidelity: ok
 title: "Traders Securities"
-translated_at: 2026-06-15T04:09:41.143Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Traders Securities
@@ -19,6 +19,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]] (its dom
 Traders Securities Co., Ltd. (トレイダーズ証券株式会社) is a 100% subsidiary of the listed holding company Traders Holdings (TSE Standard 8704) and an online brokerage specialising in financial derivatives. As a Type I Financial Instruments Business Operator under the Financial Instruments and Exchange Act, it is listed on the FSA's register of financial instruments business operators as "トレイダーズ証券株式会社" (Director-General of the Kanto Local Finance Bureau (Kinsho) 第123号). Its flagship brands are the over-the-counter FX services "Minna no FX" and "LIGHT FX".
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, tradershd.com, min-fx.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; tradershd.com; min-fx.jp]
 
 | Item | Notes |
 |---|---|

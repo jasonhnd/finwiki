@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/scor-japan
-source_hash: 25c4213fa849a1eb
+source_hash: 6fb606d2a583ed89
 lang: en
 status: machine
 fidelity: ok
 title: "SCOR Reinsurance Japan Branch (スコール再保険日本支店)"
-translated_at: 2026-06-19T06:09:18.194Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # SCOR Reinsurance Japan Branch (スコール再保険日本支店)
@@ -19,6 +19,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 The Japan branch of SCOR SE (a major European reinsurer listed in Paris, France). One corner of the **4  major European reinsurers (Munich Re / Swiss Re / Hannover Re / SCOR)**, it is a France-origin global reinsurance player. Listed on the FSA's non-life insurance company license list (foreign non-life insurance companies, etc.), it covers the Japanese market in both the P&C and Life & Health segments.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (scor.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:scor.com; fsa.go.jp]
 
 | Item | Notes |
 |---|---|

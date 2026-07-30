@@ -1,11 +1,11 @@
 ---
 source: payment-firms/mercari-hd
-source_hash: e329f8602a58c36e
+source_hash: 4e1f2a4fec9316d6
 lang: en
 status: machine
 fidelity: ok
 title: "Mercari HD (Mercari, Inc.)"
-translated_at: 2026-07-28T20:15:36Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Mercari HD (Mercari, Inc.)
@@ -48,6 +48,8 @@ Mercari, Inc. (holding function + flea-market operation; listed 4385)
 
 ### Key chronology
 
+The following table is scoped to public primary sources (about.mercari.com, www2.jpx.co.jp, jpx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:about.mercari.com; www2.jpx.co.jp; jpx.co.jp; finance-frontend-pc-dist.west.edge.storage-yahoo.jp]
+
 | Year/month | Event |
 |---|---|
 | 2013-02-01 | 株式会社コウゾウ established (founded by Shintaro Yamada) |
@@ -72,6 +74,8 @@ Mercari, Inc. (holding function + flea-market operation; listed 4385)
 | **2025-06  period** | **Revenue 1,926 億円 / net income 261 億円** (YoY +94%, 3  consecutive periods of record profit), **US business's first full-year profitability** |
 
 ## 2. Business segment map
+
+The following table is scoped to public primary sources (about.mercari.com, www2.jpx.co.jp, jpx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:about.mercari.com; www2.jpx.co.jp; jpx.co.jp; finance-frontend-pc-dist.west.edge.storage-yahoo.jp]
 
 | Segment | Main operator | Characteristics |
 |---|---|---|
@@ -110,6 +114,8 @@ Mercari, Inc. (holding function + flea-market operation; listed 4385)
 
 ### Competitive landscape
 
+The following table is scoped to public primary sources (about.mercari.com, www2.jpx.co.jp, jpx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:about.mercari.com; www2.jpx.co.jp; jpx.co.jp; finance-frontend-pc-dist.west.edge.storage-yahoo.jp]
+
 | Area | Main competitors |
 |---|---|
 | C2C flea market | Yahoo Auctions (LY), Rakuma (Rakuten), PayPay Flea Market |
@@ -133,6 +139,8 @@ Mercari, Inc. (holding function + flea-market operation; listed 4385)
   - Act on the Protection of Personal Information / Secondhand Articles Dealer Act → listing management of Mercari proper
 
 ## Management figures (public materials, FY2025.6  full year)
+
+The following table is scoped to public primary sources (about.mercari.com, www2.jpx.co.jp, jpx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:about.mercari.com; www2.jpx.co.jp; jpx.co.jp; finance-frontend-pc-dist.west.edge.storage-yahoo.jp]
 
 | Item | Figure | As of / source |
 |---|---|---|

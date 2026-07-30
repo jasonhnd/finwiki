@@ -1,11 +1,11 @@
 ---
 source: regional-banks/akita-bank
-source_hash: 257ac3704e46daad
+source_hash: 7a982ce6d7ca80e9
 lang: en
 status: machine
 fidelity: ok
 title: "The Akita Bank (株式会社秋田銀行)"
-translated_at: 2026-06-19T12:43:19.945Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # The Akita Bank (株式会社秋田銀行)
@@ -19,6 +19,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 The Akita Bank is a first-tier regional bank based in Akita Prefecture. It faces the same Akita Prefecture market as Hokuto Bank under [[regional-banks/fidea-hd|フィデア HD]], but the Akita Bank is an independent, standalone listed bank that handles corporate, individual, and public finance within the prefecture. It is a representative example of a depopulating prefecture, used as a subject for observing regional-bank consolidation, in-prefecture manufacturing, tourism, and public-money transactions.
 
 ## 1. Company overview
+
+The following table is scoped to public primary sources (akita-bank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:akita-bank.co.jp]
 
 | Item | Detail |
 |---|---|
@@ -35,6 +37,8 @@ According to the official company overview, as of 2025-03-31, total deposits are
 In addition to the bank itself, the Akita Bank group complements its regional financial services through 7  group companies engaged in credit guarantees, cards, leasing, consulting, a regional trading company, fund management, and the like.
 
 ## 2. Business-segment map
+
+The following table is scoped to public primary sources (akita-bank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:akita-bank.co.jp]
 
 | Business segment | Content | Observation point |
 |---|---|---|

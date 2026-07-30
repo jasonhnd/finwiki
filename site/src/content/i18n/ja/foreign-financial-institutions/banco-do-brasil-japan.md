@@ -1,12 +1,12 @@
 ---
 source: foreign-financial-institutions/banco-do-brasil-japan
-source_hash: ef6c4222c33ad7a2
+source_hash: c502ec26a396244b
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "ブラジル銀行日本 (Banco do Brasil Japan)"
-translated_at: 2026-06-26T08:32:15.222Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # ブラジル銀行日本 (Banco do Brasil Japan)
@@ -25,6 +25,8 @@ Banco do Brasil の日本サイトは、単なる登録上の一行ではなく�
 
 ## エンティティ境界
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, bb.com.br）の範囲に限定して読む。^[source:fsa.go.jp; bb.com.br]
+
 | 項目 | 読み方 |
 |---|---|
 | 親銀行 | Banco do Brasil S.A. |
@@ -34,6 +36,8 @@ Banco do Brasil の日本サイトは、単なる登録上の一行ではなく�
 | 歴史的注意点 | FSA は 2004に東京支店へ行政処分を行った。これは現在の指摘ではなく、過去のコンプライアンス文脈として扱う。 |
 
 ## 事業上の役割マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, bb.com.br）の範囲に限定して読む。^[source:fsa.go.jp; bb.com.br]
 
 | 機能 | 日本での関連性 |
 |---|---|

@@ -1,12 +1,12 @@
 ---
 source: payment-firms/paidy
-source_hash: f7f69b28b32e18d8
+source_hash: f4b3dd0a0c1ccc29
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "株式会社Paidy"
-translated_at: 2026-06-26T08:32:23.071Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 株式会社Paidy
@@ -29,6 +29,8 @@ translated_at: 2026-06-26T08:32:23.071Z
 **創業者**：**Russell Cummer**（米国出身、元ゴールドマン・サックス）^[extracted]
 
 ### 主要サービスライン
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | サービス | 内容 |
 |---|---|
@@ -56,6 +58,8 @@ translated_at: 2026-06-26T08:32:23.071Z
 
 ## 2. 事業セグメント・マップ
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | セグメント | 主要事業 | 特徴 |
 |---|---|---|
 | BNPL 一括 | ペイディ（あと払い）| メアド + 電話番号認証、与信 AI、加盟店手数料モデル |
@@ -70,6 +74,8 @@ translated_at: 2026-06-26T08:32:23.071Z
 - **手数料モデル**: 加盟店側手数料（クレカより高め）+ 分割時の消費者側手数料（一括は無料）
 
 ### 競合マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | 競合 | 親グループ | ポジション |
 |---|---|---|

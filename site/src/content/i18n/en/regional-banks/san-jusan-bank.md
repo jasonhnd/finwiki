@@ -1,11 +1,11 @@
 ---
 source: regional-banks/san-jusan-bank
-source_hash: 41ec6cf40cc4988e
+source_hash: 1f39f2081020c950
 lang: en
 status: machine
 fidelity: ok
 title: "三十三銀行 (San ju San Bank)"
-translated_at: 2026-06-19T12:43:19.985Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 三十三銀行 (San ju San Bank)
@@ -19,6 +19,8 @@ This entry sits under the [[regional-banks/INDEX|regional-banks INDEX]] as the b
 San ju San Bank, Ltd. is a first-regional bank headquartered in Yokkaichi City, Mie Prefecture, and is the 100% subsidiary / single bank operating subsidiary of [[regional-banks/san-jusan-fg|三十三 FG]] (TSE PRIME 7322). It was launched through the **2021-05-01 merger of the former Mie Bank + the former Daisan Bank**, and the company name "San ju San (Thirty-three)" is a double meaning taking the "san (three)" from both banks: "**san (mie / Mie) + san (third / Daisan)**" (English name: San ju San = 33). The No.1  share within the prefecture is held by [[regional-banks/hyakugo-bank|百五銀行]], and while this bank ranks 2位 following the consolidation of the two banks, it leverages its unique position on the Kansai-leaning boundary of the Chukyo economic zone (the Nagoya area). ^[extracted]
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, 33bk.co.jp, 33fg.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; 33bk.co.jp; 33fg.co.jp; chiginkyo.or.jp]
 
 | Item | Notes |
 |---|---|
@@ -69,6 +71,8 @@ San ju San Bank, Ltd. is a first-regional bank headquartered in Yokkaichi City, 
 
 ## 4. KPI table (FY2025.3)
 
+The following table is scoped to public primary sources (fsa.go.jp, 33bk.co.jp, 33fg.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; 33bk.co.jp; 33fg.co.jp; chiginkyo.or.jp]
+
 | Item | Value (as of 2025年3月) |
 |---|---|
 | Deposits, etc., balance (FG consolidated, including negotiable certificates of deposit) | 3 兆 9,331 億円 (vs. prior fiscal year-end +453 億円) |
@@ -82,6 +86,8 @@ San ju San Bank, Ltd. is a first-regional bank headquartered in Yokkaichi City, 
 > Note: The above is on a [[regional-banks/san-jusan-fg|三十三 FG]] FY2025.3  consolidated basis (2025-05-09 financial results summary / integrated report 2025). San ju San Bank is the core subsidiary of this FG, with the "banking" segment accounting for the majority. For precise standalone figures, refer to the FG's securities report.
 
 ## 5. Business segment map
+
+The following table is scoped to public primary sources (fsa.go.jp, 33bk.co.jp, 33fg.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; 33bk.co.jp; 33fg.co.jp; chiginkyo.or.jp]
 
 | Segment | Characteristics |
 |---|---|

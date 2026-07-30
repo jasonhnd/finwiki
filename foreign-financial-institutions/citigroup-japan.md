@@ -3,8 +3,8 @@ title: シティグループ・ジャパン (Citigroup Japan)
 aliases: ["Citigroup Japan", "シティグループ", "Citi Japan", "シティバンク銀行", "シティバンク N.A. 東京支店", "シティグループ証券", "Citigroup Global Markets Japan", "Citibank Japan", "シティグループ・グローバル・マーケッツ・ジャパン"]
 domain: foreign-financial-institutions
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, foreign-ib, banking]
@@ -50,6 +50,8 @@ Citigroup Inc.（米 NYSE: C・連邦準備制度監督）
 
 ## 2. 沿革（年表抜粋）
 
+The following table is scoped to public primary sources (Wikipedia: シティグループ (2026-05-19 参照), Wikipedia: シティバンク銀行 (2026-05-19 参照), Wikipedia: 日興コーディアル証券 (2026-05-19 参照)). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Wikipedia: シティグループ (2026-05-19 参照); Wikipedia: シティバンク銀行 (2026-05-19 参照); Wikipedia: 日興コーディアル証券 (2026-05-19 参照)]
+
 | 年 | 事象 |
 |---|---|
 | **1902** | **ナショナル・シティ銀行 東京支店 開設**（邦銀史上最初期の外資系プレゼンスの一つ）^[extracted] |
@@ -66,6 +68,8 @@ Citigroup Inc.（米 NYSE: C・連邦準備制度監督）
 
 ## 3. 事業セグメント・マップ
 
+The following table is scoped to public primary sources (Wikipedia: シティグループ (2026-05-19 参照), Wikipedia: シティバンク銀行 (2026-05-19 参照), Wikipedia: 日興コーディアル証券 (2026-05-19 参照)). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Wikipedia: シティグループ (2026-05-19 参照); Wikipedia: シティバンク銀行 (2026-05-19 参照); Wikipedia: 日興コーディアル証券 (2026-05-19 参照)]
+
 | セグメント | 在日担い手 | 特徴 |
 |---|---|---|
 | 法人銀行（コーポレートバンキング）| シティバンク, N.A. 東京支店 | 多国籍企業の日本進出支援、日系大企業のグローバル取引、シンジケートローン |
@@ -80,6 +84,8 @@ Citigroup Inc.（米 NYSE: C・連邦準備制度監督）
 - **米 G-SIB Bucket 3 のグローバル一部**：地政学イベント・米利上げ・ドル流動性のグローバル波及を通じて日本拠点の業務にも影響
 
 ### 主要競合
+
+The following table is scoped to public primary sources (Wikipedia: シティグループ (2026-05-19 参照), Wikipedia: シティバンク銀行 (2026-05-19 参照), Wikipedia: 日興コーディアル証券 (2026-05-19 参照)). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Wikipedia: シティグループ (2026-05-19 参照); Wikipedia: シティバンク銀行 (2026-05-19 参照); Wikipedia: 日興コーディアル証券 (2026-05-19 参照)]
 
 | 領域 | 主要競合 |
 |---|---|

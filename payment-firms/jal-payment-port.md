@@ -3,8 +3,8 @@ title: "JALペイメント・ポート"
 aliases: ["JAL Payment Port", "JALペイメント・ポート株式会社", "JAL Pay", "JAL Global WALLET"]
 domain: payment-firms
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, payments, wallet, funds-transfer, prepaid, travel-finance]
@@ -28,6 +28,8 @@ JALペイメント・ポート株式会社 is the operator behind JAL Pay / trav
 For FinWiki, this is the travel / loyalty wallet route linking airline membership, prepaid value, transfer capability, bank agency, and financial product mediation.
 
 ## 1. 法人・ライセンス境界
+
+The following table is scoped to public primary sources (jal.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jal.co.jp; fsa.go.jp]
 
 | Item | Reading |
 |---|---|

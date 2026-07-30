@@ -1,11 +1,11 @@
 ---
 source: regional-banks/minami-nippon-bank
-source_hash: 922248172bcd8edb
+source_hash: b54a9c93cc6597e0
 lang: en
 status: machine
 fidelity: ok
 title: "The Minami-Nippon Bank (南日本銀行)"
-translated_at: 2026-06-15T04:09:41.173Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # The Minami-Nippon Bank (南日本銀行)
@@ -19,6 +19,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 The Minami-Nippon Bank, Ltd. (株式会社南日本銀行) is a second regional bank headquartered in Kagoshima City, Kagoshima Prefecture, holding a bank license under the Banking Act and listed in the FSA's bank license list. It is the second-regional-bank operating-company anchor of Kagoshima Prefecture, treated as a local peer that is a separate legal entity from the first regional bank [[regional-banks/kagoshima-bank|鹿児島銀行]]. The substance of its business is the standard second-regional-bank model of deposit-taking within the prefecture and lending to SMEs and individuals.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, nangin.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; nangin.jp]
 
 | Item | Notes |
 |---|---|

@@ -3,8 +3,8 @@ title: モルガン・スタンレー・ジャパン (Morgan Stanley Japan)
 aliases: ["Morgan Stanley Japan", "MS Japan", "モルガン・スタンレー・ジャパンホールディングス", "MSJH", "MUMSS", "MSMS", "三菱 UFJ モルガン・スタンレー証券", "モルガン・スタンレー MUFG 証券"]
 domain: securities-firms
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, foreign-ib, securities]
@@ -38,6 +38,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ### 主要法人 (4 社体制)
 
+The following table is scoped to public primary sources (Wikipedia: モルガン・スタンレー / 三菱UFJモルガン・スタンレー証券 / モルガン・スタンレーMUFG証券 (2026-05-19 抽出), Morgan Stanley Annual Report (2024 / Form 10-K), MUFG IR 開示 (Morgan Stanley 戦略提携関連)). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Wikipedia: モルガン・スタンレー / 三菱UFJモルガン・スタンレー証券 / モルガン・スタンレーMUFG証券 (2026-05-19 抽出); Morgan Stanley Annual Report (2024 / Form 10-K); MUFG IR 開示 (Morgan Stanley 戦略提携関連)]
+
 | 法人 | 出資比率 | 業態 | 設立 |
 |---|---|---|---|
 | **三菱 UFJ モルガン・スタンレー証券 (MUMSS)** | **MUFG 60% / MS 40%** | 対面リテール + ECM/DCM | 2010-05-01 統合 |
@@ -48,6 +50,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 > 議決権配分の非対称性: MUMSS は MUFG 過半 (邦銀主導)、MSMS は MS 過半 (外資主導)。**証券免許の二重構造**で対面リテール (邦銀ブランド) とホールセール (外資ブランド) を分離 → 規制対応 + 顧客セグメント最適化。
 
 ### Morgan Stanley グローバル基本情報
+
+The following table is scoped to public primary sources (Wikipedia: モルガン・スタンレー / 三菱UFJモルガン・スタンレー証券 / モルガン・スタンレーMUFG証券 (2026-05-19 抽出), Morgan Stanley Annual Report (2024 / Form 10-K), MUFG IR 開示 (Morgan Stanley 戦略提携関連)). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Wikipedia: モルガン・スタンレー / 三菱UFJモルガン・スタンレー証券 / モルガン・スタンレーMUFG証券 (2026-05-19 抽出); Morgan Stanley Annual Report (2024 / Form 10-K); MUFG IR 開示 (Morgan Stanley 戦略提携関連)]
 
 | 項目 | 内容 |
 |---|---|
@@ -110,6 +114,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 - **2024** 戦略提携 16 年継続、Morgan Stanley は MUFG を「Strategic Alliance Partner」と継続位置付け
 
 ### 親会社 Morgan Stanley 重要年表 (抜粋)
+
+The following table is scoped to public primary sources (Wikipedia: モルガン・スタンレー / 三菱UFJモルガン・スタンレー証券 / モルガン・スタンレーMUFG証券 (2026-05-19 抽出), Morgan Stanley Annual Report (2024 / Form 10-K), MUFG IR 開示 (Morgan Stanley 戦略提携関連)). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Wikipedia: モルガン・スタンレー / 三菱UFJモルガン・スタンレー証券 / モルガン・スタンレーMUFG証券 (2026-05-19 抽出); Morgan Stanley Annual Report (2024 / Form 10-K); MUFG IR 開示 (Morgan Stanley 戦略提携関連)]
 
 | 年月 | 事象 |
 |---|---|

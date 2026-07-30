@@ -1,11 +1,11 @@
 ---
 source: payment-firms/merpay
-source_hash: 40165e53fa7543b4
+source_hash: 21720ec686ee5981
 lang: en
 status: machine
 fidelity: ok
 title: "Merpay"
-translated_at: 2026-06-26T03:26:36.039Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Merpay
 
@@ -19,6 +19,8 @@ This entry sits under [[payment-firms/INDEX|決済事業者の索引]]. Read it 
 Merpay is the payment and credit operating company of [[payment-firms/mercari-hd|メルカリ]]. Its official About page shows registrations including funds transfer, prepaid payment instruments, comprehensive credit-purchase intermediation, and lending, so it needs a standalone page as the connection point between marketplace balance, wallet, and credit. ^[verified-2026-06-24]
 
 ## 1. Entity / license boundary
+
+The following table is scoped to public primary sources (jp.merpay.com, fsa.go.jp, static.jp.mercari.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jp.merpay.com; fsa.go.jp; static.jp.mercari.com]
 
 | Item | Reading |
 |---|---|

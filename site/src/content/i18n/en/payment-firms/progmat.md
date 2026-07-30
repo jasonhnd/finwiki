@@ -1,11 +1,11 @@
 ---
 source: payment-firms/progmat
-source_hash: 4a9a629df8fdacd1
+source_hash: cf64d393ab15b3fa
 lang: en
 status: machine
 fidelity: ok
 title: "Progmat, Inc. (株式会社Progmat)"
-translated_at: 2026-06-15T03:48:21.914Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Progmat, Inc. (株式会社Progmat)
@@ -20,6 +20,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it with 
 Progmat, Inc. is a digital asset issuance / management platform operator. In stablecoins it is important as the infrastructure behind the trust-type Progmat Coin / Project Pax line, but the company itself does not become a bank, trust company, or electronic payment instruments trading operator; the issuer remains on the regulated trust-bank side such as [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]].
 
 ## 1. Corporate / license boundary
+
+The following table is scoped to public primary sources (progmat.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:progmat.co.jp]
 
 | Item | Reading |
 |---|---|

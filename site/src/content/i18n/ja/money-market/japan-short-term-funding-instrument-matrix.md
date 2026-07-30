@@ -1,11 +1,11 @@
 ---
 source: money-market/japan-short-term-funding-instrument-matrix
-source_hash: 0fea42c9d4c38bf2
+source_hash: 4a1785b10eb24c0c
 lang: ja
 status: machine
 fidelity: ok
 title: "日本の短期資金調達商品マトリクス"
-translated_at: 2026-06-19T06:09:18.160Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本の短期資金調達商品マトリクス
@@ -147,6 +147,8 @@ translated_at: 2026-06-19T06:09:18.160Z
 - **2024  後のフロアの含意。** プラスの円短期金利が MRF の利回りサーフェスを復活させた；原ポートフォリオの利回りは運用手数料を差し引いた政策金利残高フロアへ向かって持ち上がる。MRF はデフォルトのブローカレッジ現金スリーブとして生き残る；MMF の復活は持続的なプラスのフロントエンド金利と商品復活の意思決定に依存する。
 
 ## クロス商品比較マトリクス
+
+以下の表は、エントリ出典インベントリの公開一次資料（boj.or.jp, mof.go.jp, jsda.or.jp）の範囲に限定して読む。^[source:boj.or.jp; mof.go.jp; jsda.or.jp; jasdec.com]
 
 | 次元 | 無担保コール | 有担保コール | GC レポ | SC レポ | CP | NCD | TBill / TDB | 日銀 CDF（補完当座預金） | MRF / MMF |
 |---|---|---|---|---|---|---|---|---|---|

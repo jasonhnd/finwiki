@@ -1,11 +1,11 @@
 ---
 source: securities/japannext-sor-routing-deep-dive
-source_hash: 1a19daaab35d5bd8
+source_hash: 92e85dd8e5b2278f
 lang: en
 status: machine
 fidelity: ok
 title: "Japannext PTS SOR routing deep dive"
-translated_at: 2026-06-01T04:15:40.167Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Japannext PTS SOR routing deep dive
 
@@ -18,6 +18,8 @@ This page sits inside [[securities/INDEX|securities index]] as the venue-mechani
 Japannext is the oldest and largest cash-equity PTS in Japan, operated by Japannext Co., Ltd. (formerly SBI Japannext) under a FIEA Type I financial instruments business with PTS authorization. It runs lit continuous-auction order books (J-Market for daytime sessions and X-Market for night session) and supports limit / market / iceberg / pegged order types familiar from MTF / ATS designs in EU and US. Its competitive role is to give broker SOR engines a price-improvement and out-of-hours alternative to [[securities/tokyo-stock-exchange|TSE]] and the OSE-listed cash adjacency. Routing economics are shaped by JSDA self-regulatory rules, FSA customer-best-interest principles, fragmentation between TSE / Japannext / [[securities/osaka-digital-exchange|ODX]] (cash equity scope is narrow at ODX, primarily security tokens), and broker preferencing where the SOR owner is also a Japannext shareholder or distribution counterparty.
 
 ## Venue identity
+
+The following table is scoped to public primary sources (japannext.co.jp, jsda.or.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:japannext.co.jp; jsda.or.jp; fsa.go.jp; jpx.co.jp]
 
 | Field | Public reading |
 |---|---|
@@ -34,6 +36,8 @@ Cap-table and entity-name changes occur; always check the venue's About / Regula
 
 Japannext operates two distinct sessions which broker SOR logic must treat as different liquidity pools:
 
+The following table is scoped to public primary sources (japannext.co.jp, jsda.or.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:japannext.co.jp; jsda.or.jp; fsa.go.jp; jpx.co.jp]
+
 | Session | Window (illustrative) | Use case |
 |---|---|---|
 | J-Market | Overlapping TSE day session | Lit alternative venue for price improvement, hidden liquidity capture, midpoint matching in supported segments. |
@@ -44,6 +48,8 @@ The evening session is one of Japannext's most distinctive product features beca
 ## Order types
 
 Japannext supports a richer order-type vocabulary than retail UIs typically expose. The publicly described family includes:
+
+The following table is scoped to public primary sources (japannext.co.jp, jsda.or.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:japannext.co.jp; jsda.or.jp; fsa.go.jp; jpx.co.jp]
 
 | Order type | Behaviour | Routing relevance |
 |---|---|---|
@@ -72,6 +78,8 @@ The FSA customer-best-interest principles (customer-oriented business conduct) e
 ## Fragmentation: TSE / OSE / Japannext / ODX
 
 Cash equity liquidity in Japan is far more concentrated on [[securities/tokyo-stock-exchange|TSE]] than US equity is on NYSE / Nasdaq. The fragmentation map looks like:
+
+The following table is scoped to public primary sources (japannext.co.jp, jsda.or.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:japannext.co.jp; jsda.or.jp; fsa.go.jp; jpx.co.jp]
 
 | Venue | Share of cash-equity flow | Notes |
 |---|---|---|
@@ -110,6 +118,8 @@ The FSA customer-oriented business conduct page sets a principles-based expectat
 
 Useful metrics for evaluating whether Japannext routing actually improves customer outcomes:
 
+The following table is scoped to public primary sources (japannext.co.jp, jsda.or.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:japannext.co.jp; jsda.or.jp; fsa.go.jp; jpx.co.jp]
+
 | Metric | Definition | Caveat |
 |---|---|---|
 | Price improvement vs TSE NBBO | Difference between executed price and TSE best bid / offer at order arrival | Tick-size discreteness limits the magnitude of improvement; needs sub-tick capable comparison. |
@@ -131,6 +141,8 @@ Japannext PTS cash equity trades clear through [[securities/japan-securities-cle
 - Cross-venue netting at the clearing member level is a meaningful operational benefit for SOR-active firms.
 
 ## Regulation and self-regulation
+
+The following table is scoped to public primary sources (japannext.co.jp, jsda.or.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:japannext.co.jp; jsda.or.jp; fsa.go.jp; jpx.co.jp]
 
 | Layer | Role |
 |---|---|

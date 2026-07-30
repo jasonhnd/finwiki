@@ -1,11 +1,11 @@
 ---
 source: payments/merchant-bank-pay-account-direct-acquiring
-source_hash: 27983ae81278b5c9
+source_hash: ab3abb0a2146ca1c
 lang: en
 status: machine
 fidelity: ok
 title: "Merchant bank-account direct acquiring in Japan"
-translated_at: 2026-06-01T03:31:12.293Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Merchant bank-account direct acquiring in Japan
@@ -17,6 +17,8 @@ Merchant bank-account direct acquiring is the merchant-side reading of [[payment
 Use this page with [[payments/INDEX|payments domain]], [[payments/card-acquiring-japan-stack|Japan card acquiring stack]], [[payments/psp-merchant-settlement-risk|PSP merchant settlement risk]], [[payments/funds-transfer-vs-prepaid-boundary|funds transfer vs prepaid boundary]], and [[financial-licenses/INDEX|JapanFG legal / financial licenses]].
 
 ## Merchant Route Map
+
+The following table is scoped to public primary sources (jeppo.jp, zengin-net.jp, cotra.ne.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jeppo.jp; zengin-net.jp; cotra.ne.jp; fsa.go.jp]
 
 | Route | Merchant-facing reading | Main control question |
 |---|---|---|
@@ -39,6 +41,8 @@ The Bank Pay guideline further defines connection providers and re-connection pr
 
 ## Control Matrix
 
+The following table is scoped to public primary sources (jeppo.jp, zengin-net.jp, cotra.ne.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jeppo.jp; zengin-net.jp; cotra.ne.jp; fsa.go.jp]
+
 | Control area | Public relevance |
 |---|---|
 | Merchant screening | Account-direct rails move money from bank accounts, so business type, prohibited goods, fraud risk, and financial soundness matter. |
@@ -51,6 +55,8 @@ The Bank Pay guideline further defines connection providers and re-connection pr
 | User explanation | Consumers may see QR payment but not understand whether the source is account-direct, wallet balance, card, or prepaid value. |
 
 ## Comparison With Card And Wallet Acquiring
+
+The following table is scoped to public primary sources (jeppo.jp, zengin-net.jp, cotra.ne.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jeppo.jp; zengin-net.jp; cotra.ne.jp; fsa.go.jp]
 
 | Topic | Account-direct / Bank Pay / J-Debit | Card acquiring / PSP | Wallet / code payment |
 |---|---|---|---|

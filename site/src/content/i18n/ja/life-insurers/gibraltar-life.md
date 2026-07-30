@@ -1,11 +1,11 @@
 ---
 source: life-insurers/gibraltar-life
-source_hash: fc91bfb044a882a3
+source_hash: a5e4fbf20358ba4e
 lang: ja
 status: machine
 fidelity: ok
 title: "ジブラルタ生命保険"
-translated_at: 2026-06-02T14:25:12.386Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # ジブラルタ生命保険
 
@@ -19,6 +19,8 @@ translated_at: 2026-06-02T14:25:12.386Z
 ジブラルタ生命保険株式会社は、金融庁の生命保険会社一覧に掲載される Prudential グループ系の日本の生命保険事業会社。[[life-insurers/prudential-japan]] の包括ページだけでは見えにくい、独立したブランド、チャネル、引受境界を持つ。
 
 ## 1. ライセンス / グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, gib-life.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; gib-life.co.jp]
 
 | 項目 | 注記 |
 |---|---|

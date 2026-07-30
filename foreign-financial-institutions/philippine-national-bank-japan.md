@@ -7,8 +7,8 @@ aliases:
   - "フィリピン・ナショナル・バンク"
 domain: foreign-financial-institutions
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-22
 confidence: likely
 tags: [JapanFG, foreign-bank, Philippines, remittance, deposits, housing-loan]
@@ -35,6 +35,8 @@ PNB Japan has unusually thick public disclosure for a foreign-bank branch. Its p
 The branch is worth standalone treatment because its business is not just corporate wholesale banking. Public materials describe remittances, Japan-based accounts, deposits, housing loans, corporate loans, and account-opening facilitation for Philippine-based accounts. It is a bridge between banking and remittance.
 
 ## Entity Boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, pnb.com.ph). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; pnb.com.ph]
 
 | Item | Reading |
 |---|---|

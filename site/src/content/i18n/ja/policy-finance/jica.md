@@ -1,12 +1,12 @@
 ---
 source: policy-finance/jica
-source_hash: 55b75a08e93282bf
+source_hash: cc78f46a9cf2cceb
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "JICA（国際協力機構）"
-translated_at: 2026-06-26T08:29:17.584Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # JICA（国際協力機構）
@@ -18,6 +18,8 @@ translated_at: 2026-06-26T08:29:17.584Z
 JICA（独立行政法人国際協力機構）は日本の主要な ODA 実施機関であり、MOFA 所管（外務大臣主管 + 借款条件における 財務省 / METI / MOFA 調整）で、2008-10 に現在の形に編成された。このとき旧 JBIC の ODA 部門（OECF 系譜の 円借款）が、それ以前の JICA（技術協力 / 無償資金協力機関）に統合された。同機関は現在、三つの法定プロダクトレーン — **ODA 借款（有償資金協力 / 円借款）**、**技術協力（技術協力）**、**無償資金協力（無償資金協力）** — に加え、より小規模な第四のレーンである **海外投融資（PSIF / 海外投融資）** を運営しており、これは ODA 適格民間セクタープロジェクトの狭いセグメントで [[financial-regulators/jbic|JBIC]] と競合する。資本構造は政府出資で、一般会計からの資本注入と借款ポートフォリオ向けの FILP（財政投融資）ファンディングを伴う独立行政法人（独立行政法人）である。借款条件は構造上譲許的であり — 長期テナー（通常 30 年以上）、据置期間、低クーポン（多くの場合 1% 未満）、JPY または USD 建て — JBIC の市場金利または OECD アレンジメント MPR の商業グレード海外貸付とは明確に区別される。DAC 報告境界が鍵となる分析的判別基準である：JICA の借款は OECD-DAC 基準の下で ODA としてカウントされ、JBIC の借款は一般にカウントされない。近年（2022-2025）の政策方向は **経済安全保障フレーミング** に回転しており — ASEAN / インド太平洋におけるフレンドショアリング・インフラ、サプライチェーン強靭化の無償、水素 / 脱炭素の技術協力、そして ODA と日本企業の海外投資の架け橋としての PSIF の選択的拡大 — これと並んで「オファー型 ODA」（日本主導の能動的プロジェクト形成）を成文化した 2023 ODA 大綱改定がある。
 
 ## 1. 機関構造
+
+以下の表は、エントリ出典インベントリの公開一次資料（jica.go.jp, mofa.go.jp）の範囲に限定して読む。^[source:jica.go.jp; mofa.go.jp]
 
 | 項目 | 詳細 |
 |---|---|
@@ -46,6 +48,8 @@ JICA / JBIC の境界は、日本の海外金融スタックで最も問われ�
 ## 2. 事業分野別マンデート
 
 ### 2.1 プロダクトレーン要約
+
+以下の表は、エントリ出典インベントリの公開一次資料（jica.go.jp, mofa.go.jp）の範囲に限定して読む。^[source:jica.go.jp; mofa.go.jp]
 
 | レーン | 法定根拠 | ファンディング源 | 典型的な譲許性 | カウンターパーティ | 国別適格性 |
 |---|---|---|---|---|---|
@@ -82,6 +86,8 @@ PSIF は当初プログラムでの損失後 1999 に中断され、その後よ
 
 ## 3. KPI 表（公開ソース数値、FY2023-2024 開示）
 
+以下の表は、エントリ出典インベントリの公開一次資料（jica.go.jp, mofa.go.jp）の範囲に限定して読む。^[source:jica.go.jp; mofa.go.jp]
+
 | KPI | 概算値 | ソース / 留保 |
 |---|---|---|
 | ODA 借款ポートフォリオ残高 | ~¥14-15 兆（JPY 14-15 兆円レンジ） | JICA 年次報告書 / 業務実績報告書 — 数値は FX および実行 / 返済のタイミングとともに変動 |
@@ -98,6 +104,8 @@ PSIF は当初プログラムでの損失後 1999 に中断され、その後よ
 コミットメント / 署名の数値は前年比のボラティリティが高い；借款ポートフォリオ残高の指標が JICA の貸付残高規模のより安定したベンチマークである。同機関は商業銀行スタイルの自己資本利益率を **報告しない** — 譲許性は、ほとんどの借款が MOFA / MoF / 国会承認の歳出によって設定される譲許的メニューに対してプライステイカーであることを意味し、財務諸表のナラティブは FX 評価替え、借入国リスクに対する貸倒引当金、FILP ファンディングコストのマッチングによって支配される。
 
 ## 4. 年次推移
+
+以下の表は、エントリ出典インベントリの公開一次資料（jica.go.jp, mofa.go.jp）の範囲に限定して読む。^[source:jica.go.jp; mofa.go.jp]
 
 | 年 | 事象 |
 |---|---|
@@ -120,6 +128,8 @@ PSIF は当初プログラムでの損失後 1999 に中断され、その後よ
 JICA はこのスナップショットにおいて、JBIC（[[policy-finance/jbic-overseas-investment-underwriting-process|JBIC OIL 引受]]）、NEXI（[[policy-finance/nexi-export-credit-insurance-products|NEXI insurance products]]）、JFC（[[policy-finance/jfc-sme-division-operating-model|JFC SME Division]]）、JOGMEC（[[policy-finance/jogmec-equity-and-offtake-mechanics|JOGMEC equity / offtake]]）とは異なり、FinWiki に単一の専用運営メカニクス兄弟ページを持たない。最も深い現在の比較アンカーは [[policy-finance/japan-policy-finance-institution-mandate-matrix|the mandate matrix]]（機関横断軸）、[[policy-finance/japan-project-finance-stack-diagram|the project finance stack diagram]]（ODA グレードと商業グレードの層が海外プロジェクトでどのように隣り合うか）、そして [[policy-finance/japan-eximbank-history|the eximbank history]]（2008 ODA の JICA への移管が中心的な機関的転換点である場所）である。
 
 ### JBIC（最も近いピア）との比較軸
+
+以下の表は、エントリ出典インベントリの公開一次資料（jica.go.jp, mofa.go.jp）の範囲に限定して読む。^[source:jica.go.jp; mofa.go.jp]
 
 | 軸 | JICA | [[financial-regulators/jbic\|JBIC]] |
 |---|---|---|

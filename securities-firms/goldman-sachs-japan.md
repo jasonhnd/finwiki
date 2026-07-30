@@ -3,8 +3,8 @@ title: ゴールドマン・サックス・ジャパン (Goldman Sachs Japan)
 aliases: ["Goldman Sachs Japan", "GS Japan", "ゴールドマン・サックス", "ゴールドマン・サックス証券", "Goldman Sachs Japan Co., Ltd.", "GSJCL"]
 domain: securities-firms
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, foreign-ib, securities]
@@ -84,6 +84,8 @@ The Goldman Sachs Group, Inc.（NYSE: GS、上場持株会社）
 - **東京本社**：六本木ヒルズ森タワー（六本木 6-10-1）^[extracted]
 
 ## 2. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (nikkei.com, ja.wikipedia.org, goldmansachs.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:nikkei.com; ja.wikipedia.org; goldmansachs.com]
 
 | セグメント | 主要業務 | 特徴 |
 |---|---|---|

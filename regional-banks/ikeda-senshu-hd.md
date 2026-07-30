@@ -3,8 +3,8 @@ title: 池田泉州ホールディングス
 aliases: ["Ikeda Senshu HD", "Ikeda Senshu Holdings", "池田泉州 HD", "池田泉州フィナンシャルホールディングス", "池田泉州銀行 HD"]
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, kansai]
@@ -39,6 +39,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 **本社**：大阪市北区茶屋町 18-14（池田泉州銀行本店併設）^[extracted]
 
 ### 2025-03 期決算（連結ベース）
+
+The following table is scoped to public primary sources (edinetdb.jp, sihd-bk.jp, senshuikeda-hd.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:edinetdb.jp; sihd-bk.jp; senshuikeda-hd.co.jp]
 
 | 項目 | 実績 |
 |---|---|
@@ -98,6 +100,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## 2. 事業セグメント・マップ
 
+The following table is scoped to public primary sources (edinetdb.jp, sihd-bk.jp, senshuikeda-hd.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:edinetdb.jp; sihd-bk.jp; senshuikeda-hd.co.jp]
+
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
 | 個人リテール | 池田泉州銀行 | 北摂・泉州 + 兵庫南東部 の住宅ローン・個人預金 |
@@ -114,6 +118,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 - **2024 中計**: 第 5 次中期経営計画 Plus（2024-05 公表）で **地域密着 + デジタルバンク（01 銀行）+ ポテンシャル B/S ソリューション** を主軸とし、2025 年度 HD 連結当期純利益 110 億円以上を目標
 
 ### 競合構図
+
+The following table is scoped to public primary sources (edinetdb.jp, sihd-bk.jp, senshuikeda-hd.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:edinetdb.jp; sihd-bk.jp; senshuikeda-hd.co.jp]
 
 | 競合 | 地盤 | 構図 |
 |---|---|---|

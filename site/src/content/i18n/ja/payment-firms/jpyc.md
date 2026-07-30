@@ -1,12 +1,12 @@
 ---
 source: payment-firms/jpyc
-source_hash: fe5481d67eb46d8e
+source_hash: ccb2b1515b530183
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "JPYC株式会社"
-translated_at: 2026-06-26T08:32:23.070Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # JPYC株式会社
 # JPYC株式会社
@@ -21,6 +21,8 @@ translated_at: 2026-06-26T08:32:23.070Z
 JPYC株式会社は、日本円建てステーブルコイン / 電子決済手段の資金移動業型発行体。JPYC EX は日本円と JPYC の発行・償還窓口で、同社は金融庁の資金移動業者登録一覧で関東財務局長第00099号として掲載されている。
 
 ## 1. 法人・ライセンス境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（jpyc.co.jp, jpyc.jp, fsa.go.jp）の範囲に限定して読む。^[source:jpyc.co.jp; jpyc.jp; fsa.go.jp]
 
 | 項目 | 読み方 |
 |---|---|

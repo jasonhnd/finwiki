@@ -1,12 +1,12 @@
 ---
 source: securities-firms/gmo-click-securities
-source_hash: 37f1112415648c88
+source_hash: e19b6ee9a823e286
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "GMOクリック証券"
-translated_at: 2026-06-26T08:32:07.543Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # GMOクリック証券
@@ -20,6 +20,8 @@ translated_at: 2026-06-26T08:32:07.543Z
 GMOクリック証券株式会社は、[[payment-firms/gmo-financial-hd|GMOフィナンシャルHD]] グループの online 証券仲介 / 店頭FX / CFD 中核会社。金融商品取引法上の **第一種金融商品取引業者** として金融庁の金融商品取引業者一覧に「GMOクリック証券株式会社」（関東財務局長(金商)第77号）で掲載される。FX / CFD を主力に株式・投信・NISA も扱う。
 
 ## 1. ライセンス / グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, click-sec.com, gmofh.com）の範囲に限定して読む。^[source:fsa.go.jp; click-sec.com; gmofh.com]
 
 | 項目 | 備考 |
 |---|---|

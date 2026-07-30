@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/state-street-japan
-source_hash: 4bcd251c06a1e701
+source_hash: dfd6dee60c5598a0
 lang: en
 status: machine
 fidelity: ok
 title: "State Street Japan"
-translated_at: 2026-06-18T23:59:13.124Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # State Street Japan
@@ -22,6 +22,8 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 **Ticker**: NYSE: STT
 
 ### Global financials (2025–2026 Q1  period)
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Item | Scale |
 |---|---|
@@ -54,6 +56,8 @@ State Street Corporation (US NYSE: STT; FRB / OCC supervision)
 
 ## 2. History (chronology excerpt)
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Year | Event |
 |---|---|
 | **1792** | **Establishment of The Union Bank (State Street's predecessor)** (one of the US's 2 -oldest banking lineages) ^[extracted] |
@@ -73,6 +77,8 @@ State Street Corporation (US NYSE: STT; FRB / OCC supervision)
 
 ## 3. Business-segment map
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Segment | In-Japan provider | Characteristics |
 |---|---|---|
 | **Global custody** | State Street Bank Tokyo Branch + trust bank | Custody, settlement, and corporate-action processing of US ADRs, overseas equities, overseas bonds, and alternative assets — the parent company's mainstay revenue pillar |
@@ -88,6 +94,8 @@ State Street Corporation (US NYSE: STT; FRB / OCC supervision)
 - **The meaning of [[megabanks/mufg]]'s shareholder composition 4.51% (2025-03-31)**: this is **a nominee aggregation via institutional investors' overseas custody accounts** (custodian-nominee accumulation), not a strategic holding by State Street itself ^[extracted]
 
 ### Main competitors
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Area | Main competitors |
 |---|---|

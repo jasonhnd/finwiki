@@ -1,11 +1,11 @@
 ---
 source: payments/suica-prepaid-jr-east
-source_hash: 4f9dc7bb8b1dba9b
+source_hash: 61b59fe35334fdac
 lang: en
 status: machine
 fidelity: ok
 title: "Suica: JR East transit and general-purpose IC prepaid"
-translated_at: 2026-06-01T03:31:12.251Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Suica: JR East transit and general-purpose IC prepaid
 
@@ -18,6 +18,8 @@ This entry sits under [[payments/INDEX|payments index]] as the JR East-anchored 
 **Suica** (Super Urban Intelligent Card) is the **flagship Japan transit-and-general-purpose IC prepaid e-money**, issued by **East Japan Railway Company (JR East / 東日本旅客鉄道株式会社)** since launch 2001-11-18. Suica is the **largest transit-prepaid issuer by cardholders and transaction count** in Japan, anchoring the [[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|10 IC mutual-use scheme]] alongside PASMO / ICOCA / Kitaca / TOICA / manaca / nimoca / SUGOCA / HAYAKAKEN / PiTaPa (the last being the post-pay exception). Suica is registered as a **第三者型前払式支払手段** under the [[payments/funds-transfer-vs-prepaid-boundary|Payment Services Act prepaid framework]] with cross-merchant acceptance at convenience stores, vending machines, taxis, retail chains, and any FeliCa-accepting POS. **Mobile Suica** launched 2006 (mobile phone integration), with Apple Pay support arriving 2016-10 — converting Suica from physical-card-only to smartphone-native and enabling overseas-issued iPhone integration that has anchored Japan's inbound-tourist cashless story.
 
 ## Issuer and operational structure
+
+The following table is scoped to public primary sources (jreast.co.jp, fsa.go.jp, felicanetworks.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jreast.co.jp; fsa.go.jp; felicanetworks.co.jp; meti.go.jp]
 
 | Dimension | Reading |
 |---|---|
@@ -41,6 +43,8 @@ Suica is registered as a **第三者型前払式支払手段** under [[payments/
 
 Suica is the anchor of the **10 IC mutual-use scheme** launched 2013-03-23, which lets a Suica cardholder tap onto any of the participating railway / bus networks nationwide and pay at any participating retail merchant. Full cross-scheme map is in [[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|transit-prepaid economics]]:
 
+The following table is scoped to public primary sources (jreast.co.jp, fsa.go.jp, felicanetworks.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jreast.co.jp; fsa.go.jp; felicanetworks.co.jp; meti.go.jp]
+
 | Card | Issuer | Region |
 |---|---|---|
 | **Suica** | JR East | Greater Tokyo / Northern Japan |
@@ -58,6 +62,8 @@ Inter-issuer settlement runs through **Cyberne** (中央センター — JR East
 
 ## Mobile Suica generations
 
+The following table is scoped to public primary sources (jreast.co.jp, fsa.go.jp, felicanetworks.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jreast.co.jp; fsa.go.jp; felicanetworks.co.jp; meti.go.jp]
+
 | Generation | Year | Key features |
 |---|---|---|
 | Physical Suica only | 2001-2006 | Card-based; charge at JR ticket-vending machines / commuter pass kiosks |
@@ -69,6 +75,8 @@ Inter-issuer settlement runs through **Cyberne** (中央センター — JR East
 Apple Pay Suica 2016 was structurally significant because it removed the SIM-region restriction that had constrained Mobile Suica to Japanese-carrier Osaifu Keitai devices, enabling overseas-issued iPhones to provision a Suica wallet and use it for transit and retail in Japan. This is one of the principal cashless inbound-tourist lanes and has reshaped overseas-visitor payment expectations.
 
 ## KPI snapshot
+
+The following table is scoped to public primary sources (jreast.co.jp, fsa.go.jp, felicanetworks.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jreast.co.jp; fsa.go.jp; felicanetworks.co.jp; meti.go.jp]
 
 | Metric | Reading (most recent public disclosure) |
 |---|---|

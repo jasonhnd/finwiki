@@ -3,8 +3,8 @@ title: 群馬銀行 (The Gunma Bank)
 aliases: ["群馬銀行", "Gunma Bank", "The Gunma Bank, Ltd.", "ぐんぎん", "群銀"]
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, no-holding]
@@ -72,6 +72,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## 2. 事業セグメント・マップ
 
+The following table is scoped to public primary sources (ja.wikipedia.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:ja.wikipedia.org]
+
 | セグメント | 特徴 |
 |---|---|
 | 県内法人 | 自動車関連（SUBARU 太田工場系・部品サプライヤー）・製造業集積 |
@@ -106,6 +108,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 - **人材交流・研修**
 
 ### 競合構造
+
+The following table is scoped to public primary sources (ja.wikipedia.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:ja.wikipedia.org]
 
 | 競合 | 特徴 |
 |---|---|

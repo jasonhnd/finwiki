@@ -1,11 +1,11 @@
 ---
 source: insurance/japan-insurance-system-overview
-source_hash: 6fe7a20ab6307049
+source_hash: a01bbfc3255df835
 lang: ja
 status: machine
 fidelity: ok
 title: "日本の保険システム概観"
-translated_at: 2026-06-15T03:48:21.936Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本の保険システム概観
@@ -24,6 +24,8 @@ translated_at: 2026-06-15T03:48:21.936Z
 
 ### 1. 生命保険 (生命保険)
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, sonpo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; sonpo.or.jp; iaisweb.org]
+
 | サブセグメント | 例 | アンカー |
 |---|---|---|
 | ビッグ4生保（相互 / 株式） | [[life-insurers/nippon-life|Nippon Life]] (相互), [[life-insurers/dai-ichi-life|Dai-ichi Life]] (株式), [[life-insurers/sumitomo-life|Sumitomo Life]] (相互), 明治安田生命 (相互) | [[insurance/japan-life-insurance-big-four]], [[insurance/japan-life-big-four-overlay-comparison-matrix]] |
@@ -37,6 +39,8 @@ translated_at: 2026-06-15T03:48:21.936Z
 
 ### 2. 損害保険 (損害保険)
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, sonpo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; sonpo.or.jp; iaisweb.org]
+
 | サブセグメント | 例 | アンカー |
 |---|---|---|
 | ビッグ3損保グループ | [[non-life-insurers/tokio-marine|Tokio Marine HD]] / 東京海上日動火災, [[non-life-insurers/msad|MS&AD]] / 三井住友海上 + あいおいニッセイ同和, [[non-life-insurers/sompo|SOMPO HD]] / SOMPO ジャパン | [[insurance/japan-nonlife-big-three]], [[insurance/japan-nonlife-big-three-reinsurance-cat-matrix]] |
@@ -49,6 +53,8 @@ translated_at: 2026-06-15T03:48:21.936Z
 
 ### 3. 共済 (Mutual aid / Kyosai) (共済)
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, sonpo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; sonpo.or.jp; iaisweb.org]
+
 | サブセグメント | 例 | アンカー |
 |---|---|---|
 | JA 共済（農業協同組合） | 全共連（全国連合会） | [[insurance/ja-kyosai-zenkyoren-overview]], [[non-life-insurers/ja-kyosairen]] |
@@ -59,6 +65,8 @@ translated_at: 2026-06-15T03:48:21.936Z
 共済は保険業法ではなく協同組合法の法令の下で運営され、別個の監督（典型的には JA 共済については MAFF、生協系共済については MHLW）を受ける。境界のオーバーレイについては [[insurance/japan-kyosai-vs-fsa-insurance-perimeter-matrix]] を参照。
 
 ### 4. 再保険 (再保険)
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, sonpo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; sonpo.or.jp; iaisweb.org]
 
 | サブセグメント | 例 | アンカー |
 |---|---|---|
@@ -74,6 +82,8 @@ translated_at: 2026-06-15T03:48:21.936Z
 
 地震保険の官民スキームは独自の構造的特徴である：
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, sonpo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; sonpo.or.jp; iaisweb.org]
+
 | レイヤー | 機能 |
 |---|---|
 | 家計地震保険 | 住宅用物件について火災保険とのバンドルが求められる。 |
@@ -84,6 +94,8 @@ translated_at: 2026-06-15T03:48:21.936Z
 詳細については [[insurance/earthquake-insurance-public-private-scheme]] と [[non-life-insurers/japan-earthquake-reinsurance]] を参照。
 
 ## 規制の枠組み
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, sonpo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; sonpo.or.jp; iaisweb.org]
 
 | レイヤー | 詳細 |
 |---|---|
@@ -99,6 +111,8 @@ translated_at: 2026-06-15T03:48:21.936Z
 
 ## 市場参加者
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, sonpo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; sonpo.or.jp; iaisweb.org]
+
 | カテゴリー | 例 |
 |---|---|
 | 生命保険者（FSA 免許） | ビッグ4、郵政、オンライン、グループ、外資系にまたがる約 40 社の免許を受けた生命保険者。 |
@@ -113,6 +127,8 @@ translated_at: 2026-06-15T03:48:21.936Z
 
 ## セグメント横断のリンケージ
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, sonpo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; sonpo.or.jp; iaisweb.org]
+
 | リンケージ | メカニズム |
 |---|---|
 | 生命保険者の金利デリバティブヘッジ | 大手生命保険者は円 IRS の最大級の固定受け（receive-fixed）利用者の一角である。[[derivatives/japan-interest-rate-derivatives-overview]], [[insurance/japan-life-insurance-alm-overview]] を参照。 |
@@ -123,6 +139,8 @@ translated_at: 2026-06-15T03:48:21.936Z
 | 保険 / グローバル FG | ビッグ3損保グループはグローバルな保険子会社を運営する（東京海上 HCC, MSI USA, Sompo Internazionale）。 |
 
 ## 公開データソース
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, sonpo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; sonpo.or.jp; iaisweb.org]
 
 | ソース | 示すもの |
 |---|---|

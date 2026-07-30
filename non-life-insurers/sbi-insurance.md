@@ -8,8 +8,8 @@ aliases:
   - "insurance/saa"
 domain: non-life-insurers
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, insurance, non-life-insurance, direct-insurance, sbi, operating-company]
@@ -32,6 +32,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 SBI損害保険株式会社は、[[non-life-insurers/sbi-insurance-group]] / [[megabanks/sbi-hd]] group の direct non-life insurance operating company。金融庁の損害保険会社免許一覧に載る licensed insurer で、SBI の banking / securities / insurance ecosystem に接続する auto, cancer, fire and other non-life products の underwriting boundary。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, sonpohogo.or.jp, sbisonpo.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sonpohogo.or.jp; sbisonpo.co.jp]
 
 | Item | Notes |
 |---|---|

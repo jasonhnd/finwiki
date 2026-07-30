@@ -1,12 +1,12 @@
 ---
 source: securities/japan-security-token-secondary-market-route
-source_hash: 6cf03985180be745
+source_hash: 7cef6e42b3acbb3e
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本のセキュリティトークン流通市場ルート"
-translated_at: 2026-06-26T08:28:46.069Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本のセキュリティトークン流通市場ルート
@@ -16,6 +16,8 @@ translated_at: 2026-06-26T08:28:46.069Z
 本ページは [[securities/INDEX|securities domain]] に属し、[[financial-licenses/securities-license-stack|Japan securities license stack]]、[[securities/japan-best-execution-sor-pts|best execution / SOR / PTS]]、[[securities/japan-pts-liquidity-data-guide|PTS liquidity data guide]]、[[securities/japan-market-infrastructure-map|market infrastructure map]]、[[securities/osaka-digital-exchange|Osaka Digital Exchange]]、[[payment-firms/progmat|Progmat]]、[[financial-regulators/jsda|JSDA]]、[[financial-regulators/japan-exchange-group|Japan Exchange Group]]、[[fintech/jp-stablecoin-progmat|Progmat stablecoin route]] にリンクする。
 
 ## ルートマップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, jsda.or.jp, odx.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; jsda.or.jp; odx.co.jp; progmat.co.jp]
 
 | Layer | Public category | Public record field |
 |---|---|---|
@@ -45,6 +47,8 @@ START 上の取引は、ODX が取引参加者として受け入れた証券会�
 
 Progmat の公開コンセプトページのソースパックは、以下の市場規模フィールドを記録した：
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, jsda.or.jp, odx.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; jsda.or.jp; odx.co.jp; progmat.co.jp]
+
 | Field | Value in source pack |
 |---|---|
 | Domestic cumulative security-token cases | 87 |
@@ -62,6 +66,8 @@ JPX は 2023年 3 月に BOOSTRY への出資およびセキュリティトー�
 
 ## 公開記録フィールド
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, jsda.or.jp, odx.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; jsda.or.jp; odx.co.jp; progmat.co.jp]
+
 | Field | Source route |
 |---|---|
 | 発行会社 / asset type | 商品ディスクロージャーおよび発行体資料。 |
@@ -76,6 +82,8 @@ JPX は 2023年 3 月に BOOSTRY への出資およびセキュリティトー�
 | Secondary-market status | Venue の通知、商品ページ、および発行体のお知らせ。 |
 
 ## 決済リサーチ・フィールド
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, jsda.or.jp, odx.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; jsda.or.jp; odx.co.jp; progmat.co.jp]
 
 | Field | Source route |
 |---|---|

@@ -3,8 +3,8 @@ title: 東海東京フィナンシャル・ホールディングス (Tokai Tokyo
 aliases: ["Tokai Tokyo FH", "Tokai Tokyo Financial Holdings", "東海東京 FH", "東海東京 FHD", "Tokai Tokyo"]
 domain: securities-firms
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, securities, independent]
@@ -104,6 +104,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 - **投信・PB**: 富裕層向け一任、相続・承継
 
 ## 4. 競合・定位
+
+The following table is scoped to public primary sources (Wikipedia: 東海東京フィナンシャル・ホールディングス (2026-05-19 抽出), Wikipedia: 東海東京証券 (2026-05-19 抽出), 東海東京 FHD 公式 IR・沿革・中期経営計画). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Wikipedia: 東海東京フィナンシャル・ホールディングス (2026-05-19 抽出); Wikipedia: 東海東京証券 (2026-05-19 抽出); 東海東京 FHD 公式 IR・沿革・中期経営計画]
 
 | 競合 | 関係 |
 |---|---|

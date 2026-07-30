@@ -3,8 +3,8 @@ title: チューリッヒ保険会社 (Zurich Japan)
 aliases: ["Zurich Japan", "Zurich Insurance Japan Branch", "チューリッヒ", "チューリッヒ保険"]
 domain: non-life-insurers
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, non-life-insurance, foreign-japan-subsidiary, direct-insurance]
@@ -50,6 +50,8 @@ Zurich Insurance Group AG（スイス、SIX: ZURN）
 ```
 
 ### 重要历史（年表）
+
+The following table is scoped to public primary sources (Wikipedia: チューリッヒ保険会社 (2026-05-19 参照), Wikipedia: チューリッヒ生命保険 (2026-05-19 参照), Wikipedia: Zurich Insurance Group (2026-05-19 参照)). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Wikipedia: チューリッヒ保険会社 (2026-05-19 参照); Wikipedia: チューリッヒ生命保険 (2026-05-19 参照); Wikipedia: Zurich Insurance Group (2026-05-19 参照)]
 
 | 年月 | 事象 |
 |---|---|

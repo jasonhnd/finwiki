@@ -1,11 +1,11 @@
 ---
 source: regional-banks/san-in-godo-bank
-source_hash: a0b560a629632ad5
+source_hash: 020601012bcf6387
 lang: ja
 status: machine
 fidelity: ok
 title: "山陰合同銀行"
-translated_at: 2026-06-02T15:14:17.126Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 山陰合同銀行
 
@@ -55,6 +55,8 @@ translated_at: 2026-06-02T15:14:17.126Z
 
 ## 2. 事業セグメント・マップ
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | セグメント | 内容 | 特徴 |
 |---|---|---|
 | 個人預金・住宅ローン | 山陰両県中心 | 高齢化地域で預金集中（マスリテール強）|
@@ -75,6 +77,8 @@ translated_at: 2026-06-02T15:14:17.126Z
 - **観光資源依存**: 出雲大社（年間 800 万人参拝）・鳥取砂丘・松江城・玉造温泉・皆生温泉・隠岐諸島観光が地域経済の柱
 
 ### 競合関係
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | 競合 | 地盤 | 関係 |
 |---|---|---|

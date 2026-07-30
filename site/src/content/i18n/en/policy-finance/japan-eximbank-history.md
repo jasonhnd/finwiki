@@ -1,11 +1,11 @@
 ---
 source: policy-finance/japan-eximbank-history
-source_hash: ec356bf045c87a22
+source_hash: c0c9b8d3b59c72f4
 lang: en
 status: machine
 fidelity: ok
 title: "Japan Export-Import Bank (historical predecessor of JBIC)"
-translated_at: 2026-06-01T03:31:12.284Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan Export-Import Bank (historical predecessor of JBIC)
@@ -17,6 +17,8 @@ The Japan Export-Import Bank (日本輸出入銀行 / JEXIM) was Japan's princip
 This page sits under [[policy-finance/INDEX|policy-finance index]] as the historical anchor for the contemporary JBIC / JICA / NEXI / DBJ public-finance map.
 
 ## 1. Institutional boundary
+
+The following table is scoped to public primary sources (jbic.go.jp, jica.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jbic.go.jp; jica.go.jp]
 
 | Item | Reading |
 |---|---|
@@ -40,6 +42,8 @@ The 1999 merger and the 2008 reorganization left the contemporary Japanese polic
 
 ## 3. Function map (historical)
 
+The following table is scoped to public primary sources (jbic.go.jp, jica.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jbic.go.jp; jica.go.jp]
+
 | Function | Description |
 |---|---|
 | Export buyer credit | Long-term lending to foreign buyers of Japanese capital goods (plant, ships, transport equipment). |
@@ -51,6 +55,8 @@ The 1999 merger and the 2008 reorganization left the contemporary Japanese polic
 These functions all continue under [[financial-regulators/jbic|JBIC]] today, framed within the contemporary [[policy-finance/oecd-export-credit-arrangement|OECD Arrangement]] discipline.
 
 ## 4. Historical trajectory
+
+The following table is scoped to public primary sources (jbic.go.jp, jica.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jbic.go.jp; jica.go.jp]
 
 | Year | Event |
 |---|---|

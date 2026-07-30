@@ -1,11 +1,11 @@
 ---
 source: regional-banks/oita-bank
-source_hash: 4a48158ab7418614
+source_hash: 12a27d7aa9d4c15e
 lang: en
 status: machine
 fidelity: ok
 title: "The Oita Bank"
-translated_at: 2026-06-15T04:09:41.147Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # The Oita Bank
@@ -19,6 +19,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 The Oita Bank, Ltd. (株式会社大分銀行, Daigin) is a regional bank (first regional bank) headquartered in Oita City, Oita Prefecture, holding a bank license under the Banking Act and listed on the FSA's bank license list. It is Oita Prefecture's first-regional-bank operating-company anchor and is treated as a Kyushu standalone regional bank. Its business is deposit-taking within the prefecture and lending to SMEs, individuals, and local public bodies.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, oitabank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; oitabank.co.jp]
 
 | Item | Notes |
 |---|---|

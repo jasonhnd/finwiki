@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/hs-insurance
-source_hash: 843270cd7ca89ab9
+source_hash: 6513585f266ea4a0
 lang: ja
 status: machine
 fidelity: ok
 title: "エイチ・エス損害保険"
-translated_at: 2026-06-02T14:25:12.422Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # エイチ・エス損害保険
 
@@ -20,6 +20,8 @@ translated_at: 2026-06-02T14:25:12.422Z
 このページはエイチ・エス損害保険株式会社を扱う。 公開資料が所有関係や販売関係を明示しない限り、旅行会社や小売プラットフォームのページへ統合してはならない。
 
 ## 事業役割マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, hs-sonpo.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; hs-sonpo.co.jp]
 
 | ルート | 読み方 |
 |---|---|

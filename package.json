@@ -11,6 +11,7 @@
     "facts:freshness": "bun tools/fact_freshness_audit.ts",
     "provenance:audit": "bun tools/provenance_completeness_audit.ts",
     "ai:audit": "bun tools/txt_route_audit.ts",
+    "opinions:audit": "bun tools/opinions_quarantine_audit.ts",
     "docs:audit": "bun tools/docs_link_audit.ts",
     "docs:stale": "bun tools/active_doc_stale_scan.ts",
     "dependency:audit": "cd site && bun audit --production",

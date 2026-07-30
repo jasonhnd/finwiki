@@ -3,8 +3,8 @@ title: "香川銀行"
 aliases: ["Kagawa Bank", "The Kagawa Bank", "株式会社香川銀行"]
 domain: regional-banks
 created: 2026-05-21
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-12-05
 confidence: likely
 tags: [JapanFG, banking, second-regional-bank, shikoku, kagawa, operating-company]
@@ -25,6 +25,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 株式会社香川銀行 (The Kagawa Bank) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される香川県高松市本店の第二地方銀行。[[regional-banks/tomony-hd|トモニホールディングス]] 傘下の Kagawa operating bank であり、香川県第一地銀の [[regional-banks/hyakujushi-bank|百十四銀行]] とは別法人の second-regional-bank peer として扱う。事業の中身は県内の預金受入と中小企業・個人向け貸出という第二地銀の標準モデル。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, kagawabank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; kagawabank.co.jp]
 
 | Item | Notes |
 |---|---|

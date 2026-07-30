@@ -1,11 +1,11 @@
 ---
 source: payment-firms/gmo-coin
-source_hash: 59eacf4d1b052e05
+source_hash: 577efeaa421d6728
 lang: en
 status: machine
 fidelity: ok
 title: "GMO コイン (GMO Coin)"
-translated_at: 2026-07-28T20:15:36Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # GMO コイン (GMO Coin)
@@ -46,6 +46,8 @@ GMO Internet Group（9449 / TSE PRIME）
 
 ## 2. Business segment map
 
+The following table is scoped to public primary sources (coin.z.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:coin.z.com; fsa.go.jp]
+
 | Segment | Content | Characteristics |
 |---|---|---|
 | Sales outlet | Principal trading of customer vs GMO Coin | Spread-based; for beginners |
@@ -60,6 +62,8 @@ GMO Internet Group（9449 / TSE PRIME）
 **Overseas expansion**: Limited. While the GMO financial group as a whole has overseas FX bases (Thailand, Hong Kong, UK), GMO Coin itself is **based on domestic licensing**.
 
 ## 3. History
+
+The following table is scoped to public primary sources (coin.z.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:coin.z.com; fsa.go.jp]
 
 | Year/Month | Event |
 |---|---|
@@ -84,6 +88,8 @@ GMO Internet Group（9449 / TSE PRIME）
 - **GMO Internet itself** (infrastructure / cybersecurity) → an exchange security foundation
 
 ### Competitive positioning
+
+The following table is scoped to public primary sources (coin.z.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:coin.z.com; fsa.go.jp]
 
 | Competitor | Parent company | Strength |
 |---|---|---|

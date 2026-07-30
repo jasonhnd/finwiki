@@ -1,12 +1,12 @@
 ---
 source: payments/quo-card-prepaid
-source_hash: 489b969add1ca93b
+source_hash: bff1d7697b98168e
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "QUOカード: ギフトカードおよび紙 / デジタルプリペイド・フランチャイズ"
-translated_at: 2026-06-26T08:38:42.157Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # QUOカード: ギフトカードおよび紙 / デジタルプリペイド・フランチャイズ
@@ -20,6 +20,8 @@ translated_at: 2026-06-26T08:38:42.157Z
 **QUO Card (クオカード)** は、**株式会社クオカード (QUO Card Co Ltd)** が発行する、日本を代表する紙・デジタル型ギフトカード・フランチャイズである。もともと日本電信電話 (NTT) グループのプリペイドカード系譜の一部として 1987 に開始され、現在は金融庁登録の前払式支払手段発行者として独立運営されている第三者型プリペイド・フランチャイズである。QUO Card は、広い加盟店受入、額面の柔軟性 (¥500 / ¥1,000 / ¥2,000 / ¥3,000 / ¥5,000 / ¥10,000)、法人利用者向けにカスタムデザインを印刷できること (オリジナルQUOカード) から、日本では **企業ギフト、株主優待、販促景品、調査回答者への謝礼** として広く使われる。2019 に開始されたデジタル拡張版 **QUO Card Pay (クオカードPay)** は、メールやメッセージアプリで送れる URL / バーコード型デジタルギフトとして、紙カードからデジタルギフト流通へフランチャイズを広げた。受入先は、コンビニエンスストア (Lawson、FamilyMart、MiniStop、Daily Yamazaki、Seicomart、NewDays。ただし **7-Eleven は不可**)、ドラッグストア、ガソリンスタンド、飲食店、書店、その他小売にまたがる。
 
 ## 発行者と運営構造
+
+以下の表は、エントリ出典インベントリの公開一次資料（quocard.com, quocard.co.jp, fsa.go.jp）の範囲に限定して読む。^[source:quocard.com; quocard.co.jp; fsa.go.jp; meti.go.jp]
 
 | 軸 | 読み方 |
 |---|---|
@@ -47,6 +49,8 @@ QUO Card は、[[payments/funds-transfer-vs-prepaid-boundary|資金決済法]] �
 
 QUO Card の経済的役割は、小売消費者ウォレットというより、主に **法人 / B2B ギフト流通** である。主な利用カテゴリは次のとおり。
 
+以下の表は、エントリ出典インベントリの公開一次資料（quocard.com, quocard.co.jp, fsa.go.jp）の範囲に限定して読む。^[source:quocard.com; quocard.co.jp; fsa.go.jp; meti.go.jp]
+
 | 利用場面 | 説明 |
 |---|---|
 | **株主優待** | 上場会社の株主優待プログラムでは、優待品として QUO Card が頻繁に配布される。額面の柔軟性と広い受入網が株主優待配布に合う。 |
@@ -59,6 +63,8 @@ QUO Card の経済的役割は、小売消費者ウォレットというより�
 受入網は **7-Eleven** を除外している。Seven & i Group が自社の [[payments/nanaco-prepaid-seven-i|nanaco]] プリペイド・フランチャイズを持ち、歴史的に自店舗で QUO Card を受け入れていないためである。これは、汎用ギフトカードに対する QUO Card の主要な使い勝手上の制約の一つである。
 
 ## 受入フットプリント
+
+以下の表は、エントリ出典インベントリの公開一次資料（quocard.com, quocard.co.jp, fsa.go.jp）の範囲に限定して読む。^[source:quocard.com; quocard.co.jp; fsa.go.jp; meti.go.jp]
 
 | 階層 | 受入先 |
 |---|---|
@@ -81,6 +87,8 @@ QUO Card の経済的役割は、小売消費者ウォレットというより�
 - PayPay / au PAY / d払い のような [[payments/japan-code-payment-competitive-map|ウォレット-style コード決済]] とは異なり、QUO Card Pay はチャージ / トップアップ機能を持たない **単回利用型ギフト** である。
 
 ## KPI スナップショット
+
+以下の表は、エントリ出典インベントリの公開一次資料（quocard.com, quocard.co.jp, fsa.go.jp）の範囲に限定して読む。^[source:quocard.com; quocard.co.jp; fsa.go.jp; meti.go.jp]
 
 | 指標 | 読み方 (公開情報) |
 |---|---|

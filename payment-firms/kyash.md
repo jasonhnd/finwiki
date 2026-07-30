@@ -3,8 +3,8 @@ title: "Kyash"
 aliases: ["Kyash", "株式会社Kyash", "Kyash Money"]
 domain: payment-firms
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, payments, wallet, prepaid-card, funds-transfer, fintech]
@@ -27,6 +27,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 Kyashは wallet, prepaid Visa, funds transfer を組み合わせる independent fintech operator。公式会社概要は資金移動業者登録、前払式支払手段発行者登録、PCI DSS などを明示しており、Japan wallet ecosystem の non-bank benchmark になる。
 
 ## 1. 法人・ライセンス境界
+
+The following table is scoped to public primary sources (kyash.co, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:kyash.co; fsa.go.jp]
 
 | Item | Reading |
 |---|---|

@@ -12,8 +12,8 @@ aliases:
 domain: non-profit
 slug: japan-josei-zaidan-grant-making
 created: 2026-06-05
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2027-06-05
 confidence: likely
 tags: [non-profit, japan, foundation, grant-making, research-funding, public-interest]
@@ -47,6 +47,8 @@ The grant-making foundation's defining activity is **selecting and funding other
 ## What makes grant-making a 公益目的事業
 
 For a foundation's grant programme to count as a tax-favoured **公益目的事業** under the 公益認定法, the selection must look like *public-interest distribution*, not *private patronage*. Reviewers look for:
+
+The following table is scoped to public primary sources (koeki-info.go.jp, jfc.or.jp, laws.e-gov.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:koeki-info.go.jp; jfc.or.jp; laws.e-gov.go.jp; nta.go.jp]
 
 | Element | Why it matters |
 |---|---|

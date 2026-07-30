@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/ubaf-japan
-source_hash: 416c526f2d3d488f
+source_hash: ac574da0dc8f3f33
 lang: en
 status: machine
 fidelity: ok
 title: "Union de Banques Arabes et Françaises Japan (UBAF Japan)"
-translated_at: 2026-06-18T23:59:13.046Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Union de Banques Arabes et Françaises Japan (UBAF Japan)
@@ -24,6 +24,8 @@ The page is worth standalone treatment because UBAF is not just another French b
 
 ## Entity Boundary
 
+The following table is scoped to public primary sources (fsa.go.jp, ubaf.fr). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; ubaf.fr]
+
 | Item | Reading |
 |---|---|
 | Parent institution | Union de Banques Arabes et Françaises |
@@ -34,6 +36,8 @@ The page is worth standalone treatment because UBAF is not just another French b
 | Regulatory route | FSA foreign-bank branch list |
 
 ## Business Role Map
+
+The following table is scoped to public primary sources (fsa.go.jp, ubaf.fr). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; ubaf.fr]
 
 | Function | Japan relevance |
 |---|---|

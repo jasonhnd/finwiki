@@ -3,8 +3,8 @@ title: "第一アイペット損害保険"
 aliases: ["第一アイペット損保", "Daiichi ipet Insurance", "Daiichi ipet", "第一アイペット損害保険株式会社", "アイペット損害保険"]
 domain: non-life-insurers
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-22
 confidence: likely
 tags: [JapanFG, insurance, non-life-insurance, pet-insurance, dai-ichi-life, operating-company]
@@ -30,6 +30,8 @@ Use this page for the pet-insurance operating-company boundary. Use [[life-insur
 The page also resolves a boundary issue: do not create a separate `ipet-holdings` route unless a future public-source need emerges. The operating insurer is the useful wiki node; the FSA non-life license row and official company profile both point to the operating company.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, ipet-ins.com, daiichilife-group.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; ipet-ins.com; daiichilife-group.com]
 
 | Item | Notes |
 |---|---|

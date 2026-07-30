@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/rakuten-general-insurance
-source_hash: 8a1c26c5ddc73181
+source_hash: e564cd9b589e9121
 lang: en
 status: machine
 fidelity: ok
 title: "Rakuten General Insurance"
-translated_at: 2026-06-01T00:41:50.444Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Rakuten General Insurance
 
@@ -19,6 +19,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 Rakuten General Insurance Co., Ltd. is the non-life insurance operating company in [[payment-firms/rakuten-fg]] / the Rakuten insurance ecosystem. It is a licensed insurer listed in the FSA non-life insurance company license list and in the Non-Life Insurance Policyholders Protection Corporation member list, and can connect with the Rakuten Card, Rakuten Bank, Rakuten Life, and Rakuten Points economic surface.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, sonpohogo.or.jp, rakuten-sonpo.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sonpohogo.or.jp; rakuten-sonpo.co.jp]
 
 | Item | Notes |
 |---|---|

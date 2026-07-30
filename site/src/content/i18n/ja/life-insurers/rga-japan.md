@@ -1,11 +1,11 @@
 ---
 source: life-insurers/rga-japan
-source_hash: 43de985f16d42cc8
+source_hash: 8f2a2718e47aae96
 lang: ja
 status: machine
 fidelity: ok
 title: "RGA リインシュアランス・カンパニー日本支店"
-translated_at: 2026-06-02T15:14:17.109Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # RGA リインシュアランス・カンパニー日本支店
@@ -19,6 +19,8 @@ translated_at: 2026-06-02T15:14:17.109Z
 RGA Reinsurance Company（米 Reinsurance Group of America, Inc. の子会社、NYSE: RGA）の日本支店。**生保再保険（生命・医療再保険）に特化した世界最大級の専門再保険会社**の日本支店で、金融庁の生命保険会社免許一覧（外国生保等）に掲載される。日本の生保会社の死亡・医療・長寿・就業不能リスクをグローバル資本で引き受ける。
 
 ## 1. ライセンス・グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（rgare.com, fsa.go.jp）の範囲に限定して読む。^[source:rgare.com; fsa.go.jp]
 
 | 項目 | メモ |
 |---|---|

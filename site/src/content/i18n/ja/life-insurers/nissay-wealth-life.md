@@ -1,11 +1,11 @@
 ---
 source: life-insurers/nissay-wealth-life
-source_hash: bce8c31f686df260
+source_hash: b4058b4629f52cbc
 lang: ja
 status: machine
 fidelity: ok
 title: "ニッセイ・ウェルス生命保険"
-translated_at: 2026-06-19T06:09:18.087Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # ニッセイ・ウェルス生命保険
@@ -19,6 +19,8 @@ translated_at: 2026-06-19T06:09:18.087Z
 ニッセイ・ウェルス生命保険株式会社は、金融庁の生保会社リストおよび生命保険協会会員一覧に掲載される [[life-insurers/nippon-life]] グループの生命保険事業会社である。ウェルス / 金融機関チャネル商品を見るため、日本生命の親会社ページから分けて扱う。
 
 ## 1. ライセンス / グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, nw-life.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; nw-life.co.jp]
 
 | 項目 | 備考 |
 |---|---|

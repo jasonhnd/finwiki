@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/msad
-source_hash: 6ae7131c5d9f9782
+source_hash: 4a468ef84f35a80a
 lang: ja
 status: machine
 fidelity: ok
 title: "MS&ADインシュアランス グループ ホールディングス"
-translated_at: 2026-06-02T14:54:39.095Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # MS&ADインシュアランス グループ ホールディングス
 # MS&AD インシュアランス グループ ホールディングス
@@ -58,6 +58,8 @@ MS&AD HD（持株会社・上場 8725）
 
 ### 重要年表
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | 年月 | 事象 |
 |---|---|
 | 1893 | 住友海上火災保険 創業 |
@@ -75,6 +77,8 @@ MS&AD HD（持株会社・上場 8725）
 
 ## 1.5 財務 KPI（FY2024 = 2025-03 期）
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | 項目 | FY2024 (2025-03) | YoY |
 |---|---|---|
 | 経常収益 | **6.66 兆円** | — |
@@ -87,6 +91,8 @@ MS&AD HD（持株会社・上場 8725）
 **FY2025 通期予想**: 純利益 **8,340 億円**（▲10.2% YoY）。**債券含み損圧迫**（金利上昇局面）+ 自然災害想定 + 政策保有株縮減ペース等が下押し要因。
 
 ## 2. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -130,6 +136,8 @@ MS&AD は国内損保で **3 ブランド維持**（三井住友海上 / あい�
 ### 競合構図
 
 国内 3 大損保:
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | グループ | 持株会社 | 損保コア | 特徴 |
 |---|---|---|---|

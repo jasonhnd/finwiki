@@ -3,8 +3,8 @@ title: 極東証券 (Kyokuto Securities)
 aliases: ["Kyokuto Securities", "Kyokuto Securities Co., Ltd.", "極東証券", "極東証券株式会社", "8706"]
 domain: securities-firms
 created: 2026-05-24
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, securities, independent, mid-tier]
@@ -26,6 +26,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 極東証券は **1949 年創業の中堅独立証券** (東証 STANDARD **8706**)。FSA 金融商品取引業者一覧では「極東証券株式会社」、関東財務局長(金商)第65号として掲載される。**外国債券 (外債) 仲介に強み** を持つ独立系中堅で、東京を本拠に対面リテール + 外債販売の伝統的モデルを維持。**日本証券業協会 ([[financial-regulators/jsda|JSDA]]) 正会員**。同枠の独立中堅証券 ([[securities-firms/marusan-securities|丸三証券]] / [[securities-firms/aizawa-sg|アイザワ証券]] / [[securities-firms/tachibana-securities|立花証券]]) と並ぶが、**外債特化** のニッチで差別化されるのが特徴。
 
 ## 1. 法人・ライセンス境界
+
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, kyokuto-sec.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; kyokuto-sec.co.jp]
 
 | Item | Reading |
 |---|---|
@@ -61,6 +63,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 | 2022-04 | 東証市場区分見直し → 東証 STANDARD (8706) ^[extracted] |
 
 ## 3. 事業セグメント map
+
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, kyokuto-sec.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; kyokuto-sec.co.jp]
 
 | セグメント | 内容 | 特徴 |
 |---|---|---|

@@ -8,8 +8,8 @@ aliases:
   - "外国損害保険会社等 list"
 domain: non-life-insurers
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [JapanFG, insurance, non-life, P&C, registry, fsa, foreign-affiliated, public-source]
@@ -35,6 +35,8 @@ Standalone insurer pages stay in [[non-life-insurers/INDEX|non-life-insurers IND
 This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]] as the non-life counterpart to [[trust-banks/trust-companies-japan-index|trust companies registry index]] and [[foreign-financial-institutions/foreign-bank-branches-japan-index|foreign bank branches registry index]]. Read it against [[insurance/japan-nonlife-big-three|Japan non-life big three]] for the holding-company comparison layer, [[insurance/natcat-reinsurance-japan|nat-cat reinsurance in Japan]] for the risk-cession layer, and [[insurance/INDEX|insurance index]] for the broader operating-model map. Capital adequacy translation goes through [[insurance/economic-value-based-solvency|economic value-based solvency]] and [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison matrix]]. Foreign-reinsurer-only entries are grouped on [[insurance/foreign-reinsurer-japan-landscape|foreign reinsurer Japan landscape]] and [[insurance/lloyds-japan-syndicate-operating-model|Lloyd's Japan syndicate operating model]] sister pages.
 
 ## Boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, sonpo.or.jp, sonpohogo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sonpo.or.jp; sonpohogo.or.jp]
 
 | Boundary | Treatment |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: securities/tokyo-stock-exchange
-source_hash: 59838f179deac4e1
+source_hash: 1e670dcd80640ca4
 lang: ja
 status: machine
 fidelity: ok
 title: "東京証券取引所（TSE）"
-translated_at: 2026-06-03T00:53:08.270Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 東京証券取引所（TSE）
 
@@ -22,6 +22,8 @@ FinWiki では、TSE は上場、公開会社開示、市場区分、TDnet と�
 
 ## システムマップ
 
+以下の表は、エントリ出典インベントリの公開一次資料（jpx.co.jp）の範囲に限定して読む。^[source:jpx.co.jp]
+
 | レイヤー | TSE の読み方 |
 |---|---|
 | 親会社 | [[financial-regulators/japan-exchange-group|Japan Exchange Group]] |
@@ -31,6 +33,8 @@ FinWiki では、TSE は上場、公開会社開示、市場区分、TDnet と�
 | 隣接する主体 | 日本取引所自主規制法人、[[securities/japan-securities-clearing-corp|JSCC]]、[[securities/japan-securities-depository-center|JASDEC]]。 |
 
 ## 市場機能
+
+以下の表は、エントリ出典インベントリの公開一次資料（jpx.co.jp）の範囲に限定して読む。^[source:jpx.co.jp]
 
 | 機能 | 重要性 |
 |---|---|

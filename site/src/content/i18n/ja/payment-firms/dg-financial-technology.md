@@ -1,11 +1,11 @@
 ---
 source: payment-firms/dg-financial-technology
-source_hash: 9f867b67070ef7ed
+source_hash: 4fc5fd09cd387dbe
 lang: ja
 status: machine
 fidelity: ok
 title: "DGフィナンシャルテクノロジー (DGFT)"
-translated_at: 2026-06-02T14:25:12.391Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # DGフィナンシャルテクノロジー (DGFT)
@@ -20,6 +20,8 @@ translated_at: 2026-06-02T14:25:12.391Z
 DGフィナンシャルテクノロジーは Digital Garage グループの決済・フィンテック基盤運営会社である。旧ベリトランスの決済代行文脈を引き継ぎ、オンライン・店頭向け決済ゲートウェイと加盟店技術の境界を読むページである。
 
 ## 1. 法人・ライセンス境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（dgft.jp, company.dgft.jp, meti.go.jp）の範囲に限定して読む。^[source:dgft.jp; company.dgft.jp; meti.go.jp]
 
 | 項目 | 読み方 |
 |---|---|

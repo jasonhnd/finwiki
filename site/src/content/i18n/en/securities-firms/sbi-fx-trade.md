@@ -1,11 +1,11 @@
 ---
 source: securities-firms/sbi-fx-trade
-source_hash: 9ac79f075a732ab8
+source_hash: 5d40d9f693c4ece8
 lang: en
 status: machine
 fidelity: ok
 title: "SBI FXトレード"
-translated_at: 2026-06-15T04:09:41.207Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # SBI FXトレード
@@ -19,6 +19,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]] (its dom
 SBI FXトレード株式会社 is the FX-specialist FIEA operator of [[megabanks/sbi-hd|SBI group]]. As a **Type I Financial Instruments Business Operator** under the Financial Instruments and Exchange Act, it is listed in the FSA's list of financial instruments business operators as "SBI FXトレード株式会社" (Director-General of the Kanto Local Finance Bureau (Kinsho) 第2635号). According to its public company profile, it is a 100% subsidiary of SBI Liquidity Market Co., Ltd., and as a separate legal entity from [[securities-firms/sbi-securities|SBI証券]] it handles OTC FX / accumulation FX / option FX / crypto CFD adjacency.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, corp.sbifxt.co.jp, sbigroup.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; corp.sbifxt.co.jp; sbigroup.co.jp]
 
 | Item | Notes |
 |---|---|

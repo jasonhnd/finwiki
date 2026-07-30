@@ -1,11 +1,11 @@
 ---
 source: regional-banks/shizuoka-chuo-bank
-source_hash: 4bc95d82bf2825dd
+source_hash: 6a02644a8587d7be
 lang: ja
 status: machine
 fidelity: ok
 title: "静岡中央銀行"
-translated_at: 2026-06-15T04:09:41.197Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 静岡中央銀行
@@ -19,6 +19,8 @@ translated_at: 2026-06-15T04:09:41.197Z
 株式会社静岡中央銀行 (Shizuoka Chuo Bank) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される静岡県沼津市本店の第二地方銀行。前身は 1926 年設立の伊豆無尽で、1989 年 8 月に普通銀行へ転換した第二地銀営業会社。事業は沼津を中心とした預金受入・中小企業/個人向け貸出という第二地銀の標準モデルで、店舗網は静岡県内・神奈川県内・東京都内に及ぶ。
 
 ## 1. 免許／グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, shizuokachuo-bank.co.jp, ja.wikipedia.org）の範囲に限定して読む。^[source:fsa.go.jp; shizuokachuo-bank.co.jp; ja.wikipedia.org]
 
 | 項目 | 注記 |
 |---|---|

@@ -6,8 +6,8 @@ aliases:
   - "電子決済等代行業 fraud control"
 domain: "payments"
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-22
 confidence: likely
 tags: [payments, bank-api, fraud-control, incident-response, electronic-payment-agency, AML]
@@ -37,6 +37,8 @@ Use this page with [[payments/japan-bank-api-payment-agency-route|Japan bank API
 
 ## Incident Surface
 
+The following table is scoped to public primary sources (fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp]
+
 | Incident type | First question | Route to check |
 |---|---|---|
 | Account-information leak | Was the service read-only account aggregation or payment-instruction capable? | Electronic payment agency registration, bank API contract, consent log. |
@@ -47,6 +49,8 @@ Use this page with [[payments/japan-bank-api-payment-agency-route|Japan bank API
 | Refund / reversal break | Did a payment instruction settle but merchant or accounting state fail? | A2A payment route, PSP reconciliation, merchant contract. |
 
 ## Control Stack
+
+The following table is scoped to public primary sources (fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp]
 
 | Layer | Control |
 |---|---|

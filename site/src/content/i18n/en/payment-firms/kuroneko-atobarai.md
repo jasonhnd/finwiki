@@ -1,11 +1,11 @@
 ---
 source: payment-firms/kuroneko-atobarai
-source_hash: 70bef8f675796498
+source_hash: 142b2850c305755b
 lang: en
 status: machine
 fidelity: ok
 title: "Kuroneko Atobarai Payment Service"
-translated_at: 2026-05-31T23:59:49.398Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Kuroneko Atobarai Payment Service
 
@@ -18,6 +18,8 @@ This entry sits under the [[payment-firms/INDEX|payment-firms INDEX]] as a **log
 Kuroneko Atobarai Payment Service is an e-commerce deferred-payment service provided by Yamato Credit Finance Co., Ltd., a Yamato HD group company. Because product delivery and invoice enclosure are operated together on the Kuroneko Yamato TA-Q-BIN network, it is treated as a representative logistics-linked BNPL example alongside Net Protections' NP Atobarai. It is an essential comparator for showing the BNPL category of "credit embedded in a logistics network."
 
 ## 1. Legal entity / license boundary
+
+The following table is scoped to public primary sources (kuronekoyamato.co.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:kuronekoyamato.co.jp; meti.go.jp]
 
 | Item | Reading |
 |---|---|

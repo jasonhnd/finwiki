@@ -7,8 +7,8 @@ aliases:
   - "Japan cashless payments"
 domain: "payments"
 created: 2026-05-19
-last_updated: 2026-05-20
-last_tended: 2026-05-20
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [payments, cashless, credit-card, code-payment, prepaid, funds-transfer, regulation]
@@ -42,6 +42,8 @@ The useful FinWiki lens is not "cashless vs cash." It is **which legal balance l
 
 ## Market Structure
 
+The following table is scoped to public primary sources (meti.go.jp, paymentsjapan.or.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; paymentsjapan.or.jp; fsa.go.jp]
+
 | Layer | What it does | Main examples | FinWiki route |
 |---|---|---|---|
 | Credit card | Largest cashless value pool; issuer/acquirer economics; revolving and installment adjacency | [[card-issuers/jcb|JCB]], SMBC Card, MUFG NICOS, Rakuten Card, PayPay Card, AEON Card | [[financial-licenses/INDEX|legal / financial licenses]] |
@@ -55,6 +57,8 @@ The useful FinWiki lens is not "cashless vs cash." It is **which legal balance l
 ## 2025 Baseline
 
 METI's 2025 calculation changed the discussion because Japan moved from "catch-up to 40%" into a higher adoption regime:
+
+The following table is scoped to public primary sources (meti.go.jp, paymentsjapan.or.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; paymentsjapan.or.jp; fsa.go.jp]
 
 | Metric | Latest public anchor | Why it matters |
 |---|---:|---|
@@ -78,6 +82,8 @@ METI's 2025 calculation changed the discussion because Japan moved from "catch-u
 ## Legal Stack
 
 Cashless products should be decomposed by legal function, not by app brand:
+
+The following table is scoped to public primary sources (meti.go.jp, paymentsjapan.or.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; paymentsjapan.or.jp; fsa.go.jp]
 
 | Function | First legal question | Typical route |
 |---|---|---|

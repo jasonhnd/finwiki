@@ -3,8 +3,8 @@ title: 松井証券株式会社 (Matsui Securities)
 aliases: ["Matsui Securities", "松井証券", "Matsui Securities Co., Ltd.", "8628", "松井証券株式会社"]
 domain: securities-firms
 created: 2026-05-19
-last_updated: 2026-06-24
-last_tended: 2026-06-24
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-12-24
 confidence: likely
 tags: [JapanFG, securities, online-broker]
@@ -31,6 +31,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ## 1. 会社概要
 
+The following table is scoped to public primary sources (matsui.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:matsui.co.jp; fsa.go.jp]
+
 | Item | Reading |
 |---|---|
 | 正式名 | 松井証券株式会社 |
@@ -42,6 +44,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 | 業態 | 独立系オンライン証券。Integrated Report は corporate affiliation について、Matsui Securities は independent で他社に affiliated していないと記載する。^[source:matsui-ir-2025] |
 
 ### License / registration boundary
+
+The following table is scoped to public primary sources (matsui.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:matsui.co.jp; fsa.go.jp]
 
 | Layer | Verified reading |
 |---|---|

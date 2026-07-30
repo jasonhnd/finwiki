@@ -1,12 +1,12 @@
 ---
 source: payments/account-to-account-payment-japan
-source_hash: 3f3af38bae18064d
+source_hash: 99ee70a99f8d05a6
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の口座間（account-to-account）決済ルート"
-translated_at: 2026-06-26T08:32:23.051Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本の口座間（account-to-account）決済ルート
@@ -16,6 +16,8 @@ translated_at: 2026-06-26T08:32:23.051Z
 このページは [[payments/INDEX|payments domain]], [[payments/funds-transfer-vs-prepaid-boundary|資金移動 vs 前払式 boundary]], [[payments/funds-transfer-service-providers-japan-index|資金移動 registry]], [[payments/japan-code-payment-competitive-map|コード決済 competitive map]], [[banking/quick-deposit-four-methods|quick deposit methods]], [[financial-licenses/INDEX|JapanFG legal / financial licenses]] と併せて使うこと。
 
 ## レールマップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（zengin-net.jp, cotra.ne.jp, jeppo.jp）の範囲に限定して読む。^[source:zengin-net.jp; cotra.ne.jp; jeppo.jp; fsa.go.jp]
 
 | レール | オペレーター / ソースルート | 顧客から見た姿 | FinWiki の読み方 |
 |---|---|---|---|
@@ -48,6 +50,8 @@ JEPPO は、口座直接決済インフラを通じて J-Debit と Bank Pay の�
 
 ## 商品の境界
 
+以下の表は、エントリ出典インベントリの公開一次資料（zengin-net.jp, cotra.ne.jp, jeppo.jp）の範囲に限定して読む。^[source:zengin-net.jp; cotra.ne.jp; jeppo.jp; fsa.go.jp]
+
 | 商品パターン | 主要な問い | 典型的なルート |
 |---|---|---|
 | ことらによる個人間送金 | 送り手は銀行顧客か、ウォレット顧客か、資金移動顧客か？ | ことら / 全銀連携＋銀行または資金移動業者の開示。 |
@@ -64,6 +68,8 @@ JEPPO は、口座直接決済インフラを通じて J-Debit と Bank Pay の�
 - [[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]], [[regional-banks/fukuoka-fg|Fukuoka FG]]、および地方銀行のアプリルートは、ことらと Bank Pay が銀行アプリを日常的な決済サーフェスに変えられるため重要である。
 
 ## リスクと注意点
+
+以下の表は、エントリ出典インベントリの公開一次資料（zengin-net.jp, cotra.ne.jp, jeppo.jp）の範囲に限定して読む。^[source:zengin-net.jp; cotra.ne.jp; jeppo.jp; fsa.go.jp]
 
 | リスク | 読み方 |
 |---|---|

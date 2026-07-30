@@ -1,12 +1,12 @@
 ---
 source: insurance/captive-insurance-japan-market
-source_hash: 764a142c4979df7b
+source_hash: 9b0b28abaa2fc0f5
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本のキャプティブ保険市場"
-translated_at: 2026-06-26T08:32:23.042Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本のキャプティブ保険市場
@@ -23,6 +23,8 @@ translated_at: 2026-06-26T08:32:23.042Z
 
 キャプティブとは、その唯一または主たる事業が親会社および関連会社のリスクを引き受けることである *免許を受けた保険会社* である。キャプティブは次のようなスペクトラム上に位置する。
 
+以下の表は、エントリ出典インベントリの公開一次資料（bma.bm, mas.gov.sg, cima.ky）の範囲に限定して読む。^[source:bma.bm; mas.gov.sg; cima.ky; fsa.go.jp]
+
 | 形態 | 何をするか | 典型的なユーザー |
 |---|---|---|
 | **単一親キャプティブ（ピュア・キャプティブ）** | 一つの親グループのリスクのみを引き受ける | 大規模な産業、自動車、エネルギー、海運、小売 |
@@ -37,10 +39,14 @@ translated_at: 2026-06-26T08:32:23.042Z
 
 ## 2. 日本のオンショア・キャプティブ・ライセンスのギャップ
 
+以下の表は、エントリ出典インベントリの公開一次資料（bma.bm, mas.gov.sg, cima.ky）の範囲に限定して読む。^[source:bma.bm; mas.gov.sg; cima.ky; fsa.go.jp]
+
 | 法域比較 | オンショア・キャプティブ・ライセンス | 日本グループのキャプティブの存在 |
 |---|---|---|
 
 ## 3. 既知および推定される日本グループのキャプティブキャプティブの公開開示は一般的に乏しい。キャプティブは完全にグループ内の手段であり、オフショア規制当局は限られた情報しか公表しないためである。以下のセットは、公開された二次的な参照（ブローカー市場の論評、キャプティブ業界の刊行物、グループの年次報告書）と構造的推論を組み合わせたものである。
+
+以下の表は、エントリ出典インベントリの公開一次資料（bma.bm, mas.gov.sg, cima.ky）の範囲に限定して読む。^[source:bma.bm; mas.gov.sg; cima.ky; fsa.go.jp]
 
 | 日本グループ | キャプティブ — 典型的な法域 | 備考 |
 |---|---|---|
@@ -59,10 +65,14 @@ translated_at: 2026-06-26T08:32:23.042Z
 
 キャプティブの日本の法人税上の取扱いは、キャプティブが気軽に設立できる構造で *ない* 主な理由である。国税庁（NTA）および OECD のフレームワークは、おおむね次のことを要求する。
 
+以下の表は、エントリ出典インベントリの公開一次資料（bma.bm, mas.gov.sg, cima.ky）の範囲に限定して読む。^[source:bma.bm; mas.gov.sg; cima.ky; fsa.go.jp]
+
 | 論点 | 取扱い |
 |---|---|
 
 ## 6. 代替的リスク移転（ART）——より広範なツールキットキャプティブは ART の中で最も目立つ要素であるが、この用語はより広範なツールキットを包含する。
+
+以下の表は、エントリ出典インベントリの公開一次資料（bma.bm, mas.gov.sg, cima.ky）の範囲に限定して読む。^[source:bma.bm; mas.gov.sg; cima.ky; fsa.go.jp]
 
 | ART ツール | 何をするか | 日本での存在 |
 |---|---|---|
@@ -71,10 +81,14 @@ translated_at: 2026-06-26T08:32:23.042Z
 
 ## 7. ROC 対 RTC ——実務上の区別関連するが区別される、時に混同される二つのキャプティブ構造。
 
+以下の表は、エントリ出典インベントリの公開一次資料（bma.bm, mas.gov.sg, cima.ky）の範囲に限定して読む。^[source:bma.bm; mas.gov.sg; cima.ky; fsa.go.jp]
+
 | 略称 | 正式名称 | 機能 | 日本での利用 |
 |---|---|---|---|
 
 ## 9. 比較：キャプティブ対商業保険会社対再保険会社
+
+以下の表は、エントリ出典インベントリの公開一次資料（bma.bm, mas.gov.sg, cima.ky）の範囲に限定して読む。^[source:bma.bm; mas.gov.sg; cima.ky; fsa.go.jp]
 
 | 観点 | 商業保険会社（例：[[non-life-insurers/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]]） | 単一親キャプティブ（オフショア） | 再保険会社（例：[[non-life-insurers/munich-re-japan|Munich Re Japan]]） |
 |---|---|---|---|

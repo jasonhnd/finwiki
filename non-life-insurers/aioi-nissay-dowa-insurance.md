@@ -3,8 +3,8 @@ title: "あいおいニッセイ同和損害保険"
 aliases: ["あいおいニッセイ同和", "Aioi Nissay Dowa", "Aioi Nissay Dowa Insurance", "あいおいニッセイ同和損害保険株式会社"]
 domain: non-life-insurers
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, insurance, non-life-insurance, msad, operating-company]
@@ -27,6 +27,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 あいおいニッセイ同和損害保険株式会社は、[[non-life-insurers/msad]] group の non-life insurance operating company。金融庁の損害保険会社免許一覧に掲載され、MS&AD group 内では [[non-life-insurers/mitsui-sumitomo-insurance]] と別の legal-entity and channel boundary を持つ。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, sonpohogo.or.jp, aioinissaydowa.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sonpohogo.or.jp; aioinissaydowa.co.jp]
 
 | Item | Notes |
 |---|---|

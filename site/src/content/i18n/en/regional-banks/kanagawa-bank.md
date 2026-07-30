@@ -1,11 +1,11 @@
 ---
 source: regional-banks/kanagawa-bank
-source_hash: e6ba857a8fc00e83
+source_hash: 26587ac721521d79
 lang: en
 status: machine
 fidelity: ok
 title: "The Kanagawa Bank"
-translated_at: 2026-06-15T04:09:41.211Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # The Kanagawa Bank
@@ -19,6 +19,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 The Kanagawa Bank, Ltd. (株式会社神奈川銀行) is a second regional bank headquartered in Yokohama, Kanagawa Prefecture, that holds a banking license under the Banking Act and is listed on the FSA's bank license list. In Kanagawa Prefecture, the first regional bank [[regional-banks/yokohama-bank|横浜銀行]] is the large one, but the Kanagawa Bank is treated as a separate-entity licensed second-regional-bank operating company. The substance of its business is the community-rooted second-regional-bank model of taking deposits and lending to SMEs and individuals in Yokohama and within the prefecture.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, kanagawabank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; kanagawabank.co.jp]
 
 | Item | Notes |
 |---|---|

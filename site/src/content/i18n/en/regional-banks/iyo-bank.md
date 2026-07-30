@@ -1,11 +1,11 @@
 ---
 source: regional-banks/iyo-bank
-source_hash: ddce8d71e2cf69f0
+source_hash: 8cd798758d51229a
 lang: en
 status: machine
 fidelity: ok
 title: "Iyo Bank"
-translated_at: 2026-06-15T04:09:41.188Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Iyo Bank
@@ -20,6 +20,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 The Iyo Bank, Ltd. (株式会社伊予銀行) is a regional bank (first-tier regional bank) headquartered in Matsuyama City, Ehime Prefecture, holding a bank license under the Banking Act and listed on the FSA's bank license list. It is the core operating bank of [[regional-banks/iyogin-hd|いよぎんホールディングス]] and the regional-bank operating-company anchor representing Ehime Prefecture. The substance of the business is the standard regional-bank model of taking in deposits within the prefecture and across Shikoku and lending to SMEs, individuals, and local governments.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, iyobank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; iyobank.co.jp]
 
 | Item | Notes |
 |---|---|

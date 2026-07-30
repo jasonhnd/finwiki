@@ -7,8 +7,8 @@ aliases:
   - "foreign life affiliates Japan"
 domain: "insurance"
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [insurance, life-insurance, japan, foreign-affiliate, channel, ics]
@@ -100,6 +100,8 @@ A common structural pattern: Japan subsidiary builds in-force premium and statut
 
 The FSA acts as group-wide supervisor for Japan-headquartered insurance groups (see [[insurance/japan-iaig-ics-mapping|Japan IAIG-ICS mapping]]) and as host supervisor for Japan-licensed subsidiaries of foreign IAIGs. The relationship works as follows:
 
+The following table is scoped to public primary sources (seiho.or.jp, aflac.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:seiho.or.jp; aflac.com; fsa.go.jp; iaisweb.org]
+
 | Group type | Group-wide supervisor | Host supervisor for Japan operations | ICS application |
 |---|---|---|---|
 | Japan-headquartered IAIG | FSA | FSA | ICS at group level via FSA reporting |
@@ -118,6 +120,8 @@ This bifurcated supervisory architecture allows the FSA to maintain prudential d
 ## Entry-and-exit history shaping current positioning
 
 Foreign-life affiliates in Japan have a distinctive entry-and-exit history that explains the current shape:
+
+The following table is scoped to public primary sources (seiho.or.jp, aflac.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:seiho.or.jp; aflac.com; fsa.go.jp; iaisweb.org]
 
 | Pattern | Examples |
 |---|---|
@@ -144,6 +148,8 @@ The implication for foreign-affiliate strategy: bancassurance is a scale channel
 
 ## Comparison axes for foreign vs domestic positioning
 
+The following table is scoped to public primary sources (seiho.or.jp, aflac.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:seiho.or.jp; aflac.com; fsa.go.jp; iaisweb.org]
+
 | Axis | Foreign-affiliate pattern | Domestic [[insurance/japan-life-insurance-big-four|big-four]] pattern |
 |---|---|---|
 | Brand age in Japan | Decades for AFLAC, MetLife, Prudential; later for AXA, Zurich, AIA | Generations / over a century for big-four mutuals |
@@ -154,6 +160,8 @@ The implication for foreign-affiliate strategy: bancassurance is a scale channel
 | Branding | Often parent global brand (AFLAC duck, MetLife) with Japan adaptation | Domestic Japanese brand identity |
 
 ## Parent-company governance trade-offs
+
+The following table is scoped to public primary sources (seiho.or.jp, aflac.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:seiho.or.jp; aflac.com; fsa.go.jp; iaisweb.org]
 
 | Trade-off | Description |
 |---|---|
@@ -168,6 +176,8 @@ The implication for foreign-affiliate strategy: bancassurance is a scale channel
 
 When reading foreign-parent group disclosures for Japan-segment exposure, prioritize:
 
+The following table is scoped to public primary sources (seiho.or.jp, aflac.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:seiho.or.jp; aflac.com; fsa.go.jp; iaisweb.org]
+
 | Disclosure source | Japan-segment relevance |
 |---|---|
 | Parent-group 10-K (US-listed parents: Aflac, MetLife, Prudential Financial) | Japan-segment premium, pretax income, in-force, mortality / morbidity experience |
@@ -180,6 +190,8 @@ Triangulating across these sources produces the most reliable picture, since par
 ## Intra-group reinsurance and capital fungibility
 
 Foreign-affiliate Japan-licensed subsidiaries often cede portions of insurance risk to parent-group reinsurance vehicles in other jurisdictions. The mechanics:
+
+The following table is scoped to public primary sources (seiho.or.jp, aflac.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:seiho.or.jp; aflac.com; fsa.go.jp; iaisweb.org]
 
 | Mechanism | Description | Supervisory consideration |
 |---|---|---|

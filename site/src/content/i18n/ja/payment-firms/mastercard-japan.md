@@ -1,12 +1,12 @@
 ---
 source: payment-firms/mastercard-japan
-source_hash: e53b854586f8a448
+source_hash: 619287f106c67236
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "マスターカードジャパン"
-translated_at: 2026-06-26T08:31:59.837Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # マスターカードジャパン
 # マスターカードジャパン
@@ -18,6 +18,8 @@ translated_at: 2026-06-26T08:31:59.837Z
 ## 要約株式会社マスターカードジャパンは、米 Mastercard Incorporated (NYSE:MA) の **日本拠点法人**。Mastercard はカード本体を発行せず、**ブランドライセンス供与・スキーム運営・加盟店間取引処理** のみを担う **純粋な 4-party スキーム運営者**。日本では [[card-issuers/rakuten-card|楽天カード]]、[[card-issuers/mufg-nicos|三菱UFJニコス]]、[[card-issuers/aplus|アプラス]] 等の国内発行会社 に Mastercard ブランドをライセンス供与し、加盟店契約は国内アクワイアラ が担う。直接消費者発行も加盟店契約もしない点が、後述 [[payment-firms/american-express-international-japan|Amex Japan]] と決定的に異なる。
 
 ## 1. 免許・グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（mastercard.co.jp）の範囲に限定して読む。^[source:mastercard.co.jp]
 
 | 項目 | 注記 |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: policy-finance/agriculture-credit-guarantee-system
-source_hash: d2d35d7965974b7c
+source_hash: 8b5e989010a04db3
 lang: ja
 status: machine
 fidelity: ok
 title: "Agriculture credit guarantee system in Japan"
-translated_at: 2026-06-19T06:09:18.197Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Agriculture credit guarantee system in Japan
@@ -22,6 +22,8 @@ This entry sits under [[policy-finance/INDEX|policy-finance index]]. Read it aga
 
 日本の農業金融は **系統金融**（cooperative system finance）スタックを通じて流れる：
 
+以下の表は、エントリ出典インベントリの公開一次資料（maff.go.jp, jaffic.go.jp, jacom.or.jp）の範囲に限定して読む。^[source:maff.go.jp; jaffic.go.jp; jacom.or.jp]
+
 | Layer | Function | FinWiki route |
 |---|---|---|
 | 農家 / 農業法人 | 借り手（農業者、農業法人、農業従事者、アグリビジネス）。 | System route here |
@@ -36,6 +38,8 @@ This entry sits under [[policy-finance/INDEX|policy-finance index]]. Read it aga
 
 ## 2. 機関概要 — 農業信用基金協会
 
+以下の表は、エントリ出典インベントリの公開一次資料（maff.go.jp, jaffic.go.jp, jacom.or.jp）の範囲に限定して読む。^[source:maff.go.jp; jaffic.go.jp; jacom.or.jp]
+
 | 項目 | 内容 |
 |---|---|
 | 設置 | 47都道府県（一部の都府県は地域単位で運営） |
@@ -48,6 +52,8 @@ This entry sits under [[policy-finance/INDEX|policy-finance index]]. Read it aga
 | 再保険 | 農林漁業信用基金 (JAFFIC) 農業信用保険業務 |
 
 ## 3. 機関概要 — JAFFIC (農林漁業信用基金)
+
+以下の表は、エントリ出典インベントリの公開一次資料（maff.go.jp, jaffic.go.jp, jacom.or.jp）の範囲に限定して読む。^[source:maff.go.jp; jaffic.go.jp; jacom.or.jp]
 
 | 項目 | 内容 |
 |---|---|
@@ -92,6 +98,8 @@ This entry sits under [[policy-finance/INDEX|policy-finance index]]. Read it aga
 
 ## 7. Year evolution
 
+以下の表は、エントリ出典インベントリの公開一次資料（maff.go.jp, jaffic.go.jp, jacom.or.jp）の範囲に限定して読む。^[source:maff.go.jp; jaffic.go.jp; jacom.or.jp]
+
 | Year | Event |
 |---|---|
 | 1961 | 農業信用保証保険法が制定；都道府県の農業信用基金協会が設立。 |
@@ -109,6 +117,8 @@ This entry sits under [[policy-finance/INDEX|policy-finance index]]. Read it aga
 | 2025 | 担い手の承継 + 法人化の優先 ── 保証制度が法人農場／承継主導の構造改革に整合。 |
 
 ## 8. Comparison vs general SME credit guarantee system
+
+以下の表は、エントリ出典インベントリの公開一次資料（maff.go.jp, jaffic.go.jp, jacom.or.jp）の範囲に限定して読む。^[source:maff.go.jp; jaffic.go.jp; jacom.or.jp]
 
 | Dimension | Agriculture credit guarantee system | [[policy-finance/japan-credit-guarantee-system\|General SME credit guarantee system]] |
 |---|---|---|

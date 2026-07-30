@@ -10,8 +10,8 @@ aliases:
   - "日本保険業界概要"
 domain: insurance
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [insurance, overview, life, non-life, kyosai, reinsurance, FSA, solvency, ESR, IAIS, ICS]
@@ -41,6 +41,8 @@ This entry sits under [[insurance/INDEX|insurance index]] as the system overview
 
 ### 1. Life insurance (生命保険)
 
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, sonpo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; sonpo.or.jp; iaisweb.org]
+
 | Sub-segment | Examples | Anchor |
 |---|---|---|
 | Big-four life (mutual / stock) | [[life-insurers/nippon-life|Nippon Life]] (mutual), [[life-insurers/dai-ichi-life|Dai-ichi Life]] (stock), [[life-insurers/sumitomo-life|Sumitomo Life]] (mutual), Meiji Yasuda Life (mutual) | [[insurance/japan-life-insurance-big-four]], [[insurance/japan-life-big-four-overlay-comparison-matrix]] |
@@ -53,6 +55,8 @@ This entry sits under [[insurance/INDEX|insurance index]] as the system overview
 Life insurance distribution mix: agency-based (sales-force / consultant), bancassurance (bank-counter), online direct, embedded / group-channel.
 
 ### 2. Non-life insurance (損害保険)
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, sonpo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; sonpo.or.jp; iaisweb.org]
 
 | Sub-segment | Examples | Anchor |
 |---|---|---|
@@ -102,6 +106,8 @@ See [[insurance/earthquake-insurance-public-private-scheme]] and [[non-life-insu
 
 ## Regulatory Framework
 
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, sonpo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; sonpo.or.jp; iaisweb.org]
+
 | Layer | Detail |
 |---|---|
 | Insurance Business Act (保険業法) | Statutory framework for insurer licensing, distribution, capital, governance, and conduct. |
@@ -115,6 +121,8 @@ See [[insurance/earthquake-insurance-public-private-scheme]] and [[non-life-insu
 | Policyholder protection | Japan Life Insurance Policyholder Protection Corporation (LIPPC) + General Insurance Policyholders Protection Corporation (GIPPC). |
 
 ## Market Participants
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, sonpo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; sonpo.or.jp; iaisweb.org]
 
 | Category | Examples |
 |---|---|
@@ -130,6 +138,8 @@ See [[insurance/earthquake-insurance-public-private-scheme]] and [[non-life-insu
 
 ## Cross-Segment Linkages
 
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, sonpo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; sonpo.or.jp; iaisweb.org]
+
 | Linkage | Mechanism |
 |---|---|
 | Life insurer rate-derivative hedging | Big life insurers are among the largest receive-fixed users of yen IRS. See [[derivatives/japan-interest-rate-derivatives-overview]], [[insurance/japan-life-insurance-alm-overview]]. |
@@ -140,6 +150,8 @@ See [[insurance/earthquake-insurance-public-private-scheme]] and [[non-life-insu
 | Insurance / global FG | Big-three non-life groups operate global insurance subsidiaries (Tokio Marine HCC, MSI USA, Sompo Internazionale). |
 
 ## Public Data Sources
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, sonpo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; sonpo.or.jp; iaisweb.org]
 
 | Source | What it shows |
 |---|---|

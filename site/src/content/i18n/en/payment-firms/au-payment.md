@@ -1,11 +1,11 @@
 ---
 source: payment-firms/au-payment
-source_hash: 434e4e79546b2864
+source_hash: fa874c10f056c024
 lang: en
 status: machine
 fidelity: ok
 title: "auペイメント (au Payment)"
-translated_at: 2026-06-15T03:48:21.939Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # auペイメント (au Payment)
@@ -20,6 +20,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it with 
 au Payment is the payment operating company of [[megabanks/au-fh|auフィナンシャルHD]]. The official company profile shows funds-transfer business, prepaid payment instrument issuance, au PAY, financial-product intermediation, banking agency, insurance brokerage / agency, and the like, making it the entity that connects WebMoney-derived prepaid with the au PAY wallet.
 
 ## 1. Corporate / license boundary
+
+The following table is scoped to public primary sources (au-payment.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:au-payment.co.jp; fsa.go.jp]
 
 | Item | Reading |
 |---|---|

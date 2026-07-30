@@ -1,11 +1,11 @@
 ---
 source: regional-banks/hokkoku-fhd
-source_hash: c96b91813039ecb9
+source_hash: 441a02012df7b619
 lang: ja
 status: machine
 fidelity: ok
 title: "北國 FHD (Hokkoku FHD)"
-translated_at: 2026-06-02T14:25:12.447Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 北國 FHD (Hokkoku FHD)
@@ -55,6 +55,8 @@ translated_at: 2026-06-02T14:25:12.447Z
 - **2024**：新中期経営計画（地域 DX プラットフォーマー志向）
 
 ## 3. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（ccig.co.jp, fsa.go.jp）の範囲に限定して読む。^[source:ccig.co.jp; fsa.go.jp]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

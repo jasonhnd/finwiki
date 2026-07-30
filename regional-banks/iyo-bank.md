@@ -3,8 +3,8 @@ title: "伊予銀行"
 aliases: ["Iyo Bank", "The Iyo Bank", "株式会社伊予銀行"]
 domain: regional-banks
 created: 2026-05-21
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-12-05
 confidence: likely
 tags: [JapanFG, banking, regional-bank, shikoku, ehime, operating-company]
@@ -26,6 +26,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 株式会社伊予銀行 (The Iyo Bank) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される愛媛県松山市本店の地方銀行 (第一地銀)。[[regional-banks/iyogin-hd|いよぎんホールディングス]] の core operating bank であり、愛媛県を代表する regional-bank operating-company anchor。事業の中身は県内・四国の預金受入と中小企業・個人・自治体向け貸出という地方銀行の標準モデル。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, iyobank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; iyobank.co.jp]
 
 | Item | Notes |
 |---|---|

@@ -3,8 +3,8 @@ title: "pring"
 aliases: ["pring", "プリン", "株式会社pring", "pring Inc."]
 domain: payment-firms
 created: 2026-05-21
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, payments, wallet, funds-transfer, fintech]
@@ -26,6 +26,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]] (its domain ro
 株式会社pring（プリン）は、個人間送金（P2P）アプリとして知られた **資金移動業者**（funds-transfer operator under 資金決済法, FSA-supervised）。FSA funds-transfer 登録一覧では 関東財務局長 第00050号として掲載。2021 年に **Google**（米 Google International）が大株主メタップス等から全株式を取得し子会社化したことで広く注目された。公開報道では、資金移動業の廃業（2026 年 8 月）と全サービス終了（2026 年 12 月）が予告されており、Google 子会社としては短命に終わる winding-down 事例として扱う。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (pring.jp, fsa.go.jp, itmedia.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:pring.jp; fsa.go.jp; itmedia.co.jp]
 
 | Item | Notes |
 |---|---|

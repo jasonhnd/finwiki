@@ -1,11 +1,11 @@
 ---
 source: regional-banks/yucho
-source_hash: 95c9e8884a37bd62
+source_hash: ea50a144c91679f3
 lang: ja
 status: machine
 fidelity: ok
 title: "ゆうちょ銀行 (Japan Post Bank)"
-translated_at: 2026-06-15T04:09:41.141Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # ゆうちょ銀行 (Japan Post Bank)
 
@@ -28,6 +28,8 @@ translated_at: 2026-06-15T04:09:41.141Z
 **親会社**：日本郵政株式会社（株式コード 6178、政府保有株あり）
 
 ### 主要数値（公開ベース・2025-03-31 実績）
+
+以下の表は、エントリ出典インベントリの公開一次資料（jp-bank.japanpost.jp）の範囲に限定して読む。^[source:jp-bank.japanpost.jp]
 
 | 項目 | 規模感 |
 |---|---|
@@ -64,6 +66,8 @@ translated_at: 2026-06-15T04:09:41.141Z
 | 2024〜 | 中期経営計画（運用多様化・デジタル化加速）|
 
 ## 2. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（jp-bank.japanpost.jp）の範囲に限定して読む。^[source:jp-bank.japanpost.jp]
 
 | セグメント | 主要事業 | 特徴 |
 |---|---|---|

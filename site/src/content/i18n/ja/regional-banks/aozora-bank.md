@@ -1,11 +1,11 @@
 ---
 source: regional-banks/aozora-bank
-source_hash: 03ace4f934cad710
+source_hash: 2162c62d5d69cfc1
 lang: ja
 status: machine
 fidelity: ok
 title: "あおぞら銀行 (Aozora Bank)"
-translated_at: 2026-06-02T14:01:20.938Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # あおぞら銀行 (Aozora Bank)
@@ -28,6 +28,8 @@ translated_at: 2026-06-02T14:01:20.938Z
 **本店**：東京都千代田区麹町 6-1-1 ^[extracted]
 
 ### 主要株主構成（推移）^[extracted]
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | 時期 | 筆頭株主 | 比率 | 備考 |
 |---|---|---|---|
@@ -75,6 +77,8 @@ translated_at: 2026-06-02T14:01:20.938Z
 - 普通銀行転換後、個人向けリテール拡大の中心チャネル
 
 ## 2. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | セグメント | 主力プロダクト | 特徴 |
 |---|---|---|

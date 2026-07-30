@@ -3,8 +3,8 @@ title: 株式会社琉球銀行
 aliases: ["琉球銀行", "りゅうぎん", "Bank of The Ryukyus", "The Bank of The Ryukyus, Ltd.", "Ryukyu Bank"]
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-07-29
-last_tended: 2026-07-29
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, regional-bank, okinawa]
@@ -83,6 +83,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 - 人的資本：県内雇用維持と本土・アジア人材の双方向流動
 
 ### 競合構造（沖縄県内）
+
+The following table is scoped to public primary sources (ryugin.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:ryugin.co.jp]
 
 | 行 | 親会社 | 位置付け |
 |---|---|---|

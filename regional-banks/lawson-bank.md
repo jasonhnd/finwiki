@@ -3,8 +3,8 @@ title: ローソン銀行 (Lawson Bank)
 aliases: ["Lawson Bank", "ローソン銀行", "株式会社ローソン銀行", "Lawson Bank, Inc."]
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-06-24
-last_tended: 2026-06-24
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-12-24
 confidence: likely
 tags: [JapanFG, retail-bank, atm-bank]
@@ -63,6 +63,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 > 注：[[megabanks/mufg]] との間接連携余地など将来の連携シナリオに関する推測は `.opinions/JapanFG/lawson-bank.md` に隔離（検証可能な一次情報なし）。
 
 ### vs セブン銀行（[[regional-banks/seven-bank]]）
+
+The following table is scoped to public primary sources (lawson.jp, fsa.go.jp, lawsonbank.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:lawson.jp; fsa.go.jp; lawsonbank.jp; zenginkyo.or.jp]
 
 | 軸 | [[regional-banks/seven-bank]] | ローソン銀行 |
 |---|---|---|

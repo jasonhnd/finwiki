@@ -1,11 +1,11 @@
 ---
 source: regional-banks/miyazaki-taiyo-bank
-source_hash: 18f756d7c06e061a
+source_hash: b3a861461fa5083e
 lang: en
 status: machine
 fidelity: ok
 title: "Miyazaki Taiyo Bank"
-translated_at: 2026-06-15T04:09:41.189Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Miyazaki Taiyo Bank
@@ -19,6 +19,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 The Miyazaki Taiyo Bank, Ltd. (株式会社宮崎太陽銀行) is a second-tier regional bank headquartered in Miyazaki City, Miyazaki Prefecture, holding a bank license under the Banking Act and listed on the FSA's bank license list. It is Miyazaki Prefecture's second-regional-bank operating-company anchor, treated as a local peer that is a separate legal entity from the first-tier regional bank [[regional-banks/miyazaki-bank|宮崎銀行]]. The substance of the business is the standard second-regional-bank model of taking in deposits within the prefecture and lending to SMEs and individuals.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, taiyobank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; taiyobank.co.jp]
 
 | Item | Notes |
 |---|---|

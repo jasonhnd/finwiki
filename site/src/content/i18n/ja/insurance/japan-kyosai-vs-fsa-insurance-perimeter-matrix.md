@@ -1,12 +1,12 @@
 ---
 source: insurance/japan-kyosai-vs-fsa-insurance-perimeter-matrix
-source_hash: b4539749a7c7ecaf
+source_hash: d54203bb756005e9
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Japan kyosai vs FSA insurance perimeter matrix"
-translated_at: 2026-06-26T08:28:46.060Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan kyosai vs FSA insurance perimeter matrix
@@ -70,6 +70,8 @@ FSA のパリメーターには契約者保護機構のバックストップ —
 
 ### Regulator, law, and licence
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, maff.go.jp, mhlw.go.jp）の範囲に限定して読む。^[source:fsa.go.jp; maff.go.jp; mhlw.go.jp; ja-kyosai.or.jp]
+
 | Axis | FSA 商業生保ビッグ4 / 損保ビッグ3 / 外国 / オンライン / Kampo | JA共済 Zenkyoren | 全労済 Zenrosai / こくみん共済 coop | 県民共済 Kenmin-kyosai | COOP共済 | 全自共 Zenjikyo |
 |---|---|---|---|---|---|---|
 | Regulator | [[FSA|Financial Services Agency]] (金融庁) | MAFF (農林水産省) | MHLW (厚生労働省) | 都道府県知事 + MHLW | MHLW | 連合会に応じて METI / MLIT 隣接 |
@@ -81,6 +83,8 @@ FSA のパリメーターには契約者保護機構のバックストップ —
 
 ### Membership / access gate
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, maff.go.jp, mhlw.go.jp）の範囲に限定して読む。^[source:fsa.go.jp; maff.go.jp; mhlw.go.jp; ja-kyosai.or.jp]
+
 | Axis | FSA 商業保険 | JA共済 | Zenrosai | Kenmin-kyosai | COOP共済 | Zenjikyo |
 |---|---|---|---|---|---|---|
 | Access | 一般公衆に開放 | JA 協同組合の会員（農村地域 / コミュニティ）；准組合員（associate membership）が広く利用可能 | 協同組合の会員；購入時点で一回限りの会費 | 協同組合の会員；一回限りの少額会費 | CO・OP 協同組合の会員；一回限りの会費 | 業界連合会の会員（トラック / 運送事業者） |
@@ -89,6 +93,8 @@ FSA のパリメーターには契約者保護機構のバックストップ —
 | Geographic concentration | 全国 | 農村地域；農村および郊外で強いシェア | 全国；労働組合および消費者協同組合の基盤 | 都道府県の連合会を通じて全国 | CO・OP 連合会を通じて全国 | 全国のトラック輸送 / 運送事業者 |
 
 ### Capital and disclosure
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, maff.go.jp, mhlw.go.jp）の範囲に限定して読む。^[source:fsa.go.jp; maff.go.jp; mhlw.go.jp; ja-kyosai.or.jp]
 
 | Axis | FSA 商業保険 | JA共済 | Zenrosai | Kenmin-kyosai | COOP共済 | Zenjikyo |
 |---|---|---|---|---|---|---|
@@ -101,6 +107,8 @@ FSA のパリメーターには契約者保護機構のバックストップ —
 
 ### Tax treatment
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, maff.go.jp, mhlw.go.jp）の範囲に限定して読む。^[source:fsa.go.jp; maff.go.jp; mhlw.go.jp; ja-kyosai.or.jp]
+
 | Axis | FSA 商業保険 | 共済（適格製品） |
 |---|---|---|
 | Life premium deduction（生命保険料控除） | あり — 一般生命 / 医療介護 / 個人年金 に分割 | あり — JA共済 / Zenrosai / Kenmin-kyosai / COOP共済 が販売する適格な生命保険型カバーについて |
@@ -111,6 +119,8 @@ FSA のパリメーターには契約者保護機構のバックストップ —
 | Consumption tax on premium | 非課税 | 非課税 |
 
 ### Product offering by line
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, maff.go.jp, mhlw.go.jp）の範囲に限定して読む。^[source:fsa.go.jp; maff.go.jp; mhlw.go.jp; ja-kyosai.or.jp]
 
 | Line | FSA 商業保険 | JA共済 | Zenrosai | Kenmin-kyosai | COOP共済 | Zenjikyo |
 |---|---|---|---|---|---|---|
@@ -124,6 +134,8 @@ FSA のパリメーターには契約者保護機構のバックストップ —
 | P&I / marine / specialty | ビッグスリーの損保および外国の再保険会社 / Lloyd's — [[insurance/marine-insurance-and-pi-cover-market]] を参照 | コアでない | コアでない | コアでない | コアでない | トラック輸送の賠償責任 |
 
 ### Conceptual market share by line
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, maff.go.jp, mhlw.go.jp）の範囲に限定して読む。^[source:fsa.go.jp; maff.go.jp; mhlw.go.jp; ja-kyosai.or.jp]
 
 | Line | FSA 商業パリメーターのシェア（概念的） | 共済パリメーターのシェア（概念的） | ラインで最大の共済連合会 |
 |---|---|---|---|
@@ -139,6 +151,8 @@ FSA のパリメーターには契約者保護機構のバックストップ —
 
 ### Distribution channel architecture
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, maff.go.jp, mhlw.go.jp）の範囲に限定して読む。^[source:fsa.go.jp; maff.go.jp; mhlw.go.jp; ja-kyosai.or.jp]
+
 | Channel | FSA 商業パリメーター | 共済パリメーター |
 |---|---|---|
 | Tied sales force | ビッグ4 の生保が日本最大；外国系列はライフプランナー / FA モデルを運営 | JA グループの地域協同組合が JA共済 を販売；労働組合チャネルが Zenrosai を販売 |
@@ -149,6 +163,8 @@ FSA のパリメーターには契約者保護機構のバックストップ —
 | Workplace / employer | ビッグ4 の団体生命の給与天引き | Zenrosai での労働組合の給与天引き；COOP共済 での雇用主の会員資格 |
 
 ### Surplus / dividend distribution mechanics
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, maff.go.jp, mhlw.go.jp）の範囲に限定して読む。^[source:fsa.go.jp; maff.go.jp; mhlw.go.jp; ja-kyosai.or.jp]
 
 | Mechanic | FSA 商業保険 | 共済 |
 |---|---|---|
@@ -161,6 +177,8 @@ FSA のパリメーターには契約者保護機構のバックストップ —
 
 ### Special perimeter notes
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, maff.go.jp, mhlw.go.jp）の範囲に限定して読む。^[source:fsa.go.jp; maff.go.jp; mhlw.go.jp; ja-kyosai.or.jp]
+
 | Note | Detail |
 |---|---|
 | Kampo Life dual regime | [[life-insurers/kampo-life|Kampo Life]] は民営化後の日本郵政グループ内に位置し、保険業法のもとで免許される。製品承認および日本郵政銀行との提携に特別法の制約が適用される。[[insurance/kampo-japan-post-insurance|the Kampo Japan Post insurance entry]] と併せて読むこと。 |
@@ -170,6 +188,8 @@ FSA のパリメーターには契約者保護機構のバックストップ —
 | 自家共済（self-insurance cooperative） | 一部の雇用主 / 業界の自家保険プールは協同組合法のもとで運営される；これらは FSA のパリメーターの外側に位置する。 |
 
 ### Comparative scale (conceptual)
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, maff.go.jp, mhlw.go.jp）の範囲に限定して読む。^[source:fsa.go.jp; maff.go.jp; mhlw.go.jp; ja-kyosai.or.jp]
 
 | Federation / set | 概念的なスケールのシグナル |
 |---|---|

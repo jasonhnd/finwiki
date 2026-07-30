@@ -1,11 +1,11 @@
 ---
 source: payment-firms/zaim
-source_hash: 7eba481b01f8970d
+source_hash: 6360462dcdf928e6
 lang: en
 status: machine
 fidelity: ok
 title: "Zaim (ザイム)"
-translated_at: 2026-06-15T03:48:21.885Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Zaim (ザイム)
@@ -19,6 +19,8 @@ This entry sits under the [[payment-firms/INDEX|payment-firms INDEX]] as a **PFM
 Zaim is one of Japan's most senior-class **household-budgeting apps**, released in 2011 年. As a fintech remnant that, alongside [[payment-firms/money-forward|Money Forward]] ME, has formed the consumer-facing PFM category, it was **made a KDDI subsidiary** in 2022-04  and repositioned as a data-origin asset of the au economic sphere ([[megabanks/au-fh|au フィナンシャル HD]]). Its distinguishing feature set is receipt OCR + bank/card API linkage + municipal-benefit search.
 
 ## 1. Legal entity / license boundary
+
+The following table is scoped to public primary sources (content.zaim.net, news.kddi.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:content.zaim.net; news.kddi.com]
 
 | Item | Reading |
 |---|---|

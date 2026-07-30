@@ -1,12 +1,12 @@
 ---
 source: payments/funds-transfer-vs-prepaid-boundary
-source_hash: 5a6da882baee12c5
+source_hash: 4b8f54f6d22a73e5
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本における資金移動 vs 前払いの境界"
-translated_at: 2026-06-26T08:32:23.053Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本における資金移動 vs 前払いの境界
@@ -23,6 +23,8 @@ translated_at: 2026-06-26T08:32:23.053Z
 
 ## 境界テスト
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp）の範囲に限定して読む。^[source:fsa.go.jp]
+
 | 問い | 資金移動のシグナル | 前払いのシグナル |
 |---|---|---|
 | ユーザーは他者に価値を送れるか？ | はい、特にサービスが送金指図を受け付ける場合。 | 通常いいえ；残高は主としてユーザー自身の支払い用。 |
@@ -32,6 +34,8 @@ translated_at: 2026-06-26T08:32:23.053Z
 | 残高は高額送金か低額送金か？ | 区分が重要：第一種、第二種、または第三種資金移動業。 | 送金限度よりも前払いのルールと発行者の義務がより重要。 |
 
 ## 資金移動の区分金融庁の資料は、2021 以降の 3 つの資金移動の区分を説明している：
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp）の範囲に限定して読む。^[source:fsa.go.jp]
 
 | 区分 | 機能 | 主な制約 |
 |---|---|---|
@@ -54,6 +58,8 @@ translated_at: 2026-06-26T08:32:23.053Z
 登録済みの第三者型前払い発行者の母集団については、ロングテールの発行者ページを作るのではなく [[payments/prepaid-payment-instrument-issuers-japan-index]] を用いられたい。
 
 ## 商品の分解
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp）の範囲に限定して読む。^[source:fsa.go.jp]
 
 | 商品の面 | 可能な法的レイヤー |
 |---|---|

@@ -3,8 +3,8 @@ title: "佐賀共栄銀行"
 aliases: ["Saga Kyoei Bank", "The Saga Kyoei Bank", "株式会社佐賀共栄銀行", "きょうぎん"]
 domain: regional-banks
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, banking, second-regional-bank, kyushu, saga, operating-company]
@@ -26,6 +26,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it wit
 株式会社佐賀共栄銀行は、金融庁の銀行免許一覧に掲載される佐賀県本店の第二地方銀行。佐賀県の second-regional-bank operating-company anchor であり、[[regional-banks/saga-bank]] とは別法人の local peer として扱う。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, kyogin.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; kyogin.co.jp]
 
 | Item | Notes |
 |---|---|

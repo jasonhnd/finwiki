@@ -1,11 +1,11 @@
 ---
 source: regional-banks/taiko-bank
-source_hash: 4cd3054e4b633c78
+source_hash: 826204ea82f63de0
 lang: ja
 status: machine
 fidelity: ok
 title: "大光銀行"
-translated_at: 2026-06-02T16:33:58.485Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 大光銀行
 
@@ -19,6 +19,8 @@ translated_at: 2026-06-02T16:33:58.485Z
 株式会社大光銀行は、金融庁の銀行免許一覧に掲載される、新潟県長岡市に本店を置く第二地方銀行である。FSA のワークブックでは関東財務局管内の第二地方銀行一覧に含まれ、wiki では新潟県および関東隣接圏の第二地方銀行運営会社ページとして扱う。
 
 ## 1. ライセンス・グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, taikobank.jp）の範囲に限定して読む。^[source:fsa.go.jp; taikobank.jp]
 
 | 項目 | 注記 |
 |---|---|

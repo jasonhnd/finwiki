@@ -11,8 +11,8 @@ aliases:
   - "insurance/axa-direct"
 domain: life-insurers
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, life-insurance, non-life-insurance, foreign-japan-subsidiary]
@@ -54,6 +54,8 @@ AXA SA (仏 Paris 本社)
 ```
 
 ### 重要历史（年表）
+
+The following table is scoped to public primary sources (AXA Japan, アクサジャパンホールディング, アクサ生命). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:AXA Japan; アクサジャパンホールディング; アクサ生命]
 
 | 年月 | 事象 |
 |---|---|

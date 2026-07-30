@@ -1,12 +1,12 @@
 ---
 source: payment-firms/sbi-remit
-source_hash: 270b45c941ec94ef
+source_hash: d18942383413fae4
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "SBIレミット"
-translated_at: 2026-06-26T08:31:59.844Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # SBIレミット
@@ -18,6 +18,8 @@ translated_at: 2026-06-26T08:31:59.844Z
 SBIレミット株式会社は、SBI グループの **国際送金事業会社**で、FSA に登録された **第二種資金移動業者**（type-II 資金移動事業者 under 資金決済法）。2010 年の資金決済法施行に伴い登録し、1 回 100 万円以下の少額国際送金から事業を開始。MoneyGram 等との提携で世界 220 以上の国・地域に送金ネットワークを持つ。外国人居住者・出稼ぎ労働者向け送金と、地域金融機関・銀行代理業との接続で重要度が高い。
 
 ## 1. ライセンス / グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（remit.co.jp, sbigroup.co.jp, fsa.go.jp）の範囲に限定して読む。^[source:remit.co.jp; sbigroup.co.jp; fsa.go.jp]
 
 | 項目 | 備考 |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: life-insurers/nanairo-life
-source_hash: cd421a2323f5aeab
+source_hash: 6cb20d421074bb2a
 lang: en
 status: machine
 fidelity: ok
 title: "Nanairo Life Insurance"
-translated_at: 2026-06-01T00:41:50.430Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Nanairo Life Insurance
 
@@ -19,6 +19,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 Nanairo Life Insurance Co., Ltd. is a life-insurance operating company in the [[life-insurers/asahi-life]] group listed on the FSA life-insurer list. Separate from the main Asahi Life entity, it should be read as a tied-agency / modern product-channel oriented insurer.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, nanairolife.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; nanairolife.co.jp]
 
 | Item | Notes |
 |---|---|

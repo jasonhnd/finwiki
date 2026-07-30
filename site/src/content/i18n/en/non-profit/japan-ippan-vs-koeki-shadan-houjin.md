@@ -1,12 +1,12 @@
 ---
 source: non-profit/japan-ippan-vs-koeki-shadan-houjin
-source_hash: 3f91b44451fafe6f
+source_hash: 0eafdf8e6ce6f556
 lang: en
 model: claude-opus-4-8
 status: machine
 fidelity: ok
 title: "Japan General Incorporated Association vs Public-Interest Incorporated Association — general vs public-interest incorporated association"
-translated_at: 2026-06-05T00:00:00.000Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan General Incorporated Association vs Public-Interest Incorporated Association — general vs public-interest incorporated association
@@ -19,6 +19,8 @@ This entry sits under [[non-profit/INDEX|non-profit INDEX]] and is the **members
 
 A **社団 (association)** is governance-by-membership: voting **社員** decide direction at a general meeting, in contrast to a **財団 (foundation)**, which is governance-by-endowment with no members. Both the 一般 and 公益 association forms live in the **same statute family** as their foundation cousins:
 
+The following table is scoped to public primary sources (laws.e-gov.go.jp, koeki-info.go.jp, moj.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:laws.e-gov.go.jp; koeki-info.go.jp; moj.go.jp; nta.go.jp]
+
 | Form | Statute | Supervisor | Donor tax deduction |
 |---|---|---|---|
 | 一般社団法人 | 一般社団・財団法人法 (2006) | Legal Affairs Bureau (registration only) | No (general rule) |
@@ -27,6 +29,8 @@ A **社団 (association)** is governance-by-membership: voting **社員** decide
 The relationship is **staged**: you first incorporate a 一般社団法人 by registration, then optionally apply for **公益認定** to become a 公益社団法人, which unlocks donor-side tax deduction in exchange for a heavy public-interest test and ongoing supervision.
 
 ## 一般社団法人 — the base form
+
+The following table is scoped to public primary sources (laws.e-gov.go.jp, koeki-info.go.jp, moj.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:laws.e-gov.go.jp; koeki-info.go.jp; moj.go.jp; nta.go.jp]
 
 | Attribute | Rule |
 |---|---|
@@ -64,6 +68,8 @@ To become a 公益社団法人, an existing 一般社団法人 applies for **公
 In return, the entity gains: **corporation-tax exemption on public-interest activities**, the protected **"公益社団法人" name**, and — the asymmetric prize — **donor-side tax deduction**.
 
 ## Side-by-side
+
+The following table is scoped to public primary sources (laws.e-gov.go.jp, koeki-info.go.jp, moj.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:laws.e-gov.go.jp; koeki-info.go.jp; moj.go.jp; nta.go.jp]
 
 | Dimension | 一般社団法人 | 公益社団法人 |
 |---|---|---|

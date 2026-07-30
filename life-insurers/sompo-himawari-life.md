@@ -3,8 +3,8 @@ title: "SOMPOひまわり生命保険"
 aliases: ["SOMPOひまわり生命", "Sompo Himawari Life", "SOMPO Himawari Life Insurance", "ＳＯＭＰＯひまわり生命保険株式会社"]
 domain: life-insurers
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, insurance, life-insurance, sompo, operating-company]
@@ -27,6 +27,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 SOMPOひまわり生命保険株式会社は、[[non-life-insurers/sompo]] group の life-insurance operating company。[[non-life-insurers/sompo]] 本体は non-life major として見られがちだが、SOMPOひまわり生命は金融庁 life-insurer list に載る separate underwriting entity で、health / life protection products を扱う。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, himawari-life.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; himawari-life.co.jp]
 
 | Item | Notes |
 |---|---|

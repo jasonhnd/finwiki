@@ -3,8 +3,8 @@ title: "01銀行 (01Bank)"
 aliases: ["01Bank", "01 Bank", "01銀行", "０１銀行", "０１銀行株式会社"]
 domain: regional-banks
 created: 2026-05-20
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, bank, digital-bank, sme-finance, operating-company, senshu-ikeda-subsidiary]
@@ -27,6 +27,8 @@ sources:
 This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[regional-banks/ui-bank|UI銀行 (UI Bank)]] and [[banking/minna-bank-baas-model|みんなの銀行]] for peer / contrast context (the two preceding 地銀デジタル銀行), [[regional-banks/ikeda-senshu-hd|池田泉州ホールディングス]] for parent group context, and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## 1. 法人・ライセンス境界
+
+The following table is scoped to public primary sources (fsa.go.jp, 01bank.co.jp, ja.wikipedia.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; 01bank.co.jp; ja.wikipedia.org; prtimes.jp]
 
 | Item | Reading |
 |---|---|

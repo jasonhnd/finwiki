@@ -1,11 +1,11 @@
 ---
 source: securities/japan-best-execution-sor-pts
-source_hash: 79ca36a4a5e6132a
+source_hash: e6f72c154c7183d5
 lang: en
 status: machine
 fidelity: ok
 title: "Japan best execution, SOR, and PTS"
-translated_at: 2026-06-01T03:31:12.310Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan best execution, SOR, and PTS
@@ -20,6 +20,8 @@ This is the execution-quality route inside [[securities/INDEX|securities domain]
 
 ## Source Stack
 
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, japannext.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; japannext.co.jp; odx.co.jp]
+
 | Layer | Source route | What it explains |
 |---|---|---|
 | Regulation / supervision | FSA financial instruments business operator supervisory guideline and customer-oriented business-conduct page | Market-intermediary functions, customer best interest, system risk, order handling, and conduct supervision. |
@@ -29,6 +31,8 @@ This is the execution-quality route inside [[securities/INDEX|securities domain]
 | Broker disclosure | Broker best-execution policy and execution policy pages | How a specific broker routes customer orders and what factors it says it considers. |
 
 ## Execution Route Map
+
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, japannext.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; japannext.co.jp; odx.co.jp]
 
 | Route | Practical meaning | FinWiki reading |
 |---|---|---|
@@ -62,6 +66,8 @@ JSDA publishes information on trading of listed securities on PTS venues and not
 
 ## Broker Comparison Questions
 
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, japannext.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; japannext.co.jp; odx.co.jp]
+
 | Question | Public relevance |
 |---|---|
 | Does the broker publish a current best-execution policy? | Required reading before comparing fee claims. |
@@ -79,6 +85,8 @@ JSDA publishes information on trading of listed securities on PTS venues and not
 - [[securities-firms/gmo-click-securities|GMO Click Securities]], [[securities-firms/dmm-com-securities|DMM.com Securities]], and FX / CFD brokers need separate product-route checks because best execution for listed cash equities is not the same as derivatives execution.
 
 ## Risks and Caveats
+
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, japannext.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; japannext.co.jp; odx.co.jp]
 
 | Risk | Reading |
 |---|---|

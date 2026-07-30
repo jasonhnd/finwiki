@@ -1,11 +1,11 @@
 ---
 source: securities-firms/matsui-sec
-source_hash: c5390142600133a4
+source_hash: d605a5066d3bdd7b
 lang: ja
 status: machine
 fidelity: ok
 title: "松井証券株式会社 (Matsui Securities)"
-translated_at: 2026-06-24T00:00:00.000Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 松井証券株式会社 (Matsui Securities)
@@ -20,6 +20,8 @@ translated_at: 2026-06-24T00:00:00.000Z
 
 ## 1. 会社概要
 
+以下の表は、エントリ出典インベントリの公開一次資料（matsui.co.jp, fsa.go.jp）の範囲に限定して読む。^[source:matsui.co.jp; fsa.go.jp]
+
 | 項目 | 内容 |
 |---|---|
 | 正式名 | 松井証券株式会社 |
@@ -31,6 +33,8 @@ translated_at: 2026-06-24T00:00:00.000Z
 | 業態 | 独立系オンライン証券。Integrated Report は資本系列について、松井証券は独立系であり他社に属していないと記載する。^[source:matsui-ir-2025] |
 
 ### ライセンス・登録の境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（matsui.co.jp, fsa.go.jp）の範囲に限定して読む。^[source:matsui.co.jp; fsa.go.jp]
 
 | 区分 | 確認済みの内容 |
 |---|---|
@@ -58,6 +62,8 @@ translated_at: 2026-06-24T00:00:00.000Z
 歴史的な転換点は 1998年5月である。松井証券の公開有価証券報告書は、同社が日本初の本格的なオンライン証券サービス「ネットストック」を開始し、あわせて日本初のオンライン信用取引サービスも開始したと記す。そのため本ページは、1998年を対面型のリテール証券からオンラインの自己判断型証券への構造的な転換点として扱う。^[source:matsui-asr-2024]
 
 ## 3. セグメントマップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（matsui.co.jp, fsa.go.jp）の範囲に限定して読む。^[source:matsui.co.jp; fsa.go.jp]
 
 | セグメント | 役割 | 出典に基づく読み |
 |---|---|---|

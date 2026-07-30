@@ -1,11 +1,11 @@
 ---
 source: insurance/japan-bancassurance-distribution-overlay-matrix
-source_hash: 287e6701185ff57f
+source_hash: af845c3fc7b795c6
 lang: en
 status: machine
 fidelity: ok
 title: "Japan bancassurance distribution overlay matrix"
-translated_at: 2026-05-31T07:28:06.149Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan bancassurance distribution overlay matrix
@@ -74,6 +74,8 @@ The matrix below maps bank channel × insurer carrier on the conceptual product 
 
 ### Bank channel identity and bancassurance role
 
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, zenginkyo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; zenginkyo.or.jp; boj.or.jp]
+
 | Bank channel | Group parent | Branch reach | Bancassurance role tilt |
 |---|---|---|---|
 | [[megabanks/mufg-bank|MUFG Bank]] | [[megabanks/mufg|MUFG]] | Largest megabank by assets | Multi-carrier shelf; private-banking layer at trust-bank |
@@ -89,6 +91,8 @@ The matrix below maps bank channel × insurer carrier on the conceptual product 
 | Major regional banks | Various FG | Region-specific reach | Multi-carrier shelf |
 
 ### Insurer carrier × bank channel matrix (conceptual)
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, zenginkyo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; zenginkyo.or.jp; boj.or.jp]
 
 | Insurer | MUFG Bank | SMBC | SMBC Trust | Mizuho Bank | Mizuho Trust | Resona / Saitama Resona | Japan Post Bank | SBI Shinsei Bank | Sony Bank | Regional bank shelf |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -109,6 +113,8 @@ Note: "Yes" indicates the carrier appears on the bank channel's bancassurance sh
 
 ### Single-premium vs level-premium product split
 
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, zenginkyo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; zenginkyo.or.jp; boj.or.jp]
+
 | Product category | Bancassurance presence | Notes |
 |---|---|---|
 | Foreign-currency single-premium annuity (USD / AUD) | Dominant bancassurance product by new business value | Largest commission and the central FSA conduct-rule focus |
@@ -121,6 +127,8 @@ Note: "Yes" indicates the carrier appears on the bank channel's bancassurance sh
 | Variable annuity (variable-return savings) | Historic bancassurance product; reduced after FSA-led product redesign | Replaced largely by foreign-currency annuity |
 
 ### Channel exclusivity and shelf curation
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, zenginkyo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; zenginkyo.or.jp; boj.or.jp]
 
 | Bank channel | Exclusive / shelf tilt | Notes |
 |---|---|---|
@@ -135,6 +143,8 @@ Note: "Yes" indicates the carrier appears on the bank channel's bancassurance sh
 
 ### Commission structure and conduct rules (conceptual)
 
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, zenginkyo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; zenginkyo.or.jp; boj.or.jp]
+
 | Axis | Single-premium foreign-currency annuity | Level-premium foreign-currency whole-life | Yen single-premium savings | Level-premium yen savings | Medical / cancer |
 |---|---|---|---|---|---|
 | Typical commission tilt | Higher front-load | Mixed front-load and ongoing | Mid-range front-load | Lower front-load | Lower front-load |
@@ -144,6 +154,8 @@ Note: "Yes" indicates the carrier appears on the bank channel's bancassurance sh
 | Product redesign history | Variable annuity → foreign-currency annuity shift | Foreign-currency whole-life expansion | Periodic redesigns | Stable | Stable |
 
 ### Re-tie-up history and structural changes
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, zenginkyo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; zenginkyo.or.jp; boj.or.jp]
 
 | Bank channel | Selected structural change |
 |---|---|
@@ -157,6 +169,8 @@ Note: "Yes" indicates the carrier appears on the bank channel's bancassurance sh
 
 ### Bank-side fee-income contribution (conceptual)
 
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, zenginkyo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; zenginkyo.or.jp; boj.or.jp]
+
 | Bank channel | Bancassurance fee-income role |
 |---|---|
 | MUFG Bank | Material contributor to retail fee income; rebalanced against AM and other fee lines |
@@ -169,6 +183,8 @@ Note: "Yes" indicates the carrier appears on the bank channel's bancassurance sh
 | Major regional banks | Significant retail fee-income contributor at many regionals |
 
 ### Insurer-side new business value (NBV) channel mix
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, zenginkyo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; zenginkyo.or.jp; boj.or.jp]
 
 | Insurer | Bancassurance NBV share (conceptual) | Notes |
 |---|---|---|
@@ -187,6 +203,8 @@ Note: "Yes" indicates the carrier appears on the bank channel's bancassurance sh
 
 ### FSA conduct-rule overlay
 
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, zenginkyo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; zenginkyo.or.jp; boj.or.jp]
+
 | Rule area | Application | Notes |
 |---|---|---|
 | Suitability for elderly customers | All bancassurance sales | Multi-year FSA guidance evolution; product-explanation procedures and recorded confirmation required |
@@ -198,6 +216,8 @@ Note: "Yes" indicates the carrier appears on the bank channel's bancassurance sh
 
 ### Foreign-currency annuity FX-risk transfer
 
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, zenginkyo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; zenginkyo.or.jp; boj.or.jp]
+
 | Axis | Foreign-currency single-premium annuity | Yen single-premium savings |
 |---|---|---|
 | FX risk | Transferred to policyholder at issuance | None |
@@ -208,6 +228,8 @@ Note: "Yes" indicates the carrier appears on the bank channel's bancassurance sh
 | ALM consequence for insurer | Asset / liability denominated in same foreign currency; FX risk net of policyholder behaviour | Standard yen ALM |
 
 ### Recent re-tie-up and structural changes (conceptual)
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, zenginkyo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; zenginkyo.or.jp; boj.or.jp]
 
 | Event / theme | Detail |
 |---|---|

@@ -7,8 +7,8 @@ aliases:
   - "policy-finance/hokkaido-credit-guarantee-corp"
 domain: "policy-finance"
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [policy-finance, credit-guarantee, prefecture-cgc, sme-finance, hokkaido]
@@ -30,6 +30,8 @@ This entry sits under [[policy-finance/INDEX|policy-finance index]] as one of th
 Hokkaido Credit Guarantee Corporation (北海道信用保証協会) is the Hokkaido-prefecture member of Japan's 51-corporation local credit guarantee system. Its guarantee book is structurally distinct from urban-prefecture corporations because Hokkaido's SME economy concentrates in agriculture-and-food (dairy, beef, potato, wheat, sugar beet, onion), fisheries-and-marine-processing (Pacific salmon, scallop, kelp, sea-urchin), tourism (inbound and Sapporo / Niseko ski / Hakodate / Otaru routes), and a comparatively thin manufacturing base. The dominant co-lending partners are [[regional-banks/hokkaido-bank|Hokkaido Bank (Hokuhoku FG)]] and [[regional-banks/hokuyo-bank|Hokuyo Bank]], plus a wide Hokkaido shinkin and credit-cooperative network and the agricultural cooperative ([[banking/ja-bank-system-japan|JA Bank]]) overlay.
 
 ## 1. 機関概要
+
+The following table is scoped to public primary sources (hokkaido-cgc.or.jp, zenshinhoren.or.jp, chusho.meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:hokkaido-cgc.or.jp; zenshinhoren.or.jp; chusho.meti.go.jp]
 
 | 項目 | 内容 |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: regional-banks/kiyo-bank
-source_hash: 85ed20c3d634067b
+source_hash: 784a1e4cef9df927
 lang: ja
 status: machine
 fidelity: ok
 title: "株式会社紀陽銀行 (The Kiyo Bank)"
-translated_at: 2026-06-02T14:54:39.037Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 株式会社紀陽銀行 (The Kiyo Bank)
 
@@ -42,6 +42,8 @@ translated_at: 2026-06-02T14:54:39.037Z
 
 ### 重要年表（抜粋）
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | 年月 | 事象 |
 |---|---|
 | **1895** | **紀陽銀行 創業**（明治 28、和歌山）|
@@ -52,6 +54,8 @@ translated_at: 2026-06-02T14:54:39.037Z
 | 2022-04 | 東証市場区分見直し → 東証 PRIME 8370（旧東証一部から移行）|
 
 ## 2. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

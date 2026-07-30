@@ -1,11 +1,11 @@
 ---
 source: payment-firms/paidy
-source_hash: f7f69b28b32e18d8
+source_hash: f4b3dd0a0c1ccc29
 lang: en
 status: machine
 fidelity: ok
 title: "株式会社ペイディ (Paidy)"
-translated_at: 2026-06-19T06:09:18.049Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 株式会社ペイディ (Paidy)
@@ -31,6 +31,8 @@ Japan's first full-scale **BNPL (Buy Now Pay Later)** provider. Established 2008
 
 ### Main service lines
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Service | Details |
 |---|---|
 | **Paidy (pay-later)** | Pay with email + phone number, pay in full the next month via convenience store / bank transfer / account debit |
@@ -40,6 +42,8 @@ Japan's first full-scale **BNPL (Buy Now Pay Later)** provider. Established 2008
 | **Amazon Japan pay-later** | Amazon's official "pay-later" payment provider |
 
 ### Key timeline ^[extracted]
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Year/month | Event |
 |---|---|
@@ -57,6 +61,8 @@ Japan's first full-scale **BNPL (Buy Now Pay Later)** provider. Established 2008
 
 ## 2. Business segment map
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Segment | Main business | Characteristics |
 |---|---|---|
 | BNPL lump-sum | Paidy (pay-later) | Email + phone-number authentication, credit-screening AI, merchant-fee model |
@@ -71,6 +77,8 @@ Japan's first full-scale **BNPL (Buy Now Pay Later)** provider. Established 2008
 - **Fee model**: merchant-side fees (higher than credit cards) + consumer-side fees for installments (lump-sum is free)
 
 ### Competitive map
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Competitor | Parent group | Position |
 |---|---|---|

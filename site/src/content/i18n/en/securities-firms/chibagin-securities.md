@@ -1,11 +1,11 @@
 ---
 source: securities-firms/chibagin-securities
-source_hash: 2a13f69e066fd450
+source_hash: 63d63e51115928e2
 lang: en
 status: machine
 fidelity: ok
 title: "Chibagin Securities (ちばぎん証券)"
-translated_at: 2026-06-19T12:43:19.937Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Chibagin Securities (ちばぎん証券)
 
@@ -18,6 +18,8 @@ This entry sits under the [[securities-firms/INDEX|securities-firms INDEX]] as t
 Chibagin Securities Co., Ltd. is a regional-bank-affiliated securities company that is a [[regional-banks/chiba-bank|千葉銀行 (東証 PRIME 8331)]] 100% subsidiary, based in Chiba Prefecture and the eastern metropolitan area, providing retail brokerage, public and private bond placement intermediation, investment trusts, fund wraps, and business-succession advisory to individual high-net-worth and mid-tier corporate main-bank customers. It holds a Type I Financial Instruments Business (securities business) license and is a full member of [[financial-regulators/jsda|日本証券業協会]]. **Its predecessor is the former Chuo Securities**, which was part of the former Yamaichi Securities lineage, but after Yamaichi's collapse, Chiba Bank became the top shareholder and brought it into the group, **changing its trade name to "Chibagin Securities" at 2011-01 ** and **becoming a wholly owned subsidiary of Chiba Bank via a share exchange at 2011-10 **. Because Chiba Bank is a standalone bank that has not formed a holding company (no-holding model), Chibagin Securities has a structure hanging directly under the parent bank, with a legal position different from the bank-securities sibling-company model under a holding company such as [[regional-banks/mebuki-fg]] / [[regional-banks/fukuoka-fg]]. ^[extracted]
 
 ## 1. Company overview
+
+The following table is scoped to public primary sources (chibagin-sec.co.jp, chibabank.co.jp, disclosure.edinet-fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:chibagin-sec.co.jp; chibabank.co.jp; disclosure.edinet-fsa.go.jp; fsa.go.jp]
 
 | Item | Notes |
 |---|---|
@@ -48,6 +50,8 @@ Chibagin Securities Co., Ltd. is a regional-bank-affiliated securities company t
 
 ## 2. Business lines and revenue structure
 
+The following table is scoped to public primary sources (chibagin-sec.co.jp, chibabank.co.jp, disclosure.edinet-fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:chibagin-sec.co.jp; chibabank.co.jp; disclosure.edinet-fsa.go.jp; fsa.go.jp]
+
 | Segment | Characteristics |
 |---|---|
 | Retail brokerage | Stock, investment-trust, and bond intermediation for individual investors based in Chiba Prefecture and the eastern metropolitan area |
@@ -61,6 +65,8 @@ Chibagin Securities Co., Ltd. is a regional-bank-affiliated securities company t
 
 ### Intra-group cross-links
 
+The following table is scoped to public primary sources (chibagin-sec.co.jp, chibabank.co.jp, disclosure.edinet-fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:chibagin-sec.co.jp; chibabank.co.jp; disclosure.edinet-fsa.go.jp; fsa.go.jp]
+
 | Group company | Cooperation content |
 |---|---|
 | [[regional-banks/chiba-bank]] | Corporate / individual customer referrals, securities counters inside bank branches, over-the-counter investment-trust sales at the bank |
@@ -68,6 +74,8 @@ Chibagin Securities Co., Ltd. is a regional-bank-affiliated securities company t
 | Chibagin Research Institute | Provision of Chiba Prefecture economic / industry reports |
 
 ### Regional-bank-affiliated securities peer comparison
+
+The following table is scoped to public primary sources (chibagin-sec.co.jp, chibabank.co.jp, disclosure.edinet-fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:chibagin-sec.co.jp; chibabank.co.jp; disclosure.edinet-fsa.go.jp; fsa.go.jp]
 
 | Securities subsidiary | Parent bank / FG | Parent-company model | Base | Listing |
 |---|---|---|---|---|

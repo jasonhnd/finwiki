@@ -1,11 +1,11 @@
 ---
 source: regional-banks/ikeda-senshu-bank
-source_hash: 6ec6c7f75ace3015
+source_hash: eea90fc05117de0b
 lang: en
 status: machine
 fidelity: ok
 title: "Ikeda Senshu Bank"
-translated_at: 2026-06-19T12:43:19.947Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Ikeda Senshu Bank
@@ -20,6 +20,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 Ikeda Senshu Bank, Ltd. is a regional bank headquartered in Osaka Prefecture and listed in the FSA's bank license registry. It is the core operating bank of [[regional-banks/ikeda-senshu-hd]], treated as the bank-license entity following the integration of the former Ikeda Bank and the former Senshu Bank.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, sihd-bk.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sihd-bk.jp]
 
 | Item | Notes |
 |---|---|

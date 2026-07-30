@@ -1,11 +1,11 @@
 ---
 source: regional-banks/shimane-bank
-source_hash: 567dd9fc0f991159
+source_hash: ae1c95bba38e83ef
 lang: ja
 status: machine
 fidelity: ok
 title: "島根銀行"
-translated_at: 2026-06-02T15:14:17.135Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 島根銀行
@@ -20,6 +20,8 @@ translated_at: 2026-06-02T15:14:17.135Z
 株式会社島根銀行は、金融庁の銀行免許一覧に掲載される島根県本店の第二地方銀行。山陰の second-regional-bank operating-company anchor であり、[[regional-banks/san-in-godo-bank]] とは別法人の local peer、[[megabanks/sbi-regional-bank-hd]] とは資本業務提携先として扱う。
 
 ## 1. 免許・グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, shimagin.co.jp, sbigroup.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; shimagin.co.jp; sbigroup.co.jp]
 
 | 項目 | 備考 |
 |---|---|

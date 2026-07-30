@@ -1,11 +1,11 @@
 ---
 source: regional-banks/okinawa-kaiho-bank
-source_hash: 2f4f41c469235878
+source_hash: 6b24aa471c67b97d
 lang: en
 status: machine
 fidelity: ok
 title: "The Okinawa Kaiho Bank, Ltd."
-translated_at: 2026-06-19T12:43:19.936Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # The Okinawa Kaiho Bank, Ltd.
@@ -43,6 +43,8 @@ A second-tier regional bank based in Okinawa Prefecture (TSE STD **8554**, abbre
 
 ### Position within Okinawa Prefecture's 3 行 oligopoly structure
 
+The following table is scoped to public primary sources (fsa.go.jp, kaiho-bank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; kaiho-bank.co.jp]
+
 | Bank | Within-prefecture position | Deposit-lending share | Established | Form | Listing |
 |---|---|---|---|---|---|
 | **Bank of Okinawa** (under [[regional-banks/okinawa-fg]])| Within-prefecture No.1 | approx. 30% | 1956 | Trust-combined + holding-company formation (2021-10)| PRIME 7350 (FG)|
@@ -65,6 +67,8 @@ Okinawa Kaiho Bank (standalone listing 8554)
 > Subsidiary scale and names should be checked against the latest disclosure publication. Because it is No.3  in scale within Okinawa Prefecture, it has a structure centered on core banking operations rather than the systematic group expansion of Bank of Okinawa and Bank of the Ryukyus.
 
 ## 2. Business segment map
+
+The following table is scoped to public primary sources (fsa.go.jp, kaiho-bank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; kaiho-bank.co.jp]
 
 | Segment | Characteristics |
 |---|---|

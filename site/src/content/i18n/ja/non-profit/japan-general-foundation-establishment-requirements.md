@@ -1,11 +1,11 @@
 ---
 source: non-profit/japan-general-foundation-establishment-requirements
-source_hash: ddb647e6561b38b6
+source_hash: 42ee3bd342c03969
 lang: ja
 status: machine
 fidelity: ok
 title: "日本 一般財団法人 設立要件・プロセス"
-translated_at: 2026-06-19T13:31:34.045Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本 一般財団法人 設立要件・プロセス
@@ -23,6 +23,8 @@ This entry sits under [[non-profit/japan-research-grant-map-2026|日本 研究�
 - **一般社団法人及び一般財団法人に関する法律**（平成18年法律第48号）
 
 ## 必要機関（全て強制）
+
+以下の表は、エントリ出典インベントリの公開一次資料（laws.e-gov.go.jp, koshonin.gr.jp, moj.go.jp）の範囲に限定して読む。^[source:laws.e-gov.go.jp; koshonin.gr.jp; moj.go.jp]
 
 | 機関 | 員数 | 根拠条文 |
 |------|------|---------|
@@ -44,6 +46,8 @@ This entry sits under [[non-profit/japan-research-grant-map-2026|日本 研究�
 
 ## 任期
 
+以下の表は、エントリ出典インベントリの公開一次資料（laws.e-gov.go.jp, koshonin.gr.jp, moj.go.jp）の範囲に限定して読む。^[source:laws.e-gov.go.jp; koshonin.gr.jp; moj.go.jp]
+
 | 機関 | 任期 | 定款伸長可否 | 根拠 |
 |------|------|-------------|------|
 | 理事 | 選任後 2 年以内の最終事業年度定時評議員会終結時まで | 不可 | 第 66 条準用 |
@@ -57,6 +61,8 @@ This entry sits under [[non-profit/japan-research-grant-map-2026|日本 研究�
 → 実質的に **年 4 回以上** の理事会開催が法的に要求される。
 
 ## 設立費用（ミニマム）
+
+以下の表は、エントリ出典インベントリの公開一次資料（laws.e-gov.go.jp, koshonin.gr.jp, moj.go.jp）の範囲に限定して読む。^[source:laws.e-gov.go.jp; koshonin.gr.jp; moj.go.jp]
 
 | 項目 | 金額 | 根拠 |
 |------|------|------|

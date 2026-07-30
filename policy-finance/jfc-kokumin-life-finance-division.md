@@ -12,8 +12,8 @@ aliases:
   - "国金"
 domain: policy-finance
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [policy-finance, jfc, micro-finance, startup-finance, education-loan, personal-lending, covid-zerozero, marukei, small-business, safety-net]
@@ -40,6 +40,8 @@ This entry sits under [[policy-finance/INDEX|policy-finance index]] as the third
 JFC 国民生活事業 (National Life Finance Division, often abbreviated as "国民生活" or its predecessor's name "国金") is the largest of JFC's three product-bearing divisions by **branch count, borrower count, and product-line breadth** — though smaller than the SME Division by average ticket size. It is the successor to the former **国民生活金融公庫** (Kokumin Seikatsu Kinyu Koko), folded into JFC at the 2008-10-01 four-institution merger. Its core mandate is to lend to **individuals, sole proprietors, micro-enterprises, and very small businesses** where mainstream commercial banks do not have an underwriting model that fits the ticket size, the lack of collateral, or the borrower's lifecycle position. The portfolio splits into four lanes: (1) **personal lending** including small-business start-up loans (marquee product: **新創業融資制度**, up to ¥30 million, no collateral, no personal guarantee), (2) **小規模事業者経営改善資金 (マル経融資)** — the 商工会議所 / 商工会-recommended unsecured working-capital loan, (3) **教育貸付** (educational loans) — JFC's parallel-with-JASSO scholarship loan for university and other higher-education tuition, and (4) **セーフティネット貸付** + **危機対応** lanes that absorbed the bulk of COVID-era **実質無利子・無担保 (ゼロゼロ) lending**. The branch footprint (~150 国民生活 branches) is the densest of any policy-finance division, and the post-pandemic exit phase — restructuring of COVID-vintage loans through 2024–2027 — is the most consequential operating challenge the division has faced since the post-Lehman / post-Tohoku cycle.
 
 ## 1. 部門位置 within JFC
+
+The following table is scoped to public primary sources (jfc.go.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jfc.go.jp; meti.go.jp]
 
 | Item | Detail |
 |---|---|
@@ -139,6 +141,8 @@ The division's underwriting, monitoring, and restructuring capacity is therefore
 
 ### JASSO vs JFC 教育貸付 — operational distinction
 
+The following table is scoped to public primary sources (jfc.go.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jfc.go.jp; meti.go.jp]
+
 | Dimension | JFC 教育一般貸付 (国の教育ローン) | [[policy-finance/japan-student-services-organization|JASSO]] scholarship loan |
 |---|---|---|
 | Borrower | Parent / guardian | Student |
@@ -190,6 +194,8 @@ The 民間補完 doctrine applies — JFC fills gaps where private credit alone 
 The multi-ministry supervision pattern reflects the division's breadth — it touches sectoral policy (METI), education policy (MEXT), welfare policy (MHLW), and core public-finance allocation (MoF) simultaneously.
 
 ## 7. Comparative position — 国民生活 vs adjacent lanes
+
+The following table is scoped to public primary sources (jfc.go.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jfc.go.jp; meti.go.jp]
 
 | Dimension | JFC 国民生活 | [[policy-finance/jfc-sme-division-operating-model\|JFC SME Division]] | [[policy-finance/japan-credit-guarantee-system\|信用保証協会]] system | [[policy-finance/japan-student-services-organization\|JASSO]] | Private 信用金庫 / 信用組合 microlending |
 |---|---|---|---|---|---|

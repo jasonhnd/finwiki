@@ -1,11 +1,11 @@
 ---
 source: regional-banks/toho-bank
-source_hash: 5af1f465664b2356
+source_hash: bfa0fb19e6f3d50c
 lang: en
 status: machine
 fidelity: ok
 title: "Toho Bank (東邦銀行)"
-translated_at: 2026-06-19T12:43:19.937Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Toho Bank (東邦銀行)
 
@@ -55,6 +55,8 @@ Toho Bank (standalone, listed 8346)
 
 ### Wartime-consolidation period: launch under the one-prefecture-one-bank policy
 
+The following table is scoped to public primary sources (tohobank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:tohobank.co.jp]
+
 | Year/Month | Event |
 |---|---|
 | 1872 | National Bank Ordinance promulgated |
@@ -65,12 +67,16 @@ Toho Bank (standalone, listed 8346)
 
 ### Postwar〜bubble period
 
+The following table is scoped to public primary sources (tohobank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:tohobank.co.jp]
+
 | Year/Month | Event |
 |---|---|
 | 1950s〜1980s | Expanded its branch network across all of Fukushima Prefecture during the high-growth period, advancing into neighboring prefectures such as the metropolitan area, Miyagi, and Ibaraki |
 | 1990s | Maintained the standalone path even through the regional-bank-industry reorganization period after the bursting of the bubble |
 
 ### Great East Japan Earthquake + nuclear accident (most important) ★
+
+The following table is scoped to public primary sources (tohobank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:tohobank.co.jp]
 
 | Year/Month | Event |
 |---|---|
@@ -87,6 +93,8 @@ Toho Bank (standalone, listed 8346)
 
 ### Competitive landscape
 
+The following table is scoped to public primary sources (tohobank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:tohobank.co.jp]
+
 | Competitor | Base | Relationship |
 |---|---|---|
 | **Daito Bank** | Koriyama City, Fukushima Prefecture | A second-tier regional bank in Fukushima Prefecture, competing in SMEs and small-scale corporates |
@@ -97,6 +105,8 @@ Toho Bank (standalone, listed 8346)
 | **Shinkin / shinkumi** (Fukushima Shinkin, etc.)| Various locations | Local micro-corporates / individuals |
 
 ### Sense of scale (based on public information)
+
+The following table is scoped to public primary sources (tohobank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:tohobank.co.jp]
 
 | Item | Scale |
 |---|---|

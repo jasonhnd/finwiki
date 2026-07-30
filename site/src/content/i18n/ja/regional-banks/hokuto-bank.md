@@ -1,11 +1,11 @@
 ---
 source: regional-banks/hokuto-bank
-source_hash: fcea93d5a38a5bec
+source_hash: ca9b33ea1cbfc1e9
 lang: ja
 status: machine
 fidelity: ok
 title: "北都銀行"
-translated_at: 2026-06-15T04:09:41.172Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 北都銀行
@@ -20,6 +20,8 @@ translated_at: 2026-06-15T04:09:41.172Z
 株式会社北都銀行 (The Hokuto Bank) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される秋田県本店の地方銀行 (第一地銀)、[[regional-banks/fidea-hd|フィデアホールディングス]] 傘下の operating bank。2024-11 公表のとおり、同じ FG 傘下の [[regional-banks/shonai-bank|荘内銀行]]（山形）と **2027 年 1 月に合併**し「フィデア銀行」（本店：山形市）として発足する予定。事業の中身は秋田県内の預金受入と中小企業・個人・自治体向け貸出という地方銀行の標準モデル。
 
 ## 1. ライセンス / グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, hokutobank.co.jp, nikkinonline.com）の範囲に限定して読む。^[source:fsa.go.jp; hokutobank.co.jp; nikkinonline.com]
 
 | 項目 | 備考 |
 |---|---|

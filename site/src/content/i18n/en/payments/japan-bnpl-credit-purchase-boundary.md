@@ -1,11 +1,11 @@
 ---
 source: payments/japan-bnpl-credit-purchase-boundary
-source_hash: 39e2fd462fc30fa4
+source_hash: d77ef84473e21662
 lang: en
 status: machine
 fidelity: ok
 title: "Japan BNPL and credit-purchase boundary"
-translated_at: 2026-06-01T03:31:12.225Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan BNPL and credit-purchase boundary
@@ -17,6 +17,8 @@ BNPL in Japan is best treated as a checkout-credit boundary, not as a separate m
 Use this page with [[payments/INDEX|payments domain]], [[payment-firms/bnpl-landscape|Japan BNPL landscape]], [[payment-firms/paidy|Paidy]], [[card-issuers/installment-sales-act-2020-amendment|Installment Sales Act 2020 amendment]], [[payments/japan-card-issuer-acquirer-processor-split|card issuer / acquirer / processor split]], [[payments/credit-purchase-card-operators-japan-index|credit-purchase registry]], and [[payments/cashless-jp-landscape|cashless landscape]].
 
 ## Boundary Map
+
+The following table is scoped to public primary sources (meti.go.jp, j-credit.or.jp, caa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; j-credit.or.jp; caa.go.jp; investor.pypl.com]
 
 | Product pattern | First classification question | Control route |
 |---|---|---|
@@ -38,6 +40,8 @@ Japan had mature installment-sales and card-installment infrastructure before th
 - wallet / points ecosystems around [[payment-firms/paypay|PayPay]], [[payment-firms/rakuten-fg|Rakuten FG]], and [[payment-firms/mercari-hd|Mercari HD]].
 
 ## Risk Questions
+
+The following table is scoped to public primary sources (meti.go.jp, j-credit.or.jp, caa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; j-credit.or.jp; caa.go.jp; investor.pypl.com]
 
 | Risk | Question |
 |---|---|

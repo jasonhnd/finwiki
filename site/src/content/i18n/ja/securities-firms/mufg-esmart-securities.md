@@ -1,11 +1,11 @@
 ---
 source: securities-firms/mufg-esmart-securities
-source_hash: 84779fb04dc5573a
+source_hash: 5697845a7f645335
 lang: ja
 status: machine
 fidelity: ok
 title: "三菱UFJ eスマート証券"
-translated_at: 2026-06-15T04:09:41.184Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 三菱UFJ eスマート証券
@@ -19,6 +19,8 @@ translated_at: 2026-06-15T04:09:41.184Z
 三菱UFJ eスマート証券株式会社は、[[megabanks/mufg|MUFG]] グループのオンライン証券オペレーター。旧 auカブコム証券の系譜を持ち、公開プレスリリースによれば 2025 年 1 月末に [[megabanks/mufg-bank|三菱UFJ銀行]] の 100% 子会社となり、2025 年 2 月に「三菱UFJ eスマート証券」へ改称した。金融商品取引法上の **第一種金融商品取引業者** として金融庁の金融商品取引業者一覧に掲載される（関東財務局長(金商)第61号）。
 
 ## 1. 免許／グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, kabu.com）の範囲に限定して読む。^[source:fsa.go.jp; kabu.com]
 
 | 項目 | 備考 |
 |---|---|

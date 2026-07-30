@@ -1,11 +1,11 @@
 ---
 source: regional-banks/chukyo-bank
-source_hash: 0edba55de968e138
+source_hash: 7cdf98871bd713af
 lang: en
 status: machine
 fidelity: ok
 title: "中京銀行 (Chukyo Bank, historical)"
-translated_at: 2026-06-19T12:43:19.902Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 中京銀行 (Chukyo Bank, historical)
@@ -19,6 +19,8 @@ This entry sits under the [[regional-banks/INDEX|regional-banks INDEX]] as the *
 Chukyo Bank, Ltd. (株式会社中京銀行) was a second regional bank headquartered in Nagoya City, Aichi Prefecture, that **merged with the former Aichi Bank in 2025-01-01 and was consolidated into [[regional-banks/aichi-bank|あいち銀行]]** (operating boundary migration complete). Established through the 1953 年 consolidation of "第三相互無尽 + 第十七相互無尽," it was a typical "mutual-bank-origin second regional bank" that went through the path of mutual savings bank → second regional bank ordinary-bank conversion. The former securities code **TSE 8530** was delisted at the time of [[regional-banks/aichi-fg|あいち FG]]'s establishment (2022-10), and this page is positioned not as the current legal entity but as a pre-merger historical anchor. ^[extracted]
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, aichibank.co.jp, aichi-fg.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; aichibank.co.jp; aichi-fg.co.jp; dainichiginkyo.or.jp]
 
 | Item | Notes |
 |---|---|
@@ -72,6 +74,8 @@ Before 2022-10 : independent second regional bank (TSE PRIME 8530)
 
 Source: あいち FG 有価証券報告書「中京銀行 単体情報」(2024-03-31 / 2023 年 year).
 
+The following table is scoped to public primary sources (fsa.go.jp, aichibank.co.jp, aichi-fg.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; aichibank.co.jp; aichi-fg.co.jp; dainichiginkyo.or.jp]
+
 | 項目 | 概況 |
 |---|---|
 | 預金残高 (単体, 2024-03 末) | 1 兆 9,642 億円 (1,964,221 百万円) |
@@ -82,6 +86,8 @@ Source: あいち FG 有価証券報告書「中京銀行 単体情報」(2024-0
 | 旧上場コード | 東証 PRIME 8530 (2022-09-29 上場廃止) |
 
 ## 5. 業務線 (pre-merger)
+
+The following table is scoped to public primary sources (fsa.go.jp, aichibank.co.jp, aichi-fg.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; aichibank.co.jp; aichi-fg.co.jp; dainichiginkyo.or.jp]
 
 | セグメント | 特徴 |
 |---|---|

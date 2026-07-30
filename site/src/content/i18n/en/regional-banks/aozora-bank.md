@@ -1,11 +1,11 @@
 ---
 source: regional-banks/aozora-bank
-source_hash: 03ace4f934cad710
+source_hash: 2162c62d5d69cfc1
 lang: en
 status: machine
 fidelity: ok
 title: "Aozora Bank (あおぞら銀行)"
-translated_at: 2026-06-19T12:43:19.971Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Aozora Bank (あおぞら銀行)
@@ -29,6 +29,8 @@ A mid-tier independent bank of the old **Nippon Credit Bank (NCB, 日債銀)** l
 
 ### Major shareholder composition (transition) ^[extracted]
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Period | Largest shareholder | Ratio | Notes |
 |---|---|---|---|
 | 1998-12〜2000-09 | Japanese government (special public management)| - | Temporary nationalization |
@@ -50,6 +52,8 @@ Aozora Bank (single-entity listed without holding-company conversion 8304)
 ```
 
 ### Key chronology ^[extracted]
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Year/month | Event |
 |---|---|
@@ -75,6 +79,8 @@ Aozora Bank (single-entity listed without holding-company conversion 8304)
 - Since conversion to an ordinary bank, the central channel for retail expansion
 
 ## 2. Business segment map
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Segment | Flagship product | Characteristics |
 |---|---|---|

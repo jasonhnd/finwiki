@@ -1,11 +1,11 @@
 ---
 source: payments/credit-purchase-card-operators-japan-index
-source_hash: 07b1fbcddfe020a0
+source_hash: 0a6e1a5e331d6059
 lang: en
 status: machine
 fidelity: ok
 title: "Japan credit purchase and card operator registry index"
-translated_at: 2026-06-01T03:31:12.249Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Japan credit purchase and card operator registry index
 
@@ -17,6 +17,8 @@ Read this page with [[payments/card-acquiring-japan-stack|Japan card acquiring s
 
 ## Registry Snapshot
 
+The following table is scoped to public primary sources (meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp]
+
 | Registry | As-of date | Count | Wiki treatment |
 |---|---:|---:|---|
 | 登録包括信用購入あっせん業者 | 2026-04 month-end | 241 | Route material card issuers / credit companies; keep regional long tail in METI PDFs. |
@@ -25,6 +27,8 @@ Read this page with [[payments/card-acquiring-japan-stack|Japan card acquiring s
 | クレジットカード番号等取扱契約締結事業者 | 2026-04 month-end | 275 | Use for acquirers, merchant PSPs, and card-number handling responsibility. |
 
 ## Boundary
+
+The following table is scoped to public primary sources (meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp]
 
 | Boundary | Treatment |
 |---|---|
@@ -35,6 +39,8 @@ Read this page with [[payments/card-acquiring-japan-stack|Japan card acquiring s
 | Prepaid issuer | Use FSA prepaid registration and [[payments/prepaid-payment-instrument-issuers-japan-index]]. |
 
 ## Existing Material Wiki Routes
+
+The following table is scoped to public primary sources (meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp]
 
 | Segment | Routes | Why these are standalone |
 |---|---|---|

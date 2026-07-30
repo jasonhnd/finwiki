@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/gen-re-japan
-source_hash: 22756b8bb5dc9b80
+source_hash: b59444a3622e0c90
 lang: en
 status: machine
 fidelity: ok
 title: "General Reinsurance Japan Branch"
-translated_at: 2026-06-19T06:09:18.119Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # General Reinsurance Japan Branch
@@ -19,6 +19,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 The Japan branch of General Reinsurance AG / General Re Corporation. A world-leading reinsurance company that is a **wholly owned subsidiary of Berkshire Hathaway 100%**, listed on the FSA non-life insurance company license list (foreign non-life insurers, etc.). It is a traditional global reinsurance brand alongside Munich Re / Swiss Re, known for its conservative underwriting discipline under the Warren Buffett regime.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (genre.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:genre.com; fsa.go.jp]
 
 | Item | Notes |
 |---|---|

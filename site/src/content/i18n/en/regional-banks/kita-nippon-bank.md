@@ -1,11 +1,11 @@
 ---
 source: regional-banks/kita-nippon-bank
-source_hash: 6e0b3469fbd45244
+source_hash: 5d4bb90b61a86e1d
 lang: en
 status: machine
 fidelity: ok
 title: "The Kita-Nippon Bank"
-translated_at: 2026-06-15T04:09:41.146Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # The Kita-Nippon Bank
@@ -19,6 +19,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 The Kita-Nippon Bank, Ltd. (株式会社北日本銀行, Kitagin) is a second regional bank headquartered in Morioka City, Iwate Prefecture, holding a bank license under the Banking Act and listed on the FSA's bank license list. On the regional-bank surface within Iwate Prefecture it is treated as a licensed bank operating company alongside the first regional banks [[regional-banks/iwate-bank|岩手銀行]] and [[regional-banks/tohoku-bank|東北銀行]]. Its business is the standard second-regional-bank model of deposit-taking within the prefecture and lending to SMEs and individuals.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, kitagin.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; kitagin.co.jp]
 
 | Item | Notes |
 |---|---|

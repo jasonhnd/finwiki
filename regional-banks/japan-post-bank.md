@@ -9,8 +9,8 @@ aliases:
   - "Japan Post Bank profile"
 domain: regional-banks
 created: 2026-05-25
-last_updated: 2026-06-03
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [JapanFG, banking, postal-savings, listed, government-affiliated, japan-post-holdings, deposit-franchise]
@@ -39,6 +39,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] as the opera
 
 ## 1. Group and ownership position
 
+The following table is scoped to public primary sources (jp-bank.japanpost.jp, japanpost.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jp-bank.japanpost.jp; japanpost.jp]
+
 | Item | Reading |
 |---|---|
 | Legal name | 株式会社ゆうちょ銀行 |
@@ -65,6 +67,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] as the opera
 ```
 
 ### Reference timeline
+
+The following table is scoped to public primary sources (jp-bank.japanpost.jp, japanpost.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jp-bank.japanpost.jp; japanpost.jp]
 
 | Year | Event |
 |---|---|
@@ -117,6 +121,8 @@ Customer at 郵便局 counter
 ゆうちょ銀行 (Japan Post Bank) — account-holder, balance-sheet bearer
 ```
 
+The following table is scoped to public primary sources (jp-bank.japanpost.jp, japanpost.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jp-bank.japanpost.jp; japanpost.jp]
+
 | Surface | Operator | Customer experience |
 |---|---|---|
 | ~24,000 郵便局 counters nationwide | 日本郵便 (Japan Post) acting as banking agent | Same counter handles mail, parcel, and JPB transactions |
@@ -133,6 +139,8 @@ Customer at 郵便局 counter
 ## 4. KPI and profitability snapshot
 
 JPB's published headline financials show a structural pattern:
+
+The following table is scoped to public primary sources (jp-bank.japanpost.jp, japanpost.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jp-bank.japanpost.jp; japanpost.jp]
 
 | Dimension | Pattern |
 |---|---|
@@ -165,6 +173,8 @@ For point-in-time figures, refer to the most recent JPB 決算短信 / 有価証
 5. **Privatization-step compliance.** As Japan Post Holdings reduces its JPB stake, additional business-line approvals under the 郵政民営化委員会 framework become possible.
 
 ### Stacked regulation
+
+The following table is scoped to public primary sources (jp-bank.japanpost.jp, japanpost.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jp-bank.japanpost.jp; japanpost.jp]
 
 | Layer | Statute / regulator | Implication for JPB |
 |---|---|---|

@@ -1,11 +1,11 @@
 ---
 source: regional-banks/saga-bank
-source_hash: 4c2512cb662fa661
+source_hash: 5b517a6b3ad45d4f
 lang: en
 status: machine
 fidelity: ok
 title: "The Bank of Saga"
-translated_at: 2026-06-15T04:09:41.154Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # The Bank of Saga
@@ -19,6 +19,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 The Bank of Saga, Ltd. (株式会社佐賀銀行, "Sagin") is a regional bank (first-tier regional bank) headquartered in Saga City, Saga Prefecture, that holds a bank license under the Banking Act and is listed on the FSA's bank license list. It is the Saga prefecture first-regional-bank operating-company anchor, and it is treated as a standalone regional bank in northern Kyushu. Its business substance is in-prefecture deposit-taking and lending to SMEs, individuals, and local public entities.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, sagabank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sagabank.co.jp]
 
 | Item | Notes |
 |---|---|

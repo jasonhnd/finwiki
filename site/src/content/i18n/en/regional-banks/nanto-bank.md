@@ -1,11 +1,11 @@
 ---
 source: regional-banks/nanto-bank
-source_hash: 4046af040c4e4841
+source_hash: 6a2c4e7e5d337c4e
 lang: en
 status: machine
 fidelity: ok
 title: "株式会社南都銀行 (The Nanto Bank)"
-translated_at: 2026-07-28T20:55:25Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 株式会社南都銀行 (The Nanto Bank)
@@ -29,6 +29,8 @@ A standalone bank based in Nara Prefecture (one of the **regional banks that hav
 ^[Nanto Bank company profile: https://www.nantobank.co.jp/company/profile/outline.html; Nanto Bank history: https://www.nantobank.co.jp/company/profile/history.html]
 
 ### Key financials (FY2023, as of 2024-03-31)
+
+The following table is scoped to public primary sources (nantobank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:nantobank.co.jp]
 
 | 指標 | 数値 |
 |---|---|
@@ -62,6 +64,8 @@ A standalone bank based in Nara Prefecture (one of the **regional banks that hav
 
 ### Key chronology (excerpt)
 
+The following table is scoped to public primary sources (nantobank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:nantobank.co.jp]
+
 | 年月 | 事象 |
 |---|---|
 | 1878 | **第六十八国立銀行 設立**（奈良、明治期国立銀行条例下）|
@@ -72,6 +76,8 @@ A standalone bank based in Nara Prefecture (one of the **regional banks that hav
 | 2022-04 | 東証市場区分見直し → 東証 PRIME 8367（旧東証一部から移行）|
 
 ## 2. Business-segment map
+
+The following table is scoped to public primary sources (nantobank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:nantobank.co.jp]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

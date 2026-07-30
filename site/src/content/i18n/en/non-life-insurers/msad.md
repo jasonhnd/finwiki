@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/msad
-source_hash: 6ae7131c5d9f9782
+source_hash: 4a468ef84f35a80a
 lang: en
 status: machine
 fidelity: ok
 title: "MS&AD Insurance Group Holdings"
-translated_at: 2026-06-19T06:09:18.074Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # MS&AD Insurance Group Holdings
@@ -58,6 +58,8 @@ MS&AD HD (holding company, listed 8725)
 
 ### Key chronology
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Year/month | Event |
 |---|---|
 | 1893 | Sumitomo Marine & Fire Insurance founded |
@@ -75,6 +77,8 @@ MS&AD HD (holding company, listed 8725)
 
 ## 1.5 Financial KPI (FY2024 = 2025-03 period)
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Item | FY2024 (2025-03) | YoY |
 |---|---|---|
 | Ordinary revenue | **6.66 兆円** | — |
@@ -87,6 +91,8 @@ MS&AD HD (holding company, listed 8725)
 **FY2025 full-year forecast**: net profit **8,340 億円** (▲10.2% YoY). **Bond unrealized-loss pressure** (rising-rate phase) + assumed natural disasters + the pace of reducing strategically held shares, etc., are downward factors.
 
 ## 2. Business segment map
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Segment | Main operator | Features |
 |---|---|---|
@@ -130,6 +136,8 @@ In domestic non-life, MS&AD has taken a structure different from other majors, n
 ### Competitive structure
 
 Domestic 3 major non-life insurers:
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Group | Holding company | Non-life core | Features |
 |---|---|---|---|

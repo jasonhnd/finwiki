@@ -1,11 +1,11 @@
 ---
 source: payment-firms/american-express-international-japan
-source_hash: 87edffc3c31683b1
+source_hash: e62356fab972eca9
 lang: en
 status: machine
 fidelity: ok
 title: "American Express International Japan"
-translated_at: 2026-06-15T03:48:21.927Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # American Express International Japan
@@ -15,6 +15,8 @@ translated_at: 2026-06-15T03:48:21.927Z
 This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it against [[card-issuers/jcb|JCB]] for peer / contrast context (JCB and Amex are both 3-party schemes + have a history of partnership) and [[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]] for the broader system / regulatory boundary.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (americanexpress.com, meti.go.jp, global.jcb). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:americanexpress.com; meti.go.jp; global.jcb; jcb.co.jp]
 
 | Item | Notes |
 |---|---|

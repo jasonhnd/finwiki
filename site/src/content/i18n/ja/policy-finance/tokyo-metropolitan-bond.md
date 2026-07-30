@@ -1,11 +1,11 @@
 ---
 source: policy-finance/tokyo-metropolitan-bond
-source_hash: 2a081f32cafeda9e
+source_hash: e767cce557682f09
 lang: ja
 status: machine
 fidelity: ok
 title: "東京都債 (Tokyo-to-sai)"
-translated_at: 2026-06-19T12:43:19.909Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 東京都債 (Tokyo-to-sai)
@@ -17,6 +17,8 @@ translated_at: 2026-06-19T12:43:19.909Z
 本ページは、より広範な地方債市場の政策金融マップにおけるケーススタディとして [[policy-finance/INDEX|policy-finance index]] の下に位置する。
 
 ## 1. 発行体の境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（zaimu.metro.tokyo.lg.jp, chihousai.or.jp）の範囲に限定して読む。^[source:zaimu.metro.tokyo.lg.jp; chihousai.or.jp]
 
 | 項目 | 読み方 |
 |---|---|
@@ -41,6 +43,8 @@ translated_at: 2026-06-19T12:43:19.909Z
 ## 3. 発行プログラムのロジック
 
 東京都債の発行は以下によって形作られる：
+
+以下の表は、エントリ出典インベントリの公開一次資料（zaimu.metro.tokyo.lg.jp, chihousai.or.jp）の範囲に限定して読む。^[source:zaimu.metro.tokyo.lg.jp; chihousai.or.jp]
 
 | ドライバー | 効果 |
 |---|---|

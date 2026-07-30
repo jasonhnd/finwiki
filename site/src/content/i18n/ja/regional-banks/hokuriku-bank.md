@@ -1,11 +1,11 @@
 ---
 source: regional-banks/hokuriku-bank
-source_hash: 7305ff66b3cd7432
+source_hash: b90bf221bca025a0
 lang: ja
 status: machine
 fidelity: ok
 title: "北陸銀行"
-translated_at: 2026-06-15T04:09:41.162Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 北陸銀行
@@ -20,6 +20,8 @@ translated_at: 2026-06-15T04:09:41.162Z
 株式会社北陸銀行 (The Hokuriku Bank, ほくぎん) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される富山県本店の地方銀行 (第一地銀)。[[regional-banks/hokuhoku-fg|ほくほくフィナンシャルグループ]] の中核となる事業銀行で、北陸 3 県＋道内・首都圏・近畿への広域店舗網を持つため、[[regional-banks/hokkaido-bank|北海道銀行]] と並ぶほくほくグループのもう一つの銀行の柱。事業は地盤地域の預金受入と中小企業・個人・自治体向け貸出という地方銀行の標準モデル。
 
 ## 1. 免許 / グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, hokugin.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; hokugin.co.jp]
 
 | 項目 | 備考 |
 |---|---|

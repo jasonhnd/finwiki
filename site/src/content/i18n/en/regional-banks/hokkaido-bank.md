@@ -1,11 +1,11 @@
 ---
 source: regional-banks/hokkaido-bank
-source_hash: 95a94691c363e20a
+source_hash: 1d735a354aa7d622
 lang: en
 status: machine
 fidelity: ok
 title: "The Hokkaido Bank"
-translated_at: 2026-06-15T04:09:41.145Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # The Hokkaido Bank
@@ -20,6 +20,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 The Hokkaido Bank, Ltd. (株式会社北海道銀行, Dogin) is a regional bank (first regional bank) based in Hokkaido (Sapporo), holding a bank license under the Banking Act and listed on the FSA's bank license list. It is the banking operating company of [[regional-banks/hokuhoku-fg|ほくほくフィナンシャルグループ]], and one wing of a two-base model alongside [[regional-banks/hokuriku-bank|北陸銀行]] on the Hokuriku side. Its business is the standard regional-bank model of deposit-taking within Hokkaido and lending to SMEs, individuals, and municipalities.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, hokkaidobank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; hokkaidobank.co.jp]
 
 | Item | Notes |
 |---|---|

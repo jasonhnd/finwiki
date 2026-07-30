@@ -1,11 +1,11 @@
 ---
 source: securities/japan-ipo-listing-disclosure-route
-source_hash: 18d3cdbca6909e40
+source_hash: b0d485d653c94176
 lang: en
 status: machine
 fidelity: ok
 title: "Japan IPO listing disclosure route"
-translated_at: 2026-06-01T03:31:12.257Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Japan IPO listing disclosure route
 
@@ -16,6 +16,8 @@ Japan IPO records combine exchange listing review, securities registration discl
 This page belongs to [[securities/INDEX|securities domain]] and links to [[finance/INDEX|finance domain]], [[securities/tokyo-stock-exchange|Tokyo Stock Exchange]], [[financial-regulators/japan-exchange-group|Japan Exchange Group]], [[securities/japan-underwriting-market-structure|Japan underwriting market structure]], [[securities/japan-market-infrastructure-map|Japan market infrastructure map]], [[financial-licenses/securities-license-stack|Japan securities license stack]], [[finance/japan-ib-league-table|Japan IB league table]], and [[finance/japan-fair-disclosure-and-insider-trading-controls|fair disclosure and insider trading controls]].
 
 ## Route Map
+
+The following table is scoped to public primary sources (jpx.co.jp, disclosure2.edinet-fsa.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp; disclosure2.edinet-fsa.go.jp; jsda.or.jp; fsa.go.jp]
 
 | Layer | Public source route | Public record field |
 |---|---|---|
@@ -36,6 +38,8 @@ Initial listing criteria differ by segment. JPX publishes separate criteria and 
 
 ## Public Listing Route
 
+The following table is scoped to public primary sources (jpx.co.jp, disclosure2.edinet-fsa.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp; disclosure2.edinet-fsa.go.jp; jsda.or.jp; fsa.go.jp]
+
 | Stage | Public record fields |
 |---|---|
 | Pre-listing preparation | Audit status, internal control system, governance, capital policy, lead underwriter, listing segment. |
@@ -47,6 +51,8 @@ Initial listing criteria differ by segment. JPX publishes separate criteria and 
 | Post-listing disclosure | TDnet, EDINET, corporate governance report, earnings disclosure, shareholder meeting materials. |
 
 ## New-Listing Document FieldsJPX's public new-listings page provides rolling issuer records. The source pack records the following public document links commonly visible on the new-listings page:
+
+The following table is scoped to public primary sources (jpx.co.jp, disclosure2.edinet-fsa.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp; disclosure2.edinet-fsa.go.jp; jsda.or.jp; fsa.go.jp]
 
 | Document / field | Public content route |
 |---|---|
@@ -66,6 +72,8 @@ JPX states that TDnet-posted disclosure is made publicly inspectable at the same
 
 ## Timing Fields
 
+The following table is scoped to public primary sources (jpx.co.jp, disclosure2.edinet-fsa.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp; disclosure2.edinet-fsa.go.jp; jsda.or.jp; fsa.go.jp]
+
 | Source route | Timing field |
 |---|---|
 | JPX listing schedule page | Kickoff to listing is about one year depending on company internal systems. |
@@ -76,6 +84,8 @@ JPX states that TDnet-posted disclosure is made publicly inspectable at the same
 The JPX listing schedule page viewed in the source pack showed an update date of 2022-04-03. Timing fields are recorded as schedule-page fields, not issuer-specific actual timelines.
 
 ## IPO Document Fields
+
+The following table is scoped to public primary sources (jpx.co.jp, disclosure2.edinet-fsa.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp; disclosure2.edinet-fsa.go.jp; jsda.or.jp; fsa.go.jp]
 
 | Field | Document route |
 |---|---|

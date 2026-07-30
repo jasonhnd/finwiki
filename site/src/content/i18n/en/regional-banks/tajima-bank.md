@@ -1,11 +1,11 @@
 ---
 source: regional-banks/tajima-bank
-source_hash: 831e174ddcf24108
+source_hash: 5c2fbacefc44c94f
 lang: en
 status: machine
 fidelity: ok
 title: "The Tajima Bank"
-translated_at: 2026-06-15T04:09:41.148Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # The Tajima Bank
@@ -19,6 +19,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 The Tajima Bank, Ltd. (株式会社但馬銀行) is a regional bank (first regional bank) headquartered in Toyooka City, Hyogo Prefecture, holding a bank license under the Banking Act and listed on the FSA's bank license list. Its lineage is Mikumi Bank, founded in 1897 年, which changed to its current trade name in 1956 年. As the only first regional bank headquartered in Hyogo Prefecture, it holds a standalone anchor separate from the major Kansai bank groups. Its business is the standard regional-bank model of deposit-taking and lending to SMEs / individuals in northern Hyogo Prefecture (the Tajima area).
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, tajimabank.co.jp, ja.wikipedia.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; tajimabank.co.jp; ja.wikipedia.org]
 
 | Item | Notes |
 |---|---|

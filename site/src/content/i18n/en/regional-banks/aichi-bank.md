@@ -1,11 +1,11 @@
 ---
 source: regional-banks/aichi-bank
-source_hash: e30fff579634cc31
+source_hash: 66d2b20dc040ff38
 lang: en
 status: machine
 fidelity: ok
 title: "Aichi Bank"
-translated_at: 2026-05-31T11:13:44.951Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Aichi Bank
 
@@ -19,6 +19,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 Aichi Bank, Ltd. is a second regional bank headquartered in Aichi Prefecture and listed on the FSA bank-license list. Under [[regional-banks/aichi-fg]], it is treated as the operating bank after the integration of the former Aichi Bank and the former Chukyo Bank.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, aichibank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; aichibank.co.jp]
 
 | Item | Notes |
 |---|---|

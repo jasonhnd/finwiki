@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/bank-of-america-japan
-source_hash: 59513b491f613ac0
+source_hash: 5b69370d306af55d
 lang: en
 status: machine
 fidelity: ok
 title: "Bank of America Japan (バンク・オブ・アメリカ日本)"
-translated_at: 2026-06-18T23:59:13.053Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Bank of America Japan (バンク・オブ・アメリカ日本)
@@ -20,6 +20,8 @@ The Japan base of Bank of America, a major U.S. financial group that began opera
 
 ## 1. Company overview
 
+The following table is scoped to public primary sources (business.bofa.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:business.bofa.com; fsa.go.jp]
+
 | Item | Details |
 |---|---|
 | Parent company | Bank of America Corporation |
@@ -33,6 +35,8 @@ The Japan base of Bank of America, a major U.S. financial group that began opera
 Bank of America's official Japan page explains that it conducts its Japan operations through the 2  entities of BofA Securities Co., Ltd. and Bank of America, N.A., Tokyo Branch. In the FSA's list of foreign bank branches as well, Bank of America N.A. can be confirmed as a foreign bank branch.
 
 ## 2. Business segment map
+
+The following table is scoped to public primary sources (business.bofa.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:business.bofa.com; fsa.go.jp]
 
 | Business segment | Details | Customers |
 |---|---|---|

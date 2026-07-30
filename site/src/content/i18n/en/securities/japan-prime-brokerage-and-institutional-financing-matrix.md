@@ -1,11 +1,11 @@
 ---
 source: securities/japan-prime-brokerage-and-institutional-financing-matrix
-source_hash: 8f475cc2e9a55a28
+source_hash: 1eb470c7b710c7e7
 lang: en
 status: machine
 fidelity: ok
 title: "Japan prime brokerage and institutional financing matrix"
-translated_at: 2026-06-01T03:31:12.311Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan prime brokerage and institutional financing matrix
@@ -173,6 +173,8 @@ Without provider-level decomposition, a $50m macro hedge fund launching in Tokyo
 
 ## Cross-provider comparison table
 
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, jpx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; jpx.co.jp; jasdec.com]
+
 | Dimension | Nomura | Daiwa SG | SMBC Nikko | Mizuho Securities | SBI Securities | GS Japan | MS Japan / MUMSS | JPM Japan | Citi Japan | BofA Japan |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Provider archetype** | Independent IB (domestic) | Independent IB (domestic) | Megabank arm (SMFG) | Megabank arm (Mizuho FG) | Online-broker-rooted | Global IB | Global IB + MUFG JV | Global IB + banking | Global IB + FX/rates depth | Global IB |
@@ -202,6 +204,8 @@ Note on collateral haircuts: published indicative ranges (Nomura: cash 0%, JGB 2
 ## Stock-loan fee benchmark guide
 
 Public-source benchmarks for the SLB (securities lending and borrowing) market in Japan come from JSDA self-regulatory aggregate publications, [[financial-regulators/japan-securities-finance|Japan Securities Finance]] published rate references, and JPX margin-trading statistics. **Indicative fee ranges** for institutional stock borrow in Japan (highly variable by name, concentration, recall risk, corporate-action proximity, and counterparty):
+
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, jpx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; jpx.co.jp; jasdec.com]
 
 | Borrow tier | Indicative annualized fee range | Typical names |
 |---|---|---|

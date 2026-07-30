@@ -1,11 +1,11 @@
 ---
 source: payment-firms/merpay
-source_hash: 40165e53fa7543b4
+source_hash: 21720ec686ee5981
 lang: ja
 status: machine
 fidelity: ok
 title: "メルペイ (Merpay)"
-translated_at: 2026-06-26T03:26:36.038Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # メルペイ (Merpay)
@@ -18,6 +18,8 @@ translated_at: 2026-06-26T03:26:36.038Z
 ## 要点メルペイは [[payment-firms/mercari-hd|メルカリ]] の決済・与信運営会社。公式 About は資金移動業、前払式支払手段、信用購入あっせん、貸金業などの登録を示しており、マーケットプレイス残高、ウォレット、与信の接続点として独立ページが必要になる。^[verified-2026-06-24]
 
 ## 1. 法人・ライセンス境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（jp.merpay.com, fsa.go.jp, static.jp.mercari.com）の範囲に限定して読む。^[source:jp.merpay.com; fsa.go.jp; static.jp.mercari.com]
 
 | 項目 | 読み方 |
 |---|---|

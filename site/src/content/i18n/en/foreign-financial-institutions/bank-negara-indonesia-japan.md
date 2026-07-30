@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/bank-negara-indonesia-japan
-source_hash: 807294d37b05a226
+source_hash: 1bdb791894f54705
 lang: en
 status: machine
 fidelity: ok
 title: "Bank Negara Indonesia Japan"
-translated_at: 2026-05-31T11:13:44.941Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Bank Negara Indonesia Japan
@@ -24,6 +24,8 @@ The page is worth standalone treatment because BNI combines a licensed foreign-b
 
 ## Entity Boundary
 
+The following table is scoped to public primary sources (fsa.go.jp, bni.co.id, ptbni.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; bni.co.id; ptbni.co.jp]
+
 |Item|Reading|
 |---|---|
 |Parent bank|PT Bank Negara Indonesia (Persero) Tbk|
@@ -33,6 +35,8 @@ The page is worth standalone treatment because BNI combines a licensed foreign-b
 |Regulatory route|FSA foreign-bank branch list; parent supervised by Indonesian authorities.|
 
 ## Business Role Map
+
+The following table is scoped to public primary sources (fsa.go.jp, bni.co.id, ptbni.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; bni.co.id; ptbni.co.jp]
 
 |Function|Japan relevance|
 |---|---|

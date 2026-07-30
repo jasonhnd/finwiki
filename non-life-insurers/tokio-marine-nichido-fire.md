@@ -9,8 +9,8 @@ aliases:
   - "non-life-insurers/tokio-marine-nichido"
 domain: non-life-insurers
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, insurance, non-life-insurance, tokio-marine, operating-company]
@@ -50,6 +50,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 東京海上日動火災保険株式会社は、[[non-life-insurers/tokio-marine]] group の core non-life insurance operating company。金融庁の損害保険会社免許一覧と損害保険契約者保護機構会員一覧に掲載される separate insurer で、parent holding company とは別に underwriting / claims / agency network boundary を持つ。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (tokiomarine-nichido.co.jp, fsa.go.jp, sonpohogo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:tokiomarine-nichido.co.jp; fsa.go.jp; sonpohogo.or.jp]
 
 | Item | Notes |
 |---|---|

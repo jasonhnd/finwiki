@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/bank-of-taiwan-japan
-source_hash: 2e263a34bc43fed7
+source_hash: e4c901fc652f4111
 lang: ja
 status: machine
 fidelity: ok
 title: "台湾銀行 東京支店"
-translated_at: 2026-06-18T23:59:13.073Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 台湾銀行 東京支店
@@ -20,6 +20,8 @@ translated_at: 2026-06-18T23:59:13.073Z
 台湾銀行 東京支店は、金融庁の外国銀行支店一覧に掲載される Taiwan / Bank of Taiwan の在日銀行支店。台湾の公的セクター銀行の系譜と日台間のビジネスフローをつなぐ支店アンカーとして扱う。
 
 ## 1. ライセンス / 支店の境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, bot.com.tw）の範囲に限定して読む。^[source:fsa.go.jp; bot.com.tw]
 
 | 項目 | 備考 |
 |---|---|

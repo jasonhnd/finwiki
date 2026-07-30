@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/first-commercial-bank-japan
-source_hash: 175ebe9e7a1f6fff
+source_hash: 934fed239ed19ddb
 lang: ja
 status: machine
 fidelity: ok
 title: "第一商業銀行日本 (First Commercial Bank Japan)"
-translated_at: 2026-06-18T23:59:13.095Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 第一商業銀行日本 (First Commercial Bank Japan)
@@ -24,6 +24,8 @@ translated_at: 2026-06-18T23:59:13.095Z
 
 ## 主体境界
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, firstbank.com.tw）の範囲に限定して読む。^[source:fsa.go.jp; firstbank.com.tw]
+
 | Item | 読み方 |
 |---|---|
 | 親銀行 | 第一商業銀行 |
@@ -34,6 +36,8 @@ translated_at: 2026-06-18T23:59:13.095Z
 | 規制ルート | FSA 外国銀行支店一覧。 |
 
 ## 業務上の役割マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, firstbank.com.tw）の範囲に限定して読む。^[source:fsa.go.jp; firstbank.com.tw]
 
 | 機能 | 日本での関連性 |
 |---|---|

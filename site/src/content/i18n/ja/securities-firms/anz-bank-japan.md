@@ -1,12 +1,12 @@
 ---
 source: securities-firms/anz-bank-japan
-source_hash: be1d06651ce54b11
+source_hash: 609de7eb2d15f6a5
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "ANZ銀行日本"
-translated_at: 2026-06-26T08:32:15.213Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # ANZ銀行日本
 
@@ -24,6 +24,8 @@ ANZ Japan は、単なるオーストラリア系銀行支店の登録行では�
 
 ## エンティティ / ライセンス構成
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, anz.com, ibajapan.org）の範囲に限定して読む。^[source:fsa.go.jp; anz.com; ibajapan.org]
+
 | レイヤー | 公開情報からの読み取り | ウィキ上の位置づけ |
 |---|---|---|
 | 外国銀行支店 | FSA の外国銀行支店一覧に Australia and New Zealand Banking Group の行がある。 | [[financial-licenses/foreign-bank-branch-license-route|foreign-bank branch route]] |
@@ -32,6 +34,8 @@ ANZ Japan は、単なるオーストラリア系銀行支店の登録行では�
 | グループ会員 / 協会 | IBA Japan は ANZ を金融グループ会員として示している。 | [[financial-licenses/foreign-financial-group-adjacent-licenses|adjacent-license route]] |
 
 ## 事業上の役割マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, anz.com, ibajapan.org）の範囲に限定して読む。^[source:fsa.go.jp; anz.com; ibajapan.org]
 
 | レーン | 日本 / コリドーでの意味 |
 |---|---|
@@ -42,6 +46,8 @@ ANZ Japan は、単なるオーストラリア系銀行支店の登録行では�
 | 証券業務 | ANZ Securities Japan / FIBO ルートは、販売、市場業務、資本市場商品で重要になる。 |
 
 ## ピア / 対比マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, anz.com, ibajapan.org）の範囲に限定して読む。^[source:fsa.go.jp; anz.com; ibajapan.org]
 
 | ピア | 対比点 |
 |---|---|

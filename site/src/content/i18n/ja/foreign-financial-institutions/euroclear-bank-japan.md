@@ -1,12 +1,12 @@
 ---
 source: foreign-financial-institutions/euroclear-bank-japan
-source_hash: 4d485c19c3b2d2ec
+source_hash: 77e2d54f76db774a
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "ユーロクリア・バンク日本 (Euroclear Bank Japan)"
-translated_at: 2026-06-26T08:32:15.223Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # ユーロクリア・バンク日本 (Euroclear Bank Japan)
 
@@ -34,6 +34,8 @@ Euroclear は市場インフラに隣接する存在である。ロングテー�
 
 ## 機能スタック
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, euroclear.com）の範囲に限定して読む。^[source:fsa.go.jp; euroclear.com]
+
 | レイヤー | 日本での関連性 | 主な根拠ルート |
 |---|---|---|
 | 外国銀行支店 | 金融庁の銀行免許一覧が日本支店の行を特定する。 | 金融庁の免許・登録金融機関一覧 / 都市銀行等・外国銀行支店 PDF。 |
@@ -44,6 +46,8 @@ Euroclear は市場インフラに隣接する存在である。ロングテー�
 
 ## 日本資産ルート
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, euroclear.com）の範囲に限定して読む。^[source:fsa.go.jp; euroclear.com]
+
 | 論点 | 読み方 |
 |---|---|
 | これは日本のリテール銀行か。 | いいえ。消費者向け銀行ではなく、ホールセールのポストトレード・インフラとして扱う。 |
@@ -53,6 +57,8 @@ Euroclear は市場インフラに隣接する存在である。ロングテー�
 | 次に開くべきページはどれか。 | [[securities/japan-market-infrastructure-map|market infrastructure map]]、[[banking/japan-trust-bank-custody-map|trust-bank カストディ map]]、[[securities/japan-stock-lending-market-route|stock lending route]]。 |
 
 ## ピア / 対照マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, euroclear.com）の範囲に限定して読む。^[source:fsa.go.jp; euroclear.com]
 
 | ピア | 対照点 |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: payment-firms/mercari-hd
-source_hash: e329f8602a58c36e
+source_hash: 4e1f2a4fec9316d6
 lang: ja
 status: machine
 fidelity: ok
 title: "メルカリ HD（株式会社メルカリ）"
-translated_at: 2026-07-28T20:15:36Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # メルカリ HD（株式会社メルカリ）
@@ -48,6 +48,8 @@ translated_at: 2026-07-28T20:15:36Z
 
 ### 重要年表
 
+以下の表は、エントリ出典インベントリの公開一次資料（about.mercari.com, www2.jpx.co.jp, jpx.co.jp）の範囲に限定して読む。^[source:about.mercari.com; www2.jpx.co.jp; jpx.co.jp; finance-frontend-pc-dist.west.edge.storage-yahoo.jp]
+
 | 年月 | 事象 |
 |---|---|
 | 2013-02-01 | 株式会社コウゾウ 設立（山田進太郎 創業）|
@@ -72,6 +74,8 @@ translated_at: 2026-07-28T20:15:36Z
 | **2025-06 期** | **売上収益 1,926 億円・当期利益 261 億円**（YoY +94%、3 期連続最高益）、**米国事業 初の通期黒字化** |
 
 ## 2. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（about.mercari.com, www2.jpx.co.jp, jpx.co.jp）の範囲に限定して読む。^[source:about.mercari.com; www2.jpx.co.jp; jpx.co.jp; finance-frontend-pc-dist.west.edge.storage-yahoo.jp]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -110,6 +114,8 @@ translated_at: 2026-07-28T20:15:36Z
 
 ### 競合構図
 
+以下の表は、エントリ出典インベントリの公開一次資料（about.mercari.com, www2.jpx.co.jp, jpx.co.jp）の範囲に限定して読む。^[source:about.mercari.com; www2.jpx.co.jp; jpx.co.jp; finance-frontend-pc-dist.west.edge.storage-yahoo.jp]
+
 | 領域 | 主な競合 |
 |---|---|
 | C2C フリマ | ヤフオク（LY）、ラクマ（楽天）、PayPay フリマ |
@@ -133,6 +139,8 @@ translated_at: 2026-07-28T20:15:36Z
   - 個人情報保護法・古物営業法 → メルカリ本体の出品管理
 
 ## 経営数値（公開資料・FY2025.6 通期）
+
+以下の表は、エントリ出典インベントリの公開一次資料（about.mercari.com, www2.jpx.co.jp, jpx.co.jp）の範囲に限定して読む。^[source:about.mercari.com; www2.jpx.co.jp; jpx.co.jp; finance-frontend-pc-dist.west.edge.storage-yahoo.jp]
 
 | 項目 | 数値 | 時点 / 出典 |
 |---|---|---|

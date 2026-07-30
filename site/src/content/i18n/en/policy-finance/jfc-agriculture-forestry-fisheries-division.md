@@ -1,11 +1,11 @@
 ---
 source: policy-finance/jfc-agriculture-forestry-fisheries-division
-source_hash: c573d4c4f6789a38
+source_hash: 0de00c6eb4bd8b12
 lang: en
 status: machine
 fidelity: ok
 title: "JFC Agriculture, Forestry and Fisheries Division operating model (農林水産事業)"
-translated_at: 2026-06-19T13:13:22.616Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # JFC Agriculture, Forestry and Fisheries Division operating model (農林水産事業)
@@ -20,6 +20,8 @@ JFC 農林水産事業 (Agriculture, Forestry and Fisheries Division — "AFF Di
 
 ## 1. 部門位置 within JFC
 
+The following table is scoped to public primary sources (jfc.go.jp, maff.go.jp, jaffic.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jfc.go.jp; maff.go.jp; jaffic.go.jp; nochubank.or.jp]
+
 | Item | Detail |
 |---|---|
 | Parent | [[financial-regulators/jfc|JFC]] (株式会社日本政策金融公庫), 100% state-owned special company |
@@ -33,6 +35,8 @@ JFC 農林水産事業 (Agriculture, Forestry and Fisheries Division — "AFF Di
 The AFF Division is unique within JFC for being the principal direct-policy-lending counterparty to a parallel cooperative-bank pyramid ([[cooperative-banks/norinchukin|Norinchukin]] → 信農連 / 信漁連 → JA バンク / JF マリンバンク). The SME and 国民生活 divisions face a more fragmented private-lender environment; the AFF Division faces one coherent counterpart system.
 
 ### 2.1 Product menu table
+
+The following table is scoped to public primary sources (jfc.go.jp, maff.go.jp, jaffic.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jfc.go.jp; maff.go.jp; jaffic.go.jp; nochubank.or.jp]
 
 | Lane | Sub-product | Typical purpose | Repayment terms (公開資料ベース) | Counterpart / channel |
 |---|---|---|---|---|
@@ -134,6 +138,8 @@ Although the AFF Division is not the primary 経済安全保障 vehicle within J
 The division's underlying operating model — long-tenor, low-rate, cooperative-coordinated direct lending across three primary sectors plus food-industry downstream — has not changed; the menu composition has rotated toward security / resilience / climate themes.
 
 ## 7. Comparative position — AFF Division vs adjacent cooperative-banking lanes
+
+The following table is scoped to public primary sources (jfc.go.jp, maff.go.jp, jaffic.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jfc.go.jp; maff.go.jp; jaffic.go.jp; nochubank.or.jp]
 
 | Dimension | JFC AFF Division | JA バンク / 信農連 | JF マリンバンク / 信漁連 | 森林組合 関連金融 | [[cooperative-banks/norinchukin\|Norinchukin]] |
 |---|---|---|---|---|---|

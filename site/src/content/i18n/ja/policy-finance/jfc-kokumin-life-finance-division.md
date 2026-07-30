@@ -1,11 +1,11 @@
 ---
 source: policy-finance/jfc-kokumin-life-finance-division
-source_hash: 789b256d82b9d67c
+source_hash: 6660c006803010a1
 lang: ja
 status: machine
 fidelity: ok
 title: "JFC 国民生活事業 (National Life Finance Division) 運営モデル"
-translated_at: 2026-06-19T12:43:19.897Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # JFC 国民生活事業 (National Life Finance Division) 運営モデル
@@ -20,6 +20,8 @@ JFC 国民生活事業 (National Life Finance Division、しばしば「国民�
 
 ## 1. JFC 内における部門位置
 
+以下の表は、エントリ出典インベントリの公開一次資料（jfc.go.jp, meti.go.jp, chusho.meti.go.jp）の範囲に限定して読む。^[source:jfc.go.jp; meti.go.jp; chusho.meti.go.jp; maff.go.jp]
+
 | Item | Detail |
 |---|---|
 | 親会社 | [[financial-regulators/jfc|JFC]] (株式会社日本政策金融公庫)、100% 国有特殊会社 |
@@ -31,6 +33,8 @@ JFC 国民生活事業 (National Life Finance Division、しばしば「国民�
 | 典型的な案件 | 数百万から低位の数千万円;商品固有の上限はより高く伸びる (例: 新創業融資制度 最大 ¥30 万円;教育一般貸付 子 1 人あたり標準で最大 ¥350 万、延長あり) |
 
 ### 2.1  融資商品テーブル
+
+以下の表は、エントリ出典インベントリの公開一次資料（jfc.go.jp, meti.go.jp, chusho.meti.go.jp）の範囲に限定して読む。^[source:jfc.go.jp; meti.go.jp; chusho.meti.go.jp; maff.go.jp]
 
 | 商品クラス | サブ商品 | 典型的な用途 | 上限 / 期間 (公開資料ベース) | 民間側のカウンターパート |
 |---|---|---|---|---|
@@ -70,6 +74,8 @@ JFC 国民生活事業 (National Life Finance Division、しばしば「国民�
 ### 2.4  教育貸付 — 国の教育ローンのアンカー
 
 **教育一般貸付 (国の教育ローン)** は JFC の旗艦的教育ローンであり、日本で最も認知された公的金融商品の一つである: ^[extracted]
+
+以下の表は、エントリ出典インベントリの公開一次資料（jfc.go.jp, meti.go.jp, chusho.meti.go.jp）の範囲に限定して読む。^[source:jfc.go.jp; meti.go.jp; chusho.meti.go.jp; maff.go.jp]
 
 | Feature | Reading |
 |---|---|
@@ -120,6 +126,8 @@ JFC の 国民生活事業 は直接融資版を自らのバランスシート�
 
 ### JASSO 対 JFC 教育貸付 — 運営上の区別
 
+以下の表は、エントリ出典インベントリの公開一次資料（jfc.go.jp, meti.go.jp, chusho.meti.go.jp）の範囲に限定して読む。^[source:jfc.go.jp; meti.go.jp; chusho.meti.go.jp; maff.go.jp]
+
 | Dimension | JFC 教育一般貸付 (国の教育ローン) | [[policy-finance/japan-student-services-organization|JASSO]] 奨学ローン |
 |---|---|---|
 | 借り手 | 親 / 保護者 | 学生 |
@@ -160,6 +168,8 @@ JFC の 国民生活事業 は直接融資版を自らのバランスシート�
 
 ### 監督官庁
 
+以下の表は、エントリ出典インベントリの公開一次資料（jfc.go.jp, meti.go.jp, chusho.meti.go.jp）の範囲に限定して読む。^[source:jfc.go.jp; meti.go.jp; chusho.meti.go.jp; maff.go.jp]
+
 | Ministry | Interest |
 |---|---|
 | 経済産業大臣 | SME / 創業 / セクター政策の監督 (リード) |
@@ -171,6 +181,8 @@ JFC の 国民生活事業 は直接融資版を自らのバランスシート�
 複数省庁による監督パターンは、本事業の幅広さを反映している — セクター政策 (METI)、教育政策 (MEXT)、福祉政策 (MHLW)、コアの公的金融配分 (MoF) に同時に触れている。
 
 ## 7. 比較ポジション — 国民生活 対 隣接レーン
+
+以下の表は、エントリ出典インベントリの公開一次資料（jfc.go.jp, meti.go.jp, chusho.meti.go.jp）の範囲に限定して読む。^[source:jfc.go.jp; meti.go.jp; chusho.meti.go.jp; maff.go.jp]
 
 | Dimension | JFC 国民生活 | [[policy-finance/jfc-sme-division-operating-model\|JFC SME Division]] | [[policy-finance/japan-credit-guarantee-system\|信用保証協会]] システム | [[policy-finance/japan-student-services-organization\|JASSO]] | 民間 信用金庫 / 信用組合 マイクロレンディング |
 |---|---|---|---|---|---|

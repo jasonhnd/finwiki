@@ -7,8 +7,8 @@ aliases:
   - "信用取引 日証金 route"
 domain: "securities"
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-22
 confidence: likely
 tags: [securities, margin-trading, securities-finance, JSF, stock-lending, collateral]
@@ -33,6 +33,8 @@ Use this page with [[securities/INDEX|securities domain]], [[financial-regulator
 
 ## System Map
 
+The following table is scoped to public primary sources (jpx.co.jp, jsf.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp; jsf.co.jp]
+
 | Layer | Role |
 |---|---|
 | Investor / customer | Deposits collateral with a securities company and buys or sells through margin trading. |
@@ -45,6 +47,8 @@ Use this page with [[securities/INDEX|securities domain]], [[financial-regulator
 ## Standardized vs Negotiable Margin
 
 JPX's margin overview separates standardized margin trading from negotiable margin trading:
+
+The following table is scoped to public primary sources (jpx.co.jp, jsf.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp; jsf.co.jp]
 
 | Dimension | Standardized margin trading | Negotiable margin trading |
 |---|---|---|
@@ -104,6 +108,8 @@ The important point is that a retail margin trade can become a chain of customer
 - [[money-market/jgb-repo-market-japan|Japan JGB repo market]] and [[money-market/INDEX|money-market domain]] are adjacent when securities finance becomes a collateral and funding-cost question.
 
 ## Risk Controls
+
+The following table is scoped to public primary sources (jpx.co.jp, jsf.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp; jsf.co.jp]
 
 | Risk | Control route |
 |---|---|

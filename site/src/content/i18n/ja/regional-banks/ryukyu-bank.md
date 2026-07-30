@@ -1,11 +1,11 @@
 ---
 source: regional-banks/ryukyu-bank
-source_hash: 09e65919ac41cf8a
+source_hash: 0d3ec5fbaa9bf84b
 lang: ja
 status: machine
 fidelity: ok
 title: "株式会社琉球銀行"
-translated_at: 2026-07-28T20:55:25Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 株式会社琉球銀行
@@ -57,6 +57,8 @@ translated_at: 2026-07-28T20:55:25Z
 
 ## 2. 事業セグメント・マップ
 
+以下の表は、エントリ出典インベントリの公開一次資料（ryugin.co.jp）の範囲に限定して読む。^[source:ryugin.co.jp]
+
 | セグメント | 特徴 |
 |---|---|
 | 個人向け預金・貸出 | 沖縄県内シェア No.2、住宅ローン主軸 |
@@ -77,6 +79,8 @@ translated_at: 2026-07-28T20:55:25Z
 - 人的資本：県内雇用維持と本土・アジア人材の双方向流動
 
 ### 競合構造（沖縄県内）
+
+以下の表は、エントリ出典インベントリの公開一次資料（ryugin.co.jp）の範囲に限定して読む。^[source:ryugin.co.jp]
 
 | 行 | 親会社 | 位置付け |
 |---|---|---|

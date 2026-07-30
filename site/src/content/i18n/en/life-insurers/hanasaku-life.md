@@ -1,11 +1,11 @@
 ---
 source: life-insurers/hanasaku-life
-source_hash: 343c19f53eb32fd5
+source_hash: 13a592ade1f41585
 lang: en
 status: machine
 fidelity: ok
 title: "Hanasaku Life Insurance"
-translated_at: 2026-06-19T06:09:18.127Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Hanasaku Life Insurance
@@ -19,6 +19,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 Hanasaku Life Insurance Co., Ltd. is a life-insurance operating company of the [[life-insurers/nippon-life]] group listed on the FSA life-insurer list. See it as a newer group insurer that, separate from Nippon Life's own traditional sales-force model, handles medical / protection products and agency-channel strategy.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, life8739.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; life8739.co.jp]
 
 | Item | Notes |
 |---|---|

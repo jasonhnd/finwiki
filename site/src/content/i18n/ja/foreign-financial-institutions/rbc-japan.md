@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/rbc-japan
-source_hash: eb13f47b97b3e3ee
+source_hash: 052eed09814273e4
 lang: ja
 status: machine
 fidelity: ok
 title: "カナダロイヤル銀行 東京支店"
-translated_at: 2026-06-18T23:59:13.104Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # カナダロイヤル銀行 東京支店
@@ -20,6 +20,8 @@ translated_at: 2026-06-18T23:59:13.104Z
 カナダロイヤル銀行 東京支店は、金融庁の外国銀行支店一覧に掲載される Royal Bank of Canada の日本における銀行支店である。RBC Capital Markets Japan の証券支店と並ぶ RBC Japan プラットフォームの銀行側であり、トランザクションバンキング、トレジャリー、預金 / 仕組預金、デリバティブ、および機関投資家カバレッジを担う。
 
 ## 1. License / branch boundary
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, rbccm.com）の範囲に限定して読む。^[source:fsa.go.jp; rbccm.com]
 
 | Item | Notes |
 |---|---|

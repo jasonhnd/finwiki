@@ -1,11 +1,11 @@
 ---
 source: payments/japan-bank-api-incident-and-fraud-control
-source_hash: 0bf16dee83164eb7
+source_hash: b2b1396d16d908b2
 lang: en
 status: machine
 fidelity: ok
 title: "Japan bank API incident and fraud-control map"
-translated_at: 2026-06-01T03:31:12.313Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan bank API incident and fraud-control map
@@ -18,6 +18,8 @@ Use this page with [[payments/japan-bank-api-payment-agency-route|Japan bank API
 
 ## Incident Surface
 
+The following table is scoped to public primary sources (fsa.go.jp, zenginkyo.or.jp, fisc.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; zenginkyo.or.jp; fisc.or.jp; jeppo.jp]
+
 | Incident type | First question | Route to check |
 |---|---|---|
 | Account-information leak | Was the service read-only account aggregation or payment-instruction capable? | Electronic payment agency registration, bank API contract, consent log. |
@@ -28,6 +30,8 @@ Use this page with [[payments/japan-bank-api-payment-agency-route|Japan bank API
 | Refund / reversal break | Did a payment instruction settle but merchant or accounting state fail? | A2A payment route, PSP reconciliation, merchant contract. |
 
 ## Control Stack
+
+The following table is scoped to public primary sources (fsa.go.jp, zenginkyo.or.jp, fisc.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; zenginkyo.or.jp; fisc.or.jp; jeppo.jp]
 
 | Layer | Control |
 |---|---|

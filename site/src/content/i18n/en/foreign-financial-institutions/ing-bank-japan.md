@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/ing-bank-japan
-source_hash: d1a3dcabdaa8af2e
+source_hash: 726e946784088eb5
 lang: en
 status: machine
 fidelity: ok
 title: "ING Bank N.V. Tokyo Branch"
-translated_at: 2026-06-18T23:59:13.132Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # ING Bank N.V. Tokyo Branch
@@ -20,6 +20,8 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 The ING Bank N.V. Tokyo Branch is the Netherlands / ING Bank N.V. Japan wholesale banking branch listed in the FSA's foreign-bank-branch list. Since the start of its Tokyo branch in 1985 年, read it as a B2B branch centered on structured finance, export / project finance, cash management, lending, and correspondent banking.
 
 ## 1. License / branch boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, ingwb.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; ingwb.com]
 
 | Item | Notes |
 |---|---|

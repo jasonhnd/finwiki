@@ -1,11 +1,11 @@
 ---
 source: securities-firms/tokai-tokyo-securities
-source_hash: eba1aee8c918d624
+source_hash: d46c024d7411d8e0
 lang: ja
 status: machine
 fidelity: ok
 title: "東海東京証券"
-translated_at: 2026-07-28T20:55:25Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 東海東京証券
 
@@ -72,6 +72,8 @@ translated_at: 2026-07-28T20:55:25Z
 - **戦略**：地銀提携深化・東南アジア（ベトナム / インドネシア）海外証券事業展開
 
 ## 6. 沿革
+
+以下の表は、エントリ出典インベントリの公開一次資料（tokaitokyo.co.jp, tokaitokyo-fh.jp, fsa.go.jp）の範囲に限定して読む。^[source:tokaitokyo.co.jp; tokaitokyo-fh.jp; fsa.go.jp]
 
 | 年月 | 事項 |
 |------|------|

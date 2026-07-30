@@ -1,11 +1,11 @@
 ---
 source: securities/japan-margin-trading-and-securities-finance
-source_hash: ccaa5cd761a08c3a
+source_hash: 0460e7c5fa5a1ac0
 lang: en
 status: machine
 fidelity: ok
 title: "Japan margin trading and securities finance"
-translated_at: 2026-06-01T03:31:12.268Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Japan margin trading and securities finance
 
@@ -16,6 +16,8 @@ Japan margin trading is not just a retail leverage product. It is a market-infra
 Use this page with [[securities/INDEX|securities domain]], [[financial-regulators/japan-securities-finance|Japan Securities Finance]], [[securities/tokyo-stock-exchange|Tokyo Stock Exchange]], [[securities/japan-best-execution-sor-pts|Japan best execution, SOR, and PTS]], [[securities/japan-pts-liquidity-data-guide|PTS liquidity data guide]], [[securities/japan-prime-brokerage-and-institutional-financing|prime brokerage and institutional financing]], [[securities/japan-market-infrastructure-map|Japan market infrastructure map]], and broker pages such as [[securities-firms/sbi-securities|SBI Securities]] and [[securities-firms/rakuten-securities|Rakuten Securities]].
 
 ## System Map
+
+The following table is scoped to public primary sources (jpx.co.jp, jsf.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp; jsf.co.jp; fsa.go.jp]
 
 | Layer | Role |
 |---|---|
@@ -29,6 +31,8 @@ Use this page with [[securities/INDEX|securities domain]], [[financial-regulator
 ## Standardized vs Negotiable Margin
 
 JPX's margin overview separates standardized margin trading from negotiable margin trading:
+
+The following table is scoped to public primary sources (jpx.co.jp, jsf.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp; jsf.co.jp; fsa.go.jp]
 
 | Dimension | Standardized margin trading | Negotiable margin trading |
 |---|---|---|
@@ -69,6 +73,8 @@ The important point is that a retail margin trade can become a chain of customer
 
 ## Market Signals
 
+The following table is scoped to public primary sources (jpx.co.jp, jsf.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp; jsf.co.jp; fsa.go.jp]
+
 | Signal | Useful reading | Caveat |
 |---|---|---|
 | Outstanding margin transactions | Retail / broker leverage and positioning pressure. | TSE outstanding margin and JSF loan balances are not identical. |
@@ -86,6 +92,8 @@ The important point is that a retail margin trade can become a chain of customer
 - [[money-market/jgb-repo-market-japan|Japan JGB repo market]] and [[money-market/INDEX|money-market domain]] are adjacent when securities finance becomes a collateral and funding-cost question.
 
 ## Risk Controls
+
+The following table is scoped to public primary sources (jpx.co.jp, jsf.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp; jsf.co.jp; fsa.go.jp]
 
 | Risk | Control route |
 |---|---|

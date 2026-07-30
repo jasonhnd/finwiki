@@ -1,11 +1,11 @@
 ---
 source: policy-finance/japan-policy-finance-institution-mandate-matrix
-source_hash: e79c82098d957de5
+source_hash: 4b9d44f279d1cc11
 lang: ja
 status: machine
 fidelity: ok
 title: "Japan policy-finance institution mandate matrix (JFC / DBJ / JBIC / JICA / NEXI / JOGMEC / JHF / ODFC / JASSO)"
-translated_at: 2026-06-19T06:09:18.198Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本の政策金融機関マンデート・マトリクス（JFC／DBJ／JBIC／JICA／NEXI／JOGMEC／JHF／ODFC／JASSO）
@@ -157,6 +157,8 @@ translated_at: 2026-06-19T06:09:18.198Z
 - **近年のマンデート・シフト。** ミーンズテスト付き給付奨学金の拡充（2020  高等教育の修学支援新制度の開始とその後の拡大）、所得連動返還スキームのロールアウト、困窮ケース向けの返還救済の拡大、日本の「300,000 留学生」政策フレームワークのもとでの留学生インバウンド支援の重視増大。
 
 ## 機関横断の比較マトリクス
+
+以下の表は、エントリ出典インベントリの公開一次資料（jfc.go.jp, dbj.jp, jbic.go.jp）の範囲に限定して読む。^[source:jfc.go.jp; dbj.jp; jbic.go.jp; jica.go.jp]
 
 | 軸 | JFC | DBJ | JBIC | JICA | NEXI | JOGMEC | JHF | ODFC | JASSO |
 |---|---|---|---|---|---|---|---|---|---|

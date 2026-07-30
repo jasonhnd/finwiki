@@ -1,11 +1,11 @@
 ---
 source: payments/suica-prepaid-jr-east
-source_hash: 4f9dc7bb8b1dba9b
+source_hash: 61b59fe35334fdac
 lang: ja
 status: machine
 fidelity: ok
 title: "Suica：JR 東日本の交通系および汎用 IC プリペイド"
-translated_at: 2026-06-19T06:09:18.122Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Suica：JR 東日本の交通系および汎用 IC プリペイド
@@ -19,6 +19,8 @@ translated_at: 2026-06-19T06:09:18.122Z
 **Suica**（Super Urban Intelligent Card）は、**東日本旅客鉄道株式会社（JR East / 東日本旅客鉄道株式会社）**が 2001-11-18 のローンチ以来発行する、**日本を代表する交通系および汎用 IC プリペイド電子マネー**。Suica は日本において**カード保有者数および取引件数で最大の交通系プリペイド発行者**であり、PASMO／ICOCA／Kitaca／TOICA／manaca／nimoca／SUGOCA／HAYAKAKEN／PiTaPa（最後のものはポストペイの例外）とともに [[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|10 IC mutual-use scheme]] を支える。Suica は [[payments/funds-transfer-vs-prepaid-boundary|Payment Services Act 前払式 framework]] の下で**第三者型前払式支払手段**として登録され、コンビニエンスストア、自動販売機、タクシー、小売チェーン、および FeliCa 対応の任意の POS で加盟店横断のアクセプタンスを持つ。**モバイル Suica** は 2006 （携帯電話統合）にローンチし、Apple Pay 対応は 2016-10  に到来 — Suica を物理カード専用からスマートフォン・ネイティブへと転換させ、日本のインバウンド観光客のキャッシュレス・ストーリーを支えてきた海外発行の iPhone 統合を可能にした。
 
 ## 発行会社 and operational structure
+
+以下の表は、エントリ出典インベントリの公開一次資料（jreast.co.jp, fsa.go.jp, felicanetworks.co.jp）の範囲に限定して読む。^[source:jreast.co.jp; fsa.go.jp; felicanetworks.co.jp; meti.go.jp]
 
 | 項目 | 読み方 |
 |---|---|
@@ -44,6 +46,8 @@ Suica は [[payments/funds-transfer-vs-prepaid-boundary|資金決済法]] 第 3 
 
 Suica は 2013-03-23 にローンチした**10 IC 相互利用スキーム**のアンカーであり、これにより Suica カード保有者は全国の参加鉄道／バス・ネットワークのいずれにもタップして乗車し、参加するいずれの小売加盟店でも支払うことができる。完全なスキーム横断マップは [[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|transit-前払式 economics]] にある：
 
+以下の表は、エントリ出典インベントリの公開一次資料（jreast.co.jp, fsa.go.jp, felicanetworks.co.jp）の範囲に限定して読む。^[source:jreast.co.jp; fsa.go.jp; felicanetworks.co.jp; meti.go.jp]
+
 | Card | 発行会社 | Region |
 |---|---|---|
 | **Suica** | JR 東日本 | 首都圏／北日本 |
@@ -61,6 +65,8 @@ Suica は 2013-03-23 にローンチした**10 IC 相互利用スキーム**の�
 
 ## Mobile Suica generations
 
+以下の表は、エントリ出典インベントリの公開一次資料（jreast.co.jp, fsa.go.jp, felicanetworks.co.jp）の範囲に限定して読む。^[source:jreast.co.jp; fsa.go.jp; felicanetworks.co.jp; meti.go.jp]
+
 | Generation | 年 | Key features |
 |---|---|---|
 | 物理 Suica のみ | 2001-2006 | カードベース；JR の券売機／定期券窓口でチャージ |
@@ -72,6 +78,8 @@ Suica は 2013-03-23 にローンチした**10 IC 相互利用スキーム**の�
 Apple Pay Suica 2016  は、モバイル Suica を日本のキャリアのおサイフケータイ・デバイスに制約していた SIM 地域制限を取り除き、海外発行の iPhone が Suica ウォレットをプロビジョニングして日本国内の交通および小売で使用できるようにしたため、構造的に重要であった。これは主要なキャッシュレス・インバウンド観光客レーンの一つであり、海外からの訪問者の支払い期待を再形成してきた。
 
 ## KPI snapshot
+
+以下の表は、エントリ出典インベントリの公開一次資料（jreast.co.jp, fsa.go.jp, felicanetworks.co.jp）の範囲に限定して読む。^[source:jreast.co.jp; fsa.go.jp; felicanetworks.co.jp; meti.go.jp]
 
 | 指標 | Reading (most recent public disclosure) |
 |---|---|

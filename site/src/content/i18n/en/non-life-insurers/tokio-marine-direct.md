@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/tokio-marine-direct
-source_hash: 4ac4b2b267329e10
+source_hash: 93249fb657af5f9e
 lang: en
 status: machine
 fidelity: ok
 title: "Tokio Marine Direct General Insurance"
-translated_at: 2026-06-01T02:31:57.154Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Tokio Marine Direct General Insurance
@@ -19,6 +19,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 Tokio Marine Direct General Insurance Co., Ltd. is the direct non-life insurer of the [[non-life-insurers/tokio-marine]] group. It has the lineage of the former eDesign Insurance and is listed under its current legal name in the FSA non-life insurance company license list. It is a direct-channel operating company separate from [[non-life-insurers/tokio-marine-nichido-fire]].
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, sonpohogo.or.jp, e-design.net). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sonpohogo.or.jp; e-design.net]
 
 | Item | Notes |
 |---|---|

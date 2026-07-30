@@ -1,11 +1,11 @@
 ---
 source: regional-banks/tottori-bank
-source_hash: d83005f5a883a77d
+source_hash: f3273fc74fce6f51
 lang: en
 status: machine
 fidelity: ok
 title: "The Tottori Bank (鳥取銀行)"
-translated_at: 2026-06-15T04:09:41.175Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # The Tottori Bank (鳥取銀行)
@@ -19,6 +19,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 The Tottori Bank, Ltd. (株式会社鳥取銀行, commonly "Torigin") is a regional bank (first regional bank) headquartered in Tottori City, Tottori Prefecture, holding a bank license under the Banking Act and listed in the FSA's bank license list. Per its official history, it was established in 1949 年 10 月 by taking over the business of the Tottori Credit Cooperative, and it is the only regional bank headquartered within Tottori Prefecture. Its business is the standard regional-bank model of deposit-taking centered on Tottori Prefecture and lending to SMEs / individuals, and in the San'in region it has a market peer boundary with the larger [[regional-banks/san-in-godo-bank|山陰合同銀行]].
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, tottoribank.co.jp, ja.wikipedia.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; tottoribank.co.jp; ja.wikipedia.org]
 
 | Item | Notes |
 |---|---|

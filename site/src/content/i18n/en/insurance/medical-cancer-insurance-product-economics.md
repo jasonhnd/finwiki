@@ -1,11 +1,11 @@
 ---
 source: insurance/medical-cancer-insurance-product-economics
-source_hash: 0577921b70447f70
+source_hash: 4fe93695d0b8701d
 lang: en
 status: machine
 fidelity: ok
 title: "Medical / cancer insurance product economics in Japan"
-translated_at: 2026-05-31T11:13:44.950Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Medical / cancer insurance product economics in Japan
@@ -29,6 +29,8 @@ A whole-life or single-premium savings policy is a long-duration, rate-sensitive
 - **Distribution cost is the dominant economic line.** Acquisition commission to agencies, banks, or sales reps is the largest variable cost; advertising spend matters for direct / internet plays. Pricing-margin compression therefore happens primarily through channel-mix, not through investment-income optimization.
 
 ## Competitive map
+
+The following table is scoped to public primary sources (aflac.co.jp, aflac.com, aia.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:aflac.co.jp; aflac.com; aia.co.jp; tmn-anshin.co.jp]
 
 | Carrier / group | Product positioning | Channel mix | Notes |
 |---|---|---|---|

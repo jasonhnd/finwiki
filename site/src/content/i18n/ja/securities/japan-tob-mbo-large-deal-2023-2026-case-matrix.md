@@ -1,11 +1,11 @@
 ---
 source: securities/japan-tob-mbo-large-deal-2023-2026-case-matrix
-source_hash: 15eebfef07626ea7
+source_hash: 0e443be18fa9fc62
 lang: ja
 status: machine
 fidelity: ok
 title: "日本 TOB / MBO 大型案件 2023-2026 ケースマトリクス"
-translated_at: 2026-06-19T12:43:19.917Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本 TOB / MBO 大型案件 2023-2026 ケースマトリクス
@@ -43,6 +43,8 @@ translated_at: 2026-06-19T12:43:19.917Z
 
 ## マスター比較マトリクス
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, meti.go.jp, jftc.go.jp）の範囲に限定して読む。^[source:fsa.go.jp; meti.go.jp; jftc.go.jp; jpx.co.jp]
+
 | ケース | 対象会社（ティッカー / 市場）| 買収者 | 取引額 | プレミアム % | オファー方式 | 防衛対応 | 経産省「公正な M&A」整合性 | JFTC 審査 | 特別委員会の役割 | 結果 |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **東芝 ← JIP** | 東芝（6502, 東証プライム）| **JIP 主導の国内 PE コンソーシアム**（[[JapanFG/orix|ORIX]]、中部電力、CDPQ 連携 LP 等を含む）| 約 ¥2兆 | プロセス前の市場価格に対して約 10-12% | [[finance/japan-tender-offer-process|TOB]] ののち株式併合による [[finance/japan-mbo-and-squeeze-out-process|squeeze-out]] | なし（戦略レビュー委員会後の協調的プロセス）| 完全整合 — 複数年にわたる戦略レビュー委員会、MoM の考慮、フェアネス・オピニオン | JFTC フェーズ I クリア（フェーズ II なし）| 独立特別委員会がプロセスを中心的に推進 | **成功 — TOB およびスクイーズアウト完了；上場廃止 2024-Q1** |
@@ -59,6 +61,8 @@ translated_at: 2026-06-19T12:43:19.917Z
 ## ディメンションの読み方
 
 ### 対象タイプ（親子 vs 無関係の PE / 戦略）
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, meti.go.jp, jftc.go.jp）の範囲に限定して読む。^[source:fsa.go.jp; meti.go.jp; jftc.go.jp; jpx.co.jp]
 
 | 対象タイプ | マトリクス内の例 | 実務上の帰結 |
 |---|---|---|

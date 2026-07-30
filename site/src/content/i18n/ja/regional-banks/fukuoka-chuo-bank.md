@@ -1,11 +1,11 @@
 ---
 source: regional-banks/fukuoka-chuo-bank
-source_hash: 9eca22490640d114
+source_hash: b2b6b56512a28b5a
 lang: ja
 status: machine
 fidelity: ok
 title: "福岡中央銀行"
-translated_at: 2026-06-02T14:25:12.399Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 福岡中央銀行
@@ -20,6 +20,8 @@ translated_at: 2026-06-02T14:25:12.399Z
 株式会社福岡中央銀行は、金融庁の銀行免許一覧に掲載される福岡県本店の第二地方銀行。[[regional-banks/fukuoka-fg]] 傘下の福岡エリア事業銀行であり、[[regional-banks/fukuoka-bank]] や [[regional-banks/chikuho-bank]] とは別の銀行免許アンカーとして扱う。
 
 ## 1. 免許・グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, fukuokachuo-bank.co.jp, fukuoka-fg.com）の範囲に限定して読む。^[source:fsa.go.jp; fukuokachuo-bank.co.jp; fukuoka-fg.com]
 
 | 項目 | メモ |
 |---|---|

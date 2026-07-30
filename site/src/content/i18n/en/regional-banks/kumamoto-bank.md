@@ -1,11 +1,11 @@
 ---
 source: regional-banks/kumamoto-bank
-source_hash: a826c65cbb666d7b
+source_hash: 570e20d6636cd415
 lang: en
 status: machine
 fidelity: ok
 title: "Kumamoto Bank"
-translated_at: 2026-05-31T23:59:49.386Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Kumamoto Bank
 
@@ -19,6 +19,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 Kumamoto Bank, Ltd. is a second-tier regional bank headquartered in Kumamoto Prefecture and listed on the FSA bank license list. It is the Kumamoto operating bank under [[regional-banks/fukuoka-fg]] and is treated as a separate corporate peer from [[regional-banks/higo-bank]].
 
 ## 1. License / Group Boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, kumamotobank.co.jp, fukuoka-fg.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; kumamotobank.co.jp; fukuoka-fg.com]
 
 | Item | Notes |
 |---|---|

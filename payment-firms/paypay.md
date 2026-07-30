@@ -3,8 +3,8 @@ title: "PayPay株式会社"
 aliases: ["PayPay", "PayPay Corporation", "PayPay株式会社", "ペイペイ"]
 domain: payment-firms
 created: 2026-05-21
-last_updated: 2026-06-24
-last_tended: 2026-06-24
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-12-24
 confidence: likely
 tags: [JapanFG, payments, wallet, funds-transfer, code-payment]
@@ -43,6 +43,8 @@ sources:
 PayPay株式会社は [[megabanks/paypay-fg|PayPay金融グループ]] の消費者向けウォレット・コード決済運営会社。公式会社概要はモバイルペイメント等の電子決済サービスを主業とし、前払式支払手段、クレジットカード番号等取扱契約締結事業者、資金移動業、電子決済等代行業、賃金デジタル払い指定資金移動業者などの登録を列挙している。^[verified-2026-06-24]
 
 ## 1. 法人・ライセンス境界
+
+The following table is scoped to public primary sources (about.paypay.ne.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:about.paypay.ne.jp; fsa.go.jp]
 
 | 項目 | 読み方 |
 |---|---|

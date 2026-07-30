@@ -3,8 +3,8 @@ title: "清水銀行"
 aliases: ["Shimizu Bank", "The Shimizu Bank", "株式会社清水銀行"]
 domain: regional-banks
 created: 2026-05-21
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, banking, regional-bank, chubu, shizuoka, operating-company]
@@ -26,6 +26,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 株式会社清水銀行 (The Shimizu Bank) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される静岡県静岡市清水区本店の地方銀行 (第一地銀)。前身は 1928 年設立の駿州銀行で、1948 年に現商号へ改称した独立系 operating company（[[regional-banks/shizuoka-fg|静岡FG]] 傘下ではない）。事業は静岡県中東部の預金受入・中小企業/個人向け貸出という地銀の標準モデルで、2017 年以降 SBI 証券との金融商品仲介の共同店舗を持つ。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, shimizubank.co.jp, ja.wikipedia.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; shimizubank.co.jp; ja.wikipedia.org]
 
 | Item | Notes |
 |---|---|

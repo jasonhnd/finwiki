@@ -1,11 +1,11 @@
 ---
 source: regional-banks/shizuoka-bank
-source_hash: 2e2863e2a82ddf3f
+source_hash: 62a945b4c5b86891
 lang: ja
 status: machine
 fidelity: ok
 title: "静岡銀行"
-translated_at: 2026-06-15T04:09:41.189Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 静岡銀行
@@ -19,6 +19,8 @@ translated_at: 2026-06-15T04:09:41.189Z
 株式会社静岡銀行 (The Shizuoka Bank) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される静岡県静岡市葵区本店の地方銀行 (第一地銀)。公式会社概要では 1943 年 3 月に静岡三十五銀行と遠州銀行の合併で発足した法人で、現在は [[regional-banks/shizuoka-fg|静岡フィナンシャルグループ]] の中核事業銀行。証券コードは 8355。事業の中身は県内の預金受入・中小企業/個人向け貸出・製造業のメインバンク取引という地銀の標準モデルに、外為/海外サポートと資産運用を重ねたもの。
 
 ## 1. 免許／グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, shizuokabank.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; shizuokabank.co.jp]
 
 | 項目 | 備考 |
 |---|---|

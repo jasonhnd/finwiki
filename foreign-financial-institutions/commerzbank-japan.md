@@ -3,8 +3,8 @@ title: "コメルツ銀行 東京支店"
 aliases: ["Commerzbank Japan", "Commerzbank Tokyo Branch", "Commerzbank AG Tokyo Branch", "コメルツ銀行"]
 domain: foreign-financial-institutions
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, banking, foreign-bank-branch, germany, wholesale-banking, operating-branch]
@@ -27,6 +27,8 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 コメルツ銀行 東京支店は、金融庁の外国銀行支店一覧に掲載される Germany / Commerzbank AG の在日銀行支店。日本では corporate / institutional clients, foreign trade, FX, transaction banking, and export-oriented Japanese corporate support を中心にした wholesale branch として扱う。
 
 ## 1. License / branch boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, commerzbank.jp, commerzbank.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; commerzbank.jp; commerzbank.com]
 
 | Item | Notes |
 |---|---|

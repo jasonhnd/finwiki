@@ -3,8 +3,8 @@ title: 岩井コスモホールディングス
 aliases: ["Iwai Cosmo HD", "岩井コスモ HD", "Iwai Cosmo Holdings", "8707"]
 domain: securities-firms
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, securities, independent]
@@ -79,6 +79,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 | 2024 | 中期経営計画（中計）策定 ^[extracted] |
 
 ## 2. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (Wikipedia: 岩井コスモホールディングス / 岩井コスモ証券 (2026-05-19 抽出), 岩井コスモ HD 公式コーポレートサイト・沿革). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Wikipedia: 岩井コスモホールディングス / 岩井コスモ証券 (2026-05-19 抽出); 岩井コスモ HD 公式コーポレートサイト・沿革]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

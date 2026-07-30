@@ -1,11 +1,11 @@
 ---
 source: payment-firms/gmo-postpay
-source_hash: aa3e7731d2b81515
+source_hash: 61a80e4b60d0a86b
 lang: en
 status: machine
 fidelity: ok
 title: "GMO後払い (GMO Postpay)"
-translated_at: 2026-06-15T03:48:21.834Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # GMO後払い (GMO Postpay)
@@ -19,6 +19,8 @@ This entry sits under the [[payment-firms/INDEX|payment-firms INDEX]] as a **PSP
 GMO後払い is an EC postpay payment operated by **GMO ペイメントサービス株式会社** (GMO Internet G, an affiliate of [[payment-firms/gmo-payment-gateway|GMO ペイメントゲートウェイ]]). It is a case of a PSP-origin group building and operating BNPL in-house, providing merchant contracting / credit / invoice issuance / collection agency in one package. Alongside Net Protections' NP postpay and Yamato's [[payment-firms/kuroneko-atobarai|クロネコ代金後払い]], it is a major option for EC postpay.
 
 ## 1. Legal entity / license boundary
+
+The following table is scoped to public primary sources (gmo-ps.com, gmo-pg.com, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:gmo-ps.com; gmo-pg.com; meti.go.jp]
 
 | Item | Reading |
 |---|---|

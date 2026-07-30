@@ -3,8 +3,8 @@ title: "GMOイプシロン (GMO Epsilon)"
 aliases: ["GMO Epsilon", "GMOイプシロン", "GMOイプシロン株式会社"]
 domain: payment-firms
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, payments, psp, funds-transfer, merchant-services]
@@ -27,6 +27,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 GMOイプシロンは [[payment-firms/gmo-payment-gateway|GMO Payment Gateway]] 傘下の SME / EC 向け PSP。公式会社概要はオンライン販売の決済代行、代金回収代行、資金移動業、電子決済等代行業などを示しており、merchant settlement と funds-transfer adjacency の両方を見るページ。
 
 ## 1. 法人・ライセンス境界
+
+The following table is scoped to public primary sources (epsilon.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:epsilon.jp; meti.go.jp]
 
 | Item | Reading |
 |---|---|

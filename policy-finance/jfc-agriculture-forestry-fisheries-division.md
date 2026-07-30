@@ -11,8 +11,8 @@ aliases:
   - "農林水産事業本部"
 domain: policy-finance
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [policy-finance, jfc, agriculture, forestry, fisheries, food-industry, ja-jf-coordination]
@@ -37,6 +37,8 @@ This entry sits under [[policy-finance/INDEX|policy-finance index]] as one of th
 JFC 農林水産事業 (Agriculture, Forestry and Fisheries Division — "AFF Division") is the third product-bearing division of [[financial-regulators/jfc|JFC]], formed when the former 農林漁業金融公庫 (Nourin Gyogyou Kinyu Koko, "農林公庫", est. 1953) was rolled into JFC at the 2008-10 four-institution merger. Its mandate covers all three primary-sector lanes — agriculture, forestry, fisheries — plus the downstream **food industry** (food processing, food wholesale, food retail capex tied to upstream primary production). Loan products are organised around long-tenor, low-rate capex finance that the JA / JF cooperative-banking system either will not write directly (long-tail capex risk, very long tenor) or that statute reserves to the policy-finance channel. Headline product menu includes **スーパー L 資金** (the flagship agricultural management-body loan for certified 認定農業者), **経営体育成強化資金**, **農業近代化資金 利子補給** (the interest-subsidy lever sitting on JA-originated loans), **林業基盤整備資金** and successor forest-management loans, **漁業近代化資金** and **沿岸漁業改善資金** infrastructure, and a large **食品産業向け** menu running from raw-material procurement through HACCP / cold-chain capex through food-industry restructuring. Co-lending and co-routing with **JA バンク / 信農連 / JF マリンバンク / 信漁連 / [[cooperative-banks/norinchukin|農林中央金庫]]** is the structural counterpart on the private cooperative-finance side; **MAFF** (農林水産大臣) is the supervising minister and the source of most policy-overlay budgets. Three guarantee / insurance backstops sit beneath this lane: **農業信用基金協会** (prefectural) and **漁業信用基金協会** (prefectural) routes counter-guaranteed via the central **JAFFIC** (農林漁業信用基金), with formal cross-references in the AFF Division's underwriting flow.
 
 ## 1. 部門位置 within JFC
+
+The following table is scoped to public primary sources (jfc.go.jp, maff.go.jp, jaffic.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jfc.go.jp; maff.go.jp; jaffic.go.jp; nochubank.or.jp]
 
 | Item | Detail |
 |---|---|

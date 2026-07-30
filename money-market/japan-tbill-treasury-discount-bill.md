@@ -10,8 +10,8 @@ aliases:
   - "短期国債"
 domain: "money-market"
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [money-market, TDB, T-Bill, MOF, JGB, BoJ, sovereign-funding]
@@ -49,6 +49,8 @@ TDBs sit on MOF's regular JGB auction calendar, are held in dematerialized form 
 | Repo / collateral | TDBs trade in GC and SC repo and are accepted in BoJ collateral. | [[money-market/jgb-repo-market-japan]] |
 
 ## Issuance Mechanics
+
+The following table is scoped to public primary sources (mof.go.jp, boj.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:mof.go.jp; boj.or.jp]
 
 | Element | Reading |
 |---|---|

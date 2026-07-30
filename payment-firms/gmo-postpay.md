@@ -7,8 +7,8 @@ aliases:
   - "GMOペイメントサービス"
 domain: payment-firms
 created: 2026-05-24
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, BNPL, atobarai, GMO, PSP, installment-sales]
@@ -31,6 +31,8 @@ This entry sits under the [[payment-firms/INDEX|payment-firms INDEX]] as a **PSP
 GMO後払い は **GMO ペイメントサービス株式会社** (GMO インターネット G、[[payment-firms/gmo-payment-gateway|GMO ペイメントゲートウェイ]] の関連会社) が運営する EC 後払い決済。PSP 出身グループが BNPL を内製・運用している事例で、加盟店契約 / 与信 / 請求書発行 / 集金代行を一括で提供する。Net Protections の NP 後払い、ヤマトの [[payment-firms/kuroneko-atobarai|クロネコ代金後払い]] と並ぶ EC 後払いの主要選択肢。
 
 ## 1. 法人・ライセンス境界
+
+The following table is scoped to public primary sources (gmo-ps.com, gmo-pg.com, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:gmo-ps.com; gmo-pg.com; meti.go.jp]
 
 | Item | Reading |
 |---|---|

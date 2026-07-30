@@ -1,11 +1,11 @@
 ---
 source: regional-banks/ssnb
-source_hash: ae79c9b0c8e2ed7c
+source_hash: 3d77403ef1635fdf
 lang: en
 status: machine
 fidelity: ok
 title: "SBI Sumishin Net Bank → Docomo SMTB Net Bank"
-translated_at: 2026-07-28T20:55:25Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # SBI Sumishin Net Bank → Docomo SMTB Net Bank
@@ -33,6 +33,8 @@ SBI Sumishin Net Bank is a licensed ordinary bank that provides mortgages and th
 ^[SBI Sumishin Net Bank company profile: https://www.netbk.co.jp/contents/company/about/organization/; joint release on the name change and capital reorganisation (2025-12-19): https://www.netbk.co.jp/contents/company/press/2025/1219_004783.html; SBI Sumishin Net Bank, change in parent and major shareholder (2026-07-01): https://www.netbk.co.jp/contents/company/en/press/2026/0701_005996.html]
 
 ### Figures (FY2024  = term 2025-03 , consolidated basis)
+
+The following table is scoped to public primary sources (netbk.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:netbk.co.jp]
 
 | Item | Scale | Source |
 |---|---|---|
@@ -69,6 +71,8 @@ At PRIME listing on 2023-03-29:
 
 ### Key chronology
 
+The following table is scoped to public primary sources (netbk.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:netbk.co.jp]
+
 | Year/Month | Event |
 |---|---|
 | 2007-09-24 | **Opened as a 50:50  JV of Sumitomo Trust Bank + SBI HD** |
@@ -87,6 +91,8 @@ At PRIME listing on 2023-03-29:
 
 ## 2. Business-segment map
 
+The following table is scoped to public primary sources (netbk.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:netbk.co.jp]
+
 | Segment | Main business | Characteristics |
 |---|---|---|
 | **Mortgages** | Flat 35  / variable / fixed | **No.1 -class among net banks** by origination volume. Long the growth engine |
@@ -100,6 +106,8 @@ At PRIME listing on 2023-03-29:
 ### NEOBANK services (BaaS) list
 
 SBI Sumishin Net Bank provides banking functions to other companies via API under the "NEOBANK" brand. Major partners:
+
+The following table is scoped to public primary sources (netbk.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:netbk.co.jp]
 
 | Brand | Partner | Launch timing |
 |---|---|---|
@@ -138,6 +146,8 @@ SBI Sumishin Net Bank provides banking functions to other companies via API unde
 - **Linkage with the former parent SBI group**: How the existing API linkage with SBI Securities / SBI VC Trade will be continued / scaled back is at issue.
 
 ### Competitive position (net-bank industry, from 2025-10 )
+
+The following table is scoped to public primary sources (netbk.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:netbk.co.jp]
 
 | Bank | Parent | Strengths | Weaknesses |
 |---|---|---|---|

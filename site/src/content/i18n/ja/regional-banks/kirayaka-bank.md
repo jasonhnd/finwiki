@@ -1,11 +1,11 @@
 ---
 source: regional-banks/kirayaka-bank
-source_hash: 80a4bcea577737f3
+source_hash: 3e161738f1c37933
 lang: ja
 status: machine
 fidelity: ok
 title: "きらやか銀行"
-translated_at: 2026-06-02T14:54:39.070Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # きらやか銀行
 # きらやか銀行
@@ -20,6 +20,8 @@ translated_at: 2026-06-02T14:54:39.070Z
 株式会社きらやか銀行は、金融庁の銀行免許一覧に掲載される山形県本店の第二地方銀行で、[[regional-banks/jimoto-hd]] 傘下の営業銀行。山形県市場では [[regional-banks/yamagata-bank]] と競合し、[[regional-banks/sendai-bank]] と合わせて Jimoto group の銀行免許面を構成する。
 
 ## 1. 免許・グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, kirayaka.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; kirayaka.co.jp]
 
 | 項目 | 注記 |
 |---|---|

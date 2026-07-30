@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/philippine-national-bank-japan
-source_hash: fb03cfdf862fc1bc
+source_hash: b7053e057c5fb5a3
 lang: en
 status: machine
 fidelity: ok
 title: "Philippine National Bank Japan"
-translated_at: 2026-06-01T00:41:50.425Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Philippine National Bank Japan
 
@@ -23,6 +23,8 @@ The branch is worth standalone treatment because its business is not just corpor
 
 ## Entity Boundary
 
+The following table is scoped to public primary sources (fsa.go.jp, pnb.com.ph). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; pnb.com.ph]
+
 | Item | Reading |
 |---|---|
 | Parent bank | Philippine National Bank |
@@ -32,6 +34,8 @@ The branch is worth standalone treatment because its business is not just corpor
 | Regulatory route | Foreign-bank branch under Japanese banking law. |
 
 ## Business Role Map
+
+The following table is scoped to public primary sources (fsa.go.jp, pnb.com.ph). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; pnb.com.ph]
 
 | Function | Japan relevance |
 |---|---|

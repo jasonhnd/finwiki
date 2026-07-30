@@ -3,8 +3,8 @@ title: "証券保管振替機構 (JASDEC)"
 aliases: ["JASDEC", "ほふり", "Japan Securities Depository Center", "証券保管振替機構"]
 domain: securities
 created: 2026-05-20
-last_updated: 2026-05-20
-last_tended: 2026-05-20
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-20
 confidence: likely
 tags: [securities, settlement, csd, market-infrastructure]
@@ -28,6 +28,8 @@ For FinWiki, JASDEC is the settlement / book-entry rail behind listed shares, co
 
 ## System Map
 
+The following table is scoped to public primary sources (jasdec.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jasdec.com]
+
 | Layer | JASDEC reading |
 |---|---|
 | Legal name | Japan Securities Depository Center, Inc. |
@@ -38,6 +40,8 @@ For FinWiki, JASDEC is the settlement / book-entry rail behind listed shares, co
 | Group entity | JASDEC DVP Clearing Corporation (JDCC). |
 
 ## Service Map
+
+The following table is scoped to public primary sources (jasdec.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jasdec.com]
 
 | Service | Role |
 |---|---|

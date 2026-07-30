@@ -11,8 +11,8 @@ aliases:
   - "コール市場 担保"
 domain: "money-market"
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [money-market, call-market, BoJ, overnight-rate, tanshi]
@@ -65,6 +65,8 @@ Do not read the call rate as a simple deposit rate. It is a wholesale money-mark
 ## Uncollateralized vs collateralized segments
 
 The call market historically had two segments distinguished by whether the loan is backed by collateral. In current practice "the call rate" means the **uncollateralized overnight** rate; the collateralized segment is largely a historical and definitional contrast.
+
+The following table is scoped to public primary sources (boj.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:boj.or.jp]
 
 | Dimension | Uncollateralized call (無担保コール) | Collateralized call (有担保コール) |
 |---|---|---|

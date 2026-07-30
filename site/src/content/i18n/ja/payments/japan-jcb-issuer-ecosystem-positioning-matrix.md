@@ -1,11 +1,11 @@
 ---
 source: payments/japan-jcb-issuer-ecosystem-positioning-matrix
-source_hash: 30c59b4d778c8339
+source_hash: 815c5a0dd77b4095
 lang: ja
 status: machine
 fidelity: ok
 title: "日本の JCB イシュアー・経済圏・ポジショニングマトリクス"
-translated_at: 2026-06-22T07:08:50.155Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本の JCB イシュアー・経済圏・ポジショニングマトリクス
@@ -78,6 +78,8 @@ ANA JCB カードと JAL JCB カードは、JCB と ANA（全日空）/ JAL（�
 
 ## 大比較マトリクステーブル
 
+以下の表は、エントリ出典インベントリの公開一次資料（global.jcb, jcb.co.jp, meti.go.jp）の範囲に限定して読む。^[source:global.jcb; jcb.co.jp; meti.go.jp; j-credit.or.jp]
+
 | イシュアー | ブランドの役割 | グループアンカー | 上場 | カードポートフォリオ規模（カードホルダー） | ターゲットセグメント | 主要な経済エンジン | JCB 側の関係 | クロスブランド発行 | 加盟店ネットワークのレバレッジ | 3-party 対 4-party のポジション |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **[[card-issuers/jcb\|JCB Co.]]** | ブランド + 直接イシュアー + アクワイアラー | マルチバンクコンソーシアム（MUFG / SMFG / SMTB 側） | 非上場 | JCB ブランドのカード ~140 M+ グローバル（パートナー発行含む）；JCB 真正ブック数百万 | プレミアム（ザ・クラス、プラチナ）、マス（CARD W） | ブランドフィー + 3-party MDR（真正） + パートナーからのスキームフィー | 自身 | JCB のみ発行 | 直接 JCB 加盟店ネットワーク + Discover / UnionPay / Amex とのアライアンス | 真正については 3-party、4-party パートナーについてはスキーム事業者 |
@@ -95,6 +97,8 @@ ANA JCB カードと JAL JCB カードは、JCB と ANA（全日空）/ JAL（�
 | **JAL JCB コブランド** | 複数のイシュアーバックエンド上のコブランド | JAL + JCB または他のイシュアー | バックエンドに応じて子会社またはライセンシー | Mileage-card portfolio across multiple brands | 頻繁な旅行者 / マイレージ | マイレージ積立 + プレミアムティアの年会費 | ブランドライセンシー；JCB と共同設計のコブランド | ブランドは異なる（JAL は Visa / Mastercard / Amex バージョンも持つ） | JAL 空港 + プレミアム加盟店 | ほとんど 4-party；一部 JCB 直接発行 ^[JCB brand business-area source; METI registered-operator lists] |
 
 ### サイド軸 — ポイント / ロイヤルティ + 3DS / セキュリティ
+
+以下の表は、エントリ出典インベントリの公開一次資料（global.jcb, jcb.co.jp, meti.go.jp）の範囲に限定して読む。^[source:global.jcb; jcb.co.jp; meti.go.jp; j-credit.or.jp]
 
 | イシュアー | 主要ポイント通貨 | ポイントのクロス交換 | EMV 3-DS の準備状況（2025-03  マンデート） | J-CSC ガイドライン遵守 |
 |---|---|---|---|---|
@@ -125,6 +129,8 @@ ANA JCB カードと JAL JCB カードは、JCB と ANA（全日空）/ JAL（�
 
 ## クロスイシュアーの競争ダイナミクス
 
+以下の表は、エントリ出典インベントリの公開一次資料（global.jcb, jcb.co.jp, meti.go.jp）の範囲に限定して読む。^[source:global.jcb; jcb.co.jp; meti.go.jp; j-credit.or.jp]
+
 | 次元 | 銀行系 FG イシュアー（NICOS、SMBC カード） | 小売系 FG イシュアー（イオン、楽天、エポス、JR ビュー） | 信販イシュアー（オリコ、JACCS、クレディセゾン） | プレミアム 3-party ブランド（JCB 真正、ダイナース、Amex） |
 |---|---|---|---|---|
 | **顧客アクイジションチャネル** | 銀行支店 + 銀行オンライン + 法人給与振込バンドル | チェックアウトでの小売ロイヤルティ登録 | 自動車ディーラーシップ / 加盟店のオンボーディング | プレミアムダイレクトマーケティング + 招待 |
@@ -146,6 +152,8 @@ ANA JCB カードと JAL JCB カードは、JCB と ANA（全日空）/ JAL（�
 - **「なぜ [[payment-firms/visa-worldwide-japan|Visa Worldwide Japan]] と [[payment-firms/mastercard-japan|Mastercard Japan]] は関連セクションにあるがマトリクスにはないのか？」** マトリクスのスコープが JCB 発行事業者だからである。Visa と Mastercard はネットワークレベルで JCB と競合するブランド事業者だが、JCB イシュアーではない。それらの位置は 4-party のカードランドスケープを読むためのアップストリームのフレームワークである。
 
 ## 最近の規制圧力
+
+以下の表は、エントリ出典インベントリの公開一次資料（global.jcb, jcb.co.jp, meti.go.jp）の範囲に限定して読む。^[source:global.jcb; jcb.co.jp; meti.go.jp; j-credit.or.jp]
 
 | 日付 | ソース | 何が変わったか |
 |---|---|---|
@@ -169,6 +177,8 @@ ANA JCB カードと JAL JCB カードは、JCB と ANA（全日空）/ JAL（�
 - vs **[[payments/credit-purchase-card-operators-japan-index|credit-purchase card 事業者 registry]]**：あのエントリは METI 登録包括信用購入あっせん業者（および個別）の登録のレジストリの足跡のサーフェスである。このマトリクスは、そのレジストリから特定の JCB 発行事業者を名指し、ブランド関係、グループアンカー、経済エンジンの軸に沿ってそれらを配列する。
 
 ## 銀行系 FG 対小売系 FG 対信販系 FG 対独立系 — イシュアーシェアのレンズマトリクスの有用な追加の読解は、JCB 発行事業者の **親 FG** によるものである。なぜなら親 FG が、イシュアーに利用可能な資金コスト、ポイントプログラムの補助の仕組み、加盟店アクイジションチャネルを決定するからである：
+
+以下の表は、エントリ出典インベントリの公開一次資料（global.jcb, jcb.co.jp, meti.go.jp）の範囲に限定して読む。^[source:global.jcb; jcb.co.jp; meti.go.jp; j-credit.or.jp]
 
 | 親 FG のタイプ | JCB 発行事業者 | 合算の概算カードホルダーフットプリント | 特徴的な経済エンジン |
 |---|---|---|---|
@@ -195,6 +205,8 @@ JCB ブランドの競争ポジションをスキャンする読者は、イシ�
 ## 加盟店側でマトリクスを読む
 
 任意のイシュアー側のマトリクスの裏側は、加盟店が JCB を受け入れるときに何を経験するかである。加盟店の視点から：
+
+以下の表は、エントリ出典インベントリの公開一次資料（global.jcb, jcb.co.jp, meti.go.jp）の範囲に限定して読む。^[source:global.jcb; jcb.co.jp; meti.go.jp; j-credit.or.jp]
 
 | 加盟店の問い | マトリクスが支える答え |
 |---|---|

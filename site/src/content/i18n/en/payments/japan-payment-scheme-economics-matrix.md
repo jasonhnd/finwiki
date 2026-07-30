@@ -1,11 +1,11 @@
 ---
 source: payments/japan-payment-scheme-economics-matrix
-source_hash: ba7a2ece0be052ca
+source_hash: 3191f6cc0976ef98
 lang: en
 status: machine
 fidelity: ok
 title: "Japan payment scheme economics matrix"
-translated_at: 2026-06-01T03:31:12.250Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Japan payment scheme economics matrix
 
@@ -21,6 +21,8 @@ This sits under [[payments/INDEX|payments index]] as the cross-scheme reference 
 
 The four classes do not differ mainly in how the consumer taps, scans, or holds a card — they differ in the **balance layer** the value moves through and the **license route** the operator carries.
 
+The following table is scoped to public primary sources (paymentsjapan.or.jp, meti.go.jp, boj.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:paymentsjapan.or.jp; meti.go.jp; boj.or.jp; jftc.go.jp]
+
 | Class | Examples | Balance layer | Primary license route |
 |---|---|---|---|
 | Card payment | Visa, Mastercard, [[card-issuers/jcb\|JCB]], Amex, Diners | Issuer credit line (post-pay) | Installment Sales Act (信販 / 包括信用購入あっせん) + brand rules |
@@ -31,6 +33,8 @@ The four classes do not differ mainly in how the consumer taps, scans, or holds 
 Each class has a **scheme operator** (the entity that owns the network rules and settlement venue) and a **license under Japan law** that determines what consumer-protection rules, fund safeguarding, and refund mechanics apply.
 
 ## Scheme operator and settlement venue
+
+The following table is scoped to public primary sources (paymentsjapan.or.jp, meti.go.jp, boj.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:paymentsjapan.or.jp; meti.go.jp; boj.or.jp; jftc.go.jp]
 
 | Class | Scheme operator pattern | Where money actually settles |
 |---|---|---|
@@ -45,6 +49,8 @@ The 4-party vs 3-party card distinction matters because in a 3-party scheme ther
 
 The license question is downstream of the balance layer, not the UX. A page reader should not call PayPay "a credit card competitor" without first identifying which sub-balance the transaction touched.
 
+The following table is scoped to public primary sources (paymentsjapan.or.jp, meti.go.jp, boj.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:paymentsjapan.or.jp; meti.go.jp; boj.or.jp; jftc.go.jp]
+
 | Class | License stack | Key obligations |
 |---|---|---|
 | Card | Installment Sales Act registration (包括信用購入あっせん業者 / 包括信用購入あっせん業 etc.); separate registration for issuer vs merchant-contracting party (アクワイアラ) vs PSP under METI 115 list | Cardholder credit screening, security guideline (J-CSC), PCI DSS for merchants / PSPs, EMV 3-DS for EC, chargeback rules from brand |
@@ -53,6 +59,8 @@ The license question is downstream of the balance layer, not the UX. A page read
 | Prepaid | Prepaid Payment Instrument issuer notification (自家型) or registration (第三者型) under Payment Services Act; FSA 803-row [[payments/prepaid-payment-instrument-issuers-japan-index\|third-party prepaid registry]] | 50% of unused-balance amount required to be safeguarded with deposit / trust / guarantee; refund process at discontinuation; expiry / unused-balance accounting |Boundaries between these are not stable — operators frequently move balance from prepaid sub-ledger to funds-transfer sub-ledger when they add P2P transfer features, which forces a fresh license analysis. See [[payments/funds-transfer-vs-prepaid-boundary|funds transfer vs prepaid boundary]] for the test.
 
 ## Acquirer model (single-acquirer vs multi-acquirer)
+
+The following table is scoped to public primary sources (paymentsjapan.or.jp, meti.go.jp, boj.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:paymentsjapan.or.jp; meti.go.jp; boj.or.jp; jftc.go.jp]
 
 | Class | Acquirer structure |
 |---|---|
@@ -67,6 +75,8 @@ The single-acquirer pattern in non-card classes is one reason METI and JFTC view
 
 These are public-reported ranges. Actual merchant fees vary by MCC, ticket size, ECR vs MPM QR, on-us vs off-us, and negotiation power.
 
+The following table is scoped to public primary sources (paymentsjapan.or.jp, meti.go.jp, boj.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:paymentsjapan.or.jp; meti.go.jp; boj.or.jp; jftc.go.jp]
+
 | Class | Typical merchant fee (MDR) | Per-transaction fixed |
 |---|---|---|
 | Card | JFTC 2022: simple-average ~2.70%, weighted-average ~1.66%; Payments Japan 2022 roadmap: Category I avg 2.63%, Category II avg 2.89% | Usually none in classic MDR; PSP-layer may add per-tx fee |
@@ -75,6 +85,8 @@ These are public-reported ranges. Actual merchant fees vary by MCC, ticket size,
 | Prepaid e-money | Typically 2-3% range; transit-zone Suica merchant fee historically lower in railway-owned retail; WAON / nanaco fees set by issuer | Per-tap processing fee sometimes embedded |The METI merchant-fee disclosure pressure (see [Recent regulatory pressure](#recent-regulatory-pressure)) explicitly targets card class first, where disclosure is most advanced — JCB has disclosed allocation rate between issuer and acquirer since the 2023-06-01 METI/JFTC release.
 
 ## Issuer fee / interchange — who earns what
+
+The following table is scoped to public primary sources (paymentsjapan.or.jp, meti.go.jp, boj.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:paymentsjapan.or.jp; meti.go.jp; boj.or.jp; jftc.go.jp]
 
 | Class | Interchange or issuer-side share | Where it sits |
 |---|---|---|
@@ -88,6 +100,8 @@ A 4-party card transaction at a typical ~2.5% MDR will pay roughly 1.5-1.6% inte
 
 ## Settlement cycle
 
+The following table is scoped to public primary sources (paymentsjapan.or.jp, meti.go.jp, boj.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:paymentsjapan.or.jp; meti.go.jp; boj.or.jp; jftc.go.jp]
+
 | Class | Merchant settlement | Consumer billing |
 |---|---|---|
 | Card | T+M (monthly batch) traditional; major PSPs offer T+5 to next-day settlement at premium | Cardholder billed mid-month following purchase month (typical 1-2 month float for issuer credit) |
@@ -98,6 +112,8 @@ A 4-party card transaction at a typical ~2.5% MDR will pay roughly 1.5-1.6% inte
 The card class is the only one where the **consumer enjoys structural credit float** — every other class debits at or near transaction time, which is a major reason credit cards still hold the majority of cashless **value** even though code payments dominate transaction **count**.
 
 ## Chargeback handling
+
+The following table is scoped to public primary sources (paymentsjapan.or.jp, meti.go.jp, boj.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:paymentsjapan.or.jp; meti.go.jp; boj.or.jp; jftc.go.jp]
 
 | Class | Chargeback / dispute path | Consumer protection lever |
 |---|---|---|
@@ -110,6 +126,8 @@ Chargeback strength is a major reason card payment is still the default in high-
 
 ## Acceptance footprint
 
+The following table is scoped to public primary sources (paymentsjapan.or.jp, meti.go.jp, boj.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:paymentsjapan.or.jp; meti.go.jp; boj.or.jp; jftc.go.jp]
+
 | Class | Domestic offline | Domestic online | Cross-border |
 |---|---|---|---|
 | Card | Universal (POS, EMV contact / contactless) | Universal | Yes — international brand network |
@@ -120,6 +138,8 @@ Chargeback strength is a major reason card payment is still the default in high-
 The cross-border lane is where card class retains an essentially unique position — inbound tourist payment and outbound consumer payment both default to international brand networks despite all the domestic-only competition.
 
 ## Authentication / fraud control stack
+
+The following table is scoped to public primary sources (paymentsjapan.or.jp, meti.go.jp, boj.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:paymentsjapan.or.jp; meti.go.jp; boj.or.jp; jftc.go.jp]
 
 | Class | Primary auth at transaction | Secondary controls |
 |---|---|---|
@@ -134,6 +154,8 @@ The EMV 3-DS requirement for EC is the single biggest 2025 control change — se
 
 This dimension is uniquely complex in Japan because point programs operate as a **parallel currency layer** that overlaps but does not align with the payment-scheme layer.
 
+The following table is scoped to public primary sources (paymentsjapan.or.jp, meti.go.jp, boj.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:paymentsjapan.or.jp; meti.go.jp; boj.or.jp; jftc.go.jp]
+
 | Class | Who funds the points | Cross-scheme exchangeability |
 |---|---|---|
 | Card | Issuer-funded (Rakuten Card → Rakuten Point, SMBC Card → V Point, JCB Card → Oki Doki Point, AEON Card → WAON POINT) | High through 共通ポイント (V Point, Rakuten Point, d Point, PayPay Point, Ponta) — see [[loyalty/japan-points-landscape\|Japan points landscape]] |
@@ -144,6 +166,8 @@ This dimension is uniquely complex in Japan because point programs operate as a 
 The point layer is **not free margin** — it is a deliberate budget line. PayPay's prolonged subsidy phase (2018-2022) and Rakuten's flywheel both rely on point economics that may not be sustainable without payment-scheme-level revenue, which is why the [[payments/japan-code-payment-competitive-map|code-payment competitive map]] tracks campaign-cost ratios.
 
 ## Cross-scheme exchangeability and interoperability
+
+The following table is scoped to public primary sources (paymentsjapan.or.jp, meti.go.jp, boj.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:paymentsjapan.or.jp; meti.go.jp; boj.or.jp; jftc.go.jp]
 
 | Lane | Mechanism | Reality |
 |---|---|---|
@@ -156,6 +180,8 @@ The point layer is **not free margin** — it is a deliberate budget line. PayPa
 The Suica / PASMO 10 IC mutual-use scheme is the strongest interoperability story in the prepaid class but is constrained by the transit-zone footprint. The code-payment class has nothing comparable — QR gateways aggregate acceptance for the merchant but do not create a true mutual-use scheme between wallets.
 
 ## BoJ-NET / Zengin / Cotra dependency
+
+The following table is scoped to public primary sources (paymentsjapan.or.jp, meti.go.jp, boj.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:paymentsjapan.or.jp; meti.go.jp; boj.or.jp; jftc.go.jp]
 
 | Class | Settlement infrastructure dependency |
 |---|---|
@@ -170,6 +196,8 @@ Every Japan payment scheme is ultimately a Zengin / BOJ-NET dependent system bec
 
 A potential fifth scheme class is emerging around tokenized money. It is not yet at scale but the legal route is now defined.
 
+The following table is scoped to public primary sources (paymentsjapan.or.jp, meti.go.jp, boj.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:paymentsjapan.or.jp; meti.go.jp; boj.or.jp; jftc.go.jp]
+
 | Tokenized money type | Sits next to | Scheme analogy |
 |---|---|---|
 | JPYC (electronic payment instrument under EPI route) | Prepaid + funds-transfer hybrid | Closer to prepaid economics but with on-chain transferability |
@@ -180,6 +208,8 @@ A potential fifth scheme class is emerging around tokenized money. It is not yet
 See [[fintech/japan-epi-three-types-overview|Japan EPI three types overview]] for the regulatory classification. For payment-scheme purposes, these add a sixth balance layer that does not yet have a defined merchant-acceptance footprint or chargeback regime, so they are excluded from the four-class matrix above.
 
 ## Recent regulatory pressure
+
+The following table is scoped to public primary sources (paymentsjapan.or.jp, meti.go.jp, boj.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:paymentsjapan.or.jp; meti.go.jp; boj.or.jp; jftc.go.jp]
 
 | Date | Source | What changed |
 |---|---|---|
@@ -195,6 +225,8 @@ The disclosure pressure is currently concentrated on card class (which is also w
 ## Cross-section: micro-merchant access (商店街 economics)
 
 The four classes look dramatically different at the **sub-3-person small-merchant** end of the market — a 個人商店 in a 商店街.
+
+The following table is scoped to public primary sources (paymentsjapan.or.jp, meti.go.jp, boj.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:paymentsjapan.or.jp; meti.go.jp; boj.or.jp; jftc.go.jp]
 
 | Class | Small-merchant onboarding | Hardware cost | All-in cost for a JPY 500 transaction |
 |---|---|---|---|

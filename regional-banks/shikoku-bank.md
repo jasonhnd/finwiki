@@ -3,8 +3,8 @@ title: "四国銀行"
 aliases: ["Shikoku Bank", "The Shikoku Bank", "株式会社四国銀行"]
 domain: regional-banks
 created: 2026-05-21
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, banking, regional-bank, shikoku, kochi, operating-company]
@@ -26,6 +26,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 株式会社四国銀行 (The Shikoku Bank) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される高知県高知市本店の地方銀行 (第一地銀)。1897 年創業の歴史を持つ高知県の first-regional-bank operating-company anchor で、東証上場の上場地銀。第二地銀の [[regional-banks/kochi-bank|高知銀行]] とは別法人の peer として扱う。事業の中身は県内および四国一円の預金受入・中小企業/個人向け貸出という地銀の標準モデル。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, shikokubank.co.jp, ja.wikipedia.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; shikokubank.co.jp; ja.wikipedia.org]
 
 | Item | Notes |
 |---|---|

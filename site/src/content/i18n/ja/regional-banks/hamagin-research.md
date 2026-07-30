@@ -1,11 +1,11 @@
 ---
 source: regional-banks/hamagin-research
-source_hash: 1b7488c23d0700b6
+source_hash: 460735153bb46abe
 lang: ja
 status: machine
 fidelity: ok
 title: "はまぎん総合研究所 (Hamagin Research Institute)"
-translated_at: 2026-06-02T14:25:12.407Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # はまぎん総合研究所 (Hamagin Research Institute)
@@ -19,6 +19,8 @@ translated_at: 2026-06-02T14:25:12.407Z
 株式会社はまぎん総合研究所 (Hamagin Research Institute, HRI) は、[[regional-banks/yokohama-bank|横浜銀行]] (現 [[regional-banks/concordia-fg|横浜フィナンシャルグループ]] 子会社) 連結子会社の地銀系シンクタンクで、神奈川県経済データ・地域分析・中堅企業向けコンサルティング・人材開発・経済予測を提供。1988-07-21 設立・資本金 1 億円・従業員 157 名 (2025-10-01) 規模で、神奈川県政・市町村への調査委託も受注。地銀 FG 戦略における「地域経済インテリジェンス」の中核子会社。^[extracted]
 
 ## 1. ライセンス・グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（yokohama-ri.co.jp, yokohamafg.co.jp, boy.co.jp）の範囲に限定して読む。^[source:yokohama-ri.co.jp; yokohamafg.co.jp; boy.co.jp; chiginkyo.or.jp]
 
 | 項目 | 注記 |
 |---|---|
@@ -53,6 +55,8 @@ translated_at: 2026-06-02T14:25:12.407Z
 
 ## 4. KPI table
 
+以下の表は、エントリ出典インベントリの公開一次資料（yokohama-ri.co.jp, yokohamafg.co.jp, boy.co.jp）の範囲に限定して読む。^[source:yokohama-ri.co.jp; yokohamafg.co.jp; boy.co.jp; chiginkyo.or.jp]
+
 | 項目 | 概況 | 出典 |
 |---|---|---|
 | 設立 | 1988-07-21 | 公式会社概要 |
@@ -67,6 +71,8 @@ translated_at: 2026-06-02T14:25:12.407Z
 > 注: 売上・受託件数等のセグメント別精緻値は [[regional-banks/concordia-fg]] 有価証券報告書セグメント情報 / はまぎん総研公式サイト要参照。Wikipedia 記載の FY 純資産は約 110 億円規模。
 
 ## 5. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（yokohama-ri.co.jp, yokohamafg.co.jp, boy.co.jp）の範囲に限定して読む。^[source:yokohama-ri.co.jp; yokohamafg.co.jp; boy.co.jp; chiginkyo.or.jp]
 
 | セグメント | 特徴 |
 |---|---|

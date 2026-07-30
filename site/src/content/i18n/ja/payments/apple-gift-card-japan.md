@@ -1,12 +1,12 @@
 ---
 source: payments/apple-gift-card-japan
-source_hash: 8e674621b040f932
+source_hash: 47618d26c3339c95
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Apple Gift Card Japan: Apple エコシステムのクローズドループ前払"
-translated_at: 2026-06-26T08:38:42.154Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Apple Gift Card Japan: Apple エコシステムのクローズドループ前払
 
@@ -19,6 +19,8 @@ translated_at: 2026-06-26T08:38:42.154Z
 **Apple Gift Card（Appleギフトカード）** は、**Apple Inc. のクローズドループ型統合前払ギフトカード**であり、日本では **Apple Japan G.K.（Apple Japan合同会社）** が発行する。[[payments/funds-transfer-vs-prepaid-boundary|Payment Services Act 前払式 framework]] のもとで、自家型（クローズドループ / 単一加盟店）前払式支払手段として運営される。統合形態のプロダクトは **2021-09に開始**され、それまでの **iTunes Card**（App Store / iTunes / Apple Music / iCloud 向け支出）と **Apple Store Gift Card**（Apple ハードウェア / Apple Store 小売向け支出）を単一 SKU に統合した。Apple Gift Card 残高は、日本の **Apple エコシステム全体**、すなわち App Store、iTunes Store、Apple Music、Apple TV+、iCloud、Apple Books、Apple Arcade、**および** Apple Store（apple.com/jp/shop）でのハードウェア（iPhone、iPad、Mac、AirPods、アクセサリ）購入に利用できる。流通レールには、コンビニエンスストア（Lawson、FamilyMart、MiniStop、7-Eleven、Daily Yamazaki、ドラッグストア、家電量販店等）での物理カード販売、Apple.com/jp のデジタル eGift、Apple Store 店頭が含まれる。
 
 ## 発行者と運用構造
+
+以下の表は、エントリ出典インベントリの公開一次資料（apple.com, support.apple.com, fsa.go.jp）の範囲に限定して読む。^[source:apple.com; support.apple.com; fsa.go.jp; meti.go.jp]
 
 | 観点 | 読み方 |
 |---|---|
@@ -46,6 +48,8 @@ Apple Gift Card は、[[payments/funds-transfer-vs-prepaid-boundary|Payment Serv
 
 2021 以前の商品構成:
 
+以下の表は、エントリ出典インベントリの公開一次資料（apple.com, support.apple.com, fsa.go.jp）の範囲に限定して読む。^[source:apple.com; support.apple.com; fsa.go.jp; meti.go.jp]
+
 | 2021 以前の商品 | 利用面 |
 |---|---|
 | **iTunes Card** | App Store、iTunes Store、Apple Music、Apple TV+、Apple Books、Apple Arcade、iCloud — デジタルコンテンツ / サービス |
@@ -55,6 +59,8 @@ Apple Gift Card は、[[payments/funds-transfer-vs-prepaid-boundary|Payment Serv
 **2021-09 の統合**により、これらはデジタルコンテンツとハードウェア小売の両方で使える単一の **Apple Gift Card** SKU にまとめられた。これは消費者と流通チャネル双方にとって構造を単純化する変更だった。米国、日本、その他主要市場で同時期に展開された、Apple のグローバルな商品変更である。
 
 ## 流通レール
+
+以下の表は、エントリ出典インベントリの公開一次資料（apple.com, support.apple.com, fsa.go.jp）の範囲に限定して読む。^[source:apple.com; support.apple.com; fsa.go.jp; meti.go.jp]
 
 | レール | 説明 |
 |---|---|
@@ -76,6 +82,8 @@ Apple Gift Card は、[[payments/funds-transfer-vs-prepaid-boundary|Payment Serv
 - この詐欺パターンを受け、警察庁や消費者保護当局は Amazon や Google Play と並んで Apple Gift Card を名指しする注意喚起を行っている。
 
 ## KPI スナップショット
+
+以下の表は、エントリ出典インベントリの公開一次資料（apple.com, support.apple.com, fsa.go.jp）の範囲に限定して読む。^[source:apple.com; support.apple.com; fsa.go.jp; meti.go.jp]
 
 | 指標 | 読み方 |
 |---|---|

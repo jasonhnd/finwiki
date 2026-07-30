@@ -1,11 +1,11 @@
 ---
 source: securities/osaka-digital-exchange
-source_hash: 2b0f5f35c01627c9
+source_hash: 157a374f537c3d70
 lang: ja
 status: machine
 fidelity: ok
 title: "大阪デジタルエクスチェンジ (ODX)"
-translated_at: 2026-06-19T12:43:19.988Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 大阪デジタルエクスチェンジ (ODX)
@@ -22,6 +22,8 @@ FinWiki にとって、ODX は旧来の証券市場構造とトークン化証�
 
 ## System Map
 
+以下の表は、エントリ出典インベントリの公開一次資料（odx.co.jp, fsa.go.jp）の範囲に限定して読む。^[source:odx.co.jp; fsa.go.jp]
+
 | Layer | Reading |
 |---|---|
 | Legal name | 大阪デジタルエクスチェンジ株式会社 |
@@ -32,6 +34,8 @@ FinWiki にとって、ODX は旧来の証券市場構造とトークン化証�
 | Associations | JSDA 賛助会員；日本 STO 協会および日本セキュリティトークン協会 賛助会員。 |
 
 ## Market Map
+
+以下の表は、エントリ出典インベントリの公開一次資料（odx.co.jp, fsa.go.jp）の範囲に限定して読む。^[source:odx.co.jp; fsa.go.jp]
 
 | Market | Reading |
 |---|---|

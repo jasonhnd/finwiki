@@ -1,11 +1,11 @@
 ---
 source: policy-finance/hyogo-credit-guarantee-corp
-source_hash: f702afd84908a9a6
+source_hash: 72b6da2198ee0f33
 lang: ja
 status: machine
 fidelity: ok
 title: "兵庫県信用保証協会 (Hyogo Credit Guarantee Corporation)"
-translated_at: 2026-06-19T06:09:18.111Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 兵庫県信用保証協会 (Hyogo Credit Guarantee Corporation)
@@ -19,6 +19,8 @@ translated_at: 2026-06-19T06:09:18.111Z
 兵庫県信用保証協会は、日本の 51協会体制の地方信用保証制度における兵庫県の構成員である。保証残高で連合会構成員の上位十傑に入るが、それは兵庫が日本で最も多様な重工業／機械の中小企業基盤を集積しているためである — 神戸・阪神の鉄鋼・造船（神戸製鋼所、川崎重工業、三菱重工業神戸工場）、神戸港のコンテナ／バルク物流コンプレックス、姫路・明石周辺の精密機械・印刷機、播州の繊維・皮革製品、加えて但馬／淡路の農村経済の裾野である。主たる協調融資のパートナーは、[[regional-banks/minato-bank|Minato Bank ([[megabanks/smfg|SMFG]] subsidiary)]]、[[regional-banks/tajima-bank|Tajima Bank]]、関西みらい銀行 / [[megabanks/resona-hd|Resona Group]] のプレゼンス、加えて緊密な兵庫の信金／信用組合ネットワークである。
 
 ## 1. 機関概要
+
+以下の表は、エントリ出典インベントリの公開一次資料（hosho.or.jp, zenshinhoren.or.jp, chusho.meti.go.jp）の範囲に限定して読む。^[source:hosho.or.jp; zenshinhoren.or.jp; chusho.meti.go.jp]
 
 | 項目 | 内容 |
 |---|---|
@@ -83,6 +85,8 @@ COVID-19 緊急時（2020–2021）、兵庫県 CGC は国の実質無利子・�
 [[financial-regulators/jfc|JFC]] の連合会プール信用保険層は、責任共有制度の下での兵庫県 CGC の一次損失代位弁済後の残存損失を吸収する。災害対応の 100% 保証の変種は、標準的な責任共有のデフォルトの外で運用され、緊急プログラムでは連合会再保険と JFC 信用保険がより大きな損失シェアを吸収する。兵庫県 CGC の重工業サプライヤーの代位弁済プロファイルは、この再保険層を通じて部分的に平準化される — 重工業の需要サイクルは局地的ではなく世界的であるため、世界の鉄鋼サイクルの逆転によって駆動される神戸製鋼所の受注残崩壊は、すべての 51 協会を支える [[financial-regulators/jfc|JFC]] 信用保険プールを通じて拡散する。
 
 ## 8. Comparison with peer prefecture CGCs
+
+以下の表は、エントリ出典インベントリの公開一次資料（hosho.or.jp, zenshinhoren.or.jp, chusho.meti.go.jp）の範囲に限定して読む。^[source:hosho.or.jp; zenshinhoren.or.jp; chusho.meti.go.jp]
 
 | Dimension | Hyogo CGC | [[policy-finance/osaka-credit-guarantee-corp|Osaka CGC]] | [[policy-finance/kanagawa-credit-guarantee-corp|Kanagawa CGC]] |
 |---|---|---|---|

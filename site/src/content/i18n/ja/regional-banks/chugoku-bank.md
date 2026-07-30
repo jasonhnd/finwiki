@@ -1,11 +1,11 @@
 ---
 source: regional-banks/chugoku-bank
-source_hash: f10debd2f3f56f2e
+source_hash: 215075512e931120
 lang: ja
 status: machine
 fidelity: ok
 title: "中国銀行"
-translated_at: 2026-06-02T14:01:20.962Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 中国銀行
@@ -20,6 +20,8 @@ translated_at: 2026-06-02T14:01:20.962Z
 株式会社中国銀行は、金融庁の銀行免許一覧に掲載される岡山県本店の地方銀行。中華人民共和国の Bank of China ではなく、日本の中国地方に由来する `The Chugoku Bank` であり、[[regional-banks/chugin-okayama]] / ちゅうぎん FG の中核事業銀行として扱う。
 
 ## 1. 免許 / グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, chugin.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; chugin.co.jp]
 
 | 項目 | 注記 |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/intesa-sanpaolo-japan
-source_hash: a4ff01803821644a
+source_hash: 1c3c10d1455323f4
 lang: en
 status: machine
 fidelity: ok
 title: "Intesa Sanpaolo Tokyo Branch"
-translated_at: 2026-06-18T23:59:13.046Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Intesa Sanpaolo Tokyo Branch
@@ -20,6 +20,8 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 The Intesa Sanpaolo Tokyo Branch is the Japan-based bank branch of Italy / Intesa Sanpaolo S.p.A., listed on the FSA's foreign-bank branch list. Against the backdrop of an Italy-Japan corporate banking presence since the 1970s, it is treated as a wholesale branch supporting Italian and international customers in Japan and Japanese businesses abroad.
 
 ## 1. License / branch boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, group.intesasanpaolo.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; group.intesasanpaolo.com]
 
 | Item | Notes |
 |---|---|

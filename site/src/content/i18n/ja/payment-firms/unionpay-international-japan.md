@@ -1,12 +1,12 @@
 ---
 source: payment-firms/unionpay-international-japan
-source_hash: a878cd4912ad92f5
+source_hash: 592dd0dd6236b6b6
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "銀聯インターナショナル日本支社 (UnionPay International Japan)"
-translated_at: 2026-06-26T08:31:59.841Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 銀聯インターナショナル日本支社 (UnionPay International Japan)
@@ -20,6 +20,8 @@ translated_at: 2026-06-26T08:31:59.841Z
 銀聯インターナショナル日本支社は、中国の **China UnionPay (中国銀聯)** の国際展開子会社 UnionPay International (UPI) の日本拠点。中国本土の決済インフラとして圧倒的なシェアを持つ銀聯ブランドを日本国内で展開し、主に **訪日中国人観光客 (インバウンド) の決済受入** を目的とした加盟店ネットワーク開拓を担う。国内発行 (国内消費者向けに銀聯カードを発行する 発行会社機能) は限定的で、主軸は **アクワイアラ side (加盟店契約・受入拡大)**。[[card-issuers/jcb|JCB]] とは 2006 年に相互利用提携を締結し、JCB カードが中国本土の銀聯加盟店で使え、銀聯カードが日本の JCB 加盟店で使える相互運用を実現してきた歴史的パートナー。
 
 ## 1. ライセンス / グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（unionpayintl.com）の範囲に限定して読む。^[source:unionpayintl.com]
 
 | Item | Notes |
 |---|---|

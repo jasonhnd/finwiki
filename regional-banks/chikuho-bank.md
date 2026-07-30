@@ -3,8 +3,8 @@ title: "筑邦銀行"
 aliases: ["Chikuho Bank", "The Chikuho Bank", "株式会社筑邦銀行", "ちくぎん"]
 domain: regional-banks
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, banking, regional-bank, kyushu, fukuoka, kurume, operating-company]
@@ -26,6 +26,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 株式会社筑邦銀行は、金融庁の銀行免許一覧に掲載される福岡県久留米市本店の地方銀行。Fukuoka prefecture local / Chikugo-area regional-bank operating-company anchor であり、[[regional-banks/fukuoka-bank]] and [[regional-banks/nishi-nippon-city-bank]] とは別法人の peer として扱う。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, chikugin.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; chikugin.co.jp]
 
 | Item | Notes |
 |---|---|

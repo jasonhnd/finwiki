@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/kyoritsu-fire-marine
-source_hash: 1d6e1ce2d061e0a3
+source_hash: 4b43f6adc80b0abf
 lang: en
 status: machine
 fidelity: ok
 title: "共栄火災海上保険"
-translated_at: 2026-06-19T06:09:18.180Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 共栄火災海上保険
 
@@ -29,6 +29,8 @@ A mid-sized non-life insurance company with JA Kyosairen as its largest sharehol
 
 ### 2023-03  period results (the 82  term) ^[extracted]
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Item | Amount |
 |---|---|
 | Ordinary revenue | 2,105 億 1,700 万円 |
@@ -37,6 +39,8 @@ A mid-sized non-life insurance company with JA Kyosairen as its largest sharehol
 | Total assets | 5,656 億 0,600 万円 |
 
 ### Major shareholders (as of 2023-03-31) ^[extracted]
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Shareholder | Ratio |
 |---|---|
@@ -48,6 +52,8 @@ A mid-sized non-life insurance company with JA Kyosairen as its largest sharehol
 > Note: While the original brief listed "Mitsui Sumitomo Insurance, approximately 14%" as a major shareholder, the entry of an MS&AD-affiliated shareholder **cannot be confirmed** in public information (Wikipedia "共栄火災海上保険" shareholder composition). The largest shareholder is JA Kyosairen 74.20%, followed by Norinchukin Bank 6.63% and Shinkin Central Bank 6.08%, all of which are cooperative-organization-system. It once decided in 2001 年 to join the Millea Insurance Group (the predecessor of the current [[non-life-insurers/tokio-marine]] HD), but it withdrew in 2002-08  and chose stock-company conversion with JA Kyosairen as the largest shareholder, so the current structure is **completed within the JA Kyosairen / cooperative-organization lineage**.
 
 ### Key chronology ^[extracted]
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Year/Month | Event |
 |---|---|
@@ -68,6 +74,8 @@ A mid-sized non-life insurance company with JA Kyosairen as its largest sharehol
 | **2025-04** | **The new medium-term plan "SHIFT — Toward Sustainable Growth —" started** |
 
 ## 2. Business segment map
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Segment | Main products | Characteristics |
 |---|---|---|
@@ -103,6 +111,8 @@ A mid-sized non-life insurance company with JA Kyosairen as its largest sharehol
   4. Building an organization to survive an era of high uncertainty
 
 ### Competition / positioning
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Category | Competitors |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/jpmorgan-japan
-source_hash: 396b3ff93894715f
+source_hash: 1ff3ce7c263ca810
 lang: en
 status: machine
 fidelity: ok
 title: "JPMorgan Japan (JP モルガン日本)"
-translated_at: 2026-06-18T23:59:13.055Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # JPMorgan Japan (JP モルガン日本)
@@ -32,6 +32,8 @@ The Japan base of **JPMorgan Chase & Co.** (NYSE: JPM, total assets of approxima
 The Japan base belongs mainly to the **CIB + AWM** segments; CCB is not deployed in Japan.
 
 ### Main Japan entity structure (4  pillars) ^[extracted]
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Entity | Business type | Supervising | Registration |
 |---|---|---|---|
@@ -69,6 +71,8 @@ The head-office locations are generally in the Marunouchi area of Chiyoda-ku, To
 - Fixed income / bond sales and trading
 
 ### Scope of operations in Japan
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Area | Entity | Competition / characteristics |
 |---|---|---|

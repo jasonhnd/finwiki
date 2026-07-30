@@ -1,12 +1,12 @@
 ---
 source: non-life-insurers/lloyd-japan
-source_hash: f6c8dccfa52fd00b
+source_hash: 61af7f04470928c7
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Lloyd's Japan / ロイズ・ジャパン"
-translated_at: 2026-06-26T08:32:07.557Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Lloyd's Japan / ロイズ・ジャパン
@@ -18,6 +18,8 @@ translated_at: 2026-06-26T08:32:07.557Z
 ## 要約繝ｭ繧､繧ｺ繝ｻ繧ｸ繝｣繝代Φ譬ｪ蠑丈ｼ夂､ｾ（Lloyd's Japan Inc.）は、**Lloyd's of London** の日本基盤である。Lloyd's は単一の保険会社ではなく、FSA 免許を持つ保険引受の市場基盤として日本で運営され、専門、海上、航空、エネルギー、再保険リスクを引き受けるシンジケートに市場アクセスを提供する。通常の外資系保険会社と異なり、Lloyd's は株式会社型または相互会社型の保険会社ではなく、シンジケートに組織された引受会員の団体として運営される。
 
 ## 1. 免許・グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, lloyds.com）の範囲に限定して読む。^[source:fsa.go.jp; lloyds.com]
 
 | 項目 | メモ |
 |---|---|

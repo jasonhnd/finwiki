@@ -3,8 +3,8 @@ title: 共栄火災海上保険
 aliases: ["共栄火災", "Kyoei Fire and Marine", "Kyoei Kasai", "The Kyoei Fire and Marine Insurance Company"]
 domain: non-life-insurers
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, non-life-insurance]
@@ -110,6 +110,8 @@ JA 共済連を筆頭株主（**74.20%**）とする中堅損害保険会社。1
   4. 不確実性の高い時代を生き抜くための組織づくり
 
 ### 競合・ポジショニング
+
+The following table is scoped to public primary sources (Wikipedia: 共栄火災海上保険 (2026-05-19 抽出), 共栄火災 新卒採用サイト ビジョン (2026-05-19 抽出), 日刊工業新聞「共栄火災海上保険、新中計で経営体力強化」(2026-05-19 抽出)). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Wikipedia: 共栄火災海上保険 (2026-05-19 抽出); 共栄火災 新卒採用サイト ビジョン (2026-05-19 抽出); 日刊工業新聞「共栄火災海上保険、新中計で経営体力強化」(2026-05-19 抽出)]
 
 | 区分 | 競合 |
 |---|---|

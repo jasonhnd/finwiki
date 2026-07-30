@@ -11,8 +11,8 @@ aliases:
   - "non-life-insurers/aig-life-japan"
 domain: non-life-insurers
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, non-life-insurance, foreign-japan-subsidiary]
@@ -52,6 +52,8 @@ American International Group, Inc.（米 NYSE: AIG）
 
 ### 重要历史（年表）
 
+The following table is scoped to public primary sources (AIG Japan, AIG ジャパン・ホールディングス, AIG 損害保険). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:AIG Japan; AIG ジャパン・ホールディングス; AIG 損害保険]
+
 | 年月 | 事象 |
 |---|---|
 | 1946 | **AIU 保険会社 日本支店** 開設（戦後外資保険再進出第一陣の一つ）|
@@ -63,6 +65,8 @@ American International Group, Inc.（米 NYSE: AIG）
 | **2018-01-01** | **AIU 損害保険 + 富士火災海上保険 合併 → AIG 損害保険株式会社 発足** |
 
 ## 2. 業務ライン
+
+The following table is scoped to public primary sources (AIG Japan, AIG ジャパン・ホールディングス, AIG 損害保険). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:AIG Japan; AIG ジャパン・ホールディングス; AIG 損害保険]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

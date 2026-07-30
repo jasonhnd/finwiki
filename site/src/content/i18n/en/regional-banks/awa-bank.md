@@ -1,11 +1,11 @@
 ---
 source: regional-banks/awa-bank
-source_hash: 5bd5b97d0283f055
+source_hash: 7aca13abb6bbfd64
 lang: en
 status: machine
 fidelity: ok
 title: "The Awa Bank"
-translated_at: 2026-06-15T04:09:41.144Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # The Awa Bank
@@ -20,6 +20,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 The Awa Bank, Ltd. (株式会社阿波銀行) is a regional bank (first regional bank) headquartered in Tokushima City, Tokushima Prefecture, holding a bank license under the Banking Act and listed on the FSA's bank license list. It is Tokushima Prefecture's first-regional-bank operating-company anchor, and an independent first-regional-bank peer that is a separate legal entity from [[regional-banks/tokushima-taisho-bank|徳島大正銀行]] under [[regional-banks/tomony-hd|トモニホールディングス]]. Its business is the standard regional-bank model of deposit-taking within the prefecture and lending to SMEs, individuals, and local public bodies.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, awabank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; awabank.co.jp]
 
 | Item | Notes |
 |---|---|

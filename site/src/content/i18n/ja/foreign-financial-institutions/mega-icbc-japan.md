@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/mega-icbc-japan
-source_hash: 18146e7e3959c77a
+source_hash: 5e229bdbb7709480
 lang: ja
 status: machine
 fidelity: ok
 title: "兆豐國際商業銀行 東京支店"
-translated_at: 2026-06-02T14:54:39.047Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 兆豐國際商業銀行 東京支店
@@ -20,6 +20,8 @@ translated_at: 2026-06-02T14:54:39.047Z
 兆豐國際商業銀行 東京支店は、金融庁の外国銀行支店一覧に掲載される 台湾の Mega International Commercial Bank の在日銀行支店。台湾の主要国際商業銀行ネットワーク の 日本支店 として、日台貿易、法人銀行業務、送金、トレジャリー取引 を担う。
 
 ## 1. 免許・支店境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, megabank.com.tw）の範囲に限定して読む。^[source:fsa.go.jp; megabank.com.tw]
 
 | 項目 | 注記 |
 |---|---|

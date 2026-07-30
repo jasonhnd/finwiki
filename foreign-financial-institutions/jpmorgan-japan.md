@@ -3,8 +3,8 @@ title: JP モルガン日本 (JPMorgan Japan)
 aliases: ["JPMorgan Japan", "JP モルガン", "JPM Japan", "J.P. Morgan Japan", "JP モルガン証券", "J.P. Morgan Securities Japan"]
 domain: foreign-financial-institutions
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, foreign-ib, banking]
@@ -80,6 +80,8 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 - 固定収益・債券セールス・トレーディング
 
 ### 日本での業務範囲
+
+The following table is scoped to public primary sources (Wikipedia: JPMorgan Chase / J.P. Morgan Securities Japan (公開情報), JPMorgan Chase & Co. Annual Report (10-K, 2024 年度), 金融庁 登録金融機関・登録金融商品取引業者一覧). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Wikipedia: JPMorgan Chase / J.P. Morgan Securities Japan (公開情報); JPMorgan Chase & Co. Annual Report (10-K, 2024 年度); 金融庁 登録金融機関・登録金融商品取引業者一覧]
 
 | 領域 | 主体 | 競合・特徴 |
 |---|---|---|

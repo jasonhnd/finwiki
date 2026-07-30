@@ -1,11 +1,11 @@
 ---
 source: payment-firms/sbi-remit
-source_hash: 270b45c941ec94ef
+source_hash: d18942383413fae4
 lang: en
 status: machine
 fidelity: ok
 title: "SBIレミット"
-translated_at: 2026-06-15T03:48:21.940Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # SBIレミット
@@ -19,6 +19,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]] (its domain ro
 SBI Remit Co., Ltd. is the **international remittance business company** of the SBI group, a **type-II funds-transfer operator** registered with the FSA (type-II funds-transfer operator under 資金決済法). It registered upon the entry into force of the Payment Services Act in 2010 年, and started business from small-value international remittances of 100 万円or less per 1 transaction. Through partnerships with MoneyGram and others, it has a remittance network covering more than 220 countries and regions worldwide. It carries high importance for remittances aimed at foreign residents and migrant workers, and for its connection with regional financial institutions and banking-agency business.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (remit.co.jp, sbigroup.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:remit.co.jp; sbigroup.co.jp; fsa.go.jp]
 
 | Item | Notes |
 |---|---|

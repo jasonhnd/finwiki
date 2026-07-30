@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/nonlife-insurer-registry-japan-index
-source_hash: 706c8d2a9bc3f8e7
+source_hash: 4c35219a093dea5f
 lang: en
 status: machine
 fidelity: ok
 title: "Japan non-life insurer registry index"
-translated_at: 2026-06-15T03:48:21.913Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan non-life insurer registry index
@@ -22,6 +22,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]] as the
 
 ## Boundary
 
+The following table is scoped to public primary sources (fsa.go.jp, sonpo.or.jp, sonpohogo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sonpo.or.jp; sonpohogo.or.jp]
+
 | Boundary | Treatment |
 |---|---|
 | Non-life direct insurer (元受損保) | Listed in this index. Promote to standalone JapanFG page when there is a clear strategic, channel, or capital story. |
@@ -35,6 +37,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]] as the
 
 ## Registry snapshot
 
+The following table is scoped to public primary sources (fsa.go.jp, sonpo.or.jp, sonpohogo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sonpo.or.jp; sonpohogo.or.jp]
+
 | Metric | Reading |
 |---|---:|
 | FSA as-of date | 2026-04-01 ^[extracted] |
@@ -46,6 +50,8 @@ The FSA file is updated on an irregular cadence; readers should always re-fetch 
 
 ### A. 大手3社 — domestic holding-company groups (元受)
 
+The following table is scoped to public primary sources (fsa.go.jp, sonpo.or.jp, sonpohogo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sonpo.or.jp; sonpohogo.or.jp]
+
 | Holding company | Domestic non-life operating company | Direct subsidiary | Specialty subsidiary |
 |---|---|---|---|
 | [[non-life-insurers/tokio-marine|Tokio Marine Holdings]] | [[non-life-insurers/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]] ^[extracted] | [[non-life-insurers/tokio-marine-direct|Tokio Marine Direct]] (旧 e-design) ^[extracted] | [[non-life-insurers/nisshin-fire|Nisshin Fire & Marine]] ^[extracted] |
@@ -53,6 +59,8 @@ The FSA file is updated on an irregular cadence; readers should always re-fetch 
 | [[non-life-insurers/sompo|Sompo Holdings]] | [[non-life-insurers/sompo-japan-insurance|Sompo Japan Insurance]] ^[extracted] | [[non-life-insurers/sompo-direct|Sompo Direct]] (旧 Saison Automobile & Fire) ^[extracted] | — |
 
 ### B. Direct (digital / telco / EC) non-life insurers
+
+The following table is scoped to public primary sources (fsa.go.jp, sonpo.or.jp, sonpohogo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sonpo.or.jp; sonpohogo.or.jp]
 
 | Operating company | Distribution anchor | Cluster |
 |---|---|---|
@@ -67,6 +75,8 @@ The FSA file is updated on an irregular cadence; readers should always re-fetch 
 Direct insurers compete on cost and customer-acquisition channel rather than tied-agency density. They are still subject to FSA non-life licensing and to the catastrophe-risk economics described in [[insurance/natcat-reinsurance-japan]].
 
 ### C. Specialty / niche / regional non-life insurers
+
+The following table is scoped to public primary sources (fsa.go.jp, sonpo.or.jp, sonpohogo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sonpo.or.jp; sonpohogo.or.jp]
 
 | Operating company | Specialty | Notes |
 |---|---|---|
@@ -92,6 +102,8 @@ The specialty cluster reflects a 2010s-2020s structural shift: Japan's non-life 
 
 ### D. Foreign-affiliated direct non-life insurers (外国損害保険会社等)
 
+The following table is scoped to public primary sources (fsa.go.jp, sonpo.or.jp, sonpohogo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sonpo.or.jp; sonpohogo.or.jp]
+
 | FSA-listed name | Parent | Cluster |
 |---|---|---|
 | [[non-life-insurers/aig-japan|AIG Japan]] | AIG (NYSE: AIG) ^[extracted] | US-affiliated multi-line |
@@ -106,12 +118,16 @@ Foreign-affiliated direct insurers operate either as branches (外国損害保�
 
 ### E. Lloyd's Japan (marketplace platform)
 
+The following table is scoped to public primary sources (fsa.go.jp, sonpo.or.jp, sonpohogo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sonpo.or.jp; sonpohogo.or.jp]
+
 | Entity | Notes |
 |---|---|
 
 Lloyd's Japan is structurally different from every other row on this list: it is the FSA-registered local channel through which Lloyd's syndicates write Japan-located risks, rather than a single risk-bearing carrier. See [[insurance/lloyds-japan-syndicate-operating-model]] for the syndicate-capacity model, marine / aviation / cyber / political-risk lines, and reinsurance-vs-direct boundary.
 
 ### F. Reinsurers in Japan
+
+The following table is scoped to public primary sources (fsa.go.jp, sonpo.or.jp, sonpohogo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sonpo.or.jp; sonpohogo.or.jp]
 
 | Operating company | Parent / structure | Cluster |
 |---|---|---|

@@ -1,12 +1,12 @@
 ---
 source: securities/japan-ipo-listing-disclosure-route
-source_hash: 18d3cdbca6909e40
+source_hash: b0d485d653c94176
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本 IPO 上場開示ルート"
-translated_at: 2026-06-26T08:32:15.209Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本 IPO 上場開示ルート
@@ -16,6 +16,8 @@ translated_at: 2026-06-26T08:32:15.209Z
 本ページは [[securities/INDEX|securities domain]] に属し、[[finance/INDEX|finance domain]]、[[securities/tokyo-stock-exchange|Tokyo Stock Exchange]]、[[financial-regulators/japan-exchange-group|Japan Exchange Group]]、[[securities/japan-underwriting-market-structure|Japan underwriting market structure]]、[[securities/japan-market-infrastructure-map|Japan market infrastructure map]]、[[financial-licenses/securities-license-stack|Japan securities license stack]]、[[finance/japan-ib-league-table|Japan IB league table]]、[[finance/japan-fair-disclosure-and-insider-trading-controls|fair disclosure and insider trading controls]] にリンクする。
 
 ## ルートマップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（jpx.co.jp, disclosure2.edinet-fsa.go.jp, jsda.or.jp）の範囲に限定して読む。^[source:jpx.co.jp; disclosure2.edinet-fsa.go.jp; jsda.or.jp; fsa.go.jp]
 
 | レイヤー | 公開ソースルート | 公開記録フィールド |
 |---|---|---|
@@ -36,6 +38,8 @@ TSE／JPX が新規上場ルートを運営する。JPX-R は TSE から委託�
 
 ## 公開上場ルート
 
+以下の表は、エントリ出典インベントリの公開一次資料（jpx.co.jp, disclosure2.edinet-fsa.go.jp, jsda.or.jp）の範囲に限定して読む。^[source:jpx.co.jp; disclosure2.edinet-fsa.go.jp; jsda.or.jp; fsa.go.jp]
+
 | ステージ | 公開記録フィールド |
 |---|---|
 | 上場準備 | 監査状況、内部統制システム、ガバナンス、資本政策、主幹事、上場区分。 |
@@ -49,6 +53,8 @@ TSE／JPX が新規上場ルートを運営する。JPX-R は TSE から委託�
 ## 新規上場書類フィールド
 
 JPX の公開新規上場ページは、継続的に更新される発行体記録を提供する。ソースパックは、新規上場ページで一般的に閲覧可能な以下の公開書類リンクを記録する：
+
+以下の表は、エントリ出典インベントリの公開一次資料（jpx.co.jp, disclosure2.edinet-fsa.go.jp, jsda.or.jp）の範囲に限定して読む。^[source:jpx.co.jp; disclosure2.edinet-fsa.go.jp; jsda.or.jp; fsa.go.jp]
 
 | 書類／フィールド | 公開コンテンツルート |
 |---|---|
@@ -68,6 +74,8 @@ JPX は、TDnet に掲載された開示は TDnet 開示と同時に公衆縦覧
 
 ## タイミングフィールド
 
+以下の表は、エントリ出典インベントリの公開一次資料（jpx.co.jp, disclosure2.edinet-fsa.go.jp, jsda.or.jp）の範囲に限定して読む。^[source:jpx.co.jp; disclosure2.edinet-fsa.go.jp; jsda.or.jp; fsa.go.jp]
+
 | ソースルート | タイミングフィールド |
 |---|---|
 | JPX 上場スケジュールページ | キックオフから上場まで会社の社内体制次第で約 1 年。 |
@@ -78,6 +86,8 @@ JPX は、TDnet に掲載された開示は TDnet 開示と同時に公衆縦覧
 ソースパックで閲覧した JPX 上場スケジュールページは、2022-04-03 の更新日を示していた。タイミングフィールドは、発行体固有の実際のタイムラインではなく、スケジュールページのフィールドとして記録される。
 
 ## IPO 書類フィールド
+
+以下の表は、エントリ出典インベントリの公開一次資料（jpx.co.jp, disclosure2.edinet-fsa.go.jp, jsda.or.jp）の範囲に限定して読む。^[source:jpx.co.jp; disclosure2.edinet-fsa.go.jp; jsda.or.jp; fsa.go.jp]
 
 | フィールド | 書類ルート |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: insurance/life-insurance-channel-mix
-source_hash: 1b0aa4f735dd3e79
+source_hash: e2928ae2b5913525
 lang: en
 status: machine
 fidelity: ok
 title: "Life insurance channel mix"
-translated_at: 2026-05-31T07:28:06.167Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Life insurance channel mix
 
@@ -20,6 +20,8 @@ Life-insurance distribution in Japan is not a single channel. Large insurers com
 Use this page to compare [[life-insurers/dai-ichi-life]], [[life-insurers/nippon-life]], [[life-insurers/sumitomo-life]], [[life-insurers/lifenet]], [[life-insurers/orix-life]], and [[megabanks/sony-fg]].
 
 ## Channel Map
+
+The following table is scoped to public primary sources (seiho.or.jp, ir.lifenet-seimei.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:seiho.or.jp; ir.lifenet-seimei.co.jp; fsa.go.jp]
 
 | Channel | Typical products | Strength | Risk / constraint |
 |---|---|---|---|

@@ -1,11 +1,11 @@
 ---
 source: payment-firms/mastercard-japan
-source_hash: e53b854586f8a448
+source_hash: 619287f106c67236
 lang: en
 status: machine
 fidelity: ok
 title: "Mastercard Japan"
-translated_at: 2026-05-31T23:59:49.354Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Mastercard Japan
@@ -19,6 +19,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 Mastercard Japan Co., Ltd. is the Japan base entity of U.S.-based Mastercard Incorporated (NYSE: MA). Mastercard does not issue cards itself; it is a pure 4-party scheme operator that handles only brand licensing, scheme operation, and inter-merchant transaction processing. In Japan, it licenses the Mastercard brand to domestic issuers such as [[card-issuers/rakuten-card|楽天カード]], [[card-issuers/mufg-nicos|三菱UFJニコス]], and [[card-issuers/aplus|アプラス]], while domestic acquirers handle merchant contracts. The fact that it does not directly issue to consumers or contract with merchants is the decisive difference from [[payment-firms/american-express-international-japan|Amex Japan]] discussed below.
 
 ## 1. License / Group Boundary
+
+The following table is scoped to public primary sources (mastercard.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:mastercard.co.jp]
 
 | Item | Notes |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: regional-banks/jimoto-hd
-source_hash: a749fb9e95870377
+source_hash: 3d8079ce55808dcc
 lang: ja
 status: machine
 fidelity: ok
 title: "じもとホールディングス (JIMOTO HD)"
-translated_at: 2026-06-02T14:54:39.035Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # じもとホールディングス (JIMOTO HD)
@@ -43,6 +43,8 @@ translated_at: 2026-06-02T14:54:39.035Z
 
 ### 連結決算（公開ベース）^[extracted]
 
+以下の表は、エントリ出典インベントリの公開一次資料（rieti.go.jp, sbigroup.co.jp）の範囲に限定して読む。^[source:rieti.go.jp; sbigroup.co.jp]
+
 | 項目 | 数値 | 出典時点 |
 |---|---|---|
 | 連結総資産 | 約 **2 兆 6,639 億円** | 2021-03 期 |
@@ -52,6 +54,8 @@ translated_at: 2026-06-02T14:54:39.035Z
 > 2024-03 期は通期予想を「17 億円黒字 → 234 億円赤字」に大幅下方修正。きらやか銀行の不良債権・有価証券損失が主因と公表。^[extracted]
 
 ### 主要株主（2024-06-20 以降）^[extracted]
+
+以下の表は、エントリ出典インベントリの公開一次資料（rieti.go.jp, sbigroup.co.jp）の範囲に限定して読む。^[source:rieti.go.jp; sbigroup.co.jp]
 
 | 株主 | 議決権比率 |
 |---|---|
@@ -103,6 +107,8 @@ translated_at: 2026-06-02T14:54:39.035Z
 
 ### 競合と市場ポジション
 
+以下の表は、エントリ出典インベントリの公開一次資料（rieti.go.jp, sbigroup.co.jp）の範囲に限定して読む。^[source:rieti.go.jp; sbigroup.co.jp]
+
 | カテゴリ | 競合先 | じもと HD ポジション |
 |---|---|---|
 | 宮城県 No.1 地銀 | **七十七銀行**（東証 PRIME 8341）| 仙台銀行は地銀 2 番手 |
@@ -125,6 +131,8 @@ translated_at: 2026-06-02T14:54:39.035Z
 - 仙台銀行の利益積上げ + きらやか銀行の不良債権処理が返済原資の鍵
 
 ## 5. 役員（公開ベース）^[extracted]
+
+以下の表は、エントリ出典インベントリの公開一次資料（rieti.go.jp, sbigroup.co.jp）の範囲に限定して読む。^[source:rieti.go.jp; sbigroup.co.jp]
 
 | 役職 | 氏名 | 就任 |
 |---|---|---|

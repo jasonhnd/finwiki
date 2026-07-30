@@ -6,8 +6,8 @@ aliases:
   - "life-insurance distribution channels"
 domain: "insurance"
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [insurance, life-insurance, distribution, channel-strategy]
@@ -33,6 +33,8 @@ Life insurance distribution in Japan is not one channel. Large insurers combine 
 Use this page to compare [[life-insurers/dai-ichi-life]], [[life-insurers/nippon-life]], [[life-insurers/sumitomo-life]], [[life-insurers/lifenet]], [[life-insurers/orix-life]], and [[megabanks/sony-fg]].
 
 ## Channel Map
+
+The following table is scoped to public primary sources (seiho.or.jp, ir.lifenet-seimei.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:seiho.or.jp; ir.lifenet-seimei.co.jp; fsa.go.jp]
 
 | Channel | Typical products | Strength | Risk / constraint |
 |---|---|---|---|

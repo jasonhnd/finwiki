@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/bnp-paribas-japan
-source_hash: d96600322c617302
+source_hash: f1f2cb9003485bdd
 lang: ja
 status: machine
 fidelity: ok
 title: "BNP パリバ日本 (BNP Paribas Japan)"
-translated_at: 2026-06-02T14:01:20.917Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # BNP パリバ日本 (BNP Paribas Japan)
@@ -45,6 +45,8 @@ BNP Paribas SA（仏 G-SIB Bucket 2）
 
 ### 重要年表
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | 年月 | 事象 |
 |---|---|
 | 1867 | パリ割引銀行（Comptoir National d'Escompte de Paris、CEP）が**横浜に支店開設** ── 日本最初期の欧州銀行進出 |
@@ -71,6 +73,8 @@ BNP Paribas SA（仏 G-SIB Bucket 2）
 
 ### 親会社の規模感（連結ベース、参考）
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | 項目 | 内容 |
 |---|---|
 | 上場市場 | Euronext Paris: BNP（指数 CAC 40） |
@@ -80,6 +84,8 @@ BNP Paribas SA（仏 G-SIB Bucket 2）
 | ビジネス分野 | CIB（コーポレート・機関投資家銀行）+ IPS（投資・保護サービス）+ CPBS（リテール・専門金融、日本では未展開） |
 
 ## 2. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -134,6 +140,8 @@ BNP Paribas SA（仏 G-SIB Bucket 2）
   - 銀行窓販（カーディフ）に対する FSA 適合性ルール厳格化トレンド
 
 ### 主要在日経営陣（公開情報ベース）^[extracted]
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | 役職 | 氏名 | 備考 |
 |---|---|---|

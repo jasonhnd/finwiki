@@ -1,11 +1,11 @@
 ---
 source: life-insurers/taiju-life
-source_hash: 286094205b3c33b9
+source_hash: e27acc4bc53ef641
 lang: en
 status: machine
 fidelity: ok
 title: "Taiju Life Insurance"
-translated_at: 2026-06-01T02:31:57.161Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Taiju Life Insurance
 
@@ -18,6 +18,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 Taiju Life Insurance Co., Ltd. is a life-insurance operating company listed in the FSA life-insurer license list. It carries the lineage known as Mitsui Life and is now read through its [[life-insurers/nippon-life]] group adjacency, but it still needs a standalone page as an underwriting legal entity.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, taiju-life.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; taiju-life.co.jp]
 
 | Item | Notes |
 |---|---|

@@ -3,8 +3,8 @@ title: "富山第一銀行"
 aliases: ["Toyama Daiichi Bank", "The First Bank of Toyama", "富山第一銀行株式会社", "株式会社富山第一銀行"]
 domain: regional-banks
 created: 2026-05-21
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, banking, second-regional-bank, toyama, operating-company]
@@ -26,6 +26,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 株式会社富山第一銀行 (The First Bank of Toyama) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧では第二地方銀行として掲載される富山県富山市本店の regional bank。公式沿革では 1944 年設立で、現在の本店は富山市西町 (TOYAMA キラリ内)。事業は富山県内の預金受入・中小企業/個人向け貸出という第二地銀の標準モデルで、富山県内では [[regional-banks/hokuriku-bank|北陸銀行]]・[[regional-banks/toyama-bank|富山銀行]] と並ぶ competing local-bank surface を成す。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, first-bank.co.jp, ja.wikipedia.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; first-bank.co.jp; ja.wikipedia.org]
 
 | Item | Notes |
 |---|---|

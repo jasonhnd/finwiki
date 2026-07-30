@@ -1,11 +1,11 @@
 ---
 source: regional-banks/iwate-bank
-source_hash: 5a410b99b2724386
+source_hash: 9d5b87b06e062466
 lang: ja
 status: machine
 fidelity: ok
 title: "岩手銀行"
-translated_at: 2026-06-02T14:25:12.430Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 岩手銀行
@@ -20,6 +20,8 @@ translated_at: 2026-06-02T14:25:12.430Z
 
 ## 1. 会社概要
 
+以下の表は、エントリ出典インベントリの公開一次資料（iwatebank.co.jp）の範囲に限定して読む。^[source:iwatebank.co.jp]
+
 | 項目 | 内容 |
 |---|---|
 | 正式名 | 株式会社岩手銀行 |
@@ -33,6 +35,8 @@ translated_at: 2026-06-02T14:25:12.430Z
 公式会社概要では、2025-03-31 時点の従業員は 1,333人、店舗は 110か所、総資産は 3兆7,970億円、預金等合計は 3兆4,222億円、貸出金は 2兆2,066億円とされる。
 
 ## 2. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（iwatebank.co.jp）の範囲に限定して読む。^[source:iwatebank.co.jp]
 
 | 事業セグメント | 内容 | 重要性 |
 |---|---|---|

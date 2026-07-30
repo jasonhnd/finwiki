@@ -7,8 +7,8 @@ aliases:
   - "ことら Bank Pay J-Debit"
 domain: "payments"
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-22
 confidence: likely
 tags: [payments, account-to-account, bank-pay, cotra, zengin, j-debit]
@@ -32,6 +32,8 @@ Japan account-to-account payments sit between classic bank transfer, wallet bala
 Use this page with [[payments/INDEX|payments domain]], [[payments/funds-transfer-vs-prepaid-boundary|funds transfer vs prepaid boundary]], [[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]], [[payments/japan-code-payment-competitive-map|code-payment competitive map]], [[banking/quick-deposit-four-methods|quick deposit methods]], and [[financial-licenses/INDEX|JapanFG legal / financial licenses]].
 
 ## Rail Map
+
+The following table is scoped to public primary sources (zengin-net.jp, cotra.ne.jp, jeppo.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:zengin-net.jp; cotra.ne.jp; jeppo.jp]
 
 | Rail | Operator / source route | Customer view | FinWiki reading |
 |---|---|---|---|
@@ -66,6 +68,8 @@ This matters because Bank Pay looks like a QR payment to a consumer, but the eco
 
 ## Product Boundary
 
+The following table is scoped to public primary sources (zengin-net.jp, cotra.ne.jp, jeppo.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:zengin-net.jp; cotra.ne.jp; jeppo.jp]
+
 | Product pattern | Main question | Typical route |
 |---|---|---|
 | Person-to-person transfer under Cotra | Is the sender a bank customer, wallet customer, or funds-transfer customer? | Cotra / Zengin linkage plus bank or funds-transfer provider disclosure. |
@@ -82,6 +86,8 @@ This matters because Bank Pay looks like a QR payment to a consumer, but the eco
 - [[regional-banks/sbi-shinsei-bank|SBI Shinsei Bank]], [[regional-banks/fukuoka-fg|Fukuoka FG]], and regional-bank app routes matter because Cotra and Bank Pay can turn bank apps into daily payment surfaces.
 
 ## Risks and Caveats
+
+The following table is scoped to public primary sources (zengin-net.jp, cotra.ne.jp, jeppo.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:zengin-net.jp; cotra.ne.jp; jeppo.jp]
 
 | Risk | Reading |
 |---|---|

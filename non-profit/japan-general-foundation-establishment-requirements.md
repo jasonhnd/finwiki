@@ -4,8 +4,8 @@ aliases: []
 domain: non-profit
 kind: knowledge
 created: 2026-04-22
-last_updated: 2026-05-18
-last_tended: 2026-06-24
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-09-22
 confidence: likely
 tags: [non-profit, foundation, establishment]
@@ -31,6 +31,8 @@ This entry sits under [[non-profit/japan-research-grant-map-2026|日本 研究�
 - **一般社団法人及び一般財団法人に関する法律**（平成18年法律第48号）
 
 ## 必要機関（全て強制）
+
+The following table is scoped to public primary sources (laws.e-gov.go.jp, koshonin.gr.jp, moj.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:laws.e-gov.go.jp; koshonin.gr.jp; moj.go.jp]
 
 | 機関 | 員数 | 根拠条文 |
 |------|------|---------|
@@ -65,6 +67,8 @@ This entry sits under [[non-profit/japan-research-grant-map-2026|日本 研究�
 → 実質的に **年 4 回以上** の理事会開催が法的に要求される。
 
 ## 設立費用（ミニマム）
+
+The following table is scoped to public primary sources (laws.e-gov.go.jp, koshonin.gr.jp, moj.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:laws.e-gov.go.jp; koshonin.gr.jp; moj.go.jp]
 
 | 項目 | 金額 | 根拠 |
 |------|------|------|

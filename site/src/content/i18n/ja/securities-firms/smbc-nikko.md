@@ -1,11 +1,11 @@
 ---
 source: securities-firms/smbc-nikko
-source_hash: 0f7a72b2cf9c0339
+source_hash: de217665190edcfd
 lang: ja
 status: machine
 fidelity: ok
 title: "SMBC 日興証券 (SMBC Nikko Securities)"
-translated_at: 2026-07-28T20:55:25Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # SMBC 日興証券 (SMBC Nikko Securities)
@@ -45,6 +45,8 @@ SMBC 日興証券（[[megabanks/smfg]] 100% 連結子会社）
 
 ### 重要年表（公開情報ベース）
 
+以下の表は、エントリ出典インベントリの公開一次資料（smbcnikko.co.jp, diamond.jp, jbpress.ismedia.jp）の範囲に限定して読む。^[source:smbcnikko.co.jp; diamond.jp; jbpress.ismedia.jp]
+
 | 年月 | 事象 |
 |---|---|
 | **1918** | **川島屋商店 創業**（現 SMBC 日興証券の起源、東京）|
@@ -66,6 +68,8 @@ SMBC 日興証券（[[megabanks/smfg]] 100% 連結子会社）
 > 注: 2022 年事件の刑事手続きは継続中の部分があり、公開情報ベース。詳細は金融庁公表資料・東京地裁判決資料を要参照。
 
 ## 2. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（smbcnikko.co.jp, diamond.jp, jbpress.ismedia.jp）の範囲に限定して読む。^[source:smbcnikko.co.jp; diamond.jp; jbpress.ismedia.jp]
 
 | セグメント | 内容 | 特徴 |
 |---|---|---|

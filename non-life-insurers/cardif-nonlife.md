@@ -3,8 +3,8 @@ title: "Cardif Non-Life Japan / カーディフ損害保険"
 aliases: ["カーディフ損害保険", "カーディフ損害保険株式会社", "Cardif Non-Life Japan", "BNP Paribas Cardif Japan Non Life"]
 domain: non-life-insurers
 created: 2026-05-23
-last_updated: 2026-05-23
-last_tended: 2026-05-23
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-23
 confidence: likely
 tags: [JapanFG, non-life-insurance, bancassurance, foreign-insurer, public-source]
@@ -28,6 +28,8 @@ Cardif Non-Life Japan is the BNP Paribas Cardif non-life insurance entity in Jap
 This page covers カーディフ損害保険株式会社. Keep it separate from [[life-insurers/cardif-life]] and from [[foreign-financial-institutions/bnp-paribas-japan]], while linking all three where the public group boundary is relevant.
 
 ## Business Role Map
+
+The following table is scoped to public primary sources (fsa.go.jp, nonlife.cardif.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; nonlife.cardif.co.jp]
 
 | Route | Reading |
 |---|---|

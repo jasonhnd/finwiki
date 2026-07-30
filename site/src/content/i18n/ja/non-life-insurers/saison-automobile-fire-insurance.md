@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/saison-automobile-fire-insurance
-source_hash: e281081a2e86175c
+source_hash: 6abbe9ecd68d54be
 lang: ja
 status: machine
 fidelity: ok
 title: "セゾン自動車火災保険 / SOMPOダイレクト（Saison Automobile & Fire / SOMPO Direct）"
-translated_at: 2026-06-02T15:14:17.102Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # セゾン自動車火災保険 / SOMPOダイレクト（Saison Automobile & Fire / SOMPO Direct）
@@ -19,6 +19,8 @@ translated_at: 2026-06-02T15:14:17.102Z
 旧 西武セゾングループの自動車保険 → 2009 [[non-life-insurers/sompo|SOMPO]] 連結化 → 2024-10-01 **「ＳＯＭＰＯダイレクト損害保険株式会社」** に商号変更した、SOMPO 傘下の直販ダイレクト系損保。主力商品は **「おとなの自動車保険」**（40-50 代の事故率の低さを反映した年代別料率の直販自動車保険）で、ネット申込チャネルを軸に [[insurance/sony-assurance|ソニー損保]]・[[insurance/axa-direct|アクサダイレクト]]・[[insurance/saa|SAA]]（SBI 損保）と直販自動車保険市場を構成。SOMPO HD ([[non-life-insurers/sompo]]) の自動車保険チャネル多様化（代理店 + ディーラー + 直販）の **直販ピース** を担う子会社。^[extracted]
 
 ## 1. 法人概要
+
+以下の表は、エントリ出典インベントリの公開一次資料（sompo-direct.co.jp, sompo-hd.com）の範囲に限定して読む。^[source:sompo-direct.co.jp; sompo-hd.com]
 
 | Item | 内容 |
 |---|---|
@@ -35,6 +37,8 @@ translated_at: 2026-06-02T15:14:17.102Z
 
 ## 2. 商号変遷と SOMPO 入り
 
+以下の表は、エントリ出典インベントリの公開一次資料（sompo-direct.co.jp, sompo-hd.com）の範囲に限定して読む。^[source:sompo-direct.co.jp; sompo-hd.com]
+
 | 年月 | 事象 |
 |---|---|
 | **1982-09** | **「オールステート自動車・火災保険株式会社」** として設立（米 Allstate 系、同年 10 月 損保免許取得・1983-04 営業開始）|
@@ -48,6 +52,8 @@ translated_at: 2026-06-02T15:14:17.102Z
 商号変更は [[non-life-insurers/sompo|SOMPO HD]] のグループブランド統一施策の一環で、旧西武セゾングループとの社名上の関係を整理し、SOMPO ダイレクトとしての直販ブランド明確化を狙ったもの。
 
 ### 3.1 主力：「おとなの自動車保険」
+
+以下の表は、エントリ出典インベントリの公開一次資料（sompo-direct.co.jp, sompo-hd.com）の範囲に限定して読む。^[source:sompo-direct.co.jp; sompo-hd.com]
 
 | 特徴 | 内容 |
 |---|---|
@@ -86,6 +92,8 @@ SOMPO ホールディングス（東証 PRIME 8630）
 
 ## 5. KPI（公式公開情報ベース）
 
+以下の表は、エントリ出典インベントリの公開一次資料（sompo-direct.co.jp, sompo-hd.com）の範囲に限定して読む。^[source:sompo-direct.co.jp; sompo-hd.com]
+
 | 指標 | 数値（出所） |
 |---|---|
 | 従業員数 | **1,141 人**（2024-03-31 時点）。出所: Wikipedia「SOMPOダイレクト損害保険」（ディスクロージャー誌ベース）|
@@ -111,6 +119,8 @@ SOMPO ホールディングス（東証 PRIME 8630）
 旧西武セゾングループ起源の「セゾン自動車火災保険」社名を整理し、**SOMPO ダイレクト** に商号変更。これは SOMPO HD のグループブランド統一・グループ内シナジー明確化施策の一環で、商号面で旧 Saison グループとの歴史的関係を整理した（実体としての資本関係は 2009 連結化時点で SOMPO 100% 子会社）。
 
 ## 7. 規制・監督
+
+以下の表は、エントリ出典インベントリの公開一次資料（sompo-direct.co.jp, sompo-hd.com）の範囲に限定して読む。^[source:sompo-direct.co.jp; sompo-hd.com]
 
 | 項目 | 内容 |
 |---|---|

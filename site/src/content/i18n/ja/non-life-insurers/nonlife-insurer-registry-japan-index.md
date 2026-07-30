@@ -1,12 +1,12 @@
 ---
 source: non-life-insurers/nonlife-insurer-registry-japan-index
-source_hash: 706c8d2a9bc3f8e7
+source_hash: 4c35219a093dea5f
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本損害保険会社レジストリ index"
-translated_at: 2026-06-26T08:32:07.558Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本損害保険会社レジストリ index
@@ -21,6 +21,8 @@ FSA の損害保険会社免許一覧 (損害保険会社免許一覧, songai.pd
 
 ## 境界
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, sonpo.or.jp, sonpohogo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; sonpo.or.jp; sonpohogo.or.jp]
+
 | 境界 | 取扱い |
 |---|---|
 | 損害直接保険会社 (元受損保) | 本 index に掲載。明確な戦略・チャネル・資本のストーリーがある場合に standalone JapanFG ページへ昇格する。 |
@@ -34,6 +36,8 @@ FSA の損害保険会社免許一覧 (損害保険会社免許一覧, songai.pd
 
 ## レジストリ・スナップショット
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, sonpo.or.jp, sonpohogo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; sonpo.or.jp; sonpohogo.or.jp]
+
 | 指標 | 内容 |
 |---|---:|
 | FSA 基準日 | 2026-04-01 ^[extracted] |
@@ -45,6 +49,8 @@ FSA ファイルは不定期の頻度で更新される；読者は、特定の�
 
 ### A. 大手3社 — 内国持株会社グループ (元受)
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, sonpo.or.jp, sonpohogo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; sonpo.or.jp; sonpohogo.or.jp]
+
 | 持株会社 | 内国損害保険オペレーティング会社 | 直接子会社 | 専門子会社 |
 |---|---|---|---|
 | [[non-life-insurers/tokio-marine|Tokio Marine Holdings]] | [[non-life-insurers/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]] ^[extracted] | [[non-life-insurers/tokio-marine-direct|Tokio Marine Direct]] (旧 e-design) ^[extracted] | [[non-life-insurers/nisshin-fire|Nisshin Fire & Marine]] ^[extracted] |
@@ -52,6 +58,8 @@ FSA ファイルは不定期の頻度で更新される；読者は、特定の�
 | [[non-life-insurers/sompo|Sompo Holdings]] | [[non-life-insurers/sompo-japan-insurance|Sompo Japan Insurance]] ^[extracted] | [[non-life-insurers/sompo-direct|Sompo Direct]] (旧 Saison Automobile & Fire) ^[extracted] | — |
 
 ### B. Direct (digital / telco / EC) 損害保険会社
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, sonpo.or.jp, sonpohogo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; sonpo.or.jp; sonpohogo.or.jp]
 
 | オペレーティング会社 | 販売アンカー | クラスター |
 |---|---|---|
@@ -66,6 +74,8 @@ FSA ファイルは不定期の頻度で更新される；読者は、特定の�
 Direct の保険会社は、専属代理店の密度ではなくコストと顧客獲得チャネルで競争する。依然として FSA 損害保険免許と、[[insurance/natcat-reinsurance-japan]] に記述された巨大災害リスクの経済性の対象である。
 
 ### C. 専門／ニッチ／地域損害保険会社
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, sonpo.or.jp, sonpohogo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; sonpo.or.jp; sonpohogo.or.jp]
 
 | オペレーティング会社 | 専門 | 備考 |
 |---|---|---|
@@ -91,6 +101,8 @@ Direct の保険会社は、専属代理店の密度ではなくコストと顧�
 
 ### D. 外資系 direct 損害保険会社 (外国損害保険会社等)
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, sonpo.or.jp, sonpohogo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; sonpo.or.jp; sonpohogo.or.jp]
+
 | FSA 一覧上の名称 | 親会社 | クラスター |
 |---|---|---|
 | [[non-life-insurers/aig-japan|AIG Japan]] | AIG (NYSE: AIG) ^[extracted] | 米系 multi-line |
@@ -105,12 +117,16 @@ Direct の保険会社は、専属代理店の密度ではなくコストと顧�
 
 ### E. Lloyd's Japan (マーケットプレイス・プラットフォーム)
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, sonpo.or.jp, sonpohogo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; sonpo.or.jp; sonpohogo.or.jp]
+
 | 主体 | 備考 |
 |---|---|
 
 Lloyd's Japan は本一覧上の他のすべての行と構造的に異なる：それは単一のリスクを引き受ける引受会社ではなく、ロイズのシンジケートが日本所在のリスクを引き受けるための FSA 登録のローカルチャネルである。シンジケート・キャパシティ・モデル、海上／航空／サイバー／政治リスクの種目、再保険 vs 直接引受の境界については [[insurance/lloyds-japan-syndicate-operating-model]] を参照。
 
 ### F. 日本における再保険会社
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, sonpo.or.jp, sonpohogo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; sonpo.or.jp; sonpohogo.or.jp]
 
 | オペレーティング会社 | 親会社／構造 | クラスター |
 |---|---|---|

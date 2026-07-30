@@ -6,8 +6,8 @@ aliases:
   - "Nippon Life Dai-ichi Meiji Yasuda Sumitomo Life comparison"
 domain: "insurance"
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-22
 confidence: likely
 tags: [insurance, life-insurance, japan, mutual-company, solvency, channel]
@@ -30,6 +30,8 @@ sources:
 This page sits under [[insurance/INDEX|insurance domain]] and uses [[insurance/INDEX|insurance INDEX]] for company pages. Read it with [[insurance/life-insurance-channel-mix|life-insurance channel mix]], [[insurance/mutual-vs-stock-life-insurer|mutual vs stock life insurer]], [[insurance/esr-economic-value-solvency|ESR]], [[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]], and [[insurance/internet-life-insurance-business-model|internet life insurance business model]].
 
 ## Comparison Snapshot
+
+The following table is scoped to public primary sources (seiho.or.jp, nissay.co.jp, dai-ichi-life-hd.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:seiho.or.jp; nissay.co.jp; dai-ichi-life-hd.com; meijiyasuda.co.jp]
 
 | Insurer | Form / group structure | Public comparison fields | Related contrast |
 |---|---|---|---|
@@ -88,6 +90,8 @@ Use [[insurance/economic-value-based-solvency|economic-value solvency regulation
 [[life-insurers/sumitomo-life|Sumitomo Life]] is a mutual-company life insurer with sales-force renewal, health / wellness-linked product strategies, digital support, and overseas portfolio disclosures.
 
 ## Public Data Fields
+
+The following table is scoped to public primary sources (seiho.or.jp, nissay.co.jp, dai-ichi-life-hd.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:seiho.or.jp; nissay.co.jp; dai-ichi-life-hd.com; meijiyasuda.co.jp]
 
 | Field | Public use |
 |---|---|

@@ -3,8 +3,8 @@ title: オリックス生命保険
 aliases: ["オリックス生命", "ORIX Life", "ORIX Life Insurance", "ORIX Life Insurance Corporation", "オリックス生命保険株式会社"]
 domain: life-insurers
 created: 2026-05-19
-last_updated: 2026-06-24
-last_tended: 2026-06-24
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-12-24
 confidence: likely
 tags: [JapanFG, life-insurance, orix, omnichannel-insurance]
@@ -68,6 +68,8 @@ The 2025 disclosure's solvency-margin table matters because ORIX Life is large e
 - The disclosure notes a 200% threshold as the level below which supervisory early-correction action can be taken; this makes the ratio a regulatory signal rather than a marketing KPI.^[source:orix-life-disclosure-2025]
 
 ## 5. Peer / contrast map
+
+The following table is scoped to public primary sources (fsa.go.jp, orix.co.jp, orixlife.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; orix.co.jp; orixlife.co.jp]
 
 | Peer / category | Contrast |
 |---|---|

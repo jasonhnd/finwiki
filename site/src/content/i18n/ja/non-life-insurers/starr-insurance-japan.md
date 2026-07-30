@@ -1,12 +1,12 @@
 ---
 source: non-life-insurers/starr-insurance-japan
-source_hash: a6c49bc063643a7d
+source_hash: e680ef4bbe24145c
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Starr Insurance Japan / スター・インシュアランス・ジャパン"
-translated_at: 2026-06-26T08:32:07.560Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Starr Insurance Japan / スター・インシュアランス・ジャパン
@@ -20,6 +20,8 @@ translated_at: 2026-06-26T08:32:07.560Z
 Starr Insurance Companies（Starr Companies）は、AIG の元 CEO である **Maurice R.「Hank」Greenberg** が率いるグローバルな保険・投資組織であり、そのルーツは C.V. Starr & Co.（1919 年に上海で設立）に遡る。Greenberg は 2005,  年に AIG を去った後、スペシャルティ・損害保険、傷害・医療、航空を含む独立したグローバル保険グループとして Starr を再構築した。Starr の日本でのプレゼンスはそのグローバルなスペシャルティの足跡の一部であり、商業・スペシャルティリスクについて [[non-life-insurers/lloyd-japan|Lloyd's Japan]] や [[non-life-insurers/fm-global-japan|FM Global Japan]] といった他のスペシャルティ外国保険会社と並んで位置する。
 
 ## 1. ライセンス / グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, starrcompanies.com）の範囲に限定して読む。^[source:fsa.go.jp; starrcompanies.com]
 
 | 項目 | 備考 |
 |---|---|

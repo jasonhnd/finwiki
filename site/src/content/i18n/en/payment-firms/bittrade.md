@@ -1,11 +1,11 @@
 ---
 source: payment-firms/bittrade
-source_hash: 3f2dc25e0e444a28
+source_hash: f2feae6867875f19
 lang: en
 status: machine
 fidelity: ok
 title: "BitTrade (ビットトレード)"
-translated_at: 2026-06-15T03:48:21.821Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # BitTrade (ビットトレード)
@@ -29,6 +29,8 @@ A mid-tier domestic Japanese crypto-asset exchange operator. **The former Huobi 
 
 ### History (per public information) ^[extracted]
 
+The following table is scoped to public primary sources (bittrade.co.jp, sinohope.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:bittrade.co.jp; sinohope.com]
+
 | Year/month | Event |
 |---|---|
 | 2016 | Founded under the former BitTrade structure (independent crypto-asset exchange) |
@@ -42,6 +44,8 @@ A mid-tier domestic Japanese crypto-asset exchange operator. **The former Huobi 
 > Change of control: the owner change on the global Huobi side around 2022 年 and the Japanese entity's re-renaming to "BitTrade" coincide in timing. Current major shareholders are disclosed in the official company overview, with the Hong Kong-listed Sinohope Technology Holdings (HKEX: 01611, formerly Huobi Technology) lineage and Tokai Tokyo FH / FPG listed among them.
 
 ## 2. Business-segment map
+
+The following table is scoped to public primary sources (bittrade.co.jp, sinohope.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:bittrade.co.jp; sinohope.com]
 
 | Segment | Content | Features |
 |---|---|---|
@@ -57,6 +61,8 @@ A mid-tier domestic Japanese crypto-asset exchange operator. **The former Huobi 
 - Rebranding from a global (Huobi-origin) legacy toward a "**Japanese independent**" image (2022-08) ^[extracted]
 
 ### Competitive map
+
+The following table is scoped to public primary sources (bittrade.co.jp, sinohope.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:bittrade.co.jp; sinohope.com]
 
 | Category | Main players |
 |---|---|
