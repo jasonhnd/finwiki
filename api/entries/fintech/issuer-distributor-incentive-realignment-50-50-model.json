@@ -11,10 +11,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/issuer-distributor-incentive-realignment-50-50-model.md",
   "raw_markdown_url": "https://finwiki.zksc.io/fintech/issuer-distributor-incentive-realignment-50-50-model.md",
   "domain": "fintech",
-  "title": "発行体 vs 分配者 50/50 モデル · Coinbase ↔ Circle 利息分配メカニズム",
+  "title": "USDC 発行体・分配者の収益分配 · Coinbase ↔ Circle 公開契約構造",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "発行体 vs 分配者 50/50 モデル · Coinbase ↔ Circle 利息分配メカニズム",
+    "title": "USDC 発行体・分配者の収益分配 · Coinbase ↔ Circle 公開契約構造",
     "aliases": [
       "issuer distributor incentive realignment 50 50 model",
       "Coinbase Circle 50-50",
@@ -23,8 +23,8 @@
     "domain": "fintech",
     "type": null,
     "created": "2026-05-18",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-06-24",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-08-08",
     "confidence": "likely",
     "tags": [
@@ -44,13 +44,14 @@
       "https://www.circle.com/en/usdc",
       "https://investor.coinbase.com/financials/sec-filings/default.aspx",
       "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001679788&type=10-K",
+      "https://www.sec.gov/Archives/edgar/data/1876042/000119312525178989/d839239ds1.htm",
       "https://www.circle.com/en/transparency",
       "https://www.coinbase.com/blog"
     ]
   },
   "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
   "headings": [
-    "発行体 vs 分配者 50/50 モデル · Coinbase ↔ Circle 利息分配メカニズム",
+    "USDC 発行体・分配者の収益分配 · Coinbase ↔ Circle 公開契約構造",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -82,13 +83,15 @@
       "https://finwiki.zksc.io/ja/fintech/stablecoin-chain-token-strategy-trilemma/",
       "https://finwiki.zksc.io/ja/fintech/stablecoin-revenue-split-economics/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 1,
+    "external_links": [
+      "https://www.sec.gov/Archives/edgar/data/1876042/000119312525178989/d839239ds1.htm"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 2953,
-    "word_like_tokens": 495,
-    "inbound_wikilinks_count": 13,
-    "last_modified": "2026-06-24"
+    "nonspace_chars": 3069,
+    "word_like_tokens": 446,
+    "inbound_wikilinks_count": 9,
+    "last_modified": "2026-07-30"
   }
 }

@@ -11,10 +11,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/occ-bank-charter-crypto-2025.md",
   "raw_markdown_url": "https://finwiki.zksc.io/fintech/occ-bank-charter-crypto-2025.md",
   "domain": "fintech",
-  "title": "OCC National Bank Charter for Crypto Firms · 2025 Update",
+  "title": "OCC National Trust Bank Charters for Digital-Asset Firms · 2025–2026 Verified Update",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "OCC National Bank Charter for Crypto Firms · 2025 Update",
+    "title": "OCC National Trust Bank Charters for Digital-Asset Firms · 2025–2026 Verified Update",
     "aliases": [
       "occ-crypto-charter-2025",
       "occ-il-1183",
@@ -28,10 +28,10 @@
     "domain": "fintech",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-11-25",
-    "confidence": "likely",
+    "confidence": "certain",
     "tags": [
       "fintech",
       "regulatory",
@@ -50,30 +50,31 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://occ.treas.gov/topics/charters-and-licensing/interpretations-and-actions/",
-      "https://occ.treas.gov/news-issuances/news-releases (OCC press)",
-      "https://occ.treas.gov/topics/charters-and-licensing/charters/index-charters.html",
-      "https://home.treasury.gov/policy-issues/financial-markets-financial-institutions-and-fiscal-service/digital-assets",
-      "https://www.federalreserve.gov/newsevents/pressreleases.htm",
-      "https://wyomingbankingdivision.wyo.gov/banks-trust-companies/special-purpose-depository-institutions",
-      "https://www.federalregister.gov/"
+      "https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2025/int1183.pdf",
+      "https://www.occ.treas.gov/news-issuances/news-releases/2025/nr-occ-2025-125.html",
+      "https://www.occ.treas.gov/topics/charters-and-licensing/interpretations-and-decisions/index-interpretations-and-decisions.html",
+      "https://www.occ.treas.gov/topics/charters-and-licensing/digital-assets-licensing-applications/index-digital-assets-licensing-applications.html",
+      "https://www.occ.treas.gov/topics/charters-and-licensing/interpretations-and-actions/2026/cd1365.pdf",
+      "https://occ.treas.gov/news-issuances/news-releases/2021/nr-occ-2021-6.html",
+      "https://www.occ.treas.gov/topics/charters-and-licensing/interpretations-and-decisions/2026/scl2026-01.pdf",
+      "https://www.supremecourt.gov/docket/docketfiles/html/public/26-62.html"
     ]
   },
-  "summary": "The 2025 Office of the Comptroller of the Currency (OCC) update creates a clear federal pathway for crypto firms to obtain national bank or national trust bank charters. OCC Interpretive Letter 1183 (March 27 2025) reaffirms the underlying crypto-custody, stablecoin-reserve, and node-operator powers",
+  "summary": "OCC Interpretive Letter 1183 was issued on March 7, 2025, not March 27. It rescinded IL 1179's supervisory non-objection process and reaffirmed the permissibility, for OCC-supervised banks, of the activities described in IL 1170, 1172 and 1174. It did not itself approve a new charter or guarantee an",
   "headings": [
-    "OCC National Bank Charter for Crypto Firms · 2025 Update",
+    "OCC National Trust Bank Charters for Digital-Asset Firms · 2025–2026 Verified Update",
     "TL;DR",
     "Wiki route",
     "Why this entry exists",
     "OCC charter background · the four-letter chain",
     "Anchorage Digital Bank · the precedent case",
     "Custodia Bank · the Wyoming SPDI counter-pattern",
-    "2025 charter pipeline · who has applied",
-    "What an OCC national trust bank charter delivers post-2025",
-    "OCC IL 1183 · what it actually clarifies"
+    "Verified OCC decisions · status as of July 2026",
+    "What a national trust charter does—and does not—establish",
+    "OCC IL 1183 · exact scope"
   ],
   "body_links": {
-    "wikilinks_count": 21,
+    "wikilinks_count": 20,
     "wikilinks": [
       "business/brian-armstrong-coinbase-public-company-template",
       "business/hester-peirce-sec-regulatory-pivot-case",
@@ -84,7 +85,6 @@
       "fintech/blackrock-buidl-tokenized-mmf-overview",
       "fintech/cftc-sec-crypto-jurisdiction",
       "fintech/genius-act-501-actual-implementation",
-      "fintech/genius-act-501-denylist-mandate",
       "fintech/global-stablecoin-regulatory-five-pole-matrix",
       "fintech/mica-overview",
       "fintech/national-license-private-stablecoin-with-dpi-export",
@@ -107,7 +107,6 @@
       "https://finwiki.zksc.io/ja/fintech/blackrock-buidl-tokenized-mmf-overview/",
       "https://finwiki.zksc.io/ja/fintech/cftc-sec-crypto-jurisdiction/",
       "https://finwiki.zksc.io/ja/fintech/genius-act-501-actual-implementation/",
-      "https://finwiki.zksc.io/ja/fintech/genius-act-501-denylist-mandate/",
       "https://finwiki.zksc.io/ja/fintech/global-stablecoin-regulatory-five-pole-matrix/",
       "https://finwiki.zksc.io/ja/fintech/mica-overview/",
       "https://finwiki.zksc.io/ja/fintech/national-license-private-stablecoin-with-dpi-export/",
@@ -120,13 +119,28 @@
       "https://finwiki.zksc.io/ja/fintech/treasury-stablecoin-policy-2025/",
       "https://finwiki.zksc.io/ja/fintech/wall-street-crypto-network-neutrality/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 14,
+    "external_links": [
+      "https://occ.treas.gov/news-issuances/news-releases/2021/nr-occ-2021-6.html",
+      "https://www.ca10.uscourts.gov/sites/ca10/files/opinions/010111327582.pdf",
+      "https://www.congress.gov/119/plaws/publ27/PLAW-119publ27.pdf",
+      "https://www.dfs.ny.gov/virtual_currency_businesses",
+      "https://www.federalreserve.gov/newsevents/pressreleases/orders20230127a.htm",
+      "https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2025/int1183.pdf",
+      "https://www.occ.treas.gov/news-issuances/bulletins/2026/bulletin-2026-3.html",
+      "https://www.occ.treas.gov/news-issuances/news-releases/2025/nr-occ-2025-125.html",
+      "https://www.occ.treas.gov/topics/charters-and-licensing/digital-assets-licensing-applications/index-digital-assets-licensing-applications.html",
+      "https://www.occ.treas.gov/topics/charters-and-licensing/interpretations-and-actions/2026/cd1365.pdf",
+      "https://www.occ.treas.gov/topics/charters-and-licensing/interpretations-and-decisions/2026/scl2026-01.pdf",
+      "https://www.occ.treas.gov/topics/charters-and-licensing/interpretations-and-decisions/index-interpretations-and-decisions.html",
+      "https://www.supremecourt.gov/docket/docketfiles/html/public/26-62.html",
+      "https://wyomingbankingdivision.wyo.gov/banks-and-trust-companies/special-purpose-depository-institutions"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 18509,
-    "word_like_tokens": 2880,
-    "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-01"
+    "nonspace_chars": 17112,
+    "word_like_tokens": 2744,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-07-30"
   }
 }

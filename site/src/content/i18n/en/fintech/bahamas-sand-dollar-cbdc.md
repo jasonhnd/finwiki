@@ -1,183 +1,145 @@
 ---
 source: fintech/bahamas-sand-dollar-cbdc
-source_hash: 62f2424b1184bd25
+source_hash: 45f9f516326beb64
 lang: en
+model: local-same-language-sync
 status: machine
 fidelity: ok
-title: "Bahamas Sand Dollar — longest-running live retail CBDC, AFI distribution, small-economy lessons"
-translated_at: 2026-05-31T06:16:15.682Z
+title: "Bahamas Sand Dollar — nationwide retail CBDC release on 2020-10-20, AFI distribution, and end-2024 evidence"
+translated_at: 2026-07-30T03:06:00+09:00
 ---
 
-# Bahamas Sand Dollar — longest-running live retail CBDC, AFI distribution, small-economy lessons
+# Bahamas Sand Dollar — nationwide retail CBDC release on 2020-10-20, AFI distribution, and end-2024 evidence
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]] as the per-jurisdiction case study on the **Sand Dollar**, the **first nation-wide live retail CBDC** issued by any central bank globally (Bahamas, 2020-10-20). Read it against [[fintech/nigeria-enaira-retail-cbdc|Nigeria eNaira]] (live 2021-10, same Bitt-vendor technology lineage), [[fintech/jamaica-jam-dex-cbdc|Jamaica JAM-DEX]] (live 2022, third Caribbean-Atlantic peer), and [[fintech/cbdc-adoption-curve-china-japan-eu-india-2026|CBDC adoption curve 2026]] for cross-jurisdiction positioning. For architecture context see [[fintech/cbdc-multi-tier-architecture-overview|CBDC 多层架构概览]], [[fintech/cbdc-multi-tier-architecture-three-paradigms|CBDC 三大现役范式]], and [[fintech/cbdc-multi-tier-architecture-tradeoffs|CBDC 架构选择 4 核心权衡]]. For the broader emerging-market behavioral baseline see [[fintech/em-market-crypto-dollarization-pattern|EM crypto dollarization pattern]].
+This entry sits under [[fintech/INDEX|fintech index]] as a dated jurisdiction case study of the **Sand Dollar**. It records the nationwide release that began on **2020-10-20**, the regulated wallet-provider model, and the end-2024 adoption snapshot. The title is date-bounded: it does not claim that Sand Dollar is currently the “longest-running” retail CBDC. Read the separate entries on [[fintech/nigeria-enaira-retail-cbdc|Nigeria eNaira]], [[fintech/jamaica-jam-dex-cbdc|Jamaica JAM-DEX]], and [[fintech/cbdc-adoption-curve-china-japan-eu-india-2026|CBDC adoption curve 2026]] for other jurisdictions; this page does not infer a shared design lineage or adoption ranking from those comparisons. [CBOB's national-release notice](https://www.sanddollar.bs/publicupdates/public-update-gradual-national-release-to-the-bahamas-in-october-2020) supplies the release date.
 
 > [!info] TL;DR
-> The Central Bank of The Bahamas launched the **Sand Dollar on 2020-10-20**, making it the **first nation-wide live retail CBDC** anywhere — six months ahead of any other live retail CBDC, and pre-dating eNaira by one year and JAM-DEX by nearly two. The design is a **two-tier intermediated retail CBDC** with **Authorized Financial Institutions (AFIs)** providing the consumer-facing wallets, **tiered KYC** (Tier 1 phone-only up to B$500/B$1,500; Tier 2 ID-verified up to B$8,000/B$10,000), and **legal-tender status** as a direct liability of the central bank. Adoption is **low in absolute terms** (single-digit percentage of population in active use) but the programme has now run live for **over five years** — far longer than any other live retail CBDC — and is the foundational policy-laboratory case for small-economy CBDC design. Key design lessons cited globally: **financial-inclusion targeting** (~700-island geography, banking gaps), **legal-tender parity from launch**, **interoperable AFI wallet model**, and the **deliberate choice not to pay interest** to preserve commercial bank deposit funding.
+> The Central Bank of The Bahamas announced that the national release of Sand Dollar, outside the Exuma and Abaco pilot regions and through authorised financial institutions (AFIs), would begin on **2020-10-20**. The 2021 Regulations define the digital currency as fully backed and a direct claim against the Central Bank, while the official individual-wallet page describes it as the digital version of legal tender. The dated end-2024 snapshot reported by the IMF was about **0.4% of currency in circulation**, **133,481 consumer wallets**, and **2,034 merchant wallets**. Those wallet totals are registrations, not an active-use measure. [National-release notice](https://www.sanddollar.bs/publicupdates/public-update-gradual-national-release-to-the-bahamas-in-october-2020); [2021 Regulations](https://www.centralbankbahamas.com/viewPDF/documents/2022-02-11-11-53-25-Bahamian-Dollar-Digital-Currency-Regulations-2021-Final-Gazetted.pdf); [official individual-wallet page](https://www.sanddollar.bs/individual); [IMF Country Report No. 26/31](https://www.imf.org/-/media/files/publications/cr/2026/english/1bhsea2026001-source-pdf.pdf). ^[source: CBOB national-release notice; 2021 Regulations; official individual-wallet page; IMF Country Report No. 26/31]
 
 ## Programme architecture
 
 ```
                   Central Bank of The Bahamas
+                  issues Bahamian Dollar Digital Currency
                               │
                               ▼
-                  Sand Dollar (B$ retail CBDC)
+               fully backed direct central-bank claim
                               │
-       ┌──────────────────────┴──────────────────────┐
-       ▼                                              ▼
-   Issuer (CBOB; central-bank liability)        Technology partner
-                                                (Bitt Inc., Barbados;
-                                                permissioned DLT)
-       │                                              │
-       ▼                                              ▼
-   Two-tier intermediated distribution         AFI wallet apps
-   (CBOB → Authorized Financial Institutions   (interoperable across AFIs;
-    (AFIs) → consumer / merchant wallets)      consumer chooses provider)
-       │
-       ▼
-   Tiered KYC structure
-   - Tier 1 (phone + low-friction): B$500 wallet / B$1,500 monthly tx
-   - Tier 2 (gov-ID verified):       B$8,000 wallet / B$10,000 monthly tx
-   - Business wallets: separate cap structure
+                              ▼
+       registered wallet providers / authorised financial institutions
+       banks · credit unions · money transmitters · payment institutions
+                              │
+                              ▼
+                individual and non-individual wallets
+                  Tier I · Tier II · other tiers
 ```
 
-## Matrix A · Statute, regulator, phase status
+The diagram is limited to roles stated in the [2021 Regulations](https://www.centralbankbahamas.com/viewPDF/documents/2022-02-11-11-53-25-Bahamian-Dollar-Digital-Currency-Regulations-2021-Final-Gazetted.pdf) and the [national-release notice](https://www.sanddollar.bs/publicupdates/public-update-gradual-national-release-to-the-bahamas-in-october-2020). It does not assert that one provider's wallet balance can be moved to another provider without a redemption, transfer, or re-enrolment step.
 
-| Item | Detail |
+## Matrix A · Legal form, authority, and dated release
+
+| Item | Directly supported detail |
 |---|---|
-| Lead authority | **Central Bank of The Bahamas (CBOB)** |
-| Legal basis | Central Bank of The Bahamas Act 2020 (revised provisions explicitly enabling digital currency issuance); Sand Dollar Regulations under the Act |
-| Pilot phase | **Exuma pilot** launched 2019-12; **Abaco** added 2020 mid-year |
-| **Live launch (nation-wide)** | **2020-10-20** — globally the first nation-wide live retail CBDC |
-| Technology partner | **Bitt Inc.** (Barbados-headquartered; same vendor as Nigeria eNaira) |
-| Underlying tech | Permissioned DLT (Bitt platform) |
-| Wholesale CBDC | None — Sand Dollar is retail / mid-market only |
-| Cross-border CBDC | None as of 2026-05; no participation in [[fintech/mbridge-bis-multi-cbdc-overview|mBridge]] or [[fintech/bis-project-agora-overview|BIS Project Agorá]] |
-| Legal-tender status | Yes — Sand Dollar is direct CBOB liability, denominated 1:1 in Bahamian dollars (B$), itself pegged 1:1 to USD |
+| Lead authority | The **Central Bank of The Bahamas (CBOB)** issues the Bahamian Dollar Digital Currency |
+| Legal form | The 2021 Regulations define it as an electronic version of the Bahamian dollar, fully backed by Central Bank reserves and representing a direct claim against the Central Bank |
+| Legal-tender description | The official individual-wallet page describes Sand Dollar as the digital version of legal tender issued by CBOB |
+| Nationwide release | CBOB said release outside Exuma and Abaco would begin through AFIs on **2020-10-20** |
+| Historical-first wording | BIS Papers No. 114 described the **2020-10-20** launch as the arrival of a live general-purpose CBDC; this page makes no current duration ranking |
+| Domestic-use boundary | The official design page says the CBDC is for domestic use and prohibits acceptance by non-domestic payees |
 
-The legal-tender-from-launch posture distinguishes Sand Dollar from the EU digital euro plan (where legal-tender status is contemplated in the proposed Regulation but not yet in force) and from JAM-DEX (which similarly entered as legal tender but two years later).
+Source note: the [2021 Regulations](https://www.centralbankbahamas.com/viewPDF/documents/2022-02-11-11-53-25-Bahamian-Dollar-Digital-Currency-Regulations-2021-Final-Gazetted.pdf), [official individual-wallet page](https://www.sanddollar.bs/individual), [national-release notice](https://www.sanddollar.bs/publicupdates/public-update-gradual-national-release-to-the-bahamas-in-october-2020), [BIS Papers No. 114](https://www.bis.org/publ/bispap114.pdf), and [official design page](https://www.sanddollar.bs/about) directly support the bounded statements above.
 
-## Matrix B · Design choices — financial inclusion-first, low-friction onboarding
+## Matrix B · Documented design features and evidence limits
 
-| Design choice | Detail | Why |
+| Feature | What the direct source states | Evidence boundary |
 |---|---|---|
-| **Two-tier intermediated via AFIs** | CBOB issues; consumers transact via Authorized Financial Institutions (commercial banks + MMOs + payment-service providers) | Preserves commercial-bank role; spreads onboarding load |
-| **Interoperable wallets** | A consumer's Sand Dollars are usable across any AFI wallet | Avoids walled-garden effect; users can switch AFI without losing balance |
-| **Tiered KYC** | Tier 1 phone-only (B$500 wallet / B$1,500 monthly tx); Tier 2 ID-verified (B$8,000 wallet / B$10,000 monthly tx); business wallets separate | Designed for unbanked populations on outer islands |
-| **Zero interest** | No yield on Sand Dollar balances | Same anti-disintermediation logic as the EU digital euro (see [[fintech/e-euro-retail-rollout|digital euro retail rollout]]) |
-| **No transaction fees** | CBOB does not charge per-transaction fees; AFIs may charge per service tier | Pricing inclusion-friendly |
-| **Account-based ledger** | Balances tied to identified wallets via AFI onboarding | Compatible with AML/CFT; not a bearer token |
-| **Offline-capable design** | Limited offline transaction capability for outer-island connectivity gaps | Aligns with ~700-island geography |
-| **B$ 1:1 USD peg inherited** | Sand Dollar is B$ — pegged 1:1 to USD via Bahamas's fixed-exchange-rate regime | Inherits the peg; not an independent currency |
-| **Direct central-bank liability** | Sand Dollar is CBOB liability, not commercial-bank deposit | Differs from Japan DCJPY (tokenised deposit, not CBDC) — see [[fintech/jp-stablecoin-dcjpy|DCJPY]] |
+| **Central-bank claim** | BDDC is fully backed by reserves and is a direct claim against CBOB | This establishes legal form, not adoption or safety outcomes |
+| **Intermediated distribution** | Registered wallet providers include commercial banks, credit unions, money-transmission providers or agents, and payment institutions | The cited sources do not quantify the effect of this allocation on onboarding or competition |
+| **Interoperability standards** | Providers must support sending and receiving through a provider-independent user alias, standard account number, and QR code | This supports cross-provider payment addressing, not a claim of lossless provider switching |
+| **Risk-based tiers** | The national-release notice describes low-value personal, regular personal, and business or enterprise tiers with different due-diligence requirements and limits | Actual inclusion outcomes require usage data |
+| **Non-anonymous transactions** | The national-release notice says cash anonymity is not replicated and transactions connect to AML/CFT controls | The cited sources do not establish user perceptions of privacy |
+| **Offline specification** | The official design page describes preset-value payments during communication outages and later network updating | This is a documented specification, not evidence of field availability, coverage, or performance |
+| **Individual fees** | The official individual-wallet page states zero transaction fees for individuals | This does not establish all provider fees or merchant pricing |
+| **Domestic use** | The official design page restricts the CBDC to domestic use | No cross-border capability is inferred |
 
-The design is unusually disciplined for an early CBDC — most of the later mainstream CBDC literature (BIS, IMF, ECB) effectively codified principles that Sand Dollar prototyped in production.
+Source note: [2021 Regulations](https://www.centralbankbahamas.com/viewPDF/documents/2022-02-11-11-53-25-Bahamian-Dollar-Digital-Currency-Regulations-2021-Final-Gazetted.pdf), [national-release notice](https://www.sanddollar.bs/publicupdates/public-update-gradual-national-release-to-the-bahamas-in-october-2020), [official design page](https://www.sanddollar.bs/about), and [official individual-wallet page](https://www.sanddollar.bs/individual).
 
-## Matrix C · Adoption metrics (most recent public)
+The direct sources document these features. They do not establish that Sand Dollar avoided a “walled garden,” that e-CNY or a proposed digital euro copied the model, or that the model is “canonical” or superior.
 
-| Metric | Most-recent public figure |
+## Matrix C · End-2024 adoption snapshot reported by the IMF
+
+| Metric | Dated figure |
 |---|---|
-| Live status | **Live since 2020-10-20** (over five years; longest-running live retail CBDC) |
-| Wallets enrolled | ~30-50K personal + merchant wallets (CBOB cited Q-on-Q figures; absolute small-economy base) |
-| **Active wallets** | Single-digit percentage of total wallets transacting in a given month |
-| **Penetration vs population** | Single-digit-% of adult Bahamian population (~300K total adults; small absolute base) |
-| Cumulative tx value | Modest in absolute terms; below 1% of broad-money equivalent |
-| Coverage | Nation-wide (~700-island archipelago); inclusion focus on Family Islands |
-| Merchant acceptance | Growing in tourism-adjacent and food-retail; nation-wide rollout below saturation |
-| Cross-border CBDC | None |
+| Share of total currency in circulation | About **0.4% at end-2024** |
+| Consumer wallets | **133,481 by December 2024**, up **12.2%** year on year |
+| Merchant wallets | **2,034 by December 2024**, up **3.2%** year on year |
+| Population comparison | The IMF described the consumer-wallet total as about one third of the country's population |
+| Active-wallet or transaction rate | Not supplied in the cited IMF passage; no active-use percentage is inferred |
 
-The IMF Working Paper "The Bahamas's Sand Dollar: CBDC and Lessons Learned" (Kosse, Mattei, et al., 2022) is the most-cited public diagnostic. It frames Sand Dollar as a **policy success in launch sequencing and operational stability** but a **slow-adoption case** measured by active-wallet penetration. The Bahamian small-economy baseline (~400K population total, dispersed across ~700 islands) means absolute adoption numbers are necessarily small even at high penetration; the policy-relevant metric is **penetration percentage**, not absolute headcount.
+Source note: footnote 11 to paragraph 24 of [IMF Country Report No. 26/31](https://www.imf.org/-/media/files/publications/cr/2026/english/1bhsea2026001-source-pdf.pdf) reports the end-2024 figures.
 
-## Matrix D · AFI distribution model — the canonical two-tier retail CBDC
+The wallet counts are an enrolment snapshot. They do not show how many distinct people held multiple wallets, how many wallets were active, or how intensively Sand Dollar was used.
+
+## Matrix D · AFI and wallet-provider roles
 
 ```
-   Central Bank of The Bahamas (issuer of Sand Dollar)
-                  │
-   ┌──────────────┼──────────────────────────────────┐
-   ▼              ▼                                   ▼
-  Bank AFIs    Money Transmission AFIs        Payment-service AFIs
-  (CIBC, FCIB, (KANOO, MoneyMaxx, etc.)       (Island Pay, etc.)
-   RBC, etc.)
-   │              │                                   │
-   ▼              ▼                                   ▼
-  Consumer + merchant wallet apps (interoperable across all AFIs)
-   │
-   ▼
-  End users — consumers + merchants on the four-plus-island archipelago
+                 Central Bank issuer
+                         │
+                         ▼
+             registered wallet providers
+                         │
+        ┌────────────────┼─────────────────┐
+        ▼                ▼                 ▼
+ banks / credit     money-transmission   payment
+ unions             providers / agents  institutions
+        └────────────────┼─────────────────┘
+                         ▼
+              consumer and merchant wallets
 ```
 
-**AFI (Authorized Financial Institution)** is the defining institutional construct. AFIs are CBOB-authorised entities — commercial banks, money transmitters, payment-service providers — that can issue / hold / transact Sand Dollar wallets for the end user. Critically the **wallets are interoperable across AFIs**: a consumer's Sand Dollar balance held via Island Pay can be received from a counterparty using a different AFI's wallet, and the consumer can switch AFI without losing balance.
+| Provider category | Role documented by the direct sources |
+|---|---|
+| Commercial banks and credit unions | Eligible financial intermediaries; the 2020 notice says they were expected to support customer due diligence and links between deposit accounts and wallets |
+| Money-transmission businesses and payment-service providers | Eligible intermediaries; the 2020 notice says onboarded firms could offer services through approved custom apps or the generic Sand Dollar app |
+| Registered wallet providers generally | Subject to CBOB registration and interoperability standards for provider-independent aliases, account numbers, and QR-code payments |
 
-The interoperability requirement avoids the walled-garden pattern that emerged in some peer programmes (e.g., e-CNY operator-level interop is more complex). It is structurally similar to the EU digital euro design where supervised PSPs provide wallets but the underlying balance is ECB-issued and portable.
+Source note: [CBOB's national-release notice](https://www.sanddollar.bs/publicupdates/public-update-gradual-national-release-to-the-bahamas-in-october-2020) describes the intermediary categories and 2020 rollout roles; regulations 4–9 of the [2021 Regulations](https://www.centralbankbahamas.com/viewPDF/documents/2022-02-11-11-53-25-Bahamian-Dollar-Digital-Currency-Regulations-2021-Final-Gazetted.pdf) govern wallet providers and interoperability standards.
 
-| AFI category | Function | Example |
-|---|---|---|
-| **Bank AFIs** | Wallet issuance for bank customers | Commercial Bahamian banks (CIBC, FCIB, RBC, BoB, etc.) |
-| **Money Transmission AFIs** | Wallet issuance for unbanked / underbanked | KANOO, MoneyMaxx |
-| **Payment-service AFIs** | Wallet issuance via fintech apps | Island Pay |
+The official individual page tells users to choose an enabled AFI and download that AFI's proprietary wallet. It does not say that a user can switch AFIs while preserving the same wallet or balance without an operational transfer step. [Official individual-wallet page](https://www.sanddollar.bs/individual).
 
-The AFI model is now widely cited as the **canonical small-economy CBDC distribution pattern**. It avoids the CBOB needing to run a consumer-facing app directly, preserves the role of regulated intermediaries, and supports financial-inclusion targeting through MMO and payment-service AFIs that reach unbanked outer-island populations.
+## Matrix E · Official Tier I and Tier II individual-wallet limits
 
-## Matrix E · Tiered KYC — the inclusion-vs-AML balance
-
-| Tier | KYC requirement | Wallet cap | Monthly tx cap | Target user |
+| Individual tier | Identity and bank-link rules on the official individual page | Holding limit | Transaction limit on the official individual page | Limit in the 2022 Gazette notice |
 |---|---|---|---|---|
-| **Tier 1 (personal)** | Phone number + low-friction onboarding | B$500 | B$1,500 | Unbanked / underbanked; outer islands; tourists |
-| **Tier 2 (personal)** | Gov-issued ID verification (NIB number / passport) | B$8,000 | B$10,000 | Mainstream consumers |
-| **Business wallet** | KYB (Know Your Business) verification | Higher caps; tiered by business type | Higher caps | Merchants, small businesses |
+| **Tier I** | Government-issued ID is not required; cannot link a bank account | **B$500** | **B$1,500 per month** | **B$1,500 per month** |
+| **Tier II** | Government-issued ID is required; can link a bank account | **B$8,000** | **B$10,000 per month** | **B$100,000 annually** |
 
-The tiered design is structurally similar to the e-CNY operator-tier model and the eNaira tier-0/1/2/3 model. The Sand Dollar tier-1 cap is materially lower than the eNaira tier-0 cap (B$500 vs ₦300K), reflecting different fiscal-base economics — but the design philosophy (low-friction tier for the unbanked, higher tier for verified users) is shared.
+Source note: the [official individual-wallet page](https://www.sanddollar.bs/individual) lists the identity, bank-link, holding, and monthly limits; the [Bahamian Dollar Digital Currency (Holding and Transactional Limits) Notice, 2022](https://www.centralbankbahamas.com/viewPDF/documents/2022-08-02-16-38-17-Bahamian-Dollar-Digital-Currency-Holding-and-Transactional-Limits-Notice-2022.pdf) lists the gazetted holding and transaction periods. The monthly and annual Tier II figures are reported separately rather than converted or treated as identical.
 
-The IMF working paper notes that **most Sand Dollar users are tier-2** (ID-verified), not tier-1 — meaning the inclusion-targeting design did not fully succeed in reaching the unbanked at scale. The same observation applies to eNaira (tier-2 dominates) and JAM-DEX.
+These official limits do not establish which tier most users hold, whether the inclusion objective succeeded or failed, or whether the tier design has the same cause or effect as eNaira, JAM-DEX, or e-CNY.
 
-## Matrix F · Comparison to peer small-economy / emerging-market CBDCs
+## Origin and dated evolution
 
-| Item | Bahamas Sand Dollar | [[fintech/nigeria-enaira-retail-cbdc\|Nigeria eNaira]] | [[fintech/jamaica-jam-dex-cbdc\|Jamaica JAM-DEX]] | Eastern Caribbean DCash |
-|---|---|---|---|---|
-| Live launch | 2020-10-20 (first ever) | 2021-10-25 | 2022-07 (formal launch) | 2021-03 (pilot); discontinued 2024 |
-| Issuer | CBOB | CBN | Bank of Jamaica | Eastern Caribbean Central Bank |
-| Distribution | AFIs (interoperable) | DMBs + MMOs | Authorised wallet providers | Pilot via banks |
-| Technology partner | Bitt Inc. | Bitt Inc. | eCurrency Mint | Bitt Inc. |
-| Tier-1 KYC cap | B$500 / B$1,500 mo | ₦120K daily / ₦300K max | J$100K / J$50K (varies by tier) | n/a (discontinued) |
-| Active penetration | Single-digit-% of pop | <0.5% of adult pop | Few % of pop (Lynk-driven) | n/a (discontinued) |
-| Status (2026-05) | Live (5+ years) | Live but de-emphasised | Live | Discontinued 2024 |
+| Date | Directly documented event |
+|---|---|
+| **2019-12-24** | CBOB's project update said the Exuma pilot would start in December 2019 and planned an extension to Abaco in the first half of 2020 |
+| **2020-09-25** | CBOB announced that gradual national release through AFIs would begin on **2020-10-20** |
+| **2020-10-20** | The announced nationwide-release start date |
+| **2021-08-23** | The Bahamian Dollar Digital Currency Regulations, 2021 were gazetted |
+| **2022-05-25** | The holding and transactional limits notice was made; the Gazette publication is dated **2022-05-30** |
+| **2024-12** | The IMF's later country report records the end-2024 circulation share and wallet totals |
 
-Sand Dollar and JAM-DEX are now the **two stable live small-economy retail CBDCs**; eNaira is live but de-emphasised; DCash was discontinued. The pattern across Caribbean / African-Atlantic small-economy CBDCs is clear: **launch is achievable, sustained adoption is the structural challenge**.
+Source note: [2019 project update](https://www.sanddollar.bs/publicupdates/a-bahamian-payments-system-modernization-initiative), [2020 national-release notice](https://www.sanddollar.bs/publicupdates/public-update-gradual-national-release-to-the-bahamas-in-october-2020), [2021 Regulations](https://www.centralbankbahamas.com/viewPDF/documents/2022-02-11-11-53-25-Bahamian-Dollar-Digital-Currency-Regulations-2021-Final-Gazetted.pdf), [2022 limits notice](https://www.centralbankbahamas.com/viewPDF/documents/2022-08-02-16-38-17-Bahamian-Dollar-Digital-Currency-Holding-and-Transactional-Limits-Notice-2022.pdf), and [IMF Country Report No. 26/31](https://www.imf.org/-/media/files/publications/cr/2026/english/1bhsea2026001-source-pdf.pdf).
 
-## Origin and evolution
+The timeline stops at the latest dated fact used in this entry. It does not assert modest transaction growth, unchanged design in 2025–2026, uninterrupted operation, a “longest-running” rank, or that later CBDC designs borrowed from Sand Dollar.
 
-```
-2018-2019    CBOB internal work on retail CBDC; Bitt Inc. selected as technology partner
-2019-12      Exuma pilot launched (first Family-Island pilot)
-2020-06      Abaco added to pilot
-2020-10-20   Nation-wide Sand Dollar launch — first nation-wide retail CBDC globally
-2021         AFI roster expansion; merchant acceptance pilots
-2021-03      Eastern Caribbean DCash launched (peer reference programme)
-2021-10      Nigeria eNaira live (second large-EM retail CBDC after Sand Dollar)
-2022-06      IMF Working Paper "The Bahamas's Sand Dollar: CBDC and Lessons Learned"
-2022-07      Jamaica JAM-DEX live
-2023-2024    Sand Dollar continued operational; wallet count and tx growth modest
-2024         Eastern Caribbean DCash discontinued after extended outage and limited adoption
-2024-2025    Sand Dollar surpasses four-year continuous-operation mark — longest-running live retail CBDC
-2025-2026    Continued live; ongoing AFI / merchant rollout; no major design change
-```
+## Evidence boundary for adoption interpretation
 
-**Pattern**: Sand Dollar's longevity is the data point most often cited. It is the only continuous-operation case spanning a full BIS / IMF / academic-research cycle, and almost every subsequent CBDC design borrows pieces of its model (two-tier intermediated, tiered KYC, interoperable wallets, no interest, AFI-style distribution).
+The official materials describe financial inclusion and access across The Bahamas as programme objectives, and the IMF's 2026 report says Sand Dollar was slowly expanding access in underserved communities, including some small islands. [CBOB national-release notice](https://www.sanddollar.bs/publicupdates/public-update-gradual-national-release-to-the-bahamas-in-october-2020); [IMF Country Report No. 26/31](https://www.imf.org/-/media/files/publications/cr/2026/english/1bhsea2026001-source-pdf.pdf).
 
-## Comparison to private-rail alternatives in the Bahamas
-
-The Bahamas already has a **functioning private digital-payment landscape**, which is one reason Sand Dollar adoption is gradual rather than explosive:
-
-- **Commercial-bank online banking and cards** (CIBC, FCIB, RBC, BoB, etc.).
-- **Island Pay** (a payment-service AFI in the Sand Dollar stack, but also a standalone wallet operator).
-- **MoneyMaxx, KANOO** — money-transmitter services.
-- **Tourist-economy USD acceptance** — given the USD-peg, USD circulates physically alongside B$ in the tourism sector.
-
-The Bahamian retail CBDC competes with an **already-banked majority population in the main island clusters** (Nassau / Paradise Island / Freeport), where the marginal benefit of switching from existing payment rails is small. The structural inclusion target is the **outer Family Islands** and the **unbanked / underbanked** — where infrastructure (smartphone penetration, connectivity, agent-network density) is the binding constraint, not the wallet design.
-
-This explains why Sand Dollar's design optimised for offline capability, low-friction tier-1 onboarding, and AFI interoperability. The design is structurally correct; the binding constraint is **physical inclusion infrastructure** rather than digital-money design.
+The cited evidence does **not** establish that private payment rails caused gradual adoption, that a banked demographic majority had little reason to switch, that smartphone access or agent density was the binding constraint, or that the wallet design was structurally optimal. It also does not supply a current market panorama of named private providers. Those earlier causal and demographic claims are therefore omitted rather than presented as findings.
 
 ## Related
 
@@ -189,19 +151,14 @@ This explains why Sand Dollar's design optimised for offline capability, low-fri
 - [[fintech/cbdc-multi-tier-architecture-overview|CBDC 多层架构概览]]
 - [[fintech/cbdc-multi-tier-architecture-three-paradigms|CBDC 三大现役范式]]
 - [[fintech/cbdc-multi-tier-architecture-tradeoffs|CBDC 架构选择 4 核心权衡]]
-- [[fintech/e-euro-retail-rollout|digital euro retail rollout]]
-- [[fintech/em-market-crypto-dollarization-pattern|EM crypto dollarization pattern]]
-- [[fintech/mbridge-bis-multi-cbdc-overview|mBridge BIS multi-CBDC bridge]]
-- [[fintech/bis-project-agora-overview|BIS Project Agorá]]
-- [[fintech/jp-stablecoin-dcjpy|DCJPY / ディーカレット DCP]]
 
 ## Sources
 
-- Central Bank of The Bahamas — institutional landing: https://www.centralbankbahamas.com/
-- CBOB — Sand Dollar FAQ and project page: https://www.centralbankbahamas.com/payments-system/the-sand-dollar/sand-dollar-faqs
-- Sand Dollar official site: https://www.sanddollar.bs/
-- IMF Working Paper — "The Bahamas's Sand Dollar: CBDC and Lessons Learned" (Kosse, Mattei, Glowka, 2022): https://www.imf.org/en/Publications/WP/Issues/2022/06/10/The-Bahamas-Sand-Dollar-CBDC-and-Lessons-Learned-518864
-- BIS Innovation Hub CBDC topic landing: https://www.bis.org/about/bisih/topics/cbdc.htm
-- BIS Working Paper No. 1116 — "The next-generation monetary system — a blueprint" (2024)
-- Central Bank of The Bahamas Act 2020 — public-domain legislative text
-- CBOB Sand Dollar Regulations — public publication under the Act
+- CBOB — [A Bahamian Payments System Modernization Initiative, 2019-12-24](https://www.sanddollar.bs/publicupdates/a-bahamian-payments-system-modernization-initiative)
+- CBOB — [Gradual National Release to The Bahamas in October 2020, 2020-09-25](https://www.sanddollar.bs/publicupdates/public-update-gradual-national-release-to-the-bahamas-in-october-2020)
+- CBOB — [Sand Dollar official design description](https://www.sanddollar.bs/about)
+- CBOB — [Sand Dollar individual-wallet page](https://www.sanddollar.bs/individual)
+- Government of The Bahamas / CBOB — [Bahamian Dollar Digital Currency Regulations, 2021](https://www.centralbankbahamas.com/viewPDF/documents/2022-02-11-11-53-25-Bahamian-Dollar-Digital-Currency-Regulations-2021-Final-Gazetted.pdf)
+- Government of The Bahamas / CBOB — [Bahamian Dollar Digital Currency (Holding and Transactional Limits) Notice, 2022](https://www.centralbankbahamas.com/viewPDF/documents/2022-08-02-16-38-17-Bahamian-Dollar-Digital-Currency-Holding-and-Transactional-Limits-Notice-2022.pdf)
+- BIS — [Ready, steady, go? Results of the third BIS survey on central bank digital currency, BIS Papers No. 114](https://www.bis.org/publ/bispap114.pdf)
+- IMF — [The Bahamas: 2025 Article IV Consultation, IMF Country Report No. 26/31](https://www.imf.org/-/media/files/publications/cr/2026/english/1bhsea2026001-source-pdf.pdf)

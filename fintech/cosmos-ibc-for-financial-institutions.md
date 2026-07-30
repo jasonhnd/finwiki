@@ -1,113 +1,133 @@
 ---
-title: Cosmos IBC for Financial Institutions —— 金融機関向け cross-chain protocol 选型
-aliases: [Cosmos IBC for FI, IBC for banking, cross-chain protocol comparison]
+title: 金融機関向けクロスチェーン・プロトコル比較 — IBC / LCP / CCIP / LayerZero / Hyperlane
+aliases:
+  - Cosmos IBC for Financial Institutions
+  - Cosmos IBC for FI
+  - IBC for banking
+  - cross-chain protocol comparison
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-06-24
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-08-08
 confidence: likely
 tags: [fintech, blockchain, cross-chain, ibc, cosmos, hyperlane, ccip, layerzero, td]
 status: active
 sources:
-  - https://ibcprotocol.dev/
-  - https://www.cosmos.network/ibc
-  - https://www.hyperlane.xyz/
-  - https://chain.link/cross-chain
-  - https://layerzero.network/
+  - https://github.com/cosmos/ibc/blob/main/spec/core/ics-002-client-semantics/README.md
+  - https://docs.cosmos.network/ibc/latest/intro
+  - https://docs.lcp.network/how-lcp-works/
+  - https://docs.lcp.network/security-model/
+  - https://docs.chain.link/ccip/concepts/architecture/offchain/overview
+  - https://www.swift.com/sites/default/files/files/results_report_swift_interoperability_experiments_final_310823.pdf
+  - https://docs.layerzero.network/v2/concepts/modular-security/security-stack-dvns
+  - https://docs.hyperlane.xyz/docs/protocol/ISM/modular-security
+  - https://www.datachain.jp/ja/news/progmat-and-datachain-launch-project-pax
 ---
 
-# Cosmos IBC for Financial Institutions
+# 金融機関向けクロスチェーン・プロトコル比較 — IBC / LCP / CCIP / LayerZero / Hyperlane
 
+## ウィキ上の位置づけ
 
-## Wiki route
+この項目は [[fintech/INDEX|fintech index]] の配下で、金融機関がクロスチェーン方式を比較する際の技術的デューデリジェンス項目を整理する。日本の制度境界は [[fintech/japan-financial-regulation|日本金融規制]] と [[fintech/japan-stablecoin-regulatory-landscape|日本のステーブルコイン規制構造]]、Project Pax の資料境界は [[fintech/cross-border-sc-via-swift-api|Swift API を利用するクロスボーダー SC]] とあわせて読む。本項は、特定プロトコルの法的適合性、本番利用、または規制上の優位を認定するものではない。
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+> [!info] 要約
+> 比較の起点はプロトコル名ではなく、アプリケーションが何を移転し、どの検証モデルと追加仮定を採り、誰が設定・更新・中継・復旧を担うかである。IBC、LCP、CCIP、LayerZero、Hyperlane は検証と運用の境界が異なる。公開仕様、案件固有の設定、テスト結果、契約・法務・コンプライアンス確認を分けて記録し、技術仕様だけから AML/CFT 適合性、無事故、単一障害点の不存在、または本番採用を推論しない。
 
-> [!info] TL;DR
-> 金融機関が cross-chain protocol を選ぶ場合、**信頼最小化(trust-minimized) / 認証可能性(verifiable) / 規制親和性(regulatory-friendly)** が core requirement。Cosmos **IBC + LCP(Light Client Proxy via TEE)** は唯一 light client verification を完備した protocol で、Progmat / Datachain が日本側で実装中。Hyperlane / CCIP / LayerZero は使いやすさは上だが、**multi-sig / oracle 依存** で信託銀行の AML/CFT 要件と緊張関係にある。
+## プロトコル比較
 
-## 4 つの代表 protocol 比較
-
-| 項目 | **IBC (+ LCP)** | Chainlink CCIP | LayerZero | Hyperlane |
-|---|---|---|---|---|
-| 設計起源 | Cosmos ecosystem(2019)| Chainlink + Swift PoC | Independent(2022)| Modular(2023)|
-| Trust 模型 | **Light client verification** | Decentralized Oracle Network(DON)+ Risk Mgmt Network | Oracle + Relayer 2 部署 | Interchain Security Modules(ISM)·選択可能 |
-| Trust 最小化 | **高**(暗号学的)| 中(DON 信頼)| 中(Oracle/Relayer 信頼)| 設定次第 |
-| Chain coverage | Cosmos chains + EVM(via LCP)| EVM 主要 + 拡大中 | **70+ chains** 最大 | 50+ chains |
-| 認証可能性 | **on-chain proof** | DON 報告 | Oracle attestation | ISM 出力 |
-| 規制親和性 | **高**(verifiable + 設計透明)| 中(CCIP の SWIFT PoC 進行中)| 低-中(歴史的に exploits)| 中(modular 設計)|
-| 銀行採用事例 | **Progmat / Project Pax** | Swift × CCIP PoC · DTCC | (主に DeFi) | (主に DeFi) |
-| 既存 exploits | LCP は exploit 0 | CCIP は exploit 0 | LayerZero **複数 exploits 履歴** | Hyperlane exploit 0 |
-
-## なぜ IBC + LCP が金融機関向けに優位なのか
-
-**(a) Light Client Verification の意味**:cross-chain は通常「他 chain の状態を信じる」必要があるが、IBC は **light client が他 chain のヘッダを暗号学的に検証** する。これにより oracle / multi-sig への信頼委譲が不要 → **信託銀行 AML/CFT 監督と整合的**。
-
-**(b) LCP(Light Client Proxy)の役割**:Datachain が開発した LCP は **TEE (Trusted Execution Environment) ベース** で light client logic を提供。Hyperledger Lab project としても登録され、enterprise-grade audit trail が確保される。
-
-**(c) Verifiable proof on-chain**:全 cross-chain transfer は on-chain で proof が検証可能 → 監督当局が後追い監査可能 → **§501(d) 視点で「執法可能性」が高い**。
-
-**(d) Open standard**:IBC は ICS(Interchain Standards)で仕様公開 → 銀行が独自実装 / fork 可能 → vendor lock-in リスク低い。
-
-## 金融機関視点での弱点
-
-| 弱点 | 内容 | 対応策 |
+| Protocol | 一次資料が示す仕組み | 金融機関が案件別に確認する事項 |
 |---|---|---|
-| **複雑性** | Light client + relayer + connection setup が必要 | LCP / Polymer 等 abstraction layer 使用 |
-| **EVM 直接対応の遅れ** | Ethereum 直接対応は LCP 経由 | Datachain / Polymer 等で解消中 |
-| **流動性分断** | chain 毎に独立流動性 | TOKI 等 cross-chain liquidity pool 補完 |
-| **規制統一性** | chain 毎に compliance 規則差 | Travel Rule / KYC API で統一(Progmat 共通 layer)|
+| **IBC Classic** | [ICS-02](https://github.com/cosmos/ibc/blob/main/spec/core/ics-002-client-semantics/README.md) は、信頼済み状態と validity predicate を組み合わせる client の共通要件を定める。[IBC documentation](https://docs.cosmos.network/ibc/latest/intro) は、相互チェーンの light client と relayer による packet 中継を説明する | client type、初期 trusted state、接続先 consensus、client update / freeze / recovery、relayer、timeout、upgrade |
+| **IBC + LCP** | [How LCP works](https://docs.lcp.network/how-lcp-works/) は、Intel SGX enclave 内の light-client 検証結果を commitment と enclave key の署名にし、downstream 側で検証する構成を説明する。[Security Model](https://docs.lcp.network/security-model/) は追加仮定を明記する | TEE、MRENCLAVE、remote attestation、enclave key 登録、両チェーンの availability / consensus correctness、liveness のための honest LCP node |
+| **Chainlink CCIP** | 現行の [CCIP offchain architecture](https://docs.chain.link/ccip/concepts/architecture/offchain/overview) は、v1.6 の単一 Role DON 上で Commit OCR と Executing OCR の plugins が動くと説明する。自動化された offchain RMN role は現行 deployment では停止中と明記される。[Swift 2023 report](https://www.swift.com/sites/default/files/files/results_report_swift_interoperability_experiments_final_310823.pdf) は CCIP を用いた実験を記録する | 利用 version、chain / token support、onchain controls、rate limits、upgrade / admin 権限、DON 運用、実験と本番の区別 |
+| **LayerZero V2** | [DVN documentation](https://docs.layerzero.network/v2/concepts/modular-security/security-stack-dvns) は、OApp が pathway ごとに send / receive configuration、DVN、X-of-Y-of-N threshold、Executor を設定できると説明する | 各 pathway の明示設定、required / optional DVN、threshold、Executor、default 依存、変更管理、利用可能性 |
+| **Hyperlane** | [ISM documentation](https://docs.hyperlane.xyz/docs/protocol/ISM/modular-security) は、destination 側で message を検証する ISM を application ごとに設定・合成・独自実装でき、未指定時は Mailbox の default Multisig ISM を使うと説明する | application-specific ISM、validator set、threshold、組合せ条件、default の扱い、upgrade / admin 権限、運用監視 |
 
-## 銀行 stack での実装例(Progmat / Project Pax)
+出典: protocol comparison table. ^[source: IBC ICS-02; Cosmos IBC documentation; LCP documentation; Chainlink CCIP documentation; Swift 2023 results report; LayerZero documentation; Hyperlane documentation]
 
-```
-銀行アプリ
-   ↓ Cosmos SDK(Progmat Wallet)
-Progmat Coin contract
-   ↓ IBC packet
-LCP middleware(TEE-based light client)
-   ↓ verifiable proof
-受信 chain(Ethereum / Polygon / Avalanche)
-   ↓ TOKI 流動性プールで cross-chain swap
-受信側 SC が unlock
-```
+## IBC / LCP で確認すべき仮定
 
-## Hyperlane / CCIP / LayerZero との使い分け
-
-| Use case | 推奨 protocol | 理由 |
+| 確認軸 | 一次資料から確認できること | 案件証拠として追加するもの |
 |---|---|---|
-| 信託銀行 cross-border SC | **IBC + LCP** | 規制親和性 + 光客检证 |
-| 銀行 PoC + 既存 SWIFT 連携 | **CCIP** | Chainlink Swift PoC 既存 + DON 信頼性 |
-| DeFi / 多 chain 同時展開 | LayerZero / Hyperlane | chain coverage + 開発速度 |
-| 機関投資家(JPM Kinexys 型 TD)| (Onyx / Corda 専有)| Permissioned DLT で IBC 不要 |
+| Remote state | ICS-02 は trusted state と client-specific validity predicate に基づく remote state update の検証を定義する | 採用 client、初期化手順、接続先 consensus / finality、監視対象 |
+| Client lifecycle | ICS-02 は client update、misbehaviour detection、freeze を扱い、IBC documentation は relayer の役割を説明する | update 頻度、timeout、停止・復旧手順、chain upgrade 時の責任分界 |
+| LCP execution | LCP は SGX enclave 内で light-client 検証を行い、Remote Attestation を経て登録された enclave key で proof を検証させる | SGX platform、MRENCLAVE 管理、attestation trust chain、key rotation、脆弱性対応 |
+| Safety / liveness assumptions | LCP Security Model は TEE security、両チェーンの availability / consensus correctness、少なくとも 1 honest LCP node という仮定を列挙する | operator 構成、障害訓練、state recovery、monitoring、service objective |
 
-## §501(d) 視点
+出典: IBC / LCP assumptions table. ^[source: IBC ICS-02; Cosmos IBC documentation; LCP How LCP works; LCP Security Model]
 
-[[fintech/genius-act-501-denylist-mandate|GENIUS Act §501(d)]] は cross-border SC の「互操作要件」を求める。IBC + LCP は:
-- **Verifiable** ✓
-- **Auditable** ✓
-- **Open standard** ✓
-- **No single point of trust** ✓
+## 共通の導入デューデリジェンス
 
-これらは §501(d) 認定の評価軸と整合的 → 将来 §501(d) tier 取得を目指す SC issuer にとって IBC + LCP は構造的に有利な選択。クロスチェーン 5 極の横向対照は [[systems/cross-chain-five-pole-comparison-matrix|跨链 5 极比较矩阵]] 参照。
+| 領域 | 確認事項 | 受入証拠の例 |
+|---|---|---|
+| Application semantics | message と asset transfer を区別し、mint / burn / lock / release、nonce、replay、timeout、失敗時の状態を定義する | sequence diagram、contract tests、reconciliation test、asset-accounting review |
+| Security configuration | client / DON / DVN / ISM、threshold、admin / upgrade key、default、変更手順を案件単位で固定する | signed configuration、権限表、upgrade rehearsal、independent review |
+| Operations | relayer、LCP node、DON、DVN、Executor、validator の責任と監視範囲を記録する | runbook、alert、SLO、on-call、dependency inventory |
+| Incident and recovery | pause、retry、timeout、manual execution、state recovery、reconciliation、利用者通知を定義する | failure-injection result、recovery log、incident playbook |
+| Legal and compliance | asset claim、issuer / custodian、data privacy、AML/CFT、sanctions、liability / recourse、法域を技術評価から分離する | legal opinion、compliance approval、data-flow review、contractual allocation |
+
+出典: common due-diligence table. ^[source: Swift 2023 results report; LayerZero DVN documentation; Hyperlane ISM documentation; Chainlink CCIP offchain architecture]
+
+## Project Pax の資料で確認できる範囲
+
+| 項目 | 2024-09-05 公告に記載された内容 | 本項での扱い |
+|---|---|---|
+| Project status | [Datachain / Progmat announcement](https://www.datachain.jp/ja/news/progmat-and-datachain-launch-project-pax) は、共同プロジェクトの開始と、prototype を用いる実証実験の計画を公表した | 公告時点の計画・設計資料として扱う |
+| Existing interface | Swift の既存 API framework と API mock / simulation environment に適応するクロスボーダー SC 送金基盤を構築するとした | Swift API 連携の設計意図として扱い、本番接続の証拠とはしない |
+| Cross-chain components | 異なる blockchain 間の取引に IBC と LCP を利用すると記載した | 指名された技術構成要素として扱い、個別 chain、finality、運用品質は別途確認する |
+| Joint development | Progmat と Datachain が共同開発した SC contract を構成要素として記載した | 公告に記載された共同開発範囲として扱い、asset の法的効果や settlement 完了を推論しない |
+
+出典: Project Pax evidence-boundary table. ^[source: Datachain and Progmat Project Pax announcement, 2024-09-05]
+
+この資料から、個別金融機関の本番参加、特定 chain への deployment、asset の法的移転、finality、commercial operation を立証済みとは扱わない。Project Pax の出来事を更新する場合は、発表日と検証段階を明記し、後続資料を別に引用する。
+
+## 候補比較の進め方
+
+| Step | 判断内容 | 必要な成果物 |
+|---|---|---|
+| Scope | message、token、cash claim、securities、または workflow のどれを跨ぐかを定義する | use-case boundary、asset / data map、非目標 |
+| Verification | remote state や message を誰が、どの情報と threshold で検証するかを比較する | trust-assumption register、threat model、configuration snapshot |
+| Control | deploy、configure、upgrade、pause、recover できる主体を特定する | key / role matrix、change-control record |
+| Operations | relay、execution、monitoring、reconciliation、incident response の責任を割り当てる | RACI、runbook、SLO、failure-test result |
+| Approval | 技術試験と、security、risk、legal、compliance、procurement の承認を分離する | approval record、残存 risk、go-live criteria |
+
+出典: candidate-comparison process table. ^[source: protocol documentation and project-specific due-diligence framework]
+
+## 証拠の境界
+
+- Light-client verification や公開仕様は、AML/CFT・制裁対応・ライセンス要件への適合を自動的に証明しない。
+- Open-source / open-standard であることだけから、vendor lock-in、運用集中、upgrade control が低いとは断定しない。
+- 本項の一次資料は、全期間の zero-incident、絶対的な security ranking、または single point of trust の不存在を立証しない。
+- 実験、prototype、announcement は、本番採用、commercial operation、または規制承認と区別する。
+- protocol version、application configuration、operator set、supported pathways は変わり得るため、導入時点の snapshot と再検証日を残す。
 
 ## 応用
 
-- 任何 "金融機関向け cross-chain protocol 選定" 議論
-- Project Pax / mBridge / Project Agorá の技術 stack 評価
-- TD と SC の cross-border 通道設計
-- 信託型 SC を multi-chain で運用する場合の middleware 選択 → [[fintech/jp-trust-type-sc-architecture|信託型 SC 架構]]
-- SWIFT API + blockchain settlement パターンの基盤 → [[fintech/cross-border-sc-via-swift-api|跨境 SC via SWIFT API]]
+- 金融機関向けクロスチェーン・プロトコルの RFI / RFP と technical due diligence
+- Project Pax の公告・実証・後続更新を段階別に読むためのチェックリスト
+- 信託型 SC を複数 ledger / chain で扱う際の middleware と責任分界の評価
+- application configuration、operation、security、legal / compliance を分離した承認資料
 
 ---
 
-
-## Related
+## 関連
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/jp-trust-type-sc-architecture|日本信託型 SC 架構]]
-- [[fintech/cross-border-sc-via-swift-api|跨境 SC via SWIFT API]]
-- [[fintech/multi-megabank-consortium-governance|多巨行联合体治理]]
-- [[fintech/central-banking-function-unbundling|央行职能解体五层]]
+- [[fintech/jp-trust-type-sc-architecture|日本の信託型ステーブルコイン構造]]
+- [[fintech/cross-border-sc-via-swift-api|Swift API を利用するクロスボーダー SC]]
+- [[fintech/japan-financial-regulation|日本金融規制]]
+- [[fintech/japan-stablecoin-regulatory-landscape|日本のステーブルコイン規制構造]]
 <!-- /wiki-links:managed -->
+
+## Sources
+
+- [IBC ICS-02 Client Semantics](https://github.com/cosmos/ibc/blob/main/spec/core/ics-002-client-semantics/README.md)
+- [Cosmos Docs — IBC documentation](https://docs.cosmos.network/ibc/latest/intro)
+- [LCP — How LCP works](https://docs.lcp.network/how-lcp-works/)
+- [LCP — Security Model](https://docs.lcp.network/security-model/)
+- [Chainlink — CCIP offchain architecture](https://docs.chain.link/ccip/concepts/architecture/offchain/overview)
+- [Swift — Blockchain interoperability experiments results report, August 2023](https://www.swift.com/sites/default/files/files/results_report_swift_interoperability_experiments_final_310823.pdf)
+- [LayerZero V2 — Security Stack (DVNs)](https://docs.layerzero.network/v2/concepts/modular-security/security-stack-dvns)
+- [Hyperlane — ISM Overview](https://docs.hyperlane.xyz/docs/protocol/ISM/modular-security)
+- [Datachain / Progmat — Project Pax announcement, 2024-09-05](https://www.datachain.jp/ja/news/progmat-and-datachain-launch-project-pax)

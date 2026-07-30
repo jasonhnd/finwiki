@@ -1,60 +1,80 @@
 ---
 source: fintech/hk-frtb-stablecoin-reserve-overview
-source_hash: c1346985e5ff1cb8
+source_hash: aace4bfa7feeb599
 lang: ja
+model: source-language-sync
 status: machine
 fidelity: ok
-title: "HK FRTB ステーブルコイン準備金要件 · HKMA 準備金フレームワーク"
-translated_at: 2026-06-02T13:21:55.093Z
+title: "HKMA ステーブルコイン準備金要件 · FRTB との境界"
+translated_at: 2026-07-30T02:03:00+09:00
 ---
 
-# HK FRTB ステーブルコイン準備金要件 · HKMA 準備金フレームワーク
+# HKMA ステーブルコイン準備金要件 · FRTB との境界
 
-## ウィキ上の位置づけ
+## Wiki route
 
-この項目は[[fintech/INDEX|fintech index]]配下に位置づけられる。隣接する文脈は[[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]]、より広いシステム境界は[[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]]とあわせて読む。
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/hkma-stablecoin-licensing-overview|HKMA stablecoin licensing overview]], [[fintech/basel-iii-frtb-crypto-exposure-overview|Basel III FRTB overview]], and [[fintech/global-stablecoin-regulatory-five-pole-matrix|five-pole comparison]].
 
-> [!info] 要約
-> HKMA 2025-08 ステーブルコイン立法の準備金条項は、アジアで初めて Basel III FRTB(Fundamental Review of the Trading Book)基準に対応する SC 準備金フレームワーク である。コア要件:100% 1:1 法定通貨準備金 + Tier 1 資産(HKD/USD 短期国債 + HKMA 預金)+ 第三者カストディ + 月次監査 + 資本金 HKD 100M+。GENIUS §501(≤ 93 日 T-bill)+ MiCA EMT(≥ 30% 銀行預金)と相まって三円アーキテクチャの第三の差別化座標を形成する。
+> [!info] TL;DR
+> 香港の Stablecoins Ordinance は 2025-08-01 に施行され、HKMA の監督指針は完全裏付け、高品質・高流動性の準備資産、通貨ミスマッチ管理、分別・信託保全、定期的な独立 attestation、年次監査、および最低 HK$25 million の払込資本を要求する。これは stablecoin issuer rule であり、銀行の trading book market-risk framework である FRTB を issuer reserve に直接適用した制度ではない。指針に出る Banking (Capital) Rules の参照は、一定の債務証券を信用リスク標準的手法の 0% risk weight で適格化する条件であり、「FRTB SA 適用」と同義ではない。 ^[https://www.hkma.gov.hk/media/eng/doc/key-functions/ifc/stablecoin-issuers/Guideline_on_supervision_of_licensed_stablecoin_issuers_eng.pdf] ^[https://www.bis.org/bcbs/publ/d457.htm]
 
-## 主要事実
+## 確認できる準備金要件
 
-- HKMA SC 立法:2025-08 ステーブルコイン条例 採択 ^[extracted]
-- 資本閾値:HKD 100M+(MAS S$5M / MiCA EMT 資本最低 €350K より遥かに高い)^[extracted]
-- 準備金国債期限:≤ 1 年(GENIUS 93 日 vs MiCA 制限なしの中間)^[extracted]
-- Tier 1 厳格度:Basel III FRTB SA と整合 · アジア初 ^[extracted]
-- 100% 1:1 法定通貨準備金(HKD-pegged または USD-pegged)^[extracted]
-- 第三者独立カストディ(ライセンス TCSP/Trust)+ 月次監査 + 四半期公開開示 ^[extracted]
-- 倒産隔離分別管理 ^[extracted]
-- e-CNY との境界画定:中国本土リテール顧客は受け入れない · 政治バランスのハード条項 ^[extracted]
+HKMA の最終 Supervisory Guideline（draft ではない）に基づく。
 
-## 仕組み
+- 各 stablecoin の準備資産 pool の時価は、流通残高の額面以上を常時維持する。
+- リスクに応じて full-backing を超える適切な buffer を持つ。
+- 適格資産は、現金、満期 3 か月以内の銀行預金、一定の市場性債券、適格担保付き overnight reverse repo の受取金、専用 investment fund、または HKMA が認める資産。
+- 市場性債券は、政府・中央銀行等による発行または保証、残存 1 年以内、高流動性などの条件を満たす。
+- 原則として reserve currency と reference currency を一致させる。例外は HKMA の事前書面承認が必要。
+- reserve pool は他の pool と分離し、issuer の他の資産から分け、他債権者の請求から保護する。
 
-**HKMA ステーブルコイン準備金のコア**:100% 1:1 法定通貨準備金(HKD / USD pegged)+ Tier 1 資産構成(HKD 現金 + HKMA 中銀預金 + HKD/USD 短期国債 ≤ 1 年 + 限定比率の商業手形)+ 第三者独立カストディ(ライセンス TCSP/Trust)+ 月次監査 + 四半期公開開示 + 倒産隔離分別管理 + HKD 100M+ 払込資本。
+^[https://www.hkma.gov.hk/media/eng/doc/key-functions/ifc/stablecoin-issuers/Guideline_on_supervision_of_licensed_stablecoin_issuers_eng.pdf]
 
-**FRTB との接続**:HKMA は SC 準備金を銀行トレーディング勘定類資産とみなす → Basel III FRTB SA(Standardised Approach)を適用。市場リスク資本計算:金利リスク + 為替リスク + クレジットスプレッド・リスク。これは SC 準備金を明確に Basel 資本フレームに組み込んだ世界初の規制設計である。資本計量が銀行端まで波及することによる暗黙の USDC vs USDT プレミアムロジックは [[fintech/basel-iii-frtb-crypto-exposure-implications|Basel III FRTB 戦略的含意]] を参照。
+## 開示・監査・資本
 
-**三円アーキテクチャ比較**:
-| 次元 | HKMA | GENIUS §501 | MiCA EMT |
-|---|---|---|---|
-| 準備金比率 | 100% 1:1 | 100% 1:1 | 100% 1:1 |
-| 国債期限 | ≤ 1 年 | ≤ 93 日 T-bill | 制限なし |
-| 銀行預金 | 上限なし | ≤ 50% 上限 | ≥ 30% 下限 |
-| 中銀預金 | HKMA 直接 | FRB マスターアカウント(論争) | NCB(国別中銀) |
-| 資本金 | HKD 100M | OCC charter で決定 | EMI 資本 + 比率 |
-| 資本フレーム | Basel III FRTB | 銀行法案 + PCAOB | CRR/CRD VI |
+- 日次で流通額面、準備資産の時価・構成 statement を作成し、HKMA の要求に応じて提出可能にする。
+- HKMA と別途合意しない限り、同情報を週次で HKMA に報告し、ウェブサイトを更新する。
+- HKMA が認める qualified independent external auditor による定期 attestation を行い、報告書を HKMA に提出し公開する。頻度は HKMA が認める頻度であり、一律の「月次」とは断定しない。
+- 年次財務監査は reserve assets を対象に含める。
+- 最低払込資本は HK$25 million、または HKMA が認める同等の financial resources。個別 licence condition により追加資本を要求しうる。
 
-## 起源と展開
+^[https://www.hkma.gov.hk/media/eng/doc/key-functions/ifc/stablecoin-issuers/Guideline_on_supervision_of_licensed_stablecoin_issuers_eng.pdf]
 
-HKMA は 2022-12 に SC consultation を開始、2023-12 第二回 CP で Sandbox を確立(ZA Bank / Standard Chartered / HSBC / Animoca × HKT consortium)、2025-08 に ステーブルコイン条例 を採択。2026-04 HKMA 市中協議文書《ライセンス取得ステーブルコインの資本取扱い》が BCBS SCO60 を母基準として直接引用。2026-05-21 初回ライセンス決定:9 社申請のうち実際は 2 件のみ(HSBC + StanChart Anchorpoint)、戦略的含意の詳細は [[fintech/hkma-stablecoin-licensing-implications|HKMA ライセンス戦略的含意]] を参照。アジア / グローバル横軸比較は [[exchanges/global-vasp-regulatory-comparison-matrix|グローバル VASP 規制比較マトリクス]] を参照。
+## 要件マップ
 
-## 関連項目
+下表は最終指針の reserve、reporting、capital 各節と FRTB の制度境界を対応させたもの。 ^[https://www.hkma.gov.hk/media/eng/doc/key-functions/ifc/stablecoin-issuers/Guideline_on_supervision_of_licensed_stablecoin_issuers_eng.pdf] ^[https://www.bis.org/bcbs/publ/d457.htm]
+
+| 項目 | HKMA stablecoin issuer rule | FRTB との関係 |
+|---|---|---|
+| Full backing | 額面以上の reserve market value を常時維持 | issuer reserve 自体への FRTB 適用ではない |
+| 市場性債券 | 残存 1 年以内、0% credit-risk weight 等の適格条件 | credit-risk eligibility reference を FRTB market-risk charge と混同しない |
+| 通貨リスク | 原則 reference currency と reserve currency を一致 | mismatch は issuer risk-management 問題 |
+| 独立検証 | 定期 attestation と年次監査 | bank trading-book capital calculation とは別 |
+| 最低資本 | HK$25 million または同等額、追加条件あり得る | 原文の HK$100 million 説は誤り |
+
+## FRTB ではない理由
+
+FRTB は Basel Committee の trading-book market-risk 改革であり、銀行の market-risk capital を扱う。HKMA の stablecoin guideline は licensed issuer の reserve quality、liquidity、custody、redemption、governance を扱う。銀行が reserve custodian、deposit taker、または asset holder として関与する場合、銀行側の prudential rules が別途問題になり得るが、それは issuer reserve regime 全体を「FRTB framework」と呼ぶ根拠にはならない。
+
+以前の「アジア初 FRTB 対応 stablecoin reserve」「HKMA が reserve を trading book とみなす」「2026-04 FRTB consultation」といった記述は、引用された公式資料で確認できないため撤回した。
+
+## ライセンス日付の修正
+
+HKMA の 2025 Annual Report は、制度が 2025-08-01 に施行され、最初の 2 issuer licences が 2026-04 に公表されたと記録する。以前の 2026-05-21 説や 9 社から 2 社という数値は採用しない。 ^[https://www.hkma.gov.hk/media/eng/publication-and-research/annual-report/2025/16_International_Financial_Centre.pdf]
+
+## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
 - [[fintech/hkma-stablecoin-licensing-overview|HKMA ステーブルコイン・ライセンス概観]]
 - [[fintech/basel-iii-frtb-crypto-exposure-overview|Basel III FRTB 概観]]
-- [[fintech/three-circles-stablecoin-mra-framework|三円 MRA フレームワーク]]
-- [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]]
+- [[fintech/global-stablecoin-regulatory-five-pole-matrix|五極比較]]
 <!-- /wiki-links:managed -->
 
-## 出典
+## Sources
+
+- HKMA · Stablecoin issuers: https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/stablecoin-issuers/
+- HKMA · Guideline on Supervision of Licensed Stablecoin Issuers: https://www.hkma.gov.hk/media/eng/doc/key-functions/ifc/stablecoin-issuers/Guideline_on_supervision_of_licensed_stablecoin_issuers_eng.pdf
+- HKMA · Explanatory Note on Licensing: https://www.hkma.gov.hk/media/eng/doc/key-functions/ifc/stablecoin-issuers/Explanatory_Notes_on_Licensing_of_Stablecoin_Issuers_eng.pdf
+- HKMA · 2025 Annual Report, International Financial Centre: https://www.hkma.gov.hk/media/eng/publication-and-research/annual-report/2025/16_International_Financial_Centre.pdf
+- BCBS · Minimum capital requirements for market risk: https://www.bis.org/bcbs/publ/d457.htm

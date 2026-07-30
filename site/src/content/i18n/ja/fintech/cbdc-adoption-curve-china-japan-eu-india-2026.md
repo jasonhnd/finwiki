@@ -1,87 +1,111 @@
 ---
 source: fintech/cbdc-adoption-curve-china-japan-eu-india-2026
-source_hash: f03932be10aa2beb
+source_hash: bb97b0a1de3734d1
 lang: ja
+model: manual-issue-239-provenance-repair
 status: machine
 fidelity: ok
-title: "CBDC 採用曲線 · 中国 e-CNY・インド eRupee・EU デジタルユーロ・日本 DCJPY"
-translated_at: 2026-06-02T13:21:55.099Z
+title: "CBDC プログラムの状況 2026 — 中国 e-CNY・インド eRupee・EU デジタルユーロ・日本の試験運用"
+translated_at: 2026-07-29T17:58:52.645Z
 ---
-# CBDC 採用曲線 · 中国 e-CNY・インド eRupee・EU デジタルユーロ・日本 DCJPY
+# CBDC プログラムの状況 2026 — 中国 e-CNY・インド eRupee・EU デジタルユーロ・日本の試験運用
+
+## TL;DR
+
+2026-07-30 時点で、4 法域を単一の「普及曲線」に載せるには注意が必要である。中国は e-CNY の試験運用を広域で継続し、PBoC は e-CNY を M0 統計に含める。インドはリテール / ホールセールの両試験運用を継続し、2026-04-29 更新の RBI FAQ はリテールウォレットを提供する 19 の銀行とホールセールの 16 の参加機関を明記する。ホールセールでは、国債流通市場取引の資金決済、コール市場の銀行間貸借決済、譲渡性預金証書のトークン化された発行 / 決済という 3 つの継続中ユースケースが示される。EU はデジタルユーロを未発行で、2027 H2 の管理されたベータ試験を準備中であり、発行判断は未了である。日本は BoJ の試験運用を継続しているが、DCJPY は民間銀行の預金トークンであり、日本の CBDC の本番展開ではない。
 
 ## ウィキ上の位置づけ
 
-このエントリは 2026  の配下にあり、[[fintech/INDEX|fintech index]]年半ば時点の採用スナップショットである。設計分類は 2026、ホールセール視点は [[fintech/cbdc-multi-tier-architecture-overview|CBDC 多层架构概览]] と [[fintech/mbridge-bis-multi-cbdc-overview|mBridge 多 CBDC 跨境结算桥]]、国別詳細は [[fintech/bis-project-agora-overview|BIS Project Agorá]]、[[fintech/ecny-supply-chain-expansion|e-CNY supply-chain expansion]]、[[fintech/erupee-india-pilot-status|eRupee pilot status]]、[[fintech/e-euro-retail-rollout|digital euro retail rollout]] を参照。
+この項目は、日付を伴うプログラム状況の比較として [[fintech/INDEX|フィンテック索引]] の配下にある。[[fintech/erupee-india-pilot-status|eRupee の試験状況]]、[[fintech/e-euro-retail-rollout|デジタルユーロの展開]]、[[fintech/jp-stablecoin-dcjpy|DCJPY]]、[[fintech/cbdc-multi-tier-architecture-overview|CBDC アーキテクチャ概要]] とあわせて読む。
 
-## 要約
+## 状況マトリクス
 
-[[fintech/jp-stablecoin-dcjpy|DCJPY / ディーカレット DCP]]年半ば時点で四法域は異なる採用曲線上にある。中国は CNY 2026 兆の大台と 1 以上の都市、インドはリテール実証とホールセール決済、EU は準備段階、日本は非 CBDC の DCJPY 経路である。これは技術ではなく政治的マンデートと流通チャネルの問題である。
+下表は [PBoC の公開説明](https://www.pbc.gov.cn/en/3688247/3688978/3732405/2025080817504463594/index.html)、[RBI FAQ](https://www.rbi.org.in/scripts/FAQView.aspx/upload/FAQView.aspx?Id=169)、[ECB デジタルユーロプロジェクト](https://www.ecb.europa.eu/euro/digital_euro/html/index.en.html)、[BoJ CBDC ページ](https://www.boj.or.jp/paym/digital/) に基づく 2026-07-30 時点の状況比較である。
 
-## 比較の意義
+| 法域 | 中央銀行プログラム | 公開状況 | 推定してはならないこと |
+|---|---|---|---|
+| 中国 | e-CNY | 試験プログラムを継続。e-CNY は中央銀行マネーで、M0 統計に算入 | ウォレット登録数や累積取引件数はアクティブ利用者数ではない |
+| インド | e₹-R / e₹-W | リテール試験は 19 のウォレット提供銀行、ホールセール試験は 16 の参加機関と 3 つの継続中ユースケース | UPI の取引量は e₹ の取引量ではない |
+| ユーロ圏 | デジタルユーロ | 技術準備段階。管理されたベータ試験を 2027 H2に予定。発行判断は未了 | 試験準備は発行ではない |
+| 日本 | BoJ のリテール CBDC 試験 | 技術実験と CBDC フォーラムを継続 | DCJPY / Progmat は BoJ の CBDC ではない |
 
-実際の 30年時点の姿は単一曲線ではない。インドは UPI 2026 、日本は民間預金トークン [[fintech/india-anti-dollar-dpi-alliance|India anti-dollar DPI alliance]]、地政学は [[fintech/jp-stablecoin-dcjpy|DCJPY]] と [[fintech/three-circles-stablecoin-mra-framework|三圆 MRA framework]]、B[[fintech/global-stablecoin-regulatory-five-pole-matrix|global stablecoin five-pole matrix]]B 決済面、極間比較は 2 と [[fintech/cbdc-multi-tier-architecture-three-paradigms|CBDC 三大现役范式]] に接続する。
+## 公開されている参加指標
 
-## Matrix A · 制度状態
+以下の表は [PBoC の説明](https://www.pbc.gov.cn/en/3688247/3688978/3732405/2025080817504463594/index.html)、[RBI FAQ](https://www.rbi.org.in/scripts/FAQView.aspx/upload/FAQView.aspx?Id=169)、[ECB のプロジェクト / 試験ページ](https://www.ecb.europa.eu/euro/digital_euro/html/index.en.html)、[BoJ CBDC ページ](https://www.boj.or.jp/paym/digital/) が明示する範囲に限定する。粒度の異なる値を無理に順位付けしない。
 
-中国は [[fintech/cbdc-multi-tier-architecture-tradeoffs|CBDC 架构选择 4 核心权衡]]-2026時点で PBoC Law 05、2020 都市、30経由。インドは RBI Act [[fintech/mbridge-bis-multi-cbdc-overview|mBridge]] を Finance Act 1934  で改正し、2022 都市、20-2022から G-sec 決済。EU は 11 -2023から 11, -Q2026以降も準備段階。日本は PoC Phase 4、B2B 商用利用 2-2024。中国研究は 08 、実証は 2014, 、日本は G2020で 7  と [[fintech/jp-stablecoin-dcjpy|DCJPY]] を参照。
+| プログラム | 公式に記載された指標 | 基準日 / 制約 |
+|---|---|---|
+| e-CNY | PBoC は RMB 13.61B の流通額を 2022 の年末時点で報告し、試験運用が拡大していると説明 | 過去時点の残高であり、現在のアクティブ利用者数ではない |
+| e₹ リテール | 現在 19 の銀行が CBDC ウォレットを提供 | RBI FAQ は 2026-04-29 更新、2026-07-30 確認 |
+| e₹ ホールセール | 16 の参加機関。国債流通市場決済、コールマネー決済、譲渡性預金証書のトークン化された発行 / 決済を含む 3 つの継続中ユースケース | RBI FAQ は 2026-04-29 更新、2026-07-30 確認 |
+| デジタルユーロ | リテール向けデジタルユーロは未発行。ベータ試験は管理されたベータ手段を使用 | ECB の現行プロジェクト / 試験ページ |
+| 日本の CBDC | 試験システムのテストとフォーラム活動。一般向けリテール発行はない | BoJ の 2026 試験進捗ページ |
 
-## Matrix B · 採用指標
+いずれの行も、比較可能な月間アクティブ利用者の系列を提供していない。以前の表は累積ウォレット登録数、取引額、都市数、民間トークン活動を混在させ、示唆される順位を不適切なものにしていた。
 
-中国は CNY [[fintech/jp-stablecoin-progmat|Progmat]]兆超、1 -2024会見、2025M 超ウォレット、180都市、30省、6経由、Brazil BCB は [[fintech/mbridge-bis-multi-cbdc-overview|mBridge]]H2026 。インドは INR 2B 超、10-2024年報、2025M 超ユーザー、5報道、2024 銀行、17 都市、全 20フェーズ。EU は 4 、0ウォレット。日本は 0 -2024商用量。
+## アーキテクチャと流通
 
-## Matrix C · アーキテクチャ
+下表は [RBI FAQ](https://www.rbi.org.in/scripts/FAQView.aspx/upload/FAQView.aspx?Id=169)、[ECB プロジェクトページ](https://www.ecb.europa.eu/euro/digital_euro/html/index.en.html)、[BoJ 試験資料](https://www.boj.or.jp/paym/digital/)、PBoC の公開説明から確認できる大枠のアーキテクチャを示す。
 
-中国は PBoC から 08 指定運営機関、10 参照、[[fintech/cbdc-multi-tier-architecture-three-paradigms|three paradigms]]運営機関、10 国有銀行、6 通信・ネット企業、4 から実証。インドは 2023 銀行と 17 決済アプリ、4 からプログラマブル用途。保有限度は中国が ¥2023 K / ¥10K、EU が €50-3,000で 4,000 を参照、日本は ¥[[fintech/e-euro-retail-rollout|e-euro retail rollout]]M 預金保険である。
+| プログラム | 債務 / 発行者 | 流通状況 | 既存決済網との関係 |
+|---|---|---|---|
+| e-CNY | PBoC の中央銀行マネー | 認可事業者を通じた試験流通 | 銀行およびモバイル決済網と併存 |
+| e₹ | RBI の中央銀行マネー | リテール試験は 19 の銀行ウォレット提供者と参加ノンバンクを通じて実施。ホールセール試験は 16 の参加機関 | リテールウォレットは UPI QR を読み取り可能。その決済時期は UPI に従う |
+| デジタルユーロ | 発行されれば Eurosystem の中央銀行マネー | 監督対象 PSP を通じた流通を提案 | 欧州の決済エコシステムとの統合を目指す設計 |
+| 日本の試験運用 | 発行されれば BoJ の中央銀行マネー | 実験段階のみ | フォーラムで民間決済サービスとの併存を試験 |
 
-## Matrix E / F · チャネルと政治
+## 上限、付利、プログラマビリティ
 
-中国は 10国有銀行 UI、6  live。インドは [[fintech/mbridge-bis-multi-cbdc-overview|mBridge]]参加銀行、17 から UPI QR、2023 都市。日本は B20B、Money 2/20Asia。中国は 20 運営機関、デジタル決済の 10 と競合。日本は Digital Currency Forum 95%参加者、G100中央銀行として 7 を参照。
+以下の表は決定済み事項と検討中事項を分ける。[RBI FAQ](https://www.rbi.org.in/scripts/FAQView.aspx/upload/FAQView.aspx?Id=169) と [ECB 進捗ページ](https://www.ecb.europa.eu/euro/digital_euro/progress/html/index.en.html) を直接参照する。
 
-## 採用曲線と履歴
+| プログラム | 公開資料で裏付けられる記述 |
+|---|---|
+| e-CNY | ウォレット / KYC の階層が存在。現在の上限は、恒久値として転記せず、公式事業者の規則で確認する必要がある |
+| e₹ | リテール残高は無利息。プログラム可能機能とオフライン機能を試験中。ホールセールには、譲渡性預金証書のトークン化された発行 / 決済を含む 3 つの継続中ユースケースがある。RBI FAQ は一律の厳格な保有上限を記載していない |
+| デジタルユーロ | 無利息となる予定。保有上限の算定方法を開発中で、最終的なユーロ金額は採択されていない |
+| 日本の試験運用 | 設計上の選択肢は評価中。発行済み残高もリテール上限も存在しない |
 
-採用曲線は [[fintech/japan-stablecoin-regulatory-landscape|日本 SC 法制度三層構造]]-2026の模式図で、DCJPY は B05B のみ。履歴は 2研究開始、2014        二層型論点、2017        -2020実証、04     都市、4 -2020BoJ、Phase 10     、1
--2022拡大 04     都市、23 -2022RBI wholesale、11     -2022retail 12     都市、4 -2023ECB、10     -2023開始、11
--2024Ensemble、03     -2024Agorá、04     G7 中銀 + 10 銀行、40-2024DCJPY、08     -2024mBridge 移管、10     -2025EU trilogue、06     -2025mBridge 商用、09     -Q2026インド相互運用、1     -Q2026DREX、2     -2026FSA sandbox、04     HKMA license。
+## プログラムの成熟度
 
-## 民間レールとの競争
+下表は「調査 / 試験運用 / 発行済み」の語を統一して比較する。資料は [ECB](https://www.ecb.europa.eu/euro/digital_euro/html/index.en.html)、[RBI](https://www.rbi.org.in/scripts/FAQView.aspx/upload/FAQView.aspx?Id=169)、[BoJ](https://www.boj.or.jp/paym/digital/)、PBoC の公開説明である。
 
-主要な競合は USD2026-05-21の民間ステーブルコイン 2023,  / 2024、トークン化商業銀行預金 2026 、HKMA first batch 10  と 1 、Project Agorá の [[fintech/global-stablecoin-regulatory-five-pole-matrix|global stablecoin five-pole matrix]]G[[fintech/three-circles-stablecoin-mra-framework|三圆 MRA framework]]中央銀行 + [[fintech/jp-stablecoin-dcjpy|DCJPY]]銀行である。
+| プログラム | 調査 / 試験 | 限定的な実利用 | 広範な本番利用 |
+|---|---|---|---|
+| e-CNY | あり | 継続中の試験運用を通じてあり | 確認資料から全国一律の普及を主張しない |
+| e₹ リテール / ホールセール | あり | 現行 RBI FAQ に記載された 19 のリテールウォレット提供銀行、16 のホールセール参加機関、3 つの継続中ホールセールユースケースに限定してあり | なし |
+| デジタルユーロ | あり | 管理されたベータ試験を予定。まだ稼働していない | なし |
+| 日本の CBDC | 試験システムあり | 一般向けリテール発行なし | なし |
 
-## 関連
+有用な比較は「どの国が勝ったか」ではなく、どの証拠が調査環境、限定的な試験運用、または一般提供される通貨商品に属するかである。
 
-- 2026-05-21
-- [[fintech/hkma-stablecoin-licensing-overview|HKMA SC licensing overview]]
-- 7
-- 10
-- 40
-- [[INDEX|Wiki Index]]
-- [[fintech/INDEX|Fintech Index]]
-- [[fintech/cbdc-multi-tier-architecture-overview|CBDC 多层架构概览]]
-- [[fintech/cbdc-multi-tier-architecture-three-paradigms|CBDC 三大现役范式]]
-- [[fintech/cbdc-multi-tier-architecture-tradeoffs|CBDC 架构选择 4 核心权衡]]
-- [[fintech/mbridge-bis-multi-cbdc-overview|mBridge BIS 多 CBDC 跨境结算桥]]
-- [[fintech/bis-project-agora-overview|BIS Project Agorá]]
-- [[fintech/bis-project-agora-vs-mbridge|Agorá vs mBridge]]
-- [[fintech/bis-project-ensemble-overview|HKMA Project Ensemble]]
-- [[fintech/bis-project-guardian-overview|MAS Project Guardian]]
-- [[fintech/india-anti-dollar-dpi-alliance|印度反美元 DPI 联盟]]
-- [[fintech/jp-stablecoin-dcjpy|DCJPY / ディーカレット DCP]]
-- [[fintech/japan-stablecoin-regulatory-landscape|日本 SC 法制度三層構造]]
-- [[fintech/hkma-stablecoin-licensing-overview|HKMA Stablecoin Licensing Overview]]
+## DCJPY は別の民間マネー経路
 
-## 出典
+DCJPY はトークン化された銀行預金のプラットフォームである。流通や DvP の議論には参考となるが、Bank of Japan が発行したかのように CBDC の普及指標へ算入してはならない。事業体、プロジェクト、証拠の境界は [[fintech/jp-stablecoin-dcjpy|DCJPY]] を参照。
 
-- PBoC [[fintech/global-stablecoin-regulatory-five-pole-matrix|global stablecoin five-pole matrix]]/[[fintech/central-banking-function-unbundling|央行职能解体五层]]、作業文書 [[fintech/ecny-supply-chain-expansion|e-CNY supply-chain expansion]] / [[fintech/erupee-india-pilot-status|eRupee India pilot status]]-[[fintech/e-euro-retail-rollout|digital euro retail rollout]]。
-- RBI 概念文書 3688110 ID 3688172、プレスリリース 2021 -2023、2024-2022、1218
-年報。
-- ECB 2022-11, 、2022 / 12, 、EU 規則案 2024 。
-- BOJ Phase 2023/11 、DeCurret 2024 -2025 、2023、1。
-- BIS WP 2 「The next-generation monetary system — a blueprint」（2024 series）。
+## 読み方の原則
 
-## 参照順
+1. ウォレット、残高、取引の各指標に日付と資料を付す。
+2. 登録数をアクティブ利用者数と同一視しない。
+3. UPI / Pix / CoDi の決済網取引量を CBDC 取引量と混同しない。
+4. 管理されたベータトークンと発行済み法定通貨を分ける。
+5. 商業銀行の預金トークンと民間ステーブルコインを、政府発行 CBDC の普及数に含めない。
 
-- 08
-- 2026-04-03
-- 2026-04-24
-- 1116
-- 2024
+## 関連項目
+
+- [[fintech/INDEX|フィンテック索引]]
+- [[fintech/cbdc-multi-tier-architecture-overview|CBDC 多層アーキテクチャ概要]]
+- [[fintech/erupee-india-pilot-status|インド eRupee の試験状況]]
+- [[fintech/e-euro-retail-rollout|デジタルユーロのリテール展開]]
+- [[fintech/jp-stablecoin-dcjpy|DCJPY]]
+- [[fintech/mbridge-bis-multi-cbdc-overview|mBridge]]
+- [[fintech/bis-project-agora-overview|Project Agorá]]
+
+## Sources
+
+- PBoC — 2022 financial-statistics briefing / e-CNY in M0: https://www.pbc.gov.cn/en/3688247/3688978/3732405/2025080817504463594/index.html
+- RBI — Digital Rupee FAQ (updated 2026-04-29): https://www.rbi.org.in/scripts/FAQView.aspx/upload/FAQView.aspx?Id=169
+- RBI — Annual Report 2024-25: https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=1436
+- ECB — Digital euro project: https://www.ecb.europa.eu/euro/digital_euro/html/index.en.html
+- ECB — Progress: https://www.ecb.europa.eu/euro/digital_euro/progress/html/index.en.html
+- ECB — Pilot: https://www.ecb.europa.eu/euro/digital_euro/pilot/html/index.en.html
+- Bank of Japan — CBDC: https://www.boj.or.jp/paym/digital/

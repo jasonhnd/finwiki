@@ -1,96 +1,84 @@
 ---
 source: fintech/multi-megabank-consortium-governance
-source_hash: c84c96ff0fe92057
+source_hash: 37f39084a648bb79
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "複数メガバンク型コンソーシアム・ガバナンス"
-translated_at: 2026-06-26T08:29:33.008Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
-# 複数メガバンク型コンソーシアム・ガバナンス
+# 複数メガバンク・コンソーシアムのガバナンス
 
 
 ## ウィキ上の位置づけ
 
-この項目は [[fintech/INDEX|fintech index]] の配下にあります。隣接する文脈は [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]]、より広いシステム境界は [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] とあわせて読んでください。
+この項目は [[fintech/INDEX|fintech index]] の配下に位置づけられる。隣接する文脈は [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]]、より広いシステム境界は [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] とあわせて読む。
 
 > [!info] 要約
-> フィンテック・インフラを「単一銀行」「複数銀行 JV」「独立企業 + 銀行少数持株」の **3 つのガバナンス・モデル** で比較すると、**Progmat 型(独立企業 + 非支配持分設計)が最も拡張性が高い**。JPMorgan Kinexys は単一銀行型、BIS Project Agorá は中央銀行コンソーシアム型、Progmat は独立企業型 —— 各々が要求する規制環境と意思決定速度のトレードオフが異なる。
+> 公開資料から確認できる Progmat の事実は、2023-10-02 に設立された独立法人で、三菱 UFJ 信託銀行の 49.0% を筆頭に、IT、銀行、取引所関連の 8 社が出資したことである。これは複数主体の所有構造を示すが、意思決定速度、金融庁の「非支配」指導、顧客基盤、拡張性首位を証明しない。BIS Project Agorá は会社の共同所有モデルではなく、BIS / IIF が招集する中央銀行・民間金融機関の官民プロジェクトであり、2026 年にプロトタイプ報告書を公表した。両者はガバナンスの比較材料にはなるが、同じ法人類型や競争関係ではない。^[source:Progmat corporate release 2023-10-02; BIS Project Agorá project page and report 2026-05-27]
 
-## 3 つの治理モデル
+## 公開記録で確認できる形態
 
-| モデル | 代表事例 | 所有構造 | 意思決定速度 | 規制要件 | 拡張性 |
-|---|---|---|---|---|---|
-| **単一銀行所有** | JPM Kinexys / GS DAP | 銀行 100% 子会社 | 高速 | 銀行規制内 | 低(銀行 brand 縛り) |
-| **複数銀行 JV** | DTCC / 旧 SWIFT 構造 | 銀行間平等出資 | 低速(全員合意) | 銀行協調規制 | 中 |
-| **独立企業 + non-controlling** | **Progmat / NTT Data 共同** | 独立法人 · 銀行少数持株 | 中速 | 独立 fintech 規制 | **高** |
+| ケース | 法的・組織的形態 | 公開資料で確認できる参加構造 | この資料だけでは判定できないこと |
+|---|---|---|---|
+| Progmat | 2023-10-02 設立の株式会社 | 8 株主。三菱 UFJ 信託銀行 49.0%、NTT データ 13.5%、その他 6 社 | 意思決定速度、実質支配、FSA の設計意図、他モデルより高い拡張性 |
+| BIS Project Agorá | BIS / IIF による官民プロジェクト。完成品ではなくプロトタイプ | BIS の 2026 年プロジェクトページは 8 中央銀行と 40 超の金融機関を記載 | 株式所有、恒久的法人、商用開始、各参加者の退出制約 |
 
-## Progmat 構造の精緻設計
+出典注記：Progmat の事実は [2023-10-02 の会社リリース](https://progmat.co.jp/press/pdf/press231002_01.pdf) に基づく。Agorá の事実は、現行の [BIS プロジェクトページ](https://www.bis.org/about/bisih/topics/fmis/agora.htm) と [2026 年プロトタイプ報告書](https://www.bis.org/publ/othp110.pdf) に基づく。
 
-**MUTB 49% stake 設計の核心意図**:
+## Progmat 設立時の株主構成
 
-```
-MUTB([[megabanks/mufg|三菱 UFJ 信託銀行]])     49.0%   ← 単独最大株主だが過半数 NG
-SMBC グループ ([[megabanks/smfg|SMFG]])      ~15%   ← 重要 partner
-Mizuho 信託銀行           ~15%   ← 重要 partner
-NTT Data                  ~10%   ← 技術 partner
-JPX                       ~5%    ← 取引所 partner
-Datachain                 ~3%    ← 技術 partner
-他                          ~3%
-```
+| 株主 | 2023-10-02 公表出資比率 |
+|---|---:|
+| [[megabanks/mufg|三菱 UFJ 信託銀行]] | 49.0% |
+| NTT データ | 13.5% |
+| みずほ信託銀行 | 7.5% |
+| 三井住友信託銀行 | 7.5% |
+| [[megabanks/smfg|三井住友 FG]] | 7.5% |
+| SBI PTS | 5.0% |
+| JPX 総研 | 5.0% |
+| Datachain | 5.0% |
 
-**設計原則**:
-- **49% は意図的**(FSA の指導):**MUFG が支配的にならない non-MUFG-controlled** 設計
-- **三大行が同等格**(MUTB 49% を除けば実質的に対等)→ 中立性確保
-- **NTT Data / JPX が技術 / 取引所側**から参加 → 銀行以外の正当性
+出典注記：会社名と比率は、Progmat の [新経営体制・情報開示リリース](https://progmat.co.jp/press/pdf/press231002_01.pdf) から正確に転記した。これは設立日に公表された株主構成であり、後日の一次資料が公表された場合は現行の所有関係を再確認する必要がある。
 
-**これにより**:
-- SMBC / Mizuho は MUFG 子会社では使えないが、independent 法人なら使える
-- FSA は MUFG だけのプロジェクトと見做さず、業界共通インフラとして承認
-- 共通 SC(JPYW)を作る場合も MUFG 単独提案では難しいが、Progmat 経由なら可能
+## 所有構造から推定してはいけないこと
 
-## 多巨行型ガバナンス成立の条件
-
-| 条件 | 内容 | Progmat の達成度 |
-|---|---|---|
-| **中立的 chairperson / CEO** | どの銀行にも偏らない人物 | 齊藤達哉(三菱 UFJ 出身だが独立 CEO 兼務)|
-| **過半数閾値超え NG** | 単独銀行が過半数を持たない | MUTB 49% で達成 |
-| **政府 / 規制側の祝福** | 中央銀行 / 監督当局が業界共通と認定 | FSA PIP 主導 |
-| **技術 partner 中立性** | 銀行以外の技術 partner が中立的 | NTT Data + Datachain |
-| **競合銀行が gain** | 三大行が同時に benefit | 客户基盤 30 万社共通アクセス |
-| **退出オプション** | 各銀行が自社路線も併走可能 | SMBC は SBI / Mizuho は Solana 併走 |
+- 49.0% が過半数未満であることだけでは、会計・会社法・契約上の「支配」を確定できない。
+- 公開資料には「49% は FSA の指導で意図的に設定した」との裏付けがない。
+- 株主構成は、FSA が特定 stablecoin や共通インフラを承認したことを意味しない。
+- DCC 会員数、顧客数、取引量、競合銀行の便益、退出オプションは、それぞれ別の資料で確認する必要がある。
+- 「単一銀行所有」「銀行間 JV」「独立会社」の速度や拡張性を順位付けするには、共通指標と観測期間が必要である。
 
 ## BIS Project Agorá との対比
 
 | 軸 | Progmat | BIS Project Agorá |
 |---|---|---|
-| 主導 | 民間(信託銀行協調)| 国際(BIS + 7 央行)|
-| 規制 | FSA 監督 + 信託法 | BIS 協調 + 各国央行法 |
-| 決済 asset | 信託型 SC | wholesale CBDC + TD |
-| Decision speed | 株主間契約ベース(中速)| 7 央行合意(低速)|
-| Geographic scope | 日本国内中心 → 拡大検討中 | グローバル設計だが pilot 中 |
-| Exit option | 株主としての売却可能 | 国家 commitment 解除不可 |
+| 組織 | 日本の株式会社 | BIS / IIF が招集する官民プロジェクト |
+| 参加の形 | 株主 8 社（設立時公表） | BIS ページ：8 中央銀行と 40 超の金融機関 |
+| 公開された対象 | デジタルアセット発行・管理基盤の会社 | トークン化中央銀行準備とトークン化商業銀行預金を使うホールセール越境プロトタイプ |
+| 2026-07 時点の出力 | 継続企業。個別プロダクトの状況は別途確認 | 2026-05-27 報告書 / プロトタイプ。BIS は完成品ではないと明記 |
+| 比較上の限界 | 株式会社の株主構成と商品ガバナンスは別 | プロジェクト参加は株式所有ではない |
 
-**含義**:[[fintech/bis-project-agora-overview|Agorá]] は **公的 commitment と規制統合が強い** が **速度が遅い**。[[payment-firms/progmat|Progmat]] は **速度と柔軟性が高い** が **国際的正統性が Agorá より弱い**。両者は補完的:Agorá が国際骨格を作り、Progmat が国別実装を担う構造が長期的に成立する可能性。
+出典注記：Progmat の形態と設立時の株主構成は [会社リリース](https://progmat.co.jp/press/pdf/press231002_01.pdf)、Agorá の参加者数、資産モデル、プロトタイプという境界は [BIS の現行プロジェクトページ](https://www.bis.org/about/bisih/topics/fmis/agora.htm) に基づく。
 
 ## 共通リスク
 
-| リスク | 内容 |
-|---|---|
-| **戦略不一致** | 加盟銀行が独自路線(SMBC × SBI など)で離反する可能性 |
-| **意思決定遅延** | 全員合意要件で重要決定が timing を逃す |
-| **覇権争い** | MUTB が 49% → 実質支配で他行が骨抜きにする可能性 |
-| **新参加銀行の交渉力低下** | 後発加盟銀行は既存 49% 設計を変更できない |
-| **海外連携の正当性** | 各銀行の海外子会社が個別に Kinexys 等と提携 → 一貫性崩れ |
+以下は発生済み事実ではなく、複数主体ガバナンスを調査する際の分析チェックリストである。
+
+- **意思決定権**：株式比率だけでなく、取締役指名権、拒否権、重要な留保事項を確認する。
+- **経済的利益**：配当、利用料、IP、データ、商品別収益の帰属を確認する。
+- **参加と退出**：株式譲渡制限、プロジェクト参加、サービス契約の終了条件を分ける。
+- **規制責任**：プラットフォーム会社、発行者、受託者、流通業者、参加者の責任を分ける。
+- **実績**：開始、取引量、利用可能性、遅延、コスト等の成果をガバナンス形態から推定しない。
 
 ## 応用
 
-- 任何 "複数 megabank 共通 fintech インフラ" 議論の構造分析
-- 韓国 / 台湾 / アジア他国の SC コンソーシアム設計参考
-- mBridge / Project Nexus / IPS-RTGS 相互接続の ガバナンス比較
-- DTCC / Visa / Mastercard 等既存「業界共通インフラ」の進化系として
-- 中央銀行コンソーシアム + 民間 SC コンソーシアムの 2 層構造設計
+- あらゆる「複数メガバンク共通フィンテック・インフラ」議論の構造分析
+- 韓国 / 台湾 / アジア諸国の SC コンソーシアム設計の参考
+- mBridge / Project Nexus / IPS-RTGS 相互接続のガバナンス比較
+- DTCC / Visa / Mastercard 等、既存の「業界共通インフラ」の発展形
+- 中央銀行コンソーシアム + 民間 SC コンソーシアムの二層構造設計
 
 ---
 
@@ -98,9 +86,9 @@ Datachain                 ~3%    ← 技術 partner
 ## 関連項目
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/jp-trust-type-sc-architecture|日本信託型 SC 架構]]
-- [[fintech/cross-border-sc-via-swift-api|跨境 SC via SWIFT API]]
+- [[fintech/jp-trust-type-sc-architecture|日本信託型 SC アーキテクチャ]]
+- [[fintech/cross-border-sc-via-swift-api|SWIFT API を介した越境 SC]]
 - [[fintech/cosmos-ibc-for-financial-institutions|Cosmos IBC for FI]]
 - [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度三層構造]]
-- [[fintech/central-banking-function-unbundling|央行职能解体五层]]
+- [[fintech/central-banking-function-unbundling|中央銀行機能のアンバンドリング 5 層]]
 <!-- /wiki-links:managed -->
