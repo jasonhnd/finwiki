@@ -26,8 +26,8 @@
     "domain": "fintech",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-11-25",
     "confidence": "likely",
     "tags": [
@@ -46,12 +46,16 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.pbc.gov.cn/en/3688110/3688172/index.html",
-      "https://www.hkma.gov.hk/eng/news-and-media/press-releases/",
-      "https://www.bis.org/publ/othp59.htm",
-      "https://www.bis.org/about/bisih/topics/cbdc.htm",
-      "https://www.bot.or.th/en/news-and-media/news/",
-      "https://www.centralbank.ae/en/news/"
+      "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2024/05/20240517-4/",
+      "https://www.hkma.gov.hk/media/eng/doc/key-information/press-release/2024/20240517e3a2.pdf",
+      "https://www.bis.org/about/bisih/topics/cbdc/mcbdc_bridge.htm",
+      "https://www.pbc.gov.cn/xindaishichangsi/5443861/5443865/5443892/5957f8d15a824e9e88d01710873482d3/2025110711361912922.pdf",
+      "https://www.hkma.gov.hk/media/eng/doc/about-the-hkma/legislative-council-issues/20260504e2.pdf",
+      "https://www.hkma.gov.hk/eng/regulatory-resources/registers/register-of-licensed-stablecoin-issuers/",
+      "https://www.about.hsbc.com.hk/news-and-media/hsbc-welcomes-hkmas-grant-of-a-hong-kong-stablecoin-issuer-licence",
+      "https://www.sc.com/en/press-release/standard-chartered-backed-anchorpoint-granted-stablecoin-issuer-licence-by-the-hong-kong-monetary-authority/",
+      "https://www.pbc.gov.cn/en/3688110/3688172/4157443/4293696/2021071614584691871.pdf",
+      "https://www.bis.org/about/bisih/topics/fmis/agora.htm"
     ]
   },
   "summary": "This entry sits under fintech index as the per-country deep dive on China's e-CNY for the 2025-2026 cross-border expansion phase. It is paired with CBDC adoption curve 2026 for the four-country comparative view, with mBridge BIS 多 CBDC 跨境结算桥 for the wholesale-bridge architecture, and with HKMA stabl",
@@ -68,7 +72,7 @@
     "Origin and evolution"
   ],
   "body_links": {
-    "wikilinks_count": 18,
+    "wikilinks_count": 17,
     "wikilinks": [
       "INDEX",
       "fintech/INDEX",
@@ -86,8 +90,7 @@
       "fintech/mbridge-bis-multi-cbdc-overview",
       "fintech/mbridge-bis-multi-cbdc-vs-agora",
       "fintech/mbridge-non-usd-settlement-ring-scale",
-      "fintech/mbridge-six-central-banks-roster",
-      "fintech/sovereign-capital-pool-aramco-anchor"
+      "fintech/mbridge-six-central-banks-roster"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX.md",
@@ -106,16 +109,26 @@
       "https://finwiki.zksc.io/ja/fintech/mbridge-bis-multi-cbdc-overview/",
       "https://finwiki.zksc.io/ja/fintech/mbridge-bis-multi-cbdc-vs-agora/",
       "https://finwiki.zksc.io/ja/fintech/mbridge-non-usd-settlement-ring-scale/",
-      "https://finwiki.zksc.io/ja/fintech/mbridge-six-central-banks-roster/",
-      "https://finwiki.zksc.io/ja/fintech/sovereign-capital-pool-aramco-anchor/"
+      "https://finwiki.zksc.io/ja/fintech/mbridge-six-central-banks-roster/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 10,
+    "external_links": [
+      "https://www.about.hsbc.com.hk/news-and-media/hsbc-welcomes-hkmas-grant-of-a-hong-kong-stablecoin-issuer-licence",
+      "https://www.bis.org/about/bisih/topics/cbdc/mcbdc_bridge.htm",
+      "https://www.bis.org/about/bisih/topics/fmis/agora.htm",
+      "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2024/05/20240517-4/",
+      "https://www.hkma.gov.hk/eng/regulatory-resources/registers/register-of-licensed-stablecoin-issuers/",
+      "https://www.hkma.gov.hk/media/eng/doc/about-the-hkma/legislative-council-issues/20260504e2.pdf",
+      "https://www.hkma.gov.hk/media/eng/doc/key-information/press-release/2024/20240517e3a2.pdf",
+      "https://www.pbc.gov.cn/en/3688110/3688172/4157443/4293696/2021071614584691871.pdf",
+      "https://www.pbc.gov.cn/xindaishichangsi/5443861/5443865/5443892/5957f8d15a824e9e88d01710873482d3/2025110711361912922.pdf",
+      "https://www.sc.com/en/press-release/standard-chartered-backed-anchorpoint-granted-stablecoin-issuer-licence-by-the-hong-kong-monetary-authority/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 15155,
-    "word_like_tokens": 2576,
-    "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-29"
+    "nonspace_chars": 18018,
+    "word_like_tokens": 3023,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-07-30"
   }
 }

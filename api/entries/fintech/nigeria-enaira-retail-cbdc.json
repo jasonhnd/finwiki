@@ -11,24 +11,23 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/nigeria-enaira-retail-cbdc.md",
   "raw_markdown_url": "https://finwiki.zksc.io/fintech/nigeria-enaira-retail-cbdc.md",
   "domain": "fintech",
-  "title": "Nigeria eNaira — lowest-adoption-rate retail CBDC, CBN distribution, cash-substitution policy collision",
+  "title": "Nigeria eNaira — retail CBDC design and first-year adoption evidence",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Nigeria eNaira — lowest-adoption-rate retail CBDC, CBN distribution, cash-substitution policy collision",
+    "title": "Nigeria eNaira — retail CBDC design and first-year adoption evidence",
     "aliases": [
       "nigeria-enaira-retail-cbdc",
       "eNaira",
       "eNaira CBDC",
       "CBN eNaira",
       "Nigeria retail CBDC",
-      "Nigeria digital currency",
       "eNaira adoption"
     ],
     "domain": "fintech",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-11-25",
     "confidence": "likely",
     "tags": [
@@ -39,77 +38,61 @@
       "enaira",
       "cbn",
       "africa",
-      "adoption-failure",
-      "cash-substitution",
-      "naira-redesign"
+      "adoption",
+      "financial-inclusion"
     ],
     "status": "active",
     "canonical_anchor": null,
     "related": [],
     "note": null,
     "sources": [
-      "https://www.cbn.gov.ng/",
-      "https://www.cbn.gov.ng/Out/2021/CCD/eNaira%20Design%20Paper.pdf",
-      "https://enaira.gov.ng/",
-      "https://www.imf.org/en/Publications/WP/Issues/2023/05/12/Nigerias-eNaira-One-Year-After-533487",
-      "https://www.bis.org/about/bisih/topics/cbdc.htm",
-      "https://www.bis.org/publ/work1116.htm"
+      "https://enaira.gov.ng/design-paper/",
+      "https://www.imf.org/en/publications/wp/issues/2023/05/16/nigerias-enaira-one-year-after-533487",
+      "https://www.imf.org/-/media/files/publications/wp/2023/english/wpiea2023104-print-pdf.pdf",
+      "https://www.imf.org/en/news/articles/2026/06/16/stablecoins-in-nigeria"
     ]
   },
-  "summary": "This entry sits under fintech index as the per-jurisdiction case study on the eNaira, the second live retail CBDC issued by any major emerging-market central bank (after the Bahamian Sand Dollar) and globally the most-studied adoption-failure case among live CBDC programmes. Read it against Bahamas",
+  "summary": "The Central Bank of Nigeria launched eNaira in October 2021 as Africa's first retail CBDC. The official design is account-based, two-tier and non-interest-bearing, with Hyperledger Fabric underneath. The strongest comparable adoption evidence remains the IMF's first-year study: about 860,000 retail",
   "headings": [
-    "Nigeria eNaira — lowest-adoption-rate retail CBDC, CBN distribution, cash-substitution policy collision",
+    "Nigeria eNaira — retail CBDC design and first-year adoption evidence",
+    "TL;DR",
     "Wiki route",
-    "Programme architecture",
-    "Matrix A · Statute, regulator, phase status",
-    "Matrix B · Design choices — tiered KYC, free distribution, low-friction-but-low-utility",
-    "Matrix C · Adoption metrics (most recent public)",
-    "Matrix D · The 2022-2023 Naira redesign collision",
-    "Matrix E · Distribution model and the unbanked",
-    "Matrix F · Comparison to peer retail CBDCs",
-    "Origin and evolution"
+    "Programme and architecture",
+    "Wallet tiers and published limits",
+    "First-year adoption evidence",
+    "Distribution and network effects",
+    "eNaira and private stablecoin flows",
+    "Comparison guardrails",
+    "Reading rules"
   ],
   "body_links": {
-    "wikilinks_count": 15,
+    "wikilinks_count": 5,
     "wikilinks": [
-      "INDEX",
       "fintech/INDEX",
       "fintech/bahamas-sand-dollar-cbdc",
-      "fintech/bahamas-sand-dollar-cbdc\\",
-      "fintech/bis-project-agora-overview",
       "fintech/cbdc-adoption-curve-china-japan-eu-india-2026",
       "fintech/cbdc-multi-tier-architecture-overview",
-      "fintech/cbdc-multi-tier-architecture-three-paradigms",
-      "fintech/cbdc-multi-tier-architecture-tradeoffs",
-      "fintech/e-euro-retail-rollout",
-      "fintech/em-market-crypto-dollarization-pattern",
-      "fintech/gray-market-dollar-network-formalization",
-      "fintech/jamaica-jam-dex-cbdc",
-      "fintech/jamaica-jam-dex-cbdc\\",
-      "fintech/mbridge-bis-multi-cbdc-overview"
+      "fintech/em-market-crypto-dollarization-pattern"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX.md",
       "https://finwiki.zksc.io/ja/domains/fintech/",
       "https://finwiki.zksc.io/ja/fintech/bahamas-sand-dollar-cbdc/",
-      "https://finwiki.zksc.io/ja/fintech/bis-project-agora-overview/",
       "https://finwiki.zksc.io/ja/fintech/cbdc-adoption-curve-china-japan-eu-india-2026/",
       "https://finwiki.zksc.io/ja/fintech/cbdc-multi-tier-architecture-overview/",
-      "https://finwiki.zksc.io/ja/fintech/cbdc-multi-tier-architecture-three-paradigms/",
-      "https://finwiki.zksc.io/ja/fintech/cbdc-multi-tier-architecture-tradeoffs/",
-      "https://finwiki.zksc.io/ja/fintech/e-euro-retail-rollout/",
-      "https://finwiki.zksc.io/ja/fintech/em-market-crypto-dollarization-pattern/",
-      "https://finwiki.zksc.io/ja/fintech/gray-market-dollar-network-formalization/",
-      "https://finwiki.zksc.io/ja/fintech/jamaica-jam-dex-cbdc/",
-      "https://finwiki.zksc.io/ja/fintech/mbridge-bis-multi-cbdc-overview/"
+      "https://finwiki.zksc.io/ja/fintech/em-market-crypto-dollarization-pattern/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 4,
+    "external_links": [
+      "https://enaira.gov.ng/design-paper/",
+      "https://www.imf.org/-/media/files/publications/wp/2023/english/wpiea2023104-print-pdf.pdf",
+      "https://www.imf.org/en/news/articles/2026/06/16/stablecoins-in-nigeria",
+      "https://www.imf.org/en/publications/wp/issues/2023/05/16/nigerias-enaira-one-year-after-533487"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 14335,
-    "word_like_tokens": 2394,
-    "inbound_wikilinks_count": 5,
-    "last_modified": "2026-05-29"
+    "nonspace_chars": 7140,
+    "word_like_tokens": 1183,
+    "inbound_wikilinks_count": 4,
+    "last_modified": "2026-07-30"
   }
 }

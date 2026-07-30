@@ -1,233 +1,167 @@
 ---
-title: Stablecoin Issuer 2025-2026 Market Consolidation · USDT/USDC 双寡占と 8 社の挑戦者梯団
-aliases: [stablecoin-issuer-2025-2026-market-consolidation, stablecoin-market-consolidation-2025, stablecoin-issuer-landscape-2026, sc-issuer-consolidation, stablecoin-second-tier-roster, sc-market-snapshot-2026]
+title: Stablecoin issuers 2025-2026 — evidence-led market map
+aliases: [stablecoin-issuer-2025-2026-market-consolidation, stablecoin-market-consolidation-2025, stablecoin-issuer-landscape-2026, sc-issuer-consolidation]
 domain: fintech
 created: 2026-05-25
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
-tags: [fintech, stablecoin, market-consolidation, usdt, usdc, pyusd, rlusd, usde, usdg, frxusd, usds, usd1, 2025-2026]
+tags: [fintech, stablecoin, market-structure, usdt, usdc, pyusd, rlusd, usde, usdg, frxusd, usds, usd1, 2025-2026]
 status: active
 sources:
-  - https://defillama.com/stablecoins
-  - https://tether.to/transparency
+  - https://tether.to/en/transparency/
+  - https://tether.to/en/legal/
   - https://www.circle.com/transparency
-  - https://www.paypal.com/us/digital-currency
-  - https://ripple.com/rlusd
-  - https://ethena.fi/
-  - https://globaldollar.com/
-  - https://frax.com/
+  - https://www.circle.com/legal/usdc-terms
+  - https://www.circle.com/legal/mica-usdc-whitepaper
+  - https://docs.paxos.com/guides/stablecoin/pyusd
+  - https://www.paxos.com/pyusd
+  - https://apps.occ.gov/CAS/home/details?FilingID=342828&FilingSubtypeID=1117&FilingTypeID=23
+  - https://docs.paxos.com/guides/stablecoin/usdg
+  - https://ripple.com/solutions/stablecoin/
+  - https://ripple.com/legal/stablecoin/
+  - https://www.firstdigitallabs.com/
+  - https://www.firstdigitallabs.com/legal
+  - https://www.firstdigitallabs.com/legal/fd121-account-user-agreement
+  - https://docs.ethena.fi/
   - https://sky.money/
-  - https://m0.org/
-  - https://www.worldlibertyfinancial.com/
-  - https://www.sec.gov/edgar
+  - https://docs.frax.finance/frax-v3-100-cr-and-more/frax-v3-overview
+  - https://www.worldlibertyfinancial.com/usd1
+  - https://www.bitgo.com/legal/bitgo-additional-terms/
+  - https://docs.worldlibertyfinancial.com/resources/faq
+  - https://www.congress.gov/bill/119th-congress/senate-bill/1582
 ---
 
-# Stablecoin Issuer 2025-2026 Market Consolidation · USDT/USDC 双寡占と 8 社の挑戦者梯団
+# Stablecoin issuers 2025-2026 — evidence-led market map
 
 ## TL;DR
 
-2025-2026 年の米ドルステーブルコイン市場は **「双寡占 + 梯団挑戦者」** 構造へ移行する。Tether USDT $145B + Circle USDC $60B が流通量の ~85% を占有するが、2024-2026 年に**実質的な成長能力を有する**挑戦者が 8 社（PYUSD / RLUSD / FDUSD / USDe / USDG / frxUSD / USDS / USD1）+ **中立インフラ** 1 社（M^0）出現。**真のセクター分化**：USDT がグレーゾーンに留まり · USDC がホワイトゾーンへ · PYUSD/RLUSD がリテールコンプライアンスを獲得 · FDUSD が Binance に紐づき · USDe が delta-neutral アービトラージで yield-bearing を実現 · USDS（旧 DAI）が RWA 収益分配へ · USD1 が政治ブランドで · USDG が Paxos マルチ発行体連合として戦う。**準備資産品質競争**が GENIUS Act 以降のコアバリアブルとなる —— 準備金が GENIUS §501 ホワイトリストに入る issuer は機関配信を継続でき、入れない issuer はグレーゾーンに押し戻されるか撤退となる。
+Stablecoin market structure must be measured from a dated supply dataset and then explained with issuer-level primary sources. The earlier version of this page mixed an undated market-cap ranking, legal labels, reserve claims, geographic narratives and forecasts, including values dated in the future relative to their sources. This revision keeps the qualitative issuer map but removes unverified 2026 market caps, fixed concentration ratios, invented distributor revenue splits and unsupported regional “dominance” claims. It also distinguishes payment stablecoins from synthetic / yield-bearing products and infrastructure providers.
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501 denylist]] for the post-2025 regulatory boundary that gated this consolidation, with [[fintech/global-stablecoin-regulatory-five-pole-matrix|stablecoin five-pole regulatory matrix]] for the cross-jurisdictional context, and with [[fintech/three-circles-stablecoin-mra-framework|three-circles SC MRA framework]] for how GENIUS / MiCA / HKMA / MAS / JP EPI 相互認証パズルが梯団境界を固化させているか。
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/global-stablecoin-regulatory-five-pole-matrix|five-pole regulatory matrix]], [[fintech/issuer-distributor-incentive-realignment-50-50-model|issuer / distributor economics]], and [[fintech/m0-network-infrastructure-update-2026|M0 infrastructure]].
 
-## Market structure snapshot (2026-05)
+## Product and issuer map
 
-| Issuer | Token | MCap | Status | Reserve mix | Distribution lock |
-|---|---|---|---|---|---|
-| Tether | USDT | $145B | Gray-circle dominant | UST + BTC + Gold | Global gray markets, EM dollarization |
-| Circle | USDC | $60B | White-circle dominant | UST + BNY Mellon cash | Coinbase + Binance + CEX |
-| Ethena | USDe + sUSDe | $5.2B | Yield-bearing native | ETH delta-neutral + UST | DeFi / perp delta hedge |
-| Sky (ex-MakerDAO) | USDS + DAI | $7.8B (combined) | RWA-backed restructure | BUIDL + UST + private credit | DAI legacy + USDS migration |
-| PayPal | PYUSD | $1B+ | Retail-payment branded | UST + cash | PayPal / Venmo wallet |
-| Ripple | RLUSD | $700M+ | Compliance-first bank-grade | UST + cash | RippleNet + ODL corridors |
-| First Digital | FDUSD | $3B | HK-licensed candidate | UST + cash + MMF | Binance BTC pair |
-| Frax | frxUSD | $1B+ | DeFi yield-distribution | BUIDL + sFRAX + UST | DeFi protocols + Fraxtal L2 |
-| Global Dollar | USDG | $250M+ | Multi-issuer alliance | UST + cash via Paxos | Paxos + Robinhood + Kraken + Anchorage |
-| World Liberty Financial | USD1 | $2.1B+ | Political-brand | UST + cash via BitGo | BNB Chain / Tron tracking USDT |
-| M^0 | (infra) | $300M+ managed | Neutral infrastructure | BUIDL + UST + cash | 8+ issuers white-label |
+下表は各 issuer / protocol の current official terms、product、transparency page を基準にする（2026-07-30 確認）。「issuer」は文書・法域・役割ごとに記録し、ブランド、発行主体、準備資産の保有・管理主体、distribution service を同一法人として扱わない。流通量 ranking は同一時点の chain-level dataset が必要なため掲載しない。
 
-Source: DefiLlama stablecoin dashboard + issuer official transparency pages, snapshot 2026-05-15.
+| Product | Documented issuer / operating role (scope and document date) | Product form | Primary verification surface |
+|---|---|---|---|
+| USDT | Tether International, S.A. de C.V., an El Salvador company, is the counterparty that issues and redeems Tether Tokens under Token Terms updated 2026-02-26 | Fiat-backed stablecoin | [Tether Token Terms](https://tether.to/en/legal/) and [transparency](https://tether.to/en/transparency/) |
+| USDC / EURC | Outside the EEA, USDC terms updated 2025-12-12 name Circle Internet Financial, LLC (Delaware) as issuer; in the EEA, Circle Internet Financial Europe SAS (France, EMI) is the USDC co-issuer and EURC issuer | Fiat-backed stablecoins | [USDC Terms](https://www.circle.com/legal/usdc-terms), [MiCA USDC white paper](https://www.circle.com/legal/mica-usdc-whitepaper), and [transparency](https://www.circle.com/transparency) |
+| PYUSD | Paxos Trust Company, N.A. is the current issuer; the OCC conversion record was approved and effective 2025-12-12, and the current product page states OCC oversight | Fiat-backed payment stablecoin | [Paxos PYUSD page](https://www.paxos.com/pyusd) and [OCC record](https://apps.occ.gov/CAS/home/details?FilingID=342828&FilingSubtypeID=1117&FilingTypeID=23) |
+| USDG | Paxos Digital Singapore Pte. Ltd., a MAS-supervised Major Payment Institution, is the Singapore issuer identified in current Paxos documents | MAS-supervised single-currency stablecoin | [Paxos USDG docs](https://docs.paxos.com/guides/stablecoin/usdg) |
+| RLUSD | U.S. user terms updated 2024-10-03 name Standard Custody & Trust Company, LLC (New York limited-purpose trust) as issuer; other jurisdictions require their own Ripple-subsidiary terms | Fiat-backed stablecoin | [RLUSD User Terms](https://ripple.com/legal/stablecoin/) and [product documentation](https://ripple.com/solutions/stablecoin/) |
+| FDUSD | FD121 (BVI) Limited is the issuer / account counterparty under terms effective 2025-08-01; First Digital Trust Limited is the reserve custodian; “First Digital Labs” is the brand, not the issuer entity | Fiat-backed stablecoin | [FD121 Account User Agreement](https://www.firstdigitallabs.com/legal/fd121-account-user-agreement) and [legal disclosures](https://www.firstdigitallabs.com/legal) |
+| USDe / sUSDe | Ethena protocol contracts and stated custodial / hedging structure | Synthetic-dollar / staked-reward products | [Ethena docs](https://docs.ethena.fi/) |
+| USDS / sUSDS | Sky protocol | Decentralized stablecoin / savings wrapper | [Sky](https://sky.money/) |
+| frxUSD / sfrxUSD | Frax protocol | Stablecoin / staked wrapper | [Frax docs](https://docs.frax.finance/frax-v3-100-cr-and-more/frax-v3-overview) |
+| USD1 | BitGo Additional Terms updated 2026-03-25 name BitGo Bank & Trust, N.A. as issuer; WLF materials say BitGo Trust Company, Inc. and/or BitGo Technologies LLC hold or maintain reserve assets, while World Liberty Financial entities own the brand and provide certain services | Fiat-backed stablecoin | [BitGo Additional Terms](https://www.bitgo.com/legal/bitgo-additional-terms/) and [WLF FAQ](https://docs.worldlibertyfinancial.com/resources/faq) |
 
-## 双寡占は弱体化ではなく強固化している
+## Category boundaries
 
-Tether USDT と Circle USDC は合わせて**2023 年に全ステーブルコイン TVL の ~70%** を保有していたが、**2026 年には ~85%** となった。直感に反するが、新 issuer の波（2023-2026）は USDT/USDC の集中度を**希釈せず**、弱小テール（TUSD、USDP リテールシェア、NYDFS 後の BUSD、GUSD）を駆逐し、小規模だが正統な第二梯団を生み出した。今回の集約は **正統性のアップグレード** である：GENIUS Act §501 と MiCA EMT/ART ルールにより取引所、カストディアン、PSP はノンコンプライアンスな issuer を強制上場廃止（月次 attestation なし、ライセンス信託なし、UST のみの準備金なし）。2022-2023 年の「ステーブルコイン スタートアップ」の多くは廃業、Paxos / Brale / M^0 に売却、あるいは独立ブランドでの競争ではなく [[fintech/m-network-m0-neutral-infrastructure|M^0 のホワイトラベルインフラ]] トラックへ移行した。
+The following table uses the [GENIUS Act text / summary](https://www.congress.gov/bill/119th-congress/senate-bill/1582) and product documents to prevent category errors.
 
-## 実質的牽引力を得た 8 社の挑戦者
+| Category | Core claim | Examples in this page | Do not infer |
+|---|---|---|---|
+| Payment stablecoin | Redeemable for a fixed monetary amount under issuer terms | USDC, PYUSD, USDG and similarly structured products | Every token called “USD” meets the statutory definition |
+| Synthetic dollar | Stability depends on hedging / collateral mechanics rather than a simple fiat reserve | USDe | Same risk and regulatory perimeter as a permitted payment stablecoin |
+| Savings / staked wrapper | Holder receives protocol or reserve-linked rewards | sUSDe, sUSDS, sfrxUSD | Wrapper yield is guaranteed or risk-free |
+| Tokenized fund | Security / fund share with NAV and prospectus | BENJI, BUIDL (covered elsewhere) | A payment stablecoin |
+| Infrastructure | Technology for third-party issuance / orchestration | M0, issuance platforms | Infrastructure provider is the legal issuer of every token using it |
 
-**[[fintech/paypal-pyusd-stablecoin|PayPal PYUSD]]** は 2024-05 にメイン決済層を Ethereum から Solana へ移行後、2026-05 に MCap $1B を突破した。決定的イネーブラーは配信だった：~4 億の PayPal/Venmo アクティブアカウントが PYUSD にリテールフライホイールを与え、他の新規参入者がマッチできない。Paxos が発行するが、経済分配（yield の 80-90% を PayPal へ）が構造的なシグナルである —— 配信が勝つ。
+## What can and cannot establish consolidation
 
-**[[fintech/ripple-rlusd-stablecoin|Ripple RLUSD]]** は 2024-12 に XRPL + Ethereum で同時ローンチし、2026-05 で $700M+ に到達、銀行級コンプライアンス（Standard Custody NY DFS trust）と RippleNet の 200+ 行回廊にアンカリングされている。RLUSD は DeFi 深度を追わず、クロスボーダー B2B 清算を集約する。
+下表は [Tether](https://tether.to/en/transparency/)、[Circle](https://www.circle.com/transparency)、[Paxos](https://docs.paxos.com/guides/stablecoin/usdg) の first-party disclosures と market dataset の役割を分ける。
 
-**[[fintech/first-digital-fdusd-hk-stablecoin|First Digital FDUSD]]** ~$3B MCap はほぼ全面的に Binance メインペアに依存する。トップティアで構造的に最も脆弱 —— Justin Sun の準備金カストディの疑問および 2025-Q1 の短期 depeg により HKMA ライセンスは 2026-Q3 へ後ろ倒し —— だが Binance 配信がボリュームの粘着性を保った。
-
-**Ethena USDe + sUSDe** は **唯一のネイティブ yield アーキテクチャを持つ新規参入者**。USDe MCap $5.2B（2026-05）、ETH-perp delta-neutral basis trade + トークン化 UST で裏付け。sUSDe は funding-rate yield を分配（強気サイクル 12-18% APY、弱気は概ねゼロ）。市場が生み出した「ネイティブ yield を持つシンセティック USD」に最も近いもので、複数のストレスサイクル（2024-08 funding 逆転、2025-Q4 ETH ドローダウン）を生き延びた。2025 GENIUS Act は Ethena を「yield-bearing シンセティック」という独立カテゴリへ明示的に切り分けた —— 決済ステーブルコインではない —— これにより規制の曖昧性が消えたが、リテール PSP 統合は上限が課された。
-
-**[[fintech/sky-usds-decentralized-stablecoin|Sky USDS]]** はリブランド後の MakerDAO 製品。Sky ステーブルコイン総額（$USDS + $DAI legacy）は 2026-05 で ~$7.8B。Sky は BUIDL + トークン化プライベートクレジット（Apollo ACRED 型）を RWA リザーブミックスに追加し、sUSDS ステーカーへ実利回り（典型 5-8% APY）を分配。MakerDAO → Sky リストラクチャーはブランドを分割し、USDS が規制レールにアクセスし、DAI は DeFi ピュアリストユーザーを維持できるようにした。
-
-**Frax frxUSD**（$1B+）は DeFi + RWA の独自交点に位置する。frxUSD リザーブは BUIDL + sFRAX + UST で、[[fintech/frax-frxusd-defi-stablecoin|frxUSD]] は Fraxtal L2 エコシステムでネイティブ yield として消費される。Frax は 2024-2026 リデザインが「信頼に足る RWA リザーブ」のバーを越えた唯一の DeFi ネイティブプロトコルである。
-
-**[[fintech/world-liberty-usd1-political-stablecoin|World Liberty USD1]]** は 2025 初頭のほぼゼロから 2026-05 に $2.1B+ に到達。USD1 はトランプ家関連の World Liberty Financial が発行する **政治ブランドステーブルコイン**、BitGo がカストディ、BNB Chain + Tron にデプロイ。成長はオーガニックなリテール / DeFi 需要ではなく政策連動（ソブリン財務省保有、中東パートナー銀行）。この軌跡は [[fintech/onchain-finance-vs-crypto-bifurcation|オンチェーン金融 vs 暗号ネイティブの分岐]] の問いにとって重要 —— USD1 は配信が明示的に地政学的である最初のステーブルコインである。
-
-**Global Dollar USDG** は **Paxos がコーディネートするマルチ issuer アライアンス** ステーブルコインである：メンバーには Robinhood、Kraken、Anchorage、Bullish、Galaxy が含まれる。基礎リザーブからの yield は利用状況に応じてメンバーへ分配される。USDG MCap は 2025 初頭は小さかった（~$50M）が、Robinhood Crypto が米国リテール提供に統合したことで 2026-05 までに $250M+ に到達した。USDG は [[fintech/issuer-distributor-incentive-realignment-50-50-model|50-50 issuer/distributor インセンティブモデル]] がマルチ distributor 連合となる最もクリーンな事例である。
-
-## 中立インフラ層
-
-**[[fintech/m-network-m0-neutral-infrastructure|M^0]]** は競合ブランド**ではない** —— 8 社程度のステーブルコイン issuer の下層にあるホワイトラベルリザーブ / スマートコントラクト / DAO ガバナンス層である（2026-05）。集約管理 MCap で $300M+。BlackRock + Goldman + Bain + Pantera がバックする。M^0 のテーゼは、**ブランド層ステーブルコインは競争を続けるが、インフラは集約する** —— SWIFT が数千の競合銀行ブランドの下で中立配管となったのと同じ —— というもの。Bridge（Stripe）が M^0 の最も近い直接競合で、Circle Mint API が上から長尾を一部削っている。
-
-## ゾンビ / フェード / 絶滅した issuer
-
-同様に重要：**生き残らなかった issuer**。
-
-- **BUSD**（Paxos）：2023-02 NY DFS による発行停止。償還テールは 2026 までに ~$50M、実質的に終了。
-- **TUSD**（Techteryx）：2024 年ガバナンススキャンダル後に流動性が崩壊、MCap は $2B から ~$300M へ、複数の depeg イベント発生。
-- **GUSD**（Gemini Trust）：MCap $80M、NY DFS ライセンスにもかかわらず周縁化 —— Gemini のリテールフォーカスでは配信を生み出せなかった。
-- **USDP**（Paxos）：MCap $90M リテールティア、Paxos が発行フォーカスを転換したことで PYUSD に取って代わられた。
-- **USDD**（Tron アラインド）：MCap $370M だが構造的に過小担保とみなされ、主要な米国 / EU 取引所には未上場。
-- **HUSD, USDX (Kava), USDK, USDH**（Honcho）：すべて 2026 までに退役またはほぼゼロ。
-- **agEUR**（Angle）：2023-07 のエクスプロイト後にフェード、退役して MiCA 準拠の小規模製品として再構築。
-- **crvUSD**（Curve）：安定的に $50M-100M だが決済レールへ成長せず。
-- **GHO**（Aave）：$200M、Aave プロトコル内ニッチ、決済ステーブルコインではない。
-- **eUSD**（Reserve）：「安定」ピッチから RTokens / Reserve Index へピボット。
-
-パターン：**アルゴリズム / 過小担保 / ニッチプロトコルステーブルコインはすべて $1B を持続的に超えることに失敗した**。生存者はすべて **UST + 現金リザーブ + 月次 attestation + ライセンス信託 issuer + 明確な配信チャネル** に収斂した。
-
-## 準備資産品質競争
-
-GENIUS Act §501 はリザーブ基準を以下に凍結した：米国 T-bills（≤93 日）、リバースレポ、または被保険デポジタリにおける現金との 1:1。これにより**準備資産品質**は主要な競争レバーとなった：
-
-- **USDC**：BlackRock 運用 Circle Reserve Fund（SEC 登録政府マネーマーケットファンド）、Deloitte 月次 attestation。バーを設定。
-- **PYUSD**：100% UST + 現金、Withum 月次 attestation。
-- **RLUSD**：100% UST 1-3M + 現金、BDO USA 月次 attestation。
-- **USDT**：ミックス（UST + BTC + Gold + 担保付ローン）；GENIUS の狭義基準を満たさない、ゆえに明示的な「国際」トラック。
-- **FDUSD**：85% UST + 12% 現金 + 3% MMF；Prescient Assurance attestation（下位ティア）。
-- **frxUSD**：BUIDL + UST + sFRAX yield バスケット —— 部分的に該当、部分的に yield-bearing。
-- **USDe**：ETH delta-neutral + UST；シンセティックに分類、決済ステーブルコインレジーム外。
-- **USDS**：トークン化 UST + BUIDL + プライベートクレジット；狭義リザーブ子会社で保有すれば通過。
-- **USDG**：100% UST + 現金（Paxos 経由）；該当。
-- **USD1**：100% UST + 現金（BitGo Trust Company 経由）；該当。
-
-リザーブ品質コンプライアンスバーは現在バイナリ：GENIUS §501 を満たすか、または非米国配信に限定される。満たすコストは概ね +20-40 bps の yield 譲歩（cash drag、狭義リザーブ流動性プレミアム）で、これが USDT が動かない理由 —— [[fintech/tether-business-model-short-treasury-yield|short-treasury-yield ビジネスモデル]] は広いリザーブメニューに依存する。
-
-## 2026 年集約が実際に示すもの
-
-1. **Issuer 競争はバイモーダル**：USDT と USDC はコンプライアンス / ブランド / 流動性の優位を吸収し、他の全員は 1 つの **配信エッジ** を選ぶ（PayPal リテール、RippleNet B2B、Binance ペア、DeFi-yield、政治ブランド、マルチ distributor 連合）—— 一般市場では勝てないと受け入れる。
-2. **経済価値は issuer ではなく distributor にある** —— PYUSD、USDG、USDC×Coinbase、FDUSD×Binance 全体での [[fintech/issuer-distributor-incentive-realignment-50-50-model|50-50 モデル]] により裏付けられる。純粋な issuer（Paxos ブランドのみの USDP、Gemini GUSD）は敗北している。
-3. **インフラは中立化している** —— [[fintech/m-network-m0-neutral-infrastructure|M^0]] / Bridge / Circle Mint が「自社ブランド SC を持ちたい」需要の長尾を吸収している。
-4. **リザーブ品質が規制の堀** —— 狭義 UST リザーブを運用できない issuer（Tether）は異なる市場（国際グレー）に向かい、運用できる issuer（Circle、Paxos、BitGo、Standard Custody）はホワイトサークル機関レールを獲得する。
-5. **CEX ネイティブペアと PSP レールがチョークポイント** —— 日本における USDC vs JPY ペッグの同様のダイナミクスは [[exchanges/jp-cex-deposit-token-stablecoin-integration|JP CEX 預金トークン統合]] 参照。
-6. **銀行預金トークンは並行する競争レーン** —— [[fintech/jpmorgan-jpmd-coin|JPMorgan JPMD]] と [[fintech/institutional-stablecoin-deposit-token-thesis|機関預金トークンテーゼ]] により、ホールセール層 USD が異なる決済アーキテクチャで動いており、このステーブルコイン issuer マトリックス上ではない。
-
-## チェーン別デプロイパターン
-
-2025-2026 集約はまた、2022-2023「みんなが全チェーン上にいる」パターンよりも鮮明な**チェーンデプロイ専門化**を示している：
-
-- **USDT** は **Tron**（トランザクションコスト駆動の EM 送金）+ **Ethereum**（DeFi コンポーザビリティ）+ **BSC**（Binance フロー）で支配的を維持、Solana が二次送金レールとして成長。USDT 供給の ~58% が 2026-05 で Tron 上。
-- **USDC** は **Ethereum**（最深の機関）+ **Base**（Coinbase L2 戦略）+ **Solana**（高スループットリテール）を優先、Circle の CCTP 経由で ~20 チェーンへ選択的に拡張。
-- **PYUSD** は 2024 年に **Solana** をプライマリレールとして（供給の ~80%）**EVM ファーストパターンから決別**。トップ 10 ステーブルコインが Solana を二次でなくプライマリとして扱うのは初めて。
-- **RLUSD** は **XRPL + Ethereum** でデュアルローンチ、銀行級コンプライアンスストーリーを非 DeFi チェーン（XRPL）にアンカリングしつつ、Ethereum DeFi オプショナリティを維持。
-- **FDUSD** は **Ethereum + BNB Chain + Solana** に存在、完全に Binance プロダクトチームの意思決定に駆動されたパターン。
-- **USDe / sUSDe** は **Ethereum 専用**（delta-neutral basis 戦略は深い Ethereum perp 流動性を要求）。
-- **USDS** は **Ethereum + Base + Solana** 上、Sky の MakerDAO ヘリテージで Ethereum がプライマリ。
-- **USD1** は **BNB Chain + Tron** 上 —— USDT と同じチェーン、米国政治ブランドの下でグレーサークル EM フローを獲得する意図を示す。
-
-この**チェーン別専門化**自体が集約のサイン：各 issuer が 10+ チェーンに広く薄く展開するのではなく、1-3 のプライマリチェーンに集中ベットを置く。類似のラップド BTC 集約パターンは [[fintech/cbbtc-institutional-btc-wrapper|cbBTC 機関ラッパー]] 参照。
-
-## 地理的集約パターン
-
-市場はまた**配信地理**でも集約している：
-
-| 地域 | 支配的 issuer（2026-05）| 成長ドライバー |
+| Claim | Required evidence | Why issuer pages alone are insufficient |
 |---|---|---|
-| 北米 | USDC, PYUSD, USDG | Coinbase, PayPal/Venmo, Robinhood, GENIUS Act §501 コンプライアンス |
-| 欧州 | USDC (MiCA EMT), EURC, EURI (Eurostable), Société Générale EURCV | MiCA EMT レジーム、EU 銀行コンソーシアム製品 |
-| アジア（HK / SG / JP）| USDC, FDUSD, USDG, HKDR (pending), JPYC | HKMA / MAS / FSA 認証 |
-| 中南米 | USDT, USDC, USDY | ARS、BRL、MXN、COP の通貨切下げに対する USD ヘッジ需要 |
-| アフリカ | USDT, USDC | NGN、KES、ZAR に対する USD ヘッジ；M-Pesa-stablecoin パイロット |
-| 中東 | USDC, USD1, USDL, USDG | UAE 連邦銀行レール、ADGM / DIFC ライセンスレジーム |
-| ロシア / CIS | USDT (グレー) | 制裁回避 + ルーブルヘッジ |
-| 中国グレー | USDT (グレー) | OTC 経由の RMB 資本規制バイパス |
+| Market share | Same-timestamp supply by token and chain, deduplicated bridged supply | Issuers report their own products, not the complete denominator |
+| Concentration | Defined universe plus HHI / top-N calculation | “Stablecoin” universe changes if synthetic / yield products are included |
+| Geographic share | Venue / wallet / flow dataset with methodology | Chain address does not reliably identify user geography |
+| Reserve quality | Current reserve report and attestation for each legal issuer | Product marketing is not a reserve schedule |
+| Distribution advantage | Dated transaction / active-user data plus partner contract where public | Brand reach does not prove token usage or revenue split |
+| Regulatory access | Current licence register and product scope | A company licence may not cover every affiliate, token or jurisdiction |
 
-地理的フォーカスなしでグローバルになろうとする issuer（レガシー GUSD、USDP）は敗北する。地域を選んで支配する issuer（NA リテールの PYUSD、中南米の USDY、MENA の USDL）は成長する。この**地域専門化**は [[fintech/global-stablecoin-regulatory-five-pole-matrix|5 極規制マトリックス]] テーゼ —— どの単一管轄もグローバルステーブルコイン規制レジームを支配せず、各 issuer は 1-2 の極を選んで最適化する —— と一致する。
+## Issuer / distributor economics
 
-## 各 issuer カテゴリにとって「勝利」が実際に意味するもの
+Distribution partnerships are economically important, but the public evidence rarely establishes one universal percentage split. USDG's network materials describe proportionate economic benefits for partners; that does not prove a fixed 50/50 arrangement. PYUSD's PayPal brand and Paxos issuance identify different roles; they do not disclose every internal revenue allocation. Therefore use [[fintech/issuer-distributor-incentive-realignment-50-50-model|the issuer / distributor page]] as a contract-analysis framework, not as a default fact applied to every product.
 
-異なる issuer は異なる成功定義を追求する —— すべてが同じ結果を望むふりをすれば戦略は曖昧になる：
+## Network deployment
 
-| Issuer | 「勝利」メトリック | なぜ MCap ではないか |
-|---|---|---|
-| Tether (USDT) | EM グレーサークル USD 化シェア + 捕捉した Treasury yield | Tether は既に MCap で勝った；次の 10 年は USDT がデフォルト EM USD 商品でありつづけるかどうか |
-| Circle (USDC) | クロス管轄規制プレゼンス + Coinbase yield 分配更新 | Circle の収益はほぼ完全に Coinbase × Circle 協定に依存；その他はすべて当該契約のためのブランド強化 |
-| Paxos (PYUSD + USDG + USDL + PAXG) | ブランド製品数 + マルチ管轄ライセンス数 | Paxos の価値はプラットフォーム、単一製品ではない |
-| Ripple (RLUSD) | ODL 回廊ボリュームでの RLUSD シェア + OCC bank charter | RLUSD は Ripple がフルバンクになるためのくさび、独立製品プレイではない |
-| PayPal (PYUSD) | PayPal/Venmo クロスボーダー + P2P トランザクションボリュームでの PYUSD シェア | PYUSD は PayPal 製品への組込決済アップグレード、独立消費者提供ではない |
-| Ethena (USDe + sUSDe) | Funding-rate APY 持続性 + ベアサイクル通過 USDe サバイバル | テーゼは delta-neutral basis trade が DeFi-degen TVL を超えてスケールするか否かに立つ |
-| Sky (USDS) | sUSDS 保有者への RWA yield 分配 + DeFi コンポーザビリティ維持 | Sky は DeFi ネイティブベース（DAI legacy）を維持しつつ、RWA-yield リテールベースを追加する必要 |
-| Frax (frxUSD) | Fraxtal L2 採用 + sFRAX yield 維持 | Frax はすべてを DeFi ネイティブ RWA 配信プラットフォーム化に賭けた |
-| WLF (USD1) | ソブリン / 国家提携財務省配分 | USD1 の配信は政治的；成長は持続的な政策連動を要求 |
-| Global Dollar (USDG) | distributor メンバー数 + distributor あたり yield シェア | USDG の連合モデルは連合スケールでのみ機能する |
-| Franklin (BENJI) | 非 BlackRock 機関買い手のデフォルトトークン化 MMF としての BENJI | BENJI のくさびは BUIDL の BlackRock アラインドガバナンスを望まない機関買い手 |
-| Ondo (OUSG / USDY) | マルチチェーン採用 + Ondo Chain validator ネットワーク | Ondo の価値は製品層ではなくチェーンインフラ層へますますシフト |
-| M^0 | 独立 issuer 数 + 総管理 MCap | M^0 は他 issuer のブランドをホストしてスケールするよう明示的に設計された唯一のプレイヤー |
+Each issuer maintains an authoritative contract-address or supported-network list. A useful current snapshot must:
 
-最もクリアな示唆：**MCap 順位は戦略ポジションと等しくない**。PYUSD の $1B は PayPal にとって、4 億のアクティブアカウントを持つ決済プラットフォームに統合されているため、ジェネリックステーブルコイン MCap $1B よりも遥かに価値がある。USDe の $5B は USDG の $250M よりも戦略的に興味深い —— USDG の方が配信が広範であっても、USDe は新製品カテゴリを発明した。
+1. identify canonical contracts;
+2. separate native issuance from bridged representations;
+3. date the snapshot;
+4. avoid attributing all chain supply to the same legal issuer without checking terms;
+5. avoid turning one period's chain distribution into a permanent strategy claim.
 
-## 2020-2022 ステーブルコイン景観との比較
+The prior page's exact percentages for USDT on Tron and PYUSD on Solana, as well as hard-coded chain counts for USDC and other products, were removed because no dated calculation and canonical-contract methodology accompanied them.
 
-2025-2026 像は 3-4 年前の市場とのコントラストでのみ意味が出てくる：
+## Regulatory checkpoint
 
-| 次元 | 2020-2022 | 2025-2026 |
-|---|---|---|
-| 総ステーブルコイン TVL | $130B（2021 ピーク）| $245B+ |
-| トップ 2 集中度 | USDT + USDC ~70% | USDT + USDC ~85% |
-| アルゴリズム / 過小担保 issuer | UST, USDD, USDN, DEI, USDR, MIM（すべて相当規模）| 実質的にゼロ（UST 崩壊がカテゴリを終わらせた）|
-| Yield-bearing USD 商品 | Anchor UST（崩壊）、DAI savings rate | sUSDe ($3B), sUSDS ($2B), sFRAX, USDY, USDL, BENJI, OUSG |
-| トークン化 MMF AUM | <$100M | $3.5B+（BUIDL + BENJI + OUSG + Apollo + 小規模）|
-| US trust charter を持つ issuer | Paxos, Gemini, Circle（州 MTL 経由）| Paxos, Circle, BitGo, Standard Custody, Brale, Anchorage Digital Bank |
-| ステーブルコイン関連規制明瞭性 | 最小 | GENIUS Act 2025, MiCA 2024 施行, HKMA SC レジーム 2025, MAS DPT レジーム, 日本 EPI |
+The U.S. GENIUS Act was signed on 2025-07-18 and creates a payment-stablecoin framework with permitted issuers, one-to-one reserves, disclosures and federal / state supervision. It does not create a “§501 reserve whitelist” that automatically divides all global tokens into white and grey markets. Statutory application, effective dates and implementing rules should be checked directly. See [[fintech/treasury-stablecoin-policy-2025|U.S. policy page]] for the corrected implementation status.
 
-構造的成熟は本物である。issuer 集合は**ブレッドス**で縮小（テールキル効果）し、生存 issuer あたりの**製品深度**で拡張した（Paxos からの PYUSD + USDG + USDL + PAXG；Ethena からの USDe + sUSDe + USDtb；Sky からの USDS + DAI + sUSDS）。
+## Dated market-snapshot template
+
+Use this table when a reviewed market dataset is available; do not fill it from memory.
+
+| Field | Definition |
+|---|---|
+| Snapshot timestamp | UTC date and time |
+| Universe | Fiat-backed only, or includes synthetic / wrappers |
+| Supply | Canonical outstanding less duplicate bridged representations |
+| Denominator | Sum of included products |
+| Top-2 share | `(largest + second largest) / denominator` |
+| Source | Query / API / export plus retrieval date |
+| Caveats | Frozen, redemption-only, wrapped and disputed balances |
+
+## Strategic reading
+
+Evidence supports three durable analytical questions:
+
+- Does an issuer have a current, scoped regulatory and redemption route?
+- Does the product have an identifiable distribution channel and actual activity?
+- Can reserve / collateral risk be independently evaluated?
+
+Those questions are stronger than a static “winner / loser” ranking. Market caps, yields and partner rosters change too quickly to carry forward without a dated refresh.
 
 ## Related
 
-- [[fintech/INDEX|fintech index]]
+- [[fintech/INDEX|Fintech Index]]
 - [[fintech/paypal-pyusd-stablecoin|PayPal PYUSD]]
 - [[fintech/ripple-rlusd-stablecoin|Ripple RLUSD]]
 - [[fintech/first-digital-fdusd-hk-stablecoin|First Digital FDUSD]]
 - [[fintech/frax-frxusd-defi-stablecoin|Frax frxUSD]]
 - [[fintech/sky-usds-decentralized-stablecoin|Sky USDS]]
 - [[fintech/world-liberty-usd1-political-stablecoin|WLF USD1]]
-- [[fintech/m-network-m0-neutral-infrastructure|M^0 neutral infrastructure]]
-- [[fintech/jpmorgan-jpmd-coin|JPMorgan JPMD]]
-- [[fintech/tether-business-model-short-treasury-yield|Tether business model]]
-- [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]]
-- [[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED]]
-- [[fintech/global-stablecoin-regulatory-five-pole-matrix|Global stablecoin five-pole matrix]]
-- [[fintech/institutional-stablecoin-deposit-token-thesis|Institutional deposit-token thesis]]
-- [[fintech/protocol-hedge-strategy-stripe-pattern|Protocol hedge strategy · Stripe pattern]]
-- [[fintech/cbbtc-institutional-btc-wrapper|cbBTC institutional wrapper]]
-- [[fintech/onchain-finance-vs-crypto-bifurcation|Onchain finance vs crypto bifurcation]]
-- [[exchanges/jp-cex-deposit-token-stablecoin-integration|JP CEX deposit-token integration]]
-- [[exchanges/INDEX|exchanges index]]
-- [[business/larry-fink-blackrock-digital-asset-template|Larry Fink BlackRock digital-asset template]]
-- [[business/paolo-ardoino-tether-business-model-template|Paolo Ardoino Tether template]]
+- [[fintech/m0-network-infrastructure-update-2026|M0 infrastructure]]
+- [[fintech/paxos-paxg-post-binance-pivot|Paxos after BUSD]]
+- [[fintech/global-stablecoin-regulatory-five-pole-matrix|Global stablecoin regulation]]
 
 ## Sources
 
-- DefiLlama stablecoins dashboard (defillama.com/stablecoins)
-- Tether transparency page (tether.to/en/transparency)
-- Circle USDC monthly reserve report (circle.com/transparency)
-- PayPal PYUSD official page (paypal.com/us/digital-currency/pyusd)
-- Ripple RLUSD official page (ripple.com/rlusd)
-- Ethena protocol page (ethena.fi)
-- Global Dollar Network official page (globaldollar.com)
-- Frax official page (frax.com)
-- Sky (ex-Maker) official page (sky.money)
-- M^0 protocol page (m0.org)
-- World Liberty Financial USD1 official page (worldlibertyfinancial.com)
-- US Treasury / SEC public filings via EDGAR (sec.gov/edgar)
-- HKMA Stablecoin Issuer Licensing public register
-- MAS Payment Services Act DPT issuer register
+- Tether transparency: https://tether.to/en/transparency/
+- Tether Token Terms (updated 2026-02-26): https://tether.to/en/legal/
+- Circle transparency: https://www.circle.com/transparency
+- Circle USDC Terms (updated 2025-12-12): https://www.circle.com/legal/usdc-terms
+- Circle MiCA USDC white paper: https://www.circle.com/legal/mica-usdc-whitepaper
+- Paxos PYUSD: https://docs.paxos.com/guides/stablecoin/pyusd
+- Paxos PYUSD current issuer page: https://www.paxos.com/pyusd
+- OCC Paxos conversion record (effective 2025-12-12): https://apps.occ.gov/CAS/home/details?FilingID=342828&FilingSubtypeID=1117&FilingTypeID=23
+- Paxos USDG: https://docs.paxos.com/guides/stablecoin/usdg
+- Ripple stablecoin: https://ripple.com/solutions/stablecoin/
+- Ripple RLUSD User Terms (updated 2024-10-03): https://ripple.com/legal/stablecoin/
+- First Digital Labs: https://www.firstdigitallabs.com/
+- First Digital legal disclosures: https://www.firstdigitallabs.com/legal
+- FD121 Account User Agreement (effective 2025-08-01): https://www.firstdigitallabs.com/legal/fd121-account-user-agreement
+- Ethena docs: https://docs.ethena.fi/
+- Sky: https://sky.money/
+- Frax docs: https://docs.frax.finance/frax-v3-100-cr-and-more/frax-v3-overview
+- USD1: https://www.worldlibertyfinancial.com/usd1
+- BitGo Additional Terms (updated 2026-03-25): https://www.bitgo.com/legal/bitgo-additional-terms/
+- World Liberty Financial USD1 FAQ: https://docs.worldlibertyfinancial.com/resources/faq
+- Congress.gov — GENIUS Act: https://www.congress.gov/bill/119th-congress/senate-bill/1582

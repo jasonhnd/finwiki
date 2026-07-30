@@ -11,10 +11,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage.md",
   "raw_markdown_url": "https://finwiki.zksc.io/fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage.md",
   "domain": "fintech",
-  "title": "OCC trust bank charter を活用した連邦ステーブルコイン銀行アービトラージ・ルート",
+  "title": "OCC national trust bank route · Bridge の preliminary conditional approval",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "OCC trust bank charter を活用した連邦ステーブルコイン銀行アービトラージ・ルート",
+    "title": "OCC national trust bank route · Bridge の preliminary conditional approval",
     "aliases": [
       "OCC trust bank stablecoin",
       "Bridge OCC conditional",
@@ -23,8 +23,8 @@
     "domain": "fintech",
     "type": null,
     "created": "2026-05-16",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-06-24",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-08-08",
     "confidence": "certain",
     "tags": [
@@ -42,16 +42,22 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.occ.gov/topics/charters-and-licensing/index-charters-and-licensing.html",
-      "https://www.occ.gov/news-issuances/news-releases/index-news-releases.html",
-      "https://www.federalreserve.gov/paymentsystems/fedwire_about.htm",
-      "https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/index-comptrollers-handbook.html"
+      "https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2026/cd1365.pdf",
+      "https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/index-interpretations-and-decisions.html",
+      "https://www.occ.gov/topics/charters-and-licensing/interpretations-and-actions/2020/int1167.pdf",
+      "https://www.federalreserve.gov/paymentsystems/fedfunds_coreprinciples.htm"
     ]
   },
   "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
   "headings": [
-    "OCC trust bank charter を活用した連邦ステーブルコイン銀行アービトラージ・ルート",
+    "OCC national trust bank route · Bridge の preliminary conditional approval",
     "Wiki route",
+    "Bridge decision の確認可能な status",
+    "Material conditions",
+    "State MTL pre-emption: fact-specific, not blanket",
+    "Federal Reserve and payment-system boundary",
+    "Verified timeline",
+    "Comparison checklist",
     "Related"
   ],
   "body_links": {
@@ -78,13 +84,16 @@
       "https://finwiki.zksc.io/ja/fintech/regulatory-window-strategic-acquisition/",
       "https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 2,
+    "external_links": [
+      "https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2026/cd1365.pdf",
+      "https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/index-interpretations-and-decisions.html"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 3481,
-    "word_like_tokens": 586,
-    "inbound_wikilinks_count": 14,
-    "last_modified": "2026-06-24"
+    "nonspace_chars": 6320,
+    "word_like_tokens": 996,
+    "inbound_wikilinks_count": 13,
+    "last_modified": "2026-07-30"
   }
 }

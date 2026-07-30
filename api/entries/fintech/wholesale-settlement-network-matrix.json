@@ -26,8 +26,8 @@
     "domain": "fintech",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-07-29",
-    "last_tended": "2026-07-29",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-10-27",
     "confidence": "likely",
     "tags": [
@@ -71,21 +71,20 @@
     "Why a six-way comparison",
     "Matrix A · Settlement asset and finality",
     "Matrix B · Consortium membership",
-    "Matrix C · Currencies live (2026-05)",
-    "Matrix D · Daily volume and cumulative scale",
+    "Matrix C · Disclosed currency scope",
+    "Matrix D · Publicly disclosed volume and cumulative scale",
     "Matrix E · Regulatory status and central-bank backing",
     "Matrix F · Technology stack",
     "Matrix G · Cross-border PvP / DvP capability"
   ],
   "body_links": {
-    "wikilinks_count": 22,
+    "wikilinks_count": 21,
     "wikilinks": [
       "INDEX",
       "fintech/INDEX",
       "fintech/bis-project-agora-overview",
       "fintech/bis-project-agora-overview\\",
       "fintech/blackrock-buidl-tokenized-mmf-overview",
-      "fintech/blackrock-buidl-tokenized-mmf-overview\\",
       "fintech/cbdc-multi-tier-architecture-overview",
       "fintech/central-banking-function-unbundling",
       "fintech/circle-usdc-stablecoin",
@@ -125,9 +124,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 21453,
-    "word_like_tokens": 3359,
+    "nonspace_chars": 25949,
+    "word_like_tokens": 4096,
     "inbound_wikilinks_count": 0,
-    "last_modified": "2026-07-29"
+    "last_modified": "2026-07-30"
   }
 }

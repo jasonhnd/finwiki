@@ -15,7 +15,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 0 |
+| Changed or new entries in current worktree | 65 |
 | canonical_anchor declarations checked (informational) | 12 |
 | canonical_anchor drift (informational, non-gating) | 0 |
 
@@ -41,6 +41,71 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
+| `fintech/argentina-usdt-formalization.md` | `M` | 9 | ok |
+| `fintech/bahamas-sand-dollar-cbdc.md` | `M` | 4 | ok |
+| `fintech/bis-agora-vs-mbridge-2026-update.md` | `M` | 17 | ok |
+| `fintech/boe-digital-pound-consultation.md` | `M` | 3 | ok |
+| `fintech/brazil-drex-timeline-2026.md` | `M` | 17 | ok |
+| `fintech/brazil-mexico-cbdc-stablecoin-push-2026.md` | `M` | 4 | ok |
+| `fintech/cbdc-adoption-curve-china-japan-eu-india-2026.md` | `M` | 6 | ok |
+| `fintech/central-banking-function-unbundling.md` | `M` | 8 | ok |
+| `fintech/cosmos-ibc-for-financial-institutions.md` | `M` | 9 | ok |
+| `fintech/cross-border-sc-via-swift-api.md` | `M` | 4 | ok |
+| `fintech/dual-currency-stablecoin-arbitrage-overview.md` | `M` | 4 | ok |
+| `fintech/e-euro-retail-rollout.md` | `M` | 13 | ok |
+| `fintech/ecny-supply-chain-expansion.md` | `M` | 14 | ok |
+| `fintech/embedded-wallet-fintech-disintermediation-overview.md` | `M` | 6 | ok |
+| `fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse.md` | `M` | 6 | ok |
+| `fintech/enterprise-procurement-deadline-anchor.md` | `M` | 6 | ok |
+| `fintech/erupee-india-pilot-status.md` | `M` | 12 | ok |
+| `fintech/eu-mica-implementation-status-2026.md` | `M` | 9 | ok |
+| `fintech/franklin-templeton-stablecoin-migration.md` | `M` | 4 | ok |
+| `fintech/genius-act-501-actual-implementation.md` | `M` | 8 | ok |
+| `fintech/global-cbdc-retail-pilot-matrix-africa-caribbean.md` | `M` | 14 | ok |
+| `fintech/global-stablecoin-regulatory-five-pole-matrix.md` | `M` | 6 | ok |
+| `fintech/gray-market-dollar-network-formalization.md` | `M` | 11 | ok |
+| `fintech/hk-frtb-stablecoin-reserve-overview.md` | `M` | 4 | ok |
+| `fintech/indonesia-ovo-stablecoin-route.md` | `M` | 4 | ok |
+| `fintech/institutional-stablecoin-deposit-token-thesis.md` | `M` | 7 | ok |
+| `fintech/issuer-distributor-incentive-realignment-50-50-model.md` | `M` | 3 | ok |
+| `fintech/issuer-distributor-incentive-realignment-arc-strategy.md` | `M` | 4 | ok |
+| `fintech/jamaica-jam-dex-cbdc.md` | `M` | 9 | ok |
+| `fintech/japan-bittrade-listing-process.md` | `M` | 7 | ok |
+| `fintech/japan-epi-four-camps-comparison.md` | `M` | 5 | ok |
+| `fintech/japan-epi-three-types-overview.md` | `M` | 5 | ok |
+| `fintech/japan-listed-company-disclosure-monitoring.md` | `M` | 5 | ok |
+| `fintech/japan-stablecoin-2026-event-tracker.md` | `M` | 9 | ok |
+| `fintech/japan-stablecoin-regulatory-landscape.md` | `M` | 6 | ok |
+| `fintech/jp-stablecoin-dcjpy.md` | `M` | 4 | ok |
+| `fintech/jp-stablecoin-progmat.md` | `M` | 5 | ok |
+| `fintech/jp-trust-type-sc-architecture.md` | `M` | 6 | ok |
+| `fintech/jurisdiction-list-monetary-protectionism.md` | `M` | 9 | ok |
+| `fintech/latin-america-cbdc-stablecoin-dollarization.md` | `M` | 12 | ok |
+| `fintech/m0-network-infrastructure-update-2026.md` | `M` | 3 | ok |
+| `fintech/multi-megabank-consortium-governance.md` | `M` | 5 | ok |
+| `fintech/national-license-private-stablecoin-with-dpi-export.md` | `M` | 3 | ok |
+| `fintech/nigeria-enaira-retail-cbdc.md` | `M` | 4 | ok |
+| `fintech/occ-bank-charter-crypto-2025.md` | `M` | 6 | ok |
+| `fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage.md` | `M` | 5 | ok |
+| `fintech/onchain-finance-vs-crypto-bifurcation.md` | `M` | 5 | ok |
+| `fintech/paxos-paxg-post-binance-pivot.md` | `M` | 4 | ok |
+| `fintech/portfolio-winner-structure-arm-analog.md` | `M` | 6 | ok |
+| `fintech/protocol-renewal-trigger-as-event-anchor.md` | `M` | 4 | ok |
+| `fintech/regulatory-reset-2025-usa-crypto-policy.md` | `M` | 6 | ok |
+| `fintech/retail-stablecoin-dual-bind.md` | `M` | 6 | ok |
+| `fintech/southeast-asia-stablecoin-regulatory-landscape.md` | `M` | 8 | ok |
+| `fintech/stablecoin-chain-sovereign-currency-divide.md` | `M` | 3 | ok |
+| `fintech/stablecoin-chain-token-strategy-trilemma.md` | `M` | 3 | ok |
+| `fintech/stablecoin-issuer-2025-2026-market-consolidation.md` | `M` | 6 | ok |
+| `fintech/stablecoin-war-articles-2026-05.md` | `M` | 3 | ok |
+| `fintech/state-charter-crypto-arbitrage-2025.md` | `M` | 4 | ok |
+| `fintech/tether-business-model-short-treasury-yield.md` | `M` | 4 | ok |
+| `fintech/three-circles-stablecoin-mra-framework.md` | `M` | 5 | ok |
+| `fintech/tokenized-mmf-issuer-comparison-matrix.md` | `M` | 7 | ok |
+| `fintech/tokenized-mmf-wisdomtree-hashnote.md` | `M` | 5 | ok |
+| `fintech/treasury-stablecoin-policy-2025.md` | `M` | 9 | ok |
+| `fintech/usd-stablecoin-issuer-eight-way-matrix.md` | `M` | 19 | ok |
+| `fintech/wholesale-settlement-network-matrix.md` | `M` | 16 | ok |
 
 ## Domain Snapshot
 
@@ -67,7 +132,7 @@
 | `financial-conglomerates` | 8 | 0 | 24.6 |
 | `financial-licenses` | 9 | 0 | 43.7 |
 | `financial-regulators` | 53 | 0 | 21.8 |
-| `fintech` | 144 | 0 | 10.8 |
+| `fintech` | 144 | 0 | 8.0 |
 | `foreign-financial-institutions` | 58 | 0 | 12.2 |
 | `governance` | 1 | 0 | 31.0 |
 | `insurance` | 33 | 0 | 42.6 |

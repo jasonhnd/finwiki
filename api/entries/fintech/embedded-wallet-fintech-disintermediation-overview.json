@@ -23,8 +23,8 @@
     "domain": "fintech",
     "type": null,
     "created": "2026-05-18",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-06-24",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-08-08",
     "confidence": "certain",
     "tags": [
@@ -40,11 +40,14 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.privy.io/",
-      "https://www.coinbase.com/developer-platform",
-      "https://magic.link/",
-      "https://web3auth.io/",
-      "https://docs.stripe.com/crypto"
+      "https://privy.io/blog/announcing-our-acquisition-by-stripe",
+      "https://docs.privy.io/wallets/overview/embedded",
+      "https://docs.cdp.coinbase.com/wallets/non-custodial-wallets/overview",
+      "https://docs.magic.link/embedded-wallets/quickstart/overview",
+      "https://web3auth.io/pricing.html",
+      "https://eips.ethereum.org/EIPS/eip-4337",
+      "https://eips.ethereum.org/EIPS/eip-7702",
+      "https://eips.ethereum.org/EIPS/eip-7715"
     ]
   },
   "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
@@ -58,12 +61,11 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 12,
+    "wikilinks_count": 11,
     "wikilinks": [
       "INDEX",
       "agent-economy/embedded-wallet-network-effects-moat",
       "agent-economy/erc-7715-overview",
-      "agent-economy/privy-aws-agentcore-default-wallet",
       "fintech/INDEX",
       "fintech/ai-payment-two-tracks",
       "fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse",
@@ -77,7 +79,6 @@
       "https://finwiki.zksc.io/INDEX.md",
       "https://finwiki.zksc.io/ja/agent-economy/embedded-wallet-network-effects-moat/",
       "https://finwiki.zksc.io/ja/agent-economy/erc-7715-overview/",
-      "https://finwiki.zksc.io/ja/agent-economy/privy-aws-agentcore-default-wallet/",
       "https://finwiki.zksc.io/ja/domains/fintech/",
       "https://finwiki.zksc.io/ja/fintech/ai-payment-two-tracks/",
       "https://finwiki.zksc.io/ja/fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse/",
@@ -87,13 +88,23 @@
       "https://finwiki.zksc.io/ja/systems/erc-4337-overview/",
       "https://finwiki.zksc.io/ja/systems/erc-7702-overview/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 9,
+    "external_links": [
+      "https://docs.cdp.coinbase.com/wallets/non-custodial-wallets/overview",
+      "https://docs.magic.link/embedded-wallets/quickstart/overview",
+      "https://docs.privy.io/wallets/overview/embedded",
+      "https://eips.ethereum.org/EIPS/eip-4337",
+      "https://eips.ethereum.org/EIPS/eip-7702",
+      "https://eips.ethereum.org/EIPS/eip-7715",
+      "https://privy.io/blog/announcing-our-acquisition-by-stripe",
+      "https://stripe.com/newsroom/news/stripe-completes-bridge-acquisition",
+      "https://web3auth.io/pricing.html"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 3134,
-    "word_like_tokens": 528,
-    "inbound_wikilinks_count": 18,
-    "last_modified": "2026-06-24"
+    "nonspace_chars": 5974,
+    "word_like_tokens": 928,
+    "inbound_wikilinks_count": 17,
+    "last_modified": "2026-07-30"
   }
 }

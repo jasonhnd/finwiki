@@ -1,205 +1,130 @@
 ---
 source: fintech/boe-digital-pound-consultation
-source_hash: 1e1dc5dbeebe0932
+source_hash: 926a0c4f663dfcd8
 lang: en
 status: machine
 fidelity: ok
 title: "Bank of England digital pound consultation — 2023-2026 design phase, private-sector wallets, comparison with ECB"
-translated_at: 2026-06-15T03:48:21.817Z
+translated_at: 2026-07-29T18:18:56.000Z
 ---
 
 # Bank of England digital pound consultation — 2023-2026 design phase, private-sector wallets, comparison with ECB
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]] as the per-jurisdiction deep dive on the **Bank of England (BoE) and HM Treasury (HMT) digital pound** consultation and design phase — the UK retail-CBDC track. Read it against [[fintech/e-euro-retail-rollout|ECB digital euro retail rollout]] (the parallel EU programme with similar design choices), [[fintech/cbdc-adoption-curve-china-japan-eu-india-2026|CBDC adoption curve 2026]] for cross-jurisdiction positioning, [[fintech/bahamas-sand-dollar-cbdc|Bahamas Sand Dollar]] / [[fintech/jamaica-jam-dex-cbdc|Jamaica JAM-DEX]] / [[fintech/nigeria-enaira-retail-cbdc|Nigeria eNaira]] for live small-economy retail CBDC peer cases, and [[fintech/cbdc-multi-tier-architecture-three-paradigms|CBDC three active paradigms]] for the three-paradigm classification. For private-rail UK competitive context see [[fintech/hkma-stablecoin-licensing-overview|HKMA stablecoin licensing]] (peer regime) and [[fintech/mica-overview|MiCA overview]] (EU regulatory adjacency).
+This entry sits under [[fintech/INDEX|fintech index]] and tracks the **Bank of England (BoE) and HM Treasury (HMT) digital pound** as a conditional UK retail-CBDC programme. Read it alongside [[fintech/e-euro-retail-rollout|ECB digital euro retail rollout]] for the euro-area comparator and [[fintech/cbdc-multi-tier-architecture-three-paradigms|CBDC three active paradigms]] for architectural context.
 
 > [!info] TL;DR
-> The BoE and HMT issued a joint consultation paper on the **digital pound** on **2023-02-07**, ran the public consultation through **2023-06**, and published the **consultation response on 2024-01-25**. The conclusion: **"It is too early to decide whether to introduce a digital pound. We are therefore going to undertake a design phase."** The design phase has run through 2024-2026 and is now in **Phase 2** of multi-year preparatory work. As of 2026-05 **no decision has been made to launch**; the BoE has explicitly framed the design phase as preparatory and **not** a commitment to issuance. The design choices preferred by the BoE / HMT mirror the ECB digital euro very closely: **two-tier intermediated**, **private-sector wallets** (with explicit BoE non-distribution to consumers), a **per-person holding limit between £10,000-£20,000** (proposed; not finalised), **zero interest**, and **strong privacy protections** that go beyond the digital euro on the privacy axis. The structural comparison with the ECB is the clearest peer-comparison case: same architectural family, materially higher proposed holding cap, and a more openly cautious political posture in the UK case.
+> The BoE and HMT published their digital-pound consultation on **2023-02-07**, closed it on **2023-06-30**, and published the response on **2024-01-25**. The latest scoped status cited here, a BoE notice dated **2026-06-25**, still says that **no decision has been taken** on whether to proceed. The design phase ends in **2026**. The authorities said they would publish the assessment, blueprint, and decision on next steps later in 2026. A decision on next steps is not itself a launch decision: launch would remain conditional on further public consultation and Parliament passing primary legislation. The **£10,000-£20,000** individual holding-limit range was a consultation proposal and later analytical scenario, not an adopted limit.
 
-## Programme architecture
+## Status at a glance
 
-```
-                BoE + HMT Digital Pound Programme
-                              │
-       ┌──────────────────────┴──────────────────────┐
-       ▼                                              ▼
-   Consultation Phase                          Design Phase
-   (2023-02-07 → 2023-06)                      (2024-01 → 2026+)
-       │                                              │
-   Public consultation                         Detailed design,
-   paper + 50,000+                             vendor selection
-   responses received                          (private-sector wallet
-                                                providers), POC work,
-                                                stakeholder engagement
-       │                                              │
-   Response published                          (NOT YET) Decision Phase
-   2024-01-25 with                             Decision on whether
-   conclusion "design phase                    to introduce conditional
-   not commitment to issue"                    on legislation + political
-                                                consensus
-                                                       │
-                                                       ▼
-                                                 Live issuance (not yet specified;
-                                                 earliest realistic
-                                                 late 2020s)
-```
-
-## Matrix A · Statute, regulator, phase status
-
-| Item | Detail |
+| Item | Evidence-bounded status |
 |---|---|
-| Lead authorities | **Bank of England (BoE)** + **HM Treasury (HMT)** — joint programme |
-| Legal basis | Existing BoE Acts; new primary legislation **would be required** before issuance — explicitly stated in 2024 consultation response |
-| Consultation paper | "The digital pound: a new form of money for households and businesses?" (2023-02-07) |
-| Consultation period | 2023-02-07 → 2023-06-30 |
-| Consultation response | 2024-01-25 — joint BoE / HMT response |
-| **Decision status** | **No decision to launch**; design phase ongoing |
-| Design Phase 1 | 2024-01 onward |
-| Design Phase 2 | 2025-2026+ (ongoing) |
-| Earliest realistic issuance | Late 2020s (2027-2028 floor; later more probable) |
-| Wholesale CBDC | Separately handled — BoE participates in DLT-based wholesale settlement experiments; not part of digital pound retail track |
-| Cross-border CBDC | None planned at retail level; UK participates in [[fintech/bis-project-agora-overview|BIS Project Agorá]] on the wholesale side |
+| Product scope | A potential form of retail central-bank money for everyday payments by households and businesses ^[BoE 2023 consultation] |
+| Lead authorities | Bank of England and HM Treasury ^[BoE 2023 consultation] |
+| Consultation | Published 2023-02-07; closed 2023-06-30 ^[BoE 2023 consultation] |
+| Consultation response | Published 2024-01-25 ^[BoE 2024 response] |
+| Current programme state | Design phase; no decision to introduce a digital pound ^[BoE 2026-06-25 status] |
+| End of design phase | 2026 ^[BoE 2026-03-04 update] |
+| Later-2026 outputs | Assessment, blueprint, and the authorities' decision on next steps ^[BoE 2026-03-04 update] |
+| Launch conditions | Further public consultation before primary legislation; primary legislation passed by Parliament before any launch ^[BoE 2024 response] |
+| Holding limit | No final individual limit; £10,000-£20,000 remains a proposal and scenario range ^[BoE 2023 consultation; BoE FSP53] |
+| Scope boundary | The digital pound is a retail programme; separate wholesale settlement work does not establish a launch sequence or relative maturity ^[BoE 2026-03-04 update] |
 
-The BoE / HMT explicitly clarify in the 2024 response that **entering the design phase is not a decision to launch**. Issuance would require (i) new primary legislation, (ii) a separate BoE / HMT decision to launch, and (iii) materially higher political and policy consensus than currently exists. The 2024 response is structurally similar in cautiousness to the ECB digital euro Preparation Phase framing.
+The wording matters. The **2026 decision on next steps** could be to proceed with further work or to put more emphasis on other payment-modernisation initiatives. It should not be described as a scheduled issuance decision or launch date.
 
-## Matrix B · Design choices — explicitly mirror the EU digital euro architecture
+## What the design phase covers
 
-| Design choice | UK digital pound (proposed) | EU digital euro (proposed) | Notes |
-|---|---|---|---|
-| **Tiering model** | Two-tier intermediated via private-sector PSPs | Two-tier intermediated via supervised PSPs | Identical architectural family |
-| **BoE / ECB direct distribution** | **No** — BoE explicitly will not distribute to consumers | **No** — ECB explicitly will not distribute | Same anti-disintermediation posture |
-| **Wallet providers** | **Private-sector PIPs (Payment Interface Providers)** + ESIPs (External Service Interface Providers) | Supervised PSPs (banks, EMIs, payment institutions) | UK uses bespoke PIP/ESIP terminology; functionally equivalent |
-| **Per-person holding limit** | **£10,000-£20,000 proposed range** (consultation paper; not finalised) | **€3,000-€4,000 proposed range** | UK proposed cap is **materially higher** than EU |
-| **Interest paid** | Zero | Zero | Same |
-| **Programmability** | Limited; BoE explicit caution against state-imposed programmability | Limited; ECB similar caution | Same |
-| **Privacy posture** | **Strong** — BoE explicit that it would not see or hold individual transaction data; pseudonymous to the BoE; PIPs hold KYC | Strong (online mode supervised; offline mode cash-like) | UK proposes a stricter BoE-blindness model |
-| **Online + offline modes** | Both contemplated; online primary in consultation | Both | Same |
-| **Legal-tender status** | Contemplated; would require primary legislation | Contemplated under proposed Regulation | Same |
-| **Reverse waterfall** | Not explicitly the EU mechanism; UK approach is "linked bank account" routing for over-cap | Reverse waterfall to linked commercial-bank account | Functionally similar |
-| **Conditional payments / programmable money** | BoE explicit caution; would not be a feature in initial design | Same caution | Same |
+The BoE's **2026-03-04 progress update** describes four connected workstreams:
 
-The mirroring is intentional. The BoE and ECB have coordinated extensively at the technical level (via BIS and central-bank-to-central-bank dialogue) and the UK programme draws explicitly on EU design choices. The key difference is the **proposed holding cap range** — £10K-£20K is materially higher than €3K-€4K, partly reflecting different commercial-bank-deposit-base concerns and different consumer-utility assumptions.
+1. **Assessment** — examining the opportunities, feasibility, risks, public-policy effects, commercial viability, and operational practicality of proceeding.
+2. **Blueprint** — consolidating the proposed product features, regulatory approach, technology choices, infrastructure, and operating model.
+3. **Experiments and proofs of concept** — testing design choices and technical feasibility in controlled settings.
+4. **Engagement** — collecting input from industry, academia, and civil society.
 
-## Matrix C · The 2024 consultation response — substantive findings
+These activities build an evidence base. They are not evidence that a live digital pound exists, that a launch has been approved, or that a final architecture has been adopted.
 
-The 2024-01-25 joint BoE / HMT response is the single most important public document on the digital pound. Key findings from the 50,000+ responses received:
+## Proposed platform model
 
-1. **Public concern over privacy** dominated the response set. The most-cited individual concern was **state visibility into personal transactions**.
-2. **Concern over programmability** — many respondents feared "programmable money" being used for state-imposed expiry dates, restrictions on spending, or social-credit-style controls.
-3. **Concern over disintermediation of commercial banks** — UK Finance and other banking-industry respondents emphasised systemic-risk implications of a high holding cap.
-4. **Concern over cash availability** — many respondents valued physical cash and feared the digital pound would accelerate cash decline.
-5. **Limited consumer pull** — most consumer respondents could not identify a use case that existing payment rails (Faster Payments, contactless cards, mobile wallets, account-to-account) did not already serve.
-
-The BoE / HMT response committed to:
-
-- **Strong privacy protections** — the BoE will not see or hold individual transaction data; identity is held by the regulated PIP; the BoE has only pseudonymous wallet identifiers.
-- **No state-imposed programmability** — programmable features only at user / PIP initiation, not central bank.
-- **Cash will remain** — explicit commitment that the digital pound will coexist with physical cash; not a replacement.
-- **Higher holding cap than the ECB** — proposed £10K-£20K reflects bank-funding analysis specific to UK conditions and higher consumer-utility framing.
-- **Primary legislation required before launch** — formally embedding the cautiousness.
-
-This is the most-thoroughly-documented public response among comparable retail CBDC consultations. The 2024 response document is now widely cited in BIS / IMF / academic literature.
-
-## Matrix D · Private-sector wallet model (PIP + ESIP)
-
-The UK model uses two distinct private-sector roles:
+The **2024 consultation response** retained the platform model as the basis for further exploration, while stating that it could evolve during the design phase and that more detail would be confirmed in the blueprint.
 
 ```
-   Bank of England (issuer of digital pound)
-              │
-              ▼
-   PIP (Payment Interface Provider) — regulated wallet operator
-              │
-              ▼
-   Consumer + merchant interaction via PIP wallet
-              │
-              ▼
-   Optional ESIP (External Service Interface Provider) — value-add services
-   (e.g., expense management, business accounting, integration with other apps)
+                 Bank of England
+        proposed core digital-pound infrastructure
+                           │
+                           ▼
+       PIPs (Payment Interface Providers)
+     proposed user-facing access and payment services
+                           │
+                           ▼
+             Households and businesses
+
+       ESIPs (External Service Interface Providers)
+       proposed additional services around the platform
 ```
 
-- **PIP (Payment Interface Provider)** — primary wallet provider; consumer-facing; holds KYC; integrates with the BoE central ledger.
-- **ESIP (External Service Interface Provider)** — secondary service layer; integrates with PIP-managed wallets; optional.
+Under the proposal:
 
-Why this matters:
+- the BoE would issue the digital pound and operate core infrastructure;
+- private-sector PIPs would provide user-facing services and perform the legally required customer-facing functions;
+- ESIPs could provide additional services;
+- the detailed allocation of functions, regulation, technology, and commercial responsibilities remains subject to the blueprint and any later decisions.
 
-- **Private-sector wallets exclusively** — BoE will not run a consumer app. This is more restrictive than the EU digital euro design (which similarly relies on PSPs but contemplates ECB-supervised distribution channels).
-- **Commercial-bank role preserved** — UK banks would be eligible PIPs but so would non-bank fintech firms; the design avoids monopolising distribution by commercial banks.
-- **Innovation surface for ESIPs** — explicit policy goal of allowing third-party innovation on top of the digital pound rail.
-- **Privacy by design** — the BoE sees pseudonymous wallet IDs; the PIP holds identity; the ESIP sees only what the user authorises.
+There is no live BoE digital-pound wallet and no approved production platform. PIP and ESIP descriptions on this page therefore refer to the proposed model, not an operating service.
 
-The PIP/ESIP terminology and structure is a UK innovation in the public CBDC vocabulary. Functionally it is similar to the ECB's "supervised PSP" model but cleaner in separating consumer-facing layer (PIP) from value-add services (ESIP).
+## Commitments recorded in the 2024 response
 
-## Matrix E · Holding limit debate — £10,000-£20,000 vs €3,000-€4,000
+The consultation response records four important safeguards, all of which remain conditional on a digital pound proceeding:
 
-The proposed UK holding cap range is **materially higher** than the EU's. Why:
+- **Parliament and further consultation** — the Government committed to further public consultation before introducing primary legislation, and any launch would require both Houses of Parliament to pass that legislation.
+- **Privacy and data protection** — the Bank and Government said they would not access users' personal data through the BoE core infrastructure, and legislation would guarantee privacy. The proposal is not anonymous: regulated intermediaries would still perform functions required by law.
+- **No central-bank or government programmability** — the Bank and Government said they would not program users' money. A PIP could offer automated or rule-based payments only with user consent and under a regulatory framework.
+- **Cash remains available** — a digital pound, if introduced, would complement rather than replace cash.
 
-| Argument | Detail |
+These are programme commitments and proposed legal safeguards. They should not be converted into claims that the final system already provides those protections.
+
+## Holding limits: proposal, analysis, and unresolved policy
+
+| Document | What it establishes | What it does not establish |
+|---|---|---|
+| 2023 consultation and 2024 response | The authorities proposed an introductory individual limit in the £10,000-£20,000 range and also sought views on a lower figure such as £5,000 | A final or adopted limit ^[BoE 2023 consultation; BoE 2024 response] |
+| Financial Stability Paper No. 53, 2025-11-10 | The BoE analysed how holding limits could mitigate deposit-outflow and financial-stability risks, including scenarios using £10,000 and £20,000 | A decision to launch, a launch date, or an adopted digital-pound limit ^[BoE FSP53] |
+| 2026 progress update | Assessment and blueprint work remained in progress | Confirmation that the consultation range will be retained ^[BoE 2026-03-04 update] |
+
+The 2025 paper says that choosing a limit would require policy judgments extending beyond financial-stability analysis. It also repeats that the decision on whether to launch a digital pound, and its timing, would be taken in due course. The range must therefore remain labelled **proposed**, **illustrative**, or **scenario-based**.
+
+## Bounded comparison with the digital euro
+
+The UK and euro-area projects can be compared at the level of stated design work and legal conditions. The cited official pages do not support a categorical ranking of privacy, caution, utility, or programme maturity.
+
+| Dimension | UK digital pound | Digital euro |
+|---|---|---|
+| Programme status | Design phase ends in 2026; assessment, blueprint, and decision on next steps due later in 2026; no introduction decision in the cited UK status | The preparation phase ended in October 2025; technical preparation, market engagement, and support for the legislative process continue ^[BoE 2026-03-04 update; ECB progress] |
+| Issuance condition | Further public consultation and UK primary legislation would precede any launch | The ECB says an issuance decision would be considered only after the EU legislative framework is adopted ^[BoE 2024 response; ECB FAQ] |
+| Intermediaries | Proposed platform model uses private-sector PIPs and ESIPs; details remain subject to the blueprint | Proposed access is through payment-service providers or public intermediaries; details remain subject to legislation and project work ^[BoE 2024 response; ECB FAQ] |
+| Privacy | Proposed safeguards would keep users' personal data from the BoE core infrastructure; intermediaries would meet legal obligations | The ECB says Eurosystem data would be pseudonymised and intermediaries would access data needed to comply with EU law ^[BoE 2024 response; ECB privacy] |
+| Holding limits | £10,000-£20,000 was a proposed and analysed range; no final limit | A limit is envisaged, but calibration remains conditional; the ECB FAQ describes tests of hypothetical values up to €3,000, not an adopted cap ^[BoE FSP53; ECB FAQ] |
+| Timing | No launch year is committed | The ECB aims to be ready for a potential first issuance during 2029 if the necessary EU regulation is adopted during 2026; issuance still requires a later decision ^[BoE 2026-03-04 update; ECB FAQ] |
+
+Similarities in intermediated access, privacy objectives, or holding-limit work do not prove that one programme copied the other. Differences between provisional figures also do not, by themselves, establish greater utility or stronger protection.
+
+## Retail and wholesale scope boundary
+
+This page does not rank the BoE's retail and wholesale work. The **2026-03-04 BoE update** discusses the upgraded RTGS platform, synchronisation testing, and experimentation with tokenised central-bank money in a separate wholesale context. Those statements do not establish a relative maturity ranking or delivery sequence between the wholesale work and the retail programme.
+
+## Evidence-bounded timeline
+
+| Date | Directly supported event |
 |---|---|
-| **Higher utility ceiling** | A £10K-£20K wallet meaningfully replaces card spending for a UK consumer; €3K-€4K is closer to weekly grocery spend |
-| **Higher GDP-per-capita-adjusted cap** | UK income/spending baseline supports higher cap |
-| **More-banked population** | Higher banked share means more confidence that consumers will keep mainstream deposit balances with commercial banks |
-| **Disintermediation analysis specific to UK** | BoE / HMT analysis suggests UK bank-funding implications at £10K-£20K cap are manageable |
-| **Cap could move down before launch** | Banking-industry respondents argue for lower; final cap will be politically negotiated |
-| **Cap could be variable** | Some responses suggested an initial-launch lower cap with gradual escalation |
+| 2023-02-07 | BoE and HMT published the consultation paper ^[BoE 2023 consultation] |
+| 2023-06-30 | The consultation closed ^[BoE 2023 consultation] |
+| 2024-01-25 | BoE and HMT published the consultation response; the design phase was preparatory, not a launch decision ^[BoE 2024 response] |
+| 2025-11-10 | BoE published Financial Stability Paper No. 53 on holding-limit analysis ^[BoE FSP53] |
+| 2026-03-04 | BoE said the design phase ends in 2026 and that the assessment, blueprint, and decision on next steps would be published later in the year ^[BoE 2026-03-04 update] |
+| 2026-06-25 | A BoE notice said no decision had been taken and that conclusions would be published later in 2026 ^[BoE 2026-06-25 status] |
 
-The cap is the single most-debated design parameter, and the final number will materially affect the digital pound's competitive position vs commercial-bank deposits and private-sector stablecoins.
-
-## Matrix F · Comparison to peer programmes
-
-| Item | UK digital pound | [[fintech/e-euro-retail-rollout\|EU digital euro]] | Sweden e-krona | [[fintech/jamaica-jam-dex-cbdc\|Jamaica JAM-DEX]] | China e-CNY |
-|---|---|---|---|---|---|
-| Lead authority | BoE + HMT | ECB | Riksbank | Bank of Jamaica | PBoC |
-| Phase (2026-05) | Design Phase (post-consultation) | Preparation Phase (extended) | Effectively paused | Live since 2022 | Live mass-rollout |
-| Live retail | No | No | No | Yes | Yes |
-| Legislation status | Primary legislation required; not yet introduced | EU co-decision Regulation pending | Parliamentary mandate not yet sought | BoJ Act amendment 2022 passed | PBoC Law 2020 amendment |
-| Proposed holding cap | £10K-£20K | €3K-€4K | n/a (paused) | n/a (small-economy) | Operator-tier limits |
-| Privacy posture | Strongest (BoE-blind via PIP) | Strong (online vs offline modes) | n/a | KYC-tier model | Controllable-anonymity |
-| Earliest issuance | Late 2020s | 2027-2028 earliest | n/a | Already live | Already live |
-| Status framing | Design Phase explicitly not commitment | Preparation Phase explicitly not commitment | Effectively paused | Operational | Active mass rollout |
-
-The UK and EU programmes are clearly in the **same family** — same architectural choices, same cautiousness, same dependency on legislation, same multi-year horizon to launch. The structural difference is that the UK has more freedom to choose its own legislative timeline (post-Brexit, no EU co-decision constraint), but is using that freedom for **more cautious** sequencing rather than faster launch.
-
-## Origin and evolution
-
-```
-2014-2020    BoE early CBDC research; multiple Discussion Papers / Working Papers
-2020-03      BoE Discussion Paper "Central Bank Digital Currency — Opportunities, Challenges and Design"
-2021-04      Chancellor of the Exchequer announces joint BoE / HMT Taskforce on a UK retail CBDC ("Britcoin" media tag)
-2022         CBDC Engagement Forum + CBDC Technology Forum convened
-2023-02-07   BoE + HMT consultation paper "The digital pound: a new form of money for households and businesses?" published
-2023-06-30   Consultation period closes; 50,000+ responses received
-2024-01-25   BoE + HMT response published — design phase confirmed; no decision to launch
-2024         Design Phase 1 begins; private-sector PIP / ESIP framework articulation
-2025         BoE Governor public statements emphasise design-not-launch framing; political caution mounts
-2025-2026    Design Phase 2 ongoing; vendor / technology assessment in flight
-2026-05      No issuance decision; design phase continues; primary legislation not yet introduced
-2026-2027    (Anticipated) Decision Phase conditional on legislative timetable and political consensus
-Late 2020s   (Earliest realistic) Live retail issuance, conditional on multiple gating decisions
-```
-
-**Pattern**: the UK is moving methodically through preparation without committing to launch. The political and policy posture is **more cautious** than the ECB's, in part because UK consumer-payment rails (Faster Payments, contactless, Open Banking) are already among the most efficient globally — the marginal benefit of a retail CBDC is harder to establish.
-
-## Comparison to UK private-rail context
-
-The competitive landscape the digital pound would enter:
-
-- **Faster Payments Service (FPS)** — UK instant-payments rail, live since 2008, ubiquitous, near-zero fees for retail.
-- **Contactless cards + Apple Pay / Google Pay** — saturated adoption.
-- **Open Banking (PSD2-derived)** — UK is the global leader in Open Banking implementation; account-to-account payment rails live.
-- **GBP private stablecoins** — limited; FCA regime more restrictive than EU MiCA on EMTs.
-- **CHAPS / RTGS** — wholesale settlement; BoE's existing high-value rail being modernised in parallel (RTGS Renewal Programme).
-
-The implication: UK consumers have **fewer payment-pain-points than EU consumers** that a retail CBDC would naturally solve. This makes the consumer-pull case weaker than in jurisdictions with less-developed payment rails (Brazil pre-Pix, India pre-UPI, Africa generally). The BoE's cautious posture is partly a reflection of this — there is no obvious problem the digital pound must solve.
-
-The wholesale side is different. The BoE is actively engaged on:
-
-- **[[fintech/bis-project-agora-overview|BIS Project Agorá]]** — UK participates with the BoE and is one of the seven G10 central banks involved.
-- **RTGS Renewal Programme** — modernising the BoE's RTGS infrastructure to enable future synchronised settlement and DLT integration.
-- **Wholesale settlement experiments** — explicit BoE work on whether tokenised central-bank money should be available for wholesale use cases.
-
-The wholesale digital-pound track is **further advanced** than the retail track and may deliver value before the retail digital pound launches (if it ever does).
+No official source cited here sets a live-issuance year for the digital pound.
 
 ## Related
 
@@ -209,24 +134,16 @@ The wholesale digital-pound track is **further advanced** than the retail track 
 - [[fintech/cbdc-adoption-curve-china-japan-eu-india-2026|CBDC adoption curve 2026]]
 - [[fintech/cbdc-multi-tier-architecture-overview|CBDC multi-tier architecture overview]]
 - [[fintech/cbdc-multi-tier-architecture-three-paradigms|CBDC three active paradigms]]
-- [[fintech/cbdc-multi-tier-architecture-tradeoffs|Four core trade-offs in CBDC architecture selection]]
-- [[fintech/bahamas-sand-dollar-cbdc|Bahamas Sand Dollar]]
-- [[fintech/nigeria-enaira-retail-cbdc|Nigeria eNaira]]
-- [[fintech/jamaica-jam-dex-cbdc|Jamaica JAM-DEX]]
-- [[fintech/mica-overview|MiCA overview]]
-- [[fintech/hkma-stablecoin-licensing-overview|HKMA stablecoin licensing]]
-- [[fintech/bis-project-agora-overview|BIS Project Agorá]]
-- [[fintech/mbridge-bis-multi-cbdc-overview|mBridge BIS multi-CBDC bridge]]
+- [[fintech/cbdc-multi-tier-architecture-tradeoffs|CBDC architecture trade-offs]]
 - [[fintech/central-banking-function-unbundling|central-banking function unbundling]]
 
 ## Sources
 
-- Bank of England — digital pound landing: https://www.bankofengland.co.uk/the-digital-pound
-- BoE + HMT — "The digital pound: a new form of money for households and businesses?" consultation paper (2023-02-07): https://www.bankofengland.co.uk/-/media/boe/files/paper/2023/the-digital-pound-consultation-paper.pdf
-- HM Treasury — digital pound consultation page: https://www.gov.uk/government/consultations/the-digital-pound
-- BoE + HMT — Response to the consultation (2024-01-25): https://www.bankofengland.co.uk/news/2024/january/response-to-the-digital-pound-consultation-paper
-- BoE Discussion Paper "Central Bank Digital Currency — Opportunities, Challenges and Design" (2020-03)
-- European Central Bank — Digital euro project page (peer comparator): https://www.ecb.europa.eu/euro/digital_euro/html/index.en.html
-- BIS Working Paper No. 1116 — "The next-generation monetary system — a blueprint" (2024)
-- BIS Innovation Hub — Project Agorá public materials (UK / BoE participation)
-- BoE RTGS Renewal Programme public materials (parallel wholesale-side modernisation)
+- [Bank of England and HM Treasury — The digital pound consultation paper (2023-02-07)](https://www.bankofengland.co.uk/paper/2023/the-digital-pound-consultation-paper)
+- [Bank of England and HM Treasury — Response to the digital pound consultation (2024-01-25, PDF)](https://www.bankofengland.co.uk/-/media/boe/files/paper/2024/responses-to-the-digital-pound-consultation-paper.pdf)
+- [Bank of England — Financial Stability Paper No. 53: holding limits for systemic stablecoins and a potential digital pound (2025-11-10)](https://www.bankofengland.co.uk/financial-stability-paper/2025/holding-limits-for-sterling-denominated-systemic-stablecoins-and-a-digital-pound)
+- [Bank of England — Progress update: Digital Pound Design Phase (2026-03-04)](https://www.bankofengland.co.uk/the-digital-pound/progress-update-digital-pound-design-phase)
+- [Bank of England — RPIB consultation notice, including digital-pound status note (2026-06-25)](https://www.bankofengland.co.uk/news/2026/june/rpib-launches-consultation-on-next-generation-uk-payments-infrastructure)
+- [European Central Bank — Progress on the digital euro](https://www.ecb.europa.eu/euro/digital_euro/progress/html/index.en.html)
+- [European Central Bank — FAQs on the digital euro](https://www.ecb.europa.eu/euro/digital_euro/faqs/html/ecb.faq_digital_euro.en.html)
+- [European Central Bank — Digital euro and privacy](https://www.ecb.europa.eu/euro/digital_euro/features/privacy/html/index.en.html)

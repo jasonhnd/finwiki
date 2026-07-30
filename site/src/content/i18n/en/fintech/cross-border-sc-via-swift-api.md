@@ -1,11 +1,11 @@
 ---
 source: fintech/cross-border-sc-via-swift-api
-source_hash: a23088cf7d6f53ae
+source_hash: 66bf01bac654620e
 lang: en
 status: machine
 fidelity: ok
-title: "Cross-border SC via SWIFT API"
-translated_at: 2026-06-18T23:59:13.082Z
+title: "Cross-border SC via Swift API — Verified Project Pax Configuration"
+translated_at: 2026-07-30T02:03:00+09:00
 ---
 
 # Cross-border SC via SWIFT API
@@ -16,84 +16,79 @@ translated_at: 2026-06-18T23:59:13.082Z
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> The biggest obstacle to cross-border SC adoption is "incompatibility with bank workflows / AML/CFT." The modern pattern that solves this is a **hybrid structure that places a SWIFT API at the front-end and executes blockchain settlement at the back-end**. Project Pax (Progmat + Datachain · 2024-09) and the BIS Project Agorá are representative implementations of this structure. **TD (Tokenized Deposit) leads on SWIFT API compatibility**, while **SC connection patterns diverge depending on a §501(d) interoperability license**.
+> Project Pax was announced on 2024-09-05 as a plan for Progmat and Datachain to test a prototype cross-border stablecoin-remittance infrastructure adapted to a Swift API mock / simulation environment. The published material describes an API surface for assumed bank instructions and a cross-chain surface using IBC, LCP, a jointly developed stablecoin contract, and a TOKI liquidity pool. That material alone does not verify commercial operation, a production connection to a named bank, deployment to a named chain, or final posting at a receiving bank. ^[https://www.datachain.jp/news/progmat-and-datachain-launch-project-pax]
 
 ## Basic pattern
 
 ```
-Bank([[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG/SMBC]] / Mizuho, etc.)
-       ↓ SWIFT MT103 / ISO 20022 message
-SWIFT API mock layer(Datachain)
-       ↓ parse → settlement instruction
-[[payment-firms/progmat|Progmat Coin]] contract(trust-type SC)
-       ↓ on-chain transaction
-IBC + LCP(cross-chain bridge)
+Assumed bank instruction
        ↓
-Ethereum / Polygon / Avalanche / Cosmos
-       ↓ cross-chain swap in the TOKI liquidity pool
-receiving-side bank → credited in the receiving-side currency
+Adapted to a Swift API mock / simulation environment
+       ↓
+Stablecoin contract jointly developed by Progmat / Datachain
+       ↓
+Cross-chain functionality using IBC + LCP
+       ↓
+Liquidity pool provided by TOKI
 ```
 
-## Why place the SWIFT API at the front
+This diagram shows only the test configuration described in Datachain's 2024-09-05 announcement. Do not add a messaging standard, participating bank, deployment chain, legal issuance type, or final account posting. ^[https://www.datachain.jp/news/progmat-and-datachain-launch-project-pax]
+
+## Why put the Swift API first
+
+The table is limited to the objectives and test scope stated in the joint Progmat / Datachain announcement. Do not infer regulatory approval or AML/CFT compliance from API connectivity alone. ^[https://www.datachain.jp/news/progmat-and-datachain-launch-project-pax]
 
 | Reason | Content |
 |---|---|
-| **Protecting existing workflows** | Banks' internal systems / corporate ERPs have operated on a SWIFT premise for 50  years |
-| **AML/CFT compatibility** | OFAC / FATF Travel Rule have accumulated operational know-how on SWIFT |
-| **Reassurance for supervisors** | The FSA / Financial Services Agency find it easier to regard transactions as already reviewed if they go through SWIFT |
-| **Phased migration possible** | Full on-chain is the distant future · involve banks via SWIFT and gradually raise the on-chain ratio |
+| **Continuity with existing operations** | A plan for banks to instruct Progmat through the existing Swift API framework they use |
+| **Separate instruction and value transfer** | Test the API mock / simulation surface separately from the blockchain remittance surface |
+| **Aim to limit duplicated operations** | Project Pax says it seeks to limit duplication with banks' fiat-remittance operations and reduce additional investment |
+| **Verifiable staged introduction** | Use API mocks / simulation and a PoC to test connectivity, regulatory, wallet-use and related issues before moving to a next stage |
 
-## TD vs SC cross-border path divergence
+## Comparison boundary with other arrangements
 
-| Item | TD(JPM Kinexys / KDP)| Trust-type SC(Progmat / Project Pax)|
-|---|---|---|
-| Legal nature | Bank-deposit type | 第 3 号 EPI trust type |
-| SWIFT API | **Direct use of existing SWIFT** | Via the SWIFT API mock layer |
-| Cross-border commercialization | **Already $1.5T/month**(KDP)| 2026-H2  target(delayed)|
-| §501(d) required? | **Not required**(TD is outside SC regulation)| Required(awaiting future acquisition)|
-| Interoperability partner | US banking partners already in place | Asian partners not sufficiently fixed |
-| Interest | Deposit interest belongs to the bank | Trust trustee fee |
-
-**Implication**: Kinexys has reached commercialization via the TD path while **avoiding §501  regulation**. On the SC path, unless Progmat obtains a §501(d) tier, it is at a structural disadvantage to Kinexys in large-ticket cross-border business.
+The Project Pax announcement does not establish that the arrangement has the “same function” as a bank-deposit ledger or another company's payment network, or that they compete. Arrangements with different legal forms of money, operators, participation terms and operating stages must be assessed from their own direct records.
 
 ## Technical composition of Project Pax
 
+The components are based on the September 2024 joint announcement by Progmat and Datachain. The announcement describes a design and demonstration goals, not production availability of every chain, liquidity pool, or compliance feature. ^[https://www.datachain.jp/news/progmat-and-datachain-launch-project-pax]
+
 | Layer | Component | Provider |
 |---|---|---|
-| Application | SWIFT API mock + corporate wallet | Datachain |
-| Settlement instruction | Progmat Coin contract | Progmat + Datachain |
-| Cross-chain | IBC + LCP middleware | Datachain(Hyperledger Lab)|
-| Liquidity | TOKI cross-chain pool | TOKI(a Datachain subsidiary)|
-| Chains | Ethereum / Polygon / Avalanche / Cosmos | each chain |
-| Compliance | OFAC / Travel Rule / KYC API | Progmat common |
+| Bank instruction | Swift API mock / simulation environment | Tested by Progmat / Datachain |
+| Remittance infrastructure | Progmat Coin integration and cross-border remittance functions | Progmat + Datachain |
+| Cross-chain | IBC + LCP middleware | Datachain |
+| Liquidity | Pool for cross-chain conversion and transfer | TOKI |
+| Stablecoin contract | Jointly developed Progmat / Datachain contract | Progmat + Datachain |
+| Financial-institution review | Review of operational, regulatory, and process issues | Financial-institution review described in the joint announcement |
 
 ## Comparison with the BIS Project Agorá
 
+This comparison is based on official announcements from both projects. Agorá has more than 40 private-sector participants, including Swift, but was not designed as a network above Project Pax. ^[https://www.datachain.jp/news/progmat-and-datachain-launch-project-pax; https://www.bis.org/about/bisih/topics/fmis/agora.htm; https://www.bis.org/innovation_hub/projects/agora_list_participants.pdf]
+
 | Item | Project Pax | BIS Project Agorá |
 |---|---|---|
-| Led by | Progmat(private · Japan)| BIS(international · 7  central banks)|
-| Purpose | Put Japan-originated SC onto SWIFT | Integrate wholesale CBDC + commercial bank money |
-| Settlement asset | Trust-type SC | wholesale CBDC + TD |
-| Technology | Avalanche L1 + IBC | Unified Ledger(BIS-designed)|
-| Commercial timeline | 2026-H2 | 2027+(proof-of-concept stage)|
-| Relationship to §501(d) | Individual SC interoperability | Sovereign-network foundation |
+| Led by | Progmat + Datachain | BIS + IIF + 8 central banks + more than 40 regulated financial institutions |
+| Purpose | Connect instructions through a Swift API with stablecoin remittance | Wholesale cross-border payments using tokenized deposits and central bank reserves |
+| Settlement asset | Connected private stablecoins | Tokenized commercial-bank deposits + tokenized central-bank reserves |
+| Technology | API mock, IBC, LCP, stablecoin contract, and TOKI pool | A unifying layer for deposits and jurisdiction-specific central-bank reserve ledgers |
+| Status as of 2026-07-30 | Japan-Korea Phase 2 demonstration | Prototype completed, with plans to move toward limited real-value testing |
+| Relationship | Independent private-sector demonstration | Independent public-private research project |
 
-**The two are complementary**: Agorá builds the **inter-state skeleton**, and Pax solves the **last 1 mile of individual SC ↔ SWIFT**.
+The projects differ in purpose, participants, settlement assets and test stage. The cited records do not show that Agorá is the foundation for Project Pax, that Project Pax is an endpoint function of Agorá, or that either implementation depends on the other.
 
 ## Limits / risks
 
-- **The §501(d) channel is not established**: a direct swap with US-compliant SC such as USDC is currently not possible
-- **Delay history**: Pax failed to meet its original target at the end of 2025  → technical risk exposed
-- **Insufficient Asian partners**: delay in fixing HK / SG / Korea counter-parties
-- **SWIFT dependence**: if SWIFT itself migrates to ISO 20022 + onchain native in the future, the mock layer becomes obsolete
-- **Competition with JPM Kinexys**: it has already commercialized the same kind of function on the TD path
+- **Commercial status unverified**: completion of Phase 2, pricing, SLA, and transaction volume require confirmation in official announcements
+- **Separate regulatory requirements**: Swift API connectivity does not replace authorization for issuance, remittance, distribution, or AML/CFT
+- **Participation scope**: financial-institution names and target jurisdictions must be checked in a direct announcement for each stage
+- **Technical scope**: do not infer messaging standards, deployment chains, or final account posting from the 2024-09-05 announcement
 
 ## Applications
 
-- Can be referenced in any "blockchain + existing banking workflow" integration discussion
-- Reading the relationship between SWIFT reform (ISO 20022 / GPI / GPI for Corporates) and SC
-- Asia-originated cross-border SC design discussions (Korea KRW1 · Thailand Project Inthanon · Singapore Project Ubin)
-- Combining with [[fintech/cosmos-ibc-for-financial-institutions|Cosmos IBC for FI]] for multi-chain SC transfer design
+- A case study for examining integration of “blockchain + an existing bank workflow”
+- A design reference for separating the API instruction surface from the blockchain value-transfer surface
+- A cross-chain technology comparison alongside [[fintech/cosmos-ibc-for-financial-institutions|Cosmos IBC for FI]]
 
 ---
 
@@ -105,5 +100,10 @@ receiving-side bank → credited in the receiving-side currency
 - [[fintech/cosmos-ibc-for-financial-institutions|Cosmos IBC for FI]]
 - [[fintech/stablecoin-crossborder-b2b-growth|Stablecoin Cross-border B2B 成长]]
 - [[fintech/central-banking-function-unbundling|央行职能解体五层]]
-- [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501 denylist]]
+- [[fintech/genius-act-501-denylist-mandate|GENIUS Act implementation status]]
 <!-- /wiki-links:managed -->
+
+## Sources
+
+- [Datachain — Progmat and Datachain Launch Project Pax (2024-09-05)](https://www.datachain.jp/news/progmat-and-datachain-launch-project-pax)
+- [BIS — Project Agorá](https://www.bis.org/about/bisih/topics/fmis/agora.htm)

@@ -1,5 +1,5 @@
 ---
-title: OCC National Bank Charter for Crypto Firms · 2025 Update
+title: OCC National Trust Bank Charters for Digital-Asset Firms · 2025–2026 Verified Update
 aliases:
   - occ-crypto-charter-2025
   - occ-il-1183
@@ -11,209 +11,146 @@ aliases:
   - federal-vs-state-crypto-bank
 domain: fintech
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
-confidence: likely
+confidence: certain
 tags: [fintech, regulatory, usa, 2025-reset, occ, bank-charter, anchorage, custodia, circle, bitwise, spdi]
 status: active
 sources:
-  - "https://occ.treas.gov/topics/charters-and-licensing/interpretations-and-actions/"
-  - "https://occ.treas.gov/news-issuances/news-releases (OCC press)"
-  - "https://occ.treas.gov/topics/charters-and-licensing/charters/index-charters.html"
-  - "https://home.treasury.gov/policy-issues/financial-markets-financial-institutions-and-fiscal-service/digital-assets"
-  - "https://www.federalreserve.gov/newsevents/pressreleases.htm"
-  - "https://wyomingbankingdivision.wyo.gov/banks-trust-companies/special-purpose-depository-institutions"
-  - "https://www.federalregister.gov/"
+  - "https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2025/int1183.pdf"
+  - "https://www.occ.treas.gov/news-issuances/news-releases/2025/nr-occ-2025-125.html"
+  - "https://www.occ.treas.gov/topics/charters-and-licensing/interpretations-and-decisions/index-interpretations-and-decisions.html"
+  - "https://www.occ.treas.gov/topics/charters-and-licensing/digital-assets-licensing-applications/index-digital-assets-licensing-applications.html"
+  - "https://www.occ.treas.gov/topics/charters-and-licensing/interpretations-and-actions/2026/cd1365.pdf"
+  - "https://occ.treas.gov/news-issuances/news-releases/2021/nr-occ-2021-6.html"
+  - "https://www.occ.treas.gov/topics/charters-and-licensing/interpretations-and-decisions/2026/scl2026-01.pdf"
+  - "https://www.supremecourt.gov/docket/docketfiles/html/public/26-62.html"
 ---
 
-# OCC National Bank Charter for Crypto Firms · 2025 Update
+# OCC National Trust Bank Charters for Digital-Asset Firms · 2025–2026 Verified Update
 
 ## TL;DR
 
-The 2025 Office of the Comptroller of the Currency (OCC) update creates a **clear federal pathway** for crypto firms to obtain national bank or national trust bank charters. **OCC Interpretive Letter 1183 (March 27 2025)** reaffirms the underlying crypto-custody, stablecoin-reserve, and node-operator powers established by IL 1170 / 1172 / 1174 (2020–2021), and **removes the IL 1179 (2021) requirement** for advance written non-objection from supervisors — replacing it with normal-course-of-business supervisory engagement. **Anchorage Digital Bank, N.A.** remains the only fully-chartered national digital-asset bank (chartered January 2021); under the new framework **Bitwise, Circle, Paxos, Bridge, Coinbase, Ripple, and Kraken** have filed or announced charter or trust-charter applications during 2025. **Custodia Bank's Wyoming SPDI** is the dominant state-chartered counter-pattern; the **federal vs Wyoming charter trade-off** turns on FedWire / Fed master account access (federal advantage) versus speed-to-charter and tailored crypto-native rule design (Wyoming advantage). The 2025 OCC posture restarts a charter pipeline that had been effectively closed since the original IL 1179 hold in 2021.
+OCC Interpretive Letter 1183 was issued on **March 7, 2025**, not March 27. It rescinded IL 1179's supervisory non-objection process and reaffirmed the permissibility, for OCC-supervised banks, of the activities described in IL 1170, 1172 and 1174. It did not itself approve a new charter or guarantee an applicant access to a Federal Reserve master account. The verified charter record changed materially later: the OCC conditionally approved five national trust bank applications on December 12, 2025 and granted Bridge National Trust Bank preliminary conditional approval on February 12, 2026. “Conditional approval,” “final approval to commence business,” and appearance in the active-institution register are separate statuses. In the separate Custodia litigation, Tenth Circuit merits and rehearing proceedings have ended, but a Supreme Court certiorari petition remains pending in No. 26-62 as of 2026-07-30.
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]] as the **2025 OCC update companion** to [[fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage|OCC trust-bank charter]] (the underlying mechanism note). Read it with [[fintech/regulatory-reset-2025-usa-crypto-policy|US 2025 regulatory reset]] for surrounding policy, with [[fintech/treasury-stablecoin-policy-2025|Treasury 2025 stablecoin framework]] for the Treasury-side coordination, and with [[fintech/genius-act-501-actual-implementation|GENIUS §501 implementation]] for the compliance overlay every chartered crypto bank must satisfy. For state-licensing context see [[exchanges/us-crypto-licensing-multi-layer-system|US crypto licensing multi-layer]].
+This entry sits under [[fintech/INDEX|fintech index]] as the evidence-first companion to [[fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage|OCC trust-bank charter]]. Read it with [[fintech/genius-act-501-actual-implementation|GENIUS Act implementation]] and [[exchanges/us-crypto-licensing-multi-layer-system|US crypto licensing multi-layer]].
 
 ## Why this entry exists
 
-The [[fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage|trust-bank charter]] note explained the **structural arbitrage** of an OCC charter for stablecoin issuers (state-MTL bypass, FedWire access, Fed master-account potential). This entry captures the **2025 charter-pipeline reality**: who has applied, who has been approved, what the **OCC IL 1183** clarification changed, how the **federal-vs-Wyoming-SPDI** trade-off plays out in practice, and what kinds of crypto firms now have a viable federal path that did not exist between 2021 and 2024. The two notes form a **mechanism-then-pipeline** pair.
+This entry separates four questions that are often collapsed: whether an activity is permissible for an OCC-supervised bank, whether the OCC has conditionally approved an application, whether the institution has received final authority to commence business, and whether another regulator or state law still applies. The source of truth for application and approval status is the OCC record, not an applicant's announcement.
 
 ## OCC charter background · the four-letter chain
 
-The OCC's authority to charter national banks and national trust banks for crypto activities rests on a chain of four interpretive letters issued between July 2020 and November 2021:
+The table below is based on [IL 1183 and the three letters it identifies](https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2025/int1183.pdf). These letters address activities of national banks and federal savings associations; they are not blanket licences for any crypto company.
 
 | Letter | Date | What it authorized |
 |---|---|---|
 | IL 1170 | 2020-07 | National banks may provide cryptocurrency custody services for customers |
 | IL 1172 | 2020-09 | National banks may hold reserves backing stablecoins |
 | IL 1174 | 2021-01 | National banks may use independent node verification networks and stablecoins for payment activities |
-| IL 1179 | 2021-11 | Activities under IL 1170–1174 require prior written supervisory non-objection (effectively put new charters on hold) |
+| IL 1179 | 2021-11 | Required a bank to obtain written supervisory non-objection before engaging in the activities described in IL 1170, 1172 or 1174 |
 
-IL 1179 was the **operational hold** that kept the charter pipeline largely frozen between 2021-Q4 and 2024-Q4. Under it, even an existing national bank wishing to engage in IL 1170 custody had to obtain advance written approval — a process that became **indefinitely slow** under the Biden-era OCC.
+IL 1179 changed the supervisory process for the specified activities. The letter did not state that all new charter applications were frozen, so this entry does not use “charter hold” as a legal status.
 
-The 2025 **OCC Interpretive Letter 1183** (March 27 2025):
+The 2025 **OCC Interpretive Letter 1183** (March 7, 2025):
 
 - **Reaffirms** IL 1170, 1172, and 1174 as continuing to state OCC's view of the permissibility of crypto custody, stablecoin reserves, and node-operator activities.
 - **Removes the IL 1179 prior-non-objection requirement** and replaces it with normal-course supervisory engagement (the regime that applies to every other permissible national-bank activity).
-- **Confirms** that crypto-custody-and-stablecoin activities are within the **business of banking** under 12 U.S.C. § 24(Seventh).
-- **Implicitly resumes the new-charter pipeline** that was operationally frozen 2021-Q4 to 2024-Q4.
+- States that the OCC will examine those activities through its ongoing supervisory process and expects safe, sound and fair conduct in compliance with applicable law.
 
-The combination of IL 1183 with the [[fintech/regulatory-reset-2025-usa-crypto-policy|surrounding 2025 reset]] (SAB 122 rescission, FDIC and Federal Reserve guidance withdrawals, the GENIUS Act statutory anchor) **converts the federal banking pathway from closed to open** within a 90-day window.
+IL 1183 does not set an application timeline, capital amount, approval presumption or Federal Reserve account entitlement.
 
 ## Anchorage Digital Bank · the precedent case
 
-**Anchorage Digital Bank, N.A.** is the only fully-chartered OCC national trust bank specifically designed around digital assets. Key facts:
+The OCC [conditionally approved Anchorage Trust Company's conversion](https://occ.treas.gov/news-issuances/news-releases/2021/nr-occ-2021-6.html) to Anchorage Digital Bank, N.A., a national trust bank, on January 13, 2021. The approval and operating agreement imposed institution-specific capital, liquidity, risk-management and BSA/AML conditions.
 
-- **Conditional approval**: January 13 2021 (final months of the first Trump administration).
-- **Charter category**: National Trust Bank.
-- **Headquartered**: South Dakota.
-- **Activities**: Crypto custody, settlement, transaction services, staking, trade execution, lending, and (subject to the new framework) stablecoin issuance.
-- **Restrictions**: No deposit-taking from the public in the conventional sense; trust bank category limits.
-- **Operational status**: Active throughout 2021–2026, including expansion of services under the post-2025 framework.
-
-Anchorage's significance is **structural rather than commercial**: it demonstrated that a national bank charter for a digital-asset-native business **is possible**, established the operational template for **federal supervision of a crypto custodian**, and provided the regulatory baseline against which subsequent applicants negotiate.
-
-Under the post-2025 framework, Anchorage's positioning has improved further: the **non-objection-removal** of IL 1183 reduces friction on incremental activities, and **GENIUS Act PPSI eligibility** opens stablecoin issuance as a service line. Anchorage's partnership with **Tether** in the announced **USAT** product (a US-compliant Tether-branded stablecoin) is one of the visible 2025-Q4 developments — see [[fintech/tether-business-model-short-treasury-yield|Tether business model]] for the broader Tether positioning.
+The OCC issued a consent order in 2022 over BSA/AML deficiencies. On February 9, 2026, it [terminated the 2021 operating agreement](https://www.occ.treas.gov/topics/charters-and-licensing/interpretations-and-decisions/2026/scl2026-01.pdf) after determining that the bank had complied with its actionable articles and that corrective actions were effective and sustainable. That termination does not establish that every proposed product is approved; product authority and any GENIUS Act issuer status must be checked separately.
 
 ## Custodia Bank · the Wyoming SPDI counter-pattern
 
-**Custodia Bank** (formerly Avanti Bank) operates under a **Wyoming Special Purpose Depository Institution (SPDI)** charter. Key facts:
+Custodia is a Wyoming-chartered special purpose depository institution (SPDI). The Federal Reserve Board [denied its membership application](https://www.federalreserve.gov/newsevents/pressreleases/orders20230127a.htm) in January 2023. On October 31, 2025, the Tenth Circuit [affirmed](https://www.ca10.uscourts.gov/sites/ca10/files/opinions/010111327582.pdf) that Reserve Banks have discretion to reject an otherwise eligible institution's master-account request, and rehearing was denied on March 13, 2026. Those appellate-court proceedings are complete. Separately, the [Supreme Court docket for No. 26-62](https://www.supremecourt.gov/docket/docketfiles/html/public/26-62.html) records a certiorari petition filed July 10 and docketed July 14, 2026, with a response due August 13. The petition—not the Tenth Circuit appeal—is pending as of 2026-07-30.
 
-- **SPDI charter**: Granted by Wyoming Division of Banking, 2020-10.
-- **Federal Reserve master-account application**: Filed 2020; denied by Federal Reserve 2023-Q1; litigation continuing.
-- **OCC charter approach**: Not pursued; Custodia chose the state SPDI route.
-- **Activities**: Crypto custody, settlement, payments — but **without Fed master-account access**, which limits direct US-dollar settlement capability.
+The following comparison is grounded in the [OCC charter decisions](https://www.occ.treas.gov/topics/charters-and-licensing/interpretations-and-decisions/index-interpretations-and-decisions.html), the [Wyoming SPDI description](https://wyomingbankingdivision.wyo.gov/banks-and-trust-companies/special-purpose-depository-institutions), the Tenth Circuit opinion and the Supreme Court docket. It deliberately omits generic approval times, capital ranges and political ratings because those depend on the application and conditions.
 
-The **federal-vs-Wyoming trade-off** can be summarized:
-
-| Dimension | OCC national charter | Wyoming SPDI |
+| Dimension | OCC national trust bank | Wyoming SPDI |
 |---|---|---|
-| Approval timeline | 18–36 months | 6–12 months historically |
-| FedWire / FedNow access | Available | Indirect via correspondent bank |
-| Fed master account | Available subject to Federal Reserve approval | Contested |
-| State MTL bypass | Yes (federal supremacy) | Partial; multi-state activity still requires per-state analysis |
-| Capital requirements | Higher | Lower |
-| Permissible activities scope | Broad | Wyoming-defined, including 108% reserve requirement |
-| Resolution authority | FDIC (insured deposits) + OCC | Wyoming + FDIC if insured |
-| Political stability | Federal — changes with administration | State — more stable but smaller political base |
+| Chartering authority | OCC under federal banking law | Wyoming Division of Banking under Wyoming law |
+| Permitted scope | Trust-company operations and related activities specified in the charter, business plan and conditions | Fully reserved banking plus activities permitted by Wyoming law; fiat customer deposits must be backed 100% or more by unencumbered liquid assets |
+| Deposit insurance | May be uninsured; verify the institution record | FDIC insurance is not required by Wyoming for an SPDI, though an SPDI may seek it |
+| Reserve Bank account | Not created by an OCC conditional approval; Federal Reserve requirements and any application still matter | Statutory eligibility did not compel access in Custodia; the Tenth Circuit upheld Reserve Bank discretion, and a certiorari petition is pending |
+| State licensing | Federal pre-emption is activity- and law-specific; verify current OCC interpretation and the product | State-by-state licensing and exemptions remain a separate analysis |
+| Stablecoin issuance | Requires authority in the charter/business plan plus compliance with applicable stablecoin law and conditions | Wyoming charter status alone does not prove federal GENIUS Act issuer status or nationwide offering authority |
 
-**The critical operational divider is the Federal Reserve master account.** Without it, a stablecoin issuer or crypto bank cannot settle directly in central-bank money, must rely on correspondent banks, and accepts a settlement-latency penalty that materially affects products like stablecoin redemption and on-ramp / off-ramp pricing. Custodia's denial — and the ongoing Custodia v. Federal Reserve litigation — is the **single most-watched legal proceeding** for the federalism question in the crypto-bank space.
+## Verified OCC decisions · status as of July 2026
 
-Wyoming SPDI remains attractive for:
+The rows below come from the OCC's [December 12, 2025 release](https://www.occ.treas.gov/news-issuances/news-releases/2025/nr-occ-2025-125.html), [Bridge decision](https://www.occ.treas.gov/topics/charters-and-licensing/interpretations-and-actions/2026/cd1365.pdf), and [interpretations-and-decisions index](https://www.occ.treas.gov/topics/charters-and-licensing/interpretations-and-decisions/index-interpretations-and-decisions.html). They describe OCC actions, not an inference about when each institution may begin every proposed activity.
 
-- crypto-native firms prioritizing **speed-to-charter** over Fed access;
-- firms with **smaller scale** for which correspondent-bank settlement is acceptable;
-- firms positioning for **future M&A** by larger federally-chartered acquirers;
-- firms that explicitly **value Wyoming legal certainty** around digital-asset definitions (Wyoming has the most developed state-level digital-asset legal framework in the US).
-
-## 2025 charter pipeline · who has applied
-
-| Applicant | Charter target | Status (Q1 2026) | Public rationale |
+| Institution | OCC action | Decision date | What the record establishes |
 |---|---|---|---|
-| Anchorage Digital Bank | Already chartered | Active; expanding services | Federal supervision baseline |
-| Custodia Bank | Wyoming SPDI; OCC not pursued | Active under Wyoming; Federal Reserve case continuing | Speed-to-charter; Wyoming legal certainty |
-| Bitwise | National trust bank charter (filed 2025-Q2) | Filed | Custodian-of-record for spot-crypto ETFs |
-| Circle | National trust bank charter (filed 2025-Q3) | Filed | PPSI eligibility and FedWire access for USDC |
-| Paxos | National trust bank charter (existing limited; expansion filed 2025-Q3) | Existing charter; expansion pending | PPSI eligibility for USDG |
-| Bridge (Stripe subsidiary) | OCC trust-bank conditional approval (granted 2026-02) | Conditional approval received | Stablecoin platform — see [[fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage|trust-bank charter]] |
-| Coinbase | National trust bank charter (filed 2025-Q4) | Filed | Custody + PPSI optionality for USDC service |
-| Ripple | National trust bank charter (filed 2025-Q3) | Filed | PPSI eligibility for RLUSD — see [[fintech/ripple-rlusd-stablecoin|RLUSD]] |
-| Kraken | National trust bank charter (filed 2025-Q4) | Filed | Custody + future PPSI optionality |
-| Robinhood | Considering | Under evaluation 2026-Q1 | Custody + future PPSI optionality |
-| Galaxy Digital | Considering | Under evaluation | Custody for institutional clients |
-| Other (institutional custodians) | Multiple under evaluation | | |
+| First National Digital Currency Bank, N.A. | Preliminary conditional approval for a new national trust bank | 2025-12-12 | Conditional approval; final approval to commence business remains a separate step |
+| Ripple National Trust Bank, N.A. | Preliminary conditional approval for a new national trust bank | 2025-12-12 | Conditional approval subject to the OCC's stated conditions |
+| BitGo Bank & Trust, N.A. | Conditional approval to convert a state trust company | 2025-12-12 | Conversion approval subject to conditions and completion requirements |
+| Fidelity Digital Assets, N.A. | Conditional approval to convert a state trust company | 2025-12-12 | Conversion approval subject to conditions and completion requirements |
+| Paxos Trust Company, N.A. | Conditional approval to convert a state trust company | 2025-12-12 | Conversion approval subject to conditions and completion requirements |
+| Bridge National Trust Bank, N.A. | Preliminary conditional approval for a new national trust bank | 2026-02-12 | Preliminary conditional approval, not by itself final authority to commence business |
 
-The **2025-Q3 filing surge** reflects the **GENIUS Act statutory clarity** plus the **IL 1183 procedural unlock**. The OCC application backlog as of Q1 2026 is reportedly the **largest single-quarter charter-application stack** in the agency's modern history for any single business category.
+The OCC also maintains a [digital-assets licensing-applications page](https://www.occ.treas.gov/topics/charters-and-licensing/digital-assets-licensing-applications/index-digital-assets-licensing-applications.html). A pending application, preliminary conditional approval, final approval, completed conversion and active-institution listing should not be treated as interchangeable statuses. This entry therefore omits unverified applicant counts, backlog records and projected approval dates.
 
-## What an OCC national trust bank charter delivers post-2025
+## What a national trust charter does—and does not—establish
 
-Under the post-2025 framework, an OCC national trust bank charter delivers:
+An OCC approval establishes the trust-company powers, related activities and conditions described in the decision, operating agreement and approved business plan. It does not create an unrestricted federal “crypto bank” licence.
 
-1. **PPSI eligibility** for stablecoin issuance under GENIUS (subject to §6 supervisory standards and §501 denylist capability).
-2. **Crypto custody authority** under IL 1170 / IL 1183 without per-engagement non-objection.
-3. **Stablecoin reserve management** under IL 1172 / IL 1183.
-4. **Node operator authority** under IL 1174 / IL 1183.
-5. **FedWire access** (subject to Federal Reserve approval) for direct USD settlement.
-6. **Potential Fed master account** (Federal Reserve discretion).
-7. **State MTL bypass** via federal supremacy.
-8. **Federal supervisory framework** — single regulator (OCC) rather than 48–50 state regulators.
-9. **Recognized institutional credibility** for ETF custodianship, institutional-client onboarding, and corporate-treasury services.
+- **Custody and payment activities:** IL 1170, 1172 and 1174 address activities that OCC-supervised banks may conduct, subject to safe-and-sound operation and applicable law. IL 1183 removed the special IL 1179 prior-non-objection process; it did not remove ordinary supervision.
+- **Stablecoin issuance:** status as a permitted payment stablecoin issuer under the [GENIUS Act](https://www.congress.gov/119/plaws/publ27/PLAW-119publ27.pdf) is a separate statutory and supervisory question. The OCC's [2026 proposed implementation rule](https://www.occ.treas.gov/news-issuances/bulletins/2026/bulletin-2026-3.html) was a proposal, not proof that any named institution had completed all issuer-approval steps.
+- **Federal Reserve services:** an OCC charter or conditional approval does not automatically supply a master account or Fedwire access. Federal Reserve eligibility, review and any separate application remain relevant.
+- **State law:** federal pre-emption is specific to the institution, activity and state-law requirement. The OCC's current interpretations and the actual product footprint must be checked; “one charter replaces every state licence” is too broad.
+- **Deposit insurance:** a national trust bank may be uninsured. Charter status is not evidence that customer balances or stablecoin reserves are FDIC-insured.
 
-The combination is the **closest thing to a federal stablecoin-bank charter** that exists in US law absent further GENIUS-Act-style legislation specifically creating a new charter category. For the GENIUS dual-track context see [[fintech/treasury-stablecoin-policy-2025|Treasury 2025 stablecoin framework]].
+## OCC IL 1183 · exact scope
 
-## OCC IL 1183 · what it actually clarifies
+[IL 1183](https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2025/int1183.pdf) is a one-page interpretive letter. It:
 
-IL 1183 is a **compact, three-page letter** that sets out four supervisory positions:
+1. rescinds IL 1179;
+2. reaffirms IL 1170, 1172 and 1174;
+3. states that OCC-supervised banks may engage in the activities addressed by those letters without obtaining supervisory non-objection first; and
+4. says the OCC will examine those activities through its normal supervisory process.
 
-1. **Reaffirms** the existing crypto-custody / stablecoin-reserve / node-operator authorities are within the business of banking.
-2. **Withdraws** the IL 1179 prior-supervisory-non-objection requirement.
-3. **Confirms** that the underlying activities **do not require new express statutory authority** — they fit within existing 12 U.S.C. § 24(Seventh) "business of banking" and § 27 fiduciary-trust powers.
-4. **Frames** ongoing supervision through normal examination cycles rather than per-activity non-objection.
+The letter does not create a new charter category, approve a particular application, prescribe an application timetable, grant Federal Reserve access, decide deposit-insurance treatment or waive institution-specific capital, liquidity, governance, BSA/AML and risk-management conditions.
 
-It is **deliberately narrow**. It does **not**:
+## Federal and state paths are separate legal products
 
-- create a new charter category;
-- authorize new activities beyond IL 1170 / 1172 / 1174;
-- pre-judge any particular charter applicant;
-- modify capital, liquidity, or governance requirements;
-- override Federal Reserve master-account discretion;
-- override FDIC insurance-eligibility analysis.
+The comparison below is grounded in the OCC decisions above, the [Wyoming SPDI framework](https://wyomingbankingdivision.wyo.gov/banks-and-trust-companies/special-purpose-depository-institutions), and the [NYDFS virtual-currency framework](https://www.dfs.ny.gov/virtual_currency_businesses). It is not a speed, cost or approval-probability ranking.
 
-What IL 1183 changes is the **operational friction** that IL 1179 added to the underlying authorities. The shift is from **"may engage, subject to advance non-objection"** to **"may engage, subject to normal-course supervisory engagement"** — a meaningful re-classification because OCC's normal-course examination cycle is **routine and predictable**, while IL 1179 non-objection was **discretionary and effectively indefinite** under the prior administration.
-
-## State-chartered trust company arbitrage
-
-Outside the OCC national trust bank pathway and the Wyoming SPDI pathway, several state-chartered trust company options exist. These are the **legacy** pathway used by Coinbase Custody Trust (NYDFS limited-purpose trust company), Gemini Trust Company (NYDFS), BitGo (South Dakota and New York), and others.
-
-| State | Charter type | Strengths | Weaknesses |
-|---|---|---|---|
-| New York | Limited-purpose trust company (under NYDFS) | Established framework; institutional credibility | NYDFS BitLicense overhead; restrictive listing process |
-| South Dakota | Trust company | Fast approval; tax-friendly | Smaller political base |
-| Nevada | Trust company | Flexible | Less institutional recognition |
-| Wyoming | SPDI (depository) or trust company | Digital-asset-native legal framework | No Federal Reserve master account |
-| Texas | Trust company under DOB | Active 2025 framework expansion | Less established for crypto |
-| Nebraska | Digital-asset depository institution | Bespoke 2021 framework | Limited scale |
-
-The **arbitrage question** is whether a **state-chartered trust company plus a federal-regulator partnership** can deliver most of what an OCC charter delivers without the OCC approval timeline. The answer historically was "yes for custody, no for FedWire / Fed master account." The 2025 reset narrows but does not eliminate the gap: federal-banking-relationships are easier for state-chartered crypto trust companies (post-SAB 122, post-FDIC guidance withdrawal, post-Federal Reserve SR 22-6 rescission), but **direct Federal Reserve master-account access** continues to favor the OCC national charter route.
-
-For the broader state-licensing context see [[exchanges/us-crypto-licensing-multi-layer-system|US crypto licensing multi-layer]] and [[fintech/global-stablecoin-regulatory-five-pole-matrix|five-pole matrix]] for the international comparison.
-
-## How the OCC pathway interacts with the broader 2025 reset
-
-The OCC pathway is the **banking-side** of the reset, complementary to:
-
-- **SEC-side reset** — enforcement rollback and the Atkins/Peirce posture ([[fintech/cftc-sec-crypto-jurisdiction|CFTC vs SEC]] and [[business/hester-peirce-sec-regulatory-pivot-case|Hester Peirce pivot]]).
-- **Treasury-side framework** — PWG-DAM recommendations, reserve composition, MRA work ([[fintech/treasury-stablecoin-policy-2025|Treasury 2025 framework]]).
-- **Statutory anchor** — GENIUS Act PPSI charter, §501 denylist mandate ([[fintech/genius-act-501-denylist-mandate|GENIUS §501]] and [[fintech/genius-act-501-actual-implementation|§501 implementation]]).
-- **Federal Reserve posture** — SR 22-6 rescission, openness on master accounts subject to standard analysis.
-- **FDIC posture** — FIL withdrawals, deposit-insurance analysis for stablecoin reserves.
-
-Without all five legs, the OCC pathway would have re-opened formally but operated narrowly. With all five legs, OCC charters become a **strategic asset** for crypto firms operating at scale, and the **Bridge / Stripe** acquisition pattern (see [[fintech/regulatory-window-strategic-acquisition|regulatory window M&A]]) becomes a repeatable template.
-
-## Market consequences
-
-The OCC pathway reopening produced a measurable market response:
-
-| Surface | Pre-2025 | Post-2025 |
+| Path | Charter or authorization | Verified boundary |
 |---|---|---|
-| Active OCC national charters for crypto firms | 1 (Anchorage) | 1 active + 1 conditional (Bridge) + 6–10 pending |
-| State-only crypto trust companies | ~12 across NYDFS, SD, NV, WY, NE | Stable, with several seeking federal upgrade |
-| Wyoming SPDI charters | 2 (Custodia, Kraken Bank) | Stable; no new approvals while Custodia litigation pends |
-| Federal Reserve master-account approvals for digital-asset banks | 1 (Anchorage) | 1 active; multiple applications pending |
-| State-MTL exposure for federally-chartered crypto banks | Theoretical bypass; not tested at scale | Active bypass realized in practice |
-| Strategic M&A around charter holders | Limited | Active (Stripe/Bridge as template) |
+| OCC national trust bank | Federal national trust-bank charter or conversion | Powers and conditions are decision-specific; a conditional approval is not automatically final authority to commence business |
+| Wyoming SPDI | State depository charter under Wyoming law | Wyoming requires fiat customer deposits to be backed by at least 100% unencumbered liquid assets; Federal Reserve access remains a separate question |
+| New York virtual-currency business | BitLicense or New York banking-law charter with DFS approval | Authorization and approved activities are entity-specific; a New York authorization is not an OCC charter |
 
-For the M&A pattern see [[fintech/regulatory-window-strategic-acquisition|regulatory window M&A]]; for the network-neutrality investment pattern that runs in parallel see [[fintech/wall-street-crypto-network-neutrality|Wall Street network neutrality]].
+The choice among these paths cannot be reduced to a generic “regulatory arbitrage” score. Product scope, deposit-taking, custody structure, geographic reach, reserve model and access to payment rails have to be tested against the actual charter and licences.
+
+## Verification checklist
+
+Before describing a firm as a federally chartered digital-asset bank or stablecoin issuer:
+
+1. check the OCC decision and its date;
+2. distinguish preliminary or conditional approval from final approval to commence business;
+3. check the OCC active-institution record and any subsequent order or operating agreement;
+4. verify that the proposed activity is within the approved business plan and conditions;
+5. verify any separate GENIUS Act issuer approval or rule requirement;
+6. check Federal Reserve access independently; and
+7. test state licensing and pre-emption product by product.
+
+For the broader state-licensing context see [[exchanges/us-crypto-licensing-multi-layer-system|US crypto licensing multi-layer]] and [[fintech/global-stablecoin-regulatory-five-pole-matrix|five-pole matrix]].
 
 ## Related
 
 - [[fintech/INDEX|fintech index]]
 - [[fintech/regulatory-reset-2025-usa-crypto-policy|US 2025 regulatory reset]]
-- [[fintech/genius-act-501-denylist-mandate|GENIUS §501 mandate]]
-- [[fintech/genius-act-501-actual-implementation|GENIUS §501 actual implementation]]
+- [[fintech/genius-act-501-actual-implementation|GENIUS Act enacted-text implementation]]
 - [[fintech/treasury-stablecoin-policy-2025|Treasury 2025 stablecoin framework]]
 - [[fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage|OCC trust-bank charter (mechanism)]]
 - [[fintech/cftc-sec-crypto-jurisdiction|CFTC vs SEC jurisdiction]]
@@ -234,13 +171,17 @@ For the M&A pattern see [[fintech/regulatory-window-strategic-acquisition|regula
 
 ## Sources
 
-- OCC interpretive letters and actions: https://occ.treas.gov/topics/charters-and-licensing/interpretations-and-actions/
-- OCC news releases: https://occ.treas.gov/news-issuances/news-releases
-- OCC charters database: https://occ.treas.gov/topics/charters-and-licensing/charters/index-charters.html
-- Treasury digital assets policy: https://home.treasury.gov/policy-issues/financial-markets-financial-institutions-and-fiscal-service/digital-assets
-- Federal Reserve press releases: https://www.federalreserve.gov/newsevents/pressreleases.htm
-- Wyoming Banking Division SPDI page: https://wyomingbankingdivision.wyo.gov/banks-trust-companies/special-purpose-depository-institutions
-- Federal Register filings: https://www.federalregister.gov/
-- Anchorage Digital Bank OCC conditional approval letter (January 2021)
-- OCC Interpretive Letter 1170 (July 2020), IL 1172 (September 2020), IL 1174 (January 2021), IL 1179 (November 2021), IL 1183 (March 2025)
-- GENIUS Act statutory text (Public Law as enacted July 2025)
+- [OCC Interpretive Letter 1183 (March 7, 2025)](https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2025/int1183.pdf)
+- [OCC conditionally approves five national trust banks (December 12, 2025)](https://www.occ.treas.gov/news-issuances/news-releases/2025/nr-occ-2025-125.html)
+- [Bridge National Trust Bank preliminary conditional approval (February 12, 2026)](https://www.occ.treas.gov/topics/charters-and-licensing/interpretations-and-actions/2026/cd1365.pdf)
+- [OCC digital-assets licensing applications](https://www.occ.treas.gov/topics/charters-and-licensing/digital-assets-licensing-applications/index-digital-assets-licensing-applications.html)
+- [OCC interpretations and decisions index](https://www.occ.treas.gov/topics/charters-and-licensing/interpretations-and-decisions/index-interpretations-and-decisions.html)
+- [Anchorage conversion conditional approval (January 13, 2021)](https://occ.treas.gov/news-issuances/news-releases/2021/nr-occ-2021-6.html)
+- [Anchorage operating-agreement termination (February 9, 2026)](https://www.occ.treas.gov/topics/charters-and-licensing/interpretations-and-decisions/2026/scl2026-01.pdf)
+- [Federal Reserve denial of Custodia membership application (January 27, 2023)](https://www.federalreserve.gov/newsevents/pressreleases/orders20230127a.htm)
+- [Tenth Circuit opinion in Custodia Bank v. Federal Reserve (October 31, 2025)](https://www.ca10.uscourts.gov/sites/ca10/files/opinions/010111327582.pdf)
+- [U.S. Supreme Court docket No. 26-62, Custodia Bank, Inc. v. Federal Reserve Board of Governors, et al.](https://www.supremecourt.gov/docket/docketfiles/html/public/26-62.html)
+- [Wyoming Division of Banking SPDI framework](https://wyomingbankingdivision.wyo.gov/banks-and-trust-companies/special-purpose-depository-institutions)
+- [NYDFS virtual-currency business framework](https://www.dfs.ny.gov/virtual_currency_businesses)
+- [GENIUS Act, Public Law 119-27](https://www.congress.gov/119/plaws/publ27/PLAW-119publ27.pdf)
+- [OCC Bulletin 2026-3: proposed GENIUS Act implementation rule](https://www.occ.treas.gov/news-issuances/bulletins/2026/bulletin-2026-3.html)

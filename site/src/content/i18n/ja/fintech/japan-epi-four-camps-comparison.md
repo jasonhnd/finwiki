@@ -1,56 +1,52 @@
 ---
 source: fintech/japan-epi-four-camps-comparison
-source_hash: dfe5e271a5fa6051
+source_hash: 4d48dbd1752ee1b9
 lang: ja
 status: machine
 fidelity: ok
-title: "日本 SC 4 陣営対比 · §501(d) 視点下で SBI Circle = #1"
-translated_at: 2026-06-18T23:59:13.071Z
+title: "日本 SC 4 ルート比較 · 発行者 / 流通業者 / 基盤 / 実証"
+translated_at: 2026-07-30T02:10:00+09:00
 ---
 
-# 日本 SC 4 陣営対比 · §501(d) 視点下で SBI Circle = #1
+# 日本 SC 4 ルート比較 · 発行者 / 流通業者 / 基盤 / 実証
 
-## ウィキ経路
+## ウィキ上の位置づけ
 
-本項目は [[fintech/INDEX|fintech index]] の下に位置する。隣接する文脈は [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] と、より広いシステムの境界は [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] と併せて読むこと。
+この項目は [[fintech/INDEX|fintech index]] 配下で、日本のステーブルコイン関連プロジェクトを、法的役割と現在の実装段階で比較する。制度の発行経路は [[fintech/japan-epi-three-types-overview|日本 EPI 三型アーキテクチャ]]、発行者・流通業者・基盤の区別は [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造]] と併読する。
 
-> [!info] TL;DR
-> 日本 SC 4 陣営構図:Progmat（信託型 · 3 大行）/ JPYC（資金移動業者型 · 岡部典孝）/ SBI Circle Holdings（USDC 独占 · 北尾吉孝）/ みんなの銀行（銀行型 Solana · 永吉健一）。**§501(d) 司法管轄区リスト視点下で再順位付け:SBI Circle Holdings = #1**、なぜなら同社はクロスボーダー準拠の覇者 USDC ↔ JPYC の唯一経路だから。Project Pax は §501(d) を解決せず、SWIFT 互換性のみを解決する。
+> [!info] 要約
+> 「4 陣営」は法令上の分類ではない。2026-07-30 時点で比較できるのは、(1) JPYC の資金移動業者型発行、(2) SBI VC トレードによる登録済み電子決済手段の流通、(3) Progmat / Project Pax の基盤・銀行実証、(4) みんなの銀行の Solana 上での共同検討という、役割と実装段階の異なる四つのルートである。SBI Circle Holdings は USDC 普及のための合弁会社だが、金融庁一覧上の登録業者は SBI VC トレードであり、両社を同一主体として扱わない。米 GENIUS Act による日本商品の自動承認や公式順位表は存在しない。
 
-## 主要事実
+## 現在のマップ
 
-- 4 陣営:Progmat / JPYC / SBI-Circle / みんなの銀行 ^[extracted]
-- Progmat 2028 目標:1 兆円 ^[extracted]
-- JPYC 2028 目標:3 年で 10 兆円 ^[extracted]
-- SBI Circle Holdings 2025-08 設立 · 50/50 折半出資 · USDC の日本における独占販売 ^[extracted]
-- §501(d) 視点下で SBI-Circle 評価が #3 から #1 ★★★★★ に上昇 ^[likely]
-- Progmat は #1 から #3 ★★★ に下降 ^[likely]
-- Project Pax = §501(d) を解決せず · SWIFT 互換性のみを解決 ^[extracted]
-- 主要人物:岡部典孝（JPYC）· 北尾吉孝（SBI HD）· 永吉健一（みんなの銀行）· 齊藤達哉（Progmat）^[extracted]
-
-## メカニズム / 仕組み
-
-**4 陣営詳細**:
-| 陣営 | 種別 | 主導者 | 主要人物 | 2028 目標 |
-|---|---|---|---|---|
-| Progmat | 信託型 | 三菱 UFJ + 三井住友 + みずほ + Datachain | （3 大行連合） | 1 兆円 |
-| JPYC | 資金移動業者型 | JPYC 株式会社 | 岡部典孝 | 3 年で 10 兆円 |
-| SBI-Circle | USDC 独占 + JPYSC | SBI Circle Holdings（2025-08 設立 50/50） | 北尾吉孝 | 独立陣営 |
-| みんなの銀行 | 銀行型 Solana ルート | 福岡 FG / みんなの銀行 | 永吉健一 | 未公表 |
-
-**§501(d) 視点下で再順位付け**:
-| 陣営 | §501 入榜後のポジション | v1 評価 | v2 評価 |
+| ルート | 法的・実務上の役割 | 2026-07-30 時点で確認できる状態 | 確認時の注意 |
 |---|---|---|---|
-| SBI Circle Holdings | クロスボーダー準拠の覇者 USDC ↔ JPYC | #3 | #1 ★★★★★ |
-| JPYC | 日本リテール準拠の首位 | #2 | #2 ★★★★ |
-| Progmat | B2B 大口 · クロスボーダー準拠なし | #1 | #3 ★★★ |
-| みんなの銀行 | 純国内リテール | #4 | #4 ★★ |
+| **[[payment-firms/jpyc\|JPYC]]** | JPYC 株式会社が資金移動業者型の円建て電子決済手段を発行・償還 | 関東財務局長 第00099号。2025-10-27 に JPYC と発行・償還窓口 JPYC EX の提供を開始 | 旧 JPYC Prepaid は前払式支払手段であり、電子決済手段 JPYC とは別商品 |
+| **SBI VC トレード / SBI Circle Holdings** | SBI VC トレードは電子決済手段等取引業者。SBI Circle Holdings は SBI と Circle の USDC 普及合弁 | 金融庁一覧の登録業者は SBI VC トレード（関東財務局長 第00001号）1 社で、取扱欄は USDC・RLUSD・JPYSC。SBI Circle Holdings は 2025-08 設立 | 合弁会社、登録流通業者、USDC 発行者 Circle、RLUSD 発行者 Standard Custody、JPYSC 発行者 SBI 新生信託銀行を分ける |
+| **[[payment-firms/progmat\|Progmat]] / Project Pax** | Progmat Coin とクロスボーダー送金基盤を提供し、銀行・信託銀行・Datachain 等が案件ごとの役割を担う | 2025-11 公表の共同発行・クロスボーダー決済は金融庁 FinTech 実証実験ハブの支援案件。商用発行の一括認可ではない | Progmat はプラットフォーム提供者であり、すべてのコインの法的発行者ではない |
+| **みんなの銀行** | 銀行アプリ、Web3 ウォレット、Solana 上のステーブルコイン活用を検討 | 2025-07 に Solana Japan、Fireblocks、TIS と事業化に向けた共同検討を開始 | 技術検証・ユースケース検討を、発行済み商品や登録済み流通サービスと同一視しない |
 
-**コアロジック**:§501(d) 入榜リスト視点下では、**クロスボーダー準拠能力 > 国内規模**。SBI Circle Holdings の USDC 独占販売は §501(d) 米ドル圏との自動接続を意味し、これは [[payment-firms/progmat|Progmat]] / [[payment-firms/jpyc|JPYC]] / みんなの銀行いずれも具備しない能力である。Project Pax の 3 大行クロスボーダー SC プロジェクトは SWIFT 互換性（技術層）のみを解決し、§501(d) コンプライアンス（法律層）は解決しない。
+出典: 金融庁の [電子決済手段等取引業者一覧](https://www.fsa.go.jp/menkyo/menkyoj/denshikessaisyudan.xlsx) と [資金移動業者一覧](https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf)（2026-07-30 閲覧）、[JPYC 正式リリース](https://corporate.jpyc.co.jp/news/posts/jpyc-ex-launch)、[SBI Circle Holdings 設立](https://www.sbigroup.co.jp/news/2025/0822_15679.html)、[SBI VC トレード契約締結前交付書面](https://www.sbivc.co.jp/assets/docs/manual_tt.pdf)、[Progmat の共同実証公表](https://progmat.co.jp/wp-content/uploads/2025/11/20251106_%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9_%E3%80%8C%E8%A4%87%E6%95%B0%E3%81%AE%E9%8A%80%E8%A1%8C%E3%81%AB%E3%82%88%E3%82%8B%E5%85%B1%E5%90%8C%E3%81%A7%E3%81%AE%E3%82%B9%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E3%82%B3%E3%82%A4%E3%83%B3%E7%99%BA%E8%A1%8C%E3%81%A8%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC%E6%B1%BA%E6%B8%88%E3%81%AE%E9%AB%98%E5%BA%A6%E5%8C%96%E3%81%AB%E4%BF%82%E3%82%8B%E3%80%8D.pdf)、[みんなの銀行の共同検討](https://corporate.minna-no-ginko.com/information/corporate/2025/07/04/696/)。
 
-## 起源と進化
+## 順位を付けない理由
 
-2023-06 EPI 3 型発効 → 2024 年 3 大行 Progmat XJPY + JPYC 流通量同時成長 → 2025-08 SBI Circle Holdings 50/50 合弁設立で構図変化 → 2026-Q1 JPYC 流通量 21 億円 + 6 万 holders + 3 か月で 2.6 倍成長 → 2026-05 §501(d) 視点下で SBI-Circle が #1 に上昇。2028 最終構図予測:SBI-Circle クロスボーダー + JPYC リテール + Progmat 大口 B2B + みんなの銀行 地域。日本ライセンス体系総覧は [[financial-licenses/INDEX|日本金融ライセンス索引]] を参照。
+この四つは同じ競争単位ではない。JPYC は発行・償還を行う主体、SBI VC トレードは登録流通業者、Progmat は基盤提供者、みんなの銀行の案件は検討・実証段階である。したがって、流通量、目標値、代表者名、チェーン選択を一つの点数にまとめて「第 1 位」を決めると、規制上の役割と実装段階を混同する。
+
+また、金融庁一覧への掲載は、金融庁自身が価値を保証または推奨することを意味しない。登録番号、取扱銘柄、発行主体は更新され得るため、一覧の取得日を併記する。
+
+## 米国法は日本向けの自動ルートを作らない
+
+米 GENIUS Act（Public Law 119-27）に「§501(d) 入榜リスト」はない。外国発行者・外国制度に関係する比較可能性判断と登録手続は主に section 18 にあり、財務長官による判断、外国発行者の OCC 登録、準備資産・監督・AML 等の条件を伴う。二国間の相互取決めも公表手続を要し、USDC を日本で取り扱うだけで JPYC や他の日本円建て商品が米国で自動承認されるわけではない。
+
+出典: [Public Law 119-27, sections 18 and 20](https://www.govinfo.gov/content/pkg/PLAW-119publ27/pdf/PLAW-119publ27.pdf)。
+
+## 検証順序
+
+1. 発行者と発行根拠を確認する。
+2. 流通・交換・管理を行う登録業者を金融庁一覧で確認する。
+3. 基盤提供者、受託者、銀行、ウォレット提供者の役割を分ける。
+4. 「検討」「実証」「発行開始」「一般提供」を別の状態として記録する。
+5. 越境利用は相手国の発行者・流通・登録要件を別途確認する。
 
 ## 関連
 <!-- wiki-links:managed -->
@@ -58,7 +54,16 @@ translated_at: 2026-06-18T23:59:13.071Z
 - [[fintech/japan-epi-three-types-overview|日本 EPI 3 型アーキテクチャ概観]]
 - [[fintech/jp-trust-type-sc-architecture|日本信託型 SC アーキテクチャ]]
 - [[fintech/jurisdiction-list-monetary-protectionism|司法区リスト通貨保護主義]]
-- [[fintech/three-circles-stablecoin-mra-framework|3 圏 MRA フレームワーク]]
+- [[fintech/three-circles-stablecoin-mra-framework|米国・EU・日本のステーブルコイン市場アクセス比較]]
 <!-- /wiki-links:managed -->
 
 ## 出典
+
+- 金融庁 電子決済手段等取引業者一覧: https://www.fsa.go.jp/menkyo/menkyoj/denshikessaisyudan.xlsx
+- 金融庁 資金移動業者一覧: https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf
+- JPYC 正式リリース: https://corporate.jpyc.co.jp/news/posts/jpyc-ex-launch
+- SBI Circle Holdings 設立: https://www.sbigroup.co.jp/news/2025/0822_15679.html
+- SBI VC トレード 契約締結前交付書面: https://www.sbivc.co.jp/assets/docs/manual_tt.pdf
+- Progmat 共同実証: https://progmat.co.jp/wp-content/uploads/2025/11/20251106_%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9_%E3%80%8C%E8%A4%87%E6%95%B0%E3%81%AE%E9%8A%80%E8%A1%8C%E3%81%AB%E3%82%88%E3%82%8B%E5%85%B1%E5%90%8C%E3%81%A7%E3%81%AE%E3%82%B9%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E3%82%B3%E3%82%A4%E3%83%B3%E7%99%BA%E8%A1%8C%E3%81%A8%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC%E6%B1%BA%E6%B8%88%E3%81%AE%E9%AB%98%E5%BA%A6%E5%8C%96%E3%81%AB%E4%BF%82%E3%82%8B%E3%80%8D.pdf
+- みんなの銀行 共同検討: https://corporate.minna-no-ginko.com/information/corporate/2025/07/04/696/
+- Public Law 119-27: https://www.govinfo.gov/content/pkg/PLAW-119publ27/pdf/PLAW-119publ27.pdf
