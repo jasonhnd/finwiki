@@ -3,8 +3,8 @@ title: "ミュンヘン再保険日本支店"
 aliases: ["Munich Re Japan", "Munich Reinsurance Japan", "Münchener Rück Japan", "ミュンヘン再保険", "Munich Re Japan Branch"]
 domain: non-life-insurers
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, insurance, reinsurance, foreign-affiliated, non-life-insurance, operating-company]
@@ -26,6 +26,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 ミュンヘン再保険会社（Munich Reinsurance Company / Münchener Rückversicherungs-Gesellschaft, DAX 上場）の日本支店。**世界最大級の再保険会社** の Japan branch として、金融庁の損害保険会社免許一覧（外国損害保険会社等）に掲載される。日本の元受損保（[[non-life-insurers/tokio-marine-nichido-fire]] / [[non-life-insurers/mitsui-sumitomo-insurance]] / [[non-life-insurers/sompo-japan-insurance]] 等）と生保のリスクをグローバル資本で吸収する役割を担い、特に巨大自然災害（地震・台風・水害）と生保長寿リスクの引受で重要。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (munichre.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:munichre.com; fsa.go.jp]
 
 | Item | Notes |
 |---|---|

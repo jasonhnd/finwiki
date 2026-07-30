@@ -1,11 +1,11 @@
 ---
 source: regional-banks/shizuoka-bank
-source_hash: 2e2863e2a82ddf3f
+source_hash: 62a945b4c5b86891
 lang: en
 status: machine
 fidelity: ok
 title: "Shizuoka Bank"
-translated_at: 2026-06-15T04:09:41.190Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Shizuoka Bank
@@ -19,6 +19,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 The Shizuoka Bank, Ltd. (株式会社静岡銀行) is a regional bank (first-tier regional bank) headquartered in Aoi-ku, Shizuoka City, Shizuoka Prefecture, holding a bank license under the Banking Act and listed on the FSA's bank license list. Per the official company overview, it is a legal entity established in 1943 年 3 月 through the merger of the Shizuoka 35th Bank and the Enshu Bank, and is currently the core operating bank of [[regional-banks/shizuoka-fg|静岡フィナンシャルグループ]]. Its securities code is 8355. The substance of the business is the standard regional-bank model of taking in deposits within the prefecture, lending to SMEs / individuals, and main-bank relationships with manufacturers, overlaid with foreign-exchange / overseas support and wealth management.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, shizuokabank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; shizuokabank.co.jp]
 
 | Item | Notes |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: securities-firms/kyokuto-securities
-source_hash: 1e5b46155c512e7e
+source_hash: 868135c309fcbe42
 lang: ja
 status: machine
 fidelity: ok
 title: "極東証券"
-translated_at: 2026-06-02T14:54:39.098Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 極東証券
@@ -19,6 +19,8 @@ translated_at: 2026-06-02T14:54:39.098Z
 極東証券は **1949 年創業の中堅独立証券** (東証 STANDARD **8706**)。FSA 金融商品取引業者一覧では「極東証券株式会社」、関東財務局長(金商)第65号として掲載される。**外国債券 (外債) 仲介に強み** を持つ独立系中堅で、東京を本拠に対面リテール + 外債販売の伝統的モデルを維持。**日本証券業協会 ([[financial-regulators/jsda|JSDA]]) 正会員**。同枠の独立中堅証券 ([[securities-firms/marusan-securities|丸三証券]] / [[securities-firms/aizawa-sg|アイザワ証券]] / [[securities-firms/tachibana-securities|立花証券]]) と並ぶが、**外債特化** のニッチで差別化されるのが特徴。
 
 ## 1. 法人・ライセンス境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, jsda.or.jp, kyokuto-sec.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; jsda.or.jp; kyokuto-sec.co.jp]
 
 | 項目 | 読み方 |
 |---|---|
@@ -48,12 +50,16 @@ translated_at: 2026-06-02T14:54:39.098Z
 
 ### 重要年表 (公開情報ベース)
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, jsda.or.jp, kyokuto-sec.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; jsda.or.jp; kyokuto-sec.co.jp]
+
 | 年月 | 事象 |
 |---|---|
 | **1949** | **極東証券株式会社 創業** (戦後復興期、東京) ^[extracted] |
 | 2022-04 | 東証市場区分見直し → 東証 STANDARD (8706) ^[extracted] |
 
 ## 3. 事業セグメント map
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, jsda.or.jp, kyokuto-sec.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; jsda.or.jp; kyokuto-sec.co.jp]
 
 | セグメント | 内容 | 特徴 |
 |---|---|---|

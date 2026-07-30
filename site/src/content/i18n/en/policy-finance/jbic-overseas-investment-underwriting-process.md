@@ -1,11 +1,11 @@
 ---
 source: policy-finance/jbic-overseas-investment-underwriting-process
-source_hash: 2f068d2d6cec51e3
+source_hash: a6de8e57684a1ab6
 lang: en
 status: machine
 fidelity: ok
 title: "JBIC overseas investment loan underwriting process"
-translated_at: 2026-06-01T03:31:12.274Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # JBIC overseas investment loan underwriting process
@@ -20,6 +20,8 @@ JBIC underwriting is structured around a binary fund-account distinction — **G
 
 ## 1. 機関 / 部門位置
 
+The following table is scoped to public primary sources (jbic.go.jp, oecd.org, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jbic.go.jp; oecd.org; meti.go.jp]
+
 | Item | Detail |
 |---|---|
 | Parent entity | [[financial-regulators/jbic|JBIC]] (株式会社国際協力銀行), 100% state-owned special company, sole shareholder 財務大臣 |
@@ -33,6 +35,8 @@ JBIC underwriting is structured around a binary fund-account distinction — **G
 The General Operations vs Special Operations split is the most important structural feature for underwriting purposes. General Operations is constrained by typical policy-bank credit discipline; Special Operations was created explicitly so JBIC can take loss on policy-strategic transactions that would otherwise be unfinanceable.
 
 ### 2.1 Product taxonomy
+
+The following table is scoped to public primary sources (jbic.go.jp, oecd.org, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jbic.go.jp; oecd.org; meti.go.jp]
 
 | Product line | Borrower | Typical use | OECD Arrangement applicability | Account |
 |---|---|---|---|---|
@@ -171,6 +175,8 @@ Since approximately 2022 JBIC's policy posture has been recomposed around **経�
 The Special Operations Account is the institutional vehicle that allows JBIC to take loss-bearing risk on these policy-strategic transactions where General Operations credit discipline would not stretch.
 
 ## 7. Comparative position — JBIC OIL vs adjacent lenders
+
+The following table is scoped to public primary sources (jbic.go.jp, oecd.org, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jbic.go.jp; oecd.org; meti.go.jp]
 
 | Dimension | JBIC OIL (General Operations) | JBIC OIL (Special Operations) | Megabank cross-border loan | [[policy-finance/jica\|JICA]] overseas investment / finance | Peer ECA direct loan (US EXIM, K-EXIM, UKEF) |
 |---|---|---|---|---|---|

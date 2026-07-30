@@ -10,8 +10,8 @@ aliases:
   - "life-insurers/kanpo-life"
 domain: life-insurers
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, life-insurance, post]
@@ -48,6 +48,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 **親会社**：日本郵政株式会社（連結子会社、持株比率は段階的売却中）^[extracted]
 
 ### 主要 KPI（概観）
+
+The following table is scoped to public primary sources (pdf.irpocket.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:pdf.irpocket.com]
 
 | 項目 | 概要 |
 |---|---|

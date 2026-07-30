@@ -1,11 +1,11 @@
 ---
 source: life-insurers/cardif-life
-source_hash: 0ba963b0056f2d1f
+source_hash: 389e93e3f8be5112
 lang: en
 status: machine
 fidelity: ok
 title: "Cardif Life (カーディフ生命保険)"
-translated_at: 2026-06-15T03:48:21.844Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Cardif Life (カーディフ生命保険)
@@ -20,6 +20,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it along
 Cardif Life Insurance Co., Ltd. is a foreign-affiliated Japan life insurer listed on the FSA life-insurer list and the Life Insurance Association of Japan member roster. It is viewed under the same BNP Paribas / Cardif adjacency as [[foreign-financial-institutions/bnp-paribas-japan]], but in FinWiki it is treated not as a bank / securities page but as a credit protection and bancassurance-oriented life-insurance operating company.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, life.cardif.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; life.cardif.co.jp]
 
 | Item | Notes |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: payments/japan-card-security-authentication-controls
-source_hash: 726a81f3eecdaee7
+source_hash: fdaf20dde47c427b
 lang: en
 status: machine
 fidelity: ok
 title: "Japan card security and authentication controls"
-translated_at: 2026-06-01T03:31:12.260Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Japan card security and authentication controls
 
@@ -17,6 +17,8 @@ Use this page with [[payments/japan-card-issuer-acquirer-processor-split|card is
 
 ## Guideline Snapshot
 
+The following table is scoped to public primary sources (meti.go.jp, j-credit.or.jp, jcb.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; j-credit.or.jp; jcb.co.jp; global.jcb]
+
 | Version / route | Public-source role | Wiki reading |
 |---|---|---|
 | METI 2025-03-05 release | Announces the credit-card security guideline revision. | Public policy anchor for EC merchant security strengthening. |
@@ -26,6 +28,8 @@ Use this page with [[payments/japan-card-issuer-acquirer-processor-split|card is
 | JCB merchant / brand pages | Plain-language model of issuer, acquirer, brand, merchant, and authentication roles. | Use to separate flattening all parties into "card company." |
 
 ## Actor And Responsibility Map
+
+The following table is scoped to public primary sources (meti.go.jp, j-credit.or.jp, jcb.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; j-credit.or.jp; jcb.co.jp; global.jcb]
 
 | Actor | Japanese / market term | Core responsibility | Security artifact |
 |---|---|---|---|
@@ -38,6 +42,8 @@ Use this page with [[payments/japan-card-issuer-acquirer-processor-split|card is
 
 ## Control Stack
 
+The following table is scoped to public primary sources (meti.go.jp, j-credit.or.jp, jcb.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; j-credit.or.jp; jcb.co.jp; global.jcb]
+
 | Layer | Threat | Control objective | Primary owner | Secondary owner |
 |---|---|---|---|---|
 | Card-data protection | Cardholder data leak. | Avoid storing card data where possible; keep PCI scope controlled. | Merchant / PSP | Acquirer |
@@ -48,6 +54,8 @@ Use this page with [[payments/japan-card-issuer-acquirer-processor-split|card is
 | Chargeback / dispute | Loss allocation and evidence failure. | Preserve order, authentication, delivery, refund, and communication evidence. | Acquirer / merchant | Issuer / PSP |
 
 ## EMV 3-D Secure Route
+
+The following table is scoped to public primary sources (meti.go.jp, j-credit.or.jp, jcb.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; j-credit.or.jp; jcb.co.jp; global.jcb]
 
 | Step | Component | Research question |
 |---|---|---|
@@ -62,6 +70,8 @@ Use this page with [[payments/japan-card-issuer-acquirer-processor-split|card is
 
 ## Non-retention, Tokenization, And PCI DSS
 
+The following table is scoped to public primary sources (meti.go.jp, j-credit.or.jp, jcb.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; j-credit.or.jp; jcb.co.jp; global.jcb]
+
 | Integration pattern | Card-data exposure | Wiki reading |
 |---|---|---|
 | Redirect payment page | Merchant redirects to PSP / acquirer hosted page. | Lower merchant card-data exposure if implemented correctly. |
@@ -70,6 +80,8 @@ Use this page with [[payments/japan-card-issuer-acquirer-processor-split|card is
 | Stored credential / recurring billing | Token or credential-on-file used for later payments. | Needs consent, lifecycle, cancellation, and fraud monitoring controls. |
 
 ## EC Merchant Fraud Controls
+
+The following table is scoped to public primary sources (meti.go.jp, j-credit.or.jp, jcb.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; j-credit.or.jp; jcb.co.jp; global.jcb]
 
 | Pattern | Control |
 |---|---|

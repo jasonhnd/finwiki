@@ -1,11 +1,11 @@
 ---
 source: payment-firms/gmo-payment-gateway
-source_hash: ac10b6c103dd93b4
+source_hash: cf83064d557d8ad1
 lang: ja
 status: machine
 fidelity: ok
 title: "GMO ペイメントゲートウェイ"
-translated_at: 2026-06-02T14:25:12.428Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # GMO ペイメントゲートウェイ
@@ -30,6 +30,8 @@ translated_at: 2026-06-02T14:25:12.428Z
 
 ## 2. 事業セグメント・マップ
 
+以下の表は、エントリ出典インベントリの公開一次資料（gmo-pg.com）の範囲に限定して読む。^[source:gmo-pg.com]
+
 | セグメント | 主要サービス | 特徴 |
 |---|---|---|
 | EC 決済代行 | クレカ (Visa/Master/JCB/Amex) + コンビニ決済 + 銀行振込 + 電子マネー | 稼働店舗 171,257 店（2026-03 末、fincode byGMO 等含むと 829,062 店）|
@@ -40,6 +42,8 @@ translated_at: 2026-06-02T14:25:12.428Z
 | 周辺事業 | 金融サービス・送金・トランザクションレンディング | 加盟店データ活用融資 |
 
 ## 3. 沿革
+
+以下の表は、エントリ出典インベントリの公開一次資料（gmo-pg.com）の範囲に限定して読む。^[source:gmo-pg.com]
 
 | 年月 | 事象 |
 |---|---|
@@ -61,6 +65,8 @@ translated_at: 2026-06-02T14:25:12.428Z
 - **アジア集中**:ベトナム NextPay / 台湾 ECPay / タイ等への出資・JV
 
 ### 競合マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（gmo-pg.com）の範囲に限定して読む。^[source:gmo-pg.com]
 
 | 競合 | 強み | 立ち位置 |
 |---|---|---|

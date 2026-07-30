@@ -3,8 +3,8 @@ title: GMO コイン (GMO Coin)
 aliases: ["GMO Coin", "株式会社 GMO コイン", "GMO Coin, Inc.", "GMOコイン"]
 domain: payment-firms
 created: 2026-05-19
-last_updated: 2026-07-29
-last_tended: 2026-07-29
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-10-27
 confidence: certain
 tags: [JapanFG, crypto, gmo]
@@ -54,6 +54,8 @@ GMO インターネットグループ（9449 / 東証 PRIME）
 
 ## 2. 事業セグメント・マップ
 
+The following table is scoped to public primary sources (coin.z.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:coin.z.com; fsa.go.jp]
+
 | セグメント | 内容 | 特徴 |
 |---|---|---|
 | 販売所 | 顧客 vs GMO コイン の相対取引 | スプレッド方式・初心者向け |
@@ -68,6 +70,8 @@ GMO インターネットグループ（9449 / 東証 PRIME）
 **海外展開**：限定的。GMO 金融グループ全体としては海外 FX 拠点（タイ・香港・英国）はあるが、GMO コイン本体は **国内ライセンスベース**。
 
 ## 3. 沿革
+
+The following table is scoped to public primary sources (coin.z.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:coin.z.com; fsa.go.jp]
 
 | 年月 | 事象 |
 |---|---|
@@ -92,6 +96,8 @@ GMO インターネットグループ（9449 / 東証 PRIME）
 - **GMO インターネット本体**（インフラ・サイバーセキュリティ）→ 取引所セキュリティ基盤
 
 ### 競合ポジション
+
+The following table is scoped to public primary sources (coin.z.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:coin.z.com; fsa.go.jp]
 
 | 競合 | 親会社 | 強み |
 |---|---|---|

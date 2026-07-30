@@ -11,8 +11,8 @@ aliases:
   - "Japan financial instruments business operator categories"
 domain: securities
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [securities, matrix, FIEA, FIBO, registry, fsa, license, type-i, type-ii, investment-advisory, investment-management, PTS, tokenized-securities]
@@ -55,6 +55,8 @@ A blanket reference to "FSA-registered financial instruments business operator" 
 Without segment-level decomposition, a 10-person 投資助言・代理業 shop and a 5,000-person Type I megabank securities arm look like the same FIBO registry row. They are not the same business.
 
 ## Registry-wide snapshot
+
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp]
 
 | Metric (as of FSA 2026-04-30 workbook) | Reading |
 |---|---:|
@@ -192,6 +194,8 @@ A small but strategically watched segment — sits at the interface between FIEA
 
 ## Cross-segment comparison table
 
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp]
+
 | Dimension | Type I 金商業者 | Type II 金商業者 | 投資助言・代理業 | 投資運用業 | 第一種少額電子募集取扱業 | 電子取引基盤運営業 | 適格機関投資家等特例業務 (Art. 63) | 暗号資産関連 (overlay) | PTS approval (sub-license) | 適格機関投資家 (QII notification) |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **FIEA clause** | Art. 28 ¶1 / Art. 29 | Art. 28 ¶2 / Art. 29 | Art. 28 ¶3 / Art. 29 | Art. 28 ¶4 / Art. 29 + Art. 29-4-2 | Art. 29-4-2 sub-paragraph | Art. 28 ¶8-4 | Art. 63 (notification) | FIEA derivatives + crypto sub-rules | Art. 30 sub-authorization | Art. 2 ¶3 item 1 (notification) |
@@ -211,6 +215,8 @@ A small but strategically watched segment — sits at the interface between FIEA
 ## Top 30 operators by segment (illustrative anchor)
 
 This is a public-anchor list — institution names that materially anchor each segment for FinWiki cross-linking. It is not a row-level ranking and should be read alongside FSA's primary workbook for current registration status.
+
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp]
 
 | Segment | Anchor operators (illustrative, not ranked) |
 |---|---|
@@ -237,6 +243,8 @@ For row-level operator ranking by AUM / market share, route to [[securities/japa
 
 A material share of large FIBO operators carry **multiple registrations inside one legal entity**. Common stacks:
 
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp]
+
 | Operator type | Typical stack |
 |---|---|
 | Megabank securities arm ([[securities-firms/smbc-nikko\|SMBC Nikko]], [[securities-firms/mizuho-securities\|Mizuho Securities]], [[securities-firms/mufg-mums\|MUMSS]]) | Type I + Type II + 投資助言・代理業 + 投資運用業 |
@@ -251,6 +259,8 @@ A material share of large FIBO operators carry **multiple registrations inside o
 This multi-license stacking is why the segment subtotals (291 + 1,223 + 994 + 463 + 70 + 6 = 3,047) far exceed the 1,945 unique operator total. The 1.57× overcount is the structural reality of FIEA's flexible-stacking design.
 
 ## Cross-segment SRO map
+
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp]
 
 | Self-regulatory organization | Coverage |
 |---|---|

@@ -8,8 +8,8 @@ aliases:
   - "セブンカードサービス nanaco"
 domain: payments
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [payments, prepaid, electronic-money, retail-anchor, felica, nanaco, seven-and-i, convenience-store]
@@ -36,6 +36,8 @@ This entry sits under [[payments/INDEX|payments index]] as the Seven & i-anchore
 **nanaco** is the **convenience-store-anchored prepaid e-money** of the Seven & i Holdings group, launched 2007-04 to parallel the simultaneous WAON launch. Issued by [[card-issuers/seven-card-service|株式会社セブン・カードサービス]] (FSA-registered third-party 前払式支払手段 issuer, 法人番号 4010001088278, registered 2007-02-22), nanaco runs on **FeliCa** contactless IC and is the dominant prepaid e-money at the **20,000+ 7-Eleven Japan store network** plus Ito-Yokado supermarkets, Sogo & Seibu department stores, Akachan Honpo, Denny's Japan, and a wide outside-group merchant footprint. Settlement runs through [[payment-firms/seven-payment-service|Seven Payment Service]] under the [[banking/INDEX|Seven & i financial-services platform]] alongside [[regional-banks/seven-bank|Seven Bank]] (group bank rail, ATM charge) and the セブンカード・プラス credit-card co-brand for auto-charge. nanacoポイント loyalty currency converts 1:1 into spendable balance, paralleling the WAON POINT model.
 
 ## Issuer and operational structure
+
+The following table is scoped to public primary sources (nanaco-net.jp, 7card.co.jp, 7andi.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:nanaco-net.jp; 7card.co.jp; 7andi.com; sej.co.jp]
 
 | Dimension | Reading |
 |---|---|
@@ -68,6 +70,8 @@ The structural distinction from [[fintech/japan-stablecoin-regulatory-landscape|
 
 The acceptance network is structured by Seven & i Group retail anchor first, then outside-group expansion:
 
+The following table is scoped to public primary sources (nanaco-net.jp, 7card.co.jp, 7andi.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:nanaco-net.jp; 7card.co.jp; 7andi.com; sej.co.jp]
+
 | Tier | Description | Examples |
 |---|---|---|
 | Inner — Seven & i Group | Group convenience-store and retail anchors | 7-Eleven Japan (~21,000 stores), Ito-Yokado, Sogo & Seibu, Akachan Honpo, Denny's Japan, York Mart, York Benimaru |
@@ -79,6 +83,8 @@ The acceptance network is structured by Seven & i Group retail anchor first, the
 The **tax / utility receipt payment** use case is a structurally important nanaco-specific flow: because 7-Eleven accepts public-money 払込票 (tax notices, utility bills) at the register and nanaco is accepted there, taxpayers can earn nanacoポイント on these payments — a flow [[payments/waon-prepaid-aeon|WAON]] does not equivalently provide because AEON does not accept the same range of utility / tax 払込票.
 
 ## KPI snapshot
+
+The following table is scoped to public primary sources (nanaco-net.jp, 7card.co.jp, 7andi.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:nanaco-net.jp; 7card.co.jp; 7andi.com; sej.co.jp]
 
 | Metric | Reading (most recent public disclosure) |
 |---|---|

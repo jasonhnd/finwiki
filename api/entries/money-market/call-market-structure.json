@@ -28,8 +28,8 @@
     "domain": "money-market",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-19",
-    "last_tended": "2026-05-19",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -117,9 +117,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8745,
-    "word_like_tokens": 1399,
+    "nonspace_chars": 8948,
+    "word_like_tokens": 1435,
     "inbound_wikilinks_count": 23,
-    "last_modified": "2026-06-15"
+    "last_modified": "2026-07-30"
   }
 }

@@ -10,8 +10,8 @@ aliases:
   - "life-insurers/toho-life"
 domain: life-insurers
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, life-insurance]
@@ -80,6 +80,8 @@ T&D HD（持株会社・上場 8795）
 | **2024** | **新中期経営計画** 公表（海外 M&A 拡大検討含む）|
 
 ## 2. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (T&D HD, T&D Holdings, T&D ホールディングス). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:T&D HD; T&D Holdings; T&D ホールディングス]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

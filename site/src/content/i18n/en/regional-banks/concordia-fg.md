@@ -1,11 +1,11 @@
 ---
 source: regional-banks/concordia-fg
-source_hash: 2b376645ec80cd0d
+source_hash: 6e0fb65fd77796a5
 lang: en
 status: machine
 fidelity: ok
 title: "Yokohama Financial Group (formerly Concordia Financial Group)"
-translated_at: 2026-06-19T13:13:22.619Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Yokohama Financial Group (formerly Concordia Financial Group)
@@ -29,6 +29,8 @@ Among the **largest** domestic regional-bank FGs, with deposits of **19.7 兆円
 
 ### 2025-03  term results (FY2024  full-year consolidated actual) ^[extracted]
 
+The following table is scoped to public primary sources (yokohamafg.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:yokohamafg.co.jp]
+
 | Item | Figure | YoY |
 |---|---|---|
 | Ordinary revenue | **3,991 億円** | +408 億円 |
@@ -42,6 +44,8 @@ Among the **largest** domestic regional-bank FGs, with deposits of **19.7 兆円
 
 ### 2026-03  term forecast (FY2025  full-year consolidated forecast / disclosed 2025-11-13) ^[extracted]
 
+The following table is scoped to public primary sources (yokohamafg.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:yokohamafg.co.jp]
+
 | Item | Forecast | YoY |
 |---|---|---|
 | Ordinary revenue | **4,907 億円** | +22.9% |
@@ -54,6 +58,8 @@ Among the **largest** domestic regional-bank FGs, with deposits of **19.7 兆円
 > The precise consolidated employee count is undetermined (see `.opinions/JapanFG/concordia-fg.md`). The holding company alone is 5 名 (a pure holding company).
 
 ### Major shareholders (top 10, as of 2026-03-31) ^[extracted]
+
+The following table is scoped to public primary sources (yokohamafg.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:yokohamafg.co.jp]
 
 | Rank | Shareholder name | Shares held (thousands)| Ratio |
 |---|---|---|---|
@@ -101,6 +107,8 @@ Yokohama Financial Group (holding company・TSE PRIME 7186, 2025-10-01 trade-nam
 
 ### Key chronology (excerpt) ^[extracted]
 
+The following table is scoped to public primary sources (yokohamafg.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:yokohamafg.co.jp]
+
 | Year/month | Event |
 |---|---|
 | 1920 | Yokohama Koshin Bank established (predecessor of Bank of Yokohama) |
@@ -124,6 +132,8 @@ Yokohama Financial Group (holding company・TSE PRIME 7186, 2025-10-01 trade-nam
 
 ## 2. Business segment map
 
+The following table is scoped to public primary sources (yokohamafg.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:yokohamafg.co.jp]
+
 | Segment | Main operator | Characteristics |
 |---|---|---|
 | Individual retail | Bank of Yokohama | Overwhelming in-Kanagawa share・mortgages・deposits |
@@ -145,6 +155,8 @@ Yokohama Financial Group (holding company・TSE PRIME 7186, 2025-10-01 trade-nam
 
 ### Alliances / partnerships
 
+The following table is scoped to public primary sources (yokohamafg.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:yokohamafg.co.jp]
+
 | Alliance | Counterparty | Content | Status |
 |---|---|---|---|
 | **Chiba-Yokohama Partnership** | Chiba Bank | M&A support, syndicated lending, co-hosting corporate-support seminars, mutual personnel exchange, digital-talent development, advertising-business collaboration | 2019-07〜, second-phase 2024-2028 年 FY synergy target **250 億円** (first-phase 359 億円 achieved) ^[extracted] |
@@ -153,6 +165,8 @@ Yokohama Financial Group (holding company・TSE PRIME 7186, 2025-10-01 trade-nam
 > Note: the old version stated TSUBASA Alliance membership, but that was incorrect. Bank of Yokohama is not a TSUBASA member. The "Chiba-Yokohama Partnership" with Chiba Bank is the centre of the Tokyo-metropolitan regional-bank wide-area collaboration. ^[extracted]
 
 ### Competitive landscape
+
+The following table is scoped to public primary sources (yokohamafg.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:yokohamafg.co.jp]
 
 | Competitor | Base | Landscape |
 |---|---|---|

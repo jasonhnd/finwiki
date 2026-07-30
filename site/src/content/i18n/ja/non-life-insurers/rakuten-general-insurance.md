@@ -1,12 +1,12 @@
 ---
 source: non-life-insurers/rakuten-general-insurance
-source_hash: 8a1c26c5ddc73181
+source_hash: e564cd9b589e9121
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "楽天損害保険"
-translated_at: 2026-06-26T08:32:07.559Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 楽天損害保険
@@ -20,6 +20,8 @@ translated_at: 2026-06-26T08:32:07.559Z
 楽天損害保険株式会社は、[[payment-firms/rakuten-fg]] / Rakuten insurance 経済圏 の損害保険事業会社。金融庁の損害保険会社免許一覧と損害保険契約者保護機構会員一覧に掲載される免許保険会社で、楽天カード・楽天銀行・楽天生命・楽天ポイントの経済圏と接続しうる。
 
 ## 1. License / group boundary
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, sonpohogo.or.jp, rakuten-sonpo.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; sonpohogo.or.jp; rakuten-sonpo.co.jp]
 
 | Item | Notes |
 |---|---|

@@ -3,8 +3,8 @@ title: "北海道銀行"
 aliases: ["道銀", "Hokkaido Bank", "The Hokkaido Bank", "株式会社北海道銀行"]
 domain: regional-banks
 created: 2026-05-21
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-12-05
 confidence: likely
 tags: [JapanFG, banking, regional-bank, hokuhoku-fg, operating-company]
@@ -26,6 +26,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 株式会社北海道銀行 (The Hokkaido Bank, 道銀) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される北海道（札幌）地盤の地方銀行 (第一地銀)。[[regional-banks/hokuhoku-fg|ほくほくフィナンシャルグループ]] の banking operating company であり、北陸側の [[regional-banks/hokuriku-bank|北陸銀行]] と並ぶ二地盤モデルの片翼。事業は道内の預金受入と中小企業・個人・自治体向け貸出という地方銀行の標準モデル。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, hokkaidobank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; hokkaidobank.co.jp]
 
 | Item | Notes |
 |---|---|

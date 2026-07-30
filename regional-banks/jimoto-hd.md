@@ -3,8 +3,8 @@ title: じもとホールディングス (JIMOTO HD)
 aliases: ["じもと HD", "JIMOTO Holdings", "じもとホールディングス", "Jimoto Holdings, Inc.", "7161"]
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, tohoku, second-tier, public-funds]
@@ -114,6 +114,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it wit
 - **公的資金圧縮シナリオ**: 仙台銀行 内部留保 188 億円（2025-03 期、+9 億円 yoy）積上げで 300 億円公的資金を 2036-03 までに返済可能と公表 ^[extracted]
 
 ### 競合と市場ポジション
+
+The following table is scoped to public primary sources (rieti.go.jp, sbigroup.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:rieti.go.jp; sbigroup.co.jp]
 
 | カテゴリ | 競合先 | じもと HD ポジション |
 |---|---|---|

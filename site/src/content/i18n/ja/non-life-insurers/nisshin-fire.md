@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/nisshin-fire
-source_hash: e7645b833cd0b957
+source_hash: 3ab1f603f8bf601f
 lang: ja
 status: machine
 fidelity: ok
 title: "日新火災海上保険"
-translated_at: 2026-06-19T06:09:18.032Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日新火災海上保険
@@ -20,6 +20,8 @@ translated_at: 2026-06-19T06:09:18.032Z
 日新火災海上保険株式会社は、金融庁の損害保険会社免許一覧に掲載される損害保険会社である。[[non-life-insurers/tokio-marine]] グループの隣接性を持つが、[[non-life-insurers/tokio-marine-nichido-fire]] および [[non-life-insurers/tokio-marine-direct]] とは別の法人エンティティおよび事業会社のアンカーとして扱う。
 
 ## 1. ライセンス / グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, sonpohogo.or.jp, nisshinfire.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; sonpohogo.or.jp; nisshinfire.co.jp]
 
 | 項目 | 備考 |
 |---|---|

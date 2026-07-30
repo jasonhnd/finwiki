@@ -1,11 +1,11 @@
 ---
 source: regional-banks/kagawa-bank
-source_hash: e0f76a8904ebe09f
+source_hash: 34b2ccc1693904a8
 lang: en
 status: machine
 fidelity: ok
 title: "The Kagawa Bank"
-translated_at: 2026-06-15T04:09:41.204Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # The Kagawa Bank
@@ -19,6 +19,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 The Kagawa Bank, Ltd. (株式会社香川銀行) is a second regional bank headquartered in Takamatsu, Kagawa Prefecture, holding a bank license under the Banking Act and listed in the FSA's bank license list. It is the Kagawa operating bank under [[regional-banks/tomony-hd|トモニホールディングス]], and is treated as a second-regional-bank peer that is a separate legal entity from [[regional-banks/hyakujushi-bank|百十四銀行]], the first regional bank of Kagawa Prefecture. The substance of its business is the standard second-regional-bank model of taking deposits within the prefecture and lending to SMEs and individuals.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, kagawabank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; kagawabank.co.jp]
 
 | Item | Notes |
 |---|---|

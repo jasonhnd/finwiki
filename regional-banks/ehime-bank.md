@@ -3,8 +3,8 @@ title: "愛媛銀行"
 aliases: ["Ehime Bank", "The Ehime Bank", "株式会社愛媛銀行", "ひめぎん"]
 domain: regional-banks
 created: 2026-05-21
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-12-05
 confidence: likely
 tags: [JapanFG, banking, second-regional-bank, shikoku, ehime, operating-company]
@@ -26,6 +26,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 株式会社愛媛銀行 (The Ehime Bank, ひめぎん) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される愛媛県松山市本店の第二地方銀行。愛媛県の second-regional-bank operating-company anchor であり、第一地銀の [[regional-banks/iyo-bank|伊予銀行]] とは別法人の peer。事業の中身は県内・四国の預金受入と中小企業・個人向け貸出という地方銀行の標準モデル。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, himegin.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; himegin.co.jp]
 
 | Item | Notes |
 |---|---|

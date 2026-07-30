@@ -1,11 +1,11 @@
 ---
 source: life-insurers/nippon-life
-source_hash: 873f178d2d7379e3
+source_hash: 4cec1d1b8fe86559
 lang: en
 status: machine
 fidelity: ok
 title: "日本生命保険相互会社 (Nippon Life)"
-translated_at: 2026-06-19T06:09:18.041Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本生命保険相互会社 (Nippon Life)
@@ -60,6 +60,8 @@ Japan's largest life insurer. **No. 1 位 domestically in both premium income an
 
 ### Key timeline (excerpt)
 
+The following table is scoped to public primary sources (nissay.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:nissay.co.jp]
+
 | Year/month | Event |
 |---|---|
 | 1889-07 | **Limited-Liability Nippon Life Insurance Company** founded in Osaka |
@@ -80,6 +82,8 @@ Japan's largest life insurer. **No. 1 位 domestically in both premium income an
 
 ## 2. Business segment map
 
+The following table is scoped to public primary sources (nissay.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:nissay.co.jp]
+
 | Segment | Main operator | Characteristics |
 |---|---|---|
 | Domestic individual insurance (mainstay) | Nippon Life main entity | sales-representative "Nissay no obachan" model, No. 1 位 domestically in policies-in-force and premium income |
@@ -94,6 +98,8 @@ Japan's largest life insurer. **No. 1 位 domestically in both premium income an
 | Institutional investment | Nippon Life main entity | one of the largest domestically, broad allocation to JGBs / listed equities / corporate bonds / alternatives |
 
 ### Group consolidated basis
+
+The following table is scoped to public primary sources (nissay.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:nissay.co.jp]
 
 | Metric | FY2024  (2025-03  period) | YoY |
 |---|---|---|

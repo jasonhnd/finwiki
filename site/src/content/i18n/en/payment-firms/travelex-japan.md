@@ -1,11 +1,11 @@
 ---
 source: payment-firms/travelex-japan
-source_hash: 849ef88e7e86d6cc
+source_hash: 664087362b2c29d3
 lang: en
 status: machine
 fidelity: ok
 title: "Travelex Japan (トラベレックスジャパン)"
-translated_at: 2026-06-15T03:48:21.847Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Travelex Japan (トラベレックスジャパン)
@@ -19,6 +19,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]] (its domain ro
 Travelex Japan Co., Ltd. is a retail-network operator specializing in foreign-currency exchange and foreign-currency home delivery, and an FSA-registered **funds-transfer operator** (funds-transfer operator under the Payment Services Act; 関東財務局長 第00001号). Its head office is in Akasaka, Minato-ku, Tokyo. Under the Payment Services Act it also issues an overseas-dedicated prepaid card (Mastercard Travelex Money Card). It is the Japan base of the Travelex global FX / travel-money network, holding the touchpoint between airport / urban foreign-currency exchange and international money transfer.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (travelex.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:travelex.co.jp; fsa.go.jp]
 
 | Item | Notes |
 |---|---|

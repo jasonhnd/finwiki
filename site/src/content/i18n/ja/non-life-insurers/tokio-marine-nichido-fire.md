@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/tokio-marine-nichido-fire
-source_hash: 1ef21d59fcfd796b
+source_hash: ac0d7bb213b968ad
 lang: ja
 status: machine
 fidelity: ok
 title: "東京海上日動火災保険"
-translated_at: 2026-06-19T06:09:18.148Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 東京海上日動火災保険
@@ -20,6 +20,8 @@ translated_at: 2026-06-19T06:09:18.148Z
 東京海上日動火災保険株式会社は、[[non-life-insurers/tokio-marine]] グループの中核損害保険事業会社。金融庁の損害保険会社免許一覧と損害保険契約者保護機構会員一覧に掲載される独立した保険会社で、親持株会社とは別に引受 / 保険金支払 / 代理店ネットワークの境界を持つ。
 
 ## 1. 免許 / グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（tokiomarine-nichido.co.jp, fsa.go.jp, sonpohogo.or.jp）の範囲に限定して読む。^[source:tokiomarine-nichido.co.jp; fsa.go.jp; sonpohogo.or.jp]
 
 | 項目 | 備考 |
 |---|---|

@@ -1,12 +1,12 @@
 ---
 source: securities/japan-margin-trading-and-securities-finance
-source_hash: ccaa5cd761a08c3a
+source_hash: 0460e7c5fa5a1ac0
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の信用取引と証券金融"
-translated_at: 2026-06-26T08:29:17.590Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 日本の信用取引と証券金融
 
@@ -15,6 +15,8 @@ translated_at: 2026-06-26T08:29:17.590Z
 このページは、[[securities/INDEX|securities domain]]、[[financial-regulators/japan-securities-finance|Japan Securities Finance]]、[[securities/tokyo-stock-exchange|Tokyo Stock Exchange]]、[[securities/japan-best-execution-sor-pts|Japan best execution, SOR, and PTS]]、[[securities/japan-pts-liquidity-data-guide|PTS liquidity data guide]]、[[securities/japan-prime-brokerage-and-institutional-financing|prime 証券仲介 and institutional financing]]、[[securities/japan-market-infrastructure-map|Japan market infrastructure map]]、および [[securities-firms/sbi-securities|SBI Securities]]、[[securities-firms/rakuten-securities|Rakuten Securities]] などの証券会社ページとあわせて読む。
 
 ## システムマップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（jpx.co.jp, jsf.co.jp, fsa.go.jp）の範囲に限定して読む。^[source:jpx.co.jp; jsf.co.jp; fsa.go.jp]
 
 | レイヤー | 役割 |
 |---|---|
@@ -28,6 +30,8 @@ translated_at: 2026-06-26T08:29:17.590Z
 ## 制度信用と一般信用
 
 JPX の信用取引概要は、制度信用取引と一般信用取引を分けている。
+
+以下の表は、エントリ出典インベントリの公開一次資料（jpx.co.jp, jsf.co.jp, fsa.go.jp）の範囲に限定して読む。^[source:jpx.co.jp; jsf.co.jp; fsa.go.jp]
 
 | 次元 | 制度信用取引 | 一般信用取引 |
 |---|---|---|
@@ -70,6 +74,8 @@ FinWiki では、これは JSF が単なる別のノンバンク金融会社で�
 
 ## 市場シグナル
 
+以下の表は、エントリ出典インベントリの公開一次資料（jpx.co.jp, jsf.co.jp, fsa.go.jp）の範囲に限定して読む。^[source:jpx.co.jp; jsf.co.jp; fsa.go.jp]
+
 | シグナル | 有用な読み方 | 注意点 |
 |---|---|---|
 | 信用取引残高 | 個人 / 証券会社のレバレッジとポジション圧力。 | TSE の信用残と JSF の貸付残高は同一ではない。 |
@@ -87,6 +93,8 @@ FinWiki では、これは JSF が単なる別のノンバンク金融会社で�
 - [[money-market/jgb-repo-market-japan|Japan JGB repo market]] と [[money-market/INDEX|money-market domain]] は、証券金融が担保と資金調達コストの問題になるときに隣接する。
 
 ## リスク管理
+
+以下の表は、エントリ出典インベントリの公開一次資料（jpx.co.jp, jsf.co.jp, fsa.go.jp）の範囲に限定して読む。^[source:jpx.co.jp; jsf.co.jp; fsa.go.jp]
 
 | リスク | 管理経路 |
 |---|---|

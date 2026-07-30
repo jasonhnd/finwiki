@@ -1,12 +1,12 @@
 ---
 source: foreign-financial-institutions/agricultural-bank-of-china-japan
-source_hash: a4662002201a11fe
+source_hash: c3aa1615b707ff58
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "中国農業銀行東京支店"
-translated_at: 2026-06-26T08:32:07.552Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 中国農業銀行東京支店
@@ -19,6 +19,8 @@ translated_at: 2026-06-26T08:32:07.552Z
 中国農業銀行東京支店は、金融庁の外国銀行支店一覧に掲載される mainland China / Agricultural Bank of China の在日銀行支店。2013 年に外国銀行支店免許を取得し、corporate lending, trade finance, securities investment, yen 決済, and remittance services を担う。
 
 ## 1. ライセンス／支店の境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, jp.abchina.com）の範囲に限定して読む。^[source:fsa.go.jp; jp.abchina.com]
 
 | 項目 | 注記 |
 |---|---|

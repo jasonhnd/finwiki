@@ -3,8 +3,8 @@ title: 東邦銀行 (Toho Bank)
 aliases: ["Toho Bank", "The Toho Bank", "株式会社東邦銀行", "とうほう銀行", "東邦", "TOHO"]
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, tohoku]
@@ -81,6 +81,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ### 東日本大震災 + 原発事故(最重要)★
 
+The following table is scoped to public primary sources (tohobank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:tohobank.co.jp]
+
 | 年月 | 事象 |
 |---|---|
 | **2011-03-11** | **東日本大震災発生** ★ 福島県沿岸部支店が津波被害、内陸部も地震被害 ^[extracted] |
@@ -95,6 +97,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 - **メイン**: 福島県全域(中通り・浜通り・会津の 3 地域)^[extracted]
 
 ### 競合構図
+
+The following table is scoped to public primary sources (tohobank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:tohobank.co.jp]
 
 | 競合 | 本拠 | 関係性 |
 |---|---|---|

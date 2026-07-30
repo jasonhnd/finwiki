@@ -3,8 +3,8 @@ title: "静岡中央銀行"
 aliases: ["Shizuoka Chuo Bank", "株式会社静岡中央銀行"]
 domain: regional-banks
 created: 2026-05-21
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, banking, second-regional-bank, chubu, shizuoka, operating-company]
@@ -26,6 +26,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 株式会社静岡中央銀行 (Shizuoka Chuo Bank) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される静岡県沼津市本店の第二地方銀行。前身は 1926 年設立の伊豆無尽で、1989 年 8 月に普通銀行へ転換した second-regional-bank operating company。事業は沼津を中心とした預金受入・中小企業/個人向け貸出という第二地銀の標準モデルで、店舗網は静岡県内・神奈川県内・東京都内に及ぶ。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, shizuokachuo-bank.co.jp, ja.wikipedia.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; shizuokachuo-bank.co.jp; ja.wikipedia.org]
 
 | Item | Notes |
 |---|---|

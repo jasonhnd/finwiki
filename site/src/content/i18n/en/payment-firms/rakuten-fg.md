@@ -1,11 +1,11 @@
 ---
 source: payment-firms/rakuten-fg
-source_hash: edab312904636c61
+source_hash: 99430b08ac58c534
 lang: en
 status: machine
 fidelity: ok
 title: "Rakuten Group financial businesses (Rakuten FG)"
-translated_at: 2026-07-28T20:15:36Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Rakuten Group financial businesses (Rakuten FG)
@@ -30,6 +30,8 @@ The fintech segment of Rakuten Group, Inc. (楽天グループ株式会社, TSE 
 ^[Rakuten Group company profile: https://global.rakuten.com/corp/about/; corporate history: https://global.rakuten.com/corp/about/history.html; JPX issue information 4755: https://www2.jpx.co.jp/tseHpFront/StockSearch.do?method=&topSearchStr=4755]
 
 ### Group scale (based on latest disclosures / consolidated)
+
+The following table is scoped to public primary sources (global.rakuten.com, www2.jpx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:global.rakuten.com; www2.jpx.co.jp]
 
 | Item | FY2024年12月 full-year results |
 |---|---|
@@ -78,6 +80,8 @@ The fintech segment of Rakuten Group, Inc. (楽天グループ株式会社, TSE 
 
 ### Key chronology (financial segment focus / based on public information)
 
+The following table is scoped to public primary sources (global.rakuten.com, www2.jpx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:global.rakuten.com; www2.jpx.co.jp]
+
 | Date | Event |
 |---|---|
 | 1997-02 | Rakuten founded (MDM) |
@@ -105,6 +109,8 @@ The fintech segment of Rakuten Group, Inc. (楽天グループ株式会社, TSE 
 
 ## 2. Business-segment map
 
+The following table is scoped to public primary sources (global.rakuten.com, www2.jpx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:global.rakuten.com; www2.jpx.co.jp]
+
 | Segment | Main operators | Characteristics |
 |---|---|---|
 | Net bank | Rakuten Bank (TSE PRIME 5838) | Accounts 1,683 万 / deposits 12 兆円 (2024-12  standalone) / entered mortgages |
@@ -124,6 +130,8 @@ The fintech segment of Rakuten Group, Inc. (楽天グループ株式会社, TSE 
 - **Unified member ID**: all services via a single 1  Rakuten ID → advantage in CRM data integration
 
 ### EC-axis distinctiveness (vs telco-affiliated / megabank-affiliated)
+
+The following table is scoped to public primary sources (global.rakuten.com, www2.jpx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:global.rakuten.com; www2.jpx.co.jp]
 
 | Competitor category | Axis | Representative |
 |---|---|---|

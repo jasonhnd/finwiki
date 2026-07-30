@@ -1,11 +1,11 @@
 ---
 source: life-insurers/td-financial-life
-source_hash: 2b9538b328308630
+source_hash: 9f76e466af451582
 lang: en
 status: machine
 fidelity: ok
 title: "T&D Financial Life Insurance"
-translated_at: 2026-06-01T02:31:57.161Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # T&D Financial Life Insurance
 
@@ -18,6 +18,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 T&D Financial Life Insurance Co., Ltd. is a life-insurance operating company of the [[life-insurers/td-hd]] group. Alongside [[life-insurers/daido-life]] and [[life-insurers/taiyo-life]], it is a core legal entity in the T&D group and is the standalone anchor for analysing financial-institution / shop-channel oriented products.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, tdf-life.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; tdf-life.co.jp]
 
 | Item | Notes |
 |---|---|

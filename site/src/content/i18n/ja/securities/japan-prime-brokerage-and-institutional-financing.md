@@ -1,12 +1,12 @@
 ---
 source: securities/japan-prime-brokerage-and-institutional-financing
-source_hash: e40b3b854ea344ae
+source_hash: a2ba5ca7b290c266
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本のプライムブローカレッジと機関投資家向けファイナンス"
-translated_at: 2026-06-26T08:29:01.780Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 日本のプライムブローカレッジと機関投資家向けファイナンス
 
@@ -20,6 +20,8 @@ translated_at: 2026-06-26T08:29:01.780Z
 
 ## 機能スタック
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, jsda.or.jp, jpx.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; jsda.or.jp; jpx.co.jp; jasdec.com]
+
 | 機能 | 法的 / 規制上のアンカー | インフラ経路 | 主なリスク |
 |---|---|---|---|
 | 執行 | 第一種金融商品取引業者 / ブローカーディーラー経路。 | 取引所、PTS、ブローカーのルーティング、SOR。 | 最良執行、注文表示、相場操縦。 |
@@ -30,6 +32,8 @@ translated_at: 2026-06-26T08:29:01.780Z
 | 担保業務 | 現金 / 証券担保とマージニング。 | カストディアン、ブローカー、CCP、トレジャリー。 | 再利用 / 再担保類似エクスポージャー、集中、流動性。 |
 
 ## アクターマップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, jsda.or.jp, jpx.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; jsda.or.jp; jpx.co.jp; jasdec.com]
 
 | アクター | 役割 |
 |---|---|
@@ -46,6 +50,8 @@ translated_at: 2026-06-26T08:29:01.780Z
 
 ## 資金調達経路マップ
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, jsda.or.jp, jpx.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; jsda.or.jp; jpx.co.jp; jasdec.com]
+
 | 経路 | 読み方 | 開くページ |
 |---|---|---|
 | 現金信用 | 顧客が担保を差し入れて資金または証券を借りる。 | [[securities/japan-margin-trading-and-securities-finance|margin trading route]] |
@@ -56,6 +62,8 @@ translated_at: 2026-06-26T08:29:01.780Z
 
 ## JapanFG 企業ルーティング
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, jsda.or.jp, jpx.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; jsda.or.jp; jpx.co.jp; jasdec.com]
+
 | 企業ページ | 想定されるウィキ上の役割 |
 |---|---|
 | [[securities-firms/nomura-hd|Nomura]], [[securities-firms/daiwa-sg|Daiwa Securities Group]] | 国内ホールセール証券 / プライムファイナンス / 機関投資家向けブローカレッジのアンカー。 |
@@ -64,6 +72,8 @@ translated_at: 2026-06-26T08:29:01.780Z
 | [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]], [[foreign-financial-institutions/state-street-japan|State Street Japan]], [[foreign-financial-institutions/euroclear-bank-japan|Euroclear Bank Japan]], [[foreign-financial-institutions/clearstream-banking-japan|Clearstream Banking Japan]] | カストディ、決済、グローバル担保の文脈。 |
 
 ## 管理上の問い
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, jsda.or.jp, jpx.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; jsda.or.jp; jpx.co.jp; jasdec.com]
 
 | 問い | 公開情報上の関連性 |
 |---|---|

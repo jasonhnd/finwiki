@@ -1,11 +1,11 @@
 ---
 source: payments/funds-transfer-vs-prepaid-boundary
-source_hash: 5a6da882baee12c5
+source_hash: 4b8f54f6d22a73e5
 lang: en
 status: machine
 fidelity: ok
 title: "Funds transfer vs prepaid boundary in Japan"
-translated_at: 2026-06-01T03:31:12.291Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Funds transfer vs prepaid boundary in Japan
@@ -22,6 +22,8 @@ This distinction is central for code payments, wallets, stored balances, game cr
 
 ## Boundary Test
 
+The following table is scoped to public primary sources (fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp]
+
 | Question | Funds-transfer signal | Prepaid signal |
 |---|---|---|
 | Can the user send value to another person? | Yes, especially if the service accepts a remittance instruction. | Usually no; the balance is mainly for the user's own payment. |
@@ -33,6 +35,8 @@ This distinction is central for code payments, wallets, stored balances, game cr
 ## Funds-Transfer Categories
 
 FSA materials describe three post-2021 funds-transfer categories:
+
+The following table is scoped to public primary sources (fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp]
 
 | Category | Function | Main constraint |
 |---|---|---|
@@ -55,6 +59,8 @@ The analytic rule is:
 For the registered third-party prepaid issuer population, use [[payments/prepaid-payment-instrument-issuers-japan-index]] rather than creating long-tail issuer pages.
 
 ## Product Decomposition
+
+The following table is scoped to public primary sources (fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp]
 
 | Product surface | Possible legal layers |
 |---|---|

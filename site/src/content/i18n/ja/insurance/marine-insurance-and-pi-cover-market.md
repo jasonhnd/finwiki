@@ -1,12 +1,12 @@
 ---
 source: insurance/marine-insurance-and-pi-cover-market
-source_hash: 3e8279b17d7a2df5
+source_hash: 8acb7fc07398c345
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の海上保険および P&I 補償市場"
-translated_at: 2026-06-26T08:32:23.048Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本の海上保険および P&I 補償市場
@@ -22,6 +22,8 @@ translated_at: 2026-06-26T08:32:23.048Z
 この項目は [[insurance/INDEX|insurance index]] の下に位置する。大手三社の事業会社層については [[insurance/japan-nonlife-big-three|Japan non-life big three]]、グローバル再々保険パネルについては [[insurance/foreign-reinsurer-japan-landscape|foreign reinsurer Japan landscape]]、ロイズのスペシャルティ・チャネルについては [[insurance/lloyds-japan-syndicate-operating-model|Lloyd's Japan syndicate operating model]]、海上集積に影響を与える台風 / 地震 / 洪水エクスポージャーについては [[insurance/natcat-reinsurance-japan|nat-cat reinsurance in Japan]] と対比して読むこと。二つのアンカー事業体ページは [[financial-regulators/japan-pi-club|Japan P&I Club]] と [[financial-regulators/nippon-kaiji-kyokai|ClassNK]] である。横断的アンカー：IG 再々保険とロイズのシンジケートに対する親規制当局の視点については [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison matrix]]。
 
 ## 1. 市場構造
+
+以下の表は、エントリ出典インベントリの公開一次資料（piclub.or.jp, igpandi.org, tokiomarinehd.com）の範囲に限定して読む。^[source:piclub.or.jp; igpandi.org; tokiomarinehd.com; ms-ad-hd.com]
 
 | 層 | 商品 | 提供者タイプ | 日本市場のリード |
 |---|---|---|---|
@@ -41,6 +43,8 @@ H&M 保険は、船体への物的滅失 / 損傷について船主を補償す�
 **市場集積リスク。** 主要港湾（横浜、名古屋、神戸、大阪、東京湾）での台風や地震は、停泊中の数百隻の船舶に同時に損害を与え、陸上の物件集積と相関する自然災害集積を海上ブックの内部に生み出しうる。これは、海上の超過損害再保険（cat XL）購入が、物件の cat XL タワーと同じ [[insurance/foreign-reinsurer-japan-landscape|foreign reinsurer panel]] に供給される理由の一つである。
 
 ## 3. 貨物 / 運送貨物保険は、標準的な協会貨物約款（A / B / C）ベース、または日本の国内様式の同等物に基づき、運送中の貨物を補償する。
+
+以下の表は、エントリ出典インベントリの公開一次資料（piclub.or.jp, igpandi.org, tokiomarinehd.com）の範囲に限定して読む。^[source:piclub.or.jp; igpandi.org; tokiomarinehd.com; ms-ad-hd.com]
 
 | 貨物条線 | 出再者 | 備考 |
 |---|---|---|
@@ -74,11 +78,15 @@ P&I は 19 世紀の英国で、船主同士が責任リスクをプールする
 
 ### 東京海上（大手1）
 
+以下の表は、エントリ出典インベントリの公開一次資料（piclub.or.jp, igpandi.org, tokiomarinehd.com）の範囲に限定して読む。^[source:piclub.or.jp; igpandi.org; tokiomarinehd.com; ms-ad-hd.com]
+
 | 項目 | 備考 |
 |---|---|
 | 事業体 | [[non-life-insurers/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]] ^[extracted] |
 
 ### MS&AD（大手2）
+
+以下の表は、エントリ出典インベントリの公開一次資料（piclub.or.jp, igpandi.org, tokiomarinehd.com）の範囲に限定して読む。^[source:piclub.or.jp; igpandi.org; tokiomarinehd.com; ms-ad-hd.com]
 
 | 項目 | 備考 |
 |---|---|
@@ -86,11 +94,15 @@ P&I は 19 世紀の英国で、船主同士が責任リスクをプールする
 
 ### SOMPO（大手3）
 
+以下の表は、エントリ出典インベントリの公開一次資料（piclub.or.jp, igpandi.org, tokiomarinehd.com）の範囲に限定して読む。^[source:piclub.or.jp; igpandi.org; tokiomarinehd.com; ms-ad-hd.com]
+
 | 項目 | 備考 |
 |---|---|
 | 事業体 | [[non-life-insurers/sompo-japan-insurance|Sompo Japan Insurance]] ^[extracted] |
 
 ### 集計的な読み
+
+以下の表は、エントリ出典インベントリの公開一次資料（piclub.or.jp, igpandi.org, tokiomarinehd.com）の範囲に限定して読む。^[source:piclub.or.jp; igpandi.org; tokiomarinehd.com; ms-ad-hd.com]
 
 | 引受会社 | 海上市場での地位 | 貨物の強さ | 船体の強さ | 再保険依存度 |
 |---|---|---|---|---|
@@ -106,6 +118,8 @@ P&I は 19 世紀の英国で、船主同士が責任リスクをプールする
 ClassNK と 日本 P&I クラブ / 大手3社 は、合わせて *日本の* 海事リスクインフラ・スタック ― 船級、船体、貨物、P&I ― を形成し、他の法域における外国の IACS 加盟者 + 外国の IG クラブ + 外国の引受会社のスタックに類比される。
 
 ## 8. 比較：日本における海上補償の提供者
+
+以下の表は、エントリ出典インベントリの公開一次資料（piclub.or.jp, igpandi.org, tokiomarinehd.com）の範囲に限定して読む。^[source:piclub.or.jp; igpandi.org; tokiomarinehd.com; ms-ad-hd.com]
 
 | 提供者タイプ | 船体 | 貨物 | P&I | スペシャルティ / 戦争 / エネルギー | 再保険 |
 |---|---|---|---|---|---|

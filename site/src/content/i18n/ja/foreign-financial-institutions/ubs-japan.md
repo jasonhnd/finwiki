@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/ubs-japan
-source_hash: ba9864d52a317056
+source_hash: 044e7699309075aa
 lang: ja
 status: machine
 fidelity: ok
 title: "UBS ジャパン (UBS Japan)"
-translated_at: 2026-06-02T16:33:58.516Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # UBS ジャパン (UBS Japan)
 
@@ -21,6 +21,8 @@ translated_at: 2026-06-02T16:33:58.516Z
 
 **親会社**：UBS Group AG（スイス・チューリッヒ本社、SIX: UBSG / NYSE: UBS）^[extracted]
 **日本の主な法人**:
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | 法人 | 業態 | 持株 |
 |---|---|---|
@@ -40,6 +42,8 @@ translated_at: 2026-06-02T16:33:58.516Z
 - **2024**：旧 クレディ・スイス・ジャパン（旧 CS 証券・在日支店等）の UBS ジャパン拠点への統合完了 → コスト・リストラ進行
 
 ## 3. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

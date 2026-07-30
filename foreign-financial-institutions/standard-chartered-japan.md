@@ -3,8 +3,8 @@ title: スタンダード・チャータード銀行 東京支店 (Standard Char
 aliases: ["Standard Chartered Tokyo", "SCB Tokyo", "SCB Japan", "スタンチャ", "スタンダードチャータード東京", "Standard Chartered Bank, Tokyo Branch"]
 domain: foreign-financial-institutions
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, foreign-bank, asia]
@@ -60,6 +60,8 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 | 2020s | ESG・トランジション・ファイナンス、デジタル・トランザクション・バンキング強化 |
 
 ## 3. 事業セグメント・マップ（日本拠点）
+
+The following table is scoped to public primary sources (sc.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:sc.com]
 
 | セグメント | 内容 | 顧客層 |
 |---|---|---|

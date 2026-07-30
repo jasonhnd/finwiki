@@ -1,12 +1,12 @@
 ---
 source: payment-firms/travelex-japan
-source_hash: 849ef88e7e86d6cc
+source_hash: 664087362b2c29d3
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "トラベレックスジャパン (Travelex Japan)"
-translated_at: 2026-06-26T08:31:59.844Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # トラベレックスジャパン (Travelex Japan)
@@ -16,6 +16,8 @@ translated_at: 2026-06-26T08:31:59.844Z
 ## 要点トラベレックスジャパン株式会社は、外貨両替・外貨宅配を専門とする小売ネットワーク事業者で、FSA 登録の **資金移動業者**（資金移動事業者 under 資金決済法; 関東財務局長第00001号）。本社は東京・港区赤坂。資金決済法に基づき海外専用プリペイドカード（Mastercard トラベレックスマネーカード）も発行。空港・都市部の外貨両替と international money transfer の接点を持つ、Travelex グローバル FX・トラベルマネー網の日本拠点。
 
 ## 1. License / group boundary
+
+以下の表は、エントリ出典インベントリの公開一次資料（travelex.co.jp, fsa.go.jp）の範囲に限定して読む。^[source:travelex.co.jp; fsa.go.jp]
 
 | Item | Notes |
 |---|---|

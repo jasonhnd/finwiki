@@ -1,11 +1,11 @@
 ---
 source: regional-banks/proclair-hd
-source_hash: 69bb715c73bc14b3
+source_hash: 8c1a16c406853f13
 lang: en
 status: machine
 fidelity: ok
 title: "ProCrea Holdings (ProCrea HD)"
-translated_at: 2026-06-19T12:43:19.949Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # ProCrea Holdings (ProCrea HD)
@@ -50,6 +50,8 @@ ProCrea Holdings (holding company, listed 7384)
 
 ### Aomori Bank lineage
 
+The following table is scoped to public primary sources (am-bk.co.jp, procrea-hd.co.jp, nikkei.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:am-bk.co.jp; procrea-hd.co.jp; nikkei.com]
+
 | Year | Event |
 |---|---|
 | **1879** (Meiji 12) | **The 59th National Bank** founded (Hirosaki, the first bank in Aomori Prefecture, the oldest predecessor of Aomori Bank) |
@@ -60,6 +62,8 @@ ProCrea Holdings (holding company, listed 7384)
 | 2025-01-01 | Merged with Michinoku Bank → Aomori Michinoku Bank |
 
 ### Michinoku Bank lineage
+
+The following table is scoped to public primary sources (am-bk.co.jp, procrea-hd.co.jp, nikkei.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:am-bk.co.jp; procrea-hd.co.jp; nikkei.com]
 
 | Year | Event |
 |---|---|
@@ -72,6 +76,8 @@ ProCrea Holdings (holding company, listed 7384)
 | 2025-01-01 | Merged with Aomori Bank → Aomori Michinoku Bank |
 
 ## 3. Business-segment map
+
+The following table is scoped to public primary sources (am-bk.co.jp, procrea-hd.co.jp, nikkei.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:am-bk.co.jp; procrea-hd.co.jp; nikkei.com]
 
 | Segment | Main operators | Characteristics |
 |---|---|---|

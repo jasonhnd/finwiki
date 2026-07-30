@@ -1,12 +1,12 @@
 ---
 source: insurance/kampo-japan-post-insurance
-source_hash: e86e54ebc94b9594
+source_hash: 64221d5021f9f2d5
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "かんぽ / 日本郵政保険"
-translated_at: 2026-06-26T08:29:01.761Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # かんぽ / 日本郵政保険
@@ -72,6 +72,8 @@ translated_at: 2026-06-26T08:29:01.761Z
 ESR は、2025 年 4 月以降、民間ビッグフォーと同じ形式で [[insurance/economic-value-based-solvency|FSA economic-value-based ソルベンシー]] 制度のもとで公表される。比率の定義については [[insurance/esr-economic-value-solvency|ESR]] 参照。
 
 ## 金融庁生命ビッグフォーとの比較
+
+以下の表は、エントリ出典インベントリの公開一次資料（jp-life.japanpost.jp, japanpost.jp, fsa.go.jp）の範囲に限定して読む。^[source:jp-life.japanpost.jp; japanpost.jp; fsa.go.jp]
 
 | 軸 | 金融庁生命ビッグフォー | かんぽ（日本郵政保険） |
 |---|---|---|

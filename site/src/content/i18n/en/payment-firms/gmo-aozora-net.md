@@ -1,11 +1,11 @@
 ---
 source: payment-firms/gmo-aozora-net
-source_hash: 6b63012d77418cdf
+source_hash: 7a1bedacc22bc1e1
 lang: en
 status: machine
 fidelity: ok
 title: "GMO Aozora Net Bank"
-translated_at: 2026-07-28T16:39:58Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # GMO Aozora Net Bank
@@ -28,6 +28,8 @@ A net bank **anchored on a corporate-focused BaaS (Banking as a Service) axis**.
 **Business type**: Banking business (ordinary bank / net bank)
 
 ### Major shareholders (as of 2026-02-20, official company overview)
+
+The following table is scoped to public primary sources (gmo-aozora.com, group.gmo). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:gmo-aozora.com; group.gmo]
 
 | Shareholder | Shareholding ratio | Voting-rights ratio |
 |---|---|---|
@@ -53,6 +55,8 @@ GMO 互联网集团（东证 PRIME 9449・熊谷正寿）
 
 ### History ^[extracted]
 
+The following table is scoped to public primary sources (gmo-aozora.com, group.gmo). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:gmo-aozora.com; group.gmo]
+
 | Year/month | Event |
 |---|---|
 | 2004-04 | **Aozora Trust Bank** opens (a [[regional-banks/aozora-bank]] 100% subsidiary, centered on trust operations) |
@@ -64,6 +68,8 @@ GMO 互联网集团（东证 PRIME 9449・熊谷正寿）
 | 2023 | Class shares held by Aozora Bank transferred to GMO Financial Holdings (based on the shareholders' agreement) |
 
 ## 2. Business segment map
+
+The following table is scoped to public primary sources (gmo-aozora.com, group.gmo). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:gmo-aozora.com; group.gmo]
 
 | Segment | Main business | Features |
 |---|---|---|

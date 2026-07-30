@@ -1,12 +1,12 @@
 ---
 source: securities/nisa-2025-tax-reform-update
-source_hash: 722d7fa2f5dd2306
+source_hash: 0e14a10a7ff32259
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "NISA 2025 税制改正アップデート"
-translated_at: 2026-06-26T08:29:40.688Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # NISA 2025 税制改正アップデート
@@ -28,6 +28,8 @@ translated_at: 2026-06-26T08:29:40.688Z
 [[securities/nisa-2024-flow|NISA 2024 flow]] は、2024年 1 月に発効した恒久 NISA 制度の開始を記録する。その後の年次税制改正は、その基盤の上に規定を追加または修正する。2024 の開始ページを毎サイクル編集することを避けるため、FinWiki は別個の年次アップデートページを維持し、2024 の開始記述が正確なまま、改革のデルタが明示的に蓄積されるようにしている。
 
 ## Reform Track Map
+
+以下の表は、エントリ出典インベントリの公開一次資料（mof.go.jp, fsa.go.jp, jsda.or.jp）の範囲に限定して読む。^[source:mof.go.jp; fsa.go.jp; jsda.or.jp; nta.go.jp]
 
 | Track | Reform direction | FinWiki route |
 |---|---|---|
@@ -63,6 +65,8 @@ NISA 項目については、大綱項目が立法前に変わり得るため、
 ## Operational Improvement Items
 
 NISA 改革議論における繰り返しの実務運用項目には以下が含まれる：
+
+以下の表は、エントリ出典インベントリの公開一次資料（mof.go.jp, fsa.go.jp, jsda.or.jp）の範囲に限定して読む。^[source:mof.go.jp; fsa.go.jp; jsda.or.jp; nta.go.jp]
 
 | Item | Direction |
 |---|---|

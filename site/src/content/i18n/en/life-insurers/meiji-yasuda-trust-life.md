@@ -1,11 +1,11 @@
 ---
 source: life-insurers/meiji-yasuda-trust-life
-source_hash: 61f78f7270c41be4
+source_hash: 8f28d5943894820e
 lang: en
 status: machine
 fidelity: ok
 title: "Meiji Yasuda Trust Life Insurance (明治安田トラスト生命保険)"
-translated_at: 2026-06-15T03:48:21.911Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Meiji Yasuda Trust Life Insurance (明治安田トラスト生命保険)
@@ -19,6 +19,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]] (its domain ro
 Meiji Yasuda Trust Life Insurance Co., Ltd. is a life-insurance operating company of the [[life-insurers/meiji-yasuda|明治安田生命]] group that holds a life-insurance company license under the Insurance Business Act and is listed in the FSA's life-insurance company license list. Its predecessors were Allianz Life → Aeon Allianz Life, and **in 2025 年 7 月 1 日 Meiji Yasuda Life acquired about 85% of its shares and made it a subsidiary, and in 2025 年 10 月 1 日 it changed its name to "Meiji Yasuda Trust Life Insurance."** Because the former Aeon Allianz Life had a history of specializing in group credit life insurance (団信), and it carries a name-change / group-transfer boundary, it is placed as a standalone page.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, meijiyasuda-trustlife.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; meijiyasuda-trustlife.co.jp; meijiyasuda.co.jp]
 
 | Item | Notes |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: insurance/japan-life-big-four-overlay-comparison-matrix
-source_hash: 8cbb2d5e5ff13f39
+source_hash: 5770f937a678ecfa
 lang: en
 status: machine
 fidelity: ok
 title: "Japan life big-four overlay comparison matrix"
-translated_at: 2026-05-31T11:13:44.888Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan life big-four overlay comparison matrix
@@ -67,6 +67,8 @@ The matrix below lists axes that differentiate the big four. Specific numeric ra
 
 ### Identity, form, and group structure
 
+The following table is scoped to public primary sources (fsa.go.jp, iaisweb.org, seiho.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; iaisweb.org; seiho.or.jp; nissay.co.jp]
+
 | Axis | Nippon Life | Dai-ichi Life Holdings | Sumitomo Life | Meiji Yasuda Life |
 |---|---|---|---|---|
 | Corporate form | Mutual company | Listed holding company (TSE Prime) | Mutual company | Mutual company |
@@ -78,6 +80,8 @@ The matrix below lists axes that differentiate the big four. Specific numeric ra
 
 ### Capital and ESR
 
+The following table is scoped to public primary sources (fsa.go.jp, iaisweb.org, seiho.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; iaisweb.org; seiho.or.jp; nissay.co.jp]
+
 | Axis | Nippon Life | Dai-ichi Life Holdings | Sumitomo Life | Meiji Yasuda Life |
 |---|---|---|---|---|
 | Headline capital metric | ESR (FSA economic-value regime) | ESR (FSA economic-value regime), reported at holdings level | ESR (FSA economic-value regime) | ESR (FSA economic-value regime) |
@@ -87,6 +91,8 @@ The matrix below lists axes that differentiate the big four. Specific numeric ra
 | Subordinated capital | Subordinated debt admitted under FSA quality criteria | Subordinated debt and capital instruments at holdings level | Subordinated debt admitted under FSA quality criteria | Subordinated debt admitted under FSA quality criteria |
 
 ### Liabilities, duration, and ALM
+
+The following table is scoped to public primary sources (fsa.go.jp, iaisweb.org, seiho.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; iaisweb.org; seiho.or.jp; nissay.co.jp]
 
 | Axis | Nippon Life | Dai-ichi Life Holdings | Sumitomo Life | Meiji Yasuda Life |
 |---|---|---|---|---|
@@ -99,6 +105,8 @@ The matrix below lists axes that differentiate the big four. Specific numeric ra
 
 ### Channel and distribution
 
+The following table is scoped to public primary sources (fsa.go.jp, iaisweb.org, seiho.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; iaisweb.org; seiho.or.jp; nissay.co.jp]
+
 | Axis | Nippon Life | Dai-ichi Life Holdings | Sumitomo Life | Meiji Yasuda Life |
 |---|---|---|---|---|
 | Tied sales force | Largest tied female sales force in Japan; primary acquisition channel | Tied sales force at Dai-ichi Life Insurance Company; not the only acquisition route | Large tied sales force with renewal / wellness pivot | Large tied sales force with relationship focus |
@@ -110,6 +118,8 @@ The matrix below lists axes that differentiate the big four. Specific numeric ra
 
 ### Overseas, M&A, and capital return
 
+The following table is scoped to public primary sources (fsa.go.jp, iaisweb.org, seiho.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; iaisweb.org; seiho.or.jp; nissay.co.jp]
+
 | Axis | Nippon Life | Dai-ichi Life Holdings | Sumitomo Life | Meiji Yasuda Life |
 |---|---|---|---|---|
 | Overseas portfolio | US life affiliate exposure, Asian life affiliate exposure | Most extensive: US (Protective), Australia (TAL), Asia, India / SEA | Overseas investments and JVs including Asia | Overseas including US life platform |
@@ -120,6 +130,8 @@ The matrix below lists axes that differentiate the big four. Specific numeric ra
 
 ### ESR sensitivities at a conceptual level
 
+The following table is scoped to public primary sources (fsa.go.jp, iaisweb.org, seiho.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; iaisweb.org; seiho.or.jp; nissay.co.jp]
+
 | Sensitivity | Mutual big-three (Nippon Life, Sumitomo Life, Meiji Yasuda) | Listed holdco (Dai-ichi Life Holdings) |
 |---|---|---|
 | Domestic interest-rate shock | Long-duration yen liabilities make ESR rate-sensitive; UFR extrapolation moderates very-long-end exposure | Same conceptual sensitivity at the operating-company level; holdings translates into capital-allocation guidance |
@@ -129,6 +141,8 @@ The matrix below lists axes that differentiate the big four. Specific numeric ra
 | Catastrophe / mortality shock | Pandemic / mortality scenarios captured under FSA economic-value standard | Same conceptual exposure |
 
 ### Distribution-channel economics
+
+The following table is scoped to public primary sources (fsa.go.jp, iaisweb.org, seiho.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; iaisweb.org; seiho.or.jp; nissay.co.jp]
 
 | Axis | Tied sales force | Bancassurance | Independent agency | Internet / direct |
 |---|---|---|---|---|
@@ -141,6 +155,8 @@ The matrix below lists axes that differentiate the big four. Specific numeric ra
 
 ### Product-mix tilt and ALM consequence
 
+The following table is scoped to public primary sources (fsa.go.jp, iaisweb.org, seiho.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; iaisweb.org; seiho.or.jp; nissay.co.jp]
+
 | Product line | Tied-channel weight | Bancassurance weight | Foreign-currency exposure | ALM consequence |
 |---|---|---|---|---|
 | Individual term protection | High | Low | Low | Low rate sensitivity; mortality / persistency dominant |
@@ -152,6 +168,8 @@ The matrix below lists axes that differentiate the big four. Specific numeric ra
 
 ### Asset-management group affiliate map
 
+The following table is scoped to public primary sources (fsa.go.jp, iaisweb.org, seiho.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; iaisweb.org; seiho.or.jp; nissay.co.jp]
+
 | Holdco | Captive AM affiliate | External alliance | Asset focus |
 |---|---|---|---|
 | Nippon Life | [[asset-managers/nissay-asset-management|Nissay Asset Management]] | International alliances and minority investments | Domestic fixed income, equities, alternatives, overseas alliances |
@@ -160,6 +178,8 @@ The matrix below lists axes that differentiate the big four. Specific numeric ra
 | Meiji Yasuda | Affiliated AM vehicles | Strategic AM partnerships | Domestic and overseas multi-asset |
 
 ### Overseas-affiliate map
+
+The following table is scoped to public primary sources (fsa.go.jp, iaisweb.org, seiho.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; iaisweb.org; seiho.or.jp; nissay.co.jp]
 
 | Holdco | Region | Affiliate / brand (conceptual) | Capital framework at subsidiary |
 |---|---|---|---|
@@ -176,6 +196,8 @@ The capital frameworks at the subsidiary level differ from FSA ESR at the parent
 
 ### Strategic-acquisition log (conceptual)
 
+The following table is scoped to public primary sources (fsa.go.jp, iaisweb.org, seiho.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; iaisweb.org; seiho.or.jp; nissay.co.jp]
+
 | Holdco | Deal type (conceptual) | Strategic logic |
 |---|---|---|
 | Nippon Life | US life minority investments, Asian life entries, asset-management consolidation | Earnings diversification, AM scale, demographic-growth markets |
@@ -184,6 +206,8 @@ The capital frameworks at the subsidiary level differ from FSA ESR at the parent
 | Meiji Yasuda | StanCorp (US life platform), Asian investments | Earnings diversification, US group-protection scale |
 
 ### Channel-mix overlay against Sony Life and Lifenet
+
+The following table is scoped to public primary sources (fsa.go.jp, iaisweb.org, seiho.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; iaisweb.org; seiho.or.jp; nissay.co.jp]
 
 | Insurer | Primary channel grammar | Closest big-four parallel |
 |---|---|---|
@@ -219,6 +243,8 @@ The big-four shape today reflects a long path:
 ## Reading the disclosure
 
 Each insurer publishes the relevant data in similar but not identical disclosure formats:
+
+The following table is scoped to public primary sources (fsa.go.jp, iaisweb.org, seiho.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; iaisweb.org; seiho.or.jp; nissay.co.jp]
 
 | Disclosure surface | Nippon Life | Dai-ichi Life HD | Sumitomo Life | Meiji Yasuda |
 |---|---|---|---|---|

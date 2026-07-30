@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/sbi-insurance
-source_hash: fb3e1cee812fc882
+source_hash: de42bd2f4afac7ae
 lang: en
 status: machine
 fidelity: ok
 title: "SBI損害保険"
-translated_at: 2026-06-19T06:09:18.181Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # SBI損害保険
@@ -20,6 +20,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 SBI損害保険株式会社 is the direct non-life insurance operating company of the [[non-life-insurers/sbi-insurance-group]] / [[megabanks/sbi-hd]] group. It is a licensed insurer listed on the FSA's non-life insurance company license list, and the underwriting boundary for auto, cancer, fire and other non-life products that connect into SBI's banking / securities / insurance ecosystem.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, sonpohogo.or.jp, sbisonpo.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sonpohogo.or.jp; sbisonpo.co.jp]
 
 | Item | Notes |
 |---|---|

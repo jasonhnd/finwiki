@@ -1,12 +1,12 @@
 ---
 source: payment-firms/seven-payment-service
-source_hash: c28be85083602c53
+source_hash: f1bbb1d596af3668
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "セブン・ペイメントサービス"
-translated_at: 2026-06-26T08:31:59.841Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # セブン・ペイメントサービス
@@ -19,6 +19,8 @@ translated_at: 2026-06-26T08:31:59.841Z
 ## 要点セブン・ペイメントサービスは [[regional-banks/seven-bank|Seven Bank]] / [[retail/seven-and-i-hd|Seven & i]] 周辺の BtoC payout and ATM cash-receipt 事業者。法人向けにセブン銀行 ATM を使った現金受取・返金・報酬支払などを提供する。
 
 ## 1. 法人・ライセンス境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（7ps.jp, fsa.go.jp）の範囲に限定して読む。^[source:7ps.jp; fsa.go.jp]
 
 | Item | Reading |
 |---|---|

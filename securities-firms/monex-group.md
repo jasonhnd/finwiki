@@ -10,8 +10,8 @@ aliases:
   - "securities-firms/monex-securities"
 domain: securities-firms
 created: 2026-05-19
-last_updated: 2026-07-29
-last_tended: 2026-07-29
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, securities, crypto]
@@ -66,6 +66,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ### 重要年表（公開情報ベース）
 
+The following table is scoped to public primary sources (monexgroup.jp, docomo.ne.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:monexgroup.jp; docomo.ne.jp]
+
 | 年月 | 事象 |
 |---|---|
 | 1999-05-19 | **マネックス証券 設立**（ソニー + 松本大 共同出資、松本大は元 Goldman Sachs パートナー）|
@@ -82,6 +84,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 > 注: 上記年表は公開資料（Wikipedia / IR / プレスリリース）に基づく。具体的な持分比率や統合スキーム条件は時期ごとに変動するため、最新値は IR 開示資料を要参照。
 
 ## 2. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (monexgroup.jp, docomo.ne.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:monexgroup.jp; docomo.ne.jp]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

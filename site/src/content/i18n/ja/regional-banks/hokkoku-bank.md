@@ -1,11 +1,11 @@
 ---
 source: regional-banks/hokkoku-bank
-source_hash: 9a39249048093c1b
+source_hash: 525f8b986c04c9e0
 lang: ja
 status: machine
 fidelity: ok
 title: "北國銀行"
-translated_at: 2026-06-15T04:09:41.152Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 北國銀行
@@ -20,6 +20,8 @@ translated_at: 2026-06-15T04:09:41.152Z
 株式会社北國銀行 (The Hokkoku Bank) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される石川県地盤の地方銀行 (第一地銀)。[[regional-banks/hokkoku-fhd|北國フィナンシャルホールディングス]] の中核営業銀行。FHD が持株会社・デジタルプラットフォーム戦略を扱うのに対し、本ページは免許を持つ銀行事業体と地域貸出のサーフェスを扱う。事業の土台は石川・北陸の預金受入と中小企業・個人・自治体向け貸出という地方銀行の標準モデル。
 
 ## 1. 免許／グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, hokkokubank.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; hokkokubank.co.jp]
 
 | 項目 | 備考 |
 |---|---|

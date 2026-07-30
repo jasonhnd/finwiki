@@ -1,11 +1,11 @@
 ---
 source: securities/osaka-exchange
-source_hash: 5ec592783f1c6902
+source_hash: df51f66cc93487c6
 lang: en
 status: machine
 fidelity: ok
 title: "Osaka Exchange (OSE)"
-translated_at: 2026-06-01T04:15:40.124Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Osaka Exchange (OSE)
 
@@ -21,6 +21,8 @@ For FinWiki, OSE is the starting point for Nikkei 225 futures/options, TOPIX fut
 
 ## System Map
 
+The following table is scoped to public primary sources (jpx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp]
+
 | Layer | OSE reading |
 |---|---|
 | Parent | [[financial-regulators/japan-exchange-group|Japan Exchange Group]] |
@@ -30,6 +32,8 @@ For FinWiki, OSE is the starting point for Nikkei 225 futures/options, TOPIX fut
 | Clearing | [[securities/japan-securities-clearing-corp|JSCC]] |
 
 ## Product / Market Map
+
+The following table is scoped to public primary sources (jpx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp]
 
 | Market family | Reading |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: regional-banks/hokkaido-bank
-source_hash: 95a94691c363e20a
+source_hash: 1d735a354aa7d622
 lang: ja
 status: machine
 fidelity: ok
 title: "北海道銀行"
-translated_at: 2026-06-15T04:09:41.145Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 北海道銀行
@@ -20,6 +20,8 @@ translated_at: 2026-06-15T04:09:41.145Z
 株式会社北海道銀行 (The Hokkaido Bank, 道銀) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される北海道（札幌）地盤の地方銀行 (第一地銀)。[[regional-banks/hokuhoku-fg|ほくほくフィナンシャルグループ]] の銀行事業会社であり、北陸側の [[regional-banks/hokuriku-bank|北陸銀行]] と並ぶ二地盤モデルの片翼。事業は道内の預金受入と中小企業・個人・自治体向け貸出という地方銀行の標準モデル。
 
 ## 1. 免許／グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, hokkaidobank.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; hokkaidobank.co.jp]
 
 | 項目 | 備考 |
 |---|---|

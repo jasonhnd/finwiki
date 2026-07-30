@@ -1,11 +1,11 @@
 ---
 source: regional-banks/okinawa-bank
-source_hash: 81e14a244c3b0e01
+source_hash: eadf7c1291d9f4a6
 lang: ja
 status: machine
 fidelity: ok
 title: "沖縄銀行"
-translated_at: 2026-06-19T12:43:19.913Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 沖縄銀行
@@ -20,6 +20,8 @@ translated_at: 2026-06-19T12:43:19.913Z
 株式会社沖縄銀行は、金融庁の銀行免許一覧に掲載される沖縄県本店の地方銀行。[[regional-banks/okinawa-fg]] の中核営業銀行であり、沖縄県内 No.1 の地方銀行営業会社アンカーとして扱う。
 
 ## 1. 免許 / グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, okinawa-bank.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; okinawa-bank.co.jp]
 
 | 項目 | 注記 |
 |---|---|

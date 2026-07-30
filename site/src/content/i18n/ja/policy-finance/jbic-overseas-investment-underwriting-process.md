@@ -1,12 +1,12 @@
 ---
 source: policy-finance/jbic-overseas-investment-underwriting-process
-source_hash: 2f068d2d6cec51e3
+source_hash: a6de8e57684a1ab6
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "JBIC 海外投資融資の審査プロセス"
-translated_at: 2026-06-26T08:29:17.583Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # JBIC 海外投資融資の審査プロセス
@@ -21,6 +21,8 @@ JBIC の審査は、二項対立の資金勘定の区別 —— **一般業務�
 
 ## 1. 機関 / 部門位置
 
+以下の表は、エントリ出典インベントリの公開一次資料（jbic.go.jp, oecd.org, meti.go.jp）の範囲に限定して読む。^[source:jbic.go.jp; oecd.org; meti.go.jp]
+
 | Item | Detail |
 |---|---|
 | Parent entity | [[financial-regulators/jbic|JBIC]] (株式会社国際協力銀行), 100% state-owned special company, sole shareholder 財務大臣 |
@@ -34,6 +36,8 @@ JBIC の審査は、二項対立の資金勘定の区別 —— **一般業務�
 一般業務勘定対特別業務勘定の区分は、審査の目的にとって最も重要な構造的特徴である。一般業務勘定は通常の政策銀行的な信用規律によって制約される；特別業務勘定は、さもなければファイナンス不可能な政策戦略的取引で JBIC が損失を取れるよう、明示的に創設された。
 
 ### 2.1 プロダクト分類
+
+以下の表は、エントリ出典インベントリの公開一次資料（jbic.go.jp, oecd.org, meti.go.jp）の範囲に限定して読む。^[source:jbic.go.jp; oecd.org; meti.go.jp]
 
 | Product line | Borrower | Typical use | OECD Arrangement applicability | Account |
 |---|---|---|---|---|
@@ -166,6 +170,8 @@ JBIC の年間融資量と政策スタンスは各中期計画サイクルとと
 特別業務勘定は、一般業務勘定の信用規律では届かないこれら政策戦略的取引で、JBIC が損失負担リスクを取ることを可能にする制度的ビークルである。
 
 ## 7. Comparative position — JBIC OIL vs adjacent lenders
+
+以下の表は、エントリ出典インベントリの公開一次資料（jbic.go.jp, oecd.org, meti.go.jp）の範囲に限定して読む。^[source:jbic.go.jp; oecd.org; meti.go.jp]
 
 | Dimension | JBIC OIL (General Operations) | JBIC OIL (Special Operations) | Megabank cross-border loan | [[policy-finance/jica\|JICA]] overseas investment / finance | Peer ECA direct loan (US EXIM, K-EXIM, UKEF) |
 |---|---|---|---|---|---|

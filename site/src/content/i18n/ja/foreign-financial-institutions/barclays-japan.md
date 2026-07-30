@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/barclays-japan
-source_hash: 7fc654e290b192b8
+source_hash: 97cf62b5f6f3da05
 lang: ja
 status: machine
 fidelity: ok
 title: "バークレイズ日本 (Barclays Japan)"
-translated_at: 2026-06-02T14:01:20.953Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # バークレイズ日本 (Barclays Japan)
@@ -25,6 +25,8 @@ translated_at: 2026-06-02T14:01:20.953Z
 
 ### 主要日本法人
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | 法人 | 形態 | 業務 |
 |---|---|---|
 | **バークレイズ銀行 東京支店** (Barclays Bank PLC, Tokyo Branch) | 外国銀行支店 | 法人銀行業務、マーケッツ |
@@ -35,6 +37,8 @@ translated_at: 2026-06-02T14:01:20.953Z
 - 旧 **バークレイズ・グローバル・インベスターズ信託銀行**（BGI）→ 2008 住友信託銀行（現 [[trust-banks/sumitomo-mitsui-trust]]）に吸収合併 ^[extracted]
 
 ### バークレイズ証券（実体情報）^[extracted]
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | 項目 | 内容 |
 |---|---|
@@ -63,6 +67,8 @@ Barclays PLC（英国上場、G-SIB Bucket 2）
 
 ## 2. 沿革・重要年表
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | 年 | 事象 |
 |---|---|
 | **1969** | バークレイズ銀行 **東京駐在員事務所** 開設（バークレイズ初のアジア拠点）^[extracted] |
@@ -88,6 +94,8 @@ Barclays PLC（英国上場、G-SIB Bucket 2）
 > **誤解しやすい点**: バークレイズの **Lehman 北米買収（2008-09）は日本に直接的な人員・業務拡大効果をもたらしていない**。アジア太平洋（含 日本）+ 欧州・中東は [[securities-firms/nomura-hd]] が買収した。日本拠点の M&A / IB 拡大は自力で行われた。
 
 ## 3. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

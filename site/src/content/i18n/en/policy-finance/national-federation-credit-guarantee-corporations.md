@@ -1,11 +1,11 @@
 ---
 source: policy-finance/national-federation-credit-guarantee-corporations
-source_hash: 7e23d0532a4fb296
+source_hash: a20bb430d1a4285f
 lang: en
 status: machine
 fidelity: ok
 title: "Japan Federation of Credit Guarantee Corporations"
-translated_at: 2026-06-19T12:43:19.969Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan Federation of Credit Guarantee Corporations
@@ -19,6 +19,8 @@ This entry sits under [[policy-finance/INDEX|policy-finance index]] as the **fed
 The Japan Federation of Credit Guarantee Corporations (一般社団法人全国信用保証協会連合会, **JFG** / **全信保連**) is the national federation for Japan's 51 local credit guarantee corporations (47 prefectural + 4 city CGCs — Yokohama / Kawasaki / Nagoya / Gifu). It is **not itself the guarantee system** — it is the coordinating, research, training, system-administration, and financial-support body sitting above the 51 local CGCs and interfacing with [[financial-regulators/jfc|JFC]] credit insurance and METI / SME Agency policy. Its most operationally significant function is administering the **責任共有制度** (responsibility-sharing system) financial flows nationwide. During the 2020–2022 ZeroZero loan rollout, JFG was the federation-level coordinator setting unified operational standards across the 51 CGCs and is now coordinating the post-COVID exit framework as the subrogation wave runs through 2023–2026.
 
 ## 1. 機関概要
+
+The following table is scoped to public primary sources (zenshinhoren.or.jp, chusho.meti.go.jp, jfc.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:zenshinhoren.or.jp; chusho.meti.go.jp; jfc.go.jp]
 
 | 項目 | 内容 |
 |---|---|
@@ -44,6 +46,8 @@ The 4 city CGCs exist because at the historical foundation of the system, the fo
 
 ## 3. JFG role map
 
+The following table is scoped to public primary sources (zenshinhoren.or.jp, chusho.meti.go.jp, jfc.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:zenshinhoren.or.jp; chusho.meti.go.jp; jfc.go.jp]
+
 | Role | Detail |
 |---|---|
 | Member support | Financial / operational / IT / training support to the 51 local CGCs; standard operating procedures; risk-management coordination. |
@@ -61,6 +65,8 @@ The 4 city CGCs exist because at the historical foundation of the system, the fo
 
 JFG was the operational federation-level coordinator for the **2020–2022 ZeroZero loan** rollout (実質無利子・無担保融資) — see [[policy-finance/japan-credit-guarantee-system]] for system-level mechanics. JFG's role:
 
+The following table is scoped to public primary sources (zenshinhoren.or.jp, chusho.meti.go.jp, jfc.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:zenshinhoren.or.jp; chusho.meti.go.jp; jfc.go.jp]
+
 | Phase | JFG action |
 |---|---|
 | Program design (2020-04) | Federation-level standardization of ZeroZero application form, lender-CGC operational interface, eligibility check, document standards. |
@@ -76,6 +82,8 @@ The post-COVID exit framework (since ~2022) emphasizes **patient borrower-by-bor
 ## 5. Member CGC ranking by guarantee outstanding
 
 Among the 51 member CGCs, the largest by guarantee outstanding (保証残高) typically include:
+
+The following table is scoped to public primary sources (zenshinhoren.or.jp, chusho.meti.go.jp, jfc.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:zenshinhoren.or.jp; chusho.meti.go.jp; jfc.go.jp]
 
 | Rank tier | CGCs (illustrative) | Why |
 |---|---|---|
@@ -98,6 +106,8 @@ The **JFC 信用保険業務** (credit insurance business) is the reinsurance la
 JFC inherited the credit-insurance business from the predecessor 中小企業信用保険公庫 (1958), which was integrated into JFC in 2008 as part of the policy-finance reorganization. The credit-insurance business is now operated within JFC alongside JFC's direct SME / small-business / agriculture-forestry-fisheries / international lending — see [[financial-regulators/jfc]].
 
 ## 7. Year evolution
+
+The following table is scoped to public primary sources (zenshinhoren.or.jp, chusho.meti.go.jp, jfc.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:zenshinhoren.or.jp; chusho.meti.go.jp; jfc.go.jp]
 
 | Year | Event |
 |---|---|

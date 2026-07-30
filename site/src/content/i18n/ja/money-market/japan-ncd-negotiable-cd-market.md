@@ -1,11 +1,11 @@
 ---
 source: money-market/japan-ncd-negotiable-cd-market
-source_hash: 19610ed46cdc559a
+source_hash: 89d6efdd1b1b1282
 lang: ja
 status: machine
 fidelity: ok
 title: "日本のNCD（譲渡性預金）市場"
-translated_at: 2026-06-19T06:09:18.146Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本のNCD（譲渡性預金）市場
@@ -22,6 +22,8 @@ NCD 残高は日銀が公表する単一の短期円建て商品残高として�
 
 ## マーケットマップ
 
+以下の表は、エントリ出典インベントリの公開一次資料（boj.or.jp, fsa.go.jp, jsda.or.jp）の範囲に限定して読む。^[source:boj.or.jp; fsa.go.jp; jsda.or.jp]
+
 | レイヤー | 機能 | FinWiki ルート |
 |---|---|---|
 | 発行体 | 預金取扱銀行が自らの名義で NCD を発行する；メガバンク、信託銀行、地方銀行のいずれも発行する。 | [[megabanks/mufg]], [[megabanks/smfg]], [[megabanks/mizuho-fg]] |
@@ -31,6 +33,8 @@ NCD 残高は日銀が公表する単一の短期円建て商品残高として�
 | 統計 | 日銀の短期金融市場統計および預金統計；銀行のディスクロージャー。 | 日銀統計サーフェス |
 
 ## 商品メカニクス
+
+以下の表は、エントリ出典インベントリの公開一次資料（boj.or.jp, fsa.go.jp, jsda.or.jp）の範囲に限定して読む。^[source:boj.or.jp; fsa.go.jp; jsda.or.jp]
 
 | 要素 | 読み方 |
 |---|---|

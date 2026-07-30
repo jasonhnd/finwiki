@@ -9,8 +9,8 @@ aliases:
   - "Government Housing Loan Corporation successor"
 domain: "policy-finance"
 created: 2026-05-21
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [policy-finance, housing-finance, securitization, public-credit, mbs, flat-35, japan]
@@ -37,6 +37,8 @@ Japan Housing Finance Agency (住宅金融支援機構, JHF) is Japan's housing-
 
 ## 1. 機関概要
 
+The following table is scoped to public primary sources (jhf.go.jp, mlit.go.jp, mof.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jhf.go.jp; mlit.go.jp; mof.go.jp]
+
 | 項目 | 内容 |
 |---|---|
 | 法的形態 | 独立行政法人 (Incorporated Administrative Agency) |
@@ -50,6 +52,8 @@ Japan Housing Finance Agency (住宅金融支援機構, JHF) is Japan's housing-
 | FinWiki lane | [[policy-finance/INDEX|policy-finance]] (not a JapanFG company page; not a bank) |
 
 ## 2. 業務マップ
+
+The following table is scoped to public primary sources (jhf.go.jp, mlit.go.jp, mof.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jhf.go.jp; mlit.go.jp; mof.go.jp]
 
 | 業務 | 内容 | 取引相手 |
 |---|---|---|
@@ -74,6 +78,8 @@ JHF's flagship product family is the **Flat 35** (フラット35) long-term fixe
 Flat 35 origination volume runs in the hundreds of thousands of loans per year, with annual disbursement in the trillions of yen scale at peak periods; JHF MBS issuance is the downstream funding leg of this origination flow.
 
 ## 4. Year evolution and the 2007 privatization-then-recreated arc
+
+The following table is scoped to public primary sources (jhf.go.jp, mlit.go.jp, mof.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jhf.go.jp; mlit.go.jp; mof.go.jp]
 
 | Year | Event | Significance |
 |---|---|---|

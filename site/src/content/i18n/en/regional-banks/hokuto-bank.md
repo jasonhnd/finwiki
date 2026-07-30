@@ -1,11 +1,11 @@
 ---
 source: regional-banks/hokuto-bank
-source_hash: fcea93d5a38a5bec
+source_hash: ca9b33ea1cbfc1e9
 lang: en
 status: machine
 fidelity: ok
 title: "The Hokuto Bank (北都銀行)"
-translated_at: 2026-06-15T04:09:41.172Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # The Hokuto Bank (北都銀行)
@@ -20,6 +20,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 The Hokuto Bank, Ltd. (株式会社北都銀行) is a regional bank (first regional bank) headquartered in Akita Prefecture, holding a bank license under the Banking Act and listed in the FSA's bank license list, an operating bank under [[regional-banks/fidea-hd|フィデアホールディングス]]. As announced 2024-11 , it is scheduled to **merge in 2027 年 1 月** with [[regional-banks/shonai-bank|荘内銀行]] (Yamagata) under the same FG and launch as "Fidea Bank" (head office: Yamagata City). The substance of its business is the standard regional-bank model of deposit-taking within Akita Prefecture and lending to SMEs, individuals, and local governments.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, hokutobank.co.jp, nikkinonline.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; hokutobank.co.jp; nikkinonline.com]
 
 | Item | Notes |
 |---|---|

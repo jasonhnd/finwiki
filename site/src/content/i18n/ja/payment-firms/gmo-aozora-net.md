@@ -1,11 +1,11 @@
 ---
 source: payment-firms/gmo-aozora-net
-source_hash: 6b63012d77418cdf
+source_hash: 7a1bedacc22bc1e1
 lang: ja
 status: machine
 fidelity: ok
 title: "GMO あおぞらネット銀行"
-translated_at: 2026-07-28T16:39:58Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # GMO あおぞらネット銀行
@@ -28,6 +28,8 @@ translated_at: 2026-07-28T16:39:58Z
 **業態**：銀行業（普通銀行 / ネット銀行）
 
 ### 主要株主（2026-02-20 時点・公式会社概要）
+
+以下の表は、エントリ出典インベントリの公開一次資料（gmo-aozora.com, group.gmo）の範囲に限定して読む。^[source:gmo-aozora.com; group.gmo]
 
 | 株主 | 持株比率 | 議決権比率 |
 |---|---|---|
@@ -53,6 +55,8 @@ GMO インターネットグループ（東証 PRIME 9449・熊谷正寿）
 
 ### 沿革 ^[extracted]
 
+以下の表は、エントリ出典インベントリの公開一次資料（gmo-aozora.com, group.gmo）の範囲に限定して読む。^[source:gmo-aozora.com; group.gmo]
+
 | 年月 | 事象 |
 |---|---|
 | 2004-04 | **あおぞら信託銀行** 開業（[[regional-banks/aozora-bank]] 100% 子会社、信託業務中心） |
@@ -64,6 +68,8 @@ GMO インターネットグループ（東証 PRIME 9449・熊谷正寿）
 | 2023 | あおぞら銀行保有の種類株式を GMO フィナンシャルホールディングスへ譲渡（株主間契約に基づく）|
 
 ## 2. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（gmo-aozora.com, group.gmo）の範囲に限定して読む。^[source:gmo-aozora.com; group.gmo]
 
 | セグメント | 主要事業 | 特徴 |
 |---|---|---|

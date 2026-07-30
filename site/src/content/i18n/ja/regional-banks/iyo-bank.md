@@ -1,11 +1,11 @@
 ---
 source: regional-banks/iyo-bank
-source_hash: ddce8d71e2cf69f0
+source_hash: 8cd798758d51229a
 lang: ja
 status: machine
 fidelity: ok
 title: "伊予銀行"
-translated_at: 2026-06-15T04:09:41.188Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 伊予銀行
@@ -20,6 +20,8 @@ translated_at: 2026-06-15T04:09:41.188Z
 株式会社伊予銀行 (The Iyo Bank) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される愛媛県松山市本店の地方銀行 (第一地銀)。[[regional-banks/iyogin-hd|いよぎんホールディングス]] の中核事業銀行であり、愛媛県を代表する地方銀行 事業会社アンカー。事業の中身は県内・四国の預金受入と中小企業・個人・自治体向け貸出という地方銀行の標準モデル。
 
 ## 1. 免許／グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, iyobank.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; iyobank.co.jp]
 
 | 項目 | 備考 |
 |---|---|

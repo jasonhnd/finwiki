@@ -1,11 +1,11 @@
 ---
 source: life-insurers/prudential-japan
-source_hash: 5646bf99578c6951
+source_hash: 2a06101c485b8b40
 lang: en
 status: machine
 fidelity: ok
 title: "Prudential Gibraltar Financial (Prudential Japan)"
-translated_at: 2026-06-19T06:09:18.115Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Prudential Gibraltar Financial (Prudential Japan)
@@ -27,6 +27,8 @@ The group of Japanese subsidiaries of US **Prudential Financial, Inc.** (NYSE: P
 > Note: US Prudential Financial and **UK Prudential plc are completely separate legal entities**. After a 19 -century trademark dispute, each owns the trademark rights by region. UK Prudential plc is now centered on Asia and Africa, with its UK life-insurance business spun off and separately listed as 2019  M&G plc. ^[extracted]
 
 ### Consolidated position of the 3  life insurers ^[extracted]
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Entity | Establishment/Acquisition | Main channel | Brand role |
 |---|---|---|---|
@@ -52,6 +54,8 @@ Prudential Financial, Inc. (US, NYSE: PRU)
 
 ### Key chronology (excerpt) ^[extracted]
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Year/Month | Event |
 |---|---|
 | 1875 | US Prudential Financial founded (New Jersey, US)|
@@ -68,6 +72,8 @@ Prudential Financial, Inc. (US, NYSE: PRU)
 | 2024~ | Improvement of investment yields in the BoJ-normalization phase, bonuses, and raising of assumed interest rates |
 
 ## 2. Business segment map
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Segment | Main operator | Characteristics |
 |---|---|---|
@@ -87,6 +93,8 @@ Prudential Financial, Inc. (US, NYSE: PRU)
 
 ### 3  Brand-differentiation strategy
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Brand | Channel | Target |
 |---|---|---|
 | **Prudential Life** | Life Planner (direct-sales advanced staff)| Executives / high-value segment / professionals |
@@ -97,6 +105,8 @@ Prudential Financial, Inc. (US, NYSE: PRU)
 - From the general-customer viewpoint, the design makes it **hard to see that 3 社 are the same parent company (US Prudential)**
 
 ### Main competitors ^[extracted]
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Competitor category | Main counterparts |
 |---|---|

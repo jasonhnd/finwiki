@@ -1,11 +1,11 @@
 ---
 source: regional-banks/suruga-bank
-source_hash: 19cec5f52f7493c6
+source_hash: 2cbc4caac8e62adb
 lang: en
 status: machine
 fidelity: ok
 title: "Suruga Bank"
-translated_at: 2026-06-19T12:43:19.928Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Suruga Bank
 
@@ -29,6 +29,8 @@ A mid-sized regional bank based in eastern Shizuoka Prefecture (Numazu). **Found
 
 ### Major shareholders (recent / public basis) ^[extracted]
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Shareholder | Ratio (approximate) |
 |---|---|
 | Nojima (consumer-electronics retailer, TSE PRIME 7419) | ~18% or so |
@@ -37,6 +39,8 @@ A mid-sized regional bank based in eastern Shizuoka Prefecture (Numazu). **Found
 | Individual shareholders | Relatively high ratio (regional-bank characteristic) |
 
 ### Key chronology ^[extracted]
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Year/Month | Event |
 |---|---|
@@ -56,6 +60,8 @@ A mid-sized regional bank based in eastern Shizuoka Prefecture (Numazu). **Found
 | 2023-2024 | Medium-term management plan "Trust Recovery / Regional Co-creation" phase |
 
 ## 2. Business segment map
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Segment | Content | Characteristics |
 |---|---|---|

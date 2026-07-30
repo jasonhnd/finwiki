@@ -3,8 +3,8 @@ title: "太陽生命保険"
 aliases: ["太陽生命", "Taiyo Life", "Taiyo Life Insurance", "太陽生命保険株式会社"]
 domain: life-insurers
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, insurance, life-insurance, td-hd, operating-company]
@@ -27,6 +27,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 太陽生命保険株式会社は、[[life-insurers/td-hd]] group の major life-insurance operating company。[[life-insurers/daido-life]] が SME / owner market に強いのに対し、太陽生命は household / individual protection market の operating arm として見ると T&D group の split strategy が読みやすい。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, taiyo-seimei.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; taiyo-seimei.co.jp]
 
 | Item | Notes |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: regional-banks/tohoku-bank
-source_hash: eff0d76e3ab7dc86
+source_hash: 94e63d758953d88b
 lang: en
 status: machine
 fidelity: ok
 title: "The Tohoku Bank"
-translated_at: 2026-06-15T04:09:41.155Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # The Tohoku Bank
@@ -19,6 +19,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 The Tohoku Bank, Ltd. (株式会社東北銀行, commonly "Tougin") is a regional bank (first-tier regional bank) headquartered in Morioka City, Iwate Prefecture, that holds a bank license under the Banking Act and is listed on the FSA's bank license list. According to its official company profile, it was established in 1950 年 10 月as a 1 行of postwar regional banks. Although it is based in Iwate, the same as [[regional-banks/iwate-bank|岩手銀行]], it is an independent licensed regional bank operating company; because the basic agreement on management integration with [[regional-banks/fidea-hd|フィデアホールディングス]] was terminated in 2022 年 2 月, it is not a Fidea-affiliated bank. Its business is the standard regional-bank model of deposit-taking within Iwate Prefecture and lending to SMEs / individuals.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, tohoku-bank.co.jp, hokutobank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; tohoku-bank.co.jp; hokutobank.co.jp]
 
 | Item | Notes |
 |---|---|

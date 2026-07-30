@@ -1,12 +1,12 @@
 ---
 source: securities-firms/ffg-securities
-source_hash: f65bcfdf817d0d5c
+source_hash: aa3f39d2eba9a97b
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "FFG 証券 (FFG 証券)"
-translated_at: 2026-06-26T08:32:23.071Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # FFG 証券 (FFG 証券)
@@ -18,6 +18,8 @@ translated_at: 2026-06-26T08:32:23.071Z
 ## 要約株式会社 FFG 証券は、[[regional-banks/fukuoka-fg|ふくおか FG (FFG, 東証 PRIME 8354)]] 100% 子会社の地銀系証券会社で、九州地盤 ([[regional-banks/fukuoka-bank|福岡銀行]] / [[regional-banks/18-shinwa-bank|十八親和銀行]] / [[regional-banks/kumamoto-bank|熊本銀行]]) の中堅企業のメインバンク顧客向け資産運用・公募株引受・私募債仲介・事業承継助言 を提供。第一種金融商品取引業 (証券業) 免許で、[[financial-regulators/jsda|日本証券業協会]] 加盟。九州地盤の銀証連携モデルの代表例。^[extracted]
 
 ## 1. ライセンス・グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（ffg-sec.co.jp, fukuoka-fg.com, fsa.go.jp）の範囲に限定して読む。^[source:ffg-sec.co.jp; fukuoka-fg.com; fsa.go.jp; jsda.or.jp]
 
 | 項目 | 注記 |
 |---|---|
@@ -62,6 +64,8 @@ translated_at: 2026-06-26T08:32:23.071Z
 
 ## 4. KPI 表（概念整理）
 
+以下の表は、エントリ出典インベントリの公開一次資料（ffg-sec.co.jp, fukuoka-fg.com, fsa.go.jp）の範囲に限定して読む。^[source:ffg-sec.co.jp; fukuoka-fg.com; fsa.go.jp; jsda.or.jp]
+
 | 項目 | 概況 |
 |---|---|
 | 創業 / 設立 | 1940-06-06 創業（前身前田良三商店）/ 1944-07-07 設立（前田証券）。2012-04 福岡銀行完全子会社化で「ふくおか証券」へ商号変更、2018-05 「FFG 証券」へ商号変更、2022-04 福岡銀行 → ふくおか FG 直下へ移管 |
@@ -77,6 +81,8 @@ translated_at: 2026-06-26T08:32:23.071Z
 > 注: FFG 証券は非上場の完全子会社のため単体財務 KPI 精緻値は単独開示されず、[[regional-banks/fukuoka-fg]] 有価証券報告書セグメント情報を参照
 
 ## 5. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（ffg-sec.co.jp, fukuoka-fg.com, fsa.go.jp）の範囲に限定して読む。^[source:ffg-sec.co.jp; fukuoka-fg.com; fsa.go.jp; jsda.or.jp]
 
 | セグメント | 特徴 |
 |---|---|

@@ -8,8 +8,8 @@ aliases:
   - 日アジ
 domain: securities-firms
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-06-24
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-08-08
 confidence: likely
 tags: [JapanFG, securities, independent, mid-cap, FIEA-type-1, asia]
@@ -52,6 +52,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ## 3. 業務セグメント（中小独立証券一般形態）
 
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp]
+
 | セグメント | 内容 | 中小独立証券における位置付け |
 |---|---|---|
 | 国内株式仲介 | 日本株（TSE） | 主力収益 |
@@ -63,6 +65,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 ## 4. 競合・業界ポジション（中小独立証券セグメント）
 
 中小独立証券セグメント（資本金 10〜30 億円・従業員数 100 名前後）には日本アジア証券のほか多数の業者が登録されている。代表的セグメント構造：
+
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp]
 
 | カテゴリ | 代表例 | 特徴 |
 |---|---|---|

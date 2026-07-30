@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/bank-negara-indonesia-japan
-source_hash: 807294d37b05a226
+source_hash: 1bdb791894f54705
 lang: ja
 status: machine
 fidelity: ok
 title: "バンクネガラインドネシア日本 (Bank Negara Indonesia Japan)"
-translated_at: 2026-06-18T23:59:13.044Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # バンクネガラインドネシア日本 (Bank Negara Indonesia Japan)
@@ -24,6 +24,8 @@ BNI の公開グローバルネットワーク・ページによれば、BNI 東
 
 ## 主体の境界
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, bni.co.id, ptbni.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; bni.co.id; ptbni.co.jp]
+
 | 項目 | 参照 |
 |---|---|
 | 親銀行 | PT Bank Negara Indonesia (Persero) Tbk |
@@ -33,6 +35,8 @@ BNI の公開グローバルネットワーク・ページによれば、BNI 東
 | 規制ルート | 金融庁の外国銀行支店一覧；親会社はインドネシア当局の監督下。 |
 
 ## 業務ロール・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, bni.co.id, ptbni.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; bni.co.id; ptbni.co.jp]
 
 | 機能 | 日本における関連性 |
 |---|---|

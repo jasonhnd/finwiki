@@ -1,11 +1,11 @@
 ---
 source: payment-firms/netstars
-source_hash: 6573d0607f1bf435
+source_hash: 83735f1ff4d81d48
 lang: en
 status: machine
 fidelity: ok
 title: "Netstars"
-translated_at: 2026-06-01T00:41:50.421Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Netstars
 
@@ -20,6 +20,8 @@ Netstars Inc. is a QR / multi-cashless payment gateway operator whose StarPay se
 For FinWiki, Netstars is the specialist route for QR gateway aggregation, not a consumer wallet like [[payment-firms/paypay|PayPay]] or [[payment-firms/merpay|Merpay]]. It sits between merchants, payment brands, PSP risk controls, and cross-border code-payment acceptance.
 
 ## 1. Entity / License Boundary
+
+The following table is scoped to public primary sources (netstars.co.jp, fsa.go.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:netstars.co.jp; fsa.go.jp; meti.go.jp]
 
 | Item | Reading |
 |---|---|

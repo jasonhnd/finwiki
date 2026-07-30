@@ -1,11 +1,11 @@
 ---
 source: money-market/japan-tbill-treasury-discount-bill
-source_hash: 1d17427fbf914936
+source_hash: de1ae81259e556f0
 lang: ja
 status: machine
 fidelity: ok
 title: "日本国庫短期証券 (TDB / 国庫短期証券)"
-translated_at: 2026-06-19T06:09:18.179Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本国庫短期証券 (TDB / 国庫短期証券)
@@ -22,6 +22,8 @@ TDB は MOF の通常の JGB 入札カレンダーに載り、日銀ネット JG
 
 ## マーケットマップ
 
+以下の表は、エントリ出典インベントリの公開一次資料（mof.go.jp, boj.or.jp）の範囲に限定して読む。^[source:mof.go.jp; boj.or.jp]
+
 | レイヤー | 機能 | FinWiki ルート |
 |---|---|---|
 | ソブリン発行体 | MOF は短期資金の管理と一般会計のニーズの調達のため、通常の入札カレンダーで 3M / 6M / 1Y の TDB を発行する。 | MOF 国債局 |
@@ -31,6 +33,8 @@ TDB は MOF の通常の JGB 入札カレンダーに載り、日銀ネット JG
 | レポ / 担保 | TDB は GC および SC レポで取引され、日銀担保として受け入れられる。 | [[money-market/jgb-repo-market-japan]] |
 
 ## 発行メカニクス
+
+以下の表は、エントリ出典インベントリの公開一次資料（mof.go.jp, boj.or.jp）の範囲に限定して読む。^[source:mof.go.jp; boj.or.jp]
 
 | 要素 | 読み方 |
 |---|---|
@@ -63,6 +67,8 @@ MOF は投資家タイプ別の JGB および TDB 保有の内訳を公表して
 
 日銀は複数のオペレーション面で TDB を使用する：
 
+以下の表は、エントリ出典インベントリの公開一次資料（mof.go.jp, boj.or.jp）の範囲に限定して読む。^[source:mof.go.jp; boj.or.jp]
+
 | 日銀の機能 | TDB の連関 |
 |---|---|
 | アウトライト買入 | 日銀は過去のフレームワークで資金供給オペの一部として TDB を買い入れてきた。 |
@@ -71,6 +77,8 @@ MOF は投資家タイプ別の JGB および TDB 保有の内訳を公表して
 | 政策波及 | TDB 利回りは [[money-market/boj-post-2024-floor-system-complementary-deposit-facility|post-2024 floor system]] 政策金利と相互作用するクリーンな短期金利マーカーを提供する。 |
 
 ## TDB 利回りの読み方
+
+以下の表は、エントリ出典インベントリの公開一次資料（mof.go.jp, boj.or.jp）の範囲に限定して読む。^[source:mof.go.jp; boj.or.jp]
 
 | 読み方のレンズ | 備考 |
 |---|---|

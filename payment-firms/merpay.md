@@ -3,8 +3,8 @@ title: "メルペイ (Merpay)"
 aliases: ["Merpay", "メルペイ", "株式会社メルペイ", "Merpay Inc."]
 domain: payment-firms
 created: 2026-05-21
-last_updated: 2026-06-24
-last_tended: 2026-06-24
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-12-24
 confidence: likely
 tags: [JapanFG, payments, wallet, funds-transfer, mercari]
@@ -44,6 +44,8 @@ sources:
 メルペイは [[payment-firms/mercari-hd|メルカリ]] の決済・与信運営会社。公式 About は資金移動業、前払式支払手段、信用購入あっせん、貸金業などの登録を示しており、マーケットプレイス残高、ウォレット、与信の接続点として独立ページが必要になる。^[verified-2026-06-24]
 
 ## 1. 法人・ライセンス境界
+
+The following table is scoped to public primary sources (jp.merpay.com, fsa.go.jp, static.jp.mercari.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jp.merpay.com; fsa.go.jp; static.jp.mercari.com]
 
 | 項目 | 読み方 |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/euroclear-bank-japan
-source_hash: 4d485c19c3b2d2ec
+source_hash: 77e2d54f76db774a
 lang: en
 status: machine
 fidelity: ok
 title: "Euroclear Bank Japan (ユーロクリア・バンク日本)"
-translated_at: 2026-06-18T23:59:13.085Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Euroclear Bank Japan (ユーロクリア・バンク日本)
@@ -34,6 +34,8 @@ That makes this page a peer of [[foreign-financial-institutions/clearstream-bank
 
 ## Function Stack
 
+The following table is scoped to public primary sources (fsa.go.jp, euroclear.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; euroclear.com]
+
 | Layer | Japan relevance | Main evidence route |
 |---|---|---|
 | Foreign-bank branch | FSA bank-license list identifies the Japan branch row. | FSA licensed-institution list / city bank foreign-branch PDF. |
@@ -44,6 +46,8 @@ That makes this page a peer of [[foreign-financial-institutions/clearstream-bank
 
 ## Japan Asset Route
 
+The following table is scoped to public primary sources (fsa.go.jp, euroclear.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; euroclear.com]
+
 | Question | Reading route |
 |---|---|
 | Is this a Japan retail bank? | No. Treat it as wholesale post-trade infrastructure, not a consumer bank. |
@@ -53,6 +57,8 @@ That makes this page a peer of [[foreign-financial-institutions/clearstream-bank
 | Which pages be opened next? | [[securities/japan-market-infrastructure-map|market infrastructure map]], [[banking/japan-trust-bank-custody-map|trust-bank custody map]], and [[securities/japan-stock-lending-market-route|stock lending route]]. |
 
 ## Peer / Contrast Map
+
+The following table is scoped to public primary sources (fsa.go.jp, euroclear.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; euroclear.com]
 
 | Peer | Contrast |
 |---|---|

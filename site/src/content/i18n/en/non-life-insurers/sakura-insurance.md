@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/sakura-insurance
-source_hash: 4bb2bbfdf2212f5b
+source_hash: 2af34a09db9ba8a3
 lang: en
 status: machine
 fidelity: ok
 title: "Sakura Insurance / Sakura Non-Life Insurance"
-translated_at: 2026-06-01T00:41:50.477Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Sakura Insurance / Sakura Non-Life Insurance
 
@@ -20,6 +20,8 @@ Sakura Insurance is a licensed specialty non-life insurer whose public materials
 This page covers Sakura Non-Life Insurance Co., Ltd. It should not be confused with similarly named insurance agencies or Sakura Internet / Sakura Bank historical references.
 
 ## Business Role Map
+
+The following table is scoped to public primary sources (fsa.go.jp, sakura-ins.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sakura-ins.co.jp]
 
 | Route | Reading |
 |---|---|

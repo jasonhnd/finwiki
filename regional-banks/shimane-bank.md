@@ -3,8 +3,8 @@ title: "島根銀行"
 aliases: ["Shimane Bank", "The Shimane Bank", "株式会社島根銀行", "しまぎん"]
 domain: regional-banks
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, banking, second-regional-bank, chugoku, shimane, operating-company]
@@ -27,6 +27,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 株式会社島根銀行は、金融庁の銀行免許一覧に掲載される島根県本店の第二地方銀行。山陰の second-regional-bank operating-company anchor であり、[[regional-banks/san-in-godo-bank]] とは別法人の local peer、[[megabanks/sbi-regional-bank-hd]] とは資本業務提携先として扱う。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, shimagin.co.jp, sbigroup.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; shimagin.co.jp; sbigroup.co.jp]
 
 | Item | Notes |
 |---|---|

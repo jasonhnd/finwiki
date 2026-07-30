@@ -1,12 +1,12 @@
 ---
 source: securities/japan-ipo-2024-2025-case-study-kioxia-tokyo-metro
-source_hash: eb21d0feb49d9fb5
+source_hash: 7ed29b5df8932396
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の IPO 2024-2025 ケーススタディ：東京メトロとキオクシア"
-translated_at: 2026-06-26T08:32:23.061Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本の IPO 2024-2025 ケーススタディ：東京メトロとキオクシア
@@ -25,6 +25,8 @@ translated_at: 2026-06-26T08:32:23.061Z
 いずれの案件も FinWiki の読者にとって有用であり、(1) TSE プライムにおける民営化型の国有資産上場、(2) グローバルな投資家分配を伴う大型テクノロジー発行体の上場、(3) [[securities/japan-ipo-listing-disclosure-route|Japan IPO listing disclosure route]] のオペレーション上のメカニクス、を示すものである。
 
 ## Case Study Map
+
+以下の表は、エントリ出典インベントリの公開一次資料（jpx.co.jp, disclosure2.edinet-fsa.go.jp, jsda.or.jp）の範囲に限定して読む。^[source:jpx.co.jp; disclosure2.edinet-fsa.go.jp; jsda.or.jp; mof.go.jp]
 
 | 案件 | 市場区分 / ルート | FinWiki にとってなぜ重要か |
 |---|---|---|
@@ -96,6 +98,8 @@ translated_at: 2026-06-26T08:32:23.061Z
 ## IPO Discount and Withdrawal Statistics（2024-2025）
 
 公開 IPO 市場統計は典型的に以下を追跡する：
+
+以下の表は、エントリ出典インベントリの公開一次資料（jpx.co.jp, disclosure2.edinet-fsa.go.jp, jsda.or.jp）の範囲に限定して読む。^[source:jpx.co.jp; disclosure2.edinet-fsa.go.jp; jsda.or.jp; mof.go.jp]
 
 | 指標 | 解釈 |
 |---|---|

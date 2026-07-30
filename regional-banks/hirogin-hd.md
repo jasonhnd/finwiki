@@ -3,8 +3,8 @@ title: ひろぎん HD (Hirogin Holdings)
 aliases: ["ひろぎん HD", "Hirogin Holdings", "株式会社ひろぎんホールディングス"]
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank]
@@ -52,6 +52,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ### 沿革
 
+The following table is scoped to public primary sources (Wikipedia: ひろぎんホールディングス / 広島銀行 (2026-05-19 抽出), ひろぎん HD 第 5 期 (2025-03 期) 有価証券報告書). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Wikipedia: ひろぎんホールディングス / 広島銀行 (2026-05-19 抽出); ひろぎん HD 第 5 期 (2025-03 期) 有価証券報告書]
+
 | 年 | 事象 |
 |---|---|
 | **1878** | 第六十六国立銀行・第百四十九国立銀行 設立（広島・呉拠点）|
@@ -66,6 +68,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 | 2024 | 中期経営計画策定（2024〜2026 年度）|
 
 ## 2. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (Wikipedia: ひろぎんホールディングス / 広島銀行 (2026-05-19 抽出), ひろぎん HD 第 5 期 (2025-03 期) 有価証券報告書). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Wikipedia: ひろぎんホールディングス / 広島銀行 (2026-05-19 抽出); ひろぎん HD 第 5 期 (2025-03 期) 有価証券報告書]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

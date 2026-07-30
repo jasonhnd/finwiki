@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/hannover-re-japan
-source_hash: 7e66397c172f5452
+source_hash: 6284ba006494ddd6
 lang: ja
 status: machine
 fidelity: ok
 title: "ハノーバー再保険日本支店"
-translated_at: 2026-06-19T06:09:18.131Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # ハノーバー再保険日本支店
@@ -19,6 +19,8 @@ translated_at: 2026-06-19T06:09:18.131Z
 ハノーバー再保険会社（Hannover Rück SE, Frankfurt 上場）の日本支店。Munich Re / Swiss Re に次ぐ **世界第 3 位前後のグローバル再保険会社** の Japan branch。金融庁の損害保険会社免許一覧（外国損害保険会社等）に掲載され、低コスト構造と専門領域引受で日本の元受損保に再保険キャパシティを供給する。
 
 ## 1. License / group boundary
+
+以下の表は、エントリ出典インベントリの公開一次資料（hannover-re.com, fsa.go.jp）の範囲に限定して読む。^[source:hannover-re.com; fsa.go.jp]
 
 | Item | Notes |
 |---|---|

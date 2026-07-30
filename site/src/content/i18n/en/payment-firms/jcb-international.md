@@ -1,11 +1,11 @@
 ---
 source: payment-firms/jcb-international
-source_hash: c4b942ff3097e23a
+source_hash: 3daaaaac35f3401f
 lang: en
 status: machine
 fidelity: ok
 title: "JCB International"
-translated_at: 2026-06-15T03:48:21.859Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # JCB International
@@ -19,6 +19,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 JCB International Co., Ltd. (JCBI) is the **100% subsidiary that handles the overseas business** of [[card-issuers/jcb|JCB]]. It single-handedly carries the 3  functions for the international brand "JCB": **overseas issuance / overseas merchant acquiring / brand licensing**. Whereas domestic Japan issuance is handled directly by the parent JCB, partnerships with overseas licensee banks (Asia / Americas / Europe) and operation of the overseas merchant network (including mutual use with Discover / UnionPay) all go through JCBI.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (global.jcb). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:global.jcb]
 
 | Item | Notes |
 |---|---|

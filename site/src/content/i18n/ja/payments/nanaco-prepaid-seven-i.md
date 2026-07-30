@@ -1,12 +1,12 @@
 ---
 source: payments/nanaco-prepaid-seven-i
-source_hash: b3714cc0eeab2d1d
+source_hash: eb952a96aae652a7
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "nanaco: セブン＆アイグループのコンビニを軸とするプリペイド電子マネー"
-translated_at: 2026-06-26T08:38:42.156Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # nanaco: セブン＆アイグループのコンビニを軸とするプリペイド電子マネー
@@ -20,6 +20,8 @@ translated_at: 2026-06-26T08:38:42.156Z
 **nanaco** は、セブン＆アイ・ホールディングスグループの **コンビニを軸とするプリペイド電子マネー** であり、同時期の WAON ローンチと並行して 2007-04 にローンチされた。[[card-issuers/seven-card-service|株式会社セブン・カードサービス]]（FSA 登録の第三者型前払式支払手段発行体、法人番号 4010001088278,、2007-02-22登録）により発行され、nanaco は **FeliCa** 非接触 IC 上で動作し、**20,000店超のセブン-7・ジャパンの店舗網** に加えてイトーヨーカドーのスーパーマーケット、そごう・西武の百貨店、アカチャンホンポ、デニーズジャパン、および広範なグループ外加盟店フットプリントにおいて支配的なプリペイド電子マネーである。決済は [[banking/INDEX|Seven & i financial-services platform]] の下で [[payment-firms/seven-payment-service|Seven Payment Service]] を経由して動作し、[[regional-banks/seven-bank|Seven Bank]]（グループ銀行レール、ATM チャージ）およびオートチャージ用のセブンカード・プラスのクレジットカード・コブランドと並ぶ。nanaco ポイントのロイヤルティ通貨は 1:1 で利用可能残高に変換され、WAON POINT モデルと並行する。
 
 ## 発行会社 and operational structure
+
+以下の表は、エントリ出典インベントリの公開一次資料（nanaco-net.jp, 7card.co.jp, 7andi.com）の範囲に限定して読む。^[source:nanaco-net.jp; 7card.co.jp; 7andi.com; sej.co.jp]
 
 | 項目 | 読み方 |
 |---|---|
@@ -52,6 +54,8 @@ translated_at: 2026-06-26T08:38:42.156Z
 
 受容ネットワークは、まずセブン＆アイグループの小売アンカー、次にグループ外への拡大によって構造化されている：
 
+以下の表は、エントリ出典インベントリの公開一次資料（nanaco-net.jp, 7card.co.jp, 7andi.com）の範囲に限定して読む。^[source:nanaco-net.jp; 7card.co.jp; 7andi.com; sej.co.jp]
+
 | 区分 | Description | Examples |
 |---|---|---|
 | Inner — Seven & i Group | Group convenience-store and retail anchors | 7-Eleven Japan (~21,000 stores), Ito-Yokado, Sogo & Seibu, Akachan Honpo, Denny's Japan, York Mart, York Benimaru |
@@ -63,6 +67,8 @@ translated_at: 2026-06-26T08:38:42.156Z
 **税／公共料金の払込票決済** のユースケースは、構造的に重要な nanaco 固有のフローである：7-Eleven がレジで公金の払込票（税通知、公共料金請求書）を受け付け、そこで nanaco が受容されるため、納税者はこれらの支払いで nanaco ポイントを獲得できる — これは [[payments/waon-prepaid-aeon|WAON]] が同等に提供しないフローであり、イオンは同じ範囲の公共料金／税の払込票を受け付けないためである。
 
 ## KPI snapshot
+
+以下の表は、エントリ出典インベントリの公開一次資料（nanaco-net.jp, 7card.co.jp, 7andi.com）の範囲に限定して読む。^[source:nanaco-net.jp; 7card.co.jp; 7andi.com; sej.co.jp]
 
 | 指標 | Reading (most recent public disclosure) |
 |---|---|

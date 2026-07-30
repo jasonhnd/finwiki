@@ -1,11 +1,11 @@
 ---
 source: securities-firms/tokai-tokyo-securities
-source_hash: eba1aee8c918d624
+source_hash: d46c024d7411d8e0
 lang: en
 status: machine
 fidelity: ok
 title: "東海東京証券 (Tokai Tokyo Securities)"
-translated_at: 2026-07-28T20:55:25Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 東海東京証券 (Tokai Tokyo Securities)
@@ -73,6 +73,8 @@ Tokai Tokyo Securities Co., Ltd. is a wholly owned subsidiary of TSE Prime-liste
 - **Strategy**: deepening regional-bank partnerships; expansion of overseas securities business in Southeast Asia (Vietnam / Indonesia)
 
 ## 6. 沿革
+
+The following table is scoped to public primary sources (tokaitokyo.co.jp, tokaitokyo-fh.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:tokaitokyo.co.jp; tokaitokyo-fh.jp; fsa.go.jp]
 
 | 年月 | 事項 |
 |------|------|

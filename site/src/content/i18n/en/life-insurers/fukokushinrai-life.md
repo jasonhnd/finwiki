@@ -1,11 +1,11 @@
 ---
 source: life-insurers/fukokushinrai-life
-source_hash: 598ccb400c9f0ac1
+source_hash: 882d5d8ef7fb5a70
 lang: en
 status: machine
 fidelity: ok
 title: "Fukoku Shinrai Life Insurance"
-translated_at: 2026-06-15T03:48:21.896Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Fukoku Shinrai Life Insurance
@@ -19,6 +19,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]] (its domain ro
 Fukoku Shinrai Life Insurance Co., Ltd. is the bancassurance life-insurance operating company of the Fukoku Life group, holding a life-insurance company license under the Insurance Business Act and listed in the FSA's life-insurance-company license list. It was established in 1996 年 as "Kyoei Fire Shinrai Life Insurance," a subsidiary of [[non-life-insurers/kyoritsu-fire-marine|共栄火災海上保険]]; in 2008 年, [[life-insurers/fukoku-life|富国生命]] acquired about 80% of its shares, made it a subsidiary, and changed its trade name to "Fukoku Shinrai Life." Because its primary channel is **over-the-counter sales at financial institutions (bancassurance)**, centered on Mizuho Bank and shinkin banks, its business model is differentiated from its parent Fukoku Life, which is centered on face-to-face sales staff. Its head office is in Shinjuku-ku, Tokyo.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, fukokushinrai.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; fukokushinrai.co.jp]
 
 | Item | Notes |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: regional-banks/kirayaka-bank
-source_hash: 80a4bcea577737f3
+source_hash: 3e161738f1c37933
 lang: en
 status: machine
 fidelity: ok
 title: "Kirayaka Bank"
-translated_at: 2026-05-31T23:59:49.397Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Kirayaka Bank
 
@@ -19,6 +19,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 Kirayaka Bank, Ltd. is a second-tier regional bank headquartered in Yamagata Prefecture and listed on the FSA bank license list, and it is an operating bank under [[regional-banks/jimoto-hd]]. In the Yamagata market it competes with [[regional-banks/yamagata-bank]], and together with [[regional-banks/sendai-bank]] it forms the Jimoto group banking-license surface.
 
 ## 1. License / Group Boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, kirayaka.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; kirayaka.co.jp]
 
 | Item | Notes |
 |---|---|

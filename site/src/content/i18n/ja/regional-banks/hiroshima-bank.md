@@ -1,11 +1,11 @@
 ---
 source: regional-banks/hiroshima-bank
-source_hash: d28619897a29a792
+source_hash: 9ec6ec0aa128ca9c
 lang: ja
 status: machine
 fidelity: ok
 title: "広島銀行"
-translated_at: 2026-06-15T04:09:41.137Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 広島銀行
@@ -20,6 +20,8 @@ translated_at: 2026-06-15T04:09:41.137Z
 株式会社広島銀行 (The Hiroshima Bank) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される広島県広島市本店の地方銀行 (第一地銀)。[[regional-banks/hirogin-hd|ひろぎんホールディングス]] の中核営業銀行であり、中国地方を代表する地方銀行営業会社のアンカー。事業は瀬戸内圏の預金受入と中小企業・個人・自治体向け貸出を軸とする地方銀行の標準モデル。
 
 ## 1. 免許／グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, hirogin.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; hirogin.co.jp]
 
 | 項目 | 備考 |
 |---|---|

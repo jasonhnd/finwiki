@@ -1,11 +1,11 @@
 ---
 source: payment-firms/zaim
-source_hash: 7eba481b01f8970d
+source_hash: 6360462dcdf928e6
 lang: ja
 status: machine
 fidelity: ok
 title: "Zaim (ザイム)"
-translated_at: 2026-06-15T03:48:21.884Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Zaim (ザイム)
@@ -19,6 +19,8 @@ translated_at: 2026-06-15T03:48:21.884Z
 Zaim は 2011 年公開の国内最古参クラスの **家計簿アプリ**。[[payment-firms/money-forward|Money Forward]] ME と並び個人向け PFM カテゴリを形成してきた fintech 残量で、2022-04 に **KDDI 子会社化** され au 経済圏 ([[megabanks/au-fh|au フィナンシャル HD]]) のデータ起点アセットとして再配置された。レシート OCR + 銀行・カード API 連携 + 自治体給付金検索という機能セットが特徴。
 
 ## 1. 法人・ライセンス境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（content.zaim.net, news.kddi.com）の範囲に限定して読む。^[source:content.zaim.net; news.kddi.com]
 
 | 項目 | 読み |
 |---|---|

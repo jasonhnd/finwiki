@@ -1,11 +1,11 @@
 ---
 source: securities/osaka-digital-exchange
-source_hash: 2b0f5f35c01627c9
+source_hash: 157a374f537c3d70
 lang: en
 status: machine
 fidelity: ok
 title: "Osaka Digital Exchange (ODX)"
-translated_at: 2026-06-01T04:15:40.114Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Osaka Digital Exchange (ODX)
 
@@ -21,6 +21,8 @@ For FinWiki, ODX is the bridge between old securities market structure and token
 
 ## System Map
 
+The following table is scoped to public primary sources (odx.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:odx.co.jp; fsa.go.jp]
+
 | Layer | Reading |
 |---|---|
 | Legal name | Osaka Digital Exchange Co., Ltd. |
@@ -31,6 +33,8 @@ For FinWiki, ODX is the bridge between old securities market structure and token
 | Associations | JSDA supporting member; Japan STO Association and Japan Security Token Association supporting member. |
 
 ## Market Map
+
+The following table is scoped to public primary sources (odx.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:odx.co.jp; fsa.go.jp]
 
 | Market | Reading |
 |---|---|

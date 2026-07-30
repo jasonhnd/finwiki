@@ -1,12 +1,12 @@
 ---
 source: securities/japan-best-execution-sor-pts
-source_hash: 79ca36a4a5e6132a
+source_hash: e6f72c154c7183d5
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の最良執行、SOR、および PTS"
-translated_at: 2026-06-26T08:32:23.060Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本の最良執行、SOR、および PTS
@@ -19,6 +19,8 @@ translated_at: 2026-06-26T08:32:23.060Z
 
 ## ソーススタック
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, jsda.or.jp, japannext.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; jsda.or.jp; japannext.co.jp; odx.co.jp]
+
 | 層 | ソースルート | 何を説明するか |
 |---|---|---|
 | 規制 / 監督 | FSA 金融商品取引業者監督指針および顧客本位の業務運営ページ | 市場仲介機能、顧客最善の利益、システムリスク、注文処理、行為監督。 |
@@ -28,6 +30,8 @@ translated_at: 2026-06-26T08:32:23.060Z
 | ブローカー開示 | ブローカー最良執行ポリシーおよび執行ポリシーページ | 特定のブローカーが顧客注文をどのようにルーティングし、考慮すると述べている要因は何か。 |
 
 ## 執行ルートマップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, jsda.or.jp, japannext.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; jsda.or.jp; japannext.co.jp; odx.co.jp]
 
 | ルート | 実務上の意味 | FinWiki の読み解き |
 |---|---|---|
@@ -61,6 +65,8 @@ JSDA は PTS 取引所での上場証券の取引に関する情報を公表し�
 
 ## ブローカー比較のための質問
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, jsda.or.jp, japannext.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; jsda.or.jp; japannext.co.jp; odx.co.jp]
+
 | 質問 | 公的な関連性 |
 |---|---|
 | ブローカーは現行の最良執行ポリシーを公表しているか？ | 手数料の主張を比較する前の必読事項。 |
@@ -78,6 +84,8 @@ JSDA は PTS 取引所での上場証券の取引に関する情報を公表し�
 - [[securities-firms/gmo-click-securities|GMO Click Securities]]、[[securities-firms/dmm-com-securities|DMM.com Securities]]、および FX / CFD ブローカーは、上場現物株式の最良執行がデリバティブ執行と同じではないため、別個の商品ルートの確認が必要である。
 
 ## リスクと留保
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, jsda.or.jp, japannext.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; jsda.or.jp; japannext.co.jp; odx.co.jp]
 
 | リスク | 読み解き |
 |---|---|

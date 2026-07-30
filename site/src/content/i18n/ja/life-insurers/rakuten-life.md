@@ -1,12 +1,12 @@
 ---
 source: life-insurers/rakuten-life
-source_hash: 3f0dbd258faa471e
+source_hash: a4dee905eaa79cc8
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "楽天生命保険"
-translated_at: 2026-06-26T08:32:23.068Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 楽天生命保険
@@ -19,6 +19,8 @@ translated_at: 2026-06-26T08:32:23.068Z
 ## 要約楽天生命保険株式会社は、[[payment-firms/rakuten-fg]] / 楽天エコシステムの生命保険事業会社。金融庁の生命保険会社一覧に載る別個の引受保険会社で、楽天カード・銀行・証券・決済・ポイント経済圏と接続しうる保険ノードとして見る。
 
 ## 1. ライセンス・グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, rakuten-insurance.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; rakuten-insurance.co.jp]
 
 | 項目 | メモ |
 |---|---|

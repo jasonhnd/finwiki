@@ -1,11 +1,11 @@
 ---
 source: securities-firms/imamura-securities
-source_hash: cf465e38c9ee3dd9
+source_hash: fad03e9f4018c1bd
 lang: en
 status: machine
 fidelity: ok
 title: "Imamura Securities (今村証券)"
-translated_at: 2026-06-19T12:43:19.986Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Imamura Securities (今村証券)
@@ -19,6 +19,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 Imamura Securities is a **mid-sized regional independent securities firm headquartered in Kanazawa City, Ishikawa Prefecture** (TSE STANDARD **7175**), operating as a face-to-face retail securities firm in the Hokuriku region with locally rooted consulting sales. In the FSA's list of financial instruments business operators it is listed as "今村証券株式会社," registered as Director-General of the Hokuriku Local Finance Bureau (Kinsho) No.第3号. It is a **full member of the Japan Securities Dealers Association ([[financial-regulators/jsda|JSDA]])**. It is characterized by a **standalone Hokuriku (Kanazawa) regional base**, different from other regionally based mid-sized independent securities firms ([[securities-firms/iwai-cosmo-hd|岩井コスモ HD]] Osaka / [[securities-firms/okasan-sg|岡三 SG]] Chukyo), with long-term face-to-face relationships with local customers as its mainstay.
 
 ## 1. Corporate / license boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, imamura-sec.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; imamura-sec.co.jp]
 
 | Item | Reading |
 |---|---|
@@ -47,11 +49,15 @@ Imamura Securities is a mid-sized independent securities firm with a **standalon
 
 ### Key chronology (based on public information)
 
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, imamura-sec.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; imamura-sec.co.jp]
+
 | Year/Month | Event |
 |---|---|
 | 2022-04  | Review of TSE market segments → TSE STANDARD (7175) ^[extracted] |
 
 ## 3. Business segment map
+
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, imamura-sec.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; imamura-sec.co.jp]
 
 | Segment | Content | Characteristics |
 |---|---|---|

@@ -1,11 +1,11 @@
 ---
 source: regional-banks/shonai-bank
-source_hash: 6497f18be9a9ddaf
+source_hash: d0c0952318a6e8cc
 lang: en
 status: machine
 fidelity: ok
 title: "The Shonai Bank"
-translated_at: 2026-06-15T04:09:41.206Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # The Shonai Bank
@@ -19,6 +19,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 The Shonai Bank, Ltd. (株式会社荘内銀行) is a regional bank based in Yamagata Prefecture, holding a bank license under the Banking Act and listed in the FSA's bank license list; it is an operating bank under [[regional-banks/fidea-hd|フィデアホールディングス]]. It has a lineage that includes the 67th National Bank and was established in 1941 年 through wartime consolidation. In 2025 年 5 月 it relocated its registered head-office location from Tsuruoka City to Yamagata City. Fidea HD has announced a plan under which, effective 2027 年 1 月 1 日, the Shonai Bank will absorb [[regional-banks/hokuto-bank|北都銀行]] on the Akita side and become "Fidea Bank."
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, shonai.co.jp, ja.wikipedia.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; shonai.co.jp; ja.wikipedia.org]
 
 | Item | Notes |
 |---|---|

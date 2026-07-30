@@ -1,11 +1,11 @@
 ---
 source: securities-firms/saxo-bank-securities
-source_hash: b0a3b3572222d29a
+source_hash: 338f88e498e74f00
 lang: ja
 status: machine
 fidelity: ok
 title: "サクソバンク証券"
-translated_at: 2026-06-15T04:09:41.199Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # サクソバンク証券
@@ -19,6 +19,8 @@ translated_at: 2026-06-15T04:09:41.199Z
 サクソバンク証券株式会社は、デンマークの Saxo Bank A/S を 100% 親会社に持つ日本の金商法事業者。金融商品取引法上の **第一種金融商品取引業者** として金融庁の金融商品取引業者一覧に「サクソバンク証券株式会社」（関東財務局長(金商)第239号）で掲載される。外国株式・店頭FX・CFD・デリバティブ系商品の日本へのアクセスポイント。
 
 ## 1. 免許／グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, home.saxo）の範囲に限定して読む。^[source:fsa.go.jp; home.saxo]
 
 | 項目 | 注記 |
 |---|---|

@@ -9,8 +9,8 @@ aliases:
   - "7383"
 domain: payment-firms
 created: 2026-05-24
-last_updated: 2026-06-24
-last_tended: 2026-06-24
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-12-24
 confidence: likely
 tags: [JapanFG, BNPL, fintech, payments, installment-sales, atobarai, listed]
@@ -37,6 +37,8 @@ sources:
 ネットプロテクションズホールディングス (東証プライム **7383**) は、日本で早くから BNPL 専業として展開してきた上場会社であり、EC 加盟店が「コンビニ・銀行振込で後払い」を選択肢として付けられる請求書型 BtoC 商品 **NP 後払い** で知られる。グループは **atone** (消費者側のウォレット型 BNPL)、**AFTEE** (台湾向け商品サイトを持つ海外 BNPL)、**NP 掛け払い** (BtoB 請求書払い) も運営する。[[payment-firms/paidy|Paidy]] と異なり決済プラットフォーム傘下ではない独立系であり、[[card-issuers/jaccs|Jaccs]] や [[card-issuers/orico|Orico]] と異なりクレジットカードのスタックには意図的に入らない。加盟店手数料型 BNPL の経済性がカードのインターチェンジとどう異なるかは、[[payments/japan-payment-scheme-economics-matrix|日本の決済スキーム経済性マトリクス]] で確認しやすい。^[verified-2026-06-24]
 
 ## 1. 法人・ライセンス境界
+
+The following table is scoped to public primary sources (corp.netprotections.com, netprotections.com, atone.be). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:corp.netprotections.com; netprotections.com; atone.be; np-kakebarai.com]
 
 | 項目 | 読み方 |
 |---|---|

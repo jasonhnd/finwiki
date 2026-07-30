@@ -3,8 +3,8 @@ title: "玉山銀行 東京支店"
 aliases: ["E.SUN Bank Japan", "E.SUN Bank Tokyo Branch", "E.SUN Commercial Bank Japan", "玉山銀行", "玉山銀行東京支店"]
 domain: foreign-financial-institutions
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, banking, foreign-bank-branch, taiwan, asia-corridor, operating-branch]
@@ -26,6 +26,8 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 玉山銀行 東京支店は、金融庁の外国銀行支店一覧に掲載される Taiwan / E.SUN Bank の Japan branch。E.SUN の日本拠点は東京・福岡・熊本 sub-branch をつなぐ Northeast Asia corridor として、corporate deposits, financing, trade finance, remittance, and treasury services を扱う。
 
 ## 1. License / branch boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, esunbank.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; esunbank.com]
 
 | Item | Notes |
 |---|---|

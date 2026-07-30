@@ -11,8 +11,8 @@ aliases:
   - "プログマ トークン化証券基盤"
 domain: securities
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [securities, market-structure, tokenization, security-token, Progmat, MUFG, FIEA]
@@ -42,6 +42,8 @@ Progmat is a Japanese tokenization platform operated by Progmat Inc. (株式会�
 
 ## Platform identity
 
+The following table is scoped to public primary sources (progmat.co.jp, mufg.jp, tr.mufg.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:progmat.co.jp; mufg.jp; tr.mufg.jp; fsa.go.jp]
+
 | Field | Public reading |
 |---|---|
 | Operating entity | 株式会社Progmat (Progmat Inc.) |
@@ -67,6 +69,8 @@ Cash equities, corporate bonds, and conventional 投資信託 already have well-
 The Japanese architectural choice has been to integrate trust banks deeply into ST infrastructure rather than disintermediate them; the trust bank holds the underlying asset rights and ensures legal enforceability of the tokenized beneficial interest. This is structurally different from US or EU tokenization architectures that often rely on SPV / qualified-custodian models without trust-bank intermediation.
 
 ## Progmat ST product architecture
+
+The following table is scoped to public primary sources (progmat.co.jp, mufg.jp, tr.mufg.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:progmat.co.jp; mufg.jp; tr.mufg.jp; fsa.go.jp]
 
 | Layer | Function |
 |---|---|
@@ -94,6 +98,8 @@ For the securities-domain reader, the takeaway is: Progmat's ST work and Progmat
 
 Japanese ST issuance platforms have settled into a three-pole architecture, each with different shareholder backing and product orientation:
 
+The following table is scoped to public primary sources (progmat.co.jp, mufg.jp, tr.mufg.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:progmat.co.jp; mufg.jp; tr.mufg.jp; fsa.go.jp]
+
 | Platform | Operating entity | Anchor / lineage | Orientation |
 |---|---|---|---|
 | Progmat | Progmat Inc. | MUFG group origin; multi-bank shareholders | Trust-beneficial-interest ST + Progmat Coin / SC integration; bank-led ecosystem. |
@@ -112,6 +118,8 @@ For an analyst, the right framing is: ST issuance in Japan is not winner-take-al
 ## Public size signals
 
 From the Progmat public concept page source pack, the following market-size fields have been disclosed (snapshot values; verify the visible page date for time-sensitive use):
+
+The following table is scoped to public primary sources (progmat.co.jp, mufg.jp, tr.mufg.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:progmat.co.jp; mufg.jp; tr.mufg.jp; fsa.go.jp]
 
 | Field | Reported value |
 |---|---|
@@ -134,6 +142,8 @@ These numbers indicate (a) the Japanese ST issuance market is in early-thousands
 Each ST issue has a per-issue disclosure pack covering issuer, trust bank, distribution participants, eligibility, settlement, and lifecycle terms; the platform is the recordkeeping rail rather than the source of investor disclosure.
 
 ## Regulatory and self-regulatory anchors
+
+The following table is scoped to public primary sources (progmat.co.jp, mufg.jp, tr.mufg.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:progmat.co.jp; mufg.jp; tr.mufg.jp; fsa.go.jp]
 
 | Layer | Role |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: regional-banks/hirogin-hd
-source_hash: ce70ec3d3d2bf6a9
+source_hash: dac5c9f8b14d480c
 lang: ja
 status: machine
 fidelity: ok
 title: "ひろぎんホールディングス"
-translated_at: 2026-06-02T14:25:12.394Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # ひろぎんホールディングス
@@ -46,6 +46,8 @@ translated_at: 2026-06-02T14:25:12.394Z
 
 ### 沿革
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | 年 | 事象 |
 |---|---|
 | **1878** | 第六十六国立銀行・第百四十九国立銀行 設立（広島・呉拠点）|
@@ -60,6 +62,8 @@ translated_at: 2026-06-02T14:25:12.394Z
 | 2024 | 中期経営計画策定（2024〜2026 年度）|
 
 ## 2. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -82,6 +86,8 @@ translated_at: 2026-06-02T14:25:12.394Z
 - **海外**: マツダの海外サプライチェーン追随で上海・香港・シンガポール・バンコク等
 
 ### 中国地方競合構図
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | 行 | 本店 | 親会社 | 特徴 |
 |---|---|---|---|

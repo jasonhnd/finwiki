@@ -11,8 +11,8 @@ aliases:
   - "agricultural cooperative insurance Japan"
 domain: insurance
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [insurance, kyosai, cooperative, ja, zenkyoren, japan, life-insurance, non-life, mutual]
@@ -90,6 +90,8 @@ The membership relationship is the underlying conduct framework: a kyosai sold t
 ## Comparison with FSA life big-four
 
 The cleanest way to think about Zenkyoren is as a "fifth balance sheet" that would otherwise belong inside the life big-four perimeter but sits on the other side of the regulatory line:
+
+The following table is scoped to public primary sources (ja-kyosai.or.jp, maff.go.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:ja-kyosai.or.jp; maff.go.jp; fsa.go.jp; zenchu-ja.or.jp]
 
 | Axis | FSA life big-four (Nippon, Dai-ichi HD, Sumitomo, Meiji Yasuda) | Zenkyoren |
 |---|---|---|

@@ -1,11 +1,11 @@
 ---
 source: payments/japan-payment-fraud-incident-timeline-2023-2025
-source_hash: dcaeb8256a115a81
+source_hash: 94d67e81a80da9bd
 lang: en
 status: machine
 fidelity: ok
 title: "Japan payment fraud incident timeline 2023-2025"
-translated_at: 2026-06-01T03:31:12.240Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan payment fraud incident timeline 2023-2025
@@ -22,6 +22,8 @@ The 2023-2025 period in Japan payment fraud was defined by **four converging sur
 
 The aggregate Japan payment-fraud loss picture in this period needs to be read with care because each class is reported under a different statistical regime:
 
+The following table is scoped to public primary sources (fsa.go.jp, j-credit.or.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; j-credit.or.jp; meti.go.jp; npa.go.jp]
+
 | Source | Scope | Pattern |
 |---|---|---|
 | Japan Credit Association | Credit card fraud loss (issuer-side) | Annual loss figure recorded; non-face-to-face (EC) fraud the dominant category through the period |
@@ -34,6 +36,8 @@ The picture is that **Japan card fraud loss reached historically elevated levels
 
 ## 2023 events
 
+The following table is scoped to public primary sources (fsa.go.jp, j-credit.or.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; j-credit.or.jp; meti.go.jp; npa.go.jp]
+
 | Event class | What happened | Regulatory / industry response |
 |---|---|---|
 | EC card-fraud loss continues elevated | Card-number compromises through merchant breaches and phishing routes drove sustained EC unauthorized-use volume; non-face-to-face channel remained the dominant fraud loss class | METI / Japan Credit Association moved toward mandating EMV 3-DS for all EC card acceptance; J-CSC guideline 5.0 → 6.0 revision pipeline accelerated |
@@ -42,6 +46,8 @@ The picture is that **Japan card fraud loss reached historically elevated levels
 | FSA enforcement actions | Periodic administrative actions against banks, card issuers, and prepaid issuers for AML / fraud-control deficiencies | Public newsroom releases per operator |
 
 ## 2024 events
+
+The following table is scoped to public primary sources (fsa.go.jp, j-credit.or.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; j-credit.or.jp; meti.go.jp; npa.go.jp]
 
 | Event class | What happened | Regulatory / industry response |
 |---|---|---|
@@ -53,6 +59,8 @@ The picture is that **Japan card fraud loss reached historically elevated levels
 
 ## 2025 events
 
+The following table is scoped to public primary sources (fsa.go.jp, j-credit.or.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; j-credit.or.jp; meti.go.jp; npa.go.jp]
+
 | Event class | What happened | Regulatory / industry response |
 |---|---|---|
 | EMV 3-DS mandatory for EC card payments | From 2025-03, EC card acceptance required EMV 3-DS authentication under J-CSC guideline 6.0 / 6.1 framework | Industry-wide compliance pressure; non-compliant EC merchants risked loss of card-payment acceptance |
@@ -62,6 +70,8 @@ The picture is that **Japan card fraud loss reached historically elevated levels
 | Tax-authority / government-impersonation smishing | Particularly elevated volume around tax-deadline windows; consumer-facing warnings escalated | Consumer Affairs Agency and NPA continued public warning campaigns |
 
 ## Cross-cutting attack patterns
+
+The following table is scoped to public primary sources (fsa.go.jp, j-credit.or.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; j-credit.or.jp; meti.go.jp; npa.go.jp]
 
 | Pattern | How it works | Targeted scheme |
 |---|---|---|
@@ -74,6 +84,8 @@ The picture is that **Japan card fraud loss reached historically elevated levels
 | Cash-out via BNPL / pay-later abuse | Fraudster uses stolen identity to open pay-later account; defaults after cash-equivalent purchase | BNPL, code-payment pay-later, installment |
 
 ## Who bears the loss
+
+The following table is scoped to public primary sources (fsa.go.jp, j-credit.or.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; j-credit.or.jp; meti.go.jp; npa.go.jp]
 
 | Surface | Primary loss bearer |
 |---|---|
@@ -91,6 +103,8 @@ The **liability shift dynamic** matters because it shapes investment incentive: 
 
 The Japan regulatory response to 2023-2025 fraud is layered across multiple agencies and self-regulatory bodies:
 
+The following table is scoped to public primary sources (fsa.go.jp, j-credit.or.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; j-credit.or.jp; meti.go.jp; npa.go.jp]
+
 | Body | Role |
 |---|---|
 | FSA (Financial Services Agency) | Bank / card issuer / prepaid issuer / wallet operator supervision and enforcement |
@@ -107,6 +121,8 @@ The cross-agency coordination is increasingly tight — most major incidents in 
 
 The protection framework differs materially across surfaces, which is one reason the same consumer can face very different outcomes depending on which scheme was used in the fraud event:
 
+The following table is scoped to public primary sources (fsa.go.jp, j-credit.or.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; j-credit.or.jp; meti.go.jp; npa.go.jp]
+
 | Scheme | Primary consumer-protection lever | Strength |
 |---|---|---|
 | Card EC (with 3-D Secure) | Brand chargeback rules + Installment Sales Act 抗弁の接続 for installment contracts | Strong |
@@ -122,6 +138,8 @@ The variability across surfaces creates **structural pressure on operators to al
 ## Smishing operational mechanics
 
 The 2024-2025 smishing surface has been a sustained source of consumer-side loss. Understanding its mechanics matters because the operator-side controls that can detect or block it depend on which step of the attack chain is targeted:
+
+The following table is scoped to public primary sources (fsa.go.jp, j-credit.or.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; j-credit.or.jp; meti.go.jp; npa.go.jp]
 
 | Attack chain step | Operator-side detection / control surface |
 |---|---|

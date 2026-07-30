@@ -12,8 +12,8 @@ aliases:
   - DBJ KPI vs JFC JBIC NEXI
 domain: policy-finance
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [policy-finance, dbj, japan-policy-finance, risk-money, mezzanine, gx, dx, special-investment-operations, crisis-response, co-investment, kpi]
@@ -40,6 +40,8 @@ DBJ is the **only Japanese policy-finance institution that simultaneously combin
 
 ## 1. 株式会社 + 政策金融機関 のハイブリッド構造
 
+The following table is scoped to public primary sources (dbj.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:dbj.jp; fsa.go.jp]
+
 | 項目 | 詳細 |
 |---|---|
 | Statutory basis | 株式会社日本政策投資銀行法 (平成 19 年法律第 85 号) |
@@ -55,6 +57,8 @@ The **株式会社 + 政策金融機関** hybrid is structurally rare. DBJ is a 
 ## 2. 特定投資業務 (Special Investment Operations) framework
 
 ### 2.1 法的構造と授権枠
+
+The following table is scoped to public primary sources (dbj.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:dbj.jp; fsa.go.jp]
 
 | Item | Detail |
 |---|---|
@@ -83,6 +87,8 @@ The four-tier definition is intentionally broad. SIO authority allows DBJ to cho
 ### 2.3 投資選別基準
 
 SIO 投資は以下の基準で原則的に選別される:
+
+The following table is scoped to public primary sources (dbj.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:dbj.jp; fsa.go.jp]
 
 | 基準 | 詳細 |
 |---|---|
@@ -255,6 +261,8 @@ DBJ 株式会社
 
 ### 9.1 主要 KPI
 
+The following table is scoped to public primary sources (dbj.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:dbj.jp; fsa.go.jp]
+
 | KPI 領域 | 詳細 |
 |---|---|
 | **投資 / 融資残高** | 期末投融資残高 (一般勘定 + 特定投資業務勘定) |
@@ -279,6 +287,8 @@ DBJ 独自の ESG フレームワーク:
 これらは政策金融機関ながら独自の評価フレームワークを民間に普及させる例として国際的にも引用される。
 
 ## 10. 政策金融機関 4 行 KPI / mandate 比較
+
+The following table is scoped to public primary sources (dbj.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:dbj.jp; fsa.go.jp]
 
 | Dimension | DBJ | [[financial-regulators/jfc\|JFC]] | [[financial-regulators/jbic\|JBIC]] | [[policy-finance/nexi\|NEXI]] |
 |---|---|---|---|---|

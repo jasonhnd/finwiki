@@ -1,11 +1,11 @@
 ---
 source: money-market/japan-mmf-money-market-mutual-fund
-source_hash: e8e689b9dc96a5ae
+source_hash: e7ee868ce5036d29
 lang: en
 status: machine
 fidelity: ok
 title: "Japan MMF / MRF (money market mutual funds)"
-translated_at: 2026-05-30T14:13:23.427Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan MMF / MRF (money market mutual funds)
@@ -25,6 +25,8 @@ For FinWiki, this page records the historical arc, the MRF vs old-MMF distinctio
 
 ## Product Map
 
+The following table is scoped to public primary sources (fsa.go.jp, investment-trusts.org, toushin.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; investment-trusts.org; toushin.or.jp; boj.or.jp]
+
 | Product family | Purpose | Status |
 |---|---|---|
 | MRF (Money Reserve Fund) | Brokerage sweep cash held inside securities accounts; offers same-day liquidity for trade settlement. | Active and dominant; one of the largest investment-trust net-asset categories. |
@@ -33,6 +35,8 @@ For FinWiki, this page records the historical arc, the MRF vs old-MMF distinctio
 | Short-bond / short-yen ETF and open-end funds | Modern substitute products for short-yen exposure. | Active, but small relative to MRF. |
 
 ## Historical Arc
+
+The following table is scoped to public primary sources (fsa.go.jp, investment-trusts.org, toushin.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; investment-trusts.org; toushin.or.jp; boj.or.jp]
 
 | Year | Event | Effect on MMF / MRF |
 |---|---|---|
@@ -45,6 +49,8 @@ For FinWiki, this page records the historical arc, the MRF vs old-MMF distinctio
 | 2024-2025 | New NISA in force; household-asset shift program continues. | MRF remains the cash sweep layer for brokerage / [[securities/nisa-2024-flow|NISA]] accounts; other short-yen funds re-positioned as low-volatility alternatives. |
 
 ## MRF vs Old MMF
+
+The following table is scoped to public primary sources (fsa.go.jp, investment-trusts.org, toushin.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; investment-trusts.org; toushin.or.jp; boj.or.jp]
 
 | Item | MRF | Old retail MMF |
 |---|---|---|

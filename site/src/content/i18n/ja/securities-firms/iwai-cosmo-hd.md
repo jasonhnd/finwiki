@@ -1,11 +1,11 @@
 ---
 source: securities-firms/iwai-cosmo-hd
-source_hash: 408160a683563976
+source_hash: 5ee9c302cfe43c42
 lang: ja
 status: machine
 fidelity: ok
 title: "岩井コスモホールディングス"
-translated_at: 2026-06-02T14:25:12.408Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 岩井コスモホールディングス
@@ -73,6 +73,8 @@ translated_at: 2026-06-02T14:25:12.408Z
 | 2024 | 中期経営計画（中計）策定 ^[extracted] |
 
 ## 2. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

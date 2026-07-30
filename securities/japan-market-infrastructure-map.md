@@ -7,8 +7,8 @@ aliases:
   - "日本証券市場インフラ map"
 domain: "securities"
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-22
 confidence: likely
 tags: [securities, market-infrastructure, exchange, clearing, settlement, PTS, JSCC, JASDEC]
@@ -36,6 +36,8 @@ Use this page as the route map for [[securities/tokyo-stock-exchange|Tokyo Stock
 This is the infrastructure route inside [[securities/INDEX|securities domain]]; use [[securities/financial-instruments-business-operators-japan-index|FIEA operator registry index]] and [[financial-licenses/INDEX|JapanFG legal / financial licenses]] when the question turns from market plumbing to firm registration or legal status.
 
 ## Layer Map
+
+The following table is scoped to public primary sources (jpx.co.jp, jasdec.com, jsf.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp; jasdec.com; jsf.co.jp]
 
 | Layer | Main actors | What to use it for |
 |---|---|---|
@@ -67,6 +69,8 @@ Investor
 JPX's clearing / settlement materials describe the functional split between trading, clearing, and settlement for exchange transactions. JASDEC materials explain book-entry and DVP settlement infrastructure. For FinWiki, this means a question about "stock trading" may need at least four pages: the broker, the venue, the clearing layer, and the settlement layer.
 
 ## Venue Map
+
+The following table is scoped to public primary sources (jpx.co.jp, jasdec.com, jsf.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp; jasdec.com; jsf.co.jp]
 
 | Venue / infrastructure | Page | Key reading |
 |---|---|---|

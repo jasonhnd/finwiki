@@ -1,11 +1,11 @@
 ---
 source: payments/apple-gift-card-japan
-source_hash: 8e674621b040f932
+source_hash: 47618d26c3339c95
 lang: en
 status: machine
 fidelity: ok
 title: "Apple Gift Card Japan: closed-loop Apple-ecosystem prepaid"
-translated_at: 2026-06-01T03:31:12.322Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Apple Gift Card Japan: closed-loop Apple-ecosystem prepaid
@@ -19,6 +19,8 @@ This entry sits under [[payments/INDEX|payments index]] as the Apple Gift Card J
 **Apple Gift Card (Appleギフトカード)** is the **closed-loop unified prepaid gift card of Apple Inc.**, issued in Japan by **Apple Japan G.K. (Apple Japan合同会社)** and operating as a 自家型 (closed-loop / single-merchant) 前払式支払手段 under the [[payments/funds-transfer-vs-prepaid-boundary|Payment Services Act prepaid framework]]. The product **launched in unified form 2021-09**, consolidating the previous **iTunes Card** (App Store / iTunes / Apple Music / iCloud spend) and **Apple Store Gift Card** (Apple hardware / Apple Store retail spend) into a single SKU. Apple Gift Card balance is spendable across the **full Apple ecosystem in Japan** — App Store, iTunes Store, Apple Music, Apple TV+, iCloud, Apple Books, Apple Arcade, **and** Apple Store (apple.com/jp/shop) for hardware (iPhone, iPad, Mac, AirPods, accessories). Distribution rails include physical card sales at convenience stores (Lawson, FamilyMart, MiniStop, 7-Eleven, Daily Yamazaki, drugstores, electronics retailers, etc.), Apple.com/jp digital eGift, and Apple Store retail.
 
 ## Issuer and operational structure
+
+The following table is scoped to public primary sources (apple.com, support.apple.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:apple.com; support.apple.com; fsa.go.jp; meti.go.jp]
 
 | Dimension | Reading |
 |---|---|
@@ -46,6 +48,8 @@ Apple Gift Card is registered as **自家型前払式支払手段** under [[paym
 
 The pre-2021 product landscape:
 
+The following table is scoped to public primary sources (apple.com, support.apple.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:apple.com; support.apple.com; fsa.go.jp; meti.go.jp]
+
 | Pre-2021 product | Spending surface |
 |---|---|
 | **iTunes Card** | App Store, iTunes Store, Apple Music, Apple TV+, Apple Books, Apple Arcade, iCloud — digital content / services |
@@ -55,6 +59,8 @@ The pre-2021 product landscape:
 The **2021-09 unification** combined these into a single **Apple Gift Card** SKU spendable across both digital-content and hardware-retail surfaces — a structural simplification for both consumers and distribution channels. This was a global Apple product change rolled out in Japan, US, and other major markets concurrently.
 
 ## Distribution rails
+
+The following table is scoped to public primary sources (apple.com, support.apple.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:apple.com; support.apple.com; fsa.go.jp; meti.go.jp]
 
 | Rail | Description |
 |---|---|
@@ -76,6 +82,8 @@ Like [[payments/amazon-gift-card-japan|Amazon Gift Card]], Apple Gift Card has b
 - The scam pattern has driven National Police Agency and consumer-protection authority guidance specifically naming Apple Gift Card alongside Amazon and Google Play.
 
 ## KPI snapshot
+
+The following table is scoped to public primary sources (apple.com, support.apple.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:apple.com; support.apple.com; fsa.go.jp; meti.go.jp]
 
 | Metric | Reading |
 |---|---|

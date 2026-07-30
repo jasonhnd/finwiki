@@ -1,11 +1,11 @@
 ---
 source: money-market/japan-tbill-treasury-discount-bill
-source_hash: 1d17427fbf914936
+source_hash: de1ae81259e556f0
 lang: en
 status: machine
 fidelity: ok
 title: "Japan Treasury Discount Bills (TDB / 国庫短期証券)"
-translated_at: 2026-05-30T14:13:23.431Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan Treasury Discount Bills (TDB / 国庫短期証券)
@@ -22,6 +22,8 @@ TDBs sit on MOF's regular JGB auction calendar, are held in dematerialized form 
 
 ## Market Map
 
+The following table is scoped to public primary sources (mof.go.jp, boj.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:mof.go.jp; boj.or.jp]
+
 | Layer | Function | FinWiki route |
 |---|---|---|
 | Sovereign issuer | MOF issues TDBs at 3M / 6M / 1Y on a regular auction calendar to manage short-term cash and finance General Account needs. | MOF JGB Bureau |
@@ -31,6 +33,8 @@ TDBs sit on MOF's regular JGB auction calendar, are held in dematerialized form 
 | Repo / collateral | TDBs trade in GC and SC repo and are accepted in BoJ collateral. | [[money-market/jgb-repo-market-japan]] |
 
 ## Issuance Mechanics
+
+The following table is scoped to public primary sources (mof.go.jp, boj.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:mof.go.jp; boj.or.jp]
 
 | Element | Reading |
 |---|---|
@@ -63,6 +67,8 @@ The MOF publishes a breakdown of JGB and TDB holdings by investor type that shou
 
 BoJ uses TDBs across multiple operational surfaces:
 
+The following table is scoped to public primary sources (mof.go.jp, boj.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:mof.go.jp; boj.or.jp]
+
 | BoJ function | TDB linkage |
 |---|---|
 | Outright purchases | BoJ has purchased TDBs as part of fund-supplying operations in past frameworks. |
@@ -71,6 +77,8 @@ BoJ uses TDBs across multiple operational surfaces:
 | Policy transmission | TDB yields provide a clean short-rate marker that interacts with the [[money-market/boj-post-2024-floor-system-complementary-deposit-facility|post-2024 floor system]] policy rate. |
 
 ## Reading TDB Yields
+
+The following table is scoped to public primary sources (mof.go.jp, boj.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:mof.go.jp; boj.or.jp]
 
 | Reading lens | Notes |
 |---|---|

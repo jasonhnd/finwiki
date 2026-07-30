@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/uob-bank-japan
-source_hash: d5c0a4f39d05e541
+source_hash: 74779cede7817127
 lang: ja
 status: machine
 fidelity: ok
 title: "ユナイテッド・オーバーシーズ銀行 東京支店"
-translated_at: 2026-06-18T23:59:13.065Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # ユナイテッド・オーバーシーズ銀行 東京支店
@@ -19,6 +19,8 @@ translated_at: 2026-06-18T23:59:13.065Z
 ユナイテッド・オーバーシーズ銀行 東京支店は、金融庁の外国銀行支店一覧に掲載される Singapore / United Overseas Bank Limited の在日銀行支店。1972 年設立の UOB Tokyo は、日本とアジアの cross-border investment bridge として corporate banking, FI coverage, property funds, sponsors, and FDI support を担う。
 
 ## 1. License / branch boundary
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, uobgroup.com）の範囲に限定して読む。^[source:fsa.go.jp; uobgroup.com]
 
 | Item | Notes |
 |---|---|

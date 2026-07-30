@@ -1,11 +1,11 @@
 ---
 source: regional-banks/au-jibun-bank
-source_hash: 712a98e17006a14e
+source_hash: 8f791fcb9c1824a5
 lang: ja
 status: machine
 fidelity: ok
 title: "au じぶん銀行 (au Jibun Bank)"
-translated_at: 2026-07-28T16:39:58Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # au じぶん銀行 (au Jibun Bank)
@@ -43,6 +43,8 @@ au じぶん銀行株式会社は、公式会社概要で **[[megabanks/au-fh|au
 
 ## 3. 業務セグメント
 
+以下の表は、エントリ出典インベントリの公開一次資料（jibunbank.co.jp, fsa.go.jp）の範囲に限定して読む。^[source:jibunbank.co.jp; fsa.go.jp]
+
 | セグメント | 主力商品 | 顧客層 |
 |---|---|---|
 | 預金 | 普通預金 / 定期 / 外貨預金（USD・EUR・GBP 等） | リテール |
@@ -60,6 +62,8 @@ au じぶん銀行株式会社は、公式会社概要で **[[megabanks/au-fh|au
 - **au カブコム証券との連携**：金融商品仲介・口座連携を通じて、KDDI 経済圏内での銀行 / 証券口座統合体験を提供
 
 ## 5. 競合・業界ポジション
+
+以下の表は、エントリ出典インベントリの公開一次資料（jibunbank.co.jp, fsa.go.jp）の範囲に限定して読む。^[source:jibunbank.co.jp; fsa.go.jp]
 
 | ネット銀行 | 親グループ | 強み |
 |---|---|---|
@@ -79,6 +83,8 @@ au じぶん銀行株式会社は、公式会社概要で **[[megabanks/au-fh|au
 - **新 NISA 対応**：2024-01 新 NISA 開始に伴う投信ラインナップ拡充
 
 ## 7. 主要 KPI（概観）
+
+以下の表は、エントリ出典インベントリの公開一次資料（jibunbank.co.jp, fsa.go.jp）の範囲に限定して読む。^[source:jibunbank.co.jp; fsa.go.jp]
 
 | 項目 | 規模感 |
 |---|---|

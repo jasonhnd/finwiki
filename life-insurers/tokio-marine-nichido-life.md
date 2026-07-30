@@ -3,8 +3,8 @@ title: "東京海上日動あんしん生命保険"
 aliases: ["東京海上日動あんしん生命", "Tokio Marine Nichido Life", "Tokio Marine & Nichido Life", "東京海上日動あんしん生命保険株式会社"]
 domain: life-insurers
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, insurance, life-insurance, tokio-marine, operating-company]
@@ -27,6 +27,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 東京海上日動あんしん生命保険株式会社は、[[non-life-insurers/tokio-marine]] group の life-insurance operating company。[[non-life-insurers/tokio-marine]] は non-life major として有名だが、本 entity は金融庁 life-insurer list に載る separate life underwriter であり、life / non-life cross-sell and group diversification を見るうえで重要。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, tmn-anshin.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; tmn-anshin.co.jp]
 
 | Item | Notes |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: payment-firms/payoneer-japan
-source_hash: e595e16bc5444833
+source_hash: a0bcf3d81f29bf4d
 lang: en
 status: machine
 fidelity: ok
 title: "Payoneer Japan"
-translated_at: 2026-06-15T03:48:21.884Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Payoneer Japan
@@ -19,6 +19,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]] (its domain ro
 ペイオニア・ジャパン株式会社 is the Japan base of the US Payoneer group, an FSA-registered **type-II funds-transfer operator** (under the Payment Services Act; Director-General of the Kanto Local Finance Bureau 第00045号). Established in 2015 年, headquartered in Shibuya, Tokyo. It is important in the context of global marketplace payout / freelancer / supplier-payment, handling the receipts and payments of cross-border sellers and businesses that receive income from overseas platforms.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (payoneer.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:payoneer.com; fsa.go.jp]
 
 | Item | Notes |
 |---|---|

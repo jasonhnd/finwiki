@@ -8,8 +8,8 @@ aliases:
   - "日本決済スキーム経済比較マトリクス"
 domain: payments
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-20
 confidence: likely
 tags: [payments, scheme-economics, card, code-payment, account-to-account, prepaid, electronic-money, interchange, merchant-fee, regulation, Japan]
@@ -51,6 +51,8 @@ This sits under [[payments/INDEX|payments index]] as the cross-scheme reference 
 
 The four classes do not differ mainly in how the consumer taps, scans, or holds a card — they differ in the **balance layer** the value moves through and the **license route** the operator carries.
 
+The following table is scoped to public primary sources (paymentsjapan.or.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:paymentsjapan.or.jp; meti.go.jp]
+
 | Class | Examples | Balance layer | Primary license route |
 |---|---|---|---|
 | Card payment | Visa, Mastercard, [[card-issuers/jcb\|JCB]], Amex, Diners | Issuer credit line (post-pay) | Installment Sales Act (信販 / 包括信用購入あっせん) + brand rules |
@@ -75,6 +77,8 @@ The 4-party vs 3-party card distinction matters because in a 3-party scheme ther
 
 The license question is downstream of the balance layer, not the UX. A page reader should not call PayPay "a credit card competitor" without first identifying which sub-balance the transaction touched.
 
+The following table is scoped to public primary sources (paymentsjapan.or.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:paymentsjapan.or.jp; meti.go.jp]
+
 | Class | License stack | Key obligations |
 |---|---|---|
 | Card | Installment Sales Act registration (包括信用購入あっせん業者 / 包括信用購入あっせん業 etc.); separate registration for issuer vs merchant-contracting party (アクワイアラ) vs PSP under METI 115 list | Cardholder credit screening, security guideline (J-CSC), PCI DSS for merchants / PSPs, EMV 3-DS for EC, chargeback rules from brand |
@@ -85,6 +89,8 @@ The license question is downstream of the balance layer, not the UX. A page read
 Boundaries between these are not stable — operators frequently move balance from prepaid sub-ledger to funds-transfer sub-ledger when they add P2P transfer features, which forces a fresh license analysis. See [[payments/funds-transfer-vs-prepaid-boundary|funds transfer vs prepaid boundary]] for the test.
 
 ## Acquirer model (single-acquirer vs multi-acquirer)
+
+The following table is scoped to public primary sources (paymentsjapan.or.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:paymentsjapan.or.jp; meti.go.jp]
 
 | Class | Acquirer structure |
 |---|---|
@@ -99,6 +105,8 @@ The single-acquirer pattern in non-card classes is one reason METI and JFTC view
 
 These are public-reported ranges. Actual merchant fees vary by MCC, ticket size, ECR vs MPM QR, on-us vs off-us, and negotiation power.
 
+The following table is scoped to public primary sources (paymentsjapan.or.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:paymentsjapan.or.jp; meti.go.jp]
+
 | Class | Typical merchant fee (MDR) | Per-transaction fixed |
 |---|---|---|
 | Card | JFTC 2022: simple-average ~2.70%, weighted-average ~1.66%; Payments Japan 2022 roadmap: Category I avg 2.63%, Category II avg 2.89% | Usually none in classic MDR; PSP-layer may add per-tx fee |
@@ -109,6 +117,8 @@ These are public-reported ranges. Actual merchant fees vary by MCC, ticket size,
 The METI merchant-fee disclosure pressure (see [Recent regulatory pressure](#recent-regulatory-pressure)) explicitly targets card class first, where disclosure is most advanced — JCB has disclosed allocation rate between issuer and acquirer since the 2023-06-01 METI/JFTC release.
 
 ## Issuer fee / interchange — who earns what
+
+The following table is scoped to public primary sources (paymentsjapan.or.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:paymentsjapan.or.jp; meti.go.jp]
 
 | Class | Interchange or issuer-side share | Where it sits |
 |---|---|---|
@@ -121,6 +131,8 @@ The METI merchant-fee disclosure pressure (see [Recent regulatory pressure](#rec
 A 4-party card transaction at a typical ~2.5% MDR will pay roughly 1.5-1.6% interchange to the issuer (Japan number from Payments Japan), ~0.3-0.5% brand fee, with remainder split between acquirer and PSP. See [[payments/japan-interchange-and-merchant-fee-stack|interchange and merchant fee stack]] for the source pack.
 
 ## Settlement cycle
+
+The following table is scoped to public primary sources (paymentsjapan.or.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:paymentsjapan.or.jp; meti.go.jp]
 
 | Class | Merchant settlement | Consumer billing |
 |---|---|---|
@@ -155,6 +167,8 @@ The cross-border lane is where card class retains an essentially unique position
 
 ## Authentication / fraud control stack
 
+The following table is scoped to public primary sources (paymentsjapan.or.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:paymentsjapan.or.jp; meti.go.jp]
+
 | Class | Primary auth at transaction | Secondary controls |
 |---|---|---|
 | Card | EMV contact / contactless + PIN at POS; **EMV 3-DS** for EC (mandatory from 2025-03 for EC card payments under METI / J-CSC guideline 6.0); tokenization for in-app | PCI DSS for merchants / PSPs, non-retention rule, J-CSC vulnerability scanning, brand fraud-monitoring |
@@ -167,6 +181,8 @@ The EMV 3-DS requirement for EC is the single biggest 2025 control change — se
 ## Loyalty / point economics
 
 This dimension is uniquely complex in Japan because point programs operate as a **parallel currency layer** that overlaps but does not align with the payment-scheme layer.
+
+The following table is scoped to public primary sources (paymentsjapan.or.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:paymentsjapan.or.jp; meti.go.jp]
 
 | Class | Who funds the points | Cross-scheme exchangeability |
 |---|---|---|
@@ -215,6 +231,8 @@ See [[fintech/japan-epi-three-types-overview|Japan EPI three types overview]] fo
 
 ## Recent regulatory pressure
 
+The following table is scoped to public primary sources (paymentsjapan.or.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:paymentsjapan.or.jp; meti.go.jp]
+
 | Date | Source | What changed |
 |---|---|---|
 | 2022-04-08 | JFTC | Report on credit-card merchant fees: documented size-based fee dispersion, called for greater interchange transparency |
@@ -229,6 +247,8 @@ The disclosure pressure is currently concentrated on card class (which is also w
 ## Cross-section: micro-merchant access (商店街 economics)
 
 The four classes look dramatically different at the **sub-3-person small-merchant** end of the market — a 個人商店 in a 商店街.
+
+The following table is scoped to public primary sources (paymentsjapan.or.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:paymentsjapan.or.jp; meti.go.jp]
 
 | Class | Small-merchant onboarding | Hardware cost | All-in cost for a JPY 500 transaction |
 |---|---|---|---|

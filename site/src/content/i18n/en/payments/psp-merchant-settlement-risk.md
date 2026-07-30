@@ -1,11 +1,11 @@
 ---
 source: payments/psp-merchant-settlement-risk
-source_hash: a10e0427754465dd
+source_hash: c8c82beefbcc9c93
 lang: en
 status: machine
 fidelity: ok
 title: "PSP merchant settlement risk"
-translated_at: 2026-06-01T03:31:12.226Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # PSP merchant settlement risk
@@ -17,6 +17,8 @@ Merchant PSP risk is the risk that sits between checkout success and final money
 Read this page with [[payments/card-acquiring-japan-stack|Japan card acquiring stack]], [[payments/funds-transfer-service-providers-japan-index|funds-transfer registry]], and [[payments/japan-code-payment-competitive-map|code-payment competitive map]]. Company pages such as [[payment-firms/gmo-payment-gateway|GMO-PG]], [[payment-firms/sb-payment-service|SBPS]], [[payment-firms/dg-financial-technology|DGFT]], and [[payment-firms/netstars|Netstars]] links here when merchant risk is the real topic.
 
 ## Risk Stack
+
+The following table is scoped to public primary sources (meti.go.jp, fsa.go.jp, paymentsjapan.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; fsa.go.jp; paymentsjapan.or.jp]
 
 | Layer | Risk | Typical control |
 |---|---|---|
@@ -30,6 +32,8 @@ Read this page with [[payments/card-acquiring-japan-stack|Japan card acquiring s
 
 ## Japan Regulatory Routes
 
+The following table is scoped to public primary sources (meti.go.jp, fsa.go.jp, paymentsjapan.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; fsa.go.jp; paymentsjapan.or.jp]
+
 | Route | Public relevance |
 |---|---|
 | METI credit-card-number handling contract concluding operators | Determines who has merchant-contracting / card-number handling responsibility under the Installment Sales Act. |
@@ -39,6 +43,8 @@ Read this page with [[payments/card-acquiring-japan-stack|Japan card acquiring s
 | Cashless Promotion Council publications | Useful for tracking code-payment use, merchant acceptance trends, and industry standardization work. |
 
 ## Company Lens
+
+The following table is scoped to public primary sources (meti.go.jp, fsa.go.jp, paymentsjapan.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; fsa.go.jp; paymentsjapan.or.jp]
 
 | Operator type | Examples | Main question |
 |---|---|---|

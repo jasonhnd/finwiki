@@ -1,11 +1,11 @@
 ---
 source: insurance/mutual-vs-stock-life-insurer
-source_hash: c92463128a59fbca
+source_hash: bf569e69fcd3c81d
 lang: ja
 status: machine
 fidelity: ok
 title: "相互会社型生命保険会社 vs 株式会社型生命保険会社"
-translated_at: 2026-06-02T14:01:20.898Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 相互会社型生命保険会社 vs 株式会社型生命保険会社
 
@@ -20,6 +20,8 @@ translated_at: 2026-06-02T14:01:20.898Z
 JapanFG の主要例：[[life-insurers/nippon-life]]、[[life-insurers/meiji-yasuda]]、[[life-insurers/sumitomo-life]] は相互会社の参照例であり、[[life-insurers/dai-ichi-life]]、[[life-insurers/kampo-life]]、[[life-insurers/lifenet]]、[[life-insurers/orix-life]] は株式会社型の参照例である。
 
 ## 比較
+
+以下の表は、エントリ出典インベントリの公開一次資料（seiho.or.jp, fsa.go.jp）の範囲に限定して読む。^[source:seiho.or.jp; fsa.go.jp]
 
 | 観点 | 相互会社型生命保険会社 | 株式会社型生命保険会社 |
 |---|---|---|

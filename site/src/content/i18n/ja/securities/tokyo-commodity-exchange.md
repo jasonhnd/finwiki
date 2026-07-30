@@ -1,11 +1,11 @@
 ---
 source: securities/tokyo-commodity-exchange
-source_hash: 00e3b0ea36056073
+source_hash: 62ce96c3e0995a84
 lang: ja
 status: machine
 fidelity: ok
 title: "東京商品取引所（TOCOM）"
-translated_at: 2026-06-03T00:53:08.260Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 東京商品取引所（TOCOM）
 
@@ -21,6 +21,8 @@ FinWikiでは、TOCOMはJPX複合体のうち商品デリバティブを担う�
 
 ## システムマップ
 
+以下の表は、エントリ出典インベントリの公開一次資料（jpx.co.jp）の範囲に限定して読む。^[source:jpx.co.jp]
+
 | レイヤー | TOCOMの読み方 |
 |---|---|
 | 親会社 | [[financial-regulators/japan-exchange-group|Japan Exchange Group]] |
@@ -30,6 +32,8 @@ FinWikiでは、TOCOMはJPX複合体のうち商品デリバティブを担う�
 | 清算 | 商品清算統合後は[[securities/japan-securities-clearing-corp|JSCC]]。 |
 
 ## 市場での役割
+
+以下の表は、エントリ出典インベントリの公開一次資料（jpx.co.jp）の範囲に限定して読む。^[source:jpx.co.jp]
 
 | 商品ファミリー | 読み方 |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: regional-banks/okinawa-kaiho-bank
-source_hash: 2f4f41c469235878
+source_hash: 6b24aa471c67b97d
 lang: ja
 status: machine
 fidelity: ok
 title: "株式会社沖縄海邦銀行"
-translated_at: 2026-06-02T15:14:17.147Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 株式会社沖縄海邦銀行
@@ -43,6 +43,8 @@ translated_at: 2026-06-02T15:14:17.147Z
 
 ### 沖縄県内 3 行寡占構造での位置
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, kaiho-bank.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; kaiho-bank.co.jp]
+
 | 行 | 県内地位 | 預貸金シェア | 設立 | 形態 | 上場 |
 |---|---|---|---|---|---|
 | **沖縄銀行**（[[regional-banks/okinawa-fg]] 傘下）| 県内 No.1 | 約 30% | 1956 | 信託併営 + 持株会社化（2021-10）| PRIME 7350（FG）|
@@ -65,6 +67,8 @@ translated_at: 2026-06-02T15:14:17.147Z
 > 子会社規模・名称は最新ディスクロージャー誌を要参照。沖縄県内 No.3 規模ゆえ、沖銀・琉銀のような体系的グループ展開ではなく、本体銀行業務中心の構造。
 
 ## 2. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, kaiho-bank.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; kaiho-bank.co.jp]
 
 | セグメント | 特徴 |
 |---|---|

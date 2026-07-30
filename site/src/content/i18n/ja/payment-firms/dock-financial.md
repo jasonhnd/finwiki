@@ -1,11 +1,11 @@
 ---
 source: payment-firms/dock-financial
-source_hash: be94c7c757f4ed9d
+source_hash: 3a9b39c442683960
 lang: ja
 status: machine
 fidelity: ok
 title: "SBペイメントサービス"
-translated_at: 2026-06-02T14:25:12.418Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # SBペイメントサービス
 
@@ -22,6 +22,8 @@ translated_at: 2026-06-02T14:25:12.418Z
 
 ## 1. 法人概要
 
+以下の表は、エントリ出典インベントリの公開一次資料（sbpayment.jp, softbank.jp, fsa.go.jp）の範囲に限定して読む。^[source:sbpayment.jp; softbank.jp; fsa.go.jp; meti.go.jp]
+
 | 項目 | 内容 |
 |---|---|
 | 正式名 | SB ペイメントサービス株式会社 ^[extracted] |
@@ -34,6 +36,8 @@ translated_at: 2026-06-02T14:25:12.418Z
 | 主力サービス | **オンライン決済サービス**（クレジットカード・コンビニ・電子マネー・キャリア決済・QR・銀行振込の統合決済）|
 
 ### 2.1 オンライン決済サービス（PSP）
+
+以下の表は、エントリ出典インベントリの公開一次資料（sbpayment.jp, softbank.jp, fsa.go.jp）の範囲に限定して読む。^[source:sbpayment.jp; softbank.jp; fsa.go.jp; meti.go.jp]
 
 | 決済手段 | カバレッジ |
 |---|---|
@@ -75,6 +79,8 @@ translated_at: 2026-06-02T14:25:12.418Z
 
 ### SBPS vs [[megabanks/paypay-fg|PayPay 金融グループ]] の棲み分け
 
+以下の表は、エントリ出典インベントリの公開一次資料（sbpayment.jp, softbank.jp, fsa.go.jp）の範囲に限定して読む。^[source:sbpayment.jp; softbank.jp; fsa.go.jp; meti.go.jp]
+
 | 機能 | SBPS | PayPay 金融グループ |
 |---|---|---|
 | ターゲット | **B2B（加盟店向け決済処理インフラ）** | **B2C（消費者向け決済・銀行・カード）**|
@@ -85,6 +91,8 @@ translated_at: 2026-06-02T14:25:12.418Z
 → **PayPay = 消費者面、SBPS = 加盟店面** で SoftBank グループ決済機能が分業
 
 ## 4. KPI（公開情報ベース、参考値）
+
+以下の表は、エントリ出典インベントリの公開一次資料（sbpayment.jp, softbank.jp, fsa.go.jp）の範囲に限定して読む。^[source:sbpayment.jp; softbank.jp; fsa.go.jp; meti.go.jp]
 
 | 指標 | 規模感 |
 |---|---|
@@ -124,6 +132,8 @@ SBPS の差別化軸: **SoftBank / Yahoo / LINE / PayPay の親会社グルー�
 - 加盟店側の決済ニーズの多様化に対応
 
 ## 6. 規制・監督
+
+以下の表は、エントリ出典インベントリの公開一次資料（sbpayment.jp, softbank.jp, fsa.go.jp）の範囲に限定して読む。^[source:sbpayment.jp; softbank.jp; fsa.go.jp; meti.go.jp]
 
 | 項目 | 内容 |
 |---|---|

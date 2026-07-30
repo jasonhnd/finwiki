@@ -3,8 +3,8 @@ title: "スイス再保険日本支店"
 aliases: ["Swiss Re Japan", "Swiss Reinsurance Japan", "Schweizer Rück Japan", "スイス再保険", "Swiss Re Japan Branch"]
 domain: non-life-insurers
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, insurance, reinsurance, foreign-affiliated, non-life-insurance, operating-company]
@@ -26,6 +26,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 スイス再保険会社（Swiss Reinsurance Company Ltd. / Schweizerische Rückversicherungs-Gesellschaft AG, SIX 上場）の日本支店。Munich Re と並ぶ **世界 2 大再保険会社の一角**。金融庁の損害保険会社免許一覧（外国損害保険会社等）に掲載され、Property & Casualty Reinsurance と Life & Health Reinsurance の両セグメントを日本市場で展開する。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (swissre.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:swissre.com; fsa.go.jp]
 
 | Item | Notes |
 |---|---|

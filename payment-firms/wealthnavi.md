@@ -3,8 +3,8 @@ title: ウェルスナビ株式会社 (WealthNavi)
 aliases: ["WealthNavi", "ウェルスナビ", "WealthNavi Inc.", "ウェルスナビ株式会社"]
 domain: payment-firms
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, robo-advisor, fintech]
@@ -50,6 +50,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 | 創業動機 | 「働く世代の豊かさを支える」を掲げ、米国型ロボアド（Betterment / Wealthfront）を日本に導入 |
 
 ### 主要事業数値（公開情報ベース）
+
+The following table is scoped to public primary sources (mufg.jp, corp.wealthnavi.com, prtimes.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:mufg.jp; corp.wealthnavi.com; prtimes.jp; financial.jiji.com]
 
 | 項目 | 数値 |
 |---|---|
@@ -108,6 +110,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 - **自動リバランス**（半年に 1 回 + 乖離発動時）
 
 ### 競争ポジション
+
+The following table is scoped to public primary sources (mufg.jp, corp.wealthnavi.com, prtimes.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:mufg.jp; corp.wealthnavi.com; prtimes.jp; financial.jiji.com]
 
 | プレイヤー | 親会社 | 預かり資産規模（概算・時点差あり）| 特徴 |
 |---|---|---|---|

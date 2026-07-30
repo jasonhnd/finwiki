@@ -1,11 +1,11 @@
 ---
 source: insurance/japan-bancassurance-distribution-overlay-matrix
-source_hash: 287e6701185ff57f
+source_hash: af845c3fc7b795c6
 lang: ja
 status: machine
 fidelity: ok
 title: "Japan bancassurance distribution overlay matrix"
-translated_at: 2026-06-19T06:09:18.098Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 
@@ -75,6 +75,8 @@ translated_at: 2026-06-19T06:09:18.098Z
 
 ### 銀行チャネルの属性とバンカシュアランス上の役割
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, zenginkyo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; zenginkyo.or.jp; boj.or.jp]
+
 | 銀行チャネル | グループ親会社 | 店舗網のリーチ | バンカシュアランス上の役割の傾斜 |
 |---|---|---|---|
 | [[megabanks/mufg-bank|MUFG Bank]] | [[megabanks/mufg|MUFG]] | 資産で最大のメガバンク | 複数引受会社シェルフ；信託銀行にプライベートバンキングの層 |
@@ -90,6 +92,8 @@ translated_at: 2026-06-19T06:09:18.098Z
 | 主要地方銀行 | 各種 FG | 地域固有のリーチ | 複数引受会社シェルフ |
 
 ### 引受会社 × 銀行チャネルのマトリックス（概念）
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, zenginkyo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; zenginkyo.or.jp; boj.or.jp]
 
 | 引受会社 | MUFG Bank | SMBC | SMBC Trust | Mizuho Bank | Mizuho Trust | りそな / 埼玉りそな | Japan Post Bank | SBI Shinsei Bank | Sony Bank | 地方銀行シェルフ |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -110,6 +114,8 @@ translated_at: 2026-06-19T06:09:18.098Z
 
 ### 一時払い対平準払いの商品分割
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, zenginkyo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; zenginkyo.or.jp; boj.or.jp]
+
 | 商品カテゴリ | バンカシュアランスでの存在感 | 備考 |
 |---|---|---|
 | 外貨建て一時払い年金（USD / AUD） | 新契約価値で支配的なバンカシュアランス商品 | 最大のコミッションで、FSA の行為規制の中心的な焦点 |
@@ -122,6 +128,8 @@ translated_at: 2026-06-19T06:09:18.098Z
 | 変額年金（変額型貯蓄性） | 歴史的なバンカシュアランス商品。FSA 主導の商品再設計後に縮小 | 大部分が外貨建て年金に置き換えられた |
 
 ### チャネルの専属性とシェルフの厳選
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, zenginkyo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; zenginkyo.or.jp; boj.or.jp]
 
 | 銀行チャネル | 専属 / シェルフの傾斜 | 備考 |
 |---|---|---|
@@ -136,6 +144,8 @@ translated_at: 2026-06-19T06:09:18.098Z
 
 ### コミッション構造と行為規制（概念）
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, zenginkyo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; zenginkyo.or.jp; boj.or.jp]
+
 | 軸 | 外貨建て一時払い年金 | 外貨建て平準払い終身 | 円建て一時払い貯蓄性 | 円建て平準払い貯蓄性 | 医療・がん |
 |---|---|---|---|---|---|
 | 典型的なコミッションの傾斜 | フロントロードが高い | フロントロードと継続のミックス | 中程度のフロントロード | フロントロードが低い | フロントロードが低い |
@@ -145,6 +155,8 @@ translated_at: 2026-06-19T06:09:18.098Z
 | 商品再設計の履歴 | 変額年金 → 外貨建て年金への移行 | 外貨建て終身の拡大 | 周期的な再設計 | 安定 | 安定 |
 
 ### 再提携の履歴と構造的な変化
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, zenginkyo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; zenginkyo.or.jp; boj.or.jp]
 
 | 銀行チャネル | 主な構造的変化 |
 |---|---|
@@ -158,6 +170,8 @@ translated_at: 2026-06-19T06:09:18.098Z
 
 ### 銀行側の手数料収入への貢献（概念）
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, zenginkyo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; zenginkyo.or.jp; boj.or.jp]
+
 | 銀行チャネル | バンカシュアランスの手数料収入の役割 |
 |---|---|
 | MUFG Bank | リテール手数料収入への重要な貢献者。資産運用（AM）など他の手数料ラインとの間で再調整 |
@@ -170,6 +184,8 @@ translated_at: 2026-06-19T06:09:18.098Z
 | 主要地方銀行 | 多くの地方銀行でリテール手数料収入への大きな貢献者 |
 
 ### 引受会社側の新契約価値（NBV）のチャネルミックス
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, zenginkyo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; zenginkyo.or.jp; boj.or.jp]
 
 | 引受会社 | バンカシュアランスの NBV シェア（概念） | 備考 |
 |---|---|---|
@@ -188,6 +204,8 @@ translated_at: 2026-06-19T06:09:18.098Z
 
 ### FSA の行為規制のオーバーレイ
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, zenginkyo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; zenginkyo.or.jp; boj.or.jp]
+
 | ルール領域 | 適用範囲 | 備考 |
 |---|---|---|
 | 高齢顧客への適合性 | すべてのバンカシュアランス販売 | 複数年にわたる FSA ガイダンスの進展。商品説明の手続きと記録された確認が必要 |
@@ -199,6 +217,8 @@ translated_at: 2026-06-19T06:09:18.098Z
 
 ### 外貨建て年金の FX リスク移転
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, zenginkyo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; zenginkyo.or.jp; boj.or.jp]
+
 | 軸 | 外貨建て一時払い年金 | 円建て一時払い貯蓄性 |
 |---|---|---|
 | FX リスク | 契約時に契約者へ移転 | なし |
@@ -209,6 +229,8 @@ translated_at: 2026-06-19T06:09:18.098Z
 | 保険会社にとっての ALM 上の帰結 | 資産・負債が同一の外貨建て。契約者行動を差し引いた FX リスク | 標準的な円の ALM |
 
 ### 最近の再提携と構造的な変化（概念）
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, zenginkyo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; zenginkyo.or.jp; boj.or.jp]
 
 | イベント・テーマ | 詳細 |
 |---|---|

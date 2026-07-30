@@ -1,11 +1,11 @@
 ---
 source: regional-banks/01-bank
-source_hash: 6a3ca0f41b18c3f1
+source_hash: 64a992b0a1eea51f
 lang: ja
 status: machine
 fidelity: ok
 title: "01銀行 (01Bank)"
-translated_at: 2026-06-19T13:13:22.648Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 01銀行 (01Bank)
 
@@ -14,6 +14,8 @@ translated_at: 2026-06-19T13:13:22.648Z
 This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[regional-banks/ui-bank|UI銀行 (UI Bank)]] and [[banking/minna-bank-baas-model|みんなの銀行]] for peer / contrast context (the two preceding 地銀デジタル銀行), [[regional-banks/ikeda-senshu-hd|池田泉州ホールディングス]] for parent group context, and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## 1. 法人・ライセンス境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, 01bank.co.jp, ja.wikipedia.org）の範囲に限定して読む。^[source:fsa.go.jp; 01bank.co.jp; ja.wikipedia.org; prtimes.jp]
 
 | Item | Reading |
 |---|---|
@@ -29,6 +31,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 | Core model | Business-data based SME finance / digital banking |
 
 ## 3. 重要年表
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, 01bank.co.jp, ja.wikipedia.org）の範囲に限定して読む。^[source:fsa.go.jp; 01bank.co.jp; ja.wikipedia.org; prtimes.jp]
 
 | 年月 | 事象 |
 |---|---|
@@ -53,6 +57,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 - 比較対象：[[regional-banks/ui-bank|UI銀行]]、[[banking/minna-bank-baas-model|みんなの銀行]]、[[banking/baas-japan-landscape|BaaS landscape]]
 
 ## 6. ピア比較 — 地銀デジタル子会社の系譜
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, 01bank.co.jp, ja.wikipedia.org）の範囲に限定して読む。^[source:fsa.go.jp; 01bank.co.jp; ja.wikipedia.org; prtimes.jp]
 
 | 銀行 | 親 FG | 開業 | ターゲット | アーキテクチャ |
 |---|---|---|---|---|

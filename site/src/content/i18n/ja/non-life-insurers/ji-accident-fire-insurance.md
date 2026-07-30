@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/ji-accident-fire-insurance
-source_hash: 943138d7b805ddba
+source_hash: a26853c58e704ec9
 lang: ja
 status: machine
 fidelity: ok
 title: "ジェイアイ傷害火災保険"
-translated_at: 2026-06-02T14:25:12.443Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # ジェイアイ傷害火災保険
@@ -21,6 +21,8 @@ JI Accident & Fire Insurance は、日本の免許損害保険会社一覧に掲
 このページはジェイアイ傷害火災保険株式会社を対象とする。公開資料では旅行保険の専門性と事業プロフィールが結びついているが、旅行会社ページへ統合しない。
 
 ## 事業上の役割マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, jihoken.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; jihoken.co.jp]
 
 | ルート | 読み方 |
 |---|---|

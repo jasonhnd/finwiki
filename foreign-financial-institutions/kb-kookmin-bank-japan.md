@@ -3,8 +3,8 @@ title: "國民銀行 東京支店"
 aliases: ["KB Kookmin Bank Japan", "Kookmin Bank Tokyo Branch", "KB Kookmin Bank Tokyo Branch", "國民銀行", "国民銀行"]
 domain: foreign-financial-institutions
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, banking, foreign-bank-branch, korea, asia-corridor, operating-branch]
@@ -27,6 +27,8 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 國民銀行 東京支店は、金融庁の外国銀行支店一覧に掲載される Republic of Korea / KB Kookmin Bank の在日銀行支店。Korean retail / commercial banking giant の Japan branch として、韓国・日本間の remittance, deposit, and corporate banking corridor を担う。
 
 ## 1. License / branch boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, omoney.kbstar.com, zenginkyo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; omoney.kbstar.com; zenginkyo.or.jp]
 
 | Item | Notes |
 |---|---|

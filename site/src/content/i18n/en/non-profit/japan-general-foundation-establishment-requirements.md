@@ -1,11 +1,11 @@
 ---
 source: non-profit/japan-general-foundation-establishment-requirements
-source_hash: ddb647e6561b38b6
+source_hash: 42ee3bd342c03969
 lang: en
 status: machine
 fidelity: ok
 title: "Japan General Incorporated Foundation: Establishment Requirements and Process"
-translated_at: 2026-06-19T13:31:34.046Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan General Incorporated Foundation: Establishment Requirements and Process
@@ -23,6 +23,8 @@ This entry sits under [[non-profit/japan-research-grant-map-2026|日本 研究�
 - **Act on General Incorporated Associations and General Incorporated Foundations** (平成18年 Act 第48号)
 
 ## Required bodies (all mandatory)
+
+The following table is scoped to public primary sources (laws.e-gov.go.jp, koshonin.gr.jp, moj.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:laws.e-gov.go.jp; koshonin.gr.jp; moj.go.jp]
 
 | Body | Number of members | Governing provision |
 |------|------|---------|
@@ -44,6 +46,8 @@ This entry sits under [[non-profit/japan-research-grant-map-2026|日本 研究�
 
 ## Term of office
 
+The following table is scoped to public primary sources (laws.e-gov.go.jp, koshonin.gr.jp, moj.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:laws.e-gov.go.jp; koshonin.gr.jp; moj.go.jp]
+
 | Body | Term | Whether the articles may extend it | Basis |
 |------|------|-------------|------|
 | Directors | until the conclusion of the ordinary council of councillors for the last business year within 2  years after election | not possible | Article 66  applied mutatis mutandis |
@@ -57,6 +61,8 @@ An executive director must report his or her own status of execution of duties t
 → In substance, holding the board of directors **at least 4  time(s) per year** is legally required.
 
 ## Establishment costs (minimum)
+
+The following table is scoped to public primary sources (laws.e-gov.go.jp, koshonin.gr.jp, moj.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:laws.e-gov.go.jp; koshonin.gr.jp; moj.go.jp]
 
 | Item | Amount | Basis |
 |------|------|------|

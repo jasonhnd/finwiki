@@ -1,12 +1,12 @@
 ---
 source: foreign-financial-institutions/metrobank-japan
-source_hash: e6acba6e3d6b72d5
+source_hash: 77b0fa6e764aa3e7
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "メトロポリタン銀行日本支店（Metrobank Japan）"
-translated_at: 2026-06-26T08:32:07.552Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # メトロポリタン銀行日本支店（Metrobank Japan）
 # メトロポリタン銀行日本 (Metrobank Japan)
@@ -25,6 +25,8 @@ Metrobank は [[foreign-financial-institutions/philippine-national-bank-japan|PN
 
 ## エンティティ境界
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, metrobank.co.jp, metrobank.com.ph）の範囲に限定して読む。^[source:fsa.go.jp; metrobank.co.jp; metrobank.com.ph]
+
 | 項目 | 読み方 |
 |---|---|
 | 親銀行 | Metropolitan Bank と Trust Company |
@@ -34,6 +36,8 @@ Metrobank は [[foreign-financial-institutions/philippine-national-bank-japan|PN
 | 規制ルート | FSAの外国銀行支店行に加え、日本サイトの公開資料にある外国銀行代理業の認可。 |
 
 ## 事業役割マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, metrobank.co.jp, metrobank.com.ph）の範囲に限定して読む。^[source:fsa.go.jp; metrobank.co.jp; metrobank.com.ph]
 
 | 機能 | 日本での意味 |
 |---|---|

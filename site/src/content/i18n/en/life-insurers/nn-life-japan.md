@@ -1,11 +1,11 @@
 ---
 source: life-insurers/nn-life-japan
-source_hash: 2c494cf2f4f21e15
+source_hash: 6e5f4115641aae8f
 lang: en
 status: machine
 fidelity: ok
 title: "NN Life Insurance"
-translated_at: 2026-06-01T00:41:50.431Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # NN Life Insurance
 
@@ -19,6 +19,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 NN Life Insurance Co., Ltd. is a foreign-affiliated Japan life insurer listed on the FSA life-insurance company license list and the Life Insurance Association of Japan member list. FinWiki treats it not simply as the Japan entity of a foreign financial group, but as a life-insurance operating company that underwrites insurance contracts in Japan.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, nnlife.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; nnlife.co.jp]
 
 | Item | Notes |
 |---|---|

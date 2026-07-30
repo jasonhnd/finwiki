@@ -1,11 +1,11 @@
 ---
 source: life-insurers/axa-japan
-source_hash: fa31393f340e1e71
+source_hash: 92cc053b3732a3c2
 lang: ja
 status: machine
 fidelity: ok
 title: "アクサ・ジャパン (AXA Japan)"
-translated_at: 2026-06-02T14:01:20.960Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # アクサ・ジャパン (AXA Japan)
@@ -39,6 +39,8 @@ AXA SA (仏 Paris 本社)
 
 ### 重要历史（年表）
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | 年月 | 事象 |
 |---|---|
 | 1932 | **日本団体生命保険** 創業（団体生保専業として戦前発足）|
@@ -54,6 +56,8 @@ AXA SA (仏 Paris 本社)
 | 2023〜2024 | グループ「Unlock the Future」戦略下で日本も健康・予防（ヘルスケア）領域へ拡張 |
 
 ## 2. 業務ライン
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -76,6 +80,8 @@ AXA SA (仏 Paris 本社)
 - **健康・予防領域**：AXA Group の「Payer to Partner」戦略（単なる保険金支払者から、健康支援パートナーへ）を日本でも展開
 
 ### 競合関係
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | 競合タイプ | 主要競合 |
 |---|---|

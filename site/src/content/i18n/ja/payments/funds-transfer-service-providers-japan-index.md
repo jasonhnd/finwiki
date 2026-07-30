@@ -1,12 +1,12 @@
 ---
 source: payments/funds-transfer-service-providers-japan-index
-source_hash: 2e70677bbf51158e
+source_hash: b3b600441ec44868
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の資金移動業者登録レジストリインデックス"
-translated_at: 2026-06-26T08:28:46.063Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本の資金移動業者登録レジストリインデックス
@@ -17,6 +17,8 @@ translated_at: 2026-06-26T08:28:46.063Z
 
 ## レジストリスナップショット
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp）の範囲に限定して読む。^[source:fsa.go.jp]
+
 | 指標 | 読み方 |
 |---|---:|
 | 金融庁の基準日 | 2026-04-30 |
@@ -25,6 +27,8 @@ translated_at: 2026-06-26T08:28:46.063Z
 | Wiki 再掲ポリシー | 83 の全行はコピーしない；金融庁を引用し、ここでは重要な wiki ルートを維持する。 |
 
 ## 管轄別件数
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp）の範囲に限定して読む。^[source:fsa.go.jp]
 
 | 管轄 | 事業者数 |
 |---|---:|
@@ -37,6 +41,8 @@ translated_at: 2026-06-26T08:28:46.063Z
 
 ## 境界
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp）の範囲に限定して読む。^[source:fsa.go.jp]
+
 | 境界 | 取扱い |
 |---|---|
 | 資金移動業者 | 資金決済法に基づき登録し、銀行免許ルート外で為替取引を行う。 |
@@ -46,6 +52,8 @@ translated_at: 2026-06-26T08:28:46.063Z
 | ステーブルコイン／EPI | 電子決済手段が関わる場合は [[fintech/japan-stablecoin-regulatory-landscape|stablecoin regulation]] および EPI 事業者ページにルーティングする。 |
 
 ## 既存の重要 Wiki ルート以下のルートは、FinWiki で既にカバー済みまたは新たに昇格された重要事業者である。これらは 83行の金融庁一覧の完全な再掲ではない。
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp）の範囲に限定して読む。^[source:fsa.go.jp]
 
 | セグメント | 公式／製品ルート | Wiki ルート | 境界注記 |
 |---|---|---|---|

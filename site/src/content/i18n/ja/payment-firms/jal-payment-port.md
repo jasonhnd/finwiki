@@ -1,12 +1,12 @@
 ---
 source: payment-firms/jal-payment-port
-source_hash: 2ce16eefc9fe53bf
+source_hash: 41c2aa9df777807e
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "JALペイメント・ポート"
-translated_at: 2026-06-26T08:31:59.834Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # JALペイメント・ポート
@@ -20,6 +20,8 @@ JALペイメント・ポート株式会社は、JAL Pay / travel-ウォレット
 FinWiki にとって、これは航空会社の会員制度、前払式 value、transfer capability、bank agency、金融商品仲介を結び付ける travel / loyalty ウォレットのルートである。
 
 ## 1. 法人・ライセンス境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（jal.co.jp, fsa.go.jp）の範囲に限定して読む。^[source:jal.co.jp; fsa.go.jp]
 
 | Item | Reading |
 |---|---|

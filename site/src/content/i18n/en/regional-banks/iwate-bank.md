@@ -1,11 +1,11 @@
 ---
 source: regional-banks/iwate-bank
-source_hash: 5a410b99b2724386
+source_hash: 9d5b87b06e062466
 lang: en
 status: machine
 fidelity: ok
 title: "The Bank of Iwate, Ltd. (株式会社岩手銀行)"
-translated_at: 2026-06-19T12:43:19.972Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # The Bank of Iwate, Ltd. (株式会社岩手銀行)
@@ -20,6 +20,8 @@ The Bank of Iwate is a first-tier regional bank headquartered in Morioka, Iwate 
 
 ## 1. Company overview
 
+The following table is scoped to public primary sources (iwatebank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:iwatebank.co.jp]
+
 | Item | Content |
 |---|---|
 | Legal name | 株式会社岩手銀行 |
@@ -33,6 +35,8 @@ The Bank of Iwate is a first-tier regional bank headquartered in Morioka, Iwate 
 Per the official company overview, as of 2025-03-31 employees numbered 1,333, branches numbered 110, total assets were 3兆7,970億円, total deposits etc. were 3兆4,222億円, and loans were 2兆2,066億円.
 
 ## 2. Business segment map
+
+The following table is scoped to public primary sources (iwatebank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:iwatebank.co.jp]
 
 | Business segment | Content | Importance |
 |---|---|---|

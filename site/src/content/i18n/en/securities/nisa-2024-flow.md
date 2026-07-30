@@ -1,11 +1,11 @@
 ---
 source: securities/nisa-2024-flow
-source_hash: cf0e104299904c30
+source_hash: 48ddfbf1d9b9d311
 lang: en
 status: machine
 fidelity: ok
 title: "NISA 2024 flow"
-translated_at: 2026-06-19T12:43:19.953Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # NISA 2024 flow
@@ -23,6 +23,8 @@ For FinWiki, NISA is a securities-distribution and household-asset-flow page. It
 
 ## System Map
 
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, global.rakuten.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; global.rakuten.com]
+
 | Layer | 2024 NISA reading |
 |---|---|
 | Policy objective | Shift household financial assets toward long-term asset formation. |
@@ -32,6 +34,8 @@ For FinWiki, NISA is a securities-distribution and household-asset-flow page. It
 | Distribution layer | Securities firms, banks, and online brokers compete for account opening, recurring investment, and asset retention. |
 
 ## Key Parameters
+
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, global.rakuten.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; global.rakuten.com]
 
 | Item | New NISA reading |
 |---|---:|

@@ -1,12 +1,12 @@
 ---
 source: securities-firms/rakuten-securities
-source_hash: 4a732fedc0ef0ee3
+source_hash: 199b88cf2a204c5b
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "楽天証券"
-translated_at: 2026-06-26T08:32:23.073Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 楽天証券
@@ -18,6 +18,8 @@ translated_at: 2026-06-26T08:32:23.073Z
 オンライン証券、リテール NISA 獲得、ポイント / カード / エコシステム流通、家計資産形成フローについては本ページを使用すること。
 
 ## ポジショニング
+
+以下の表は、エントリ出典インベントリの公開一次資料（global.rakuten.com, fsa.go.jp）の範囲に限定して読む。^[source:global.rakuten.com; fsa.go.jp]
 
 | レンズ | 読み |
 |---|---|

@@ -3,8 +3,8 @@ title: "福井銀行"
 aliases: ["Fukui Bank", "The Fukui Bank", "株式会社福井銀行"]
 domain: regional-banks
 created: 2026-05-21
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-12-05
 confidence: likely
 tags: [JapanFG, banking, regional-bank, chubu, fukui, operating-company]
@@ -27,6 +27,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 株式会社福井銀行 (The Fukui Bank) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される福井県福井市本店の地方銀行 (第一地銀)。北陸・中部境界の regional bank として wiki では standalone operating-company anchor を持つ。公式情報では、同じ福井県の福邦銀行を 2024-10-01 に完全子会社化し、その後の合併（合併契約 2024-11-08 締結、効力発生日 2026-05-02 予定）が公表されている。事業の中身は県内の預金受入と中小企業・個人・自治体向け貸出という地方銀行の標準モデル。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, fukuibank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; fukuibank.co.jp]
 
 | Item | Notes |
 |---|---|

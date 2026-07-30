@@ -1,11 +1,11 @@
 ---
 source: regional-banks/hachijuni-nagano-bank
-source_hash: 7ce8e3ca45c9f159
+source_hash: e6a8cd6640652434
 lang: en
 status: machine
 fidelity: ok
 title: "Hachijuni Nagano Bank"
-translated_at: 2026-06-19T12:43:19.983Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Hachijuni Nagano Bank
@@ -20,6 +20,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 Hachijuni Nagano Bank, Ltd. is a regional bank headquartered in Nagano Prefecture and listed on the FSA's bank license list. As the legal-name entity following the integration of the former [[regional-banks/hachijuni-bank|八十二銀行]] and the former Nagano Bank, this page holds the current operating-company boundary.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, bank.82group.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; bank.82group.jp]
 
 | Item | Notes |
 |---|---|

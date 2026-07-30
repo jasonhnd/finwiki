@@ -1,11 +1,11 @@
 ---
 source: regional-banks/kyoto-fg
-source_hash: 1d938031ee03d443
+source_hash: 9d03eb577e2ae48d
 lang: en
 status: machine
 fidelity: ok
 title: "Kyoto Financial Group"
-translated_at: 2026-06-19T12:43:19.948Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Kyoto Financial Group
@@ -27,6 +27,8 @@ A **prestigious Kansai regional-bank FG** based in Kyoto Prefecture. Securities 
 **Headquarters**: 700 Yakushi-mae-cho, Karasuma-dori Matsubara-agaru, Shimogyo-ku, Kyoto City (co-located with the Bank of Kyoto head office) ^[extracted]
 
 ### 2025-03  results (consolidated, securities-report basis) ^[extracted]
+
+The following table is scoped to public primary sources (nikkei.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:nikkei.com]
 
 | Item | Amount |
 |---|---|
@@ -69,6 +71,8 @@ Kyoto FG (holding company, TSE PRIME 5844)
 
 ### Key timeline (excerpt) ^[extracted]
 
+The following table is scoped to public primary sources (nikkei.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:nikkei.com]
+
 | Year/Month | Event |
 |---|---|
 | 1941-10-01 | Bank of Kyoto established (Kyoto-Prefecture regional-bank consolidation under wartime control) |
@@ -84,6 +88,8 @@ Kyoto FG (holding company, TSE PRIME 5844)
 | 2025 | Expectation of expanded Kansai-economic-zone transactions on the follow-tail of the Osaka-Kansai Expo |
 
 ## 2. Business-segment map
+
+The following table is scoped to public primary sources (nikkei.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:nikkei.com]
 
 | Segment | Main operator | Characteristics |
 |---|---|---|
@@ -105,6 +111,8 @@ Kyoto FG (holding company, TSE PRIME 5844)
 - **Medium-term management plan**: achieved the 1th plan (FY2023-03 to FY2026-03, net income 300 億円 target) ahead of schedule and announced new strategic targets at 2024-11-14. In the next 2th plan (FY2026-04~FY2029-03), it set far more challenging targets than before, such as net income attributable to owners of the parent 600 億円 (FY2029-03) · ROE 8% or more (early 2030 年s)
 
 ### Competitive landscape
+
+The following table is scoped to public primary sources (nikkei.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:nikkei.com]
 
 | Competitor | Base | Configuration |
 |---|---|---|

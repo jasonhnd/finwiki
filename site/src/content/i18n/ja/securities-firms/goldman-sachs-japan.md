@@ -1,11 +1,11 @@
 ---
 source: securities-firms/goldman-sachs-japan
-source_hash: 83d06cd20d7b28e9
+source_hash: 70659892da2ce094
 lang: ja
 status: machine
 fidelity: ok
 title: "ゴールドマン・サックス・ジャパン (Goldman Sachs Japan)"
-translated_at: 2026-06-19T12:43:19.975Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # ゴールドマン・サックス・ジャパン (Goldman Sachs Japan)
 
@@ -37,6 +37,8 @@ The Goldman Sachs Group, Inc.（NYSE: GS、上場持株会社）
 ```
 
 ### 親会社 Goldman Sachs Group 概要（参考、NYSE: GS） ^[extracted]
+
+以下の表は、エントリ出典インベントリの公開一次資料（nikkei.com, ja.wikipedia.org, goldmansachs.com）の範囲に限定して読む。^[source:nikkei.com; ja.wikipedia.org; goldmansachs.com]
 
 | 項目 | 内容 |
 |---|---|
@@ -70,6 +72,8 @@ The Goldman Sachs Group, Inc.（NYSE: GS、上場持株会社）
 - **東京本社**：六本木ヒルズ森タワー（六本木 6-10-1）^[extracted]
 
 ## 2. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（nikkei.com, ja.wikipedia.org, goldmansachs.com）の範囲に限定して読む。^[source:nikkei.com; ja.wikipedia.org; goldmansachs.com]
 
 | セグメント | 主要業務 | 特徴 |
 |---|---|---|

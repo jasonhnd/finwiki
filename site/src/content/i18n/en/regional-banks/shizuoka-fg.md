@@ -1,11 +1,11 @@
 ---
 source: regional-banks/shizuoka-fg
-source_hash: 2351ba9b7a756e86
+source_hash: d76db73d299d74e7
 lang: en
 status: machine
 fidelity: ok
 title: "しずおか FG (Shizuoka FG)"
-translated_at: 2026-06-19T12:43:19.905Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # しずおか FG (Shizuoka FG)
@@ -53,6 +53,8 @@ A standalone regional-bank holding company based in Shizuoka Prefecture (as a re
 
 ### 重要年表（抜粋）
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | 年月 | 事象 |
 |---|---|
 | 1943 | **静岡銀行 設立**（県内主要 3 行 合併）|
@@ -64,6 +66,8 @@ A standalone regional-bank holding company based in Shizuoka Prefecture (as a re
 | 2024〜 | 中期経営計画（地銀単独 FG 化後の戦略フェーズ）|
 
 ## 2. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

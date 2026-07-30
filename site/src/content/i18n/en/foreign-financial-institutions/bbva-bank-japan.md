@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/bbva-bank-japan
-source_hash: 6a989c92d7ec7524
+source_hash: 9f5f558e66c94f84
 lang: en
 status: machine
 fidelity: ok
 title: "Bilbao Vizcaya Argentaria Bank Tokyo Branch"
-translated_at: 2026-05-31T11:13:44.905Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Bilbao Vizcaya Argentaria Bank Tokyo Branch
@@ -20,6 +20,8 @@ This entry sits under[[foreign-financial-institutions/INDEX|foreign-financial-in
 Bank of Bilbao Vizcaya Argentaria Tokyo Branch is a Spanish/BBVA bank branch in Japan listed on the Financial Services Agency's list of foreign bank branches. As part of BBVA's Asia branch network, it focuses on the wholesale banking and institutional investor segment.
 
 ## 1. License / branch boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, bbva.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; bbva.com]
 
 | Item | Notes |
 |---|---|

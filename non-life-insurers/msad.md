@@ -9,8 +9,8 @@ aliases:
   - "non-life-insurers/ms-ad"
 domain: non-life-insurers
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, non-life-insurance]
@@ -74,6 +74,8 @@ MS&AD HD（持株会社・上場 8725）
 
 ### 重要年表
 
+The following table is scoped to public primary sources (MS&AD, MS&AD Insurance Group Holdings, MS&AD HD). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:MS&AD; MS&AD Insurance Group Holdings; MS&AD HD]
+
 | 年月 | 事象 |
 |---|---|
 | 1893 | 住友海上火災保険 創業 |
@@ -90,6 +92,8 @@ MS&AD HD（持株会社・上場 8725）
 | **2027-04（予定）** | **三井住友海上 + あいおいニッセイ同和損保 合併予定**（3 ブランド体制終焉）|
 
 ## 1.5 財務 KPI（FY2024 = 2025-03 期）
+
+The following table is scoped to public primary sources (MS&AD, MS&AD Insurance Group Holdings, MS&AD HD). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:MS&AD; MS&AD Insurance Group Holdings; MS&AD HD]
 
 | 項目 | FY2024 (2025-03) | YoY |
 |---|---|---|

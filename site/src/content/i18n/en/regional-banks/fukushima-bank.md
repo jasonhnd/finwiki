@@ -1,11 +1,11 @@
 ---
 source: regional-banks/fukushima-bank
-source_hash: 0fd24bbe9a7178a6
+source_hash: 33c2305d5021630d
 lang: en
 status: machine
 fidelity: ok
 title: "The Fukushima Bank"
-translated_at: 2026-06-15T04:09:41.203Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # The Fukushima Bank
@@ -20,6 +20,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 The Fukushima Bank, Ltd. (株式会社福島銀行) is a second regional bank headquartered in Fukushima Prefecture, holding a bank license under the Banking Act and listed in the FSA's bank license list. While [[regional-banks/toho-bank|東邦銀行]] is the first-regional-bank anchor for Fukushima Prefecture, the Fukushima Bank is the retail / SME / local reconstruction-finance anchor on the second-regional-bank side. It is often discussed in the context of its alliance with the SBI group (the regional-finance partnership of [[megabanks/sbi-regional-bank-hd|SBI 地銀 HD]]). The substance of its business is the standard regional-bank model of taking deposits within the prefecture and lending to SMEs and individuals.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, fukushimabank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; fukushimabank.co.jp]
 
 | Item | Notes |
 |---|---|

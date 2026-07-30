@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/hyundai-marine-fire-japan
-source_hash: 42bca127d29fb978
+source_hash: cb44ddc6c01987f8
 lang: ja
 status: machine
 fidelity: ok
 title: "Hyundai Marine & Fire Japan / 現代海上火災保険"
-translated_at: 2026-06-15T03:48:21.882Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Hyundai Marine & Fire Japan / 現代海上火災保険
@@ -21,6 +21,8 @@ Hyundai Marine & Fire Japan は、韓国の Hyundai Marine & Fire Insurance の�
 本ページは 現代海上火災保険株式会社 の日本損害保険会社の行を扱う。韓国の親会社グループ全体や日本以外の保険事業を取り込むべきではない。
 
 ## 事業上の役割マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, hdinsurance.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; hdinsurance.co.jp]
 
 | 経路 | 読み |
 |---|---|

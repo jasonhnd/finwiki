@@ -6,8 +6,8 @@ aliases:
   - "みずほ証券"
 domain: securities-firms
 created: 2026-05-19
-last_updated: 2026-05-20
-last_tended: 2026-05-20
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, securities, investment-banking, FIEA, Mizuho]
@@ -50,6 +50,8 @@ Mizuho Securities is the securities arm of [[megabanks/mizuho-fg|Mizuho Financia
 Use this page for Mizuho's securities / investment-banking layer, not for bank-deposit or trust-bank analysis.
 
 ## Positioning
+
+The following table is scoped to public primary sources (mizuhogroup.com, fsa.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:mizuhogroup.com; fsa.go.jp; jsda.or.jp]
 
 | Lens | Reading |
 |---|---|

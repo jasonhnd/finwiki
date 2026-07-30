@@ -1,11 +1,11 @@
 ---
 source: regional-banks/chugin-okayama
-source_hash: cdd38392e973c3fb
+source_hash: db4adea9a79f080e
 lang: en
 status: machine
 fidelity: ok
 title: "ちゅうぎん FG / Chugoku Bank historical group page"
-translated_at: 2026-06-19T12:43:19.866Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # ちゅうぎん FG / Chugoku Bank historical group page
@@ -29,6 +29,8 @@ A regional-bank-group page for the eastern Chugoku region, with its head office 
 **Capital (FG)**: 160 億円 (as of 2022-10-03) ^[extracted]
 
 ### 2025-03  fiscal-year results (consolidated・ちゅうぎん FG) ^[extracted]
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Item | Amount | YoY |
 |---|---|---|
@@ -65,6 +67,8 @@ A regional-bank-group page for the eastern Chugoku region, with its head office 
 
 ### Key chronology ^[extracted]
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Year/Month | Event |
 |---|---|
 | 1878-12-09 | 86th National Bank established (Takahashi)|
@@ -83,6 +87,8 @@ A regional-bank-group page for the eastern Chugoku region, with its head office 
 | 2024〜 | Net-income KPI original 300 億円 target → revised upward to 400 億円 or more ^[extracted] |
 
 ## 2. Business-segment map
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Segment | Main entity | Characteristics |
 |---|---|---|
@@ -139,6 +145,8 @@ A regional-bank-group page for the eastern Chugoku region, with its head office 
   - 2023〜 the TSUBASA shared-administration-center concept → progress in administrative integration
 
 ### Representative directors ^[extracted]
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Position | Name | Background |
 |---|---|---|

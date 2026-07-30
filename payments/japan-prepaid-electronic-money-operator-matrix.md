@@ -10,8 +10,8 @@ aliases:
   - 日本前払い式電子マネー事業者比較マトリクス
 domain: payments
 created: 2026-05-25
-last_updated: 2026-07-29
-last_tended: 2026-07-29
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-10-27
 confidence: certain
 tags: [payments, matrix, prepaid, electronic-money, e-money, felica, mifare, transit, retail, japan]
@@ -103,6 +103,8 @@ The matrix below lays out those dimensions so a reader can distinguish JR East a
 **Operator**: Kyushu Railway Company (JR Kyushu, TSE Prime 9142), operated directly. **License**: Payment Services Act 第三者型前払式支払手段発行者. **Technology**: FeliCa (SUGOCA card). **Launch**: 2009-03. **Distribution**: physical card. **Merchant network**: 全国相互利用 interoperable. **Mobile integration**: limited as of 2026 (JR Kyushu shinkansen integration via separate EX-IC route). **Refund policy**: ticket-office refund. **Group bank backstop**: JR Kyushu balance sheet. **Group cross-link**: JR Kyushu retail and travel loyalty.
 
 ## Big comparison matrix table
+
+The following table is scoped to public primary sources (fsa.go.jp, edy.rakuten.co.jp, support.rakuten-edy.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; edy.rakuten.co.jp; support.rakuten-edy.co.jp; 7andi.com]
 
 | Brand | Operator | Parent group | License (Payment Services Act) | Technology | Launch | Merchant network (approx) | Mobile / Apple Pay status | Refund policy | Documented cash / liability link | Group cross-link | Stack tier |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -210,6 +212,8 @@ The 第三者型 vs 自家型 distinction is structural: 第三者型 is the "ge
 ## Comparison vs the funds-transfer regime
 
 A reader new to JP payments often confuses **prepaid e-money** with **funds-transfer (資金移動業)** — they share the wallet-balance UX but sit under different licenses with materially different rules:
+
+The following table is scoped to public primary sources (fsa.go.jp, edy.rakuten.co.jp, support.rakuten-edy.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; edy.rakuten.co.jp; support.rakuten-edy.co.jp; 7andi.com]
 
 | Dimension | Prepaid 第三者型前払 | Funds-transfer 資金移動業 |
 |---|---|---|

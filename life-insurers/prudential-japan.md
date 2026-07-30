@@ -13,8 +13,8 @@ aliases:
   - "life-insurers/prudential-life-japan"
 domain: life-insurers
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, life-insurance, foreign-japan-subsidiary]
@@ -86,6 +86,8 @@ Prudential Financial, Inc.（米、NYSE: PRU）
 | 2024〜 | 日銀正常化局面で運用利回り改善ボーナス・予定利率引上げ |
 
 ## 2. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (Prudential Japan, プルデンシャル生命, プルデンシャル・ホールディング・オブ・ジャパン). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Prudential Japan; プルデンシャル生命; プルデンシャル・ホールディング・オブ・ジャパン]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

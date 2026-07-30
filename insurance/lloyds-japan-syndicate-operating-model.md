@@ -8,8 +8,8 @@ aliases:
   - "Lloyd's Japan specialty insurance"
 domain: insurance
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [insurance, lloyds, marketplace, syndicate, specialty, marine, aviation, cyber, political-risk, terrorism, reinsurance]
@@ -91,6 +91,8 @@ The five-line specialty story is consistent across Lloyd's public market comment
 
 Lloyd's syndicates in Japan operate in *both* the direct underwriting market and the reinsurance market, sometimes in the same line:
 
+The following table is scoped to public primary sources (lloyds.com, fsa.go.jp, sonpo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:lloyds.com; fsa.go.jp; sonpo.or.jp]
+
 | Mode | What it looks like | Counterparty | Examples |
 |---|---|---|---|
 | **Direct (insurance)** | Lloyd's Japan Inc. issues the policy to the Japanese insured via a Japanese broker | Japanese corporate / SME / shipowner | Aviation hull on JAL; energy package on a refinery; political risk for sōgō-shōsha |
@@ -100,6 +102,8 @@ Lloyd's syndicates in Japan operate in *both* the direct underwriting market and
 This is why Lloyd's appears on both [[insurance/foreign-reinsurer-japan-landscape|foreign reinsurer panel]] discussions *and* on direct-insurer comparisons — Lloyd's is structurally present in both layers.
 
 ## 7. Comparison: Lloyd's Japan vs conventional foreign insurer
+
+The following table is scoped to public primary sources (lloyds.com, fsa.go.jp, sonpo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:lloyds.com; fsa.go.jp; sonpo.or.jp]
 
 | Dimension | Lloyd's Japan ([[non-life-insurers/lloyd-japan]]) | Conventional foreign insurer (e.g., [[non-life-insurers/aig-japan|AIG Japan]], [[non-life-insurers/chubb-insurance-japan|Chubb]]) |
 |---|---|---|

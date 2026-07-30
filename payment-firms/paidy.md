@@ -3,8 +3,8 @@ title: 株式会社ペイディ (Paidy)
 aliases: ["Paidy", "ペイディ", "Paidy Inc.", "株式会社ペイディ", "あと払い Paidy"]
 domain: payment-firms
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, fintech, bnpl]
@@ -41,6 +41,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 **創業者**：**Russell Cummer**（米国出身、元ゴールドマン・サックス）^[extracted]
 
 ### 主要サービスライン
+
+The following table is scoped to public primary sources (Wikipedia: 株式会社ペイディ (2026-05-19 抽出), PayPal Holdings 2021-09-07 Press Release (Paidy 買収発表), Paidy 公式コーポレートサイト 沿革ページ). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Wikipedia: 株式会社ペイディ (2026-05-19 抽出); PayPal Holdings 2021-09-07 Press Release (Paidy 買収発表); Paidy 公式コーポレートサイト 沿革ページ]
 
 | サービス | 内容 |
 |---|---|
@@ -82,6 +84,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 - **手数料モデル**: 加盟店側手数料（クレカより高め）+ 分割時の消費者側手数料（一括は無料）
 
 ### 競合マップ
+
+The following table is scoped to public primary sources (Wikipedia: 株式会社ペイディ (2026-05-19 抽出), PayPal Holdings 2021-09-07 Press Release (Paidy 買収発表), Paidy 公式コーポレートサイト 沿革ページ). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Wikipedia: 株式会社ペイディ (2026-05-19 抽出); PayPal Holdings 2021-09-07 Press Release (Paidy 買収発表); Paidy 公式コーポレートサイト 沿革ページ]
 
 | 競合 | 親グループ | ポジション |
 |---|---|---|

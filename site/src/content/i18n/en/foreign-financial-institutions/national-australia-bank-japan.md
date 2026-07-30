@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/national-australia-bank-japan
-source_hash: 05152e530654dca8
+source_hash: cde8f2381355feb6
 lang: en
 status: machine
 fidelity: ok
 title: "National Australia Bank Japan"
-translated_at: 2026-06-01T00:41:50.450Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # National Australia Bank Japan
 
@@ -23,6 +23,8 @@ The branch is worth standalone treatment because NAB is one of the Australian ba
 
 ## Entity / License Boundary
 
+The following table is scoped to public primary sources (fsa.go.jp, nab.com.au, news.nab.com.au). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; nab.com.au; news.nab.com.au]
+
 | Layer | Reading |
 |---|---|
 | Foreign-bank branch | FSA bank-license route for National Australia Bank. |
@@ -32,6 +34,8 @@ The branch is worth standalone treatment because NAB is one of the Australian ba
 | Corridor | Australia / New Zealand to Japan and Japan outbound investment into Australia / New Zealand. |
 
 ## Business Role Map
+
+The following table is scoped to public primary sources (fsa.go.jp, nab.com.au, news.nab.com.au). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; nab.com.au; news.nab.com.au]
 
 | Function | Japan relevance |
 |---|---|

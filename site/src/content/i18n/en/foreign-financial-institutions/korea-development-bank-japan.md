@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/korea-development-bank-japan
-source_hash: c3a3764dd602c2da
+source_hash: 4692c7c494341296
 lang: en
 status: machine
 fidelity: ok
 title: "Korea Development Bank Tokyo Branch"
-translated_at: 2026-05-31T23:59:49.351Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Korea Development Bank Tokyo Branch
 
@@ -18,6 +18,8 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 Korea Development Bank Tokyo Branch is the Japan branch of Korea Development Bank listed in the FSA foreign bank branch list. As a Korean policy-bank / development-bank corridor, it handles project finance, shipping / aircraft finance, syndicated loans, trade finance, and cross-border corporate finance.
 
 ## 1. License / branch boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, kdb.co.kr). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; kdb.co.kr]
 
 | Item | Notes |
 |---|---|

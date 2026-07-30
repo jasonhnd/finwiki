@@ -3,8 +3,8 @@ title: "はなさく生命保険"
 aliases: ["はなさく生命", "Hanasaku Life", "Hanasaku Life Insurance", "はなさく生命保険株式会社"]
 domain: life-insurers
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, insurance, life-insurance, nippon-life, agency-channel, operating-company]
@@ -27,6 +27,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 はなさく生命保険株式会社は、金融庁 life-insurer list に掲載される [[life-insurers/nippon-life]] group の life-insurance operating company。日本生命本体の traditional sales-force model とは別に、medical / protection products and agency-channel strategy を担う newer group insurer として見る。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, life8739.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; life8739.co.jp]
 
 | Item | Notes |
 |---|---|

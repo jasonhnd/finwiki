@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/au-insurance
-source_hash: 59476d753c13fef5
+source_hash: a1855fe761a2f6fa
 lang: en
 status: machine
 fidelity: ok
 title: ""
-translated_at: 2026-05-31T11:13:44.856Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 ﻿# au Insurance
 
@@ -19,6 +19,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 au Insurance Company, Limited is a direct / mobile-friendly non-life insurance operating company adjacent to [[megabanks/au-fh]] and [[non-life-insurers/aioi-nissay-dowa-insurance]]. It appears on the FSA list of licensed non-life insurers and sits at the intersection of the KDDI / au ecosystem and MS&AD insurance capabilities.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, sonpohogo.or.jp, au-sonpo.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sonpohogo.or.jp; au-sonpo.co.jp]
 
 | Item | Notes |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: non-profit/japan-koeki-vs-general-zaidan-comparison
-source_hash: 48280d13c938e183
+source_hash: 316a23360fb54965
 lang: en
 status: machine
 fidelity: ok
 title: "公益財団 vs 一般財団 vs 一般社団 vs NPO法人 — Japan non-profit / public-interest legal form comparison"
-translated_at: 2026-06-19T13:31:34.050Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 公益財団 vs 一般財団 vs 一般社団 vs NPO法人 — Japan non-profit / public-interest legal form comparison
@@ -17,6 +17,8 @@ This entry sits under [[non-profit/INDEX|governance INDEX]] and routes into [[co
 ## TL;DR
 
 Four legal forms commonly grouped together but governed by **three separate statute families** and **two different supervisory regimes**:
+
+The following table is scoped to public primary sources (laws.e-gov.go.jp, koeki-info.go.jp, npo-homepage.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:laws.e-gov.go.jp; koeki-info.go.jp; npo-homepage.go.jp; moj.go.jp]
 
 | Form | Common name | Statute | Supervisor / approver |
 |---|---|---|---|
@@ -32,6 +34,8 @@ Key splits:
 - **General forms vs NPO** — both are non-profits but governed by different statute families; NPO has narrower permitted activities (20 specified categories) but lower setup cost, while general forms have wider scope but a ¥3M minimum endowment for foundations.
 
 ## Side-by-Side Comparison Table
+
+The following table is scoped to public primary sources (laws.e-gov.go.jp, koeki-info.go.jp, npo-homepage.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:laws.e-gov.go.jp; koeki-info.go.jp; npo-homepage.go.jp; moj.go.jp]
 
 | Dimension | 公益財団法人 | 一般財団法人 | 一般社団法人 | NPO法人 |
 |---|---|---|---|---|
@@ -113,6 +117,8 @@ Q4. Does the activity fall within the 20 NPO法 categories?
 
 ## Governance Comparison — Required Organs
 
+The following table is scoped to public primary sources (laws.e-gov.go.jp, koeki-info.go.jp, npo-homepage.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:laws.e-gov.go.jp; koeki-info.go.jp; npo-homepage.go.jp; moj.go.jp]
+
 | Organ | 公益財団 | 一般財団 | 一般社団 | NPO法人 |
 |---|---|---|---|---|
 | 評議員会 (council of councillors) | Required | Required | N/A (no councillor concept) | N/A |
@@ -151,6 +157,8 @@ Most working 一般財団 / 一般社団 elect 非営利型 to limit corporation
 
 The donor-side benefit is the unique 公益 / 認定NPO advantage:
 
+The following table is scoped to public primary sources (laws.e-gov.go.jp, koeki-info.go.jp, npo-homepage.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:laws.e-gov.go.jp; koeki-info.go.jp; npo-homepage.go.jp; moj.go.jp]
+
 | Donor type | 公益財団 / 公益社団 | 認定NPO法人 | 一般財団 / 一般社団 | 非認定NPO法人 |
 |---|---|---|---|---|
 | Individual income tax | 所得控除 OR 税額控除 (choice) | 所得控除 OR 税額控除 (choice) | No deduction | No deduction |
@@ -161,6 +169,8 @@ The donor-side benefit is the unique 公益 / 認定NPO advantage:
 The expanded corporate-donor 損金算入枠 is materially valuable for large corporate donors and is one of the strongest reasons mature corporate philanthropy vehicles convert from 一般財団 to 公益財団.
 
 ## Cost and Timeline Compared
+
+The following table is scoped to public primary sources (laws.e-gov.go.jp, koeki-info.go.jp, npo-homepage.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:laws.e-gov.go.jp; koeki-info.go.jp; npo-homepage.go.jp; moj.go.jp]
 
 | Item | 公益財団 | 一般財団 | 一般社団 | NPO法人 |
 |---|---|---|---|---|

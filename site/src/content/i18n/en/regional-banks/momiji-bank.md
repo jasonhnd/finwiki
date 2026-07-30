@@ -1,11 +1,11 @@
 ---
 source: regional-banks/momiji-bank
-source_hash: f40c5cdae6e89830
+source_hash: 016622742b11864e
 lang: en
 status: machine
 fidelity: ok
 title: "Momiji Bank"
-translated_at: 2026-06-15T04:09:41.196Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Momiji Bank
@@ -19,6 +19,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 Momiji Bank, Ltd. (株式会社もみじ銀行) is a second-tier regional bank headquartered in Hiroshima City, Hiroshima Prefecture, holding a bank license under the Banking Act and listed in the FSA's bank license list. It is the Hiroshima-area operating bank under [[regional-banks/yamaguchi-fg|山口フィナンシャルグループ]] (YMFG) and is treated as a second-regional-bank peer that is a separate legal entity from the first-tier regional bank [[regional-banks/hiroshima-bank|広島銀行]]. Its business is the standard second-tier regional bank model of deposit-taking within the prefecture and lending to SMEs and individuals.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, momijibank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; momijibank.co.jp]
 
 | Item | Notes |
 |---|---|

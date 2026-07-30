@@ -1,11 +1,11 @@
 ---
 source: regional-banks/ui-bank
-source_hash: acc45775db37da04
+source_hash: f2e49f9aa5836cec
 lang: ja
 status: machine
 fidelity: ok
 title: "UI銀行 (UI Bank)"
-translated_at: 2026-06-15T04:09:41.206Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # UI銀行 (UI Bank)
@@ -19,6 +19,8 @@ translated_at: 2026-06-15T04:09:41.206Z
 UI銀行 (UI Bank Co., Ltd.) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される、[[regional-banks/kiraboshi-fg|東京きらぼしフィナンシャルグループ]] 100% 出資の digital-bank operating company。2021 年 12 月 17 日に銀行業免許を取得し、2022 年 1 月 4 日にシステム稼働、同 1 月 17 日にスマホ専用アプリで預金者向けサービスを開始した。地域金融グループ発のスマホ銀行として、対面・非対面のハイブリッドと生活パートナー型金融、API 連携を打ち出す。
 
 ## 1. 法人・ライセンス境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, uibank.co.jp, kiraboshibank.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; uibank.co.jp; kiraboshibank.co.jp]
 
 | 項目 | 読み方 |
 |---|---|

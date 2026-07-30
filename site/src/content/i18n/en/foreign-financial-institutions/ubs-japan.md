@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/ubs-japan
-source_hash: ba9864d52a317056
+source_hash: 044e7699309075aa
 lang: en
 status: machine
 fidelity: ok
 title: "UBS Japan (UBS ジャパン)"
-translated_at: 2026-06-18T23:59:13.056Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # UBS Japan (UBS ジャパン)
@@ -22,6 +22,8 @@ The group of Japan bases of Switzerland's UBS Group AG (G-SIB Bucket 1, one of t
 
 **Parent company**: UBS Group AG (headquartered in Zurich, Switzerland, SIX: UBSG / NYSE: UBS) ^[extracted]
 **Main Japan entities**:
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Entity | Business type | Shareholding |
 |---|---|---|
@@ -41,6 +43,8 @@ The group of Japan bases of Switzerland's UBS Group AG (G-SIB Bucket 1, one of t
 - **2024**: the integration of the former Credit Suisse Japan (former CS Securities / Japan branches, etc.) into the UBS Japan bases completed → cost cutting / restructuring in progress
 
 ## 3. Business segment map
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Segment | Main operator | Characteristics |
 |---|---|---|

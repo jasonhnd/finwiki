@@ -3,8 +3,8 @@ title: "SBペイメントサービス (SB Payment Service)"
 aliases: ["SB Payment Service", "SBPS", "SBペイメントサービス", "SBペイメントサービス株式会社"]
 domain: payment-firms
 created: 2026-05-21
-last_updated: 2026-06-24
-last_tended: 2026-06-24
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-12-24
 confidence: likely
 tags: [JapanFG, payments, psp, acquirer, merchant-services]
@@ -32,6 +32,8 @@ sources:
 SBペイメントサービスは SoftBank グループの加盟店向け決済・PSP 運営会社。公式事業紹介はオンラインから店舗までの決済サービスと、アクワイアラとしての加盟店審査・管理・決済サービス提供を示しており、[[payments/card-acquiring-japan-stack|カード加盟店管理・アクワイアリングの構造]] を読むための主要ページである。^[verified-2026-06-24]
 
 ## 1. 法人・ライセンス境界
+
+The following table is scoped to public primary sources (sbpayment.co.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:sbpayment.co.jp; meti.go.jp]
 
 | 項目 | 読み方 |
 |---|---|

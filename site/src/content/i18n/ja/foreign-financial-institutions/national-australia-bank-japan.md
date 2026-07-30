@@ -1,12 +1,12 @@
 ---
 source: foreign-financial-institutions/national-australia-bank-japan
-source_hash: 05152e530654dca8
+source_hash: cde8f2381355feb6
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "ナショナルオーストラリア銀行日本"
-translated_at: 2026-06-26T08:32:15.225Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # ナショナルオーストラリア銀行日本
@@ -25,6 +25,8 @@ NAB は、日本拠点について、オーストラリアおよびニュージ�
 
 ## エンティティ・免許境界
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, nab.com.au, news.nab.com.au）の範囲に限定して読む。^[source:fsa.go.jp; nab.com.au; news.nab.com.au]
+
 | レイヤー | 読み方 |
 |---|---|
 | 外国銀行支店 | National Australia Bank の金融庁銀行免許上の経路。 |
@@ -34,6 +36,8 @@ NAB は、日本拠点について、オーストラリアおよびニュージ�
 | コリドー | オーストラリア / ニュージーランドから日本、日本からオーストラリア / ニュージーランドへのアウトバウンド投資。 |
 
 ## 事業役割マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, nab.com.au, news.nab.com.au）の範囲に限定して読む。^[source:fsa.go.jp; nab.com.au; news.nab.com.au]
 
 | 機能 | 日本における意味 |
 |---|---|

@@ -3,8 +3,8 @@ title: "大樹生命保険"
 aliases: ["大樹生命", "Taiju Life", "Taiju Life Insurance", "大樹生命保険株式会社", "三井生命"]
 domain: life-insurers
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, insurance, life-insurance, nippon-life, operating-company]
@@ -27,6 +27,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 大樹生命保険株式会社は、金融庁の生命保険会社免許一覧に掲載される life-insurance operating company。旧三井生命として知られる lineage を持ち、現在は [[life-insurers/nippon-life]] group adjacency を意識して追うべき insurer だが、契約 underwriting entity としては standalone page が必要。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, taiju-life.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; taiju-life.co.jp]
 
 | Item | Notes |
 |---|---|

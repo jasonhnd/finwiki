@@ -1,11 +1,11 @@
 ---
 source: life-insurers/hanasaku-life
-source_hash: 343c19f53eb32fd5
+source_hash: 13a592ade1f41585
 lang: ja
 status: machine
 fidelity: ok
 title: "はなさく生命保険"
-translated_at: 2026-06-02T14:25:12.434Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # はなさく生命保険
@@ -20,6 +20,8 @@ translated_at: 2026-06-02T14:25:12.434Z
 はなさく生命保険株式会社は、金融庁の生命保険会社一覧に掲載される [[life-insurers/nippon-life]] グループの生命保険事業会社である。日本生命本体の伝統的な営業職員モデルとは別に、医療・保障性商品と代理店チャネル戦略を担う新しいグループ保険会社として見る。
 
 ## 1. ライセンス・グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, life8739.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; life8739.co.jp]
 
 | 項目 | メモ |
 |---|---|

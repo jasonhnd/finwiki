@@ -9,8 +9,8 @@ aliases:
   - "life-insurers/meiji-yasuda-life"
 domain: life-insurers
 created: 2026-05-19
-last_updated: 2026-07-29
-last_tended: 2026-07-29
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-10-27
 confidence: certain
 tags: [JapanFG, life-insurance, mutual-company]
@@ -59,6 +59,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 - **安田生命の前身**: 1880 年、安田善次郎が共済五百名社を設立し、1894 年に近代的な相互扶助会社へ改組した。
 
 ### 重要年表
+
+The following table is scoped to public primary sources (meijiyasuda.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meijiyasuda.co.jp]
 
 | 年月 | 事象 |
 |---|---|

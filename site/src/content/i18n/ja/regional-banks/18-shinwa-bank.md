@@ -1,11 +1,11 @@
 ---
 source: regional-banks/18-shinwa-bank
-source_hash: f4aff57047e4d596
+source_hash: 8c27bf46ac683e45
 lang: ja
 status: machine
 fidelity: ok
 title: "株式会社十八親和銀行 (Eighteenth Shinwa Bank)"
-translated_at: 2026-06-02T14:01:20.937Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 株式会社十八親和銀行 (Eighteenth Shinwa Bank)
@@ -20,6 +20,8 @@ translated_at: 2026-06-02T14:01:20.937Z
 
 ## 1. 会社概要
 
+以下の表は、エントリ出典インベントリの公開一次資料（18shinwabank.co.jp）の範囲に限定して読む。^[source:18shinwabank.co.jp]
+
 | 項目 | 内容 |
 |---|---|
 | 正式名 | 株式会社十八親和銀行 |
@@ -32,6 +34,8 @@ translated_at: 2026-06-02T14:01:20.937Z
 公式会社概要では、2025-03 末時点で資本金 368億円、総資産 7兆4,927億円、預金 5兆5,269億円、貸出金 3兆8,965億円、従業員 1,835名、店舗 188（長崎県内 164）とされる。
 
 ## 2. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（18shinwabank.co.jp）の範囲に限定して読む。^[source:18shinwabank.co.jp]
 
 | 事業セグメント | 内容 | 重要性 |
 |---|---|---|

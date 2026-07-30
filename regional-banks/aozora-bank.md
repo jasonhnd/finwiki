@@ -3,8 +3,8 @@ title: あおぞら銀行 (Aozora Bank)
 aliases: ["Aozora Bank", "あおぞら銀行", "株式会社あおぞら銀行", "Aozora", "旧 日本債券信用銀行", "日債銀", "Nippon Credit Bank", "NCB"]
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, banking, post-rehab]
@@ -82,6 +82,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 - 普通銀行転換後、個人向けリテール拡大の中心チャネル
 
 ## 2. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (Wikipedia: あおぞら銀行 (2026-05-19 抽出), Wikipedia: 日本債券信用銀行 (2026-05-19 抽出), あおぞら銀行 2025-03 期 決算短信 / 有価証券報告書). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Wikipedia: あおぞら銀行 (2026-05-19 抽出); Wikipedia: 日本債券信用銀行 (2026-05-19 抽出); あおぞら銀行 2025-03 期 決算短信 / 有価証券報告書]
 
 | セグメント | 主力プロダクト | 特徴 |
 |---|---|---|

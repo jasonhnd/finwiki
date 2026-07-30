@@ -1,11 +1,11 @@
 ---
 source: regional-banks/chukyo-bank
-source_hash: 0edba55de968e138
+source_hash: 7cdf98871bd713af
 lang: ja
 status: machine
 fidelity: ok
 title: "中京銀行 (Chukyo Bank, historical)"
-translated_at: 2026-06-02T14:01:20.969Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 中京銀行 (Chukyo Bank, historical)
@@ -19,6 +19,8 @@ translated_at: 2026-06-02T14:01:20.969Z
 株式会社中京銀行は、愛知県名古屋市本店の第二地方銀行で、**2025-01-01 旧愛知銀行と合併し [[regional-banks/aichi-bank|あいち銀行]] に統合** (運営境界 移行完了)。1953 年「第三相互無尽 + 第十七相互無尽」統合で設立、相互銀行 → 第二地銀普銀転換を経た典型的な「相銀系第二地銀」。証券コード旧 **東証 8530** は [[regional-banks/aichi-fg|あいち FG]] 設立 (2022-10) 時に廃止、本ページは 現行の法的エンティティ ではなく、合併前 歴史的アンカー として位置づける。^[extracted]
 
 ## 1. 免許 / グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, aichibank.co.jp, aichi-fg.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; aichibank.co.jp; aichi-fg.co.jp; dainichiginkyo.or.jp]
 
 | 項目 | 注記 |
 |---|---|
@@ -72,6 +74,8 @@ translated_at: 2026-06-02T14:01:20.969Z
 
 出典: あいち FG 有価証券報告書「中京銀行 単体情報」(2024-03-31 / 2023 年度)。
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, aichibank.co.jp, aichi-fg.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; aichibank.co.jp; aichi-fg.co.jp; dainichiginkyo.or.jp]
+
 | 項目 | 概況 |
 |---|---|
 | 預金残高 (単体, 2024-03 末) | 1 兆 9,642 億円 (1,964,221 百万円) |
@@ -82,6 +86,8 @@ translated_at: 2026-06-02T14:01:20.969Z
 | 旧上場コード | 東証 PRIME 8530 (2022-09-29 上場廃止) |
 
 ## 5. 業務線 (合併前)
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, aichibank.co.jp, aichi-fg.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; aichibank.co.jp; aichi-fg.co.jp; dainichiginkyo.or.jp]
 
 | セグメント | 特徴 |
 |---|---|

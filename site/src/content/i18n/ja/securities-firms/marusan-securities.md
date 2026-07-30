@@ -1,12 +1,12 @@
 ---
 source: securities-firms/marusan-securities
-source_hash: 6135f0e29056a4fb
+source_hash: 07c1bfb131a113d0
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "丸三証券 (Marusan Securities)"
-translated_at: 2026-06-26T08:32:23.072Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 丸三証券 (Marusan Securities)
@@ -18,6 +18,8 @@ translated_at: 2026-06-26T08:32:23.072Z
 ## 要約丸三証券は **1910 年創業の老舗中堅独立証券** (東証 PRIME **8613**)、創業 110 年超で **対面リテール主軸 + コンサルティング営業** に特化する独立系証券会社。FSA 金融商品取引業者一覧では「丸三証券株式会社」、関東財務局長(金商)第167号として掲載される。**JSDA 正会員**。メガバンク・通信系には属さず、株式・債券・投資信託の対面販売を中核とする伝統的中堅証券モデルを維持し、競合は [[securities-firms/aizawa-sg|アイザワ証券]] / [[securities-firms/okasan-sg|岡三証券グループ]] / [[securities-firms/iwai-cosmo-hd|岩井コスモ HD]] / [[securities-firms/tokai-tokyo-fh|東海東京 FH]] 等の中堅独立証券枠。
 
 ## 1. 法人・ライセンス境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, jsda.or.jp, marusan-sec.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; jsda.or.jp; marusan-sec.co.jp]
 
 | 項目 | 読み方 |
 |---|---|
@@ -43,12 +45,16 @@ translated_at: 2026-06-26T08:32:23.072Z
 
 ### 重要年表 (公開情報ベース)
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, jsda.or.jp, marusan-sec.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; jsda.or.jp; marusan-sec.co.jp]
+
 | 年月 | 事象 |
 |---|---|
 | **1910** | **東京で個人商店として創業** (明治期老舗証券) ^[extracted] |
 | 2022-04 | 東証市場区分見直し → 東証 PRIME 移行 ^[extracted] |
 
 ## 3. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, jsda.or.jp, marusan-sec.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; jsda.or.jp; marusan-sec.co.jp]
 
 | セグメント | 内容 | 特徴 |
 |---|---|---|

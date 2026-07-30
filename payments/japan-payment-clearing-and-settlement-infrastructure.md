@@ -8,8 +8,8 @@ aliases:
   - "systems/zengin"
 domain: "payments"
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-22
 confidence: likely
 tags: [payments, settlement, clearing, zengin, cotra, bank-pay, Japan]
@@ -38,6 +38,8 @@ Japan payment infrastructure includes central-bank settlement assets, BOJ-NET, i
 This page belongs to [[payments/INDEX|payments domain]] and links to [[payments/account-to-account-payment-japan|account-to-account payment route]], [[payments/merchant-bank-pay-account-direct-acquiring|merchant bank-account direct acquiring]], [[payments/funds-transfer-vs-prepaid-boundary|funds transfer vs prepaid boundary]], [[payments/japan-bank-api-payment-agency-route|bank API route]], [[payments/japan-bank-api-incident-and-fraud-control|bank API incident and fraud-control map]], [[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]], [[payments/card-acquiring-japan-stack|Japan card acquiring stack]], [[banking/quick-deposit-four-methods|quick deposit four methods]], and [[financial-licenses/INDEX|JapanFG legal / financial licenses]].
 
 ## Infrastructure Map
+
+The following table is scoped to public primary sources (boj.or.jp, zengin-net.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:boj.or.jp; zengin-net.jp]
 
 | Layer | Public system / route | Public function |
 |---|---|---|
@@ -73,6 +75,8 @@ Public Cotra materials identify deposit-taking financial institutions and funds-
 
 JEPPO promotes account-linked payment infrastructure. Its public service pages identify J-Debit and Bank Pay as core account-linked payment services.
 
+The following table is scoped to public primary sources (boj.or.jp, zengin-net.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:boj.or.jp; zengin-net.jp]
+
 | Service | Public model |
 |---|---|
 | J-Debit | Customer presents a cash card and enters PIN; funds are debited immediately from the bank account; merchant is paid later. |
@@ -81,6 +85,8 @@ JEPPO promotes account-linked payment infrastructure. Its public service pages i
 | Bank Pay adjacent functions | Merchant payment, Cotra remittance, and bill-payment flows can sit in the same app surface. |
 
 ## Product-To-Infrastructure Crosswalk
+
+The following table is scoped to public primary sources (boj.or.jp, zengin-net.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:boj.or.jp; zengin-net.jp]
 
 | Product surface | Infrastructure route |
 |---|---|

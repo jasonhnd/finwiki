@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/american-home-insurance-japan
-source_hash: 56937bfb7c8b26f5
+source_hash: ac88e4fabc97f445
 lang: ja
 status: machine
 fidelity: ok
 title: "American Home Insurance Japan / アメリカンホーム医療・損害保険"
-translated_at: 2026-06-02T14:01:20.899Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # American Home Insurance Japan / アメリカンホーム医療・損害保険
 
@@ -20,6 +20,8 @@ translated_at: 2026-06-02T14:01:20.899Z
 このページは、AIG Japan 全体ではなく、アメリカンホーム医療・損害保険株式会社を対象とする。会社ブランドの文脈が重要なのは、「American Home」と「American Home Direct」が公開資料上で現在も消費者向け保険ブランドとして残っているためである。
 
 ## 事業上の役割マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, americanhome.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; americanhome.co.jp]
 
 | ルート | 読み方 |
 |---|---|

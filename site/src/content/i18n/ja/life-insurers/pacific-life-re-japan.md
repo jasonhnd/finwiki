@@ -1,12 +1,12 @@
 ---
 source: life-insurers/pacific-life-re-japan
-source_hash: f067f0a6354af0d5
+source_hash: e22230e720cbb1b6
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Pacific Life Re Japan / パシフィック・ライフ・リー・ジャパン"
-translated_at: 2026-06-26T08:31:59.855Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Pacific Life Re Japan / パシフィック・ライフ・リー・ジャパン
@@ -20,6 +20,8 @@ translated_at: 2026-06-26T08:31:59.855Z
 Pacific Life Re は、**Pacific Life Insurance Company** (Pacific Life)——1868 年に設立され、カリフォルニア州ニューポートビーチに本拠を置く米国本社の mutual 生命保険会社——のグローバルな life and health 再保険部門である。Pacific Life Re は、英国、オーストラリア、シンガポール、香港、バミューダ、カナダ、日本に子会社・支店を持ち、life and health 再保険に注力して国際的に事業を展開している。Pacific Life Re Japan は、[[non-life-insurers/swiss-re-japan|Swiss Re Japan]]、[[non-life-insurers/hannover-re-japan|Hannover Re Japan]] などの大手再保険会社や、国内の [[non-life-insurers/toa-reinsurance|Toa Re]] / Japan Earthquake Reinsurance エコシステムと並んで、日本の生命再保険市場に参画している。
 
 ## 1. License / group boundary
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, pacificlifere.com）の範囲に限定して読む。^[source:fsa.go.jp; pacificlifere.com]
 
 | Item | Notes |
 |---|---|

@@ -3,8 +3,8 @@ title: 今村証券 (Imamura Securities)
 aliases: ["Imamura Securities", "Imamura Securities Co., Ltd.", "今村証券", "今村証券株式会社", "7175"]
 domain: securities-firms
 created: 2026-05-24
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, securities, independent, mid-tier, regional]
@@ -26,6 +26,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 今村証券は **石川県金沢市本拠の地域中堅独立証券** (東証 STANDARD **7175**)、北陸地方の対面リテール証券として地元密着のコンサルティング営業を展開する。FSA 金融商品取引業者一覧では「今村証券株式会社」、北陸財務局長(金商)第3号として掲載される。**日本証券業協会 ([[financial-regulators/jsda|JSDA]]) 正会員**。同じ地方拠点の独立中堅証券 ([[securities-firms/iwai-cosmo-hd|岩井コスモ HD]] 大阪 / [[securities-firms/okasan-sg|岡三 SG]] 中京) とは異なる**北陸 (金沢) 単独地域基盤**が特徴で、地元顧客との対面長期関係を主軸とする。
 
 ## 1. 法人・ライセンス境界
+
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, imamura-sec.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; imamura-sec.co.jp]
 
 | Item | Reading |
 |---|---|
@@ -59,6 +61,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 | 2022-04 | 東証市場区分見直し → 東証 STANDARD (7175) ^[extracted] |
 
 ## 3. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, imamura-sec.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; imamura-sec.co.jp]
 
 | セグメント | 内容 | 特徴 |
 |---|---|---|

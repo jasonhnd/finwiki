@@ -3,8 +3,8 @@ title: GMO ペイメントゲートウェイ
 aliases: ["GMO-PG", "GMO Payment Gateway", "GMO ペイメントゲートウェイ", "3769"]
 domain: payment-firms
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, payment, fintech]
@@ -44,6 +44,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 
 ## 2. 事業セグメント・マップ
 
+The following table is scoped to public primary sources (gmo-pg.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:gmo-pg.com]
+
 | セグメント | 主要サービス | 特徴 |
 |---|---|---|
 | EC 決済代行 | クレカ (Visa/Master/JCB/Amex) + コンビニ決済 + 銀行振込 + 電子マネー | 稼働店舗 171,257 店（2026-03 末、fincode byGMO 等含むと 829,062 店）|
@@ -75,6 +77,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 - **アジア集中**:ベトナム NextPay / 台湾 ECPay / タイ等への出資・JV
 
 ### 競合マップ
+
+The following table is scoped to public primary sources (gmo-pg.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:gmo-pg.com]
 
 | 競合 | 強み | 立ち位置 |
 |---|---|---|

@@ -8,8 +8,8 @@ aliases:
   - Aizawa Securities Co., Ltd.
 domain: securities-firms
 created: 2026-05-25
-last_updated: 2026-07-29
-last_tended: 2026-07-29
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, securities, independent, asia-emerging, FIEA-type-1]
@@ -67,6 +67,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ## 4. 業務セグメント
 
+The following table is scoped to public primary sources (aizawa.co.jp, aizawa-sg.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:aizawa.co.jp; aizawa-sg.co.jp; fsa.go.jp]
+
 | セグメント | 内容 | 位置付け |
 |---|---|---|
 | 国内株式仲介 | 日本株 (TSE / OSE / 名証 / 福証 / 札証) | 主力収益柱 |
@@ -100,6 +102,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 - **NISA 制度恒久化対応**：2024-01 新 NISA 開始に伴うリテール口座獲得
 
 ## 8. 主要 KPI（概観）
+
+The following table is scoped to public primary sources (aizawa.co.jp, aizawa-sg.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:aizawa.co.jp; aizawa-sg.co.jp; fsa.go.jp]
 
 | 項目 | 規模感 |
 |---|---|

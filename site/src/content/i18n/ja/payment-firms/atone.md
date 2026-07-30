@@ -1,12 +1,12 @@
 ---
 source: payment-firms/atone
-source_hash: 96e60a34d736c7b5
+source_hash: 58775c64f75b80c4
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "atone（アトネ）"
-translated_at: 2026-06-26T08:32:23.070Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # atone（アトネ）
 
@@ -19,6 +19,8 @@ translated_at: 2026-06-26T08:32:23.070Z
 atone は [[payment-firms/net-protections-hd|Net Protections HD]] が運営する **消費者側 BNPL ウォレット**。アカウント登録ベースで複数加盟店を横断し、月締めで翌月コンビニ・銀行振込・口座振替で一括払いする UX を提供する。NP 後払い（請求書同梱型）が **加盟店主導 BNPL** であるのに対し、atone は **消費者主導 BNPL** という二刀流の片翼を担う。[[payment-firms/paidy|Paidy]] と最も直接的に競合する。
 
 ## 1. 法人・ライセンス境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（atone.be, corp.netprotections.com, meti.go.jp）の範囲に限定して読む。^[source:atone.be; corp.netprotections.com; meti.go.jp]
 
 | 項目 | 読み方 |
 |---|---|

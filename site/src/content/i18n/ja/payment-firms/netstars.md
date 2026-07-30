@@ -1,12 +1,12 @@
 ---
 source: payment-firms/netstars
-source_hash: 6573d0607f1bf435
+source_hash: 83735f1ff4d81d48
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "ネットスターズ"
-translated_at: 2026-06-26T08:32:07.561Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # ネットスターズ
@@ -20,6 +20,8 @@ translated_at: 2026-06-26T08:32:07.561Z
 FinWiki では、Netstars は [[payment-firms/paypay|PayPay]] や [[payment-firms/merpay|Merpay]] のような消費者ウォレットではなく、QR ゲートウェイ集約の専門ルートである。加盟店、決済ブランド、PSP のリスク管理、クロスボーダーのコード決済受入の間に位置する。
 
 ## 1. 法人・ライセンス境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（netstars.co.jp, fsa.go.jp, meti.go.jp）の範囲に限定して読む。^[source:netstars.co.jp; fsa.go.jp; meti.go.jp]
 
 | 項目 | 読み方 |
 |---|---|

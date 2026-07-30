@@ -1,11 +1,11 @@
 ---
 source: regional-banks/daishi-hokuetsu-bank
-source_hash: 61845ca5bfb91011
+source_hash: 4880c74813c560ba
 lang: en
 status: machine
 fidelity: ok
 title: "The Daishi Hokuetsu Bank"
-translated_at: 2026-06-15T04:09:41.152Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # The Daishi Hokuetsu Bank
@@ -20,6 +20,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 The Daishi Hokuetsu Bank, Ltd. (株式会社第四北越銀行) is a regional bank (first-tier regional bank) headquartered in Niigata Prefecture that holds a bank license under the Banking Act and is listed on the FSA's bank license list. It is the core operating bank under [[regional-banks/dai-shi-hokuetsu-fg|第四北越フィナンシャルグループ]], a single banking subsidiary established through the management integration and merger of the former Dai-Shi Bank and the former Hokuetsu Bank. Its business substance is the standard regional-bank model of deposit-taking within Niigata Prefecture and lending to SMEs, individuals, and local governments.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, dhbk.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; dhbk.co.jp]
 
 | Item | Notes |
 |---|---|

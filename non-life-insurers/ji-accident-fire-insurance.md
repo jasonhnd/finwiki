@@ -3,8 +3,8 @@ title: "JI Accident & Fire Insurance / ジェイアイ傷害火災保険"
 aliases: ["ジェイアイ傷害火災保険", "ジェイアイ傷害火災保険株式会社", "JI Accident & Fire Insurance", "JI保険"]
 domain: non-life-insurers
 created: 2026-05-23
-last_updated: 2026-05-23
-last_tended: 2026-05-23
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-23
 confidence: likely
 tags: [JapanFG, non-life-insurance, travel-insurance, jtb, aig, public-source]
@@ -28,6 +28,8 @@ JI Accident & Fire Insurance is a travel-insurance specialist in Japan's license
 This page covers ジェイアイ傷害火災保険株式会社. It should not be merged into a travel-agency page, even though public materials connect its business profile with travel-insurance expertise.
 
 ## Business Role Map
+
+The following table is scoped to public primary sources (fsa.go.jp, jihoken.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jihoken.co.jp]
 
 | Route | Reading |
 |---|---|

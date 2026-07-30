@@ -1,11 +1,11 @@
 ---
 source: regional-banks/tochigi-bank
-source_hash: a4031d7e21a2f596
+source_hash: 5816c0874342f3df
 lang: en
 status: machine
 fidelity: ok
 title: ""
-translated_at: 2026-06-01T02:31:57.104Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 ﻿# Tochigi Bank
 
@@ -18,6 +18,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 The Tochigi Bank, Ltd. is a second regional bank headquartered in Utsunomiya, Tochigi Prefecture and listed on the FSA bank license list. In Tochigi Prefecture, [[regional-banks/ashikaga-bank]] is the first-regional bank anchor, while Tochigi Bank is organized here as the second-regional-bank-side operating company.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, tochigibank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; tochigibank.co.jp]
 
 | Item | Notes |
 |---|---|

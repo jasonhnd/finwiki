@@ -1,11 +1,11 @@
 ---
 source: regional-banks/daito-bank
-source_hash: 1d0cd475073aba88
+source_hash: e90790f8bad2d615
 lang: en
 status: machine
 fidelity: ok
 title: "The Daito Bank"
-translated_at: 2026-06-15T04:09:41.161Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # The Daito Bank
@@ -20,6 +20,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 The Daito Bank, Ltd. (株式会社大東銀行) is a second regional bank headquartered in Koriyama, Fukushima Prefecture, holding a bank license under the Banking Act and listed in the FSA's bank-license list. Within Fukushima Prefecture, read it together with the first regional bank [[regional-banks/toho-bank|東邦銀行]] and the second regional bank [[regional-banks/fukushima-bank|福島銀行]], keeping the two-layer first-regional / second-regional structure separate. The substance of its business is the standard regional-bank model: deposit-taking in the Naka-dori area of the prefecture and lending to SMEs and individuals.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, daitobank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; daitobank.co.jp]
 
 | Item | Notes |
 |---|---|

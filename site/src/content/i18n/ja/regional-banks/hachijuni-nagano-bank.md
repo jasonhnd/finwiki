@@ -1,11 +1,11 @@
 ---
 source: regional-banks/hachijuni-nagano-bank
-source_hash: 7ce8e3ca45c9f159
+source_hash: e6a8cd6640652434
 lang: ja
 status: machine
 fidelity: ok
 title: "八十二長野銀行"
-translated_at: 2026-06-02T14:25:12.400Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 八十二長野銀行
@@ -20,6 +20,8 @@ translated_at: 2026-06-02T14:25:12.400Z
 株式会社八十二長野銀行は、金融庁の銀行免許一覧に掲載される長野県本店の地方銀行。旧 [[regional-banks/hachijuni-bank|八十二銀行]] と旧長野銀行の統合後の正式名称エンティティとして、本ページが現在の事業会社境界を持つ。
 
 ## 1. 免許・グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, bank.82group.jp）の範囲に限定して読む。^[source:fsa.go.jp; bank.82group.jp]
 
 | 項目 | メモ |
 |---|---|

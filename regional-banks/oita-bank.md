@@ -3,8 +3,8 @@ title: "大分銀行"
 aliases: ["Oita Bank", "The Oita Bank", "株式会社大分銀行", "だいぎん"]
 domain: regional-banks
 created: 2026-05-21
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-12-05
 confidence: likely
 tags: [JapanFG, banking, regional-bank, kyushu, oita, operating-company]
@@ -25,6 +25,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 株式会社大分銀行 (The Oita Bank, だいぎん) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される大分県大分市本店の地方銀行 (第一地銀)。Oita prefecture first-regional-bank operating-company anchor であり、Kyushu standalone regional bank として扱う。事業の中身は県内の預金受入と中小企業・個人・地方公共団体向け貸出。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, oitabank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; oitabank.co.jp]
 
 | Item | Notes |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: life-insurers/pgf-life
-source_hash: f66befd0a4357d7f
+source_hash: 44a5db7502f72133
 lang: en
 status: machine
 fidelity: ok
 title: "プルデンシャル ジブラルタ ファイナンシャル生命保険"
-translated_at: 2026-06-15T03:48:21.832Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # プルデンシャル ジブラルタ ファイナンシャル生命保険
@@ -19,6 +19,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]] (its domain ro
 プルデンシャル ジブラルタ ファイナンシャル生命保険株式会社 (**PGF生命**) is a life-insurance operating company in the US Prudential Financial group (the Japanese Prudential group) that holds a life-insurance company license under the Insurance Business Act and appears on the FSA's list of licensed life-insurance companies. It changed to its current trade name in 2010 年 4 月 1 日, and has used "PGF生命" as its abbreviation since 2013 年 4 月. With **bancassurance (bank-counter sales) as its main business**, it provides single-premium savings-type products such as USD-denominated single-premium whole life insurance through partner financial institutions, which separates it in channel and product from [[life-insurers/prudential-japan|プルデンシャル生命]] and [[life-insurers/gibraltar-life|ジブラルタ生命]], which are centered on face-to-face consultants.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, pgf-life.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; pgf-life.co.jp]
 
 | Item | Notes |
 |---|---|

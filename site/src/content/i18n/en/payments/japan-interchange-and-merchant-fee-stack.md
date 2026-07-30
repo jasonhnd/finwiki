@@ -1,11 +1,11 @@
 ---
 source: payments/japan-interchange-and-merchant-fee-stack
-source_hash: 96c290f4de43a8da
+source_hash: 68ae119452fcac41
 lang: en
 status: machine
 fidelity: ok
 title: "Japan interchange and merchant fee stack"
-translated_at: 2026-06-01T03:31:12.303Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan interchange and merchant fee stack
@@ -17,6 +17,8 @@ This page records the public structure of Japan card merchant-fee and interchang
 This page belongs to [[payments/INDEX|payments domain]] and links to [[payments/cashless-jp-landscape|Japan cashless payment landscape]], [[payments/japan-card-issuer-acquirer-processor-split|issuer / acquirer / processor split]], [[payments/japan-card-security-authentication-controls|card security and authentication controls]], [[payments/credit-purchase-card-operators-japan-index|credit / card registry]], [[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]], [[payments/merchant-bank-pay-account-direct-acquiring|merchant bank-account direct acquiring]], and [[financial-licenses/payment-license-stack|Japan payment license stack]].
 
 ## Fee Component Map
+
+The following table is scoped to public primary sources (meti.go.jp, jftc.go.jp, paymentsjapan.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; jftc.go.jp; paymentsjapan.or.jp; j-credit.or.jp]
 
 | Component | Public role | Linked route |
 |---|---|---|
@@ -32,6 +34,8 @@ This page belongs to [[payments/INDEX|payments domain]] and links to [[payments/
 
 ## Public Disclosure Timeline
 
+The following table is scoped to public primary sources (meti.go.jp, jftc.go.jp, paymentsjapan.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; jftc.go.jp; paymentsjapan.or.jp; j-credit.or.jp]
+
 | Date / source | Public fact field |
 |---|---|
 | 2022 JFTC report | JFTC reviewed credit-card merchant fees, interchange-related components, merchant-size fee differences, and negotiation patterns. |
@@ -40,6 +44,8 @@ This page belongs to [[payments/INDEX|payments domain]] and links to [[payments/
 | 2023 Payments Japan roadmap | The roadmap stated that Mastercard, UnionPay, and Visa had published Japan credit-card standard interchange rates. |
 
 ## Public Numeric Fields
+
+The following table is scoped to public primary sources (meti.go.jp, jftc.go.jp, paymentsjapan.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; jftc.go.jp; paymentsjapan.or.jp; j-credit.or.jp]
 
 | Source | Field | Value recorded in source pack |
 |---|---|---|
@@ -52,6 +58,8 @@ This page belongs to [[payments/INDEX|payments domain]] and links to [[payments/
 | Payments Japan 2022 | Issuer fee in Category I and Category II | 1.56% in both categories. |
 
 ## Merchant Contract Fields
+
+The following table is scoped to public primary sources (meti.go.jp, jftc.go.jp, paymentsjapan.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; jftc.go.jp; paymentsjapan.or.jp; j-credit.or.jp]
 
 | Field | Public record source |
 |---|---|

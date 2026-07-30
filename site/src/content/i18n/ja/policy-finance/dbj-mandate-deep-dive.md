@@ -1,12 +1,12 @@
 ---
 source: policy-finance/dbj-mandate-deep-dive
-source_hash: c6636c8450b30084
+source_hash: d2c4188f97227994
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "DBJ マンデート深掘り — 特定投資業務 ¥3兆円の枠組み、GX/DX 基準、危機対応ファシリティ、対 JFC/JBIC/NEXI"
-translated_at: 2026-06-26T08:29:17.582Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # DBJ マンデート深掘り — 特定投資業務 ¥3兆円の枠組み、GX/DX 基準、危機対応ファシリティ、対 JFC/JBIC/NEXI
@@ -18,6 +18,8 @@ translated_at: 2026-06-26T08:29:17.582Z
 DBJ は、**民間補完原則**（「民間部門を補完する」）の政策マンデートの下、**長期シニア債務・メザニン・エクイティ・アドバイザリーを一つのバランスシート上で同時に組み合わせる唯一の日本の政策金融機関**であり、これは 株式会社日本政策投資銀行法（2007）に明記されている。決定的な運用層は **特定投資業務（Special Investment Operations, SIO）** の枠組み — 2015 に当初 ~¥1.5兆円の上限で設立され、累次の法的延長を通じて累計の授権投資能力が ~¥3兆円まで引き上げられ、**通常の商業銀行が値付けできない**プロジェクトに対し、エクイティ・優先株式・劣後ローン・メザニンの形で **リスクマネー（リスクマネー）**を供給する明示的な権限を持つ。SIO の枠組みは、**民間部門の共同投資を触媒する**というルール（特定の倍率目標 — 通常、公的資金 1 円あたり 1倍以上の民間資金を動員することを目指す）と、**期限付きの権限**（各延長は sunset 条項を伴う個別の立法行為）の下で運用される。現代のマンデートは 4 つの実質的な縦軸に支配されている：**GX（グリーントランスフォーメーション）** — 再エネ、水素、アンモニア、洋上風力、CCS、GX 経済移行債との整合；**DX（デジタルトランスフォーメーション）** — データセンター、半導体サプライチェーン、AI インフラ；**事業再生** — DIP／スポンサー型再生、メザニン；そして **危機対応業務** — 株式会社日本政策投資銀行法 + 危機対応業務指定に基づく指定危機対応融資。[[financial-regulators/jfc|JFC]]（中小企業／個人／農林水産の政策金融）、[[financial-regulators/jbic|JBIC]]（海外投資／輸出信用／資源安全保障）、[[policy-finance/nexi|NEXI]]（貿易・投資保険）と比較して、DBJ は、長期年限にわたり同一プロジェクトでシニア・メザニン・エクイティを組み合わせられる能力ゆえに、**最も柔軟な単一の日本の政策金融バランスシート**を保持する。
 
 ## 1. 株式会社 + 政策金融機関 のハイブリッド構造
+
+以下の表は、エントリ出典インベントリの公開一次資料（dbj.jp, fsa.go.jp, mof.go.jp）の範囲に限定して読む。^[source:dbj.jp; fsa.go.jp; mof.go.jp]
 
 | 項目 | 詳細 |
 |---|---|
@@ -34,6 +36,8 @@ DBJ は、**民間補完原則**（「民間部門を補完する」）の政策
 ## 2. 特定投資業務（Special Investment Operations）の枠組み
 
 ### 2.1 法的構造と授権枠
+
+以下の表は、エントリ出典インベントリの公開一次資料（dbj.jp, fsa.go.jp, mof.go.jp）の範囲に限定して読む。^[source:dbj.jp; fsa.go.jp; mof.go.jp]
 
 | Item | Detail |
 |---|---|
@@ -62,6 +66,8 @@ DBJ は、**民間補完原則**（「民間部門を補完する」）の政策
 ### 2.3 投資選別基準
 
 SIO 投資は以下の基準で原則的に選別される：
+
+以下の表は、エントリ出典インベントリの公開一次資料（dbj.jp, fsa.go.jp, mof.go.jp）の範囲に限定して読む。^[source:dbj.jp; fsa.go.jp; mof.go.jp]
 
 | 基準 | 詳細 |
 |---|---|
@@ -107,6 +113,8 @@ vertical のミックスは各中期計画サイクルで入れ替わり、内�
 ### 3.3 民間補完原則 vs commercial banks (megabanks)
 
 DBJ と [[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG]] / [[megabanks/mizuho-fg|Mizuho FG]] の関係:
+
+以下の表は、エントリ出典インベントリの公開一次資料（dbj.jp, fsa.go.jp, mof.go.jp）の範囲に限定して読む。^[source:dbj.jp; fsa.go.jp; mof.go.jp]
 
 | Dimension | DBJ | Megabanks |
 |---|---|---|
@@ -170,6 +178,8 @@ SIO + 一般勘定で GX 投資を行う際の基準：
 
 ### 6.1 制度構造
 
+以下の表は、エントリ出典インベントリの公開一次資料（dbj.jp, fsa.go.jp, mof.go.jp）の範囲に限定して読む。^[source:dbj.jp; fsa.go.jp; mof.go.jp]
+
 | Item | Detail |
 |---|---|
 | 法的根拠 | 株式会社日本政策投資銀行法 + 危機対応円滑化法 |
@@ -224,6 +234,8 @@ DBJ 株式会社
 
 ### 9.1 主要 KPI
 
+以下の表は、エントリ出典インベントリの公開一次資料（dbj.jp, fsa.go.jp, mof.go.jp）の範囲に限定して読む。^[source:dbj.jp; fsa.go.jp; mof.go.jp]
+
 | KPI 領域 | 詳細 |
 |---|---|
 | **投資 / 融資残高** | 期末投融資残高（一般勘定 + 特定投資業務勘定）|
@@ -249,6 +261,8 @@ DBJ 独自の ESG フレームワーク：
 
 ## 10. 政策金融機関 4 行 KPI / mandate 比較
 
+以下の表は、エントリ出典インベントリの公開一次資料（dbj.jp, fsa.go.jp, mof.go.jp）の範囲に限定して読む。^[source:dbj.jp; fsa.go.jp; mof.go.jp]
+
 | Dimension | DBJ | [[financial-regulators/jfc\|JFC]] | [[financial-regulators/jbic\|JBIC]] | [[policy-finance/nexi\|NEXI]] |
 |---|---|---|---|---|
 | 主対象 | 中堅・大企業 / インフラ / GX / DX | 中小企業 / 個人 / 農林水産 / 教育 | 海外投資 / 輸出 / 資源 / 経済安全保障 | 貿易・投資保険 |
@@ -268,6 +282,8 @@ DBJ 独自の ESG フレームワーク：
 ## 11. 民営化シナリオの構造的停滞
 
 DBJ 法の sunset 規定では当初 2008 年株式会社化から数年後の完全民営化を想定していたが、以下のショックで延期が繰り返されている：
+
+以下の表は、エントリ出典インベントリの公開一次資料（dbj.jp, fsa.go.jp, mof.go.jp）の範囲に限定して読む。^[source:dbj.jp; fsa.go.jp; mof.go.jp]
 
 | 延期事由 | 年 | 結果 |
 |---|---|---|

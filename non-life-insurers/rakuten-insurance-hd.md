@@ -3,8 +3,8 @@ title: "楽天インシュアランスホールディングス"
 aliases: ["楽天保険HD", "Rakuten Insurance Holdings", "Rakuten Insurance HD", "楽天インシュアランスホールディングス株式会社"]
 domain: non-life-insurers
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, insurance, insurance-holding-company, rakuten, ecosystem-finance, holding-company]
@@ -26,6 +26,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 楽天インシュアランスホールディングス株式会社は、金融庁の保険持株会社認可一覧に掲載される Rakuten insurance holding company。[[life-insurers/rakuten-life]]、[[non-life-insurers/rakuten-general-insurance]]、insurance agency / planning functions をまとめる group strategy anchor として扱う。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, ins-hd.rakuten.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; ins-hd.rakuten.co.jp]
 
 | Item | Notes |
 |---|---|

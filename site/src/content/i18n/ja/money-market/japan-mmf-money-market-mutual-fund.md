@@ -1,11 +1,11 @@
 ---
 source: money-market/japan-mmf-money-market-mutual-fund
-source_hash: e8e689b9dc96a5ae
+source_hash: e7ee868ce5036d29
 lang: ja
 status: machine
 fidelity: ok
 title: "日本の MMF／MRF（マネー・マーケット投資信託）"
-translated_at: 2026-06-19T06:09:18.118Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本の MMF／MRF（マネー・マーケット投資信託）
@@ -25,6 +25,8 @@ FinWiki のために、このページは歴史的な経緯、MRF と旧 MMF の
 
 ## Product Map
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, investment-trusts.org, toushin.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; investment-trusts.org; toushin.or.jp; boj.or.jp]
+
 | Product family | Purpose | Status |
 |---|---|---|
 | MRF（Money Reserve Fund） | 証券口座内に保有されるブローカレッジのスイープ現金；取引決済のための即日流動性を提供する。 | アクティブかつ支配的；最大級の投資信託純資産カテゴリーの一つ。 |
@@ -33,6 +35,8 @@ FinWiki のために、このページは歴史的な経緯、MRF と旧 MMF の
 | 短期債／短期円 ETF およびオープンエンド・ファンド | 短期円エクスポージャーのための現代的な代替商品。 | アクティブだが、MRF と比較すると小規模。 |
 
 ## Historical Arc
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, investment-trusts.org, toushin.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; investment-trusts.org; toushin.or.jp; boj.or.jp]
 
 | Year | Event | Effect on MMF / MRF |
 |---|---|---|
@@ -45,6 +49,8 @@ FinWiki のために、このページは歴史的な経緯、MRF と旧 MMF の
 | 2024-2025 | 新 NISA が施行；家計資産シフト・プログラムが継続。 | MRF はブローカレッジ／[[securities/nisa-2024-flow|NISA]] 口座のための現金スイープ層であり続ける；他の短期円ファンドは低ボラティリティの代替として再ポジショニングされた。 |
 
 ## MRF vs Old MMF
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, investment-trusts.org, toushin.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; investment-trusts.org; toushin.or.jp; boj.or.jp]
 
 | Item | MRF | Old retail MMF |
 |---|---|---|

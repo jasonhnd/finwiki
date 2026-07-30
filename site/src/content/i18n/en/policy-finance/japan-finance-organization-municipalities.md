@@ -1,11 +1,11 @@
 ---
 source: policy-finance/japan-finance-organization-municipalities
-source_hash: 2100c9f1aff1c318
+source_hash: c5ce90113f70bd6b
 lang: en
 status: machine
 fidelity: ok
 title: "Japan Finance Organization for Municipalities (JFM)"
-translated_at: 2026-06-19T06:09:18.153Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan Finance Organization for Municipalities (JFM)
@@ -17,6 +17,8 @@ Japan Finance Organization for Municipalities is the joint-funded public credit 
 This page treats JFM through the [[policy-finance/INDEX|policy-finance index]] lens: as one lane in the public-credit map alongside [[financial-regulators/jfc|JFC]] (SME / agriculture / fisheries), [[financial-regulators/jbic|JBIC]] (overseas), [[financial-regulators/dbj|DBJ]] (development bank / GX), and [[policy-finance/japan-housing-finance-agency|JHF]] (housing). The matching JapanFG-domain corporate-history page is [[financial-regulators/local-govt-finance]].
 
 ## 1. Institutional boundary
+
+The following table is scoped to public primary sources (jfm.go.jp, chihousai.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jfm.go.jp; chihousai.or.jp]
 
 | Item | Reading |
 |---|---|
@@ -30,6 +32,8 @@ This page treats JFM through the [[policy-finance/INDEX|policy-finance index]] l
 | FinWiki lane | [[policy-finance/INDEX|policy-finance]] for system role; [[financial-regulators/local-govt-finance]] for corporate history; [[financial-regulators/local-bond-market]] for market-side interaction |
 
 ## 2. Function map
+
+The following table is scoped to public primary sources (jfm.go.jp, chihousai.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jfm.go.jp; chihousai.or.jp]
 
 | Function | Why it matters |
 |---|---|
@@ -48,6 +52,8 @@ It is a peer institution to [[financial-regulators/jfc|JFC]], [[financial-regula
 In the [[money-market/INDEX|money-market]] picture, JFM bonds and Joint Local Government Bonds (共同発行市場公募地方債) provide one of the largest non-JGB high-grade yen-denominated public-credit asset classes, used as collateral and held by banks, life insurers, regional banks, and public pension funds.
 
 ## 4. Historical trajectory
+
+The following table is scoped to public primary sources (jfm.go.jp, chihousai.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jfm.go.jp; chihousai.or.jp]
 
 | Year | Event |
 |---|---|

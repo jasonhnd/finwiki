@@ -1,12 +1,12 @@
 ---
 source: money-market/japan-cp-commercial-paper-market
-source_hash: e9ecbe2b0f0da38d
+source_hash: a5a956d772e60fbe
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Japan CP (commercial paper) market"
-translated_at: 2026-06-26T08:29:01.763Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan CP (commercial paper) market
@@ -23,6 +23,8 @@ CP 市場が重要なのは、それが社債市場の外側における優良�
 
 ## Market Map
 
+以下の表は、エントリ出典インベントリの公開一次資料（boj.or.jp, jsda.or.jp, jasdec.com）の範囲に限定して読む。^[source:boj.or.jp; jsda.or.jp; jasdec.com; fsa.go.jp]
+
 | Layer | Function | FinWiki route |
 |---|---|---|
 | 発行会社 | 法人、銀行、ノンバンク金融機関、および特別目的会社が短期資金を調達する。 | [[finance/japan-corporate-treasury-and-cash-management|corporate treasury]] |
@@ -33,6 +35,8 @@ CP 市場が重要なのは、それが社債市場の外側における優良�
 | Statistics | 日銀の短期金融市場統計；JSDA の CP 発行／残高表。 | BoJ / JSDA public surfaces |
 
 ## Instrument Mechanics
+
+以下の表は、エントリ出典インベントリの公開一次資料（boj.or.jp, jsda.or.jp, jasdec.com）の範囲に限定して読む。^[source:boj.or.jp; jsda.or.jp; jasdec.com; fsa.go.jp]
 
 | Element | Reading |
 |---|---|
@@ -56,6 +60,8 @@ CP 発行は短いテナーに集中し、高格付の銘柄が支配的であ�
 
 ## BoJ Eligibility and Operations
 
+以下の表は、エントリ出典インベントリの公開一次資料（boj.or.jp, jsda.or.jp, jasdec.com）の範囲に限定して読む。^[source:boj.or.jp; jsda.or.jp; jasdec.com; fsa.go.jp]
+
 | BoJ tool | CP linkage |
 |---|---|
 | Collateral framework | 適格 CP は、共通担保に対する日銀貸付および類似のオペの担保として受け入れられる。適格性ルールは格付、残存期間、発行体タイプ、ペーパーレス化の状況をカバーする。 |
@@ -66,6 +72,8 @@ CP 発行は短いテナーに集中し、高格付の銘柄が支配的であ�
 CP 買入ツールは歴史的に重要な危機対応の局面であった（2008-2009 GFC、2020 COVID-19 資金調達ストレス）が、恒久的な金融政策手段ではない。
 
 ## Market Size and Reading Rules
+
+以下の表は、エントリ出典インベントリの公開一次資料（boj.or.jp, jsda.or.jp, jasdec.com）の範囲に限定して読む。^[source:boj.or.jp; jsda.or.jp; jasdec.com; fsa.go.jp]
 
 | Source | What it shows |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/intesa-sanpaolo-japan
-source_hash: a4ff01803821644a
+source_hash: 1c3c10d1455323f4
 lang: ja
 status: machine
 fidelity: ok
 title: "インテーザ・サンパオロ 東京支店"
-translated_at: 2026-06-18T23:59:13.046Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # インテーザ・サンパオロ 東京支店
@@ -20,6 +20,8 @@ translated_at: 2026-06-18T23:59:13.046Z
 インテーザ・サンパオロ 東京支店は、金融庁の外国銀行支店一覧に掲載される Italy／ Intesa Sanpaolo S.p.A. の在日銀行支店である。1970年代からの Italy-Japan のコーポレート・バンキング・プレゼンスを背景に、日本における Italian and international customers および海外で事業を展開する Japanese businesses を支援するホールセール支店として扱う。
 
 ## 1. ライセンス／支店の境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, group.intesasanpaolo.com）の範囲に限定して読む。^[source:fsa.go.jp; group.intesasanpaolo.com]
 
 | 項目 | 注記 |
 |---|---|

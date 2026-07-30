@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/mitsui-sumitomo-insurance
-source_hash: 174e48ae2e6961a5
+source_hash: 64c952f0623a6225
 lang: en
 status: machine
 fidelity: ok
 title: "三井住友海上火災保険"
-translated_at: 2026-06-19T06:09:18.061Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 三井住友海上火災保険
@@ -20,6 +20,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 三井住友海上火災保険株式会社 is the core non-life insurance operating company of the [[non-life-insurers/msad]] group. It is a licensed insurer appearing on the FSA's non-life insurance company license list, and carries the MS&AD group's corporate / commercial risk, auto, fire, marine, and overseas insurance capabilities.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (ms-ins.com, fsa.go.jp, sonpohogo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:ms-ins.com; fsa.go.jp; sonpohogo.or.jp]
 
 | Item | Notes |
 |---|---|

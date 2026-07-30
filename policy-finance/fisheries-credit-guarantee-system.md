@@ -10,8 +10,8 @@ aliases:
   - "漁信基"
 domain: "policy-finance"
 created: 2026-05-21
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [policy-finance, fisheries-finance, credit-guarantee, jf-marine-bank, public-credit, japan]
@@ -39,6 +39,8 @@ Japan's fisheries credit guarantee system (漁業信用保証保険制度) suppl
 ## 1. 系統金融との位置関係 (fisheries variant)
 
 Japanese fisheries finance flows through a **fisheries 系統金融** stack that parallels the agriculture stack:
+
+The following table is scoped to public primary sources (jaffic.go.jp, zengyoki.or.jp, maff.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jaffic.go.jp; zengyoki.or.jp; maff.go.jp; jfa.maff.go.jp]
 
 | Layer | Function | FinWiki route |
 |---|---|---|
@@ -103,6 +105,8 @@ Unlike agriculture, which is geographically distributed across nearly all prefec
 The geographic concentration means the fisheries guarantee system's portfolio risk is exposed to **regional marine-environment shocks** that can simultaneously affect multiple guarantees in a single coastal area.
 
 ## 7. Year evolution
+
+The following table is scoped to public primary sources (jaffic.go.jp, zengyoki.or.jp, maff.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jaffic.go.jp; zengyoki.or.jp; maff.go.jp; jfa.maff.go.jp]
 
 | Year | Event |
 |---|---|

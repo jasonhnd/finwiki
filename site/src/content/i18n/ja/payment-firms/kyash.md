@@ -1,12 +1,12 @@
 ---
 source: payment-firms/kyash
-source_hash: 3c70f4ad5c6a3887
+source_hash: 7d37e01ebe2b93e2
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Kyash"
-translated_at: 2026-06-26T08:32:23.070Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Kyash
@@ -21,6 +21,8 @@ translated_at: 2026-06-26T08:32:23.070Z
 Kyash は、ウォレット、プリペイド Visa、資金移動を組み合わせる独立系 fintech 事業者である。公式会社概要は資金移動業者登録、前払式支払手段発行者登録、PCI DSS などを明示しており、日本のウォレット・エコシステムにおける非銀行型事業者の比較基準になる。
 
 ## 1. 法人・ライセンス境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（kyash.co, fsa.go.jp）の範囲に限定して読む。^[source:kyash.co; fsa.go.jp]
 
 | 項目 | 読み方 |
 |---|---|

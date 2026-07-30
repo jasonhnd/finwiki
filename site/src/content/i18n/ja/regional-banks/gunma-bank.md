@@ -1,11 +1,11 @@
 ---
 source: regional-banks/gunma-bank
-source_hash: 4b982d0b191a5ca5
+source_hash: 6d78bb3d63cdce87
 lang: ja
 status: machine
 fidelity: ok
 title: "群馬銀行 (The Gunma Bank, Ltd.)"
-translated_at: 2026-06-02T14:25:12.386Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 群馬銀行 (The Gunma Bank, Ltd.)
@@ -64,6 +64,8 @@ translated_at: 2026-06-02T14:25:12.386Z
 
 ## 2. 事業セグメント・マップ
 
+以下の表は、エントリ出典インベントリの公開一次資料（ja.wikipedia.org）の範囲に限定して読む。^[source:ja.wikipedia.org]
+
 | セグメント | 特徴 |
 |---|---|
 | 県内法人 | 自動車関連（SUBARU 太田工場系・部品サプライヤー）・製造業集積 |
@@ -98,6 +100,8 @@ translated_at: 2026-06-02T14:25:12.386Z
 - **人材交流・研修**
 
 ### 競合構造
+
+以下の表は、エントリ出典インベントリの公開一次資料（ja.wikipedia.org）の範囲に限定して読む。^[source:ja.wikipedia.org]
 
 | 競合 | 特徴 |
 |---|---|

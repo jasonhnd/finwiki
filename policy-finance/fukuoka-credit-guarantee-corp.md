@@ -9,8 +9,8 @@ aliases:
   - "policy-finance/fukuoka-credit-guarantee-corp"
 domain: "policy-finance"
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [policy-finance, credit-guarantee, prefecture-cgc, sme-finance, fukuoka, kyushu]
@@ -97,6 +97,8 @@ Within the [[policy-finance/japan-credit-guarantee-system|Japan credit guarantee
 The federation-pooled credit-insurance layer at [[financial-regulators/jfc|JFC]] absorbs the residual loss after Fukuoka CGC's first-loss subrogation. The semiconductor-supplier capex tranche is operationally interesting because the TSMC-JASM Kumamoto investment's spillover into Fukuoka creates a guarantee segment with a different risk-cycle profile than the legacy Kitakyushu heavy-industry tail — semiconductor capex cycles can produce large swings within a single fiscal year, putting more weight on the federation reinsurance and JFC credit-insurance smoothing function. The [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] visible in [[regional-banks/fukuoka-fg|Fukuoka FG]]'s multi-prefecture holdco shape adds a layer of complexity to clean prefectural attribution of guarantee-related risk.
 
 ## 8. Comparison with peer prefecture CGCs
+
+The following table is scoped to public primary sources (cgc-fukuoka.or.jp, zenshinhoren.or.jp, chusho.meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:cgc-fukuoka.or.jp; zenshinhoren.or.jp; chusho.meti.go.jp]
 
 | Dimension | Fukuoka CGC | [[policy-finance/tokyo-credit-guarantee-corp|Tokyo CGC]] | [[policy-finance/hokkaido-credit-guarantee-corp|Hokkaido CGC]] |
 |---|---|---|---|

@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/deutsche-japan
-source_hash: 79dd72437cf5438a
+source_hash: 19a2340c08217d73
 lang: ja
 status: machine
 fidelity: ok
 title: "ドイチェ・ジャパン (Deutsche Japan)"
-translated_at: 2026-06-02T14:25:12.383Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # ドイチェ・ジャパン (Deutsche Japan)
@@ -25,6 +25,8 @@ translated_at: 2026-06-02T14:25:12.383Z
 
 ### 主要日本拠点
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | 法人 | 業態 | 備考 |
 |---|---|---|
 | **ドイツ銀行 東京支店** (Deutsche Bank AG, Tokyo Branch) | 外資系銀行支店 | 1972 開設、本店フランクフルト |
@@ -42,6 +44,8 @@ translated_at: 2026-06-02T14:25:12.383Z
 
 ## 2. 沿革・年表
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | 年月 | 事象 |
 |---|---|
 | 1870 | Deutsche Bank AG 創立 (ベルリン) |
@@ -58,6 +62,8 @@ translated_at: 2026-06-02T14:25:12.383Z
 | 2023-03 | クレディ・スイス危機余波、欧州銀全般に注目集まる中で相対的安定維持 |
 
 ## 3. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -80,6 +86,8 @@ translated_at: 2026-06-02T14:25:12.383Z
 - **リテール非展開**: コスト構造上、邦銀メガと正面競合せず
 
 ### 競合マッピング
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | 競合 | 強み比較 |
 |---|---|

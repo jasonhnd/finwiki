@@ -1,11 +1,11 @@
 ---
 source: life-insurers/kampo-life
-source_hash: fe344aa657815460
+source_hash: 7c1ab931be0e5b3f
 lang: ja
 status: machine
 fidelity: ok
 title: "かんぽ生命保険"
-translated_at: 2026-06-02T14:54:39.070Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # かんぽ生命保険
 
@@ -29,6 +29,8 @@ translated_at: 2026-06-02T14:54:39.070Z
 **親会社**：日本郵政株式会社（連結子会社、持株比率は段階的売却中）^[extracted]
 
 ### 主要 KPI（概観）
+
+以下の表は、エントリ出典インベントリの公開一次資料（pdf.irpocket.com）の範囲に限定して読む。^[source:pdf.irpocket.com]
 
 | 項目 | 概要 |
 |---|---|
@@ -71,6 +73,8 @@ translated_at: 2026-06-02T14:54:39.070Z
 | 2024 | **中期経営計画（信頼回復後の再成長フェーズ）** 展開中 |
 
 ## 2. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（pdf.irpocket.com）の範囲に限定して読む。^[source:pdf.irpocket.com]
 
 | セグメント | 主要商品・チャネル | 特徴 |
 |---|---|---|

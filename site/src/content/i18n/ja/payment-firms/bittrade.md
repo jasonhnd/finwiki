@@ -1,11 +1,11 @@
 ---
 source: payment-firms/bittrade
-source_hash: 3f2dc25e0e444a28
+source_hash: f2feae6867875f19
 lang: ja
 status: machine
 fidelity: ok
 title: "ビットトレード (BitTrade)"
-translated_at: 2026-06-15T03:48:21.820Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # ビットトレード (BitTrade)
@@ -29,6 +29,8 @@ translated_at: 2026-06-15T03:48:21.820Z
 
 ### 沿革（公開情報ベース）^[extracted]
 
+以下の表は、エントリ出典インベントリの公開一次資料（bittrade.co.jp, sinohope.com）の範囲に限定して読む。^[source:bittrade.co.jp; sinohope.com]
+
 | 年月 | 事象 |
 |---|---|
 | 2016 | 旧 BitTrade 体制で創業（独立系暗号資産取引所）|
@@ -42,6 +44,8 @@ translated_at: 2026-06-15T03:48:21.820Z
 > 経営権変動：2022 年前後の Huobi グローバル側のオーナー変動と、日本法人の「BitTrade」再改称が時期的に重なる。現在の主要株主は公式会社概要で開示されており、香港上場の Sinohope Technology Holdings（HKEX: 01611、旧 Huobi Technology）系および東海東京 FH・FPG が名を連ねる。
 
 ## 2. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（bittrade.co.jp, sinohope.com）の範囲に限定して読む。^[source:bittrade.co.jp; sinohope.com]
 
 | セグメント | 内容 | 特徴 |
 |---|---|---|
@@ -57,6 +61,8 @@ translated_at: 2026-06-15T03:48:21.820Z
 - グローバル系（Huobi 起源）レガシーから「**日本独立系**」イメージへの再ブランディング（2022-08）^[extracted]
 
 ### 競合マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（bittrade.co.jp, sinohope.com）の範囲に限定して読む。^[source:bittrade.co.jp; sinohope.com]
 
 | カテゴリ | 主要プレイヤー |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/standard-chartered-japan
-source_hash: dcb5d31ee4dd4c8f
+source_hash: 1f5a73400588848b
 lang: en
 status: machine
 fidelity: ok
 title: "Standard Chartered Bank Tokyo Branch (Standard Chartered Bank Tokyo)"
-translated_at: 2026-06-18T23:59:13.114Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Standard Chartered Bank Tokyo Branch (Standard Chartered Bank Tokyo)
@@ -40,6 +40,8 @@ The Japan presence of the U.K.'s Standard Chartered PLC (HQ London, LSE: STAN / 
 
 ## 2. History
 
+The following table is scoped to public primary sources (sc.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:sc.com]
+
 | Year/Month | Event |
 |---|---|
 | 1853 | Chartered Bank (Chartered Bank of India, Australia and China) established in London, under U.K. royal charter |
@@ -51,6 +53,8 @@ The Japan presence of the U.K.'s Standard Chartered PLC (HQ London, LSE: STAN / 
 | 2020s | Strengthened ESG / transition finance and digital transaction banking |
 
 ## 3. Business segment map (Japan base)
+
+The following table is scoped to public primary sources (sc.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:sc.com]
 
 | Segment | Content | Customer base |
 |---|---|---|

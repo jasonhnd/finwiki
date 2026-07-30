@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/allianz-fire-marine-japan
-source_hash: 69e11b4f5b8fec6c
+source_hash: 7360a0bad7f1376b
 lang: ja
 status: machine
 fidelity: ok
 title: "アリアンツ火災海上保険"
-translated_at: 2026-06-02T14:01:20.952Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # アリアンツ火災海上保険
@@ -21,6 +21,8 @@ Allianz Fire and Marine Japan は、Allianz の商業保険グループ・ルー
 このページは 日本の損害保険会社であるアリアンツ火災海上保険株式会社を扱う。ここでは取り込まない範囲は Allianz のグローバル資産運用、生命保険、日本国外の商業保険事業。
 
 ## 事業上の役割マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, commercial.allianz.com）の範囲に限定して読む。^[source:fsa.go.jp; commercial.allianz.com]
 
 | ルート | 読み方 |
 |---|---|

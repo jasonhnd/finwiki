@@ -1,11 +1,11 @@
 ---
 source: securities-firms/iwai-cosmo-securities
-source_hash: 1b3a7de1a05571c9
+source_hash: b457639826f85c43
 lang: en
 status: machine
 fidelity: ok
 title: "IwaiCosmo Securities (岩井コスモ証券)"
-translated_at: 2026-07-28T20:55:25Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # IwaiCosmo Securities (岩井コスモ証券)
@@ -70,6 +70,8 @@ IwaiCosmo Securities Co., Ltd., headquartered in Imabashi, Osaka, is a wholly ow
 - **Strategy**: continued deepening of the "face-to-face × elderly high-net-worth × foreign stocks × consulting" model
 
 ## 6. Timeline
+
+The following table is scoped to public primary sources (iwaicosmo.co.jp, iwaicosmo-hd.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:iwaicosmo.co.jp; iwaicosmo-hd.jp; fsa.go.jp]
 
 | Year/Month | Item |
 |------|------|

@@ -1,11 +1,11 @@
 ---
 source: insurance/marine-insurance-and-pi-cover-market
-source_hash: 3e8279b17d7a2df5
+source_hash: 8acb7fc07398c345
 lang: en
 status: machine
 fidelity: ok
 title: "Marine insurance and P&I cover market in Japan"
-translated_at: 2026-06-19T06:09:18.085Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Marine insurance and P&I cover market in Japan
@@ -21,6 +21,8 @@ This page maps how those three pieces fit together, with line-by-line splits ins
 This entry sits under [[insurance/INDEX|insurance index]]. Read it against [[insurance/japan-nonlife-big-three|Japan non-life big three]] for the big-three operating-company layer, [[insurance/foreign-reinsurer-japan-landscape|foreign reinsurer Japan landscape]] for the global retro panel, [[insurance/lloyds-japan-syndicate-operating-model|Lloyd's Japan syndicate operating model]] for the Lloyd's specialty channel, and [[insurance/natcat-reinsurance-japan|nat-cat reinsurance in Japan]] for the typhoon / EQ / flood exposure that affects marine accumulation. The two anchor entity pages are [[financial-regulators/japan-pi-club|Japan P&I Club]] and [[financial-regulators/nippon-kaiji-kyokai|ClassNK]]. Cross-domain anchors: [[insurance/global-solvency-framework-comparison-matrix|global solvency framework comparison matrix]] for the parent-regulator angle on IG retro and Lloyd's syndicates.
 
 ## 1. Market structure
+
+The following table is scoped to public primary sources (piclub.or.jp, igpandi.org, tokiomarinehd.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:piclub.or.jp; igpandi.org; tokiomarinehd.com; ms-ad-hd.com]
 
 | Layer | Product | Provider type | Japanese-market lead |
 |---|---|---|---|
@@ -42,6 +44,8 @@ H&M insurance indemnifies the shipowner for physical loss / damage to the vessel
 ## 3. Cargo / transit
 
 Cargo insurance covers goods in transit on the standard Institute Cargo Clauses (A / B / C) basis or domestic Japanese-form equivalents.
+
+The following table is scoped to public primary sources (piclub.or.jp, igpandi.org, tokiomarinehd.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:piclub.or.jp; igpandi.org; tokiomarinehd.com; ms-ad-hd.com]
 
 | Cargo line | Cedent | Notes |
 |---|---|---|
@@ -79,11 +83,15 @@ Each of the three big non-life groups operates a marine business line inside its
 
 ### Tokio Marine (大手1)
 
+The following table is scoped to public primary sources (piclub.or.jp, igpandi.org, tokiomarinehd.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:piclub.or.jp; igpandi.org; tokiomarinehd.com; ms-ad-hd.com]
+
 | Item | Notes |
 |---|---|
 | Operating entity | [[non-life-insurers/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]] ^[extracted] |
 
 ### MS&AD (大手2)
+
+The following table is scoped to public primary sources (piclub.or.jp, igpandi.org, tokiomarinehd.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:piclub.or.jp; igpandi.org; tokiomarinehd.com; ms-ad-hd.com]
 
 | Item | Notes |
 |---|---|
@@ -91,11 +99,15 @@ Each of the three big non-life groups operates a marine business line inside its
 
 ### Sompo (大手3)
 
+The following table is scoped to public primary sources (piclub.or.jp, igpandi.org, tokiomarinehd.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:piclub.or.jp; igpandi.org; tokiomarinehd.com; ms-ad-hd.com]
+
 | Item | Notes |
 |---|---|
 | Operating entity | [[non-life-insurers/sompo-japan-insurance|Sompo Japan Insurance]] ^[extracted] |
 
 ### Aggregate read
+
+The following table is scoped to public primary sources (piclub.or.jp, igpandi.org, tokiomarinehd.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:piclub.or.jp; igpandi.org; tokiomarinehd.com; ms-ad-hd.com]
 
 | Carrier | Marine market position | Cargo strength | Hull strength | Reinsurance dependency |
 |---|---|---|---|---|
@@ -115,6 +127,8 @@ The relationship to marine insurance:
 ClassNK and Japan P&I Club / 大手3社 together form the *Japanese* maritime risk infrastructure stack — class, hull, cargo, P&I — analogous to the foreign IACS member + foreign IG club + foreign carrier stack in other jurisdictions.
 
 ## 8. Comparison: marine cover providers in Japan
+
+The following table is scoped to public primary sources (piclub.or.jp, igpandi.org, tokiomarinehd.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:piclub.or.jp; igpandi.org; tokiomarinehd.com; ms-ad-hd.com]
 
 | Provider type | Hull | Cargo | P&I | Specialty / war / energy | Reinsurance |
 |---|---|---|---|---|---|

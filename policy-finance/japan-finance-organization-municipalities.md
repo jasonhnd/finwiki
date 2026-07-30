@@ -8,8 +8,8 @@ aliases:
   - "policy-finance/japan-finance-organization-municipalities"
 domain: "policy-finance"
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-20
 confidence: likely
 tags: [policy-finance, local-government, public-credit, japan, jfm, municipal-finance]
@@ -31,6 +31,8 @@ This page treats JFM through the [[policy-finance/INDEX|policy-finance index]] l
 
 ## 1. Institutional boundary
 
+The following table is scoped to public primary sources (jfm.go.jp, chihousai.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jfm.go.jp; chihousai.or.jp]
+
 | Item | Reading |
 |---|---|
 | Japanese name | 地方公共団体金融機構 |
@@ -43,6 +45,8 @@ This page treats JFM through the [[policy-finance/INDEX|policy-finance index]] l
 | FinWiki lane | [[policy-finance/INDEX|policy-finance]] for system role; [[financial-regulators/local-govt-finance]] for corporate history; [[financial-regulators/local-bond-market]] for market-side interaction |
 
 ## 2. Function map
+
+The following table is scoped to public primary sources (jfm.go.jp, chihousai.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jfm.go.jp; chihousai.or.jp]
 
 | Function | Why it matters |
 |---|---|
@@ -61,6 +65,8 @@ It is a peer institution to [[financial-regulators/jfc|JFC]], [[financial-regula
 In the [[money-market/INDEX|money-market]] picture, JFM bonds and Joint Local Government Bonds (共同発行市場公募地方債) provide one of the largest non-JGB high-grade yen-denominated public-credit asset classes, used as collateral and held by banks, life insurers, regional banks, and public pension funds.
 
 ## 4. Historical trajectory
+
+The following table is scoped to public primary sources (jfm.go.jp, chihousai.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jfm.go.jp; chihousai.or.jp]
 
 | Year | Event |
 |---|---|

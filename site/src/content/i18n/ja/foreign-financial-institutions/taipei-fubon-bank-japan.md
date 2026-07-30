@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/taipei-fubon-bank-japan
-source_hash: 056c62995a78b4b4
+source_hash: 8ae5a5d53120f58a
 lang: ja
 status: machine
 fidelity: ok
 title: "台北富邦商業銀行日本 (Taipei Fubon Bank Japan)"
-translated_at: 2026-06-02T16:33:58.492Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 台北富邦商業銀行日本 (Taipei Fubon Bank Japan)
 
@@ -23,6 +23,8 @@ Taipei Fubon Bank は、残っている台湾銀行支店の昇格案件の中�
 
 ## エンティティ境界
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, fubon.com）の範囲に限定して読む。^[source:fsa.go.jp; fubon.com]
+
 | 項目 | 読み方 |
 |---|---|
 | 親銀行 | Taipei Fubon Bank |
@@ -33,6 +35,8 @@ Taipei Fubon Bank は、残っている台湾銀行支店の昇格案件の中�
 | 所在地 | 公開支店ページ上の東京都千代田区大手町 |
 
 ## 事業上の役割マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, fubon.com）の範囲に限定して読む。^[source:fsa.go.jp; fubon.com]
 
 | 機能 | 日本との関連性 |
 |---|---|

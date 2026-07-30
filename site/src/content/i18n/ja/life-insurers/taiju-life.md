@@ -1,11 +1,11 @@
 ---
 source: life-insurers/taiju-life
-source_hash: 286094205b3c33b9
+source_hash: e27acc4bc53ef641
 lang: ja
 status: machine
 fidelity: ok
 title: "大樹生命保険"
-translated_at: 2026-06-02T16:33:58.477Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 大樹生命保険
 
@@ -19,6 +19,8 @@ translated_at: 2026-06-02T16:33:58.477Z
 大樹生命保険株式会社は、金融庁の生命保険会社免許一覧に掲載される生命保険の事業会社です。旧三井生命として知られる系譜を持ち、現在は [[life-insurers/nippon-life]] グループとの隣接性を意識して追うべき保険会社ですが、契約の引受主体としては独立ページが必要です。
 
 ## 1. ライセンス・グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, taiju-life.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; taiju-life.co.jp]
 
 | 項目 | メモ |
 |---|---|

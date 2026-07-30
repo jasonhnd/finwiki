@@ -8,8 +8,8 @@ aliases:
   - "insurance/sony-assurance"
 domain: non-life-insurers
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, insurance, non-life-insurance, direct-insurance, sony, operating-company]
@@ -32,6 +32,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 ソニー損害保険株式会社は、[[megabanks/sony-fg]] group の direct non-life insurance operating company。金融庁の損害保険会社免許一覧と損害保険契約者保護機構会員一覧に掲載される licensed insurer で、direct auto insurance / online insurance model の代表例。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, sonpohogo.or.jp, sonysonpo.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sonpohogo.or.jp; sonysonpo.co.jp]
 
 | Item | Notes |
 |---|---|

@@ -11,8 +11,8 @@ aliases:
   - "一般社団 公益社団 違い"
 domain: non-profit
 created: 2026-06-03
-last_updated: 2026-06-03
-last_tended: 2026-06-03
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-12-03
 confidence: likely
 tags: [non-profit, japan, association, public-interest, legal-structure, tax-deductible]
@@ -35,6 +35,8 @@ This entry sits under [[non-profit/INDEX|non-profit INDEX]] and is the **members
 
 A **社団 (association)** is governance-by-membership: voting **社員** decide direction at a general meeting, in contrast to a **財団 (foundation)**, which is governance-by-endowment with no members. Both the 一般 and 公益 association forms live in the **same statute family** as their foundation cousins:
 
+The following table is scoped to public primary sources (laws.e-gov.go.jp, koeki-info.go.jp, moj.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:laws.e-gov.go.jp; koeki-info.go.jp; moj.go.jp; nta.go.jp]
+
 | Form | Statute | Supervisor | Donor tax deduction |
 |---|---|---|---|
 | 一般社団法人 | 一般社団・財団法人法 (2006) | Legal Affairs Bureau (registration only) | No (general rule) |
@@ -43,6 +45,8 @@ A **社団 (association)** is governance-by-membership: voting **社員** decide
 The relationship is **staged**: you first incorporate a 一般社団法人 by registration, then optionally apply for **公益認定** to become a 公益社団法人, which unlocks donor-side tax deduction in exchange for a heavy public-interest test and ongoing supervision.
 
 ## 一般社団法人 — the base form
+
+The following table is scoped to public primary sources (laws.e-gov.go.jp, koeki-info.go.jp, moj.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:laws.e-gov.go.jp; koeki-info.go.jp; moj.go.jp; nta.go.jp]
 
 | Attribute | Rule |
 |---|---|
@@ -80,6 +84,8 @@ To become a 公益社団法人, an existing 一般社団法人 applies for **公
 In return, the entity gains: **corporation-tax exemption on public-interest activities**, the protected **"公益社団法人" name**, and — the asymmetric prize — **donor-side tax deduction**.
 
 ## Side-by-side
+
+The following table is scoped to public primary sources (laws.e-gov.go.jp, koeki-info.go.jp, moj.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:laws.e-gov.go.jp; koeki-info.go.jp; moj.go.jp; nta.go.jp]
 
 | Dimension | 一般社団法人 | 公益社団法人 |
 |---|---|---|

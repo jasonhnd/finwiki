@@ -1,11 +1,11 @@
 ---
 source: securities/japan-ipo-2024-2025-case-study-kioxia-tokyo-metro
-source_hash: eb21d0feb49d9fb5
+source_hash: 7ed29b5df8932396
 lang: en
 status: machine
 fidelity: ok
 title: "Japan IPO 2024-2025 case study: Tokyo Metro and Kioxia"
-translated_at: 2026-06-01T03:31:12.247Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan IPO 2024-2025 case study: Tokyo Metro and Kioxia
@@ -24,6 +24,8 @@ The 2024-2025 Japanese IPO calendar featured two structurally significant cases:
 Both cases are useful for FinWiki readers because they illustrate (1) privatization-style state-asset listings on TSE Prime, (2) large technology-issuer listings with global investor distribution, and (3) the operational mechanics of the [[securities/japan-ipo-listing-disclosure-route|Japan IPO listing disclosure route]].
 
 ## Case Study Map
+
+The following table is scoped to public primary sources (jpx.co.jp, disclosure2.edinet-fsa.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp; disclosure2.edinet-fsa.go.jp; jsda.or.jp; mof.go.jp]
 
 | Case | Segment / route | Why it matters for FinWiki |
 |---|---|---|
@@ -99,6 +101,8 @@ For 2024-2025 Growth-segment IPOs, the practical effect is that issuers must pla
 ## IPO Discount and Withdrawal Statistics (2024-2025)
 
 Public IPO market statistics typically track:
+
+The following table is scoped to public primary sources (jpx.co.jp, disclosure2.edinet-fsa.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp; disclosure2.edinet-fsa.go.jp; jsda.or.jp; mof.go.jp]
 
 | Metric | Reading |
 |---|---|

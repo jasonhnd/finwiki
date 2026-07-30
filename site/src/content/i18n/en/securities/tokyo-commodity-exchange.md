@@ -1,11 +1,11 @@
 ---
 source: securities/tokyo-commodity-exchange
-source_hash: 00e3b0ea36056073
+source_hash: 62ce96c3e0995a84
 lang: en
 status: machine
 fidelity: ok
 title: "Tokyo Commodity Exchange (TOCOM)"
-translated_at: 2026-06-01T04:15:40.141Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Tokyo Commodity Exchange (TOCOM)
 
@@ -21,6 +21,8 @@ For FinWiki, TOCOM is the commodity-derivatives branch of the JPX complex and sh
 
 ## System Map
 
+The following table is scoped to public primary sources (jpx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp]
+
 | Layer | TOCOM reading |
 |---|---|
 | Parent | [[financial-regulators/japan-exchange-group|Japan Exchange Group]] |
@@ -30,6 +32,8 @@ For FinWiki, TOCOM is the commodity-derivatives branch of the JPX complex and sh
 | Clearing | [[securities/japan-securities-clearing-corp|JSCC]] after commodity-clearing integration. |
 
 ## Market Role
+
+The following table is scoped to public primary sources (jpx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp]
 
 | Product family | Reading |
 |---|---|

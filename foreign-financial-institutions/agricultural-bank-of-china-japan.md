@@ -3,8 +3,8 @@ title: "中国農業銀行 東京支店"
 aliases: ["Agricultural Bank of China Japan", "ABC Tokyo Branch", "Agricultural Bank of China Tokyo Branch", "中国農業銀行", "中國農業銀行東京支店"]
 domain: foreign-financial-institutions
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, banking, foreign-bank-branch, china, asia-corridor, operating-branch]
@@ -27,6 +27,8 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 中国農業銀行 東京支店は、金融庁の外国銀行支店一覧に掲載される mainland China / Agricultural Bank of China の在日銀行支店。2013 年に外国銀行支店免許を取得し、corporate lending, trade finance, securities investment, yen settlement, and remittance services を担う。
 
 ## 1. License / branch boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, jp.abchina.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jp.abchina.com]
 
 | Item | Notes |
 |---|---|

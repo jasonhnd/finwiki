@@ -8,8 +8,8 @@ aliases:
   - "PT Bank Negara Indonesia Tokyo Branch"
 domain: foreign-financial-institutions
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-22
 confidence: likely
 tags: [JapanFG, foreign-bank, Indonesia, remittance, trade-finance, corporate-banking]
@@ -36,6 +36,8 @@ BNI's public global-network page says BNI Tokyo was established as a representat
 The page is worth standalone treatment because BNI combines a licensed foreign-bank branch, remittance services, trade finance, working-capital lending, investment loans, and treasury products. That is a materially richer story than a registry-only row.
 
 ## Entity Boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, bni.co.id, ptbni.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; bni.co.id; ptbni.co.jp]
 
 | Item | Reading |
 |---|---|

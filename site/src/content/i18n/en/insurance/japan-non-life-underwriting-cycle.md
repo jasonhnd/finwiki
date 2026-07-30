@@ -1,11 +1,11 @@
 ---
 source: insurance/japan-non-life-underwriting-cycle
-source_hash: f783c8f2669e4cef
+source_hash: 03523638d7b59bb5
 lang: en
 status: machine
 fidelity: ok
 title: "Japan non-life underwriting cycle"
-translated_at: 2026-06-19T06:09:18.186Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan non-life underwriting cycle
@@ -25,6 +25,8 @@ The big-three operating entities — [[non-life-insurers/tokio-marine-nichido-fi
 Reinsurance procurement timing matters: April 1 renewal is the dominant Japan-domestic reinsurance treaty cycle (aligned with the Japan financial year), with mid-year and January renewals also relevant. Hard-market and soft-market cycles in global reinsurance feed directly into Japanese fire / property and catastrophe pricing.
 
 ## Combined-ratio decomposition
+
+The following table is scoped to public primary sources (sonpo.or.jp, tokiomarinehd.com, ms-ad-hd.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:sonpo.or.jp; tokiomarinehd.com; ms-ad-hd.com; sompo-hd.com]
 
 | Component | Definition | Typical drivers |
 |---|---|---|
@@ -50,6 +52,8 @@ The reform-relevant points:
 - the tier-rating system aims to keep rate adequacy aligned with these shifts, but the reform cadence may lag actual experience by one to two cycles.
 
 ### Auto loss ratio drivers
+
+The following table is scoped to public primary sources (sonpo.or.jp, tokiomarinehd.com, ms-ad-hd.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:sonpo.or.jp; tokiomarinehd.com; ms-ad-hd.com; sompo-hd.com]
 
 | Driver | Direction | Mechanism |
 |---|---|---|
@@ -114,6 +118,8 @@ Marine insurance (cargo, hull, P&I) is a globally traded specialty line. Japanes
 
 Japanese reinsurance treaties follow a primary April 1 renewal cycle aligned with the Japan financial year, with smaller renewals at January and July. Procurement dynamics:
 
+The following table is scoped to public primary sources (sonpo.or.jp, tokiomarinehd.com, ms-ad-hd.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:sonpo.or.jp; tokiomarinehd.com; ms-ad-hd.com; sompo-hd.com]
+
 | Element | Description |
 |---|---|
 | April 1 renewal | Primary cedent treaty renewal for Japan-domestic books |
@@ -136,6 +142,8 @@ Under the [[insurance/economic-value-based-solvency|economic-value-based solvenc
 
 The non-life cat module under the [[insurance/economic-value-based-solvency|economic-value-based ESR]] regime applies stress scenarios for major Japanese perils:
 
+The following table is scoped to public primary sources (sonpo.or.jp, tokiomarinehd.com, ms-ad-hd.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:sonpo.or.jp; tokiomarinehd.com; ms-ad-hd.com; sompo-hd.com]
+
 | Peril | ESR cat-module treatment |
 |---|---|
 | Earthquake (commercial property) | Probabilistic shock scenarios calibrated to Japan-specific seismic exposure |
@@ -151,6 +159,8 @@ The cat-module capital charge directly affects how much catastrophe risk each bi
 ## Group-level vs operating-company-level reading
 
 A common reading mistake is to read a holding-company integrated report combined-ratio number as if it were a single operating-company combined ratio. The structure for each big-three group is:
+
+The following table is scoped to public primary sources (sonpo.or.jp, tokiomarinehd.com, ms-ad-hd.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:sonpo.or.jp; tokiomarinehd.com; ms-ad-hd.com; sompo-hd.com]
 
 | Group | Operating-company combined ratios consolidated into group | Group-level adjustments |
 |---|---|---|

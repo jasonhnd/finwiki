@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/saison-automobile-fire-insurance
-source_hash: e281081a2e86175c
+source_hash: 6abbe9ecd68d54be
 lang: en
 status: machine
 fidelity: ok
 title: "Saison Automobile & Fire Insurance / SOMPO Direct (セゾン自動車火災保険 / SOMPOダイレクト)"
-translated_at: 2026-06-19T06:09:18.148Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Saison Automobile & Fire Insurance / SOMPO Direct (セゾン自動車火災保険 / SOMPOダイレクト)
@@ -19,6 +19,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]] as the
 A direct-sales direct non-life insurer under SOMPO, originating as the auto insurance of the former Seibu Saison Group → consolidated by [[non-life-insurers/sompo|SOMPO]] in 2009  → renamed **"ＳＯＭＰＯダイレクト損害保険株式会社"** in 2024-10-01. Its flagship product is **"Otona no Jidosha Hoken (Adult Auto Insurance)"** (a direct-sales auto insurance with age-band rates reflecting the lower accident rate of the 40-50  age band), and centered on the online-application channel, it forms the direct-sales auto-insurance market together with [[insurance/sony-assurance|ソニー損保]] / [[insurance/axa-direct|アクサダイレクト]] / [[insurance/saa|SAA]] (SBI Insurance). It is the subsidiary that carries the **direct-sales piece** of SOMPO HD's ([[non-life-insurers/sompo]]) auto-insurance channel diversification (agency + dealer + direct). ^[extracted]
 
 ## 1. Corporate overview
+
+The following table is scoped to public primary sources (sompo-direct.co.jp, sompo-hd.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:sompo-direct.co.jp; sompo-hd.com]
 
 | Item | Content |
 |---|---|
@@ -35,6 +37,8 @@ A direct-sales direct non-life insurer under SOMPO, originating as the auto insu
 
 ## 2. Trade-name evolution and joining SOMPO
 
+The following table is scoped to public primary sources (sompo-direct.co.jp, sompo-hd.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:sompo-direct.co.jp; sompo-hd.com]
+
 | Year/month | Event |
 |---|---|
 | **1982-09** | Established as **"Allstate Automobile & Fire Insurance Co., Ltd. (オールステート自動車・火災保険株式会社)"** (US Allstate-affiliated; obtained a non-life license in 10  of the same year and began operations 1983-04 ) |
@@ -48,6 +52,8 @@ A direct-sales direct non-life insurer under SOMPO, originating as the auto insu
 The renaming was part of [[non-life-insurers/sompo|SOMPO HD]]'s group-brand-unification initiative, aimed at tidying up the name-level relationship with the former Seibu Saison Group and clarifying the direct-sales brand as SOMPO Direct.
 
 ### 3.1 Flagship: "Otona no Jidosha Hoken"
+
+The following table is scoped to public primary sources (sompo-direct.co.jp, sompo-hd.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:sompo-direct.co.jp; sompo-hd.com]
 
 | Feature | Content |
 |---|---|
@@ -86,6 +92,8 @@ SOMPO Holdings (TSE PRIME 8630)
 
 ## 5. KPIs (based on official public information)
 
+The following table is scoped to public primary sources (sompo-direct.co.jp, sompo-hd.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:sompo-direct.co.jp; sompo-hd.com]
+
 | Metric | Figure (source) |
 |---|---|
 | Number of employees | **1,141  people** (as of 2024-03-31). Source: Wikipedia "SOMPOダイレクト損害保険" (based on the disclosure magazine) |
@@ -111,6 +119,8 @@ The flagship product "Otona no Jidosha Hoken" has a rate design reflecting the *
 Tidying up the company name "セゾン自動車火災保険," which originated from the former Seibu Saison Group, it was renamed **SOMPO Direct**. This was part of SOMPO HD's initiative to unify the group brand and clarify intra-group synergy, tidying up the historical relationship with the former Saison Group at the trade-name level (in substance, the capital relationship was a SOMPO 100% subsidiary at the point of consolidation in 2009 ).
 
 ## 7. Regulation / supervision
+
+The following table is scoped to public primary sources (sompo-direct.co.jp, sompo-hd.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:sompo-direct.co.jp; sompo-hd.com]
 
 | Item | Content |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: payment-firms/dg-financial-technology
-source_hash: 9f867b67070ef7ed
+source_hash: 4fc5fd09cd387dbe
 lang: en
 status: machine
 fidelity: ok
 title: "DG Financial Technology (DGFT)"
-translated_at: 2026-05-31T15:29:03.949Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # DG Financial Technology (DGFT)
@@ -20,6 +20,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 DG Financial Technology is Digital Garage group's payment/fintech infrastructure operator. Inheriting the payment processing context of the old VeriTrans, this page explores the boundaries between online/store-facing payment gateways and merchant technology.
 
 ## 1. Corporation/license boundary
+
+The following table is scoped to public primary sources (dgft.jp, company.dgft.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:dgft.jp; company.dgft.jp; meti.go.jp]
 
 | Item | Reading |
 |---|---|

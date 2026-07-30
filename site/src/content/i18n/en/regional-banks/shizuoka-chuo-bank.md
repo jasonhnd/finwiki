@@ -1,11 +1,11 @@
 ---
 source: regional-banks/shizuoka-chuo-bank
-source_hash: 4bc95d82bf2825dd
+source_hash: 6a02644a8587d7be
 lang: en
 status: machine
 fidelity: ok
 title: "Shizuoka Chuo Bank"
-translated_at: 2026-06-15T04:09:41.197Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Shizuoka Chuo Bank
@@ -19,6 +19,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 Shizuoka Chuo Bank, Ltd. (株式会社静岡中央銀行) is a second-tier regional bank headquartered in Numazu City, Shizuoka Prefecture, holding a bank license under the Banking Act and listed in the FSA's bank license list. Its predecessor was Izu Mujin, established in 1926 年, and it is a second-regional-bank operating company that converted to an ordinary bank in 1989 年 8 月. Its business is the standard second-tier regional bank model of deposit-taking and lending to SMEs / individuals centered on Numazu, with a branch network extending across Shizuoka Prefecture, Kanagawa Prefecture, and Tokyo.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, shizuokachuo-bank.co.jp, ja.wikipedia.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; shizuokachuo-bank.co.jp; ja.wikipedia.org]
 
 | Item | Notes |
 |---|---|

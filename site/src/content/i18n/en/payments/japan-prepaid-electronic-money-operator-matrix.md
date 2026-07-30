@@ -1,11 +1,11 @@
 ---
 source: payments/japan-prepaid-electronic-money-operator-matrix
-source_hash: 7306bce2dcae7dde
+source_hash: e8bcc34cdfb0018c
 lang: en
 status: machine
 fidelity: ok
 title: "Japan prepaid electronic money operator matrix"
-translated_at: 2026-07-28T20:15:36Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Japan prepaid electronic money operator matrix
 
@@ -66,6 +66,8 @@ The matrix below lays out those dimensions so a reader can distinguish JR East a
 **Operator**: Kyushu Railway Company (JR Kyushu, TSE Prime 9142), operated directly. **License**: Payment Services Act third-party prepaid payment instrument issuer. **Technology**: FeliCa (SUGOCA card). **Launch**: 2009-03. **Distribution**: physical card. **Merchant network**: Nationwide mutual use interoperable. **Mobile integration**: limited as of 2026 (JR Kyushu shinkansen integration via separate EX-IC route). **Refund policy**: ticket-office refund. **Group bank backstop**: JR Kyushu balance sheet. **Group cross-link**: JR Kyushu retail and travel loyalty.
 
 ## Big comparison matrix table
+
+The following table is scoped to public primary sources (fsa.go.jp, edy.rakuten.co.jp, support.rakuten-edy.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; edy.rakuten.co.jp; support.rakuten-edy.co.jp; 7andi.com]
 
 | Brand | Operator | Parent group | License (Payment Services Act) | Technology | Launch | Merchant network (approx) | Mobile / Apple Pay status | Refund policy | Documented cash / liability link | Group cross-link | Stack tier |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -169,6 +171,8 @@ The third-party vs. home-based distinction is structural: third-party is the "ge
 ## Comparison vs the funds-transfer regime
 
 A reader new to JP payments often confuses **prepaid e-money** with **funds-transfer** — they share the wallet-balance UX but sit under different licenses with materially different rules:
+
+The following table is scoped to public primary sources (fsa.go.jp, edy.rakuten.co.jp, support.rakuten-edy.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; edy.rakuten.co.jp; support.rakuten-edy.co.jp; 7andi.com]
 
 | Dimension | Prepaid Third-party advance payment | Funds-transfer Funds transfer business |
 |---|---|---|

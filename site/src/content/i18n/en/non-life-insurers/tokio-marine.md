@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/tokio-marine
-source_hash: de38b359d2e24421
+source_hash: 66d4f11cb4827bb2
 lang: en
 status: machine
 fidelity: ok
 title: "Tokio Marine Holdings (東京海上ホールディングス)"
-translated_at: 2026-06-19T06:09:18.163Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Tokio Marine Holdings (東京海上ホールディングス)
@@ -66,6 +66,8 @@ The **head of the 3  domestic non-life megagroups** (No.1 by market cap among To
 
 ### Key timeline (excerpt)
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Year/month | Event |
 |---|---|
 | 1879-08 | Tokio Marine Insurance Co. founded (Japan's first non-life insurer) |
@@ -83,6 +85,8 @@ The **head of the 3  domestic non-life megagroups** (No.1 by market cap among To
 
 ### Consolidated results (FY2024  = 2025-03  period, confirmed)
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Item | FY2024  actual |
 |---|---|
 | **Ordinary revenue** (net premiums written basis) | **Approx. 5.31 兆円** (5 兆 3,051 億円) |
@@ -97,6 +101,8 @@ The **head of the 3  domestic non-life megagroups** (No.1 by market cap among To
 > Source: Wikipedia "Tokio Marine Holdings" (2026-05-19 extraction) + Tokio Marine HD official IR. FY2024  = 2025 年 3 月 period, consolidated basis.
 
 ## 2. Business segment map
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Segment | Main operators | Features |
 |---|---|---|

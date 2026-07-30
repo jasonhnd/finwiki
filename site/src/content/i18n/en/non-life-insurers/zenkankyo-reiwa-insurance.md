@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/zenkankyo-reiwa-insurance
-source_hash: 44ee581fd9fced4f
+source_hash: 468bd4b1a04fa080
 lang: en
 status: machine
 fidelity: ok
 title: "Zenkankyo Reiwa Insurance / 全管協れいわ損害保険"
-translated_at: 2026-06-01T03:31:12.237Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Zenkankyo Reiwa Insurance / 全管協れいわ損害保険
@@ -21,6 +21,8 @@ Zenkankyo Reiwa Insurance is a licensed non-life insurer focused on rental-housi
 This page covers 全管協れいわ損害保険株式会社. It should not be merged into small-amount short-term insurance pages or real-estate association pages, because it is an FSA-licensed non-life insurer.
 
 ## Business Role Map
+
+The following table is scoped to public primary sources (fsa.go.jp, zkreiwa-sonpo.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; zkreiwa-sonpo.co.jp]
 
 | Route | Reading |
 |---|---|

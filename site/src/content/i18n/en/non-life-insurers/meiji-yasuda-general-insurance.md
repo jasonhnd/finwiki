@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/meiji-yasuda-general-insurance
-source_hash: 45a4ffaf97c325fa
+source_hash: 7ebe488e2ffdd468
 lang: en
 status: machine
 fidelity: ok
 title: "Meiji Yasuda General Insurance"
-translated_at: 2026-06-15T03:48:21.898Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Meiji Yasuda General Insurance
@@ -19,6 +19,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 Meiji Yasuda General Insurance Co., Ltd. is a non-life insurance operating company with [[life-insurers/meiji-yasuda]] group adjacency, listed in the FSA's non-life insurance company license list. As a non-life arm held by a major life insurer group, view the life / non-life group boundaries separately.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, sonpohogo.or.jp, meijiyasuda-sonpo.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sonpohogo.or.jp; meijiyasuda-sonpo.co.jp]
 
 | Item | Notes |
 |---|---|

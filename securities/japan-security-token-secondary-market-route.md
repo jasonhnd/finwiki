@@ -6,8 +6,8 @@ aliases:
   - "日本 セキュリティトークン secondary market"
 domain: "securities"
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-22
 confidence: likely
 tags: [securities, security-token, PTS, ODX, FIEA, Japan]
@@ -37,6 +37,8 @@ This page belongs to [[securities/INDEX|securities domain]] and links to [[finan
 
 ## Route Map
 
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, odx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; odx.co.jp]
+
 | Layer | Public category | Public record field |
 |---|---|---|
 | Security token | Tokenized security / electronically recorded transferable right where applicable | Issuer disclosure and platform materials. |
@@ -65,6 +67,8 @@ Trading on START is routed through securities firms accepted by ODX as trading p
 
 The Progmat public concept page source pack recorded the following market-size fields:
 
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, odx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; odx.co.jp]
+
 | Field | Value in source pack |
 |---|---|
 | Domestic cumulative security-token cases | 87 |
@@ -81,6 +85,8 @@ JPX publicly announced an investment in BOOSTRY and a security-token business al
 Mainstream JPX cash equities provide a comparison baseline where trading venue, clearing, and settlement roles are separated across the exchange venue, [[securities/japan-securities-clearing-corp|JSCC]], and [[securities/japan-securities-depository-center|JASDEC]].
 
 ## Public Record Fields
+
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, odx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; odx.co.jp]
 
 | Field | Source route |
 |---|---|

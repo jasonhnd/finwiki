@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/aig-japan
-source_hash: 1cc93224c945b12b
+source_hash: 921133f2421cfc08
 lang: ja
 status: machine
 fidelity: ok
 title: "AIG ジャパン (AIG 損害保険)"
-translated_at: 2026-06-02T14:01:20.899Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # AIG ジャパン (AIG 損害保険)
 
@@ -34,6 +34,8 @@ American International Group, Inc.（米 NYSE: AIG）
 
 ### 重要な歴史（年表）
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | 年月 | 事象 |
 |---|---|
 | 1946 | **AIU 保険会社 日本支店** 開設（戦後外資保険再進出第一陣の一つ）|
@@ -45,6 +47,8 @@ American International Group, Inc.（米 NYSE: AIG）
 | **2018-01-01** | **AIU 損害保険 + 富士火災海上保険 合併 → AIG 損害保険株式会社 発足** |
 
 ## 2. 業務ライン
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -65,6 +69,8 @@ American International Group, Inc.（米 NYSE: AIG）
 - **再保険プラットフォーム**：日本の大規模災害（地震・台風）を AIG グループ再保険で吸収。
 
 ### 競合関係
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | 競合タイプ | 主要競合 |
 |---|---|

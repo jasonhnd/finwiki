@@ -1,11 +1,11 @@
 ---
 source: non-profit/japan-research-grant-map-2026
-source_hash: 6793a00bfb9aa556
+source_hash: 67383d01766316af
 lang: ja
 status: machine
 fidelity: ok
 title: "日本 研究助成金 map（2026 年度）"
-translated_at: 2026-06-19T13:31:34.053Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本 研究助成金 map（2026 年度）
@@ -19,6 +19,8 @@ This entry sits under [[non-profit/japan-general-foundation-establishment-requir
 > [[non-profit/japan-general-foundation-establishment-requirements|一般財団法人]] / 研究機関 / 公益目的の研究プロジェクトが狙える主要な助成金を一覧化。助成金額は年度ごとに変動するため「2026 年度」のスナップショットとして記録。
 
 ## 主要候補（2026 年度）
+
+以下の表は、エントリ出典インベントリの公開一次資料（taf.or.jp, suntory.co.jp, mitsubishi-zaidan.jp）の範囲に限定して読む。^[source:taf.or.jp; suntory.co.jp; mitsubishi-zaidan.jp; mhlw.go.jp]
 
 | 助成機関 | 1 件あたり | 応募期間 | 対象 | 特記 |
 |---------|-----------|---------|------|------|
@@ -50,6 +52,8 @@ This entry sits under [[non-profit/japan-general-foundation-establishment-requir
 研究助成の公募は一般に前年 12 月 〜 当年 4 月に集中するため、**計画書は前年 11 月までに完成させておく** のが実務的な段取り。学生・若手研究者向けの奨学金・支援制度は別立てで [[policy-finance/japan-student-services-organization|JASSO]] が整理されており、研究助成と組み合わせることで研究代表者の生活基盤を確保できる。
 
 ## 適用案
+
+以下の表は、エントリ出典インベントリの公開一次資料（taf.or.jp, suntory.co.jp, mitsubishi-zaidan.jp）の範囲に限定して読む。^[source:taf.or.jp; suntory.co.jp; mitsubishi-zaidan.jp; mhlw.go.jp]
 
 | 事業 | 主候補助成金 | 理由 |
 |------|-------------|------|

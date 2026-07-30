@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/aioi-nissay-dowa-insurance
-source_hash: 38195dfdd6a15050
+source_hash: 1d372c2ead03d8a0
 lang: ja
 status: machine
 fidelity: ok
 title: "あいおいニッセイ同和損害保険"
-translated_at: 2026-06-19T06:09:18.032Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # あいおいニッセイ同和損害保険
@@ -20,6 +20,8 @@ translated_at: 2026-06-19T06:09:18.032Z
 あいおいニッセイ同和損害保険株式会社は、[[non-life-insurers/msad]] グループの損害保険事業会社である。金融庁の損害保険会社免許一覧に掲載され、MS&AD グループ内では [[non-life-insurers/mitsui-sumitomo-insurance]] とは別の法人エンティティおよびチャネル境界を持つ。
 
 ## 1. ライセンス / グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, sonpohogo.or.jp, aioinissaydowa.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; sonpohogo.or.jp; aioinissaydowa.co.jp]
 
 | 項目 | 備考 |
 |---|---|

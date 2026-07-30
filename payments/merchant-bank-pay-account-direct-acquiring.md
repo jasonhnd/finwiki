@@ -7,8 +7,8 @@ aliases:
   - "account direct acquiring Japan"
 domain: "payments"
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-22
 confidence: likely
 tags: [payments, bank-pay, j-debit, acquiring, merchant, account-to-account]
@@ -33,6 +33,8 @@ Use this page with [[payments/INDEX|payments domain]], [[payments/card-acquiring
 
 ## Merchant Route Map
 
+The following table is scoped to public primary sources (jeppo.jp, zengin-net.jp, cotra.ne.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jeppo.jp; zengin-net.jp; cotra.ne.jp]
+
 | Route | Merchant-facing reading | Main control question |
 |---|---|---|
 | Bank Pay direct merchant | Merchant registers directly or through the Bank Pay participant structure. | Who performs merchant screening, registration, support, refund / cancellation process, and settlement reconciliation? |
@@ -54,6 +56,8 @@ The Bank Pay guideline further defines connection providers and re-connection pr
 
 ## Control Matrix
 
+The following table is scoped to public primary sources (jeppo.jp, zengin-net.jp, cotra.ne.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jeppo.jp; zengin-net.jp; cotra.ne.jp]
+
 | Control area | Public relevance |
 |---|---|
 | Merchant screening | Account-direct rails move money from bank accounts, so business type, prohibited goods, fraud risk, and financial soundness matter. |
@@ -66,6 +70,8 @@ The Bank Pay guideline further defines connection providers and re-connection pr
 | User explanation | Consumers may see QR payment but not understand whether the source is account-direct, wallet balance, card, or prepaid value. |
 
 ## Comparison With Card And Wallet Acquiring
+
+The following table is scoped to public primary sources (jeppo.jp, zengin-net.jp, cotra.ne.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jeppo.jp; zengin-net.jp; cotra.ne.jp]
 
 | Topic | Account-direct / Bank Pay / J-Debit | Card acquiring / PSP | Wallet / code payment |
 |---|---|---|---|

@@ -1,12 +1,12 @@
 ---
 source: non-life-insurers/sony-insurance
-source_hash: 9b9c34fd897573d7
+source_hash: eed517db1b8b67ef
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "ソニー損害保険"
-translated_at: 2026-06-26T08:32:23.069Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # ソニー損害保険
@@ -19,6 +19,8 @@ translated_at: 2026-06-26T08:32:23.069Z
 ## 要約ソニー損害保険株式会社は、[[megabanks/sony-fg]]グループのダイレクト損害保険事業会社である。金融庁の損害保険会社免許一覧と損害保険契約者保護機構会員一覧に掲載される認可保険会社で、ダイレクト自動車保険 / オンライン保険モデルの代表例である。
 
 ## 1. ライセンスとグループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, sonpohogo.or.jp, sonysonpo.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; sonpohogo.or.jp; sonysonpo.co.jp]
 
 | 項目 | 注記 |
 |---|---|

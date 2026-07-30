@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/citigroup-japan
-source_hash: b38351be248d88d8
+source_hash: 4462ec563bb97bc8
 lang: ja
 status: machine
 fidelity: ok
 title: "シティグループ・ジャパン (Citigroup Japan)"
-translated_at: 2026-06-02T14:01:20.904Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # シティグループ・ジャパン (Citigroup Japan)
 
@@ -35,6 +35,8 @@ Citigroup Inc.（米 NYSE: C・連邦準備制度監督）
 
 ## 2. 沿革（年表抜粋）
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | 年 | 事象 |
 |---|---|
 | **1902** | **ナショナル・シティ銀行 東京支店 開設**（邦銀史上最初期の外資系プレゼンスの一つ）^[extracted] |
@@ -51,6 +53,8 @@ Citigroup Inc.（米 NYSE: C・連邦準備制度監督）
 
 ## 3. 事業セグメント・マップ
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | セグメント | 在日担い手 | 特徴 |
 |---|---|---|
 | 法人銀行（コーポレートバンキング）| シティバンク, N.A. 東京支店 | 多国籍企業の日本進出支援、日系大企業のグローバル取引、シンジケートローン |
@@ -65,6 +69,8 @@ Citigroup Inc.（米 NYSE: C・連邦準備制度監督）
 - **米 G-SIB Bucket 3 のグローバル一部**：地政学イベント・米利上げ・ドル流動性のグローバル波及を通じて、日本拠点の業務にも影響する。
 
 ### 主要競合
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | 領域 | 主要競合 |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: regional-banks/kyushu-fg
-source_hash: 6e32b00b53a43476
+source_hash: 2d34c3e0b20966d2
 lang: ja
 status: machine
 fidelity: ok
 title: "九州 FG"
-translated_at: 2026-06-02T14:54:39.065Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 九州 FG
@@ -55,6 +55,8 @@ translated_at: 2026-06-02T14:54:39.065Z
 
 ### 重要年表
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | 年月 | 事象 |
 |---|---|
 | 1879 | 第百三十五国立銀行（後の肥後銀行）+ 第百四十七国立銀行（後の鹿児島銀行）設立 |
@@ -66,6 +68,8 @@ translated_at: 2026-06-02T14:54:39.065Z
 | 2024 | **新中期経営計画**（半導体クラスター対応・地域 DX 強化を含む）|
 
 ## 2. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

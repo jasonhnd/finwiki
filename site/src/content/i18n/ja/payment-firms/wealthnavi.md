@@ -1,11 +1,11 @@
 ---
 source: payment-firms/wealthnavi
-source_hash: 7343b6423d2a3b09
+source_hash: a3e3ad5e7d2c0c5d
 lang: ja
 status: machine
 fidelity: ok
 title: "ウェルスナビ株式会社 (WealthNavi)"
-translated_at: 2026-06-02T16:33:58.509Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # ウェルスナビ株式会社 (WealthNavi)
 
@@ -30,6 +30,8 @@ translated_at: 2026-06-02T16:33:58.509Z
 
 ### 創業者背景 ^[extracted]
 
+以下の表は、エントリ出典インベントリの公開一次資料（mufg.jp, corp.wealthnavi.com, prtimes.jp）の範囲に限定して読む。^[source:mufg.jp; corp.wealthnavi.com; prtimes.jp; financial.jiji.com]
+
 | 項目 | 内容 |
 |---|---|
 | 氏名 | 柴山和久 |
@@ -38,6 +40,8 @@ translated_at: 2026-06-02T16:33:58.509Z
 | 創業動機 | 「働く世代の豊かさを支える」を掲げ、米国型ロボアド（Betterment / Wealthfront）を日本に導入 |
 
 ### 主要事業数値（公開情報ベース）
+
+以下の表は、エントリ出典インベントリの公開一次資料（mufg.jp, corp.wealthnavi.com, prtimes.jp）の範囲に限定して読む。^[source:mufg.jp; corp.wealthnavi.com; prtimes.jp; financial.jiji.com]
 
 | 項目 | 数値 |
 |---|---|
@@ -80,6 +84,8 @@ translated_at: 2026-06-02T16:33:58.509Z
 
 ## 2. 事業セグメント・マップ
 
+以下の表は、エントリ出典インベントリの公開一次資料（mufg.jp, corp.wealthnavi.com, prtimes.jp）の範囲に限定して読む。^[source:mufg.jp; corp.wealthnavi.com; prtimes.jp; financial.jiji.com]
+
 | セグメント | サービス | 特徴 |
 |---|---|---|
 | 個人向け資産運用 | WealthNavi（自社）| 全自動・長期分散投資 / 米国 ETF 中心 |
@@ -96,6 +102,8 @@ translated_at: 2026-06-02T16:33:58.509Z
 - **自動リバランス**（半年に 1 回 + 乖離発動時）
 
 ### 競争ポジション
+
+以下の表は、エントリ出典インベントリの公開一次資料（mufg.jp, corp.wealthnavi.com, prtimes.jp）の範囲に限定して読む。^[source:mufg.jp; corp.wealthnavi.com; prtimes.jp; financial.jiji.com]
 
 | プレイヤー | 親会社 | 預かり資産規模（概算・時点差あり）| 特徴 |
 |---|---|---|---|

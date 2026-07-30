@@ -9,8 +9,8 @@ aliases:
   - "individual medical insurance Japan"
 domain: insurance
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [insurance, life, medical, cancer, aflac, aia, tokio-marine, sompo, msAd, product, channel, japan]
@@ -46,6 +46,8 @@ A whole-life or single-premium savings policy is a long-duration, rate-sensitive
 - **Distribution cost is the dominant economic line.** Acquisition commission to agencies, banks, or sales reps is the largest variable cost; advertising spend matters for direct / internet plays. Pricing-margin compression therefore happens primarily through channel-mix, not through investment-income optimization.
 
 ## Competitive map
+
+The following table is scoped to public primary sources (aflac.co.jp, aflac.com, aia.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:aflac.co.jp; aflac.com; aia.co.jp; tmn-anshin.co.jp]
 
 | Carrier / group | Product positioning | Channel mix | Notes |
 |---|---|---|---|

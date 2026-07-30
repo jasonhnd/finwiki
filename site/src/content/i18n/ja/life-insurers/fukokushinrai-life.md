@@ -1,12 +1,12 @@
 ---
 source: life-insurers/fukokushinrai-life
-source_hash: 598ccb400c9f0ac1
+source_hash: 882d5d8ef7fb5a70
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "フコクしんらい生命保険"
-translated_at: 2026-06-26T08:32:23.067Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # フコクしんらい生命保険
@@ -18,6 +18,8 @@ translated_at: 2026-06-26T08:32:23.067Z
 ## 要点フコクしんらい生命保険株式会社は、保険業法上の生命保険会社免許を持ち金融庁の生命保険会社免許一覧に掲載される、富国生命グループの銀行窓販系生命保険事業会社。1996 年に [[non-life-insurers/kyoritsu-fire-marine|共栄火災海上保険]] の子会社「共栄火災しんらい生命保険」として設立され、2008 年に [[life-insurers/fukoku-life|富国生命]] が株式の約 80% を取得して子会社化、「フコクしんらい生命」へ商号変更した。みずほ銀行や信用金庫を中心とした**金融機関窓口販売（バンカシュランス）**を主チャネルとする点で、対面営業職員中心の親会社富国生命とは事業形態が分かれる。本社は東京都新宿区。
 
 ## 1. ライセンス／グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, fukokushinrai.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; fukokushinrai.co.jp]
 
 | 項目 | 注記 |
 |---|---|
