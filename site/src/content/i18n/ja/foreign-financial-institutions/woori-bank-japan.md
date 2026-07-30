@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/woori-bank-japan
-source_hash: 05fc6cf3e419736f
+source_hash: 9e1de26a96d625bc
 lang: ja
 status: machine
 fidelity: ok
 title: "ウリィ銀行 東京支店"
-translated_at: 2026-06-02T16:33:58.466Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # ウリィ銀行 東京支店
 
@@ -19,6 +19,8 @@ translated_at: 2026-06-02T16:33:58.466Z
 ウリィ銀行 東京支店は、金融庁の外国銀行支店一覧に掲載される韓国 / Woori Bank の在日銀行支店。韓国系銀行の日本回廊支店として、預金・送金・法人取引・韓国関連クロスボーダー金融の入口を担う。
 
 ## 1. ライセンス・支店境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, go.wooribank.com, zenginkyo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; go.wooribank.com; zenginkyo.or.jp]
 
 | 項目 | 注記 |
 |---|---|

@@ -3,8 +3,8 @@ title: "はまぎん総合研究所 (Hamagin Research Institute)"
 aliases: ["Hamagin Research Institute", "Hamagin Research", "はまぎん総合研究所", "株式会社浜銀総合研究所", "HRI"]
 domain: regional-banks
 created: 2026-05-24
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, think-tank, regional-bank-think-tank-subsidiary, kanto, kanagawa, operating-company]
@@ -29,6 +29,8 @@ This entry sits under the [[regional-banks/INDEX|regional-banks INDEX]] as the F
 株式会社はまぎん総合研究所 (Hamagin Research Institute, HRI) は、[[regional-banks/yokohama-bank|横浜銀行]] (現 [[regional-banks/concordia-fg|横浜フィナンシャルグループ]] 子会社) 連結子会社の地銀系シンクタンクで、神奈川県経済データ・地域分析・中堅企業向けコンサルティング・人材開発・経済予測を提供。1988-07-21 設立・資本金 1 億円・従業員 157 名 (2025-10-01) 規模で、神奈川県政・市町村への調査委託も受注。地銀 FG 戦略における「地域経済インテリジェンス」の中核子会社。^[extracted]
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (yokohama-ri.co.jp, yokohamafg.co.jp, boy.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:yokohama-ri.co.jp; yokohamafg.co.jp; boy.co.jp; chiginkyo.or.jp]
 
 | Item | Notes |
 |---|---|
@@ -62,6 +64,8 @@ This entry sits under the [[regional-banks/INDEX|regional-banks INDEX]] as the F
 - はまぎん総研 自体は商号変更の影響を受けず、引き続き [[regional-banks/yokohama-bank]] 連結子会社として運営
 
 ## 4. KPI table
+
+The following table is scoped to public primary sources (yokohama-ri.co.jp, yokohamafg.co.jp, boy.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:yokohama-ri.co.jp; yokohamafg.co.jp; boy.co.jp; chiginkyo.or.jp]
 
 | 項目 | 概況 | 出典 |
 |---|---|---|

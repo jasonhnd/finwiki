@@ -24,8 +24,8 @@
     "domain": "non-life-insurers",
     "type": null,
     "created": "2026-05-21",
-    "last_updated": "2026-05-21",
-    "last_tended": "2026-05-21",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-11-21",
     "confidence": "likely",
     "tags": [
@@ -80,9 +80,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2059,
-    "word_like_tokens": 304,
+    "nonspace_chars": 2304,
+    "word_like_tokens": 350,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-07-30"
   }
 }

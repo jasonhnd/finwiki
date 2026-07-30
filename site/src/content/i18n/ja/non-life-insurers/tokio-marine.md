@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/tokio-marine
-source_hash: de38b359d2e24421
+source_hash: 66d4f11cb4827bb2
 lang: ja
 status: machine
 fidelity: ok
 title: "東京海上ホールディングス (Tokio Marine Holdings)"
-translated_at: 2026-06-02T16:33:58.493Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 東京海上ホールディングス (Tokio Marine Holdings)
 
@@ -65,6 +65,8 @@ translated_at: 2026-06-02T16:33:58.493Z
 
 ### 重要年表(抜粋)
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | 年月 | 事象 |
 |---|---|
 | 1879-08 | 東京海上保険会社 創業(日本初損保) |
@@ -82,6 +84,8 @@ translated_at: 2026-06-02T16:33:58.493Z
 
 ### 連結業績(FY2024 = 2025-03 期、確認済)
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | 項目 | FY2024 実績 |
 |---|---|
 | **経常収益**(正味収入保険料ベース) | **約 5.31 兆円**(5 兆 3,051 億円) |
@@ -96,6 +100,8 @@ translated_at: 2026-06-02T16:33:58.493Z
 > 出典:Wikipedia「東京海上ホールディングス」(2026-05-19 抽出)+ Tokio Marine HD 公式 IR。FY2024 = 2025 年 3 月期 連結ベース。
 
 ## 2. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

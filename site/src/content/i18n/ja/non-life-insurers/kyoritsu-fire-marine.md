@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/kyoritsu-fire-marine
-source_hash: 1d6e1ce2d061e0a3
+source_hash: 4b43f6adc80b0abf
 lang: ja
 status: machine
 fidelity: ok
 title: "共栄火災海上保険"
-translated_at: 2026-06-02T14:54:39.037Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 共栄火災海上保険
 
@@ -29,6 +29,8 @@ JA 共済連を筆頭株主（**74.20%**）とする中堅損害保険会社。1
 
 ### 2023-03 期業績（第 82 期）^[extracted]
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | 項目 | 金額 |
 |---|---|
 | 経常収益 | 2,105 億 1,700 万円 |
@@ -37,6 +39,8 @@ JA 共済連を筆頭株主（**74.20%**）とする中堅損害保険会社。1
 | 総資産 | 5,656 億 0,600 万円 |
 
 ### 主要株主（2023-03-31 現在）^[extracted]
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | 株主 | 比率 |
 |---|---|
@@ -68,6 +72,8 @@ JA 共済連を筆頭株主（**74.20%**）とする中堅損害保険会社。1
 | **2025-04** | **新中計『SHIFT〜持続的成長に向けて〜』スタート** |
 
 ## 2. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | セグメント | 主要商品 | 特徴 |
 |---|---|---|
@@ -103,6 +109,8 @@ JA 共済連を筆頭株主（**74.20%**）とする中堅損害保険会社。1
   4. 不確実性の高い時代を生き抜くための組織づくり
 
 ### 競合・ポジショニング
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | 区分 | 競合 |
 |---|---|

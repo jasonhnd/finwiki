@@ -8,8 +8,8 @@ aliases:
   - "Lloyd's of London Japan"
 domain: non-life-insurers
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, insurance, non-life-insurance, foreign-insurer, lloyds-market, specialty-insurance, public-source]
@@ -31,6 +31,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 ロイズ・ジャパン株式会社 (Lloyd's Japan Inc.) is the Japan platform of **Lloyd's of London**, the world's oldest and largest insurance and reinsurance marketplace. Lloyd's operates in Japan as an FSA-licensed insurance underwriter rather than a single insurance company, providing market access for the syndicates that write specialty, marine, aviation, energy, and reinsurance risks. Compared with conventional foreign insurers, Lloyd's uniquely operates as a society of underwriting members organized into syndicates, not as a stock or mutual insurer.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, lloyds.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; lloyds.com]
 
 | Item | Notes |
 |---|---|

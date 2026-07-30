@@ -1,12 +1,12 @@
 ---
 source: payment-firms/au-payment
-source_hash: 434e4e79546b2864
+source_hash: fa874c10f056c024
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "auペイメント (au Payment)"
-translated_at: 2026-06-26T08:31:59.845Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # auペイメント (au Payment)
@@ -19,6 +19,8 @@ translated_at: 2026-06-26T08:31:59.845Z
 auペイメントは [[megabanks/au-fh|auフィナンシャルHD]] の payment operating company。公式会社概要は資金移動業、前払式支払手段発行業、au PAY、金融商品仲介、銀行代理、保険媒介 / 代理などを示しており、WebMoney 由来の 前払式 と au PAY ウォレット をつなぐ法人。
 
 ## 1. 法人・ライセンス境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（au-payment.co.jp, fsa.go.jp）の範囲に限定して読む。^[source:au-payment.co.jp; fsa.go.jp]
 
 | 項目 | 内容 |
 |---|---|

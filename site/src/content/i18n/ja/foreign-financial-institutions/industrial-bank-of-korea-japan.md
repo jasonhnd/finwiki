@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/industrial-bank-of-korea-japan
-source_hash: 462c4be06471bc06
+source_hash: efecd2f1308cd203
 lang: ja
 status: machine
 fidelity: ok
 title: "中小企業銀行 東京支店"
-translated_at: 2026-06-02T14:25:12.429Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 中小企業銀行 東京支店
@@ -20,6 +20,8 @@ translated_at: 2026-06-02T14:25:12.429Z
 中小企業銀行 東京支店は、金融庁の外国銀行支店一覧に掲載される Industrial Bank of Korea / IBK の在日銀行支店。韓国の中小企業金融銀行の日本支店 として、韓国企業・日系企業・中小企業金融ネットワークの接点を担う。
 
 ## 1. 免許・支店境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, global.ibk.co.kr, zenginkyo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; global.ibk.co.kr; zenginkyo.or.jp]
 
 | 項目 | 注記 |
 |---|---|

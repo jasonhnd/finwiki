@@ -3,8 +3,8 @@ title: トモニホールディングス (Tomony HD)
 aliases: ["トモニ HD", "Tomony Holdings", "株式会社トモニホールディングス", "Tomony Holdings, Inc."]
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank]
@@ -68,6 +68,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 | 2022-04 | 東証市場区分見直し → 東証 PRIME |
 
 ## 2. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (Wikipedia: トモニホールディングス (2026-05-19 抽出), Wikipedia: 徳島大正銀行 / 香川銀行 / 大正銀行 (2026-05-19 抽出), トモニ HD 公式コーポレートサイト 沿革). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Wikipedia: トモニホールディングス (2026-05-19 抽出); Wikipedia: 徳島大正銀行 / 香川銀行 / 大正銀行 (2026-05-19 抽出); トモニ HD 公式コーポレートサイト 沿革]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

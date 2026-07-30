@@ -8,8 +8,8 @@ aliases:
   - "Starr Indemnity & Liability Japan"
 domain: non-life-insurers
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, insurance, non-life-insurance, foreign-insurer, specialty-insurance, public-source]
@@ -31,6 +31,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 Starr Insurance Companies (Starr Companies) is a global insurance and investment organization led by **Maurice R. "Hank" Greenberg**, the former CEO of AIG, with roots dating to C.V. Starr & Co. (founded in Shanghai in 1919). After Greenberg's departure from AIG in 2005, he rebuilt Starr into an independent global insurance group, including specialty property and casualty, accident and health, and aviation. Starr's Japan presence is part of its global specialty footprint, sitting alongside other specialty foreign carriers such as [[non-life-insurers/lloyd-japan|Lloyd's Japan]] and [[non-life-insurers/fm-global-japan|FM Global Japan]] for commercial and specialty risks.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, starrcompanies.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; starrcompanies.com]
 
 | Item | Notes |
 |---|---|

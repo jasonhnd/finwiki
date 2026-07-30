@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/munich-re-japan
-source_hash: e69166e142a5a977
+source_hash: 558aa7794ab1d504
 lang: ja
 status: machine
 fidelity: ok
 title: "ミュンヘン再保険日本支店"
-translated_at: 2026-06-02T14:54:39.082Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # ミュンヘン再保険日本支店
@@ -19,6 +19,8 @@ translated_at: 2026-06-02T14:54:39.082Z
 ミュンヘン再保険会社（Munich Reinsurance Company / Münchener Rückversicherungs-Gesellschaft, DAX 上場）の日本支店。**世界最大級の再保険会社** の日本支店として、金融庁の損害保険会社免許一覧（外国損害保険会社等）に掲載される。日本の元受損保（[[non-life-insurers/tokio-marine-nichido-fire]] / [[non-life-insurers/mitsui-sumitomo-insurance]] / [[non-life-insurers/sompo-japan-insurance]] 等）と生保のリスクをグローバル資本で吸収する役割を担い、特に巨大自然災害（地震・台風・水害）と生保長寿リスクの引受で重要。
 
 ## 1. 免許・グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（munichre.com, fsa.go.jp）の範囲に限定して読む。^[source:munichre.com; fsa.go.jp]
 
 | 項目 | メモ |
 |---|---|

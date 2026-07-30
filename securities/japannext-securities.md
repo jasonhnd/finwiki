@@ -3,8 +3,8 @@ title: "ジャパンネクスト証券 (Japannext)"
 aliases: ["Japannext", "Japannext PTS", "ジャパンネクスト証券", "J-Market", "X-Market"]
 domain: securities
 created: 2026-05-20
-last_updated: 2026-05-20
-last_tended: 2026-05-20
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-20
 confidence: likely
 tags: [securities, pts, trading-venue, market-infrastructure]
@@ -28,6 +28,8 @@ For FinWiki, Japannext is the main private-venue counterpoint to [[securities/to
 
 ## System Map
 
+The following table is scoped to public primary sources (japannext.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:japannext.co.jp; fsa.go.jp]
+
 | Layer | Reading |
 |---|---|
 | Legal name | ジャパンネクスト証券株式会社 |
@@ -37,6 +39,8 @@ For FinWiki, Japannext is the main private-venue counterpoint to [[securities/to
 | Origin | Established in 2006 as SBI Japannext; PTS license approved in 2007. |
 
 ## Venue Map
+
+The following table is scoped to public primary sources (japannext.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:japannext.co.jp; fsa.go.jp]
 
 | Venue / feature | Reading |
 |---|---|

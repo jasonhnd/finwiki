@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/ji-accident-fire-insurance
-source_hash: 943138d7b805ddba
+source_hash: a26853c58e704ec9
 lang: en
 status: machine
 fidelity: ok
 title: "JI Accident & Fire Insurance / JI Accident & Fire Insurance"
-translated_at: 2026-05-31T23:59:49.348Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # JI Accident & Fire Insurance / JI Accident & Fire Insurance
 
@@ -20,6 +20,8 @@ JI Accident & Fire Insurance is a travel-insurance specialist in Japan's license
 This page covers JI Accident & Fire Insurance Co., Ltd. It should not be merged into a travel-agency page, even though public materials connect its business profile with travel-insurance expertise.
 
 ## Business Role Map
+
+The following table is scoped to public primary sources (fsa.go.jp, jihoken.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jihoken.co.jp]
 
 | Route | Reading |
 |---|---|

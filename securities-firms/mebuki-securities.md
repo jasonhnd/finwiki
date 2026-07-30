@@ -3,8 +3,8 @@ title: "めぶき証券 (Mebuki Securities)"
 aliases: ["Mebuki Securities", "めぶき証券", "株式会社めぶき証券", "旧 常陽証券"]
 domain: securities-firms
 created: 2026-05-24
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, securities, regional-bank-securities-subsidiary, kanto, ibaraki, operating-company]
@@ -29,6 +29,8 @@ This entry sits under the [[securities-firms/INDEX|securities-firms INDEX]] as t
 株式会社めぶき証券は、[[regional-banks/mebuki-fg|めぶき FG]] (東証 PRIME 7167) 100% 子会社の地銀系証券会社で、旧 **常陽証券** ([[regional-banks/joyo-bank|常陽銀行]] 系) を母体に [[regional-banks/mebuki-fg]] 設立後 (2016-10) にグループ統合・再編された。茨城・栃木・首都圏を地盤とする中堅企業 main bank 顧客向け資産運用・公募株引受・私募債仲介・事業承継 advisory を提供。第一種金融商品取引業 (証券業) 免許で、[[financial-regulators/jsda|日本証券業協会]] 加盟。^[extracted]
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (mebuki-sec.co.jp, mebuki-fg.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:mebuki-sec.co.jp; mebuki-fg.co.jp; fsa.go.jp; jsda.or.jp]
 
 | Item | Notes |
 |---|---|
@@ -67,6 +69,8 @@ This entry sits under the [[securities-firms/INDEX|securities-firms INDEX]] as t
 
 ## 4. KPI table (concept)
 
+The following table is scoped to public primary sources (mebuki-sec.co.jp, mebuki-fg.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:mebuki-sec.co.jp; mebuki-fg.co.jp; fsa.go.jp; jsda.or.jp]
+
 | 項目 | 概況 |
 |---|---|
 | 設立 | 2007-11-30（旧 常陽証券。2017-04 「めぶき証券」へ商号変更、2017-10 [[regional-banks/mebuki-fg]] 直下子会社）|
@@ -82,6 +86,8 @@ This entry sits under the [[securities-firms/INDEX|securities-firms INDEX]] as t
 > 注: めぶき証券は非上場の完全子会社のため単体財務 KPI 精緻値は単独開示されず、[[regional-banks/mebuki-fg]] 有価証券報告書セグメント情報を参照
 
 ## 5. 事業セグメント map
+
+The following table is scoped to public primary sources (mebuki-sec.co.jp, mebuki-fg.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:mebuki-sec.co.jp; mebuki-fg.co.jp; fsa.go.jp; jsda.or.jp]
 
 | セグメント | 特徴 |
 |---|---|

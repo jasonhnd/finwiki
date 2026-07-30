@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/bny-mellon-japan
-source_hash: 44ff17f60b3fb7f9
+source_hash: 67db850825bee9f6
 lang: en
 status: machine
 fidelity: ok
 title: "BNY メロン日本 (BNY Mellon Japan)"
-translated_at: 2026-06-18T23:59:13.103Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # BNY メロン日本 (BNY Mellon Japan)
@@ -44,6 +44,8 @@ For this reason, FinWiki does not mass-produce `bny-mellon-trust-bank` as a stan
 
 ## 2. History (timeline excerpts)
 
+The following table is scoped to public primary sources (bny.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:bny.com]
+
 | Year | Event |
 |---|---|
 | **1968** | **The Bank of New York begins its Japan business** (start of banking operations in Tokyo) ^[extracted] |
@@ -54,6 +56,8 @@ For this reason, FinWiki does not mass-produce `bny-mellon-trust-bank` as a stan
 | 2010s | **Expanded global-custody mandates from Japanese banks and pension funds (GPIF, etc.)** (tailwind from yen depreciation / a shift to overseas investment) ^[extracted] |
 
 ## 3. Business-segment map
+
+The following table is scoped to public primary sources (bny.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:bny.com]
 
 | Segment | In-Japan operator | Characteristics |
 |---|---|---|
@@ -69,6 +73,8 @@ For this reason, FinWiki does not mass-produce `bny-mellon-trust-bank` as a stan
 - **Appears in the major-shareholder lists of MUFG and others**: in the [[megabanks/mufg]] shareholder composition, its appearance as **The Bank of New York Mellon 3.61%** (2025-03-31) is a common structure associated with **name aggregation via institutional investors' overseas custody accounts** ^[extracted]
 
 ### Main competitors
+
+The following table is scoped to public primary sources (bny.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:bny.com]
 
 | Area | Main competitors |
 |---|---|

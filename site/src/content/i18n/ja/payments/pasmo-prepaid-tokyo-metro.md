@@ -1,11 +1,11 @@
 ---
 source: payments/pasmo-prepaid-tokyo-metro
-source_hash: 6de350ef9f4db766
+source_hash: 6a78ab28d3e4b2cc
 lang: ja
 status: machine
 fidelity: ok
 title: "PASMO: 東京の私鉄・バス連合による前払 IC"
-translated_at: 2026-06-02T16:33:58.485Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # PASMO: 東京の私鉄・バス連合による前払 IC
 
@@ -18,6 +18,8 @@ translated_at: 2026-06-02T16:33:58.485Z
 **PASMO** は、**東京の私鉄・バス連合が運営する前払 IC 電子マネー** です。**株式会社パスモ (PASMO Co Ltd)** を中心とする複数事業者連合が、Tokyo Metro、Toei Subway、主要私鉄 / バス事業者（Tokyu、Odakyu、Keio、Tobu、Seibu、Keisei、Sotetsu、Yokohama Minatomirai Railway など）にまたがる発行と精算を束ねています。2007-03-18 に開始し、初日から [[payments/suica-prepaid-jr-east|Suica]] と相互利用できました。**10 IC 相互利用スキーム** には 2013-03-23 に参加し、首都圏における主要な非 JR 系交通 IC となっています。PASMO は **FeliCa** 非接触 IC 上で動作し、[[payments/funds-transfer-vs-prepaid-boundary|Payment Services Act 前払式 framework]] に基づく **第三者型前払式支払手段** として登録されています。東京圏と、全国の 10-IC 対応 POS で横断的な小売受入があります。**Mobile PASMO** は Android Osaifu Keitai で 2020-03  に、Apple Pay で 2020-10  に開始しました。Mobile Suica の 2016  Apple Pay 開始より大きく遅れており、複数事業者合意に伴う連合調整コストを反映しています。
 
 ## 発行者と連合構造
+
+以下の表は、エントリ出典インベントリの公開一次資料（pasmo.co.jp, tokyometro.jp, kotsu.metro.tokyo.jp）の範囲に限定して読む。^[source:pasmo.co.jp; tokyometro.jp; kotsu.metro.tokyo.jp; fsa.go.jp]
 
 | 観点 | 読み方 |
 |---|---|
@@ -45,6 +47,8 @@ PASMO は、受入範囲が連合加盟事業者を超えて **第三者小売�
 
 PASMO が [[payments/suica-prepaid-jr-east|Suica]] と構造的に最も異なる点は、単一発行者商品ではなく **複数事業者連合** であることです。
 
+以下の表は、エントリ出典インベントリの公開一次資料（pasmo.co.jp, tokyometro.jp, kotsu.metro.tokyo.jp）の範囲に限定して読む。^[source:pasmo.co.jp; tokyometro.jp; kotsu.metro.tokyo.jp; fsa.go.jp]
+
 | 観点 | PASMO（連合） | Suica（単一 JR East 発行者） |
 |---|---|---|
 | 発行権限 | PASMO Co Ltd（連合保有） | JR East が直接発行 |
@@ -63,6 +67,8 @@ PASMO と Suica の相互利用は、基礎となる 2007  開始イベントで
 
 ## Mobile PASMO の世代
 
+以下の表は、エントリ出典インベントリの公開一次資料（pasmo.co.jp, tokyometro.jp, kotsu.metro.tokyo.jp）の範囲に限定して読む。^[source:pasmo.co.jp; tokyometro.jp; kotsu.metro.tokyo.jp; fsa.go.jp]
+
 | 世代 | 年 | 主な特徴 |
 |---|---|---|
 | 物理 PASMO のみ | 2007-2020 | カードベース。連合加盟事業者の券売機でチャージ。 |
@@ -73,6 +79,8 @@ PASMO と Suica の相互利用は、基礎となる 2007  開始イベントで
 Apple Pay PASMO の開始は、以前は物理 PASMO を使い続けるか、Mobile Suica に移るかを迫られていた **非 JR 通勤者** にとってとくに重要でした。Mobile Suica は JR East と連合メンバーネットワークで使えますが、PASMO 定期券をそのまま持ち越せません。
 
 ## KPI スナップショット
+
+以下の表は、エントリ出典インベントリの公開一次資料（pasmo.co.jp, tokyometro.jp, kotsu.metro.tokyo.jp）の範囲に限定して読む。^[source:pasmo.co.jp; tokyometro.jp; kotsu.metro.tokyo.jp; fsa.go.jp]
 
 | 指標 | 読み方（公開情報） |
 |---|---|

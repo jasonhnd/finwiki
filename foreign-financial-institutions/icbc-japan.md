@@ -3,8 +3,8 @@ title: "中国工商銀行 東京支店"
 aliases: ["ICBC Japan", "ICBC Tokyo Branch", "Industrial and Commercial Bank of China Tokyo Branch", "中国工商銀行", "中國工商銀行東京支店"]
 domain: foreign-financial-institutions
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, banking, foreign-bank-branch, china, asia-corridor, operating-branch]
@@ -26,6 +26,8 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 中国工商銀行 東京支店は、金融庁の外国銀行支店一覧に掲載される mainland China / Industrial and Commercial Bank of China の在日銀行支店。1997 年設立の東京支店を軸に、日本国内決済、海外送金、外国為替、貿易決済、法人・個人向け service corridor を扱う。
 
 ## 1. License / branch boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, japan.icbc.com.cn). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; japan.icbc.com.cn]
 
 | Item | Notes |
 |---|---|

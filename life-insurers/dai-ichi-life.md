@@ -13,8 +13,8 @@ aliases:
   - "life-insurers/dai-ichi-life-hd"
 domain: life-insurers
 created: 2026-05-19
-last_updated: 2026-07-29
-last_tended: 2026-07-29
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-10-27
 confidence: certain
 tags: [JapanFG, life-insurance]
@@ -56,6 +56,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ### 主要 KPI（FY2024 = 2025-03 期 連結, 2025-05-15 開示）
 
+The following table is scoped to public primary sources (daiichilife-group.com, dai-ichi-life-hd.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:daiichilife-group.com; dai-ichi-life-hd.com; fsa.go.jp]
+
 | 項目 | FY2024 実績 | YoY |
 |---|---|---|
 | 経常収益 | **9 兆 8,732 億円** | ▲10.5%（前年同期 +1.15 兆減）|
@@ -73,6 +75,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 **FY2025 1H（2025-09 期）実績**: 経常収益 5 兆 1,196 億円（▲1.4%）、経常利益 3,434 億円（▲7.7%）、中間純利益 2,096 億円（▲10.1%）。
 
 ### 主要 KPI（概要 / 業態）
+
+The following table is scoped to public primary sources (daiichilife-group.com, dai-ichi-life-hd.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:daiichilife-group.com; dai-ichi-life-hd.com; fsa.go.jp]
 
 | 項目 | 概要 |
 |---|---|
@@ -103,6 +107,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ### 重要年表（抜粋）
 
+The following table is scoped to public primary sources (daiichilife-group.com, dai-ichi-life-hd.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:daiichilife-group.com; dai-ichi-life-hd.com; fsa.go.jp]
+
 | 年月 | 事象 |
 |---|---|
 | 1902-09 | **創業**（矢野恒太、旧 第一生命保險相互会社、**日本初の相互会社形態保険**）|
@@ -120,6 +126,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 | **2025-05** | **FY2024 決算**：純利益 4,296 億円（+34%）、海外事業初の 1,000 億円超、追加自社株買い 1,000 億円 |
 
 ## 2. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (daiichilife-group.com, dai-ichi-life-hd.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:daiichilife-group.com; dai-ichi-life-hd.com; fsa.go.jp]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

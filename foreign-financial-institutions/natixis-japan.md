@@ -3,8 +3,8 @@ title: "ナティクシス 東京支店"
 aliases: ["Natixis Japan", "Natixis Tokyo Branch", "Natixis CIB Japan", "ナティクシス", "Natixis Corporate & Investment Banking Japan"]
 domain: foreign-financial-institutions
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, banking, foreign-bank-branch, france, wholesale-banking, operating-branch]
@@ -26,6 +26,8 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 ナティクシスは、金融庁の外国銀行支店一覧に掲載される France / Groupe BPCE 系 Natixis CIB の在日銀行支店。2025 年に banking branch 化を公表した比較的新しい P0 foreign-bank branch anchor であり、lending-only presence から broader banking licensed activities へ広げる局面として扱う。
 
 ## 1. License / branch boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, apac.cib.natixis.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; apac.cib.natixis.com]
 
 | Item | Notes |
 |---|---|

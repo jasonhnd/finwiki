@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/tokio-marine-direct
-source_hash: 4ac4b2b267329e10
+source_hash: 93249fb657af5f9e
 lang: ja
 status: machine
 fidelity: ok
 title: "東京海上ダイレクト損害保険"
-translated_at: 2026-06-19T06:09:18.132Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 東京海上ダイレクト損害保険
@@ -19,6 +19,8 @@ translated_at: 2026-06-19T06:09:18.132Z
 東京海上ダイレクト損害保険株式会社は、[[non-life-insurers/tokio-marine]] グループのダイレクト損保。旧イーデザイン損保の系譜を持ち、金融庁の損害保険会社免許一覧では現行の法人名として掲載される。[[non-life-insurers/tokio-marine-nichido-fire]] とは別のダイレクトチャネル事業会社。
 
 ## 1. License / group boundary
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, sonpohogo.or.jp, e-design.net）の範囲に限定して読む。^[source:fsa.go.jp; sonpohogo.or.jp; e-design.net]
 
 | Item | Notes |
 |---|---|

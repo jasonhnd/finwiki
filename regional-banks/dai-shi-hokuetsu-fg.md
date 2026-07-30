@@ -3,8 +3,8 @@ title: 第四北越 FG
 aliases: ["Dai-shi Hokuetsu FG", "Daishi Hokuetsu Financial Group", "第四北越フィナンシャルグループ", "株式会社第四北越フィナンシャルグループ", "第四北越 FG", "DHFG"]
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank]
@@ -57,6 +57,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 > 統合背景：新潟県の人口減少 + 低金利マージン圧迫 + メガバンク法人融資競合 → 一県一行に近い広域地盤統合で対応。共同持株会社化（2018-10）後に銀行合併（2021-01）の 2 段階方式。
 
 ### 重要年表
+
+The following table is scoped to public primary sources (Wikipedia: 第四北越フィナンシャルグループ (2026-05-19 抽出), Wikipedia: 第四北越銀行 (2026-05-19 抽出), Wikipedia: 第四銀行 (2026-05-19 抽出)). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Wikipedia: 第四北越フィナンシャルグループ (2026-05-19 抽出); Wikipedia: 第四北越銀行 (2026-05-19 抽出); Wikipedia: 第四銀行 (2026-05-19 抽出)]
 
 | 年月 | 事象 |
 |---|---|

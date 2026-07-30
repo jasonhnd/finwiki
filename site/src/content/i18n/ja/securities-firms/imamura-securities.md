@@ -1,11 +1,11 @@
 ---
 source: securities-firms/imamura-securities
-source_hash: cf465e38c9ee3dd9
+source_hash: fad03e9f4018c1bd
 lang: ja
 status: machine
 fidelity: ok
 title: "今村証券"
-translated_at: 2026-06-02T14:25:12.422Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 今村証券
 
@@ -18,6 +18,8 @@ translated_at: 2026-06-02T14:25:12.422Z
 今村証券は **石川県金沢市本拠の地域中堅独立証券** (東証 STANDARD **7175**)、北陸地方の対面リテール証券として地元密着のコンサルティング営業を展開する。FSA 金融商品取引業者一覧では「今村証券株式会社」、北陸財務局長(金商)第3号として掲載される。**日本証券業協会 ([[financial-regulators/jsda|JSDA]]) 正会員**。同じ地方拠点の独立中堅証券 ([[securities-firms/iwai-cosmo-hd|岩井コスモ HD]] 大阪 / [[securities-firms/okasan-sg|岡三 SG]] 中京) とは異なる**北陸 (金沢) 単独地域基盤**が特徴で、地元顧客との対面長期関係を主軸とする。
 
 ## 1. 法人・ライセンス境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, jsda.or.jp, imamura-sec.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; jsda.or.jp; imamura-sec.co.jp]
 
 | 項目 | 読み方 |
 |---|---|
@@ -46,11 +48,15 @@ translated_at: 2026-06-02T14:25:12.422Z
 
 ### 重要年表 (公開情報ベース)
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, jsda.or.jp, imamura-sec.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; jsda.or.jp; imamura-sec.co.jp]
+
 | 年月 | 事象 |
 |---|---|
 | 2022-04 | 東証市場区分見直し → 東証 STANDARD (7175) ^[extracted] |
 
 ## 3. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, jsda.or.jp, imamura-sec.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; jsda.or.jp; imamura-sec.co.jp]
 
 | セグメント | 内容 | 特徴 |
 |---|---|---|

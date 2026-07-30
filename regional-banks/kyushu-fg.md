@@ -3,8 +3,8 @@ title: 九州 FG (Kyushu FG)
 aliases: ["Kyushu FG", "九州フィナンシャルグループ", "Kyushu Financial Group", "株式会社九州フィナンシャルグループ", "KFG"]
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank]
@@ -62,6 +62,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ### 重要年表
 
+The following table is scoped to public primary sources (Wikipedia: 九州フィナンシャルグループ (2026-05-19 抽出), Wikipedia: 肥後銀行 (2026-05-19 抽出), Wikipedia: 鹿児島銀行 (2026-05-19 抽出)). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Wikipedia: 九州フィナンシャルグループ (2026-05-19 抽出); Wikipedia: 肥後銀行 (2026-05-19 抽出); Wikipedia: 鹿児島銀行 (2026-05-19 抽出)]
+
 | 年月 | 事象 |
 |---|---|
 | 1879 | 第百三十五国立銀行（後の肥後銀行）+ 第百四十七国立銀行（後の鹿児島銀行）設立 |
@@ -73,6 +75,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 | 2024 | **新中期経営計画**（半導体クラスター対応・地域 DX 強化を含む）|
 
 ## 2. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (Wikipedia: 九州フィナンシャルグループ (2026-05-19 抽出), Wikipedia: 肥後銀行 (2026-05-19 抽出), Wikipedia: 鹿児島銀行 (2026-05-19 抽出)). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Wikipedia: 九州フィナンシャルグループ (2026-05-19 抽出); Wikipedia: 肥後銀行 (2026-05-19 抽出); Wikipedia: 鹿児島銀行 (2026-05-19 抽出)]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

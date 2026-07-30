@@ -6,8 +6,8 @@ aliases:
   - "秋田銀行"
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-16
 confidence: likely
 tags: [JapanFG, regional-bank, tohoku]
@@ -29,6 +29,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## 1. 会社概要
 
+The following table is scoped to public primary sources (akita-bank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:akita-bank.co.jp]
+
 | 項目 | 内容 |
 |---|---|
 | 正式名 | 株式会社 秋田銀行 |
@@ -44,6 +46,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 秋田銀行グループは銀行本体に加え、信用保証、カード、リース、コンサルティング、地域商社、ファンド運営等の 7 グループ会社で地域金融サービスを補完する。
 
 ## 2. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (akita-bank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:akita-bank.co.jp]
 
 | 事業セグメント | 内容 | 観察ポイント |
 |---|---|---|

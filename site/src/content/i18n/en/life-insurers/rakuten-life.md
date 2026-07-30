@@ -1,11 +1,11 @@
 ---
 source: life-insurers/rakuten-life
-source_hash: 3f0dbd258faa471e
+source_hash: a4dee905eaa79cc8
 lang: en
 status: machine
 fidelity: ok
 title: "Rakuten Life Insurance"
-translated_at: 2026-06-01T00:41:50.466Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Rakuten Life Insurance
 
@@ -19,6 +19,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 Rakuten Life Insurance Co., Ltd. is the life-insurance operating company of [[payment-firms/rakuten-fg]] / the Rakuten ecosystem. It is a separate underwriter listed in the FSA life-insurer list and should be viewed as an insurance node that can connect with Rakuten's card, bank, securities, payments, and points ecosystem.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, rakuten-insurance.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; rakuten-insurance.co.jp]
 
 | Item | Notes |
 |---|---|

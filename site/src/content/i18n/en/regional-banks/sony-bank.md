@@ -1,11 +1,11 @@
 ---
 source: regional-banks/sony-bank
-source_hash: f2b80c551a28ff54
+source_hash: 9cdc611db9d0ac22
 lang: en
 status: machine
 fidelity: ok
 title: "Sony Bank (ソニー銀行)"
-translated_at: 2026-06-15T04:09:41.212Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Sony Bank (ソニー銀行)
@@ -19,6 +19,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 Sony Bank Incorporated (ソニー銀行) is an internet-only-bank operating company invested 100% by [[megabanks/sony-fg|ソニーフィナンシャルグループ]]; it holds a banking license under the Banking Act and is listed on the FSA's bank license list as "ソニー銀行株式会社". Per its official company outline, it was established 2001 年 4 月 2 日, with its head office in Uchisaiwaicho, Chiyoda, Tokyo. It is not a payment entity but a net bank whose pillars are retail asset management and asset formation for individuals, such as yen deposits, foreign-currency deposits, investment trusts, mortgages, and the Sony Bank WALLET.
 
 ## 1. Legal entity / license boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, sonybank.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sonybank.jp]
 
 | Item | Reading |
 |---|---|

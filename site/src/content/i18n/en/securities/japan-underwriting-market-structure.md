@@ -1,11 +1,11 @@
 ---
 source: securities/japan-underwriting-market-structure
-source_hash: 15a05a0c8e290982
+source_hash: 973fba82ba45eb37
 lang: en
 status: machine
 fidelity: ok
 title: "Japan underwriting market structure"
-translated_at: 2026-06-01T04:15:40.149Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Japan underwriting market structure
 
@@ -17,6 +17,8 @@ Use this page with [[finance/japan-ib-league-table|Japan IB league table]], [[fi
 
 ## Functional Chain
 
+The following table is scoped to public primary sources (jpx.co.jp, jsda.or.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp; jsda.or.jp; fsa.go.jp; disclosure2.edinet-fsa.go.jp]
+
 | Stage | Main actors | Analytical reading |
 |---|---|---|
 | Issuer preparation | Issuer, auditor, legal adviser, lead securities firm | Governance, accounting, internal controls, equity story, eligibility for the target market. |
@@ -27,6 +29,8 @@ Use this page with [[finance/japan-ib-league-table|Japan IB league table]], [[fi
 | Trading / settlement | Exchange / PTS, [[securities/japan-securities-clearing-corp|JSCC]], [[securities/japan-securities-depository-center|JASDEC]] | The newly issued or sold security enters the market infrastructure layer. |
 
 ## Underwriter Types
+
+The following table is scoped to public primary sources (jpx.co.jp, jsda.or.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp; jsda.or.jp; fsa.go.jp; disclosure2.edinet-fsa.go.jp]
 
 | Type | Typical role | FinWiki pages |
 |---|---|---|
@@ -73,6 +77,8 @@ This is why [[money-market/jgb-repo-market-japan|Japan JGB repo market]] and [[m
 Use the league table to ask "who is active in this slice," then use this page to ask "what role did the firm perform and which regulatory / infrastructure layer mattered?"
 
 ## Risk Controls and Failure Modes
+
+The following table is scoped to public primary sources (jpx.co.jp, jsda.or.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp; jsda.or.jp; fsa.go.jp; disclosure2.edinet-fsa.go.jp]
 
 | Risk | Where it appears |
 |---|---|

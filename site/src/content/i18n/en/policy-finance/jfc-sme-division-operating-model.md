@@ -1,11 +1,11 @@
 ---
 source: policy-finance/jfc-sme-division-operating-model
-source_hash: faa2bdd0574f5252
+source_hash: 47c861e7ea616423
 lang: en
 status: machine
 fidelity: ok
 title: "JFC SME Division operating model (中小企業事業)"
-translated_at: 2026-06-19T13:13:22.624Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # JFC SME Division operating model (中小企業事業)
@@ -20,6 +20,8 @@ JFC 中小企業事業 (SME Division) is one of the three product-bearing divisi
 
 ## 1. 部門位置 within JFC
 
+The following table is scoped to public primary sources (jfc.go.jp, chusho.meti.go.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jfc.go.jp; chusho.meti.go.jp; meti.go.jp]
+
 | Item | Detail |
 |---|---|
 | Parent | [[financial-regulators/jfc|JFC]] (株式会社日本政策金融公庫), 100% state-owned special company |
@@ -33,6 +35,8 @@ JFC 中小企業事業 (SME Division) is one of the three product-bearing divisi
 The division explicitly is **not** the largest by branch count or borrower count (the 国民生活 division wins on both volume metrics). Its weight comes from average ticket size and from being METI's main delivery channel for SME industrial policy.
 
 ### 2.1 Loan-product table
+
+The following table is scoped to public primary sources (jfc.go.jp, chusho.meti.go.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jfc.go.jp; chusho.meti.go.jp; meti.go.jp]
 
 | Product class | Sub-product | Typical purpose | Tenor / ceiling (公開資料ベース) | Counterpart on private side |
 |---|---|---|---|---|
@@ -148,6 +152,8 @@ Although [[financial-regulators/jbic|JBIC]], [[policy-finance/nexi|NEXI]], and [
 These shifts have not changed the division's fundamental operating model — direct lending through ~60 branches with policy overlays delivered via 特別貸付 menus and 利子補給 — but they have rotated the menu composition meaningfully over 2023–2025.
 
 ## 7. Comparative position — JFC SME vs adjacent lanes
+
+The following table is scoped to public primary sources (jfc.go.jp, chusho.meti.go.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jfc.go.jp; chusho.meti.go.jp; meti.go.jp]
 
 | Dimension | JFC SME Division | JFC 国民生活事業 | [[financial-regulators/shoko-chukin\|Shoko Chukin]] | [[policy-finance/japan-credit-guarantee-system\|信用保証協会]] system | Megabank SME lending |
 |---|---|---|---|---|---|

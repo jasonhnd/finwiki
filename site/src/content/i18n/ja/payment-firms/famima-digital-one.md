@@ -1,11 +1,11 @@
 ---
 source: payment-firms/famima-digital-one
-source_hash: cedb66d0ac07de86
+source_hash: caaf5afa328d32d1
 lang: ja
 status: machine
 fidelity: ok
 title: "ファミマデジタルワン (FamiMa Digital One)"
-translated_at: 2026-07-28T20:15:36Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # ファミマデジタルワン (FamiMa Digital One)
@@ -40,6 +40,8 @@ translated_at: 2026-07-28T20:15:36Z
 
 ### 重要年表
 
+以下の表は、エントリ出典インベントリの公開一次資料（famidigi.jp, family.co.jp, fsa.go.jp）の範囲に限定して読む。^[source:famidigi.jp; family.co.jp; fsa.go.jp]
+
 | 年月 | 事象 |
 |---|---|
 | 2000-05-19 | 株式会社ファミマ・ドット・コム設立 |
@@ -56,6 +58,8 @@ translated_at: 2026-07-28T20:15:36Z
 | 2025〜 | FamiPay ステーブルコイン / ブロックチェーン領域は未参入（vs MUFG Progmat） |
 
 ## 2. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（famidigi.jp, family.co.jp, fsa.go.jp）の範囲に限定して読む。^[source:famidigi.jp; family.co.jp; fsa.go.jp]
 
 | サービス | 種別 | 特徴 |
 |---|---|---|
@@ -76,6 +80,8 @@ translated_at: 2026-07-28T20:15:36Z
 - **ハウスポイント独立化**（2024-04 Tポイント解消）: 還元経済を内部完結 → CCC / V ポイントへの依存解消
 
 ### 競合構図
+
+以下の表は、エントリ出典インベントリの公開一次資料（famidigi.jp, family.co.jp, fsa.go.jp）の範囲に限定して読む。^[source:famidigi.jp; family.co.jp; fsa.go.jp]
 
 | 競合 | 経済圏 | コンビニ提携 |
 |---|---|---|

@@ -1,11 +1,11 @@
 ---
 source: regional-banks/fukui-bank
-source_hash: 050bdba2bc737844
+source_hash: f669b5af54b5e5f3
 lang: en
 status: machine
 fidelity: ok
 title: "Fukui Bank"
-translated_at: 2026-06-15T04:09:41.187Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Fukui Bank
@@ -20,6 +20,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 The Fukui Bank, Ltd. (株式会社福井銀行) is a regional bank (first-tier regional bank) headquartered in Fukui City, Fukui Prefecture, holding a bank license under the Banking Act and listed on the FSA's bank license list. As a regional bank on the Hokuriku / Chubu boundary, it has a standalone operating-company anchor in the wiki. Per official information, it has made the Fukuho Bank — also of Fukui Prefecture — a wholly owned subsidiary as of 2024-10-01, and a subsequent merger has been announced (merger agreement signed 2024-11-08, effective date scheduled for 2026-05-02). The substance of the business is the standard regional-bank model of taking in deposits within the prefecture and lending to SMEs, individuals, and local governments.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, fukuibank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; fukuibank.co.jp]
 
 | Item | Notes |
 |---|---|

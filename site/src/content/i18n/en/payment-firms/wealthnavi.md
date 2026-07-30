@@ -1,11 +1,11 @@
 ---
 source: payment-firms/wealthnavi
-source_hash: 7343b6423d2a3b09
+source_hash: a3e3ad5e7d2c0c5d
 lang: en
 status: machine
 fidelity: ok
 title: "WealthNavi Inc. (WealthNavi)"
-translated_at: 2026-06-19T06:09:18.121Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # WealthNavi Inc. (WealthNavi)
@@ -31,6 +31,8 @@ The largest domestic robo-advisory-type asset-management service. **Assets under
 
 ### Founder background ^[extracted]
 
+The following table is scoped to public primary sources (mufg.jp, corp.wealthnavi.com, prtimes.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:mufg.jp; corp.wealthnavi.com; prtimes.jp; financial.jiji.com]
+
 | Item | Content |
 |---|---|
 | Name | Kazuhisa Shibayama |
@@ -39,6 +41,8 @@ The largest domestic robo-advisory-type asset-management service. **Assets under
 | Founding motivation | Advocating "supporting the prosperity of the working generation," introduced US-style robo-advisory (Betterment / Wealthfront) to Japan |
 
 ### Main business figures (based on public information)
+
+The following table is scoped to public primary sources (mufg.jp, corp.wealthnavi.com, prtimes.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:mufg.jp; corp.wealthnavi.com; prtimes.jp; financial.jiji.com]
 
 | Item | Figure |
 |---|---|
@@ -64,6 +68,8 @@ WealthNavi Inc.
 
 ### Key chronology ^[extracted]
 
+The following table is scoped to public primary sources (mufg.jp, corp.wealthnavi.com, prtimes.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:mufg.jp; corp.wealthnavi.com; prtimes.jp; financial.jiji.com]
+
 | Year/Month | Event |
 |---|---|
 | 2015-04-28 | Kazuhisa Shibayama establishes WealthNavi Inc. (Shibuya-ku, Tokyo) |
@@ -81,6 +87,8 @@ WealthNavi Inc.
 
 ## 2. Business segment map
 
+The following table is scoped to public primary sources (mufg.jp, corp.wealthnavi.com, prtimes.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:mufg.jp; corp.wealthnavi.com; prtimes.jp; financial.jiji.com]
+
 | Segment | Service | Characteristics |
 |---|---|---|
 | Individual asset management | WealthNavi (own) | Fully automated / long-term diversified investment / centered on US ETFs |
@@ -97,6 +105,8 @@ WealthNavi Inc.
 - **Auto-rebalance** (1  times per half-year + triggered upon deviation)
 
 ### Competitive position
+
+The following table is scoped to public primary sources (mufg.jp, corp.wealthnavi.com, prtimes.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:mufg.jp; corp.wealthnavi.com; prtimes.jp; financial.jiji.com]
 
 | Player | Parent company | Scale of assets under management (estimated, varies by point in time)| Characteristics |
 |---|---|---|---|

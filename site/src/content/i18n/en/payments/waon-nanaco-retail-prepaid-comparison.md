@@ -1,11 +1,11 @@
 ---
 source: payments/waon-nanaco-retail-prepaid-comparison
-source_hash: 591f52e7b4b7a270
+source_hash: 5f1eb9a75046dca1
 lang: en
 status: machine
 fidelity: ok
 title: "WAON vs nanaco: retail prepaid e-money comparison"
-translated_at: 2026-06-19T06:09:18.170Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # WAON vs nanaco: retail prepaid e-money comparison
@@ -19,6 +19,8 @@ This entry sits under [[payments/INDEX|payments index]] as the AEON vs Seven & i
 **WAON** (operated by AEON, anchored at AEON mall / supermarket / convenience-store network) and **nanaco** (operated by Seven Card Service, anchored at Seven & i Group convenience stores and Ito-Yokado supermarkets) are the two principal **retail-anchored prepaid e-money brands** in Japan. Both run on FeliCa (same technology stack as [[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|Suica / PASMO / ICOCA]]), both register as third-party prepaid payment instruments under FSA, both are tightly integrated with their parent retail-group loyalty programs (WAON POINT and nanacoポイント), and both are paired with a group bank (AEON Bank, Seven Bank) for charge / ATM convenience. The competitive dynamic is **closed-loop within group retail** rather than open-merchant code-payment competition — comparable to FamiPay but executed on FeliCa prepaid rather than QR code. Their installed-base position is sticky but growth has slowed as code payment ([[payment-firms/paypay|PayPay]], [[payment-firms/au-payment|au PAY]], 楽天ペイ, d払い) has captured the marginal new-user cohort.
 
 ## Side-by-side issuer overview
+
+The following table is scoped to public primary sources (waon.net, aeon.co.jp, aeonbank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:waon.net; aeon.co.jp; aeonbank.co.jp; aeonfinancial.co.jp]
 
 | Dimension | WAON | nanaco |
 |---|---|---|
@@ -42,6 +44,8 @@ This entry sits under [[payments/INDEX|payments index]] as the AEON vs Seven & i
 
 The retail-prepaid economic model depends heavily on what funding rail the consumer uses to load the prepaid balance. Each rail has a different cost / margin profile for the issuer.
 
+The following table is scoped to public primary sources (waon.net, aeon.co.jp, aeonbank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:waon.net; aeon.co.jp; aeonbank.co.jp; aeonfinancial.co.jp]
+
 | Funding rail | WAON support | nanaco support |
 |---|---|---|
 | Cash at register | Yes, all AEON-group stores | Yes, all 7-Eleven / Ito-Yokado |
@@ -60,6 +64,8 @@ The principal economic case for retail-anchored prepaid is **frequency-and-margi
 
 ### AEON / WAON integration touchpoints
 
+The following table is scoped to public primary sources (waon.net, aeon.co.jp, aeonbank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:waon.net; aeon.co.jp; aeonbank.co.jp; aeonfinancial.co.jp]
+
 | Touchpoint | Integration |
 |---|---|
 | AEON, MaxValu, AEON Style supermarket | WAON acceptance, AEON Card preferred-pricing, WAON POINT earning at higher multiple |
@@ -73,6 +79,8 @@ The principal economic case for retail-anchored prepaid is **frequency-and-margi
 | AEON's お客さま感謝デー (20th, 30th of month 5% discount) | Tied to AEON Card / WAON usage |
 
 ### Seven & i / nanaco integration touchpoints
+
+The following table is scoped to public primary sources (waon.net, aeon.co.jp, aeonbank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:waon.net; aeon.co.jp; aeonbank.co.jp; aeonfinancial.co.jp]
 
 | Touchpoint | Integration |
 |---|---|
@@ -93,6 +101,8 @@ The **国税納付 via nanaco** feature was historically a notable cross-product
 
 Edy (operated by [[payment-firms/rakuten-edy|Rakuten Edy]]) is the closest peer that is **not** anchored on a specific retail group's owned store network. Edy launched 2001 (predating both WAON and nanaco) and pursued a platform-style merchant acceptance strategy: any merchant that wants FeliCa prepaid acceptance can install an Edy reader and contract with Rakuten Edy. This created broader cross-merchant acceptance than WAON or nanaco achieved, but without the same group-retail economic anchor.
 
+The following table is scoped to public primary sources (waon.net, aeon.co.jp, aeonbank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:waon.net; aeon.co.jp; aeonbank.co.jp; aeonfinancial.co.jp]
+
 | Dimension | WAON | nanaco | Edy |
 |---|---|---|---|
 | Retail anchor | AEON group | Seven & i group | None — open merchant network |
@@ -108,6 +118,8 @@ All three retail-prepaid brands have launched **adjacent QR / code-payment produ
 ## Prepaid Payment Instrument Act treatment
 
 Both WAON and nanaco are registered as **third-party prepaid payment instruments** under the Payment Services Act. The same obligations as for transit prepaid apply:
+
+The following table is scoped to public primary sources (waon.net, aeon.co.jp, aeonbank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:waon.net; aeon.co.jp; aeonbank.co.jp; aeonfinancial.co.jp]
 
 | Obligation | Detail |
 |---|---|
@@ -128,6 +140,8 @@ The contrast with AEON Pay (AEON's QR-code wallet, launched after Seven Pay's wi
 ## Group-bank funding cost advantage
 
 The economic significance of the **group-bank tie-in** for WAON and nanaco is a recurring under-appreciated point. When a consumer auto-charges WAON from an AEON Bank account, the funding-cost-to-issuer (AEON Financial Service / WAON operations) is essentially zero because the bank-to-wallet flow is internal to the AEON group. Compare with:
+
+The following table is scoped to public primary sources (waon.net, aeon.co.jp, aeonbank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:waon.net; aeon.co.jp; aeonbank.co.jp; aeonfinancial.co.jp]
 
 | Funding rail comparison | WAON ex-AEON Bank | WAON ex-external credit card |
 |---|---|---|

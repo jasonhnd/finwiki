@@ -1,12 +1,12 @@
 ---
 source: payments/japan-payment-clearing-and-settlement-infrastructure
-source_hash: 21d8d902c60b350a
+source_hash: 6651baa39f380b2a
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Japan payment 清算 and 決済 infrastructure"
-translated_at: 2026-06-26T08:32:15.204Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan payment 清算 and 決済 infrastructure
@@ -18,6 +18,8 @@ translated_at: 2026-06-26T08:32:15.204Z
 このページは [[payments/INDEX|payments domain]] に属し、[[payments/account-to-account-payment-japan|account-to-account payment route]]、[[payments/merchant-bank-pay-account-direct-acquiring|加盟店 bank-account direct アクワイアリング]]、[[payments/funds-transfer-vs-prepaid-boundary|資金移動 vs 前払式 boundary]]、[[payments/japan-bank-api-payment-agency-route|bank API route]]、[[payments/japan-bank-api-incident-and-fraud-control|bank API incident and fraud-control map]]、[[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]]、[[payments/card-acquiring-japan-stack|Japan card acquiring stack]]、[[banking/quick-deposit-four-methods|quick deposit four methods]]、[[financial-licenses/INDEX|JapanFG legal / financial licenses]] にリンクする。
 
 ## Infrastructure Map
+
+以下の表は、エントリ出典インベントリの公開一次資料（boj.or.jp, zengin-net.jp, cotra.ne.jp）の範囲に限定して読む。^[source:boj.or.jp; zengin-net.jp; cotra.ne.jp; jeppo.jp]
 
 | Layer | Public system / route | Public function |
 |---|---|---|
@@ -53,6 +55,8 @@ translated_at: 2026-06-26T08:32:15.204Z
 
 JEPPO は口座連動の決済インフラを推進する。その公開のサービスページは、J-Debit と Bank Pay を中核の口座連動決済サービスとして特定する。
 
+以下の表は、エントリ出典インベントリの公開一次資料（boj.or.jp, zengin-net.jp, cotra.ne.jp）の範囲に限定して読む。^[source:boj.or.jp; zengin-net.jp; cotra.ne.jp; jeppo.jp]
+
 | Service | Public model |
 |---|---|
 | J-Debit | 顧客がキャッシュカードを提示し暗証番号を入力する。資金は銀行口座から即時に引き落とされ、加盟店には後で支払われる。 |
@@ -61,6 +65,8 @@ JEPPO は口座連動の決済インフラを推進する。その公開のサ�
 | Bank Pay adjacent functions | 加盟店決済、ことら送金、請求書払いのフローが同一のアプリ画面に併存しうる。 |
 
 ## Product-To-Infrastructure Crosswalk
+
+以下の表は、エントリ出典インベントリの公開一次資料（boj.or.jp, zengin-net.jp, cotra.ne.jp）の範囲に限定して読む。^[source:boj.or.jp; zengin-net.jp; cotra.ne.jp; jeppo.jp]
 
 | Product surface | Infrastructure route |
 |---|---|
@@ -74,6 +80,8 @@ JEPPO は口座連動の決済インフラを推進する。その公開のサ�
 | ウォレット top-up | 条件に応じて、銀行 API、カード、資金移動、前払式、または口座間経路。 |
 
 ## Public Record Fields
+
+以下の表は、エントリ出典インベントリの公開一次資料（boj.or.jp, zengin-net.jp, cotra.ne.jp）の範囲に限定して読む。^[source:boj.or.jp; zengin-net.jp; cotra.ne.jp; jeppo.jp]
 
 | 項目 | Source route |
 |---|---|

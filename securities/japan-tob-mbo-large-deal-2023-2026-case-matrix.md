@@ -7,8 +7,8 @@ aliases:
   - "公開買付け MBO 大型案件 2023-2026 マトリクス"
 domain: securities
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [securities, M&A, TOB, MBO, tender-offer, squeeze-out, fair-M&A, JFTC, special-committee, large-deal, 2023-2026, japan, matrix]
@@ -63,6 +63,8 @@ The set is mixed-completion: some deals are completed and settled, some are stil
 
 ## Master comparison matrix
 
+The following table is scoped to public primary sources (fsa.go.jp, meti.go.jp, jftc.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; meti.go.jp; jftc.go.jp; jpx.co.jp]
+
 | Case | Target (ticker / market) | Acquirer | Deal value | Premium % | Offer mechanism | Defense response | METI Fair M&A alignment | JFTC review | Special committee role | Outcome |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Toshiba ← JIP** | Toshiba (6502, TSE Prime) | **Domestic PE consortium led by JIP** (with [[JapanFG/orix|ORIX]], Chubu Electric Power, CDPQ-aligned LPs etc.) | ~¥2tn | ~10-12% over pre-process market | [[finance/japan-tender-offer-process|TOB]] then [[finance/japan-mbo-and-squeeze-out-process|squeeze-out]] via share consolidation | None (cooperative process post strategic-review committee) | Full alignment — multi-year strategic-review committee, MoM consideration, fairness opinion | JFTC Phase I cleared (no Phase II) | Independent special committee centrally drove process | **Success — TOB and squeeze-out completed; delisting 2024-Q1** |
@@ -79,6 +81,8 @@ Several rows above are reference cases included to scaffold the comparison; the 
 ## Dimension reading
 
 ### Target type (parent-subsidiary vs unrelated PE / strategic)
+
+The following table is scoped to public primary sources (fsa.go.jp, meti.go.jp, jftc.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; meti.go.jp; jftc.go.jp; jpx.co.jp]
 
 | Target type | Examples in matrix | Practical consequence |
 |---|---|---|

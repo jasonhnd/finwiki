@@ -3,8 +3,8 @@ title: 住友生命保険相互会社 (Sumitomo Life)
 aliases: ["住友生命", "Sumitomo Life", "Sumitomo Life Insurance Company", "スミセイ"]
 domain: life-insurers
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, life-insurance, mutual-company]
@@ -39,6 +39,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 **業態**：大手 4 生保の一角（日本生命・第一生命・住友生命・明治安田生命）^[extracted]
 
 ### 業界位置
+
+The following table is scoped to public primary sources (Wikipedia: 住友生命保険 (2026-05-19 抽出), 住友生命 公式サイト 会社情報 / 沿革 (2026-05-19 アクセス)). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Wikipedia: 住友生命保険 (2026-05-19 抽出); 住友生命 公式サイト 会社情報 / 沿革 (2026-05-19 アクセス)]
 
 | 区分 | 内容 |
 |---|---|
@@ -78,6 +80,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 | 2024 | 中期経営計画 発表（Vitality 拡大・海外 2 軸強化路線）|
 
 ## 2. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (Wikipedia: 住友生命保険 (2026-05-19 抽出), 住友生命 公式サイト 会社情報 / 沿革 (2026-05-19 アクセス)). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Wikipedia: 住友生命保険 (2026-05-19 抽出); 住友生命 公式サイト 会社情報 / 沿革 (2026-05-19 アクセス)]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

@@ -1,12 +1,12 @@
 ---
 source: payments/psp-merchant-settlement-risk
-source_hash: a10e0427754465dd
+source_hash: c8c82beefbcc9c93
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "PSP の加盟店精算リスク"
-translated_at: 2026-06-26T08:32:23.054Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # PSP の加盟店精算リスク
 
@@ -15,6 +15,8 @@ translated_at: 2026-06-26T08:32:23.054Z
 このページは [[payments/card-acquiring-japan-stack|Japan card acquiring stack]]、[[payments/funds-transfer-service-providers-japan-index|資金移動 registry]]、[[payments/japan-code-payment-competitive-map|コード決済 competitive map]] と併せて読む。[[payment-firms/gmo-payment-gateway|GMO-PG]]、[[payment-firms/sb-payment-service|SBPS]]、[[payment-firms/dg-financial-technology|DGFT]]、[[payment-firms/netstars|Netstars]] などの会社ページは、加盟店リスクが真の論点である場合にここへリンクする。
 
 ## リスクスタック
+
+以下の表は、エントリ出典インベントリの公開一次資料（meti.go.jp, fsa.go.jp, paymentsjapan.or.jp）の範囲に限定して読む。^[source:meti.go.jp; fsa.go.jp; paymentsjapan.or.jp]
 
 | レイヤー | リスク | 典型的な管理 |
 |---|---|---|
@@ -28,6 +30,8 @@ translated_at: 2026-06-26T08:32:23.054Z
 
 ## 日本の規制ルート
 
+以下の表は、エントリ出典インベントリの公開一次資料（meti.go.jp, fsa.go.jp, paymentsjapan.or.jp）の範囲に限定して読む。^[source:meti.go.jp; fsa.go.jp; paymentsjapan.or.jp]
+
 | ルート | 公開上の関連性 |
 |---|---|
 | METI クレジットカード番号等取扱契約締結事業者 | 割賦販売法上、誰が加盟店契約 / カード番号取扱責任を負うかを決める。 |
@@ -37,6 +41,8 @@ translated_at: 2026-06-26T08:32:23.054Z
 | キャッシュレス推進協議会の刊行物 | コード決済利用、加盟店受入動向、業界標準化作業の追跡に有用である。 |
 
 ## 会社を見る視点
+
+以下の表は、エントリ出典インベントリの公開一次資料（meti.go.jp, fsa.go.jp, paymentsjapan.or.jp）の範囲に限定して読む。^[source:meti.go.jp; fsa.go.jp; paymentsjapan.or.jp]
 
 | 事業者タイプ | 例 | 主な問い |
 |---|---|---|

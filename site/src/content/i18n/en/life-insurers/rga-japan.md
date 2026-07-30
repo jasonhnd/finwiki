@@ -1,11 +1,11 @@
 ---
 source: life-insurers/rga-japan
-source_hash: 43de985f16d42cc8
+source_hash: 8f2a2718e47aae96
 lang: en
 status: machine
 fidelity: ok
 title: "RGA Reinsurance Company Japan Branch"
-translated_at: 2026-06-01T00:41:50.466Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # RGA Reinsurance Company Japan Branch
 
@@ -18,6 +18,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 This is the Japan branch of RGA Reinsurance Company, a subsidiary of U.S.-based Reinsurance Group of America, Inc. (NYSE: RGA). As the Japan branch of one of the world's largest specialist reinsurers focused on **life & health reinsurance**, it is listed in the FSA life-insurance company license list (foreign life insurers, etc.). It assumes mortality, medical, longevity, and disability risks of Japanese life insurers with global capital.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (rgare.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:rgare.com; fsa.go.jp]
 
 | Item | Notes |
 |---|---|

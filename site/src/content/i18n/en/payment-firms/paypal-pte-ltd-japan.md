@@ -1,11 +1,11 @@
 ---
 source: payment-firms/paypal-pte-ltd-japan
-source_hash: 85aca538dfb0c1a8
+source_hash: 1bcd2eac8db79858
 lang: en
 status: machine
 fidelity: ok
 title: "PayPal Pte. Ltd. Japan service boundary"
-translated_at: 2026-06-01T00:41:50.453Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # PayPal Pte. Ltd. Japan service boundary
 
@@ -18,6 +18,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 PayPal services in Japan are managed through Payment Services Act disclosures for PayPal Pte. Ltd. The official disclosures distinguish third-party prepaid payment instruments for personal accounts from Type II funds-transfer services for premier / business accounts, so it is important not to read consumer wallets and merchant checkout as the same surface merely because they share the PayPal name.
 
 ## 1. Legal entity / license boundary
+
+The following table is scoped to public primary sources (paypal.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:paypal.com; fsa.go.jp]
 
 | Item | Reading |
 |---|---|

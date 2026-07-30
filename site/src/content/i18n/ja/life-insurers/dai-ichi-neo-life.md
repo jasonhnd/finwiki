@@ -1,11 +1,11 @@
 ---
 source: life-insurers/dai-ichi-neo-life
-source_hash: d6bf2fed7a47ba31
+source_hash: 4dc7d9a46e720c1e
 lang: ja
 status: machine
 fidelity: ok
 title: "第一ネオ生命保険"
-translated_at: 2026-06-15T03:48:21.880Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 第一ネオ生命保険
@@ -19,6 +19,8 @@ translated_at: 2026-06-15T03:48:21.880Z
 第一ネオ生命保険株式会社は、保険業法上の生命保険会社免許を持ち金融庁の生命保険会社免許一覧に掲載される、[[life-insurers/dai-ichi-life|第一ライフグループ]] のスペシャルティ生命保険事業会社。2026 年 4 月 1 日、親会社の第一生命ホールディングスが「株式会社第一ライフグループ」へ商号変更しグループブランドを「Daiichi Life」へ統一するのに合わせ、**旧「ネオファースト生命」から「第一ネオ生命」へ社名変更**したため、本ページで exact-name anchor と name-change boundary を置く。
 
 ## 1. ライセンス／グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, neofirst.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; neofirst.co.jp]
 
 | 項目 | 注記 |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: securities/tokyo-stock-exchange
-source_hash: 59838f179deac4e1
+source_hash: 1e670dcd80640ca4
 lang: en
 status: machine
 fidelity: ok
 title: "Tokyo Stock Exchange (TSE)"
-translated_at: 2026-06-01T04:15:40.149Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Tokyo Stock Exchange (TSE)
 
@@ -22,6 +22,8 @@ For FinWiki, TSE is the route for listing, public-company disclosure, market seg
 
 ## System Map
 
+The following table is scoped to public primary sources (jpx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp]
+
 | Layer | TSE reading |
 |---|---|
 | Parent | [[financial-regulators/japan-exchange-group|Japan Exchange Group]] |
@@ -31,6 +33,8 @@ For FinWiki, TSE is the route for listing, public-company disclosure, market seg
 | Adjacent entities | Japan Exchange Regulation, [[securities/japan-securities-clearing-corp|JSCC]], [[securities/japan-securities-depository-center|JASDEC]]. |
 
 ## Market Functions
+
+The following table is scoped to public primary sources (jpx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp]
 
 | Function | Why it matters |
 |---|---|

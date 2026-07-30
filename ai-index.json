@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-07-30T21:03:58+09:00",
+  "generated_at": "2026-07-30T21:11:46+09:00",
   "counts": {
-    "markdown_files": 1608,
-    "public_markdown_pages": 1607,
+    "markdown_files": 1609,
+    "public_markdown_pages": 1608,
     "site_urls_in_sitemap": 1482,
     "topical_domains": 40,
     "link_audited_entries": 1489,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 10948797,
-    "word_like_tokens": 1760233,
+    "nonspace_utf8_chars": 11184904,
+    "word_like_tokens": 1803288,
     "entity_anchors": 12,
     "entity_mirror_pages": 12,
     "entity_nodes": 89,
@@ -2641,9 +2641,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 7710,
-      "word_like_tokens": 1241,
-      "last_modified": "2026-06-09"
+      "nonspace_chars": 8333,
+      "word_like_tokens": 1343,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "CHANGELOG.md",
@@ -2663,11 +2663,11 @@
         "日本語",
         "English",
         "中文",
-        "2026-07-30 - Table provenance batch 09 corrections (#239)",
+        "2026-07-30 - Table provenance batches 10-14 + opinions quarantine (#240-#244, #193)",
         "日本語",
         "English",
         "中文",
-        "2026-07-29 - Table provenance batch 08 corrections (#238)"
+        "2026-07-30 - Table provenance batch 09 corrections (#239)"
       ],
       "wikilinks": [],
       "resolved_wikilinks": [],
@@ -2676,8 +2676,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 275363,
-      "word_like_tokens": 50679,
+      "nonspace_chars": 279267,
+      "word_like_tokens": 51344,
       "last_modified": "2026-07-30"
     },
     {
@@ -46500,9 +46500,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2562,
-      "word_like_tokens": 392,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2795,
+      "word_like_tokens": 434,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/banco-do-brasil-japan.md",
@@ -46559,9 +46559,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4600,
-      "word_like_tokens": 721,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 4823,
+      "word_like_tokens": 763,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/bangkok-bank-japan.md",
@@ -46620,9 +46620,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4650,
-      "word_like_tokens": 701,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 5172,
+      "word_like_tokens": 789,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/bank-negara-indonesia-japan.md",
@@ -46677,9 +46677,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3888,
-      "word_like_tokens": 611,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 4135,
+      "word_like_tokens": 659,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/bank-of-america-japan.md",
@@ -46738,9 +46738,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 3232,
-      "word_like_tokens": 492,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 3710,
+      "word_like_tokens": 576,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/bank-of-china-japan.md",
@@ -46788,9 +46788,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2484,
-      "word_like_tokens": 395,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2719,
+      "word_like_tokens": 435,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/bank-of-communications-japan.md",
@@ -46962,9 +46962,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2144,
-      "word_like_tokens": 340,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2369,
+      "word_like_tokens": 382,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/barclays-japan.md",
@@ -47032,9 +47032,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6277,
-      "word_like_tokens": 985,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 6786,
+      "word_like_tokens": 1073,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/bbva-bank-japan.md",
@@ -47082,9 +47082,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2523,
-      "word_like_tokens": 386,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 2744,
+      "word_like_tokens": 426,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/bnp-paribas-japan.md",
@@ -47146,9 +47146,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 6831,
-      "word_like_tokens": 1199,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 8328,
+      "word_like_tokens": 1487,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/bny-mellon-japan.md",
@@ -47226,9 +47226,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 5217,
-      "word_like_tokens": 758,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 5814,
+      "word_like_tokens": 860,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/chang-hwa-bank-japan.md",
@@ -47287,9 +47287,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4123,
-      "word_like_tokens": 647,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 4350,
+      "word_like_tokens": 687,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/china-construction-bank-japan.md",
@@ -47335,9 +47335,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2422,
-      "word_like_tokens": 374,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2663,
+      "word_like_tokens": 420,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/citigroup-japan.md",
@@ -47397,9 +47397,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 4319,
-      "word_like_tokens": 673,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 5468,
+      "word_like_tokens": 883,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/clearstream-banking-japan.md",
@@ -47519,9 +47519,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2852,
-      "word_like_tokens": 424,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3117,
+      "word_like_tokens": 468,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/commonwealth-bank-japan.md",
@@ -47628,9 +47628,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3009,
-      "word_like_tokens": 472,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3234,
+      "word_like_tokens": 514,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/ctbc-bank-japan.md",
@@ -47728,9 +47728,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2236,
-      "word_like_tokens": 363,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 2455,
+      "word_like_tokens": 403,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/deutsche-japan.md",
@@ -47794,9 +47794,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 4814,
-      "word_like_tokens": 756,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 6029,
+      "word_like_tokens": 966,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/esun-bank-japan.md",
@@ -47842,9 +47842,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2176,
-      "word_like_tokens": 348,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2405,
+      "word_like_tokens": 388,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/euroclear-bank-japan.md",
@@ -47908,9 +47908,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6908,
-      "word_like_tokens": 1042,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 7370,
+      "word_like_tokens": 1122,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/first-commercial-bank-japan.md",
@@ -47965,9 +47965,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4152,
-      "word_like_tokens": 622,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 4389,
+      "word_like_tokens": 664,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/foreign-bank-branches-japan-index.md",
@@ -48124,9 +48124,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 12761,
-      "word_like_tokens": 1633,
-      "last_modified": "2026-07-29"
+      "nonspace_chars": 13167,
+      "word_like_tokens": 1705,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/hana-bank-japan.md",
@@ -48176,9 +48176,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2420,
-      "word_like_tokens": 386,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2671,
+      "word_like_tokens": 432,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/hsbc-japan.md",
@@ -48234,9 +48234,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 4170,
-      "word_like_tokens": 676,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 4539,
+      "word_like_tokens": 744,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/icbc-japan.md",
@@ -48282,9 +48282,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2476,
-      "word_like_tokens": 409,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2715,
+      "word_like_tokens": 453,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/industrial-bank-of-korea-japan.md",
@@ -48336,9 +48336,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2362,
-      "word_like_tokens": 384,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2631,
+      "word_like_tokens": 434,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/ing-bank-japan.md",
@@ -48386,9 +48386,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2722,
-      "word_like_tokens": 426,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 2945,
+      "word_like_tokens": 466,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/intesa-sanpaolo-japan.md",
@@ -48438,9 +48438,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3168,
-      "word_like_tokens": 488,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3421,
+      "word_like_tokens": 530,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/jpmorgan-japan.md",
@@ -48500,9 +48500,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 4741,
-      "word_like_tokens": 784,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 5168,
+      "word_like_tokens": 854,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/kb-kookmin-bank-japan.md",
@@ -48552,9 +48552,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2249,
-      "word_like_tokens": 361,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2520,
+      "word_like_tokens": 409,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/korea-development-bank-japan.md",
@@ -48608,9 +48608,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2526,
-      "word_like_tokens": 390,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2749,
+      "word_like_tokens": 432,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/mega-icbc-japan.md",
@@ -48658,9 +48658,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2472,
-      "word_like_tokens": 372,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2707,
+      "word_like_tokens": 414,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/metrobank-japan.md",
@@ -48717,9 +48717,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4460,
-      "word_like_tokens": 660,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 4729,
+      "word_like_tokens": 708,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/national-australia-bank-japan.md",
@@ -48772,9 +48772,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4637,
-      "word_like_tokens": 693,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 5151,
+      "word_like_tokens": 793,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/national-bank-of-pakistan-japan.md",
@@ -48827,9 +48827,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3885,
-      "word_like_tokens": 608,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 4136,
+      "word_like_tokens": 654,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/natixis-japan.md",
@@ -48875,9 +48875,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2797,
-      "word_like_tokens": 427,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3042,
+      "word_like_tokens": 471,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/ocbc-bank-japan.md",
@@ -48923,9 +48923,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2506,
-      "word_like_tokens": 399,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 2727,
+      "word_like_tokens": 439,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/philippine-national-bank-japan.md",
@@ -48982,9 +48982,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4144,
-      "word_like_tokens": 629,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 4369,
+      "word_like_tokens": 671,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/rbc-japan.md",
@@ -49032,9 +49032,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2784,
-      "word_like_tokens": 429,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3007,
+      "word_like_tokens": 469,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/socgen-japan.md",
@@ -49093,9 +49093,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3450,
-      "word_like_tokens": 462,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 4092,
+      "word_like_tokens": 558,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/standard-chartered-japan.md",
@@ -49151,9 +49151,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4415,
-      "word_like_tokens": 638,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 4612,
+      "word_like_tokens": 672,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/state-bank-of-india-japan.md",
@@ -49225,9 +49225,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4861,
-      "word_like_tokens": 770,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 5116,
+      "word_like_tokens": 814,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/state-street-japan.md",
@@ -49305,9 +49305,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 6417,
-      "word_like_tokens": 1002,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 7347,
+      "word_like_tokens": 1178,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/taipei-fubon-bank-japan.md",
@@ -49362,9 +49362,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4482,
-      "word_like_tokens": 704,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 4928,
+      "word_like_tokens": 784,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/taishin-bank-japan.md",
@@ -49421,9 +49421,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3770,
-      "word_like_tokens": 568,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 4011,
+      "word_like_tokens": 610,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/taiwan-business-bank-japan.md",
@@ -49531,9 +49531,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3968,
-      "word_like_tokens": 603,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 4482,
+      "word_like_tokens": 703,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/ubaf-japan.md",
@@ -49588,9 +49588,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3813,
-      "word_like_tokens": 598,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 4032,
+      "word_like_tokens": 638,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/ubs-japan.md",
@@ -49642,9 +49642,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3838,
-      "word_like_tokens": 689,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 4275,
+      "word_like_tokens": 775,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/uob-bank-japan.md",
@@ -49688,9 +49688,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2574,
-      "word_like_tokens": 415,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 2803,
+      "word_like_tokens": 455,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "foreign-financial-institutions/wells-fargo-japan.md",
@@ -49794,9 +49794,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2535,
-      "word_like_tokens": 401,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2804,
+      "word_like_tokens": 449,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "frontmatter-canonical-anchor-field-proposal.md",
@@ -50260,9 +50260,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 7575,
-      "word_like_tokens": 1170,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 8065,
+      "word_like_tokens": 1264,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "insurance/cooperative-insurance-system-japan.md",
@@ -50333,9 +50333,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 14582,
-      "word_like_tokens": 2238,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 14873,
+      "word_like_tokens": 2290,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "insurance/earthquake-insurance-public-private-scheme.md",
@@ -50592,9 +50592,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 18865,
-      "word_like_tokens": 2883,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 20419,
+      "word_like_tokens": 3171,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "insurance/foreign-reinsurer-japan-landscape.md",
@@ -50742,9 +50742,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 14258,
-      "word_like_tokens": 2305,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 15914,
+      "word_like_tokens": 2599,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "insurance/insurance-agency-and-brokerage-japan.md",
@@ -50813,9 +50813,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6147,
-      "word_like_tokens": 904,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 6374,
+      "word_like_tokens": 946,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "insurance/internet-life-insurance-business-model.md",
@@ -50946,9 +50946,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 13381,
-      "word_like_tokens": 2117,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 13654,
+      "word_like_tokens": 2171,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "insurance/japan-bancassurance-distribution-overlay-matrix.md",
@@ -51110,9 +51110,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 34025,
-      "word_like_tokens": 5214,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 34832,
+      "word_like_tokens": 5367,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "insurance/japan-iaig-ics-mapping.md",
@@ -51198,9 +51198,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 17417,
-      "word_like_tokens": 2699,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 19174,
+      "word_like_tokens": 3021,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "insurance/japan-insurance-system-overview.md",
@@ -51338,9 +51338,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 12676,
-      "word_like_tokens": 1790,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 14254,
+      "word_like_tokens": 2090,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "insurance/japan-kyosai-vs-fsa-insurance-perimeter-matrix.md",
@@ -51471,9 +51471,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 32421,
-      "word_like_tokens": 5000,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 35051,
+      "word_like_tokens": 5520,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "insurance/japan-life-big-four-overlay-comparison-matrix.md",
@@ -51576,9 +51576,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 33652,
-      "word_like_tokens": 5241,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 35764,
+      "word_like_tokens": 5633,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "insurance/japan-life-insurance-alm-overview.md",
@@ -51654,9 +51654,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 15740,
-      "word_like_tokens": 2499,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 16505,
+      "word_like_tokens": 2652,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "insurance/japan-life-insurance-big-four.md",
@@ -51720,9 +51720,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6874,
-      "word_like_tokens": 997,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 7460,
+      "word_like_tokens": 1107,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "insurance/japan-medical-insurance-rider-product-matrix.md",
@@ -51850,9 +51850,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 28610,
-      "word_like_tokens": 4344,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 29654,
+      "word_like_tokens": 4548,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "insurance/japan-non-life-underwriting-cycle.md",
@@ -51934,9 +51934,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 16108,
-      "word_like_tokens": 2460,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 16672,
+      "word_like_tokens": 2562,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "insurance/japan-nonlife-big-three-reinsurance-cat-matrix.md",
@@ -52030,9 +52030,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 31335,
-      "word_like_tokens": 4849,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 32411,
+      "word_like_tokens": 5041,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "insurance/japan-nonlife-big-three.md",
@@ -52179,9 +52179,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 13383,
-      "word_like_tokens": 2204,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 13654,
+      "word_like_tokens": 2252,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "insurance/life-insurance-channel-mix.md",
@@ -52239,9 +52239,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3698,
-      "word_like_tokens": 533,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3973,
+      "word_like_tokens": 585,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "insurance/lloyds-japan-syndicate-operating-model.md",
@@ -52319,9 +52319,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 7094,
-      "word_like_tokens": 1159,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 7592,
+      "word_like_tokens": 1251,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "insurance/marine-insurance-and-pi-cover-market.md",
@@ -52401,9 +52401,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 9401,
-      "word_like_tokens": 1567,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 9683,
+      "word_like_tokens": 1615,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "insurance/medical-cancer-insurance-product-economics.md",
@@ -52485,9 +52485,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 14686,
-      "word_like_tokens": 2287,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 14950,
+      "word_like_tokens": 2337,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "insurance/mutual-vs-stock-life-insurer.md",
@@ -52545,9 +52545,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3755,
-      "word_like_tokens": 570,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3982,
+      "word_like_tokens": 612,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "insurance/natcat-reinsurance-japan.md",
@@ -52742,9 +52742,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 19832,
-      "word_like_tokens": 3203,
-      "last_modified": "2026-07-29"
+      "nonspace_chars": 20884,
+      "word_like_tokens": 3395,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "leasing-firms/INDEX.md",
@@ -54696,9 +54696,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4493,
-      "word_like_tokens": 742,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 4712,
+      "word_like_tokens": 782,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "life-insurers/asahi-life.md",
@@ -54750,9 +54750,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2173,
-      "word_like_tokens": 328,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2434,
+      "word_like_tokens": 378,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "life-insurers/axa-japan.md",
@@ -54816,9 +54816,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4292,
-      "word_like_tokens": 656,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 4535,
+      "word_like_tokens": 696,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "life-insurers/cardif-life.md",
@@ -54868,9 +54868,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2266,
-      "word_like_tokens": 346,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2529,
+      "word_like_tokens": 396,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "life-insurers/credit-agricole-life.md",
@@ -54928,9 +54928,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3348,
-      "word_like_tokens": 460,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 3597,
+      "word_like_tokens": 508,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "life-insurers/dai-ichi-frontier-life.md",
@@ -54980,9 +54980,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2302,
-      "word_like_tokens": 355,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2573,
+      "word_like_tokens": 407,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "life-insurers/dai-ichi-life-insurance.md",
@@ -55036,9 +55036,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3110,
-      "word_like_tokens": 476,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 3377,
+      "word_like_tokens": 528,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "life-insurers/dai-ichi-life.md",
@@ -55094,9 +55094,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 6551,
-      "word_like_tokens": 1143,
-      "last_modified": "2026-07-29"
+      "nonspace_chars": 7707,
+      "word_like_tokens": 1351,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "life-insurers/dai-ichi-neo-life.md",
@@ -55148,9 +55148,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2970,
-      "word_like_tokens": 441,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 3227,
+      "word_like_tokens": 489,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "life-insurers/daido-life.md",
@@ -55200,9 +55200,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 1998,
-      "word_like_tokens": 323,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2259,
+      "word_like_tokens": 373,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "life-insurers/fukoku-life.md",
@@ -55250,9 +55250,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2161,
-      "word_like_tokens": 332,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2424,
+      "word_like_tokens": 382,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "life-insurers/fukokushinrai-life.md",
@@ -55306,9 +55306,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3202,
-      "word_like_tokens": 450,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 3469,
+      "word_like_tokens": 498,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "life-insurers/fwd-life-japan.md",
@@ -55358,9 +55358,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2157,
-      "word_like_tokens": 346,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2412,
+      "word_like_tokens": 394,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "life-insurers/gibraltar-life.md",
@@ -55408,9 +55408,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2029,
-      "word_like_tokens": 312,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2286,
+      "word_like_tokens": 362,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "life-insurers/hanasaku-life.md",
@@ -55458,9 +55458,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 1933,
-      "word_like_tokens": 300,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2190,
+      "word_like_tokens": 348,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "life-insurers/kampo-life.md",
@@ -55520,9 +55520,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 4382,
-      "word_like_tokens": 666,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 4599,
+      "word_like_tokens": 702,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "life-insurers/lifenet.md",
@@ -55678,9 +55678,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 1994,
-      "word_like_tokens": 299,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2255,
+      "word_like_tokens": 345,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "life-insurers/meiji-yasuda-trust-life.md",
@@ -55730,9 +55730,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2885,
-      "word_like_tokens": 417,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 3186,
+      "word_like_tokens": 470,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "life-insurers/meiji-yasuda.md",
@@ -55788,9 +55788,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 4753,
-      "word_like_tokens": 698,
-      "last_modified": "2026-07-29"
+      "nonspace_chars": 4972,
+      "word_like_tokens": 734,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "life-insurers/metlife-japan.md",
@@ -55910,9 +55910,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2941,
-      "word_like_tokens": 409,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 3200,
+      "word_like_tokens": 457,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "life-insurers/mitsui-sumitomo-aioi-life.md",
@@ -55960,9 +55960,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2107,
-      "word_like_tokens": 338,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2364,
+      "word_like_tokens": 388,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "life-insurers/ms-primary-life.md",
@@ -56016,9 +56016,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3152,
-      "word_like_tokens": 470,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 3422,
+      "word_like_tokens": 522,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "life-insurers/nanairo-life.md",
@@ -56066,9 +56066,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 1970,
-      "word_like_tokens": 303,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2233,
+      "word_like_tokens": 351,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "life-insurers/nippon-life.md",
@@ -56128,9 +56128,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 6971,
-      "word_like_tokens": 1219,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 7598,
+      "word_like_tokens": 1327,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "life-insurers/nissay-wealth-life.md",
@@ -56180,9 +56180,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2022,
-      "word_like_tokens": 305,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2277,
+      "word_like_tokens": 355,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "life-insurers/nn-life-japan.md",
@@ -56234,9 +56234,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2133,
-      "word_like_tokens": 324,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2386,
+      "word_like_tokens": 372,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "life-insurers/orix-life.md",
@@ -56298,9 +56298,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6835,
-      "word_like_tokens": 1114,
-      "last_modified": "2026-06-25"
+      "nonspace_chars": 7090,
+      "word_like_tokens": 1162,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "life-insurers/pacific-life-re-japan.md",
@@ -56360,9 +56360,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5196,
-      "word_like_tokens": 832,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 5435,
+      "word_like_tokens": 872,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "life-insurers/pgf-life.md",
@@ -56414,9 +56414,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3225,
-      "word_like_tokens": 456,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 3482,
+      "word_like_tokens": 506,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "life-insurers/prudential-japan.md",
@@ -56472,9 +56472,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5414,
-      "word_like_tokens": 790,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 5697,
+      "word_like_tokens": 830,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "life-insurers/rakuten-life.md",
@@ -56530,9 +56530,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2278,
-      "word_like_tokens": 337,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2553,
+      "word_like_tokens": 387,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "life-insurers/rga-japan.md",
@@ -56586,9 +56586,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2923,
-      "word_like_tokens": 425,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 3146,
+      "word_like_tokens": 465,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "life-insurers/sbi-life.md",
@@ -56644,9 +56644,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2151,
-      "word_like_tokens": 339,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2406,
+      "word_like_tokens": 387,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "life-insurers/sompo-himawari-life.md",
@@ -56694,9 +56694,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2222,
-      "word_like_tokens": 359,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2489,
+      "word_like_tokens": 409,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "life-insurers/sony-life.md",
@@ -56752,9 +56752,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 2221,
-      "word_like_tokens": 352,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 2478,
+      "word_like_tokens": 400,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "life-insurers/sumitomo-life.md",
@@ -56808,9 +56808,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 3753,
-      "word_like_tokens": 577,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 4375,
+      "word_like_tokens": 693,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "life-insurers/taiju-life.md",
@@ -56862,9 +56862,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2096,
-      "word_like_tokens": 320,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2357,
+      "word_like_tokens": 370,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "life-insurers/taiyo-life.md",
@@ -56910,9 +56910,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2079,
-      "word_like_tokens": 334,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2344,
+      "word_like_tokens": 384,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "life-insurers/td-financial-life.md",
@@ -56960,9 +56960,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2110,
-      "word_like_tokens": 345,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2367,
+      "word_like_tokens": 395,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "life-insurers/td-hd.md",
@@ -57016,9 +57016,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3668,
-      "word_like_tokens": 641,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 3911,
+      "word_like_tokens": 691,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "life-insurers/tokio-marine-nichido-life.md",
@@ -57066,9 +57066,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2199,
-      "word_like_tokens": 348,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2460,
+      "word_like_tokens": 398,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "life-insurers/zurich-life.md",
@@ -57118,9 +57118,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2131,
-      "word_like_tokens": 335,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2392,
+      "word_like_tokens": 383,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "loyalty/INDEX.md",
@@ -61230,9 +61230,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 9594,
-      "word_like_tokens": 1598,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 10000,
+      "word_like_tokens": 1670,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "money-market/call-market-structure.md",
@@ -61308,9 +61308,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 8745,
-      "word_like_tokens": 1399,
-      "last_modified": "2026-06-15"
+      "nonspace_chars": 8948,
+      "word_like_tokens": 1435,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "money-market/japan-cp-commercial-paper-market.md",
@@ -61399,9 +61399,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 9084,
-      "word_like_tokens": 1450,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 9578,
+      "word_like_tokens": 1542,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "money-market/japan-mmf-money-market-mutual-fund.md",
@@ -61493,9 +61493,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 8983,
-      "word_like_tokens": 1464,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 9838,
+      "word_like_tokens": 1617,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "money-market/japan-money-market-benchmark-reform-tona.md",
@@ -61567,9 +61567,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 8301,
-      "word_like_tokens": 1381,
-      "last_modified": "2026-06-15"
+      "nonspace_chars": 8747,
+      "word_like_tokens": 1465,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "money-market/japan-money-market.md",
@@ -61709,9 +61709,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 7810,
-      "word_like_tokens": 1271,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 8055,
+      "word_like_tokens": 1319,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "money-market/japan-repo-transaction-structures-gensaki-cash-collateralized-securities-lending.md",
@@ -61874,9 +61874,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 25480,
-      "word_like_tokens": 4217,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 25703,
+      "word_like_tokens": 4259,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "money-market/japan-tbill-treasury-discount-bill.md",
@@ -61956,9 +61956,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 7630,
-      "word_like_tokens": 1287,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 7853,
+      "word_like_tokens": 1329,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "money-market/japan-tibor-benchmark-rate.md",
@@ -62026,9 +62026,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 8456,
-      "word_like_tokens": 1367,
-      "last_modified": "2026-06-15"
+      "nonspace_chars": 9215,
+      "word_like_tokens": 1511,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "money-market/japan-torf-term-risk-free-rate.md",
@@ -62442,9 +62442,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3928,
-      "word_like_tokens": 648,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 4430,
+      "word_like_tokens": 736,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/aioi-nissay-dowa-insurance.md",
@@ -62494,9 +62494,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2157,
-      "word_like_tokens": 332,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2434,
+      "word_like_tokens": 380,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/allianz-fire-marine-japan.md",
@@ -62546,9 +62546,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2458,
-      "word_like_tokens": 376,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 2707,
+      "word_like_tokens": 418,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/american-home-insurance-japan.md",
@@ -62596,9 +62596,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2461,
-      "word_like_tokens": 402,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 2702,
+      "word_like_tokens": 444,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/anicom-hd.md",
@@ -62644,9 +62644,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2854,
-      "word_like_tokens": 432,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 3117,
+      "word_like_tokens": 480,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/anicom-insurance.md",
@@ -62694,9 +62694,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2186,
-      "word_like_tokens": 337,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2459,
+      "word_like_tokens": 387,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/au-insurance.md",
@@ -62748,9 +62748,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2157,
-      "word_like_tokens": 341,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2422,
+      "word_like_tokens": 391,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/capital-insurance.md",
@@ -62800,9 +62800,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2259,
-      "word_like_tokens": 357,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 2502,
+      "word_like_tokens": 401,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/cardif-nonlife.md",
@@ -62851,9 +62851,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2613,
-      "word_like_tokens": 413,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 2858,
+      "word_like_tokens": 457,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/chubb-insurance-japan.md",
@@ -62903,9 +62903,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2379,
-      "word_like_tokens": 389,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 2602,
+      "word_like_tokens": 429,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/dai-ichi-ipet-insurance.md",
@@ -62956,9 +62956,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3625,
-      "word_like_tokens": 601,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3898,
+      "word_like_tokens": 649,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/daido-fire-marine.md",
@@ -63066,9 +63066,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5091,
-      "word_like_tokens": 783,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 5320,
+      "word_like_tokens": 823,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/gen-re-japan.md",
@@ -63121,9 +63121,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2967,
-      "word_like_tokens": 455,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 3190,
+      "word_like_tokens": 495,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/hannover-re-japan.md",
@@ -63175,9 +63175,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2885,
-      "word_like_tokens": 446,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 3120,
+      "word_like_tokens": 488,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/hs-insurance.md",
@@ -63227,9 +63227,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2334,
-      "word_like_tokens": 378,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 2567,
+      "word_like_tokens": 422,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/hyundai-marine-fire-japan.md",
@@ -63279,9 +63279,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2523,
-      "word_like_tokens": 401,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 2762,
+      "word_like_tokens": 443,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/ja-kyosairen.md",
@@ -63405,9 +63405,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2353,
-      "word_like_tokens": 348,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2624,
+      "word_like_tokens": 396,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/ji-accident-fire-insurance.md",
@@ -63456,9 +63456,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2306,
-      "word_like_tokens": 367,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 2537,
+      "word_like_tokens": 409,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/kyoritsu-fire-marine.md",
@@ -63508,9 +63508,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4199,
-      "word_like_tokens": 674,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 4592,
+      "word_like_tokens": 744,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/lloyd-japan.md",
@@ -63564,9 +63564,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4639,
-      "word_like_tokens": 761,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 4864,
+      "word_like_tokens": 801,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/meiji-yasuda-general-insurance.md",
@@ -63616,9 +63616,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2154,
-      "word_like_tokens": 339,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2437,
+      "word_like_tokens": 389,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/mitsui-direct.md",
@@ -63664,9 +63664,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2082,
-      "word_like_tokens": 325,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2357,
+      "word_like_tokens": 375,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/mitsui-sumitomo-insurance.md",
@@ -63733,9 +63733,9 @@
           "confidence": "likely"
         }
       ],
-      "nonspace_chars": 2698,
-      "word_like_tokens": 425,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 2955,
+      "word_like_tokens": 473,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/msad.md",
@@ -63787,9 +63787,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 5623,
-      "word_like_tokens": 952,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 6157,
+      "word_like_tokens": 1052,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/munich-re-japan.md",
@@ -63843,9 +63843,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3261,
-      "word_like_tokens": 473,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 3490,
+      "word_like_tokens": 513,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/nisshin-fire.md",
@@ -63889,9 +63889,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2041,
-      "word_like_tokens": 319,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2312,
+      "word_like_tokens": 367,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/nonlife-insurer-registry-japan-index.md",
@@ -64075,9 +64075,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 14921,
-      "word_like_tokens": 2301,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 15180,
+      "word_like_tokens": 2349,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/ntt-docomo-sompo-hd.md",
@@ -64129,9 +64129,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2411,
-      "word_like_tokens": 382,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2654,
+      "word_like_tokens": 426,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/ntt-docomo-sonpo.md",
@@ -64186,9 +64186,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3741,
-      "word_like_tokens": 615,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 4004,
+      "word_like_tokens": 663,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/pet-and-family-insurance.md",
@@ -64239,9 +64239,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3359,
-      "word_like_tokens": 576,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3600,
+      "word_like_tokens": 618,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/qbe-japan.md",
@@ -64297,9 +64297,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4411,
-      "word_like_tokens": 698,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 4630,
+      "word_like_tokens": 738,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/rakuten-general-insurance.md",
@@ -64347,9 +64347,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2200,
-      "word_like_tokens": 338,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2475,
+      "word_like_tokens": 388,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/rakuten-insurance-hd.md",
@@ -64397,9 +64397,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2059,
-      "word_like_tokens": 304,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2304,
+      "word_like_tokens": 350,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/rescue-insurance.md",
@@ -64447,9 +64447,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2299,
-      "word_like_tokens": 362,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 2554,
+      "word_like_tokens": 410,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/saison-automobile-fire-insurance.md",
@@ -64505,9 +64505,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6035,
-      "word_like_tokens": 944,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 7023,
+      "word_like_tokens": 1120,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/sakura-insurance.md",
@@ -64555,9 +64555,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2329,
-      "word_like_tokens": 357,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 2566,
+      "word_like_tokens": 401,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/sbi-insurance-group.md",
@@ -64669,9 +64669,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2248,
-      "word_like_tokens": 359,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2513,
+      "word_like_tokens": 407,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/scor-japan.md",
@@ -64723,9 +64723,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2711,
-      "word_like_tokens": 428,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2932,
+      "word_like_tokens": 468,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/secom-insurance.md",
@@ -64773,9 +64773,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2297,
-      "word_like_tokens": 352,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2568,
+      "word_like_tokens": 402,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/sompo-direct.md",
@@ -64823,9 +64823,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2107,
-      "word_like_tokens": 323,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2380,
+      "word_like_tokens": 373,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/sompo-japan-insurance.md",
@@ -64898,9 +64898,9 @@
           "confidence": "likely"
         }
       ],
-      "nonspace_chars": 2567,
-      "word_like_tokens": 405,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 2838,
+      "word_like_tokens": 455,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/sompo.md",
@@ -65012,9 +65012,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2014,
-      "word_like_tokens": 312,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2281,
+      "word_like_tokens": 360,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/starr-insurance-japan.md",
@@ -65070,9 +65070,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4664,
-      "word_like_tokens": 731,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 4905,
+      "word_like_tokens": 771,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/swiss-re-japan.md",
@@ -65122,9 +65122,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3018,
-      "word_like_tokens": 450,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 3245,
+      "word_like_tokens": 490,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/toa-reinsurance.md",
@@ -65176,9 +65176,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2200,
-      "word_like_tokens": 337,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2459,
+      "word_like_tokens": 385,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/tokio-marine-direct.md",
@@ -65224,9 +65224,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2182,
-      "word_like_tokens": 342,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2443,
+      "word_like_tokens": 390,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/tokio-marine-nichido-fire.md",
@@ -65299,9 +65299,9 @@
           "confidence": "likely"
         }
       ],
-      "nonspace_chars": 2709,
-      "word_like_tokens": 420,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 2996,
+      "word_like_tokens": 470,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/tokio-marine.md",
@@ -65355,9 +65355,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 5293,
-      "word_like_tokens": 929,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 5795,
+      "word_like_tokens": 1017,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/yamap-naturance-insurance.md",
@@ -65416,9 +65416,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3682,
-      "word_like_tokens": 598,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3953,
+      "word_like_tokens": 648,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/zenkankyo-reiwa-insurance.md",
@@ -65466,9 +65466,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2653,
-      "word_like_tokens": 446,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 2896,
+      "word_like_tokens": 490,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-life-insurers/zenrosai.md",
@@ -65596,9 +65596,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4327,
-      "word_like_tokens": 621,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 4740,
+      "word_like_tokens": 695,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-profit/INDEX.md",
@@ -65790,9 +65790,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2581,
-      "word_like_tokens": 470,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 3115,
+      "word_like_tokens": 574,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-profit/japan-ippan-vs-koeki-shadan-houjin.md",
@@ -65842,9 +65842,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6936,
-      "word_like_tokens": 1130,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 7779,
+      "word_like_tokens": 1301,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-profit/japan-iryou-houjin.md",
@@ -65896,9 +65896,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6435,
-      "word_like_tokens": 1147,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 6694,
+      "word_like_tokens": 1199,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-profit/japan-josei-zaidan-grant-making.md",
@@ -65950,9 +65950,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6826,
-      "word_like_tokens": 1170,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 7107,
+      "word_like_tokens": 1227,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-profit/japan-koeki-houjin-accounting-standard.md",
@@ -66052,9 +66052,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 12961,
-      "word_like_tokens": 2141,
-      "last_modified": "2026-06-03"
+      "nonspace_chars": 14157,
+      "word_like_tokens": 2377,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-profit/japan-nintei-npo-houjin-tax-benefits.md",
@@ -66104,9 +66104,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6740,
-      "word_like_tokens": 1162,
-      "last_modified": "2026-06-03"
+      "nonspace_chars": 7015,
+      "word_like_tokens": 1216,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-profit/japan-npo-houjin-overview.md",
@@ -66160,9 +66160,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 7228,
-      "word_like_tokens": 1197,
-      "last_modified": "2026-06-03"
+      "nonspace_chars": 7778,
+      "word_like_tokens": 1305,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-profit/japan-research-grant-map-2026.md",
@@ -66212,9 +66212,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2792,
-      "word_like_tokens": 433,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 3076,
+      "word_like_tokens": 484,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-profit/japan-shakai-fukushi-houjin.md",
@@ -66266,9 +66266,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6795,
-      "word_like_tokens": 1154,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 7064,
+      "word_like_tokens": 1209,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "non-profit/japan-shuukyou-houjin.md",
@@ -66526,9 +66526,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2265,
-      "word_like_tokens": 346,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 2496,
+      "word_like_tokens": 386,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/american-express-international-japan.md",
@@ -66584,9 +66584,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3858,
-      "word_like_tokens": 590,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 4135,
+      "word_like_tokens": 637,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/atone.md",
@@ -66639,9 +66639,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2621,
-      "word_like_tokens": 390,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 2892,
+      "word_like_tokens": 436,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/au-payment.md",
@@ -66710,9 +66710,9 @@
           "confidence": "likely"
         }
       ],
-      "nonspace_chars": 2616,
-      "word_like_tokens": 436,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 2853,
+      "word_like_tokens": 480,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/bitflyer.md",
@@ -66772,9 +66772,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5052,
-      "word_like_tokens": 813,
-      "last_modified": "2026-07-29"
+      "nonspace_chars": 5811,
+      "word_like_tokens": 951,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/bittrade.md",
@@ -66832,9 +66832,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3881,
-      "word_like_tokens": 620,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 4120,
+      "word_like_tokens": 660,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/bnpl-landscape.md",
@@ -66900,9 +66900,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4686,
-      "word_like_tokens": 720,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 4981,
+      "word_like_tokens": 770,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/dg-financial-technology.md",
@@ -66950,9 +66950,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2199,
-      "word_like_tokens": 332,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 2452,
+      "word_like_tokens": 378,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/diners-club-japan.md",
@@ -67006,9 +67006,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3855,
-      "word_like_tokens": 582,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 4118,
+      "word_like_tokens": 631,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/dock-financial.md",
@@ -67070,9 +67070,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5939,
-      "word_like_tokens": 988,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 7259,
+      "word_like_tokens": 1223,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/famima-digital-one.md",
@@ -67128,9 +67128,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4729,
-      "word_like_tokens": 792,
-      "last_modified": "2026-07-29"
+      "nonspace_chars": 5235,
+      "word_like_tokens": 884,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/freee.md",
@@ -67246,9 +67246,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5448,
-      "word_like_tokens": 950,
-      "last_modified": "2026-07-29"
+      "nonspace_chars": 5914,
+      "word_like_tokens": 1030,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/gmo-coin.md",
@@ -67308,9 +67308,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4615,
-      "word_like_tokens": 794,
-      "last_modified": "2026-07-29"
+      "nonspace_chars": 5290,
+      "word_like_tokens": 920,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/gmo-epsilon.md",
@@ -67358,9 +67358,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2114,
-      "word_like_tokens": 325,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 2341,
+      "word_like_tokens": 365,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/gmo-financial-hd.md",
@@ -67434,9 +67434,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6885,
-      "word_like_tokens": 1162,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 7554,
+      "word_like_tokens": 1276,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/gmo-payment-gateway.md",
@@ -67500,9 +67500,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 4152,
-      "word_like_tokens": 752,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 4562,
+      "word_like_tokens": 824,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/gmo-postpay.md",
@@ -67559,9 +67559,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2979,
-      "word_like_tokens": 476,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3228,
+      "word_like_tokens": 524,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/ibank-marketing.md",
@@ -67627,9 +67627,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6013,
-      "word_like_tokens": 950,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 6559,
+      "word_like_tokens": 1046,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/infcurion.md",
@@ -67748,9 +67748,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3132,
-      "word_like_tokens": 518,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3355,
+      "word_like_tokens": 560,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/jcb-international.md",
@@ -67805,9 +67805,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3230,
-      "word_like_tokens": 507,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3435,
+      "word_like_tokens": 541,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/jpyc.md",
@@ -67863,9 +67863,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 2082,
-      "word_like_tokens": 336,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 2323,
+      "word_like_tokens": 382,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/kuroneko-atobarai.md",
@@ -67920,9 +67920,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2730,
-      "word_like_tokens": 397,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 2977,
+      "word_like_tokens": 439,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/kyash.md",
@@ -67974,9 +67974,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2053,
-      "word_like_tokens": 331,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 2274,
+      "word_like_tokens": 371,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/mastercard-japan.md",
@@ -68030,9 +68030,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3112,
-      "word_like_tokens": 478,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3329,
+      "word_like_tokens": 514,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/mercari-hd.md",
@@ -68100,9 +68100,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 7074,
-      "word_like_tokens": 1292,
-      "last_modified": "2026-07-29"
+      "nonspace_chars": 8358,
+      "word_like_tokens": 1528,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/merpay.md",
@@ -68171,9 +68171,9 @@
           "confidence": "likely"
         }
       ],
-      "nonspace_chars": 2450,
-      "word_like_tokens": 344,
-      "last_modified": "2026-06-26"
+      "nonspace_chars": 2725,
+      "word_like_tokens": 394,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/money-forward.md",
@@ -68225,9 +68225,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4153,
-      "word_like_tokens": 762,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 4462,
+      "word_like_tokens": 820,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/net-protections-hd.md",
@@ -68286,9 +68286,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3651,
-      "word_like_tokens": 528,
-      "last_modified": "2026-06-26"
+      "nonspace_chars": 3955,
+      "word_like_tokens": 575,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/netstars.md",
@@ -68342,9 +68342,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3225,
-      "word_like_tokens": 507,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3480,
+      "word_like_tokens": 555,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/olta.md",
@@ -68465,9 +68465,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 4127,
-      "word_like_tokens": 688,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 4905,
+      "word_like_tokens": 832,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/payoneer-japan.md",
@@ -68515,9 +68515,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2539,
-      "word_like_tokens": 382,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 2768,
+      "word_like_tokens": 422,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/paypal-pte-ltd-japan.md",
@@ -68569,9 +68569,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2337,
-      "word_like_tokens": 361,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 2562,
+      "word_like_tokens": 401,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/paypay.md",
@@ -68642,9 +68642,9 @@
           "confidence": "likely"
         }
       ],
-      "nonspace_chars": 2382,
-      "word_like_tokens": 351,
-      "last_modified": "2026-06-26"
+      "nonspace_chars": 2623,
+      "word_like_tokens": 395,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/pring.md",
@@ -68692,9 +68692,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2467,
-      "word_like_tokens": 381,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 2716,
+      "word_like_tokens": 427,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/progmat.md",
@@ -68752,9 +68752,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 2413,
-      "word_like_tokens": 371,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 2624,
+      "word_like_tokens": 407,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/rakuten-edy.md",
@@ -68808,9 +68808,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2621,
-      "word_like_tokens": 404,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 2884,
+      "word_like_tokens": 454,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/rakuten-fg.md",
@@ -68872,9 +68872,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 6797,
-      "word_like_tokens": 1302,
-      "last_modified": "2026-07-29"
+      "nonspace_chars": 7550,
+      "word_like_tokens": 1434,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/recruit-mufg-business.md",
@@ -68930,9 +68930,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3021,
-      "word_like_tokens": 497,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3294,
+      "word_like_tokens": 545,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/revolut-technologies-japan.md",
@@ -68982,9 +68982,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2121,
-      "word_like_tokens": 332,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 2348,
+      "word_like_tokens": 372,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/sb-payment-service.md",
@@ -69040,9 +69040,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 2421,
-      "word_like_tokens": 347,
-      "last_modified": "2026-06-26"
+      "nonspace_chars": 2658,
+      "word_like_tokens": 389,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/sbi-remit.md",
@@ -69092,9 +69092,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2551,
-      "word_like_tokens": 406,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 2808,
+      "word_like_tokens": 454,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/seven-payment-service.md",
@@ -69142,9 +69142,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 1916,
-      "word_like_tokens": 322,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 2133,
+      "word_like_tokens": 362,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/smartbank.md",
@@ -69192,9 +69192,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2436,
-      "word_like_tokens": 384,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 2693,
+      "word_like_tokens": 430,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/travelex-japan.md",
@@ -69242,9 +69242,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2474,
-      "word_like_tokens": 373,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 2707,
+      "word_like_tokens": 415,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/unionpay-international-japan.md",
@@ -69300,9 +69300,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2978,
-      "word_like_tokens": 431,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3195,
+      "word_like_tokens": 465,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/visa-worldwide-japan.md",
@@ -69357,9 +69357,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3509,
-      "word_like_tokens": 568,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3714,
+      "word_like_tokens": 604,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/wealthnavi.md",
@@ -69415,9 +69415,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5418,
-      "word_like_tokens": 922,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 5978,
+      "word_like_tokens": 1016,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/western-union-japan.md",
@@ -69467,9 +69467,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2621,
-      "word_like_tokens": 414,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 2858,
+      "word_like_tokens": 454,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/wise-payments-japan.md",
@@ -69523,9 +69523,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2360,
-      "word_like_tokens": 334,
-      "last_modified": "2026-06-26"
+      "nonspace_chars": 2617,
+      "word_like_tokens": 380,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payment-firms/zaim.md",
@@ -69581,9 +69581,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2594,
-      "word_like_tokens": 410,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 2839,
+      "word_like_tokens": 452,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payments/INDEX.md",
@@ -69874,9 +69874,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 8412,
-      "word_like_tokens": 1332,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 9171,
+      "word_like_tokens": 1470,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payments/amazon-gift-card-japan.md",
@@ -69934,9 +69934,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 8220,
-      "word_like_tokens": 1351,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 8471,
+      "word_like_tokens": 1399,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payments/apple-gift-card-japan.md",
@@ -69994,9 +69994,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 8336,
-      "word_like_tokens": 1349,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 8606,
+      "word_like_tokens": 1398,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payments/card-acquiring-japan-stack.md",
@@ -70049,9 +70049,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5060,
-      "word_like_tokens": 762,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 5470,
+      "word_like_tokens": 834,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payments/cashless-jp-landscape.md",
@@ -70131,9 +70131,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 7756,
-      "word_like_tokens": 1226,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 8551,
+      "word_like_tokens": 1370,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payments/credit-purchase-card-operators-japan-index.md",
@@ -70243,9 +70243,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5776,
-      "word_like_tokens": 819,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 6186,
+      "word_like_tokens": 891,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payments/edy-rakuten-prepaid.md",
@@ -70310,9 +70310,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 8267,
-      "word_like_tokens": 1334,
-      "last_modified": "2026-07-29"
+      "nonspace_chars": 9722,
+      "word_like_tokens": 1604,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payments/famipay-valucreate-strategy.md",
@@ -70382,9 +70382,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 13378,
-      "word_like_tokens": 2105,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 13914,
+      "word_like_tokens": 2203,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payments/funds-transfer-service-providers-japan-index.md",
@@ -70489,9 +70489,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6190,
-      "word_like_tokens": 920,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 6799,
+      "word_like_tokens": 1028,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payments/funds-transfer-vs-prepaid-boundary.md",
@@ -70553,9 +70553,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5839,
-      "word_like_tokens": 926,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 6448,
+      "word_like_tokens": 1034,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payments/google-play-gift-card-japan.md",
@@ -70613,9 +70613,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 8585,
-      "word_like_tokens": 1389,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 9163,
+      "word_like_tokens": 1491,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payments/japan-bank-api-incident-and-fraud-control.md",
@@ -70698,9 +70698,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6853,
-      "word_like_tokens": 1032,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 7259,
+      "word_like_tokens": 1104,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payments/japan-bank-api-payment-agency-route.md",
@@ -70778,9 +70778,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 7471,
-      "word_like_tokens": 1167,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 8499,
+      "word_like_tokens": 1359,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payments/japan-bnpl-credit-purchase-boundary.md",
@@ -70861,9 +70861,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6161,
-      "word_like_tokens": 932,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 6396,
+      "word_like_tokens": 976,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payments/japan-bnpl-pay-later-operator-registry-matrix.md",
@@ -70991,9 +70991,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 34995,
-      "word_like_tokens": 5648,
-      "last_modified": "2026-07-29"
+      "nonspace_chars": 36020,
+      "word_like_tokens": 5828,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payments/japan-card-issuer-acquirer-processor-split.md",
@@ -71072,9 +71072,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6379,
-      "word_like_tokens": 943,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 6849,
+      "word_like_tokens": 1031,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payments/japan-card-security-authentication-controls.md",
@@ -71158,9 +71158,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 8806,
-      "word_like_tokens": 1300,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 9604,
+      "word_like_tokens": 1456,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payments/japan-code-payment-competitive-map.md",
@@ -71243,9 +71243,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4547,
-      "word_like_tokens": 679,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 4812,
+      "word_like_tokens": 727,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payments/japan-code-payment-operator-2025-market-share-matrix.md",
@@ -71363,9 +71363,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 28189,
-      "word_like_tokens": 4809,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 29038,
+      "word_like_tokens": 4959,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payments/japan-consumer-credit-operator-comparison-matrix.md",
@@ -71472,9 +71472,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 27078,
-      "word_like_tokens": 4505,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 27898,
+      "word_like_tokens": 4649,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payments/japan-interchange-and-merchant-fee-stack.md",
@@ -71554,9 +71554,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 7017,
-      "word_like_tokens": 1033,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 8085,
+      "word_like_tokens": 1225,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payments/japan-jcb-issuer-ecosystem-positioning-matrix.md",
@@ -71671,9 +71671,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 36927,
-      "word_like_tokens": 6284,
-      "last_modified": "2026-06-23"
+      "nonspace_chars": 37915,
+      "word_like_tokens": 6468,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payments/japan-merchant-psp-competitive-scorecard.md",
@@ -71793,9 +71793,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 33688,
-      "word_like_tokens": 5497,
-      "last_modified": "2026-07-29"
+      "nonspace_chars": 34704,
+      "word_like_tokens": 5681,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payments/japan-payment-clearing-and-settlement-infrastructure.md",
@@ -71879,9 +71879,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 8348,
-      "word_like_tokens": 1273,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 9041,
+      "word_like_tokens": 1399,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payments/japan-payment-fraud-incident-timeline-2023-2025.md",
@@ -71953,9 +71953,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 15176,
-      "word_like_tokens": 2369,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 16961,
+      "word_like_tokens": 2719,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payments/japan-payment-scheme-economics-matrix.md",
@@ -72035,9 +72035,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 22677,
-      "word_like_tokens": 3828,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 25127,
+      "word_like_tokens": 4248,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payments/japan-prepaid-electronic-money-operator-matrix.md",
@@ -72123,9 +72123,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 36720,
-      "word_like_tokens": 6216,
-      "last_modified": "2026-07-29"
+      "nonspace_chars": 37322,
+      "word_like_tokens": 6328,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payments/japan-transit-prepaid-suica-pasmo-icoca-economics.md",
@@ -72199,9 +72199,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 15102,
-      "word_like_tokens": 2463,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 15942,
+      "word_like_tokens": 2616,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payments/jcb-three-party-operating-model.md",
@@ -72276,9 +72276,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 15403,
-      "word_like_tokens": 2512,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 16391,
+      "word_like_tokens": 2696,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payments/merchant-bank-pay-account-direct-acquiring.md",
@@ -72356,9 +72356,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 7823,
-      "word_like_tokens": 1189,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 8582,
+      "word_like_tokens": 1327,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payments/nanaco-prepaid-seven-i.md",
@@ -72429,9 +72429,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 8371,
-      "word_like_tokens": 1364,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 9166,
+      "word_like_tokens": 1511,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payments/pasmo-prepaid-tokyo-metro.md",
@@ -72489,9 +72489,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 8183,
-      "word_like_tokens": 1342,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 8757,
+      "word_like_tokens": 1444,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payments/prepaid-payment-instrument-issuers-japan-index.md",
@@ -72572,9 +72572,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4372,
-      "word_like_tokens": 665,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 4981,
+      "word_like_tokens": 773,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payments/psp-merchant-settlement-risk.md",
@@ -72634,9 +72634,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5446,
-      "word_like_tokens": 780,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 5976,
+      "word_like_tokens": 876,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payments/quo-card-prepaid.md",
@@ -72700,9 +72700,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 8587,
-      "word_like_tokens": 1388,
-      "last_modified": "2026-05-29"
+      "nonspace_chars": 9651,
+      "word_like_tokens": 1584,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payments/suica-prepaid-jr-east.md",
@@ -72764,9 +72764,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 8466,
-      "word_like_tokens": 1385,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 8924,
+      "word_like_tokens": 1469,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payments/visa-gift-card-japan.md",
@@ -72838,9 +72838,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 10080,
-      "word_like_tokens": 1643,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 10646,
+      "word_like_tokens": 1749,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payments/visa-mastercard-amex-jcb-japan-operating-comparison.md",
@@ -72951,9 +72951,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 28948,
-      "word_like_tokens": 4600,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 30064,
+      "word_like_tokens": 4784,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payments/waon-nanaco-retail-prepaid-comparison.md",
@@ -73032,9 +73032,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 12448,
-      "word_like_tokens": 2053,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 13813,
+      "word_like_tokens": 2298,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "payments/waon-prepaid-aeon.md",
@@ -73104,9 +73104,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 8275,
-      "word_like_tokens": 1324,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 8831,
+      "word_like_tokens": 1422,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "policy-finance/INDEX.md",
@@ -73272,9 +73272,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 10531,
-      "word_like_tokens": 1537,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 11224,
+      "word_like_tokens": 1663,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "policy-finance/aichi-credit-guarantee-corp.md",
@@ -73423,9 +73423,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 15251,
-      "word_like_tokens": 2422,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 16336,
+      "word_like_tokens": 2622,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "policy-finance/fisheries-credit-guarantee-system.md",
@@ -73484,9 +73484,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 10596,
-      "word_like_tokens": 1484,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 11148,
+      "word_like_tokens": 1588,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "policy-finance/fukuoka-credit-guarantee-corp.md",
@@ -73574,9 +73574,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 12244,
-      "word_like_tokens": 1854,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 12537,
+      "word_like_tokens": 1906,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "policy-finance/hokkaido-credit-guarantee-corp.md",
@@ -73660,9 +73660,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 12497,
-      "word_like_tokens": 1882,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 12792,
+      "word_like_tokens": 1934,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "policy-finance/hyogo-credit-guarantee-corp.md",
@@ -73740,9 +73740,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 12284,
-      "word_like_tokens": 1866,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 12565,
+      "word_like_tokens": 1916,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "policy-finance/japan-credit-guarantee-system.md",
@@ -73812,9 +73812,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 12856,
-      "word_like_tokens": 1950,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 13627,
+      "word_like_tokens": 2082,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "policy-finance/japan-eximbank-history.md",
@@ -73874,9 +73874,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6751,
-      "word_like_tokens": 1047,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 7205,
+      "word_like_tokens": 1131,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "policy-finance/japan-finance-organization-municipalities.md",
@@ -73934,9 +73934,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 7161,
-      "word_like_tokens": 1103,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 7866,
+      "word_like_tokens": 1229,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "policy-finance/japan-housing-finance-agency.md",
@@ -74006,9 +74006,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 11357,
-      "word_like_tokens": 1815,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 12092,
+      "word_like_tokens": 1959,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "policy-finance/japan-local-bond-association.md",
@@ -74144,9 +74144,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 33636,
-      "word_like_tokens": 5141,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 33895,
+      "word_like_tokens": 5189,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "policy-finance/japan-policy-finance-institution-mandate-matrix.md",
@@ -74257,9 +74257,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 42447,
-      "word_like_tokens": 6410,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 42697,
+      "word_like_tokens": 6459,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "policy-finance/japan-policy-finance-system.md",
@@ -74432,9 +74432,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 18118,
-      "word_like_tokens": 2758,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 19453,
+      "word_like_tokens": 2998,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "policy-finance/jbic-overseas-investment-underwriting-process.md",
@@ -74499,9 +74499,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 22448,
-      "word_like_tokens": 3432,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 22938,
+      "word_like_tokens": 3524,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "policy-finance/jfc-agriculture-forestry-fisheries-division.md",
@@ -74566,9 +74566,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 21252,
-      "word_like_tokens": 3322,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 21519,
+      "word_like_tokens": 3373,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "policy-finance/jfc-kokumin-life-finance-division.md",
@@ -74639,9 +74639,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 17099,
-      "word_like_tokens": 2691,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 17774,
+      "word_like_tokens": 2817,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "policy-finance/jfc-sme-division-operating-model.md",
@@ -74704,9 +74704,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 19509,
-      "word_like_tokens": 3277,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 20292,
+      "word_like_tokens": 3427,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "policy-finance/jica.md",
@@ -74776,9 +74776,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 20342,
-      "word_like_tokens": 3229,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 21367,
+      "word_like_tokens": 3409,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "policy-finance/jogmec-equity-and-offtake-mechanics.md",
@@ -74844,9 +74844,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 23992,
-      "word_like_tokens": 3632,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 24526,
+      "word_like_tokens": 3732,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "policy-finance/jogmec.md",
@@ -74906,9 +74906,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 19728,
-      "word_like_tokens": 3039,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 20796,
+      "word_like_tokens": 3239,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "policy-finance/kanagawa-credit-guarantee-corp.md",
@@ -75126,9 +75126,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 11696,
-      "word_like_tokens": 1748,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 12724,
+      "word_like_tokens": 1924,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "policy-finance/nexi-export-credit-insurance-products.md",
@@ -75192,9 +75192,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 22923,
-      "word_like_tokens": 3554,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 23604,
+      "word_like_tokens": 3680,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "policy-finance/nexi.md",
@@ -75262,9 +75262,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 17133,
-      "word_like_tokens": 2668,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 18113,
+      "word_like_tokens": 2852,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "policy-finance/oecd-export-credit-arrangement.md",
@@ -75326,9 +75326,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 25242,
-      "word_like_tokens": 3947,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 25935,
+      "word_like_tokens": 4061,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "policy-finance/okinawa-development-finance-corp.md",
@@ -75395,9 +75395,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 17868,
-      "word_like_tokens": 2715,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 19434,
+      "word_like_tokens": 3003,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "policy-finance/osaka-credit-guarantee-corp.md",
@@ -75455,9 +75455,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6003,
-      "word_like_tokens": 901,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 6256,
+      "word_like_tokens": 945,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "policy-finance/tokyo-credit-guarantee-corp.md",
@@ -75527,9 +75527,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6480,
-      "word_like_tokens": 967,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 6986,
+      "word_like_tokens": 1055,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "policy-finance/tokyo-metropolitan-bond.md",
@@ -75589,9 +75589,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6856,
-      "word_like_tokens": 1049,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 7119,
+      "word_like_tokens": 1095,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "real-estate-finance/INDEX.md",
@@ -78014,9 +78014,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5400,
-      "word_like_tokens": 941,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 5674,
+      "word_like_tokens": 991,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/18-shinwa-bank.md",
@@ -78067,9 +78067,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2100,
-      "word_like_tokens": 330,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 2321,
+      "word_like_tokens": 366,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/77-bank.md",
@@ -78133,9 +78133,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4841,
-      "word_like_tokens": 737,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 5050,
+      "word_like_tokens": 773,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/INDEX.md",
@@ -78444,9 +78444,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 1893,
-      "word_like_tokens": 296,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2128,
+      "word_like_tokens": 338,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/aichi-fg.md",
@@ -78506,9 +78506,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3885,
-      "word_like_tokens": 625,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 4262,
+      "word_like_tokens": 693,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/akita-bank.md",
@@ -78557,9 +78557,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2207,
-      "word_like_tokens": 347,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 2641,
+      "word_like_tokens": 423,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/aozora-bank-detail.md",
@@ -78611,9 +78611,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4610,
-      "word_like_tokens": 737,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 5200,
+      "word_like_tokens": 841,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/aozora-bank.md",
@@ -78665,9 +78665,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4003,
-      "word_like_tokens": 640,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 4368,
+      "word_like_tokens": 706,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/ashikaga-bank.md",
@@ -78715,9 +78715,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 1869,
-      "word_like_tokens": 296,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2110,
+      "word_like_tokens": 338,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/au-jibun-bank.md",
@@ -78770,9 +78770,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4228,
-      "word_like_tokens": 755,
-      "last_modified": "2026-07-29"
+      "nonspace_chars": 4933,
+      "word_like_tokens": 881,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/awa-bank.md",
@@ -78829,9 +78829,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2781,
-      "word_like_tokens": 392,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 3012,
+      "word_like_tokens": 434,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/chiba-bank.md",
@@ -78889,9 +78889,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4260,
-      "word_like_tokens": 727,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 4481,
+      "word_like_tokens": 765,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/chiba-kogyo-bank.md",
@@ -78947,9 +78947,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5617,
-      "word_like_tokens": 935,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 5904,
+      "word_like_tokens": 987,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/chikuho-bank.md",
@@ -78995,9 +78995,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 1975,
-      "word_like_tokens": 305,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2208,
+      "word_like_tokens": 347,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/chugin-okayama.md",
@@ -79057,9 +79057,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5839,
-      "word_like_tokens": 1042,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 6246,
+      "word_like_tokens": 1114,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/chugoku-bank.md",
@@ -79107,9 +79107,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 1969,
-      "word_like_tokens": 303,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2198,
+      "word_like_tokens": 345,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/chukyo-bank.md",
@@ -79173,9 +79173,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5143,
-      "word_like_tokens": 872,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 5429,
+      "word_like_tokens": 925,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/concordia-fg.md",
@@ -79233,9 +79233,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 7828,
-      "word_like_tokens": 1378,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 8045,
+      "word_like_tokens": 1414,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/dai-shi-hokuetsu-fg.md",
@@ -79295,9 +79295,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3791,
-      "word_like_tokens": 601,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 4174,
+      "word_like_tokens": 669,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/daishi-hokuetsu-bank.md",
@@ -79352,9 +79352,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2738,
-      "word_like_tokens": 388,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2963,
+      "word_like_tokens": 430,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/daito-bank.md",
@@ -79407,9 +79407,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2689,
-      "word_like_tokens": 378,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2924,
+      "word_like_tokens": 420,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/daiwa-next-bank.md",
@@ -79462,9 +79462,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2853,
-      "word_like_tokens": 423,
-      "last_modified": "2026-07-29"
+      "nonspace_chars": 3090,
+      "word_like_tokens": 467,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/ehime-bank.md",
@@ -79521,9 +79521,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2603,
-      "word_like_tokens": 373,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2834,
+      "word_like_tokens": 415,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/fidea-hd.md",
@@ -79656,9 +79656,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2853,
-      "word_like_tokens": 410,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 3088,
+      "word_like_tokens": 452,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/fukuoka-bank.md",
@@ -79715,9 +79715,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3120,
-      "word_like_tokens": 445,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 3359,
+      "word_like_tokens": 487,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/fukuoka-chuo-bank.md",
@@ -79767,9 +79767,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2053,
-      "word_like_tokens": 322,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2332,
+      "word_like_tokens": 372,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/fukuoka-fg.md",
@@ -79833,9 +79833,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6000,
-      "word_like_tokens": 1132,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 7564,
+      "word_like_tokens": 1532,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/fukushima-bank.md",
@@ -79888,9 +79888,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2766,
-      "word_like_tokens": 397,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 3009,
+      "word_like_tokens": 439,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/gunma-bank.md",
@@ -79946,9 +79946,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4007,
-      "word_like_tokens": 598,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 4441,
+      "word_like_tokens": 670,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/hachijuni-bank.md",
@@ -80012,9 +80012,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4927,
-      "word_like_tokens": 758,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 5397,
+      "word_like_tokens": 842,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/hachijuni-nagano-bank.md",
@@ -80064,9 +80064,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 1989,
-      "word_like_tokens": 300,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2224,
+      "word_like_tokens": 342,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/hamagin-research.md",
@@ -80126,9 +80126,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5404,
-      "word_like_tokens": 799,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 5982,
+      "word_like_tokens": 905,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/higashi-nippon-bank.md",
@@ -80181,9 +80181,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2847,
-      "word_like_tokens": 407,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 3100,
+      "word_like_tokens": 451,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/higo-bank.md",
@@ -80231,9 +80231,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 1987,
-      "word_like_tokens": 304,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2220,
+      "word_like_tokens": 346,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/hirogin-hd.md",
@@ -80293,9 +80293,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3724,
-      "word_like_tokens": 605,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 4366,
+      "word_like_tokens": 733,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/hiroshima-bank.md",
@@ -80350,9 +80350,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2869,
-      "word_like_tokens": 409,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 3100,
+      "word_like_tokens": 451,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/hokkaido-bank.md",
@@ -80405,9 +80405,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2673,
-      "word_like_tokens": 376,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2914,
+      "word_like_tokens": 418,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/hokkoku-bank.md",
@@ -80462,9 +80462,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2743,
-      "word_like_tokens": 386,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2982,
+      "word_like_tokens": 428,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/hokkoku-fhd.md",
@@ -80526,9 +80526,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4442,
-      "word_like_tokens": 697,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 4667,
+      "word_like_tokens": 739,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/hokuhoku-fg.md",
@@ -80641,9 +80641,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2985,
-      "word_like_tokens": 421,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 3216,
+      "word_like_tokens": 463,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/hokuto-bank.md",
@@ -80696,9 +80696,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2946,
-      "word_like_tokens": 443,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 3217,
+      "word_like_tokens": 489,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/hokuyo-bank.md",
@@ -80752,9 +80752,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3839,
-      "word_like_tokens": 691,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 4526,
+      "word_like_tokens": 805,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/howa-bank.md",
@@ -80809,9 +80809,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2616,
-      "word_like_tokens": 382,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2849,
+      "word_like_tokens": 424,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/hyakugo-bank.md",
@@ -80977,9 +80977,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 1935,
-      "word_like_tokens": 299,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2160,
+      "word_like_tokens": 341,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/ikeda-senshu-hd.md",
@@ -81045,9 +81045,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5836,
-      "word_like_tokens": 1007,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 6649,
+      "word_like_tokens": 1151,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/iwate-bank.md",
@@ -81096,9 +81096,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2214,
-      "word_like_tokens": 366,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 2429,
+      "word_like_tokens": 402,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/iyo-bank.md",
@@ -81155,9 +81155,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2825,
-      "word_like_tokens": 406,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 3056,
+      "word_like_tokens": 448,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/iyogin-hd.md",
@@ -81215,9 +81215,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3560,
-      "word_like_tokens": 542,
-      "last_modified": "2026-07-29"
+      "nonspace_chars": 4046,
+      "word_like_tokens": 630,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/japan-post-bank.md",
@@ -81289,9 +81289,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 13165,
-      "word_like_tokens": 2200,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 14420,
+      "word_like_tokens": 2410,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/jimoto-hd.md",
@@ -81343,9 +81343,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5545,
-      "word_like_tokens": 1012,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 5782,
+      "word_like_tokens": 1054,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/joyo-bank.md",
@@ -81394,9 +81394,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2186,
-      "word_like_tokens": 366,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 2676,
+      "word_like_tokens": 454,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/juroku-bank.md",
@@ -81451,9 +81451,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2682,
-      "word_like_tokens": 391,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2911,
+      "word_like_tokens": 433,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/juroku-fg.md",
@@ -81566,9 +81566,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2743,
-      "word_like_tokens": 402,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2980,
+      "word_like_tokens": 444,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/kagoshima-bank.md",
@@ -81618,9 +81618,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 1967,
-      "word_like_tokens": 303,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2194,
+      "word_like_tokens": 345,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/kanagawa-bank.md",
@@ -81671,9 +81671,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2522,
-      "word_like_tokens": 357,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2763,
+      "word_like_tokens": 399,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/kansai-mirai-bank.md",
@@ -81732,9 +81732,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2781,
-      "word_like_tokens": 396,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 3028,
+      "word_like_tokens": 438,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/keiyo-bank.md",
@@ -81792,9 +81792,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3575,
-      "word_like_tokens": 561,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 4795,
+      "word_like_tokens": 793,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/kiraboshi-bank.md",
@@ -81842,9 +81842,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 1938,
-      "word_like_tokens": 298,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2181,
+      "word_like_tokens": 340,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/kiraboshi-fg.md",
@@ -81952,9 +81952,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2012,
-      "word_like_tokens": 312,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2245,
+      "word_like_tokens": 354,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/kita-nippon-bank.md",
@@ -82005,9 +82005,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2552,
-      "word_like_tokens": 365,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2783,
+      "word_like_tokens": 407,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/kitakyushu-bank.md",
@@ -82062,9 +82062,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2898,
-      "word_like_tokens": 412,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 3143,
+      "word_like_tokens": 454,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/kiyo-bank.md",
@@ -82124,9 +82124,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5195,
-      "word_like_tokens": 806,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 5506,
+      "word_like_tokens": 862,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/kochi-bank.md",
@@ -82183,9 +82183,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2641,
-      "word_like_tokens": 380,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2878,
+      "word_like_tokens": 424,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/kumamoto-bank.md",
@@ -82235,9 +82235,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2054,
-      "word_like_tokens": 322,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2325,
+      "word_like_tokens": 370,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/kyoto-bank.md",
@@ -82287,9 +82287,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2016,
-      "word_like_tokens": 317,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2251,
+      "word_like_tokens": 359,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/kyoto-fg.md",
@@ -82355,9 +82355,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6808,
-      "word_like_tokens": 1063,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 7013,
+      "word_like_tokens": 1097,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/kyushu-fg.md",
@@ -82425,9 +82425,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4112,
-      "word_like_tokens": 660,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 4866,
+      "word_like_tokens": 796,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/lawson-bank.md",
@@ -82483,9 +82483,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4606,
-      "word_like_tokens": 767,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 4873,
+      "word_like_tokens": 814,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/mebuki-fg.md",
@@ -82541,9 +82541,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4050,
-      "word_like_tokens": 656,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 4427,
+      "word_like_tokens": 724,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/minami-nippon-bank.md",
@@ -82596,9 +82596,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2650,
-      "word_like_tokens": 378,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2873,
+      "word_like_tokens": 418,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/minato-bank.md",
@@ -82650,9 +82650,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 1914,
-      "word_like_tokens": 302,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2147,
+      "word_like_tokens": 344,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/miyazaki-bank.md",
@@ -82709,9 +82709,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2627,
-      "word_like_tokens": 373,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2858,
+      "word_like_tokens": 415,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/miyazaki-taiyo-bank.md",
@@ -82766,9 +82766,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2646,
-      "word_like_tokens": 378,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2881,
+      "word_like_tokens": 420,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/momiji-bank.md",
@@ -82825,9 +82825,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2856,
-      "word_like_tokens": 406,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 3093,
+      "word_like_tokens": 448,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/musashino-bank.md",
@@ -82942,9 +82942,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2950,
-      "word_like_tokens": 434,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 3213,
+      "word_like_tokens": 482,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/nagoya-bank.md",
@@ -82999,9 +82999,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2619,
-      "word_like_tokens": 379,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2844,
+      "word_like_tokens": 419,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/nanto-bank.md",
@@ -83063,9 +83063,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5149,
-      "word_like_tokens": 795,
-      "last_modified": "2026-07-29"
+      "nonspace_chars": 5794,
+      "word_like_tokens": 903,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/nishi-nippon-city-bank.md",
@@ -83124,9 +83124,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3018,
-      "word_like_tokens": 436,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 3247,
+      "word_like_tokens": 478,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/nishi-nippon-fhd.md",
@@ -83250,9 +83250,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4175,
-      "word_like_tokens": 662,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 4378,
+      "word_like_tokens": 698,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/oita-bank.md",
@@ -83309,9 +83309,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2604,
-      "word_like_tokens": 379,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2837,
+      "word_like_tokens": 421,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/okinawa-bank.md",
@@ -83359,9 +83359,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 1928,
-      "word_like_tokens": 302,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2169,
+      "word_like_tokens": 346,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/okinawa-fg.md",
@@ -83419,9 +83419,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 7246,
-      "word_like_tokens": 1324,
-      "last_modified": "2026-07-29"
+      "nonspace_chars": 8571,
+      "word_like_tokens": 1574,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/okinawa-kaiho-bank.md",
@@ -83477,9 +83477,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5000,
-      "word_like_tokens": 722,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 5237,
+      "word_like_tokens": 766,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/proclair-hd.md",
@@ -83529,9 +83529,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4625,
-      "word_like_tokens": 695,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 5151,
+      "word_like_tokens": 795,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/ryukyu-bank.md",
@@ -83581,9 +83581,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3848,
-      "word_like_tokens": 540,
-      "last_modified": "2026-07-29"
+      "nonspace_chars": 4057,
+      "word_like_tokens": 576,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/saga-bank.md",
@@ -83642,9 +83642,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2703,
-      "word_like_tokens": 394,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2936,
+      "word_like_tokens": 436,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/saga-kyoei-bank.md",
@@ -83692,9 +83692,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 1841,
-      "word_like_tokens": 290,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2070,
+      "word_like_tokens": 332,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/saikyo-bank.md",
@@ -83749,9 +83749,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2798,
-      "word_like_tokens": 403,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 3035,
+      "word_like_tokens": 445,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/san-in-godo-bank.md",
@@ -83807,9 +83807,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3640,
-      "word_like_tokens": 558,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 3933,
+      "word_like_tokens": 610,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/san-jusan-bank.md",
@@ -83869,9 +83869,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5169,
-      "word_like_tokens": 887,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 5695,
+      "word_like_tokens": 989,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/san-jusan-fg.md",
@@ -83973,9 +83973,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4057,
-      "word_like_tokens": 674,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 4296,
+      "word_like_tokens": 716,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/sbj-bank.md",
@@ -84077,9 +84077,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 1928,
-      "word_like_tokens": 301,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2165,
+      "word_like_tokens": 343,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/seven-bank.md",
@@ -84209,9 +84209,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6789,
-      "word_like_tokens": 1064,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 7440,
+      "word_like_tokens": 1172,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/shikoku-bank.md",
@@ -84263,9 +84263,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2427,
-      "word_like_tokens": 368,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 2700,
+      "word_like_tokens": 416,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/shimane-bank.md",
@@ -84315,9 +84315,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2028,
-      "word_like_tokens": 322,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2291,
+      "word_like_tokens": 370,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/shimizu-bank.md",
@@ -84371,9 +84371,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2613,
-      "word_like_tokens": 391,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 2886,
+      "word_like_tokens": 439,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/shizuoka-bank.md",
@@ -84425,9 +84425,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2670,
-      "word_like_tokens": 393,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 2911,
+      "word_like_tokens": 435,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/shizuoka-chuo-bank.md",
@@ -84479,9 +84479,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2488,
-      "word_like_tokens": 355,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 2773,
+      "word_like_tokens": 405,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/shizuoka-fg.md",
@@ -84541,9 +84541,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4041,
-      "word_like_tokens": 629,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 4683,
+      "word_like_tokens": 741,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/shonai-bank.md",
@@ -84593,9 +84593,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2937,
-      "word_like_tokens": 456,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 3200,
+      "word_like_tokens": 504,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/sony-bank.md",
@@ -84649,9 +84649,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2469,
-      "word_like_tokens": 390,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 2696,
+      "word_like_tokens": 430,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/ssjbank.md",
@@ -84764,9 +84764,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 7099,
-      "word_like_tokens": 1333,
-      "last_modified": "2026-07-29"
+      "nonspace_chars": 8134,
+      "word_like_tokens": 1513,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/suruga-bank.md",
@@ -84834,9 +84834,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4305,
-      "word_like_tokens": 638,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 4648,
+      "word_like_tokens": 704,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/taiko-bank.md",
@@ -84884,9 +84884,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 1883,
-      "word_like_tokens": 299,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2112,
+      "word_like_tokens": 339,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/tajima-bank.md",
@@ -84936,9 +84936,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2374,
-      "word_like_tokens": 361,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 2645,
+      "word_like_tokens": 409,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/tochigi-bank.md",
@@ -84986,9 +84986,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 1855,
-      "word_like_tokens": 290,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2094,
+      "word_like_tokens": 332,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/toho-bank.md",
@@ -85050,9 +85050,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4807,
-      "word_like_tokens": 735,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 5233,
+      "word_like_tokens": 807,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/tohoku-bank.md",
@@ -85102,9 +85102,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2573,
-      "word_like_tokens": 391,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 2846,
+      "word_like_tokens": 441,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/tokushima-taisho-bank.md",
@@ -85152,9 +85152,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2043,
-      "word_like_tokens": 318,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2274,
+      "word_like_tokens": 360,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/tokyo-star-bank.md",
@@ -85202,9 +85202,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2012,
-      "word_like_tokens": 322,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2255,
+      "word_like_tokens": 364,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/tomato-bank.md",
@@ -85256,9 +85256,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2428,
-      "word_like_tokens": 357,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 2699,
+      "word_like_tokens": 405,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/tomony-hd.md",
@@ -85318,9 +85318,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3936,
-      "word_like_tokens": 648,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 4311,
+      "word_like_tokens": 720,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/tottori-bank.md",
@@ -85372,9 +85372,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2408,
-      "word_like_tokens": 368,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 2681,
+      "word_like_tokens": 416,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/towa-bank.md",
@@ -85432,9 +85432,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4474,
-      "word_like_tokens": 655,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 4805,
+      "word_like_tokens": 713,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/toyama-bank.md",
@@ -85484,9 +85484,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2437,
-      "word_like_tokens": 367,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 2708,
+      "word_like_tokens": 415,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/toyama-first-bank.md",
@@ -85540,9 +85540,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2543,
-      "word_like_tokens": 378,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 2814,
+      "word_like_tokens": 428,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/tsukuba-bank.md",
@@ -85592,9 +85592,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2397,
-      "word_like_tokens": 364,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 2670,
+      "word_like_tokens": 412,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/ui-bank.md",
@@ -85646,9 +85646,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2431,
-      "word_like_tokens": 400,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 2700,
+      "word_like_tokens": 448,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/yamagata-bank.md",
@@ -85766,9 +85766,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3846,
-      "word_like_tokens": 591,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 4376,
+      "word_like_tokens": 675,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/yamanashi-chuo-bank.md",
@@ -85816,9 +85816,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2404,
-      "word_like_tokens": 360,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 2681,
+      "word_like_tokens": 408,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/yokohama-bank.md",
@@ -85862,9 +85862,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 1915,
-      "word_like_tokens": 301,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 2138,
+      "word_like_tokens": 343,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "regional-banks/yucho.md",
@@ -85920,9 +85920,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4510,
-      "word_like_tokens": 723,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 4735,
+      "word_like_tokens": 761,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "releases/README.md",
@@ -85951,12 +85951,13 @@
       "wikilinks": [],
       "resolved_wikilinks": [],
       "markdown_links": [
+        "./v2026.07.30-2.md",
         "https://github.com/jasonhnd/finwiki/blob/528c39e81be2faf3e7d17c1197da9a5569985e51/CHANGELOG.md"
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 12270,
-      "word_like_tokens": 2353,
+      "nonspace_chars": 12369,
+      "word_like_tokens": 2372,
       "last_modified": "2026-07-30"
     },
     {
@@ -89703,6 +89704,39 @@
       "last_modified": "2026-07-29"
     },
     {
+      "source_path": "releases/v2026.07.30-2.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.07.30-2.md",
+      "html_url": null,
+      "alternate_html_urls": null,
+      "raw_markdown_url": "https://finwiki.zksc.io/releases/v2026.07.30-2.md",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.30-2.md",
+      "title": "表出典残件の解消と意見隔離契約",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "canonical_anchor": "",
+      "summary": "",
+      "headings": [
+        "表出典残件の解消と意見隔離契約",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "entity_node": null,
+      "entity_edges": [],
+      "nonspace_chars": 3154,
+      "word_like_tokens": 586,
+      "last_modified": "2026-07-30"
+    },
+    {
       "source_path": "releases/v2026.07.30.md",
       "url": "https://finwiki.zksc.io/releases/v2026.07.30.md",
       "html_url": null,
@@ -90689,9 +90723,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4602,
-      "word_like_tokens": 689,
-      "last_modified": "2026-07-29"
+      "nonspace_chars": 5124,
+      "word_like_tokens": 789,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities-firms/aizawa-sg.md",
@@ -90877,9 +90911,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5507,
-      "word_like_tokens": 808,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 5945,
+      "word_like_tokens": 888,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities-firms/chibagin-securities.md",
@@ -90965,9 +90999,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6907,
-      "word_like_tokens": 965,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 7545,
+      "word_like_tokens": 1079,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities-firms/daiwa-sg.md",
@@ -91033,9 +91067,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 5527,
-      "word_like_tokens": 914,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 6499,
+      "word_like_tokens": 1090,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities-firms/dmm-com-securities.md",
@@ -91087,9 +91121,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2473,
-      "word_like_tokens": 403,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 2740,
+      "word_like_tokens": 451,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities-firms/ffg-securities.md",
@@ -91175,9 +91209,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 7252,
-      "word_like_tokens": 1206,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 8068,
+      "word_like_tokens": 1365,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities-firms/gmo-click-securities.md",
@@ -91237,9 +91271,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 2548,
-      "word_like_tokens": 419,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 2799,
+      "word_like_tokens": 465,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities-firms/goldman-sachs-japan.md",
@@ -91299,9 +91333,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 5744,
-      "word_like_tokens": 904,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 6017,
+      "word_like_tokens": 948,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities-firms/imamura-securities.md",
@@ -91373,9 +91407,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3429,
-      "word_like_tokens": 482,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3951,
+      "word_like_tokens": 582,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities-firms/iwai-cosmo-hd.md",
@@ -91431,9 +91465,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3754,
-      "word_like_tokens": 550,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 4073,
+      "word_like_tokens": 606,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities-firms/iwai-cosmo-securities.md",
@@ -91513,9 +91547,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5053,
-      "word_like_tokens": 801,
-      "last_modified": "2026-07-29"
+      "nonspace_chars": 5320,
+      "word_like_tokens": 849,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities-firms/japan-asia-securities.md",
@@ -91577,9 +91611,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3845,
-      "word_like_tokens": 516,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 4295,
+      "word_like_tokens": 600,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities-firms/kyokuto-securities.md",
@@ -91641,9 +91675,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3371,
-      "word_like_tokens": 453,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3893,
+      "word_like_tokens": 553,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities-firms/marusan-securities.md",
@@ -91715,9 +91749,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3556,
-      "word_like_tokens": 491,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 4078,
+      "word_like_tokens": 591,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities-firms/matsui-sec.md",
@@ -91779,9 +91813,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 6656,
-      "word_like_tokens": 1062,
-      "last_modified": "2026-06-24"
+      "nonspace_chars": 7114,
+      "word_like_tokens": 1146,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities-firms/mebuki-securities.md",
@@ -91861,9 +91895,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5765,
-      "word_like_tokens": 893,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 6605,
+      "word_like_tokens": 1058,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities-firms/mizuho-securities.md",
@@ -91949,9 +91983,9 @@
           "confidence": "likely"
         }
       ],
-      "nonspace_chars": 3238,
-      "word_like_tokens": 479,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 3495,
+      "word_like_tokens": 525,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities-firms/monex-group.md",
@@ -92009,9 +92043,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 5044,
-      "word_like_tokens": 746,
-      "last_modified": "2026-07-29"
+      "nonspace_chars": 5518,
+      "word_like_tokens": 826,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities-firms/morgan-stanley-japan.md",
@@ -92067,9 +92101,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 5737,
-      "word_like_tokens": 1017,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 7132,
+      "word_like_tokens": 1269,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities-firms/mufg-esmart-securities.md",
@@ -92123,9 +92157,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2577,
-      "word_like_tokens": 444,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 2798,
+      "word_like_tokens": 484,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities-firms/mufg-mums.md",
@@ -92211,9 +92245,9 @@
           "confidence": "likely"
         }
       ],
-      "nonspace_chars": 3686,
-      "word_like_tokens": 550,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 3950,
+      "word_like_tokens": 603,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities-firms/mufg-securities.md",
@@ -92275,9 +92309,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5069,
-      "word_like_tokens": 818,
-      "last_modified": "2026-07-29"
+      "nonspace_chars": 5750,
+      "word_like_tokens": 944,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities-firms/nomura-hd.md",
@@ -92337,9 +92371,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 7046,
-      "word_like_tokens": 1272,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 7287,
+      "word_like_tokens": 1314,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities-firms/okasan-sg.md",
@@ -92451,9 +92485,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 2629,
-      "word_like_tokens": 383,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 2890,
+      "word_like_tokens": 431,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities-firms/rakuten-securities.md",
@@ -92512,9 +92546,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 2753,
-      "word_like_tokens": 402,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 2994,
+      "word_like_tokens": 444,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities-firms/saxo-bank-securities.md",
@@ -92568,9 +92602,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2424,
-      "word_like_tokens": 376,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 2647,
+      "word_like_tokens": 416,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities-firms/sbi-fx-trade.md",
@@ -92624,9 +92658,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2459,
-      "word_like_tokens": 416,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 2728,
+      "word_like_tokens": 466,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities-firms/sbi-securities.md",
@@ -92709,9 +92743,9 @@
           "confidence": "likely"
         }
       ],
-      "nonspace_chars": 3123,
-      "word_like_tokens": 500,
-      "last_modified": "2026-06-22"
+      "nonspace_chars": 3391,
+      "word_like_tokens": 551,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities-firms/smbc-nikko.md",
@@ -92775,9 +92809,9 @@
         "status": "anchor"
       },
       "entity_edges": [],
-      "nonspace_chars": 6759,
-      "word_like_tokens": 1083,
-      "last_modified": "2026-07-29"
+      "nonspace_chars": 7309,
+      "word_like_tokens": 1175,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities-firms/tachibana-securities.md",
@@ -92839,9 +92873,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3619,
-      "word_like_tokens": 481,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 4149,
+      "word_like_tokens": 581,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities-firms/tokai-tokyo-fh.md",
@@ -92895,9 +92929,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3765,
-      "word_like_tokens": 613,
-      "last_modified": "2026-06-08"
+      "nonspace_chars": 4144,
+      "word_like_tokens": 679,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities-firms/tokai-tokyo-securities.md",
@@ -92988,9 +93022,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5812,
-      "word_like_tokens": 892,
-      "last_modified": "2026-07-29"
+      "nonspace_chars": 6083,
+      "word_like_tokens": 940,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities-firms/traders-securities.md",
@@ -93040,9 +93074,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2381,
-      "word_like_tokens": 366,
-      "last_modified": "2026-06-05"
+      "nonspace_chars": 2632,
+      "word_like_tokens": 412,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities/INDEX.md",
@@ -93317,9 +93351,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 5047,
-      "word_like_tokens": 698,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 5453,
+      "word_like_tokens": 770,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities/japan-asset-manager-landscape-matrix.md",
@@ -93423,9 +93457,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 19477,
-      "word_like_tokens": 3121,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 22117,
+      "word_like_tokens": 3631,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities/japan-best-execution-sor-pts.md",
@@ -93499,9 +93533,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 8144,
-      "word_like_tokens": 1242,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 8401,
+      "word_like_tokens": 1290,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities/japan-capital-markets-ecosystem-overview.md",
@@ -93667,9 +93701,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 13505,
-      "word_like_tokens": 1818,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 15283,
+      "word_like_tokens": 2175,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities/japan-equity-analyst-and-sell-side-research-ecosystem.md",
@@ -93755,9 +93789,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 16271,
-      "word_like_tokens": 2385,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 16564,
+      "word_like_tokens": 2434,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities/japan-fiea-operator-registry-segment-matrix.md",
@@ -93953,9 +93987,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 37675,
-      "word_like_tokens": 5704,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 38800,
+      "word_like_tokens": 5914,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities/japan-ipo-2024-2025-case-study-kioxia-tokyo-metro.md",
@@ -94041,9 +94075,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 11807,
-      "word_like_tokens": 1834,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 12090,
+      "word_like_tokens": 1886,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities/japan-ipo-listing-disclosure-route.md",
@@ -94119,9 +94153,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 8345,
-      "word_like_tokens": 1189,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 9360,
+      "word_like_tokens": 1369,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities/japan-margin-trading-and-securities-finance.md",
@@ -94203,9 +94237,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 9039,
-      "word_like_tokens": 1308,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 9708,
+      "word_like_tokens": 1434,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities/japan-market-infrastructure-map.md",
@@ -94288,9 +94322,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 8522,
-      "word_like_tokens": 1163,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 9012,
+      "word_like_tokens": 1255,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities/japan-market-maker-and-liquidity-provider-landscape.md",
@@ -94382,9 +94416,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 15755,
-      "word_like_tokens": 2406,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 16289,
+      "word_like_tokens": 2506,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities/japan-online-brokerage-competition.md",
@@ -94464,9 +94498,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 8315,
-      "word_like_tokens": 1198,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 8853,
+      "word_like_tokens": 1302,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities/japan-prime-brokerage-and-institutional-financing-matrix.md",
@@ -94611,9 +94645,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 38567,
-      "word_like_tokens": 5992,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 39057,
+      "word_like_tokens": 6088,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities/japan-prime-brokerage-and-institutional-financing.md",
@@ -94707,9 +94741,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 8408,
-      "word_like_tokens": 1177,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 8653,
+      "word_like_tokens": 1225,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities/japan-pts-liquidity-data-guide.md",
@@ -94785,9 +94819,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 7385,
-      "word_like_tokens": 1166,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 7652,
+      "word_like_tokens": 1217,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities/japan-securities-clearing-corp.md",
@@ -94845,9 +94879,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2725,
-      "word_like_tokens": 384,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 3131,
+      "word_like_tokens": 456,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities/japan-securities-depository-center.md",
@@ -94899,9 +94933,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2754,
-      "word_like_tokens": 402,
-      "last_modified": "2026-06-06"
+      "nonspace_chars": 3164,
+      "word_like_tokens": 470,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities/japan-security-token-secondary-market-route.md",
@@ -94969,9 +95003,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 7408,
-      "word_like_tokens": 1094,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 8143,
+      "word_like_tokens": 1238,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities/japan-short-selling-and-stock-loan-controls.md",
@@ -95126,9 +95160,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6297,
-      "word_like_tokens": 924,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 6542,
+      "word_like_tokens": 972,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities/japan-tob-mbo-large-deal-2023-2026-case-matrix.md",
@@ -95224,9 +95258,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 19858,
-      "word_like_tokens": 3040,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 20372,
+      "word_like_tokens": 3142,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities/japan-underwriting-market-structure.md",
@@ -95318,9 +95352,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 6708,
-      "word_like_tokens": 946,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 7256,
+      "word_like_tokens": 1052,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities/japannext-securities.md",
@@ -95374,9 +95408,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2550,
-      "word_like_tokens": 365,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 3020,
+      "word_like_tokens": 449,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities/japannext-sor-routing-deep-dive.md",
@@ -95454,9 +95488,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 16043,
-      "word_like_tokens": 2635,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 16754,
+      "word_like_tokens": 2761,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities/nisa-2024-flow.md",
@@ -95517,9 +95551,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3794,
-      "word_like_tokens": 584,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 4320,
+      "word_like_tokens": 680,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities/nisa-2025-tax-reform-update.md",
@@ -95599,9 +95633,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 9575,
-      "word_like_tokens": 1513,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 9830,
+      "word_like_tokens": 1564,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities/odx-start-stb-secondary-market.md",
@@ -95679,9 +95713,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 14025,
-      "word_like_tokens": 2204,
-      "last_modified": "2026-06-23"
+      "nonspace_chars": 14694,
+      "word_like_tokens": 2330,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities/osaka-digital-exchange.md",
@@ -95743,9 +95777,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3026,
-      "word_like_tokens": 438,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 3472,
+      "word_like_tokens": 522,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities/osaka-exchange.md",
@@ -95793,9 +95827,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2343,
-      "word_like_tokens": 338,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 2749,
+      "word_like_tokens": 410,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities/progmat-tokenized-securities-infrastructure.md",
@@ -95877,9 +95911,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 14144,
-      "word_like_tokens": 2181,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 15439,
+      "word_like_tokens": 2426,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities/tokyo-commodity-exchange.md",
@@ -95927,9 +95961,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2161,
-      "word_like_tokens": 316,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 2567,
+      "word_like_tokens": 388,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "securities/tokyo-stock-exchange.md",
@@ -95983,9 +96017,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2698,
-      "word_like_tokens": 395,
-      "last_modified": "2026-06-04"
+      "nonspace_chars": 3104,
+      "word_like_tokens": 467,
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "security/INDEX.md",
@@ -106328,8 +106362,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 7303,
-      "word_like_tokens": 1273,
+      "nonspace_chars": 16389,
+      "word_like_tokens": 2895,
       "last_modified": "2026-07-30"
     }
   ]

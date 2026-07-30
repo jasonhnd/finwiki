@@ -11,8 +11,8 @@ aliases:
   - "ソフトバンクペイメントサービス"
 domain: payment-firms
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [JapanFG, payment-service, PSP, prepaid, SoftBank, paypay, fintech]
@@ -41,6 +41,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]] as the **opera
 
 ## 1. 法人概要
 
+The following table is scoped to public primary sources (sbpayment.jp, softbank.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:sbpayment.jp; softbank.jp; fsa.go.jp; meti.go.jp]
+
 | Item | 内容 |
 |---|---|
 | 正式名 | SB ペイメントサービス株式会社 ^[extracted] |
@@ -53,6 +55,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]] as the **opera
 | 主力サービス | **オンライン決済サービス**（クレジットカード・コンビニ・電子マネー・キャリア決済・QR・銀行振込の統合決済）|
 
 ### 2.1 オンライン決済サービス（PSP）
+
+The following table is scoped to public primary sources (sbpayment.jp, softbank.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:sbpayment.jp; softbank.jp; fsa.go.jp; meti.go.jp]
 
 | 決済手段 | カバレッジ |
 |---|---|
@@ -94,6 +98,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]] as the **opera
 
 ### SBPS vs [[megabanks/paypay-fg|PayPay 金融グループ]] の棲み分け
 
+The following table is scoped to public primary sources (sbpayment.jp, softbank.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:sbpayment.jp; softbank.jp; fsa.go.jp; meti.go.jp]
+
 | 機能 | SBPS | PayPay 金融グループ |
 |---|---|---|
 | ターゲット | **B2B（加盟店向け決済処理インフラ）** | **B2C（消費者向け決済・銀行・カード）**|
@@ -104,6 +110,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]] as the **opera
 → **PayPay = 消費者面、SBPS = 加盟店面** で SoftBank グループ決済機能が分業
 
 ## 4. KPI（公開情報ベース、参考値）
+
+The following table is scoped to public primary sources (sbpayment.jp, softbank.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:sbpayment.jp; softbank.jp; fsa.go.jp; meti.go.jp]
 
 | 指標 | 規模感 |
 |---|---|
@@ -143,6 +151,8 @@ SBPS の差別化軸: **SoftBank / Yahoo / LINE / PayPay の親会社グルー�
 - 加盟店側の決済ニーズの多様化に対応
 
 ## 6. 規制・監督
+
+The following table is scoped to public primary sources (sbpayment.jp, softbank.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:sbpayment.jp; softbank.jp; fsa.go.jp; meti.go.jp]
 
 | 項目 | 内容 |
 |---|---|

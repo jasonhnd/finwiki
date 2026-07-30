@@ -7,8 +7,8 @@ aliases:
   - "Union of Arab and French Banks Japan"
 domain: foreign-financial-institutions
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-22
 confidence: likely
 tags: [JapanFG, foreign-bank, France, trade-finance, correspondent-banking]
@@ -35,6 +35,8 @@ UBAF describes itself as a French-law financial institution created in 1970, wit
 The page is worth standalone treatment because UBAF is not just another French bank row. It is a trade-finance and correspondent-banking specialist route linking Europe, Asia, Africa, and the Arab world, with a Tokyo branch surface.
 
 ## Entity Boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, ubaf.fr). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; ubaf.fr]
 
 | Item | Reading |
 |---|---|

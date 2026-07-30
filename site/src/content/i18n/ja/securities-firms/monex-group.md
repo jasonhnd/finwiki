@@ -1,11 +1,11 @@
 ---
 source: securities-firms/monex-group
-source_hash: 363d01b0aabfc01e
+source_hash: e3260535cea92de6
 lang: ja
 status: machine
 fidelity: ok
 title: "マネックスグループ"
-translated_at: 2026-07-28T20:55:25Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # マネックスグループ
@@ -47,6 +47,8 @@ translated_at: 2026-07-28T20:55:25Z
 
 ### 重要年表（公開情報ベース）
 
+以下の表は、エントリ出典インベントリの公開一次資料（monexgroup.jp, docomo.ne.jp）の範囲に限定して読む。^[source:monexgroup.jp; docomo.ne.jp]
+
 | 年月 | 事象 |
 |---|---|
 | 1999-05-19 | **マネックス証券 設立**（ソニー + 松本大 共同出資、松本大は元 Goldman Sachs パートナー）|
@@ -63,6 +65,8 @@ translated_at: 2026-07-28T20:55:25Z
 > 注: 上記年表は公開資料（Wikipedia / IR / プレスリリース）に基づく。具体的な持分比率や統合スキーム条件は時期ごとに変動するため、最新値は IR 開示資料を要参照。
 
 ## 2. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（monexgroup.jp, docomo.ne.jp）の範囲に限定して読む。^[source:monexgroup.jp; docomo.ne.jp]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

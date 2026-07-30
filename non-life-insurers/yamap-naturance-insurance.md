@@ -3,8 +3,8 @@ title: "ヤマップネイチャランス損害保険"
 aliases: ["YAMAP NATURANCE", "YAMAP Naturance Insurance", "株式会社ヤマップネイチャランス損害保険", "ヤマップネイチャランス損保"]
 domain: non-life-insurers
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-22
 confidence: likely
 tags: [JapanFG, insurance, non-life-insurance, specialty-insurance, outdoor, operating-company]
@@ -30,6 +30,8 @@ Use this page for outdoor / activity-adjacent specialty non-life underwriting, n
 The General Insurance Association disclosure records the company name, website, Nago location, 2024-05-21 non-life license acquisition, and 2024-05-21 name change to the current insurer name.
 
 ## 1. License / operating boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, yamap-naturance.co.jp, sonpo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; yamap-naturance.co.jp; sonpo.or.jp]
 
 | Item | Notes |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: regional-banks/proclair-hd
-source_hash: 69bb715c73bc14b3
+source_hash: 8c1a16c406853f13
 lang: ja
 status: machine
 fidelity: ok
 title: "プロクレアホールディングス (ProCrea HD)"
-translated_at: 2026-06-02T15:14:17.108Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # プロクレアホールディングス (ProCrea HD)
@@ -50,6 +50,8 @@ translated_at: 2026-06-02T15:14:17.108Z
 
 ### 青森銀行 系譜
 
+以下の表は、エントリ出典インベントリの公開一次資料（am-bk.co.jp, procrea-hd.co.jp, nikkei.com）の範囲に限定して読む。^[source:am-bk.co.jp; procrea-hd.co.jp; nikkei.com]
+
 | 年 | 事象 |
 |---|---|
 | **1879**（明治 12）| **第五十九国立銀行** 創立（弘前、青森県下初の銀行、青森銀行最古の前身）|
@@ -60,6 +62,8 @@ translated_at: 2026-06-02T15:14:17.108Z
 | 2025-01-01 | みちのく銀行と合併 → 青森みちのく銀行 |
 
 ### みちのく銀行 系譜
+
+以下の表は、エントリ出典インベントリの公開一次資料（am-bk.co.jp, procrea-hd.co.jp, nikkei.com）の範囲に限定して読む。^[source:am-bk.co.jp; procrea-hd.co.jp; nikkei.com]
 
 | 年 | 事象 |
 |---|---|
@@ -72,6 +76,8 @@ translated_at: 2026-06-02T15:14:17.108Z
 | 2025-01-01 | 青森銀行と合併 → 青森みちのく銀行 |
 
 ## 3. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（am-bk.co.jp, procrea-hd.co.jp, nikkei.com）の範囲に限定して読む。^[source:am-bk.co.jp; procrea-hd.co.jp; nikkei.com]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

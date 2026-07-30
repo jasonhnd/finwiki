@@ -1,11 +1,11 @@
 ---
 source: payment-firms/pring
-source_hash: 720c1f1263320458
+source_hash: 8e875a14a975b3a6
 lang: en
 status: machine
 fidelity: ok
 title: "pring"
-translated_at: 2026-06-15T03:48:21.899Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # pring
@@ -19,6 +19,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]] (its domain ro
 pring Inc. is a **funds-transfer operator** (under the Payment Services Act, FSA-supervised) known as a peer-to-peer (P2P) money-transfer app. In the FSA funds-transfer registration list it is listed as Director-General of the Kanto Local Finance Bureau 第00050号. It drew wide attention when **Google** (Google International of the US) acquired all of its shares from major shareholders such as Metaps in 2021 年 and made it a subsidiary. Per public reporting, withdrawal from the funds-transfer business (2026 年 8 月) and termination of all services (2026 年 12 月) have been announced, so it is treated as a winding-down case that ended up short-lived as a Google subsidiary.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (pring.jp, fsa.go.jp, itmedia.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:pring.jp; fsa.go.jp; itmedia.co.jp]
 
 | Item | Notes |
 |---|---|

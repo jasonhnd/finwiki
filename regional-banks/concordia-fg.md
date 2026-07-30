@@ -3,8 +3,8 @@ title: 横浜フィナンシャルグループ（旧 コンコルディア・フ
 aliases: ["横浜フィナンシャルグループ", "横浜 FG", "Yokohama Financial Group", "YFG", "Concordia FG", "Concordia Financial Group", "コンコルディア FG", "コンコルディア・フィナンシャルグループ", "CFG"]
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: certain
 tags: [JapanFG, regional-bank]
@@ -134,6 +134,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 | 2025-11-13 | FY2025 Q2 中間決算短信開示、通期見通し純利益 1,065 億円（+28.6%）に修正 |
 
 ## 2. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (yokohamafg.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:yokohamafg.co.jp]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

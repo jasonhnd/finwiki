@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/bbva-bank-japan
-source_hash: 6a989c92d7ec7524
+source_hash: 9f5f558e66c94f84
 lang: ja
 status: machine
 fidelity: ok
 title: "ビルバオ・ビスカヤ・アルヘンタリア銀行 東京支店"
-translated_at: 2026-06-02T14:01:20.961Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # ビルバオ・ビスカヤ・アルヘンタリア銀行 東京支店
@@ -20,6 +20,8 @@ translated_at: 2026-06-02T14:01:20.961Z
 ビルバオ・ビスカヤ・アルヘンタリア銀行 東京支店は、金融庁の外国銀行支店一覧に掲載される Spain / BBVA の在日銀行支店。BBVA のアジア支店ネットワークの一部として、ホールセール銀行業務と機関投資家セグメントを中心に扱う。
 
 ## 1. 免許 / 支店境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, bbva.com）の範囲に限定して読む。^[source:fsa.go.jp; bbva.com]
 
 | 項目 | 注記 |
 |---|---|

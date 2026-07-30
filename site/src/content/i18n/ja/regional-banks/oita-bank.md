@@ -1,11 +1,11 @@
 ---
 source: regional-banks/oita-bank
-source_hash: 4a48158ab7418614
+source_hash: 12a27d7aa9d4c15e
 lang: ja
 status: machine
 fidelity: ok
 title: "大分銀行"
-translated_at: 2026-06-15T04:09:41.147Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 大分銀行
@@ -19,6 +19,8 @@ translated_at: 2026-06-15T04:09:41.147Z
 株式会社大分銀行 (The Oita Bank, だいぎん) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される大分県大分市本店の地方銀行 (第一地銀)。大分県の第一地方銀行（事業会社）アンカーであり、九州の独立系地方銀行として扱う。事業の中身は県内の預金受入と中小企業・個人・地方公共団体向け貸出。
 
 ## 1. 免許／グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, oitabank.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; oitabank.co.jp]
 
 | 項目 | 備考 |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: securities/japan-securities-depository-center
-source_hash: 1fdf52ff0960299c
+source_hash: dbfbae370563a5ef
 lang: ja
 status: machine
 fidelity: ok
 title: "証券保管振替機構 (JASDEC)"
-translated_at: 2026-06-03T00:53:08.323Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 証券保管振替機構 (JASDEC)
 
@@ -21,6 +21,8 @@ FinWikiにおいてJASDECは、上場株式、社債、地方債、コマーシ�
 
 ## 制度マップ
 
+以下の表は、エントリ出典インベントリの公開一次資料（jasdec.com）の範囲に限定して読む。^[source:jasdec.com]
+
 | レイヤー | JASDECの読み方 |
 |---|---|
 | 法人名 | Japan Securities Depository Center, Inc. |
@@ -31,6 +33,8 @@ FinWikiにおいてJASDECは、上場株式、社債、地方債、コマーシ�
 | グループ会社 | JASDEC DVP Clearing Corporation (JDCC)。 |
 
 ## サービスマップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（jasdec.com）の範囲に限定して読む。^[source:jasdec.com]
 
 | サービス | 役割 |
 |---|---|

@@ -8,8 +8,8 @@ aliases:
   - "JCB スキーム 3者方式"
 domain: payments
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [payments, card, scheme, jcb, brand, acquirer, issuer-licensing]
@@ -40,6 +40,8 @@ JCB operates a **three-party brand model** in which JCB Co Ltd simultaneously ow
 
 The distinction is about whether the brand-network entity is separate from the issuer and acquirer roles, not about how many parties touch a single transaction.
 
+The following table is scoped to public primary sources (global.jcb, jcb.co.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:global.jcb; jcb.co.jp; meti.go.jp]
+
 | Scheme type | Brand-network entity | Issuer entity | Acquirer entity | Examples |
 |---|---|---|---|---|
 | Four-party (open) | Separate | Multiple licensed issuers | Multiple licensed acquirers | Visa, Mastercard, UnionPay |
@@ -64,6 +66,8 @@ JCB Co Ltd licenses issuer rights to ~30 partner card companies in Japan that is
 
 Major JCB-brand partner issuers include:
 
+The following table is scoped to public primary sources (global.jcb, jcb.co.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:global.jcb; jcb.co.jp; meti.go.jp]
+
 | Partner issuer | Group anchor | Product profile |
 |---|---|---|
 | [[card-issuers/mufg-nicos\|MUFG NICOS]] | MUFG | Co-branded MUFG / NICOS / DC JCB cards; also major acquirer |
@@ -81,6 +85,8 @@ A partner issuer pays JCB Co Ltd issuer-licensing / network fees on its issued p
 ## Merchant-acquiring control vs four-party scheme
 
 Because JCB combines brand and principal-acquirer functions, merchant-rule enforcement is structurally different from Visa / Mastercard 4-party schemes:
+
+The following table is scoped to public primary sources (global.jcb, jcb.co.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:global.jcb; jcb.co.jp; meti.go.jp]
 
 | Dimension | JCB 3-party | Visa / Mastercard 4-party |
 |---|---|---|
@@ -141,6 +147,8 @@ The Discover alliance is particularly notable because it gives JCB International
 ## Chargeback / dispute under three-party operating model
 
 Cardholder disputes under JCB's three-party model flow through a structurally simpler path than four-party-scheme disputes:
+
+The following table is scoped to public primary sources (global.jcb, jcb.co.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:global.jcb; jcb.co.jp; meti.go.jp]
 
 | Dispute step | JCB three-party | Visa / Mastercard four-party |
 |---|---|---|

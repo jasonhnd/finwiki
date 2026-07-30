@@ -1,12 +1,12 @@
 ---
 source: payments/japan-transit-prepaid-suica-pasmo-icoca-economics
-source_hash: ee4c4213c64ed479
+source_hash: c572484b8cfc1351
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Japan transit-前払式電子マネー: Suica / PASMO / ICOCA / regional IC economics"
-translated_at: 2026-06-26T08:29:40.677Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan transit-前払式電子マネー: Suica / PASMO / ICOCA / regional IC economics
@@ -22,6 +22,8 @@ translated_at: 2026-06-26T08:29:40.677Z
 ## 10 IC 相互利用スキーム
 
 10 IC カード相互利用協定（10カード相互利用）は 2013-03-23 に開始され、カード保有者が全国の参加鉄道またはバスネットワークのいずれか、および参加小売加盟店のいずれかで、10 枚のカードのいずれかを使用できるようにした。2013, 以前は、各カードはその発行者の鉄道地域に制限されていた；相互利用の開始は、日本の小売決済における最大級の単一相互運用イベントの一つであった。
+
+以下の表は、エントリ出典インベントリの公開一次資料（jreast.co.jp, pasmo.co.jp, jr-odekake.net）の範囲に限定して読む。^[source:jreast.co.jp; pasmo.co.jp; jr-odekake.net; jrhokkaido.co.jp]
 
 | カード | 発行者 | 地域 | 事業者タイプ | プリペイド／ポストペイ |
 |---|---|---|---|---|
@@ -42,6 +44,8 @@ PiTaPa は構造的な例外である — それは、カード保有者が価�
 
 10 枚すべてのカードは、ソニー独自の非接触 IC 技術である **FeliCa**（ISO/IEC 18092 の用語では NFC-F）上で動いている — Visa Touch／Mastercard Contactless が使用する EMV 非接触／NFC-A/B とは異なる。交通向けの FeliCa の主要な技術的特徴は：
 
+以下の表は、エントリ出典インベントリの公開一次資料（jreast.co.jp, pasmo.co.jp, jr-odekake.net）の範囲に限定して読む。^[source:jreast.co.jp; pasmo.co.jp; jr-odekake.net; jrhokkaido.co.jp]
+
 | 特徴 | なぜ重要か |
 |---|---|
 | 200ms の読み取りサイクル | 改札のスループットを可能にする — 乗客は止まらずに改札を通過する |
@@ -59,6 +63,8 @@ Cyberne システムは最終的に、全銀振込を介して発行者の銀行
 
 ## モバイル鉄道：Apple Pay とおサイフケータイプリペイド IC スキームには 2 つの主要なモバイルデバイスのレールがある：
 
+以下の表は、エントリ出典インベントリの公開一次資料（jreast.co.jp, pasmo.co.jp, jr-odekake.net）の範囲に限定して読む。^[source:jreast.co.jp; pasmo.co.jp; jr-odekake.net; jrhokkaido.co.jp]
+
 | レール | デバイス | カバレッジ |
 |---|---|---|
 | Apple Pay 経由のモバイル Suica | iPhone 7+（日本モデル）、iPhone 8+（FeliCa 搭載のグローバルモデル）、Apple Watch Series 3+ | Suica、PASMO、ICOCA（2023追加） |
@@ -71,6 +77,8 @@ Apple Pay 実装にはトークン化層が関与する（Apple Pay はデバイ
 ## 前払式支払手段法の取扱い
 
 9 枚すべてのプリペイド IC カードは、資金決済法の下で **第三者型前払式支払手段** として登録されている（FSA 登録）。これは次を発動する：
+
+以下の表は、エントリ出典インベントリの公開一次資料（jreast.co.jp, pasmo.co.jp, jr-odekake.net）の範囲に限定して読む。^[source:jreast.co.jp; pasmo.co.jp; jr-odekake.net; jrhokkaido.co.jp]
 
 | 義務 | 詳細 |
 |---|---|
@@ -85,6 +93,8 @@ Apple Pay 実装にはトークン化層が関与する（Apple Pay はデバイ
 要求に応じて払い戻せないというルールが、交通系プリペイドを資金移動業の登録を発動させるのではなくプリペイドのカテゴリーに留めているものである理由については [[payments/funds-transfer-vs-prepaid-boundary|資金移動 vs 前払式 boundary]] を参照。
 
 ## 加盟店受付のフットプリント交通系プリペイドカードは、交通改札を超えた相当な小売加盟店のフットプリントを持つ：
+
+以下の表は、エントリ出典インベントリの公開一次資料（jreast.co.jp, pasmo.co.jp, jr-odekake.net）の範囲に限定して読む。^[source:jreast.co.jp; pasmo.co.jp; jr-odekake.net; jrhokkaido.co.jp]
 
 | 受付ゾーン | カバレッジ |
 |---|---|
@@ -104,6 +114,8 @@ Apple Pay 実装にはトークン化層が関与する（Apple Pay はデバイ
 JR 東日本は、より早い展開で Apple Pay 経由で発行されるモバイル Suica の ¥500 のデポジット要件を撤廃した；カードベースの Suica についてはデポジットが残る。カード Suica とモバイル Suica の間のこの分かれた取扱いは、「Suica」が単一の製品ではなく、フォームファクターに応じて異なるデポジット、払い戻し、有効期限、受付のルールを持つファミリーであることを思い出させる。同じことが PASMO と ICOCA のモバイルバリアントにも当てはまる。
 
 ## 加盟店手数料の経済性 — 単一アクワイアラーのダイナミクス各交通系プリペイドカードは **単一の主要アクワイアラー**（発行者エンティティ自身）を持つため、加盟店手数料の経済性は、カードクラスのマルチアクワイアラーのプライシングとは構造的に異なる：
+
+以下の表は、エントリ出典インベントリの公開一次資料（jreast.co.jp, pasmo.co.jp, jr-odekake.net）の範囲に限定して読む。^[source:jreast.co.jp; pasmo.co.jp; jr-odekake.net; jrhokkaido.co.jp]
 
 | 観点 | 交通系プリペイド（Suica／PASMO／ICOCA 他） | カード（Visa／Mastercard／JCB） |
 |---|---|---|
@@ -127,6 +139,8 @@ JR 東日本は、Suica のより長期的なプラットフォームの方向�
 ## 発行者間協力のガバナンス
 
 10 IC 相互利用スキーム全体の協力は、単一の支配的なルール設定者がいないマルチ発行者のガバナンスを伴う：
+
+以下の表は、エントリ出典インベントリの公開一次資料（jreast.co.jp, pasmo.co.jp, jr-odekake.net）の範囲に限定して読む。^[source:jreast.co.jp; pasmo.co.jp; jr-odekake.net; jrhokkaido.co.jp]
 
 | ガバナンスの次元 | どのように機能するか |
 |---|---|

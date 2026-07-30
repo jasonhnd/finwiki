@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/tokio-marine-nichido-fire
-source_hash: 1ef21d59fcfd796b
+source_hash: ac0d7bb213b968ad
 lang: en
 status: machine
 fidelity: ok
 title: "Tokio Marine & Nichido Fire Insurance"
-translated_at: 2026-06-01T02:31:57.162Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Tokio Marine & Nichido Fire Insurance
 
@@ -18,6 +18,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 Tokio Marine & Nichido Fire Insurance Co., Ltd. is the core non-life insurance operating company of the [[non-life-insurers/tokio-marine]] group. It is a separate licensed insurer listed in the FSA non-life insurer list and the member list of the Non-Life Insurance Policyholders Protection Corporation of Japan, and has underwriting / claims / agency-network boundaries distinct from the parent holding company.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (tokiomarine-nichido.co.jp, fsa.go.jp, sonpohogo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:tokiomarine-nichido.co.jp; fsa.go.jp; sonpohogo.or.jp]
 
 | Item | Notes |
 |---|---|

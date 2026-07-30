@@ -1,11 +1,11 @@
 ---
 source: payment-firms/ibank-marketing
-source_hash: 0fb26e7b5b457d96
+source_hash: b2687d68a4d4a98c
 lang: en
 status: machine
 fidelity: ok
 title: "iBank Marketing"
-translated_at: 2026-06-19T06:09:18.077Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # iBank Marketing
@@ -19,6 +19,8 @@ This entry sits under the [[payment-firms/INDEX|payment-firms INDEX]] as the FG-
 iBank Marketing Co., Ltd. is a regional-bank-originated fintech subsidiary, a 100% subsidiary of [[regional-banks/fukuoka-fg|ふくおか FG (FFG)]], in charge of the planning and operation of the **Wallet+** (Wallet Plus) smartphone app. As a regional-bank-originated, smartphone-first personal financial service, it provides **goal-based savings (myCoin)**, **household management**, the **prepaid card Wallet+ Card**, **regional-tie-up coupons**, etc., to [[regional-banks/fukuoka-bank|福岡銀行]] / [[regional-banks/18-shinwa-bank|十八親和銀行]] / [[regional-banks/kumamoto-bank|熊本銀行]] customers. A representative example of regional-bank fintech, with an axis of "bank-account linkage + goal-based savings," distinct from telecom-affiliated / EC-affiliated wallets such as [[megabanks/paypay-fg|PayPay]] / [[megabanks/au-fh|au PAY]] / [[payment-firms/rakuten-fg|楽天]]. ^[extracted]
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (ibank.co.jp, prtimes.jp, fukuoka-fg.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:ibank.co.jp; prtimes.jp; fukuoka-fg.com; walletplus.jp]
 
 | Item | Notes |
 |---|---|
@@ -65,6 +67,8 @@ iBank Marketing Co., Ltd. is a regional-bank-originated fintech subsidiary, a 10
 
 ## 4. KPI table (concept)
 
+The following table is scoped to public primary sources (ibank.co.jp, prtimes.jp, fukuoka-fg.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:ibank.co.jp; prtimes.jp; fukuoka-fg.com; walletplus.jp]
+
 | Item | Overview |
 |---|---|
 | App download count | exceeded 300 万 DL ([[regional-banks/fukuoka-fg|FFG]] published). Reference: 50 万 DL (2018, 2  anniversary) → about 80 万 DL (2019, 3  anniversary) → exceeded 100 万 DL (2020, 4  anniversary) → 300 万 DL |
@@ -76,6 +80,8 @@ iBank Marketing Co., Ltd. is a regional-bank-originated fintech subsidiary, a 10
 > Note: the app download count exceeded 300 万 DL per the [[regional-banks/fukuoka-fg|FFG]] publication (sources below). Because precise values for MAU / cards issued are not disclosed on a standalone basis (no published figures), refer to parent [[regional-banks/fukuoka-fg]] IR materials / the Wallet+ official site for the latest values.
 
 ## 5. Business segment map
+
+The following table is scoped to public primary sources (ibank.co.jp, prtimes.jp, fukuoka-fg.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:ibank.co.jp; prtimes.jp; fukuoka-fg.com; walletplus.jp]
 
 | Segment | Features |
 |---|---|

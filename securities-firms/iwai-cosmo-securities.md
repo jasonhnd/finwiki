@@ -7,8 +7,8 @@ aliases:
   - IwaiCosmo Securities Co., Ltd.
 domain: securities-firms
 created: 2026-05-25
-last_updated: 2026-07-29
-last_tended: 2026-07-29
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, securities, independent, regional, kinki, FIEA-type-1]
@@ -82,6 +82,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 - **戦略**：「対面 × 高齢富裕層 × 海外株 × コンサルティング」モデルを継続深化
 
 ## 6. 沿革
+
+The following table is scoped to public primary sources (iwaicosmo.co.jp, iwaicosmo-hd.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:iwaicosmo.co.jp; iwaicosmo-hd.jp; fsa.go.jp]
 
 | 年月 | 事項 |
 |------|------|

@@ -1,11 +1,11 @@
 ---
 source: life-insurers/credit-agricole-life
-source_hash: 08462c52b5950eac
+source_hash: b2890d500eb1cdc0
 lang: en
 status: machine
 fidelity: ok
 title: "Crédit Agricole Life Insurance"
-translated_at: 2026-06-15T03:48:21.856Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Crédit Agricole Life Insurance
@@ -19,6 +19,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]] (its domain ro
 クレディ・アグリコル生命保険株式会社 is the Japan life-insurance operating company of the French universal-banking group **Crédit Agricole**; it holds a life-insurance company license under the Insurance Business Act and appears in the FSA's life-insurance company license list and the [[financial-regulators/seiho-kyokai|生命保険協会]] member list. Rather than a large life insurer with a sales-representative channel, it is a foreign-affiliated life insurer whose primary channel is the counters of partner financial institutions (over-the-counter bank sales / bancassurance), handled separately from the group's banking and asset-management functions. Its head office is in Minato-ku, Tokyo. Crédit Agricole is a pioneer of bancassurance in France and, in Japan too, provides products such as individual annuities and group credit life insurance via partner financial institutions.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, ca-life.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; ca-life.jp]
 
 | Item | Notes |
 |---|---|

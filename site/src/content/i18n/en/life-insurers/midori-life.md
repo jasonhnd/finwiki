@@ -1,11 +1,11 @@
 ---
 source: life-insurers/midori-life
-source_hash: 472aa4f4359f7b92
+source_hash: 80167abc5570f19c
 lang: en
 status: machine
 fidelity: ok
 title: "Midori Life Insurance"
-translated_at: 2026-06-15T03:48:21.926Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Midori Life Insurance
@@ -19,6 +19,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]] (its domain ro
 Midori Life Insurance Co., Ltd. is a mid-size, specialty life-insurance operating company headquartered in Tokyo that holds a life-insurance company license under the Insurance Business Act and is listed in the FSA's life-insurance company license list and the [[financial-regulators/seiho-kyokai|生命保険協会]] member list. It obtained its life-insurance business license from the Prime Minister (Financial Services Agency) in 2008 年 8 月 and began operations in 10  of the same year. It differs from other zaibatsu-affiliated and bank-affiliated life insurers in that it started **not as part of a large financial group, but as a related company of the "Belco Group" affiliation, Japan's largest operator in the funeral / mutual-aid (ceremonial occasions) business**. Because it is hard to capture on large-group pages, it is placed here as an exact-name anchor.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, midori-life.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; midori-life.com]
 
 | Item | Notes |
 |---|---|

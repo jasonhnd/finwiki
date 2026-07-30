@@ -1,11 +1,11 @@
 ---
 source: securities-firms/japan-asia-securities
-source_hash: 46f829f0881c5916
+source_hash: 0435b9ac8704a372
 lang: en
 status: machine
 fidelity: ok
 title: "日本アジア証券 (Japan Asia Securities)"
-translated_at: 2026-06-19T12:43:19.857Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本アジア証券 (Japan Asia Securities)
@@ -40,6 +40,8 @@ Note: Because this entry concerns a small-to-mid independent broker with little 
 
 ## 3. Business segments (general form of a small-to-mid independent broker)
 
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp]
+
 | セグメント | 内容 | 中小独立証券における位置付け |
 |---|---|---|
 | 国内株式仲介 | 日本株（TSE） | 主力収益 |
@@ -51,6 +53,8 @@ Note: Because this entry concerns a small-to-mid independent broker with little 
 ## 4. Competition / industry position (small-to-mid independent-broker segment)
 
 In the small-to-mid independent-broker segment (capital of 10〜30 億円; employee count around 100 名), in addition to Japan Asia Securities, many operators are registered. A representative segment structure:
+
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp]
 
 | カテゴリ | 代表例 | 特徴 |
 |---|---|---|
@@ -83,6 +87,8 @@ Strategic options common to small-to-mid independent brokers:
 - **JSDA self-regulation**: the set of industry self-regulatory rules
 
 ## 8. Key KPIs (overview / estimates)
+
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp]
 
 | 項目 | 規模感（中小独立証券一般） |
 |---|---|

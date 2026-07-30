@@ -1,12 +1,12 @@
 ---
 source: securities/japan-stock-lending-market-route
-source_hash: 041c74af30c284e1
+source_hash: c7704ee8f98f4960
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の貸株市場経路"
-translated_at: 2026-06-26T08:32:23.062Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 日本の貸株市場経路
 
@@ -15,6 +15,8 @@ translated_at: 2026-06-26T08:32:23.062Z
 このページは[[securities/INDEX|securities domain]]、[[securities/japan-short-selling-and-stock-loan-controls|short-selling and stock-loan controls]]、[[securities/japan-margin-trading-and-securities-finance|margin trading and securities finance]]、[[securities/japan-prime-brokerage-and-institutional-financing|prime 証券仲介 and institutional financing]]、[[financial-regulators/japan-securities-finance|Japan Securities Finance]]、[[banking/japan-trust-bank-custody-map|trust-bank カストディ map]]、[[securities/japan-market-infrastructure-map|market infrastructure map]]、[[money-market/jgb-repo-market-japan|JGB repo market]]と合わせて使う。
 
 ## 経路地図
+
+以下の表は、エントリ出典インベントリの公開一次資料（jsf.co.jp, jsda.or.jp, jpx.co.jp）の範囲に限定して読む。^[source:jsf.co.jp; jsda.or.jp; jpx.co.jp; jasdec.com]
 
 | 参加者 | 役割 |
 |---|---|
@@ -27,6 +29,8 @@ translated_at: 2026-06-26T08:32:23.062Z
 
 ## フローの種類
 
+以下の表は、エントリ出典インベントリの公開一次資料（jsf.co.jp, jsda.or.jp, jpx.co.jp）の範囲に限定して読む。^[source:jsf.co.jp; jsda.or.jp; jpx.co.jp; jasdec.com]
+
 | フロー | 説明 | 公開情報上の重要性 |
 |---|---|---|
 | 信用取引連動の貸株 | 制度信用売りを支えるために供給される証券。 | 個人の信用取引と JSF データ解釈の中心。 |
@@ -38,6 +42,8 @@ translated_at: 2026-06-26T08:32:23.062Z
 ## カストディとの接続信託銀行とカストディ銀行が重要なのは、法的名義、受益者、貸出指図、担保、コーポレートアクション、議決権の経路が分離しているためである。信託銀行の名義人として表示される口座から貸株供給を解釈する前に、[[banking/japan-trust-bank-custody-map|trust-bank カストディ map]]を読む。
 
 ## 確認すべき問い
+
+以下の表は、エントリ出典インベントリの公開一次資料（jsf.co.jp, jsda.or.jp, jpx.co.jp）の範囲に限定して読む。^[source:jsf.co.jp; jsda.or.jp; jpx.co.jp; jasdec.com]
 
 | 問い | 公開情報上の重要性 |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: policy-finance/japan-local-government-bond-market-issuance-matrix
-source_hash: 694a6bb3ae585d6a
+source_hash: 49483888e09917d1
 lang: en
 status: machine
 fidelity: ok
 title: "Japan local-government bond market issuance matrix (prefectures / 政令指定都市 / municipalities / special districts)"
-translated_at: 2026-06-01T03:31:12.328Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan local-government bond market issuance matrix (prefectures / 政令指定都市 / municipalities / special districts)
@@ -128,6 +128,8 @@ Without the issuer-tier and channel-mix axes, treating "local-government bond" a
 - **Foreign-investor participation.** Material — JFM has issued in foreign-currency markets and attracts cross-border investor interest; joint-issuance pool has more limited foreign-investor participation than JFM bonds directly.
 
 ## Big comparison matrix table
+
+The following table is scoped to public primary sources (chihousai.or.jp, mof.go.jp, soumu.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:chihousai.or.jp; mof.go.jp; soumu.go.jp; jfm.go.jp]
 
 | Axis | Tokyo Metropolis (都) | Major prefectures (Osaka, Aichi, Kanagawa, etc.) | Other prefectures | 政令指定都市 (designated cities) | Ordinary cities / towns / villages | Joint-issuance pool | JFM bonds |
 |---|---|---|---|---|---|---|---|

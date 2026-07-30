@@ -7,8 +7,8 @@ aliases:
   - "彰化銀行日本"
 domain: foreign-financial-institutions
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-22
 confidence: likely
 tags: [JapanFG, foreign-bank, Taiwan, trade-finance, corporate-banking]
@@ -34,6 +34,8 @@ Chang Hwa Bank is a Taiwan commercial bank with an international network that in
 The branch is worth standalone treatment because the remaining Taiwan registry-only row is not merely a raw address. It adds a legacy Taiwan bank with a Tokyo branch, Osaka sub-branch, and public disclosure surface to FinWiki's Taiwan corridor cluster.
 
 ## Entity Boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, bankchb.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; bankchb.com]
 
 | Item | Reading |
 |---|---|

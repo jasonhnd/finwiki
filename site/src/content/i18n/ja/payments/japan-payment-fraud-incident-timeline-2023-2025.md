@@ -1,12 +1,12 @@
 ---
 source: payments/japan-payment-fraud-incident-timeline-2023-2025
-source_hash: dcaeb8256a115a81
+source_hash: 94d67e81a80da9bd
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の決済不正インシデント・タイムライン 2023-2025"
-translated_at: 2026-06-26T08:32:15.205Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本の決済不正インシデント・タイムライン 2023-2025
@@ -21,6 +21,8 @@ translated_at: 2026-06-26T08:32:15.205Z
 
 この期間の日本の決済不正損失の集計像は、各クラスが異なる統計レジームの下で報告されるため、慎重に読む必要がある:
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, j-credit.or.jp, meti.go.jp）の範囲に限定して読む。^[source:fsa.go.jp; j-credit.or.jp; meti.go.jp; npa.go.jp]
+
 | Source | Scope | Pattern |
 |---|---|---|
 | 日本クレジット協会 | クレジットカード不正損失（発行者側）| 年間損失額が記録される; 非対面（EC）不正が期間を通じて支配的なカテゴリー |
@@ -33,6 +35,8 @@ translated_at: 2026-06-26T08:32:15.205Z
 
 ## 2023 イベント
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, j-credit.or.jp, meti.go.jp）の範囲に限定して読む。^[source:fsa.go.jp; j-credit.or.jp; meti.go.jp; npa.go.jp]
+
 | Event class | What happened | Regulatory / industry response |
 |---|---|---|
 | EC カード不正損失が高止まり継続 | マーチャント侵害およびフィッシング経路を通じたカード番号の漏洩が、持続的な EC 不正使用ボリュームを駆動した; 非対面チャネルが支配的な不正損失クラスであり続けた | METI / 日本クレジット協会が全 EC カードアクセプタンスに対する EMV 3-DS の義務化へ向かった; J-CSC ガイドライン 5.0 → 6.0  改訂パイプラインが加速 |
@@ -41,6 +45,8 @@ translated_at: 2026-06-26T08:32:15.205Z
 | FSA 取締り行為 | AML / 不正コントロールの不備に対する銀行、カード発行者、前払い発行者への定期的な行政処分 | オペレーターごとの公的ニュースルーム・リリース |
 
 ## 2024 イベント
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, j-credit.or.jp, meti.go.jp）の範囲に限定して読む。^[source:fsa.go.jp; j-credit.or.jp; meti.go.jp; npa.go.jp]
 
 | Event class | What happened | Regulatory / industry response |
 |---|---|---|
@@ -52,6 +58,8 @@ translated_at: 2026-06-26T08:32:15.205Z
 
 ## 2025 イベント
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, j-credit.or.jp, meti.go.jp）の範囲に限定して読む。^[source:fsa.go.jp; j-credit.or.jp; meti.go.jp; npa.go.jp]
+
 | Event class | What happened | Regulatory / industry response |
 |---|---|---|
 | EC カード決済に対する EMV 3-DS 必須化 | 2025-03,  から、EC カードアクセプタンスは J-CSC ガイドライン 6.0 / 6.1  フレームワークの下で EMV 3-DS 認証を要求された | 業界全体のコンプライアンス・プレッシャー; 非準拠の EC マーチャントはカード決済アクセプタンスの喪失リスクを負った |
@@ -61,6 +69,8 @@ translated_at: 2026-06-26T08:32:15.205Z
 | 税務当局 / 政府なりすましスミッシング | 特に納税期限の窓口周辺で高まったボリューム; 消費者向け警告がエスカレート | 消費者庁と警察庁が公的警告キャンペーンを継続 |
 
 ## 横断的な攻撃パターン
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, j-credit.or.jp, meti.go.jp）の範囲に限定して読む。^[source:fsa.go.jp; j-credit.or.jp; meti.go.jp; npa.go.jp]
 
 | Pattern | How it works | Targeted scheme |
 |---|---|---|
@@ -73,6 +83,8 @@ translated_at: 2026-06-26T08:32:15.205Z
 | BNPL / 後払い乱用経由の現金化 | 詐欺師が盗まれた本人確認を用いて後払い口座を開設する; 現金等価の購入後にデフォルトする | BNPL、コード決済後払い、分割 |
 
 ## 誰が損失を負うか
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, j-credit.or.jp, meti.go.jp）の範囲に限定して読む。^[source:fsa.go.jp; j-credit.or.jp; meti.go.jp; npa.go.jp]
 
 | Surface | Primary loss bearer |
 |---|---|
@@ -90,6 +102,8 @@ translated_at: 2026-06-26T08:32:15.205Z
 
 2023-2025  の不正に対する日本の規制対応は、複数の機関と自主規制団体にわたって層をなしている:
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, j-credit.or.jp, meti.go.jp）の範囲に限定して読む。^[source:fsa.go.jp; j-credit.or.jp; meti.go.jp; npa.go.jp]
+
 | Body | Role |
 |---|---|
 | FSA（金融庁）| 銀行 / カード発行者 / 前払い発行者 / ウォレット・オペレーターの監督と取締り |
@@ -103,6 +117,8 @@ translated_at: 2026-06-26T08:32:15.205Z
 機関横断の調整はますます緊密になっている —— 2024-2025  のほとんどの主要インシデントは、数日以内に FSA、警察庁、および関連する業界団体にわたる調整された公的アラートを引き起こした。
 
 ## 消費者保護フレームワークの比較保護フレームワークはサーフェスをまたいで実質的に異なり、これが、不正イベントでどのスキームが使用されたかに応じて同じ消費者が非常に異なる結果に直面しうる理由の一つである:
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, j-credit.or.jp, meti.go.jp）の範囲に限定して読む。^[source:fsa.go.jp; j-credit.or.jp; meti.go.jp; npa.go.jp]
 
 | Scheme | Primary consumer-protection lever | Strength |
 |---|---|---|
@@ -119,6 +135,8 @@ translated_at: 2026-06-26T08:32:15.205Z
 ## スミッシングの運用メカニクス
 
 2024-2025  のスミッシング・サーフェスは、消費者側の損失の持続的な源であった。そのメカニクスを理解することが重要なのは、それを検知またはブロックできるオペレーター側のコントロールが、攻撃チェーンのどのステップを標的にするかに依存するからである:
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, j-credit.or.jp, meti.go.jp）の範囲に限定して読む。^[source:fsa.go.jp; j-credit.or.jp; meti.go.jp; npa.go.jp]
 
 | Attack chain step | 事業者-side detection / control surface |
 |---|---|

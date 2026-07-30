@@ -1,12 +1,12 @@
 ---
 source: non-profit/japan-shakai-fukushi-houjin
-source_hash: c1147e8437fe5937
+source_hash: eea5c89b5333aa66
 lang: ja
 model: claude-opus-4-8
 status: machine
 fidelity: ok
 title: "日本 社会福祉法人 — 社会福祉法人のガバナンス、監督、そして税務上の取扱い"
-translated_at: 2026-06-05T00:00:00.000Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本 社会福祉法人 — 社会福祉法人のガバナンス、監督、そして税務上の取扱い
@@ -23,6 +23,8 @@ translated_at: 2026-06-05T00:00:00.000Z
 
 定義的な特徴は、それが運営できる **事業カテゴリー** である：
 
+以下の表は、エントリ出典インベントリの公開一次資料（laws.e-gov.go.jp, mhlw.go.jp, nta.go.jp）の範囲に限定して読む。^[source:laws.e-gov.go.jp; mhlw.go.jp; nta.go.jp; wam.go.jp]
+
 | カテゴリー | 例 | 運営できる者 |
 |---|---|---|
 | **第一種社会福祉事業 (Type-1)** | 特別養護老人ホーム (special nursing homes), 児童養護施設 (children's homes), 救護施設 | 一般に **国/地方公共団体または 社会福祉法人 のみ** |
@@ -31,6 +33,8 @@ translated_at: 2026-06-05T00:00:00.000Z
 **第一種** 事業が主に公的団体と 社会福祉法人 に留保されているため、この形態は事実上、入所福祉の *ゲートキーパー・ビークル* である。これが、福祉事業者が 特養 に対してより安価な [[non-profit/japan-npo-houjin-overview|NPO法人]] 形態を単純に使えない構造的理由である —— 法律上不適格なのである。
 
 ## 設立と資産要件
+
+以下の表は、エントリ出典インベントリの公開一次資料（laws.e-gov.go.jp, mhlw.go.jp, nta.go.jp）の範囲に限定して読む。^[source:laws.e-gov.go.jp; mhlw.go.jp; nta.go.jp; wam.go.jp]
 
 | 要件 | 詳細 |
 |---|---|
@@ -52,6 +56,8 @@ translated_at: 2026-06-05T00:00:00.000Z
 これは 一般財団 / 公益財団 には課されない独特の **蓄積防止** 制約であり、この形態の 介護報酬 と公的補助への重い依存を反映している。
 
 ## 税務上の取扱い
+
+以下の表は、エントリ出典インベントリの公開一次資料（laws.e-gov.go.jp, mhlw.go.jp, nta.go.jp）の範囲に限定して読む。^[source:laws.e-gov.go.jp; mhlw.go.jp; nta.go.jp; wam.go.jp]
 
 | レバー | 取扱い |
 |---|---|

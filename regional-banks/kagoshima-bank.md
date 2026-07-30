@@ -3,8 +3,8 @@ title: "鹿児島銀行"
 aliases: ["Kagoshima Bank", "The Kagoshima Bank", "株式会社鹿児島銀行", "かぎん"]
 domain: regional-banks
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, banking, regional-bank, kyushu, kagoshima, operating-company]
@@ -26,6 +26,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 株式会社鹿児島銀行は、金融庁の銀行免許一覧に掲載される鹿児島県本店の地方銀行。[[regional-banks/kyushu-fg]] の core operating bank であり、Kagoshima / South Kyushu regional-bank operating-company anchor として扱う。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, kagin.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; kagin.co.jp]
 
 | Item | Notes |
 |---|---|

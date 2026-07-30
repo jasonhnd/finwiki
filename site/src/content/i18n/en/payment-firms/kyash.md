@@ -1,11 +1,11 @@
 ---
 source: payment-firms/kyash
-source_hash: 3c70f4ad5c6a3887
+source_hash: 7d37e01ebe2b93e2
 lang: en
 status: machine
 fidelity: ok
 title: "Kyash"
-translated_at: 2026-05-31T23:59:49.409Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Kyash
 
@@ -19,6 +19,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 Kyash is an independent fintech operator that combines a wallet, prepaid Visa, and funds-transfer functions. It discloses its corporate profile, funds-transfer service-provider registration, third-party prepaid payment instrument issuer registration, PCI DSS compliance, and related items, making it a non-bank benchmark in the Japanese wallet ecosystem.
 
 ## 1. Legal entity and license boundary
+
+The following table is scoped to public primary sources (kyash.co, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:kyash.co; fsa.go.jp]
 
 | Item | Reading |
 |---|---|

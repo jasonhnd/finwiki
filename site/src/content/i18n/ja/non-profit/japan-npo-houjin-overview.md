@@ -1,12 +1,12 @@
 ---
 source: non-profit/japan-npo-houjin-overview
-source_hash: 081f4aea0c4b1621
+source_hash: 0e20e9e546f37f3e
 lang: ja
 model: claude-opus-4-8
 status: machine
 fidelity: ok
 title: "日本 NPO法人（特定非営利活動法人）— 法的構造の概観"
-translated_at: 2026-06-05T00:00:00.000Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本 NPO法人（特定非営利活動法人）— 法的構造の概観
@@ -20,6 +20,8 @@ translated_at: 2026-06-05T00:00:00.000Z
 **NPO法人**（特定非営利活動法人、「specified non-profit corporation」）は、**独自の法律ファミリー** —— 特定非営利活動促進法（NPO Act, 1998）—— によって規律され、一般の 社団・財団 形態を登記する法務局ではなく **都道府県知事 / 指定都市市長** によって監督される市民社会の法的形態である。単なる登記ではなく **認証 (authorisation)** プロセスによって設立され、**公証人手数料も登録税もかからない** が、その引き換えに **10 人以上の会員、限定された許可活動（20 の列挙カテゴリー）、重い義務的情報公開** を要求する。
 
 ## 準拠法と監督庁
+
+以下の表は、エントリ出典インベントリの公開一次資料（npo-homepage.go.jp, laws.e-gov.go.jp, moj.go.jp）の範囲に限定して読む。^[source:npo-homepage.go.jp; laws.e-gov.go.jp; moj.go.jp]
 
 | 属性 | 詳細 |
 |---|---|
@@ -51,6 +53,8 @@ NPO法人 は **特定非営利活動** —— NPO Act の 別表 にある **20
 これらのカテゴリーの外にある活動を NPO法人 の **主たる目的** とすることはできない。使命がリストにマップしない組織は別のビークルを使わなければならない —— 通常は [[non-profit/japan-ippan-vs-koeki-shadan-houjin|一般社団法人]]（あらゆる適法な目的）または財団形態である。
 
 ## 設立要件
+
+以下の表は、エントリ出典インベントリの公開一次資料（npo-homepage.go.jp, laws.e-gov.go.jp, moj.go.jp）の範囲に限定して読む。^[source:npo-homepage.go.jp; laws.e-gov.go.jp; moj.go.jp]
 
 | 要件 | NPO法人 のルール |
 |---|---|

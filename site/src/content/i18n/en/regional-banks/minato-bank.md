@@ -1,11 +1,11 @@
 ---
 source: regional-banks/minato-bank
-source_hash: 1370dcc60815857c
+source_hash: bf74e547a268f6ed
 lang: en
 status: machine
 fidelity: ok
 title: "Minato Bank"
-translated_at: 2026-05-31T23:59:49.412Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Minato Bank
 
@@ -19,6 +19,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 Minato Bank, Ltd. is a second regional bank headquartered in Hyogo Prefecture and listed in the FSA bank license list. It is the Hyogo / Kansai operating bank under [[megabanks/resona-hd]] and should be treated as a bank-license entity separate from [[regional-banks/kansai-mirai-bank]].
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, minatobk.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; minatobk.co.jp]
 
 | Item | Notes |
 |---|---|

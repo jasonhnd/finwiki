@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/swiss-re-japan
-source_hash: e64c31066eee5f00
+source_hash: 44638f536493688c
 lang: ja
 status: machine
 fidelity: ok
 title: "スイス再保険日本支店"
-translated_at: 2026-06-02T16:33:58.454Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # スイス再保険日本支店
 
@@ -18,6 +18,8 @@ translated_at: 2026-06-02T16:33:58.454Z
 スイス再保険会社（Swiss Reinsurance Company Ltd. / Schweizerische Rückversicherungs-Gesellschaft AG、SIX 上場）の日本支店。Munich Re と並ぶ **世界 2 大再保険会社の一角**。金融庁の損害保険会社免許一覧（外国損害保険会社等）に掲載され、日本市場で Property & Casualty Reinsurance と Life & Health Reinsurance の両セグメントを展開する。
 
 ## 1. 法人・ライセンス境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（swissre.com, fsa.go.jp）の範囲に限定して読む。^[source:swissre.com; fsa.go.jp]
 
 | 項目 | 説明 |
 |---|---|

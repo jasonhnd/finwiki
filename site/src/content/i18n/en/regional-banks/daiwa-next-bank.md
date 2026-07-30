@@ -1,11 +1,11 @@
 ---
 source: regional-banks/daiwa-next-bank
-source_hash: 96bdb938c874d055
+source_hash: 346b8c6753650b1b
 lang: en
 status: machine
 fidelity: ok
 title: "Daiwa Next Bank (大和ネクスト銀行)"
-translated_at: 2026-07-28T20:55:25Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Daiwa Next Bank (大和ネクスト銀行)
@@ -20,6 +20,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 Daiwa Next Bank is a banking subsidiary of [[securities-firms/daiwa-sg|Daiwa Securities Group]], classified among the FSA's "other banks," and provides deposit and foreign-currency services linked to Daiwa Securities accounts. On 2026-04-27, Daiwa Next Bank itself resolved to acquire all shares of [[trust-banks/orix-bank|Orix Bank]] and make it a wholly owned subsidiary. The price is ¥370 billion before adjustments, completion is expected by 2026-10, and a subsequent merger of the two banks is under consideration. ^[FSA bank licence list: https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx; Daiwa Next Bank company profile: https://www.bank-daiwa.co.jp/about/company/profile/; Daiwa Next Bank, "Acquisition of Orix Bank as a Subsidiary" (2026-04-27): https://www.bank-daiwa.co.jp/info/2026/pdf/0427_02.pdf]
 
 ## 1. Corporate / license boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, bank-daiwa.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; bank-daiwa.co.jp]
 
 | Item | Reading |
 |---|---|

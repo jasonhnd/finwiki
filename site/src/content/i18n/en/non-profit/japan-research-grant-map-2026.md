@@ -1,11 +1,11 @@
 ---
 source: non-profit/japan-research-grant-map-2026
-source_hash: 6793a00bfb9aa556
+source_hash: 67383d01766316af
 lang: en
 status: machine
 fidelity: ok
 title: "Japan Research Grant map (FY 2026 年)"
-translated_at: 2026-06-19T13:31:34.053Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan Research Grant map (FY 2026 年)
@@ -19,6 +19,8 @@ This entry sits under [[non-profit/japan-general-foundation-establishment-requir
 > A list of the main grants that [[non-profit/japan-general-foundation-establishment-requirements|一般財団法人]] / research institutions / public-interest research projects can target. Because grant amounts vary by fiscal year, this is recorded as a snapshot of "FY 2026 年."
 
 ## Main candidates (FY 2026 年)
+
+The following table is scoped to public primary sources (taf.or.jp, suntory.co.jp, mitsubishi-zaidan.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:taf.or.jp; suntory.co.jp; mitsubishi-zaidan.jp; mhlw.go.jp]
 
 | Grant body | Per 1 件 | Application period | Eligibility | Notes |
 |---------|-----------|---------|------|------|
@@ -50,6 +52,8 @@ As with the Mitsubishi Foundation Social Welfare Activities and Research Grant, 
 Research-grant solicitations generally concentrate from 12  of the previous year to 4  of the current year, so **completing the proposal by 11  of the previous year** is the practical schedule. Scholarships and support systems for students and early-career researchers are organized separately by [[policy-finance/japan-student-services-organization|JASSO]], and combining them with research grants can secure the living foundation of the research representative.
 
 ## Application proposals
+
+The following table is scoped to public primary sources (taf.or.jp, suntory.co.jp, mitsubishi-zaidan.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:taf.or.jp; suntory.co.jp; mitsubishi-zaidan.jp; mhlw.go.jp]
 
 | Project | Main candidate grant | Reason |
 |------|-------------|------|

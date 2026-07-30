@@ -1,12 +1,12 @@
 ---
 source: securities/japan-market-maker-and-liquidity-provider-landscape
-source_hash: 479035c983b5e4e4
+source_hash: ea8139b9f0f95cb8
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Japan market maker and liquidity provider landscape"
-translated_at: 2026-06-26T08:29:01.779Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan market maker and liquidity provider landscape
@@ -35,6 +35,8 @@ translated_at: 2026-06-26T08:29:01.779Z
 
 OSE は、以下のような商品をカバーする上場デリバティブの正式なマーケットメーカー（MM）プログラムを運営している：
 
+以下の表は、エントリ出典インベントリの公開一次資料（jpx.co.jp, fsa.go.jp, jsda.or.jp）の範囲に限定して読む。^[source:jpx.co.jp; fsa.go.jp; jsda.or.jp; citadelsecurities.com]
+
 | Product | Market-maker relevance |
 |---|---|
 | 日経 225  先物 / オプション | コアの株価指数デリバティブ MM 活動。 |
@@ -57,6 +59,8 @@ TSE の現物株式の指定マーケットメーカーのカバレッジは、�
 ## Domestic broker market making
 
 各主要国内証券会社は、機関投資家ビジネスの一部として株式/デリバティブ/ETF のマーケットメイクと指定参加者活動を運営している：
+
+以下の表は、エントリ出典インベントリの公開一次資料（jpx.co.jp, fsa.go.jp, jsda.or.jp）の範囲に限定して読む。^[source:jpx.co.jp; fsa.go.jp; jsda.or.jp; citadelsecurities.com]
 
 | House | Market-making relevance |
 |---|---|
@@ -125,6 +129,8 @@ TSE の現物株式の指定マーケットメーカーのカバレッジは、�
 
 JPX の MM インセンティブの一般的な構造：
 
+以下の表は、エントリ出典インベントリの公開一次資料（jpx.co.jp, fsa.go.jp, jsda.or.jp）の範囲に限定して読む。^[source:jpx.co.jp; fsa.go.jp; jsda.or.jp; citadelsecurities.com]
+
 | Incentive | Typical form |
 |---|---|
 | 手数料リベート / 取引参加コストの削減 | MM 適格活動に対する取引ごとまたは商品ごとの手数料の引き下げ。 |
@@ -133,6 +139,8 @@ JPX の MM インセンティブの一般的な構造：
 | 接続性 / インフラの便益 | 一部の制度設計において。 |
 
 対応する義務：
+
+以下の表は、エントリ出典インベントリの公開一次資料（jpx.co.jp, fsa.go.jp, jsda.or.jp）の範囲に限定して読む。^[source:jpx.co.jp; fsa.go.jp; jsda.or.jp; citadelsecurities.com]
 
 | Obligation | Typical form |
 |---|---|
@@ -168,6 +176,8 @@ JPX の MM インセンティブの一般的な構造：
 
 HFT の在庫と日中ポジションには資金調達インフラが必要である：
 
+以下の表は、エントリ出典インベントリの公開一次資料（jpx.co.jp, fsa.go.jp, jsda.or.jp）の範囲に限定して読む。^[source:jpx.co.jp; fsa.go.jp; jsda.or.jp; citadelsecurities.com]
+
 | Need | Source |
 |---|---|
 | プライムブローカレッジ / 資金調達 | バルク資金調達レイヤーについては [[securities/japan-prime-brokerage-and-institutional-financing|prime 証券仲介]] を参照；グローバル IB がシンセティックおよびフィジカルの資金調達を提供する。 |
@@ -179,6 +189,8 @@ HFT の在庫と日中ポジションには資金調達インフラが必要で�
 資金調達コストは意味のある競争上の差別化要因である：安価な在庫資金調達を持つ会社は、高価な資金調達を持つ会社よりも低い回転率でタイトなスプレッドをクオートできる。
 
 ## Regulatory and self-regulatory framework
+
+以下の表は、エントリ出典インベントリの公開一次資料（jpx.co.jp, fsa.go.jp, jsda.or.jp）の範囲に限定して読む。^[source:jpx.co.jp; fsa.go.jp; jsda.or.jp; citadelsecurities.com]
 
 | Layer | Role |
 |---|---|
@@ -201,6 +213,8 @@ ETF の指定参加者（AP）は、通常、マーケットメーカーとし�
 [[securities/japan-asset-manager-landscape-matrix|domestic ETF 発行会社]]（野村 AM、AM-One、MUFG AM、日興 AM、大和 AM、iShares Japan）にとって、AP 関係は運営上重要である；ニッチな ETF における薄い AP カバレッジは、より広い NAV トラッキングエラーを引き起こす。
 
 ## Latency and infrastructure
+
+以下の表は、エントリ出典インベントリの公開一次資料（jpx.co.jp, fsa.go.jp, jsda.or.jp）の範囲に限定して読む。^[source:jpx.co.jp; fsa.go.jp; jsda.or.jp; citadelsecurities.com]
 
 | Layer | Note |
 |---|---|

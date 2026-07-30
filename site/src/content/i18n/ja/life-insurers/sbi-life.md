@@ -1,11 +1,11 @@
 ---
 source: life-insurers/sbi-life
-source_hash: 0bd16f1e52abfb65
+source_hash: 94e4544ba3db2b18
 lang: ja
 status: machine
 fidelity: ok
 title: "SBI生命保険"
-translated_at: 2026-06-02T15:14:17.141Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # SBI生命保険
@@ -20,6 +20,8 @@ translated_at: 2026-06-02T15:14:17.141Z
 SBI生命保険株式会社は、金融庁の生命保険会社免許一覧に掲載される [[non-life-insurers/sbi-insurance-group]] / [[megabanks/sbi-hd]] 系の 生命保険事業会社。SBI group の銀行・証券・資産運用・保険をつなぐ 個人向け金融エコシステム の中で、死亡保障・医療保障などの保険 引受免許上の境界 を担う。
 
 ## 1. 免許・グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, sbilife.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; sbilife.co.jp]
 
 | 項目 | 注記 |
 |---|---|

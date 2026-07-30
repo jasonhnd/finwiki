@@ -1,11 +1,11 @@
 ---
 source: life-insurers/dai-ichi-frontier-life
-source_hash: 320758693d43d407
+source_hash: bd09babbc2403f42
 lang: ja
 status: machine
 fidelity: ok
 title: "第一フロンティア生命保険"
-translated_at: 2026-06-02T14:25:12.390Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 第一フロンティア生命保険
@@ -20,6 +20,8 @@ translated_at: 2026-06-02T14:25:12.390Z
 第一フロンティア生命保険株式会社は、[[life-insurers/dai-ichi-life]] グループの生命保険事業会社である。金融庁の生命保険会社一覧に掲載される別法人で、銀行・金融機関チャネルと相性の高い貯蓄性・投資性保険商品を扱うグループ内専門会社として見る。
 
 ## 1. 免許・グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, d-frontier-life.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; d-frontier-life.co.jp]
 
 | 項目 | 注記 |
 |---|---|

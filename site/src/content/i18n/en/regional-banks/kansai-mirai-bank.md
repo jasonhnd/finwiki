@@ -1,11 +1,11 @@
 ---
 source: regional-banks/kansai-mirai-bank
-source_hash: 3cbc515eea13eea8
+source_hash: faff07096b50b2d2
 lang: en
 status: machine
 fidelity: ok
 title: "Kansai Mirai Bank"
-translated_at: 2026-06-15T04:09:41.138Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Kansai Mirai Bank
@@ -19,6 +19,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 Kansai Mirai Bank, Limited (株式会社関西みらい銀行) is a regional bank headquartered in Osaka City, Osaka Prefecture, holding a banking licence under the Banking Act and listed on the FSA bank-licence list. It is a Kansai operating bank belonging to the Kansai Mirai Financial Group under [[megabanks/resona-hd|りそなホールディングス]], treated as the bank-licence entity following the merger of the former Kansai Urban Banking Corporation and the Kinki Osaka Bank. Its business consists of deposit-taking and lending to SMEs and individuals in Osaka and Kansai.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, kansaimiraibank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; kansaimiraibank.co.jp]
 
 | Item | Notes |
 |---|---|

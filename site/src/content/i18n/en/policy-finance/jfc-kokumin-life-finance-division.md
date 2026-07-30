@@ -1,11 +1,11 @@
 ---
 source: policy-finance/jfc-kokumin-life-finance-division
-source_hash: 789b256d82b9d67c
+source_hash: 6660c006803010a1
 lang: en
 status: machine
 fidelity: ok
 title: "JFC 国民生活事業 (National Life Finance Division) operating model"
-translated_at: 2026-06-19T12:43:19.898Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # JFC 国民生活事業 (National Life Finance Division) operating model
@@ -20,6 +20,8 @@ JFC 国民生活事業 (National Life Finance Division, often abbreviated as "�
 
 ## 1. 部門位置 within JFC
 
+The following table is scoped to public primary sources (jfc.go.jp, meti.go.jp, chusho.meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jfc.go.jp; meti.go.jp; chusho.meti.go.jp; maff.go.jp]
+
 | Item | Detail |
 |---|---|
 | Parent | [[financial-regulators/jfc|JFC]] (株式会社日本政策金融公庫), 100% state-owned special company |
@@ -31,6 +33,8 @@ JFC 国民生活事業 (National Life Finance Division, often abbreviated as "�
 | Typical ticket | Millions to low tens of millions of yen; product-specific ceilings extend higher (e.g., 新創業融資制度 up to ¥30 million; 教育一般貸付 up to ¥350 万 per child standard, with extensions) |
 
 ### 2.1 Loan-product table
+
+The following table is scoped to public primary sources (jfc.go.jp, meti.go.jp, chusho.meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jfc.go.jp; meti.go.jp; chusho.meti.go.jp; maff.go.jp]
 
 | Product class | Sub-product | Typical purpose | Ceiling / tenor (公開資料ベース) | Counterpart on private side |
 |---|---|---|---|---|
@@ -70,6 +74,8 @@ Application channels include direct application at 国民生活 branches and ref
 ### 2.4 教育貸付 — the 国の教育ローン anchor
 
 The **教育一般貸付 (国の教育ローン)** is JFC's flagship educational loan and one of the most-recognised public-finance products in Japan: ^[extracted]
+
+The following table is scoped to public primary sources (jfc.go.jp, meti.go.jp, chusho.meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jfc.go.jp; meti.go.jp; chusho.meti.go.jp; maff.go.jp]
 
 | Feature | Reading |
 |---|---|
@@ -118,6 +124,8 @@ The division's underwriting, monitoring, and restructuring capacity is therefore
 
 ### JASSO vs JFC 教育貸付 — operational distinction
 
+The following table is scoped to public primary sources (jfc.go.jp, meti.go.jp, chusho.meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jfc.go.jp; meti.go.jp; chusho.meti.go.jp; maff.go.jp]
+
 | Dimension | JFC 教育一般貸付 (国の教育ローン) | [[policy-finance/japan-student-services-organization|JASSO]] scholarship loan |
 |---|---|---|
 | Borrower | Parent / guardian | Student |
@@ -158,6 +166,8 @@ The 民間補完 doctrine applies — JFC fills gaps where private credit alone 
 
 ### Supervising ministries
 
+The following table is scoped to public primary sources (jfc.go.jp, meti.go.jp, chusho.meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jfc.go.jp; meti.go.jp; chusho.meti.go.jp; maff.go.jp]
+
 | Ministry | Interest |
 |---|---|
 | 経済産業大臣 | SME / startup / sectoral-policy oversight (lead) |
@@ -169,6 +179,8 @@ The 民間補完 doctrine applies — JFC fills gaps where private credit alone 
 The multi-ministry supervision pattern reflects the division's breadth — it touches sectoral policy (METI), education policy (MEXT), welfare policy (MHLW), and core public-finance allocation (MoF) simultaneously.
 
 ## 7. Comparative position — 国民生活 vs adjacent lanes
+
+The following table is scoped to public primary sources (jfc.go.jp, meti.go.jp, chusho.meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jfc.go.jp; meti.go.jp; chusho.meti.go.jp; maff.go.jp]
 
 | Dimension | JFC 国民生活 | [[policy-finance/jfc-sme-division-operating-model\|JFC SME Division]] | [[policy-finance/japan-credit-guarantee-system\|信用保証協会]] system | [[policy-finance/japan-student-services-organization\|JASSO]] | Private 信用金庫 / 信用組合 microlending |
 |---|---|---|---|---|---|

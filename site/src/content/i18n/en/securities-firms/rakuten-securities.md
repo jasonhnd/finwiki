@@ -1,11 +1,11 @@
 ---
 source: securities-firms/rakuten-securities
-source_hash: 4a732fedc0ef0ee3
+source_hash: 199b88cf2a204c5b
 lang: en
 status: machine
 fidelity: ok
 title: "Rakuten Securities"
-translated_at: 2026-06-19T12:43:19.883Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Rakuten Securities
@@ -17,6 +17,8 @@ Rakuten Securities is the online brokerage arm associated with [[payment-firms/r
 Use this page for online brokerage, retail NISA acquisition, point / card / ecosystem distribution, and household asset-building flow.
 
 ## Positioning
+
+The following table is scoped to public primary sources (global.rakuten.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:global.rakuten.com; fsa.go.jp]
 
 | Lens | Reading |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: payment-firms/western-union-japan
-source_hash: 13b387e989cd2dd1
+source_hash: 354b9aa2d5bb15c0
 lang: en
 status: machine
 fidelity: ok
 title: "ウエスタンユニオンジャパン (Western Union Japan)"
-translated_at: 2026-06-15T03:48:21.873Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # ウエスタンユニオンジャパン (Western Union Japan)
@@ -19,6 +19,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]] (its domain ro
 Western Union Japan Co., Ltd. is the Western Union group's Japan **funds-transfer operator** (funds-transfer operator under the Payment Services Act; Director-General of the Kanto Local Finance Bureau 第00039号, registration 平成27年8月18日). Its head office is in Toranomon, Minato-ku, Tokyo. It is a representative example of cash-pickup / agent-network remittance, providing international remittance for migrant, travel, and cross-border household flows.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (westernunion.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:westernunion.com; fsa.go.jp]
 
 | Item | Notes |
 |---|---|

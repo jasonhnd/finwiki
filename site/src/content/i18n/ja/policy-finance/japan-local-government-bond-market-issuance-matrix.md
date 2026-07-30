@@ -1,11 +1,11 @@
 ---
 source: policy-finance/japan-local-government-bond-market-issuance-matrix
-source_hash: 694a6bb3ae585d6a
+source_hash: 49483888e09917d1
 lang: ja
 status: machine
 fidelity: ok
 title: "日本の地方債市場発行マトリクス（都道府県 / 政令指定都市 / 市町村 / 特別区）"
-translated_at: 2026-06-19T06:09:18.185Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本の地方債市場発行マトリクス（都道府県 / 政令指定都市 / 市町村 / 特別区）
@@ -128,6 +128,8 @@ translated_at: 2026-06-19T06:09:18.185Z
 - **外国人投資家の参加。** 意味がある — JFM は外貨建市場で発行しており、クロスボーダー投資家の関心を引く；共同発行プールは JFM 債に直接よりも限定的な外国人投資家の参加を持つ。
 
 ## 大比較マトリクス表
+
+以下の表は、エントリ出典インベントリの公開一次資料（chihousai.or.jp, mof.go.jp, soumu.go.jp）の範囲に限定して読む。^[source:chihousai.or.jp; mof.go.jp; soumu.go.jp; jfm.go.jp]
 
 | 軸 | 東京都（都）| 主要都道府県（大阪、愛知、神奈川など）| その他の都道府県 | 政令指定都市（指定都市）| 一般市 / 町 / 村 | 共同発行プール | JFM 債 |
 |---|---|---|---|---|---|---|---|

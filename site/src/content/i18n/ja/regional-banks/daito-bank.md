@@ -1,11 +1,11 @@
 ---
 source: regional-banks/daito-bank
-source_hash: 1d0cd475073aba88
+source_hash: e90790f8bad2d615
 lang: ja
 status: machine
 fidelity: ok
 title: "大東銀行"
-translated_at: 2026-06-15T04:09:41.160Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 大東銀行
@@ -20,6 +20,8 @@ translated_at: 2026-06-15T04:09:41.160Z
 株式会社大東銀行 (The Daito Bank) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される福島県郡山市本店の第二地方銀行。福島県内では第一地銀の [[regional-banks/toho-bank|東邦銀行]]、第二地銀の [[regional-banks/fukushima-bank|福島銀行]] と合わせて、第一地銀 / 第二地銀の二層構造を分けて読む。事業の中身は県中通りの預金受入と中小企業・個人向け貸出という地方銀行の標準モデル。
 
 ## 1. 免許 / グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, daitobank.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; daitobank.co.jp]
 
 | 項目 | 備考 |
 |---|---|

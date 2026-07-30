@@ -1,12 +1,12 @@
 ---
 source: securities/japan-asset-manager-landscape-matrix
-source_hash: 0f1dcaf1a1545734
+source_hash: a6c916e7fa418426
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の資産運用会社ランドスケープ・マトリクス"
-translated_at: 2026-06-26T08:32:23.059Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本の資産運用会社ランドスケープ・マトリクス
@@ -21,6 +21,8 @@ translated_at: 2026-06-26T08:32:23.059Z
 
 ## スコープと境界
 
+以下の表は、エントリ出典インベントリの公開一次資料（toushin.or.jp, jsda.or.jp, fsa.go.jp）の範囲に限定して読む。^[source:toushin.or.jp; jsda.or.jp; fsa.go.jp; mhlw.go.jp]
+
 | 境界 | 取り扱い |
 |---|---|
 | 国内投資運用業オペレーター | FSA の FIBO レジストリ上の 463 投資運用オペレーター；本ページは重要な極をカバーし、ロングテールはカバーしない。[[securities/financial-instruments-business-operators-japan-index|FIEA 事業者 registry index]] を参照。 |
@@ -30,6 +32,8 @@ translated_at: 2026-06-26T08:32:23.059Z
 | 保険内部の資産運用 | インハウスの生命保険一般勘定の資産運用は保険会社ページに位置する；本マトリクスは生保系列の **登録された** AM 子会社をカバーする。 |
 
 ## 業界規模のレンズ
+
+以下の表は、エントリ出典インベントリの公開一次資料（toushin.or.jp, jsda.or.jp, fsa.go.jp）の範囲に限定して読む。^[source:toushin.or.jp; jsda.or.jp; fsa.go.jp; mhlw.go.jp]
 
 | レンズ | 読み方 |
 |---|---|
@@ -44,6 +48,8 @@ translated_at: 2026-06-26T08:32:23.059Z
 ## 四つのレーン下記の四つのレーンは競争上のセグメントであり、法的カテゴリーではない。それらは重複する：保険会社所有の AM はメガバンク系列でもありうる（AM-One）し、独立系 AM はサブアドバイザリーの受け手でもありうる。
 
 ### レーン 1 — メガバンク系列 AM
+
+以下の表は、エントリ出典インベントリの公開一次資料（toushin.or.jp, jsda.or.jp, fsa.go.jp）の範囲に限定して読む。^[source:toushin.or.jp; jsda.or.jp; fsa.go.jp; mhlw.go.jp]
 
 | AM | 親会社 | 設立 / 合併 | 注記 |
 |---|---|---|---|
@@ -69,6 +75,8 @@ translated_at: 2026-06-26T08:32:23.059Z
 
 ### レーン 3 — 独立系 / オンライン AM
 
+以下の表は、エントリ出典インベントリの公開一次資料（toushin.or.jp, jsda.or.jp, fsa.go.jp）の範囲に限定して読む。^[source:toushin.or.jp; jsda.or.jp; fsa.go.jp; mhlw.go.jp]
+
 | AM | グループ | 際立った特徴 |
 |---|---|---|
 | [[asset-managers/sbi-asset-management|SBI Asset Management]] | [[megabanks/sbi-hd|SBI Group]] / SBIグローバルアセットマネジメント | [[securities-firms/sbi-securities|SBI Securities]] NISA ファネルに供給する低コストのインデックスファンド（SBI Vシリーズ）。 |
@@ -80,6 +88,8 @@ translated_at: 2026-06-26T08:32:23.059Z
 レーン 3 の要点：独立系 / オンラインレーンは二つのエンジンで動く — (1) NISA フローを供給する低コストのインデックスファンドと (2) ブティックのアクティブ / オルタナティブマンデート。前者は TER とブランドで競争する；後者はトラックレコードと 機関投資家 の信頼で競争する。
 
 ### レーン 4 — 日本における外資系列 AM
+
+以下の表は、エントリ出典インベントリの公開一次資料（toushin.or.jp, jsda.or.jp, fsa.go.jp）の範囲に限定して読む。^[source:toushin.or.jp; jsda.or.jp; fsa.go.jp; mhlw.go.jp]
 
 | AM | 親会社 | 日本での役割 |
 |---|---|---|
@@ -95,6 +105,8 @@ translated_at: 2026-06-26T08:32:23.059Z
 レーン 4 の要点：外資系 AM はグローバルなプロダクトファクトリーを運営し、日本は主にディストリビューションの目的地および 機関投資家マンデートのソースとして機能する。それらは銀行またはオンライン証券のファネルを欠くため、公募投信 のリテールフローランキングをリードすることは稀である；代わりに、国内 AM のファンド内部のサブアドバイザリーマンデートに不釣り合いに現れる。
 
 ## レーン横断比較マトリクス
+
+以下の表は、エントリ出典インベントリの公開一次資料（toushin.or.jp, jsda.or.jp, fsa.go.jp）の範囲に限定して読む。^[source:toushin.or.jp; jsda.or.jp; fsa.go.jp; mhlw.go.jp]
 
 | ディメンション | メガバンク系列 | 保険系列 | 独立系 / オンライン | 外資系列 |
 |---|---|---|---|---|
@@ -137,6 +149,8 @@ translated_at: 2026-06-26T08:32:23.059Z
 
 ## 公募投信 vs 私募投信比率
 
+以下の表は、エントリ出典インベントリの公開一次資料（toushin.or.jp, jsda.or.jp, fsa.go.jp）の範囲に限定して読む。^[source:toushin.or.jp; jsda.or.jp; fsa.go.jp; mhlw.go.jp]
+
 | カテゴリー | 対象 | 開示 | 典型的な AM |
 |---|---|---|---|
 | 公募投信 | リテール / 家計 | 目論見書、EDINET、運用報告書 | メガバンク系列 AM、独立系 / オンライン AM、外資系 AM |
@@ -146,6 +160,8 @@ translated_at: 2026-06-26T08:32:23.059Z
 （金融プレスが通常報じる）リテール AM のリーグテーブルは 公募投信 のみをカバーする。機関投資家および保険のレーンを適切に見るには、私募投信 および 投資一任残高 を含めること。
 
 ## 最近の M&A 統合
+
+以下の表は、エントリ出典インベントリの公開一次資料（toushin.or.jp, jsda.or.jp, fsa.go.jp）の範囲に限定して読む。^[source:toushin.or.jp; jsda.or.jp; fsa.go.jp; mhlw.go.jp]
 
 | 年 | 事象 | 結果 |
 |---|---|---|
@@ -158,6 +174,8 @@ translated_at: 2026-06-26T08:32:23.059Z
 
 ## グローバルピアとの業界横断比較
 
+以下の表は、エントリ出典インベントリの公開一次資料（toushin.or.jp, jsda.or.jp, fsa.go.jp）の範囲に限定して読む。^[source:toushin.or.jp; jsda.or.jp; fsa.go.jp; mhlw.go.jp]
+
 | 比較 | 日本の現実 |
 |---|---|
 | BlackRock との規模 | 日本最大の AM は BlackRock のグローバル AUM より一桁小さい；統合しても、上位 5 の日本の AM は BlackRock の規模に近づかない。 |
@@ -169,6 +187,8 @@ translated_at: 2026-06-26T08:32:23.059Z
 結論：日本の AM は **ディストリビューション主導であり、規模主導ではない**。競争上の問いは「誰が BlackRock のグローバルなプロダクトファクトリーに匹敵できるか」ではなく「誰が顧客の主要な 投信購入の意思決定と DC / iDeCo のプラン運営を管理するか」である。
 
 ## 規制の境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（toushin.or.jp, jsda.or.jp, fsa.go.jp）の範囲に限定して読む。^[source:toushin.or.jp; jsda.or.jp; fsa.go.jp; mhlw.go.jp]
 
 | 当局 | スコープ | ユースケース |
 |---|---|---|

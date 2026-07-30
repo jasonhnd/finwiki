@@ -3,8 +3,8 @@ title: 株式会社八十二銀行 (The Hachijuni Bank)
 aliases: ["Hachijuni Bank", "The Hachijuni Bank, Ltd.", "八十二銀行", "82 銀行", "はちじゅうにぎんこう"]
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank]
@@ -61,6 +61,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ### 重要年表（抜粋）
 
+The following table is scoped to public primary sources (fsa.go.jp, bank.82group.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; bank.82group.jp]
+
 | 年月 | 事象 |
 |---|---|
 | 1877 | **第六十三国立銀行 設立**（明治期国立銀行条例下）|
@@ -75,6 +77,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 | 2026 FSA snapshot | [[regional-banks/hachijuni-nagano-bank|株式会社八十二長野銀行]] が地方銀行一覧に掲載 |
 
 ## 2. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (fsa.go.jp, bank.82group.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; bank.82group.jp]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

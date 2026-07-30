@@ -1,11 +1,11 @@
 ---
 source: regional-banks/higo-bank
-source_hash: 6a730af59a31a2aa
+source_hash: 4eb3beab29fd7cf0
 lang: en
 status: machine
 fidelity: ok
 title: "Higo Bank"
-translated_at: 2026-06-19T12:43:19.890Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Higo Bank
@@ -20,6 +20,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 Higo Bank, Ltd. is a regional bank headquartered in Kumamoto Prefecture and listed in the FSA's bank license list. It is the core operating bank of [[regional-banks/kyushu-fg]], and is treated as the regional-bank operating-company anchor for Kumamoto / TSMC-adjacent finance.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, higobank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; higobank.co.jp]
 
 | Item | Notes |
 |---|---|

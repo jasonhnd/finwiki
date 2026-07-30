@@ -1,11 +1,11 @@
 ---
 source: payments/visa-mastercard-amex-jcb-japan-operating-comparison
-source_hash: 42288ade60cedf39
+source_hash: 58f5b3a5ed7562ce
 lang: en
 status: machine
 fidelity: ok
 title: "Visa Mastercard AMEX JCB Japan operating comparison"
-translated_at: 2026-06-01T03:31:12.272Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Visa Mastercard AMEX JCB Japan operating comparison
@@ -23,6 +23,8 @@ The four international brands operating in Japan — **Visa, Mastercard, America
 Three claims commonly muddle four-brand analysis. First, "they're all just card brands" — flattening the four-party vs three-party distinction (see [[payments/jcb-three-party-operating-model|JCB three-party operating model]]) hides the interchange-vs-no-interchange divergence that drives merchant fee economics. Second, "JCB only matters domestically" — JCB International's global acquirer-partnerships (Discover Global Network, CTBC, KB Kookmin etc.) and JCB's inbound-tourist acceptance role in Korea / Taiwan / SE Asia make JCB more globally relevant than headline acceptance footprint suggests. Third, "AMEX is just premium" — the **Credit Saison Persona JV** issuance line means AMEX has materially broader Japan issuer footprint than its closed-loop reputation implies. This matrix surfaces all three for direct read.
 
 ## Big four-brand comparison matrix
+
+The following table is scoped to public primary sources (visa.co.jp, mastercard.co.jp, americanexpress.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:visa.co.jp; mastercard.co.jp; americanexpress.com; global.jcb]
 
 | Dimension | Visa | Mastercard | American Express | JCB |
 |---|---|---|---|---|
@@ -75,6 +77,8 @@ JCB's distinctive Japan positioning: **only domestic-Japan international brand**
 
 Most major Japan card issuers issue more than one brand. The cross-ownership pattern is structurally important for understanding why issuer competition in Japan is **brand-overlapping rather than brand-segmented**:
 
+The following table is scoped to public primary sources (visa.co.jp, mastercard.co.jp, americanexpress.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:visa.co.jp; mastercard.co.jp; americanexpress.com; global.jcb]
+
 | Issuer | Issues Visa? | Issues Mastercard? | Issues AMEX? | Issues JCB? | Notes |
 |---|---|---|---|---|---|
 | [[card-issuers/mufg-nicos\|MUFG NICOS]] | Yes (anchor) | Yes (anchor) | Yes (cobrand select) | Yes (anchor partner) | Dual / triple-brand cards common |
@@ -94,6 +98,8 @@ The pattern: **at the consumer-issuer level, brand choice is typically a product
 
 Public Cashless Promotion Council and METI data do not consistently break out per-brand acceptance share with the precision that this section ideally requires. Because no authoritative per-brand share figure is published, the share-characterization column below is marked `n.d.` (データ未公開); only the qualitative acceptance-breadth observations are retained.
 
+The following table is scoped to public primary sources (visa.co.jp, mastercard.co.jp, americanexpress.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:visa.co.jp; mastercard.co.jp; americanexpress.com; global.jcb]
+
 | Brand | Acceptance breadth (Japan merchants) | Indicative share characterization | Notes |
 |---|---|---|---|
 | Visa | Largest international-brand footprint; near-universal at chain merchants and online | n.d. (per-brand share not published) | Universal at brand acceptance |
@@ -106,6 +112,8 @@ Verifiable data sources: METI 2025 cashless data release (https://www.meti.go.jp
 ## QR / code-payment overlay strategy comparison
 
 The four brands diverge meaningfully on whether and how they participate in the QR / code-payment lane that has emerged in Japan alongside card payment (covered in [[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]]):
+
+The following table is scoped to public primary sources (visa.co.jp, mastercard.co.jp, americanexpress.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:visa.co.jp; mastercard.co.jp; americanexpress.com; global.jcb]
 
 | Brand | Push-to-card / instant-payment product | Code-payment direct product | Wallet-issued card economics |
 |---|---|---|---|
@@ -120,6 +128,8 @@ The structural pattern: **Visa Direct and Mastercard Send are the two principal 
 
 The 2025-2026 emergence of AI-agent-initiated commerce (covered in payments-side at [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]]) creates a parallel race among the four brands to position their tokenization / authentication / authorization infrastructure as the standard rail for agentic payments:
 
+The following table is scoped to public primary sources (visa.co.jp, mastercard.co.jp, americanexpress.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:visa.co.jp; mastercard.co.jp; americanexpress.com; global.jcb]
+
 | Brand | Agentic-pay product / framework | Tokenization layer | Authentication adaptation |
 |---|---|---|---|
 | Visa | **Visa Intelligent Commerce** / **Visa Agentic Commerce** | Visa Token Service (network tokens, single-use tokens) | Visa Secure (3-DS 2.x) extended with delegated-authentication for agent flows |
@@ -133,6 +143,8 @@ Visa and Mastercard have the most advanced public-side disclosure of agentic-pay
 
 The four brands have structurally different relationships with Japan banks and bank-FGs:
 
+The following table is scoped to public primary sources (visa.co.jp, mastercard.co.jp, americanexpress.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:visa.co.jp; mastercard.co.jp; americanexpress.com; global.jcb]
+
 | Brand | Bank-FG anchor relationships | JV / partnership structure | Distribution channel |
 |---|---|---|---|
 | Visa | MUFG (via [[card-issuers/mufg-nicos\|MUFG NICOS]]), SMFG (via [[card-issuers/smbc-card\|SMBC Card]] + SMBC GMO PAYMENT JV) | License relationships; no equity JV | Bank-FG card lines + multi-brand cobrand cards |
@@ -145,6 +157,8 @@ The **AMEX-Saison Persona** partnership and **JCB's shareholder structure** are 
 ## Fee disclosure and JFTC pressure landing
 
 The 2022-04-08 JFTC credit-card merchant-fee report and the 2023-06-01 METI / JFTC joint release on JCB's fee-disclosure represent significant ongoing regulatory pressure on Japan card brand operating economics:
+
+The following table is scoped to public primary sources (visa.co.jp, mastercard.co.jp, americanexpress.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:visa.co.jp; mastercard.co.jp; americanexpress.com; global.jcb]
 
 | Brand | Fee disclosure status (Japan, 2026-05) | JFTC engagement |
 |---|---|---|

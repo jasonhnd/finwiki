@@ -1,12 +1,12 @@
 ---
 source: non-profit/japan-shakai-fukushi-houjin
-source_hash: c1147e8437fe5937
+source_hash: eea5c89b5333aa66
 lang: en
 model: claude-opus-4-8
 status: machine
 fidelity: ok
 title: "Japan Social Welfare Corporation (Shakai Fukushi Houjin) — social welfare corporation governance, supervision, and tax treatment"
-translated_at: 2026-06-05T00:00:00.000Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan Social Welfare Corporation (Shakai Fukushi Houjin) — social welfare corporation governance, supervision, and tax treatment
@@ -23,6 +23,8 @@ A **社会福祉法人 (Social Welfare Corporation)** is a special public-intere
 
 The defining feature is the **business categories** it may run:
 
+The following table is scoped to public primary sources (laws.e-gov.go.jp, mhlw.go.jp, nta.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:laws.e-gov.go.jp; mhlw.go.jp; nta.go.jp; wam.go.jp]
+
 | Category | Examples | Who may operate |
 |---|---|---|
 | **第一種社会福祉事業 (Type-1)** | 特別養護老人ホーム (special nursing homes), 児童養護施設 (children's homes), 救護施設 | Generally **only the national/local government or a 社会福祉法人** |
@@ -31,6 +33,8 @@ The defining feature is the **business categories** it may run:
 Because **第一種** businesses are largely reserved to public bodies and 社会福祉法人, the form is effectively the *gatekeeper vehicle* for residential welfare. This is the structural reason a welfare operator cannot simply use the cheaper [[non-profit/japan-npo-houjin-overview|NPO法人]] form for a 特養 — it is statutorily ineligible.
 
 ## Establishment and asset requirement
+
+The following table is scoped to public primary sources (laws.e-gov.go.jp, mhlw.go.jp, nta.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:laws.e-gov.go.jp; mhlw.go.jp; nta.go.jp; wam.go.jp]
 
 | Requirement | Detail |
 |---|---|
@@ -52,6 +56,8 @@ The 2016 reform attacked the perception that welfare corporations accumulated pu
 This is a distinctive **anti-accumulation** constraint not imposed on 一般財団 / 公益財団, reflecting the form's heavy reliance on介護報酬 and public subsidy.
 
 ## Tax treatment
+
+The following table is scoped to public primary sources (laws.e-gov.go.jp, mhlw.go.jp, nta.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:laws.e-gov.go.jp; mhlw.go.jp; nta.go.jp; wam.go.jp]
 
 | Lever | Treatment |
 |---|---|

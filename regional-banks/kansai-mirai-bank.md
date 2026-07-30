@@ -3,8 +3,8 @@ title: "関西みらい銀行"
 aliases: ["Kansai Mirai Bank", "Kansai Mirai Bank, Limited", "株式会社関西みらい銀行"]
 domain: regional-banks
 created: 2026-05-21
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-12-05
 confidence: likely
 tags: [JapanFG, banking, regional-bank, kansai, osaka, operating-company]
@@ -25,6 +25,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 株式会社関西みらい銀行 (Kansai Mirai Bank) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される大阪府大阪市本店の地方銀行。[[megabanks/resona-hd|りそなホールディングス]] 傘下の関西みらいフィナンシャルグループに属する Kansai operating bank であり、旧関西アーバン銀行・近畿大阪銀行の統合後 bank-license entity として扱う。事業の中身は大阪・関西での預金受入と中小企業・個人向け貸出。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, kansaimiraibank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; kansaimiraibank.co.jp]
 
 | Item | Notes |
 |---|---|

@@ -3,8 +3,8 @@ title: "三十三銀行 (San ju San Bank)"
 aliases: ["San ju San Bank", "San-ju-san Bank", "三十三銀行", "株式会社三十三銀行", "33 銀行"]
 domain: regional-banks
 created: 2026-05-24
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, banking, regional-bank, chubu, mie, operating-company]
@@ -29,6 +29,8 @@ This entry sits under the [[regional-banks/INDEX|regional-banks INDEX]] as the b
 株式会社三十三銀行は、三重県四日市市に本店を置く第一地方銀行で、[[regional-banks/san-jusan-fg|三十三 FG]] (東証 PRIME 7322) の100%子会社・single bank operating subsidiary。**2021-05-01 旧三重銀行 + 旧第三銀行の合併**で発足し、社名「三十三」は「**三 (mie / 三重) + 三 (third / 第三)**」両行の「三」を取ったダブルミーニング (英名: San ju San = 33)。県内シェア No.1 は [[regional-banks/hyakugo-bank|百五銀行]] が握り、本行は両行統合で2位に位置するが、中京経済圏 (名古屋圏) 関西寄り境界の独特ポジションを活かす。^[extracted]
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, 33bk.co.jp, 33fg.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; 33bk.co.jp; 33fg.co.jp; chiginkyo.or.jp]
 
 | Item | Notes |
 |---|---|
@@ -78,6 +80,8 @@ This entry sits under the [[regional-banks/INDEX|regional-banks INDEX]] as the b
 - **2024**: 中期経営計画策定 (店舗網最適化・DX 投資・名古屋圏進出)
 
 ## 4. KPI table (FY2025.3)
+
+The following table is scoped to public primary sources (fsa.go.jp, 33bk.co.jp, 33fg.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; 33bk.co.jp; 33fg.co.jp; chiginkyo.or.jp]
 
 | 項目 | 数値 (2025年3月末) |
 |---|---|

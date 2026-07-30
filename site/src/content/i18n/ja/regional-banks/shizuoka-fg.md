@@ -1,11 +1,11 @@
 ---
 source: regional-banks/shizuoka-fg
-source_hash: 2351ba9b7a756e86
+source_hash: d76db73d299d74e7
 lang: ja
 status: machine
 fidelity: ok
 title: "しずおかフィナンシャルグループ"
-translated_at: 2026-06-02T15:14:17.135Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # しずおかフィナンシャルグループ
@@ -53,6 +53,8 @@ translated_at: 2026-06-02T15:14:17.135Z
 
 ### 重要年表（抜粋）
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | 年月 | 事象 |
 |---|---|
 | 1943 | **静岡銀行 設立**（県内主要 3 行 合併）|
@@ -64,6 +66,8 @@ translated_at: 2026-06-02T15:14:17.135Z
 | 2024〜 | 中期経営計画（地銀単独 FG 化後の戦略フェーズ）|
 
 ## 2. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

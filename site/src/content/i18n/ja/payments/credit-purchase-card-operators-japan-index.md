@@ -1,12 +1,12 @@
 ---
 source: payments/credit-purchase-card-operators-japan-index
-source_hash: 07b1fbcddfe020a0
+source_hash: 0a6e1a5e331d6059
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の信用購入・カード事業者登録インデックス"
-translated_at: 2026-06-26T08:32:23.052Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 日本の信用購入・カード事業者登録インデックス
 
@@ -18,6 +18,8 @@ METI の割賦販売法公開一覧は、日本のクレジットカード発行
 
 ## 登録スナップショット
 
+以下の表は、エントリ出典インベントリの公開一次資料（meti.go.jp）の範囲に限定して読む。^[source:meti.go.jp]
+
 | 登録区分 | 時点 | 件数 | ウィキでの扱い |
 |---|---:|---:|---|
 | 登録包括信用購入あっせん業者 | 2026-04 月末 | 241 | 重要なカード発行会社 / 信販会社をルート化し、地域の長い裾野は METI PDF に残す。 |
@@ -26,6 +28,8 @@ METI の割賦販売法公開一覧は、日本のクレジットカード発行
 | クレジットカード番号等取扱契約締結事業者 | 2026-04 月末 | 275 | アクワイアラー、加盟店 PSP、カード番号取扱責任に使う。 |
 
 ## 境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（meti.go.jp）の範囲に限定して読む。^[source:meti.go.jp]
 
 | 境界 | 扱い |
 |---|---|
@@ -36,6 +40,8 @@ METI の割賦販売法公開一覧は、日本のクレジットカード発行
 | 前払式支払手段発行者 | FSA 前払式支払手段登録と [[payments/prepaid-payment-instrument-issuers-japan-index]] を使う。 |
 
 ## 既存の重要 wiki ルート
+
+以下の表は、エントリ出典インベントリの公開一次資料（meti.go.jp）の範囲に限定して読む。^[source:meti.go.jp]
 
 | セグメント | ルート | 独立ページとする理由 |
 |---|---|---|

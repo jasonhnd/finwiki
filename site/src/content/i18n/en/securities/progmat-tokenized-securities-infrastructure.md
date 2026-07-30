@@ -1,11 +1,11 @@
 ---
 source: securities/progmat-tokenized-securities-infrastructure
-source_hash: 8b44c43aee6ec1e0
+source_hash: 2c2423405af46a1b
 lang: en
 status: machine
 fidelity: ok
 title: "Progmat tokenized securities infrastructure"
-translated_at: 2026-06-01T04:15:40.132Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Progmat tokenized securities infrastructure
@@ -19,6 +19,8 @@ This page sits inside [[securities/INDEX|securities index]] as the platform-side
 Progmat is a Japanese tokenization platform operated by Progmat Inc. (株式会社Progmat), spun out of [[megabanks/mizuho-fg|Mizuho]]-adjacent and MUFG-led trust-bank tokenization work (the core Progmat ST infrastructure originated inside [[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust and Banking]] before becoming an independent company with multi-bank shareholders). It provides issuance and lifecycle infrastructure for tokenized trust-beneficial-interests (ST), tokenized deposit / stablecoin (Progmat Coin / Progmat UT), and platform infrastructure for security tokens that subsequently trade on [[securities/osaka-digital-exchange|Osaka Digital Exchange]] START secondary market. Public Progmat materials report material cumulative ST issuance balances across domestic markets, with Progmat-handled cases forming the majority share. Competing platforms include BOOSTRY (Nomura-led, also positioned to support ST issuance) and ibet for FIN (consortium platform). Together these three form the Japanese ST issuance-platform triangle that sits behind the ST issuer side of [[securities/japan-security-token-secondary-market-route|ST secondary market routes]].
 
 ## Platform identity
+
+The following table is scoped to public primary sources (progmat.co.jp, mufg.jp, tr.mufg.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:progmat.co.jp; mufg.jp; tr.mufg.jp; fsa.go.jp]
 
 | Field | Public reading |
 |---|---|
@@ -46,6 +48,8 @@ The Japanese architectural choice has been to integrate trust banks deeply into 
 
 ## Progmat ST product architecture
 
+The following table is scoped to public primary sources (progmat.co.jp, mufg.jp, tr.mufg.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:progmat.co.jp; mufg.jp; tr.mufg.jp; fsa.go.jp]
+
 | Layer | Function |
 |---|---|
 | Issuer | Originates the underlying asset (e.g. real-estate property holdings, bond portfolio, fund interests). |
@@ -72,6 +76,8 @@ For the securities-domain reader, the takeaway is: Progmat's ST work and Progmat
 
 Japanese ST issuance platforms have settled into a three-pole architecture, each with different shareholder backing and product orientation:
 
+The following table is scoped to public primary sources (progmat.co.jp, mufg.jp, tr.mufg.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:progmat.co.jp; mufg.jp; tr.mufg.jp; fsa.go.jp]
+
 | Platform | Operating entity | Anchor / lineage | Orientation |
 |---|---|---|---|
 | Progmat | Progmat Inc. | MUFG group origin; multi-bank shareholders | Trust-beneficial-interest ST + Progmat Coin / SC integration; bank-led ecosystem. |
@@ -91,6 +97,8 @@ For an analyst, the right framing is: ST issuance in Japan is not winner-take-al
 
 From the Progmat public concept page source pack, the following market-size fields have been disclosed (snapshot values; verify the visible page date for time-sensitive use):
 
+The following table is scoped to public primary sources (progmat.co.jp, mufg.jp, tr.mufg.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:progmat.co.jp; mufg.jp; tr.mufg.jp; fsa.go.jp]
+
 | Field | Reported value |
 |---|---|
 | Domestic cumulative security-token cases | 87 |
@@ -101,6 +109,8 @@ From the Progmat public concept page source pack, the following market-size fiel
 These numbers indicate (a) the Japanese ST issuance market is in early-thousands-of-billions-of-yen scale rather than trillions, and (b) Progmat holds approximately the majority share of issued ST balance by reported snapshot. Both ratios will move; always verify against the Progmat public page rather than caching a snapshot indefinitely.
 
 ## Issuer / asset classes supported
+
+The following table is scoped to public primary sources (progmat.co.jp, mufg.jp, tr.mufg.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:progmat.co.jp; mufg.jp; tr.mufg.jp; fsa.go.jp]
 
 | Asset class | Public examples (verify per issue) |
 |---|---|
@@ -113,6 +123,8 @@ Each ST issue has a per-issue disclosure pack covering issuer, trust bank, distr
 
 ## Regulatory and self-regulatory anchors
 
+The following table is scoped to public primary sources (progmat.co.jp, mufg.jp, tr.mufg.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:progmat.co.jp; mufg.jp; tr.mufg.jp; fsa.go.jp]
+
 | Layer | Role |
 |---|---|
 | FSA | Authorizes FIBO with tokenized-security distribution scope; oversees the trust-bank role; published 2022-06-22 Market System Working Group interim report addressing ST circulation. |
@@ -121,6 +133,8 @@ Each ST issue has a per-issue disclosure pack covering issuer, trust bank, distr
 | Payment services / banking | Progmat Coin / SC side is regulated under payment services law / banking law revisions; out of scope for the strict ST securities path but architecturally relevant for DvP. |
 
 ## Comparison vs cash-equity infrastructure
+
+The following table is scoped to public primary sources (progmat.co.jp, mufg.jp, tr.mufg.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:progmat.co.jp; mufg.jp; tr.mufg.jp; fsa.go.jp]
 
 | Dimension | Cash equity (TSE) | ST (Progmat / BOOSTRY / ibet → START) |
 |---|---|---|

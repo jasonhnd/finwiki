@@ -1,11 +1,11 @@
 ---
 source: payments/japan-merchant-psp-competitive-scorecard
-source_hash: 2f3f5b9ec4969be5
+source_hash: 9bbf5f4e75ca6d52
 lang: en
 status: machine
 fidelity: ok
 title: "Japan merchant PSP competitive scorecard"
-translated_at: 2026-07-28T20:15:36Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan merchant PSP competitive scorecard
@@ -96,6 +96,8 @@ Distinctive position: **Recruit ecosystem + mPOS** — Recruit's HotPepper Beaut
 
 ## Big comparison matrix table
 
+The following table is scoped to public primary sources (gmo-pg.com, gmo.jp, epsilon.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:gmo-pg.com; gmo.jp; epsilon.jp; sbpayment.jp]
+
 | PSP | Parent / group | Listing | Founded | Primary merchant base | Reported merchant count | Card brand support | Code payment support | A2A / Bank Pay support | Konbini / bank-transfer | Suica / IC-prepaid | BNPL / 後払い integration | Settlement speed (typical) | Fee model (small merchant baseline) | Vertical specialization | Acquirer role (own/external) | M&A / parent history |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | **[[payment-firms/gmo-payment-gateway\|GMO-PG]]** | [[business/gmo-internet-group\|GMO Internet Group]] | TSE PRIME 3769 | 1995 (as カードコマース) | Enterprise + mid-market EC | ~30万+ stores | Visa / MC / JCB / AMEX / Diners / Discover | PayPay / d払い / au PAY / 楽天ペイ via gateway | Bank Pay / 銀行振込 | Yes (multi-konbini) | Limited | BtoB 後払い in-house + 3rd-party | Configurable T+5 to T+M | Negotiated by volume; high-volume rates among lowest | Multi-vertical; enterprise | Own merchant-contracting + multi-acquirer routing | GMO group internal; SMBC GMO PAYMENT JV with [[card-issuers/smbc-card\|SMBC Card]] |
@@ -115,6 +117,8 @@ Distinctive position: **Recruit ecosystem + mPOS** — Recruit's HotPepper Beaut
 
 Reported GMV / processed-value figures are not uniformly disclosed across this peer set, so this side-axis is partial. GMO Payment Gateway publishes annual processed-value in IR (in the trillions of yen range, reflecting its enterprise-merchant base). SB Payment Service processed-value is reported within SoftBank Group / PayPay FG consolidated disclosure rather than as a standalone PSP. DGFT processed-value is reported within Digital Garage segment disclosure. Square Japan, Stripe Japan, PayPal Japan, Komoju, Amazon Pay, and Rakuten Payment are not consistently standalone-disclosed at PSP segment level; readers should consult parent company IR for the disclosed component.
 
+The following table is scoped to public primary sources (gmo-pg.com, gmo.jp, epsilon.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:gmo-pg.com; gmo.jp; epsilon.jp; sbpayment.jp]
+
 | PSP | Processed-value disclosure surface | Order of magnitude (public-source indication) |
 |---|---|---|
 | **GMO-PG** | Own IR, quarterly | Trillions of yen annual processed value |
@@ -133,6 +137,8 @@ Readers should treat any specific number as **public-source-cited only** and ver
 
 ## Cross-PSP technical differentiation
 
+The following table is scoped to public primary sources (gmo-pg.com, gmo.jp, epsilon.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:gmo-pg.com; gmo.jp; epsilon.jp; sbpayment.jp]
+
 | Capability | GMO-PG | GMO Epsilon | SBPS | DGFT | Netstars | Square | Stripe | PayPal | Komoju | Amazon Pay | Rakuten Pay | Recruit / Air PAY |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | EMV 3-DS 2.x compliance (2025-03 mandate) | Yes | Yes | Yes | Yes | N/A (code-first) | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
@@ -147,6 +153,8 @@ Readers should treat any specific number as **public-source-cited only** and ver
 ## Fee economics — small-merchant view
 
 For a 商店街 small merchant deciding which PSP to onboard, the headline fee comparison usually looks like this. Real fees are negotiated per merchant and per MCC.
+
+The following table is scoped to public primary sources (gmo-pg.com, gmo.jp, epsilon.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:gmo-pg.com; gmo.jp; epsilon.jp; sbpayment.jp]
 
 | PSP | Card MDR baseline (small merchant) | Per-tx fixed | Monthly minimum | Onboarding time | Hardware cost |
 |---|---|---|---|---|---|
@@ -185,6 +193,8 @@ A fourth era is plausibly emerging in the 2024-2026 window around **BNPL integra
 
 ## Recent regulatory pressure on PSPs
 
+The following table is scoped to public primary sources (gmo-pg.com, gmo.jp, epsilon.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:gmo-pg.com; gmo.jp; epsilon.jp; sbpayment.jp]
+
 | Date | Source | What changed |
 |---|---|---|
 | 2018 | METI | 改正割賦販売法 strengthened 加盟店調査 obligation — raised onboarding cost for PSPs that hold merchant-contracting operator registration |
@@ -207,6 +217,8 @@ The 2025-03 EMV 3-DS mandate is the most consequential change for the EC-PSP seg
 ## PSP-selection decision lens for a merchant
 
 A small or mid-sized merchant in Japan that is selecting a PSP typically faces a four-way decision: card-acceptance footprint, code-payment acceptance footprint, settlement-speed requirement, and integration-complexity tolerance. The matrix supports the following decision-tree shortcut:
+
+The following table is scoped to public primary sources (gmo-pg.com, gmo.jp, epsilon.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:gmo-pg.com; gmo.jp; epsilon.jp; sbpayment.jp]
 
 | Merchant profile | Best-fit PSP cluster |
 |---|---|

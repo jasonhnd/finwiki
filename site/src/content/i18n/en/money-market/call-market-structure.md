@@ -1,11 +1,11 @@
 ---
 source: money-market/call-market-structure
-source_hash: 694ff48e30b78380
+source_hash: 2c8462d7d33769ee
 lang: en
 status: machine
 fidelity: ok
 title: "Call market structure"
-translated_at: 2026-06-18T15:47:13.964Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Call market structure
@@ -22,6 +22,8 @@ The call market is Japan's short-term interbank funding market. The uncollateral
 Use this page when interpreting short-rate normalization, tanshi-company relevance, or the difference between the BoJ's operating guideline and the actual traded overnight rate.
 
 ## Core Mechanics
+
+The following table is scoped to public primary sources (boj.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:boj.or.jp]
 
 | Element | Explanation |
 |---|---|
@@ -46,6 +48,8 @@ Do not read the call rate as a simple deposit rate. It is a wholesale money-mark
 
 The call market historically had two segments distinguished by whether the loan is backed by collateral. In current practice "the call rate" means the **uncollateralized overnight** rate; the collateralized segment is largely a historical and definitional contrast.
 
+The following table is scoped to public primary sources (boj.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:boj.or.jp]
+
 | Dimension | Uncollateralized call (無担保コール) | Collateralized call (有担保コール) |
 |---|---|---|
 | Security | Unsecured; pure counterparty credit exposure. | Secured against pledged eligible collateral. |
@@ -67,6 +71,8 @@ Why the uncollateralized segment dominates:
 The result is a market where the unsecured segment carries the policy-relevant price and the secured short-term funding role sits in repo, leaving the collateralized call segment as a definitional contrast more than a live market.
 
 ## Relationship to other front-end markets
+
+The following table is scoped to public primary sources (boj.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:boj.or.jp]
 
 | Market | How it relates to the call market |
 |---|---|

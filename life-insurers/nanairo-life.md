@@ -3,8 +3,8 @@ title: "なないろ生命保険"
 aliases: ["なないろ生命", "Nanairo Life", "Nanairo Life Insurance", "なないろ生命保険株式会社"]
 domain: life-insurers
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, insurance, life-insurance, asahi-life, agency-channel, operating-company]
@@ -27,6 +27,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 なないろ生命保険株式会社は、金融庁 life-insurer list に掲載される [[life-insurers/asahi-life]] group の life-insurance operating company。朝日生命本体とは別に、乗合代理店 / modern product-channel oriented insurer として見る。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, nanairolife.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; nanairolife.co.jp]
 
 | Item | Notes |
 |---|---|

@@ -1,12 +1,12 @@
 ---
 source: payments/waon-nanaco-retail-prepaid-comparison
-source_hash: 591f52e7b4b7a270
+source_hash: 5f1eb9a75046dca1
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "WAON 対 nanaco：小売プリペイド電子マネー比較"
-translated_at: 2026-06-26T08:29:17.581Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # WAON 対 nanaco：小売プリペイド電子マネー比較
@@ -20,6 +20,8 @@ translated_at: 2026-06-26T08:29:17.581Z
 **WAON**（イオンが運営、イオンのモール / スーパーマーケット / コンビニエンスストアのネットワークをアンカーとする）と **nanaco**（セブン・カードサービスが運営、セブン＆アイグループのコンビニエンスストアおよびイトーヨーカドーのスーパーマーケットをアンカーとする）は、日本における 2 つの主要な **小売をアンカーとするプリペイド電子マネーブランド** である。両者とも FeliCa（[[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|Suica / PASMO / ICOCA]] と同じテクノロジースタック）上で動作し、両者とも FSA のもとで第三者型前払式支払手段として登録され、両者とも親小売グループのロイヤルティプログラム（WAON POINT と nanaco ポイント）と緊密に統合され、両者ともチャージ / ATM の利便性のためにグループ銀行（イオン銀行、セブン銀行）とペアになっている。競争のダイナミクスは、オープン加盟店のコード決済の競争ではなく **グループ小売内のクローズドループ** である — FamiPay に匹敵するが、QR コードではなく FeliCa プリペイドで実行される。両者のインストールベースのポジションは粘着的だが、コード決済（[[payment-firms/paypay|PayPay]]、[[payment-firms/au-payment|au PAY]]、楽天ペイ、d払い）が限界的な新規ユーザーコホートを捉えるにつれて成長は鈍化している。
 
 ## 発行者の横並び概観
+
+以下の表は、エントリ出典インベントリの公開一次資料（waon.net, aeon.co.jp, aeonbank.co.jp）の範囲に限定して読む。^[source:waon.net; aeon.co.jp; aeonbank.co.jp; aeonfinancial.co.jp]
 
 | 次元 | WAON | nanaco |
 |---|---|---|
@@ -41,6 +43,8 @@ translated_at: 2026-06-26T08:29:17.581Z
 
 ## チャージ / 資金供給レールの比較小売プリペイドの経済モデルは、消費者がプリペイド残高をロードするためにどの資金供給レールを使用するかに大きく依存する。各レールは発行者にとって異なるコスト / マージンのプロファイルを持つ。
 
+以下の表は、エントリ出典インベントリの公開一次資料（waon.net, aeon.co.jp, aeonbank.co.jp）の範囲に限定して読む。^[source:waon.net; aeon.co.jp; aeonbank.co.jp; aeonfinancial.co.jp]
+
 | 資金供給レール | WAON のサポート | nanaco のサポート |
 |---|---|---|
 | レジでの現金 | あり、すべてのイオングループ店舗 | あり、すべての 7-イレブン / イトーヨーカドー |
@@ -57,6 +61,8 @@ translated_at: 2026-06-26T08:29:17.581Z
 
 ### イオン / WAON の統合タッチポイント
 
+以下の表は、エントリ出典インベントリの公開一次資料（waon.net, aeon.co.jp, aeonbank.co.jp）の範囲に限定して読む。^[source:waon.net; aeon.co.jp; aeonbank.co.jp; aeonfinancial.co.jp]
+
 | タッチポイント | 統合 |
 |---|---|
 | イオン、マックスバリュ、イオンスタイルのスーパーマーケット | WAON アクセプタンス、イオンカードの優遇価格、より高い倍率での WAON POINT 獲得 |
@@ -70,6 +76,8 @@ translated_at: 2026-06-26T08:29:17.581Z
 | イオンのお客さま感謝デー（毎月 20 日、30 日 5% 割引） | イオンカード / WAON の利用に連動 |
 
 ### セブン＆アイ / nanaco の統合タッチポイント
+
+以下の表は、エントリ出典インベントリの公開一次資料（waon.net, aeon.co.jp, aeonbank.co.jp）の範囲に限定して読む。^[source:waon.net; aeon.co.jp; aeonbank.co.jp; aeonfinancial.co.jp]
 
 | タッチポイント | 統合 |
 |---|---|
@@ -90,6 +98,8 @@ translated_at: 2026-06-26T08:29:17.581Z
 
 Edy（[[payment-firms/rakuten-edy|Rakuten Edy]] が運営）は、特定の小売グループの自社店舗ネットワークをアンカーと **しない** 最も近いピアである。Edy は 2001  に開始し（WAON と nanaco の両方に先行）、プラットフォームスタイルの加盟店アクセプタンス戦略を追求した：FeliCa プリペイドのアクセプタンスを望むあらゆる加盟店は Edy リーダーを設置し、楽天 Edy と契約できる。これは WAON や nanaco が達成したよりも広いクロス加盟店のアクセプタンスを作り出したが、同じグループ小売の経済的アンカーは持たなかった。
 
+以下の表は、エントリ出典インベントリの公開一次資料（waon.net, aeon.co.jp, aeonbank.co.jp）の範囲に限定して読む。^[source:waon.net; aeon.co.jp; aeonbank.co.jp; aeonfinancial.co.jp]
+
 | 次元 | WAON | nanaco | Edy |
 |---|---|---|---|
 | 小売アンカー | イオングループ | セブン＆アイグループ | なし — オープンな加盟店ネットワーク |
@@ -105,6 +115,8 @@ Edy（[[payment-firms/rakuten-edy|Rakuten Edy]] が運営）は、特定の小�
 ## 前払式支払手段法の取り扱い
 
 WAON と nanaco の両者は、資金決済法のもとで **第三者型前払式支払手段** として登録されている。交通プリペイドと同じ義務が適用される：
+
+以下の表は、エントリ出典インベントリの公開一次資料（waon.net, aeon.co.jp, aeonbank.co.jp）の範囲に限定して読む。^[source:waon.net; aeon.co.jp; aeonbank.co.jp; aeonfinancial.co.jp]
 
 | 義務 | 詳細 |
 |---|---|
@@ -125,6 +137,8 @@ AEON Pay（イオンの QR コードウォレット、Seven Pay の撤退後に�
 ## グループ銀行の資金供給コストの優位
 
 WAON と nanaco にとっての **グループ銀行の連携** の経済的重要性は、繰り返し過小評価されるポイントである。消費者がイオン銀行口座から WAON をオートチャージする場合、発行者（イオンフィナンシャルサービス / WAON オペレーション）への資金供給コストは、銀行からウォレットへのフローがイオングループ内部であるため本質的にゼロである。以下と比較すること：
+
+以下の表は、エントリ出典インベントリの公開一次資料（waon.net, aeon.co.jp, aeonbank.co.jp）の範囲に限定して読む。^[source:waon.net; aeon.co.jp; aeonbank.co.jp; aeonfinancial.co.jp]
 
 | 資金供給レールの比較 | WAON イオン銀行経由 | WAON 外部クレジットカード経由 |
 |---|---|---|

@@ -3,8 +3,8 @@ title: ドイチェ・ジャパン (Deutsche Japan)
 aliases: ["Deutsche Japan", "ドイツ銀行東京支店", "ドイチェ証券", "Deutsche Bank Tokyo", "Deutsche Securities Inc.", "DSI"]
 domain: foreign-financial-institutions
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, foreign-ib, banking]
@@ -36,6 +36,8 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 
 ### 主要日本拠点
 
+The following table is scoped to public primary sources (Wikipedia: ドイツ銀行 / Deutsche Bank (2026-05-19 抽出), Deutsche Bank AG 公式日本サイト, 公開報道 (Reuters / Bloomberg / 日経 / FT, 2019-2024 リストラ報道)). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Wikipedia: ドイツ銀行 / Deutsche Bank (2026-05-19 抽出); Deutsche Bank AG 公式日本サイト; 公開報道 (Reuters / Bloomberg / 日経 / FT, 2019-2024 リストラ報道)]
+
 | 法人 | 業態 | 備考 |
 |---|---|---|
 | **ドイツ銀行 東京支店** (Deutsche Bank AG, Tokyo Branch) | 外資系銀行支店 | 1972 開設、本店フランクフルト |
@@ -53,6 +55,8 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 
 ## 2. 沿革・年表
 
+The following table is scoped to public primary sources (Wikipedia: ドイツ銀行 / Deutsche Bank (2026-05-19 抽出), Deutsche Bank AG 公式日本サイト, 公開報道 (Reuters / Bloomberg / 日経 / FT, 2019-2024 リストラ報道)). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Wikipedia: ドイツ銀行 / Deutsche Bank (2026-05-19 抽出); Deutsche Bank AG 公式日本サイト; 公開報道 (Reuters / Bloomberg / 日経 / FT, 2019-2024 リストラ報道)]
+
 | 年月 | 事象 |
 |---|---|
 | 1870 | Deutsche Bank AG 創立 (ベルリン) |
@@ -69,6 +73,8 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 | 2023-03 | クレディ・スイス危機余波、欧州銀全般に注目集まる中で相対的安定維持 |
 
 ## 3. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (Wikipedia: ドイツ銀行 / Deutsche Bank (2026-05-19 抽出), Deutsche Bank AG 公式日本サイト, 公開報道 (Reuters / Bloomberg / 日経 / FT, 2019-2024 リストラ報道)). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Wikipedia: ドイツ銀行 / Deutsche Bank (2026-05-19 抽出); Deutsche Bank AG 公式日本サイト; 公開報道 (Reuters / Bloomberg / 日経 / FT, 2019-2024 リストラ報道)]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

@@ -9,8 +9,8 @@ aliases:
   - "Japan offshore captive"
 domain: insurance
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [insurance, captive, ART, alternative-risk-transfer, bermuda, singapore, cayman, micronesia, offshore, corporate-risk-financing, japan]
@@ -39,6 +39,8 @@ This entry sits under [[insurance/INDEX|insurance index]]. Read it against [[ins
 ## 1. What a captive is, and why corporates form one
 
 A captive is a *licensed insurance company* whose sole or primary business is insuring the risk of its parent and affiliates. Captives sit on a spectrum from:
+
+The following table is scoped to public primary sources (bma.bm, mas.gov.sg, cima.ky). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:bma.bm; mas.gov.sg; cima.ky; fsa.go.jp]
 
 | Form | What it does | Typical user |
 |---|---|---|
@@ -98,6 +100,8 @@ Two related but distinct captive structures sometimes confused:
 |---|---|---|---|
 
 ## 9. Comparison: captive vs commercial insurer vs reinsurer
+
+The following table is scoped to public primary sources (bma.bm, mas.gov.sg, cima.ky). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:bma.bm; mas.gov.sg; cima.ky; fsa.go.jp]
 
 | Dimension | Commercial insurer (e.g., [[non-life-insurers/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]]) | Single-parent captive (offshore) | Reinsurer (e.g., [[non-life-insurers/munich-re-japan|Munich Re Japan]]) |
 |---|---|---|---|

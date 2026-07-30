@@ -11,8 +11,8 @@ aliases:
   - "Japannext execution quality"
 domain: securities
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [securities, market-structure, PTS, SOR, japannext, best-execution]
@@ -40,6 +40,8 @@ This page sits inside [[securities/INDEX|securities index]] as the venue-mechani
 Japannext is the oldest and largest cash-equity PTS in Japan, operated by Japannext Co., Ltd. (formerly SBI Japannext) under a FIEA Type I financial instruments business with PTS authorization. It runs lit continuous-auction order books (J-Market for daytime sessions and X-Market for night session) and supports limit / market / iceberg / pegged order types familiar from MTF / ATS designs in EU and US. Its competitive role is to give broker SOR engines a price-improvement and out-of-hours alternative to [[securities/tokyo-stock-exchange|TSE]] and the OSE-listed cash adjacency. Routing economics are shaped by JSDA self-regulatory rules, FSA customer-best-interest principles, fragmentation between TSE / Japannext / [[securities/osaka-digital-exchange|ODX]] (cash equity scope is narrow at ODX, primarily security tokens), and broker preferencing where the SOR owner is also a Japannext shareholder or distribution counterparty.
 
 ## Venue identity
+
+The following table is scoped to public primary sources (japannext.co.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:japannext.co.jp; jsda.or.jp]
 
 | Field | Public reading |
 |---|---|
@@ -94,6 +96,8 @@ The FSA customer-best-interest principles (顧客本位の業務運営) effectiv
 ## Fragmentation: TSE / OSE / Japannext / ODX
 
 Cash equity liquidity in Japan is far more concentrated on [[securities/tokyo-stock-exchange|TSE]] than US equity is on NYSE / Nasdaq. The fragmentation map looks like:
+
+The following table is scoped to public primary sources (japannext.co.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:japannext.co.jp; jsda.or.jp]
 
 | Venue | Share of cash-equity flow | Notes |
 |---|---|---|
@@ -153,6 +157,8 @@ Japannext PTS cash equity trades clear through [[securities/japan-securities-cle
 - Cross-venue netting at the clearing member level is a meaningful operational benefit for SOR-active firms.
 
 ## Regulation and self-regulation
+
+The following table is scoped to public primary sources (japannext.co.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:japannext.co.jp; jsda.or.jp]
 
 | Layer | Role |
 |---|---|

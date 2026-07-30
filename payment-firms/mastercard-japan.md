@@ -3,8 +3,8 @@ title: "マスターカードジャパン (Mastercard Japan)"
 aliases: ["Mastercard Japan", "マスターカードジャパン", "株式会社マスターカードジャパン", "Mastercard"]
 domain: payment-firms
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, card-brand, payments, mastercard, 4-party-scheme]
@@ -25,6 +25,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 株式会社マスターカードジャパンは、米 Mastercard Incorporated (NYSE:MA) の **日本拠点法人**。Mastercard はカード本体を発行せず、**ブランドライセンス供与・スキーム運営・加盟店間取引処理** のみを担う **純粋 4-party scheme operator**。日本では [[card-issuers/rakuten-card|楽天カード]]、[[card-issuers/mufg-nicos|三菱UFJニコス]]、[[card-issuers/aplus|アプラス]] 等の国内 issuer に Mastercard ブランドをライセンス供与し、加盟店契約は国内 acquirer が担う。直接消費者発行も加盟店契約もしない点が、後述 [[payment-firms/american-express-international-japan|Amex Japan]] と決定的に異なる。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (mastercard.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:mastercard.co.jp]
 
 | Item | Notes |
 |---|---|

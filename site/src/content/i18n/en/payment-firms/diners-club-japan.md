@@ -1,11 +1,11 @@
 ---
 source: payment-firms/diners-club-japan
-source_hash: 96e8fcb9c23bf901
+source_hash: 672fb5e6f7551ebf
 lang: en
 status: machine
 fidelity: ok
 title: "Diners Club Japan"
-translated_at: 2026-06-19T06:09:18.107Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Diners Club Japan
@@ -15,6 +15,8 @@ translated_at: 2026-06-19T06:09:18.107Z
 This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it against [[card-issuers/jcb|JCB]] for peer / contrast context (both are 3-party-system, premium-oriented) and [[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]] for the broader system / regulatory boundary.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (diners.co.jp, meti.go.jp, global.jcb). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:diners.co.jp; meti.go.jp; global.jcb; jcb.co.jp]
 
 | Item | Notes |
 |---|---|

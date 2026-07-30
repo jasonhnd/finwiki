@@ -1,11 +1,11 @@
 ---
 source: regional-banks/aichi-fg
-source_hash: a89c9d04287d15b6
+source_hash: 7d19b5c9424bb345
 lang: en
 status: machine
 fidelity: ok
 title: "Aichi FG (あいち FG)"
-translated_at: 2026-06-19T12:43:19.933Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Aichi FG (あいち FG)
@@ -52,6 +52,8 @@ Aichi FG (holding company, listed 7389)
 
 ### Key chronology ^[extracted]
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Year/Month | Event |
 |---|---|
 | 1910 | Predecessor bank of Aichi Bank (merger of the former Nagoya Bank, etc.) |
@@ -61,6 +63,8 @@ Aichi FG (holding company, listed 7389)
 | **2025-01-01** | **Aichi Bank + Chukyo Bank merger**, organizing the operating-company boundary into [[regional-banks/aichi-bank|あいち銀行]] |
 
 ## 2. Business segment map
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Segment | Main operator | Characteristics |
 |---|---|---|
@@ -80,6 +84,8 @@ Aichi FG (holding company, listed 7389)
 - Optimization of staff placement → strengthened sales capability
 
 ### Competitive landscape
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Competitor | Business type | Position |
 |---|---|---|

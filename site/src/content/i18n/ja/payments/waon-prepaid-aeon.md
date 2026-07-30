@@ -1,12 +1,12 @@
 ---
 source: payments/waon-prepaid-aeon
-source_hash: 6452b79c65ae7a78
+source_hash: 8ca45bee9ca1a5ec
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "WAON：イオングループの全国 IC プリペイド電子マネー"
-translated_at: 2026-06-26T08:38:42.157Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # WAON：イオングループの全国 IC プリペイド電子マネー
@@ -20,6 +20,8 @@ translated_at: 2026-06-26T08:38:42.157Z
 **WAON** (イオンのマスコット「ワオン」にちなんで命名) は、**取引件数で日本最大のリテールアンカー型プリペイド電子マネーブランド** であり、[[payments/nanaco-prepaid-seven-i|nanaco]] と並ぶ二大主要クローズドループ・リテールプリペイドシステムの一つである。イオン株式会社により 2007-04 にローンチされ、WAON はイオングループ内で運営され、[[card-issuers/aeon-financial-service|AEON Financial Service]] が [[payments/funds-transfer-vs-prepaid-boundary|Payment Services Act 前払式 framework]] の下での第三者型前払式支払手段としての決済と発行者義務を担う。このシステムは **FeliCa** 非接触 IC (Suica / nanaco / Edy と同じ技術) 上で動作し、物理カード、おサイフケータイ経由の Mobile WAON、Apple Pay (限定デバイス)、AEON Pay スマートフォンアプリをサポートする。受け入れはイオングループの全リテールネットワーク (イオン、マックスバリュ、ミニストップ、イオンシネマ、ウエルシアなど) に加え、約 1M のグループ外加盟店に及ぶ。**WAON POINT** 統合はロイヤルティポイントを 1:1 で利用可能な残高に変換し、バンドルされた **イオンカード** の発行 / [[card-issuers/aeon-bank|AEON Bank]] オートチャージ連携が、イオンの金融サービス経済圏内にウォレットをアンカーする。
 
 ## 発行者と運営構造
+
+以下の表は、エントリ出典インベントリの公開一次資料（waon.net, aeon.co.jp, aeonfinancial.co.jp）の範囲に限定して読む。^[source:waon.net; aeon.co.jp; aeonfinancial.co.jp; aeonbank.co.jp]
 
 | 次元 | 読み方 |
 |---|---|
@@ -48,6 +50,8 @@ WAON は [[payments/funds-transfer-vs-prepaid-boundary|資金決済法]] 第 3 �
 
 ## 受け入れフットプリント受け入れネットワークは同心円状に構造化されている：
 
+以下の表は、エントリ出典インベントリの公開一次資料（waon.net, aeon.co.jp, aeonfinancial.co.jp）の範囲に限定して読む。^[source:waon.net; aeon.co.jp; aeonfinancial.co.jp; aeonbank.co.jp]
+
 | 階層 | 説明 | 例 |
 |---|---|---|
 | 内側 — イオングループ | グループのリテールおよびエンターテインメントのアンカー | イオンモール、イオン、マックスバリュ、ミニストップ、イオンシネマ、ウエルシア (ドラッグ)、KASUMI、ダイエー |
@@ -58,6 +62,8 @@ WAON は [[payments/funds-transfer-vs-prepaid-boundary|資金決済法]] 第 3 �
 内側階層ネットワークの規模 (20,000  を超えるイオングループ店舗) は、コード決済 ([[payment-firms/paypay|PayPay]]、[[payment-firms/au-payment|au PAY]]、楽天ペイ、d払い) が限界的な新規ユーザー成長を捉えてもなお、WAON の設置ベースの地位を支える。
 
 ## KPI スナップショット定量的 KPI はイオンにより IR 資料および統合報告書で公開報告されている：
+
+以下の表は、エントリ出典インベントリの公開一次資料（waon.net, aeon.co.jp, aeonfinancial.co.jp）の範囲に限定して読む。^[source:waon.net; aeon.co.jp; aeonfinancial.co.jp; aeonbank.co.jp]
 
 | 指標 | 読み方 (最新の公開開示) |
 |---|---|

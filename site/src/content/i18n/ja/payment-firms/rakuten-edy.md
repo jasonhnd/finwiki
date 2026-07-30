@@ -1,12 +1,12 @@
 ---
 source: payment-firms/rakuten-edy
-source_hash: f455a2113405c058
+source_hash: 5ca90858b7c7e499
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "楽天Edy"
-translated_at: 2026-06-26T08:31:59.835Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 楽天Edy
@@ -20,6 +20,8 @@ translated_at: 2026-06-26T08:31:59.835Z
 楽天Edy株式会社は、楽天グループの **前払式支払手段（前払式-instrument under 資金決済法）** 発行会社。電子マネー「楽天Edy」は複数加盟店で使える **第三者型前払式支払手段** に該当し、当局の事前登録を要する。これは資金移動業（送金）ではなく、原則払戻し禁止の stored-value rail である点が重要。発行者には未使用残高の半額以上の発行保証金供託が義務づけられる（保有者保護）。[[payment-firms/rakuten-fg|Rakuten]] のポイント・楽天キャッシュ・楽天ペイ・カードと隣接する 前払式層を担う。
 
 ## 1. ライセンス／グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（edy.rakuten.co.jp, s-kessai.jp, fsa.go.jp）の範囲に限定して読む。^[source:edy.rakuten.co.jp; s-kessai.jp; fsa.go.jp]
 
 | Item | Notes |
 |---|---|

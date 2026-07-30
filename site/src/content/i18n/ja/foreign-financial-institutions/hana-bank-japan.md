@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/hana-bank-japan
-source_hash: e58e76d94df6db79
+source_hash: 046df4cdf1b0438b
 lang: ja
 status: machine
 fidelity: ok
 title: "ハナ銀行 在日支店"
-translated_at: 2026-06-02T14:25:12.421Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # ハナ銀行 在日支店
 
@@ -19,6 +19,8 @@ translated_at: 2026-06-02T14:25:12.421Z
 ハナ銀行在日支店は、金融庁の外国銀行支店一覧に掲載される韓国 Hana Bank の在日銀行支店である。旧 Korea Exchange Bank と Hana の統合後の在日支店ルートとして、東京・大阪・福岡を結ぶ韓国系銀行取引の回廊を担う。
 
 ## 1. License / branch 境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, koex.jp, zenginkyo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; koex.jp; zenginkyo.or.jp]
 
 | 項目 | 注記 |
 |---|---|

@@ -10,8 +10,8 @@ aliases:
   - "おとなの自動車保険"
 domain: non-life-insurers
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [JapanFG, insurance, non-life-insurance, direct-insurance, SOMPO, auto-insurance, saison]
@@ -37,6 +37,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]] as the
 
 ## 1. 法人概要
 
+The following table is scoped to public primary sources (sompo-direct.co.jp, sompo-hd.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:sompo-direct.co.jp; sompo-hd.com]
+
 | Item | 内容 |
 |---|---|
 | 正式名（現） | ＳＯＭＰＯダイレクト損害保険株式会社 ^[extracted] |
@@ -51,6 +53,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]] as the
 | 主要チャネル | インターネット・通信販売（ダイレクト型） |
 
 ## 2. 商号変遷と SOMPO 入り
+
+The following table is scoped to public primary sources (sompo-direct.co.jp, sompo-hd.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:sompo-direct.co.jp; sompo-hd.com]
 
 | 年月 | 事象 |
 |---|---|
@@ -103,6 +107,8 @@ SOMPO ホールディングス（東証 PRIME 8630）
 
 ## 5. KPI（公式公開情報ベース）
 
+The following table is scoped to public primary sources (sompo-direct.co.jp, sompo-hd.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:sompo-direct.co.jp; sompo-hd.com]
+
 | 指標 | 数値（出所） |
 |---|---|
 | 従業員数 | **1,141 人**（2024-03-31 時点）。出所: Wikipedia「SOMPOダイレクト損害保険」（ディスクロージャー誌ベース）|
@@ -128,6 +134,8 @@ SOMPO ホールディングス（東証 PRIME 8630）
 旧西武セゾングループ起源の「セゾン自動車火災保険」社名を整理し、**SOMPO ダイレクト** に商号変更。これは SOMPO HD のグループブランド統一・グループ内シナジー明確化施策の一環で、商号面で旧 Saison グループとの歴史的関係を整理した（実体としての資本関係は 2009 連結化時点で SOMPO 100% 子会社）。
 
 ## 7. 規制・監督
+
+The following table is scoped to public primary sources (sompo-direct.co.jp, sompo-hd.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:sompo-direct.co.jp; sompo-hd.com]
 
 | 項目 | 内容 |
 |---|---|

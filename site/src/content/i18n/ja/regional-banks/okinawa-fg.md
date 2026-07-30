@@ -1,11 +1,11 @@
 ---
 source: regional-banks/okinawa-fg
-source_hash: 2bc96e72c8a4efc4
+source_hash: d7cc7ed52cf15246
 lang: ja
 status: machine
 fidelity: ok
 title: "おきなわ FG (Okinawa FG)"
-translated_at: 2026-07-28T20:55:25Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # おきなわ FG (Okinawa FG)
@@ -29,6 +29,8 @@ translated_at: 2026-07-28T20:55:25Z
 
 ### 2025-03 期決算（連結）
 
+以下の表は、エントリ出典インベントリの公開一次資料（okinawafg.co.jp, www2.jpx.co.jp, fse.or.jp）の範囲に限定して読む。^[source:okinawafg.co.jp; www2.jpx.co.jp; fse.or.jp]
+
 | 項目 | 金額 |
 |---|---|
 | 経常収益 | 587 億 5600 万円（前期比 +51 億 8300 万円・+10%）|
@@ -43,6 +45,8 @@ translated_at: 2026-07-28T20:55:25Z
 | ROE（予想）| 7.4% |
 
 ### 主要株主（2022-03-31 時点・公開）
+
+以下の表は、エントリ出典インベントリの公開一次資料（okinawafg.co.jp, www2.jpx.co.jp, fse.or.jp）の範囲に限定して読む。^[source:okinawafg.co.jp; www2.jpx.co.jp; fse.or.jp]
 
 | 株主 | 比率 |
 |---|---|
@@ -90,6 +94,8 @@ translated_at: 2026-07-28T20:55:25Z
 
 ### 重要年表
 
+以下の表は、エントリ出典インベントリの公開一次資料（okinawafg.co.jp, www2.jpx.co.jp, fse.or.jp）の範囲に限定して読む。^[source:okinawafg.co.jp; www2.jpx.co.jp; fse.or.jp]
+
 | 年月 | 事象 |
 |---|---|
 | 1956-06 | 沖縄銀行 設立（資本金 3000 万 B 円）|
@@ -119,6 +125,8 @@ translated_at: 2026-07-28T20:55:25Z
 | 2025-07 | おきぎんサクセスパートナーズ 設立（事業承継・M&A）|
 
 ## 2. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（okinawafg.co.jp, www2.jpx.co.jp, fse.or.jp）の範囲に限定して読む。^[source:okinawafg.co.jp; www2.jpx.co.jp; fse.or.jp]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -154,6 +162,8 @@ translated_at: 2026-07-28T20:55:25Z
 
 ### 競合関係（沖縄県内 3 行寡占構造）
 
+以下の表は、エントリ出典インベントリの公開一次資料（okinawafg.co.jp, www2.jpx.co.jp, fse.or.jp）の範囲に限定して読む。^[source:okinawafg.co.jp; www2.jpx.co.jp; fse.or.jp]
+
 | 行 | 地位 | 預貸金シェア | 上場 | 持株会社化 |
 |---|---|---|---|---|
 | **沖縄銀行**（おきなわ FG）| **県内 No.1** | 約 30% | PRIME 7350（FG）| ◯（2021-10）|
@@ -165,6 +175,8 @@ translated_at: 2026-07-28T20:55:25Z
 - **本土地銀との差**: 県外進出は限定的・本土主要都市駐在事務所のみ。本土地銀の県外展開（[[regional-banks/kyushu-fg]]・[[regional-banks/fukuoka-fg]] 等）と異なり、**県内完結モデル**を維持
 
 ### 役員（2022-03 時点 公開）
+
+以下の表は、エントリ出典インベントリの公開一次資料（okinawafg.co.jp, www2.jpx.co.jp, fse.or.jp）の範囲に限定して読む。^[source:okinawafg.co.jp; www2.jpx.co.jp; fse.or.jp]
 
 | 役職 | 氏名 |
 |---|---|

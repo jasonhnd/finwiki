@@ -6,8 +6,8 @@ aliases:
   - "常陽銀行"
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-16
 confidence: likely
 tags: [JapanFG, regional-bank, mebuki-fg]
@@ -29,6 +29,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## 1. 会社概要
 
+The following table is scoped to public primary sources (joyobank.co.jp, mebuki-fg.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:joyobank.co.jp; mebuki-fg.co.jp]
+
 | 項目 | 内容 |
 |---|---|
 | 正式名 | 株式会社 常陽銀行 |
@@ -41,6 +43,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 公式・親会社資料では、2025-09-30 時点で資本金 851億円、従業員 3,112人、国内 181 店舗、海外 4 駐在員事務所、総資産 12兆8,287億円、預金 10兆4,059億円、貸出金 7兆6,250億円、連結自己資本比率 13.13% とされる。
 
 ## 2. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (joyobank.co.jp, mebuki-fg.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:joyobank.co.jp; mebuki-fg.co.jp]
 
 | 事業セグメント | 内容 | 重要性 |
 |---|---|---|

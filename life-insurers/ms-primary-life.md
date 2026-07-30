@@ -3,8 +3,8 @@ title: "三井住友海上プライマリー生命保険"
 aliases: ["三井住友海上プライマリー生命", "MS Primary Life", "Mitsui Sumitomo Primary Life", "三井住友海上プライマリー生命保険株式会社"]
 domain: life-insurers
 created: 2026-05-21
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, insurance, life-insurance, msad, bancassurance, operating-company]
@@ -27,6 +27,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]] (its domain ro
 三井住友海上プライマリー生命保険株式会社は、保険業法上の生命保険会社免許を持ち金融庁の生命保険会社免許一覧に掲載される、[[non-life-insurers/msad|MS&AD インシュアランス グループ ホールディングス]] の 100% 子会社の生命保険事業会社。2002 年 9 月に生命保険業免許を取得し同年 10 月に営業を開始した会社で、**金融機関窓口販売（銀行窓販 / バンカシュランス）を通じた一時払い個人年金・貯蓄性商品の専門会社**として、MS&AD グループ内で成長分野の個人年金に特化する。同じ MS&AD 系でも保障性中心の [[life-insurers/mitsui-sumitomo-aioi-life|三井住友海上あいおい生命]] とは別に扱う。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, ms-primary.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; ms-primary.com; ms-ad-hd.com]
 
 | Item | Notes |
 |---|---|

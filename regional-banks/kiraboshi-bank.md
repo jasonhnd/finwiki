@@ -3,8 +3,8 @@ title: "きらぼし銀行"
 aliases: ["Kiraboshi Bank", "株式会社きらぼし銀行"]
 domain: regional-banks
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, banking, regional-bank, kiraboshi-fg, kanto, operating-company]
@@ -26,6 +26,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 株式会社きらぼし銀行は、金融庁の銀行免許一覧に掲載される東京都本店の地方銀行で、[[regional-banks/kiraboshi-fg]] 傘下の core operating bank。2018 年に東京都民銀行、八千代銀行、新銀行東京の 3 行合併で発足し、東京都内・首都圏の SME / retail / wealth / startup-support surface を担う。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, kiraboshibank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; kiraboshibank.co.jp]
 
 | Item | Notes |
 |---|---|

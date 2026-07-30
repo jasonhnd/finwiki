@@ -1,11 +1,11 @@
 ---
 source: securities-firms/tokai-tokyo-fh
-source_hash: 71e6362d08c2804e
+source_hash: dc739d970b49874f
 lang: en
 status: machine
 fidelity: ok
 title: "Tokai Tokyo FH (東海東京 FH / Tokai Tokyo Financial Holdings)"
-translated_at: 2026-06-19T12:43:19.872Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Tokai Tokyo FH (東海東京 FH / Tokai Tokyo Financial Holdings)
@@ -82,6 +82,8 @@ Tokai Tokyo's strategic core is the **"regional-bank joint-venture securities JV
 
 ### 4 -axis strategy
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Axis | Content |
 |---|---|
 | Chukyo base | Face-to-face sales in Nagoya / Aichi, deepening with local large enterprises / wealthy clients |
@@ -97,6 +99,8 @@ Tokai Tokyo's strategic core is the **"regional-bank joint-venture securities JV
 - **Investment trusts / PB**: discretionary management for wealthy clients, inheritance / succession
 
 ## 4. Competition / positioning
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Competitor | Relationship |
 |---|---|

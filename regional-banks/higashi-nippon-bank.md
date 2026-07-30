@@ -3,8 +3,8 @@ title: "東日本銀行"
 aliases: ["Higashi-Nippon Bank", "The Higashi-Nippon Bank", "株式会社東日本銀行"]
 domain: regional-banks
 created: 2026-05-21
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-12-05
 confidence: likely
 tags: [JapanFG, banking, second-regional-bank, concordia-fg, yokohama-fg, kanto, operating-company]
@@ -26,6 +26,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 株式会社東日本銀行 (The Higashi-Nippon Bank) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される東京都本店の第二地方銀行で、[[regional-banks/concordia-fg|コンコルディア・フィナンシャルグループ]] 傘下の operating bank。横浜銀行と経営統合した後も、都内中小企業向けの別法人 bank-license surface として残る。事業の中身は預金受入と中小企業・個人向け貸出という地方銀行の標準モデル。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, higashi-nipponbank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; higashi-nipponbank.co.jp]
 
 | Item | Notes |
 |---|---|

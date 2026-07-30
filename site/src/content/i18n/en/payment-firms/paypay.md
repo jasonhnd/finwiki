@@ -1,11 +1,11 @@
 ---
 source: payment-firms/paypay
-source_hash: 00b621e1505e84be
+source_hash: 77a57adf7dc6985f
 lang: en
 status: machine
 fidelity: ok
 title: "PayPay Corporation"
-translated_at: 2026-06-26T03:26:36.040Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # PayPay Corporation
 
@@ -19,6 +19,8 @@ This entry sits under [[payment-firms/INDEX|決済事業者の索引]]. Read it 
 PayPay Corporation is the consumer wallet and code-payment operator of [[megabanks/paypay-fg|PayPay金融グループ]]. Its company profile lists mobile payment and other electronic settlement services as its main business, and enumerates registrations including prepaid payment instruments, credit-card-number handling contract business, funds transfer, electronic payment agency, and designated funds-transfer provider for digital wage payments. ^[verified-2026-06-24]
 
 ## 1. Entity / license boundary
+
+The following table is scoped to public primary sources (about.paypay.ne.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:about.paypay.ne.jp; fsa.go.jp]
 
 | Item | Reading |
 |---|---|

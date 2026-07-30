@@ -12,8 +12,8 @@ aliases:
   - "insurance/life-insurance-distribution-japan"
 domain: insurance
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [insurance, matrix, bancassurance, channel, japan, distribution, foreign-currency-annuity, fsa]
@@ -196,6 +196,8 @@ Note: "Yes" indicates the carrier appears on the bank channel's bancassurance sh
 
 ### Insurer-side new business value (NBV) channel mix
 
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, zenginkyo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; zenginkyo.or.jp; boj.or.jp]
+
 | Insurer | Bancassurance NBV share (conceptual) | Notes |
 |---|---|---|
 | Manulife Japan | Significant — bancassurance is a primary channel | USD whole-life with medical rider anchor |
@@ -212,6 +214,8 @@ Note: "Yes" indicates the carrier appears on the bank channel's bancassurance sh
 | Kampo Life | Japan Post Bank / Japan Post network | Group-internal distribution |
 
 ### FSA conduct-rule overlay
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, zenginkyo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; zenginkyo.or.jp; boj.or.jp]
 
 | Rule area | Application | Notes |
 |---|---|---|
@@ -234,6 +238,8 @@ Note: "Yes" indicates the carrier appears on the bank channel's bancassurance sh
 | ALM consequence for insurer | Asset / liability denominated in same foreign currency; FX risk net of policyholder behaviour | Standard yen ALM |
 
 ### Recent re-tie-up and structural changes (conceptual)
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, zenginkyo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; zenginkyo.or.jp; boj.or.jp]
 
 | Event / theme | Detail |
 |---|---|

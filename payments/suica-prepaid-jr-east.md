@@ -8,8 +8,8 @@ aliases:
   - "Mobile Suica Apple Pay"
 domain: payments
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [payments, prepaid, electronic-money, transit, felica, suica, jr-east, mobile-suica]
@@ -36,6 +36,8 @@ This entry sits under [[payments/INDEX|payments index]] as the JR East-anchored 
 **Suica** (Super Urban Intelligent Card) is the **flagship Japan transit-and-general-purpose IC prepaid e-money**, issued by **East Japan Railway Company (JR East / 東日本旅客鉄道株式会社)** since launch 2001-11-18. Suica is the **largest transit-prepaid issuer by cardholders and transaction count** in Japan, anchoring the [[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|10 IC mutual-use scheme]] alongside PASMO / ICOCA / Kitaca / TOICA / manaca / nimoca / SUGOCA / HAYAKAKEN / PiTaPa (the last being the post-pay exception). Suica is registered as a **第三者型前払式支払手段** under the [[payments/funds-transfer-vs-prepaid-boundary|Payment Services Act prepaid framework]] with cross-merchant acceptance at convenience stores, vending machines, taxis, retail chains, and any FeliCa-accepting POS. **Mobile Suica** launched 2006 (mobile phone integration), with Apple Pay support arriving 2016-10 — converting Suica from physical-card-only to smartphone-native and enabling overseas-issued iPhone integration that has anchored Japan's inbound-tourist cashless story.
 
 ## Issuer and operational structure
+
+The following table is scoped to public primary sources (jreast.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jreast.co.jp; fsa.go.jp]
 
 | Dimension | Reading |
 |---|---|
@@ -77,6 +79,8 @@ Suica is the anchor of the **10 IC mutual-use scheme** launched 2013-03-23, whic
 Inter-issuer settlement runs through **Cyberne** (中央センター — JR East + JR group + private-rail-consortium operated central settlement), which clears tap transactions across issuers.
 
 ## Mobile Suica generations
+
+The following table is scoped to public primary sources (jreast.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jreast.co.jp; fsa.go.jp]
 
 | Generation | Year | Key features |
 |---|---|---|

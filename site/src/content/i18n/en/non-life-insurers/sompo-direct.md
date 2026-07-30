@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/sompo-direct
-source_hash: 6647de9d453da0e4
+source_hash: 71394c3dee9d6e28
 lang: en
 status: machine
 fidelity: ok
 title: "SOMPO Direct Insurance"
-translated_at: 2026-06-01T02:31:57.175Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # SOMPO Direct Insurance
 
@@ -18,6 +18,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 SOMPO Direct Insurance Inc. is the direct non-life insurance operating company of the [[non-life-insurers/sompo]] group. It includes the former Saison Automobile and Fire Insurance surface and appears under its current legal name in the FSA non-life insurance company license list.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, sonpohogo.or.jp, sompo-direct.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sonpohogo.or.jp; sompo-direct.co.jp]
 
 | Item | Notes |
 |---|---|

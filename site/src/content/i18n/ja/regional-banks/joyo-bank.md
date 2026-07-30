@@ -1,11 +1,11 @@
 ---
 source: regional-banks/joyo-bank
-source_hash: 1dd6f7a6b22920c9
+source_hash: bd7866e2c68250f0
 lang: ja
 status: machine
 fidelity: ok
 title: "株式会社常陽銀行 (Joyo Bank)"
-translated_at: 2026-06-02T14:54:39.057Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 株式会社常陽銀行 (Joyo Bank)
@@ -20,6 +20,8 @@ translated_at: 2026-06-02T14:54:39.057Z
 
 ## 1. 会社概要
 
+以下の表は、エントリ出典インベントリの公開一次資料（joyobank.co.jp, mebuki-fg.co.jp）の範囲に限定して読む。^[source:joyobank.co.jp; mebuki-fg.co.jp]
+
 | 項目 | 内容 |
 |---|---|
 | 正式名 | 株式会社 常陽銀行 |
@@ -32,6 +34,8 @@ translated_at: 2026-06-02T14:54:39.057Z
 公式・親会社資料では、2025-09-30 時点で資本金 851億円、従業員 3,112人、国内 181 店舗、海外 4 駐在員事務所、総資産 12兆8,287億円、預金 10兆4,059億円、貸出金 7兆6,250億円、連結自己資本比率 13.13% とされる。
 
 ## 2. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（joyobank.co.jp, mebuki-fg.co.jp）の範囲に限定して読む。^[source:joyobank.co.jp; mebuki-fg.co.jp]
 
 | 事業セグメント | 内容 | 重要性 |
 |---|---|---|

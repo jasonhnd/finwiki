@@ -3,8 +3,8 @@ title: 株式会社京葉銀行
 aliases: ["京葉銀行", "けいよう銀行", "Keiyo Bank", "Keiyo Ginko"]
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, second-tier]
@@ -37,6 +37,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ### 概要数値（公開ベース・概数）
 
+The following table is scoped to public primary sources (Wikipedia: 株式会社京葉銀行（公開情報、2026-05-19 抽出）, 京葉銀行 公式 IR ディスクロージャー誌（公開）). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Wikipedia: 株式会社京葉銀行（公開情報、2026-05-19 抽出）; 京葉銀行 公式 IR ディスクロージャー誌（公開）]
+
 | 項目 | 規模感 |
 |---|---|
 | 総資産 | 約 5 兆円台（第二地銀でも上位） |
@@ -46,6 +48,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 | 従業員 | 約 2,000 名規模 |
 
 ### 沿革（抜粋）
+
+The following table is scoped to public primary sources (Wikipedia: 株式会社京葉銀行（公開情報、2026-05-19 抽出）, 京葉銀行 公式 IR ディスクロージャー誌（公開）). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Wikipedia: 株式会社京葉銀行（公開情報、2026-05-19 抽出）; 京葉銀行 公式 IR ディスクロージャー誌（公開）]
 
 | 年月 | 事象 |
 |---|---|
@@ -58,6 +62,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 | 2022-04 | 東証市場区分見直し → **東証 PRIME** |
 
 ## 2. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (Wikipedia: 株式会社京葉銀行（公開情報、2026-05-19 抽出）, 京葉銀行 公式 IR ディスクロージャー誌（公開）). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Wikipedia: 株式会社京葉銀行（公開情報、2026-05-19 抽出）; 京葉銀行 公式 IR ディスクロージャー誌（公開）]
 
 | 部門 | 主力商品 | 位置付け |
 |---|---|---|
@@ -95,6 +101,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 - **個人預金比率**：個人預金の比率が法人預金より高め、リテール色が濃い
 
 ### 競合関係 map
+
+The following table is scoped to public primary sources (Wikipedia: 株式会社京葉銀行（公開情報、2026-05-19 抽出）, 京葉銀行 公式 IR ディスクロージャー誌（公開）). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Wikipedia: 株式会社京葉銀行（公開情報、2026-05-19 抽出）; 京葉銀行 公式 IR ディスクロージャー誌（公開）]
 
 | 競合軸 | 主要競合 |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: regional-banks/kumamoto-bank
-source_hash: a826c65cbb666d7b
+source_hash: 570e20d6636cd415
 lang: ja
 status: machine
 fidelity: ok
 title: "熊本銀行"
-translated_at: 2026-06-02T14:54:39.071Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 熊本銀行
 # 熊本銀行
@@ -20,6 +20,8 @@ translated_at: 2026-06-02T14:54:39.071Z
 株式会社熊本銀行は、金融庁の銀行免許一覧に掲載される熊本県本店の第二地方銀行。[[regional-banks/fukuoka-fg]] 傘下の熊本側営業銀行であり、[[regional-banks/higo-bank]] とは別法人の比較対象として扱う。
 
 ## 1. 免許・グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, kumamotobank.co.jp, fukuoka-fg.com）の範囲に限定して読む。^[source:fsa.go.jp; kumamotobank.co.jp; fukuoka-fg.com]
 
 | 項目 | 注記 |
 |---|---|

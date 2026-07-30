@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/bangkok-bank-japan
-source_hash: 71e08f7953db51cf
+source_hash: a5e7d9b78ba75ce2
 lang: ja
 status: machine
 fidelity: ok
 title: "バンコック銀行日本 (Bangkok Bank Japan)"
-translated_at: 2026-06-02T14:01:20.900Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # バンコック銀行日本 (Bangkok Bank Japan)
 
@@ -23,6 +23,8 @@ Bangkok Bank Japan は、タイ / ASEAN の法人銀行業務に関する支店�
 
 ## 日本・タイ回廊マップ
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, bangkokbank.com, ibajapan.org）の範囲に限定して読む。^[source:fsa.go.jp; bangkokbank.com; ibajapan.org]
+
 | レーン | 公開情報に基づく読み方 | ウィキでの使い方 |
 |---|---|---|
 | 法人融資 | Bangkok Bank の日本向け公開ページは、日本での事業銀行業務を説明している。 | 日本企業の進出 / 運転資金の論点をルーティングする。 |
@@ -33,6 +35,8 @@ Bangkok Bank Japan は、タイ / ASEAN の法人銀行業務に関する支店�
 
 ## ASEAN ピア文脈
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, bangkokbank.com, ibajapan.org）の範囲に限定して読む。^[source:fsa.go.jp; bangkokbank.com; ibajapan.org]
+
 | ページ | 回廊 |
 |---|---|
 | [[foreign-financial-institutions/bangkok-bank-japan|Bangkok Bank Japan]] | タイ / 日本の銀行回廊。 |
@@ -42,6 +46,8 @@ Bangkok Bank Japan は、タイ / ASEAN の法人銀行業務に関する支店�
 | [[foreign-financial-institutions/standard-chartered-japan|Standard Chartered Japan]] | グローバル AMEA の貿易 / 法人銀行比較対象。 |
 
 ## 調査で抽出すべき項目
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, bangkokbank.com, ibajapan.org）の範囲に限定して読む。^[source:fsa.go.jp; bangkokbank.com; ibajapan.org]
 
 | 項目 | 理由 |
 |---|---|

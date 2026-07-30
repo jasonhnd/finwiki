@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/metrobank-japan
-source_hash: e6acba6e3d6b72d5
+source_hash: 77b0fa6e764aa3e7
 lang: en
 status: machine
 fidelity: ok
 title: "Metropolitan Bank Japan (Metrobank Japan)"
-translated_at: 2026-05-31T23:59:49.379Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Metropolitan Bank Japan (Metrobank Japan)
 
@@ -23,6 +23,8 @@ The page is worth standalone treatment because Metrobank is the second strong Ph
 
 ## Entity Boundary
 
+The following table is scoped to public primary sources (fsa.go.jp, metrobank.co.jp, metrobank.com.ph). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; metrobank.co.jp; metrobank.com.ph]
+
 | Item | Reading |
 |---|---|
 | Parent bank | Metropolitan Bank and Trust Company |
@@ -32,6 +34,8 @@ The page is worth standalone treatment because Metrobank is the second strong Ph
 | Regulatory route | FSA foreign-bank branch row plus foreign-bank agency approvals in public Japan site material. |
 
 ## Business Role Map
+
+The following table is scoped to public primary sources (fsa.go.jp, metrobank.co.jp, metrobank.com.ph). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; metrobank.co.jp; metrobank.com.ph]
 
 | Function | Japan relevance |
 |---|---|

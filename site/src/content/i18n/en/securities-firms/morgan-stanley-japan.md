@@ -1,11 +1,11 @@
 ---
 source: securities-firms/morgan-stanley-japan
-source_hash: 1323f8b94f578a98
+source_hash: 0438fbd1d03a8c19
 lang: en
 status: machine
 fidelity: ok
 title: "Morgan Stanley Japan (モルガン・スタンレー・ジャパン)"
-translated_at: 2026-06-19T12:43:19.952Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Morgan Stanley Japan (モルガン・スタンレー・ジャパン)
@@ -27,6 +27,8 @@ The Japan operations of the US Morgan Stanley (NYSE: MS). Through its **strategi
 
 ### Main entities (4 社 structure)
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Entity | Ownership ratio | Business type | Established |
 |---|---|---|---|
 | **Mitsubishi UFJ Morgan Stanley Securities (MUMSS)** | **MUFG 60% / MS 40%** | Face-to-face retail + ECM/DCM | 2010-05-01 integration |
@@ -38,6 +40,8 @@ The Japan operations of the US Morgan Stanley (NYSE: MS). Through its **strategi
 
 ### Morgan Stanley global basics
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Item | Detail |
 |---|---|
 | Listing | NYSE: MS (S&P 500  constituent) |
@@ -47,6 +51,8 @@ The Japan operations of the US Morgan Stanley (NYSE: MS). Through its **strategi
 | Employees | Approx. 8 万 (global, end of 2024 ) |
 
 ## 2. Business-segment map
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Segment | Main operator | Characteristics |
 |---|---|---|
@@ -61,6 +67,8 @@ The Japan operations of the US Morgan Stanley (NYSE: MS). Through its **strategi
 | **WM (Wealth Management)** | MUMSS retail | Individual HNW, paired with overseas products |
 
 ### Competitive positioning
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Area | Main competitors |
 |---|---|
@@ -100,6 +108,8 @@ The Japan operations of the US Morgan Stanley (NYSE: MS). Through its **strategi
 
 ### Parent Morgan Stanley key timeline (excerpt)
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Year/Month | Event |
 |---|---|
 | 1935-09 | Spun off from J.P. Morgan (Glass-Steagall compliance) |
@@ -137,6 +147,8 @@ The Japan operations of the US Morgan Stanley (NYSE: MS). Through its **strategi
 - Operated as part of the Morgan Stanley global organization
 
 ### Competitive landscape
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Competitor | Nature |
 |---|---|

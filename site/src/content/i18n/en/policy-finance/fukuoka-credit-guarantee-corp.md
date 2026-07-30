@@ -1,11 +1,11 @@
 ---
 source: policy-finance/fukuoka-credit-guarantee-corp
-source_hash: 13b2932288f1086d
+source_hash: e404afe22b38cdc3
 lang: en
 status: machine
 fidelity: ok
 title: "福岡県信用保証協会 (Fukuoka Credit Guarantee Corporation)"
-translated_at: 2026-06-01T03:31:12.242Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 福岡県信用保証協会 (Fukuoka Credit Guarantee Corporation)
@@ -19,6 +19,8 @@ This entry sits under [[policy-finance/INDEX|policy-finance index]] as one of th
 Fukuoka Credit Guarantee Corporation (福岡県信用保証協会) is the Fukuoka-prefecture member of Japan's 51-corporation local credit guarantee system. Its guarantee book is structurally important as the SME-finance anchor for Kyushu — Fukuoka prefecture concentrates Kyushu's largest population, financial-services center (Hakata / Tenjin), TSMC-anchored semiconductor cluster (Kitakyushu industrial belt + Kumamoto spillover), Hakata Port logistics, the inbound-tourism gateway to East Asia, and a major agriculture / food-processing tail. Dominant co-lending partners are [[regional-banks/fukuoka-bank|Fukuoka Bank ([[regional-banks/fukuoka-fg|Fukuoka FG]])]], [[regional-banks/nishi-nippon-city-bank|Nishi-Nippon City Bank ([[regional-banks/nishi-nippon-fhd|Nishi-Nippon FHD]])]], [[regional-banks/fukuoka-chuo-bank|Fukuoka Chuo Bank]], and a dense Kyushu shinkin / credit-cooperative network.
 
 ## 1. 機関概要
+
+The following table is scoped to public primary sources (cgc-fukuoka.or.jp, zenshinhoren.or.jp, chusho.meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:cgc-fukuoka.or.jp; zenshinhoren.or.jp; chusho.meti.go.jp]
 
 | 項目 | 内容 |
 |---|---|
@@ -84,6 +86,8 @@ Within the [[policy-finance/japan-credit-guarantee-system|Japan credit guarantee
 The federation-pooled credit-insurance layer at [[financial-regulators/jfc|JFC]] absorbs the residual loss after Fukuoka CGC's first-loss subrogation. The semiconductor-supplier capex tranche is operationally interesting because the TSMC-JASM Kumamoto investment's spillover into Fukuoka creates a guarantee segment with a different risk-cycle profile than the legacy Kitakyushu heavy-industry tail — semiconductor capex cycles can produce large swings within a single fiscal year, putting more weight on the federation reinsurance and JFC credit-insurance smoothing function. The [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] visible in [[regional-banks/fukuoka-fg|Fukuoka FG]]'s multi-prefecture holdco shape adds a layer of complexity to clean prefectural attribution of guarantee-related risk.
 
 ## 8. Comparison with peer prefecture CGCs
+
+The following table is scoped to public primary sources (cgc-fukuoka.or.jp, zenshinhoren.or.jp, chusho.meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:cgc-fukuoka.or.jp; zenshinhoren.or.jp; chusho.meti.go.jp]
 
 | Dimension | Fukuoka CGC | [[policy-finance/tokyo-credit-guarantee-corp|Tokyo CGC]] | [[policy-finance/hokkaido-credit-guarantee-corp|Hokkaido CGC]] |
 |---|---|---|---|

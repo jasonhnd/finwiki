@@ -1,11 +1,11 @@
 ---
 source: payments/jcb-three-party-operating-model
-source_hash: 72539030f3ed28da
+source_hash: a445c219bc54fe24
 lang: en
 status: machine
 fidelity: ok
 title: "JCB three-party brand operating model"
-translated_at: 2026-06-01T03:31:12.283Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # JCB three-party brand operating model
@@ -22,6 +22,8 @@ JCB operates a **three-party brand model** in which JCB Co Ltd simultaneously ow
 
 The distinction is about whether the brand-network entity is separate from the issuer and acquirer roles, not about how many parties touch a single transaction.
 
+The following table is scoped to public primary sources (global.jcb, jcb.co.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:global.jcb; jcb.co.jp; meti.go.jp; jftc.go.jp]
+
 | Scheme type | Brand-network entity | Issuer entity | Acquirer entity | Examples |
 |---|---|---|---|---|
 | Four-party (open) | Separate | Multiple licensed issuers | Multiple licensed acquirers | Visa, Mastercard, UnionPay |
@@ -32,6 +34,8 @@ JCB sits in a hybrid position: it operates the **three-party scheme** as its pri
 ## Corporate split: JCB Co Ltd vs JCB International
 
 JCB Co Ltd and JCB International are not interchangeable corporate identities — they handle different business surfaces under the same brand:
+
+The following table is scoped to public primary sources (global.jcb, jcb.co.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:global.jcb; jcb.co.jp; meti.go.jp; jftc.go.jp]
 
 | Entity | Scope | Primary role |
 |---|---|---|
@@ -45,6 +49,8 @@ A merchant in Japan that "accepts JCB" contracts with JCB Co Ltd (or one of its 
 JCB Co Ltd licenses issuer rights to ~30 partner card companies in Japan that issue JCB-brand cards alongside (or instead of) their own Visa / Mastercard issuance. This is one of the principal Japan-specific features of the JCB scheme — partner issuers are not brand peers and do not have brand-network voting rights, but they do hold issuer credit risk on the cardholder relationship.
 
 Major JCB-brand partner issuers include:
+
+The following table is scoped to public primary sources (global.jcb, jcb.co.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:global.jcb; jcb.co.jp; meti.go.jp; jftc.go.jp]
 
 | Partner issuer | Group anchor | Product profile |
 |---|---|---|
@@ -63,6 +69,8 @@ A partner issuer pays JCB Co Ltd issuer-licensing / network fees on its issued p
 ## Merchant-acquiring control vs four-party scheme
 
 Because JCB combines brand and principal-acquirer functions, merchant-rule enforcement is structurally different from Visa / Mastercard 4-party schemes:
+
+The following table is scoped to public primary sources (global.jcb, jcb.co.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:global.jcb; jcb.co.jp; meti.go.jp; jftc.go.jp]
 
 | Dimension | JCB 3-party | Visa / Mastercard 4-party |
 |---|---|---|
@@ -83,6 +91,8 @@ The 2023-06-01 METI / JFTC joint release on JCB's disclosure of merchant-fee all
 
 The persistence of three-party schemes (Amex, Diners, JCB) in a world where four-party (Visa, Mastercard) dominates global cashless volume is not an accident. The three-party model has structural advantages in specific use cases:
 
+The following table is scoped to public primary sources (global.jcb, jcb.co.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:global.jcb; jcb.co.jp; meti.go.jp; jftc.go.jp]
+
 | Advantage | How it shows up |
 |---|---|
 | End-to-end control of cardholder + merchant relationship | Brand can position cards as premium / status products and manage merchant experience as a coordinated whole |
@@ -99,6 +109,8 @@ JCB occupies a particular position in the Japan market that no other brand fully
 
 This affects several dimensions:
 
+The following table is scoped to public primary sources (global.jcb, jcb.co.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:global.jcb; jcb.co.jp; meti.go.jp; jftc.go.jp]
+
 | Dimension | How JCB's dual-positioning matters |
 |---|---|
 | Inbound tourist acceptance | JCB is meaningfully better-accepted in Korea, Taiwan, Hong Kong, and parts of Southeast Asia than other Japan-issued cards, reflecting JCB International's regional acquirer build |
@@ -110,6 +122,8 @@ This affects several dimensions:
 ## Cross-border acquiring partnerships
 
 JCB International has historically grown international acquiring footprint through partnerships rather than building direct merchant networks in every market:
+
+The following table is scoped to public primary sources (global.jcb, jcb.co.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:global.jcb; jcb.co.jp; meti.go.jp; jftc.go.jp]
 
 | Region | Acquiring partner model |
 |---|---|
@@ -123,6 +137,8 @@ The Discover alliance is particularly notable because it gives JCB International
 ## Chargeback / dispute under three-party operating model
 
 Cardholder disputes under JCB's three-party model flow through a structurally simpler path than four-party-scheme disputes:
+
+The following table is scoped to public primary sources (global.jcb, jcb.co.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:global.jcb; jcb.co.jp; meti.go.jp; jftc.go.jp]
 
 | Dispute step | JCB three-party | Visa / Mastercard four-party |
 |---|---|---|

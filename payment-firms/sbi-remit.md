@@ -3,8 +3,8 @@ title: "SBIレミット"
 aliases: ["SBI Remit", "SBIレミット", "SBIレミット株式会社"]
 domain: payment-firms
 created: 2026-05-21
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, payments, remittance, funds-transfer, SBI]
@@ -26,6 +26,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]] (its domain ro
 SBIレミット株式会社は、SBI グループの **国際送金事業会社**で、FSA に登録された **第二種資金移動業者**（type-II funds-transfer operator under 資金決済法）。2010 年の資金決済法施行に伴い登録し、1 回 100 万円以下の少額国際送金から事業を開始。MoneyGram 等との提携で世界 220 以上の国・地域に送金ネットワークを持つ。外国人居住者・出稼ぎ労働者向け送金と、地域金融機関・銀行代理業との接続で重要度が高い。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (remit.co.jp, sbigroup.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:remit.co.jp; sbigroup.co.jp; fsa.go.jp]
 
 | Item | Notes |
 |---|---|

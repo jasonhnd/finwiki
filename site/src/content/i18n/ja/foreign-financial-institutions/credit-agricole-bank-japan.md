@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/credit-agricole-bank-japan
-source_hash: dcc971d842f9ce9a
+source_hash: c42935b8d6a1ecb4
 lang: ja
 status: machine
 fidelity: ok
 title: "クレディ・アグリコル銀行 東京支店"
-translated_at: 2026-06-18T23:59:13.054Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # クレディ・アグリコル銀行 東京支店
@@ -20,6 +20,8 @@ translated_at: 2026-06-18T23:59:13.054Z
 クレディ・アグリコル銀行は、金融庁の外国銀行支店一覧に掲載される、フランスの Crédit Agricole CIB の在日銀行支店である。[[life-insurers/credit-agricole-life|クレディ・アグリコル生命]] とは別個の銀行法上の支店として、ホールセールバンキング / CIB / グローバルマーケッツ / 貿易・輸出金融の日本拠点を扱う。
 
 ## 1. ライセンス・支店の境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, ca-cib.com）の範囲に限定して読む。^[source:fsa.go.jp; ca-cib.com]
 
 | 項目 | 注記 |
 |---|---|

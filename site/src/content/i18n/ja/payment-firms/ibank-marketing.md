@@ -1,12 +1,12 @@
 ---
 source: payment-firms/ibank-marketing
-source_hash: 0fb26e7b5b457d96
+source_hash: b2687d68a4d4a98c
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "iBank マーケティング (iBank Marketing)"
-translated_at: 2026-06-26T08:32:07.542Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # iBank マーケティング (iBank Marketing)
@@ -18,6 +18,8 @@ translated_at: 2026-06-26T08:32:07.542Z
 ## 要約株式会社 iBank マーケティングは、[[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] 100% 子会社の地銀発フィンテック子会社で、**ウォレット+** (ウォレットプラス) スマホアプリの企画・運営を担当。地銀発のスマホファースト個人金融サービスとして、[[regional-banks/fukuoka-bank|福岡銀行]] / [[regional-banks/18-shinwa-bank|十八親和銀行]] / [[regional-banks/kumamoto-bank|熊本銀行]] 顧客向けに **目的別貯金 (myCoin)**・**家計管理**・**プリペイドカードウォレット+ Card**・**地域連携クーポン** 等を提供。地銀フィンテックの代表例で、[[megabanks/paypay-fg|PayPay]] / [[megabanks/au-fh|au PAY]] / [[payment-firms/rakuten-fg|楽天]] 等の通信系 / EC 系ウォレットとは異なる「銀行口座連携 + 目的別貯金」軸。^[extracted]
 
 ## 1. ライセンス / グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（ibank.co.jp, prtimes.jp, fukuoka-fg.com）の範囲に限定して読む。^[source:ibank.co.jp; prtimes.jp; fukuoka-fg.com; walletplus.jp]
 
 | 項目 | 注記 |
 |---|---|
@@ -64,6 +66,8 @@ translated_at: 2026-06-26T08:32:07.542Z
 
 ## 4. KPI 表（概念）
 
+以下の表は、エントリ出典インベントリの公開一次資料（ibank.co.jp, prtimes.jp, fukuoka-fg.com）の範囲に限定して読む。^[source:ibank.co.jp; prtimes.jp; fukuoka-fg.com; walletplus.jp]
+
 | 項目 | 概況 |
 |---|---|
 | アプリ DL 数 | 300 万 DL 突破 ([[regional-banks/fukuoka-fg|FFG]] 公表)。参考: 50 万 DL (2018, 2 周年) → 約 80 万 DL (2019, 3 周年) → 100 万 DL 突破 (2020, 4 周年) → 300 万 DL |
@@ -75,6 +79,8 @@ translated_at: 2026-06-26T08:32:07.542Z
 > 注: アプリ DL 数は [[regional-banks/fukuoka-fg|FFG]] 公表で 300 万 DL 突破 (出典下記)。MAU・カード発行枚数の精緻値は単体非開示 (公表値なし) のため、最新値は親 [[regional-banks/fukuoka-fg]] IR 資料 / ウォレット+ 公式サイトを参照。
 
 ## 5. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（ibank.co.jp, prtimes.jp, fukuoka-fg.com）の範囲に限定して読む。^[source:ibank.co.jp; prtimes.jp; fukuoka-fg.com; walletplus.jp]
 
 | セグメント | 特徴 |
 |---|---|

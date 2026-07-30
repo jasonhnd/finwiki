@@ -7,8 +7,8 @@ aliases:
   - "Bangkok Bank Public Company Limited Japan Branches"
 domain: foreign-financial-institutions
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-22
 confidence: likely
 tags: [JapanFG, foreign-bank, Thailand, ASEAN, trade-finance]
@@ -38,6 +38,8 @@ Registration is observed in the checked FSA source as of 2026-05-13; this page d
 
 ## Japan-Thailand Corridor Map
 
+The following table is scoped to public primary sources (fsa.go.jp, bangkokbank.com, ibajapan.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; bangkokbank.com; ibajapan.org]
+
 | Lane | Public-source reading | Wiki use |
 |---|---|---|
 | Corporate lending | Bangkok Bank public Japan pages describe business banking for Japan. | Route Japanese corporate expansion / working-capital questions. |
@@ -57,6 +59,8 @@ Registration is observed in the checked FSA source as of 2026-05-13; this page d
 | [[foreign-financial-institutions/standard-chartered-japan|Standard Chartered Japan]] | Global AMEA trade / corporate banking comparator. |
 
 ## What To Extract In Research
+
+The following table is scoped to public primary sources (fsa.go.jp, bangkokbank.com, ibajapan.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; bangkokbank.com; ibajapan.org]
 
 | Field | Why |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: policy-finance/fukuoka-credit-guarantee-corp
-source_hash: 13b2932288f1086d
+source_hash: e404afe22b38cdc3
 lang: ja
 status: machine
 fidelity: ok
 title: "福岡県信用保証協会 (Fukuoka Credit Guarantee Corporation)"
-translated_at: 2026-06-19T06:09:18.052Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 福岡県信用保証協会 (Fukuoka Credit Guarantee Corporation)
@@ -19,6 +19,8 @@ translated_at: 2026-06-19T06:09:18.052Z
 福岡県信用保証協会（福岡県信用保証協会）は、日本の 51協会からなる地方の信用保証制度の福岡県会員である。その保証残高は、九州の中小企業金融のアンカーとして構造的に重要である — 福岡県は、九州最大の人口、金融サービスセンター（博多／天神）、TSMC をアンカーとする半導体クラスター（北九州工業地帯 + 熊本へのスピルオーバー）、博多港の物流、東アジアへのインバウンド観光のゲートウェイ、そして大きな農業／食品加工の裾野を集中させている。支配的な協調融資パートナーは [[regional-banks/fukuoka-bank|Fukuoka Bank ([[regional-banks/fukuoka-fg|Fukuoka FG]])]]、[[regional-banks/nishi-nippon-city-bank|Nishi-Nippon City Bank ([[regional-banks/nishi-nippon-fhd|Nishi-Nippon FHD]])]]、[[regional-banks/fukuoka-chuo-bank|Fukuoka Chuo Bank]]、および密な九州の信金／信用組合のネットワークである。
 
 ## 1. 機関概要
+
+以下の表は、エントリ出典インベントリの公開一次資料（cgc-fukuoka.or.jp, zenshinhoren.or.jp, chusho.meti.go.jp）の範囲に限定して読む。^[source:cgc-fukuoka.or.jp; zenshinhoren.or.jp; chusho.meti.go.jp]
 
 | 項目 | 内容 |
 |---|---|
@@ -84,6 +86,8 @@ COVID-19 の緊急事態（2020–2021）の間、福岡県 CGC は、全国的�
 [[financial-regulators/jfc|JFC]] の連合会のプール型信用保険層が、福岡県 CGC のファーストロスの代位弁済の後の残存損失を吸収する。半導体サプライヤーの設備投資トランシェは運用上興味深い、なぜなら TSMC-JASM の熊本投資の福岡へのスピルオーバーが、レガシーの北九州の重工業の裾野とは異なるリスクサイクルのプロファイルを持つ保証セグメントを生み出すからである — 半導体の設備投資サイクルは単一の会計年度内に大きなスイングを生み出しうるため、連合会の再保険と JFC の信用保険のスムージング機能により多くの重みを置く。[[regional-banks/fukuoka-fg|Fukuoka FG]] の複数県のホールドコの形に見える [[banking/regional-bank-consolidation-pattern|regional-bank consolidation pattern]] は、保証関連リスクのクリーンな県別帰属に複雑性の層を加える。
 
 ## 8. Comparison with peer prefecture CGCs
+
+以下の表は、エントリ出典インベントリの公開一次資料（cgc-fukuoka.or.jp, zenshinhoren.or.jp, chusho.meti.go.jp）の範囲に限定して読む。^[source:cgc-fukuoka.or.jp; zenshinhoren.or.jp; chusho.meti.go.jp]
 
 | Dimension | Fukuoka CGC | [[policy-finance/tokyo-credit-guarantee-corp|Tokyo CGC]] | [[policy-finance/hokkaido-credit-guarantee-corp|Hokkaido CGC]] |
 |---|---|---|---|

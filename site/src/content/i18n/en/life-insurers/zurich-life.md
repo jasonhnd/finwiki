@@ -1,11 +1,11 @@
 ---
 source: life-insurers/zurich-life
-source_hash: 93fb4449b28de1a8
+source_hash: a17ffbf9b768b520
 lang: en
 status: machine
 fidelity: ok
 title: "zurich life insurance"
-translated_at: 2026-06-01T03:31:12.291Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # zurich life insurance
@@ -20,6 +20,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 Zurich Life Insurance Co., Ltd. is a Japan life-insurance operating company listed on the Financial Services Agency's life-insurer list and the Life Insurance Association member list. [[non-life-insurers/zurich-japan]] is handled separately as Zurich group's Nippon Insurance surface / non-life branch context, and this page is treated as a life-insurance underwriting entity.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, zurichlife.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; zurichlife.co.jp]
 
 | Item | Notes |
 |---|---|

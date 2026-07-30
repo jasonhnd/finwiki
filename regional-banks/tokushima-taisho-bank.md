@@ -3,8 +3,8 @@ title: "徳島大正銀行"
 aliases: ["Tokushima Taisho Bank", "Tokushima Taisho Bank, Ltd.", "株式会社徳島大正銀行"]
 domain: regional-banks
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, banking, second-regional-bank, shikoku, tokushima, operating-company]
@@ -26,6 +26,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 株式会社徳島大正銀行は、金融庁の銀行免許一覧に掲載される徳島県本店の第二地方銀行。[[regional-banks/tomony-hd]] 傘下の Tokushima / Osaka cross-market operating bank であり、[[regional-banks/awa-bank|阿波銀行]] とは別法人の second-regional-bank peer として扱う。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, tokugin.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; tokugin.co.jp]
 
 | Item | Notes |
 |---|---|

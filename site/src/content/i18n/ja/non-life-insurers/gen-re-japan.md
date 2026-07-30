@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/gen-re-japan
-source_hash: 22756b8bb5dc9b80
+source_hash: b59444a3622e0c90
 lang: ja
 status: machine
 fidelity: ok
 title: "ジェネラル再保険日本支店"
-translated_at: 2026-06-02T14:25:12.446Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # ジェネラル再保険日本支店
@@ -19,6 +19,8 @@ translated_at: 2026-06-02T14:25:12.446Z
 General Reinsurance AG / General Re Corporation の日本支店。**バークシャー・ハサウェイ（Berkshire Hathaway）100% 子会社** の世界大手再保険会社で、金融庁の損害保険会社免許一覧（外国損害保険会社等）に掲載される。Munich Re / Swiss Re と並ぶ伝統的グローバル再保険ブランドで、Warren Buffett 体制下での保守的引受規律で知られる。
 
 ## 1. 免許・グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（genre.com, fsa.go.jp）の範囲に限定して読む。^[source:genre.com; fsa.go.jp]
 
 | 項目 | 注記 |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: securities/japannext-securities
-source_hash: 0fc571c7ee5d8e5f
+source_hash: 28b433210fa21056
 lang: en
 status: machine
 fidelity: ok
 title: "Japannext Securities (Japannext)"
-translated_at: 2026-06-01T04:15:40.158Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japannext Securities (Japannext)
@@ -22,6 +22,8 @@ For FinWiki, Japannext is the main private-venue counterpoint to [[securities/to
 
 ## System Map
 
+The following table is scoped to public primary sources (japannext.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:japannext.co.jp; fsa.go.jp]
+
 | Layer | Reading |
 |---|---|
 | Legal name | Japannext Securities Co., Ltd. |
@@ -31,6 +33,8 @@ For FinWiki, Japannext is the main private-venue counterpoint to [[securities/to
 | Origin | Established in 2006 as SBI Japannext; PTS license approved in 2007. |
 
 ## Venue Map
+
+The following table is scoped to public primary sources (japannext.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:japannext.co.jp; fsa.go.jp]
 
 | Venue / feature | Reading |
 |---|---|

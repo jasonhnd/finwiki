@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/scor-japan
-source_hash: 25c4213fa849a1eb
+source_hash: 6fb606d2a583ed89
 lang: ja
 status: machine
 fidelity: ok
 title: "スコール再保険日本支店"
-translated_at: 2026-06-19T06:09:18.194Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # スコール再保険日本支店
@@ -19,6 +19,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 SCOR SE（仏 Paris 上場の欧州大手再保険会社）の日本支店。**欧州 4 大再保険会社（Munich Re / Swiss Re / Hannover Re / SCOR）の一角** で、フランス発祥のグローバル再保険プレーヤー。金融庁の損害保険会社免許一覧（外国損害保険会社等）に掲載され、P&C と Life & Health の両セグメントで日本市場をカバーする。
 
 ## 1. License / group boundary
+
+以下の表は、エントリ出典インベントリの公開一次資料（scor.com, fsa.go.jp）の範囲に限定して読む。^[source:scor.com; fsa.go.jp]
 
 | Item | Notes |
 |---|---|

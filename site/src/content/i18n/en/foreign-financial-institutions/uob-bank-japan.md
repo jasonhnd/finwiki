@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/uob-bank-japan
-source_hash: d5c0a4f39d05e541
+source_hash: 74779cede7817127
 lang: en
 status: machine
 fidelity: ok
 title: "United Overseas Bank Tokyo Branch"
-translated_at: 2026-06-01T02:31:57.172Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # United Overseas Bank Tokyo Branch
 
@@ -18,6 +18,8 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 United Overseas Bank Tokyo Branch is the Japan banking branch of Singapore / United Overseas Bank Limited listed in the FSA foreign-bank branch list. UOB Tokyo, established in 1972 年, acts as a cross-border investment bridge between Japan and Asia, covering corporate banking, FI coverage, property funds, sponsors, and FDI support.
 
 ## 1. License / branch boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, uobgroup.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; uobgroup.com]
 
 | Item | Notes |
 |---|---|

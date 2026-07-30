@@ -1,11 +1,11 @@
 ---
 source: regional-banks/toyama-first-bank
-source_hash: 520939b6b6130acf
+source_hash: bdab6500b2f57cd3
 lang: ja
 status: machine
 fidelity: ok
 title: "富山第一銀行"
-translated_at: 2026-06-15T04:09:41.190Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 富山第一銀行
@@ -19,6 +19,8 @@ translated_at: 2026-06-15T04:09:41.190Z
 株式会社富山第一銀行 (The First Bank of Toyama) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧では第二地方銀行として掲載される富山県富山市本店の地方銀行。公式沿革では 1944 年設立で、現在の本店は富山市西町 (TOYAMA キラリ内)。事業は富山県内の預金受入・中小企業/個人向け貸出という第二地銀の標準モデルで、富山県内では [[regional-banks/hokuriku-bank|北陸銀行]]・[[regional-banks/toyama-bank|富山銀行]] と並ぶ競合する地域銀行の構図を成す。
 
 ## 1. 免許／グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, first-bank.co.jp, ja.wikipedia.org）の範囲に限定して読む。^[source:fsa.go.jp; first-bank.co.jp; ja.wikipedia.org]
 
 | 項目 | 備考 |
 |---|---|

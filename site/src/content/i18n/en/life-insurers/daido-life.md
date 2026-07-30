@@ -1,11 +1,11 @@
 ---
 source: life-insurers/daido-life
-source_hash: 64bcae1b6478cc4d
+source_hash: a734cc07a1d0c07e
 lang: en
 status: machine
 fidelity: ok
 title: "Daido Life Insurance"
-translated_at: 2026-06-15T04:20:20.009Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Daido Life Insurance
@@ -20,6 +20,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 Daido Life Insurance Company, Limited is the core life-insurance operating company of the [[life-insurers/td-hd]] group. Listed in the FSA's life-insurer list, it is an entity that should be positioned within the T&D group as a specialist strong in insurance for SMEs and business owners.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, daido-life.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; daido-life.co.jp]
 
 | Item | Notes |
 |---|---|

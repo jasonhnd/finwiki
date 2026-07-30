@@ -1,11 +1,11 @@
 ---
 source: regional-banks/kitakyushu-bank
-source_hash: 6278f9fcd0cd3533
+source_hash: 0806e466f1fb1e30
 lang: ja
 status: machine
 fidelity: ok
 title: "北九州銀行"
-translated_at: 2026-06-15T04:09:41.153Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 北九州銀行
@@ -19,6 +19,8 @@ translated_at: 2026-06-15T04:09:41.153Z
 株式会社北九州銀行 (The Kitakyushu Bank) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される福岡県北九州市本店の地方銀行。[[regional-banks/yamaguchi-fg|山口フィナンシャルグループ]] (YMFG) 傘下の北九州エリアの営業銀行であり、福岡県内では [[regional-banks/fukuoka-bank|福岡銀行]] / [[regional-banks/nishi-nippon-city-bank|西日本シティ銀行]] と別法人の地方銀行ピアとして扱う。事業の中身は北九州・関門エリアでの預金受入と中小企業・個人向け貸出。
 
 ## 1. 免許／グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, kitakyushubank.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; kitakyushubank.co.jp]
 
 | 項目 | 備考 |
 |---|---|

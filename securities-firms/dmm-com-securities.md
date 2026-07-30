@@ -3,8 +3,8 @@ title: "DMM.com証券"
 aliases: ["DMM.com Securities", "DMM.com証券", "株式会社DMM.com証券", "DMM株", "DMM FX"]
 domain: securities-firms
 created: 2026-05-20
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-12-05
 confidence: likely
 tags: [JapanFG, securities, fx, cfd, fiea-operator, dmm]
@@ -26,6 +26,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]] (its dom
 株式会社DMM.com証券は、DMM グループの securities / 店頭FX / CFD operator。金融商品取引法上の **第一種金融商品取引業者** として金融庁の金融商品取引業者一覧に「株式会社DMM.com証券」（関東財務局長(金商)第1629号）で掲載される。同じ法人の暗号資産文脈は [[exchanges/jp-exchange-dmm-com-securities|exchanges 側のページ]] が扱い、本ページは FIEA operator として切り出す。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, kabu.dmm.com, securities.dmm.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; kabu.dmm.com; securities.dmm.com]
 
 | Item | Notes |
 |---|---|

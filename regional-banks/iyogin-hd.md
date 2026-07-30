@@ -3,8 +3,8 @@ title: いよぎん HD (Iyogin Holdings)
 aliases: ["いよぎんホールディングス", "Iyogin HD", "Iyogin Holdings", "伊予銀行 HD", "5830"]
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-07-29
-last_tended: 2026-07-29
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, regional-bank, shikoku]
@@ -49,6 +49,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## 2. 沿革
 
+The following table is scoped to public primary sources (iyogin-hd.co.jp, iyobank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:iyogin-hd.co.jp; iyobank.co.jp]
+
 | 年月 | 事象 |
 |---|---|
 | 1878 | **第二十九国立銀行** (松山) 設立 — 国立銀行条例下、四国で最古級 |
@@ -59,6 +61,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 | 2024〜 | 中期経営計画始動 |
 
 ## 3. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (iyogin-hd.co.jp, iyobank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:iyogin-hd.co.jp; iyobank.co.jp]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

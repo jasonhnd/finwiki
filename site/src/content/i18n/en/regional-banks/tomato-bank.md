@@ -1,11 +1,11 @@
 ---
 source: regional-banks/tomato-bank
-source_hash: b06b658cad8e477f
+source_hash: 941d9cd405680f0e
 lang: en
 status: machine
 fidelity: ok
 title: "Tomato Bank"
-translated_at: 2026-06-15T04:09:41.166Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Tomato Bank
@@ -19,6 +19,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 Tomato Bank, Ltd. (株式会社トマト銀行) is a second regional bank headquartered in Okayama City, Okayama Prefecture, holding a bank license under the Banking Act and listed in the FSA's bank-license list. Its lineage is the Kurashiki Mujin founded in 1931 年, which in 1989 年 converted from the Sanyo Sogo Bank into an ordinary bank and took its current trade name — Okayama Prefecture's only second regional bank. Its business is the standard second-regional-bank model centered on Okayama Prefecture, deposit-taking and lending to SMEs / individuals, and it is treated as a local peer of the first regional bank [[regional-banks/chugoku-bank|中国銀行]].
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, tomatobank.co.jp, ja.wikipedia.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; tomatobank.co.jp; ja.wikipedia.org]
 
 | Item | Notes |
 |---|---|

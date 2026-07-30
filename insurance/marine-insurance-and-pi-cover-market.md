@@ -9,8 +9,8 @@ aliases:
   - "marine hull cargo Japan"
 domain: insurance
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [insurance, marine, hull, cargo, P&I, mutual, japan, IG, big-three, shipping]
@@ -60,6 +60,8 @@ H&M insurance indemnifies the shipowner for physical loss / damage to the vessel
 ## 3. Cargo / transit
 
 Cargo insurance covers goods in transit on the standard Institute Cargo Clauses (A / B / C) basis or domestic Japanese-form equivalents.
+
+The following table is scoped to public primary sources (piclub.or.jp, igpandi.org, tokiomarinehd.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:piclub.or.jp; igpandi.org; tokiomarinehd.com; ms-ad-hd.com]
 
 | Cargo line | Cedent | Notes |
 |---|---|---|

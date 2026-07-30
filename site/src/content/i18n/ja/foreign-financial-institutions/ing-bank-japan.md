@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/ing-bank-japan
-source_hash: d1a3dcabdaa8af2e
+source_hash: 726e946784088eb5
 lang: ja
 status: machine
 fidelity: ok
 title: "アイエヌジーバンク エヌ・ヴイ 東京支店"
-translated_at: 2026-06-02T14:25:12.442Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # アイエヌジーバンク エヌ・ヴイ 東京支店
@@ -20,6 +20,8 @@ translated_at: 2026-06-02T14:25:12.442Z
 アイエヌジーバンク エヌ・ヴイ東京支店は、金融庁の外国銀行支店一覧に掲載される Netherlands / ING Bank N.V. の日本ホールセール銀行支店である。1985 年の東京支店開始以来、ストラクチャードファイナンス、輸出・プロジェクトファイナンス、キャッシュマネジメント、融資、コルレス銀行業務を中心にする B2B 支店として読む。
 
 ## 1. 免許・支店境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, ingwb.com）の範囲に限定して読む。^[source:fsa.go.jp; ingwb.com]
 
 | 項目 | 注記 |
 |---|---|

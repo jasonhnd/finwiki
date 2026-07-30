@@ -1,11 +1,11 @@
 ---
 source: regional-banks/tokushima-taisho-bank
-source_hash: 3f95c13f8a3951c6
+source_hash: bc369719afd0ef7e
 lang: ja
 status: machine
 fidelity: ok
 title: "徳島大正銀行"
-translated_at: 2026-06-02T16:33:58.500Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 徳島大正銀行
@@ -20,6 +20,8 @@ translated_at: 2026-06-02T16:33:58.500Z
 株式会社徳島大正銀行は、金融庁の銀行免許一覧に掲載される、徳島県に本店を置く第二地方銀行である。[[regional-banks/tomony-hd]] 傘下で徳島 / 大阪にまたがる市場を担う事業銀行であり、[[regional-banks/awa-bank|阿波銀行]] とは別法人の第二地方銀行ピアとして扱う。
 
 ## 1. ライセンス・グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, tokugin.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; tokugin.co.jp]
 
 | 項目 | 注記 |
 |---|---|

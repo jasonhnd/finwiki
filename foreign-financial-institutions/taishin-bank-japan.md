@@ -7,8 +7,8 @@ aliases:
   - "台新銀行日本"
 domain: foreign-financial-institutions
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-22
 confidence: likely
 tags: [JapanFG, foreign-bank, Taiwan, corporate-banking, asia-corridor]
@@ -33,6 +33,8 @@ Taishin International Bank is a Taiwan commercial bank under Taishin Financial H
 The Tokyo Branch is worth standalone treatment because FinWiki's Taiwan corridor cluster should not stop at older public-sector or state-linked banks. Taishin adds a private financial-holding-company bank route with a current overseas branch footprint.
 
 ## Entity Boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, taishinbank.com.tw). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; taishinbank.com.tw]
 
 | Item | Reading |
 |---|---|

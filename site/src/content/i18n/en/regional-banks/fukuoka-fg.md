@@ -1,11 +1,11 @@
 ---
 source: regional-banks/fukuoka-fg
-source_hash: da6427f53e0835a6
+source_hash: cf907f74c880311e
 lang: en
 status: machine
 fidelity: ok
 title: "Fukuoka FG (FFG)"
-translated_at: 2026-06-19T12:43:19.946Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Fukuoka FG (FFG)
@@ -19,6 +19,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 One of Japan's largest standalone regional-bank groups (a Kyushu 3 -prefecture base + nationwide digital expansion). It was formed through the joint holding-company-ization of 2007-04-02 [[regional-banks/fukuoka-bank|福岡銀行]] + Kumamoto Family Bank (now [[regional-banks/kumamoto-bank|熊本銀行]]). **A 2  axis of base consolidation (Fukuoka / Kumamoto / Nagasaki) + nationwide digital expansion (Minna no Ginko BaaS).** **Minna no Ginko**, opened in 2021-05 , is Japan's first fully cloud-native, smartphone-complete digital bank, and is the core of the digital strategy for the parent FFG. It is one of the leaders in regional-bank consolidation (a hub on par with the SBI No.4 -megabank concept / Chiba, Yokohama, Concordia, etc.).
 
 ## 0. Latest earnings summary (FY2025 / 2026 年 3 月 results, 2026-05-13 disclosure)
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Indicator | FY2025  (2026-03 ) | YoY | FY2024  (2025-03 ) |
 |---|---:|---:|---:|
@@ -76,6 +78,8 @@ FFG (holding company, listed 8354)
 
 ### Key timeline
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Year/Month | Event |
 |---|---|
 | 2007-04-02 | **FFG established** (joint holding-company-ization of Fukuoka Bank + Kumamoto Family Bank) |
@@ -90,6 +94,8 @@ FFG (holding company, listed 8354)
 
 ## 2. Business-segment map
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Segment | Main operator | Characteristics |
 |---|---|---|
 | Base core (Fukuoka) | [[regional-banks/fukuoka-bank|福岡銀行]] | Kyushu's largest regional bank, big-city retail + mid-tier-corporate main bank |
@@ -100,6 +106,8 @@ FFG (holding company, listed 8354)
 | Regional fintech | iBank Marketing | Operates the Wallet+ app (regional-bank-originated fintech) |
 
 ### Bank 3 行-combined KPIs (FY2025 / as of 2025-12 , on a Q3 -release basis)
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Indicator | Value | vs. prior period-end |
 |---|---:|---:|

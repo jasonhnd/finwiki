@@ -12,8 +12,8 @@ aliases:
   - "給付型奨学金"
 domain: "policy-finance"
 created: 2026-05-19
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [policy-finance, education-finance, scholarship, japan, mext, student-loan, household-finance, human-capital]
@@ -37,6 +37,8 @@ This entry sits under [[policy-finance/INDEX|policy-finance index]] as the educa
 JASSO (独立行政法人日本学生支援機構 / Japan Student Services Organization) is Japan's main education-finance and student-support agency, MEXT-supervised (文部科学大臣 主管). It was established 2004-04-01 by merging the prior 日本育英会 (Japan Scholarship Foundation, scholarship operations since 1943) with several student-support functions including 国際学友会 (international student housing / hospitality), 関西国際学友会, 内外学生センター, and 日本国際教育協会. The institution operates four functional lanes: **scholarship programs** (奨学金事業, the flagship — both loan-type and grant-type student support), **international student support** (留学生支援事業, including JASSO-managed dormitories and outbound Japanese-student support), **student life support** (学生生活支援事業), and **statistical / research / disclosure functions** (学生支援に関する調査研究 / 情報提供). The scholarship lane organises around three tier types — **第一種奨学金** (Type I — interest-free loan-type), **第二種奨学金** (Type II — interest-bearing loan-type capped at 3.0% during repayment, typically far lower in practice), and **給付型奨学金** (grant-type scholarship, expanded from 2017 and substantially scaled up with the 2020 "高等教育無償化" / Higher Education Free-Access Reform). Funding flows through a combination of FILP borrowing (for loan-type scholarship principal), General Account appropriation (for grant-type scholarship and operating costs), and repayment cash flow from the existing loan portfolio (which is multi-trillion-yen scale). JASSO is the largest single household-credit institution in Japan by number of borrowers — roughly one in three Japanese university students borrow under JASSO. The institution's policy-finance importance has grown sharply since the 2020 reform and again from 2024-2025 under the "次世代育成 / 子育て世帯支援" / Higher Education Cost Reduction policy direction (including the politically-tracked 反転授業料 / tuition deferment debate). The default rate on Type II loans has been a recurring policy-finance topic with multi-year reform cycles (income-contingent repayment introduction, defer-and-relief mechanisms, and recent 2024 reforms).
 
 ## 1. Institutional structure
+
+The following table is scoped to public primary sources (jasso.go.jp, studyinjapan.go.jp, mext.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jasso.go.jp; studyinjapan.go.jp; mext.go.jp]
 
 | Item | Detail |
 |---|---|
@@ -68,6 +70,8 @@ The JFC ↔ JASSO boundary on the household-education side is structurally relev
 
 The flagship product. Three tiers:
 
+The following table is scoped to public primary sources (jasso.go.jp, studyinjapan.go.jp, mext.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jasso.go.jp; studyinjapan.go.jp; mext.go.jp]
+
 | Tier | Type | Concessionality | Eligibility | Repayment |
 |---|---|---|---|---|
 | **第一種奨学金** | Loan-type, interest-free | Most concessional (0% interest, principal-only repayment) | Income-tested + academic-merit-tested; tighter eligibility than Type II | Begin repayment after graduation (typically with grace period); standard ~15-20 year repayment schedule |
@@ -93,6 +97,8 @@ JASSO is the primary publisher of national statistics on Japanese higher-educati
 
 ## 3. KPI table (public-source numbers)
 
+The following table is scoped to public primary sources (jasso.go.jp, studyinjapan.go.jp, mext.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jasso.go.jp; studyinjapan.go.jp; mext.go.jp]
+
 | KPI | Approximate value | Source / caveat |
 |---|---|---|
 | Loan portfolio outstanding | ~¥9-10 trillion (JPY 9-10 兆円 range) across Type I + Type II combined | JASSO Annual Report / 業務実績報告書 |
@@ -109,6 +115,8 @@ JASSO is the primary publisher of national statistics on Japanese higher-educati
 The loan-portfolio scale (~¥9-10 trillion) places JASSO as one of the largest single household-credit institutions in Japan by aggregate exposure. The borrower count (~1.3 million current recipients, cumulative tens of millions) makes JASSO the largest household-credit relationship base in Japanese policy finance.
 
 ## 4. Year-by-year evolution
+
+The following table is scoped to public primary sources (jasso.go.jp, studyinjapan.go.jp, mext.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jasso.go.jp; studyinjapan.go.jp; mext.go.jp]
 
 | Year | Event |
 |---|---|
@@ -134,6 +142,8 @@ JASSO does not have a dedicated operating-mechanics sibling page in FinWiki at t
 - [[policy-finance/japan-policy-finance-institution-mandate-matrix|Mandate matrix]] — Institution 9 row where JASSO sits beside JFC, DBJ, JBIC, JICA, NEXI, JOGMEC, JHF, and ODFC.
 
 ### Comparison axes vs JFC education-loan product (the closest peer)
+
+The following table is scoped to public primary sources (jasso.go.jp, studyinjapan.go.jp, mext.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jasso.go.jp; studyinjapan.go.jp; mext.go.jp]
 
 | Axis | JASSO | [[financial-regulators/jfc\|JFC]] 国民生活事業 教育一般貸付 |
 |---|---|---|

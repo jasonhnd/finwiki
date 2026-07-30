@@ -1,11 +1,11 @@
 ---
 source: securities-firms/mufg-securities
-source_hash: ea37d467c344bac1
+source_hash: 44cea58d3ccea0d5
 lang: ja
 status: machine
 fidelity: ok
 title: "MUFG 証券ホールディングス"
-translated_at: 2026-07-28T20:55:25Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # MUFG 証券ホールディングス
 
@@ -50,6 +50,8 @@ translated_at: 2026-07-28T20:55:25Z
 
 ### 重要年表
 
+以下の表は、エントリ出典インベントリの公開一次資料（hd.sc.mufg.jp, mufg.jp）の範囲に限定して読む。^[source:hd.sc.mufg.jp; mufg.jp]
+
 | 年月 | 事象 |
 |---|---|
 | 1948 | 三菱証券 / UFJ 証券 各前身（戦後）|
@@ -82,6 +84,8 @@ translated_at: 2026-07-28T20:55:25Z
 
 ## 3. 海外現法の機能
 
+以下の表は、エントリ出典インベントリの公開一次資料（hd.sc.mufg.jp, mufg.jp）の範囲に限定して読む。^[source:hd.sc.mufg.jp; mufg.jp]
+
 | 拠点 | 主要機能 |
 |---|---|
 | **MUFG Securities Americas**（NY）| 米国債プライマリーディーラー + 米国市場での DCM/ECM + シンジケート参加 |
@@ -96,6 +100,8 @@ translated_at: 2026-07-28T20:55:25Z
 
 ## 4. 主要業務領域
 
+以下の表は、エントリ出典インベントリの公開一次資料（hd.sc.mufg.jp, mufg.jp）の範囲に限定して読む。^[source:hd.sc.mufg.jp; mufg.jp]
+
 | 業務 | 主担当 |
 |---|---|
 | **国内リテール** | [[securities-firms/mufg-mums|MUMSS]]（旧三菱 UFJ 証券）|
@@ -108,6 +114,8 @@ translated_at: 2026-07-28T20:55:25Z
 | **サステナブルファイナンス** | グループ横断 |
 
 ### vs 国内ライバル
+
+以下の表は、エントリ出典インベントリの公開一次資料（hd.sc.mufg.jp, mufg.jp）の範囲に限定して読む。^[source:hd.sc.mufg.jp; mufg.jp]
 
 | 項目 | MUFG 証券 HD | [[securities-firms/smbc-nikko|SMBC 日興]] | [[securities-firms/mizuho-securities|みずほ証券]] | [[securities-firms/nomura-hd|野村]] |
 |---|---|---|---|---|

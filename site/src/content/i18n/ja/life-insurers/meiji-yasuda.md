@@ -1,12 +1,12 @@
 ---
 source: life-insurers/meiji-yasuda
-source_hash: ba478364eea7afb9
+source_hash: 1057264e1e5f9978
 lang: ja
 model: canonical-ja-source-sync
 status: machine
 fidelity: ok
 title: "明治安田生命保険相互会社"
-translated_at: 2026-07-28T19:25:32.800Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 明治安田生命保険相互会社
@@ -43,6 +43,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ### 重要年表
 
+以下の表は、エントリ出典インベントリの公開一次資料（meijiyasuda.co.jp）の範囲に限定して読む。^[source:meijiyasuda.co.jp]
+
 | 年月 | 事象 |
 |---|---|
 | 1880 | 共済五百名社 創業 |
@@ -62,6 +64,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 - **明治安田ライフプラニングセンター** ── シンクタンク
 
 ## 3. 事業セグメント map
+
+以下の表は、エントリ出典インベントリの公開一次資料（meijiyasuda.co.jp）の範囲に限定して読む。^[source:meijiyasuda.co.jp]
 
 | セグメント | 内容 | 特徴 |
 |---|---|---|

@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/jpmorgan-japan
-source_hash: 396b3ff93894715f
+source_hash: 1ff3ce7c263ca810
 lang: ja
 status: machine
 fidelity: ok
 title: "JP モルガン日本"
-translated_at: 2026-06-02T14:54:39.063Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # JP モルガン日本
@@ -32,6 +32,8 @@ translated_at: 2026-06-02T14:54:39.063Z
 日本拠点は主に **CIB + AWM** セグメントに属し、CCB は日本未展開。
 
 ### 日本主要法人体制（4 軸）^[extracted]
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | 法人 | 業態 | 主管 | 登録 |
 |---|---|---|---|
@@ -69,6 +71,8 @@ translated_at: 2026-06-02T14:54:39.063Z
 - 固定収益・債券セールス・トレーディング
 
 ### 日本での業務範囲
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | 領域 | 主体 | 競合・特徴 |
 |---|---|---|

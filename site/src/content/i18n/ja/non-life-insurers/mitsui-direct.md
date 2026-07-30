@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/mitsui-direct
-source_hash: 78d883ac9d9d113b
+source_hash: 966a2ec1a7efa050
 lang: ja
 status: machine
 fidelity: ok
 title: "三井ダイレクト損害保険"
-translated_at: 2026-06-19T06:09:18.193Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 三井ダイレクト損害保険
@@ -20,6 +20,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 三井ダイレクト損害保険株式会社は、[[non-life-insurers/msad]] group の direct non-life insurance operating company。金融庁の損害保険会社免許一覧に掲載され、[[non-life-insurers/mitsui-sumitomo-insurance]] and [[non-life-insurers/aioi-nissay-dowa-insurance]] とは別に direct auto insurance channel を担う。
 
 ## 1. License / group boundary
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, sonpohogo.or.jp, mitsui-direct.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; sonpohogo.or.jp; mitsui-direct.co.jp]
 
 | Item | Notes |
 |---|---|

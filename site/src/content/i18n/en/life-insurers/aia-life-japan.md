@@ -1,11 +1,11 @@
 ---
 source: life-insurers/aia-life-japan
-source_hash: fcaeb7f654c2115b
+source_hash: b9f2e7ce3c610bd8
 lang: en
 status: machine
 fidelity: ok
 title: "AIA Life Japan / AIA生命保険"
-translated_at: 2026-05-31T07:28:06.152Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # AIA Life Japan / AIA生命保険
@@ -19,6 +19,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 AIA Group Limited is one of the largest pan-Asian life and health insurance groups, headquartered in Hong Kong and listed on the Hong Kong Stock Exchange (HKEX: 1299). With operations across 18 markets in Asia-Pacific, AIA's Japan presence sits within its broader regional strategy. Compared with the major foreign life insurers in Japan such as [[life-insurers/metlife-japan|MetLife Japan]] and [[life-insurers/prudential-japan|Prudential Japan]], AIA's distinctive feature is its pure-play Asia-Pacific positioning and historical roots in the region's life insurance market.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, aia.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; aia.com]
 
 | Item | Notes |
 |---|---|

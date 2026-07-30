@@ -1,11 +1,11 @@
 ---
 source: regional-banks/hirogin-hd
-source_hash: ce70ec3d3d2bf6a9
+source_hash: dac5c9f8b14d480c
 lang: en
 status: machine
 fidelity: ok
 title: "ひろぎん HD (Hirogin Holdings)"
-translated_at: 2026-06-19T12:43:19.853Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # ひろぎん HD (Hirogin Holdings)
@@ -46,6 +46,8 @@ A Chugoku-region top-tier regional-bank holding group based in Hiroshima Prefect
 
 ### History
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | 年 | 事象 |
 |---|---|
 | **1878** | 第六十六国立銀行・第百四十九国立銀行 設立（広島・呉拠点）|
@@ -60,6 +62,8 @@ A Chugoku-region top-tier regional-bank holding group based in Hiroshima Prefect
 | 2024 | 中期経営計画策定（2024〜2026 年度）|
 
 ## 2. Business-segment map
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -82,6 +86,8 @@ A Chugoku-region top-tier regional-bank holding group based in Hiroshima Prefect
 - **Overseas**: Shanghai, Hong Kong, Singapore, Bangkok, and elsewhere, following Mazda's overseas supply chain
 
 ### Chugoku-region competitive configuration
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | 行 | 本店 | 親会社 | 特徴 |
 |---|---|---|---|

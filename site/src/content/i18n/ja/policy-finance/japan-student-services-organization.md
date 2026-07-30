@@ -1,11 +1,11 @@
 ---
 source: policy-finance/japan-student-services-organization
-source_hash: 77db5ae4fc69ed09
+source_hash: dacb1124b6b23b00
 lang: ja
 status: machine
 fidelity: ok
 title: "JASSO（日本学生支援機構）"
-translated_at: 2026-06-19T06:09:18.082Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # JASSO（日本学生支援機構）
@@ -19,6 +19,8 @@ translated_at: 2026-06-19T06:09:18.082Z
 JASSO（独立行政法人日本学生支援機構 / Japan Student Services Organization）は、日本の主要な教育金融・学生支援機関であり、MEXT 監督下（文部科学大臣 主管）にある。1943以降の奨学金事業を担っていた旧 日本育英会（Japan Scholarship Foundation）を、国際学友会（留学生の宿舎／ホスピタリティ）、関西国際学友会、内外学生センター、日本国際教育協会を含むいくつかの学生支援機能と統合して 2004-04-01 に設立された。同機構は 4 つの機能レーンを運営する：**奨学金事業**（旗艦 — 貸与型・給付型の双方の学生支援）、**留学生支援事業**（JASSO 運営の宿舎やアウトバウンドの日本人学生支援を含む）、**学生生活支援事業**、そして **統計／調査研究／開示機能**（学生支援に関する調査研究 / 情報提供）。奨学金レーンは 3 つのタイプ類型を中心に構成される — **第一種奨学金**（タイプ I — 無利子の貸与型）、**第二種奨学金**（タイプ II — 返済時に 3.0%を上限とする有利子の貸与型、実務上は通常はるかに低い）、そして **給付型奨学金**（給付型奨学金、2017 から拡大され、2020 「高等教育無償化」/ Higher Education Free-Access Reform で大幅に拡充）。資金は、FILP 借入（貸与型奨学金元本向け）、一般会計繰入（給付型奨学金と運営費向け）、既存ローンポートフォリオ（数兆円規模）からの返済キャッシュフローの組合せを通じて流れる。JASSO は借入人数で日本最大の単一世帯与信機関であり — 日本の大学生のおよそ 3 人に 1 人が JASSO の下で借り入れる。同機構の政策金融上の重要性は、2020 改革以降、また 2024-2025 から「次世代育成 / 子育て世帯支援」/ Higher Education Cost Reduction の政策方向（政治的に追跡される 反転授業料 / 授業料繰延の議論を含む）の下で急速に高まっている。タイプ II ローンのデフォルト率は、複数年の改革サイクル（所得連動返還の導入、繰延・救済メカニズム、最近の 2024 改革）を伴う、繰り返される政策金融上のテーマであった。
 
 ## 1. 機関構造
+
+以下の表は、エントリ出典インベントリの公開一次資料（jasso.go.jp, studyinjapan.go.jp, mext.go.jp）の範囲に限定して読む。^[source:jasso.go.jp; studyinjapan.go.jp; mext.go.jp]
 
 | 項目 | 詳細 |
 |---|---|
@@ -50,6 +52,8 @@ JASSO（独立行政法人日本学生支援機構 / Japan Student Services Orga
 
 旗艦商品。3 つのタイプ：
 
+以下の表は、エントリ出典インベントリの公開一次資料（jasso.go.jp, studyinjapan.go.jp, mext.go.jp）の範囲に限定して読む。^[source:jasso.go.jp; studyinjapan.go.jp; mext.go.jp]
+
 | タイプ | 種別 | コンセッショナリティ | 適格性 | 返済 |
 |---|---|---|---|---|
 | **第一種奨学金** | 貸与型、無利子 | 最もコンセッショナル（0% 利子、元本のみ返済）| 所得審査 + 学業成績審査; タイプ II より厳格な適格性 | 卒業後に返済開始（通常は据置期間付き）; 標準 ~15-20 年の返済スケジュール |
@@ -75,6 +79,8 @@ JASSO は、日本の高等教育在籍、タイプ別・世帯所得別の奨�
 
 ## 3. KPI 表（公開ソースの数字）
 
+以下の表は、エントリ出典インベントリの公開一次資料（jasso.go.jp, studyinjapan.go.jp, mext.go.jp）の範囲に限定して読む。^[source:jasso.go.jp; studyinjapan.go.jp; mext.go.jp]
+
 | KPI | 概算値 | ソース／注記 |
 |---|---|---|
 | ローンポートフォリオ残高 | タイプ I + タイプ II 合計で ~¥9-10 兆円（JPY 9-10 兆円 レンジ）| JASSO アニュアルレポート / 業務実績報告書 |
@@ -91,6 +97,8 @@ JASSO は、日本の高等教育在籍、タイプ別・世帯所得別の奨�
 ローンポートフォリオの規模（~¥9-10 兆円）は、JASSO を総エクスポージャーで日本最大級の単一世帯与信機関の一つに位置づける。借入人数（現受給者 ~1.3 百万人、累計数千万人）は、JASSO を日本の政策金融における最大の世帯与信リレーション基盤にしている。
 
 ## 4. 年表的変遷
+
+以下の表は、エントリ出典インベントリの公開一次資料（jasso.go.jp, studyinjapan.go.jp, mext.go.jp）の範囲に限定して読む。^[source:jasso.go.jp; studyinjapan.go.jp; mext.go.jp]
 
 | 年 | 事象 |
 |---|---|
@@ -116,6 +124,8 @@ JASSO はこのスナップショット時点で FinWiki に専用の運用メ�
 - [[policy-finance/japan-policy-finance-institution-mandate-matrix|Mandate matrix]] — JASSO が JFC、DBJ、JBIC、JICA、NEXI、JOGMEC、JHF、ODFC と並ぶ Institution 9 行。
 
 ### JFC 教育ローン商品（最も近いピア）との比較軸
+
+以下の表は、エントリ出典インベントリの公開一次資料（jasso.go.jp, studyinjapan.go.jp, mext.go.jp）の範囲に限定して読む。^[source:jasso.go.jp; studyinjapan.go.jp; mext.go.jp]
 
 | 軸 | JASSO | [[financial-regulators/jfc\|JFC]] 国民生活事業 教育一般貸付 |
 |---|---|---|

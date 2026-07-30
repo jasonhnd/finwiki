@@ -1,11 +1,11 @@
 ---
 source: insurance/japan-life-insurance-big-four
-source_hash: 25903deec54119d9
+source_hash: 12d356f4fe813092
 lang: en
 status: machine
 fidelity: ok
 title: "Japan life insurance big four"
-translated_at: 2026-05-31T11:13:44.913Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan life insurance big four
@@ -17,6 +17,8 @@ translated_at: 2026-05-31T11:13:44.913Z
 This page sits under [[insurance/INDEX|insurance domain]] and uses [[insurance/INDEX|insurance INDEX]] for company pages. Read it with [[insurance/life-insurance-channel-mix|life-insurance channel mix]], [[insurance/mutual-vs-stock-life-insurer|mutual vs stock life insurer]], [[insurance/esr-economic-value-solvency|ESR]], [[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]], and [[insurance/internet-life-insurance-business-model|internet life insurance business model]].
 
 ## Comparison Snapshot
+
+The following table is scoped to public primary sources (seiho.or.jp, nissay.co.jp, dai-ichi-life-hd.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:seiho.or.jp; nissay.co.jp; dai-ichi-life-hd.com; meijiyasuda.co.jp]
 
 | Insurer | Form / group structure | Public comparison fields | Related contrast |
 |---|---|---|---|
@@ -32,6 +34,8 @@ The big four include mutual insurers and a listed stock-company group. [[insuran
 The legal-form field is recorded separately from solvency, channel, product, and overseas strategy fields.
 
 ## Channel Architecture
+
+The following table is scoped to public primary sources (seiho.or.jp, nissay.co.jp, dai-ichi-life-hd.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:seiho.or.jp; nissay.co.jp; dai-ichi-life-hd.com; meijiyasuda.co.jp]
 
 | Channel | Big-four relevance | Public source field |
 |---|---|---|
@@ -75,6 +79,8 @@ Use [[insurance/economic-value-based-solvency|economic-value solvency regulation
 [[life-insurers/sumitomo-life|Sumitomo Life]] is a mutual-company life insurer with sales-force renewal, health / wellness-linked product strategies, digital support, and overseas portfolio disclosures.
 
 ## Public Data Fields
+
+The following table is scoped to public primary sources (seiho.or.jp, nissay.co.jp, dai-ichi-life-hd.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:seiho.or.jp; nissay.co.jp; dai-ichi-life-hd.com; meijiyasuda.co.jp]
 
 | Field | Public use |
 |---|---|

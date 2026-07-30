@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/au-insurance
-source_hash: 59476d753c13fef5
+source_hash: a1855fe761a2f6fa
 lang: ja
 status: machine
 fidelity: ok
 title: "au損害保険"
-translated_at: 2026-06-19T06:09:18.045Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # au損害保険
@@ -20,6 +20,8 @@ translated_at: 2026-06-19T06:09:18.045Z
 au損害保険株式会社は、[[megabanks/au-fh]] および [[non-life-insurers/aioi-nissay-dowa-insurance]] への隣接性を持つ direct／mobile-friendly な損害保険の事業会社。金融庁の損害保険会社免許一覧に載り、KDDI／au エコシステムと MS&AD の保険ケイパビリティの交差点にある。
 
 ## 1. 免許／グループの境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, sonpohogo.or.jp, au-sonpo.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; sonpohogo.or.jp; au-sonpo.co.jp]
 
 | 項目 | 備考 |
 |---|---|

@@ -3,8 +3,8 @@ title: "SBI FXトレード"
 aliases: ["SBI FXTRADE", "SBI FXトレード", "SBI FXトレード株式会社", "ＳＢＩ ＦＸ トレード株式会社"]
 domain: securities-firms
 created: 2026-05-20
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-12-05
 confidence: likely
 tags: [JapanFG, fx, derivatives, fiea-operator, sbi]
@@ -26,6 +26,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]] (its dom
 SBI FXトレード株式会社は、[[megabanks/sbi-hd|SBI group]] の FX 専門 FIEA operator。金融商品取引法上の **第一種金融商品取引業者** として金融庁の金融商品取引業者一覧に「SBI FXトレード株式会社」（関東財務局長(金商)第2635号）で掲載される。公開会社概要によれば SBIリクイディティ・マーケット株式会社の 100% 子会社で、[[securities-firms/sbi-securities|SBI証券]] とは別法人として 店頭FX / 積立FX / option FX / crypto CFD adjacency を担う。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, corp.sbifxt.co.jp, sbigroup.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; corp.sbifxt.co.jp; sbigroup.co.jp]
 
 | Item | Notes |
 |---|---|

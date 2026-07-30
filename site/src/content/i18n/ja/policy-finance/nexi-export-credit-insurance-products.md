@@ -1,12 +1,12 @@
 ---
 source: policy-finance/nexi-export-credit-insurance-products
-source_hash: 9775a3a2bb402924
+source_hash: 7b937fb2f57f3f70
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "NEXI 輸出信用保険商品"
-translated_at: 2026-06-26T08:32:23.056Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # NEXI 輸出信用保険商品
 
@@ -19,6 +19,8 @@ translated_at: 2026-06-26T08:32:23.056Z
 NEXI（株式会社日本貿易保険）は、日本の輸出信用・投資保険機関であり、METI が監督し、2017 の株式会社化以降は MoF が唯一の株主である。商品メニューは三つの主要ファミリーを軸に整理される。**貿易一般保険**（バイヤーズクレジット、サプライヤーズクレジット、単独の短期輸出債権を覆う包括カテゴリ）、**投資保険**（エクイティと株主融資の政治リスクおよび契約不履行を覆う海外投資保険）、**海外事業資金貸付保険**（海外融資に対する政治・商業デフォルトを覆うローン保険。大型プロジェクトファイナンス案件でメガバンクと[[financial-regulators/jbic|JBIC]]が依存する部分を含む）である。リスクカバーは**政治リスク**（戦争、収用、送金制限、ソブリンの契約違反）と**商業リスク**（買い手デフォルト、破産、長期不払い）に分かれる。標準的なカバー割合は、長期の旗艦商品で政治95% / 商業95%（場合により90%）程度であり、短期債権保険は一部商品設計で100%まで行く。NEXI の保険料と期間は[[policy-finance/oecd-export-credit-arrangement|OECD Arrangement on Officially Supported Export Credits]]に制約される。これは JBIC や peer ECA（US EXIM、K-EXIM、UKEF、KfW IPEX、EDC、Bpifrance、Cesce）を規律する同じレジームである。2021 以降の気候関連の商品進化、すなわち Coal Sector Understanding の引き締め、Climate Change Sector Understanding に基づく気候適合案件の長期化、重要鉱物・サプライチェーン保険への選択的拡大は、NEXI が標準パラメータで審査できるセクター案件を再編している。NEXI は、日本の一部民間貿易信用保険フローに対する公的再保険者としても機能する。
 
 ## 1. 機関 / 部門位置
+
+以下の表は、エントリ出典インベントリの公開一次資料（nexi.go.jp, meti.go.jp, oecd.org）の範囲に限定して読む。^[source:nexi.go.jp; meti.go.jp; oecd.org]
 
 | 項目 | 詳細 |
 |---|---|
@@ -41,6 +43,8 @@ NEXI は OECD Arrangement に従うメンバーである。保険料は、カン
 NEXI の商品メニューは大きい。主要ファミリーを以下に要約する。
 
 ### 2.1 商品分類
+
+以下の表は、エントリ出典インベントリの公開一次資料（nexi.go.jp, meti.go.jp, oecd.org）の範囲に限定して読む。^[source:nexi.go.jp; meti.go.jp; oecd.org]
 
 | ファミリー | サブ商品 | カバーリスク | 典型的カバー割合 | 相手方 |
 |---|---|---|---|---|
@@ -184,6 +188,8 @@ NEXI の政策姿勢は以下によって形づくられる。
 これらのシフトは商品ミックスと国別エクスポージャーを再編するが、基礎的なメカニクスは変えない。NEXI は OECD Arrangement 規律の下で、商業トランチとエクイティエクスポージャーを包む保険者であり、保険者のバランスシートの背後には国家のリスク負担能力が立つ。
 
 ## 7. 比較上の位置づけ — NEXI vs peer ECA と民間市場
+
+以下の表は、エントリ出典インベントリの公開一次資料（nexi.go.jp, meti.go.jp, oecd.org）の範囲に限定して読む。^[source:nexi.go.jp; meti.go.jp; oecd.org]
 
 | 次元 | NEXI | US EXIM Bank | K-EXIM（Korea） | UKEF（UK） | Sinosure（China） | 民間 PRI / TCI 市場 |
 |---|---|---|---|---|---|---|

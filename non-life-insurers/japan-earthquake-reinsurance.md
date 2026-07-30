@@ -3,8 +3,8 @@ title: "日本地震再保険"
 aliases: ["日本地震再保", "Japanese Earthquake Reinsurance", "Japan Earthquake Reinsurance", "日本地震再保険株式会社", "JER"]
 domain: non-life-insurers
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, insurance, non-life-insurance, reinsurance, earthquake-insurance, operating-company]
@@ -27,6 +27,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 日本地震再保険株式会社は、金融庁の損害保険会社免許一覧に掲載される earthquake reinsurance company。Japan's public-private residential earthquake insurance scheme を理解する上で中心的な operating-company anchor で、concept page は [[insurance/natcat-reinsurance-japan]] に置く。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, sonpohogo.or.jp, nihonjishin.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sonpohogo.or.jp; nihonjishin.co.jp]
 
 | Item | Notes |
 |---|---|

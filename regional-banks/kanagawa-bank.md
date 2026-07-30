@@ -3,8 +3,8 @@ title: "神奈川銀行"
 aliases: ["Kanagawa Bank", "The Kanagawa Bank", "株式会社神奈川銀行"]
 domain: regional-banks
 created: 2026-05-21
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-12-05
 confidence: likely
 tags: [JapanFG, banking, second-regional-bank, kanto, kanagawa, operating-company]
@@ -25,6 +25,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 株式会社神奈川銀行 (The Kanagawa Bank) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される神奈川県横浜市本店の第二地方銀行。神奈川県では第一地銀の [[regional-banks/yokohama-bank|横浜銀行]] が大きいが、神奈川銀行は別法人の licensed second-regional-bank operating company として扱う。事業の中身は横浜・県内の預金受入と中小企業・個人向け貸出という地域密着型第二地銀のモデル。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, kanagawabank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; kanagawabank.co.jp]
 
 | Item | Notes |
 |---|---|

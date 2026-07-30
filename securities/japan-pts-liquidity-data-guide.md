@@ -7,8 +7,8 @@ aliases:
   - "PTS流動性データ guide"
 domain: "securities"
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-22
 confidence: likely
 tags: [securities, PTS, liquidity, market-data, SOR, best-execution]
@@ -32,6 +32,8 @@ PTS liquidity data is the evidence layer behind [[securities/japan-best-executio
 Use this page with [[securities/INDEX|securities domain]], [[securities/japan-market-infrastructure-map|Japan market infrastructure map]], [[securities/japannext-securities|Japannext]], [[securities/osaka-digital-exchange|ODX]], [[securities/tokyo-stock-exchange|Tokyo Stock Exchange]], and [[securities/financial-instruments-business-operators-japan-index|FIEA operator registry index]].
 
 ## Source Stack
+
+The following table is scoped to public primary sources (jsda.or.jp, jpx.co.jp, japannext.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jsda.or.jp; jpx.co.jp; japannext.co.jp; odx.co.jp]
 
 | Source | What it is good for | Boundary |
 |---|---|---|

@@ -7,8 +7,8 @@ aliases:
   - "atone Net Protections"
 domain: payment-firms
 created: 2026-05-24
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, BNPL, atobarai, consumer-credit, wallet, net-protections]
@@ -30,6 +30,8 @@ This entry sits under the [[payment-firms/INDEX|payment-firms INDEX]] as a consu
 atone は [[payment-firms/net-protections-hd|Net Protections HD]] が運営する **消費者側 BNPL ウォレット**。アカウント登録ベースで複数加盟店を横断し、月締めで翌月コンビニ・銀行振込・口座振替で一括払いする UX を提供する。NP 後払い（請求書同梱型）が **加盟店主導 BNPL** であるのに対し、atone は **消費者主導 BNPL** という二刀流の片翼を担う。[[payment-firms/paidy|Paidy]] と最も直接的に競合する。
 
 ## 1. 法人・ライセンス境界
+
+The following table is scoped to public primary sources (atone.be, corp.netprotections.com, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:atone.be; corp.netprotections.com; meti.go.jp]
 
 | Item | Reading |
 |---|---|

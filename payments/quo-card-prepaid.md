@@ -8,8 +8,8 @@ aliases:
   - "クオカード"
 domain: payments
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [payments, prepaid, gift-card, quo-card, paper-prepaid, digital-prepaid, business-gift]
@@ -34,6 +34,8 @@ This entry sits under [[payments/INDEX|payments index]] as the QUO Card gift-car
 **QUO Card (クオカード)** is the **principal Japan paper-and-digital gift-card franchise**, issued by **株式会社クオカード (QUO Card Co Ltd)**, the third-party prepaid franchise originally launched 1987 as part of the Nippon Telegraph & Telephone (NTT) group prepaid card lineage and now operated as an independent prepaid-payment-instrument issuer registered with FSA. QUO Card is **widely used as corporate gifts, shareholder benefit (株主優待), promotional rewards, and survey-respondent incentives** in Japan because of its broad merchant acceptance, denominational flexibility (¥500 / ¥1,000 / ¥2,000 / ¥3,000 / ¥5,000 / ¥10,000), and the ability to print custom designs for corporate users (オリジナルQUOカード). The **QUO Card Pay (クオカードPay)** digital extension launched 2019 as a URL / barcode-based digital gift sent via email or messaging app, expanding the franchise from paper-card to digital-gift distribution. Acceptance spans convenience stores (Lawson, FamilyMart, MiniStop, Daily Yamazaki, Seicomart, NewDays — but **not 7-Eleven**), drugstores, gas stations, restaurants, bookstores, and other retail.
 
 ## Issuer and operational structure
+
+The following table is scoped to public primary sources (quocard.com, quocard.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:quocard.com; quocard.co.jp; fsa.go.jp; meti.go.jp]
 
 | Dimension | Reading |
 |---|---|
@@ -61,6 +63,8 @@ QUO Card is registered as a **第三者型前払式支払手段** under [[paymen
 
 QUO Card's economic role is principally **corporate / B2B gift distribution** rather than retail consumer wallet. Major use categories:
 
+The following table is scoped to public primary sources (quocard.com, quocard.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:quocard.com; quocard.co.jp; fsa.go.jp; meti.go.jp]
+
 | Use case | Description |
 |---|---|
 | **株主優待** (Shareholder benefit) | Listed-company shareholder gift programs frequently distribute QUO Cards as the shareholder-benefit asset. The denominational flexibility and broad acceptance fit shareholder-benefit distribution well. |
@@ -73,6 +77,8 @@ QUO Card's economic role is principally **corporate / B2B gift distribution** ra
 The acceptance network excludes **7-Eleven** — a structural quirk because Seven & i Group has its own [[payments/nanaco-prepaid-seven-i|nanaco]] prepaid franchise and historically does not accept QUO Card at its stores. This is one of the principal usability constraints of QUO Card relative to a universal gift card.
 
 ## Acceptance footprint
+
+The following table is scoped to public primary sources (quocard.com, quocard.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:quocard.com; quocard.co.jp; fsa.go.jp; meti.go.jp]
 
 | Tier | Acceptance |
 |---|---|
@@ -95,6 +101,8 @@ The acceptance network excludes **7-Eleven** — a structural quirk because Seve
 - Distinct from [[payments/japan-code-payment-competitive-map|wallet-style code payments]] like PayPay / au PAY / d払い — QUO Card Pay is a **single-use gift** with no recharge / topup functionality.
 
 ## KPI snapshot
+
+The following table is scoped to public primary sources (quocard.com, quocard.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:quocard.com; quocard.co.jp; fsa.go.jp; meti.go.jp]
 
 | Metric | Reading (public disclosure) |
 |---|---|

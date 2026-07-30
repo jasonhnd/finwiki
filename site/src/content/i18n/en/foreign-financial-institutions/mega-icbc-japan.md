@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/mega-icbc-japan
-source_hash: 18146e7e3959c77a
+source_hash: 5e229bdbb7709480
 lang: en
 status: machine
 fidelity: ok
 title: "Mega International Commercial Bank Tokyo Branch"
-translated_at: 2026-05-31T23:05:42.103Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Mega International Commercial Bank Tokyo Branch
 
@@ -18,6 +18,8 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 Mega International Commercial Bank Tokyo Branch is the Japan branch of Taiwan / Mega International Commercial Bank and is listed on the FSA foreign bank branch list. As the Japan branch of Taiwan's major international commercial bank network, it supports Japan-Taiwan trade, corporate banking, remittance, and treasury flows.
 
 ## 1. License / branch boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, megabank.com.tw). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; megabank.com.tw]
 
 | Item | Notes |
 |---|---|

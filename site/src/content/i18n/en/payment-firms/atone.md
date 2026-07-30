@@ -1,11 +1,11 @@
 ---
 source: payment-firms/atone
-source_hash: 96e60a34d736c7b5
+source_hash: 58775c64f75b80c4
 lang: en
 status: machine
 fidelity: ok
 title: "atone"
-translated_at: 2026-05-31T11:13:44.953Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # atone
 
@@ -18,6 +18,8 @@ This entry sits under the [[payment-firms/INDEX|payment-firms INDEX]] as a consu
 atone is a **consumer-side BNPL wallet** operated by [[payment-firms/net-protections-hd|Net Protections HD]]. It provides an account-registration UX that works across multiple merchants and settles monthly in a single next-month payment through convenience-store payment, bank transfer, or account debit. While NP Atobarai (invoice-in-package type) is **merchant-led BNPL**, atone is one side of the two-track model as **consumer-led BNPL**. It competes most directly with [[payment-firms/paidy|Paidy]].
 
 ## 1. Corporate / license boundary
+
+The following table is scoped to public primary sources (atone.be, corp.netprotections.com, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:atone.be; corp.netprotections.com; meti.go.jp]
 
 | Item | Reading |
 |---|---|

@@ -1,12 +1,12 @@
 ---
 source: insurance/lloyds-japan-syndicate-operating-model
-source_hash: 9c0b7a699b6b2764
+source_hash: c464ed940bd6ac1c
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Lloyd's Japan syndicate operating model"
-translated_at: 2026-06-26T08:32:07.535Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Lloyd's Japan syndicate operating model
@@ -23,6 +23,8 @@ translated_at: 2026-06-26T08:32:07.535Z
 
 Lloyd's は会社ではなく、規制された市場（マーケットプレイス）である。
 
+以下の表は、エントリ出典インベントリの公開一次資料（lloyds.com, fsa.go.jp, sonpo.or.jp）の範囲に限定して読む。^[source:lloyds.com; fsa.go.jp; sonpo.or.jp]
+
 | 構成要素 | 役割 |
 |---|---|
 
@@ -36,6 +38,8 @@ Lloyd's は会社ではなく、規制された市場（マーケットプレイ
 この連鎖は、単一バランスシートの保険会社に対する構造的な代替手段である。これはまた、Lloyd's Japan Inc. が財務諸表上の指標で [[non-life-insurers/aig-japan|AIG Japan]] や [[non-life-insurers/chubb-insurance-japan|Chubb Insurance Japan]] と同等に比較できない理由でもある — バランスシートはロンドンにある。
 
 ## 2. Lloyd's Japan Inc. — それが何であり、何でないか
+
+以下の表は、エントリ出典インベントリの公開一次資料（lloyds.com, fsa.go.jp, sonpo.or.jp）の範囲に限定して読む。^[source:lloyds.com; fsa.go.jp; sonpo.or.jp]
 
 | 項目 | ステータス |
 |---|---|
@@ -67,6 +71,8 @@ Premium and claims flow back through Lloyd's Japan Inc. to the cedent
 
 Lloyd's 市場は、シンジケートレベルのキャパシティ数値（Stamp Capacity）と Society レベルの業績を毎年公表している。日本固有のシンジケート参加は、種目（line-of-business）の詳細レベルでは*公的に分解されていない*が、構造的な読み方は次のとおり：
 
+以下の表は、エントリ出典インベントリの公開一次資料（lloyds.com, fsa.go.jp, sonpo.or.jp）の範囲に限定して読む。^[source:lloyds.com; fsa.go.jp; sonpo.or.jp]
+
 | シンジケート・クラスター | 典型的な日本での関与 |
 |---|---|
 
@@ -75,6 +81,8 @@ Lloyd's 市場は、シンジケートレベルのキャパシティ数値（Sta
 5 つの種目から成るスペシャルティのストーリーは、Lloyd's の公的な市場コメンタリー全体で一貫している：
 
 ## 6. 再保険と直接引受の境界日本における Lloyd's シンジケートは、直接引受市場と再保険市場の*両方*で、時には同じ種目で、事業を行っている：
+
+以下の表は、エントリ出典インベントリの公開一次資料（lloyds.com, fsa.go.jp, sonpo.or.jp）の範囲に限定して読む。^[source:lloyds.com; fsa.go.jp; sonpo.or.jp]
 
 | モード | どのように見えるか | カウンターパーティ | 例 |
 |---|---|---|---|
@@ -85,6 +93,8 @@ Lloyd's 市場は、シンジケートレベルのキャパシティ数値（Sta
 これが、Lloyd's が [[insurance/foreign-reinsurer-japan-landscape|foreign reinsurer panel]] の議論*にも*直接保険者比較にも登場する理由である — Lloyd's は両方の層に構造的に存在している。
 
 ## 7. 比較：Lloyd's Japan vs 従来型の外国保険者
+
+以下の表は、エントリ出典インベントリの公開一次資料（lloyds.com, fsa.go.jp, sonpo.or.jp）の範囲に限定して読む。^[source:lloyds.com; fsa.go.jp; sonpo.or.jp]
 
 | 次元 | Lloyd's Japan ([[non-life-insurers/lloyd-japan]]) | 従来型の外国保険者 (例、[[non-life-insurers/aig-japan|AIG Japan]], [[non-life-insurers/chubb-insurance-japan|Chubb]]) |
 |---|---|---|

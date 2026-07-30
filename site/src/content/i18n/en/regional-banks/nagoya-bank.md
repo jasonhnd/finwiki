@@ -1,11 +1,11 @@
 ---
 source: regional-banks/nagoya-bank
-source_hash: db8a39638a8e543f
+source_hash: 3caf79ce0f0ec60a
 lang: en
 status: machine
 fidelity: ok
 title: "The Bank of Nagoya"
-translated_at: 2026-06-15T04:09:41.212Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # The Bank of Nagoya
@@ -19,6 +19,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 The Bank of Nagoya, Ltd. (株式会社名古屋銀行) is a second regional bank headquartered in Nagoya, Aichi Prefecture, that holds a banking license under the Banking Act and is listed on the FSA's bank license list. In the Chukyo area, it is given a standalone operating-company page as a major local-bank peer alongside [[regional-banks/aichi-bank|あいち銀行]] ([[regional-banks/aichi-fg|あいちフィナンシャルグループ]]). The substance of its business is the standard second-regional-bank model of taking deposits and lending to SMEs and individuals within the prefecture and the Nagoya area.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, meigin.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; meigin.com]
 
 | Item | Notes |
 |---|---|

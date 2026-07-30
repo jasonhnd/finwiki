@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/kb-kookmin-bank-japan
-source_hash: a3c82b225881b146
+source_hash: 988cde293f14c273
 lang: ja
 status: machine
 fidelity: ok
 title: "國民銀行 東京支店"
-translated_at: 2026-06-02T14:54:39.036Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 國民銀行 東京支店
@@ -20,6 +20,8 @@ translated_at: 2026-06-02T14:54:39.036Z
 國民銀行 東京支店は、金融庁の外国銀行支店一覧に掲載される Republic of Korea / KB Kookmin Bank の在日銀行支店。韓国の大手リテール・商業銀行グループの日本支店として、韓国・日本間の送金、預金、法人取引のコリドーを担う。
 
 ## 1. 免許・支店境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, omoney.kbstar.com, zenginkyo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; omoney.kbstar.com; zenginkyo.or.jp]
 
 | 項目 | メモ |
 |---|---|

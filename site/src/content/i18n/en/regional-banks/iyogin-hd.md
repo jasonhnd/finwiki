@@ -1,11 +1,11 @@
 ---
 source: regional-banks/iyogin-hd
-source_hash: c1463f8f9252b108
+source_hash: 765226244296e8d1
 lang: en
 status: machine
 fidelity: ok
 title: "Iyogin HD (Iyogin Holdings)"
-translated_at: 2026-07-28T20:55:25Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Iyogin HD (Iyogin Holdings)
@@ -43,6 +43,8 @@ Iyogin HD (holding company, listed 5830)
 
 ## 2. History
 
+The following table is scoped to public primary sources (iyogin-hd.co.jp, iyobank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:iyogin-hd.co.jp; iyobank.co.jp]
+
 | Year/Month | Event |
 |---|---|
 | 1878  | **29th National Bank** (Matsuyama) established — under the National Bank Act, one of the oldest in Shikoku |
@@ -53,6 +55,8 @@ Iyogin HD (holding company, listed 5830)
 | 2024~ | Medium-term management plan launched |
 
 ## 3. Business segment map
+
+The following table is scoped to public primary sources (iyogin-hd.co.jp, iyobank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:iyogin-hd.co.jp; iyobank.co.jp]
 
 | Segment | Main operator | Characteristics |
 |---|---|---|
@@ -76,6 +80,8 @@ Iyogin HD (holding company, listed 5830)
 - API banking for corporations and regional DX support
 
 ### Competitive map (Shikoku's 4  prefectures)
+
+The following table is scoped to public primary sources (iyogin-hd.co.jp, iyobank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:iyogin-hd.co.jp; iyobank.co.jp]
 
 | Prefecture | Main regional bank | Holding company |
 |---|---|---|

@@ -1,11 +1,11 @@
 ---
 source: payment-firms/gmo-coin
-source_hash: 59eacf4d1b052e05
+source_hash: 577efeaa421d6728
 lang: ja
 status: machine
 fidelity: ok
 title: "GMO コイン (GMO Coin)"
-translated_at: 2026-07-28T20:15:36Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # GMO コイン (GMO Coin)
@@ -46,6 +46,8 @@ GMO インターネットグループ（9449 / 東証 PRIME）
 
 ## 2. 事業セグメント・マップ
 
+以下の表は、エントリ出典インベントリの公開一次資料（coin.z.com, fsa.go.jp）の範囲に限定して読む。^[source:coin.z.com; fsa.go.jp]
+
 | セグメント | 内容 | 特徴 |
 |---|---|---|
 | 販売所 | 顧客 vs GMO コイン の相対取引 | スプレッド方式・初心者向け |
@@ -60,6 +62,8 @@ GMO インターネットグループ（9449 / 東証 PRIME）
 **海外展開**：限定的。GMO 金融グループ全体としては海外 FX 拠点（タイ・香港・英国）はあるが、GMO コイン本体は **国内ライセンスベース**。
 
 ## 3. 沿革
+
+以下の表は、エントリ出典インベントリの公開一次資料（coin.z.com, fsa.go.jp）の範囲に限定して読む。^[source:coin.z.com; fsa.go.jp]
 
 | 年月 | 事象 |
 |---|---|
@@ -84,6 +88,8 @@ GMO インターネットグループ（9449 / 東証 PRIME）
 - **GMO インターネット本体**（インフラ・サイバーセキュリティ）→ 取引所セキュリティ基盤
 
 ### 競合ポジション
+
+以下の表は、エントリ出典インベントリの公開一次資料（coin.z.com, fsa.go.jp）の範囲に限定して読む。^[source:coin.z.com; fsa.go.jp]
 
 | 競合 | 親会社 | 強み |
 |---|---|---|

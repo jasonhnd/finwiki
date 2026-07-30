@@ -1,11 +1,11 @@
 ---
 source: regional-banks/shikoku-bank
-source_hash: 535413b57eeee990
+source_hash: 1ad79f5aa88ff317
 lang: ja
 status: machine
 fidelity: ok
 title: "四国銀行"
-translated_at: 2026-06-15T04:09:41.174Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 四国銀行
@@ -19,6 +19,8 @@ translated_at: 2026-06-15T04:09:41.174Z
 株式会社四国銀行 (The Shikoku Bank) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される高知県高知市本店の地方銀行 (第一地銀)。1897 年創業の歴史を持つ高知県の first-regional-bank operating-company anchor で、東証上場の上場地銀。第二地銀の [[regional-banks/kochi-bank|高知銀行]] とは別法人の peer として扱う。事業の中身は県内および四国一円の預金受入・中小企業/個人向け貸出という地銀の標準モデル。
 
 ## 1. ライセンス / グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, shikokubank.co.jp, ja.wikipedia.org）の範囲に限定して読む。^[source:fsa.go.jp; shikokubank.co.jp; ja.wikipedia.org]
 
 | 項目 | 備考 |
 |---|---|

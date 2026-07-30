@@ -1,12 +1,12 @@
 ---
 source: life-insurers/midori-life
-source_hash: 472aa4f4359f7b92
+source_hash: 80167abc5570f19c
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "みどり生命保険"
-translated_at: 2026-06-26T08:32:07.553Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # みどり生命保険
@@ -20,6 +20,8 @@ translated_at: 2026-06-26T08:32:07.553Z
 みどり生命保険株式会社は、保険業法上の生命保険会社免許を持ち金融庁の生命保険会社免許一覧と[[financial-regulators/seiho-kyokai|生命保険協会]]会員一覧に掲載される、東京都に本社を置く中堅・スペシャルティ系の生命保険事業会社。2008 年 8 月に内閣総理大臣（金融庁）から生命保険業免許を取得し、同年 10 月に営業を開始した。**大手金融グループ系ではなく、冠婚葬祭互助会業の国内最大手「ベルコグループ」系の関連会社**として出発した点が、他の財閥系・銀行系生保と異なる。大手グループページでは拾いにくいため、exact-name anchor として置く。
 
 ## 1. ライセンス／グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, midori-life.com）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; midori-life.com]
 
 | Item | Notes |
 |---|---|

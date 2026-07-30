@@ -1,11 +1,11 @@
 ---
 source: insurance/global-solvency-framework-comparison-matrix
-source_hash: 7f4473fe916378e2
+source_hash: fa51ce1210046dbf
 lang: ja
 status: machine
 fidelity: ok
 title: "Global ソルベンシー framework comparison matrix"
-translated_at: 2026-06-19T06:09:18.038Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Global ソルベンシー framework comparison matrix
@@ -24,6 +24,8 @@ translated_at: 2026-06-19T06:09:18.038Z
 
 ### アイデンティティと適用日
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, iaisweb.org, eiopa.europa.eu）の範囲に限定して読む。^[source:fsa.go.jp; iaisweb.org; eiopa.europa.eu; content.naic.org]
+
 | 次元 | Japan FSA ESR | IAIS ICS 2.0 | EU ソルベンシー II | US NAIC RBC |
 |---|---|---|---|---|
 | 規制当局 | 金融庁 (FSA) | 保険監督者国際機構 (IAIS) | 欧州保険・企業年金監督機構 (EIOPA) および各国監督当局 | 全米保険監督官協会 (NAIC) および州規制当局 |
@@ -32,6 +34,8 @@ translated_at: 2026-06-19T06:09:18.038Z
 | ヘッドライン指標 | 経済ソルベンシー比率 (ESR) = 適格資本 / 所要資本 | ICS 比率 = 適格資本リソース / ICS 所要資本 | ソルベンシー資本要件 (SCR) カバレッジ比率 = 適格自己資本 / SCR；加えて最低資本要件 (MCR) | RBC 比率 = 総調整後資本 / 認可管理水準 RBC、規制措置水準を伴う |
 
 ### 哲学と評価
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, iaisweb.org, eiopa.europa.eu）の範囲に限定して読む。^[source:fsa.go.jp; iaisweb.org; eiopa.europa.eu; content.naic.org]
 
 | 次元 | Japan FSA ESR | IAIS ICS 2.0 | EU ソルベンシー II | US NAIC RBC |
 |---|---|---|---|---|
@@ -42,6 +46,8 @@ translated_at: 2026-06-19T06:09:18.038Z
 
 ### 資本構造
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, iaisweb.org, eiopa.europa.eu）の範囲に限定して読む。^[source:fsa.go.jp; iaisweb.org; eiopa.europa.eu; content.naic.org]
+
 | 次元 | Japan FSA ESR | IAIS ICS 2.0 | EU ソルベンシー II | US NAIC RBC |
 |---|---|---|---|---|
 | 資本のティアリング | ICS の原則に概ね整合した質的基準を伴うティア化された適格資本；劣後債と資本商品は上限を条件に認められる | 2 ティアの適格資本リソース：Tier 1 （コア、無制限の Tier 1を含む）と Tier 2；Tier 2 の使用に上限あり | 3 ティア：Tier 1 （無制限および制限付き）、Tier 2,、Tier 3,、それぞれ SCR と MCR に対する適格性上限あり | 総調整後資本は法定資本・剰余、資産評価準備金（生命）、承認された調整を集約する；正式な Tier 1 ／2 ／3 の区分はない |
@@ -49,6 +55,8 @@ translated_at: 2026-06-19T06:09:18.038Z
 | リスクマージン／MOCE の基準 | 最良推定に対する資本コスト型のマージン | 最良推定に加えられる現在推定上のマージン (MOCE) | 資本コストのリスクマージン（現在は 2025 のレビューによる引き下げ後 4 パーセントの CoC） | 明示的なリスクマージンはない；保守主義は法定責任準備金とファクターチャージに組み込まれている |
 
 ### リスクモジュール
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, iaisweb.org, eiopa.europa.eu）の範囲に限定して読む。^[source:fsa.go.jp; iaisweb.org; eiopa.europa.eu; content.naic.org]
 
 | 次元 | Japan FSA ESR | IAIS ICS 2.0 | EU ソルベンシー II | US NAIC RBC |
 |---|---|---|---|---|
@@ -59,6 +67,8 @@ translated_at: 2026-06-19T06:09:18.038Z
 
 ### 開示と監督
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, iaisweb.org, eiopa.europa.eu）の範囲に限定して読む。^[source:fsa.go.jp; iaisweb.org; eiopa.europa.eu; content.naic.org]
+
 | 次元 | Japan FSA ESR | IAIS ICS 2.0 | EU ソルベンシー II | US NAIC RBC |
 |---|---|---|---|---|
 | 柱（ピラー）構造 | FSA はレジームを 3 つの柱として枠組む：規制資本、内部リスク管理／監督上のレビュー (ORSA スタイル)、開示 | 2 ティアの監督アーキテクチャ：規定資本要件としての ICS にグループ全体の監督を加える | 3 つの柱：Pillar 1 定量 (SCR／MCR)、Pillar 2 ガバナンスと ORSA、Pillar 3 開示 (SFCR、RSR、QRT) | 規制措置水準を伴う州規制当局への機密 RBC 報告；公的な Pillar 3型の開示レジームではない |
@@ -66,6 +76,8 @@ translated_at: 2026-06-19T06:09:18.038Z
 | 監督ラダー | FSA はしきい値に対してモニタリングする；経済価値レジーム下の措置水準は移行中にキャリブレーションされる | ICS レベルの監督上の対話；正式な「ラダー」はないが、ICS 比率は監督上の介入に情報を与える | SCR の違反は回復計画を発動する；MCR の違反は短期的な回復がなければ認可の取消しを発動する | 4 つの措置水準：会社措置、規制措置、認可管理、強制管理 |
 
 ### IAIS ICS との収斂と乖離
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, iaisweb.org, eiopa.europa.eu）の範囲に限定して読む。^[source:fsa.go.jp; iaisweb.org; eiopa.europa.eu; content.naic.org]
 
 | レジーム | ICS との整合 | 主要な乖離 |
 |---|---|---|
@@ -82,6 +94,8 @@ translated_at: 2026-06-19T06:09:18.038Z
 
 ## ESG／気候ストレスのオーバーレイ各レジームは、気候／ESG の考慮事項をヘッドライン比率に埋め込むのではなく、コア資本フレームワークの上に重ねている：
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, iaisweb.org, eiopa.europa.eu）の範囲に限定して読む。^[source:fsa.go.jp; iaisweb.org; eiopa.europa.eu; content.naic.org]
+
 | レジーム | 気候／ESG のアプローチ |
 |---|---|
 | Japan FSA ESR | 大手保険会社向けの FSA 気候関連シナリオ分析；ESG リスクは直接的な SCR スタイルのアドオンではなく、主に ORSA と監督上の対話を通じて扱われる |
@@ -90,6 +104,8 @@ translated_at: 2026-06-19T06:09:18.038Z
 | US NAIC RBC | NAIC 気候リスク開示調査と TCDD 整合の報告；まだ直接的な RBC 資本チャージではない |
 
 ## 移行措置
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, iaisweb.org, eiopa.europa.eu）の範囲に限定して読む。^[source:fsa.go.jp; iaisweb.org; eiopa.europa.eu; content.naic.org]
 
 | レジーム | 移行メカニズム |
 |---|---|

@@ -11,8 +11,8 @@ aliases:
   - "non-life-insurers/tokio-marine-holdings"
 domain: non-life-insurers
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, non-life-insurance]
@@ -85,6 +85,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 
 ### 重要年表(抜粋)
 
+The following table is scoped to public primary sources (Tokio Marine HD, 東京海上 HD, 東京海上ホールディングス). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Tokio Marine HD; 東京海上 HD; 東京海上ホールディングス]
+
 | 年月 | 事象 |
 |---|---|
 | 1879-08 | 東京海上保険会社 創業(日本初損保) |
@@ -101,6 +103,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 | **2025-03** | **FY2024 決算** 経常収益 5.31 兆円 / 純利益 1.06 兆円 |
 
 ### 連結業績(FY2024 = 2025-03 期、確認済)
+
+The following table is scoped to public primary sources (Tokio Marine HD, 東京海上 HD, 東京海上ホールディングス). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Tokio Marine HD; 東京海上 HD; 東京海上ホールディングス]
 
 | 項目 | FY2024 実績 |
 |---|---|

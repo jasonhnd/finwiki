@@ -1,11 +1,11 @@
 ---
 source: regional-banks/hachijuni-bank
-source_hash: 50e5fbe69de0aa48
+source_hash: 96a8dc7431a6645d
 lang: ja
 status: machine
 fidelity: ok
 title: "八十二銀行"
-translated_at: 2026-06-02T14:25:12.393Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 八十二銀行
@@ -53,6 +53,8 @@ translated_at: 2026-06-02T14:25:12.393Z
 
 ### 重要年表（抜粋）
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, bank.82group.jp）の範囲に限定して読む。^[source:fsa.go.jp; bank.82group.jp]
+
 | 年月 | 事象 |
 |---|---|
 | 1877 | **第六十三国立銀行 設立**（明治期国立銀行条例下）|
@@ -67,6 +69,8 @@ translated_at: 2026-06-02T14:25:12.393Z
 | 2026 FSA snapshot | [[regional-banks/hachijuni-nagano-bank|株式会社八十二長野銀行]] が地方銀行一覧に掲載 |
 
 ## 2. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, bank.82group.jp）の範囲に限定して読む。^[source:fsa.go.jp; bank.82group.jp]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

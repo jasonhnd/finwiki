@@ -1,11 +1,11 @@
 ---
 source: regional-banks/sbi-shinsei-bank
-source_hash: ee5b05fc6c3e572b
+source_hash: 34a0c523529e5a66
 lang: en
 status: machine
 fidelity: ok
 title: "SBI Shinsei Bank"
-translated_at: 2026-06-19T12:43:19.892Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # SBI Shinsei Bank
@@ -46,6 +46,8 @@ SBI Holdings [[megabanks/sbi-hd]] (listed 8473)
 
 ### Key timeline (excerpt) ^[extracted]
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Year/Month | Event |
 |---|---|
 | 1952-12 | **Long-Term Credit Bank of Japan (LTCB) established** (a long-term credit institution of the postwar reconstruction era, a special bank under the Long-Term Credit Bank Act) |
@@ -68,6 +70,8 @@ SBI Holdings [[megabanks/sbi-hd]] (listed 8473)
 - The remaining public funds injected at the time of the former LTCB's nationalization, on the order of **approx. 3500 億円** (originating from shares held by the Deposit Insurance Corporation; a continuing issue even after SBI's full subsidiarization)
 
 ## 2. Business segment map
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Segment | Main operators | Characteristics |
 |---|---|---|

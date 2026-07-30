@@ -3,8 +3,8 @@ title: ファミマデジタルワン (FamiMa Digital One)
 aliases: ["ファミマデジタルワン", "FamiMa Digital One", "FamiPay", "ファミペイ", "FamiPay 運営会社"]
 domain: payment-firms
 created: 2026-05-19
-last_updated: 2026-07-29
-last_tended: 2026-07-29
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-10-27
 confidence: certain
 tags: [JapanFG, payment, retail, fintech]
@@ -48,6 +48,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 
 ### 重要年表
 
+The following table is scoped to public primary sources (famidigi.jp, family.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:famidigi.jp; family.co.jp; fsa.go.jp]
+
 | 年月 | 事象 |
 |---|---|
 | 2000-05-19 | 株式会社ファミマ・ドット・コム設立 |
@@ -84,6 +86,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 - **ハウスポイント独立化**（2024-04 Tポイント解消）: 還元経済を内部完結 → CCC / V ポイントへの依存解消
 
 ### 競合構図
+
+The following table is scoped to public primary sources (famidigi.jp, family.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:famidigi.jp; family.co.jp; fsa.go.jp]
 
 | 競合 | 経済圏 | コンビニ提携 |
 |---|---|---|

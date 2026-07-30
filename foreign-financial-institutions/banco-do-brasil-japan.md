@@ -8,8 +8,8 @@ aliases:
   - "BB Japão"
 domain: foreign-financial-institutions
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-22
 confidence: likely
 tags: [JapanFG, foreign-bank, Brazil, remittance, trade-finance, diaspora-banking]
@@ -38,6 +38,8 @@ Banco do Brasil's Japan site is a full public customer-facing surface, not just 
 The page is worth standalone treatment because the Brazil-Japan corridor has strong diaspora and trade-finance relevance. It is closer to [[foreign-financial-institutions/philippine-national-bank-japan|PNB Japan]] and [[foreign-financial-institutions/metrobank-japan|Metrobank Japan]] than to a pure wholesale investment-bank branch.
 
 ## Entity Boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, bb.com.br). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; bb.com.br]
 
 | Item | Reading |
 |---|---|

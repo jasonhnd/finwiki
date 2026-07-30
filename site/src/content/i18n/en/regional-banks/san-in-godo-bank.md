@@ -1,11 +1,11 @@
 ---
 source: regional-banks/san-in-godo-bank
-source_hash: a0b560a629632ad5
+source_hash: 020601012bcf6387
 lang: en
 status: machine
 fidelity: ok
 title: "San-in Godo Bank (山陰合同銀行)"
-translated_at: 2026-06-19T12:43:19.974Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # San-in Godo Bank (山陰合同銀行)
 
@@ -37,6 +37,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ### Key chronology (excerpt) ^[extracted]
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Year/month | Event |
 |---|---|
 | 1922-04-01 | Matsue Bank established |
@@ -54,6 +56,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 | 2024 | Formulated medium-term management plan (regional + digital + sustainability, 3  axes)|
 
 ## 2. Business segment map
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Segment | Content | Characteristics |
 |---|---|---|
@@ -75,6 +79,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 - **Tourism-resource dependence**: Izumo Taisha (800 万 worshippers per year), Tottori Sand Dunes, Matsue Castle, Tamatsukuri Onsen, Kaike Onsen, and Oki Islands tourism are pillars of the regional economy
 
 ### Competitive relationships
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Competitor | Base | Relationship |
 |---|---|---|

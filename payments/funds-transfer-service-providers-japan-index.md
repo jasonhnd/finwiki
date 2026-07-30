@@ -7,8 +7,8 @@ aliases:
   - "Japan money transfer operators"
 domain: "payments"
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [payments, funds-transfer, payment-services-act, registry, fsa, wallets]
@@ -28,6 +28,8 @@ FSA's funds transfer service provider list contains **83 registered operators as
 Use this page when a company page under [[payments/INDEX|payments INDEX]] needs to be read as a money-transfer operator, wallet operator, remittance provider, PSP with transfer capability, or stablecoin-adjacent settlement company. The official FSA PDF remains the source of truth for registration numbers, dates, addresses, and service-type columns.
 
 ## Registry Snapshot
+
+The following table is scoped to public primary sources (fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp]
 
 | Metric | Reading |
 |---|---:|
@@ -49,6 +51,8 @@ Use this page when a company page under [[payments/INDEX|payments INDEX]] needs 
 
 ## Boundary
 
+The following table is scoped to public primary sources (fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp]
+
 | Boundary | Treatment |
 |---|---|
 | Funds transfer service provider | Registered under the Payment Services Act to conduct exchange transactions outside the banking-license route. |
@@ -60,6 +64,8 @@ Use this page when a company page under [[payments/INDEX|payments INDEX]] needs 
 ## Existing Material Wiki Routes
 
 These routes are material operators already covered or newly promoted in FinWiki. They are not a complete reproduction of the 83-row FSA list.
+
+The following table is scoped to public primary sources (fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp]
 
 | Segment | Official / product route | Wiki route | Boundary note |
 |---|---|---|---|

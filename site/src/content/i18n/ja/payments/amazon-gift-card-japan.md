@@ -1,12 +1,12 @@
 ---
 source: payments/amazon-gift-card-japan
-source_hash: 0a1a27dd4347c3d3
+source_hash: af234d68dd8af740
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Amazon Gift Card Japan: クローズドループ型 EC 前払"
-translated_at: 2026-06-26T08:38:42.154Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Amazon Gift Card Japan: クローズドループ型 EC 前払
 
@@ -19,6 +19,8 @@ translated_at: 2026-06-26T08:38:42.154Z
 **Amazon Gift Card（Amazonギフト券）** は Amazon.co.jp の **クローズドループ型前払 EC クレジット** です。日本では **Amazon Japan G.K.（アマゾンジャパン合同会社）** が発行し、[[payments/funds-transfer-vs-prepaid-boundary|Payment Services Act 前払式 framework]] に基づく 自家型（単一加盟店 / クローズドループ）前払式支払手段として登録されています。[[payments/quo-card-prepaid|QUO Card]] および [[payments/visa-gift-card-japan|Visa Gift Card]]（どちらもオープンループ / 複数加盟店型）とは異なり、Amazon Gift Card はマーケットプレイスでの購入に **Amazon.co.jp のみ** で使えます。流通レールは、**eGift デジタルコード**（Eメール、SNS 配送、カスタマイズ可能）、**プラスチックギフトカード**（Lawson / FamilyMart / MiniStop / 7-Eleven / ドラッグストア等のコンビニ販売）、**チャージタイプ**（コンビニレジ / Amazon サイトでのアカウント残高チャージ）、**ボックス / 封筒型の物理ギフト包装** にまたがります。この商品は **贈答**（受取人向けのデジタル / 物理 eGift）と **自己チャージ**（クレジットカードを持たない利用者の Amazon.co.jp カードレス決済）の両方を対象としており、とくに銀行サービスに十分アクセスできない層、未成年、クレジットカード非保有層に重要です。
 
 ## 発行者と運営構造
+
+以下の表は、エントリ出典インベントリの公開一次資料（amazon.co.jp, fsa.go.jp, meti.go.jp）の範囲に限定して読む。^[source:amazon.co.jp; fsa.go.jp; meti.go.jp]
 
 | 観点 | 読み方 |
 |---|---|
@@ -43,6 +45,8 @@ Amazon Gift Card は、受入範囲が発行者自身のサービス（Amazon.co
 
 ## 流通レールとユースケース
 
+以下の表は、エントリ出典インベントリの公開一次資料（amazon.co.jp, fsa.go.jp, meti.go.jp）の範囲に限定して読む。^[source:amazon.co.jp; fsa.go.jp; meti.go.jp]
+
 | レール | 説明 |
 |---|---|
 | **eGift（Eメールタイプ）** | Email / SMS / LINE で配送されるコード。デザインをカスタマイズでき、送付者が金額とメッセージを選ぶ。受取人は Amazon.co.jp でコードを入力する。 |
@@ -63,6 +67,8 @@ Amazon Gift Card は、日本の **「電子マネー型特殊詐欺 / 振り込
 - これは、日本におけるギフトカードのオープン流通に対する主要な規制・社会的圧力の一つです。
 
 ## KPI スナップショット
+
+以下の表は、エントリ出典インベントリの公開一次資料（amazon.co.jp, fsa.go.jp, meti.go.jp）の範囲に限定して読む。^[source:amazon.co.jp; fsa.go.jp; meti.go.jp]
 
 | 指標 | 読み方（公開情報） |
 |---|---|

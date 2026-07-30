@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/swiss-re-japan
-source_hash: e64c31066eee5f00
+source_hash: 44638f536493688c
 lang: en
 status: machine
 fidelity: ok
 title: "Swiss Re Japan Branch"
-translated_at: 2026-06-19T06:09:18.107Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Swiss Re Japan Branch
@@ -19,6 +19,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 The Japan branch of Swiss Reinsurance Company Ltd. (Schweizerische Rückversicherungs-Gesellschaft AG, listed on SIX). Alongside Munich Re, it is **one of the world's 2  largest reinsurance companies**. It appears on the FSA's non-life insurance company license list (foreign non-life insurance companies, etc.), and operates both the Property & Casualty Reinsurance and Life & Health Reinsurance segments in the Japanese market.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (swissre.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:swissre.com; fsa.go.jp]
 
 | Item | Notes |
 |---|---|

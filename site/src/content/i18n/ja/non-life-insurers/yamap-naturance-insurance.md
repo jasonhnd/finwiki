@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/yamap-naturance-insurance
-source_hash: 36a113e206c3fcae
+source_hash: 27d2294c7de74b76
 lang: ja
 status: machine
 fidelity: ok
 title: "ヤマップネイチャランス損害保険"
-translated_at: 2026-06-02T16:33:58.510Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # ヤマップネイチャランス損害保険
 
@@ -22,6 +22,8 @@ translated_at: 2026-06-02T16:33:58.510Z
 日本損害保険協会の開示は、同社名、ウェブサイト、名護所在地、2024-05-21 の損害保険免許取得、2024-05-21 の現社名への名称変更を記録している。
 
 ## 1. ライセンス / 事業境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, yamap-naturance.co.jp, sonpo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; yamap-naturance.co.jp; sonpo.or.jp]
 
 | 項目 | 注記 |
 |---|---|

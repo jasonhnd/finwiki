@@ -1,11 +1,11 @@
 ---
 source: payments/japan-code-payment-competitive-map
-source_hash: 12c89faffbd71346
+source_hash: 46cad10b9450ebb6
 lang: en
 status: machine
 fidelity: ok
 title: "Japan code-payment competitive map"
-translated_at: 2026-06-01T03:31:12.271Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan code-payment competitive map
@@ -17,6 +17,8 @@ Japan's code-payment market is recorded as a battle among wallet ecosystems, mer
 This page routes code-payment analysis under [[payments/INDEX|payments]] and links consumer wallet operators in [[payments/INDEX|payments INDEX]] with PSP / gateway infrastructure such as [[payment-firms/netstars|Netstars]] and [[payments/psp-merchant-settlement-risk|merchant settlement risk]].
 
 ## Competitive Lanes
+
+The following table is scoped to public primary sources (meti.go.jp, paymentsjapan.or.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; paymentsjapan.or.jp; fsa.go.jp]
 
 | Lane | Core route | Strategic reading |
 |---|---|---|
@@ -38,6 +40,8 @@ This page routes code-payment analysis under [[payments/INDEX|payments]] and lin
 - Regulatory boundary: many wallets require careful routing across [[payments/funds-transfer-service-providers-japan-index|funds transfer]], [[payments/prepaid-payment-instrument-issuers-japan-index|prepaid]], card acquiring, and credit.
 
 ## Operator Lens
+
+The following table is scoped to public primary sources (meti.go.jp, paymentsjapan.or.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; paymentsjapan.or.jp; fsa.go.jp]
 
 | Question | Route |
 |---|---|

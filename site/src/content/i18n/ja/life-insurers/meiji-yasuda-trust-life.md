@@ -1,12 +1,12 @@
 ---
 source: life-insurers/meiji-yasuda-trust-life
-source_hash: 61f78f7270c41be4
+source_hash: 8f28d5943894820e
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "明治安田トラスト生命保険"
-translated_at: 2026-06-26T08:32:23.067Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 明治安田トラスト生命保険
@@ -18,6 +18,8 @@ translated_at: 2026-06-26T08:32:23.067Z
 明治安田トラスト生命保険株式会社は、保険業法上の生命保険会社免許を持ち金融庁の生命保険会社免許一覧に掲載される、[[life-insurers/meiji-yasuda|明治安田生命]] グループの生命保険事業会社。前身はアリアンツ生命 → イオン・アリアンツ生命で、**2025 年 7 月 1 日に明治安田生命が株式の約 85% を取得して子会社化し、2025 年 10 月 1 日に「明治安田トラスト生命保険」へ社名変更**した。旧イオン・アリアンツ生命は団体信用生命保険 (団信) に特化していた経緯があり、name-change / group-transfer の境界を持つため standalone page として置く。
 
 ## 1. ライセンス・グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, meijiyasuda-trustlife.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; meijiyasuda-trustlife.co.jp; meijiyasuda.co.jp]
 
 | 項目 | 備考 |
 |---|---|

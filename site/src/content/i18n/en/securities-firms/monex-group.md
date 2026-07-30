@@ -1,11 +1,11 @@
 ---
 source: securities-firms/monex-group
-source_hash: 363d01b0aabfc01e
+source_hash: e3260535cea92de6
 lang: en
 status: machine
 fidelity: ok
 title: "Monex Group (マネックスグループ)"
-translated_at: 2026-07-28T20:55:25Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Monex Group (マネックスグループ)
@@ -47,6 +47,8 @@ Monex Group (holding company, listed 8698)
 
 ### Key chronology (based on public information)
 
+The following table is scoped to public primary sources (monexgroup.jp, docomo.ne.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:monexgroup.jp; docomo.ne.jp]
+
 | Year/Month | Event |
 |---|---|
 | 1999-05-19 | **Monex, Inc. established** (jointly invested by Sony + Oki Matsumoto; Oki Matsumoto is a former Goldman Sachs partner) |
@@ -63,6 +65,8 @@ Monex Group (holding company, listed 8698)
 > Note: The above chronology is based on public materials (Wikipedia / IR / press releases). Specific equity ratios and integration-scheme terms vary by period, so the latest values should be checked against IR disclosure materials.
 
 ## 2. Business segment map
+
+The following table is scoped to public primary sources (monexgroup.jp, docomo.ne.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:monexgroup.jp; docomo.ne.jp]
 
 | Segment | Main operator | Characteristics |
 |---|---|---|

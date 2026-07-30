@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/chang-hwa-bank-japan
-source_hash: 5c9a2b21bb50c1e5
+source_hash: c8adac9813c5f4e2
 lang: ja
 status: machine
 fidelity: ok
 title: "彰化商業銀行日本 (Chang Hwa Bank Japan)"
-translated_at: 2026-06-02T14:01:20.961Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 彰化商業銀行日本 (Chang Hwa Bank Japan)
@@ -24,6 +24,8 @@ Chang Hwa Bank は、東京を含む国際ネットワークを持つ台湾の�
 
 ## エンティティ境界
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, bankchb.com）の範囲に限定して読む。^[source:fsa.go.jp; bankchb.com]
+
 | 項目 | 読み方 |
 |---|---|
 | 親銀行 | Chang Hwa Commercial Bank |
@@ -34,6 +36,8 @@ Chang Hwa Bank は、東京を含む国際ネットワークを持つ台湾の�
 | 規制ルート | 金融庁の外国銀行支店一覧 |
 
 ## 事業上の役割マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, bankchb.com）の範囲に限定して読む。^[source:fsa.go.jp; bankchb.com]
 
 | 機能 | 日本での関連性 |
 |---|---|

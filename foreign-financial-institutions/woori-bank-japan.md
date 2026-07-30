@@ -3,8 +3,8 @@ title: "ウリィ銀行 東京支店"
 aliases: ["Woori Bank Japan", "Woori Bank Tokyo Branch", "WOORI BANK TOKYO BRANCH", "ウリィ銀行"]
 domain: foreign-financial-institutions
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, banking, foreign-bank-branch, korea, asia-corridor, operating-branch]
@@ -27,6 +27,8 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 ウリィ銀行 東京支店は、金融庁の外国銀行支店一覧に掲載される Republic of Korea / Woori Bank の在日銀行支店。韓国系銀行の Japan corridor branch として、預金・送金・法人取引・韓国関連クロスボーダー金融の入口を担う。
 
 ## 1. License / branch boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, go.wooribank.com, zenginkyo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; go.wooribank.com; zenginkyo.or.jp]
 
 | Item | Notes |
 |---|---|

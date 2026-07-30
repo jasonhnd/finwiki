@@ -6,8 +6,8 @@ aliases:
   - "保険代理店 保険仲立人 Japan"
 domain: "insurance"
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-22
 confidence: likely
 tags: [insurance, distribution, agency, brokerage, solicitation, japan]
@@ -29,6 +29,8 @@ Insurance distribution in Japan is mapped by authority and responsibility. An in
 Use this page with [[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]], [[insurance/life-insurance-channel-mix|life-insurance channel mix]], [[insurance/japan-life-insurance-big-four|Japan life insurance big four]], [[insurance/japan-nonlife-big-three|Japan non-life big three]], [[non-life-insurers/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]], [[non-life-insurers/mitsui-sumitomo-insurance|Mitsui Sumitomo Insurance]], [[non-life-insurers/sompo-japan-insurance|Sompo Japan Insurance]], [[life-insurers/lifenet|Lifenet]], and [[non-life-insurers/sony-insurance|Sony Insurance]].
 
 ## Distribution Role Map
+
+The following table is scoped to public primary sources (fsa.go.jp, sonpo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sonpo.or.jp]
 
 | Role | Public role field | Legal / operating boundary |
 |---|---|---|

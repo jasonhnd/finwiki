@@ -1,12 +1,12 @@
 ---
 source: payments/japan-prepaid-electronic-money-operator-matrix
-source_hash: 7306bce2dcae7dde
+source_hash: e8bcc34cdfb0018c
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の前払い電子マネー事業者マトリクス"
-translated_at: 2026-07-28T20:15:36Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本の前払い電子マネー事業者マトリクス
@@ -72,6 +72,8 @@ translated_at: 2026-07-28T20:15:36Z
 **事業者**：九州旅客鉄道株式会社（JR 九州、TSE Prime 9142）、直接運営。**ライセンス**：資金決済法第三者型前払式支払手段発行者。**技術**：FeliCa（SUGOCA カード）。**ローンチ**：2009-03。**配布**：物理カード。**加盟店ネットワーク**：全国相互利用で相互運用可能。**モバイル統合**：2026 時点で限定的（JR 九州の新幹線統合は別の EX-IC ルート経由）。**返金ポリシー**：切符オフィスでの返金。**グループ銀行のバックストップ**：JR 九州のバランスシート。**グループのクロスリンク**：JR 九州の小売・旅行ロイヤルティ。
 
 ## 大比較マトリクス表
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, edy.rakuten.co.jp, support.rakuten-edy.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; edy.rakuten.co.jp; support.rakuten-edy.co.jp; 7andi.com]
 
 | ブランド | 事業者 | 親グループ | ライセンス（資金決済法） | 技術 | ローンチ | 加盟店ネットワーク（概算） | モバイル / Apple Pay | 返金方針 | 確認済みの資金・責任関係 | グループ連携 | スタック階層 |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -171,6 +173,8 @@ translated_at: 2026-07-28T20:15:36Z
 第三者型 vs 自家型の区別は構造的である：第三者型は「多くの加盟店で受容される汎用」モデル（このマトリクスの全 11 ブランド）であり、自家型は「発行者自身の店舗でのみ受容される」モデル（例：その百貨店でのみ使われる百貨店前払いカード）である。自家型の制度は規制負荷が軽い。境界チェックは、前払いが発行者のグループ外の「第三者」加盟店で受容されるかどうかである — 境界の詳細については [[payments/funds-transfer-vs-prepaid-boundary|資金移動 vs 前払式 boundary]] を参照されたい。
 
 ## 資金移動制度との比較日本の決済に不慣れな読者はしばしば**前払い電子マネー**を**資金移動（資金移動業）**と混同する — 両者はウォレット残高の UX を共有するが、重大に異なるルールを持つ異なるライセンスのもとに位置する：
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, edy.rakuten.co.jp, support.rakuten-edy.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; edy.rakuten.co.jp; support.rakuten-edy.co.jp; 7andi.com]
 
 | 次元 | 前払い第三者型前払 | 資金移動資金移動業 |
 |---|---|---|

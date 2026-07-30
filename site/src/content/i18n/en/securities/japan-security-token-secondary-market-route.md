@@ -1,11 +1,11 @@
 ---
 source: securities/japan-security-token-secondary-market-route
-source_hash: 6cf03985180be745
+source_hash: 7cef6e42b3acbb3e
 lang: en
 status: machine
 fidelity: ok
 title: "Japan security token secondary market route"
-translated_at: 2026-06-01T04:15:40.113Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Japan security token secondary market route
 
@@ -16,6 +16,8 @@ Japan security-token secondary-market records connect Financial Instruments and 
 This page belongs to [[securities/INDEX|securities domain]] and links to [[financial-licenses/securities-license-stack|Japan securities license stack]], [[securities/japan-best-execution-sor-pts|best execution / SOR / PTS]], [[securities/japan-pts-liquidity-data-guide|PTS liquidity data guide]], [[securities/japan-market-infrastructure-map|market infrastructure map]], [[securities/osaka-digital-exchange|Osaka Digital Exchange]], [[payment-firms/progmat|Progmat]], [[financial-regulators/jsda|JSDA]], [[financial-regulators/japan-exchange-group|Japan Exchange Group]], and [[fintech/jp-stablecoin-progmat|Progmat stablecoin route]].
 
 ## Route Map
+
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, odx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; odx.co.jp; progmat.co.jp]
 
 | Layer | Public category | Public record field |
 |---|---|---|
@@ -45,6 +47,8 @@ Trading on START is routed through securities firms accepted by ODX as trading p
 
 The Progmat public concept page source pack recorded the following market-size fields:
 
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, odx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; odx.co.jp; progmat.co.jp]
+
 | Field | Value in source pack |
 |---|---|
 | Domestic cumulative security-token cases | 87 |
@@ -62,6 +66,8 @@ Mainstream JPX cash equities provide a comparison baseline where trading venue, 
 
 ## Public Record Fields
 
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, odx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; odx.co.jp; progmat.co.jp]
+
 | Field | Source route |
 |---|---|
 | Issuer / asset type | Product disclosure and issuer materials. |
@@ -76,6 +82,8 @@ Mainstream JPX cash equities provide a comparison baseline where trading venue, 
 | Secondary-market status | Venue notices, product pages, and issuer announcements. |
 
 ## Settlement Research Fields
+
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, odx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; odx.co.jp; progmat.co.jp]
 
 | Field | Source route |
 |---|---|

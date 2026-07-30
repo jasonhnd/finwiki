@@ -1,11 +1,11 @@
 ---
 source: regional-banks/daiwa-next-bank
-source_hash: 96bdb938c874d055
+source_hash: 346b8c6753650b1b
 lang: ja
 status: machine
 fidelity: ok
 title: "大和ネクスト銀行 (Daiwa Next Bank)"
-translated_at: 2026-07-28T20:55:25Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 大和ネクスト銀行 (Daiwa Next Bank)
@@ -20,6 +20,8 @@ translated_at: 2026-07-28T20:55:25Z
 大和ネクスト銀行は、金融庁の銀行免許一覧で「その他の銀行」に区分される [[securities-firms/daiwa-sg|大和証券グループ]] の銀行子会社で、大和証券口座と連携する預金・外貨サービスを提供する。2026-04-27、大和ネクスト銀行自身が [[trust-banks/orix-bank|オリックス銀行]] の全株式を取得して完全子会社化する契約を決議した。取得価額は調整前 3,700 億円、取得完了は 2026-10 までを予定し、その後の両行合併も検討する。^[金融庁「銀行免許一覧」: https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx; 大和ネクスト銀行「会社概要」: https://www.bank-daiwa.co.jp/about/company/profile/; 大和ネクスト銀行「オリックス銀行株式会社の子会社化について」(2026-04-27): https://www.bank-daiwa.co.jp/info/2026/pdf/0427_02.pdf]
 
 ## 1. 法人・ライセンス境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, bank-daiwa.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; bank-daiwa.co.jp]
 
 | 項目 | 内容 |
 |---|---|

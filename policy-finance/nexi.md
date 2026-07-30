@@ -12,8 +12,8 @@ aliases:
   - "NEXI overseas investment insurance"
 domain: "policy-finance"
 created: 2026-05-19
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [policy-finance, export-credit, trade-insurance, japan, meti, oecd-arrangement, political-risk-insurance, ecagency]
@@ -37,6 +37,8 @@ This entry sits under [[policy-finance/INDEX|policy-finance index]] as the insur
 NEXI (株式会社日本貿易保険 / Nippon Export and Investment Insurance) is Japan's public trade and investment insurance institution, METI-supervised (経済産業大臣 主管) with MoF as sole shareholder since the 2017-04-01 corporatisation (独立行政法人 → 株式会社化). The 2017 reform was structurally significant: NEXI moved from a quasi-government IAA form to a 株式会社 form with explicit balance-sheet, capital, and governance shape, while retaining METI policy supervision and government counter-reinsurance / loss-sharing arrangements. The product menu organises around three primary families — **貿易一般保険** (general trade insurance: buyer credit, supplier credit, short-term receivables, comprehensive medium / long-term capital-goods cover), **投資保険** (overseas investment insurance covering political-risk and contract-frustration on equity and shareholder loans), and **海外事業資金貸付保険** (loan insurance covering political and commercial default on overseas lending — the slice that megabanks and [[financial-regulators/jbic|JBIC]] depend on for large project-finance deals) — plus reinsurance of private trade-credit insurance, and climate / GX-aligned overlays under the OECD Climate Change Sector Understanding. The institutional purpose is to absorb risks (political risk, country risk, long-tenor commercial default, war / expropriation / transfer restriction) that commercial insurers will not write, making NEXI a multiplier for Japanese exporters, megabank cross-border lending syndicates, and Japanese-affiliated overseas investments. Premia and tenor are constrained by the [[policy-finance/oecd-export-credit-arrangement|OECD Arrangement on Officially Supported Export Credits]] — minimum-premium-rate floors, country-risk-classification (CRC) discipline, sector-understanding tenor caps. The JBIC ↔ NEXI division of labor is structural: JBIC is the **direct lender / equity participant**; NEXI is the **insurer of the commercial-bank tranche and of equity / political risk**. They sit side-by-side on large projects but rarely substitute.
 
 ## 1. Institutional structure
+
+The following table is scoped to public primary sources (nexi.go.jp, meti.go.jp, oecd.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:nexi.go.jp; meti.go.jp; oecd.org]
 
 | Item | Detail |
 |---|---|
@@ -75,6 +77,8 @@ NEXI is **insurance**; JBIC is **lending and equity**. Concretely:
 
 ### 2.1 Product family summary
 
+The following table is scoped to public primary sources (nexi.go.jp, meti.go.jp, oecd.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:nexi.go.jp; meti.go.jp; oecd.org]
+
 | Family | Sub-product | Covered risk | Standard cover ratio | Counterparty | OECD Arrangement applicability |
 |---|---|---|---|---|---|
 | **貿易一般保険** | Buyer credit insurance (融資保険) | Political + commercial default on foreign buyer / borrower of Japanese goods or services | ~95% political / ~90-95% commercial | Japanese exporter + financing bank | Yes |
@@ -95,6 +99,8 @@ For full operating mechanics — application flow, premium calculation, country-
 
 ## 3. KPI table (public-source numbers)
 
+The following table is scoped to public primary sources (nexi.go.jp, meti.go.jp, oecd.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:nexi.go.jp; meti.go.jp; oecd.org]
+
 | KPI | Approximate value | Source / caveat |
 |---|---|---|
 | Capital (paid-in) | ~¥269.4 billion | NEXI official profile |
@@ -111,6 +117,8 @@ For full operating mechanics — application flow, premium calculation, country-
 Headline NEXI metrics are driven by underwriting cycle (which itself tracks Japanese-corporate cross-border activity), country-risk shocks (Russia 2022; sovereign-stress cases), and product-mix shift (more long-tenor renewables / hydrogen / ammonia under CCSU; less coal exposure under tightened CSU).
 
 ## 4. Year-by-year evolution
+
+The following table is scoped to public primary sources (nexi.go.jp, meti.go.jp, oecd.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:nexi.go.jp; meti.go.jp; oecd.org]
 
 | Year | Event |
 |---|---|

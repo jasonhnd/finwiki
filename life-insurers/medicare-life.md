@@ -3,8 +3,8 @@ title: "メディケア生命保険"
 aliases: ["メディケア生命", "Medicare Life", "Medicare Life Insurance", "メディケア生命保険株式会社"]
 domain: life-insurers
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, insurance, life-insurance, sumitomo-life, medical-insurance, operating-company]
@@ -27,6 +27,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 メディケア生命保険株式会社は、金融庁 life-insurer list と生命保険協会会員一覧に掲載される [[life-insurers/sumitomo-life]] group の life-insurance operating company。medical / protection product focus and multi-channel distribution を見る specialty insurer として、住友生命本体から切り分ける。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, medicarelife.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; medicarelife.com]
 
 | Item | Notes |
 |---|---|

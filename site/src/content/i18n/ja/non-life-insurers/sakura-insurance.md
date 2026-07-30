@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/sakura-insurance
-source_hash: 4bb2bbfdf2212f5b
+source_hash: 2af34a09db9ba8a3
 lang: ja
 status: machine
 fidelity: ok
 title: "さくら損害保険"
-translated_at: 2026-06-02T15:14:17.117Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # さくら損害保険
 
@@ -20,6 +20,8 @@ translated_at: 2026-06-02T15:14:17.117Z
 このページは、さくら損害保険株式会社を扱う。同名に近い保険代理店、さくらインターネット、旧さくら銀行の歴史的参照とは混同しない。
 
 ## 事業上の役割マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, sakura-ins.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; sakura-ins.co.jp]
 
 | ルート | 読み方 |
 |---|---|

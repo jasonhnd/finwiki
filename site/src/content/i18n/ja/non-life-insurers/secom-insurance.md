@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/secom-insurance
-source_hash: f6eef986e7e4aed8
+source_hash: 118754b1834e1ce4
 lang: ja
 status: machine
 fidelity: ok
 title: "セコム損害保険"
-translated_at: 2026-06-02T15:14:17.127Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # セコム損害保険
@@ -20,6 +20,8 @@ translated_at: 2026-06-02T15:14:17.127Z
 セコム損害保険株式会社は、金融庁の損害保険会社免許一覧に掲載される 損害保険会社。セキュリティサービスグループとの隣接性 を持つため、伝統的な保険専業グループ とは異なる リスク予防 / サービス一体型保険の観点 で見る。
 
 ## 1. 免許・グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, sonpohogo.or.jp, secom-sonpo.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; sonpohogo.or.jp; secom-sonpo.co.jp]
 
 | 項目 | 内容 |
 |---|---|

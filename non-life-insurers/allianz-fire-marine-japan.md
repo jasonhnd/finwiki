@@ -3,8 +3,8 @@ title: "Allianz Fire and Marine Japan / アリアンツ火災海上保険"
 aliases: ["アリアンツ火災海上保険", "アリアンツ火災海上保険株式会社", "Allianz Fire and Marine Japan", "Allianz Japan non-life"]
 domain: non-life-insurers
 created: 2026-05-23
-last_updated: 2026-05-23
-last_tended: 2026-05-23
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-23
 confidence: likely
 tags: [JapanFG, non-life-insurance, foreign-insurer, corporate-risk, public-source]
@@ -27,6 +27,8 @@ Allianz Fire and Marine Japan is an FSA-licensed non-life insurer connected to t
 This page covers アリアンツ火災海上保険株式会社 as the Japan non-life insurer. It should not absorb Allianz global asset management, life insurance, or non-Japan commercial insurance operations.
 
 ## Business Role Map
+
+The following table is scoped to public primary sources (fsa.go.jp, commercial.allianz.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; commercial.allianz.com]
 
 | Route | Reading |
 |---|---|

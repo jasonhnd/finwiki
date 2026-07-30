@@ -1,11 +1,11 @@
 ---
 source: securities-firms/mufg-mums
-source_hash: e91d9d0c57a7cefd
+source_hash: 014ee496cde2bfa7
 lang: en
 status: machine
 fidelity: ok
 title: "Mitsubishi UFJ Morgan Stanley Securities"
-translated_at: 2026-05-31T23:59:49.393Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Mitsubishi UFJ Morgan Stanley Securities
 
@@ -16,6 +16,8 @@ Mitsubishi UFJ Morgan Stanley Securities is the core MUFG securities company cre
 Use this page as the [[megabanks/mufg|MUFG]] securities-arm route. Use Morgan Stanley MUFG Securities separately when the focus is institutional Morgan Stanley-led Japan activity.
 
 ## Positioning
+
+The following table is scoped to public primary sources (hd.sc.mufg.jp, fsa.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:hd.sc.mufg.jp; fsa.go.jp; jsda.or.jp; sc.mufg.jp]
 
 | Lens | Reading |
 |---|---|

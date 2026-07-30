@@ -3,8 +3,8 @@ title: "American Home Insurance Japan / アメリカンホーム医療・損害�
 aliases: ["アメリカンホーム医療・損害保険", "アメリカンホーム保険", "American Home Insurance Japan", "American Home Medical and General Insurance"]
 domain: non-life-insurers
 created: 2026-05-23
-last_updated: 2026-05-23
-last_tended: 2026-05-23
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-23
 confidence: likely
 tags: [JapanFG, non-life-insurance, medical-insurance, aig, public-source]
@@ -28,6 +28,8 @@ American Home Medical and General Insurance is an FSA-licensed non-life insurer 
 This page covers アメリカンホーム医療・損害保険株式会社, not AIG Japan as a whole. The company-brand context matters because "American Home" and "American Home Direct" remain consumer-facing insurance brands in public materials.
 
 ## Business Role Map
+
+The following table is scoped to public primary sources (fsa.go.jp, americanhome.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; americanhome.co.jp]
 
 | Route | Reading |
 |---|---|

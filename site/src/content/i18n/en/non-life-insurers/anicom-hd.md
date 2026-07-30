@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/anicom-hd
-source_hash: 542f7ff0f291f11e
+source_hash: 8e44190b2c4a7f09
 lang: en
 status: machine
 fidelity: ok
 title: "アニコム ホールディングス"
-translated_at: 2026-06-15T03:48:21.833Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # アニコム ホールディングス
@@ -19,6 +19,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]] (its d
 アニコム ホールディングス株式会社 is a pet-insurance group holding company that appears on the FSA's **list of approved insurance holding companies**. The core of the group is [[non-life-insurers/anicom-insurance|アニコム損害保険]], which holds a non-life insurance business license, and the HD is its parent company・group strategy anchor. The HD itself does not underwrite insurance; it handles the capital/strategy oversight of the subsidiary non-life insurance business, animal-health data, and adjacent services. Read the **HD (listed parent) and the operating insurer (license holder) as separate entities**.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, anicom.co.jp, ja.wikipedia.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; anicom.co.jp; ja.wikipedia.org]
 
 | Item | Notes |
 |---|---|

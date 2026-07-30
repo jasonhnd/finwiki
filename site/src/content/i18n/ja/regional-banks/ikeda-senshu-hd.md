@@ -1,11 +1,11 @@
 ---
 source: regional-banks/ikeda-senshu-hd
-source_hash: 2e9006eaa91cc7e8
+source_hash: d9d1ab4fb073dd6c
 lang: ja
 status: machine
 fidelity: ok
 title: "池田泉州ホールディングス"
-translated_at: 2026-06-02T14:25:12.415Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 池田泉州ホールディングス
@@ -27,6 +27,8 @@ translated_at: 2026-06-02T14:25:12.415Z
 **本社**：大阪市北区茶屋町 18-14（池田泉州銀行本店併設）^[extracted]
 
 ### 2025-03 期決算（連結ベース）
+
+以下の表は、エントリ出典インベントリの公開一次資料（edinetdb.jp, sihd-bk.jp, senshuikeda-hd.co.jp）の範囲に限定して読む。^[source:edinetdb.jp; sihd-bk.jp; senshuikeda-hd.co.jp]
 
 | 項目 | 実績 |
 |---|---|
@@ -86,6 +88,8 @@ translated_at: 2026-06-02T14:25:12.415Z
 
 ## 2. 事業セグメント・マップ
 
+以下の表は、エントリ出典インベントリの公開一次資料（edinetdb.jp, sihd-bk.jp, senshuikeda-hd.co.jp）の範囲に限定して読む。^[source:edinetdb.jp; sihd-bk.jp; senshuikeda-hd.co.jp]
+
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
 | 個人リテール | 池田泉州銀行 | 北摂・泉州 + 兵庫南東部 の住宅ローン・個人預金 |
@@ -102,6 +106,8 @@ translated_at: 2026-06-02T14:25:12.415Z
 - **2024 中計**: 第 5 次中期経営計画 Plus（2024-05 公表）で **地域密着 + デジタルバンク（01 銀行）+ ポテンシャル バランスシート ソリューション** を主軸とし、2025 年度 HD 連結当期純利益 110 億円以上を目標
 
 ### 競合構図
+
+以下の表は、エントリ出典インベントリの公開一次資料（edinetdb.jp, sihd-bk.jp, senshuikeda-hd.co.jp）の範囲に限定して読む。^[source:edinetdb.jp; sihd-bk.jp; senshuikeda-hd.co.jp]
 
 | 競合 | 地盤 | 構図 |
 |---|---|---|

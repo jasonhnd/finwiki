@@ -1,11 +1,11 @@
 ---
 source: regional-banks/gunma-bank
-source_hash: 4b982d0b191a5ca5
+source_hash: 6d78bb3d63cdce87
 lang: en
 status: machine
 fidelity: ok
 title: "The Gunma Bank, Ltd. (群馬銀行)"
-translated_at: 2026-06-19T12:43:19.961Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # The Gunma Bank, Ltd. (群馬銀行)
@@ -50,6 +50,8 @@ Gunma Bank (standalone / listed 8334)
 
 ### Key chronology (excerpt) ^[extracted]
 
+The following table is scoped to public primary sources (ja.wikipedia.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:ja.wikipedia.org]
+
 | Date | Event |
 |---|---|
 | 1932-09 | **Gunma Daido Bank established** (merger of Daido Bank + Gunma Shoko Bank + Kuroiwa Bank 3 行) |
@@ -63,6 +65,8 @@ Gunma Bank (standalone / listed 8334)
 | 2024 | Medium-term management plan (specific period and name should be checked against published IR) ^[likely] |
 
 ## 2. Business segment map
+
+The following table is scoped to public primary sources (ja.wikipedia.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:ja.wikipedia.org]
 
 | Segment | Characteristics |
 |---|---|
@@ -98,6 +102,8 @@ Benefits of Gunma Bank's participation:
 - **Personnel exchange / training**
 
 ### Competitive structure
+
+The following table is scoped to public primary sources (ja.wikipedia.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:ja.wikipedia.org]
 
 | Competitor | Characteristics |
 |---|---|

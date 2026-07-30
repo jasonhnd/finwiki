@@ -1,12 +1,12 @@
 ---
 source: payments/japan-bnpl-credit-purchase-boundary
-source_hash: 39e2fd462fc30fa4
+source_hash: d77ef84473e21662
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の BNPL と信用購入境界"
-translated_at: 2026-06-26T08:28:53.966Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 日本の BNPL と信用購入境界
 
@@ -15,6 +15,8 @@ translated_at: 2026-06-26T08:28:53.966Z
 このページは [[payments/INDEX|payments domain]]、[[payment-firms/bnpl-landscape|Japan BNPL landscape]]、[[payment-firms/paidy|Paidy]]、[[card-issuers/installment-sales-act-2020-amendment|Installment Sales Act 2020 amendment]]、[[payments/japan-card-issuer-acquirer-processor-split|card 発行会社 / アクワイアラ / processor split]]、[[payments/credit-purchase-card-operators-japan-index|credit-purchase registry]]、[[payments/cashless-jp-landscape|cashless landscape]] と併せて用いる。
 
 ## 境界マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（meti.go.jp, j-credit.or.jp, caa.go.jp）の範囲に限定して読む。^[source:meti.go.jp; j-credit.or.jp; caa.go.jp; investor.pypl.com]
 
 | 商品パターン | 最初の分類上の問い | 管理ルート |
 |---|---|---|
@@ -34,6 +36,8 @@ translated_at: 2026-06-26T08:28:53.966Z
 - [[payment-firms/paypay|PayPay]]、[[payment-firms/rakuten-fg|Rakuten FG]]、[[payment-firms/mercari-hd|Mercari HD]] 周辺のウォレット / ポイントエコシステム。
 
 ## リスク上の問い
+
+以下の表は、エントリ出典インベントリの公開一次資料（meti.go.jp, j-credit.or.jp, caa.go.jp）の範囲に限定して読む。^[source:meti.go.jp; j-credit.or.jp; caa.go.jp; investor.pypl.com]
 
 | リスク | 問い |
 |---|---|

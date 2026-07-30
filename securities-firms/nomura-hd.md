@@ -10,8 +10,8 @@ aliases:
   - "securities-firms/nomura-securities"
 domain: securities-firms
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, securities]
@@ -135,6 +135,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 ## 2. 事業セグメント・マップ
 
 > **2025-04-01 部門再編**: 従来の 4 部門（営業 / ホールセール / Investment Management / その他）に **バンキング部門** を新設、**5 部門制** に移行 ^[extracted]
+
+The following table is scoped to public primary sources (Nomura HD, Nomura Holdings, 野村 HD). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Nomura HD; Nomura Holdings; 野村 HD]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

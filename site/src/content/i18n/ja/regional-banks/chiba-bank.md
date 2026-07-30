@@ -1,11 +1,11 @@
 ---
 source: regional-banks/chiba-bank
-source_hash: bd1dab7241aa23c4
+source_hash: e26761eaf478afc9
 lang: ja
 status: machine
 fidelity: ok
 title: "千葉銀行 (Chiba Bank)"
-translated_at: 2026-06-02T14:01:20.969Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 千葉銀行 (Chiba Bank)
@@ -28,6 +28,8 @@ translated_at: 2026-06-02T14:01:20.969Z
 **業態**：地方銀行（持株会社化していない単独銀行）
 
 ### 主要数値（2025-03 期・連結）^[extracted]
+
+以下の表は、エントリ出典インベントリの公開一次資料（ssl4.eir-parts.net）の範囲に限定して読む。^[source:ssl4.eir-parts.net]
 
 | 項目 | 金額・規模 |
 |---|---|
@@ -77,6 +79,8 @@ translated_at: 2026-06-02T14:01:20.969Z
 
 ## 2. 事業セグメント・マップ
 
+以下の表は、エントリ出典インベントリの公開一次資料（ssl4.eir-parts.net）の範囲に限定して読む。^[source:ssl4.eir-parts.net]
+
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
 | 法人融資 | 千葉銀行（本体）| 千葉県内中堅・中小企業 メインバンク、首都圏東部に展開 |
@@ -91,6 +95,8 @@ translated_at: 2026-06-02T14:01:20.969Z
 ### TSUBASA アライアンス主導戦略 ★
 
 **2015 設立**、千葉銀行が主導した 11 行アライアンス（**地銀ホールディング化を回避しつつスケールメリットを獲得** する代替モデル）：
+
+以下の表は、エントリ出典インベントリの公開一次資料（ssl4.eir-parts.net）の範囲に限定して読む。^[source:ssl4.eir-parts.net]
 
 | 行 | 地盤 |
 |---|---|
@@ -129,6 +135,8 @@ translated_at: 2026-06-02T14:01:20.969Z
 - 詳細は最新 IR 参照
 
 ### 競合関係
+
+以下の表は、エントリ出典インベントリの公開一次資料（ssl4.eir-parts.net）の範囲に限定して読む。^[source:ssl4.eir-parts.net]
 
 | 競合 | 関係 |
 |---|---|

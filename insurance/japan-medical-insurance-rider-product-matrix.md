@@ -11,8 +11,8 @@ aliases:
   - "Japan iryouhoken cancer rider matrix"
 domain: insurance
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [insurance, matrix, life, medical, cancer, rider, japan, channel, foreign-affiliate]
@@ -90,6 +90,8 @@ The matrix below lists axes that differentiate the principal carriers in the Jap
 
 ### Carrier identity and franchise
 
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, aflac.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; aflac.co.jp; aia.co.jp]
+
 | Carrier | Group parent | Primary medical / cancer franchise tilt | Distinct structural feature |
 |---|---|---|---|
 | [[life-insurers/aflac-japan|Aflac Japan]] | Aflac Inc. (US parent) | Cancer-specific dominant; medical specialty | ~70% new cancer market share; Japan Post Bank tie-up; long agency / corporate history |
@@ -150,6 +152,8 @@ The matrix below lists axes that differentiate the principal carriers in the Jap
 
 ### Channel mix
 
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, aflac.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; aflac.co.jp; aia.co.jp]
+
 | Channel | Aflac | AIA | Tokio Marine Anshin lineage | Sompo Himawari | MS Aioi | Manulife / Prudential | Life big-4 mutuals | Online direct (contrast) |
 |---|---|---|---|---|---|---|---|---|
 | Tied sales force / FA | Significant | Significant | Selective | Selective | Selective | Dominant (lifeplanner) | Dominant (sōgōshoku) | n/a |
@@ -201,6 +205,8 @@ The matrix below lists axes that differentiate the principal carriers in the Jap
 
 ### Foreign-currency medical / annuity overlay
 
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, aflac.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; aflac.co.jp; aia.co.jp]
+
 | Carrier set | Foreign-currency medical / cancer product presence | Notes |
 |---|---|---|
 | Aflac | Limited | Primarily yen-denominated |
@@ -213,6 +219,8 @@ The matrix below lists axes that differentiate the principal carriers in the Jap
 | Kampo Life | Limited | Product-approval constraint |
 
 ### Conceptual market share signal
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, aflac.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; aflac.co.jp; aia.co.jp]
 
 | Segment | Largest share (conceptual) | Other significant carriers |
 |---|---|---|

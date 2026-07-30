@@ -1,11 +1,11 @@
 ---
 source: insurance/ja-kyosai-zenkyoren-overview
-source_hash: 1ce2ff4625eb9388
+source_hash: 9f1601c4b1432cc9
 lang: en
 status: machine
 fidelity: ok
 title: "JA Kyosai / Zenkyoren overview"
-translated_at: 2026-06-19T06:09:18.084Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # JA Kyosai / Zenkyoren overview
@@ -72,6 +72,8 @@ The membership relationship is the underlying conduct framework: a kyosai sold t
 ## Comparison with FSA life big-four
 
 The cleanest way to think about Zenkyoren is as a "fifth balance sheet" that would otherwise belong inside the life big-four perimeter but sits on the other side of the regulatory line:
+
+The following table is scoped to public primary sources (ja-kyosai.or.jp, maff.go.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:ja-kyosai.or.jp; maff.go.jp; fsa.go.jp; zenchu-ja.or.jp]
 
 | Axis | FSA life big-four (Nippon, Dai-ichi HD, Sumitomo, Meiji Yasuda) | Zenkyoren |
 |---|---|---|

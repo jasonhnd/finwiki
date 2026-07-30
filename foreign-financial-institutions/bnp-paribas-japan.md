@@ -3,8 +3,8 @@ title: BNP パリバ日本 (BNP Paribas Japan)
 aliases: ["BNP Paribas Japan", "BNPパリバ日本", "BNPパリバ", "BNP Paribas Tokyo Branch", "BNP パリバ証券", "Cardif Japan", "カーディフ生命"]
 domain: foreign-financial-institutions
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, foreign-ib, banking]
@@ -60,6 +60,8 @@ BNP Paribas SA（仏 G-SIB Bucket 2）
 
 ### 重要年表
 
+The following table is scoped to public primary sources (BNP Paribas Japan 公式: History in Japan (bnpparibas.jp, 2026-05-19 抽出), BNP Paribas Japan 公式: Subsidiaries in Japan (bnpparibas.jp, 2026-05-19 抽出), Wikipedia: BNPパリバ (2026-05-19 抽出)). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:BNP Paribas Japan 公式: History in Japan (bnpparibas.jp, 2026-05-19 抽出); BNP Paribas Japan 公式: Subsidiaries in Japan (bnpparibas.jp, 2026-05-19 抽出); Wikipedia: BNPパリバ (2026-05-19 抽出)]
+
 | 年月 | 事象 |
 |---|---|
 | 1867 | パリ割引銀行（Comptoir National d'Escompte de Paris、CEP）が**横浜に支店開設** ── 日本最初期の欧州銀行進出 |
@@ -86,6 +88,8 @@ BNP Paribas SA（仏 G-SIB Bucket 2）
 
 ### 親会社の規模感（連結ベース、参考）
 
+The following table is scoped to public primary sources (BNP Paribas Japan 公式: History in Japan (bnpparibas.jp, 2026-05-19 抽出), BNP Paribas Japan 公式: Subsidiaries in Japan (bnpparibas.jp, 2026-05-19 抽出), Wikipedia: BNPパリバ (2026-05-19 抽出)). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:BNP Paribas Japan 公式: History in Japan (bnpparibas.jp, 2026-05-19 抽出); BNP Paribas Japan 公式: Subsidiaries in Japan (bnpparibas.jp, 2026-05-19 抽出); Wikipedia: BNPパリバ (2026-05-19 抽出)]
+
 | 項目 | 内容 |
 |---|---|
 | 上場市場 | Euronext Paris: BNP（指数 CAC 40） |
@@ -95,6 +99,8 @@ BNP Paribas SA（仏 G-SIB Bucket 2）
 | ビジネス分野 | CIB（コーポレート・機関投資家銀行）+ IPS（投資・保護サービス）+ CPBS（リテール・専門金融、日本では未展開） |
 
 ## 2. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (BNP Paribas Japan 公式: History in Japan (bnpparibas.jp, 2026-05-19 抽出), BNP Paribas Japan 公式: Subsidiaries in Japan (bnpparibas.jp, 2026-05-19 抽出), Wikipedia: BNPパリバ (2026-05-19 抽出)). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:BNP Paribas Japan 公式: History in Japan (bnpparibas.jp, 2026-05-19 抽出); BNP Paribas Japan 公式: Subsidiaries in Japan (bnpparibas.jp, 2026-05-19 抽出); Wikipedia: BNPパリバ (2026-05-19 抽出)]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

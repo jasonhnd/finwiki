@@ -1,11 +1,11 @@
 ---
 source: life-insurers/fwd-life-japan
-source_hash: 87cbd13b223fc59b
+source_hash: 50fc64f73b159d63
 lang: ja
 status: machine
 fidelity: ok
 title: "FWD生命保険"
-translated_at: 2026-06-02T14:25:12.440Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # FWD生命保険
@@ -20,6 +20,8 @@ translated_at: 2026-06-02T14:25:12.440Z
 FWD生命保険株式会社は、金融庁の生命保険会社免許一覧に掲載される外資系の日本生命保険会社である。JapanFG では、外資系保険グループの日本事業会社として、[[life-insurers/nn-life-japan]]、[[life-insurers/metlife-japan]]、[[life-insurers/manulife-japan]]、[[life-insurers/prudential-japan]] などと比較する。
 
 ## 1. 免許・グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, fwdlife.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; fwdlife.co.jp]
 
 | 項目 | 注記 |
 |---|---|

@@ -1,12 +1,12 @@
 ---
 source: insurance/japan-life-insurance-alm-overview
-source_hash: d67240f0595dec20
+source_hash: 33a4cba4108c12b3
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の生命保険 ALM 概観"
-translated_at: 2026-06-26T08:28:38.462Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本の生命保険 ALM 概観
@@ -122,6 +122,8 @@ JGB は円デュレーション・マッチングのための構造的なアン�
 
 [[insurance/economic-value-based-solvency|economic-value ソルベンシー]] 体制のもとで、ESR 比率は以下に対して実質的に感応的である：
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, boj.or.jp, mof.go.jp）の範囲に限定して読む。^[source:fsa.go.jp; boj.or.jp; mof.go.jp; seiho.or.jp]
+
 | リスクドライバー | メカニズム | 典型的な開示 |
 |---|---|---|
 | 金利（円） | 残存する負債資産デュレーションギャップ；金利低下はギャップを拡大し、金利上昇はそれを縮小する（負のギャップを持つ保険会社にとって） | 円金利のパラレルシフトに対する感応度テーブル |
@@ -134,6 +136,8 @@ JGB は円デュレーション・マッチングのための構造的なアン�
 感応度の形状は、各保険会社の固有のデュレーションギャップ、ヘッジ比率、クレジット部分の規模、および株式保有に依存する。[[insurance/esr-economic-value-solvency|ESR]] の開示が主たる公開情報源である。
 
 ## リスクバジェットおよびストレステストのプロセス日本の生命保険会社は、経済資本をリスクファクター間で配分するリスクバジェット・フレームワークの中で ALM を運用する：
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, boj.or.jp, mof.go.jp）の範囲に限定して読む。^[source:fsa.go.jp; boj.or.jp; mof.go.jp; seiho.or.jp]
 
 | リスクバジェットの配分 | 典型的な例 |
 |---|---|
@@ -151,6 +155,8 @@ JGB は円デュレーション・マッチングのための構造的なアン�
 
 ALM の結果がステークホルダーのためにどのように翻訳されるかは、法的形態によって鋭く異なる：
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, boj.or.jp, mof.go.jp）の範囲に限定して読む。^[source:fsa.go.jp; boj.or.jp; mof.go.jp; seiho.or.jp]
+
 | 形態 | ALM 開示フロー |
 |---|---|
 | 相互会社（日本、明治安田、住友） | ALM の結果は契約者配当（契約者配当）の余力にフィードする；剰余金の分配は相互会社の契約者代表手続きによって統治される |
@@ -160,6 +166,8 @@ ALM の結果がステークホルダーのためにどのように翻訳され�
 [[insurance/mutual-vs-stock-life-insurer|mutual vs stock comparison]] は不可欠な文脈である：同一の ALM ポジショニングが、法的形態に応じて構造的に異なるステークホルダー・アウトカムを生み出しうる。
 
 ## 四大社の ALM の対比
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, boj.or.jp, mof.go.jp）の範囲に限定して読む。^[source:fsa.go.jp; boj.or.jp; mof.go.jp; seiho.or.jp]
 
 | 保険会社 | ALM の性格 |
 |---|---|
@@ -173,6 +181,8 @@ ALM の結果がステークホルダーのためにどのように翻訳され�
 ## 保険会社の開示を読むための実務的な読解順序
 
 ALM の目的で日本の生命保険会社の年次／統合報告書を読む際、最も効率的なシーケンスは：
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, boj.or.jp, mof.go.jp）の範囲に限定して読む。^[source:fsa.go.jp; boj.or.jp; mof.go.jp; seiho.or.jp]
 
 | ステップ | 読む | 何を抽出するか |
 |---|---|---|

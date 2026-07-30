@@ -1,11 +1,11 @@
 ---
 source: life-insurers/daido-life
-source_hash: 64bcae1b6478cc4d
+source_hash: a734cc07a1d0c07e
 lang: ja
 status: machine
 fidelity: ok
 title: "大同生命保険"
-translated_at: 2026-06-02T14:25:12.444Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 大同生命保険
 
@@ -18,6 +18,8 @@ translated_at: 2026-06-02T14:25:12.444Z
 大同生命保険株式会社は、[[life-insurers/td-hd]] グループの中核的な生命保険事業会社である。金融庁の生命保険会社一覧に掲載され、T&D group の中では中小企業・経営者向け保険に強い専門会社として位置づけられる。
 
 ## 1. 免許・グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, daido-life.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; daido-life.co.jp]
 
 | 項目 | 注記 |
 |---|---|

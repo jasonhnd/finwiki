@@ -3,8 +3,8 @@ title: "GMOクリック証券"
 aliases: ["GMO Click Securities", "GMOクリック証券", "GMOクリック証券株式会社"]
 domain: securities-firms
 created: 2026-05-20
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-12-05
 confidence: likely
 tags: [JapanFG, securities, fx, cfd, fiea-operator, gmo]
@@ -30,6 +30,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]] (its dom
 GMOクリック証券株式会社は、[[payment-firms/gmo-financial-hd|GMOフィナンシャルHD]] グループの online brokerage / 店頭FX / CFD 中核会社。金融商品取引法上の **第一種金融商品取引業者** として金融庁の金融商品取引業者一覧に「GMOクリック証券株式会社」（関東財務局長(金商)第77号）で掲載される。FX / CFD を主力に株式・投信・NISA も扱う。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, click-sec.com, gmofh.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; click-sec.com; gmofh.com]
 
 | Item | Notes |
 |---|---|

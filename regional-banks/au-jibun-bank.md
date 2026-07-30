@@ -10,8 +10,8 @@ aliases:
   - au Jibun Bank Corporation
 domain: regional-banks
 created: 2026-05-25
-last_updated: 2026-07-29
-last_tended: 2026-07-29
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-10-29
 confidence: certain
 tags: [JapanFG, banking, internet-bank, KDDI, MUFG, mobile-finance]
@@ -58,6 +58,8 @@ au じぶん銀行株式会社は、公式会社概要で **[[megabanks/au-fh|au
 
 ## 3. 業務セグメント
 
+The following table is scoped to public primary sources (jibunbank.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jibunbank.co.jp; fsa.go.jp]
+
 | セグメント | 主力商品 | 顧客層 |
 |---|---|---|
 | 預金 | 普通預金 / 定期 / 外貨預金（USD・EUR・GBP 等） | リテール |
@@ -75,6 +77,8 @@ au じぶん銀行株式会社は、公式会社概要で **[[megabanks/au-fh|au
 - **au カブコム証券との連携**：金融商品仲介・口座連携を通じて、KDDI 経済圏内での銀行 / 証券口座統合体験を提供
 
 ## 5. 競合・業界ポジション
+
+The following table is scoped to public primary sources (jibunbank.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jibunbank.co.jp; fsa.go.jp]
 
 | ネット銀行 | 親グループ | 強み |
 |---|---|---|
@@ -94,6 +98,8 @@ au じぶん銀行株式会社は、公式会社概要で **[[megabanks/au-fh|au
 - **新 NISA 対応**：2024-01 新 NISA 開始に伴う投信ラインナップ拡充
 
 ## 7. 主要 KPI（概観）
+
+The following table is scoped to public primary sources (jibunbank.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jibunbank.co.jp; fsa.go.jp]
 
 | 項目 | 規模感 |
 |---|---|

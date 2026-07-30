@@ -1,11 +1,11 @@
 ---
 source: regional-banks/kochi-bank
-source_hash: b017113fd162a0e6
+source_hash: 6389b19cfb39a38c
 lang: en
 status: machine
 fidelity: ok
 title: "The Kochi Bank"
-translated_at: 2026-06-15T04:09:41.163Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # The Kochi Bank
@@ -19,6 +19,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 The Kochi Bank, Ltd. (株式会社高知銀行) is a second regional bank headquartered in Kochi City, Kochi Prefecture, holding a bank license under the Banking Act and listed in the FSA's bank-license list. It is the second-regional-bank operating-company anchor for Kochi Prefecture, treated as a separate-legal-entity peer of the first regional bank [[regional-banks/shikoku-bank|四国銀行]]. The substance of its business is the standard second-regional-bank model: deposit-taking within the prefecture and lending to SMEs and individuals.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, kochi-bank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; kochi-bank.co.jp]
 
 | Item | Notes |
 |---|---|

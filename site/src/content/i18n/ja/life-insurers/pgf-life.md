@@ -1,11 +1,11 @@
 ---
 source: life-insurers/pgf-life
-source_hash: f66befd0a4357d7f
+source_hash: 44a5db7502f72133
 lang: ja
 status: machine
 fidelity: ok
 title: "プルデンシャル ジブラルタ ファイナンシャル生命保険"
-translated_at: 2026-06-15T03:48:21.832Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # プルデンシャル ジブラルタ ファイナンシャル生命保険
@@ -19,6 +19,8 @@ translated_at: 2026-06-15T03:48:21.832Z
 プルデンシャル ジブラルタ ファイナンシャル生命保険株式会社（**PGF生命**）は、保険業法上の生命保険会社免許を持ち金融庁の生命保険会社免許一覧に掲載される、米プルデンシャル・ファイナンシャル系（日本のプルデンシャル・グループ）の生命保険事業会社。2010 年 4 月 1 日に現商号へ商号変更し、2013 年 4 月から「PGF生命」を略称として使用する。**銀行窓口販売（バンカシュランス）を主事業**とし、米ドル建一時払い終身保険など一時払い貯蓄性商品を提携金融機関経由で提供する点で、対面コンサルタント中心の [[life-insurers/prudential-japan|プルデンシャル生命]] や [[life-insurers/gibraltar-life|ジブラルタ生命]] とはチャネル・商品が分かれる。
 
 ## 1. ライセンス / グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, pgf-life.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; pgf-life.co.jp]
 
 | 項目 | 注記 |
 |---|---|

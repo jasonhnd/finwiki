@@ -3,8 +3,8 @@ title: 京都フィナンシャルグループ
 aliases: ["Kyoto Financial Group", "Kyoto FG", "京都 FG", "京都フィナンシャル・グループ", "京都銀行 HD"]
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, kansai]
@@ -113,6 +113,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 - **中期経営計画**: 第1次中計（2023-03期〜2026-03期、純利益 300 億円目標）を前倒し達成し、2024-11-14 に新戦略目標を公表。次期・第2次中計（2026-04〜2029-03）で親会社株主帰属利益 600 億円（2029-03）・ROE 8% 以上（2030 年代前半）等、従来より大幅に挑戦的な目標を設定
 
 ### 競合構図
+
+The following table is scoped to public primary sources (nikkei.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:nikkei.com]
 
 | 競合 | 地盤 | 構図 |
 |---|---|---|
