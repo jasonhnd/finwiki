@@ -1,55 +1,60 @@
 ---
 source: fintech/dual-currency-stablecoin-arbitrage-overview
-source_hash: 1a069b00d6a8da06
+source_hash: 9f76cbaa686f9b6a
 lang: en
+model: manual-issue-239-provenance-repair
 status: machine
 fidelity: ok
-title: "Dual-currency stablecoin arbitrage · the only legal on-chain FX path in the §501  era"
-translated_at: 2026-06-18T23:59:13.100Z
+title: "Dual-currency stablecoin exchange · execution routes and constraints for on-chain FX"
+translated_at: 2026-07-29T16:39:22.568Z
 ---
-
-# Dual-currency stablecoin arbitrage · the only legal on-chain FX path in the §501  era
+# Dual-currency stablecoin exchange · execution routes and constraints for on-chain FX
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|Japan's financial regulation — legal framework for tokens, crypto-assets and payments]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|Japan's three-tier stablecoin legal framework (JPYC, USDC and Project Pax)]] for the broader system boundary.
 
 > [!info] TL;DR
-> GENIUS Act §501  confines the compliance boundary for issuing / holding / transferring stablecoins, and **only the "mutual exchange of dual-currency / multi-currency stablecoins" becomes a clearly legal on-chain FX path**. The USDC ↔ EURC ↔ JPYC triangular-arbitrage structure is its sample —— interchange cost can be compressed to 0.01% (1/100 of traditional cross-border FX's 1-3%), and even capturing 1% on the $33T global-settlement rail amounts to a $3.3B/year revenue opportunity.
+> Exchanging USDC, EURC and JPYC spans multiple issuers, fiat-currency accounts, exchanges or DEXs, and KYC/AML controls. Circle Mint provides eligible institutional customers with issuance, redemption and currency-exchange functions for USDC / EURC, but JPYC has a different issuer and access route; neither triangular liquidity nor arbitrage profit is guaranteed. The GENIUS Act also does not uniformly designate each exchange as “legal FX.”
 
 ## Key facts
 
-- USDC circulation $40-45B · EURC $200-300M · JPYC $50M+ (2025.Q4) ^[extracted]
-- Net cost of the triangular arbitrage ~10-20 bp (0.01-0.02%) · traditional FX 1-3% all-in ^[extracted]
-- Global cross-border settlement annual volume $33T (BIS 2024) · capturing 1% = a $3.3B/year opportunity ^[extracted]
-- 2026.05  triangular arbitrage is already running live in Curve / Uniswap V4 hooks pools ^[extracted]
+- Circle Mint is for eligible institutional customers and provides 1:1 issuance and redemption of USDC and EURC, together with currency exchange. It is not a retail service.
+- Circle maintains the list of supported chains for USDC / EURC. JPYC-supported chains, redemption terms and service providers must be checked separately in JPYC's public information.
+- DEX slippage, gas, trading fees, fiat FX, and deposit / withdrawal time must all be aggregated before costs can be compared with conventional remittance.
+- Public primary sources available as of 2026-05 do not confirm a permanent USDC–EURC–JPYC triangular pool or a persistent arbitrage spread.
 
 ## Mechanism / How it works
 
-**Arbitrage route**: USDC (Circle USD 1:1) ↔ EURC (Circle EUR 1:1) ↔ [[payment-firms/jpyc|JPYC]] (JPYC Inc. JPY 1:1) ↔ unwind the USDC position.
+**Candidate execution route**: USDC ↔ EURC follows Circle Mint eligibility, supported regions and FX quotes. A leg involving [[payment-firms/jpyc|JPYC]] requires a separate check of JPYC issuance / redemption terms and the actual exchange / DEX order book.
 
-| Step | Operation | Cost |
+The table below is an analytical checklist for transaction steps, not evidence of a single existing pool or fixed costs. It is based on [Circle Mint](https://developers.circle.com/circle-mint), the [supported currencies and chains list](https://developers.circle.com/circle-mint/supported-chains-and-currencies), and [official JPYC information](https://jpyc.jp/).
+
+| Step | Candidate operation | Costs / constraints to check before execution |
 |---|---|---|
-| 1 | USDC → EURC swap (Circle Mint API) | ~0 bp + mint/burn fee |
-| 2 | EURC → JPYC (on-chain DEX · Curve / Uniswap V4 hooks) | 5-15 bp slippage |
-| 3 | JPYC → unwind the USDC position | ~0 bp + mint/burn fee |
-| Net | cross-currency triangular arbitrage | ~10-20 bp |
+| 1 | Exchange USDC and EURC | Circle Mint eligibility, quoted FX rate, bank deposit / withdrawal fees, supported region |
+| 2 | Exchange EURC and JPYC | Existing trading venue, order-book depth, slippage, gas, counterparty risk |
+| 3 | Exchange JPYC and USDC | JPYC issuance / redemption route, exchange fees, transfer and settlement time |
+| Overall | Cross-currency transaction | Ability to execute every leg simultaneously, price movements, KYC/AML, tax and each country's FX rules |
 
-By contrast: SWIFT + correspondent banking 1-3% all-in · T+1/T+2; Wise / Remitly 0.5-1% · several hours; dual-currency stablecoin 0.01-0.02% · second-level finality. **A 100× cost reduction + hundreds of times the speed**, moving in the opposite direction from [[fintech/cross-border-sc-via-swift-api|ステーブルコイン × SWIFT API クロスボーダー]] (the latter embeds the SC into SWIFT, the former bypasses it).
+The relevant comparison is therefore not the abstract binary of “on-chain versus SWIFT,” but total costs and final delivery time for the same amount, currency pair and user conditions.
 
 ## Origin & evolution
 
-2018-2023 = Circle USDC monopoly · EURC launched in 2022  but with low liquidity. 2024 [[fintech/mica-overview|MiCA]] Title IV (EMT) activated the multi-issuer structure for euro stablecoins. 2024-2025  under the new framework of Japan's Payment Services Act, JPYC became the first yen stablecoin. After 2025.07 [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]] took effect = the legal room was clarified: "a dual-currency swap ≠ FX business" · this is the asset allocation of 2  independent 1:1 tokens. 2026  triangular arbitrage moved from theory to a live DEX product.
+USDC, EURC and JPYC each have a different jurisdiction, issuer and redemption route. MiCA, Japan's amended Payment Services Act and the US GENIUS Act establish frameworks for issuance, intermediation and reserve assets, but they do not remove FX, remittance, tax or other obligations that apply to exchanging multiple currency tokens. Until public primary sources confirm that a specified market is operating, triangular trading should be treated as an analytical scenario, not an implemented product.
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/dual-currency-stablecoin-arbitrage-legal-hack|二通貨アービトラージ · §501 リーガル hack]]
-- [[fintech/usd-stablecoin-interchange|USD stablecoin interchange モデル]]
-- [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501 Denylist]]
-- [[fintech/stablecoin-crossborder-b2b-growth|ステーブルコイン・クロスボーダー B2B 成長]]
+- [[fintech/dual-currency-stablecoin-arbitrage-legal-hack|dual-currency stablecoin legal analysis]]
+- [[fintech/usd-stablecoin-interchange|USD stablecoin interchange model]]
+- [[fintech/genius-act-501-denylist-mandate|GENIUS Act implementation status]]
+- [[fintech/stablecoin-crossborder-b2b-growth|Stablecoin cross-border B2B growth]]
 <!-- /wiki-links:managed -->
 
 ## Sources
 
-- BIS 2024  cross-border settlement annual-volume report · MiCA Title IV · Japan PSA · GENIUS Act §501 (2025.07)
+- Circle Mint — https://developers.circle.com/circle-mint
+- Circle Mint supported chains and currencies — https://developers.circle.com/circle-mint/supported-chains-and-currencies
+- JPYC — https://jpyc.jp/
+- BIS CPMI, cross-border payments — https://www.bis.org/cpmi/publ/d220.htm

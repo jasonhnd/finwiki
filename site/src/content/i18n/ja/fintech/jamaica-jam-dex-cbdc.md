@@ -1,180 +1,141 @@
 ---
 source: fintech/jamaica-jam-dex-cbdc
-source_hash: d6cf1ad54e7b87a0
+source_hash: 7361ada5b10bd0d1
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
-title: "ジャマイカ JAM-DEX - Bank of Jamaica のリテール CBDC、Lynk ウォレット採用、eCurrency Mint ベンダー"
-translated_at: 2026-06-26T08:31:59.822Z
+title: "ジャマイカ JAM-DEX — 2025 年公式採用スナップショット、ウォレット提供者、インセンティブ"
+translated_at: 2026-07-30T02:19:00+09:00
 ---
 
-# ジャマイカ JAM-DEX - Bank of Jamaica のリテール CBDC、Lynk ウォレット採用、eCurrency Mint ベンダー
+# ジャマイカ JAM-DEX — 2025 年公式採用スナップショット
 
 ## ウィキ上の位置づけ
 
-この項目は、**JAM-DEX（Jamaica Digital Exchange）**に関する法域別ケーススタディとして [[fintech/INDEX|fintech index]] の下に位置する。JAM-DEX は Bank of Jamaica が 2022  に開始したリテール CBDC で、Bahamas Sand Dollar（2020）と Nigeria eNaira（2021）に続く主要な小国リテール CBDC の第三例であり、人口比で見た採用は三者の中で最も明瞭である。[[fintech/bahamas-sand-dollar-cbdc|Bahamas Sand Dollar]]（最長運用のピア、AFI 配布モデル）、[[fintech/nigeria-enaira-retail-cbdc|Nigeria eNaira]]（採用失敗例、Bitt ベンダー）、[[fintech/cbdc-adoption-curve-china-japan-eu-india-2026|CBDC adoption curve 2026]]（法域横断の位置づけ）と照らして読む。アーキテクチャ文脈は [[fintech/cbdc-multi-tier-architecture-overview|CBDC 多层架构概览]]、[[fintech/cbdc-multi-tier-architecture-three-paradigms|CBDC 三大现役范式]]、[[fintech/cbdc-multi-tier-architecture-tradeoffs|CBDC 架构选择 4 核心权衡]] を参照。
+この項目は、Bank of Jamaica のリテール CBDC である **JAM-DEX（Jamaica Digital Exchange）**の法域別ケーススタディとして [[fintech/INDEX|fintech index]] の下に位置する。[[fintech/bahamas-sand-dollar-cbdc|Bahamas Sand Dollar]]、[[fintech/nigeria-enaira-retail-cbdc|Nigeria eNaira]]、[[fintech/cbdc-adoption-curve-china-japan-eu-india-2026|CBDC adoption curve 2026]] とあわせて読むが、調整済みのアクティブ利用者・取引データなしに採用度を順位付けしない。アーキテクチャの文脈は [[fintech/cbdc-multi-tier-architecture-overview|CBDC 多层架构概览]]、[[fintech/cbdc-multi-tier-architecture-three-paradigms|CBDC 三大現役范式]]、[[fintech/cbdc-multi-tier-architecture-tradeoffs|CBDC 架構選択 4 核心权衡]] を参照。
 
 > [!info] 要約
-> Bank of Jamaica (BoJ) は、**2022-07** に、8か月のパイロットを 2021 に終えた後、法定通貨型リテール CBDC として **JAM-DEX (Jamaica Digital Exchange)** を発行した。JAM-DEX は **Bank of Jamaica Act の改正（2022可決）により法定通貨**とされ、ローンチと並行して CBDC 固有の立法を行った最初期の法域の一つになった（既存の通貨発行権限を使った Bahamas と Nigeria より法的に明示的）。決定的な配布面の特徴は、NCB Financial Group 子会社 TFOB Limited が運営するウォレット **Lynk** であり、**約200K-300K 登録ユーザー**に 2024  までに達し、Sand Dollar や eNaira より成人人口に対する浸透率が高かった。技術パートナーは **eCurrency Mint**（Bitt ではなく、Sand Dollar / eNaira / DCash とは明確に異なるベンダー）である。政府の **インセンティブ支払い（J$2,500 の登録ボーナスと加盟店受け入れ補助）**が初期のウォレット登録急増を支えた。プログラム規模は e-CNY や eRupee より大幅に小さいが、比較可能な四つ以上のピア・プログラムの中では**最も明瞭な小国経済 CBDC 採用事例**である。
+> Bank of Jamaica は、eCurrency Mint を採用したパイロットを 2021 年5月から12月まで実施し、2022 年に段階的な全国展開へ移行した。2022 年6月14日の改正により CBDC は法定通貨となり、BoJ が唯一の発行者であることが確認された。現在公表されている最新の年次報告書によれば、**2025 年末の登録ウォレット利用者は 305,026 人**で前年比 8.1% 増、流通額は **J$260.1 million**、公開ウォレット提供者は Lynk と JN Pay の 2 社である。BoJ は 2025 年に利用と支出が増加したとも述べるが、報告書はアクティブウォレット数、取引件数、加盟店数、または国際比較可能な普及指標を公表していない。したがって本ページは、JAM-DEX を採用度が最も高い同種事例とは位置づけず、累積登録数からアクティブ利用を推計しない。^[source:Bank of Jamaica Annual Report 2025, pp. 66-67; BoJ pilot and phased-rollout releases]
 
-## プログラム・アーキテクチャ
+## プログラム構造
 
 ```
-                         Bank of Jamaica
-                                │
-                                ▼
-                       JAM-DEX (J$ retail CBDC)
-                                │
-       ┌────────────────────────┴────────────────────────┐
-       ▼                                                  ▼
-   発行体 (BoJ; 法定通貨の中央銀行負債)   技術パートナー
-                                                       (eCurrency Mint, USA;
-                                                        DSC2 platform)
-       │                                                  │
-       ▼                                                  ▼
-   Two-tier intermediated distribution               Wallet apps
-   (BoJ → Authorised payment-service                  - Lynk (NCB / TFOB) — dominant
-    providers (PSPs) + DTIs (deposit-taking            - JAM-DEX-enabled bank apps
-    institutions) → consumer wallets)
-       │
-       ▼
-   Tiered KYC
-   - Standard (BoJ-aligned J$ KYC tiers)
-   - Merchant tier
+          Bank of Jamaica
+                 │ JAM-DEX を発行・償還
+                 ▼
+       承認済みウォレット提供者チャネル
+          ┌──────┴──────┐
+          ▼             ▼
+   NCB + TFOB/Lynk   JN Bank/JN Pay
+          │             │
+          └──── 消費者／加盟店 ────┘
 ```
 
-## Matrix A · 法令、規制当局、フェーズ状況
+この図は 2025 年末時点で公開提供者として報告された主体を示す。すべての PSP／DTI が JAM-DEX ウォレット提供者であることも、Lynk が唯一のチャネルであり続けることも意味しない。
 
-| Item | Detail |
+## マトリクス A · 法令、規制当局、段階状況 ^[source:BoJ pilot completion; BoJ CBDC solution; BoJ 2022 phased-rollout release; BoJ Annual Report 2025]
+
+| 項目 | 詳細 |
 |---|---|
-| 主導当局 | **Bank of Jamaica (BoJ)** |
-| 法的根拠 | Bank of Jamaica (Amendment) Act 2022  - 明示的な CBDC 法定通貨認可 |
-| Pilot phase | 2021-08 to 2022-04 (8-month pilot, primarily Kingston / urban) |
-| **Live launch** | **2022-07** — third major small-economy retail CBDC |
-| Technology partner | **eCurrency Mint** (US-headquartered; deployed via DSC2 platform) |
-| 基盤技術 | 暗号学的に保護されたデジタル記号 / 階層型デジタル署名（eCurrency Mint アーキテクチャ。Bitt 導入で使われた Hyperledger Fabric とは別系統） |
-| Wholesale CBDC | None — retail only |
-| クロスボーダー CBDC | 2026-05 時点ではなし。[[fintech/mbridge-bis-multi-cbdc-overview|mBridge]] / [[fintech/bis-project-agora-overview|Agorá]] との統合なし |
-| 法定通貨ステータス | あり - 2022 BoJ Act 改正で明示 |
+| 主務当局 | **Bank of Jamaica（BoJ）** |
+| 法的根拠 | Bank of Jamaica (Amendment) Act, Act 5 of 2022。2022 年6月14日に可決された改正は、通貨に関する規定を CBDC へ拡張し、法定通貨としたうえで BoJ を唯一の発行者と確認した |
+| パイロット | 2021 年5月から12月31日まで。準備が整ったウォレット提供者として NCB が参加 |
+| 全国展開 | 2022 年に段階的に展開。引用した公表資料で BoJ は単一の公式な `2022-07 launch` 日を示していない |
+| 技術パートナー | パイロットと全国展開に eCurrency Mint Inc. を選定 |
+| ソース層の技術 | BoJ は、採用した発行／mint／償還ソリューションを非ブロックチェーン方式と説明している。ウォレット提供者は自社ネットワークで別の技術を利用し得る |
+| 商品範囲 | ウォレット提供者を通じて配布されるジャマイカドル建てリテール CBDC |
+| 現在の公式状況 | BoJ Annual Report 2025 は、5 年間の National Roll-Out 計画の 4 年目と報告 |
 
-**法定通貨化の改正**は、小国経済のリテール CBDC の中で最も明瞭な法的構造である。Nigeria は既存の通貨権限に基づき eNaira を発行し、Bahamas Sand Dollar は CBOB Act の 2020 改正に依拠した。Jamaica は、デジタル・ジャマイカドルを法定通貨として具体的に名指しする専用の 2022 改正を可決し、最も踏み込んだ。
+この改正はジャマイカの法的根拠を明確に示すが、条文ごとの法的比較なしに Bahamas／Nigeria より「明瞭」または「先行」と順位付けすることはしない。
 
-## Matrix B · 設計選択 — ウォレット-first、インセンティブ主導、銀行利用層重視
+## マトリクス B · 文書化された設計と配布 ^[source:BoJ CBDC pages and FAQ; BoJ Annual Reports 2023-2025; JIS incentive notice]
 
-| Design choice | Detail | Why |
+| 設計要素 | 文書化された詳細 | 証拠の境界 |
 |---|---|---|
-| **PSP と DTI を通じた二層仲介モデル** | BoJ が発行し、消費者は Authorised 決済サービス提供事業者 (PSPs) と Deposit-Taking Institutions (DTIs) を通じて取引する | 規制対象仲介者の役割を維持 |
-| **旗艦ウォレットとしての Lynk** | NCB Financial Group 子会社 TFOB Limited が Lynk ウォレット を運営し、JAM-DEX ウォレットとして圧倒的に最も使われている | 単一の高品質な消費者向けアプリにウォレット UX を集中 |
-| **登録インセンティブ - J$2,500 (約US$16) ボーナス** | 最初の 100K 人の消費者ウォレット登録者に対する政府 / BoJ 資金の一回限りインセンティブ（2022-03発表） | ローンチ後数週間の初期ウォレット登録急増を後押し |
-| **加盟店補助** | 小規模加盟店の受け入れを促す政府資金の補助 | 両面市場の鶏卵問題を狙う |
-| **Zero interest** | No yield on JAM-DEX balances | Same anti-disintermediation logic as peers |
-| **消費者から加盟店への取引手数料なし** | BoJ は取引ごとの手数料を課さない | 採用を促す |
-| **Account-based ledger** | Balances tied to identified ウォレット via PSP / DTI onboarding | AML/CFT-compatible |
-| **eCurrency Mint ベンダー（Bitt ではない）** | Bitt の許可型 DLT モデルに対するアーキテクチャ上の代替 | Sand Dollar / eNaira / DCash とは異なる技術系譜 |
-| **中央銀行への直接債権** | JAM-DEX は BoJ の負債である | 日本の DCJPY（預金トークンであり CBDC ではない）と異なる |
+| 発行 | BoJ が JAM-DEX を発行し、承認済みウォレット提供者へ供給 | 報告書はすべての PSP／DTI が JAM-DEX を配布すると述べていない |
+| 2025 年末の公開ウォレット | NCB と TFOB が Lynk を通じて提供。JN Bank は 2025 年5月に JN Pay を開始 | 提供者数は年末時点のスナップショットであり、ウォレットの市場シェアではない |
+| 消費者インセンティブ | GOJ は 2022 年4月1日以降に JAM-DEX ウォレットを開設した先着 100,000 人へ J$2,500 を提供し、6月末までに上限へ到達 | 登録インセンティブは、その後のアクティブ利用を立証しない |
+| 2023 年の加盟店インセンティブ | 条件を満たす小規模加盟店の先着 10,000 店へ J$25,000、さらに定められた上限の下で消費者向け 2% キャッシュバックを実施 | BoJ Annual Report 2025 は因果効果の推計を公表していない |
+| 通貨上の特徴 | JAM-DEX はジャマイカの紙幣・硬貨と 1:1 で交換でき、利息を支払わない | ウォレット提供者の条件と利用資格は実装ごとに異なる |
+| 技術 | eCurrency Mint が中央発行ソリューションを支え、BoJ はソース層でブロックチェーンを使用しないと説明 | ベンダーの選択だけでは採用度を決定しない |
 
-インセンティブ主導のローンチは、最も議論を呼ぶ設計選択である。政府 / BoJ はコールドスタートの採用問題を克服するため、J$2,500 の登録ボーナスと加盟店補助に資金を投じた。批判側は、これは持続的利用を確保せず見出し向けの登録数を買ったものだと主張する。一方、擁護側は **2023-2024 までにアクティブ利用指標が初期インセンティブ層を超えて伸びた**ことを指摘し、導入によって一定の実需が生まれたと見る。
+インセンティブ制度は累積登録数の増加の一部を説明し得るが、ここで利用できる公式なアクティブウォレット時系列はない。インセンティブが「見出し向けの数字を買った」、または持続的な需要を生んだという主張は、取引単位の継続率データを必要とする仮説である。
 
-## Matrix C · 採用指標（直近の公開値）
+## マトリクス C · 採用と流通（2025 年末） ^[source:Bank of Jamaica Annual Report 2025, Payment System section]
 
-| 指標 | Most-recent public figure |
+| 指標 | 直近の公開値 |
 |---|---|
-| Live status | **Live since 2022-07** (~3.5+ years) |
-| Registered ウォレット (cumulative) | ~200K-300K (Lynk-led, multiple public statements through 2024) |
-| **Active ウォレット** | Materially smaller than registered; public BoJ statements have not disclosed precise daily-active counts |
-| **成人人口に対する浸透率** | 成人人口（総成人数約2M）に対して数パーセント - **人口比では Sand Dollar や eNaira より高い** |
-| Cumulative tx value | Modest in absolute terms; J$ billions cumulative over multi-year window |
-| Coverage | Nation-wide; Kingston / urban concentration |
-| 加盟店受け入れ | 数千の加盟店が報告され、ファストフード / 小売 / インフォーマル部門のパイロットに集中 |
-| Cross-border CBDC | None |
+| 登録ウォレット利用者 | **305,026 人**、2024 年末比 8.1% 増 |
+| mint 総額 | **J$276.0 million** |
+| 流通額 | **J$260.1 million** |
+| 公衆保有額 | **J$144.4 million**（流通額の 55.5%） |
+| ウォレット提供者のデジタル金庫内保有 | **J$115.7 million**（44.5%） |
+| 公開ウォレット提供者 | **2** — Lynk と JN Pay |
+| 利用の方向 | BoJ は全体的な利用と支出が 2024 年より増加したと説明 |
+| アクティブウォレット／取引件数 | 引用した年次報告書では非開示 |
+| 加盟店数 | 2025 年末の総数は非開示。2023 年末の報告書は登録 Lynk 加盟店が 3,900 店超と記録 |
+| 政府利用 | 一部サービスを対象とした TAJ パイロットを 2025 年4月9日から5月22日まで実施。オンライン JAM-DEX 支払いは引き続き利用可能 |
 
-JAM-DEX のウォレット・経済圏では **Lynk ウォレット** が支配的である。NCB Financial Group が、既にマーケティング済みの消費者向け決済アプリ（Lynk）の中に JAM-DEX レールを組み込んだ戦略判断は、小国経済 CBDC の中で最も明瞭な配布チャネル所有の事例である。NCB は Jamaica 最大の商業銀行グループで、強い既存消費者接点を持つ。これは、PBoC が六大国有商業銀行と四大決済 / 通信事業者を活用した e-CNY モデルに構造的に近く、Bahamas の AFI 相互運用型パターンとは異なる。
+公式データは登録数と流通額の増加を裏付けるが、JAM-DEX のアクティブ普及率が Sand Dollar や eNaira より高いとはいえない。国際比較には、同一の日付、アクティブ利用者の定義、加盟店の定義、取引期間、人口分母が必要である。
 
-## Matrix D · Lynk ウォレット — 配布チャネル所有の優位性
+## マトリクス D · ウォレット提供者の変遷
 
 ```
-   Bank of Jamaica (BoJ)
-        │
-        ▼
-   NCB Financial Group (largest commercial banking group in Jamaica)
-        │
-        ▼
-   TFOB Limited (NCB subsidiary; consumer-fintech vehicle)
-        │
-        ▼
-   Lynk wallet (JAM-DEX 対応の消費者ウォレット + 隣接する決済機能)
-        │
-        ▼
-   ~200K-300K registered users + ~thousand+ merchants
+2022        Lynk が最初の公開 JAM-DEX ウォレット
+2023-2024   Lynk が引き続き、JAM-DEX を公衆に提供する唯一の事業者
+2025-05     JN Bank が JN Pay を開始
+2025 年末   公開提供者は 2 社。さらに 2 行が後日の開始を目標
 ```
 
-**なぜ重要か:** Lynk の浸透率は JAM-DEX 採用を左右する最大の決定要因である。NCB Financial Group は預金と消費者接点で Jamaica の支配的な商業銀行であり、Lynk を通じて JAM-DEX を推進する戦略的意思が、eNaira を苦しめた配布インセンティブ問題（DMB / MMO が自社商品より CBDC を推す動機が乏しい問題）を解いた。Lynk は BoJ に、実際の消費者マーケティング能力を持つ単一のアンカーウォレットを与えた。
+この時系列は、2024 年末まで Lynk が唯一の公開配布チャネルであり、2025 年に提供者の多様性が増したことを示す。Lynk の現在の利用者シェア、定義済み指標に基づく NCB の「支配的」地位、または配布チャネルの所有が eNaira／Sand Dollar より良い結果を生んだことは立証しない。これらの比較には提供者別のアクティブ利用データが必要である。
 
-eNaira との対比は構造的である:
+## マトリクス E · 政府インセンティブの設計 ^[source:JIS 2022 wallet incentive; Jamaica 2023 budget presentation; BoJ Annual Report 2023]
 
-- **eNaira**: many DMBs + MMOs, none particularly incentivised to push.
-- **Sand Dollar**: multiple AFIs, interoperable but small absolute base.
-- **JAM-DEX / Lynk**: 支配的な商業銀行グループが運営する単一アンカーウォレット。配布インセンティブが一致。
+以下のインセンティブは文書化された制度条件である。`観察された証拠` 列は、公開記録を超える因果関係を主張しない。^[source:JIS 2022 wallet incentive; Jamaica 2023 budget presentation; BoJ Annual Reports 2023 and 2025]
 
-**配布チャネル所有の教訓**は、四極の小国経済 CBDC 比較から最も頻繁に引用される発見である。
-
-## Matrix E · 政府インセンティブ設計
-
-Jamaica 政府 / BoJ は、初期採用を促すために三つの具体的な補助レバーを使った:
-
-| Subsidy | Detail | Effect |
+| 制度 | 条件 | 観察された証拠 |
 |---|---|---|
-| **消費者登録ボーナス** | J$2,500 の一回限り支払いを最初の約100K 人のウォレット登録者に提供（2022-03発表） | 初期登録急増を後押ししたが、見出し用の数字を買ったとの批判も受けた |
-| **加盟店受け入れ補助** | 小規模加盟店の受け入れ登録への補助 | 初期加盟店基盤を構築 |
-| **公務員向け支払い実験** | 一部の公共部門パイロット支払いを JAM-DEX で実施 | 政府から個人への（G2P）ユースケースを試験 |
+| 2022 年消費者ウォレット・インセンティブ | 2022 年4月1日以降に開設された適格ウォレットの先着 100,000 件へ J$2,500 | 政府は 2022 年6月末までに 100% 利用されたと報告 |
+| 2023 年小規模加盟店インセンティブ | オンボーディング／取引条件を満たす先着 10,000 加盟店へ J$25,000 | 制度は公表済みだが、引用資料に因果的な加盟店定着率の推計はない |
+| 2023-24 年消費者ロイヤルティ | 制度の月間支出上限まで JAM-DEX 購入額の 2% をキャッシュバック | 制度条件は開示されたが、アクティブ利用への効果は個別に報告されていない |
+| 2025 年 TAJ パイロット | 一部の固定資産税、fitness fee、交通違反金の支払い。パイロットは 4月9日から5月22日 | BoJ はオンライン支払い手段が引き続き利用可能と説明 |
 
-これらの補助は、ピアの CBDC プログラムにも広く利用可能な**政策ツール**だが、すべてが実施したわけではない。Sand Dollar は同等の消費者登録ボーナスを使わず、eNaira も登録ボーナスを使わなかった（採用ギャップを考えると使うべきだった可能性がある）。Jamaica のアプローチは、小国経済リテール CBDC の中で**最も積極的なインセンティブ設計**であり、現在はテンプレート候補として研究されている。
+Sand Dollar／eNaira は「何も」使わず、ジャマイカが最も積極的な同種制度だったという従来の比較は、調整済みの政策一覧を欠いていたため削除した。
 
-## Matrix F · Comparison to peer CBDCs
+## マトリクス F · 同種事例比較の証拠ゲート ^[method:compare primary central-bank datasets at a common snapshot]
 
-| Item | Jamaica JAM-DEX | [[fintech/bahamas-sand-dollar-cbdc\|Bahamas Sand Dollar]] | [[fintech/nigeria-enaira-retail-cbdc\|Nigeria eNaira]] | China e-CNY |
-|---|---|---|---|---|
-| Live launch | 2022-07 | 2020-10-20 | 2021-10-25 | 2020-04 (pilots) |
-| 発行体 | Bank of Jamaica | Central Bank of The Bahamas | Central Bank of Nigeria | PBoC |
-| 法定通貨改正 | あり（BoJ Act 改正 2022） | あり（CBOB Act 2020） | なし（既存の通貨権限に基づく） | あり（PBoC Law 2020） |
-| Distribution model | PSPs + DTIs; Lynk dominant | AFIs (interoperable) | DMBs + MMOs | 10 designated 事業者 |
-| Technology vendor | **eCurrency Mint** (US) | Bitt Inc. (Barbados) | Bitt Inc. (Barbados) | Proprietary PBoC |
-| 登録インセンティブ | **J$2,500 登録ボーナス** + 加盟店補助 | なし | なし | なし（国家主導の採用推進） |
-| アンカーウォレット | **Lynk** (NCB / TFOB) | 複数 AFI ウォレットの相互運用 | eNaira Speed ウォレット + DMB アプリ | AliPay / WeChat Pay 連携 + 銀行アプリ |
-| アクティブ浸透率 | 成人人口の数% | 人口の一桁% | 成人人口の <0.5% | 180M+ 登録のうち一桁百万の日次アクティブ |
-| Status (2026-05) | Live; modest growth | Live (5+ years); slow growth | Live but de-emphasised | Live; mass-rollout phase |
+| 指標 | 必要な共通定義 | ここで利用できる JAM-DEX の証拠 |
+|---|---|---|
+| 開始／状況 | パイロット、段階的展開、全国利用可能性、本番稼働を区別 | 2021 年5月から12月にパイロット、2022 年から段階的に全国展開、2025 年時点も 5 年間の展開計画中 |
+| 登録 | 累積ユニーク人数とウォレット／アカウントを区別 | 2025 年末の登録ウォレット利用者 305,026 人 |
+| アクティブ利用 | 日次／月次アクティブ、観察期間、重複処理 | 引用した報告書では非公表 |
+| 取引活動 | 同一の年次／月次期間における件数と金額 | 増加方向は記載されるが、2025 年の正確な件数／金額はここでは非公表 |
+| 加盟店受け入れ | 登録加盟店とアクティブ加盟店を区別 | 2025 年末総数は非公表。2023 年末の Lynk 加盟店は 3,900 店超 |
+| 流通 | 公衆保有、提供者金庫、mint 総額を区別 | 公衆 J$144.4m、提供者金庫 J$115.7m、mint 総額 J$276.0m |
+| インセンティブ | 資格、金額、期間、利用率、継続率 | 制度条件と初期利用率は利用可能だが、継続効果はない |
 
-**eCurrency Mint vs Bitt** のベンダー分岐は、静かだが重要なデータ点である。Bitt ベンダー群（Sand Dollar、eNaira、ECCU DCash）の成果は混在から低調である一方、eCurrency Mint 導入（JAM-DEX）は小国経済で最も明瞭な採用事例である。これは必ずしもベンダー能力の話ではない。配布設計が技術選択を上回る。ただし、このパターンは CBDC ベンダー選定文献で注目に値する。
+[[fintech/bahamas-sand-dollar-cbdc|Sand Dollar]]、[[fintech/nigeria-enaira-retail-cbdc|eNaira]]、e-CNY について同等の項目が得られるまで、従来の同種事例ランキング表は再現できない。ベンダーとの関連だけで `eCurrency Mint > Bitt` という因果的結果が確立するわけでもない。
 
-## Origin and evolution
+## 起源と展開
 
 ```
-2020-2021    BoJ internal work on retail CBDC; eCurrency Mint selected as technology partner
-2021-08      Pilot phase begins (8 months, primarily Kingston-area)
-2022-03      Pilot concludes; government announces J$2,500 enrolment-bonus programme
-2022-05       Bank of Jamaica (Amendment) Act 2022  可決 - JAM-DEX を法定通貨化
-2022-07      JAM-DEX launched nation-wide; Lynk wallet goes live
-2022-08      First ~100K wallet enrolments; J$2,500 bonus disbursed
-2023          加盟店受け入れが拡大。Lynk がウォレットシェアを支配
-2023-2024    Continued growth; public BoJ statements emphasise gradual scaling
-2024-2025    JAM-DEX continues; wallet count grows past 200K Lynk users
-2025-2026    Live; modest organic growth post-incentive
+2021-03       eCurrency Mint を選定
+2021-05—12    8 か月のパイロット。12月31日に完了
+2022-03       GOJ が J$2,500／先着 100,000 ウォレットのインセンティブを発表
+2022-06-14    Act 5 of 2022 の改正を可決。CBDC が法定通貨となる
+2022           段階的な全国展開
+2023           第 2 のインセンティブ制度。年末登録数 263,341
+2024           年末登録数 282,274。Lynk が引き続き唯一の公開提供者
+2025-05        JN Pay が第 2 の公開提供者として開始
+2025           年末登録数 305,026。TAJ ユースケースと POS 作業が進展
 ```
 
-**パターン**: ローンチは、パイロット → 立法 → インセンティブ → ウォレット展開という形できれいに順序立てられた。Jamaica の CBDC 物語は、公開記録上で**最もよく順序設計された小国経済リテール CBDC ローンチ**である。構造的な教訓は、最も明瞭な順序（立法権限 + アンカーウォレット + インセンティブ）が、最速の順序（eNaira）や最長運用の順序（Sand Dollar）より、人口比の採用で上回るという点である。
+**パターン**: パイロット、法改正、インセンティブ、提供者展開は文書化されている。この順序が、より早く開始した事例や長く稼働する事例を上回ったかどうかは、上記の共通指標なしには結論づけられない。
 
-## Jamaica における民間レール代替との比較
+## ジャマイカの民間決済手段との比較
 
-Jamaica's private-rail digital-payment landscape:
-
-- **商業銀行アプリ** - NCB、Scotiabank Jamaica、BNS、JN Bank。
-- **Lynk** - TFOB / NCB。JAM-DEX ウォレットと単独の決済アプリの二目的を担う。
-- **Existing card / ATM rails** — Visa, Mastercard.
-- **送金** - 大規模なディアスポラ送金フローがある。MoneyGram、Western Union、JNMS Remit、USD 連動の Lynk 機能、ステーブルコイン代替（USDT ベース送金アプリ）が台頭中。
-- **Crypto / USDT P2P** - Jamaica では Nigeria に比べて小規模だが、台頭中。
-
-JAM-DEX の競争上の滑走路は、Opay / PalmPay / Moniepoint が既に数億人規模の利用者を抱える Nigeria より**混雑しておらず**、Bahamian 銀行システムが高度に発達している Sand Dollar より**成熟度が低い**。アンカーウォレット（Lynk）+ 支配的な商業銀行グループ（NCB）+ 法定通貨立法 + 政府インセンティブという組み合わせは、これまでの公開記録上で**最も明瞭な小国経済 CBDC 採用スタック**である。
+JAM-DEX は銀行預金、カード／ATM レール、モバイルウォレット、現金、送金サービスと共存する。競争分析では、支払い受け入れ、手数料、稼働率、現金の入出金、本人確認要件、加盟店経済性、利用者活動を比較すべきである。ジャマイカは Nigeria より競争が少ない、Bahamas より成熟度が低い、または最も明瞭な採用構成を持つという従来の主張は、共通の市場データで裏付けられていなかったため削除した。
 
 ## 関連項目
 
@@ -195,11 +156,10 @@ JAM-DEX の競争上の滑走路は、Opay / PalmPay / Moniepoint が既に数�
 
 ## 出典
 
-- Bank of Jamaica - 機関トップページ: https://boj.org.jm/
-- BoJ - CBDC / JAM-DEX プロジェクトページ: https://boj.org.jm/core-functions/currency/cbdc/
-- BoJ — JAM-DEX consumer / 加盟店 pages: https://boj.org.jm/jam-dex/
-- Lynk ウォレット事業者 (TFOB / NCB Financial Group): https://lynk.us/
-- BIS Innovation Hub CBDC topic landing: https://www.bis.org/about/bisih/topics/cbdc.htm
-- BIS Working Paper No. 1116 — "The next-generation monetary system — a blueprint" (2024)
-- Bank of Jamaica (Amendment) Act 2022  - パブリックドメインの法令テキスト
-- BoJ public press releases on JAM-DEX launch and J$2,500 enrolment-bonus programme (2022)
+- [Bank of Jamaica Annual Report 2025](https://boj.org.jm/wp-content/uploads/2026/03/2025-BOJ-Annual-Report-final.pdf) — 2025 年末のウォレット提供者、登録数、mint／流通残高、TAJ パイロット、POS 作業。
+- [Bank of Jamaica Annual Report 2024](https://boj.org.jm/wp-content/uploads/2025/04/2024-BOJ-Annual-Report-final.pdf)／[Annual Report 2023](https://boj.org.jm/wp-content/uploads/2024/03/2023-BOJ-Annual-Report.pdf) — 比較可能な前年数値とインセンティブ制度の詳細。
+- [BoJ — CBDC パイロット完了（2021-12-31）](https://boj.org.jm/bojs-cbdc-pilot-project-a-success/) — パイロット日程、参加者、mint／発行の節目。
+- [BoJ — CBDC ソリューション](https://boj.org.jm/bank-of-jamaicas-cbdc-solution/)／[提供者選定](https://boj.org.jm/boj-announces-cbdc-provider/) — eCurrency の調達と非ブロックチェーン型ソース層の説明。
+- [BoJ — JAM-DEX の段階的展開](https://boj.org.jm/jam-dex-phased-rollout-progresses/)／[法令ページ](https://boj.org.jm/about-boj/legislation/) — 2022 年6月14日の改正と、法定通貨／唯一の発行者という地位。
+- [Jamaica Information Service — J$2,500 ウォレット・インセンティブ](https://jis.gov.jm/2500-incentive-for-jamaicans-to-get-digital-wallet/)／[利用状況の更新](https://jis.gov.jm/jamaicans-take-up-2500-incentive-to-sign-up-for-jam-dex/) — 資格と先着 100,000 人の上限。
+- [BoJ — JAM-DEX CBDC ランディング](https://boj.org.jm/core-functions/currency/cbdc/)／[BIS Innovation Hub CBDC トピック](https://www.bis.org/about/bisih/topics/cbdc.htm) — 現在の公式ナビゲーションと、より広い CBDC の文脈。

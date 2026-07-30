@@ -1,1373 +1,188 @@
 ---
 source: fintech/ecny-supply-chain-expansion
-source_hash: f95ba8067757ce33
+source_hash: fc09202bd1d2a137
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
-title: "e-CNY のサプライチェーン・クロスボーダー拡張 2025-2026"
-translated_at: 2026-06-26T08:29:09.713Z
+title: "e-CNY のサプライチェーン・クロスボーダー拡張 2025–2026"
+translated_at: 2026-07-30T02:08:00+09:00
 ---
-﻿
-
-
-
-
-
-
-
-# e-CNY のサプライチェーン・クロスボーダー拡張 2025-2026
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# e-CNY のサプライチェーン・クロスボーダー拡張 2025–2026
 
 ## ウィキ上の位置づけ
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-この項目は [[fintech/INDEX|fintech index]] の配下に位置し、2025-2026  のクロスボーダー拡張フェーズにおける中国 e-CNY の国別詳細分析である。四か国比較の視点では [[fintech/cbdc-adoption-curve-china-japan-eu-india-2026|CBDC adoption curve 2026]]、ホールセール・ブリッジ構造では [[fintech/mbridge-bis-multi-cbdc-overview|mBridge BIS 多 CBDC 跨境结算桥]]、同じ地域市場で競合する民間ステーブルコイン・レールでは [[fintech/hkma-stablecoin-licensing-overview|HKMA stablecoin licensing overview]] と組になる。より広いCBDCアーキテクチャの文脈は [[fintech/cbdc-multi-tier-architecture-overview|CBDC 多层架构概览]] を参照。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+この項目は [[fintech/INDEX|fintech index]] の下にある、2025–2026 年 cross-border expansion phase の中国 e-CNY に関する country-specific deep dive である。4 か国比較は [[fintech/cbdc-adoption-curve-china-japan-eu-india-2026|CBDC adoption curve 2026]]、wholesale-bridge architecture は [[fintech/mbridge-bis-multi-cbdc-overview|mBridge BIS multi-CBDC cross-border settlement bridge]]、同じ地域市場で競合する private-stablecoin rail は [[fintech/hkma-stablecoin-licensing-overview|HKMA stablecoin licensing overview]]と対になる。より広い CBDC architecture context は [[fintech/cbdc-multi-tier-architecture-overview|CBDC multi-tier architecture overview]]を参照。
 
 > [!info] 要約
-
-
-
-
-
-
-
-> 2026 年半ばまでに、e-CNYは国内限定のリテール実験ではなく、**複数国ホールセール決済リングのアンカーとなる主要経済圏初のリテールCBDC**になった。現在は三つの拡張レイヤーが稼働している。(i) 香港 / Greater Bay Area のクロスバウンダリー・リテールリンク、(ii) [[fintech/mbridge-bis-multi-cbdc-overview|mBridge]] ホールセール・ブリッジ（HKMA / BoT / CBUAE / SAMA / 2026 H2からの Brazil DREX を含む）、(iii) 中国SOEの相手方がコモディティおよびインフラ請求を e-CNY で決済する一帯一路プロジェクト・パイロット統合である。2026 時点で最大の競争変数は **HKMAステーブルコイン・ライセンス**（[[fintech/hkma-stablecoin-licensing-overview|HKMA SC licensing]]）であり、同じチャネル上にHKD建ておよびUSD建ての並行レールを作っている。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+> 公開資料は、異なる二つの cross-border surface を裏付ける。香港居住者は 2024 年 5 月から、香港 mobile number で e-CNY wallet を開設し、FPS を通じて top-up して Mainland pilot area で利用できる。一方、mBridge は 2024 年半ばに wholesale multi-CBDC MVP stage に達し、BIS は 2024 年 10 月に partner へ引き渡した。引用した公式資料は、2025 年の commercial mBridge launch、Brazil DREX membership、定量化された Belt-and-Road commodity corridor を立証しない。live HKMA register と issuer の直接発表は、2026-07-30 時点で香港の licensed stablecoin issuer 2 社を特定する。これらの licence は e-CNY を直接置換した証拠ではなく、別の regulated rail を生む。^[https://www.hkma.gov.hk/eng/news-and-media/press-releases/2024/05/20240517-4/; https://www.bis.org/about/bisih/topics/cbdc/mcbdc_bridge.htm; https://www.hkma.gov.hk/eng/regulatory-resources/registers/register-of-licensed-stablecoin-issuers/]
 
 ## 三つの拡張レイヤー
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ```
-
-
-
-
-
-
-
                   e-CNY 2025-2026 拡張（三つのレイヤー）
-
-
-
-
-
-
-
                                   │
-
-
-
-
-
-
-
         ┌─────────────────────────┼─────────────────────────────────┐
-
-
-
-
-
-
-
         ▼                         ▼                                 ▼
-
-
-
-
-
-
-
-  L1 香港リンク        L2 mBridgeホールセール            L3 一帯一路プロジェクト・パイロット
-
-
-
-
-
-
-
-   (リテール / SME)           (中央銀行RTGS)             (国有企業コモディティ / インフラ)
-
-
-
-
-
-
-
+  L1 香港 link             L2 mBridge wholesale             L3 Belt-and-Road project pilot
+   （retail / SME）          （central-bank RTGS）             （SOE commodity / infra）
         │                         │                                 │
-
-
-
-
-
-
-
-   GBA居住者          HKMA + BoT + CBUAE              CDB / China Exim / SOE
-
-
-
-
-
-
-
-   e-CNYウォレット       + SAMA + Brazil DREX            コモディティ請求フロー
-
-
-
-
-
-
-
-   クロスバウンダリー     PvPアトミック決済           オンチェーン
-
-
-
-
-
-
-
-   決済用                 < 10 秒ファイナリティ               （パイロット範囲）
-
-
-
-
-
-
-
+   香港居住者             HKMA + BoT + CBUAE                 公開証拠の境界:
+   e-CNY wallet           + SAMA                              引用した公式資料には
+   cross-boundary        PvP atomic settlement               corridor-level series
+   Mainland pilot area   MVP / real-value enabled            がない
         │                         │                                 │
-
-
-
-
-
-
-
         └─────────────────────────┴─────────────────────────────────┘
-
-
-
-
-
-
-
                                   │
-
-
-
-
-
-
-
-              競争環境: HKMA ステーブルコイン・ライセンス
-
-
-
-
-
-
-
-              (HSBC HKD/USD + Anchorpoint HKD/USD — 第一陣 2026-05-21)
-
-
-
-
-
-
-
+              競争上の文脈: HKMA stablecoin licensing
+              （HSBC + Anchorpoint — 最初の licence 2026-04-10）
 ```
 
+## レイヤー 1 — 香港 / GBA のクロスバウンダリー・リテール link
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-## レイヤー 1 — Hong Kong / GBA クロスバウンダリー・リテールリンク
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+下表は HKMA の 2024 年 5 月 launch announcement と user guide に限定する。technical availability から、GBA 全都市での「routine use」や adoption を推定しない。^[https://www.hkma.gov.hk/eng/news-and-media/press-releases/2024/05/20240517-4/; https://www.hkma.gov.hk/media/eng/doc/key-information/press-release/2024/20240517e3a2.pdf]
 
 | 項目 | 詳細 |
-
-
-
-
-
-
-
 |---|---|
+| Programme | 香港居住者向け cross-boundary e-CNY pilot の HKMA-PBoC 拡張 |
+| Launch | 2024 年 5 月 17 日に service expansion を発表 |
+| Wallet model | 香港 mobile number で登録。対象 wallet tier では Mainland bank account 不要 |
+| Top-up | 参加香港 bank から FPS top-up。一部は HKD から RMB への conversion に対応 |
+| 公表 limit | user guide は対象 wallet tier について、balance RMB 10,000、1 transaction RMB 2,000、daily RMB 5,000、annual RMB 50,000 を記載 |
+| 利用の境界 | Mainland e-CNY pilot area での cross-boundary retail payment が目的。announcement は active-user や GBA-wide transaction total を公表していない |
 
+香港 link は具体的な cross-boundary retail-CBDC access arrangement である。「at scale」、active use、first-place の比較主張には current transaction・user data が必要だが、引用した launch material は提供していない。
 
+[[fintech/hkma-stablecoin-licensing-overview|HKMA Stablecoins Ordinance]] は 2025 年 8 月に発効した。licence status は live HKMA register、product・launch claim は issuer の直接発表で確認する必要がある。2026-07-30 時点で、register と直接発表は licensed issuer 2 社を裏付ける。これらの licence は法的に別の rail を創設し、それ自体では e-CNY activity の流出を立証しない。^[https://www.hkma.gov.hk/eng/regulatory-resources/registers/register-of-licensed-stablecoin-issuers/]
 
+## レイヤー 2 — mBridge wholesale ring
 
-
-
-
-| プログラム | HK居住者が中国本土（まずGreater Bay Area）で e-CNY を利用し、その逆方向も可能にする PBoC-HKMA の技術的相互運用性。 |
-
-
-
-
-
-
-
-| 開始 | 2020  のPoCから、2023  のHK居住者向け拡大パイロット、2025  の 11 GBA都市での通常利用へ段階的に拡大。 |
-
-
-
-
-
-
-
-| ウォレットモデル | HK居住者は中国本土の銀行口座なしで e-CNY ウォレットを開設できる（HK ID + 電話番号による低階層KYC）。HKD銀行口座から FPS（Faster Payment System）でチャージする。 |
-
-
-
-
-
-
-
-| 対象範囲 | 11 の全GBA都市（Shenzhen、Guangzhou、Zhuhai、Foshan、Huizhou、Dongguan、Zhongshan、Jiangmen、Zhaoqing、およびHK + Macau）。 |
-
-
-
-
-
-
-
-| 日常フローの性格 | 観光、クロスバウンダリー通勤、軽量物品のSME B2B。 |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-香港リンクは、**非居住者が大規模に利用できる主要経済圏で唯一のリテールCBDC**である。「リテールCBDC + クロスボーダー」の利用体験がどう見えるかを示す稼働モデルでもある。PBoCが香港を実験場に選んだ理由は、(i) RMB国際化政策がすでに香港をオフショアCNHハブに位置づけていること、(ii) HKMAにそれを接続する技術的深さと政治的整合性があること、(iii) GBA統合が中央政府の明示的な政策優先事項であることにある。香港側のアーキテクチャは、中国本土と同じ二層設計（PBoC → 10 運営機関 → 利用者）を使い、運営機関がHK側トラフィックをHKMA監督下のインフラへルーティングする。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-香港リンクは、[[fintech/hkma-stablecoin-licensing-overview|HKMA Stablecoin Ordinance]] と直接相互作用する。同制度は 2025-08  に施行され、2026-05-21 に最初のライセンス（HSBC + Standard Chartered Anchorpoint）を発行した。HSBCとAnchorpointのステーブルコインはHKDまたはUSDにペッグされ、e-CNYレールの**内部ではなく隣**に置かれる。競争上の問いは、HKのSMEが中国本土向け請求にPBoC監督下のe-CNYを選ぶのか、グローバルフローにHKMAライセンス下のHKDステーブルコインを選ぶのかである。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## レイヤー 2 — mBridgeホールセール・リング
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+下表は 2024 年 10 月の引渡し時点の BIS project page を用いる。「法域の準備状況を条件に real-value transaction が可能」は、一般的な commercial operation と同じではない。^[https://www.bis.org/about/bisih/topics/cbdc/mcbdc_bridge.htm]
 
 | 項目 | 詳細 |
-
-
-
-
-
-
-
 |---|---|
+| Programme | [[fintech/mbridge-bis-multi-cbdc-overview|mBridge]] — multi-CBDC wholesale settlement platform |
+| 創設中央銀行 | PBoC + HKMA + Bank of Thailand + Central Bank of UAE（2021）。Saudi Central Bank（SAMA）は 2024-06 に参加 |
+| BIS の役割 | BIS Innovation Hub は 2021 年から project に取り組み、2024 年 10 月に partner へ引渡し |
+| Architecture | peer-to-peer cross-border payment と FX を支える DLT platform の mBridge Ledger。4 founder が validator node を配置 |
+| Settlement mode | real-time cross-border payment・foreign-exchange transaction。2022 pilot は real-value transaction を含む |
+| Stage | 2024 年半ばに MVP 到達。法域の準備状況を条件に real-value transaction が可能 |
+| Membership の境界 | SAMA は BIS が示す 5 番目の member。BCB と Bank Indonesia は引渡し時代の list では observer で、member ではない |
 
+BIS 出典は 4 founder と SAMA が関わる MVP を裏付ける。Brazil integration timetable、世界 GDP の 3 分の 1 に届くとの範囲、または引渡し後の governance を PBoC と HKMA だけが control するとの主張を裏付けない。
 
+[[fintech/bis-project-agora-overview|BIS Project Agorá]] は tokenised central-bank reserve と commercial-bank deposit を組み合わせる別 experiment である。BIS は 2026 年 5 月に 8 central bank と 40 超の regulated institution を報告した。引用した project material に Agorá と mBridge の正式 interoperability agreement はない。範囲を限定した比較は [[fintech/bis-project-agora-vs-mbridge|Agorá と mBridge の戦略比較]]を参照。
 
+## レイヤー 3 — Belt-and-Road project pilot 統合
 
+今回確認した PBoC・partner の公式資料には、特定 SOE、commodity、transaction volume、e-CNY settlement を結びつける再現可能な corridor-level dataset がなかった。したがって下表は press speculation を完了 transaction に変換せず、証拠の境界を記録する。^[https://www.pbc.gov.cn/en/3688110/3688172/index.html; https://www.bis.org/about/bisih/topics/cbdc/mcbdc_bridge.htm]
 
+| Claim 領域 | 公開資料で裏付けられること | 未検証のこと |
+|---|---|---|
+| Cross-boundary retail | 香港 pilot と FPS top-up は HKMA が記録 | corridor 別 active user・transaction value |
+| Wholesale multi-CBDC | mBridge MVP と 2022 real-value pilot は BIS が記録 | 引渡し後の production volume・corridor mix |
+| Belt-and-Road invoice | RMB internationalisation は明示された policy context | e-CNY で特定 settlement された oil、soybean、rare-earth、infrastructure invoice |
+| SOE / policy-bank participation | transaction-specific issuer または official statement による裏付けが必要 | CNPC、Sinopec、COSCO、CDB、China Exim の参加はここでは立証されない |
+| Volume | 引用資料に公式の corridor 別 e-CNY series はない | methodology なしに aggregate claim を corridor へ割り当てない |
 
+Belt-and-Road layer は、transaction-specific public record が party、asset、currency、date、settlement rail を特定するまで research question として扱うべきである。
 
-| プログラム | [[fintech/mbridge-bis-multi-cbdc-overview|mBridge]] — 複数CBDCのホールセール決済プラットフォーム。 |
+引用資料が立証するのは、retail、wholesale、licensing の別々の rail である。単一の geopolitical purpose、SWIFT を置き換える協調 plan、または counterparty が USD / non-USD settlement を選ぶ動機は立証しない。[[fintech/jurisdiction-list-monetary-protectionism|法域 list を通じた通貨保護主義]]は、これら project source の認定事実ではなく分析上の thesis に留まる。
 
+## 直近の公開普及指標
 
+以下の figure は元の日付と reporting scope を維持する。PBoC の 2024–2025 financial-inclusion report は national pilot-area transaction total を示すが、比較可能な active-wallet count を提供しない。^[https://www.pbc.gov.cn/xindaishichangsi/5443861/5443865/5443892/5957f8d15a824e9e88d01710873482d3/2025110711361912922.pdf; https://www.hkma.gov.hk/eng/news-and-media/press-releases/2024/05/20240517-4/; https://www.bis.org/about/bisih/topics/cbdc/mcbdc_bridge.htm]
 
-
-
-
-
-| 創設中央銀行 | PBoC + HKMA + Bank of Thailand + Central Bank of UAE（2021）。Saudi Central Bank（SAMA）は 2024-06  に参加。 |
-
-
-
-
-
-
-
-| BISの役割 | BIS Innovation Hub Hong Kong Centre が 2021  からプロジェクトを育成。BISは 2024-10  / 2025-10 に運用上の役割から退出し、技術は中核運営者である PBoC + HKMA + BoT + CBUAE に移管された。 |
-
-
-
-
-
-
-
-| アーキテクチャ | DLTの許可型台帳、HotStuff BFTコンセンサス。各中央銀行が検証ノードと自国CBDC台帳を運用し、共有mBridge台帳で通貨横断決済を行う。 |
-
-
-
-
-
-
-
-| 決済方式 | PvP（Payment-versus-Payment）アトミック決済。テストでは 10 秒未満のファイナリティ。 |
-
-
-
-
-
-
-
-| 状況（2026-05） | 2025-09  以降、MVP後の商用運用フェーズ。Brazil BCB DREX との統合テストは 2026 H2  に予定。 |
-
-
-
-
-
-
-
-| 対象範囲 | 加盟国GDPは約 USD 23.3T。オブザーバー（India / Russia / South Africa / Iran が議論対象）を含めると、潜在的影響範囲は約 USD 35T（[[fintech/mbridge-non-usd-settlement-ring-scale|mBridge non-USD 決済 ring scale]]による）。 |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-e-CNYは、mBridgeプラットフォーム上で決済される五つのソブリンCBDC（CN / HK / TH / AE / SA）の一つである。2026 H2  の Brazil DREX 統合は初の大陸間接続となり、影響範囲を世界GDPの三分の一へ実質的に広げる。構造的意義は、mBridgeが今日巨大な取引量を処理していることではない（処理量はSWIFTに比べて小さい）。重要なのは、**多国間の政治連合が存在し、BIS中立ガバナンスではなくPBoCとHKMAの主導下で運用されている**ことである。[[fintech/mbridge-bis-multi-cbdc-vs-agora|mBridge vs Agorá]] と [[fintech/mbridge-six-central-banks-roster|mBridge six central banks roster]] を参照。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[[fintech/bis-project-agora-overview|BIS Project Agorá]] との非対称性は、2025-2026  における最も明確な展開である。Agorá はBIS主導の 7-G10  ホールセールCBDC + トークン化預金実験（US FRBNY + UK BoE + France BdF + BoJ + BoK + Banxico + SNB + 40 + 商業銀行）である。mBridge は非G7 リングである。両者の間に正式な合意はなく、技術的相互運用性は未解決の論点である。戦略的対比は [[fintech/bis-project-agora-vs-mbridge|Agorá vs mBridge strategic comparison]] を参照。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## レイヤー 3 — Belt-and-Road プロジェクト・パイロット統合
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-| 項目 | 詳細 |
-
-
-
-
-
-
-
-|---|---|
-
-
-
-
-
-
-
-| チャネル | Chinese SOEs（CNPC、Sinopec、COSCOなど）+ 中国政策銀行（China Development Bank、China Exim）が、クロスボーダーのインフラおよびコモディティ・フローの請求決済に e-CNY を利用。 |
-
-
-
-
-
-
-
-| パイロット公表 | 一部相手方とのコモディティ取引パイロット（石油、大豆、レアアース）。詳細は非公開のことが多く、PBoCの公開発信は細かな数値なしに「パイロット拡大」に言及する。 |
-
-
-
-
-
-
-
-| 決済方式 | 双方のレッグがmBridge接続済みの場合、ホールセールe-CNY建て + mBridgeレールで決済する（例: PBoC側 ↔ CBUAE側）。 |
-
-
-
-
-
-
-
-| 戦略的枠組み | より広いRenminbi国際化プログラムおよびBRICS+の決済協調議論と結びつく。 |
-
-
-
-
-
-
-
-| 取引量 | 絶対額としては小さい。制約条件は取引スループットではなく、政治的価値と実証価値である。 |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-一帯一路統合は最も不透明なレイヤーである。PBoC公表資料はパイロット拡大に言及するが、コリドー別の取引量を公表することは稀である。公開情報上のシグナルは、(a) mBridgeのSAMAレッグを通じたSaudi Aramcoの石油輸出インボイス（関連する資本プール文脈は [[fintech/sovereign-capital-pool-aramco-anchor|Aramco sovereign capital pool anchor]]）、(b) 2024-2025 以降ブラジル報道で繰り返し扱われる中国・ブラジル大豆取引決済、(c) Dubai Multi Commodities Centreメンバーを通じたUAE・中国の金取引決済との能動的な統合を示している。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-中国の戦略的姿勢は「SWIFTを置き換える」ことではなく、**USDで清算したくない貿易相手方のために並行レールを構築する**ことである。これは [[fintech/jurisdiction-list-monetary-protectionism|jurisdiction-list monetary protectionism]] の論旨と同じであり、通貨の配管は政治的整合性に従う。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 採用指標（直近の公開値）
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-| レイヤー | 指標 | 直近の公開値 | 出典 |
-
-
-
-
-
-
-
+| レイヤー | Metric | 直近の公開数値 | 出典 |
 |---|---|---|---|
-
-
-
-
-
-
-
-| 国内e-CNY | 累計取引額 | **CNY 1 兆超**（PBoC公開発信 2024-2025） | PBoC記者会見およびワーキングペーパー更新 |
-
-
-
-
-
-
-
-| 国内e-CNY | 登録ウォレット | **180M+** 個人ウォレット（ワーキングペーパー推計） | PBoCワーキングペーパー |
-
-
-
-
-
-
-
-| HKリンク | 対象GBA都市 | **11** / 11 GBA都市 + Macau | HKMA / PBoC 共同公表 |
-
-
-
-
-
-
-
-| mBridge | 創設メンバー + 新規メンバー | **6** 中央銀行（CN / HK / TH / AE / SA、Brazil は 2026 H2） | BIS Innovation Hub 発表 2024-2025  |
-
-
-
-
-
-
-
-| mBridge | 決済レイテンシ | テストで **< 10 秒** のファイナリティ | BIS Project mBridge 進捗報告 |
-
-
-
-
-
-
-
-| Belt-and-Road | 稼働中のコモディティ・コリドー | パイロットは言及されているが、コリドー別取引量は未公表 | PBoC + 商業相手方プレスの混合 |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-累計取引額は最も引用される統計だが、**2020-2025  累計**として、リテール、B2B、政府現金給付のすべてを束ねており、国有主体を介した給与支払いのような大型ヘッドライン取引も含む。独立観察者は、アクティブウォレット活動が登録ウォレット数を実質的に下回ると指摘する。この差は、CBDC報告で典型的な累計値とアクティブ値のギャップである（反論も参照）。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| 国内 e-CNY | pilot-area の cumulative transaction value | 2024 年末 **CNY 9.4 trillion** | PBoC financial-inclusion indicators report |
+| 国内 e-CNY | pilot-area の cumulative transaction | 2024 年末 **2.56 billion** | PBoC financial-inclusion indicators report |
+| 香港 link | Wallet access | 香港 mobile-number registration と FPS top-up を 2024 年 5 月開始 | HKMA announcement・user guide |
+| mBridge | 特定された member authority | **5**: 4 founder + SAMA | BIS handover-era project page |
+| mBridge | Platform status | 2024 年半ばに MVP。法域の準備状況を条件に real-value enabled | BIS handover-era project page |
+| Belt-and-Road | Commodity-corridor metric | 再現可能な公式 series を特定できず | aggregate e-CNY または RMB data で代替しない |
+
+二つの数値は、記載された reporting date までの pilot-area における cumulative transaction と value である。active-wallet series ではなく、引用 report は比較可能な active-user または active-wallet denominator を提供していない。したがって、report が明記する範囲を超えて activity rate や use-case mix を立証することはできない。
 
 ## 拡張フェーズのアーキテクチャと設計選択
 
+domestic design の行は PBoC white paper、mBridge の行は BIS project page を用いる。第 3 列は公表された目的または証拠の境界を記録し、performance measurement や推定した動機ではない。^[https://www.pbc.gov.cn/en/3688110/3688172/4157443/4293696/2021071614584691871.pdf; https://www.bis.org/about/bisih/topics/cbdc/mcbdc_bridge.htm]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-| 設計選択 | 内容 | 中国が選んだ理由 |
-
-
-
-
-
-
-
+| 設計選択 | 内容 | 証拠または公表 rationale |
 |---|---|---|
+| 二層（PBoC → authorised operator → user） | PBoC が e-CNY を発行し、authorised operator が国内 design と対応する香港 wallet link で exchange・circulation service を提供 | PBoC white paper は、二層 design が既存 resource を利用し commercial institution の役割を維持すると説明する。[[fintech/cbdc-multi-tier-architecture-three-paradigms|three-paradigms]] を参照 |
+| Controllable anonymity | lower-tier wallet は少ない identifying information で利用でき、higher-tier service はより強い identification を要求 | PBoC は AML/CFT control とともに「small value の anonymity、high value の traceability」を説明 |
+| Programmability（限定） | 公式資料は smart-contract programmability と範囲限定の pilot use を説明 | 引用資料は unrestricted または general-purpose DeFi functionality を立証しない |
+| Retail e-CNY に利息なし | retail e-CNY は non-interest-bearing | PBoC は e-CNY を M0 instrument と位置づける。より広い deposit effect はここでは測定しない |
+| Wholesale と retail の cross-border surface を分離 | mBridge は wholesale multi-CBDC platform、香港 wallet link は別の retail arrangement | 資料は二つの異なる service を記録し、universal cross-border policy を示さない |
+| mBridge の PvP atomic settlement | PvP は cross-currency transaction の settlement risk 低減を目的とする | BIS は settlement objective を説明するが、本ページは comparative performance measure を提示しない |
 
+文書で確認できる stage boundary はより限定的である。香港 link は retail cross-boundary access を提供し、mBridge は wholesale multi-CBDC MVP stage に到達して partner へ引き渡された。引用資料は global retail availability、望ましい将来 sequence、または一方の拡張がより安全・control 可能であるとの比較を立証しない。
 
+## 競争上の文脈としての香港ステーブルコイン licence
 
+[[fintech/hkma-stablecoin-licensing-overview|HKMA Stablecoins Ordinance]] は 2025 年 8 月 1 日に発効した。live HKMA register、HKMA の 2026 年 5 月 Legislative Council briefing、issuer の直接発表は、The Hongkong and Shanghai Banking Corporation Limited と Anchorpoint Financial Limited を最初の 2 licensee として特定し、grant date を 2026 年 4 月 10 日としている。下表は licence status と公表 product plan を分ける。licence だけでは token が live であることを立証しない。^[https://www.hkma.gov.hk/eng/regulatory-resources/registers/register-of-licensed-stablecoin-issuers/; https://www.hkma.gov.hk/media/eng/doc/about-the-hkma/legislative-council-issues/20260504e2.pdf; https://www.about.hsbc.com.hk/news-and-media/hsbc-welcomes-hkmas-grant-of-a-hong-kong-stablecoin-issuer-licence; https://www.sc.com/en/press-release/standard-chartered-backed-anchorpoint-granted-stablecoin-issuer-licence-by-the-hong-kong-monetary-authority/]
 
-
-
-
-| 二層型（PBoC → 10 運営機関 → 利用者） | 国内e-CNYと同じ二層モデルをHK / mBridgeへ拡張。 | 商業銀行の役割を維持し、[[fintech/cbdc-multi-tier-architecture-three-paradigms|three-paradigms]] の二層設計と整合させ、4  の国有商業銀行にとって政治的安定性を確保する。 |
-
-
-
-
-
-
-
-| 管理可能な匿名性 | 低階層ウォレットは閾値未満で匿名、高階層KYCは本人情報を追跡。 | AML期待に対応し、中国本土の規制権限を保持する。 |
-
-
-
-
-
-
-
-| プログラマビリティ（限定的） | 2023  以降、使途指定補助金や農業補助金などのスマートコントラクト・パイロット。 | 完全なDeFi化を避けつつ、政府現金給付のユースケースを可能にする。 |
-
-
-
-
-
-
-
-| リテールe-CNYに利息なし | リテールウォレットの利息はゼロ。 | 商業銀行からの預金流出を防ぐ。 |
-
-
-
-
-
-
-
-| クロスボーダーはホールセール限定 | mBridgeは中央銀行仲介のクロスボーダーのみを扱う。リテールHKリンクは例外。 | 資本勘定管理と為替政策を維持する。 |
-
-
-
-
-
-
-
-| mBridge上のPvPアトミック決済 | 通貨横断CBDCスワップのHerstattリスクを除去する。 | コルレス銀行摩擦を減らし、貿易金融決済を高速化する。 |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2025-2026  フェーズを定義する構造的選択は、**ホールセール・リングを先に、リテール・クロスボーダーを後に**置くことである。中国はGBA国境を越えたe-CNY利用を容易にする意思はあるが、まだグローバルに開放する段階ではない。mBridgeリングは中央銀行対中央銀行の仕組みであり、リテール対リテールではないため、安全で管理された拡張である。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 競争環境としての香港ステーブルコイン・ライセンス
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-e-CNY拡張にとって 2026  時点で最も重要な展開は、e-CNYそのものではない。[[fintech/hkma-stablecoin-licensing-overview|HKMA Stablecoin Ordinance]] である。同制度は 2025-08  に施行され、2026-05-21 に最初のライセンスを発行した である。第一陣は次のとおり。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-| ライセンシー | ペッグ通貨 | 注記 |
-
-
-
-
-
-
-
+| Licensee | 公表 product scope | 証拠の境界 |
 |---|---|---|
+| The Hongkong and Shanghai Banking Corporation Limited | HSBC は 2026 年後半の HKD-denominated stablecoin launch を計画し、まず PayMe と HSBC HK App に統合して、特定の payment・tokenised-investment use case に使うとしている | これは HSBC の 2026-04-10 発表時点の計画であり、2026-07-30 に token が live だった証拠ではない。tokenised-investment use は関連する approval を条件とする |
+| Anchorpoint Financial（Standard Chartered / HKT / Animoca joint venture） | phased issuance を計画する HKD-backed stablecoin の HKDAP | licence は 2026 年 4 月 10 日付与。planned issuance は live product と同じではない |
 
+他 applicant の status は press shortlist から推定せず、live HKMA register で確認すべきである。[[fintech/hkma-stablecoin-licensing-implications|HKMA licence の含意]]を参照。2 licence は HKD-referenced alternative の可能性を確立するが、product launch、customer access、実際の cross-border use には別の証拠が必要である。^[https://www.hkma.gov.hk/eng/regulatory-resources/registers/register-of-licensed-stablecoin-issuers/]
 
-
-
-
-
-
-| HSBC | HKDおよびUSD | グローバル銀行。政治リスクが最も低い申請者。 |
-
-
-
-
-
-
-
-| Standard Chartered Anchorpoint（Animoca + HKT との共同ビークル） | HKDおよびUSD | 銀行 + テックのコンソーシアム。クロスボーダー貿易フロー向けの位置づけ。 |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-中国本土系の申請者（Ant International、JD-HKD、Bank of China Hong Kong）とTetherは第一陣に含まれなかった。[[fintech/hkma-stablecoin-licensing-implications|HKMA licensing implications]] を参照。競争上の帰結は、**HKのSMEとグローバルな相手方が、クロスボーダーのHKD建てまたはUSD建て請求において、e-CNYに代わるライセンス済み手段を持つようになった**ことである。戦略上の問いは、HKMAステーブルコイン・レールがe-CNY香港リンクからフローを奪うのか、それとも顧客層が異なるため共存するのかである（本土向け支払いはe-CNY、グローバル貿易はHKDステーブルコイン）。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-HKMAの公開シグナルは、この枠組みがe-CNYを置き換えるのではなく**補完する**ことを意図していると示唆する。どちらのレールもHK側ではHKMA監督下にあり、理論上はHK銀行を通じて決済でき、理論上は [[fintech/bis-project-ensemble-overview|HKMA Project Ensemble]] のトークン化預金インフラへ接続できる。実務上の問いは、SMEが自らのクロスボーダー用途において、摩擦の少ないPBoCライセンス下e-CNYを好むのか、信頼性の高いHKMAライセンス下ステーブルコインを好むのかである。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+HKMA 資料は stablecoin-issuer licensing regime と、別の e-CNY / FPS pilot を立証する。両 rail の substitution / complementarity、customer preference、香港 bank を通じた settlement integration、または [[fintech/bis-project-ensemble-overview|HKMA Project Ensemble]] との interoperability は立証しない。product-level または corridor-level の connection には別の証拠が必要である。
 
 ## 起源と進化
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```
+2014        PBoC が e-CNY research を開始
+2017        CBDC architecture に関する BIS / IMF / ECB paper
+2020-04     PBoC e-CNY domestic retail pilot を開始（4 都市）
+2021        BIS Innovation Hub Hong Kong Centre が PBoC + HKMA + BoT + CBUAE と mBridge を開始
+2022-04     国内 e-CNY pilot を 23 都市へ拡張
+2023        香港居住者向け cross-boundary pilot。smart-contract pilot 開始
+2024-03     HKMA Project Ensemble 開始（香港の tokenised-deposit sandbox）
+2024-04     BIS Project Agorá を 7 central bank で開始
+2024-05     香港 mobile-number wallet registration と FPS top-up 開始
+2024-06     Saudi SAMA が mBridge に参加（5 番目の central bank）
+2024-10     mBridge が MVP に達した後、BIS が partner へ引渡し
+2025-08     HKMA Stablecoin Ordinance 発効
+2026-04-10  香港で最初の 2 stablecoin issuer licence を付与
+2026-05     Agorá が 8 central bank と 40 超の regulated institution による prototype を報告
+2026-07-30  Brazil の mBridge 参加を確認する引用可能な公式資料なし
 ```
 
-
-
-
-
-
-
-2014         PBoCがe-CNY研究を開始
-
-
-
-
-
-
-
-2017         BIS / IMF / ECBがCBDCアーキテクチャに関する論文を公表
-
-
-
-
-
-
-
-2020-04      PBoCが国内リテールe-CNYパイロットを開始（4 都市）
-
-
-
-
-
-
-
-2021         BIS Innovation Hub Hong Kong CentreがPBoC + HKMA + BoT + CBUAEとmBridgeを開始
-
-
-
-
-
-
-
-2022-04      国内e-CNYパイロットが 23 都市へ拡大
-
-
-
-
-
-
-
-2023         HK居住者向けクロスバウンダリー・パイロットとスマートコントラクト・パイロットが開始
-
-
-
-
-
-
-
-2024-03      HKMA Project Ensembleが開始（HKのトークン化預金サンドボックス）
-
-
-
-
-
-
-
-2024-04      BIS Project Agoráが開始（7 G10 中央銀行 + 40+ 銀行）
-
-
-
-
-
-
-
-2024-06      Saudi SAMAがmBridgeに参加（5番目の中央銀行）
-
-
-
-
-
-
-
-2024-10      BISがmBridgeの運用上の役割から退出すると発表
-
-
-
-
-
-
-
-2024-10      BoJほかがBIS技術ワークショップに参加
-
-
-
-
-
-
-
-2025-08      HKMA Stablecoin Ordinanceが施行
-
-
-
-
-
-
-
-2025-09      mBridgeが商用運用フェーズに入る
-
-
-
-
-
-
-
-2025         GBA 11都市でe-CNYの通常利用が始まり、HK FPSチャージが一般化
-
-
-
-
-
-
-
-2026-Q1      India RBIがホールセール ↔ リテール相互運用テストを実施（別プログラム）
-
-
-
-
-
-
-
-2026-Q2      mBridge ↔ Brazil DREX統合テストが開始
-
-
-
-
-
-
-
-2026-05-21  HKMAが最初のステーブルコイン・ライセンスを発行（HSBC + Anchorpoint）
-
-
-
-
-
-
-
-2026-H2      Brazil DREXの正式なmBridge統合が見込まれる
-
-
-
-
-
-
-
-```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**拡張パターン**: 各レイヤーは、前のレイヤーが閾値となる準備水準に達した時点で追加された。国内安定化 → 香港パイロット → mBridge MVP → mBridge商用化 → 大陸間統合という順序である。各ステップの政治的前提は相手方中央銀行からの二国間または多国間の同意であり、これはG7  通貨当局からよりも、一帯一路 / BRICS+ の整合性の中で実質的に得やすい。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+**非因果的な chronology**: 公開記録が示すのは domestic pilot、香港 retail link、mBridge の MVP 到達と partner への引渡し、別個の香港 stablecoin-issuer regime である。各 layer が前段階の readiness threshold を待ったこと、mBridge が general commercial operation に入ったこと、cross-continent integration が続いたこと、または特定 geopolitical bloc で consent を得やすいことは立証しない。
 
 ## 関連項目
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - [[INDEX|Wiki Index]]
-
-
-
-
-
-
-
 - [[fintech/INDEX|Fintech Index]]
-
-
-
-
-
-
-
 - [[fintech/cbdc-adoption-curve-china-japan-eu-india-2026|CBDC adoption curve 2026]]
-
-
-
-
-
-
-
-- [[fintech/cbdc-multi-tier-architecture-overview|CBDC 多层架构概览]]
-
-
-
-
-
-
-
-- [[fintech/cbdc-multi-tier-architecture-three-paradigms|CBDC 三大现役范式]]
-
-
-
-
-
-
-
-- [[fintech/cbdc-multi-tier-architecture-tradeoffs|CBDC 架构选择 4 核心权衡]]
-
-
-
-
-
-
-
-- [[fintech/mbridge-bis-multi-cbdc-overview|mBridge BIS 多 CBDC 跨境结算桥]]
-
-
-
-
-
-
-
-- [[fintech/mbridge-bis-multi-cbdc-vs-agora|mBridge vs Agorá]]
-
-
-
-
-
-
-
+- [[fintech/cbdc-multi-tier-architecture-overview|CBDC multi-tier architecture overview]]
+- [[fintech/cbdc-multi-tier-architecture-three-paradigms|CBDC の三つの現行 paradigm]]
+- [[fintech/cbdc-multi-tier-architecture-tradeoffs|CBDC architecture 選択の 4 tradeoff]]
+- [[fintech/mbridge-bis-multi-cbdc-overview|mBridge BIS multi-CBDC cross-border settlement bridge]]
+- [[fintech/mbridge-bis-multi-cbdc-vs-agora|mBridge と Agorá]]
 - [[fintech/mbridge-six-central-banks-roster|mBridge six central banks roster]]
-
-
-
-
-
-
-
-- [[fintech/mbridge-non-usd-settlement-ring-scale|mBridge non-USD 決済 ring scale]]
-
-
-
-
-
-
-
+- [[fintech/mbridge-non-usd-settlement-ring-scale|mBridge non-USD settlement ring scale]]
 - [[fintech/bis-project-agora-overview|BIS Project Agorá]]
-
-
-
-
-
-
-
-- [[fintech/bis-project-agora-vs-mbridge|Agorá vs mBridge strategic comparison]]
-
-
-
-
-
-
-
+- [[fintech/bis-project-agora-vs-mbridge|Agorá と mBridge の戦略比較]]
 - [[fintech/bis-project-ensemble-overview|HKMA Project Ensemble]]
-
-
-
-
-
-
-
 - [[fintech/hkma-stablecoin-licensing-overview|HKMA Stablecoin Licensing Overview]]
-
-
-
-
-
-
-
 - [[fintech/hkma-stablecoin-licensing-implications|HKMA licensing implications]]
-
-
-
-
-
-
-
-- [[fintech/jurisdiction-list-monetary-protectionism|jurisdiction-list monetary protectionism]]
-
-
-
-
-
-
-
-- [[fintech/central-banking-function-unbundling|央行职能解体五层]]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- [[fintech/jurisdiction-list-monetary-protectionism|法域 list と通貨保護主義]]
+- [[fintech/central-banking-function-unbundling|中央銀行機能の五層分解]]
 
 ## 出典
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- People's Bank of China — e-CNY R&D progress and ワーキングペーパー: https://www.pbc.gov.cn/en/3688110/3688172/index.html
-
-
-
-
-
-
-
-- HKMA — Project Ensemble, e-HKD, and Stablecoin Ordinance プレスリリース: https://www.hkma.gov.hk/eng/news-and-media/press-releases/
-
-
-
-
-
-
-
-- BIS Innovation Hub — Project mBridge 進捗資料: https://www.bis.org/about/bisih/topics/cbdc.htm
-
-
-
-
-
-
-
-- BIS ワーキングペーパー No. 1116  "The next-generation monetary system — a blueprint" および Innovation Hub の mBridge MVP 報告
-
-
-
-
-
-
-
-- mBridgeガバナンス移行に関するBIS公開声明（2024-10  / 2025-10）
-
-
-
-
-
-
-
-- Bank of Thailand — クロスボーダーCBDCに関するBoTプレスリリース: https://www.bot.or.th/en/news-and-media/news/
-
-
-
-
-
-
-
-- Central Bank of the UAE — 公開発信: https://www.centralbank.ae/en/news/
-
-
-
-
-
-
-
-- HKMA + PBoC — Greater Bay Area におけるクロスバウンダリーe-CNY利用に関する共同公表
-
-
-
-
-
-
-
-- HKMA Stablecoin Ordinance プレスリリース（2025-08  の施行、2026-05-21 の初回ライセンス発行）
-
-
-
-
-
-
-
-- BIS Innovation Hub Project Agorá 公開資料: https://www.bis.org/about/bisih/topics/cbdc/agora.htm
+- [HKMA — 香港における cross-boundary e-CNY pilot の拡張（2024-05-17）](https://www.hkma.gov.hk/eng/news-and-media/press-releases/2024/05/20240517-4/)
+- [HKMA — e-CNY wallet user guide](https://www.hkma.gov.hk/media/eng/doc/key-information/press-release/2024/20240517e3a2.pdf)
+- [BIS — mBridge handover 時点の project record](https://www.bis.org/about/bisih/topics/cbdc/mcbdc_bridge.htm)
+- [PBoC — e-CNY white paper](https://www.pbc.gov.cn/en/3688110/3688172/4157443/4293696/2021071614584691871.pdf)
+- [PBoC — 2024–2025 financial-inclusion indicators](https://www.pbc.gov.cn/xindaishichangsi/5443861/5443865/5443892/5957f8d15a824e9e88d01710873482d3/2025110711361912922.pdf)
+- [HKMA — financial infrastructure に関する Legislative Council briefing（2026-05-04）](https://www.hkma.gov.hk/media/eng/doc/about-the-hkma/legislative-council-issues/20260504e2.pdf)
+- [HKMA — Register of Licensed Stablecoin Issuers](https://www.hkma.gov.hk/eng/regulatory-resources/registers/register-of-licensed-stablecoin-issuers/)
+- [HSBC — stablecoin issuer licence と HKD product plan（2026-04-10）](https://www.about.hsbc.com.hk/news-and-media/hsbc-welcomes-hkmas-grant-of-a-hong-kong-stablecoin-issuer-licence)
+- [Standard Chartered — Anchorpoint licence と HKDAP product plan（2026-04-10）](https://www.sc.com/en/press-release/standard-chartered-backed-anchorpoint-granted-stablecoin-issuer-licence-by-the-hong-kong-monetary-authority/)
+- [BIS — Project Agorá](https://www.bis.org/about/bisih/topics/fmis/agora.htm)

@@ -1,67 +1,80 @@
 ---
 source: fintech/issuer-distributor-incentive-realignment-arc-strategy
-source_hash: 219c32ad91403987
+source_hash: b1e70d0d26dde054
 lang: ja
+model: source-language-sync
 status: machine
 fidelity: ok
-title: "Circle Arc 戦略 · 発行体が 50% 分配を取り戻す §501 エンドゲーム"
-translated_at: 2026-06-02T13:21:55.079Z
+title: "Circle Arc 戦略 · 発行体と分配者の経済性"
+translated_at: 2026-07-30T02:03:00+09:00
 ---
 
-# Circle Arc 戦略 · 発行体が 50% 分配を取り戻す §501 エンドゲーム
+# Circle Arc 戦略 · 発行体と分配者の経済性
 
-## ウィキ上の位置づけ
+## Wiki route
 
-この項目は [[fintech/INDEX|fintech index]] の配下に位置する。隣接文脈は [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]]、より広いシステム境界は [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] とあわせて読む。
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/issuer-distributor-incentive-realignment-50-50-model|issuer / distributor model]], [[fintech/stablecoin-chain-token-strategy-trilemma|stablecoin-chain trilemma]], and [[systems/cctp-v2-overview|CCTP v2]].
 
-> [!info] 要約
-> Circle が 2025.09 に公表した Arc(自社運営 L1)の真の戦略目標 = **Arc 上の USDC 利息は Coinbase に 50% を分配する必要がない** —— 技術問題ではなく経済問題である。USDC が Arc 上で流通量を $0 から $5B に増やせば、Circle が追加保有できる利息 = $5B × 4.5% × 50% = **$112.5M/年**の純増収(USDC を新規発行する必要なし)。これはステーブルコイン発行体・分配者間の均衡再構築の中核サンプルである。
+> [!info] TL;DR
+> Circle は 2025-08 の決算資料で Arc を公表し、2025-10-28 に public testnet を開始した。Circle の 2025 Form 10-K は Arc、Circle Digital Assets、Circle Applications を相互補完する三本柱として説明する。同じ 10-K は Coinbase への USDC distribution costs と、第三者 incentive payment を必要としない organic growth が増えれば distribution costs が低下し得ることも開示する。ただし、Circle は Arc の目的を「Coinbase への 50% 支払い回避」と公表しておらず、Arc 上の USDC が契約上どの payment-base bucket に入るかも公開資料だけでは確定できない。 ^[https://www.circle.com/pressroom/circle-reports-second-quarter-2025-results] ^[https://investor.circle.com/news/news-details/2025/Circle-Launches-Arc-Public-Testnet/default.aspx] ^[https://www.sec.gov/Archives/edgar/data/1876042/000187604226000062/crcl-20251231.htm]
 
-## 主要事実
+## 確認できる Arc の状態
 
-- Arc 2025.09 公表 · 2026.Q1-Q2 テストネット · 2026.Q4 メインネット予定 ^[extracted]
-- Circle 利息の Coinbase 50% 分配 = $905M/年(2024)が回収目標の潜在規模 ^[extracted]
-- Arc は Circle 既存の CCTP と互換 = Circle が自ら分配チャネルをコントロール ^[extracted]
+- Circle は Arc を open、EVM-compatible の Layer-1 と説明する。
+- Public testnet は 2025-10-28 に開始され、100 以上の launch / design participants が公表された。
+- Circle は initial development and operation を steward しつつ、長期的には validator participation と governance を広げる構想を示す。
+- 2025 年度決算時点で mainnet は 2026 年中の launch を目標としていたが、固定日を示していない。
+- 2025 10-K は Arc を USDC だけの distribution channel ではなく、payments、FX、capital markets などを支える platform pillar と位置付ける。
 
-## メカニズム / 仕組み
+^[https://investor.circle.com/news/news-details/2025/Circle-Launches-Arc-Public-Testnet/default.aspx] ^[https://www.sec.gov/Archives/edgar/data/1876042/000187604226000062/crcl-20251231.htm]
 
-**表向き vs 実際**:
+## Coinbase 契約で確認できること
 
-| 表向きの語り | 実際の戦略 |
-|---|---|
-| 「USDC 最適化」L1 を提供 | 技術問題ではない(Tempo / Codex 解決済) |
-| オンチェーン USDC 体験の向上 | 経済問題 —— **Arc 上 USDC 利息を Coinbase に 50% 分配しない** |
-| Circle 既存 CCTP との互換性 | Circle が自ら分配チャネルをコントロール |
+Circle と Coinbase の 2025 Form 10-K は同じ基本構造を開示する。Circle が issuer portion を保持し、両社が各 platform 上の残高に基づく allocation を受け、承認済み第三者への支払い控除後、Coinbase が broader-ecosystem payment base の残りの半分を受ける。これは単純な「全 USDC reserve income の 50/50」ではない。 ^[https://www.sec.gov/Archives/edgar/data/1876042/000187604226000062/crcl-20251231.htm] ^[https://www.sec.gov/Archives/edgar/data/1679788/000167978826000015/coin-20251231.htm]
 
-**三者均衡の可能な経路**:
+Circle は 2025 年に Coinbase 関連 distribution costs として $1.4 billion、2024 年に $924.5 million を計上したと開示した。この費用には契約式による複数の allocation が含まれるため、全額を「50% revenue share」と呼ぶべきではない。
 
-| 経路 | Coinbase 損益 | Circle 損益 | エンドゲーム |
-|---|---|---|---|
-| A. 現状維持(50/50 不変) | $305M/Q 維持 | Arc 単独で USDC on Base を侵食 | 5 年以内に Arc USDC > Base USDC · 分配が自動再均衡 |
-| B. 40/60 に交渉 | ~$60M/Q 減 | ~$60M/Q 増 | 双方譲歩 · 連合維持 |
-| C. Coinbase が BASE トークン発行 | 短期 USDC 収入の 50% を失う | Arc が USDC 成長を独占 | Coinbase は USDC 分配から撤退 |
-| D. Circle が能動的に Arc 比重低減 | 50% 維持 | Arc 交渉レバーを失う | 不可能(Circle は上場で株主責任) |
+## 事実と分析の分離
 
-**最有力 = 経路 B(40/60 への交渉)または A → B の漸進的移行**。
+下表は公開開示と、そこから導ける限定的な戦略仮説を分ける。 ^[https://www.sec.gov/Archives/edgar/data/1876042/000187604226000062/crcl-20251231.htm] ^[https://investor.circle.com/news/news-details/2025/Circle-Launches-Arc-Public-Testnet/default.aspx]
 
-**Coinbase 側の対応選択**:BASE トークンを発行しない = USDC 主要分配を維持しつつ Arc に持続的侵食される。BASE トークンを発行 = 過激な再構築 + 自社ステーブルコイン戦線を起動。第三の経路 = Circle と分配比率を再交渉し、その対価として Coinbase がトークンを発行しない。
+| 論点 | 公開資料で確認できる事実 | 分析上の境界 |
+|---|---|---|
+| Arc の目的 | Circle platform の一柱として stablecoin finance、payments、FX、capital markets を支える | Coinbase 支払い回避が「真の目的」とは確認できない |
+| Distribution economics | Coinbase と他 distributor への費用があり、organic growth mix が費用を左右し得る | Arc 残高の契約上の扱いは非公開条項を含み得る |
+| Mainnet | 2026 年中を目標とする会社説明 | 2026-Q4 の固定予定とは扱わない |
+| CCTP / multichain | Circle は既存 partner chains との interoperability 維持を説明 | Base を意図的に侵食する数量目標は確認できない |
+| Native economics | Arc の fees、stablecoin gas、network participation は設計論点 | `$5B × 4.5% × 50%` は前提依存の scenario であり forecast ではない |
 
-## 起源と進化
+## 適切な戦略仮説
 
-2018-2024 = Coinbase + Circle 連合が安定 · 50/50 維持。2024.Q4 = Stripe / Visa / SC が参入 · 複数のステーブルコイン L1 プロジェクトが浮上([[fintech/protocol-hedge-strategy-stripe-pattern|Tempo]] / Codex / Plasma) · Circle の outside option 集合を変化させる。2025.07 = GENIUS Act §501 でコンプラ標準化 · Circle はもはや Coinbase の「コンプラ裏付け」を必要としない。2025.09 = Arc 公表 = Circle は「垂直統合」のレバーを使い Coinbase に再交渉を迫る。2026 Arc メインネット稼働 = 交渉が実戦段階に入り、[[systems/cctp-v2-overview|CCTP v2]] とのブリッジで Base 単一チェーンのロックインを希釈する必要がある。
+Arc が成功すれば、Circle は issuance、network infrastructure、applications を同一 platform strategy の中で調整しやすくなる。また 10-K が述べるように、第三者 incentive payments を必要としない成長の比率は distribution-cost mix に影響し得る。したがって「Arc が Circle の outside option を増やす」は検証可能な仮説である。
 
-**歴史的類比**:Visa / Mastercard と発行銀行間の interchange 再交渉 · Apple ↔ Google 検索デフォルト契約(2024 反トラスト) · Microsoft ↔ IBM OS 契約(1990 年代)。**コア法則**:総価値の 50% を分配側が占める協定は、規制 / 技術変革のウィンドウで必ず再交渉される。
+一方で、次の旧記述は公開資料で裏付けられないため撤回した。
 
-## 関連項目
+- Arc 上の USDC reserve income は Coinbase 契約の対象外である。
+- Circle が 40/60 再交渉を目標としている。
+- Base token 発行と引き換えに Coinbase が USDC 分配から撤退する。
+- Arc が 5 年以内に Base の USDC を上回る。
+- GENIUS の特定条項により Circle が Coinbase の compliance support を不要とした。
+
+## 追跡指標
+
+今後の検証は、(1) mainnet launch と network governance、(2) Arc 上の native USDC / other stablecoin supply、(3) Circle の distribution-cost disclosures、(4) Coinbase Collaboration Agreement の更新、(5) Arc applications の外部利用を分けて追う。契約変更が開示されるまでは、ネットワーク残高から revenue-share の変更を逆算しない。
+
+## Related
+
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/issuer-distributor-incentive-realignment-50-50-model|発行体・分配者 50/50 モデル]]
-- [[fintech/stablecoin-chain-token-strategy-trilemma|ステーブルコイン公開チェーン・トークン戦略のトリレンマ]]
-- [[fintech/circular-reserve-asset-flywheel-overview|準備資産相互ロックのフライホイール · 概要]]
-- [[fintech/onchain-finance-vs-crypto-bifurcation|オンチェーン金融 vs 暗号文化の分離]]
-- [[fintech/portfolio-winner-structure-arm-analog|ポートフォリオ勝者構造 · ARM アナロジー]]
+- [[fintech/issuer-distributor-incentive-realignment-50-50-model|発行体・分配者モデル]]
+- [[fintech/stablecoin-chain-token-strategy-trilemma|ステーブルコイン・チェーン戦略]]
+- [[systems/cctp-v2-overview|CCTP v2]]
+- [[fintech/portfolio-winner-structure-arm-analog|ポートフォリオ構造]]
 <!-- /wiki-links:managed -->
 
-## 出典
+## Sources
 
-- Circle Arc 発表(2025.09) · Coinbase Q1 2025 決算
+- Circle · Q2 2025 results / Arc announcement: https://www.circle.com/pressroom/circle-reports-second-quarter-2025-results
+- Circle · Arc public testnet: https://investor.circle.com/news/news-details/2025/Circle-Launches-Arc-Public-Testnet/default.aspx
+- Circle · 2025 Form 10-K: https://www.sec.gov/Archives/edgar/data/1876042/000187604226000062/crcl-20251231.htm
+- Coinbase · 2025 Form 10-K: https://www.sec.gov/Archives/edgar/data/1679788/000167978826000015/coin-20251231.htm

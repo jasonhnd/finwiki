@@ -1,67 +1,78 @@
 ---
 source: fintech/issuer-distributor-incentive-realignment-arc-strategy
-source_hash: 219c32ad91403987
+source_hash: b1e70d0d26dde054
 lang: en
 status: machine
 fidelity: ok
-title: "Circle Arc Strategy · Issuer Reclaims 50% of Distribution §501  Endgame"
-translated_at: 2026-05-31T06:16:15.664Z
+title: "Circle Arc Strategy · Issuer and Distributor Economics"
+translated_at: 2026-07-30T02:03:00+09:00
 ---
 
-# Circle Arc Strategy · Issuer Reclaims 50% of Distribution §501  Endgame
+# Circle Arc Strategy · Issuer and Distributor Economics
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|Japan financial regulation — legal framework for tokens, crypto-assets, and payments]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin regulatory landscape — three-layer structure for JPYC, USDC, and Project Pax]] for the broader system boundary.
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/issuer-distributor-incentive-realignment-50-50-model|issuer / distributor model]], [[fintech/stablecoin-chain-token-strategy-trilemma|stablecoin-chain trilemma]], and [[systems/cctp-v2-overview|CCTP v2]].
 
 > [!info] TL;DR
-> The true strategic objective of Arc (Circle's self-operated L1), announced in 2025.09  = **USDC interest earned on Arc does not need to be shared with Coinbase at 50%** — this is an economic problem, not a technical one. If USDC grows its circulation on Arc from $0  to $5B, the additional interest Circle retains = $5B × 4.5% × 50% = **$112.5M/year** net revenue gain (no new USDC issuance required). This is the core sample of the rebalancing of equilibrium between stablecoin issuers and distributors.
+> Circle announced Arc in its August 2025 results and launched the public testnet on 2025-10-28. Circle's 2025 Form 10-K describes Arc, Circle Digital Assets, and Circle Applications as three complementary pillars. The same filing discloses USDC distribution costs paid to Coinbase and says those costs could decline if a larger share of growth is organic and does not require third-party incentive payments. Circle has not, however, stated that Arc's purpose is to “avoid paying 50% to Coinbase,” and public materials do not establish which payment-base bucket USDC held on Arc falls into under the contract. ^[https://www.circle.com/pressroom/circle-reports-second-quarter-2025-results] ^[https://investor.circle.com/news/news-details/2025/Circle-Launches-Arc-Public-Testnet/default.aspx] ^[https://www.sec.gov/Archives/edgar/data/1876042/000187604226000062/crcl-20251231.htm]
 
-## Key facts
+## Verified status of Arc
 
-- Arc announced 2025.09  · 2026.Q1-Q2  testnet · 2026.Q4  mainnet scheduled ^[extracted]
-- Circle's 50% interest distribution to Coinbase = $905M/year (2024), the potential scale of what is being reclaimed ^[extracted]
-- Arc is compatible with Circle's existing CCTP = Circle controls its own distribution channel ^[extracted]
+- Circle describes Arc as an open, EVM-compatible Layer 1.
+- The public testnet launched on 2025-10-28, with more than 100 launch and design participants announced.
+- Circle says it will steward initial development and operation while seeking broader validator participation and governance over time.
+- At the time of the 2025 annual results, mainnet was targeted for launch during 2026; no fixed date was given.
+- The 2025 Form 10-K positions Arc as a platform pillar supporting payments, FX, capital markets, and other stablecoin-finance uses—not solely as a USDC distribution channel.
 
-## Arc as Circle controlled distribution infrastructure
+^[https://investor.circle.com/news/news-details/2025/Circle-Launches-Arc-Public-Testnet/default.aspx] ^[https://www.sec.gov/Archives/edgar/data/1876042/000187604226000062/crcl-20251231.htm]
 
-**Surface narrative vs actual strategy**:
+## What the Coinbase agreement establishes
 
-| Surface narrative | Actual strategy |
-|---|---|
-| Provides an "USDC-optimised" L1  | Not a technical problem (Tempo / Codex already solved it) |
-| Improves the on-chain USDC experience | An economic problem — **USDC interest earned on Arc does not need to be shared with Coinbase at 50%** |
-| Compatible with Circle's existing CCTP | Circle controls its own distribution channel |
+Circle's and Coinbase's 2025 Forms 10-K disclose the same basic structure. Circle retains an issuer portion; each company receives an allocation based on balances held on its own platform; and, after payments to approved third parties, Coinbase receives half of the remaining broader-ecosystem payment base. This is not simply “50/50 of all USDC reserve income.” ^[https://www.sec.gov/Archives/edgar/data/1876042/000187604226000062/crcl-20251231.htm] ^[https://www.sec.gov/Archives/edgar/data/1679788/000167978826000015/coin-20251231.htm]
 
-**Possible paths for the three-way equilibrium**:
+Circle disclosed Coinbase-related distribution costs of $1.4 billion in 2025 and $924.5 million in 2024. Because those costs include several allocations under the contractual formula, the entire amount should not be described as a “50% revenue share.”
 
-| Path | Coinbase P&L | Circle P&L | Endgame |
-|---|---|---|---|
-| A. Status quo (50/50  unchanged) | Maintains $305M/quarter | Arc alone erodes USDC on Base | Within 5  years, Arc USDC > Base USDC · distribution auto-rebalances |
-| B. Negotiate on 40/60  | ~$60M/quarter decrease | ~$60M/quarter increase | Mutual concession · alliance maintained |
-| C. Coinbase issues BASE token | Loses 50% of short-term USDC revenue | Arc monopolises USDC growth | Coinbase exits USDC distribution |
-| D. Circle proactively reduces Arc weight | Maintains 50% | Loses Arc negotiating leverage | Impossible (Circle is public-listed, accountable to shareholders) |
+## Separating facts from analysis
 
-**Most likely = Path B (negotiation on 40/60 ) or gradual A → B transition**.
+The table distinguishes public disclosures from the limits of a strategic hypothesis. ^[https://www.sec.gov/Archives/edgar/data/1876042/000187604226000062/crcl-20251231.htm] ^[https://investor.circle.com/news/news-details/2025/Circle-Launches-Arc-Public-Testnet/default.aspx]
 
-**Coinbase's response options**: Not issuing a BASE token = maintain primary USDC distribution while being gradually eroded by Arc. Issue a BASE token = radical restructuring + launch its own stablecoin front. Third path = renegotiate the distribution ratio with Circle in exchange for Coinbase not issuing a token.
+| Topic | Fact established by public materials | Analytical boundary |
+|---|---|---|
+| Arc's purpose | A pillar of Circle's platform for stablecoin finance, payments, FX, and capital markets | Avoiding Coinbase payments is not confirmed as the “real purpose” |
+| Distribution economics | Circle incurs costs to Coinbase and other distributors, and the organic-growth mix can affect those costs | Contract treatment of Arc balances may depend on non-public terms |
+| Mainnet | Company target of launch during 2026 | Do not treat 2026-Q4 as a fixed date |
+| CCTP / multichain | Circle says it will maintain interoperability with existing partner chains | No verified quantitative target to erode Base |
+| Native economics | Fees, stablecoin gas, and network participation are design questions for Arc | `$5B × 4.5% × 50%` is an assumption-dependent scenario, not a forecast |
 
-## Origin & evolution
+## Appropriate strategic hypothesis
 
-2018-2024  = Coinbase + Circle alliance stable · maintaining 50/50 . 2024.Q4  = Stripe / Visa / SC enter · multiple stablecoin L1  projects emerge ([[fintech/protocol-hedge-strategy-stripe-pattern|Tempo]] / Codex / Plasma) · changes Circle's outside-option set. 2025.07  = GENIUS Act §501  compliance standardisation · Circle no longer needs Coinbase's "compliance backing." 2025.09  = Arc announced = Circle uses the "vertical integration" lever to force Coinbase to renegotiate. 2026  Arc mainnet live = negotiations enter the live phase, requiring bridges with [[systems/cctp-v2-overview|CCTP v2]] to dilute Base single-chain lock-in.
+If Arc succeeds, Circle may be able to coordinate issuance, network infrastructure, and applications within one platform strategy. As the 10-K notes, a larger share of growth that does not require third-party incentive payments may affect the distribution-cost mix. “Arc increases Circle's outside options” is therefore a testable hypothesis.
 
-**Historical analogies**: Visa/Mastercard vs issuing banks interchange renegotiation · Apple ↔ Google search-default contract (2024  antitrust) · Microsoft ↔ IBM OS contract (1990 年 era). **Core law**: agreements where the distribution side captures 50% of total value will inevitably be renegotiated during regulatory/technology change windows.
+The following former claims have been withdrawn because public materials do not substantiate them:
+
+- reserve income from USDC on Arc falls outside the Coinbase agreement;
+- Circle is targeting a 40/60 renegotiation;
+- Coinbase will exit USDC distribution in exchange for issuing a Base token;
+- Arc will overtake USDC on Base within five years; and
+- a specific GENIUS Act provision made Coinbase's compliance support unnecessary for Circle.
+
+## Tracking indicators
+
+Future validation should track separately: (1) mainnet launch and network governance, (2) native USDC and other stablecoin supply on Arc, (3) Circle's distribution-cost disclosures, (4) amendments to the Coinbase Collaboration Agreement, and (5) third-party use of Arc applications. Until a contractual change is disclosed, do not infer a revenue-share change from network balances.
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/issuer-distributor-incentive-realignment-50-50-model|issuer-distributor 50/50 model]]
-- [[fintech/stablecoin-chain-token-strategy-trilemma|stablecoin public-chain and token-strategy trilemma]]
-- [[fintech/circular-reserve-asset-flywheel-overview|circular reserve-asset flywheel overview]]
-- [[fintech/onchain-finance-vs-crypto-bifurcation|on-chain finance versus crypto-culture bifurcation]]
-- [[fintech/portfolio-winner-structure-arm-analog|portfolio winner structure and ARM analogy]]
+- [[fintech/issuer-distributor-incentive-realignment-50-50-model|issuer / distributor model]]
+- [[fintech/stablecoin-chain-token-strategy-trilemma|stablecoin-chain strategy]]
+- [[systems/cctp-v2-overview|CCTP v2]]
+- [[fintech/portfolio-winner-structure-arm-analog|portfolio structure]]
 <!-- /wiki-links:managed -->
 
 ## Sources
 
-- Circle Arc announcement (2025.09) · Coinbase Q1 2025  earnings
+- Circle · Q2 2025 results / Arc announcement: https://www.circle.com/pressroom/circle-reports-second-quarter-2025-results
+- Circle · Arc public testnet: https://investor.circle.com/news/news-details/2025/Circle-Launches-Arc-Public-Testnet/default.aspx
+- Circle · 2025 Form 10-K: https://www.sec.gov/Archives/edgar/data/1876042/000187604226000062/crcl-20251231.htm
+- Coinbase · 2025 Form 10-K: https://www.sec.gov/Archives/edgar/data/1679788/000167978826000015/coin-20251231.htm

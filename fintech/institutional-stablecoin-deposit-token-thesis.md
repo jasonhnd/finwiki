@@ -1,25 +1,27 @@
 ---
-title: 機関投資家市場のステーブルコイン = 銀行発行の預金トークンのみが構造的に解
+title: 機関決済の digital money 選択 —— 預金トークン・stablecoin・tokenized reserves
 aliases: [institutional-deposit-token, deposit-token-thesis]
 domain: fintech
 kind: knowledge
 topic: institutional-stablecoin-deposit-token-thesis
 created: 2026-05-12
-last_updated: 2026-05-18
-last_tended: 2026-06-23
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-09-21
 confidence: likely
-evidence_count: 4
-challenges: 0
-status: confirmed
+status: active
 tags: [fintech, stablecoin, institutional]
 sources:
-  - "https://progmat.co.jp/about/"
-  - "https://progmat.co.jp/concept/"
-  - "Public JPMorgan, BIS, DTCC, Broadridge, and institutional tokenization disclosures."
+  - "https://www.bis.org/about/bisih/topics/fmis/agora.htm"
+  - "https://www.bis.org/publ/othp110.pdf"
+  - "https://www.jpmorgan.com/kinexys/digital-payments/jpm-coin"
+  - "https://www.jpmorgan.com/payments/newsroom/kinexys-milestones-2026"
+  - "https://www.circle.com/pressroom/circle-announces-usdc-smart-contract-for-transfers-by-blackrocks-buidl-fund-investors"
+  - "https://investors.securitize.io/news/news-details/2024/BlackRock-Launches-Its-First-Tokenized-Fund-BUIDL-on-the-Ethereum-Network-03-20-2024/default.aspx"
+  - "https://www.bis.org/cpmi/publ/d215.htm"
 ---
 
-# 機関投資家市場のステーブルコイン = 銀行発行の預金トークンのみが構造的に解
+# 機関決済の digital money 選択
 
 
 ## Wiki route
@@ -27,40 +29,45 @@ sources:
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> 200-300 億円規模の機関決済では、ステーブルコインの KYC・規制水準が決済相手の水準と一致しなければ運用できない。パーミッションレスな USDC/USDT は構造上この市場に入れない。**JPM・三菱・三井住友・JP モルガン等の銀行発行預金トークンが、機関投資家向けステーブルコインの唯一の解**になる。
+> 機関決済では participant eligibility、issuer liability、redemption、settlement finality、sanctions / AML、DvP / PvP、liquidity を同時に満たす必要がある。銀行発行の預金トークンは有力な設計だが、唯一の解ではない。JPM Coin は bank-issued deposit token として機関向けに提供され、BIS Project Agorá は tokenized commercial bank deposits と tokenized central bank reserves の組合せを実証した。一方、BlackRock BUIDL の qualified investors 向け off-ramp に USDC が使われる例もあり、「public-chain stablecoin は機関市場に構造上入れない」とは言えない。^[source:J.P. Morgan JPM Coin; BIS Project Agorá report 2026-05-27; Circle BUIDL-USDC announcement 2024-04-11]
 
 ## Conclusion
 
-機関投資家市場のステーブルコインは、暗号資産マーケットとは完全に別市場で、プレイヤーも違う。
+機関市場と retail / crypto market は access control と legal wrapper が異なり得るが、同じ token や public chain が両方の workflow に現れる場合もある。分類は user label ではなく holder claim と operating controls で行う。
 
-| 観点 | リテール SC（USDC 等） | 機関投資家 SC（預金トークン） |
-|---|---|---|
-| 発行体 | クリプト企業 | 銀行（[[fintech/jpmorgan-jpmd-coin|JPM]]・[[megabanks/mufg|三菱 UFJ]]・[[megabanks/smfg|三井住友]]等） |
-| KYC | パーミッションレス | 銀行口座 KYC = 機関投資家グレード |
-| 規模 | 小口 | 200-300 億円単位 / 案件 |
-| 決済対象 | リテール送金・暗号資産取引 | 米国債、社債、レポ市場、有価証券、FX |
-| プラットフォーム | Ethereum / Solana 等公開チェーン | [[systems/canton-overview|Canton Network]], Arc Network 等機関向け |
+**Digital settlement asset comparison**: ^[source:J.P. Morgan JPM Coin; BIS Project Agorá; Circle and Securitize BUIDL announcements; BIS CPMI-IOSCO stablecoin guidance]
+
+| 形態 | Holder claim / issuer | Access・control | 公開事例 | 主な境界 |
+|---|---|---|---|---|
+| Bank deposit token | commercial bank deposit に対する claim。発行銀行の balance sheet / credit risk | bank onboarding、approved counterparties、transaction monitoring | [[fintech/jpmorgan-jpmd-coin|JPM Coin]] は Base 上の deposit token として payment、collateral、settlement use case を案内 | 単一銀行 liquidity、interbank interoperability、deposit-law treatment を確認 |
+| Tokenized commercial bank deposit + reserves | commercial bank deposit と central bank reserve を shared platform 上で連携 | participating central / commercial banks、embedded compliance | BIS Project Agorá prototype | production deployment、governance、legal finality は実装ごとに確認 |
+| Regulated payment stablecoin | issuer に対する redemption claim と reserve arrangement | chain transfer は open でも mint / redeem、venue、application は KYC / allowlist を持ち得る | BUIDL holders が shares を Circle に transfer して USDC を受け取る smart-contract off-ramp | issuer / reserve risk、jurisdiction、wallet eligibility、settlement finality |
+| Wholesale CBDC / tokenized reserves | central bank liability | 原則として eligible institutions | Project Agorá の settlement leg | end-user access は限定。commercial bank money との接続が必要 |
+| Tokenized MMF share | fund / security に対する持分で、deposit や stablecoin ではない | securities eligibility、transfer restrictions、qualified investors | BlackRock BUIDL | NAV、redemption、market / liquidity risk。cash leg と区別 |
 
 ## Reasoning
 
-- 米国債を 200 億円買う機関投資家が、ステーブルトークン単位で「この KYC 大丈夫か」を毎回チェックすることは不可能 → 同じ KYC レイヤーの発行体である必要
-- イランの人が米国債トークンを持てない（米国 SEC 規制下）→ 発行体側で KYC を完了済の預金トークンでしか決済できない
-- JPM Coin / [[fintech/jp-stablecoin-progmat|Project Pax]] 等の「銀行発行預金トークン」が技術的・規制的に整合する唯一の形態
-- DTCC・Nasdaq・Broadridge が米国債・株式の onchain 化アグリーメント進行中 → これらは全て機関向け、リテール SC は接続しない
-- 「USDC を機関市場で使えるか？」答えは構造的に "No" — プレイヤーが違うから（[[fintech/tokenized-deposit-cumulative-volume-scale|TD 累計量級]] で機関側の実規模が確認できる）
+- **KYC は token label だけで決まらない**。Issuer onboarding、wallet screening、venue rule、asset allowlist、counterparty eligibility を workflow 全体で確認する。
+- **Public chain と permissionless access は同義ではない**。JPM Coin は Base 上にある一方、J.P. Morgan は vetted / approved counterparties のみが transact すると説明する。
+- **預金トークンの利点**は、既存 bank deposit framework、bank balance sheet、on/off-ramp、treasury integration を一体化しやすいこと。欠点は issuer-specific liquidity と interoperability である。
+- **stablecoin の機関利用は実在する**。BUIDL-USDC off-ramp は限定された workflow の evidence であり、すべての securities settlement に USDC が適格だという意味ではない。
+- **wholesale settlement は複数形**。Project Agorá は commercial bank deposits と central bank reserves を組み合わせるため、「deposit token 単独のみ」という設計ではない。
+- 旧版の「1 案件 200–300 億円」「DTCC / Nasdaq / Broadridge の全案件は retail stablecoin に接続しない」は、対象 transaction と一次資料が示されていなかったため削除した。規模比較には [[fintech/tokenized-deposit-cumulative-volume-scale|TD 累計量級]] の期間・定義を個別に検証する。
 
 ## Applicable When
 
-- 機関投資家向けの SC 設計議論（商業設計、institutional pitch 等）
-- 「リテール SC + 機関 SC」を一発で設計しようとする提案を見たとき → 構造的に不可能と即否定
-- 規制議論で「ステーブルコイン」と一括りにする論調を見たとき → 二つは別市場と分離して話す
-- 預金トークンを論じる文脈（[[banking/minna-bank-baas-model|TD/SC]] 等）
+- 機関向け payment / securities settlement の cash leg を比較するとき。
+- deposit token、stablecoin、wholesale CBDC、tokenized MMF を同じ「デジタルドル」と一括りにしないため。
+- public / private chain ではなく、participant control と legal claim を基準に architecture を選ぶとき。
+- [[fintech/jp-stablecoin-progmat|Project Pax]] や [[banking/minna-bank-baas-model|TD/SC]] を評価するときは、proposal / pilot / production、issuer、legal form、chain、eligible user を分ける。
 
-## Source
+## Sources
 
-- 整合: [[fintech/japan-stablecoin-regulatory-landscape|Project Pax]] (MUFG×SMBC×みずほ 機関向け B2B SC)
-- 公開: Broadridge / DTCC / Nasdaq onchain 化アグリーメント (2024-2025)
-- 整合: [[banking/minna-bank-baas-model|みんなの銀行 TD 戦略]] (TD = Tokenized Deposit と同じ系譜)
+- [J.P. Morgan — JPM Coin](https://www.jpmorgan.com/kinexys/digital-payments/jpm-coin) / [Kinexys 2026 milestones](https://www.jpmorgan.com/payments/newsroom/kinexys-milestones-2026) — deposit-token claim、access controls、institutional use cases、Base deployment。
+- [BIS — Project Agorá](https://www.bis.org/about/bisih/topics/fmis/agora.htm) / [2026 report](https://www.bis.org/publ/othp110.pdf) — tokenized central bank reserves と commercial bank deposits の prototype。
+- [Circle — BUIDL holders の USDC transfer](https://www.circle.com/pressroom/circle-announces-usdc-smart-contract-for-transfers-by-blackrocks-buidl-fund-investors) — institutional fund workflow における USDC off-ramp。
+- [Securitize — BlackRock BUIDL launch](https://investors.securitize.io/news/news-details/2024/BlackRock-Launches-Its-First-Tokenized-Fund-BUIDL-on-the-Ethereum-Network-03-20-2024/default.aspx) — qualified investors、fund-share structure。
+- [BIS CPMI-IOSCO — Application of PFMI to stablecoin arrangements](https://www.bis.org/cpmi/publ/d215.htm) — stablecoin arrangement の governance / settlement risk。
 
 ## Related
 <!-- wiki-links:managed -->

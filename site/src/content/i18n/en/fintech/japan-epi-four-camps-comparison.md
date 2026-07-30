@@ -1,64 +1,69 @@
 ---
 source: fintech/japan-epi-four-camps-comparison
-source_hash: dfe5e271a5fa6051
+source_hash: 4d48dbd1752ee1b9
 lang: en
 status: machine
 fidelity: ok
-title: "Japan SC 4 -camp comparison · under the §501(d) lens, SBI Circle = #1"
-translated_at: 2026-06-18T23:59:13.072Z
+title: "Four routes for Japanese stablecoins — issuer / distributor / platform / pilot"
+translated_at: 2026-07-30T02:10:00+09:00
 ---
 
-# Japan SC 4 -camp comparison · under the §501(d) lens, SBI Circle = #1
+# Four routes for Japanese stablecoins — issuer / distributor / platform / pilot
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+This entry sits under [[fintech/INDEX|fintech index]] and compares Japanese stablecoin projects by legal role and current implementation stage. Read [[fintech/japan-epi-three-types-overview|Japan's three EPI issuance routes]] for the statutory routes and [[fintech/japan-stablecoin-regulatory-landscape|the three-layer structure of Japan's stablecoin regime]] for the distinction among issuers, distributors, and platforms.
 
 > [!info] TL;DR
-> Japan SC 4 -camp configuration: Progmat (trust type · 3  megabanks) / JPYC (funds-transfer-operator type · 岡部典孝) / SBI Circle Holdings (USDC monopoly · 北尾吉孝) / みんなの銀行 (bank type, Solana · 永吉健一). **Re-ranked under the §501(d) jurisdiction-list lens: SBI Circle Holdings = #1**, because it is the sole channel of the cross-border-compliance champion USDC ↔ JPYC. Project Pax does not solve §501(d); it solves only SWIFT compatibility.
+> The “four camps” are not a statutory classification. As of July 30, 2026, the comparable routes are (1) JPYC issuance by a funds-transfer service provider, (2) distribution of registered electronic payment instruments by SBI VC Trade, (3) the Progmat / Project Pax platform and bank pilots, and (4) Minna Bank's joint study of stablecoin use on Solana. These routes differ in both role and implementation stage. SBI Circle Holdings is a joint venture for promoting USDC, while SBI VC Trade is the registered operator on the FSA list; they should not be treated as the same entity. The U.S. GENIUS Act does not automatically approve Japanese products, and no official ranking exists.
 
-## Key facts
+## Current map
 
-- 4  camps: Progmat / JPYC / SBI-Circle / みんなの銀行 ^[extracted]
-- Progmat 2028  target: 1 兆円 ^[extracted]
-- JPYC 2028  target: 10 兆円 within 3  years ^[extracted]
-- SBI Circle Holdings established 2025-08  · 50/50  fifty-fifty equity · monopoly sales of USDC in Japan ^[extracted]
-- Under the §501(d) lens, SBI-Circle's rating rises from #3  to #1 ★★★★★ ^[likely]
-- Progmat falls from #1  to #3 ★★★ ^[likely]
-- Project Pax = does not solve §501(d) · solves only SWIFT compatibility ^[extracted]
-- Key figures: 岡部典孝 (JPYC) · 北尾吉孝 (SBI HD) · 永吉健一 (みんなの銀行) · 齊藤達哉 (Progmat) ^[extracted]
-
-## Mechanism / How it works
-
-**4 -camp detail**:
-| Camp | Type | Lead | Key figure | 2028  target |
-|---|---|---|---|---|
-| Progmat | Trust type | Mitsubishi UFJ + Sumitomo Mitsui + Mizuho + Datachain | (3 -megabank consortium) | 1 兆円 |
-| JPYC | Funds-transfer-operator type | JPYC Inc. | 岡部典孝 | 10 兆円 within 3  years |
-| SBI-Circle | USDC monopoly + JPYSC | SBI Circle Holdings (established 2025-08  50/50) | 北尾吉孝 | Independent camp |
-| みんなの銀行 | Bank-type Solana route | Fukuoka FG / みんなの銀行 | 永吉健一 | Undisclosed |
-
-**Re-ranking under the §501(d) lens**:
-| Camp | Position after §501  listing | v1  rating | v2  rating |
+| Route | Legal / operational role | Status established as of 2026-07-30 | Verification caution |
 |---|---|---|---|
-| SBI Circle Holdings | Cross-border-compliance champion USDC ↔ JPYC | #3 | #1 ★★★★★ |
-| JPYC | Top in Japan retail compliance | #2 | #2 ★★★★ |
-| Progmat | B2B wholesale · no cross-border compliance | #1 | #3 ★★★ |
-| みんなの銀行 | Pure domestic retail | #4 | #4 ★★ |
+| **[[payment-firms/jpyc\|JPYC]]** | JPYC Inc. issues and redeems a yen-denominated electronic payment instrument under the funds-transfer-service-provider route | Kanto Local Finance Bureau registration No. 00099. JPYC and the JPYC EX issuance / redemption portal launched on 2025-10-27 | The former JPYC Prepaid was a prepaid payment instrument and is a different product from the electronic payment instrument JPYC |
+| **SBI VC Trade / SBI Circle Holdings** | SBI VC Trade is an electronic payment instruments service provider. SBI Circle Holdings is a joint venture between SBI and Circle to promote USDC | The sole operator on the FSA list is SBI VC Trade (Kanto Local Finance Bureau registration No. 00001), and its handled-assets field lists USDC, RLUSD, and JPYSC. SBI Circle Holdings was established in 2025-08 | Distinguish the joint venture, the registered distributor, USDC issuer Circle, RLUSD issuer Standard Custody, and JPYSC issuer SBI Shinsei Trust Bank |
+| **[[payment-firms/progmat\|Progmat]] / Project Pax** | Provides the Progmat Coin and cross-border remittance platform, while banks, trust banks, Datachain, and others take project-specific roles | The joint issuance and cross-border settlement project announced in 2025-11 is supported by the FSA FinTech Proof-of-Concept Hub. It is not blanket approval for commercial issuance | Progmat is a platform provider, not the legal issuer of every coin |
+| **Minna Bank** | Studying use of its banking app, Web3 wallets, and stablecoins on Solana | Began a joint study toward commercialization with Solana Japan, Fireblocks, and TIS in 2025-07 | Do not treat technical validation and use-case research as an issued product or registered distribution service |
 
-**Core logic**: under the §501(d) listing-list lens, **cross-border-compliance capability > domestic scale**. SBI Circle Holdings' monopoly sales of USDC mean an automatic connection to the §501(d) US-dollar bloc — a capability that none of [[payment-firms/progmat|Progmat]] / [[payment-firms/jpyc|JPYC]] / みんなの銀行 possesses. Project Pax's 3 -megabank cross-border SC project solves only SWIFT compatibility (the technical layer); it does not solve §501(d) compliance (the legal layer).
+Sources: the FSA [list of electronic payment instruments service providers](https://www.fsa.go.jp/menkyo/menkyoj/denshikessaisyudan.xlsx) and [list of funds-transfer service providers](https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf) (accessed 2026-07-30), [JPYC launch release](https://corporate.jpyc.co.jp/news/posts/jpyc-ex-launch), [establishment of SBI Circle Holdings](https://www.sbigroup.co.jp/news/2025/0822_15679.html), [SBI VC Trade pre-contract disclosure](https://www.sbivc.co.jp/assets/docs/manual_tt.pdf), [Progmat joint-pilot announcement](https://progmat.co.jp/wp-content/uploads/2025/11/20251106_%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9_%E3%80%8C%E8%A4%87%E6%95%B0%E3%81%AE%E9%8A%80%E8%A1%8C%E3%81%AB%E3%82%88%E3%82%8B%E5%85%B1%E5%90%8C%E3%81%A7%E3%81%AE%E3%82%B9%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E3%82%B3%E3%82%A4%E3%83%B3%E7%99%BA%E8%A1%8C%E3%81%A8%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC%E6%B1%BA%E6%B8%88%E3%81%AE%E9%AB%98%E5%BA%A6%E5%8C%96%E3%81%AB%E4%BF%82%E3%82%8B%E3%80%8D.pdf), and [Minna Bank joint-study announcement](https://corporate.minna-no-ginko.com/information/corporate/2025/07/04/696/).
 
-## Origin & evolution
+## Why there is no ranking
 
-2023-06  the EPI 3 -type takes effect → 2024 年 the 3  megabanks' Progmat XJPY + JPYC circulation grow simultaneously → 2025-08  SBI Circle Holdings' 50/50  joint-venture establishment shifts the configuration → 2026-Q1  JPYC circulation 21 億円 + 6 万 holders + 2.6 x growth in 3  months → 2026-05  under the §501(d) lens SBI-Circle rises to #1 . 2028  projected final configuration: SBI-Circle cross-border + JPYC retail + Progmat wholesale B2B + みんなの銀行 regional. For an overview of the Japanese license framework, see [[financial-licenses/INDEX|日本金融ライセンス索引]].
+The four routes are not the same competitive unit. JPYC is an issuer and redeemer, SBI VC Trade is a registered distributor, Progmat is a platform provider, and the Minna Bank project is in a study / pilot stage. Combining circulation, targets, executive names, and chain choice into one score to select a “No. 1” would conflate regulatory role with implementation stage.
+
+Inclusion on an FSA list also does not mean that the FSA guarantees or recommends an instrument's value. Registration numbers, handled assets, and issuers can change, so record the list's access date.
+
+## U.S. law does not create an automatic Japan route
+
+The U.S. GENIUS Act (Public Law 119-27) contains no “§501(d) listing.” Comparability determinations and registration procedures concerning foreign issuers and foreign regimes appear principally in section 18 and require a determination by the Treasury Secretary, OCC registration of a foreign issuer, and conditions concerning reserves, supervision, AML, and other matters. Bilateral arrangements also require public procedures. Distribution of USDC in Japan does not automatically approve JPYC or another yen-denominated product in the United States.
+
+Source: [Public Law 119-27, sections 18 and 20](https://www.govinfo.gov/content/pkg/PLAW-119publ27/pdf/PLAW-119publ27.pdf).
+
+## Verification sequence
+
+1. Identify the issuer and its legal issuance basis.
+2. Confirm the registered operator responsible for distribution, exchange, or custody on the FSA list.
+3. Separate the roles of platform provider, trustee, bank, and wallet provider.
+4. Record “study,” “pilot,” “issuance launch,” and “general availability” as different states.
+5. For cross-border use, separately verify issuer, distribution, and registration requirements in the other country.
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/japan-epi-three-types-overview|日本 EPI 3 型アーキテクチャ概観]]
-- [[fintech/jp-trust-type-sc-architecture|日本信託型 SC アーキテクチャ]]
-- [[fintech/jurisdiction-list-monetary-protectionism|司法区リスト通貨保護主義]]
-- [[fintech/three-circles-stablecoin-mra-framework|3 圏 MRA フレームワーク]]
+- [[fintech/japan-epi-three-types-overview|Overview of Japan's three EPI types]]
+- [[fintech/jp-trust-type-sc-architecture|Japan trust-type stablecoin architecture]]
+- [[fintech/jurisdiction-list-monetary-protectionism|Jurisdiction lists and monetary protectionism]]
+- [[fintech/three-circles-stablecoin-mra-framework|US/EU/Japan stablecoin market-access comparison]]
 <!-- /wiki-links:managed -->
 
 ## Sources
+
+- FSA list of electronic payment instruments service providers: https://www.fsa.go.jp/menkyo/menkyoj/denshikessaisyudan.xlsx
+- FSA list of funds-transfer service providers: https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf
+- JPYC launch release: https://corporate.jpyc.co.jp/news/posts/jpyc-ex-launch
+- Establishment of SBI Circle Holdings: https://www.sbigroup.co.jp/news/2025/0822_15679.html
+- SBI VC Trade pre-contract disclosure: https://www.sbivc.co.jp/assets/docs/manual_tt.pdf
+- Progmat joint pilot: https://progmat.co.jp/wp-content/uploads/2025/11/20251106_%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9_%E3%80%8C%E8%A4%87%E6%95%B0%E3%81%AE%E9%8A%80%E8%A1%8C%E3%81%AB%E3%82%88%E3%82%8B%E5%85%B1%E5%90%8C%E3%81%A7%E3%81%AE%E3%82%B9%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E3%82%B3%E3%82%A4%E3%83%B3%E7%99%BA%E8%A1%8C%E3%81%A8%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC%E6%B1%BA%E6%B8%88%E3%81%AE%E9%AB%98%E5%BA%A6%E5%8C%96%E3%81%AB%E4%BF%82%E3%82%8B%E3%80%8D.pdf
+- Minna Bank joint study: https://corporate.minna-no-ginko.com/information/corporate/2025/07/04/696/
+- Public Law 119-27: https://www.govinfo.gov/content/pkg/PLAW-119publ27/pdf/PLAW-119publ27.pdf

@@ -1,212 +1,159 @@
 ---
 source: fintech/regulatory-reset-2025-usa-crypto-policy
-source_hash: bc6a0b3e5c2f8961
+source_hash: 223b30e791f4763c
 lang: ja
-model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
-title: "米国 2025 暗号資産規制リセット · トランプ期の政策転換"
-translated_at: 2026-06-26T08:29:09.717Z
+title: "米国の2025–2026年暗号資産政策リセット · 確認済みの連邦措置"
+translated_at: 2026-07-29T17:38:08Z
 ---
 
-# 米国 2025 暗号資産規制リセット · トランプ期の政策転換
+# 米国の2025–2026年暗号資産政策リセット · 確認済みの連邦措置
 
-## 要約
+## 要点
 
-**2025 年1月から Q1 2026末まで**の約12か月で、暗号資産に対する米連邦の姿勢は**七つの独立した面**で反転した: (1) SEC 会計公報 **SAB 121  は SAB 122 （23 2025年1月）により撤回**され、銀行をカストディから遠ざけていたオンバランス負債が取り除かれた。(2) Executive Order 14178 （23 2025年1月）は Biden 期 EO 14067  を取り消し、新設の **White House AI & Crypto Czar (David Sacks)** の下で **President's Working Group on Digital Asset Markets** を立ち上げた。(3) EO 14233 （6 2025年3月）は、没収資産を原資に **Strategic Bitcoin Reserve** と **United States Digital Asset Stockpile** を設けた。(4) **Paul Atkins** が SEC Chair として承認され（4月 2025）、**Hester Peirce** は **Crypto Task Force** chair として制度的任務を与えられた。(5) Coinbase、Kraken、Robinhood、Uniswap Labs、Consensys、および Ripple 控訴に対する **SEC enforcement actions** は 2025年2月から4月にかけて取り下げ、一時停止、または和解された。(6) 銀行規制当局（OCC、FDIC、Federal Reserve）は、**2023 年 anti-crypto guidance**、すなわち業界が **"Operation Choke Point 2.0"** と呼ぶものを運用化していた指針を共同で撤回した。(7) **GENIUS Act payment stablecoin statute が 18 2025年7月に署名**され、**CLARITY Act market-structure bill** は並行トラックで進んだ。このリセットは**法定 + 行政命令 + 執行**が同時に動いたもので、資産クラス誕生以来、米国暗号資産政策で最も深い転換である。
+2025年1月から2026年7月にかけて、米国連邦政府のデジタル資産への対応は、SECの会計ガイダンス、大統領令、銀行監督ガイダンス、SECの法執行と解釈、成立したステーブルコイン法、審議中の市場構造法案という、法的に異なる複数の経路を通じて変化した。これらの措置をまとめて「政策リセット」と捉えることは有用だが、法的効力は同一ではない。**GENIUS Actは成立済みの法律である一方、ここで挙げる2026年の実施規則はまだ提案段階にあり、CLARITY Actは上院銀行委員会を通過したものの、2026年7月30日時点では成立していない。**
 
-## ウィキ上の位置づけ
+## Wiki内の位置付け
 
-この項目は、[[fintech/INDEX|fintech index]] の下に位置する **2025 年米国リセットのアンカーページ**である。法定上の背骨は [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]]、執行巻き戻しの仕組みは [[fintech/cftc-sec-crypto-jurisdiction|CFTC vs SEC jurisdiction]]、このリセットが再開した連邦銀行ルートは [[fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage|OCC trust-bank charter]] とあわせて読む。グローバル比較は [[fintech/global-stablecoin-regulatory-five-pole-matrix|five-pole regulatory matrix]] と [[fintech/mica-overview|EU MiCA]] を参照。転換の人物面ケーススタディは [[business/hester-peirce-sec-regulatory-pivot-case|Hester Peirce pivot case]] と [[business/larry-fink-blackrock-digital-asset-template|Larry Fink BlackRock template]] を参照。
+この項目は、確認済みの米国政策変更をまとめる基点ページとして [[fintech/INDEX|フィンテック索引]] に属する。[[fintech/genius-act-501-denylist-mandate|GENIUS Act分析]]、[[fintech/cftc-sec-crypto-jurisdiction|CFTCとSECの管轄]]、[[fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage|OCC国法信託銀行ルート]]と併せて参照する。比較については、[[fintech/global-stablecoin-regulatory-five-pole-matrix|5極規制マトリクス]]と[[fintech/mica-overview|EU MiCA]]を参照。
 
-## この項目を置く理由
+## 確認済みタイムライン
 
-2025 年1月から Q1 2026 までの米国暗号資産改革は、**単一の法律ではない**。それは三つの異なる政策スタックの**同時反転**である: (a) Gary Gensler の下での SEC の 2021-2024 年 enforcement-by-litigation 戦略、(b) 銀行の暗号資産カストディとステーブルコイン発行を制限した Treasury / FDIC / OCC / Federal Reserve の省庁横断姿勢、(c) デジタル資産市場に対する積極的な法定枠組みの不在。各スタックは別々に、それぞれの法的権限で動いたが、2025 年1月から7月までのカレンダー上の重なりが、市場条件に一つのシフトを生んだ。この項目は、分析者がリセットを七本のプレスリリースではなく一つのシステムとして読めるよう、七つの動く部分を一ページに集める。
-
-## タイムライン - 2025 年1月から Q1 2026
-
-まで
-| 日付 | アクション | 権限 | 変化したこと |
-| 2025-01-20 | Trump 就任 · Acting SEC Chair Mark Uyeda | Executive | Atkins 承認までの acting chair 体制 |
-| 2025-01-21 | Hester Peirce の下で SEC Crypto Task Force 発表 | SEC プレスリリース | 暗号資産政策の軸を Enforcement Division から専担タスクフォースへ再配置 |
-| 2025-01-23 | **SAB 122 発出、SAB 121を撤回** | SEC Staff Accounting Bulletin | 銀行はカストディ中の暗号資産を貸借対照表上の負債として認識する必要がなくなった |
-| 2025-01-23 | **EO 14178** Strengthening American Leadership in Digital Financial Technology | White House | EO 14067, を取り消し、Working Group を創設し、米国リテール CBDC を禁止し、White House AI & Crypto Czar を指名 |
-| 2025-01-23 | David Sacks が White House AI & Crypto Czar に指名 | White House | 初めての専担 White House 役職 |
-| 2025-02-27 | SEC v. Coinbase の取り下げ申立て | SEC litigation | Gensler 期の主要案件で最初の取り下げ |
-| 2025-03-03 | SEC v. Kraken の取り下げ | SEC litigation | staking-as-security 理論を実質的に取り下げ |
-| 2025-03-06 | **EO 14233** Strategic Bitcoin Reserve and US Digital Asset Stockpile の創設 | White House | Treasury は没収 BTC を無期限保有するよう指示され、非 BTC デジタル資産は別プールに集約 |
-| 2025-03-15 | SEC v. Binance.US の一部取り下げ | SEC litigation | 業界全体の読み: enforcement-by-litigation 理論の放棄 |
-| 2025-03-27 | OCC Interpretive Letter 1183  が national banks の暗号資産カストディとステーブルコイン権限を再確認 | OCC | IL 1179 （2021）の "non-objection" 事前承認要件を撤廃 |
-| 2025-04-09 | **Paul Atkins** が第34代 SEC Chair に就任 | Senate confirmation | SEC に恒久的な暗号資産フレンドリー指導部 |
-| 2025-04 | FDIC FIL 撤回シリーズ開始 | FDIC | 2022 件の financial-institution letters を撤回。これらは Choke Point 2.0 を運用化していた |
-| 2025-04 | SEC v. Consensys の取り下げ | SEC litigation | MetaMask ウォレット / staking 案件を取り下げ |
-| 2025-05 | SEC v. Robinhood Crypto 調査が提訴なしで終了 | SEC | Wells notice を巻き戻し |
-| 2025-05 | Federal Reserve が暗号資産活動に関する SR 22-6 監督書簡を撤回 | Federal Reserve | State-member banks は暗号資産に従事するための事前通知が不要に |
-| 2025-06 | SEC と Binance のグローバル和解 / SEC と Ripple が残る控訴を和解 | SEC litigation | レガシー案件のカレンダーがほぼ整理 |
-| 2025-07-18 | **GENIUS Act が署名され法律に** | Congress + White House | §501 denylist mandate（[[fintech/genius-act-501-denylist-mandate|GENIUS §501]]）を含む連邦 payment stablecoin statute |
-| 2025-Q3 | 複数の Wells notice 撤回（Uniswap Labs、OpenSea、Yuga Labs、Crypto.com） | SEC Enforcement | 提訴前調査を終了 |
-| 2025-Q4 | CLARITY Act / market-structure bill が House committee を通過 | Congress | スポット市場管轄に関する GENIUS の相棒 |
-| 2026-Q1 | OCC、Treasury、Federal Reserve による GENIUS 下の共同規則案が公表 | Federal Register | 最初の実施規則 |
-
-カレンダーの形が重要である。Congress を必要としないすべての行政命令と SEC staff action は 2025年4月までに完了し、**法定の脚**（GENIUS）は 2025年7月に閉じ、**実施規則の脚**は 2026年に始まった。これは [[fintech/cftc-sec-crypto-jurisdiction|CFTC vs SEC jurisdiction]] と [[fintech/global-stablecoin-regulatory-five-pole-matrix|five-pole matrix]] の順序にも見える同じ段階的パターンである。
-
-## メカニズム 1  - SAB 121 撤回（SAB 122）
-
-Staff Accounting Bulletin 121,  は SEC staff が 2022, 年3月に発出したもので、銀行を明示的に含む暗号資産カストディアンに対し、**カストディ資産の公正価値と同額の負債を貸借対照表に認識**し、対応する資産を計上するよう求めた。実務上の効果として、意味のある暗号資産ポジションをカストディする銀行は、相殺ポジションに伝統的なカストディ証券ではかからないリスクウェイトが付くため、Basel III の下で資本負担を吸収することになった。パスポーティング枠組みの不在と組み合わさり、SAB 121  は Bank of New York Mellon、State Street、JPMorgan が大規模にカストディを提供することを実質的に阻んだ。
-
-**SAB 122 （23 2025年1月）**は SAB 121  を撤回し、代わりに既存の **ASC 450**（損失偶発事象）と **IAS 37**（引当金）ガイダンスを適用するよう企業に指示した。つまり、カストディ総額についてデフォルトで認識するのではなく、可能性が高く見積可能な場合のみ損失を認識する。反転の効果は次の通り:
-
-- G-SIB カストディアンを暗号資産から遠ざけていた規制上のゲートを取り除いた;
-- 米国の扱いを IFRS で運用する欧州・アジアのピアと整合させた;
-- BNY Mellon のカストディ拡大（2025-Q2発表）、より広い州銀行の暗号資産カストディ提供、そして [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]] のカストディ選択に下流波及した **OCC 監督下の拡張**を可能にした。
-
-これはリセットが引いた**単一最大のレバー**である。立法も規則制定も不要で、staff bulletin の改訂だけで足りたからだ。同時に、以前の体制の脆弱性も露呈した。2022 年の staff bulletin が、米国銀行が五年間暗号資産から不在だった主因になっていた。
-
-## メカニズム 2  - EO 14178  と President's Working Group
-
-EO 14178 （Strengthening American Leadership in Digital Financial Technology、23 2025年1月）は五つの政策措置を示す:
-
-1. **EO 14067 を取り消す**（Biden、2022年3月、"Ensuring Responsible Development of Digital Assets"）とともに、Treasury 主導の Framework for International Engagement on Digital Assets を取り消す。
-2. 連邦機関による**米国リテール CBDC の発行、設立、推進を禁止**する。
-3. White House AI & Crypto Czar が議長を務め、Treasury、SEC、CFTC、OCC、Federal Reserve などの法定メンバーを含む **President's Working Group on Digital Asset Markets**（PWG-DAM）を設立する。
-4. Working Group に対し、ステーブルコイン政策、市場構造提言、national digital-asset reserve の評価を含む**連邦規制枠組み**を 180 日以内に提出するよう求める。
-5. **AI & Crypto Czar 役職**を EO 内で明示的に名指しし、これらの問題に対して専担の White House office が正式に創設された初めての事例とする。
-
-CBDC 禁止は管轄上は狭い。行政府機関を拘束するが、独立機関としての Federal Reserve は拘束しない。ただし運用上、Federal Reserve は現政権下でリテール CBDC を追求しないと示唆している。海外の CBDC 経路との比較分析は [[fintech/cbdc-multi-tier-architecture-overview|CBDC multi-tier overview]] を参照。
-
-## メカニズム 3  - White House AI & Crypto Czar としての David Sacks
-
-Czar 役職は構造的に新しい:
-
-- Treasury、SEC、NEC を経由せず、**President に直接報告**する。
-- **PWG-DAM の議長**を務め、以前は Treasury's Office of Domestic Finance にあった調整権限を White House に与える。
-- **直接の rulemaking 権限はない**。拘束力ある規則はすべて SEC、CFTC、OCC、Treasury、FinCEN、Federal Reserve を通るが、**政策アジェンダ**、省庁横断のナラティブ、人事パイプラインをコントロールする。
-- **Senate confirmation を受ける役職ではない**ため、継続性は大統領任期に結びつく。
-
-Czar パターンは、既存の National Cyber Director（2021年創設）と、廃止された Special Presidential Envoy for Climate に似ている。長期的な意義は、**デジタル資産政策が White House レベルの調整機能になった**ことであり、Treasury の下部オフィス（2017-2024）や単一機関 SEC の懸案（2021-2024）だった状態からのカテゴリー転換である。
-
-## メカニズム 4  - Strategic Bitcoin Reserve（EO 14233）
-
-EO 14233 （6 2025年3月）は三つの政策措置を示す:
-
-1. **Strategic Bitcoin Reserve (SBR) を設立**する。刑事・民事没収の結果として連邦機関が保有する BTC を初期資本とし、Treasury Secretary は**売却せず保有し続ける**よう指示される。
-2. 同様に没収された非 BTC デジタル資産を原資とする **US Digital Asset Stockpile** を設立し、無期限保有ではなく**慎重に管理する**任務を与える。
-3. Treasury Secretary と Commerce Secretary に、納税者へ追加コストを課さない **budget-neutral strategies** による追加 BTC 取得の検討を認める。
-
-二つの設計選択が注目に値する:
-
-- **Bitcoin は他のすべてのデジタル資産とは別の資産クラスとして扱われる。** これは米国政府が "BTC" と "残りの crypto" を正式に二分した初の事例であり、BTC を commodity とする CFTC の既存分類と整合する（[[fintech/cftc-sec-crypto-jurisdiction|CFTC vs SEC jurisdiction]]参照）。
-- **任務は保有であり、取引ではない。** SBR は sovereign-wealth-fund 型のトレーディングデスクではなく、没収資産を戦略在庫として再定義した長期保有という姿勢で、Strategic Petroleum Reserve に近い。
-
-比較対象となる sovereign-allocation パターンは [[fintech/sovereign-fund-crypto-allocation-pattern|sovereign fund crypto allocation]] と [[fintech/sovereign-capital-pool-aramco-anchor|sovereign capital pool]] を参照。
-
-## メカニズム 5  - Paul Atkins SEC と Crypto Task Force
-
-Hester Peirce が議長を務める Crypto Task Force は、21 2025 年1月に発表され、Atkins の4月承認までは Acting Chair Uyeda の下で運営され、次について**公開声明と staff guidance**を発出している:
-
-- meme coins（伝統的 Howey の下で enterprise がなければ securities ではない）;
-- proof-of-work mining rewards（securities ではない）;
-- バリデータによる protocol staking（それ自体は securities offering ではない）;
-- Securities Act §3(b) の下で行う token 発行会社向けの計画中の「セーフハーバー規則制定」;
-- DeFi フロントエンドに適用される「exchange」「dealer」「broker」定義の見直し;
-- [[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] と [[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED]] に整合するトークン化 securities（real-world assets）向けの将来志向の枠組み。
-
-この Task Force がどのように順序設計されたかの人物面分析は [[business/hester-peirce-sec-regulatory-pivot-case|Hester Peirce pivot case]]、鏡像ケースとの対比は [[business/jamie-dimon-anti-crypto-pivot-case|Jamie Dimon anti-crypto pivot]] を参照。
-
-## メカニズム 6  - 執行巻き戻しと Operation Choke Point 2.0
-
-
-"Operation Choke Point 2.0" は、OCC、FDIC、Federal Reserve のガイダンス、監督書簡、非公式圧力により、銀行が暗号資産企業に銀行サービスを提供したり暗号資産企業の預金を受け入れたりすることが運用上難しくなった 2022-2024 年パターンに対する業界の呼称である。巻き戻しは次から成る:
-- **OCC Interpretive Letter 1183**（27 2025年3月）は、national banks 向けの IL 1170 / 1172 / 1174  の暗号資産カストディ、ステーブルコイン準備金、ノード運営者権限を再確認し、監督当局からの事前書面 non-objection を求める IL 1179 （2021）要件を明示的に撤廃した。National banks は今や、個別の監督承認ではなく、**business judgment として**暗号資産活動に従事できる。
-- 州認可の insured institutions に、あらゆる暗号資産活動について事前承認を実質的に求めていた 2022-2024  の financial-institution letters（FILs）を **FDIC が撤回**。
-- **Federal Reserve の撤回**: SR 22-6、ならびに 2023 年1月の "Joint Statement on Crypto-Asset Risks to Banking Organizations" と 2023 年2月の "Joint Statement on Liquidity Risks Resulting From Crypto-Asset Market Vulnerabilities" という省庁横断共同声明。
-- **SEC enforcement docket clearance**: タイムラインに列挙した取り下げに加え、Robinhood Crypto、Uniswap Labs、OpenSea、Yuga Labs などに対する調査の静かな終結。
-
-総合効果は、Bridge、Circle、Paxos などによる [[fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage|OCC trust-bank charter]] 申請をめぐる銀行活動の再開に見えるように、**連邦銀行経路が 2021年以来初めて構造的に開いた**ことである。
-
-## Mechanism 7 · Statutory leg (GENIUS + CLARITY)
-
-リセットの行政命令と執行の脚には、将来の政権交代を超えて残る**法定の支え**が必要だった。**GENIUS Act**（18 2025年7月署名）は payment-stablecoin 部分にその支えを与え、**CLARITY Act**（House 通過は 2025-Q4,、Senate 経路は不確実）は並行する市場構造枠組みを提供することを意図している。
-
-The GENIUS Act:
-
-- OCC、Federal Reserve、または州規制当局が二経路で認可する**連邦 payment stablecoin 発行会社区分**を作る;
-- **100%準備金**を、現金、insured depositories の demand deposits、93日以下の Treasury bills、または Treasuries 裏付け reverse repo で保有することを義務付ける;
-- **月次 attestation、分別カストディ、T+1  の額面償還**を課す;
-- **アルゴリズム型ステーブルコイン**と**リテール向け利付ステーブルコイン**を禁止する;
-- 制裁対象アドレスについて OFAC 経由で処理する **§501  denylist authority** を含む（[[fintech/genius-act-501-denylist-mandate|GENIUS §501]] と独立の実装項目 [[fintech/genius-act-501-actual-implementation|§501 actual implementation]] を参照）。
-
-CLARITY Act（正式には Financial Innovation and Technology for the 21st Century Act、FIT21 後継）は次を行う:
-
-- **digital commodity** と **investment-contract asset** 区分を定義する;
-- デジタル商品スポット市場について **CFTC に主たる権限**を与える;
-- investment-contract assets について **SEC authority** を維持しつつ、より明確な機能的分散化の off-ramp を設ける;
-- token 発行会社 が使える**分散化への道筋**テストを作る;
-- Peirce 2020 提案に整合する**セーフハーバー期間**を正式化する。
-
-EU の同等制度との比較は [[fintech/mica-overview|MiCA overview]] と [[fintech/mica-cross-border-implications|MiCA cross-border]]、より広いマトリクスは [[fintech/global-stablecoin-regulatory-five-pole-matrix|five-pole matrix]] を参照。
-
-## 市場への影響市場反応は、カレンダーが見え始めた **2024 年11月から 2025年3月の間に前倒し**された:
-
-| 面 | リセット前の基準線 | リセット後の状態 |
-|---|---|---|
-| 銀行の暗号資産カストディ（米国） | 少数の州認可 trust banks（Anchorage、Custodia）に限定 | National banks（BNY Mellon、State Street、JPMorgan）が再参入または拡大 |
-| Spot Bitcoin ETF 流入 | 安定的。IBIT と FBTC が支配 | 加速。SBR が実質的な価格フロア・シグナルに |
-| Coinbase、Robinhood、Galaxy の上場株式 | 執行リスクを反映し、圧縮された倍率で取引 | より高く再評価（[[business/brian-armstrong-coinbase-public-company-template|Coinbase public-company template]]参照） |
-| ステーブルコイン発行体の景色 | Tether 支配、USDC 二番手、米国発行体には規制上の曖昧さ | [[fintech/paypal-pyusd-stablecoin|PYUSD]]、Circle USDC、Paxos USDG、新たな銀行発行トークンに明確な連邦経路が開く |
-| RWA / tokenized assets | カストディ摩擦により SAB 122 以前はニッチ | [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]] とピア発行体による構築が活発化 |
-| Federal CBDC | 理論上はあり（Project Hamilton） | 明示的に禁止（EO 14178） |
-| 未解決の Wells notices | 高水準 | ほぼ解消、または静かに終了 |
-
-**ネットワーク中立な機関投資家ポジショニング**というより広い戦略投資家パターン（[[fintech/wall-street-crypto-network-neutrality|Wall Street network neutrality]]に見える）は加速し、**立法前の戦略的買収パターン**（[[fintech/regulatory-window-strategic-acquisition|regulatory window M&A]]に見える。Stripe / Bridge 取引が典型例）も加速した。
-
-## 比較 · 米国 2025  vs EU MiCA vs UK FCA
-
-| 観点 | US 2025  Reset | EU MiCA | UK FCA アプローチ |
+| 日付 | 公的措置 | 権限と確認済みの効果 | 2026-07-30時点の状態 |
 |---|---|---|---|
-| 手段 | EO + SEC staff bulletin + GENIUS Act + CLARITY Act | 単一規則（EU 2023 / 1114） | FSMA 2023  + 二次規則 |
-| 転換速度 | 12 か月 | 4年の起草 + 18か月の移行 | 遅いロールアウト 2024-2027  |
-| 法定アンカー | GENIUS（stablecoin）+ CLARITY（market structure） | MiCA が両方をカバー | セクター別で単一法なし |
-| 銀行カストディ | SAB 122  + OCC IL 1183 により再開 | CRD V 下で常に許容 | FCA registration で許容 |
-| CBDC 姿勢 | リテール CBDC を禁止 | Digital Euro は設計段階 | Digital Pound は協議段階 |
-| Crypto czar / coordinator | White House Czar（Sacks） | Commissioner for Financial Services + ESMA + EBA | Treasury + FCA + Bank of England |
+| 2025-01-21 | SEC Crypto Task Force発足 | Mark Uyeda委員長代行が、Hester Peirce委員を責任者とする全庁横断タスクフォースを設置 | SECの政策イニシアチブとして活動中 |
+| 2025-01-23 | SAB 122発出 | SECスタッフがSAB 121を撤回し、SAB 122は2025-01-30に発効 | 有効なスタッフ会計ガイダンス |
+| 2025-01-23 | 大統領令14178号 | EO 14067を撤回し、President's Working Group on Digital Asset Marketsを設置するとともに、法律上必要な場合を除き、各機関にCBDCを設立、発行または推進しないよう指示 | 有効な大統領令 |
+| 2025-02-27 | SEC対Coinbase事件を棄却 | SECは再提訴を認めない共同棄却合意を提出し、この判断は本案の評価ではなく、他の事件に対する立場を示すものでもないと明記 | 事件は棄却済み |
+| 2025-03-06 | 大統領令14233号 | 適格な没収政府資産を当初原資として、Strategic Bitcoin ReserveとUS Digital Asset Stockpileを設置 | 有効な大統領令 |
+| 2025-03-07 | OCC解釈書簡1183 | 特定の暗号資産カストディ、ステーブルコイン、ノード検証業務が許容されることを再確認し、従来の監督上の事前非異議要件を撤回 | 有効なOCC解釈 |
+| 2025-03-28 | FDIC FIL-7-2025 | FIL-16-2022を撤回し、通常のリスク管理と法令に従うことを条件に、FDIC監督下の金融機関はFDICの事前承認なしに許容される暗号資産業務を行えると表明 | 有効なFDICガイダンス |
+| 2025-04-21 | Paul Atkins就任宣誓 | 2025-04-09の上院承認を経て、Atkinsが第34代SEC委員長に就任 | レビュー日時点で在任 |
+| 2025-04-24 | Federal Reserveがガイダンスを撤回 | Boardは2022年の事前通知書簡と2023年のドル建てトークン非異議プロセスを撤回し、2023年の二つの省庁間共同声明の撤回にも参加 | 従来の特別プロセスは撤回済み |
+| 2025-07-18 | GENIUS Act成立 | Public Law 119-27により、認可を受けた決済用ステーブルコイン発行者の連邦・州枠組みを創設 | 成立済み、実施作業中 |
+| 2025-08-07 | Ripple控訴を取り下げ | SECと被告らが控訴を取り下げ、民事制裁金と差止命令を含む地方裁判所判決は有効なまま存続 | 控訴は終結、判決は維持 |
+| 2026-03-02 | OCCがGENIUS Act規則案を公表 | OCCの管轄下にある発行者と業務に関する規則を提案 | 提案段階、最終規則ではない |
+| 2026-03-17 | SECが暗号資産解釈を公表 | SECの解釈は暗号資産の区分と取引を扱い、CFTCも自らの制定法を一貫して運用するため参加 | 解釈を公表済み |
+| 2026-04-08 | TreasuryがGENIUS Act規則案を発表 | FinCENとOFACがAMLおよび制裁遵守要件を提案 | 提案段階、最終規則ではない |
+| 2026-05-14 | 上院銀行委員会がH.R. 3633を可決 | 委員会はCLARITY Actの上院版を15対9で可決 | 審議中の法案、未成立 |
+| 2026-06-18 | 省庁間顧客識別規則案 | FinCENと連邦銀行監督機関が、認可決済用ステーブルコイン発行者の顧客識別要件を提案 | 意見募集期限は2026-08-21 |
 
-グローバル・マトリクスの残り、および Japan、Hong Kong、Singapore については [[fintech/global-stablecoin-regulatory-five-pole-matrix|five-pole matrix]] と地域索引を参照。
+出典：[SAB 122](https://www.sec.gov/rules-regulations/staff-guidance/staff-accounting-bulletins/staff-accounting-bulletin-122)、[EO 14178](https://www.whitehouse.gov/presidential-actions/2025/01/strengthening-american-leadership-in-digital-financial-technology/)、[EO 14233](https://www.whitehouse.gov/presidential-actions/2025/03/establishment-of-the-strategic-bitcoin-reserve-and-united-states-digital-asset-stockpile/)、[SEC Crypto Task Force](https://www.sec.gov/newsroom/press-releases/2025-30)、[Coinbase事件棄却](https://www.sec.gov/newsroom/press-releases/2025-47)、[Atkins就任宣誓](https://www.sec.gov/newsroom/press-releases/2025-68)、[Ripple訴訟リリース](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26369)、[OCC](https://www.occ.gov/news-issuances/news-releases/2025/nr-occ-2025-16.html)、[FDIC](https://www.fdic.gov/news/financial-institution-letters/2025/fdic-clarifies-process-banks-engage-crypto-related)、[Federal Reserve](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20250424a.htm)、[Public Law 119-27](https://www.govinfo.gov/app/details/PLAW-119publ27)、[OCCの2026年規則案](https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-3.html)、[Treasuryの2026年規則案](https://home.treasury.gov/news/press-releases/sb0435)、[SECの2026年解釈](https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets)、[上院銀行委員会の採決](https://www.banking.senate.gov/newsroom/majority/chairman-scott-senate-banking-committee-advance-clarity-act-in-historic-bipartisan-vote)、[Federal Reserve規則案ドケット](https://www.federalreserve.gov/apps/proposals/FR-2026-0005-01/details)。
 
-## このリセットが過去の転換と構造的に異なる理由
+## 1. 会計ガイダンス：SAB 122が変更した点
 
-2017-2018 年の ICO 期執行と 2021-2024 年の Gensler 執行は、いずれも**単一機関内の検察的姿勢**だった。2025 年リセットは、米国が初めて、**行政命令（EOs と Czar）、行政機関（SEC、OCC、FDIC、Federal Reserve）、立法（GENIUS + CLARITY）、会計（SAB 122）**のレバーを同じ 12か月の窓で同じ方向へ同時に動かした事例である。調整の深さそのものが、このリセットが**循環的ではなく regime-changing**であることを示すシグナルである。
+SAB 122は、SAB 121の解釈ガイダンスを撤回した。プラットフォーム利用者の暗号資産を保全する事業体に対し、適用される偶発損失または引当金の基準に従って認識の要否を評価し、保全義務を投資家が理解するために必要な開示を継続するよう求めている。
 
-単一ページの有用な対比として、"米国の法的確実性の上に構築する" という [[business/larry-fink-blackrock-digital-asset-template|Larry Fink template]] は、**四つのレバーすべて**が動いて初めて実行可能になった。だからこそ BlackRock の [[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] 商品、spot-BTC ETF での支配、tokenized-asset 推進は同じ 18 か月で加速した。
+限定的な文言であることが重要である。SAB 122それ自体は、次のことを**していない**。
+
+- すべての銀行に暗号資産カストディを認めること
+- 健全性規制上の資本、安全性・健全性、消費者保護その他の法的要件を撤廃すること
+- 特定の銀行がこの文書を理由にカストディ商品を開始または拡大したと証明すること
+
+出典：[SEC Staff Accounting Bulletin No. 122](https://www.sec.gov/rules-regulations/staff-guidance/staff-accounting-bulletins/staff-accounting-bulletin-122)。
+
+## 2. 行政府の政策：EO 14178とEO 14233
+
+EO 14178は行政府の政策を変更し、省庁間ワーキンググループを設置し、それ以前のデジタル資産に関する大統領令と枠組みを撤回し、法律上必要な場合を除いて特定のCBDC業務を停止するよう各機関に指示した。制定法を成立させたものでも、議会の立法権をワーキンググループへ移転したものでもない。
+
+EO 14233は、二つの別個の保有枠組みを設けた。
+
+- **Strategic Bitcoin Reserve**：Treasuryが保有する、適格かつ最終的に没収されたBTCを当初原資とし、他機関には移管権限の確認を指示
+- **US Digital Asset Stockpile**：適格な非BTC没収デジタル資産を対象
+
+準備金に組み入れられたBitcoinは、大統領令と適用法令に従い、売却せず準備資産として維持される。TreasuryとCommerceは、追加BTC取得のための予算中立的な戦略を策定できる。大統領令は、追加BTCが購入済みであることを示すものでも、保証された市場の「価格下限」を設けるものでもない。
+
+出典：[EO 14178](https://www.whitehouse.gov/presidential-actions/2025/01/strengthening-american-leadership-in-digital-financial-technology/)および[EO 14233](https://www.whitehouse.gov/presidential-actions/2025/03/establishment-of-the-strategic-bitcoin-reserve-and-united-states-digital-asset-stockpile/)。
+
+## 3. 銀行監督：三機関による別個の措置
+
+OCC、FDIC、Federal Reserveは、それぞれ異なる日付に暗号資産固有の事前承認または通知プロセスを撤廃した。これらの措置が共同で新たな普遍的銀行権限を付与したわけではなく、各機関が自らの権限内にある金融機関と業務を扱ったものである。
+
+| 機関 | 撤廃された要件 | 維持された要件 |
+|---|---|---|
+| OCC | IL 1179の監督上の非異議プロセス | 業務は引き続き許容されるものでなければならず、十分なリスク管理の下で行う必要がある |
+| FDIC | FIL-16-2022の事前通知プロセス | FDIC監督下の金融機関には、安全性・健全性、AML、消費者保護その他の適用要件が引き続き適用される |
+| Federal Reserve | 2022年の事前通知と2023年のドル建てトークン非異議プロセス | 暗号資産業務は通常の監督プロセスを通じて監視される |
+
+出典：[OCC解釈書簡1183の発表](https://www.occ.gov/news-issuances/news-releases/2025/nr-occ-2025-16.html)、[FDIC FIL-7-2025](https://www.fdic.gov/news/financial-institution-letters/2025/fdic-clarifies-process-banks-engage-crypto-related)、[Federal Reserveの撤回発表](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20250424a.htm)。
+
+「Operation Choke Point 2.0」は業界および政治上の呼称であり、単一の連邦プログラムの正式名称ではない。各機関の文書は、撤回された書簡とプロセスを裏付けるが、その呼称の下で語られるより広範な主張のすべてを、それ自体で立証するものではない。
+
+## 4. SECの政策、法執行、解釈
+
+SECの2025年Crypto Task Forceは、Commissionが規制上の境界を定め、登録経路を提供し、開示枠組みを策定し、法執行資源を慎重に活用することを支援する任務を負った。また、その会計年度別法執行報告によれば、Commissionは2025会計年度に従来の暗号資産関連法執行事件7件を棄却した。
+
+これらの棄却は事件ごとに読む必要がある。Coinbaseに関する発表でSECは、判断が政策上の裁量行使であり、本案判断でも、他の事件に関する立場表明でもないと明記した。Rippleでは、控訴の取り下げ後も地方裁判所判決が存続した。これらの結果は、従来の法理論、投資家保護の法執行、または詐欺事件がすべて放棄されたとの主張を裏付けない。
+
+2026年3月17日、SECは特定の暗号資産と取引に対する連邦証券法の適用についてCommission解釈を公表した。この解釈は、個別事件の棄却から推論するよりも新しく、SECの現在の分析枠組みをより直接示す資料である。
+
+出典：[SEC Crypto Task Force](https://www.sec.gov/newsroom/press-releases/2025-30)、[SECの2025会計年度法執行結果](https://www.sec.gov/newsroom/press-releases/2026-34)、[Coinbase事件棄却](https://www.sec.gov/newsroom/press-releases/2025-47)、[Ripple訴訟リリース](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26369)、[SECの2026年解釈](https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets)。
+
+## 5. GENIUS Act：成立済みの法律、提案段階の実施
+
+Public Law 119-27は、決済用ステーブルコインの枠組みを定める。主な規定は次のとおりである。
+
+- 法定のセーフハーバー権限を条件として、米国内の発行を認可決済用ステーブルコイン発行者に限定する
+- 発行済み決済用ステーブルコインを少なくとも1対1で裏付ける、列挙された流動資産から成る識別可能な準備資産を求める
+- 公開された償還方針と、準備資産構成の月次公表を求める
+- 規定された例外を除き、必要準備資産の担保設定、再担保設定、再利用を制限する
+- 準備資産報告書の月次検査と経営幹部による証明を求める
+- 認可決済用ステーブルコイン発行者と外国決済用ステーブルコイン発行者が、保有、使用または保持していることのみを理由に、保有者へ利息または利回りを支払うことを禁じる
+
+同法は、すべての「アルゴリズム型ステーブルコイン」を一般的に禁止するとは**規定しておらず**、従来主張されていた普遍的なT+1償還規則も課していない。発効日は、成立から18か月後の2027年1月18日、または主要な連邦規制当局がいずれかの最終実施規則を発出してから120日後の、いずれか早い日である。
+
+2026年7月30日時点で、ここで引用するOCC、Treasuryおよび省庁間の顧客識別規則は提案段階だった。完成済みの共同規則として記述してはならない。
+
+出典：[Public Law 119-27](https://www.govinfo.gov/app/details/PLAW-119publ27)、[OCC規則案](https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-3.html)、[TreasuryのAML・制裁規則案](https://home.treasury.gov/news/press-releases/sb0435)、[省庁間顧客識別規則案](https://www.federalreserve.gov/apps/proposals/FR-2026-0005-01/details)。
+
+## 6. CLARITY Act：審議中の市場構造法案
+
+下院は2025年7月17日にH.R. 3633を可決した。その後、上院銀行委員会は2026年5月14日にその上院版を15対9で可決し、2026年7月にも追加文言の審議が続いていた。委員会の可決は法律の成立ではない。両院が同一の文言を可決し、大統領の署名を受けるなどして法律となるまでは、提案されているSECとCFTCの権限配分その他の規定を条件付きで記述する必要がある。
+
+出典：[Congress.govのH.R. 3633記録](https://www.congress.gov/bill/119th-congress/house-bill/3633/all-info)および[上院銀行委員会の採決](https://www.banking.senate.gov/newsroom/majority/chairman-scott-senate-banking-committee-advance-clarity-act-in-historic-bipartisan-vote)。
+
+## 証拠の境界
+
+次の表は、公的措置が立証する事項と、追加の証拠が必要な主張を分けている。
+
+| 対象 | 裏付けられる結論 | 引用された措置だけでは立証されない事項 |
+|---|---|---|
+| SAB 122 | SAB 121の会計ガイダンスが撤回された | 特定銀行による商品の開始、資本影響がゼロであること、または普遍的なカストディ許可 |
+| 大統領令 | 政権の政策、ワーキンググループ、準備金と備蓄の構造 | 議会による新たな権限、追加BTC購入の完了、または市場価格の下限 |
+| 銀行ガイダンス | 暗号資産固有の事前通知または非異議プロセスが撤廃された | 口座アクセスの保証、すべての業務の承認、または通常の監督が存在しないこと |
+| SEC事件 | 特定の事件が棄却された、または控訴が終結した | 証券法または詐欺に対する法執行の全面放棄 |
+| GENIUS Act | 決済用ステーブルコイン法が成立した | まだ提案段階にある2026年規則の最終実施 |
+| CLARITY Act | 法案が下院と上院委員会の段階を進んだ | 成立済みの市場構造法 |
+
+出典：裏付けられる結論は、上記六つの節にリンクした一次資料に対応する。右列は、それらの資料の限界を記録するものであり、予測ではない。
 
 ## 関連項目
 
-- [[fintech/INDEX|fintech index]]
-- [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501 denylist]]
-- [[fintech/genius-act-501-actual-implementation|GENIUS §501 actual implementation]]
-- [[fintech/treasury-stablecoin-policy-2025|Treasury 2025 stablecoin policy framework]]
-- [[fintech/occ-bank-charter-crypto-2025|OCC national bank charter for crypto 2025]]
-- [[fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage|OCC trust-bank charter arbitrage]]
-- [[fintech/cftc-sec-crypto-jurisdiction|CFTC vs SEC jurisdiction]]
-- [[fintech/global-stablecoin-regulatory-five-pole-matrix|five-pole matrix]]
-- [[fintech/mica-overview|EU MiCA overview]]
-- [[fintech/regulatory-window-strategic-acquisition|regulatory window M&A]]
-- [[fintech/wall-street-crypto-network-neutrality|Wall Street network neutrality]]
-- [[business/hester-peirce-sec-regulatory-pivot-case|Hester Peirce pivot case]]
-- [[business/larry-fink-blackrock-digital-asset-template|Larry Fink BlackRock template]]
-- [[business/jamie-dimon-anti-crypto-pivot-case|Jamie Dimon anti-crypto pivot]]
-- [[business/brian-armstrong-coinbase-public-company-template|Brian Armstrong Coinbase template]]
-- [[exchanges/us-crypto-licensing-multi-layer-system|US crypto licensing multi-layer]]
+- [[fintech/INDEX|フィンテック索引]]
+- [[fintech/genius-act-501-denylist-mandate|GENIUS Act分析]]
+- [[fintech/genius-act-501-actual-implementation|GENIUS実施状況]]
+- [[fintech/treasury-stablecoin-policy-2025|Treasuryのステーブルコイン政策]]
+- [[fintech/occ-bank-charter-crypto-2025|暗号資産向けOCC国法銀行免許]]
+- [[fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage|OCC国法信託銀行ルート]]
+- [[fintech/cftc-sec-crypto-jurisdiction|CFTCとSECの管轄]]
+- [[fintech/global-stablecoin-regulatory-five-pole-matrix|5極マトリクス]]
+- [[fintech/mica-overview|EU MiCA概要]]
+- [[exchanges/us-crypto-licensing-multi-layer-system|米国の暗号資産ライセンス層]]
 
 ## 出典
 
-- White House Presidential Actions アーカイブ: https://www.whitehouse.gov/presidential-actions/
-- SEC プレスリリース 2025: https://www.sec.gov/news/press-release/
-- SAB 122 （SAB 121を撤回）: SEC Office of the Chief Accountant、23 2025
-年1月
-- SEC Crypto Task Force: https://www.sec.gov/securities-topics/crypto-assets
-- OCC Interpretive Letter 1183: https://occ.treas.gov/topics/charters-and-licensing/interpretations-and-actions/
-- Treasury デジタル資産政策: https://home.treasury.gov/policy-issues/financial-markets-financial-institutions-and-fiscal-service/digital-assets
-- Federal Reserve プレスリリース: https://www.federalreserve.gov/newsevents/pressreleases.htm
-- GENIUS Act 法定テキスト（2025年7月成立の Public Law）
-- FDIC FIL 撤回シリーズ 2025
+- [SEC Staff Accounting Bulletin No. 122](https://www.sec.gov/rules-regulations/staff-guidance/staff-accounting-bulletins/staff-accounting-bulletin-122)
+- [大統領令14178号](https://www.whitehouse.gov/presidential-actions/2025/01/strengthening-american-leadership-in-digital-financial-technology/)
+- [大統領令14233号](https://www.whitehouse.gov/presidential-actions/2025/03/establishment-of-the-strategic-bitcoin-reserve-and-united-states-digital-asset-stockpile/)
+- [SEC Crypto Task Force発足](https://www.sec.gov/newsroom/press-releases/2025-30)
+- [SEC Coinbase事件棄却](https://www.sec.gov/newsroom/press-releases/2025-47)
+- [SECの2025会計年度法執行結果](https://www.sec.gov/newsroom/press-releases/2026-34)
+- [SECの2026年暗号資産解釈](https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets)
+- [OCC解釈書簡1183の発表](https://www.occ.gov/news-issuances/news-releases/2025/nr-occ-2025-16.html)
+- [FDIC FIL-7-2025](https://www.fdic.gov/news/financial-institution-letters/2025/fdic-clarifies-process-banks-engage-crypto-related)
+- [Federal Reserveのガイダンス撤回](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20250424a.htm)
+- [GENIUS Act、Public Law 119-27](https://www.govinfo.gov/app/details/PLAW-119publ27)
+- [OCCのGENIUS Act規則案](https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-3.html)
+- [TreasuryのGENIUS Act AML・制裁規則案](https://home.treasury.gov/news/press-releases/sb0435)
+- [上院銀行委員会のCLARITY Act採決](https://www.banking.senate.gov/newsroom/majority/chairman-scott-senate-banking-committee-advance-clarity-act-in-historic-bipartisan-vote)
