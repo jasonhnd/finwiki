@@ -26,8 +26,8 @@
     "domain": "securities-firms",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-11-25",
     "confidence": "likely",
     "tags": [
@@ -125,8 +125,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6907,
-    "word_like_tokens": 965,
+    "nonspace_chars": 7545,
+    "word_like_tokens": 1079,
     "inbound_wikilinks_count": 3,
     "last_modified": "2026-06-08"
   }
