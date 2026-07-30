@@ -11,10 +11,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/japan-bittrade-listing-process.md",
   "raw_markdown_url": "https://finwiki.zksc.io/fintech/japan-bittrade-listing-process.md",
   "domain": "fintech",
-  "title": "日本 BitTrade 上場プロセス — 登録交易所 Listing の 8 段階構造",
+  "title": "日本の暗号資産取扱開始プロセス · BitTrade を含む公開資料ベースの境界",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "日本 BitTrade 上場プロセス — 登録交易所 Listing の 8 段階構造",
+    "title": "日本の暗号資産取扱開始プロセス · BitTrade を含む公開資料ベースの境界",
     "aliases": [
       "bittrade-listing",
       "jp-cex-listing",
@@ -23,8 +23,8 @@
     "domain": "fintech",
     "type": null,
     "created": "2026-05-13",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-06-23",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-08-07",
     "confidence": "likely",
     "tags": [
@@ -34,26 +34,29 @@
     "status": "active",
     "canonical_anchor": null,
     "related": [],
-    "note": "ユーザー註「必ずしも正確とは限らず、継続的にトラッキング要」· 実案件で逐次検証",
+    "note": null,
     "sources": [
       "https://www.bittrade.co.jp/",
-      "https://jvcea.or.jp/about/list/",
+      "https://jvcea.or.jp/guidelines/",
+      "https://jvcea.or.jp/cms/wp-content/themes/jvcea/images/pdf/public/public_20240510-02.pdf",
       "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
+      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.pdf",
+      "https://www.fsa.go.jp/common/shinsei/denanchuukai/index.html",
+      "https://www.fsa.go.jp/news/r6/20240830/resultsandplans.pdf",
       "https://www.bittrade.co.jp/news/"
     ]
   },
-  "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
+  "summary": "この項目は フィンテック索引 の配下にある。隣接する文脈は 日本金融規制 — トークン・暗号資産・決済に関する法体系、より広いシステム境界は 日本のステーブルコイン法制度の三層構造（JPYC・USDC・Project Pax） とあわせて読む。",
   "headings": [
-    "日本 BitTrade 上場プロセス — 登録交易所 Listing の 8 段階構造",
-    "Wiki route",
-    "検証ステータスの凡例",
-    "8 段階の全景",
-    "第 1 段階: 初期ビジネス接触 [V?]",
-    "第 2 段階: プロジェクト・デューデリ [V?]",
-    "第 3 段階: 法務 / コンプラ審査 [V~]",
-    "「偽 Utility, 真の証券」レッドライン",
-    "第 4 段階: 技術安全審査 [V?]",
-    "第 5 段階: JVCEA / FSA 対応 [V?]"
+    "日本の暗号資産取扱開始プロセス · BitTrade を含む公開資料ベースの境界",
+    "ウィキ上の位置づけ",
+    "公開資料で確認できる制度境界",
+    "公開資料から確認できる取扱開始フロー",
+    "BitTrade 固有情報の境界",
+    "Applicable When",
+    "公開資料だけでは確定できない項目",
+    "Sources",
+    "Related"
   ],
   "body_links": {
     "wikilinks_count": 9,
@@ -79,12 +82,21 @@
       "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
       "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 8,
+    "external_links": [
+      "https://jvcea.or.jp/cms/wp-content/themes/jvcea/images/pdf/public/public_20240510-02.pdf",
+      "https://jvcea.or.jp/guidelines/",
+      "https://www.bittrade.co.jp/",
+      "https://www.bittrade.co.jp/news/",
+      "https://www.fsa.go.jp/common/shinsei/denanchuukai/index.html",
+      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.pdf",
+      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx",
+      "https://www.fsa.go.jp/news/r6/20240830/resultsandplans.pdf"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 4512,
-    "word_like_tokens": 736,
+    "nonspace_chars": 4069,
+    "word_like_tokens": 546,
     "inbound_wikilinks_count": 26,
     "last_modified": "2026-06-23"
   }

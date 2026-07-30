@@ -26,8 +26,8 @@
     "domain": "fintech",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-11-25",
     "confidence": "likely",
     "tags": [
@@ -46,9 +46,11 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx",
       "https://www.rbi.org.in/Scripts/PublicationReportDetails.aspx?ID=1218",
-      "https://www.rbi.org.in/Scripts/AnnualReportPublications.aspx",
+      "https://www.rbi.org.in/SCRIPTs/BS_PressReleaseDisplay.aspx?prid=54616",
+      "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=54773",
+      "https://www.rbi.org.in/scripts/FAQView.aspx/upload/FAQView.aspx?Id=169",
+      "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=1436",
       "https://www.npci.org.in/what-we-do/upi/product-statistics",
       "https://www.bis.org/about/bisih/topics/cbdc.htm",
       "https://www.bis.org/publ/work1116.htm"
@@ -107,12 +109,18 @@
       "https://finwiki.zksc.io/ja/fintech/mbridge-bis-multi-cbdc-overview/",
       "https://finwiki.zksc.io/ja/fintech/mbridge-bis-multi-cbdc-vs-agora/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 5,
+    "external_links": [
+      "https://www.bis.org/about/bisih/topics/fmis/agora.htm",
+      "https://www.npci.org.in/product/upi/product-statistics",
+      "https://www.rbi.org.in/Scripts/PublicationReportDetails.aspx?ID=1218",
+      "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=1436",
+      "https://www.rbi.org.in/scripts/FAQView.aspx/upload/FAQView.aspx?Id=169"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 14352,
-    "word_like_tokens": 2445,
+    "nonspace_chars": 15422,
+    "word_like_tokens": 2647,
     "inbound_wikilinks_count": 4,
     "last_modified": "2026-05-29"
   }

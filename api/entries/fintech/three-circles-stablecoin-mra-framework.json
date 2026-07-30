@@ -11,28 +11,28 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/three-circles-stablecoin-mra-framework.md",
   "raw_markdown_url": "https://finwiki.zksc.io/fintech/three-circles-stablecoin-mra-framework.md",
   "domain": "fintech",
-  "title": "米 / 欧 / 日「三大円」ステーブルコイングローバルコンプライアンスアーキテクチャ",
+  "title": "米国・EU・日本の stablecoin 制度比較 —— MRA は未確認、market access は個別審査",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "米 / 欧 / 日「三大円」ステーブルコイングローバルコンプライアンスアーキテクチャ（MRA 相互認証）",
+    "title": "米国・EU・日本の stablecoin 制度比較 —— MRA は未確認、market access は個別審査",
     "aliases": [
       "three circles MRA",
-      "US-EU-Japan stablecoin agreement",
-      "三円コンプライアンスアーキテクチャ"
+      "US-EU-Japan stablecoin regimes",
+      "stablecoin market access"
     ],
     "domain": "fintech",
     "type": null,
     "created": "2026-05-13",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-06-23",
-    "review_by": "2026-09-21",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
+    "review_by": "2026-10-30",
     "confidence": "certain",
     "tags": [
       "fintech",
       "stablecoin",
       "MRA",
       "regulation",
-      "geopolitics",
+      "cross-border",
       "framework"
     ],
     "status": "active",
@@ -40,58 +40,67 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.congress.gov/bill/119th-congress/senate-bill/394",
-      "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R1114",
-      "https://www.fsa.go.jp/en/policy/sftl/index.html",
-      "https://www.bis.org/about/bisih/topics/cbdc/mcbdc_bridge.htm",
-      "https://home.treasury.gov/news/press-releases"
+      "https://www.govinfo.gov/app/details/PLAW-119publ27",
+      "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-3.html",
+      "https://eur-lex.europa.eu/eli/reg/2023/1114/oj",
+      "https://finance.ec.europa.eu/publications/joint-statement-eu-us-joint-financial-regulatory-forum-july-2026_en",
+      "https://www.fsa.go.jp/en/news/2018/20180717.html",
+      "https://www.fsa.go.jp/en/regulated/licensed/index.html",
+      "https://www.fsa.go.jp/en/conference/minister/2026/20260417.html"
     ]
   },
-  "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
+  "summary": "This entry sits under fintech index. Read it with 日本 Stablecoin 法制度の三層構造, MiCA overview, and US 2025–2026 policy reset.",
   "headings": [
-    "米 / 欧 / 日「三大円」ステーブルコイングローバルコンプライアンスアーキテクチャ",
+    "米国・EU・日本の stablecoin 制度比較 —— MRA は未確認、market access は個別審査",
     "Wiki route",
-    "Related"
+    "3 法域の現在の market-access 構造",
+    "米国: reciprocity は可能性であって既成の passport ではない",
+    "EU: MiCA authorization と第三国 license は同じではない",
+    "日本: issuer、intermediary、handled instrument を分ける",
+    "MRA を確認するための証拠チェック",
+    "分析上の結論",
+    "Related",
+    "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 13,
+    "wikilinks_count": 8,
     "wikilinks": [
       "INDEX",
       "fintech/INDEX",
       "fintech/carf-1099da-end-of-crypto-anonymity",
       "fintech/genius-act-501-denylist-mandate",
-      "fintech/india-anti-dollar-dpi-alliance",
-      "fintech/japan-epi-three-types-overview",
-      "fintech/japan-financial-regulation",
       "fintech/japan-stablecoin-regulatory-landscape",
       "fintech/mica-overview",
-      "fintech/stablecoin-chain-sovereign-currency-divide",
-      "megabanks/mufg",
-      "payment-firms/jpyc",
-      "payment-firms/progmat"
+      "fintech/regulatory-reset-2025-usa-crypto-policy",
+      "fintech/stablecoin-chain-sovereign-currency-divide"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX.md",
       "https://finwiki.zksc.io/ja/domains/fintech/",
       "https://finwiki.zksc.io/ja/fintech/carf-1099da-end-of-crypto-anonymity/",
       "https://finwiki.zksc.io/ja/fintech/genius-act-501-denylist-mandate/",
-      "https://finwiki.zksc.io/ja/fintech/india-anti-dollar-dpi-alliance/",
-      "https://finwiki.zksc.io/ja/fintech/japan-epi-three-types-overview/",
-      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
       "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
       "https://finwiki.zksc.io/ja/fintech/mica-overview/",
-      "https://finwiki.zksc.io/ja/fintech/stablecoin-chain-sovereign-currency-divide/",
-      "https://finwiki.zksc.io/ja/megabanks/mufg/",
-      "https://finwiki.zksc.io/ja/payment-firms/jpyc/",
-      "https://finwiki.zksc.io/ja/payment-firms/progmat/"
+      "https://finwiki.zksc.io/ja/fintech/regulatory-reset-2025-usa-crypto-policy/",
+      "https://finwiki.zksc.io/ja/fintech/stablecoin-chain-sovereign-currency-divide/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 9,
+    "external_links": [
+      "https://eur-lex.europa.eu/eli/reg/2023/1114/oj",
+      "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32025Y06342",
+      "https://finance.ec.europa.eu/publications/joint-statement-eu-us-joint-financial-regulatory-forum-july-2026_en",
+      "https://www.fsa.go.jp/en/conference/minister/2026/20260417.html",
+      "https://www.fsa.go.jp/en/news/2018/20180717.html",
+      "https://www.fsa.go.jp/en/news/2026/20260707/20260707.html",
+      "https://www.fsa.go.jp/en/regulated/licensed/index.html",
+      "https://www.govinfo.gov/app/details/PLAW-119publ27",
+      "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-3.html"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 2921,
-    "word_like_tokens": 478,
-    "inbound_wikilinks_count": 59,
+    "nonspace_chars": 7034,
+    "word_like_tokens": 1122,
+    "inbound_wikilinks_count": 53,
     "last_modified": "2026-06-23"
   }
 }

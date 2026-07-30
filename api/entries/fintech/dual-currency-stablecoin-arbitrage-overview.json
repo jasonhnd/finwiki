@@ -11,10 +11,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/dual-currency-stablecoin-arbitrage-overview.md",
   "raw_markdown_url": "https://finwiki.zksc.io/fintech/dual-currency-stablecoin-arbitrage-overview.md",
   "domain": "fintech",
-  "title": "二通貨ステーブルコイン・アービトラージ · §501 時代における唯一の合法 FX オンチェーン化パス",
+  "title": "二通貨ステーブルコイン交換 · オンチェーン FX の実行経路と制約",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "二通貨ステーブルコイン・アービトラージ · §501 時代における唯一の合法 FX オンチェーン化パス",
+    "title": "二通貨ステーブルコイン交換 · オンチェーン FX の実行経路と制約",
     "aliases": [
       "dual currency stablecoin arbitrage overview",
       "USDC EURC JPYC FX",
@@ -23,8 +23,8 @@
     "domain": "fintech",
     "type": null,
     "created": "2026-05-18",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-06-24",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-09-22",
     "confidence": "likely",
     "tags": [
@@ -44,6 +44,8 @@
     "sources": [
       "https://www.circle.com/en/usdc",
       "https://www.circle.com/en/eurc",
+      "https://developers.circle.com/circle-mint",
+      "https://developers.circle.com/circle-mint/supported-chains-and-currencies",
       "https://jpyc.jp/",
       "https://www.congress.gov/bill/119th-congress/senate-bill/394",
       "https://www.bis.org/cpmi/publ/d220.htm"
@@ -51,7 +53,7 @@
   },
   "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
   "headings": [
-    "二通貨ステーブルコイン・アービトラージ · §501 時代における唯一の合法 FX オンチェーン化パス",
+    "二通貨ステーブルコイン交換 · オンチェーン FX の実行経路と制約",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -60,16 +62,14 @@
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 9,
     "wikilinks": [
       "INDEX",
       "fintech/INDEX",
-      "fintech/cross-border-sc-via-swift-api",
       "fintech/dual-currency-stablecoin-arbitrage-legal-hack",
       "fintech/genius-act-501-denylist-mandate",
       "fintech/japan-financial-regulation",
       "fintech/japan-stablecoin-regulatory-landscape",
-      "fintech/mica-overview",
       "fintech/stablecoin-crossborder-b2b-growth",
       "fintech/usd-stablecoin-interchange",
       "payment-firms/jpyc"
@@ -77,23 +77,25 @@
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX.md",
       "https://finwiki.zksc.io/ja/domains/fintech/",
-      "https://finwiki.zksc.io/ja/fintech/cross-border-sc-via-swift-api/",
       "https://finwiki.zksc.io/ja/fintech/dual-currency-stablecoin-arbitrage-legal-hack/",
       "https://finwiki.zksc.io/ja/fintech/genius-act-501-denylist-mandate/",
       "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
       "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
-      "https://finwiki.zksc.io/ja/fintech/mica-overview/",
       "https://finwiki.zksc.io/ja/fintech/stablecoin-crossborder-b2b-growth/",
       "https://finwiki.zksc.io/ja/fintech/usd-stablecoin-interchange/",
       "https://finwiki.zksc.io/ja/payment-firms/jpyc/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 3,
+    "external_links": [
+      "https://developers.circle.com/circle-mint",
+      "https://developers.circle.com/circle-mint/supported-chains-and-currencies",
+      "https://jpyc.jp/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 2678,
-    "word_like_tokens": 507,
-    "inbound_wikilinks_count": 6,
+    "nonspace_chars": 2890,
+    "word_like_tokens": 444,
+    "inbound_wikilinks_count": 5,
     "last_modified": "2026-06-24"
   }
 }

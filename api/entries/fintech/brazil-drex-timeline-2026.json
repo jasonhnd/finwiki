@@ -28,8 +28,8 @@
     "domain": "fintech",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-11-25",
     "confidence": "likely",
     "tags": [
@@ -50,6 +50,7 @@
     "related": [],
     "note": null,
     "sources": [
+      "https://www.bcb.gov.br/content/estabilidadefinanceira/real_digital_docs/piloto/Relatorio_Drex_piloto_fase_1.pdf",
       "https://www.bcb.gov.br/en/financialstability/drex_en",
       "https://www.bcb.gov.br/en/pressdetail/2438/nota",
       "https://www.bcb.gov.br/estabilidadefinanceira/drex",
@@ -74,7 +75,7 @@
     "Programmable-money use cases targeted"
   ],
   "body_links": {
-    "wikilinks_count": 21,
+    "wikilinks_count": 19,
     "wikilinks": [
       "exchanges/global-vasp-regulatory-comparison-matrix",
       "fintech/INDEX",
@@ -87,9 +88,7 @@
       "fintech/cbdc-multi-tier-architecture-tradeoffs",
       "fintech/em-market-crypto-dollarization-pattern",
       "fintech/genius-act-501-denylist-mandate",
-      "fintech/indonesia-ovo-stablecoin-route",
       "fintech/institutional-stablecoin-deposit-token-thesis",
-      "fintech/issuer-distributor-incentive-realignment-50-50-model",
       "fintech/japan-epi-three-types-overview",
       "fintech/japan-stablecoin-regulatory-landscape",
       "fintech/jp-trust-type-sc-architecture",
@@ -110,9 +109,7 @@
       "https://finwiki.zksc.io/ja/fintech/cbdc-multi-tier-architecture-tradeoffs/",
       "https://finwiki.zksc.io/ja/fintech/em-market-crypto-dollarization-pattern/",
       "https://finwiki.zksc.io/ja/fintech/genius-act-501-denylist-mandate/",
-      "https://finwiki.zksc.io/ja/fintech/indonesia-ovo-stablecoin-route/",
       "https://finwiki.zksc.io/ja/fintech/institutional-stablecoin-deposit-token-thesis/",
-      "https://finwiki.zksc.io/ja/fintech/issuer-distributor-incentive-realignment-50-50-model/",
       "https://finwiki.zksc.io/ja/fintech/japan-epi-three-types-overview/",
       "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
       "https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/",
@@ -121,12 +118,19 @@
       "https://finwiki.zksc.io/ja/fintech/southeast-asia-stablecoin-regulatory-landscape/",
       "https://finwiki.zksc.io/ja/fintech/stablecoin-crossborder-b2b-growth/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 6,
+    "external_links": [
+      "https://www.bcb.gov.br/content/estabilidadefinanceira/real_digital_docs/piloto/Relatorio_Drex_piloto_fase_1.pdf",
+      "https://www.bcb.gov.br/en/financialstability/drex_en",
+      "https://www.bcb.gov.br/en/financialstability/pix",
+      "https://www.bcb.gov.br/en/pressdetail/2573/nota",
+      "https://www.bcb.gov.br/en/pressdetail/2601/nota",
+      "https://www.bcb.gov.br/estabilidadefinanceira/piloto-drex"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 12716,
-    "word_like_tokens": 1987,
+    "nonspace_chars": 13568,
+    "word_like_tokens": 2206,
     "inbound_wikilinks_count": 4,
     "last_modified": "2026-05-29"
   }

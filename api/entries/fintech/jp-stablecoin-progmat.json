@@ -23,10 +23,10 @@
     "domain": "fintech",
     "type": null,
     "created": "2026-05-18",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-06-24",
-    "review_by": "2026-09-22",
-    "confidence": "likely",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
+    "review_by": "2026-10-30",
+    "confidence": "confirmed",
     "tags": [
       "fintech",
       "jp-stablecoin",
@@ -42,8 +42,16 @@
       "https://progmat.co.jp/about/",
       "https://progmat.co.jp/concept/",
       "https://progmat.co.jp/consortium/",
-      "https://progmat.co.jp/news/",
-      "https://progmat.co.jp/en/news/"
+      "https://progmat.co.jp/press/pdf/press231002_01.pdf",
+      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.pdf",
+      "https://www.fsa.go.jp/menkyo/menkyoj/denshikessaisyudan.pdf",
+      "https://jvcea.or.jp/member/",
+      "https://www.datachain.jp/news/progmat-and-datachain-launch-project-pax",
+      "https://progmat.co.jp/wp-content/uploads/2024/11/press241101_01.pdf",
+      "https://progmat.co.jp/wp-content/uploads/2025/02/20250217_PR_02.pdf",
+      "https://progmat.co.jp/wp-content/uploads/2025/10/20250321_press-release_Progmat-IDA-and-Datachain-Join-Forces-to-Explore-Stablecoin-Based-Remittances-for-Hong-Kong-Japan-Trade-Efficiency.pdf",
+      "https://progmat.co.jp/wp-content/uploads/2026/05/20260508_PR_%E3%80%8CLaunch-of-Joint-Study-on-On-Chain-Repo-Transactions-of-Tokenized-JGBs%E3%80%8D.pdf",
+      "https://progmat.co.jp/en/news/2026-07-13-press_en/"
     ]
   },
   "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
@@ -51,13 +59,13 @@
     "株式会社Progmat — デジタルアセットプラットフォーム概要",
     "Wiki route",
     "1. 法人・株主",
-    "2. 牌照・登録状況",
+    "2. 登録・会員資格・発行体の区別",
     "3. 取扱通貨（発行支援するデジタルアセット種別）",
     "ST（セキュリティトークン / デジタル証券）",
     "SC（ステーブルコイン / Progmat Coin）",
     "UT（ユーティリティトークン / デジタル権利証）",
     "4. 業務範囲",
-    "Progmatのポジション = プラットフォーム提供者（≠ 発行体）"
+    "Progmat の直接資料で確認できる役割 — platform / support（発行者は商品別に確認）"
   ],
   "body_links": {
     "wikilinks_count": 10,
@@ -85,21 +93,27 @@
       "https://finwiki.zksc.io/ja/payment-firms/progmat/",
       "https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/"
     ],
-    "external_links_count": 7,
+    "external_links_count": 13,
     "external_links": [
+      "https://jvcea.or.jp/member/",
       "https://progmat.co.jp/about/",
-      "https://progmat.co.jp/blog/",
       "https://progmat.co.jp/concept/",
       "https://progmat.co.jp/consortium/",
-      "https://progmat.co.jp/en/news/",
-      "https://progmat.co.jp/en/news/2023-09-11-press/",
-      "https://progmat.co.jp/news/"
+      "https://progmat.co.jp/en/news/2026-07-13-press_en/",
+      "https://progmat.co.jp/press/pdf/press231002_01.pdf",
+      "https://progmat.co.jp/wp-content/uploads/2024/11/press241101_01.pdf",
+      "https://progmat.co.jp/wp-content/uploads/2025/02/20250217_PR_02.pdf",
+      "https://progmat.co.jp/wp-content/uploads/2025/10/20250321_press-release_Progmat-IDA-and-Datachain-Join-Forces-to-Explore-Stablecoin-Based-Remittances-for-Hong-Kong-Japan-Trade-Efficiency.pdf",
+      "https://progmat.co.jp/wp-content/uploads/2026/05/20260508_PR_%E3%80%8CLaunch-of-Joint-Study-on-On-Chain-Repo-Transactions-of-Tokenized-JGBs%E3%80%8D.pdf",
+      "https://www.datachain.jp/news/progmat-and-datachain-launch-project-pax",
+      "https://www.fsa.go.jp/menkyo/menkyoj/denshikessaisyudan.pdf",
+      "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.pdf"
     ]
   },
   "metrics": {
-    "nonspace_chars": 6251,
-    "word_like_tokens": 1113,
-    "inbound_wikilinks_count": 20,
+    "nonspace_chars": 10067,
+    "word_like_tokens": 1663,
+    "inbound_wikilinks_count": 19,
     "last_modified": "2026-06-24"
   }
 }

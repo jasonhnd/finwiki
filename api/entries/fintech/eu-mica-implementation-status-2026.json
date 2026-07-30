@@ -11,10 +11,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/eu-mica-implementation-status-2026.md",
   "raw_markdown_url": "https://finwiki.zksc.io/fintech/eu-mica-implementation-status-2026.md",
   "domain": "fintech",
-  "title": "EU MiCA 実装状況 2026-05 · EMT/ART ライセンス図 × USDT 撤退 × USDC マーケットシェア再構築",
+  "title": "EU MiCA 実装状況 2026-07 · ESMA EMT/ART 登録簿 × 非準拠 stablecoin 制限",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "EU MiCA 実装状況 2026-05 · EMT/ART ライセンス図 × USDT 撤退 × USDC マーケットシェア再構築",
+    "title": "EU MiCA 実装状況 2026-07 · ESMA EMT/ART 登録簿 × 非準拠 stablecoin 制限",
     "aliases": [
       "eu-mica-implementation-status-2026",
       "MiCA 2026 status",
@@ -29,8 +29,8 @@
     "domain": "fintech",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-11-25",
     "confidence": "likely",
     "tags": [
@@ -48,24 +48,25 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.esma.europa.eu/policy-activities/crypto-assets",
-      "https://www.eba.europa.eu/regulation-and-policy/crypto-assets-mica",
-      "https://www.circle.com/en/legal/eurc-mica",
+      "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
+      "https://www.esma.europa.eu/sites/default/files/2024-12/EMTWP.csv",
+      "https://www.esma.europa.eu/sites/default/files/2024-12/ARTZZ.csv",
+      "https://www.eba.europa.eu/activities/direct-supervision-and-oversight/ebas-supervisory-role-under-mica",
+      "https://www.circle.com/fr/pressroom/circle-is-first-global-stablecoin-issuer-to-comply-with-mica-eus-landmark-crypto-law",
       "https://www.sgforge.com/product/eurcv/",
-      "https://www.bbva.com/en/innovation/bbva-launches-euro-stablecoin/",
-      "https://tether.to/en/news/2024-eu-delisting/",
-      "https://eur-lex.europa.eu/eli/reg/2023/1114/oj",
-      "https://www.bafin.de/EN/Aufsicht/MiCAR/MiCAR_node.html"
+      "https://tether.io/news/tether-updates-users-on-a-strategic-transition-to-better-support-community-driven-product-support/",
+      "https://www.esma.europa.eu/press-news/esma-news/esma-and-european-commission-publish-guidance-non-mica-compliant-arts-and-emts",
+      "https://eur-lex.europa.eu/eli/reg/2023/1114/oj"
     ]
   },
-  "summary": "EU MiCA (Markets in Crypto-Assets Regulation, Regulation (EU) 2023/1114) は 2024-06 SC (EMT/ART) 部分施行および 2024-12 全面施行を経て、18 ヶ月の実装定常状態に入った。2026-05 時点の状況:EMT 持牌方 約 22 社(13 加盟国にまたがる)、ART 持牌方 わずか 3 社(Bitstamp Pay / Quantoz EURD / Société Générale 一部プロダクト)、EU 主流取引所における USDT 流通はほぼ消滅(2024-12 の約 28% シェアから 20",
+  "summary": "EU MiCA (Markets in Crypto-Assets Regulation, Regulation (EU) 2023/1114) は、EMT / ART 規定が 2024-06-30 に、その他の主要規定が 2024-12-30 に適用開始となり、CASP の最長移行期間も 2026-07-01 に終了した。ESMA の 2026-07-16 interim register を同一 LEI で集計すると、EMT ファイルには 41 行・21 発行法人・12 home states があり、ART ファイルにはデータ行がない。これは公的登録簿の snapshot であって、発行",
   "headings": [
-    "EU MiCA 実装状況 2026-05 · EMT/ART ライセンス図 × USDT 撤退 × USDC マーケットシェア再構築",
+    "EU MiCA 実装状況 2026-07 · ESMA EMT/ART 登録簿 × 非準拠 stablecoin 制限",
     "TL;DR",
     "Wiki route",
-    "実装タイムライン (2024-2026)",
-    "EMT (E-Money Token) 持牌方図 (2026-05)",
-    "ART (Asset-Referenced Token) 持牌方図 (2026-05)",
+    "実装タイムライン (2023-2026) ^[source:MiCA Regulation; ESMA guidance and register; official issuer and CASP notices]",
+    "EMT (E-Money Token) 登録簿 snapshot (2026-07-16) ^[source:ESMA EMTWP.csv snapshot 2026-07-16]",
+    "ART (Asset-Referenced Token) 登録簿 snapshot (2026-07-16) ^[source:ESMA ARTZZ.csv snapshot 2026-07-16]",
     "USDT の EU 撤退と USDC シェアの再構築",
     "Circle EURC",
     "Société Générale-FORGE EURCV (Euro Coin Vertu)",
@@ -103,12 +104,25 @@
       "https://finwiki.zksc.io/ja/fintech/tether-business-model-short-treasury-yield/",
       "https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 12,
+    "external_links": [
+      "https://eur-lex.europa.eu/eli/reg/2023/1114/oj",
+      "https://help.coinbase.com/en/coinbase/other-topics/other/mica-restricted-stablecoins",
+      "https://support.kraken.com/articles/stablecoin-offerings-for-eea-clients",
+      "https://tether.io/news/tether-updates-users-on-a-strategic-transition-to-better-support-community-driven-product-support/",
+      "https://www.circle.com/fr/pressroom/circle-is-first-global-stablecoin-issuer-to-comply-with-mica-eus-landmark-crypto-law",
+      "https://www.eba.europa.eu/activities/direct-supervision-and-oversight/ebas-supervisory-role-under-mica",
+      "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
+      "https://www.esma.europa.eu/press-news/esma-news/esma-and-european-commission-publish-guidance-non-mica-compliant-arts-and-emts",
+      "https://www.esma.europa.eu/sites/default/files/2024-12/ARTZZ.csv",
+      "https://www.esma.europa.eu/sites/default/files/2024-12/EMTWP.csv",
+      "https://www.esma.europa.eu/sites/default/files/2026-04/ESMA75-113276571-1679_Statement_on_the_end_of_transitional_periods_under_MiCA.pdf",
+      "https://www.sgforge.com/product/eurcv/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 8578,
-    "word_like_tokens": 1628,
+    "nonspace_chars": 11320,
+    "word_like_tokens": 2010,
     "inbound_wikilinks_count": 6,
     "last_modified": "2026-05-29"
   }

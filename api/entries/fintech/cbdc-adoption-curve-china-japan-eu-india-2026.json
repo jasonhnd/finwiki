@@ -11,23 +11,22 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/cbdc-adoption-curve-china-japan-eu-india-2026.md",
   "raw_markdown_url": "https://finwiki.zksc.io/fintech/cbdc-adoption-curve-china-japan-eu-india-2026.md",
   "domain": "fintech",
-  "title": "CBDC adoption curve 2026 — China e-CNY vs India eRupee vs EU digital euro vs Japan DCJPY",
+  "title": "CBDC programme status 2026 — China e-CNY vs India eRupee vs EU digital euro vs Japan pilot",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "CBDC adoption curve 2026 — China e-CNY vs India eRupee vs EU digital euro vs Japan DCJPY",
+    "title": "CBDC programme status 2026 — China e-CNY vs India eRupee vs EU digital euro vs Japan pilot",
     "aliases": [
       "cbdc-adoption-curve-china-japan-eu-india-2026",
       "cbdc adoption curve 2026",
       "cbdc cross-country comparison 2026",
-      "e-cny vs eRupee vs digital euro vs DCJPY",
-      "cbdc readiness matrix 2026",
-      "cbdc pilot adoption update 2026"
+      "e-cny vs eRupee vs digital euro",
+      "cbdc readiness matrix 2026"
     ],
     "domain": "fintech",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-11-25",
     "confidence": "likely",
     "tags": [
@@ -36,7 +35,7 @@
       "e-cny",
       "erupee",
       "digital-euro",
-      "dcjpy",
+      "japan-cbdc",
       "adoption",
       "pilot-status",
       "comparison"
@@ -46,83 +45,61 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.pbc.gov.cn/en/3688110/3688172/index.html",
-      "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx",
+      "https://www.pbc.gov.cn/en/3688247/3688978/3732405/2025080817504463594/index.html",
+      "https://www.rbi.org.in/scripts/FAQView.aspx/upload/FAQView.aspx?Id=169",
+      "https://www.rbi.org.in/scripts/AnnualReportPublications.aspx?Id=1436",
       "https://www.ecb.europa.eu/euro/digital_euro/html/index.en.html",
-      "https://www.boj.or.jp/en/paym/digital/index.htm",
-      "https://www.bis.org/publ/work1116.htm",
-      "https://www.bis.org/about/bisih/topics/cbdc.htm",
-      "https://www.decurret-dcp.com/pressrelease/"
+      "https://www.ecb.europa.eu/euro/digital_euro/progress/html/index.en.html",
+      "https://www.ecb.europa.eu/euro/digital_euro/pilot/html/index.en.html",
+      "https://www.boj.or.jp/paym/digital/"
     ]
   },
-  "summary": "This entry sits under fintech index as the cross-jurisdictional adoption snapshot for retail / wholesale CBDC programmes in mid-2026. It complements the architecture-first lens of CBDC 多层架构概览 (which classifies designs by tiering) by sitting one layer above and asking which of the four major regimes",
+  "summary": "2026-07-30 時点で、4 jurisdiction を単一の「adoption curve」に載せるには注意が必要である。China は e-CNY pilot を広域で継続し、PBoC は e-CNY を M0 統計に含める。India は retail / wholesale の両 pilot を継続し、2026-04-29 更新の RBI FAQ は 19 retail wallet banks と 16 wholesale participants を明記する。Wholesale では、国債流通市場取引の資金決済、コール市場の銀行間貸借決済、譲渡性預金証書の tokenised",
   "headings": [
-    "CBDC adoption curve 2026 — China e-CNY vs India eRupee vs EU digital euro vs Japan DCJPY",
+    "CBDC programme status 2026 — China e-CNY vs India eRupee vs EU digital euro vs Japan pilot",
+    "TL;DR",
     "Wiki route",
-    "Why a four-country snapshot matters",
-    "Matrix A · Programme name, regulator, legal status",
-    "Matrix B · Adoption metrics (most recent public)",
-    "Matrix C · Architecture choice",
-    "Matrix D · Holding limits and disintermediation defence",
-    "Matrix E · Infrastructure readiness and distribution channel",
-    "Matrix F · Political intent and pace",
-    "Adoption curve plot (2026-05)"
+    "Status matrix",
+    "Public participation metrics",
+    "Architecture and distribution",
+    "Limits, remuneration and programmability",
+    "Programme maturity",
+    "DCJPY is a separate private-money route",
+    "Reading rules"
   ],
   "body_links": {
-    "wikilinks_count": 21,
+    "wikilinks_count": 7,
     "wikilinks": [
-      "INDEX",
       "fintech/INDEX",
       "fintech/bis-project-agora-overview",
-      "fintech/bis-project-agora-vs-mbridge",
-      "fintech/bis-project-ensemble-overview",
-      "fintech/bis-project-guardian-overview",
       "fintech/cbdc-multi-tier-architecture-overview",
-      "fintech/cbdc-multi-tier-architecture-three-paradigms",
-      "fintech/cbdc-multi-tier-architecture-tradeoffs",
-      "fintech/central-banking-function-unbundling",
       "fintech/e-euro-retail-rollout",
-      "fintech/ecny-supply-chain-expansion",
       "fintech/erupee-india-pilot-status",
-      "fintech/global-stablecoin-regulatory-five-pole-matrix",
-      "fintech/hkma-stablecoin-licensing-overview",
-      "fintech/india-anti-dollar-dpi-alliance",
-      "fintech/japan-stablecoin-regulatory-landscape",
       "fintech/jp-stablecoin-dcjpy",
-      "fintech/jp-stablecoin-progmat",
-      "fintech/mbridge-bis-multi-cbdc-overview",
-      "fintech/three-circles-stablecoin-mra-framework"
+      "fintech/mbridge-bis-multi-cbdc-overview"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/INDEX.md",
       "https://finwiki.zksc.io/ja/domains/fintech/",
       "https://finwiki.zksc.io/ja/fintech/bis-project-agora-overview/",
-      "https://finwiki.zksc.io/ja/fintech/bis-project-agora-vs-mbridge/",
-      "https://finwiki.zksc.io/ja/fintech/bis-project-ensemble-overview/",
-      "https://finwiki.zksc.io/ja/fintech/bis-project-guardian-overview/",
       "https://finwiki.zksc.io/ja/fintech/cbdc-multi-tier-architecture-overview/",
-      "https://finwiki.zksc.io/ja/fintech/cbdc-multi-tier-architecture-three-paradigms/",
-      "https://finwiki.zksc.io/ja/fintech/cbdc-multi-tier-architecture-tradeoffs/",
-      "https://finwiki.zksc.io/ja/fintech/central-banking-function-unbundling/",
       "https://finwiki.zksc.io/ja/fintech/e-euro-retail-rollout/",
-      "https://finwiki.zksc.io/ja/fintech/ecny-supply-chain-expansion/",
       "https://finwiki.zksc.io/ja/fintech/erupee-india-pilot-status/",
-      "https://finwiki.zksc.io/ja/fintech/global-stablecoin-regulatory-five-pole-matrix/",
-      "https://finwiki.zksc.io/ja/fintech/hkma-stablecoin-licensing-overview/",
-      "https://finwiki.zksc.io/ja/fintech/india-anti-dollar-dpi-alliance/",
-      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
       "https://finwiki.zksc.io/ja/fintech/jp-stablecoin-dcjpy/",
-      "https://finwiki.zksc.io/ja/fintech/jp-stablecoin-progmat/",
-      "https://finwiki.zksc.io/ja/fintech/mbridge-bis-multi-cbdc-overview/",
-      "https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/"
+      "https://finwiki.zksc.io/ja/fintech/mbridge-bis-multi-cbdc-overview/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 5,
+    "external_links": [
+      "https://www.boj.or.jp/paym/digital/",
+      "https://www.ecb.europa.eu/euro/digital_euro/html/index.en.html",
+      "https://www.ecb.europa.eu/euro/digital_euro/progress/html/index.en.html",
+      "https://www.pbc.gov.cn/en/3688247/3688978/3732405/2025080817504463594/index.html",
+      "https://www.rbi.org.in/scripts/FAQView.aspx/upload/FAQView.aspx?Id=169"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 18166,
-    "word_like_tokens": 3031,
-    "inbound_wikilinks_count": 12,
+    "nonspace_chars": 8220,
+    "word_like_tokens": 1426,
+    "inbound_wikilinks_count": 11,
     "last_modified": "2026-05-29"
   }
 }

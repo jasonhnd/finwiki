@@ -11,10 +11,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/stablecoin-war-articles-2026-05.md",
   "raw_markdown_url": "https://finwiki.zksc.io/fintech/stablecoin-war-articles-2026-05.md",
   "domain": "fintech",
-  "title": "ステーブルコイン戦争シリーズ · publication-grade 長文 23 篇（2026-05）",
+  "title": "ステーブルコイン制度比較 · 公開一次資料の読書地図（2026-05 起点）",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "ステーブルコイン戦争シリーズ · publication-grade 長文 23 篇（2026-05）",
+    "title": "ステーブルコイン制度比較 · 公開一次資料の読書地図（2026-05 起点）",
     "aliases": [
       "stablecoin-war-articles-2026-05",
       "blockchain-research articles index",
@@ -23,8 +23,8 @@
     "domain": "fintech",
     "type": null,
     "created": "2026-05-18",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-11-18",
     "confidence": "certain",
     "tags": [
@@ -39,6 +39,7 @@
     "related": [],
     "note": null,
     "sources": [
+      "https://www.congress.gov/bill/119th-congress/senate-bill/1582",
       "https://www.congress.gov/bill/119th-congress/senate-bill/394",
       "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R1114",
       "https://www.fsa.go.jp/en/policy/sftl/index.html",
@@ -48,7 +49,7 @@
   },
   "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
   "headings": [
-    "ステーブルコイン戦争シリーズ · publication-grade 長文 23 篇（2026-05）",
+    "ステーブルコイン制度比較 · 公開一次資料の読書地図（2026-05 起点）",
     "Wiki route",
     "Key facts",
     "Mechanism / シリーズ構造",
@@ -86,12 +87,19 @@
       "https://finwiki.zksc.io/ja/fintech/portfolio-winner-structure-arm-analog/",
       "https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 6,
+    "external_links": [
+      "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R1114",
+      "https://www.bis.org/cpmi/publ/d215.htm",
+      "https://www.congress.gov/bill/119th-congress/senate-bill/1582",
+      "https://www.congress.gov/bill/119th-congress/senate-bill/394",
+      "https://www.fsa.go.jp/en/policy/sftl/index.html",
+      "https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/regulatory-regime-for-stablecoin-issuers/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 4519,
-    "word_like_tokens": 858,
+    "nonspace_chars": 3885,
+    "word_like_tokens": 606,
     "inbound_wikilinks_count": 0,
     "last_modified": "2026-05-29"
   }

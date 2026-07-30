@@ -8,11 +8,11 @@ FinWiki は、金融、決済、ステーブルコイン、暗号資産、資本
 
 | Metric | Current snapshot | Notes |
 |---|---:|---|
-| Markdown files | 1607 | Public corpus, control docs, templates, and release notes |
+| Markdown files | 1608 | Public corpus, control docs, templates, and release notes |
 | Topical domains | 40 | Domain directories listed in [INDEX.md](INDEX.md) |
 | Link-audited entries | 1489 | Entries checked by `tools/wiki_link_audit.ts` |
 | Unresolved link issues | 0 | Must stay at zero before release |
-| Text volume | 約1096万字 | Markdown 全体の空白除外 UTF-8 文字数（約 10,959,252） |
+| Text volume | 約1095万字 | Markdown 全体の空白除外 UTF-8 文字数（約 10,948,797） |
 | Word-like tokens | 約176万 | English / CJK mixed corpus の近似 token count |
 
 ### 入口
@@ -63,6 +63,7 @@ FinWiki は、金融、決済、ステーブルコイン、暗号資産、資本
 32. デリバティブ・証券化の table review では、取引所の現行 contract specification と市場慣行・推定値、fallback protocol の対象 benchmark と実際の cessation trigger、法的 vehicle と税務・会計結果、JHF 自身の元利金適時支払義務と guarantee / subordination を分離します。JPX、BOJ、FSA、ISDA、JHF、法令、deal-specific rating report の基準日と対象を明示し、vintage のない spread、発行量、格付、waterfall、leverage を一般的な確定値にしません。
 33. 暗号資産取引所・VASP・カストディの table review では、brand、運営法人、規制上の登録・警告、サービス提供状況、legacy / exited status を日付付きで分離します。規制当局の registry / notice、運営会社の公式 disclosure・product terms、incident / restructuring disclosure を table scope ごとに結び、aggregator や generic homepage だけで global ranking、volume、対応資産数、固定 fee / latency、insurance / custody guarantee を支えません。cross-country matrix は法的 perimeter と vintage を揃え、hack、bankruptcy、M&A、撤退は発生日・完了日・条件を区別し、未開示の dynamic metric は確定事実にしません。
 34. 財務・不動産金融の table review では、法定 threshold、取引所の comply-or-explain、当局の公布済み rule、workgroup roadmap、market practice、model assumption を別々に扱います。会社法・FIEA・税務・会計の結論は現行法令と公式 guidance に結び、WACC、LTV、DSCR、IRR、fee、tenor、cap rate は dated public evidence がなければ illustrative sensitivity または issuer-specific input と明記します。J-REIT の投資口保有金額、上場時価総額、運用資産額、DPU、occupancy、LTV は同一指標とせず、調査日・分母・直接 / 間接保有・issuer disclosure period を揃えて ja / en mirrors へ同期します。
+35. Fintech の table review では、法令、proposal、conditional approval、final licence / charter、pilot、production、issuer / distributor、reserve / collateral、direct redemption、assurance を別々の status として確認します。CBDC・stablecoin・tokenized fund の wallet、user、transaction、AUM、market cap、yield は同じ grain ではないため、基準日・分母・eligible holder・legal counterparty が揃わない比較順位を作りません。GENIUS Act、MiCA、電子決済手段、OCC、各中央銀行・監督当局・issuer の直接資料を table scope に結び、未公布ルール、将来採用、保証 yield、全 holder の償還権を推定しません。
 
 ### 検証
 
@@ -83,11 +84,11 @@ FinWiki is a public Markdown knowledge base covering finance, payments, stableco
 
 | Metric | Current snapshot | Notes |
 |---|---:|---|
-| Markdown files | 1607 | Public corpus, control docs, templates, and release notes |
+| Markdown files | 1608 | Public corpus, control docs, templates, and release notes |
 | Topical domains | 40 | Domain directories listed in [INDEX.md](INDEX.md) |
 | Link-audited entries | 1489 | Entries checked by `tools/wiki_link_audit.ts` |
 | Unresolved link issues | 0 | Must stay at zero before release |
-| Text volume | ~10.96M chars | ~10,959,252 non-space UTF-8 characters across Markdown |
+| Text volume | ~10.95M chars | ~10,948,797 non-space UTF-8 characters across Markdown |
 | Word-like tokens | ~1.76M | Approximate English / CJK mixed-corpus token count |
 
 ### Entrances
@@ -138,6 +139,7 @@ FinWiki is a public Markdown knowledge base covering finance, payments, stableco
 32. Table review for derivatives and securitization separates current exchange contract specifications from market convention or estimates, benchmarks covered by a fallback protocol from an actual cessation trigger, legal vehicles from tax or accounting outcomes, and JHF's own direct and timely principal-and-interest payment obligation from guarantees or subordination. State the date and scope of JPX, BOJ, FSA, ISDA, JHF, statutory, and deal-specific rating evidence; do not present spreads, issuance volumes, ratings, waterfalls, or leverage without a defined vintage as general fixed values.
 33. Table review for crypto exchanges, VASPs, and custody separates the brand, operating legal entity, regulatory registration or warning, service availability, and legacy or exited status with explicit dates. Bind regulator registries and notices, operator disclosures and product terms, and incident or restructuring disclosures to each table scope; an aggregator or generic homepage does not establish global rank, volume, supported-asset count, fixed fees or latency, or an insurance or custody guarantee. Cross-country matrices align legal perimeter and vintage, hacks, bankruptcies, M&A, and exits distinguish event, completion, and condition dates, and undisclosed dynamic metrics are not stated as established facts.
 34. Table review for finance and real-estate finance separates statutory thresholds, exchange comply-or-explain requirements, promulgated rules, working-group roadmaps, market practice, and model assumptions. Tie Companies Act, FIEA, tax, and accounting conclusions to current law and official guidance; label WACC, LTV, DSCR, IRR, fees, tenors, and cap rates as illustrative sensitivities or issuer-specific inputs unless dated public evidence supports them. Do not collapse J-REIT investment-unit holdings, listed market capitalization, assets under management, DPU, occupancy, or LTV into one metric; align the survey date, denominator, direct versus indirect ownership, and issuer reporting period across the ja/en mirrors.
+35. Fintech table review verifies statutes, proposals, conditional approvals, final licences or charters, pilots, production, issuer / distributor roles, reserves or collateral, direct redemption, and assurance as separate statuses. CBDC, stablecoin, and tokenized-fund wallet, user, transaction, AUM, market-cap, and yield metrics do not share one grain, so do not rank them without aligned evidence dates, denominators, eligible holders, and legal counterparties. Bind GENIUS Act, MiCA, electronic-payment-instrument, OCC, central-bank, supervisor, and issuer primary materials to table scope; do not infer unpublished rules, future adoption, guaranteed yield, or direct redemption rights for every holder.
 
 ### Validation
 
@@ -158,11 +160,11 @@ FinWiki 是一个公开 Markdown 知识库，覆盖金融、支付、稳定币�
 
 | Metric | Current snapshot | Notes |
 |---|---:|---|
-| Markdown files | 1607 | 公开 corpus、控制文档、模板与 release notes |
+| Markdown files | 1608 | 公开 corpus、控制文档、模板与 release notes |
 | Topical domains | 40 | [INDEX.md](INDEX.md) 中列出的领域目录 |
 | Link-audited entries | 1489 | 经 `tools/wiki_link_audit.ts` 检查的条目 |
 | Unresolved link issues | 0 | 发布前必须保持为零 |
-| Text volume | 约1096万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 10,959,252） |
+| Text volume | 约1095万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 10,948,797） |
 | Word-like tokens | 约176万 | English / CJK mixed corpus 的近似 token count |
 
 ### 入口
@@ -213,6 +215,7 @@ FinWiki 是一个公开 Markdown 知识库，覆盖金融、支付、稳定币�
 32. 复核衍生品与证券化表格时，必须区分交易所当前 contract specification 与市场惯例或估算、fallback protocol 覆盖的 benchmark 与实际 cessation trigger、法律 vehicle 与税务或会计结果、JHF 自身及时支付本息的义务与 guarantee / subordination。应写明 JPX、BOJ、FSA、ISDA、JHF、法令及 deal-specific rating report 的日期与适用范围，不把缺少 vintage 的 spread、发行量、评级、waterfall 或 leverage 写成通用固定值。
 33. 复核加密资产交易所、VASP 与托管表格时，必须按日期区分 brand、运营法人、监管登记或警告、服务可用状态，以及 legacy / exited status。每张表都要连接监管 registry / notice、运营方官方 disclosure 与 product terms、incident / restructuring disclosure；aggregator 或 generic homepage 不能单独证明 global ranking、volume、支持资产数量、固定 fee / latency，或 insurance / custody guarantee。跨国 matrix 必须对齐法律 perimeter 与 vintage；hack、bankruptcy、M&A 与退出要区分事件日、完成日和条件，未披露的 dynamic metric 不得写成确定事实。
 34. 复核财务与不动产金融表格时，必须区分法定 threshold、交易所 comply-or-explain、监管机关已公布 rule、工作组 roadmap、market practice 与 model assumption。公司法、FIEA、税务和会计结论应连接现行法令及官方 guidance；WACC、LTV、DSCR、IRR、fee、tenor 与 cap rate 若无带日期的公开证据，必须标为 illustrative sensitivity 或 issuer-specific input。不得把 J-REIT 的投资口持有金额、上市市值、运用资产额、DPU、occupancy 与 LTV 混为同一指标；ja / en mirrors 必须同步调查日期、分母、直接/间接持有边界及发行人报告期。
+35. 复核 Fintech 表格时，必须把法律、proposal、conditional approval、final licence / charter、pilot、production、issuer / distributor、reserve / collateral、direct redemption 与 assurance 作为不同 status 核对。CBDC、stablecoin 与 tokenized fund 的 wallet、user、transaction、AUM、market cap、yield 并不处于同一 grain；资料日期、分母、eligible holder 与 legal counterparty 未对齐时不得进行排名。每张表应连接 GENIUS Act、MiCA、电子支付手段、OCC、央行、监管机构与 issuer 的直接资料，不推断未公布规则、未来采用、保证收益或所有 holder 的直接赎回权。
 
 ### 验证
 

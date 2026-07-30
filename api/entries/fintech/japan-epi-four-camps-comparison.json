@@ -11,22 +11,22 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/japan-epi-four-camps-comparison.md",
   "raw_markdown_url": "https://finwiki.zksc.io/fintech/japan-epi-four-camps-comparison.md",
   "domain": "fintech",
-  "title": "日本 SC 4 陣営対比 · §501(d) 視点下で SBI Circle = #1",
+  "title": "日本 SC 4 ルート比較 · 発行者 / 流通業者 / 基盤 / 実証",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "日本 SC 4 陣営対比 · §501(d) 視点下で SBI Circle = #1",
+    "title": "日本 SC 4 ルート比較 · 発行者 / 流通業者 / 基盤 / 実証",
     "aliases": [
       "japan-epi-four-camps",
       "SBI Circle Holdings",
-      "JPYC Progmat camps"
+      "JPYC Progmat routes"
     ],
     "domain": "fintech",
     "type": null,
     "created": "2026-05-18",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-06-23",
-    "review_by": "2026-09-21",
-    "confidence": "likely",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
+    "review_by": "2026-10-30",
+    "confidence": "confirmed",
     "tags": [
       "fintech",
       "law",
@@ -41,58 +41,65 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.fsa.go.jp/en/policy/sftl/index.html",
-      "https://www.sbigroup.co.jp/news/",
-      "https://jpyc.co.jp/",
-      "https://progmat.co.jp/",
-      "https://www.boj.or.jp/en/paym/digital/index.htm"
+      "https://www.fsa.go.jp/menkyo/menkyoj/denshikessaisyudan.xlsx",
+      "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf",
+      "https://corporate.jpyc.co.jp/news/posts/jpyc-ex-launch",
+      "https://www.sbigroup.co.jp/news/2025/0822_15679.html",
+      "https://www.sbivc.co.jp/assets/docs/manual_tt.pdf",
+      "https://progmat.co.jp/wp-content/uploads/2025/11/20251106_%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9_%E3%80%8C%E8%A4%87%E6%95%B0%E3%81%AE%E9%8A%80%E8%A1%8C%E3%81%AB%E3%82%88%E3%82%8C%E3%82%8B%E5%85%B1%E5%90%8C%E3%81%A7%E3%81%AE%E3%82%B9%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E3%82%B3%E3%82%A4%E3%83%B3%E7%99%BA%E8%A1%8C%E3%81%A8%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC%E6%B1%BA%E6%B8%88%E3%81%AE%E9%AB%98%E5%BA%A6%E5%8C%96%E3%81%AB%E4%BF%82%E3%82%8B%E3%80%8D.pdf",
+      "https://corporate.minna-no-ginko.com/information/corporate/2025/07/04/696/",
+      "https://www.govinfo.gov/content/pkg/PLAW-119publ27/pdf/PLAW-119publ27.pdf"
     ]
   },
-  "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
+  "summary": "この項目は fintech index 配下で、日本のステーブルコイン関連プロジェクトを、法的役割と現在の実装段階で比較する。制度の発行経路は 日本 EPI 三型アーキテクチャ、発行者・流通業者・基盤の区別は 日本 Stablecoin 法制度の三層構造 と併読する。",
   "headings": [
-    "日本 SC 4 陣営対比 · §501(d) 視点下で SBI Circle = #1",
+    "日本 SC 4 ルート比較 · 発行者 / 流通業者 / 基盤 / 実証",
     "Wiki route",
-    "Key facts",
-    "Mechanism / How it works",
-    "Origin & evolution",
+    "Current map",
+    "Why there is no ranking",
+    "U.S. law does not create an automatic Japan route",
+    "Verification sequence",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 9,
     "wikilinks": [
       "INDEX",
-      "financial-licenses/INDEX",
       "fintech/INDEX",
       "fintech/japan-epi-three-types-overview",
-      "fintech/japan-financial-regulation",
       "fintech/japan-stablecoin-regulatory-landscape",
       "fintech/jp-trust-type-sc-architecture",
       "fintech/jurisdiction-list-monetary-protectionism",
       "fintech/three-circles-stablecoin-mra-framework",
-      "payment-firms/jpyc",
-      "payment-firms/progmat"
+      "payment-firms/jpyc\\",
+      "payment-firms/progmat\\"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX.md",
-      "https://finwiki.zksc.io/ja/domains/financial-licenses/",
       "https://finwiki.zksc.io/ja/domains/fintech/",
       "https://finwiki.zksc.io/ja/fintech/japan-epi-three-types-overview/",
-      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
       "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
       "https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/",
       "https://finwiki.zksc.io/ja/fintech/jurisdiction-list-monetary-protectionism/",
-      "https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/",
-      "https://finwiki.zksc.io/ja/payment-firms/jpyc/",
-      "https://finwiki.zksc.io/ja/payment-firms/progmat/"
+      "https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 8,
+    "external_links": [
+      "https://corporate.jpyc.co.jp/news/posts/jpyc-ex-launch",
+      "https://corporate.minna-no-ginko.com/information/corporate/2025/07/04/696/",
+      "https://progmat.co.jp/wp-content/uploads/2025/11/20251106_%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9_%E3%80%8C%E8%A4%87%E6%95%B0%E3%81%AE%E9%8A%80%E8%A1%8C%E3%81%AB%E3%82%88%E3%82%8B%E5%85%B1%E5%90%8C%E3%81%A7%E3%81%AE%E3%82%B9%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E3%82%B3%E3%82%A4%E3%83%B3%E7%99%BA%E8%A1%8C%E3%81%A8%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC%E6%B1%BA%E6%B8%88%E3%81%AE%E9%AB%98%E5%BA%A6%E5%8C%96%E3%81%AB%E4%BF%82%E3%82%8B%E3%80%8D.pdf",
+      "https://www.fsa.go.jp/menkyo/menkyoj/denshikessaisyudan.xlsx",
+      "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf",
+      "https://www.govinfo.gov/content/pkg/PLAW-119publ27/pdf/PLAW-119publ27.pdf",
+      "https://www.sbigroup.co.jp/news/2025/0822_15679.html",
+      "https://www.sbivc.co.jp/assets/docs/manual_tt.pdf"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 2777,
-    "word_like_tokens": 518,
-    "inbound_wikilinks_count": 12,
+    "nonspace_chars": 5754,
+    "word_like_tokens": 1163,
+    "inbound_wikilinks_count": 10,
     "last_modified": "2026-06-23"
   }
 }

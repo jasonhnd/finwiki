@@ -11,78 +11,68 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/issuer-distributor-incentive-realignment-arc-strategy.md",
   "raw_markdown_url": "https://finwiki.zksc.io/fintech/issuer-distributor-incentive-realignment-arc-strategy.md",
   "domain": "fintech",
-  "title": "Circle Arc 戦略 · 発行体が 50% 分配を取り戻す §501 エンドゲーム",
+  "title": "Circle Arc 戦略 · 発行体と分配者の経済性",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Circle Arc 戦略 · 発行体が 50% 分配を取り戻す §501 エンドゲーム",
+    "title": "Circle Arc 戦略 · 発行体と分配者の経済性",
     "aliases": [
       "issuer distributor incentive realignment arc strategy",
-      "Circle Arc rebalance",
+      "Circle Arc distribution economics",
       "USDC self-L1 economics"
     ],
     "domain": "fintech",
     "type": null,
     "created": "2026-05-18",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-06-24",
-    "review_by": "2026-08-08",
-    "confidence": "likely",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
+    "review_by": "2026-10-30",
+    "confidence": "confirmed",
     "tags": [
       "fintech",
       "circle",
       "arc",
       "coinbase",
-      "base",
       "stablecoin-l1",
-      "vertical-integration"
+      "distribution"
     ],
     "status": "active",
     "canonical_anchor": null,
     "related": [],
     "note": null,
     "sources": [
-      "https://www.circle.com/en/arc",
-      "https://www.circle.com/en/usdc",
-      "https://www.base.org/",
-      "https://investor.coinbase.com/news-events/press-releases/default.aspx",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001876042&type=10-K"
+      "https://investor.circle.com/news/news-details/2025/Circle-Launches-Arc-Public-Testnet/default.aspx",
+      "https://www.circle.com/pressroom/circle-reports-second-quarter-2025-results",
+      "https://www.sec.gov/Archives/edgar/data/1876042/000187604226000062/crcl-20251231.htm",
+      "https://www.sec.gov/Archives/edgar/data/1679788/000167978826000015/coin-20251231.htm"
     ]
   },
-  "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
+  "summary": "This entry sits under fintech index. Read it with issuer / distributor model, stablecoin-chain trilemma, and CCTP v2.",
   "headings": [
-    "Circle Arc 戦略 · 発行体が 50% 分配を取り戻す §501 エンドゲーム",
+    "Circle Arc 戦略 · 発行体と分配者の経済性",
     "Wiki route",
-    "Key facts",
-    "Mechanism / How it works",
-    "Origin & evolution",
+    "確認できる Arc の状態",
+    "Coinbase 契約で確認できること",
+    "事実と分析の分離",
+    "適切な戦略仮説",
+    "追跡指標",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 6,
     "wikilinks": [
       "INDEX",
       "fintech/INDEX",
-      "fintech/circular-reserve-asset-flywheel-overview",
       "fintech/issuer-distributor-incentive-realignment-50-50-model",
-      "fintech/japan-financial-regulation",
-      "fintech/japan-stablecoin-regulatory-landscape",
-      "fintech/onchain-finance-vs-crypto-bifurcation",
       "fintech/portfolio-winner-structure-arm-analog",
-      "fintech/protocol-hedge-strategy-stripe-pattern",
       "fintech/stablecoin-chain-token-strategy-trilemma",
       "systems/cctp-v2-overview"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX.md",
       "https://finwiki.zksc.io/ja/domains/fintech/",
-      "https://finwiki.zksc.io/ja/fintech/circular-reserve-asset-flywheel-overview/",
       "https://finwiki.zksc.io/ja/fintech/issuer-distributor-incentive-realignment-50-50-model/",
-      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
-      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
-      "https://finwiki.zksc.io/ja/fintech/onchain-finance-vs-crypto-bifurcation/",
       "https://finwiki.zksc.io/ja/fintech/portfolio-winner-structure-arm-analog/",
-      "https://finwiki.zksc.io/ja/fintech/protocol-hedge-strategy-stripe-pattern/",
       "https://finwiki.zksc.io/ja/fintech/stablecoin-chain-token-strategy-trilemma/",
       "https://finwiki.zksc.io/ja/systems/cctp-v2-overview/"
     ],
@@ -90,9 +80,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3092,
-    "word_like_tokens": 537,
-    "inbound_wikilinks_count": 13,
+    "nonspace_chars": 4909,
+    "word_like_tokens": 760,
+    "inbound_wikilinks_count": 8,
     "last_modified": "2026-06-24"
   }
 }

@@ -14,7 +14,7 @@
   "title": "グローバル・ステーブルコイン規制 五極比較マトリクス",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "グローバル・ステーブルコイン規制 五極比較マトリクス（US GENIUS / EU MiCA / 日本 EPI / HK / SG）",
+    "title": "グローバル・ステーブルコイン規制 五極比較マトリクス（US / EU / 日本 / HK / SG）",
     "aliases": [
       "global-stablecoin-regulatory-five-pole-matrix",
       "five-pole stablecoin matrix",
@@ -24,10 +24,10 @@
     "domain": "fintech",
     "type": null,
     "created": "2026-05-24",
-    "last_updated": "2026-05-24",
-    "last_tended": "2026-05-24",
-    "review_by": "2026-11-20",
-    "confidence": "likely",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
+    "review_by": "2026-10-30",
+    "confidence": "confirmed",
     "tags": [
       "fintech",
       "stablecoin",
@@ -45,37 +45,33 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://home.treasury.gov/policy-issues/financial-markets-financial-institutions-and-fiscal-service/digital-assets",
-      "https://occ.treas.gov/topics/charters-and-licensing/index-charters-and-licensing.html",
-      "https://www.esma.europa.eu/policy-activities/crypto-assets",
-      "https://www.eba.europa.eu/regulation-and-policy/markets-in-crypto-assets-mica",
-      "https://www.fsa.go.jp/policy/dem_dl/index.html",
-      "https://www.hkma.gov.hk/eng/news-and-media/press-releases/",
+      "https://www.govinfo.gov/app/details/PLAW-119publ27",
+      "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1114",
+      "https://www.fsa.go.jp/policy/virtual_currency02/index.html",
       "https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/stablecoin-issuers/",
-      "https://www.mas.gov.sg/regulation/payments",
-      "https://www.mas.gov.sg/regulation/explainers/a-guide-to-digital-token-offerings"
+      "https://www.hkma.gov.hk/media/eng/publication-and-research/annual-report/2025/16_International_Financial_Centre.pdf",
+      "https://www.mas.gov.sg/news/media-releases/2023/mas-finalises-stablecoin-regulatory-framework"
     ]
   },
-  "summary": "This entry sits under fintech index and is the cross-jurisdictional matrix view that sits above the per-regime overviews. It complements the geopolitical lens of fintech/three-circles-stablecoin-mra-framework (which collapses the world into three MRA circles), by instead enumerating all five active",
+  "summary": "This entry sits under fintech index and compares five major public regulatory frameworks at a common level of abstraction. It complements US/EU/Japan stablecoin market-access comparison, but it does not assume that any bilateral recognition arrangement exists unless an official source is cited. For",
   "headings": [
     "グローバル・ステーブルコイン規制 五極比較マトリクス",
     "Wiki route",
-    "Why a five-pole comparison",
-    "Matrix A · Statute, regulator, dates",
-    "Matrix B · Scope and excluded designs",
-    "Matrix C · Permitted issuer types",
-    "Matrix D · Reserve composition, redemption, capital",
-    "Matrix E · Cross-border and third-country access",
-    "Matrix F · Disclosure, audit, AML, resolution",
-    "Matrix G · Permitted use, distribution, interoperability"
+    "How to read the matrix",
+    "Matrix A · Legal basis, regulator, and status",
+    "Matrix B · Regulated object and issuer path",
+    "Matrix C · Reserve, redemption, and disclosure",
+    "Matrix D · Cross-border access",
+    "Matrix E · AML/CFT and supervision",
+    "Practical routing questions",
+    "Related"
   ],
   "body_links": {
-    "wikilinks_count": 10,
+    "wikilinks_count": 9,
     "wikilinks": [
       "INDEX",
       "exchanges/INDEX",
       "fintech/INDEX",
-      "fintech/genius-act-501-denylist-mandate",
       "fintech/hkma-stablecoin-licensing-overview",
       "fintech/japan-epi-three-types-overview",
       "fintech/japan-stablecoin-regulatory-landscape",
@@ -87,7 +83,6 @@
       "https://finwiki.zksc.io/INDEX.md",
       "https://finwiki.zksc.io/ja/domains/exchanges/",
       "https://finwiki.zksc.io/ja/domains/fintech/",
-      "https://finwiki.zksc.io/ja/fintech/genius-act-501-denylist-mandate/",
       "https://finwiki.zksc.io/ja/fintech/hkma-stablecoin-licensing-overview/",
       "https://finwiki.zksc.io/ja/fintech/japan-epi-three-types-overview/",
       "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
@@ -99,9 +94,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 14036,
-    "word_like_tokens": 2397,
-    "inbound_wikilinks_count": 31,
+    "nonspace_chars": 12874,
+    "word_like_tokens": 2102,
+    "inbound_wikilinks_count": 32,
     "last_modified": "2026-06-23"
   }
 }

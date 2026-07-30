@@ -11,11 +11,12 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/cosmos-ibc-for-financial-institutions.md",
   "raw_markdown_url": "https://finwiki.zksc.io/fintech/cosmos-ibc-for-financial-institutions.md",
   "domain": "fintech",
-  "title": "Cosmos IBC for Financial Institutions",
+  "title": "金融機関向けクロスチェーン・プロトコル比較 — IBC / LCP / CCIP / LayerZero / Hyperlane",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Cosmos IBC for Financial Institutions —— 金融機関向け cross-chain protocol 选型",
+    "title": "金融機関向けクロスチェーン・プロトコル比較 — IBC / LCP / CCIP / LayerZero / Hyperlane",
     "aliases": [
+      "Cosmos IBC for Financial Institutions",
       "Cosmos IBC for FI",
       "IBC for banking",
       "cross-chain protocol comparison"
@@ -23,8 +24,8 @@
     "domain": "fintech",
     "type": null,
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-06-24",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-08-08",
     "confidence": "likely",
     "tags": [
@@ -43,58 +44,64 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://ibcprotocol.dev/",
-      "https://www.cosmos.network/ibc",
-      "https://www.hyperlane.xyz/",
-      "https://chain.link/cross-chain",
-      "https://layerzero.network/"
+      "https://github.com/cosmos/ibc/blob/main/spec/core/ics-002-client-semantics/README.md",
+      "https://docs.cosmos.network/ibc/latest/intro",
+      "https://docs.lcp.network/how-lcp-works/",
+      "https://docs.lcp.network/security-model/",
+      "https://docs.chain.link/ccip/concepts/architecture/offchain/overview",
+      "https://www.swift.com/sites/default/files/files/results_report_swift_interoperability_experiments_final_310823.pdf",
+      "https://docs.layerzero.network/v2/concepts/modular-security/security-stack-dvns",
+      "https://docs.hyperlane.xyz/docs/protocol/ISM/modular-security",
+      "https://www.datachain.jp/ja/news/progmat-and-datachain-launch-project-pax"
     ]
   },
-  "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
+  "summary": "この項目は fintech index の配下で、金融機関がクロスチェーン方式を比較する際の技術的デューデリジェンス項目を整理する。日本の制度境界は 日本金融規制 と 日本のステーブルコイン規制構造、Project Pax の資料境界は Swift API を利用するクロスボーダー SC とあわせて読む。本項は、特定プロトコルの法的適合性、本番利用、または規制上の優位を認定するものではない。",
   "headings": [
-    "Cosmos IBC for Financial Institutions",
-    "Wiki route",
-    "4 つの代表 protocol 比較",
-    "なぜ IBC + LCP が金融機関向けに優位なのか",
-    "金融機関視点での弱点",
-    "銀行 stack での実装例(Progmat / Project Pax)",
-    "Hyperlane / CCIP / LayerZero との使い分け",
-    "§501(d) 視点",
+    "金融機関向けクロスチェーン・プロトコル比較 — IBC / LCP / CCIP / LayerZero / Hyperlane",
+    "ウィキ上の位置づけ",
+    "プロトコル比較",
+    "IBC / LCP で確認すべき仮定",
+    "共通の導入デューデリジェンス",
+    "Project Pax の資料で確認できる範囲",
+    "候補比較の進め方",
+    "証拠の境界",
     "応用",
-    "Related"
+    "関連"
   ],
   "body_links": {
-    "wikilinks_count": 10,
+    "wikilinks_count": 6,
     "wikilinks": [
       "INDEX",
       "fintech/INDEX",
-      "fintech/central-banking-function-unbundling",
       "fintech/cross-border-sc-via-swift-api",
-      "fintech/genius-act-501-denylist-mandate",
       "fintech/japan-financial-regulation",
       "fintech/japan-stablecoin-regulatory-landscape",
-      "fintech/jp-trust-type-sc-architecture",
-      "fintech/multi-megabank-consortium-governance",
-      "systems/cross-chain-five-pole-comparison-matrix"
+      "fintech/jp-trust-type-sc-architecture"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX.md",
       "https://finwiki.zksc.io/ja/domains/fintech/",
-      "https://finwiki.zksc.io/ja/fintech/central-banking-function-unbundling/",
       "https://finwiki.zksc.io/ja/fintech/cross-border-sc-via-swift-api/",
-      "https://finwiki.zksc.io/ja/fintech/genius-act-501-denylist-mandate/",
       "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
       "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
-      "https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/",
-      "https://finwiki.zksc.io/ja/fintech/multi-megabank-consortium-governance/",
-      "https://finwiki.zksc.io/ja/systems/cross-chain-five-pole-comparison-matrix/"
+      "https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 9,
+    "external_links": [
+      "https://docs.chain.link/ccip/concepts/architecture/offchain/overview",
+      "https://docs.cosmos.network/ibc/latest/intro",
+      "https://docs.hyperlane.xyz/docs/protocol/ISM/modular-security",
+      "https://docs.layerzero.network/v2/concepts/modular-security/security-stack-dvns",
+      "https://docs.lcp.network/how-lcp-works/",
+      "https://docs.lcp.network/security-model/",
+      "https://github.com/cosmos/ibc/blob/main/spec/core/ics-002-client-semantics/README.md",
+      "https://www.datachain.jp/ja/news/progmat-and-datachain-launch-project-pax",
+      "https://www.swift.com/sites/default/files/files/results_report_swift_interoperability_experiments_final_310823.pdf"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 4138,
-    "word_like_tokens": 705,
+    "nonspace_chars": 8696,
+    "word_like_tokens": 1246,
     "inbound_wikilinks_count": 11,
     "last_modified": "2026-06-24"
   }

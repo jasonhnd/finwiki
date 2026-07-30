@@ -23,8 +23,8 @@
     "domain": "fintech",
     "type": null,
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-06-24",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-09-22",
     "confidence": "likely",
     "tags": [
@@ -42,30 +42,30 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://progmat.co.jp/",
-      "https://www.mufg.jp/english/",
-      "https://www.smfg.co.jp/english/",
-      "https://www.mizuho-fg.com/index.html"
+      "https://progmat.co.jp/press/pdf/press231002_01.pdf",
+      "https://www.tr.mufg.jp/ippan/release/pdf_mutb/230911_1.pdf",
+      "https://progmat.co.jp/about/",
+      "https://www.bis.org/about/bisih/topics/fmis/agora.htm",
+      "https://www.bis.org/publ/othp110.pdf"
     ]
   },
   "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
   "headings": [
     "多巨行联合体治理",
     "Wiki route",
-    "3 つの治理モデル",
-    "Progmat 構造の精緻設計",
-    "多巨行型ガバナンス成立の条件",
+    "公開記録で確認できる形態",
+    "Progmat 設立時の株主構成",
+    "所有構造から推定してはいけないこと",
     "BIS Project Agorá との対比",
     "共通リスク",
     "応用",
     "Related"
   ],
   "body_links": {
-    "wikilinks_count": 12,
+    "wikilinks_count": 10,
     "wikilinks": [
       "INDEX",
       "fintech/INDEX",
-      "fintech/bis-project-agora-overview",
       "fintech/central-banking-function-unbundling",
       "fintech/cosmos-ibc-for-financial-institutions",
       "fintech/cross-border-sc-via-swift-api",
@@ -73,13 +73,11 @@
       "fintech/japan-stablecoin-regulatory-landscape",
       "fintech/jp-trust-type-sc-architecture",
       "megabanks/mufg",
-      "megabanks/smfg",
-      "payment-firms/progmat"
+      "megabanks/smfg"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX.md",
       "https://finwiki.zksc.io/ja/domains/fintech/",
-      "https://finwiki.zksc.io/ja/fintech/bis-project-agora-overview/",
       "https://finwiki.zksc.io/ja/fintech/central-banking-function-unbundling/",
       "https://finwiki.zksc.io/ja/fintech/cosmos-ibc-for-financial-institutions/",
       "https://finwiki.zksc.io/ja/fintech/cross-border-sc-via-swift-api/",
@@ -87,16 +85,19 @@
       "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
       "https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/",
       "https://finwiki.zksc.io/ja/megabanks/mufg/",
-      "https://finwiki.zksc.io/ja/megabanks/smfg/",
-      "https://finwiki.zksc.io/ja/payment-firms/progmat/"
+      "https://finwiki.zksc.io/ja/megabanks/smfg/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 3,
+    "external_links": [
+      "https://progmat.co.jp/press/pdf/press231002_01.pdf",
+      "https://www.bis.org/about/bisih/topics/fmis/agora.htm",
+      "https://www.bis.org/publ/othp110.pdf"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 3364,
-    "word_like_tokens": 541,
-    "inbound_wikilinks_count": 12,
+    "nonspace_chars": 4277,
+    "word_like_tokens": 709,
+    "inbound_wikilinks_count": 11,
     "last_modified": "2026-06-24"
   }
 }
