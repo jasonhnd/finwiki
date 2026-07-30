@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-07-30T09:20:58+09:00",
+  "generated_at": "2026-07-30T21:03:58+09:00",
   "counts": {
     "markdown_files": 1608,
     "public_markdown_pages": 1607,
@@ -37982,7 +37982,7 @@
       "entity_edges": [],
       "nonspace_chars": 15785,
       "word_like_tokens": 2622,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/bahamas-sand-dollar-cbdc.md",
@@ -38045,7 +38045,7 @@
       "entity_edges": [],
       "nonspace_chars": 15094,
       "word_like_tokens": 2454,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/basel-iii-frtb-crypto-exposure-implications.md",
@@ -38223,7 +38223,7 @@
       "entity_edges": [],
       "nonspace_chars": 12481,
       "word_like_tokens": 2046,
-      "last_modified": "2026-06-01"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/bis-project-agora-overview.md",
@@ -38762,7 +38762,7 @@
       "entity_edges": [],
       "nonspace_chars": 12191,
       "word_like_tokens": 2053,
-      "last_modified": "2026-06-01"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/brazil-drex-timeline-2026.md",
@@ -38845,7 +38845,7 @@
       "entity_edges": [],
       "nonspace_chars": 13568,
       "word_like_tokens": 2206,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/brazil-mexico-cbdc-stablecoin-push-2026.md",
@@ -38903,7 +38903,7 @@
       "entity_edges": [],
       "nonspace_chars": 6848,
       "word_like_tokens": 1162,
-      "last_modified": "2026-06-01"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/carf-1099da-end-of-crypto-anonymity.md",
@@ -39063,7 +39063,7 @@
       "entity_edges": [],
       "nonspace_chars": 8220,
       "word_like_tokens": 1426,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/cbdc-multi-tier-architecture-overview.md",
@@ -39292,7 +39292,7 @@
       "entity_edges": [],
       "nonspace_chars": 6130,
       "word_like_tokens": 882,
-      "last_modified": "2026-06-24"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/cftc-sec-crypto-jurisdiction.md",
@@ -39631,7 +39631,7 @@
       "entity_edges": [],
       "nonspace_chars": 8696,
       "word_like_tokens": 1246,
-      "last_modified": "2026-06-24"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/cross-border-sc-via-swift-api.md",
@@ -39690,7 +39690,7 @@
       "entity_edges": [],
       "nonspace_chars": 4278,
       "word_like_tokens": 640,
-      "last_modified": "2026-06-24"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/dora-eu-digital-operational-resilience-ctpp.md",
@@ -39910,7 +39910,7 @@
       "entity_edges": [],
       "nonspace_chars": 2890,
       "word_like_tokens": 444,
-      "last_modified": "2026-06-24"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/e-euro-retail-rollout.md",
@@ -39991,7 +39991,7 @@
       "entity_edges": [],
       "nonspace_chars": 15603,
       "word_like_tokens": 2614,
-      "last_modified": "2026-06-01"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/ecny-supply-chain-expansion.md",
@@ -40074,7 +40074,7 @@
       "entity_edges": [],
       "nonspace_chars": 18018,
       "word_like_tokens": 3023,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/em-market-crypto-dollarization-pattern.md",
@@ -40192,7 +40192,7 @@
       "entity_edges": [],
       "nonspace_chars": 5974,
       "word_like_tokens": 928,
-      "last_modified": "2026-06-24"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse.md",
@@ -40259,7 +40259,7 @@
       "entity_edges": [],
       "nonspace_chars": 5599,
       "word_like_tokens": 886,
-      "last_modified": "2026-06-24"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/enterprise-procurement-deadline-anchor.md",
@@ -40308,7 +40308,7 @@
       "entity_edges": [],
       "nonspace_chars": 2341,
       "word_like_tokens": 327,
-      "last_modified": "2026-06-24"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/erupee-india-pilot-status.md",
@@ -40386,7 +40386,7 @@
       "entity_edges": [],
       "nonspace_chars": 15422,
       "word_like_tokens": 2647,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/eu-mica-implementation-status-2026.md",
@@ -40463,7 +40463,7 @@
       "entity_edges": [],
       "nonspace_chars": 11320,
       "word_like_tokens": 2010,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/european-payments-initiative-wero.md",
@@ -40908,7 +40908,7 @@
       "entity_edges": [],
       "nonspace_chars": 12386,
       "word_like_tokens": 1886,
-      "last_modified": "2026-06-01"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/frax-frxusd-defi-stablecoin.md",
@@ -41078,7 +41078,7 @@
       "entity_edges": [],
       "nonspace_chars": 10641,
       "word_like_tokens": 1747,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/genius-act-501-denylist-mandate.md",
@@ -41195,7 +41195,7 @@
       "entity_edges": [],
       "nonspace_chars": 14854,
       "word_like_tokens": 2433,
-      "last_modified": "2026-06-01"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/global-stablecoin-regulatory-five-pole-matrix.md",
@@ -41251,7 +41251,7 @@
       "entity_edges": [],
       "nonspace_chars": 12874,
       "word_like_tokens": 2102,
-      "last_modified": "2026-06-23"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/gold-tokenization-scheme-comparison.md",
@@ -41367,7 +41367,7 @@
       "entity_edges": [],
       "nonspace_chars": 7668,
       "word_like_tokens": 1143,
-      "last_modified": "2026-06-24"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/hk-frtb-stablecoin-reserve-overview.md",
@@ -41414,7 +41414,7 @@
       "entity_edges": [],
       "nonspace_chars": 5048,
       "word_like_tokens": 802,
-      "last_modified": "2026-06-24"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/hkma-stablecoin-licensing-implications.md",
@@ -41641,7 +41641,7 @@
       "entity_edges": [],
       "nonspace_chars": 14498,
       "word_like_tokens": 2241,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/institutional-stablecoin-deposit-token-thesis.md",
@@ -41704,7 +41704,7 @@
       "entity_edges": [],
       "nonspace_chars": 5773,
       "word_like_tokens": 882,
-      "last_modified": "2026-06-23"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/irs-1099-da.md",
@@ -41814,7 +41814,7 @@
       "entity_edges": [],
       "nonspace_chars": 3069,
       "word_like_tokens": 446,
-      "last_modified": "2026-06-24"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/issuer-distributor-incentive-realignment-arc-strategy.md",
@@ -41863,7 +41863,7 @@
       "entity_edges": [],
       "nonspace_chars": 4909,
       "word_like_tokens": 760,
-      "last_modified": "2026-06-24"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/jamaica-jam-dex-cbdc.md",
@@ -41942,7 +41942,7 @@
       "entity_edges": [],
       "nonspace_chars": 12323,
       "word_like_tokens": 2111,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/japan-bittrade-listing-process.md",
@@ -42006,7 +42006,7 @@
       "entity_edges": [],
       "nonspace_chars": 4069,
       "word_like_tokens": 546,
-      "last_modified": "2026-06-23"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/japan-ecisb-license.md",
@@ -42123,7 +42123,7 @@
       "entity_edges": [],
       "nonspace_chars": 5754,
       "word_like_tokens": 1163,
-      "last_modified": "2026-06-23"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/japan-epi-three-types-overview.md",
@@ -42180,7 +42180,7 @@
       "entity_edges": [],
       "nonspace_chars": 2658,
       "word_like_tokens": 373,
-      "last_modified": "2026-06-24"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/japan-financial-regulation.md",
@@ -42299,7 +42299,7 @@
       "entity_edges": [],
       "nonspace_chars": 5644,
       "word_like_tokens": 860,
-      "last_modified": "2026-06-24"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/japan-stablecoin-2026-event-tracker.md",
@@ -42367,7 +42367,7 @@
       "entity_edges": [],
       "nonspace_chars": 8627,
       "word_like_tokens": 1482,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/japan-stablecoin-regulatory-landscape.md",
@@ -42424,7 +42424,7 @@
       "entity_edges": [],
       "nonspace_chars": 2952,
       "word_like_tokens": 471,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/japan-third-party-allotment-5-step-flow.md",
@@ -42532,7 +42532,7 @@
       "entity_edges": [],
       "nonspace_chars": 4050,
       "word_like_tokens": 599,
-      "last_modified": "2026-06-24"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/jp-stablecoin-progmat.md",
@@ -42604,7 +42604,7 @@
       "entity_edges": [],
       "nonspace_chars": 10067,
       "word_like_tokens": 1663,
-      "last_modified": "2026-06-24"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/jp-trust-type-sc-architecture.md",
@@ -42663,7 +42663,7 @@
       "entity_edges": [],
       "nonspace_chars": 4511,
       "word_like_tokens": 695,
-      "last_modified": "2026-06-23"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/jpm-onyx-wholesale-network.md",
@@ -42837,7 +42837,7 @@
       "entity_edges": [],
       "nonspace_chars": 3345,
       "word_like_tokens": 483,
-      "last_modified": "2026-06-24"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/latin-america-cbdc-stablecoin-dollarization.md",
@@ -42923,7 +42923,7 @@
       "entity_edges": [],
       "nonspace_chars": 11850,
       "word_like_tokens": 1951,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/m-network-m0-neutral-infrastructure.md",
@@ -43042,7 +43042,7 @@
       "entity_edges": [],
       "nonspace_chars": 6301,
       "word_like_tokens": 998,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/maina-wallet-kyc-permissionless-ux-bridge.md",
@@ -43553,7 +43553,7 @@
       "entity_edges": [],
       "nonspace_chars": 4277,
       "word_like_tokens": 709,
-      "last_modified": "2026-06-24"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/national-license-private-stablecoin-with-dpi-export.md",
@@ -43608,7 +43608,7 @@
       "entity_edges": [],
       "nonspace_chars": 3723,
       "word_like_tokens": 559,
-      "last_modified": "2026-06-24"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/nigeria-enaira-retail-cbdc.md",
@@ -43661,7 +43661,7 @@
       "entity_edges": [],
       "nonspace_chars": 7140,
       "word_like_tokens": 1183,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/occ-bank-charter-crypto-2025.md",
@@ -43754,7 +43754,7 @@
       "entity_edges": [],
       "nonspace_chars": 17112,
       "word_like_tokens": 2744,
-      "last_modified": "2026-06-01"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage.md",
@@ -43812,7 +43812,7 @@
       "entity_edges": [],
       "nonspace_chars": 6320,
       "word_like_tokens": 996,
-      "last_modified": "2026-06-24"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/onchain-finance-vs-crypto-bifurcation.md",
@@ -43871,7 +43871,7 @@
       "entity_edges": [],
       "nonspace_chars": 2633,
       "word_like_tokens": 357,
-      "last_modified": "2026-06-23"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/ondo-finance-rusdy-adoption.md",
@@ -44075,7 +44075,7 @@
       "entity_edges": [],
       "nonspace_chars": 10641,
       "word_like_tokens": 1786,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/paypal-pyusd-stablecoin.md",
@@ -44185,7 +44185,7 @@
       "entity_edges": [],
       "nonspace_chars": 4328,
       "word_like_tokens": 577,
-      "last_modified": "2026-06-24"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/protocol-hedge-strategy-stripe-pattern.md",
@@ -44292,7 +44292,7 @@
       "entity_edges": [],
       "nonspace_chars": 4741,
       "word_like_tokens": 649,
-      "last_modified": "2026-06-24"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/regulatory-reset-2025-usa-crypto-policy.md",
@@ -44369,7 +44369,7 @@
       "entity_edges": [],
       "nonspace_chars": 17431,
       "word_like_tokens": 2767,
-      "last_modified": "2026-06-01"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/regulatory-window-strategic-acquisition.md",
@@ -44477,7 +44477,7 @@
       "entity_edges": [],
       "nonspace_chars": 2897,
       "word_like_tokens": 414,
-      "last_modified": "2026-06-24"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/ripple-rlusd-stablecoin.md",
@@ -44791,7 +44791,7 @@
       "entity_edges": [],
       "nonspace_chars": 16792,
       "word_like_tokens": 2738,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/sovereign-capital-pool-aramco-anchor.md",
@@ -44959,7 +44959,7 @@
       "entity_edges": [],
       "nonspace_chars": 4030,
       "word_like_tokens": 580,
-      "last_modified": "2026-06-24"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/stablecoin-chain-token-strategy-trilemma.md",
@@ -45011,7 +45011,7 @@
       "entity_edges": [],
       "nonspace_chars": 4658,
       "word_like_tokens": 722,
-      "last_modified": "2026-06-24"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/stablecoin-channel-japan-sbi-jpyc-ring.md",
@@ -45201,7 +45201,7 @@
       "entity_edges": [],
       "nonspace_chars": 11685,
       "word_like_tokens": 1828,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/stablecoin-revenue-split-economics.md",
@@ -45324,7 +45324,7 @@
       "entity_edges": [],
       "nonspace_chars": 3885,
       "word_like_tokens": 606,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/state-charter-crypto-arbitrage-2025.md",
@@ -45394,7 +45394,7 @@
       "entity_edges": [],
       "nonspace_chars": 14322,
       "word_like_tokens": 2328,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/stripe-usdb-bridge-stablecoin.md",
@@ -45517,7 +45517,7 @@
       "entity_edges": [],
       "nonspace_chars": 3727,
       "word_like_tokens": 588,
-      "last_modified": "2026-06-23"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/tether-usat-anchorage.md",
@@ -45693,7 +45693,7 @@
       "entity_edges": [],
       "nonspace_chars": 7034,
       "word_like_tokens": 1122,
-      "last_modified": "2026-06-23"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/tokenized-deposit-cumulative-volume-scale.md",
@@ -45817,7 +45817,7 @@
       "entity_edges": [],
       "nonspace_chars": 14294,
       "word_like_tokens": 2268,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/tokenized-mmf-wisdomtree-hashnote.md",
@@ -45882,7 +45882,7 @@
       "entity_edges": [],
       "nonspace_chars": 4571,
       "word_like_tokens": 665,
-      "last_modified": "2026-06-24"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/treasury-stablecoin-policy-2025.md",
@@ -45956,7 +45956,7 @@
       "entity_edges": [],
       "nonspace_chars": 14654,
       "word_like_tokens": 2366,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/usd-stablecoin-interchange.md",
@@ -46111,7 +46111,7 @@
       "entity_edges": [],
       "nonspace_chars": 18292,
       "word_like_tokens": 2912,
-      "last_modified": "2026-05-29"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/wall-street-crypto-network-neutrality.md",
@@ -46237,7 +46237,7 @@
       "entity_edges": [],
       "nonspace_chars": 25949,
       "word_like_tokens": 4096,
-      "last_modified": "2026-07-29"
+      "last_modified": "2026-07-30"
     },
     {
       "source_path": "fintech/world-liberty-usd1-political-stablecoin.md",
