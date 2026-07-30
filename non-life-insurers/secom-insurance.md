@@ -3,8 +3,8 @@ title: "セコム損害保険"
 aliases: ["セコム損保", "Secom Insurance", "Secom General Insurance", "セコム損害保険株式会社"]
 domain: non-life-insurers
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, insurance, non-life-insurance, security-services, operating-company]
@@ -27,6 +27,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 セコム損害保険株式会社は、金融庁の損害保険会社免許一覧に掲載される non-life insurer。Security services group adjacency を持つため、traditional insurance-only groups とは異なる risk-prevention / service-bundled insurance lens で見る。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, sonpohogo.or.jp, secom-sonpo.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sonpohogo.or.jp; secom-sonpo.co.jp]
 
 | Item | Notes |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: payment-firms/wise-payments-japan
-source_hash: 9413d1358ea65079
+source_hash: 731b63d684b4480a
 lang: ja
 status: machine
 fidelity: ok
 title: "Wise Payments Japan"
-translated_at: 2026-06-26T03:26:36.042Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Wise Payments Japan
@@ -18,6 +18,8 @@ translated_at: 2026-06-26T03:26:36.042Z
 ## 要点ワイズ・ペイメンツ・ジャパンは Wise グループの日本法人で、公式会社情報ページは第一種および第二種資金移動業者として登録番号を明示している。日本のクロスボーダー送金・多通貨口座サービスの競争を見る際の代表的な運営会社である。^[verified-2026-06-24]
 
 ## 1. 法人・ライセンス境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（wise.com, newsroom.wise.com, fsa.go.jp）の範囲に限定して読む。^[source:wise.com; newsroom.wise.com; fsa.go.jp]
 
 | 項目 | 読み方 |
 |---|---|

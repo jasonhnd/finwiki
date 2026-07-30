@@ -8,8 +8,8 @@ aliases:
   - "Google Play 残高"
 domain: payments
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [payments, prepaid, gift-card, google, google-play, android, closed-loop, digital-prepaid]
@@ -35,6 +35,8 @@ This entry sits under [[payments/INDEX|payments index]] as the Google Play Gift 
 
 ## Issuer and operational structure
 
+The following table is scoped to public primary sources (play.google.com, support.google.com, google.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:play.google.com; support.google.com; google.co.jp; fsa.go.jp]
+
 | Dimension | Reading |
 |---|---|
 | Operating company | Google Asia Pacific Pte Ltd (issuer); Google Japan G.K. (Japan local entity) |
@@ -59,6 +61,8 @@ Google Play Gift Card is registered as **自家型前払式支払手段** under 
 ## Cardless on-ramp use case
 
 Google Play Gift Card's principal role in Japan is **cardless on-ramp for Android users** — particularly:
+
+The following table is scoped to public primary sources (play.google.com, support.google.com, google.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:play.google.com; support.google.com; google.co.jp; fsa.go.jp]
 
 | Cohort | Use case |
 |---|---|

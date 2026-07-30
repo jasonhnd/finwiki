@@ -1,11 +1,11 @@
 ---
 source: payment-firms/bnpl-landscape
-source_hash: 99b6c4d9ee1c40e2
+source_hash: 340b3017e20deb8d
 lang: ja
 status: machine
 fidelity: ok
 title: "日本の BNPL ランドスケープ"
-translated_at: 2026-06-19T06:09:18.093Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本の BNPL ランドスケープ
@@ -22,6 +22,8 @@ JapanFG にとって、コントロールの問いは次のとおりである：
 
 ## マーケットマップ
 
+以下の表は、エントリ出典インベントリの公開一次資料（paidy.com, investor.pypl.com, newsroom.jp.paypal-corp.com）の範囲に限定して読む。^[source:paidy.com; investor.pypl.com; newsroom.jp.paypal-corp.com]
+
 | 層 | 日本の例 | なぜ重要か |
 |---|---|---|
 | 専用 BNPL | [[payment-firms/paidy|Paidy]] | 日本を代表する BNPL プラットフォーム；PayPal の所有がグローバル決済の橋渡しにする |
@@ -31,6 +33,8 @@ JapanFG にとって、コントロールの問いは次のとおりである：
 | コンビニ返済 | Paidy 型のコンビニ払い行動 | オンライン購入からオフライン現金返済への日本特有の橋渡し |
 
 ## 法的 / 商品の境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（paidy.com, investor.pypl.com, newsroom.jp.paypal-corp.com）の範囲に限定して読む。^[source:paidy.com; investor.pypl.com; newsroom.jp.paypal-corp.com]
 
 | 商品設計 | 法的な問い |
 |---|---|
@@ -62,6 +66,8 @@ Paidy が重要なのは、BNPL を日本向けにローカライズしたから
 - ポイントで信用を補助できるアプリエコシステム。
 
 ## JapanFG 関連性
+
+以下の表は、エントリ出典インベントリの公開一次資料（paidy.com, investor.pypl.com, newsroom.jp.paypal-corp.com）の範囲に限定して読む。^[source:paidy.com; investor.pypl.com; newsroom.jp.paypal-corp.com]
 
 | JapanFG 事業体 | 関連性 |
 |---|---|

@@ -7,8 +7,8 @@ aliases:
   - "メトロポリタン銀行"
 domain: foreign-financial-institutions
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-22
 confidence: likely
 tags: [JapanFG, foreign-bank, Philippines, remittance, trade-finance, lending]
@@ -36,6 +36,8 @@ Metrobank Japan has a public Japan branch site with Tokyo Branch and, historical
 The page is worth standalone treatment because Metrobank is the second strong Philippines-Japan bank corridor page after [[foreign-financial-institutions/philippine-national-bank-japan|PNB Japan]]. It links diaspora remittance, branch banking, trade finance, and corporate services.
 
 ## Entity Boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, metrobank.co.jp, metrobank.com.ph). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; metrobank.co.jp; metrobank.com.ph]
 
 | Item | Reading |
 |---|---|

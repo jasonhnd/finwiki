@@ -3,8 +3,8 @@ title: "DBS銀行 東京支店"
 aliases: ["DBS Bank Japan", "DBS Bank Tokyo Branch", "DBS Bank Limited Tokyo Branch", "ＤＢＳ銀行", "ＤＢＳ銀行東京支店"]
 domain: foreign-financial-institutions
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, banking, foreign-bank-branch, singapore, wholesale-banking, operating-branch]
@@ -26,6 +26,8 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 DBS銀行 東京支店は、金融庁の外国銀行支店一覧に掲載される Singapore / DBS Bank Limited の在日銀行支店。1977 年営業開始の Asia wholesale branch であり、DBS Japan では個人向け日本リテールではなく corporate / institutional banking を中心に扱う。
 
 ## 1. License / branch boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, dbs.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; dbs.com]
 
 | Item | Notes |
 |---|---|

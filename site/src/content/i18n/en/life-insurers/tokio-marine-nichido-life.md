@@ -1,11 +1,11 @@
 ---
 source: life-insurers/tokio-marine-nichido-life
-source_hash: f955acee195a76eb
+source_hash: f6cf9717c0e0d825
 lang: en
 status: machine
 fidelity: ok
 title: "Tokio Marine & Nichido Life Insurance"
-translated_at: 2026-06-01T02:31:57.170Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Tokio Marine & Nichido Life Insurance
 
@@ -18,6 +18,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 Tokio Marine & Nichido Life Insurance Co., Ltd. is the life-insurance operating company of the [[non-life-insurers/tokio-marine]] group. [[non-life-insurers/tokio-marine]] is well known as a non-life major, but this entity is a separate life underwriter listed in the FSA life-insurer list and is important for understanding life / non-life cross-sell and group diversification.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, tmn-anshin.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; tmn-anshin.co.jp]
 
 | Item | Notes |
 |---|---|

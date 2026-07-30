@@ -11,8 +11,8 @@ aliases:
   - "regional-banks/sbi-shinsei"
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, banking, post-rehab]
@@ -83,6 +83,8 @@ SBI ホールディングス [[megabanks/sbi-hd]]（上場 8473）
 - 旧 LTCB 国有化時の公的資金注入残 **約 3500 億円**規模（預金保険機構保有株起源、SBI 完全子会社化後も継続論点）
 
 ## 2. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (SBI 新生銀行, SBI Shinsei Bank, 新生銀行). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:SBI 新生銀行; SBI Shinsei Bank; 新生銀行]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

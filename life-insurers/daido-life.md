@@ -3,8 +3,8 @@ title: "大同生命保険"
 aliases: ["大同生命", "Daido Life", "Daido Life Insurance", "大同生命保険株式会社"]
 domain: life-insurers
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, insurance, life-insurance, td-hd, sme-finance, operating-company]
@@ -27,6 +27,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 大同生命保険株式会社は、[[life-insurers/td-hd]] group の core life-insurance operating company。金融庁 life-insurer list に掲載され、T&D group 内では中小企業・経営者向け保険に強い specialist として位置付けるべき entity。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, daido-life.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; daido-life.co.jp]
 
 | Item | Notes |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/china-construction-bank-japan
-source_hash: 60ab2537a16bc8a3
+source_hash: ebaa1bf2c21e2354
 lang: ja
 status: machine
 fidelity: ok
 title: "中国建設銀行 東京支店"
-translated_at: 2026-06-18T23:59:13.113Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 中国建設銀行 東京支店
@@ -20,6 +20,8 @@ translated_at: 2026-06-18T23:59:13.113Z
 中国建設銀行 東京支店は、金融庁の外国銀行支店一覧に掲載される中国本土／中国建設銀行の在日銀行支店。東京代表処から 2003 年に支店化した日中フルファンクション支店として、預金、貸出、貿易融資、外貨売買、決済、送金、個人向け業務を扱う。
 
 ## 1. 免許／支店の境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, jp.ccb.com, ccb.com）の範囲に限定して読む。^[source:fsa.go.jp; jp.ccb.com; ccb.com]
 
 | 項目 | 備考 |
 |---|---|

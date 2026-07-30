@@ -1,11 +1,11 @@
 ---
 source: policy-finance/japan-credit-guarantee-system
-source_hash: c9b2db821694efdb
+source_hash: 9c7635a291c86269
 lang: ja
 status: machine
 fidelity: ok
 title: "日本の信用保証制度"
-translated_at: 2026-06-19T06:09:18.123Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本の信用保証制度
@@ -20,6 +20,8 @@ translated_at: 2026-06-19T06:09:18.123Z
 
 ## 1. システム・アーキテクチャ（信用補完制度のスタック）
 
+以下の表は、エントリ出典インベントリの公開一次資料（zenshinhoren.or.jp, chusho.meti.go.jp, jfc.go.jp）の範囲に限定して読む。^[source:zenshinhoren.or.jp; chusho.meti.go.jp; jfc.go.jp]
+
 | Layer | Role | FinWiki route |
 |---|---|---|
 | 中小企業／小規模事業者の借り手 | 金融機関および保証ルートを通じて事業資金を申請する。 | ここのシステム・ルート |
@@ -33,6 +35,8 @@ translated_at: 2026-06-19T06:09:18.123Z
 したがってこのシステムは**垂直的な公的信用パイプライン**である：借り手 → 貸し手 → 地域 CGC（ファースト・ロス）→ JFG の調整 → JFC 信用保険（再保険）→ METI の政策バックストップ。
 
 ## 2. 機関概要 — 地域の信用保証協会
+
+以下の表は、エントリ出典インベントリの公開一次資料（zenshinhoren.or.jp, chusho.meti.go.jp, jfc.go.jp）の範囲に限定して読む。^[source:zenshinhoren.or.jp; chusho.meti.go.jp; jfc.go.jp]
 
 | 項目 | 内容 |
 |---|---|
@@ -86,6 +90,8 @@ translated_at: 2026-06-19T06:09:18.123Z
 
 **ZeroZero 融資**（実質無利子・無担保融資）プログラムは、COVID-19 への中心的な危機金融対応であった：
 
+以下の表は、エントリ出典インベントリの公開一次資料（zenshinhoren.or.jp, chusho.meti.go.jp, jfc.go.jp）の範囲に限定して読む。^[source:zenshinhoren.or.jp; chusho.meti.go.jp; jfc.go.jp]
+
 | Phase | Period | Status |
 |---|---|---|
 | 組成の立ち上げ | 2020-03 → 2020-07 | METI が 2020-05に信用保証制度を通じて民間部門の ZeroZero を開始する；数か月で兆円規模に達する急速な利用。JFC は並行する ZeroZero プログラムを直接運営する。 |
@@ -122,6 +128,8 @@ ZeroZero のアンワインドは、信用保証制度にとって**近年を特
 回収率は地域、セクター、担保の種類によって異なる — 都市部の CGC（東京、大阪）は、商業用不動産および設備のセカンダリー市場が厚いため、地方の CGC（北海道、東北、九州の地方）よりも典型的に高い回収率を有する。
 
 ## 9. 年次の変遷
+
+以下の表は、エントリ出典インベントリの公開一次資料（zenshinhoren.or.jp, chusho.meti.go.jp, jfc.go.jp）の範囲に限定して読む。^[source:zenshinhoren.or.jp; chusho.meti.go.jp; jfc.go.jp]
 
 | Year | Event |
 |---|---|

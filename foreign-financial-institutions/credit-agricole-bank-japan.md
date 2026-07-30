@@ -3,8 +3,8 @@ title: "クレディ・アグリコル銀行 東京支店"
 aliases: ["Credit Agricole Bank Japan", "Credit Agricole CIB Japan", "Crédit Agricole CIB Tokyo Branch", "クレディ・アグリコル銀行", "クレディ・アグリコルCIB東京支店"]
 domain: foreign-financial-institutions
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, banking, foreign-bank-branch, france, wholesale-banking, operating-branch]
@@ -27,6 +27,8 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 クレディ・アグリコル銀行は、金融庁の外国銀行支店一覧に掲載される France / Crédit Agricole CIB の在日銀行支店。[[life-insurers/credit-agricole-life|クレディ・アグリコル生命]] とは別の Banking Act branch として、wholesale banking / CIB / global markets / trade and export finance の日本拠点を扱う。
 
 ## 1. License / branch boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, ca-cib.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; ca-cib.com]
 
 | Item | Notes |
 |---|---|

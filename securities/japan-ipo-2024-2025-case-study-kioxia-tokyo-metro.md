@@ -10,8 +10,8 @@ aliases:
   - "キオクシア IPO"
 domain: "securities"
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [securities, IPO, listing, JPX, TSE, case-study, Tokyo-Metro, Kioxia, growth-market]
@@ -42,6 +42,8 @@ The 2024-2025 Japanese IPO calendar featured two structurally significant cases:
 Both cases are useful for FinWiki readers because they illustrate (1) privatization-style state-asset listings on TSE Prime, (2) large technology-issuer listings with global investor distribution, and (3) the operational mechanics of the [[securities/japan-ipo-listing-disclosure-route|Japan IPO listing disclosure route]].
 
 ## Case Study Map
+
+The following table is scoped to public primary sources (jpx.co.jp, disclosure2.edinet-fsa.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp; disclosure2.edinet-fsa.go.jp; jsda.or.jp]
 
 | Case | Segment / route | Why it matters for FinWiki |
 |---|---|---|

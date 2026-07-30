@@ -3,8 +3,8 @@ title: "朝日生命保険"
 aliases: ["朝日生命", "Asahi Life", "Asahi Mutual Life", "朝日生命保険相互会社"]
 domain: life-insurers
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, insurance, life-insurance, mutual-company, operating-company]
@@ -27,6 +27,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 朝日生命保険相互会社は、金融庁の生命保険会社免許一覧と生命保険協会会員一覧に掲載される日本の生命保険 operating company。[[life-insurers/nippon-life]]、[[life-insurers/meiji-yasuda]]、[[life-insurers/sumitomo-life]]、[[life-insurers/fukoku-life]] と同じく相互会社形態をとるため、上場会社や銀行系子会社とは異なる governance / capital boundary を持つ。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, asahi-life.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; asahi-life.co.jp]
 
 | Item | Notes |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: regional-banks/nagasaki-bank
-source_hash: 075296160f2f1625
+source_hash: 4e6e2aeb42b22502
 lang: ja
 status: machine
 fidelity: ok
 title: "長崎銀行"
-translated_at: 2026-06-15T04:09:41.204Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 長崎銀行
@@ -19,6 +19,8 @@ translated_at: 2026-06-15T04:09:41.204Z
 株式会社長崎銀行 (The Nagasaki Bank) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される長崎県長崎市本店の第二地方銀行。[[regional-banks/nishi-nippon-fhd|西日本フィナンシャルホールディングス]] (NNFH) 傘下の Nagasaki-area operating bank であり、長崎県第一地銀の [[regional-banks/18-shinwa-bank|十八親和銀行]] とは別の bank-license entity として扱う。事業の中身は県内の預金受入と中小企業・個人向け貸出という第二地銀の標準モデル。
 
 ## 1. ライセンス／グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, nagasakibank.co.jp, nnfh.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; nagasakibank.co.jp; nnfh.co.jp]
 
 | 項目 | 備考 |
 |---|---|

@@ -1,12 +1,12 @@
 ---
 source: securities/japan-equity-analyst-and-sell-side-research-ecosystem
-source_hash: 66d37876a028887f
+source_hash: b20b5a5249c31615
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の株式アナリストおよびセルサイド・リサーチのエコシステム"
-translated_at: 2026-06-26T08:32:23.061Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本の株式アナリストおよびセルサイド・リサーチのエコシステム
@@ -65,6 +65,8 @@ translated_at: 2026-06-26T08:32:23.061Z
 
 ## 日本におけるグローバル IB ティア
 
+以下の表は、エントリ出典インベントリの公開一次資料（nomuraholdings.com, smbcnikko.co.jp, daiwa-grp.jp）の範囲に限定して読む。^[source:nomuraholdings.com; smbcnikko.co.jp; daiwa-grp.jp; mizuho-sc.com]
+
 | House | Local entity | Research character |
 |---|---|---|
 | ゴールドマン・サックス・ジャパン | [[securities-firms/goldman-sachs-japan|Goldman Sachs Japan Co., Ltd.]] | グローバル GS Research が統合されている；日本株チームが日本コンテンツをグローバル・プロダクトに提供する；強力なマクロ / ストラテジー流通。|
@@ -79,6 +81,8 @@ translated_at: 2026-06-26T08:32:23.061Z
 
 ## 独立系リサーチ・セグメント独立系（セルサイドに属さない）リサーチは、日本では小規模ながら成長しているセグメントである:
 
+以下の表は、エントリ出典インベントリの公開一次資料（nomuraholdings.com, smbcnikko.co.jp, daiwa-grp.jp）の範囲に限定して読む。^[source:nomuraholdings.com; smbcnikko.co.jp; daiwa-grp.jp; mizuho-sc.com]
+
 | House | Character |
 |---|---|
 | Astris Advisory Japan | 長年の独立系日本株リサーチ；テーマ型およびスチュワードシップ志向の業務で尊敬されている。|
@@ -91,6 +95,8 @@ translated_at: 2026-06-26T08:32:23.061Z
 日本における独立系セグメントの経済的制約は、機関投資家クライアントにリサーチに対して別途支払うことを強制する MiFID スタイルの強制的アンバンドリング・ルールの不在である —— 強制的分離がなければ、機関投資家のバイヤーは利用時点で無料のセルサイド・カバレッジに依存でき、EU のバイヤーがするようには独立系リサーチに別途予算を組まないかもしれない。
 
 ## 流通チャネル
+
+以下の表は、エントリ出典インベントリの公開一次資料（nomuraholdings.com, smbcnikko.co.jp, daiwa-grp.jp）の範囲に限定して読む。^[source:nomuraholdings.com; smbcnikko.co.jp; daiwa-grp.jp; mizuho-sc.com]
 
 | Channel | Function |
 |---|---|
@@ -106,6 +112,8 @@ translated_at: 2026-06-26T08:32:23.061Z
 注意点: 多くの日本語のセルサイド・レポートは、Bloomberg / Refinitiv をまったく経由しない；それらは各社のポータル / メール / QUICK を介して国内クライアントに送られる。英語のベンダー・スタックのみに依存するアナリストは、日本語のリサーチ・アウトプットを体系的に過少サンプリングする。
 
 ## 規制の境界: インデュースメントおよび最良執行のコンテキスト日本のセルサイド・リサーチの規制フレームは、重要な点で EU の MiFID II インデュースメント体制と異なる:
+
+以下の表は、エントリ出典インベントリの公開一次資料（nomuraholdings.com, smbcnikko.co.jp, daiwa-grp.jp）の範囲に限定して読む。^[source:nomuraholdings.com; smbcnikko.co.jp; daiwa-grp.jp; mizuho-sc.com]
 
 | Dimension | EU MiFID II | Japan |
 |---|---|---|

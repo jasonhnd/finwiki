@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/icbc-japan
-source_hash: 5a218a059e40c5a7
+source_hash: 9f2056327b90f860
 lang: ja
 status: machine
 fidelity: ok
 title: "中国工商銀行 東京支店"
-translated_at: 2026-06-18T23:59:13.113Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 中国工商銀行 東京支店
@@ -20,6 +20,8 @@ translated_at: 2026-06-18T23:59:13.113Z
 中国工商銀行 東京支店は、金融庁の外国銀行支店一覧に掲載される中国本土／中国工商銀行の在日銀行支店。1997 年設立の東京支店を軸に、日本国内決済、海外送金、外国為替、貿易決済、法人・個人向けのサービス・コリドーを扱う。
 
 ## 1. 免許／支店の境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, japan.icbc.com.cn）の範囲に限定して読む。^[source:fsa.go.jp; japan.icbc.com.cn]
 
 | 項目 | 備考 |
 |---|---|

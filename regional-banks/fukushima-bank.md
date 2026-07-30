@@ -3,8 +3,8 @@ title: "福島銀行"
 aliases: ["Fukushima Bank", "株式会社福島銀行"]
 domain: regional-banks
 created: 2026-05-21
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-12-05
 confidence: likely
 tags: [JapanFG, banking, second-regional-bank, tohoku, operating-company]
@@ -26,6 +26,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 株式会社福島銀行 (The Fukushima Bank) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される福島県本店の第二地方銀行。[[regional-banks/toho-bank|東邦銀行]] が福島県の第一地銀 anchor である一方、福島銀行は second-regional-bank side の retail / SME / local reconstruction-finance anchor。SBI グループとのアライアンス（[[megabanks/sbi-regional-bank-hd|SBI 地銀 HD]] の地域金融連携）の文脈で語られることが多い。事業の中身は県内の預金受入と中小企業・個人向け貸出という地方銀行の標準モデル。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, fukushimabank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; fukushimabank.co.jp]
 
 | Item | Notes |
 |---|---|

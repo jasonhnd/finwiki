@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/bank-of-china-japan
-source_hash: e08b7f246588d0b9
+source_hash: a2b3b3256535a758
 lang: ja
 status: machine
 fidelity: ok
 title: "中國銀行 東京支店"
-translated_at: 2026-06-02T14:01:20.925Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 中國銀行 東京支店
 
@@ -19,6 +19,8 @@ translated_at: 2026-06-02T14:01:20.925Z
 中國銀行 東京支店は、金融庁の外国銀行支店一覧に掲載される、中国本土の Bank of China の在日銀行支店である。日本の [[regional-banks/chugoku-bank|中国銀行 / The Chugoku Bank]] とは別の法人であり、日中間の預金、貸出、貿易決済、資金決済、外国為替取引を担う主要支店として扱う。
 
 ## 1. ライセンス / 支店境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, bankofchina.com）の範囲に限定して読む。^[source:fsa.go.jp; bankofchina.com]
 
 | 項目 | 注記 |
 |---|---|

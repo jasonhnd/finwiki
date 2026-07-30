@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/korea-development-bank-japan
-source_hash: c3a3764dd602c2da
+source_hash: 4692c7c494341296
 lang: ja
 status: machine
 fidelity: ok
 title: "韓国産業銀行 東京支店"
-translated_at: 2026-06-18T23:59:13.074Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 韓国産業銀行 東京支店
@@ -19,6 +19,8 @@ translated_at: 2026-06-18T23:59:13.074Z
 韓国産業銀行 東京支店は、金融庁の外国銀行支店一覧に掲載される Korea Development Bank の在日銀行支店。Korean policy-bank / development-bank corridor として、project finance, shipping / aircraft finance, syndicated loans, trade finance, and cross-border corporate finance を扱う。
 
 ## 1. ライセンス / 支店の境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, kdb.co.kr）の範囲に限定して読む。^[source:fsa.go.jp; kdb.co.kr]
 
 | 項目 | 備考 |
 |---|---|

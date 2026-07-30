@@ -1,11 +1,11 @@
 ---
 source: payments/amazon-gift-card-japan
-source_hash: 0a1a27dd4347c3d3
+source_hash: af234d68dd8af740
 lang: en
 status: machine
 fidelity: ok
 title: "Amazon Gift Card Japan: closed-loop e-commerce prepaid"
-translated_at: 2026-06-01T03:31:12.312Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Amazon Gift Card Japan: closed-loop e-commerce prepaid
@@ -19,6 +19,8 @@ This entry sits under [[payments/INDEX|payments index]] as the Amazon Japan gift
 **Amazon Gift Card** is the **closed-loop prepaid e-commerce credit** of Amazon.co.jp, issued in Japan by **Amazon Japan G.K.** and registered as a single-merchant / closed-loop prepaid payment instrument under the [[payments/funds-transfer-vs-prepaid-boundary|Payment Services Act prepaid framework]]. Distinct from [[payments/quo-card-prepaid|QUO Card]] and [[payments/visa-gift-card-japan|Visa Gift Card]], both open-loop / multi-merchant products, Amazon Gift Card is spendable **only on Amazon.co.jp** for marketplace purchases. Distribution rails span **eGift digital codes** through email or social-media delivery, **plastic gift cards** sold at convenience stores and drugstores, **account-balance top-up** at convenience-store registers or on Amazon's site, and **box / envelope physical gift packaging**. The product is positioned for both **gift-giving** and **self-charge**, including cardless Amazon.co.jp payment for users without credit cards, particularly under-banked, minor, or no-credit-card cohorts.
 
 ## Issuer and operational structure
+
+The following table is scoped to public primary sources (amazon.co.jp, fsa.go.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:amazon.co.jp; fsa.go.jp; meti.go.jp]
 
 | Dimension | Reading |
 |---|---|
@@ -43,6 +45,8 @@ Amazon Gift Card is registered as **自家型前払式支払手段** (closed-loo
 
 ## Distribution rails and use cases
 
+The following table is scoped to public primary sources (amazon.co.jp, fsa.go.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:amazon.co.jp; fsa.go.jp; meti.go.jp]
+
 | Rail | Description |
 |---|---|
 | **eGift email type** | Email / SMS / LINE-delivered code, customizable design, sender selects amount and message; recipient enters code on Amazon.co.jp |
@@ -63,6 +67,8 @@ Amazon Gift Card has been heavily exploited in Japan's e-money-type special-frau
 - This is one of the principal regulatory / social pressures on the open distribution of gift cards in Japan.
 
 ## KPI snapshot
+
+The following table is scoped to public primary sources (amazon.co.jp, fsa.go.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:amazon.co.jp; fsa.go.jp; meti.go.jp]
 
 | Metric | Reading (public disclosure) |
 |---|---|

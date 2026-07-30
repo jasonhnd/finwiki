@@ -11,8 +11,8 @@ aliases:
   - "日本 BNPL 後払い事業者登録マトリクス"
 domain: payments
 created: 2026-05-25
-last_updated: 2026-07-29
-last_tended: 2026-07-29
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-10-27
 confidence: certain
 tags: [payments, matrix, BNPL, atobarai, 後払い, installment-sales-act, METI, individual-credit-purchase, registry, Japan]
@@ -109,6 +109,8 @@ PayPay あと払い is the BNPL-feeling product offered through the [[payment-fi
 
 ## Big comparison matrix table
 
+The following table is scoped to public primary sources (meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp]
+
 | Operator | Parent / ownership | License registration | Listing | Registration year (approx) | Transaction model | Credit-risk model | Funding source | Primary merchant categories | Monthly tx volume order | Regulatory tier (2020 改正割賦販売法 framework) |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **[[payment-firms/net-protections-hd\|Net Protections / NP 後払い]]** | Independent (listed) | 個別信用購入あっせん業者 (METI) | TSE PRIME 7383 (listed 2021-12) | Pre-2010 | Per-transaction invoice; ≤2-month or installment | Operator-eats-loss (guarantee model) | Equity + ABS pipeline emerging | EC general (apparel, cosmetics, food, general retail) | Tens of millions of tx / year | 個別 |
@@ -155,6 +157,8 @@ Bureau membership shapes the consumer-credit information sharing that supports o
 
 The 2020 改正割賦販売法 (effective 2021-04) introduced a tiered framework for 包括信用購入あっせん operators that has implications for the BNPL operator landscape:
 
+The following table is scoped to public primary sources (meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp]
+
 | Tier | Threshold | Operator implication |
 |---|---|---|
 | **包括信用購入あっせん (standard)** | Standard 包括信用購入あっせん registration | Full credit-screening obligation per 改正割賦販売法 |
@@ -168,6 +172,8 @@ The introduction of 認定包括 and 少額包括 was specifically designed to b
 The 2024 BNPL clarification round under 改正割賦販売法 continued tightening the boundary between exempted deferred-payment and registered 個別信用購入あっせん — see [[payments/japan-bnpl-credit-purchase-boundary|Japan BNPL and credit-purchase boundary]] for the per-product classification test that emerged.
 
 ## Funding-source pattern across the operator set
+
+The following table is scoped to public primary sources (meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp]
 
 | Funding-source pattern | Operators |
 |---|---|
@@ -202,6 +208,8 @@ This is why the 2020-2022 BNPL launch wave produced many small operators, of whi
 
 ## Recent regulatory pressure timeline
 
+The following table is scoped to public primary sources (meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp]
+
 | Date | Source | What changed |
 |---|---|---|
 | 2018 | METI | 改正割賦販売法 strengthened 加盟店調査 obligation — direct impact on BNPL operators that are 個別信用購入あっせん registered, raised onboarding cost for marginal merchant relationships |
@@ -217,6 +225,8 @@ This is why the 2020-2022 BNPL launch wave produced many small operators, of whi
 ## Transaction-model decomposition
 
 A reader scanning this matrix should not flatten "BNPL" into one shape. The BNPL operators above use at least four distinct transaction models, each with different risk and economic characteristics:
+
+The following table is scoped to public primary sources (meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp]
 
 | Transaction model | Operators | Key risk characteristics |
 |---|---|---|

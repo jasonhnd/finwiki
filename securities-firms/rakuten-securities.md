@@ -6,8 +6,8 @@ aliases:
   - "楽天証券"
 domain: securities-firms
 created: 2026-05-19
-last_updated: 2026-05-20
-last_tended: 2026-05-20
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, securities, online-brokerage, NISA, Rakuten]
@@ -31,6 +31,8 @@ Rakuten Securities is the online brokerage arm associated with [[payment-firms/r
 Use this page for online brokerage, retail NISA acquisition, point / card / ecosystem distribution, and household asset-building flow.
 
 ## Positioning
+
+The following table is scoped to public primary sources (global.rakuten.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:global.rakuten.com; fsa.go.jp]
 
 | Lens | Reading |
 |---|---|

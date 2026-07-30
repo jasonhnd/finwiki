@@ -3,8 +3,8 @@ title: バークレイズ日本 (Barclays Japan)
 aliases: ["Barclays Japan", "バークレイズ", "バークレイズ証券", "Barclays Securities Japan", "バークレイズ銀行東京支店", "Barclays Bank PLC Tokyo Branch"]
 domain: foreign-financial-institutions
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, foreign-ib, banking]
@@ -97,6 +97,8 @@ Barclays PLC（英国上場、G-SIB Bucket 2）
 > **誤解しやすい点**: バークレイズの **Lehman 北米買収（2008-09）は日本に直接的な人員・業務拡大効果をもたらしていない**。アジア太平洋（含 日本）+ 欧州・中東は [[securities-firms/nomura-hd]] が買収した。日本拠点の M&A / IB 拡大は自力で行われた。
 
 ## 3. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (Barclays Japan 公式 沿革ページ (barclays.co.jp/japan-overview/history-in-japan/), Wikipedia: バークレイズ (2026-05-19 抽出), M&A Online: バークレイズ外資系金融機関まとめ (maonline.jp/articles/barclays0601)). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Barclays Japan 公式 沿革ページ (barclays.co.jp/japan-overview/history-in-japan/); Wikipedia: バークレイズ (2026-05-19 抽出); M&A Online: バークレイズ外資系金融機関まとめ (maonline.jp/articles/barclays0601)]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

@@ -1,11 +1,11 @@
 ---
 source: regional-banks/hokuyo-bank
-source_hash: 0b9ba9265f06a240
+source_hash: 61e6b8db0d8e040a
 lang: ja
 status: machine
 fidelity: ok
 title: "北洋銀行"
-translated_at: 2026-06-02T14:25:12.408Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 北洋銀行
@@ -27,6 +27,8 @@ translated_at: 2026-06-02T14:25:12.408Z
 **親会社経緯**: 旧上場持株会社 **札幌北洋ホールディングス（東証・札証 8328）→ 2012-10-01 北洋銀行が逆吸収合併で解散・上場廃止**（日本で 3 例目の子銀行による持株会社吸収合併、もみじ HD・きらやか HD に次ぐ）。**現在は非上場の単独銀行**
 
 ### 2025-03 期決算（連結）
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | 項目 | 金額 |
 |---|---|
@@ -59,6 +61,8 @@ translated_at: 2026-06-02T14:25:12.408Z
 
 ### 重要年表（抜粋）
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | 年月 | 事象 |
 |---|---|
 | 1917-08 | 北海道無尽 設立 |
@@ -72,6 +76,8 @@ translated_at: 2026-06-02T14:25:12.408Z
 | 2025-03 期 | 総資産 13.4 兆円 / 預金 11.1 兆円 |
 
 ## 2. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | セグメント | 主要事業 | 特徴 |
 |---|---|---|

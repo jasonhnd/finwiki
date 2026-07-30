@@ -9,8 +9,8 @@ aliases:
   - "policy-finance/hyogo-credit-guarantee-corp"
 domain: "policy-finance"
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [policy-finance, credit-guarantee, prefecture-cgc, sme-finance, hyogo, kansai]
@@ -96,6 +96,8 @@ Within the [[policy-finance/japan-credit-guarantee-system|Japan credit guarantee
 The federation-pooled credit-insurance layer at [[financial-regulators/jfc|JFC]] absorbs the residual loss after Hyogo CGC's first-loss subrogation under the responsibility-sharing system. The disaster-response 100% guarantee variant operates outside the standard responsibility-sharing default, with the federation reinsurance and JFC credit-insurance absorbing larger shares of the loss in emergency programs. Hyogo CGC's heavy-industry-supplier subrogation profile is partially smoothed through this reinsurance layer because heavy-industry demand cycles are global rather than local — a Kobe Steel order-book collapse driven by global steel-cycle inversion diffuses through the [[financial-regulators/jfc|JFC]] credit-insurance pool that backstops all 51 corporations.
 
 ## 8. Comparison with peer prefecture CGCs
+
+The following table is scoped to public primary sources (hosho.or.jp, zenshinhoren.or.jp, chusho.meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:hosho.or.jp; zenshinhoren.or.jp; chusho.meti.go.jp]
 
 | Dimension | Hyogo CGC | [[policy-finance/osaka-credit-guarantee-corp|Osaka CGC]] | [[policy-finance/kanagawa-credit-guarantee-corp|Kanagawa CGC]] |
 |---|---|---|---|

@@ -3,8 +3,8 @@ title: "カーディフ生命保険"
 aliases: ["カーディフ生命", "Cardif Life", "Cardif Life Insurance Japan", "カーディフ生命保険株式会社"]
 domain: life-insurers
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, insurance, life-insurance, foreign-japan, bancassurance, operating-company]
@@ -27,6 +27,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it along
 カーディフ生命保険株式会社は、金融庁の life-insurer list と生命保険協会会員一覧に載る foreign-affiliated Japan life insurer。[[foreign-financial-institutions/bnp-paribas-japan]] と同じ BNP Paribas / Cardif adjacency で見るが、FinWiki では bank / securities page ではなく、credit protection and bancassurance-oriented life-insurance operating company として扱う。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, life.cardif.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; life.cardif.co.jp]
 
 | Item | Notes |
 |---|---|

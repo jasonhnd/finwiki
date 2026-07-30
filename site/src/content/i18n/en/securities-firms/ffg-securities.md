@@ -1,11 +1,11 @@
 ---
 source: securities-firms/ffg-securities
-source_hash: f65bcfdf817d0d5c
+source_hash: aa3f39d2eba9a97b
 lang: en
 status: machine
 fidelity: ok
 title: "FFG Securities (FFG証券)"
-translated_at: 2026-06-19T12:43:19.965Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # FFG Securities (FFG証券)
@@ -19,6 +19,8 @@ This entry sits under the [[securities-firms/INDEX|securities-firms INDEX]] as t
 FFG Securities Co., Ltd. is a regional-bank-affiliated securities firm, a 100% subsidiary of [[regional-banks/fukuoka-fg|ふくおか FG (FFG, 東証 PRIME 8354)]], providing asset management, public equity underwriting, private-placement-bond intermediation, and business-succession advisory to mid-tier-corporate main-bank customers in the Kyushu base ([[regional-banks/fukuoka-bank|福岡銀行]] / [[regional-banks/18-shinwa-bank|十八親和銀行]] / [[regional-banks/kumamoto-bank|熊本銀行]]). With a Type I Financial Instruments Business (securities business) license, it is a member of [[financial-regulators/jsda|日本証券業協会]]. A representative example of the Kyushu-based bank-securities cooperation model. ^[extracted]
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (ffg-sec.co.jp, fukuoka-fg.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:ffg-sec.co.jp; fukuoka-fg.com; fsa.go.jp; jsda.or.jp]
 
 | Item | Notes |
 |---|---|
@@ -63,6 +65,8 @@ FFG Securities Co., Ltd. is a regional-bank-affiliated securities firm, a 100% s
 
 ## 4. KPI table (concept)
 
+The following table is scoped to public primary sources (ffg-sec.co.jp, fukuoka-fg.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:ffg-sec.co.jp; fukuoka-fg.com; fsa.go.jp; jsda.or.jp]
+
 | Item | Overview |
 |---|---|
 | Founding / establishment | Founded 1940-06-06 (predecessor Maeda Ryozo Shoten) / established 1944-07-07 (Maeda Securities). 2012-04 made a wholly-owned subsidiary of Fukuoka Bank and renamed "Fukuoka Securities", 2018-05 renamed "FFG Securities", 2022-04 transferred from Fukuoka Bank to directly under FFG |
@@ -78,6 +82,8 @@ FFG Securities Co., Ltd. is a regional-bank-affiliated securities firm, a 100% s
 > Note: Because FFG Securities is an unlisted wholly-owned subsidiary, precise standalone financial KPIs are not separately disclosed; refer to the [[regional-banks/fukuoka-fg]] annual securities report segment information
 
 ## 5. Business segment map
+
+The following table is scoped to public primary sources (ffg-sec.co.jp, fukuoka-fg.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:ffg-sec.co.jp; fukuoka-fg.com; fsa.go.jp; jsda.or.jp]
 
 | Segment | Characteristics |
 |---|---|

@@ -3,8 +3,8 @@ title: "兆豐國際商業銀行 東京支店"
 aliases: ["Mega International Commercial Bank Japan", "Mega ICBC Japan", "Mega International Commercial Bank Tokyo Branch", "兆豊国際商業銀行東京支店", "兆豐國際商業銀行"]
 domain: foreign-financial-institutions
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, banking, foreign-bank-branch, taiwan, asia-corridor, operating-branch]
@@ -27,6 +27,8 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 兆豐國際商業銀行 東京支店は、金融庁の外国銀行支店一覧に掲載される Taiwan / Mega International Commercial Bank の在日銀行支店。Taiwan's major international commercial bank network の Japan branch として、Japan-Taiwan trade, corporate banking, remittance, and treasury flows を担う。
 
 ## 1. License / branch boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, megabank.com.tw). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; megabank.com.tw]
 
 | Item | Notes |
 |---|---|

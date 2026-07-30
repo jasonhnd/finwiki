@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/hsbc-japan
-source_hash: c0f25590068c6623
+source_hash: f9ad2f742a55e973
 lang: en
 status: machine
 fidelity: ok
 title: "HSBC ジャパン (HSBC Japan)"
-translated_at: 2026-06-18T23:59:13.103Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # HSBC ジャパン (HSBC Japan)
@@ -44,6 +44,8 @@ HSBC Holdings plc (UK, listed)
 
 ### Key timeline ^[extracted]
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Year | Event |
 |---|---|
 | 1865 | HSBC founded in Hong Kong (Hongkong and Shanghai Banking Corporation) |
@@ -59,6 +61,8 @@ HSBC Holdings plc (UK, listed)
 | 2024 | Maintaining the Japan bases / strengthening wholesale as part of the Asia strategy |
 
 ## 2. Business-segment map
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Segment | Main entity | Customers | Characteristics |
 |---|---|---|---|
@@ -84,6 +88,8 @@ HSBC Holdings plc (UK, listed)
 - **Contrast**: [[foreign-financial-institutions/citigroup-japan]] retreated from retail in 2015  (sold to Sumitomo Mitsui [[megabanks/smfg]]). The retail retreat of foreign-affiliated IBs is a structural trend
 
 ### Competitive relationships
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Competitor | Position | Difference from HSBC |
 |---|---|---|

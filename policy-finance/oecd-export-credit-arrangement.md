@@ -14,8 +14,8 @@ aliases:
   - "Coal Sector Understanding"
 domain: "policy-finance"
 created: 2026-05-19
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [policy-finance, export-credit, oecd, trade-finance, eca, mpr, crc, sector-understanding, climate, basel-iii]
@@ -82,6 +82,8 @@ Tenor is constrained by country category and sector:
 | Category II (all other countries) | Up to 10 years |
 
 Sector understandings extend tenor for specific sectors significantly:
+
+The following table is scoped to public primary sources (oecd.org, berneunion.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:oecd.org; berneunion.org]
 
 | Sector understanding | Maximum tenor under sector rules |
 |---|---|
@@ -168,6 +170,8 @@ The CRC has analytic uses beyond Arrangement compliance: it is one of the few pu
 
 ## 5. Year-by-year evolution
 
+The following table is scoped to public primary sources (oecd.org, berneunion.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:oecd.org; berneunion.org]
+
 | Year | Event |
 |---|---|
 | 1976 | Original Consensus on Officially Supported Export Credits established among OECD members |
@@ -212,6 +216,8 @@ The Arrangement does not include China. Chinese state finance (CDB / China Eximb
 This creates asymmetric competition in markets where Japanese ECAs and Chinese state finance compete for similar projects — notably ASEAN infrastructure, African resource and infrastructure, Latin American resource projects, and (post-2022) friend-shoring / supply-chain competition. The OECD-side response has included calls for non-OECD state finance to join Arrangement disciplines, multilateral coordination through G7 / G20 frameworks, and selective Arrangement modernisation (CCSU expansion, possible Critical Minerals Sector Understanding) to make Arrangement-compliant terms more competitive on strategically important projects.
 
 ## 8. KPI table (public-source numbers)
+
+The following table is scoped to public primary sources (oecd.org, berneunion.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:oecd.org; berneunion.org]
 
 | KPI | Approximate value | Source / caveat |
 |---|---|---|

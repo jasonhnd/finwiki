@@ -1,12 +1,12 @@
 ---
 source: life-insurers/aia-life-japan
-source_hash: fcaeb7f654c2115b
+source_hash: b9f2e7ce3c610bd8
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "AIA Life Japan / AIA生命保険"
-translated_at: 2026-06-26T08:32:07.553Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # AIA Life Japan / AIA生命保険
@@ -20,6 +20,8 @@ translated_at: 2026-06-26T08:32:07.553Z
 AIA Group Limited は、香港に本社を置き香港証券取引所に上場する（HKEX: 1299）、最大級の汎アジア生命・健康保険グループの一つである。アジア太平洋の 18 市場にわたる事業展開を持ち、AIA の日本プレゼンスはそのより広範な地域戦略の中に位置する。[[life-insurers/metlife-japan|MetLife Japan]] や [[life-insurers/prudential-japan|Prudential Japan]] のような日本の主要外国生命保険会社と比較すると、AIA の際立った特徴は、純粋にアジア太平洋に特化したポジショニングと、同地域の生命保険市場における歴史的なルーツである。
 
 ## 1. ライセンス / グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, aia.com）の範囲に限定して読む。^[source:fsa.go.jp; aia.com]
 
 | 項目 | 備考 |
 |---|---|

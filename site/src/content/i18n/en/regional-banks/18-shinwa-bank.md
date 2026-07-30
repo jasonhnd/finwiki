@@ -1,11 +1,11 @@
 ---
 source: regional-banks/18-shinwa-bank
-source_hash: f4aff57047e4d596
+source_hash: 8c27bf46ac683e45
 lang: en
 status: machine
 fidelity: ok
 title: "Eighteenth Shinwa Bank, Ltd."
-translated_at: 2026-05-31T11:13:44.877Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Eighteenth Shinwa Bank, Ltd.
@@ -20,6 +20,8 @@ Juhachi Shinwa Bank is based in Nagasaki Prefecture.[[regional-banks/fukuoka-fg|
 
 ## 1. Company Profile
 
+The following table is scoped to public primary sources (18shinwabank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:18shinwabank.co.jp]
+
 | Project | Content |
 |---|---|
 | Official name | Eighteenth Shinwa Bank, Ltd. |
@@ -32,6 +34,8 @@ Juhachi Shinwa Bank is based in Nagasaki Prefecture.[[regional-banks/fukuoka-fg|
 In the official company profile,2025-03 Capital at the end of368億円, total assets7兆4,927億円,deposit5兆5,269億円, loan3兆8,965億円,employee1,835名, store188(within Nagasaki Prefecture)164).
 
 ## 2.Business segment map
+
+The following table is scoped to public primary sources (18shinwabank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:18shinwabank.co.jp]
 
 | Business Segment | Content | Importance |
 |---|---|---|

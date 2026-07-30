@@ -3,8 +3,8 @@ title: "カナダロイヤル銀行 東京支店"
 aliases: ["RBC Japan", "Royal Bank of Canada Tokyo Branch", "Royal Bank of Canada Japan", "カナダロイヤル銀行", "RBC Capital Markets Japan"]
 domain: foreign-financial-institutions
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, banking, foreign-bank-branch, canada, wholesale-banking, operating-branch]
@@ -27,6 +27,8 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 カナダロイヤル銀行 東京支店は、金融庁の外国銀行支店一覧に掲載される Royal Bank of Canada の Japan banking branch。RBC Capital Markets Japan securities branch と並ぶ RBC Japan platform の銀行側であり、transaction banking, treasury, deposits / structured deposits, derivatives, and institutional coverage を担う。
 
 ## 1. License / branch boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, rbccm.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; rbccm.com]
 
 | Item | Notes |
 |---|---|

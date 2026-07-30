@@ -7,8 +7,8 @@ aliases:
   - "クレジットカード加盟店契約"
 domain: "payments"
 created: 2026-05-20
-last_updated: 2026-05-20
-last_tended: 2026-05-20
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [payments, card-acquiring, installment-sales-act, PSP, PCI-DSS]
@@ -41,6 +41,8 @@ This page routes questions about acquirers, PSPs, merchant onboarding, PCI DSS, 
 
 The key Japanese legal boundary is the "credit card number handling contract concluding business" under the Installment Sales Act.
 
+The following table is scoped to public primary sources (meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp]
+
 | Situation | Likely reading |
 |---|---|
 | The acquirer signs the merchant contract and keeps final approval authority. | The acquirer is the registered merchant-contracting party; PSP work may be delegated support. |
@@ -59,6 +61,8 @@ METI's FAQ emphasizes three operating duties that matter for FinWiki analysis:
 For company analysis, this means a PSP's moat is not only API convenience. The more valuable part is its compliance and risk engine: underwriting merchants, monitoring fraud, reducing chargebacks, and satisfying acquirer / network / regulatory expectations.
 
 ## Business Model Lens
+
+The following table is scoped to public primary sources (meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp]
 
 | Revenue / risk item | Why it matters |
 |---|---|

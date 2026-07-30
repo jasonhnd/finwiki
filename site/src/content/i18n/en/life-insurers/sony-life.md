@@ -1,11 +1,11 @@
 ---
 source: life-insurers/sony-life
-source_hash: 43021b2f0b4cab1a
+source_hash: df3267701ceecbb0
 lang: en
 status: machine
 fidelity: ok
 title: "Sony Life Insurance"
-translated_at: 2026-06-01T02:31:57.168Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Sony Life Insurance
 
@@ -18,6 +18,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 Sony Life Insurance Co., Ltd. is the core life-insurance operating company of [[megabanks/sony-fg]]. It is a license-bearing insurer listed in the FSA life-insurance company license list, and it handles the life-planner-style life-insurance business within Sony Financial Group's banking, non-life insurance, nursing-care, and financial-services surface.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, sonylife.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; sonylife.co.jp]
 
 | Item | Notes |
 |---|---|

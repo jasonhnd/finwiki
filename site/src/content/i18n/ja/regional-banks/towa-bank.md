@@ -1,11 +1,11 @@
 ---
 source: regional-banks/towa-bank
-source_hash: 849036392a9ed59e
+source_hash: d5a0deae75eb2362
 lang: ja
 status: machine
 fidelity: ok
 title: "東和銀行 (The Towa Bank, Ltd.)"
-translated_at: 2026-06-02T16:33:58.501Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 東和銀行 (The Towa Bank, Ltd.)
@@ -77,6 +77,8 @@ translated_at: 2026-06-02T16:33:58.501Z
 
 ## 3. 事業セグメント・マップ
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | セグメント | 特徴 |
 |---|---|
 | 県内中小企業法人 | 群馬県・前橋・高崎・太田・伊勢崎 等、中小企業特化が核 |
@@ -106,6 +108,8 @@ translated_at: 2026-06-02T16:33:58.501Z
 - 大手系統入りせず単独体制維持しつつ戦略連携で広域補完する典型例
 
 ### 競合構造
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | 競合 | 特徴 |
 |---|---|

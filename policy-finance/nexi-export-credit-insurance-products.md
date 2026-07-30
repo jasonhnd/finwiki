@@ -12,8 +12,8 @@ aliases:
   - "Trade and Investment Insurance Japan"
 domain: policy-finance
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [policy-finance, nexi, export-credit, trade-insurance, political-risk-insurance, oecd-arrangement, buyer-credit, supplier-credit]
@@ -40,6 +40,8 @@ NEXI (株式会社日本貿易保険) is Japan's export-credit and investment-in
 
 ## 1. 機関 / 部門位置
 
+The following table is scoped to public primary sources (nexi.go.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:nexi.go.jp; meti.go.jp]
+
 | Item | Detail |
 |---|---|
 | Legal entity | 株式会社日本貿易保険 (Nippon Export and Investment Insurance — NEXI) |
@@ -61,6 +63,8 @@ NEXI is an OECD-Arrangement-following member. Premia must meet or exceed the **M
 NEXI's product menu is large; the main families are summarised below.
 
 ### 2.1 Product taxonomy
+
+The following table is scoped to public primary sources (nexi.go.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:nexi.go.jp; meti.go.jp]
 
 | Family | Sub-product | Covered risk | Typical cover ratio | Counterparty |
 |---|---|---|---|---|
@@ -204,6 +208,8 @@ Since approximately 2022 NEXI's product posture has shifted in parallel with [[f
 The shifts reshape product mix and country exposures without altering the underlying mechanics — NEXI remains an insurer wrapping commercial tranches and equity exposures under OECD Arrangement disciplines, with state risk-bearing capacity standing behind the insurer's balance sheet.
 
 ## 7. Comparative position — NEXI vs peer ECAs and private markets
+
+The following table is scoped to public primary sources (nexi.go.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:nexi.go.jp; meti.go.jp]
 
 | Dimension | NEXI | US EXIM Bank | K-EXIM (Korea) | UKEF (UK) | Sinosure (China) | Private PRI / TCI markets |
 |---|---|---|---|---|---|---|

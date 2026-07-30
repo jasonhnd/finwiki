@@ -1,11 +1,11 @@
 ---
 source: securities-firms/tokai-tokyo-fh
-source_hash: 71e6362d08c2804e
+source_hash: dc739d970b49874f
 lang: ja
 status: machine
 fidelity: ok
 title: "東海東京 FH (Tokai Tokyo Financial Holdings)"
-translated_at: 2026-06-02T16:33:58.522Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 東海東京 FH (Tokai Tokyo Financial Holdings)
 
@@ -81,6 +81,8 @@ translated_at: 2026-06-02T16:33:58.522Z
 
 ### 4 軸戦略
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | 軸 | 内容 |
 |---|---|
 | 中京基盤 | 名古屋・愛知の対面営業、地場大企業・富裕層深耕 |
@@ -96,6 +98,8 @@ translated_at: 2026-06-02T16:33:58.522Z
 - **投信・PB**: 富裕層向け一任、相続・承継
 
 ## 4. 競合・定位
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | 競合 | 関係 |
 |---|---|

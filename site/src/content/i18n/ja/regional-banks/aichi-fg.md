@@ -1,11 +1,11 @@
 ---
 source: regional-banks/aichi-fg
-source_hash: a89c9d04287d15b6
+source_hash: 7d19b5c9424bb345
 lang: ja
 status: machine
 fidelity: ok
 title: "あいち FG (Aichi FG)"
-translated_at: 2026-06-02T14:01:20.944Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # あいち FG (Aichi FG)
@@ -62,6 +62,8 @@ translated_at: 2026-06-02T14:01:20.944Z
 
 ## 2. 事業セグメント・マップ
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
 | 中堅中小企業融資 | [[regional-banks/aichi-bank|あいち銀行]] | 愛知県内製造業・サプライヤー金融 |
@@ -80,6 +82,8 @@ translated_at: 2026-06-02T14:01:20.944Z
 - 人員配置最適化 → 営業力強化
 
 ### 競合構図
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | 競合 | 業態 | ポジション |
 |---|---|---|

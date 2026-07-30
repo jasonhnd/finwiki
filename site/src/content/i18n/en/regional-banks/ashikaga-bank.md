@@ -1,11 +1,11 @@
 ---
 source: regional-banks/ashikaga-bank
-source_hash: 56df8297881507fd
+source_hash: ba673f31843fefdd
 lang: en
 status: machine
 fidelity: ok
 title: "Ashikaga Bank"
-translated_at: 2026-05-31T11:13:44.928Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Ashikaga Bank
@@ -20,6 +20,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 Ashikaga Bank, Ltd. is a regional bank with its main branch in Tochigi Prefecture listed on the Financial Services Agency's list of bank licenses, and is an operating bank under the umbrella of [[regional-banks/mebuki-fg]]. As Tochigi Prefecture's first-regional bank anchor, it will form the Mebuki group's two-bank operating model together with [[regional-banks/joyo-bank]] on the Ibaraki side.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, ashikagabank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; ashikagabank.co.jp]
 
 | Item | Notes |
 |---|---|

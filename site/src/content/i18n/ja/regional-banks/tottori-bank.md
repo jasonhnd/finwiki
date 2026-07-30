@@ -1,11 +1,11 @@
 ---
 source: regional-banks/tottori-bank
-source_hash: d83005f5a883a77d
+source_hash: f3273fc74fce6f51
 lang: ja
 status: machine
 fidelity: ok
 title: "鳥取銀行"
-translated_at: 2026-06-15T04:09:41.175Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 鳥取銀行
@@ -19,6 +19,8 @@ translated_at: 2026-06-15T04:09:41.175Z
 株式会社鳥取銀行 (The Tottori Bank, 通称「とりぎん」) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される鳥取県鳥取市本店の地方銀行 (第一地銀)。公式沿革では 1949 年 10 月に鳥取信用組合の営業を譲り受けて設立され、鳥取県内に本店を置く唯一の地方銀行。事業は鳥取県を中心とした預金受入・中小企業/個人向け貸出という地銀の標準モデルで、山陰では大手の [[regional-banks/san-in-godo-bank|山陰合同銀行]] と market peer boundary を持つ。
 
 ## 1. ライセンス / グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, tottoribank.co.jp, ja.wikipedia.org）の範囲に限定して読む。^[source:fsa.go.jp; tottoribank.co.jp; ja.wikipedia.org]
 
 | 項目 | 備考 |
 |---|---|

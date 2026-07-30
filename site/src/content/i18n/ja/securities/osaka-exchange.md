@@ -1,11 +1,11 @@
 ---
 source: securities/osaka-exchange
-source_hash: 5ec592783f1c6902
+source_hash: df51f66cc93487c6
 lang: ja
 status: machine
 fidelity: ok
 title: "大阪取引所 (OSE)"
-translated_at: 2026-06-03T00:53:08.345Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 大阪取引所 (OSE)
 
@@ -21,6 +21,8 @@ FinWiki では、OSE は日経 225 先物 / オプション、TOPIX 先物、JGB
 
 ## システムマップ
 
+以下の表は、エントリ出典インベントリの公開一次資料（jpx.co.jp）の範囲に限定して読む。^[source:jpx.co.jp]
+
 | レイヤー | OSE の読み方 |
 |---|---|
 | 親会社 | [[financial-regulators/japan-exchange-group|Japan Exchange Group]] |
@@ -30,6 +32,8 @@ FinWiki では、OSE は日経 225 先物 / オプション、TOPIX 先物、JGB
 | 清算 | [[securities/japan-securities-clearing-corp|JSCC]] |
 
 ## 商品 / 市場マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（jpx.co.jp）の範囲に限定して読む。^[source:jpx.co.jp]
 
 | 市場ファミリー | 読み方 |
 |---|---|

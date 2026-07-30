@@ -1,11 +1,11 @@
 ---
 source: policy-finance/japan-housing-finance-agency
-source_hash: 19876f923f884943
+source_hash: 9c1e9e4ce5e73626
 lang: ja
 status: machine
 fidelity: ok
 title: "住宅金融支援機構 (JHF)"
-translated_at: 2026-06-19T06:09:18.170Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 住宅金融支援機構 (JHF)
@@ -20,6 +20,8 @@ translated_at: 2026-06-19T06:09:18.170Z
 
 ## 1. 機関概要
 
+以下の表は、エントリ出典インベントリの公開一次資料（jhf.go.jp, mlit.go.jp, mof.go.jp）の範囲に限定して読む。^[source:jhf.go.jp; mlit.go.jp; mof.go.jp; flat35.com]
+
 | 項目 | 内容 |
 |---|---|
 | 法的形態 | 独立行政法人 (Incorporated Administrative Agency) |
@@ -33,6 +35,8 @@ translated_at: 2026-06-19T06:09:18.170Z
 | FinWiki lane | [[policy-finance/INDEX|policy-finance]] (not a JapanFG company page; not a bank) |
 
 ## 2. 業務マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（jhf.go.jp, mlit.go.jp, mof.go.jp）の範囲に限定して読む。^[source:jhf.go.jp; mlit.go.jp; mof.go.jp; flat35.com]
 
 | 業務 | 内容 | 取引相手 |
 |---|---|---|
@@ -57,6 +61,8 @@ JHF の旗艦プロダクトファミリーは、**フラット 35**（フラッ
 フラット 35  のオリジネーション量は年間で数十万件のローンに上り、ピーク期には兆円規模の年間貸付がある；JHF MBS 発行はこのオリジネーションフローの下流の資金調達レグである。
 
 ## 4. 年次の進化と 2007  の民営化してから再創設されたアーク
+
+以下の表は、エントリ出典インベントリの公開一次資料（jhf.go.jp, mlit.go.jp, mof.go.jp）の範囲に限定して読む。^[source:jhf.go.jp; mlit.go.jp; mof.go.jp; flat35.com]
 
 | Year | Event | Significance |
 |---|---|---|

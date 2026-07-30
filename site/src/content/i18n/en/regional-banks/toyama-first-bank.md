@@ -1,11 +1,11 @@
 ---
 source: regional-banks/toyama-first-bank
-source_hash: 520939b6b6130acf
+source_hash: bdab6500b2f57cd3
 lang: en
 status: machine
 fidelity: ok
 title: "First Bank of Toyama"
-translated_at: 2026-06-15T04:09:41.190Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # First Bank of Toyama
@@ -19,6 +19,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 The First Bank of Toyama, Ltd. (株式会社富山第一銀行) is a regional bank headquartered in Toyama City, Toyama Prefecture, holding a bank license under the Banking Act and listed as a second-tier regional bank on the FSA's bank license list. Per the official history it was established in 1944 年, and its current head office is in Nishicho, Toyama City (inside TOYAMA Kirari). Its business is the standard second-regional-bank model of taking in deposits within Toyama Prefecture and lending to SMEs / individuals, forming a competing local-bank surface alongside [[regional-banks/hokuriku-bank|北陸銀行]] and [[regional-banks/toyama-bank|富山銀行]] within Toyama Prefecture.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, first-bank.co.jp, ja.wikipedia.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; first-bank.co.jp; ja.wikipedia.org]
 
 | Item | Notes |
 |---|---|

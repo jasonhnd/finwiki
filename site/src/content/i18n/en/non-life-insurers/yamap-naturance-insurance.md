@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/yamap-naturance-insurance
-source_hash: 36a113e206c3fcae
+source_hash: 27d2294c7de74b76
 lang: en
 status: machine
 fidelity: ok
 title: "YAMAP Naturance Insurance"
-translated_at: 2026-06-01T02:31:57.115Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # YAMAP Naturance Insurance
 
@@ -22,6 +22,8 @@ YAMAP NATURANCE Insurance Inc. is a FSA-listed non-life insurer and a newer spec
 The General Insurance Association disclosure records the company name, website, Nago location, 2024-05-21 non-life license acquisition, and 2024-05-21 name change to the current insurer name.
 
 ## 1. License / operating boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, yamap-naturance.co.jp, sonpo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; yamap-naturance.co.jp; sonpo.or.jp]
 
 | Item | Notes |
 |---|---|

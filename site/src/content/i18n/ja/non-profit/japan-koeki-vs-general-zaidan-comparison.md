@@ -1,11 +1,11 @@
 ---
 source: non-profit/japan-koeki-vs-general-zaidan-comparison
-source_hash: 48280d13c938e183
+source_hash: 316a23360fb54965
 lang: ja
 status: machine
 fidelity: ok
 title: "公益財団 vs 一般財団 vs 一般社団 vs NPO法人 — 日本の非営利 / 公益法人形態の比較"
-translated_at: 2026-06-19T13:31:34.049Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 公益財団 vs 一般財団 vs 一般社団 vs NPO法人 — 日本の非営利 / 公益法人形態の比較
@@ -17,6 +17,8 @@ This entry sits under [[non-profit/INDEX|governance INDEX]] and routes into [[co
 ## TL;DR
 
 一般にひとまとめにされがちだが、**3 つの異なる法律ファミリー** と **2 つの異なる監督レジーム** によって規律される 4 つの法形態：
+
+以下の表は、エントリ出典インベントリの公開一次資料（laws.e-gov.go.jp, koeki-info.go.jp, npo-homepage.go.jp）の範囲に限定して読む。^[source:laws.e-gov.go.jp; koeki-info.go.jp; npo-homepage.go.jp; moj.go.jp]
 
 | 形態 | 通称 | 法律 | 監督 / 認可者 |
 |---|---|---|---|
@@ -32,6 +34,8 @@ This entry sits under [[non-profit/INDEX|governance INDEX]] and routes into [[co
 - **一般の形態 vs NPO** — どちらも非営利だが異なる法律ファミリーによって規律される。NPO は許容される活動が狭い (20 の指定カテゴリー) が設立コストが低く、一方で一般の形態は範囲が広いが財団については ¥3M の最低基本財産を要する。
 
 ## 比較対照表
+
+以下の表は、エントリ出典インベントリの公開一次資料（laws.e-gov.go.jp, koeki-info.go.jp, npo-homepage.go.jp）の範囲に限定して読む。^[source:laws.e-gov.go.jp; koeki-info.go.jp; npo-homepage.go.jp; moj.go.jp]
 
 | 観点 | 公益財団法人 | 一般財団法人 | 一般社団法人 | NPO法人 |
 |---|---|---|---|---|
@@ -113,6 +117,8 @@ Q4. Does the activity fall within the 20 NPO法 categories?
 
 ## ガバナンス比較 — 必要な機関
 
+以下の表は、エントリ出典インベントリの公開一次資料（laws.e-gov.go.jp, koeki-info.go.jp, npo-homepage.go.jp）の範囲に限定して読む。^[source:laws.e-gov.go.jp; koeki-info.go.jp; npo-homepage.go.jp; moj.go.jp]
+
 | 機関 | 公益財団 | 一般財団 | 一般社団 | NPO法人 |
 |---|---|---|---|---|
 | 評議員会 (council of councillors) | 必要 | 必要 | 該当なし (評議員の概念なし) | 該当なし |
@@ -151,6 +157,8 @@ Q4. Does the activity fall within the 20 NPO法 categories?
 
 寄付者側の便益が 公益 / 認定NPO に固有の優位性である：
 
+以下の表は、エントリ出典インベントリの公開一次資料（laws.e-gov.go.jp, koeki-info.go.jp, npo-homepage.go.jp）の範囲に限定して読む。^[source:laws.e-gov.go.jp; koeki-info.go.jp; npo-homepage.go.jp; moj.go.jp]
+
 | 寄付者の種類 | 公益財団 / 公益社団 | 認定NPO法人 | 一般財団 / 一般社団 | 非認定NPO法人 |
 |---|---|---|---|---|
 | 個人所得税 | 所得控除 OR 税額控除 (選択) | 所得控除 OR 税額控除 (選択) | 控除なし | 控除なし |
@@ -161,6 +169,8 @@ Q4. Does the activity fall within the 20 NPO法 categories?
 拡大された法人寄付者の 損金算入枠 は大口の法人寄付者にとって実質的に価値があり、成熟した企業の慈善の器が 一般財団 から 公益財団 へ転換する最も強い理由の一つである。
 
 ## コストと期間の比較
+
+以下の表は、エントリ出典インベントリの公開一次資料（laws.e-gov.go.jp, koeki-info.go.jp, npo-homepage.go.jp）の範囲に限定して読む。^[source:laws.e-gov.go.jp; koeki-info.go.jp; npo-homepage.go.jp; moj.go.jp]
 
 | 項目 | 公益財団 | 一般財団 | 一般社団 | NPO法人 |
 |---|---|---|---|---|

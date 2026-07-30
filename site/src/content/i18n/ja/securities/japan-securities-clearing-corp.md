@@ -1,11 +1,11 @@
 ---
 source: securities/japan-securities-clearing-corp
-source_hash: 27559425266365f6
+source_hash: 516cb0d8d16dcb9c
 lang: ja
 status: machine
 fidelity: ok
 title: "日本証券クリアリング機構 (JSCC)"
-translated_at: 2026-06-19T12:43:19.873Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本証券クリアリング機構 (JSCC)
@@ -22,6 +22,8 @@ FinWiki にとって、JSCC は取引所取引・デリバティブ・JGB 清算
 
 ## システムマップ
 
+以下の表は、エントリ出典インベントリの公開一次資料（jpx.co.jp）の範囲に限定して読む。^[source:jpx.co.jp]
+
 | 層 | JSCC の読み方 |
 |---|---|
 | 親会社 / 主要株主 | [[financial-regulators/japan-exchange-group|Japan Exchange Group]] |
@@ -32,6 +34,8 @@ FinWiki にとって、JSCC は取引所取引・デリバティブ・JGB 清算
 | 法的役割 | 金融商品取引清算機関および商品清算業務提供者。 |
 
 ## 清算マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（jpx.co.jp）の範囲に限定して読む。^[source:jpx.co.jp]
 
 | 清算ファミリー | なぜ重要か |
 |---|---|

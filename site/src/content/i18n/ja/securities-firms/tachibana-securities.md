@@ -1,12 +1,12 @@
 ---
 source: securities-firms/tachibana-securities
-source_hash: f7dd212a3659602f
+source_hash: 75e23c9157b72ee9
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "立花証券 (Tachibana Securities)"
-translated_at: 2026-06-26T08:32:23.074Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 立花証券 (Tachibana Securities)
 
@@ -17,6 +17,8 @@ translated_at: 2026-06-26T08:32:23.074Z
 ## 要約立花証券は **1948 年創業の中堅独立証券会社**で、FSA 金融商品取引業者一覧では「立花証券株式会社」、関東財務局長(金商)第110号として掲載される。**日本証券業協会 ([[financial-regulators/jsda|JSDA]]) 正会員**、非上場の独立系中堅証券として東京を本拠に対面リテール + 信用取引特化型のネット取引「立花証券ストックハウス」を運営する。中堅独立証券枠で同業他社 ([[securities-firms/marusan-securities|丸三証券]] / [[securities-firms/aizawa-sg|アイザワ証券]] / [[securities-firms/iwai-cosmo-hd|岩井コスモ]]) と並ぶポジションだが、**信用取引のアクティブトレーダー向けニッチ** に特化する点で差別化される。
 
 ## 1. 法人・ライセンス境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, jsda.or.jp, tachibana-sec.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; jsda.or.jp; tachibana-sec.co.jp]
 
 | 項目 | 読み方 |
 |---|---|
@@ -42,11 +44,15 @@ translated_at: 2026-06-26T08:32:23.074Z
 
 ### 重要年表 (公開情報ベース)
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, jsda.or.jp, tachibana-sec.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; jsda.or.jp; tachibana-sec.co.jp]
+
 | 年月 | 事象 |
 |---|---|
 | **1948** | **立花証券株式会社創業** (戦後復興期、東京) ^[extracted] |
 
 ## 3. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, jsda.or.jp, tachibana-sec.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; jsda.or.jp; tachibana-sec.co.jp]
 
 | セグメント | 内容 | 特徴 |
 |---|---|---|

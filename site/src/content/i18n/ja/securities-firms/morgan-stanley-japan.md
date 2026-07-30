@@ -1,11 +1,11 @@
 ---
 source: securities-firms/morgan-stanley-japan
-source_hash: 1323f8b94f578a98
+source_hash: 0438fbd1d03a8c19
 lang: ja
 status: machine
 fidelity: ok
 title: "モルガン・スタンレー・ジャパン (Morgan Stanley Japan)"
-translated_at: 2026-06-02T14:54:39.081Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # モルガン・スタンレー・ジャパン (Morgan Stanley Japan)
@@ -27,6 +27,8 @@ translated_at: 2026-06-02T14:54:39.081Z
 
 ### 主要法人 (4 社体制)
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | 法人 | 出資比率 | 業態 | 設立 |
 |---|---|---|---|
 | **三菱 UFJ モルガン・スタンレー証券 (MUMSS)** | **MUFG 60% / MS 40%** | 対面リテール + ECM/DCM | 2010-05-01 統合 |
@@ -38,6 +40,8 @@ translated_at: 2026-06-02T14:54:39.081Z
 
 ### Morgan Stanley グローバル基本情報
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | 項目 | 内容 |
 |---|---|
 | 上場 | NYSE: MS (S&P 500 構成) |
@@ -47,6 +51,8 @@ translated_at: 2026-06-02T14:54:39.081Z
 | 従業員 | 約 8 万人 (グローバル, 2024 期末) |
 
 ## 2. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -61,6 +67,8 @@ translated_at: 2026-06-02T14:54:39.081Z
 | **WM (Wealth Management)** | MUMSS リテール | 個人富裕層、海外プロダクト供に |
 
 ### 競合ポジショニング
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | 領域 | 主競合 |
 |---|---|
@@ -100,6 +108,8 @@ translated_at: 2026-06-02T14:54:39.081Z
 
 ### 親会社 Morgan Stanley 重要年表 (抜粋)
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | 年月 | 事象 |
 |---|---|
 | 1935-09 | J.P. Morgan から分離独立 (Glass-Steagall 対応) |
@@ -137,6 +147,8 @@ translated_at: 2026-06-02T14:54:39.081Z
 - Morgan Stanley グローバル組織の一部として運営
 
 ### 競合構図
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | 競合 | 性質 |
 |---|---|

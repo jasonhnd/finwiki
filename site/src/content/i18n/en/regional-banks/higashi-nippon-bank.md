@@ -1,11 +1,11 @@
 ---
 source: regional-banks/higashi-nippon-bank
-source_hash: d3b334feb9ceb771
+source_hash: 436cc9ce22791f7b
 lang: en
 status: machine
 fidelity: ok
 title: "The Higashi-Nippon Bank"
-translated_at: 2026-06-15T04:09:41.210Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # The Higashi-Nippon Bank
@@ -20,6 +20,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 The Higashi-Nippon Bank, Ltd. (株式会社東日本銀行) is a second regional bank headquartered in Tokyo that holds a banking license under the Banking Act and is listed on the FSA's bank license list; it is an operating bank under [[regional-banks/concordia-fg|コンコルディア・フィナンシャルグループ]]. Even after its business integration with the Bank of Yokohama, it remains as a separate-entity bank-license surface serving SMEs within Tokyo. The substance of its business is the standard regional-bank model of taking deposits and lending to SMEs and individuals.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, higashi-nipponbank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; higashi-nipponbank.co.jp]
 
 | Item | Notes |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/esun-bank-japan
-source_hash: f44f9ec89955487f
+source_hash: a2e16df737ed8029
 lang: en
 status: machine
 fidelity: ok
 title: "E.SUN Bank Tokyo Branch"
-translated_at: 2026-06-15T04:20:20.000Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # E.SUN Bank Tokyo Branch
@@ -20,6 +20,8 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 E.SUN Bank Tokyo Branch is the Japan branch of Taiwan's E.SUN Bank, listed on the FSA's list of foreign bank branches. E.SUN's Japan operations function as a Northeast Asia corridor linking the Tokyo, Fukuoka, and Kumamoto sub-branches, handling corporate deposits, financing, trade finance, remittance, and treasury services.
 
 ## 1. License / branch boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, esunbank.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; esunbank.com]
 
 | Item | Notes |
 |---|---|

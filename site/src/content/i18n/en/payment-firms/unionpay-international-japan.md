@@ -1,11 +1,11 @@
 ---
 source: payment-firms/unionpay-international-japan
-source_hash: a878cd4912ad92f5
+source_hash: 592dd0dd6236b6b6
 lang: en
 status: machine
 fidelity: ok
 title: "UnionPay International Japan (銀聯インターナショナル日本支社)"
-translated_at: 2026-06-15T03:48:21.860Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # UnionPay International Japan (銀聯インターナショナル日本支社)
@@ -19,6 +19,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 UnionPay International Japan is the Japan base of UnionPay International (UPI), the international-expansion subsidiary of China's **China UnionPay (中国銀聯)**. It expands the UnionPay brand — which holds an overwhelming share as China's domestic payment infrastructure — within Japan, mainly handling merchant-network development aimed at **acceptance of payments by inbound Chinese tourists**. Domestic issuance (the issuer function of issuing UnionPay cards to domestic consumers) is limited; the main axis is the **acquirer side (merchant contracting / expanding acceptance)**. It is a historical partner that entered a mutual-use partnership with [[card-issuers/jcb|JCB]] in 2006 年, realising interoperability whereby JCB cards can be used at UnionPay merchants in mainland China and UnionPay cards can be used at JCB merchants in Japan.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (unionpayintl.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:unionpayintl.com]
 
 | Item | Notes |
 |---|---|

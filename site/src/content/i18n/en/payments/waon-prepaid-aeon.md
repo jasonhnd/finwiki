@@ -1,11 +1,11 @@
 ---
 source: payments/waon-prepaid-aeon
-source_hash: 6452b79c65ae7a78
+source_hash: 8ca45bee9ca1a5ec
 lang: en
 status: machine
 fidelity: ok
 title: "WAON: AEON Group nationwide IC prepaid e-money"
-translated_at: 2026-06-19T06:09:18.184Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # WAON: AEON Group nationwide IC prepaid e-money
@@ -19,6 +19,8 @@ This entry sits under [[payments/INDEX|payments index]] as the AEON-anchored pre
 **WAON** (named after the AEON-mascot "ワオン") is the **largest retail-anchored prepaid e-money brand in Japan by transaction count** and one of the two principal closed-loop retail prepaid systems alongside [[payments/nanaco-prepaid-seven-i|nanaco]]. Launched 2007-04 by AEON Co Ltd, WAON is operated within the AEON Group with [[card-issuers/aeon-financial-service|AEON Financial Service]] handling settlement and the issuer obligations as third-party 前払式支払手段 (prepaid payment instrument) under the [[payments/funds-transfer-vs-prepaid-boundary|Payment Services Act prepaid framework]]. The system runs on **FeliCa** contactless IC (same technology as Suica / nanaco / Edy), supports physical card, Mobile WAON via Osaifu Keitai, Apple Pay (limited devices), and the AEON Pay smartphone app. Acceptance spans the full AEON Group retail network (AEON, MaxValu, MiniStop, AEON Cinema, Welcia, etc.) plus ~1M outside-group merchants. **WAON POINT** integration converts loyalty points 1:1 into spendable balance, and the bundled **AEON Card** issuance / [[card-issuers/aeon-bank|AEON Bank]] auto-charge linkage anchors the wallet inside the AEON financial-services ecosystem.
 
 ## Issuer and operational structure
+
+The following table is scoped to public primary sources (waon.net, aeon.co.jp, aeonfinancial.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:waon.net; aeon.co.jp; aeonfinancial.co.jp; aeonbank.co.jp]
 
 | Dimension | Reading |
 |---|---|
@@ -49,6 +51,8 @@ The boundary with [[fintech/japan-stablecoin-regulatory-landscape|stablecoin / e
 
 The acceptance network is structured in concentric circles:
 
+The following table is scoped to public primary sources (waon.net, aeon.co.jp, aeonfinancial.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:waon.net; aeon.co.jp; aeonfinancial.co.jp; aeonbank.co.jp]
+
 | Tier | Description | Examples |
 |---|---|---|
 | Inner — AEON Group | Group retail and entertainment anchors | AEON Mall, AEON, MaxValu, MiniStop, AEON Cinema, Welcia (drug), KASUMI, Daiei |
@@ -61,6 +65,8 @@ The size of the inner-tier network (over 20,000 AEON Group stores) underwrites W
 ## KPI snapshot
 
 Quantitative KPIs are reported publicly by AEON in IR materials and 統合報告書 (integrated reports):
+
+The following table is scoped to public primary sources (waon.net, aeon.co.jp, aeonfinancial.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:waon.net; aeon.co.jp; aeonfinancial.co.jp; aeonbank.co.jp]
 
 | Metric | Reading (most recent public disclosure) |
 |---|---|

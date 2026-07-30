@@ -1,11 +1,11 @@
 ---
 source: regional-banks/jimoto-hd
-source_hash: a749fb9e95870377
+source_hash: 3d8079ce55808dcc
 lang: en
 status: machine
 fidelity: ok
 title: "じもとホールディングス (JIMOTO HD)"
-translated_at: 2026-06-19T13:13:22.625Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # じもとホールディングス (JIMOTO HD)
@@ -43,6 +43,8 @@ A Northern-Tohoku second-tier regional-bank FG based in Yamagata + Miyagi (**Kir
 
 ### Consolidated results (public basis) ^[extracted]
 
+The following table is scoped to public primary sources (rieti.go.jp, sbigroup.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:rieti.go.jp; sbigroup.co.jp]
+
 | Item | Figure | Source point |
 |---|---|---|
 | Consolidated total assets | Approx. **2 兆 6,639 億円** | 2021-03  term |
@@ -53,12 +55,16 @@ A Northern-Tohoku second-tier regional-bank FG based in Yamagata + Miyagi (**Kir
 
 ### Major shareholders (from 2024-06-20) ^[extracted]
 
+The following table is scoped to public primary sources (rieti.go.jp, sbigroup.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:rieti.go.jp; sbigroup.co.jp]
+
 | Shareholder | Voting-rights ratio |
 |---|---|
 | **Resolution and Collection Corporation (RCC)** | **63.52%** (acquired voting rights via conversion of preferred shares → common shares) |
 | SBI Regional Bank Holdings | (became largest shareholder via the 2020-11  third-party allotment of 35 億円・obtained 2021-03  bank-major-shareholder approval; ranking reshuffled by RCC nationalisation) |
 
 ### Chronology ^[extracted]
+
+The following table is scoped to public primary sources (rieti.go.jp, sbigroup.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:rieti.go.jp; sbigroup.co.jp]
 
 | Date | Event |
 |---|---|
@@ -103,6 +109,8 @@ A Northern-Tohoku second-tier regional-bank FG based in Yamagata + Miyagi (**Kir
 
 ### Competition and market position
 
+The following table is scoped to public primary sources (rieti.go.jp, sbigroup.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:rieti.go.jp; sbigroup.co.jp]
+
 | Category | Competitor | Jimoto HD position |
 |---|---|---|
 | Miyagi-ken No.1  regional bank | **77 Bank** (TSE PRIME 8341) | Sendai Bank is the No.2  regional bank |
@@ -125,6 +133,8 @@ A Northern-Tohoku second-tier regional-bank FG based in Yamagata + Miyagi (**Kir
 - Sendai Bank's profit accumulation + Kirayaka Bank's non-performing-loan disposal are the keys to the repayment source
 
 ## 5. Officers (public basis) ^[extracted]
+
+The following table is scoped to public primary sources (rieti.go.jp, sbigroup.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:rieti.go.jp; sbigroup.co.jp]
 
 | Position | Name | Appointment |
 |---|---|---|

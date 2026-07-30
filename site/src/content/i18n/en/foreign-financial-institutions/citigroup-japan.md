@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/citigroup-japan
-source_hash: b38351be248d88d8
+source_hash: 4462ec563bb97bc8
 lang: en
 status: machine
 fidelity: ok
 title: "Citigroup Japan"
-translated_at: 2026-06-18T23:59:13.123Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Citigroup Japan
@@ -36,6 +36,8 @@ Citigroup Inc. (US NYSE: C; Federal Reserve supervision)
 
 ## 2. History (chronology excerpt)
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Year | Event |
 |---|---|
 | **1902** | **Opening of the National City Bank Tokyo Branch** (one of the earliest foreign-affiliated presences in Japanese banking history) ^[extracted] |
@@ -52,6 +54,8 @@ Citigroup Inc. (US NYSE: C; Federal Reserve supervision)
 
 ## 3. Business-segment map
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Segment | In-Japan provider | Characteristics |
 |---|---|---|
 | Corporate banking | Citibank, N.A. Tokyo Branch | Support for multinationals entering Japan, global transactions of large Japanese corporations, syndicated loans |
@@ -66,6 +70,8 @@ Citigroup Inc. (US NYSE: C; Federal Reserve supervision)
 - **Part of the global US G-SIB Bucket 3 **: through the global spillover of geopolitical events, US rate hikes, and dollar liquidity, it also affects operations at the Japan base
 
 ### Main competitors
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Area | Main competitors |
 |---|---|

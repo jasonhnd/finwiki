@@ -11,8 +11,8 @@ aliases:
   - "securities-firms/daiwa-securities-group"
 domain: securities-firms
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, securities]
@@ -40,6 +40,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ## 0. 最新業績 (FY2024 = 2025-03 期、連結)
 
+The following table is scoped to public primary sources (daiwa-grp.jp, bank-daiwa.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:daiwa-grp.jp; bank-daiwa.co.jp]
+
 | 項目 | 数値 | 出典 |
 |---|---|---|
 | 純営業収益 | **6,459 億 90 百万円** | 大和 SG 公式 IR / 2025-03 期決算短信 |
@@ -47,6 +49,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 | 総資産 | **36 兆 243 億 46 百万円** | 同上 |
 
 ### 大和ネクスト銀行 (子会社、2026-03 末時点)
+
+The following table is scoped to public primary sources (daiwa-grp.jp, bank-daiwa.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:daiwa-grp.jp; bank-daiwa.co.jp]
 
 | 項目 | 数値 |
 |---|---|
@@ -88,6 +92,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ### 重要年表（公開情報ベース）
 
+The following table is scoped to public primary sources (daiwa-grp.jp, bank-daiwa.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:daiwa-grp.jp; bank-daiwa.co.jp]
+
 | 年月 | 事象 |
 |---|---|
 | **1902** | **藤本ビルブローカー銀行 創業**（大阪、現大和証券の前身）|
@@ -105,6 +111,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 > 注: 上記年表は公開資料（Wikipedia / IR / 公式沿革）に基づく。住友合弁解消以後の細目スキームや海外拠点群の連結範囲は時期ごとに変動するため、最新値は IR 開示資料を要参照。
 
 ## 2. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (daiwa-grp.jp, bank-daiwa.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:daiwa-grp.jp; bank-daiwa.co.jp]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

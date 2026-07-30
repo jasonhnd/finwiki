@@ -3,8 +3,8 @@ title: "SOMPOダイレクト損害保険"
 aliases: ["SOMPOダイレクト", "SOMPO Direct", "SOMPO Direct Insurance", "ＳＯＭＰＯダイレクト損害保険株式会社", "セゾン自動車火災"]
 domain: non-life-insurers
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, insurance, non-life-insurance, direct-insurance, sompo, operating-company]
@@ -27,6 +27,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 SOMPOダイレクト損害保険株式会社は、[[non-life-insurers/sompo]] group の direct non-life insurance operating company。旧セゾン自動車火災 insurance surface を含み、金融庁の損害保険会社免許一覧に current legal name で掲載される。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, sonpohogo.or.jp, sompo-direct.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sonpohogo.or.jp; sompo-direct.co.jp]
 
 | Item | Notes |
 |---|---|

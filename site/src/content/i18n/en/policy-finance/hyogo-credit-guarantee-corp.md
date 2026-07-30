@@ -1,11 +1,11 @@
 ---
 source: policy-finance/hyogo-credit-guarantee-corp
-source_hash: f702afd84908a9a6
+source_hash: 72b6da2198ee0f33
 lang: en
 status: machine
 fidelity: ok
 title: "Hyogo Credit Guarantee Corporation"
-translated_at: 2026-06-15T03:48:21.929Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Hyogo Credit Guarantee Corporation
@@ -19,6 +19,8 @@ This entry sits under [[policy-finance/INDEX|policy-finance index]] as one of th
 Hyogo Credit Guarantee Corporation (兵庫県信用保証協会) is the Hyogo-prefecture member of Japan's 51-corporation local credit guarantee system. It is among the top ten federation members by guarantee balance because Hyogo concentrates Japan's most diverse heavy-industry / machinery SME base — Kobe-Hanshin steel and shipbuilding (Kobe Steel, Kawasaki Heavy Industries, Mitsubishi Heavy Industries Kobe works), the Kobe Port container / bulk logistics complex, precision machinery and printing presses around Himeji and Akashi, Banshu textile and leather goods, plus the Tajima / Awaji rural-economy tail. Dominant co-lending partners are [[regional-banks/minato-bank|Minato Bank ([[megabanks/smfg|SMFG]] subsidiary)]], [[regional-banks/tajima-bank|Tajima Bank]], the Kansai Mirai Bank / [[megabanks/resona-hd|Resona Group]] presence, plus a dense Hyogo shinkin / credit-cooperative network.
 
 ## 1. Institutional overview
+
+The following table is scoped to public primary sources (hosho.or.jp, zenshinhoren.or.jp, chusho.meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:hosho.or.jp; zenshinhoren.or.jp; chusho.meti.go.jp]
 
 | Item | Content |
 |---|---|
@@ -83,6 +85,8 @@ Within the [[policy-finance/japan-credit-guarantee-system|Japan credit guarantee
 The federation-pooled credit-insurance layer at [[financial-regulators/jfc|JFC]] absorbs the residual loss after Hyogo CGC's first-loss subrogation under the responsibility-sharing system. The disaster-response 100% guarantee variant operates outside the standard responsibility-sharing default, with the federation reinsurance and JFC credit-insurance absorbing larger shares of the loss in emergency programs. Hyogo CGC's heavy-industry-supplier subrogation profile is partially smoothed through this reinsurance layer because heavy-industry demand cycles are global rather than local — a Kobe Steel order-book collapse driven by global steel-cycle inversion diffuses through the [[financial-regulators/jfc|JFC]] credit-insurance pool that backstops all 51 corporations.
 
 ## 8. Comparison with peer prefecture CGCs
+
+The following table is scoped to public primary sources (hosho.or.jp, zenshinhoren.or.jp, chusho.meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:hosho.or.jp; zenshinhoren.or.jp; chusho.meti.go.jp]
 
 | Dimension | Hyogo CGC | [[policy-finance/osaka-credit-guarantee-corp|Osaka CGC]] | [[policy-finance/kanagawa-credit-guarantee-corp|Kanagawa CGC]] |
 |---|---|---|---|

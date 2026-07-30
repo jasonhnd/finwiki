@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/bangkok-bank-japan
-source_hash: 71e08f7953db51cf
+source_hash: a5e7d9b78ba75ce2
 lang: en
 status: machine
 fidelity: ok
 title: "Bangkok Bank Japan"
-translated_at: 2026-05-31T11:13:44.929Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Bangkok Bank Japan
@@ -24,6 +24,8 @@ Registration is observed in the checked FSA source as of 2026-05-13; this page d
 
 ## Japan-Thailand Corridor Map
 
+The following table is scoped to public primary sources (fsa.go.jp, bangkokbank.com, ibajapan.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; bangkokbank.com; ibajapan.org]
+
 | Lane | Public-source reading | Wiki use |
 |---|---|---|
 | Corporate lending | Bangkok Bank public Japan pages describe business banking for Japan. | Route Japanese corporate expansion / working-capital questions. |
@@ -34,6 +36,8 @@ Registration is observed in the checked FSA source as of 2026-05-13; this page d
 
 ## ASEAN Peer Context
 
+The following table is scoped to public primary sources (fsa.go.jp, bangkokbank.com, ibajapan.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; bangkokbank.com; ibajapan.org]
+
 | Page | Corridor |
 |---|---|
 | [[foreign-financial-institutions/bangkok-bank-japan|Bangkok Bank Japan]] | Thailand / Japan banking corridor. |
@@ -43,6 +47,8 @@ Registration is observed in the checked FSA source as of 2026-05-13; this page d
 | [[foreign-financial-institutions/standard-chartered-japan|Standard Chartered Japan]] | Global AMEA trade / corporate banking comparator. |
 
 ## What To Extract In Research
+
+The following table is scoped to public primary sources (fsa.go.jp, bangkokbank.com, ibajapan.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; bangkokbank.com; ibajapan.org]
 
 | Field | Why |
 |---|---|

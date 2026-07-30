@@ -3,8 +3,8 @@ title: "東京証券取引所 (TSE)"
 aliases: ["Tokyo Stock Exchange", "TSE", "東証", "東京証券取引所"]
 domain: securities
 created: 2026-05-20
-last_updated: 2026-05-20
-last_tended: 2026-05-20
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-20
 confidence: likely
 tags: [securities, exchange, listing, disclosure, market-infrastructure]
@@ -30,6 +30,8 @@ For FinWiki, TSE is the route for listing, public-company disclosure, market seg
 
 ## System Map
 
+The following table is scoped to public primary sources (jpx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp]
+
 | Layer | TSE reading |
 |---|---|
 | Parent | [[financial-regulators/japan-exchange-group|Japan Exchange Group]] |
@@ -39,6 +41,8 @@ For FinWiki, TSE is the route for listing, public-company disclosure, market seg
 | Adjacent entities | Japan Exchange Regulation, [[securities/japan-securities-clearing-corp|JSCC]], [[securities/japan-securities-depository-center|JASDEC]]. |
 
 ## Market Functions
+
+The following table is scoped to public primary sources (jpx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp]
 
 | Function | Why it matters |
 |---|---|

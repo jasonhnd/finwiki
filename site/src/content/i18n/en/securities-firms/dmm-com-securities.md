@@ -1,11 +1,11 @@
 ---
 source: securities-firms/dmm-com-securities
-source_hash: 6b201041c76e7a50
+source_hash: 7c6dafafee77cf0d
 lang: en
 status: machine
 fidelity: ok
 title: "DMM.com Securities"
-translated_at: 2026-06-15T04:09:41.167Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # DMM.com Securities
@@ -19,6 +19,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]] (its dom
 DMM.com Securities Co., Ltd. (株式会社DMM.com証券) is the DMM group's securities / OTC-FX / CFD operator. As a **Type I Financial Instruments Business Operator (第一種金融商品取引業者)** under the Financial Instruments and Exchange Act, it is listed in the FSA's financial-instruments-business-operator registry as "株式会社DMM.com証券" (Director-General of the Kanto Local Finance Bureau (Kinsho) 第1629号). The crypto-asset context of the same legal entity is handled by [[exchanges/jp-exchange-dmm-com-securities|exchanges 側のページ]], while this page carves it out as an FIEA operator.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, kabu.dmm.com, securities.dmm.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; kabu.dmm.com; securities.dmm.com]
 
 | Item | Notes |
 |---|---|

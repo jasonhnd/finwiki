@@ -1,11 +1,11 @@
 ---
 source: regional-banks/yamaguchi-fg
-source_hash: 9db23633a6c2b149
+source_hash: 1e3d52c2b679fb03
 lang: ja
 status: machine
 fidelity: ok
 title: "山口 FG (YMFG)"
-translated_at: 2026-06-19T12:43:19.985Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 山口 FG (YMFG)
@@ -53,6 +53,8 @@ YMFG（持株会社・上場 8418）
 
 ### 重要年表
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | 年月 | 事象 |
 |---|---|
 | 1944 | 山口銀行 設立（県内銀行統合）|
@@ -63,6 +65,8 @@ YMFG（持株会社・上場 8418）
 | 2024 | 中期経営計画策定 |
 
 ## 2. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

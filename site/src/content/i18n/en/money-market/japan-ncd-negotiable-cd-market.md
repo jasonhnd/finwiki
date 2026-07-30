@@ -1,11 +1,11 @@
 ---
 source: money-market/japan-ncd-negotiable-cd-market
-source_hash: 19610ed46cdc559a
+source_hash: 89d6efdd1b1b1282
 lang: en
 status: machine
 fidelity: ok
 title: "Japan NCD (negotiable certificate of deposit) market"
-translated_at: 2026-05-30T14:13:23.429Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan NCD (negotiable certificate of deposit) market
@@ -22,6 +22,8 @@ NCD outstanding is one of the largest single short-term yen instrument balances 
 
 ## Market Map
 
+The following table is scoped to public primary sources (boj.or.jp, fsa.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:boj.or.jp; fsa.go.jp; jsda.or.jp]
+
 | Layer | Function | FinWiki route |
 |---|---|---|
 | Issuer | Deposit-taking banks issue NCDs in their own names; megabanks, trust banks, and regional banks all issue. | [[megabanks/mufg]], [[megabanks/smfg]], [[megabanks/mizuho-fg]] |
@@ -31,6 +33,8 @@ NCD outstanding is one of the largest single short-term yen instrument balances 
 | Statistics | BoJ short-term financial market and deposit statistics; bank disclosure. | BoJ statistics surface |
 
 ## Instrument Mechanics
+
+The following table is scoped to public primary sources (boj.or.jp, fsa.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:boj.or.jp; fsa.go.jp; jsda.or.jp]
 
 | Element | Reading |
 |---|---|

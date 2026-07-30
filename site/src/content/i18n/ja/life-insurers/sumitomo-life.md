@@ -1,11 +1,11 @@
 ---
 source: life-insurers/sumitomo-life
-source_hash: de55c483c87f824a
+source_hash: eb4a5a53abc6f8b8
 lang: ja
 status: machine
 fidelity: ok
 title: "住友生命保険相互会社"
-translated_at: 2026-06-02T15:14:17.121Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 住友生命保険相互会社
@@ -29,6 +29,8 @@ translated_at: 2026-06-02T15:14:17.121Z
 **業態**：大手 4 生保の一角（日本生命・第一生命・住友生命・明治安田生命）^[extracted]
 
 ### 業界位置
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | 区分 | 内容 |
 |---|---|
@@ -55,6 +57,8 @@ translated_at: 2026-06-02T15:14:17.121Z
 
 ### 沿革 ^[extracted]
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | 年月 | 事象 |
 |---|---|
 | **1907-05-15** | **創業**（旧 日之出生命保険、住友家系列）|
@@ -68,6 +72,8 @@ translated_at: 2026-06-02T15:14:17.121Z
 | 2024 | 中期経営計画 発表（Vitality 拡大・海外 2 軸強化路線）|
 
 ## 2. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

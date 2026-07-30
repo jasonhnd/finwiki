@@ -1,12 +1,12 @@
 ---
 source: payments/japan-card-security-authentication-controls
-source_hash: 726a81f3eecdaee7
+source_hash: fdaf20dde47c427b
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Japan card security and authentication controls"
-translated_at: 2026-06-26T08:29:40.676Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan card security and authentication controls
@@ -19,6 +19,8 @@ translated_at: 2026-06-26T08:29:40.676Z
 
 ## Guideline Snapshot
 
+以下の表は、エントリ出典インベントリの公開一次資料（meti.go.jp, j-credit.or.jp, jcb.co.jp）の範囲に限定して読む。^[source:meti.go.jp; j-credit.or.jp; jcb.co.jp; global.jcb]
+
 | Version / route | Public-source role | Wiki reading |
 |---|---|---|
 | METI 2025-03-05 release | クレジットカードセキュリティガイドラインの改訂を公表。 | EC 加盟店のセキュリティ強化に関する公的政策アンカー。 |
@@ -28,6 +30,8 @@ translated_at: 2026-06-26T08:29:40.676Z
 | JCB 加盟店 / brand pages | イシュア、アクワイアラ、ブランド、加盟店、認証の各役割の平易なモデル。 | すべての当事者を「カード会社」に一括りにすることを切り分けるために使用。 |
 
 ## Actor And Responsibility Map
+
+以下の表は、エントリ出典インベントリの公開一次資料（meti.go.jp, j-credit.or.jp, jcb.co.jp）の範囲に限定して読む。^[source:meti.go.jp; j-credit.or.jp; jcb.co.jp; global.jcb]
 
 | Actor | Japanese / market term | Core responsibility | Security artifact |
 |---|---|---|---|
@@ -40,6 +44,8 @@ translated_at: 2026-06-26T08:29:40.676Z
 
 ## Control Stack
 
+以下の表は、エントリ出典インベントリの公開一次資料（meti.go.jp, j-credit.or.jp, jcb.co.jp）の範囲に限定して読む。^[source:meti.go.jp; j-credit.or.jp; jcb.co.jp; global.jcb]
+
 | Layer | Threat | Control objective | Primary owner | Secondary owner |
 |---|---|---|---|---|
 | Card-data protection | カード会員データの漏洩。 | 可能な限りカードデータを保存しない；PCI スコープを統制下に保つ。 | 加盟店 / PSP | アクワイアラ |
@@ -50,6 +56,8 @@ translated_at: 2026-06-26T08:29:40.676Z
 | Chargeback / dispute | 損失配分と証跡の不備。 | 注文、認証、配送、返金、コミュニケーションの証跡を保全する。 | アクワイアラ / 加盟店 | 発行会社 / PSP |
 
 ## EMV 3-D Secure Route
+
+以下の表は、エントリ出典インベントリの公開一次資料（meti.go.jp, j-credit.or.jp, jcb.co.jp）の範囲に限定して読む。^[source:meti.go.jp; j-credit.or.jp; jcb.co.jp; global.jcb]
 
 | Step | Component | Research question |
 |---|---|---|
@@ -64,6 +72,8 @@ translated_at: 2026-06-26T08:29:40.676Z
 
 ## Non-retention, Tokenization, And PCI DSS
 
+以下の表は、エントリ出典インベントリの公開一次資料（meti.go.jp, j-credit.or.jp, jcb.co.jp）の範囲に限定して読む。^[source:meti.go.jp; j-credit.or.jp; jcb.co.jp; global.jcb]
+
 | Integration pattern | Card-data exposure | Wiki reading |
 |---|---|---|
 | Redirect payment page | 加盟店が PSP／アクワイアラのホスト型ページにリダイレクトする。 | 正しく実装されれば加盟店のカードデータ露出はより低い。 |
@@ -72,6 +82,8 @@ translated_at: 2026-06-26T08:29:40.676Z
 | Stored credential / recurring billing | 後続の決済にトークンまたはオンファイルクレデンシャルを使用する。 | 同意、ライフサイクル、解約、不正監視の統制が必要。 |
 
 ## EC 加盟店 Fraud Controls
+
+以下の表は、エントリ出典インベントリの公開一次資料（meti.go.jp, j-credit.or.jp, jcb.co.jp）の範囲に限定して読む。^[source:meti.go.jp; j-credit.or.jp; jcb.co.jp; global.jcb]
 
 | Pattern | Control |
 |---|---|

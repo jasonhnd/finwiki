@@ -1,11 +1,11 @@
 ---
 source: policy-finance/osaka-credit-guarantee-corp
-source_hash: ba36cfd2a714e04c
+source_hash: bfc60c5f42ec5020
 lang: en
 status: machine
 fidelity: ok
 title: "Osaka Credit Guarantee Corporation"
-translated_at: 2026-06-01T03:31:12.318Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Osaka Credit Guarantee Corporation
@@ -17,6 +17,8 @@ Osaka Credit Guarantee Corporation (大阪信用保証協会) is the Osaka-prefe
 This page sits under [[policy-finance/INDEX|policy-finance index]] and pairs with the [[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]] mechanism page and [[policy-finance/national-federation-credit-guarantee-corporations|Japan Federation of Credit Guarantee Corporations]] coordination page.
 
 ## 1. Institutional boundary
+
+The following table is scoped to public primary sources (cgc-osaka.or.jp, zenshinhoren.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:cgc-osaka.or.jp; zenshinhoren.or.jp]
 
 | Item | Reading |
 |---|---|
@@ -30,6 +32,8 @@ This page sits under [[policy-finance/INDEX|policy-finance index]] and pairs wit
 | Boundary note | Osaka City had its own separate credit guarantee corporation until consolidation; the current corporation now covers both prefecture and city borrowers. |
 
 ## 2. Function map
+
+The following table is scoped to public primary sources (cgc-osaka.or.jp, zenshinhoren.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:cgc-osaka.or.jp; zenshinhoren.or.jp]
 
 | Function | Why it matters |
 |---|---|
@@ -57,6 +61,8 @@ Within the [[policy-finance/japan-policy-finance-system|Japan policy finance sys
 - **Not JFC**: [[financial-regulators/jfc|JFC]] reinsures Osaka CGC guarantees through credit insurance but is not the borrower-facing layer.
 
 ## 5. Comparison with Tokyo CGC
+
+The following table is scoped to public primary sources (cgc-osaka.or.jp, zenshinhoren.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:cgc-osaka.or.jp; zenshinhoren.or.jp]
 
 | Dimension | Tokyo CGC | Osaka CGC |
 |---|---|---|

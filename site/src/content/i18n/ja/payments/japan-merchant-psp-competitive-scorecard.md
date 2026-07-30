@@ -1,12 +1,12 @@
 ---
 source: payments/japan-merchant-psp-competitive-scorecard
-source_hash: 2f3f5b9ec4969be5
+source_hash: 9bbf5f4e75ca6d52
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の加盟店 PSP 競争スコアカード"
-translated_at: 2026-07-28T20:15:36Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本の加盟店 PSP 競争スコアカード
@@ -95,6 +95,8 @@ Amazon Pay（Amazon Japan G.K. / Amazon Web Services Japan）は、Amazon アカ
 
 ## 大比較マトリクス表
 
+以下の表は、エントリ出典インベントリの公開一次資料（gmo-pg.com, gmo.jp, epsilon.jp）の範囲に限定して読む。^[source:gmo-pg.com; gmo.jp; epsilon.jp; sbpayment.jp]
+
 | PSP | 親会社 / グループ | 上場 | 設立 | 主力加盟店基盤 | 報道された加盟店数 | カードブランドサポート | コード決済サポート | A2A / Bank Pay サポート | コンビニ / 銀行振込 | Suica / IC プリペイド | BNPL / 後払い統合 | 決済スピード（典型）| 手数料モデル（小規模加盟店ベースライン）| 垂直特化 | アクワイアラの役割（自社 / 外部）| M&A / 親会社史 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | **[[payment-firms/gmo-payment-gateway\|GMO-PG]]** | [[business/gmo-internet-group\|GMO Internet Group]] | 東証 PRIME 3769 | 1995 （カードコマースとして）| エンタープライズ＋ミッドマーケット EC | ~30万+ 店舗 | Visa / MC / JCB / AMEX / Diners / Discover | ゲートウェイ経由で PayPay / d払い / au PAY / 楽天ペイ | Bank Pay / 銀行振込 | あり（マルチコンビニ）| 限定的 | BtoB 後払い 自社＋3rd-party | 設定可能 T+5 ～T+M | ボリュームで交渉；大量取引の料率は最低水準 | マルチ垂直；エンタープライズ | 自社加盟店契約＋マルチアクワイアラルーティング | GMO グループ内部；[[card-issuers/smbc-card\|SMBC Card]] との SMBC GMO PAYMENT JV |
@@ -114,6 +116,8 @@ Amazon Pay（Amazon Japan G.K. / Amazon Web Services Japan）は、Amazon アカ
 
 報道された GMV / 処理高の数字はこのピアセット全体で一様に開示されていないため、このサイド軸は部分的である。GMO ペイメントゲートウェイは年次の処理高を IR で公表している（兆円のレンジで、そのエンタープライズ加盟店基盤を反映）。SB ペイメントサービスの処理高は、スタンドアロンの PSP としてではなく SoftBank Group / PayPay FG の連結開示の中で報告される。DGFT の処理高はデジタルガレージのセグメント開示の中で報告される。Square Japan、Stripe Japan、PayPal Japan、Komoju、Amazon Pay、Rakuten Payment は PSP セグメントレベルで一貫してスタンドアロン開示されていない；読者は開示された構成要素について親会社の IR を参照すべきである。
 
+以下の表は、エントリ出典インベントリの公開一次資料（gmo-pg.com, gmo.jp, epsilon.jp）の範囲に限定して読む。^[source:gmo-pg.com; gmo.jp; epsilon.jp; sbpayment.jp]
+
 | PSP | 処理高の開示面 | 桁感（公開ソースの指標）|
 |---|---|---|
 | **GMO-PG** | 自社 IR、四半期 | 年間処理高兆円 |
@@ -132,6 +136,8 @@ Amazon Pay（Amazon Japan G.K. / Amazon Web Services Japan）は、Amazon アカ
 
 ## クロス PSP の技術的差別化
 
+以下の表は、エントリ出典インベントリの公開一次資料（gmo-pg.com, gmo.jp, epsilon.jp）の範囲に限定して読む。^[source:gmo-pg.com; gmo.jp; epsilon.jp; sbpayment.jp]
+
 | 能力 | GMO-PG | GMO Epsilon | SBPS | DGFT | Netstars | Square | Stripe | PayPal | Komoju | Amazon Pay | Rakuten Pay | Recruit / Air PAY |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | EMV 3-DS 2.x 準拠（2025-03  義務）| あり | あり | あり | あり | 該当なし（コードファースト）| あり | あり | あり | あり | あり | あり | あり |
@@ -146,6 +152,8 @@ Amazon Pay（Amazon Japan G.K. / Amazon Web Services Japan）は、Amazon アカ
 ## 手数料の経済性 — 小規模加盟店の観点
 
 どの PSP をオンボードするかを決める商店街の小規模加盟店にとって、表面手数料の比較は通常このように見える。実際の手数料は加盟店ごと、MCC ごとに交渉される。
+
+以下の表は、エントリ出典インベントリの公開一次資料（gmo-pg.com, gmo.jp, epsilon.jp）の範囲に限定して読む。^[source:gmo-pg.com; gmo.jp; epsilon.jp; sbpayment.jp]
 
 | PSP | カード MDR ベースライン（小規模加盟店）| トランザクションごとの固定 | 月額最低 | オンボーディング時間 | ハードウェアコスト |
 |---|---|---|---|---|---|
@@ -182,6 +190,8 @@ Amazon Pay（Amazon Japan G.K. / Amazon Web Services Japan）は、Amazon アカ
 
 ## PSP に対する最近の規制圧力
 
+以下の表は、エントリ出典インベントリの公開一次資料（gmo-pg.com, gmo.jp, epsilon.jp）の範囲に限定して読む。^[source:gmo-pg.com; gmo.jp; epsilon.jp; sbpayment.jp]
+
 | 日付 | 出典 | 何が変わったか |
 |---|---|---|
 | 2018 | METI | 改正割賦販売法が加盟店調査義務を強化 — 加盟店契約締結事業者登録を保有する PSP のオンボーディングコストを引き上げた |
@@ -204,6 +214,8 @@ Amazon Pay（Amazon Japan G.K. / Amazon Web Services Japan）は、Amazon アカ
 ## 加盟店にとっての PSP 選択の意思決定レンズ
 
 PSP を選択する日本の小規模または中規模加盟店は、通常、四方向の意思決定に直面する：カード受け入れフットプリント、コード決済受け入れフットプリント、決済スピード要件、統合複雑性の許容度。このマトリクスは以下の意思決定ツリーのショートカットをサポートする：
+
+以下の表は、エントリ出典インベントリの公開一次資料（gmo-pg.com, gmo.jp, epsilon.jp）の範囲に限定して読む。^[source:gmo-pg.com; gmo.jp; epsilon.jp; sbpayment.jp]
 
 | 加盟店プロファイル | 最適合の PSP クラスター |
 |---|---|

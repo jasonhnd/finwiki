@@ -8,8 +8,8 @@ aliases:
   - "QBE Asia"
 domain: non-life-insurers
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, insurance, non-life-insurance, foreign-insurer, specialty-insurance, australian-insurer, public-source]
@@ -31,6 +31,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 QBE Insurance Group is one of the world's leading commercial and specialty insurers, headquartered in Sydney, Australia, and listed on the ASX. Its Asia operations include a Japan presence focused on commercial property, marine, casualty, financial lines, and trade credit / surety. QBE Japan serves multinational corporate clients and is part of QBE's North Asia regional structure, sitting alongside other foreign specialty insurers such as [[non-life-insurers/lloyd-japan|Lloyd's Japan]] and [[non-life-insurers/allianz-fire-marine-japan|Allianz Fire and Marine Insurance Japan]] in the Tokyo specialty market.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, qbe.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; qbe.com]
 
 | Item | Notes |
 |---|---|

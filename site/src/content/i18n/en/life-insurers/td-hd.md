@@ -1,11 +1,11 @@
 ---
 source: life-insurers/td-hd
-source_hash: afb469696877f435
+source_hash: 7f6e9f6c347406f9
 lang: en
 status: machine
 fidelity: ok
 title: "T&D ホールディングス (T&D Holdings)"
-translated_at: 2026-06-19T06:09:18.057Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # T&D ホールディングス (T&D Holdings)
@@ -28,6 +28,8 @@ A mid-sized life insurance holding company that is **among the largest domestica
 **Business type**: mid-sized life insurance holding company; among the largest domestically in the independent life insurance space
 
 ### Main KPI (latest public basis) ^[extracted]
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Item | Summary |
 |---|---|
@@ -55,6 +57,8 @@ T&D HD (holding company / listed 8795)
 
 ### Key chronology (excerpt) ^[extracted]
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Year/Month | Event |
 |---|---|
 | 1893 | **Taiyo Life founded** (a traditional life insurer centered on the household market) |
@@ -67,6 +71,8 @@ T&D HD (holding company / listed 8795)
 | **2024** | **new mid-term management plan announced** (including study of expanding overseas M&A) |
 
 ## 2. Business segment map
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Segment | Main operator | Characteristics |
 |---|---|---|

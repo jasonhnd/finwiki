@@ -1,11 +1,11 @@
 ---
 source: regional-banks/joyo-bank
-source_hash: 1dd6f7a6b22920c9
+source_hash: bd7866e2c68250f0
 lang: en
 status: machine
 fidelity: ok
 title: "株式会社常陽銀行 (Joyo Bank)"
-translated_at: 2026-06-19T12:43:19.854Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 株式会社常陽銀行 (Joyo Bank)
@@ -20,6 +20,8 @@ Joyo Bank is the core bank of [[regional-banks/mebuki-fg|めぶき FG]], based i
 
 ## 1. Company overview
 
+The following table is scoped to public primary sources (joyobank.co.jp, mebuki-fg.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:joyobank.co.jp; mebuki-fg.co.jp]
+
 | 項目 | 内容 |
 |---|---|
 | 正式名 | 株式会社 常陽銀行 |
@@ -32,6 +34,8 @@ Joyo Bank is the core bank of [[regional-banks/mebuki-fg|めぶき FG]], based i
 According to official and parent-company materials, as of 2025-09-30 the bank reports capital of 851億円, 3,112 employees, 181 店 domestic branches, 4  overseas representative offices, total assets of 12兆8,287億円, deposits of 10兆4,059億円, loans of 7兆6,250億円, and a consolidated capital-adequacy ratio of 13.13%.
 
 ## 2. Business-segment map
+
+The following table is scoped to public primary sources (joyobank.co.jp, mebuki-fg.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:joyobank.co.jp; mebuki-fg.co.jp]
 
 | 事業セグメント | 内容 | 重要性 |
 |---|---|---|

@@ -3,8 +3,8 @@ title: "ペット＆ファミリー損害保険"
 aliases: ["ペット＆ファミリー損保", "Pet & Family Insurance", "Pet and Family Insurance", "ペット＆ファミリー損害保険株式会社"]
 domain: non-life-insurers
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-22
 confidence: likely
 tags: [JapanFG, insurance, non-life-insurance, pet-insurance, td-holdings, operating-company]
@@ -29,6 +29,8 @@ Use this page for the T&D group pet-insurance operating-company route. Use [[lif
 The page matters because pet insurance is a different specialty line from the group's core life-insurance companies: [[life-insurers/daido-life|Daido Life]], [[life-insurers/taiyo-life|Taiyo Life]], and [[life-insurers/td-financial-life|T&D Financial Life]].
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, petfamilyins.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; petfamilyins.co.jp]
 
 | Item | Notes |
 |---|---|

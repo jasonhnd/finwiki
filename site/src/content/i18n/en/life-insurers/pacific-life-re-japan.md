@@ -1,11 +1,11 @@
 ---
 source: life-insurers/pacific-life-re-japan
-source_hash: f067f0a6354af0d5
+source_hash: e22230e720cbb1b6
 lang: en
 status: machine
 fidelity: ok
 title: "Pacific Life Re Japan / パシフィック・ライフ・リー・ジャパン"
-translated_at: 2026-06-15T03:48:21.819Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Pacific Life Re Japan / パシフィック・ライフ・リー・ジャパン
@@ -19,6 +19,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 Pacific Life Re is the global life and health reinsurance arm of **Pacific Life Insurance Company** (Pacific Life), a US-headquartered mutual life insurer founded in 1868 and based in Newport Beach, California. Pacific Life Re operates internationally with subsidiaries and branches in the UK, Australia, Singapore, Hong Kong, Bermuda, Canada, and Japan, focused on life and health reinsurance. Pacific Life Re Japan participates in the Japan life reinsurance market alongside larger reinsurers such as [[non-life-insurers/swiss-re-japan|Swiss Re Japan]], [[non-life-insurers/hannover-re-japan|Hannover Re Japan]], and the domestic [[non-life-insurers/toa-reinsurance|Toa Re]] / Japan Earthquake Reinsurance ecosystem.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, pacificlifere.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; pacificlifere.com]
 
 | Item | Notes |
 |---|---|

@@ -1,12 +1,12 @@
 ---
 source: foreign-financial-institutions/philippine-national-bank-japan
-source_hash: fb03cfdf862fc1bc
+source_hash: b7053e057c5fb5a3
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "フィリピン・ナショナル・バンク日本支店"
-translated_at: 2026-06-26T08:32:23.064Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # フィリピン・ナショナル・バンク日本支店
 
@@ -24,6 +24,8 @@ PNB Japanは、外国銀行支店としては公開開示が比較的厚い。�
 
 ## エンティティ境界
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, pnb.com.ph）の範囲に限定して読む。^[source:fsa.go.jp; pnb.com.ph]
+
 | 項目 | 読み方 |
 |---|---|
 | 親銀行 | Philippine National Bank |
@@ -33,6 +35,8 @@ PNB Japanは、外国銀行支店としては公開開示が比較的厚い。�
 | 規制ルート | 日本の銀行法上の外国銀行支店。 |
 
 ## 事業上の役割マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, pnb.com.ph）の範囲に限定して読む。^[source:fsa.go.jp; pnb.com.ph]
 
 | 機能 | 日本での意味 |
 |---|---|

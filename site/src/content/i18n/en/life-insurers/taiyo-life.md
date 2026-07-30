@@ -1,11 +1,11 @@
 ---
 source: life-insurers/taiyo-life
-source_hash: aae5bb1b2781103d
+source_hash: 2118031d8ac7d5ff
 lang: en
 status: machine
 fidelity: ok
 title: "Taiyo Life Insurance"
-translated_at: 2026-06-01T02:31:57.138Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Taiyo Life Insurance
 
@@ -19,6 +19,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 Taiyo Life Insurance Company is a major life-insurance operating company in the [[life-insurers/td-hd]] group. While [[life-insurers/daido-life]] is strong in the SME / owner market, Taiyo Life is easier to read as the operating arm for the household / individual protection market, making the T&D group split strategy clearer.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, taiyo-seimei.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; taiyo-seimei.co.jp]
 
 | Item | Notes |
 |---|---|

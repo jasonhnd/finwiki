@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/meiji-yasuda-general-insurance
-source_hash: 45a4ffaf97c325fa
+source_hash: 7ebe488e2ffdd468
 lang: ja
 status: machine
 fidelity: ok
 title: "明治安田損害保険"
-translated_at: 2026-06-15T03:48:21.898Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 明治安田損害保険
@@ -19,6 +19,8 @@ translated_at: 2026-06-15T03:48:21.898Z
 明治安田損害保険株式会社は、金融庁の損害保険会社免許一覧に掲載される [[life-insurers/meiji-yasuda]] グループ隣接 の損害保険事業会社。大手 生命保険グループ が持つ 損保部門 として、生保／損保のグループ境界を分けて見る。
 
 ## 1. ライセンス／グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, sonpohogo.or.jp, meijiyasuda-sonpo.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; sonpohogo.or.jp; meijiyasuda-sonpo.co.jp]
 
 | 項目 | 注記 |
 |---|---|

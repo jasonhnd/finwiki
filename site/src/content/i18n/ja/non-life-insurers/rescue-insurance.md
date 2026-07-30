@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/rescue-insurance
-source_hash: 6363507d38d4efec
+source_hash: f0eaed5619aed08b
 lang: ja
 status: machine
 fidelity: ok
 title: "レスキュー損害保険"
-translated_at: 2026-06-02T15:14:17.078Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # レスキュー損害保険
 
@@ -20,6 +20,8 @@ Rescue Insuranceは、Japan Best Rescue Systemおよび住宅サービス / 日�
 このページは 繝ｬ繧ｹ繧ｭ繝･繝ｼ謳榊ｮｳ菫晞匱譬ｪ蠑丈ｼ夂､ｾ を対象とする。保険免許上の関係が明示されない限り、JBRのサービス事業や少額短期保険子会社と統合して扱わない。
 
 ## 事業上の役割マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, rescue-sonpo.jp, jbr.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; rescue-sonpo.jp; jbr.co.jp]
 
 | ルート | 読み方 |
 |---|---|

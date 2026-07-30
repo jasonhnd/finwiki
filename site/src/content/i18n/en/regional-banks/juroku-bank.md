@@ -1,11 +1,11 @@
 ---
 source: regional-banks/juroku-bank
-source_hash: 95715b39c83be23c
+source_hash: 88c3d401b3fcbf7a
 lang: en
 status: machine
 fidelity: ok
 title: "The Juroku Bank"
-translated_at: 2026-06-15T04:09:41.196Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # The Juroku Bank
@@ -19,6 +19,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 The Juroku Bank, Ltd. (株式会社十六銀行) is a regional bank (first-tier regional bank) headquartered in Gifu City, Gifu Prefecture, holding a bank license under the Banking Act and listed in the FSA's bank license list. It is the core operating bank of [[regional-banks/juroku-fg|十六フィナンシャルグループ]] and is organized as a bank-license entity separate from the FG page. Its business is the standard regional-bank model of deposit-taking in Gifu Prefecture and the Chukyo region and lending to SMEs, individuals, and local public bodies.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, juroku.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; juroku.co.jp]
 
 | Item | Notes |
 |---|---|

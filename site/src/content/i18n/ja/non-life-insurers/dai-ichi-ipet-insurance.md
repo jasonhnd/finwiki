@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/dai-ichi-ipet-insurance
-source_hash: 1645dc8f77c31ce2
+source_hash: 8087461b94a69e5f
 lang: ja
 status: machine
 fidelity: ok
 title: "第一アイペット損害保険"
-translated_at: 2026-06-02T14:25:12.397Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 第一アイペット損害保険
@@ -23,6 +23,8 @@ translated_at: 2026-06-02T14:25:12.397Z
 このページは境界問題も整理する。将来、公開情報に基づく必要が出ない限り、`ipet-holdings` の別ルートは作らない。ウィキ上で有用なノードは事業保険会社であり、金融庁の損保免許行と公式会社概要はいずれも事業会社を指している。
 
 ## 1. 免許・グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, ipet-ins.com, daiichilife-group.com）の範囲に限定して読む。^[source:fsa.go.jp; ipet-ins.com; daiichilife-group.com]
 
 | 項目 | メモ |
 |---|---|

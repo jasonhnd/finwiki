@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/bank-of-america-japan
-source_hash: 59513b491f613ac0
+source_hash: 5b69370d306af55d
 lang: ja
 status: machine
 fidelity: ok
 title: "バンク・オブ・アメリカ日本 (Bank of America Japan)"
-translated_at: 2026-06-02T14:01:20.917Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # バンク・オブ・アメリカ日本 (Bank of America Japan)
@@ -20,6 +20,8 @@ Bank of America は 1947年に日本で事業を開始した米大手金融グ�
 
 ## 1. 会社概要
 
+以下の表は、エントリ出典インベントリの公開一次資料（business.bofa.com, fsa.go.jp）の範囲に限定して読む。^[source:business.bofa.com; fsa.go.jp]
+
 | 項目 | 内容 |
 |---|---|
 | 親会社 | Bank of America Corporation |
@@ -33,6 +35,8 @@ Bank of America は 1947年に日本で事業を開始した米大手金融グ�
 Bank of America 公式日本ページは、日本業務を BofA証券株式会社と Bank of America, N.A., Tokyo Branch の 2 法人で展開していると説明する。金融庁の外国銀行支店一覧でも、バンク・オブ・アメリカ・エヌ・エイは外国銀行支店として確認できる。
 
 ## 2. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（business.bofa.com, fsa.go.jp）の範囲に限定して読む。^[source:business.bofa.com; fsa.go.jp]
 
 | 事業セグメント | 内容 | 顧客 |
 |---|---|---|

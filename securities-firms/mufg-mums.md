@@ -9,8 +9,8 @@ aliases:
   - "securities-firms/mufg-msms"
 domain: securities-firms
 created: 2026-05-19
-last_updated: 2026-05-20
-last_tended: 2026-05-20
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, securities, investment-banking, FIEA, MUFG, Morgan-Stanley]
@@ -54,6 +54,8 @@ Mitsubishi UFJ Morgan Stanley Securities is the core MUFG securities company cre
 Use this page as the [[megabanks/mufg|MUFG]] securities-arm route. Use Morgan Stanley MUFG Securities separately when the focus is institutional Morgan Stanley-led Japan activity.
 
 ## Positioning
+
+The following table is scoped to public primary sources (hd.sc.mufg.jp, fsa.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:hd.sc.mufg.jp; fsa.go.jp; jsda.or.jp; sc.mufg.jp]
 
 | Lens | Reading |
 |---|---|

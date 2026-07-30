@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/anicom-insurance
-source_hash: 45782db01d15412d
+source_hash: 2fa064a2ee208d9c
 lang: en
 status: machine
 fidelity: ok
 title: "Anicom Insurance"
-translated_at: 2026-05-31T11:13:44.952Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Anicom Insurance
 
@@ -19,6 +19,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 Anicom Insurance, Inc. is a pet-insurance specialist non-life insurer listed on the FSA non-life insurance company license list. Unlike major non-life insurers centered on auto and fire, it is treated as a specialty operating company with pet-insurance and animal-health adjacency.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, sonpohogo.or.jp, anicom-sompo.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sonpohogo.or.jp; anicom-sompo.co.jp]
 
 | Item | Notes |
 |---|---|

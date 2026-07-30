@@ -12,8 +12,8 @@ aliases:
   - "JICA 円借款"
 domain: "policy-finance"
 created: 2026-05-19
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [policy-finance, oda, development-finance, japan, mofa, technical-cooperation, grant-aid, psif]
@@ -39,6 +39,8 @@ This entry sits under [[policy-finance/INDEX|policy-finance index]] as the ODA-i
 JICA (独立行政法人国際協力機構) is Japan's primary ODA implementation agency, MOFA-supervised (外務大臣 主管 + 財務省 / METI / MOFA coordination on loan terms), formed in its current shape in 2008-10 when the旧 JBIC ODA wing (OECF-lineage 円借款) was merged into the prior JICA (the technical-cooperation / grant-aid agency). The institution now runs three statutory product lanes — **ODA loans (有償資金協力 / 円借款)**, **technical cooperation (技術協力)**, and **grant aid (無償資金協力)** — plus a smaller fourth lane, **Private Sector Investment Finance (PSIF / 海外投融資)**, that competes with [[financial-regulators/jbic|JBIC]] in a narrow segment of ODA-eligible private-sector projects. The capital structure is government-funded: an Incorporated Administrative Agency (独立行政法人) with capital injections from the General Account and FILP (財政投融資) funding for the loan portfolio. Loan terms are concessional by construction — long tenor (typically 30 years or longer), grace periods, low coupons (sub-1% in many cases), denominated in JPY or USD — distinguishing them sharply from JBIC's market-rate or OECD-Arrangement-MPR commercial-grade overseas lending. The DAC reporting boundary is the key analytic discriminator: JICA's loans count as ODA under OECD-DAC criteria; JBIC's loans generally do not. Recent (2022-2025) policy direction has rotated toward **economic-security framing** — friend-shoring infrastructure in ASEAN / Indo-Pacific, supply-chain-resilience grants, hydrogen / decarbonization technical cooperation, and selective expansion of PSIF as the bridge between ODA and Japanese-corporate overseas investment — alongside the 2023 ODA Charter revision that codifies "Offer-type ODA" (proactive Japan-led project formation).
 
 ## 1. Institutional structure
+
+The following table is scoped to public primary sources (jica.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jica.go.jp]
 
 | Item | Detail |
 |---|---|
@@ -67,6 +69,8 @@ The JICA / JBIC boundary is the most-asked institutional question on the Japanes
 ## 2. Mandate by line of business
 
 ### 2.1 Product lane summary
+
+The following table is scoped to public primary sources (jica.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jica.go.jp]
 
 | Lane | Statutory basis | Funding source | Typical concessionality | Counterparty | Country eligibility |
 |---|---|---|---|---|---|
@@ -103,6 +107,8 @@ PSIF was suspended in 1999 after losses on the original program, then reactivate
 
 ## 3. KPI table (public-source numbers, FY2023-2024 disclosed)
 
+The following table is scoped to public primary sources (jica.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jica.go.jp]
+
 | KPI | Approximate value | Source / caveat |
 |---|---|---|
 | ODA loan portfolio outstanding | ~¥14-15 trillion (JPY 14-15 兆円 range) | JICA Annual Report / 業務実績報告書 — figures move with FX and disbursement / repayment timing |
@@ -119,6 +125,8 @@ PSIF was suspended in 1999 after losses on the original program, then reactivate
 Year-on-year volatility is high in commitment / signing figures; the loan-portfolio outstanding metric is the more stable benchmark for JICA's lending-balance size. The institution does **not** report a return-on-equity in commercial-bank style — concessionality means most loans are price-taking on the concessional menu set by MOFA / MoF / Diet-approved appropriation, and the financial-statement narrative is dominated by FX revaluation, allowance for doubtful debts on borrower-country risk, and FILP-funding cost matching.
 
 ## 4. Year-by-year evolution
+
+The following table is scoped to public primary sources (jica.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jica.go.jp]
 
 | Year | Event |
 |---|---|
@@ -141,6 +149,8 @@ Year-on-year volatility is high in commitment / signing figures; the loan-portfo
 JICA does not have a single dedicated operating-mechanics sibling page in FinWiki at this snapshot, distinct from JBIC ([[policy-finance/jbic-overseas-investment-underwriting-process|JBIC OIL underwriting]]), NEXI ([[policy-finance/nexi-export-credit-insurance-products|NEXI insurance products]]), JFC ([[policy-finance/jfc-sme-division-operating-model|JFC SME Division]]), and JOGMEC ([[policy-finance/jogmec-equity-and-offtake-mechanics|JOGMEC equity / offtake]]). The deepest current comparison anchors are [[policy-finance/japan-policy-finance-institution-mandate-matrix|the mandate matrix]] (cross-institution axis), [[policy-finance/japan-project-finance-stack-diagram|the project finance stack diagram]] (how ODA-grade and commercial-grade layers fit beside each other on overseas projects), and [[policy-finance/japan-eximbank-history|the eximbank history]] (where the 2008 ODA migration into JICA is the central institutional pivot).
 
 ### Comparison axes vs JBIC (the closest peer)
+
+The following table is scoped to public primary sources (jica.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jica.go.jp]
 
 | Axis | JICA | [[financial-regulators/jbic\|JBIC]] |
 |---|---|---|

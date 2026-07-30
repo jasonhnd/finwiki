@@ -3,8 +3,8 @@ title: "PayPal Pte. Ltd. Japan service boundary"
 aliases: ["PayPal Japan", "PayPal Pte. Ltd.", "ペイパル", "ペイパル日本"]
 domain: payment-firms
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, payments, wallet, remittance, merchant-services, funds-transfer]
@@ -27,6 +27,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 日本の PayPal サービスは PayPal Pte. Ltd. の資金決済法上の表示で管理される。公式表示は personal account の第三者型前払式支払手段、premier / business account の第二種資金移動業を分けて説明しており、consumer wallet と merchant checkout を同じ名前で読まないことが重要。
 
 ## 1. 法人・ライセンス境界
+
+The following table is scoped to public primary sources (paypal.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:paypal.com; fsa.go.jp]
 
 | Item | Reading |
 |---|---|

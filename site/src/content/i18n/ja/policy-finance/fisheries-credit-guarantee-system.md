@@ -1,11 +1,11 @@
 ---
 source: policy-finance/fisheries-credit-guarantee-system
-source_hash: a0d13d85403c1148
+source_hash: f070e83503e4792d
 lang: ja
 status: machine
 fidelity: ok
 title: "日本における漁業信用保証制度"
-translated_at: 2026-06-19T06:09:18.037Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本における漁業信用保証制度
@@ -22,6 +22,8 @@ translated_at: 2026-06-19T06:09:18.037Z
 
 日本の漁業金融は、農業のスタックと並行する**漁業系統金融**のスタックを通じて流れる：
 
+以下の表は、エントリ出典インベントリの公開一次資料（jaffic.go.jp, zengyoki.or.jp, maff.go.jp）の範囲に限定して読む。^[source:jaffic.go.jp; zengyoki.or.jp; maff.go.jp; jfa.maff.go.jp]
+
 | 層 | 機能 | FinWiki ルート |
 |---|---|---|
 | 漁業者 / 漁業法人 / 加工業者 | 借り手（漁業者、漁業法人、養殖業者、水産加工業者、適格協同組合）。 | システムルートはここ |
@@ -34,6 +36,8 @@ translated_at: 2026-06-19T06:09:18.037Z
 | 水産庁 / MAFF | 漁業協同組合システム + 保証保険システムの政策監督者。 | [[policy-finance/INDEX]] |
 
 ## 2. 機関概要 — 漁業信用基金協会
+
+以下の表は、エントリ出典インベントリの公開一次資料（jaffic.go.jp, zengyoki.or.jp, maff.go.jp）の範囲に限定して読む。^[source:jaffic.go.jp; zengyoki.or.jp; maff.go.jp; jfa.maff.go.jp]
 
 | 項目 | 内容 |
 |---|---|
@@ -73,6 +77,8 @@ translated_at: 2026-06-19T06:09:18.037Z
 
 ほぼすべての都道府県に地理的に分布する農業とは異なり、漁業保証制度は**沿岸都道府県に重く集中している**：
 
+以下の表は、エントリ出典インベントリの公開一次資料（jaffic.go.jp, zengyoki.or.jp, maff.go.jp）の範囲に限定して読む。^[source:jaffic.go.jp; zengyoki.or.jp; maff.go.jp; jfa.maff.go.jp]
+
 | 地域 | 漁業の性格 | 保証ブックの重点 |
 |---|---|---|
 | 北海道 | 太平洋サケ、ホタテ、コンブ、ウニ、カニ — ボリュームと価値で日本最大の漁業都道府県。 | 漁船金融 + ホタテ / コンブ養殖 + 加工。 |
@@ -85,6 +91,8 @@ translated_at: 2026-06-19T06:09:18.037Z
 地理的集中は、漁業保証制度のポートフォリオリスクが、単一の沿岸エリアの複数の保証に同時に影響しうる**地域的な海洋環境ショック**にさらされることを意味する。
 
 ## 7. 年表の進化
+
+以下の表は、エントリ出典インベントリの公開一次資料（jaffic.go.jp, zengyoki.or.jp, maff.go.jp）の範囲に限定して読む。^[source:jaffic.go.jp; zengyoki.or.jp; maff.go.jp; jfa.maff.go.jp]
 
 | 年 | 事象 |
 |---|---|
@@ -102,6 +110,8 @@ translated_at: 2026-06-19T06:09:18.037Z
 | 2025 | 食料安全保障戦略としての養殖拡大（国産養殖振興）への継続的な政策フォーカス；保証制度が整合。 |
 
 ## 8. 農業信用保証制度との比較
+
+以下の表は、エントリ出典インベントリの公開一次資料（jaffic.go.jp, zengyoki.or.jp, maff.go.jp）の範囲に限定して読む。^[source:jaffic.go.jp; zengyoki.or.jp; maff.go.jp; jfa.maff.go.jp]
 
 | 次元 | 漁業信用保証制度 | [[policy-finance/agriculture-credit-guarantee-system\|Agriculture credit guarantee system]] |
 |---|---|---|

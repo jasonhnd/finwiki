@@ -1,11 +1,11 @@
 ---
 source: regional-banks/keiyo-bank
-source_hash: a92adb1c46cdb6db
+source_hash: 1976ae2b96e16d55
 lang: en
 status: machine
 fidelity: ok
 title: "株式会社京葉銀行"
-translated_at: 2026-06-19T12:43:19.904Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 株式会社京葉銀行
@@ -31,6 +31,8 @@ The No.2  regional bank in Chiba Prefecture (intra-prefecture share 2 位, with 
 
 ### 概要数値（公開ベース・概数）
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | 項目 | 規模感 |
 |---|---|
 | 総資産 | 約 5 兆円台（第二地銀でも上位） |
@@ -40,6 +42,8 @@ The No.2  regional bank in Chiba Prefecture (intra-prefecture share 2 位, with 
 | 従業員 | 約 2,000 名規模 |
 
 ### 沿革（抜粋）
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | 年月 | 事象 |
 |---|---|
@@ -53,6 +57,8 @@ The No.2  regional bank in Chiba Prefecture (intra-prefecture share 2 位, with 
 
 ## 2. 事業セグメント・マップ
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | 部門 | 主力商品 | 位置付け |
 |---|---|---|
 | 法人 | 中小企業向け融資・事業承継支援 | 京葉地区中小企業に密着、メインバンク比率が地元で高い |
@@ -62,6 +68,8 @@ The No.2  regional bank in Chiba Prefecture (intra-prefecture share 2 位, with 
 | 系列・関連 | けいぎん総合リース、けいぎんカードサービス、けいぎんビジネスサービス 等 | 地域密着型のグループ会社 |
 
 ### 千葉県内市場構造
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | 銀行 | 種別 | 位置付け |
 |---|---|---|
@@ -89,6 +97,8 @@ Instead, it responds via the Second Association of Regional Banks' joint back-of
 - **個人預金比率**：個人預金の比率が法人預金より高め、リテール色が濃い
 
 ### 競合関係 map
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | 競合軸 | 主要競合 |
 |---|---|

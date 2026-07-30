@@ -1,11 +1,11 @@
 ---
 source: securities-firms/chibagin-securities
-source_hash: 2a13f69e066fd450
+source_hash: 63d63e51115928e2
 lang: ja
 status: machine
 fidelity: ok
 title: "ちばぎん証券（Chibagin Securities）"
-translated_at: 2026-06-02T14:01:20.918Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # ちばぎん証券（Chibagin Securities）
 
@@ -18,6 +18,8 @@ translated_at: 2026-06-02T14:01:20.918Z
 株式会社ちばぎん証券は、[[regional-banks/chiba-bank|千葉銀行 (東証 PRIME 8331)]] 100% 子会社の地銀系証券会社で、千葉県・首都圏東部を地盤とする個人富裕層・中堅企業 メインバンク顧客向けのリテール証券仲介・公募私募債仲介・投信・ファンドラップ・事業承継アドバイザリー を提供。第一種金融商品取引業 (証券業) 免許で、[[financial-regulators/jsda|日本証券業協会]] 正会員。**前身は旧 中央証券 (Chuo Securities)** で、旧 山一證券系であったが山一破綻後に千葉銀行が筆頭株主としてグループ化し、**2011-01 に「ちばぎん証券」へ商号変更**、**2011-10 に株式交換で千葉銀行の完全子会社**となった。千葉銀は持株会社化していない単独銀行 (非持株会社モデル) のため、ちばぎん証券は親銀行直下にぶら下がる構造で、[[regional-banks/mebuki-fg]] / [[regional-banks/fukuoka-fg]] のような持株会社下の銀証兄弟会社 モデルとは法的位置が異なる。^[extracted]
 
 ## 1. 会社概要
+
+以下の表は、エントリ出典インベントリの公開一次資料（chibagin-sec.co.jp, chibabank.co.jp, disclosure.edinet-fsa.go.jp）の範囲に限定して読む。^[source:chibagin-sec.co.jp; chibabank.co.jp; disclosure.edinet-fsa.go.jp; fsa.go.jp]
 
 | 項目 | 注記 |
 |---|---|
@@ -48,6 +50,8 @@ translated_at: 2026-06-02T14:01:20.918Z
 
 ## 2. 業務ラインと収益構造
 
+以下の表は、エントリ出典インベントリの公開一次資料（chibagin-sec.co.jp, chibabank.co.jp, disclosure.edinet-fsa.go.jp）の範囲に限定して読む。^[source:chibagin-sec.co.jp; chibabank.co.jp; disclosure.edinet-fsa.go.jp; fsa.go.jp]
+
 | セグメント | 特徴 |
 |---|---|
 | リテール証券仲介 | 千葉県・首都圏東部地盤の個人投資家向け株式・投信・債券仲介 |
@@ -61,6 +65,8 @@ translated_at: 2026-06-02T14:01:20.918Z
 
 ### グループ内クロスリンク
 
+以下の表は、エントリ出典インベントリの公開一次資料（chibagin-sec.co.jp, chibabank.co.jp, disclosure.edinet-fsa.go.jp）の範囲に限定して読む。^[source:chibagin-sec.co.jp; chibabank.co.jp; disclosure.edinet-fsa.go.jp; fsa.go.jp]
+
 | グループ会社 | 連携内容 |
 |---|---|
 | [[regional-banks/chiba-bank]] | 法人 / 個人顧客紹介、銀行店舗内証券窓口、投信銀行窓販 |
@@ -68,6 +74,8 @@ translated_at: 2026-06-02T14:01:20.918Z
 | ちばぎん総研 | 千葉県経済 / 業界レポート提供 |
 
 ### 地銀系証券ピア比較
+
+以下の表は、エントリ出典インベントリの公開一次資料（chibagin-sec.co.jp, chibabank.co.jp, disclosure.edinet-fsa.go.jp）の範囲に限定して読む。^[source:chibagin-sec.co.jp; chibabank.co.jp; disclosure.edinet-fsa.go.jp; fsa.go.jp]
 
 | 証券子会社 | 親銀行 / FG | 親会社モデル | 地盤 | 上場 |
 |---|---|---|---|---|

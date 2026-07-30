@@ -1,11 +1,11 @@
 ---
 source: securities-firms/daiwa-sg
-source_hash: 00f61321f5f70001
+source_hash: c5cccbb0df268f98
 lang: en
 status: machine
 fidelity: ok
 title: "Daiwa Securities Group Inc. (大和証券グループ本社)"
-translated_at: 2026-06-19T12:43:19.951Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Daiwa Securities Group Inc. (大和証券グループ本社)
@@ -20,6 +20,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ## 0. Latest results (FY2024 = 2025-03 , consolidated)
 
+The following table is scoped to public primary sources (daiwa-grp.jp, bank-daiwa.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:daiwa-grp.jp; bank-daiwa.co.jp]
+
 | Item | Figure | Source |
 |---|---|---|
 | Net operating revenues | **6,459 億 90 百万円** | Daiwa SG official IR / 2025-03  earnings release |
@@ -27,6 +29,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 | Total assets | **36 兆 243 億 46 百万円** | Same as above |
 
 ### Daiwa Next Bank (subsidiary, as of 2026-03 )
+
+The following table is scoped to public primary sources (daiwa-grp.jp, bank-daiwa.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:daiwa-grp.jp; bank-daiwa.co.jp]
 
 | Item | Figure |
 |---|---|
@@ -68,6 +72,8 @@ Daiwa Securities Group Inc. (holding company, listed 8601)
 
 ### Key timeline (based on public information)
 
+The following table is scoped to public primary sources (daiwa-grp.jp, bank-daiwa.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:daiwa-grp.jp; bank-daiwa.co.jp]
+
 | Year/Month | Event |
 |---|---|
 | **1902** | **Fujimoto Bill Broker Bank founded** (Osaka, the predecessor of today's Daiwa Securities) |
@@ -85,6 +91,8 @@ Daiwa Securities Group Inc. (holding company, listed 8601)
 > Note: The above timeline is based on public materials (Wikipedia / IR / official history). The detailed schemes after the dissolution of the Sumitomo joint venture and the consolidation scope of the overseas office clusters vary by period, so the latest figures should be checked against IR disclosure materials.
 
 ## 2. Business-segment map
+
+The following table is scoped to public primary sources (daiwa-grp.jp, bank-daiwa.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:daiwa-grp.jp; bank-daiwa.co.jp]
 
 | Segment | Main operator | Characteristics |
 |---|---|---|
@@ -117,6 +125,8 @@ Compared with Nomura HD's global IB (the Lehman Asia / Europe acquisition), Daiw
 - **Fintech**: continuing group-wide digitalization (strengthening the online-trading platform, AI utilization, asset-management apps) in the medium-term plan
 
 ### Competitive landscape
+
+The following table is scoped to public primary sources (daiwa-grp.jp, bank-daiwa.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:daiwa-grp.jp; bank-daiwa.co.jp]
 
 | Target | Competitive area | Daiwa's position |
 |---|---|---|

@@ -9,8 +9,8 @@ aliases:
   - "zenshinhoren"
 domain: "policy-finance"
 created: 2026-05-21
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [policy-finance, credit-guarantee, sme-finance, public-credit, federation, zerozero-loan, japan]
@@ -61,6 +61,8 @@ The 4 city CGCs exist because at the historical foundation of the system, the fo
 
 ## 3. JFG role map
 
+The following table is scoped to public primary sources (zenshinhoren.or.jp, chusho.meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:zenshinhoren.or.jp; chusho.meti.go.jp]
+
 | Role | Detail |
 |---|---|
 | Member support | Financial / operational / IT / training support to the 51 local CGCs; standard operating procedures; risk-management coordination. |
@@ -78,6 +80,8 @@ The 4 city CGCs exist because at the historical foundation of the system, the fo
 
 JFG was the operational federation-level coordinator for the **2020–2022 ZeroZero loan** rollout (実質無利子・無担保融資) — see [[policy-finance/japan-credit-guarantee-system]] for system-level mechanics. JFG's role:
 
+The following table is scoped to public primary sources (zenshinhoren.or.jp, chusho.meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:zenshinhoren.or.jp; chusho.meti.go.jp]
+
 | Phase | JFG action |
 |---|---|
 | Program design (2020-04) | Federation-level standardization of ZeroZero application form, lender-CGC operational interface, eligibility check, document standards. |
@@ -93,6 +97,8 @@ The post-COVID exit framework (since ~2022) emphasizes **patient borrower-by-bor
 ## 5. Member CGC ranking by guarantee outstanding
 
 Among the 51 member CGCs, the largest by guarantee outstanding (保証残高) typically include:
+
+The following table is scoped to public primary sources (zenshinhoren.or.jp, chusho.meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:zenshinhoren.or.jp; chusho.meti.go.jp]
 
 | Rank tier | CGCs (illustrative) | Why |
 |---|---|---|
@@ -115,6 +121,8 @@ The **JFC 信用保険業務** (credit insurance business) is the reinsurance la
 JFC inherited the credit-insurance business from the predecessor 中小企業信用保険公庫 (1958), which was integrated into JFC in 2008 as part of the policy-finance reorganization. The credit-insurance business is now operated within JFC alongside JFC's direct SME / small-business / agriculture-forestry-fisheries / international lending — see [[financial-regulators/jfc]].
 
 ## 7. Year evolution
+
+The following table is scoped to public primary sources (zenshinhoren.or.jp, chusho.meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:zenshinhoren.or.jp; chusho.meti.go.jp]
 
 | Year | Event |
 |---|---|

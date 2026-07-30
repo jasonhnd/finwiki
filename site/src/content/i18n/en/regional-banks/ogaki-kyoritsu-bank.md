@@ -1,11 +1,11 @@
 ---
 source: regional-banks/ogaki-kyoritsu-bank
-source_hash: 189e59aaa0d72381
+source_hash: 60969a4705f71cf2
 lang: en
 status: machine
 fidelity: ok
 title: "大垣共立銀行 (OKB)"
-translated_at: 2026-06-19T12:43:19.905Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 大垣共立銀行 (OKB)
@@ -30,6 +30,8 @@ A regional bank of the Tokai region headquartered in Ogaki City, Gifu Prefecture
 **統一金融機関コード**：0152 ^[extracted]
 
 ### 主要数値 (2025年3月末・連結)
+
+The following table is scoped to public primary sources (okb.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:okb.co.jp]
 
 | 項目 | 数値 |
 |---|---|
@@ -72,6 +74,8 @@ A regional bank of the Tokai region headquartered in Ogaki City, Gifu Prefecture
 | 2024 | 中期経営計画策定・サステナビリティ重視 |
 
 ## 2. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (okb.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:okb.co.jp]
 
 | セグメント | 主な対象 | 特徴 |
 |---|---|---|

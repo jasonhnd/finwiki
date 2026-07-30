@@ -1,12 +1,12 @@
 ---
 source: payment-firms/jcb-international
-source_hash: c4b942ff3097e23a
+source_hash: 3daaaaac35f3401f
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "ジェーシービー・インターナショナル (JCB International)"
-translated_at: 2026-06-26T08:31:59.840Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # ジェーシービー・インターナショナル (JCB International)
@@ -20,6 +20,8 @@ translated_at: 2026-06-26T08:31:59.840Z
 JCB International Co., Ltd. (JCBI) は [[card-issuers/jcb|JCB]] の **海外事業を担う 100% 子会社**。国際ブランド「JCB」の **海外発行 (overseas issuance) / 海外加盟店開拓 (アクワイアリング) / ブランド・ライセンス** の 3 機能を一手に担う。日本国内発行は親会社 JCB が直接担うのに対し、海外ライセンシー銀行 (アジア・米州・欧州) との提携、海外加盟店ネットワーク (Discover / UnionPay との相互利用含む) の運営はすべて JCBI 経由。
 
 ## 1. ライセンス / グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（global.jcb）の範囲に限定して読む。^[source:global.jcb]
 
 | Item | Notes |
 |---|---|

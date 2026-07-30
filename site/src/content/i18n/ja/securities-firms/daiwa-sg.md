@@ -1,11 +1,11 @@
 ---
 source: securities-firms/daiwa-sg
-source_hash: 00f61321f5f70001
+source_hash: c5cccbb0df268f98
 lang: ja
 status: machine
 fidelity: ok
 title: "大和証券グループ本社"
-translated_at: 2026-06-02T14:25:12.426Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 大和証券グループ本社
@@ -20,6 +20,8 @@ translated_at: 2026-06-02T14:25:12.426Z
 
 ## 0. 最新業績 (FY2024 = 2025-03 期、連結)
 
+以下の表は、エントリ出典インベントリの公開一次資料（daiwa-grp.jp, bank-daiwa.co.jp）の範囲に限定して読む。^[source:daiwa-grp.jp; bank-daiwa.co.jp]
+
 | 項目 | 数値 | 出典 |
 |---|---|---|
 | 純営業収益 | **6,459 億 90 百万円** | 大和 SG 公式 IR / 2025-03 期決算短信 |
@@ -27,6 +29,8 @@ translated_at: 2026-06-02T14:25:12.426Z
 | 総資産 | **36 兆 243 億 46 百万円** | 同上 |
 
 ### 大和ネクスト銀行 (子会社、2026-03 末時点)
+
+以下の表は、エントリ出典インベントリの公開一次資料（daiwa-grp.jp, bank-daiwa.co.jp）の範囲に限定して読む。^[source:daiwa-grp.jp; bank-daiwa.co.jp]
 
 | 項目 | 数値 |
 |---|---|
@@ -68,6 +72,8 @@ translated_at: 2026-06-02T14:25:12.426Z
 
 ### 重要年表（公開情報ベース）
 
+以下の表は、エントリ出典インベントリの公開一次資料（daiwa-grp.jp, bank-daiwa.co.jp）の範囲に限定して読む。^[source:daiwa-grp.jp; bank-daiwa.co.jp]
+
 | 年月 | 事象 |
 |---|---|
 | **1902** | **藤本ビルブローカー銀行 創業**（大阪、現大和証券の前身）|
@@ -85,6 +91,8 @@ translated_at: 2026-06-02T14:25:12.426Z
 > 注: 上記年表は公開資料（Wikipedia / IR / 公式沿革）に基づく。住友合弁解消以後の細目スキームや海外拠点群の連結範囲は時期ごとに変動するため、最新値は IR 開示資料を要参照。
 
 ## 2. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（daiwa-grp.jp, bank-daiwa.co.jp）の範囲に限定して読む。^[source:daiwa-grp.jp; bank-daiwa.co.jp]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -117,6 +125,8 @@ translated_at: 2026-06-02T14:25:12.426Z
 - **フィンテック**: グループ全体でのデジタル化（オンライントレード基盤強化、AI 活用、資産運用アプリ）を中期計画で継続
 
 ### 競合構図
+
+以下の表は、エントリ出典インベントリの公開一次資料（daiwa-grp.jp, bank-daiwa.co.jp）の範囲に限定して読む。^[source:daiwa-grp.jp; bank-daiwa.co.jp]
 
 | 対象 | 競合領域 | 大和の立ち位置 |
 |---|---|---|

@@ -1,11 +1,11 @@
 ---
 source: regional-banks/nishi-nippon-city-bank
-source_hash: edf6472897b836d3
+source_hash: 646c04f0ecc520d9
 lang: en
 status: machine
 fidelity: ok
 title: "Nishi-Nippon City Bank"
-translated_at: 2026-06-15T04:09:41.139Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Nishi-Nippon City Bank
@@ -19,6 +19,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 The Nishi-Nippon City Bank, Ltd. (NCB; 株式会社西日本シティ銀行) is a regional bank (first-tier regional bank / 第一地銀) headquartered in Fukuoka City, Fukuoka Prefecture, holding a banking licence under the Banking Act and listed on the FSA bank-licence list. It is the core operating bank of [[regional-banks/nishi-nippon-fhd|西日本フィナンシャルホールディングス]] (NNFH) and, within Fukuoka Prefecture, is treated as a major regional-bank operating-company anchor alongside [[regional-banks/fukuoka-bank|福岡銀行]] ([[regional-banks/fukuoka-fg|ふくおかFG]]). Its business consists of deposit-taking in the Fukuoka metropolitan area and northern Kyushu and lending to SMEs, corporates, and individuals.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, ncbank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; ncbank.co.jp]
 
 | Item | Notes |
 |---|---|

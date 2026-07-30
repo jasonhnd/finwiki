@@ -3,8 +3,8 @@ title: "大光銀行"
 aliases: ["Taiko Bank", "The Taiko Bank", "株式会社大光銀行"]
 domain: regional-banks
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, banking, second-regional-bank, niigata, kanto, operating-company]
@@ -26,6 +26,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it wit
 株式会社大光銀行は、金融庁の銀行免許一覧に掲載される新潟県長岡市本店の第二地方銀行。FSA workbook では関東財務局管内の second-regional-bank list に含まれ、wiki では Niigata / Kanto-adjacent second-regional-bank operating-company page として扱う。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, taikobank.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; taikobank.jp]
 
 | Item | Notes |
 |---|---|

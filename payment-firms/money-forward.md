@@ -3,8 +3,8 @@ title: 株式会社マネーフォワード (Money Forward)
 aliases: ["Money Forward", "マネーフォワード", "MF", "3994"]
 domain: payment-firms
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, fintech, saas]
@@ -42,6 +42,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 - マネックス・AS Capital 等から初期出資受入
 
 ### 主要株主・資本提携 (時点変動あり)
+
+The following table is scoped to public primary sources (Wikipedia: 株式会社マネーフォワード (2026-05-19 抽出), マネーフォワード公式 IR / 中期経営計画 (公開資料)). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Wikipedia: 株式会社マネーフォワード (2026-05-19 抽出); マネーフォワード公式 IR / 中期経営計画 (公開資料)]
 
 | 株主 | 概要 |
 |---|---|

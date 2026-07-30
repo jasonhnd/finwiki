@@ -3,8 +3,8 @@ title: "池田泉州銀行"
 aliases: ["Senshu Ikeda Bank", "Ikeda Senshu Bank", "株式会社池田泉州銀行"]
 domain: regional-banks
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, banking, regional-bank, kansai, osaka, operating-company]
@@ -26,6 +26,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 株式会社池田泉州銀行は、金融庁の銀行免許一覧に掲載される大阪府本店の地方銀行。[[regional-banks/ikeda-senshu-hd]] の core operating bank であり、旧池田銀行・旧泉州銀行統合後の bank-license entity として扱う。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, sihd-bk.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sihd-bk.jp]
 
 | Item | Notes |
 |---|---|

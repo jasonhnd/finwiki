@@ -1,11 +1,11 @@
 ---
 source: regional-banks/shimizu-bank
-source_hash: 81fe3cf2d32dc4dd
+source_hash: 1343024523db4954
 lang: en
 status: machine
 fidelity: ok
 title: "Shimizu Bank"
-translated_at: 2026-06-15T04:09:41.182Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Shimizu Bank
@@ -19,6 +19,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 The Shimizu Bank, Ltd. (株式会社清水銀行) is a regional bank (first regional bank) headquartered in Shimizu-ku, Shizuoka City, Shizuoka Prefecture, holding a bank license under the Banking Act and listed in the FSA's bank license list. Its predecessor was Sunshu Bank, established in 1928 年, which was renamed to its current trade name in 1948 年 as an independent operating company (not under [[regional-banks/shizuoka-fg|静岡FG]]). Its business is the standard regional-bank model of deposit-taking and lending to SMEs / individuals in central-eastern Shizuoka Prefecture, and since 2017 年 it has operated joint branches for financial-product intermediary with SBI Securities.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, shimizubank.co.jp, ja.wikipedia.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; shimizubank.co.jp; ja.wikipedia.org]
 
 | Item | Notes |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: regional-banks/ehime-bank
-source_hash: 2d30fdf07ad30158
+source_hash: 55b0a4373556e7fd
 lang: en
 status: machine
 fidelity: ok
 title: "Ehime Bank"
-translated_at: 2026-06-15T04:09:41.180Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Ehime Bank
@@ -20,6 +20,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 The Ehime Bank, Ltd. (株式会社愛媛銀行, ひめぎん) is a second regional bank headquartered in Matsuyama, Ehime Prefecture, holding a bank license under the Banking Act and listed in the FSA's bank license list. It is the second-regional-bank operating-company anchor for Ehime Prefecture, and a peer of the first regional bank [[regional-banks/iyo-bank|伊予銀行]] as a separate legal entity. Its business consists of the standard regional-bank model of deposit-taking within the prefecture and Shikoku and lending to SMEs and individuals.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, himegin.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; himegin.co.jp]
 
 | Item | Notes |
 |---|---|

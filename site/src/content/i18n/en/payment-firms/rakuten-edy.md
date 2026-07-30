@@ -1,11 +1,11 @@
 ---
 source: payment-firms/rakuten-edy
-source_hash: f455a2113405c058
+source_hash: 5ca90858b7c7e499
 lang: en
 status: machine
 fidelity: ok
 title: "Rakuten Edy"
-translated_at: 2026-06-15T03:48:21.928Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Rakuten Edy
@@ -19,6 +19,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]] (its domain ro
 Rakuten Edy Co., Ltd. is the Rakuten group's issuer of a **prepaid payment instrument (prepaid-instrument under the Payment Services Act)**. The electronic money "Rakuten Edy," usable at multiple merchants, falls under a **third-party-type prepaid payment instrument** and requires prior registration with the authorities. Importantly, this is not a funds-transfer business (remittance) but a stored-value rail that is in principle non-refundable. Issuers are obligated to deposit an issuance security of at least half of the unused balance (holder protection). It carries the prepaid layer adjacent to [[payment-firms/rakuten-fg|Rakuten]]'s points, Rakuten Cash, Rakuten Pay, and cards.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (edy.rakuten.co.jp, s-kessai.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:edy.rakuten.co.jp; s-kessai.jp; fsa.go.jp]
 
 | Item | Notes |
 |---|---|

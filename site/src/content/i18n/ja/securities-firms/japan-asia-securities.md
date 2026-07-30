@@ -1,11 +1,11 @@
 ---
 source: securities-firms/japan-asia-securities
-source_hash: 46f829f0881c5916
+source_hash: 0435b9ac8704a372
 lang: ja
 status: machine
 fidelity: ok
 title: "日本アジア証券 (Japan Asia Securities)"
-translated_at: 2026-06-02T14:25:12.389Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本アジア証券 (Japan Asia Securities)
@@ -40,6 +40,8 @@ translated_at: 2026-06-02T14:25:12.389Z
 
 ## 3. 業務セグメント（中小独立証券一般形態）
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, jsda.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; jsda.or.jp]
+
 | セグメント | 内容 | 中小独立証券における位置付け |
 |---|---|---|
 | 国内株式仲介 | 日本株（TSE） | 主力収益 |
@@ -51,6 +53,8 @@ translated_at: 2026-06-02T14:25:12.389Z
 ## 4. 競合・業界ポジション（中小独立証券セグメント）
 
 中小独立証券セグメント（資本金 10〜30 億円・従業員数 100 名前後）には日本アジア証券のほか多数の業者が登録されている。代表的セグメント構造：
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, jsda.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; jsda.or.jp]
 
 | カテゴリ | 代表例 | 特徴 |
 |---|---|---|
@@ -83,6 +87,8 @@ translated_at: 2026-06-02T14:25:12.389Z
 - **JSDA 自主規制**：業界自主規制ルール群
 
 ## 8. 主要 KPI（概観・推定）
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, jsda.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; jsda.or.jp]
 
 | 項目 | 規模感（中小独立証券一般） |
 |---|---|

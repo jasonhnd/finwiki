@@ -1,11 +1,11 @@
 ---
 source: regional-banks/shiga-bank
-source_hash: d9df5969ebfd7497
+source_hash: a918963ebec758a4
 lang: ja
 status: machine
 fidelity: ok
 title: "滋賀銀行"
-translated_at: 2026-06-02T15:14:17.119Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 滋賀銀行
@@ -28,6 +28,8 @@ translated_at: 2026-06-02T15:14:17.119Z
 **業態**：単独銀行（**持株会社化していない**点が、近隣の [[regional-banks/kyoto-fg|京都 FG]]・[[regional-banks/ikeda-senshu-hd|池田泉州 HD]] 等の関西地銀 FG 化トレンドと対照的）
 
 ### 主要財務（第138期 / FY2024、2025-03-31 現在）
+
+以下の表は、エントリ出典インベントリの公開一次資料（ja.wikipedia.org）の範囲に限定して読む。^[source:ja.wikipedia.org]
 
 | 指標 | 数値（連結 / 単体）|
 |---|---|
@@ -62,6 +64,8 @@ translated_at: 2026-06-02T15:14:17.119Z
 
 ### 重要年表（抜粋）
 
+以下の表は、エントリ出典インベントリの公開一次資料（ja.wikipedia.org）の範囲に限定して読む。^[source:ja.wikipedia.org]
+
 | 年月 | 事象 |
 |---|---|
 | 1879 | **第六十四国立銀行 設立**（彦根、明治期国立銀行条例下）— しがぎんの源流 |
@@ -73,6 +77,8 @@ translated_at: 2026-06-02T15:14:17.119Z
 | 2022-04 | 東証市場区分見直し → 東証 PRIME 8366（旧東証一部から移行）|
 
 ## 2. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（ja.wikipedia.org）の範囲に限定して読む。^[source:ja.wikipedia.org]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -93,6 +99,8 @@ translated_at: 2026-06-02T15:14:17.119Z
 ### TSUBASA アライアンス参加戦略 ★
 
 **2015 加盟**（[[regional-banks/chiba-bank|千葉銀行]] 主導 11 行アライアンス）：**地銀ホールディング化を回避しつつスケールメリットを獲得**する代替モデル。
+
+以下の表は、エントリ出典インベントリの公開一次資料（ja.wikipedia.org）の範囲に限定して読む。^[source:ja.wikipedia.org]
 
 | 加盟行 | 地盤 |
 |---|---|

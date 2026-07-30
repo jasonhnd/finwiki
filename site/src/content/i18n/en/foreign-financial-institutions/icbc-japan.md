@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/icbc-japan
-source_hash: 5a218a059e40c5a7
+source_hash: 9f2056327b90f860
 lang: en
 status: machine
 fidelity: ok
 title: "Industrial and Commercial Bank of China Tokyo Branch"
-translated_at: 2026-05-31T15:29:03.967Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Industrial and Commercial Bank of China Tokyo Branch
@@ -20,6 +20,8 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 Industrial and Commercial Bank of China Tokyo Branch is a bank branch in Japan of mainland China / Industrial and Commercial Bank of China, which is listed on the Financial Services Agency's list of foreign bank branches. Centered around the Tokyo branch established by 1997 年, we handle domestic payments in Japan, overseas remittances, foreign exchange, trade payments, and service corridor for corporations and individuals.
 
 ## 1. License / branch boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, japan.icbc.com.cn). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; japan.icbc.com.cn]
 
 |Item|Notes|
 |---|---|

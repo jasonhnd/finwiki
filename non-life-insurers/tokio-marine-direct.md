@@ -3,8 +3,8 @@ title: "東京海上ダイレクト損害保険"
 aliases: ["東京海上ダイレクト", "旧イーデザイン損保", "Tokio Marine Direct", "Tokio Marine Direct Insurance", "東京海上ダイレクト損害保険株式会社"]
 domain: non-life-insurers
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, insurance, non-life-insurance, direct-insurance, tokio-marine, operating-company]
@@ -27,6 +27,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 東京海上ダイレクト損害保険株式会社は、[[non-life-insurers/tokio-marine]] group の direct non-life insurer。旧イーデザイン損保の lineage を持ち、金融庁の損害保険会社免許一覧では current legal name として掲載される。[[non-life-insurers/tokio-marine-nichido-fire]] とは別の direct-channel operating company。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, sonpohogo.or.jp, e-design.net). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sonpohogo.or.jp; e-design.net]
 
 | Item | Notes |
 |---|---|

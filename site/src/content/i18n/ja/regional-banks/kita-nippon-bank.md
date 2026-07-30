@@ -1,11 +1,11 @@
 ---
 source: regional-banks/kita-nippon-bank
-source_hash: 6e0b3469fbd45244
+source_hash: 5d4bb90b61a86e1d
 lang: ja
 status: machine
 fidelity: ok
 title: "北日本銀行"
-translated_at: 2026-06-15T04:09:41.146Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 北日本銀行
@@ -19,6 +19,8 @@ translated_at: 2026-06-15T04:09:41.146Z
 株式会社北日本銀行 (The Kita-Nippon Bank, きたぎん) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される岩手県盛岡市本店の第二地方銀行。岩手県内の地方銀行サーフェスでは第一地銀の [[regional-banks/iwate-bank|岩手銀行]]、[[regional-banks/tohoku-bank|東北銀行]] と並ぶ免許銀行（事業会社）として扱う。事業の中身は県内の預金受入と中小企業・個人向け貸出という第二地銀の標準モデル。
 
 ## 1. 免許／グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, kitagin.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; kitagin.co.jp]
 
 | 項目 | 備考 |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: securities-firms/gmo-click-securities
-source_hash: 37f1112415648c88
+source_hash: e19b6ee9a823e286
 lang: en
 status: machine
 fidelity: ok
 title: "GMO Click Securities (GMOクリック証券)"
-translated_at: 2026-06-15T04:09:41.176Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # GMO Click Securities (GMOクリック証券)
@@ -19,6 +19,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]] (its dom
 GMO Click Securities Co., Ltd. (GMOクリック証券株式会社) is the online brokerage / OTC-FX / CFD core company of the [[payment-firms/gmo-financial-hd|GMOフィナンシャルHD]] group. As a **Type I Financial Instruments Business Operator** under the Financial Instruments and Exchange Act, it is listed in the FSA's list of Financial Instruments Business Operators as "GMOクリック証券株式会社" (Director-General of the Kanto Local Finance Bureau (Kinsho) 第77号). It handles FX / CFD as its mainstay and also stocks, investment trusts, and NISA.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, click-sec.com, gmofh.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; click-sec.com; gmofh.com]
 
 | Item | Notes |
 |---|---|

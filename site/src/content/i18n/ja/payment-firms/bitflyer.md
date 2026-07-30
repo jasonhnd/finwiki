@@ -1,12 +1,12 @@
 ---
 source: payment-firms/bitflyer
-source_hash: 28db4d5db050ced1
+source_hash: 82c8c8ca262a75e2
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "bitFlyer (株式会社ビットフライヤー / bitFlyer Holdings)"
-translated_at: 2026-07-28T20:15:36Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # bitFlyer (株式会社ビットフライヤー / bitFlyer Holdings)
 
@@ -50,6 +50,8 @@ bitFlyer Holdings, Inc.（持株、未上場）
 
 ## 2. 沿革・重要年表
 
+以下の表は、エントリ出典インベントリの公開一次資料（bitflyer.com, fsa.go.jp, jvcea.or.jp）の範囲に限定して読む。^[source:bitflyer.com; fsa.go.jp; jvcea.or.jp]
+
 | 年月 | 事象 |
 |---|---|
 | **2014-01-09** | **株式会社ビットフライヤー 設立**（加納裕三創業）|
@@ -72,6 +74,8 @@ bitFlyer Holdings, Inc.（持株、未上場）
 
 ## 3. 事業セグメント・マップ
 
+以下の表は、エントリ出典インベントリの公開一次資料（bitflyer.com, fsa.go.jp, jvcea.or.jp）の範囲に限定して読む。^[source:bitflyer.com; fsa.go.jp; jvcea.or.jp]
+
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
 | 国内取引所 | bitFlyer, Inc. | BTC スポット中心、Lightning 板取引・先物（CFD）|
@@ -89,6 +93,8 @@ bitFlyer Holdings, Inc.（持株、未上場）
 - **IPO 準備**（2024〜）：東証グロース上場想定報道があり、暗号資産業界初の主要 IPO 候補の一つ。
 
 ### 競合関係
+
+以下の表は、エントリ出典インベントリの公開一次資料（bitflyer.com, fsa.go.jp, jvcea.or.jp）の範囲に限定して読む。^[source:bitflyer.com; fsa.go.jp; jvcea.or.jp]
 
 | 競合 | 関係性 |
 |---|---|

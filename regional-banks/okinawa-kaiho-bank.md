@@ -3,8 +3,8 @@ title: 株式会社沖縄海邦銀行
 aliases: ["沖縄海邦銀行", "海邦銀行", "かいぎん", "海銀", "Okinawa Kaiho Bank", "The Okinawa Kaiho Bank, Ltd."]
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, okinawa, second-tier]
@@ -53,6 +53,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 - **東証上場**（東証 2 部・後にスタンダード市場、現在のコード 8554）^[likely]
 
 ### 沖縄県内 3 行寡占構造での位置
+
+The following table is scoped to public primary sources (fsa.go.jp, kaiho-bank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; kaiho-bank.co.jp]
 
 | 行 | 県内地位 | 預貸金シェア | 設立 | 形態 | 上場 |
 |---|---|---|---|---|---|

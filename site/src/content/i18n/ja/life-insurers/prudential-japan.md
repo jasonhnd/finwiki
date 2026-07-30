@@ -1,11 +1,11 @@
 ---
 source: life-insurers/prudential-japan
-source_hash: 5646bf99578c6951
+source_hash: 2a06101c485b8b40
 lang: ja
 status: machine
 fidelity: ok
 title: "プルデンシャル・ジブラルタ・ファイナンシャル"
-translated_at: 2026-06-02T15:14:17.124Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # プルデンシャル・ジブラルタ・ファイナンシャル
@@ -27,6 +27,8 @@ translated_at: 2026-06-02T15:14:17.124Z
 > 注意: 米 Prudential Financial と **英 Prudential plc は完全別法人**。19 世紀の商標トラブルを経て、各々が地域別商標権を所有。英 Prudential plc は現在アジア・アフリカ中心、英国生保事業は 2019 M&G plc として分離上場。^[extracted]
 
 ### 3 生保の連結ポジション ^[extracted]
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | 法人 | 設立/買収 | 主チャネル | ブランド役割 |
 |---|---|---|---|
@@ -69,6 +71,8 @@ Prudential Financial, Inc.（米、NYSE: PRU）
 
 ## 2. 事業セグメント・マップ
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
 | 個人保険・高額層 | プルデンシャル生命 | 経営者保険・終身保険・LP チャネルの代表 |
@@ -87,6 +91,8 @@ Prudential Financial, Inc.（米、NYSE: PRU）
 
 ### 3 ブランド使い分け戦略
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | ブランド | チャネル | ターゲット |
 |---|---|---|
 | **プルデンシャル生命** | ライフプランナー（直販高度営業）| 経営者・高額層・専門職 |
@@ -97,6 +103,8 @@ Prudential Financial, Inc.（米、NYSE: PRU）
 - 一般顧客視点では 3 社が **同じ親会社（米プルデンシャル）であることが見えにくい** 設計
 
 ### 主要競合 ^[extracted]
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | 競合カテゴリ | 主要相手 |
 |---|---|

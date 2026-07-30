@@ -1,11 +1,11 @@
 ---
 source: life-insurers/fukoku-life
-source_hash: 3187c8b3c526c768
+source_hash: 8716f7a6fb8b8312
 lang: en
 status: machine
 fidelity: ok
 title: "富国生命保険"
-translated_at: 2026-05-31T15:29:03.919Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 富国生命保険
@@ -20,6 +20,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 富国生命保険相互会社は、金融庁 life-insurer list と生命保険協会会員一覧に載る mutual life-insurance operating company。大手 4 社ほどの規模 headline はないが、相互会社形態の independent life insurer として、[[life-insurers/asahi-life]]、[[life-insurers/nippon-life]]、[[life-insurers/meiji-yasuda]]、[[life-insurers/sumitomo-life]] と同じ governance category で扱う。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, fukoku-life.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; fukoku-life.co.jp]
 
 | Item | Notes |
 |---|---|

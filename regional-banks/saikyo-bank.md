@@ -3,8 +3,8 @@ title: "西京銀行"
 aliases: ["Saikyo Bank", "The Saikyo Bank", "株式会社西京銀行"]
 domain: regional-banks
 created: 2026-05-21
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-12-05
 confidence: likely
 tags: [JapanFG, banking, second-regional-bank, chugoku, yamaguchi, operating-company]
@@ -25,6 +25,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 株式会社西京銀行 (The Saikyo Bank) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される山口県周南市本店の第二地方銀行。山口県の standalone second-regional-bank operating-company anchor であり、[[regional-banks/yamaguchi-fg|山口フィナンシャルグループ]] (YMFG) 傘下の山口銀行 / [[regional-banks/momiji-bank|もみじ銀行]] / [[regional-banks/kitakyushu-bank|北九州銀行]] とは別法人の peer として扱う。事業の中身は県内の預金受入と中小企業・個人向け貸出という第二地銀の標準モデル。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, saikyobank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; saikyobank.co.jp]
 
 | Item | Notes |
 |---|---|

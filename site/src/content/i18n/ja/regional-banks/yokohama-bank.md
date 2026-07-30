@@ -1,11 +1,11 @@
 ---
 source: regional-banks/yokohama-bank
-source_hash: 158819325e4a9753
+source_hash: f3bb03e4b7d19870
 lang: ja
 status: machine
 fidelity: ok
 title: "横浜銀行"
-translated_at: 2026-06-02T16:33:58.459Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 横浜銀行
 
@@ -19,6 +19,8 @@ translated_at: 2026-06-02T16:33:58.459Z
 株式会社横浜銀行は、金融庁の銀行免許一覧に掲載される神奈川県本店の地方銀行であり、[[regional-banks/concordia-fg]]（現 横浜フィナンシャルグループ）の中核事業銀行である。神奈川県の個人、SME、公共セクター向け金融では最大級の銀行免許アンカーとして扱う。
 
 ## 1. 法人・ライセンス境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, boy.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; boy.co.jp]
 
 | 項目 | 説明 |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: life-insurers/medicare-life
-source_hash: 1328ddf50cc2b04b
+source_hash: 5cfb525306a635ba
 lang: ja
 status: machine
 fidelity: ok
 title: "メディケア生命"
-translated_at: 2026-06-02T14:54:39.039Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # メディケア生命
@@ -20,6 +20,8 @@ translated_at: 2026-06-02T14:54:39.039Z
 メディケア生命保険株式会社は、金融庁の生命保険会社一覧と生命保険協会会員一覧に掲載される [[life-insurers/sumitomo-life]] グループの生命保険事業会社。医療・保障性商品を中心に、複数チャネルで販売する専門保険会社として、住友生命本体から切り分ける。
 
 ## 1. 免許・グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, medicarelife.com）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; medicarelife.com]
 
 | 項目 | メモ |
 |---|---|

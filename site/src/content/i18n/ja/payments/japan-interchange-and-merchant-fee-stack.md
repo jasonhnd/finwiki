@@ -1,12 +1,12 @@
 ---
 source: payments/japan-interchange-and-merchant-fee-stack
-source_hash: 96c290f4de43a8da
+source_hash: 68ae119452fcac41
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本のインターチェンジと加盟店手数料スタック"
-translated_at: 2026-06-26T08:32:15.203Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 日本のインターチェンジと加盟店手数料スタック
 
@@ -17,6 +17,8 @@ translated_at: 2026-06-26T08:32:15.203Z
 このページは [[payments/INDEX|payments domain]] に属し、[[payments/cashless-jp-landscape|Japan cashless payment landscape]]、[[payments/japan-card-issuer-acquirer-processor-split|発行会社 / アクワイアラ / processor split]]、[[payments/japan-card-security-authentication-controls|card security and authentication controls]]、[[payments/credit-purchase-card-operators-japan-index|credit / card registry]]、[[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]]、[[payments/merchant-bank-pay-account-direct-acquiring|加盟店 bank-account direct アクワイアリング]]、[[financial-licenses/payment-license-stack|Japan payment license stack]] へリンクする。
 
 ## 手数料構成マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（meti.go.jp, jftc.go.jp, paymentsjapan.or.jp）の範囲に限定して読む。^[source:meti.go.jp; jftc.go.jp; paymentsjapan.or.jp; j-credit.or.jp]
 
 | 構成要素 | 公開上の役割 | リンク先経路 |
 |---|---|---|
@@ -32,6 +34,8 @@ translated_at: 2026-06-26T08:32:15.203Z
 
 ## 公開開示タイムライン
 
+以下の表は、エントリ出典インベントリの公開一次資料（meti.go.jp, jftc.go.jp, paymentsjapan.or.jp）の範囲に限定して読む。^[source:meti.go.jp; jftc.go.jp; paymentsjapan.or.jp; j-credit.or.jp]
+
 | 日付 / 出典 | 公開事実フィールド |
 |---|---|
 | 2022 JFTC レポート | JFTC はクレジットカード加盟店手数料、インターチェンジ関連構成要素、加盟店規模別の手数料差、交渉パターンを検討した。 |
@@ -40,6 +44,8 @@ translated_at: 2026-06-26T08:32:15.203Z
 | 2023 Payments Japan ロードマップ | ロードマップは、Mastercard、UnionPay、Visa が日本のクレジットカード標準インターチェンジ率を公表したと記載した。 |
 
 ## 公開数値フィールド
+
+以下の表は、エントリ出典インベントリの公開一次資料（meti.go.jp, jftc.go.jp, paymentsjapan.or.jp）の範囲に限定して読む。^[source:meti.go.jp; jftc.go.jp; paymentsjapan.or.jp; j-credit.or.jp]
 
 | 出典 | フィールド | ソースパックに記録された値 |
 |---|---|---|
@@ -52,6 +58,8 @@ translated_at: 2026-06-26T08:32:15.203Z
 | Payments Japan 2022 | Category I および Category II のイシュア手数料 | 両カテゴリとも 1.56%。 |
 
 ## 加盟店契約フィールド
+
+以下の表は、エントリ出典インベントリの公開一次資料（meti.go.jp, jftc.go.jp, paymentsjapan.or.jp）の範囲に限定して読む。^[source:meti.go.jp; jftc.go.jp; paymentsjapan.or.jp; j-credit.or.jp]
 
 | フィールド | 公開記録の出典 |
 |---|---|

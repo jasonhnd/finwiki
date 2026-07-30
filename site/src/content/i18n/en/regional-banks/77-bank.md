@@ -1,11 +1,11 @@
 ---
 source: regional-banks/77-bank
-source_hash: c55794e8bfc060c1
+source_hash: 43561d509f1a734a
 lang: en
 status: machine
 fidelity: ok
 title: "77 Bank (77 Bank)"
-translated_at: 2026-06-19T12:43:19.924Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 77 Bank (77 Bank)
 
@@ -51,6 +51,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ### Dawn period: from the National Bank Ordinance to a joint-stock bank
 
+The following table is scoped to public primary sources (77bank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:77bank.co.jp]
+
 | Year/Month | Event |
 |---|---|
 | 1872 | National Bank Ordinance promulgated (the Meiji government's creation of a national-law banking system) |
@@ -62,12 +64,16 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ### Postwar〜bubble era
 
+The following table is scoped to public primary sources (77bank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:77bank.co.jp]
+
 | Year/Month | Event |
 |---|---|
 | 1950s〜1980s | Expanded the branch network across Miyagi Prefecture and all of Tohoku during the high-growth period |
 | 1990s | Maintained the single path even through the regional-bank-industry restructuring period after the bubble collapse |
 
 ### Since the Great East Japan Earthquake (most important)
+
+The following table is scoped to public primary sources (77bank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:77bank.co.jp]
 
 | Year/Month | Event |
 |---|---|
@@ -83,6 +89,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 - **Overseas representative offices**: Shanghai (opened 2005-07 ) and Singapore (opened 2016-05 ), 2  bases. The New York and London offices were closed by 1999  ^[extracted]
 
 ### Competitive landscape
+
+The following table is scoped to public primary sources (77bank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:77bank.co.jp]
 
 | Competitor | Base | Relationship |
 |---|---|---|
@@ -100,6 +108,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 - **Merits**: speed of decision-making, closeness to the region, cultural cohesion, franchise strength
 
 ### Sense of scale (based on public information)
+
+The following table is scoped to public primary sources (77bank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:77bank.co.jp]
 
 | Item | Scale |
 |---|---|

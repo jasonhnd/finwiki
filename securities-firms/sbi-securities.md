@@ -3,8 +3,8 @@ title: "SBI証券 (SBI Securities)"
 aliases: ["SBI Securities", "SBI証券", "株式会社SBI証券"]
 domain: securities-firms
 created: 2026-05-20
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-12-05
 confidence: likely
 tags: [JapanFG, securities, online-broker, fiea-operator, sbi]
@@ -49,6 +49,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]] (its dom
 株式会社SBI証券は、[[megabanks/sbi-hd|SBI HD]] のオンライン証券中核会社で、金融商品取引法上の **第一種金融商品取引業者** として金融庁の金融商品取引業者一覧に「株式会社SBI証券」（関東財務局長(金商)第44号）で掲載される。国内最大級の online comprehensive broker として、日本の retail brokerage / NISA / iDeCo / オンライン取引導線を見る上で、SBI グループ本体とは分けて扱うべき operating company。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (sbigroup.co.jp, fsa.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:sbigroup.co.jp; fsa.go.jp; jsda.or.jp; sbisec.co.jp]
 
 | Item | Notes |
 |---|---|

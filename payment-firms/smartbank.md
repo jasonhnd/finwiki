@@ -3,8 +3,8 @@ title: "スマートバンク (SmartBank)"
 aliases: ["SmartBank", "スマートバンク", "株式会社スマートバンク", "B/43", "ワンバンク"]
 domain: payment-firms
 created: 2026-05-21
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, payments, wallet, prepaid, household-finance, funds-transfer]
@@ -26,6 +26,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]] (its domain ro
 株式会社スマートバンクは、家計管理プリカ「B/43（ビーヨンサン、現「ワンバンク」へ改称）」を運営する household-finance / prepaid wallet fintech。公開情報では **二つの license** を保有する稀な構成 ——**資金移動業者**（関東財務局長 第00084号）と、2024 年取得の **第三者型前払式支払手段発行者**（関東財務局長 第00782号）。チャージ式 Visa プリペイドカードと家計簿アプリをセットにし、家計管理 UX に payment account を組み合わせる事例。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (smartbank.co.jp, onebank.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:smartbank.co.jp; onebank.jp; fsa.go.jp]
 
 | Item | Notes |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/zurich-japan
-source_hash: 7cc68ce076404045
+source_hash: 8ff9ee93ec4e6702
 lang: ja
 status: machine
 fidelity: ok
 title: "チューリッヒ保険会社 (Zurich Japan)"
-translated_at: 2026-06-19T06:09:18.195Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # チューリッヒ保険会社 (Zurich Japan)
@@ -43,6 +43,8 @@ Zurich Insurance Group AG（スイス、SIX: ZURN）
 
 ### 重要历史（年表）
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | 年月 | 事象 |
 |---|---|
 | 1872 | スイスで **Zurich Insurance** 創業（海運保険から出発）|
@@ -56,6 +58,8 @@ Zurich Insurance Group AG（スイス、SIX: ZURN）
 | 2020 年代 | グループ Zurich Insurance Group の中期戦略（顧客中心主義・デジタル変革）下で日本も UX 改善・契約管理デジタル化を推進 |
 
 ## 2. 業務ライン
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -78,6 +82,8 @@ Zurich Insurance Group AG（スイス、SIX: ZURN）
 - **グローバル海外旅行保険ネットワーク**：日本人の海外渡航時の現地救援・医療搬送ネットワークを Zurich Assistance（グループ機能）で提供
 
 ### 競合関係
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | 競合タイプ | 主要競合 |
 |---|---|

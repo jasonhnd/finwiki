@@ -1,11 +1,11 @@
 ---
 source: regional-banks/hokkoku-fhd
-source_hash: c96b91813039ecb9
+source_hash: 441a02012df7b619
 lang: en
 status: machine
 fidelity: ok
 title: "Hokkoku FHD (北國 FHD)"
-translated_at: 2026-06-19T12:43:19.867Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Hokkoku FHD (北國 FHD)
@@ -55,6 +55,8 @@ Hokkoku FHD (holding company, listed 7381)
 - **2024**: New medium-term management plan (oriented toward becoming a regional DX platformer)
 
 ## 3. Business-segment map
+
+The following table is scoped to public primary sources (ccig.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:ccig.co.jp; fsa.go.jp]
 
 | Segment | Main entity | Characteristics |
 |---|---|---|

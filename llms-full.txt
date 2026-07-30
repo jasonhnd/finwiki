@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-07-30T21:03:58+09:00
+Generated: 2026-07-30T21:11:46+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1608
-Public pages listed: 1607
+Markdown files: 1609
+Public pages listed: 1608
 
 ## Reading Rules
 
@@ -30,7 +30,7 @@ Public pages listed: 1607
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/CHANGELOG.md
 - Domain: root
 - Type: control_doc
-- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-07-30 - Table provenance batch 09 corrections (#239), 日本語, English
+- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-07-30 - Table provenance batches 10-14 + opinions quarantine (#240-#244, #193), 日本語, English
 
 ### How to navigate FinWiki — reader profile guide
 - URL: https://finwiki.zksc.io/HOW-TO-NAVIGATE.md
@@ -17303,6 +17303,15 @@ Public pages listed: 1607
 - Domain: releases
 - Type: release_note
 - Headings: エントリ発見グラフのビルド最適化, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
+
+### 表出典残件の解消と意見隔離契約
+- URL: https://finwiki.zksc.io/releases/v2026.07.30-2.md
+- Raw Markdown: https://finwiki.zksc.io/releases/v2026.07.30-2.md
+- Source path: releases/v2026.07.30-2.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.07.30-2.md
+- Domain: releases
+- Type: release_note
+- Headings: 表出典残件の解消と意見隔離契約, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
 
 ### フィンテックの表出典162件を校正
 - URL: https://finwiki.zksc.io/releases/v2026.07.30.md

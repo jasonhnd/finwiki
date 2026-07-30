@@ -1,11 +1,11 @@
 ---
 source: policy-finance/hokkaido-credit-guarantee-corp
-source_hash: 58cc59e40d3e213b
+source_hash: 9e7a9d9a6d3f2e6f
 lang: en
 status: machine
 fidelity: ok
 title: "北海道信用保証協会 (Hokkaido Credit Guarantee Corporation)"
-translated_at: 2026-06-01T03:31:12.252Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 北海道信用保証協会 (Hokkaido Credit Guarantee Corporation)
 
@@ -18,6 +18,8 @@ This entry sits under [[policy-finance/INDEX|policy-finance index]] as one of th
 Hokkaido Credit Guarantee Corporation (北海道信用保証協会) is the Hokkaido-prefecture member of Japan's 51-corporation local credit guarantee system. Its guarantee book is structurally distinct from urban-prefecture corporations because Hokkaido's SME economy concentrates in agriculture-and-food (dairy, beef, potato, wheat, sugar beet, onion), fisheries-and-marine-processing (Pacific salmon, scallop, kelp, sea-urchin), tourism (inbound and Sapporo / Niseko ski / Hakodate / Otaru routes), and a comparatively thin manufacturing base. The dominant co-lending partners are [[regional-banks/hokkaido-bank|Hokkaido Bank (Hokuhoku FG)]] and [[regional-banks/hokuyo-bank|Hokuyo Bank]], plus a wide Hokkaido shinkin and credit-cooperative network and the agricultural cooperative ([[banking/ja-bank-system-japan|JA Bank]]) overlay.
 
 ## 1. 機関概要
+
+The following table is scoped to public primary sources (hokkaido-cgc.or.jp, zenshinhoren.or.jp, chusho.meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:hokkaido-cgc.or.jp; zenshinhoren.or.jp; chusho.meti.go.jp]
 
 | 項目 | 内容 |
 |---|---|
@@ -76,6 +78,8 @@ The 危機関連保証 framework was reactivated for energy-price shocks (2022�
 Within the [[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]] architecture, Hokkaido CGC plays a distinctive doctrinal role: it is the federation's reference template for primary-industry-heavy and tourism-cyclical prefectures. When [[policy-finance/national-federation-credit-guarantee-corporations|全国信用保証協会連合会]] coordinates emergency-response product design for tourism-collapse scenarios (e.g., the 2020 COVID border-closure shock), Hokkaido CGC's operational experience informs the template, similar in spirit to how [[policy-finance/hyogo-credit-guarantee-corp|Hyogo CGC]]'s 1995-earthquake doctrine informs the federation's disaster-response template.The federation-pooled credit-insurance layer at [[financial-regulators/jfc|JFC]] absorbs the residual loss after Hokkaido CGC's first-loss subrogation under the responsibility-sharing system. This is operationally important because Hokkaido's recovery-value problem (thin rural commercial real-estate secondary markets) means absolute recovery rates are structurally lower than urban-prefecture peers, putting more weight on the JFC reinsurance backstop. The [[banking/ja-bank-system-japan|JA Bank]] / [[cooperative-banks/norinchukin|Norinchukin]] agricultural-cooperative layer and the [[banking/jf-marine-bank-system-japan|JF Marine Bank]] / fisheries-cooperative layer operate as parallel public-credit infrastructure for the segments that fall outside Hokkaido CGC's direct SME guarantee scope.
 
 ## 8. Comparison with peer prefecture CGCs
+
+The following table is scoped to public primary sources (hokkaido-cgc.or.jp, zenshinhoren.or.jp, chusho.meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:hokkaido-cgc.or.jp; zenshinhoren.or.jp; chusho.meti.go.jp]
 
 | Dimension | Hokkaido CGC | [[policy-finance/tokyo-credit-guarantee-corp|Tokyo CGC]] | [[policy-finance/aichi-credit-guarantee-corp|Aichi CGC]] |
 |---|---|---|---|

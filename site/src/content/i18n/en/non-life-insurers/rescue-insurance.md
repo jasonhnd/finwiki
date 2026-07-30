@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/rescue-insurance
-source_hash: 6363507d38d4efec
+source_hash: f0eaed5619aed08b
 lang: en
 status: machine
 fidelity: ok
 title: "Rescue Insurance"
-translated_at: 2026-06-01T00:41:50.427Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Rescue Insurance
 
@@ -20,6 +20,8 @@ Rescue Insurance is a licensed non-life insurer connected to Japan Best Rescue S
 This page covers Rescue Insurance Co., Ltd. It should not be merged into JBR's service business or small-amount short-term insurance subsidiaries unless the insurance-license relationship is explicit.
 
 ## Business Role Map
+
+The following table is scoped to public primary sources (fsa.go.jp, rescue-sonpo.jp, jbr.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; rescue-sonpo.jp; jbr.co.jp]
 
 | Route | Reading |
 |---|---|

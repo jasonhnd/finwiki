@@ -3,8 +3,8 @@ title: "但馬銀行"
 aliases: ["Tajima Bank", "The Tajima Bank", "株式会社但馬銀行"]
 domain: regional-banks
 created: 2026-05-21
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, banking, regional-bank, kansai, hyogo, operating-company]
@@ -26,6 +26,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 株式会社但馬銀行 (The Tajima Bank) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される兵庫県豊岡市本店の地方銀行 (第一地銀)。系譜は 1897 年設立の美含銀行で、1956 年に現商号へ。兵庫県内に本店を置く唯一の第一地方銀行として、major Kansai bank groups とは別の standalone anchor を持つ。事業は兵庫県北部 (但馬地域) の預金受入・中小企業/個人向け貸出という地銀の標準モデル。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, tajimabank.co.jp, ja.wikipedia.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; tajimabank.co.jp; ja.wikipedia.org]
 
 | Item | Notes |
 |---|---|

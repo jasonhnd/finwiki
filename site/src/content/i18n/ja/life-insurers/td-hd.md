@@ -1,11 +1,11 @@
 ---
 source: life-insurers/td-hd
-source_hash: afb469696877f435
+source_hash: 7f6e9f6c347406f9
 lang: ja
 status: machine
 fidelity: ok
 title: "T&D ホールディングス (T&D Holdings)"
-translated_at: 2026-06-02T16:33:58.486Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # T&D ホールディングス (T&D Holdings)
 
@@ -27,6 +27,8 @@ translated_at: 2026-06-02T16:33:58.486Z
 **業態**：中堅生命保険持株会社、独立系生保では国内最大級
 
 ### 主要 KPI（直近公開ベース）^[extracted]
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | 項目 | 概要 |
 |---|---|
@@ -66,6 +68,8 @@ T&D HD（持株会社・上場 8795）
 | **2024** | **新中期経営計画** 公表（海外 M&A 拡大検討を含む）|
 
 ## 2. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/japan-earthquake-reinsurance
-source_hash: e0222680c8340c18
+source_hash: 204df81d41e68eda
 lang: ja
 status: machine
 fidelity: ok
 title: "日本地震再保険"
-translated_at: 2026-06-02T14:25:12.396Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本地震再保険
@@ -20,6 +20,8 @@ translated_at: 2026-06-02T14:25:12.396Z
 日本地震再保険株式会社は、金融庁の損害保険会社免許一覧に掲載される地震再保険会社である。日本の官民住宅地震保険制度を理解する上で中心的な事業会社アンカーであり、概念ページは [[insurance/natcat-reinsurance-japan]] に置く。
 
 ## 1. 免許・グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, sonpohogo.or.jp, nihonjishin.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; sonpohogo.or.jp; nihonjishin.co.jp]
 
 | 項目 | 注記 |
 |---|---|

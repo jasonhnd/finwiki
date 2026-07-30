@@ -12,8 +12,8 @@ aliases:
 domain: non-profit
 slug: japan-iryou-houjin
 created: 2026-06-05
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2027-06-05
 confidence: likely
 tags: [non-profit, japan, healthcare, iryou-houjin, governance, tax]
@@ -36,6 +36,8 @@ This entry sits under [[non-profit/INDEX|non-profit INDEX]] as the **healthcare-
 A **医療法人 (Medical Corporation)** is the corporate vehicle a doctor or group uses to run a **病院 / 診療所 / 介護老人保健施設**, authorised by the **都道府県知事** under the 医療法. It is **non-profit by statute — surplus may not be distributed as dividends** — but historically came in a **持分あり (equity-type)** flavour where members held a residual claim on net assets. Post-2007 reform, **new medical corporations are 持分なし (no-equity)**, and a top tier — the **社会医療法人** — performs public-mission care (emergency, remote, perinatal) in exchange for full **公益法人等** tax treatment.
 
 ## Two structural axes: 社団 vs 財団, and 持分あり vs 持分なし
+
+The following table is scoped to public primary sources (laws.e-gov.go.jp, mhlw.go.jp, nta.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:laws.e-gov.go.jp; mhlw.go.jp; nta.go.jp]
 
 | Axis | Variants | Notes |
 |---|---|---|

@@ -1,11 +1,11 @@
 ---
 source: regional-banks/01-bank
-source_hash: 6a3ca0f41b18c3f1
+source_hash: 64a992b0a1eea51f
 lang: en
 status: machine
 fidelity: ok
 title: "01 Bank (01Bank)"
-translated_at: 2026-06-19T13:13:22.648Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 01 Bank (01Bank)
 
@@ -14,6 +14,8 @@ translated_at: 2026-06-19T13:13:22.648Z
 This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it against [[regional-banks/ui-bank|UI銀行 (UI Bank)]] and [[banking/minna-bank-baas-model|みんなの銀行]] for peer / contrast context (the two preceding regional-bank digital banks), [[regional-banks/ikeda-senshu-hd|池田泉州ホールディングス]] for parent group context, and [[banking/INDEX|banking index]] for the broader system / regulatory boundary.
 
 ## 1. Legal entity / license boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, 01bank.co.jp, ja.wikipedia.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; 01bank.co.jp; ja.wikipedia.org; prtimes.jp]
 
 | Item | Reading |
 |---|---|
@@ -29,6 +31,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 | Core model | Business-data based SME finance / digital banking |
 
 ## 3. Key chronology
+
+The following table is scoped to public primary sources (fsa.go.jp, 01bank.co.jp, ja.wikipedia.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; 01bank.co.jp; ja.wikipedia.org; prtimes.jp]
 
 | Year/Month | Event |
 |---|---|
@@ -53,6 +57,8 @@ As a regional-bank-affiliated digital-bank opening, it is the **3 th case** foll
 - Comparison targets: [[regional-banks/ui-bank|UI銀行]], [[banking/minna-bank-baas-model|みんなの銀行]], [[banking/baas-japan-landscape|BaaS landscape]]
 
 ## 6. Peer comparison — lineage of regional-bank digital subsidiaries
+
+The following table is scoped to public primary sources (fsa.go.jp, 01bank.co.jp, ja.wikipedia.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; 01bank.co.jp; ja.wikipedia.org; prtimes.jp]
 
 | Bank | Parent FG | Opening | Target | Architecture |
 |---|---|---|---|---|

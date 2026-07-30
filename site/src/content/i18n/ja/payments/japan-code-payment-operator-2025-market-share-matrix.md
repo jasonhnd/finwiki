@@ -1,12 +1,12 @@
 ---
 source: payments/japan-code-payment-operator-2025-market-share-matrix
-source_hash: 4930eed374c6544b
+source_hash: e3d7c49dc0b1aef3
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Japan コード決済事業者 2025 市場シェア matrix"
-translated_at: 2026-06-26T08:32:07.538Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan コード決済事業者 2025 市場シェア matrix
@@ -24,6 +24,8 @@ translated_at: 2026-06-26T08:32:07.538Z
 3 つの主張がしばしばコード決済の分析を混乱させる。第一に、**「PayPay が勝った」** — 総取引シェアのレベルでは真だが、経済圏にアンカーされた競合（楽天、NTT docomo、KDDI、メルカリ、ファミマ）は、純粋なシェアデータが捉えないクロス製品のアタッチメントを通じて構造的な防御可能性を維持している。第二に、**「MAU = 経済シェア」** — MAU と登録ユーザー数は TPV や収益に直接変換されない；PayPay での高頻度・低単価の利用は、楽天ペイでのクレジットにアンカーされた高単価の利用とはエコノミクスが異なる。第三に、**「すべてのコード決済事業者は同じビジネスモデルを持つ」** — それらは EPI 対銀行免許の構造、預金のアタッチメント、ポイント統合のエコノミクス、加盟店手数料のアプローチで大きく異なる。このマトリクスは、最新の 2025 検証可能な開示とともに、これら 3 つすべてを直接読めるように浮かび上がらせる。
 
 ## Big nine-事業者 comparison matrix
+
+以下の表は、エントリ出典インベントリの公開一次資料（meti.go.jp, paymentsjapan.or.jp, about.paypay.ne.jp）の範囲に限定して読む。^[source:meti.go.jp; paymentsjapan.or.jp; about.paypay.ne.jp; prtimes.jp]
 
 | 項目 | PayPay | Rakuten Pay | d-Barai (NTT docomo) | au PAY (KDDI) | Merpay (Mercari) | FamiPay (FamiMa) | J-Coin Pay (Mizuho) | ゆうちょPay (JP Bank) | Seven Pay (discontinued) |
 |---|---|---|---|---|---|---|---|---|---|
@@ -97,6 +99,8 @@ J-Coin Pay の際立ったポジション：**銀行アンカーのコンソー�
 
 ## Verifiable 2025 市場規模データ以下の数字は METI のキャッシュレス決済のリリースとキャッシュレス推進協議会の刊行物から出典を取っている。**2 つの異なる METI のリリースを混同してはならない：** **2025-03-31 のリリースは 2024 データを報告**（42.8% 比率 / ¥141.0兆円 / コード ¥13.5兆円 / 9.6% シェア / 前年比 +23.9%）し、一方 **2026-03-31 のリリースは 2025 データを報告**（58.0% 国内比率 / 46.3% 国際比率 / ¥162.7兆円 / コード ¥16.6兆円 / 10.2% シェア）する。これらは最も擁護可能な集計値である；事業者ごとの TPV / MAU の数字は報告期間と開示のサーフェスによって異なるため、上記のメインマトリクスの事業者ごとの数字は、公式の事業者開示が存在する場合にのみ示され、事業者が数字を内訳しない場合は `n.d.`（データ未公開）と記される。
 
+以下の表は、エントリ出典インベントリの公開一次資料（meti.go.jp, paymentsjapan.or.jp, about.paypay.ne.jp）の範囲に限定して読む。^[source:meti.go.jp; paymentsjapan.or.jp; about.paypay.ne.jp; prtimes.jp]
+
 | Metric (2025) | 値 | 出典 |
 |---|---|---|
 | Overall cashless ratio (2025) | 58.0% (new domestic indicator); 46.3% (legacy international-comparison indicator) | METI 2026-03-31 release (2025 data) |
@@ -114,6 +118,8 @@ J-Coin Pay の際立ったポジション：**銀行アンカーのコンソー�
 
 このマトリクスの事業者は、各社が保管された残高で何ができるか、そしてクロス事業者の移転や出金とどう相互作用するかに影響する形で、規制クラスをまたいで分かれる：
 
+以下の表は、エントリ出典インベントリの公開一次資料（meti.go.jp, paymentsjapan.or.jp, about.paypay.ne.jp）の範囲に限定して読む。^[source:meti.go.jp; paymentsjapan.or.jp; about.paypay.ne.jp; prtimes.jp]
+
 | 事業者 | EPI (前払式支払手段) | 資金移動 (資金移動業) | Banking license | BNPL / 信用購入あっせん |
 |---|---|---|---|---|
 | PayPay | Yes (PayPay マネーライト) | Yes (PayPay マネー) | Via PayPay Bank affiliate | Via [[card-issuers/paypay-card\|PayPay Card]] |
@@ -130,6 +136,8 @@ J-Coin Pay の際立ったポジション：**銀行アンカーのコンソー�
 
 ## 決済-and-funding structural comparison
 
+以下の表は、エントリ出典インベントリの公開一次資料（meti.go.jp, paymentsjapan.or.jp, about.paypay.ne.jp）の範囲に限定して読む。^[source:meti.go.jp; paymentsjapan.or.jp; about.paypay.ne.jp; prtimes.jp]
+
 | 事業者 | Primary funding rail | 決済-to-加盟店 baseline | Acceleration option | Bank-account withdrawal |
 |---|---|---|---|---|
 | PayPay | Bank account + linked card (V/MC/JCB/AMEX where supported) + PayPay マネー balance | Configurable (small 加盟店 can get daily) | Available | Yes (from PayPay マネー only, not マネーライト) |
@@ -145,6 +153,8 @@ J-Coin Pay の際立ったポジション：**銀行アンカーのコンソー�
 ## 加盟店-acceptance overlap and PSP routing
 
 多くの加盟店は、各ウォレットとの直接契約ではなく、PSP / アグリゲーターのルーティングを通じて複数のコード決済ウォレットを同時に受け入れる。主要なマルチウォレットのアグリゲーターは [[payment-firms/netstars|Netstars]]（StarPay 経由）であり、加盟店側の PSP（[[payment-firms/gmo-payment-gateway|GMO-PG]]、[[payment-firms/sb-payment-service|SBPS]]、[[payment-firms/dg-financial-technology|DGFT]]）は典型的にそれらの加盟店ベースのマルチウォレット受け入れをルーティングする。[[payments/japan-merchant-psp-competitive-scorecard|Japan 加盟店 PSP competitive scorecard]] で扱う。
+
+以下の表は、エントリ出典インベントリの公開一次資料（meti.go.jp, paymentsjapan.or.jp, about.paypay.ne.jp）の範囲に限定して読む。^[source:meti.go.jp; paymentsjapan.or.jp; about.paypay.ne.jp; prtimes.jp]
 
 | ウォレット | Direct-加盟店 model strength | Multi-ウォレット aggregator dependency |
 |---|---|---|

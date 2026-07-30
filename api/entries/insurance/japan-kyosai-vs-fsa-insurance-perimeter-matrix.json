@@ -31,8 +31,8 @@
     "domain": "insurance",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-11-25",
     "confidence": "likely",
     "tags": [
@@ -184,9 +184,9 @@
     ]
   },
   "metrics": {
-    "nonspace_chars": 32421,
-    "word_like_tokens": 5000,
+    "nonspace_chars": 35051,
+    "word_like_tokens": 5520,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-08"
+    "last_modified": "2026-07-30"
   }
 }

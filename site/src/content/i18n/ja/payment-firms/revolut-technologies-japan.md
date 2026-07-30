@@ -1,12 +1,12 @@
 ---
 source: payment-firms/revolut-technologies-japan
-source_hash: fab0cf777b7da011
+source_hash: b20fd320db778459
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "REVOLUT TECHNOLOGIES JAPAN"
-translated_at: 2026-06-26T08:32:07.562Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # REVOLUT TECHNOLOGIES JAPAN
@@ -21,6 +21,8 @@ translated_at: 2026-06-26T08:32:07.562Z
 REVOLUT TECHNOLOGIES JAPAN株式会社は Revolut の日本 operating entity。公式日本サイトは第二種資金移動業者および電子決済等代行業者としての登録を明示し、カード、外貨両替、国内外送金、家計管理などを展開する。
 
 ## 1. 法人・ライセンス境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（revolut.com, fsa.go.jp）の範囲に限定して読む。^[source:revolut.com; fsa.go.jp]
 
 | 項目 | 読み方 |
 |---|---|

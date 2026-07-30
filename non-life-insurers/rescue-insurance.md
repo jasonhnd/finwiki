@@ -3,8 +3,8 @@ title: "Rescue Insurance / レスキュー損害保険"
 aliases: ["レスキュー損害保険", "レスキュー損害保険株式会社", "Rescue Insurance"]
 domain: non-life-insurers
 created: 2026-05-23
-last_updated: 2026-05-23
-last_tended: 2026-05-23
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-23
 confidence: likely
 tags: [JapanFG, non-life-insurance, home-services, platform-insurance, public-source]
@@ -28,6 +28,8 @@ Rescue Insurance is a licensed non-life insurer connected to Japan Best Rescue S
 This page covers レスキュー損害保険株式会社. It should not be merged into JBR's service business or small-amount short-term insurance subsidiaries unless the insurance-license relationship is explicit.
 
 ## Business Role Map
+
+The following table is scoped to public primary sources (fsa.go.jp, rescue-sonpo.jp, jbr.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; rescue-sonpo.jp; jbr.co.jp]
 
 | Route | Reading |
 |---|---|

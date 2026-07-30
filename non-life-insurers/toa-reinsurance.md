@@ -3,8 +3,8 @@ title: "トーア再保険"
 aliases: ["トーア再保", "Toa Re", "Toa Reinsurance", "トーア再保険株式会社"]
 domain: non-life-insurers
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, insurance, non-life-insurance, reinsurance, operating-company]
@@ -27,6 +27,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 トーア再保険株式会社は、金融庁の損害保険会社免許一覧に掲載される Japanese reinsurance company。Primary insurer ではなく、保険会社からリスクを引き受ける reinsurance operating company として JapanFG に置く。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, sonpohogo.or.jp, toare.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sonpohogo.or.jp; toare.co.jp]
 
 | Item | Notes |
 |---|---|

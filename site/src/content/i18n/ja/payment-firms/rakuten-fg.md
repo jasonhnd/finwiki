@@ -1,11 +1,11 @@
 ---
 source: payment-firms/rakuten-fg
-source_hash: edab312904636c61
+source_hash: 99430b08ac58c534
 lang: ja
 status: machine
 fidelity: ok
 title: "楽天グループ金融事業"
-translated_at: 2026-07-28T20:15:36Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 楽天グループ金融事業
@@ -30,6 +30,8 @@ translated_at: 2026-07-28T20:15:36Z
 ^[楽天グループ 会社概要: https://global.rakuten.com/corp/about/; 沿革: https://global.rakuten.com/corp/about/history.html; 日本取引所グループ 銘柄情報 4755: https://www2.jpx.co.jp/tseHpFront/StockSearch.do?method=&topSearchStr=4755]
 
 ### グループ規模（直近公開ベース・連結）
+
+以下の表は、エントリ出典インベントリの公開一次資料（global.rakuten.com, www2.jpx.co.jp）の範囲に限定して読む。^[source:global.rakuten.com; www2.jpx.co.jp]
 
 | 項目 | 2024年12月期 通期実績 |
 |---|---|
@@ -78,6 +80,8 @@ translated_at: 2026-07-28T20:15:36Z
 
 ### 重要年表（金融セグメント中心・公開情報ベース）
 
+以下の表は、エントリ出典インベントリの公開一次資料（global.rakuten.com, www2.jpx.co.jp）の範囲に限定して読む。^[source:global.rakuten.com; www2.jpx.co.jp]
+
 | 年月 | 事象 |
 |---|---|
 | 1997-02 | 楽天創業（エム・ディー・エム） |
@@ -105,6 +109,8 @@ translated_at: 2026-07-28T20:15:36Z
 
 ## 2. 事業セグメント・マップ
 
+以下の表は、エントリ出典インベントリの公開一次資料（global.rakuten.com, www2.jpx.co.jp）の範囲に限定して読む。^[source:global.rakuten.com; www2.jpx.co.jp]
+
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
 | ネット銀行 | 楽天銀行（東証 PRIME 5838）| 口座 1,683 万・預金 12 兆円 (2024-12 単体)・住宅ローン参入 |
@@ -124,6 +130,8 @@ translated_at: 2026-07-28T20:15:36Z
 - **会員 ID 統一**: 1 楽天 ID で全サービス → CRM データ統合の優位
 
 ### EC 軸の独自性（vs 通信系 / メガバンク系）
+
+以下の表は、エントリ出典インベントリの公開一次資料（global.rakuten.com, www2.jpx.co.jp）の範囲に限定して読む。^[source:global.rakuten.com; www2.jpx.co.jp]
 
 | 競合カテゴリ | 軸 | 代表 |
 |---|---|---|

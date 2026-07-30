@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/anicom-insurance
-source_hash: 45782db01d15412d
+source_hash: 2fa064a2ee208d9c
 lang: ja
 status: machine
 fidelity: ok
 title: "アニコム損害保険"
-translated_at: 2026-06-02T14:01:20.916Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # アニコム損害保険
 
@@ -19,6 +19,8 @@ translated_at: 2026-06-02T14:01:20.916Z
 アニコム損害保険株式会社は、金融庁の損害保険会社免許一覧に掲載されるペット保険特化型の損害保険会社である。自動車・火災が中心の大手損保とは異なり、pet insurance と animal-health adjacency を持つ specialty operating company として扱う。
 
 ## 1. 免許 / グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, sonpohogo.or.jp, anicom-sompo.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; sonpohogo.or.jp; anicom-sompo.co.jp]
 
 | 項目 | 注記 |
 |---|---|

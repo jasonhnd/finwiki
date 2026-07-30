@@ -1,12 +1,12 @@
 ---
 source: insurance/japan-life-insurance-big-four
-source_hash: 25903deec54119d9
+source_hash: 12d356f4fe813092
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の生命保険ビッグフォー"
-translated_at: 2026-06-26T08:32:23.045Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 日本の生命保険ビッグフォー
 
@@ -17,6 +17,8 @@ translated_at: 2026-06-26T08:32:23.045Z
 このページは [[insurance/INDEX|insurance domain]] の下に位置し、会社別ページには [[insurance/INDEX|insurance INDEX]] を使う。[[insurance/life-insurance-channel-mix|life-insurance channel mix]]、[[insurance/mutual-vs-stock-life-insurer|mutual vs stock life insurer]]、[[insurance/esr-economic-value-solvency|ESR]]、[[financial-licenses/insurance-license-and-solvency|insurance license and ソルベンシー route]]、[[insurance/internet-life-insurance-business-model|internet life insurance business model]] とあわせて読む。
 
 ## 比較スナップショット
+
+以下の表は、エントリ出典インベントリの公開一次資料（seiho.or.jp, nissay.co.jp, dai-ichi-life-hd.com）の範囲に限定して読む。^[source:seiho.or.jp; nissay.co.jp; dai-ichi-life-hd.com; meijiyasuda.co.jp]
 
 | 保険会社 | 形態 / グループ構造 | 公開情報で比較する項目 | 関連する対比 |
 |---|---|---|---|
@@ -30,6 +32,8 @@ translated_at: 2026-06-26T08:32:23.045Z
 法的形態の項目は、ソルベンシー、チャネル、商品、海外戦略の項目とは分けて記録する。
 
 ## チャネル構造
+
+以下の表は、エントリ出典インベントリの公開一次資料（seiho.or.jp, nissay.co.jp, dai-ichi-life-hd.com）の範囲に限定して読む。^[source:seiho.or.jp; nissay.co.jp; dai-ichi-life-hd.com; meijiyasuda.co.jp]
 
 | チャネル | ビッグフォーとの関係 | 公開情報で見る項目 |
 |---|---|---|
@@ -71,6 +75,8 @@ translated_at: 2026-06-26T08:32:23.045Z
 [[life-insurers/sumitomo-life|Sumitomo Life]] は相互会社型生命保険会社であり、営業職員改革、健康 / ウェルネス連動型の商品戦略、デジタル支援、海外ポートフォリオ開示を持つ。
 
 ## 公開データ項目
+
+以下の表は、エントリ出典インベントリの公開一次資料（seiho.or.jp, nissay.co.jp, dai-ichi-life-hd.com）の範囲に限定して読む。^[source:seiho.or.jp; nissay.co.jp; dai-ichi-life-hd.com; meijiyasuda.co.jp]
 
 | 項目 | 公開情報での使い方 |
 |---|---|

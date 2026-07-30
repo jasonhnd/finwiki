@@ -3,8 +3,8 @@ title: 山陰合同銀行 (San-in Godo Bank)
 aliases: ["ごうぎん", "Gogin", "San-in Godo Bank", "The San-in Godo Bank, Ltd.", "山陰合同銀行"]
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, sanin, shimane, tottori]
@@ -60,6 +60,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 | 2024 | 中期経営計画策定（地域 + デジタル + サステナビリティ 3 軸）|
 
 ## 2. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (Wikipedia: 山陰合同銀行 (2026-05-19 抽出), 山陰合同銀行 公式サイト「沿革」(2025 更新)). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Wikipedia: 山陰合同銀行 (2026-05-19 抽出); 山陰合同銀行 公式サイト「沿革」(2025 更新)]
 
 | セグメント | 内容 | 特徴 |
 |---|---|---|

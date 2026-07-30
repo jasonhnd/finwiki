@@ -1,11 +1,11 @@
 ---
 source: regional-banks/tokyo-star-bank
-source_hash: dbe31bedb806e2bf
+source_hash: 55b742e7a2d31fa0
 lang: ja
 status: machine
 fidelity: ok
 title: "東京スター銀行"
-translated_at: 2026-06-02T16:33:58.456Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 東京スター銀行
 
@@ -19,6 +19,8 @@ translated_at: 2026-06-02T16:33:58.456Z
 株式会社東京スター銀行は、金融庁の銀行免許一覧に掲載される東京都本店の第二地方銀行である。公式会社概要では、2014 年に台湾 CTBC Bank が全株式を取得した銀行として説明されており、日本の地域銀行面では外資系第二地方銀行として整理する。
 
 ## 1. 法人・ライセンス境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, tokyostarbank.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; tokyostarbank.co.jp]
 
 | 項目 | 説明 |
 |---|---|

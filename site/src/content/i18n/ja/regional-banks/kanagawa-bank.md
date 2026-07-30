@@ -1,11 +1,11 @@
 ---
 source: regional-banks/kanagawa-bank
-source_hash: e6ba857a8fc00e83
+source_hash: 26587ac721521d79
 lang: ja
 status: machine
 fidelity: ok
 title: "神奈川銀行"
-translated_at: 2026-06-15T04:09:41.210Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 神奈川銀行
@@ -19,6 +19,8 @@ translated_at: 2026-06-15T04:09:41.210Z
 株式会社神奈川銀行 (The Kanagawa Bank) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される神奈川県横浜市本店の第二地方銀行。神奈川県では第一地銀の [[regional-banks/yokohama-bank|横浜銀行]] が大きいが、神奈川銀行は別法人の licensed second-regional-bank operating company として扱う。事業の中身は横浜・県内の預金受入と中小企業・個人向け貸出という地域密着型第二地銀のモデル。
 
 ## 1. ライセンス／グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, kanagawabank.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; kanagawabank.co.jp]
 
 | 項目 | 注記 |
 |---|---|

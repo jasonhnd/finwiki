@@ -1,11 +1,11 @@
 ---
 source: policy-finance/okinawa-development-finance-corp
-source_hash: 6d22648b6e63a893
+source_hash: 6dc540fdc4ec5432
 lang: ja
 status: machine
 fidelity: ok
 title: "沖縄振興開発金融公庫 (ODFC)"
-translated_at: 2026-06-19T12:43:19.851Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 沖縄振興開発金融公庫 (ODFC)
@@ -19,6 +19,8 @@ translated_at: 2026-06-19T12:43:19.851Z
 沖縄振興開発金融公庫（Okinawa Development Finance Corporation — ODFC）は、日本で唯一の統合型地域政策金融機関である。それは 1972-05-15 —— 沖縄の本土復帰と同時に —— 沖縄振興開発金融公庫法（1972, の Act No. 31 、改正後の現行 沖縄振興開発金融公庫法の前身）の下で設立された。その制度目的は、本土日本が別々の国の政策金融機関に分散させているすべての機能レーンにわたって、沖縄向けに集中化された政策ベースの金融を提供することである。具体的には、ODFC は単一のエンティティ内で、本土日本が [[financial-regulators/jfc|JFC]]（国民生活 / 中小企業 / 農林水産）、[[policy-finance/japan-housing-finance-agency|JHF]]（住宅金融）、および福祉医療機構（WAM、福祉 / 医療施設金融）に分けているものを、加えて沖縄固有の地域産業（観光金融、特産作物、農漁協金融、地域文脈での事業承継 / スタートアップ金融）とともに扱う。この統合形態の法的・政策的基盤は 沖縄振興特別措置法（現在は第 5 次の 10 年サイクル 2022-2032）であり、これが沖縄に地域開発と金融のための特別待遇レジームを与えている。ODFC は、いずれか単一の省ではなく内閣府（内閣府 沖縄担当部局）によって監督される —— これは沖縄固有の省庁横断的政策枠組みを反映した、ユニークな監督者構造である。本機関は [[regional-banks/okinawa-fg|Okinawa FG]]（[[banking/bank-of-okinawa|Bank of Okinawa]] の親）および [[regional-banks/okinawa-kaiho-bank|Okinawa Kaiho Bank]] と競合するのではなく補完し、沖縄の特定の産業構造（高い観光依存、小島嶼地理、本土平均より低い一人当たり所得、米軍基地経済隣接性）において民間銀行システムが必要な期間 / 価格で供与しない信用ギャップを埋める。
 
 ## 1. Institutional structure
+
+以下の表は、エントリ出典インベントリの公開一次資料（okinawakouko.go.jp, cao.go.jp, mof.go.jp）の範囲に限定して読む。^[source:okinawakouko.go.jp; cao.go.jp; mof.go.jp]
 
 | Item | Detail |
 |---|---|
@@ -48,6 +50,8 @@ translated_at: 2026-06-19T12:43:19.851Z
 
 沖縄固有の融資について、ODFC は機能的優先権を持ち、JFC は一般に統合レーンについて沖縄では運営しない。分離線：
 
+以下の表は、エントリ出典インベントリの公開一次資料（okinawakouko.go.jp, cao.go.jp, mof.go.jp）の範囲に限定して読む。^[source:okinawakouko.go.jp; cao.go.jp; mof.go.jp]
+
 | Lane | Mainland Japan | Okinawa |
 |---|---|---|
 | Micro-business / sole-proprietor / household-related | [[policy-finance/jfc-kokumin-life-finance-division|JFC 国民生活事業]] | ODFC |
@@ -62,6 +66,8 @@ translated_at: 2026-06-19T12:43:19.851Z
 ## 2. Mandate by line of business
 
 ### 2.1 プロダクトレーンの要約
+
+以下の表は、エントリ出典インベントリの公開一次資料（okinawakouko.go.jp, cao.go.jp, mof.go.jp）の範囲に限定して読む。^[source:okinawakouko.go.jp; cao.go.jp; mof.go.jp]
 
 | Lane | Equivalent JFC division / national institution | Typical product | Counterparty |
 |---|---|---|---|
@@ -87,6 +93,8 @@ ODFC の融資ポートフォリオは沖縄の独特な産業構造を反映し
 
 ## 3. KPI table (public-source numbers)
 
+以下の表は、エントリ出典インベントリの公開一次資料（okinawakouko.go.jp, cao.go.jp, mof.go.jp）の範囲に限定して読む。^[source:okinawakouko.go.jp; cao.go.jp; mof.go.jp]
+
 | KPI | Approximate value | Source / caveat |
 |---|---|---|
 | Capital | Capital figures disclosed in Japanese-language 業務概況 / disclosure publication; in the low hundreds of billions of yen range historically | ODFC disclosure / 業務概況 |
@@ -100,6 +108,8 @@ ODFC の融資ポートフォリオは沖縄の独特な産業構造を反映し
 注：ODFC の英語版プロファイルの数値は日本語版開示より遅れる場合がある；現在の精度に敏感な数値には日本語版 業務概況 を用いること。
 
 ## 4. Year-by-year evolution
+
+以下の表は、エントリ出典インベントリの公開一次資料（okinawakouko.go.jp, cao.go.jp, mof.go.jp）の範囲に限定して読む。^[source:okinawakouko.go.jp; cao.go.jp; mof.go.jp]
 
 | Year | Event |
 |---|---|
@@ -123,6 +133,8 @@ ODFC は現在、FinWiki に専用の運営メカニクス姉妹ページを持�
 - [[policy-finance/japan-policy-finance-institution-mandate-matrix|Mandate matrix]] — ODFC の Institution 8 の行が JFC、DBJ、JBIC、JICA、NEXI、JOGMEC、JHF、JASSO の隣に位置する 9 機関比較軸。
 
 ### JFC（最も近いピア）との比較軸
+
+以下の表は、エントリ出典インベントリの公開一次資料（okinawakouko.go.jp, cao.go.jp, mof.go.jp）の範囲に限定して読む。^[source:okinawakouko.go.jp; cao.go.jp; mof.go.jp]
 
 | Axis | ODFC | [[financial-regulators/jfc\|JFC]] |
 |---|---|---|

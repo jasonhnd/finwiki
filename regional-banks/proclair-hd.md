@@ -10,8 +10,8 @@ aliases:
   - "regional-banks/michinoku-bank"
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, tohoku]
@@ -67,6 +67,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ### 青森銀行 系譜
 
+The following table is scoped to public primary sources (am-bk.co.jp, procrea-hd.co.jp, nikkei.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:am-bk.co.jp; procrea-hd.co.jp; nikkei.com]
+
 | 年 | 事象 |
 |---|---|
 | **1879**（明治 12）| **第五十九国立銀行** 創立（弘前、青森県下初の銀行、青森銀行最古の前身）|
@@ -77,6 +79,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 | 2025-01-01 | みちのく銀行と合併 → 青森みちのく銀行 |
 
 ### みちのく銀行 系譜
+
+The following table is scoped to public primary sources (am-bk.co.jp, procrea-hd.co.jp, nikkei.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:am-bk.co.jp; procrea-hd.co.jp; nikkei.com]
 
 | 年 | 事象 |
 |---|---|

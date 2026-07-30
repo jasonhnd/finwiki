@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/dai-ichi-ipet-insurance
-source_hash: 1645dc8f77c31ce2
+source_hash: 8087461b94a69e5f
 lang: en
 status: machine
 fidelity: ok
 title: "Daiichi iPet General Insurance"
-translated_at: 2026-05-31T15:29:03.959Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Daiichi iPet General Insurance
@@ -23,6 +23,8 @@ Daiichi Ipet Sompo Insurance Co., Ltd. is a FSA-listed Japanese non-life insurer
 The page also resolves a boundary issue: do not create a separate `ipet-holdings` route unless a future public-source need emerges. The operating insurer is the useful wiki node; the FSA non-life license row and official company profile both point to the operating company.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, ipet-ins.com, daiichilife-group.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; ipet-ins.com; daiichilife-group.com]
 
 |Item|Notes|
 |---|---|

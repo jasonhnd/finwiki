@@ -1,11 +1,11 @@
 ---
 source: regional-banks/kyoto-bank
-source_hash: a13145b7beacf1b7
+source_hash: f4af867771edacf0
 lang: ja
 status: machine
 fidelity: ok
 title: "京都銀行"
-translated_at: 2026-06-02T14:54:39.046Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 京都銀行
@@ -20,6 +20,8 @@ translated_at: 2026-06-02T14:54:39.046Z
 株式会社京都銀行は、金融庁の銀行免許一覧に掲載される京都府本店の地方銀行。[[regional-banks/kyoto-fg]] の 中核運営銀行 であり、京都府内 No.1 地方銀行運営会社アンカー として扱う。
 
 ## 1. 免許・グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, kyotobank.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; kyotobank.co.jp]
 
 | 項目 | 注記 |
 |---|---|

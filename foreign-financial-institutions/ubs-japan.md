@@ -3,8 +3,8 @@ title: UBS ジャパン (UBS Japan)
 aliases: ["UBS Japan", "UBS 日本", "UBS 証券", "UBS Securities Japan", "UBS SuMi TRUST WM", "UBS SuMi TRUST ウェルス・マネジメント"]
 domain: foreign-financial-institutions
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, foreign-ib, wealth-management]
@@ -47,6 +47,8 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 - **2024**：旧 クレディ・スイス・ジャパン（旧 CS 証券・在日支店等）の UBS ジャパン拠点への統合完了 → コスト・リストラ進行
 
 ## 3. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (Wikipedia: UBS / UBS Group AG (2026-05-19 抽出), Wikipedia: クレディ・スイス (2023-06 緊急買収関連、2026-05-19 抽出), UBS Group AG Annual Report 2024 (公開・2025-03 公表)). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Wikipedia: UBS / UBS Group AG (2026-05-19 抽出); Wikipedia: クレディ・スイス (2023-06 緊急買収関連、2026-05-19 抽出); UBS Group AG Annual Report 2024 (公開・2025-03 公表)]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

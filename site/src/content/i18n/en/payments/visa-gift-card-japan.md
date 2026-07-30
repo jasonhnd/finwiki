@@ -1,11 +1,11 @@
 ---
 source: payments/visa-gift-card-japan
-source_hash: 73f68a9214d18dad
+source_hash: 4589c37d0de1a6e3
 lang: en
 status: machine
 fidelity: ok
 title: "Visa Gift Card Japan: Visa-branded open-loop prepaid"
-translated_at: 2026-06-15T04:20:20.001Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Visa Gift Card Japan: Visa-branded open-loop prepaid
@@ -19,6 +19,8 @@ This entry sits under [[payments/INDEX|payments index]] as the Visa-branded prep
 **Visa Gift Card Japan** refers to the family of **Visa-branded prepaid cards** issued in Japan — most prominently the **Vプリカ (V Preca)** product issued by **[[card-issuers/life-card|Life Card Co Ltd]]** under Visa scheme licensing. Vプリカ is the **principal Japan-issued Visa-branded prepaid card** spendable at any merchant that accepts Visa worldwide (online and in-store with physical card option). Distinct from [[payments/amazon-gift-card-japan|Amazon Gift Card]] / [[payments/apple-gift-card-japan|Apple Gift Card]] / [[payments/google-play-gift-card-japan|Google Play Gift Card]] (all closed-loop / platform-restricted), Visa Gift Card is **open-loop / brand-network prepaid** — usable across the Visa global merchant network. The product is positioned for **online purchases without credit-card commitment**, **gift distribution where the recipient should choose where to spend**, and **cardless cashless on-ramp** for users without conventional credit-card history. Vプリカ is registered as a 第三者型 (third-party) 前払式支払手段 under FSA because acceptance is at third-party Visa-accepting merchants, not Life Card's own service.
 
 ## Issuer and operational structure
+
+The following table is scoped to public primary sources (visa.co.jp, vpc.lifecard.co.jp, lifecard.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:visa.co.jp; vpc.lifecard.co.jp; lifecard.co.jp; fsa.go.jp]
 
 | Dimension | Reading |
 |---|---|
@@ -46,6 +48,8 @@ Vプリカ is registered as **第三者型前払式支払手段** under [[paymen
 
 The structural distinction from closed-loop platform gift cards is the **global Visa acceptance footprint**:
 
+The following table is scoped to public primary sources (visa.co.jp, vpc.lifecard.co.jp, lifecard.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:visa.co.jp; vpc.lifecard.co.jp; lifecard.co.jp; fsa.go.jp]
+
 | Dimension | Vプリカ (Visa brand network) | Amazon / Apple / Google Gift Card (closed-loop) |
 |---|---|---|
 | Spending surface | Any Visa-accepting merchant worldwide | Platform-restricted (Amazon.co.jp / Apple / Google Play only) |
@@ -60,6 +64,8 @@ The trade-off is that Visa brand-network access carries Visa scheme fees, interc
 
 ## Use cases
 
+The following table is scoped to public primary sources (visa.co.jp, vpc.lifecard.co.jp, lifecard.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:visa.co.jp; vpc.lifecard.co.jp; lifecard.co.jp; fsa.go.jp]
+
 | Use case | Description |
 |---|---|
 | **Online purchases without credit card commitment** | Buyer purchases Vプリカ, uses on Visa-accepting site without registering personal credit card |
@@ -70,6 +76,8 @@ The trade-off is that Visa brand-network access carries Visa scheme fees, interc
 | **Subscription cancellation safety** | Limited-balance card limits subscription auto-renewal risk |
 
 ## Distribution rails
+
+The following table is scoped to public primary sources (visa.co.jp, vpc.lifecard.co.jp, lifecard.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:visa.co.jp; vpc.lifecard.co.jp; lifecard.co.jp; fsa.go.jp]
 
 | Rail | Description |
 |---|---|
@@ -93,6 +101,8 @@ Vプリカ is the principal but not the only Visa-branded prepaid in Japan. Othe
 The boundary between **Visa Gift Card** (single-load gift-orient) and **Visa-branded wallet prepaid** (recharge-and-spend wallet) is somewhat blurred — both use Visa scheme acceptance, but the product positioning and customer use case differ.
 
 ## KPI snapshot
+
+The following table is scoped to public primary sources (visa.co.jp, vpc.lifecard.co.jp, lifecard.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:visa.co.jp; vpc.lifecard.co.jp; lifecard.co.jp; fsa.go.jp]
 
 | Metric | Reading |
 |---|---|

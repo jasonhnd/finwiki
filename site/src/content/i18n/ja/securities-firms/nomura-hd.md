@@ -1,11 +1,11 @@
 ---
 source: securities-firms/nomura-hd
-source_hash: 7618e7ce193856a6
+source_hash: b651390491f8d31b
 lang: ja
 status: machine
 fidelity: ok
 title: "野村ホールディングス"
-translated_at: 2026-06-02T14:54:39.069Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 野村ホールディングス
@@ -31,6 +31,8 @@ translated_at: 2026-06-02T14:54:39.069Z
 
 ### FY2025 (2025-03 期) 決算（連結、米国会計基準）^[extracted]
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | 項目 | 金額 | YoY |
 |---|---|---|
 | 収益総額（Gross Revenue）| **4 兆 7,367 億円** | +13.9% |
@@ -44,6 +46,8 @@ translated_at: 2026-06-02T14:54:39.069Z
 | 資本金 | 5944 億 9300 万円 | - |
 
 ### 主要株主（2025-03-31）^[extracted]
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | 株主 | 比率 |
 |---|---|
@@ -119,6 +123,8 @@ translated_at: 2026-06-02T14:54:39.069Z
 
 > **2025-04-01 部門再編**: 従来の 4 部門（営業 / ホールセール / Investment Management / その他）に **バンキング部門** を新設、**5 部門制** に移行 ^[extracted]
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
 | 国内リテール（営業部門）| 野村証券 国内 | 営業店約 130、対面 + オンライン併用、富裕層・退職世代厚い |
@@ -172,6 +178,8 @@ translated_at: 2026-06-02T14:54:39.069Z
   - 2025〜 顧客本位 業務運営（FSA「顧客本位の業務運営に関する原則」改訂）
 
 ### 歴代グループ CEO（持株会社化後）^[extracted]
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | 代 | 氏名 | 在任 | 主な出来事 |
 |---|---|---|---|

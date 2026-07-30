@@ -1,11 +1,11 @@
 ---
 source: payments/edy-rakuten-prepaid
-source_hash: 08c22a10624c85e9
+source_hash: 893ff6d2fbaaad0d
 lang: en
 status: machine
 fidelity: ok
 title: "Rakuten Edy: platform-agnostic FeliCa prepaid e-money"
-translated_at: 2026-07-28T20:15:36Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Rakuten Edy: platform-agnostic FeliCa prepaid e-money
 
@@ -18,6 +18,8 @@ This entry sits under [[payments/INDEX|payments index]] as the Rakuten Edy prepa
 **Rakuten Edy (楽天Edy)** is a FeliCa-based third-party prepaid payment instrument. The predecessor bitWallet began full Edy service in November 2001, joined the Rakuten group in January 2010, and changed its name to Rakuten Edy in June 2012. The present legal entity was established in May 2016, succeeded to the business in October 2016, and became a wholly owned subsidiary of Rakuten Payment in April 2019. Current official guidance supports Edy on compatible Android Osaifu-Keitai / Google Wallet devices, but states that iPhone is not supported; the balance ceiling is ¥50,000 and cash refunds are generally unavailable. ^[Rakuten Edy history: https://edy.rakuten.co.jp/company/history.html; service information: https://edy.rakuten.co.jp/terms/info.html; Google Wallet guide: https://edy.rakuten.co.jp/howto/google/pay/; supported-device FAQ: https://support.rakuten-edy.co.jp/faq/show/1179]
 
 ## Issuer and operational structure
+
+The following table is scoped to public primary sources (edy.rakuten.co.jp, support.rakuten-edy.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:edy.rakuten.co.jp; support.rakuten-edy.co.jp; fsa.go.jp; felicanetworks.co.jp]
 
 | Dimension | Reading |
 |---|---|
@@ -48,6 +50,8 @@ Rakuten Edy is registered as **Third Party Prepaid Payment Instrument** under [[
 
 Edy's structural position is **pioneer / legacy** of Japan FeliCa e-money:
 
+The following table is scoped to public primary sources (edy.rakuten.co.jp, support.rakuten-edy.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:edy.rakuten.co.jp; support.rakuten-edy.co.jp; fsa.go.jp; felicanetworks.co.jp]
+
 | Year | Event |
 |---|---|
 | 2001 | bitWallet launches Edy — first major Japan FeliCa e-money |
@@ -65,6 +69,8 @@ By the time WAON and nanaco launched 2007, Edy was the established FeliCa e-mone
 
 ## Acceptance footprint
 
+The following table is scoped to public primary sources (edy.rakuten.co.jp, support.rakuten-edy.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:edy.rakuten.co.jp; support.rakuten-edy.co.jp; fsa.go.jp; felicanetworks.co.jp]
+
 | Tier | Acceptance |
 |---|---|
 | Convenience stores | Lawson, FamilyMart, MiniStop, Daily Yamazaki, Seicomart — and historically 7-Eleven (but 7-Eleven now generally favors nanaco) |
@@ -79,6 +85,8 @@ By the time WAON and nanaco launched 2007, Edy was the established FeliCa e-mone
 
 Edy's principal customer-acquisition leverage post-Rakuten-acquisition is the **Rakuten Card + Edy + Rakuten Points** triangle:
 
+The following table is scoped to public primary sources (edy.rakuten.co.jp, support.rakuten-edy.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:edy.rakuten.co.jp; support.rakuten-edy.co.jp; fsa.go.jp; felicanetworks.co.jp]
+
 | Component | Role |
 |---|---|
 | [[card-issuers/rakuten-card\|Rakuten Card]] | Credit card co-brand with Edy IC embedded; auto-charge to Edy from Rakuten Card |
@@ -88,6 +96,8 @@ Edy's principal customer-acquisition leverage post-Rakuten-acquisition is the **
 This three-way integration is structurally similar to the [[payments/waon-prepaid-aeon|AEON Card + WAON + WAON POINT]] and [[payments/nanaco-prepaid-seven-i|セブンカード・プラス + nanaco + nanacoポイント]] triangles, but without a single retail-anchor parent. The trade-off is **wider platform-agnostic acceptance** with **weaker retail-anchor network effect**.
 
 ## KPI snapshot
+
+The following table is scoped to public primary sources (edy.rakuten.co.jp, support.rakuten-edy.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:edy.rakuten.co.jp; support.rakuten-edy.co.jp; fsa.go.jp; felicanetworks.co.jp]
 
 | Metric | Reading |
 |---|---|

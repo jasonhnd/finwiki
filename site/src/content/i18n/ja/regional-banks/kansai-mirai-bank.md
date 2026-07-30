@@ -1,11 +1,11 @@
 ---
 source: regional-banks/kansai-mirai-bank
-source_hash: 3cbc515eea13eea8
+source_hash: faff07096b50b2d2
 lang: ja
 status: machine
 fidelity: ok
 title: "関西みらい銀行"
-translated_at: 2026-06-15T04:09:41.138Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 関西みらい銀行
@@ -19,6 +19,8 @@ translated_at: 2026-06-15T04:09:41.138Z
 株式会社関西みらい銀行 (Kansai Mirai Bank) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される大阪府大阪市本店の地方銀行。[[megabanks/resona-hd|りそなホールディングス]] 傘下の関西みらいフィナンシャルグループに属する関西の営業銀行であり、旧関西アーバン銀行・近畿大阪銀行の統合後の銀行免許エンティティとして扱う。事業の中身は大阪・関西での預金受入と中小企業・個人向け貸出。
 
 ## 1. 免許／グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, kansaimiraibank.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; kansaimiraibank.co.jp]
 
 | 項目 | 備考 |
 |---|---|

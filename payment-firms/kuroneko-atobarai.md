@@ -8,8 +8,8 @@ aliases:
   - "ヤマトクレジットファイナンス"
 domain: payment-firms
 created: 2026-05-24
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, BNPL, atobarai, logistics, yamato, installment-sales]
@@ -31,6 +31,8 @@ This entry sits under the [[payment-firms/INDEX|payment-firms INDEX]] as a **log
 クロネコ代金後払いサービス は ヤマト HD 系の **ヤマトクレジットファイナンス株式会社** が提供する EC 後払い決済。商品配送と請求書同梱を **クロネコヤマト 宅急便** ネットワーク上で一体運用するため、Net Protections の NP 後払いと並ぶ **配送系 BNPL** の代表例として扱われる。BNPL 議論で「物流網に内包された与信」というカテゴリを示すうえで欠かせない比較対象。
 
 ## 1. 法人・ライセンス境界
+
+The following table is scoped to public primary sources (kuronekoyamato.co.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:kuronekoyamato.co.jp; meti.go.jp]
 
 | Item | Reading |
 |---|---|

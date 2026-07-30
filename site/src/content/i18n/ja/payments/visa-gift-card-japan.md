@@ -1,11 +1,11 @@
 ---
 source: payments/visa-gift-card-japan
-source_hash: 73f68a9214d18dad
+source_hash: 4589c37d0de1a6e3
 lang: ja
 status: machine
 fidelity: ok
 title: "Visa Gift Card Japan: Visa-branded open-loop 前払式"
-translated_at: 2026-06-19T06:09:18.137Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Visa Gift Card Japan: Visa-branded open-loop 前払式
@@ -19,6 +19,8 @@ translated_at: 2026-06-19T06:09:18.137Z
 **Visa Gift Card Japan** は、日本で発行される **Visa ブランドのプリペイドカード** のファミリーを指す — 最も顕著なのは Visa スキームのライセンシングのもとで **[[card-issuers/life-card|Life Card Co Ltd]]** が発行する **Vプリカ (V Preca)** 製品である。Vプリカ は、世界中で Visa を受け入れるあらゆる加盟店（オンラインおよび店舗での物理カードオプション付き）で使える **日本発行の主要な Visa ブランドプリペイドカード** である。[[payments/amazon-gift-card-japan|Amazon Gift Card]] / [[payments/apple-gift-card-japan|Apple Gift Card]] / [[payments/google-play-gift-card-japan|Google Play Gift Card]]（いずれもクローズドループ／プラットフォーム限定）とは異なり、Visa Gift Card は **オープンループ／ブランドネットワーク・プリペイド** であり — Visa のグローバル加盟店ネットワーク全体で使える。この製品は **クレジットカードのコミットメントなしのオンライン購入**、**受取人が支出先を選ぶべきギフト配布**、そして従来のクレジットカード履歴を持たないユーザー向けの **カードレスのキャッシュレス・オンランプ** に位置付けられる。Vプリカ は、受け入れが Life Card 自身のサービスではなく第三者の Visa 受け入れ加盟店で行われるため、FSA のもとで 第三者型前払式支払手段 として登録されている。
 
 ## 発行会社 and operational structure
+
+以下の表は、エントリ出典インベントリの公開一次資料（visa.co.jp, vpc.lifecard.co.jp, lifecard.co.jp）の範囲に限定して読む。^[source:visa.co.jp; vpc.lifecard.co.jp; lifecard.co.jp; fsa.go.jp]
 
 | 項目 | 読み方 |
 |---|---|
@@ -46,6 +48,8 @@ Vプリカ は、支出のサーフェスが発行者自身のサービスでは
 
 クローズドループのプラットフォームギフトカードとの構造的な区別は、**グローバルな Visa 受け入れフットプリント** である：
 
+以下の表は、エントリ出典インベントリの公開一次資料（visa.co.jp, vpc.lifecard.co.jp, lifecard.co.jp）の範囲に限定して読む。^[source:visa.co.jp; vpc.lifecard.co.jp; lifecard.co.jp; fsa.go.jp]
+
 | 項目 | Vプリカ (Visa brand network) | Amazon / Apple / Google Gift Card (closed-loop) |
 |---|---|---|
 | Spending surface | 世界中の Visa 受け入れ加盟店ならどこでも | プラットフォーム限定（Amazon.co.jp / Apple / Google Play のみ） |
@@ -60,6 +64,8 @@ Vプリカ は、支出のサーフェスが発行者自身のサービスでは
 
 ## Use cases
 
+以下の表は、エントリ出典インベントリの公開一次資料（visa.co.jp, vpc.lifecard.co.jp, lifecard.co.jp）の範囲に限定して読む。^[source:visa.co.jp; vpc.lifecard.co.jp; lifecard.co.jp; fsa.go.jp]
+
 | Use case | Description |
 |---|---|
 | **クレジットカードのコミットメントなしのオンライン購入** | 購入者が Vプリカ を購入し、個人のクレジットカードを登録せずに Visa 受け入れサイトで使う |
@@ -70,6 +76,8 @@ Vプリカ は、支出のサーフェスが発行者自身のサービスでは
 | **サブスクリプション解約の安全性** | 残高限定のカードがサブスクリプションの自動更新リスクを限定する |
 
 ## Distribution rails
+
+以下の表は、エントリ出典インベントリの公開一次資料（visa.co.jp, vpc.lifecard.co.jp, lifecard.co.jp）の範囲に限定して読む。^[source:visa.co.jp; vpc.lifecard.co.jp; lifecard.co.jp; fsa.go.jp]
 
 | Rail | Description |
 |---|---|
@@ -93,6 +101,8 @@ Vプリカ は日本における主要だが唯一の Visa ブランドプリペ
 **Visa Gift Card**（単一ロードのギフト志向）と **Visa ブランドウォレットプリペイド**（リチャージ・アンド・スペンドのウォレット）の境界はやや曖昧である — どちらも Visa スキームの受け入れを使うが、製品のポジショニングと顧客のユースケースが異なる。
 
 ## KPI snapshot
+
+以下の表は、エントリ出典インベントリの公開一次資料（visa.co.jp, vpc.lifecard.co.jp, lifecard.co.jp）の範囲に限定して読む。^[source:visa.co.jp; vpc.lifecard.co.jp; lifecard.co.jp; fsa.go.jp]
 
 | 指標 | 読み方 |
 |---|---|

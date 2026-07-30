@@ -1,11 +1,11 @@
 ---
 source: regional-banks/miyazaki-bank
-source_hash: 96bd392d23aa4371
+source_hash: a42a4e947906ffbc
 lang: ja
 status: machine
 fidelity: ok
 title: "宮崎銀行"
-translated_at: 2026-06-15T04:09:41.181Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 宮崎銀行
@@ -19,6 +19,8 @@ translated_at: 2026-06-15T04:09:41.181Z
 株式会社宮崎銀行 (The Miyazaki Bank, みやぎん) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される宮崎県宮崎市本店の地方銀行 (第一地銀)。宮崎県の第一地銀オペレーティングカンパニーのアンカーであり、南九州の独立系地方銀行として扱う。事業の中身は県内の預金受入と中小企業・個人・地方公共団体向け貸出。
 
 ## 1. 免許／グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, miyagin.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; miyagin.co.jp]
 
 | 項目 | 備考 |
 |---|---|

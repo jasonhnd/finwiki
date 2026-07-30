@@ -1,11 +1,11 @@
 ---
 source: securities-firms/mufg-mums
-source_hash: e91d9d0c57a7cefd
+source_hash: 014ee496cde2bfa7
 lang: ja
 status: machine
 fidelity: ok
 title: "三菱UFJモルガン・スタンレー証券"
-translated_at: 2026-06-02T14:54:39.055Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 三菱UFJモルガン・スタンレー証券
 
@@ -18,6 +18,8 @@ translated_at: 2026-06-02T14:54:39.055Z
 三菱UFJモルガン・スタンレー証券 は、三菱UFJモルガン・スタンレー証券 の公開情報で確認できる事業領域 を主な文脈として読むメガバンク系の大手証券会社 である。[[securities-firms/smbc-nikko]] を手がかりに、ライセンス、グループ境界、営業地盤、比較対象を切り分ける。公開情報で確認できる範囲に限定し、非公開情報や個人情報は扱わない。
 
 ## [[securities-firms/nomura-hd]]. ライセンス・グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（hd.sc.mufg.jp, fsa.go.jp, jsda.or.jp）の範囲に限定して読む。^[source:hd.sc.mufg.jp; fsa.go.jp; jsda.or.jp; sc.mufg.jp]
 
 | 項目 | メモ |
 |---|---|
@@ -32,6 +34,8 @@ translated_at: 2026-06-02T14:54:39.055Z
 
 三菱UFJモルガン・スタンレー証券 の事業モデルは、顧客基盤、商品範囲、グループ内の役割、監督上の登録区分を分けて読む必要がある。銀行、信用金庫、信託銀行、証券会社、保険会社、資産運用会社、商社系金融会社では、同じ金融機関でも収益源と規制上の確認点が異なる。
 このページでは [[finance/japan-ib-league-table]] を比較軸として、会社単位の公開情報と上位グループの説明を混同しないようにする。
+
+以下の表は、エントリ出典インベントリの公開一次資料（hd.sc.mufg.jp, fsa.go.jp, jsda.or.jp）の範囲に限定して読む。^[source:hd.sc.mufg.jp; fsa.go.jp; jsda.or.jp; sc.mufg.jp]
 
 | 観点 | 読み方 |
 |---|---|

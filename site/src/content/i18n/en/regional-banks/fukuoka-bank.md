@@ -1,11 +1,11 @@
 ---
 source: regional-banks/fukuoka-bank
-source_hash: 47d494c6e8ad0512
+source_hash: 47a2f041703fbca8
 lang: en
 status: machine
 fidelity: ok
 title: "The Bank of Fukuoka"
-translated_at: 2026-06-15T04:09:41.195Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # The Bank of Fukuoka
@@ -20,6 +20,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 The Bank of Fukuoka, Ltd. (株式会社福岡銀行) is a regional bank (first-tier regional bank) headquartered in Fukuoka City, Fukuoka Prefecture, holding a bank license under the Banking Act and listed in the FSA's bank license list. It is the core operating bank of [[regional-banks/fukuoka-fg|ふくおかフィナンシャルグループ]] and is treated as one of Kyushu's largest regional-bank operating-company anchors. Its business is the standard regional-bank business model of "deposit-taking across the prefecture and the wider Kyushu region + lending to SMEs, individuals, and local public bodies."
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, fukuokabank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; fukuokabank.co.jp]
 
 | Item | Notes |
 |---|---|

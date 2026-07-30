@@ -3,8 +3,8 @@ title: "横浜銀行"
 aliases: ["Bank of Yokohama", "The Bank of Yokohama", "BOY", "株式会社横浜銀行"]
 domain: regional-banks
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, banking, regional-bank, concordia-fg, yokohama-fg, kanto, operating-company]
@@ -26,6 +26,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 株式会社横浜銀行は、金融庁の銀行免許一覧に掲載される神奈川県本店の地方銀行で、[[regional-banks/concordia-fg]]（現 横浜フィナンシャルグループ）の core operating bank。神奈川県の retail / SME / public-sector finance では最大級の bank-license anchor として扱う。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, boy.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; boy.co.jp]
 
 | Item | Notes |
 |---|---|

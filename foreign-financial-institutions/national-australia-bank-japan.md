@@ -7,8 +7,8 @@ aliases:
   - "ナショナルオーストラリア銀行"
 domain: foreign-financial-institutions
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-22
 confidence: likely
 tags: [JapanFG, foreign-bank, Australia, wholesale-banking, capital-markets, corporate-finance]
@@ -36,6 +36,8 @@ The branch is worth standalone treatment because NAB is one of the Australian ba
 
 ## Entity / License Boundary
 
+The following table is scoped to public primary sources (fsa.go.jp, nab.com.au, news.nab.com.au). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; nab.com.au; news.nab.com.au]
+
 | Layer | Reading |
 |---|---|
 | Foreign-bank branch | FSA bank-license route for National Australia Bank. |
@@ -45,6 +47,8 @@ The branch is worth standalone treatment because NAB is one of the Australian ba
 | Corridor | Australia / New Zealand to Japan and Japan outbound investment into Australia / New Zealand. |
 
 ## Business Role Map
+
+The following table is scoped to public primary sources (fsa.go.jp, nab.com.au, news.nab.com.au). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; nab.com.au; news.nab.com.au]
 
 | Function | Japan relevance |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: payment-firms/airwallex-japan
-source_hash: 975d75506fc19ccd
+source_hash: de8d6c889cc57fdd
 lang: en
 status: machine
 fidelity: ok
 title: "Airwallex Japan"
-translated_at: 2026-06-19T06:09:18.076Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Airwallex Japan
@@ -20,6 +20,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 Airwallex Japan K.K. is the Airwallex group's Japan B2B payments and cross-border funds-transfer operator. Official announcements indicate a Type II funds-transfer service provider registration and the rollout of onboarding / local payout / collection services for Japanese companies.
 
 ## 1. Corporate / license boundary
+
+The following table is scoped to public primary sources (airwallex.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:airwallex.com; fsa.go.jp]
 
 | Item | Reading |
 |---|---|

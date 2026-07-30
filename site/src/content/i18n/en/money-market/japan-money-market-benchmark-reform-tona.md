@@ -1,11 +1,11 @@
 ---
 source: money-market/japan-money-market-benchmark-reform-tona
-source_hash: db9b1b43ad8047ae
+source_hash: e09f9423b1cc3d39
 lang: en
 status: machine
 fidelity: ok
 title: "Japan money-market benchmark reform (TONA and the multi-rate world)"
-translated_at: 2026-06-18T15:47:13.942Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan money-market benchmark reform (TONA and the multi-rate world)
@@ -25,6 +25,8 @@ Japanese yen interest-rate benchmark reform replaced JPY LIBOR with a **risk-fre
 For FinWiki, this entry is the money-market-side narrative of who reformed what and why the call market sits at the center of the post-LIBOR JPY rate complex. The pricing / discounting mechanics live in [[derivatives/ois-tona-curve|the OIS TONA curve]] entry; this page covers the benchmark-governance and market-structure story.
 
 ## The Reform Bodies
+
+The following table is scoped to public primary sources (boj.or.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:boj.or.jp; fsa.go.jp]
 
 | Body | Role |
 |---|---|
@@ -48,6 +50,8 @@ The trade-off is that an ample-reserves policy environment can thin out call-mar
 
 ## Transition Timeline
 
+The following table is scoped to public primary sources (boj.or.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:boj.or.jp; fsa.go.jp]
+
 | Period | Event |
 |---|---|
 | 2016 | Study Group identifies TONA as the JPY risk-free rate (December report). |
@@ -60,6 +64,8 @@ The trade-off is that an ample-reserves policy environment can thin out call-mar
 ## The Resulting Multi-Rate World
 
 Japan intentionally did not collapse everything into a single rate. The surviving structure is:
+
+The following table is scoped to public primary sources (boj.or.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:boj.or.jp; fsa.go.jp]
 
 | Benchmark | Nature | Primary use |
 |---|---|---|

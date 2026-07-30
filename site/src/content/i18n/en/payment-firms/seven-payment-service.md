@@ -1,11 +1,11 @@
 ---
 source: payment-firms/seven-payment-service
-source_hash: c28be85083602c53
+source_hash: f1bbb1d596af3668
 lang: en
 status: machine
 fidelity: ok
 title: "Seven Payment Service"
-translated_at: 2026-06-15T03:48:21.822Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Seven Payment Service
@@ -20,6 +20,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it with 
 Seven Payment Service is a BtoC payout and ATM cash-receipt operator around [[regional-banks/seven-bank|Seven Bank]] / [[retail/seven-and-i-hd|Seven & i]]. It provides corporate clients with cash receipt, refunds, reward payouts, and similar services using Seven Bank ATMs.
 
 ## 1. Legal-entity / license boundary
+
+The following table is scoped to public primary sources (7ps.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:7ps.jp; fsa.go.jp]
 
 | Item | Reading |
 |---|---|

@@ -1,12 +1,12 @@
 ---
 source: payment-firms/paypal-pte-ltd-japan
-source_hash: 85aca538dfb0c1a8
+source_hash: 1bcd2eac8db79858
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "PayPal Pte. Ltd. 日本サービスの境界"
-translated_at: 2026-06-26T08:31:59.847Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # PayPal Pte. Ltd. 日本サービスの境界
@@ -19,6 +19,8 @@ translated_at: 2026-06-26T08:31:59.847Z
 ## 要約日本の PayPal サービスは PayPal Pte. Ltd. の資金決済法上の表示で管理される。公式表示は personal account の第三者型前払式支払手段、premier / business account の第二種資金移動業を分けて説明しており、消費者向けウォレット と 加盟店 checkout を同じ名前で読まないことが重要。
 
 ## 1. 法人・ライセンス境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（paypal.com, fsa.go.jp）の範囲に限定して読む。^[source:paypal.com; fsa.go.jp]
 
 | 項目 | 読み方 |
 |---|---|

@@ -121,6 +121,10 @@ export function verificationPipeline(outDir: string): Step[] {
       command: bunCommand("run", "docs:audit"),
     },
     {
+      label: "Audit .opinions public quarantine contract",
+      command: bunCommand("run", "opinions:audit"),
+    },
+    {
       label: "Scan active developer documents for stale facts",
       command: bunCommand("run", "docs:stale"),
     },

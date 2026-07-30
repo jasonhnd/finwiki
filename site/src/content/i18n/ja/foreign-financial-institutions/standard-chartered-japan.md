@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/standard-chartered-japan
-source_hash: dcb5d31ee4dd4c8f
+source_hash: 1f5a73400588848b
 lang: ja
 status: machine
 fidelity: ok
 title: "スタンダード・チャータード銀行 東京支店"
-translated_at: 2026-06-02T15:14:17.137Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # スタンダード・チャータード銀行 東京支店
@@ -40,6 +40,8 @@ translated_at: 2026-06-02T15:14:17.137Z
 
 ## 2. 沿革
 
+以下の表は、エントリ出典インベントリの公開一次資料（sc.com）の範囲に限定して読む。^[source:sc.com]
+
 | 年月 | 事象 |
 |---|---|
 | 1853 | チャータード銀行（Chartered Bank of India, Australia and China）ロンドン設立、英国王室特許 |
@@ -51,6 +53,8 @@ translated_at: 2026-06-02T15:14:17.137Z
 | 2020s | ESG・トランジション・ファイナンス、デジタル・トランザクション・バンキング強化 |
 
 ## 3. 事業セグメント・マップ（日本拠点）
+
+以下の表は、エントリ出典インベントリの公開一次資料（sc.com）の範囲に限定して読む。^[source:sc.com]
 
 | セグメント | 内容 | 顧客層 |
 |---|---|---|

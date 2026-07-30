@@ -1,11 +1,11 @@
 ---
 source: regional-banks/okinawa-bank
-source_hash: 81e14a244c3b0e01
+source_hash: eadf7c1291d9f4a6
 lang: en
 status: machine
 fidelity: ok
 title: "Okinawa Bank"
-translated_at: 2026-06-19T12:43:19.913Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Okinawa Bank
@@ -20,6 +20,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 Okinawa Bank, Ltd. is a regional bank headquartered in Okinawa Prefecture, listed in the FSA's bank-license list. It is the core operating bank of [[regional-banks/okinawa-fg]] and is treated as the in-prefecture No.1  regional-bank operating-company anchor in Okinawa.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, okinawa-bank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; okinawa-bank.co.jp]
 
 | Item | Notes |
 |---|---|

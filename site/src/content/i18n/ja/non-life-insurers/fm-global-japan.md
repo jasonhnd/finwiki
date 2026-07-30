@@ -1,12 +1,12 @@
 ---
 source: non-life-insurers/fm-global-japan
-source_hash: e6878ca29adc04e2
+source_hash: 90668611d3303666
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "FM Global Japan / FMグローバル・ジャパン"
-translated_at: 2026-06-26T08:32:07.557Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # FM Global Japan / FMグローバル・ジャパン
@@ -20,6 +20,8 @@ translated_at: 2026-06-26T08:32:07.557Z
 FM Insurance Company Limited Japan Branch（FM Global Japan）は、**FM Global**（Factory Mutual Insurance Company、米国ロードアイランド州ジョンストンに本社を置く）の日本支店である。FM Global は世界最大手の相互会社形態の産業財物保険会社であり、契約者によって所有され、エンジニアリングに基づく損失防止と組み合わせた大規模商業財物リスクを専門とする。その日本における事業は、Fortune 500 クラスの製造業者、サプライチェーン・リスク、および国内 [[insurance/japan-nonlife-big-three|non-life big three]] のキャパシティと外国スペシャルティの代替手段が出会う自然災害財物カバーに焦点を当てている。
 
 ## 1. License / group boundary
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, fmglobal.com）の範囲に限定して読む。^[source:fsa.go.jp; fmglobal.com]
 
 | Item | Notes |
 |---|---|

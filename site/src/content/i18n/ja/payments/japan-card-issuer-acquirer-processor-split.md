@@ -1,12 +1,12 @@
 ---
 source: payments/japan-card-issuer-acquirer-processor-split
-source_hash: 6747ff79dacb1070
+source_hash: 0e1dba189482e418
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本のカード発行会社、アクワイアラー、プロセッサーの分担"
-translated_at: 2026-06-26T08:32:23.054Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 日本のカード発行会社、アクワイアラー、プロセッサーの分担
 
@@ -15,6 +15,8 @@ translated_at: 2026-06-26T08:32:23.054Z
 このページは [[payments/card-acquiring-japan-stack|Japan card acquiring stack]]、[[payments/japan-card-security-authentication-controls|card security and authentication controls]]、[[payments/credit-purchase-card-operators-japan-index|credit purchase and card 事業者 registry]]、[[payments/psp-merchant-settlement-risk|PSP 決済 risk]]、[[payments/cashless-jp-landscape|cashless landscape]]、[[card-issuers/jcb|JCB]]、[[card-issuers/smbc-card|SMBC Card]]、[[card-issuers/mufg-nicos|MUFG NICOS]] とあわせて使う。
 
 ## 役割マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（meti.go.jp, j-credit.or.jp, global.jcb）の範囲に限定して読む。^[source:meti.go.jp; j-credit.or.jp; global.jcb; jcb.co.jp]
 
 | 役割 | 管理するもの | 典型的な JapanFG アンカー |
 |---|---|---|
@@ -25,6 +27,8 @@ translated_at: 2026-06-26T08:32:23.054Z
 | 加盟店 | カード決済を受け入れ、カード会員データを保護し、発送 / 返金 / 紛争証拠を扱う。 | [[retail/INDEX|retail INDEX]] 配下の小売 / EC 事業者、および [[business/gmo-internet-group|GMO Internet Group]] のようなプラットフォーム事例。 |
 
 ## 法務 / 登録境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（meti.go.jp, j-credit.or.jp, global.jcb）の範囲に限定して読む。^[source:meti.go.jp; j-credit.or.jp; global.jcb; jcb.co.jp]
 
 | 問い | ルート |
 |---|---|
@@ -45,6 +49,8 @@ translated_at: 2026-06-26T08:32:23.054Z
 JCB の公開ブランド事業説明は、カード会員、加盟店、イシュア、アクワイアラー、ブランド / 決済ネットワークの役割を分けるための分かりやすいモデルであり、日本固有の登録とセキュリティ管理を追加する前の土台として有用である。
 
 ## よくある誤読
+
+以下の表は、エントリ出典インベントリの公開一次資料（meti.go.jp, j-credit.or.jp, global.jcb）の範囲に限定して読む。^[source:meti.go.jp; j-credit.or.jp; global.jcb; jcb.co.jp]
 
 | 誤読 | よりよい読み方 |
 |---|---|

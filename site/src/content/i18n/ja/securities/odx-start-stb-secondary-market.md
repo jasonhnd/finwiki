@@ -1,12 +1,12 @@
 ---
 source: securities/odx-start-stb-secondary-market
-source_hash: ea535c2573f4e38e
+source_hash: 76cd40106d9ce249
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "ODX STARTセキュリティトークン流通市場"
-translated_at: 2026-06-26T08:32:15.210Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # ODX STARTセキュリティトークン流通市場
 
@@ -19,6 +19,8 @@ translated_at: 2026-06-26T08:32:15.210Z
 ODX（大阪デジタルエクスチェンジ, Osaka Digital Exchange）は、SBI HD、Sumitomo Mitsui Trust Holdings（SuMi TRUST / 住信）、Nomura HDを中心とし、追加で証券業界参加者を含むジョイントベンチャーとして設立された、日本のFIEA登録PTS運営者である。2023-12-25に開始されたSTART市場は、セキュリティトークン（ST / セキュリティトークン）の日本初の流通取引PTSとして公表されており、FIEA上の電子記録移転権利枠組みの下で発行されるトークン化株式、トークン化債券、トークン化不動産受益権を扱う。STARTでの取引は、承認された証券会社の取引参加者を通じてのみ仲介され、ODX自身が個人投資家と直接向き合うことはない。決済は、上場証券との隣接領域では[[securities/japan-securities-clearing-corp|JSCC]]と[[securities/japan-securities-depository-center|JASDEC]]、トークン移転レッグではトークンプラットフォーム・インフラ（例: [[payment-firms/progmat|Progmat]]、BOOSTRY / ibet）と統合される。STARTの新規銘柄登録は、流通取引が可能になる前にODXが運営するApproval to Register（ATR）ゲートを通過する。
 
 ## 取引所アイデンティティ
+
+以下の表は、エントリ出典インベントリの公開一次資料（odx.co.jp, fsa.go.jp, jsda.or.jp）の範囲に限定して読む。^[source:odx.co.jp; fsa.go.jp; jsda.or.jp; jpx.co.jp]
 
 | 項目 | 公開情報上の読み方 |
 |---|---|
@@ -35,6 +37,8 @@ ODX（大阪デジタルエクスチェンジ, Osaka Digital Exchange）は、SB
 ## 所有と戦略的整合性
 
 ODXの創業時資本構成は、単一社の商品ではなく、意図的なクロスセクター連合である。
+
+以下の表は、エントリ出典インベントリの公開一次資料（odx.co.jp, fsa.go.jp, jsda.or.jp）の範囲に限定して読む。^[source:odx.co.jp; fsa.go.jp; jsda.or.jp; jpx.co.jp]
 
 | アンカー | 戦略的関心 |
 |---|---|
@@ -53,6 +57,8 @@ ODXの創業時資本構成は、単一社の商品ではなく、意図的な�
 - または、FSA告示 / 内閣府令を通じてFIEAの「トークン化証券」取扱いに当てはめられるその他の商品。
 
 実務上、START流通市場に到達するST発行には次が含まれる。
+
+以下の表は、エントリ出典インベントリの公開一次資料（odx.co.jp, fsa.go.jp, jsda.or.jp）の範囲に限定して読む。^[source:odx.co.jp; fsa.go.jp; jsda.or.jp; jpx.co.jp]
 
 | 資産タイプ | 例示構造 | 発行プラットフォーム |
 |---|---|---|
@@ -118,6 +124,8 @@ STARTはJSDA非上場PTS枠組みの下で運営される。この枠組みは�
 
 ## Japannext PTSとの比較
 
+以下の表は、エントリ出典インベントリの公開一次資料（odx.co.jp, fsa.go.jp, jsda.or.jp）の範囲に限定して読む。^[source:odx.co.jp; fsa.go.jp; jsda.or.jp; jpx.co.jp]
+
 | 観点 | Japannext PTS | ODX equity PTS | ODX START |
 |---|---|---|---|
 | 主な商品 | 現物株lit PTS（J-Market、X-Market） | 現物株PTS（より狭い範囲） | セキュリティトークン流通市場 |
@@ -130,6 +138,8 @@ STARTはJSDA非上場PTS枠組みの下で運営される。この枠組みは�
 Japannext固有のSOR文脈は[[securities/japannext-sor-routing-deep-dive|Japannext PTS SOR routing deep dive]]を参照。
 
 ## 規制・自主規制枠組み
+
+以下の表は、エントリ出典インベントリの公開一次資料（odx.co.jp, fsa.go.jp, jsda.or.jp）の範囲に限定して読む。^[source:odx.co.jp; fsa.go.jp; jsda.or.jp; jpx.co.jp]
 
 | レイヤー | 役割 |
 |---|---|

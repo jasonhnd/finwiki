@@ -9,8 +9,8 @@ aliases:
   - "CD市場"
 domain: "money-market"
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [money-market, NCD, certificate-of-deposit, BoJ, bank-funding]
@@ -46,6 +46,8 @@ NCD outstanding is one of the largest single short-term yen instrument balances 
 | Statistics | BoJ short-term financial market and deposit statistics; bank disclosure. | BoJ statistics surface |
 
 ## Instrument Mechanics
+
+The following table is scoped to public primary sources (boj.or.jp, fsa.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:boj.or.jp; fsa.go.jp; jsda.or.jp]
 
 | Element | Reading |
 |---|---|

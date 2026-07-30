@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/sompo-japan-insurance
-source_hash: 43e7da11e62ab641
+source_hash: 2d6a26d9e04a12c6
 lang: en
 status: machine
 fidelity: ok
 title: "Sompo Japan Insurance"
-translated_at: 2026-06-19T06:09:18.075Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Sompo Japan Insurance
@@ -20,6 +20,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 Sompo Japan Insurance Inc. is the core non-life insurance operating company of the [[non-life-insurers/sompo]] group. It is a licensed insurer listed on the FSA's non-life insurance company license list and on the member list of the Non-Life Insurance Policyholders Protection Corporation, carrying the SOMPO group's Japan non-life underwriting, claims, agency and commercial-risk surface.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (sompo-japan.co.jp, fsa.go.jp, sonpohogo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:sompo-japan.co.jp; fsa.go.jp; sonpohogo.or.jp]
 
 | Item | Notes |
 |---|---|

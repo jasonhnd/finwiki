@@ -6,8 +6,8 @@ aliases:
   - "日本 IPO 上場 disclosure route"
 domain: "securities"
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-22
 confidence: likely
 tags: [securities, IPO, listing, disclosure, JPX, EDINET, TDnet]
@@ -36,6 +36,8 @@ This page belongs to [[securities/INDEX|securities domain]] and links to [[finan
 
 ## Route Map
 
+The following table is scoped to public primary sources (jpx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp]
+
 | Layer | Public source route | Public record field |
 |---|---|---|
 | Listing venue | JPX / TSE listing pages | Market segment, listing criteria, listing schedule, listing approval. |
@@ -55,6 +57,8 @@ Initial listing criteria differ by segment. JPX publishes separate criteria and 
 
 ## Public Listing Route
 
+The following table is scoped to public primary sources (jpx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp]
+
 | Stage | Public record fields |
 |---|---|
 | Pre-listing preparation | Audit status, internal control system, governance, capital policy, lead underwriter, listing segment. |
@@ -68,6 +72,8 @@ Initial listing criteria differ by segment. JPX publishes separate criteria and 
 ## New-Listing Document Fields
 
 JPX's public new-listings page provides rolling issuer records. The source pack records the following public document links commonly visible on the new-listings page:
+
+The following table is scoped to public primary sources (jpx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp]
 
 | Document / field | Public content route |
 |---|---|
@@ -87,6 +93,8 @@ JPX states that TDnet-posted disclosure is made publicly inspectable at the same
 
 ## Timing Fields
 
+The following table is scoped to public primary sources (jpx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp]
+
 | Source route | Timing field |
 |---|---|
 | JPX listing schedule page | Kickoff to listing is about one year depending on company internal systems. |
@@ -97,6 +105,8 @@ JPX states that TDnet-posted disclosure is made publicly inspectable at the same
 The JPX listing schedule page viewed in the source pack showed an update date of 2022-04-03. Timing fields are recorded as schedule-page fields, not issuer-specific actual timelines.
 
 ## IPO Document Fields
+
+The following table is scoped to public primary sources (jpx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp]
 
 | Field | Document route |
 |---|---|

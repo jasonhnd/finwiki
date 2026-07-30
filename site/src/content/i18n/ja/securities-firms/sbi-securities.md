@@ -1,12 +1,12 @@
 ---
 source: securities-firms/sbi-securities
-source_hash: 80d50d79aae4d60d
+source_hash: 9fa8e0a37c7f7ae8
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "SBI証券 (SBI Securities)"
-translated_at: 2026-06-26T08:32:07.544Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # SBI証券 (SBI Securities)
@@ -18,6 +18,8 @@ translated_at: 2026-06-26T08:32:07.544Z
 株式会社SBI証券は、[[megabanks/sbi-hd|SBI HD]] のオンライン証券中核会社で、金融商品取引法上の **第一種金融商品取引業者** として金融庁の金融商品取引業者一覧に「株式会社SBI証券」（関東財務局長(金商)第44号）で掲載される。国内最大級の online comprehensive broker として、日本の retail 証券仲介 / NISA / iDeCo / オンライン取引導線を見る上で、SBI グループ本体とは分けて扱うべき operating company。
 
 ## 1. ライセンス／グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（sbigroup.co.jp, fsa.go.jp, jsda.or.jp）の範囲に限定して読む。^[source:sbigroup.co.jp; fsa.go.jp; jsda.or.jp; sbisec.co.jp]
 
 | Item | Notes |
 |---|---|

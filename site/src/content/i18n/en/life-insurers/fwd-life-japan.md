@@ -1,11 +1,11 @@
 ---
 source: life-insurers/fwd-life-japan
-source_hash: 87cbd13b223fc59b
+source_hash: 50fc64f73b159d63
 lang: en
 status: machine
 fidelity: ok
 title: "FWD Life Insurance"
-translated_at: 2026-06-15T04:20:20.012Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # FWD Life Insurance
@@ -19,6 +19,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 FWD Life Insurance Company, Limited (FWD生命保険株式会社) is a foreign-affiliated Japan life insurer listed on the FSA's life-insurance company license list. In JapanFG, as the Japan operating company of a foreign insurance group, it is compared with [[life-insurers/nn-life-japan]], [[life-insurers/metlife-japan]], [[life-insurers/manulife-japan]], [[life-insurers/prudential-japan]], and others.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, fwdlife.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; fwdlife.co.jp]
 
 | Item | Notes |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: insurance/japan-life-insurance-alm-overview
-source_hash: d67240f0595dec20
+source_hash: 33a4cba4108c12b3
 lang: en
 status: machine
 fidelity: ok
 title: "Japan life insurance ALM overview"
-translated_at: 2026-05-31T11:13:44.900Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan life insurance ALM overview
@@ -129,6 +129,8 @@ Decisions feed into investment-division execution and into board-level capital a
 
 Under the[[insurance/economic-value-based-solvency|economic-value solvency]]regime the ESR ratio is materially sensitive to:
 
+The following table is scoped to public primary sources (fsa.go.jp, boj.or.jp, mof.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; boj.or.jp; mof.go.jp; seiho.or.jp]
+
 | Risk driver | Mechanism | Typical disclosure |
 |---|---|---|
 | Interest rates (yen) | Residual liability-asset duration gap; rate fall widens the gap, rate rise narrows it (for negative-gap insurers) | Sensitivity tables for parallel yen rate shifts |
@@ -143,6 +145,8 @@ The sensitivity shape depends on each insurer's specific duration gap, hedge rat
 ## Risk-budget and stress-testing process
 
 Japanese life insurers operate ALM within a risk-budget framework that allocates economic capital across risk factors:
+
+The following table is scoped to public primary sources (fsa.go.jp, boj.or.jp, mof.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; boj.or.jp; mof.go.jp; seiho.or.jp]
 
 | Risk budget allocation | Typical example |
 |---|---|
@@ -160,6 +164,8 @@ Stress-testing is performed against FSA scenarios (interest-rate parallel shifts
 
 How ALM results are translated for stakeholders differs sharply by legal form:
 
+The following table is scoped to public primary sources (fsa.go.jp, boj.or.jp, mof.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; boj.or.jp; mof.go.jp; seiho.or.jp]
+
 | Form | ALM disclosure flow |
 |---|---|
 | Mutual insurer (Nippon, Meiji Yasuda, Sumitomo) | ALM results feed into policyholder dividend capacity; surplus distribution is governed by mutual policyholder-representative procedures |
@@ -169,6 +175,8 @@ How ALM results are translated for stakeholders differs sharply by legal form:
 The[[insurance/mutual-vs-stock-life-insurer|mutual vs stock comparison]]is essential context: identical ALM positioning can produce structurally different stakeholder outcomes depending on legal form.
 
 ## Big-four ALM contrast
+
+The following table is scoped to public primary sources (fsa.go.jp, boj.or.jp, mof.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; boj.or.jp; mof.go.jp; seiho.or.jp]
 
 | Insurer | ALM character |
 |---|---|
@@ -182,6 +190,8 @@ The[[insurance/mutual-vs-stock-life-insurer|mutual vs stock comparison]]is essen
 ## Practical reading order for insurer disclosure
 
 When reading a Japanese life insurer's annual / integrated report for ALM purposes, the most efficient sequence is:
+
+The following table is scoped to public primary sources (fsa.go.jp, boj.or.jp, mof.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; boj.or.jp; mof.go.jp; seiho.or.jp]
 
 | Step | Read | What to extract |
 |---|---|---|

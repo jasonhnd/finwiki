@@ -1,11 +1,11 @@
 ---
 source: regional-banks/lawson-bank
-source_hash: 95daedb965f5bff9
+source_hash: cc886cf6efedce34
 lang: en
 status: machine
 fidelity: ok
 title: "Lawson Bank"
-translated_at: 2026-06-24T00:00:00.000Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Lawson Bank
 
@@ -28,6 +28,8 @@ Lawson Bank is a newer retail bank specialized in convenience-store ATMs. Lawson
 
 ### Key Chronology
 
+The following table is scoped to public primary sources (lawson.jp, fsa.go.jp, lawsonbank.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:lawson.jp; fsa.go.jp; lawsonbank.jp; zenginkyo.or.jp]
+
 | Date | Event |
 |---|---|
 | **2017-11-15** | **Lawson Bank, Inc. established** as part of the move toward an in-house bank.^[extracted] |
@@ -35,6 +37,8 @@ Lawson Bank is a newer retail bank specialized in convenience-store ATMs. Lawson
 | **2018-10-15** | **Lawson Bank opened**, moving the existing ATM network into a bank-licensed ATM platform.^[source:fsa-ginkou-2026] |
 
 ## 2. Business Segment Map
+
+The following table is scoped to public primary sources (lawson.jp, fsa.go.jp, lawsonbank.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:lawson.jp; fsa.go.jp; lawsonbank.jp; zenginkyo.or.jp]
 
 | Segment | Flagship product | Characteristics |
 |---|---|---|
@@ -53,6 +57,8 @@ Lawson's parent-company restructuring across retail, telecom, and trading-compan
 > Note: Speculation about future linkage scenarios, including indirect room for collaboration with [[megabanks/mufg]], is quarantined in `.opinions/JapanFG/lawson-bank.md` because there is no verifiable primary source.
 
 ### vs Seven Bank ([[regional-banks/seven-bank]])
+
+The following table is scoped to public primary sources (lawson.jp, fsa.go.jp, lawsonbank.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:lawson.jp; fsa.go.jp; lawsonbank.jp; zenginkyo.or.jp]
 
 | Axis | [[regional-banks/seven-bank]] | Lawson Bank |
 |---|---|---|

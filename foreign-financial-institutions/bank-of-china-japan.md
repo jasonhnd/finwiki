@@ -3,8 +3,8 @@ title: "中國銀行 東京支店"
 aliases: ["Bank of China Japan", "Bank of China Tokyo Branch", "中国銀行東京支店", "中國銀行", "BOC Japan"]
 domain: foreign-financial-institutions
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, banking, foreign-bank-branch, china, asia-corridor, operating-branch]
@@ -27,6 +27,8 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 中國銀行 東京支店は、金融庁の外国銀行支店一覧に掲載される mainland China / Bank of China の在日銀行支店。日本の [[regional-banks/chugoku-bank|中国銀行 / The Chugoku Bank]] とは別 entity であり、日中間の預金・貸出・貿易決済・資金決済・外国為替取引の主要 branch として扱う。
 
 ## 1. License / branch boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, bankofchina.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; bankofchina.com]
 
 | Item | Notes |
 |---|---|

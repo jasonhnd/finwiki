@@ -7,8 +7,8 @@ aliases:
   - "ユーロクリア日本支店"
 domain: foreign-financial-institutions
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-22
 confidence: likely
 tags: [JapanFG, foreign-bank, ICSD, custody, collateral, settlement]
@@ -48,6 +48,8 @@ That makes this page a peer of [[foreign-financial-institutions/clearstream-bank
 
 ## Function Stack
 
+The following table is scoped to public primary sources (fsa.go.jp, euroclear.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; euroclear.com]
+
 | Layer | Japan relevance | Main evidence route |
 |---|---|---|
 | Foreign-bank branch | FSA bank-license list identifies the Japan branch row. | FSA licensed-institution list / city bank foreign-branch PDF. |
@@ -57,6 +59,8 @@ That makes this page a peer of [[foreign-financial-institutions/clearstream-bank
 | System map | Euroclear analysis is linked with JASDEC, JSCC, JGB repo, and stock-lending routes. | [[securities/japan-securities-depository-center|JASDEC]], [[securities/japan-securities-clearing-corp|JSCC]], [[money-market/jgb-repo-market-japan|JGB repo]]. |
 
 ## Japan Asset Route
+
+The following table is scoped to public primary sources (fsa.go.jp, euroclear.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; euroclear.com]
 
 | Question | Reading route |
 |---|---|

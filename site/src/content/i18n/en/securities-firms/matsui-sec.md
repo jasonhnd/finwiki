@@ -1,11 +1,11 @@
 ---
 source: securities-firms/matsui-sec
-source_hash: c5390142600133a4
+source_hash: d605a5066d3bdd7b
 lang: en
 status: machine
 fidelity: ok
 title: "Matsui Securities"
-translated_at: 2026-06-24T00:00:00.000Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Matsui Securities
@@ -20,6 +20,8 @@ Matsui Securities is an independent online securities broker listed on TSE Prime
 
 ## 1. Company overview
 
+The following table is scoped to public primary sources (matsui.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:matsui.co.jp; fsa.go.jp]
+
 | Item | Reading |
 |---|---|
 | Legal name | Matsui Securities Co., Ltd. |
@@ -31,6 +33,8 @@ Matsui Securities is an independent online securities broker listed on TSE Prime
 | Business type | Independent online securities broker; the report states Matsui is independent and not affiliated with other companies.^[source:matsui-ir-2025] |
 
 ### License / registration boundary
+
+The following table is scoped to public primary sources (matsui.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:matsui.co.jp; fsa.go.jp]
 
 | Layer | Verified reading |
 |---|---|
@@ -58,6 +62,8 @@ Matsui is not a universal financial group. Its strategic position is a self-dire
 The historical break is May 1998: Matsui's public annual securities report says the company started "Netstock", the first full-fledged online brokerage service in Japan, and the first online margin trading service in Japan. This page treats 1998 as the shift from face-to-face retail brokerage to online self-directed brokerage.^[source:matsui-asr-2024]
 
 ## 3. Segment map
+
+The following table is scoped to public primary sources (matsui.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:matsui.co.jp; fsa.go.jp]
 
 | Segment | Role | Source-backed reading |
 |---|---|---|

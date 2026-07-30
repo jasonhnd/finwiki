@@ -9,8 +9,8 @@ aliases:
   - "non-life-insurers/taisho-kasai"
 domain: non-life-insurers
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, insurance, non-life-insurance, msad, operating-company]
@@ -50,6 +50,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 三井住友海上火災保険株式会社は、[[non-life-insurers/msad]] group の core non-life insurance operating company。金融庁の損害保険会社免許一覧に載る licensed insurer で、MS&AD group の corporate / commercial risk, auto, fire, marine, and overseas insurance capabilities を担う。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (ms-ins.com, fsa.go.jp, sonpohogo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:ms-ins.com; fsa.go.jp; sonpohogo.or.jp]
 
 | Item | Notes |
 |---|---|

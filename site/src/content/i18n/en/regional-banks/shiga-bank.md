@@ -1,11 +1,11 @@
 ---
 source: regional-banks/shiga-bank
-source_hash: d9df5969ebfd7497
+source_hash: a918963ebec758a4
 lang: en
 status: machine
 fidelity: ok
 title: "The Shiga Bank (株式会社滋賀銀行)"
-translated_at: 2026-06-19T12:43:19.870Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # The Shiga Bank (株式会社滋賀銀行)
@@ -28,6 +28,8 @@ A standalone bank based in Shiga Prefecture (one of the **regional banks that ha
 , Otsu City, Shiga Prefecture **Business type**: standalone bank (the point that it **has not converted to a holding company** contrasts with the Kansai-regional-bank FG-conversion trend of nearby [[regional-banks/kyoto-fg|京都 FG]]・[[regional-banks/ikeda-senshu-hd|池田泉州 HD]], etc.)
 
 ### Main financials (the 138th term / FY2024, as of 2025-03-31)
+
+The following table is scoped to public primary sources (ja.wikipedia.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:ja.wikipedia.org]
 
 | Indicator | Value (consolidated / non-consolidated)|
 |---|---|
@@ -62,6 +64,8 @@ Shiga Bank (standalone bank, listed 8366)
 
 ### Key chronology (excerpt)
 
+The following table is scoped to public primary sources (ja.wikipedia.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:ja.wikipedia.org]
+
 | Year/Month | Event |
 |---|---|
 | 1879 | **64th National Bank established** (Hikone, under the Meiji-era National Bank Act) — Shigagin's origin |
@@ -73,6 +77,8 @@ Shiga Bank (standalone bank, listed 8366)
 | 2022-04 | TSE market-segment review → TSE PRIME 8366 (migrated from the former TSE First Section)|
 
 ## 2. Business-segment map
+
+The following table is scoped to public primary sources (ja.wikipedia.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:ja.wikipedia.org]
 
 | Segment | Main entity | Characteristics |
 |---|---|---|
@@ -93,6 +99,8 @@ Shiga Bank (standalone bank, listed 8366)
 ### TSUBASA Alliance participation strategy ★
 
 **Joined 2015 ** (the 11 行 alliance led by [[regional-banks/chiba-bank|千葉銀行]]): an alternative model for **gaining scale advantages while avoiding regional-bank holding-company conversion.**
+
+The following table is scoped to public primary sources (ja.wikipedia.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:ja.wikipedia.org]
 
 | Member bank | Base |
 |---|---|

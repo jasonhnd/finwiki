@@ -3,8 +3,8 @@ title: "楽天Edy"
 aliases: ["Rakuten Edy", "楽天Edy", "楽天Edy株式会社", "楽天キャッシュ"]
 domain: payment-firms
 created: 2026-05-21
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, payments, prepaid, electronic-money, rakuten]
@@ -26,6 +26,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]] (its domain ro
 楽天Edy株式会社は、楽天グループの **前払式支払手段（prepaid-instrument under 資金決済法）** 発行会社。電子マネー「楽天Edy」は複数加盟店で使える **第三者型前払式支払手段** に該当し、当局の事前登録を要する。これは資金移動業（送金）ではなく、原則払戻し禁止の stored-value rail である点が重要。発行者には未使用残高の半額以上の発行保証金供託が義務づけられる（保有者保護）。[[payment-firms/rakuten-fg|Rakuten]] のポイント・楽天キャッシュ・楽天ペイ・カードと隣接する prepaid 層を担う。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (edy.rakuten.co.jp, s-kessai.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:edy.rakuten.co.jp; s-kessai.jp; fsa.go.jp]
 
 | Item | Notes |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: securities-firms/iwai-cosmo-securities
-source_hash: 1b3a7de1a05571c9
+source_hash: b457639826f85c43
 lang: ja
 status: machine
 fidelity: ok
 title: "岩井コスモ証券 (IwaiCosmo Securities)"
-translated_at: 2026-07-28T20:55:25Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 岩井コスモ証券 (IwaiCosmo Securities)
@@ -70,6 +70,8 @@ translated_at: 2026-07-28T20:55:25Z
 - **戦略**：「対面 × 高齢富裕層 × 海外株 × コンサルティング」モデルを継続深化
 
 ## 6. 沿革
+
+以下の表は、エントリ出典インベントリの公開一次資料（iwaicosmo.co.jp, iwaicosmo-hd.jp, fsa.go.jp）の範囲に限定して読む。^[source:iwaicosmo.co.jp; iwaicosmo-hd.jp; fsa.go.jp]
 
 | 年月 | 事項 |
 |------|------|

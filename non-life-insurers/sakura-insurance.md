@@ -3,8 +3,8 @@ title: "Sakura Insurance / さくら損害保険"
 aliases: ["さくら損害保険", "さくら損害保険株式会社", "Sakura Insurance"]
 domain: non-life-insurers
 created: 2026-05-23
-last_updated: 2026-05-23
-last_tended: 2026-05-23
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-23
 confidence: likely
 tags: [JapanFG, non-life-insurance, device-insurance, specialty-insurer, public-source]
@@ -28,6 +28,8 @@ Sakura Insurance is a licensed specialty non-life insurer whose public materials
 This page covers さくら損害保険株式会社. It should not be confused with similarly named insurance agencies or Sakura Internet / Sakura Bank historical references.
 
 ## Business Role Map
+
+The following table is scoped to public primary sources (fsa.go.jp, sakura-ins.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sakura-ins.co.jp]
 
 | Route | Reading |
 |---|---|

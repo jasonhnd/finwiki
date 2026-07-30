@@ -1,11 +1,11 @@
 ---
 source: securities-firms/tachibana-securities
-source_hash: f7dd212a3659602f
+source_hash: 75e23c9157b72ee9
 lang: en
 status: machine
 fidelity: ok
 title: "Tachibana Securities"
-translated_at: 2026-06-01T02:31:57.153Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Tachibana Securities
@@ -19,6 +19,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 Tachibana Securities is a **mid-sized independent securities company founded in 1948 年**. In the FSA Financial Instruments Business Operators list, it appears as "Tachibana Securities Co., Ltd." under Director-General of the Kanto Local Finance Bureau (FIBO) 第110号. It is a **regular member of the Japan Securities Dealers Association ([[financial-regulators/jsda|JSDA]])** and operates from Tokyo as an unlisted, independent mid-sized securities firm, combining face-to-face retail with the margin-trading-specialized online service "Tachibana Securities Stock House." It sits alongside peers ([[securities-firms/marusan-securities|丸三証券]] / [[securities-firms/aizawa-sg|アイザワ証券]] / [[securities-firms/iwai-cosmo-hd|岩井コスモ]]) in the mid-sized independent securities frame, but differentiates itself by specializing in the **active-trader niche for margin trading**.
 
 ## 1. Legal-Entity / License Boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, tachibana-sec.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; tachibana-sec.co.jp]
 
 | Item | Reading |
 |---|---|
@@ -46,11 +48,15 @@ Tachibana Securities is an **unlisted** mid-sized independent securities company
 
 ### Important Timeline (Public-Information Basis)
 
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, tachibana-sec.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; tachibana-sec.co.jp]
+
 | Date | Event |
 |---|---|
 | **1948** | **Tachibana Securities Co., Ltd. founded** (postwar reconstruction period, Tokyo) ^[extracted] |
 
 ## 3. Business Segment Map
+
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, tachibana-sec.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; tachibana-sec.co.jp]
 
 | Segment | Description | Characteristics |
 |---|---|---|

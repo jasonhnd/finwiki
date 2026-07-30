@@ -3,8 +3,8 @@ title: 株式会社滋賀銀行 (The Shiga Bank)
 aliases: ["Shiga Bank", "The Shiga Bank, Ltd.", "滋賀銀行", "しがぎんこう", "しがぎん"]
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, kansai]
@@ -36,6 +36,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 **業態**：単独銀行（**持株会社化していない**点が、近隣の [[regional-banks/kyoto-fg|京都 FG]]・[[regional-banks/ikeda-senshu-hd|池田泉州 HD]] 等の関西地銀 FG 化トレンドと対照的）
 
 ### 主要財務（第138期 / FY2024、2025-03-31 現在）
+
+The following table is scoped to public primary sources (ja.wikipedia.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:ja.wikipedia.org]
 
 | 指標 | 数値（連結 / 単体）|
 |---|---|
@@ -70,6 +72,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ### 重要年表（抜粋）
 
+The following table is scoped to public primary sources (ja.wikipedia.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:ja.wikipedia.org]
+
 | 年月 | 事象 |
 |---|---|
 | 1879 | **第六十四国立銀行 設立**（彦根、明治期国立銀行条例下）— しがぎんの源流 |
@@ -81,6 +85,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 | 2022-04 | 東証市場区分見直し → 東証 PRIME 8366（旧東証一部から移行）|
 
 ## 2. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (ja.wikipedia.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:ja.wikipedia.org]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

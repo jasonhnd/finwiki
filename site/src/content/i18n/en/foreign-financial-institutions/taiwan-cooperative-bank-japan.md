@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/taiwan-cooperative-bank-japan
-source_hash: ca0d2b221d21cb5d
+source_hash: 638f91ef6fa202a2
 lang: en
 status: machine
 fidelity: ok
 title: "合作金庫商業銀行日本 (Taiwan Cooperative Bank Japan)"
-translated_at: 2026-06-01T02:31:57.121Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 合作金庫商業銀行日本 (Taiwan Cooperative Bank Japan)
 
@@ -23,6 +23,8 @@ The page is worth standalone treatment because Taiwan Cooperative Bank was one o
 
 ## Entity Boundary
 
+The following table is scoped to public primary sources (fsa.go.jp, tcb-bank.com.tw, fsc.gov.tw). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; tcb-bank.com.tw; fsc.gov.tw]
+
 | Item | Reading |
 |---|---|
 | Parent bank | Taiwan Cooperative Bank |
@@ -32,6 +34,8 @@ The page is worth standalone treatment because Taiwan Cooperative Bank was one o
 | Regulatory route | FSA foreign-bank branch list |
 
 ## Business Role Map
+
+The following table is scoped to public primary sources (fsa.go.jp, tcb-bank.com.tw, fsc.gov.tw). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; tcb-bank.com.tw; fsc.gov.tw]
 
 | Function | Japan relevance |
 |---|---|

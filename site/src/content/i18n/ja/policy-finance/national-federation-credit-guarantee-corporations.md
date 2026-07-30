@@ -1,11 +1,11 @@
 ---
 source: policy-finance/national-federation-credit-guarantee-corporations
-source_hash: 7e23d0532a4fb296
+source_hash: a20bb430d1a4285f
 lang: ja
 status: machine
 fidelity: ok
 title: "全国信用保証協会連合会"
-translated_at: 2026-06-03T00:53:08.340Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 全国信用保証協会連合会
 
@@ -18,6 +18,8 @@ translated_at: 2026-06-03T00:53:08.340Z
 全国信用保証協会連合会 (一般社団法人全国信用保証協会連合会, **JFG** / **全信保連**) は、日本の 51 地方信用保証協会 (47 都道府県 + 4 市 CGC — 横浜 / 川崎 / 名古屋 / 岐阜) の全国連合会である。これは**保証制度そのものではない**。51 地方 CGC の上に位置し、[[financial-regulators/jfc|JFC]] 信用保険と METI / 中小企業庁政策に接続する、調整、調査、研修、システム管理、金融支援の主体である。運用上最も重要な機能は、**責任共有制度**の全国的な金融フロー管理である。2020–2022 の ZeroZero ローン展開時、JFG は 51 CGC 全体に統一的な運用基準を設定する連合会レベルの調整主体であり、現在は代位弁済の波が 2023–2026を通過する中でポスト COVID 出口枠組みを調整している。
 
 ## 1. 機関概要
+
+以下の表は、エントリ出典インベントリの公開一次資料（zenshinhoren.or.jp, chusho.meti.go.jp, jfc.go.jp）の範囲に限定して読む。^[source:zenshinhoren.or.jp; chusho.meti.go.jp; jfc.go.jp]
 
 | 項目 | 内容 |
 |---|---|
@@ -43,6 +45,8 @@ translated_at: 2026-06-03T00:53:08.340Z
 
 ## 3. JFG 役割マップ
 
+以下の表は、エントリ出典インベントリの公開一次資料（zenshinhoren.or.jp, chusho.meti.go.jp, jfc.go.jp）の範囲に限定して読む。^[source:zenshinhoren.or.jp; chusho.meti.go.jp; jfc.go.jp]
+
 | 役割 | 詳細 |
 |---|---|
 | 会員支援 | 51 地方 CGC への金融 / 運用 / IT / 研修支援。標準運用手順。リスク管理調整。 |
@@ -60,6 +64,8 @@ translated_at: 2026-06-03T00:53:08.340Z
 
 JFG は、**2020–2022 ZeroZero loan** の展開 (実質無利子・無担保融資) における連合会レベルの運用調整主体だった。制度レベルの仕組みは [[policy-finance/japan-credit-guarantee-system]] を参照。JFG の役割:
 
+以下の表は、エントリ出典インベントリの公開一次資料（zenshinhoren.or.jp, chusho.meti.go.jp, jfc.go.jp）の範囲に限定して読む。^[source:zenshinhoren.or.jp; chusho.meti.go.jp; jfc.go.jp]
+
 | フェーズ | JFG の対応 |
 |---|---|
 | プログラム設計 (2020-04) | ZeroZero 申請書、貸し手-CGC 運用インターフェース、適格性確認、書類基準を連合会レベルで標準化。 |
@@ -75,6 +81,8 @@ JFG は、**2020–2022 ZeroZero loan** の展開 (実質無利子・無担保�
 ## 5. 保証残高による会員 CGC ランキング
 
 51 会員 CGC のうち、保証残高で最大級の協会には通常以下が含まれる。
+
+以下の表は、エントリ出典インベントリの公開一次資料（zenshinhoren.or.jp, chusho.meti.go.jp, jfc.go.jp）の範囲に限定して読む。^[source:zenshinhoren.or.jp; chusho.meti.go.jp; jfc.go.jp]
 
 | ランク層 | CGC (例示) | 理由 |
 |---|---|---|
@@ -97,6 +105,8 @@ JFG は、**2020–2022 ZeroZero loan** の展開 (実質無利子・無担保�
 JFC は、前身の中小企業信用保険公庫 (1958) から信用保険業務を承継した。同公庫は政策金融再編の一環として 2008 に JFC へ統合された。信用保険業務は現在、JFC の直接 SME / 小規模事業 / 農林漁業 / 国際融資と並んで JFC 内で運営されている。[[financial-regulators/jfc]] を参照。
 
 ## 7. 年次進化
+
+以下の表は、エントリ出典インベントリの公開一次資料（zenshinhoren.or.jp, chusho.meti.go.jp, jfc.go.jp）の範囲に限定して読む。^[source:zenshinhoren.or.jp; chusho.meti.go.jp; jfc.go.jp]
 
 | 年 | 出来事 |
 |---|---|

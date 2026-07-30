@@ -6,8 +6,8 @@ aliases:
   - "あと払い credit purchase boundary"
 domain: "payments"
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-22
 confidence: likely
 tags: [payments, BNPL, installment-sales, credit-purchase, Paidy, consumer-credit]
@@ -56,6 +56,8 @@ Japan had mature installment-sales and card-installment infrastructure before th
 - wallet / points ecosystems around [[payment-firms/paypay|PayPay]], [[payment-firms/rakuten-fg|Rakuten FG]], and [[payment-firms/mercari-hd|Mercari HD]].
 
 ## Risk Questions
+
+The following table is scoped to public primary sources (meti.go.jp, j-credit.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; j-credit.or.jp]
 
 | Risk | Question |
 |---|---|

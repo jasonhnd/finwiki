@@ -1,11 +1,11 @@
 ---
 source: regional-banks/howa-bank
-source_hash: a576f8f11a9e3229
+source_hash: 6be395d955dc13fa
 lang: ja
 status: machine
 fidelity: ok
 title: "豊和銀行"
-translated_at: 2026-06-15T04:09:41.180Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 豊和銀行
@@ -20,6 +20,8 @@ translated_at: 2026-06-15T04:09:41.180Z
 株式会社豊和銀行 (The Howa Bank) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される大分県大分市本店の第二地方銀行。大分県の第二地銀オペレーティングカンパニーのアンカーであり、第一地銀の [[regional-banks/oita-bank|大分銀行]] とは別法人のローカルピア。事業の中身は県内の預金受入と中小企業・個人向け貸出という地方銀行の標準モデル。
 
 ## 1. 免許／グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, howabank.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; howabank.co.jp]
 
 | 項目 | 備考 |
 |---|---|

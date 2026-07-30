@@ -1,11 +1,11 @@
 ---
 source: regional-banks/towa-bank
-source_hash: 849036392a9ed59e
+source_hash: d5a0deae75eb2362
 lang: en
 status: machine
 fidelity: ok
 title: "The Towa Bank, Ltd. (東和銀行)"
-translated_at: 2026-06-19T12:43:19.964Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # The Towa Bank, Ltd. (東和銀行)
@@ -51,6 +51,8 @@ Towa Bank (standalone / listed 8558)
 
 ### Chronology ^[extracted]
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Date | Event |
 |---|---|
 | **1917-11-01** | **Gunma Mujin Co., Ltd. established** (founding) |
@@ -77,6 +79,8 @@ A bank that followed the typical business-category evolution of a Japanese SME f
 
 ## 3. Business segment map
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Segment | Characteristics |
 |---|---|
 | In-prefecture SME corporate | Gunma Prefecture, Maebashi, Takasaki, Ota, Isesaki, etc., with SME specialization at the core |
@@ -101,6 +105,8 @@ A bank that followed the typical business-category evolution of a Japanese SME f
 - A typical example of maintaining a standalone structure without joining a large group while complementing on a wide-area basis through strategic cooperation
 
 ### Competitive structure
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Competitor | Characteristics |
 |---|---|

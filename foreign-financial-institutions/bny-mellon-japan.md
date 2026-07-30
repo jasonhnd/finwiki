@@ -3,8 +3,8 @@ title: BNY メロン日本 (BNY Mellon Japan)
 aliases: ["BNY Mellon Japan", "BNY メロン", "BNY Mellon", "Bank of New York Mellon", "ザ・バンク・オブ・ニューヨーク・メロン", "ザ・バンク・オブ・ニューヨーク・メロン東京支店", "BNY メロン信託銀行", "BNY メロン信託銀行株式会社", "BNY Mellon Trust Bank", "BNY メロン・アセット・マネジメント・ジャパン", "BNY Mellon Asset Management Japan", "The Bank of New York Mellon"]
 domain: foreign-financial-institutions
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, foreign-bank, custody]
@@ -58,6 +58,8 @@ BNY の日本公式ページは 2009 年に日本の信託銀行事業を買収�
 
 ## 2. 沿革（年表抜粋）
 
+The following table is scoped to public primary sources (bny.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:bny.com]
+
 | 年 | 事象 |
 |---|---|
 | **1968** | **The Bank of New York 日本事業開始**（東京での銀行業務スタート）^[extracted] |
@@ -68,6 +70,8 @@ BNY の日本公式ページは 2009 年に日本の信託銀行事業を買収�
 | 2010s | **邦銀・年金基金（GPIF 等）のグローバルカストディ受託拡大**（円安・海外投資シフトの追い風）^[extracted] |
 
 ## 3. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (bny.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:bny.com]
 
 | セグメント | 在日担い手 | 特徴 |
 |---|---|---|
@@ -83,6 +87,8 @@ BNY の日本公式ページは 2009 年に日本の信託銀行事業を買収�
 - **MUFG 等の大株主リストに登場**：[[megabanks/mufg]] 株主構成で **The Bank of New York Mellon 3.61%**（2025-03-31）として登場するのは、**機関投資家の海外保管口座経由の名義集約** に伴う一般的構造 ^[extracted]
 
 ### 主要競合
+
+The following table is scoped to public primary sources (bny.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:bny.com]
 
 | 領域 | 主要競合 |
 |---|---|

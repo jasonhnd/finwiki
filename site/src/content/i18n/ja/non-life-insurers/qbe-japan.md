@@ -1,12 +1,12 @@
 ---
 source: non-life-insurers/qbe-japan
-source_hash: 19cba8105ee04388
+source_hash: cceb7b6d876479e7
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "QBE Japan / QBEインシュアランス・ジャパン"
-translated_at: 2026-06-26T08:32:07.559Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # QBE Japan / QBEインシュアランス・ジャパン
 
@@ -19,6 +19,8 @@ translated_at: 2026-06-26T08:32:07.559Z
 QBE Insurance Group は、オーストラリア・シドニーに本社を置き、ASX に上場する世界有数の企業保険・専門保険グループである。アジア事業には日本拠点が含まれ、企業向け財物、海上、賠償責任、金融ライン、取引信用 / 保証に注力する。QBE Japan は多国籍企業の顧客を対象とし、QBE の北アジア地域体制の一部として、東京の専門保険市場で [[non-life-insurers/lloyd-japan|Lloyd's Japan]] や [[non-life-insurers/allianz-fire-marine-japan|Allianz Fire and Marine Insurance Japan]] など他の外資系専門保険会社と並ぶ位置にある。
 
 ## 1. 免許・グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, qbe.com）の範囲に限定して読む。^[source:fsa.go.jp; qbe.com]
 
 | 項目 | 注記 |
 |---|---|

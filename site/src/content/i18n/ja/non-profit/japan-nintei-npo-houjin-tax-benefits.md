@@ -1,12 +1,12 @@
 ---
 source: non-profit/japan-nintei-npo-houjin-tax-benefits
-source_hash: fd3410c3bd50a606
+source_hash: a5644df62446351f
 lang: ja
 model: claude-opus-4-8
 status: machine
 fidelity: ok
 title: "日本 認定NPO法人 — 認定ルートと寄付者の税制優遇"
-translated_at: 2026-06-05T00:00:00.000Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本 認定NPO法人 — 認定ルートと寄付者の税制優遇
@@ -21,6 +21,8 @@ translated_at: 2026-06-05T00:00:00.000Z
 
 ## 誰が認定するか、そしてどの法律の下で
 
+以下の表は、エントリ出典インベントリの公開一次資料（npo-homepage.go.jp, nta.go.jp, laws.e-gov.go.jp）の範囲に限定して読む。^[source:npo-homepage.go.jp; nta.go.jp; laws.e-gov.go.jp]
+
 | 属性 | 詳細 |
 |---|---|
 | 法律 | 特定非営利活動促進法 (NPO Act)；認定 ルートは **2011/2012 改革** で追加、ガバナンスは **2024** に厳格化 |
@@ -33,6 +35,8 @@ translated_at: 2026-06-05T00:00:00.000Z
 ## The Public Support Test (PST)
 
 PST は問う：**この NPO は公衆によって広く支援されているか？** 申請者は三つの代替基準の **いずれか一つ** を満たさなければならない：
+
+以下の表は、エントリ出典インベントリの公開一次資料（npo-homepage.go.jp, nta.go.jp, laws.e-gov.go.jp）の範囲に限定して読む。^[source:npo-homepage.go.jp; nta.go.jp; laws.e-gov.go.jp]
 
 | 基準 | 閾値 |
 |---|---|
@@ -55,6 +59,8 @@ PST は認定 NPO 制度の分析的中核である：それは「広範な公�
 
 恩典は **寄付者** に発生し、エンティティにではない。これがまさに 認定 ステータスが組織の資金調達基盤を広げる理由である：
 
+以下の表は、エントリ出典インベントリの公開一次資料（npo-homepage.go.jp, nta.go.jp, laws.e-gov.go.jp）の範囲に限定して読む。^[source:npo-homepage.go.jp; nta.go.jp; laws.e-gov.go.jp]
+
 | 寄付者の種類 | 認定NPO法人 の下での恩典 |
 |---|---|
 | 個人所得税 | **所得控除 (income deduction) OR 税額控除 (tax credit)** —— 寄付者がより有利なものを選択 |
@@ -66,6 +72,8 @@ PST は認定 NPO 制度の分析的中核である：それは「広範な公�
 **税額控除** の選択肢は、課税所得を単に減らすのではなく税負担を直接減らすため、小口の個人寄付者にとって特に強力である —— 草の根の寄付を広げる意図的な政策レバーである。
 
 ## これが 公益 ステータスとどう比較されるか
+
+以下の表は、エントリ出典インベントリの公開一次資料（npo-homepage.go.jp, nta.go.jp, laws.e-gov.go.jp）の範囲に限定して読む。^[source:npo-homepage.go.jp; nta.go.jp; laws.e-gov.go.jp]
 
 | レバー | 認定NPO法人 | 公益財団 / 公益社団 |
 |---|---|---|

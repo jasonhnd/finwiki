@@ -9,8 +9,8 @@ aliases:
   - "ソシエテ・ジェネラル証券"
 domain: foreign-financial-institutions
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-16
 confidence: likely
 tags: [JapanFG, foreign-bank, foreign-ib, france]
@@ -34,6 +34,8 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 
 ## 1. 会社概要
 
+The following table is scoped to public primary sources (societegenerale.asia, wholesale.banking.societegenerale.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:societegenerale.asia; wholesale.banking.societegenerale.com; fsa.go.jp]
+
 | 項目 | 内容 |
 |---|---|
 | 親会社 | Societe Generale S.A. |
@@ -46,6 +48,8 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 金融庁の登録金融機関一覧では、ソシエテ・ジェネラル銀行東京支店は関東財務局長（登金）第90号の登録金融機関として確認できる。外国銀行代理銀行一覧では、ソシエテ・ジェネラル銀行東京支店に関する認可も確認できる。
 
 ## 2. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (societegenerale.asia, wholesale.banking.societegenerale.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:societegenerale.asia; wholesale.banking.societegenerale.com; fsa.go.jp]
 
 | 事業 | 内容 | 日本での位置づけ |
 |---|---|---|

@@ -3,8 +3,8 @@ title: "Payoneer Japan"
 aliases: ["Payoneer Japan", "Payoneer Japan K.K.", "Payoneer Japan Ltd.", "ペイオニア・ジャパン", "ペイオニア・ジャパン株式会社"]
 domain: payment-firms
 created: 2026-05-21
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, payments, remittance, marketplace-payout, funds-transfer]
@@ -26,6 +26,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]] (its domain ro
 ペイオニア・ジャパン株式会社は、米 Payoneer グループの日本拠点で、FSA 登録の **第二種資金移動業者**（type-II funds-transfer operator under 資金決済法; 関東財務局長 第00045号）。2015 年設立、本社は東京・渋谷。グローバルな marketplace payout / freelancer / supplier-payment の文脈で重要で、海外プラットフォーム収入を受け取る越境セラーや事業者の受払いを担う。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (payoneer.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:payoneer.com; fsa.go.jp]
 
 | Item | Notes |
 |---|---|

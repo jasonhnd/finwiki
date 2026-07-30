@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/pet-and-family-insurance
-source_hash: eeb9439542a10bd9
+source_hash: 9ab9aa3a6d6336ea
 lang: ja
 status: machine
 fidelity: ok
 title: "ペット＆ファミリー損害保険"
-translated_at: 2026-06-02T15:14:17.139Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # ペット＆ファミリー損害保険
 
@@ -22,6 +22,8 @@ translated_at: 2026-06-02T15:14:17.139Z
 このページが重要なのは、ペット保険が同グループの中核生命保険会社である [[life-insurers/daido-life|Daido Life]]、[[life-insurers/taiyo-life|Taiyo Life]]、[[life-insurers/td-financial-life|T&D Financial Life]] とは異なる専門保険ラインだからである。
 
 ## 1. 免許・グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, petfamilyins.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; petfamilyins.co.jp]
 
 | 項目 | 注記 |
 |---|---|

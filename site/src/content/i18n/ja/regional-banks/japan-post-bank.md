@@ -1,11 +1,11 @@
 ---
 source: regional-banks/japan-post-bank
-source_hash: a4781245e75b4a61
+source_hash: 4c6c5986ce186765
 lang: ja
 status: machine
 fidelity: ok
 title: "ゆうちょ銀行（株式会社ゆうちょ銀行 / 7182）オペレーティング・プロファイル"
-translated_at: 2026-06-22T06:12:59.592Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # ゆうちょ銀行（株式会社ゆうちょ銀行 / 7182）オペレーティング・プロファイル
@@ -15,6 +15,8 @@ translated_at: 2026-06-22T06:12:59.592Z
 本項目は [[regional-banks/INDEX|regional-banks INDEX]] の下に、[[regional-banks/yucho|ゆうちょ銀行 (Japan Post Bank) entity anchor]] のエンティティアンカーに対するオペレーティング・プロファイルのコンパニオンとして位置づけられる。メガバンクの資産クラスのピア比較として [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|Mizuho FG]] と、上場の非メガバンク・ユニバーサルバンクのピアとして [[megabanks/resona-hd|りそなホールディングス]] と、メガバンク以外で最大級の預金量システムとして [[banking/cooperative-banking-japan|cooperative banking Japan]] と、上場リテール銀行の世界においてゆうちょ銀行がどこに位置するかの構造的読みとして [[banking/post-megabank-positioning|post-megabank positioning]] と対照して読むこと。残余の政府金融の周縁として [[policy-finance/japan-policy-finance-system|Japan policy finance system]] と、デジタル流通の比較対象として [[banking/japan-net-bank-competition-map|Japan net bank competition map]] と併せること。
 
 ## 1. グループおよび所有ポジション
+
+以下の表は、エントリ出典インベントリの公開一次資料（jp-bank.japanpost.jp, japanpost.jp, fsa.go.jp）の範囲に限定して読む。^[source:jp-bank.japanpost.jp; japanpost.jp; fsa.go.jp; mof.go.jp]
 
 | 項目 | 読み |
 |---|---|
@@ -43,6 +45,8 @@ translated_at: 2026-06-22T06:12:59.592Z
 
 ### 参照タイムライン
 
+以下の表は、エントリ出典インベントリの公開一次資料（jp-bank.japanpost.jp, japanpost.jp, fsa.go.jp）の範囲に限定して読む。^[source:jp-bank.japanpost.jp; japanpost.jp; fsa.go.jp; mof.go.jp]
+
 | 年 | イベント |
 |---|---|
 | 1875  | 郵便貯金（「郵便貯金」）が明治期の郵便制度の下で起源 |
@@ -57,6 +61,8 @@ translated_at: 2026-06-22T06:12:59.592Z
 | 2024-2026  | 段階的な日銀の金利正常化サイクル、JPB の NIM と JGB ポートフォリオの時価評価に重大な影響 |
 
 ### 資産側：預金資金型だが融資主導型ではない
+
+以下の表は、エントリ出典インベントリの公開一次資料（jp-bank.japanpost.jp, japanpost.jp, fsa.go.jp）の範囲に限定して読む。^[source:jp-bank.japanpost.jp; japanpost.jp; fsa.go.jp; mof.go.jp]
 
 | 側面 | メガバンク典型 | ゆうちょ銀行 |
 |---|---|---|
@@ -94,6 +100,8 @@ JPB は顧客向けカウンターのほとんどを所有していない。取�
 ゆうちょ銀行（Japan Post Bank）— 口座保有者、バランスシート保持者
 ```
 
+以下の表は、エントリ出典インベントリの公開一次資料（jp-bank.japanpost.jp, japanpost.jp, fsa.go.jp）の範囲に限定して読む。^[source:jp-bank.japanpost.jp; japanpost.jp; fsa.go.jp; mof.go.jp]
+
 | 面 | 運営者 | 顧客体験 |
 |---|---|---|
 | 全国 ~24,000  の郵便局カウンター | 日本郵便（Japan Post）が銀行代理として機能 | 同じカウンターが郵便、小包、JPB 取引を扱う |
@@ -110,6 +118,8 @@ JPB は顧客向けカウンターのほとんどを所有していない。取�
 ## 4. KPI および収益性スナップショット
 
 JPB の公表されたヘッドライン財務は構造的パターンを示す：
+
+以下の表は、エントリ出典インベントリの公開一次資料（jp-bank.japanpost.jp, japanpost.jp, fsa.go.jp）の範囲に限定して読む。^[source:jp-bank.japanpost.jp; japanpost.jp; fsa.go.jp; mof.go.jp]
 
 | 次元 | パターン |
 |---|---|
@@ -142,6 +152,8 @@ JPB の公表されたヘッドライン財務は構造的パターンを示す�
 5. **民営化ステップのコンプライアンス。** 日本郵政が JPB 持分を削減するにつれて、郵政民営化委員会フレームワークの下での追加の事業ライン承認が可能になる。
 
 ### 積み重なる規制
+
+以下の表は、エントリ出典インベントリの公開一次資料（jp-bank.japanpost.jp, japanpost.jp, fsa.go.jp）の範囲に限定して読む。^[source:jp-bank.japanpost.jp; japanpost.jp; fsa.go.jp; mof.go.jp]
 
 | レイヤー | 法令 / 規制当局 | JPB への含意 |
 |---|---|---|

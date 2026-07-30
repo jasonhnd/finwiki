@@ -8,8 +8,8 @@ aliases:
   - "policy-finance/tokyo-metropolitan-bond"
 domain: "policy-finance"
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-20
 confidence: likely
 tags: [policy-finance, local-government, public-credit, municipal-bonds, tokyo, japan]
@@ -53,6 +53,8 @@ Tokyo Metropolis is not just a large prefecture; it is structurally unlike the r
 ## 3. Issuance program logic
 
 Tokyo Metropolitan Bond issuance is shaped by:
+
+The following table is scoped to public primary sources (zaimu.metro.tokyo.lg.jp, chihousai.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:zaimu.metro.tokyo.lg.jp; chihousai.or.jp]
 
 | Driver | Effect |
 |---|---|

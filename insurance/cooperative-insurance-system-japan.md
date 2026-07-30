@@ -12,8 +12,8 @@ aliases:
   - "kyosai vs insurance Japan"
 domain: insurance
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [insurance, kyosai, cooperative, ja-kyosai, zenrosai, kenmin, coop, japan, mutual, regulator-split]
@@ -75,6 +75,8 @@ Run by the [[JapanFG/japan-coop|Japanese Consumers' Co-operative Union (JCCU / �
 - **商工中金共済 / 中小企業共済** — SME cooperative kyosai under METI-related cooperative laws.
 
 ## Comparative table: kyosai vs FSA insurance
+
+The following table is scoped to public primary sources (ja-kyosai.or.jp, zenrosai.coop, kyosai-cc.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:ja-kyosai.or.jp; zenrosai.coop; kyosai-cc.or.jp; coopkyosai.coop]
 
 | Axis | FSA insurance (Insurance Business Act) | Kyosai (cooperative-sector laws) |
 |---|---|---|
