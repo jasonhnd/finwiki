@@ -3,8 +3,8 @@ title: "福岡銀行"
 aliases: ["Fukuoka Bank", "The Bank of Fukuoka", "株式会社福岡銀行", "ふくぎん"]
 domain: regional-banks
 created: 2026-05-21
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-12-05
 confidence: likely
 tags: [JapanFG, banking, regional-bank, kyushu, fukuoka, operating-company]
@@ -26,6 +26,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 株式会社福岡銀行 (The Bank of Fukuoka) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される福岡県福岡市本店の地方銀行 (第一地銀)。[[regional-banks/fukuoka-fg|ふくおかフィナンシャルグループ]] の core operating bank であり、九州最大級の regional-bank operating-company anchor として扱う。事業の中身は「県内・九州広域の預金受入 + 中小企業・個人・地方公共団体向け貸出」という地方銀行の standard business model。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, fukuokabank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; fukuokabank.co.jp]
 
 | Item | Notes |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: regional-banks/chugin-okayama
-source_hash: cdd38392e973c3fb
+source_hash: db4adea9a79f080e
 lang: ja
 status: machine
 fidelity: ok
 title: "ちゅうぎん FG / 中国銀行 歴史的グループページ"
-translated_at: 2026-06-02T14:01:20.955Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # ちゅうぎん FG / 中国銀行 歴史的グループページ
@@ -29,6 +29,8 @@ translated_at: 2026-06-02T14:01:20.955Z
 **資本金（FG）**：160 億円（2022-10-03 時点）^[extracted]
 
 ### 2025-03 期決算（連結・ちゅうぎん FG）^[extracted]
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | 項目 | 金額 | 前年比 |
 |---|---|---|
@@ -83,6 +85,8 @@ translated_at: 2026-06-02T14:01:20.955Z
 | 2024〜 | 純利益 KPI 当初 300 億円目標 → 400 億円以上に上方修正 ^[extracted] |
 
 ## 2. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

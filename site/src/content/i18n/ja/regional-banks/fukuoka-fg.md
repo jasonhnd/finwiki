@@ -1,12 +1,12 @@
 ---
 source: regional-banks/fukuoka-fg
-source_hash: da6427f53e0835a6
+source_hash: cf907f74c880311e
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "ふくおか FG (FFG)"
-translated_at: 2026-06-26T08:38:42.159Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # ふくおか FG (FFG)
@@ -18,6 +18,8 @@ translated_at: 2026-06-26T08:38:42.159Z
 ## 要約国内最大級の単独地銀グループ（九州 3 県地盤 + 全国デジタル展開）。2007-04-02 [[regional-banks/fukuoka-bank|福岡銀行]] + 熊本ファミリー銀行（現・[[regional-banks/kumamoto-bank|熊本銀行]]）の共同持株会社化で発足。**地盤統合（福岡 / 熊本 / 長崎）+ デジタル全国展開（みんなの銀行 BaaS）2 軸**。2021-05 開業の **みんなの銀行** は日本初のフルクラウドネイティブ・スマホ完結デジタルバンクで、親 FFG にとってデジタル戦略の中核。地銀再編における主導役の一角（SBI 第 4 メガ構想 / 千葉・横浜・コンコルディア等と並ぶ拠点）。
 
 ## 0. 直近決算サマリー（FY2025 / 2026 年 3 月期実績、2026-05-13 開示）
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | 指標 | FY2025 (2026-03 期) | 前期比 | FY2024 (2025-03 期) |
 |---|---:|---:|---:|
@@ -75,6 +77,8 @@ FFG（持株会社・上場 8354）
 
 ### 重要年表
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | 年月 | 事象 |
 |---|---|
 | 2007-04-02 | **FFG 設立**（福岡銀行 + 熊本ファミリー銀行共同持株会社化）|
@@ -89,6 +93,8 @@ FFG（持株会社・上場 8354）
 
 ## 2. 事業セグメント・マップ
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
 | 地盤コア（福岡）| [[regional-banks/fukuoka-bank|福岡銀行]] | 九州最大地銀、大都市 retail + 中堅企業メインバンク |
@@ -99,6 +105,8 @@ FFG（持株会社・上場 8354）
 | 地域 Fintech | i銀行マーケティング | Wallet+ アプリ運営（地銀発フィンテック）|
 
 ### 銀行 3 行合算 KPI（FY2025 / 2025-12 末時点、Q3 短信ベース）
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | 指標 | 値 | 前期末比 |
 |---|---:|---:|

@@ -8,8 +8,8 @@ aliases:
   - "securities-firms/au-kabucom-securities"
 domain: securities-firms
 created: 2026-05-20
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-12-05
 confidence: likely
 tags: [JapanFG, securities, online-broker, fiea-operator, mufg]
@@ -31,6 +31,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]] (its dom
 三菱UFJ eスマート証券株式会社は、[[megabanks/mufg|MUFG]] グループの online securities operator。旧 auカブコム証券の系譜を持ち、公開プレスリリースによれば 2025 年 1 月末に [[megabanks/mufg-bank|三菱UFJ銀行]] の 100% 子会社となり、2025 年 2 月に「三菱UFJ eスマート証券」へ改称した。金融商品取引法上の **第一種金融商品取引業者** として金融庁の金融商品取引業者一覧に掲載される（関東財務局長(金商)第61号）。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, kabu.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; kabu.com]
 
 | Item | Notes |
 |---|---|

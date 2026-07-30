@@ -1,11 +1,11 @@
 ---
 source: money-market/japan-cp-commercial-paper-market
-source_hash: e9ecbe2b0f0da38d
+source_hash: a5a956d772e60fbe
 lang: en
 status: machine
 fidelity: ok
 title: "Japan CP (commercial paper) market"
-translated_at: 2026-05-30T14:13:23.425Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan CP (commercial paper) market
@@ -22,6 +22,8 @@ The CP market matters because it is the most observable cost-of-funds signal for
 
 ## Market Map
 
+The following table is scoped to public primary sources (boj.or.jp, jsda.or.jp, jasdec.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:boj.or.jp; jsda.or.jp; jasdec.com; fsa.go.jp]
+
 | Layer | Function | FinWiki route |
 |---|---|---|
 | Issuer | Corporates, banks, non-bank financial institutions, and special-purpose vehicles raise short-term funds. | [[finance/japan-corporate-treasury-and-cash-management|corporate treasury]] |
@@ -32,6 +34,8 @@ The CP market matters because it is the most observable cost-of-funds signal for
 | Statistics | BoJ short-term financial market statistics; JSDA CP issuance / outstanding tables. | BoJ / JSDA public surfaces |
 
 ## Instrument Mechanics
+
+The following table is scoped to public primary sources (boj.or.jp, jsda.or.jp, jasdec.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:boj.or.jp; jsda.or.jp; jasdec.com; fsa.go.jp]
 
 | Element | Reading |
 |---|---|
@@ -55,6 +59,8 @@ Tenor distribution skews toward 1-month and 3-month windows because investor dem
 
 ## BoJ Eligibility and Operations
 
+The following table is scoped to public primary sources (boj.or.jp, jsda.or.jp, jasdec.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:boj.or.jp; jsda.or.jp; jasdec.com; fsa.go.jp]
+
 | BoJ tool | CP linkage |
 |---|---|
 | Collateral framework | Eligible CP is accepted as collateral for BoJ loans against pooled collateral and similar operations. Eligibility rules cover rating, residual maturity, issuer type, and dematerialization status. |
@@ -65,6 +71,8 @@ Tenor distribution skews toward 1-month and 3-month windows because investor dem
 The CP-purchase tool has historically been an important crisis-response surface (2008-2009 GFC, 2020 COVID-19 funding stress) but it is not a permanent monetary-policy instrument.
 
 ## Market Size and Reading Rules
+
+The following table is scoped to public primary sources (boj.or.jp, jsda.or.jp, jasdec.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:boj.or.jp; jsda.or.jp; jasdec.com; fsa.go.jp]
 
 | Source | What it shows |
 |---|---|

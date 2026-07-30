@@ -8,8 +8,8 @@ aliases:
   - "沖縄公庫"
 domain: "policy-finance"
 created: 2026-05-19
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [policy-finance, regional-finance, okinawa, government-finance, jfc-equivalent, regional-development]
@@ -33,6 +33,8 @@ This entry sits under [[policy-finance/INDEX|policy-finance index]] as the conso
 沖縄振興開発金融公庫 (Okinawa Development Finance Corporation — ODFC) is Japan's unique consolidated regional policy-finance institution. It was established 1972-05-15 — coincident with Okinawa's reversion to Japan — under the 沖縄振興開発金融公庫法 (Act No. 31 of 1972, predecessor of the current 沖縄振興開発金融公庫法 as amended). The institutional purpose is to provide centralized policy-based finance for Okinawa across **all** the functional lanes that mainland Japan distributes across separate national policy-finance institutions. Concretely, ODFC handles within a single entity what mainland Japan splits across [[financial-regulators/jfc|JFC]] (国民生活 / 中小企業 / 農林水産), [[policy-finance/japan-housing-finance-agency|JHF]] (housing finance), and Welfare and Medical Service Agency (福祉医療機構 / WAM, welfare / medical facility finance), plus Okinawa-specific regional industries (tourism financing, specialty crops, agriculture-fisheries cooperative finance, business-succession / startup finance in regional context). The legal and policy basis for this consolidated form is the 沖縄振興特別措置法 (Okinawa Promotion Special Measures Act, currently in its fifth ten-year cycle 2022-2032), which gives Okinawa a special-treatment regime for regional development and finance. ODFC is supervised by the Cabinet Office (内閣府 沖縄担当部局) rather than by any single ministry — a unique supervisor structure reflecting the Okinawa-specific cross-ministerial policy framework. The institution complements rather than competes with [[regional-banks/okinawa-fg|Okinawa FG]] (parent of [[banking/bank-of-okinawa|Bank of Okinawa]]) and [[regional-banks/okinawa-kaiho-bank|Okinawa Kaiho Bank]], filling credit gaps the private banking system will not extend at required tenor / pricing in Okinawa's specific industrial structure (high tourism dependence, small-island geography, lower per-capita income than mainland average, US base-economy adjacency).
 
 ## 1. Institutional structure
+
+The following table is scoped to public primary sources (okinawakouko.go.jp, cao.go.jp, mof.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:okinawakouko.go.jp; cao.go.jp; mof.go.jp]
 
 | Item | Detail |
 |---|---|
@@ -62,6 +64,8 @@ Three structural features distinguish ODFC from other Japanese policy-finance in
 
 For Okinawa-specific lending, ODFC has functional priority and JFC generally does **not** operate in Okinawa for the consolidated lanes. The line of separation:
 
+The following table is scoped to public primary sources (okinawakouko.go.jp, cao.go.jp, mof.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:okinawakouko.go.jp; cao.go.jp; mof.go.jp]
+
 | Lane | Mainland Japan | Okinawa |
 |---|---|---|
 | Micro-business / sole-proprietor / household-related | [[policy-finance/jfc-kokumin-life-finance-division|JFC 国民生活事業]] | ODFC |
@@ -76,6 +80,8 @@ The cross-mandate consolidation gives ODFC a wider single-customer relationship 
 ## 2. Mandate by line of business
 
 ### 2.1 Product lane summary
+
+The following table is scoped to public primary sources (okinawakouko.go.jp, cao.go.jp, mof.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:okinawakouko.go.jp; cao.go.jp; mof.go.jp]
 
 | Lane | Equivalent JFC division / national institution | Typical product | Counterparty |
 |---|---|---|---|
@@ -101,6 +107,8 @@ ODFC's loan portfolio reflects Okinawa's distinctive industrial structure:
 
 ## 3. KPI table (public-source numbers)
 
+The following table is scoped to public primary sources (okinawakouko.go.jp, cao.go.jp, mof.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:okinawakouko.go.jp; cao.go.jp; mof.go.jp]
+
 | KPI | Approximate value | Source / caveat |
 |---|---|---|
 | Capital | Capital figures disclosed in Japanese-language 業務概況 / disclosure publication; in the low hundreds of billions of yen range historically | ODFC disclosure / 業務概況 |
@@ -114,6 +122,8 @@ ODFC's loan portfolio reflects Okinawa's distinctive industrial structure:
 Note: ODFC's published numbers in the English-language profile may lag Japanese-language disclosure; use Japanese-language 業務概況 for current precision-sensitive figures.
 
 ## 4. Year-by-year evolution
+
+The following table is scoped to public primary sources (okinawakouko.go.jp, cao.go.jp, mof.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:okinawakouko.go.jp; cao.go.jp; mof.go.jp]
 
 | Year | Event |
 |---|---|
@@ -137,6 +147,8 @@ ODFC does not currently have a dedicated operating-mechanics sibling page in Fin
 - [[policy-finance/japan-policy-finance-institution-mandate-matrix|Mandate matrix]] — the nine-institution comparison axis where ODFC's Institution 8 row sits beside JFC, DBJ, JBIC, JICA, NEXI, JOGMEC, JHF, and JASSO.
 
 ### Comparison axes vs JFC (the closest peer)
+
+The following table is scoped to public primary sources (okinawakouko.go.jp, cao.go.jp, mof.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:okinawakouko.go.jp; cao.go.jp; mof.go.jp]
 
 | Axis | ODFC | [[financial-regulators/jfc\|JFC]] |
 |---|---|---|

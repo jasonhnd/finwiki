@@ -1,11 +1,11 @@
 ---
 source: regional-banks/daishi-hokuetsu-bank
-source_hash: 61845ca5bfb91011
+source_hash: 4880c74813c560ba
 lang: ja
 status: machine
 fidelity: ok
 title: "第四北越銀行"
-translated_at: 2026-06-15T04:09:41.151Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 第四北越銀行
@@ -20,6 +20,8 @@ translated_at: 2026-06-15T04:09:41.151Z
 株式会社第四北越銀行 (The Daishi Hokuetsu Bank) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される新潟県本店の地方銀行 (第一地銀)。[[regional-banks/dai-shi-hokuetsu-fg|第四北越フィナンシャルグループ]] 傘下の中核営業銀行であり、旧第四銀行と旧北越銀行の経営統合・合併を経て成立した単一銀行子会社。事業の中身は新潟県内の預金受入と中小企業・個人・自治体向け貸出という地方銀行の標準モデル。
 
 ## 1. 免許／グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, dhbk.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; dhbk.co.jp]
 
 | 項目 | 備考 |
 |---|---|

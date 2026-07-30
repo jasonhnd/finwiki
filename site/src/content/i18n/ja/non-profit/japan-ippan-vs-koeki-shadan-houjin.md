@@ -1,11 +1,11 @@
 ---
 source: non-profit/japan-ippan-vs-koeki-shadan-houjin
-source_hash: 3f91b44451fafe6f
+source_hash: 0eafdf8e6ce6f556
 lang: ja
 status: machine
 fidelity: ok
 title: "日本 一般社団法人 vs 公益社団法人 — general vs public-interest incorporated association"
-translated_at: 2026-06-19T06:09:18.062Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本 一般社団法人 vs 公益社団法人 — general vs public-interest incorporated association
@@ -18,6 +18,8 @@ translated_at: 2026-06-19T06:09:18.062Z
 
 **社団（association）** は会員によるガバナンスである: 議決権を持つ **社員** が総会で方向性を決定する。これは **財団（foundation）** —— 会員を持たない基金によるガバナンス —— と対照的である。一般と公益のいずれの社団フォームも、財団の従兄弟と **同じ法令ファミリー** に属する:
 
+以下の表は、エントリ出典インベントリの公開一次資料（laws.e-gov.go.jp, koeki-info.go.jp, moj.go.jp）の範囲に限定して読む。^[source:laws.e-gov.go.jp; koeki-info.go.jp; moj.go.jp; nta.go.jp]
+
 | Form | Statute | Supervisor | Donor tax deduction |
 |---|---|---|---|
 | 一般社団法人 | 一般社団・財団法人法 (2006) | Legal Affairs Bureau (registration only) | No (general rule) |
@@ -26,6 +28,8 @@ translated_at: 2026-06-19T06:09:18.062Z
 この関係は **段階的** である: まず登記によって 一般社団法人 を設立し、その後オプションで **公益認定** を申請して 公益社団法人 となる。これにより、重い公益性テストと継続的な監督と引き換えに、寄付者側の税額控除が解除される。
 
 ## 一般社団法人 — the base form
+
+以下の表は、エントリ出典インベントリの公開一次資料（laws.e-gov.go.jp, koeki-info.go.jp, moj.go.jp）の範囲に限定して読む。^[source:laws.e-gov.go.jp; koeki-info.go.jp; moj.go.jp; nta.go.jp]
 
 | Attribute | Rule |
 |---|---|
@@ -63,6 +67,8 @@ translated_at: 2026-06-19T06:09:18.062Z
 その見返りに、当該エンティティは次を得る: **公益活動に対する法人税の免除**、保護された **「公益社団法人」の名称**、そして —— 非対称な賞品 —— **寄付者側の税額控除**。
 
 ## Side-by-side
+
+以下の表は、エントリ出典インベントリの公開一次資料（laws.e-gov.go.jp, koeki-info.go.jp, moj.go.jp）の範囲に限定して読む。^[source:laws.e-gov.go.jp; koeki-info.go.jp; moj.go.jp; nta.go.jp]
 
 | Dimension | 一般社団法人 | 公益社団法人 |
 |---|---|---|

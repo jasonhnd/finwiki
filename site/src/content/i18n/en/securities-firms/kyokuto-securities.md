@@ -1,11 +1,11 @@
 ---
 source: securities-firms/kyokuto-securities
-source_hash: 1e5b46155c512e7e
+source_hash: 868135c309fcbe42
 lang: en
 status: machine
 fidelity: ok
 title: "Kyokuto Securities"
-translated_at: 2026-05-31T23:59:49.310Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Kyokuto Securities
 
@@ -18,6 +18,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 Kyokuto Securities is a **mid-sized independent securities firm founded in 1949 年** (TSE Standard **8706**). In the FSA financial instruments business operator list, it is listed as Kyokuto Securities Co., Ltd., Kanto Local Finance Bureau Director (FIBO) 第65号. It is a mid-sized independent firm with a strength in **foreign-bond brokerage**, based in Tokyo and maintaining a traditional model of face-to-face retail plus foreign-bond sales. It is a **regular member of the Japan Securities Dealers Association ([[financial-regulators/jsda|JSDA]])**. It sits alongside independent mid-sized securities firms in the same frame ([[securities-firms/marusan-securities|丸三証券]] / [[securities-firms/aizawa-sg|アイザワ証券]] / [[securities-firms/tachibana-securities|立花証券]]), but is characterized by differentiation in a **foreign-bond-specialized** niche.
 
 ## 1. Legal Entity and License Boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, kyokuto-sec.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; kyokuto-sec.co.jp]
 
 | Item | Reading |
 |---|---|
@@ -47,12 +49,16 @@ Kyokuto Securities is a TSE Standard-listed mid-sized independent securities fir
 
 ### Important timeline (public-information basis)
 
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, kyokuto-sec.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; kyokuto-sec.co.jp]
+
 | Date | Event |
 |---|---|
 | **1949** | **Kyokuto Securities Co., Ltd. founded** (postwar reconstruction period, Tokyo) ^[extracted] |
 | 2022-04 | TSE market-segment review -> TSE Standard (8706) ^[extracted] |
 
 ## 3. Business Segment Map
+
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, kyokuto-sec.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; kyokuto-sec.co.jp]
 
 | Segment | Content | Features |
 |---|---|---|

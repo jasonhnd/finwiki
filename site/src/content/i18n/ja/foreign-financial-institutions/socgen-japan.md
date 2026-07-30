@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/socgen-japan
-source_hash: 9c01c97c82be10d0
+source_hash: 83358b68f819678d
 lang: ja
 status: machine
 fidelity: ok
 title: "ソシエテ・ジェネラル日本"
-translated_at: 2026-06-02T15:14:17.098Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # ソシエテ・ジェネラル日本
@@ -20,6 +20,8 @@ translated_at: 2026-06-02T15:14:17.098Z
 
 ## 1. 会社概要
 
+以下の表は、エントリ出典インベントリの公開一次資料（societegenerale.asia, wholesale.banking.societegenerale.com, fsa.go.jp）の範囲に限定して読む。^[source:societegenerale.asia; wholesale.banking.societegenerale.com; fsa.go.jp]
+
 | 項目 | 内容 |
 |---|---|
 | 親会社 | Societe Generale S.A. |
@@ -32,6 +34,8 @@ translated_at: 2026-06-02T15:14:17.098Z
 金融庁の登録金融機関一覧では、ソシエテ・ジェネラル銀行東京支店は関東財務局長（登金）第90号の登録金融機関として確認できる。外国銀行代理銀行一覧では、ソシエテ・ジェネラル銀行東京支店に関する認可も確認できる。
 
 ## 2. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（societegenerale.asia, wholesale.banking.societegenerale.com, fsa.go.jp）の範囲に限定して読む。^[source:societegenerale.asia; wholesale.banking.societegenerale.com; fsa.go.jp]
 
 | 事業 | 内容 | 日本での位置づけ |
 |---|---|---|

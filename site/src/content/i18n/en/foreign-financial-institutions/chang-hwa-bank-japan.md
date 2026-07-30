@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/chang-hwa-bank-japan
-source_hash: 5c9a2b21bb50c1e5
+source_hash: c8adac9813c5f4e2
 lang: en
 status: machine
 fidelity: ok
 title: "Chang Hwa Bank Japan"
-translated_at: 2026-05-31T11:13:44.907Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Chang Hwa Bank Japan
@@ -24,6 +24,8 @@ The branch is worth standalone treatment because the remaining Taiwan registry-o
 
 ## Entity Boundary
 
+The following table is scoped to public primary sources (fsa.go.jp, bankchb.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; bankchb.com]
+
 | Item | Reading |
 |---|---|
 | Parent bank | Chang Hwa Commercial Bank |
@@ -34,6 +36,8 @@ The branch is worth standalone treatment because the remaining Taiwan registry-o
 | Regulatory route | FSA foreign-bank branch list |
 
 ## Business Role Map
+
+The following table is scoped to public primary sources (fsa.go.jp, bankchb.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; bankchb.com]
 
 | Function | Japan relevance |
 |---|---|

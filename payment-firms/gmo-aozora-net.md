@@ -3,8 +3,8 @@ title: GMO あおぞらネット銀行
 aliases: ["GMO Aozora Net Bank", "GMO あおぞらネット銀行", "GMO Aozora", "あおぞら信託銀行（旧称）"]
 domain: payment-firms
 created: 2026-05-19
-last_updated: 2026-07-29
-last_tended: 2026-07-29
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-10-29
 confidence: likely
 tags: [JapanFG, net-bank, baas, fintech]
@@ -37,6 +37,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 **業態**：銀行業（普通銀行 / ネット銀行）
 
 ### 主要株主（2026-02-20 時点・公式会社概要）
+
+The following table is scoped to public primary sources (gmo-aozora.com, group.gmo). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:gmo-aozora.com; group.gmo]
 
 | 株主 | 持株比率 | 議決権比率 |
 |---|---|---|
@@ -73,6 +75,8 @@ GMO インターネットグループ（東証 PRIME 9449・熊谷正寿）
 | 2023 | あおぞら銀行保有の種類株式を GMO フィナンシャルホールディングスへ譲渡（株主間契約に基づく）|
 
 ## 2. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (gmo-aozora.com, group.gmo). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:gmo-aozora.com; group.gmo]
 
 | セグメント | 主要事業 | 特徴 |
 |---|---|---|

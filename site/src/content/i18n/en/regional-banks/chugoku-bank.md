@@ -1,11 +1,11 @@
 ---
 source: regional-banks/chugoku-bank
-source_hash: f10debd2f3f56f2e
+source_hash: 215075512e931120
 lang: en
 status: machine
 fidelity: ok
 title: "bank of china"
-translated_at: 2026-05-31T11:13:44.908Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # bank of china
@@ -20,6 +20,8 @@ This entry sits under[[regional-banks/INDEX|regional-banks INDEX]]. Read it agai
 The Chugoku Bank, Ltd. is a regional bank with its main branch in Okayama Prefecture listed on the Financial Services Agency's list of bank licenses. It is not Bank of China in the People's Republic of China, but `The Chugoku Bank`, which originates from the Chugoku region of Japan.[[regional-banks/chugin-okayama]]/ Treated as the core operating bank of Chugin FG.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, chugin.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; chugin.co.jp]
 
 | Item | Notes |
 |---|---|

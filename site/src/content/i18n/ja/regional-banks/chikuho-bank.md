@@ -1,11 +1,11 @@
 ---
 source: regional-banks/chikuho-bank
-source_hash: 7f4df9d6d26b7435
+source_hash: 0b45a5593737d767
 lang: ja
 status: machine
 fidelity: ok
 title: "筑邦銀行"
-translated_at: 2026-06-02T14:01:20.926Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 筑邦銀行
 
@@ -19,6 +19,8 @@ translated_at: 2026-06-02T14:01:20.926Z
 株式会社筑邦銀行は、金融庁の銀行免許一覧に掲載される、福岡県久留米市に本店を置く地方銀行である。福岡県ローカル / 筑後地域の地方銀行事業会社アンカーであり、[[regional-banks/fukuoka-bank]] と [[regional-banks/nishi-nippon-city-bank]] とは別法人のピアとして扱う。
 
 ## 1. ライセンス / グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, chikugin.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; chikugin.co.jp]
 
 | 項目 | 注記 |
 |---|---|

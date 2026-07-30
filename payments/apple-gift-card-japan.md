@@ -8,8 +8,8 @@ aliases:
   - "App Store gift card Japan"
 domain: payments
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [payments, prepaid, gift-card, apple, app-store, itunes, closed-loop, digital-prepaid]
@@ -34,6 +34,8 @@ This entry sits under [[payments/INDEX|payments index]] as the Apple Gift Card J
 **Apple Gift Card (Appleギフトカード)** is the **closed-loop unified prepaid gift card of Apple Inc.**, issued in Japan by **Apple Japan G.K. (Apple Japan合同会社)** and operating as a 自家型 (closed-loop / single-merchant) 前払式支払手段 under the [[payments/funds-transfer-vs-prepaid-boundary|Payment Services Act prepaid framework]]. The product **launched in unified form 2021-09**, consolidating the previous **iTunes Card** (App Store / iTunes / Apple Music / iCloud spend) and **Apple Store Gift Card** (Apple hardware / Apple Store retail spend) into a single SKU. Apple Gift Card balance is spendable across the **full Apple ecosystem in Japan** — App Store, iTunes Store, Apple Music, Apple TV+, iCloud, Apple Books, Apple Arcade, **and** Apple Store (apple.com/jp/shop) for hardware (iPhone, iPad, Mac, AirPods, accessories). Distribution rails include physical card sales at convenience stores (Lawson, FamilyMart, MiniStop, 7-Eleven, Daily Yamazaki, drugstores, electronics retailers, etc.), Apple.com/jp digital eGift, and Apple Store retail.
 
 ## Issuer and operational structure
+
+The following table is scoped to public primary sources (apple.com, support.apple.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:apple.com; support.apple.com; fsa.go.jp; meti.go.jp]
 
 | Dimension | Reading |
 |---|---|

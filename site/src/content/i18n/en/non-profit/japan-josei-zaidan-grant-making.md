@@ -1,12 +1,12 @@
 ---
 source: non-profit/japan-josei-zaidan-grant-making
-source_hash: 3f1544b896e0a6a9
+source_hash: 28a43df67d8b6ebf
 lang: en
 model: claude-opus-4-8
 status: machine
 fidelity: ok
 title: "Japan Grant-Making Foundation (Josei Zaidan) — grant-making foundations: structure, the public-interest grant-making test, and donor economics"
-translated_at: 2026-06-05T00:00:00.000Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan Grant-Making Foundation (Josei Zaidan) — grant-making foundations: structure, the public-interest grant-making test, and donor economics
@@ -21,6 +21,8 @@ A **助成財団 (grant-making foundation)** is not a separate legal form — it
 
 ## Grant-making vs operating foundations
 
+The following table is scoped to public primary sources (koeki-info.go.jp, jfc.or.jp, laws.e-gov.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:koeki-info.go.jp; jfc.or.jp; laws.e-gov.go.jp; nta.go.jp]
+
 | Type | What it does | Typical form |
 |---|---|---|
 | **助成型 (grant-making)** | Distributes 研究助成 / 奨学金 to external researchers, students, NPOs | 公益財団 (or 一般財団) |
@@ -31,6 +33,8 @@ The grant-making foundation's defining activity is **selecting and funding other
 ## What makes grant-making a 公益目的事業
 
 For a foundation's grant programme to count as a tax-favoured **公益目的事業** under the 公益認定法, the selection must look like *public-interest distribution*, not *private patronage*. Reviewers look for:
+
+The following table is scoped to public primary sources (koeki-info.go.jp, jfc.or.jp, laws.e-gov.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:koeki-info.go.jp; jfc.or.jp; laws.e-gov.go.jp; nta.go.jp]
 
 | Element | Why it matters |
 |---|---|
@@ -43,6 +47,8 @@ These are the grant-making expression of the broader 公益認定 governance/rel
 
 ## Funding sources of a 助成財団
 
+The following table is scoped to public primary sources (koeki-info.go.jp, jfc.or.jp, laws.e-gov.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:koeki-info.go.jp; jfc.or.jp; laws.e-gov.go.jp; nta.go.jp]
+
 | Source | Pattern |
 |---|---|
 | **基本財産運用益** | Income from a settled endowment (the classic model) |
@@ -54,6 +60,8 @@ The **corporate-sponsored grant foundation** is the most common large pattern: a
 ## Donor / sponsor economics — why 公益 status matters here
 
 The grant-making model lives or dies on **how tax-efficiently the sponsor can fund it**:
+
+The following table is scoped to public primary sources (koeki-info.go.jp, jfc.or.jp, laws.e-gov.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:koeki-info.go.jp; jfc.or.jp; laws.e-gov.go.jp; nta.go.jp]
 
 | Funder | Funding a 公益財団 助成財団 | Funding a 一般財団 助成財団 |
 |---|---|---|

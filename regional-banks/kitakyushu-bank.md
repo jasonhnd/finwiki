@@ -3,8 +3,8 @@ title: "北九州銀行"
 aliases: ["Kitakyushu Bank", "The Kitakyushu Bank", "株式会社北九州銀行"]
 domain: regional-banks
 created: 2026-05-21
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-12-05
 confidence: likely
 tags: [JapanFG, banking, regional-bank, kyushu, fukuoka, kitakyushu, operating-company]
@@ -25,6 +25,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 株式会社北九州銀行 (The Kitakyushu Bank) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される福岡県北九州市本店の地方銀行。[[regional-banks/yamaguchi-fg|山口フィナンシャルグループ]] (YMFG) 傘下の Kitakyushu-area operating bank であり、福岡県内では [[regional-banks/fukuoka-bank|福岡銀行]] / [[regional-banks/nishi-nippon-city-bank|西日本シティ銀行]] と別法人の regional-bank peer として扱う。事業の中身は北九州・関門エリアでの預金受入と中小企業・個人向け貸出。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, kitakyushubank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; kitakyushubank.co.jp]
 
 | Item | Notes |
 |---|---|

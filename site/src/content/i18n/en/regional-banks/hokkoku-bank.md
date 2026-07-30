@@ -1,11 +1,11 @@
 ---
 source: regional-banks/hokkoku-bank
-source_hash: 9a39249048093c1b
+source_hash: 525f8b986c04c9e0
 lang: en
 status: machine
 fidelity: ok
 title: "The Hokkoku Bank"
-translated_at: 2026-06-15T04:09:41.153Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # The Hokkoku Bank
@@ -20,6 +20,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 The Hokkoku Bank, Ltd. (株式会社北國銀行) is a regional bank (first-tier regional bank) based in Ishikawa Prefecture that holds a bank license under the Banking Act and is listed on the FSA's bank license list. It is the core operating bank of [[regional-banks/hokkoku-fhd|北國フィナンシャルホールディングス]]. Whereas the FHD handles the holding-company / digital-platform strategy, this page handles the licensed bank entity and the regional-lending surface. Its business foundation is the standard regional-bank model of deposit-taking in Ishikawa / Hokuriku and lending to SMEs, individuals, and local governments.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, hokkokubank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; hokkokubank.co.jp]
 
 | Item | Notes |
 |---|---|

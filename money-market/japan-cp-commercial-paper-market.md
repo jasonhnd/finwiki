@@ -9,8 +9,8 @@ aliases:
   - "国内CP市場"
 domain: "money-market"
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [money-market, commercial-paper, CP, BoJ, short-term-funding, JSDA]
@@ -50,6 +50,8 @@ The CP market matters because it is the most observable cost-of-funds signal for
 
 ## Instrument Mechanics
 
+The following table is scoped to public primary sources (boj.or.jp, jsda.or.jp, jasdec.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:boj.or.jp; jsda.or.jp; jasdec.com]
+
 | Element | Reading |
 |---|---|
 | Legal form | Short-term corporate bond (短期社債) under the Book-Entry Transfer Act, replacing the older promissory-note format. |
@@ -71,6 +73,8 @@ CP issuance is concentrated at short tenors and dominated by high-grade names:
 Tenor distribution skews toward 1-month and 3-month windows because investor demand from MRF, bank treasury, and corporate cash management is concentrated there. Issuance around quarter-end and fiscal-year-end can show spread widening when balance-sheet capacity tightens.
 
 ## BoJ Eligibility and Operations
+
+The following table is scoped to public primary sources (boj.or.jp, jsda.or.jp, jasdec.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:boj.or.jp; jsda.or.jp; jasdec.com]
 
 | BoJ tool | CP linkage |
 |---|---|

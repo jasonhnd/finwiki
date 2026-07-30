@@ -3,8 +3,8 @@ title: "プルデンシャル ジブラルタ ファイナンシャル生命保�
 aliases: ["PGF生命", "PGF Life", "Prudential Gibraltar Financial Life", "プルデンシャル ジブラルタ ファイナンシャル生命保険株式会社"]
 domain: life-insurers
 created: 2026-05-21
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, insurance, life-insurance, prudential, bancassurance, operating-company]
@@ -26,6 +26,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]] (its domain ro
 プルデンシャル ジブラルタ ファイナンシャル生命保険株式会社（**PGF生命**）は、保険業法上の生命保険会社免許を持ち金融庁の生命保険会社免許一覧に掲載される、米プルデンシャル・ファイナンシャル系（日本のプルデンシャル・グループ）の生命保険事業会社。2010 年 4 月 1 日に現商号へ商号変更し、2013 年 4 月から「PGF生命」を略称として使用する。**銀行窓口販売（バンカシュランス）を主事業**とし、米ドル建一時払い終身保険など一時払い貯蓄性商品を提携金融機関経由で提供する点で、対面コンサルタント中心の [[life-insurers/prudential-japan|プルデンシャル生命]] や [[life-insurers/gibraltar-life|ジブラルタ生命]] とはチャネル・商品が分かれる。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, pgf-life.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; pgf-life.co.jp]
 
 | Item | Notes |
 |---|---|

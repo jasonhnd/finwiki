@@ -1,11 +1,11 @@
 ---
 source: money-market/japan-money-market-benchmark-reform-tona
-source_hash: db9b1b43ad8047ae
+source_hash: e09f9423b1cc3d39
 lang: ja
 status: machine
 fidelity: ok
 title: "日本の短期金融市場ベンチマーク改革（TONA とマルチレートの世界）"
-translated_at: 2026-06-18T15:47:13.941Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本の短期金融市場ベンチマーク改革（TONA とマルチレートの世界）
@@ -25,6 +25,8 @@ translated_at: 2026-06-18T15:47:13.941Z
 FinWiki にとって、このエントリは、誰が何を改革したか、そしてなぜコール市場が LIBOR 後の JPY 金利体系の中心に位置するのかを描く短期金融市場側の物語である。プライシング／割引のメカニクスは [[derivatives/ois-tona-curve|the OIS TONA curve]] のエントリにある。本ページはベンチマーク・ガバナンスと市場構造の物語を扱う。
 
 ## 改革主体
+
+以下の表は、エントリ出典インベントリの公開一次資料（boj.or.jp, fsa.go.jp）の範囲に限定して読む。^[source:boj.or.jp; fsa.go.jp]
 
 | 主体 | 役割 |
 |---|---|
@@ -48,6 +50,8 @@ TONA はサーベイ金利ではない。短資会社が日本銀行に報告す
 
 ## 移行タイムライン
 
+以下の表は、エントリ出典インベントリの公開一次資料（boj.or.jp, fsa.go.jp）の範囲に限定して読む。^[source:boj.or.jp; fsa.go.jp]
+
 | 期間 | イベント |
 |---|---|
 | 2016 | 勉強会が TONA を JPY リスクフリー・レートとして特定（12月の報告書）。 |
@@ -60,6 +64,8 @@ TONA はサーベイ金利ではない。短資会社が日本銀行に報告す
 ## 結果としてのマルチレートの世界
 
 日本は意図的にすべてを単一の金利に統合しなかった。存続する構造は次のとおりである。
+
+以下の表は、エントリ出典インベントリの公開一次資料（boj.or.jp, fsa.go.jp）の範囲に限定して読む。^[source:boj.or.jp; fsa.go.jp]
 
 | ベンチマーク | 性質 | 主な用途 |
 |---|---|---|

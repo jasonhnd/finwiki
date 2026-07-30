@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/pet-and-family-insurance
-source_hash: eeb9439542a10bd9
+source_hash: 9ab9aa3a6d6336ea
 lang: en
 status: machine
 fidelity: ok
 title: "Pet & Family Insurance"
-translated_at: 2026-06-19T06:09:18.106Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Pet & Family Insurance
@@ -23,6 +23,8 @@ Pet & Family Insurance Co., Ltd. is a FSA-listed non-life insurer specializing i
 The page matters because pet insurance is a different specialty line from the group's core life-insurance companies: [[life-insurers/daido-life|Daido Life]], [[life-insurers/taiyo-life|Taiyo Life]], and [[life-insurers/td-financial-life|T&D Financial Life]].
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, petfamilyins.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; petfamilyins.co.jp]
 
 | Item | Notes |
 |---|---|

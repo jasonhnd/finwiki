@@ -1,11 +1,11 @@
 ---
 source: regional-banks/lawson-bank
-source_hash: 95daedb965f5bff9
+source_hash: cc886cf6efedce34
 lang: ja
 status: machine
 fidelity: ok
 title: "ローソン銀行 (Lawson Bank)"
-translated_at: 2026-06-24T00:00:00.000Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # ローソン銀行 (Lawson Bank)
 
@@ -28,6 +28,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ### 重要年表
 
+以下の表は、エントリ出典インベントリの公開一次資料（lawson.jp, fsa.go.jp, lawsonbank.jp）の範囲に限定して読む。^[source:lawson.jp; fsa.go.jp; lawsonbank.jp; zenginkyo.or.jp]
+
 | 年月 | 事象 |
 |---|---|
 | **2017-11-15** | **株式会社ローソン銀行 設立**（自前銀行化への移行決定）^[extracted] |
@@ -35,6 +37,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 | **2018-10-15** | **ローソン銀行 開業** — 既存 ATM ネットワークを銀行免許下の ATM プラットフォームへ移行。^[source:fsa-ginkou-2026] |
 
 ## 2. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（lawson.jp, fsa.go.jp, lawsonbank.jp）の範囲に限定して読む。^[source:lawson.jp; fsa.go.jp; lawsonbank.jp; zenginkyo.or.jp]
 
 | セグメント | 主力プロダクト | 特徴 |
 |---|---|---|
@@ -53,6 +57,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 > 注：[[megabanks/mufg]] との間接連携余地など将来の連携シナリオに関する推測は `.opinions/JapanFG/lawson-bank.md` に隔離（検証可能な一次情報なし）。
 
 ### vs セブン銀行（[[regional-banks/seven-bank]]）
+
+以下の表は、エントリ出典インベントリの公開一次資料（lawson.jp, fsa.go.jp, lawsonbank.jp）の範囲に限定して読む。^[source:lawson.jp; fsa.go.jp; lawsonbank.jp; zenginkyo.or.jp]
 
 | 軸 | [[regional-banks/seven-bank]] | ローソン銀行 |
 |---|---|---|

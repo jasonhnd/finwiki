@@ -1,12 +1,12 @@
 ---
 source: payment-firms/smartbank
-source_hash: 67c6fa9daab60900
+source_hash: c3babfc2b0260c9b
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "スマートバンク (SmartBank)"
-translated_at: 2026-06-26T08:31:59.836Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # スマートバンク (SmartBank)
@@ -16,6 +16,8 @@ translated_at: 2026-06-26T08:31:59.836Z
 ## 要約株式会社スマートバンクは、家計管理プリカ「B/43（ビーヨンサン、現「ワンバンク」へ改称）」を運営する household-finance / 前払式ウォレット fintech。公開情報では **二つの license** を保有する稀な構成 ——**資金移動業者**（関東財務局長第00084号）と、2024 年取得の **第三者型前払式支払手段発行者**（関東財務局長第00782号）。チャージ式 Visa プリペイドカードと家計簿アプリをセットにし、家計管理 UX に payment account を組み合わせる事例。
 
 ## 1. ライセンス / グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（smartbank.co.jp, onebank.jp, fsa.go.jp）の範囲に限定して読む。^[source:smartbank.co.jp; onebank.jp; fsa.go.jp]
 
 | 項目 | 注記 |
 |---|---|

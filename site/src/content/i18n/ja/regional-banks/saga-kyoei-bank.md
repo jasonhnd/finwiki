@@ -1,11 +1,11 @@
 ---
 source: regional-banks/saga-kyoei-bank
-source_hash: d540e76063c129bb
+source_hash: 0cbb7156d38c2f10
 lang: ja
 status: machine
 fidelity: ok
 title: "佐賀共栄銀行"
-translated_at: 2026-06-02T15:14:17.079Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 佐賀共栄銀行
@@ -20,6 +20,8 @@ translated_at: 2026-06-02T15:14:17.079Z
 株式会社佐賀共栄銀行は、金融庁の銀行免許一覧に掲載される佐賀県本店の第二地方銀行である。佐賀県の第二地方銀行事業会社アンカーであり、[[regional-banks/saga-bank]] とは別法人の地域内比較対象として扱う。
 
 ## 1. 免許 / グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, kyogin.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; kyogin.co.jp]
 
 | 項目 | 注記 |
 |---|---|

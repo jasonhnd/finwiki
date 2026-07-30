@@ -3,8 +3,8 @@ title: 千葉銀行 (Chiba Bank)
 aliases: ["千葉銀行", "Chiba Bank", "The Chiba Bank, Ltd.", "ちばぎん", "Chibagin"]
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, no-holding]
@@ -83,6 +83,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 | 2024 | 中期経営計画 策定 |
 
 ## 2. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (ssl4.eir-parts.net). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:ssl4.eir-parts.net]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

@@ -1,11 +1,11 @@
 ---
 source: regional-banks/kyoto-bank
-source_hash: a13145b7beacf1b7
+source_hash: f4af867771edacf0
 lang: en
 status: machine
 fidelity: ok
 title: "Bank of Kyoto"
-translated_at: 2026-06-19T12:43:19.935Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Bank of Kyoto
@@ -19,6 +19,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 The Bank of Kyoto, Ltd. is a regional bank headquartered in Kyoto Prefecture and listed on the FSA bank license list. It is the core operating bank of [[regional-banks/kyoto-fg]], and is treated as the No.1 regional-bank operating-company anchor within Kyoto Prefecture.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, kyotobank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; kyotobank.co.jp]
 
 | Item | Notes |
 |---|---|

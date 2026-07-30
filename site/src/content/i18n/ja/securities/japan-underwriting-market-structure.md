@@ -1,12 +1,12 @@
 ---
 source: securities/japan-underwriting-market-structure
-source_hash: 15a05a0c8e290982
+source_hash: 973fba82ba45eb37
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の引受市場構造"
-translated_at: 2026-06-26T08:29:17.591Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 日本の引受市場構造
 
@@ -15,6 +15,8 @@ translated_at: 2026-06-26T08:29:17.591Z
 このページは、[[finance/japan-ib-league-table|Japan IB league table]]、[[financial-licenses/securities-license-stack|Japan securities license stack]]、[[securities/japan-market-infrastructure-map|Japan market infrastructure map]]、および[[securities-firms/nomura-hd|Nomura]]、[[securities-firms/daiwa-sg|Daiwa Securities Group]]、[[securities-firms/smbc-nikko|SMBC Nikko]]、[[securities-firms/mizuho-securities|Mizuho Securities]]、[[securities-firms/mufg-mums|MUMSS]]のような発行体・ブローカー各ページと併せて使う。
 
 ## 機能チェーン
+
+以下の表は、エントリ出典インベントリの公開一次資料（jpx.co.jp, jsda.or.jp, fsa.go.jp）の範囲に限定して読む。^[source:jpx.co.jp; jsda.or.jp; fsa.go.jp; disclosure2.edinet-fsa.go.jp]
 
 | 段階 | 主な関係者 | 分析上の読み方 |
 |---|---|---|
@@ -26,6 +28,8 @@ translated_at: 2026-06-26T08:29:17.591Z
 | 売買 / 決済 | 取引所 / PTS、[[securities/japan-securities-clearing-corp|JSCC]]、[[securities/japan-securities-depository-center|JASDEC]] | 新規発行または売出しされた証券が市場インフラ層に入る。 |
 
 ## 引受会社の類型
+
+以下の表は、エントリ出典インベントリの公開一次資料（jpx.co.jp, jsda.or.jp, fsa.go.jp）の範囲に限定して読む。^[source:jpx.co.jp; jsda.or.jp; fsa.go.jp; disclosure2.edinet-fsa.go.jp]
 
 | 類型 | 典型的な役割 | FinWiki ページ |
 |---|---|---|
@@ -70,6 +74,8 @@ IPO と公募・売出しを分析する際は、四つの問いを分ける。
 リーグテーブルは「この切り口で誰が活動しているか」を問うために使い、そのうえでこのページにより「その会社はどの役割を果たし、どの規制・インフラレイヤーが重要だったか」を問う。
 
 ## リスク統制と失敗モード
+
+以下の表は、エントリ出典インベントリの公開一次資料（jpx.co.jp, jsda.or.jp, fsa.go.jp）の範囲に限定して読む。^[source:jpx.co.jp; jsda.or.jp; fsa.go.jp; disclosure2.edinet-fsa.go.jp]
 
 | リスク | 表れる場所 |
 |---|---|

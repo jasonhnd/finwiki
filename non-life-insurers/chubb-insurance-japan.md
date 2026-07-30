@@ -3,8 +3,8 @@ title: "Chubb Insurance Japan / Chubb損害保険"
 aliases: ["Chubb損害保険", "チャブ保険", "Chubb Insurance Japan", "Chubb損害保険株式会社", "ACE損害保険"]
 domain: non-life-insurers
 created: 2026-05-23
-last_updated: 2026-05-23
-last_tended: 2026-05-23
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-23
 confidence: likely
 tags: [JapanFG, non-life-insurance, foreign-insurer, corporate-risk, public-source]
@@ -28,6 +28,8 @@ Chubb Insurance Japan is a foreign-affiliated non-life insurer with a long Japan
 This page covers Chubb損害保険株式会社, including its ACE Insurance name-change history. It should not cover Chubb Limited as a global group except where Japanese public materials use that context.
 
 ## Business Role Map
+
+The following table is scoped to public primary sources (fsa.go.jp, chubb.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; chubb.com]
 
 | Route | Reading |
 |---|---|

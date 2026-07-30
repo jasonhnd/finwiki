@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/nisshin-fire
-source_hash: e7645b833cd0b957
+source_hash: 3ab1f603f8bf601f
 lang: en
 status: machine
 fidelity: ok
 title: "Nisshin Fire & Marine Insurance"
-translated_at: 2026-06-01T00:41:50.422Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Nisshin Fire & Marine Insurance
 
@@ -18,6 +18,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 Nisshin Fire & Marine Insurance Co., Ltd. is a non-life insurer listed on the FSA non-life insurance company license list. It has [[non-life-insurers/tokio-marine]] group adjacency, but is treated as a separate legal entity and operating-company anchor from [[non-life-insurers/tokio-marine-nichido-fire]] and [[non-life-insurers/tokio-marine-direct]].
 
 ## 1. License / Group Boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, sonpohogo.or.jp, nisshinfire.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sonpohogo.or.jp; nisshinfire.co.jp]
 
 | Item | Notes |
 |---|---|

@@ -3,8 +3,8 @@ title: 立花証券 (Tachibana Securities)
 aliases: ["Tachibana Securities", "Tachibana Securities Co., Ltd.", "立花証券", "立花証券株式会社"]
 domain: securities-firms
 created: 2026-05-24
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, securities, independent, mid-tier]
@@ -26,6 +26,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 立花証券は **1948 年創業の中堅独立証券会社**で、FSA 金融商品取引業者一覧では「立花証券株式会社」、関東財務局長(金商)第110号として掲載される。**日本証券業協会 ([[financial-regulators/jsda|JSDA]]) 正会員**、非上場の独立系中堅証券として東京を本拠に対面リテール + 信用取引特化型のネット取引「立花証券ストックハウス」を運営する。中堅独立証券枠で同業他社 ([[securities-firms/marusan-securities|丸三証券]] / [[securities-firms/aizawa-sg|アイザワ証券]] / [[securities-firms/iwai-cosmo-hd|岩井コスモ]]) と並ぶポジションだが、**信用取引のアクティブトレーダー向けニッチ** に特化する点で差別化される。
 
 ## 1. 法人・ライセンス境界
+
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, tachibana-sec.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; tachibana-sec.co.jp]
 
 | Item | Reading |
 |---|---|
@@ -58,6 +60,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 | **1948** | **立花証券株式会社 創業** (戦後復興期、東京) ^[extracted] |
 
 ## 3. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, tachibana-sec.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; tachibana-sec.co.jp]
 
 | セグメント | 内容 | 特徴 |
 |---|---|---|

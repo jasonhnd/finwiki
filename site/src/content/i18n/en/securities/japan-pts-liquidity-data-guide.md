@@ -1,11 +1,11 @@
 ---
 source: securities/japan-pts-liquidity-data-guide
-source_hash: 7f5a21c0f3b10acf
+source_hash: c83027185ec5b534
 lang: en
 status: machine
 fidelity: ok
 title: "Japan PTS liquidity data guide"
-translated_at: 2026-06-01T03:31:12.334Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan PTS liquidity data guide
@@ -17,6 +17,8 @@ PTS liquidity data is the evidence layer behind [[securities/japan-best-executio
 Use this page with [[securities/INDEX|securities domain]], [[securities/japan-market-infrastructure-map|Japan market infrastructure map]], [[securities/japannext-securities|Japannext]], [[securities/osaka-digital-exchange|ODX]], [[securities/tokyo-stock-exchange|Tokyo Stock Exchange]], and [[securities/financial-instruments-business-operators-japan-index|FIEA operator registry index]].
 
 ## Source Stack
+
+The following table is scoped to public primary sources (jsda.or.jp, jpx.co.jp, japannext.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jsda.or.jp; jpx.co.jp; japannext.co.jp; odx.co.jp]
 
 | Source | What it is good for | Boundary |
 |---|---|---|
@@ -40,6 +42,8 @@ That makes the JSDA page the right starting point for **market-share / liquidity
 
 ## Core Metrics
 
+The following table is scoped to public primary sources (jsda.or.jp, jpx.co.jp, japannext.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jsda.or.jp; jpx.co.jp; japannext.co.jp; odx.co.jp]
+
 | Metric | Useful question | Main caveat |
 |---|---|---|
 | Trading value | Is PTS liquidity economically material in this period? | High aggregate value may be concentrated in liquid large caps. |
@@ -62,6 +66,8 @@ That makes the JSDA page the right starting point for **market-share / liquidity
 7. Link any broker conclusion back to [[securities/japan-best-execution-sor-pts|best execution / SOR / PTS]] rather than treating PTS statistics as proof by themselves.
 
 ## PTS Data Interpretation
+
+The following table is scoped to public primary sources (jsda.or.jp, jpx.co.jp, japannext.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jsda.or.jp; jpx.co.jp; japannext.co.jp; odx.co.jp]
 
 | Interpretation | Good use | Bad use |
 |---|---|---|

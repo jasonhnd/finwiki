@@ -1,11 +1,11 @@
 ---
 source: securities/japan-stock-lending-market-route
-source_hash: 041c74af30c284e1
+source_hash: c7704ee8f98f4960
 lang: en
 status: machine
 fidelity: ok
 title: "Japan stock lending market route"
-translated_at: 2026-06-01T04:15:40.131Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan stock lending market route
@@ -18,6 +18,8 @@ Use this page with [[securities/INDEX|securities domain]], [[securities/japan-sh
 
 ## Route Map
 
+The following table is scoped to public primary sources (jsf.co.jp, jsda.or.jp, jpx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jsf.co.jp; jsda.or.jp; jpx.co.jp; jasdec.com]
+
 | Participant | Role |
 |---|---|
 | Asset owner | Owns securities economically, often through pension, investment trust, insurer, or institutional account. |
@@ -28,6 +30,8 @@ Use this page with [[securities/INDEX|securities domain]], [[securities/japan-sh
 | Collateral provider | Supplies cash or securities collateral depending on the lending agreement and market practice. |
 
 ## Flow Types
+
+The following table is scoped to public primary sources (jsf.co.jp, jsda.or.jp, jpx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jsf.co.jp; jsda.or.jp; jpx.co.jp; jasdec.com]
 
 | Flow | Description | Public relevance |
 |---|---|---|
@@ -42,6 +46,8 @@ Use this page with [[securities/INDEX|securities domain]], [[securities/japan-sh
 Trust banks and custodian banks matter because the legal title, beneficial owner, lending instruction, collateral, corporate action, and voting-right routes are separated. Read [[banking/japan-trust-bank-custody-map|trust-bank custody map]] before interpreting stock-loan supply from accounts labelled as trust-bank nominee names.
 
 ## Control Questions
+
+The following table is scoped to public primary sources (jsf.co.jp, jsda.or.jp, jpx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jsf.co.jp; jsda.or.jp; jpx.co.jp; jasdec.com]
 
 | Question | Public relevance |
 |---|---|

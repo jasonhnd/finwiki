@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/cardif-nonlife
-source_hash: d3f43ccfe8bf6ca3
+source_hash: 4a54fc491beaab8e
 lang: ja
 status: machine
 fidelity: ok
 title: "Cardif Non-Life Japan / カーディフ損害保険"
-translated_at: 2026-06-15T03:48:21.870Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Cardif Non-Life Japan / カーディフ損害保険
@@ -21,6 +21,8 @@ Wiki 上の位置づけ: [[non-life-insurers/INDEX]] -> [[insurance/INDEX]] -> [
 本ページはカーディフ損害保険株式会社を扱う。公開されたグループ境界が関連する場合は三者すべてをリンクしつつ、[[life-insurers/cardif-life]] および [[foreign-financial-institutions/bnp-paribas-japan]] とは分けて扱うこと。
 
 ## 事業上の役割マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, nonlife.cardif.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; nonlife.cardif.co.jp]
 
 | 経路 | 読み |
 |---|---|

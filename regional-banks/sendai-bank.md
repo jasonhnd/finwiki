@@ -3,8 +3,8 @@ title: "仙台銀行"
 aliases: ["Sendai Bank", "The Sendai Bank", "株式会社仙台銀行"]
 domain: regional-banks
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, banking, second-regional-bank, jimoto-hd, tohoku, operating-company]
@@ -26,6 +26,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 株式会社仙台銀行は、金融庁の銀行免許一覧に掲載される宮城県本店の第二地方銀行で、[[regional-banks/jimoto-hd]] 傘下の operating bank。宮城県市場では [[regional-banks/77-bank]] が県内トップ地銀で、仙台銀行は second-regional-bank side の SME / retail / reconstruction-finance anchor になる。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, sendaibank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sendaibank.co.jp]
 
 | Item | Notes |
 |---|---|

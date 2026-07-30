@@ -10,8 +10,8 @@ aliases:
   - "円LIBOR移行"
 domain: "money-market"
 created: 2026-06-03
-last_updated: 2026-06-03
-last_tended: 2026-06-03
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-12-03
 confidence: likely
 tags: [money-market, benchmark-reform, TONA, LIBOR-transition, risk-free-rate, BoJ]
@@ -42,6 +42,8 @@ For FinWiki, this entry is the money-market-side narrative of who reformed what 
 
 ## The Reform Bodies
 
+The following table is scoped to public primary sources (boj.or.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:boj.or.jp; fsa.go.jp]
+
 | Body | Role |
 |---|---|
 | Study Group on Risk-Free Reference Rates | Identified the **uncollateralized overnight call rate (TONA)** as the JPY risk-free reference rate in its December 2016 report. |
@@ -63,6 +65,8 @@ TONA is not a survey rate; it is the volume-weighted average of real uncollatera
 The trade-off is that an ample-reserves policy environment can thin out call-market activity, which keeps TONA volume a thing to watch.
 
 ## Transition Timeline
+
+The following table is scoped to public primary sources (boj.or.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:boj.or.jp; fsa.go.jp]
 
 | Period | Event |
 |---|---|

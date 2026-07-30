@@ -1,11 +1,11 @@
 ---
 source: payments/japan-card-issuer-acquirer-processor-split
-source_hash: 6747ff79dacb1070
+source_hash: 0e1dba189482e418
 lang: en
 status: machine
 fidelity: ok
 title: "Japan card issuer, acquirer, and processor split"
-translated_at: 2026-06-01T03:31:12.249Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Japan card issuer, acquirer, and processor split
 
@@ -17,6 +17,8 @@ Use this page with [[payments/card-acquiring-japan-stack|Japan card acquiring st
 
 ## Role Map
 
+The following table is scoped to public primary sources (meti.go.jp, j-credit.or.jp, global.jcb). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; j-credit.or.jp; global.jcb; jcb.co.jp]
+
 | Role | What it controls | Typical JapanFG anchors |
 |---|---|---|
 | Issuer | Cardholder screening, credit limit, billing, revolving / installment receivable, fraud monitoring. | [[card-issuers/smbc-card|SMBC Card]], [[card-issuers/rakuten-card|Rakuten Card]], [[card-issuers/paypay-card|PayPay Card]], [[card-issuers/aeon-financial-service|AEON Financial Service]] |
@@ -26,6 +28,8 @@ Use this page with [[payments/card-acquiring-japan-stack|Japan card acquiring st
 | Merchant | Accepts card payments, protects cardholder data, handles shipping / refund / dispute evidence. | Retail / EC operators under [[retail/INDEX|retail INDEX]] and platform cases such as [[business/gmo-internet-group|GMO Internet Group]]. |
 
 ## Legal / Registry Boundary
+
+The following table is scoped to public primary sources (meti.go.jp, j-credit.or.jp, global.jcb). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; j-credit.or.jp; global.jcb; jcb.co.jp]
 
 | Question | Route |
 |---|---|
@@ -48,6 +52,8 @@ The Japan Credit Association security-guideline route matters because fraud and 
 The JCB public brand-business explanation is a useful plain-language model for separating cardholder, merchant, issuer, acquirer, and brand / payment-network roles before adding Japan-specific registration and security controls.
 
 ## Common Misreadings
+
+The following table is scoped to public primary sources (meti.go.jp, j-credit.or.jp, global.jcb). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; j-credit.or.jp; global.jcb; jcb.co.jp]
 
 | Misreading | Better reading |
 |---|---|

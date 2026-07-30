@@ -1,11 +1,11 @@
 ---
 source: securities-firms/marusan-securities
-source_hash: 6135f0e29056a4fb
+source_hash: 07c1bfb131a113d0
 lang: en
 status: machine
 fidelity: ok
 title: "Marusan Securities (丸三証券)"
-translated_at: 2026-06-19T12:43:19.872Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Marusan Securities (丸三証券)
@@ -19,6 +19,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 Marusan Securities is a **long-established mid-tier independent broker founded in 1910 年** (TSE PRIME **8613**), an independent securities company with over 110  years of history specializing in **face-to-face retail as its main axis + consulting-style sales**. In the FSA's list of financial-instruments business operators it is listed as "丸三証券株式会社," registered as Director-General of the Kanto Local Finance Bureau (Financial Instruments) 第167号. **JSDA full member.** It does not belong to a megabank or telco group; it keeps the traditional mid-tier brokerage model centered on face-to-face sales of equities, bonds, and investment trusts, with competitors in the mid-tier independent-broker bracket such as [[securities-firms/aizawa-sg|アイザワ証券]] / [[securities-firms/okasan-sg|岡三証券グループ]] / [[securities-firms/iwai-cosmo-hd|岩井コスモ HD]] / [[securities-firms/tokai-tokyo-fh|東海東京 FH]].
 
 ## 1. Corporate / license boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, marusan-sec.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; marusan-sec.co.jp]
 
 | Item | Reading |
 |---|---|
@@ -46,12 +48,16 @@ Marusan Securities is a long-established mid-tier independent broker of the **si
 
 ### Key chronology (public-information based)
 
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, marusan-sec.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; marusan-sec.co.jp]
+
 | Year/Month | Event |
 |---|---|
 | **1910** | **Founded in Tokyo as a sole proprietorship** (long-established Meiji-era broker) ^[extracted] |
 | 2022-04 | TSE market-segment review → transition to TSE PRIME ^[extracted] |
 
 ## 3. Business-segment map
+
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, marusan-sec.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; marusan-sec.co.jp]
 
 | Segment | Content | Characteristics |
 |---|---|---|

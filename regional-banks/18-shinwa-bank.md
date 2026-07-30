@@ -7,8 +7,8 @@ aliases:
   - "Eighteenth Shinwa Bank"
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-16
 confidence: likely
 tags: [JapanFG, regional-bank, fukuoka-fg, kyushu]
@@ -29,6 +29,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 十八親和銀行は長崎県を地盤とする [[regional-banks/fukuoka-fg|ふくおか FG]] 傘下銀行。1877年創立の十八銀行と、1879年起源・1939年設立の親和銀行が合併し、2020年10月に現在の十八親和銀行として発足した。長崎県の地域金融、FFG の九州広域戦略、地銀合併後のブランド統合を見るための entry。
 
 ## 1. 会社概要
+
+The following table is scoped to public primary sources (18shinwabank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:18shinwabank.co.jp]
 
 | 項目 | 内容 |
 |---|---|

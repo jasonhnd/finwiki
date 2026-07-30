@@ -1,11 +1,11 @@
 ---
 source: regional-banks/howa-bank
-source_hash: a576f8f11a9e3229
+source_hash: 6be395d955dc13fa
 lang: en
 status: machine
 fidelity: ok
 title: "Howa Bank"
-translated_at: 2026-06-15T04:09:41.180Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Howa Bank
@@ -20,6 +20,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 The Howa Bank, Ltd. (株式会社豊和銀行) is a second regional bank headquartered in Oita City, Oita Prefecture, holding a bank license under the Banking Act and listed in the FSA's bank license list. It is the second-regional-bank operating-company anchor for Oita Prefecture, and a local peer of the first regional bank [[regional-banks/oita-bank|大分銀行]] as a separate legal entity. Its business consists of the standard regional-bank model of deposit-taking within the prefecture and lending to SMEs and individuals.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, howabank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; howabank.co.jp]
 
 | Item | Notes |
 |---|---|

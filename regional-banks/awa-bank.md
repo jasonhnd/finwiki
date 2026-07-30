@@ -3,8 +3,8 @@ title: "阿波銀行"
 aliases: ["Awa Bank", "The Awa Bank", "株式会社阿波銀行"]
 domain: regional-banks
 created: 2026-05-21
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-12-05
 confidence: likely
 tags: [JapanFG, banking, regional-bank, shikoku, tokushima, operating-company]
@@ -26,6 +26,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 株式会社阿波銀行 (The Awa Bank) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される徳島県徳島市本店の地方銀行 (第一地銀)。徳島県の first-regional-bank operating-company anchor であり、[[regional-banks/tomony-hd|トモニホールディングス]] 傘下の [[regional-banks/tokushima-taisho-bank|徳島大正銀行]] とは別法人の独立系第一地銀 peer。事業の中身は県内の預金受入と中小企業・個人・地方公共団体向け貸出という地方銀行の標準モデル。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, awabank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; awabank.co.jp]
 
 | Item | Notes |
 |---|---|

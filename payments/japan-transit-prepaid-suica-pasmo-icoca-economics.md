@@ -13,8 +13,8 @@ aliases:
   - "payments/suica-pasmo-fares"
 domain: payments
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [payments, prepaid, electronic-money, transit, felica, suica, pasmo, icoca]
@@ -87,6 +87,8 @@ The Cyberne system ultimately moves yen between issuer bank accounts via Zengin 
 
 The prepaid IC scheme has two principal mobile-device rails:
 
+The following table is scoped to public primary sources (jreast.co.jp, pasmo.co.jp, jr-odekake.net). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jreast.co.jp; pasmo.co.jp; jr-odekake.net; jrhokkaido.co.jp]
+
 | Rail | Devices | Coverage |
 |---|---|---|
 | Mobile Suica via Apple Pay | iPhone 7+ (Japan model), iPhone 8+ (global model with FeliCa), Apple Watch Series 3+ | Suica, PASMO, ICOCA (added 2023) |
@@ -116,6 +118,8 @@ See [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boun
 
 Transit prepaid cards have a substantial retail-merchant footprint beyond the transit gate:
 
+The following table is scoped to public primary sources (jreast.co.jp, pasmo.co.jp, jr-odekake.net). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jreast.co.jp; pasmo.co.jp; jr-odekake.net; jrhokkaido.co.jp]
+
 | Acceptance zone | Coverage |
 |---|---|
 | Train and bus | Universal across 10 IC scheme |
@@ -136,6 +140,8 @@ JR East eliminated the ¥500 deposit requirement on Mobile Suica issued via Appl
 ## Merchant fee economics — single-acquirer dynamics
 
 Because each transit-prepaid card has a **single principal acquirer** (the issuer entity itself), merchant-fee economics differ structurally from card-class multi-acquirer pricing:
+
+The following table is scoped to public primary sources (jreast.co.jp, pasmo.co.jp, jr-odekake.net). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jreast.co.jp; pasmo.co.jp; jr-odekake.net; jrhokkaido.co.jp]
 
 | Aspect | Transit prepaid (Suica / PASMO / ICOCA et al.) | Card (Visa / Mastercard / JCB) |
 |---|---|---|

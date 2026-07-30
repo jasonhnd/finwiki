@@ -1,12 +1,12 @@
 ---
 source: securities/progmat-tokenized-securities-infrastructure
-source_hash: 8b44c43aee6ec1e0
+source_hash: 2c2423405af46a1b
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Progmat トークン化証券インフラ"
-translated_at: 2026-06-26T08:29:40.689Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Progmat トークン化証券インフラ
@@ -18,6 +18,8 @@ translated_at: 2026-06-26T08:29:40.689Z
 Progmat は株式会社 Progmat（株式会社Progmat）が運営する日本のトークン化プラットフォームであり、[[megabanks/mizuho-fg|Mizuho]] 隣接かつ MUFG 主導の信託銀行トークン化作業からスピンアウトした（中核となる Progmat ST インフラは、複数銀行株主を持つ独立企業になる前に [[trust-banks/mitsubishi-ufj-trust-bank|Mitsubishi UFJ Trust and Banking]] 内部で生まれた）。トークン化された信託受益権（ST）、トークン化預金 / ステーブルコイン（Progmat Coin / Progmat UT）の発行およびライフサイクルインフラと、その後 [[securities/osaka-digital-exchange|Osaka Digital Exchange]] START 流通市場で取引されるセキュリティトークンのためのプラットフォームインフラを提供する。公開された Progmat 資料は、国内市場全体にわたる重要な ST 累積発行残高を報告しており、Progmat が取り扱った案件が過半数シェアを形成している。競合プラットフォームには BOOSTRY（野村主導、ST 発行支援にも位置づけ）と ibet for FIN（コンソーシアム・プラットフォーム）が含まれる。これら 3 つが、[[securities/japan-security-token-secondary-market-route|ST secondary market routes]] の ST 発行体側の背後に位置する日本の ST 発行プラットフォームの三角形を形成する。
 
 ## プラットフォーム・アイデンティティ
+
+以下の表は、エントリ出典インベントリの公開一次資料（progmat.co.jp, mufg.jp, tr.mufg.jp）の範囲に限定して読む。^[source:progmat.co.jp; mufg.jp; tr.mufg.jp; fsa.go.jp]
 
 | フィールド | 公開された読み |
 |---|---|
@@ -45,6 +47,8 @@ Progmat は株式会社 Progmat（株式会社Progmat）が運営する日本の
 
 ## Progmat ST 商品アーキテクチャ
 
+以下の表は、エントリ出典インベントリの公開一次資料（progmat.co.jp, mufg.jp, tr.mufg.jp）の範囲に限定して読む。^[source:progmat.co.jp; mufg.jp; tr.mufg.jp; fsa.go.jp]
+
 | レイヤー | 機能 |
 |---|---|
 | 発行体 | 原資産（例：不動産物件保有、債券ポートフォリオ、ファンド持分）を組成する。 |
@@ -71,6 +75,8 @@ Progmat Coin（ステーブルコイン / トークン化預金の商品レイ�
 
 日本の ST 発行プラットフォームは、それぞれ異なる株主支援と商品志向を持つ三極アーキテクチャに落ち着いている：
 
+以下の表は、エントリ出典インベントリの公開一次資料（progmat.co.jp, mufg.jp, tr.mufg.jp）の範囲に限定して読む。^[source:progmat.co.jp; mufg.jp; tr.mufg.jp; fsa.go.jp]
+
 | プラットフォーム | 運営主体 | アンカー / 系譜 | 志向 |
 |---|---|---|---|
 | Progmat | Progmat Inc. | MUFG グループ起源；複数銀行株主 | 信託受益権 ST + Progmat Coin / SC 統合；銀行主導エコシステム。 |
@@ -90,6 +96,8 @@ Progmat Coin（ステーブルコイン / トークン化預金の商品レイ�
 
 Progmat 公開コンセプトページのソースパックから、以下の市場規模フィールドが開示されている（スナップショット値；時間に敏感な用途では表示ページの日付を確認すること）：
 
+以下の表は、エントリ出典インベントリの公開一次資料（progmat.co.jp, mufg.jp, tr.mufg.jp）の範囲に限定して読む。^[source:progmat.co.jp; mufg.jp; tr.mufg.jp; fsa.go.jp]
+
 | フィールド | 報告値 |
 |---|---|
 | 国内累積セキュリティトークン案件数 | 87  |
@@ -100,6 +108,8 @@ Progmat 公開コンセプトページのソースパックから、以下の市
 これらの数値は、(a) 日本の ST 発行市場が兆円ではなく数千億円規模の初期段階にあること、(b) Progmat が報告スナップショットで発行済 ST 残高の概ね過半数シェアを保有していることを示している。両比率は変動する；スナップショットを無期限にキャッシュするのではなく、常に Progmat 公開ページに対して確認すること。
 
 ## 発行体 / サポートされる資産クラス
+
+以下の表は、エントリ出典インベントリの公開一次資料（progmat.co.jp, mufg.jp, tr.mufg.jp）の範囲に限定して読む。^[source:progmat.co.jp; mufg.jp; tr.mufg.jp; fsa.go.jp]
 
 | 資産クラス | 公開事例（発行ごとに確認のこと） |
 |---|---|
@@ -112,6 +122,8 @@ Progmat 公開コンセプトページのソースパックから、以下の市
 
 ## 規制および自主規制のアンカー
 
+以下の表は、エントリ出典インベントリの公開一次資料（progmat.co.jp, mufg.jp, tr.mufg.jp）の範囲に限定して読む。^[source:progmat.co.jp; mufg.jp; tr.mufg.jp; fsa.go.jp]
+
 | レイヤー | 役割 |
 |---|---|
 | FSA | トークン化証券流通スコープを持つ FIBO を認可；信託銀行の役割を監督；ST 流通に対処する 2022-06-22 市場制度ワーキンググループ中間報告を公表。 |
@@ -120,6 +132,8 @@ Progmat 公開コンセプトページのソースパックから、以下の市
 | 資金決済 / 銀行業 | Progmat Coin / SC 側は資金決済法 / 銀行法改定の下で規制される；厳格な ST 証券パスのスコープ外だが DvP にはアーキテクチャ上関連する。 |
 
 ## 現物株インフラとの比較
+
+以下の表は、エントリ出典インベントリの公開一次資料（progmat.co.jp, mufg.jp, tr.mufg.jp）の範囲に限定して読む。^[source:progmat.co.jp; mufg.jp; tr.mufg.jp; fsa.go.jp]
 
 | 次元 | 現物株（TSE） | ST（Progmat / BOOSTRY / ibet → START） |
 |---|---|---|

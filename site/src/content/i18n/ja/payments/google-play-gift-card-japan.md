@@ -1,12 +1,12 @@
 ---
 source: payments/google-play-gift-card-japan
-source_hash: 693b06072c1a6bd7
+source_hash: 258e34a5fc7c6e21
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Google Play Gift Card Japan: Google エコシステム向けクローズドループ前払"
-translated_at: 2026-06-26T08:38:42.155Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Google Play Gift Card Japan: Google エコシステム向けクローズドループ前払
 
@@ -19,6 +19,8 @@ translated_at: 2026-06-26T08:38:42.155Z
 **Google Play Gift Card (Google Playギフトカード)** は、**Google Play ストアおよび Google エコシステムサービス向けのクローズドループ前払ギフトカード**である。日本では **Google Asia Pacific Pte Ltd / Google Japan G.K.** が、国内のコンビニエンスストアや家電量販店の販売網と組んで発行し、[[payments/funds-transfer-vs-prepaid-boundary|Payment Services Act 前払式 framework]] の下で自家型 (closed-loop) 前払式支払手段として運営される。残高は **Google Play ストア**（アプリ、アプリ内購入、ゲーム、書籍、映画 — Google Play Pass サブスクリプションを含む）と一部 Google サービスで利用できる。**[[payments/apple-gift-card-japan|Apple Gift Card]] に対する Android エコシステム側の対応物**として、Google Play Gift Card は、登録クレジットカードを持たないユーザー（未成年、クレジットカード非保有層、ギフト受領者）にアプリおよびアプリ内購入への **カードレス導線** を提供するという同じ構造的役割を果たす。販売レールには、コンビニエンスストア（Lawson、FamilyMart、MiniStop、7-Eleven、Daily Yamazaki）、ドラッグストア、家電量販店（Yamada Denki、Bic Camera、Yodobashi Camera、Edion）、オンラインのデジタル販売が含まれる。
 
 ## 発行者と運営構造
+
+以下の表は、エントリ出典インベントリの公開一次資料（play.google.com, support.google.com, google.co.jp）の範囲に限定して読む。^[source:play.google.com; support.google.com; google.co.jp; fsa.go.jp]
 
 | 観点 | 読み方 |
 |---|---|
@@ -45,6 +47,8 @@ Google Play Gift Card は、利用先が Google 自身のプラットフォー�
 
 Google Play Gift Card の日本における主な役割は、特に次の層に対する **Android ユーザー向けカードレス導線** である。
 
+以下の表は、エントリ出典インベントリの公開一次資料（play.google.com, support.google.com, google.co.jp）の範囲に限定して読む。^[source:play.google.com; support.google.com; google.co.jp; fsa.go.jp]
+
 | コホート | 用途 |
 |---|---|
 | **未成年** | クレジットカードを持たない 18 歳未満のユーザーが、ギフトカード残高でアプリ、アプリ内購入、ゲームを購入する。 |
@@ -56,6 +60,8 @@ Google Play Gift Card の日本における主な役割は、特に次の層に�
 **モバイルゲーム支出レーン** は構造的に重要である。日本のモバイルゲーム市場は Google Play のアプリ内購入額を大きく押し上げており、その相当部分はクレジットカード直接課金ではなく、ギフトカードでチャージされた残高から生じる。
 
 ## 販売レール
+
+以下の表は、エントリ出典インベントリの公開一次資料（play.google.com, support.google.com, google.co.jp）の範囲に限定して読む。^[source:play.google.com; support.google.com; google.co.jp; fsa.go.jp]
 
 | レール | 説明 |
 |---|---|
@@ -75,6 +81,8 @@ Google Play Gift Card の日本における主な役割は、特に次の層に�
 - NPA と消費者保護当局は、詐欺パターンの注意喚起で Google Play Gift Card を Amazon や Apple と並べて名指ししている。
 
 ## KPI スナップショット
+
+以下の表は、エントリ出典インベントリの公開一次資料（play.google.com, support.google.com, google.co.jp）の範囲に限定して読む。^[source:play.google.com; support.google.com; google.co.jp; fsa.go.jp]
 
 | 指標 | 読み方 |
 |---|---|

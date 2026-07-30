@@ -1,12 +1,12 @@
 ---
 source: securities/japan-prime-brokerage-and-institutional-financing-matrix
-source_hash: 8f475cc2e9a55a28
+source_hash: 1eb470c7b710c7e7
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本のプライムブローカレッジと機関投資家ファイナンスのマトリクス"
-translated_at: 2026-06-26T08:31:59.833Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本のプライムブローカレッジと機関投資家ファイナンスのマトリクス
@@ -174,6 +174,8 @@ translated_at: 2026-06-26T08:31:59.833Z
 
 ## プロバイダー横断比較表
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, jsda.or.jp, jpx.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; jsda.or.jp; jpx.co.jp; jasdec.com]
+
 | Dimension | Nomura | Daiwa SG | SMBC Nikko | Mizuho Securities | SBI Securities | GS Japan | MS Japan / MUMSS | JPM Japan | Citi Japan | BofA Japan |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Provider archetype** | Independent IB (domestic) | Independent IB (domestic) | Megabank arm (SMFG) | Megabank arm (Mizuho FG) | Online-broker-rooted | Global IB | Global IB + MUFG JV | Global IB + banking | Global IB + FX/rates depth | Global IB |
@@ -201,6 +203,8 @@ translated_at: 2026-06-26T08:31:59.833Z
 担保ヘアカットに関する注記: 公表された参考レンジ（野村: cash 0%、JGB 2-5%、流動性ティアによる上場株式 15-40%、REIT 25-45%、ETF 15-30%、非上場はケースバイケースで交渉）は例示である — 実際のヘアカットグリッドはクライアント / ファンド / 集中度ごとに二者間で交渉され、詳細は公に開示されない。
 
 ## 株式貸出フィーのベンチマークガイド日本における SLB（証券貸借）市場の公開情報ベースのベンチマークは、JSDA の自主規制集計公表、[[financial-regulators/japan-securities-finance|Japan Securities Finance]] の公表レート参照、および JPX の信用取引統計から得られる。日本における機関投資家の株式借入に対する **参考フィーレンジ**（銘柄、集中度、リコールリスク、コーポレートアクションの近接性、カウンターパーティによって大きく変動する）:
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, jsda.or.jp, jpx.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; jsda.or.jp; jpx.co.jp; jasdec.com]
 
 | Borrow tier | Indicative annualized fee range | Typical names |
 |---|---|---|

@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/banco-do-brasil-japan
-source_hash: ef6c4222c33ad7a2
+source_hash: c502ec26a396244b
 lang: en
 status: machine
 fidelity: ok
 title: "ブラジル銀行日本 (Banco do Brasil Japan)"
-translated_at: 2026-05-31T11:13:44.916Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # ブラジル銀行日本 (Banco do Brasil Japan)
@@ -24,6 +24,8 @@ The page is worth standalone treatment because the Brazil-Japan corridor has str
 
 ## Entity Boundary
 
+The following table is scoped to public primary sources (fsa.go.jp, bb.com.br). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; bb.com.br]
+
 | Item | Reading |
 |---|---|
 | Parent bank | Banco do Brasil S.A. |
@@ -33,6 +35,8 @@ The page is worth standalone treatment because the Brazil-Japan corridor has str
 | Historical caution | FSA issued an administrative action against the Tokyo Branch in 2004; treat it as historical compliance context, not a current finding. |
 
 ## Business Role Map
+
+The following table is scoped to public primary sources (fsa.go.jp, bb.com.br). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; bb.com.br]
 
 | Function | Japan relevance |
 |---|---|

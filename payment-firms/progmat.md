@@ -3,8 +3,8 @@ title: "株式会社Progmat"
 aliases: ["Progmat", "Progmat Inc.", "株式会社Progmat", "プログマット"]
 domain: payment-firms
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, stablecoin, digital-assets, trust-bank, tokenization]
@@ -31,6 +31,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it with 
 株式会社Progmatは digital asset issuance / management platform operator。Stablecoin では信託型の Progmat Coin / Project Pax 系の基盤として重要だが、同社自身が銀行・信託会社・電子決済手段等取引業者になるわけではなく、発行体は [[trust-banks/mitsubishi-ufj-trust-bank|三菱UFJ信託銀行]] などの regulated trust-bank side に残る。
 
 ## 1. 法人・ライセンス境界
+
+The following table is scoped to public primary sources (progmat.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:progmat.co.jp]
 
 | Item | Reading |
 |---|---|

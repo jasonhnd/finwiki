@@ -1,12 +1,12 @@
 ---
 source: payments/japan-bank-api-incident-and-fraud-control
-source_hash: 0bf16dee83164eb7
+source_hash: b2b1396d16d908b2
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の銀行 API インシデントと不正管理マップ"
-translated_at: 2026-06-26T08:28:46.064Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 日本の銀行 API インシデントと不正管理マップ
 
@@ -15,6 +15,8 @@ translated_at: 2026-06-26T08:28:46.064Z
 このページは [[payments/japan-bank-api-payment-agency-route|Japan bank API route]]、[[payments/account-to-account-payment-japan|Japan account-to-account payment route]]、[[payments/merchant-bank-pay-account-direct-acquiring|加盟店 account-direct アクワイアリング]]、[[payments/psp-merchant-settlement-risk|PSP 決済 risk]]、[[banking/quick-deposit-four-methods|quick deposit methods]]、[[financial-licenses/INDEX|JapanFG legal / financial licenses]] とあわせて使います。
 
 ## インシデント面
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, zenginkyo.or.jp, fisc.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; zenginkyo.or.jp; fisc.or.jp; jeppo.jp]
 
 | インシデント種別 | 最初の問い | 確認ルート |
 |---|---|---|
@@ -26,6 +28,8 @@ translated_at: 2026-06-26T08:28:46.064Z
 | 返金 / 取消し破綻 | 支払指図は決済されたが、加盟店または会計上の状態が失敗したか。 | A2A 支払ルート、PSP 照合、加盟店契約。 |
 
 ## 管理スタック
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, zenginkyo.or.jp, fisc.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; zenginkyo.or.jp; fisc.or.jp; jeppo.jp]
 
 | レイヤー | 管理 |
 |---|---|

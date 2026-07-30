@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/industrial-bank-of-korea-japan
-source_hash: 462c4be06471bc06
+source_hash: efecd2f1308cd203
 lang: en
 status: machine
 fidelity: ok
 title: "Small and Medium Enterprise Bank Tokyo Branch"
-translated_at: 2026-05-31T15:29:03.904Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Small and Medium Enterprise Bank Tokyo Branch
@@ -20,6 +20,8 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 Small and Medium Enterprise Bank Tokyo Branch is a bank branch in Japan of Industrial Bank of Korea / IBK, which is listed on the Financial Services Agency's list of foreign bank branches. As the Japan branch of the Korean SME finance bank, we serve as a point of contact for Korean companies, Japanese companies, and the SME finance network.
 
 ## 1. License / branch boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, global.ibk.co.kr, zenginkyo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; global.ibk.co.kr; zenginkyo.or.jp]
 
 |Item|Notes|
 |---|---|

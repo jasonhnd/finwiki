@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/taishin-bank-japan
-source_hash: 840e745a2b24fd2f
+source_hash: 6bfc4450c3a95e62
 lang: en
 status: machine
 fidelity: ok
 title: ""
-translated_at: 2026-06-01T02:31:57.103Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 ﻿# Taishin International Bank Japan
 
@@ -23,6 +23,8 @@ The Tokyo Branch is worth standalone treatment because FinWiki's Taiwan corridor
 
 ## Entity Boundary
 
+The following table is scoped to public primary sources (fsa.go.jp, taishinbank.com.tw). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; taishinbank.com.tw]
+
 | Item | Reading |
 |---|---|
 | Parent bank | Taishin International Bank |
@@ -33,6 +35,8 @@ The Tokyo Branch is worth standalone treatment because FinWiki's Taiwan corridor
 | Regulatory route | FSA foreign-bank branch list |
 
 ## Business Role Map
+
+The following table is scoped to public primary sources (fsa.go.jp, taishinbank.com.tw). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; taishinbank.com.tw]
 
 | Function | Japan relevance |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: payment-firms/bnpl-landscape
-source_hash: 99b6c4d9ee1c40e2
+source_hash: 340b3017e20deb8d
 lang: en
 status: machine
 fidelity: ok
 title: "Japan BNPL landscape"
-translated_at: 2026-05-31T11:13:44.842Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan BNPL landscape
@@ -22,6 +22,8 @@ For JapanFG, the control question is: **is the product only delayed settlement, 
 
 ## Market Map
 
+The following table is scoped to public primary sources (paidy.com, investor.pypl.com, newsroom.jp.paypal-corp.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:paidy.com; investor.pypl.com; newsroom.jp.paypal-corp.com]
+
 |Layer|Japan example|Why it matters|
 |---|---|---|
 |Dedicated BNPL|[[payment-firms/paidy|Paidy]]|Japan's signature BNPL platform; PayPal ownership makes it a global-payments bridge|
@@ -31,6 +33,8 @@ For JapanFG, the control question is: **is the product only delayed settlement, 
 |Convenience-store repayment|Paidy-style pay-at-konbini behavior|Japan-specific bridge from online purchase to offline cash repayment|
 
 ## Legal / Product Boundary
+
+The following table is scoped to public primary sources (paidy.com, investor.pypl.com, newsroom.jp.paypal-corp.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:paidy.com; investor.pypl.com; newsroom.jp.paypal-corp.com]
 
 |Product design|Legal question|
 |---|---|
@@ -62,6 +66,8 @@ Japan already had mature credit-card installment / revolving systems and strong 
 - app ecosystems that can subsidize credit with points.
 
 ## JapanFG Relevance
+
+The following table is scoped to public primary sources (paidy.com, investor.pypl.com, newsroom.jp.paypal-corp.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:paidy.com; investor.pypl.com; newsroom.jp.paypal-corp.com]
 
 |JapanFG entity|Relevance|
 |---|---|

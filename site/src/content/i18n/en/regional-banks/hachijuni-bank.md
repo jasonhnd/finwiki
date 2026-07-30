@@ -1,11 +1,11 @@
 ---
 source: regional-banks/hachijuni-bank
-source_hash: 50e5fbe69de0aa48
+source_hash: 96a8dc7431a6645d
 lang: en
 status: machine
 fidelity: ok
 title: "The Hachijuni Bank, Ltd. (株式会社八十二銀行)"
-translated_at: 2026-06-19T12:43:19.972Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # The Hachijuni Bank, Ltd. (株式会社八十二銀行)
@@ -53,6 +53,8 @@ Hachijuni Bank (old standalone bank, listed 8359)
 
 ### Key chronology (excerpt)
 
+The following table is scoped to public primary sources (fsa.go.jp, bank.82group.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; bank.82group.jp]
+
 | Year/month | Event |
 |---|---|
 | 1877 | **The 63rd National Bank established** (under the Meiji-era National Bank Ordinance)|
@@ -67,6 +69,8 @@ Hachijuni Bank (old standalone bank, listed 8359)
 | 2026  FSA snapshot | [[regional-banks/hachijuni-nagano-bank|株式会社八十二長野銀行]] listed in the regional-bank list |
 
 ## 2. Business segment map
+
+The following table is scoped to public primary sources (fsa.go.jp, bank.82group.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; bank.82group.jp]
 
 | Segment | Main operators | Characteristics |
 |---|---|---|

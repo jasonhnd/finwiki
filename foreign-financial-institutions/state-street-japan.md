@@ -3,8 +3,8 @@ title: ステート・ストリート (State Street Japan)
 aliases: ["State Street Japan", "ステート・ストリート", "State Street", "ステート・ストリート銀行", "State Street Bank", "ステート・ストリート信託銀行", "State Street Trust Bank", "ステート・ストリート・グローバル・アドバイザーズ", "State Street Global Advisors", "SSGA", "SPDR", "State Street Bank and Trust Company"]
 domain: foreign-financial-institutions
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, foreign-bank, custodian]
@@ -87,6 +87,8 @@ State Street Corporation（米 NYSE: STT・FRB / OCC 監督）
 
 ## 3. 事業セグメント・マップ
 
+The following table is scoped to public primary sources (Wikipedia: ステート・ストリート信託銀行 (2026-05-19 参照), Wikipedia: ステート・ストリート (2026-05-19 参照), State Street 公式: 日本におけるステート・ストリートの概要 (statestreet.com/jp, 2026-05-19 参照)). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Wikipedia: ステート・ストリート信託銀行 (2026-05-19 参照); Wikipedia: ステート・ストリート (2026-05-19 参照); State Street 公式: 日本におけるステート・ストリートの概要 (statestreet.com/jp, 2026-05-19 参照)]
+
 | セグメント | 在日担い手 | 特徴 |
 |---|---|---|
 | **グローバルカストディ** | ステート・ストリート銀行 東京支店 + 信託銀行 | 米国 ADR・海外株式・海外債券・オルタナ資産の保管・決済・コーポレートアクション処理 — 親会社の主力収益柱 |
@@ -102,6 +104,8 @@ State Street Corporation（米 NYSE: STT・FRB / OCC 監督）
 - **[[megabanks/mufg]] 株主構成 4.51%（2025-03-31）の意味**：これは **機関投資家の海外保管口座経由の名義集約**（カストディアン名義集積）であり、State Street 自身による戦略保有ではない ^[extracted]
 
 ### 主要競合
+
+The following table is scoped to public primary sources (Wikipedia: ステート・ストリート信託銀行 (2026-05-19 参照), Wikipedia: ステート・ストリート (2026-05-19 参照), State Street 公式: 日本におけるステート・ストリートの概要 (statestreet.com/jp, 2026-05-19 参照)). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Wikipedia: ステート・ストリート信託銀行 (2026-05-19 参照); Wikipedia: ステート・ストリート (2026-05-19 参照); State Street 公式: 日本におけるステート・ストリートの概要 (statestreet.com/jp, 2026-05-19 参照)]
 
 | 領域 | 主要競合 |
 |---|---|

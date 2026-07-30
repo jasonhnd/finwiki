@@ -1,11 +1,11 @@
 ---
 source: payment-firms/paypay
-source_hash: 00b621e1505e84be
+source_hash: 77a57adf7dc6985f
 lang: ja
 status: machine
 fidelity: ok
 title: "PayPay株式会社"
-translated_at: 2026-06-26T03:26:36.040Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # PayPay株式会社
@@ -20,6 +20,8 @@ translated_at: 2026-06-26T03:26:36.040Z
 PayPay株式会社は [[megabanks/paypay-fg|PayPay金融グループ]] の消費者向けウォレット・コード決済運営会社。公式会社概要はモバイルペイメント等の電子決済サービスを主業とし、前払式支払手段、クレジットカード番号等取扱契約締結事業者、資金移動業、電子決済等代行業、賃金デジタル払い指定資金移動業者などの登録を列挙している。^[verified-2026-06-24]
 
 ## 1. 法人・ライセンス境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（about.paypay.ne.jp, fsa.go.jp）の範囲に限定して読む。^[source:about.paypay.ne.jp; fsa.go.jp]
 
 | 項目 | 読み方 |
 |---|---|

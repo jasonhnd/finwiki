@@ -3,8 +3,8 @@ title: "ユナイテッド・オーバーシーズ銀行 東京支店"
 aliases: ["UOB Japan", "UOB Tokyo Branch", "United Overseas Bank Tokyo Branch", "United Overseas Bank Limited Tokyo Branch", "ユナイテッド・オーバーシーズ銀行"]
 domain: foreign-financial-institutions
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, banking, foreign-bank-branch, singapore, wholesale-banking, operating-branch]
@@ -27,6 +27,8 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 ユナイテッド・オーバーシーズ銀行 東京支店は、金融庁の外国銀行支店一覧に掲載される Singapore / United Overseas Bank Limited の在日銀行支店。1972 年設立の UOB Tokyo は、日本とアジアの cross-border investment bridge として corporate banking, FI coverage, property funds, sponsors, and FDI support を担う。
 
 ## 1. License / branch boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, uobgroup.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; uobgroup.com]
 
 | Item | Notes |
 |---|---|

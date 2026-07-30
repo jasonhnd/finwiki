@@ -1,11 +1,11 @@
 ---
 source: payment-firms/gmo-epsilon
-source_hash: 5f0322e56d599f2c
+source_hash: 2306e1f6db323bf4
 lang: en
 status: machine
 fidelity: ok
 title: "GMO Epsilon"
-translated_at: 2026-05-31T15:29:03.877Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # GMO Epsilon
@@ -20,6 +20,8 @@ This entry sits under[[payment-firms/INDEX|payment-firms INDEX]]Read it against[
 GMO Epsilon is[[payment-firms/gmo-payment-gateway|GMO Payment Gateway]]PSP for SME/EC under the umbrella. The official company profile shows online sales payment agency, payment collection agency, funds transfer business, electronic payment agency, etc., and this page shows both merchant settlement and funds-transfer adjacency.
 
 ## 1.Corporation/License Boundary
+
+The following table is scoped to public primary sources (epsilon.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:epsilon.jp; meti.go.jp]
 
 | Item | Reading |
 |---|---|

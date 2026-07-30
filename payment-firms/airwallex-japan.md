@@ -3,8 +3,8 @@ title: "Airwallex Japan"
 aliases: ["Airwallex Japan", "Airwallex Japan株式会社", "Airwallex Japan K.K.", "Ａｉｒｗａｌｌｅｘ Ｊａｐａｎ株式会社"]
 domain: payment-firms
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, payments, remittance, b2b-payments, funds-transfer, acquirer]
@@ -27,6 +27,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 Airwallex Japan株式会社は Airwallex group の Japan B2B payments and cross-border funds-transfer operator。公式発表は第二種資金移動業者登録と、日本企業向け onboarding / local payout / collection service 展開を示している。
 
 ## 1. 法人・ライセンス境界
+
+The following table is scoped to public primary sources (airwallex.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:airwallex.com; fsa.go.jp]
 
 | Item | Reading |
 |---|---|

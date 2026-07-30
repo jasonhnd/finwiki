@@ -9,8 +9,8 @@ aliases:
   - "令和7年度税制改正"
 domain: "securities"
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [securities, NISA, tax-reform, MOF, FSA, household-investment]
@@ -78,6 +78,8 @@ Confirm the current statutory position from the MOF Tax Reform Outline text and 
 ## Operational Improvement Items
 
 Recurring practical-operation items in NISA reform discussions include:
+
+The following table is scoped to public primary sources (mof.go.jp, fsa.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:mof.go.jp; fsa.go.jp; jsda.or.jp; nta.go.jp]
 
 | Item | Direction |
 |---|---|

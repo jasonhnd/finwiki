@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/socgen-japan
-source_hash: 9c01c97c82be10d0
+source_hash: 83358b68f819678d
 lang: en
 status: machine
 fidelity: ok
 title: "Societe Generale Japan"
-translated_at: 2026-06-01T02:31:57.151Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Societe Generale Japan
@@ -20,6 +20,8 @@ Societe Generale Japan is the collection of Japan offices and entities of the ma
 
 ## 1. Company Overview
 
+The following table is scoped to public primary sources (societegenerale.asia, wholesale.banking.societegenerale.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:societegenerale.asia; wholesale.banking.societegenerale.com; fsa.go.jp]
+
 | Item | Description |
 |---|---|
 | Parent company | Societe Generale S.A. |
@@ -32,6 +34,8 @@ Societe Generale Japan is the collection of Japan offices and entities of the ma
 In the FSA list of registered financial institutions, Societe Generale Bank Tokyo Branch can be confirmed as a registered financial institution under Director-General of the Kanto Local Finance Bureau (registered financial institution) 第90号. The foreign-bank agency bank list also confirms authorizations relating to Societe Generale Bank Tokyo Branch.
 
 ## 2. Business Segment Map
+
+The following table is scoped to public primary sources (societegenerale.asia, wholesale.banking.societegenerale.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:societegenerale.asia; wholesale.banking.societegenerale.com; fsa.go.jp]
 
 | Business | Description | Positioning in Japan |
 |---|---|---|

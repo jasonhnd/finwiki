@@ -1,11 +1,11 @@
 ---
 source: securities/japan-market-infrastructure-map
-source_hash: 3f63ff70b78f9ee6
+source_hash: 4ef41773579893a6
 lang: en
 status: machine
 fidelity: ok
 title: "Japan market infrastructure map"
-translated_at: 2026-06-01T03:31:12.279Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan market infrastructure map
@@ -19,6 +19,8 @@ Use this page as the route map for [[securities/tokyo-stock-exchange|Tokyo Stock
 This is the infrastructure route inside [[securities/INDEX|securities domain]]; use [[securities/financial-instruments-business-operators-japan-index|FIEA operator registry index]] and [[financial-licenses/INDEX|JapanFG legal / financial licenses]] when the question turns from market plumbing to firm registration or legal status.
 
 ## Layer Map
+
+The following table is scoped to public primary sources (jpx.co.jp, jasdec.com, jsf.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp; jasdec.com; jsf.co.jp; japannext.co.jp]
 
 | Layer | Main actors | What to use it for |
 |---|---|---|
@@ -51,6 +53,8 @@ JPX's clearing / settlement materials describe the functional split between trad
 
 ## Venue Map
 
+The following table is scoped to public primary sources (jpx.co.jp, jasdec.com, jsf.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp; jasdec.com; jsf.co.jp; japannext.co.jp]
+
 | Venue / infrastructure | Page | Key reading |
 |---|---|---|
 | JPX holding company | [[financial-regulators/japan-exchange-group]] | Group-level owner and governance of TSE, OSE, TOCOM, JSCC, JPX-R, JPX Market Innovation & Research. |
@@ -65,6 +69,8 @@ JPX's clearing / settlement materials describe the functional split between trad
 | Euroclear / Clearstream | [[foreign-financial-institutions/euroclear-bank-japan]], [[foreign-financial-institutions/clearstream-banking-japan]] | ICSD / cross-border custody and collateral route for Japan assets. |
 
 ## Why This Matters
+
+The following table is scoped to public primary sources (jpx.co.jp, jasdec.com, jsf.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp; jasdec.com; jsf.co.jp; japannext.co.jp]
 
 | Analytical question | Infrastructure route |
 |---|---|

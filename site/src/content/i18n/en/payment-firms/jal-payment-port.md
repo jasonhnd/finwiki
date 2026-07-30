@@ -1,11 +1,11 @@
 ---
 source: payment-firms/jal-payment-port
-source_hash: 2ce16eefc9fe53bf
+source_hash: 41c2aa9df777807e
 lang: en
 status: machine
 fidelity: ok
 title: "JAL Payment Port (JALペイメント・ポート)"
-translated_at: 2026-06-15T03:48:21.846Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # JAL Payment Port (JALペイメント・ポート)
@@ -21,6 +21,8 @@ JAL Payment Port Co., Ltd. is the operator behind JAL Pay / travel-wallet paymen
 For FinWiki, this is the travel / loyalty wallet route linking airline membership, prepaid value, transfer capability, bank agency, and financial product mediation.
 
 ## 1. Corporate / license boundary
+
+The following table is scoped to public primary sources (jal.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jal.co.jp; fsa.go.jp]
 
 | Item | Reading |
 |---|---|

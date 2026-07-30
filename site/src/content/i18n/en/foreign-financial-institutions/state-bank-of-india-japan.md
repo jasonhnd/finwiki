@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/state-bank-of-india-japan
-source_hash: fc0c622d621e12d8
+source_hash: 36a801cced3538c2
 lang: en
 status: machine
 fidelity: ok
 title: "State Bank of India Japan"
-translated_at: 2026-06-01T02:31:57.137Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # State Bank of India Japan
 
@@ -23,6 +23,8 @@ Registration is observed in the checked FSA source as of 2026-05-13; this page d
 
 ## Disambiguation
 
+The following table is scoped to public primary sources (fsa.go.jp, jp.statebank, ibajapan.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jp.statebank; ibajapan.org]
+
 | Name | Meaning |
 |---|---|
 | State Bank of India / SBI | Indian public-sector banking group with Japan branch operations. |
@@ -33,6 +35,8 @@ Always write out "State Bank of India" at first mention when the page sits near 
 
 ## India-Japan Corridor Role
 
+The following table is scoped to public primary sources (fsa.go.jp, jp.statebank, ibajapan.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jp.statebank; ibajapan.org]
+
 | Function | Japan relevance |
 |---|---|
 | Corporate banking | Supports India-Japan corporate clients and financial institutions. |
@@ -42,6 +46,8 @@ Always write out "State Bank of India" at first mention when the page sits near 
 | Foreign-bank agency route | FSA foreign-bank agency list is relevant where the Japan branch acts for foreign bank group services. |
 
 ## Peer Map
+
+The following table is scoped to public primary sources (fsa.go.jp, jp.statebank, ibajapan.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jp.statebank; ibajapan.org]
 
 | Page | Role |
 |---|---|

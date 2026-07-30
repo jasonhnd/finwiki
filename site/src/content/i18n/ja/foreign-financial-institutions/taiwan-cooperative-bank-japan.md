@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/taiwan-cooperative-bank-japan
-source_hash: ca0d2b221d21cb5d
+source_hash: 638f91ef6fa202a2
 lang: ja
 status: machine
 fidelity: ok
 title: "合作金庫商業銀行日本 (Taiwan Cooperative Bank Japan)"
-translated_at: 2026-06-18T23:59:13.132Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 合作金庫商業銀行日本 (Taiwan Cooperative Bank Japan)
@@ -24,6 +24,8 @@ translated_at: 2026-06-18T23:59:13.132Z
 
 ## 事業体の境界
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, tcb-bank.com.tw, fsc.gov.tw）の範囲に限定して読む。^[source:fsa.go.jp; tcb-bank.com.tw; fsc.gov.tw]
+
 | 項目 | 読み方 |
 |---|---|
 | 親会社（母行）| 合作金庫商業銀行（Taiwan Cooperative Bank）|
@@ -33,6 +35,8 @@ translated_at: 2026-06-18T23:59:13.132Z
 | 規制ルート | FSA 外国銀行支店一覧 |
 
 ## 事業上の役割マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, tcb-bank.com.tw, fsc.gov.tw）の範囲に限定して読む。^[source:fsa.go.jp; tcb-bank.com.tw; fsc.gov.tw]
 
 | 機能 | 日本での関連性 |
 |---|---|

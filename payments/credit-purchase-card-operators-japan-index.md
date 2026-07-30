@@ -9,8 +9,8 @@ aliases:
   - "JapanFG/tokyu-card"
 domain: "payments"
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [payments, credit-card, installment-sales-act, registry, meti, acquiring]
@@ -33,6 +33,8 @@ Read this page with [[payments/card-acquiring-japan-stack|Japan card acquiring s
 
 ## Registry Snapshot
 
+The following table is scoped to public primary sources (meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp]
+
 | Registry | As-of date | Count | Wiki treatment |
 |---|---:|---:|---|
 | 登録包括信用購入あっせん業者 | 2026-04 month-end | 241 | Route material card issuers / credit companies; keep regional long tail in METI PDFs. |
@@ -41,6 +43,8 @@ Read this page with [[payments/card-acquiring-japan-stack|Japan card acquiring s
 | クレジットカード番号等取扱契約締結事業者 | 2026-04 month-end | 275 | Use for acquirers, merchant PSPs, and card-number handling responsibility. |
 
 ## Boundary
+
+The following table is scoped to public primary sources (meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp]
 
 | Boundary | Treatment |
 |---|---|

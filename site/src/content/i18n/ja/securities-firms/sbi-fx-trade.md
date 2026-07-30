@@ -1,12 +1,12 @@
 ---
 source: securities-firms/sbi-fx-trade
-source_hash: 9ac79f075a732ab8
+source_hash: 5d40d9f693c4ece8
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "SBI FXトレード"
-translated_at: 2026-06-26T08:32:15.214Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # SBI FXトレード
@@ -20,6 +20,8 @@ translated_at: 2026-06-26T08:32:15.214Z
 SBI FXトレード株式会社は、[[megabanks/sbi-hd|SBI group]] の FX 専門 FIEA 事業者。金融商品取引法上の **第一種金融商品取引業者** として金融庁の金融商品取引業者一覧に「SBI FXトレード株式会社」（関東財務局長(金商)第2635号）で掲載される。公開会社概要によれば SBIリクイディティ・マーケット株式会社の 100% 子会社で、[[securities-firms/sbi-securities|SBI証券]] とは別法人として 店頭FX / 積立FX / option FX / crypto CFD adjacency を担う。
 
 ## 1. ライセンス／グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, corp.sbifxt.co.jp, sbigroup.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; corp.sbifxt.co.jp; sbigroup.co.jp]
 
 | 項目 | 備考 |
 |---|---|

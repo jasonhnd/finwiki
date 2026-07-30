@@ -1,11 +1,11 @@
 ---
 source: regional-banks/miyazaki-taiyo-bank
-source_hash: 18f756d7c06e061a
+source_hash: b3a861461fa5083e
 lang: ja
 status: machine
 fidelity: ok
 title: "宮崎太陽銀行"
-translated_at: 2026-06-15T04:09:41.188Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 宮崎太陽銀行
@@ -19,6 +19,8 @@ translated_at: 2026-06-15T04:09:41.188Z
 株式会社宮崎太陽銀行 (The Miyazaki Taiyo Bank) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される宮崎県宮崎市本店の第二地方銀行。宮崎県の第二地方銀行 事業会社アンカーであり、第一地銀の [[regional-banks/miyazaki-bank|宮崎銀行]] とは別法人の地域同業として扱う。事業の中身は県内の預金受入と中小企業・個人向け貸出という第二地銀の標準モデル。
 
 ## 1. 免許／グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, taiyobank.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; taiyobank.co.jp]
 
 | 項目 | 備考 |
 |---|---|

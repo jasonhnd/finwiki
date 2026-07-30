@@ -1,11 +1,11 @@
 ---
 source: regional-banks/tomato-bank
-source_hash: b06b658cad8e477f
+source_hash: 941d9cd405680f0e
 lang: ja
 status: machine
 fidelity: ok
 title: "トマト銀行"
-translated_at: 2026-06-15T04:09:41.165Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # トマト銀行
@@ -19,6 +19,8 @@ translated_at: 2026-06-15T04:09:41.165Z
 株式会社トマト銀行 (Tomato Bank) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される岡山県岡山市本店の第二地方銀行。系譜は 1931 年創業の倉敷無尽で、1989 年に山陽相互銀行から普通銀行へ転換して現商号となった岡山県内唯一の第二地銀。事業は岡山県を中心とした預金受入・中小企業/個人向け貸出という第二地銀の標準モデルで、第一地銀の [[regional-banks/chugoku-bank|中国銀行]] の地域 peer として扱う。
 
 ## 1. 免許 / グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, tomatobank.co.jp, ja.wikipedia.org）の範囲に限定して読む。^[source:fsa.go.jp; tomatobank.co.jp; ja.wikipedia.org]
 
 | 項目 | 備考 |
 |---|---|

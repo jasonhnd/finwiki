@@ -1,11 +1,11 @@
 ---
 source: life-insurers/cardif-life
-source_hash: 0ba963b0056f2d1f
+source_hash: 389e93e3f8be5112
 lang: ja
 status: machine
 fidelity: ok
 title: "カーディフ生命保険"
-translated_at: 2026-06-15T03:48:21.843Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # カーディフ生命保険
@@ -20,6 +20,8 @@ translated_at: 2026-06-15T03:48:21.843Z
 カーディフ生命保険株式会社は、金融庁の life-insurer list と生命保険協会会員一覧に載る foreign-affiliated Japan life insurer。[[foreign-financial-institutions/bnp-paribas-japan]] と同じ BNP Paribas / Cardif adjacency で見るが、FinWiki では bank / securities page ではなく、credit protection and bancassurance-oriented life-insurance operating company として扱う。
 
 ## 1. License / group boundary
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, life.cardif.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; life.cardif.co.jp]
 
 | Item | Notes |
 |---|---|

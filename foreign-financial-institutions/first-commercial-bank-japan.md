@@ -7,8 +7,8 @@ aliases:
   - "第一銀行東京支店"
 domain: foreign-financial-institutions
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-22
 confidence: likely
 tags: [JapanFG, foreign-bank, Taiwan, corporate-banking, trade-finance, remittance]
@@ -33,6 +33,8 @@ First Commercial Bank's Tokyo Branch public page says the branch was established
 The page is worth standalone treatment because FinWiki already covers several Taiwan corridor banks. First Commercial Bank fills an important missing row between the earlier Taiwan P1 pages and the newer Taipei Fubon branch story.
 
 ## Entity Boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, firstbank.com.tw). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; firstbank.com.tw]
 
 | Item | Reading |
 |---|---|

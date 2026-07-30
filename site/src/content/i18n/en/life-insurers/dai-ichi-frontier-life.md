@@ -1,11 +1,11 @@
 ---
 source: life-insurers/dai-ichi-frontier-life
-source_hash: 320758693d43d407
+source_hash: bd09babbc2403f42
 lang: en
 status: machine
 fidelity: ok
 title: "Daiichi Frontier Life Insurance"
-translated_at: 2026-05-31T15:29:03.948Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Daiichi Frontier Life Insurance
@@ -20,6 +20,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 Dai-ichi Frontier Life Insurance Co., Ltd. is a life-insurance operating company of the [[life-insurers/dai-ichi-life]] group. We are a separate legal entity on the Financial Services Agency's life-insurer list, and are seen as a group specialist that handles savings-type/investment-style insurance products that are highly compatible with the bank/financial-institution channel.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, d-frontier-life.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; d-frontier-life.co.jp]
 
 | Item | Notes |
 |---|---|

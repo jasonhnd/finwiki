@@ -1,11 +1,11 @@
 ---
 source: life-insurers/medicare-life
-source_hash: 1328ddf50cc2b04b
+source_hash: 5cfb525306a635ba
 lang: en
 status: machine
 fidelity: ok
 title: "Medicare Life Insurance (メディケア生命保険)"
-translated_at: 2026-06-19T06:09:18.190Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Medicare Life Insurance (メディケア生命保険)
@@ -20,6 +20,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 Medicare Life Insurance Co., Ltd. (メディケア生命保険株式会社) is the life-insurance operating company of the [[life-insurers/sumitomo-life]] group, listed on the FSA life-insurer list and the Life Insurance Association of Japan member list. It is carved out from the Sumitomo Life parent itself as a specialty insurer focused on medical / protection product focus and multi-channel distribution.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, medicarelife.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; medicarelife.com]
 
 | Item | Notes |
 |---|---|

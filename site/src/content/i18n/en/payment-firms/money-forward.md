@@ -1,11 +1,11 @@
 ---
 source: payment-firms/money-forward
-source_hash: 64fa0848ee70cb02
+source_hash: f857de8b5b633615
 lang: en
 status: machine
 fidelity: ok
 title: "Money Forward, Inc. (株式会社マネーフォワード)"
-translated_at: 2026-06-19T06:09:18.035Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Money Forward, Inc. (株式会社マネーフォワード)
@@ -37,6 +37,8 @@ Japan's largest PFM (Personal Financial Management) + the leading SME-oriented a
 
 ### Major shareholders / capital alliances (varies by point in time)
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Shareholder | Overview |
 |---|---|
 | Monex Group | Founding-period investment, relationship maintained |
@@ -62,6 +64,8 @@ Money Forward (holding company · listed 3994)
 
 ### Key chronology ^[extracted]
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Year / month | Event |
 |---|---|
 | 2012-05-18 | Yosuke Tsuji founds the company, spinning out as a former Monex Group employee |
@@ -78,6 +82,8 @@ Money Forward (holding company · listed 3994)
 | 2025〜 | Acceleration of corporate SaaS + BPaaS strategy, expansion of AI features |
 
 ## 2. Business segment map
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Segment | Main service | Target | Competitors |
 |---|---|---|---|
@@ -113,6 +119,8 @@ Money Forward (holding company · listed 3994)
 - **AS Capital alliance**: a VC partner since the founding period
 
 ### Competition and differentiation
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Competitor | Strength | Difference from Money Forward |
 |---|---|---|

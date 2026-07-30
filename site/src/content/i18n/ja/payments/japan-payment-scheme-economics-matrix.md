@@ -1,12 +1,12 @@
 ---
 source: payments/japan-payment-scheme-economics-matrix
-source_hash: ba7a2ece0be052ca
+source_hash: 3191f6cc0976ef98
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の決済スキーム経済性マトリクス"
-translated_at: 2026-06-26T08:29:17.580Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本の決済スキーム経済性マトリクス
@@ -23,6 +23,8 @@ translated_at: 2026-06-26T08:29:17.580Z
 
 4 つのクラスは、消費者がどうタップ・スキャン・カード保持するかで主に異なるのではなく、価値が通過する **残高レイヤー**と、事業者が担う **ライセンスルート**で異なる。
 
+以下の表は、エントリ出典インベントリの公開一次資料（paymentsjapan.or.jp, meti.go.jp, boj.or.jp）の範囲に限定して読む。^[source:paymentsjapan.or.jp; meti.go.jp; boj.or.jp; jftc.go.jp]
+
 | クラス | 例 | 残高レイヤー | 主たるライセンスルート |
 |---|---|---|---|
 | カード決済 | Visa, Mastercard, [[card-issuers/jcb\|JCB]], Amex, Diners | 発行体の与信枠（後払い）| 割賦販売法（信販／包括信用購入あっせん）+ ブランドルール |
@@ -33,6 +35,8 @@ translated_at: 2026-06-26T08:29:17.580Z
 各クラスには **スキーム運営者**（ネットワークルールと決済venue を所有する主体）と、どの消費者保護ルール・資金保全・払戻メカニクスが適用されるかを決める **日本法上のライセンス**がある。
 
 ## スキーム運営者と決済venue
+
+以下の表は、エントリ出典インベントリの公開一次資料（paymentsjapan.or.jp, meti.go.jp, boj.or.jp）の範囲に限定して読む。^[source:paymentsjapan.or.jp; meti.go.jp; boj.or.jp; jftc.go.jp]
 
 | クラス | スキーム運営者のパターン | 実際に資金が決済される場所 |
 |---|---|---|
@@ -45,6 +49,8 @@ translated_at: 2026-06-26T08:29:17.580Z
 
 ## 日本法上のライセンスライセンスの問題は UX ではなく残高レイヤーの下流にある。ページの読者は、まずどの副残高に取引が触れたかを特定せずに PayPay を「クレジットカードの競合」と呼ぶべきではない。
 
+以下の表は、エントリ出典インベントリの公開一次資料（paymentsjapan.or.jp, meti.go.jp, boj.or.jp）の範囲に限定して読む。^[source:paymentsjapan.or.jp; meti.go.jp; boj.or.jp; jftc.go.jp]
+
 | クラス | ライセンススタック | 主たる義務 |
 |---|---|---|
 | カード | 割賦販売法登録（包括信用購入あっせん業者／包括信用購入あっせん業等）；発行体対加盟店契約主体（アクワイアラ）対 PSP の登録を経産省 115 一覧で分離 | カード会員の与信審査、セキュリティガイドライン（J-CSC）、加盟店／PSP の PCI DSS、EC の EMV 3-DS、ブランドのチャージバックルール |
@@ -55,6 +61,8 @@ translated_at: 2026-06-26T08:29:17.580Z
 これらの境界は安定していない — 事業者は P2P 送金機能を追加する際にプリペイド副元帳から資金移動副元帳へ残高を移すことが頻繁にあり、それが改めてのライセンス分析を強いる。判定基準は [[payments/funds-transfer-vs-prepaid-boundary|資金移動 vs 前払式 boundary]] を参照。
 
 ## アクワイアラモデル（単一アクワイアラ対マルチアクワイアラ）
+
+以下の表は、エントリ出典インベントリの公開一次資料（paymentsjapan.or.jp, meti.go.jp, boj.or.jp）の範囲に限定して読む。^[source:paymentsjapan.or.jp; meti.go.jp; boj.or.jp; jftc.go.jp]
 
 | クラス | アクワイアラ構造 |
 |---|---|
@@ -69,6 +77,8 @@ translated_at: 2026-06-26T08:29:17.580Z
 
 これらは公開報告のレンジである。実際の加盟店手数料は MCC、チケットサイズ、ECR 対 MPM QR、オンアス対オフアス、交渉力により変動する。
 
+以下の表は、エントリ出典インベントリの公開一次資料（paymentsjapan.or.jp, meti.go.jp, boj.or.jp）の範囲に限定して読む。^[source:paymentsjapan.or.jp; meti.go.jp; boj.or.jp; jftc.go.jp]
+
 | クラス | 典型的な加盟店手数料（MDR）| 取引ごとの固定額 |
 |---|---|---|
 | カード | 公取委 2022：単純平均 ~2.70%、加重平均 ~1.66%；ペイメンツジャパン 2022 ロードマップ：カテゴリ I 平均 2.63%、カテゴリ II 平均 2.89% | 古典的 MDR では通常なし；PSP レイヤーが取引ごと手数料を追加する場合がある |
@@ -79,6 +89,8 @@ translated_at: 2026-06-26T08:29:17.580Z
 経産省の加盟店手数料開示圧力（[近年の規制圧力](#近年の規制圧力)参照）は、開示が最も進んでいるカードクラスを最初に明示的にターゲットにしている — JCB は 2023-06-01 の経産省／公取委リリース以降、発行体とアクワイアラ間の配分率を開示している。
 
 ## 発行体手数料／インターチェンジ — 誰が何を得るか
+
+以下の表は、エントリ出典インベントリの公開一次資料（paymentsjapan.or.jp, meti.go.jp, boj.or.jp）の範囲に限定して読む。^[source:paymentsjapan.or.jp; meti.go.jp; boj.or.jp; jftc.go.jp]
 
 | クラス | インターチェンジまたは発行体側の取り分 | どこに位置するか |
 |---|---|---|
@@ -92,6 +104,8 @@ translated_at: 2026-06-26T08:29:17.580Z
 
 ## 決済サイクル
 
+以下の表は、エントリ出典インベントリの公開一次資料（paymentsjapan.or.jp, meti.go.jp, boj.or.jp）の範囲に限定して読む。^[source:paymentsjapan.or.jp; meti.go.jp; boj.or.jp; jftc.go.jp]
+
 | クラス | 加盟店決済 | 消費者請求 |
 |---|---|---|
 | カード | T+M（月次バッチ）が伝統的；主要 PSP はプレミアムで T+5  から翌日決済を提供 | カード会員は購入月の翌中旬に請求（発行体の与信フロートは典型的に 1-2 ヶ月）|
@@ -102,6 +116,8 @@ translated_at: 2026-06-26T08:29:17.580Z
 カードクラスは、**消費者が構造的な与信フロートを享受する**唯一のクラスである — 他のすべてのクラスは取引時またはその近くで引落するため、コード決済が取引**件数**で支配的でも、クレジットカードが依然としてキャッシュレス**金額**の大半を保持する大きな理由である。
 
 ## チャージバック処理
+
+以下の表は、エントリ出典インベントリの公開一次資料（paymentsjapan.or.jp, meti.go.jp, boj.or.jp）の範囲に限定して読む。^[source:paymentsjapan.or.jp; meti.go.jp; boj.or.jp; jftc.go.jp]
 
 | クラス | チャージバック／紛争パス | 消費者保護のレバー |
 |---|---|---|
@@ -114,6 +130,8 @@ translated_at: 2026-06-26T08:29:17.580Z
 
 ## 受け入れフットプリント
 
+以下の表は、エントリ出典インベントリの公開一次資料（paymentsjapan.or.jp, meti.go.jp, boj.or.jp）の範囲に限定して読む。^[source:paymentsjapan.or.jp; meti.go.jp; boj.or.jp; jftc.go.jp]
+
 | クラス | 国内オフライン | 国内オンライン | クロスボーダー |
 |---|---|---|---|
 | カード | ユニバーサル（POS、EMV 接触／非接触）| ユニバーサル | あり — 国際ブランドネットワーク |
@@ -124,6 +142,8 @@ translated_at: 2026-06-26T08:29:17.580Z
 クロスボーダーのレーンは、カードクラスが本質的に独自のポジションを保持する場所である — インバウンド観光客の決済もアウトバウンド消費者の決済も、すべての国内専用の競争にもかかわらず国際ブランドネットワークをデフォルトとする。
 
 ## 認証／不正対策スタック
+
+以下の表は、エントリ出典インベントリの公開一次資料（paymentsjapan.or.jp, meti.go.jp, boj.or.jp）の範囲に限定して読む。^[source:paymentsjapan.or.jp; meti.go.jp; boj.or.jp; jftc.go.jp]
 
 | クラス | 取引時の主たる認証 | 二次的統制 |
 |---|---|---|
@@ -138,6 +158,8 @@ EC の EMV 3-DS 要件は、単一で最大の 2025 統制変更である — �
 
 この次元は日本では独特に複雑である。なぜならポイントプログラムが、決済スキームレイヤーと重複するが整合しない **並行通貨レイヤー**として機能するからである。
 
+以下の表は、エントリ出典インベントリの公開一次資料（paymentsjapan.or.jp, meti.go.jp, boj.or.jp）の範囲に限定して読む。^[source:paymentsjapan.or.jp; meti.go.jp; boj.or.jp; jftc.go.jp]
+
 | クラス | 誰がポイントを原資負担するか | スキーム横断の交換可能性 |
 |---|---|---|
 | カード | 発行体原資（楽天カード → 楽天ポイント、SMBC カード → V ポイント、JCB カード → Oki Doki ポイント、AEON カード → WAON POINT）| 共通ポイント（V ポイント、楽天ポイント、d ポイント、PayPay ポイント、Ponta）経由で高い — [[loyalty/japan-points-landscape\|Japan points landscape]] 参照 |
@@ -148,6 +170,8 @@ EC の EMV 3-DS 要件は、単一で最大の 2025 統制変更である — �
 ポイントレイヤーは **無料のマージンではない** — それは意図的な予算ラインである。PayPay の長期にわたる補助フェーズ（2018-2022）と楽天のフライホイールはいずれも、決済スキームレベルの収益なしには持続不可能かもしれないポイント経済に依存しており、それが [[payments/japan-code-payment-competitive-map|コード決済 competitive map]] がキャンペーンコスト比率を追跡する理由である。
 
 ## スキーム横断の交換可能性と相互運用性
+
+以下の表は、エントリ出典インベントリの公開一次資料（paymentsjapan.or.jp, meti.go.jp, boj.or.jp）の範囲に限定して読む。^[source:paymentsjapan.or.jp; meti.go.jp; boj.or.jp; jftc.go.jp]
 
 | レーン | メカニズム | 実態 |
 |---|---|---|
@@ -161,6 +185,8 @@ Suica／PASMO の 10 IC 相互利用スキームはプリペイドクラスで�
 
 ## 日銀ネット／全銀／Cotra 依存
 
+以下の表は、エントリ出典インベントリの公開一次資料（paymentsjapan.or.jp, meti.go.jp, boj.or.jp）の範囲に限定して読む。^[source:paymentsjapan.or.jp; meti.go.jp; boj.or.jp; jftc.go.jp]
+
 | クラス | 決済インフラ依存 |
 |---|---|
 | カード | ネットポジション決済は最終的に銀行口座 → 全銀の国内振込 → 銀行間最終決済のための日銀ネットを通過 |
@@ -172,6 +198,8 @@ Suica／PASMO の 10 IC 相互利用スキームはプリペイドクラスで�
 
 ## ステーブルコイン／EPI のオーバーラップトークン化マネーを巡って、潜在的な第 5 のスキームクラスが出現しつつある。まだスケールには達していないが、法的ルートは現在定義されている。
 
+以下の表は、エントリ出典インベントリの公開一次資料（paymentsjapan.or.jp, meti.go.jp, boj.or.jp）の範囲に限定して読む。^[source:paymentsjapan.or.jp; meti.go.jp; boj.or.jp; jftc.go.jp]
+
 | トークン化マネーの種類 | 隣接する先 | スキームの類比 |
 |---|---|---|
 | JPYC（EPI ルート下の電子決済手段）| プリペイド + 資金移動のハイブリッド | プリペイド経済に近いがオンチェーンの移転可能性を伴う |
@@ -182,6 +210,8 @@ Suica／PASMO の 10 IC 相互利用スキームはプリペイドクラスで�
 規制分類は [[fintech/japan-epi-three-types-overview|Japan EPI three types overview]] を参照。決済スキームの目的上、これらは、まだ定義された加盟店受け入れフットプリントやチャージバックレジームを持たない第 6 の残高レイヤーを加えるため、上記の 4 クラスマトリクスからは除外する。
 
 ## 近年の規制圧力
+
+以下の表は、エントリ出典インベントリの公開一次資料（paymentsjapan.or.jp, meti.go.jp, boj.or.jp）の範囲に限定して読む。^[source:paymentsjapan.or.jp; meti.go.jp; boj.or.jp; jftc.go.jp]
 
 | 日付 | ソース | 何が変わったか |
 |---|---|---|
@@ -197,6 +227,8 @@ Suica／PASMO の 10 IC 相互利用スキームはプリペイドクラスで�
 ## 横断面：マイクロ加盟店アクセス（商店街経済）
 
 4 つのクラスは、市場の **3人未満の小規模加盟店**の端 — 商店街の個人商店 — では劇的に異なって見える。
+
+以下の表は、エントリ出典インベントリの公開一次資料（paymentsjapan.or.jp, meti.go.jp, boj.or.jp）の範囲に限定して読む。^[source:paymentsjapan.or.jp; meti.go.jp; boj.or.jp; jftc.go.jp]
 
 | クラス | 小規模加盟店オンボーディング | ハードウェアコスト | JPY 500 取引のオールインコスト |
 |---|---|---|---|

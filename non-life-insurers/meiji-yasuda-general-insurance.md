@@ -3,8 +3,8 @@ title: "明治安田損害保険"
 aliases: ["明治安田損保", "Meiji Yasuda General Insurance", "Meiji Yasuda Non-life", "明治安田損害保険株式会社"]
 domain: non-life-insurers
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, insurance, non-life-insurance, meiji-yasuda, operating-company]
@@ -27,6 +27,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 明治安田損害保険株式会社は、金融庁の損害保険会社免許一覧に掲載される [[life-insurers/meiji-yasuda]] group adjacency の non-life insurance operating company。大手 life insurer group が持つ non-life arm として、life / non-life group boundaries を分けて見る。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, sonpohogo.or.jp, meijiyasuda-sonpo.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sonpohogo.or.jp; meijiyasuda-sonpo.co.jp]
 
 | Item | Notes |
 |---|---|

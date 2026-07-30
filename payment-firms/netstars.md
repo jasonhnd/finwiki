@@ -3,8 +3,8 @@ title: "ネットスターズ"
 aliases: ["NETSTARS", "株式会社ネットスターズ", "Netstars", "StarPay"]
 domain: payment-firms
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, PSP, QR-payment, funds-transfer, code-payment]
@@ -29,6 +29,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it with 
 For FinWiki, Netstars is the specialist route for QR gateway aggregation, not a consumer wallet like [[payment-firms/paypay|PayPay]] or [[payment-firms/merpay|Merpay]]. It sits between merchants, payment brands, PSP risk controls, and cross-border code-payment acceptance.
 
 ## 1. 法人・ライセンス境界
+
+The following table is scoped to public primary sources (netstars.co.jp, fsa.go.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:netstars.co.jp; fsa.go.jp; meti.go.jp]
 
 | Item | Reading |
 |---|---|

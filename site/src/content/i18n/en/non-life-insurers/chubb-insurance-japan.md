@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/chubb-insurance-japan
-source_hash: f29e2c2681bb10dd
+source_hash: 65014d2e728f032e
 lang: en
 status: machine
 fidelity: ok
 title: "Chubb Insurance Japan / Chubb General Insurance"
-translated_at: 2026-05-31T11:13:44.883Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Chubb Insurance Japan / Chubb General Insurance
@@ -21,6 +21,8 @@ Chubb Insurance Japan is a foreign-affiliated non-life insurer with a long Japan
 This page covers Chubb General Insurance Co., Ltd., including its ACE Insurance name-change history. It should not cover Chubb Limited as a global group except where Japanese public materials use that context.
 
 ## Business Role Map
+
+The following table is scoped to public primary sources (fsa.go.jp, chubb.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; chubb.com]
 
 | Route | Reading |
 |---|---|

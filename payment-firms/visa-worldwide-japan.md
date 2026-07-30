@@ -3,8 +3,8 @@ title: "ビザ・ワールドワイド・ジャパン (Visa Worldwide Japan)"
 aliases: ["Visa Worldwide Japan", "Visa Japan", "ビザ・ワールドワイド・ジャパン", "ビザ・ジャパン", "VJA", "Visa Japan Association"]
 domain: payment-firms
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, card-brand, payments, visa, 4-party-scheme]
@@ -25,6 +25,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 ビザ・ワールドワイド・ジャパンは、米 Visa Inc. (NYSE:V) の **日本拠点法人**で、Visa ブランドの日本国内ライセンス供与・スキーム運営を担う。日本では国際カードブランドとして **最大シェアの推定** を保持し ^[likely]、[[card-issuers/smbc-card|三井住友カード]] (Visa 提携主軸)、[[card-issuers/mufg-nicos|三菱UFJニコス]]、[[card-issuers/rakuten-card|楽天カード]] 等の主要 issuer に Visa ブランドを供与。歴史的には **VJA (Visa Japan Association、ビザ・ジャパン協会)** という Visa ブランド国内 issuer 連合体が三井住友カードを事務局として運営されてきた経緯があり、ブランド窓口 (Visa Worldwide Japan) と協会組織 (VJA) の 2 階建て構造が独特。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (visa.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:visa.co.jp]
 
 | Item | Notes |
 |---|---|

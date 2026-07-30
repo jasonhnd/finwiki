@@ -1,12 +1,12 @@
 ---
 source: insurance/life-insurance-channel-mix
-source_hash: 1b0aa4f735dd3e79
+source_hash: e2928ae2b5913525
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "生命保険のチャネルミックス"
-translated_at: 2026-06-26T08:32:23.047Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 生命保険のチャネルミックス
 
@@ -19,6 +19,8 @@ translated_at: 2026-06-26T08:32:23.047Z
 このページは [[life-insurers/dai-ichi-life]]、[[life-insurers/nippon-life]]、[[life-insurers/sumitomo-life]]、[[life-insurers/lifenet]]、[[life-insurers/orix-life]]、[[megabanks/sony-fg]] を比較するために使う。
 
 ## チャネルマップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（seiho.or.jp, ir.lifenet-seimei.co.jp, fsa.go.jp）の範囲に限定して読む。^[source:seiho.or.jp; ir.lifenet-seimei.co.jp; fsa.go.jp]
 
 | チャネル | 典型的な商品 | 強み | リスク・制約 |
 |---|---|---|---|

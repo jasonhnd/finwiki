@@ -3,8 +3,8 @@ title: 北國 FHD (Hokkoku FHD)
 aliases: ["Hokkoku FHD", "Hokkoku Financial Holdings", "北國フィナンシャルホールディングス", "株式会社北國フィナンシャルホールディングス"]
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-06-24
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-08-08
 confidence: likely
 tags: [JapanFG, regional-bank, digital-leader, historical-bridge]
@@ -64,6 +64,8 @@ Current-name route: [[financial-regulators/cci-group|CCIグループ]]. This pag
 - **2024**：新中期経営計画（地域 DX プラットフォーマー志向）
 
 ## 3. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (ccig.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:ccig.co.jp; fsa.go.jp]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

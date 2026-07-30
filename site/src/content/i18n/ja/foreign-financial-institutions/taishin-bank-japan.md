@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/taishin-bank-japan
-source_hash: 840e745a2b24fd2f
+source_hash: 6bfc4450c3a95e62
 lang: ja
 status: machine
 fidelity: ok
 title: "台新國際商業銀行日本 (Taishin Bank Japan)"
-translated_at: 2026-06-02T16:33:58.500Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 台新國際商業銀行日本 (Taishin Bank Japan)
@@ -24,6 +24,8 @@ Taishin International Bank は、Taishin Financial Holdings 傘下の台湾商�
 
 ## エンティティ境界
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, taishinbank.com.tw）の範囲に限定して読む。^[source:fsa.go.jp; taishinbank.com.tw]
+
 | 項目 | 読み方 |
 |---|---|
 | 親銀行 | Taishin International Bank |
@@ -34,6 +36,8 @@ Taishin International Bank は、Taishin Financial Holdings 傘下の台湾商�
 | 規制ルート | 金融庁 外国銀行支店一覧 |
 
 ## 事業上の役割マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, taishinbank.com.tw）の範囲に限定して読む。^[source:fsa.go.jp; taishinbank.com.tw]
 
 | 機能 | 日本での意味 |
 |---|---|

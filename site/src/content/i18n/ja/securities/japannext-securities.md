@@ -1,11 +1,11 @@
 ---
 source: securities/japannext-securities
-source_hash: 0fc571c7ee5d8e5f
+source_hash: 28b433210fa21056
 lang: ja
 status: machine
 fidelity: ok
 title: "ジャパンネクスト証券（Japannext）"
-translated_at: 2026-06-19T12:43:19.930Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # ジャパンネクスト証券（Japannext）
@@ -22,6 +22,8 @@ FinWiki にとって、Japannext は [[securities/tokyo-stock-exchange|TSE]] の
 
 ## システムマップ
 
+以下の表は、エントリ出典インベントリの公開一次資料（japannext.co.jp, fsa.go.jp）の範囲に限定して読む。^[source:japannext.co.jp; fsa.go.jp]
+
 | 層 | 読み解き |
 |---|---|
 | 法人名 | ジャパンネクスト証券株式会社 |
@@ -31,6 +33,8 @@ FinWiki にとって、Japannext は [[securities/tokyo-stock-exchange|TSE]] の
 | 起源 | 2006 に SBI ジャパンネクストとして設立；PTS ライセンスは 2007に認可。 |
 
 ## 取引所マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（japannext.co.jp, fsa.go.jp）の範囲に限定して読む。^[source:japannext.co.jp; fsa.go.jp]
 
 | 取引所 / 機能 | 読み解き |
 |---|---|

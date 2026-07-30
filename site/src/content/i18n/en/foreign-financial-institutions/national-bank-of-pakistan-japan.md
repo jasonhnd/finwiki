@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/national-bank-of-pakistan-japan
-source_hash: 368b5e4b81742e6c
+source_hash: 19bd3c1b40ec27e5
 lang: en
 status: machine
 fidelity: ok
 title: "National Bank of Pakistan Japan"
-translated_at: 2026-06-01T00:41:50.459Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # National Bank of Pakistan Japan
 
@@ -23,6 +23,8 @@ This page is worth standalone treatment because it closes a remaining non-Taiwan
 
 ## Entity Boundary
 
+The following table is scoped to public primary sources (fsa.go.jp, nbptokyo.com, nbp.com.pk). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; nbptokyo.com; nbp.com.pk]
+
 | Item | Reading |
 |---|---|
 | Parent bank | National Bank of Pakistan |
@@ -33,6 +35,8 @@ This page is worth standalone treatment because it closes a remaining non-Taiwan
 | Regulatory route | FSA foreign-bank branch list |
 
 ## Business Role Map
+
+The following table is scoped to public primary sources (fsa.go.jp, nbptokyo.com, nbp.com.pk). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; nbptokyo.com; nbp.com.pk]
 
 | Function | Japan relevance |
 |---|---|

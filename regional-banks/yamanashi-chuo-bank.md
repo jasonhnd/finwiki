@@ -3,8 +3,8 @@ title: "山梨中央銀行"
 aliases: ["Yamanashi Chuo Bank", "The Yamanashi Chuo Bank", "株式会社山梨中央銀行"]
 domain: regional-banks
 created: 2026-05-21
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, banking, regional-bank, chubu, yamanashi, operating-company]
@@ -26,6 +26,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 株式会社山梨中央銀行 (The Yamanashi Chuo Bank, 通称「やまなか」) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される山梨県甲府市本店の地方銀行 (第一地銀)。公式会社概要では 1941 年 12 月 1 日に第十銀行と有信銀行の合併で発足した山梨県の main regional bank。wiki では standalone operating-company anchor として扱う。事業は山梨県内の預金受入・中小企業/個人向け貸出という地銀の標準モデルに、首都圏近接の法人サポートを重ねたもの。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, yamanashibank.co.jp, ja.wikipedia.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; yamanashibank.co.jp; ja.wikipedia.org]
 
 | Item | Notes |
 |---|---|

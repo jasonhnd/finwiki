@@ -3,8 +3,8 @@ title: "日本証券クリアリング機構 (JSCC)"
 aliases: ["JSCC", "Japan Securities Clearing Corporation", "日本証券クリアリング機構"]
 domain: securities
 created: 2026-05-20
-last_updated: 2026-05-20
-last_tended: 2026-05-20
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-20
 confidence: likely
 tags: [securities, clearing, ccp, market-infrastructure, jgb]
@@ -28,6 +28,8 @@ For FinWiki, JSCC is the risk-mutualization and collateral node connecting excha
 
 ## System Map
 
+The following table is scoped to public primary sources (jpx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp]
+
 | Layer | JSCC reading |
 |---|---|
 | Parent / main shareholder | [[financial-regulators/japan-exchange-group|Japan Exchange Group]] |
@@ -38,6 +40,8 @@ For FinWiki, JSCC is the risk-mutualization and collateral node connecting excha
 | Legal role | Financial instruments clearing organization and commodity-clearing service provider. |
 
 ## Clearing Map
+
+The following table is scoped to public primary sources (jpx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp]
 
 | Clearing family | Why it matters |
 |---|---|

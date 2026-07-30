@@ -7,8 +7,8 @@ aliases:
   - Aozora Bank Detail
 domain: regional-banks
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [JapanFG, banking, post-rehab, mid-cap, CRE, operating-profile, edinet]
@@ -98,6 +98,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] and compleme
 
 ## 5. 競合・業界ポジション
 
+The following table is scoped to public primary sources (aozorabank.co.jp, disclosure2.edinet-fsa.go.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:aozorabank.co.jp; disclosure2.edinet-fsa.go.jp; fsa.go.jp]
+
 | 銀行 | 上場 | 系譜 | 規模感（総資産） |
 |---|---|---|---|
 | [[megabanks/mufg-bank|三菱UFJ銀行]] | (MUFG 8306 配下) | メガ | 220 兆円超 |
@@ -117,6 +119,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] and compleme
 - **資本政策**：増資・劣後債発行・配当政策見直し（業績復元局面で段階的還元再開）
 
 ## 7. 主要 KPI（概観 / 単体）
+
+The following table is scoped to public primary sources (aozorabank.co.jp, disclosure2.edinet-fsa.go.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:aozorabank.co.jp; disclosure2.edinet-fsa.go.jp; fsa.go.jp]
 
 | 項目 | 規模感 |
 |---|---|

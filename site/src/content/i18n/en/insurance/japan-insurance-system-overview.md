@@ -1,11 +1,11 @@
 ---
 source: insurance/japan-insurance-system-overview
-source_hash: 6fe7a20ab6307049
+source_hash: a01bbfc3255df835
 lang: en
 status: machine
 fidelity: ok
 title: "Japan insurance system overview"
-translated_at: 2026-06-15T03:48:21.936Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan insurance system overview
@@ -24,6 +24,8 @@ This entry sits under [[insurance/INDEX|insurance index]] as the system overview
 
 ### 1. Life insurance (生命保険)
 
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, sonpo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; sonpo.or.jp; iaisweb.org]
+
 | Sub-segment | Examples | Anchor |
 |---|---|---|
 | Big-four life (mutual / stock) | [[life-insurers/nippon-life|Nippon Life]] (mutual), [[life-insurers/dai-ichi-life|Dai-ichi Life]] (stock), [[life-insurers/sumitomo-life|Sumitomo Life]] (mutual), Meiji Yasuda Life (mutual) | [[insurance/japan-life-insurance-big-four]], [[insurance/japan-life-big-four-overlay-comparison-matrix]] |
@@ -37,6 +39,8 @@ Life insurance distribution mix: agency-based (sales-force / consultant), bancas
 
 ### 2. Non-life insurance (損害保険)
 
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, sonpo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; sonpo.or.jp; iaisweb.org]
+
 | Sub-segment | Examples | Anchor |
 |---|---|---|
 | Big-three non-life groups | [[non-life-insurers/tokio-marine|Tokio Marine HD]] / Tokio Marine & Nichido Fire, [[non-life-insurers/msad|MS&AD]] / Mitsui Sumitomo Insurance + Aioi Nissay Dowa, [[non-life-insurers/sompo|SOMPO HD]] / SOMPO Japan Insurance | [[insurance/japan-nonlife-big-three]], [[insurance/japan-nonlife-big-three-reinsurance-cat-matrix]] |
@@ -49,6 +53,8 @@ Non-life lines: auto (largest by premium), fire / property, marine, personal acc
 
 ### 3. Mutual aid / Kyosai (共済)
 
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, sonpo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; sonpo.or.jp; iaisweb.org]
+
 | Sub-segment | Examples | Anchor |
 |---|---|---|
 | JA-Kyosai (agricultural cooperative) | Zenkyoren (national federation) | [[insurance/ja-kyosai-zenkyoren-overview]], [[non-life-insurers/ja-kyosairen]] |
@@ -59,6 +65,8 @@ Non-life lines: auto (largest by premium), fire / property, marine, personal acc
 Kyosai operate under cooperative-law statute rather than the Insurance Business Act, with separate supervision (typically MAFF for JA-Kyosai, MHLW for co-op kyosai). See [[insurance/japan-kyosai-vs-fsa-insurance-perimeter-matrix]] for the perimeter overlay.
 
 ### 4. Reinsurance (再保険)
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, sonpo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; sonpo.or.jp; iaisweb.org]
 
 | Sub-segment | Examples | Anchor |
 |---|---|---|
@@ -74,6 +82,8 @@ Reinsurance allows primary insurers to lay off concentrated risks (especially ea
 
 The earthquake-insurance public-private scheme is a unique structural feature:
 
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, sonpo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; sonpo.or.jp; iaisweb.org]
+
 | Layer | Function |
 |---|---|
 | Household earthquake insurance | Required to be bundled with fire insurance for residential property. |
@@ -84,6 +94,8 @@ The earthquake-insurance public-private scheme is a unique structural feature:
 See [[insurance/earthquake-insurance-public-private-scheme]] and [[non-life-insurers/japan-earthquake-reinsurance]] for detail.
 
 ## Regulatory Framework
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, sonpo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; sonpo.or.jp; iaisweb.org]
 
 | Layer | Detail |
 |---|---|
@@ -99,6 +111,8 @@ See [[insurance/earthquake-insurance-public-private-scheme]] and [[non-life-insu
 
 ## Market Participants
 
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, sonpo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; sonpo.or.jp; iaisweb.org]
+
 | Category | Examples |
 |---|---|
 | Life insurers (FSA-licensed) | ~40 licensed life insurers spanning big-four, postal, online, group, foreign-affiliated. |
@@ -113,6 +127,8 @@ See [[insurance/earthquake-insurance-public-private-scheme]] and [[non-life-insu
 
 ## Cross-Segment Linkages
 
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, sonpo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; sonpo.or.jp; iaisweb.org]
+
 | Linkage | Mechanism |
 |---|---|
 | Life insurer rate-derivative hedging | Big life insurers are among the largest receive-fixed users of yen IRS. See [[derivatives/japan-interest-rate-derivatives-overview]], [[insurance/japan-life-insurance-alm-overview]]. |
@@ -123,6 +139,8 @@ See [[insurance/earthquake-insurance-public-private-scheme]] and [[non-life-insu
 | Insurance / global FG | Big-three non-life groups operate global insurance subsidiaries (Tokio Marine HCC, MSI USA, Sompo Internazionale). |
 
 ## Public Data Sources
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, sonpo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; sonpo.or.jp; iaisweb.org]
 
 | Source | What it shows |
 |---|---|

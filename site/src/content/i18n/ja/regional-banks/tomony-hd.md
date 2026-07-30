@@ -1,11 +1,11 @@
 ---
 source: regional-banks/tomony-hd
-source_hash: 7dd3a2ee89905c4a
+source_hash: 0d2524e43316b773
 lang: ja
 status: machine
 fidelity: ok
 title: "トモニホールディングス (Tomony HD)"
-translated_at: 2026-06-19T12:43:19.950Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # トモニホールディングス (Tomony HD)
@@ -61,6 +61,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 | 2022-04 | 東証市場区分見直し → 東証 PRIME |
 
 ## 2. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

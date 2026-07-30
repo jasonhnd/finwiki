@@ -1,12 +1,12 @@
 ---
 source: securities/japan-online-brokerage-competition
-source_hash: e59e79568c36abba
+source_hash: 622c72185ef506a8
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本のオンライン証券競争"
-translated_at: 2026-06-26T08:29:17.591Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 日本のオンライン証券競争
 
@@ -15,6 +15,8 @@ translated_at: 2026-06-26T08:29:17.591Z
 このページは、[[securities/nisa-2024-flow|NISA 2024 flow]]、[[financial-licenses/securities-license-stack|Japan securities license stack]]、[[securities/financial-instruments-business-operators-japan-index|FIEA 事業者 registry index]]、[[loyalty/japan-points-landscape|Japan points landscape]]と併せて読む。会社別の結論は、引き続き該当する[[securities/INDEX|securities INDEX]]ページに置く。
 
 ## 競争軸
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, jsda.or.jp, sbisec.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; jsda.or.jp; sbisec.co.jp; rakuten-sec.co.jp]
 
 | 軸 | 公開情報上の重要性 | リンク先ページ |
 |---|---|---|
@@ -28,6 +30,8 @@ translated_at: 2026-06-26T08:29:17.591Z
 | 信頼とコンプライアンス | 証券が従来型ではない投資家層に広がるほど、広告、適合性、顧客資産分別、自主規制が重要になる。 | [[financial-regulators/jsda]], [[financial-licenses/securities-license-stack]] |
 
 ## ブローカーマップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, jsda.or.jp, sbisec.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; jsda.or.jp; sbisec.co.jp; rakuten-sec.co.jp]
 
 | ブローカー / グループ | 中核的な読み方 | 競争上の角度 |
 |---|---|---|
@@ -60,6 +64,8 @@ translated_at: 2026-06-26T08:29:17.591Z
 このため、[[loyalty/japan-points-landscape|Japan points landscape]]は証券分析に関係する。ポイントは単なる販促配布ではない。顧客獲得費用、維持通貨、金融・小売・決済をまたぐデータ循環になり得る。
 
 ## 手数料競争への反論点
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, jsda.or.jp, sbisec.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; jsda.or.jp; sbisec.co.jp; rakuten-sec.co.jp]
 
 | リスク | 公開情報上の重要性 |
 |---|---|

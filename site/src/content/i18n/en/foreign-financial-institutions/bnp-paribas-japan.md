@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/bnp-paribas-japan
-source_hash: d96600322c617302
+source_hash: f1f2cb9003485bdd
 lang: en
 status: machine
 fidelity: ok
 title: "BNP Paribas Japan (BNP パリバ日本)"
-translated_at: 2026-06-18T23:59:13.094Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # BNP Paribas Japan (BNP パリバ日本)
@@ -45,6 +45,8 @@ BNP Paribas SA (French G-SIB Bucket 2)
 
 ### Key chronology
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Year/Month | Event |
 |---|---|
 | 1867 | Comptoir National d'Escompte de Paris (CEP) **opened a branch in Yokohama** ── one of the earliest European bank entries into Japan |
@@ -71,6 +73,8 @@ BNP Paribas SA (French G-SIB Bucket 2)
 
 ### Sense of the parent company's scale (consolidated basis, for reference)
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Item | Content |
 |---|---|
 | Listing market | Euronext Paris: BNP (index CAC 40) |
@@ -80,6 +84,8 @@ BNP Paribas SA (French G-SIB Bucket 2)
 | Business areas | CIB (Corporate & Institutional Banking) + IPS (Investment & Protection Services) + CPBS (Commercial, Personal Banking & Services; not deployed in Japan) |
 
 ## 2. Business segment map
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Segment | Main operators | Features |
 |---|---|---|
@@ -134,6 +140,8 @@ BNP Paribas SA (French G-SIB Bucket 2)
   - A trend toward stricter FSA suitability rules for bank counter sales (Cardif)
 
 ### Main Japan-resident management (on a public-information basis) ^[extracted]
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Position | Name | Notes |
 |---|---|---|

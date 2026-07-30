@@ -3,8 +3,8 @@ title: "第一生命保険"
 aliases: ["第一生命", "Dai-ichi Life Insurance", "Daiichi Life Insurance", "第一生命保険株式会社"]
 domain: life-insurers
 created: 2026-05-21
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, insurance, life-insurance, dai-ichi-life, operating-company]
@@ -26,6 +26,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]] (its domain ro
 第一生命保険株式会社は、保険業法上の生命保険会社免許を持ち金融庁の生命保険会社免許一覧に掲載される、[[life-insurers/dai-ichi-life|第一ライフグループ]]（旧 第一生命ホールディングス）の中核国内生命保険事業会社。2026 年 4 月に持株会社が「株式会社第一ライフグループ」へ商号変更しグループブランドが「Daiichi Life」となった後も、上場持株会社 / グループ戦略ページ（[[life-insurers/dai-ichi-life|第一ライフグループ]]）と、営業職員 (sales-rep) チャネルを持つ免許保有の保険引受会社（本ページ）を分けて扱う。日本生命・住友生命・明治安田生命と並ぶ国内 big-four の一角。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, dai-ichi-life.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; dai-ichi-life.co.jp]
 
 | Item | Notes |
 |---|---|

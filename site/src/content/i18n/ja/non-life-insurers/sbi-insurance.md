@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/sbi-insurance
-source_hash: fb3e1cee812fc882
+source_hash: de42bd2f4afac7ae
 lang: ja
 status: machine
 fidelity: ok
 title: "SBI損害保険"
-translated_at: 2026-06-19T06:09:18.180Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # SBI損害保険
@@ -20,6 +20,8 @@ translated_at: 2026-06-19T06:09:18.180Z
 SBI損害保険株式会社は、[[non-life-insurers/sbi-insurance-group]] / [[megabanks/sbi-hd]] グループのダイレクト型損害保険事業会社である。金融庁の損害保険会社免許一覧に載る免許保険会社であり、SBI の銀行 / 証券 / 保険エコシステムに接続する自動車・がん・火災その他の損害保険商品の引受境界。
 
 ## 1. 免許 / グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, sonpohogo.or.jp, sbisonpo.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; sonpohogo.or.jp; sbisonpo.co.jp]
 
 | 項目 | 備考 |
 |---|---|

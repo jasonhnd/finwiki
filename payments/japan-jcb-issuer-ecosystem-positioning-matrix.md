@@ -11,8 +11,8 @@ aliases:
   - "Japan JCB co-brand and proper-card matrix"
 domain: payments
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [payments, matrix, card, JCB, issuer, co-brand, three-party, four-party, Japan]
@@ -101,6 +101,8 @@ Beyond the named issuers above, JCB licenses its brand to **many regional bank-F
 
 ## Big comparison matrix table
 
+The following table is scoped to public primary sources (global.jcb, jcb.co.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:global.jcb; jcb.co.jp; meti.go.jp]
+
 | Issuer | Brand role | Group anchor | Listing | Card portfolio size (cardholders) | Target segment | Primary economic engine | JCB-side relationship | Cross-brand issuance | Merchant network leverage | 3-party vs 4-party position |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **[[card-issuers/jcb\|JCB Co.]]** | Brand + direct issuer + acquirer | Multi-bank consortium (MUFG / SMFG / SMTB side) | Non-listed | ~140M+ JCB-branded cards globally (incl. partner-issued); JCB proper book several million | Premium (ザ・クラス, プラチナ), mass (CARD W) | Brand fee + 3-party MDR (proper) + scheme fee from partners | Self | Issues only JCB | Direct JCB merchant network + alliance with Discover / UnionPay / Amex | 3-party for proper, scheme operator for 4-party partners |
@@ -118,6 +120,8 @@ Beyond the named issuers above, JCB licenses its brand to **many regional bank-F
 | **JAL JCB co-brand** | Co-brand on multiple issuer backends | JAL + JCB or other issuer | Subsidiary or licensee depending on backend | Mileage-card portfolio across multiple brands | Frequent flyer / mileage | Mileage accrual + premium-tier annual fee | Brand licensee; co-brand designed with JCB | Brand varies (JAL also has Visa / Mastercard / Amex versions) | JAL airport + premium merchant | Mostly 4-party; some JCB-direct issuance ^[JCB brand business-area source; METI registered-operator lists] |
 
 ### Side-axes — points / loyalty + 3DS / security
+
+The following table is scoped to public primary sources (global.jcb, jcb.co.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:global.jcb; jcb.co.jp; meti.go.jp]
 
 | Issuer | Primary point currency | Points cross-redemption | EMV 3-DS readiness (2025-03 mandate) | J-CSC guideline compliance |
 |---|---|---|---|---|
@@ -169,6 +173,8 @@ This duality is also why JCB cannot be cleanly classified as either an "issuer-l
 - **"Why are [[payment-firms/visa-worldwide-japan|Visa Worldwide Japan]] and [[payment-firms/mastercard-japan|Mastercard Japan]] in the Related section but not in the matrix?"** Because the matrix scope is JCB-issuing operators. Visa and Mastercard are brand operators that compete with JCB at the network level but are not JCB issuers. Their place is the upstream framework for reading the 4-party card landscape.
 
 ## Recent regulatory pressure
+
+The following table is scoped to public primary sources (global.jcb, jcb.co.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:global.jcb; jcb.co.jp; meti.go.jp]
 
 | Date | Source | What changed |
 |---|---|---|
@@ -222,6 +228,8 @@ The hybrid 3-party / 4-party identity is **both an advantage and a friction**: a
 ## Reading the matrix at the merchant-side
 
 The flip side of any issuer-side matrix is what merchants experience when they accept JCB. From the merchant perspective:
+
+The following table is scoped to public primary sources (global.jcb, jcb.co.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:global.jcb; jcb.co.jp; meti.go.jp]
 
 | Merchant question | Answer the matrix supports |
 |---|---|

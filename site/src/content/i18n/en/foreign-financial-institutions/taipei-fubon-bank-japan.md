@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/taipei-fubon-bank-japan
-source_hash: 056c62995a78b4b4
+source_hash: 8ae5a5d53120f58a
 lang: en
 status: machine
 fidelity: ok
 title: "Taipei Fubon Bank Japan"
-translated_at: 2026-06-01T02:31:57.177Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Taipei Fubon Bank Japan
 
@@ -23,6 +23,8 @@ The page is worth standalone treatment because the public materials explicitly c
 
 ## Entity Boundary
 
+The following table is scoped to public primary sources (fsa.go.jp, fubon.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; fubon.com]
+
 | Item | Reading |
 |---|---|
 | Parent bank | Taipei Fubon Bank |
@@ -33,6 +35,8 @@ The page is worth standalone treatment because the public materials explicitly c
 | Location | Otemachi, Chiyoda-ku, Tokyo in public branch page |
 
 ## Business Role Map
+
+The following table is scoped to public primary sources (fsa.go.jp, fubon.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; fubon.com]
 
 | Function | Japan relevance |
 |---|---|

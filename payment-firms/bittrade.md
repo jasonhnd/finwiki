@@ -3,8 +3,8 @@ title: ビットトレード (BitTrade)
 aliases: ["BitTrade", "ビットトレード", "株式会社ビットトレード", "Huobi Japan", "フォビジャパン"]
 domain: payment-firms
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, crypto]
@@ -51,6 +51,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 > 経営権変動：2022 年前後の Huobi グローバル側のオーナー変動と、日本法人の「BitTrade」再改称が時期的に重なる。現在の主要株主は公式会社概要で開示されており、香港上場の Sinohope Technology Holdings（HKEX: 01611、旧 Huobi Technology）系および東海東京 FH・FPG が名を連ねる。
 
 ## 2. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (bittrade.co.jp, sinohope.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:bittrade.co.jp; sinohope.com]
 
 | セグメント | 内容 | 特徴 |
 |---|---|---|

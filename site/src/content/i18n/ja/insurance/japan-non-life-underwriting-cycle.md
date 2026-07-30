@@ -1,11 +1,11 @@
 ---
 source: insurance/japan-non-life-underwriting-cycle
-source_hash: f783c8f2669e4cef
+source_hash: 03523638d7b59bb5
 lang: ja
 status: machine
 fidelity: ok
 title: "Japan non-life 引受 cycle"
-translated_at: 2026-06-19T06:09:18.186Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan non-life 引受 cycle
@@ -25,6 +25,8 @@ This entry sits under [[insurance/INDEX|insurance index]] and is the 引受-cycl
 再保険調達のタイミングは重要である：4 月 1 更改が日本国内の支配的な再保険特約サイクル（日本の会計年度に整合）であり、年央および 1 月の更改も関連する。グローバル再保険におけるハードマーケットとソフトマーケットのサイクルは、日本の火災／財物および巨大災害の料率設定に直接波及する。
 
 ## Combined-ratio decomposition
+
+以下の表は、エントリ出典インベントリの公開一次資料（sonpo.or.jp, tokiomarinehd.com, ms-ad-hd.com）の範囲に限定して読む。^[source:sonpo.or.jp; tokiomarinehd.com; ms-ad-hd.com; sompo-hd.com]
 
 | Component | Definition | Typical drivers |
 |---|---|---|
@@ -50,6 +52,8 @@ This entry sits under [[insurance/INDEX|insurance index]] and is the 引受-cycl
 - 型式別料率制度はこれらの変化に料率妥当性を整合させ続けることを目指すが、改革のペースは実際の経験に 1〜2 サイクル遅行しうる。
 
 ### Auto loss ratio drivers
+
+以下の表は、エントリ出典インベントリの公開一次資料（sonpo.or.jp, tokiomarinehd.com, ms-ad-hd.com）の範囲に限定して読む。^[source:sonpo.or.jp; tokiomarinehd.com; ms-ad-hd.com; sompo-hd.com]
 
 | Driver | Direction | Mechanism |
 |---|---|---|
@@ -114,6 +118,8 @@ This entry sits under [[insurance/INDEX|insurance index]] and is the 引受-cycl
 
 日本の再保険特約は、日本の会計年度に整合した主たる 4 月 1 更改サイクルに従い、1 月と 7 月により小規模な更改がある。調達のダイナミクス：
 
+以下の表は、エントリ出典インベントリの公開一次資料（sonpo.or.jp, tokiomarinehd.com, ms-ad-hd.com）の範囲に限定して読む。^[source:sonpo.or.jp; tokiomarinehd.com; ms-ad-hd.com; sompo-hd.com]
+
 | Element | Description |
 |---|---|
 | 4 月 1 更改 | 日本国内ブックの主たる出再者特約更改 |
@@ -136,6 +142,8 @@ This entry sits under [[insurance/INDEX|insurance index]] and is the 引受-cycl
 
 [[insurance/economic-value-based-solvency|economic-value-based ESR]] レジームのもとでの損保巨大災害モジュールは、主要な日本の危険についてストレスシナリオを適用する：
 
+以下の表は、エントリ出典インベントリの公開一次資料（sonpo.or.jp, tokiomarinehd.com, ms-ad-hd.com）の範囲に限定して読む。^[source:sonpo.or.jp; tokiomarinehd.com; ms-ad-hd.com; sompo-hd.com]
+
 | Peril | ESR cat-module treatment |
 |---|---|
 | 地震（商業財物） | 日本固有の地震エクスポージャーに較正された確率的ショックシナリオ |
@@ -151,6 +159,8 @@ This entry sits under [[insurance/INDEX|insurance index]] and is the 引受-cycl
 ## Group-level vs operating-company-level reading
 
 よくある読み違いは、ホールディングカンパニーの統合報告書のコンバインドレシオの数値を、単一のオペレーティングカンパニーのコンバインドレシオであるかのように読むことである。各ビッグ 3 グループの構造は以下のとおり：
+
+以下の表は、エントリ出典インベントリの公開一次資料（sonpo.or.jp, tokiomarinehd.com, ms-ad-hd.com）の範囲に限定して読む。^[source:sonpo.or.jp; tokiomarinehd.com; ms-ad-hd.com; sompo-hd.com]
 
 | Group | Operating-company combined ratios consolidated into group | Group-level adjustments |
 |---|---|---|

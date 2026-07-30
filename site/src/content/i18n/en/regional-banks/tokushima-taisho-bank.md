@@ -1,11 +1,11 @@
 ---
 source: regional-banks/tokushima-taisho-bank
-source_hash: 3f95c13f8a3951c6
+source_hash: bc369719afd0ef7e
 lang: en
 status: machine
 fidelity: ok
 title: ""
-translated_at: 2026-06-01T02:31:57.104Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 ﻿# Tokushima Taisho Bank
 
@@ -18,6 +18,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 Tokushima Taisho Bank, Ltd. is a second regional bank headquartered in Tokushima Prefecture and listed on the FSA bank license list. It is a Tokushima / Osaka cross-market operating bank under [[regional-banks/tomony-hd]] and is treated as a second-regional-bank peer legal entity separate from [[regional-banks/awa-bank|阿波銀行]].
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, tokugin.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; tokugin.co.jp]
 
 | Item | Notes |
 |---|---|

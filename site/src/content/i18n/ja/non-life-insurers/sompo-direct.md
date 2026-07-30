@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/sompo-direct
-source_hash: 6647de9d453da0e4
+source_hash: 71394c3dee9d6e28
 lang: ja
 status: machine
 fidelity: ok
 title: "SOMPOダイレクト損害保険"
-translated_at: 2026-06-19T06:09:18.061Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # SOMPOダイレクト損害保険
@@ -20,6 +20,8 @@ translated_at: 2026-06-19T06:09:18.061Z
 SOMPOダイレクト損害保険株式会社は、[[non-life-insurers/sompo]] グループのダイレクト型損害保険事業会社。旧セゾン自動車火災の insurance surface を含み、金融庁の損害保険会社免許一覧に現行法人名で掲載される。
 
 ## 1. License / group boundary
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, sonpohogo.or.jp, sompo-direct.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; sonpohogo.or.jp; sompo-direct.co.jp]
 
 | Item | Notes |
 |---|---|

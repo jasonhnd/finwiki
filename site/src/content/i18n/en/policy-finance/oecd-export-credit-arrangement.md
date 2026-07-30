@@ -1,11 +1,11 @@
 ---
 source: policy-finance/oecd-export-credit-arrangement
-source_hash: 307d859da6c65077
+source_hash: 260f280f010bc995
 lang: en
 status: machine
 fidelity: ok
 title: "OECD Arrangement on Officially Supported Export Credits"
-translated_at: 2026-06-19T12:43:19.887Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # OECD Arrangement on Officially Supported Export Credits
@@ -19,6 +19,8 @@ This entry sits under [[policy-finance/INDEX|policy-finance index]] as the inter
 The OECD Arrangement on Officially Supported Export Credits (commonly "OECD Arrangement" or "OECD Consensus") is the international rule-book governing officially supported export credits with repayment terms of two years or more. It is administered by the OECD Trade and Agriculture Directorate via the **Participants to the Arrangement** group, but operates as a Gentleman's Agreement — legally non-binding among participants but politically and administratively enforced through the OECD's notification and review process. The framework sets four core disciplines: **(1) maximum repayment tenor** (varies by sector and country category — generally up to 8.5-10 years for Category I countries, 10 years for Category II countries, modified upward by Sector Understandings for ship / aircraft / renewables / nuclear / climate); **(2) minimum premium rates (MPR)** keyed to OECD's **Country Risk Classification (CRC)** scale (0 = lowest risk to 7 = highest risk); **(3) minimum interest rates** (the Commercial Interest Reference Rates / CIRRs system for fixed-rate official lending); and **(4) good-governance disciplines** (anti-bribery, environmental and social due diligence, debt sustainability for low-income countries). Five active **Sector Understandings** modify general terms: **Ship Sector Understanding (SSU)**, **Aircraft Sector Understanding (ASU)**, **Nuclear Power Sector Understanding (NSU)**, **Climate Change Sector Understanding (CCSU)**, and the **Coal-Fired Electricity Generation Sector Understanding (CFSU)** — with the 2021 Coal Sector Understanding tightening (effectively prohibiting most new unabated coal-fired power export finance among participants) being a structurally significant climate-policy outcome. Eleven participants: **Japan, the EU (27 member states represented as a bloc), the United States, the United Kingdom, Canada, Korea, Australia, New Zealand, Norway, Switzerland, and Türkiye**. The Arrangement does **not** include China, Russia, India, Brazil, or any non-OECD state finance — which is the structurally important asymmetry shaping competition in 2020s strategic-finance contexts (semiconductors, critical minerals, infrastructure in emerging markets, hydrogen / ammonia supply chain). 2023-2025 saw the most significant Arrangement reform since the 2009 Tokyo Action Statement: the **CCSU 2023 modernisation** (expanded climate-friendly tenor up to 22 years for many renewables / hydrogen / ammonia / CCS / certain rail metro), the **CFSU 2021** restricting coal-fired generation finance, and continuing debate on a possible **Critical Minerals Sector Understanding**.
 
 ## 1. Rule framework
+
+The following table is scoped to public primary sources (oecd.org, berneunion.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:oecd.org; berneunion.org]
 
 | Item | Detail |
 |---|---|
@@ -56,12 +58,16 @@ The boundary between Arrangement-bound and Arrangement-free is the most importan
 
 Tenor is constrained by country category and sector:
 
+The following table is scoped to public primary sources (oecd.org, berneunion.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:oecd.org; berneunion.org]
+
 | Country category | General maximum tenor (under the general rules) |
 |---|---|
 | Category I (high-income OECD) | Up to 5 years (extendable in specific cases under common-line) |
 | Category II (all other countries) | Up to 10 years |
 
 Sector understandings extend tenor for specific sectors significantly:
+
+The following table is scoped to public primary sources (oecd.org, berneunion.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:oecd.org; berneunion.org]
 
 | Sector understanding | Maximum tenor under sector rules |
 |---|---|
@@ -75,6 +81,8 @@ Sector understandings extend tenor for specific sectors significantly:
 ### 2.2 Minimum Premium Rate (MPR) — keyed to Country Risk Classification (CRC)
 
 The OECD maintains a single **Country Risk Classification (CRC)** scale from **0 to 7**, where 0 indicates lowest risk (typically high-income OECD countries) and 7 indicates highest risk (heavily-indebted countries with imminent default risk). The CRC is reviewed periodically (typically several times per year) by the Participants' country-risk experts group based on a quantitative model and qualitative review.
+
+The following table is scoped to public primary sources (oecd.org, berneunion.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:oecd.org; berneunion.org]
 
 | CRC | Approximate country examples (illustrative; subject to current OECD review) |
 |---|---|
@@ -148,6 +156,8 @@ The CRC has analytic uses beyond Arrangement compliance: it is one of the few pu
 
 ## 5. Year-by-year evolution
 
+The following table is scoped to public primary sources (oecd.org, berneunion.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:oecd.org; berneunion.org]
+
 | Year | Event |
 |---|---|
 | 1976 | Original Consensus on Officially Supported Export Credits established among OECD members |
@@ -192,6 +202,8 @@ The Arrangement does not include China. Chinese state finance (CDB / China Eximb
 This creates asymmetric competition in markets where Japanese ECAs and Chinese state finance compete for similar projects — notably ASEAN infrastructure, African resource and infrastructure, Latin American resource projects, and (post-2022) friend-shoring / supply-chain competition. The OECD-side response has included calls for non-OECD state finance to join Arrangement disciplines, multilateral coordination through G7 / G20 frameworks, and selective Arrangement modernisation (CCSU expansion, possible Critical Minerals Sector Understanding) to make Arrangement-compliant terms more competitive on strategically important projects.
 
 ## 8. KPI table (public-source numbers)
+
+The following table is scoped to public primary sources (oecd.org, berneunion.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:oecd.org; berneunion.org]
 
 | KPI | Approximate value | Source / caveat |
 |---|---|---|

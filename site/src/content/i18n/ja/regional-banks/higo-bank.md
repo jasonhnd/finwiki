@@ -1,11 +1,11 @@
 ---
 source: regional-banks/higo-bank
-source_hash: 6a730af59a31a2aa
+source_hash: 4eb3beab29fd7cf0
 lang: ja
 status: machine
 fidelity: ok
 title: "肥後銀行"
-translated_at: 2026-06-02T14:25:12.387Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 肥後銀行
 
@@ -19,6 +19,8 @@ translated_at: 2026-06-02T14:25:12.387Z
 株式会社肥後銀行は、金融庁の銀行免許一覧に掲載される熊本県本店の地方銀行。[[regional-banks/kyushu-fg]] の中核事業銀行であり、熊本 / TSMC 隣接金融の地方銀行事業会社アンカーとして扱う。
 
 ## 1. ライセンス / グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, higobank.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; higobank.co.jp]
 
 | 項目 | 注記 |
 |---|---|

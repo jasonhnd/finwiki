@@ -1,11 +1,11 @@
 ---
 source: regional-banks/miyazaki-bank
-source_hash: 96bd392d23aa4371
+source_hash: a42a4e947906ffbc
 lang: en
 status: machine
 fidelity: ok
 title: "Miyazaki Bank"
-translated_at: 2026-06-15T04:09:41.181Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Miyazaki Bank
@@ -19,6 +19,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 The Miyazaki Bank, Ltd. (株式会社宮崎銀行, みやぎん) is a regional bank (first regional bank) headquartered in Miyazaki City, Miyazaki Prefecture, holding a bank license under the Banking Act and listed in the FSA's bank license list. It is the Miyazaki prefecture first-regional-bank operating-company anchor, and is treated as a South Kyushu standalone regional bank. Its business consists of deposit-taking within the prefecture and lending to SMEs, individuals, and local public bodies.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, miyagin.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; miyagin.co.jp]
 
 | Item | Notes |
 |---|---|

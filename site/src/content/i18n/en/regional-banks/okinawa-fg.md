@@ -1,11 +1,11 @@
 ---
 source: regional-banks/okinawa-fg
-source_hash: 2bc96e72c8a4efc4
+source_hash: d7cc7ed52cf15246
 lang: en
 status: machine
 fidelity: ok
 title: "Okinawa FG"
-translated_at: 2026-07-28T20:55:25Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Okinawa FG
@@ -29,6 +29,8 @@ A standalone regional-bank FG based in Okinawa Prefecture (consolidated total as
 
 ### 2025-03  financial results (consolidated)
 
+The following table is scoped to public primary sources (okinawafg.co.jp, www2.jpx.co.jp, fse.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:okinawafg.co.jp; www2.jpx.co.jp; fse.or.jp]
+
 | Item | Amount |
 |---|---|
 | Ordinary income | 587 億 5600 万円 (YoY +51 億 8300 万円 / +10%) |
@@ -43,6 +45,8 @@ A standalone regional-bank FG based in Okinawa Prefecture (consolidated total as
 | ROE (forecast) | 7.4% |
 
 ### Major shareholders (as of 2022-03-31 / public)
+
+The following table is scoped to public primary sources (okinawafg.co.jp, www2.jpx.co.jp, fse.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:okinawafg.co.jp; www2.jpx.co.jp; fse.or.jp]
 
 | Shareholder | Ratio |
 |---|---|
@@ -90,6 +94,8 @@ Okinawa FG (holding company / listed 7350)
 
 ### Key chronology
 
+The following table is scoped to public primary sources (okinawafg.co.jp, www2.jpx.co.jp, fse.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:okinawafg.co.jp; www2.jpx.co.jp; fse.or.jp]
+
 | Year/Month | Event |
 |---|---|
 | 1956-06 | Bank of Okinawa established (capital 3000 万 B yen) |
@@ -119,6 +125,8 @@ Okinawa FG (holding company / listed 7350)
 | 2025-07 | Okigin Success Partners established (business succession / M&A) |
 
 ## 2. Business segment map
+
+The following table is scoped to public primary sources (okinawafg.co.jp, www2.jpx.co.jp, fse.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:okinawafg.co.jp; www2.jpx.co.jp; fse.or.jp]
 
 | Segment | Main operator | Characteristics |
 |---|---|---|
@@ -154,6 +162,8 @@ Okinawa FG (holding company / listed 7350)
 
 ### Competitive relations (the in-prefecture 3 行 oligopolistic structure)
 
+The following table is scoped to public primary sources (okinawafg.co.jp, www2.jpx.co.jp, fse.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:okinawafg.co.jp; www2.jpx.co.jp; fse.or.jp]
+
 | Bank | Position | Deposit-loan share | Listing | Holding-company conversion |
 |---|---|---|---|---|
 | **Bank of Okinawa** (Okinawa FG) | **In-prefecture No. 1** | about 30% | PRIME 7350 (FG) | ◯ (2021-10) |
@@ -165,6 +175,8 @@ Okinawa FG (holding company / listed 7350)
 - **Difference from mainland regional banks**: out-of-prefecture expansion is limited / only representative offices in major mainland cities. Unlike the out-of-prefecture expansion of mainland regional banks ([[regional-banks/kyushu-fg]]・[[regional-banks/fukuoka-fg]], etc.), it **maintains an in-prefecture-self-contained model**
 
 ### Officers (as of 2022-03  / public)
+
+The following table is scoped to public primary sources (okinawafg.co.jp, www2.jpx.co.jp, fse.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:okinawafg.co.jp; www2.jpx.co.jp; fse.or.jp]
 
 | Position | Name |
 |---|---|

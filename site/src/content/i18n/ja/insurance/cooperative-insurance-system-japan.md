@@ -1,12 +1,12 @@
 ---
 source: insurance/cooperative-insurance-system-japan
-source_hash: d16d82a064c8464b
+source_hash: f3b804b57d9c63a6
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の共済（協同組合保険）制度"
-translated_at: 2026-06-26T08:29:01.759Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本の共済（協同組合保険）制度
@@ -56,6 +56,8 @@ translated_at: 2026-06-26T08:29:01.759Z
 - **商工中金共済 / 中小企業共済** — 経済産業省関連の協同組合法のもとでの中小企業協同組合共済。
 
 ## 比較表：共済 vs FSA 保険
+
+以下の表は、エントリ出典インベントリの公開一次資料（ja-kyosai.or.jp, zenrosai.coop, kyosai-cc.or.jp）の範囲に限定して読む。^[source:ja-kyosai.or.jp; zenrosai.coop; kyosai-cc.or.jp; coopkyosai.coop]
 
 | 軸 | FSA 保険（保険業法） | 共済（協同組合セクターの法律） |
 |---|---|---|

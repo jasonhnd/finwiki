@@ -1,12 +1,12 @@
 ---
 source: policy-finance/jogmec-equity-and-offtake-mechanics
-source_hash: b8b28e8b8f15bf56
+source_hash: 9773d56637939105
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "JOGMEC の出資およびオフテイク・メカニクス"
-translated_at: 2026-06-26T08:32:15.206Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # JOGMEC の出資およびオフテイク・メカニクス
@@ -18,6 +18,8 @@ translated_at: 2026-06-26T08:32:15.206Z
 JOGMEC（独立行政法人エネルギー・金属鉱物資源機構 — 旧石油天然ガス・金属鉱物資源機構）は、日本の国家金融システムにおける資源安全保障のノードである。その運用モデルは三本の柱に支えられている。**探鉱出資**（日本関連の上流プロジェクトへの探鉱出資 / リスク分担型資本注入）、**開発出資**（実証済みプロジェクトへの開発段階の出資）、**鉱物備蓄**（希少金属および石油 / 石油製品備蓄の国家備蓄）であり、これに第四の補助的な柱として、日本の商社や電力・ガス会社が探鉱 / FID 前段階で商業債務を調達できるようにする**債務保証およびローン支援**が加わる。出資の小切手は通常、日本のスポンサー（三井、三菱商事、住友商事、伊藤忠、丸紅、双日、JOGMEC の産業パートナー）の背後に位置する少数持分のスライスであり、これに加えてしばしばホスト国の NOC または NMC、そして国際メジャー（TotalEnergies、Shell、BHP、Rio Tinto、Glencore など）が加わる。国家の目的は日本への**オフテイク**である — 長期 LNG、石油、銅、ニッケル、リチウム、コバルト、レアアース、ウランの数量を、日本のエネルギー公益事業および電池 / EV サプライチェーンへ振り向けることである。「金属鉱物資源機構」への 2023-04 法定リブランディング（および 2024 の新たな専用鉱物ファンドとリスク負担権限を伴う運用上の拡大）は、マンデートを石油 / ガス / 金属から GX および経済安全保障に不可欠な戦略鉱物を含むものへと明確に拡大した。プロジェクトファイナンス・スタックにおける JOGMEC の役割は、メガバンク・シンジケートおよび JBIC が価格付けできない出資 / 探鉱リスクの席である — そのキャップテーブルへの存在は、しばしばシニア債務レイヤーがまとまることを可能にするシグナルとなる。
 
 ## 1. 機関 / 部門位置
+
+以下の表は、エントリ出典インベントリの公開一次資料（jogmec.go.jp, enecho.meti.go.jp, meti.go.jp）の範囲に限定して読む。^[source:jogmec.go.jp; enecho.meti.go.jp; meti.go.jp; oecd.org]
 
 | Item | Detail |
 |---|---|
@@ -39,6 +41,8 @@ JOGMEC（独立行政法人エネルギー・金属鉱物資源機構 — 旧石
 JBIC および NEXI との境界は構造的であり、実務上めったに争われない。JOGMEC は貸し手や保険会社が価格付けしない上流リスクを吸収し、JBIC と NEXI はプロジェクトが十分にデリスクされてバンカブルになると下流に位置する。
 
 ### 2.1 プロダクト / インストゥルメント表
+
+以下の表は、エントリ出典インベントリの公開一次資料（jogmec.go.jp, enecho.meti.go.jp, meti.go.jp）の範囲に限定して読む。^[source:jogmec.go.jp; enecho.meti.go.jp; meti.go.jp; oecd.org]
 
 | Lane | Instrument | Typical use | Counterpart | Sector focus |
 |---|---|---|---|---|
@@ -192,6 +196,8 @@ JOGMEC の姿勢は以下によって形作られる：
 オフテイクは、上流出資を純粋に金融投資ではなく資源安全保障ツールにする運用上のメカニズムである。オフテイク取極めがなければ、JOGMEC の出資は投資リターンのみをもたらし、国家出資モデルを正当化する現物供給の安全保障をもたらさないであろう。
 
 ## 8. 比較ポジション — JOGMEC 対同業の国家資源投資家
+
+以下の表は、エントリ出典インベントリの公開一次資料（jogmec.go.jp, enecho.meti.go.jp, meti.go.jp）の範囲に限定して読む。^[source:jogmec.go.jp; enecho.meti.go.jp; meti.go.jp; oecd.org]
 
 | Dimension | JOGMEC | Korean KORES / KOMIR | Chinese state-owned resource SOEs | Australian Future Fund critical-minerals investment | US DPA Title III + DOE Loan Programs Office | Private mining majors |
 |---|---|---|---|---|---|---|

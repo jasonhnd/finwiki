@@ -1,11 +1,11 @@
 ---
 source: regional-banks/kyushu-fg
-source_hash: 6e32b00b53a43476
+source_hash: 2d34c3e0b20966d2
 lang: en
 status: machine
 fidelity: ok
 title: "Kyushu FG"
-translated_at: 2026-06-19T12:43:19.962Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Kyushu FG
@@ -55,6 +55,8 @@ Kyushu FG (holding company / listed 7180)
 
 ### Key chronology
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Date | Event |
 |---|---|
 | 1879 | The 135th National Bank (later Higo Bank) + the 147th National Bank (later Kagoshima Bank) established |
@@ -66,6 +68,8 @@ Kyushu FG (holding company / listed 7180)
 | 2024 | **New medium-term management plan** (including semiconductor-cluster response / strengthening regional DX) |
 
 ## 2. Business segment map
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Segment | Main operator | Characteristics |
 |---|---|---|

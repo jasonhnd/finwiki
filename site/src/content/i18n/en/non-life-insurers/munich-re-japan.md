@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/munich-re-japan
-source_hash: e69166e142a5a977
+source_hash: 558aa7794ab1d504
 lang: en
 status: machine
 fidelity: ok
 title: "Munich Re Japan Branch"
-translated_at: 2026-06-01T00:41:50.380Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Munich Re Japan Branch
 
@@ -18,6 +18,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 Munich Reinsurance Company Japan Branch is the Japan branch of Munich Reinsurance Company / Munchener Ruckversicherungs-Gesellschaft, a DAX-listed global reinsurance group and one of the world's largest reinsurers. It appears on the FSA non-life insurer license list under the foreign non-life insurer category. In Japan it absorbs risk from major domestic non-life insurers such as [[non-life-insurers/tokio-marine-nichido-fire]], [[non-life-insurers/mitsui-sumitomo-insurance]], and [[non-life-insurers/sompo-japan-insurance]], as well as from life insurers, by using global reinsurance capital. It is especially important for large natural-catastrophe risks such as earthquakes, typhoons, and floods, and for life-insurance longevity risk.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (munichre.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:munichre.com; fsa.go.jp]
 
 | Item | Notes |
 |---|---|

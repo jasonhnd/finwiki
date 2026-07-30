@@ -3,8 +3,8 @@ title: 七十七銀行 (77 Bank)
 aliases: ["77 Bank", "The 77 Bank", "株式会社七十七銀行", "しちじゅうしち銀行", "77銀行"]
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, tohoku]
@@ -77,6 +77,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 | 1990s | バブル崩壊後の地銀業界再編期も単独路線維持 |
 
 ### 東日本大震災以降（最重要）
+
+The following table is scoped to public primary sources (77bank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:77bank.co.jp]
 
 | 年月 | 事象 |
 |---|---|

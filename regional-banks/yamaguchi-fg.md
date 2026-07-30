@@ -9,8 +9,8 @@ aliases:
   - "regional-banks/yamaguchi-bank"
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank]
@@ -65,6 +65,8 @@ YMFG（持株会社・上場 8418）
 
 ### 重要年表
 
+The following table is scoped to public primary sources (YMFG, Yamaguchi FG, Yamaguchi Financial Group). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:YMFG; Yamaguchi FG; Yamaguchi Financial Group]
+
 | 年月 | 事象 |
 |---|---|
 | 1944 | 山口銀行 設立（県内銀行統合）|
@@ -75,6 +77,8 @@ YMFG（持株会社・上場 8418）
 | 2024 | 中期経営計画策定 |
 
 ## 2. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (YMFG, Yamaguchi FG, Yamaguchi Financial Group). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:YMFG; Yamaguchi FG; Yamaguchi Financial Group]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

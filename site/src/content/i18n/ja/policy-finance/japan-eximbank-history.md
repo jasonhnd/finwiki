@@ -1,11 +1,11 @@
 ---
 source: policy-finance/japan-eximbank-history
-source_hash: ec356bf045c87a22
+source_hash: c0c9b8d3b59c72f4
 lang: ja
 status: machine
 fidelity: ok
 title: "Japan Export-Import Bank (historical predecessor of JBIC)"
-translated_at: 2026-06-19T06:09:18.137Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan Export-Import Bank (historical predecessor of JBIC)
@@ -17,6 +17,8 @@ translated_at: 2026-06-19T06:09:18.137Z
 本ページは、現代の JBIC / JICA / NEXI / DBJ という公的金融マップの歴史的アンカーとして [[policy-finance/INDEX|policy-finance index]] の下に位置する。
 
 ## 1. Institutional boundary
+
+以下の表は、エントリ出典インベントリの公開一次資料（jbic.go.jp, jica.go.jp）の範囲に限定して読む。^[source:jbic.go.jp; jica.go.jp]
 
 | Item | Reading |
 |---|---|
@@ -40,6 +42,8 @@ translated_at: 2026-06-19T06:09:18.137Z
 
 ## 3. Function map (historical)
 
+以下の表は、エントリ出典インベントリの公開一次資料（jbic.go.jp, jica.go.jp）の範囲に限定して読む。^[source:jbic.go.jp; jica.go.jp]
+
 | Function | Description |
 |---|---|
 | Export buyer credit | 日本製の資本財（プラント、船舶、輸送機器）の外国の買い手への長期融資。 |
@@ -51,6 +55,8 @@ translated_at: 2026-06-19T06:09:18.137Z
 これらの機能はすべて今日 [[financial-regulators/jbic|JBIC]] の下で継続しており、現代の [[policy-finance/oecd-export-credit-arrangement|OECD Arrangement]] 規律の枠内で枠付けされている。
 
 ## 4. Historical trajectory
+
+以下の表は、エントリ出典インベントリの公開一次資料（jbic.go.jp, jica.go.jp）の範囲に限定して読む。^[source:jbic.go.jp; jica.go.jp]
 
 | Year | Event |
 |---|---|

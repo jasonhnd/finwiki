@@ -1,11 +1,11 @@
 ---
 source: securities-firms/paypay-securities
-source_hash: 33a5deb3bc30a227
+source_hash: 27eb4a1b43607f6f
 lang: en
 status: machine
 fidelity: ok
 title: "PayPay Securities"
-translated_at: 2026-06-15T04:09:41.191Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # PayPay Securities
@@ -19,6 +19,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]] (its dom
 PayPay Securities Corporation (PayPay証券株式会社; formerly One Tap BUY) is a smartphone-brokerage operator belonging to the PayPay economic sphere. As a **Type I Financial Instruments Business Operator** under the Financial Instruments and Exchange Act, it is listed on the FSA's list of financial instruments business operators as "PayPay証券株式会社" (Director-General of the Kanto Local Finance Bureau (Kinsho) 第2883号). On a public-announcement basis, PayPay Corporation became its parent company as of 2025 年, and unlike a conventional online broker, it handles the asset-management funnel inside the PayPay app.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, paypay-sec.co.jp, softbank.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; paypay-sec.co.jp; softbank.jp]
 
 | Item | Notes |
 |---|---|

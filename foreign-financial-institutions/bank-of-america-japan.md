@@ -9,8 +9,8 @@ aliases:
   - "バンク・オブ・アメリカ 東京支店"
 domain: foreign-financial-institutions
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-16
 confidence: likely
 tags: [JapanFG, foreign-bank, foreign-ib, us]
@@ -37,6 +37,8 @@ Bank of America は 1947年に日本で事業を開始した米大手金融グ�
 
 ## 1. 会社概要
 
+The following table is scoped to public primary sources (business.bofa.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:business.bofa.com; fsa.go.jp]
+
 | 項目 | 内容 |
 |---|---|
 | 親会社 | Bank of America Corporation |
@@ -50,6 +52,8 @@ Bank of America は 1947年に日本で事業を開始した米大手金融グ�
 Bank of America 公式日本ページは、日本業務を BofA証券株式会社と Bank of America, N.A., Tokyo Branch の 2 法人で展開していると説明する。金融庁の外国銀行支店一覧でも、バンク・オブ・アメリカ・エヌ・エイは外国銀行支店として確認できる。
 
 ## 2. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (business.bofa.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:business.bofa.com; fsa.go.jp]
 
 | 事業セグメント | 内容 | 顧客 |
 |---|---|---|

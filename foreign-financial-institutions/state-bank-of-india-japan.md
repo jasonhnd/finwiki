@@ -8,8 +8,8 @@ aliases:
   - "State Bank of India Osaka Branch"
 domain: foreign-financial-institutions
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-22
 confidence: likely
 tags: [JapanFG, foreign-bank, India, corporate-banking, trade-finance]
@@ -38,6 +38,8 @@ State Bank of India Japan is recorded as India-Japan wholesale banking infrastru
 Registration is observed in the checked FSA source as of 2026-05-13; this page does not independently opine on current licensing beyond the cited public source.
 
 ## Disambiguation
+
+The following table is scoped to public primary sources (fsa.go.jp, jp.statebank, ibajapan.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jp.statebank; ibajapan.org]
 
 | Name | Meaning |
 |---|---|

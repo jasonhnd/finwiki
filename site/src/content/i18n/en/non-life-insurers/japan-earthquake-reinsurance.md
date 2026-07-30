@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/japan-earthquake-reinsurance
-source_hash: e0222680c8340c18
+source_hash: 204df81d41e68eda
 lang: en
 status: machine
 fidelity: ok
 title: "Japan Earthquake Reinsurance"
-translated_at: 2026-06-19T06:09:18.161Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan Earthquake Reinsurance
@@ -20,6 +20,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 Japan Earthquake Reinsurance Co., Ltd. (日本地震再保険株式会社) is an earthquake reinsurance company listed on the FSA's non-life insurance company license list. It is a central operating-company anchor for understanding Japan's public-private residential earthquake insurance scheme, and the concept page is placed at [[insurance/natcat-reinsurance-japan]].
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, sonpohogo.or.jp, nihonjishin.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sonpohogo.or.jp; nihonjishin.co.jp]
 
 | Item | Notes |
 |---|---|

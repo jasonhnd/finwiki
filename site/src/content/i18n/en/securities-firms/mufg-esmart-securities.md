@@ -1,11 +1,11 @@
 ---
 source: securities-firms/mufg-esmart-securities
-source_hash: 84779fb04dc5573a
+source_hash: 5697845a7f645335
 lang: en
 status: machine
 fidelity: ok
 title: "MUFG e-Smart Securities"
-translated_at: 2026-06-15T04:09:41.184Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # MUFG e-Smart Securities
@@ -19,6 +19,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]] (its dom
 Mitsubishi UFJ e-Smart Securities Co., Ltd. (三菱UFJ eスマート証券株式会社) is the online securities operator of the [[megabanks/mufg|MUFG]] group. It carries the lineage of the former au Kabucom Securities and, according to public press releases, became a 100% subsidiary of [[megabanks/mufg-bank|三菱UFJ銀行]] at the end of 2025 年 1 月 and was renamed "Mitsubishi UFJ e-Smart Securities" in 2025 年 2 月. It is listed in the FSA's list of financial instruments business operators as a **Type I Financial Instruments Business Operator** under the Financial Instruments and Exchange Act (Director-General of the Kanto Local Finance Bureau (Kinsho) 第61号).
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, kabu.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; kabu.com]
 
 | Item | Notes |
 |---|---|

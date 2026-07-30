@@ -1,11 +1,11 @@
 ---
 source: insurance/kampo-japan-post-insurance
-source_hash: e86e54ebc94b9594
+source_hash: 64221d5021f9f2d5
 lang: en
 status: machine
 fidelity: ok
 title: "Kampo / Japan Post Insurance"
-translated_at: 2026-06-19T06:09:18.027Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Kampo / Japan Post Insurance
@@ -73,6 +73,8 @@ The ALM problem at Kampo is conceptually the same as at the private big-four mut
 ESR is published under the [[insurance/economic-value-based-solvency|FSA economic-value-based solvency]] regime from April 2025 onward, in the same format as the private big-four. See [[insurance/esr-economic-value-solvency|ESR]] for the ratio definition.
 
 ## Comparison with FSA life big-four
+
+The following table is scoped to public primary sources (jp-life.japanpost.jp, japanpost.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jp-life.japanpost.jp; japanpost.jp; fsa.go.jp]
 
 | Axis | FSA life big-four | Kampo (Japan Post Insurance) |
 |---|---|---|

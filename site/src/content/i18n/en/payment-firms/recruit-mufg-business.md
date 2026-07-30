@@ -1,11 +1,11 @@
 ---
 source: payment-firms/recruit-mufg-business
-source_hash: 41682f8ab3f75127
+source_hash: f0c57de9930fde30
 lang: en
 status: machine
 fidelity: ok
 title: "Recruit MUFG Business"
-translated_at: 2026-06-01T00:41:50.416Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Recruit MUFG Business
@@ -21,6 +21,8 @@ Recruit MUFG Business Co., Ltd. is a joint venture of Recruit and [[megabanks/mu
 The company is strategically important because it combines Recruit's merchant / consumer service surfaces with MUFG banking rails. It is not a classic card issuer; it is an account-linked wallet / payment infrastructure route.
 
 ## 1. Entity / license boundary
+
+The following table is scoped to public primary sources (recruitmufgbiz.co.jp, fsa.go.jp, recruit.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:recruitmufgbiz.co.jp; fsa.go.jp; recruit.co.jp]
 
 | Item | Reading |
 |---|---|

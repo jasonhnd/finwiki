@@ -1,11 +1,11 @@
 ---
 source: life-insurers/tokio-marine-nichido-life
-source_hash: f955acee195a76eb
+source_hash: f6cf9717c0e0d825
 lang: ja
 status: machine
 fidelity: ok
 title: "東京海上日動あんしん生命保険"
-translated_at: 2026-06-02T16:33:58.486Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 東京海上日動あんしん生命保険
 
@@ -19,6 +19,8 @@ translated_at: 2026-06-02T16:33:58.486Z
 東京海上日動あんしん生命保険株式会社は、[[non-life-insurers/tokio-marine]] グループの生命保険運営会社である。[[non-life-insurers/tokio-marine]] は損害保険大手として知られるが、この法人は金融庁の生命保険会社一覧に掲載される独立した生命保険引受会社であり、生命保険と損害保険のクロスセル、およびグループ多角化を把握するうえで重要である。
 
 ## 1. ライセンス・グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, tmn-anshin.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; tmn-anshin.co.jp]
 
 | 項目 | 注記 |
 |---|---|

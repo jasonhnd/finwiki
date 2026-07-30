@@ -8,8 +8,8 @@ aliases:
   - "Mobile PASMO Apple Pay"
 domain: payments
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [payments, prepaid, electronic-money, transit, felica, pasmo, tokyo-metro, private-rail]
@@ -35,6 +35,8 @@ This entry sits under [[payments/INDEX|payments index]] as the Tokyo private-rai
 **PASMO** is the **prepaid IC e-money operated by the Tokyo private-rail and bus consortium** — a multi-operator consortium centered on **株式会社パスモ (PASMO Co Ltd)** that pools issuance and settlement across Tokyo Metro, Toei Subway, and major private-rail / bus operators (Tokyu, Odakyu, Keio, Tobu, Seibu, Keisei, Sotetsu, Yokohama Minatomirai Railway, etc.). Launched 2007-03-18 to interoperate with [[payments/suica-prepaid-jr-east|Suica]] from day one, PASMO joined the **10 IC mutual-use scheme** in 2013-03-23 and is the principal non-JR transit IC in the Greater Tokyo area. PASMO runs on **FeliCa** contactless IC, is registered as a **第三者型前払式支払手段** under the [[payments/funds-transfer-vs-prepaid-boundary|Payment Services Act prepaid framework]], and has cross-merchant retail acceptance across Tokyo and at any 10-IC-accepting POS nationwide. **Mobile PASMO** launched 2020-03 on Android Osaifu Keitai and 2020-10 on Apple Pay — meaningfully later than Mobile Suica's 2016 Apple Pay launch, reflecting the consortium-coordination cost of multi-operator agreement.
 
 ## Issuer and consortium structure
+
+The following table is scoped to public primary sources (pasmo.co.jp, tokyometro.jp, kotsu.metro.tokyo.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:pasmo.co.jp; tokyometro.jp; kotsu.metro.tokyo.jp; fsa.go.jp]
 
 | Dimension | Reading |
 |---|---|
@@ -79,6 +81,8 @@ The **consortium structure** is a strength for breadth of operator coverage but 
 PASMO and Suica's mutual-use was the foundational 2007 launch event — these two were interoperable from PASMO's day one, three years before the broader 2013 10 IC mutual-use scheme. Full mutual-use participant list is in [[payments/japan-transit-prepaid-suica-pasmo-icoca-economics|transit-prepaid economics]]. Inter-issuer settlement runs through Cyberne.
 
 ## Mobile PASMO generations
+
+The following table is scoped to public primary sources (pasmo.co.jp, tokyometro.jp, kotsu.metro.tokyo.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:pasmo.co.jp; tokyometro.jp; kotsu.metro.tokyo.jp; fsa.go.jp]
 
 | Generation | Year | Key features |
 |---|---|---|

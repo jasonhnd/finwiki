@@ -1,11 +1,11 @@
 ---
 source: policy-finance/japan-housing-finance-agency
-source_hash: 19876f923f884943
+source_hash: 9c1e9e4ce5e73626
 lang: en
 status: machine
 fidelity: ok
 title: "Japan Housing Finance Agency (JHF)"
-translated_at: 2026-06-01T03:31:12.305Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan Housing Finance Agency (JHF)
@@ -20,6 +20,8 @@ Japan Housing Finance Agency (住宅金融支援機構, JHF) is Japan's housing-
 
 ## 1. 機関概要
 
+The following table is scoped to public primary sources (jhf.go.jp, mlit.go.jp, mof.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jhf.go.jp; mlit.go.jp; mof.go.jp; flat35.com]
+
 | 項目 | 内容 |
 |---|---|
 | 法的形態 | 独立行政法人 (Incorporated Administrative Agency) |
@@ -33,6 +35,8 @@ Japan Housing Finance Agency (住宅金融支援機構, JHF) is Japan's housing-
 | FinWiki lane | [[policy-finance/INDEX|policy-finance]] (not a JapanFG company page; not a bank) |
 
 ## 2. 業務マップ
+
+The following table is scoped to public primary sources (jhf.go.jp, mlit.go.jp, mof.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jhf.go.jp; mlit.go.jp; mof.go.jp; flat35.com]
 
 | 業務 | 内容 | 取引相手 |
 |---|---|---|
@@ -57,6 +61,8 @@ JHF's flagship product family is the **Flat 35** (フラット35) long-term fixe
 Flat 35 origination volume runs in the hundreds of thousands of loans per year, with annual disbursement in the trillions of yen scale at peak periods; JHF MBS issuance is the downstream funding leg of this origination flow.
 
 ## 4. Year evolution and the 2007 privatization-then-recreated arc
+
+The following table is scoped to public primary sources (jhf.go.jp, mlit.go.jp, mof.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jhf.go.jp; mlit.go.jp; mof.go.jp; flat35.com]
 
 | Year | Event | Significance |
 |---|---|---|

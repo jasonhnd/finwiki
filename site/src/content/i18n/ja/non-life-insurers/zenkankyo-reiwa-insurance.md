@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/zenkankyo-reiwa-insurance
-source_hash: 44ee581fd9fced4f
+source_hash: 468bd4b1a04fa080
 lang: ja
 status: machine
 fidelity: ok
 title: "Zenkankyo Reiwa Insurance / 全管協れいわ損害保険"
-translated_at: 2026-06-02T16:33:58.510Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Zenkankyo Reiwa Insurance / 全管協れいわ損害保険
 
@@ -20,6 +20,8 @@ Zenkankyo Reiwa Insurance は、賃貸住宅入居者向け補償と不動産管
 このページは全管協れいわ損害保険株式会社を扱う。少額短期保険ページや不動産協会ページに統合すべきではない。同社は FSA 免許を持つ損害保険会社だからである。
 
 ## 事業上の役割マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, zkreiwa-sonpo.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; zkreiwa-sonpo.co.jp]
 
 | ルート | 読み方 |
 |---|---|

@@ -3,8 +3,8 @@ title: "アメリカン・エキスプレス・インターナショナル日本
 aliases: ["American Express Japan", "Amex Japan", "アメリカン・エキスプレス", "アメックス", "American Express International, Inc."]
 domain: payment-firms
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, card-brand, payments, amex, 3-party-scheme, direct-issuer]
@@ -24,6 +24,8 @@ sources:
 This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it against [[card-issuers/jcb|JCB]] for peer / contrast context (JCB と Amex は両方 3-party scheme + 提携歴あり) and [[payments/japan-card-issuer-acquirer-processor-split|Japan card issuer / acquirer / processor split]] for the broader system / regulatory boundary.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (americanexpress.com, meti.go.jp, global.jcb). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:americanexpress.com; meti.go.jp; global.jcb; jcb.co.jp]
 
 | Item | Notes |
 |---|---|

@@ -1,5 +1,7 @@
 # リリース状態台帳 / Release State Registry / 发布状态台账
 
+- [v2026.07.30-2](./v2026.07.30-2.md) — table provenance batches 10–14 + opinions quarantine (#240–#244, #193)
+
 ## 日本語
 
 この台帳は、`releases/v*.md`、Git tag、GitHub Release の関係を明示します。release note の basename と tag / GitHub Release の tag は同じ version を使います。

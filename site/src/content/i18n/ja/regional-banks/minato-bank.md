@@ -1,11 +1,11 @@
 ---
 source: regional-banks/minato-bank
-source_hash: 1370dcc60815857c
+source_hash: bf74e547a268f6ed
 lang: ja
 status: machine
 fidelity: ok
 title: "みなと銀行"
-translated_at: 2026-06-19T12:43:19.880Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # みなと銀行
@@ -20,6 +20,8 @@ translated_at: 2026-06-19T12:43:19.880Z
 株式会社みなと銀行は、金融庁の銀行免許一覧に掲載される兵庫県本店の第二地方銀行。[[megabanks/resona-hd]] 傘下の Hyogo / Kansai operating bank であり、[[regional-banks/kansai-mirai-bank]] とは別の bank-license entity として扱う。
 
 ## 1. License / group boundary
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, minatobk.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; minatobk.co.jp]
 
 | Item | Notes |
 |---|---|

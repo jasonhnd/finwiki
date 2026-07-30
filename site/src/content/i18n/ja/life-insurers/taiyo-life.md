@@ -1,11 +1,11 @@
 ---
 source: life-insurers/taiyo-life
-source_hash: aae5bb1b2781103d
+source_hash: 2118031d8ac7d5ff
 lang: ja
 status: machine
 fidelity: ok
 title: "太陽生命保険"
-translated_at: 2026-06-02T16:33:58.455Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 太陽生命保険
 
@@ -19,6 +19,8 @@ translated_at: 2026-06-02T16:33:58.455Z
 太陽生命保険株式会社は、[[life-insurers/td-hd]] グループの主要な生命保険事業会社である。[[life-insurers/daido-life]] が中小企業・オーナー市場に強いのに対し、太陽生命は家計・個人保障市場を担う事業会社として見ると、T&D グループの役割分担戦略を読み取りやすい。
 
 ## 1. 法人・ライセンス境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, taiyo-seimei.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; taiyo-seimei.co.jp]
 
 | 項目 | 説明 |
 |---|---|

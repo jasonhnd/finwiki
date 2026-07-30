@@ -1,12 +1,12 @@
 ---
 source: foreign-financial-institutions/foreign-bank-branches-japan-index
-source_hash: 55190d2528aebc5a
+source_hash: 8950992c97680a0c
 lang: en
 model: canonical-en-source-sync
 status: machine
 fidelity: ok
 title: "Foreign bank branches in Japan registry index"
-translated_at: 2026-07-28T19:25:32.800Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Foreign bank branches in Japan registry index
@@ -24,6 +24,8 @@ Do not create long-tail foreign-bank branch pages one by one from this table by 
 
 ## Coverage summary
 
+The following table is scoped to public primary sources (fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp]
+
 | Metric | Count |
 |---|---:|
 | FSA foreign-bank branch rows | 57 |
@@ -32,6 +34,8 @@ Do not create long-tail foreign-bank branch pages one by one from this table by 
 | Source as-of date | 2026-05-13 |
 
 ## Jurisdiction summary
+
+The following table is scoped to public primary sources (fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp]
 
 | Jurisdiction | FSA rows |
 |---|---:|
@@ -60,6 +64,8 @@ Do not create long-tail foreign-bank branch pages one by one from this table by 
 | ルクセンブルク大公国 | 1 |
 
 ## Registry rows
+
+The following table is scoped to public primary sources (fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp]
 
 | Jurisdiction | FSA listed name | Corporate no. | Representative branch address | Wiki route | Coverage |
 |---|---|---:|---|---|---|

@@ -3,8 +3,8 @@ title: "十六銀行"
 aliases: ["Juroku Bank", "The Juroku Bank", "株式会社十六銀行"]
 domain: regional-banks
 created: 2026-05-21
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-12-05
 confidence: likely
 tags: [JapanFG, banking, regional-bank, chubu, gifu, operating-company]
@@ -25,6 +25,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 株式会社十六銀行 (The Juroku Bank) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される岐阜県岐阜市本店の地方銀行 (第一地銀)。[[regional-banks/juroku-fg|十六フィナンシャルグループ]] の core operating bank であり、FG page とは別に bank-license entity として整理する。事業の中身は岐阜県・中京圏での預金受入と中小企業・個人・地方公共団体向け貸出という地方銀行の標準モデル。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, juroku.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; juroku.co.jp]
 
 | Item | Notes |
 |---|---|

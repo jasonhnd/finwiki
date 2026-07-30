@@ -11,8 +11,8 @@ aliases:
   - "Japan non-life big three ESR sensitivity"
 domain: insurance
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [insurance, matrix, non-life, esr, reinsurance, japan, catastrophe, P&C]
@@ -108,6 +108,8 @@ The matrix below lists axes that differentiate the big three. Specific numbers (
 
 ### Identity, group, and operating structure
 
+The following table is scoped to public primary sources (fsa.go.jp, iaisweb.org, sonpo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; iaisweb.org; sonpo.or.jp; tokiomarinehd.com]
+
 | Axis | Tokio Marine Holdings | MS&AD Insurance Group Holdings | Sompo Holdings |
 |---|---|---|---|
 | Listed holding company | [[non-life-insurers/tokio-marine|Tokio Marine Holdings]] (TSE Prime) | [[non-life-insurers/msad|MS&AD Insurance Group Holdings]] (TSE Prime) | [[non-life-insurers/sompo|Sompo Holdings]] (TSE Prime) |
@@ -129,6 +131,8 @@ The matrix below lists axes that differentiate the big three. Specific numbers (
 | Domestic cat budget reset | Reset after Faxai / Hagibis (2019) and subsequent events | Reset after Faxai / Hagibis (2019) and subsequent events | Reset after Faxai / Hagibis (2019) and subsequent events |
 
 ### Reinsurance program shape
+
+The following table is scoped to public primary sources (fsa.go.jp, iaisweb.org, sonpo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; iaisweb.org; sonpo.or.jp; tokiomarinehd.com]
 
 | Axis | Tokio Marine | MS&AD | Sompo |
 |---|---|---|---|
@@ -163,6 +167,8 @@ The matrix below lists axes that differentiate the big three. Specific numbers (
 | Relationship constraint | Disposal is sequenced against customer / partner relationship considerations | Same constraint | Same constraint |
 
 ### Capital return policy and ESR
+
+The following table is scoped to public primary sources (fsa.go.jp, iaisweb.org, sonpo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; iaisweb.org; sonpo.or.jp; tokiomarinehd.com]
 
 | Axis | Tokio Marine | MS&AD | Sompo |
 |---|---|---|---|
@@ -235,6 +241,8 @@ The current big-three shape reflects two decades of consolidation:
 ## Reading the disclosure
 
 Each group publishes the relevant data in similar but not identical disclosure formats:
+
+The following table is scoped to public primary sources (fsa.go.jp, iaisweb.org, sonpo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; iaisweb.org; sonpo.or.jp; tokiomarinehd.com]
 
 | Disclosure surface | Tokio Marine HD | MS&AD HD | Sompo HD |
 |---|---|---|---|

@@ -3,8 +3,8 @@ title: 東和銀行 (The Towa Bank)
 aliases: ["東和銀行", "Towa Bank", "The Towa Bank, Ltd.", "とうわ", "とうわ銀行", "8558"]
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, second-tier]
@@ -113,6 +113,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 - 大手系統入りせず単独体制維持しつつ戦略連携で広域補完する典型例
 
 ### 競合構造
+
+The following table is scoped to public primary sources (Wikipedia: 株式会社東和銀行 (2026-05-19 抽出), 東和銀行 公式 IR / 中期経営計画 (公開資料), 第二地方銀行協会 加盟行リスト (公開)). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Wikipedia: 株式会社東和銀行 (2026-05-19 抽出); 東和銀行 公式 IR / 中期経営計画 (公開資料); 第二地方銀行協会 加盟行リスト (公開)]
 
 | 競合 | 特徴 |
 |---|---|

@@ -1,12 +1,12 @@
 ---
 source: payment-firms/western-union-japan
-source_hash: 13b387e989cd2dd1
+source_hash: 354b9aa2d5bb15c0
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "ウエスタンユニオンジャパン (Western Union Japan)"
-translated_at: 2026-06-26T08:31:59.842Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # ウエスタンユニオンジャパン (Western Union Japan)
@@ -18,6 +18,8 @@ translated_at: 2026-06-26T08:31:59.842Z
 ## 要約ウエスタンユニオンジャパン株式会社は、Western Union グループの日本 **資金移動業者**（資金移動事業者 under 資金決済法; 関東財務局長第00039号、平成27年8月18日登録）。本社は東京・港区虎ノ門。cash pickup / agent network 型 remittance の代表例で、移民・旅行・越境家計フロー向けの国際送金を提供する。
 
 ## 1. ライセンス／グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（westernunion.com, fsa.go.jp）の範囲に限定して読む。^[source:westernunion.com; fsa.go.jp]
 
 | 項目 | 備考 |
 |---|---|

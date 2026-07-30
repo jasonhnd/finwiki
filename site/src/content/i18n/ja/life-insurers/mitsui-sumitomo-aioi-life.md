@@ -1,11 +1,11 @@
 ---
 source: life-insurers/mitsui-sumitomo-aioi-life
-source_hash: 05e0a504cea58993
+source_hash: 436eacec3595ecb0
 lang: ja
 status: machine
 fidelity: ok
 title: "三井住友海上あいおい生命保険"
-translated_at: 2026-06-19T06:09:18.029Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 三井住友海上あいおい生命保険
@@ -20,6 +20,8 @@ translated_at: 2026-06-19T06:09:18.029Z
 三井住友海上あいおい生命保険株式会社は、[[non-life-insurers/msad]] グループの生命保険事業会社である。[[non-life-insurers/msad]] は主として損害保険グループであるが、本エンティティは別個の金融庁掲載の生命保険会社であり、[[life-insurers/sompo-himawari-life]] および [[life-insurers/tokio-marine-nichido-life]] と同じ比較対象群に属する。
 
 ## 1. ライセンス / グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, msa-life.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; msa-life.co.jp]
 
 | 項目 | 備考 |
 |---|---|

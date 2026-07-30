@@ -26,8 +26,8 @@
     "domain": "life-insurers",
     "type": null,
     "created": "2026-05-21",
-    "last_updated": "2026-06-05",
-    "last_tended": "2026-06-05",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-11-21",
     "confidence": "likely",
     "tags": [
@@ -88,9 +88,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2970,
-    "word_like_tokens": 441,
+    "nonspace_chars": 3227,
+    "word_like_tokens": 489,
     "inbound_wikilinks_count": 5,
-    "last_modified": "2026-06-05"
+    "last_modified": "2026-07-30"
   }
 }

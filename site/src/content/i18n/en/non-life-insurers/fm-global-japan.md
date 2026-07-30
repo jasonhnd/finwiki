@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/fm-global-japan
-source_hash: e6878ca29adc04e2
+source_hash: 90668611d3303666
 lang: en
 status: machine
 fidelity: ok
 title: "FM Global Japan / FM Global Japan"
-translated_at: 2026-05-31T15:29:03.930Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # FM Global Japan / FMグローバル・ジャパン
 
@@ -18,6 +18,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 FM Insurance Company Limited Japan Branch (FM Global Japan) is the Japan branch of **FM Global** (Factory Mutual Insurance Company, headquartered in Johnston, Rhode Island, USA). FM Global is the world's leading mutual industrial-property insurer, owned by its policyholders, specializing in large commercial property risks combined with engineering-based loss prevention. Its Japan operations focus on Fortune 500-class manufacturers, supply-chain risks, and natural-catastrophe property cover where domestic [[insurance/japan-nonlife-big-three|non-life big three]] capacity meets foreign specialty alternatives.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, fmglobal.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; fmglobal.com]
 
 | Item | Notes |
 |---|---|

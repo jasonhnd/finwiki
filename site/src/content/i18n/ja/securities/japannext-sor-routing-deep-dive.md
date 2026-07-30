@@ -1,12 +1,12 @@
 ---
 source: securities/japannext-sor-routing-deep-dive
-source_hash: 1a19daaab35d5bd8
+source_hash: 92e85dd8e5b2278f
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Japannext PTS SOR ルーティング詳細分析"
-translated_at: 2026-06-26T08:28:53.974Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japannext PTS SOR ルーティング詳細分析
@@ -20,6 +20,8 @@ translated_at: 2026-06-26T08:28:53.974Z
 Japannext は日本で最も古く最大の現物株式 PTS であり、Japannext 株式会社（旧 SBI Japannext）が PTS 認可付きの FIEA 第一種金融商品取引業のもとで運営する。明示的な連続オークション注文板（日中セッション用の J-Market と夜間セッション用の X-Market）を運用し、EU・US の MTF / ATS 設計でおなじみの指値 / 成行 / アイスバーグ / ペッグ注文タイプをサポートする。その競争上の役割は、ブローカーの SOR エンジンに対して [[securities/tokyo-stock-exchange|TSE]] および OSE 上場の現物隣接に代わる価格改善および時間外の代替手段を提供することにある。ルーティングの経済性は、JSDA 自主規制ルール、FSA の顧客最善利益原則、TSE / Japannext / [[securities/osaka-digital-exchange|ODX]] 間の分断（ODX では現物株式の範囲は狭く、主に証券トークン）、そして SOR 所有者が同時に Japannext の株主または販売カウンターパーティーである場合のブローカー優先選択によって形作られる。
 
 ## Venue identity
+
+以下の表は、エントリ出典インベントリの公開一次資料（japannext.co.jp, jsda.or.jp, fsa.go.jp）の範囲に限定して読む。^[source:japannext.co.jp; jsda.or.jp; fsa.go.jp; jpx.co.jp]
 
 | Field | Public reading |
 |---|---|
@@ -36,6 +38,8 @@ Japannext は日本で最も古く最大の現物株式 PTS であり、Japannex
 
 Japannext は 2 つの異なるセッションを運営しており、ブローカーの SOR ロジックはこれらを異なる流動性プールとして扱わなければならない:
 
+以下の表は、エントリ出典インベントリの公開一次資料（japannext.co.jp, jsda.or.jp, fsa.go.jp）の範囲に限定して読む。^[source:japannext.co.jp; jsda.or.jp; fsa.go.jp; jpx.co.jp]
+
 | Session | Window (illustrative) | Use case |
 |---|---|---|
 | J-Market | TSE 日中セッションと重複 | 価格改善、隠れた流動性の捕捉、サポートされるセグメントでのミッドポイント・マッチングのための明示的な代替 venue。|
@@ -46,6 +50,8 @@ Japannext は 2 つの異なるセッションを運営しており、ブロー�
 ## Order types
 
 Japannext は、リテール UI が通常公開するよりも豊富な注文タイプの語彙をサポートする。公開記載されているファミリーには以下が含まれる:
+
+以下の表は、エントリ出典インベントリの公開一次資料（japannext.co.jp, jsda.or.jp, fsa.go.jp）の範囲に限定して読む。^[source:japannext.co.jp; jsda.or.jp; fsa.go.jp; jpx.co.jp]
 
 | Order type | Behaviour | Routing relevance |
 |---|---|---|
@@ -74,6 +80,8 @@ FSA の顧客最善利益原則（顧客本位の業務運営）は、実質的�
 ## Fragmentation: TSE / OSE / Japannext / ODX
 
 日本の現物株式流動性は、米国株式が NYSE / Nasdaq に集中しているよりもはるかに [[securities/tokyo-stock-exchange|TSE]] に集中している。分断のマップは次のようになる:
+
+以下の表は、エントリ出典インベントリの公開一次資料（japannext.co.jp, jsda.or.jp, fsa.go.jp）の範囲に限定して読む。^[source:japannext.co.jp; jsda.or.jp; fsa.go.jp; jpx.co.jp]
 
 | Venue | Share of cash-equity flow | Notes |
 |---|---|---|
@@ -112,6 +120,8 @@ FSA の顧客本位の業務運営ページ（顧客本位の業務運営）は�
 
 Japannext のルーティングが実際に顧客の結果を改善するかどうかを評価するための有用な指標:
 
+以下の表は、エントリ出典インベントリの公開一次資料（japannext.co.jp, jsda.or.jp, fsa.go.jp）の範囲に限定して読む。^[source:japannext.co.jp; jsda.or.jp; fsa.go.jp; jpx.co.jp]
+
 | Metric | Definition | Caveat |
 |---|---|---|
 | TSE NBBO に対する価格改善 | 執行価格と注文到着時の TSE 最良買気配 / 売気配との差 | 呼値単位の離散性が改善の大きさを制限する；サブティック対応の比較が必要。|
@@ -133,6 +143,8 @@ Japannext PTS の現物株式取引は、その PTS 清算サービスのもと�
 - 清算会員レベルでの venue 横断のネッティングは、SOR アクティブな企業にとって意味のある運用上の便益である。
 
 ## Regulation and self-regulation
+
+以下の表は、エントリ出典インベントリの公開一次資料（japannext.co.jp, jsda.or.jp, fsa.go.jp）の範囲に限定して読む。^[source:japannext.co.jp; jsda.or.jp; fsa.go.jp; jpx.co.jp]
 
 | Layer | Role |
 |---|---|

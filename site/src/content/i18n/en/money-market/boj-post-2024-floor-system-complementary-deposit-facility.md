@@ -1,11 +1,11 @@
 ---
 source: money-market/boj-post-2024-floor-system-complementary-deposit-facility
-source_hash: 72f03f3f62832028
+source_hash: f01068c941bade8d
 lang: en
 status: machine
 fidelity: ok
 title: "BoJ post-2024 floor system and complementary deposit facility (補完当座預金制度)"
-translated_at: 2026-05-30T14:13:23.423Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # BoJ post-2024 floor system and complementary deposit facility (補完当座預金制度)
@@ -21,6 +21,8 @@ In March 2024, the Bank of Japan ended negative interest-rate policy (NIRP) and 
 The interest-on-reserves rail is the complementary deposit facility (補完当座預金制度), which historically applied a tiered structure to current-account balances. After the March 2024 framework shift, the policy-rate-balance tier carries the headline short-term policy rate, and short-term money-market pricing is anchored above this floor.
 
 ## Framework Map
+
+The following table is scoped to public primary sources (boj.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:boj.or.jp]
 
 | Layer | Pre-March-2024 reading | Post-March-2024 reading |
 |---|---|---|
@@ -45,6 +47,8 @@ After the policy-tiering changes that accompanied NIRP and post-NIRP normalizati
 
 The pre-2024 NIRP tier framework provides a useful reading template:
 
+The following table is scoped to public primary sources (boj.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:boj.or.jp]
+
 | Tier | Concept | Reading |
 |---|---|---|
 | Basic balance | A reference balance defined by historical reserve amounts. | Carried a positive rate. |
@@ -65,6 +69,8 @@ Practical reading:
 - [[money-market/japan-ncd-negotiable-cd-market|NCD]] and [[money-market/japan-cp-commercial-paper-market|CP]] yields should trade above the floor by issuer credit spreads.
 
 ## Comparison with Fed IORB and ECB DFR
+
+The following table is scoped to public primary sources (boj.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:boj.or.jp]
 
 | Feature | BoJ post-2024 | US Fed | ECB |
 |---|---|---|---|

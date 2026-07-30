@@ -1,11 +1,11 @@
 ---
 source: regional-banks/aichi-bank
-source_hash: e30fff579634cc31
+source_hash: 66d2b20dc040ff38
 lang: ja
 status: machine
 fidelity: ok
 title: "あいち銀行"
-translated_at: 2026-06-02T14:01:20.938Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # あいち銀行
@@ -20,6 +20,8 @@ translated_at: 2026-06-02T14:01:20.938Z
 株式会社あいち銀行は、金融庁の銀行免許一覧に掲載される愛知県本店の第二地方銀行。[[regional-banks/aichi-fg]] 傘下で、旧愛知銀行と旧中京銀行の統合後 事業銀行 として扱う。
 
 ## 1. 免許 / グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, aichibank.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; aichibank.co.jp]
 
 | 項目 | 内容 |
 |---|---|

@@ -3,8 +3,8 @@ title: "UI銀行 (UI Bank)"
 aliases: ["UI Bank", "UI銀行", "株式会社UI銀行", "株式会社ＵＩ銀行"]
 domain: regional-banks
 created: 2026-05-20
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, bank, digital-bank, regional-bank, operating-company]
@@ -26,6 +26,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 UI銀行 (UI Bank Co., Ltd.) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される、[[regional-banks/kiraboshi-fg|東京きらぼしフィナンシャルグループ]] 100% 出資の digital-bank operating company。2021 年 12 月 17 日に銀行業免許を取得し、2022 年 1 月 4 日にシステム稼働、同 1 月 17 日にスマホ専用アプリで預金者向けサービスを開始した。地域金融グループ発のスマホ銀行として、対面・非対面のハイブリッドと生活パートナー型金融、API 連携を打ち出す。
 
 ## 1. 法人・ライセンス境界
+
+The following table is scoped to public primary sources (fsa.go.jp, uibank.co.jp, kiraboshibank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; uibank.co.jp; kiraboshibank.co.jp]
 
 | Item | Reading |
 |---|---|

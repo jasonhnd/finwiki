@@ -1,11 +1,11 @@
 ---
 source: payments/prepaid-payment-instrument-issuers-japan-index
-source_hash: 4d443bc782307451
+source_hash: e840599249d409b2
 lang: en
 status: machine
 fidelity: ok
 title: "Japan third-party prepaid payment instrument issuers registry index"
-translated_at: 2026-06-15T03:48:21.915Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan third-party prepaid payment instrument issuers registry index
@@ -18,6 +18,8 @@ Use this page to separate prepaid / stored-value issuance from funds-transfer, c
 
 ## Boundary
 
+The following table is scoped to public primary sources (fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp]
+
 | Boundary | Treatment |
 |---|---|
 | Third-party prepaid payment instrument issuer | Registered issuer of prepaid value usable at third-party merchants / stores. Full population is controlled by FSA `daisan.xlsx`. |
@@ -28,6 +30,8 @@ Use this page to separate prepaid / stored-value issuance from funds-transfer, c
 
 ## Registry Snapshot
 
+The following table is scoped to public primary sources (fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp]
+
 | Metric | Reading |
 |---|---:|
 | FSA as-of date | 2026-04-30 |
@@ -36,6 +40,8 @@ Use this page to separate prepaid / stored-value issuance from funds-transfer, c
 | Registry reproduction policy | Do not copy 803 rows into wiki; cite FSA workbook and keep jurisdiction counts / material routes here. |
 
 ## Jurisdiction Counts
+
+The following table is scoped to public primary sources (fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp]
 
 | Jurisdiction | Issuers |
 |---|---:|
@@ -55,6 +61,8 @@ Use this page to separate prepaid / stored-value issuance from funds-transfer, c
 ## Existing Material Wiki Routes
 
 These rows are not a completeness claim for all major prepaid issuers. They are the currently routed material operators already present in FinWiki.
+
+The following table is scoped to public primary sources (fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp]
 
 | Official name in FSA list | Registration date | Corporate number | Wiki route | Boundary note |
 |---|---|---:|---|---|

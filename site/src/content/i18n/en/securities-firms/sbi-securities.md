@@ -1,11 +1,11 @@
 ---
 source: securities-firms/sbi-securities
-source_hash: 80d50d79aae4d60d
+source_hash: 9fa8e0a37c7f7ae8
 lang: en
 status: machine
 fidelity: ok
 title: "SBI Securities (SBI証券)"
-translated_at: 2026-06-15T04:09:41.214Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # SBI Securities (SBI証券)
@@ -19,6 +19,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]] (its dom
 SBI SECURITIES Co., Ltd. (株式会社SBI証券) is the online-securities core company of [[megabanks/sbi-hd|SBI HD]]; as a **Type I Financial Instruments Business Operator** under the Financial Instruments and Exchange Act, it is listed on the FSA's list of financial instruments business operators as "株式会社SBI証券" (Director-General of the Kanto Local Finance Bureau (Kinsho) 第44号). As one of Japan's largest online comprehensive brokers, it is an operating company that should be treated separately from the SBI group proper when looking at Japan's retail brokerage / NISA / iDeCo / online-trading funnels.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (sbigroup.co.jp, fsa.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:sbigroup.co.jp; fsa.go.jp; jsda.or.jp; sbisec.co.jp]
 
 | Item | Notes |
 |---|---|

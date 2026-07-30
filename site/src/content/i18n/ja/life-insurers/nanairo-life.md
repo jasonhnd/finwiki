@@ -1,11 +1,11 @@
 ---
 source: life-insurers/nanairo-life
-source_hash: cd421a2323f5aeab
+source_hash: 6cb20d421074bb2a
 lang: ja
 status: machine
 fidelity: ok
 title: "なないろ生命保険"
-translated_at: 2026-06-02T14:54:39.049Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # なないろ生命保険
@@ -20,6 +20,8 @@ translated_at: 2026-06-02T14:54:39.049Z
 なないろ生命保険株式会社は、金融庁 生命保険会社一覧 に掲載される [[life-insurers/asahi-life]] グループ の 生命保険運営会社。朝日生命本体とは別に、乗合代理店および現代的な商品・チャネル志向の保険会社 として見る。
 
 ## 1. 免許・グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, nanairolife.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; nanairolife.co.jp]
 
 | 項目 | 注記 |
 |---|---|

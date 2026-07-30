@@ -1,11 +1,11 @@
 ---
 source: money-market/japan-short-term-funding-instrument-matrix
-source_hash: 0fea42c9d4c38bf2
+source_hash: 4a1785b10eb24c0c
 lang: en
 status: machine
 fidelity: ok
 title: "Japan short-term funding instrument matrix"
-translated_at: 2026-05-30T14:13:23.430Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan short-term funding instrument matrix
@@ -147,6 +147,8 @@ The matrix exists so that any single short-end instrument page can be placed ins
 - **Post-2024 floor implications.** Positive yen short rates have revived the MRF yield surface; underlying portfolio yields lift toward the policy-rate-balance floor minus management fees. The MRF survives as the default brokerage cash sleeve; MMF revival depends on persistent positive front-end rates and product-revival decisions.
 
 ## Cross-instrument comparison matrix
+
+The following table is scoped to public primary sources (boj.or.jp, mof.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:boj.or.jp; mof.go.jp; jsda.or.jp; jasdec.com]
 
 | Dimension | Uncoll. Call | Coll. Call | GC Repo | SC Repo | CP | NCD | TBill / TDB | BoJ CDF (補完当座預金) | MRF / MMF |
 |---|---|---|---|---|---|---|---|---|---|

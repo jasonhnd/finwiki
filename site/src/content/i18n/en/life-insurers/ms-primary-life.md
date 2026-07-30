@@ -1,11 +1,11 @@
 ---
 source: life-insurers/ms-primary-life
-source_hash: 3b155c9e6e63b345
+source_hash: 670ad3fed48227af
 lang: en
 status: machine
 fidelity: ok
 title: "三井住友海上プライマリー生命保険"
-translated_at: 2026-06-15T03:48:21.937Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 三井住友海上プライマリー生命保険
@@ -19,6 +19,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]] (its domain ro
 Mitsui Sumitomo Aioi Primary Life Insurance Co., Ltd. (三井住友海上プライマリー生命保険株式会社) is a life-insurance business company that holds a life-insurer license under the Insurance Business Act and is listed on the FSA's life-insurance company license list, a 100% subsidiary of [[non-life-insurers/msad|MS&AD インシュアランス グループ ホールディングス]]. Having obtained its life-insurance business license in 2002 年 9 月 and started operations in 10  of the same year, it specializes, as a **specialist company in single-premium individual annuities and savings products sold through financial-institution counter sales (bank-counter sales / bancassurance)**, in individual annuities — a growth field — within the MS&AD group. Even within the MS&AD group, it is treated separately from the protection-focused [[life-insurers/mitsui-sumitomo-aioi-life|三井住友海上あいおい生命]].
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, ms-primary.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; ms-primary.com; ms-ad-hd.com]
 
 | Item | Notes |
 |---|---|

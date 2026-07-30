@@ -1,11 +1,11 @@
 ---
 source: regional-banks/kagoshima-bank
-source_hash: 9eb53f15b000b987
+source_hash: 85e9c5ece813c381
 lang: ja
 status: machine
 fidelity: ok
 title: "鹿児島銀行"
-translated_at: 2026-06-02T14:54:39.057Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 鹿児島銀行
 
@@ -18,6 +18,8 @@ translated_at: 2026-06-02T14:54:39.057Z
 株式会社鹿児島銀行は、金融庁の銀行免許一覧に掲載される鹿児島県本店の地方銀行。[[regional-banks/kyushu-fg]] の中核的な運営銀行であり、鹿児島・南九州の地域銀行運営会社を読むための基準点として扱う。
 
 ## 1. 免許・グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, kagin.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; kagin.co.jp]
 
 | 項目 | 内容 |
 |---|---|

@@ -11,8 +11,8 @@ aliases:
   - "Japan koeki ippan zaidan shadan NPO"
 domain: non-profit
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [governance, non-profit, japan, foundation, tax-deductible]
@@ -35,6 +35,8 @@ This entry sits under [[non-profit/INDEX|governance INDEX]] and routes into [[co
 
 Four legal forms commonly grouped together but governed by **three separate statute families** and **two different supervisory regimes**:
 
+The following table is scoped to public primary sources (laws.e-gov.go.jp, koeki-info.go.jp, npo-homepage.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:laws.e-gov.go.jp; koeki-info.go.jp; npo-homepage.go.jp; moj.go.jp]
+
 | Form | Common name | Statute | Supervisor / approver |
 |---|---|---|---|
 | 公益財団法人 | Public-Interest Incorporated Foundation | 公益法人認定法 (on top of 一般法人法) | Cabinet Office or Prefectural Governor (公益認定等委員会) |
@@ -49,6 +51,8 @@ Key splits:
 - **General forms vs NPO** — both are non-profits but governed by different statute families; NPO has narrower permitted activities (20 specified categories) but lower setup cost, while general forms have wider scope but a ¥3M minimum endowment for foundations.
 
 ## Side-by-Side Comparison Table
+
+The following table is scoped to public primary sources (laws.e-gov.go.jp, koeki-info.go.jp, npo-homepage.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:laws.e-gov.go.jp; koeki-info.go.jp; npo-homepage.go.jp; moj.go.jp]
 
 | Dimension | 公益財団法人 | 一般財団法人 | 一般社団法人 | NPO法人 |
 |---|---|---|---|---|
@@ -130,6 +134,8 @@ Q4. Does the activity fall within the 20 NPO法 categories?
 
 ## Governance Comparison — Required Organs
 
+The following table is scoped to public primary sources (laws.e-gov.go.jp, koeki-info.go.jp, npo-homepage.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:laws.e-gov.go.jp; koeki-info.go.jp; npo-homepage.go.jp; moj.go.jp]
+
 | Organ | 公益財団 | 一般財団 | 一般社団 | NPO法人 |
 |---|---|---|---|---|
 | 評議員会 (council of councillors) | Required | Required | N/A (no councillor concept) | N/A |
@@ -178,6 +184,8 @@ The donor-side benefit is the unique 公益 / 認定NPO advantage:
 The expanded corporate-donor 損金算入枠 is materially valuable for large corporate donors and is one of the strongest reasons mature corporate philanthropy vehicles convert from 一般財団 to 公益財団.
 
 ## Cost and Timeline Compared
+
+The following table is scoped to public primary sources (laws.e-gov.go.jp, koeki-info.go.jp, npo-homepage.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:laws.e-gov.go.jp; koeki-info.go.jp; npo-homepage.go.jp; moj.go.jp]
 
 | Item | 公益財団 | 一般財団 | 一般社団 | NPO法人 |
 |---|---|---|---|---|

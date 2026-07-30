@@ -1,11 +1,11 @@
 ---
 source: regional-banks/aozora-bank-detail
-source_hash: 3dd9bbaf9cdf782f
+source_hash: 2a9aa5e539d66428
 lang: en
 status: machine
 fidelity: ok
 title: "Aozora Bank Operating Profile (あおぞら銀行 事業詳細)"
-translated_at: 2026-06-19T12:43:19.960Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Aozora Bank Operating Profile (あおぞら銀行 事業詳細)
@@ -86,6 +86,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] and compleme
 
 ## 5. Competition / industry position
 
+The following table is scoped to public primary sources (aozorabank.co.jp, disclosure2.edinet-fsa.go.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:aozorabank.co.jp; disclosure2.edinet-fsa.go.jp; fsa.go.jp]
+
 | Bank | Listing | Lineage | Scale (total assets) |
 |---|---|---|---|
 | [[megabanks/mufg-bank|三菱UFJ銀行]] | (under MUFG 8306 ) | Mega | over 220 兆円 |
@@ -105,6 +107,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] and compleme
 - **Capital policy**: Capital raising, subordinated-bond issuance, dividend-policy review (phased resumption of returns in the earnings-recovery phase)
 
 ## 7. Key KPIs (overview / non-consolidated)
+
+The following table is scoped to public primary sources (aozorabank.co.jp, disclosure2.edinet-fsa.go.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:aozorabank.co.jp; disclosure2.edinet-fsa.go.jp; fsa.go.jp]
 
 | Item | Scale |
 |---|---|

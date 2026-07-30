@@ -1,12 +1,12 @@
 ---
 source: policy-finance/jfc-sme-division-operating-model
-source_hash: faa2bdd0574f5252
+source_hash: 47c861e7ea616423
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "JFC 中小企業事業のオペレーティングモデル (中小企業事業)"
-translated_at: 2026-06-26T08:29:40.680Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # JFC 中小企業事業のオペレーティングモデル (中小企業事業)
@@ -21,6 +21,8 @@ JFC 中小企業事業 (SME Division) は [[financial-regulators/jfc|JFC]] の 3
 
 ## 1. 部門位置 within JFC
 
+以下の表は、エントリ出典インベントリの公開一次資料（jfc.go.jp, chusho.meti.go.jp, meti.go.jp）の範囲に限定して読む。^[source:jfc.go.jp; chusho.meti.go.jp; meti.go.jp]
+
 | Item | Detail |
 |---|---|
 | Parent | [[financial-regulators/jfc|JFC]] (株式会社日本政策金融公庫)、100% 政府全額出資の特殊会社 |
@@ -34,6 +36,8 @@ JFC 中小企業事業 (SME Division) は [[financial-regulators/jfc|JFC]] の 3
 当事業部門は明示的に、支店数または借り手数で最大では **ない** (国民生活事業部門が両方のボリューム指標で勝る)。その重みは、平均チケットサイズと、METI の中小企業産業政策の主要な提供チャネルであることに由来する。
 
 ### 2.1 融資プロダクト表
+
+以下の表は、エントリ出典インベントリの公開一次資料（jfc.go.jp, chusho.meti.go.jp, meti.go.jp）の範囲に限定して読む。^[source:jfc.go.jp; chusho.meti.go.jp; meti.go.jp]
 
 | Product class | Sub-product | Typical purpose | Tenor / ceiling (公開資料ベース) | Counterpart on private side |
 |---|---|---|---|---|
@@ -145,6 +149,8 @@ JFC 中小企業事業のオペレーティング・フィロソフィーは **�
 これらのシフトは当事業部門の根本的なオペレーティングモデル — 特別貸付メニューと 利子補給 を通じて提供される政策オーバーレイを伴う、〜60 の支店を通じた直接融資 — を変えてはいないが、2023–2025 にわたってメニュー構成を有意にローテーションさせた。
 
 ## 7. Comparative position — JFC SME vs adjacent lanes
+
+以下の表は、エントリ出典インベントリの公開一次資料（jfc.go.jp, chusho.meti.go.jp, meti.go.jp）の範囲に限定して読む。^[source:jfc.go.jp; chusho.meti.go.jp; meti.go.jp]
 
 | Dimension | JFC SME Division | JFC 国民生活事業 | [[financial-regulators/shoko-chukin\|Shoko Chukin]] | [[policy-finance/japan-credit-guarantee-system\|信用保証協会]] system | Megabank SME lending |
 |---|---|---|---|---|---|

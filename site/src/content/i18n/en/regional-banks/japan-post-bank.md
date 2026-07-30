@@ -1,11 +1,11 @@
 ---
 source: regional-banks/japan-post-bank
-source_hash: a4781245e75b4a61
+source_hash: 4c6c5986ce186765
 lang: en
 status: machine
 fidelity: ok
 title: "Japan Post Bank (株式会社ゆうちょ銀行 / 7182) operating profile"
-translated_at: 2026-06-22T06:12:59.592Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan Post Bank (株式会社ゆうちょ銀行 / 7182) operating profile
@@ -15,6 +15,8 @@ translated_at: 2026-06-22T06:12:59.592Z
 This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] as the operating-profile companion to the entity anchor at [[regional-banks/yucho|ゆうちょ銀行 (Japan Post Bank) entity anchor]]. Read it against [[megabanks/mufg|MUFG]] · [[megabanks/smfg|SMFG]] · [[megabanks/mizuho-fg|Mizuho FG]] for the megabank-asset-class peer comparison, against [[megabanks/resona-hd|りそなホールディングス]] for the listed non-megabank universal-bank peer, against [[banking/cooperative-banking-japan|cooperative banking Japan]] for the next-largest deposit-mass system outside the megabanks, and against [[banking/post-megabank-positioning|post-megabank positioning]] for the structural read of where Japan Post Bank sits in the listed retail-bank universe. Pair it with [[policy-finance/japan-policy-finance-system|Japan policy finance system]] for the residual government-finance perimeter and with [[banking/japan-net-bank-competition-map|Japan net bank competition map]] for the digital-distribution comparator.
 
 ## 1. Group and ownership position
+
+The following table is scoped to public primary sources (jp-bank.japanpost.jp, japanpost.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jp-bank.japanpost.jp; japanpost.jp; fsa.go.jp; mof.go.jp]
 
 | Item | Reading |
 |---|---|
@@ -43,6 +45,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] as the opera
 
 ### Reference timeline
 
+The following table is scoped to public primary sources (jp-bank.japanpost.jp, japanpost.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jp-bank.japanpost.jp; japanpost.jp; fsa.go.jp; mof.go.jp]
+
 | Year | Event |
 |---|---|
 | 1875 | Postal savings ("郵便貯金") originated under the Meiji-era postal system |
@@ -57,6 +61,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] as the opera
 | 2024-2026 | Progressive BoJ rate-normalization cycle, with consequential impact on JPB's NIM and the JGB-portfolio mark-to-market |
 
 ### Asset-side: deposit-funded but not loan-led
+
+The following table is scoped to public primary sources (jp-bank.japanpost.jp, japanpost.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jp-bank.japanpost.jp; japanpost.jp; fsa.go.jp; mof.go.jp]
 
 | Side | Megabank typical | Japan Post Bank |
 |---|---|---|
@@ -94,6 +100,8 @@ Customer at 郵便局 counter
 ゆうちょ銀行 (Japan Post Bank) — account-holder, balance-sheet bearer
 ```
 
+The following table is scoped to public primary sources (jp-bank.japanpost.jp, japanpost.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jp-bank.japanpost.jp; japanpost.jp; fsa.go.jp; mof.go.jp]
+
 | Surface | Operator | Customer experience |
 |---|---|---|
 | ~24,000 郵便局 counters nationwide | 日本郵便 (Japan Post) acting as banking agent | Same counter handles mail, parcel, and JPB transactions |
@@ -110,6 +118,8 @@ Customer at 郵便局 counter
 ## 4. KPI and profitability snapshot
 
 JPB's published headline financials show a structural pattern:
+
+The following table is scoped to public primary sources (jp-bank.japanpost.jp, japanpost.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jp-bank.japanpost.jp; japanpost.jp; fsa.go.jp; mof.go.jp]
 
 | Dimension | Pattern |
 |---|---|
@@ -142,6 +152,8 @@ For point-in-time figures, refer to the most recent JPB 決算短信 / 有価証
 5. **Privatization-step compliance.** As Japan Post Holdings reduces its JPB stake, additional business-line approvals under the 郵政民営化委員会 framework become possible.
 
 ### Stacked regulation
+
+The following table is scoped to public primary sources (jp-bank.japanpost.jp, japanpost.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jp-bank.japanpost.jp; japanpost.jp; fsa.go.jp; mof.go.jp]
 
 | Layer | Statute / regulator | Implication for JPB |
 |---|---|---|

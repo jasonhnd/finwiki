@@ -3,8 +3,8 @@ title: おきなわ FG (Okinawa FG)
 aliases: ["Okinawa FG", "おきなわフィナンシャルグループ", "Okinawa Financial Group", "株式会社おきなわフィナンシャルグループ", "OFG", "OkiFG"]
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-07-29
-last_tended: 2026-07-29
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, regional-bank, okinawa]
@@ -41,6 +41,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ### 2025-03 期決算（連結）
 
+The following table is scoped to public primary sources (okinawafg.co.jp, www2.jpx.co.jp, fse.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:okinawafg.co.jp; www2.jpx.co.jp; fse.or.jp]
+
 | 項目 | 金額 |
 |---|---|
 | 経常収益 | 587 億 5600 万円（前期比 +51 億 8300 万円・+10%）|
@@ -55,6 +57,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 | ROE（予想）| 7.4% |
 
 ### 主要株主（2022-03-31 時点・公開）
+
+The following table is scoped to public primary sources (okinawafg.co.jp, www2.jpx.co.jp, fse.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:okinawafg.co.jp; www2.jpx.co.jp; fse.or.jp]
 
 | 株主 | 比率 |
 |---|---|
@@ -102,6 +106,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ### 重要年表
 
+The following table is scoped to public primary sources (okinawafg.co.jp, www2.jpx.co.jp, fse.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:okinawafg.co.jp; www2.jpx.co.jp; fse.or.jp]
+
 | 年月 | 事象 |
 |---|---|
 | 1956-06 | 沖縄銀行 設立（資本金 3000 万 B 円）|
@@ -131,6 +137,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 | 2025-07 | おきぎんサクセスパートナーズ 設立（事業承継・M&A）|
 
 ## 2. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (okinawafg.co.jp, www2.jpx.co.jp, fse.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:okinawafg.co.jp; www2.jpx.co.jp; fse.or.jp]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -165,6 +173,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 - **事業承継ニーズ**: 高齢化に伴う県内中小企業承継 → おきぎんサクセスパートナーズ 設立（2025-07）
 
 ### 競合関係（沖縄県内 3 行寡占構造）
+
+The following table is scoped to public primary sources (okinawafg.co.jp, www2.jpx.co.jp, fse.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:okinawafg.co.jp; www2.jpx.co.jp; fse.or.jp]
 
 | 行 | 地位 | 預貸金シェア | 上場 | 持株会社化 |
 |---|---|---|---|---|

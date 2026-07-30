@@ -3,8 +3,8 @@ title: "銀聯インターナショナル日本支社 (UnionPay International Ja
 aliases: ["UnionPay International Japan", "UPI Japan", "銀聯インターナショナル", "銀聯", "China UnionPay Japan"]
 domain: payment-firms
 created: 2026-05-24
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, card-brand, payments, unionpay, china, inbound]
@@ -25,6 +25,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 銀聯インターナショナル日本支社は、中国の **China UnionPay (中国銀聯)** の国際展開子会社 UnionPay International (UPI) の日本拠点。中国本土の決済インフラとして圧倒的なシェアを持つ銀聯ブランドを日本国内で展開し、主に **訪日中国人観光客 (インバウンド) の決済受入** を目的とした加盟店ネットワーク開拓を担う。国内発行 (国内消費者向けに銀聯カードを発行する issuer 機能) は限定的で、主軸は **acquirer side (加盟店契約・受入拡大)**。[[card-issuers/jcb|JCB]] とは 2006 年に相互利用提携を締結し、JCB カードが中国本土の銀聯加盟店で使え、銀聯カードが日本の JCB 加盟店で使える相互運用を実現してきた歴史的パートナー。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (unionpayintl.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:unionpayintl.com]
 
 | Item | Notes |
 |---|---|

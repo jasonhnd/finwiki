@@ -11,8 +11,8 @@ aliases:
   - "Japan municipal bond yield-spread matrix"
 domain: policy-finance
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [policy-finance, matrix, local-government, public-credit, municipal-bonds, japan, jfm, filp, capital-markets, yield-spreads]
@@ -155,6 +155,8 @@ Without the issuer-tier and channel-mix axes, treating "local-government bond" a
 - **Foreign-investor participation.** Material — JFM has issued in foreign-currency markets and attracts cross-border investor interest; joint-issuance pool has more limited foreign-investor participation than JFM bonds directly.
 
 ## Big comparison matrix table
+
+The following table is scoped to public primary sources (chihousai.or.jp, mof.go.jp, soumu.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:chihousai.or.jp; mof.go.jp; soumu.go.jp]
 
 | Axis | Tokyo Metropolis (都) | Major prefectures (Osaka, Aichi, Kanagawa, etc.) | Other prefectures | 政令指定都市 (designated cities) | Ordinary cities / towns / villages | Joint-issuance pool | JFM bonds |
 |---|---|---|---|---|---|---|---|

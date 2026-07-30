@@ -1,11 +1,11 @@
 ---
 source: payment-firms/gmo-postpay
-source_hash: aa3e7731d2b81515
+source_hash: 61a80e4b60d0a86b
 lang: ja
 status: machine
 fidelity: ok
 title: "GMO後払い (GMO Postpay)"
-translated_at: 2026-06-15T03:48:21.834Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # GMO後払い (GMO Postpay)
@@ -19,6 +19,8 @@ translated_at: 2026-06-15T03:48:21.834Z
 GMO後払い は **GMO ペイメントサービス株式会社** (GMO インターネット G、[[payment-firms/gmo-payment-gateway|GMO ペイメントゲートウェイ]] の関連会社) が運営する EC 後払い決済。PSP 出身グループが BNPL を内製・運用している事例で、加盟店契約 / 与信 / 請求書発行 / 集金代行を一括で提供する。Net Protections の NP 後払い、ヤマトの [[payment-firms/kuroneko-atobarai|クロネコ代金後払い]] と並ぶ EC 後払いの主要選択肢。
 
 ## 1. 法人・ライセンス境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（gmo-ps.com, gmo-pg.com, meti.go.jp）の範囲に限定して読む。^[source:gmo-ps.com; gmo-pg.com; meti.go.jp]
 
 | 項目 | 読み方 |
 |---|---|

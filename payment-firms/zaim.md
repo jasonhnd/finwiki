@@ -7,8 +7,8 @@ aliases:
   - "Zaim Inc."
 domain: payment-firms
 created: 2026-05-24
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, fintech, pfm, household-finance, kddi]
@@ -30,6 +30,8 @@ This entry sits under the [[payment-firms/INDEX|payment-firms INDEX]] as a **PFM
 Zaim は 2011 年公開の国内最古参クラスの **家計簿アプリ**。[[payment-firms/money-forward|Money Forward]] ME と並び個人向け PFM カテゴリを形成してきた fintech 残量で、2022-04 に **KDDI 子会社化** され au 経済圏 ([[megabanks/au-fh|au フィナンシャル HD]]) のデータ起点アセットとして再配置された。レシート OCR + 銀行・カード API 連携 + 自治体給付金検索という機能セットが特徴。
 
 ## 1. 法人・ライセンス境界
+
+The following table is scoped to public primary sources (content.zaim.net, news.kddi.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:content.zaim.net; news.kddi.com]
 
 | Item | Reading |
 |---|---|

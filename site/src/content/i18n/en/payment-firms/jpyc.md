@@ -1,11 +1,11 @@
 ---
 source: payment-firms/jpyc
-source_hash: fe5481d67eb46d8e
+source_hash: ccb2b1515b530183
 lang: en
 status: machine
 fidelity: ok
 title: "JPYC Inc."
-translated_at: 2026-05-31T23:59:49.419Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # JPYC Inc.
 
@@ -19,6 +19,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 JPYC Inc. is a Japanese-yen-denominated stablecoin / electronic payment instrument funds-transfer-type issuer. JPYC EX is the issuance and redemption gateway between Japanese yen and JPYC, and the company is listed in the FSA funds-transfer service provider registry as Kanto Local Finance Bureau Director-General 第00099号.
 
 ## 1. Legal Entity / License Boundary
+
+The following table is scoped to public primary sources (jpyc.co.jp, jpyc.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpyc.co.jp; jpyc.jp; fsa.go.jp]
 
 | Item | Reading |
 |---|---|

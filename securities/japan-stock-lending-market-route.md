@@ -6,8 +6,8 @@ aliases:
   - "貸株 借株 market route"
 domain: "securities"
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-22
 confidence: likely
 tags: [securities, stock-lending, securities-finance, custody, collateral, JSF]
@@ -36,6 +36,8 @@ Stock lending in Japan is a market-infrastructure route that connects custodians
 Use this page with [[securities/INDEX|securities domain]], [[securities/japan-short-selling-and-stock-loan-controls|short-selling and stock-loan controls]], [[securities/japan-margin-trading-and-securities-finance|margin trading and securities finance]], [[securities/japan-prime-brokerage-and-institutional-financing|prime brokerage and institutional financing]], [[financial-regulators/japan-securities-finance|Japan Securities Finance]], [[banking/japan-trust-bank-custody-map|trust-bank custody map]], [[securities/japan-market-infrastructure-map|market infrastructure map]], and [[money-market/jgb-repo-market-japan|JGB repo market]].
 
 ## Route Map
+
+The following table is scoped to public primary sources (jsf.co.jp, jsda.or.jp, jpx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jsf.co.jp; jsda.or.jp; jpx.co.jp]
 
 | Participant | Role |
 |---|---|

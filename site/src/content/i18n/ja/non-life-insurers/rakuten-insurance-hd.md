@@ -1,12 +1,12 @@
 ---
 source: non-life-insurers/rakuten-insurance-hd
-source_hash: 1abf46df67f1ea83
+source_hash: d654b37233ff6b65
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "楽天インシュアランスホールディングス"
-translated_at: 2026-06-26T08:32:23.069Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 楽天インシュアランスホールディングス
@@ -19,6 +19,8 @@ translated_at: 2026-06-26T08:32:23.069Z
 ## 要約楽天インシュアランスホールディングス株式会社は、金融庁の保険持株会社認可一覧に掲載される Rakuten insurance holding company。[[life-insurers/rakuten-life]]、[[non-life-insurers/rakuten-general-insurance]]、insurance agency / planning functions をまとめる group strategy anchor として扱う。
 
 ## 1. ライセンスとグループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, ins-hd.rakuten.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; ins-hd.rakuten.co.jp]
 
 | 項目 | 注記 |
 |---|---|

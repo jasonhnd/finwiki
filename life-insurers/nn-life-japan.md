@@ -3,8 +3,8 @@ title: "NN生命保険"
 aliases: ["NN生命", "NN Life Japan", "NN Life Insurance Japan", "エヌエヌ生命", "エヌエヌ生命保険株式会社"]
 domain: life-insurers
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, insurance, life-insurance, foreign-japan, operating-company]
@@ -27,6 +27,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 エヌエヌ生命保険株式会社は、金融庁の生命保険会社免許一覧と生命保険協会会員一覧に掲載される foreign-affiliated Japan life insurer。FinWiki では、外資系金融グループの日本法人としてではなく、日本で保険契約を引き受ける life-insurance operating company として扱う。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, nnlife.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; nnlife.co.jp]
 
 | Item | Notes |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: insurance/japan-kyosai-vs-fsa-insurance-perimeter-matrix
-source_hash: b4539749a7c7ecaf
+source_hash: d54203bb756005e9
 lang: en
 status: machine
 fidelity: ok
 title: "Japan kyosai vs FSA insurance perimeter matrix"
-translated_at: 2026-05-31T11:13:44.877Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan kyosai vs FSA insurance perimeter matrix
@@ -69,6 +69,8 @@ The matrix below lists axes that differentiate the FSA commercial-insurance peri
 
 ### Regulator, law, and licence
 
+The following table is scoped to public primary sources (fsa.go.jp, maff.go.jp, mhlw.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; maff.go.jp; mhlw.go.jp; ja-kyosai.or.jp]
+
 | Axis | FSA commercial life big-4 / non-life big-3 / foreign / online / Kampo | JA Kyosai Zenkyoren | Zenrosai Zenrosai / Kokumin Kyosai coop | Kenmin Kyosai | COOP Kyosai | Zenjikyo |
 |---|---|---|---|---|---|---|
 | Regulator |[[FSA|Financial Services Agency]](Financial Services Agency) | MAFF (Ministry of Agriculture, Forestry and Fisheries) | MHLW (Ministry of Health, Labor and Welfare) | Prefectural governor + MHLW | MHLW | METI / MLIT-adjacent depending on federation |
@@ -80,6 +82,8 @@ Supervisory law | Insurance Business Act; Kampo Life dual-regulated with post-re
 
 ### Membership / access gate
 
+The following table is scoped to public primary sources (fsa.go.jp, maff.go.jp, mhlw.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; maff.go.jp; mhlw.go.jp; ja-kyosai.or.jp]
+
 | Axis | FSA commercial insurance | JA Kyosai | Zenrosai | Kenmin-kyosai | COOP Kyosai | Zenjikyo |
 |---|---|---|---|---|---|---|
 | Access | Open to general public | JA cooperative members (farm-area / community); "associate membership" 准組合員 widely available | Cooperative members; one-off membership fee at point of purchase | Cooperative members; one-off small membership fee | CO・OP cooperative members; one-off membership fee | Industry federation members (truck / transport operators) |
@@ -88,6 +92,8 @@ Supervisory law | Insurance Business Act; Kampo Life dual-regulated with post-re
 | Geographic concentration | Nationwide | Farm areas; strong rural and suburban share | Nationwide; labour-union and consumer cooperative bases | Nationwide via prefectural federations | Nationwide via CO・OP federation | Trucking / transport operators nationwide |
 
 ### Capital and disclosure
+
+The following table is scoped to public primary sources (fsa.go.jp, maff.go.jp, mhlw.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; maff.go.jp; mhlw.go.jp; ja-kyosai.or.jp]
 
 | Axis | FSA commercial insurance | JA Kyosai | Zenrosai | Kenmin-kyosai | COOP Kyosai | Zenjikyo |
 |---|---|---|---|---|---|---|
@@ -100,6 +106,8 @@ Supervisory law | Insurance Business Act; Kampo Life dual-regulated with post-re
 
 ### Tax treatment
 
+The following table is scoped to public primary sources (fsa.go.jp, maff.go.jp, mhlw.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; maff.go.jp; mhlw.go.jp; ja-kyosai.or.jp]
+
 | Axis | FSA commercial insurance | Kyosai (qualifying products) |
 |---|---|---|
 | Life premium deduction | Yes — split into general life / medical-nursing / individual annuity | Yes — for qualifying life-style cover sold by JA Kyosai / Zenrosai / Kenmin-kyosai / COOP Kyosai |
@@ -110,6 +118,8 @@ Supervisory law | Insurance Business Act; Kampo Life dual-regulated with post-re
 | Consumption tax on premium | Non-taxable | Non-taxable |
 
 ### Product offering by line
+
+The following table is scoped to public primary sources (fsa.go.jp, maff.go.jp, mhlw.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; maff.go.jp; mhlw.go.jp; ja-kyosai.or.jp]
 
 | Line | FSA commercial insurance | JA Kyosai | Zenrosai | Kenmin-kyosai | COOP Kyosai | Zenjikyo |
 |---|---|---|---|---|---|---|
@@ -123,6 +133,8 @@ Supervisory law | Insurance Business Act; Kampo Life dual-regulated with post-re
 | P&I / marine / specialty | Big-three non-life and foreign reinsurers / Lloyd's — see[[insurance/marine-insurance-and-pi-cover-market]]| Not core | Not core | Not core | Not core | Trucking liability |
 
 ### Conceptual market share by line
+
+The following table is scoped to public primary sources (fsa.go.jp, maff.go.jp, mhlw.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; maff.go.jp; mhlw.go.jp; ja-kyosai.or.jp]
 
 | Line | FSA commercial perimeter share (conceptual) | Kyosai perimeter share (conceptual) | Largest kyosai federation in line |
 |---|---|---|---|
@@ -138,6 +150,8 @@ Supervisory law | Insurance Business Act; Kampo Life dual-regulated with post-re
 
 ### Distribution channel architecture
 
+The following table is scoped to public primary sources (fsa.go.jp, maff.go.jp, mhlw.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; maff.go.jp; mhlw.go.jp; ja-kyosai.or.jp]
+
 | Channel | FSA commercial perimeter | Kyosai perimeter |
 |---|---|---|
 | Tied sales force | Big-4 life largest in Japan; foreign affiliates run lifeplanner / FA models | JA group local cooperatives sell JA共済; labour-union channels sell Zenrosai |
@@ -148,6 +162,8 @@ Supervisory law | Insurance Business Act; Kampo Life dual-regulated with post-re
 | Workplace / employer | Big-4 group-life payroll deduction | Labour-union payroll deduction at Zenrosai; employer-membership at COOP共済 |
 
 ### Surplus / dividend distribution mechanics
+
+The following table is scoped to public primary sources (fsa.go.jp, maff.go.jp, mhlw.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; maff.go.jp; mhlw.go.jp; ja-kyosai.or.jp]
 
 | Mechanic | FSA commercial insurance | Kyosai |
 |---|---|---|
@@ -160,6 +176,8 @@ Supervisory law | Insurance Business Act; Kampo Life dual-regulated with post-re
 
 ### Special perimeter notes
 
+The following table is scoped to public primary sources (fsa.go.jp, maff.go.jp, mhlw.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; maff.go.jp; mhlw.go.jp; ja-kyosai.or.jp]
+
 | Note | Detail |
 |---|---|
 | Kampo Life dual regime |[[life-insurers/kampo-life|Kampo Life]]sits inside the Japan Post group post-privatization and is licensed under the Insurance Business Act. Special-law constraints apply to product approval and to the Japan Post Bank tie-up. Read with[[insurance/kampo-japan-post-insurance|the Kampo Japan Post insurance entry]]. |
@@ -169,6 +187,8 @@ Supervisory law | Insurance Business Act; Kampo Life dual-regulated with post-re
 | 自家共済 (self-insurance cooperative) | Some employer / industry self-insurance pools operate under cooperative laws; these sit outside the FSA perimeter. |
 
 ### Comparative scale (conceptual)
+
+The following table is scoped to public primary sources (fsa.go.jp, maff.go.jp, mhlw.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; maff.go.jp; mhlw.go.jp; ja-kyosai.or.jp]
 
 | Federation / set | Conceptual scale signal |
 |---|---|

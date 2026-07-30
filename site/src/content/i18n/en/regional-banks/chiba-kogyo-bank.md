@@ -1,11 +1,11 @@
 ---
 source: regional-banks/chiba-kogyo-bank
-source_hash: 1e1611aa69605622
+source_hash: f5c54869264dfc9a
 lang: en
 status: machine
 fidelity: ok
 title: "The Chiba Kogyo Bank, Ltd. (千葉興業銀行)"
-translated_at: 2026-06-19T12:43:19.889Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # The Chiba Kogyo Bank, Ltd. (千葉興業銀行)
@@ -30,6 +30,8 @@ A **second-tier regional bank** based in Chiba Prefecture (TSE PRIME 8337, nickn
 
 ### Key figures (public) ^[extracted]
 
+The following table is scoped to public primary sources (chibakogyo-bank.co.jp, chibabank.co.jp, lfb.mof.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:chibakogyo-bank.co.jp; chibabank.co.jp; lfb.mof.go.jp]
+
 | Item | Scale |
 |---|---|
 | Business type | Second-tier regional bank (member of the Second Association of Regional Banks) |
@@ -43,6 +45,8 @@ A **second-tier regional bank** based in Chiba Prefecture (TSE PRIME 8337, nickn
 > A mid-tier class among second-tier regional banks, with a structure that has a large share gap from [[regional-banks/chiba-bank]] within Chiba Prefecture. Figures are based on the 2025年3月-term financial summary (kessan tanshin) and mini-disclosure magazine.
 
 ### Major shareholders (public basis) ^[extracted]
+
+The following table is scoped to public primary sources (chibakogyo-bank.co.jp, chibabank.co.jp, lfb.mof.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:chibakogyo-bank.co.jp; chibabank.co.jp; lfb.mof.go.jp]
 
 | Shareholder | Ratio (as of 2025-03-28 / 03-31 ) |
 |---|---|
@@ -74,6 +78,8 @@ Chiba Kogyo Bank (standalone bank; listed 8337) ^[extracted]
 
 ### Key timeline (excerpt) ^[extracted]
 
+The following table is scoped to public primary sources (chibakogyo-bank.co.jp, chibabank.co.jp, lfb.mof.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:chibakogyo-bank.co.jp; chibabank.co.jp; lfb.mof.go.jp]
+
 | Year/Month | Event |
 |---|---|
 | 1952-01-18 | Chiba Shoko Credit Cooperative established |
@@ -89,6 +95,8 @@ Chiba Kogyo Bank (standalone bank; listed 8337) ^[extracted]
 | 2026-03-25 | Final agreement on the business combination (establishing the holding company "Chiba Financial Group" via a joint share transfer, scheduled for 2027-04-01) ^[extracted] |
 
 ## 2. Business segment map
+
+The following table is scoped to public primary sources (chibakogyo-bank.co.jp, chibabank.co.jp, lfb.mof.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:chibakogyo-bank.co.jp; chibabank.co.jp; lfb.mof.go.jp]
 
 | Segment | Main operators | Characteristics |
 |---|---|---|
@@ -106,6 +114,8 @@ Chiba Kogyo Bank (standalone bank; listed 8337) ^[extracted]
 - For details, refer to the latest IR / medium-term management plan
 
 ### Competitive relationships
+
+The following table is scoped to public primary sources (chibakogyo-bank.co.jp, chibabank.co.jp, lfb.mof.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:chibakogyo-bank.co.jp; chibabank.co.jp; lfb.mof.go.jp]
 
 | Competitor | Relationship |
 |---|---|

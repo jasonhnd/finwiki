@@ -1,11 +1,11 @@
 ---
 source: life-insurers/td-financial-life
-source_hash: 2b9538b328308630
+source_hash: 9f76e466af451582
 lang: ja
 status: machine
 fidelity: ok
 title: "T&Dフィナンシャル生命保険"
-translated_at: 2026-06-19T06:09:18.190Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # T&Dフィナンシャル生命保険
@@ -20,6 +20,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 T&Dフィナンシャル生命保険株式会社は、[[life-insurers/td-hd]] group の life-insurance operating company。[[life-insurers/daido-life]]、[[life-insurers/taiyo-life]] と並ぶ T&D group の core legal entity で、financial-institution / shop-channel oriented products を分析するための standalone anchor。
 
 ## 1. License / group boundary
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, tdf-life.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; tdf-life.co.jp]
 
 | Item | Notes |
 |---|---|

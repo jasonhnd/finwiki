@@ -1,11 +1,11 @@
 ---
 source: payment-firms/smartbank
-source_hash: 67c6fa9daab60900
+source_hash: c3babfc2b0260c9b
 lang: en
 status: machine
 fidelity: ok
 title: "スマートバンク (SmartBank)"
-translated_at: 2026-06-15T03:48:21.835Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # スマートバンク (SmartBank)
@@ -19,6 +19,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]] (its domain ro
 株式会社スマートバンク is a household-finance / prepaid wallet fintech that operates the household-management prepaid card "B/43 (Bee-yon-san, renamed to "ワンバンク")". In public information it has the rare configuration of holding **two licenses** —— a **funds-transfer service provider** (Director-General of the Kanto Local Finance Bureau 第00084号) and a **third-party-type prepaid payment instrument issuer** obtained in 2024 年 (Director-General of the Kanto Local Finance Bureau 第00782号). It pairs a chargeable Visa prepaid card with a household-account-book app, a case of combining a payment account with a household-management UX.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (smartbank.co.jp, onebank.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:smartbank.co.jp; onebank.jp; fsa.go.jp]
 
 | Item | Notes |
 |---|---|

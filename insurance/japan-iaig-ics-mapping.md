@@ -7,8 +7,8 @@ aliases:
   - "日本 IAIG ICS"
 domain: "insurance"
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [insurance, iaig, ics, japan, regulation, fsa, group-supervision]
@@ -65,6 +65,8 @@ All three non-life groups are widely identified as IAIGs based on international 
 
 ### Life side
 
+The following table is scoped to public primary sources (iaisweb.org, fsa.go.jp, seiho.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:iaisweb.org; fsa.go.jp; seiho.or.jp]
+
 | Group | International footprint relevant to IAIG criteria |
 |---|---|
 | [[life-insurers/nippon-life|Nippon Life]] | Largest Japanese life insurer; overseas insurance and asset-management investments and acquisitions across multiple jurisdictions. Footprint is meaningful but proportionally smaller than non-life peers relative to total balance sheet |
@@ -77,6 +79,8 @@ IAIG designation for each life insurer depends on the specific IAIS criteria thr
 [[megabanks/sony-fg|Sony Financial Group]] / [[life-insurers/sony-life|Sony Life]] perimeter — discussed in [[insurance/sony-life-group-life-operating-model|Sony Life Lifeplanner / group-life operating model]] — is structurally different because the ultimate parent is the non-insurance Sony Group Corporation, and the insurance-group perimeter is narrower than the standalone Japanese mutual peers. IAIG-perimeter classification depends on the FSA's group-perimeter definition.
 
 ## ICS 2.0 reporting timeline
+
+The following table is scoped to public primary sources (iaisweb.org, fsa.go.jp, seiho.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:iaisweb.org; fsa.go.jp; seiho.or.jp]
 
 | Phase | Period | What happens |
 |---|---|---|
@@ -108,6 +112,8 @@ The FSA participates in IAIS-mediated cross-border dialogues with other major in
 
 Japan's choice to maintain both ICS at the group level for IAIGs and ESR at the Japan-licensed-entity level creates a deliberately layered architecture:
 
+The following table is scoped to public primary sources (iaisweb.org, fsa.go.jp, seiho.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:iaisweb.org; fsa.go.jp; seiho.or.jp]
+
 | Layer | Framework | Coverage |
 |---|---|---|
 | Japan-licensed insurance entity | FSA ESR | All Japan-licensed insurers and insurance holding companies, IAIG and non-IAIG |
@@ -138,6 +144,8 @@ For Japan-headquartered IAIGs, the FSA reviews internal-model components against
 
 Beyond the quantitative ICS PCR, ComFrame imposes qualitative supervisory requirements on IAIGs. Key dimensions:
 
+The following table is scoped to public primary sources (iaisweb.org, fsa.go.jp, seiho.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:iaisweb.org; fsa.go.jp; seiho.or.jp]
+
 | Area | ComFrame requirement |
 |---|---|
 | Corporate governance | Board composition, board independence, board oversight of group-wide risk and capital, succession planning |
@@ -153,6 +161,8 @@ For [[insurance/japan-life-insurance-big-four|Japan life big four]] and [[insura
 ## Cross-border supervisory college mechanics
 
 Supervisory colleges convened by the FSA as group-wide supervisor for Japanese IAIGs typically include:
+
+The following table is scoped to public primary sources (iaisweb.org, fsa.go.jp, seiho.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:iaisweb.org; fsa.go.jp; seiho.or.jp]
 
 | Participant | Role |
 |---|---|
@@ -175,6 +185,8 @@ For Japan-headquartered IAIGs the AM is not the primary track — the FSA implem
 
 For external analysts reading Japan IAIG / ICS disclosure, the practical sequence is:
 
+The following table is scoped to public primary sources (iaisweb.org, fsa.go.jp, seiho.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:iaisweb.org; fsa.go.jp; seiho.or.jp]
+
 | Step | Source | What to extract |
 |---|---|---|
 | 1. Domestic ESR ratio | Insurer integrated report / disclosure book | Headline ESR ratio at Japan-licensed-entity or holding level, sensitivity tables |
@@ -189,6 +201,8 @@ Triangulating across these layers gives the most complete picture. Reliance on t
 ## Interaction with [[insurance/foreign-life-affiliate-japan-positioning|foreign-life affiliate]] entity ICS
 
 For foreign-IAIGs with Japan-licensed insurance subsidiaries (the inbound direction), the architecture is mirrored:
+
+The following table is scoped to public primary sources (iaisweb.org, fsa.go.jp, seiho.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:iaisweb.org; fsa.go.jp; seiho.or.jp]
 
 | Layer | Authority | Framework |
 |---|---|---|

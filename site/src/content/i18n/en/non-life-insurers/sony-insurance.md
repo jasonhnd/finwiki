@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/sony-insurance
-source_hash: 9b9c34fd897573d7
+source_hash: eed517db1b8b67ef
 lang: en
 status: machine
 fidelity: ok
 title: "Sony Assurance"
-translated_at: 2026-06-01T02:31:57.160Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Sony Assurance
 
@@ -18,6 +18,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 Sony Assurance Inc. is the direct non-life insurance operating company of the [[megabanks/sony-fg]] group. It is a licensed insurer listed in the FSA non-life insurer list and the member list of the Non-Life Insurance Policyholders Protection Corporation of Japan, and is a representative direct auto insurance / online insurance model.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, sonpohogo.or.jp, sonysonpo.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sonpohogo.or.jp; sonysonpo.co.jp]
 
 | Item | Notes |
 |---|---|

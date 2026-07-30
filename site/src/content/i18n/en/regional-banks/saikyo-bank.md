@@ -1,11 +1,11 @@
 ---
 source: regional-banks/saikyo-bank
-source_hash: 62e820b085a862b5
+source_hash: 1a50be622842e752
 lang: en
 status: machine
 fidelity: ok
 title: "The Saikyo Bank"
-translated_at: 2026-06-15T04:09:41.165Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # The Saikyo Bank
@@ -19,6 +19,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 The Saikyo Bank, Ltd. (株式会社西京銀行) is a second regional bank headquartered in Shunan City, Yamaguchi Prefecture, holding a bank license under the Banking Act and listed in the FSA's bank-license list. It is the standalone second-regional-bank operating-company anchor for Yamaguchi Prefecture, treated as a separate-legal-entity peer of the Yamaguchi Bank / [[regional-banks/momiji-bank|もみじ銀行]] / [[regional-banks/kitakyushu-bank|北九州銀行]] under [[regional-banks/yamaguchi-fg|山口フィナンシャルグループ]] (YMFG). The substance of its business is the standard second-regional-bank model: deposit-taking within the prefecture and lending to SMEs and individuals.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, saikyobank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; saikyobank.co.jp]
 
 | Item | Notes |
 |---|---|

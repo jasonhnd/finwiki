@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/ntt-docomo-sompo-hd
-source_hash: e0b3fc6e570061f9
+source_hash: b1bad12796d884e7
 lang: ja
 status: machine
 fidelity: ok
 title: "NTTドコモ損害保険ホールディングス"
-translated_at: 2026-06-19T06:09:18.046Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # NTTドコモ損害保険ホールディングス
@@ -20,6 +20,8 @@ translated_at: 2026-06-19T06:09:18.046Z
 株式会社NTTドコモ損害保険ホールディングスは、金融庁の保険持株会社認可一覧に掲載される NTT Docomo group の保険持株会社。金融庁は 2024 に当該持株会社設立の認可を公表しており、同社は通常の消費者向け銀行サービスではなく、損害保険／再保険事業を中心に位置づけられている。
 
 ## 1. 免許／グループの境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, docomo-sompo-hd.com）の範囲に限定して読む。^[source:fsa.go.jp; docomo-sompo-hd.com]
 
 | 項目 | 備考 |
 |---|---|

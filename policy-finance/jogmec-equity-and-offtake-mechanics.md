@@ -13,8 +13,8 @@ aliases:
   - "JOGMEC critical minerals"
 domain: policy-finance
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [policy-finance, jogmec, equity-participation, exploration-finance, critical-minerals, lng, stockpiling, economic-security]
@@ -41,6 +41,8 @@ JOGMEC (独立行政法人 エネルギー・金属鉱物資源機構 — former
 
 ## 1. 機関 / 部門位置
 
+The following table is scoped to public primary sources (jogmec.go.jp, enecho.meti.go.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jogmec.go.jp; enecho.meti.go.jp; meti.go.jp]
+
 | Item | Detail |
 |---|---|
 | Legal entity | 独立行政法人 エネルギー・金属鉱物資源機構 (Japan Organization for Metals and Energy Security — JOGMEC) |
@@ -61,6 +63,8 @@ The institutional form is distinctive within the policy-finance constellation: J
 The boundary with JBIC and NEXI is structural and rarely contested in practice: JOGMEC absorbs upstream risk that lenders and insurers will not price; JBIC and NEXI sit downstream once the project is sufficiently de-risked to be bankable.
 
 ### 2.1 Product / instrument table
+
+The following table is scoped to public primary sources (jogmec.go.jp, enecho.meti.go.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jogmec.go.jp; enecho.meti.go.jp; meti.go.jp]
 
 | Lane | Instrument | Typical use | Counterpart | Sector focus |
 |---|---|---|---|---|

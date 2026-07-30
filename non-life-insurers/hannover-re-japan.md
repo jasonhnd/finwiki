@@ -3,8 +3,8 @@ title: "ハノーバー再保険日本支店"
 aliases: ["Hannover Re Japan", "Hannover Rück Japan", "Hannover Rueck Japan", "ハノーバー再保険", "Hannover Re Japan Branch"]
 domain: non-life-insurers
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, insurance, reinsurance, foreign-affiliated, non-life-insurance, operating-company]
@@ -26,6 +26,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 ハノーバー再保険会社（Hannover Rück SE, Frankfurt 上場）の日本支店。Munich Re / Swiss Re に次ぐ **世界第 3 位前後のグローバル再保険会社** の Japan branch。金融庁の損害保険会社免許一覧（外国損害保険会社等）に掲載され、低コスト構造と専門領域引受で日本の元受損保に再保険キャパシティを供給する。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (hannover-re.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:hannover-re.com; fsa.go.jp]
 
 | Item | Notes |
 |---|---|

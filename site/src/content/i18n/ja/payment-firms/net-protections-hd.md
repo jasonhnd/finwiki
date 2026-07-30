@@ -1,11 +1,11 @@
 ---
 source: payment-firms/net-protections-hd
-source_hash: 58268699de39ffa8
+source_hash: 6115ece062b9b3ae
 lang: ja
 status: machine
 fidelity: ok
 title: "ネットプロテクションズHD (Net Protections HD)"
-translated_at: 2026-06-26T03:26:36.039Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # ネットプロテクションズHD (Net Protections HD)
@@ -17,6 +17,8 @@ translated_at: 2026-06-26T03:26:36.039Z
 ## 要点ネットプロテクションズホールディングス (東証プライム **7383**) は、日本で早くから BNPL 専業として展開してきた上場会社であり、EC 加盟店が「コンビニ・銀行振込で後払い」を選択肢として付けられる請求書型 BtoC 商品 **NP 後払い** で知られる。グループは **atone** (消費者側のウォレット型 BNPL)、**AFTEE** (台湾向け商品サイトを持つ海外 BNPL)、**NP 掛け払い** (BtoB 請求書払い) も運営する。[[payment-firms/paidy|Paidy]] と異なり決済プラットフォーム傘下ではない独立系であり、[[card-issuers/jaccs|Jaccs]] や [[card-issuers/orico|Orico]] と異なりクレジットカードのスタックには意図的に入らない。加盟店手数料型 BNPL の経済性がカードのインターチェンジとどう異なるかは、[[payments/japan-payment-scheme-economics-matrix|日本の決済スキーム経済性マトリクス]] で確認しやすい。^[verified-2026-06-24]
 
 ## 1. 法人・ライセンス境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（corp.netprotections.com, netprotections.com, atone.be）の範囲に限定して読む。^[source:corp.netprotections.com; netprotections.com; atone.be; np-kakebarai.com]
 
 | 項目 | 読み方 |
 |---|---|

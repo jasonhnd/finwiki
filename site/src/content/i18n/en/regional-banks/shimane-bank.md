@@ -1,11 +1,11 @@
 ---
 source: regional-banks/shimane-bank
-source_hash: 567dd9fc0f991159
+source_hash: ae1c95bba38e83ef
 lang: en
 status: machine
 fidelity: ok
 title: "Shimane Bank"
-translated_at: 2026-06-01T02:31:57.107Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Shimane Bank
 
@@ -18,6 +18,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 The Shimane Bank, Ltd. is a second regional bank headquartered in Shimane Prefecture and listed in the FSA bank-license list. It is the San-in second-regional-bank operating-company anchor, treated as a separate local peer from [[regional-banks/san-in-godo-bank]] and as a capital / business alliance partner of [[megabanks/sbi-regional-bank-hd]].
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, shimagin.co.jp, sbigroup.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; shimagin.co.jp; sbigroup.co.jp]
 
 | Item | Notes |
 |---|---|

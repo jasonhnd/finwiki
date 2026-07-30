@@ -1,11 +1,11 @@
 ---
 source: regional-banks/yokohama-bank
-source_hash: 158819325e4a9753
+source_hash: f3bb03e4b7d19870
 lang: en
 status: machine
 fidelity: ok
 title: "Bank of Yokohama"
-translated_at: 2026-06-01T02:31:57.142Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Bank of Yokohama
 
@@ -19,6 +19,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 Bank of Yokohama, Ltd. is a Kanagawa-headquartered regional bank listed in the FSA bank-license list and is the core operating bank of [[regional-banks/concordia-fg]], now Yokohama Financial Group. It is treated as one of the largest bank-license anchors for retail / SME / public-sector finance in Kanagawa Prefecture.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, boy.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; boy.co.jp]
 
 | Item | Notes |
 |---|---|

@@ -1,12 +1,12 @@
 ---
 source: insurance/ja-kyosai-zenkyoren-overview
-source_hash: 1ce2ff4625eb9388
+source_hash: 9f1601c4b1432cc9
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "JA共済 / 全共連（Zenkyoren）概観"
-translated_at: 2026-06-26T08:28:38.459Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # JA共済 / 全共連（Zenkyoren）概観
@@ -65,6 +65,8 @@ MAFF（農林水産省）は、農業協同組合法に基づき JA / 共済セ�
 組合員関係が基盤となる行為規制の枠組みである：協同組合の組合員に販売される共済は、FSA の募集ルールの下ではなく協同組合関係の中に位置する。員外利用者も、定められた協同組合法上の限度の下で認められている。
 
 ## FSA 生保大手四社との比較全共連を考える最もすっきりした方法は、本来であれば生保大手四社の枠組みの中に属すべきだが規制線の反対側に位置する「第五のバランスシート」と捉えることである：
+
+以下の表は、エントリ出典インベントリの公開一次資料（ja-kyosai.or.jp, maff.go.jp, fsa.go.jp）の範囲に限定して読む。^[source:ja-kyosai.or.jp; maff.go.jp; fsa.go.jp; zenchu-ja.or.jp]
 
 | 軸 | FSA 生保大手四社（日本生命、第一生命 HD、住友、明治安田）| 全共連 |
 |---|---|---|

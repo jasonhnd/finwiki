@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/esun-bank-japan
-source_hash: f44f9ec89955487f
+source_hash: a2e16df737ed8029
 lang: ja
 status: machine
 fidelity: ok
 title: "玉山銀行 東京支店"
-translated_at: 2026-06-18T23:59:13.074Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 玉山銀行 東京支店
@@ -20,6 +20,8 @@ translated_at: 2026-06-18T23:59:13.074Z
 玉山銀行 東京支店は、金融庁の外国銀行支店一覧に掲載される Taiwan / E.SUN Bank の Japan branch。E.SUN の日本拠点は東京・福岡・熊本 sub-branch をつなぐ Northeast Asia corridor として、corporate deposits, financing, trade finance, remittance, and treasury services を扱う。
 
 ## 1. ライセンス / 支店の境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, esunbank.com）の範囲に限定して読む。^[source:fsa.go.jp; esunbank.com]
 
 | 項目 | 備考 |
 |---|---|

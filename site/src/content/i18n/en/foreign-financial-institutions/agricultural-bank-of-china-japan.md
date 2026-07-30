@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/agricultural-bank-of-china-japan
-source_hash: a4662002201a11fe
+source_hash: c3aa1615b707ff58
 lang: en
 status: machine
 fidelity: ok
 title: ""
-translated_at: 2026-05-31T07:28:06.140Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 ﻿# Agricultural Bank of China Tokyo Branch
 
@@ -18,6 +18,8 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 Agricultural Bank of China Tokyo Branch is the Japan branch of mainland China's Agricultural Bank of China listed on the Financial Services Agency's foreign bank branch roster. It obtained its foreign bank branch license in 2013 年 and handles corporate lending, trade finance, securities investment, yen settlement, and remittance services.
 
 ## 1. License / branch boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, jp.abchina.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jp.abchina.com]
 
 | Item | Notes |
 |---|---|

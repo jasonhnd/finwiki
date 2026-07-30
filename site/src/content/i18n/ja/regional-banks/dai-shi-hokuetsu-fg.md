@@ -1,11 +1,11 @@
 ---
 source: regional-banks/dai-shi-hokuetsu-fg
-source_hash: bb3fcf3fa3706b43
+source_hash: a1a1827c7bb01150
 lang: ja
 status: machine
 fidelity: ok
 title: "第四北越 FG"
-translated_at: 2026-06-02T14:25:12.425Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 第四北越 FG
@@ -50,6 +50,8 @@ translated_at: 2026-06-02T14:25:12.425Z
 
 ### 重要年表
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | 年月 | 事象 |
 |---|---|
 | 1873 | 第四国立銀行 開業（日本初の国立銀行の一つ、ナンバー 4）|
@@ -61,6 +63,8 @@ translated_at: 2026-06-02T14:25:12.425Z
 | 2024 | 中期経営計画（新中計）公表 |
 
 ## 2. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

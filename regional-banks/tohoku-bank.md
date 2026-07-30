@@ -3,8 +3,8 @@ title: "東北銀行"
 aliases: ["とうぎん", "Tohoku Bank", "The Tohoku Bank", "株式会社東北銀行"]
 domain: regional-banks
 created: 2026-05-21
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, banking, regional-bank, tohoku, operating-company]
@@ -26,6 +26,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 株式会社東北銀行 (The Tohoku Bank, 通称「とうぎん」) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される岩手県盛岡市本店の地方銀行 (第一地銀)。公式会社概要では 1950 年 10 月に戦後地銀の 1 行として設立。[[regional-banks/iwate-bank|岩手銀行]] と同じ岩手地盤だが独立した licensed regional bank operating company で、[[regional-banks/fidea-hd|フィデアホールディングス]] との経営統合基本合意は 2022 年 2 月に解除済みのため Fidea 傘下銀行ではない。事業は岩手県内の預金受入・中小企業/個人向け貸出という地銀の標準モデル。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, tohoku-bank.co.jp, hokutobank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; tohoku-bank.co.jp; hokutobank.co.jp]
 
 | Item | Notes |
 |---|---|

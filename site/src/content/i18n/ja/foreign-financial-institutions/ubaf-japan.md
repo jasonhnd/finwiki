@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/ubaf-japan
-source_hash: 416c526f2d3d488f
+source_hash: ac574da0dc8f3f33
 lang: ja
 status: machine
 fidelity: ok
 title: "ユバフーアラブ・フランス連合銀行日本 (UBAF Japan)"
-translated_at: 2026-06-02T16:33:58.509Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # ユバフーアラブ・フランス連合銀行日本 (UBAF Japan)
 
@@ -23,6 +23,8 @@ UBAF は、自らを 1970, に設立されたフランス法上の金融機関�
 
 ## エンティティ境界
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, ubaf.fr）の範囲に限定して読む。^[source:fsa.go.jp; ubaf.fr]
+
 | 項目 | 読み方 |
 |---|---|
 | 親機関 | Union de Banques Arabes et Françaises |
@@ -33,6 +35,8 @@ UBAF は、自らを 1970, に設立されたフランス法上の金融機関�
 | 規制ルート | FSA 外国銀行支店一覧 |
 
 ## 事業上の役割マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, ubaf.fr）の範囲に限定して読む。^[source:fsa.go.jp; ubaf.fr]
 
 | 機能 | 日本での関連性 |
 |---|---|

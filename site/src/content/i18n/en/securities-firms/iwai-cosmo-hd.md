@@ -1,11 +1,11 @@
 ---
 source: securities-firms/iwai-cosmo-hd
-source_hash: 408160a683563976
+source_hash: 5ee9c302cfe43c42
 lang: en
 status: machine
 fidelity: ok
 title: "Iwai Cosmo Holdings"
-translated_at: 2026-06-19T12:43:19.882Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Iwai Cosmo Holdings
@@ -61,6 +61,8 @@ Iwai Cosmo HD (holding company・listed 8707)
 
 ### Key chronology (excerpt) ^[extracted]
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Date | Event |
 |---|---|
 | 1918  | Ujiro Iwai founded Iwai Securities (predecessor) in Osaka |
@@ -73,6 +75,8 @@ Iwai Cosmo HD (holding company・listed 8707)
 | 2024  | medium-term management plan formulated ^[extracted] |
 
 ## 2. Business segment map
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Segment | Main operators | Characteristics |
 |---|---|---|

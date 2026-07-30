@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/ntt-docomo-sompo-hd
-source_hash: e0b3fc6e570061f9
+source_hash: b1bad12796d884e7
 lang: en
 status: machine
 fidelity: ok
 title: "NTTドコモ損害保険ホールディングス"
-translated_at: 2026-06-19T06:09:18.047Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # NTTドコモ損害保険ホールディングス
@@ -20,6 +20,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 株式会社NTTドコモ損害保険ホールディングス is the insurance holding company of the NTT Docomo group, listed in the FSA's insurance holding-company authorization list. FSA announced authorization in 2024 for the holding-company setup, with the company positioned around non-life / reinsurance business rather than ordinary consumer-bank services.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, docomo-sompo-hd.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; docomo-sompo-hd.com]
 
 | Item | Notes |
 |---|---|

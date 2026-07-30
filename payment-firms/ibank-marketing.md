@@ -3,8 +3,8 @@ title: "iBank マーケティング (iBank Marketing)"
 aliases: ["iBank Marketing", "iBank マーケティング", "株式会社 iBank マーケティング", "Wallet+", "ウォレットプラス"]
 domain: payment-firms
 created: 2026-05-24
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, fintech, wallet-app, regional-bank-fintech-subsidiary, kyushu, fukuoka, operating-company]
@@ -29,6 +29,8 @@ This entry sits under the [[payment-firms/INDEX|payment-firms INDEX]] as the FG-
 株式会社 iBank マーケティングは、[[regional-banks/fukuoka-fg|ふくおか FG (FFG)]] 100% 子会社の地銀発フィンテック子会社で、**Wallet+** (ウォレットプラス) スマホアプリの企画・運営を担当。地銀発のスマホファースト個人金融サービスとして、[[regional-banks/fukuoka-bank|福岡銀行]] / [[regional-banks/18-shinwa-bank|十八親和銀行]] / [[regional-banks/kumamoto-bank|熊本銀行]] 顧客向けに **目的別貯金 (myCoin)**・**家計管理**・**プリペイドカード Wallet+ Card**・**地域連携クーポン** 等を提供。地銀フィンテックの代表例で、[[megabanks/paypay-fg|PayPay]] / [[megabanks/au-fh|au PAY]] / [[payment-firms/rakuten-fg|楽天]] 等の通信系 / EC 系ウォレットとは異なる「銀行口座連携 + 目的別貯金」軸。^[extracted]
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (ibank.co.jp, prtimes.jp, fukuoka-fg.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:ibank.co.jp; prtimes.jp; fukuoka-fg.com; walletplus.jp]
 
 | Item | Notes |
 |---|---|
@@ -74,6 +76,8 @@ This entry sits under the [[payment-firms/INDEX|payment-firms INDEX]] as the FG-
 - **2018-2020**: [[regional-banks/18-shinwa-bank|十八親和銀行]] / [[regional-banks/kumamoto-bank|熊本銀行]] 連携追加 → 九州 3 県カバー
 
 ## 4. KPI table (concept)
+
+The following table is scoped to public primary sources (ibank.co.jp, prtimes.jp, fukuoka-fg.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:ibank.co.jp; prtimes.jp; fukuoka-fg.com; walletplus.jp]
 
 | 項目 | 概況 |
 |---|---|

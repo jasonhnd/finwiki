@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/hsbc-japan
-source_hash: c0f25590068c6623
+source_hash: f9ad2f742a55e973
 lang: ja
 status: machine
 fidelity: ok
 title: "HSBC ジャパン"
-translated_at: 2026-06-02T14:25:12.429Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # HSBC ジャパン
@@ -60,6 +60,8 @@ HSBC Holdings plc（英、上場）
 
 ## 2. 事業セグメント・マップ
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | セグメント | 主要法人 | 顧客 | 特徴 |
 |---|---|---|---|
 | 商業銀行 | HSBC Tokyo Branch | 大企業・多国籍企業 | トランザクション バンキング・キャッシュマネジメント |
@@ -84,6 +86,8 @@ HSBC Holdings plc（英、上場）
 - **対照**: [[foreign-financial-institutions/citigroup-japan]] は 2015 リテール撤退（三井住友 [[megabanks/smfg]] に売却）。外資 IB のリテール撤退は構造的トレンド
 
 ### 競合関係
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | 競合 | ポジション | HSBC との差 |
 |---|---|---|

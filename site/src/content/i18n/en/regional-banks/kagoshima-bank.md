@@ -1,11 +1,11 @@
 ---
 source: regional-banks/kagoshima-bank
-source_hash: 9eb53f15b000b987
+source_hash: 85e9c5ece813c381
 lang: en
 status: machine
 fidelity: ok
 title: "Kagoshima Bank"
-translated_at: 2026-05-31T23:59:49.385Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Kagoshima Bank
 
@@ -18,6 +18,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 Kagoshima Bank, Ltd. is a regional bank headquartered in Kagoshima Prefecture and listed in the FSA bank-license list. It is the core operating bank of [[regional-banks/kyushu-fg]] and is treated here as the Kagoshima / South Kyushu regional-bank operating-company anchor.
 
 ## 1. License / Group Boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, kagin.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; kagin.co.jp]
 
 | Item | Notes |
 |---|---|

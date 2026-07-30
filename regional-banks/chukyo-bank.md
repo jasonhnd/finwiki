@@ -3,8 +3,8 @@ title: "中京銀行 (Chukyo Bank, historical)"
 aliases: ["Chukyo Bank", "中京銀行", "株式会社中京銀行", "8530"]
 domain: regional-banks
 created: 2026-05-24
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, banking, second-regional-bank, chubu, aichi, historical, predecessor]
@@ -29,6 +29,8 @@ This entry sits under the [[regional-banks/INDEX|regional-banks INDEX]] as the *
 株式会社中京銀行は、愛知県名古屋市本店の第二地方銀行で、**2025-01-01 旧愛知銀行と合併し [[regional-banks/aichi-bank|あいち銀行]] に統合** (operating boundary 移行完了)。1953 年「第三相互無尽 + 第十七相互無尽」統合で設立、相互銀行 → 第二地銀普銀転換を経た典型的な「相銀系第二地銀」。証券コード旧 **東証 8530** は [[regional-banks/aichi-fg|あいち FG]] 設立 (2022-10) 時に廃止、本ページは current legal entity ではなく、合併前 historical anchor として位置づける。^[extracted]
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, aichibank.co.jp, aichi-fg.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; aichibank.co.jp; aichi-fg.co.jp; dainichiginkyo.or.jp]
 
 | Item | Notes |
 |---|---|

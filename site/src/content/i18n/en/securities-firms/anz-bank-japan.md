@@ -1,11 +1,11 @@
 ---
 source: securities-firms/anz-bank-japan
-source_hash: be1d06651ce54b11
+source_hash: 609de7eb2d15f6a5
 lang: en
 status: machine
 fidelity: ok
 title: ""
-translated_at: 2026-05-31T11:13:44.839Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 #ANZ Bank Japan
@@ -24,6 +24,8 @@ Registration is observed in the checked FSA sources as of 2026-05-13; this page 
 
 ## Entity / License Stack
 
+The following table is scoped to public primary sources (fsa.go.jp, anz.com, ibajapan.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; anz.com; ibajapan.org]
+
 |Layer|Public-source reading|Wiki route|
 |---|---|---|
 |Foreign-bank branch|FSA foreign-bank branch list includes the Australia and New Zealand Banking Group row.|[[financial-licenses/foreign-bank-branch-license-route|foreign-bank branch route]]|
@@ -32,6 +34,8 @@ Registration is observed in the checked FSA sources as of 2026-05-13; this page 
 |Group member / association|IBA Japan presents ANZ as a financial-group member.|[[financial-licenses/foreign-financial-group-adjacent-licenses|adjacent-license route]]|
 
 ## Business Role Map
+
+The following table is scoped to public primary sources (fsa.go.jp, anz.com, ibajapan.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; anz.com; ibajapan.org]
 
 |Lane|Japan / corridor relevance|
 |---|---|
@@ -42,6 +46,8 @@ Registration is observed in the checked FSA sources as of 2026-05-13; this page 
 |Securities activity|ANZ Securities Japan / FIBO route matters for distribution, markets, and capital-market products.|
 
 ## Peer / Contrast Map
+
+The following table is scoped to public primary sources (fsa.go.jp, anz.com, ibajapan.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; anz.com; ibajapan.org]
 
 |Peer|Contrast|
 |---|---|

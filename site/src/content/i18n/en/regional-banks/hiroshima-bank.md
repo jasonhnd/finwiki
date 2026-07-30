@@ -1,11 +1,11 @@
 ---
 source: regional-banks/hiroshima-bank
-source_hash: d28619897a29a792
+source_hash: 9ec6ec0aa128ca9c
 lang: en
 status: machine
 fidelity: ok
 title: "Hiroshima Bank"
-translated_at: 2026-06-15T04:09:41.137Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Hiroshima Bank
@@ -20,6 +20,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 The Hiroshima Bank, Ltd. (株式会社広島銀行) is a regional bank (first-tier regional bank / 第一地銀) headquartered in Hiroshima City, Hiroshima Prefecture, holding a banking licence under the Banking Act and listed on the FSA bank-licence list. It is the core operating bank of [[regional-banks/hirogin-hd|ひろぎんホールディングス]] and a regional-bank operating-company anchor representing the Chugoku region. Its business follows the standard regional-bank model, centred on deposit-taking in the Setouchi area and lending to SMEs, individuals, and local governments.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, hirogin.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; hirogin.co.jp]
 
 | Item | Notes |
 |---|---|

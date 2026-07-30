@@ -1,11 +1,11 @@
 ---
 source: life-insurers/nissay-wealth-life
-source_hash: bce8c31f686df260
+source_hash: b4058b4629f52cbc
 lang: en
 status: machine
 fidelity: ok
 title: "Nissay Wealth Life Insurance"
-translated_at: 2026-06-01T00:41:50.412Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Nissay Wealth Life Insurance
@@ -20,6 +20,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it with 
 Nissay Wealth Life Insurance Co., Ltd. is a life-insurance operating company in the [[life-insurers/nippon-life]] group, listed in the FSA life-insurer list and the Life Insurance Association of Japan member list. It is handled separately from the Nippon Life parent page in order to analyze wealth / financial-institution channel products.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, nw-life.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; nw-life.co.jp]
 
 | Item | Notes |
 |---|---|

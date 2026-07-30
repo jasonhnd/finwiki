@@ -7,8 +7,8 @@ aliases:
   - "Japan non-life big three combined ratio"
 domain: "insurance"
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [insurance, non-life, P&C, japan, underwriting-cycle, combined-ratio, reinsurance]
@@ -128,6 +128,8 @@ Marine insurance (cargo, hull, P&I) is a globally traded specialty line. Japanes
 
 Japanese reinsurance treaties follow a primary April 1 renewal cycle aligned with the Japan financial year, with smaller renewals at January and July. Procurement dynamics:
 
+The following table is scoped to public primary sources (sonpo.or.jp, tokiomarinehd.com, ms-ad-hd.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:sonpo.or.jp; tokiomarinehd.com; ms-ad-hd.com; sompo-hd.com]
+
 | Element | Description |
 |---|---|
 | April 1 renewal | Primary cedent treaty renewal for Japan-domestic books |
@@ -149,6 +151,8 @@ Under the [[insurance/economic-value-based-solvency|economic-value-based solvenc
 ## ESR cat-module sensitivity
 
 The non-life cat module under the [[insurance/economic-value-based-solvency|economic-value-based ESR]] regime applies stress scenarios for major Japanese perils:
+
+The following table is scoped to public primary sources (sonpo.or.jp, tokiomarinehd.com, ms-ad-hd.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:sonpo.or.jp; tokiomarinehd.com; ms-ad-hd.com; sompo-hd.com]
 
 | Peril | ESR cat-module treatment |
 |---|---|

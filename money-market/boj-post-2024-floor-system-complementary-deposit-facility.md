@@ -10,8 +10,8 @@ aliases:
   - "BoJ tiered interest"
 domain: "money-market"
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [money-market, BoJ, monetary-policy, floor-system, IOER, reserves]
@@ -39,6 +39,8 @@ In March 2024, the Bank of Japan ended negative interest-rate policy (NIRP) and 
 The interest-on-reserves rail is the complementary deposit facility (補完当座預金制度), which historically applied a tiered structure to current-account balances. After the March 2024 framework shift, the policy-rate-balance tier carries the headline short-term policy rate, and short-term money-market pricing is anchored above this floor.
 
 ## Framework Map
+
+The following table is scoped to public primary sources (boj.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:boj.or.jp]
 
 | Layer | Pre-March-2024 reading | Post-March-2024 reading |
 |---|---|---|
@@ -83,6 +85,8 @@ Practical reading:
 - [[money-market/japan-ncd-negotiable-cd-market|NCD]] and [[money-market/japan-cp-commercial-paper-market|CP]] yields should trade above the floor by issuer credit spreads.
 
 ## Comparison with Fed IORB and ECB DFR
+
+The following table is scoped to public primary sources (boj.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:boj.or.jp]
 
 | Feature | BoJ post-2024 | US Fed | ECB |
 |---|---|---|---|

@@ -1,11 +1,11 @@
 ---
 source: payments/japan-code-payment-operator-2025-market-share-matrix
-source_hash: 4930eed374c6544b
+source_hash: e3d7c49dc0b1aef3
 lang: en
 status: machine
 fidelity: ok
 title: "Japan code-payment operator 2025 market share matrix"
-translated_at: 2026-06-19T06:09:18.136Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan code-payment operator 2025 market share matrix
@@ -23,6 +23,8 @@ Japan's **code-payment market in 2025** is a **clear oligopoly** with [[payment-
 Three claims commonly muddle code-payment analysis. First, **"PayPay won"** — true at the aggregate transaction-share level, but the ecosystem-anchored competitors (Rakuten, NTT docomo, KDDI, Mercari, FamiMa) maintain structural defensibility through cross-product attachment that pure-share data doesn't capture. Second, **"MAU equals economic share"** — MAU and registered-user counts don't directly translate to TPV or revenue; high-frequency low-ticket usage at PayPay differs in economics from credit-anchored higher-ticket usage at Rakuten Pay. Third, **"all code-payment operators have the same business model"** — they differ significantly on EPI vs banking-license structure, deposit attachment, point-integration economics, and merchant-fee approach. This matrix surfaces all three for direct read with the most recent 2025 verifiable disclosures.
 
 ## Big nine-operator comparison matrix
+
+The following table is scoped to public primary sources (meti.go.jp, paymentsjapan.or.jp, about.paypay.ne.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; paymentsjapan.or.jp; about.paypay.ne.jp; prtimes.jp]
 
 | Dimension | PayPay | Rakuten Pay | d-Barai (NTT docomo) | au PAY (KDDI) | Merpay (Mercari) | FamiPay (FamiMa) | J-Coin Pay (Mizuho) | ゆうちょPay (JP Bank) | Seven Pay (discontinued) |
 |---|---|---|---|---|---|---|---|---|---|
@@ -98,6 +100,8 @@ J-Coin Pay's distinctive position: **bank-anchored consortium product**. The TPV
 
 The following figures are sourced from METI's cashless-payment releases and Cashless Promotion Council publications. **Two distinct METI releases must not be conflated:** the **2025-03-31 release reports 2024 data** (42.8% ratio / ¥141.0tn / code ¥13.5tn / 9.6% share / +23.9% YoY), while the **2026-03-31 release reports 2025 data** (58.0% domestic ratio / 46.3% international ratio / ¥162.7tn / code ¥16.6tn / 10.2% share). These are the most defensible aggregate numbers; per-operator TPV / MAU figures vary by reporting period and disclosure surface, so per-operator numbers in the main matrix above are shown only where an official operator disclosure exists and marked `n.d.` (データ未公開) where the operator does not break the figure out.
 
+The following table is scoped to public primary sources (meti.go.jp, paymentsjapan.or.jp, about.paypay.ne.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; paymentsjapan.or.jp; about.paypay.ne.jp; prtimes.jp]
+
 | Metric (2025) | Value | Source |
 |---|---|---|
 | Overall cashless ratio (2025) | 58.0% (new domestic indicator); 46.3% (legacy international-comparison indicator) | METI 2026-03-31 release (2025 data) |
@@ -115,6 +119,8 @@ For per-operator numbers, see operator IR disclosures: PayPay (https://about.pay
 
 The operators in this matrix split across regulatory classes in a way that affects what each can do with stored balances and how they interact with cross-operator transfer or withdrawal:
 
+The following table is scoped to public primary sources (meti.go.jp, paymentsjapan.or.jp, about.paypay.ne.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; paymentsjapan.or.jp; about.paypay.ne.jp; prtimes.jp]
+
 | Operator | EPI (前払式支払手段) | Funds Transfer (資金移動業) | Banking license | BNPL / 信用購入あっせん |
 |---|---|---|---|---|
 | PayPay | Yes (PayPay マネーライト) | Yes (PayPay マネー) | Via PayPay Bank affiliate | Via [[card-issuers/paypay-card\|PayPay Card]] |
@@ -131,6 +137,8 @@ This regulatory-class structure is the principal determinant of whether a wallet
 
 ## Settlement-and-funding structural comparison
 
+The following table is scoped to public primary sources (meti.go.jp, paymentsjapan.or.jp, about.paypay.ne.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; paymentsjapan.or.jp; about.paypay.ne.jp; prtimes.jp]
+
 | Operator | Primary funding rail | Settlement-to-merchant baseline | Acceleration option | Bank-account withdrawal |
 |---|---|---|---|---|
 | PayPay | Bank account + linked card (V/MC/JCB/AMEX where supported) + PayPay マネー balance | Configurable (small merchants can get daily) | Available | Yes (from PayPay マネー only, not マネーライト) |
@@ -146,6 +154,8 @@ This regulatory-class structure is the principal determinant of whether a wallet
 ## Merchant-acceptance overlap and PSP routing
 
 Many merchants accept multiple code-payment wallets simultaneously via PSP / aggregator routing rather than direct contract with each wallet. The principal multi-wallet aggregator is [[payment-firms/netstars|Netstars]] (via StarPay), and the merchant-side PSPs ([[payment-firms/gmo-payment-gateway|GMO-PG]], [[payment-firms/sb-payment-service|SBPS]], [[payment-firms/dg-financial-technology|DGFT]]) typically route multi-wallet acceptance for their merchant base. Covered in [[payments/japan-merchant-psp-competitive-scorecard|Japan merchant PSP competitive scorecard]].
+
+The following table is scoped to public primary sources (meti.go.jp, paymentsjapan.or.jp, about.paypay.ne.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; paymentsjapan.or.jp; about.paypay.ne.jp; prtimes.jp]
 
 | Wallet | Direct-merchant model strength | Multi-wallet aggregator dependency |
 |---|---|---|

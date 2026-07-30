@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/ntt-docomo-sonpo
-source_hash: 3cf4189714203ebc
+source_hash: d6907cf678d9a80d
 lang: ja
 status: machine
 fidelity: ok
 title: "NTTドコモ損害保険"
-translated_at: 2026-06-19T06:09:18.092Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # NTTドコモ損害保険
@@ -23,6 +23,8 @@ translated_at: 2026-06-19T06:09:18.092Z
 この会社が重要なのは、NTT ドコモの保険ルートをより具体的にするためである：持株会社は単なる規制上のシェルではなく、事業を行う保険会社は端末およびスマートライフ保護サービス周りの損害 / 再保険ビジネスに結び付いている。
 
 ## 1. ライセンス / グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, docomo-sompo.com, docomo.ne.jp）の範囲に限定して読む。^[source:fsa.go.jp; docomo-sompo.com; docomo.ne.jp]
 
 | 項目 | 備考 |
 |---|---|

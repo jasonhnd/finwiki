@@ -1,11 +1,11 @@
 ---
 source: regional-banks/momiji-bank
-source_hash: f40c5cdae6e89830
+source_hash: 016622742b11864e
 lang: ja
 status: machine
 fidelity: ok
 title: "もみじ銀行"
-translated_at: 2026-06-15T04:09:41.196Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # もみじ銀行
@@ -19,6 +19,8 @@ translated_at: 2026-06-15T04:09:41.196Z
 株式会社もみじ銀行 (Momiji Bank) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される広島県広島市本店の第二地方銀行。[[regional-banks/yamaguchi-fg|山口フィナンシャルグループ]] (YMFG) 傘下の広島エリア営業銀行であり、第一地銀の [[regional-banks/hiroshima-bank|広島銀行]] とは別法人の第二地銀ピアとして扱う。事業の中身は県内の預金受入と中小企業・個人向け貸出という第二地銀の標準モデル。
 
 ## 1. 免許／グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, momijibank.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; momijibank.co.jp]
 
 | 項目 | 注記 |
 |---|---|

@@ -1,12 +1,12 @@
 ---
 source: non-profit/japan-josei-zaidan-grant-making
-source_hash: 3f1544b896e0a6a9
+source_hash: 28a43df67d8b6ebf
 lang: ja
 model: claude-opus-4-8
 status: machine
 fidelity: ok
 title: "日本 助成財団 — 助成財団：構造、公益 助成テスト、そして寄付者の経済学"
-translated_at: 2026-06-05T00:00:00.000Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本 助成財団 — 助成財団：構造、公益 助成テスト、そして寄付者の経済学
@@ -21,6 +21,8 @@ translated_at: 2026-06-05T00:00:00.000Z
 
 ## 助成型 vs 事業型 財団
 
+以下の表は、エントリ出典インベントリの公開一次資料（koeki-info.go.jp, jfc.or.jp, laws.e-gov.go.jp）の範囲に限定して読む。^[source:koeki-info.go.jp; jfc.or.jp; laws.e-gov.go.jp; nta.go.jp]
+
 | 種類 | 何をするか | 典型的な形態 |
 |---|---|---|
 | **助成型 (grant-making)** | 外部の研究者、学生、NPO に 研究助成 / 奨学金 を分配 | 公益財団（または 一般財団） |
@@ -31,6 +33,8 @@ translated_at: 2026-06-05T00:00:00.000Z
 ## 何が助成を 公益目的事業 にするか
 
 財団の助成プログラムが 公益認定法 の下で税制優遇された **公益目的事業** として数えられるためには、選定は *私的なパトロネージ* ではなく *公益分配* のように見えなければならない。レビュアーは以下を探す：
+
+以下の表は、エントリ出典インベントリの公開一次資料（koeki-info.go.jp, jfc.or.jp, laws.e-gov.go.jp）の範囲に限定して読む。^[source:koeki-info.go.jp; jfc.or.jp; laws.e-gov.go.jp; nta.go.jp]
 
 | 要素 | なぜ重要か |
 |---|---|
@@ -43,6 +47,8 @@ translated_at: 2026-06-05T00:00:00.000Z
 
 ## 助成財団 の資金源
 
+以下の表は、エントリ出典インベントリの公開一次資料（koeki-info.go.jp, jfc.or.jp, laws.e-gov.go.jp）の範囲に限定して読む。^[source:koeki-info.go.jp; jfc.or.jp; laws.e-gov.go.jp; nta.go.jp]
+
 | 源 | パターン |
 |---|---|
 | **基本財産運用益** | 拠出された基本財産からの収益（古典的モデル） |
@@ -54,6 +60,8 @@ translated_at: 2026-06-05T00:00:00.000Z
 ## 寄付者 / スポンサーの経済学 —— なぜここで 公益 ステータスが重要か
 
 助成モデルは **スポンサーがどれだけ税効率的に資金提供できるか** で生きるか死ぬかが決まる：
+
+以下の表は、エントリ出典インベントリの公開一次資料（koeki-info.go.jp, jfc.or.jp, laws.e-gov.go.jp）の範囲に限定して読む。^[source:koeki-info.go.jp; jfc.or.jp; laws.e-gov.go.jp; nta.go.jp]
 
 | 資金提供者 | 公益財団 助成財団 への資金提供 | 一般財団 助成財団 への資金提供 |
 |---|---|---|

@@ -6,8 +6,8 @@ aliases:
   - "QR code payment Japan"
 domain: "payments"
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [payments, code-payment, QR-payment, wallets, cashless]
@@ -27,6 +27,8 @@ Japan's code-payment market is recorded as a battle among wallet ecosystems, mer
 This page routes code-payment analysis under [[payments/INDEX|payments]] and links consumer wallet operators in [[payments/INDEX|payments INDEX]] with PSP / gateway infrastructure such as [[payment-firms/netstars|Netstars]] and [[payments/psp-merchant-settlement-risk|merchant settlement risk]].
 
 ## Competitive Lanes
+
+The following table is scoped to public primary sources (meti.go.jp, paymentsjapan.or.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; paymentsjapan.or.jp; fsa.go.jp]
 
 | Lane | Core route | Strategic reading |
 |---|---|---|

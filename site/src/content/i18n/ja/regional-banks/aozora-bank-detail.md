@@ -1,11 +1,11 @@
 ---
 source: regional-banks/aozora-bank-detail
-source_hash: 3dd9bbaf9cdf782f
+source_hash: 2a9aa5e539d66428
 lang: ja
 status: machine
 fidelity: ok
 title: "あおぞら銀行 事業詳細 (Aozora Bank Operating Profile)"
-translated_at: 2026-06-19T12:43:19.959Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # あおぞら銀行 事業詳細 (Aozora Bank Operating Profile)
@@ -86,6 +86,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] and compleme
 
 ## 5. 競合・業界ポジション
 
+以下の表は、エントリ出典インベントリの公開一次資料（aozorabank.co.jp, disclosure2.edinet-fsa.go.jp, fsa.go.jp）の範囲に限定して読む。^[source:aozorabank.co.jp; disclosure2.edinet-fsa.go.jp; fsa.go.jp]
+
 | 銀行 | 上場 | 系譜 | 規模感（総資産） |
 |---|---|---|---|
 | [[megabanks/mufg-bank|三菱UFJ銀行]] | (MUFG 8306 配下) | メガ | 220 兆円超 |
@@ -105,6 +107,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] and compleme
 - **資本政策**：増資・劣後債発行・配当政策見直し（業績復元局面で段階的還元再開）
 
 ## 7. 主要 KPI（概観 / 単体）
+
+以下の表は、エントリ出典インベントリの公開一次資料（aozorabank.co.jp, disclosure2.edinet-fsa.go.jp, fsa.go.jp）の範囲に限定して読む。^[source:aozorabank.co.jp; disclosure2.edinet-fsa.go.jp; fsa.go.jp]
 
 | 項目 | 規模感 |
 |---|---|

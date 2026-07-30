@@ -1,11 +1,11 @@
 ---
 source: regional-banks/kitakyushu-bank
-source_hash: 6278f9fcd0cd3533
+source_hash: 0806e466f1fb1e30
 lang: en
 status: machine
 fidelity: ok
 title: "The Kitakyushu Bank"
-translated_at: 2026-06-15T04:09:41.154Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # The Kitakyushu Bank
@@ -19,6 +19,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 The Kitakyushu Bank, Ltd. (株式会社北九州銀行) is a regional bank headquartered in Kitakyushu City, Fukuoka Prefecture, that holds a bank license under the Banking Act and is listed on the FSA's bank license list. It is a Kitakyushu-area operating bank under [[regional-banks/yamaguchi-fg|山口フィナンシャルグループ]] (YMFG), and within Fukuoka Prefecture it is treated as a regional-bank peer that is a separate legal entity from [[regional-banks/fukuoka-bank|福岡銀行]] / [[regional-banks/nishi-nippon-city-bank|西日本シティ銀行]]. Its business substance is deposit-taking in the Kitakyushu / Kanmon area and lending to SMEs and individuals.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, kitakyushubank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; kitakyushubank.co.jp]
 
 | Item | Notes |
 |---|---|

@@ -3,8 +3,8 @@ title: "みどり生命保険"
 aliases: ["みどり生命", "Midori Life", "Midori Life Insurance", "みどり生命保険株式会社"]
 domain: life-insurers
 created: 2026-05-21
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, insurance, life-insurance, specialty-insurer, operating-company]
@@ -27,6 +27,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]] (its domain ro
 みどり生命保険株式会社は、保険業法上の生命保険会社免許を持ち金融庁の生命保険会社免許一覧と[[financial-regulators/seiho-kyokai|生命保険協会]]会員一覧に掲載される、東京都に本社を置く中堅・スペシャルティ系の生命保険事業会社。2008 年 8 月に内閣総理大臣（金融庁）から生命保険業免許を取得し、同年 10 月に営業を開始した。**大手金融グループ系ではなく、冠婚葬祭互助会業の国内最大手「ベルコグループ」系の関連会社**として出発した点が、他の財閥系・銀行系生保と異なる。大手グループページでは拾いにくいため、exact-name anchor として置く。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, midori-life.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; midori-life.com]
 
 | Item | Notes |
 |---|---|

@@ -1,12 +1,12 @@
 ---
 source: securities-firms/paypay-securities
-source_hash: 33a5deb3bc30a227
+source_hash: 27eb4a1b43607f6f
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "PayPay証券"
-translated_at: 2026-06-26T08:32:15.213Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # PayPay証券
@@ -20,6 +20,8 @@ translated_at: 2026-06-26T08:32:15.213Z
 PayPay証券株式会社（旧 One Tap BUY）は、PayPay 経済圏に属するスマホ証券事業者。金融商品取引法上の **第一種金融商品取引業者** として金融庁の金融商品取引業者一覧に「PayPay証券株式会社」（関東財務局長(金商)第2883号）で掲載される。公開発表ベースでは 2025 年に PayPay株式会社が親会社となり、PayPay アプリ内の資産運用導線を担う点が従来の online broker と異なる。
 
 ## 1. 免許／グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, paypay-sec.co.jp, softbank.jp）の範囲に限定して読む。^[source:fsa.go.jp; paypay-sec.co.jp; softbank.jp]
 
 | 項目 | 備考 |
 |---|---|

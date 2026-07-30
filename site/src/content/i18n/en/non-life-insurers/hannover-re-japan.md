@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/hannover-re-japan
-source_hash: 7e66397c172f5452
+source_hash: 6284ba006494ddd6
 lang: en
 status: machine
 fidelity: ok
 title: "Hannover Re Japan Branch"
-translated_at: 2026-06-19T06:09:18.132Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Hannover Re Japan Branch
@@ -19,6 +19,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 The Japan branch of Hannover Rück SE (Hannover Re, listed in Frankfurt). The Japan branch of a **global reinsurer ranked around the world's no. 3 位**, behind Munich Re / Swiss Re. Listed on the FSA's non-life insurance company license list (foreign non-life insurance companies, etc.), it supplies reinsurance capacity to Japan's primary non-life insurers through a low-cost structure and specialty-line underwriting.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (hannover-re.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:hannover-re.com; fsa.go.jp]
 
 | Item | Notes |
 |---|---|

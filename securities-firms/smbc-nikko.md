@@ -11,8 +11,8 @@ aliases:
   - "securities-firms/smbc-nikko-securities"
 domain: securities-firms
 created: 2026-05-19
-last_updated: 2026-07-29
-last_tended: 2026-07-29
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, securities]
@@ -67,6 +67,8 @@ SMBC 日興証券（[[megabanks/smfg]] 100% 連結子会社）
 
 ### 重要年表（公開情報ベース）
 
+The following table is scoped to public primary sources (smbcnikko.co.jp, diamond.jp, jbpress.ismedia.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:smbcnikko.co.jp; diamond.jp; jbpress.ismedia.jp]
+
 | 年月 | 事象 |
 |---|---|
 | **1918** | **川島屋商店 創業**（現 SMBC 日興証券の起源、東京）|
@@ -88,6 +90,8 @@ SMBC 日興証券（[[megabanks/smfg]] 100% 連結子会社）
 > 注: 2022 年事件の刑事手続きは継続中の部分があり、公開情報ベース。詳細は金融庁公表資料・東京地裁判決資料を要参照。
 
 ## 2. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (smbcnikko.co.jp, diamond.jp, jbpress.ismedia.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:smbcnikko.co.jp; diamond.jp; jbpress.ismedia.jp]
 
 | セグメント | 内容 | 特徴 |
 |---|---|---|

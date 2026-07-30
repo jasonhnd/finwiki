@@ -1,11 +1,11 @@
 ---
 source: regional-banks/sendai-bank
-source_hash: 68e1b8f2e3d7dea1
+source_hash: d18eda9a93763228
 lang: ja
 status: machine
 fidelity: ok
 title: "仙台銀行"
-translated_at: 2026-06-02T15:14:17.080Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 仙台銀行
@@ -20,6 +20,8 @@ translated_at: 2026-06-02T15:14:17.080Z
 株式会社仙台銀行は、金融庁の銀行免許一覧に掲載される宮城県本店の第二地方銀行で、[[regional-banks/jimoto-hd]] 傘下の事業銀行である。宮城県市場では [[regional-banks/77-bank]] が県内トップ地銀で、仙台銀行は第二地方銀行側の中小企業・個人・復興金融のアンカーになる。
 
 ## 1. 免許 / グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, sendaibank.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; sendaibank.co.jp]
 
 | 項目 | 注記 |
 |---|---|

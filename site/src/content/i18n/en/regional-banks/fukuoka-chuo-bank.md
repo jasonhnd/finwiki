@@ -1,11 +1,11 @@
 ---
 source: regional-banks/fukuoka-chuo-bank
-source_hash: 9eca22490640d114
+source_hash: b2b6b56512a28b5a
 lang: en
 status: machine
 fidelity: ok
 title: "Fukuoka Central Bank"
-translated_at: 2026-05-31T15:29:03.963Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Fukuoka Central Bank
@@ -20,6 +20,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 Fukuoka Chuo Bank, Ltd. is the second regional bank with its main branch in Fukuoka Prefecture listed on the Financial Services Agency's list of bank licenses. It is a Fukuoka-area operating bank under [[regional-banks/fukuoka-fg]] and is treated as a licensed-bank anchor separate from [[regional-banks/fukuoka-bank]] and [[regional-banks/chikuho-bank]].
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, fukuokachuo-bank.co.jp, fukuoka-fg.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; fukuokachuo-bank.co.jp; fukuoka-fg.com]
 
 |Item|Notes|
 |---|---|

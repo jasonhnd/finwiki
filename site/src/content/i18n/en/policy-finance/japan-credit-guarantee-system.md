@@ -1,11 +1,11 @@
 ---
 source: policy-finance/japan-credit-guarantee-system
-source_hash: c9b2db821694efdb
+source_hash: 9c7635a291c86269
 lang: en
 status: machine
 fidelity: ok
 title: "Japan credit guarantee system"
-translated_at: 2026-06-19T06:09:18.124Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan credit guarantee system
@@ -20,6 +20,8 @@ Japan's credit guarantee system (信用保証制度) is the public-credit infras
 
 ## 1. System architecture (the 信用補完制度 stack)
 
+The following table is scoped to public primary sources (zenshinhoren.or.jp, chusho.meti.go.jp, jfc.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:zenshinhoren.or.jp; chusho.meti.go.jp; jfc.go.jp]
+
 | Layer | Role | FinWiki route |
 |---|---|---|
 | SME / small-business borrower | Applies for business funding through a financial institution and guarantee route. | System route here |
@@ -33,6 +35,8 @@ Japan's credit guarantee system (信用保証制度) is the public-credit infras
 The system is therefore a **vertical public-credit pipeline**: borrower → lender → local CGC (first loss) → JFG coordination → JFC credit insurance (reinsurance) → METI policy backstop.
 
 ## 2. 機関概要 — local Credit Guarantee Corporations
+
+The following table is scoped to public primary sources (zenshinhoren.or.jp, chusho.meti.go.jp, jfc.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:zenshinhoren.or.jp; chusho.meti.go.jp; jfc.go.jp]
 
 | 項目 | 内容 |
 |---|---|
@@ -86,6 +90,8 @@ Note **危機関連保証** (separate from セーフティネット) is the broa
 
 The **ZeroZero loan** (実質無利子・無担保融資) program was the central crisis-finance response to COVID-19:
 
+The following table is scoped to public primary sources (zenshinhoren.or.jp, chusho.meti.go.jp, jfc.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:zenshinhoren.or.jp; chusho.meti.go.jp; jfc.go.jp]
+
 | Phase | Period | Status |
 |---|---|---|
 | Origination ramp | 2020-03 → 2020-07 | METI launches private-sector ZeroZero via the credit guarantee system in 2020-05; rapid uptake reaching trillions of yen in months. JFC operates a parallel ZeroZero program directly. |
@@ -122,6 +128,8 @@ The **public-credit risk-bearing waterfall** is: borrower recovery → CGC reser
 Recovery rates vary by region, sector, and collateral type — urban CGCs (Tokyo, Osaka) typically have higher recovery rates than rural CGCs (Hokkaido, Tōhoku, Kyūshū rural) because of thicker secondary markets for commercial real estate and equipment.
 
 ## 9. Year evolution
+
+The following table is scoped to public primary sources (zenshinhoren.or.jp, chusho.meti.go.jp, jfc.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:zenshinhoren.or.jp; chusho.meti.go.jp; jfc.go.jp]
 
 | Year | Event |
 |---|---|

@@ -6,8 +6,8 @@ aliases:
   - "相互会社 vs 株式会社 生保"
 domain: "insurance"
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-05-19
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [insurance, life-insurance, mutual-company, capital-structure, governance]
@@ -33,6 +33,8 @@ Japan's life insurers can be structured as mutual companies or stock companies. 
 Key JapanFG examples: [[life-insurers/nippon-life]], [[life-insurers/meiji-yasuda]], and [[life-insurers/sumitomo-life]] are mutual-company reference cases; [[life-insurers/dai-ichi-life]], [[life-insurers/kampo-life]], [[life-insurers/lifenet]], and [[life-insurers/orix-life]] are stock-company reference cases.
 
 ## Comparison
+
+The following table is scoped to public primary sources (seiho.or.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:seiho.or.jp; fsa.go.jp]
 
 | Dimension | Mutual life insurer | Stock life insurer |
 |---|---|---|

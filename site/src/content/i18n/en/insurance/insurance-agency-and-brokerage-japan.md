@@ -1,11 +1,11 @@
 ---
 source: insurance/insurance-agency-and-brokerage-japan
-source_hash: c4b656c9e3bc4af3
+source_hash: 8c8234c5c794f1f4
 lang: en
 status: machine
 fidelity: ok
 title: "Japan insurance agency and brokerage"
-translated_at: 2026-05-31T11:13:44.852Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan insurance agency and brokerage
@@ -17,6 +17,8 @@ Insurance distribution in Japan is mapped by authority and responsibility. An in
 Use this page with [[financial-licenses/insurance-license-and-solvency|insurance license and solvency route]], [[insurance/life-insurance-channel-mix|life-insurance channel mix]], [[insurance/japan-life-insurance-big-four|Japan life insurance big four]], [[insurance/japan-nonlife-big-three|Japan non-life big three]], [[non-life-insurers/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]], [[non-life-insurers/mitsui-sumitomo-insurance|Mitsui Sumitomo Insurance]], [[non-life-insurers/sompo-japan-insurance|Sompo Japan Insurance]], [[life-insurers/lifenet|Lifenet]], and [[non-life-insurers/sony-insurance|Sony Insurance]].
 
 ## Distribution Role Map
+
+The following table is scoped to public primary sources (fsa.go.jp, sonpo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sonpo.or.jp]
 
 | Role | Public role field | Legal / operating boundary |
 |---|---|---|
@@ -39,6 +41,8 @@ The FSA supervision-guideline route separates broker-related supervision from th
 An agent's explanation duty, product comparison, conflict controls, commission incentives, customer suitability, and complaint handling are separate from the insurer's capital adequacy and claims-paying responsibility.
 
 ## Channel Economics
+
+The following table is scoped to public primary sources (fsa.go.jp, sonpo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sonpo.or.jp]
 
 | Channel | Economics | Main risk |
 |---|---|---|

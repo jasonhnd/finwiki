@@ -1,11 +1,11 @@
 ---
 source: regional-banks/san-jusan-bank
-source_hash: 41ec6cf40cc4988e
+source_hash: 1f39f2081020c950
 lang: ja
 status: machine
 fidelity: ok
 title: "三十三銀行"
-translated_at: 2026-06-02T15:14:17.133Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 三十三銀行
@@ -19,6 +19,8 @@ translated_at: 2026-06-02T15:14:17.133Z
 株式会社三十三銀行は、三重県四日市市に本店を置く第一地方銀行で、[[regional-banks/san-jusan-fg|三十三 FG]] (東証 PRIME 7322) の100%子会社・単一銀行 operating subsidiary。**2021-05-01 旧三重銀行 + 旧第三銀行の合併**で発足し、社名「三十三」は「**三 (mie / 三重) + 三 (third / 第三)**」両行の「三」を取ったダブルミーニング (英名: San ju San = 33)。県内シェア No.1 は [[regional-banks/hyakugo-bank|百五銀行]] が握り、本行は両行統合で2位に位置するが、中京経済圏 (名古屋圏) 関西寄り境界の独特ポジションを活かす。^[extracted]
 
 ## 1. 免許・グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, 33bk.co.jp, 33fg.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; 33bk.co.jp; 33fg.co.jp; chiginkyo.or.jp]
 
 | 項目 | 備考 |
 |---|---|
@@ -69,6 +71,8 @@ translated_at: 2026-06-02T15:14:17.133Z
 
 ## 4. KPI 表（FY2025.3）
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, 33bk.co.jp, 33fg.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; 33bk.co.jp; 33fg.co.jp; chiginkyo.or.jp]
+
 | 項目 | 数値 (2025年3月末) |
 |---|---|
 | 預金等残高 (FG 連結・譲渡性預金含む) | 3 兆 9,331 億円 (前年度末比 +453 億円) |
@@ -82,6 +86,8 @@ translated_at: 2026-06-02T15:14:17.133Z
 > 注: 上記は [[regional-banks/san-jusan-fg|三十三 FG]] FY2025.3 連結ベース (2025-05-09 決算短信 / 統合報告書 2025)。三十三銀行は同 FG の中核子会社で「銀行業」セグメントが大半を占める。単体精緻値は FG 有価証券報告書を参照。
 
 ## 5. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, 33bk.co.jp, 33fg.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; 33bk.co.jp; 33fg.co.jp; chiginkyo.or.jp]
 
 | セグメント | 特徴 |
 |---|---|

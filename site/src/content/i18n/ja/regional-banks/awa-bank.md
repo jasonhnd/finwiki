@@ -1,11 +1,11 @@
 ---
 source: regional-banks/awa-bank
-source_hash: 5bd5b97d0283f055
+source_hash: 7aca13abb6bbfd64
 lang: ja
 status: machine
 fidelity: ok
 title: "阿波銀行"
-translated_at: 2026-06-15T04:09:41.144Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 阿波銀行
@@ -20,6 +20,8 @@ translated_at: 2026-06-15T04:09:41.144Z
 株式会社阿波銀行 (The Awa Bank) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される徳島県徳島市本店の地方銀行 (第一地銀)。徳島県の第一地方銀行（事業会社）アンカーであり、[[regional-banks/tomony-hd|トモニホールディングス]] 傘下の [[regional-banks/tokushima-taisho-bank|徳島大正銀行]] とは別法人の独立系第一地銀 peer。事業の中身は県内の預金受入と中小企業・個人・地方公共団体向け貸出という地方銀行の標準モデル。
 
 ## 1. 免許／グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, awabank.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; awabank.co.jp]
 
 | 項目 | 備考 |
 |---|---|

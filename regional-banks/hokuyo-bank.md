@@ -12,8 +12,8 @@ aliases:
   - "regional-banks/sapporo-hokuyo-bank"
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, hokkaido, second-tier]
@@ -44,6 +44,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 **親会社経緯**: 旧上場持株会社 **札幌北洋ホールディングス（東証・札証 8328）→ 2012-10-01 北洋銀行が逆吸収合併で解散・上場廃止**（日本で 3 例目の子銀行による持株会社吸収合併、もみじ HD・きらやか HD に次ぐ）。**現在は非上場の単独銀行**
 
 ### 2025-03 期決算（連結）
+
+The following table is scoped to public primary sources (Hokuyo Bank, 株式会社北洋銀行, 北洋). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Hokuyo Bank; 株式会社北洋銀行; 北洋]
 
 | 項目 | 金額 |
 |---|---|
@@ -76,6 +78,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ### 重要年表（抜粋）
 
+The following table is scoped to public primary sources (Hokuyo Bank, 株式会社北洋銀行, 北洋). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Hokuyo Bank; 株式会社北洋銀行; 北洋]
+
 | 年月 | 事象 |
 |---|---|
 | 1917-08 | 北海道無尽 設立 |
@@ -89,6 +93,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 | 2025-03 期 | 総資産 13.4 兆円 / 預金 11.1 兆円 |
 
 ## 2. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (Hokuyo Bank, 株式会社北洋銀行, 北洋). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Hokuyo Bank; 株式会社北洋銀行; 北洋]
 
 | セグメント | 主要事業 | 特徴 |
 |---|---|---|

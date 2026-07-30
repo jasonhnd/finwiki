@@ -1,12 +1,12 @@
 ---
 source: non-life-insurers/capital-insurance
-source_hash: e9ac2900beef8983
+source_hash: 941d20e9290ab282
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Capital Insurance / キャピタル損害保険"
-translated_at: 2026-06-26T08:32:23.069Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Capital Insurance / キャピタル損害保険
@@ -22,6 +22,8 @@ Capital Insurance は、三菱 HC キャピタルに結びついたグループ�
 このページは キャピタル損害保険株式会社 を対象とし、三菱 HC キャピタルグループ全体を対象とするものではない。保険会社の免許と商品ルートが重要な場合に用いるべきである。
 
 ## 事業上の役割マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, capital-sonpo.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; capital-sonpo.co.jp]
 
 | Route | Reading |
 |---|---|

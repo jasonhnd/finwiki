@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/hyundai-marine-fire-japan
-source_hash: 42bca127d29fb978
+source_hash: cb44ddc6c01987f8
 lang: en
 status: machine
 fidelity: ok
 title: "Hyundai Marine & Fire Japan / 現代海上火災保険"
-translated_at: 2026-06-15T03:48:21.882Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Hyundai Marine & Fire Japan / 現代海上火災保険
@@ -21,6 +21,8 @@ Hyundai Marine & Fire Japan is the Japan branch / entity route for Korea's Hyund
 This page covers the Japan non-life insurer row for 現代海上火災保険株式会社. It should not absorb the full Korean parent group or non-Japan insurance operations.
 
 ## Business Role Map
+
+The following table is scoped to public primary sources (fsa.go.jp, hdinsurance.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; hdinsurance.co.jp]
 
 | Route | Reading |
 |---|---|

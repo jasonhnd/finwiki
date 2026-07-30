@@ -10,8 +10,8 @@ aliases:
   - "全国農業信用基金協会連合会"
 domain: "policy-finance"
 created: 2026-05-21
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [policy-finance, agriculture-finance, credit-guarantee, ja-bank, public-credit, japan]
@@ -67,6 +67,8 @@ The guarantee system is therefore **a parallel public-credit infrastructure laye
 
 ## 3. 機関概要 — JAFFIC (農林漁業信用基金)
 
+The following table is scoped to public primary sources (maff.go.jp, jaffic.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:maff.go.jp; jaffic.go.jp]
+
 | 項目 | 内容 |
 |---|---|
 | 法的形態 | 独立行政法人 |
@@ -110,6 +112,8 @@ Guarantee fee schedule is set by each prefectural 農業信用基金協会 withi
 
 ## 7. Year evolution
 
+The following table is scoped to public primary sources (maff.go.jp, jaffic.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:maff.go.jp; jaffic.go.jp]
+
 | Year | Event |
 |---|---|
 | 1961 | 農業信用保証保険法 enacted; prefectural agriculture credit fund associations established. |
@@ -127,6 +131,8 @@ Guarantee fee schedule is set by each prefectural 農業信用基金協会 withi
 | 2025 | 担い手 succession + 法人化 priority — guarantee system aligned with corporate-farm / succession-driven structural reform. |
 
 ## 8. Comparison vs general SME credit guarantee system
+
+The following table is scoped to public primary sources (maff.go.jp, jaffic.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:maff.go.jp; jaffic.go.jp]
 
 | Dimension | Agriculture credit guarantee system | [[policy-finance/japan-credit-guarantee-system\|General SME credit guarantee system]] |
 |---|---|---|

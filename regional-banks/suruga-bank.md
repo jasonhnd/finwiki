@@ -3,8 +3,8 @@ title: スルガ銀行
 aliases: ["Suruga Bank", "株式会社スルガ銀行", "Suruga Bank Ltd.", "スルガ銀"]
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, post-scandal]
@@ -64,6 +64,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 | 2023-2024 | 中期経営計画「信頼回復・地域共創」フェーズ |
 
 ## 2. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (Wikipedia: スルガ銀行 (2026-05-19 抽出), スルガ銀行 第 213 期 (2025-03 期) 有価証券報告書, 金融庁業務改善命令 (2018-10-05)). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Wikipedia: スルガ銀行 (2026-05-19 抽出); スルガ銀行 第 213 期 (2025-03 期) 有価証券報告書; 金融庁業務改善命令 (2018-10-05)]
 
 | セグメント | 内容 | 特徴 |
 |---|---|---|

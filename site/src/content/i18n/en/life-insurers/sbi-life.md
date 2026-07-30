@@ -1,11 +1,11 @@
 ---
 source: life-insurers/sbi-life
-source_hash: 0bd16f1e52abfb65
+source_hash: 94e4544ba3db2b18
 lang: en
 status: machine
 fidelity: ok
 title: "SBI Life Insurance"
-translated_at: 2026-06-19T06:09:18.128Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # SBI Life Insurance
@@ -19,6 +19,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 SBI Life Insurance Co., Ltd. is a [[non-life-insurers/sbi-insurance-group]] / [[megabanks/sbi-hd]]-affiliated life-insurance operating company listed on the FSA life-insurance company license list. Within the SBI group's retail financial ecosystem that connects banking, securities, asset management, and insurance, it handles the underwriting boundary for insurance such as death protection and medical protection.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, sbilife.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; sbilife.co.jp]
 
 | Item | Notes |
 |---|---|

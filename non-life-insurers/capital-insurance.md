@@ -3,8 +3,8 @@ title: "Capital Insurance / キャピタル損害保険"
 aliases: ["キャピタル損害保険", "キャピタル損害保険株式会社", "Capital Insurance"]
 domain: non-life-insurers
 created: 2026-05-23
-last_updated: 2026-05-23
-last_tended: 2026-05-23
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-23
 confidence: likely
 tags: [JapanFG, non-life-insurance, corporate-group, public-source]
@@ -27,6 +27,8 @@ Capital Insurance is a licensed Japanese non-life insurer with public group-supp
 This page covers キャピタル損害保険株式会社, not the full Mitsubishi HC Capital group. It should be used when the insurance-company license and product route matter.
 
 ## Business Role Map
+
+The following table is scoped to public primary sources (fsa.go.jp, capital-sonpo.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; capital-sonpo.co.jp]
 
 | Route | Reading |
 |---|---|

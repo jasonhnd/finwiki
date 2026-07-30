@@ -1,11 +1,11 @@
 ---
 source: regional-banks/chikuho-bank
-source_hash: 7f4df9d6d26b7435
+source_hash: 0b45a5593737d767
 lang: en
 status: machine
 fidelity: ok
 title: "Chikuho Bank"
-translated_at: 2026-05-31T11:13:44.844Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Chikuho Bank
@@ -20,6 +20,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 Chikuho Bank, Ltd. is a regional bank with its main branch in Kurume City, Fukuoka Prefecture, listed on the Financial Services Agency's list of bank licenses. Fukuoka prefecture local / Chikugo-area regional-bank operating-company anchor, and is treated as a peer of a separate corporation from [[regional-banks/fukuoka-bank]] and [[regional-banks/nishi-nippon-city-bank]].
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, chikugin.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; chikugin.co.jp]
 
 |Item|Notes|
 |---|---|

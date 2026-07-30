@@ -1,11 +1,11 @@
 ---
 source: regional-banks/higashi-nippon-bank
-source_hash: d3b334feb9ceb771
+source_hash: 436cc9ce22791f7b
 lang: ja
 status: machine
 fidelity: ok
 title: "東日本銀行"
-translated_at: 2026-06-15T04:09:41.210Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 東日本銀行
@@ -20,6 +20,8 @@ translated_at: 2026-06-15T04:09:41.210Z
 株式会社東日本銀行 (The Higashi-Nippon Bank) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される東京都本店の第二地方銀行で、[[regional-banks/concordia-fg|コンコルディア・フィナンシャルグループ]] 傘下の operating bank。横浜銀行と経営統合した後も、都内中小企業向けの別法人 bank-license surface として残る。事業の中身は預金受入と中小企業・個人向け貸出という地方銀行の標準モデル。
 
 ## 1. ライセンス／グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, higashi-nipponbank.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; higashi-nipponbank.co.jp]
 
 | 項目 | 注記 |
 |---|---|

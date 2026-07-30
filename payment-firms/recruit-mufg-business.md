@@ -3,8 +3,8 @@ title: "リクルートMUFGビジネス"
 aliases: ["Recruit MUFG Business", "株式会社リクルートMUFGビジネス", "RMB", "COIN+", "エアウォレット"]
 domain: payment-firms
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, payments, wallet, funds-transfer, MUFG, Recruit]
@@ -29,6 +29,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it with 
 The company is strategically important because it combines Recruit's merchant / consumer service surfaces with MUFG banking rails. It is not a classic card issuer; it is an account-linked wallet / payment infrastructure route.
 
 ## 1. 法人・ライセンス境界
+
+The following table is scoped to public primary sources (recruitmufgbiz.co.jp, fsa.go.jp, recruit.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:recruitmufgbiz.co.jp; fsa.go.jp; recruit.co.jp]
 
 | Item | Reading |
 |---|---|

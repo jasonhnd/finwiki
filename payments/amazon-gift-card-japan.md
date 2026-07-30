@@ -8,8 +8,8 @@ aliases:
   - "Amazon prepaid Japan"
 domain: payments
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [payments, prepaid, gift-card, amazon, e-commerce, digital-prepaid, closed-loop]
@@ -34,6 +34,8 @@ This entry sits under [[payments/INDEX|payments index]] as the Amazon Japan gift
 **Amazon Gift Card (Amazonギフト券)** is the **closed-loop prepaid e-commerce credit** of Amazon.co.jp, issued in Japan by **Amazon Japan G.K. (アマゾンジャパン合同会社)** and registered as a 自家型 (single-merchant / closed-loop) 前払式支払手段 under the [[payments/funds-transfer-vs-prepaid-boundary|Payment Services Act prepaid framework]]. Distinct from [[payments/quo-card-prepaid|QUO Card]] and [[payments/visa-gift-card-japan|Visa Gift Card]] (both open-loop / multi-merchant), Amazon Gift Card is spendable **only on Amazon.co.jp** for marketplace purchases. Distribution rails span the **eGift digital code** (email, social-media delivery, customizable), **plastic gift cards** (sold at convenience stores Lawson / FamilyMart / MiniStop / 7-Eleven / drugstores), **チャージタイプ** (account-balance top-up at convenience-store register / Amazon site), and **box / envelope physical gift packaging**. The product is positioned for both **gift-giving** (digital / physical eGift to recipients) and **self-charge** (cardless Amazon.co.jp payment for users without credit card — particularly important for under-banked / minor / no-credit-card cohorts).
 
 ## Issuer and operational structure
+
+The following table is scoped to public primary sources (amazon.co.jp, fsa.go.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:amazon.co.jp; fsa.go.jp; meti.go.jp]
 
 | Dimension | Reading |
 |---|---|

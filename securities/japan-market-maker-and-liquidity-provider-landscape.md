@@ -12,8 +12,8 @@ aliases:
   - "Japan ETF AP liquidity provider"
 domain: securities
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [securities, market-structure, market-maker, HFT, liquidity-provider, JPX, designated-market-maker]
@@ -58,6 +58,8 @@ The post-2010 introduction of global HFT firms into Japan and the post-2013 TSE 
 ### Osaka Exchange derivatives market-maker scheme
 
 OSE operates a formal Market Maker (MM) program for listed derivatives, covering products such as:
+
+The following table is scoped to public primary sources (jpx.co.jp, fsa.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp; fsa.go.jp; jsda.or.jp; citadelsecurities.com]
 
 | Product | Market-maker relevance |
 |---|---|
@@ -203,6 +205,8 @@ HFT inventory and intraday positions require funding infrastructure:
 Financing cost is a meaningful competitive differentiator: a firm with cheap inventory financing can quote tighter spreads on lower turnover than a firm with expensive financing.
 
 ## Regulatory and self-regulatory framework
+
+The following table is scoped to public primary sources (jpx.co.jp, fsa.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp; fsa.go.jp; jsda.or.jp; citadelsecurities.com]
 
 | Layer | Role |
 |---|---|

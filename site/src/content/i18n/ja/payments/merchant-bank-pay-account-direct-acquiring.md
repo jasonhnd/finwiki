@@ -1,12 +1,12 @@
 ---
 source: payments/merchant-bank-pay-account-direct-acquiring
-source_hash: 27983ae81278b5c9
+source_hash: ab3abb0a2146ca1c
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本における加盟店向け銀行口座ダイレクトアクワイアリング"
-translated_at: 2026-06-26T08:32:07.540Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 日本における加盟店向け銀行口座ダイレクトアクワイアリング
 
@@ -15,6 +15,8 @@ translated_at: 2026-06-26T08:32:07.540Z
 このページは [[payments/INDEX|payments domain]]、[[payments/card-acquiring-japan-stack|Japan card acquiring stack]]、[[payments/psp-merchant-settlement-risk|PSP merchant settlement risk]]、[[payments/funds-transfer-vs-prepaid-boundary|資金移動 vs 前払式 boundary]]、[[financial-licenses/INDEX|JapanFG legal / financial licenses]] と合わせて使う。
 
 ## 加盟店ルートマップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（jeppo.jp, zengin-net.jp, cotra.ne.jp）の範囲に限定して読む。^[source:jeppo.jp; zengin-net.jp; cotra.ne.jp; fsa.go.jp]
 
 | ルート | 加盟店側からの読み方 | 主な管理上の問い |
 |---|---|---|
@@ -37,6 +39,8 @@ Bank Pay ガイドラインは、さらに接続事業者と再接続事業者�
 
 ## 管理マトリクス
 
+以下の表は、エントリ出典インベントリの公開一次資料（jeppo.jp, zengin-net.jp, cotra.ne.jp）の範囲に限定して読む。^[source:jeppo.jp; zengin-net.jp; cotra.ne.jp; fsa.go.jp]
+
 | 管理領域 | 公開情報上の重要性 |
 |---|---|
 | 加盟店審査 | 口座ダイレクトレールは銀行口座から資金を移動するため、業種、禁止商材、不正リスク、財務健全性が重要。 |
@@ -49,6 +53,8 @@ Bank Pay ガイドラインは、さらに接続事業者と再接続事業者�
 | 利用者説明 | 消費者は QR 決済を見ても、資金源が口座ダイレクト、ウォレット残高、カード、前払価値のどれかを理解していない場合がある。 |
 
 ## カードおよびウォレットのアクワイアリングとの比較
+
+以下の表は、エントリ出典インベントリの公開一次資料（jeppo.jp, zengin-net.jp, cotra.ne.jp）の範囲に限定して読む。^[source:jeppo.jp; zengin-net.jp; cotra.ne.jp; fsa.go.jp]
 
 | 論点 | 口座ダイレクト / Bank Pay / J-Debit | カードアクワイアリング / PSP | ウォレット / コード決済 |
 |---|---|---|---|

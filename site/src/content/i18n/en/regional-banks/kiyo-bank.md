@@ -1,11 +1,11 @@
 ---
 source: regional-banks/kiyo-bank
-source_hash: 85ed20c3d634067b
+source_hash: 784a1e4cef9df927
 lang: en
 status: machine
 fidelity: ok
 title: "The Kiyo Bank, Ltd."
-translated_at: 2026-06-19T12:43:19.926Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # The Kiyo Bank, Ltd.
 
@@ -42,6 +42,8 @@ A single bank based in Wakayama Prefecture (a regional bank with the rare restru
 
 ### Key chronology (excerpt)
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Year/Month | Event |
 |---|---|
 | **1895** | **Kiyo Bank founded** (Meiji 28, Wakayama) |
@@ -52,6 +54,8 @@ A single bank based in Wakayama Prefecture (a regional bank with the rare restru
 | 2022-04 | TSE market-segment review → TSE PRIME 8370 (migration from the former TSE First Section) |
 
 ## 2. Business segment map
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Segment | Main operator | Characteristics |
 |---|---|---|

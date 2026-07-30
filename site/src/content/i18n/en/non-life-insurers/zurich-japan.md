@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/zurich-japan
-source_hash: 7cc68ce076404045
+source_hash: 8ff9ee93ec4e6702
 lang: en
 status: machine
 fidelity: ok
 title: "Zurich Insurance Company (Zurich Japan)"
-translated_at: 2026-06-19T06:09:18.195Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Zurich Insurance Company (Zurich Japan)
@@ -43,6 +43,8 @@ Zurich Insurance Group AG（スイス、SIX: ZURN）
 
 ### Key history (timeline)
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Year/month | Event |
 |---|---|
 | 1872 | **Zurich Insurance** founded in Switzerland (starting from marine insurance) |
@@ -56,6 +58,8 @@ Zurich Insurance Group AG（スイス、SIX: ZURN）
 | 2020 年s | Under the medium-term strategy of the Zurich Insurance Group (customer-centricity, digital transformation), Japan also advanced UX improvement and digitalization of policy administration |
 
 ## 2. Business lines
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Segment | Main operator | Features |
 |---|---|---|
@@ -78,6 +82,8 @@ Zurich Insurance Group AG（スイス、SIX: ZURN）
 - **Global overseas-travel-insurance network**: Provides local assistance / medical-evacuation networks for Japanese travelers abroad via Zurich Assistance (a group function)
 
 ### Competitive landscape
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Competition type | Main competitors |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/rbc-japan
-source_hash: eb13f47b97b3e3ee
+source_hash: 052eed09814273e4
 lang: en
 status: machine
 fidelity: ok
 title: "カナダロイヤル銀行 東京支店"
-translated_at: 2026-06-18T23:59:13.104Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # カナダロイヤル銀行 東京支店
@@ -20,6 +20,8 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 Royal Bank of Canada, Tokyo Branch is the Japan banking branch of Royal Bank of Canada, listed in the FSA's foreign-bank-branch list. It is the banking side of the RBC Japan platform, alongside the RBC Capital Markets Japan securities branch, and handles transaction banking, treasury, deposits / structured deposits, derivatives, and institutional coverage.
 
 ## 1. License / branch boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, rbccm.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; rbccm.com]
 
 | Item | Notes |
 |---|---|

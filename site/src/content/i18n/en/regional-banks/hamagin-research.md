@@ -1,11 +1,11 @@
 ---
 source: regional-banks/hamagin-research
-source_hash: 1b7488c23d0700b6
+source_hash: 460735153bb46abe
 lang: en
 status: machine
 fidelity: ok
 title: "Hamagin Research Institute"
-translated_at: 2026-06-19T12:43:19.878Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Hamagin Research Institute
@@ -19,6 +19,8 @@ This entry sits under the [[regional-banks/INDEX|regional-banks INDEX]] as the F
 Hamagin Research Institute, Ltd. (株式会社はまぎん総合研究所, HRI) is a regional-bank-affiliated think tank, a consolidated subsidiary of [[regional-banks/yokohama-bank|横浜銀行]] (now a subsidiary of [[regional-banks/concordia-fg|横浜フィナンシャルグループ]]), providing Kanagawa Prefecture economic data, regional analysis, consulting for mid-tier companies, human-resource development, and economic forecasting. At a scale of establishment 1988-07-21・capital 1 億円・staff 157 名 (2025-10-01), it also wins research commissions from the Kanagawa prefectural government and municipalities. It is the core subsidiary for "regional-economy intelligence" in the regional-bank FG strategy. ^[extracted]
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (yokohama-ri.co.jp, yokohamafg.co.jp, boy.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:yokohama-ri.co.jp; yokohamafg.co.jp; boy.co.jp; chiginkyo.or.jp]
 
 | Item | Notes |
 |---|---|
@@ -53,6 +55,8 @@ Hamagin Research Institute, Ltd. (株式会社はまぎん総合研究所, HRI) 
 
 ## 4. KPI table
 
+The following table is scoped to public primary sources (yokohama-ri.co.jp, yokohamafg.co.jp, boy.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:yokohama-ri.co.jp; yokohamafg.co.jp; boy.co.jp; chiginkyo.or.jp]
+
 | Item | Overview | Source |
 |---|---|---|
 | Establishment | 1988-07-21 | Official company overview |
@@ -67,6 +71,8 @@ Hamagin Research Institute, Ltd. (株式会社はまぎん総合研究所, HRI) 
 > Note: For segment-level precise figures on revenue・number of commissions, etc., refer to the [[regional-banks/concordia-fg]] securities-report segment information / Hamagin Research Institute official site. The FY net assets recorded on Wikipedia are approximately 110 億円 scale.
 
 ## 5. Business segment map
+
+The following table is scoped to public primary sources (yokohama-ri.co.jp, yokohamafg.co.jp, boy.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:yokohama-ri.co.jp; yokohamafg.co.jp; boy.co.jp; chiginkyo.or.jp]
 
 | Segment | Characteristics |
 |---|---|

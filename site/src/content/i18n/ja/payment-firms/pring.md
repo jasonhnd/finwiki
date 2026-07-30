@@ -1,12 +1,12 @@
 ---
 source: payment-firms/pring
-source_hash: 720c1f1263320458
+source_hash: 8e875a14a975b3a6
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "pring"
-translated_at: 2026-06-26T08:31:59.836Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # pring
@@ -18,6 +18,8 @@ translated_at: 2026-06-26T08:31:59.836Z
 ## 要点株式会社pring（プリン）は、個人間送金（P2P）アプリとして知られた **資金移動業者**（資金移動事業者 under 資金決済法, FSA-supervised）。FSA 資金移動登録一覧では 関東財務局長第00050号として掲載。2021 年に **Google**（米 Google International）が大株主メタップス等から全株式を取得し子会社化したことで広く注目された。公開報道では、資金移動業の廃業（2026 年 8 月）と全サービス終了（2026 年 12 月）が予告されており、Google 子会社としては短命に終わる winding-down 事例として扱う。
 
 ## 1. ライセンス／グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（pring.jp, fsa.go.jp, itmedia.co.jp）の範囲に限定して読む。^[source:pring.jp; fsa.go.jp; itmedia.co.jp]
 
 | 項目 | 注記 |
 |---|---|

@@ -4,8 +4,8 @@ aliases: []
 domain: non-profit
 kind: knowledge
 created: 2026-04-22
-last_updated: 2026-05-18
-last_tended: 2026-06-24
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-09-22
 confidence: likely
 tags: [non-profit, research-grants]
@@ -29,6 +29,8 @@ This entry sits under [[non-profit/japan-general-foundation-establishment-requir
 > [[non-profit/japan-general-foundation-establishment-requirements|一般財団法人]] / 研究機関 / 公益目的の研究プロジェクトが狙える主要な助成金を一覧化。助成金額は年度ごとに変動するため「2026 年度」のスナップショットとして記録。
 
 ## 主要候補（2026 年度）
+
+The following table is scoped to public primary sources (taf.or.jp, suntory.co.jp, mitsubishi-zaidan.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:taf.or.jp; suntory.co.jp; mitsubishi-zaidan.jp; mhlw.go.jp]
 
 | 助成機関 | 1 件あたり | 応募期間 | 対象 | 特記 |
 |---------|-----------|---------|------|------|

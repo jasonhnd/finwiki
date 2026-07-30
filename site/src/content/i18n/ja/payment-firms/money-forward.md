@@ -1,11 +1,11 @@
 ---
 source: payment-firms/money-forward
-source_hash: 64fa0848ee70cb02
+source_hash: f857de8b5b633615
 lang: ja
 status: machine
 fidelity: ok
 title: "マネーフォワード"
-translated_at: 2026-06-02T14:54:39.074Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # マネーフォワード
 # 株式会社マネーフォワード (Money Forward)
@@ -36,6 +36,8 @@ translated_at: 2026-06-02T14:54:39.074Z
 - マネックス・AS Capital 等から初期出資受入
 
 ### 主要株主・資本提携 (時点変動あり)
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | 株主 | 概要 |
 |---|---|
@@ -79,6 +81,8 @@ translated_at: 2026-06-02T14:54:39.074Z
 
 ## 2. 事業セグメント・マップ
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | セグメント | 主要サービス | ターゲット | 競合 |
 |---|---|---|---|
 | 個人 PFM | マネーフォワード ME | 個人ユーザー (1500 万人超) | Zaim / OsidOri / 各銀行アプリ |
@@ -113,6 +117,8 @@ translated_at: 2026-06-02T14:54:39.074Z
 - **AS Capital 提携**: 創業期からの VC パートナー
 
 ### 競合と差別化
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | 競合 | 強み | マネフォとの差 |
 |---|---|---|
