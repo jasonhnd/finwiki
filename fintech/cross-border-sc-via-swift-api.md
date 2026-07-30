@@ -1,5 +1,5 @@
 ---
-title: 跨境 SC via SWIFT API —— Project Pax / Project Agorá 与 SWIFT 集成パターン
+title: クロスボーダー SC via Swift API — Project Pax の検証済み構成
 aliases:
   - "cross-border SC via SWIFT API"
   - "SWIFT API + blockchain settlement"
@@ -7,21 +7,18 @@ aliases:
   - "systems/swift-iso-20022-overview"
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-18
-last_tended: 2026-06-24
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-09-22
 confidence: likely
 tags: [fintech, stablecoin, cross-border, swift, tokenized-deposit, ibc, japan]
 status: active
 sources:
-  - https://www.swift.com/news-events/news/swift-completes-cbdc-sandbox-testing
-  - https://www.swift.com/our-solutions/swift-payment-controls
+  - https://www.datachain.jp/news/progmat-and-datachain-launch-project-pax
   - https://www.bis.org/about/bisih/topics/fmis/agora.htm
-  - https://www.boj.or.jp/en/paym/digital/index.htm
-  - https://www.smfg.co.jp/english/news_e/2023/
 ---
 
-# 跨境 SC via SWIFT API
+# クロスボーダー SC via Swift API
 
 
 ## Wiki route
@@ -29,84 +26,79 @@ sources:
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> 跨境 SC 普及最大の阻害は「銀行 workflow / AML/CFT との非互換性」。これを解く現代パターンは **SWIFT API を front-end に置き、blockchain settlement を back-end で実行する hybrid 構造**。Project Pax(Progmat + Datachain · 2024-09)と BIS Project Agorá がこの構造の代表実装。**TD(Tokenized Deposit) は SWIFT API 互換性で先行**、**SC は §501(d) 互操作 ライセンス次第で接続パターンが分岐**。
+> Project Pax は、Swift の API モック／シミュレーション環境に適応したクロスボーダー・ステーブルコイン送金基盤のプロトタイプを Progmat と Datachain が検証する構想として、2024-09-05 に公表された。公表資料が示すのは、銀行からの指図を想定する API 面と、IBC、LCP、共同開発したステーブルコイン・コントラクト、TOKI の流動性プールを使うクロスチェーン面である。商用稼働、特定銀行の本番接続、特定チェーンへの配備、受取銀行での最終着金は、この資料だけでは確認できない。^[https://www.datachain.jp/news/progmat-and-datachain-launch-project-pax]
 
 ## 基本パターン
 
 ```
-銀行([[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG/SMBC]] / Mizuho 等)
-       ↓ SWIFT MT103 / ISO 20022 メッセージ
-SWIFT API mock layer(Datachain)
-       ↓ 解析 → settlement instruction
-[[payment-firms/progmat|Progmat Coin]] contract(信託型 SC)
-       ↓ on-chain transaction
-IBC + LCP(cross-chain bridge)
+銀行からの指図を想定
        ↓
-Ethereum / Polygon / Avalanche / Cosmos
-       ↓ TOKI 流動性プールで cross-chain swap
-受信側銀行 → 受信側通貨で着金
+Swift API モック／シミュレーション環境に適応
+       ↓
+Progmat / Datachain 共同開発のステーブルコイン・コントラクト
+       ↓
+IBC + LCP によるクロスチェーン機能
+       ↓
+TOKI が提供する流動性プール
 ```
+
+この図は Datachain の 2024-09-05 発表に記載された検証構成だけを表す。メッセージ規格、参加銀行、配備チェーン、法的な発行類型、最終的な口座記帳を補ってはいけない。^[https://www.datachain.jp/news/progmat-and-datachain-launch-project-pax]
 
 ## なぜ SWIFT API を前面に置くのか
 
+下表は Progmat / Datachain の共同発表に記載された目的と検証範囲に限定する。規制承認や AML/CFT 適合を API 接続だけから推定してはいけない。^[https://www.datachain.jp/news/progmat-and-datachain-launch-project-pax]
+
 | 理由 | 内容 |
 |---|---|
-| **既存 workflow 保護** | 銀行内部システム / corporate ERP は SWIFT 前提で 50 年運用 |
-| **AML/CFT 互換** | OFAC / FATF Travel Rule は SWIFT で運用ノウハウ蓄積 |
-| **監督当局の安心** | FSA / 金融庁は SWIFT 経由なら審査済とみなしやすい |
-| **段階移行可能** | full on-chain は遠い未来 · SWIFT で銀行を巻き込み徐々に on-chain 比率を上げる |
+| **既存業務との連続性** | 銀行が利用する Swift の既存 API 枠組みから Progmat に指図する構想 |
+| **指図と価値移転の分離** | API モック／シミュレーション面とブロックチェーン上の送金面を分けて検証 |
+| **運用の重複を抑える狙い** | Project Pax は銀行の法定通貨送金オペレーションとの二重化と追加投資の抑制を目的に掲げる |
+| **検証可能な段階導入** | API mock / simulation と PoC で接続、規制、ウォレット利用等の論点を検証してから次段階へ進む |
 
-## TD vs SC の跨境パス分岐
+## 他の仕組みとの比較境界
 
-| 項目 | TD(JPM Kinexys / KDP)| 信託型 SC(Progmat / Project Pax)|
-|---|---|---|
-| 法的性質 | 銀行預金型 | 第 3 号 EPI 信託型 |
-| SWIFT API | **既存 SWIFT 直接利用** | SWIFT API mock layer 経由 |
-| Cross-border 商用化 | **既に $1.5T/月**(KDP)| 2026-H2 目標(遅延中)|
-| §501(d) 必須? | **不要**(TD は SC 規制外)| 必要(将来取得待ち)|
-| 互操作 partner | 米系 banking partner 既存 | アジア partner 確定不足 |
-| 利息 | 預金利息銀行帰属 | 信託受託報酬 |
-
-**含義**:Kinexys は TD path で **§501 規制を回避** しつつ商用化に到達済。Progmat は SC path で §501(d) tier を取らない限り Kinexys に cross-border 大口で構造的劣勢。
+Project Pax の発表は、銀行預金台帳や他社の決済ネットワークと「同じ機能」であること、またはそれらと競争関係にあることを立証しない。金銭の法的性質、運営主体、参加条件、稼働段階が異なる仕組みは、それぞれの直接資料で評価する。
 
 ## Project Pax の技術構成
 
+構成要素は 2024-09 の Progmat / Datachain 共同発表に基づく。発表は設計と実証目標であり、全チェーン・流動性・コンプライアンス機能の本番提供を意味しない。^[https://www.datachain.jp/news/progmat-and-datachain-launch-project-pax]
+
 | Layer | 構成要素 | 提供者 |
 |---|---|---|
-| Application | SWIFT API mock + corporate wallet | Datachain |
-| Settlement instruction | Progmat Coin contract | Progmat + Datachain |
-| Cross-chain | IBC + LCP middleware | Datachain(Hyperledger Lab)|
-| Liquidity | TOKI cross-chain pool | TOKI(Datachain 子会社)|
-| Chains | Ethereum / Polygon / Avalanche / Cosmos | 各 chain |
-| Compliance | OFAC / Travel Rule / KYC API | Progmat 共通 |
+| 銀行指図 | Swift API mock / simulation environment | Progmat / Datachain が検証 |
+| 送金基盤 | Progmat Coin 連携とクロスボーダー送金機能 | Progmat + Datachain |
+| Cross-chain | IBC + LCP middleware | Datachain |
+| 流動性 | Cross-chain conversion / transfer 用 pool | TOKI |
+| Stablecoin contract | Progmat / Datachain 共同開発 contract | Progmat + Datachain |
+| 金融機関レビュー | 実務・規制・運用論点の検証 | 共同発表が示す金融機関レビュー |
 
 ## BIS Project Agorá との比較
 
+両プロジェクトの公式発表に基づく比較。Agorá は Swift を含む40超の民間参加者を持つが、Project Pax の上位ネットワークとして設計されたものではない。^[https://www.datachain.jp/news/progmat-and-datachain-launch-project-pax; https://www.bis.org/about/bisih/topics/fmis/agora.htm; https://www.bis.org/innovation_hub/projects/agora_list_participants.pdf]
+
 | 項目 | Project Pax | BIS Project Agorá |
 |---|---|---|
-| 主導 | Progmat(民間 · 日本)| BIS(国際的 · 7 央行)|
-| 目的 | 日本発 SC を SWIFT に乗せる | 卸売 CBDC + commercial bank money 統合 |
-| Settlement asset | 信託型 SC | wholesale CBDC + TD |
-| 技術 | Avalanche L1 + IBC | Unified Ledger(BIS 設計)|
-| 商用 timeline | 2026-H2 | 2027+(実証段階)|
-| §501(d) との関係 | 個別 SC 互操作 | 主権ネットワーク基盤 |
+| 主導 | Progmat + Datachain | BIS + IIF + 8中央銀行 + 40超の規制金融機関 |
+| 目的 | Swift API 経由の指図とステーブルコイン送金を接続 | トークン化預金と中央銀行準備を使う卸売クロスボーダー決済 |
+| Settlement asset | 接続対象の民間ステーブルコイン | Tokenised commercial-bank deposits + tokenised central-bank reserves |
+| 技術 | API mock、IBC、LCP、stablecoin contract、TOKI pool | 預金の unifying layer と法域別の中央銀行準備 ledger |
+| 2026-07-30時点 | 日韓 Phase 2 の実証段階 | Prototype 完了、限定的 real-value testing へ進む計画 |
+| 関係 | 独立した民間実証 | 独立した公共・民間研究プロジェクト |
 
-**両者は補完関係**:Agorá は **国家間骨格** を作り、Pax は **個別 SC ↔ SWIFT の最後の1マイル** を解く。
+両者は目的、参加者、決済資産、検証段階が異なる。引用資料は、Agorá が Project Pax の基盤であること、Project Pax が Agorá の末端機能であること、または一方の実装が他方に依存することを示していない。
 
 ## 限界 / リスク
 
-- **§501(d) 通道未確立**:USDC 等米国合規 SC との直接 swap は現状不可
-- **遅延履歴**:Pax は 2025 末当初目標を達成できず → 技術リスク露見
-- **アジア partner 不足**:HK / SG / 韓国 counter-party 確定遅延
-- **SWIFT 依存**:SWIFT 自身が将来 ISO 20022 + onchain native に移行すれば mock layer が陳腐化
-- **JPM Kinexys との競合**:TD path で同種機能を既に商用化
+- **商用状態未確認**: Phase 2 実証の完了、料金、SLA、取引量は公式発表で確認する必要がある
+- **規制は別途必要**: Swift API 接続は発行、送金、販売、AML/CFT の認可を代替しない
+- **参加範囲**: 金融機関名や対象法域は、各段階の直接発表で確認する必要がある
+- **技術範囲**: メッセージ規格、配備チェーン、最終口座記帳は 2024-09-05 発表から推定しない
 
 ## 応用
 
-- 任何 "blockchain + 既存 banking workflow" 統合議論で参照可能
-- SWIFT 改革(ISO 20022 / GPI / GPI for Corporates)と SC の関係読み解き
-- アジア発の cross-border SC 設計議論(韓国 KRW1 · タイ Project Inthanon · シンガポール Project Ubin)
-- [[fintech/cosmos-ibc-for-financial-institutions|Cosmos IBC for FI]] と組み合わせて多 chain SC 移転設計
+- 「ブロックチェーン + 既存の銀行業務フロー」の統合を検討する際の事例
+- API 指図面とブロックチェーン価値移転面を分ける設計の確認
+- [[fintech/cosmos-ibc-for-financial-institutions|Cosmos IBC for FI]] と併せたクロスチェーン技術の比較
 
 ---
 
@@ -118,5 +110,10 @@ Ethereum / Polygon / Avalanche / Cosmos
 - [[fintech/cosmos-ibc-for-financial-institutions|Cosmos IBC for FI]]
 - [[fintech/stablecoin-crossborder-b2b-growth|Stablecoin Cross-border B2B 成长]]
 - [[fintech/central-banking-function-unbundling|央行职能解体五层]]
-- [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501 denylist]]
+- [[fintech/genius-act-501-denylist-mandate|GENIUS Act の実施状況]]
 <!-- /wiki-links:managed -->
+
+## Sources
+
+- [Datachain — Progmat and Datachain Launch Project Pax (2024-09-05)](https://www.datachain.jp/news/progmat-and-datachain-launch-project-pax)
+- [BIS — Project Agorá](https://www.bis.org/about/bisih/topics/fmis/agora.htm)

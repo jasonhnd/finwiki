@@ -1,123 +1,102 @@
 ---
 source: fintech/m0-network-infrastructure-update-2026
-source_hash: 8e32288c439548f5
+source_hash: 81f39a9a60c96335
 lang: ja
-model: local-ja-business-term-glossary
+model: manual-issue-239-provenance-repair
 status: machine
 fidelity: ok
-title: "M0  / M ネットワーク · 2026 インフラ更新 · M Bridge × Mexican Peso × USDM × 中立ミドルウェアの成熟期"
-translated_at: 2026-06-26T08:29:01.756Z
+title: "M0 / M Network · 2026 インフラ更新 · モジュール型ステーブルコイン基盤"
+translated_at: 2026-07-29T16:58:44.991Z
 ---
+# M0 / M Network · 2026 インフラ更新 · モジュール型ステーブルコイン基盤
 
-# M0  / M ネットワーク · 2026 インフラ更新 · M Bridge × Mexican Peso × USDM × 中立ミドルウェアの成熟期
+## TL;DR
 
-## 要約
-
-[[fintech/m-network-m0-neutral-infrastructure|M0(M^ZERO)]] は 2026 上半期に「初期段階の中立インフラ」から「**パートナー発行体向けミドルウェア**」段階に入り、同時に 3 つの新成長軸に賭ける:(1)**M Bridge** = M0 が Base / Arbitrum / OP / Unichain / Solana 間に提供するネイティブ相互接続層で、任意のパートナー発行体ステーブルコインが自然にマルチチェーンで共存可能;(2)**MXNBパイロット** = Bitso + Mercado Bitcoin 等の中南米参加者が M0 上でメキシコペソ・ペッグ・ステーブルコインを発行、初の非米ドルパートナーSC;(3)**USDM** = M0 自社の利回り付きラッパー、[[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] + 短期国債 + Re7 vault を直接保有し、パートナー発行体の利息分配を標準化。M0 は単なる「スイス銀行モデル」ではなく、**ステーブルコイン・ミドルウェア**へ —— [[fintech/frax-frxusd-defi-stablecoin|Frax frxUSD]] の「半コンプラ化」と [[fintech/world-liberty-usd1-political-stablecoin|World Liberty USD1]] の「政治型ブランド」と三極並立を形成する。
+M0 は単一の消費者向けステーブルコインブランドではなく、構築事業者と発行会社が独自ステーブルコインを構築するためのモジュール型基盤である。公式文書は、(1) アプリケーション固有の **Stablecoin Extensions**、(2) 規制対象の発行会社が担う発行 / 準備資産運用、(3) 共有流動性とクロスチェーン移転を扱う **Onchain Orchestration / M0 Portals** を区別する。従来このページにあった `USDM`、`MXNB pilot`、独自 `M Bridge`、特定の準備資産構成、時価総額、提携候補、ガバナンスしきい値などの 2026 数値は、引用されていた M0 一次資料から確認できなかったため削除した。
 
 ## ウィキ上の位置づけ
 
-この項目は[[fintech/INDEX|fintech index]]の配下に位置づけられる。創業時の仮説は[[fintech/m-network-m0-neutral-infrastructure|M0 中立インフラ基礎ページ]]と併読し、[[fintech/protocol-renewal-trigger-as-event-anchor|プロトコル・アップグレード・トリガー・イベントアンカー]]を使って2026 H1 のM Bridge / USDM展開ペースをモデル化する。
+この項目は [[fintech/INDEX|フィンテック索引]] の配下にある。[[fintech/m-network-m0-neutral-infrastructure|M0 中立インフラ基礎ページ]]、[[fintech/stablecoin-chain-token-strategy-trilemma|ステーブルコイン・チェーン・トークン戦略のトリレンマ]] とあわせて読む。
 
-## 主要事実（2026-05 スナップショット）
+## 検証済みアーキテクチャ
 
-- **トークン時価総額（M-anchored系列）** ~$1.05B（2026-04, 時点、$300Mだった2026-01から増加）。3 か月で3.5倍 ^[public-press]
-- **USDM 流通** ~$420M(2026-05);BUIDL 直接保有 ~$180M + 短期国債 $190M + 現金 $50M ^[issuer-docs]
-- **MXNBパイロット流通** ~$25M 相当(2026-05);Bitso がマッチング、Mercado Bitcoin が副発行体 ^[public-press]
-- **パートナー発行体名簿** 公開 6 社(欧州銀行子会社フィンテック 1、中南米マッチング側 2、日本信託型SCパイロット 1、米国RWAプロトコル 2 を含む);未公開 4-6 社がオンボーディング中 ^[public-press]
-- **M Bridge** 展開チェーン: Ethereum / Base / Arbitrum / Optimism / Unichain / Solana（後者はH2 稼働）^[issuer-docs]
-- **$M ガバナンストークン** 流通約 4.2 億枚、累積ガバナンス提案 ~37(2026-05)^[on-chain]
-- **監査とリスク管理** OpenZeppelin / Trail of Bits / Certora / Chainalysisによる継続監視 ^[issuer-docs]
-- **管理手数料** 発行体側 ~10-20 bps、BUIDL/USDY と同水準 ^[issuer-docs]
+[M0 アーキテクチャ概要](https://docs.m0.org/get-started/how-it-works) と [構築事業者向けガイド](https://docs.m0.org/build/overview/) が説明する現在の公開モデルは以下の通りである。
 
-## 2026 イベント・タイムライン
+1. **構築事業者 / アプリケーション層** — 構築事業者は、ブランド、移転規則、アクセス制御、報酬分配、コンプライアンスロジックを設定した Stablecoin Extension を構築する。
+2. **発行会社層** — 適格な金融機関が準備資産、発行 / 焼却、規制対応を担う。構築事業者は発行会社と提携し、自ら準備資産管理基盤を構築しない選択ができる。
+3. **共有流動性層** — M0対応トークンは、プラットフォームの変換 / オーケストレーション機構を通じて流動性を共有できる。
+4. **クロスチェーン層** — M0 Portals は Wormhole、Hyperlane、LayerZero のメッセージング / トークン移転フレームワークを利用する。したがって「汎用ブリッジを使わない独自の標準ブリッジ」という旧記述は誤りだった。
+5. **M トークン** — プロトコル文書は `$M` をエクステンションの基礎となる ERC-20 トークンと説明し、収益を得る残高 / 得ない残高の二方式を定義する。これはガバナンストークンと同義ではない。
 
-| 月 | イベント | 意義 |
+## 商品・役割マトリクス
+
+下表は [M0 概要](https://docs.m0.org/get-started/overview/)、[発行会社向け概要](https://docs.m0.org/issuers/overview)、[クロスチェーン文書](https://docs.m0.org/build/cross-chain) の役割分担を要約する。
+
+| 層 / 主体 | 検証済みの機能 | 意味しないこと |
 |---|---|---|
-| 2026-01 | USDM v1 mainnet | M0 自社利回りラッパー 稼働、発行体収益分配 を標準化 |
-| 2026-02 | M Bridge alpha（Base ↔ Arbitrum） | 単一M-anchored SCのクロスチェーンがLayerZero/CCIPに依存せず、自前のburn-mint正準ブリッジを持つ |
-| 2026-03 | MXNB pilot（Bitsoマッチング） | 初の非米ドルパートナーSCであり、[[fintech/em-market-crypto-dollarization-pattern|EM 市場の暗号ドル化パターン]]とは別軌道を開く |
-| 2026-04 | $M トークン・ガバナンス・アップグレード ER1 | 発行会社検証投票閾値を 51% から 67% に引き上げ、VC ガバナンス捕獲懸念に対応 |
-| 2026-04 | Re7 CapitalがUSDM後端vaultに参加 | 利回り付き構造をUSDM（カストディ型）+ sUSDM（DeFi再利用型）に分解 |
-| 2026-05 | M Bridge Optimism / Unichain | [[fintech/stablecoin-chain-token-strategy-trilemma|ステーブルコイン-チェーン-トークンのトリレンマ]]の「チェーン非依存」極と整合 |
-| 2026-Q3 計画 | Solana M Bridge + 第 7-9 パートナー発行体公開 | 拡大フェーズ |
-| 2026-Q4 計画 | $Mステーキング・エコノミクスの再評価 | [[fintech/sky-usds-decentralized-stablecoin|Sky USDS]]のDAO利回りルーティングと対比 |
+| 構築事業者 | アプリケーション固有のステーブルコインと規則を設計 | 構築事業者が自動的に規制対象の発行会社になるわけではない |
+| 発行提携先 | 許容される準備資産を保有し、管轄法域の下で発行 / 焼却を運用 | 一つの免許が世界各地での発行権限を生むわけではない |
+| Stablecoin Extension | M0 の基盤に対してラップ / アンラップできる独自トークン契約 | すべてのエクステンションの適格性や報酬が同一とは限らない |
+| Onchain Orchestration | 変換と流動性アクセスを調整 | 相手方、スマートコントラクト、規制上のリスクを除去しない |
+| M0 Portals | 明記されたメッセージング事業者を使い、対応ネットワーク間でエクステンションを移転 | ブリッジに依存しない独自決済網ではない |
+| `$M` | 収益を得る残高 / 得ない残高を持つ、担保に裏付けられたプロトコル構成要素 | 無関係な `$M` ガバナンストークン供給量の証拠ではない |
 
-## 仕組み / 3 層ミドルウェアのアップグレード
+## エクステンションのテンプレート
 
-**旧モデル（2025）= 単層中立インフラ**: M0 は準備金接続、スマートコントラクト・テンプレート、DAO検証を提供し、パートナー発行体が各自ブランドを保持する。問題は、利回り経路、クロスチェーン統一性、非米ドルSKUがなかったことである。
+公式の構築事業者向けガイドは、二つの中核テンプレートを説明する。
 
-**新モデル(2026)= 3 層 middleware**:
+- **Treasury（`MYieldToOne`）** — 発生した報酬は、指定された一つのトレジャリーアドレスへ流れる。
+- **Multi-Collateral（`JMI`）** — Treasury の機能を拡張し、USDC や USDT など、許可リストに登録されたステーブルコインを担保とする発行に対応する。
 
-1. **L1 準備金層（Reserve）**: [[fintech/blackrock-buidl-tokenized-mmf-overview|BUIDL]] / USTB / 米国国債 / 短期中銀預金に直接接続する。これはパートナー発行体が共有する金庫で、各社が個別にBlackRockとラインを交渉する必要がなくなった。
-2. **L2 資産層（M-anchored token + USDM）**: パートナー発行体はM-anchored tokenを「発行体ブランドSCの基盤」として使用し、USDMはM0 自社の利回りラッパーとしてリテール / DeFi向けに使う。**重要な違い**: パートナー発行体が得るのは「コンプラ・テンプレート」ではなく、すでに利回り接続済みの完成品であり、利息分配エコノミクス（[[fintech/stablecoin-revenue-split-economics|ステーブルコイン利息分配エコノミクス]]参照）がUSDM層で標準化済みである。
-3. **L3 クロスチェーン層（M Bridge）**: 同一発行体のSCがBase / Arbitrum / Optimism / Unichain / Solana間でデフォルトの正準burn-mint方式を使い、LayerZero / Wormholeなどの汎用ブリッジを経由しない。これにより[[fintech/protocol-renewal-trigger-as-event-anchor|プロトコル・アップグレード・トリガー・イベントアンカー]]の「アップグレード・イベント = 流動性再配分」レバーをM0 自身が回収する。
+独自の挙動も可能だが、M0 は標準テンプレートを超える変更に独立監査が必要だとしている。収益の獲得も自動ではない。`enableEarning()` を呼び出す前に、エクステンション契約がオンチェーン設定プロセスを通じて収益取得者の承認を得る必要がある。
 
-**MXNB pilot の特殊性**:Bitso(メキシコ最大の取引所)がマッチング、M0 がコンプラ・インフラを提供、メキシコペソ・ペッグ。これは M0 初の**非米ドル SC** 引受で、[[fintech/india-anti-dollar-dpi-alliance|India 反米ドル DPI 連盟]] と同じ思想 —— EM 国が米ドル SC に完全占領されないようにする。Mercado Bitcoin の副発行会社役は H2 に BRL 版が登場する可能性を示唆。MXNB の流通は依然極小($25M 相当)だが、**シグナル価値はサイズを大きく超える** —— M0 が同じインフラで非米ドル SKU を引き受けられることを実証。
+## ネットワークとブリッジの範囲
 
-## $Mトークン・エコノミクスとガバナンス
+M0の対応ネットワーク一覧は変化する。2026-07-30 の確認時点で、構築事業者向けガイドは Ethereum、複数の EVM ネットワーク、Solana を挙げている。現在の権威ある一覧は、このウィキに固定したチェーン数ではなく [公式コントラクトアドレスページ](https://docs.m0.org/resources/addresses) である。
 
-- **流通供給** ~4.2 億枚(2026-05、hard cap 10 億)
-- **保有構造** チーム / Foundation ~25%、投資家 ~30%、流通 / DAO Treasury ~45%
-- **効用**: (a) 発行体資格検証投票、(b) リスクパラメータ（LTV / 準備金構成 / チェーン選択）ガバナンス、(c) USDM後端vault収益分配、(d) 将来のステーキングによるM Bridge正準転送のセキュリティ
-- **ガバナンスリスク**: 投資家とチームの合計が初期投票権の約55%を持つ。2026-04 のER1 提案で発行体検証閾値を51%から67%へ引き上げたことは、「VC支配DAO」批判への重要な妥協である。
-- **MakerDAO MKRとの類推**: Greg Di PriscoがMakerDAOのリスクチーム・モデルを移植した。ただし$Mガバナンス参加の活性は、成熟DAO（MKR / UNI / AAVE）よりはるかに低い。
+[クロスチェーンページ](https://docs.m0.org/build/cross-chain) は次を記載する。
 
-## 他の 中立インフラ型SC との比較
+- Wormhole Native Token Transfer
+- Hyperlane general message passing
+- LayerZero Omnichain Fungible Token
 
-| 軸 | M0(M ネットワーク) | Frax frxUSD | World Liberty USD1 | Sky USDS | Bridge(Stripe) |
-|---|---|---|---|---|---|
-| ビジネスモデル | パートナー発行体向けミドルウェア | 自社ブランド + Fraxtal L2 取り込み | 政治型ブランドSC + 国債ナラティブ | 完全分散型 + Subdao分散 | 代行SC発行 + Stripe顧客ネットワーク |
-| 準備金 | BUIDL + USTB + 現金 | BUIDL + UST + 一部 RWA | 短期国債 + 国庫券 | DAI/USDS 複合準備 | 短期国債 + USDCバックストップ |
-| 中立性 | 高(自社ブランドの正面競争なし) | 中(自社ブランド frxUSD) | 低(政治色バインド) | 高(DAO ガバナンス) | 低(Stripe マーチャント・バインド) |
-| クロスチェーン | M Bridge canonical | Fraxtal L2 + CCIP | Ethereum限定 | CCTP / 汎用ブリッジ経由のマルチチェーン | Stripeオーケストレーション経由のクロスチェーン |
-| 規制ルート | §501 コンプラ・フレンドリー、MiCA EMT ルート開放 | §501 コンプラ境界 | 米国政治ナラティブ保護 | DeFi グレー | §501 コンプラ + Stripe ライセンス殻 |
-| 時価総額 | ~$1.05B | ~$1.2B | ~$2.6B | ~$8.5B | 管理対象 ~$2B |
-| 2026 トレンド | パートナー候補パイプライン加速 | BUIDL直接保有の深化 | ガバナンス透明度が争点 | DAOガバナンスが定常化 | 企業顧客の深耕 |
+この構造は、明示的なブリッジ依存を残しながら、構築事業者へ複数ネットワークへの到達手段を提供する。したがってセキュリティ審査は、M0 のコントラクトと選択したクロスチェーン事業者の双方を対象にする必要がある。
 
-**M0 とBridge（Stripe）の対抗が最も直接的**: 両社とも「代行ステーブルコイン発行」を行うが、Bridgeは[[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe Trojan Horse ルート]]でSCをStripe加盟店ネットワークに埋め込み、分配側をロックインする。M0 は複数発行体・複数チェーン対応の中立ミドルウェアで、分配側をオープンにする。中南米 / 日本 / 欧州第二線銀行パートナーというセグメントでは、M0 とBridgeはすでに正面接触を開始している。
+## 公開エコシステムのスナップショット
 
-## USDM 利回り経路の分解
+[M0 ダッシュボード](https://dashboard.m0.org/) は、稼働中のステーブルコイン数、供給量、移転量のスナップショットを確認する第一の公式画面である。これらの値は動的であり、利用時は日付を付す必要がある。構築事業者向け文書は M0活用発行会社 / 商品の例を挙げるが、プラットフォームページに名前があるだけでは、特定の通貨、準備資産構成、免許範囲、流通契約を証明しない。
 
-USDMはM0 自社の利回り付きラッパーであり、sDAI / sUSDe / sUSDSと同様の役割を持つが、M0 エコシステムのみに対応する。
+## デューデリジェンスのチェックリスト
 
-```
-リテール/DeFi ユーザー
-  ↓ USDC / USDT を預金
-USDM Mint(1:1)
-  ↓ M0 後端
-準備金Vault: BUIDL ~43% + USTB/短期国債 ~45% + 現金 ~12%
-  ↓ 収益分配
-USDM保有者 ~ 4.2-4.5% APY(管理手数料 + プロトコル取り分 控除後)
-M0 Foundation ~ 30-50 bpsの純取り分
-$Mステーカー ~ プロトコル取り分 の一部
-```
+M0活用トークンを規制対象の決済用ステーブルコインとして扱う前に、次を確認する。
 
-**sUSDM（DeFi-wrapped）**: USDMを二次パッケージ化し、Aave / Morpho / Pendleで再利用可能にする。[[fintech/circular-reserve-asset-flywheel-overview|循環準備資産フライホイール]]と接続し、同種の増幅ルートを形成する。Re7 Capitalが2026-04 にUSDM後端vaultへ参加し、利回りを「安定収益層（USTB/BUIDL）+ alpha層（Re7 strategy）」に分解した。これはUSDMが「受動的な利回り付き」から「能動運用型利回り」へアップグレードするキーポイントとなった。
+1. 法的な発行会社と管轄法域
+2. 準備資産方針とカストディ契約
+3. 償還資格、所要時間、最低額、手数料
+4. 残高が報酬を得るか、誰が受け取るか
+5. 各ネットワーク上の展開済みコントラクトアドレス
+6. ブリッジ / ポータル事業者と障害時の制御
+7. 標準および独自コントラクトコード双方の監査報告
+8. 収益取得者の承認を含む、現在のオンチェーン設定
 
 ## 関連項目
 
-- [[fintech/INDEX|FinWiki Fintech Index]]
-- [[fintech/m-network-m0-neutral-infrastructure|M0 / M Network 中立ステーブルコイン・インフラ基礎ページ]]
-- [[fintech/frax-frxusd-defi-stablecoin|Frax frxUSD 半コンプラ化ルート]]
+- [[fintech/INDEX|FinWiki フィンテック索引]]
+- [[fintech/m-network-m0-neutral-infrastructure|M0 / M Network 中立ステーブルコイン基盤]]
+- [[fintech/frax-frxusd-defi-stablecoin|Frax frxUSD 半コンプライアンス経路]]
 - [[fintech/world-liberty-usd1-political-stablecoin|World Liberty USD1 政治型ステーブルコイン]]
 - [[fintech/sky-usds-decentralized-stablecoin|Sky USDS 分散型ステーブルコイン]]
-- [[fintech/stablecoin-revenue-split-economics|ステーブルコイン利息分配エコノミクス]]
-- [[fintech/protocol-renewal-trigger-as-event-anchor|プロトコル・アップグレード・トリガー・イベントアンカー]]
+- [[fintech/stablecoin-revenue-split-economics|ステーブルコイン収益分配の経済性]]
 - [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL トークン化 MMF 概要]]
-- [[fintech/blackrock-buidl-sc-issuer-adoption|BUIDL SC 発行会社採用マトリクス]]
-- [[fintech/circular-reserve-asset-flywheel-overview|循環準備資産フライホイール]]
-- [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe Trojan Horse ルート]]
-- [[fintech/stablecoin-chain-token-strategy-trilemma|ステーブルコイン-チェーン-トークン戦略のトリレンマ]]
-- [[fintech/wall-street-crypto-network-neutrality|ウォール街暗号ネットワーク中立]]
-- [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]]
+- [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse|Stripe トロイの木馬経路]]
+- [[fintech/stablecoin-chain-token-strategy-trilemma|ステーブルコイン・チェーン・トークン戦略のトリレンマ]]
 
-## 出典
+## Sources
 
-- M0 Foundation 公式ホーム https://m0.org/
-- M0 ドキュメント https://m0.org/docs/
-- M0 ガバナンス・ポータル https://m0.foundation/governance
-- M ERC-20 コントラクトアドレス(Etherscan) https://etherscan.io/token/0x866a2bf4e572cbcf37d5071a7a58503bfb36be1b
-- "M ネットワーク Bitsoとのメキシコペソ・ステーブルコイン試験を公表" — CoinDesk, 2025-12 https://www.coindesk.com/business/2025/12/m-network-mexican-peso-pilot
-- "M Bridge: M0 がパートナー・ステーブルコインの正準クロスチェーンを握ろうとする理由" — The Block, 2026 https://www.theblock.co/post/m0-bridge-stablecoin-2026
- - Bain Capital CryptoによるM0 投資発表（2025） https://www.bain.com/about/media-center/press-releases/2025/bain-capital-crypto-m0/
+- M0 — About M0: https://docs.m0.org/get-started/overview/
+- M0 — Architecture overview: https://docs.m0.org/get-started/how-it-works
+- M0 — Build a stablecoin: https://docs.m0.org/build/overview/
+- M0 — Cross-chain: https://docs.m0.org/build/cross-chain
+- M0 — M token: https://docs.m0.org/protocol/m-token
+- M0 — Contract addresses: https://docs.m0.org/resources/addresses
+- M0 — Dashboard: https://dashboard.m0.org/

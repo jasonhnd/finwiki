@@ -11,10 +11,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/national-license-private-stablecoin-with-dpi-export.md",
   "raw_markdown_url": "https://finwiki.zksc.io/fintech/national-license-private-stablecoin-with-dpi-export.md",
   "domain": "fintech",
-  "title": "国家ライセンス型民間ステーブルコイン + DPI グローバル輸出戦略",
+  "title": "DPI とデジタル通貨輸出",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "国家ライセンス型民間ステーブルコイン + DPI グローバル輸出戦略",
+    "title": "DPI とデジタル通貨輸出 —— 検証済みレイヤーと民間ステーブルコイン仮説",
     "aliases": [
       "india ARC polygon",
       "national license private stablecoin",
@@ -24,10 +24,10 @@
     "domain": "fintech",
     "type": null,
     "created": "2026-05-16",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-06-24",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-09-22",
-    "confidence": "likely",
+    "confidence": "uncertain",
     "tags": [
       "fintech",
       "stablecoin",
@@ -43,52 +43,56 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=22329",
-      "https://polygon.technology/blog",
-      "https://www.npci.org.in/what-we-do/upi/product-statistics",
-      "https://www.mosip.io/",
+      "https://www.rbi.org.in/scripts/FAQView.aspx?Id=169",
+      "https://www.npci.org.in/product/upi/product-statistics",
+      "https://uidai.gov.in/en/ecosystem/authentication-ecosystem.html",
+      "https://www.mosip.io/mosip_project",
       "https://www.imf.org/en/Publications/fintech-notes/Issues/2023/06/29/Stacking-up-the-Benefits-Lessons-from-Indias-Digital-Journey-520125"
     ]
   },
   "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
   "headings": [
-    "国家ライセンス型民間ステーブルコイン + DPI グローバル輸出戦略",
+    "DPI とデジタル通貨輸出",
     "Wiki route",
+    "確認済みの構成要素",
+    "e₹ と UPI の関係",
+    "「国家ライセンス型民間ステーブルコイン」を検証する最低条件",
+    "分析上の利用範囲",
     "Related"
   ],
   "body_links": {
-    "wikilinks_count": 10,
+    "wikilinks_count": 7,
     "wikilinks": [
       "INDEX",
       "fintech/INDEX",
-      "fintech/aml-cft-fatf-grey-list-overview",
       "fintech/em-market-crypto-dollarization-pattern",
-      "fintech/india-anti-dollar-dpi-alliance",
       "fintech/japan-financial-regulation",
       "fintech/japan-stablecoin-regulatory-landscape",
-      "fintech/mbridge-bis-multi-cbdc-overview",
       "fintech/stablecoin-chain-sovereign-currency-divide",
       "fintech/three-circles-stablecoin-mra-framework"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX.md",
       "https://finwiki.zksc.io/ja/domains/fintech/",
-      "https://finwiki.zksc.io/ja/fintech/aml-cft-fatf-grey-list-overview/",
       "https://finwiki.zksc.io/ja/fintech/em-market-crypto-dollarization-pattern/",
-      "https://finwiki.zksc.io/ja/fintech/india-anti-dollar-dpi-alliance/",
       "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
       "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
-      "https://finwiki.zksc.io/ja/fintech/mbridge-bis-multi-cbdc-overview/",
       "https://finwiki.zksc.io/ja/fintech/stablecoin-chain-sovereign-currency-divide/",
       "https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 5,
+    "external_links": [
+      "https://uidai.gov.in/en/ecosystem/authentication-ecosystem.html",
+      "https://www.imf.org/en/Publications/fintech-notes/Issues/2023/06/29/Stacking-up-the-Benefits-Lessons-from-Indias-Digital-Journey-520125",
+      "https://www.mosip.io/mosip_project",
+      "https://www.npci.org.in/product/upi/product-statistics",
+      "https://www.rbi.org.in/scripts/FAQView.aspx?Id=169"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 3092,
-    "word_like_tokens": 515,
-    "inbound_wikilinks_count": 7,
-    "last_modified": "2026-06-24"
+    "nonspace_chars": 3723,
+    "word_like_tokens": 559,
+    "inbound_wikilinks_count": 6,
+    "last_modified": "2026-07-30"
   }
 }

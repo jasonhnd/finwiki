@@ -3,17 +3,19 @@ title: 組込み型ウォレット · Fintech が Web3 を逆食いする Trojan
 aliases: [embedded wallet fintech disintermediation stripe trojan horse, Stripe five layer collapse, fintech reverse disintermediation]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-26
-last_tended: 2026-06-24
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-08-08
 confidence: likely
 tags: [fintech, embedded-wallet, stripe, privy, bridge, tempo, trojan-horse, vertical-integration]
 sources:
-  - https://stripe.com/newsroom
-  - https://www.bridge.xyz/
-  - https://www.privy.io/
+  - https://stripe.com/in/newsroom/news/stripe-2025-update
+  - https://stripe.com/en-fr/newsroom/news/stripe-completes-bridge-acquisition
+  - https://privy.io/blog/announcing-our-acquisition-by-stripe
+  - https://privy.io/blog/privy-is-live-in-stripe-projects
+  - https://tempo.xyz/blog/introducing-tempo
   - https://tempo.xyz/
-  - https://stripe.com/use-cases/crypto
+  - https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol
 status: active
 ---
 
@@ -24,42 +26,44 @@ status: active
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> 組込み型ウォレットは Web3 が Fintech に浸透するのではなく · その逆 —— **Fintech が crypto をバックエンドに埋め込み · 5M+ 加盟店を crypto エントリーポイントに変え · ユーザーは「crypto user になる」必要がない**。Stripe 五層 collapse(L5 Checkout → L4 Privy → L3 Bridge USDB → L2 Tempo → L1 AP2/x402)はこの逆方向脱仲介化のサンプルアーキテクチャ · Privy は L4 で橋頭堡。
+> Stripe の公開情報は、決済、stablecoin オーケストレーション、組込み型ウォレット、決済特化チェーン、agent payment を組み合わせられることを示す。Stripe は 2025 年実績として、直接または platform 経由で利用する事業者が 500 万超と公表した。Bridge の買収完了は 2025 年 2 月、Privy の買収は同年 7 月、Tempo の公表は同年 9 月であり、現在 Tempo は mainnet 稼働を案内している。ただし、これは **全 Stripe 事業者が wallet、stablecoin、Tempo、AP2 / x402 を一体利用していることの証明ではない**。以下の「五層」は組み合わせ可能性を整理する分析モデルである。
 
 ## Key facts
 
-- Stripe 5M+ 加盟店 = 組込み型ウォレットのディストリビューション上限 ^[extracted]
-- Stripe 2025.06 同時に Privy(L4)+ Bridge(L3)を買収 = $2.2B の戦略支出 ^[extracted]
-- Tempo(L2)は Stripe + Paradigm が主導 · 2025 ローンチ ^[extracted]
-- クロスボーダー決済 USDC + Tempo = 5 秒 + ~0 fee(vs SWIFT 3 日 + $25) ^[extracted]
+- Stripe は 2025 年実績として、直接または platform 経由で利用する事業者が 500 万超と公表した。これは組込み型ウォレットの導入数や導入上限を意味しない。
+- Stripe は Bridge の買収を 2025 年 2 月に完了した。Privy は 2025 年 6 月に買収合意を公表し、Stripe の年次更新は同年 7 月の買収として記録している。両社を「2025 年 6 月に同時買収」した事実や、合計 22 億ドルという公表額は確認できない。
+- Tempo は Stripe と Paradigm が incubate した payments-first blockchain として 2025 年 9 月に公表され、公式サイトは現在 mainnet 稼働を案内している。
+- Tempo は sub-second finality と predictable low fees を設計目標として掲げるが、chain finality は cross-border payment の end-to-end settlement time と同義ではない。公式資料は「SWIFT 3 日・25 ドル」に対する「Tempo 5 秒・ほぼ無料」という普遍的比較を裏付けない。
+
+Source note: 上記 4 点は [Stripe 2025 annual update](https://stripe.com/in/newsroom/news/stripe-2025-update)、[Bridge 買収完了](https://stripe.com/en-fr/newsroom/news/stripe-completes-bridge-acquisition)、[Privy 買収合意](https://privy.io/blog/announcing-our-acquisition-by-stripe)、[Tempo 公表](https://tempo.xyz/blog/introducing-tempo)、[Tempo official site](https://tempo.xyz/) の直接開示に基づく。これらの資料が公表していない adoption、価格、end-to-end settlement の数値は推定しない。
 
 ## Mechanism / How it works
 
-**Fintech が Web3 を逆食いする 5 ステップ**:
+**公開情報で確認できる機能と境界**:
 
-| ステップ | 伝統的 fintech | 組込み型ウォレット改造後 |
+| ユーザー工程 | 公開情報で確認できる機能 | 検証上の境界 |
 |---|---|---|
-| ログイン | Stripe/PayPal アカウント | 同一ログイン · バックエンドで自動 wallet |
-| 入金 | 法定通貨 | 法定通貨 + USDC 無感 |
-| クロスボーダー | SWIFT 3 日 + $25 fee | USDC + Tempo 5 秒 · ~0 fee |
-| Agent 決済 | 非対応 | x402 + AP2 per-call USDC |
-| 収益分配 | 月次決済 | リアルタイム stablecoin |
+| ログイン / onboarding | Privy は embedded wallet を提供し、Stripe Projects から wallet を provision できる | wallet 作成条件、custody、recovery、同意設計は各 app の実装による |
+| 入出金 | Stripe / Bridge は fiat と stablecoin の orchestration を提供する | 対応資産、地域、fee、settlement は product と jurisdiction ごとに異なる |
+| cross-border payment | Tempo は stablecoin payment 向けに sub-second finality と predictable low fees を掲げる | chain finality は off-ramp や受取人着金を含む end-to-end 所要時間ではない |
+| agent payment | AP2 は payment-agnostic な open protocol で、A2A x402 extension も公表されている。Stripe は stablecoin micropayment を含む machine payment を案内する | AP2 / x402 の採用、authorization、資産、merchant acceptance、fee policy は個別実装による |
+| payout / revenue distribution | programmable stablecoin settlement を組み込める | 即時・常時・無料を保証せず、compliance、liquidity、off-ramp に依存する |
 
-→ ユーザーは「crypto user になる」必要がない · fintech が crypto をバックエンドに埋め込み · 加盟店は基盤チェーンを気にしなくてよい。
+→ crypto rail を backend に隠す UX は構築可能だが、ユーザーが chain を意識しないことや全工程が一社で自動化されることは、各 product の公開だけからは導けない。
 
 **Stripe 五層 collapse アーキテクチャ**:
 
-- **L5 アプリ**:Checkout · Connect · 5M+ 加盟店 · Stripe の既存本拠地
-- **L4 ウォレット**:[[agent-economy/privy-embedded-wallet-overview|Privy]] · 組込み型デフォルト · L5 加盟店に crypto エントリーポイントを無感で持たせる
-- **L3 stablecoin**:Bridge · USDB · L4 ウォレットの保有 + 送金キャリアを提供
-- **L2 チェーン**:Tempo · L3 stablecoin の高速性 + コンプライアンスを実現
-- **L1 agent プロトコル**:[[agent-economy/ap2-overview|AP2]] / [[agent-economy/x402-http-payment-overview|x402]] · agent が L2-L5 のフルスタックを自律調整
+- **L5 アプリ / distribution**: Checkout、Connect、および Stripe を直接または platform 経由で利用する 500 万超の事業者
+- **L4 wallet interface**: [[agent-economy/privy-embedded-wallet-overview|Privy]] の embedded wallet と Stripe Projects 連携
+- **L3 stablecoin orchestration**: Bridge による stablecoin infrastructure。特定の「USDB」を全 stack の既定資産とする公表は確認できない
+- **L2 payment chain**: Tempo。Stripe / Paradigm が incubate した独立した payments-first blockchain
+- **L1 agent protocol options**: [[agent-economy/ap2-overview|AP2]] / [[agent-economy/x402-http-payment-overview|x402]]。公開仕様を組み合わせ得るが、Stripe が両 protocol を所有し、五層を一体運用するという意味ではない
 
-Privy は L4 で Trojan horse —— L4 はユーザーが唯一直接触れるレイヤー · L4 を制御 = user identity + spending pattern + agent permission を制御 = 80 年代の Microsoft が Windows OS を制御したことと等価。
+この分類は product ownership や technical dependency をそのまま表す stack diagram ではなく、distribution から protocol までを確認するための分析用チェックリストである。Wallet interface は identity、authorization、recovery に近いため重要だが、Privy の利用だけで spending data や agent permission の排他的支配が成立するとは限らない。
 
 ## Origin & evolution
 
-2010-2020 = Stripe が L5 決済 SaaS のベンチマーク。2021-2023 = crypto に試水(USDC 入金) · だが依然として L5 + 第三者ブリッジ。2025.06 = Privy + Bridge を同時買収 · 垂直統合戦略を明示。2025-2026 Tempo ローンチ · L2 も自社化 · 五層 collapse 開始。2026-2027 予想 = 5M+ 加盟店のうち 5-10% が USDC + Tempo に切り替え · これが leading indicator。
+公開記録上の節目は、Bridge 買収完了（2025 年 2 月）、Privy 買収合意公表（同年 6 月）と Stripe による買収記録（同年 7 月）、Tempo 公表（同年 9 月）である。これらは隣接機能への展開を示すが、500 万超の事業者の 5–10% が 2026–2027 年に USDC / Tempo へ切り替えるという公開予測や実績は確認できない。今後の leading indicator は、wallet provision 数、active wallet、stablecoin volume、Tempo 上の実 settlement、地域別 availability を同じ期間・定義で追うことである。
 
 ## Related
 <!-- wiki-links:managed -->
@@ -73,4 +77,9 @@ Privy は L4 で Trojan horse —— L4 はユーザーが唯一直接触れる�
 
 ## Sources
 
-- Stripe Privy / Bridge 買収告知(2025.06)· Tempo ローンチ告知
+- [Stripe 2025 annual update（2026-02-24）](https://stripe.com/in/newsroom/news/stripe-2025-update) — 500 万超の事業者、Privy / Tempo、stablecoin と machine payment の公開状況。
+- [Stripe completes Bridge acquisition（2025-02-04）](https://stripe.com/en-fr/newsroom/news/stripe-completes-bridge-acquisition) — Bridge 買収完了日。
+- [Privy acquisition announcement（2025-06-11）](https://privy.io/blog/announcing-our-acquisition-by-stripe) — 買収合意時点と closing 条件。
+- [Privy is live in Stripe Projects（2025-10-15）](https://privy.io/blog/privy-is-live-in-stripe-projects) — Stripe Projects からの wallet provision。
+- [Introducing Tempo（2025-09-04）](https://tempo.xyz/blog/introducing-tempo) / [Tempo official site](https://tempo.xyz/) — incubator、設計目標、現在の network status。
+- [Google Cloud: AP2 announcement（2025-09-16）](https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol) — payment-agnostic protocol と A2A x402 extension。

@@ -24,8 +24,8 @@
     "domain": "fintech",
     "type": null,
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-06-23",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-09-21",
     "confidence": "likely",
     "tags": [
@@ -42,26 +42,28 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.fsa.go.jp/en/policy/sftl/index.html",
-      "https://progmat.co.jp/",
-      "https://www.mufg.jp/english/",
-      "https://www.smtb.jp/business/digital_assets/",
-      "https://elaws.e-gov.go.jp/document?lawid=418AC0000000108"
+      "https://www.fsa.go.jp/singi/kessaiseido_wg/siryou/20241121/1.pdf",
+      "https://www.fsa.go.jp/news/r7/sonota/20260522/20260522.html",
+      "https://www.fsa.go.jp/common/shinsei/dendai/dentori.html",
+      "https://elaws.e-gov.go.jp/document?lawid=421AC0000000059",
+      "https://elaws.e-gov.go.jp/document?lawid=418AC0000000108",
+      "https://elaws.e-gov.go.jp/document?lawid=416AC0000000154",
+      "https://progmat.co.jp/press/pdf/press231106_01.pdf"
     ]
   },
   "summary": "This entry sits under fintech index. Read it against 多巨行联合体治理 —— 复数 megabank 共同持有 fintech 基础设施的治理模式 for peer / contrast context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system / regulatory boundary.",
   "headings": [
     "日本信託型 SC 架構",
     "Wiki route",
-    "三型構造比較",
-    "信託型の構造的優位",
-    "§501(d) との関係",
-    "三型の市場分担(現状 2026)",
+    "発行ルート比較（金融庁資料の範囲）",
+    "信託型について確認できる構造",
+    "越境利用の証拠境界",
+    "商品・市場主張の確認マップ",
     "応用",
     "Related"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 8,
     "wikilinks": [
       "INDEX",
       "fintech/INDEX",
@@ -70,10 +72,7 @@
       "fintech/institutional-stablecoin-deposit-token-thesis",
       "fintech/japan-financial-regulation",
       "fintech/japan-stablecoin-regulatory-landscape",
-      "fintech/multi-megabank-consortium-governance",
-      "megabanks/mufg",
-      "megabanks/smfg",
-      "payment-firms/progmat"
+      "fintech/multi-megabank-consortium-governance"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX.md",
@@ -83,18 +82,22 @@
       "https://finwiki.zksc.io/ja/fintech/institutional-stablecoin-deposit-token-thesis/",
       "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
       "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
-      "https://finwiki.zksc.io/ja/fintech/multi-megabank-consortium-governance/",
-      "https://finwiki.zksc.io/ja/megabanks/mufg/",
-      "https://finwiki.zksc.io/ja/megabanks/smfg/",
-      "https://finwiki.zksc.io/ja/payment-firms/progmat/"
+      "https://finwiki.zksc.io/ja/fintech/multi-megabank-consortium-governance/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 6,
+    "external_links": [
+      "https://elaws.e-gov.go.jp/document?lawid=418AC0000000108",
+      "https://elaws.e-gov.go.jp/document?lawid=421AC0000000059",
+      "https://progmat.co.jp/press/pdf/press231106_01.pdf",
+      "https://www.fsa.go.jp/common/shinsei/dendai/dentori.html",
+      "https://www.fsa.go.jp/news/r7/sonota/20260522/20260522.html",
+      "https://www.fsa.go.jp/singi/kessaiseido_wg/siryou/20241121/1.pdf"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 3216,
-    "word_like_tokens": 543,
-    "inbound_wikilinks_count": 44,
-    "last_modified": "2026-06-23"
+    "nonspace_chars": 4511,
+    "word_like_tokens": 695,
+    "inbound_wikilinks_count": 43,
+    "last_modified": "2026-07-30"
   }
 }

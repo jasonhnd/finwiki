@@ -1,58 +1,82 @@
 ---
-title: ステーブルコイン公開チェーン token 戦略 3 状態ゲーム（発行 / 不発行 / 発行済み）
-aliases: [token trilemma, stablecoin chain token strategy, L1 token game theory]
+title: ステーブルコイン公開チェーンの token 戦略 —— 3 状態ではなく検証可能な設計軸で読む
+aliases: [token trilemma, stablecoin chain token strategy, L1 token design]
 domain: fintech
 kind: framework
 topic: stablecoin-chain-token-strategy-trilemma
 created: 2026-05-13
-last_updated: 2026-05-26
-last_tended: 2026-06-24
-review_by: 2026-08-08
+last_updated: 2026-07-30
+last_tended: 2026-07-30
+review_by: 2026-10-30
 confidence: likely
-tags: [fintech, blockchain, token, game-theory, framework]
+tags: [fintech, blockchain, token, framework, evidence]
 status: active
 sources:
-  - https://www.circle.com/en/arc
-  - https://www.base.org/
-  - https://tether.to/en/news/
-  - https://ethereum.org/en/
-  - https://solana.com/news
+  - https://help.coinbase.com/en/coinbase/other-topics/other/base
+  - https://docs.tempo.xyz/protocol/fees
+  - https://docs.tempo.xyz/learn/tempo/native-stablecoins
+  - https://www.sec.gov/Archives/edgar/data/1876042/000187604226000150/crcl-20260331.htm
+  - https://www.sec.gov/Archives/edgar/data/1876042/000187604226000205/crcl-20260629.htm
 ---
 
-# ステーブルコイン公開チェーン token 戦略 3 状態ゲーム
-
+# ステーブルコイン公開チェーンの token 戦略 —— 3 状態ではなく検証可能な設計軸で読む
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/stablecoin-revenue-split-economics|ステーブルコイン利息分配経済学]] and [[systems/cross-chain-five-pole-comparison-matrix|クロスチェーン 5 極比較マトリックス]].
 
 > [!info] TL;DR
-> ステーブルコインおよび決済公開チェーンの「native token を発行するか」の意思決定は、3 つの戦略均衡として現れる：**揺らぎ中（Base モデル）** / **明確な不発行（Tempo モデル）** / **発行済み（Arc モデル）**。それぞれの状態は異なる資本クラスター、規制 trade-off、時間ウィンドウ制約と紐づき、**一度選択すると 3-5 年は反転困難**である。
+> 決済チェーンの token 戦略は「発行する・しない・迷っている」という固定的な 3 状態だけでは説明できない。少なくとも、**gas 支払資産、コンセンサス資産、ガバナンス権、販売・配布段階、発行主体**を分けて確認する必要がある。2026 年 7 月 30 日時点の公式資料では、Base は ETH を gas に使い新規 network token の発行を現在計画していない。Tempo は native token を持たず、対応 stablecoin で手数料を払う。Arc は ARC token の private presale 契約を開示しているが、これは公開上場や完全配布と同義ではない。
 
-**3 状態意思決定マトリックス**：
+## 現在確認できる 3 事例
 
-| 次元 | 揺らぎ中 | 明確な不発行 | 発行済み |
+| Network | 公式資料で確認できる状態 | 手数料 / network asset | 開示上の注意 |
 |---|---|---|---|
-| 典型事例 | Base | [[fintech/protocol-hedge-strategy-stripe-pattern|Tempo]] | [[fintech/issuer-distributor-incentive-realignment-arc-strategy|Arc]] |
-| 結びつく資本 | リテール（airdrop 期待）+ 投資家（発行動作次第）| マーチャント + 伝統機関 | Wall Street 機関 |
-| 規制抵抗 | 中程度（親会社のステータス次第）| 最低 | 最高（token の定性次第）|
-| 短期キャッシュアウトウィンドウ | 中（将来の発行への賭け）| 0（10 年市場捕捉への賭け）| 高（プライベートラウンド + listing レバレッジ）|
-| 不可逆性 | 一度発行すれば撤回不可 | 一度不発行を約束すれば再発行困難 | 一度発行すれば回収不可 |
+| Base | Coinbase Help は「現在、新しい network token を発行する計画はない」と記載 | ETH が native gas token | 「現在の計画」であり、永久的な不発行契約とは確認できない |
+| Tempo | 公式 protocol docs は「Tempo has no native token」と明記 | USD 建ての対応 TIP-20 stablecoin で gas・priority fee を支払い可能 | native volatile token を持たない設計と、将来変更不能という約束は別 |
+| Arc | Circle は 2026 年 5 月に 7.40 億 ARC、同年 6 月に追加 6,750 万 ARC の private-placement 契約を開示 | ARC は将来の PoS / delegated-PoS 移行後の network coordination asset として説明 | presale 契約は token の公開上場、即時配布、移行完了を意味しない |
 
-**主要な洞察**：
+出典: [Coinbase Help — Base](https://help.coinbase.com/en/coinbase/other-topics/other/base)、[Tempo transaction fees](https://docs.tempo.xyz/protocol/fees)、[Tempo TIP-20](https://docs.tempo.xyz/learn/tempo/native-stablecoins)、[Circle 2026-Q1 Form 10-Q](https://www.sec.gov/Archives/edgar/data/1876042/000187604226000150/crcl-20260331.htm)、[Circle 2026-06-29 Form 8-K](https://www.sec.gov/Archives/edgar/data/1876042/000187604226000205/crcl-20260629.htm)。
 
-1. **3 状態すべてが安定均衡**であり、「明らかに優れた」戦略は存在しない —— 選択は親会社のステータス（上場企業 vs 私有 vs 規制ネイティブ）、資本市場のナラティブニーズ、規制ウィンドウの開閉に依存する。
-2. **時間的不可逆性**：Coinbase の上場企業ステータスは Base の初期段階で発行能力を制約したが、2025-09 SEC 訴訟取り下げ、Hester Peirce 就任後、当該ウィンドウは開いた。
-3. **ゲーム理論的含意**：N 社の競合のうち 1 社が突如戦略を変更した場合（例：Base が揺らぎから発行へ転換）、残りの状態は再計算を強いられる（Tempo は不発行を維持できるか？Arc は vesting を加速すべきか？）。
+## なぜ単純な「3 状態」では足りないか
 
-**トリガー条件**：
+同じ「token あり」でも、役割と成熟段階は異なる。
 
-- 親会社の財務圧力（純損失が token ナラティブによる評価額支持を必要とする）→ 揺らぎ → 発行
-- 規制ウィンドウが開く（SEC 訴訟取り下げ / 政権交代）→ 揺らぎ → 発行
-- キーパーソンの多重ステータスの切り分け → 不発行 → 揺らぎ（例：Matt Huang の 3 重ステータスが将来切り分けられれば、Tempo はその立場を再評価する可能性がある）
+1. **gas asset**：利用者が transaction fee を何で払うか。
+2. **validator / consensus asset**：validator が stake する資産は何か。
+3. **governance asset**：protocol 変更への投票権を何が持つか。
+4. **coordination / incentive asset**：network 参加者へのインセンティブを何で設計するか。
+5. **distribution state**：未発行、契約済み presale、delivery 済み、transfer 制限中、公開流通を区別する。
+6. **issuer and control**：運営会社、foundation、protocol governance のどこが発行・変更権限を持つか。
 
-**反例 / 例外**：Ethereum L2（Arbitrum / Optimism / zkSync 等）の多くは既に発行済みだが、ステーブルコイン・決済公開チェーンとの「内部化収入」動機は異なる。本フレームワークは**ステーブルコインネイティブ / 決済位置付け**の公開チェーンにのみ適用される。より広範なクロスチェーン比較は [[systems/cross-chain-five-pole-comparison-matrix|クロスチェーン 5 極比較マトリックス]] 参照。
+Arc の事例では、Circle の SEC 提出資料が private placement と将来の consensus 移行を開示している。購入者には移行日から最低 1 年の lock-up があり、2028 年 5 月 8 日までに token delivery や PoS / delegated-PoS 移行が完了しない場合などに repayment rights が生じ得る。したがって「発行済み」の一語で、販売契約、delivery、transferability、network 稼働をまとめて扱うべきではない。
 
+出典: [Circle 2026-06-29 Form 8-K](https://www.sec.gov/Archives/edgar/data/1876042/000187604226000205/crcl-20260629.htm)。
+
+## 検証フレーム
+
+network token の戦略を比較するときは、次の順に一次資料を確認する。
+
+| 検証項目 | 見る資料 | 記録すべき内容 |
+|---|---|---|
+| 手数料 | protocol specification | fee unit、利用可能資産、validator の受取資産 |
+| consensus | architecture / whitepaper / filing | 現行方式と移行条件 |
+| 発行 | issuer filing / token purchase agreement | 売却数量、価格、delivery 条件、返金条件 |
+| 移転 | purchase agreement / protocol rules | lock-up、vesting、transfer restriction |
+| governance | governance docs | proposal・vote・upgrade 権限 |
+| 現在の公式方針 | issuer / operator statement | 文言の日付と、「現在の計画」か拘束的約束か |
+
+出典: 比較対象の一次資料は [Base の公式説明](https://help.coinbase.com/en/coinbase/other-topics/other/base)、[Tempo fee specification](https://docs.tempo.xyz/protocol/fees)、[Circle SEC filing](https://www.sec.gov/Archives/edgar/data/1876042/000187604226000205/crcl-20260629.htm)。上表はこれらを横断して読むための分析手順である。
+
+## 分析上の境界
+
+- token の有無だけから、規制負担が「最低・最高」と順位付けすることはできない。法的評価は販売方法、権利、購入者、発行主体、利用法域に依存する。
+- private presale の調達額や implied fully diluted valuation は、network の利用価値や公開市場価格を保証しない。
+- 「no current plan」は更新可能な会社方針であり、10 年間の不発行コミットメントではない。
+- token 発行を親会社の損失、訴訟、特定人物の兼職に結び付けるには、当事者の直接開示が必要である。
+- 競合 1 社の変更が他社の token 発行を必然的に誘発するというゲーム理論上の均衡は、上記資料からは実証されていない。
+
+このため、本ページは「3 つの安定均衡」を主張するものではなく、公開資料から token 設計と distribution state を誤読しないための検証フレームとして扱う。
 
 ## Related
 <!-- wiki-links:managed -->
@@ -60,3 +84,11 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/ja
 - [[fintech/stablecoin-revenue-split-economics|ステーブルコイン利息分配経済学]]
 - [[fintech/usd-stablecoin-interchange|USD Stablecoin Interchange]]
 <!-- /wiki-links:managed -->
+
+## Sources
+
+- [Coinbase Help — Introducing Base](https://help.coinbase.com/en/coinbase/other-topics/other/base)
+- [Tempo — Transaction Fees](https://docs.tempo.xyz/protocol/fees)
+- [Tempo — TIP-20 Tokens](https://docs.tempo.xyz/learn/tempo/native-stablecoins)
+- [Circle 2026-Q1 Form 10-Q](https://www.sec.gov/Archives/edgar/data/1876042/000187604226000150/crcl-20260331.htm)
+- [Circle 2026-06-29 Form 8-K](https://www.sec.gov/Archives/edgar/data/1876042/000187604226000205/crcl-20260629.htm)

@@ -1,86 +1,65 @@
 ---
 source: fintech/enterprise-procurement-deadline-anchor
-source_hash: b7009faf7275a310
+source_hash: 15ff0531f659a86b
 lang: en
+model: manual-issue-239-provenance-repair
 status: machine
 fidelity: ok
-title: "Enterprise IT procurement budget lock-in"
-translated_at: 2026-06-18T23:59:13.110Z
+title: "Enterprise IT procurement timing · a buyer-specific verification framework"
+translated_at: 2026-07-29T16:57:02.166Z
 ---
-
-# Enterprise IT procurement budget lock-in
+# Enterprise IT procurement timing · a buyer-specific verification framework
 
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for peer / contrast context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system / regulatory boundary.
+This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech/japan-stablecoin-regulatory-landscape|Japan's three-tier stablecoin legal framework (JPYC, USDC and Project Pax)]] for peer / contrast context and [[fintech/japan-financial-regulation|Japan's financial regulation — legal framework for tokens, crypto-assets and payments]] for the broader system / regulatory boundary.
 
 > [!info] TL;DR
-> On the surface it is an event such as a "market deadline" or a "contract renewal date," but **the true driver is the enterprise IT procurement budget lock-in cycle.** Institutional buyers do not make decisions in real-time markets; they decide in budget cycles 6-12  months ahead. The real power of the **2026-08  Coinbase-Circle contract renewal** derives from the fact that it **corresponds to the 2027 年 fiscal-year enterprise procurement budget lock-in period.**
+> Large-scale IT procurement requires confirmation of budget, security review, legal review and implementation capability before purchase. There is, however, no universal deadline such as “every company uses Q3 to lock the next year's budget.” This entry is an analytical framework for working backward from each buyer's fiscal year, RFP and renewal date; it does not disclose an unpublished contracting schedule for any specific company.
 
 ## Mechanism
 
-Enterprise procurement budget cycle:
+Procurement timing should be checked against at least the following buyer-specific events.
 
-```
-Q3-Q4 [Year N]  = locks the [Year N+1] fiscal-year tech stack
-Q1-Q2 [Year N+1] = implementation
-Q3-Q4 [Year N+1] = evaluation + locks [Year N+2]
-```
+- Fiscal year and budget-approval date
+- Scheduled RFP, selection and contract-renewal dates
+- Review periods for security, legal, regulatory and audit requirements
+- Implementation time required for connection testing, migration, training and business-continuity testing
 
-**Implications**:
-- If a supplier is not "production-ready" by Q3 [Year N], it **misses the full-year [Year N+1] institutional procurement window**
-- The next window must wait until [Year N+2], **a delay of 1-2  years**
-- Regulation / audit / risk management have high "production-ready" requirements → alpha / testnet falls short of the bar
+The definition of “production-ready” also differs by buyer. Missing a milestone may defer a particular project to the next budget or renewal cycle, but public information alone does not support imposing a uniform quarter or number of years of delay. Whether an alpha / testnet is insufficient must likewise be checked against the acceptance criteria for the relevant project.
 
-## The stablecoin 2026  case
+## Stablecoin 2026 case
 
-**All the major players are concentrating their releases from 2026-05  into 2026-08 **:
-- Base Azul Rust 2026-05-13
-- [[fintech/issuer-distributor-incentive-realignment-arc-strategy|Arc]] private round 2026-05-11
-- [[fintech/protocol-hedge-strategy-stripe-pattern|Tempo Presto]] 2026-03-18
-- HK 9 社 license 2026-05-21
-- Bridge OCC conditional 2026-02
-- [[fintech/genius-act-501-denylist-mandate|GENIUS Act]] implementing rules 2026-Q3
-
-**They are not competing with each other. They are making it in time for the 2026-Q3  enterprise procurement budget lock-in.**
+A sales plan for stablecoin infrastructure should record the announced production date, audit-completion date, regulatory authorization, and customer RFP / renewal date separately. Even if announcements by several companies cluster in the same quarter, that alone does not establish a common procurement deadline.
 
 ## Explanatory power
 
-Why are all three chains "rushing to launch"?
-- Answer: **To get onto the enterprise RFP shortlist by 2026-Q3 **
-- Launching in Arc alpha status is already late → misses the 2027  full-year procurement window → can only get in for 2028 
-- The Base Rust rewrite launches precisely in 2026-05  → slips in at the final moment before the procurement window
-- Tempo Presto 2026-03  mainnet → gives enterprises 6  months of testing / integration time
+An explanation of launch timing should reconcile at least (1) the public roadmap, (2) evidence of production operation, (3) regulatory and audit conditions, and (4) the target customer's procurement calendar. If any one of these is missing, the causal relationship with a deadline remains a hypothesis.
 
-**This is the true implication of the 2026-08  chokepoint**:
-- Surface: automatic renewal of the Coinbase-Circle contract
-- Deep: missing the 2027  procurement window → the next showdown is carried over to 2028 
+## Applications / reuse
 
-## Application / transfer
+Use this framework in **any B2B infrastructure-market analysis** to ask about buyer-specific deadlines.
 
-**This framework should be applied to any B2B infrastructure market analysis**:
+The following table is not a set of fixed industry statistics; it is an illustrative checklist to validate in project interviews. For the principle of advance planning in public procurement, see [FAR Part 7](https://www.acquisition.gov/far/part-7). For private projects, prioritize each company's fiscal year and procurement rules.
 
-| Market | Procurement-window lock-in period |
+| Market | Illustrative planning checkpoints (verify for each buyer) |
 |---|---|
-| Enterprise cloud migration | Q3-Q4  locks the following year (AWS announces new products at the 12 -month re:Invent conference) |
-| ERP replacement | Q4  locks the following year (fiscal year begins in 1  or 4 ) |
-| Cybersecurity procurement | Q3  lock (RSA / Black Hat conferences are the nodes) |
-| Financial infrastructure | Q3-Q4  locks the following year (regulatory approval is usually Q1-Q2) |
-| AI platforms | Q4-Q1  lock (Gartner Magic Quadrant published in 12 ) |
-| Stablecoin / chains | Q3  lock (audit + regulatory approval) |
+| Enterprise cloud migration | Annual budget, existing-contract renewal, data-migration period, security review |
+| ERP replacement | Fiscal year, peak closing period, phased migration, audit and internal controls |
+| Cybersecurity procurement | Risk assessment, insurance renewal, regulatory examination, existing-product renewal |
+| Financial infrastructure | Regulatory approval, model review, connection testing, business-continuity testing |
+| AI platform | Data-use approval, model evaluation, procurement and legal review, existing cloud contract |
+| Stablecoin / chain | Issuance and intermediation eligibility, reserve assets, audit, integration testing, customer renewal date |
 
-**Reverse application = predicting product release timing**:
+**Reverse application = forecasting product-release timing**:
 
-When a B2B company becomes "production-ready," look at the procurement cycle of downstream customers. Examples:
-- Selling to fintech: Q1  release is optimal (B2C procurement + integration in 1  quarters)
-- Selling to enterprise: Q3  release is optimal (to make it in time for the following year's budget lock-in)
-- Selling to government: Q1-Q2  release is optimal (fiscal year begins in 10 )
+When a B2B company becomes “production-ready,” investigate its downstream customers' actual RFPs, renewal dates, fiscal years and implementation lead times. Do not fix an optimal quarter based only on the industry.
 
 ## Related
 
-- [[fintech/regulatory-window-strategic-acquisition|規制ウィンドウ前の戦略的買収]]
-- [[fintech/protocol-renewal-trigger-as-event-anchor|契約更新トリガー]]
-- [[fintech/central-banking-function-unbundling|中央銀行機能の解体五層]]
+- [[fintech/regulatory-window-strategic-acquisition|Strategic acquisition before a regulatory window]]
+- [[fintech/protocol-renewal-trigger-as-event-anchor|Contract-renewal trigger]]
+- [[fintech/central-banking-function-unbundling|Five layers of central-banking function unbundling]]
 
 ---

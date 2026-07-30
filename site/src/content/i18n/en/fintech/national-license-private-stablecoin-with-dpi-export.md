@@ -1,13 +1,13 @@
 ---
 source: fintech/national-license-private-stablecoin-with-dpi-export
-source_hash: d284317c177f3f44
+source_hash: 7353f599606f64c7
 lang: en
 status: machine
 fidelity: ok
-title: "National-Licensed Private Stablecoin + DPI Global Export Strategy"
-translated_at: 2026-05-31T07:28:06.182Z
+title: "Digital Public Infrastructure and Digital-Currency Export"
+translated_at: 2026-07-30T02:03:00+09:00
 ---
-# National-Licensed Private Stablecoin + DPI Global Export Strategy
+# Digital Public Infrastructure and Digital-Currency Export
 
 
 ## Wiki route
@@ -15,68 +15,46 @@ translated_at: 2026-05-31T07:28:06.182Z
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> India's ARC token × Polygon goes live in 2026 Q1  = the world's first **national-licensed private stablecoin + digital public infrastructure (DPI) global export** model: the government authorizes a single private issuer + integrates with UPI / MOSIP / Aadhaar + exports the full stack to emerging markets via G20  / bilateral agreements → an **anti-USD DPI alliance** narrative. This is the first executable route for emerging markets to counter the USDC / USDT-led structure.
+> India has verifiable digital public infrastructure in UPI and Aadhaar, as well as the RBI's digital rupee (e₹). By contrast, the primary sources from authorities and operators reviewed as of July 30, 2026 do not establish that “ARC token × Polygon” launched in 2026-Q1 as a government-authorized private stablecoin, that it was integrated with UPI, Aadhaar, or MOSIP, or that it would be exported to an anti-dollar alliance. This entry separates verified DPI from an unverified private-stablecoin concept.
 
-**3  core components**:
+## Verified components
 
-1. **National-licensed single issuer**: the government authorizes 1  private company (for India's ARC token, a specific consortium operates it)
-2. **DPI integration**: from day-1  the stablecoin connects to UPI (payments) + MOSIP (identity) + Aadhaar (KYC)
-3. **Global export stack**: exports the full stack to Africa / Latin America via G20  bilateral agreements (India has already signed DPI cooperation MOUs with 30+ countries)
+The table below is based on the [RBI e₹ FAQ](https://www.rbi.org.in/scripts/FAQView.aspx?Id=169), [NPCI UPI statistics](https://www.npci.org.in/product/upi/product-statistics), [UIDAI authentication information](https://uidai.gov.in/en/ecosystem/authentication-ecosystem.html), and [MOSIP's official description](https://www.mosip.io/mosip_project). Each layer has a different operator, legal character, and function; the layers do not automatically form one product.
 
-**Core differences (vs USDC / USDT)**:
+| Layer | Verified status | What this evidence alone does not establish | Source |
+|---|---|---|---|
+| UPI | A bank-account-based instant-payment interface operated by NPCI. Official statistics publish participating banks, volume, and value each month | That UPI is itself a blockchain or stablecoin | [NPCI](https://www.npci.org.in/product/upi/product-statistics) |
+| Aadhaar | India's identity infrastructure, administered by UIDAI. Authentication and eKYC are subject to law, consent, and authorized-entity requirements | That any private token can connect directly to Aadhaar | [UIDAI](https://uidai.gov.in/en/ecosystem/authentication-ecosystem.html) |
+| e₹ | A central bank digital currency issued by the RBI, with retail and wholesale pilots. e₹ and UPI are legally and functionally distinct | That it is a privately issued stablecoin or an ARC token on Polygon | [RBI](https://www.rbi.org.in/scripts/FAQView.aspx?Id=169) |
+| MOSIP | A modular open-source platform that countries can use to build foundational identity systems | That MOSIP is Aadhaar itself or the KYC infrastructure for an ARC token | [MOSIP](https://www.mosip.io/mosip_project) |
+| Private rupee stablecoin | A hypothetical layer examined by this entry | Government authorization, issuer, reserves, chain, launch date, or DPI integration | No primary source verified |
 
-| Axis | USDC / USDT | National-licensed + DPI |
-|---|---|---|
-| Peg currency | USD | Domestic fiat currency + regional settlement currency |
-| Issuer | Private (under US regulation) | Private, but under approval of its own government |
-| KYC | Separately handled on each platform | Directly connected to the national identity system |
-| Cross-border settlement | Via USD offshore system | Via DPI bilateral agreements |
-| Sanctions sensitivity | High (OFAC can freeze) | Low (domestic sovereignty) |
-| Global export | No national strategy | National-strategy layer |
+## Relationship between e₹ and UPI
 
-**India 3  steps (partially public)**:
+The RBI distinguishes e₹, a digital form of the rupee, from UPI, a payment method. Even where an e₹ wallet can scan a UPI QR code, the bank deposit behind UPI does not become e₹ and NPCI does not issue e₹. An assessment must separate:
 
-```
-Step 1 (2026 Q1): ARC token × Polygon mainnet launch
-  - Government-authorized consortium issues it
-  - Integrated with UPI / Aadhaar
-Step 2 (2026 H2): DPI bilaterals with emerging markets under the G20  framework
-  - Export stack to Africa (Nigeria, Kenya)
-  - Export stack to Latin America (interoperability with Brazil DREX)
-Step 3 (2027+): Joint statement of an anti-USD DPI alliance
-  - Interoperability with China's mBridge / Brazil DREX
-  - Forms a non-USD settlement ring covering about 35% of global GDP
-```
+- **Currency and obligor:** central bank money, a commercial-bank deposit, or a private issuer's liability.
+- **Access and identity:** the respective roles of UIDAI, banks or non-banks, and wallet providers.
+- **Payment message and settlement asset:** the UPI interface should not be confused with the e₹, bank deposit, or token that actually moves.
+- **What is exported:** software, standards, operational know-how, legal frameworks, and currency itself are different exports.
 
-**Generality / applicability**:
+## Minimum evidence for a “nationally licensed private stablecoin”
 
-- Brazil DREX (already partially implemented: two-track CBDC + private stablecoins)
-- Nigeria eNaira → transition to private stablecoins (a passive choice after eNaira's failure)
-- Saudi / UAE (regional AED / SAR stablecoins + Aramco push)
-- China (PBoC G20  signal → offshore CNH stablecoin pilot in Q4 2026 )
-- Emerging markets broadly where "strong government, weak private sector, on-chain domestic fiat, and strategic export are needed"
+Describing this model as a real project requires at least:
 
-**Counterexamples / boundaries**:
+1. issuer authorization or registration from the central bank or financial supervisor;
+2. law or product disclosure defining the issuer, redemption right, reserves, audit, and bankruptcy remoteness;
+3. issuer information tying the product to a chain and contract;
+4. confirmation of integration from the operators of UPI, Aadhaar, and MOSIP; and
+5. for cross-border use, a published agreement from authorities and operators in the destination country.
 
-- Countries with low government/private trust (Argentina, Turkey) → citizens still prefer USDT
-- Under US sanctions pressure, DPI global export could face pushback (DPI standards could be redefined by the IMF / World Bank)
-- If the relationship between the private issuer and the government becomes unstable, the model breaks down (Egypt, Pakistan risk)
-- Technical dependence on external L1 (Polygon / Solana) reduces sovereign independence
-- 
+Without that evidence, figures or policy claims such as “world first,” “single issuer,” “agreements with 30 or more countries,” “35% of global GDP,” or an “anti-US-dollar alliance” should not be treated as facts.
 
-**Valuation / decision implications**:
+## Permitted analytical use
 
-- Investment judgment: early participation in national-licensed issuers = lock in 5–10  years of policy rent
-- Strategic-buyer signal: a public chain like Polygon partnering with India = a long-term bind with national strategy
-- Geopolitical risk: national-licensed stablecoins + DPI export = a new battleground where China and the US compete for emerging markets
-- Regulatory dialogue: whether India's ARC token is accepted in [[fintech/aml-cft-fatf-grey-list-overview|IMF / FATF]] = key KPI for whether the model can scale
+Combining DPI and digital currency can be a subject of comparative research. However, India's e₹, Brazil's DREX, Nigeria's eNaira, and BIS mBridge differ in issuer, legal nature, participants, and implementation stage. Claims that a CBDC underperformed and caused a pivot to private stablecoins, that an external L1 was adopted, or that a non-dollar bloc is being formed should be added only after confirmation by the relevant authorities.
 
-**Difference from China's mBridge**:
-
-- [[fintech/mbridge-bis-multi-cbdc-overview|mBridge]] = CBDC multilateral interoperability ring (directly issued by central banks)
-- India ARC = state-authorized private stablecoin (private-sector efficiency + state backing)
-- Both share the same objective (non-USD settlement), but the route differs → future convergence or competition
-- For the full DPI-alliance picture, see [[fintech/india-anti-dollar-dpi-alliance|インド UPI / MOSIP DPI 連盟]]
+The [IMF's India Stack analysis](https://www.imf.org/en/Publications/fintech-notes/Issues/2023/06/29/Stacking-up-the-Benefits-Lessons-from-Indias-Digital-Journey-520125) examines the benefits and policy challenges of combining public layers such as identity, payments, and data exchange; it does not approve a particular private stablecoin. When assessing DPI export, track technical adoption, government cooperation, commercial deployment, and currency-bloc formation with separate evidence.
 
 
 ## Related
@@ -84,5 +62,5 @@ Step 3 (2027+): Joint statement of an anti-USD DPI alliance
 - [[INDEX|Wiki Index]]
 - [[fintech/stablecoin-chain-sovereign-currency-divide|ステーブルコイン 5 極地政学対立]]
 - [[fintech/em-market-crypto-dollarization-pattern|新興市場暗号ドル化]]
-- [[fintech/three-circles-stablecoin-mra-framework|三円 MRA アーキテクチャ]]
+- [[fintech/three-circles-stablecoin-mra-framework|US/EU/Japan stablecoin market-access comparison]]
 <!-- /wiki-links:managed -->

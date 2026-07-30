@@ -1,179 +1,141 @@
 ---
 source: fintech/jamaica-jam-dex-cbdc
-source_hash: d6cf1ad54e7b87a0
+source_hash: 7361ada5b10bd0d1
 lang: en
+model: local-same-language-sync
 status: machine
 fidelity: ok
-title: "Jamaica JAM-DEX — Bank of Jamaica retail CBDC, Lynk wallet adoption, eCurrency Mint vendor"
-translated_at: 2026-05-31T06:16:15.675Z
+title: "Jamaica JAM-DEX — 2025 official adoption snapshot, wallet providers, incentives"
+translated_at: 2026-07-30T02:06:00+09:00
 ---
 
-# Jamaica JAM-DEX — Bank of Jamaica retail CBDC, Lynk wallet adoption, eCurrency Mint vendor
+# Jamaica JAM-DEX — 2025 official adoption snapshot
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]] as the per-jurisdiction case study on **JAM-DEX (Jamaica Digital Exchange)**, the Bank of Jamaica's retail CBDC launched in 2022  — the third major small-economy retail CBDC after the Bahamas Sand Dollar (2020) and Nigeria eNaira (2021), and the most cleanly adopted of the three at the percentage-of-population level. Read it against [[fintech/bahamas-sand-dollar-cbdc|Bahamas Sand Dollar]] (longest-running peer; AFI distribution model), [[fintech/nigeria-enaira-retail-cbdc|Nigeria eNaira]] (adoption-failure case; Bitt vendor), and [[fintech/cbdc-adoption-curve-china-japan-eu-india-2026|CBDC adoption curve 2026]] for cross-jurisdiction positioning. For architecture context see [[fintech/cbdc-multi-tier-architecture-overview|CBDC 多层架构概览]], [[fintech/cbdc-multi-tier-architecture-three-paradigms|CBDC 三大现役范式]], and [[fintech/cbdc-multi-tier-architecture-tradeoffs|CBDC 架构选择 4 核心权衡]].
+This entry sits under [[fintech/INDEX|fintech index]] as the per-jurisdiction case study on **JAM-DEX (Jamaica Digital Exchange)**, Bank of Jamaica's retail CBDC. Read it against [[fintech/bahamas-sand-dollar-cbdc|Bahamas Sand Dollar]], [[fintech/nigeria-enaira-retail-cbdc|Nigeria eNaira]], and [[fintech/cbdc-adoption-curve-china-japan-eu-india-2026|CBDC adoption curve 2026]], but do not rank adoption without harmonised active-user and transaction datasets. Architecture context: [[fintech/cbdc-multi-tier-architecture-overview|CBDC 多层架构概览]], [[fintech/cbdc-multi-tier-architecture-three-paradigms|CBDC 三大現役范式]], and [[fintech/cbdc-multi-tier-architecture-tradeoffs|CBDC 架構選択 4 核心权衡]].
 
 > [!info] TL;DR
-> The Bank of Jamaica (BoJ) issued **JAM-DEX (Jamaica Digital Exchange)** as legal-tender retail CBDC on **2022-07** following an 8-month pilot in 2021. JAM-DEX is **legal tender by amendment to the Bank of Jamaica Act (passed 2022)** — making Jamaica one of the first jurisdictions to enact CBDC-specific legislation alongside launch (more legally explicit than the Bahamas and Nigeria, both of which used pre-existing currency-issuance authority). The defining distribution feature is **Lynk**, the wallet operated by NCB Financial Group subsidiary TFOB Limited, which reached **~200K-300K registered users** by 2024  — a higher penetration of adult population than either Sand Dollar or eNaira. Technology partner is **eCurrency Mint** (not Bitt — distinctly different vendor from Sand Dollar / eNaira / DCash). Government **incentive payments (J$2,500  sign-up bonus and merchant-acceptance subsidies)** funded the initial wallet enrolment surge. The programme is still substantially smaller than e-CNY or eRupee but is the **cleanest small-economy CBDC adoption case** of the four-plus comparable peer programmes.
+> Bank of Jamaica completed an eCurrency Mint-backed pilot from May through December 2021 and moved to phased national rollout in 2022; the 14 June 2022 amendment made CBDC legal tender and confirmed BoJ as sole issuer. The latest annual report currently published reports **305,026 registered wallet users at end-2025**, up 8.1% year on year, **J$260.1 million in circulation**, and two public wallet providers: Lynk and JN Pay. BoJ also states that usage and spending increased in 2025, but the report does not publish active-wallet, transaction-count, merchant-count, or cross-country-comparable penetration metrics. Therefore this page does not call JAM-DEX the best-adopted peer or infer active use from cumulative registrations.^[source:Bank of Jamaica Annual Report 2025, pp. 66-67; BoJ pilot and phased-rollout releases]
 
 ## Programme architecture
 
 ```
-                         Bank of Jamaica
-                                │
-                                ▼
-                       JAM-DEX (J$ retail CBDC)
-                                │
-       ┌────────────────────────┴────────────────────────┐
-       ▼                                                  ▼
-   Issuer (BoJ; legal-tender central-bank liability)   Technology partner
-                                                       (eCurrency Mint, USA;
-                                                        DSC2  platform)
-       │                                                  │
-       ▼                                                  ▼
-   Two-tier intermediated distribution               Wallet apps
-   (BoJ → Authorised payment-service                  - Lynk (NCB / TFOB) — dominant
-    providers (PSPs) + DTIs (deposit-taking            - JAM-DEX-enabled bank apps
-    institutions) → consumer wallets)
-       │
-       ▼
-   Tiered KYC
-   - Standard (BoJ-aligned J$ KYC tiers)
-   - Merchant tier
+          Bank of Jamaica
+                 │ issues / redeems JAM-DEX
+                 ▼
+      approved wallet-provider channel
+          ┌──────┴──────┐
+          ▼             ▼
+   NCB + TFOB/Lynk   JN Bank/JN Pay
+          │             │
+          └──── consumers / merchants ────┘
 ```
 
-## Matrix A · Statute, regulator, phase status
+The diagram reflects providers reported as public at end-2025. It does not imply that every PSP / DTI is a JAM-DEX wallet provider or that Lynk remains the only channel.
+
+## Matrix A · Statute, regulator, phase status ^[source:BoJ pilot completion; BoJ CBDC solution; BoJ 2022 phased-rollout release; BoJ Annual Report 2025]
 
 | Item | Detail |
 |---|---|
 | Lead authority | **Bank of Jamaica (BoJ)** |
-| Legal basis | Bank of Jamaica (Amendment) Act 2022  — explicit CBDC legal-tender authorisation |
-| Pilot phase | 2021-08  to 2022-04  (8-month pilot, primarily Kingston / urban) |
-| **Live launch** | **2022-07** — third major small-economy retail CBDC |
-| Technology partner | **eCurrency Mint** (US-headquartered; deployed via DSC2  platform) |
-| Underlying tech | Cryptographically secured digital symbols / hierarchical digital signatures (eCurrency Mint architecture; distinct from Hyperledger Fabric used by Bitt deployments) |
-| Wholesale CBDC | None — retail only |
-| Cross-border CBDC | None as of 2026-05; no [[fintech/mbridge-bis-multi-cbdc-overview|mBridge]] / [[fintech/bis-project-agora-overview|Agorá]] integration |
-| Legal-tender status | Yes — explicit in 2022  BoJ Act amendment |
+| Legal basis | Bank of Jamaica (Amendment) Act, Act 5 of 2022; amendments passed on 14 June 2022 expanded currency references to CBDC, made it legal tender, and confirmed BoJ as sole issuer |
+| Pilot | May–31 December 2021; NCB participated as the ready wallet provider |
+| National rollout | Phased rollout in 2022; BoJ does not identify a single official `2022-07 launch` date in the cited releases |
+| Technology partner | eCurrency Mint Inc. selected for the pilot and national rollout |
+| Source-layer technology | BoJ described the chosen issuance / mint / redeem solution as non-blockchain; wallet providers may use other technologies in their own networks |
+| Product scope | Retail Jamaican-dollar CBDC distributed through wallet providers |
+| Current official status | BoJ Annual Report 2025 reports year four of a five-year National Roll-Out plan |
 
-The **legal-tender amendment** is the cleanest legal structure of any small-economy retail CBDC. Nigeria issued eNaira under pre-existing currency authority; Bahamas Sand Dollar relied on a 2020  amendment of the CBOB Act; Jamaica went the furthest by passing a dedicated 2022  amendment specifically naming the digital Jamaican dollar as legal tender.
+The amendment is clear evidence of Jamaica's legal basis, but the page no longer ranks it as “cleaner” or “further” than Bahamas / Nigeria without a section-by-section legal comparison.
 
-## Matrix B · Design choices — wallet-first, incentive-driven, banked-population focus
+## Matrix B · Documented design and distribution ^[source:BoJ CBDC pages and FAQ; BoJ Annual Reports 2023-2025; JIS incentive notice]
 
-| Design choice | Detail | Why |
+| Design element | Documented detail | Evidence boundary |
 |---|---|---|
-| **Two-tier intermediated via PSPs and DTIs** | BoJ issues; consumers transact via Authorised Payment Service Providers (PSPs) and Deposit-Taking Institutions (DTIs) | Preserves the role of regulated intermediaries |
-| **Lynk as flagship wallet** | NCB Financial Group subsidiary TFOB Limited operates the Lynk wallet — by far the most-used JAM-DEX wallet | Concentrates wallet UX in a single high-quality consumer-facing app |
-| **Sign-up incentive — J$2,500  (~US$16) bonus** | Government / BoJ-funded one-time incentive for the first 100K consumer wallet enrolees (announced 2022-03) | Drove early wallet enrolment surge in the first weeks post-launch |
-| **Merchant subsidies** | Government-funded subsidies to incentivise small-merchant acceptance | Targets two-sided-market chicken-and-egg problem |
-| **Zero interest** | No yield on JAM-DEX balances | Same anti-disintermediation logic as peers |
-| **No transaction fees on consumer-to-merchant** | BoJ does not charge per-transaction fees | Encourages adoption |
-| **Account-based ledger** | Balances tied to identified wallets via PSP / DTI onboarding | AML/CFT-compatible |
-| **eCurrency Mint vendor (not Bitt)** | Architectural alternative to Bitt's permissioned-DLT model | Distinct technology lineage from Sand Dollar / eNaira / DCash |
-| **Direct central-bank liability** | JAM-DEX is BoJ liability | Differs from Japan DCJPY (deposit token, not CBDC) |
+| Issuance | BoJ issues JAM-DEX and supplies approved wallet providers | The report does not say every PSP / DTI distributes JAM-DEX |
+| Public wallets at end-2025 | NCB with TFOB through Lynk; JN Bank launched JN Pay in May 2025 | Provider count is a year-end snapshot, not wallet market share |
+| Consumer incentive | GOJ offered J$2,500 to the first 100,000 people opening JAM-DEX wallets after 1 April 2022; the threshold was reached by end-June | Registration incentive does not prove subsequent active use |
+| 2023 merchant incentive | J$25,000 for the first 10,000 qualifying small merchants plus a 2% consumer cashback programme under stated limits | BoJ Annual Report 2025 does not publish a causal effect estimate |
+| Monetary characteristics | JAM-DEX exchanges 1:1 with Jamaican notes / coins and does not pay interest | Wallet-provider terms and user eligibility remain implementation-specific |
+| Technology | eCurrency Mint supports the central issuance solution; BoJ says blockchain is not used at the source | Vendor choice alone does not determine adoption |
 
-The incentive-driven launch is the most controversial design choice. Government / BoJ funded the J$2,500  enrolment bonus and merchant subsidies to overcome the cold-start adoption problem. Critics argue this purchased headline-enrolment numbers without securing durable use; defenders point out that **active-use metrics by 2023-2024  grew beyond the initial incentive cohort**, suggesting some real demand was created by the introduction.
+The incentive programme can explain part of the cumulative registration jump, but no official active-wallet series is available here. Statements that incentives either “bought headline numbers” or generated durable demand are hypotheses requiring transaction-level retention data.
 
-## Matrix C · Adoption metrics (most recent public)
+## Matrix C · Adoption and circulation (end-2025) ^[source:Bank of Jamaica Annual Report 2025, Payment System section]
 
 | Metric | Most-recent public figure |
 |---|---|
-| Live status | **Live since 2022-07** (~3.5+ years) |
-| Registered wallets (cumulative) | ~200K-300K (Lynk-led, multiple public statements through 2024) |
-| **Active wallets** | Materially smaller than registered; public BoJ statements have not disclosed precise daily-active counts |
-| **Penetration vs adult population** | Several percent of adult population (~2M total adults) — **higher than Sand Dollar or eNaira on a population-percentage basis** |
-| Cumulative tx value | Modest in absolute terms; J$ billions cumulative over multi-year window |
-| Coverage | Nation-wide; Kingston / urban concentration |
-| Merchant acceptance | Several thousand merchants reported; concentrated in fast-food / retail / informal-sector pilots |
-| Cross-border CBDC | None |
+| Registered wallet users | **305,026**, +8.1% from end-2024 |
+| Total minted | **J$276.0 million** |
+| In circulation | **J$260.1 million** |
+| Held by public | **J$144.4 million** (55.5% of circulation) |
+| Held in wallet-provider digital vaults | **J$115.7 million** (44.5%) |
+| Public wallet providers | **2** — Lynk and JN Pay |
+| Usage direction | BoJ says overall usage and spending increased versus 2024 |
+| Active wallets / transaction count | Not disclosed in the cited annual report |
+| Merchant count | No end-2025 total disclosed; end-2023 report recorded more than 3,900 registered Lynk merchants |
+| Government use | TAJ pilot ran 9 April–22 May 2025 for selected services; online JAM-DEX payment remained available |
 
-The **Lynk wallet** dominates the JAM-DEX wallet ecosystem. NCB Financial Group's strategic decision to embed the JAM-DEX rail inside an already-marketed consumer payment app (Lynk) is the cleanest distribution-channel-ownership case among small-economy CBDCs — NCB is the largest commercial banking group in Jamaica, with strong existing consumer reach. This is structurally closer to the e-CNY model (where the PBoC leveraged the six state-owned commercial banks and the four big payment / telecom operators) than to the Bahamian AFI-interoperable pattern.
+The official data supports growth in registrations and circulation, but not a claim that JAM-DEX has higher active penetration than Sand Dollar or eNaira. Cross-country comparison requires the same date, active-user definition, merchant definition, transaction window, and population denominator.
 
-## Matrix D · Lynk wallet — the distribution-channel-ownership advantage
+## Matrix D · Wallet-provider evolution
 
 ```
-   Bank of Jamaica (BoJ)
-        │
-        ▼
-   NCB Financial Group (largest commercial banking group in Jamaica)
-        │
-        ▼
-   TFOB Limited (NCB subsidiary; consumer-fintech vehicle)
-        │
-        ▼
-   Lynk wallet (JAM-DEX-enabled consumer wallet + adjacent payment features)
-        │
-        ▼
-   ~200K-300K registered users + ~thousand+ merchants
+2022        Lynk is the first public JAM-DEX wallet
+2023-2024   Lynk remains the only provider offering JAM-DEX to the public
+May 2025    JN Bank launches JN Pay
+end-2025    two public providers; two additional banks targeted for later launch
 ```
 
-**Why this matters:** Lynk's penetration is the single largest determinant of JAM-DEX adoption. NCB Financial Group is the dominant Jamaican commercial bank by deposits and consumer reach; its strategic willingness to push JAM-DEX through Lynk solved the distribution-incentive problem that crippled eNaira (where DMBs / MMOs had limited incentive to push the CBDC over their own products). Lynk gave the BoJ a single anchor wallet with real consumer-marketing capability.
+The sequence shows that Lynk was the only public distribution channel through end-2024 and that provider diversity improved in 2025. It does not establish Lynk's current user share, that NCB is the “dominant” bank under a defined metric, or that distribution ownership caused better outcomes than eNaira / Sand Dollar. Those comparisons require provider-level active-use data.
 
-The contrast with eNaira is structural:
+## Matrix E · Government incentive design ^[source:JIS 2022 wallet incentive; Jamaica 2023 budget presentation; BoJ Annual Report 2023]
 
-- **eNaira**: many DMBs + MMOs, none particularly incentivised to push.
-- **Sand Dollar**: multiple AFIs, interoperable but small absolute base.
-- **JAM-DEX / Lynk**: one anchor wallet operated by the dominant commercial-banking group; aligned distribution incentive.
+The incentives below are documented programme terms; the `Observed evidence` column avoids claiming causality beyond the public record. ^[source:JIS 2022 wallet incentive; Jamaica 2023 budget presentation; BoJ Annual Reports 2023 and 2025]
 
-The **distribution-channel-ownership lesson** is the single most-cited finding from the four-pole small-economy CBDC comparison.
-
-## Matrix E · Government incentive design
-
-The Jamaican government / BoJ used three concrete subsidy levers to push initial adoption:
-
-| Subsidy | Detail | Effect |
+| Programme | Terms | Observed evidence |
 |---|---|---|
-| **Consumer enrolment bonus** | J$2,500  one-time payment to first ~100K wallet enrolees (announced 2022-03) | Drove the early registration surge; criticised as buying-headline-numbers |
-| **Merchant acceptance subsidies** | Subsidies to small-merchant acceptance enrolment | Built initial merchant footprint |
-| **Public-employee disbursement experiments** | Some public-sector pilot disbursements paid in JAM-DEX | Tested government-to-person (G2P) use case |
+| 2022 consumer wallet incentive | J$2,500 to first 100,000 eligible wallets opened after 1 April 2022 | Government reported 100% take-up by end-June 2022 |
+| 2023 small-merchant incentive | J$25,000 to first 10,000 qualifying merchants meeting onboarding / transaction conditions | Programme announced; no causal merchant-retention estimate in cited reports |
+| 2023-24 consumer loyalty | 2% cashback on JAM-DEX purchases up to the programme's monthly spending limit | Programme term disclosed; active-use effect not separately reported |
+| 2025 TAJ pilot | Selected property-tax, fitness-fee, and traffic-ticket payments; pilot 9 April–22 May | BoJ says online payment option remained available |
 
-These subsidies are **policy-tools widely available to peer CBDC programmes but not all deployed**. The Sand Dollar did not use comparable consumer enrolment bonuses; the eNaira did not use enrolment bonuses (and arguably should have, given the adoption gap). The Jamaican approach is the **most aggressive incentive-design** among small-economy retail CBDCs and is now studied as a possible template.
+The old comparison that Sand Dollar / eNaira used “none” and Jamaica was the most aggressive peer programme lacked a harmonised policy inventory and is removed.
 
-## Matrix F · Comparison to peer CBDCs
+## Matrix F · Peer-comparison evidence gate ^[method:compare primary central-bank datasets at a common snapshot]
 
-| Item | Jamaica JAM-DEX | [[fintech/bahamas-sand-dollar-cbdc\|Bahamas Sand Dollar]] | [[fintech/nigeria-enaira-retail-cbdc\|Nigeria eNaira]] | China e-CNY |
-|---|---|---|---|---|
-| Live launch | 2022-07 | 2020-10-20 | 2021-10-25 | 2020-04  (pilots) |
-| Issuer | Bank of Jamaica | Central Bank of The Bahamas | Central Bank of Nigeria | PBoC |
-| Legal-tender amendment | Yes (BoJ Act amendment 2022) | Yes (CBOB Act 2020) | No (under existing currency authority) | Yes (PBoC Law 2020) |
-| Distribution model | PSPs + DTIs; Lynk dominant | AFIs (interoperable) | DMBs + MMOs | 10  designated operators |
-| Technology vendor | **eCurrency Mint** (US) | Bitt Inc. (Barbados) | Bitt Inc. (Barbados) | Proprietary PBoC |
-| Enrolment incentive | **J$2,500  sign-up bonus** + merchant subsidies | None | None | None (state-led adoption push) |
-| Anchor wallet | **Lynk** (NCB / TFOB) | Multiple AFI wallets interop | eNaira Speed Wallet + DMB apps | AliPay / WeChat Pay integration + bank apps |
-| Active penetration | Several % of adult pop | Single-digit % of pop | <0.5% of adult pop | Single-digit-million daily-active out of 180M+ registered |
-| Status (2026-05) | Live; modest growth | Live (5+ years); slow growth | Live but de-emphasised | Live; mass-rollout phase |
+| Metric | Required common definition | JAM-DEX evidence available here |
+|---|---|---|
+| Launch / status | pilot, phased rollout, national availability, and production status separated | pilot May–Dec 2021; phased national rollout from 2022; still in five-year rollout during 2025 |
+| Registration | cumulative unique persons vs wallets/accounts | 305,026 registered wallet users at end-2025 |
+| Active use | daily / monthly active, observation window, duplicate handling | not published in cited report |
+| Transaction activity | count and value over same annual / monthly period | directional increase stated; exact 2025 count/value not published here |
+| Merchant acceptance | registered vs active merchants | no end-2025 total; more than 3,900 Lynk merchants at end-2023 |
+| Circulation | public holdings vs provider vaults vs minted total | J$144.4m public; J$115.7m provider vaults; J$276.0m minted |
+| Incentives | eligibility, amount, window, take-up, retention | programme terms and initial take-up available; retention effect absent |
 
-The **eCurrency Mint vs Bitt** vendor split is a quietly significant data point. The Bitt-vendor cluster (Sand Dollar, eNaira, ECCU DCash) has mixed-to-poor outcomes; the eCurrency Mint deployment (JAM-DEX) is the cleanest small-economy adoption case. This is not necessarily a vendor-capability story — distribution design dominates technology choice — but the pattern is worth noting in the CBDC-vendor-selection literature.
+Until equivalent fields are sourced for [[fintech/bahamas-sand-dollar-cbdc|Sand Dollar]], [[fintech/nigeria-enaira-retail-cbdc|eNaira]], and e-CNY, the former peer-ranking table is not reproducible. Vendor association also does not establish a causal `eCurrency Mint > Bitt` outcome.
 
 ## Origin and evolution
 
 ```
-2020-2021     BoJ internal work on retail CBDC; eCurrency Mint selected as technology partner
-2021-08       Pilot phase begins (8  months, primarily Kingston-area)
-2022-03       Pilot concludes; government announces J$2,500  enrolment-bonus programme
-2022-05       Bank of Jamaica (Amendment) Act 2022  passed — legal tender for JAM-DEX
-2022-07       JAM-DEX launched nation-wide; Lynk wallet goes live
-2022-08       First ~100K wallet enrolments; J$2,500  bonus disbursed
-2023          Merchant acceptance scales; Lynk dominates wallet share
-2023-2024     Continued growth; public BoJ statements emphasise gradual scaling
-2024-2025     JAM-DEX continues; wallet count grows past 200K Lynk users
-2025-2026     Live; modest organic growth post-incentive
+2021-03       eCurrency Mint selected
+2021-05—12    eight-month pilot; completed 31 December
+2022-03       GOJ announces J$2,500 / first-100,000-wallet incentive
+2022-06-14    Act 5 of 2022 amendments pass; CBDC becomes legal tender
+2022           phased national rollout
+2023           second incentive package; end-year registrations 263,341
+2024           end-year registrations 282,274; Lynk remains sole public provider
+2025-05        JN Pay launches as second public provider
+2025           end-year registrations 305,026; TAJ use case and POS work advance
 ```
 
-**Pattern**: launch was sequenced cleanly — pilot → legislation → incentive → wallet rollout. The Jamaican CBDC story is the **best-sequenced small-economy retail CBDC launch** in the public record. The structural lesson is that the cleanest sequence (legislative authority + anchor wallet + incentive) outperforms the fastest sequence (eNaira) or the longest-running sequence (Sand Dollar) on adoption-percentage terms.
+**Pattern**: pilot, legal amendment, incentive, and provider rollout are documented. Whether that sequence outperformed faster or longer-running peers cannot be concluded without the common metrics listed above.
 
 ## Comparison to private-rail alternatives in Jamaica
 
-Jamaica's private-rail digital-payment landscape:
-
-- **Commercial-bank apps** — NCB, Scotiabank Jamaica, BNS, JN Bank.
-- **Lynk** — TFOB / NCB, dual-purposes as JAM-DEX wallet and as a standalone payment app.
-- **Existing card / ATM rails** — Visa, Mastercard.
-- **Remittance** — large diaspora-flow component; MoneyGram, Western Union, JNMS Remit; USD-linked Lynk features and stablecoin alternatives (USDT-based remittance apps) are emerging.
-- **Crypto / USDT P2P** — modest in Jamaica relative to Nigeria; emerging.
-
-JAM-DEX's competitive runway is **less crowded** than Nigeria's (where Opay / PalmPay / Moniepoint already serve hundreds of millions of users) and **less mature** than Sand Dollar's (where the Bahamian banking system is highly developed). The combination — anchor wallet (Lynk) + dominant commercial-bank group (NCB) + legal-tender legislation + government incentive — is the **cleanest small-economy CBDC adoption stack** in the public record so far.
+JAM-DEX coexists with bank deposits, card / ATM rails, mobile wallets, cash, and remittance services. A competitive analysis should compare payment acceptance, fee, uptime, cash-in/out, identity requirements, merchant economics, and user activity. The former claims that Jamaica was less crowded than Nigeria, less mature than Bahamas, or had the cleanest adoption stack were not supported by a common market dataset and are removed.
 
 ## Related
 
@@ -194,11 +156,10 @@ JAM-DEX's competitive runway is **less crowded** than Nigeria's (where Opay / Pa
 
 ## Sources
 
-- Bank of Jamaica — institutional landing: https://boj.org.jm/
-- BoJ — CBDC / JAM-DEX project page: https://boj.org.jm/core-functions/currency/cbdc/
-- BoJ — JAM-DEX consumer / merchant pages: https://boj.org.jm/jam-dex/
-- Lynk wallet operator (TFOB / NCB Financial Group): https://lynk.us/
-- BIS Innovation Hub CBDC topic landing: https://www.bis.org/about/bisih/topics/cbdc.htm
-- BIS Working Paper No. 1116  — "The next-generation monetary system — a blueprint" (2024)
-- Bank of Jamaica (Amendment) Act 2022  — public-domain legislative text
-- BoJ public press releases on JAM-DEX launch and J$2,500  enrolment-bonus programme (2022)
+- [Bank of Jamaica Annual Report 2025](https://boj.org.jm/wp-content/uploads/2026/03/2025-BOJ-Annual-Report-final.pdf) — end-2025 wallet providers, registrations, minted / circulation balances, TAJ pilot, POS work。
+- [Bank of Jamaica Annual Report 2024](https://boj.org.jm/wp-content/uploads/2025/04/2024-BOJ-Annual-Report-final.pdf) / [Annual Report 2023](https://boj.org.jm/wp-content/uploads/2024/03/2023-BOJ-Annual-Report.pdf) — prior-year comparable figures and incentive programme details。
+- [BoJ — CBDC pilot completed（2021-12-31）](https://boj.org.jm/bojs-cbdc-pilot-project-a-success/) — pilot dates, participants, mint / issuance milestones。
+- [BoJ — CBDC solution](https://boj.org.jm/bank-of-jamaicas-cbdc-solution/) / [provider selection](https://boj.org.jm/boj-announces-cbdc-provider/) — eCurrency procurement and non-blockchain source-layer description。
+- [BoJ — JAM-DEX phased rollout progresses](https://boj.org.jm/jam-dex-phased-rollout-progresses/) / [legislation page](https://boj.org.jm/about-boj/legislation/) — 14 June 2022 amendment and legal-tender / sole-issuer status。
+- [Jamaica Information Service — J$2,500 wallet incentive](https://jis.gov.jm/2500-incentive-for-jamaicans-to-get-digital-wallet/) / [take-up update](https://jis.gov.jm/jamaicans-take-up-2500-incentive-to-sign-up-for-jam-dex/) — eligibility and first-100,000 threshold。
+- [BoJ — JAM-DEX CBDC landing](https://boj.org.jm/core-functions/currency/cbdc/) / [BIS Innovation Hub CBDC topic](https://www.bis.org/about/bisih/topics/cbdc.htm) — current official navigation and broader CBDC context。

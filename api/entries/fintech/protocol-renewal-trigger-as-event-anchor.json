@@ -11,23 +11,23 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/protocol-renewal-trigger-as-event-anchor.md",
   "raw_markdown_url": "https://finwiki.zksc.io/fintech/protocol-renewal-trigger-as-event-anchor.md",
   "domain": "fintech",
-  "title": "プロトコル更新トリガー —— 商業協業再構築とイベントアンカリング機構",
+  "title": "プロトコル更新トリガー —— 公開契約をイベントアンカーとして読む",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "プロトコル更新トリガー —— 商業協業再構築とイベントアンカリング機構",
+    "title": "プロトコル更新トリガー —— 公開契約をイベントアンカーとして読む",
     "aliases": [
       "protocol renewal trigger",
       "event anchor",
       "USDC agreement renewal",
-      "Coinbase Circle August 2026"
+      "Coinbase Circle agreement"
     ],
     "domain": "fintech",
     "type": null,
     "created": "2026-05-20",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-06-24",
-    "review_by": "2026-08-08",
-    "confidence": "certain",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
+    "review_by": "2026-08-19",
+    "confidence": "probable",
     "tags": [
       "fintech",
       "corporate-strategy",
@@ -39,58 +39,57 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.circle.com/en/usdc",
-      "https://investor.coinbase.com/financials/sec-filings/default.aspx",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001679788&type=10-K",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001876042&type=10-K",
-      "https://www.circle.com/en/blog"
+      "https://www.sec.gov/Archives/edgar/data/1876042/000187604226000062/coinbasecollaborationagree.htm",
+      "https://www.sec.gov/Archives/edgar/data/1679788/000167978826000047/coinbase2025ars.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1876042/000119312525070481/d737521dex102.htm",
+      "https://www.sec.gov/Archives/edgar/data/1679788/000167978826000015/exhibit101610kq42025.htm",
+      "https://www.sec.gov/Archives/edgar/data/1876042/000187604226000228/crcl-20251231.htm"
     ]
   },
   "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
   "headings": [
-    "プロトコル更新トリガー —— 商業協業再構築とイベントアンカリング機構",
+    "プロトコル更新トリガー —— 公開契約をイベントアンカーとして読む",
     "Wiki route",
-    "コアメカニズム",
-    "典型事例：2026-08 Coinbase-Circle 協定更新",
-    "商業応用と戦略選択",
-    "1. プロトコル主導側（チャネルを有するプラットフォーム側）",
-    "2. プロトコル被制約側（チャネル依存型の発行体側）",
-    "3. 外部の観察者および競合",
+    "公開契約で確認できる事項",
+    "2026 年 8 月 18 日が意味すること",
+    "イベントアンカーの検証手順",
+    "分析上の使い方",
+    "Sources",
     "Related"
   ],
   "body_links": {
-    "wikilinks_count": 10,
+    "wikilinks_count": 7,
     "wikilinks": [
       "INDEX",
       "fintech/INDEX",
       "fintech/enterprise-procurement-deadline-anchor",
-      "fintech/genius-act-501-denylist-mandate",
-      "fintech/issuer-distributor-incentive-realignment-50-50-model",
       "fintech/issuer-distributor-incentive-realignment-arc-strategy",
       "fintech/japan-financial-regulation",
       "fintech/japan-stablecoin-regulatory-landscape",
-      "fintech/regulatory-window-strategic-acquisition",
-      "fintech/stablecoin-revenue-split-economics"
+      "fintech/regulatory-window-strategic-acquisition"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX.md",
       "https://finwiki.zksc.io/ja/domains/fintech/",
       "https://finwiki.zksc.io/ja/fintech/enterprise-procurement-deadline-anchor/",
-      "https://finwiki.zksc.io/ja/fintech/genius-act-501-denylist-mandate/",
-      "https://finwiki.zksc.io/ja/fintech/issuer-distributor-incentive-realignment-50-50-model/",
       "https://finwiki.zksc.io/ja/fintech/issuer-distributor-incentive-realignment-arc-strategy/",
       "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
       "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
-      "https://finwiki.zksc.io/ja/fintech/regulatory-window-strategic-acquisition/",
-      "https://finwiki.zksc.io/ja/fintech/stablecoin-revenue-split-economics/"
+      "https://finwiki.zksc.io/ja/fintech/regulatory-window-strategic-acquisition/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 5,
+    "external_links": [
+      "https://www.sec.gov/Archives/edgar/data/1679788/000167978826000015/exhibit101610kq42025.htm",
+      "https://www.sec.gov/Archives/edgar/data/1679788/000167978826000047/coinbase2025ars.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1876042/000119312525070481/d737521dex102.htm",
+      "https://www.sec.gov/Archives/edgar/data/1876042/000187604226000062/coinbasecollaborationagree.htm",
+      "https://www.sec.gov/Archives/edgar/data/1876042/000187604226000228/crcl-20251231.htm"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 3634,
-    "word_like_tokens": 483,
-    "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-24"
+    "nonspace_chars": 4741,
+    "word_like_tokens": 649,
+    "inbound_wikilinks_count": 3,
+    "last_modified": "2026-07-30"
   }
 }

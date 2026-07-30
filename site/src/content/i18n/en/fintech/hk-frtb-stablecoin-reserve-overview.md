@@ -1,60 +1,79 @@
 ---
 source: fintech/hk-frtb-stablecoin-reserve-overview
-source_hash: c1346985e5ff1cb8
+source_hash: aace4bfa7feeb599
 lang: en
 status: machine
 fidelity: ok
-title: "HK FRTB Stablecoin Reserve Requirements · HKMA Reserve Framework"
-translated_at: 2026-05-31T06:16:15.686Z
+title: "HKMA Stablecoin Reserve Requirements · Boundary with FRTB"
+translated_at: 2026-07-30T02:03:00+09:00
 ---
 
-# HK FRTB Stablecoin Reserve Requirements · HKMA Reserve Framework
+# HKMA Stablecoin Reserve Requirements · Boundary with FRTB
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/hkma-stablecoin-licensing-overview|HKMA stablecoin licensing overview]], [[fintech/basel-iii-frtb-crypto-exposure-overview|Basel III FRTB overview]], and [[fintech/global-stablecoin-regulatory-five-pole-matrix|five-pole comparison]].
 
 > [!info] TL;DR
-> The reserve provisions of HKMA's 2025-08  stablecoin legislation constitute Asia's first stablecoin reserve framework aligned with the Basel III FRTB (Fundamental Review of the Trading Book) standard. Core requirements: 100% 1: 1  fiat reserve + Tier 1  assets (HKD/USD short-term government bonds + HKMA deposits) + third-party custody + monthly audit + paid-up capital HKD 100M+. Together with GENIUS §501 (≤93 -day T-bills) + MiCA EMT (≥30% bank deposits), these form the third differentiating coordinate in the three-circle architecture.
+> Hong Kong's Stablecoins Ordinance took effect on 2025-08-01. The HKMA supervisory guideline requires full backing; high-quality, highly liquid reserve assets; management of currency mismatch; segregation and trust protection; periodic independent attestation; annual audit; and minimum paid-up capital of HK$25 million. These are stablecoin-issuer rules, not a direct application of FRTB, the market-risk framework for a bank's trading book, to issuer reserves. The guideline's reference to the Banking (Capital) Rules concerns conditions under which certain debt securities qualify for a 0% risk weight under the standardized approach to credit risk; it is not synonymous with “FRTB SA applies.” ^[https://www.hkma.gov.hk/media/eng/doc/key-functions/ifc/stablecoin-issuers/Guideline_on_supervision_of_licensed_stablecoin_issuers_eng.pdf] ^[https://www.bis.org/bcbs/publ/d457.htm]
 
-## Key facts
+## Verified reserve requirements
 
-- HKMA stablecoin legislation: Stablecoin Ordinance adopted 2025-08  ^[extracted]
-- Capital threshold: HKD 100M+ (materially higher than MAS S$5M / MiCA EMT minimum capital €350K) ^[extracted]
-- Reserve bond maturity: ≤1  years (intermediate between GENIUS 93  days and MiCA's no restriction) ^[extracted]
-- Tier 1  stringency: aligned with Basel III FRTB Standardised Approach · first in Asia ^[extracted]
-- 100% 1: 1  fiat reserve (HKD-pegged or USD-pegged) ^[extracted]
-- Independent third-party custody (licensed TCSP/Trust) + monthly audit + quarterly public disclosure ^[extracted]
-- Bankruptcy-remote segregation ^[extracted]
-- e-CNY boundary demarcation: mainland China retail customers not accepted · hard political-balance clause ^[extracted]
+The following is based on the HKMA's final Supervisory Guideline, not a draft.
 
-## Mechanism / How it works
+- The market value of each stablecoin reserve pool must at all times be at least equal to the par value of the stablecoins in circulation.
+- An appropriate buffer above full backing must be maintained in light of the risks.
+- Eligible assets include cash, bank deposits with a term of no more than three months, specified marketable debt securities, receivables from eligible collateralized overnight reverse repos, a dedicated investment fund, or assets approved by the HKMA.
+- Marketable debt securities must satisfy conditions such as issuance or guarantee by governments or central banks, a remaining maturity of no more than one year, and high liquidity.
+- As a rule, the reserve currency must match the reference currency. An exception requires the HKMA's prior written approval.
+- Each reserve pool must be separated from other pools and the issuer's other assets and protected from claims by other creditors.
 
-**Core of the HKMA stablecoin reserve**: 100% 1: 1  fiat reserve (HKD / USD pegged) + Tier 1  asset composition (HKD cash + HKMA central-bank deposits + HKD/USD short-term government bonds ≤1  years + limited proportion of commercial paper) + independent third-party custody (licensed TCSP/Trust) + monthly audit + quarterly public disclosure + bankruptcy-remote segregation + HKD 100M+ paid-up capital.
+^[https://www.hkma.gov.hk/media/eng/doc/key-functions/ifc/stablecoin-issuers/Guideline_on_supervision_of_licensed_stablecoin_issuers_eng.pdf]
 
-**FRTB connection**: HKMA treats stablecoin reserves as analogous to bank trading-book assets → applies Basel III FRTB Standardised Approach (SA). Market-risk capital calculation covers: interest rate risk + currency risk + credit spread risk. This is the world's first regulatory design explicitly incorporating stablecoin reserves into the Basel capital framework. The implied USDC-vs-USDT premium logic arising from capital calculation flowing through to the bank end is addressed in [[fintech/basel-iii-frtb-crypto-exposure-implications|Basel III FRTB 戦略的含意]].
+## Disclosure, audit, and capital
 
-**Three-circle architecture comparison**:
-| Dimension | HKMA | GENIUS §501  | MiCA EMT |
-|---|---|---|---|
-| Reserve ratio | 100% 1: 1  | 100% 1: 1  | 100% 1: 1  |
-| Bond maturity | ≤1  years | ≤93 -day T-bill | No restriction |
-| Bank deposits | No cap | ≤50% cap | ≥30% floor |
-| Central-bank deposits | HKMA direct | Fed master account (contested) | National central bank |
-| Capital requirement | HKD 100M | Determined by OCC charter | EMI capital + ratio |
-| Capital framework | Basel III FRTB | Banking Act + PCAOB | CRR/CRD VI |
+- The issuer must prepare daily statements of the par value in circulation and the market value and composition of reserve assets, ready for submission at the HKMA's request.
+- Unless otherwise agreed with the HKMA, it must report the same information to the HKMA and update its website weekly.
+- A qualified independent external auditor acceptable to the HKMA must conduct periodic attestations, with reports submitted to the HKMA and published. The frequency is one accepted by the HKMA and should not be described uniformly as “monthly.”
+- The annual financial audit must cover the reserve assets.
+- Minimum paid-up capital is HK$25 million, or equivalent financial resources accepted by the HKMA. Additional capital may be required by an individual licence condition.
 
-## Origin & evolution
+^[https://www.hkma.gov.hk/media/eng/doc/key-functions/ifc/stablecoin-issuers/Guideline_on_supervision_of_licensed_stablecoin_issuers_eng.pdf]
 
-HKMA initiated stablecoin consultation in 2022-12 ; the second consultation paper in 2023-12  established a sandbox (ZA Bank / Standard Chartered / HSBC / Animoca × HKT consortium); the Stablecoin Ordinance was adopted in 2025-08 . In 2026-04 , HKMA's Consultation Paper "Capital treatment for licensed stablecoins" directly cited BCBS SCO60  as the parent standard. First licence decision 2026-05-21: of 9 社 applications, only 2 件 were in fact approved (HSBC + StanChart Anchorpoint); for strategic implications see [[fintech/hkma-stablecoin-licensing-implications|HKMA ライセンス戦略的含意]]. For Asia / global cross-comparison see [[exchanges/global-vasp-regulatory-comparison-matrix|グローバル VASP 規制比較マトリクス]].
+## Requirements map
+
+The table maps the final guideline's reserve, reporting, and capital provisions against the boundary of FRTB. ^[https://www.hkma.gov.hk/media/eng/doc/key-functions/ifc/stablecoin-issuers/Guideline_on_supervision_of_licensed_stablecoin_issuers_eng.pdf] ^[https://www.bis.org/bcbs/publ/d457.htm]
+
+| Topic | HKMA stablecoin-issuer rule | Relationship to FRTB |
+|---|---|---|
+| Full backing | Maintain reserve market value at or above par value at all times | Not an application of FRTB to the issuer reserve itself |
+| Marketable debt securities | Eligibility conditions include a remaining maturity of no more than one year and a 0% credit-risk weight | Do not confuse a credit-risk eligibility reference with an FRTB market-risk charge |
+| Currency risk | As a rule, reserve currency and reference currency must match | A mismatch is an issuer risk-management issue |
+| Independent assurance | Periodic attestation and annual audit | Separate from a bank trading-book capital calculation |
+| Minimum capital | HK$25 million or equivalent, with possible additional conditions | The earlier HK$100 million claim was incorrect |
+
+## Why this is not FRTB
+
+FRTB is the Basel Committee's reform of trading-book market risk and governs banks' market-risk capital. The HKMA stablecoin guideline governs reserve quality, liquidity, custody, redemption, and governance for a licensed issuer. Prudential rules may separately apply to a bank acting as reserve custodian, deposit taker, or asset holder, but that does not make the entire issuer reserve regime an “FRTB framework.”
+
+The earlier descriptions “Asia's first FRTB-aligned stablecoin reserve,” “HKMA treats reserves as a trading book,” and “April 2026 FRTB consultation” were withdrawn because the cited official sources did not establish them.
+
+## Correction to the licensing date
+
+The HKMA's 2025 Annual Report records that the regime took effect on 2025-08-01 and that the first two issuer licences were announced in April 2026. This entry does not use the earlier 2026-05-21 date or the claim that two of nine applications were approved. ^[https://www.hkma.gov.hk/media/eng/publication-and-research/annual-report/2025/16_International_Financial_Centre.pdf]
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
 - [[fintech/hkma-stablecoin-licensing-overview|HKMA ステーブルコイン・ライセンス概観]]
 - [[fintech/basel-iii-frtb-crypto-exposure-overview|Basel III FRTB 概観]]
-- [[fintech/three-circles-stablecoin-mra-framework|三円 MRA フレームワーク]]
-- [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]]
+- [[fintech/global-stablecoin-regulatory-five-pole-matrix|五極比較]]
 <!-- /wiki-links:managed -->
 
 ## Sources
+
+- HKMA · Stablecoin issuers: https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/stablecoin-issuers/
+- HKMA · Guideline on Supervision of Licensed Stablecoin Issuers: https://www.hkma.gov.hk/media/eng/doc/key-functions/ifc/stablecoin-issuers/Guideline_on_supervision_of_licensed_stablecoin_issuers_eng.pdf
+- HKMA · Explanatory Note on Licensing: https://www.hkma.gov.hk/media/eng/doc/key-functions/ifc/stablecoin-issuers/Explanatory_Notes_on_Licensing_of_Stablecoin_Issuers_eng.pdf
+- HKMA · 2025 Annual Report, International Financial Centre: https://www.hkma.gov.hk/media/eng/publication-and-research/annual-report/2025/16_International_Financial_Centre.pdf
+- BCBS · Minimum capital requirements for market risk: https://www.bis.org/bcbs/publ/d457.htm

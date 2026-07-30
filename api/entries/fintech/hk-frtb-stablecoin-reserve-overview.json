@@ -11,22 +11,22 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/hk-frtb-stablecoin-reserve-overview.md",
   "raw_markdown_url": "https://finwiki.zksc.io/fintech/hk-frtb-stablecoin-reserve-overview.md",
   "domain": "fintech",
-  "title": "HK FRTB ステーブルコイン準備金要件 · HKMA Reserve Framework",
+  "title": "HKMA ステーブルコイン準備金要件 · FRTB との境界",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "HK FRTB ステーブルコイン準備金要件 · HKMA Reserve Framework",
+    "title": "HKMA ステーブルコイン準備金要件 · FRTB との境界",
     "aliases": [
       "hk-frtb-reserve",
       "HKMA stablecoin reserve",
-      "HK FRTB SA"
+      "HK FRTB boundary"
     ],
     "domain": "fintech",
     "type": null,
     "created": "2026-05-18",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-06-24",
-    "review_by": "2026-08-08",
-    "confidence": "likely",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
+    "review_by": "2026-10-30",
+    "confidence": "confirmed",
     "tags": [
       "fintech",
       "law",
@@ -42,58 +42,48 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/regulatory-regime-for-stablecoin-issuers/",
-      "https://www.legco.gov.hk/yr2024/english/bills/b202412201.pdf",
-      "https://www.bis.org/bcbs/publ/d457.htm",
-      "https://www.bis.org/bcbs/publ/d533.htm",
-      "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2024/12/20241218-3/"
+      "https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/stablecoin-issuers/",
+      "https://www.hkma.gov.hk/media/eng/doc/key-functions/ifc/stablecoin-issuers/Guideline_on_supervision_of_licensed_stablecoin_issuers_eng.pdf",
+      "https://www.hkma.gov.hk/media/eng/doc/key-functions/ifc/stablecoin-issuers/Explanatory_Notes_on_Licensing_of_Stablecoin_Issuers_eng.pdf",
+      "https://www.hkma.gov.hk/media/eng/publication-and-research/annual-report/2025/16_International_Financial_Centre.pdf",
+      "https://www.bis.org/bcbs/publ/d457.htm"
     ]
   },
-  "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
+  "summary": "This entry sits under fintech index. Read it with HKMA stablecoin licensing overview, Basel III FRTB overview, and five-pole comparison.",
   "headings": [
-    "HK FRTB ステーブルコイン準備金要件 · HKMA Reserve Framework",
+    "HKMA ステーブルコイン準備金要件 · FRTB との境界",
     "Wiki route",
-    "Key facts",
-    "Mechanism / How it works",
-    "Origin & evolution",
+    "確認できる準備金要件",
+    "開示・監査・資本",
+    "要件マップ",
+    "FRTB ではない理由",
+    "ライセンス日付の修正",
     "Related",
     "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 11,
+    "wikilinks_count": 5,
     "wikilinks": [
       "INDEX",
-      "exchanges/global-vasp-regulatory-comparison-matrix",
       "fintech/INDEX",
-      "fintech/basel-iii-frtb-crypto-exposure-implications",
       "fintech/basel-iii-frtb-crypto-exposure-overview",
-      "fintech/genius-act-501-denylist-mandate",
-      "fintech/hkma-stablecoin-licensing-implications",
-      "fintech/hkma-stablecoin-licensing-overview",
-      "fintech/japan-financial-regulation",
-      "fintech/japan-stablecoin-regulatory-landscape",
-      "fintech/three-circles-stablecoin-mra-framework"
+      "fintech/global-stablecoin-regulatory-five-pole-matrix",
+      "fintech/hkma-stablecoin-licensing-overview"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX.md",
-      "https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/",
       "https://finwiki.zksc.io/ja/domains/fintech/",
-      "https://finwiki.zksc.io/ja/fintech/basel-iii-frtb-crypto-exposure-implications/",
       "https://finwiki.zksc.io/ja/fintech/basel-iii-frtb-crypto-exposure-overview/",
-      "https://finwiki.zksc.io/ja/fintech/genius-act-501-denylist-mandate/",
-      "https://finwiki.zksc.io/ja/fintech/hkma-stablecoin-licensing-implications/",
-      "https://finwiki.zksc.io/ja/fintech/hkma-stablecoin-licensing-overview/",
-      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
-      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
-      "https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/"
+      "https://finwiki.zksc.io/ja/fintech/global-stablecoin-regulatory-five-pole-matrix/",
+      "https://finwiki.zksc.io/ja/fintech/hkma-stablecoin-licensing-overview/"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3252,
-    "word_like_tokens": 565,
+    "nonspace_chars": 5048,
+    "word_like_tokens": 802,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-06-24"
+    "last_modified": "2026-07-30"
   }
 }

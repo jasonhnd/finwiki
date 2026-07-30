@@ -24,8 +24,8 @@
     "domain": "fintech",
     "type": null,
     "created": "2026-04-14",
-    "last_updated": "2026-05-21",
-    "last_tended": "2026-05-21",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-10-30",
     "confidence": "likely",
     "tags": [
@@ -47,10 +47,10 @@
       "https://progmat.co.jp/concept/"
     ]
   },
-  "summary": "Stablecoin coverage in this wiki should route as follows:",
+  "summary": "Source note: the registration facts are point-in-time readings of the FSA's funds-transfer provider list and EPI service-provider list, downloaded on 2026-07-30. Platform-role terminology is checked against Progmat's company overview and concept page.",
   "headings": [
     "日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）",
-    "Current map (source-refresh 2026-05-21)",
+    "Current map (source-refresh 2026-07-30)",
     "Implication",
     "Related"
   ],
@@ -80,13 +80,18 @@
       "https://finwiki.zksc.io/ja/payment-firms/jpyc/",
       "https://finwiki.zksc.io/ja/payment-firms/progmat/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 4,
+    "external_links": [
+      "https://progmat.co.jp/about/",
+      "https://progmat.co.jp/concept/",
+      "https://www.fsa.go.jp/menkyo/menkyoj/denshikessaisyudan.xlsx",
+      "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 2443,
-    "word_like_tokens": 379,
-    "inbound_wikilinks_count": 176,
-    "last_modified": "2026-06-04"
+    "nonspace_chars": 2952,
+    "word_like_tokens": 471,
+    "inbound_wikilinks_count": 171,
+    "last_modified": "2026-07-30"
   }
 }

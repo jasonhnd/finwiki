@@ -1,61 +1,59 @@
 ---
 source: fintech/issuer-distributor-incentive-realignment-50-50-model
-source_hash: 640c72de13d4d869
+source_hash: da176ae5402a3759
 lang: en
+model: manual-issue-239-provenance-repair
 status: machine
 fidelity: ok
-title: "Issuer vs Distributor 50/50 Model · Coinbase-Circle Interest-Sharing Mechanism"
-translated_at: 2026-05-31T11:13:44.847Z
+title: "Revenue sharing between USDC issuer and distributor · the public Coinbase ↔ Circle contract structure"
+translated_at: 2026-07-29T16:43:44.438Z
 ---
-
-# Issuer vs Distributor 50/50 Model · Coinbase-Circle Interest-Sharing Mechanism
+# Revenue sharing between USDC issuer and distributor · the public Coinbase ↔ Circle contract structure
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|Japan financial regulation: legal architecture for tokens, crypto-assets, and payments]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin legal architecture: the JPYC, USDC, and Project Pax three-layer model]] for the broader system boundary.
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|Japan's financial regulation — legal framework for tokens, crypto-assets and payments]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|Japan's three-tier stablecoin legal framework (JPYC, USDC and Project Pax)]] for the broader system boundary.
 
 > [!info] TL;DR
-> The Coinbase-Circle USDC 50/50 interest-sharing model, originating in the 2018 Centre co-issuance arrangement and continuing after Circle's 2023 independence, is the stablecoin sector's largest issuer-distributor incentive-locking structure. Coinbase stablecoin revenue in Q1 2025 was $305M, or approximately 12-15% of total company revenue. Under the GENIUS Act §501 regime, however, the bargaining structure has materially changed, placing the 50/50 arrangement in an unavoidable renegotiation window.
+> The agreement between Coinbase and Circle is not a simple “50/50” split of all revenue. According to Circle's SEC filing, it consists of issuer retention; product economics based on USDC balances within each company's products; and ecosystem economics under which Coinbase receives 50% of the remaining payment base after payments to approved participants. Future renegotiation is possible, but the GENIUS Act alone does not make it inevitable.
 
 ## Key facts
 
-- USDC circulation: $40-45B (2024-2025) ^[extracted]
-- Circle annual interest income: $1.7-1.8B (4.5% Treasury yield) ^[extracted]
-- Distribution to Coinbase: approximately $905M for full-year 2024 ^[extracted]
-- Coinbase stablecoin revenue in Q1 2025: $305M, or $1.2B annualized ^[extracted]
-- Legal basis for the 50/50 split: the 2018 Centre Consortium co-issuance agreement, continuing after the 2023 Centre dissolution ^[extracted]
+- Circle earns reserve income from USDC reserve assets and records payments to Coinbase as distribution costs.
+- The agreement deducts issuer retention and payments to participants from the daily payment base, then calculates balance attribution and ecosystem economics.
+- Coinbase's 50% applies to “the remaining payment base after payments to approved participants,” so it is not a fixed 50% of Circle's entire reserve income.
+- Amounts move with USDC in circulation, interest rates, custody location, other participants and contractual deductions. Do not reduce them to a simple annualized rate.
 
 ## Mechanism / How it works
 
-**Historical rationale for the 50/50 split**: In the early phase, Coinbase supplied USDC's principal distribution channel through brand reach, user base, and exchange liquidity, while Circle supplied issuance and reserve management. The 2018 Centre Consortium co-issuance model deeply aligned the two companies. After Centre dissolved in 2023, Circle recovered sole issuance authority, but the 50/50 revenue-sharing provision continued.
+**Public contract structure**: Coinbase is a major USDC distribution and custody channel, while Circle is responsible for issuance and reserve-asset management. The companies have continued to collaborate under a Collaboration Agreement since Centre was dissolved.
 
-**Revenue flow**: USDC reserves of more than $40B hold short-term Treasuries -> 4.5% annual yield equals $1.8B -> issuance costs are deducted -> net amount of $1.7-1.8B -> Coinbase 50% ($905M) and Circle 50% ($895M).
+The following table summarizes the calculation sequence described in Circle's [SEC S-1](https://www.sec.gov/Archives/edgar/data/1876042/000119312525178989/d839239ds1.htm) without estimating confidential rates or future terms.
 
-**Bargaining power before and after §501**:
-
-| Axis | Before §501 (2024) | After §501 (2025.07+) |
+| Calculation element | Publicly described mechanism | Interpretation note |
 |---|---|---|
-| Issuer core cost | Regulatory uncertainty + reserves + listing channels | Reserves + Arc as an in-house L1 |
-| Distributor core value | User base + liquidity + compliance endorsement | User base + liquidity, with compliance standardized |
-| Issuer fallback | Requires alliances with major exchanges | Can build an in-house L1 ([[fintech/issuer-distributor-incentive-realignment-arc-strategy|Arc: in-house distribution flywheel]]) |
-| Distributor fallback | USDC only, with no substitute | Can promote an in-house stablecoin, Base USDB-like |
+| Issuer retention | Circle retains an amount to recover part of the overhead of issuance and reserve management | The public description does not disclose enough detail to recalculate the full amount or formula |
+| Party product economics | Circle / Coinbase receives an amount based on the proportion of balances held in each company's custody products and managed wallet | Distribution is affected by “where USDC is held” |
+| Approved-participant payments | Payments to other approved participants in the USDC ecosystem are deducted | This is not a closed 50/50 arrangement between only two companies |
+| Ecosystem economics | Coinbase receives 50% of the remaining payment base after deductions | This is not equivalent to 50% of all reserve income |
 
-**Result**: The "distributor premium" embedded in the 50/50 model becomes structurally exposed to renegotiation after [[fintech/genius-act-501-denylist-mandate|§501]].
+This structure aligns incentives between issuance and distribution, but post-legislation negotiations and alternative-chain strategies must be confirmed separately through contract amendments, SEC filings and company announcements.
 
 ## Origin & evolution
 
-2018: Centre Consortium established; Coinbase and Circle co-issued USDC, with the 50/50 split as an initial provision. 2020-2023: DeFi summer and the listing boom made USDC the default stablecoin in DeFi; the 50/50 model remained highly symmetrical because distributor value was tangible. 2023.08: Centre dissolved and Circle moved to sole issuance, while the 50/50 provision continued as disclosed in offering materials. 2025.07: GENIUS Act §501 took effect, making compliance standard equipment and diluting the distributor premium. 2025.09: Arc was announced, becoming Circle's renegotiation lever.
+Centre was founded in 2018 and Coinbase and Circle subsequently expanded USDC issuance and distribution together. Centre was dissolved in 2023 and Circle became the sole issuer of USDC, with the economic terms between the two companies moving to the Collaboration Agreement. Circle's 2025 SEC filing discloses the layered distribution method above. Track any effect of future legislation or product launches on contract terms through updated SEC filings.
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/issuer-distributor-incentive-realignment-arc-strategy|Arc strategy: recovery of the 50% share]]
+- [[fintech/issuer-distributor-incentive-realignment-arc-strategy|Arc strategy · recovering 50%]]
 - [[fintech/stablecoin-revenue-split-economics|Stablecoin revenue-sharing economics]]
 - [[fintech/stablecoin-chain-token-strategy-trilemma|Stablecoin public-chain and token-strategy trilemma]]
-- [[fintech/circular-reserve-asset-flywheel-overview|Circular reserve-asset lock-in flywheel: overview]]
-- [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501 Denylist]]
+- [[fintech/circular-reserve-asset-flywheel-overview|Mutually locked reserve-asset flywheel · overview]]
+- [[fintech/genius-act-501-denylist-mandate|GENIUS Act implementation status]]
 <!-- /wiki-links:managed -->
 
 ## Sources
 
-- Circle offering materials (2024) · Coinbase Q1 2025 results · Centre Consortium 2018 co-issuance agreement
+- Circle SEC S-1 — https://www.sec.gov/Archives/edgar/data/1876042/000119312525178989/d839239ds1.htm
+- Coinbase SEC filings — https://investor.coinbase.com/financials/sec-filings/default.aspx

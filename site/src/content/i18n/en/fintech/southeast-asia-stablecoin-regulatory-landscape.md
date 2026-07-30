@@ -1,160 +1,122 @@
 ---
 source: fintech/southeast-asia-stablecoin-regulatory-landscape
-source_hash: fd1ba5cf9c764e99
+source_hash: 4821b504922a1a07
 lang: en
+model: source-language-sync
 status: machine
 fidelity: ok
-title: "Southeast Asia Stablecoin Regulatory Landscape 2026"
-translated_at: 2026-05-31T11:13:44.850Z
+title: "Southeast Asia Stablecoin Regulatory Landscape 2026 · Official-Source Matrix"
+translated_at: 2026-07-30T02:03:00+09:00
 ---
 
-# Southeast Asia Stablecoin Regulatory Landscape 2026
+# Southeast Asia Stablecoin Regulatory Landscape 2026 · Official-Source Matrix
 
 ## Wiki route
 
 This entry sits under [[fintech/INDEX|fintech index]] and is the **regional routing surface** for ASEAN-plus-HK stablecoin policy. Read it alongside the five-pole global matrix at [[fintech/global-stablecoin-regulatory-five-pole-matrix]] (which slots MAS and HKMA into a world view) and the EM dollarization counter-pattern at [[fintech/em-market-crypto-dollarization-pattern]] (which describes what users actually do underneath any regulatory map). The two per-jurisdiction deep dives are [[fintech/singapore-mas-payment-services-act-overview]] and [[fintech/hkma-stablecoin-licensing-overview]]; this entry is the **map view** that places Thailand, Indonesia, Philippines, Vietnam, and Malaysia next to them.
 
 > [!info] TL;DR
-> By 2026-05, Southeast Asia has split into **three regulatory tiers** for stablecoins: (1) **licensed issuance regimes** — Singapore MAS SCS (live since 2023-08) and Hong Kong HKMA Stablecoin Ordinance (live since 2025-08, first two licenses 2026-05-21); (2) **pilot / sandbox regimes** — Thailand SEC + BoT stablecoin sandbox (THB-pegged via Programmable Payment), Malaysia BNM Discussion Paper 2026, Philippines BSP Project Agila sandbox; (3) **prohibited or grey** — Vietnam SBV crypto ban, Indonesia OJK/BI dual-regulator boundary where rupiah-pegged SC is not yet licensed and USDT flows through PMA-licensed exchanges plus large P2P / OTC volume. The structural pattern: **every ASEAN central bank wants a CBDC**, **most want a domestic-currency stablecoin rail**, and **none want USD-stablecoin retail circulation** — but enforcement capacity varies by an order of magnitude across the region.
+> The jurisdictions cannot be ranked on one “stablecoin friendliness” ladder. Singapore has a finalized MAS single-currency-stablecoin framework, Hong Kong—used here only as an ASEAN-adjacent comparator—has a statutory issuer-licensing regime, and the other markets in this entry regulate different pieces such as digital-asset trading, payment use, sandboxes or CBDC experiments. A framework, sandbox participant, exchange registration, CBDC pilot and issuer licence are different statuses. This page records only what the linked official material establishes as of 2026-07-30.
 
 ## Why a regional map matters
 
-A USD-pegged stablecoin issued under US GENIUS, EU MiCA, or Japan EPI gets **five different legal treatments** when it crosses into ASEAN. A single MAS-licensed SCS like XSGD is treated as a regulated payment instrument in Singapore, a foreign exchange asset in Indonesia, an unregulated digital token in Vietnam, and an e-money-adjacent product in the Philippines. The treatment also differs by **issuer nationality and chain** — Tron-based USDT in retail wallets vs. Solana-based USDC routed through a licensed broker — which is the same fragmentation that the [[fintech/global-stablecoin-regulatory-five-pole-matrix]] documents at the global level. The result is that **regional B2B stablecoin corridors** (see [[fintech/stablecoin-crossborder-b2b-growth]]) live in narrow legal bands that depend on the licensed entity at each leg rather than on the token itself.
+The legal question changes at each layer: issuance, offering, exchange intermediation, custody, payment use, redemption and cross-border transfer can be governed by different rules and regulators. The same token being available through a registered trading venue does not establish that it may be issued domestically or used as money. This page therefore avoids assigning a single legal label to a token across the region.
 
 For the on-ramp / exchange side of the same regulatory surfaces, see [[exchanges/INDEX]], [[exchanges/sg-mas-dpt-licensing-overview]], and the cross-region view at [[exchanges/global-vasp-regulatory-comparison-matrix]].
 
-### Singapore MAS · PSA + SCS + DTSP
+### Singapore MAS · framework is not an issuer register
 
-- **Statute**: Payment Services Act 2019 (PS Act) + SCS Framework 2023-08 + DTSP Regime 2024-04 amendment.
-- **Lead regulator**: Monetary Authority of Singapore (MAS).
-- **Licensable SC type**: Single-Currency Stablecoin (SCS) pegged to SGD or any single G10 fiat.
-- **Reserve**: 100% in cash, cash equivalents, or short sovereign paper rated AA- or better; daily attestation; segregated custody.
-- **Capital floor**: S$1M base + higher of S$1M or 50% of annual OpEx.
-- **Active SCS issuers (2026-05)**: StraitsX XSGD (live, MAS-regulated); Paxos USDP (pending via offshore subsidiary).
-- **Non-SCS USD stablecoins**: USDC, USDT, PYUSD circulate via DPT licensees (Coinbase Singapore, Crypto.com, Independent Reserve, HashKey, DBS Vickers, Sygnum, Anchorage Digital Singapore, StraitsX) but are not "MAS-regulated SCS".
-- **Cross-border**: 2026-03 Singapore-US MRA signed → strong candidate for §501(d) **first-wave Asia entry** under [[fintech/genius-act-501-denylist-mandate]].
+MAS's [stablecoin explainer](https://www.mas.gov.sg/regulation/explainers/regulatory-approach-to-stablecoin-related-activities) describes a framework for single-currency stablecoins issued in Singapore and pegged to SGD or a G10 currency. It sets requirements for reserve assets, capital, redemption and disclosure, and reserves the “MAS-regulated stablecoin” label for stablecoins meeting the framework.
 
-Full mechanics in [[fintech/singapore-mas-payment-services-act-overview]] and the strategic angle in [[fintech/singapore-mas-payment-services-act-strategic-implications]]. The DTSP regime in particular closed the "Singapore-incorporated entity serves global customers" loophole that previously let unlicensed issuers route flow through SG, which is now mapped by the broader [[fintech/jurisdiction-list-monetary-protectionism]] framework.
+The framework announcement alone does not prove that a named token or issuer currently carries that label. Entity and licence status must be checked in the [MAS Financial Institutions Directory](https://eservices.mas.gov.sg/fid/institution), while the scope of an approval must be read from the relevant record. This page therefore does not label XSGD, USDP, USDC, USDT or another token as an MAS-regulated SCS without a current issuer-specific record.
 
-### Hong Kong HKMA · Stablecoin Ordinance (Cap. 656)
+### Hong Kong HKMA · ASEAN-adjacent comparator
 
-- **Statute**: Stablecoin Ordinance enacted 2025-08, took effect 2025-08-01.
-- **Lead regulator**: HKMA, with parallel VASP licensing under SFC (see [[exchanges/hk-sfc-vasp-licensing-overview]]).
-- **Licensable SC type**: HKD-pegged or any single foreign fiat (USD primary).
-- **Reserve**: 100% in HKD / USD short Treasuries, central-bank reserves, segregated bank deposits; daily mark-to-market; FRTB capital treatment per [[fintech/hk-frtb-stablecoin-reserve-overview]].
-- **Capital floor**: Paid-in HK$25M plus on-going ≥2% of issued SC value.
-- **First-batch decision 2026-05-21**: HSBC and Standard Chartered "Anchorpoint" consortium approved; other seven applicants (JD-HKD, Ant International, BOCHK, ZA Bank, Conflux, Tether, RD Technologies) deferred or pending.
-- **Cross-border**: §501(d) third-wave candidate (2027-H2 earliest), gated on e-CNY demarcation and OFAC SDN coordination.
+Hong Kong is not part of Southeast Asia or ASEAN; it is included because it is frequently compared with Singapore as an Asian financial centre. The [HKMA regime page](https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/regulatory-regime-for-stablecoin-issuers/) describes the licensing perimeter under the Stablecoins Ordinance, which took effect on August 1, 2025. The regime covers specified fiat-referenced stablecoin issuance and marketing activities and imposes reserve, redemption, governance and paid-up-capital requirements.
 
-The HK regime is the **only ASEAN-adjacent path that can plausibly carry a Mainland-China-affiliated issuer**, which is why JD, Ant International, and BOCHK applied. The strategic asymmetry around Tether's HK application is detailed in [[fintech/hkma-stablecoin-licensing-implications]] and the broader pattern in [[fintech/gray-market-dollar-network-formalization]].
+HKMA's [2025 annual report](https://www.hkma.gov.hk/media/eng/publication-and-research/annual-report/2025/16_International_Financial_Centre.pdf) states that a first batch of two licensed issuers was announced in April 2026. That aggregate statement does not support naming issuers or rejected applicants, so this page does not attribute a licence to HSBC, Standard Chartered, Anchorpoint or any other firm without a current issuer register or licence record.
 
-### MAS vs HKMA · short comparison
+### Singapore and Hong Kong · what can be compared
 
-| Axis | MAS SCS (SG) | HKMA SC (HK) |
+The following table is sourced to the [MAS framework](https://www.mas.gov.sg/regulation/explainers/regulatory-approach-to-stablecoin-related-activities) and [HKMA regime page](https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/regulatory-regime-for-stablecoin-issuers/). It compares legal design, not issuer success or future mutual recognition.
+
+| Question | Singapore | Hong Kong |
 |---|---|---|
-| Statute live | 2023-08 | 2025-08 |
-| Capital floor | S$1M | HK$25M paid-in + 2% on-going |
-| Reserve maturity cap | ≤ 3 months | No explicit cap, short-dated USTs / HKGB |
-| Attestation cadence | Daily reserve disclosure | Monthly attestation by independent auditor |
-| Pegged currency scope | SGD + any G10 | HKD + USD primary, other fiat permitted |
-| First-mover advantage | StraitsX XSGD (2023) | HSBC + Anchorpoint (2026-05-21) |
-| Mainland China issuer route | Closed via DTSP | Open in principle, deferred in practice |
-| §501(d) MRA status | First-wave Asia candidate | Third-wave candidate |
+| Regulatory instrument | MAS framework for qualifying single-currency stablecoins issued in Singapore | Statutory licensing regime under the Stablecoins Ordinance |
+| Currency perimeter | SGD or one G10 currency under the MAS framework | Specified fiat-referenced stablecoins within the Ordinance's scope |
+| Issuer-status evidence | Current MAS directory and issuer-specific record | Current HKMA licensee register and issuer-specific record |
+| What cannot be inferred from the framework alone | That a named token is an “MAS-regulated stablecoin” | That a named applicant has received or retained a licence |
 
-The matrix view across all five poles (US / EU / JP / HK / SG) lives at [[fintech/global-stablecoin-regulatory-five-pole-matrix]]. The contrast for MAS vs HKMA on the dual-currency arbitrage axis is in [[fintech/dual-currency-stablecoin-arbitrage-overview]].
+### Thailand · payment-use rule and sandbox are separate
 
-### Thailand · SEC + BoT stablecoin sandbox
+Thailand's SEC [issued rules restricting digital-asset business operators from facilitating digital assets as a means of payment](https://www.sec.or.th/EN/Pages/News_Detail.aspx?SECID=9366) on March 23, 2022, effective April 1, 2022. The final rule concerns operator-facilitated payment use; it is not, by itself, a stablecoin-issuer licence or a ban on every form of possession or trading.
 
-- **Lead regulators**: Bank of Thailand (BoT) for payment / monetary policy boundary, SEC Thailand for digital asset business.
-- **Domestic SC status**: Foreign-currency-backed stablecoins (USDT / USDC) are **prohibited as a means of payment** by SEC notification 2022 (still in force), but permitted as a digital asset for trading on licensed digital asset exchanges (Bitkub, Satang, Zipmex Thailand pre-collapse, Upbit Thailand).
-- **THB-pegged stablecoin**: As of 2026, **no live THB-pegged stablecoin** has cleared BoT review for circulation. A regulatory sandbox under BoT's "Programmable Payment Sandbox" supports tokenized-deposit pilots from Siam Commercial Bank and Kasikornbank, plus a wholesale CBDC pilot (continuation of Project Inthanon / BIS mBridge participation prior to BoT's withdrawal — see [[fintech/mbridge-bis-multi-cbdc-overview]]).
-- **Retail CBDC**: BoT retail CBDC pilot 2022-2023 concluded with no scale-up commitment; reframed as "Programmable Payment" infrastructure on top of PromptPay.
-- **Tourist crypto-payment pilot**: 2024-08 SEC + BoT announced sandbox allowing foreign visitors to spend digital assets via licensed exchanges that auto-convert to THB at merchant — narrow, ring-fenced, not a SC issuance license.
+The Bank of Thailand's [regulatory-sandbox page](https://www.bot.or.th/en/financial-innovation/digital-finance/fintech-in-thailand/regulatory-sandbox.html) separately lists programmable-payment testing. Participation in a sandbox establishes a bounded test under specified conditions, not permission for general circulation of a THB stablecoin. This entry does not infer issuer authorization from a sandbox participant list.
 
-### Malaysia · BNM Discussion Paper 2026 + SC Malaysia digital asset framework
+### Malaysia · digital-asset market regulation is not a stablecoin regime
 
-- **Lead regulators**: Bank Negara Malaysia (BNM) for currency / payments boundary; Securities Commission Malaysia for digital asset trading.
-- **Domestic SC status**: Ringgit-pegged stablecoin issuance is **not yet licensable**; BNM published a Discussion Paper on Stablecoins in early 2026 outlining a future licensing framework modelled on MAS SCS structure (100% reserve, single-currency peg, dedicated issuer license) with consultation closing mid-2026.
-- **DuitNow / CBDC**: BNM continues to develop wholesale CBDC capability through BIS Innovation Hub participation; retail CBDC remains "not necessary at this stage" per BNM Governor statements 2024-2025.
-- **Licensed exchanges**: Luno Malaysia, SINEGY, MX Global, Tokenize Xchange under SC Malaysia recognized market operator regime.
-- **Cross-border MYR-SGD**: BNM-MAS DuitNow-PayNow linkage (live 2023-04) creates an instant-payment corridor that competes with any future MYR/SGD-stablecoin pair on raw cost.
+The Securities Commission Malaysia's [digital-assets page](https://www.sc.com.my/digital-assets) explains the regulated digital-asset market and links to registered operators. Its [registered digital-asset-exchange list](https://www.sc.com.my/regulation/guidelines/recognizedmarkets/list-of-registered-digital-asset-exchanges) is evidence of the listed entities' exchange status, not evidence that they may issue a ringgit stablecoin.
 
-### Philippines · BSP Project Agila + e-money + virtual currency
+No official BNM stablecoin discussion paper matching the earlier claim was located in the materials reviewed for this update. This page therefore removes the claimed 2026 consultation, reserve model and projected licence date. A future BNM document should be added only with a direct official publication link and date.
 
-- **Lead regulator**: Bangko Sentral ng Pilipinas (BSP), with SEC Philippines for securities-adjacent crypto.
-- **Domestic SC status**: PHP-pegged stablecoin issuance requires BSP authorization. **PHPC** (issued by Coins.ph as a sandbox participant) and **PHPX** (consortium-backed pilot through licensed banks) are the live PHP-pegged pilots as of 2026.
-- **CBDC**: **Project Agila** (formerly Project CBDCPh) — BSP's wholesale CBDC pilot, focused on interbank settlement on Hyperledger Fabric. No retail CBDC commitment.
-- **e-money** vs SC boundary: GCash, Maya, and other large e-money issuers operate under BSP Circular 649 (e-money issuer), which is the **historical analog** of a stablecoin license — BSP's framing is that "PHP-pegged stablecoin" is a tokenized form of e-money and must therefore meet the e-money issuer prudential floor.
-- **USD stablecoin flow**: USDT and USDC reach Philippine retail via licensed Virtual Asset Service Providers (VASPs) and through remittance corridors (PHP-USD overseas-Filipino-worker flow), where stablecoin substitutes for traditional MTO bridging.
+### Philippines · wholesale CBDC and VASP access are distinct
 
-### Vietnam · SBV crypto ban + de-facto USDT economy
+BSP's [Project Agila report](https://www.bsp.gov.ph/PaymentAndSettlement/Project-Agila/Project-Agila-Report.pdf) describes a wholesale CBDC proof of concept for transfers among participating financial institutions. It is not a retail stablecoin sandbox and does not establish approval of PHPC, PHPX or another named privately issued token.
 
-- **Lead regulator**: State Bank of Vietnam (SBV).
-- **Legal status**: Cryptocurrency is **not recognized as legal tender** and **not permitted as a means of payment** under SBV Directive 02/CT-NHNN (2018, still in force as of 2026). Issuance, distribution, and use of cryptocurrencies as payment instruments carry administrative fines.
-- **Workarounds**: Vietnam consistently ranks in the **top three globally** for retail crypto adoption (Chainalysis Global Crypto Adoption Index 2023, 2024, 2025), driven by USDT P2P remittance, gaming-token earnings (Sky Mavis Axie Infinity legacy + newer projects), and merchant-side accepted-but-not-advertised stablecoin payments.
-- **Pending regulation**: A draft Decree on Digital Asset Management has been in inter-ministerial circulation since 2023; multiple reported finalization deadlines (2024, 2025, 2026) have slipped. The expected shape is a **licensed virtual asset business** framework rather than a stablecoin issuance license.
-- **Practical implication**: USDT-Tron and USDT-TON dominate the retail rail; Tether's grey-market dominance here is exactly the pattern documented in [[fintech/em-market-crypto-dollarization-pattern]].
+BSP [Memorandum M-2025-031](https://www.bsp.gov.ph/Regulations/Issuances/2025/M-2025-031.pdf) continued the moratorium on new VASP licences from September 1, 2025, subject to the memorandum's exceptions and review. Entity status should be checked using the [BSP verifier](https://www.bsp.gov.ph/SitePages/FinancialStability/BSPVerifier.aspx). VASP status, e-money-issuer status, stablecoin-issuer approval and Project Agila participation are not interchangeable.
 
-### Indonesia · OJK + BI dual-regulator boundary
+### Vietnam · new digital-asset law and a bounded pilot
 
-- **Lead regulators**: Otoritas Jasa Keuangan (OJK, financial services authority) and Bank Indonesia (BI, central bank). The 2023 P2SK Law transferred crypto supervision from Bappebti (commodity futures regulator) to OJK with effect 2025-01.
-- **Domestic SC status**: Rupiah-pegged stablecoin **issuance is not yet licensed**; OJK has signalled an intent to publish a digital financial asset framework that includes a stablecoin licensing track, but as of 2026-05 no IDR-stablecoin has been authorized.
-- **Foreign SC status**: USDT, USDC, and other USD-stablecoins are tradable as commodity-classified digital assets on licensed Pedagang Aset Kripto (PMA) exchanges (Tokocrypto, Indodax, Pintu, Reku, Triv, Pluang, Upbit Indonesia, Mobee).
-- **CBDC**: **Project Garuda** — BI's wholesale CBDC pilot, two-tier architecture, integrated with the BI-FAST instant payment system. Currently in design phase with no retail-issuance timeline.
-- **Remittance corridor**: USDT P2P remittance from Indonesian diaspora in Singapore / Malaysia / Hong Kong / Saudi Arabia is large and informal; this is the deep context for the dedicated entry [[fintech/indonesia-ovo-stablecoin-route]].
+Vietnam's [Law on Digital Technology Industry No. 71/2025/QH15](https://vbpl.moj.gov.vn/bokhoahoccongnghe/Pages/vbpq-toanvan.aspx?ItemID=179989) took effect on January 1, 2026 and supplies a statutory basis for digital and crypto assets. The government's [Resolution 05/2025/NQ-CP](https://chinhphu.vn/?classid=1&docid=215249&pageid=27160) establishes a pilot crypto-asset market under specified conditions.
 
-## Cross-cutting structural patterns
+The pilot is not a general stablecoin licence. In particular, its issuance conditions do not support the earlier claim that Vietnam had a simple “grey” regime dominated by named USD-stablecoin rails. Claims about retail rankings, chain dominance, merchant acceptance or a delayed draft decree are omitted here because the cited official materials do not establish them.
 
-1. **Every central bank wants a CBDC, mostly wholesale**. Five of seven jurisdictions (MAS, HKMA, BoT, BNM, BSP, BI) run a wholesale CBDC pilot; only Vietnam SBV lacks an announced pilot. Retail CBDC enthusiasm has cooled across the region — Thailand and Singapore have publicly de-emphasised retail launches, and Hong Kong's e-HKD remains in pilot.
-2. **Domestic-currency stablecoin license is the new normal target**. MAS already has one, HKMA has one, BNM is drafting one, BoT runs a sandbox toward one, BSP is leaning on the e-money framework as a proto-license, OJK is signalling intent. Only SBV has no domestic-SC plan.
-3. **USD stablecoin retail circulation is universally constrained but practically pervasive**. Even in Singapore where USDC and USDT are tradable on DPT-licensed venues, they are **not** licensable as SCS. The retail flow that the EM dollarization pattern in [[fintech/em-market-crypto-dollarization-pattern]] describes is structurally identical across Vietnam, Indonesia, and the Philippines.
-4. **Cross-border instant-payment linkages compete with stablecoins on the same corridors**. ASEAN-5 plus India launched Project Nexus to interlink instant-payment systems (PromptPay / DuitNow / PayNow / UPI / InstaPay), backed by BIS Innovation Hub. This rail is the **non-stablecoin** answer to the same remittance and B2B flow that USDT and USDC capture today.
-5. **Hong Kong is the only Mainland-China-affiliated stablecoin route**. Singapore's DTSP closure pushed Mainland-Chinese-controlled issuers toward HK; HKMA's first-batch deferral of JD, Ant International, BOCHK signals tight political gating. The result is a **bifurcated Asian SC market** — global-bank issuers (HSBC, StanChart) get the first HK licenses, Chinese-affiliated issuers wait for the PBoC offshore-CNH window. The same dynamic was noted in [[fintech/sovereign-fund-crypto-allocation-pattern]] and is part of the broader [[fintech/national-license-private-stablecoin-with-dpi-export]] pattern.
-6. **The regulator-of-record matters more than the technology**. In every ASEAN jurisdiction, a USDC token is the same on-chain object — what changes is whether the holder reached it via a MAS DPT licensee, an OJK PMA exchange, a BSP-licensed VASP, or an unlicensed P2P trade. The same observation underlies the global five-pole comparison in [[fintech/global-stablecoin-regulatory-five-pole-matrix]] and motivates the issuer-distributor framing in [[fintech/issuer-distributor-incentive-realignment-50-50-model]].
-7. **Sandbox-to-license latency is structurally 2-3 years**. MAS's SCS framework took roughly two years of consultation before live licensing; HKMA's ordinance took nearly three years from consultation to first license. Bank Negara Malaysia's 2026 Discussion Paper is therefore unlikely to produce a live MYR-SC issuer before 2028, and Thai or Indonesian timelines should be read against the same baseline.
+### Indonesia · OJK market oversight and BI currency issuance are distinct
 
-## Capital and reserve treatment under regional bank prudential frameworks
+The [official handover announcement](https://www.ojk.go.id/id/berita-dan-kegiatan/siaran-pers/Pages/Bappebti-Kemendag-Alihkan-Tugas-Aset-Keuangan-Digital-termasuk-Aset-Kripto-serta-Derivatif-Keuangan-kepada-OJK-dan-BI.aspx) records the January 10, 2025 transfer of regulatory and supervisory duties for digital financial assets, including crypto assets, from Bappebti to OJK and BI under the statutory transition. The exact authorization of an exchange or product must be checked in the relevant OJK or BI record; the handover does not itself license an IDR stablecoin.
 
-For licensed issuers that are part of a banking group (HSBC, StanChart Anchorpoint, possibly future bank-affiliated Malaysian or Indonesian issuers), the **Basel III FRTB capital treatment** of stablecoin reserves becomes an important second-order constraint. HKMA's FRTB-aligned treatment of stablecoin reserve assets is described in [[fintech/hk-frtb-stablecoin-reserve-overview]], and the broader Basel implications for crypto exposure are at [[fintech/basel-iii-frtb-crypto-exposure-overview]] and [[fintech/basel-iii-frtb-crypto-exposure-implications]]. Non-bank issuers (StraitsX in Singapore, future non-bank issuers under prospective BNM / OJK frameworks) are subject to the dedicated stablecoin-issuer capital floor rather than full bank capital adequacy.
+Bank Indonesia's [Project Garuda page](https://www.bi.go.id/en/rupiah/digital-rupiah/default_2.aspx) explicitly describes Digital Rupiah as a CBDC and distinguishes it from crypto assets or stablecoins. A CBDC design project is therefore not evidence of private stablecoin authorization. This entry also removes the obsolete “PMA exchange” terminology and unsupported remittance-volume claims.
 
-For non-bank issuers regulated under either an SCS-type framework (MAS) or a dedicated SC-issuer framework (HKMA), the regulatory capital floor is meaningfully **lower** than bank capital adequacy, which creates a structural cost advantage for non-bank issuance even after compliance overhead.
+## Official-source status matrix
 
-## Cross-border stablecoin corridors observed in 2025-2026
+Each row below is tied to the official source in the evidence column. “No conclusion” means the reviewed document does not establish the broader claim; it is not a claim that the activity is prohibited.
 
-| Corridor | Dominant rail | Settlement asset | Notes |
+| Jurisdiction | Verified regulatory surface | Direct official evidence | What the evidence does not establish |
 |---|---|---|---|
-| SG ↔ HK | DPT exchange + bank | USDC, USDT | Both ends MAS / HKMA / SFC licensed |
-| SG ↔ ID | OTC + PMA exchange | USDT (Tron) | Indonesia-side retail P2P heavy |
-| MY ↔ SG | DuitNow-PayNow direct | MYR-SGD fiat | Instant payment, no SC needed |
-| SG ↔ PH | OTC + Coins.ph | USDC, USDT | Philippine OFW remittance overlay |
-| HK ↔ Mainland CN | Informal OTC | USDT | Capital-controls grey corridor |
-| TH ↔ Greater Mekong | OTC + USDT (TRC-20) | USDT, USDC | Tourist + cross-border trade |
-| Anywhere ↔ ASEAN | mBridge candidate (CN-led) | mCBDC | See [[fintech/mbridge-bis-multi-cbdc-overview]] |
-| Anywhere ↔ ASEAN | SWIFT-API hybrid | USD wholesale | See [[fintech/cross-border-sc-via-swift-api]] |
+| Singapore | MAS framework for qualifying single-currency stablecoins issued in Singapore | [MAS stablecoin explainer](https://www.mas.gov.sg/regulation/explainers/regulatory-approach-to-stablecoin-related-activities) | Current label or licence status of a named token without an issuer-specific record |
+| Hong Kong (comparator) | Statutory stablecoin-issuer licensing regime effective from 2025-08-01 | [HKMA regime page](https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/regulatory-regime-for-stablecoin-issuers/) | Identity or current status of a licensee without the register or decision |
+| Thailand | Final rules restricting operator-facilitated payment use, effective 2022-04-01; programmable-payment sandbox | [SEC final payment-use rules](https://www.sec.or.th/EN/Pages/News_Detail.aspx?SECID=9366); [BoT sandbox](https://www.bot.or.th/en/financial-innovation/digital-finance/fintech-in-thailand/regulatory-sandbox.html) | General THB-stablecoin circulation approval |
+| Malaysia | SC-regulated digital-asset market and registered exchange operators | [SC digital-assets page](https://www.sc.com.my/digital-assets) | A BNM stablecoin-issuer regime or issuer approval |
+| Philippines | Wholesale-CBDC proof of concept; VASP licensing moratorium from 2025-09-01 | [Project Agila report](https://www.bsp.gov.ph/PaymentAndSettlement/Project-Agila/Project-Agila-Report.pdf); [BSP M-2025-031](https://www.bsp.gov.ph/Regulations/Issuances/2025/M-2025-031.pdf) | Approval of a named private PHP stablecoin |
+| Vietnam | Digital-asset statutory basis and a government crypto-asset-market pilot | [Law 71/2025/QH15](https://vbpl.moj.gov.vn/bokhoahoccongnghe/Pages/vbpq-toanvan.aspx?ItemID=179989); [Resolution 05/2025/NQ-CP](https://chinhphu.vn/?classid=1&docid=215249&pageid=27160) | General stablecoin issuance or payment permission |
+| Indonesia | Transfer of digital-financial-asset supervision; Digital Rupiah CBDC project | [OJK/BI handover](https://www.ojk.go.id/id/berita-dan-kegiatan/siaran-pers/Pages/Bappebti-Kemendag-Alihkan-Tugas-Aset-Keuangan-Digital-termasuk-Aset-Kripto-serta-Derivatif-Keuangan-kepada-OJK-dan-BI.aspx); [BI Project Garuda](https://www.bi.go.id/en/rupiah/digital-rupiah/default_2.aspx) | Private IDR-stablecoin authorization or approval of a named exchange/product |
 
-### Corridor-by-corridor commentary
+## Cross-border analysis boundary
 
-**SG ↔ HK** is the densest fully-licensed regional corridor. Both ends host major DPT / VASP licensees and the largest concentration of Asian institutional crypto custody (see [[exchanges/crypto-custody-provider-landscape-matrix]] and [[exchanges/global-institutional-custody-five-pillars]]). USDC and USDT flow through licensed venues with clean KYC at both legs; this is the **closest analog in Asia to a fully-compliant USD-stablecoin corridor**.
+A corridor cannot be called “licensed” merely because an exchange or payment institution at each end has some regulatory status. A defensible corridor assessment needs, at minimum:
 
-**SG ↔ ID** is the most asymmetric corridor: Singapore side is rigorously licensed (MAS DPT + DTSP), Indonesia side has licensed PMA exchanges plus a much larger informal P2P layer. The corridor's compliance posture is determined by the **lower-friction leg**, which is Indonesia. The structural dynamic mirrors gray-market formalization analysis in [[fintech/gray-market-dollar-network-formalization]].
+1. the legal identity and current authorization of each intermediary;
+2. the approved activity and customer class at each leg;
+3. issuer and redemption status for the settlement token;
+4. rules on payment use, marketing, custody and cross-border transfer;
+5. AML/CFT, sanctions and travel-rule controls; and
+6. evidence of the claimed volume, chain and settlement route.
 
-**MY ↔ SG** is the **negative case** — instant-payment interlinkage (DuitNow ↔ PayNow) makes the stablecoin alternative economically unattractive for retail volumes. Stablecoin use on this corridor concentrates in B2B and crypto-native segments.
+The earlier corridor table and “dominant rail” claims did not meet that standard and have been removed. Project Agila, Project Garuda and programmable-payment sandboxes are also not substitutes for evidence of a private stablecoin corridor.
 
-**HK ↔ Mainland CN** is the canonical capital-controls grey corridor. USDT-Tron is the dominant rail. Any HKMA-licensed HKD-pegged stablecoin (HSBC, StanChart Anchorpoint) is structurally **forbidden** from serving this corridor at the retail level; the political constraint is identical to the e-CNY demarcation that [[fintech/hkma-stablecoin-licensing-implications]] documents.
+## Safe comparison method
 
-**TH ↔ Greater Mekong** (Thailand-Laos-Cambodia-Myanmar-southern China) is informal-OTC-heavy with weak supervision on the non-Thai legs; this is the corridor most exposed to AML/CFT vulnerabilities and is implicitly targeted by FATF Travel Rule expectations (see [[fintech/fatf-travel-rule-overview]] and [[fintech/fatf-travel-rule-cross-border-stack]]).
+When updating this page:
 
-## AML/CFT and FATF positioning
+- use the regulator's current register or a dated decision for entity status;
+- use legislation, rules or official guidance for legal perimeter;
+- label consultations, frameworks, sandboxes, conditional approvals and licences separately;
+- do not infer a stablecoin licence from exchange, VASP, DPT or e-money status;
+- do not infer private-token authorization from a CBDC pilot;
+- do not infer retail adoption, chain share or cross-border volume without a dated dataset and methodology; and
+- treat Hong Kong as an ASEAN-adjacent comparator, not an ASEAN member.
 
-ASEAN's FATF grey-list dynamics directly affect stablecoin corridor risk. The Philippines was removed from the FATF grey list in 2025; Vietnam remains under FATF enhanced follow-up; Myanmar is on the FATF black list. The implications for cross-border stablecoin flow are documented in [[fintech/aml-cft-fatf-grey-list-overview]] and [[fintech/aml-cft-fatf-grey-list-cross-border-implications]]. Licensed issuers in MAS and HKMA jurisdictions face **direct counterparty-risk consequences** when accepting flows that originate from grey-list-adjacent corridors.
-
-## Investor / operator implications
-
-- For a **stablecoin issuer** choosing an Asian jurisdiction in 2026-2027, the **fastest path to live licensing is Singapore MAS SCS** (proven framework, lowest capital floor, daily attestation cost compensated by global brand). HK is **more politically gated** and is preferred only by issuers with a Mainland-China-affiliation rationale.
-- For a **VASP or DPT** choosing an Asian hub, the choice is between MAS (broader retail surface, SCS license adjacency) and HK (deeper banking integration, broader institutional surface), with Japan via [[exchanges/jp-crypto-bank-credit-facilities]] as a regulatory-conservative third pole.
-- For a **B2B settlement use case**, the most cost-effective corridor inside ASEAN is **between MAS / HKMA licensed entities** using USDC. Outside that envelope, regulatory and AML friction increases meaningfully.
-- For a **remittance use case** into Indonesia, the Philippines, or Vietnam, the practical rail is **USDT-Tron via licensed exchanges plus informal off-ramp**, and the licensed-product alternative compresses cost only if Project Nexus interlink reaches the relevant corridor.
-- For a **cross-border SC product team**, the structural lessons in [[fintech/protocol-hedge-strategy-stripe-pattern]] and [[fintech/embedded-wallet-fintech-disintermediation-overview]] are directly applicable — partnership with licensed local entities at each leg is necessary, and the regulatory perimeter at each leg shapes both UX and cost.
+This method preserves a useful regional view without turning proposals or adjacent licences into issuer approvals.
 
 ## Related
 
@@ -165,7 +127,7 @@ ASEAN's FATF grey-list dynamics directly affect stablecoin corridor risk. The Ph
 - [[fintech/hkma-stablecoin-licensing-implications|HKMA strategic implications]]
 - [[fintech/hk-frtb-stablecoin-reserve-overview|HK FRTB reserve treatment]]
 - [[fintech/global-stablecoin-regulatory-five-pole-matrix|Global five-pole matrix]]
-- [[fintech/jurisdiction-list-monetary-protectionism|§501(d) jurisdiction list]]
+- [[fintech/jurisdiction-list-monetary-protectionism|jurisdiction-list evidence boundary]]
 - [[fintech/indonesia-ovo-stablecoin-route|Indonesia OVO / stablecoin route]]
 - [[fintech/em-market-crypto-dollarization-pattern|EM crypto-dollarization pattern]]
 - [[fintech/india-anti-dollar-dpi-alliance|India anti-dollar DPI alliance]]
@@ -176,13 +138,18 @@ ASEAN's FATF grey-list dynamics directly affect stablecoin corridor risk. The Ph
 
 ## Sources
 
-- Monetary Authority of Singapore — Payment Services Act guidance and SCS Framework explainer.
-- Hong Kong Monetary Authority — Stablecoin Ordinance press releases and licensing announcements (2025-2026).
-- Securities and Exchange Commission Thailand — Digital asset business notifications.
-- Bank of Thailand — Digital Finance and Programmable Payment Sandbox materials.
-- Otoritas Jasa Keuangan (Indonesia) — Crypto supervision transition statements following P2SK Law.
-- Bank Indonesia — Project Garuda whitepaper materials.
-- Bangko Sentral ng Pilipinas — Project Agila and VASP licensing circulars.
-- State Bank of Vietnam — Directive 02/CT-NHNN and subsequent guidance.
-- Bank Negara Malaysia — Discussion Paper on Stablecoins (2026).
-- Bank for International Settlements — Project Nexus, mBridge, and ASEAN-related working papers.
+- [MAS regulatory approach to stablecoin-related activities](https://www.mas.gov.sg/regulation/explainers/regulatory-approach-to-stablecoin-related-activities)
+- [MAS Financial Institutions Directory](https://eservices.mas.gov.sg/fid/institution)
+- [HKMA regulatory regime for stablecoin issuers](https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/regulatory-regime-for-stablecoin-issuers/)
+- [HKMA Annual Report 2025, International Financial Centre chapter](https://www.hkma.gov.hk/media/eng/publication-and-research/annual-report/2025/16_International_Financial_Centre.pdf)
+- [Thailand SEC final rules concerning digital assets as means of payment](https://www.sec.or.th/EN/Pages/News_Detail.aspx?SECID=9366)
+- [Bank of Thailand regulatory sandbox](https://www.bot.or.th/en/financial-innovation/digital-finance/fintech-in-thailand/regulatory-sandbox.html)
+- [Securities Commission Malaysia digital-assets page](https://www.sc.com.my/digital-assets)
+- [SC Malaysia registered digital-asset exchanges](https://www.sc.com.my/regulation/guidelines/recognizedmarkets/list-of-registered-digital-asset-exchanges)
+- [BSP Project Agila report](https://www.bsp.gov.ph/PaymentAndSettlement/Project-Agila/Project-Agila-Report.pdf)
+- [BSP Memorandum M-2025-031](https://www.bsp.gov.ph/Regulations/Issuances/2025/M-2025-031.pdf)
+- [BSP verifier](https://www.bsp.gov.ph/SitePages/FinancialStability/BSPVerifier.aspx)
+- [Vietnam Law on Digital Technology Industry No. 71/2025/QH15](https://vbpl.moj.gov.vn/bokhoahoccongnghe/Pages/vbpq-toanvan.aspx?ItemID=179989)
+- [Vietnam Resolution 05/2025/NQ-CP](https://chinhphu.vn/?classid=1&docid=215249&pageid=27160)
+- [Indonesia regulatory handover to OJK and BI](https://www.ojk.go.id/id/berita-dan-kegiatan/siaran-pers/Pages/Bappebti-Kemendag-Alihkan-Tugas-Aset-Keuangan-Digital-termasuk-Aset-Kripto-serta-Derivatif-Keuangan-kepada-OJK-dan-BI.aspx)
+- [Bank Indonesia Project Garuda](https://www.bi.go.id/en/rupiah/digital-rupiah/default_2.aspx)

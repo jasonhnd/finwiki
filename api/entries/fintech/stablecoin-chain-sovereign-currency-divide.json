@@ -11,10 +11,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/stablecoin-chain-sovereign-currency-divide.md",
   "raw_markdown_url": "https://finwiki.zksc.io/fintech/stablecoin-chain-sovereign-currency-divide.md",
   "domain": "fintech",
-  "title": "ステーブルコイン地政学通貨対立フレームワーク",
+  "title": "ステーブルコイン制度分断フレームワーク",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "ステーブルコイン地政学通貨対立フレームワーク（米 / 欧 / 日 / 中 / グレーの 5 極構図）",
+    "title": "ステーブルコイン制度分断フレームワーク（米 / 欧 / 日 / 中港 / 域外流通）",
     "aliases": [
       "stablecoin sovereign currency divide",
       "geo-political stablecoin",
@@ -23,8 +23,8 @@
     "domain": "fintech",
     "type": null,
     "created": "2026-05-13",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-06-24",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-08-08",
     "confidence": "likely",
     "tags": [
@@ -39,62 +39,60 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.congress.gov/bill/119th-congress/senate-bill/394",
+      "https://www.govinfo.gov/content/pkg/PLAW-119publ27/pdf/PLAW-119publ27.pdf",
+      "https://www.occ.treas.gov/news-issuances/bulletins/2026/bulletin-2026-3.html",
       "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R1114",
       "https://www.fsa.go.jp/en/policy/sftl/index.html",
-      "https://www.pbc.gov.cn/en/3688110/3688172/4437084/index.html",
-      "https://www.bis.org/cpmi/publ/d215.htm"
+      "https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/stablecoin-issuers/",
+      "https://www.pbc.gov.cn/en/3688110/3688172/4437084/index.html"
     ]
   },
-  "summary": "This entry sits under fintech index. Read it against 米 / 欧 / 日 「三大円」ステーブルコイングローバルコンプライアンスアーキテクチャ（MRA 相互認証） for peer / contrast context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system / regulatory boundary.",
+  "summary": "This entry sits under fintech index. Read it against 米国・EU・日本のステーブルコイン市場アクセス比較 for peer / contrast context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system / regulatory boundary.",
   "headings": [
-    "ステーブルコイン地政学通貨対立フレームワーク",
+    "ステーブルコイン制度分断フレームワーク",
     "Wiki route",
+    "五つの観察区分",
+    "制度分断を追う観察点",
+    "検証してから追加すべき主張",
+    "利用方法",
     "Related"
   ],
   "body_links": {
-    "wikilinks_count": 15,
+    "wikilinks_count": 8,
     "wikilinks": [
       "INDEX",
       "fintech/INDEX",
-      "fintech/genius-act-501-denylist-mandate",
-      "fintech/hkma-stablecoin-licensing-overview",
-      "fintech/japan-epi-three-types-overview",
+      "fintech/genius-act-501-actual-implementation",
       "fintech/japan-financial-regulation",
       "fintech/japan-stablecoin-regulatory-landscape",
-      "fintech/mica-overview",
-      "fintech/protocol-hedge-strategy-stripe-pattern",
-      "fintech/stablecoin-channel-japan-sbi-jpyc-ring",
       "fintech/tether-business-model-short-treasury-yield",
       "fintech/three-circles-stablecoin-mra-framework",
-      "fintech/wall-street-crypto-network-neutrality",
-      "megabanks/mufg",
-      "payment-firms/jpyc"
+      "fintech/wall-street-crypto-network-neutrality"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX.md",
       "https://finwiki.zksc.io/ja/domains/fintech/",
-      "https://finwiki.zksc.io/ja/fintech/genius-act-501-denylist-mandate/",
-      "https://finwiki.zksc.io/ja/fintech/hkma-stablecoin-licensing-overview/",
-      "https://finwiki.zksc.io/ja/fintech/japan-epi-three-types-overview/",
+      "https://finwiki.zksc.io/ja/fintech/genius-act-501-actual-implementation/",
       "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
       "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
-      "https://finwiki.zksc.io/ja/fintech/mica-overview/",
-      "https://finwiki.zksc.io/ja/fintech/protocol-hedge-strategy-stripe-pattern/",
-      "https://finwiki.zksc.io/ja/fintech/stablecoin-channel-japan-sbi-jpyc-ring/",
       "https://finwiki.zksc.io/ja/fintech/tether-business-model-short-treasury-yield/",
       "https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/",
-      "https://finwiki.zksc.io/ja/fintech/wall-street-crypto-network-neutrality/",
-      "https://finwiki.zksc.io/ja/megabanks/mufg/",
-      "https://finwiki.zksc.io/ja/payment-firms/jpyc/"
+      "https://finwiki.zksc.io/ja/fintech/wall-street-crypto-network-neutrality/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 6,
+    "external_links": [
+      "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R1114",
+      "https://www.fsa.go.jp/en/policy/sftl/index.html",
+      "https://www.govinfo.gov/content/pkg/PLAW-119publ27/pdf/PLAW-119publ27.pdf",
+      "https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/stablecoin-issuers/",
+      "https://www.occ.treas.gov/news-issuances/bulletins/2026/bulletin-2026-3.html",
+      "https://www.pbc.gov.cn/en/3688110/3688172/4437084/index.html"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 3309,
-    "word_like_tokens": 505,
-    "inbound_wikilinks_count": 10,
-    "last_modified": "2026-06-24"
+    "nonspace_chars": 4030,
+    "word_like_tokens": 580,
+    "inbound_wikilinks_count": 9,
+    "last_modified": "2026-07-30"
   }
 }
