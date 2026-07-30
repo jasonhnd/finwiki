@@ -11,10 +11,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/treasury-stablecoin-policy-2025.md",
   "raw_markdown_url": "https://finwiki.zksc.io/fintech/treasury-stablecoin-policy-2025.md",
   "domain": "fintech",
-  "title": "Treasury 2025 Stablecoin Policy Framework · PWG Recommendations and Dual-Track Charters",
+  "title": "U.S. stablecoin policy after the 2025 GENIUS Act",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Treasury 2025 Stablecoin Policy Framework · PWG Recommendations and Dual-Track Charters",
+    "title": "U.S. stablecoin policy after the 2025 GENIUS Act · enacted framework and 2026 rulemaking",
     "aliases": [
       "treasury-2025-stablecoin",
       "pwg-stablecoin-2025",
@@ -28,10 +28,10 @@
     "domain": "fintech",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-11-25",
-    "confidence": "likely",
+    "confidence": "confirmed",
     "tags": [
       "fintech",
       "regulatory",
@@ -49,31 +49,29 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://home.treasury.gov/policy-issues/financial-markets-financial-institutions-and-fiscal-service/digital-assets",
-      "https://home.treasury.gov/news/press-releases (Treasury press releases 2025)",
-      "https://home.treasury.gov/policy-issues/financial-markets-financial-institutions-and-fiscal-service/presidents-working-group-on-financial-markets (PWG)",
-      "https://www.fincen.gov/news-room",
-      "https://www.federalreserve.gov/newsevents/pressreleases.htm",
-      "https://occ.treas.gov/news-issuances/",
-      "https://www.federalregister.gov/",
-      "https://www.whitehouse.gov/presidential-actions/ (EO 14178)"
+      "https://www.congress.gov/bill/119th-congress/senate-bill/1582",
+      "https://www.congress.gov/bill/119th-congress/senate-bill/1582/text",
+      "https://www.congress.gov/crs-product/IN12553",
+      "https://www.whitehouse.gov/briefings-statements/2025/07/the-president-signed-into-law-s-1582/",
+      "https://www.occ.treas.gov/news-issuances/news-releases/2026/nr-occ-2026-9.html",
+      "https://www.occ.treas.gov/topics/laws-and-regulations/occ-regulations/proposed-issuances/occ-proposed-issuances-2026.html"
     ]
   },
-  "summary": "Treasury's 2025 stablecoin policy framework operationalizes the GENIUS Act through three coordinated streams: (1) the President's Working Group on Digital Asset Markets (PWG-DAM) — re-chartered under EO 14178 — published recommendations on issuer eligibility, reserve composition, redemption guarante",
+  "summary": "The GENIUS Act (Public Law 119-27) became law on July 18, 2025. It creates a federal-and-state framework for permitted payment-stablecoin issuers, requires at least 1:1 identifiable reserves from a statutory list, requires a public redemption policy and monthly reserve reporting, and establishes rou",
   "headings": [
-    "Treasury 2025 Stablecoin Policy Framework · PWG Recommendations and Dual-Track Charters",
+    "U.S. stablecoin policy after the 2025 GENIUS Act",
     "TL;DR",
     "Wiki route",
-    "Why this entry exists",
-    "The President's Working Group on Digital Asset Markets",
-    "Composition and chair",
-    "Initial recommendations (delivered 2025-Q3)",
+    "What is enacted, and what is not",
     "Federal-state dual-track architecture",
     "Reserve composition · T-bill requirement and rationale",
-    "Permitted-reserve-asset comparison · GENIUS vs MiCA vs Japan EPI"
+    "Redemption and disclosure · what section 4 actually says",
+    "Treasury, OCC and other regulators · distinct jobs",
+    "Foreign issuers · comparability, not assumed MRAs",
+    "Effective date and rulemaking status"
   ],
   "body_links": {
-    "wikilinks_count": 19,
+    "wikilinks_count": 18,
     "wikilinks": [
       "business/larry-fink-blackrock-digital-asset-template",
       "exchanges/us-crypto-licensing-multi-layer-system",
@@ -92,7 +90,6 @@
       "fintech/paypal-pyusd-stablecoin",
       "fintech/regulatory-reset-2025-usa-crypto-policy",
       "fintech/tether-business-model-short-treasury-yield",
-      "fintech/three-circles-mra-2030-economic-scale",
       "fintech/three-circles-stablecoin-mra-framework"
     ],
     "resolved_wikilinks": [
@@ -113,16 +110,15 @@
       "https://finwiki.zksc.io/ja/fintech/paypal-pyusd-stablecoin/",
       "https://finwiki.zksc.io/ja/fintech/regulatory-reset-2025-usa-crypto-policy/",
       "https://finwiki.zksc.io/ja/fintech/tether-business-model-short-treasury-yield/",
-      "https://finwiki.zksc.io/ja/fintech/three-circles-mra-2030-economic-scale/",
       "https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/"
     ],
     "external_links_count": 0,
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 19344,
-    "word_like_tokens": 3047,
-    "inbound_wikilinks_count": 3,
+    "nonspace_chars": 14654,
+    "word_like_tokens": 2366,
+    "inbound_wikilinks_count": 4,
     "last_modified": "2026-05-29"
   }
 }

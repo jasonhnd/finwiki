@@ -11,10 +11,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/tether-business-model-short-treasury-yield.md",
   "raw_markdown_url": "https://finwiki.zksc.io/fintech/tether-business-model-short-treasury-yield.md",
   "domain": "fintech",
-  "title": "Tether (USDT) のビジネスモデル = ユーザー資金で短期米国債を買って金利を直接利益化、年間 1.5 兆円・40 人体制",
+  "title": "Tether (USDT) の準備金運用モデル — 2025通期・2026年Q1開示",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Tether (USDT) のビジネスモデル = ユーザー資金で短期米国債を買って金利を直接利益化、年間 1.5 兆円・40 人体制",
+    "title": "Tether (USDT) の準備金運用モデル — 2025通期・2026年Q1開示",
     "aliases": [
       "tether-business-model",
       "usdt-economics"
@@ -22,8 +22,8 @@
     "domain": "fintech",
     "type": null,
     "created": "2026-05-12",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-06-23",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-09-21",
     "confidence": "likely",
     "tags": [
@@ -36,14 +36,14 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://tether.to/en/transparency/",
-      "Public Tether reserve attestations and transparency reports.",
-      "Public stablecoin market disclosures and issuer reports."
+      "https://tether.io/en/transparency/",
+      "https://tether.io/news/tether-delivers-10b-profits-in-2025-6-3b-in-excess-reserves-and-record-141-billion-exposure-in-u-s-treasury-holdings/",
+      "https://tether.io/news/tether-posts-1-04b-q1-2026-profit-despite-highly-volatile-global-markets-reaches-all-time-highs-8-23b-reserve-buffer-and-maintains-u-s-treasury-heavy-backing/"
     ]
   },
   "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
   "headings": [
-    "Tether (USDT) のビジネスモデル = ユーザー資金で短期米国債を買って金利を直接利益化、年間 1.5 兆円・40 人体制",
+    "Tether (USDT) の準備金運用モデル — 2025通期・2026年Q1開示",
     "Wiki route",
     "Conclusion",
     "Reasoning",
@@ -52,7 +52,7 @@
     "Related"
   ],
   "body_links": {
-    "wikilinks_count": 9,
+    "wikilinks_count": 7,
     "wikilinks": [
       "INDEX",
       "fintech/INDEX",
@@ -60,9 +60,7 @@
       "fintech/institutional-stablecoin-deposit-token-thesis",
       "fintech/japan-financial-regulation",
       "fintech/japan-stablecoin-regulatory-landscape",
-      "fintech/onchain-finance-vs-crypto-bifurcation",
-      "fintech/stablecoin-revenue-split-economics",
-      "payment-firms/jpyc"
+      "fintech/onchain-finance-vs-crypto-bifurcation"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX.md",
@@ -71,17 +69,20 @@
       "https://finwiki.zksc.io/ja/fintech/institutional-stablecoin-deposit-token-thesis/",
       "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
       "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
-      "https://finwiki.zksc.io/ja/fintech/onchain-finance-vs-crypto-bifurcation/",
-      "https://finwiki.zksc.io/ja/fintech/stablecoin-revenue-split-economics/",
-      "https://finwiki.zksc.io/ja/payment-firms/jpyc/"
+      "https://finwiki.zksc.io/ja/fintech/onchain-finance-vs-crypto-bifurcation/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 4,
+    "external_links": [
+      "https://tether.io/en/transparency/",
+      "https://tether.io/news/tether-delivers-10b-profits-in-2025-6-3b-in-excess-reserves-and-record-141-billion-exposure-in-u-s-treasury-holdings/",
+      "https://tether.io/news/tether-posts-1-04b-q1-2026-profit-despite-highly-volatile-global-markets-reaches-all-time-highs-8-23b-reserve-buffer-and-maintains-u-s-treasury-heavy-backing/",
+      "https://tether.io/news/tether-signs-big-four-firm-to-complete-first-full-audit-setting-a-new-quality-standard-for-the-digital-asset-economy/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 2387,
-    "word_like_tokens": 361,
-    "inbound_wikilinks_count": 22,
+    "nonspace_chars": 3727,
+    "word_like_tokens": 588,
+    "inbound_wikilinks_count": 19,
     "last_modified": "2026-06-23"
   }
 }

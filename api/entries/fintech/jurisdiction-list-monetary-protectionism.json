@@ -11,23 +11,23 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/jurisdiction-list-monetary-protectionism.md",
   "raw_markdown_url": "https://finwiki.zksc.io/fintech/jurisdiction-list-monetary-protectionism.md",
   "domain": "fintech",
-  "title": "司法管轄区リストとしての貨幣保護主義ツール",
+  "title": "GENIUS Act 第18条の域外制度比較",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "司法管轄区リスト —— 貨幣保護主義の新形態",
+    "title": "GENIUS Act 第18条の域外制度比較 —— 貨幣保護主義という分析レンズ",
     "aliases": [
-      "§501(d)",
+      "GENIUS Act Section 18",
+      "comparable foreign regime",
       "jurisdiction list",
-      "相互運用リスト",
       "monetary protectionism"
     ],
     "domain": "fintech",
     "type": null,
     "created": "2026-05-16",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-06-24",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-09-22",
-    "confidence": "certain",
+    "confidence": "likely",
     "tags": [
       "fintech",
       "stablecoin",
@@ -40,59 +40,56 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.congress.gov/bill/119th-congress/senate-bill/394",
-      "https://home.treasury.gov/news/press-releases",
-      "https://www.federalreserve.gov/aboutthefed/section-13.htm",
+      "https://www.govinfo.gov/content/pkg/PLAW-119publ27/pdf/PLAW-119publ27.pdf",
+      "https://www.occ.treas.gov/news-issuances/bulletins/2026/bulletin-2026-3.html",
+      "https://www.occ.treas.gov/news-issuances/federal-register/2026/91fr10202.pdf",
       "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R1114",
       "https://www.fsa.go.jp/en/policy/sftl/index.html"
     ]
   },
-  "summary": "This entry sits under fintech index. Read it against 米/欧/日「3 つの大円」ステーブルコイン・グローバル・コンプラ・アーキテクチャ(MRA 相互認証) for peer / contrast context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system / regulatory boundary.",
+  "summary": "This entry sits under fintech index. Read it against 米国・EU・日本のステーブルコイン市場アクセス比較 for peer / contrast context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system / regulatory boundary.",
   "headings": [
-    "司法管轄区リストとしての貨幣保護主義ツール",
+    "GENIUS Act 第18条の域外制度比較",
     "Wiki route",
-    "法的メカニズム",
-    "第 1 波リスト入り予測",
-    "リスト入りの連鎖反応",
-    "司法管轄区へ",
-    "コンプラ SC 発行者へ",
-    "リスト外へ",
-    "貨幣保護主義の歴史的先例",
-    "応用 / 転用"
+    "法令が実際に定めること",
+    "2026 年 7 月時点の実装状況",
+    "「貨幣保護主義」仮説の使い方",
+    "日本市場への読み替え",
+    "関連"
   ],
   "body_links": {
-    "wikilinks_count": 10,
+    "wikilinks_count": 8,
     "wikilinks": [
       "fintech/INDEX",
       "fintech/central-banking-function-unbundling",
-      "fintech/fatf-travel-rule-cross-border-stack",
-      "fintech/genius-act-501-denylist-mandate",
+      "fintech/genius-act-501-actual-implementation",
+      "fintech/global-stablecoin-regulatory-five-pole-matrix",
       "fintech/japan-epi-four-camps-comparison",
       "fintech/japan-financial-regulation",
       "fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage",
-      "fintech/three-circles-stablecoin-mra-framework",
-      "payment-firms/jpyc",
-      "payment-firms/progmat"
+      "fintech/three-circles-stablecoin-mra-framework"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/ja/domains/fintech/",
       "https://finwiki.zksc.io/ja/fintech/central-banking-function-unbundling/",
-      "https://finwiki.zksc.io/ja/fintech/fatf-travel-rule-cross-border-stack/",
-      "https://finwiki.zksc.io/ja/fintech/genius-act-501-denylist-mandate/",
+      "https://finwiki.zksc.io/ja/fintech/genius-act-501-actual-implementation/",
+      "https://finwiki.zksc.io/ja/fintech/global-stablecoin-regulatory-five-pole-matrix/",
       "https://finwiki.zksc.io/ja/fintech/japan-epi-four-camps-comparison/",
       "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
       "https://finwiki.zksc.io/ja/fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage/",
-      "https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/",
-      "https://finwiki.zksc.io/ja/payment-firms/jpyc/",
-      "https://finwiki.zksc.io/ja/payment-firms/progmat/"
+      "https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 3,
+    "external_links": [
+      "https://www.govinfo.gov/content/pkg/PLAW-119publ27/pdf/PLAW-119publ27.pdf",
+      "https://www.occ.treas.gov/news-issuances/bulletins/2026/bulletin-2026-3.html",
+      "https://www.occ.treas.gov/news-issuances/federal-register/2026/91fr10202.pdf"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 3236,
-    "word_like_tokens": 559,
-    "inbound_wikilinks_count": 23,
+    "nonspace_chars": 3345,
+    "word_like_tokens": 483,
+    "inbound_wikilinks_count": 21,
     "last_modified": "2026-06-24"
   }
 }

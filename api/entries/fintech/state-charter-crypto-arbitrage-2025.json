@@ -11,10 +11,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/state-charter-crypto-arbitrage-2025.md",
   "raw_markdown_url": "https://finwiki.zksc.io/fintech/state-charter-crypto-arbitrage-2025.md",
   "domain": "fintech",
-  "title": "State-Chartered Crypto Arbitrage · 2025 US Federal vs State Race",
+  "title": "US Digital-Asset Charter Paths · 2025–2026 Evidence Matrix",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "State-Chartered Crypto Arbitrage · 2025 US Federal vs State Race",
+    "title": "US Digital-Asset Charter Paths · 2025–2026 Evidence Matrix",
     "aliases": [
       "state-charter-crypto-arbitrage-2025",
       "wyoming-spdi-vs-occ",
@@ -27,10 +27,10 @@
     "domain": "fintech",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-11-25",
-    "confidence": "likely",
+    "confidence": "certain",
     "tags": [
       "fintech",
       "2026-event",
@@ -49,39 +49,41 @@
     "related": [],
     "note": null,
     "sources": [
-      "Wyoming Banking Division SPDI register",
-      "Nevada Financial Institutions Division digital asset framework",
-      "NYDFS BitLicense register",
-      "Texas Department of Banking guidance (2023-2025)",
-      "OCC Interpretive Letters 1170 / 1172 / 1174",
-      "Custodia Bank v. Federal Reserve Board litigation docket",
-      "Kraken Financial corporate disclosures",
-      "Public press: WSJ / Bloomberg / Coindesk / The Block coverage 2024-2026"
+      "https://wyomingbankingdivision.wyo.gov/banks-and-trust-companies/special-purpose-depository-institutions",
+      "https://wyomingbankingdivision.wyo.gov/banks-and-trust-companies/special-purpose-depository-institutions/spdi-call-report",
+      "https://www.federalreserve.gov/newsevents/pressreleases/orders20230127a.htm",
+      "https://www.ca10.uscourts.gov/sites/ca10/files/opinions/010111327582.pdf",
+      "https://www.dfs.ny.gov/virtual_currency_businesses",
+      "https://dob.texas.gov/sites/default/files/files/consumer-information/sm1037.pdf",
+      "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10492/Overview",
+      "https://www.occ.treas.gov/topics/charters-and-licensing/interpretations-and-decisions/index-interpretations-and-decisions.html",
+      "https://www.supremecourt.gov/docket/docketfiles/html/public/26-62.html"
     ]
   },
-  "summary": "US crypto firms in 2025-2026 face a four-way regulatory arbitrage: the federal OCC trust bank charter path (Bridge/Stripe pioneered), state-chartered Wyoming SPDI (Custodia, Kraken Financial), Nevada digital asset bank charter (2023-launched, slower uptake), and New York BitLicense (exodus accelerat",
+  "summary": "There is no single federal-versus-state “arbitrage” score. An OCC national trust charter, Wyoming SPDI charter, New York BitLicense or limited-purpose trust charter, and Texas money-transmission determination confer different powers and obligations. None of them automatically grants a Federal Reserv",
   "headings": [
-    "State-Chartered Crypto Arbitrage · 2025 US Federal vs State Race",
+    "US Digital-Asset Charter Paths · 2025–2026 Evidence Matrix",
     "TL;DR",
     "Wiki route",
-    "The four arbitrage paths — comparison",
-    "Wyoming SPDI — the speed leader",
-    "Custodia Bank — the test case",
-    "Kraken Financial — the operational case",
-    "Two Ocean Trust and others",
-    "Nevada — the second-mover digital asset bank charter",
-    "New York BitLicense exit pressure"
+    "Verified path comparison",
+    "Wyoming SPDI · verified scope",
+    "Custodia · Federal Reserve access is separate",
+    "Nevada AB 466 · correction",
+    "New York · two authorization paths, not an “exodus” proxy",
+    "Texas · activity-based money-transmission analysis",
+    "Federal and state authority must be tested activity by activity"
   ],
   "body_links": {
-    "wikilinks_count": 9,
+    "wikilinks_count": 10,
     "wikilinks": [
       "INDEX",
       "exchanges/us-crypto-licensing-multi-layer-system",
       "fintech/INDEX",
       "fintech/cftc-sec-crypto-jurisdiction",
-      "fintech/genius-act-501-denylist-mandate",
+      "fintech/genius-act-501-actual-implementation",
       "fintech/jurisdiction-list-monetary-protectionism",
       "fintech/national-license-private-stablecoin-with-dpi-export",
+      "fintech/occ-bank-charter-crypto-2025",
       "fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage",
       "fintech/regulatory-window-strategic-acquisition"
     ],
@@ -90,18 +92,31 @@
       "https://finwiki.zksc.io/ja/exchanges/us-crypto-licensing-multi-layer-system/",
       "https://finwiki.zksc.io/ja/domains/fintech/",
       "https://finwiki.zksc.io/ja/fintech/cftc-sec-crypto-jurisdiction/",
-      "https://finwiki.zksc.io/ja/fintech/genius-act-501-denylist-mandate/",
+      "https://finwiki.zksc.io/ja/fintech/genius-act-501-actual-implementation/",
       "https://finwiki.zksc.io/ja/fintech/jurisdiction-list-monetary-protectionism/",
       "https://finwiki.zksc.io/ja/fintech/national-license-private-stablecoin-with-dpi-export/",
+      "https://finwiki.zksc.io/ja/fintech/occ-bank-charter-crypto-2025/",
       "https://finwiki.zksc.io/ja/fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage/",
       "https://finwiki.zksc.io/ja/fintech/regulatory-window-strategic-acquisition/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 11,
+    "external_links": [
+      "https://archive.leg.state.nv.us/Session/82nd2023/Reports/LastHistActionA.html",
+      "https://dob.texas.gov/sites/default/files/files/consumer-information/sm1037.pdf",
+      "https://www.ca10.uscourts.gov/sites/ca10/files/opinions/010111327582.pdf",
+      "https://www.dfs.ny.gov/virtual_currency_businesses",
+      "https://www.federalreserve.gov/newsevents/pressreleases/orders20230127a.htm",
+      "https://www.leg.state.nv.us/App/NELIS/REL/82nd2023/Bill/10492/Overview",
+      "https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2025/int1183.pdf",
+      "https://www.occ.treas.gov/topics/charters-and-licensing/interpretations-and-decisions/index-interpretations-and-decisions.html",
+      "https://www.supremecourt.gov/docket/docketfiles/html/public/26-62.html",
+      "https://wyomingbankingdivision.wyo.gov/banks-and-trust-companies/special-purpose-depository-institutions",
+      "https://wyomingbankingdivision.wyo.gov/banks-and-trust-companies/special-purpose-depository-institutions/spdi-call-report"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 18225,
-    "word_like_tokens": 2994,
+    "nonspace_chars": 14322,
+    "word_like_tokens": 2328,
     "inbound_wikilinks_count": 0,
     "last_modified": "2026-05-29"
   }

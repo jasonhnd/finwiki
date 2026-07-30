@@ -11,23 +11,23 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/tokenized-mmf-wisdomtree-hashnote.md",
   "raw_markdown_url": "https://finwiki.zksc.io/fintech/tokenized-mmf-wisdomtree-hashnote.md",
   "domain": "fintech",
-  "title": "Tokenized MMF 拡張 · WisdomTree WTGXX × Hashnote USYC · BUIDL 以外の第二梯団マトリックス",
+  "title": "トークン化短期資産商品の分類 · WisdomTree WTGXX × Hashnote USYC × BUIDL",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Tokenized MMF 拡張 · WisdomTree WTGXX × Hashnote USYC · BUIDL 以外の第二梯団マトリックス",
+    "title": "トークン化短期資産商品の分類 · WisdomTree WTGXX × Hashnote USYC × BUIDL",
     "aliases": [
       "tokenized-mmf-wisdomtree-hashnote",
       "WTGXX",
       "USYC",
       "Hashnote USYC",
       "WisdomTree WTGXX",
-      "second-tier tokenized MMF"
+      "tokenized short-duration product comparison"
     ],
     "domain": "fintech",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-06-24",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-08-08",
     "confidence": "likely",
     "tags": [
@@ -39,7 +39,7 @@
       "usyc",
       "wtgxx",
       "rwa",
-      "second-tier",
+      "product-classification",
       "comparison-matrix"
     ],
     "status": "active",
@@ -51,14 +51,13 @@
       "https://www.wisdomtree.com/insights/wisdomtree-prime",
       "https://www.usyc.com/",
       "https://www.hashnote.com/",
-      "https://www.circle.com/blog/circle-acquires-hashnote",
-      "https://www.sec.gov/Archives/edgar/data/wisdomtree-prime",
-      "https://www.coindesk.com/business/2024/circle-hashnote-acquisition-usyc"
+      "https://www.circle.com/pressroom/circle-announces-acquisition-of-hashnote-and-usyc-tokenized-money-market-fund-alongside-strategic-partnership-with-global-trading-firm-drw",
+      "https://www.sec.gov/Archives/edgar/data/2013810/000201439024000001/xslFormDX01/primary_doc.xml"
     ]
   },
-  "summary": "This entry sits under fintech index. Read it with BlackRock BUIDL（leader 第一梯団）and Franklin BENJI / Apollo ACRED for the full tokenized-MMF and tokenized-RWA matrix, and with 準備金相互ロックフライホイール for the systemic role tokenized MMF plays as stablecoin yield infrastructure.",
+  "summary": "This entry sits under fintech index. Read it with BlackRock BUIDL and Franklin BENJI / Apollo ACRED for the broader tokenized-MMF and tokenized-RWA matrix, and with 準備金相互ロックフライホイール for the systemic role tokenized MMF plays as stablecoin yield infrastructure. Product rankings require a stated date, s",
   "headings": [
-    "Tokenized MMF 拡張 · WisdomTree WTGXX × Hashnote USYC · BUIDL 以外の第二梯団マトリックス",
+    "トークン化短期資産商品の分類 · WisdomTree WTGXX × Hashnote USYC × BUIDL",
     "Wiki route",
     "Key facts",
     "Mechanism / How it works",
@@ -98,13 +97,17 @@
       "https://finwiki.zksc.io/ja/fintech/portfolio-winner-structure-arm-analog/",
       "https://finwiki.zksc.io/ja/fintech/sky-usds-decentralized-stablecoin/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 3,
+    "external_links": [
+      "https://www.circle.com/pressroom/circle-announces-acquisition-of-hashnote-and-usyc-tokenized-money-market-fund-alongside-strategic-partnership-with-global-trading-firm-drw",
+      "https://www.sec.gov/Archives/edgar/data/2013810/000201439024000001/xslFormDX01/primary_doc.xml",
+      "https://www.wisdomtree.com/investments/etfs/fixed-income/wtgxx"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 5882,
-    "word_like_tokens": 988,
-    "inbound_wikilinks_count": 2,
+    "nonspace_chars": 4571,
+    "word_like_tokens": 665,
+    "inbound_wikilinks_count": 3,
     "last_modified": "2026-06-24"
   }
 }

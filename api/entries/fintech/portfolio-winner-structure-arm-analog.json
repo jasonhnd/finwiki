@@ -11,10 +11,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/portfolio-winner-structure-arm-analog.md",
   "raw_markdown_url": "https://finwiki.zksc.io/fintech/portfolio-winner-structure-arm-analog.md",
   "domain": "fintech",
-  "title": "ポートフォリオ勝者構造(Portfolio Winner Structure)",
+  "title": "ポートフォリオ勝者構造（検証フレーム）",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "ポートフォリオ勝者構造 —— ARM Holdings の金融インフラ版",
+    "title": "ポートフォリオ勝者構造 —— Arm 類比を使うための検証フレーム",
     "aliases": [
       "portfolio winner",
       "ポートフォリオ勝者",
@@ -24,10 +24,10 @@
     "domain": "fintech",
     "type": null,
     "created": "2026-05-16",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-06-24",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-09-22",
-    "confidence": "certain",
+    "confidence": "likely",
     "tags": [
       "fintech",
       "investment-strategy",
@@ -41,58 +41,56 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://investor.visa.com/financial-information/sec-filings/default.aspx",
-      "https://www.arm.com/company/investors",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001403161&type=10-K",
-      "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001973239&type=10-K",
-      "https://www.mastercard.com/news/press/"
+      "https://investors.arm.com/",
+      "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.20881.html",
+      "https://developer.visa.com/capabilities/visa-tokenized-asset-platform/",
+      "https://corporate.visa.com/en/solutions/crypto/stablecoins/stablecoins-and-the-future-of-onchain-finance.html",
+      "https://developer.visa.com/capabilities/visa-intelligent-commerce/overview",
+      "https://developer.visa.com/capabilities/trusted-agent-protocol/overview"
     ]
   },
   "summary": "This entry sits under fintech index. Read it against ウォール街暗号ネットワーク中立投資戦略(Visa 二軌モデル) for peer / contrast context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system / regulatory boundary.",
   "headings": [
-    "ポートフォリオ勝者構造(Portfolio Winner Structure)",
+    "ポートフォリオ勝者構造（検証フレーム）",
     "Wiki route",
-    "成立条件(4 必要)",
+    "成立を検証する条件",
     "歴史的先例",
     "ARM Holdings(1990-2020 年代)",
-    "その他の先例",
     "金融インフラ再構築における再現",
-    "代替候補(他の「ポートフォリオ勝者」候補)",
+    "候補を比較する方法",
     "失敗モード",
-    "応用 / 転用テンプレート"
+    "応用 / 転用テンプレート",
+    "関連"
   ],
   "body_links": {
-    "wikilinks_count": 10,
+    "wikilinks_count": 5,
     "wikilinks": [
-      "agent-economy/privy-aws-agentcore-default-wallet",
-      "agent-economy/x402-cloudflare-aws-edge-integration",
       "fintech/INDEX",
-      "fintech/blackrock-buidl-sc-issuer-adoption",
       "fintech/central-banking-function-unbundling",
       "fintech/japan-financial-regulation",
-      "fintech/jpmorgan-jpmd-coin",
-      "fintech/paypal-pyusd-stablecoin",
       "fintech/protocol-hedge-strategy-stripe-pattern",
       "fintech/wall-street-crypto-network-neutrality"
     ],
     "resolved_wikilinks": [
-      "https://finwiki.zksc.io/ja/agent-economy/privy-aws-agentcore-default-wallet/",
-      "https://finwiki.zksc.io/ja/agent-economy/x402-cloudflare-aws-edge-integration/",
       "https://finwiki.zksc.io/ja/domains/fintech/",
-      "https://finwiki.zksc.io/ja/fintech/blackrock-buidl-sc-issuer-adoption/",
       "https://finwiki.zksc.io/ja/fintech/central-banking-function-unbundling/",
       "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
-      "https://finwiki.zksc.io/ja/fintech/jpmorgan-jpmd-coin/",
-      "https://finwiki.zksc.io/ja/fintech/paypal-pyusd-stablecoin/",
       "https://finwiki.zksc.io/ja/fintech/protocol-hedge-strategy-stripe-pattern/",
       "https://finwiki.zksc.io/ja/fintech/wall-street-crypto-network-neutrality/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 6,
+    "external_links": [
+      "https://corporate.visa.com/en/solutions/crypto/stablecoins/stablecoins-and-the-future-of-onchain-finance.html",
+      "https://developer.visa.com/capabilities/trusted-agent-protocol/overview",
+      "https://developer.visa.com/capabilities/visa-intelligent-commerce/overview",
+      "https://developer.visa.com/capabilities/visa-tokenized-asset-platform/",
+      "https://investors.arm.com/",
+      "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.20881.html"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 3486,
-    "word_like_tokens": 555,
+    "nonspace_chars": 4328,
+    "word_like_tokens": 577,
     "inbound_wikilinks_count": 12,
     "last_modified": "2026-06-24"
   }

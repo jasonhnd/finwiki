@@ -11,10 +11,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/cross-border-sc-via-swift-api.md",
   "raw_markdown_url": "https://finwiki.zksc.io/fintech/cross-border-sc-via-swift-api.md",
   "domain": "fintech",
-  "title": "跨境 SC via SWIFT API",
+  "title": "クロスボーダー SC via Swift API",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "跨境 SC via SWIFT API —— Project Pax / Project Agorá 与 SWIFT 集成パターン",
+    "title": "クロスボーダー SC via Swift API — Project Pax の検証済み構成",
     "aliases": [
       "cross-border SC via SWIFT API",
       "SWIFT API + blockchain settlement",
@@ -24,8 +24,8 @@
     "domain": "fintech",
     "type": null,
     "created": "2026-05-18",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-06-24",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-09-22",
     "confidence": "likely",
     "tags": [
@@ -42,20 +42,17 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.swift.com/news-events/news/swift-completes-cbdc-sandbox-testing",
-      "https://www.swift.com/our-solutions/swift-payment-controls",
-      "https://www.bis.org/about/bisih/topics/fmis/agora.htm",
-      "https://www.boj.or.jp/en/paym/digital/index.htm",
-      "https://www.smfg.co.jp/english/news_e/2023/"
+      "https://www.datachain.jp/news/progmat-and-datachain-launch-project-pax",
+      "https://www.bis.org/about/bisih/topics/fmis/agora.htm"
     ]
   },
   "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
   "headings": [
-    "跨境 SC via SWIFT API",
+    "クロスボーダー SC via Swift API",
     "Wiki route",
     "基本パターン",
     "なぜ SWIFT API を前面に置くのか",
-    "TD vs SC の跨境パス分岐",
+    "他の仕組みとの比較境界",
     "Project Pax の技術構成",
     "BIS Project Agorá との比較",
     "限界 / リスク",
@@ -63,7 +60,7 @@
     "Related"
   ],
   "body_links": {
-    "wikilinks_count": 12,
+    "wikilinks_count": 9,
     "wikilinks": [
       "INDEX",
       "fintech/INDEX",
@@ -73,10 +70,7 @@
       "fintech/japan-financial-regulation",
       "fintech/japan-stablecoin-regulatory-landscape",
       "fintech/jp-trust-type-sc-architecture",
-      "fintech/stablecoin-crossborder-b2b-growth",
-      "megabanks/mufg",
-      "megabanks/smfg",
-      "payment-firms/progmat"
+      "fintech/stablecoin-crossborder-b2b-growth"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX.md",
@@ -87,18 +81,18 @@
       "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
       "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
       "https://finwiki.zksc.io/ja/fintech/jp-trust-type-sc-architecture/",
-      "https://finwiki.zksc.io/ja/fintech/stablecoin-crossborder-b2b-growth/",
-      "https://finwiki.zksc.io/ja/megabanks/mufg/",
-      "https://finwiki.zksc.io/ja/megabanks/smfg/",
-      "https://finwiki.zksc.io/ja/payment-firms/progmat/"
+      "https://finwiki.zksc.io/ja/fintech/stablecoin-crossborder-b2b-growth/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 2,
+    "external_links": [
+      "https://www.bis.org/about/bisih/topics/fmis/agora.htm",
+      "https://www.datachain.jp/news/progmat-and-datachain-launch-project-pax"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 3808,
-    "word_like_tokens": 672,
-    "inbound_wikilinks_count": 17,
+    "nonspace_chars": 4278,
+    "word_like_tokens": 640,
+    "inbound_wikilinks_count": 16,
     "last_modified": "2026-06-24"
   }
 }

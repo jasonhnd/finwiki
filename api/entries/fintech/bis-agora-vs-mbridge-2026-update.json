@@ -11,23 +11,21 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/bis-agora-vs-mbridge-2026-update.md",
   "raw_markdown_url": "https://finwiki.zksc.io/fintech/bis-agora-vs-mbridge-2026-update.md",
   "domain": "fintech",
-  "title": "BIS Agora vs mBridge · 2026 Update — Three-Pole CBDC Map & Regulatory Friction",
+  "title": "BIS Project Agorá vs mBridge · 2026 Evidence-Bounded Update",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "BIS Agora vs mBridge · 2026 Update — Three-Pole CBDC Map & Regulatory Friction",
+    "title": "BIS Project Agorá vs mBridge · 2026 Evidence-Bounded Update",
     "aliases": [
       "bis-agora-vs-mbridge-2026-update",
       "agora-mbridge-2026",
-      "three-pole-cbdc-map",
-      "agora-blackrock-citi-morgan-stanley",
-      "mbridge-eighth-member",
+      "mbridge-membership-boundary",
       "cbdc-tokenized-deposit-tradeoff"
     ],
     "domain": "fintech",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-11-25",
     "confidence": "likely",
     "tags": [
@@ -37,45 +35,36 @@
       "mbridge",
       "agora",
       "bis",
-      "blackrock",
-      "citi",
-      "morgan-stanley",
-      "treasury-sanctions",
-      "three-pole-map",
-      "tokenized-deposit"
+      "tokenized-deposit",
+      "wholesale-payments"
     ],
     "status": "active",
     "canonical_anchor": null,
     "related": [],
     "note": null,
     "sources": [
-      "BIS Project Agora press releases (2024-2026)",
-      "BIS mBridge project disclosures (2021-2025)",
-      "PBoC / HKMA / BoT / CBUAE / SAMA and any additional participating central-bank statements",
-      "US Treasury OFAC sanctions framework (2024-2026 updates)",
-      "BlackRock public CBDC / tokenized cash strategy disclosures",
-      "Citi public Treasury Services strategy (2025-2026)",
-      "Morgan Stanley institutional tokenization initiatives",
-      "BIS Annual Report 2025 + 2026 interim statements",
-      "Hong Kong Project Ensemble updates",
-      "Singapore MAS Project Guardian updates"
+      "https://www.bis.org/about/bisih/topics/cbdc/mcbdc_bridge.htm",
+      "https://www.bis.org/speeches/sp241031.htm",
+      "https://www.bis.org/about/bisih/topics/fmis/agora.htm",
+      "https://www.bis.org/innovation_hub/projects/agora_list_participants.pdf",
+      "https://www.bis.org/publ/arpdf/ar2026e3.htm"
     ]
   },
-  "summary": "The 2025-10 BIS exit from mBridge (covered in mBridge vs Agora · BIS 2025 同年切换) was not a project sunset — it was a handover to the participating central banks while BIS doubled down on Agora. By 2026-05, the post-handover picture is clearer: mBridge has continued under PBoC + HKMA + BoT + CBUAE + S",
+  "summary": "The BIS handed mBridge to its partners in October 2024 after the platform reached minimum viable product (MVP) stage. The BIS page says the MVP is enabled for real-value transactions subject to each jurisdiction's preparedness; it does not document commercial operation, an additional-member negotiat",
   "headings": [
-    "BIS Agora vs mBridge · 2026 Update — Three-Pole CBDC Map & Regulatory Friction",
+    "BIS Project Agorá vs mBridge · 2026 Evidence-Bounded Update",
     "TL;DR",
     "Wiki route",
     "What's new in 2026 vs the 2025 baseline",
     "mBridge post-BIS — operational continuity",
     "The \"eighth member\" question",
-    "Agora private-sector expansion",
-    "Why this expansion matters",
-    "US Treasury sanctions friction",
+    "Agorá prototype scope",
+    "What the prototype establishes",
+    "Legal and compliance boundary",
     "CBDC vs tokenized-deposit architecture trade-off"
   ],
   "body_links": {
-    "wikilinks_count": 17,
+    "wikilinks_count": 15,
     "wikilinks": [
       "INDEX",
       "fintech/INDEX",
@@ -85,8 +74,6 @@
       "fintech/bis-project-ensemble-vs-mbridge-dual-track",
       "fintech/bis-project-guardian-overview",
       "fintech/bis-project-guardian-vs-agora-asia-three-poles",
-      "fintech/blackrock-buidl-sc-issuer-adoption",
-      "fintech/blackrock-buidl-tokenized-mmf-overview",
       "fintech/institutional-stablecoin-deposit-token-thesis",
       "fintech/jurisdiction-list-monetary-protectionism",
       "fintech/mbridge-bis-multi-cbdc-overview",
@@ -104,8 +91,6 @@
       "https://finwiki.zksc.io/ja/fintech/bis-project-ensemble-vs-mbridge-dual-track/",
       "https://finwiki.zksc.io/ja/fintech/bis-project-guardian-overview/",
       "https://finwiki.zksc.io/ja/fintech/bis-project-guardian-vs-agora-asia-three-poles/",
-      "https://finwiki.zksc.io/ja/fintech/blackrock-buidl-sc-issuer-adoption/",
-      "https://finwiki.zksc.io/ja/fintech/blackrock-buidl-tokenized-mmf-overview/",
       "https://finwiki.zksc.io/ja/fintech/institutional-stablecoin-deposit-token-thesis/",
       "https://finwiki.zksc.io/ja/fintech/jurisdiction-list-monetary-protectionism/",
       "https://finwiki.zksc.io/ja/fintech/mbridge-bis-multi-cbdc-overview/",
@@ -114,12 +99,20 @@
       "https://finwiki.zksc.io/ja/fintech/mbridge-six-central-banks-roster/",
       "https://finwiki.zksc.io/ja/fintech/onchain-finance-vs-crypto-bifurcation/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 7,
+    "external_links": [
+      "https://www.bis.org/about/bisih/topics/cbdc/mcbdc_bridge.htm",
+      "https://www.bis.org/about/bisih/topics/fmis/agora.htm",
+      "https://www.bis.org/innovation_hub/projects/agora_list_participants.pdf",
+      "https://www.bis.org/publ/arpdf/ar2026e3.htm",
+      "https://www.bis.org/speeches/sp241031.htm",
+      "https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/fintech/project-ensemble/",
+      "https://www.mas.gov.sg/schemes-and-initiatives/project-guardian"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 15010,
-    "word_like_tokens": 2375,
+    "nonspace_chars": 12481,
+    "word_like_tokens": 2046,
     "inbound_wikilinks_count": 1,
     "last_modified": "2026-06-01"
   }

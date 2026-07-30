@@ -28,8 +28,8 @@
     "domain": "fintech",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-11-25",
     "confidence": "likely",
     "tags": [
@@ -50,72 +50,66 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.bankofengland.co.uk/",
-      "https://www.bankofengland.co.uk/the-digital-pound",
-      "https://www.bankofengland.co.uk/-/media/boe/files/paper/2023/the-digital-pound-consultation-paper.pdf",
-      "https://www.gov.uk/government/consultations/the-digital-pound",
-      "https://www.bankofengland.co.uk/news/2024/january/response-to-the-digital-pound-consultation-paper",
-      "https://www.ecb.europa.eu/euro/digital_euro/html/index.en.html",
-      "https://www.bis.org/publ/work1116.htm"
+      "https://www.bankofengland.co.uk/paper/2023/the-digital-pound-consultation-paper",
+      "https://www.bankofengland.co.uk/-/media/boe/files/paper/2024/responses-to-the-digital-pound-consultation-paper.pdf",
+      "https://www.bankofengland.co.uk/financial-stability-paper/2025/holding-limits-for-sterling-denominated-systemic-stablecoins-and-a-digital-pound",
+      "https://www.bankofengland.co.uk/the-digital-pound/progress-update-digital-pound-design-phase",
+      "https://www.bankofengland.co.uk/news/2026/june/rpib-launches-consultation-on-next-generation-uk-payments-infrastructure",
+      "https://www.ecb.europa.eu/euro/digital_euro/progress/html/index.en.html",
+      "https://www.ecb.europa.eu/euro/digital_euro/faqs/html/ecb.faq_digital_euro.en.html",
+      "https://www.ecb.europa.eu/euro/digital_euro/features/privacy/html/index.en.html"
     ]
   },
-  "summary": "This entry sits under fintech index as the per-jurisdiction deep dive on the Bank of England (BoE) and HM Treasury (HMT) digital pound consultation and design phase — the UK retail-CBDC track. Read it against ECB digital euro retail rollout (the parallel EU programme with similar design choices), CB",
+  "summary": "This entry sits under fintech index and tracks the Bank of England (BoE) and HM Treasury (HMT) digital pound as a conditional UK retail-CBDC programme. Read it alongside ECB digital euro retail rollout for the euro-area comparator and CBDC three active paradigms for architectural context.",
   "headings": [
     "Bank of England digital pound consultation — 2023-2026 design phase, private-sector wallets, comparison with ECB",
     "Wiki route",
-    "Programme architecture",
-    "Matrix A · Statute, regulator, phase status",
-    "Matrix B · Design choices — explicitly mirror the EU digital euro architecture",
-    "Matrix C · The 2024 consultation response — substantive findings",
-    "Matrix D · Private-sector wallet model (PIP + ESIP)",
-    "Matrix E · Holding limit debate — £10,000-£20,000 vs €3,000-€4,000",
-    "Matrix F · Comparison to peer programmes",
-    "Origin and evolution"
+    "Status at a glance",
+    "What the design phase covers",
+    "Proposed platform model",
+    "Commitments recorded in the 2024 response",
+    "Holding limits: proposal, analysis, and unresolved policy",
+    "Bounded comparison with the digital euro",
+    "Retail and wholesale scope boundary",
+    "Evidence-bounded timeline"
   ],
   "body_links": {
-    "wikilinks_count": 17,
+    "wikilinks_count": 8,
     "wikilinks": [
       "INDEX",
       "fintech/INDEX",
-      "fintech/bahamas-sand-dollar-cbdc",
-      "fintech/bis-project-agora-overview",
       "fintech/cbdc-adoption-curve-china-japan-eu-india-2026",
       "fintech/cbdc-multi-tier-architecture-overview",
       "fintech/cbdc-multi-tier-architecture-three-paradigms",
       "fintech/cbdc-multi-tier-architecture-tradeoffs",
       "fintech/central-banking-function-unbundling",
-      "fintech/e-euro-retail-rollout",
-      "fintech/e-euro-retail-rollout\\",
-      "fintech/hkma-stablecoin-licensing-overview",
-      "fintech/jamaica-jam-dex-cbdc",
-      "fintech/jamaica-jam-dex-cbdc\\",
-      "fintech/mbridge-bis-multi-cbdc-overview",
-      "fintech/mica-overview",
-      "fintech/nigeria-enaira-retail-cbdc"
+      "fintech/e-euro-retail-rollout"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX.md",
       "https://finwiki.zksc.io/ja/domains/fintech/",
-      "https://finwiki.zksc.io/ja/fintech/bahamas-sand-dollar-cbdc/",
-      "https://finwiki.zksc.io/ja/fintech/bis-project-agora-overview/",
       "https://finwiki.zksc.io/ja/fintech/cbdc-adoption-curve-china-japan-eu-india-2026/",
       "https://finwiki.zksc.io/ja/fintech/cbdc-multi-tier-architecture-overview/",
       "https://finwiki.zksc.io/ja/fintech/cbdc-multi-tier-architecture-three-paradigms/",
       "https://finwiki.zksc.io/ja/fintech/cbdc-multi-tier-architecture-tradeoffs/",
       "https://finwiki.zksc.io/ja/fintech/central-banking-function-unbundling/",
-      "https://finwiki.zksc.io/ja/fintech/e-euro-retail-rollout/",
-      "https://finwiki.zksc.io/ja/fintech/hkma-stablecoin-licensing-overview/",
-      "https://finwiki.zksc.io/ja/fintech/jamaica-jam-dex-cbdc/",
-      "https://finwiki.zksc.io/ja/fintech/mbridge-bis-multi-cbdc-overview/",
-      "https://finwiki.zksc.io/ja/fintech/mica-overview/",
-      "https://finwiki.zksc.io/ja/fintech/nigeria-enaira-retail-cbdc/"
+      "https://finwiki.zksc.io/ja/fintech/e-euro-retail-rollout/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 8,
+    "external_links": [
+      "https://www.bankofengland.co.uk/-/media/boe/files/paper/2024/responses-to-the-digital-pound-consultation-paper.pdf",
+      "https://www.bankofengland.co.uk/financial-stability-paper/2025/holding-limits-for-sterling-denominated-systemic-stablecoins-and-a-digital-pound",
+      "https://www.bankofengland.co.uk/news/2026/june/rpib-launches-consultation-on-next-generation-uk-payments-infrastructure",
+      "https://www.bankofengland.co.uk/paper/2023/the-digital-pound-consultation-paper",
+      "https://www.bankofengland.co.uk/the-digital-pound/progress-update-digital-pound-design-phase",
+      "https://www.ecb.europa.eu/euro/digital_euro/faqs/html/ecb.faq_digital_euro.en.html",
+      "https://www.ecb.europa.eu/euro/digital_euro/features/privacy/html/index.en.html",
+      "https://www.ecb.europa.eu/euro/digital_euro/progress/html/index.en.html"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 16892,
-    "word_like_tokens": 2751,
+    "nonspace_chars": 12191,
+    "word_like_tokens": 2053,
     "inbound_wikilinks_count": 2,
     "last_modified": "2026-06-01"
   }

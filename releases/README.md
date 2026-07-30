@@ -26,6 +26,7 @@
 - `v2026.07.29-15` は、Issue #236 の table-related warnings 196 件を derivatives / structured-finance の 54 source entries で公開一次資料へ校正し、contract specification、benchmark fallback、JHF MBS、vehicle / tax boundary を修正して ja / en 108 mirrors を同期する release です。
 - `v2026.07.29-16` は、Issue #237 の table-related warnings 123 件を exchanges の 81 source entries で公開一次資料へ校正して 0 件へ減らし、運営法人、規制 status、service lifecycle、incident と dynamic market / custody comparison の境界を修正して ja / en 162 mirrors を同期する release です。
 - `v2026.07.29-17` は、Issue #238 の table-related warnings 233 件を finance / real-estate-finance の 49 source entries で公開一次資料へ校正して 0 件へ減らし、法定 threshold、model assumption、J-REIT の統計口径、issuer-specific metric を修正して ja / en 98 mirrors を同期する release です。
+- `v2026.07.30` は、Issue #239 の table-related warnings 162 件を fintech の 65 source entries で公開一次資料へ校正して 0 件へ減らし、法令・licence・pilot・issuer / reserve・redemption・market metric の境界を修正して ja / en 130 mirrors を同期する release です。
 
 ### 個別には公開しない staging record
 
@@ -66,6 +67,7 @@ This registry makes the relationship among `releases/v*.md`, Git tags, and GitHu
 - `v2026.07.29-15` publishes Issue #236's public-primary-source corrections for 196 table-related warnings across 54 derivatives / structured-finance source entries, correcting contract specifications, benchmark fallbacks, JHF MBS mechanics, and vehicle / tax boundaries while synchronizing 108 ja/en mirrors.
 - `v2026.07.29-16` publishes Issue #237's public-primary-source corrections that reduce 123 table-related warnings to zero across 81 exchange source entries, correcting operating-entity, regulatory-status, service-lifecycle, incident, and dynamic market / custody-comparison boundaries while synchronizing 162 ja/en mirrors.
 - `v2026.07.29-17` publishes Issue #238's public-primary-source corrections that reduce 233 table-related warnings to zero across 49 finance / real-estate-finance source entries, correcting statutory thresholds, model assumptions, J-REIT statistical denominators, and issuer-specific metrics while synchronizing 98 ja/en mirrors.
+- `v2026.07.30` publishes Issue #239's public-primary-source corrections that reduce 162 table-related warnings to zero across 65 fintech source entries, correcting boundaries among statutes, licences, pilots, issuer and reserve structures, redemption, and market metrics while synchronizing 130 ja/en mirrors.
 
 ### Staging records not published individually
 
@@ -106,6 +108,7 @@ The 6,127-line detailed timeline removed from the root `CHANGELOG.md` during the
 - `v2026.07.29-15` 发布 Issue #236 对 derivatives / structured-finance 的 54 个 source entries 中 196 条 table-related warnings 的公开一手资料校正，修复 contract specification、benchmark fallback、JHF MBS 机制与 vehicle / tax boundary，并同步 108 份 ja / en mirrors。
 - `v2026.07.29-16` 发布 Issue #237 对 exchanges 的 81 个 source entries 中 123 条 table-related warnings 的公开一手资料校正并将其降至 0，修复运营法人、监管 status、service lifecycle、incident 与 dynamic market / custody comparison 的边界，并同步 162 份 ja / en mirrors。
 - `v2026.07.29-17` 发布 Issue #238 对 finance / real-estate-finance 的 49 个 source entries 中 233 条 table-related warnings 的公开一手资料校正并将其降至 0，修复法定 threshold、model assumption、J-REIT 统计分母与 issuer-specific metric，并同步 98 份 ja / en mirrors。
+- `v2026.07.30` 发布 Issue #239 对 fintech 的 65 个 source entries 中 162 条 table-related warnings 的公开一手资料校正并将其降至 0，修复法律、licence、pilot、issuer / reserve 结构、redemption 与 market metric 的边界，并同步 130 份 ja / en mirrors。
 
 ### 不单独发布的 staging record
 

@@ -11,10 +11,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/e-euro-retail-rollout.md",
   "raw_markdown_url": "https://finwiki.zksc.io/fintech/e-euro-retail-rollout.md",
   "domain": "fintech",
-  "title": "Digital euro retail rollout — Preparation Phase 2023-2026, anti-disintermediation design, e-krona pause comparison",
+  "title": "Digital euro retail project — current phase, 2027 beta pilot, conditional 2029 readiness",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Digital euro retail rollout — Preparation Phase 2023-2026, anti-disintermediation design, e-krona pause comparison",
+    "title": "Digital euro retail project — current phase, 2027 beta pilot, conditional 2029 readiness",
     "aliases": [
       "e-euro-retail-rollout",
       "digital euro retail rollout",
@@ -26,8 +26,8 @@
     "domain": "fintech",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-11-25",
     "confidence": "likely",
     "tags": [
@@ -54,21 +54,21 @@
       "https://www.consilium.europa.eu/en/policies/digital-euro/"
     ]
   },
-  "summary": "This entry sits under fintech index as the per-jurisdiction deep dive on the ECB digital euro for the 2026 Preparation-Phase snapshot. It pairs with CBDC adoption curve 2026 for the four-country comparative view, with CBDC 多层架构概览 for architecture context, and with CBDC 三大现役范式 for the three-paradigm",
+  "summary": "This entry sits under fintech index as the per-jurisdiction deep dive on the ECB digital euro for the 2026-07 current-phase snapshot. It pairs with CBDC adoption curve 2026 for the four-country comparative view, with CBDC 多层架构概览 for architecture context, and with CBDC 三大现役范式 for the three-paradigm c",
   "headings": [
-    "Digital euro retail rollout — Preparation Phase 2023-2026, anti-disintermediation design, e-krona pause comparison",
+    "Digital euro retail project — current phase, 2027 beta pilot, conditional 2029 readiness",
     "Wiki route",
     "Programme architecture",
     "Matrix A · Statute, regulator, phase status",
-    "Matrix B · Design choices — codified anti-disintermediation",
+    "Matrix B · Design choices and stated functions",
     "Matrix C · Preparation-Phase work-streams",
     "Matrix D · Adoption metrics (most recent public)",
     "Matrix E · Holding limit and disintermediation defence (deep dive)",
     "Matrix F · Distribution model",
-    "Comparison to Sweden e-krona pause"
+    "Reference point · Sweden e-krona"
   ],
   "body_links": {
-    "wikilinks_count": 18,
+    "wikilinks_count": 19,
     "wikilinks": [
       "INDEX",
       "fintech/INDEX",
@@ -78,6 +78,7 @@
       "fintech/cbdc-adoption-curve-china-japan-eu-india-2026",
       "fintech/cbdc-multi-tier-architecture-overview",
       "fintech/cbdc-multi-tier-architecture-three-paradigms",
+      "fintech/cbdc-multi-tier-architecture-three-paradigms\\",
       "fintech/cbdc-multi-tier-architecture-tradeoffs",
       "fintech/central-banking-function-unbundling",
       "fintech/ecny-supply-chain-expansion",
@@ -109,13 +110,19 @@
       "https://finwiki.zksc.io/ja/fintech/mica-overview/",
       "https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 5,
+    "external_links": [
+      "https://www.ecb.europa.eu/euro/digital_euro/html/index.en.html",
+      "https://www.ecb.europa.eu/euro/digital_euro/pilot/html/ecb.faq-digital-euro-pilot.ga.html",
+      "https://www.ecb.europa.eu/euro/digital_euro/pilot/html/index.en.html",
+      "https://www.ecb.europa.eu/euro/digital_euro/progress/html/index.en.html",
+      "https://www.riksbank.se/en-gb/payments--cash/e-krona/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 16591,
-    "word_like_tokens": 2720,
-    "inbound_wikilinks_count": 9,
+    "nonspace_chars": 15603,
+    "word_like_tokens": 2614,
+    "inbound_wikilinks_count": 6,
     "last_modified": "2026-06-01"
   }
 }

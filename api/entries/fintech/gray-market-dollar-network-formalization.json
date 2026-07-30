@@ -11,10 +11,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/gray-market-dollar-network-formalization.md",
   "raw_markdown_url": "https://finwiki.zksc.io/fintech/gray-market-dollar-network-formalization.md",
   "domain": "fintech",
-  "title": "グレー市場ドルネットワークの正式化",
+  "title": "香港 stablecoin 発行者ライセンスによる正式化",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "グレー市場ドルネットワークの正式化 —— Tether HK テンプレート",
+    "title": "香港 stablecoin 発行者ライセンスによる正式化 —— 事実確認フレーム",
     "aliases": [
       "グレードル正式化",
       "Tether HK テンプレート",
@@ -23,8 +23,8 @@
     "domain": "fintech",
     "type": null,
     "created": "2026-05-16",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-06-24",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-08-08",
     "confidence": "likely",
     "tags": [
@@ -39,8 +39,10 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://tether.to/en/news/",
-      "https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/regulatory-regime-for-stablecoin-issuers/",
+      "https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/stablecoin-issuers/",
+      "https://www.hkma.gov.hk/eng/regulatory-resources/registers/register-of-licensed-stablecoin-issuers/",
+      "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250814-8/",
+      "https://www.hkma.gov.hk/media/eng/doc/key-functions/ifc/stablecoin-issuers/Explanatory_Notes_on_Transitional_Provisions_for_Pre-existing_Stablecoin_Issuers_eng.pdf",
       "https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html",
       "https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions",
       "https://www.bis.org/cpmi/publ/d215.htm"
@@ -48,12 +50,12 @@
   },
   "summary": "This entry sits under fintech index. Read it against 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for peer / contrast context and 日本金融規制 — トークン・暗号資産・決済に関する法体系 for the broader system / regulatory boundary.",
   "headings": [
-    "グレー市場ドルネットワークの正式化",
+    "香港 stablecoin 発行者ライセンスによる正式化",
     "Wiki route",
     "モデル定義",
-    "Tether HK 事例",
-    "数値",
-    "4 層連鎖",
+    "Tether HK claim の検証",
+    "現在確認できること ^[source:HKMA Stablecoins Ordinance materials; HKMA licensee register; HKMA-SFC joint statement 2025-08-14]",
+    "Authorization 後も別途確認する四層",
     "歴史的先例",
     "応用 / 転用",
     "リスク / 反例",
@@ -87,13 +89,21 @@
       "https://finwiki.zksc.io/ja/fintech/sovereign-capital-pool-aramco-anchor/",
       "https://finwiki.zksc.io/ja/fintech/tether-business-model-short-treasury-yield/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 7,
+    "external_links": [
+      "https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions",
+      "https://www.bis.org/cpmi/publ/d215.htm",
+      "https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html",
+      "https://www.hkma.gov.hk/eng/key-functions/international-financial-centre/stablecoin-issuers/",
+      "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/08/20250814-8/",
+      "https://www.hkma.gov.hk/eng/regulatory-resources/registers/register-of-licensed-stablecoin-issuers/",
+      "https://www.hkma.gov.hk/media/eng/doc/key-functions/ifc/stablecoin-issuers/Explanatory_Notes_on_Transitional_Provisions_for_Pre-existing_Stablecoin_Issuers_eng.pdf"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 3667,
-    "word_like_tokens": 607,
-    "inbound_wikilinks_count": 14,
+    "nonspace_chars": 7668,
+    "word_like_tokens": 1143,
+    "inbound_wikilinks_count": 10,
     "last_modified": "2026-06-24"
   }
 }

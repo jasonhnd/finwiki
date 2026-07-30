@@ -11,26 +11,24 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/brazil-mexico-cbdc-stablecoin-push-2026.md",
   "raw_markdown_url": "https://finwiki.zksc.io/fintech/brazil-mexico-cbdc-stablecoin-push-2026.md",
   "domain": "fintech",
-  "title": "Brazil DREX × Mexico Banxico CoDi × ラテンアメリカ CBDC と stablecoin 並行アーキテクチャ 2026",
+  "title": "Brazil Drex × Mexico CoDi / MXNB · public and private digital-money routes 2026",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "Brazil DREX × Mexico Banxico CoDi × ラテンアメリカ CBDC と stablecoin 並行アーキテクチャ 2026",
+    "title": "Brazil Drex × Mexico CoDi / MXNB · public and private digital-money routes 2026",
     "aliases": [
       "brazil-mexico-cbdc-stablecoin-push-2026",
       "DREX 2026",
       "Brazil CBDC stablecoin",
       "Mexico Banxico CoDi",
-      "MXNB M0 pilot",
-      "BRL stablecoin",
-      "Bitso role 2026",
-      "Mercado Bitcoin BRL",
+      "MXNB",
+      "BRL1",
       "LatAm CBDC parallel"
     ],
     "domain": "fintech",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-11-25",
     "confidence": "likely",
     "tags": [
@@ -50,65 +48,58 @@
     "note": null,
     "sources": [
       "https://www.bcb.gov.br/en/financialstability/drex_en",
+      "https://www.bcb.gov.br/estabilidadefinanceira/piloto-drex",
+      "https://www.bcb.gov.br/en/pressdetail/2573/nota",
       "https://www.banxico.org.mx/sistemas-de-pago/codi-cobro-digital-banco.html",
-      "https://www.iadb.org/en/news/digital-currencies-latam-2026",
-      "https://bitso.com/blog/mxnb-stablecoin-pilot",
-      "https://www.mercadobitcoin.com.br/blog/brl-stablecoin",
-      "https://www.bis.org/publ/work1156.htm",
-      "https://www.reuters.com/business/finance/brazil-drex-second-phase-2026"
+      "https://bitso.com/br/business/products/mxnb-stablecoin",
+      "https://docs.bitso.com/juno/docs/overview-of-basic-operations"
     ]
   },
-  "summary": "ブラジルとメキシコは 2026 年に同時期に「CBDC + 民間 stablecoin + 米ドル SC グレー化」の三軌道並行段階に入る。ブラジル DREX は 2025-12 に第 2 ラウンド試験運用を 16 機関に拡大し、ホールセール + リテールの dual-layer をカバーする（CBDC 多層アーキテクチャ概要 と一致);Mercado Bitcoin は Polygon / Ethereum 上で BRL アンカー stablecoin を発行し DREX の市場版を補完、DREX とは「公私デュアル・トラック」を形成。メキシコ Banxico はリテール CBDC を発行し",
+  "summary": "Brazil と Mexico の digital-money route は同じではない。Brazil の Drex は Banco Central do Brasil (BCB) が進める regulated-intermediary 型 DLT platform であり、2026-07-30 時点の公式ページでは pilot の利用者取引は simulation、Phase 2 は終了表示である。Mexico の CoDi は Banxico が運営する SPEI 上の QR / NFC payment service で、CBDC ではない。民間側では Bitso group の Ju",
   "headings": [
-    "Brazil DREX × Mexico Banxico CoDi × ラテンアメリカ CBDC と stablecoin 並行アーキテクチャ 2026",
+    "Brazil Drex × Mexico CoDi / MXNB · public and private digital-money routes 2026",
     "TL;DR",
     "Wiki route",
-    "Key facts (2026-05 スナップショット)",
-    "DREX (ブラジル) 詳細",
-    "Mercado Bitcoin BRL stablecoin",
-    "Banxico CoDi × MXNB pilot (メキシコ)",
-    "デュアル・トラック（CBDC + 本国通貨 SC） vs シングル・トラック（グレードル化）",
-    "mBridge / Project Agora との距離",
-    "M0 MXNB pilot との縦深な結合"
+    "Verified programme map",
+    "Drex: what the official pilot establishes",
+    "CoDi: payment rail, not digital peso",
+    "MXNB and BRL1: named issuer and chain",
+    "Comparison boundaries",
+    "Due-diligence implications",
+    "Related"
   ],
   "body_links": {
-    "wikilinks_count": 13,
+    "wikilinks_count": 7,
     "wikilinks": [
       "fintech/INDEX",
+      "fintech/brazil-drex-timeline-2026",
       "fintech/cbdc-multi-tier-architecture-overview",
       "fintech/cbdc-multi-tier-architecture-three-paradigms",
       "fintech/em-market-crypto-dollarization-pattern",
       "fintech/fatf-travel-rule-overview",
-      "fintech/gray-market-dollar-network-formalization",
-      "fintech/india-anti-dollar-dpi-alliance",
-      "fintech/jurisdiction-list-monetary-protectionism",
-      "fintech/m0-network-infrastructure-update-2026",
-      "fintech/mbridge-bis-multi-cbdc-overview",
-      "fintech/mbridge-non-usd-settlement-ring-scale",
-      "fintech/mica-emt-art-subcategories-deep-dive",
-      "fintech/stablecoin-chain-token-strategy-trilemma"
+      "fintech/m0-network-infrastructure-update-2026"
     ],
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/brazil-drex-timeline-2026/",
       "https://finwiki.zksc.io/ja/fintech/cbdc-multi-tier-architecture-overview/",
       "https://finwiki.zksc.io/ja/fintech/cbdc-multi-tier-architecture-three-paradigms/",
       "https://finwiki.zksc.io/ja/fintech/em-market-crypto-dollarization-pattern/",
       "https://finwiki.zksc.io/ja/fintech/fatf-travel-rule-overview/",
-      "https://finwiki.zksc.io/ja/fintech/gray-market-dollar-network-formalization/",
-      "https://finwiki.zksc.io/ja/fintech/india-anti-dollar-dpi-alliance/",
-      "https://finwiki.zksc.io/ja/fintech/jurisdiction-list-monetary-protectionism/",
-      "https://finwiki.zksc.io/ja/fintech/m0-network-infrastructure-update-2026/",
-      "https://finwiki.zksc.io/ja/fintech/mbridge-bis-multi-cbdc-overview/",
-      "https://finwiki.zksc.io/ja/fintech/mbridge-non-usd-settlement-ring-scale/",
-      "https://finwiki.zksc.io/ja/fintech/mica-emt-art-subcategories-deep-dive/",
-      "https://finwiki.zksc.io/ja/fintech/stablecoin-chain-token-strategy-trilemma/"
+      "https://finwiki.zksc.io/ja/fintech/m0-network-infrastructure-update-2026/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 5,
+    "external_links": [
+      "https://bitso.com/br/business/products/mxnb-stablecoin",
+      "https://docs.bitso.com/juno/docs/overview-of-basic-operations",
+      "https://www.banxico.org.mx/sistemas-de-pago/codi-cobro-digital-banco.html",
+      "https://www.bcb.gov.br/en/financialstability/drex_en",
+      "https://www.bcb.gov.br/estabilidadefinanceira/piloto-drex"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 9627,
-    "word_like_tokens": 1653,
+    "nonspace_chars": 6848,
+    "word_like_tokens": 1162,
     "inbound_wikilinks_count": 2,
     "last_modified": "2026-06-01"
   }

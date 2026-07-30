@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-07-30T00:32:44+09:00",
+  "generated_at": "2026-07-30T09:20:58+09:00",
   "site_url": "https://finwiki.zksc.io/",
   "total_entries": 1482,
   "entries": [
@@ -6491,7 +6491,7 @@
     {
       "slug": "fintech/bahamas-sand-dollar-cbdc",
       "domain": "fintech",
-      "title": "Bahamas Sand Dollar — longest-running live retail CBDC, AFI distribution, small-economy lessons",
+      "title": "Bahamas Sand Dollar — nationwide retail CBDC release on 2020-10-20, AFI distribution, and end-2024 evidence",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/bahamas-sand-dollar-cbdc.json",
       "url": "https://finwiki.zksc.io/ja/fintech/bahamas-sand-dollar-cbdc/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/bahamas-sand-dollar-cbdc/",
@@ -6530,7 +6530,7 @@
     {
       "slug": "fintech/bis-agora-vs-mbridge-2026-update",
       "domain": "fintech",
-      "title": "BIS Agora vs mBridge · 2026 Update — Three-Pole CBDC Map & Regulatory Friction",
+      "title": "BIS Project Agorá vs mBridge · 2026 Evidence-Bounded Update",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/bis-agora-vs-mbridge-2026-update.json",
       "url": "https://finwiki.zksc.io/ja/fintech/bis-agora-vs-mbridge-2026-update/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/bis-agora-vs-mbridge-2026-update/",
@@ -6673,7 +6673,7 @@
     {
       "slug": "fintech/brazil-mexico-cbdc-stablecoin-push-2026",
       "domain": "fintech",
-      "title": "Brazil DREX × Mexico Banxico CoDi × ラテンアメリカ CBDC と stablecoin 並行アーキテクチャ 2026",
+      "title": "Brazil Drex × Mexico CoDi / MXNB · public and private digital-money routes 2026",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/brazil-mexico-cbdc-stablecoin-push-2026.json",
       "url": "https://finwiki.zksc.io/ja/fintech/brazil-mexico-cbdc-stablecoin-push-2026/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/brazil-mexico-cbdc-stablecoin-push-2026/",
@@ -6712,7 +6712,7 @@
     {
       "slug": "fintech/cbdc-adoption-curve-china-japan-eu-india-2026",
       "domain": "fintech",
-      "title": "CBDC adoption curve 2026 — China e-CNY vs India eRupee vs EU digital euro vs Japan DCJPY",
+      "title": "CBDC programme status 2026 — China e-CNY vs India eRupee vs EU digital euro vs Japan pilot",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/cbdc-adoption-curve-china-japan-eu-india-2026.json",
       "url": "https://finwiki.zksc.io/ja/fintech/cbdc-adoption-curve-china-japan-eu-india-2026/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/cbdc-adoption-curve-china-japan-eu-india-2026/",
@@ -6842,7 +6842,7 @@
     {
       "slug": "fintech/cosmos-ibc-for-financial-institutions",
       "domain": "fintech",
-      "title": "Cosmos IBC for Financial Institutions",
+      "title": "金融機関向けクロスチェーン・プロトコル比較 — IBC / LCP / CCIP / LayerZero / Hyperlane",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/cosmos-ibc-for-financial-institutions.json",
       "url": "https://finwiki.zksc.io/ja/fintech/cosmos-ibc-for-financial-institutions/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/cosmos-ibc-for-financial-institutions/",
@@ -6855,7 +6855,7 @@
     {
       "slug": "fintech/cross-border-sc-via-swift-api",
       "domain": "fintech",
-      "title": "跨境 SC via SWIFT API",
+      "title": "クロスボーダー SC via Swift API",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/cross-border-sc-via-swift-api.json",
       "url": "https://finwiki.zksc.io/ja/fintech/cross-border-sc-via-swift-api/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/cross-border-sc-via-swift-api/",
@@ -6907,7 +6907,7 @@
     {
       "slug": "fintech/dual-currency-stablecoin-arbitrage-overview",
       "domain": "fintech",
-      "title": "二通貨ステーブルコイン・アービトラージ · §501 時代における唯一の合法 FX オンチェーン化パス",
+      "title": "二通貨ステーブルコイン交換 · オンチェーン FX の実行経路と制約",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/dual-currency-stablecoin-arbitrage-overview.json",
       "url": "https://finwiki.zksc.io/ja/fintech/dual-currency-stablecoin-arbitrage-overview/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/dual-currency-stablecoin-arbitrage-overview/",
@@ -6920,7 +6920,7 @@
     {
       "slug": "fintech/e-euro-retail-rollout",
       "domain": "fintech",
-      "title": "Digital euro retail rollout — Preparation Phase 2023-2026, anti-disintermediation design, e-krona pause comparison",
+      "title": "Digital euro retail project — current phase, 2027 beta pilot, conditional 2029 readiness",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/e-euro-retail-rollout.json",
       "url": "https://finwiki.zksc.io/ja/fintech/e-euro-retail-rollout/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/e-euro-retail-rollout/",
@@ -6985,7 +6985,7 @@
     {
       "slug": "fintech/enterprise-procurement-deadline-anchor",
       "domain": "fintech",
-      "title": "企業 IT 調達予算ロックイン",
+      "title": "企業 IT 調達タイミング · 買い手別の検証フレーム",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/enterprise-procurement-deadline-anchor.json",
       "url": "https://finwiki.zksc.io/ja/fintech/enterprise-procurement-deadline-anchor/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/enterprise-procurement-deadline-anchor/",
@@ -7011,7 +7011,7 @@
     {
       "slug": "fintech/eu-mica-implementation-status-2026",
       "domain": "fintech",
-      "title": "EU MiCA 実装状況 2026-05 · EMT/ART ライセンス図 × USDT 撤退 × USDC マーケットシェア再構築",
+      "title": "EU MiCA 実装状況 2026-07 · ESMA EMT/ART 登録簿 × 非準拠 stablecoin 制限",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/eu-mica-implementation-status-2026.json",
       "url": "https://finwiki.zksc.io/ja/fintech/eu-mica-implementation-status-2026/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/eu-mica-implementation-status-2026/",
@@ -7141,7 +7141,7 @@
     {
       "slug": "fintech/genius-act-501-actual-implementation",
       "domain": "fintech",
-      "title": "GENIUS Act §501 Denylist Mandate · 2025 Actual Implementation",
+      "title": "GENIUS Act Lawful-Order Capability · Statute and 2026 Rulemaking",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/genius-act-501-actual-implementation.json",
       "url": "https://finwiki.zksc.io/ja/fintech/genius-act-501-actual-implementation/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/genius-act-501-actual-implementation/",
@@ -7167,7 +7167,7 @@
     {
       "slug": "fintech/global-cbdc-retail-pilot-matrix-africa-caribbean",
       "domain": "fintech",
-      "title": "Global retail CBDC pilot comparison matrix — Africa, Caribbean, Asia, UK",
+      "title": "Global retail CBDC programme matrix — Africa, Caribbean, Asia, UK",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/global-cbdc-retail-pilot-matrix-africa-caribbean.json",
       "url": "https://finwiki.zksc.io/ja/fintech/global-cbdc-retail-pilot-matrix-africa-caribbean/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/global-cbdc-retail-pilot-matrix-africa-caribbean/",
@@ -7206,7 +7206,7 @@
     {
       "slug": "fintech/gray-market-dollar-network-formalization",
       "domain": "fintech",
-      "title": "グレー市場ドルネットワークの正式化",
+      "title": "香港 stablecoin 発行者ライセンスによる正式化",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/gray-market-dollar-network-formalization.json",
       "url": "https://finwiki.zksc.io/ja/fintech/gray-market-dollar-network-formalization/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/gray-market-dollar-network-formalization/",
@@ -7219,7 +7219,7 @@
     {
       "slug": "fintech/hk-frtb-stablecoin-reserve-overview",
       "domain": "fintech",
-      "title": "HK FRTB ステーブルコイン準備金要件 · HKMA Reserve Framework",
+      "title": "HKMA ステーブルコイン準備金要件 · FRTB との境界",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/hk-frtb-stablecoin-reserve-overview.json",
       "url": "https://finwiki.zksc.io/ja/fintech/hk-frtb-stablecoin-reserve-overview/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/hk-frtb-stablecoin-reserve-overview/",
@@ -7271,7 +7271,7 @@
     {
       "slug": "fintech/indonesia-ovo-stablecoin-route",
       "domain": "fintech",
-      "title": "Indonesia E-Wallet Ecosystem and Stablecoin Route",
+      "title": "Indonesia e-wallet and stablecoin route — regulator boundary and evidence checklist",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/indonesia-ovo-stablecoin-route.json",
       "url": "https://finwiki.zksc.io/ja/fintech/indonesia-ovo-stablecoin-route/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/indonesia-ovo-stablecoin-route/",
@@ -7284,7 +7284,7 @@
     {
       "slug": "fintech/institutional-stablecoin-deposit-token-thesis",
       "domain": "fintech",
-      "title": "機関投資家市場のステーブルコイン = 銀行発行の預金トークンのみが構造的に解",
+      "title": "機関決済の digital money 選択",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/institutional-stablecoin-deposit-token-thesis.json",
       "url": "https://finwiki.zksc.io/ja/fintech/institutional-stablecoin-deposit-token-thesis/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/institutional-stablecoin-deposit-token-thesis/",
@@ -7310,7 +7310,7 @@
     {
       "slug": "fintech/issuer-distributor-incentive-realignment-50-50-model",
       "domain": "fintech",
-      "title": "発行体 vs 分配者 50/50 モデル · Coinbase ↔ Circle 利息分配メカニズム",
+      "title": "USDC 発行体・分配者の収益分配 · Coinbase ↔ Circle 公開契約構造",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/issuer-distributor-incentive-realignment-50-50-model.json",
       "url": "https://finwiki.zksc.io/ja/fintech/issuer-distributor-incentive-realignment-50-50-model/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/issuer-distributor-incentive-realignment-50-50-model/",
@@ -7323,7 +7323,7 @@
     {
       "slug": "fintech/issuer-distributor-incentive-realignment-arc-strategy",
       "domain": "fintech",
-      "title": "Circle Arc 戦略 · 発行体が 50% 分配を取り戻す §501 エンドゲーム",
+      "title": "Circle Arc 戦略 · 発行体と分配者の経済性",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/issuer-distributor-incentive-realignment-arc-strategy.json",
       "url": "https://finwiki.zksc.io/ja/fintech/issuer-distributor-incentive-realignment-arc-strategy/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/issuer-distributor-incentive-realignment-arc-strategy/",
@@ -7336,7 +7336,7 @@
     {
       "slug": "fintech/jamaica-jam-dex-cbdc",
       "domain": "fintech",
-      "title": "Jamaica JAM-DEX — Bank of Jamaica retail CBDC, Lynk wallet adoption, eCurrency Mint vendor",
+      "title": "Jamaica JAM-DEX — 2025 official adoption snapshot",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/jamaica-jam-dex-cbdc.json",
       "url": "https://finwiki.zksc.io/ja/fintech/jamaica-jam-dex-cbdc/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/jamaica-jam-dex-cbdc/",
@@ -7349,7 +7349,7 @@
     {
       "slug": "fintech/japan-bittrade-listing-process",
       "domain": "fintech",
-      "title": "日本 BitTrade 上場プロセス — 登録交易所 Listing の 8 段階構造",
+      "title": "日本の暗号資産取扱開始プロセス · BitTrade を含む公開資料ベースの境界",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/japan-bittrade-listing-process.json",
       "url": "https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/japan-bittrade-listing-process/",
@@ -7375,7 +7375,7 @@
     {
       "slug": "fintech/japan-epi-four-camps-comparison",
       "domain": "fintech",
-      "title": "日本 SC 4 陣営対比 · §501(d) 視点下で SBI Circle = #1",
+      "title": "日本 SC 4 ルート比較 · 発行者 / 流通業者 / 基盤 / 実証",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/japan-epi-four-camps-comparison.json",
       "url": "https://finwiki.zksc.io/ja/fintech/japan-epi-four-camps-comparison/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/japan-epi-four-camps-comparison/",
@@ -7427,7 +7427,7 @@
     {
       "slug": "fintech/japan-stablecoin-2026-event-tracker",
       "domain": "fintech",
-      "title": "日本 Stablecoin 2026 イベント・トラッカー · JPYC × Progmat × DCJPY × SBI VC Trade × FSA EPI 改正",
+      "title": "日本 Stablecoin 2026 検証済みイベント・トラッカー",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/japan-stablecoin-2026-event-tracker.json",
       "url": "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-2026-event-tracker/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-2026-event-tracker/",
@@ -7466,7 +7466,7 @@
     {
       "slug": "fintech/jp-stablecoin-dcjpy",
       "domain": "fintech",
-      "title": "DCJPY / 株式会社ディーカレットDCP — 預金トークン専業プラットフォーム",
+      "title": "DCJPY / 株式会社DCP · 公開資料で確認できる預金トークンプラットフォーム",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/jp-stablecoin-dcjpy.json",
       "url": "https://finwiki.zksc.io/ja/fintech/jp-stablecoin-dcjpy/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/jp-stablecoin-dcjpy/",
@@ -7531,7 +7531,7 @@
     {
       "slug": "fintech/jurisdiction-list-monetary-protectionism",
       "domain": "fintech",
-      "title": "司法管轄区リストとしての貨幣保護主義ツール",
+      "title": "GENIUS Act 第18条の域外制度比較",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/jurisdiction-list-monetary-protectionism.json",
       "url": "https://finwiki.zksc.io/ja/fintech/jurisdiction-list-monetary-protectionism/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/jurisdiction-list-monetary-protectionism/",
@@ -7570,7 +7570,7 @@
     {
       "slug": "fintech/m0-network-infrastructure-update-2026",
       "domain": "fintech",
-      "title": "M0 / M Network · 2026 インフラ更新 · M Bridge × Mexican Peso × USDM × 中立ミドルウェアの成熟期",
+      "title": "M0 / M Network · 2026 インフラ更新 · modular stablecoin infrastructure",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/m0-network-infrastructure-update-2026.json",
       "url": "https://finwiki.zksc.io/ja/fintech/m0-network-infrastructure-update-2026/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/m0-network-infrastructure-update-2026/",
@@ -7700,7 +7700,7 @@
     {
       "slug": "fintech/national-license-private-stablecoin-with-dpi-export",
       "domain": "fintech",
-      "title": "国家ライセンス型民間ステーブルコイン + DPI グローバル輸出戦略",
+      "title": "DPI とデジタル通貨輸出",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/national-license-private-stablecoin-with-dpi-export.json",
       "url": "https://finwiki.zksc.io/ja/fintech/national-license-private-stablecoin-with-dpi-export/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/national-license-private-stablecoin-with-dpi-export/",
@@ -7713,7 +7713,7 @@
     {
       "slug": "fintech/nigeria-enaira-retail-cbdc",
       "domain": "fintech",
-      "title": "Nigeria eNaira — lowest-adoption-rate retail CBDC, CBN distribution, cash-substitution policy collision",
+      "title": "Nigeria eNaira — retail CBDC design and first-year adoption evidence",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/nigeria-enaira-retail-cbdc.json",
       "url": "https://finwiki.zksc.io/ja/fintech/nigeria-enaira-retail-cbdc/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/nigeria-enaira-retail-cbdc/",
@@ -7726,7 +7726,7 @@
     {
       "slug": "fintech/occ-bank-charter-crypto-2025",
       "domain": "fintech",
-      "title": "OCC National Bank Charter for Crypto Firms · 2025 Update",
+      "title": "OCC National Trust Bank Charters for Digital-Asset Firms · 2025–2026 Verified Update",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/occ-bank-charter-crypto-2025.json",
       "url": "https://finwiki.zksc.io/ja/fintech/occ-bank-charter-crypto-2025/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/occ-bank-charter-crypto-2025/",
@@ -7739,7 +7739,7 @@
     {
       "slug": "fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage",
       "domain": "fintech",
-      "title": "OCC trust bank charter を活用した連邦ステーブルコイン銀行アービトラージ・ルート",
+      "title": "OCC national trust bank route · Bridge の preliminary conditional approval",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage.json",
       "url": "https://finwiki.zksc.io/ja/fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage/",
@@ -7752,7 +7752,7 @@
     {
       "slug": "fintech/onchain-finance-vs-crypto-bifurcation",
       "domain": "fintech",
-      "title": "ブロックチェーン業界は「オンチェーンファイナンス」と「クリプト」に DNA レベルで分離した",
+      "title": "オンチェーンファイナンスとクリプト · 連続体としての比較フレーム",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/onchain-finance-vs-crypto-bifurcation.json",
       "url": "https://finwiki.zksc.io/ja/fintech/onchain-finance-vs-crypto-bifurcation/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/onchain-finance-vs-crypto-bifurcation/",
@@ -7791,7 +7791,7 @@
     {
       "slug": "fintech/paxos-paxg-post-binance-pivot",
       "domain": "fintech",
-      "title": "Paxos · BUSD 停止後のマルチプロダクト + マルチライセンス pivot · PYUSD / USDG / USDL / PAXG",
+      "title": "Paxos after BUSD — PYUSD / USDG / USDP / PAXG and the USDL wind-down",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/paxos-paxg-post-binance-pivot.json",
       "url": "https://finwiki.zksc.io/ja/fintech/paxos-paxg-post-binance-pivot/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/paxos-paxg-post-binance-pivot/",
@@ -7817,7 +7817,7 @@
     {
       "slug": "fintech/portfolio-winner-structure-arm-analog",
       "domain": "fintech",
-      "title": "ポートフォリオ勝者構造(Portfolio Winner Structure)",
+      "title": "ポートフォリオ勝者構造（検証フレーム）",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/portfolio-winner-structure-arm-analog.json",
       "url": "https://finwiki.zksc.io/ja/fintech/portfolio-winner-structure-arm-analog/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/portfolio-winner-structure-arm-analog/",
@@ -7843,7 +7843,7 @@
     {
       "slug": "fintech/protocol-renewal-trigger-as-event-anchor",
       "domain": "fintech",
-      "title": "プロトコル更新トリガー —— 商業協業再構築とイベントアンカリング機構",
+      "title": "プロトコル更新トリガー —— 公開契約をイベントアンカーとして読む",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/protocol-renewal-trigger-as-event-anchor.json",
       "url": "https://finwiki.zksc.io/ja/fintech/protocol-renewal-trigger-as-event-anchor/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/protocol-renewal-trigger-as-event-anchor/",
@@ -7856,7 +7856,7 @@
     {
       "slug": "fintech/regulatory-reset-2025-usa-crypto-policy",
       "domain": "fintech",
-      "title": "US 2025 Crypto Regulatory Reset · Trump-Era Policy Pivot",
+      "title": "US 2025–2026 Crypto Policy Reset · Documented Federal Actions",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/regulatory-reset-2025-usa-crypto-policy.json",
       "url": "https://finwiki.zksc.io/ja/fintech/regulatory-reset-2025-usa-crypto-policy/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/regulatory-reset-2025-usa-crypto-policy/",
@@ -7882,7 +7882,7 @@
     {
       "slug": "fintech/retail-stablecoin-dual-bind",
       "domain": "fintech",
-      "title": "リテール用ステーブルコインは「銀行発行 vs パーミッションレス UX」の二律背反に陥る — 決済レイヤー単独では勝ち筋がない",
+      "title": "リテール向けステーブルコイン · 規制管理とオープン UX の設計トレードオフ",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/retail-stablecoin-dual-bind.json",
       "url": "https://finwiki.zksc.io/ja/fintech/retail-stablecoin-dual-bind/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/retail-stablecoin-dual-bind/",
@@ -7947,7 +7947,7 @@
     {
       "slug": "fintech/southeast-asia-stablecoin-regulatory-landscape",
       "domain": "fintech",
-      "title": "Southeast Asia Stablecoin Regulatory Landscape 2026",
+      "title": "Southeast Asia Stablecoin Regulatory Landscape 2026 · Official-Source Matrix",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/southeast-asia-stablecoin-regulatory-landscape.json",
       "url": "https://finwiki.zksc.io/ja/fintech/southeast-asia-stablecoin-regulatory-landscape/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/southeast-asia-stablecoin-regulatory-landscape/",
@@ -7986,7 +7986,7 @@
     {
       "slug": "fintech/stablecoin-chain-sovereign-currency-divide",
       "domain": "fintech",
-      "title": "ステーブルコイン地政学通貨対立フレームワーク",
+      "title": "ステーブルコイン制度分断フレームワーク",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/stablecoin-chain-sovereign-currency-divide.json",
       "url": "https://finwiki.zksc.io/ja/fintech/stablecoin-chain-sovereign-currency-divide/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/stablecoin-chain-sovereign-currency-divide/",
@@ -7999,7 +7999,7 @@
     {
       "slug": "fintech/stablecoin-chain-token-strategy-trilemma",
       "domain": "fintech",
-      "title": "ステーブルコイン公開チェーン token 戦略 3 状態ゲーム",
+      "title": "ステーブルコイン公開チェーンの token 戦略 —— 3 状態ではなく検証可能な設計軸で読む",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/stablecoin-chain-token-strategy-trilemma.json",
       "url": "https://finwiki.zksc.io/ja/fintech/stablecoin-chain-token-strategy-trilemma/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/stablecoin-chain-token-strategy-trilemma/",
@@ -8038,7 +8038,7 @@
     {
       "slug": "fintech/stablecoin-issuer-2025-2026-market-consolidation",
       "domain": "fintech",
-      "title": "Stablecoin Issuer 2025-2026 Market Consolidation · USDT/USDC 双寡占と 8 社の挑戦者梯団",
+      "title": "Stablecoin issuers 2025-2026 — evidence-led market map",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/stablecoin-issuer-2025-2026-market-consolidation.json",
       "url": "https://finwiki.zksc.io/ja/fintech/stablecoin-issuer-2025-2026-market-consolidation/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/stablecoin-issuer-2025-2026-market-consolidation/",
@@ -8064,7 +8064,7 @@
     {
       "slug": "fintech/stablecoin-war-articles-2026-05",
       "domain": "fintech",
-      "title": "ステーブルコイン戦争シリーズ · publication-grade 長文 23 篇（2026-05）",
+      "title": "ステーブルコイン制度比較 · 公開一次資料の読書地図（2026-05 起点）",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/stablecoin-war-articles-2026-05.json",
       "url": "https://finwiki.zksc.io/ja/fintech/stablecoin-war-articles-2026-05/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/stablecoin-war-articles-2026-05/",
@@ -8077,7 +8077,7 @@
     {
       "slug": "fintech/state-charter-crypto-arbitrage-2025",
       "domain": "fintech",
-      "title": "State-Chartered Crypto Arbitrage · 2025 US Federal vs State Race",
+      "title": "US Digital-Asset Charter Paths · 2025–2026 Evidence Matrix",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/state-charter-crypto-arbitrage-2025.json",
       "url": "https://finwiki.zksc.io/ja/fintech/state-charter-crypto-arbitrage-2025/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/state-charter-crypto-arbitrage-2025/",
@@ -8103,7 +8103,7 @@
     {
       "slug": "fintech/tether-business-model-short-treasury-yield",
       "domain": "fintech",
-      "title": "Tether (USDT) のビジネスモデル = ユーザー資金で短期米国債を買って金利を直接利益化、年間 1.5 兆円・40 人体制",
+      "title": "Tether (USDT) の準備金運用モデル — 2025通期・2026年Q1開示",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/tether-business-model-short-treasury-yield.json",
       "url": "https://finwiki.zksc.io/ja/fintech/tether-business-model-short-treasury-yield/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/tether-business-model-short-treasury-yield/",
@@ -8142,7 +8142,7 @@
     {
       "slug": "fintech/three-circles-stablecoin-mra-framework",
       "domain": "fintech",
-      "title": "米 / 欧 / 日「三大円」ステーブルコイングローバルコンプライアンスアーキテクチャ",
+      "title": "米国・EU・日本の stablecoin 制度比較 —— MRA は未確認、market access は個別審査",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/three-circles-stablecoin-mra-framework.json",
       "url": "https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/",
@@ -8168,7 +8168,7 @@
     {
       "slug": "fintech/tokenized-mmf-issuer-comparison-matrix",
       "domain": "fintech",
-      "title": "Tokenized MMF issuer comparison matrix — BUIDL, BENJI, ACRED, WTGXX, USYC, USTB, OUSG",
+      "title": "Tokenized cash and credit fund comparison — BUIDL, BENJI, WTGXX, ACRED, USYC, USTB, OUSG",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/tokenized-mmf-issuer-comparison-matrix.json",
       "url": "https://finwiki.zksc.io/ja/fintech/tokenized-mmf-issuer-comparison-matrix/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/tokenized-mmf-issuer-comparison-matrix/",
@@ -8181,7 +8181,7 @@
     {
       "slug": "fintech/tokenized-mmf-wisdomtree-hashnote",
       "domain": "fintech",
-      "title": "Tokenized MMF 拡張 · WisdomTree WTGXX × Hashnote USYC · BUIDL 以外の第二梯団マトリックス",
+      "title": "トークン化短期資産商品の分類 · WisdomTree WTGXX × Hashnote USYC × BUIDL",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/tokenized-mmf-wisdomtree-hashnote.json",
       "url": "https://finwiki.zksc.io/ja/fintech/tokenized-mmf-wisdomtree-hashnote/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/tokenized-mmf-wisdomtree-hashnote/",
@@ -8194,7 +8194,7 @@
     {
       "slug": "fintech/treasury-stablecoin-policy-2025",
       "domain": "fintech",
-      "title": "Treasury 2025 Stablecoin Policy Framework · PWG Recommendations and Dual-Track Charters",
+      "title": "U.S. stablecoin policy after the 2025 GENIUS Act",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/treasury-stablecoin-policy-2025.json",
       "url": "https://finwiki.zksc.io/ja/fintech/treasury-stablecoin-policy-2025/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/treasury-stablecoin-policy-2025/",
@@ -8220,7 +8220,7 @@
     {
       "slug": "fintech/usd-stablecoin-issuer-eight-way-matrix",
       "domain": "fintech",
-      "title": "USD stablecoin issuer ten-way comparison matrix — USDT / USDC / PYUSD / RLUSD / USD1 / FDUSD / USDS / USDe / M / USDB",
+      "title": "USD-denominated token products comparison — USDT / USDC / PYUSD / RLUSD / USD1 / FDUSD / USDS / USDe / M / USDB",
       "api_url": "https://finwiki.zksc.io/api/entries/fintech/usd-stablecoin-issuer-eight-way-matrix.json",
       "url": "https://finwiki.zksc.io/ja/fintech/usd-stablecoin-issuer-eight-way-matrix/",
       "html_url": "https://finwiki.zksc.io/ja/fintech/usd-stablecoin-issuer-eight-way-matrix/",

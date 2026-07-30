@@ -11,56 +11,57 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/stablecoin-chain-token-strategy-trilemma.md",
   "raw_markdown_url": "https://finwiki.zksc.io/fintech/stablecoin-chain-token-strategy-trilemma.md",
   "domain": "fintech",
-  "title": "ステーブルコイン公開チェーン token 戦略 3 状態ゲーム",
+  "title": "ステーブルコイン公開チェーンの token 戦略 —— 3 状態ではなく検証可能な設計軸で読む",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "ステーブルコイン公開チェーン token 戦略 3 状態ゲーム（発行 / 不発行 / 発行済み）",
+    "title": "ステーブルコイン公開チェーンの token 戦略 —— 3 状態ではなく検証可能な設計軸で読む",
     "aliases": [
       "token trilemma",
       "stablecoin chain token strategy",
-      "L1 token game theory"
+      "L1 token design"
     ],
     "domain": "fintech",
     "type": null,
     "created": "2026-05-13",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-06-24",
-    "review_by": "2026-08-08",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
+    "review_by": "2026-10-30",
     "confidence": "likely",
     "tags": [
       "fintech",
       "blockchain",
       "token",
-      "game-theory",
-      "framework"
+      "framework",
+      "evidence"
     ],
     "status": "active",
     "canonical_anchor": null,
     "related": [],
     "note": null,
     "sources": [
-      "https://www.circle.com/en/arc",
-      "https://www.base.org/",
-      "https://tether.to/en/news/",
-      "https://ethereum.org/en/",
-      "https://solana.com/news"
+      "https://help.coinbase.com/en/coinbase/other-topics/other/base",
+      "https://docs.tempo.xyz/protocol/fees",
+      "https://docs.tempo.xyz/learn/tempo/native-stablecoins",
+      "https://www.sec.gov/Archives/edgar/data/1876042/000187604226000150/crcl-20260331.htm",
+      "https://www.sec.gov/Archives/edgar/data/1876042/000187604226000205/crcl-20260629.htm"
     ]
   },
-  "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
+  "summary": "This entry sits under fintech index. Read it with ステーブルコイン利息分配経済学 and クロスチェーン 5 極比較マトリックス.",
   "headings": [
-    "ステーブルコイン公開チェーン token 戦略 3 状態ゲーム",
+    "ステーブルコイン公開チェーンの token 戦略 —— 3 状態ではなく検証可能な設計軸で読む",
     "Wiki route",
-    "Related"
+    "現在確認できる 3 事例",
+    "なぜ単純な「3 状態」では足りないか",
+    "検証フレーム",
+    "分析上の境界",
+    "Related",
+    "Sources"
   ],
   "body_links": {
-    "wikilinks_count": 9,
+    "wikilinks_count": 5,
     "wikilinks": [
       "INDEX",
       "fintech/INDEX",
-      "fintech/issuer-distributor-incentive-realignment-arc-strategy",
-      "fintech/japan-financial-regulation",
-      "fintech/japan-stablecoin-regulatory-landscape",
-      "fintech/protocol-hedge-strategy-stripe-pattern",
       "fintech/stablecoin-revenue-split-economics",
       "fintech/usd-stablecoin-interchange",
       "systems/cross-chain-five-pole-comparison-matrix"
@@ -68,21 +69,23 @@
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/INDEX.md",
       "https://finwiki.zksc.io/ja/domains/fintech/",
-      "https://finwiki.zksc.io/ja/fintech/issuer-distributor-incentive-realignment-arc-strategy/",
-      "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
-      "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
-      "https://finwiki.zksc.io/ja/fintech/protocol-hedge-strategy-stripe-pattern/",
       "https://finwiki.zksc.io/ja/fintech/stablecoin-revenue-split-economics/",
       "https://finwiki.zksc.io/ja/fintech/usd-stablecoin-interchange/",
       "https://finwiki.zksc.io/ja/systems/cross-chain-five-pole-comparison-matrix/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 5,
+    "external_links": [
+      "https://docs.tempo.xyz/learn/tempo/native-stablecoins",
+      "https://docs.tempo.xyz/protocol/fees",
+      "https://help.coinbase.com/en/coinbase/other-topics/other/base",
+      "https://www.sec.gov/Archives/edgar/data/1876042/000187604226000150/crcl-20260331.htm",
+      "https://www.sec.gov/Archives/edgar/data/1876042/000187604226000205/crcl-20260629.htm"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 2348,
-    "word_like_tokens": 366,
-    "inbound_wikilinks_count": 15,
+    "nonspace_chars": 4658,
+    "word_like_tokens": 722,
+    "inbound_wikilinks_count": 13,
     "last_modified": "2026-06-24"
   }
 }
