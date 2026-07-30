@@ -1,58 +1,60 @@
 ---
 source: fintech/onchain-finance-vs-crypto-bifurcation
-source_hash: fe15e2274ee16958
+source_hash: 4345096a47b28357
 lang: en
+model: manual-issue-239-provenance-repair
 status: machine
 fidelity: ok
-title: "The Blockchain Industry Has Split at the DNA Level into \"On-Chain Finance\" and \"Crypto\""
-translated_at: 2026-05-31T07:28:06.123Z
+title: "On-chain finance and crypto · a comparison framework based on a continuum"
+translated_at: 2026-07-29T16:47:45.885Z
 ---
-
-# The Blockchain Industry Has Split at the DNA Level into "On-Chain Finance" and "Crypto"
+# On-chain finance and crypto · a comparison framework based on a continuum
 
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|Japan financial regulation — legal framework for tokens, crypto-assets, and payments]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin legal framework: three-layer structure (JPYC, USDC, Project Pax)]] for the broader system boundary.
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|Japan's financial regulation — legal framework for tokens, crypto-assets and payments]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|Japan's three-tier stablecoin legal framework (JPYC, USDC and Project Pax)]] for the broader system boundary.
 
 > [!info] TL;DR
-> Since 2024, blockchain technology has fully split into "crypto" (ideology-driven, permissionless, decentralized) and "on-chain finance" (purely technology-driven, focused on payment efficiency). Even though both use the word "blockchain," they can refer to fundamentally different institutional and technical categories depending on context. Discussing them in the same frame weakens analytical coherence.
+> Blockchain projects are distributed along a continuum from open-participation networks to permissioned institutional-finance infrastructure. A binary classification of “crypto” and “on-chain finance” is useful as an analytical frame, but it is not a factual classification showing complete separation: companies such as Circle operate across several areas, and hybrid designs also exist.
 
 ## Conclusion
 
-Crypto and on-chain finance have different "DNA." The two **are no longer compatible**.
+Compare open participation, identity verification, legal settlement assets and operating entities separately. The two columns are ideal types; do not automatically classify each network into one of them.
 
-| Perspective | Crypto | On-chain finance |
+The table below is an analytical model of the two poles, drawing on public materials from the [Canton Network](https://docs.digitalasset.com/integrate/devnet/canton-network-overview/index.html), [Progmat overview](https://progmat.co.jp/about/), and [DTCC Digital Assets](https://www.dtcc.com/digital-assets).
+
+| Perspective | Example of open participation | Example of permissioned, institutional finance |
 |---|---|---|
-| Driving principle | Ideology (permissionless, decentralization, finality) | Pure technology (payment-efficiency improvement) |
-| Lead companies | Tether (USDT), Circle (USDC on the crypto side) | Digital Asset (Canton Network), Circle (Arc Network line integration) |
-| Partners | Crypto-asset exchanges | DTCC, Nasdaq, Broadridge, the three megabanks, [[banking/minna-bank-baas-model|trust-bank group]] |
-| KYC | Assumes permissionless access | Institutional-grade KYC required |
-| Culture | Anti-incumbent finance | Anti-crypto (the Canton line launched as explicitly anti-crypto) |
+| Participation | Open at the protocol level; applications, issuers or exchanges may impose restrictions | Participants, nodes and transaction visibility are managed by contract and permission |
+| Main purpose | Open asset transfers, trading and collateral use | Issuance, settlement, reconciliation and privacy management for regulated assets |
+| Representative operating form | Foundation, DAO, private issuer, distributed validators | Financial-institution consortium, technology provider, regulated operator |
+| KYC | Even when absent from the base layer, it may be performed at fiat gateways, issuance or exchanges | Often embedded at the participant, account and asset-transfer layers |
+| Interoperability | Public chains, bridges and exchanges | Permissioned networks, existing market infrastructure and limited external connections |
 
 ## Reasoning
 
-- A single undifferentiated "blockchain" discussion belongs to the pre-2023 era. By 2024-2025 , the tech stack, corporate actors, and value systems had completely diverged.
-- Crypto's idea that "everyone can touch the chain" is structurally incompatible with institutional-investor settlement (→ [[fintech/institutional-stablecoin-deposit-token-thesis|institutional-stablecoin-deposit-token-thesis]]).
-- The company behind [[systems/canton-overview|Canton Network]], Digital Asset, was founded on the explicit view that "crypto is being used the wrong way."
+- The word “blockchain” alone does not identify participation rights, legal claims, settlement assets or data visibility.
+- KYC at the issuer or exchange level is possible even on a public chain, while permissioned infrastructure can be designed to connect with external networks.
+- Materials on the [[systems/canton-overview|Canton Network]] and similar systems describe institutional privacy and interoperability, but do not support a value judgment that they are “anti-crypto.”
 
 ## Applicable When
 
-- Before starting a blockchain-related strategy discussion, when you need to confirm which trajectory the other side is talking about
-- When someone proposes bringing USDT/USDC into an institutional-investor use case (see [[fintech/wall-street-crypto-network-neutrality|Wall Street and crypto-neutral arms-dealer model]])
-- When decomposing the target market of a new SC project
-- Before using the word "blockchain" in a stakeholder presentation
+- Before starting a blockchain strategy discussion, when it is necessary to clarify which part of the continuum the other party is discussing
+- When a proposal introduces USDT/USDC into an institutional-investor use case (see [[fintech/wall-street-crypto-network-neutrality|Wall Street × Crypto neutral arms dealer]])
+- When decomposing the target market of a new stablecoin project
+- Before using the word “blockchain” in a stakeholder presentation
 
 ## Source
 
-- Consistency: [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin three-layer structure]] (Project Pax = institutional vs JPYC/USDC retail = the same separation axis)
-- Consistency: [[fintech/stablecoin-crossborder-b2b-growth|stablecoin-crossborder-b2b-growth]] (independence of the B2B trajectory)
+- Alignment: [[fintech/japan-stablecoin-regulatory-landscape|Japan's three-tier stablecoin structure]] (Project Pax = institutional vs JPYC/USDC retail = the same separation axis)
+- Alignment: [[fintech/stablecoin-crossborder-b2b-growth|stablecoin-crossborder-b2b-growth]] (independence of the B2B track)
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/institutional-stablecoin-deposit-token-thesis|Institutional stablecoin market as deposit tokens]]
-- [[fintech/japan-stablecoin-regulatory-landscape|Japan stablecoin legal framework: three-layer structure]]
-- [[fintech/retail-stablecoin-dual-bind|Structural dilemma of retail stablecoins]]
-- [[fintech/fx-onchain-as-stablecoin-final-boss|On-chain foreign exchange as the decisive stablecoin frontier]]
+- [[fintech/institutional-stablecoin-deposit-token-thesis|Institutional-market stablecoin = deposit token]]
+- [[fintech/japan-stablecoin-regulatory-landscape|Japan's three-tier stablecoin legal framework]]
+- [[fintech/retail-stablecoin-dual-bind|Structural tradeoff for retail stablecoins]]
+- [[fintech/fx-onchain-as-stablecoin-final-boss|Moving FX on-chain = the final challenge for stablecoins]]
 <!-- /wiki-links:managed -->

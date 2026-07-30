@@ -11,10 +11,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/japan-stablecoin-2026-event-tracker.md",
   "raw_markdown_url": "https://finwiki.zksc.io/fintech/japan-stablecoin-2026-event-tracker.md",
   "domain": "fintech",
-  "title": "日本 Stablecoin 2026 イベント・トラッカー · JPYC × Progmat × DCJPY × SBI VC Trade × FSA EPI 改正",
+  "title": "日本 Stablecoin 2026 検証済みイベント・トラッカー",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "日本 Stablecoin 2026 イベント・トラッカー · JPYC × Progmat × DCJPY × SBI VC Trade × FSA EPI 改正",
+    "title": "日本 Stablecoin 2026 検証済みイベント・トラッカー",
     "aliases": [
       "japan-stablecoin-2026-event-tracker",
       "JPYC mainnet 2026",
@@ -29,10 +29,10 @@
     "domain": "fintech",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
-    "review_by": "2026-11-25",
-    "confidence": "likely",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
+    "review_by": "2026-10-30",
+    "confidence": "confirmed",
     "tags": [
       "fintech",
       "stablecoin",
@@ -50,36 +50,38 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.fsa.go.jp/policy/cryptoasset_payment/index.html",
-      "https://www.fsa.go.jp/menkyo/menkyoj/denshikessaisyudan.xlsx",
-      "https://jpyc.co.jp/news",
-      "https://progmat.co.jp/news",
-      "https://www.dcjpy.jp/",
-      "https://www.sbivc.co.jp/usdc",
-      "https://www.kddi.com/corporate/newsrelease/",
-      "https://www.docomo.ne.jp/info/news_release/",
-      "https://linecorp.com/en/pr/",
-      "https://about.paypay.ne.jp/press/"
+      "https://www.fsa.go.jp/policy/virtual_currency02/index.html",
+      "https://www.fsa.go.jp/news/r7/sonota/20260519/20260519.html",
+      "https://www.fsa.go.jp/news/r7/sonota/20260522/20260522.html",
+      "https://corporate.jpyc.co.jp/news/posts/first-yen-stablecoin-jpyc",
+      "https://corporate.jpyc.co.jp/news/posts/jpyc-ex-launch",
+      "https://www.datachain.jp/news/progmat-and-datachain-launch-project-pax",
+      "https://progmat.co.jp/wp-content/uploads/2025/02/20250217_PR_02.pdf",
+      "https://progmat.co.jp/wp-content/uploads/2025/10/20250321_press-release_Progmat-IDA-and-Datachain-Join-Forces-to-Explore-Stablecoin-Based-Remittances-for-Hong-Kong-Japan-Trade-Efficiency.pdf",
+      "https://progmat.co.jp/wp-content/uploads/2026/05/20260508_PR_%E3%80%8CLaunch-of-Joint-Study-on-On-Chain-Repo-Transactions-of-Tokenized-JGBs%E3%80%8D.pdf",
+      "https://www.sbivc.co.jp/newsview/9ne-b0_5yo",
+      "https://www.sbivc.co.jp/usdc"
     ]
   },
-  "summary": "2026 年は日本ステーブルコイン業界の \"PoC → mainnet\" への転換期。JPYC は 2025-Q4 に正式メインネット (Ethereum + Polygon + Astar) でローンチし 2026-05 流通 約 ¥9.2B (~$60M) に到達; Progmat は 2026-Q2 にメガバンク信託主導の USD-anchored 第3号 EPI (Progmat USD) ローンチ予定; DCJPY (DeCurret) は 2026-Q1 に大手商社 + 電力会社 + 流通業のクローズドコンソーシアム本番運用に移行; SBI VC Trade USDC は流通 約",
+  "summary": "確認できる主要イベントは、JPYC の資金移動業登録（2025-08-18）と発行開始（2025-10-27）、SBI VC Trade の電子決済手段等取引業登録（2025-03-04）と USDC 一般取扱い、Progmat / Datachain の日付付き Project Pax 実証・共同検討、ならびに 2026-06-01 施行の FSA 改正である。旧版にあった JPYC・USDC の流通額、Progmat USD の確定ローンチ、DCJPY の月次流通、通信・QR 各社の申請予定は、引用された公式資料で確認できず撤回した。 ^[https://corporate.jpyc.co",
   "headings": [
-    "日本 Stablecoin 2026 イベント・トラッカー · JPYC × Progmat × DCJPY × SBI VC Trade × FSA EPI 改正",
+    "日本 Stablecoin 2026 検証済みイベント・トラッカー",
     "TL;DR",
     "Wiki route",
-    "2026 主要事件タイムライン",
-    "JPYC mainnet 拡張",
-    "Progmat USD ローンチ (信託型 USD SC)",
-    "DCJPY (DeCurret) コンソーシアム本番",
-    "SBI VC Trade USDC 拡大",
-    "キャリア・QR 決済勢の参入観測",
-    "KDDI au Wallet / au PAY"
+    "検証済みタイムライン",
+    "JPYC",
+    "Progmat / Project Pax",
+    "DCJPY",
+    "SBI VC Trade / USDC",
+    "FSA 2026 改正",
+    "追跡ルール"
   ],
   "body_links": {
-    "wikilinks_count": 14,
+    "wikilinks_count": 15,
     "wikilinks": [
       "exchanges/jp-exchange-sbi-vc-trade",
       "fintech/INDEX",
+      "fintech/cross-border-sc-via-swift-api",
       "fintech/eu-mica-implementation-status-2026",
       "fintech/japan-ecisb-license",
       "fintech/japan-epi-four-camps-comparison",
@@ -96,6 +98,7 @@
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/ja/exchanges/jp-exchange-sbi-vc-trade/",
       "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/cross-border-sc-via-swift-api/",
       "https://finwiki.zksc.io/ja/fintech/eu-mica-implementation-status-2026/",
       "https://finwiki.zksc.io/ja/fintech/japan-ecisb-license/",
       "https://finwiki.zksc.io/ja/fintech/japan-epi-four-camps-comparison/",
@@ -113,9 +116,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 8714,
-    "word_like_tokens": 1661,
+    "nonspace_chars": 8627,
+    "word_like_tokens": 1482,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-07-30"
   }
 }

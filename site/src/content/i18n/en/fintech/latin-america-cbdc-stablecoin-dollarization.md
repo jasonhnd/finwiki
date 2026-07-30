@@ -1,12 +1,13 @@
 ---
 source: fintech/latin-america-cbdc-stablecoin-dollarization
-source_hash: 5f55c1262273cdc1
+source_hash: fbcba82edefa31c0
 lang: en
 status: machine
 fidelity: ok
 title: "Latin America CBDC and USD-Stablecoin Dynamics"
-translated_at: 2026-05-31T07:28:06.160Z
+translated_at: 2026-07-29T17:52:14Z
 ---
+
 # Latin America CBDC and USD-Stablecoin Dynamics
 
 ## Wiki route
@@ -14,90 +15,70 @@ translated_at: 2026-05-31T07:28:06.160Z
 This entry sits under [[fintech/INDEX|fintech index]] and is the **Latin American regional view** that complements the dedicated [[fintech/brazil-drex-timeline-2026]] entry (per-jurisdiction deep dive on Brazil) and sits opposite the [[fintech/southeast-asia-stablecoin-regulatory-landscape]] regional view. Read it with [[fintech/em-market-crypto-dollarization-pattern]] for the cross-EM behavioral baseline (Argentina, Mexico, and Brazil are explicit data points there), and with [[fintech/gray-market-dollar-network-formalization]] for the structural pattern that USDT and USDC follow in Latin America. The geopolitical macro lens is in [[fintech/jurisdiction-list-monetary-protectionism]] and [[fintech/global-stablecoin-regulatory-five-pole-matrix]].
 
 > [!info] TL;DR
-> Latin America is the **single most stablecoin-dollarized region on earth**. By 2026, USDT and USDC have become the de-facto USD savings, remittance, and B2B settlement layer in Argentina, Venezuela, Colombia, Peru, and Bolivia, alongside heavy use in Mexico and Brazil. Government responses have **diverged sharply**: (1) **Argentina (Milei)** has embraced dollarization rhetorically and tolerated USDT operationally while pursuing peso-stabilization separately; (2) **Brazil (BCB)** is building the most institutionally serious CBDC project in the region — **DREX** — explicitly designed as a tokenized-deposit platform interoperating with Pix rather than competing with USDT directly; (3) **Mexico (Banxico)** has chosen CoDi instant payment as the institutional answer, leaving stablecoin flow largely to private rails (Bitso); (4) **El Salvador** keeps a dual BTC + USDC posture; (5) **Venezuela** abandoned the petro CBDC and now lives on a de-facto USDT economy. The pattern: **state-issued CBDCs are losing the retail layer to USDT and USDC, but winning the wholesale / tokenized-deposit layer**.
+> The cited central-bank, regulator, legislature, and IMF materials show **different public-payment and CBDC research stages**, not a single regional race with a proven winner. Brazil's Drex Pilot Phase 2 is marked closed by the BCB; Mexico reported continuing CBDC technology research in the first half of 2025; Colombia concluded in 2024 that it saw no reason for near-term issuance; Peru began a formal retail-CBDC pilot period in March 2025; Argentina's cited record covers foreign-exchange reform and PSAV registration; and El Salvador amended its Bitcoin Law in 2025. These sources do **not** provide a comparable regional series for USDT/USDC holdings, market share, remittance volume, household use, or B2B settlement. Claims that Latin America is the world's most stablecoin-dollarized region or that private stablecoins have "won" a particular layer are therefore not treated as established facts. ^[source:BCRA; CNV; BCB; Banxico; Banco de la República; BCRP; El Salvador Legislative Assembly; IMF]
 
-## Why Latin America matters for the global stablecoin map
+## Evidence rules for the regional comparison
 
-Latin America is the **clearest natural experiment** in stablecoin demand. Inflation rates ranged from 5% (Peru, recent) to 200%+ (Argentina 2023-2024) to 1,000%+ (Venezuela cumulative), capital controls vary from open (Mexico, Peru, Colombia in principle) to closed (Argentina until 2024, Venezuela continuously), and dollar-saving culture is universal. The result is that **the structural demand for a USD-pegged stablecoin is closer to "everywhere" than to any specific use case** — which is exactly the underlying behavioral observation in [[fintech/em-market-crypto-dollarization-pattern]]. The same dynamic shows up in the cross-border B2B layer documented in [[fintech/stablecoin-crossborder-b2b-growth]].
+This entry separates four questions that the prior version blended together:
 
-## Argentina · USDT economy + Milei reforms
+1. **Public payment rail** — whether a central bank operates or documents an instant-payment system.
+2. **CBDC research or pilot** — whether the official source describes research, simulated tests, a live pilot with selected participants, or issuance to the public.
+3. **Crypto / stablecoin regulatory perimeter** — whether the relevant regulator publishes registration or conduct rules.
+4. **Private stablecoin use** — holdings, users, volumes, corridors, chains, and use cases, which require a dated dataset with disclosed coverage and methodology.
 
-- **Macro context**: Argentina entered 2024 with ~200% YoY inflation, multiple capital-control regimes (cepo cambiario), and a parallel-rate gap between the official USD and the blue / MEP / CCL rates. The Milei administration (December 2023 onward) dismantled the cepo cambiario in stages through 2024-2025 and pursued peso stabilization through monetary-base targets.
-- **Stablecoin role pre-2024**: USDT dominated as a household USD store-of-value because it was easier to obtain than physical USD notes and avoided the official-rate restrictions.
-- **Stablecoin role post-Milei reforms**: Demand persists. Even with cepo dismantled, USDT continues to function as the dollar-saving rail because the on-ramp UX (Lemon, Ripio, Belo, Buenbit, Bitso Argentina) outperforms the legacy bank-USD account experience.
-- **Regulatory direction**: The CNV (Comisión Nacional de Valores) registered virtual asset service providers under Law 27.739 (2024). The BCRA (central bank) historically opposed crypto-payment use cases and has not authorized peso-stablecoin issuance through any framework as of 2026-05.
-- **Lemon, Ripio, Belo, Buenbit, Bitso AR**: the active wallet stack; all offer USDT-Tron deposits, USDC-Solana / Polygon, Visa-card off-ramp, peso conversion at MEP-adjacent rates.
+A payment system, a CBDC study, and a VASP registry do not establish private-stablecoin adoption. Conversely, private issuer or exchange marketing does not establish a central bank's policy outcome.
 
-The Argentine pattern is the canonical "currency-substitution by stablecoin" case and is the empirical anchor for the broader [[fintech/em-market-crypto-dollarization-pattern]] and the formalization arc in [[fintech/gray-market-dollar-network-formalization]].
+## Official-source jurisdiction notes
 
-## Brazil · DREX + Pix + private-rail stablecoin competition
+### Argentina
 
-- **Macro context**: BRL has been relatively stable in regional terms; Brazil's stablecoin demand is driven less by inflation hedging and more by **retail crypto investing** + **B2B cross-border settlement** + **remittance**.
-- **Pix**: Banco Central do Brasil's instant payment system, live since 2020, ubiquitous. Pix processes hundreds of millions of transactions per day and is the **non-stablecoin competitive baseline** for any DREX-based programmable-money use case.
-- **DREX**: BCB's tokenized-deposit platform, built on Hyperledger Besu, in its second pilot phase as of 2026. DREX is explicitly framed as **tokenized deposits issued by licensed banks** on a permissioned DLT rather than a single retail CBDC token. Full detail in the dedicated [[fintech/brazil-drex-timeline-2026]] entry.
-- **Private-rail stablecoin landscape**: Mercado Bitcoin (MB), Foxbit, Ripio Brazil, Bitso Brazil are the main local venues. Mercado Bitcoin has piloted a BRL-pegged stablecoin (MBRL) on the BRLA Digital infrastructure. **BRLA** is an independent BRL-pegged stablecoin issuer with banking partners; it operates outside DREX and is designed for retail and B2B use.
-- **Regulatory direction**: BCB's framework (CMN Resolutions + BCB Circulars 2024-2025) treats stablecoins primarily as **foreign-exchange instruments** when they are USD-pegged, applying FX-control mechanics to their issuance and redemption by Brazilian residents. The PL 4401 framework (Marco Legal das Criptomoedas, in force) brings VASPs under BCB supervision.
+The BCRA's 2025-04-11 Phase 3 announcement documents removal of the USD 200 monthly foreign-exchange limit and other access restrictions for natural persons. The CNV separately maintains a PSAV registry. Neither source provides a household-USDT balance series, product-level wallet data, or a cross-border stablecoin-flow series. Detailed treatment is in [[fintech/argentina-usdt-formalization]].
 
-The strategic position of DREX vs private BRL stablecoins is structurally similar to the **tokenized-deposit vs non-bank stablecoin** debate in [[fintech/institutional-stablecoin-deposit-token-thesis]] and the **Japanese trust-vs-bank-vs-funds-transfer** split in [[fintech/japan-epi-three-types-overview]].
+### Brazil
 
-## Mexico · Banxico CoDi vs stablecoin
+The BCB describes Drex as a test environment in which end-user operations and assets are simulated. Its current pilot page marks **Phase 2 as closed**, while the Phase 1 report says that further work was required on privacy, data protection, and security. This supports a pilot-status statement, not public issuance, a commercial launch date, or a finding that Drex displaced or lost to any private stablecoin. See [[fintech/brazil-drex-timeline-2026]].
 
-- **Macro context**: MXN is the most liquid Latin American currency, freely convertible, with deep banking; inflation has been moderate.
-- **CoDi**: Banxico's instant payment system over QR / NFC, layered on top of the SPEI interbank system. CoDi adoption has been slower than Pix in Brazil.
-- **Bitso US-MX corridor**: The single largest stablecoin-based remittance corridor in Latin America. Bitso processes substantial cross-border USD-MXN flows through USDC settlement, with the Stripe partnership extending coverage. This is the canonical Mexico-side stablecoin success case.
-- **Banxico CBDC posture**: Initially announced a retail CBDC ambition in 2021 (statements suggesting a 2024 timeline), the timeline has slipped repeatedly. As of 2026-05, no live Banxico CBDC has issued.
-- **Regulatory direction**: The Fintech Law (Ley para Regular las Instituciones de Tecnología Financiera, 2018) covers the e-money side. Banxico has not authorized crypto-asset use for payments within the regulated banking system; stablecoin flow runs through licensed Fintech Law institutions and crypto-asset platforms.
+### Mexico
 
-Mexico is the case where **instant-payment rails** (CoDi) were the institutional answer rather than CBDC, and where **private stablecoin rails** (Bitso + USDC + Stripe) won the cross-border remittance use case. The same pattern is visible in the SE Asia map via [[fintech/southeast-asia-stablecoin-regulatory-landscape]].
+Banxico documents CoDi as a payment-request and transfer mechanism built on its payment infrastructure. Its 2025 management report says that CBDC-related work during the first half of 2025 included research into tokenisation and programmable platforms and development of a low-value merchant-payment proposal for feasibility evaluation. Those records do not establish a live retail CBDC or the size and composition of any private stablecoin remittance corridor.
 
-## Colombia and Peru · gray-market USDC use
+### Colombia
 
-- **Colombia**: COP is stable in regional terms; stablecoin demand is driven by **freelancer / remote-worker USD income** and **B2B settlement** with US and European partners. Major local venues: Bitso Colombia, Buda, Banexcoin (Peruvian-headquartered but operates regionally). Banco de la República has not authorized CBDC retail issuance; an exploratory CBDC study is ongoing.
-- **Peru**: PEN is stable; stablecoin demand mirrors Colombia. Major venues: Buda Peru, Bitso Peru. The Banco Central de Reserva del Perú is in an exploratory CBDC phase with no announced retail timeline.
-- **Common pattern**: In both countries, USDC has higher market share than USDT in the **professional / freelancer / B2B** segment because of the institutional-grade onramp (Circle banking partners), while USDT-Tron dominates the **retail / unbanked** segment.
-- **Venezuela-Colombia corridor**: Venezuelan migrants in Colombia use USDT-Tron as the value-transfer layer back to family in Venezuela; this is one of the highest-velocity stablecoin remittance corridors globally.
+Banco de la República's 2024 CBDC paper evaluates motivations and risks and states that the bank saw no reason for issuance in the short term, while continuing research. It does not report a live CBDC and does not measure USDC/USDT shares among freelancers, businesses, retail users, or migrants.
 
-## El Salvador · BTC legal tender + USDC dual policy
+### Peru
 
-- **Macro context**: El Salvador formally adopted USD as legal tender in 2001 (full dollarization); the country has no monetary policy autonomy and no domestic currency.
-- **BTC adoption**: The 2021 Bitcoin Law made BTC legal tender alongside USD. Retail adoption fell short of expectations; Chivo Wallet (state-backed) underperformed early forecasts.
-- **2024 IMF agreement**: Under the IMF Extended Fund Facility, El Salvador agreed to scale back compulsory BTC acceptance and de-emphasize Chivo, while retaining BTC's legal-tender status formally.
-- **USDC role**: USDC circulates freely (USD-pegged in a dollarized economy = parity instrument). Circle has formal infrastructure presence; USDC functions as the on-chain version of USD for crypto-native flows.
-- **Bitcoin Bonds / Volcano Bonds**: Reframed and quieter as of 2026, with the original 2021-2022 large-scale ambition not realized.
-- **CBDC**: No CBDC project given full dollarization.
+The BCRP's March 2025 payments report states that its first digital-money innovation pilot uses a hybrid architecture, that Bitel was selected in October 2024, and that the formal pilot period began in March 2025. This is stronger than "exploration", but it is still a pilot designed to generate evidence; the cited report does not establish nationwide public issuance or a stablecoin market-share split.
 
-El Salvador is the **dual-rail extreme case**: BTC + USD + USDC + a state-backed wallet, with no central-bank monetary authority. The macro lessons map cleanly onto the broader stablecoin geopolitics in [[fintech/jurisdiction-list-monetary-protectionism]].
+### El Salvador
 
-## Venezuela · petro defunct, USDT remittance economy
+Legislative Decree 199, published on 2025-01-30 and effective 90 days later, amended the Bitcoin Law so that private acceptance is voluntary and repealed several provisions, including the former mandatory-acceptance article. The IMF programme report describes the same change and related public-sector safeguards. Those documents address Bitcoin, not a USDC market share, Circle infrastructure presence, or a CBDC decision.
 
-- **Macro context**: Hyperinflation persists (cumulative inflation in thousands of percent over the past decade); the bolívar has been redenominated multiple times; capital controls are tight.
-- **Petro CBDC**: Launched 2018 as an oil-backed crypto-asset issued by the Venezuelan government, the petro effectively failed by 2024 and was formally abandoned. No active circulation.
-- **USDT economy**: De-facto dollarization runs on USDT-Tron for remittances from the Venezuelan diaspora (US, Colombia, Spain, Chile, Peru, Mexico), commercial settlement, and household savings. Reserve Wallet and Binance P2P are heavily used; off-ramp into bolívares uses informal local OTC.
-- **Sanctions context**: US OFAC sanctions on Venezuelan state entities affect formal banking access; USDT-Tron functions as a sanctions-permeable USD layer for retail flows.
-- **Regulatory direction**: The Sunacrip (cryptocurrency superintendency) has gone through institutional turbulence; the regulatory framework is in flux.
+### Venezuela
 
-Venezuela is the case where a **state CBDC failed** (petro) and **a private USD stablecoin filled the entire monetary function** (USDT) — the strongest single data point for the EM-dollarization thesis.
+The current BCV homepage in this entry's source set does not substantiate the prior claims about Petro closure, current USDT-Tron dominance, named wallets, OTC routes, or remittance shares. An absence of evidence on that page is not evidence of absence. Venezuela is therefore marked **not established by the cited primary-source set** pending a dated official instrument or a transparent market dataset.
 
-## Cross-country comparison matrix
+## Cross-country verification matrix
 
-| Country | Inflation regime | CBDC status | Dominant stablecoin | Dominant flow |
-|---|---|---|---|---|
-| Argentina | High, declining | None active | USDT (Tron) | Household USD store + remittance |
-| Brazil | Moderate | DREX (Pilot 2 active) | USDC, USDT, BRLA | Retail invest + B2B + remittance |
-| Mexico | Moderate | None active | USDC (via Bitso) | US-MX remittance |
-| Colombia | Moderate | Exploration | USDC + USDT | Freelancer income + Venezuela corridor |
-| Peru | Low | Exploration | USDC + USDT | Freelancer income |
-| El Salvador | USD-dollarized | None (dollarized) | USDC + BTC | On-chain USD + legacy BTC adoption |
-| Venezuela | Hyperinflation | Petro defunct | USDT (Tron) | Remittance + household savings |
+| Jurisdiction | Officially documented status used here | Date / stage boundary | Private-stablecoin conclusion supported by the same source |
+|---|---|---|---|
+| Argentina | BCRA Phase 3 foreign-exchange change; CNV PSAV registry | BCRA change announced 2025-04-11; registry is live and point-in-time | None; no comparable USDT/USDC adoption or flow series |
+| Brazil | Drex test environment; Phase 2 marked closed | Current BCB pilot page checked 2026-07-30 | None; simulated pilot activity is not private-stablecoin market data |
+| Mexico | CoDi documentation; CBDC technology research and feasibility work | Banxico report covers first half of 2025 | None; no corridor size or token-share series in the cited records |
+| Colombia | CBDC analysis; no reason identified for short-term issuance | Banco de la República paper dated 2024-08-20 | None; no user-segment stablecoin shares |
+| Peru | Formal retail digital-money pilot period | BCRP report says formal period began March 2025 | None; no national stablecoin share or flow series |
+| El Salvador | Bitcoin Law amended; private acceptance voluntary | Decree published 2025-01-30, effective after 90 days | None; Bitcoin-law evidence does not establish USDC use |
+| Venezuela | Current status not established by the cited official set | Source refresh 2026-07-30 | None; prior dominance and corridor claims removed |
 
-## Structural patterns across LatAm
+Source note: rows use the linked primary or official materials from the [BCRA](https://www.bcra.gob.ar/noticias/inicio-de-la-fase-3-del-programa-economico/), [CNV](https://www.cnv.gov.ar/SitioWeb/RegistrosPublicos/Psav), [BCB](https://www.bcb.gov.br/estabilidadefinanceira/piloto-drex), [Banxico](https://www.banxico.org.mx/publicaciones-y-prensa/informes-de-avance-de-gestion-financiera/%7B08B1A759-EECD-C59F-C0F9-153960E76E77%7D.pdf), [Banco de la República](https://www.banrep.gov.co/es/moneda-digital-banco-central-colombia), [BCRP](https://www.bcrp.gob.pe/docs/Publicaciones/reporte-del-sistema-nacional-de-pagos/2025/marzo/rspf-marzo-2025.pdf), and [El Salvador Legislative Assembly](https://www.asamblea.gob.sv/sites/default/files/documents/decretos/FC2C7E66-490B-4420-B8B5-221C2F2A4C28.pdf). The Venezuela row records a source limitation rather than a status inference.
 
-1. **State CBDCs are losing the retail layer**. Brazil DREX is intentionally not a retail CBDC; Mexico Banxico's retail CBDC has slipped; Venezuela's petro failed; Colombia and Peru are exploratory. The retail USD-pegged demand is fully captured by USDT and USDC.
-2. **The "tokenized deposit" framing wins the institutional layer**. Brazil's DREX is the regional flagship of this pattern, consistent with the [[fintech/institutional-stablecoin-deposit-token-thesis]] and the structural argument in [[fintech/cbdc-multi-tier-architecture-overview]].
-3. **Instant payment rails are the non-stablecoin baseline**. Pix in Brazil, CoDi in Mexico, PSE in Colombia, Yape / Plin in Peru. Where instant payment is dominant domestically, the value of a domestic-currency stablecoin compresses.
-4. **Stablecoin remittance corridors are the institutional success cases**. Bitso US-MX (USDC), USDT-Tron Colombia-Venezuela, USDT-Tron Argentina-Spain, USDC freelancer-USD-to-LatAm are the highest-velocity stablecoin use cases.
-5. **The "policy posture" gap between US-friendly and US-hostile administrations is real but smaller than expected**. Milei Argentina, Lula Brazil, Sheinbaum Mexico, Maduro Venezuela all face the same household behavior: USDT-Tron substitutes for whatever the central bank wants to defend.
-6. **Brazil is the closest analog to a Japanese trust-type EPI architecture** (see [[fintech/japan-stablecoin-regulatory-landscape]]) — DREX as a permissioned tokenized-deposit platform with regulated bank participation, distinct from a non-bank issuer model.
+## What the comparison does and does not show
+
+1. The region contains research, simulation, pilot, registration, and legal-reform records at different grains. They should not be collapsed into a single "CBDC status" score.
+2. Brazil's closed pilot phase, Peru's retail pilot, Mexico's technical research, and Colombia's no-near-term-issuance conclusion are distinct states.
+3. No cited official source demonstrates that CBDCs are losing retail activity to stablecoins or that tokenized deposits are winning wholesale activity.
+4. Claims about US-MX, Colombia-Venezuela, Argentina-Spain, or other stablecoin corridors require matched origin, destination, token, chain, time, and methodology data.
+5. The analytical links to [[fintech/em-market-crypto-dollarization-pattern]], [[fintech/gray-market-dollar-network-formalization]], and [[fintech/institutional-stablecoin-deposit-token-thesis]] remain hypotheses to test against those data, not findings produced by this regulatory map.
 
 ## Related
 
@@ -106,9 +87,9 @@ Venezuela is the case where a **state CBDC failed** (petro) and **a private USD 
 - [[fintech/southeast-asia-stablecoin-regulatory-landscape|SE Asia regulatory landscape]]
 - [[fintech/em-market-crypto-dollarization-pattern|EM crypto-dollarization pattern]]
 - [[fintech/gray-market-dollar-network-formalization|Gray market USD network formalization]]
-- [[fintech/jurisdiction-list-monetary-protectionism|§501(d) jurisdiction list]]
+- [[fintech/jurisdiction-list-monetary-protectionism|jurisdictional monetary-protectionism map]]
 - [[fintech/global-stablecoin-regulatory-five-pole-matrix|Global five-pole matrix]]
-- [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]]
+- [[fintech/genius-act-501-denylist-mandate|GENIUS Act implementation]]
 - [[fintech/institutional-stablecoin-deposit-token-thesis|Institutional SC + deposit-token thesis]]
 - [[fintech/cbdc-multi-tier-architecture-overview|CBDC multi-tier architecture]]
 - [[fintech/india-anti-dollar-dpi-alliance|India anti-dollar DPI alliance]]
@@ -121,12 +102,14 @@ Venezuela is the case where a **state CBDC failed** (petro) and **a private USD 
 
 ## Sources
 
-- Banco Central do Brasil — DREX project pages, BCB press releases, CMN resolutions on virtual asset service providers under Marco Legal das Criptomoedas.
-- Banco de México (Banxico) — CoDi system documentation and CBDC-related public statements.
-- Banco Central de la República Argentina (BCRA) — payment-systems materials and statements on crypto-asset use.
-- Comisión Nacional de Valores (Argentina) — VASP registration under Law 27.739.
-- Banco Central de Venezuela (BCV) — public statements; Sunacrip historical materials.
-- Banco de la República (Colombia) — exploratory CBDC publications and digital-asset working papers.
-- Banco Central de Reserva del Perú (BCRP) — payment-systems and CBDC exploration materials.
-- Banco Central de Reserva de El Salvador (BCR) — Bitcoin Law implementation materials and IMF agreement public summaries.
-- Bank for International Settlements — Latin America CBDC working papers and Project Nexus-adjacent publications.
+- [BCRA Phase 3 announcement, 2025-04-11](https://www.bcra.gob.ar/noticias/inicio-de-la-fase-3-del-programa-economico/)
+- [CNV public PSAV registry](https://www.cnv.gov.ar/SitioWeb/RegistrosPublicos/Psav)
+- [BCB Drex Pilot page](https://www.bcb.gov.br/estabilidadefinanceira/piloto-drex)
+- [BCB Phase 1 report announcement](https://www.bcb.gov.br/en/pressdetail/2601/nota)
+- [Banxico CoDi documentation](https://www.banxico.org.mx/sistemas-de-pago/codi-cobro-digital-banco-mexic.html)
+- [Banxico 2025 management-progress report](https://www.banxico.org.mx/publicaciones-y-prensa/informes-de-avance-de-gestion-financiera/%7B08B1A759-EECD-C59F-C0F9-153960E76E77%7D.pdf)
+- [Banco de la República — CBDC analysis, 2024-08-20](https://www.banrep.gov.co/es/moneda-digital-banco-central-colombia)
+- [BCRP national payments and fintech report, March 2025](https://www.bcrp.gob.pe/docs/Publicaciones/reporte-del-sistema-nacional-de-pagos/2025/marzo/rspf-marzo-2025.pdf)
+- [El Salvador Legislative Decree 199 — Bitcoin Law amendment](https://www.asamblea.gob.sv/sites/default/files/documents/decretos/FC2C7E66-490B-4420-B8B5-221C2F2A4C28.pdf)
+- [IMF Country Report 25/58 — El Salvador EFF request](https://www.imf.org/-/media/files/publications/cr/2025/english/1slvea2025001-print-pdf.pdf)
+- [Banco Central de Venezuela homepage](https://www.bcv.org.ve/) — included only to document the source limitation described above

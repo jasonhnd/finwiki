@@ -19,8 +19,8 @@
     "domain": "fintech",
     "type": "wiki",
     "created": "2026-04-24",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-06-24",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-08-08",
     "confidence": "likely",
     "tags": [
@@ -35,16 +35,20 @@
     "sources": [
       "https://www.release.tdnet.info/inbs/I_main_00.html",
       "https://disclosure2.edinet-fsa.go.jp/",
-      "https://www2.jpx.co.jp/tseHpFront/JJK010010Action.do"
+      "https://www2.jpx.co.jp/tseHpFront/JJK010010Action.do",
+      "https://www.jpx.co.jp/english/corporate/news/news-releases/0060/20241009-01.html",
+      "https://www.jpx.co.jp/english/equities/trading/domestic/01.html",
+      "https://www.jpx.co.jp/equities/listing/disclosure/tdnet/",
+      "https://www.jpx.co.jp/glossary/ra/566.html"
     ]
   },
-  "summary": "適切な渠道選択により、公告 15:00 発表から数分以内の補足 + 翌日の舆情動向把握までを効率的にカバーできる。",
+  "summary": "TDnet は開示イベントに応じて随時更新され、全社共通の「15:00 発表」時刻はない。東京証券取引所の現物市場は 2024-11-05 から 15:30 終了であり、監視は固定時刻ではなく対象会社の予定と実際の開示イベントに合わせる。^[https://www.jpx.co.jp/equities/listing/disclosure/tdnet/; https://www.jpx.co.jp/english/corporate/news/news-releases/0060/20241009-01.html]",
   "headings": [
     "日本上場会社 開示情報モニタリング SOP（17 チャネル）",
     "三層構造",
-    "一層: 官方源（Primary · 最権威）",
-    "二層: 聚合器（Secondary · 易用性）",
-    "三層: 海外通道（Tertiary · 外盤参考）",
+    "一層: 公式情報（Primary）",
+    "二層: 第三者サービス（Secondary）",
+    "三層: 海外向け情報（Tertiary）",
     "時系列 SOP（大型開示日）",
     "T-1 日（前日）",
     "当日（T=0）",
@@ -67,13 +71,31 @@
       "https://finwiki.zksc.io/ja/fintech/japan-financial-regulation/",
       "https://finwiki.zksc.io/ja/fintech/japan-third-party-allotment-5-step-flow/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 17,
+    "external_links": [
+      "https://disclosure2.edinet-fsa.go.jp/",
+      "https://finance.logmi.jp/",
+      "https://finance.yahoo.co.jp/",
+      "https://kabutan.jp/",
+      "https://minkabu.jp/",
+      "https://shikiho.toyokeizai.net/",
+      "https://web.fisco.jp/",
+      "https://www.buffett-code.com/",
+      "https://www.jpx.co.jp/english/corporate/news/news-releases/0060/20241009-01.html",
+      "https://www.jpx.co.jp/english/equities/trading/domestic/01.html",
+      "https://www.jpx.co.jp/equities/listing/disclosure/tdnet/",
+      "https://www.jpx.co.jp/glossary/ra/566.html",
+      "https://www.nikkei.com/nkd/",
+      "https://www.release.tdnet.info/inbs/I_main_00.html",
+      "https://www.ullet.com/",
+      "https://www2.jpx.co.jp/tseHpFront/JJK010010Action.do",
+      "https://yutai-guide.daiwair.co.jp/"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 3459,
-    "word_like_tokens": 564,
+    "nonspace_chars": 5644,
+    "word_like_tokens": 860,
     "inbound_wikilinks_count": 6,
-    "last_modified": "2026-06-24"
+    "last_modified": "2026-07-30"
   }
 }

@@ -23,8 +23,8 @@
     "domain": "fintech",
     "type": null,
     "created": "2026-05-18",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-06-24",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-08-08",
     "confidence": "likely",
     "tags": [
@@ -42,11 +42,13 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://stripe.com/newsroom",
-      "https://www.bridge.xyz/",
-      "https://www.privy.io/",
+      "https://stripe.com/in/newsroom/news/stripe-2025-update",
+      "https://stripe.com/en-fr/newsroom/news/stripe-completes-bridge-acquisition",
+      "https://privy.io/blog/announcing-our-acquisition-by-stripe",
+      "https://privy.io/blog/privy-is-live-in-stripe-projects",
+      "https://tempo.xyz/blog/introducing-tempo",
       "https://tempo.xyz/",
-      "https://stripe.com/use-cases/crypto"
+      "https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol"
     ]
   },
   "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
@@ -89,13 +91,21 @@
       "https://finwiki.zksc.io/ja/fintech/onchain-finance-vs-crypto-bifurcation/",
       "https://finwiki.zksc.io/ja/fintech/protocol-hedge-strategy-stripe-pattern/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 7,
+    "external_links": [
+      "https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol",
+      "https://privy.io/blog/announcing-our-acquisition-by-stripe",
+      "https://privy.io/blog/privy-is-live-in-stripe-projects",
+      "https://stripe.com/en-fr/newsroom/news/stripe-completes-bridge-acquisition",
+      "https://stripe.com/in/newsroom/news/stripe-2025-update",
+      "https://tempo.xyz/",
+      "https://tempo.xyz/blog/introducing-tempo"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 2907,
-    "word_like_tokens": 495,
-    "inbound_wikilinks_count": 24,
-    "last_modified": "2026-06-24"
+    "nonspace_chars": 5599,
+    "word_like_tokens": 886,
+    "inbound_wikilinks_count": 23,
+    "last_modified": "2026-07-30"
   }
 }

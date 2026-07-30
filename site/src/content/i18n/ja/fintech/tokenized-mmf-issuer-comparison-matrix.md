@@ -1,191 +1,133 @@
 ---
 source: fintech/tokenized-mmf-issuer-comparison-matrix
-source_hash: dee64f9ae50e4ef7
+source_hash: de8f91a03b7973da
 lang: ja
-model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
-title: "トークン化 MMF 発行体比較マトリックス — BUIDL, BENJI, ACRED, WTGXX, USYC, USTB, OUSG"
-translated_at: 2026-06-26T08:38:42.152Z
+title: "トークン化キャッシュ・クレジットファンド比較 — BUIDL、BENJI、WTGXX、ACRED、USYC、USTB、OUSG"
+translated_at: 2026-07-29T17:58:12Z
 ---
 
-# トークン化 MMF 発行体比較マトリックス — BUIDL, BENJI, ACRED, WTGXX, USYC, USTB, OUSG
+# トークン化キャッシュ・クレジットファンド比較 — BUIDL、BENJI、WTGXX、ACRED、USYC、USTB、OUSG
 
-## ウィキ上の位置づけ
+## Wiki ルート
 
-この項目は、トークン化マネーマーケットおよび利回り付き RWA ファンド発行体を 8 商品で横比較するマトリックスとして、[[fintech/INDEX|fintech index]] の配下にある。発行体別の深掘りである [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]]、[[fintech/franklin-templeton-stablecoin-migration|Franklin BENJI / FOBXX]]、[[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED]]、[[fintech/tokenized-mmf-wisdomtree-hashnote|WisdomTree WTGXX + Hashnote USYC]]、[[fintech/ondo-finance-rusdy-adoption|Ondo OUSG / USDY / rUSDY]] を補完する。トークン化 MMF がステーブルコイン利回りインフラとして果たす制度的役割は [[fintech/circular-reserve-asset-flywheel-overview|準備金相互ロックフライホイール]] と [[fintech/blackrock-buidl-sc-issuer-adoption|BUIDL SC 発行会社 adoption]] を、規制境界は [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]] と [[fintech/three-circles-stablecoin-mra-framework|三円 MRA framework]] を参照。
+本項目は、エビデンスに基づく分類マトリクスとして [[fintech/INDEX|フィンテック索引]] の配下に位置します。[[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]]、[[fintech/franklin-templeton-stablecoin-migration|Franklin BENJI / FOBXX]]、[[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED]]、[[fintech/tokenized-mmf-wisdomtree-hashnote|WTGXX と USYC]]、[[fintech/ondo-finance-rusdy-adoption|Ondo OUSG / USDY]]を補完します。
 
 > [!info] 要約
-> 8 つのトークン化ファンド商品が 2026-Q2 データセットの中核である。**BUIDL**（BlackRock + Securitize、AUM 約 $2.58B、Reg D、8 チェーン、Aaa-mf）、**BENJI / FOBXX**（Franklin Templeton、約 $650M、1940 Act 2a-7,、8 チェーン）、**ACRED**（Apollo、約 $100M+、Reg D、MMF ではないプライベートクレジット、7 チェーン）、**WTGXX**（WisdomTree、約 $200M、2a-7  リテール、自社 Prime ウォレット）、**USYC**（Hashnote → Circle 2024-12,、ピーク約 $1B、Reg D、現在は USDC.YS 利回りエンジン）、**USTB**（Superstate、約 $150M、Reg D）、**OUSG**（Ondo、約 $650M、Reg D、**BUIDL 裏付け**、7 チェーン）、および **PYUSD-MMF 候補**トラック（Paxos shelf、未稼働）が並ぶ。トークン化ファンド市場全体は、**AUM $8B+** を 2026-Q2 に突破し、約 $1B だった 2024-Q1 から 8倍の成長を 24 か月で達成したが、なお <0.1%、約 $7T の米国 MMF 市場に対して小さい。マトリックスを横断して読むと、**規制ラッパー（Reg D vs 1940 Act 2a-7）が市場を二分し**、**Securitize + BNY Mellon への移管代理人・カストディアン集中が際立ち**、BUIDL の「利回りインフラ」ポジションと競う第二梯団商品にとって **Securitize / Ondo / Pendle / Morpho 経由のオンチェーン・コンポーザビリティが拘束的な競争上の堀**であることが分かる。
+> これらの商品は、単一で均質な「トークン化 MMF」カテゴリーではありません。**FOBXX と WTGXX は米国登録マネー・マーケット・ファンドです。BUIDL は、適格投資家に免除規定に基づいて募集される未登録の私募ファンド持分です。ACRED は分散型クレジット戦略に投資するトークン化フィーダーであり、マネー・マーケット・ファンドではありません。USYC は Cayman ファンドの持分を表し、非米国人だけに提供されます。USTB と OUSG は適格購入者向けの私募ファンドです。** したがって、有用な比較は、変動する AUM ランキングや共通の $1 ペッグという仮定ではなく、法的ラッパー、適格投資家、基礎エクスポージャー、償還の仕組みから始まります。
 
-## 8 商品比較が必要な理由単一発行体の物語（「BUIDL が支配する」「BENJI が最初だった」）は真実の異なる部分を捉えるが、構造パターンを隠してしまう。8 商品を **NAV / AUM / 決済チェーン / 移管代理人 / カストディアン / 規制ラッパー / 流通 / 対象投資家 / オンチェーン・コンポーザビリティ** で横並びに置くことで、競争上のポジショニングが見える。このマトリックスは、拘束的なコンプライアンス選択としての **Reg D vs 2a-7 分岐**（WTGXX と FOBXX だけが 2a-7 登録で、米国リテール配信が可能）、**Securitize 集中**（BUIDL + ACRED の移管代理人）、**BNY Mellon カストディアン集中**（BUIDL Reserve、BENJI/FOBXX、OUSG の裏付け UST、USDC Reserve Fund のカストディアン）も示す。より広い RWA トークン化景観は [[fintech/onchain-finance-vs-crypto-bifurcation|onchain finance vs crypto bifurcation]] を参照。
+## 商品および法的ラッパーのマトリクス
 
-## マトリックス A · 発行体、NAV、AUM、開始時期
-
-| 商品 | 発行体 / スポンサー | NAV 目標 | AUM (2026-Q2) | 開始時期 |
-|---|---|---|---|---|
-| **BUIDL** | [[fintech/blackrock-buidl-tokenized-mmf-overview\|BlackRock USD Institutional Digital Liquidity Fund]] | $1.00 per share | **~$2.58B** | 2024-03 |
-| **BENJI / FOBXX** | [[fintech/franklin-templeton-stablecoin-migration\|Franklin Templeton Franklin OnChain U.S. Government Money Fund]] | $1.00 per share | **~$650M** | 2021-04 |
-| **ACRED** | [[fintech/apollo-acred-private-credit-tokenization\|Apollo Diversified Credit Securitize Fund]] | n/a (private credit; not pegged) | **~$100M+** | 2025-01-30 |
-| **WTGXX** | WisdomTree Government Money Market Fund (Prime tokenized class) | $1.00 per share | **~$200M** (within Prime) | 2024-Q3 (tokenized share class) |
-| **USYC** | Hashnote (Circle が 2024-12 に買収); now Circle USDC.YS yield engine | $1.00 per share | **~$1B peak** (pre-acquisition); integrated post-2025-Q1 | 2023; Circle acq 2024-12 |
-| **USTB** | Superstate Short Duration US Government Securities Fund | $1.00 per share | **~$150M** | 2024-Q2 |
-| **OUSG** | [[fintech/ondo-finance-rusdy-adoption\|Ondo Short-Term US Government Treasuries Fund]] | $1.00 per share | **~$650M** | 2023 (re-routed to BUIDL backing 2024-Q2) |
-| **PYUSD-MMF (Paxos shelf)** | Paxos shelf-registered MMF (not yet live) | $1.00 per share | n/a | Planned |
-
-市場リーダーとの差は現実である。**BUIDL 単独で ~32%、約 $8B のトークン化 MMF 市場を占め**、第二梯団商品（BENJI + OUSG + USYC + WTGXX + USTB + ACRED）の合計は約 $2.5B+ である。Circle 買収後の **USYC のステータスはハイブリッド**であり、USYC AUM は現在、単独商品としてではなく USDC.YS 採用指標に反映される点に注意する。さらに **OUSG は構造的に BUIDL 流通ラッパー**である。Ondo は 2024-Q2 に、OUSG が準備金の大半を BUIDL に再ルーティングすると発表し、一部の見方では OUSG は **約 40%、BUIDL の 2024 中盤 AUM を持つ最大の外部 BUIDL 保有者**となっている。
-
-## マトリックス B · 規制ラッパー
-
-| 商品 | ラッパー | 適格投資家 | 米国リテールアクセス |
+| 商品 | トークンが表すもの | 公開資料で説明されるラッパー | 適格投資家の境界 |
 |---|---|---|---|
-| BUIDL | **Reg D 506(c)** private placement (BVI structure) | US qualified purchaser + selected non-US institutions; **$5M minimum** | No (qualified purchaser only) |
-| BENJI / FOBXX | **1940 Act 2a-7 registered MMF** | Retail US + institutional; **$0 minimum** in some channels | **Yes** (any accredited or non-accredited US investor) |
-| ACRED | **Reg D** private placement | US qualified purchaser; institutional | No |
-| WTGXX | **1940 Act 2a-7 登録 MMF**；WisdomTree Prime 経由のトークン化シェアクラス | 米国リテール（Prime ウォレット内） | **可** |
-| USYC | **Reg D** private placement | Institutional | No |
-| USTB | **Reg D** + Reg S | US qualified + non-US institutional | No |
-| OUSG | **Reg D 506(c)** | US qualified purchaser + selected non-US institutions | No |
-| USDY (Ondo retail) | **Reg S only**; not available to US persons | **Non-US individuals + institutions** | **No (explicitly forbidden to US persons)** |
+| BUIDL | BlackRock USD Institutional Digital Liquidity Fund の持分 | BVI ファンド。持分は Securities Act に基づき登録されておらず、免除規定に基づいて募集される | 適格投資家 / 事前承認済み投資家 |
+| BENJI / FOBXX | BENJI トークン一枚が Franklin OnChain U.S. Government Money Fund の一口に対応 | 米国登録マネー・マーケット・ミューチュアル・ファンド | Franklin が開示する個人・機関向けチャネルを通じたアクセス（口座適格性を条件とする） |
+| WTGXX | ブロックチェーン統合型の記録管理を通じて記録される WisdomTree Treasury Money Market Digital Fund の持分 | 米国登録の 1940 Act デジタル・マネー・マーケット・ファンド | WisdomTree が開示するチャネルを通じて利用可能（適格性を条件とする） |
+| ACRED | Apollo Diversified Credit Fund へのエクスポージャーを提供するトークン化フィーダーの持分 | オフショア私募。トークン化フィーダーについて Form D が提出されている | 募集文書および投資家資格の制限が適用される |
+| USYC | Hashnote International Short Duration Yield Fund Ltd. の持分のデジタル表象 | Cayman Islands のミューチュアル・ファンド。Circle International Bermuda がトークン管理者 | 非米国人のみ。追加制限が適用される場合がある |
+| USTB | Superstate Short Duration US Government Securities Fund の持分 | トークン化私募ファンド、Delaware 州法定信託のシリーズ | 対応法域の適格購入者 |
+| OUSG | Ondo I LP のリミテッド・パートナーシップ持分 | Section 3(c)(7) 私募ファンド。Rule 506(c) に基づく募集 | 確認済みの認定投資家および適格購入者 |
 
-規制上の分岐は拘束的である。**BENJI/FOBXX と WTGXX だけが 2a-7 登録**であり、これは米国リテール投資家が証券会社経由でアクセスできる標準ラッパーである。BUIDL、ACRED、USYC、USTB、OUSG はすべて Reg D で、機関投資家限定である。**USDY は独自**で、**非米国**リテール向けに明示的に設計された唯一の大規模トークン化商品（Reg S ノート構造）である。この分岐はマトリックス内で最大の単一差異であり、流通戦略の拘束要因である。
+出典：[BUIDL のローンチおよび募集開示](https://investors.securitize.io/news/news-details/2024/BlackRock-Launches-Its-First-Tokenized-Fund-BUIDL-on-the-Ethereum-Network-03-20-2024/default.aspx)、[Franklin FOBXX ファンドページ](https://www.franklintempleton.com/investments/options/money-market-funds/products/29386/SINGLCLASS/franklin-on-chain-u-s-government-money-fund/FOBXX)、[Franklin BENJI の説明](https://digitalassets.franklintempleton.com/benji/)、[WisdomTree WTGXX ファクトシート](https://www.wisdomtree.com/-/media/us-media-files/documents/resource-library/fund-fact-sheets/digital/wtgxx.pdf)、[ACRED のローンチ](https://investors.securitize.io/news/news-details/2025/Apollo-and-Securitize-Announce-Partnership-and-Launch-Tokenized-Access-to-Credit-Fund-on-Aptos-Avalanche-Ethereum-Ink-Polygon-and-Solana-Networks-01-30-2025/default.aspx)、[ACRED フィーダーの Form D](https://www.sec.gov/Archives/edgar/data/2056038/000205603825000001/xslFormDX01/primary_doc.xml)、[Circle USYC](https://www.circle.com/usyc)、[Superstate USTB](https://superstate.com/ustb)、[Ondo OUSG の法的注記](https://docs.ondo.finance/qualified-access-products/ousg/important-notes)。
 
-## マトリックス C · 裏付け資産、決済チェーン、移管代理人、カストディアン
+## エクスポージャーと価値の仕組み
 
-| 商品 | 裏付け資産 | 稼働中の決済チェーン | 移管代理人 | カストディアン / トレジャリー |
-|---|---|---|---|---|
-| BUIDL | 75% UST (1-3M) + 15% overnight repo + 10% cash; WAM <60 days | **Ethereum, Solana, BNB, Avalanche, Aptos, Arbitrum, Optimism, Polygon** (8 chains) | **Securitize** (BlackRock invested $100M + board seat) | **BNY Mellon** (Reserve Fund) |
-| BENJI / FOBXX | UST 証券 + 政府レポ + 現金 | **Stellar, Polygon, Arbitrum, Base, Avalanche, Aptos, Solana, Sui**（8 チェーン） | Franklin Templeton 自社（オンチェーン台帳 = 公式記録） | **BNY Mellon** |
-| ACRED | Direct lending + asset-backed lending + structured credit (private credit, not UST) | Ethereum, Solana, Polygon, Avalanche, Aptos, Arbitrum, Sei (7 chains; Wormhole cross-chain) | **Securitize** (same as BUIDL) | Apollo administrator |
-| WTGXX | UST + 政府レポ + 現金（標準 MMF ポートフォリオ） | Stellar + Ethereum（予定；Prime ウォレット内での配信が主） | WisdomTree 自社 | State Street カストディ |
-| USYC | UST + 現金；買収前の Hashnote モデル | Ethereum, Solana, Canton（買収後の統合） | Hashnote / Circle | 買収後は Circle Reserve Fund カストディ（BNY Mellon） |
-| USTB | Short UST + cash | Ethereum, Solana | Superstate in-house | UMB Bank custodial |
-| OUSG | **BlackRock BUIDL + short UST** (mid-2024 onward) | Ethereum, Solana, Polygon, Mantle, Sui, Aptos, XRPL (7 chains) | Ondo + Securitize | BNY Mellon (via underlying BUIDL) |
-| USDY (Ondo retail) | Short UST + bank deposits | Ethereum, Solana, Mantle, Sui, Aptos, Cosmos, Noble, Arbitrum (8 chains) | Ondo | Ankura Trust |
-
-**集中パターン**:
-- **Securitize** は BUIDL + ACRED + OUSG（再ルーティング経由）の移管代理人であり、**トークン化金融で最も重要な移管代理人集中**である。BlackRock は Securitize に $100M を投資し、取締役席を取得して関係を正式化した。
-- **BNY Mellon** は BUIDL Reserve Fund、BENJI/FOBXX、OUSG（BUIDL 経由）、USDC Reserve Fund（Circle）、過去の USDP Reserve のカストディアンである。これはステーブルコインおよびトークン化ファンドのサプライチェーンにおける最大の単一カストディアン集中である。
-- **Stellar** は、先行者ポジションを維持する唯一の非 EVM チェーンである（BENJI は 2021にそこでローンチし、FOBXX はマルチチェーン展開後も Stellar が主上場先である）。
-- **Aaa-mf 格付け**（Moody's）: BUIDL + Fidelity FYHXX は同日（2026-05-13）に Aaa-mf を取得し、トークン化 MMF が従来型 MMF とフルスタックで同等のものとして機関投資家に受け入れられたことを示した。
-
-## マトリックス D · 流通チャネルと対象投資家
-
-| 商品 | 主要流通チャネル | 対象投資家セグメント |
+| 商品 | 開示された投資エクスポージャー | 確認すべき価値 / 収益の仕組み |
 |---|---|---|
-| BUIDL | 機関投資家向け直接販売 + Securitize プラットフォーム + Coinbase Prime + Bitstamp institutional | ステーブルコイン発行体（USDC、USDB、RLUSD 準備金）、DeFi プロトコル（Aave RWA、Morpho）、機関投資家のトレジャリー（Siemens、Ondo） |
-| BENJI / FOBXX | Franklin Templeton リテール証券 + Coinbase + Solana ウォレット | 米国リテール + 機関投資家（マルチチェーン命名戦略） |
-| ACRED | Coinbase Asset Management + Kraken + Securitize | プライベートクレジット利回りを求める暗号資産ネイティブ機関 |
-| WTGXX | WisdomTree Prime（自社リテールウォレット + 証券機能） | WisdomTree 自社流通スタック経由の米国リテール |
-| USYC | 買収前: DeFi プロトコル（Frax、Ethena、Sky）；買収後: Circle USDC.YS へ統合 | 買収後: USDC 利回り付きラッパー利用者 |
-| USTB | 暗号資産ネイティブの機関投資家デスク；Coinbase Asset Management | 機関投資家向け暗号資産デスク |
-| OUSG | アジア + 中南米の適格機関；DeFi プロトコル（Flux、Pendle、Morpho） | 非米国適格機関；DeFi RWA 上場 |
-| USDY (Ondo retail) | 非米国リテール証券 + アジア fintech + LatAm ウォレット | **非米国リテール**（中南米 ~44%、東南アジア、MENA） |
+| BUIDL | 現金、米国財務省短期証券、レポ取引 | トークン当たり $1 を目指す。日次で発生する配当は毎月、新規トークンとして支払われる |
+| BENJI / FOBXX | 99.5% 以上を米国政府証券、現金、政府証券を完全担保とするレポに投資 | 安定した $1 NAV を目指す。日次配当。マネー・マーケット・ファンドの損失リスクは残る |
+| WTGXX | 2025-11-01 の名称・戦略変更後の財務省証券マネー・マーケット戦略 | 安定した $1 NAV を目指す。収益と費用は目論見書および最新のファクトシートに従う |
+| ACRED | 基礎となる Apollo ファンドを通じた企業向けダイレクトレンディング、資産担保融資、正常債権・ディスロケーション・ストラクチャードクレジット | フィーダーの日次 NAV が開示される。信用リスクと流動性リスクは財務省証券商品と異なる |
+| USYC | 財務省短期証券および短期米国政府証券を担保とするリバースレポ | トークン価格の上昇を通じて利回りが蓄積する。償還は即時償還枠に依存し、その枠を超える場合は T+0 または T+1 で決済され得る |
+| USTB | 短期財務省証券 / 米国政府証券 | 一口当たりの継続的 NAV。保証された $1 ステーブルコインとして表示されていない |
+| OUSG | トークン化された財務省証券商品、マネー・マーケット商品、流動性資産のポートフォリオ。保有資産は変更され得る | 日次で増加するファンド価値。適格投資家向けに開示された 24/7 の発行 / 償還機能 |
 
-流通層は、第二梯団商品にとって**拘束的な競争上の堀**である。BUIDL は機関投資家のトレジャリー流通（BlackRock の既存顧客基盤）を持ち、**SC 発行体フライホイールのデフォルト準備資産**である。BENJI/FOBXX は Franklin Templeton の証券流通を活用する。WTGXX は WisdomTree Prime ウォレット内にロックされ、成長上限は Prime のリテールオンボーディング速度に依存する。OUSG と USDY は合わせて、他の発行体が持たない **リテール + 機関投資家向けのアジア / 中南米 2 商品スタック**を Ondo に与える。
+出典：[BUIDL のローンチ](https://investors.securitize.io/news/news-details/2024/BlackRock-Launches-Its-First-Tokenized-Fund-BUIDL-on-the-Ethereum-Network-03-20-2024/default.aspx)、[FOBXX ファンドページ](https://www.franklintempleton.com/investments/options/money-market-funds/products/29386/SINGLCLASS/franklin-on-chain-u-s-government-money-fund/FOBXX)、[WTGXX ファクトシート](https://www.wisdomtree.com/-/media/us-media-files/documents/resource-library/fund-fact-sheets/digital/wtgxx.pdf)、[ACRED のローンチ](https://investors.securitize.io/news/news-details/2025/Apollo-and-Securitize-Announce-Partnership-and-Launch-Tokenized-Access-to-Credit-Fund-on-Aptos-Avalanche-Ethereum-Ink-Polygon-and-Solana-Networks-01-30-2025/default.aspx)、[Circle USYC](https://www.circle.com/usyc)、[Superstate USTB](https://superstate.com/ustb)、[Ondo OUSG](https://ondo.finance/ousg)。
 
-## マトリックス E · オンチェーン・コンポーザビリティと DeFi 統合
+## 直接比較できる事項
 
-| 商品 | DeFi 統合の深度 | 担保としての上場先 |
+以下の比較軸は、日付の明示された発行体資料から記録する場合に有用です。
+
+| 比較軸 | 重要である理由 | エビデンス基準 |
 |---|---|---|
-| BUIDL | **最高**: **CME / Binance / Deribit / Crypto.com** で IM 担保として受け入れ；Apollo ACRED が償還流動性に利用；Pendle の利回り取引と統合；Aave RWA 上場 | 主要デリバティブ市場 + DeFi レンディング |
-| BENJI / FOBXX | 中程度: Solana DeFi（Kamino、Drift）にネイティブ；Pendle | 主に Solana 上の DeFi レンディング上場 |
-| ACRED | sACRED（2025-06,、RedStone + Securitize）は**オンチェーン DeFi 利回りを得た初のプライベートクレジットファンド** | RedStone オラクル裏付け上場 |
-| WTGXX | 低い: WisdomTree Prime ウォレットエコシステムに限定 | 外部 DeFi 統合は限定的 |
-| USYC | 買収前: 深い DeFi（Frax、Ethena USDtb 裏付け、Sky USDS RWA vault）；買収後: USDC.YS 利回り付きラッパー商品へ統合 | DeFi レンディング + 利回りプロトコル |
-| USTB | 中程度: 暗号資産ネイティブ機関向け DeFi | 初期 DeFi 上場 |
-| OUSG | **深い**: Flux Finance（Ondo 自社レンディング市場）、Pendle 利回り取引、Morpho RWA 上場、Aave RWA 候補 | DeFi レンディング + 利回り + アジア / 中南米ウォレット |
-| USDY (Ondo retail) | Solana DeFi + Mantle / Sui エコシステム経由の高いリテール・コンポーザビリティ | リテール級 DeFi 上場（Kamino など） |
+| 法的ラッパー | 登録、開示、投資家適格性を決定する | 目論見書、募集覚書の開示、SEC 提出書類、または公式の法的注記 |
+| 適格投資家 | 個人向けアクセス、認定投資家向けアクセス、適格購入者向けアクセス、非米国人向けアクセスを区別する | 最新の申込 / 適格性開示 |
+| 基礎エクスポージャー | 政府 MMF、財務省証券の私募ファンド、分散型クレジットを区別する | 最新の目論見書、保有資産、または公式商品ページ |
+| NAV / 収益方式 | 安定 NAV、価格蓄積型、配当トークン分配は異なる仕組みである | ファンド会計および分配に関する開示 |
+| 償還 | 「オンチェーン」であっても、無制限の即時流動性が保証されるわけではない | 締切時刻、上限、手数料、決済、ゲーティングに関する開示 |
+| 所有権記録 | トークンが正式な持分記録の場合も、統合型記録管理システムの一要素の場合もある | 名義書換代理人および目論見書の開示 |
+| ネットワーク対応 | チェーンの利用可否は時間とともに変化し、シェアクラスごとに異なる場合がある | 最新の公式コントラクト / ネットワーク一覧 |
+| サービス提供者 | 名義書換代理人、管理会社、カストディアン、トークン化プラットフォームは異なる役割である | 募集文書または発行体の発表 |
 
-BUIDL の DeFi 統合の深度は構造的である。デリバティブ市場と DeFi プロトコルの双方が同時に利用できる、**T+0 償還可能な利回り付き担保の最も安い供給源**である。2026-05-14に始まった **$1B の BlackRock × Goldman × DTCC × Janus 即時償還ファシリティ** は、BUIDL を T+0 流動性層としてさらに定着させた。競合商品は BUIDL を経由する（OUSG モデル）か、T+1/T+2 償還ギャップを受け入れる必要がある。
+出典：比較方法は、商品マトリクスに列挙した発行体資料および提出書類から導出しています。これは分析上のチェックリストであり、七つの商品が同一の運用モデルを採用しているとの主張ではありません。
 
-## マトリックス F · 利回りメカニズムと経済性
+## よくある比較上の誤りの訂正
 
-| 商品 | APY（2026-05 代表値） | スポンサー手数料 | 利回り分配メカニズム |
-|---|---|---|---|
-| BUIDL | ~4.3% | ~20bps | 日次で配当として分配；オンチェーンでリベース |
-| BENJI / FOBXX | ~4.7%（7日 SEC 利回り） | 20bps | 日次で配当として分配；オンチェーン・リベース |
-| ACRED | 変動（プライベートクレジット；SOFR + スプレッド） | ~75-150bps（典型的なプライベートクレジット） | 四半期分配；プライベートクレジットファンドの仕組み |
-| WTGXX | ~4.7%（7日 SEC 利回り） | ~20bps | Prime ウォレット経由の日次分配 |
-| USYC（買収後） | USDC.YS パッケージとして ~4.5% を提供 | 該当なし（USDC.YS に統合） | USDC + USYC 持分の商品パッケージ |
-| USTB | ~4.5% | ~15bps | 日次分配 |
-| OUSG | ~4.8%（SOFR 連動；SOFR-25 〜SOFR-40bps 純額） | ~15bps Ondo + 20bps BlackRock（BUIDL 裏付け経由） | 日次分配；BUIDL 経由でルーティング |
-| USDY (Ondo retail) | リベース経由で ~4.7% | ~20bps | 価格リベース（USDY）または供給量リベース（rUSDY） |
+### ACRED は MMF ではない
 
-経済モデルは例外的に収斂している。UST 裏付け商品はすべて、~15-25bps のスポンサー手数料で SOFR 近傍の利回りを提供する。**OUSG の純 APY は構造的に BUIDL を ~20bps 下回る**（BlackRock 20bps 手数料 + Ondo 15bps 手数料を複利控除後で反映）ためであり、OUSG が価値連鎖上 BUIDL の下流に位置するからである。ACRED は、構造的に異なる利回り（プライベートクレジット、長いデュレーション、低い流動性）と構造的に高い手数料を持つ唯一の商品である。USDY/rUSDY は、**非米国リテールが米国適格購入者ゲートを通らずに直接利回りへアクセスできる**唯一の商品である。
+ACRED は、Apollo Diversified Credit Fund へのアクセスを提供するトークン化フィーダーです。そのエクスポージャーには、ダイレクトレンディング、資産担保融資、その他のクレジット戦略が含まれます。これを MMF の利回りまたは安定 NAV のランキングに入れると、信用リスク、デュレーション、流動性、ファンド構造の重要な差異が見えなくなります。
 
-## マトリックス G · GENIUS Act §501 適合ステータス
+出典：[Apollo と Securitize による ACRED のローンチ](https://investors.securitize.io/news/news-details/2025/Apollo-and-Securitize-Announce-Partnership-and-Launch-Tokenized-Access-to-Credit-Fund-on-Aptos-Avalanche-Ethereum-Ink-Polygon-and-Solana-Networks-01-30-2025/default.aspx)および[Apollo Diversified Credit Fund の SEC 提出書類](https://www.sec.gov/Archives/edgar/data/1676197/000119312526192295/d335502d486bpos.htm)。
 
-| 商品 | GENIUS §501 分類 | 注記 |
-|---|---|---|
-| BUIDL | §501 の範囲外（登録証券；決済ステーブルコインではない） | 米国決済文脈では「ステーブルコイン」として販売できない |
-| BENJI / FOBXX | §501 の範囲外（SEC 登録 2a-7 MMF） | BUIDL と同じ論理 |
-| ACRED | §501 の範囲外（プライベートクレジット；ペッグではない） | カテゴリとしてステーブルコインではない |
-| WTGXX | §501 の範囲外（SEC 登録 2a-7 MMF） | BENJI と同じ論理 |
-| USYC | §501 の範囲外（Reg D ファンド）；ただし、許可された GENIUS 適合の利回り付きラッパー商品である **USDC.YS に統合** | Circle の USDC.YS は USDC（GENIUS 適合 SC）+ USYC（登録ファンド）を束ね、**§501 の SC 利息支払い禁止**を回避する |
-| USTB | §501 の範囲外 | Reg D ファンド |
-| OUSG | §501 の範囲外（Reg D ファンド） | Reg D ファンド |
-| USDY / rUSDY | §501 の下で SC として販売することは明示的に不可（登録ノート；非米国のみ） | [[fintech/three-circles-stablecoin-mra-framework\|MRA framework]] における独自の第 4 サークル |
+### USTB は私募ファンド
 
-GENIUS Act §501 によるステーブルコイン発行体の利息支払い禁止は、**トークン化 MMF 成長の追い風を直接生み出した**。利回り付きドルは米国決済レール上で法的に SC にはなれないが、トークン化 MMF 持分にはなれる。Circle × Hashnote の買収とその後の USDC.YS ローンチは最も明確な実例である。Circle は SC 発行体（USDC）と利回りエンジン（USYC）を保有し、それらを商品パッケージとして束ねることで、技術的な適合性を維持しながら **§501 を迂回する**。すべての第二梯団トークン化 MMF は、この規制上の幾何から恩恵を受ける。
+現在の Superstate ページは、USTB を適格購入者向けのトークン化私募ファンドと明記しています。以前の登録届出書では登録ファンドへの再編案が説明されていましたが、提案を商品の現在開示されている構造の代わりとして扱うべきではありません。
 
-## これらの次元を使う理由
+出典：[Superstate USTB](https://superstate.com/ustb)および[再編案を説明した 2025 年の SEC 提出書類](https://www.sec.gov/Archives/edgar/data/1982577/000110465925042142/tm2513524d1_n1a.htm)。
 
-9 つのマトリックス軸（NAV、AUM、決済チェーン、移管代理人、カストディアン、規制ラッパー、流通、対象投資家、オンチェーン・コンポーザビリティ）は、**機関投資家の採用判断におけるゲート変数**に対応するため選ばれている。
+### OUSG は単なる「BUIDL ラッパー」ではない
 
-1. **NAV / AUM** — 実現済みスケールを測る（ローンチ後に LP が気にする唯一の指標）。
-2. **決済チェーン** — オンチェーン・コンポーザビリティの上限を決める（Solana DeFi vs Ethereum DeFi vs 両方）。
-3. **移管代理人** — 運用リスクと規制上の chain-of-カストディ を決める（Securitize 集中は構造的）。
-4. **カストディアン** — 裏付け資産の安全性を決める（BNY Mellon 集中は構造的）。
-5. **規制ラッパー** — 適格投資家ベースを二分する（Reg D vs 2a-7  vs Reg S）。
-6. **流通チャネル** — 採用速度を予測する（拘束的な競争上の堀）。
-7. **対象投資家** — TAM を決める（適格購入者 vs リテール vs 非米国）。
-8. **オンチェーン・コンポーザビリティ** — DeFi 統合の深度を決める（BUIDL の IM 担保受け入れは構造的な堀）。
-9. **GENIUS §501 適合** — 商品を利回り付き SC ラッパーに組み込めるかを決める（USDC.YS パターン）。
+Ondo の法的開示では、OUSG は同社独自の私募ファンドに対するリミテッド・パートナーシップ持分とされています。Ondo の現在の商品資料は、複数の資産運用会社の商品、銀行預金、流動性資産を含み得るポートフォリオを示しています。BUIDL は重要な保有資産であり続けてきましたが、それによって OUSG のファンド層がなくなるわけでも、固定配分が証明されるわけでもありません。
 
-これら 9 つの変数を合わせると、**BUIDL がゼロから 32%の市場シェアを 24 か月で獲得した理由**（機関投資家向け流通 + Securitize + BNY Mellon + Reg D + IM 担保 + 8 チェーン）と、**WTGXX が Prime ウォレットの成長上限に構造的に制約される理由**（有利な 2a-7 ラッパーにもかかわらず単一流通チャネルにロックイン）を説明できる。マトリックス表示は、これらのパターンを横並びで明らかにする。
+出典：[Ondo の信頼性およびセキュリティに関する開示](https://docs.ondo.finance/trust-and-security)、[OUSG の法的注記](https://docs.ondo.finance/qualified-access-products/ousg/important-notes)、[現在の OUSG 商品ページ](https://ondo.finance/ousg)。
 
-## マトリックスの読み方
+### サービス提供者の集中には役割別のエビデンスが必要
 
-- **BUIDL は単なる商品ではなく「利回りインフラ」である**: BUIDL は Apollo ACRED に担保として利用され、Circle USDC に準備資産として統合され、CME/Binance/Deribit に IM として受け入れられ、Ondo OUSG を通じて再ルーティングされる。実際の経済的フットプリントは AUM を何倍も上回る。
-- **第二梯団は BUIDL に収斂しているのではなく、差別化している**: BENJI はリテール証券、OUSG はアジア / 中南米流通、ACRED はプライベートクレジット、USDY は非米国リテール、WTGXX は自社 Prime ウォレット、USYC は USDC.YS 統合に寄せている。BUIDL の機関投資家向け Reg D の堀を直接攻撃するものはない。
-- **Securitize 集中は最も過小評価されているリスクである**: BUIDL + ACRED +（再ルーティング経由の）OUSG の移管代理人であるため、Securitize の運用障害は第二梯団全体へ波及する。BlackRock の $100M 投資 + 取締役席は、部分的にはリスク軽減策である。
-- **BNY Mellon カストディアン集中はさらに大きい**: BUIDL Reserve + BENJI/FOBXX + USDC Reserve + USDY 裏付けのカストディアンである。BNY の運用問題は、適合 USD オンチェーンスタック全体に波及する。
-- **OUSG の BUIDL への構造的依存** は、OUSG が実質的には独立商品ではなく、非米国の機関投資家向けアジア / 中南米顧客のための BUIDL 流通ラッパーであることを意味する。BUIDL との純粋な代替競争は構造的に難しい。
-- **GENIUS §501 が追い風を生んだ**: Circle の USDC.YS（USDC + USYC バンドル）は、トークン化 MMF + GENIUS 適合 SC が許可された利回り付き USD ラッパーであることを示す最も明確な実例であり、第二梯団 MMF 戦略を裏付ける。
-- **市場はまだ米国 MMF TAM の ~0.1%にすぎない** — $8B vs $7T。10倍成長しても、追加発行体の余地はなお大きい。
+Securitize は、BUIDL の名義書換代理人、トークン化プラットフォーム、募集代理人であり、ACRED フィーダーのマネージャーでもあると公表しています。Ondo は OUSG にトークン化および助言の役割を提供しています。これらの関係は、Securitize が OUSG の名義書換代理人であることも、障害が必ずすべての商品へ連鎖することも立証しません。カストディも商品ごとに確認する必要があります。「基礎保有資産を介する」ことは、当該ファンドの直接のカストディアンであることと同じではありません。
 
-## 関連
+出典：[BUIDL のローンチ](https://investors.securitize.io/news/news-details/2024/BlackRock-Launches-Its-First-Tokenized-Fund-BUIDL-on-the-Ethereum-Network-03-20-2024/default.aspx)、[ACRED のローンチ](https://investors.securitize.io/news/news-details/2025/Apollo-and-Securitize-Announce-Partnership-and-Launch-Tokenized-Access-to-Credit-Fund-on-Aptos-Avalanche-Ethereum-Ink-Polygon-and-Solana-Networks-01-30-2025/default.aspx)、[OUSG の法的注記](https://docs.ondo.finance/qualified-access-products/ousg/important-notes)。
+
+## AUM、利回り、チェーン数に関する方針
+
+ライブの AUM、APY、保有資産、ネットワーク数、手数料は異なる周期で変化します。そのため、本ページでは日付の一致しない数値を組み合わせて市場シェアを主張しません。これらの項目を使用する場合は、次を守ります。
+
+- 各数値に発行体の基準日を付す。
+- 「ピーク AUM」を現在の AUM に加算しない。
+- ファンド AUM、トークン化シェアクラス AUM、プロトコル TVL を区別する。
+- 表示利回りを保証済みまたは将来予測として説明しない。
+- チェーンへの展開だけからカストディ、販売、担保としての採用を推論しない。
+
+例えば Franklin は、FOBXX の純資産総額を $813.50 million（基準日 2026-05-31）と報告し、WisdomTree は WTGXX の純資産を $827.70 million（基準日 2026-03-31）と報告しました。これらは同一日時点の観測値ではなく、同日比較であるかのように順位付けすべきではありません。
+
+出典：[Franklin FOBXX](https://www.franklintempleton.com/investments/options/money-market-funds/products/29386/SINGLCLASS/franklin-on-chain-u-s-government-money-fund/FOBXX)および[WisdomTree WTGXX 2026-Q1 ファクトシート](https://dataspanapi.wisdomtree.com/pdr/documents/WEBSITE_FUND_DETAILS/WDT/US/EN-US/WTGXX_2/)。
+
+## ステーブルコイン法との境界
+
+ファンド持分や私募ファンド持分は、トークン化されていることや低ボラティリティを目指すことだけを理由に、決済用ステーブルコインとして扱うべきではありません。GENIUS Act の発行体による利息付与の制限は section 4(a)(11) にあり、一般的な「§501」規則ではありません。同法が成立したという事実だけでは、同法がトークン化ファンドの成長をもたらしたことも、ステーブルコインとファンドを組み合わせたワークフローが規制上の迂回策であることも証明されません。
+
+法的状態と施行段階については [[fintech/regulatory-reset-2025-usa-crypto-policy|米国の 2025–2026 年政策リセット]] を参照し、実際の募集文書を用いて決済用ステーブルコインと証券・ファンド持分を区別してください。
+
+## 関連項目
 <!-- wiki-links:managed -->
-- [[INDEX|Wiki Index]]
-- [[fintech/INDEX|Fintech Index]]
+- [[INDEX|Wiki 索引]]
+- [[fintech/INDEX|フィンテック索引]]
 - [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]]
-- [[fintech/blackrock-buidl-sc-issuer-adoption|BUIDL SC 発行会社 adoption]]
-- [[fintech/franklin-templeton-stablecoin-migration|Franklin Templeton BENJI / FOBXX]]
+- [[fintech/franklin-templeton-stablecoin-migration|Franklin BENJI / FOBXX]]
 - [[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED]]
-- [[fintech/tokenized-mmf-wisdomtree-hashnote|WisdomTree WTGXX + Hashnote USYC]]
+- [[fintech/tokenized-mmf-wisdomtree-hashnote|WTGXX と USYC]]
 - [[fintech/ondo-finance-rusdy-adoption|Ondo OUSG / USDY / rUSDY]]
-- [[fintech/circle-usdc-stablecoin|Circle USDC]]
-- [[fintech/circular-reserve-asset-flywheel-overview|準備金相互ロックフライホイール]]
-- [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]]
-- [[fintech/stablecoin-revenue-split-economics|ステーブルコイン利息分配経済学]]
-- [[fintech/sky-usds-decentralized-stablecoin|Sky USDS / sUSDS]]
-- [[fintech/three-circles-stablecoin-mra-framework|三円 MRA framework]]
-- [[fintech/m-network-m0-neutral-infrastructure|M^0 / M Network neutral infrastructure]]
-- [[fintech/onchain-finance-vs-crypto-bifurcation|onchain finance vs crypto bifurcation]]
+- [[fintech/regulatory-reset-2025-usa-crypto-policy|米国ステーブルコイン法の状況]]
 <!-- /wiki-links:managed -->
 
 ## 出典
 
-- BlackRock — BUIDL fund page: https://www.blackrock.com/us/individual/products/422581/
-- Franklin Templeton — FOBXX fund page: https://www.franklintempleton.com/investments/options/money-market-funds/products/29386/SINGLCLASS/franklin-on-chain-u-s-government-money-fund/FOBXX
-- Apollo + Securitize ACRED page: https://apolloacademy.com/securitize/
-- WisdomTree — WTGXX fund page: https://www.wisdomtree.com/investments/etfs/fixed-income/wtgxx
-- Hashnote USYC: https://www.usyc.com/
-- Superstate USTB: https://superstate.com/
-- Ondo Finance — OUSG / USDY / rUSDY product docs: https://ondo.finance/
-- SEC EDGAR — registered MMF + 2a-7 filings: https://www.sec.gov/edgar
-- Circle blog — Circle acquires Hashnote (2024-12): https://www.circle.com/blog/circle-acquires-hashnote
-- DefiLlama BENJI protocol page: https://defillama.com/protocol/franklin-templeton-benji
-- Moody's public rating action — Aaa-mf for BUIDL + FYHXX (2026-05-13)
-- Public BlackRock × Goldman × DTCC × Janus $1B instant-redemption facility announcement (2026-05-14)
+- [BUIDL のローンチおよび構造](https://investors.securitize.io/news/news-details/2024/BlackRock-Launches-Its-First-Tokenized-Fund-BUIDL-on-the-Ethereum-Network-03-20-2024/default.aspx)
+- [Franklin FOBXX](https://www.franklintempleton.com/investments/options/money-market-funds/products/29386/SINGLCLASS/franklin-on-chain-u-s-government-money-fund/FOBXX)
+- [WisdomTree WTGXX ファクトシート](https://www.wisdomtree.com/-/media/us-media-files/documents/resource-library/fund-fact-sheets/digital/wtgxx.pdf)
+- [ACRED のローンチ](https://investors.securitize.io/news/news-details/2025/Apollo-and-Securitize-Announce-Partnership-and-Launch-Tokenized-Access-to-Credit-Fund-on-Aptos-Avalanche-Ethereum-Ink-Polygon-and-Solana-Networks-01-30-2025/default.aspx)
+- [ACRED フィーダーの Form D](https://www.sec.gov/Archives/edgar/data/2056038/000205603825000001/xslFormDX01/primary_doc.xml)
+- [Circle USYC](https://www.circle.com/usyc)
+- [Superstate USTB](https://superstate.com/ustb)
+- [Ondo OUSG の信頼性およびセキュリティに関する開示](https://docs.ondo.finance/trust-and-security)
+- [Ondo OUSG の法的注記](https://docs.ondo.finance/qualified-access-products/ousg/important-notes)

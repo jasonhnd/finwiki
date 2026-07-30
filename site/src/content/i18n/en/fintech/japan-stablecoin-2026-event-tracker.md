@@ -1,163 +1,74 @@
 ---
 source: fintech/japan-stablecoin-2026-event-tracker
-source_hash: e38f809c8d4d18a6
+source_hash: faa3886e79b15681
 lang: en
 status: machine
 fidelity: ok
-title: "Japan Stablecoin 2026  event tracker · JPYC × Progmat × DCJPY × SBI VC Trade × FSA EPI amendment"
-translated_at: 2026-06-18T23:59:13.093Z
+title: "Japan Stablecoin 2026 · Verified Event Tracker"
+translated_at: 2026-07-30T02:03:00+09:00
 ---
 
-# Japan Stablecoin 2026  event tracker · JPYC × Progmat × DCJPY × SBI VC Trade × FSA EPI amendment
+# Japan Stablecoin 2026 · Verified Event Tracker
 
 ## TL;DR
 
-2026 年 is the turning point of Japan's stablecoin industry from **"PoC → mainnet."** **JPYC** launched on the formal mainnet (Ethereum + Polygon + Astar) in 2025-Q4  and reached circulation of **approx. ¥9.2B (~$60M)** in 2026-05 ; **Progmat** plans to launch a **USD-anchored 第3号 EPI** (Progmat USD) led by megabank trusts in 2026-Q2 ; **DCJPY (DeCurret)** moves into the production operation of a closed consortium of major trading companies + power companies + retail/distribution in 2026-Q1 ; **SBI VC Trade USDC** is the sole authorized distribution channel for USDC within Japan with circulation of **approx. ¥45B (~$295M)** (→ [[fintech/stablecoin-channel-japan-sbi-jpyc-ring|SBI × JPYC リング]]); at least 2 社 of **KDDI au Wallet × NTT Docomo dpay × LINE Finance × PayPay** are considering an EPI service provider application in 2026-Q3-Q4 . The **FSA EPI amendment (second round)** plans to open public comment in 2026-Q2 , with the points being clarification of the formation / distribution rules for trust-type SCs + expansion of the distribution scope of overseas SCs + the treatment of yield-bearing SCs for institutional investors.
+The principal verified events are JPYC's funds-transfer registration on 2025-08-18 and launch on 2025-10-27; SBI VC Trade's registration as an electronic payment instruments service provider on 2025-03-04 and general availability of USDC; dated Project Pax demonstrations and joint studies by Progmat / Datachain; and FSA amendments effective on 2026-06-01. The earlier figures for JPYC and USDC circulation, a confirmed Progmat USD launch, monthly DCJPY circulation, and application plans by telecom and QR-payment companies were not supported by the cited official sources and have been withdrawn. ^[https://corporate.jpyc.co.jp/news/posts/jpyc-ex-launch] ^[https://www.sbivc.co.jp/newsview/9ne-b0_5yo] ^[https://www.datachain.jp/news/progmat-and-datachain-launch-project-pax] ^[https://www.fsa.go.jp/news/r7/sonota/20260519/20260519.html]
 
 ## Wiki route
 
 This entry sits under [[fintech/INDEX|fintech index]]. Read it alongside [[fintech/japan-stablecoin-regulatory-landscape|日本 SC 法制度の三層構造]] for the regulatory frame, [[fintech/japan-epi-three-types-overview|EPI 三類型概要]] for taxonomy, and [[fintech/japan-epi-four-camps-comparison|EPI 四陣営比較]] for the competitive landscape. For the main issuers / distributors, see [[payment-firms/jpyc|JPYC株式会社]], [[payment-firms/progmat|株式会社Progmat]], [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade]].
 
-## 2026  Major-event timeline
+## Verified timeline
 
-| Month | Event | Related entities | Implication |
-|---|---|---|---|
-| 2025-Q4 | JPYC formal mainnet goes live | JPYC株式会社 | "EPI 第1号" kicks off (after the amended Payment Services Act) |
-| 2025-12 | DCJPY consortium moves to production operation | DeCurret + Mitsubishi Corp + Kansai Electric Power + AEON | Production B2B settlement for trading companies, power, and distribution |
-| 2026-01 | SBI VC Trade USDC handling expands (corporate OTC added) | SBI VC Trade + Circle | Domestic USDC circulation breaks ¥30B |
-| 2026-Q1 | Progmat × MUTB × SMBC × Mizuho **第3号 EPI USD-anchored** design completed (announced) | Progmat + the three megabank trusts | Trust-type USD SC design completed |
-| 2026-Q2 | Progmat USD launch (planned) | Progmat | Japan's first trust-type USD SC mainnet |
-| 2026-Q2 | FSA EPI amendment second round, public comment opens (planned) | FSA | Clarification of trust-type SC regulation + expansion of overseas SC distribution |
-| 2026-Q2 | JPYC circulation breaks ¥10B (forecast) | JPYC株式会社 | Scale benchmark for EPI 第1号 |
-| 2026-Q3 | KDDI au Wallet considers EPI service provider application (reported) | KDDI + au PAY | Observation of entry of the 1社 carrier-affiliated camp |
-| 2026-Q3 | NTT Docomo dpay reconsiders crypto-asset support (reported) | NTT Docomo | Movements of the 2社 carrier-affiliated camp |
-| 2026-Q4 | LINE Finance × LINE Pay clarify SC strategy (forecast) | LINE Finance + Z Holdings | Possibility of linkage with the LINE Xenon JPY SC |
-| 2026-Q4 | PayPay × SoftBank announce SC-involvement policy (forecast) | PayPay | Observation of entry by the largest domestic QR payment |
+The table includes only dated official releases from the relevant entities and FSA publications; it contains no forecasts. Progmat entries link to the direct record for each event rather than a news-index page. ^[https://corporate.jpyc.co.jp/news/posts/jpyc-ex-launch] ^[https://www.sbivc.co.jp/usdc] ^[https://www.datachain.jp/news/progmat-and-datachain-launch-project-pax] ^[https://www.fsa.go.jp/news/r7/sonota/20260519/20260519.html]
 
-## JPYC mainnet expansion
+| Date | Verified event | Source |
+|---|---|---|
+| 2025-03-04 | SBI VC Trade registered as an electronic payment instruments service provider (Kanto Local Finance Bureau No. 00001) | ^[https://www.sbivc.co.jp/newsview/9ne-b0_5yo] |
+| 2025-03-25 | SBI VC Trade began offering USDC to the general public | ^[https://www.sbivc.co.jp/usdc] |
+| 2024-09-05 | Progmat / Datachain announced Project Pax and a pilot cross-border stablecoin-remittance infrastructure | ^[https://www.datachain.jp/news/progmat-and-datachain-launch-project-pax] |
+| 2025-02-17 | Progmat and other parties announced an MOU for a Japan-Korea Project Pax PoC | ^[https://progmat.co.jp/wp-content/uploads/2025/02/20250217_PR_02.pdf] |
+| 2025-03-21 | IDA, Progmat, Datachain and TOKI announced a study of a stablecoin-remittance PoC for Hong Kong-Japan trade | ^[https://progmat.co.jp/wp-content/uploads/2025/10/20250321_press-release_Progmat-IDA-and-Datachain-Join-Forces-to-Explore-Stablecoin-Based-Remittances-for-Hong-Kong-Japan-Trade-Efficiency.pdf] |
+| 2025-08-18 | JPYC registered as a funds-transfer service provider (Kanto Local Finance Bureau No. 00099) | ^[https://corporate.jpyc.co.jp/news/posts/first-yen-stablecoin-jpyc] |
+| 2025-10-27 | Funds-transfer-type JPYC and the JPYC EX issuance and redemption platform launched | ^[https://corporate.jpyc.co.jp/news/posts/jpyc-ex-launch] |
+| 2026-02-03 to 03-05 | FSA sought comments on draft Cabinet Office ordinances concerning foreign trust beneficiary rights and related matters | ^[https://www.fsa.go.jp/news/r7/sonota/20260203/20260203.html] |
+| 2026-03-18 | SBI VC Trade announced the start of a USDC lending service | ^[https://www.sbivc.co.jp/usdc] |
+| 2026-05-08 | Progmat announced a joint study of tokenized JGB / on-chain repo transactions | ^[https://progmat.co.jp/wp-content/uploads/2026/05/20260508_PR_%E3%80%8CLaunch-of-Joint-Study-on-On-Chain-Repo-Transactions-of-Tokenized-JGBs%E3%80%8D.pdf] |
+| 2026-06-01 | Amendments concerning the scope and equivalence standards for foreign trust beneficiary rights, and the electronic-payment-instrument and crypto-asset service intermediary regime, took effect | ^[https://www.fsa.go.jp/news/r7/sonota/20260519/20260519.html] ^[https://www.fsa.go.jp/news/r7/sonota/20260522/20260522.html] |
 
-**Current status (2026-05)**:
+## JPYC
 
-- Circulation ¥9.2B (~$60M), expanded 7.5x in 6  months since the 2025-Q4  mainnet launch
-- Deployed chains: Ethereum (mainstream) + Polygon + Astar + Avalanche (sequentially)
-- Number of users (wallet holders) approx. 12 万
-- Main use cases: DeFi (Aave / Compound JPY pair) / cross-border remittance (Philippines / Vietnam) / crypto-exchange JPY pair (Bitbank / BITPoint / some overseas exchanges) / corporate B2B payroll & expense settlement (limited pilot)
-- Regulatory status: FSA funds-transfer Type II registration (Director-General of the Kanto Local Finance Bureau 第00099号), the "EPI 第1号" positioning after the 2024 年 amended Payment Services Act (→ [[fintech/japan-epi-three-types-overview|EPI 三類型概要]])
+JPYC obtained funds-transfer registration on 2025-08-18 and formally launched the funds-transfer-type yen stablecoin JPYC and the JPYC EX issuance and redemption platform on 2025-10-27. The launch announcement named Avalanche, Ethereum, and Polygon as supported chains, with further expansion planned. ^[https://corporate.jpyc.co.jp/news/posts/first-yen-stablecoin-jpyc] ^[https://corporate.jpyc.co.jp/news/posts/jpyc-ex-launch]
 
-**2026 H2  plan**:
+This tracker does not record May 2026 circulation, wallet counts, DeFi listings, an application to raise transfer limits, or overseas exchange-listing plans that cannot be confirmed in JPYC's official news. It also distinguishes JPYC Prepaid from the redeemable electronic payment instrument JPYC launched in 2025.
 
-1. **Phased increase of the remittance limit**: current ¥1M/transaction → ¥3M/transaction (under application)
-2. **JPYC v2** release (EIP-3009 / Permit + USDC-style ERC-20 Permit + Multi-chain canonical bridge standardization)
-3. **Surpassing 50 社 corporate partners**: expansion of production operation for payroll, expense settlement, and small-value payments
-4. **Formal listing on overseas exchanges**: Binance Japan (within the EPI scope if listed) / KuCoin / Bybit, etc., though the need to go through a domestic EPI service provider is unclear
-5. **Provision of a Stripe / Square-style API**: development of a JPYC direct-connection SDK
-6. **DeFi integration**: deepening of Aave + Compound + Curve JPY pools + spot liquidity via Uniswap v4  hooks
+## Progmat / Project Pax
 
-JPYC is a typical **funds-transfer-type EPI** (amended Payment Services Act Type II), so its regulatory path differs from trust-type SCs (Progmat) or ECISB-routed SCs. For details see [[fintech/japan-epi-four-camps-comparison|EPI 四陣営比較]] and [[fintech/japan-ecisb-license|日本 ECISB 牌照]].
+Direct records verify the following milestones: the 2024-09-05 Project Pax pilot announcement, the 2025-02-17 MOU for a Japan-Korea PoC, the 2025-03-21 study of a Hong Kong-Japan trade-remittance PoC, and the 2026-05-08 joint study of tokenized JGB / on-chain repo transactions. Each item is limited to its dated record; no additional milestone is supplied from an index page. ^[https://www.datachain.jp/news/progmat-and-datachain-launch-project-pax] ^[https://progmat.co.jp/wp-content/uploads/2025/02/20250217_PR_02.pdf] ^[https://progmat.co.jp/wp-content/uploads/2025/10/20250321_press-release_Progmat-IDA-and-Datachain-Join-Forces-to-Explore-Stablecoin-Based-Remittances-for-Hong-Kong-Japan-Trade-Efficiency.pdf] ^[https://progmat.co.jp/wp-content/uploads/2026/05/20260508_PR_%E3%80%8CLaunch-of-Joint-Study-on-On-Chain-Repo-Transactions-of-Tokenized-JGBs%E3%80%8D.pdf]
 
-## Progmat USD launch (trust-type USD SC)
+These events do not prove that a specific “Progmat USD” was issued in 2026-Q2, that three trust banks are joint issuers, or that a particular reserve composition, auditor, or chain roster is final. As described in [[fintech/cross-border-sc-via-swift-api|Project Pax]], Project Pax is a pilot and development programme, not the commercial launch of a specific token.
 
-**Positioning**: Progmat (→ [[payment-firms/progmat|株式会社Progmat]]) is a digital-asset platform invested in by megabank trust banks (MUTB 49% + SMBC 15% + Mizuho 15%) + NTT Data + JPX. The issuers are the trust banks; Progmat is the platform provider.
+## DCJPY
 
-**Design concept of Progmat USD** (based on the 2026-Q1  announcement):
+The earlier claims of a December 2025 production transition, several megabanks as issuers, and ¥150 billion in monthly circulation cannot be verified from the DCJPY landing page cited by that version and have been withdrawn. Any status update should verify the issuing bank, legal nature of the instrument, production date, use case, and volume in dated releases from the relevant parties. See [[fintech/jp-stablecoin-dcjpy|DCJPY]].
 
-- **Issuers**: a joint trust scheme of Mitsubishi UFJ Trust Bank (lead) + Mizuho Trust Bank (joint) + Sumitomo Mitsui Trust Bank (joint)
-- **Legal positioning**: USD-anchored as a **specified trust beneficiary right (第3号 EPI)** under the amended Payment Services Act
-- **Backing assets**: US short-term Treasuries + USD deposits (MUFG NY Branch / US correspondent banks) + USD cash
-- **Third-party audit**: monthly PwC Aarata + Deloitte Tohmatsu
-- **Chains**: Ethereum + Polygon + Avalanche + JPX-DLT (Hyperledger Besu, a private network for domestic institutions)
-- **Target**: USD settlement / FX hedging / cross-border B2B settlement for institutional investors + major corporations
-- **Distribution scheme**: distribution via EPI service providers such as SBI VC Trade; no direct listing on overseas exchanges for the time being
+## SBI VC Trade / USDC
 
-**Linkage with Project Pax**: Progmat USD is also positioned as the production version of "Project Pax" (a joint MUFG + SBI proof of concept) that enables SWIFT MT 103  → blockchain-based cross-border USD settlement. Progmat USD = a trinity of "trust-type SC + SWIFT compatibility + institutional-grade USD settlement."
+SBI VC Trade registered as an electronic payment instruments service provider (Kanto Local Finance Bureau No. 00001) on 2025-03-04 and began offering USDC to the general public on 2025-03-25. Its official product page also lists the launch of a USDC lending service on 2026-03-18. ^[https://www.sbivc.co.jp/newsview/9ne-b0_5yo] ^[https://www.sbivc.co.jp/usdc]
 
-**Significance**: This is the first **USD-denominated** implementation of [[fintech/jp-trust-type-sc-architecture|信託型 SC 架構]]. Progmat had so far centered on JPY-based STs + real-estate / corporate-bond STs, but the USD SC unlocks international institutional-investor use cases.
+This tracker excludes domestic circulation balances, corporate OTC, DeFi connectivity, and a correspondent arrangement with Circle that the official page does not establish. It also avoids a permanent “only” claim without a snapshot date because the registration list and supported products can change.
 
-## DCJPY (DeCurret) consortium production
+## FSA 2026 amendments
 
-**DCJPY** is a private SC operated by DeCurret Holdings (the former DeCurret Co., Ltd.). **Features**: a bank-issued type (each bank issues a JPY-based "digital currency" + it circulates interoperably on the DCJPY network) → see [[fintech/jp-stablecoin-dcjpy|DCJPY 詳細ページ]].
+From 2026-02-03 through 03-05, the FSA sought comments on draft amendments concerning the scope of foreign trust beneficiary rights that qualify as electronic payment instruments and equivalence standards for handling foreign electronic payment instruments. The results and final ordinances were published on 2026-05-19 and took effect on 2026-06-01. ^[https://www.fsa.go.jp/news/r7/sonota/20260203/20260203.html] ^[https://www.fsa.go.jp/news/r7/sonota/20260519/20260519.html]
 
-**2025-12  → 2026-Q1  move to production operation (based on announcements)**:
+Orders and related measures implementing a separate 2025 amendment to the Payment Services Act also took effect on 2026-06-01, establishing the electronic-payment-instrument and crypto-asset service intermediary regime and domestic-asset holding orders. ^[https://www.fsa.go.jp/news/r7/sonota/20260522/20260522.html]
 
-- **Participating banks (issuers)**: MUFG Bank / Mizuho Bank / Sumitomo Mitsui Banking Corporation / Resona Bank / other regional banks (sequentially)
-- **Participating consortium (users)**: Mitsubishi Corp + Kansai Electric Power + AEON + JR East + NTT East + major trading companies & logistics firms
-- **Use cases**: B2B settlement (trading company ↔ manufacturer, parts payments) + power-wholesale-transaction settlement + distribution supply chain (AEON × wholesalers, business-to-business)
-- **Scale (2026-05)**: monthly circulation ~¥150B (~$1B-equivalent)
+The former wording “public comment planned for 2026-Q2” was obsolete and has been replaced by the final result. Yield-bearing stablecoins, DeFi, particular foreign tokens, or entry by telecom and QR-payment companies should not be treated as settled elements of the amendment.
 
-**Important distinction**: DCJPY is technically a separate lineage from JPYC or Progmat (a "bank-issued + consortium-interoperable" model), and whether the **第3号 EPI** applies to it is a point of debate from a regulatory standpoint (because it is not a trust scheme, some commentators treat it as a separate category). The FSA currently tacitly permits DCJPY as "banks' self-management of electronic payment instruments." The FSA EPI amendment second round may resolve this ambiguity.
+## Tracking rules
 
-## SBI VC Trade USDC expansion
-
-**SBI VC Trade** (→ [[exchanges/jp-exchange-sbi-vc-trade|SBI VC Trade 詳細ページ]]) is an **EPI service provider** (Director-General of the Kanto Local Finance Bureau 第00001号), the sole authorized licensee handling USDC within Japan.
-
-**2026 H1  expansion**:
-
-- Circulation balance ¥45B (~$295M, 2026-05), expanded 2.5x from ¥18B in 2025-12 
-- Launch of corporate OTC services (2026-01) → unlocks a path for Japanese companies to directly hold USDC
-- DeFi linkage (limited): indirectly provides a USDC deposit path to some compliant protocols via SBI VC Trade
-- In-house development of automated KYC + Travel Rule support via smart contracts is underway
-- Plans to announce a direct correspondent relationship with Circle Japan in 2026-Q2 
-
-**Implication of the SBI x JPYC ring**: SBI and JPYC have no capital relationship, but SBI VC Trade handles USDC, and SBI Holdings shows an investment / support stance toward the entire domestic EPI industry, including JPYC. This is detailed in [[fintech/stablecoin-channel-japan-sbi-jpyc-ring|SBI × JPYC リング]].
-
-## Observation of entry by carrier / QR-payment forces
-
-**Observed targets 4 社** (2026 H2  movements):
-
-### KDDI au Wallet / au PAY
-
-- Reported (2026-04  Nikkei): "KDDI is considering an EPI service provider application, eyeing the SC-conversion of au PAY balances"
-- Strategy: integrate au users (~4,500 万 IDs) into the 1  SC ecosystem
-- Issues: legal reconciliation with the existing prepaid payment instrument (au Wallet), and whether KDDI issues an SC alone or becomes a distributor like SBI VC Trade
-
-### NTT Docomo dpay / d-barai
-
-- Reported (2026-03): "Docomo downsized its crypto-asset division in 2024 年 but is reconsidering it in 2026 "
-- Strategy: SC-conversion of d-barai (~5,000 万 IDs) + Docomo Bank (after the Shinsei Bank integration)
-- Issues: reconciliation of its relationship with the former Coincheck lineage (Monex Group affiliation)
-
-### LINE Finance / LINE Pay / LINE Xenon
-
-- The LINE Xenon JPY SC has been in a halted state since the past (2020-2022) PoC stage
-- The SC strategy after the reorganization of Z Holdings (LINE + Yahoo Japan + the parent of PayPay) is undecided
-- Reported (2026-05): "Z Holdings is reconsidering an SC-integration strategy internally"
-- Strategy: cross-border use of LINE Pay (~9,000 万 IDs, mainly in the Asian region) via an SC
-
-### PayPay
-
-- The largest domestic QR payment (~6,000 万 IDs, monthly settlement ¥3T+)
-- The direction of its SC strategy is complex due to the capital relationship with SoftBank
-- On a publicly announced basis, SC involvement is not yet stated, but industry observation holds that "PayPay → SC linkage OR in-house SC issuance" may materialize by 2027 
-
-**Implication**: If any 1 社 of 4 社 enters as an EPI service provider or trust-type SC issuer, Japan's SC market will expand at once to a "tens-of-millions-of-users scale." This means the establishment of the "carrier / QR-payment 4 camp" in [[fintech/japan-epi-four-camps-comparison|EPI 四陣営比較]].
-
-## FSA EPI amendment second round (2026-Q2  public comment planned)
-
-**Point 1: clarification of the formation / distribution rules for trust-type SCs**
-
-- Detailed rules on the issuance / distribution of trust-type USD SCs such as Progmat USD
-- Division of responsibility between the trustee bank and the distributor (EPI service provider)
-- Whether overseas trusts (e.g., BNY Mellon's USD trust) may be used
-
-**Point 2: expansion of the distribution scope of overseas SCs**
-
-- Currently SBI VC Trade handles only USDC → whether other overseas SCs such as USDT / EURC / PYUSD may be distributed
-- A whitelist approach (only FSA-recognized SCs permitted) vs a blacklist approach (explicitly prohibited SCs)
-- Codification of handling criteria (the issuer's regulatory status + transparency + audit)
-
-**Point 3: yield-bearing SCs for institutional investors**
-
-- The treatment of yield-bearing SCs such as USDM (M0) / sUSDe (Ethena) / USDY (Ondo)
-- Currently interest payment is not permitted under the funds-transfer-type EPI framework, and partially permitted under the trust-type EPI framework
-- Examination of a Reg-D 506(c)-like system for institutional investors
-
-**Point 4: regulation of DeFi linkage**
-
-- The compliance of DeFi linkage (Aave / Compound) via JPYC / SBI VC Trade USDC
-- Travel Rule support via smart contracts (Japan's domestic interpretation of FATF Recommendation 16 )
-- Whether "DeFi DEX trading" is regarded as an EPI service provider business
-
-**Implication**: The FSA EPI amendment second round will break the JPYC-centered status quo and institutionally codify the **4 -camp coexistence structure** of Progmat (trust-type) + SBI VC Trade (overseas SCs) + carrier-affiliated (new entrants).
+Add entry by KDDI, NTT DOCOMO, LINE, PayPay, or another company only when it appears in a register, party release, or statutory disclosure. For media-only information, identify the outlet, publication date, and specific speaker, and do not mix a forecast into the event table. Every quantity must state its as-of date, unit, and whether it measures outstanding issuance or transaction volume.
 
 ## Related
 
@@ -178,15 +89,14 @@ JPYC is a typical **funds-transfer-type EPI** (amended Payment Services Act Type
 
 ## Sources
 
-- FSA — crypto-asset / electronic-payment-instrument-related policy https://www.fsa.go.jp/policy/cryptoasset_payment/index.html
-- FSA — list of registered electronic payment instrument service providers https://www.fsa.go.jp/menkyo/menkyoj/denshikessaisyudan.xlsx
-- JPYC株式会社 — news releases https://jpyc.co.jp/news
-- 株式会社Progmat — News https://progmat.co.jp/news
-- DeCurret DCJPY — official site https://www.dcjpy.jp/
-- SBI VC Trade — USDC https://www.sbivc.co.jp/usdc
-- KDDI — Corporate news release https://www.kddi.com/corporate/newsrelease/
-- NTT Docomo — News release https://www.docomo.ne.jp/info/news_release/
-- LINE Corporation — Press Release https://linecorp.com/en/pr/
-- PayPay — News release https://about.paypay.ne.jp/press/
-- Nikkei 2026-04  report (KDDI EPI application under consideration, public article)
-- Nikkei 2026-03  report (Docomo crypto-asset reconsideration, public article)
+- FSA — crypto-assets and electronic payment instruments https://www.fsa.go.jp/policy/virtual_currency02/index.html
+- FSA — May 19, 2026 publication concerning foreign trust beneficiary rights https://www.fsa.go.jp/news/r7/sonota/20260519/20260519.html
+- FSA — orders implementing the 2025 Payment Services Act amendment https://www.fsa.go.jp/news/r7/sonota/20260522/20260522.html
+- JPYC — funds-transfer service provider registration https://corporate.jpyc.co.jp/news/posts/first-yen-stablecoin-jpyc
+- JPYC — formal launch of JPYC / JPYC EX https://corporate.jpyc.co.jp/news/posts/jpyc-ex-launch
+- Datachain / Progmat — Project Pax pilot (2024-09-05) https://www.datachain.jp/news/progmat-and-datachain-launch-project-pax
+- Progmat et al. — Project Pax Japan-Korea PoC MOU (2025-02-17) https://progmat.co.jp/wp-content/uploads/2025/02/20250217_PR_02.pdf
+- IDA / Progmat / Datachain / TOKI — Hong Kong-Japan trade-remittance PoC study (2025-03-21) https://progmat.co.jp/wp-content/uploads/2025/10/20250321_press-release_Progmat-IDA-and-Datachain-Join-Forces-to-Explore-Stablecoin-Based-Remittances-for-Hong-Kong-Japan-Trade-Efficiency.pdf
+- Progmat — Tokenized JGB / on-chain repo joint study (2026-05-08) https://progmat.co.jp/wp-content/uploads/2026/05/20260508_PR_%E3%80%8CLaunch-of-Joint-Study-on-On-Chain-Repo-Transactions-of-Tokenized-JGBs%E3%80%8D.pdf
+- SBI VC Trade — electronic payment instruments service provider registration https://www.sbivc.co.jp/newsview/9ne-b0_5yo
+- SBI VC Trade — USDC product page / dated releases https://www.sbivc.co.jp/usdc

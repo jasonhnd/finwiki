@@ -1,64 +1,68 @@
 ---
 source: fintech/retail-stablecoin-dual-bind
-source_hash: bee3291fa5b16599
+source_hash: fa55315441da918c
 lang: en
+model: manual-issue-239-provenance-repair
 status: machine
 fidelity: ok
-title: "Retail Stablecoins Fall into a Double Bind of \"Bank Issuance vs Permissionless UX\" — There Is No Winning Path in the Payment Layer Alone"
-translated_at: 2026-05-31T07:28:06.124Z
+title: "Retail stablecoins · design tradeoffs between regulatory control and open UX"
+translated_at: 2026-07-29T16:47:45.885Z
 ---
-
-# Retail Stablecoins Fall into a Double Bind of "Bank Issuance vs Permissionless UX" — There Is No Winning Path in the Payment Layer Alone
+# Retail stablecoins · design tradeoffs between regulatory control and open UX
 
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|Japan's financial regulation — legal framework for tokens, crypto-assets and payments]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|Japan's three-tier stablecoin legal framework (JPYC, USDC and Project Pax)]] for the broader system boundary.
 
 > [!info] TL;DR
-> For retail SC to work in Japan, (a) if it is bank-issued, anti-money-laundering regulation makes permissionless UX impossible, and (b) if it is permissionless, UX may be smooth but regulation blocks bank issuance. **It cannot win through simple payment-layer competition alone.** Differentiation can only be created through higher-level functionality built from smart contracts × KYC × wallet integration.
+> A retail stablecoin in Japan must coordinate the issuing entity, intermediary registration, identity verification, redemption and wallet UX. The design is not, however, a binary choice between bank issuance and a fully permissionless system. Issuance routes through banks, funds-transfer providers, trust companies and similar entities can be combined in several ways with registered intermediaries and wallets.
 
 ## Conclusion
 
-Retail SC faces the following double bind:
+The following is not a legal binary classification, but an analytical model showing two design poles.
 
-| Path A: Bank-issued SC | Path B: Permissionless SC |
-|---|---|
-| Regulatory compliance ✅ | Smooth UX ✅ |
-| AML rules degrade UX into constant KYC checks ❌ | Cannot be bank-issued ❌ (in Japan, one of funds transfer / bank / trust is mandatory) |
-| → Loses to PayPay, Suica, debit cards, and credit cards | → Rejected by banks and regulators |
+It is based on the FSA's [materials on electronic payment instruments](https://www.fsa.go.jp/policy/virtual_currency02/index.html), [registry of electronic payment instrument service providers](https://www.fsa.go.jp/menkyo/menkyoj/denshikessaisyudan.xlsx), and [registry of funds-transfer providers](https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf). Registration does not automatically mean that every product has been issued or made available.
 
-**Escape route = abandon a standalone payment-layer contest and build higher-order differentiation through the following combination**:
-- **KYC × wallet integration** → My Number wallet style ([[fintech/maina-wallet-kyc-permissionless-ux-bridge|maina-wallet-kyc-permissionless-ux-bridge]])
-- **Smart-contract controls** → escrow, conditional payments, reversibility, controllability for large-value settlement
-- **No amount cap + ID linkage** → domains that PayPay (prepaid 5 万円 cap) cannot realize
+| Design dimension | Strong regulatory and management integration | Broader open use |
+|---|---|---|
+| Issuance / redemption | Issuing entity and registered intermediary manage users and redemption routes | Expands the scope of transfers through external wallets |
+| Identity verification | KYC/AML at account opening, redemption and intermediation | Even if the base layer is public, controls remain at fiat gateways |
+| UX | Easier to provide recovery, freezing and support | Easier to provide self-custody and transfers between applications |
+| Main risks | Procedural burden and closed scope of use | Key management, fraud, sanctions / AML and consumer protection |
+| Design challenge | Reduce friction while preserving control | Meet legal and redemption conditions while preserving openness |
+
+**Design options**:
+- **KYC × wallet integration** → My Number wallet model ([[fintech/maina-wallet-kyc-permissionless-ux-bridge|maina-wallet-kyc-permissionless-ux-bridge]])
+- **Smart-contract controls** → escrow, conditional payments, reversibility and controls for large-value payments
+- **ID integration + product-specific amount conditions** → for high-value or conditional transactions, compare requirements with those for prepaid payment instruments and funds-transfer businesses
 
 ## Reasoning
 
-- PayPay transaction volume 4 兆円, NTT Docomo d-barai 4 兆円, Japan's total consumer spending 200 兆円 → retail payments are already well served
-- If a bank-issued SC is "just for payments," PayPay is already enough → there is effectively no reason to do it
-- Permissionless-oriented USDC has not grown in Japan either (Haneda Airport Nettstars 1  months 40 件; for the overall distribution channel, see [[fintech/stablecoin-channel-japan-sbi-jpyc-ring|SBI × JPYC × Circle 環]])
-- "Value beyond payments" is required: the three-part set of "KYC + wallet + smart contracts" emerges as the axis of differentiation
-- Realistic use cases include scenarios such as World Cup ticket-scale 10 万円 transactions where "electronic money with an amount cap cannot work + ID traceability is mandatory"
+- Existing domestic options include cards, bank transfers, prepaid payment instruments and funds-transfer services, so a new product must identify its target customers and incremental value.
+- Bank issuance alone does not determine competitiveness; compare redemption, acceptance, fees, recoverability and conditional payments.
+- Do not generalize transaction counts from an individual experiment into demand or future adoption across Japan.
+- Evaluate KYC, wallet recovery, conditional payments and external-service integration individually as candidates for incremental value.
+- When using a high-value or conditional transaction as an example, identify the applicable issuance category, product limit, identity-verification requirement and consumer protection.
 
 ## Applicable When
 
-- Before starting business design for retail SC, when you want to pre-empt proposals that head toward pure payment-layer competition
-- Preparing an answer to the objection, "Isn't PayPay enough?"
-- Designing the retail axis / retail use cases for commercial SC (for protocol UX foundations see [[systems/erc-7702-overview|ERC-7702]] / [[agent-economy/privy-embedded-wallet-overview|Privy 嵌入式钱包]])
-- In discussions with regulators asking, "What is the social value of retail SC?" → ID + smart contracts + removal of amount caps
+- Before designing a retail stablecoin business, when comparing combinations of issuance, intermediation, redemption and wallet design
+- Preparing a response to “Isn't PayPay enough?”
+- Designing the retail axis / retail use cases of a commercial stablecoin (for protocol UX foundations, see [[systems/erc-7702-overview|ERC-7702]] / [[agent-economy/privy-embedded-wallet-overview|Privy embedded wallet]])
+- When regulators ask what social value a retail stablecoin provides and concrete benefits and user protection must be organized
 
 ## Source
 
-- Consistency: [[banking/minna-bank-baas-model|みんなの銀行 TD/SC 戦略]] (retail SC and retail TD share the same double-bind axis)
-- Consistency: [[fintech/ai-payment-two-tracks|AI 决済の二軌]] (as with Stripe vs SC, differentiation comes from more than payment)
-- Public: PayPay transaction volume 4 兆円 (public IR)
+- Alignment: [[banking/minna-bank-baas-model|Minna Bank TD/SC strategy]] (retail stablecoins and retail deposit tokens face the same tradeoff axis)
+- Alignment: [[fintech/ai-payment-two-tracks|Two tracks for AI payments]] (as with Stripe vs stablecoins, differentiation lies outside payment alone)
+- Public framework materials: https://www.fsa.go.jp/policy/virtual_currency02/index.html
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/institutional-stablecoin-deposit-token-thesis|機関投資家 SC = 預金トークン]]
-- [[fintech/maina-wallet-kyc-permissionless-ux-bridge|マイナウォレット KYC × UX bridge]]
+- [[fintech/institutional-stablecoin-deposit-token-thesis|Institutional stablecoin = deposit token]]
+- [[fintech/maina-wallet-kyc-permissionless-ux-bridge|My Number wallet KYC × UX bridge]]
 - [[fintech/onchain-finance-vs-crypto-bifurcation|onchain-finance-vs-crypto-bifurcation]]
-- [[banking/minna-bank-baas-model|みんなの銀行 BaaS モデル]]
+- [[banking/minna-bank-baas-model|Minna Bank BaaS model]]
 <!-- /wiki-links:managed -->

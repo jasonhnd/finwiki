@@ -27,8 +27,8 @@
     "domain": "fintech",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-11-25",
     "confidence": "likely",
     "tags": [
@@ -49,26 +49,24 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.franklintempleton.com/",
       "https://www.franklintempleton.com/investments/options/money-market-funds/products/29386/SINGLCLASS/franklin-on-chain-u-s-government-money-fund/FOBXX",
-      "https://www.sec.gov/edgar",
-      "https://defillama.com/protocol/franklin-templeton-benji",
-      "https://www.stellar.org/",
-      "https://www.benji.io/"
+      "https://www.franklintempleton.com/forms-literature/download-preview/9001-P",
+      "https://digitalassets.franklintempleton.com/benji/",
+      "https://www.franklintempleton.com/press-releases/news-room/2026/franklin-templeton-stellar-development-foundation-mark-five-years-of-benji-the-first-u.s.-registered-tokenized-money-market-fund"
     ]
   },
-  "summary": "This entry sits under fintech index. Read it with BlackRock BUIDL for the dominant tokenized-MMF peer that BENJI now competes with, with Apollo ACRED for the second-tier RWA segmentation, and with stablecoin issuer 2025-2026 consolidation for why tokenized funds and stablecoins are increasingly reco",
+  "summary": "This entry sits under fintech index. Read it with BlackRock BUIDL as another tokenized-fund structure, with Apollo ACRED as a private-credit tokenization example, and with stablecoin issuer 2025-2026 consolidation for why tokenized funds and stablecoins are increasingly recognized as distinct catego",
   "headings": [
     "Franklin Templeton FOBXX (BENJI) · Stellar 単一チェーンからマルチチェーン RWA へ · 「トークン化ファンド ≠ ステーブルコイン」のパラダイム",
     "TL;DR",
     "Wiki route",
     "Product fundamentals",
-    "The \"Stellar-first 3 years\" — what made it the right call (and what eventually broke it)",
+    "From Stellar launch to multi-network availability",
     "Multi-chain expansion timeline",
     "\"Tokenized fund vs stablecoin\" — the regulatory distinction this product defined",
     "Yield distribution mechanics",
-    "Adoption metrics 2024-2026",
-    "Strategic context — why the multi-chain bet matters"
+    "Adoption snapshot",
+    "Strategic context"
   ],
   "body_links": {
     "wikilinks_count": 25,
@@ -126,13 +124,18 @@
       "https://finwiki.zksc.io/ja/fintech/three-circles-stablecoin-mra-framework/",
       "https://finwiki.zksc.io/ja/fintech/world-liberty-usd1-political-stablecoin/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 4,
+    "external_links": [
+      "https://digitalassets.franklintempleton.com/benji/",
+      "https://www.franklintempleton.com/forms-literature/download-preview/9001-P",
+      "https://www.franklintempleton.com/investments/options/money-market-funds/products/29386/SINGLCLASS/franklin-on-chain-u-s-government-money-fund/FOBXX",
+      "https://www.franklintempleton.com/press-releases/news-room/2026/franklin-templeton-stellar-development-foundation-mark-five-years-of-benji-the-first-u.s.-registered-tokenized-money-market-fund"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 16446,
-    "word_like_tokens": 2688,
+    "nonspace_chars": 12386,
+    "word_like_tokens": 1886,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-01"
+    "last_modified": "2026-07-30"
   }
 }

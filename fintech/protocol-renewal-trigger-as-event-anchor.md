@@ -1,25 +1,25 @@
 ---
-title: プロトコル更新トリガー —— 商業協業再構築とイベントアンカリング機構
-aliases: [protocol renewal trigger, event anchor, USDC agreement renewal, Coinbase Circle August 2026]
+title: プロトコル更新トリガー —— 公開契約をイベントアンカーとして読む
+aliases: [protocol renewal trigger, event anchor, USDC agreement renewal, Coinbase Circle agreement]
 domain: fintech
 kind: framework
 topic: protocol-renewal-trigger-as-event-anchor
 created: 2026-05-20
-last_updated: 2026-05-26
-last_tended: 2026-06-24
-review_by: 2026-08-08
-confidence: certain
+last_updated: 2026-07-30
+last_tended: 2026-07-30
+review_by: 2026-08-19
+confidence: probable
 tags: [fintech, corporate-strategy, co-opetition, stablecoin]
 status: active
 sources:
-  - https://www.circle.com/en/usdc
-  - https://investor.coinbase.com/financials/sec-filings/default.aspx
-  - https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001679788&type=10-K
-  - https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001876042&type=10-K
-  - https://www.circle.com/en/blog
+  - https://www.sec.gov/Archives/edgar/data/1876042/000187604226000062/coinbasecollaborationagree.htm
+  - https://www.sec.gov/Archives/edgar/data/1679788/000167978826000047/coinbase2025ars.pdf
+  - https://www.sec.gov/Archives/edgar/data/1876042/000119312525070481/d737521dex102.htm
+  - https://www.sec.gov/Archives/edgar/data/1679788/000167978826000015/exhibit101610kq42025.htm
+  - https://www.sec.gov/Archives/edgar/data/1876042/000187604226000228/crcl-20251231.htm
 ---
 
-# プロトコル更新トリガー —— 商業協業再構築とイベントアンカリング機構
+# プロトコル更新トリガー —— 公開契約をイベントアンカーとして読む
 
 
 ## Wiki route
@@ -27,47 +27,63 @@ sources:
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> **プロトコル更新トリガー**とは、高度に共生的かつ潜在的な競争関係（Co-opetition）を有する寡占関係や戦略的パートナーシップにおいて、**事前に取り決められたプロトコル再交渉・更新期限（Event Anchor）**を指す。この時点は法律文書の再署名にとどまらず、**市場エコシステム全体の再プライシング、製品競争上市、戦略転換における強力なスケジュールアンカー**となる。最も典型的な事例は **2026-08 Coinbase-Circle 協定更新**で、ステーブルコインエコシステム全体に 6 か月前倒しの戦略再編を強いた。
+> **プロトコル更新トリガー**は、公開契約に記載された満了日・更新日を企業行動の観測点として使う分析枠組みである。ただし、日付だけから再交渉の成立、製品投入、収益分配の変更までを推定してはならない。Coinbase と Circle の Collaboration Agreement は 2023 年 8 月 18 日から 3 年の初期期間を定める一方、変更に合意しなければ一定条件の下で 3 年ごとに自動更新する構造である。したがって 2026 年 8 月 18 日は重要な確認日だが、公開情報上の「強制的な再署名期限」や「新条件の着地日」ではない。
 
-## コアメカニズム
+## 公開契約で確認できる事項
 
-フィンテックおよび分散型金融エコシステムにおいて、トッププレイヤー間の協業はきわめて複雑な利益分配協定を伴うことが多い（例：USDC 準備金利息収入の分配）。これらの協定が更新期限を迎えると、以下の 3 種類の連鎖効果が生じる：
+Coinbase と Circle の関係について、SEC 提出資料から確認できる契約上の骨格は次のとおりである。
 
-1. **カウントダウン圧縮効果（Countdown Compression）**：
-   - 更新日は公開または半公開の「デッドライン（Hard Deadline）」となる。
-   - 劣勢の側、または分配構造の変更を求める側は、更新日までに新製品 / 代替案の展開を完了させ、交渉カード（Negotiation Leverage）として機能させる必要がある。
-2. **エコシステム再プライシング（Ecosystem Repricing）**：
-   - 更新協定の変更（例：分配比率が 50/50 から 60/40 へ調整）は双方の利益率に直接影響し、ひいてはセカンダリーマーケット評価額やトークンエコノミクスに波及する。
-   - 競合は不確実性ウィンドウを活用して的を絞った「引き抜き」あるいは競合製品投入を行う。
-3. **予算・意思決定の共振（Procurement Alignment）**：
-   - [[fintech/enterprise-procurement-deadline-anchor|エンタープライズ IT 調達予算ロック]] で示すように、プロトコル更新は下流の機関買い手の年次予算ロックサイクルと共振することが多い。更新時点を逃せば、1 年分の企業統合ウィンドウを失う可能性がある。
-
-## 典型事例：2026-08 Coinbase-Circle 協定更新
-
-ステーブルコイン史上最も重要な共生関係として、Coinbase と Circle は 2023 年 8 月に USDC 利益分配協定を再署名した（Centre Consortium を解体し、Circle 直接発行へ移行、Coinbase はプラットフォーム内 USDC 残高ベースの利息分配を獲得）。具体的な 50/50 分配の数学構造は [[fintech/issuer-distributor-incentive-realignment-50-50-model|発行体 - 分配体 50/50 モデル]] および [[fintech/stablecoin-revenue-split-economics|ステーブルコイン利息分配経済学]] を参照。
-
-| 段階 | サイクル時期 | 戦略行動とレバレッジ構築 |
+| 確認項目 | 公開資料で確認できる内容 | 読み方 |
 |---|---|---|
-| **カード構築期** | 2025-Q4 ～ 2026-Q1 | - Stripe の Bridge 買収（独立発行と決済チャネルをロック）<br>- Base チェーンが Azul Rust リファクタリングを加速し独立性を証明 |
-| **競争上市期** | 2026-Q2 | - 各 B2B 決済およびステーブルコインプロジェクトが Q3 前に集中ローンチ（更新交渉完了前に市場シェアを確保） |
-| **正式交渉期** | 2026-07 | - 双方が自エコシステムの最新データ（Base チェーン TVL、Coinbase 内残高比率、Circle の国債利回り）を基に極限まで応酬 |
-| **協定再構築期** | **2026-08** | - **更新時点の着地**。分配協定を再署名し、市場構造が確定、新ルールが次の 3 年サイクルを支配する |
+| 契約日 | Collaboration Agreement の発効日は 2023 年 8 月 18 日 | 起点は公開契約で固定できる |
+| 初期期間 | 初期期間は 3 年 | 2026 年 8 月 18 日が初期期間の終了点となる |
+| 期間終了時の手続 | 当事者は変更の要否を誠実に協議する | 協議義務は、変更合意や再署名の保証ではない |
+| 更新 | 変更に合意しなければ、所定の条件を満たす限り 3 年ごとに自動更新 | 「必ず新条件に切り替わる」という読み方はできない |
+| 補完契約 | 2024 年 11 月 14 日付 Stablecoin Ecosystem Agreement が Collaboration Agreement を参照し、追加の経済条件を定める | 単一契約だけで全体の経済関係を説明できない |
+| 開示限界 | SEC 提出版には非開示・編集された条項がある | 閾値、比率、通知条件の全容を外部から確定できない |
 
-## 商業応用と戦略選択
+出典: [Collaboration Agreement（2023-08-18、SEC Exhibit）](https://www.sec.gov/Archives/edgar/data/1876042/000187604226000062/coinbasecollaborationagree.htm)、[Coinbase 2025 Annual Report](https://www.sec.gov/Archives/edgar/data/1679788/000167978826000047/coinbase2025ars.pdf)、[Stablecoin Ecosystem Agreement（2024-11-14、SEC Exhibit）](https://www.sec.gov/Archives/edgar/data/1876042/000119312525070481/d737521dex102.htm)。
 
-「プロトコル更新トリガー」に対し、エコシステム上の位置が異なるプレイヤーは異なる最適応答戦略を取る：
+## 2026 年 8 月 18 日が意味すること
 
-### 1. プロトコル主導側（チャネルを有するプラットフォーム側）
-- **戦略**：チャネル障壁を最大化し、更新直前に「代替候補」の競合製品を意図的に投入して発行体の分配下限を圧縮する。
-- **手段**：Coinbase はプラットフォーム内で他の法定通貨ペッグステーブルコインを順次上場、または自社チェーン（Base）のアクティブ度を引き上げ得る。
+この日付から合理的に言えるのは、初期 3 年期間が終了し、契約の継続形態を確認する観測点になることまでである。次の主張は、追加の当事者開示なしには確定できない。
 
-### 2. プロトコル被制約側（チャネル依存型の発行体側）
-- **戦略**：更新日までに「脱チャネル化」を完了させ、エンドユーザー向け直接配信ネットワークを構築する。
-- **手段**：Circle は [[fintech/issuer-distributor-incentive-realignment-arc-strategy|Arc 戦略]] を投入し、[[fintech/genius-act-501-denylist-mandate|GENIUS Act]] 立法へのロビイングを積極化して連邦級コンプライアンスステータスを取得、単一取引所チャネルへの依存度を引き下げる。
+- 新しい収益分配比率が 2026 年 8 月に発効する。
+- 両社が 2026 年 7 月に正式交渉を行う。
+- 特定のチェーン、トークン、買収、製品投入が更新交渉のために実行された。
+- 契約イベントだけを理由に、USDC 市場、関連株式、トークンの価格が一定方向へ動く。
 
-### 3. 外部の観察者および競合
-- **戦略**：更新日を関連銘柄のショート / ロングのイベントドリブン型タイミングアンカーとする。
-- **手段**：更新直前にアービトラージポジションを構築する、または両者の緊張時に高分配比率の「distributor-friendly」代替ステーブルコインを投入する（例：50/50 分配の新型商用ステーブルコイン）。
+Coinbase の 2025 年 Form 10-K 添付資料には 2026 年 8 月 18 日以降に関係する特定の製品閾値除外も記載されているが、これは契約全体の強制的な再設定を意味しない。Circle の 2025 年 Form 10-K も Collaboration Agreement と Stablecoin Ecosystem Agreement を重要契約として列挙するが、将来の変更条件の成立までは開示していない。
+
+出典: [Coinbase 2025 Form 10-K Exhibit 10.16](https://www.sec.gov/Archives/edgar/data/1679788/000167978826000015/exhibit101610kq42025.htm)、[Circle 2025 Form 10-K](https://www.sec.gov/Archives/edgar/data/1876042/000187604226000228/crcl-20251231.htm)。
+
+## イベントアンカーの検証手順
+
+契約更新日を分析に使う場合は、少なくとも次の順番で事実と仮説を分離する。
+
+| 検証段階 | 必要な証拠 | 誤読を避けるための問い |
+|---|---|---|
+| 1. 日付を固定する | 契約原文、SEC Exhibit、公式開示 | 発効日、初期期間、満了日のどれか |
+| 2. 更新機構を読む | 更新、通知、解除、治癒期間の条項 | 自動更新か、再署名必須か、条件付きか |
+| 3. 開示範囲を確認する | 非開示表示、編集箇所、後続契約 | 外部から見えない閾値や比率がないか |
+| 4. 最新状態を確認する | 最新の 10-K、10-Q、8-K、当事者発表 | 変更合意、終了通知、延長が実際に開示されたか |
+| 5. 因果を別途立証する | 取締役会資料、当事者説明、契約参照を含む発表 | 製品や資本政策が更新日を理由に実行された証拠があるか |
+
+出典: 検証対象となる契約原文は [Collaboration Agreement](https://www.sec.gov/Archives/edgar/data/1876042/000187604226000062/coinbasecollaborationagree.htm)。上表は、同契約の読み方を一般化した分析手順であり、将来の企業行動を予測するものではない。
+
+## 分析上の使い方
+
+更新日には「予測日」ではなく「再確認日」という役割を与える。実務上は、(1) 契約条項を固定し、(2) 最新提出書類で変更・終了の開示を追い、(3) 経済条件は公開された範囲だけをモデル化し、(4) 同時期の製品発表との因果関係を自動的に結び付けない、という使い方が妥当である。
+
+この枠組みは [[fintech/enterprise-procurement-deadline-anchor|エンタープライズ IT 調達予算ロック]] のような期限分析と併用できるが、契約更新日と顧客の予算日程が一致するという個別証拠がない限り、両者の「共振」を事実として扱わない。
+
+## Sources
+
+- [Coinbase Collaboration Agreement（2023-08-18、SEC）](https://www.sec.gov/Archives/edgar/data/1876042/000187604226000062/coinbasecollaborationagree.htm)
+- [Coinbase 2025 Annual Report（SEC）](https://www.sec.gov/Archives/edgar/data/1679788/000167978826000047/coinbase2025ars.pdf)
+- [Stablecoin Ecosystem Agreement（2024-11-14、SEC）](https://www.sec.gov/Archives/edgar/data/1876042/000119312525070481/d737521dex102.htm)
+- [Coinbase 2025 Form 10-K Exhibit 10.16（SEC）](https://www.sec.gov/Archives/edgar/data/1679788/000167978826000015/exhibit101610kq42025.htm)
+- [Circle 2025 Form 10-K（SEC）](https://www.sec.gov/Archives/edgar/data/1876042/000187604226000228/crcl-20251231.htm)
 
 ## Related
 <!-- wiki-links:managed -->

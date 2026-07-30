@@ -1,5 +1,5 @@
 ---
-title: EU MiCA 実装状況 2026-05 · EMT/ART ライセンス図 × USDT 撤退 × USDC マーケットシェア再構築
+title: EU MiCA 実装状況 2026-07 · ESMA EMT/ART 登録簿 × 非準拠 stablecoin 制限
 aliases:
   - eu-mica-implementation-status-2026
   - MiCA 2026 status
@@ -12,162 +12,137 @@ aliases:
   - MiCA EMT license tracker
 domain: fintech
 created: 2026-05-25
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [fintech, stablecoin, mica, eu, regulation, emt, art, 2026-event]
 status: active
 sources:
-  - https://www.esma.europa.eu/policy-activities/crypto-assets
-  - https://www.eba.europa.eu/regulation-and-policy/crypto-assets-mica
-  - https://www.circle.com/en/legal/eurc-mica
+  - https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica
+  - https://www.esma.europa.eu/sites/default/files/2024-12/EMTWP.csv
+  - https://www.esma.europa.eu/sites/default/files/2024-12/ARTZZ.csv
+  - https://www.eba.europa.eu/activities/direct-supervision-and-oversight/ebas-supervisory-role-under-mica
+  - https://www.circle.com/fr/pressroom/circle-is-first-global-stablecoin-issuer-to-comply-with-mica-eus-landmark-crypto-law
   - https://www.sgforge.com/product/eurcv/
-  - https://www.bbva.com/en/innovation/bbva-launches-euro-stablecoin/
-  - https://tether.to/en/news/2024-eu-delisting/
+  - https://tether.io/news/tether-updates-users-on-a-strategic-transition-to-better-support-community-driven-product-support/
+  - https://www.esma.europa.eu/press-news/esma-news/esma-and-european-commission-publish-guidance-non-mica-compliant-arts-and-emts
   - https://eur-lex.europa.eu/eli/reg/2023/1114/oj
-  - https://www.bafin.de/EN/Aufsicht/MiCAR/MiCAR_node.html
 ---
 
-# EU MiCA 実装状況 2026-05 · EMT/ART ライセンス図 × USDT 撤退 × USDC マーケットシェア再構築
+# EU MiCA 実装状況 2026-07 · ESMA EMT/ART 登録簿 × 非準拠 stablecoin 制限
 
 ## TL;DR
 
-EU MiCA (Markets in Crypto-Assets Regulation, Regulation (EU) 2023/1114) は **2024-06 SC (EMT/ART) 部分施行**および **2024-12 全面施行**を経て、18 ヶ月の実装定常状態に入った。2026-05 時点の状況:**EMT 持牌方 約 22 社**(13 加盟国にまたがる)、**ART 持牌方 わずか 3 社**(Bitstamp Pay / Quantoz EURD / Société Générale 一部プロダクト)、**EU 主流取引所における USDT 流通はほぼ消滅**(2024-12 の約 28% シェアから 2026-05 には約 1% へ)、**USDC (Circle Europe Tight) と EURC の二軌が EU 法定通貨 SC 流通の 90%+ をカバー**、**Société Générale-FORGE EURCV** と **BBVA EUR stablecoin** が銀行系ユーロ SC の二大牽引役となった。規制側では **ESMA + EBA + 各国主管局 (BaFin / AMF / CSSF / Banca d'Italia 等) の協調が安定**しているが、**大型 EMT 流通額上限**と**ART のほぼ消滅**という 2 つの設計上の問題が露呈 —— [[fintech/mica-overview|MiCA 概観]] と [[fintech/mica-emt-art-subcategories-deep-dive|MiCA EMT vs ART 詳細]] を参照。
+EU MiCA (Markets in Crypto-Assets Regulation, Regulation (EU) 2023/1114) は、EMT / ART 規定が 2024-06-30 に、その他の主要規定が 2024-12-30 に適用開始となり、CASP の最長移行期間も 2026-07-01 に終了した。ESMA の **2026-07-16 interim register** を同一 LEI で集計すると、EMT ファイルには **41 行・21 発行法人・12 home states** があり、ART ファイルにはデータ行がない。これは公的登録簿の snapshot であって、発行残高、取引高、市場シェア、active user を示さない。したがって、旧版の「ART 3 社」「USDT 1%」「USDC 78%」「BBVA EURO ローンチ」といった数値・イベントはこの登録簿から確認できず、現在の検証可能な事実として扱わない。分類の法的背景は [[fintech/mica-overview|MiCA 概観]] と [[fintech/mica-emt-art-subcategories-deep-dive|MiCA EMT vs ART 詳細]] を参照。^[source:MiCA Regulation; ESMA interim MiCA register snapshot 2026-07-16; ESMA transition statement]
 
 ## Wiki route
 
 This entry sits under [[fintech/INDEX|fintech index]]. Read it alongside [[fintech/mica-overview|MiCA 概観]] for the legal framework, [[fintech/mica-emt-art-subcategories-deep-dive|MiCA EMT vs ART]] for token classification, and [[fintech/dora-eu-digital-operational-resilience-overview|DORA 概観]] for the "業務 + レジリエンス" 二軌アーキテクチャ。
 
-## 実装タイムライン (2024-2026)
+## 実装タイムライン (2023-2026) ^[source:MiCA Regulation; ESMA guidance and register; official issuer and CASP notices]
 
-| 日付 | イベント | 含意 |
+| 日付 | 公開記録で確認できるイベント | 検証上の含意 |
 |---|---|---|
-| 2023-06-09 | Regulation (EU) 2023/1114 採択 (MiCA 主文書) | 起点 |
-| 2024-06-30 | Title III (EMT) + Title IV (ART) 施行 | ステーブルコイン部分先行 |
-| 2024-12-30 | Title V (CASP) + 全面施行 | 取引所 / ウォレットカストディ / アドバイザー等を含む |
-| 2024-12-31 | Tether が EU 取引所に対し USDT 上場停止を能動的に通知 | USDT が EU 主流市場から撤退 |
-| 2025-01-08 | Coinbase Europe / Kraken EU / Bitstamp が EU ユーザー向け USDT を上場廃止 | 主流廃止完了 |
-| 2025-03 | Circle Europe Tight (SAS, France) がフランス ACPR の EMT ライセンスを取得 | USDC EU コンプライアンス化の第一歩 |
-| 2025-05 | EURC が EMT ライセンス取得、流通量 €200M に増加 | Circle 二ブランド並走 |
-| 2025-09 | Société Générale-FORGE EURCV が MiCA EMT 申請を通過 | 銀行系ユーロ SC として初の持牌方 |
-| 2025-11 | BBVA がユーロ SC 計画を発表(スペイン Banco de España と協議) | 銀行系第二社が参入 |
-| 2025-12 | Quantoz EURD が ART ライセンス取得 | ART カテゴリ初期持牌方の一つ |
-| 2026-02 | MiCA passport メカニズムが加盟国間で相互利用開始 | EMT ライセンスはオランダで取得すれば独/仏/伊で passport 可能 |
-| 2026-03 | BBVA EUR stablecoin (BBVA EURO) が Ethereum + Polygon でローンチ | 銀行系第二社がローンチ |
-| 2026-04 | ESMA Q&A 第 3 版更新、DAI/USDS/LUSD は MiCA 対象外だが EU public offer は禁止と明確化 | 分散型 SC のグレーゾーン境界 |
-| 2026-05 | EMT 持牌方 累計 22 社、ART 持牌方 3 社 | 実装定常状態 |
+| 2023-06-09 | Regulation (EU) 2023/1114 が Official Journal に掲載 | 条文と適用日を確認する一次資料 |
+| 2024-06-30 | Titles III / IV（ART / EMT）が適用開始 | stablecoin 関連規定の先行適用 |
+| 2024-07-01 | Circle が French EMI license により USDC / EURC を MiCA 準拠で EU 発行すると公表 | 2025 年 3 月・5 月の新規取得ではない |
+| 2024-11-27 | Tether が EURT の support 終了を公表 | 対象は EURT。USDT の EU-wide 自主撤退告知ではない |
+| 2024-12-13 | Coinbase が一部 EEA retail entity で USDT 等の service restriction を開始 | exchange / entity / service ごとに範囲を確認する必要がある |
+| 2024-12-30 | MiCA のその他の主要規定が適用開始 | CASP authorization 等の本格適用 |
+| 2025-01-17 | ESMA が non-MiCA-compliant ART / EMT に関する CASP 向け guidance を公表 | acquisition を促す service は 2025 年 1 月末、sell-only 移行は Q1 末を目安とした |
+| 2025-12-23 | MiCA white paper の iXBRL format requirement が適用開始 | 登録簿の machine-readable 化が進展 |
+| 2026-07-01 | CASP の最長 transitional period が EU 全域で終了 | 無認可 CASP は継続提供できない |
+| 2026-07-16 | ESMA interim register の本稿参照 snapshot | EMT 41 行、ART 0 行。weekly update のため日付固定で引用する |
 
-## EMT (E-Money Token) 持牌方図 (2026-05)
+## EMT (E-Money Token) 登録簿 snapshot (2026-07-16) ^[source:ESMA EMTWP.csv snapshot 2026-07-16]
 
-| 持牌方 | 国別主管局 | 主要 SC | 流通規模 (2026-05) | 経路 |
-|---|---|---|---|---|
-| Circle Europe Tight | ACPR (フランス) | USDC + EURC | EURC €280M / USDC EU 流通 ~$8B | EMI アップグレード |
-| Société Générale-FORGE | ACPR (フランス) | EURCV | €60M | 銀行子会社 |
-| BBVA | Banco de España | BBVA EURO | €25M (2026-05 ローンチ初期) | 銀行直接 |
-| Quantoz | DNB (オランダ) | EURD (ART) + EURQ (EMT) | EURQ €40M | EMI |
-| Membrane Finance | FIN-FSA (フィンランド) | EUROe | €35M | EMI |
-| Banking Circle | CSSF (ルクセンブルク) | BC EUR / BC USD | €120M / $80M | 商業銀行 |
-| Schuman Financial | CBI (アイルランド) | EURØP | €25M | EMI |
-| StablR | MFSA (マルタ) | EURR / USDR | €15M / $20M | EMI |
-| Crypto.com Europe | MFSA (マルタ) | CDCEUR | €10M | EMI + CASP |
-| Bitstamp Pay | LB (リトアニア) | BPC EUR | €18M | EMI |
-| その他 ~12 社 (リトアニアライセンス取得済の EMI 小型 SC 多数 + 独 BaFin ライセンス 2 社含む) | 各加盟国 | 複数の小型 EUR/USD SC | 合計 ~€80M | EMI |
+下表は ESMA `EMTWP.csv` を `ae_lei` で重複排除して集計したもの。`登録行` は white paper record の行数であり、token 数や現在の流通銘柄数と一致しない場合がある。
 
-**コア観察**:
+| Home state | 発行法人（unique LEI） | 登録行 | 登録法人 |
+|---|---:|---:|---|
+| CZ | 1 | 3 | Payment Corporation SE |
+| DE | 1 | 4 | AllUnity GmbH |
+| DK | 1 | 1 | Eurodollar ApS |
+| FI | 1 | 4 | Paxos Issuance Europe Oy |
+| FR | 6 | 8 | Circle Internet Financial Europe SAS; Société Générale - Forge; SALVUS; Oddo BHF SCA; HEURO SAS; CACEIS BANK SA |
+| IS | 1 | 1 | Monerium ehf |
+| LT | 2 | 2 | UAB BLUE EMI LT; Newrails, UAB |
+| LU | 2 | 2 | Banking Circle S.A.; AIEU Services Limited S.A. |
+| LV | 1 | 2 | SIA GR8 PAY |
+| MT | 2 | 4 | StablR Ltd; Stable mint Ltd |
+| NL | 2 | 9 | Fiat Republic Netherlands; Quantoz Payments B.V |
+| PL | 1 | 1 | StaBillon sp. z o.o. |
+| **合計** | **21** | **41** | **12 home states** |
 
-1. **Circle (USDC + EURC) 一強**、流通規模が EMT 総量の ~75% を占める
-2. **フランス ACPR、ルクセンブルク CSSF、リトアニア LB、マルタ MFSA** が EMT ライセンス集中地
-3. **銀行系発行体 (Société Générale + BBVA) の流通規模は依然 Circle より小さい**が、成長曲線は速い(BBVA ローンチ 2 ヶ月で €25M)
-4. **PYUSD (PayPal)** は MiCA EMT 経路を選ばず —— PayPal は EU で既存 EMI ライセンスにて決済運営、PYUSD は当面 EU 主流取引所では流通せず
+**読み方**:
 
-## ART (Asset-Referenced Token) 持牌方図 (2026-05)
+1. ESMA は NCA / EBA から受領した情報を weekly に再掲載するため、count には必ず snapshot date を付す。
+2. 一つの法人が複数 white papers または更新版を持つため、行数を「発行体数」と呼ばない。
+3. 登録簿には circulation、market cap、turnover、active user がないため、Circle 75%、EURC €280M、BBVA €25M などの市場値をこの表から導けない。
+4. `BBVA`、`Bitstamp Pay`、`Crypto.com Europe` はこの EMT snapshot の issuer legal entity として確認できない。CASP 登録や別事業の authorization と EMT issuer 登録を混同しない。
 
-| 持牌方 | ART プロダクト | アンカー資産 | 流通 |
-|---|---|---|---|
-| Quantoz | EURD | 銀行預金 + 短期債券バスケット | €15M |
-| Bitstamp Pay | (申請中) | 通貨バスケットへのアンカー予定 | n/a |
-| Société Générale-FORGE | CBV シリーズ (限定) | 多資産連動 | < €5M |
+## ART (Asset-Referenced Token) 登録簿 snapshot (2026-07-16) ^[source:ESMA ARTZZ.csv snapshot 2026-07-16]
 
-**ART はほぼ消滅**: [[fintech/mica-overview|MiCA 概観]] の予測と一致し、ART は規制負担が過重 → ART 経路を選ぶ者はほぼ存在しない。EBA 監督下の ART は (1) EMT より厳しい準備金管理細則、(2) 大型 ART (>€5B) の流通額上限、(3) 資本要件の高さ、(4) 継続的監督報告の高頻度を満たす必要があり、結果としてコンプライアンスコストは EMT の 3-5 倍だが明確な商業的優位性がない → ART は「理論的に存在する」に堕した。
+| ESMA file | Data rows | 確認できること | 確認できないこと |
+|---|---:|---|---|
+| `ARTZZ.csv` | 0 | この snapshot では ESMA interim register に ART issuer record が掲載されていない | 申請中案件、域外発行、非公開計画、過去の申請件数、市場需要、規制費用 |
+
+Quantoz EURD は同日の EMT file で Quantoz Payments B.V. の `EURD EMT white paper` として掲載されており、ART として数えない。Bitstamp Pay と Société Générale-FORGE の架空の ART product / circulation も削除した。0 行という snapshot だけで「ART は規制負担により消滅した」「compliance cost は EMT の 3–5 倍」と因果推論することはできない。
 
 ## USDT の EU 撤退と USDC シェアの再構築
 
-**USDT 撤退曲線**:
+**公表済み restriction と evidence boundary**: ^[source:Tether EURT notice; Coinbase and Kraken EEA notices; ESMA 2025-01-17 guidance; ESMA EMTWP.csv]
 
-| 時点 | EU 主流取引所における USDT 流通 / シェア |
-|---|---|
-| 2024-09 | EU SC 取引量の ~28% |
-| 2024-12-30 | Tether が能動的撤退を公表 |
-| 2025-01-08 | Coinbase Europe / Kraken EU / Bitstamp が上場廃止 |
-| 2025-03 | ~6% (小型取引所 / OTC に残存) |
-| 2025-09 | ~3% |
-| 2026-05 | ~1% (主に EU 規制外のグレーチャネル) |
+| 日付 / 状態 | 公開情報 | この情報だけでは言えないこと |
+|---|---|---|
+| 2024-11-27 | Tether は EURT の新規発行を既に停止しており、support / redemption を 2025-11-27 までに終了すると公表 | USDT を EU から自主撤退させた、または EU 保有がゼロになったとは言えない |
+| 2024-12-13 | Coinbase は特定 EEA retail entities で USDT 等への service restriction を開始 | 全 EU exchange が同日に同じ措置を完了したとは言えない |
+| 2025-01-17 | ESMA は non-compliant ART / EMT の acquisition を可能にする service の制限と Q1 末までの sell-only transition を guidance | custody と transfer まで一律禁止したものではない |
+| 2026-04-13 更新 | Kraken は EEA で USDT を delisted と案内 | EU 全市場の残高・volume・OTC share を示さない |
+| 2026-07-16 snapshot | USDT issuer は ESMA EMT file に掲載されていない。Circle の USDC / EURC は掲載 | USDT 1%、USDC 78%、EU USDC 純流入 450 億ドル等の time series を示さない |
 
-**USDT 撤退後の流入**:
-
-- **USDC 純流入 (EU)** ~$45B (2025-01~2026-05 累計)
-- **EURC 流入** ~€220M (同期累計)
-- **銀行系ユーロ SC (EURCV + BBVA EURO + Banking Circle)** 累計 ~€180M
-
-**USDC シェア** は 2026-05 で ~78% の EU SC 流通、ほぼ独占状態。**EURC + 銀行系ユーロ SC の合計** は依然 ~10% (~€400M) で、USDC EU 流通の $8B+ とは 20x の差。**ユーロ SC 市場の小ささ**が MiCA 実装後の構造的現実 —— これは [[fintech/mica-overview|MiCA 概観]] における「EURC 流通と USDC の差が 300x」という初期判断は大幅に縮小した(現在は 20x 差)ものの、未だ追いついていない。
+旧版の 28% → 6% → 3% → 1% という曲線、USDC 450 億ドル純流入、EURC 2.2 億ユーロ流入、銀行系 1.8 億ユーロ、USDC 78% は、定義・対象 venue・期間を固定した一次 dataset が示されていなかったため削除した。
 
 ### Circle EURC
 
-- 2022-06 に Stellar で初登場、2023 に Ethereum/Avalanche/Solana/Base へ拡大
-- 2025-05 に ACPR EMT ライセンス取得(USDC と同時)
-- 準備金 100% 短期国債 + 中央銀行預金 + 現金、BlackRock 一部カストディ
-- 2026-05 流通 €280M、主要用途:暗号取引所 EUR pair / DeFi (Aave Polygon) / ユーロクロスボーダー決済
-- USDC と Circle 同一コンプライアンスフレームを共有 → [[fintech/circular-reserve-asset-flywheel-overview|循環準備資産フライホイール]] のユーロ側複製
+- Circle Internet Financial Europe SAS は 2024-07-01 に French EMI license と USDC / EURC の MiCA-compliant EU issuance を公表した。^[source:Circle MiCA announcement 2024-07-01]
+- ESMA 2026-07-16 EMT file は同法人、ACPR、USDC white paper、EURC white paper を掲載する。
+- 登録簿は EU 内 circulating amount や use case 別 volume を持たないため、EURC 2.8 億ユーロ、USDC EU 80 億ドルという旧数値は使用しない。
+- 準備資産の構成や custody は、対象 token と report date を固定した issuer report / white paper で別途検証する。[[fintech/circular-reserve-asset-flywheel-overview|循環準備資産フライホイール]] は市場構造の分析であり、登録簿上の事実とは区別する。
 
 ### Société Générale-FORGE EURCV (Euro Coin Vertu)
 
-- 2023-04 初登場 (MiCA 以前に内部プロダクトとして)
-- 2025-09 に MiCA EMT 申請通過 (Société Générale-FORGE は SocGen の合弁 fintech 子会社)
-- 2026-Q1 に Stellar + Ethereum + Solana でローンチ
-- 準備金 フランス短期国債 + 商業銀行預金 + ECB deposit facility
-- 2026-05 流通 €60M、用途:大企業 B2B クロスボーダー決済 / 機関向け yield-bearing wallet テスト
-- [[fintech/institutional-stablecoin-deposit-token-thesis|機関ステーブルコイン / デポジットトークン論題]] と完全に整合 —— SocGen は EURCV を「半 SC 半 deposit token」と位置づける
+- ESMA EMT file は Société Générale - Forge の EURCV white paper を authorization notification date 2024-07-01 で掲載する。2025 年 9 月が初の MiCA 承認日ではない。^[source:ESMA EMTWP.csv snapshot 2026-07-16]
+- 同 file には USDCV white paper も掲載される。掲載 chain や white paper revision は register の URL と更新日で確認する。
+- 旧版の 2026-Q1 multi-chain launch、6,000 万ユーロ circulation、ECB deposit facility、yield-bearing wallet test は、この snapshot では確認できないため削除した。
+- EURCV を法的に「半 stablecoin・半 deposit token」と呼ぶ根拠はない。[[fintech/institutional-stablecoin-deposit-token-thesis|機関ステーブルコイン / デポジットトークン論題]] との比較では issuer liability と redemption claim を個別に確認する。
 
 ### BBVA EURO
 
-- 2025-11 公表、2026-03 ローンチ
-- スペイン Banco de España と協議 + ACPR との passport 交渉
-- 展開チェーン Ethereum + Polygon (後続で Base/Avalanche 追加)
-- 準備金は BBVA 自家カストディ + 第三者監査 (KPMG España)
-- 流通 €25M (2026-05、初期段階)
-- 用途:BBVA スペイン語市場 (スペイン + メキシコ + 中南米 BBVA 子会社) のクロスボーダー決済
-- [[fintech/brazil-mexico-cbdc-stablecoin-push-2026|Brazil/Mexico CBDC 推進]] における BBVA スペイン語クロスボーダー視点と連動
+ESMA 2026-07-16 EMT file に BBVA または `BBVA EURO` の issuer record はない。本稿が旧版で記載した 2025-11 発表、2026-03 launch、Ethereum / Polygon、KPMG audit、2,500 万ユーロ circulation、Latin America use case は、示された BBVA 公式 URLを含め一次資料で確認できなかったため撤回する。登録簿にないことだけで将来計画の不存在を断定せず、公式発表と次回 register の双方が揃った時点で再評価する。[[fintech/brazil-mexico-cbdc-stablecoin-push-2026|Brazil/Mexico CBDC 推進]] との連動も現時点では仮説に留める。^[source:ESMA EMTWP.csv snapshot 2026-07-16]
 
 ### EUROe / EURØP / EURR 等の小型 SC
 
-- 主に DeFi / 暗号取引所内 EUR pair で利用
-- 単一規模 < €40M
-- ロングテール市場 → 将来的に統合 / 買収の可能性
+- ESMA file は Paxos Issuance Europe Oy の EUROe、SALVUS の EURØP、StablR の EURR / USDR 等の white papers を掲載する。
+- 登録簿は DeFi / exchange volume や circulation を示さないため、「各 4,000 万ユーロ未満」「将来統合される」という数値・予測は付さない。
 
 ## ESMA × EBA × 各国主管局協調メカニズム
 
 **MiCA 規制アーキテクチャ**:
 
-- **ESMA (European Securities and Markets Authority)** が CASP (Crypto-Asset Service Provider) 監督協調 + 反市場操作 + クロスボーダー情報共有を担当
-- **EBA (European Banking Authority)** が EMT + ART 監督を担当 (SC は本質的に e-money / 資産連動商品であり銀行業範疇に属するため)
-- **各国主管局 (NCA)** が実際のライセンス発行 + 日常監督を担当:
-  - ACPR (フランス) — Circle / SocGen
-  - BaFin (ドイツ) — EMI 持牌方 2 社
-  - DNB (オランダ) — Quantoz
-  - CSSF (ルクセンブルク) — Banking Circle
-  - CBI (アイルランド) — Schuman Financial
-  - MFSA (マルタ) — StablR / Crypto.com
-  - LB (リトアニア) — Bitstamp Pay + 小型 EMI 多数
-  - Banco de España — BBVA
+- **各国主管局 (NCA)** が通常の issuer / CASP authorization と日常監督を担い、ESMA register へ情報を提供する。
+- **EBA** は ART / EMT の significance を定期評価し、significant ART / EMT に分類された場合に直接監督を引き受ける。すべての EMT を EBA が直接監督するわけではない。
+- **ESMA** は Article 109 register を維持し、CASP authorization の supervisory convergence、market integrity、cross-border coordination を支える。
 
-**Passport メカニズム**: EMT/ART 持牌方はある加盟国でライセンス取得後、EU 全体に流通する passport が可能。2026-02 から passport プロセスが標準化、加盟国間の監督協調は ESMA + EBA の supervisory college を通じて完成。
+**Passport メカニズム**: cross-border provision は MiCA と underlying banking / e-money authorization の条件に従う。2026 年 2 月に初めて passport が「相互利用開始」したという event は確認できない。2026-07-01 は passport 開始日ではなく、CASP transitional period の最長終了日である。^[source:MiCA Regulation; ESMA statement on end of transitional periods 2026-04-17]
 
 **実際の協調課題**:
 
-1. **各国主管局の審査厳格度の差異**: フランス ACPR は厳しく、マルタ MFSA は緩い → 規制アービトラージ傾向が出現 (初期 EU 基金がルクセンブルクに集中した現象に類似)
-2. **CASP 側の ESMA vs EMT/ART 側の EBA の境界が不明確**: 例えば取引所が自社 SC を発行する場合 (Coinbase USDC と Coinbase Europe CASP) どちらが審査主導か?
-3. **大型 EMT (>€100M / >1M ユーザー / 日次取引 >€1M) 制限条項** の USDC への適用問題: ESMA 2026-03 公式声明では USDC が「大型 EMT」閾値を満たしたとしたが、具体的制限 (例えば非ユーロ取引ペアの禁止) は case-by-case で評価中
+1. **snapshot discipline**: weekly register の日付、row count、unique LEI count を分ける。古い snapshot と national register の時間差も注記する。
+2. **issuer / token / CASP の分離**: exchange の CASP license、issuer の EMI / credit institution authorization、token white paper record は別の対象である。
+3. **significance の判定**: EBA は MiCA の複数の量的・質的 criteria に基づいて判断する。旧版の単純な `>€100M / >1M users / daily >€1M` を「大型 EMT threshold」とする記述や、ESMA が 2026 年 3 月に USDC を大型 EMT と宣言したとの記述は裏付けがない。
+4. **market-share dataset の欠落**: register は authorization map であり market dataset ではない。市場シェアを追加する場合は、EU / EEA、venue、pair、spot / derivatives、volume / balance、期間を明示した再現可能 dataset が必要。
 
 ## Related
 
@@ -179,25 +154,26 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it alongside [[finte
 - [[fintech/dora-eu-digital-operational-resilience-ctpp|DORA CTPP]]
 - [[fintech/global-stablecoin-regulatory-five-pole-matrix|グローバルステーブルコイン規制五極マトリクス]]
 - [[fintech/circular-reserve-asset-flywheel-overview|循環準備資産フライホイール]]
-- [[fintech/three-circles-stablecoin-mra-framework|三円 SC MRA フレームワーク]]
+- [[fintech/three-circles-stablecoin-mra-framework|米国・EU・日本のステーブルコイン市場アクセス比較]]
 - [[fintech/institutional-stablecoin-deposit-token-thesis|機関ステーブルコイン / デポジットトークン論題]]
-- [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]]
+- [[fintech/genius-act-501-denylist-mandate|GENIUS Act implementation]]
 - [[fintech/brazil-mexico-cbdc-stablecoin-push-2026|Brazil/Mexico CBDC × ステーブルコイン推進]]
 - [[fintech/tether-business-model-short-treasury-yield|Tether ビジネスモデル]]
 
 ## Sources
 
-- ESMA — Crypto-Assets policy https://www.esma.europa.eu/policy-activities/crypto-assets
-- EBA — Crypto-Assets MiCA Regulation https://www.eba.europa.eu/regulation-and-policy/crypto-assets-mica
-- Circle — EURC MiCA https://www.circle.com/en/legal/eurc-mica
-- Société Générale-FORGE — EURCV product page https://www.sgforge.com/product/eurcv/
-- BBVA — Euro stablecoin launch announcement https://www.bbva.com/en/innovation/bbva-launches-euro-stablecoin/
-- Tether — EU delisting notice https://tether.to/en/news/2024-eu-delisting/
-- MiCA — Regulation (EU) 2023/1114 full text https://eur-lex.europa.eu/eli/reg/2023/1114/oj
-- BaFin — MiCAR landing page https://www.bafin.de/EN/Aufsicht/MiCAR/MiCAR_node.html
-- ESMA Q&A on MiCA Title III/IV (v3, 2026-04, public release)
-- EBA supervisory college report on large EMT/ART (2026-Q1, public release)
+- [MiCA — Regulation (EU) 2023/1114](https://eur-lex.europa.eu/eli/reg/2023/1114/oj) — 法的分類、適用日、authorization / supervision。
+- [ESMA — MiCA landing page and interim register](https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica) — weekly register、data limitations、transition。
+- [ESMA EMT file（snapshot page updated 2026-07-16）](https://www.esma.europa.eu/sites/default/files/2024-12/EMTWP.csv) — 41 rows / 21 unique LEIs / 12 home states の集計元。
+- [ESMA ART file（snapshot page updated 2026-07-16）](https://www.esma.europa.eu/sites/default/files/2024-12/ARTZZ.csv) — header only、0 data rows。
+- [ESMA — guidance on non-compliant ARTs / EMTs（2025-01-17）](https://www.esma.europa.eu/press-news/esma-news/esma-and-european-commission-publish-guidance-non-mica-compliant-arts-and-emts) — CASP restrictions と transition。
+- [ESMA — end of MiCA transitional periods（2026-04-17）](https://www.esma.europa.eu/sites/default/files/2026-04/ESMA75-113276571-1679_Statement_on_the_end_of_transitional_periods_under_MiCA.pdf) — 2026-07-01 の最長終了日。
+- [EBA — supervisory role under MiCA](https://www.eba.europa.eu/activities/direct-supervision-and-oversight/ebas-supervisory-role-under-mica) — significant ART / EMT の評価と直接監督。
+- [Circle — MiCA announcement（2024-07-01）](https://www.circle.com/fr/pressroom/circle-is-first-global-stablecoin-issuer-to-comply-with-mica-eus-landmark-crypto-law) — French EMI license と USDC / EURC。
+- [Société Générale-FORGE — EURCV product page](https://www.sgforge.com/product/eurcv/) — issuer product surface。authorization date は ESMA file で確認。
+- [Tether — EURT support transition（2024-11-27）](https://tether.io/news/tether-updates-users-on-a-strategic-transition-to-better-support-community-driven-product-support/) — 対象 token と redemption deadline。
+- [Coinbase — MiCA non-compliant stablecoins](https://help.coinbase.com/en/coinbase/other-topics/other/mica-restricted-stablecoins) / [Kraken — EEA stablecoin offering](https://support.kraken.com/articles/stablecoin-offerings-for-eea-clients) — entity / service 別 restriction。
 
 ---
 
-**Last refresh** (2026-05-26): reconciled EURC numbers with [[fintech/mica-overview|MiCA 概観]] (both now reference €280M / ~20x USDC EU gap, replacing earlier "300x" figure); confirmed bidirectional wikilinks.
+**Last refresh** (2026-07-30): rebuilt all three provenance-flagged tables from the ESMA 2026-07-16 register snapshot and official issuer / CASP notices; removed unsupported market-share, circulation, license, product-launch, and forecast claims.

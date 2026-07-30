@@ -1,170 +1,140 @@
 ---
 source: fintech/indonesia-ovo-stablecoin-route
-source_hash: e3e63a2e1ba18b82
+source_hash: e36205903b2e40fb
 lang: ja
-model: local-ja-business-term-glossary
+model: manual-issue-239-provenance-repair
 status: machine
 fidelity: ok
-title: "インドネシア E-ウォレットエコシステムとステーブルコイン・ルート"
-translated_at: 2026-06-26T08:29:01.755Z
+title: "インドネシア e-wallet と stablecoin route — 規制境界と証拠 checklist"
+translated_at: 2026-07-29T17:24:34.289Z
 ---
-# インドネシア E-ウォレットエコシステムとステーブルコイン・ルート
+# インドネシア e-wallet と stablecoin route — 規制境界と証拠 checklist
 
 ## ウィキ上の位置づけ
 
-この項目は [[fintech/INDEX|fintech index]] の下に位置づけられる、インドネシア固有の深掘りである。地域別 [[fintech/southeast-asia-stablecoin-regulatory-landscape]] 項目が参照する OJK / BI の仕組みと IDR-stablecoin のグレー・コリドー・フローを扱う。クロスEMの行動基準線として [[fintech/em-market-crypto-dollarization-pattern]]、USDT が世界的にたどる構造パターンとして [[fintech/gray-market-dollar-network-formalization]]、OVO / GoPay / DANA / ShopeePay のようなプラットフォームが将来の rupiah-stablecoin ライセンスでなぜ戦略的位置にあるかについて 発行会社-distributor 分割を示す [[fintech/issuer-distributor-incentive-realignment-50-50-model]] とあわせて読む。
+この項目は [[fintech/INDEX|フィンテック索引]] の配下にあり、[[fintech/southeast-asia-stablecoin-regulatory-landscape|東南アジア stablecoin 規制]] が利用するインドネシア固有の証拠境界を示す。一般的な分析 pattern は [[fintech/gray-market-dollar-network-formalization|gray-market dollar network の formalization]]、contract-analysis framework は [[fintech/issuer-distributor-incentive-realignment-50-50-model|issuer / distributor economics]] とあわせて読む。これらのページは、インドネシアの wallet、bank、exchange、payment firm が rupiah token の発行を認められていることを証明しない。
 
-> [!info] 要約
-> インドネシアの決済スタックは、BI の全国QRレール **QRIS** の上で動く **4つのeウォレット・スーパーアプリ**、すなわち OVO（Grab + Lippo 支配）、GoPay（GoTo Group）、DANA（Ant Group + Emtek）、ShopeePay（Sea Group）に支配されている。暗号資産監督は 2025-01  から、P2SK Law に基づき Bappebti から **OJK** へ移管されたが、2026-05 時点で**ルピアペッグのステーブルコイン発行はまだライセンス化されていない**。USD ステーブルコイン（USDT、USDC）は、ライセンス済み PMA 取引所（Tokocrypto、Indodax、Pintu、Reku、Triv、Pluang、Upbit Indonesia、Mobee）と、シンガポール、マレーシア、香港、サウジアラビアのインドネシア・ディアスポラを結ぶ**大規模な非公式 P2P 送金コリドー**を通じて流通している。2026-2027  の戦略的な問いは、OJK + BI が IDR ステーブルコインをライセンス化するか、そして発行体が4大eウォレット、ライセンス銀行（Bank Mandiri、BCA、BRI、BNI）、または新設の専業発行体のどれになるかである。
+> [!info] TL;DR
+> インドネシアの公開 framework は、Bappebti からの 2025-01 の移管後、Bank Indonesia の payment-system・central-bank function と、digital financial asset に対する OJK supervision を分けている。BI の **QRIS**・**Project Garuda** page は、payment standard と digital rupiah の work を説明する。確認した公式資料は、rupiah stablecoin 専用発行 route の創設、承認済み private issuer の特定、OVO / GoPay / DANA / ShopeePay への token 発行許可、crypto venue の順位付け、stablecoin remittance corridor の定量化を**行っていない**。2026-07-30 の確認時点で、IDR-token claim には現行 regulation、licence-register entry、named legal-entity disclosure、product-level evidence が必要である。^[Regulator handover: https://www.ojk.go.id/en/berita-dan-kegiatan/siaran-pers/Documents/Pages/Bappebti-Transfers-Regulation-and-Supervision-Duties-on-Digital-Financial-Assets-Crypto-Assets-and-Derivatives-to-OJK-BI/JPR%20Bappebti%20of%20Indonesian%20Ministry%20of%20Trades%20Transfers%20Regulation%20and%20Supervision%20Duties%20on%20Digital%20Financial%20Assets%20Crypto%20Assets%20and%20Derivatives%20to%20OJK%20and%20BI.pdf; QRIS: https://www.bi.go.id/QRIS/default.aspx; Project Garuda: https://www.bi.go.id/en/publikasi/ruang-media/cerita-bi/Pages/Project-Garuda.aspx]
 
-## 規制境界 · OJK vs BI vs Bappebti
+## 規制境界 · OJK、BI、Bappebti
 
-| Function | Authority | Scope |
+下表は [2025-01-10 付 OJK / BI / Bappebti 共同移管 release](https://www.ojk.go.id/en/berita-dan-kegiatan/siaran-pers/Documents/Pages/Bappebti-Transfers-Regulation-and-Supervision-Duties-on-Digital-Financial-Assets-Crypto-Assets-and-Derivatives-to-OJK-BI/JPR%20Bappebti%20of%20Indonesian%20Ministry%20of%20Trades%20Transfers%20Regulation%20and%20Supervision%20Duties%20on%20Digital%20Financial%20Assets%20Crypto%20Assets%20and%20Derivatives%20to%20OJK%20and%20BI.pdf)、[Bank Indonesia QRIS page](https://www.bi.go.id/QRIS/default.aspx)、[Project Garuda page](https://www.bi.go.id/en/publikasi/ruang-media/cerita-bi/Pages/Project-Garuda.aspx) を要約し、2026-07-30 に確認した。
+
+| Function または claim | 証拠で裏付けられる境界 |
+|---|---|
+| Payment system、rupiah、central-bank money | BI 資料が QRIS、payment-system rule、Project Garuda の一次資料 |
+| Crypto asset を含む digital financial asset | 共同 release は、関連する regulation・supervision duty の OJK・BI への移管を記録 |
+| 歴史的 commodity-supervision route | Bappebti は記載された digital-financial-asset / crypto duty を 2025-01-10 に移管 |
+| Private rupiah-stablecoin 発行 | 引用した移管、QRIS、Project Garuda page は専用発行 route を確立しない |
+| E-wallet または exchange token の authorization | 現行 regulator register または named approval で示す必要；ecosystem association では不十分 |
+
+移管は所管する supervision perimeter を変更する。それ自体は stablecoin licence の付与、reserve model の承認、QRIS を通じた distribution の許可、private issuer の特定を行わない。
+
+## 現行資料が確立すること
+
+下表は regulator の直接的事実と、追加の first-party evidence が必要な claim を分ける。同じ [共同移管 release](https://www.ojk.go.id/en/berita-dan-kegiatan/siaran-pers/Documents/Pages/Bappebti-Transfers-Regulation-and-Supervision-Duties-on-Digital-Financial-Assets-Crypto-Assets-and-Derivatives-to-OJK-BI/JPR%20Bappebti%20of%20Indonesian%20Ministry%20of%20Trades%20Transfers%20Regulation%20and%20Supervision%20Duties%20on%20Digital%20Financial%20Assets%20Crypto%20Assets%20and%20Derivatives%20to%20OJK%20and%20BI.pdf)、[QRIS page](https://www.bi.go.id/QRIS/default.aspx)、[Project Garuda page](https://www.bi.go.id/en/publikasi/ruang-media/cerita-bi/Pages/Project-Garuda.aspx) を用いる。
+
+| Claim class | 現在の結論 | より強い claim に必要な証拠 |
 |---|---|---|
-| 銀行 / 決済システム / FX / 金融政策 | Bank Indonesia (BI) | QRIS、BI-FAST、ルピア、FX制度、Project Garuda CBDC |
-| 資本市場 + ノンバンク金融サービス +（2025-01以降）暗号資産 | Otoritas Jasa Keuangan (OJK) | 取引所、カストディ、ステーブルコイン・ライセンス（保留中） |
-| 商品先物 + 過去の暗号資産規制当局（2018-2024） | Bappebti | 暗号資産監督から段階的に退出、将来は商品分野のみ |
-| 電子マネー発行体ライセンス | PBI 23/6/PBI/2021  に基づく BI | OVO、GoPay、DANA、ShopeePay、LinkAja など |
-| 送金ライセンス（PJP） | PBI 22/23/PBI/2020  に基づく BI | クロスボーダー送金サービスプロバイダー |
+| Supervision の移管 | 2025-01-10 の共同 release で確認 | Perimeter が変わる場合は後続 regulation |
+| BI payment infrastructure としての QRIS | BI の QRIS page で確認 | Merchant または transaction scale の日付付き BI statistics |
+| BI の digital-rupiah workstream としての Project Garuda | BI の Project Garuda page で確認 | Production issuance または named deployment に関する後続 BI decision |
+| Private IDR-stablecoin 専用 route | 確認した資料では未確立 | Regulation、effective date、application procedure、regulator register |
+| Named approved issuer または distributor | 確認した資料では未確立 | Legal entity・product に紐づく named approval |
+| Venue ranking、stablecoin market share、pair depth | 確認した資料では未確立 | Methodology を伴う再現可能な日付付き venue data |
+| Informal remittance または trade-settlement volume | 確認した資料では未確立 | Source、geography、measurement method を伴う日付付き corridor dataset |
 
-**主要な移行点**: **P2SK Law（UU 4/2023）**はインドネシアの金融監督を再編した。暗号資産 / デジタル金融資産の監督は、2025-01 から正式に Bappebti（商品デリバティブの枠組み）から OJK（金融サービスの枠組み）へ移った。この移行は、従来の商品取引の枠組みではなく、MAS SCS や HKMA モデルに近い**プルーデンシャル型ステーブルコイン・ライセンス**への道を暗黙に開く。
+## E-wallet と corporate relationship の checklist
 
-近隣司法管轄区との対比は鮮明である。MAS PS Act の枠組みは [[fintech/singapore-mas-payment-services-act-overview]]、HKMA の専用ライセンスモデルは [[fintech/hkma-stablecoin-licensing-overview]] を参照。OJK はフレームワークを示唆しているが、日程は確約していない。
+OVO、GoPay、DANA、ShopeePay は、旧版が issuer prediction を行ったため due-diligence subject として含める。[共同移管 release](https://www.ojk.go.id/en/berita-dan-kegiatan/siaran-pers/Documents/Pages/Bappebti-Transfers-Regulation-and-Supervision-Duties-on-Digital-Financial-Assets-Crypto-Assets-and-Derivatives-to-OJK-BI/JPR%20Bappebti%20of%20Indonesian%20Ministry%20of%20Trades%20Transfers%20Regulation%20and%20Supervision%20Duties%20on%20Digital%20Financial%20Assets%20Crypto%20Assets%20and%20Derivatives%20to%20OJK%20and%20BI.pdf)、[QRIS page](https://www.bi.go.id/QRIS/default.aspx)、[Project Garuda page](https://www.bi.go.id/en/publikasi/ruang-media/cerita-bi/Pages/Project-Garuda.aspx) は、その ownership、現行 licence scope、active-user scale、token programme、stablecoin authorization を証明しない。各 field は日付付き BI register と該当 company の first-party disclosure で確認する必要がある。
 
-### OVO · Lippo 起源、Grab 支配、Tokopedia パートナー
+Table の証拠境界：[OJK / BI / Bappebti 移管 release](https://www.ojk.go.id/en/berita-dan-kegiatan/siaran-pers/Documents/Pages/Bappebti-Transfers-Regulation-and-Supervision-Duties-on-Digital-Financial-Assets-Crypto-Assets-and-Derivatives-to-OJK-BI/JPR%20Bappebti%20of%20Indonesian%20Ministry%20of%20Trades%20Transfers%20Regulation%20and%20Supervision%20Duties%20on%20Digital%20Financial%20Assets%20Crypto%20Assets%20and%20Derivatives%20to%20OJK%20and%20BI.pdf)。
 
-- **所有**: 元は Lippo Group。Grab が 2021 に支配持分を取得し、2024-2025 に追加統合。
-- **ライセンス**: BI の電子マネー発行体 + 決済サービスプロバイダー（PJP）。PBI 23/6/PBI/2021 に基づく電子マネーとして規制される。
-- **規模**: 登録アカウントは報道ベースで数億、月間アクティブは数千万。Grab の配車と Tokopedia のECに深く統合されている。
-- **暗号資産上の視点**: 直接の暗号資産発行体ではない。ただし Grab Financial Group はマレーシアで GXBank を運営し、シンガポール SCS に隣接する体制を持つため、OJK が IDR-SC ライセンス経路を開けば Grab 側の能力をインドネシアへ移植できる。
-
-### GoPay · GoTo（Gojek + Tokopedia 合併）
-
-- **所有**: GoTo Group（Gojek-Tokopedia 合併、IDX 2022 上場）の金融部門である GoTo Financial。
-- **ライセンス**: BI 電子マネー + PJP + GoPaylater（認可 multifinance 事業体を通じた BNPL）。
-- **規模**: 月間アクティブユーザー 25M+ と報告。2023にローンチされた GoPay アプリと、Gojek / Tokopedia を通じたエコシステム到達を持つ。
-- **暗号資産上の視点**: GoTo Group は **GoTo Treasury** / **Mitra Pajakku** の金融サービススタックを抱え、実験的なトークン化パイロットを行っている。現時点で直接のステーブルコイン発行はなく、OJK + BI の共同認可が必要になる。
-
-### DANA · Ant Group + Emtek
-
-- **所有**: Ant Group（Alipay）と Emtek（インドネシアのメディア複合企業）の合弁である DANA Indonesia。
-- **License**: BI e-money + PJP.
-- **規模**: 月間アクティブユーザーは数千万規模で、QRIS を通じた広い加盟店受容を持つ。
-- **暗号資産上の視点**: インドネシア決済に入る最も直接的な中国本土系チャネルである。Ant International の香港ステーブルコイン・ライセンス申請（[[fintech/hkma-stablecoin-licensing-overview]]参照）は、HKMA が承認し OJK が同時に IDR-SC を自由化した場合、管轄区横断ブリッジになり得る。2027-2028 における低確率だが高インパクトのシナリオである。
-
-### ShopeePay · Sea Group
-
-- **所有**: Shopee、SeaMoney、Garena の親会社である Sea Limited（NYSE: SE）。
-- **ライセンス**: BI 電子マネー + PJP。SeaBank Indonesia が認可銀行事業体として存在する。
-- **規模**: Shopee marketplace に大規模に組み込まれ、SeaBank Indonesia が預金・貸出商品を提供する。
-- **暗号資産上の視点**: Sea は歴史的に、他の3大スーパーアプリよりコンプライアンス保守的な姿勢を取ってきた。シンガポール本社により、インドネシアで直接ステーブルコイン発行を求めるより、MAS DPT ライセンスを通じて暗号資産エクスポージャーに参加できる。
-
-### Cross-comparison
-
-| ウォレット | 支配親会社 | 外国決済プラットフォームのDNA | 想定されるIDR-SC姿勢 |
-|---|---|---|---|
-| OVO | Grab（NASDAQ経由のSG上場）+ Lippo | Grab Financial Group SG | 能力は高く、意欲は中程度 |
-| GoPay | GoTo（IDX上場） | インドネシア国内型 | 能力は高く、意欲も高い |
-| DANA | Ant Group + Emtek | Alipay China | 能力は高く、意欲も高いが政治的感度が高い |
-| ShopeePay | Sea Group（NYSE） | コンプライアンス保守的なSG型 | 能力は中程度、意欲は低い |
-
-### eウォレットがステーブルコイン・ライセンスを求める（または求めない）理由
-
-eウォレットが IDR-SC 発行を求める戦略的根拠は、**決済フロー上のインターチェンジ相当の経済価値を取り込みたいのか**、それとも**薄い分配レイヤーにとどまりたいのか**にかかっている。同じトレードオフは [[fintech/issuer-distributor-incentive-realignment-arc-strategy]] と、より広い [[fintech/usd-stablecoin-interchange]] の枠組みで検討されている。インドネシアの eウォレットにとっては次のようになる。
-
-- **発行に賛成する理由**: 基礎準備資産の float / NIM を取り込み、分配をウォレットに固定し、銀行発行トークン化預金による代替に防御できる。
-- **発行に反対する理由**: 健全性資本フロア、OJK + BI 共同制度下の追加監督、既存電子マネー収益モデルのカニバリゼーションが生じ得る。
-
-同じ計算が Stripe による Bridge 買収を促し（[[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse]] と [[fintech/regulatory-window-strategic-acquisition]]参照）、世界の他の分配レイヤー事業者が採る [[fintech/protocol-hedge-strategy-stripe-pattern]] を形づけている。
-
-## QRIS レールとステーブルコインへの影響
-
-**QRIS** は BI の標準化QRコード決済規格であり、2020 以降、すべての電子マネーおよび銀行発行QR決済受容に義務づけられている。2026, までに QRIS は数億の加盟店接点を持ち、**1取引 IDR 10M 未満のリテール決済のデフォルトレール**になった。ルピア・ステーブルコインのライセンスに対する構造的含意は次のとおり。
-
-1. 認可 IDR-SC は、リテール用途を取り込むため **QRIS と相互運用**する必要がある。
-2. **Project Nexus**（BIS主導の ASEAN+India 即時決済連結）を通じた QRIS 連携、および Singapore PayNow（2023）、Malaysia DuitNow（2023）、Thailand PromptPay（2023）との二国間連携は、クロスボーダー送金に対する**非ステーブルコイン型の回答**を提供し、USDT P2P コリドーと直接競合する。
-3. BI の **Project Garuda** ホールセールCBDCパイロット（Hyperledgerベース、二層アーキテクチャ）は QRIS を置き換えるのではなく上流に位置するよう設計されており、ノンバンク・ステーブルコイン・ライセンスとは別の**商業銀行発行トークン化預金**商品の構造的余地を残している。類似例は [[fintech/institutional-stablecoin-deposit-token-thesis]] の機関向け預金トークン枠組み、および [[fintech/japan-stablecoin-regulatory-landscape]] の日本の信託 / 銀行 / 資金移動業分割である。
-
-### On-chain / licensed venue
-
-- **Tokocrypto**（2024 のスピンオフまで Binance 系、現在は国内支配）: 取引量最大で IDR-USDT ペアが厚い。
-- **Indodax**: 長期運営の国内取引所、IDR建てステーブルコイン現物。
-- **Pintu**: モバイルファーストで、ネオバンクと提携。
-- **Reku**、**Triv**、**Pluang**、**Upbit Indonesia**（Dunamu パートナー）、**Mobee**: 認可PMA名簿を補完する事業者群。
-
-リテール取引量では USDT が支配的なステーブルコインである。2024 以降、機関投資家級オンランプの拡大に伴い USDC のシェアも伸びている。
-
-### オフチェーン / P2P / インフォーマル
-
-- **ディアスポラ送金コリドー**: Singapore-Indonesia、Malaysia-Indonesia、Hong Kong-Indonesia、Saudi Arabia-Indonesia。これらの市場のインドネシア移民労働者は、価値移転レイヤーとして **USDT-Tron** を使い、最終IDR転換は現地OTCデスクまたは Binance / OKX / Bybit の P2P を通じて行う。
-- **クロスボーダーEC決済**: 中国から仕入れる小規模インドネシア輸入業者は、正式なFX決済摩擦を回避するため、USDT を支払いレイヤーとして使う。
-- **グレーマーケット行動パターン**: [[fintech/em-market-crypto-dollarization-pattern]] が Nigeria、Argentina、Mexico で記録したものと同一である。Chainalysis Global Crypto Adoption Index における Indonesia の順位は、投機ではなくこれらのフローによって一貫して上位に押し上げられている。
-
-## 保留中のIDRステーブルコイン・ライセンスシナリオ
-
-| シナリオ | 想定される発行体像 | 確率 2026-2027 |
+| Subject | 現行 status の記載前に確認する事項 | ここで確認した資料からの結論 |
 |---|---|---|
-| OJK + BI が銀行発行 IDR-SC（Mandiri、BCA、BRI、BNI）を認可 | トークン化預金の枠組み | 中程度 |
-| OJK が認知された電子マネー事業者発行のノンバンク IDR-SC を認可 | OVO / GoPay / DANA / ShopeePay | 低め |
-| OJK + BI がコンソーシアム支援 IDR-SC を認可 | 複数銀行または電子マネー + 銀行JV | 中程度 |
-| OJK が認可PMA取引所による exchange-IDR 発行を許可 | Tokocrypto / Indodax | 低い |
-| 2026-2027 に IDR-SC ライセンスが発行されない | 現状維持 | 最も高い |
+| OVO | Legal entity、current ownership、BI licence scope、named OJK / BI token approval | Stablecoin issuance authorization は未確立 |
+| GoPay | Legal entity、current ownership、BI licence scope、dated user metric、named token programme | Stablecoin issuance authorization は未確立 |
+| DANA | Legal entity、current ownership、BI licence scope、named Indonesian token approval | Stablecoin issuance authorization は未確立 |
+| ShopeePay | Legal entity、current ownership、BI licence scope、named Indonesian token approval | Stablecoin issuance authorization は未確立 |
 
-BI / OJK の姿勢と銀行安定性論の政治的重みを踏まえると、最も可能性が高い経路は、ノンバンク・ステーブルコインではなくトークン化預金として位置づけられる**銀行発行またはコンソーシアム発行**の IDR-SC である。これは日本の信託型EPI優位（[[fintech/japan-epi-three-types-overview]] と [[fintech/jp-trust-type-sc-architecture]]参照）および [[fintech/brazil-drex-timeline-2026]] に記録された Brazil DREX の方向性を映す。
+Brand association、marketplace reach、foreign affiliate、headquarters location、user-count claim を、インドネシアの product authorization の代替として使ってはならない。したがってこのページは、issuer motivation、float income、net-interest margin、cannibalization、acquisition strategy、comparative compliance posture を推定しない。
 
-### 資本・準備金フレームワークの想定
+## QRIS と Project Garuda · 記載された status のみ
 
-OJK が MAS-SCS に沿ったテンプレートを採る場合、健全性フロアにはおそらく次が含まれる。
-- 現金、中央銀行預金、または短期ルピア建て国債による 100% 準備。
-- OJK監督機関での分別カストディ。
-- OJK認定監査人による月次または日次の準備資産証明。
-- ノンバンク発行体向けの専用資本フロア（地域比較に基づけば IDR 10-50  billion レンジの可能性）。
-- Travel Rule 対応を含む AML/CFT 義務（[[fintech/fatf-travel-rule-overview]] と [[fintech/fatf-travel-rule-cross-border-stack]]参照）。
+[BI QRIS page](https://www.bi.go.id/QRIS/default.aspx) は QRIS、[Project Garuda page](https://www.bi.go.id/en/publikasi/ruang-media/cerita-bi/Pages/Project-Garuda.aspx) は BI の digital-rupiah initiative の一次資料である。
 
-OJK が代わりに BI の選好する**銀行発行トークン化預金**へ譲る場合、新しいライセンス区分を作るのではなく、既存の健全性銀行規制をトークン化預金商品へ拡張することになる。これは [[fintech/brazil-drex-timeline-2026]] に記録された Brazil DREX アーキテクチャに相当する。
+| Workstream | 直接裏付けられる記述 | 推定してはならないこと |
+|---|---|---|
+| QRIS | BI は national QR-payment standard と関連公式資料を公開 | 日付付き statistics のない merchant scale；必須 stablecoin-integration route；token authorization |
+| Project Garuda | BI は digital-rupiah project page を公開 | Private stablecoin が downstream に置かれること；bank token の reserved market slot；production issuance |
+| Cross-border payment link | 特定の BI / counterpart announcement を出典とする必要 | Instant-payment link が CBDC / stablecoin corridor であること；定量的 P2P market と競合すること |
 
-### インドネシア国内における海外発行USDステーブルコインの戦略的位置別の論点は、OJK が**海外ライセンス済みUSDステーブルコイン**（GENIUS下の USDC、SBI Circle 下の JPY-USDC、将来の MAS-SCS USD 変種）について、現在の商品分類上の扱いより正式な形で、認可PMA取引所を通じて Indonesia 国内に分配する承認経路を作るかどうかである。最も近い類似例は日本のディストリビューターモデル（[[fintech/japan-stablecoin-regulatory-landscape]] と [[fintech/japan-epi-three-types-overview]]参照）と、[[fintech/japan-epi-four-camps-comparison]] で整理された戦略的バリューチェーン上の含意である。[[fintech/three-circles-stablecoin-mra-framework]] の三円MRAフレームワークと、その 2030  経済規模ビュー（[[fintech/three-circles-mra-2030-economic-scale]]）が、より広い政策背景になる。
+QRIS または Project Garuda の存在は、特定の private-token architecture、commercial incentive、launch sequence を確立しない。
 
-## クロスボーダーIDR-SGDブリッジ
+## Crypto venue と stablecoin activity · 証拠境界
 
-Singapore-Indonesia は、インドネシア・ディアスポラ送金と中小企業貿易決済における**最大規模の地域コリドー**である。2026 における競合レールは次のとおり。
+2025-01-10 の移管 release は supervision transition を確立するが、venue-level product fact は確立しない。インドネシアの venue を licensed、largest、deepest、dominant、または stablecoin distribution の authorized entity として挙げる前に、次を確認する。
 
-1. **PayNow ↔ BI-FAST 二国間連携**（BIS主導の Project Nexus フレームワーク下）。リテール向けに取引上限付きでライブ。
-2. **銀行コルレス SWIFT** — レガシーレールで、企業財務の取引量ではなお支配的。
-3. **認可PMA取引所 + Singapore DPT ライセンス事業者を経由する USDT-Tron / USDC-Solana**（[[exchanges/sg-mas-dpt-licensing-overview]]参照） — 速いが、各レッグのKYC範囲は狭い。
-4. **インフォーマル USDT P2P** — 最速・最安・可視性最低。OJK と MAS は共同でこのコリドーを圧縮しようとしている。
+1. 現行 OJK / BI register entry と正確な legal entity。
+2. Permitted activity と、named product が対象かどうか。
+3. Trading pair または service に関する日付付き first-party product page。
+4. Methodology を伴う再現可能な volume、liquidity、market-share data。
+5. Issuance、trading、custody、distribution permission が法的に異なるかどうか。
 
-このコリドーの経済性は、より広い B2B ステーブルコイン成長パターン（[[fintech/stablecoin-crossborder-b2b-growth]]）および、トレーダーがルピア・シンガポールドルのレッグを回す際の [[fintech/dual-currency-stablecoin-arbitrage-overview]] の二通貨アービトラージ動学にも影響される。[[fintech/dual-currency-stablecoin-arbitrage-legal-hack]] で扱う二通貨アービトラージの法的メカニクスは、両端が正式に規制されてもこのコリドーがなお収益性を持つ理由を説明する。
+確認した資料は、USDT がインドネシア retail volume で dominant であること、named exchange が最も deep な IDR pair を持つこと、diaspora worker、importer、OTC desk、P2P user が定量的 corridor を形成することを裏付けない。Adoption-index ranking の原因も確立しない。
 
-### Indonesia ↔ Hong Kong という二次コリドー
+## 考えられる route · 予測ではなく scenario checklist
 
-Indonesia と Hong Kong の間には、規模は小さいが重要なコリドーがある。これはインドネシア華人ディアスポラのフロー、Hong Kong 銀行口座を持つインドネシア法人、そして Ant International / DANA の管轄区横断関係によって支えられる。HKMA が 2027  に中国本土系発行体によるUSDペッグ・ステーブルコインを承認した場合（[[fintech/hkma-stablecoin-licensing-implications]]参照）、Indonesia-HK コリドーは、片側に規制済み中国系USDステーブルコインを持つ**初のステーブルコイン・コリドー**となり、USDT-Tron の現行支配に対する地域競争地図を大きく変え得る。
+下表は [共同移管 release](https://www.ojk.go.id/en/berita-dan-kegiatan/siaran-pers/Documents/Pages/Bappebti-Transfers-Regulation-and-Supervision-Duties-on-Digital-Financial-Assets-Crypto-Assets-and-Derivatives-to-OJK-BI/JPR%20Bappebti%20of%20Indonesian%20Ministry%20of%20Trades%20Transfers%20Regulation%20and%20Supervision%20Duties%20on%20Digital%20Financial%20Assets%20Crypto%20Assets%20and%20Derivatives%20to%20OJK%20and%20BI.pdf) と [Project Garuda](https://www.bi.go.id/en/publikasi/ruang-media/cerita-bi/Pages/Project-Garuda.aspx) を起点とする。各 row は due-diligence scenario であり、probability を付さない。
 
-### Indonesia ↔ Saudi Arabia / UAE remittance
+| Scenario | 最低限必要な確認証拠 | 確認した資料からの status |
+|---|---|---|
+| Bank tokenized-deposit route | Banking rule、named bank approval、product terms、ledger / redemption documentation | 未確立 |
+| Non-bank rupiah stablecoin route | Issuance rule、named issuer licence、reserve、custody、redemption、disclosure term | 未確立 |
+| Consortium route | Named participant、regulator approval、governance・liability document | 未確立 |
+| Exchange-issued rupiah token | Venue trading permission と異なる issuer permission | 未確立 |
+| Wholesale digital-rupiah route | Phase、participant、operational status を記載する BI publication | Project Garuda が公式 reference；production status は同資料で確認が必要 |
+| Foreign-token distribution route | Recognition rule、distributor approval、product-specific permission | 未確立 |
 
-Saudi Arabia と UAE のインドネシア移民労働者人口は、Indonesia 向けに相当規模の送金コリドーを生む。Middle East 側では規制済み USD ステーブルコインのオンランプ（UAE VARA ライセンス会場）とインフォーマル USDT の利用が増え、Indonesia 側は PMA 取引所またはインフォーマル P2P を通じて吸収する。このコリドーの機関投資家レイヤーを見るうえで、[[fintech/sovereign-capital-pool-aramco-anchor]] の Aramco / sovereign-capital の位置づけおよびより広い [[fintech/sovereign-fund-crypto-allocation-pattern]] とのアーキテクチャ上の並行性は注目に値する。
+Reserve percentage、asset list、attestation interval、capital floor、probability、preferred issuer type を Singapore その他の法域から持ち込んではならない。将来のインドネシアに関する claim は、インドネシアの regulation と product-level disclosure に基づく必要がある。
+
+## 将来の IDR-token claim に必要な evidence packet
+
+公開可能な claim には、該当する次の全項目を含める。
+
+- Regulation title、regulator、effective date、official URL。
+- Licence-register entry、legal entity、permitted activity。
+- Named issuer、distributor、custodian の role。
+- Reserve asset、segregation、custody、attestation requirement。
+- Redemption right、timing、fee、eligible customer scope。
+- Token contract、network、authoritative product page。
+- Issuance approval と別の distribution / venue approval。
+- Denominator、geography、methodology を伴う日付付き quantitative data。
+- Live status、pilot status、proposal、analyst scenario の明確な分離。
+
+いずれかが利用できない場合は、affiliate relationship、user-scale estimate、regional analogy、market forecast で空白を埋めず、`not established` と表示する。
+
+## Cross-border の境界
+
+確認した regulator page は、Indonesia と Singapore、Hong Kong、Middle East、その他の market の間に stablecoin corridor があることを確立しない。Payment-system linkage、remittance flow、crypto-venue presence、stablecoin settlement route は別々の claim である。それぞれに固有の公式または再現可能な source が必要であり、QRIS、Project Garuda、corporate affiliate、foreign licence から推定してはならない。
 
 ## 関連項目
 
-- [[fintech/INDEX|Wiki Index]]
-- [[fintech/southeast-asia-stablecoin-regulatory-landscape|SE Asia regulatory landscape]]
+- [[fintech/INDEX|フィンテック索引]]
+- [[fintech/southeast-asia-stablecoin-regulatory-landscape|東南アジア規制 landscape]]
 - [[fintech/em-market-crypto-dollarization-pattern|EM crypto-dollarization pattern]]
-- [[fintech/gray-market-dollar-network-formalization|Gray market USD network formalization]]
-- [[fintech/singapore-mas-payment-services-act-overview|MAS PS Act + SCS]]
+- [[fintech/gray-market-dollar-network-formalization|Gray-market USD network formalization]]
+- [[fintech/singapore-mas-payment-services-act-overview|Singapore MAS Payment Services Act]]
 - [[fintech/hkma-stablecoin-licensing-overview|HKMA stablecoin licensing]]
-- [[fintech/india-anti-dollar-dpi-alliance|India anti-dollar DPI alliance]]
-- [[fintech/national-license-private-stablecoin-with-dpi-export|National-license SC + DPI export]]
-- [[fintech/mbridge-bis-multi-cbdc-overview|mBridge multi-CBDC]]
+- [[fintech/national-license-private-stablecoin-with-dpi-export|National-licence stablecoin と DPI export]]
 - [[fintech/stablecoin-crossborder-b2b-growth|B2B stablecoin cross-border growth]]
 - [[fintech/dual-currency-stablecoin-arbitrage-overview|Dual-currency stablecoin arbitrage]]
-- [[fintech/issuer-distributor-incentive-realignment-50-50-model|発行会社 / distributor 50/50 model]]
-- [[exchanges/sg-mas-dpt-licensing-overview|SG MAS DPT licensing]]
-- [[exchanges/global-vasp-regulatory-comparison-matrix|Global VASP regulatory matrix]]
+- [[fintech/issuer-distributor-incentive-realignment-50-50-model|Issuer / distributor contract model]]
 
-## 出典
+## Sources
 
-- Otoritas Jasa Keuangan — P2SK Law（UU 4/2023）後の監督移管声明。
-- Bank Indonesia — QRIS 標準化通達、BI-FAST 即時決済システム資料、Project Garuda CBDC 発表。
-- Bappebti — 暗号資産監督の段階的終了声明と最終PMA取引所名簿の引き継ぎ。
-- Monetary Authority of Singapore — PayNow-BI-FAST 二国間連携資料と DPT ライセンス名簿。
-- Bank for International Settlements — ASEAN+India 即時決済連結に関する Project Nexus ワーキングペーパー。
+- OJK / BI / Bappebti — 2025-01-10 付 supervision handover release: https://www.ojk.go.id/en/berita-dan-kegiatan/siaran-pers/Documents/Pages/Bappebti-Transfers-Regulation-and-Supervision-Duties-on-Digital-Financial-Assets-Crypto-Assets-and-Derivatives-to-OJK-BI/JPR%20Bappebti%20of%20Indonesian%20Ministry%20of%20Trades%20Transfers%20Regulation%20and%20Supervision%20Duties%20on%20Digital%20Financial%20Assets%20Crypto%20Assets%20and%20Derivatives%20to%20OJK%20and%20BI.pdf
+- Bank Indonesia — QRIS: https://www.bi.go.id/QRIS/default.aspx
+- Bank Indonesia — Project Garuda: https://www.bi.go.id/en/publikasi/ruang-media/cerita-bi/Pages/Project-Garuda.aspx
+- Bappebti — 公式 site: https://www.bappebti.go.id/en/

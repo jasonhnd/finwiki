@@ -1,171 +1,140 @@
 ---
 source: fintech/indonesia-ovo-stablecoin-route
-source_hash: e3e63a2e1ba18b82
+source_hash: e36205903b2e40fb
 lang: en
+model: manual-issue-239-provenance-repair
 status: machine
 fidelity: ok
-title: ""
-translated_at: 2026-05-31T07:28:06.132Z
+title: "Indonesia e-wallet and stablecoin route — regulator boundary and evidence checklist"
+translated_at: 2026-07-29T17:24:34.289Z
 ---
-﻿# Indonesia E-Wallet Ecosystem and Stablecoin Route
+# Indonesia e-wallet and stablecoin route — regulator boundary and evidence checklist
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]] and is the **Indonesia-specific deep dive** that the regional [[fintech/southeast-asia-stablecoin-regulatory-landscape]] entry references for OJK / BI mechanics and IDR-stablecoin gray-corridor flow. Read it with [[fintech/em-market-crypto-dollarization-pattern]] for the cross-EM behavioral baseline, [[fintech/gray-market-dollar-network-formalization]] for the structural pattern that USDT is following globally, and the issuer-distributor split in [[fintech/issuer-distributor-incentive-realignment-50-50-model]] for why platforms like OVO / GoPay / DANA / ShopeePay are strategically positioned for any future rupiah-stablecoin license.
+This entry sits under [[fintech/INDEX|fintech index]] and provides the Indonesia-specific evidence boundary used by [[fintech/southeast-asia-stablecoin-regulatory-landscape|Southeast Asia stablecoin regulation]]. Read it with [[fintech/gray-market-dollar-network-formalization|gray-market dollar-network formalization]] for a general analytical pattern and [[fintech/issuer-distributor-incentive-realignment-50-50-model|issuer / distributor economics]] for a contract-analysis framework. Those pages do not prove that an Indonesian wallet, bank, exchange, or payment firm is authorized to issue a rupiah token.
 
 > [!info] TL;DR
-> Indonesia's payments stack is dominated by **four e-wallet super-apps** — OVO (Grab + Lippo control), GoPay (GoTo Group), DANA (Ant Group + Emtek), ShopeePay (Sea Group) — running on top of BI's **QRIS** national QR rail. Crypto supervision moved from Bappebti to **OJK** effective 2025-01 under the P2SK Law, but **rupiah-pegged stablecoin issuance is not yet licensable** as of 2026-05. USD-stablecoin (USDT, USDC) circulates via licensed PMA exchanges (Tokocrypto, Indodax, Pintu, Reku, Triv, Pluang, Upbit Indonesia, Mobee) and through a **large informal P2P remittance corridor** between Indonesian diaspora in Singapore, Malaysia, Hong Kong, and Saudi Arabia. The strategic question for 2026-2027 is whether OJK + BI license an IDR-stablecoin, and whether the issuer ends up being one of the four e-wallets, a licensed bank (Bank Mandiri, BCA, BRI, BNI), or a new dedicated issuer.
+> Indonesia's public framework separates Bank Indonesia's payment-system and central-bank functions from OJK supervision of digital financial assets after the 2025-01 transfer from Bappebti. BI's **QRIS** and **Project Garuda** pages describe payment-standard and digital-rupiah work. The reviewed official sources do **not** create a dedicated rupiah-stablecoin issuance route, name an approved private issuer, authorize OVO / GoPay / DANA / ShopeePay to issue a token, rank crypto venues, or quantify a stablecoin remittance corridor. As of the 2026-07-30 review, any IDR-token claim requires a current regulation, licence-register entry, named legal-entity disclosure, and product-level evidence. ^[Regulator handover: https://www.ojk.go.id/en/berita-dan-kegiatan/siaran-pers/Documents/Pages/Bappebti-Transfers-Regulation-and-Supervision-Duties-on-Digital-Financial-Assets-Crypto-Assets-and-Derivatives-to-OJK-BI/JPR%20Bappebti%20of%20Indonesian%20Ministry%20of%20Trades%20Transfers%20Regulation%20and%20Supervision%20Duties%20on%20Digital%20Financial%20Assets%20Crypto%20Assets%20and%20Derivatives%20to%20OJK%20and%20BI.pdf; QRIS: https://www.bi.go.id/QRIS/default.aspx; Project Garuda: https://www.bi.go.id/en/publikasi/ruang-media/cerita-bi/Pages/Project-Garuda.aspx]
 
-## Regulatory boundary · OJK vs BI vs Bappebti
+## Regulatory boundary · OJK, BI and Bappebti
 
-| Function | Authority | Scope |
+The table summarizes the [OJK / BI / Bappebti joint handover release dated 2025-01-10](https://www.ojk.go.id/en/berita-dan-kegiatan/siaran-pers/Documents/Pages/Bappebti-Transfers-Regulation-and-Supervision-Duties-on-Digital-Financial-Assets-Crypto-Assets-and-Derivatives-to-OJK-BI/JPR%20Bappebti%20of%20Indonesian%20Ministry%20of%20Trades%20Transfers%20Regulation%20and%20Supervision%20Duties%20on%20Digital%20Financial%20Assets%20Crypto%20Assets%20and%20Derivatives%20to%20OJK%20and%20BI.pdf), the [Bank Indonesia QRIS page](https://www.bi.go.id/QRIS/default.aspx), and the [Project Garuda page](https://www.bi.go.id/en/publikasi/ruang-media/cerita-bi/Pages/Project-Garuda.aspx), reviewed 2026-07-30.
+
+| Function or claim | Evidence-backed boundary |
+|---|---|
+| Payment system, rupiah and central-bank money | BI materials are the primary source for QRIS, payment-system rules and Project Garuda |
+| Digital financial assets including crypto assets | The joint release records the transfer of relevant regulation and supervision duties to OJK and BI |
+| Historical commodity-supervision route | Bappebti transferred the stated digital-financial-asset / crypto duties on 2025-01-10 |
+| Private rupiah-stablecoin issuance | No dedicated issuance route is established by the cited handover, QRIS or Project Garuda pages |
+| E-wallet or exchange token authorization | Must be shown in a current regulator register or named approval; ecosystem association is insufficient |
+
+The handover changes the responsible supervisory perimeter. It does not itself grant a stablecoin licence, approve a reserve model, authorize distribution through QRIS, or identify a private issuer.
+
+## What the current sources establish
+
+The following table keeps direct regulator facts separate from claims that need additional first-party evidence. It uses the same [joint handover release](https://www.ojk.go.id/en/berita-dan-kegiatan/siaran-pers/Documents/Pages/Bappebti-Transfers-Regulation-and-Supervision-Duties-on-Digital-Financial-Assets-Crypto-Assets-and-Derivatives-to-OJK-BI/JPR%20Bappebti%20of%20Indonesian%20Ministry%20of%20Trades%20Transfers%20Regulation%20and%20Supervision%20Duties%20on%20Digital%20Financial%20Assets%20Crypto%20Assets%20and%20Derivatives%20to%20OJK%20and%20BI.pdf), [QRIS page](https://www.bi.go.id/QRIS/default.aspx), and [Project Garuda page](https://www.bi.go.id/en/publikasi/ruang-media/cerita-bi/Pages/Project-Garuda.aspx).
+
+| Claim class | Current conclusion | Evidence needed for a stronger claim |
 |---|---|---|
-| Banking / payment system / FX / monetary policy | Bank Indonesia (BI) | QRIS, BI-FAST, rupiah, FX regime, Project Garuda CBDC |
-| Capital markets + non-bank financial services + (since 2025-01) crypto | Otoritas Jasa Keuangan (OJK) | Exchanges, custody, stablecoin licensing (pending) |
-| Commodity futures + historical crypto regulator (2018-2024) | Bappebti | Phase-out of crypto supervision, future commodities only |
-| E-money issuer license | BI under PBI 23/6/PBI/2021 | OVO, GoPay, DANA, ShopeePay, LinkAja, others |
-| Remittance license (PJP) | BI under PBI 22/23/PBI/2020 | Cross-border transfer service providers |
+| Supervisory transfer | Confirmed by the 2025-01-10 joint release | Later regulation if the perimeter changes |
+| QRIS exists as BI payment infrastructure | Confirmed by BI's QRIS page | Dated BI statistics for merchant or transaction scale |
+| Project Garuda is BI's digital-rupiah workstream | Confirmed by BI's Project Garuda page | A later BI decision for production issuance or a named deployment |
+| Dedicated private IDR-stablecoin route | Not established by the reviewed sources | Regulation, effective date, application procedure and regulator register |
+| Named approved issuer or distributor | Not established by the reviewed sources | Named approval tied to a legal entity and product |
+| Venue ranking, stablecoin market share or pair depth | Not established by the reviewed sources | Reproducible dated venue data with methodology |
+| Informal remittance or trade-settlement volume | Not established by the reviewed sources | Dated corridor dataset with source, geography and measurement method |
 
-**Key transition**: The **P2SK Law (UU 4/2023)** restructured Indonesia's financial supervision. Crypto / digital financial asset supervision officially moved from Bappebti (commodity-derivatives framing) to OJK (financial-services framing) with effect 2025-01. The transition implicitly opens the door to **prudential-style stablecoin licensing** (closer to MAS SCS or HKMA models) rather than the previous commodity-trading framing.
+## E-wallet and corporate-relationship checklist
 
-The contrast with neighboring jurisdictions is sharp — see [[fintech/singapore-mas-payment-services-act-overview]] for the MAS PS Act framing and [[fintech/hkma-stablecoin-licensing-overview]] for the HKMA dedicated-license model. OJK has signalled a framework but has not committed a date.
+OVO, GoPay, DANA and ShopeePay are included as due-diligence subjects because prior versions made issuer predictions about them. The [joint handover release](https://www.ojk.go.id/en/berita-dan-kegiatan/siaran-pers/Documents/Pages/Bappebti-Transfers-Regulation-and-Supervision-Duties-on-Digital-Financial-Assets-Crypto-Assets-and-Derivatives-to-OJK-BI/JPR%20Bappebti%20of%20Indonesian%20Ministry%20of%20Trades%20Transfers%20Regulation%20and%20Supervision%20Duties%20on%20Digital%20Financial%20Assets%20Crypto%20Assets%20and%20Derivatives%20to%20OJK%20and%20BI.pdf), [QRIS page](https://www.bi.go.id/QRIS/default.aspx), and [Project Garuda page](https://www.bi.go.id/en/publikasi/ruang-media/cerita-bi/Pages/Project-Garuda.aspx) do not prove their ownership, current licence scope, active-user scale, token programme, or stablecoin authorization. Each field must be checked against a dated BI register and the relevant company's first-party disclosure.
 
-### OVO · Lippo origin, Grab control, Tokopedia partner
+Table evidence boundary: [OJK / BI / Bappebti handover release](https://www.ojk.go.id/en/berita-dan-kegiatan/siaran-pers/Documents/Pages/Bappebti-Transfers-Regulation-and-Supervision-Duties-on-Digital-Financial-Assets-Crypto-Assets-and-Derivatives-to-OJK-BI/JPR%20Bappebti%20of%20Indonesian%20Ministry%20of%20Trades%20Transfers%20Regulation%20and%20Supervision%20Duties%20on%20Digital%20Financial%20Assets%20Crypto%20Assets%20and%20Derivatives%20to%20OJK%20and%20BI.pdf).
 
-- **Ownership**: Originally Lippo Group; Grab acquired controlling stake 2021; further consolidation 2024-2025.
-- **License**: BI e-money issuer + payment service provider (PJP); regulated as e-money under PBI 23/6/PBI/2021.
-- **Scale**: Hundreds of millions of registered accounts (reported), tens of millions monthly active; deeply integrated with Grab ride-hailing and Tokopedia e-commerce.
-- **Crypto angle**: Not a direct crypto issuer. However, Grab Financial Group operates GXBank in Malaysia and has a Singapore SCS-adjacent posture; the Grab-side capability could be ported to Indonesia if OJK opens an IDR-SC license track.
-
-### GoPay · GoTo (Gojek + Tokopedia merger)
-
-- **Ownership**: GoTo Financial, the financial arm of the GoTo Group (Gojek-Tokopedia merger, listed on IDX 2022).
-- **License**: BI e-money + PJP + GoPaylater (BNPL via licensed multifinance entity).
-- **Scale**: Reported 25M+ monthly active users on the GoPay app launched 2023; ecosystem reach via Gojek and Tokopedia.
-- **Crypto angle**: GoTo Group hosts the **GoTo Treasury** / **Mitra Pajakku** financial-services stack, with experimental tokenization pilots. No direct stablecoin issuance to date; would require OJK + BI joint authorization.
-
-### DANA · Ant Group + Emtek
-
-- **Ownership**: DANA Indonesia, joint venture between Ant Group (Alipay) and Emtek (Indonesian media conglomerate).
-- **License**: BI e-money + PJP.
-- **Scale**: Tens of millions of monthly active users; broad merchant acceptance via QRIS.
-- **Crypto angle**: Most direct Mainland-China-affiliated channel into Indonesian payments. Ant International's HK stablecoin license application (see [[fintech/hkma-stablecoin-licensing-overview]]) creates a potential cross-jurisdictional bridge if HKMA approves and OJK liberalizes IDR-SC simultaneously — a low-probability but high-impact scenario in 2027-2028.
-
-### ShopeePay · Sea Group
-
-- **Ownership**: Sea Limited (NYSE: SE), parent of Shopee, SeaMoney, Garena.
-- **License**: BI e-money + PJP; SeaBank Indonesia as the licensed banking entity.
-- **Scale**: Embedded in Shopee marketplace at scale; SeaBank Indonesia provides deposit and lending products.
-- **Crypto angle**: Sea historically operates a more compliance-conservative posture vs the other three super-apps. Sea's Singapore HQ allows it to participate in MAS DPT licensing for crypto exposure rather than seeking direct Indonesian stablecoin issuance.
-
-### Cross-comparison
-
-| Wallet | Controlling parent | Foreign payment-platform DNA | Likely IDR-SC posture |
-|---|---|---|---|
-| OVO | Grab (SG-listed via NASDAQ) + Lippo | Grab Financial Group SG | High capacity, moderate appetite |
-| GoPay | GoTo (IDX-listed) | Domestic Indonesian | High capacity, high appetite |
-| DANA | Ant Group + Emtek | Alipay China | High capacity, high appetite, political sensitivity |
-| ShopeePay | Sea Group (NYSE) | Compliance-conservative SG | Moderate capacity, low appetite |
-
-### Why an e-wallet would (or would not) want a stablecoin license
-
-The strategic case for an e-wallet to seek IDR-SC issuance turns on **whether the wallet wants to capture interchange-equivalent economics on payment flows** vs **whether it wants to remain a thin distribution layer**. The same trade-off is examined in [[fintech/issuer-distributor-incentive-realignment-arc-strategy]] and the broader [[fintech/usd-stablecoin-interchange]] framing. For an Indonesian e-wallet:
-
-- **In favor of issuing**: captures float / NIM on the underlying reserve assets, locks distribution to the wallet, defends against bank-issued tokenized-deposit substitution.
-- **Against issuing**: prudential capital floor, additional supervision under OJK + BI joint regime, potential cannibalization of existing e-money revenue model.
-
-The same calculus drove Stripe to acquire Bridge (see [[fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse]] and [[fintech/regulatory-window-strategic-acquisition]]) and shapes the [[fintech/protocol-hedge-strategy-stripe-pattern]] adopted by other distribution-layer players globally.
-
-## The QRIS rail and what it does to a stablecoin
-
-**QRIS** is BI's standardized QR-code payment standard, mandatory for all e-money and bank-issued QR payment acceptance since 2020. By 2026, QRIS has hundreds of millions of merchant touchpoints and is the **default rail for retail payments below IDR 10M per transaction**. The structural implication for any rupiah-stablecoin licensing:
-
-1. A licensed IDR-SC would have to **interoperate with QRIS** to capture retail use cases.
-2. QRIS interlinkages with **Project Nexus** (BIS-led ASEAN+India instant payment linkup) and bilateral linkages with Singapore PayNow (2023), Malaysia DuitNow (2023), Thailand PromptPay (2023) provide a **non-stablecoin** answer to cross-border remittance — directly competing with USDT P2P corridors.
-3. BI's **Project Garuda** wholesale CBDC pilot (Hyperledger-based, two-tier architecture) is designed to sit upstream of QRIS rather than replace it, leaving a structural slot for a **commercial-bank-issued tokenized deposit** product distinct from a non-bank stablecoin license. The analog is the institutional-deposit-token framing in [[fintech/institutional-stablecoin-deposit-token-thesis]] and the Japanese trust / bank / funds-transfer split in [[fintech/japan-stablecoin-regulatory-landscape]].
-
-### On-chain / licensed venue
-
-- **Tokocrypto** (Binance-affiliated until 2024 spin-off, now domestic-controlled): largest by volume, deep IDR-USDT pair.
-- **Indodax**: long-running domestic exchange, IDR-stablecoin spot.
-- **Pintu**: mobile-first, partnership with neobanks.
-- **Reku**, **Triv**, **Pluang**, **Upbit Indonesia** (Dunamu partner), **Mobee**: rounding out the licensed PMA roster.
-
-USDT is the dominant stablecoin by retail volume; USDC has grown share post-2024 as institutional-grade onramps expand.
-
-### Off-chain / P2P / informal
-
-- **Diaspora remittance corridors**: Singapore-Indonesia, Malaysia-Indonesia, Hong Kong-Indonesia, Saudi Arabia-Indonesia. Indonesian migrant workers in these markets use **USDT-Tron** as the value-transfer layer, with last-mile IDR conversion via local OTC desks or P2P on Binance / OKX / Bybit.
-- **Cross-border e-commerce settlement**: Smaller Indonesian importers buying from China use USDT as the payment layer to bypass formal FX settlement frictions.
-- **The grey-market behavioral pattern**: identical to what [[fintech/em-market-crypto-dollarization-pattern]] documents for Nigeria, Argentina, Mexico. Indonesia's rank in the Chainalysis Global Crypto Adoption Index has consistently been top-tier driven by these flows rather than by speculation.
-
-## Pending IDR-stablecoin licensing scenarios
-
-| Scenario | Likely issuer profile | Probability 2026-2027 |
+| Subject | Verify before stating current status | Conclusion from sources reviewed here |
 |---|---|---|
-| OJK + BI license a bank-issued IDR-SC (Mandiri, BCA, BRI, BNI) | Tokenized deposit framing | Moderate |
-| OJK licenses a non-bank IDR-SC issued by a recognized e-money player | OVO / GoPay / DANA / ShopeePay | Lower |
-| OJK + BI license a consortium-backed IDR-SC | Multi-bank or e-money + bank JV | Moderate |
-| OJK permits a licensed PMA exchange to issue exchange-IDR | Tokocrypto / Indodax | Low |
-| No IDR-SC license issued in 2026-2027 | Status quo | Highest |
+| OVO | Legal entity, current ownership, BI licence scope, named OJK / BI token approval | No stablecoin issuance authorization established |
+| GoPay | Legal entity, current ownership, BI licence scope, dated user metric, named token programme | No stablecoin issuance authorization established |
+| DANA | Legal entity, current ownership, BI licence scope, named Indonesian token approval | No stablecoin issuance authorization established |
+| ShopeePay | Legal entity, current ownership, BI licence scope, named Indonesian token approval | No stablecoin issuance authorization established |
 
-The most likely path, given the BI / OJK posture and the political weight of bank-stability arguments, is a **bank-issued or consortium-issued** IDR-SC framed as a tokenized deposit rather than a non-bank stablecoin. This mirrors the trust-type EPI dominance in Japan (see [[fintech/japan-epi-three-types-overview]] and [[fintech/jp-trust-type-sc-architecture]]) and the Brazilian DREX direction documented in [[fintech/brazil-drex-timeline-2026]].
+Brand association, marketplace reach, foreign affiliates, headquarters location, or user-count claims must not be used as substitutes for Indonesian product authorization. This page therefore makes no inference about issuer motivation, float income, net-interest margin, cannibalization, acquisition strategy, or comparative compliance posture.
 
-### Capital and reserve framework expectations
+## QRIS and Project Garuda · stated status only
 
-If OJK adopts a MAS-SCS-aligned template, the prudential floor would likely include:
-- 100% reserve in cash, central-bank deposits, or short-dated rupiah-denominated sovereign paper.
-- Segregated custody at OJK-supervised institutions.
-- Monthly or daily reserve attestation by an OJK-recognized auditor.
-- A dedicated capital floor for non-bank issuers (likely in the IDR 10-50 billion range based on regional comparables).
-- AML/CFT obligations including Travel Rule compliance (see [[fintech/fatf-travel-rule-overview]] and [[fintech/fatf-travel-rule-cross-border-stack]]).
+The [BI QRIS page](https://www.bi.go.id/QRIS/default.aspx) is the primary source for QRIS, while the [Project Garuda page](https://www.bi.go.id/en/publikasi/ruang-media/cerita-bi/Pages/Project-Garuda.aspx) is the primary source for BI's digital-rupiah initiative.
 
-If OJK instead defers to BI's preference for **bank-issued tokenized deposits**, the framework would extend existing prudential banking regulation to a tokenized-deposit product rather than create a new license category — the analog to Brazil's DREX architecture documented in [[fintech/brazil-drex-timeline-2026]].
+| Workstream | Directly supported statement | Do not infer |
+|---|---|---|
+| QRIS | BI publishes the national QR-payment standard and related official material | Merchant scale without a dated statistic; a mandatory stablecoin-integration route; token authorization |
+| Project Garuda | BI publishes a digital-rupiah project page | That a private stablecoin must sit downstream; that a bank token has a reserved market slot; production issuance |
+| Cross-border payment links | Must be sourced to the specific BI / counterpart announcement | That an instant-payment link is a CBDC or stablecoin corridor; that it competes with a quantified P2P market |
 
-### Strategic position of foreign-issued USD stablecoins inside Indonesia
+The existence of QRIS or Project Garuda does not establish a particular private-token architecture, commercial incentive, or launch sequence.
 
-A separate question is whether OJK creates a recognition pathway for **foreign-licensed USD stablecoins** (USDC under GENIUS, JPY-USDC under SBI Circle, future MAS-SCS USD variants) to be distributed inside Indonesia through licensed PMA exchanges in a more formalized capacity than today's commodity-classified treatment. The closest analog is Japan's distributor model (see [[fintech/japan-stablecoin-regulatory-landscape]] and [[fintech/japan-epi-three-types-overview]]) and the strategic value-chain implications mapped in [[fintech/japan-epi-four-camps-comparison]]. The three-circles MRA framework in [[fintech/three-circles-stablecoin-mra-framework]] and its 2030 economic scale view in [[fintech/three-circles-mra-2030-economic-scale]] are the broader policy backdrop.
+## Crypto venues and stablecoin activity · evidence boundary
 
-## Cross-border IDR-SGD bridges
+The 2025-01-10 handover release establishes a supervisory transition, not venue-level product facts. Before naming any Indonesian venue as licensed, largest, deepest, dominant, or authorized to distribute a stablecoin, verify:
 
-Singapore-Indonesia is the **highest-volume regional corridor** for Indonesian diaspora remittance and SME trade settlement. The competing rails in 2026:
+1. the current OJK or BI register entry and exact legal entity;
+2. the permitted activity and whether it covers the named product;
+3. a dated first-party product page for the trading pair or service;
+4. reproducible volume, liquidity or market-share data with methodology; and
+5. whether issuance, trading, custody and distribution permissions are legally distinct.
 
-1. **PayNow ↔ BI-FAST bilateral linkage** (under Project Nexus framework, BIS-led). Live for retail under volume caps.
-2. **Bank-correspondent SWIFT** — legacy rail, still dominant in corporate-treasury volume.
-3. **USDT-Tron / USDC-Solana via licensed PMA exchanges plus Singapore DPT licensees** (see [[exchanges/sg-mas-dpt-licensing-overview]]) — fast, narrow KYC envelope at each leg.
-4. **Informal USDT P2P** — fastest, cheapest, lowest visibility; OJK and MAS are jointly trying to compress this corridor.
+The reviewed sources do not support claims that USDT is dominant by Indonesian retail volume, that a named exchange has the deepest IDR pair, or that diaspora workers, importers, OTC desks or P2P users generate a quantified corridor. They also do not establish the cause of any adoption-index ranking.
 
-The corridor's economics are also affected by the broader B2B stablecoin growth pattern in [[fintech/stablecoin-crossborder-b2b-growth]] and by the dual-currency arbitrage dynamic in [[fintech/dual-currency-stablecoin-arbitrage-overview]] when traders run rupiah-Sing-dollar legs. The dual-currency-arbitrage legal mechanics covered in [[fintech/dual-currency-stablecoin-arbitrage-legal-hack]] explain why this corridor remains profitable even with both ends formally regulated.
+## Possible routes · scenario checklist, not forecast
 
-### Indonesia ↔ Hong Kong as a second-order corridor
+The following table starts from the [joint handover release](https://www.ojk.go.id/en/berita-dan-kegiatan/siaran-pers/Documents/Pages/Bappebti-Transfers-Regulation-and-Supervision-Duties-on-Digital-Financial-Assets-Crypto-Assets-and-Derivatives-to-OJK-BI/JPR%20Bappebti%20of%20Indonesian%20Ministry%20of%20Trades%20Transfers%20Regulation%20and%20Supervision%20Duties%20on%20Digital%20Financial%20Assets%20Crypto%20Assets%20and%20Derivatives%20to%20OJK%20and%20BI.pdf) and [Project Garuda](https://www.bi.go.id/en/publikasi/ruang-media/cerita-bi/Pages/Project-Garuda.aspx). The rows are due-diligence scenarios and carry no probability.
 
-A smaller but important corridor exists between Indonesia and Hong Kong, driven by Indonesian-Chinese diaspora flows, Indonesian-incorporated entities with Hong Kong banking, and the cross-jurisdictional Ant International / DANA relationship. If HKMA approves a USD-pegged stablecoin from a Mainland-Chinese-affiliated issuer in 2027 (see [[fintech/hkma-stablecoin-licensing-implications]]), the Indonesia-HK corridor could become the **first stablecoin corridor with a regulated Chinese-affiliated USD-stablecoin at one end**, materially changing the regional competitive map vs USDT-Tron's current dominance.
+| Scenario | Minimum confirming evidence | Status from reviewed sources |
+|---|---|---|
+| Bank tokenized-deposit route | Banking rule, named bank approval, product terms and ledger / redemption documentation | Not established |
+| Non-bank rupiah stablecoin route | Issuance rule, named issuer licence, reserves, custody, redemption and disclosure terms | Not established |
+| Consortium route | Named participants, regulator approval, governance and liability documents | Not established |
+| Exchange-issued rupiah token | Issuer permission distinct from venue trading permission | Not established |
+| Wholesale digital-rupiah route | BI publication naming the phase, participants and operational status | Project Garuda is the official reference; production status must be checked there |
+| Foreign-token distribution route | Recognition rule, distributor approval and product-specific permission | Not established |
 
-### Indonesia ↔ Saudi Arabia / UAE remittance
+No reserve percentage, asset list, attestation interval, capital floor, probability, or preferred issuer type should be imported from Singapore or another jurisdiction. A future Indonesian claim must come from Indonesian regulation and product-level disclosure.
 
-The Indonesian migrant-worker population in Saudi Arabia and the UAE generates a substantial remittance corridor back to Indonesia. The Middle East side increasingly uses regulated USD-stablecoin onramps (UAE VARA-licensed venues) plus informal USDT, while the Indonesia side absorbs through PMA exchanges or informal P2P. The architectural parallel to the Aramco / sovereign-capital position in [[fintech/sovereign-capital-pool-aramco-anchor]] and the broader [[fintech/sovereign-fund-crypto-allocation-pattern]] is worth noting for the institutional layer of this corridor.
+## Evidence packet for any future IDR-token claim
+
+A publication-ready claim should include all applicable items:
+
+- regulation title, regulator, effective date and official URL;
+- licence-register entry, legal entity and permitted activity;
+- named issuer, distributor and custodian roles;
+- reserve assets, segregation, custody and attestation requirements;
+- redemption right, timing, fees and eligible customer scope;
+- token contract, network and authoritative product page;
+- distribution or venue approval distinct from issuance approval;
+- dated quantitative data with denominator, geography and methodology; and
+- explicit separation of live status, pilot status, proposal and analyst scenario.
+
+If one of these elements is unavailable, label it `not established` rather than filling the gap with an affiliate relationship, user-scale estimate, regional analogy, or market forecast.
+
+## Cross-border boundary
+
+The reviewed regulator pages do not establish a stablecoin corridor between Indonesia and Singapore, Hong Kong, the Middle East, or any other market. A payment-system linkage, remittance flow, crypto-venue presence and stablecoin settlement route are distinct claims. Each requires its own official or reproducible source, and none should be inferred from QRIS, Project Garuda, a corporate affiliate, or a foreign licence.
 
 ## Related
 
-- [[fintech/INDEX|Wiki Index]]
-- [[fintech/southeast-asia-stablecoin-regulatory-landscape|SE Asia regulatory landscape]]
+- [[fintech/INDEX|Fintech index]]
+- [[fintech/southeast-asia-stablecoin-regulatory-landscape|Southeast Asia regulatory landscape]]
 - [[fintech/em-market-crypto-dollarization-pattern|EM crypto-dollarization pattern]]
-- [[fintech/gray-market-dollar-network-formalization|Gray market USD network formalization]]
-- [[fintech/singapore-mas-payment-services-act-overview|MAS PS Act + SCS]]
+- [[fintech/gray-market-dollar-network-formalization|Gray-market USD network formalization]]
+- [[fintech/singapore-mas-payment-services-act-overview|Singapore MAS Payment Services Act]]
 - [[fintech/hkma-stablecoin-licensing-overview|HKMA stablecoin licensing]]
-- [[fintech/india-anti-dollar-dpi-alliance|India anti-dollar DPI alliance]]
-- [[fintech/national-license-private-stablecoin-with-dpi-export|National-license SC + DPI export]]
-- [[fintech/mbridge-bis-multi-cbdc-overview|mBridge multi-CBDC]]
+- [[fintech/national-license-private-stablecoin-with-dpi-export|National-licence stablecoin and DPI export]]
 - [[fintech/stablecoin-crossborder-b2b-growth|B2B stablecoin cross-border growth]]
 - [[fintech/dual-currency-stablecoin-arbitrage-overview|Dual-currency stablecoin arbitrage]]
-- [[fintech/issuer-distributor-incentive-realignment-50-50-model|Issuer / distributor 50/50 model]]
-- [[exchanges/sg-mas-dpt-licensing-overview|SG MAS DPT licensing]]
-- [[exchanges/global-vasp-regulatory-comparison-matrix|Global VASP regulatory matrix]]
+- [[fintech/issuer-distributor-incentive-realignment-50-50-model|Issuer / distributor contract model]]
 
 ## Sources
 
-- Otoritas Jasa Keuangan — supervision-transition statements following P2SK Law (UU 4/2023).
-- Bank Indonesia — QRIS standardization circulars, BI-FAST instant payment system materials, Project Garuda CBDC announcements.
-- Bappebti — crypto-supervision phase-out statements and final PMA exchange roster handover.
-- Monetary Authority of Singapore — PayNow-BI-FAST bilateral linkage materials and DPT licensing roster.
-- Bank for International Settlements — Project Nexus working papers on ASEAN+India instant-payment interlink.
+- OJK / BI / Bappebti — supervisory handover release dated 2025-01-10: https://www.ojk.go.id/en/berita-dan-kegiatan/siaran-pers/Documents/Pages/Bappebti-Transfers-Regulation-and-Supervision-Duties-on-Digital-Financial-Assets-Crypto-Assets-and-Derivatives-to-OJK-BI/JPR%20Bappebti%20of%20Indonesian%20Ministry%20of%20Trades%20Transfers%20Regulation%20and%20Supervision%20Duties%20on%20Digital%20Financial%20Assets%20Crypto%20Assets%20and%20Derivatives%20to%20OJK%20and%20BI.pdf
+- Bank Indonesia — QRIS: https://www.bi.go.id/QRIS/default.aspx
+- Bank Indonesia — Project Garuda: https://www.bi.go.id/en/publikasi/ruang-media/cerita-bi/Pages/Project-Garuda.aspx
+- Bappebti — official site: https://www.bappebti.go.id/en/

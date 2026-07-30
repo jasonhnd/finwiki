@@ -28,8 +28,8 @@
     "domain": "fintech",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-11-25",
     "confidence": "likely",
     "tags": [
@@ -55,36 +55,38 @@
     "related": [],
     "note": null,
     "sources": [
-      "https://www.bcb.gov.br/en/financialstability/drex_en",
-      "https://www.bcb.gov.br/en/pressdetail/2438/nota",
+      "https://www.bcra.gob.ar/noticias/inicio-de-la-fase-3-del-programa-economico/",
+      "https://www.cnv.gov.ar/SitioWeb/RegistrosPublicos/Psav",
+      "https://www.bcb.gov.br/estabilidadefinanceira/piloto-drex",
+      "https://www.bcb.gov.br/en/pressdetail/2601/nota",
       "https://www.banxico.org.mx/sistemas-de-pago/codi-cobro-digital-banco-mexic.html",
-      "https://www.banxico.org.mx/sistemas-de-pago/",
-      "https://www.bcra.gob.ar/SistemasFinancierosYdePagos/Sistemas_de_pagos.asp",
-      "https://www.bcv.org.ve/",
-      "https://www.banrep.gov.co/en",
-      "https://www.bcrp.gob.pe/",
-      "https://www.bcr.gob.sv/",
-      "https://www.bis.org/about/bisih/topics/cbdc.htm"
+      "https://www.banxico.org.mx/publicaciones-y-prensa/informes-de-avance-de-gestion-financiera/%7B08B1A759-EECD-C59F-C0F9-153960E76E77%7D.pdf",
+      "https://www.banrep.gov.co/es/moneda-digital-banco-central-colombia",
+      "https://www.bcrp.gob.pe/docs/Publicaciones/reporte-del-sistema-nacional-de-pagos/2025/marzo/rspf-marzo-2025.pdf",
+      "https://www.asamblea.gob.sv/sites/default/files/documents/decretos/FC2C7E66-490B-4420-B8B5-221C2F2A4C28.pdf",
+      "https://www.imf.org/-/media/files/publications/cr/2025/english/1slvea2025001-print-pdf.pdf",
+      "https://www.bcv.org.ve/"
     ]
   },
   "summary": "This entry sits under fintech index and is the Latin American regional view that complements the dedicated fintech/brazil-drex-timeline-2026 entry (per-jurisdiction deep dive on Brazil) and sits opposite the fintech/southeast-asia-stablecoin-regulatory-landscape regional view. Read it with fintech/e",
   "headings": [
     "Latin America CBDC and USD-Stablecoin Dynamics",
     "Wiki route",
-    "Why Latin America matters for the global stablecoin map",
-    "Argentina · USDT economy + Milei reforms",
-    "Brazil · DREX + Pix + private-rail stablecoin competition",
-    "Mexico · Banxico CoDi vs stablecoin",
-    "Colombia and Peru · gray-market USDC use",
-    "El Salvador · BTC legal tender + USDC dual policy",
-    "Venezuela · petro defunct, USDT remittance economy",
-    "Cross-country comparison matrix"
+    "Evidence rules for the regional comparison",
+    "Official-source jurisdiction notes",
+    "Argentina",
+    "Brazil",
+    "Mexico",
+    "Colombia",
+    "Peru",
+    "El Salvador"
   ],
   "body_links": {
     "wikilinks_count": 18,
     "wikilinks": [
       "exchanges/global-vasp-regulatory-comparison-matrix",
       "fintech/INDEX",
+      "fintech/argentina-usdt-formalization",
       "fintech/brazil-drex-timeline-2026",
       "fintech/cbdc-multi-tier-architecture-overview",
       "fintech/em-market-crypto-dollarization-pattern",
@@ -93,7 +95,6 @@
       "fintech/gray-market-dollar-network-formalization",
       "fintech/india-anti-dollar-dpi-alliance",
       "fintech/institutional-stablecoin-deposit-token-thesis",
-      "fintech/japan-epi-three-types-overview",
       "fintech/japan-stablecoin-regulatory-landscape",
       "fintech/jurisdiction-list-monetary-protectionism",
       "fintech/mbridge-bis-multi-cbdc-overview",
@@ -105,6 +106,7 @@
     "resolved_wikilinks": [
       "https://finwiki.zksc.io/ja/exchanges/global-vasp-regulatory-comparison-matrix/",
       "https://finwiki.zksc.io/ja/domains/fintech/",
+      "https://finwiki.zksc.io/ja/fintech/argentina-usdt-formalization/",
       "https://finwiki.zksc.io/ja/fintech/brazil-drex-timeline-2026/",
       "https://finwiki.zksc.io/ja/fintech/cbdc-multi-tier-architecture-overview/",
       "https://finwiki.zksc.io/ja/fintech/em-market-crypto-dollarization-pattern/",
@@ -113,7 +115,6 @@
       "https://finwiki.zksc.io/ja/fintech/gray-market-dollar-network-formalization/",
       "https://finwiki.zksc.io/ja/fintech/india-anti-dollar-dpi-alliance/",
       "https://finwiki.zksc.io/ja/fintech/institutional-stablecoin-deposit-token-thesis/",
-      "https://finwiki.zksc.io/ja/fintech/japan-epi-three-types-overview/",
       "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
       "https://finwiki.zksc.io/ja/fintech/jurisdiction-list-monetary-protectionism/",
       "https://finwiki.zksc.io/ja/fintech/mbridge-bis-multi-cbdc-overview/",
@@ -122,13 +123,25 @@
       "https://finwiki.zksc.io/ja/fintech/sovereign-fund-crypto-allocation-pattern/",
       "https://finwiki.zksc.io/ja/fintech/stablecoin-crossborder-b2b-growth/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 11,
+    "external_links": [
+      "https://www.asamblea.gob.sv/sites/default/files/documents/decretos/FC2C7E66-490B-4420-B8B5-221C2F2A4C28.pdf",
+      "https://www.banrep.gov.co/es/moneda-digital-banco-central-colombia",
+      "https://www.banxico.org.mx/publicaciones-y-prensa/informes-de-avance-de-gestion-financiera/%7B08B1A759-EECD-C59F-C0F9-153960E76E77%7D.pdf",
+      "https://www.banxico.org.mx/sistemas-de-pago/codi-cobro-digital-banco-mexic.html",
+      "https://www.bcb.gov.br/en/pressdetail/2601/nota",
+      "https://www.bcb.gov.br/estabilidadefinanceira/piloto-drex",
+      "https://www.bcra.gob.ar/noticias/inicio-de-la-fase-3-del-programa-economico/",
+      "https://www.bcrp.gob.pe/docs/Publicaciones/reporte-del-sistema-nacional-de-pagos/2025/marzo/rspf-marzo-2025.pdf",
+      "https://www.bcv.org.ve/",
+      "https://www.cnv.gov.ar/SitioWeb/RegistrosPublicos/Psav",
+      "https://www.imf.org/-/media/files/publications/cr/2025/english/1slvea2025001-print-pdf.pdf"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 14925,
-    "word_like_tokens": 2419,
+    "nonspace_chars": 11850,
+    "word_like_tokens": 1951,
     "inbound_wikilinks_count": 1,
-    "last_modified": "2026-05-29"
+    "last_modified": "2026-07-30"
   }
 }

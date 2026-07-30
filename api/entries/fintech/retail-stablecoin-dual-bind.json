@@ -11,10 +11,10 @@
   "github_url": "https://github.com/jasonhnd/finwiki/blob/main/fintech/retail-stablecoin-dual-bind.md",
   "raw_markdown_url": "https://finwiki.zksc.io/fintech/retail-stablecoin-dual-bind.md",
   "domain": "fintech",
-  "title": "リテール用ステーブルコインは「銀行発行 vs パーミッションレス UX」の二律背反に陥る — 決済レイヤー単独では勝ち筋がない",
+  "title": "リテール向けステーブルコイン · 規制管理とオープン UX の設計トレードオフ",
   "entry_type": "wiki_entry",
   "frontmatter": {
-    "title": "リテール用ステーブルコインは「銀行発行 vs パーミッションレス UX」の二律背反に陥り、決済レイヤー単独では勝ち筋がない",
+    "title": "リテール向けステーブルコイン · 規制管理とオープン UX の設計トレードオフ",
     "aliases": [
       "retail-sc-dual-bind",
       "retail-stablecoin-trap"
@@ -22,8 +22,8 @@
     "domain": "fintech",
     "type": null,
     "created": "2026-05-12",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-06-24",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-08-08",
     "confidence": "likely",
     "tags": [
@@ -31,19 +31,19 @@
       "stablecoin",
       "retail"
     ],
-    "status": "confirmed",
+    "status": "active",
     "canonical_anchor": null,
     "related": [],
     "note": null,
     "sources": [
       "https://www.fsa.go.jp/menkyo/menkyoj/denshikessaisyudan.xlsx",
       "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf",
-      "Public company and regulator disclosures on Japanese EPI / funds-transfer stablecoin routes."
+      "https://www.fsa.go.jp/policy/virtual_currency02/index.html"
     ]
   },
   "summary": "This entry sits under fintech index. Read it with 日本金融規制 — トークン・暗号資産・決済に関する法体系 for adjacent context and 日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax） for the broader system boundary.",
   "headings": [
-    "リテール用ステーブルコインは「銀行発行 vs パーミッションレス UX」の二律背反に陥る — 決済レイヤー単独では勝ち筋がない",
+    "リテール向けステーブルコイン · 規制管理とオープン UX の設計トレードオフ",
     "Wiki route",
     "Conclusion",
     "Reasoning",
@@ -52,7 +52,7 @@
     "Related"
   ],
   "body_links": {
-    "wikilinks_count": 12,
+    "wikilinks_count": 11,
     "wikilinks": [
       "INDEX",
       "agent-economy/privy-embedded-wallet-overview",
@@ -64,7 +64,6 @@
       "fintech/japan-stablecoin-regulatory-landscape",
       "fintech/maina-wallet-kyc-permissionless-ux-bridge",
       "fintech/onchain-finance-vs-crypto-bifurcation",
-      "fintech/stablecoin-channel-japan-sbi-jpyc-ring",
       "systems/erc-7702-overview"
     ],
     "resolved_wikilinks": [
@@ -78,16 +77,19 @@
       "https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/",
       "https://finwiki.zksc.io/ja/fintech/maina-wallet-kyc-permissionless-ux-bridge/",
       "https://finwiki.zksc.io/ja/fintech/onchain-finance-vs-crypto-bifurcation/",
-      "https://finwiki.zksc.io/ja/fintech/stablecoin-channel-japan-sbi-jpyc-ring/",
       "https://finwiki.zksc.io/ja/systems/erc-7702-overview/"
     ],
-    "external_links_count": 0,
-    "external_links": []
+    "external_links_count": 3,
+    "external_links": [
+      "https://www.fsa.go.jp/menkyo/menkyoj/denshikessaisyudan.xlsx",
+      "https://www.fsa.go.jp/menkyo/menkyoj/shikin_idou.pdf",
+      "https://www.fsa.go.jp/policy/virtual_currency02/index.html"
+    ]
   },
   "metrics": {
-    "nonspace_chars": 2629,
-    "word_like_tokens": 427,
+    "nonspace_chars": 2897,
+    "word_like_tokens": 414,
     "inbound_wikilinks_count": 3,
-    "last_modified": "2026-06-24"
+    "last_modified": "2026-07-30"
   }
 }

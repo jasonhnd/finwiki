@@ -1,67 +1,74 @@
 ---
 source: fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse
-source_hash: e66ac48a1c9d0785
+source_hash: 71950d5373e0421e
 lang: en
 status: machine
 fidelity: ok
-title: "Embedded Wallet · Fintech Eating Web3  in Reverse as a Trojan Horse (Stripe Five Layers)"
-translated_at: 2026-05-31T06:16:15.694Z
+title: "Embedded wallets as fintech's Trojan horse into Web3 (Stripe's five layers)"
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
-# Embedded Wallet · Fintech Eating Web3  in Reverse as a Trojan Horse (Stripe Five Layers)
+# Embedded wallets as fintech's Trojan horse into Web3 (Stripe's five layers)
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|Japan's financial-regulation framework for tokens, cryptoassets, and payments]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|the three-layer structure of Japan's stablecoin regime]] for the broader system boundary.
 
 > [!info] TL;DR
-> Embedded wallets are not Web3  penetrating Fintech — they are the reverse: **Fintech embeds crypto in the backend · turns 5M+ merchants into crypto entry points · users do not need to "become crypto users."** The Stripe five-layer collapse (L5  Checkout → L4  Privy → L3  Bridge USDB → L2  Tempo → L1  AP2/x402) is the sample architecture for this reverse disintermediation · Privy holds the bridgehead at L4 .
+> Stripe's public materials show that payments, stablecoin orchestration, embedded wallets, a payments-focused chain, and agent payments can be combined. Stripe reported that more than five million businesses used it directly or through a platform in 2025. It completed the Bridge acquisition in February 2025, acquired Privy in July, and announced Tempo in September; Tempo now describes its mainnet as live. This does **not prove that every Stripe business uses wallets, stablecoins, Tempo, and AP2 / x402 as one integrated system**. The “five layers” below are an analytical model of functions that could be combined.
 
 ## Key facts
 
-- Stripe 5M+ merchants = distribution ceiling for embedded wallets ^[extracted]
-- Stripe simultaneously acquired Privy (L4) + Bridge (L3) in 2025.06  = $2.2B strategic spend ^[extracted]
-- Tempo (L2) led by Stripe + Paradigm · launched 2025  ^[extracted]
-- Cross-border payments USDC + Tempo = 5  seconds + ~0  fee (vs SWIFT 3  days + $25) ^[extracted]
+- Stripe reported that more than five million businesses used it directly or through a platform in 2025. This figure is neither the number of embedded-wallet deployments nor a ceiling on potential deployments.
+- Stripe completed its acquisition of Bridge in February 2025. Privy announced the acquisition agreement in June 2025, while Stripe's annual update records the acquisition in July. Public materials do not support the claim that both companies were acquired simultaneously in June 2025 or that the combined announced price was $2.2 billion.
+- Tempo was announced in September 2025 as a payments-first blockchain incubated by Stripe and Paradigm, and its official website now describes mainnet as live.
+- Tempo identifies sub-second finality and predictable low fees as design goals, but chain finality is not the same as end-to-end cross-border settlement time. Official materials do not support a universal comparison of “SWIFT in three days for $25” versus “Tempo in five seconds for almost no fee.”
+
+Source note: the four points above use direct disclosures from the [Stripe 2025 annual update](https://stripe.com/in/newsroom/news/stripe-2025-update), [Bridge acquisition completion](https://stripe.com/en-fr/newsroom/news/stripe-completes-bridge-acquisition), [Privy acquisition agreement](https://privy.io/blog/announcing-our-acquisition-by-stripe), [Tempo announcement](https://tempo.xyz/blog/introducing-tempo), and [Tempo official site](https://tempo.xyz/). Do not infer adoption, pricing, or end-to-end settlement figures that these materials do not publish.
 
 ## Mechanism / How it works
 
-**5 -step process of Fintech eating Web3  in reverse**:
+**Functions and boundaries established by public information**:
 
-| Step | Traditional Fintech | Post embedded-wallet retrofit |
+| User journey | Function established by public information | Verification boundary |
 |---|---|---|
-| Login | Stripe/PayPal account | Same login · wallet auto-created in the backend |
-| Deposit | Fiat currency | Fiat + USDC invisible to user |
-| Cross-border | SWIFT 3  days + $25  fee | USDC + Tempo 5  seconds · ~0  fee |
-| Agent payment | Not supported | x402  + AP2  per-call USDC |
-| Revenue distribution | Monthly settlement | Real-time stablecoin |
+| Login / onboarding | Privy provides embedded wallets, and wallets can be provisioned from Stripe Projects | Wallet-creation conditions, custody, recovery, and consent design depend on each application's implementation |
+| On-ramp / off-ramp | Stripe / Bridge provides fiat and stablecoin orchestration | Supported assets, regions, fees, and settlement differ by product and jurisdiction |
+| Cross-border payment | Tempo targets stablecoin payments with sub-second finality and predictable low fees | Chain finality does not include off-ramp processing or delivery to the recipient in an end-to-end time |
+| Agent payment | AP2 is a payment-agnostic open protocol, and an A2A x402 extension has also been announced. Stripe describes machine payments including stablecoin micropayments | AP2 / x402 adoption, authorization, assets, merchant acceptance, and fee policy depend on each implementation |
+| Payout / revenue distribution | Programmable stablecoin settlement can be embedded | It does not guarantee instant, continuous, or free settlement and depends on compliance, liquidity, and off-ramps |
 
-→ Users do not need to "become crypto users" · Fintech embeds crypto in the backend · merchants do not need to care about the underlying chain.
+→ A user experience can hide crypto rails in the backend, but individual product announcements do not establish that users will never notice the chain or that one company automates the entire journey.
 
 **Stripe five-layer collapse architecture**:
 
-- **L5  Application**: Checkout · Connect · 5M+ merchants · Stripe's existing territory
-- **L4  Wallet**: [[agent-economy/privy-embedded-wallet-overview|Privy]] · embedded default · transparently gives L5  merchants a crypto entry point
-- **L3  Stablecoin**: Bridge · USDB · provides the holding + transfer carrier for L4  wallet layer
-- **L2  Chain**: Tempo · delivers speed + compliance for L3  stablecoin
-- **L1  Agent protocol**: [[agent-economy/ap2-overview|AP2]] / [[agent-economy/x402-http-payment-overview|x402]] · agents autonomously coordinate the full L2-L5  stack
+- **L5 application / distribution**: Checkout, Connect, and more than five million businesses using Stripe directly or through platforms
+- **L4 wallet interface**: [[agent-economy/privy-embedded-wallet-overview|Privy]] embedded wallets and their integration with Stripe Projects
+- **L3 stablecoin orchestration**: Stablecoin infrastructure provided by Bridge. Public materials do not establish a particular “USDB” as the default asset across the stack
+- **L2 payment chain**: Tempo, an independent payments-first blockchain incubated by Stripe / Paradigm
+- **L1 agent-protocol options**: [[agent-economy/ap2-overview|AP2]] / [[agent-economy/x402-http-payment-overview|x402]]. Their public specifications may be combined, but this does not mean Stripe owns both protocols or operates all five layers as one system
 
-Privy is the Trojan horse at L4  — L4  is the only layer users directly touch · controlling L4  = controlling user identity + spending patterns + agent permissions = equivalent to Microsoft controlling the Windows OS in the 80 s.
+This classification is an analytical checklist for examining layers from distribution to protocol, not a stack diagram that directly represents product ownership or technical dependencies. The wallet interface matters because it is close to identity, authorization, and recovery, but using Privy alone does not necessarily confer exclusive control over spending data or agent permissions.
 
 ## Origin & evolution
 
-2010-2020  = Stripe establishes L5  payment SaaS benchmark. 2021-2023  = tests the waters with crypto (USDC deposits) · but still dependent on L5  + third-party bridge. 2025.06  = simultaneous acquisition of Privy + Bridge · vertical integration strategy made explicit. 2025-2026  Tempo launches · L2  also brought in-house · five-layer collapse begins. 2026-2027  forecast = 5-10% of 5M+ merchants switch to USDC + Tempo · this is the leading indicator.
+The public-record milestones are the completion of the Bridge acquisition in February 2025, Privy's announcement of its acquisition agreement in June and Stripe's record of the acquisition in July, and Tempo's announcement in September. They show expansion into adjacent capabilities, but there is no verified public forecast or result showing that 5–10% of Stripe's more than five million businesses will switch to USDC / Tempo in 2026–2027. Useful leading indicators would instead track wallet provisions, active wallets, stablecoin volume, actual settlement on Tempo, and availability by region using consistent periods and definitions.
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/embedded-wallet-fintech-disintermediation-overview|組込み型ウォレット脱仲介化 · 概観]]
-- [[agent-economy/embedded-wallet-network-effects-moat|組込み型ウォレット · 統合事業者の堀]]
-- [[fintech/protocol-hedge-strategy-stripe-pattern|プロトコル・ヘッジ · Stripe パターン]]
-- [[fintech/ai-payment-two-tracks|AI 決済二軌]]
-- [[fintech/onchain-finance-vs-crypto-bifurcation|オンチェーン金融 vs 加密文化の分離]]
+- [[fintech/embedded-wallet-fintech-disintermediation-overview|Embedded-wallet disintermediation — overview]]
+- [[agent-economy/embedded-wallet-network-effects-moat|Embedded-wallet network effects and the integrated-provider moat]]
+- [[fintech/protocol-hedge-strategy-stripe-pattern|Protocol hedging — the Stripe pattern]]
+- [[fintech/ai-payment-two-tracks|Two tracks for AI payments]]
+- [[fintech/onchain-finance-vs-crypto-bifurcation|The bifurcation of onchain finance and crypto culture]]
 <!-- /wiki-links:managed -->
 
 ## Sources
 
-- Stripe Privy / Bridge acquisition announcement (2025.06) · Tempo launch announcement
+- [Stripe 2025 annual update (2026-02-24)](https://stripe.com/in/newsroom/news/stripe-2025-update) — More than five million businesses; public information on Privy / Tempo, stablecoins, and machine payments.
+- [Stripe completes Bridge acquisition (2025-02-04)](https://stripe.com/en-fr/newsroom/news/stripe-completes-bridge-acquisition) — Completion date for the Bridge acquisition.
+- [Privy acquisition announcement (2025-06-11)](https://privy.io/blog/announcing-our-acquisition-by-stripe) — Agreement date and closing conditions.
+- [Privy is live in Stripe Projects (2025-10-15)](https://privy.io/blog/privy-is-live-in-stripe-projects) — Wallet provisioning from Stripe Projects.
+- [Introducing Tempo (2025-09-04)](https://tempo.xyz/blog/introducing-tempo) / [Tempo official site](https://tempo.xyz/) — Incubators, design goals, and current network status.
+- [Google Cloud: AP2 announcement (2025-09-16)](https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol) — The payment-agnostic protocol and A2A x402 extension.
