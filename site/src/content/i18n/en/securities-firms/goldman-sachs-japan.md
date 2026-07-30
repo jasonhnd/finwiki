@@ -1,11 +1,11 @@
 ---
 source: securities-firms/goldman-sachs-japan
-source_hash: 83d06cd20d7b28e9
+source_hash: 70659892da2ce094
 lang: en
 status: machine
 fidelity: ok
 title: "Goldman Sachs Japan (ゴールドマン・サックス・ジャパン)"
-translated_at: 2026-06-19T12:43:19.975Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Goldman Sachs Japan (ゴールドマン・サックス・ジャパン)
 
@@ -38,6 +38,8 @@ The Goldman Sachs Group, Inc.（NYSE: GS、上場持株会社）
 
 ### Parent Goldman Sachs Group overview (reference, NYSE: GS) ^[extracted]
 
+The following table is scoped to public primary sources (nikkei.com, ja.wikipedia.org, goldmansachs.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:nikkei.com; ja.wikipedia.org; goldmansachs.com]
+
 | Item | Content |
 |---|---|
 | Established | 1869 年 (NY), founder Marcus Goldman |
@@ -47,6 +49,8 @@ The Goldman Sachs Group, Inc.（NYSE: GS、上場持株会社）
 | Employees | Over 4 万 worldwide |
 
 ### Key chronology ^[extracted]
+
+The following table is scoped to public primary sources (nikkei.com, ja.wikipedia.org, goldmansachs.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:nikkei.com; ja.wikipedia.org; goldmansachs.com]
 
 | Year/month | Event |
 |---|---|
@@ -70,6 +74,8 @@ The Goldman Sachs Group, Inc.（NYSE: GS、上場持株会社）
 - **Tokyo head office**: Roppongi Hills Mori Tower (6-10-1 Roppongi) ^[extracted]
 
 ## 2. Business segment map
+
+The following table is scoped to public primary sources (nikkei.com, ja.wikipedia.org, goldmansachs.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:nikkei.com; ja.wikipedia.org; goldmansachs.com]
 
 | Segment | Main business | Characteristics |
 |---|---|---|

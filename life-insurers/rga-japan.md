@@ -3,8 +3,8 @@ title: "RGA リインシュアランス・カンパニー日本支店"
 aliases: ["RGA Japan", "Reinsurance Group of America Japan", "RGA リインシュアランス", "アールジーエー", "RGA Re Japan", "RGA Japan Branch"]
 domain: life-insurers
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, insurance, reinsurance, life-reinsurance, foreign-affiliated, life-insurance, operating-company]
@@ -26,6 +26,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 RGA Reinsurance Company（米 Reinsurance Group of America, Inc. の子会社、NYSE: RGA）の日本支店。**生保再保険（life & health reinsurance）に特化した世界最大級の専門再保険会社** の Japan branch で、金融庁の生命保険会社免許一覧（外国生保等）に掲載される。日本の生保会社の死亡・医療・長寿・就業不能リスクをグローバル資本で引き受ける。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (rgare.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:rgare.com; fsa.go.jp]
 
 | Item | Notes |
 |---|---|

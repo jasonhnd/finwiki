@@ -3,8 +3,8 @@ title: "北國銀行"
 aliases: ["北国銀行", "Hokkoku Bank", "The Hokkoku Bank", "株式会社北國銀行", "株式会社北国銀行"]
 domain: regional-banks
 created: 2026-05-21
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-12-05
 confidence: likely
 tags: [JapanFG, banking, regional-bank, hokkoku-fhd, operating-company]
@@ -26,6 +26,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 株式会社北國銀行 (The Hokkoku Bank) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される石川県地盤の地方銀行 (第一地銀)。[[regional-banks/hokkoku-fhd|北國フィナンシャルホールディングス]] の core operating bank。FHD が holding-company / digital-platform strategy を扱うのに対し、本ページは licensed bank entity と regional-lending surface を扱う。事業の土台は石川・北陸の預金受入と中小企業・個人・自治体向け貸出という地方銀行の標準モデル。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, hokkokubank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; hokkokubank.co.jp]
 
 | Item | Notes |
 |---|---|

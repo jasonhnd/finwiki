@@ -7,8 +7,8 @@ aliases:
   - "Japan institutional securities financing"
 domain: securities
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-22
 confidence: likely
 tags: [securities, prime-brokerage, institutional-financing, stock-lending, margin, derivatives, collateral]
@@ -40,6 +40,8 @@ Prime brokerage in Japan is not a single license label. It is a wholesale servic
 Use this page with [[securities/japan-margin-trading-and-securities-finance|margin trading and securities finance]], [[securities/japan-stock-lending-market-route|stock lending market route]], [[securities/japan-short-selling-and-stock-loan-controls|short-selling and stock-loan controls]], [[securities/japan-market-infrastructure-map|market infrastructure map]], and [[financial-licenses/securities-license-stack|securities license stack]].
 
 ## Function Stack
+
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, jpx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; jpx.co.jp]
 
 | Function | Legal / regulatory anchor | Infrastructure rail | Main risk |
 |---|---|---|---|

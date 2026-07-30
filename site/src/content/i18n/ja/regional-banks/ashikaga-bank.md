@@ -1,11 +1,11 @@
 ---
 source: regional-banks/ashikaga-bank
-source_hash: 56df8297881507fd
+source_hash: ba673f31843fefdd
 lang: ja
 status: machine
 fidelity: ok
 title: "足利銀行"
-translated_at: 2026-06-02T14:01:20.900Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 足利銀行
 
@@ -18,6 +18,8 @@ translated_at: 2026-06-02T14:01:20.900Z
 株式会社足利銀行は、金融庁の銀行免許一覧に掲載される栃木県本店の地方銀行で、[[regional-banks/mebuki-fg]] 傘下の事業銀行である。栃木県の第一地方銀行アンカーとして、茨城側の [[regional-banks/joyo-bank]] とともに Mebuki group の二行運営モデルを構成する。
 
 ## 1. 免許 / グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, ashikagabank.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; ashikagabank.co.jp]
 
 | 項目 | 注記 |
 |---|---|

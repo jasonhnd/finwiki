@@ -1,12 +1,12 @@
 ---
 source: life-insurers/credit-agricole-life
-source_hash: 08462c52b5950eac
+source_hash: b2890d500eb1cdc0
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "クレディ・アグリコル生命保険"
-translated_at: 2026-06-26T08:32:23.066Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # クレディ・アグリコル生命保険
@@ -20,6 +20,8 @@ translated_at: 2026-06-26T08:32:23.066Z
 クレディ・アグリコル生命保険株式会社は、保険業法上の生命保険会社免許を持ち、金融庁の生命保険会社免許一覧と[[financial-regulators/seiho-kyokai|生命保険協会]]会員一覧に掲載される、フランスの総合金融グループ **Crédit Agricole** の日本における生命保険事業会社。営業職員チャネルを持つ大手生保ではなく、提携金融機関の窓口（銀行窓販 / バンカシュランス）を主チャネルとする外資系 life insurer として、グループの銀行・資産運用機能とは分けて扱う。本社は東京都港区。Crédit Agricole はフランスでバンカシュランスの先駆者であり、日本でも個人年金保険や団体信用生命保険を提携金融機関経由で提供している。
 
 ## 1. ライセンス / グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, ca-life.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; ca-life.jp]
 
 | Item | Notes |
 |---|---|

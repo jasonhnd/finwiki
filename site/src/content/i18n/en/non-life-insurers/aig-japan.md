@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/aig-japan
-source_hash: 1cc93224c945b12b
+source_hash: 921133f2421cfc08
 lang: en
 status: machine
 fidelity: ok
 title: "AIG Japan (AIG General Insurance)"
-translated_at: 2026-06-19T06:09:18.073Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # AIG Japan (AIG General Insurance)
@@ -35,6 +35,8 @@ American International Group, Inc. (US NYSE: AIG)
 
 ### Key history (timeline)
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Year/month | Event |
 |---|---|
 | 1946 | **AIU Insurance Company Japan branch** opened (one of the first wave of postwar foreign-insurer re-entrants) |
@@ -46,6 +48,8 @@ American International Group, Inc. (US NYSE: AIG)
 | **2018-01-01** | **AIU Insurance + Fuji Fire & Marine Insurance merged → AIG General Insurance Co., Ltd. established** |
 
 ## 2. Business lines
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Segment | Main operator | Features |
 |---|---|---|
@@ -66,6 +70,8 @@ American International Group, Inc. (US NYSE: AIG)
 - **Reinsurance platform**: absorbs Japan large-scale catastrophes (earthquakes, typhoons) through AIG group reinsurance.
 
 ### Competitive landscape
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Competitor type | Main competitors |
 |---|---|

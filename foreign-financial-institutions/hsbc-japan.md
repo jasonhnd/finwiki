@@ -3,8 +3,8 @@ title: HSBC ジャパン (HSBC Japan)
 aliases: ["HSBC Japan", "香港上海銀行 東京支店", "HSBC Tokyo Branch", "HSBC 証券会社", "HSBC Securities Japan"]
 domain: foreign-financial-institutions
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, foreign-ib, banking]
@@ -70,6 +70,8 @@ HSBC Holdings plc（英、上場）
 | 2024 | アジア戦略の一部として日本拠点維持・ホールセール強化 |
 
 ## 2. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (Wikipedia: HSBC / 香港上海銀行 (2026-05-19 抽出), HSBC Holdings plc Annual Report 2024, HSBC Japan 公式サイト 沿革（2025 更新）). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Wikipedia: HSBC / 香港上海銀行 (2026-05-19 抽出); HSBC Holdings plc Annual Report 2024; HSBC Japan 公式サイト 沿革（2025 更新）]
 
 | セグメント | 主要法人 | 顧客 | 特徴 |
 |---|---|---|---|

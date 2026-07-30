@@ -3,8 +3,8 @@ title: "ジェネラル再保険日本支店"
 aliases: ["Gen Re Japan", "General Reinsurance Japan", "General Re AG Japan", "ジェン・リー", "ジェネラル・リインシュアランス", "Gen Re AG Japan Branch"]
 domain: non-life-insurers
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, insurance, reinsurance, foreign-affiliated, non-life-insurance, life-reinsurance, operating-company]
@@ -26,6 +26,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 General Reinsurance AG / General Re Corporation の日本支店。**バークシャー・ハサウェイ（Berkshire Hathaway）100% 子会社** の世界大手再保険会社で、金融庁の損害保険会社免許一覧（外国損害保険会社等）に掲載される。Munich Re / Swiss Re と並ぶ伝統的グローバル再保険ブランドで、Warren Buffett 体制下での保守的引受規律で知られる。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (genre.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:genre.com; fsa.go.jp]
 
 | Item | Notes |
 |---|---|

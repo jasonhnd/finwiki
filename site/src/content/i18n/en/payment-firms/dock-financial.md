@@ -1,11 +1,11 @@
 ---
 source: payment-firms/dock-financial
-source_hash: be94c7c757f4ed9d
+source_hash: 3a9b39c442683960
 lang: en
 status: machine
 fidelity: ok
 title: "SB Payment Service (SoftBank Payment Service)"
-translated_at: 2026-06-19T06:09:18.120Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # SB Payment Service (SoftBank Payment Service)
 
@@ -22,6 +22,8 @@ The **payment-agency service (PSP = Payment Service Provider) subsidiary** of th
 
 ## 1. Company overview
 
+The following table is scoped to public primary sources (sbpayment.jp, softbank.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:sbpayment.jp; softbank.jp; fsa.go.jp; meti.go.jp]
+
 | Item | Content |
 |---|---|
 | Formal name | SB Payment Service Corp. ^[extracted] |
@@ -34,6 +36,8 @@ The **payment-agency service (PSP = Payment Service Provider) subsidiary** of th
 | Flagship service | **Online payment service** (integrated payment of credit cards, convenience stores, electronic money, carrier billing, QR, and bank transfers)|
 
 ### 2.1  Online payment service (PSP)
+
+The following table is scoped to public primary sources (sbpayment.jp, softbank.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:sbpayment.jp; softbank.jp; fsa.go.jp; meti.go.jp]
 
 | Payment method | Coverage |
 |---|---|
@@ -75,6 +79,8 @@ SoftBank Group Corp. (TSE PRIME 9984)
 
 ### Division of roles between SBPS and [[megabanks/paypay-fg|PayPay 金融グループ]]
 
+The following table is scoped to public primary sources (sbpayment.jp, softbank.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:sbpayment.jp; softbank.jp; fsa.go.jp; meti.go.jp]
+
 | Function | SBPS | PayPay financial group |
 |---|---|---|
 | Target | **B2B (merchant-facing payment-processing infrastructure)** | **B2C (consumer-facing payment / bank / card)**|
@@ -85,6 +91,8 @@ SoftBank Group Corp. (TSE PRIME 9984)
 → SoftBank group's payment functions are divided with **PayPay = consumer side, SBPS = merchant side**
 
 ## 4. KPI (based on public information, reference values)
+
+The following table is scoped to public primary sources (sbpayment.jp, softbank.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:sbpayment.jp; softbank.jp; fsa.go.jp; meti.go.jp]
 
 | Indicator | Scale |
 |---|---|
@@ -124,6 +132,8 @@ SBPS's differentiation axis: **the parent-company group channel of SoftBank / Ya
 - Responding to the diversification of merchants' payment needs
 
 ## 6. Regulation / supervision
+
+The following table is scoped to public primary sources (sbpayment.jp, softbank.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:sbpayment.jp; softbank.jp; fsa.go.jp; meti.go.jp]
 
 | Item | Content |
 |---|---|

@@ -10,8 +10,8 @@ aliases:
   - "MMF Japan"
 domain: "money-market"
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [money-market, MMF, MRF, investment-trust, FSA, JITA, short-yen-funds]
@@ -42,6 +42,8 @@ For FinWiki, this page records the historical arc, the MRF vs old-MMF distinctio
 
 ## Product Map
 
+The following table is scoped to public primary sources (fsa.go.jp, investment-trusts.org, toushin.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; investment-trusts.org; toushin.or.jp; boj.or.jp]
+
 | Product family | Purpose | Status |
 |---|---|---|
 | MRF (Money Reserve Fund) | Brokerage sweep cash held inside securities accounts; offers same-day liquidity for trade settlement. | Active and dominant; one of the largest investment-trust net-asset categories. |
@@ -50,6 +52,8 @@ For FinWiki, this page records the historical arc, the MRF vs old-MMF distinctio
 | Short-bond / short-yen ETF and open-end funds | Modern substitute products for short-yen exposure. | Active, but small relative to MRF. |
 
 ## Historical Arc
+
+The following table is scoped to public primary sources (fsa.go.jp, investment-trusts.org, toushin.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; investment-trusts.org; toushin.or.jp; boj.or.jp]
 
 | Year | Event | Effect on MMF / MRF |
 |---|---|---|
@@ -62,6 +66,8 @@ For FinWiki, this page records the historical arc, the MRF vs old-MMF distinctio
 | 2024-2025 | New NISA in force; household-asset shift program continues. | MRF remains the cash sweep layer for brokerage / [[securities/nisa-2024-flow|NISA]] accounts; other short-yen funds re-positioned as low-volatility alternatives. |
 
 ## MRF vs Old MMF
+
+The following table is scoped to public primary sources (fsa.go.jp, investment-trusts.org, toushin.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; investment-trusts.org; toushin.or.jp; boj.or.jp]
 
 | Item | MRF | Old retail MMF |
 |---|---|---|

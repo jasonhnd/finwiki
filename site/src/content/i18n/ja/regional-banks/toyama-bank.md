@@ -1,11 +1,11 @@
 ---
 source: regional-banks/toyama-bank
-source_hash: 2eb60c9060f466f8
+source_hash: dea052e7c85d3dba
 lang: ja
 status: machine
 fidelity: ok
 title: "富山銀行"
-translated_at: 2026-06-15T04:09:41.183Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 富山銀行
@@ -19,6 +19,8 @@ translated_at: 2026-06-15T04:09:41.183Z
 株式会社富山銀行 (The Toyama Bank) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される富山県高岡市本店の地方銀行 (第一地銀)。系譜は 1954 年 2 月開業の富山産業銀行で、1967 年 8 月に現行名へ改称。東証スタンダード上場の小規模な第一地銀。事業は富山県 (高岡を中心に) の預金受入・中小企業/個人向け貸出という地銀の標準モデルで、ホールディングカンパニーのページでは拾えない単独免許銀行。
 
 ## 1. 免許／グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, toyamabank.co.jp, ja.wikipedia.org）の範囲に限定して読む。^[source:fsa.go.jp; toyamabank.co.jp; ja.wikipedia.org]
 
 | 項目 | 備考 |
 |---|---|

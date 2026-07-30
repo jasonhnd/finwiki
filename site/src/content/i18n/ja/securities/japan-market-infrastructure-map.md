@@ -1,12 +1,12 @@
 ---
 source: securities/japan-market-infrastructure-map
-source_hash: 3f63ff70b78f9ee6
+source_hash: 4ef41773579893a6
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の市場インフラ地図"
-translated_at: 2026-06-26T08:32:15.209Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 日本の市場インフラ地図
 
@@ -17,6 +17,8 @@ translated_at: 2026-06-26T08:32:15.209Z
 これは[[securities/INDEX|securities domain]]内のインフラ経路である。論点が市場の配管から業者登録や法的地位に移る場合は、[[securities/financial-instruments-business-operators-japan-index|FIEA 事業者 registry index]]および[[financial-licenses/INDEX|JapanFG legal / financial licenses]]を使う。
 
 ## レイヤー地図
+
+以下の表は、エントリ出典インベントリの公開一次資料（jpx.co.jp, jasdec.com, jsf.co.jp）の範囲に限定して読む。^[source:jpx.co.jp; jasdec.com; jsf.co.jp; japannext.co.jp]
 
 | レイヤー | 主な主体 | 用途 |
 |---|---|---|
@@ -49,6 +51,8 @@ JPX の清算 / 決済資料は、取引所取引における売買、清算、�
 
 ## 取引場所地図
 
+以下の表は、エントリ出典インベントリの公開一次資料（jpx.co.jp, jasdec.com, jsf.co.jp）の範囲に限定して読む。^[source:jpx.co.jp; jasdec.com; jsf.co.jp; japannext.co.jp]
+
 | 取引場所 / インフラ | ページ | 読むべき要点 |
 |---|---|---|
 | JPX 持株会社 | [[financial-regulators/japan-exchange-group]] | TSE、OSE、TOCOM、JSCC、JPX-R、JPX Market Innovation & Research のグループレベルの所有とガバナンス。 |
@@ -63,6 +67,8 @@ JPX の清算 / 決済資料は、取引所取引における売買、清算、�
 | Euroclear / Clearstream | [[foreign-financial-institutions/euroclear-bank-japan]]、[[foreign-financial-institutions/clearstream-banking-japan]] | 日本資産向けの ICSD / クロスボーダーカストディおよび担保経路。 |
 
 ## 重要性
+
+以下の表は、エントリ出典インベントリの公開一次資料（jpx.co.jp, jasdec.com, jsf.co.jp）の範囲に限定して読む。^[source:jpx.co.jp; jasdec.com; jsf.co.jp; japannext.co.jp]
 
 | 分析上の問い | インフラ経路 |
 |---|---|

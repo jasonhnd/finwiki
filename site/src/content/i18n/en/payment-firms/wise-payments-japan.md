@@ -1,11 +1,11 @@
 ---
 source: payment-firms/wise-payments-japan
-source_hash: 9413d1358ea65079
+source_hash: 731b63d684b4480a
 lang: en
 status: machine
 fidelity: ok
 title: "Wise Payments Japan"
-translated_at: 2026-06-26T03:26:36.042Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Wise Payments Japan
 
@@ -19,6 +19,8 @@ This entry sits under [[payment-firms/INDEX|決済事業者の索引]]. Read it 
 Wise Payments Japan is Wise group's Japan entity, and its official corporate page states the registration number as a Type I and Type II funds-transfer provider. It is a representative operator for reading Japan's cross-border remittance / multi-currency account competition. ^[verified-2026-06-24]
 
 ## 1. Entity / license boundary
+
+The following table is scoped to public primary sources (wise.com, newsroom.wise.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:wise.com; newsroom.wise.com; fsa.go.jp]
 
 | Item | Reading |
 |---|---|

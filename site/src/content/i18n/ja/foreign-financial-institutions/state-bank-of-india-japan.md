@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/state-bank-of-india-japan
-source_hash: fc0c622d621e12d8
+source_hash: 36a801cced3538c2
 lang: ja
 status: machine
 fidelity: ok
 title: "State Bank of India 日本拠点"
-translated_at: 2026-06-02T15:14:17.083Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # State Bank of India 日本拠点
 
@@ -23,6 +23,8 @@ State Bank of India Japanは、インド-日本間のホールセール銀行イ
 
 ## 曖昧さの解消
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, jp.statebank, ibajapan.org）の範囲に限定して読む。^[source:fsa.go.jp; jp.statebank; ibajapan.org]
+
 | 名称 | 意味 |
 |---|---|
 | State Bank of India / SBI | 日本支店を持つインドの公的銀行グループ。 |
@@ -33,6 +35,8 @@ State Bank of India Japanは、インド-日本間のホールセール銀行イ
 
 ## インド-日本回廊での役割
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, jp.statebank, ibajapan.org）の範囲に限定して読む。^[source:fsa.go.jp; jp.statebank; ibajapan.org]
+
 | 機能 | 日本での意味 |
 |---|---|
 | 法人銀行業務 | インド-日本間の法人顧客と金融機関を支える。 |
@@ -42,6 +46,8 @@ State Bank of India Japanは、インド-日本間のホールセール銀行イ
 | 外国銀行代理ルート | 日本支店が外国銀行グループサービスを代理する場合、FSAの外国銀行代理業者一覧が関係する。 |
 
 ## 比較マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, jp.statebank, ibajapan.org）の範囲に限定して読む。^[source:fsa.go.jp; jp.statebank; ibajapan.org]
 
 | ページ | 役割 |
 |---|---|

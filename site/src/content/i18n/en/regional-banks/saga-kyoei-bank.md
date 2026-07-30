@@ -1,11 +1,11 @@
 ---
 source: regional-banks/saga-kyoei-bank
-source_hash: d540e76063c129bb
+source_hash: 0cbb7156d38c2f10
 lang: en
 status: machine
 fidelity: ok
 title: "Saga Kyoei Bank"
-translated_at: 2026-06-01T00:41:50.427Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Saga Kyoei Bank
 
@@ -18,6 +18,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it wit
 Saga Kyoei Bank, Ltd. is a second regional bank headquartered in Saga Prefecture and listed on the FSA bank license list. It is Saga Prefecture's second-regional-bank operating-company anchor and is treated as a local peer separate from [[regional-banks/saga-bank]].
 
 ## 1. License / Group Boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, kyogin.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; kyogin.co.jp]
 
 | Item | Notes |
 |---|---|

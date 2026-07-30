@@ -1,11 +1,11 @@
 ---
 source: payment-firms/visa-worldwide-japan
-source_hash: f045b2f1fa16deb7
+source_hash: 0711dfff96c2dffc
 lang: en
 status: machine
 fidelity: ok
 title: "Visa Worldwide Japan"
-translated_at: 2026-06-19T06:09:18.109Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Visa Worldwide Japan
@@ -19,6 +19,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 Visa Worldwide Japan is the **Japan-based corporate entity** of the US Visa Inc. (NYSE:V), responsible for licensing the Visa brand and operating the scheme within Japan. In Japan it holds **the estimated largest share** as an international card brand ^[likely], supplying the Visa brand to major issuers such as [[card-issuers/smbc-card|三井住友カード]] (the main Visa partner), [[card-issuers/mufg-nicos|三菱UFJニコス]], and [[card-issuers/rakuten-card|楽天カード]]. Historically, a Visa-brand domestic issuer federation called **VJA (Visa Japan Association)** was operated with Sumitomo Mitsui Card as its secretariat, and the 2 -tier structure of the brand window (Visa Worldwide Japan) and the association organization (VJA) is distinctive.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (visa.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:visa.co.jp]
 
 | Item | Notes |
 |---|---|

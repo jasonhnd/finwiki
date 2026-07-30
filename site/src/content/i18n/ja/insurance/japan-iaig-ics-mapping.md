@@ -1,12 +1,12 @@
 ---
 source: insurance/japan-iaig-ics-mapping
-source_hash: 358bfb5b16c8798f
+source_hash: 0ab150fb68b0de66
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の IAIG および ICS マッピング"
-translated_at: 2026-06-26T08:28:46.059Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本の IAIG および ICS マッピング
@@ -29,6 +29,8 @@ IAIS の保険資本基準（Insurance Capital Standard）バージョン 2.0 �
 
 IAIS は、その ComFrame（IAIG の監督のための共通枠組み、Common Framework for the Supervision of IAIGs）資料を通じて IAIG 識別基準を公表している。主な基準：
 
+以下の表は、エントリ出典インベントリの公開一次資料（iaisweb.org, fsa.go.jp, seiho.or.jp）の範囲に限定して読む。^[source:iaisweb.org; fsa.go.jp; seiho.or.jp]
+
 | Criterion | Threshold (indicative) | Notes |
 |---|---|---|
 | 国際的な活動 | 3 以上の法域で引き受けられた保険料があり、本国以外の法域の保険料シェアが定められた閾値を上回ること | 活動は連結グループ・レベルで測定される |
@@ -43,6 +45,8 @@ IAIS は、その ComFrame（IAIG の監督のための共通枠組み、Common 
 
 ### 損保サイド
 
+以下の表は、エントリ出典インベントリの公開一次資料（iaisweb.org, fsa.go.jp, seiho.or.jp）の範囲に限定して読む。^[source:iaisweb.org; fsa.go.jp; seiho.or.jp]
+
 | Group | International footprint relevant to IAIG criteria |
 |---|---|
 | [[non-life-insurers/tokio-marine|Tokio Marine]] | 米国（Philadelphia Consolidated、HCC、Pure Group）、欧州、アジアにおける主要な買収に加え、ロイズのシンジケート・プレゼンスを伴うグローバルな損保フランチャイズ。国際保険料シェアは構造的に意味のある水準にある |
@@ -52,6 +56,8 @@ IAIS は、その ComFrame（IAIG の監督のための共通枠組み、Common 
 3 つの損保グループはいずれも、国際的なフットプリントに基づき広く IAIG として識別されている。金融庁がグループ全体監督者として機能し、持株会社レベルで ICS 報告を運用する。
 
 ### 生保サイド
+
+以下の表は、エントリ出典インベントリの公開一次資料（iaisweb.org, fsa.go.jp, seiho.or.jp）の範囲に限定して読む。^[source:iaisweb.org; fsa.go.jp; seiho.or.jp]
 
 | Group | International footprint relevant to IAIG criteria |
 |---|---|
@@ -66,6 +72,8 @@ IAIS は、その ComFrame（IAIG の監督のための共通枠組み、Common 
 
 ## ICS 2.0 報告のタイムライン
 
+以下の表は、エントリ出典インベントリの公開一次資料（iaisweb.org, fsa.go.jp, seiho.or.jp）の範囲に限定して読む。^[source:iaisweb.org; fsa.go.jp; seiho.or.jp]
+
 | Phase | Period | What happens |
 |---|---|---|
 | フィールドテスティング | 2014-2019 | IAIS がボランティアの IAIG を用いて ICS のキャリブレーションを開発・テストする |
@@ -77,6 +85,8 @@ IAIS は、その ComFrame（IAIG の監督のための共通枠組み、Common 
 日本については、金融庁は、2025-04以降に日本免許法人レベルで運用開始された国内の [[insurance/economic-value-based-solvency|economic-value-based ESR]] レジームと並行して、指定された日本本社の IAIG に対するグループ・レベルの PCR として ICS を実施する。
 
 ## 金融庁のグループ全体監督者としての役割日本本社の IAIG に対するグループ全体監督者として、金融庁は次に責任を負う：
+
+以下の表は、エントリ出典インベントリの公開一次資料（iaisweb.org, fsa.go.jp, seiho.or.jp）の範囲に限定して読む。^[source:iaisweb.org; fsa.go.jp; seiho.or.jp]
 
 | Responsibility | Description |
 |---|---|
@@ -93,6 +103,8 @@ IAIS は、その ComFrame（IAIG の監督のための共通枠組み、Common 
 ## ICS vs ESR — デュアル・フレームワーク・アーキテクチャ
 
 IAIG に対してグループ・レベルで ICS を、日本免許法人レベルで ESR を、その両方を維持するという日本の選択は、意図的に階層化されたアーキテクチャを生み出す：
+
+以下の表は、エントリ出典インベントリの公開一次資料（iaisweb.org, fsa.go.jp, seiho.or.jp）の範囲に限定して読む。^[source:iaisweb.org; fsa.go.jp; seiho.or.jp]
 
 | Layer | Framework | Coverage |
 |---|---|---|
@@ -122,6 +134,8 @@ ICS 2.0 は、グループ全体監督者の承認を条件として、特定の
 
 ## ComFrame の定性的要件定量的な ICS の PCR を超えて、ComFrame は IAIG に定性的な監督要件を課す。主要な次元：
 
+以下の表は、エントリ出典インベントリの公開一次資料（iaisweb.org, fsa.go.jp, seiho.or.jp）の範囲に限定して読む。^[source:iaisweb.org; fsa.go.jp; seiho.or.jp]
+
 | Area | ComFrame requirement |
 |---|---|
 | コーポレート・ガバナンス | 取締役会構成、取締役会の独立性、グループ全体のリスクおよび資本に対する取締役会の監督、後継者計画 |
@@ -135,6 +149,8 @@ ICS 2.0 は、グループ全体監督者の承認を条件として、特定の
 [[insurance/japan-life-insurance-big-four|Japan life big four]] および [[insurance/japan-nonlife-big-three|Japan non-life big three]] の IAIG については、これらの要件は、保険業法の下での既存の日本の金融庁グループ監督ルールの上に重ねられる。実務上の効果は、指定された IAIG が国内の規制上の届出に加えて、ComFrame と整合したグループ・ガバナンスおよび ORSA の文書化を維持することである。
 
 ## 国境を越えた監督カレッジのメカニクス日本の IAIG に対するグループ全体監督者として金融庁が招集する監督カレッジには、通常次が含まれる：
+
+以下の表は、エントリ出典インベントリの公開一次資料（iaisweb.org, fsa.go.jp, seiho.or.jp）の範囲に限定して読む。^[source:iaisweb.org; fsa.go.jp; seiho.or.jp]
 
 | Participant | Role |
 |---|---|
@@ -153,6 +169,8 @@ ICS 2.0 は、グループ全体監督者の承認を条件として、特定の
 
 ## 実務的なアナリスト読解ガイド日本の IAIG／ICS 開示を読む外部アナリストにとって、実務的な順序は次のとおりである：
 
+以下の表は、エントリ出典インベントリの公開一次資料（iaisweb.org, fsa.go.jp, seiho.or.jp）の範囲に限定して読む。^[source:iaisweb.org; fsa.go.jp; seiho.or.jp]
+
 | Step | Source | What to extract |
 |---|---|---|
 | 1. 国内 ESR 比率 | 保険会社の統合報告書／開示資料 | 日本免許法人または持株会社レベルでの主要な ESR 比率、感応度テーブル |
@@ -165,6 +183,8 @@ ICS 2.0 は、グループ全体監督者の承認を条件として、特定の
 これらの層にわたって三角測量することが、最も完全な全体像を与える。国内 ESR だけに依拠するとグループ・レベルのパーィミターを見逃す；親グループのグループ資本だけに依拠すると日本免許法人の健全性ポジションを見逃す。
 
 ## [[insurance/foreign-life-affiliate-japan-positioning|foreign-life affiliate]] 法人 ICS との相互作用日本免許の保険子会社を有する外国 IAIG（インバウンド方向）については、アーキテクチャはミラーリングされる：
+
+以下の表は、エントリ出典インベントリの公開一次資料（iaisweb.org, fsa.go.jp, seiho.or.jp）の範囲に限定して読む。^[source:iaisweb.org; fsa.go.jp; seiho.or.jp]
 
 | Layer | Authority | Framework |
 |---|---|---|

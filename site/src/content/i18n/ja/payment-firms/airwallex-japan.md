@@ -1,12 +1,12 @@
 ---
 source: payment-firms/airwallex-japan
-source_hash: 975d75506fc19ccd
+source_hash: de8d6c889cc57fdd
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Airwallex Japan"
-translated_at: 2026-06-26T08:32:07.560Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Airwallex Japan
 
@@ -20,6 +20,8 @@ translated_at: 2026-06-26T08:32:07.560Z
 Airwallex Japan株式会社は、Airwallex group の日本における B2B 決済およびクロスボーダー資金移動オペレーターである。公式発表は、第二種資金移動業者登録と、日本企業向けの onboarding / local payout / collection service 展開を示している。
 
 ## 1. 法人・ライセンス境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（airwallex.com, fsa.go.jp）の範囲に限定して読む。^[source:airwallex.com; fsa.go.jp]
 
 | 項目 | 読み方 |
 |---|---|

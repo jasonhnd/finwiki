@@ -1,11 +1,11 @@
 ---
 source: life-insurers/sompo-himawari-life
-source_hash: dbcffd141924d01d
+source_hash: c6792664130268e1
 lang: ja
 status: machine
 fidelity: ok
 title: "SOMPOひまわり生命保険"
-translated_at: 2026-06-19T06:09:18.142Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # SOMPOひまわり生命保険
@@ -20,6 +20,8 @@ translated_at: 2026-06-19T06:09:18.142Z
 SOMPOひまわり生命保険株式会社は、[[non-life-insurers/sompo]] グループの生命保険事業会社。[[non-life-insurers/sompo]] 本体は損保大手として見られがちだが、SOMPOひまわり生命は金融庁の生命保険会社一覧に載る独立した引受主体で、医療 / 生命保障商品を扱う。
 
 ## 1. 免許 / グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, himawari-life.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; himawari-life.co.jp]
 
 | 項目 | 備考 |
 |---|---|

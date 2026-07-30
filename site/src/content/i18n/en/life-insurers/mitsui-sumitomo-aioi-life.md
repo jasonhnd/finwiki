@@ -1,11 +1,11 @@
 ---
 source: life-insurers/mitsui-sumitomo-aioi-life
-source_hash: 05e0a504cea58993
+source_hash: 436eacec3595ecb0
 lang: en
 status: machine
 fidelity: ok
 title: "Mitsui Sumitomo Aioi Life Insurance"
-translated_at: 2026-05-31T23:59:49.402Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Mitsui Sumitomo Aioi Life Insurance
 
@@ -19,6 +19,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 Mitsui Sumitomo Aioi Life Insurance Co., Ltd. is the life-insurance operating company of the [[non-life-insurers/msad]] group. [[non-life-insurers/msad]] is primarily a non-life insurance group, but this entity is a separate FSA-listed life insurer and belongs in the same comparison set as [[life-insurers/sompo-himawari-life]] and [[life-insurers/tokio-marine-nichido-life]].
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, msa-life.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; msa-life.co.jp]
 
 | Item | Notes |
 |---|---|

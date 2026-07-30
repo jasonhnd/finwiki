@@ -7,8 +7,8 @@ aliases:
   - "最良執行 SOR PTS"
 domain: "securities"
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-22
 confidence: likely
 tags: [securities, best-execution, SOR, PTS, brokerage, market-infrastructure]
@@ -45,6 +45,8 @@ This is the execution-quality route inside [[securities/INDEX|securities domain]
 | Broker disclosure | Broker best-execution policy and execution policy pages | How a specific broker routes customer orders and what factors it says it considers. |
 
 ## Execution Route Map
+
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, japannext.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; japannext.co.jp]
 
 | Route | Practical meaning | FinWiki reading |
 |---|---|---|

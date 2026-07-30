@@ -1,12 +1,12 @@
 ---
 source: payments/visa-mastercard-amex-jcb-japan-operating-comparison
-source_hash: 42288ade60cedf39
+source_hash: 58f5b3a5ed7562ce
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Visa Mastercard AMEX JCB 日本オペレーション比較"
-translated_at: 2026-06-26T08:31:59.828Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Visa Mastercard AMEX JCB 日本オペレーション比較
@@ -24,6 +24,8 @@ translated_at: 2026-06-26T08:31:59.828Z
 3つの主張が4ブランド分析をしばしば混乱させる。第一に、「それらはみな単なるカードブランドだ」 — 4者対3者の区別（[[payments/jcb-three-party-operating-model|JCB three-party operating model]] を参照）を平板化することは、加盟店の手数料の経済性を駆動するインターチェンジあり対なしの分岐を隠す。第二に、「JCB は国内でしか重要でない」 — JCB International のグローバルなアクワイアラー提携（Discover Global Network、CTBC、KB Kookmin など）と、韓国 / 台湾 / 東南アジアにおける JCB のインバウンド観光客受入の役割は、JCB を見出しの受入フットプリントが示唆するより、よりグローバルに関連したものにする。第三に、「AMEX は単にプレミアムなだけだ」 — **Credit Saison Persona JV** の発行ラインは、AMEX がそのクローズドループの評判が示唆するより、実質的により広範な日本の発行体フットプリントを持つことを意味する。このマトリクスは、この3つすべてを直接読めるよう浮き彫りにする。
 
 ## 4大ブランド比較マトリクス
+
+以下の表は、エントリ出典インベントリの公開一次資料（visa.co.jp, mastercard.co.jp, americanexpress.com）の範囲に限定して読む。^[source:visa.co.jp; mastercard.co.jp; americanexpress.com; global.jcb]
 
 | 次元 | Visa | Mastercard | American Express | JCB |
 |---|---|---|---|---|
@@ -74,6 +76,8 @@ JCB の特徴的な日本のポジショニング：**唯一の国内日本の�
 
 ## 発行体 / アクワイアラーのクロスオーナーシップ・マトリクス大半の主要な日本のカード発行体は複数のブランドを発行する。クロスオーナーシップのパターンは、日本における発行体競争が **ブランドでセグメント化されているのではなく、ブランドで重なっている** 理由を理解するために構造的に重要である：
 
+以下の表は、エントリ出典インベントリの公開一次資料（visa.co.jp, mastercard.co.jp, americanexpress.com）の範囲に限定して読む。^[source:visa.co.jp; mastercard.co.jp; americanexpress.com; global.jcb]
+
 | 発行体 | Visa を発行？ | Mastercard を発行？ | AMEX を発行？ | JCB を発行？ | 備考 |
 |---|---|---|---|---|---|
 | [[card-issuers/mufg-nicos\|MUFG NICOS]] | あり（アンカー） | あり（アンカー） | あり（一部コブランド） | あり（アンカーパートナー） | デュアル / トリプルブランドのカードが一般的 |
@@ -93,6 +97,8 @@ JCB の特徴的な日本のポジショニング：**唯一の国内日本の�
 
 公的な Cashless Promotion Council と METI のデータは、このセクションが理想的に要求する精度でブランド別の受入シェアを一貫して内訳していない。権威あるブランド別シェアの数値が公表されていないため、以下のシェア特徴づけの列は `n.d.`（データ未公開）とマークされる；定性的な受入の広がりの観察のみが保持される。
 
+以下の表は、エントリ出典インベントリの公開一次資料（visa.co.jp, mastercard.co.jp, americanexpress.com）の範囲に限定して読む。^[source:visa.co.jp; mastercard.co.jp; americanexpress.com; global.jcb]
+
 | ブランド | 受入の広がり（日本の加盟店） | 参考的なシェアの特徴づけ | 備考 |
 |---|---|---|---|
 | Visa | 最大の国際ブランドのフットプリント；チェーン加盟店およびオンラインでほぼ普遍的 | n.d.（ブランド別シェアは未公表） | ブランド受入で普遍的 |
@@ -105,6 +111,8 @@ JCB の特徴的な日本のポジショニング：**唯一の国内日本の�
 ## QR / コード決済のオーバーレイ戦略の比較
 
 4ブランドは、日本でカード決済と並んで台頭した QR / コード決済レーン（[[payments/japan-code-payment-competitive-map|Japan code-payment competitive map]] で扱われる）に参加するかどうか、およびどのように参加するかについて、有意に分岐する：
+
+以下の表は、エントリ出典インベントリの公開一次資料（visa.co.jp, mastercard.co.jp, americanexpress.com）の範囲に限定して読む。^[source:visa.co.jp; mastercard.co.jp; americanexpress.com; global.jcb]
 
 | ブランド | プッシュ・トゥ・カード / 即時決済の商品 | コード決済の直接商品 | ウォレット発行カードの経済性 |
 |---|---|---|---|
@@ -119,6 +127,8 @@ JCB の特徴的な日本のポジショニング：**唯一の国内日本の�
 
 AI エージェント開始のコマース（決済側で [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]] で扱われる）の 2025-2026 台頭は、自社のトークン化 / 認証 / 認可のインフラをエージェント決済の標準レールとして位置づけるための、4ブランド間の並行レースを生み出す：
 
+以下の表は、エントリ出典インベントリの公開一次資料（visa.co.jp, mastercard.co.jp, americanexpress.com）の範囲に限定して読む。^[source:visa.co.jp; mastercard.co.jp; americanexpress.com; global.jcb]
+
 | ブランド | エージェント決済の商品 / フレームワーク | トークン化層 | 認証の適応 |
 |---|---|---|---|
 | Visa | **Visa Intelligent Commerce** / **Visa Agentic Commerce** | Visa Token Service（ネットワークトークン、ワンタイムトークン） | エージェントフローのための委任認証で拡張された Visa Secure（3-DS 2.x） |
@@ -132,6 +142,8 @@ Visa と Mastercard は、エージェント決済インフラの最も先進的
 
 4ブランドは日本の銀行および銀行 FG と構造的に異なる関係を持つ：
 
+以下の表は、エントリ出典インベントリの公開一次資料（visa.co.jp, mastercard.co.jp, americanexpress.com）の範囲に限定して読む。^[source:visa.co.jp; mastercard.co.jp; americanexpress.com; global.jcb]
+
 | ブランド | 銀行 FG のアンカー関係 | JV / パートナーシップ構造 | 流通チャネル |
 |---|---|---|---|
 | Visa | MUFG（[[card-issuers/mufg-nicos\|MUFG NICOS]] を通じて）、SMFG（[[card-issuers/smbc-card\|SMBC Card]] + SMBC GMO PAYMENT JV を通じて） | ライセンス関係；エクイティ JV なし | 銀行 FG のカードライン + マルチブランドのコブランドカード |
@@ -144,6 +156,8 @@ Visa と Mastercard は、エージェント決済インフラの最も先進的
 ## 手数料開示と JFTC の圧力の着地
 
 2022-04-08 JFTC のクレジットカード加盟店手数料報告書と、JCB の手数料開示に関する 2023-06-01 METI / JFTC 共同リリースは、日本のカードブランドのオペレーションの経済性に対する有意な進行中の規制圧力を表す：
+
+以下の表は、エントリ出典インベントリの公開一次資料（visa.co.jp, mastercard.co.jp, americanexpress.com）の範囲に限定して読む。^[source:visa.co.jp; mastercard.co.jp; americanexpress.com; global.jcb]
 
 | ブランド | 手数料開示の状況（日本、2026-05） | JFTC エンゲージメント |
 |---|---|---|

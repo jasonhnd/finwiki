@@ -1,11 +1,11 @@
 ---
 source: policy-finance/osaka-credit-guarantee-corp
-source_hash: ba36cfd2a714e04c
+source_hash: bfc60c5f42ec5020
 lang: ja
 status: machine
 fidelity: ok
 title: "大阪信用保証協会 (Osaka Credit Guarantee Corporation)"
-translated_at: 2026-06-19T12:43:19.863Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 大阪信用保証協会 (Osaka Credit Guarantee Corporation)
@@ -17,6 +17,8 @@ translated_at: 2026-06-19T12:43:19.863Z
 このページは [[policy-finance/INDEX|policy-finance index]] の下に位置し、[[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]] の仕組みページおよび [[policy-finance/national-federation-credit-guarantee-corporations|Japan Federation of Credit Guarantee Corporations]] の連携ページと対をなす。
 
 ## 1。制度上の境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（cgc-osaka.or.jp, zenshinhoren.or.jp）の範囲に限定して読む。^[source:cgc-osaka.or.jp; zenshinhoren.or.jp]
 
 | 項目 | 読み方 |
 |---|---|
@@ -30,6 +32,8 @@ translated_at: 2026-06-19T12:43:19.863Z
 | 境界注記 | 大阪市は統合まで独自の信用保証協会を有していた。現在の協会は府と市の双方の借り手をカバーする。 |
 
 ## 2。機能マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（cgc-osaka.or.jp, zenshinhoren.or.jp）の範囲に限定して読む。^[source:cgc-osaka.or.jp; zenshinhoren.or.jp]
 
 | 機能 | なぜ重要か |
 |---|---|
@@ -57,6 +61,8 @@ translated_at: 2026-06-19T12:43:19.863Z
 - **JFC ではない**：[[financial-regulators/jfc|JFC]] は信用保険を通じて大阪信用保証協会の保証を再保険するが、借り手と直接向き合う層ではない。
 
 ## 5。東京信用保証協会との比較
+
+以下の表は、エントリ出典インベントリの公開一次資料（cgc-osaka.or.jp, zenshinhoren.or.jp）の範囲に限定して読む。^[source:cgc-osaka.or.jp; zenshinhoren.or.jp]
 
 | 観点 | 東京信用保証協会 | 大阪信用保証協会 |
 |---|---|---|

@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/mitsui-direct
-source_hash: 78d883ac9d9d113b
+source_hash: 966a2ec1a7efa050
 lang: en
 status: machine
 fidelity: ok
 title: "Mitsui Direct General Insurance (三井ダイレクト損害保険)"
-translated_at: 2026-06-19T06:09:18.193Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Mitsui Direct General Insurance (三井ダイレクト損害保険)
@@ -20,6 +20,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 Mitsui Direct General Insurance Co., Ltd. (三井ダイレクト損害保険株式会社) is the direct non-life insurance operating company of the [[non-life-insurers/msad]] group. It is listed on the FSA's non-life insurance company license list, and, separately from [[non-life-insurers/mitsui-sumitomo-insurance]] and [[non-life-insurers/aioi-nissay-dowa-insurance]], handles the direct auto insurance channel.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, sonpohogo.or.jp, mitsui-direct.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sonpohogo.or.jp; mitsui-direct.co.jp]
 
 | Item | Notes |
 |---|---|

@@ -1,12 +1,12 @@
 ---
 source: insurance/japan-medical-insurance-rider-product-matrix
-source_hash: bdc4f50fff61252c
+source_hash: b1f64c3a8c19d817
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の医療保険特約商品マトリクス"
-translated_at: 2026-06-26T08:29:01.761Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本の医療保険特約商品マトリクス
@@ -61,6 +61,8 @@ translated_at: 2026-06-26T08:29:01.761Z
 
 ### キャリアのアイデンティティとフランチャイズ
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, aflac.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; aflac.co.jp; aia.co.jp]
+
 | キャリア | グループ親会社 | 主力の医療 / がんフランチャイズの傾き | 特徴的な構造的特徴 |
 |---|---|---|---|
 | [[life-insurers/aflac-japan|Aflac Japan]] | Aflac Inc.（米国親会社）| がん特化が優位；医療専門 | 新規がん市場シェア約 70%；ゆうちょ銀行提携；長い代理店 / 企業史 |
@@ -79,6 +81,8 @@ translated_at: 2026-06-26T08:29:01.761Z
 
 ### 主力商品ライン — がん / 医療 / 特約の分割
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, aflac.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; aflac.co.jp; aia.co.jp]
+
 | 軸 | アフラック | AIA | 東京海上あんしん系譜 | ソンポひまわり | MS あいおい | マニュライフ / プルデンシャル | 生保大手 4  相互会社 |
 |---|---|---|---|---|---|---|---|
 | 単独がん（がん保険）| 優位 | 大きい | 大きい | 大きい | 大きい | 限定的 | 利用可能だが特約バンドルが好まれる |
@@ -94,6 +98,8 @@ translated_at: 2026-06-26T08:29:01.761Z
 
 ### 保険料払込構造
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, aflac.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; aflac.co.jp; aia.co.jp]
+
 | キャリアセット | 終身払 | 短期払（例：60 払 / 65 払）| 定期払 |
 |---|---|---|---|
 | アフラック | 標準 | 標準 | 利用可能 |
@@ -106,6 +112,8 @@ translated_at: 2026-06-26T08:29:01.761Z
 | かんぽ生命 | 商品認可限度の下で標準 | 標準 | 利用可能 |
 
 ### 商品別の給付タイプ
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, aflac.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; aflac.co.jp; aia.co.jp]
 
 | 給付タイプ | アフラック | AIA | 東京海上あんしん系譜 | ソンポひまわり | MS あいおい | マニュライフ / プルデンシャル | 生保大手 4  相互会社 |
 |---|---|---|---|---|---|---|---|
@@ -121,6 +129,8 @@ translated_at: 2026-06-26T08:29:01.761Z
 
 ### チャネルミックス
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, aflac.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; aflac.co.jp; aia.co.jp]
+
 | チャネル | アフラック | AIA | 東京海上あんしん系譜 | ソンポひまわり | MS あいおい | マニュライフ / プルデンシャル | 生保大手 4  相互会社 | オンライン直販（対比）|
 |---|---|---|---|---|---|---|---|---|
 | 専属営業職員 / FA | 大きい | 大きい | 選択的 | 選択的 | 選択的 | 優位（ライフプランナー）| 優位（総合職）| 該当なし |
@@ -131,6 +141,8 @@ translated_at: 2026-06-26T08:29:01.761Z
 | オンライン直販（ウェブ）| 限定的 | 選択的 | 選択的 | 選択的 | 選択的 | 限定的 | 選択的 | [[life-insurers/lifenet|Lifenet]]、[[life-insurers/sbi-life|SBI Life]] がこのレーンで優位 |
 
 ### 引受とプライシングの構造
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, aflac.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; aflac.co.jp; aia.co.jp]
 
 | 軸 | アフラック | AIA | 東京海上あんしん系譜 | ソンポひまわり | MS あいおい | マニュライフ / プルデンシャル | 生保大手 4  相互会社 |
 |---|---|---|---|---|---|---|---|
@@ -143,6 +155,8 @@ translated_at: 2026-06-26T08:29:01.761Z
 | 待機期間（がん）| 90  日標準 | 90  日標準 | 90  日標準 | 90  日標準 | 90  日標準 | 90  日標準 | 90  日標準 |
 
 ### 解約返戻金の設計
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, aflac.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; aflac.co.jp; aia.co.jp]
 
 | キャリアセット | 解約返戻金設計の傾き | 備考 |
 |---|---|---|
@@ -158,6 +172,8 @@ translated_at: 2026-06-26T08:29:01.761Z
 
 ### 先進医療特約の詳細
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, aflac.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; aflac.co.jp; aia.co.jp]
+
 | キャリアセット | 先進医療特約は標準か？ | 上限の構造 | 備考 |
 |---|---|---|---|
 | アフラック | 標準 | 高い実費上限（例：高い治療あたり / 通算上限まで）| 目立って販売される |
@@ -172,6 +188,8 @@ translated_at: 2026-06-26T08:29:01.761Z
 
 ### 外貨建医療 / 年金のオーバーレイ
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, aflac.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; aflac.co.jp; aia.co.jp]
+
 | キャリアセット | 外貨建医療 / がん商品の存在 | 備考 |
 |---|---|---|
 | アフラック | 限定的 | 主に円建 |
@@ -184,6 +202,8 @@ translated_at: 2026-06-26T08:29:01.761Z
 | かんぽ生命 | 限定的 | 商品認可の制約 |
 
 ### 概念的な市場シェアのシグナル
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, aflac.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; aflac.co.jp; aia.co.jp]
 
 | セグメント | 最大シェア（概念的）| 他の重要なキャリア |
 |---|---|---|

@@ -1,11 +1,11 @@
 ---
 source: payments/japan-transit-prepaid-suica-pasmo-icoca-economics
-source_hash: ee4c4213c64ed479
+source_hash: c572484b8cfc1351
 lang: en
 status: machine
 fidelity: ok
 title: "Japan transit-prepaid e-money: Suica / PASMO / ICOCA / regional IC economics"
-translated_at: 2026-06-01T03:31:12.271Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan transit-prepaid e-money: Suica / PASMO / ICOCA / regional IC economics
@@ -21,6 +21,8 @@ Japan transit-prepaid e-money runs on a **single mutual-use scheme** anchored by
 ## The 10 IC mutual-use scheme
 
 The 10 IC card mutual-use agreement (10カード相互利用) was launched 2013-03-23 and lets a cardholder use any of the ten cards on any participating railway or bus network across the country, and at any participating retail merchant. Before 2013, each card was restricted to its issuer's railway region; the mutual-use launch was one of the largest single interoperability events in Japan retail payments.
+
+The following table is scoped to public primary sources (jreast.co.jp, pasmo.co.jp, jr-odekake.net). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jreast.co.jp; pasmo.co.jp; jr-odekake.net; jrhokkaido.co.jp]
 
 | Card | Issuer | Region | Operator type | Prepaid / post-pay |
 |---|---|---|---|---|
@@ -41,6 +43,8 @@ PiTaPa is the structural exception — it is a **post-pay** scheme where the car
 
 All ten cards run on **FeliCa**, Sony's proprietary contactless IC technology (NFC-F in ISO/IEC 18092 terms) — distinct from the EMV contactless / NFC-A/B used by Visa Touch / Mastercard Contactless. FeliCa's key technical features for transit are:
 
+The following table is scoped to public primary sources (jreast.co.jp, pasmo.co.jp, jr-odekake.net). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jreast.co.jp; pasmo.co.jp; jr-odekake.net; jrhokkaido.co.jp]
+
 | Feature | Why it matters |
 |---|---|
 | 200ms read-cycle | Allows train-gate throughput — passenger walks through gate without stopping |
@@ -60,6 +64,8 @@ The Cyberne system ultimately moves yen between issuer bank accounts via Zengin 
 
 The prepaid IC scheme has two principal mobile-device rails:
 
+The following table is scoped to public primary sources (jreast.co.jp, pasmo.co.jp, jr-odekake.net). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jreast.co.jp; pasmo.co.jp; jr-odekake.net; jrhokkaido.co.jp]
+
 | Rail | Devices | Coverage |
 |---|---|---|
 | Mobile Suica via Apple Pay | iPhone 7+ (Japan model), iPhone 8+ (global model with FeliCa), Apple Watch Series 3+ | Suica, PASMO, ICOCA (added 2023) |
@@ -72,6 +78,8 @@ The Apple Pay implementation involves a tokenization layer (Apple Pay generates 
 ## Prepaid Payment Instrument Act treatment
 
 All nine prepaid IC cards are registered as **third-party prepaid payment instruments** under the Payment Services Act (FSA registration). This triggers:
+
+The following table is scoped to public primary sources (jreast.co.jp, pasmo.co.jp, jr-odekake.net). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jreast.co.jp; pasmo.co.jp; jr-odekake.net; jrhokkaido.co.jp]
 
 | Obligation | Detail |
 |---|---|
@@ -88,6 +96,8 @@ See [[payments/funds-transfer-vs-prepaid-boundary|funds-transfer vs prepaid boun
 ## Merchant acceptance footprint
 
 Transit prepaid cards have a substantial retail-merchant footprint beyond the transit gate:
+
+The following table is scoped to public primary sources (jreast.co.jp, pasmo.co.jp, jr-odekake.net). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jreast.co.jp; pasmo.co.jp; jr-odekake.net; jrhokkaido.co.jp]
 
 | Acceptance zone | Coverage |
 |---|---|
@@ -109,6 +119,8 @@ JR East eliminated the ¥500 deposit requirement on Mobile Suica issued via Appl
 ## Merchant fee economics — single-acquirer dynamics
 
 Because each transit-prepaid card has a **single principal acquirer** (the issuer entity itself), merchant-fee economics differ structurally from card-class multi-acquirer pricing:
+
+The following table is scoped to public primary sources (jreast.co.jp, pasmo.co.jp, jr-odekake.net). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jreast.co.jp; pasmo.co.jp; jr-odekake.net; jrhokkaido.co.jp]
 
 | Aspect | Transit prepaid (Suica / PASMO / ICOCA et al.) | Card (Visa / Mastercard / JCB) |
 |---|---|---|
@@ -132,6 +144,8 @@ JR East has communicated longer-horizon platform direction for Suica — moving 
 ## Cross-issuer cooperation governance
 
 Cooperation across the 10 IC mutual-use scheme involves multi-issuer governance with no single dominant rule-setter:
+
+The following table is scoped to public primary sources (jreast.co.jp, pasmo.co.jp, jr-odekake.net). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jreast.co.jp; pasmo.co.jp; jr-odekake.net; jrhokkaido.co.jp]
 
 | Governance dimension | How it works |
 |---|---|

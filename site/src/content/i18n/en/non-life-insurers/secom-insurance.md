@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/secom-insurance
-source_hash: f6eef986e7e4aed8
+source_hash: 118754b1834e1ce4
 lang: en
 status: machine
 fidelity: ok
 title: "Secom General Insurance"
-translated_at: 2026-06-01T00:41:50.391Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Secom General Insurance
 
@@ -18,6 +18,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 Secom General Insurance Co., Ltd. is a non-life insurer listed on the FSA non-life insurance company license list. Because it sits adjacent to a security-services group, it should be read through a risk-prevention and service-bundled-insurance lens rather than as a traditional insurance-only group.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, sonpohogo.or.jp, secom-sonpo.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sonpohogo.or.jp; secom-sonpo.co.jp]
 
 | Item | Notes |
 |---|---|

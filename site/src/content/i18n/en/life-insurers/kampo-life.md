@@ -1,11 +1,11 @@
 ---
 source: life-insurers/kampo-life
-source_hash: fe344aa657815460
+source_hash: 7c1ab931be0e5b3f
 lang: en
 status: machine
 fidelity: ok
 title: "Japan Post Insurance (かんぽ生命保険)"
-translated_at: 2026-06-19T06:09:18.142Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Japan Post Insurance (かんぽ生命保険)
 
@@ -30,6 +30,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ### Key KPIs (overview)
 
+The following table is scoped to public primary sources (pdf.irpocket.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:pdf.irpocket.com]
+
 | Item | Summary |
 |---|---|
 | Consolidated total assets | About 59.6 兆円 (59兆5,556億円, as of the end of the 2025-03  period. A decrease of 2.1% versus the end of the prior period) |
@@ -53,6 +55,8 @@ Japan Post Holdings (holding company, listed 6178)
 
 ### Key chronology ^[extracted]
 
+The following table is scoped to public primary sources (pdf.irpocket.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:pdf.irpocket.com]
+
 | Year/month | Event |
 |---|---|
 | 1916 | **The Postal Life Insurance system begins** (under the jurisdiction of the Ministry of Communications, as a state-run enterprise) |
@@ -71,6 +75,8 @@ Japan Post Holdings (holding company, listed 6178)
 | 2024 | **The medium-term management plan (the renewed-growth phase after trust restoration)** is underway |
 
 ## 2. Business-segment map
+
+The following table is scoped to public primary sources (pdf.irpocket.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:pdf.irpocket.com]
 
 | Segment | Main products / channels | Characteristics |
 |---|---|---|

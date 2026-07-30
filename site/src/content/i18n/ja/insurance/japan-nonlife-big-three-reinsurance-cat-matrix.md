@@ -1,11 +1,11 @@
 ---
 source: insurance/japan-nonlife-big-three-reinsurance-cat-matrix
-source_hash: 1fa1bad71f839540
+source_hash: 420c25188065702c
 lang: ja
 status: machine
 fidelity: ok
 title: "日本損保ビッグスリーの再保険・カット・オーバーレイ・マトリクス"
-translated_at: 2026-06-19T06:09:18.053Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本損保ビッグスリーの再保険・巨大災害・オーバーレイ・マトリクス
@@ -90,6 +90,8 @@ translated_at: 2026-06-19T06:09:18.053Z
 
 ### アイデンティティ、グループ、および事業構造
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, iaisweb.org, sonpo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; iaisweb.org; sonpo.or.jp; tokiomarinehd.com]
+
 | 軸 | Tokio Marine Holdings | MS&AD Insurance Group Holdings | Sompo Holdings |
 |---|---|---|---|
 | 上場持株会社 | [[non-life-insurers/tokio-marine|Tokio Marine Holdings]] (TSE Prime) | [[non-life-insurers/msad|MS&AD Insurance Group Holdings]] (TSE Prime) | [[non-life-insurers/sompo|Sompo Holdings]] (TSE Prime) |
@@ -101,6 +103,8 @@ translated_at: 2026-06-19T06:09:18.053Z
 
 ### ペリル別の国内巨大災害エクスポージャー
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, iaisweb.org, sonpo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; iaisweb.org; sonpo.or.jp; tokiomarinehd.com]
+
 | ペリル | Tokio Marine | MS&AD | Sompo |
 |---|---|---|---|
 | 地震（商業） | 重要。巨大災害 XL が主要な緩和策 | 重要。巨大災害 XL が主要な緩和策 | 重要。巨大災害 XL が主要な緩和策 |
@@ -111,6 +115,8 @@ translated_at: 2026-06-19T06:09:18.053Z
 | 国内巨大災害予算のリセット | Faxai／Hagibis（2019）および後続イベント後にリセット | Faxai／Hagibis（2019）および後続イベント後にリセット | Faxai／Hagibis（2019）および後続イベント後にリセット |
 
 ### 再保険プログラムの形状
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, iaisweb.org, sonpo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; iaisweb.org; sonpo.or.jp; tokiomarinehd.com]
 
 | 軸 | Tokio Marine | MS&AD | Sompo |
 |---|---|---|---|
@@ -124,6 +130,8 @@ translated_at: 2026-06-19T06:09:18.053Z
 
 ### 海外ポートフォリオとスペシャルティ・フットプリント
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, iaisweb.org, sonpo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; iaisweb.org; sonpo.or.jp; tokiomarinehd.com]
+
 | 軸 | Tokio Marine | MS&AD | Sompo |
 |---|---|---|---|
 | 海外収益シェア | 3 社の中で最大 | 相応の規模。Tokio Marine より小さい | 相応の規模。Tokio Marine より小さい |
@@ -136,6 +144,8 @@ translated_at: 2026-06-19T06:09:18.053Z
 
 ### 株式保有と持合いポートフォリオ
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, iaisweb.org, sonpo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; iaisweb.org; sonpo.or.jp; tokiomarinehd.com]
+
 | 軸 | Tokio Marine | MS&AD | Sompo |
 |---|---|---|---|
 | 持合いの遺産 | 戦後の系列／顧客ブックが大きい | 戦後の系列／顧客ブックが大きい | 戦後の系列／顧客ブックが大きい |
@@ -145,6 +155,8 @@ translated_at: 2026-06-19T06:09:18.053Z
 | 関係上の制約 | 売却は顧客／パートナー関係への配慮に対してシーケンス化される | 同じ制約 | 同じ制約 |
 
 ### 資本還元方針と ESR
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, iaisweb.org, sonpo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; iaisweb.org; sonpo.or.jp; tokiomarinehd.com]
 
 | 軸 | Tokio Marine | MS&AD | Sompo |
 |---|---|---|---|
@@ -157,6 +169,8 @@ translated_at: 2026-06-19T06:09:18.053Z
 
 ### コンバインド・レシオの分解（概念的）
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, iaisweb.org, sonpo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; iaisweb.org; sonpo.or.jp; tokiomarinehd.com]
+
 | ライン | Tokio Marine | MS&AD | Sompo |
 |---|---|---|---|
 | 自動車（任意） | 保険料で最大の単一ライン。サイクル感応的 | 最大の単一ライン。ADI のモビリティ経済圏 | 保険料で最大の単一ライン |
@@ -167,6 +181,8 @@ translated_at: 2026-06-19T06:09:18.053Z
 | 海外コンバインド・レシオ | 別個に報告。米国スペシャルティ／ロンドンのサイクルを反映 | 別個に報告 | 別個に報告 |
 
 ### 概念レベルでの ESR 感応度
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, iaisweb.org, sonpo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; iaisweb.org; sonpo.or.jp; tokiomarinehd.com]
 
 | 感応度 | Tokio Marine | MS&AD | Sompo |
 |---|---|---|---|
@@ -179,6 +195,8 @@ translated_at: 2026-06-19T06:09:18.053Z
 
 ### 最近の M&A と戦略的ディール（概念的）
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, iaisweb.org, sonpo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; iaisweb.org; sonpo.or.jp; tokiomarinehd.com]
+
 | 軸 | Tokio Marine | MS&AD | Sompo |
 |---|---|---|---|
 | 米国スペシャルティの M&A 履歴 | Philadelphia、Pure、HCC プラットフォーム | 米国スペシャルティ・プラットフォーム | Endurance／Sompo International |
@@ -188,6 +206,8 @@ translated_at: 2026-06-19T06:09:18.053Z
 | モビリティ／デジタル隣接 | テレマティクス／デジタル P&C 投資 | トヨタ／モビリティ経済圏 | デジタル P&C 投資 |
 
 ### スペシャルティ・ラインのマッピング
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, iaisweb.org, sonpo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; iaisweb.org; sonpo.or.jp; tokiomarinehd.com]
 
 | スペシャルティ・ライン | Tokio Marine | MS&AD | Sompo |
 |---|---|---|---|
@@ -217,6 +237,8 @@ translated_at: 2026-06-19T06:09:18.053Z
 ## 開示の読み方
 
 各グループは、類似しているが同一ではない開示フォーマットで関連データを公表する:
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, iaisweb.org, sonpo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; iaisweb.org; sonpo.or.jp; tokiomarinehd.com]
 
 | 開示サーフェス | Tokio Marine HD | MS&AD HD | Sompo HD |
 |---|---|---|---|

@@ -11,8 +11,8 @@ aliases:
   - "Japan merchant acquiring PSP landscape"
 domain: payments
 created: 2026-05-25
-last_updated: 2026-07-29
-last_tended: 2026-07-29
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-10-27
 confidence: certain
 tags: [payments, matrix, PSP, payment-gateway, merchant-acquiring, EC, scorecard, Japan]
@@ -128,6 +128,8 @@ Distinctive position: **Recruit ecosystem + mPOS** — Recruit's HotPepper Beaut
 
 ## Big comparison matrix table
 
+The following table is scoped to public primary sources (gmo-pg.com, gmo.jp, epsilon.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:gmo-pg.com; gmo.jp; epsilon.jp; sbpayment.jp]
+
 | PSP | Parent / group | Listing | Founded | Primary merchant base | Reported merchant count | Card brand support | Code payment support | A2A / Bank Pay support | Konbini / bank-transfer | Suica / IC-prepaid | BNPL / 後払い integration | Settlement speed (typical) | Fee model (small merchant baseline) | Vertical specialization | Acquirer role (own/external) | M&A / parent history |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | **[[payment-firms/gmo-payment-gateway\|GMO-PG]]** | [[business/gmo-internet-group\|GMO Internet Group]] | TSE PRIME 3769 | 1995 (as カードコマース) | Enterprise + mid-market EC | ~30万+ stores | Visa / MC / JCB / AMEX / Diners / Discover | PayPay / d払い / au PAY / 楽天ペイ via gateway | Bank Pay / 銀行振込 | Yes (multi-konbini) | Limited | BtoB 後払い in-house + 3rd-party | Configurable T+5 to T+M | Negotiated by volume; high-volume rates among lowest | Multi-vertical; enterprise | Own merchant-contracting + multi-acquirer routing | GMO group internal; SMBC GMO PAYMENT JV with [[card-issuers/smbc-card\|SMBC Card]] |
@@ -165,6 +167,8 @@ Readers should treat any specific number as **public-source-cited only** and ver
 
 ## Cross-PSP technical differentiation
 
+The following table is scoped to public primary sources (gmo-pg.com, gmo.jp, epsilon.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:gmo-pg.com; gmo.jp; epsilon.jp; sbpayment.jp]
+
 | Capability | GMO-PG | GMO Epsilon | SBPS | DGFT | Netstars | Square | Stripe | PayPal | Komoju | Amazon Pay | Rakuten Pay | Recruit / Air PAY |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | EMV 3-DS 2.x compliance (2025-03 mandate) | Yes | Yes | Yes | Yes | N/A (code-first) | Yes | Yes | Yes | Yes | Yes | Yes | Yes |
@@ -179,6 +183,8 @@ Readers should treat any specific number as **public-source-cited only** and ver
 ## Fee economics — small-merchant view
 
 For a 商店街 small merchant deciding which PSP to onboard, the headline fee comparison usually looks like this. Real fees are negotiated per merchant and per MCC.
+
+The following table is scoped to public primary sources (gmo-pg.com, gmo.jp, epsilon.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:gmo-pg.com; gmo.jp; epsilon.jp; sbpayment.jp]
 
 | PSP | Card MDR baseline (small merchant) | Per-tx fixed | Monthly minimum | Onboarding time | Hardware cost |
 |---|---|---|---|---|---|
@@ -216,6 +222,8 @@ A fourth era is plausibly emerging in the 2024-2026 window around **BNPL integra
 - **"How does this matrix relate to [[payments/japan-payment-scheme-economics-matrix|Japan payment scheme economics matrix]]?"** That matrix covers card vs code vs A2A vs prepaid at the scheme class level. This matrix decomposes the PSP / merchant-gateway dimension within the merchant-acceptance side of all four scheme classes. The two are orthogonal.
 
 ## Recent regulatory pressure on PSPs
+
+The following table is scoped to public primary sources (gmo-pg.com, gmo.jp, epsilon.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:gmo-pg.com; gmo.jp; epsilon.jp; sbpayment.jp]
 
 | Date | Source | What changed |
 |---|---|---|

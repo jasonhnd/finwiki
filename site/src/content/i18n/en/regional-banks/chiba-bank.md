@@ -1,11 +1,11 @@
 ---
 source: regional-banks/chiba-bank
-source_hash: bd1dab7241aa23c4
+source_hash: e26761eaf478afc9
 lang: en
 status: machine
 fidelity: ok
 title: "Chiba Bank"
-translated_at: 2026-06-19T12:43:19.878Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Chiba Bank
@@ -28,6 +28,8 @@ A top-tier standalone regional bank rooted in Chiba Prefecture (consolidated dep
 **Business type**: Regional bank (standalone bank that has not adopted a holding-company structure)
 
 ### Key figures (FY2025-03 ・consolidated) ^[extracted]
+
+The following table is scoped to public primary sources (ssl4.eir-parts.net). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:ssl4.eir-parts.net]
 
 | Item | Amount / scale |
 |---|---|
@@ -66,6 +68,8 @@ Chiba Bank (standalone bank・listed 8331)
 
 ### Key chronology (excerpt) ^[extracted]
 
+The following table is scoped to public primary sources (ssl4.eir-parts.net). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:ssl4.eir-parts.net]
+
 | Date | Event |
 |---|---|
 | 1943-03-31 | Chiba Godo Bank, Omigawa Noshominato Bank, the 98th Bank merger → Chiba Bank newly incorporated |
@@ -76,6 +80,8 @@ Chiba Bank (standalone bank・listed 8331)
 | 2024  | Medium-term management plan formulated |
 
 ## 2. Business segment map
+
+The following table is scoped to public primary sources (ssl4.eir-parts.net). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:ssl4.eir-parts.net]
 
 | Segment | Main operators | Characteristics |
 |---|---|---|
@@ -91,6 +97,8 @@ Chiba Bank (standalone bank・listed 8331)
 ### TSUBASA Alliance lead strategy ★
 
 **Established 2015 **, a 11 行 alliance led by Chiba Bank (an alternative model that **gains economies of scale while avoiding regional-bank holding-company formation**):
+
+The following table is scoped to public primary sources (ssl4.eir-parts.net). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:ssl4.eir-parts.net]
 
 | Bank | Base |
 |---|---|
@@ -129,6 +137,8 @@ Chiba Bank (standalone bank・listed 8331)
 - See the latest IR for details
 
 ### Competitive relationships
+
+The following table is scoped to public primary sources (ssl4.eir-parts.net). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:ssl4.eir-parts.net]
 
 | Competitor | Relationship |
 |---|---|

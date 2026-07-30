@@ -1,11 +1,11 @@
 ---
 source: life-insurers/sony-life
-source_hash: 43021b2f0b4cab1a
+source_hash: df3267701ceecbb0
 lang: ja
 status: machine
 fidelity: ok
 title: "ソニー生命保険"
-translated_at: 2026-06-19T06:09:18.158Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # ソニー生命保険
@@ -20,6 +20,8 @@ translated_at: 2026-06-19T06:09:18.158Z
 ソニー生命保険株式会社は、[[megabanks/sony-fg]] の中核となる生命保険オペレーティング・カンパニーである。金融庁の生命保険会社免許一覧に載る免許保有保険会社であり、ソニー・フィナンシャル・グループの銀行・損保・介護／金融サービスのサーフェスの中で、ライフプランナー型の生命保険ビジネスを担う。
 
 ## 1. 免許／グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, sonylife.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; sonylife.co.jp]
 
 | 項目 | 注記 |
 |---|---|

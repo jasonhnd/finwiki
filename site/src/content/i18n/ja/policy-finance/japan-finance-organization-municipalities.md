@@ -1,11 +1,11 @@
 ---
 source: policy-finance/japan-finance-organization-municipalities
-source_hash: 2100c9f1aff1c318
+source_hash: c5ce90113f70bd6b
 lang: ja
 status: machine
 fidelity: ok
 title: "地方公共団体金融機構（JFM）"
-translated_at: 2026-06-03T00:53:08.264Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 地方公共団体金融機構（JFM）
 
@@ -16,6 +16,8 @@ translated_at: 2026-06-03T00:53:08.264Z
 このページでは、JFM を[[policy-finance/INDEX|policy-finance index]]のレンズで扱う。すなわち、[[financial-regulators/jfc|JFC]]（中小企業 / 農林漁業）、[[financial-regulators/jbic|JBIC]]（海外）、[[financial-regulators/dbj|DBJ]]（開発銀行 / GX）、[[policy-finance/japan-housing-finance-agency|JHF]]（住宅）と並ぶ、公的信用マップ上の一レーンとして位置づける。JapanFG ドメインの対応する企業沿革ページは[[financial-regulators/local-govt-finance]]である。
 
 ## 1. 制度上の境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（jfm.go.jp, chihousai.or.jp）の範囲に限定して読む。^[source:jfm.go.jp; chihousai.or.jp]
 
 | 項目 | 読み方 |
 |---|---|
@@ -29,6 +31,8 @@ translated_at: 2026-06-03T00:53:08.264Z
 | FinWiki 上のレーン | 制度上の役割は[[policy-finance/INDEX|policy-finance]]、企業沿革は[[financial-regulators/local-govt-finance]]、市場側との相互作用は[[financial-regulators/local-bond-market]] |
 
 ## 2. 機能マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（jfm.go.jp, chihousai.or.jp）の範囲に限定して読む。^[source:jfm.go.jp; chihousai.or.jp]
 
 | 機能 | 重要性 |
 |---|---|
@@ -47,6 +51,8 @@ JFM は、[[financial-regulators/jfc|JFC]]、[[financial-regulators/jbic|JBIC]]�
 [[money-market/INDEX|money-market]]の構図では、JFM 債と共同発行市場公募地方債は、JGB 以外で最大級の高格付円建て公的信用資産クラスの一つを構成し、担保として使われ、銀行、生命保険会社、地域銀行、公的年金基金に保有される。
 
 ## 4. 歴史的な流れ
+
+以下の表は、エントリ出典インベントリの公開一次資料（jfm.go.jp, chihousai.or.jp）の範囲に限定して読む。^[source:jfm.go.jp; chihousai.or.jp]
 
 | 年 | 出来事 |
 |---|---|

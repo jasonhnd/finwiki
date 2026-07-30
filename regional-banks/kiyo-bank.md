@@ -3,8 +3,8 @@ title: 株式会社紀陽銀行 (The Kiyo Bank)
 aliases: ["Kiyo Bank", "The Kiyo Bank, Ltd.", "紀陽銀行", "きようぎんこう", "きよう"]
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, kansai]
@@ -47,6 +47,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 > 統合背景：2006 の和歌山銀行統合は「県内 2 行 → 1 行」の地銀再編として典型例。**注目点は 2013 の持株会社解散** — 多くの地銀が持株会社化（FG 化）に進む中、紀陽は逆に **持株会社を解散して単独銀行に戻った** 珍しい事例。
 
 ### 重要年表（抜粋）
+
+The following table is scoped to public primary sources (Wikipedia: 紀陽銀行 (2026-05-19 抽出), Wikipedia: 紀陽ホールディングス (2026-05-19 抽出)). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Wikipedia: 紀陽銀行 (2026-05-19 抽出); Wikipedia: 紀陽ホールディングス (2026-05-19 抽出)]
 
 | 年月 | 事象 |
 |---|---|

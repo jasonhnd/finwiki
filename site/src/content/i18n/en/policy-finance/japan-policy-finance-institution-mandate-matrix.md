@@ -1,11 +1,11 @@
 ---
 source: policy-finance/japan-policy-finance-institution-mandate-matrix
-source_hash: e79c82098d957de5
+source_hash: 4b9d44f279d1cc11
 lang: en
 status: machine
 fidelity: ok
 title: "Japan policy-finance institution mandate matrix (JFC / DBJ / JBIC / JICA / NEXI / JOGMEC / JHF / ODFC / JASSO)"
-translated_at: 2026-06-01T03:31:12.229Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan policy-finance institution mandate matrix (JFC / DBJ / JBIC / JICA / NEXI / JOGMEC / JHF / ODFC / JASSO)
@@ -157,6 +157,8 @@ Without the institution axis, comparing two deals or two policy choices on one b
 - **Recent mandate shift.** Means-tested grant scholarship expansion (2020 高等教育の修学支援新制度 launch and subsequent expansion), income-contingent repayment scheme rollout, repayment-relief expansion for hardship cases, increased emphasis on international-student inbound support under Japan's "300,000 international students" policy framework.
 
 ## Big comparison matrix table
+
+The following table is scoped to public primary sources (jfc.go.jp, dbj.jp, jbic.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jfc.go.jp; dbj.jp; jbic.go.jp; jica.go.jp]
 
 | Axis | JFC | DBJ | JBIC | JICA | NEXI | JOGMEC | JHF | ODFC | JASSO |
 |---|---|---|---|---|---|---|---|---|---|

@@ -1,11 +1,11 @@
 ---
 source: regional-banks/tsukuba-bank
-source_hash: 11e38c13d9c0bf4d
+source_hash: 2e0f1742591ad448
 lang: en
 status: machine
 fidelity: ok
 title: "Tsukuba Bank"
-translated_at: 2026-06-15T04:09:41.198Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Tsukuba Bank
@@ -19,6 +19,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 Tsukuba Bank, Ltd. (株式会社筑波銀行) is a regional bank (first-tier regional bank) headquartered in Tsuchiura City, Ibaraki Prefecture, holding a bank license under the Banking Act and listed in the FSA's bank license list, with its head-office functions in Tsukuba City. It was formed in 2010 年 3 月 1 日 when Kanto Tsukuba Bank absorbed Ibaraki Bank by merger. Within Ibaraki Prefecture, [[regional-banks/joyo-bank|常陽銀行]] is large as the core bank of [[regional-banks/mebuki-fg|めぶきフィナンシャルグループ]], but Tsukuba Bank is a licensed regional bank operating company that is a separate legal entity. Its business is the standard regional-bank model of deposit-taking and lending to SMEs / individuals within Ibaraki Prefecture.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, tsukubabank.co.jp, ja.wikipedia.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; tsukubabank.co.jp; ja.wikipedia.org]
 
 | Item | Notes |
 |---|---|

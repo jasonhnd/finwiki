@@ -1,12 +1,12 @@
 ---
 source: life-insurers/meiji-yasuda
-source_hash: ba478364eea7afb9
+source_hash: 1057264e1e5f9978
 lang: en
 model: codex-source-faithful
 status: machine
 fidelity: ok
 title: "Meiji Yasuda Life Insurance Company"
-translated_at: 2026-07-28T19:18:08Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 明治安田生命保険相互会社
@@ -43,6 +43,8 @@ Meiji Yasuda Life is a mutual company formed in January 2004 through the merger 
 
 ### Key chronology
 
+The following table is scoped to public primary sources (meijiyasuda.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meijiyasuda.co.jp]
+
 | Year/Month | Event |
 |---|---|
 | 1880 | Kyosai Gohyaku Meisha founded |
@@ -62,6 +64,8 @@ Meiji Yasuda Life is a mutual company formed in January 2004 through the merger 
 - **Meiji Yasuda Life Planning Center** ── think tank
 
 ## 3. Business segment map
+
+The following table is scoped to public primary sources (meijiyasuda.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meijiyasuda.co.jp]
 
 | Segment | Content | Characteristics |
 |---|---|---|

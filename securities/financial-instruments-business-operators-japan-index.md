@@ -12,8 +12,8 @@ aliases:
   - "JapanFG/securite-crowdfunding"
 domain: "securities"
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [securities, FIEA, FIBO, registry, fsa, brokers, asset-management]
@@ -33,6 +33,8 @@ Use this page to separate brokerage, Type I / Type II FIBO, investment advisory,
 
 ## Boundary
 
+The following table is scoped to public primary sources (fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp]
+
 | Boundary | Treatment |
 |---|---|
 | Financial instruments business operators | Full population controlled by FSA `kinyushohin.xlsx`; summarized here by category and jurisdiction. |
@@ -42,6 +44,8 @@ Use this page to separate brokerage, Type I / Type II FIBO, investment advisory,
 | Long-tail advisers / Type II operators | Registry-only unless strategic. |
 
 ## Registry Snapshot
+
+The following table is scoped to public primary sources (fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp]
 
 | Metric | Reading |
 |---|---:|

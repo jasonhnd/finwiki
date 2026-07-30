@@ -1,11 +1,11 @@
 ---
 source: securities-firms/aizawa-securities
-source_hash: 0ecb2a449ad6f645
+source_hash: 4533160327b5ae52
 lang: ja
 status: machine
 fidelity: ok
 title: "アイザワ証券 (Aizawa Securities)"
-translated_at: 2026-07-28T20:55:25Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # アイザワ証券 (Aizawa Securities)
@@ -54,6 +54,8 @@ translated_at: 2026-07-28T20:55:25Z
 
 ## 4. 業務セグメント
 
+以下の表は、エントリ出典インベントリの公開一次資料（aizawa.co.jp, aizawa-sg.co.jp, fsa.go.jp）の範囲に限定して読む。^[source:aizawa.co.jp; aizawa-sg.co.jp; fsa.go.jp]
+
 | セグメント | 内容 | 位置付け |
 |---|---|---|
 | 国内株式仲介 | 日本株 (TSE / OSE / 名証 / 福証 / 札証) | 主力収益柱 |
@@ -71,6 +73,8 @@ translated_at: 2026-07-28T20:55:25Z
 
 ## 6. 競合・業界ポジション
 
+以下の表は、エントリ出典インベントリの公開一次資料（aizawa.co.jp, aizawa-sg.co.jp, fsa.go.jp）の範囲に限定して読む。^[source:aizawa.co.jp; aizawa-sg.co.jp; fsa.go.jp]
+
 | 指標 | アイザワ証券 | [[securities-firms/iwai-cosmo-securities|岩井コスモ]] | [[securities-firms/marusan-securities|丸三]] | [[securities-firms/tokai-tokyo-securities|東海東京]] |
 |---|---|---|---|---|
 | 本店所在地 | 東京・日本橋 | 大阪・今橋 | 東京・日本橋 | 名古屋・名駅 |
@@ -87,6 +91,8 @@ translated_at: 2026-07-28T20:55:25Z
 - **NISA 制度恒久化対応**：2024-01 新 NISA 開始に伴うリテール口座獲得
 
 ## 8. 主要 KPI（概観）
+
+以下の表は、エントリ出典インベントリの公開一次資料（aizawa.co.jp, aizawa-sg.co.jp, fsa.go.jp）の範囲に限定して読む。^[source:aizawa.co.jp; aizawa-sg.co.jp; fsa.go.jp]
 
 | 項目 | 規模感 |
 |---|---|

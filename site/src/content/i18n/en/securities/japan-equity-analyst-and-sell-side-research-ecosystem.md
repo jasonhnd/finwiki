@@ -1,11 +1,11 @@
 ---
 source: securities/japan-equity-analyst-and-sell-side-research-ecosystem
-source_hash: 66d37876a028887f
+source_hash: b20b5a5249c31615
 lang: en
 status: machine
 fidelity: ok
 title: "Japan equity analyst and sell-side research ecosystem"
-translated_at: 2026-06-01T03:31:12.333Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan equity analyst and sell-side research ecosystem
@@ -66,6 +66,8 @@ Sell-side equity research is the analytical layer that sits between issuer discl
 
 ## Global IB tier in Japan
 
+The following table is scoped to public primary sources (nomuraholdings.com, smbcnikko.co.jp, daiwa-grp.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:nomuraholdings.com; smbcnikko.co.jp; daiwa-grp.jp; mizuho-sc.com]
+
 | House | Local entity | Research character |
 |---|---|---|
 | Goldman Sachs Japan | [[securities-firms/goldman-sachs-japan|Goldman Sachs Japan Co., Ltd.]] | Global GS Research integrated; Japan equity team contributes Japan content into the global product; strong macro / strategy distribution. |
@@ -82,6 +84,8 @@ Global IB Japan research output is integrated into worldwide platforms, which me
 
 Independent (sell-side-unaffiliated) research is a smaller but growing segment in Japan:
 
+The following table is scoped to public primary sources (nomuraholdings.com, smbcnikko.co.jp, daiwa-grp.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:nomuraholdings.com; smbcnikko.co.jp; daiwa-grp.jp; mizuho-sc.com]
+
 | House | Character |
 |---|---|
 | Astris Advisory Japan | Long-standing independent Japan equity research; respected for thematic and stewardship-oriented work. |
@@ -94,6 +98,8 @@ Independent (sell-side-unaffiliated) research is a smaller but growing segment i
 The independent segment's economic constraint in Japan is the absence of a mandatory MiFID-style unbundling rule that would force institutional clients to pay separately for research — without forced separation, the institutional buyer can rely on free-at-point-of-use sell-side coverage and may not budget separately for independent research the way EU buyers do.
 
 ## Distribution channels
+
+The following table is scoped to public primary sources (nomuraholdings.com, smbcnikko.co.jp, daiwa-grp.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:nomuraholdings.com; smbcnikko.co.jp; daiwa-grp.jp; mizuho-sc.com]
 
 | Channel | Function |
 |---|---|
@@ -111,6 +117,8 @@ Caveat: Many Japanese-language sell-side reports do not transit Bloomberg / Refi
 ## Regulatory boundary: inducement and best-execution context
 
 The regulatory frame for Japanese sell-side research differs from the EU MiFID II inducement regime in important ways:
+
+The following table is scoped to public primary sources (nomuraholdings.com, smbcnikko.co.jp, daiwa-grp.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:nomuraholdings.com; smbcnikko.co.jp; daiwa-grp.jp; mizuho-sc.com]
 
 | Dimension | EU MiFID II | Japan |
 |---|---|---|

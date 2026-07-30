@@ -1,11 +1,11 @@
 ---
 source: securities/japan-prime-brokerage-and-institutional-financing
-source_hash: e40b3b854ea344ae
+source_hash: a2ba5ca7b290c266
 lang: en
 status: machine
 fidelity: ok
 title: "Japan prime brokerage and institutional financing"
-translated_at: 2026-06-01T03:31:12.322Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan prime brokerage and institutional financing
@@ -22,6 +22,8 @@ Use this page with [[securities/japan-margin-trading-and-securities-finance|marg
 
 ## Function Stack
 
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, jpx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; jpx.co.jp; jasdec.com]
+
 | Function | Legal / regulatory anchor | Infrastructure rail | Main risk |
 |---|---|---|---|
 | Execution | Type I FIBO / broker-dealer route. | Exchange, PTS, broker routing, SOR. | Best execution, order marking, market abuse. |
@@ -32,6 +34,8 @@ Use this page with [[securities/japan-margin-trading-and-securities-finance|marg
 | Collateral operations | Cash / securities collateral and margining. | Custodian, broker, CCP, treasury. | Reuse / rehypothecation-like exposure, concentration, liquidity. |
 
 ## Actor Map
+
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, jpx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; jpx.co.jp; jasdec.com]
 
 | Actor | Role |
 |---|---|
@@ -48,6 +52,8 @@ Use this page with [[securities/japan-margin-trading-and-securities-finance|marg
 
 ## Financing Route Map
 
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, jpx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; jpx.co.jp; jasdec.com]
+
 | Route | How to read it | Pages to open |
 |---|---|---|
 | Cash margin | Client borrows money or securities against collateral. | [[securities/japan-margin-trading-and-securities-finance|margin trading route]] |
@@ -58,6 +64,8 @@ Use this page with [[securities/japan-margin-trading-and-securities-finance|marg
 
 ## JapanFG Company Routing
 
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, jpx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; jpx.co.jp; jasdec.com]
+
 | Company page | Likely wiki role |
 |---|---|
 | [[securities-firms/nomura-hd|Nomura]], [[securities-firms/daiwa-sg|Daiwa Securities Group]] | Domestic wholesale securities / prime finance / institutional brokerage anchors. |
@@ -66,6 +74,8 @@ Use this page with [[securities/japan-margin-trading-and-securities-finance|marg
 | [[foreign-financial-institutions/bny-mellon-japan|BNY Mellon Japan]], [[foreign-financial-institutions/state-street-japan|State Street Japan]], [[foreign-financial-institutions/euroclear-bank-japan|Euroclear Bank Japan]], [[foreign-financial-institutions/clearstream-banking-japan|Clearstream Banking Japan]] | Custody, settlement, and global collateral context. |
 
 ## Control Questions
+
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, jpx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; jpx.co.jp; jasdec.com]
 
 | Question | Public relevance |
 |---|---|

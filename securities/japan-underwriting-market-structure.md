@@ -7,8 +7,8 @@ aliases:
   - "日本 引受市場 structure"
 domain: "securities"
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-22
 confidence: likely
 tags: [securities, underwriting, IPO, ECM, DCM, JSDA, JPX]
@@ -42,6 +42,8 @@ Use this page with [[finance/japan-ib-league-table|Japan IB league table]], [[fi
 | Trading / settlement | Exchange / PTS, [[securities/japan-securities-clearing-corp|JSCC]], [[securities/japan-securities-depository-center|JASDEC]] | The newly issued or sold security enters the market infrastructure layer. |
 
 ## Underwriter Types
+
+The following table is scoped to public primary sources (jpx.co.jp, jsda.or.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp; jsda.or.jp; fsa.go.jp; disclosure2.edinet-fsa.go.jp]
 
 | Type | Typical role | FinWiki pages |
 |---|---|---|
@@ -88,6 +90,8 @@ This is why [[money-market/jgb-repo-market-japan|Japan JGB repo market]] and [[m
 Use the league table to ask "who is active in this slice," then use this page to ask "what role did the firm perform and which regulatory / infrastructure layer mattered?"
 
 ## Risk Controls and Failure Modes
+
+The following table is scoped to public primary sources (jpx.co.jp, jsda.or.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp; jsda.or.jp; fsa.go.jp; disclosure2.edinet-fsa.go.jp]
 
 | Risk | Where it appears |
 |---|---|

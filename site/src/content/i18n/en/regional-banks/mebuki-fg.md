@@ -1,11 +1,11 @@
 ---
 source: regional-banks/mebuki-fg
-source_hash: ca13a969dd8a5ce0
+source_hash: 97e5bc7e308b1909
 lang: en
 status: machine
 fidelity: ok
 title: "めぶき FG (Mebuki FG)"
-translated_at: 2026-06-19T12:43:19.984Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # めぶき FG (Mebuki FG)
@@ -51,6 +51,8 @@ Mebuki FG (holding company, listed 7167)
 
 ### Key chronology ^[extracted]
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Year/Month | Event |
 |---|---|
 | 1895 | Ashikaga Bank founded (Tochigi Prefecture)|
@@ -64,6 +66,8 @@ Mebuki FG (holding company, listed 7167)
 | 2024~ | Medium-term management plan (mega-regional orientation / metropolitan-area expansion / DX promotion)|
 
 ## 2. Business segment map
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Segment | Main operator | Characteristics |
 |---|---|---|

@@ -3,8 +3,8 @@ title: "荘内銀行"
 aliases: ["Shonai Bank", "The Shonai Bank", "株式会社荘内銀行"]
 domain: regional-banks
 created: 2026-05-21
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, banking, regional-bank, fidea-hd, tohoku, operating-company]
@@ -26,6 +26,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 株式会社荘内銀行 (The Shonai Bank) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される山形県地盤の地方銀行で、[[regional-banks/fidea-hd|フィデアホールディングス]] 傘下の operating bank。第六十七国立銀行を含む系譜を持ち戦時統合で 1941 年に発足。2025 年 5 月に登記上の本店所在地を鶴岡市から山形市へ移転した。フィデア HD は 2027 年 1 月 1 日付で荘内銀が秋田側の [[regional-banks/hokuto-bank|北都銀行]] を吸収合併し「フィデア銀行」となる計画を公表している。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, shonai.co.jp, ja.wikipedia.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; shonai.co.jp; ja.wikipedia.org]
 
 | Item | Notes |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/credit-agricole-bank-japan
-source_hash: dcc971d842f9ce9a
+source_hash: c42935b8d6a1ecb4
 lang: en
 status: machine
 fidelity: ok
 title: "Credit Agricole Bank Tokyo Branch"
-translated_at: 2026-05-31T15:29:03.895Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Credit Agricole Bank Tokyo Branch
@@ -20,6 +20,8 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 Crédit Agricole Bank is a bank branch in Japan of France / Crédit Agricole CIB, which is listed on the Financial Services Agency's list of foreign bank branches. A separate Banking Act branch from [[life-insurers/credit-agricole-life|クレディ・アグリコル生命]] deals with the Japanese bases of wholesale banking / CIB / global markets / trade and export finance.
 
 ## 1. License / branch boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, ca-cib.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; ca-cib.com]
 
 |Item|Notes|
 |---|---|

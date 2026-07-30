@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/ntt-docomo-sonpo
-source_hash: 3cf4189714203ebc
+source_hash: d6907cf678d9a80d
 lang: en
 status: machine
 fidelity: ok
 title: "NTTドコモ損害保険"
-translated_at: 2026-06-15T04:20:20.007Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # NTTドコモ損害保険
@@ -23,6 +23,8 @@ Use this page for the licensed operating company. Use [[non-life-insurers/ntt-do
 The company matters because it makes the NTT Docomo insurance route more concrete: the holding company is not only a regulatory shell, and the operating insurer is tied to non-life / reinsurance business around device and smart-life protection services.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, docomo-sompo.com, docomo.ne.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; docomo-sompo.com; docomo.ne.jp]
 
 | Item | Notes |
 |---|---|

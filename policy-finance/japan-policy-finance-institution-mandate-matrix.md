@@ -11,8 +11,8 @@ aliases:
   - "政策金融機関 9 機関比較"
 domain: policy-finance
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [policy-finance, matrix, japan, mandate-comparison, state-finance, eca, dbj, jfc, jbic, jica, nexi, jogmec, jhf, odfc, jasso]
@@ -183,6 +183,8 @@ Without the institution axis, comparing two deals or two policy choices on one b
 - **Recent mandate shift.** Means-tested grant scholarship expansion (2020 高等教育の修学支援新制度 launch and subsequent expansion), income-contingent repayment scheme rollout, repayment-relief expansion for hardship cases, increased emphasis on international-student inbound support under Japan's "300,000 international students" policy framework.
 
 ## Big comparison matrix table
+
+The following table is scoped to public primary sources (jfc.go.jp, dbj.jp, jbic.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jfc.go.jp; dbj.jp; jbic.go.jp; jica.go.jp]
 
 | Axis | JFC | DBJ | JBIC | JICA | NEXI | JOGMEC | JHF | ODFC | JASSO |
 |---|---|---|---|---|---|---|---|---|---|

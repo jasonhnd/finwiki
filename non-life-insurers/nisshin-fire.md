@@ -3,8 +3,8 @@ title: "日新火災海上保険"
 aliases: ["日新火災", "Nisshin Fire", "Nisshin Fire & Marine", "日新火災海上保険株式会社"]
 domain: non-life-insurers
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, insurance, non-life-insurance, tokio-marine, operating-company]
@@ -27,6 +27,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 日新火災海上保険株式会社は、金融庁の損害保険会社免許一覧に掲載される non-life insurer。[[non-life-insurers/tokio-marine]] group adjacency を持つが、[[non-life-insurers/tokio-marine-nichido-fire]] and [[non-life-insurers/tokio-marine-direct]] とは別の legal entity and operating-company anchor として扱う。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, sonpohogo.or.jp, nisshinfire.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sonpohogo.or.jp; nisshinfire.co.jp]
 
 | Item | Notes |
 |---|---|

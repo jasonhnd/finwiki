@@ -1,11 +1,11 @@
 ---
 source: securities-firms/traders-securities
-source_hash: 04cf88af57456afb
+source_hash: 42d35eba230679b4
 lang: ja
 status: machine
 fidelity: ok
 title: "トレイダーズ証券"
-translated_at: 2026-06-15T04:09:41.142Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # トレイダーズ証券
@@ -19,6 +19,8 @@ translated_at: 2026-06-15T04:09:41.142Z
 トレイダーズ証券株式会社は、上場持株会社トレイダーズホールディングス（東証スタンダード 8704）の 100% 子会社で、金融デリバティブ特化型のオンライン証券。金融商品取引法上の **第一種金融商品取引業者** として金融庁の金融商品取引業者一覧に「トレイダーズ証券株式会社」（関東財務局長(金商)第123号）で掲載される。主力ブランドは店頭FX の「みんなのFX」「LIGHT FX」。
 
 ## 1. 免許／グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, tradershd.com, min-fx.jp）の範囲に限定して読む。^[source:fsa.go.jp; tradershd.com; min-fx.jp]
 
 | 項目 | 備考 |
 |---|---|

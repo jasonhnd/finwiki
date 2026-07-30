@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/deutsche-japan
-source_hash: 79dd72437cf5438a
+source_hash: 19a2340c08217d73
 lang: en
 status: machine
 fidelity: ok
 title: "Deutsche Japan (ドイチェ・ジャパン)"
-translated_at: 2026-06-18T23:59:13.064Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Deutsche Japan (ドイチェ・ジャパン)
@@ -25,6 +25,8 @@ The collective term for the group of Japan bases of Deutsche Bank (Deutsche Bank
 
 ### Main Japan bases
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Entity | Type | Notes |
 |---|---|---|
 | **Deutsche Bank Tokyo Branch** (Deutsche Bank AG, Tokyo Branch) | foreign-bank branch | opened 1972 , head office in Frankfurt |
@@ -42,6 +44,8 @@ The collective term for the group of Japan bases of Deutsche Bank (Deutsche Bank
 
 ## 2. History / timeline
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Date | Event |
 |---|---|
 | 1870 | Deutsche Bank AG founded (Berlin) |
@@ -58,6 +62,8 @@ The collective term for the group of Japan bases of Deutsche Bank (Deutsche Bank
 | 2023-03 | Amid the aftermath of the Credit Suisse crisis and attention on European banks generally, it maintained relative stability |
 
 ## 3. Business segment map
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Segment | Main operator | Characteristics |
 |---|---|---|
@@ -80,6 +86,8 @@ After the 2019  global restructuring, it concentrates in Japan as well on the fo
 - **No retail rollout**: due to its cost structure, it does not compete head-on with the Japanese megabanks
 
 ### Competitive mapping
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Competitor | Strength comparison |
 |---|---|

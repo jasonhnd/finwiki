@@ -1,11 +1,11 @@
 ---
 source: payments/google-play-gift-card-japan
-source_hash: 693b06072c1a6bd7
+source_hash: 258e34a5fc7c6e21
 lang: en
 status: machine
 fidelity: ok
 title: "Google Play Gift Card Japan: closed-loop Google-ecosystem prepaid"
-translated_at: 2026-06-01T03:31:12.302Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Google Play Gift Card Japan: closed-loop Google-ecosystem prepaid
@@ -19,6 +19,8 @@ This entry sits under [[payments/INDEX|payments index]] as the Google Play Gift 
 **Google Play Gift Card (Google Playギフトカード)** is the **closed-loop prepaid gift card for Google Play store and Google ecosystem services**, issued in Japan by **Google Asia Pacific Pte Ltd / Google Japan G.K.** under arrangement with local convenience-store and electronics-retailer distributors, and operating as a 自家型 (closed-loop) 前払式支払手段 under the [[payments/funds-transfer-vs-prepaid-boundary|Payment Services Act prepaid framework]]. Balance is spendable on **Google Play store** (apps, in-app purchases, games, books, movies — including Google Play Pass subscription) and selected Google services. As the **Android-ecosystem counterpart to [[payments/apple-gift-card-japan|Apple Gift Card]]**, Google Play Gift Card serves the same structural role of **cardless on-ramp for app and in-app purchases** for users without registered credit cards (minors, no-credit-card cohorts, gift recipients). Distribution rails include convenience stores (Lawson, FamilyMart, MiniStop, 7-Eleven, Daily Yamazaki), drugstores, electronics retailers (Yamada Denki, Bic Camera, Yodobashi Camera, Edion), and online digital distribution.
 
 ## Issuer and operational structure
+
+The following table is scoped to public primary sources (play.google.com, support.google.com, google.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:play.google.com; support.google.com; google.co.jp; fsa.go.jp]
 
 | Dimension | Reading |
 |---|---|
@@ -45,6 +47,8 @@ Google Play Gift Card is registered as **自家型前払式支払手段** under 
 
 Google Play Gift Card's principal role in Japan is **cardless on-ramp for Android users** — particularly:
 
+The following table is scoped to public primary sources (play.google.com, support.google.com, google.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:play.google.com; support.google.com; google.co.jp; fsa.go.jp]
+
 | Cohort | Use case |
 |---|---|
 | **Minors** | Under-18 users without credit cards purchase apps, in-app purchases, and games via gift-card balance |
@@ -56,6 +60,8 @@ Google Play Gift Card's principal role in Japan is **cardless on-ramp for Androi
 The **mobile gaming spend lane** is structurally important — Japan's mobile games market drives significant Google Play in-app purchase volume, and a sizable share of that comes from gift-card-funded balance rather than credit-card direct billing.
 
 ## Distribution rails
+
+The following table is scoped to public primary sources (play.google.com, support.google.com, google.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:play.google.com; support.google.com; google.co.jp; fsa.go.jp]
 
 | Rail | Description |
 |---|---|
@@ -75,6 +81,8 @@ Like [[payments/amazon-gift-card-japan|Amazon Gift Card]] and [[payments/apple-g
 - NPA and consumer-protection authorities name Google Play Gift Card alongside Amazon and Apple in scam-pattern advisories.
 
 ## KPI snapshot
+
+The following table is scoped to public primary sources (play.google.com, support.google.com, google.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:play.google.com; support.google.com; google.co.jp; fsa.go.jp]
 
 | Metric | Reading |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: regional-banks/yucho
-source_hash: 95c9e8884a37bd62
+source_hash: ea50a144c91679f3
 lang: en
 status: machine
 fidelity: ok
 title: "Japan Post Bank (ゆうちょ銀行)"
-translated_at: 2026-06-15T04:09:41.142Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Japan Post Bank (ゆうちょ銀行)
 
@@ -29,6 +29,8 @@ A commercial bank with one of Japan's largest deposit bases (a scale of **approx
 
 ### Key figures (public basis · 2025-03-31 results)
 
+The following table is scoped to public primary sources (jp-bank.japanpost.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jp-bank.japanpost.jp]
+
 | Item | Scale |
 |---|---|
 | Deposit balance | **190.5 兆円** (190 兆 4,650 億円 · 2025-03-31, among the largest of any domestic bank · high JGB-holding ratio) |
@@ -51,6 +53,8 @@ Japan Post Holdings (holding company · listed 6178)
 
 ### Key chronology ^[extracted]
 
+The following table is scoped to public primary sources (jp-bank.japanpost.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jp-bank.japanpost.jp]
+
 | Year/Month | Event |
 |---|---|
 | 1875 | Postal savings founded |
@@ -64,6 +68,8 @@ Japan Post Holdings (holding company · listed 6178)
 | 2024〜 | Medium-term management plan (investment diversification · acceleration of digitalisation) |
 
 ## 2. Business-segment map
+
+The following table is scoped to public primary sources (jp-bank.japanpost.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jp-bank.japanpost.jp]
 
 | Segment | Main business | Characteristics |
 |---|---|---|

@@ -10,8 +10,8 @@ aliases:
   - "Japan front-end instruments matrix"
 domain: "money-market"
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [money-market, call-market, repo, CP, NCD, TBill, TDB, BoJ, MMF, MRF, floor-system, instrument-matrix]
@@ -171,6 +171,8 @@ The matrix exists so that any single short-end instrument page can be placed ins
 - **Post-2024 floor implications.** Positive yen short rates have revived the MRF yield surface; underlying portfolio yields lift toward the policy-rate-balance floor minus management fees. The MRF survives as the default brokerage cash sleeve; MMF revival depends on persistent positive front-end rates and product-revival decisions.
 
 ## Cross-instrument comparison matrix
+
+The following table is scoped to public primary sources (boj.or.jp, mof.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:boj.or.jp; mof.go.jp]
 
 | Dimension | Uncoll. Call | Coll. Call | GC Repo | SC Repo | CP | NCD | TBill / TDB | BoJ CDF (補完当座預金) | MRF / MMF |
 |---|---|---|---|---|---|---|---|---|---|

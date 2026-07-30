@@ -1,11 +1,11 @@
 ---
 source: regional-banks/hokuriku-bank
-source_hash: 7305ff66b3cd7432
+source_hash: b90bf221bca025a0
 lang: en
 status: machine
 fidelity: ok
 title: "The Hokuriku Bank"
-translated_at: 2026-06-15T04:09:41.162Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # The Hokuriku Bank
@@ -20,6 +20,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 The Hokuriku Bank, Ltd. (株式会社北陸銀行, Hokugin) is a regional bank (first regional bank) headquartered in Toyama Prefecture, holding a bank license under the Banking Act and listed in the FSA's bank-license list. It is the core operating bank of [[regional-banks/hokuhoku-fg|ほくほくフィナンシャルグループ]], and because it has a wide-area branch network across the 3  Hokuriku prefectures plus Hokkaido, the Tokyo metropolitan area, and Kinki, it is another banking pillar of the Hokuhoku group alongside [[regional-banks/hokkaido-bank|北海道銀行]]. Its business is the standard regional-bank model: deposit-taking in its home territory and lending to SMEs, individuals, and local governments.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, hokugin.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; hokugin.co.jp]
 
 | Item | Notes |
 |---|---|

@@ -7,8 +7,8 @@ aliases:
   - "グローバル ソルベンシー 比較"
 domain: "insurance"
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-20
 confidence: likely
 tags: [insurance, solvency, ESR, ICS, solvency-II, RBC, regulation, capital, comparison]
@@ -37,6 +37,8 @@ For Japanese insurer analysis, the practical reading rule is: ESR drives domesti
 
 ### Identity and effective date
 
+The following table is scoped to public primary sources (fsa.go.jp, iaisweb.org, eiopa.europa.eu). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; iaisweb.org; eiopa.europa.eu; content.naic.org]
+
 | Dimension | Japan FSA ESR | IAIS ICS 2.0 | EU Solvency II | US NAIC RBC |
 |---|---|---|---|---|
 | Regulator | Financial Services Agency (FSA) | International Association of Insurance Supervisors (IAIS) | European Insurance and Occupational Pensions Authority (EIOPA) and national supervisors | National Association of Insurance Commissioners (NAIC) and state regulators |
@@ -55,6 +57,8 @@ For Japanese insurer analysis, the practical reading rule is: ESR drives domesti
 
 ### Capital structure
 
+The following table is scoped to public primary sources (fsa.go.jp, iaisweb.org, eiopa.europa.eu). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; iaisweb.org; eiopa.europa.eu; content.naic.org]
+
 | Dimension | Japan FSA ESR | IAIS ICS 2.0 | EU Solvency II | US NAIC RBC |
 |---|---|---|---|---|
 | Capital tiering | Tiered qualifying capital with quality criteria broadly aligned to ICS principles; subordinated debt and capital instruments admitted subject to limits | Two-tier qualifying capital resources: Tier 1 (core, including unlimited Tier 1) and Tier 2; subject to limits on Tier 2 use | Three tiers: Tier 1 (unrestricted and restricted), Tier 2, Tier 3, each with eligibility limits relative to SCR and MCR | Total Adjusted Capital aggregates statutory capital and surplus, asset valuation reserve (life), and approved adjustments; no formal Tier 1 / 2 / 3 split |
@@ -72,6 +76,8 @@ For Japanese insurer analysis, the practical reading rule is: ESR drives domesti
 
 ### Disclosure and supervision
 
+The following table is scoped to public primary sources (fsa.go.jp, iaisweb.org, eiopa.europa.eu). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; iaisweb.org; eiopa.europa.eu; content.naic.org]
+
 | Dimension | Japan FSA ESR | IAIS ICS 2.0 | EU Solvency II | US NAIC RBC |
 |---|---|---|---|---|
 | Pillar structure | FSA frames the regime as three pillars: regulatory capital, internal risk management / supervisory review (ORSA-style), and disclosure | Two-tier supervisory architecture: ICS as Prescribed Capital Requirement plus group-wide supervision | Three pillars: Pillar 1 quantitative (SCR / MCR), Pillar 2 governance and ORSA, Pillar 3 disclosure (SFCR, RSR, QRTs) | Confidential RBC report to state regulator with regulatory action levels; not a public Pillar-3-style disclosure regime |
@@ -79,6 +85,8 @@ For Japanese insurer analysis, the practical reading rule is: ESR drives domesti
 | Supervisory ladder | FSA monitors against thresholds; action levels under economic-value regime are calibrated during transition | ICS-level supervisory dialogue; no formal "ladder" but ICS ratio informs supervisory intervention | SCR breach triggers recovery plan; MCR breach triggers withdrawal of authorization absent short-term recovery | Four action levels: Company Action, Regulatory Action, Authorized Control, Mandatory Control |
 
 ### Convergence and divergence vs IAIS ICS
+
+The following table is scoped to public primary sources (fsa.go.jp, iaisweb.org, eiopa.europa.eu). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; iaisweb.org; eiopa.europa.eu; content.naic.org]
 
 | Regime | Alignment with ICS | Key divergences |
 |---|---|---|
@@ -99,6 +107,8 @@ The Japanese insurance market translates these frameworks through specific entit
 
 Each regime is layering climate / ESG considerations on top of the core capital framework rather than embedding them in the headline ratio:
 
+The following table is scoped to public primary sources (fsa.go.jp, iaisweb.org, eiopa.europa.eu). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; iaisweb.org; eiopa.europa.eu; content.naic.org]
+
 | Regime | Climate / ESG approach |
 |---|---|
 | Japan FSA ESR | FSA climate-related scenario analyses for large insurers; ESG risk treated mostly through ORSA and supervisory dialogue rather than direct SCR-style add-on |
@@ -107,6 +117,8 @@ Each regime is layering climate / ESG considerations on top of the core capital 
 | US NAIC RBC | NAIC Climate Risk Disclosure Survey and TCDD-aligned reporting; not yet a direct RBC capital charge |
 
 ## Transition arrangements
+
+The following table is scoped to public primary sources (fsa.go.jp, iaisweb.org, eiopa.europa.eu). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; iaisweb.org; eiopa.europa.eu; content.naic.org]
 
 | Regime | Transition mechanism |
 |---|---|

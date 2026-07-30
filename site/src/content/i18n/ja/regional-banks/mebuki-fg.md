@@ -1,11 +1,11 @@
 ---
 source: regional-banks/mebuki-fg
-source_hash: ca13a969dd8a5ce0
+source_hash: 97e5bc7e308b1909
 lang: ja
 status: machine
 fidelity: ok
 title: "めぶき FG (Mebuki FG)"
-translated_at: 2026-06-02T14:54:39.086Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # めぶき FG (Mebuki FG)
@@ -64,6 +64,8 @@ translated_at: 2026-06-02T14:54:39.086Z
 | 2024〜 | 中期経営計画（メガリージョナル志向 / 首都圏進出 / DX 推進）|
 
 ## 2. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

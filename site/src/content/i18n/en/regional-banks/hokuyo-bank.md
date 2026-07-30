@@ -1,11 +1,11 @@
 ---
 source: regional-banks/hokuyo-bank
-source_hash: 0b9ba9265f06a240
+source_hash: 61e6b8db0d8e040a
 lang: en
 status: machine
 fidelity: ok
 title: "Hokuyo Bank"
-translated_at: 2026-06-19T12:43:19.911Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Hokuyo Bank
@@ -27,6 +27,8 @@ Hokkaido's largest regional financial institution (total assets **13 兆 4467 �
 **Parent-company background**: Former listed holding company **Sapporo Hokuyo Holdings (TSE / Sapporo SE 8328) → 2012-10-01 dissolved and delisted via reverse-absorption merger by Hokuyo Bank** (the 3 th case in Japan of a subsidiary bank absorbing its holding company, following Momiji HD and Kirayaka HD). **Now a non-listed standalone bank**
 
 ### 2025-03  results (consolidated)
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Item | Amount |
 |---|---|
@@ -59,6 +61,8 @@ Hokkaido's largest regional financial institution (total assets **13 兆 4467 �
 
 ### Key chronology (excerpt)
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Year/month | Event |
 |---|---|
 | 1917-08 | Hokkaido Mujin established |
@@ -72,6 +76,8 @@ Hokkaido's largest regional financial institution (total assets **13 兆 4467 �
 | 2025-03  | Total assets 13.4 兆円 / deposits 11.1 兆円 |
 
 ## 2. Business-segment map
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Segment | Main business | Features |
 |---|---|---|

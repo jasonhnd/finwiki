@@ -1,11 +1,11 @@
 ---
 source: securities/financial-instruments-business-operators-japan-index
-source_hash: 086ee055b52ebea8
+source_hash: a80b0b0874807539
 lang: en
 status: machine
 fidelity: ok
 title: "Japan financial instruments business operators registry index"
-translated_at: 2026-06-15T04:09:41.150Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan financial instruments business operators registry index
@@ -18,6 +18,8 @@ Use this page to separate brokerage, Type I / Type II FIBO, investment advisory,
 
 ## Boundary
 
+The following table is scoped to public primary sources (fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp]
+
 | Boundary | Treatment |
 |---|---|
 | Financial instruments business operators | Full population controlled by FSA `kinyushohin.xlsx`; summarized here by category and jurisdiction. |
@@ -27,6 +29,8 @@ Use this page to separate brokerage, Type I / Type II FIBO, investment advisory,
 | Long-tail advisers / Type II operators | Registry-only unless strategic. |
 
 ## Registry Snapshot
+
+The following table is scoped to public primary sources (fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp]
 
 | Metric | Reading |
 |---|---:|
@@ -47,6 +51,8 @@ FSA notes that one operator may have multiple registrations, so category subtota
 
 ## Jurisdiction Counts
 
+The following table is scoped to public primary sources (fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp]
+
 | Jurisdiction | Operators |
 |---|---:|
 | FSA (Financial Services Agency) | 413 |
@@ -66,6 +72,8 @@ FSA notes that one operator may have multiple registrations, so category subtota
 ## Existing Material Wiki Routes
 
 These routes capture material operators already present in FinWiki. They are not a full row-level reproduction of the FSA workbook.
+
+The following table is scoped to public primary sources (fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp]
 
 | Segment | Existing routes |
 |---|---|

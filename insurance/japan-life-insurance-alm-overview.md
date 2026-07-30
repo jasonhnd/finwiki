@@ -7,8 +7,8 @@ aliases:
   - "Japan life insurer asset-liability management"
 domain: "insurance"
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [insurance, life-insurance, alm, japan, duration, currency-hedge, esr]
@@ -173,6 +173,8 @@ Stress-testing is performed against FSA scenarios (interest-rate parallel shifts
 
 How ALM results are translated for stakeholders differs sharply by legal form:
 
+The following table is scoped to public primary sources (fsa.go.jp, boj.or.jp, mof.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; boj.or.jp; mof.go.jp; seiho.or.jp]
+
 | Form | ALM disclosure flow |
 |---|---|
 | Mutual insurer (Nippon, Meiji Yasuda, Sumitomo) | ALM results feed into policyholder dividend (契約者配当) capacity; surplus distribution is governed by mutual policyholder-representative procedures |
@@ -182,6 +184,8 @@ How ALM results are translated for stakeholders differs sharply by legal form:
 The [[insurance/mutual-vs-stock-life-insurer|mutual vs stock comparison]] is essential context: identical ALM positioning can produce structurally different stakeholder outcomes depending on legal form.
 
 ## Big-four ALM contrast
+
+The following table is scoped to public primary sources (fsa.go.jp, boj.or.jp, mof.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; boj.or.jp; mof.go.jp; seiho.or.jp]
 
 | Insurer | ALM character |
 |---|---|
@@ -195,6 +199,8 @@ The [[insurance/mutual-vs-stock-life-insurer|mutual vs stock comparison]] is ess
 ## Practical reading order for insurer disclosure
 
 When reading a Japanese life insurer's annual / integrated report for ALM purposes, the most efficient sequence is:
+
+The following table is scoped to public primary sources (fsa.go.jp, boj.or.jp, mof.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; boj.or.jp; mof.go.jp; seiho.or.jp]
 
 | Step | Read | What to extract |
 |---|---|---|

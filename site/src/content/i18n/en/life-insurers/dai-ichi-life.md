@@ -1,12 +1,12 @@
 ---
 source: life-insurers/dai-ichi-life
-source_hash: 38c0e46ae039d2c2
+source_hash: 89ccf82fafd7b116
 lang: en
 model: codex-source-faithful
 status: machine
 fidelity: ok
 title: "Daiichi Life Group / formerly Dai-ichi Life HD"
-translated_at: 2026-07-28T19:18:08Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 第一ライフグループ / 旧 第一生命 HD
@@ -33,6 +33,8 @@ Daiichi Life Group, Inc. is a listed insurance group (securities code 8750) that
 
 ### Key KPIs (FY2024  = 2025-03  period, consolidated, disclosed 2025-05-15)
 
+The following table is scoped to public primary sources (daiichilife-group.com, dai-ichi-life-hd.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:daiichilife-group.com; dai-ichi-life-hd.com; fsa.go.jp]
+
 | Item | FY2024  actual | YoY |
 |---|---|---|
 | Ordinary revenue | **9 兆 8,732 億円** | ▲10.5% (same period prior year +1.15 兆 decrease) |
@@ -50,6 +52,8 @@ Daiichi Life Group, Inc. is a listed insurance group (securities code 8750) that
 **FY2025  1H (2025-09  period) actuals**: ordinary revenue 5 兆 1,196 億円 (▲1.4%), ordinary profit 3,434 億円 (▲7.7%), interim net income 2,096 億円 (▲10.1%).
 
 ### Key KPIs (overview / business type)
+
+The following table is scoped to public primary sources (daiichilife-group.com, dai-ichi-life-hd.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:daiichilife-group.com; dai-ichi-life-hd.com; fsa.go.jp]
 
 | Item | Overview |
 |---|---|
@@ -80,6 +84,8 @@ Daiichi Life Group, Inc. is a listed insurance group (securities code 8750) that
 
 ### Key timeline (excerpt)
 
+The following table is scoped to public primary sources (daiichilife-group.com, dai-ichi-life-hd.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:daiichilife-group.com; dai-ichi-life-hd.com; fsa.go.jp]
+
 | Year/month | Event |
 |---|---|
 | 1902-09 | **Founded** (Tsuneta Yano, formerly Dai-ichi Mutual Life Insurance Company, **Japan's first mutual-company-form insurance**) |
@@ -97,6 +103,8 @@ Daiichi Life Group, Inc. is a listed insurance group (securities code 8750) that
 | **2025-05** | **FY2024  results**: net income 4,296 億円 (+34%), overseas business exceeding 1,000 億円 for the first time, additional share buyback 1,000 億円 |
 
 ## 2. Business segment map
+
+The following table is scoped to public primary sources (daiichilife-group.com, dai-ichi-life-hd.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:daiichilife-group.com; dai-ichi-life-hd.com; fsa.go.jp]
 
 | Segment | Main operator | Characteristics |
 |---|---|---|

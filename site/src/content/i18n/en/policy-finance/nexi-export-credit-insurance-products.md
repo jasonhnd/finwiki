@@ -1,11 +1,11 @@
 ---
 source: policy-finance/nexi-export-credit-insurance-products
-source_hash: 9775a3a2bb402924
+source_hash: 7b937fb2f57f3f70
 lang: en
 status: machine
 fidelity: ok
 title: "NEXI export credit insurance products"
-translated_at: 2026-06-01T03:31:12.275Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # NEXI export credit insurance products
@@ -19,6 +19,8 @@ This entry sits under [[policy-finance/INDEX|policy-finance index]] as the produ
 NEXI (株式会社日本貿易保険) is Japan's export-credit and investment-insurance agency, METI-supervised, sole shareholder MoF since the 2017 株式会社化 (corporatisation). Its product menu is organised around three primary families: **貿易一般保険** (general trade insurance, the umbrella that covers buyer-credit, supplier-credit, and standalone short-term export receivables), **投資保険** (overseas investment insurance covering political-risk and contract-frustration on equity and shareholder loans), and **海外事業資金貸付保険** (loan insurance covering political and commercial default on overseas lending — including the slice that megabanks and [[financial-regulators/jbic|JBIC]] depend on for large project-finance deals). Risk coverage splits into **political risk** (war, expropriation, transfer restriction, sovereign breach) and **commercial risk** (buyer default, bankruptcy, protracted default). Standard cover ratios run around 95% political / 95% (sometimes 90%) commercial on long-term flagship products; short-term receivables insurance runs to 100% in some product designs. NEXI premia and tenor are constrained by the [[policy-finance/oecd-export-credit-arrangement|OECD Arrangement on Officially Supported Export Credits]] — the same regime that disciplines JBIC and peer ECAs (US EXIM, K-EXIM, UKEF, KfW IPEX, EDC, Bpifrance, Cesce). Climate-related product evolution since 2021 — Coal Sector Understanding tightening, expanded climate-friendly tenor under the Climate Change Sector Understanding, and selective expansion into critical-minerals and supply-chain insurance — has reshaped which sector deals NEXI can underwrite at standard parameters. NEXI also operates as the public reinsurer for some private trade-credit-insurance flows in Japan.
 
 ## 1. 機関 / 部門位置
+
+The following table is scoped to public primary sources (nexi.go.jp, meti.go.jp, oecd.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:nexi.go.jp; meti.go.jp; oecd.org]
 
 | Item | Detail |
 |---|---|
@@ -41,6 +43,8 @@ NEXI is an OECD-Arrangement-following member. Premia must meet or exceed the **M
 NEXI's product menu is large; the main families are summarised below.
 
 ### 2.1 Product taxonomy
+
+The following table is scoped to public primary sources (nexi.go.jp, meti.go.jp, oecd.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:nexi.go.jp; meti.go.jp; oecd.org]
 
 | Family | Sub-product | Covered risk | Typical cover ratio | Counterparty |
 |---|---|---|---|---|
@@ -184,6 +188,8 @@ Since approximately 2022 NEXI's product posture has shifted in parallel with [[f
 The shifts reshape product mix and country exposures without altering the underlying mechanics — NEXI remains an insurer wrapping commercial tranches and equity exposures under OECD Arrangement disciplines, with state risk-bearing capacity standing behind the insurer's balance sheet.
 
 ## 7. Comparative position — NEXI vs peer ECAs and private markets
+
+The following table is scoped to public primary sources (nexi.go.jp, meti.go.jp, oecd.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:nexi.go.jp; meti.go.jp; oecd.org]
 
 | Dimension | NEXI | US EXIM Bank | K-EXIM (Korea) | UKEF (UK) | Sinosure (China) | Private PRI / TCI markets |
 |---|---|---|---|---|---|---|

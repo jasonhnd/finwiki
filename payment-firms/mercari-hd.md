@@ -3,8 +3,8 @@ title: メルカリ HD（株式会社メルカリ）
 aliases: ["メルカリ", "Mercari", "Mercari Inc.", "メルペイ", "メルコイン", "Merpay", "Mercoin", "メルカード", "4385"]
 domain: payment-firms
 created: 2026-05-19
-last_updated: 2026-07-29
-last_tended: 2026-07-29
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-10-27
 confidence: certain
 tags: [JapanFG, ec-fintech, crypto]
@@ -65,6 +65,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 
 ### 重要年表
 
+The following table is scoped to public primary sources (about.mercari.com, www2.jpx.co.jp, jpx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:about.mercari.com; www2.jpx.co.jp; jpx.co.jp; finance-frontend-pc-dist.west.edge.storage-yahoo.jp]
+
 | 年月 | 事象 |
 |---|---|
 | 2013-02-01 | 株式会社コウゾウ 設立（山田進太郎 創業）|
@@ -89,6 +91,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 | **2025-06 期** | **売上収益 1,926 億円・当期利益 261 億円**（YoY +94%、3 期連続最高益）、**米国事業 初の通期黒字化** |
 
 ## 2. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (about.mercari.com, www2.jpx.co.jp, jpx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:about.mercari.com; www2.jpx.co.jp; jpx.co.jp; finance-frontend-pc-dist.west.edge.storage-yahoo.jp]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -127,6 +131,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 
 ### 競合構図
 
+The following table is scoped to public primary sources (about.mercari.com, www2.jpx.co.jp, jpx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:about.mercari.com; www2.jpx.co.jp; jpx.co.jp; finance-frontend-pc-dist.west.edge.storage-yahoo.jp]
+
 | 領域 | 主な競合 |
 |---|---|
 | C2C フリマ | ヤフオク（LY）、ラクマ（楽天）、PayPay フリマ |
@@ -150,6 +156,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
   - 個人情報保護法・古物営業法 → メルカリ本体の出品管理
 
 ## 経営数値（公開資料・FY2025.6 通期）
+
+The following table is scoped to public primary sources (about.mercari.com, www2.jpx.co.jp, jpx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:about.mercari.com; www2.jpx.co.jp; jpx.co.jp; finance-frontend-pc-dist.west.edge.storage-yahoo.jp]
 
 | 項目 | 数値 | 時点 / 出典 |
 |---|---|---|

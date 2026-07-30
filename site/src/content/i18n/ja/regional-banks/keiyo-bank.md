@@ -1,11 +1,11 @@
 ---
 source: regional-banks/keiyo-bank
-source_hash: a92adb1c46cdb6db
+source_hash: 1976ae2b96e16d55
 lang: ja
 status: machine
 fidelity: ok
 title: "株式会社京葉銀行"
-translated_at: 2026-06-19T12:43:19.903Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 株式会社京葉銀行
@@ -31,6 +31,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ### 概要数値（公開ベース・概数）
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | 項目 | 規模感 |
 |---|---|
 | 総資産 | 約 5 兆円台（第二地銀でも上位） |
@@ -40,6 +42,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 | 従業員 | 約 2,000 名規模 |
 
 ### 沿革（抜粋）
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | 年月 | 事象 |
 |---|---|
@@ -53,6 +57,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## 2. 事業セグメント・マップ
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | 部門 | 主力商品 | 位置付け |
 |---|---|---|
 | 法人 | 中小企業向け融資・事業承継支援 | 京葉地区中小企業に密着、メインバンク比率が地元で高い |
@@ -62,6 +68,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 | 系列・関連 | けいぎん総合リース、けいぎんカードサービス、けいぎんビジネスサービス 等 | 地域密着型のグループ会社 |
 
 ### 千葉県内市場構造
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | 銀行 | 種別 | 位置付け |
 |---|---|---|
@@ -89,6 +97,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 - **個人預金比率**：個人預金の比率が法人預金より高め、リテール色が濃い
 
 ### 競合関係 map
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | 競合軸 | 主要競合 |
 |---|---|

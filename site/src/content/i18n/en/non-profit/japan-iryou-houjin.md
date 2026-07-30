@@ -1,12 +1,12 @@
 ---
 source: non-profit/japan-iryou-houjin
-source_hash: aa462144d5ffb4c6
+source_hash: ca238ded72b0c34d
 lang: en
 model: claude-opus-4-8
 status: machine
 fidelity: ok
 title: "Japan Medical Corporation (Iryou Houjin) — medical corporation types, the non-profit constraint, and tax treatment"
-translated_at: 2026-06-05T00:00:00.000Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan Medical Corporation (Iryou Houjin) — medical corporation types, the non-profit constraint, and tax treatment
@@ -20,6 +20,8 @@ This entry sits under [[non-profit/INDEX|non-profit INDEX]] as the **healthcare-
 A **医療法人 (Medical Corporation)** is the corporate vehicle a doctor or group uses to run a **病院 / 診療所 / 介護老人保健施設**, authorised by the **都道府県知事** under the 医療法. It is **non-profit by statute — surplus may not be distributed as dividends** — but historically came in a **持分あり (equity-type)** flavour where members held a residual claim on net assets. Post-2007 reform, **new medical corporations are 持分なし (no-equity)**, and a top tier — the **社会医療法人** — performs public-mission care (emergency, remote, perinatal) in exchange for full **公益法人等** tax treatment.
 
 ## Two structural axes: 社団 vs 財団, and 持分あり vs 持分なし
+
+The following table is scoped to public primary sources (laws.e-gov.go.jp, mhlw.go.jp, nta.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:laws.e-gov.go.jp; mhlw.go.jp; nta.go.jp]
 
 | Axis | Variants | Notes |
 |---|---|---|
@@ -39,6 +41,8 @@ This is the key boundary case: a 医療法人 is "non-profit" in **governance** 
 
 The **社会医療法人** is a 都道府県-認定 upgrade for medical corporations carrying out **救急医療・へき地医療・周産期医療** and similar公益性-high services to a statutory standard:
 
+The following table is scoped to public primary sources (laws.e-gov.go.jp, mhlw.go.jp, nta.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:laws.e-gov.go.jp; mhlw.go.jp; nta.go.jp]
+
 | Lever | Ordinary 医療法人 | 社会医療法人 |
 |---|---|---|
 | Corporation tax on medical income | **Taxed (普通法人 treatment)** | **Non-taxable** on the public医療 business (公益法人等 treatment); 収益事業 taxed |
@@ -49,6 +53,8 @@ The **社会医療法人** is a 都道府県-認定 upgrade for medical corporat
 So the **社会医療法人** is where the medical form finally reaches the tax posture of the other public-interest non-profits — and gains a capital-markets tool (社会医療法人債) unavailable to a 公益財団.
 
 ## Governance organs
+
+The following table is scoped to public primary sources (laws.e-gov.go.jp, mhlw.go.jp, nta.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:laws.e-gov.go.jp; mhlw.go.jp; nta.go.jp]
 
 | Organ | 社団医療法人 | 財団医療法人 |
 |---|---|---|

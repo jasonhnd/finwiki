@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/woori-bank-japan
-source_hash: 05fc6cf3e419736f
+source_hash: 9e1de26a96d625bc
 lang: en
 status: machine
 fidelity: ok
 title: "Woori Bank Tokyo Branch"
-translated_at: 2026-06-01T02:31:57.149Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Woori Bank Tokyo Branch
 
@@ -18,6 +18,8 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 Woori Bank Tokyo Branch is the Japan branch of Republic of Korea / Woori Bank listed in the FSA foreign-bank branch list. As a Korean bank's Japan corridor branch, it serves as an entry point for deposits, remittances, corporate transactions, and Korea-related cross-border finance.
 
 ## 1. License / Branch Boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, go.wooribank.com, zenginkyo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; go.wooribank.com; zenginkyo.or.jp]
 
 | Item | Notes |
 |---|---|

@@ -1,12 +1,12 @@
 ---
 source: policy-finance/jfc-agriculture-forestry-fisheries-division
-source_hash: c573d4c4f6789a38
+source_hash: 0de00c6eb4bd8b12
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "JFC 農林水産事業の運営モデル (農林水産事業)"
-translated_at: 2026-06-26T08:29:40.679Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # JFC 農林水産事業の運営モデル (農林水産事業)
@@ -18,6 +18,8 @@ translated_at: 2026-06-26T08:29:40.679Z
 JFC 農林水産事業（Agriculture, Forestry and Fisheries Division —「AFF 事業」）は [[financial-regulators/jfc|JFC]] の第 3 の商品担当事業であり、旧農林漁業金融公庫（Nourin Gyogyou Kinyu Koko、「農林公庫」、1953設立）が 2008-10 の 4 機関統合で JFC に統合された際に形成された。そのマンデートは 3 つの一次産業のレーン — 農業・林業・漁業 — に加え、下流の **食品産業**（食品加工、食品卸、上流の一次生産に紐づく食品小売の設備投資）をカバーする。融資商品は、JA / JF 協同組合系銀行が直接書かない（長尾の設備投資リスク、極めて長いテナー）か、または法令が政策金融チャネルに留保する、長期・低利の設備投資ファイナンスを軸に組成される。主要な商品メニューには、**スーパー L 資金**（認定農業者向けの旗艦的な農業経営体融資）、**経営体育成強化資金**、**農業近代化資金利子補給**（JA が組成した融資に乗る利子補給レバー）、**林業基盤整備資金** と後継の森林経営融資、**漁業近代化資金** と **沿岸漁業改善資金** のインフラ、そして原材料調達から HACCP / コールドチェーン設備投資、食品産業の再構築までを扱う大規模な **食品産業向け** メニューが含まれる。**JA バンク / 信農連 / JF マリンバンク / 信漁連 / [[cooperative-banks/norinchukin|農林中央金庫]]** との協調融資・協調ルーティングが、民間協同組合金融側の構造的なカウンターパートである；**MAFF**（農林水産大臣）が監督大臣であり、政策上乗せ予算の大半の供給源である。このレーンの下には 3 つの保証 / 保険のバックストップが位置する：**農業信用基金協会**（都道府県）と **漁業信用基金協会**（都道府県）のルートが、中央の **JAFFIC**（農林漁業信用基金）を通じて逆保証され、AFF 事業の引受フローに正式な相互参照を持つ。
 
 ## 1。JFC 内における部門位置
+
+以下の表は、エントリ出典インベントリの公開一次資料（jfc.go.jp, maff.go.jp, jaffic.go.jp）の範囲に限定して読む。^[source:jfc.go.jp; maff.go.jp; jaffic.go.jp; nochubank.or.jp]
 
 | 項目 | 詳細 |
 |---|---|
@@ -32,6 +34,8 @@ JFC 農林水産事業（Agriculture, Forestry and Fisheries Division —「AFF 
 AFF 事業は、並行する協同組合銀行ピラミッド（[[cooperative-banks/norinchukin|Norinchukin]] → 信農連 / 信漁連 → JA バンク / JF マリンバンク）に対する主要な直接政策融資のカウンターパートである点で、JFC 内で唯一無二である。中小企業事業と国民生活事業はより断片的な民間貸し手環境に直面する；AFF 事業は 1 つの首尾一貫したカウンターパート・システムに直面する。
 
 ### 2.1 商品メニュー表
+
+以下の表は、エントリ出典インベントリの公開一次資料（jfc.go.jp, maff.go.jp, jaffic.go.jp）の範囲に限定して読む。^[source:jfc.go.jp; maff.go.jp; jaffic.go.jp; nochubank.or.jp]
 
 | レーン | サブ商品 | 典型的な目的 | 返済条件（公開資料ベース） | カウンターパート / チャネル |
 |---|---|---|---|---|
@@ -127,6 +131,8 @@ AFF 事業は日本の政策金融内における主要な 経済安全保障ビ
 この事業の根底にある運営モデル — 3 つの一次産業に加え食品産業の下流を横断する長期・低利・協同組合連携の直接融資 — は変わっていない；メニューの構成が安全保障 / レジリエンス / 気候のテーマへと入れ替わってきた。
 
 ## 7。比較ポジション — AFF 事業 vs 隣接する協同組合銀行レーン
+
+以下の表は、エントリ出典インベントリの公開一次資料（jfc.go.jp, maff.go.jp, jaffic.go.jp）の範囲に限定して読む。^[source:jfc.go.jp; maff.go.jp; jaffic.go.jp; nochubank.or.jp]
 
 | 観点 | JFC AFF 事業 | JA バンク / 信農連 | JF マリンバンク / 信漁連 | 森林組合関連金融 | [[cooperative-banks/norinchukin\|Norinchukin]] |
 |---|---|---|---|---|---|

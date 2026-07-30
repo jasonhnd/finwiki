@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/china-construction-bank-japan
-source_hash: 60ab2537a16bc8a3
+source_hash: ebaa1bf2c21e2354
 lang: en
 status: machine
 fidelity: ok
 title: ""
-translated_at: 2026-05-31T11:13:44.859Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 ﻿# China Construction Bank Tokyo Branch
 
@@ -19,6 +19,8 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 China Construction Bank Tokyo Branch is a Japan branch of mainland China / China Construction Bank listed on the FSA foreign-bank branch list. As a China-Japan full-function branch upgraded from a Tokyo representative office to branch status in 2003 年, it handles deposits, lending, trade finance, foreign-exchange transactions, settlement, remittances, and personal banking services.
 
 ## 1. License / branch boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, jp.ccb.com, ccb.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jp.ccb.com; ccb.com]
 
 | Item | Notes |
 |---|---|

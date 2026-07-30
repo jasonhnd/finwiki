@@ -3,8 +3,8 @@ title: "Wise Payments Japan"
 aliases: ["Wise Japan", "Wise Payments Japan", "ワイズ・ペイメンツ・ジャパン", "ワイズ・ペイメンツ・ジャパン株式会社"]
 domain: payment-firms
 created: 2026-05-21
-last_updated: 2026-06-24
-last_tended: 2026-06-24
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-12-24
 confidence: likely
 tags: [JapanFG, payments, remittance, cross-border, funds-transfer]
@@ -27,6 +27,8 @@ sources:
 ワイズ・ペイメンツ・ジャパンは Wise グループの日本法人で、公式会社情報ページは第一種および第二種資金移動業者として登録番号を明示している。日本のクロスボーダー送金・多通貨口座サービスの競争を見る際の代表的な運営会社である。^[verified-2026-06-24]
 
 ## 1. 法人・ライセンス境界
+
+The following table is scoped to public primary sources (wise.com, newsroom.wise.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:wise.com; newsroom.wise.com; fsa.go.jp]
 
 | 項目 | 読み方 |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: regional-banks/tajima-bank
-source_hash: 831e174ddcf24108
+source_hash: 5c2fbacefc44c94f
 lang: ja
 status: machine
 fidelity: ok
 title: "但馬銀行"
-translated_at: 2026-06-15T04:09:41.147Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 但馬銀行
@@ -19,6 +19,8 @@ translated_at: 2026-06-15T04:09:41.147Z
 株式会社但馬銀行 (The Tajima Bank) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される兵庫県豊岡市本店の地方銀行 (第一地銀)。系譜は 1897 年設立の美含銀行で、1956 年に現商号へ。兵庫県内に本店を置く唯一の第一地方銀行として、関西の主要銀行グループとは別の独立系アンカーを持つ。事業は兵庫県北部 (但馬地域) の預金受入・中小企業/個人向け貸出という地銀の標準モデル。
 
 ## 1. 免許／グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, tajimabank.co.jp, ja.wikipedia.org）の範囲に限定して読む。^[source:fsa.go.jp; tajimabank.co.jp; ja.wikipedia.org]
 
 | 項目 | 備考 |
 |---|---|

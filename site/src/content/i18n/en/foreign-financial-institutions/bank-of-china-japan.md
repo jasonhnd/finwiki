@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/bank-of-china-japan
-source_hash: e08b7f246588d0b9
+source_hash: a2b3b3256535a758
 lang: en
 status: machine
 fidelity: ok
 title: "Chugoku Bank Tokyo Branch"
-translated_at: 2026-05-31T11:13:44.841Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Chugoku Bank Tokyo Branch
@@ -20,6 +20,8 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 Chugoku Bank Tokyo Branch is a bank branch in Japan of Mainland China / Bank of China listed on the Financial Services Agency's list of foreign bank branches. It is a separate entity from Japan's [[regional-banks/chugoku-bank|中国銀行 / The Chugoku Bank]], and is treated as the main branch for deposits, loans, trade settlements, fund settlements, and foreign exchange transactions between Japan and Japan.
 
 ## 1. License / branch boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, bankofchina.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; bankofchina.com]
 
 |Item|Notes|
 |---|---|

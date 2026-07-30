@@ -3,8 +3,8 @@ title: "ニッセイ・ウェルス生命保険"
 aliases: ["ニッセイ・ウェルス生命", "Nissay Wealth Life", "Nissay Wealth Life Insurance", "ニッセイ・ウェルス生命保険株式会社"]
 domain: life-insurers
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, insurance, life-insurance, nippon-life, bancassurance, operating-company]
@@ -27,6 +27,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it with 
 ニッセイ・ウェルス生命保険株式会社は、金融庁 life-insurer list と生命保険協会会員一覧に掲載される [[life-insurers/nippon-life]] group の life-insurance operating company。wealth / financial-institution channel products を見るため、Nippon Life parent page から分けて扱う。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, nw-life.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; nw-life.co.jp]
 
 | Item | Notes |
 |---|---|

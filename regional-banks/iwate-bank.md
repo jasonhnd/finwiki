@@ -6,8 +6,8 @@ aliases:
   - "岩手銀行"
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-16
 confidence: likely
 tags: [JapanFG, regional-bank, tohoku]
@@ -28,6 +28,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 岩手銀行は岩手県盛岡市を本店とする第一地方銀行。東北北部では [[regional-banks/fidea-hd|フィデア HD]]、[[regional-banks/proclair-hd|プロクレア HD]]、[[regional-banks/77-bank|七十七銀行]] と並べて、人口減少地域の地域金融を観察する基準点になる。岩手県内の預金・法人取引・震災復興金融・地域産業支援が中核。
 
 ## 1. 会社概要
+
+The following table is scoped to public primary sources (iwatebank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:iwatebank.co.jp]
 
 | 項目 | 内容 |
 |---|---|

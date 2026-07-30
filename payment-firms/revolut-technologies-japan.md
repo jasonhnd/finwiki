@@ -3,8 +3,8 @@ title: "REVOLUT TECHNOLOGIES JAPAN"
 aliases: ["Revolut Japan", "REVOLUT TECHNOLOGIES JAPAN株式会社", "レボリュート", "Revolut Technologies Japan"]
 domain: payment-firms
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, payments, remittance, wallet, funds-transfer, neobank]
@@ -27,6 +27,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 REVOLUT TECHNOLOGIES JAPAN株式会社は Revolut の日本 operating entity。公式日本サイトは第二種資金移動業者および電子決済等代行業者としての登録を明示し、カード、外貨両替、国内外送金、家計管理などを展開する。
 
 ## 1. 法人・ライセンス境界
+
+The following table is scoped to public primary sources (revolut.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:revolut.com; fsa.go.jp]
 
 | Item | Reading |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: regional-banks/shikoku-bank
-source_hash: 535413b57eeee990
+source_hash: 1ad79f5aa88ff317
 lang: en
 status: machine
 fidelity: ok
 title: "The Shikoku Bank (四国銀行)"
-translated_at: 2026-06-15T04:09:41.174Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # The Shikoku Bank (四国銀行)
@@ -19,6 +19,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 The Shikoku Bank, Ltd. (株式会社四国銀行) is a regional bank (first regional bank) headquartered in Kochi City, Kochi Prefecture, holding a bank license under the Banking Act and listed in the FSA's bank license list. It is the first-regional-bank operating-company anchor of Kochi Prefecture with a founding history dating to 1897 年, a listed regional bank traded on the TSE. It is treated as a peer that is a separate legal entity from the second regional bank [[regional-banks/kochi-bank|高知銀行]]. The substance of its business is the standard regional-bank model of deposit-taking within the prefecture and across Shikoku and lending to SMEs / individuals.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, shikokubank.co.jp, ja.wikipedia.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; shikokubank.co.jp; ja.wikipedia.org]
 
 | Item | Notes |
 |---|---|

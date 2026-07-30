@@ -1,11 +1,11 @@
 ---
 source: regional-banks/chiba-kogyo-bank
-source_hash: 1e1611aa69605622
+source_hash: f5c54869264dfc9a
 lang: ja
 status: machine
 fidelity: ok
 title: "千葉興業銀行 (Chiba Kogyo Bank)"
-translated_at: 2026-06-19T12:43:19.889Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 千葉興業銀行 (Chiba Kogyo Bank)
@@ -30,6 +30,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ### 主要数値（公開）^[extracted]
 
+以下の表は、エントリ出典インベントリの公開一次資料（chibakogyo-bank.co.jp, chibabank.co.jp, lfb.mof.go.jp）の範囲に限定して読む。^[source:chibakogyo-bank.co.jp; chibabank.co.jp; lfb.mof.go.jp]
+
 | 項目 | 規模 |
 |---|---|
 | 業態 | 第二地銀（一般社団法人 第二地方銀行協会 加盟）|
@@ -43,6 +45,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 > 第二地銀の中堅クラスで、千葉県内 [[regional-banks/chiba-bank]] とはシェア差が大きい構造。計数は 2025年3月期 決算短信・ミニディスクロージャー誌ベース。
 
 ### 主要株主（公開ベース）^[extracted]
+
+以下の表は、エントリ出典インベントリの公開一次資料（chibakogyo-bank.co.jp, chibabank.co.jp, lfb.mof.go.jp）の範囲に限定して読む。^[source:chibakogyo-bank.co.jp; chibabank.co.jp; lfb.mof.go.jp]
 
 | 株主 | 比率（2025-03-28 / 03-31 時点）|
 |---|---|
@@ -90,6 +94,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## 2. 事業セグメント・マップ
 
+以下の表は、エントリ出典インベントリの公開一次資料（chibakogyo-bank.co.jp, chibabank.co.jp, lfb.mof.go.jp）の範囲に限定して読む。^[source:chibakogyo-bank.co.jp; chibabank.co.jp; lfb.mof.go.jp]
+
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
 | 法人融資 | 千葉興業銀行（本体）| 千葉県内中小企業 main bank、地域密着 |
@@ -106,6 +112,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 - 詳細は最新 IR / 中期経営計画を要参照
 
 ### 競合関係
+
+以下の表は、エントリ出典インベントリの公開一次資料（chibakogyo-bank.co.jp, chibabank.co.jp, lfb.mof.go.jp）の範囲に限定して読む。^[source:chibakogyo-bank.co.jp; chibabank.co.jp; lfb.mof.go.jp]
 
 | 競合 | 関係 |
 |---|---|

@@ -3,8 +3,8 @@ title: "筑波銀行"
 aliases: ["Tsukuba Bank", "株式会社筑波銀行"]
 domain: regional-banks
 created: 2026-05-21
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, banking, regional-bank, kanto, ibaraki, operating-company]
@@ -26,6 +26,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 株式会社筑波銀行 (Tsukuba Bank) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される茨城県土浦市本店の地方銀行 (第一地銀)、本部機能はつくば市。2010 年 3 月 1 日に関東つくば銀行が茨城銀行を吸収合併して発足した。茨城県内では [[regional-banks/joyo-bank|常陽銀行]] が [[regional-banks/mebuki-fg|めぶきフィナンシャルグループ]] の core bank として大きいが、筑波銀行は別法人の licensed regional bank operating company。事業は茨城県内の預金受入・中小企業/個人向け貸出という地銀の標準モデル。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, tsukubabank.co.jp, ja.wikipedia.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; tsukubabank.co.jp; ja.wikipedia.org]
 
 | Item | Notes |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: regional-banks/concordia-fg
-source_hash: 2b376645ec80cd0d
+source_hash: 6e0fb65fd77796a5
 lang: ja
 status: machine
 fidelity: ok
 title: "横浜フィナンシャルグループ（旧 コンコルディア・フィナンシャルグループ）"
-translated_at: 2026-06-19T13:13:22.618Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 横浜フィナンシャルグループ（旧 コンコルディア・フィナンシャルグループ）
@@ -29,6 +29,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ### 2025-03 期決算（FY2024 通期 連結実績）^[extracted]
 
+以下の表は、エントリ出典インベントリの公開一次資料（yokohamafg.co.jp）の範囲に限定して読む。^[source:yokohamafg.co.jp]
+
 | 項目 | 数値 | 前年比 |
 |---|---|---|
 | 経常収益 | **3,991 億円** | +408 億円 |
@@ -42,6 +44,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ### 2026-03 期見通し（FY2025 通期 連結予想 / 2025-11-13 開示）^[extracted]
 
+以下の表は、エントリ出典インベントリの公開一次資料（yokohamafg.co.jp）の範囲に限定して読む。^[source:yokohamafg.co.jp]
+
 | 項目 | 予想 | 前年比 |
 |---|---|---|
 | 経常収益 | **4,907 億円** | +22.9% |
@@ -54,6 +58,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 > 従業員数（連結）の精確値は未確定（`.opinions/JapanFG/concordia-fg.md` 参照）。持株会社単独は 5 名（純粋持株会社）。
 
 ### 主要株主（大株主 上位 10、2026-03-31 基準）^[extracted]
+
+以下の表は、エントリ出典インベントリの公開一次資料（yokohamafg.co.jp）の範囲に限定して読む。^[source:yokohamafg.co.jp]
 
 | 順位 | 株主名 | 保有株式数（千株）| 比率 |
 |---|---|---|---|
@@ -124,6 +130,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## 2. 事業セグメント・マップ
 
+以下の表は、エントリ出典インベントリの公開一次資料（yokohamafg.co.jp）の範囲に限定して読む。^[source:yokohamafg.co.jp]
+
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
 | 個人リテール | 横浜銀行 | 神奈川県内 圧倒的シェア・住宅ローン・預金 |
@@ -145,6 +153,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ### 提携・アライアンス
 
+以下の表は、エントリ出典インベントリの公開一次資料（yokohamafg.co.jp）の範囲に限定して読む。^[source:yokohamafg.co.jp]
+
 | 提携 | 相手 | 内容 | 状況 |
 |---|---|---|---|
 | **千葉・横浜パートナーシップ** | 千葉銀行 | M&A 支援、協調融資、企業支援セミナー共催、相互人材交流、デジタル人材育成、広告ビジネス協業 | 2019-07〜、二期目 2024-2028 年度 効果目標 **250 億円**（一期目 359 億円達成）^[extracted] |
@@ -153,6 +163,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 > 注: 旧版で TSUBASA アライアンス加盟と記載していたが誤り。横浜銀行は TSUBASA メンバーではない。千葉銀との「千葉・横浜パートナーシップ」が首都圏地銀広域連携の中心。^[extracted]
 
 ### 競合構図
+
+以下の表は、エントリ出典インベントリの公開一次資料（yokohamafg.co.jp）の範囲に限定して読む。^[source:yokohamafg.co.jp]
 
 | 競合 | 地盤 | 構図 |
 |---|---|---|

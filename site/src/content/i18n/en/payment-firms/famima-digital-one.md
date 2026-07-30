@@ -1,11 +1,11 @@
 ---
 source: payment-firms/famima-digital-one
-source_hash: cedb66d0ac07de86
+source_hash: caaf5afa328d32d1
 lang: en
 status: machine
 fidelity: ok
 title: "FamiMa Digital One (FamiMa Digital One)"
-translated_at: 2026-07-28T20:15:36Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # FamiMa Digital One (FamiMa Digital One)
@@ -40,6 +40,8 @@ Itochu Corporation (TSE PRIME 8001, trading company)
 
 ### Key chronology
 
+The following table is scoped to public primary sources (famidigi.jp, family.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:famidigi.jp; family.co.jp; fsa.go.jp]
+
 | Year/month | Event |
 |---|---|
 | 2000-05-19 | Famima.com Co., Ltd. established |
@@ -56,6 +58,8 @@ Itochu Corporation (TSE PRIME 8001, trading company)
 | 2025〜 | FamiPay has not entered the stablecoin / blockchain space (vs MUFG Progmat) |
 
 ## 2. Business segment map
+
+The following table is scoped to public primary sources (famidigi.jp, family.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:famidigi.jp; family.co.jp; fsa.go.jp]
 
 | Service | Type | Characteristics |
 |---|---|---|
@@ -76,6 +80,8 @@ Itochu Corporation (TSE PRIME 8001, trading company)
 - **House-point independence** (T-Point dissolution 2024-04 ): internalizing the reward economy → ending dependence on CCC / V-Point
 
 ### Competitive landscape
+
+The following table is scoped to public primary sources (famidigi.jp, family.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:famidigi.jp; family.co.jp; fsa.go.jp]
 
 | Competitor | Economic sphere | Convenience-store partnership |
 |---|---|---|

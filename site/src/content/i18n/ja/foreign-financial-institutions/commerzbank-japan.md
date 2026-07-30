@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/commerzbank-japan
-source_hash: 04c4e32d4948a367
+source_hash: fb71e5148e1aeafe
 lang: ja
 status: machine
 fidelity: ok
 title: "コメルツ銀行 東京支店"
-translated_at: 2026-06-18T23:59:13.131Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # コメルツ銀行 東京支店
@@ -20,6 +20,8 @@ translated_at: 2026-06-18T23:59:13.131Z
 コメルツ銀行 東京支店は、金融庁の外国銀行支店一覧に掲載される Germany / Commerzbank AG の在日銀行支店。日本では corporate / institutional clients、外国貿易、FX、トランザクションバンキング、輸出志向の日本企業向け支援を中心とした wholesale branch として扱う。
 
 ## 1. ライセンス / 支店の境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, commerzbank.jp, commerzbank.com）の範囲に限定して読む。^[source:fsa.go.jp; commerzbank.jp; commerzbank.com]
 
 | 項目 | 備考 |
 |---|---|

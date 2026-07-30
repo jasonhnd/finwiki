@@ -10,8 +10,8 @@ aliases:
   - "payments/rakuten-pay"
 domain: payment-firms
 created: 2026-05-19
-last_updated: 2026-07-29
-last_tended: 2026-07-29
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-10-27
 confidence: certain
 tags: [JapanFG, ec-fg, fintech]
@@ -52,6 +52,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 ^[楽天グループ 会社概要: https://global.rakuten.com/corp/about/; 沿革: https://global.rakuten.com/corp/about/history.html; 日本取引所グループ 銘柄情報 4755: https://www2.jpx.co.jp/tseHpFront/StockSearch.do?method=&topSearchStr=4755]
 
 ### グループ規模（直近公開ベース・連結）
+
+The following table is scoped to public primary sources (global.rakuten.com, www2.jpx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:global.rakuten.com; www2.jpx.co.jp]
 
 | 項目 | 2024年12月期 通期実績 |
 |---|---|
@@ -100,6 +102,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 
 ### 重要年表（金融セグメント中心・公開情報ベース）
 
+The following table is scoped to public primary sources (global.rakuten.com, www2.jpx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:global.rakuten.com; www2.jpx.co.jp]
+
 | 年月 | 事象 |
 |---|---|
 | 1997-02 | 楽天創業（エム・ディー・エム） |
@@ -126,6 +130,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 | 2025-05-12 | 楽天銀行 2025-03 期決算: 経常利益 715 億円 (+48%) |
 
 ## 2. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (global.rakuten.com, www2.jpx.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:global.rakuten.com; www2.jpx.co.jp]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

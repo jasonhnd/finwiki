@@ -1,11 +1,11 @@
 ---
 source: regional-banks/au-jibun-bank
-source_hash: 712a98e17006a14e
+source_hash: 8f791fcb9c1824a5
 lang: en
 status: machine
 fidelity: ok
 title: "au じぶん銀行 (au Jibun Bank)"
-translated_at: 2026-07-28T16:39:58Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # au じぶん銀行 (au Jibun Bank)
@@ -43,6 +43,8 @@ The official company profile identifies au Jibun Bank Corporation as a **100%-ow
 
 ## 3. Business segments
 
+The following table is scoped to public primary sources (jibunbank.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jibunbank.co.jp; fsa.go.jp]
+
 | Segment | Flagship products | Customer base |
 |---|---|---|
 | Deposits | Ordinary deposits / time deposits / foreign-currency deposits (USD, EUR, GBP, etc.) | Retail |
@@ -60,6 +62,8 @@ The official company profile identifies au Jibun Bank Corporation as a **100%-ow
 - **Linkage with au kabu.com Securities**: through financial-instruments intermediation and account linkage, it provides an integrated bank / securities account experience within the KDDI economic zone
 
 ## 5. Competition / industry position
+
+The following table is scoped to public primary sources (jibunbank.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jibunbank.co.jp; fsa.go.jp]
 
 | Internet bank | Parent group | Strength |
 |---|---|---|
@@ -79,6 +83,8 @@ The official company profile identifies au Jibun Bank Corporation as a **100%-ow
 - **New NISA support**: in 2024-01 , it expanded its investment-trust lineup accompanying the start of the new NISA
 
 ## 7. Key KPIs (overview)
+
+The following table is scoped to public primary sources (jibunbank.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jibunbank.co.jp; fsa.go.jp]
 
 | Item | Scale |
 |---|---|

@@ -11,8 +11,8 @@ aliases:
   - "banking/sumishin-sbi-net-bank"
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-07-29
-last_tended: 2026-07-29
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, net-bank, baas, ndfg-affiliate]
@@ -50,6 +50,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ### 数値（FY2024 = 2025-03 期、連結ベース）
 
+The following table is scoped to public primary sources (netbk.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:netbk.co.jp]
+
 | 項目 | 規模 | 出所 |
 |---|---|---|
 | **経常収益** | **1,465 億 21 百万円** | 2025-03 期 連結 |
@@ -85,6 +87,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ### 重要年表
 
+The following table is scoped to public primary sources (netbk.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:netbk.co.jp]
+
 | 年月 | 事象 |
 |---|---|
 | 2007-09-24 | **住友信託銀行 + SBI HD 50:50 JV として開業** |
@@ -103,6 +107,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ## 2. 事業セグメント・マップ
 
+The following table is scoped to public primary sources (netbk.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:netbk.co.jp]
+
 | セグメント | 主要事業 | 特徴 |
 |---|---|---|
 | **住宅ローン** | フラット 35 / 変動 / 固定 | **ネット銀行 No.1 級**取扱高。長らく成長エンジン |
@@ -116,6 +122,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 ### NEOBANK サービス（BaaS）一覧
 
 住信 SBI ネット銀行は「NEOBANK」ブランドで他社向け銀行機能を API 提供。主要パートナー:
+
+The following table is scoped to public primary sources (netbk.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:netbk.co.jp]
 
 | ブランド | パートナー | 開始時期 |
 |---|---|---|
@@ -154,6 +162,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 - **過去の親 SBI 系列との連携**: SBI 証券 / SBI VC Trade との既存 API 連携がどう継続 / 縮小するかが論点
 
 ### 競争位置（ネット銀行業界、2025-10 以降）
+
+The following table is scoped to public primary sources (netbk.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:netbk.co.jp]
 
 | 銀行 | 親会社 | 強み | 弱み |
 |---|---|---|---|

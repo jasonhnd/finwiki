@@ -1,11 +1,11 @@
 ---
 source: payments/funds-transfer-service-providers-japan-index
-source_hash: 2e70677bbf51158e
+source_hash: b3b600441ec44868
 lang: en
 status: machine
 fidelity: ok
 title: "Japan funds transfer service providers registry index"
-translated_at: 2026-06-01T03:31:12.281Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan funds transfer service providers registry index
@@ -18,6 +18,8 @@ Use this page when a company page under [[payments/INDEX|payments INDEX]] needs 
 
 ## Registry Snapshot
 
+The following table is scoped to public primary sources (fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp]
+
 | Metric | Reading |
 |---|---:|
 | FSA as-of date | 2026-04-30 |
@@ -26,6 +28,8 @@ Use this page when a company page under [[payments/INDEX|payments INDEX]] needs 
 | Wiki reproduction policy | Do not copy all 83 rows; cite FSA and maintain material wiki routes here. |
 
 ## Jurisdiction Counts
+
+The following table is scoped to public primary sources (fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp]
 
 | Jurisdiction | Operators |
 |---|---:|
@@ -38,6 +42,8 @@ Use this page when a company page under [[payments/INDEX|payments INDEX]] needs 
 
 ## Boundary
 
+The following table is scoped to public primary sources (fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp]
+
 | Boundary | Treatment |
 |---|---|
 | Funds transfer service provider | Registered under the Payment Services Act to conduct exchange transactions outside the banking-license route. |
@@ -49,6 +55,8 @@ Use this page when a company page under [[payments/INDEX|payments INDEX]] needs 
 ## Existing Material Wiki Routes
 
 These routes are material operators already covered or newly promoted in FinWiki. They are not a complete reproduction of the 83-row FSA list.
+
+The following table is scoped to public primary sources (fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp]
 
 | Segment | Official / product route | Wiki route | Boundary note |
 |---|---|---|---|

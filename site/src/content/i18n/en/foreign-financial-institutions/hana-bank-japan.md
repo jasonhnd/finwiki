@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/hana-bank-japan
-source_hash: e58e76d94df6db79
+source_hash: 046df4cdf1b0438b
 lang: en
 status: machine
 fidelity: ok
 title: "ハナ銀行 在日支店"
-translated_at: 2026-05-31T15:29:03.891Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # ハナ銀行 在日支店
@@ -20,6 +20,8 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 Hana Bank's Japan branches are Republic of Korea / Hana Bank branches listed in the FSA foreign-bank branch materials. As the Japan-branch route after the legacy Korea Exchange Bank / Hana integration, the page covers the Korean banking corridor across Tokyo, Osaka, and Fukuoka.
 
 ## 1. License / branch boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, koex.jp, zenginkyo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; koex.jp; zenginkyo.or.jp]
 
 | Item | Notes |
 |---|---|

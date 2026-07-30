@@ -1,11 +1,11 @@
 ---
 source: insurance/lloyds-japan-syndicate-operating-model
-source_hash: 9c0b7a699b6b2764
+source_hash: c464ed940bd6ac1c
 lang: en
 status: machine
 fidelity: ok
 title: "Lloyd's Japan Syndicate Operating Model"
-translated_at: 2026-05-31T07:28:06.177Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Lloyd's Japan Syndicate Operating Model
 
@@ -21,6 +21,8 @@ This entry sits under [[insurance/INDEX|insurance index]]. Read it against [[non
 
 Lloyd's is not a company; it is a regulated marketplace.
 
+The following table is scoped to public primary sources (lloyds.com, fsa.go.jp, sonpo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:lloyds.com; fsa.go.jp; sonpo.or.jp]
+
 | Component | Role |
 |---|---|
 
@@ -34,6 +36,8 @@ Lloyd's is not a company; it is a regulated marketplace.
 This chain is the structural alternative to a single-balance-sheet insurer. It is also why Lloyd's Japan Inc. cannot be compared like-for-like with [[non-life-insurers/aig-japan|AIG Japan]] or [[non-life-insurers/chubb-insurance-japan|Chubb Insurance Japan]] on financial-statement metrics: the balance sheet sits in London.
 
 ## 2. Lloyd's Japan Inc. — what it is and what it isn't
+
+The following table is scoped to public primary sources (lloyds.com, fsa.go.jp, sonpo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:lloyds.com; fsa.go.jp; sonpo.or.jp]
 
 | Item | Status |
 |---|---|
@@ -65,6 +69,8 @@ Premium and claims flow back through Lloyd's Japan Inc. to the cedent
 
 The Lloyd's market publishes annual syndicate-level capacity figures (Stamp Capacity) and Society-level results. Japan-specific syndicate participation is not publicly broken out at line-of-business detail, but the structural reading is:
 
+The following table is scoped to public primary sources (lloyds.com, fsa.go.jp, sonpo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:lloyds.com; fsa.go.jp; sonpo.or.jp]
+
 | Syndicate cluster | Typical Japan engagement |
 |---|---|
 
@@ -76,6 +82,8 @@ The five-line specialty story is consistent across Lloyd's public market comment
 
 Lloyd's syndicates in Japan operate in *both* the direct underwriting market and the reinsurance market, sometimes in the same line:
 
+The following table is scoped to public primary sources (lloyds.com, fsa.go.jp, sonpo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:lloyds.com; fsa.go.jp; sonpo.or.jp]
+
 | Mode | What it looks like | Counterparty | Examples |
 |---|---|---|---|
 | **Direct (insurance)** | Lloyd's Japan Inc. issues the policy to the Japanese insured via a Japanese broker | Japanese corporate / SME / shipowner | Aviation hull on JAL; energy package on a refinery; political risk for sōgō shōsha |
@@ -85,6 +93,8 @@ Lloyd's syndicates in Japan operate in *both* the direct underwriting market and
 This is why Lloyd's appears in both [[insurance/foreign-reinsurer-japan-landscape|foreign reinsurer panel]] discussions *and* direct-insurer comparisons: structurally, Lloyd's is present in both layers.
 
 ## 7. Comparison: Lloyd's Japan vs conventional foreign insurer
+
+The following table is scoped to public primary sources (lloyds.com, fsa.go.jp, sonpo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:lloyds.com; fsa.go.jp; sonpo.or.jp]
 
 | Dimension | Lloyd's Japan ([[non-life-insurers/lloyd-japan]]) | Conventional foreign insurer (e.g., [[non-life-insurers/aig-japan|AIG Japan]], [[non-life-insurers/chubb-insurance-japan|Chubb]]) |
 |---|---|---|

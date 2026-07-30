@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/ocbc-bank-japan
-source_hash: 86163e956b97b980
+source_hash: 630479dc53b566a7
 lang: en
 status: machine
 fidelity: ok
 title: "Oversea-Chinese Banking Corporation Tokyo Branch"
-translated_at: 2026-06-01T00:41:50.441Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Oversea-Chinese Banking Corporation Tokyo Branch
 
@@ -19,6 +19,8 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 Oversea-Chinese Banking Corporation Tokyo Branch is the Japan bank branch of Singapore / Oversea-Chinese Banking Corporation Limited listed on the FSA foreign bank branch list. OCBC's Tokyo branch is treated as a wholesale branch serving corporate and institutional banking customers in Japan, providing corporate lending, trade finance, deposits, and remittance services.
 
 ## 1. License / branch boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, ocbc.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; ocbc.com]
 
 | Item | Notes |
 |---|---|

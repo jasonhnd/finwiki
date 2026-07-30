@@ -3,8 +3,8 @@ title: "ちばぎん証券 (Chibagin Securities)"
 aliases: ["Chibagin Securities", "ちばぎん証券", "千葉銀証券", "株式会社ちばぎん証券", "Chiba Bank Securities", "旧 中央証券"]
 domain: securities-firms
 created: 2026-05-25
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [JapanFG, regional-bank-subsidiary, chiba-bank, securities, kanto, chiba, operating-company]
@@ -28,6 +28,8 @@ This entry sits under the [[securities-firms/INDEX|securities-firms INDEX]] as t
 株式会社ちばぎん証券は、[[regional-banks/chiba-bank|千葉銀行 (東証 PRIME 8331)]] 100% 子会社の地銀系証券会社で、千葉県・首都圏東部を地盤とする個人富裕層・中堅企業 main bank 顧客向けの retail brokerage・公募私募債仲介・投信・ファンドラップ・事業承継 advisory を提供。第一種金融商品取引業 (証券業) 免許で、[[financial-regulators/jsda|日本証券業協会]] 正会員。**前身は旧 中央証券 (Chuo Securities)** で、旧 山一證券系であったが山一破綻後に千葉銀行が筆頭株主としてグループ化し、**2011-01 に「ちばぎん証券」へ商号変更**、**2011-10 に株式交換で千葉銀行の完全子会社**となった。千葉銀は持株会社化していない単独銀行 (no-holding model) のため、ちばぎん証券は親銀行直下にぶら下がる構造で、[[regional-banks/mebuki-fg]] / [[regional-banks/fukuoka-fg]] のような持株会社下の銀証兄弟会社 model とは法的位置が異なる。^[extracted]
 
 ## 1. 会社概要
+
+The following table is scoped to public primary sources (chibagin-sec.co.jp, chibabank.co.jp, disclosure.edinet-fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:chibagin-sec.co.jp; chibabank.co.jp; disclosure.edinet-fsa.go.jp; fsa.go.jp]
 
 | Item | Notes |
 |---|---|
@@ -57,6 +59,8 @@ This entry sits under the [[securities-firms/INDEX|securities-firms INDEX]] as t
 ```
 
 ## 2. 業務ラインと収益構造
+
+The following table is scoped to public primary sources (chibagin-sec.co.jp, chibabank.co.jp, disclosure.edinet-fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:chibagin-sec.co.jp; chibabank.co.jp; disclosure.edinet-fsa.go.jp; fsa.go.jp]
 
 | セグメント | 特徴 |
 |---|---|

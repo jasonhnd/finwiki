@@ -1,11 +1,11 @@
 ---
 source: regional-banks/toyama-bank
-source_hash: 2eb60c9060f466f8
+source_hash: dea052e7c85d3dba
 lang: en
 status: machine
 fidelity: ok
 title: "Toyama Bank"
-translated_at: 2026-06-15T04:09:41.183Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Toyama Bank
@@ -19,6 +19,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 The Toyama Bank, Ltd. (株式会社富山銀行) is a regional bank (first regional bank) headquartered in Takaoka City, Toyama Prefecture, holding a bank license under the Banking Act and listed in the FSA's bank license list. Its lineage is Toyama Sangyo Bank, which opened in 1954 年 2 月 and was renamed to its current name in 1967 年 8 月. It is a small first regional bank listed on the TSE Standard market. Its business is the standard regional-bank model of deposit-taking and lending to SMEs / individuals in Toyama Prefecture (centered on Takaoka), and it is a standalone licensed bank that a holding-company page cannot capture.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, toyamabank.co.jp, ja.wikipedia.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; toyamabank.co.jp; ja.wikipedia.org]
 
 | Item | Notes |
 |---|---|

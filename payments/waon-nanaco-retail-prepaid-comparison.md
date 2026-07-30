@@ -8,8 +8,8 @@ aliases:
   - "リテール電子マネー WAON nanaco"
 domain: payments
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [payments, prepaid, electronic-money, retail-anchor, felica, waon, nanaco, mall, convenience-store]
@@ -39,6 +39,8 @@ This entry sits under [[payments/INDEX|payments index]] as the AEON vs Seven & i
 
 ## Side-by-side issuer overview
 
+The following table is scoped to public primary sources (waon.net, aeon.co.jp, aeonbank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:waon.net; aeon.co.jp; aeonbank.co.jp; aeonfinancial.co.jp]
+
 | Dimension | WAON | nanaco |
 |---|---|---|
 | Brand owner | AEON Co Ltd | Seven & i Holdings |
@@ -61,6 +63,8 @@ This entry sits under [[payments/INDEX|payments index]] as the AEON vs Seven & i
 
 The retail-prepaid economic model depends heavily on what funding rail the consumer uses to load the prepaid balance. Each rail has a different cost / margin profile for the issuer.
 
+The following table is scoped to public primary sources (waon.net, aeon.co.jp, aeonbank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:waon.net; aeon.co.jp; aeonbank.co.jp; aeonfinancial.co.jp]
+
 | Funding rail | WAON support | nanaco support |
 |---|---|---|
 | Cash at register | Yes, all AEON-group stores | Yes, all 7-Eleven / Ito-Yokado |
@@ -78,6 +82,8 @@ The strong group-bank and group-card preference is intentional — it keeps fund
 The principal economic case for retail-anchored prepaid is **frequency-and-margin uplift in the group retail business**, not standalone wallet profitability.
 
 ### AEON / WAON integration touchpoints
+
+The following table is scoped to public primary sources (waon.net, aeon.co.jp, aeonbank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:waon.net; aeon.co.jp; aeonbank.co.jp; aeonfinancial.co.jp]
 
 | Touchpoint | Integration |
 |---|---|
@@ -111,6 +117,8 @@ The **国税納付 via nanaco** feature was historically a notable cross-product
 ## Comparison with Rakuten Edy
 
 Edy (operated by [[payment-firms/rakuten-edy|Rakuten Edy]]) is the closest peer that is **not** anchored on a specific retail group's owned store network. Edy launched 2001 (predating both WAON and nanaco) and pursued a platform-style merchant acceptance strategy: any merchant that wants FeliCa prepaid acceptance can install an Edy reader and contract with Rakuten Edy. This created broader cross-merchant acceptance than WAON or nanaco achieved, but without the same group-retail economic anchor.
+
+The following table is scoped to public primary sources (waon.net, aeon.co.jp, aeonbank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:waon.net; aeon.co.jp; aeonbank.co.jp; aeonfinancial.co.jp]
 
 | Dimension | WAON | nanaco | Edy |
 |---|---|---|---|
@@ -147,6 +155,8 @@ The contrast with AEON Pay (AEON's QR-code wallet, launched after Seven Pay's wi
 ## Group-bank funding cost advantage
 
 The economic significance of the **group-bank tie-in** for WAON and nanaco is a recurring under-appreciated point. When a consumer auto-charges WAON from an AEON Bank account, the funding-cost-to-issuer (AEON Financial Service / WAON operations) is essentially zero because the bank-to-wallet flow is internal to the AEON group. Compare with:
+
+The following table is scoped to public primary sources (waon.net, aeon.co.jp, aeonbank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:waon.net; aeon.co.jp; aeonbank.co.jp; aeonfinancial.co.jp]
 
 | Funding rail comparison | WAON ex-AEON Bank | WAON ex-external credit card |
 |---|---|---|

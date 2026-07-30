@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/natixis-japan
-source_hash: 38495c15336df3ac
+source_hash: 0874a80d8d6c14eb
 lang: ja
 status: machine
 fidelity: ok
 title: "ナティクシス 東京支店"
-translated_at: 2026-06-18T23:59:13.085Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # ナティクシス 東京支店
@@ -20,6 +20,8 @@ translated_at: 2026-06-18T23:59:13.085Z
 ナティクシスは、金融庁の外国銀行支店一覧に掲載される France / Groupe BPCE 系 Natixis CIB の在日銀行支店。2025 年に banking branch 化を公表した比較的新しい P0 外国銀行支店アンカーであり、貸付業務のみの拠点からより広範な銀行ライセンス業務へと拡大する局面として扱う。
 
 ## 1. ライセンス／支店の境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, apac.cib.natixis.com）の範囲に限定して読む。^[source:fsa.go.jp; apac.cib.natixis.com]
 
 | 項目 | 備考 |
 |---|---|

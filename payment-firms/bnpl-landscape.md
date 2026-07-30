@@ -8,8 +8,8 @@ aliases:
   - "あと払い landscape"
 domain: payment-firms
 created: 2026-05-19
-last_updated: 2026-05-20
-last_tended: 2026-05-20
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, BNPL, installment-sales, payments, consumer-credit, fintech]
@@ -43,6 +43,8 @@ For JapanFG, the control question is: **is the product only delayed settlement, 
 | Convenience-store repayment | Paidy-style pay-at-konbini behavior | Japan-specific bridge from online purchase to offline cash repayment |
 
 ## Legal / Product Boundary
+
+The following table is scoped to public primary sources (paidy.com, investor.pypl.com, newsroom.jp.paypal-corp.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:paidy.com; investor.pypl.com; newsroom.jp.paypal-corp.com]
 
 | Product design | Legal question |
 |---|---|

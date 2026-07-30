@@ -1,11 +1,11 @@
 ---
 source: policy-finance/fisheries-credit-guarantee-system
-source_hash: a0d13d85403c1148
+source_hash: f070e83503e4792d
 lang: en
 status: machine
 fidelity: ok
 title: "Fisheries credit guarantee system in Japan"
-translated_at: 2026-06-01T03:31:12.228Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Fisheries credit guarantee system in Japan
@@ -22,6 +22,8 @@ Japan's fisheries credit guarantee system (漁業信用保証保険制度) suppl
 
 Japanese fisheries finance flows through a **fisheries 系統金融** stack that parallels the agriculture stack:
 
+The following table is scoped to public primary sources (jaffic.go.jp, zengyoki.or.jp, maff.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jaffic.go.jp; zengyoki.or.jp; maff.go.jp; jfa.maff.go.jp]
+
 | Layer | Function | FinWiki route |
 |---|---|---|
 | 漁業者 / 漁業法人 / 加工業者 | Borrower (fisher, fisheries corporation, aquaculture operator, seafood processor, eligible cooperative). | System route here |
@@ -34,6 +36,8 @@ Japanese fisheries finance flows through a **fisheries 系統金融** stack that
 | 水産庁 / MAFF | Policy supervisor for fisheries cooperative system + guarantee-insurance system. | [[policy-finance/INDEX]] |
 
 ## 2. 機関概要 — 漁業信用基金協会
+
+The following table is scoped to public primary sources (jaffic.go.jp, zengyoki.or.jp, maff.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jaffic.go.jp; zengyoki.or.jp; maff.go.jp; jfa.maff.go.jp]
 
 | 項目 | 内容 |
 |---|---|
@@ -73,6 +77,8 @@ The fisheries guarantee book has a distinct product-mix profile vs the agricultu
 
 Unlike agriculture, which is geographically distributed across nearly all prefectures, the fisheries guarantee system is **heavily concentrated in coastal prefectures**:
 
+The following table is scoped to public primary sources (jaffic.go.jp, zengyoki.or.jp, maff.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jaffic.go.jp; zengyoki.or.jp; maff.go.jp; jfa.maff.go.jp]
+
 | Region | Fisheries character | Guarantee book emphasis |
 |---|---|---|
 | Hokkaido | Pacific salmon, scallop, kelp, sea urchin, crab — Japan's largest fisheries prefecture by volume and value. | Vessel finance + scallop / kelp aquaculture + processing. |
@@ -85,6 +91,8 @@ Unlike agriculture, which is geographically distributed across nearly all prefec
 The geographic concentration means the fisheries guarantee system's portfolio risk is exposed to **regional marine-environment shocks** that can simultaneously affect multiple guarantees in a single coastal area.
 
 ## 7. Year evolution
+
+The following table is scoped to public primary sources (jaffic.go.jp, zengyoki.or.jp, maff.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jaffic.go.jp; zengyoki.or.jp; maff.go.jp; jfa.maff.go.jp]
 
 | Year | Event |
 |---|---|
@@ -102,6 +110,8 @@ The geographic concentration means the fisheries guarantee system's portfolio ri
 | 2025 | Continued policy focus on aquaculture expansion (国産養殖振興) as food-security strategy; guarantee system aligned. |
 
 ## 8. Comparison vs agriculture credit guarantee system
+
+The following table is scoped to public primary sources (jaffic.go.jp, zengyoki.or.jp, maff.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jaffic.go.jp; zengyoki.or.jp; maff.go.jp; jfa.maff.go.jp]
 
 | Dimension | Fisheries credit guarantee system | [[policy-finance/agriculture-credit-guarantee-system\|Agriculture credit guarantee system]] |
 |---|---|---|

@@ -1,11 +1,11 @@
 ---
 source: securities/japan-online-brokerage-competition
-source_hash: e59e79568c36abba
+source_hash: 622c72185ef506a8
 lang: en
 status: machine
 fidelity: ok
 title: "Japan online brokerage competition"
-translated_at: 2026-06-01T03:31:12.301Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan online brokerage competition
@@ -17,6 +17,8 @@ Japan's online brokerage competition is now less about a simple "cheap commissio
 Read this page with [[securities/nisa-2024-flow|NISA 2024 flow]], [[financial-licenses/securities-license-stack|Japan securities license stack]], [[securities/financial-instruments-business-operators-japan-index|FIEA operator registry index]], and [[loyalty/japan-points-landscape|Japan points landscape]]. Company-specific conclusions still belong on the relevant [[securities/INDEX|securities INDEX]] pages.
 
 ## Competitive Axes
+
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, sbisec.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; sbisec.co.jp; rakuten-sec.co.jp]
 
 | Axis | Public relevance | Pages to link |
 |---|---|---|
@@ -30,6 +32,8 @@ Read this page with [[securities/nisa-2024-flow|NISA 2024 flow]], [[financial-li
 | Trust and compliance | Advertising, suitability, customer asset segregation, and self-regulation become more important as brokerage reaches non-traditional investors. | [[financial-regulators/jsda]], [[financial-licenses/securities-license-stack]] |
 
 ## Broker Map
+
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, sbisec.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; sbisec.co.jp; rakuten-sec.co.jp]
 
 | Broker / group | Core reading | Competitive angle |
 |---|---|---|
@@ -66,6 +70,8 @@ New NISA is structurally important because it makes tax-free, long-term investme
 This makes [[loyalty/japan-points-landscape|Japan points landscape]] relevant to brokerage analysis. Points are not only marketing giveaways; they can become customer-acquisition cost, retention currency, and a data loop across finance, retail, and payments.
 
 ## Fee Race Counterpoints
+
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, sbisec.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; sbisec.co.jp; rakuten-sec.co.jp]
 
 | Risk | Public relevance |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/aioi-nissay-dowa-insurance
-source_hash: 38195dfdd6a15050
+source_hash: 1d372c2ead03d8a0
 lang: en
 status: machine
 fidelity: ok
 title: "Aioi Nissay Dowa Insurance"
-translated_at: 2026-05-31T11:13:44.878Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Aioi Nissay Dowa Insurance
@@ -20,6 +20,8 @@ This entry sits under[[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read i
 Aioi Nissay Dowa Insurance Co., Ltd.[[non-life-insurers/msad]]group's non-life insurance operating company. Listed on the Financial Services Agency's list of non-life insurance company licenses, and within the MS&AD group[[non-life-insurers/mitsui-sumitomo-insurance]]and a separate legal-entity and channel boundary.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, sonpohogo.or.jp, aioinissaydowa.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sonpohogo.or.jp; aioinissaydowa.co.jp]
 
 | Item | Notes |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: securities/odx-start-stb-secondary-market
-source_hash: ea535c2573f4e38e
+source_hash: 76cd40106d9ce249
 lang: en
 status: machine
 fidelity: ok
 title: "ODX START security token secondary market"
-translated_at: 2026-06-22T07:08:50.155Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # ODX START security token secondary market
 
@@ -18,6 +18,8 @@ This page belongs in [[securities/INDEX|securities index]] as the venue-mechanic
 ODX (Osaka Digital Exchange) is a Japanese FIEA-registered PTS operator founded as a joint venture led by SBI HD, Sumitomo Mitsui Trust Holdings (SuMi TRUST / Sumishin), and Nomura HD, with additional securities-industry participation. Its START market, launched on 2023-12-25, is publicly described as Japan's first secondary trading PTS for security tokens (ST), covering tokenized equity, tokenized bonds, and tokenized real-estate beneficial interests issued under the FIEA electronically recorded transferable rights framework. Trading on START is intermediated exclusively through accepted securities-firm trading participants; ODX itself does not face retail investors directly. Settlement integrates with [[securities/japan-securities-clearing-corp|JSCC]] and [[securities/japan-securities-depository-center|JASDEC]] for the listed-securities adjacency and with token-platform infrastructure (e.g. [[payment-firms/progmat|Progmat]], BOOSTRY / ibet) for the on-token transfer leg. New issue listings on START go through an Approval to Register (ATR) gating process operated by ODX before secondary trading is enabled.
 
 ## Venue identity
+
+The following table is scoped to public primary sources (odx.co.jp, fsa.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:odx.co.jp; fsa.go.jp; jsda.or.jp; jpx.co.jp]
 
 | Field | Public reading |
 |---|---|
@@ -34,6 +36,8 @@ Always read the venue's About / News pages for current participant list, market 
 ## Ownership and strategic alignment
 
 ODX's founding capital structure is a deliberate cross-sector coalition rather than a single-house product:
+
+The following table is scoped to public primary sources (odx.co.jp, fsa.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:odx.co.jp; fsa.go.jp; jsda.or.jp; jpx.co.jp]
 
 | Anchor | Strategic interest |
 |---|---|
@@ -52,6 +56,8 @@ A security token in the Japanese regulatory frame is most commonly:
 - Or other instruments fitted into the FIEA "tokenized security" treatment via FSA notice / cabinet office order.
 
 In practice, the ST issues that reach START's secondary market include:
+
+The following table is scoped to public primary sources (odx.co.jp, fsa.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:odx.co.jp; fsa.go.jp; jsda.or.jp; jpx.co.jp]
 
 | Asset type | Example structure | Issuance platform |
 |---|---|---|
@@ -117,6 +123,8 @@ For [[securities/japan-asset-manager-landscape-matrix|asset managers]] and insti
 
 ## Comparison vs Japannext PTS
 
+The following table is scoped to public primary sources (odx.co.jp, fsa.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:odx.co.jp; fsa.go.jp; jsda.or.jp; jpx.co.jp]
+
 | Dimension | Japannext PTS | ODX equity PTS | ODX START |
 |---|---|---|---|
 | Primary product | Cash-equity lit PTS (J-Market, X-Market) | Cash-equity PTS (narrower scope) | Security-token secondary venue |
@@ -129,6 +137,8 @@ For [[securities/japan-asset-manager-landscape-matrix|asset managers]] and insti
 For SOR context on Japannext specifically, see [[securities/japannext-sor-routing-deep-dive|Japannext PTS SOR routing deep dive]].
 
 ## Regulatory and self-regulatory framework
+
+The following table is scoped to public primary sources (odx.co.jp, fsa.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:odx.co.jp; fsa.go.jp; jsda.or.jp; jpx.co.jp]
 
 | Layer | Role |
 |---|---|

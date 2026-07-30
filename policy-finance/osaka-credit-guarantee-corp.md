@@ -7,8 +7,8 @@ aliases:
   - "policy-finance/osaka-credit-guarantee-corp"
 domain: "policy-finance"
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-20
 confidence: likely
 tags: [policy-finance, credit-guarantee, sme-finance, public-credit, osaka, kansai, japan]
@@ -28,6 +28,8 @@ Osaka Credit Guarantee Corporation (大阪信用保証協会) is the Osaka-prefe
 This page sits under [[policy-finance/INDEX|policy-finance index]] and pairs with the [[policy-finance/japan-credit-guarantee-system|Japan credit guarantee system]] mechanism page and [[policy-finance/national-federation-credit-guarantee-corporations|Japan Federation of Credit Guarantee Corporations]] coordination page.
 
 ## 1. Institutional boundary
+
+The following table is scoped to public primary sources (cgc-osaka.or.jp, zenshinhoren.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:cgc-osaka.or.jp; zenshinhoren.or.jp]
 
 | Item | Reading |
 |---|---|

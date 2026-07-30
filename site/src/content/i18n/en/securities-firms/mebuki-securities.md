@@ -1,11 +1,11 @@
 ---
 source: securities-firms/mebuki-securities
-source_hash: c573356781bec155
+source_hash: a78c5e231fbb9856
 lang: en
 status: machine
 fidelity: ok
 title: "Mebuki Securities"
-translated_at: 2026-06-19T12:43:19.916Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Mebuki Securities
@@ -19,6 +19,8 @@ This entry sits under the [[securities-firms/INDEX|securities-firms INDEX]] as t
 Mebuki Securities Co., Ltd. is a regional-bank-affiliated securities company that is a 100% subsidiary of [[regional-banks/mebuki-fg|めぶき FG]] (TSE PRIME 7167); it was group-consolidated and reorganized after the establishment of [[regional-banks/mebuki-fg]] (2016-10), based on the former **Joyo Securities** (of the [[regional-banks/joyo-bank|常陽銀行]] lineage). It provides asset management, public-offering equity underwriting, private-placement-bond brokerage, and business-succession advisory to mid-cap-company main-bank clients based in Ibaraki, Tochigi, and the metropolitan area. With a Type I Financial Instruments Business (securities business) license, it is a member of [[financial-regulators/jsda|日本証券業協会]]. ^[extracted]
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (mebuki-sec.co.jp, mebuki-fg.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:mebuki-sec.co.jp; mebuki-fg.co.jp; fsa.go.jp; jsda.or.jp]
 
 | Item | Notes |
 |---|---|
@@ -57,6 +59,8 @@ Mebuki Securities Co., Ltd. is a regional-bank-affiliated securities company tha
 
 ## 4. KPI table (concept)
 
+The following table is scoped to public primary sources (mebuki-sec.co.jp, mebuki-fg.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:mebuki-sec.co.jp; mebuki-fg.co.jp; fsa.go.jp; jsda.or.jp]
+
 | Item | Overview |
 |---|---|
 | Established | 2007-11-30 (former Joyo Securities. Renamed "Mebuki Securities" 2017-04 , a direct subsidiary of [[regional-banks/mebuki-fg]] 2017-10 ) |
@@ -72,6 +76,8 @@ Mebuki Securities Co., Ltd. is a regional-bank-affiliated securities company tha
 > Note: Because Mebuki Securities is a non-listed wholly-owned subsidiary, precise standalone financial KPI figures are not separately disclosed; refer to the segment information in the [[regional-banks/mebuki-fg]] Securities Report.
 
 ## 5. Business-segment map
+
+The following table is scoped to public primary sources (mebuki-sec.co.jp, mebuki-fg.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:mebuki-sec.co.jp; mebuki-fg.co.jp; fsa.go.jp; jsda.or.jp]
 
 | Segment | Features |
 |---|---|

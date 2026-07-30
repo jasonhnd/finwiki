@@ -1,12 +1,12 @@
 ---
 source: non-profit/japan-nintei-npo-houjin-tax-benefits
-source_hash: fd3410c3bd50a606
+source_hash: a5644df62446351f
 lang: en
 model: claude-opus-4-8
 status: machine
 fidelity: ok
 title: "Japan Certified NPO (Nintei NPO Houjin) — certification route and donor tax benefits"
-translated_at: 2026-06-05T00:00:00.000Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan Certified NPO (Nintei NPO Houjin) — certification route and donor tax benefits
@@ -21,6 +21,8 @@ A plain [[non-profit/japan-npo-houjin-overview|NPO法人]] confers **no tax dedu
 
 ## Who certifies, and under what law
 
+The following table is scoped to public primary sources (npo-homepage.go.jp, nta.go.jp, laws.e-gov.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:npo-homepage.go.jp; nta.go.jp; laws.e-gov.go.jp]
+
 | Attribute | Detail |
 |---|---|
 | Statute | 特定非営利活動促進法 (NPO Act); 認定 route added in the **2011/2012 reform**, governance tightened **2024** |
@@ -33,6 +35,8 @@ A historically important shift: certification authority **moved from the NTA to 
 ## The Public Support Test (PST)
 
 The PST asks: **is this NPO broadly supported by the public?** An applicant must satisfy **any one** of three alternative standards:
+
+The following table is scoped to public primary sources (npo-homepage.go.jp, nta.go.jp, laws.e-gov.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:npo-homepage.go.jp; nta.go.jp; laws.e-gov.go.jp]
 
 | Standard | Threshold |
 |---|---|
@@ -55,6 +59,8 @@ This is the NPO-side analogue of a "provisional" public-interest status, lowerin
 
 The benefits accrue to the **donor**, not the entity, which is precisely why 認定 status widens an organisation's fundraising base:
 
+The following table is scoped to public primary sources (npo-homepage.go.jp, nta.go.jp, laws.e-gov.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:npo-homepage.go.jp; nta.go.jp; laws.e-gov.go.jp]
+
 | Donor type | Benefit under 認定NPO法人 |
 |---|---|
 | Individual income tax | **所得控除 (income deduction) OR 税額控除 (tax credit)** — donor chooses the more favourable |
@@ -66,6 +72,8 @@ The benefits accrue to the **donor**, not the entity, which is precisely why 認
 The **税額控除** option is particularly powerful for small individual donors because it reduces tax liability directly rather than merely reducing taxable income — a deliberate policy lever to broaden grassroots giving.
 
 ## How this compares to 公益 status
+
+The following table is scoped to public primary sources (npo-homepage.go.jp, nta.go.jp, laws.e-gov.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:npo-homepage.go.jp; nta.go.jp; laws.e-gov.go.jp]
 
 | Lever | 認定NPO法人 | 公益財団 / 公益社団 |
 |---|---|---|

@@ -1,11 +1,11 @@
 ---
 source: payment-firms/sb-payment-service
-source_hash: e4cecbd7ca5df385
+source_hash: f7127a57fff300a3
 lang: en
 status: machine
 fidelity: ok
 title: "SB Payment Service"
-translated_at: 2026-06-26T03:26:36.041Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # SB Payment Service
 
@@ -19,6 +19,8 @@ This entry sits under [[payment-firms/INDEX|決済事業者の索引]]. Read it 
 SB Payment Service is the SoftBank group's merchant payment / PSP operator. Its official business pages show payment services from online to physical stores and, as an acquirer, merchant screening, management, and payment-service provision, making it a major page in the [[payments/card-acquiring-japan-stack|カード加盟店管理・アクワイアリングの構造]]. ^[verified-2026-06-24]
 
 ## 1. Entity / license boundary
+
+The following table is scoped to public primary sources (sbpayment.co.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:sbpayment.co.jp; meti.go.jp]
 
 | Item | Reading |
 |---|---|

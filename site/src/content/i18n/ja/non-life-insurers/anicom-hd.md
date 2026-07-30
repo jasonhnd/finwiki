@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/anicom-hd
-source_hash: 542f7ff0f291f11e
+source_hash: 8e44190b2c4a7f09
 lang: ja
 status: machine
 fidelity: ok
 title: "アニコム ホールディングス"
-translated_at: 2026-06-15T03:48:21.833Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # アニコム ホールディングス
@@ -19,6 +19,8 @@ translated_at: 2026-06-15T03:48:21.833Z
 アニコム ホールディングス株式会社は、金融庁の **保険持株会社認可一覧**に掲載される pet-insurance group holding company。グループの中核は損害保険業免許を持つ [[non-life-insurers/anicom-insurance|アニコム損害保険]] で、HD はその親会社・group strategy anchor。HD 自身は保険を引き受けず、傘下の損保事業・動物医療データ・周辺サービスの資本/戦略統括を担う。**HD (listed parent) と operating insurer (免許保有主体) は別 entity** として読む。
 
 ## 1. ライセンス / グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, anicom.co.jp, ja.wikipedia.org）の範囲に限定して読む。^[source:fsa.go.jp; anicom.co.jp; ja.wikipedia.org]
 
 | 項目 | 注記 |
 |---|---|

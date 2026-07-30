@@ -1,11 +1,11 @@
 ---
 source: policy-finance/jogmec-equity-and-offtake-mechanics
-source_hash: b8b28e8b8f15bf56
+source_hash: 9773d56637939105
 lang: en
 status: machine
 fidelity: ok
 title: "JOGMEC equity and offtake mechanics"
-translated_at: 2026-06-19T13:13:22.629Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # JOGMEC equity and offtake mechanics
@@ -19,6 +19,8 @@ This entry sits under [[policy-finance/INDEX|policy-finance index]] as the opera
 JOGMEC (独立行政法人 エネルギー・金属鉱物資源機構 — formerly the Japan Oil, Gas and Metals National Corporation) is the resource-security node of the Japanese state-finance system. Its operating model rests on three legs: **探鉱出資** (exploration equity / risk-sharing capital injection into Japanese-affiliated upstream projects), **開発出資** (development-stage equity in proven projects), and **鉱物備蓄** (state stockpiling of rare metals and oil / petroleum-products reserves), plus a fourth supporting leg of **liability guarantees and loan support** that lets Japanese trading houses and utilities raise commercial debt at the exploration / pre-FID stage. Equity tickets are typically minority slices behind a Japanese sponsor (Mitsui, Mitsubishi Corp, Sumitomo Corp, Itochu, Marubeni, Sojitz, JOGMEC's industrial partners) plus often a host-country NOC or NMC and an international major (TotalEnergies, Shell, BHP, Rio Tinto, Glencore, etc.). The state objective is **offtake** back to Japan — long-term LNG, oil, copper, nickel, lithium, cobalt, rare-earth, and uranium volumes routed into Japanese energy-utility and battery / EV supply chains. The 2023-04 statutory rebranding to "金属鉱物資源機構" (and operational expansion in 2024 with the new dedicated minerals fund and risk-bearing authority) explicitly broadened the mandate from oil / gas / metals to include strategic minerals critical to GX and 経済安全保障. JOGMEC's role in the project-finance stack is the equity / exploration-risk seat that the megabank syndicate and JBIC cannot price — its presence in the cap table is often the signal that lets the senior-debt layer come together.
 
 ## 1. 機関 / 部門位置
+
+The following table is scoped to public primary sources (jogmec.go.jp, enecho.meti.go.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jogmec.go.jp; enecho.meti.go.jp; meti.go.jp; oecd.org]
 
 | Item | Detail |
 |---|---|
@@ -40,6 +42,8 @@ The institutional form is distinctive within the policy-finance constellation: J
 The boundary with JBIC and NEXI is structural and rarely contested in practice: JOGMEC absorbs upstream risk that lenders and insurers will not price; JBIC and NEXI sit downstream once the project is sufficiently de-risked to be bankable.
 
 ### 2.1 Product / instrument table
+
+The following table is scoped to public primary sources (jogmec.go.jp, enecho.meti.go.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jogmec.go.jp; enecho.meti.go.jp; meti.go.jp; oecd.org]
 
 | Lane | Instrument | Typical use | Counterpart | Sector focus |
 |---|---|---|---|---|
@@ -193,6 +197,8 @@ The Japanese state-finance interest in upstream projects is operationally expres
 Offtake is the operational mechanism that makes upstream equity a resource-security tool rather than purely a financial investment. Without offtake arrangements, JOGMEC equity would deliver only investment returns, not the physical-supply security that justifies the state-equity model.
 
 ## 8. Comparative position — JOGMEC vs peer state resource investors
+
+The following table is scoped to public primary sources (jogmec.go.jp, enecho.meti.go.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jogmec.go.jp; enecho.meti.go.jp; meti.go.jp; oecd.org]
 
 | Dimension | JOGMEC | Korean KORES / KOMIR | Chinese state-owned resource SOEs | Australian Future Fund critical-minerals investment | US DPA Title III + DOE Loan Programs Office | Private mining majors |
 |---|---|---|---|---|---|---|

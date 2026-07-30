@@ -3,8 +3,8 @@ title: "ソニー銀行 (Sony Bank)"
 aliases: ["Sony Bank", "ソニー銀行", "ソニー銀行株式会社", "Sony Bank Incorporated"]
 domain: regional-banks
 created: 2026-05-20
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, bank, net-bank, sony-fg, operating-company]
@@ -26,6 +26,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 ソニー銀行 (Sony Bank Incorporated) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に「ソニー銀行株式会社」として掲載される、[[megabanks/sony-fg|ソニーフィナンシャルグループ]] 100% 出資のインターネット専業銀行 operating company。公式会社概要では 2001 年 4 月 2 日設立、東京都千代田区内幸町本店。決済主体ではなく、円預金・外貨預金・投資信託・住宅ローン・Sony Bank WALLET など、個人向けの資産運用・資産形成を柱に据える net bank。
 
 ## 1. 法人・ライセンス境界
+
+The following table is scoped to public primary sources (fsa.go.jp, sonybank.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sonybank.jp]
 
 | Item | Reading |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: regional-banks/nanto-bank
-source_hash: 4046af040c4e4841
+source_hash: 6a2c4e7e5d337c4e
 lang: ja
 status: machine
 fidelity: ok
 title: "株式会社南都銀行 (The Nanto Bank)"
-translated_at: 2026-07-28T20:55:25Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 株式会社南都銀行 (The Nanto Bank)
@@ -29,6 +29,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 ^[南都銀行「会社概要」: https://www.nantobank.co.jp/company/profile/outline.html; 南都銀行「沿革」: https://www.nantobank.co.jp/company/profile/history.html]
 
 ### 主要財務（FY2023、2024-03-31 現在）
+
+以下の表は、エントリ出典インベントリの公開一次資料（nantobank.co.jp）の範囲に限定して読む。^[source:nantobank.co.jp]
 
 | 指標 | 数値 |
 |---|---|
@@ -62,6 +64,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ### 重要年表（抜粋）
 
+以下の表は、エントリ出典インベントリの公開一次資料（nantobank.co.jp）の範囲に限定して読む。^[source:nantobank.co.jp]
+
 | 年月 | 事象 |
 |---|---|
 | 1878 | **第六十八国立銀行 設立**（奈良、明治期国立銀行条例下）|
@@ -72,6 +76,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 | 2022-04 | 東証市場区分見直し → 東証 PRIME 8367（旧東証一部から移行）|
 
 ## 2. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（nantobank.co.jp）の範囲に限定して読む。^[source:nantobank.co.jp]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

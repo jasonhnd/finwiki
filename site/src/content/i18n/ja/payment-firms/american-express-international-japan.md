@@ -1,12 +1,12 @@
 ---
 source: payment-firms/american-express-international-japan
-source_hash: 87edffc3c31683b1
+source_hash: e62356fab972eca9
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "アメリカン・エキスプレス・インターナショナル日本支店 (American Express International Japan)"
-translated_at: 2026-06-26T08:31:59.839Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # アメリカン・エキスプレス・インターナショナル日本支店 (American Express International Japan)
@@ -16,6 +16,8 @@ translated_at: 2026-06-26T08:31:59.839Z
 この項目は [[payment-firms/INDEX|payment-firms INDEX]] の下に位置する。ピア／対比の文脈（JCB と Amex は両方 3-party scheme + 提携歴あり）としては [[card-issuers/jcb|JCB]] と、より広範なシステム／規制の境界としては [[payments/japan-card-issuer-acquirer-processor-split|Japan card 発行会社 / アクワイアラ / processor split]] と併せて読むこと。
 
 ## 1. ライセンス／グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（americanexpress.com, meti.go.jp, global.jcb）の範囲に限定して読む。^[source:americanexpress.com; meti.go.jp; global.jcb; jcb.co.jp]
 
 | Item | Notes |
 |---|---|

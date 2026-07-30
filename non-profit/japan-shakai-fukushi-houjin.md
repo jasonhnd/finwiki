@@ -11,8 +11,8 @@ aliases:
 domain: non-profit
 slug: japan-shakai-fukushi-houjin
 created: 2026-06-05
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2027-06-05
 confidence: likely
 tags: [non-profit, japan, social-welfare, shakai-fukushi-houjin, tax-deductible]
@@ -46,6 +46,8 @@ The defining feature is the **business categories** it may run:
 Because **第一種** businesses are largely reserved to public bodies and 社会福祉法人, the form is effectively the *gatekeeper vehicle* for residential welfare. This is the structural reason a welfare operator cannot simply use the cheaper [[non-profit/japan-npo-houjin-overview|NPO法人]] form for a 特養 — it is statutorily ineligible.
 
 ## Establishment and asset requirement
+
+The following table is scoped to public primary sources (laws.e-gov.go.jp, mhlw.go.jp, nta.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:laws.e-gov.go.jp; mhlw.go.jp; nta.go.jp; wam.go.jp]
 
 | Requirement | Detail |
 |---|---|

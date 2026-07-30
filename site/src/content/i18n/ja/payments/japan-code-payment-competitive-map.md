@@ -1,12 +1,12 @@
 ---
 source: payments/japan-code-payment-competitive-map
-source_hash: 12c89faffbd71346
+source_hash: 46cad10b9450ebb6
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "Japan コード決済 competitive map"
-translated_at: 2026-06-26T08:28:38.471Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan コード決済 competitive map
@@ -18,6 +18,8 @@ translated_at: 2026-06-26T08:28:38.471Z
 このページは、コード決済分析を [[payments/INDEX|payments]] の下にルーティングし、[[payments/INDEX|payments INDEX]] の消費者向けウォレット事業者を、[[payment-firms/netstars|Netstars]] や [[payments/psp-merchant-settlement-risk|加盟店決済 risk]] といった PSP／ゲートウェイ・インフラと接続する。
 
 ## Competitive Lanes
+
+以下の表は、エントリ出典インベントリの公開一次資料（meti.go.jp, paymentsjapan.or.jp, fsa.go.jp）の範囲に限定して読む。^[source:meti.go.jp; paymentsjapan.or.jp; fsa.go.jp]
 
 | Lane | Core route | Strategic reading |
 |---|---|---|
@@ -39,6 +41,8 @@ translated_at: 2026-06-26T08:28:38.471Z
 - 規制境界：多くのウォレットは、[[payments/funds-transfer-service-providers-japan-index|資金移動]]、[[payments/prepaid-payment-instrument-issuers-japan-index|前払式]]、カード・アクワイアリング、信用にまたがる慎重なルーティングを必要とする。
 
 ## 事業者 Lens
+
+以下の表は、エントリ出典インベントリの公開一次資料（meti.go.jp, paymentsjapan.or.jp, fsa.go.jp）の範囲に限定して読む。^[source:meti.go.jp; paymentsjapan.or.jp; fsa.go.jp]
 
 | Question | Route |
 |---|---|

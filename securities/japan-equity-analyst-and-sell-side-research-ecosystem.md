@@ -11,8 +11,8 @@ aliases:
   - "日本 株式アナリスト ecosystem"
 domain: securities
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [securities, market-structure, sell-side-research, analyst, MiFID, inducement, JSAA]
@@ -90,6 +90,8 @@ Sell-side equity research is the analytical layer that sits between issuer discl
 - **Distinguishing feature**: Only domestic five-pole house with a global IB JV structure; allows seamless Morgan Stanley global content distribution alongside Japan-specific output.
 
 ## Global IB tier in Japan
+
+The following table is scoped to public primary sources (nomuraholdings.com, smbcnikko.co.jp, daiwa-grp.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:nomuraholdings.com; smbcnikko.co.jp; daiwa-grp.jp; mizuho-sc.com]
 
 | House | Local entity | Research character |
 |---|---|---|

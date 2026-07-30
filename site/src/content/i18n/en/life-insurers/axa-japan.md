@@ -1,11 +1,11 @@
 ---
 source: life-insurers/axa-japan
-source_hash: fa31393f340e1e71
+source_hash: 92cc053b3732a3c2
 lang: en
 status: machine
 fidelity: ok
 title: "AXA Japan"
-translated_at: 2026-05-31T11:13:44.904Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # AXA Japan
@@ -39,6 +39,8 @@ AXA SA (Paris, France)
 
 ### Important history (chronology)
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | years | phenomenon |
 |---|---|
 | 1932 | **Japan Group Life Insurance** Founded (started before the war as a group life insurance company)|
@@ -54,6 +56,8 @@ AXA SA (Paris, France)
 | 2023〜2024 | Japan also expands into the health and prevention (healthcare) field under the Group's "Unlock the Future" strategy |
 
 ## 2. Business line
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | segment | main business person | Features |
 |---|---|---|
@@ -76,6 +80,8 @@ AXA SA (Paris, France)
 - **Health and prevention area**: Expanding AXA Group's "Payer to Partner" strategy (from simply an insurance payer to a health support partner) in Japan
 
 ### competitive relationship
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Conflict type | Main competition |
 |---|---|

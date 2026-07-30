@@ -1,11 +1,11 @@
 ---
 source: securities-firms/dmm-com-securities
-source_hash: 6b201041c76e7a50
+source_hash: 7c6dafafee77cf0d
 lang: ja
 status: machine
 fidelity: ok
 title: "DMM.com証券"
-translated_at: 2026-06-15T04:09:41.166Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # DMM.com証券
@@ -19,6 +19,8 @@ translated_at: 2026-06-15T04:09:41.166Z
 株式会社DMM.com証券は、DMM グループの証券 / 店頭FX / CFD 事業者。金融商品取引法上の **第一種金融商品取引業者** として金融庁の金融商品取引業者一覧に「株式会社DMM.com証券」（関東財務局長(金商)第1629号）で掲載される。同じ法人の暗号資産文脈は [[exchanges/jp-exchange-dmm-com-securities|exchanges 側のページ]] が扱い、本ページは FIEA 事業者として切り出す。
 
 ## 1. 免許 / グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, kabu.dmm.com, securities.dmm.com）の範囲に限定して読む。^[source:fsa.go.jp; kabu.dmm.com; securities.dmm.com]
 
 | 項目 | 備考 |
 |---|---|

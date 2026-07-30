@@ -1,11 +1,11 @@
 ---
 source: payment-firms/revolut-technologies-japan
-source_hash: fab0cf777b7da011
+source_hash: b20fd320db778459
 lang: en
 status: machine
 fidelity: ok
 title: "REVOLUT TECHNOLOGIES JAPAN"
-translated_at: 2026-06-01T00:41:50.455Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # REVOLUT TECHNOLOGIES JAPAN
 
@@ -18,6 +18,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 REVOLUT TECHNOLOGIES JAPAN, Inc. is Revolut's Japan operating entity. The official Japan site states that it is registered as a Type II funds-transfer service provider and electronic payment service provider, and that it offers cards, foreign-currency exchange, domestic and overseas remittances, household budgeting, and related services.
 
 ## 1. Legal entity / license boundary
+
+The following table is scoped to public primary sources (revolut.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:revolut.com; fsa.go.jp]
 
 | Item | Reading |
 |---|---|

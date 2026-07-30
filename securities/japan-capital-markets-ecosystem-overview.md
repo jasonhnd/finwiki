@@ -11,8 +11,8 @@ aliases:
   - "JapanFG/jiipf"
 domain: securities
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [securities, finance, overview, capital-markets, primary-market, secondary-market, equity, bond, derivative, market-infrastructure]
@@ -64,6 +64,8 @@ The primary market is supported by:
 
 The secondary market is where investors trade existing instruments.
 
+The following table is scoped to public primary sources (jpx.co.jp, fsa.go.jp, boj.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp; fsa.go.jp; boj.or.jp; jsda.or.jp]
+
 | Instrument | Venue | Anchor |
 |---|---|---|
 | Listed equity | [[securities/tokyo-stock-exchange|TSE]], [[exchanges/INDEX|other Japan exchanges]] | [[securities/japan-best-execution-sor-pts]], [[securities/japan-online-brokerage-competition]] |
@@ -87,6 +89,8 @@ The secondary market is supported by:
 
 Clearing transforms bilateral exposures into multilateral exposures against a central counterparty (CCP).
 
+The following table is scoped to public primary sources (jpx.co.jp, fsa.go.jp, boj.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp; fsa.go.jp; boj.or.jp; jsda.or.jp]
+
 | Asset class | CCP | Anchor |
 |---|---|---|
 | Listed derivatives (OSE) | [[securities/japan-securities-clearing-corp|JSCC]] | JSCC clears all JPX-listed derivatives. |
@@ -98,6 +102,8 @@ Clearing transforms bilateral exposures into multilateral exposures against a ce
 ### 4. Settlement and Depository
 
 Settlement transfers ownership of cleared trades; depositories hold the underlying records.
+
+The following table is scoped to public primary sources (jpx.co.jp, fsa.go.jp, boj.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp; fsa.go.jp; boj.or.jp; jsda.or.jp]
 
 | Asset class | Depository | Settlement |
 |---|---|---|
@@ -114,6 +120,8 @@ See [[securities/japan-market-infrastructure-map]] for the unified venue / clear
 
 Regulation governs market conduct, conflict resolution, and systemic-risk monitoring.
 
+The following table is scoped to public primary sources (jpx.co.jp, fsa.go.jp, boj.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp; fsa.go.jp; boj.or.jp; jsda.or.jp]
+
 | Layer | Body | Function |
 |---|---|---|
 | Statute | FIEA (金融商品取引法) | Governs securities, derivatives, intermediaries, disclosure, market conduct. |
@@ -126,6 +134,8 @@ Regulation governs market conduct, conflict resolution, and systemic-risk monito
 | Tax (NISA) | National Tax Agency + MoF | NISA framework. See [[securities/nisa-2024-flow]]. |
 
 ## Market Participants
+
+The following table is scoped to public primary sources (jpx.co.jp, fsa.go.jp, boj.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp; fsa.go.jp; boj.or.jp; jsda.or.jp]
 
 | Category | Examples |
 |---|---|
@@ -143,6 +153,8 @@ Regulation governs market conduct, conflict resolution, and systemic-risk monito
 
 ## Cross-Border Linkages
 
+The following table is scoped to public primary sources (jpx.co.jp, fsa.go.jp, boj.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp; fsa.go.jp; boj.or.jp; jsda.or.jp]
+
 | Linkage | Mechanism |
 |---|---|
 | Foreign equity ownership | Foreign accounts own ~30% of TSE Prime float. |
@@ -153,6 +165,8 @@ Regulation governs market conduct, conflict resolution, and systemic-risk monito
 | TSE-listed ETF cross-listing | Limited cross-listing; mostly mutual-recognition. |
 
 ## Public Data Sources
+
+The following table is scoped to public primary sources (jpx.co.jp, fsa.go.jp, boj.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp; fsa.go.jp; boj.or.jp; jsda.or.jp]
 
 | Source | What it shows |
 |---|---|

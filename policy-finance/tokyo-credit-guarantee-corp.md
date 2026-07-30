@@ -7,8 +7,8 @@ aliases:
   - "policy-finance/tokyo-credit-guarantee-corp"
 domain: "policy-finance"
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-20
 confidence: likely
 tags: [policy-finance, credit-guarantee, sme-finance, public-credit, tokyo, japan]
@@ -29,6 +29,8 @@ Use this page under [[policy-finance/INDEX|policy-finance index]] as the canonic
 
 ## 1. Institutional boundary
 
+The following table is scoped to public primary sources (cgc-tokyo.or.jp, zenshinhoren.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:cgc-tokyo.or.jp; zenshinhoren.or.jp]
+
 | Item | Reading |
 |---|---|
 | Japanese name | 東京信用保証協会 |
@@ -40,6 +42,8 @@ Use this page under [[policy-finance/INDEX|policy-finance index]] as the canonic
 | Public-credit reinsurance | Reinsured by [[financial-regulators/jfc|JFC]] credit-insurance operations |
 
 ## 2. Function map
+
+The following table is scoped to public primary sources (cgc-tokyo.or.jp, zenshinhoren.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:cgc-tokyo.or.jp; zenshinhoren.or.jp]
 
 | Function | Why it matters |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: regional-banks/sbi-shinsei-bank
-source_hash: ee5b05fc6c3e572b
+source_hash: 34a0c523529e5a66
 lang: ja
 status: machine
 fidelity: ok
 title: "SBI新生銀行"
-translated_at: 2026-06-02T15:14:17.095Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # SBI新生銀行
@@ -68,6 +68,8 @@ SBI ホールディングス [[megabanks/sbi-hd]]（上場 8473）
 - 旧 LTCB 国有化時の公的資金注入残 **約 3500 億円**規模（預金保険機構保有株起源、SBI 完全子会社化後も継続論点）
 
 ## 2. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

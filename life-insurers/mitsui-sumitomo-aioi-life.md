@@ -3,8 +3,8 @@ title: "三井住友海上あいおい生命保険"
 aliases: ["三井住友海上あいおい生命", "MSA Life", "Mitsui Sumitomo Aioi Life", "三井住友海上あいおい生命保険株式会社"]
 domain: life-insurers
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, insurance, life-insurance, msad, operating-company]
@@ -27,6 +27,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 三井住友海上あいおい生命保険株式会社は、[[non-life-insurers/msad]] group の life-insurance operating company。[[non-life-insurers/msad]] is primarily a non-life insurance group, but this entity is a separate FSA-listed life insurer and belongs in the same comparison set as [[life-insurers/sompo-himawari-life]] and [[life-insurers/tokio-marine-nichido-life]].
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, msa-life.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; msa-life.co.jp]
 
 | Item | Notes |
 |---|---|

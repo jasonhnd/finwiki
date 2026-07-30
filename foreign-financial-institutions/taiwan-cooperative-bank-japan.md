@@ -7,8 +7,8 @@ aliases:
   - "TCB Japan"
 domain: foreign-financial-institutions
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-22
 confidence: likely
 tags: [JapanFG, foreign-bank, Taiwan, corporate-banking, trade-finance]
@@ -35,6 +35,8 @@ The page is worth standalone treatment because Taiwan Cooperative Bank was one o
 
 ## Entity Boundary
 
+The following table is scoped to public primary sources (fsa.go.jp, tcb-bank.com.tw, fsc.gov.tw). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; tcb-bank.com.tw; fsc.gov.tw]
+
 | Item | Reading |
 |---|---|
 | Parent bank | Taiwan Cooperative Bank |
@@ -44,6 +46,8 @@ The page is worth standalone treatment because Taiwan Cooperative Bank was one o
 | Regulatory route | FSA foreign-bank branch list |
 
 ## Business Role Map
+
+The following table is scoped to public primary sources (fsa.go.jp, tcb-bank.com.tw, fsc.gov.tw). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; tcb-bank.com.tw; fsc.gov.tw]
 
 | Function | Japan relevance |
 |---|---|

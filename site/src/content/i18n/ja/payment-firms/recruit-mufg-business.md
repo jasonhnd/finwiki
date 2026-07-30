@@ -1,12 +1,12 @@
 ---
 source: payment-firms/recruit-mufg-business
-source_hash: 41682f8ab3f75127
+source_hash: f0c57de9930fde30
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "リクルートMUFGビジネス"
-translated_at: 2026-06-26T08:31:59.846Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # リクルートMUFGビジネス
@@ -20,6 +20,8 @@ translated_at: 2026-06-26T08:31:59.846Z
 同社が戦略的に重要なのは、Recruit の加盟店・消費者サービス接点と MUFG の銀行レールを組み合わせるためである。古典的なカード発行会社ではなく、口座連動ウォレット・決済インフラの経路として読む。
 
 ## 1. 法人・ライセンス境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（recruitmufgbiz.co.jp, fsa.go.jp, recruit.co.jp）の範囲に限定して読む。^[source:recruitmufgbiz.co.jp; fsa.go.jp; recruit.co.jp]
 
 | 項目 | 読み方 |
 |---|---|

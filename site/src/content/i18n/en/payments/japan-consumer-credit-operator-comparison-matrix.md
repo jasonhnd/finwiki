@@ -1,11 +1,11 @@
 ---
 source: payments/japan-consumer-credit-operator-comparison-matrix
-source_hash: 2dfc88f5aaadbef9
+source_hash: 80aab8dc6df549b3
 lang: en
 status: machine
 fidelity: ok
 title: "Japan consumer-credit operator comparison matrix"
-translated_at: 2026-06-19T06:09:18.151Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan consumer-credit operator comparison matrix
@@ -22,6 +22,8 @@ This sits under [[payments/INDEX|payments index]] as the cross-category consumer
 
 The reason FinWiki keeps nine categories (rather than the conventional three of "card / shoko-loan / shinpan") is that BNPL, auto-captive, housing-loan adjacent, education-loan, microcredit, and PSP-embedded credit have **different license routes, different regulators, and different consumer-protection regimes** even when the consumer-visible product looks like a single "credit" experience.
 
+The following table is scoped to public primary sources (meti.go.jp, fsa.go.jp, jicc.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; fsa.go.jp; jicc.co.jp; cic.co.jp]
+
 | # | Category | Japanese | Primary statute | Primary regulator |
 |---|---|---|---|---|
 | 1 | Card issuer | クレジットカード会社 / 包括信用購入あっせん業者 | Installment Sales Act (割賦販売法) | METI (経産省) |
@@ -37,6 +39,8 @@ The reason FinWiki keeps nine categories (rather than the conventional three of 
 Each row is an independent license stack. An operator that holds more than one is **not** automatically a holding company — it is more often a multi-licensed sales-finance / consumer-credit operator (e.g., [[card-issuers/orico|Orico]] holds 包括信用購入あっせん, 個別信用購入あっせん, and 貸金業 simultaneously; [[consumer-finance/aiful|AIFUL]] holds 貸金業 + 包括信用購入あっせん through Life Card; [[card-issuers/jaccs|JACCS]] holds all three plus 包括信用購入あっせん + 個別信用購入あっせん).
 
 ## Comparison matrix — full
+
+The following table is scoped to public primary sources (meti.go.jp, fsa.go.jp, jicc.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; fsa.go.jp; jicc.co.jp; cic.co.jp]
 
 | Dimension | Card issuer | Consumer finance | Installment credit (shinpan) | BNPL pure-play | Auto-captive | Housing-loan (JHF) | Education loan | Microcredit | PSP-adjacent credit |
 |---|---|---|---|---|---|---|---|---|---|
@@ -115,6 +119,8 @@ This category exists because of operators like Mercari/Merpay (where the 後払�
 
 A consumer-credit operator's reporting/inquiry obligation depends on its license category and bureau membership. There are three major bureaus:
 
+The following table is scoped to public primary sources (meti.go.jp, fsa.go.jp, jicc.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; fsa.go.jp; jicc.co.jp; cic.co.jp]
+
 | Bureau | Membership base | Typical operator coverage |
 |---|---|---|
 | **JICC** (日本信用情報機構) | Mostly 貸金業 + shinpan | Consumer finance / shoko-loan, shinpan, some BNPL |
@@ -127,6 +133,8 @@ A **3 大消費者金融** operator is typically a member of JICC + CIC + KSC, s
 
 Reading category 1, 2, 3, 4, 5, 6, 7 together, the bank-FG adjacency picture for Japanese consumer credit is:
 
+The following table is scoped to public primary sources (meti.go.jp, fsa.go.jp, jicc.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; fsa.go.jp; jicc.co.jp; cic.co.jp]
+
 | FG | Card issuer | Consumer finance | Shinpan | Notes |
 |---|---|---|---|---|
 | [[megabanks/mufg|MUFG]] | [[card-issuers/mufg-nicos|MUFG NICOS]] (100%) | [[consumer-finance/acom|ACOM]] (39.6% equity-method) | [[card-issuers/jaccs|JACCS]] (equity-method) | 3-line consumer credit footprint inside one FG |
@@ -138,6 +146,8 @@ Reading category 1, 2, 3, 4, 5, 6, 7 together, the bank-FG adjacency picture for
 The MUFG 3-line footprint (NICOS card + ACOM consumer finance + JACCS shinpan) is the single most concentrated bank-FG position in Japanese consumer credit. Whether MUFG eventually consolidates that into a unified consumer-credit subsidiary, or keeps them as separate listed/equity-method entities, is a long-running structural question.
 
 ## Recent regulatory pressure
+
+The following table is scoped to public primary sources (meti.go.jp, fsa.go.jp, jicc.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; fsa.go.jp; jicc.co.jp; cic.co.jp]
 
 | Date | Source | What changed |
 |---|---|---|
@@ -157,6 +167,8 @@ The MUFG 3-line footprint (NICOS card + ACOM consumer finance + JACCS shinpan) i
 The 2010-06 改正貸金業法 enforcement is the **single largest structural event** in modern Japanese consumer credit — it consolidated 消費者金融 from a 4-strong + many-small landscape to the current 3 大 (ACOM, Promise, AIFUL) + bank-cardloan partnerships, and the 過払金 refund wave consumed the better part of a decade of operator equity.
 
 ## Securitization / ABS pipeline summary
+
+The following table is scoped to public primary sources (meti.go.jp, fsa.go.jp, jicc.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; fsa.go.jp; jicc.co.jp; cic.co.jp]
 
 | Category | Routine ABS / MBS pipeline | Comment |
 |---|---|---|

@@ -1,11 +1,11 @@
 ---
 source: regional-banks/suruga-bank
-source_hash: 19cec5f52f7493c6
+source_hash: 2cbc4caac8e62adb
 lang: ja
 status: machine
 fidelity: ok
 title: "スルガ銀行"
-translated_at: 2026-06-02T15:14:17.154Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # スルガ銀行
 
@@ -28,6 +28,8 @@ translated_at: 2026-06-02T15:14:17.154Z
 **機関設計**：監査等委員会設置会社
 
 ### 主要株主（直近 公開ベース）^[extracted]
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | 株主 | 比率（概数）|
 |---|---|
@@ -56,6 +58,8 @@ translated_at: 2026-06-02T15:14:17.154Z
 | 2023-2024 | 中期経営計画「信頼回復・地域共創」フェーズ |
 
 ## 2. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | セグメント | 内容 | 特徴 |
 |---|---|---|

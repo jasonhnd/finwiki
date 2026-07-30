@@ -3,8 +3,8 @@ title: 丸三証券 (Marusan Securities)
 aliases: ["Marusan Securities", "Marusan Securities Co., Ltd.", "丸三証券", "丸三証券株式会社", "8613"]
 domain: securities-firms
 created: 2026-05-24
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, securities, independent, mid-tier]
@@ -26,6 +26,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 丸三証券は **1910 年創業の老舗中堅独立証券** (東証 PRIME **8613**)、創業 110 年超で **対面リテール主軸 + コンサルティング営業** に特化する独立系証券会社。FSA 金融商品取引業者一覧では「丸三証券株式会社」、関東財務局長(金商)第167号として掲載される。**JSDA 正会員**。メガバンク・通信系には属さず、株式・債券・投資信託の対面販売を中核とする伝統的中堅証券モデルを維持し、競合は [[securities-firms/aizawa-sg|アイザワ証券]] / [[securities-firms/okasan-sg|岡三証券グループ]] / [[securities-firms/iwai-cosmo-hd|岩井コスモ HD]] / [[securities-firms/tokai-tokyo-fh|東海東京 FH]] 等の中堅独立証券枠。
 
 ## 1. 法人・ライセンス境界
+
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, marusan-sec.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; marusan-sec.co.jp]
 
 | Item | Reading |
 |---|---|
@@ -59,6 +61,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 | 2022-04 | 東証市場区分見直し → 東証 PRIME 移行 ^[extracted] |
 
 ## 3. 事業セグメント map
+
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, marusan-sec.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; marusan-sec.co.jp]
 
 | セグメント | 内容 | 特徴 |
 |---|---|---|

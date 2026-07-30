@@ -1,11 +1,11 @@
 ---
 source: securities/japan-capital-markets-ecosystem-overview
-source_hash: 295d18ea8342be12
+source_hash: b4d85c4336ea2918
 lang: ja
 status: machine
 fidelity: ok
 title: "日本の資本市場経済圏概観"
-translated_at: 2026-06-15T04:09:41.157Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本の資本市場経済圏概観
@@ -23,6 +23,8 @@ translated_at: 2026-06-15T04:09:41.157Z
 ### 1. 発行（プライマリー市場）
 
 プライマリー市場は、発行体が投資家から新規資本を調達する場である。
+
+以下の表は、エントリ出典インベントリの公開一次資料（jpx.co.jp, fsa.go.jp, boj.or.jp）の範囲に限定して読む。^[source:jpx.co.jp; fsa.go.jp; boj.or.jp; jsda.or.jp]
 
 | 商品 | 場 | アンカー |
 |---|---|---|
@@ -46,6 +48,8 @@ translated_at: 2026-06-15T04:09:41.157Z
 
 セカンダリー市場は、投資家が既発の商品を取引する場である。
 
+以下の表は、エントリ出典インベントリの公開一次資料（jpx.co.jp, fsa.go.jp, boj.or.jp）の範囲に限定して読む。^[source:jpx.co.jp; fsa.go.jp; boj.or.jp; jsda.or.jp]
+
 | 商品 | 場 | アンカー |
 |---|---|---|
 | 上場株式 | [[securities/tokyo-stock-exchange|TSE]], [[exchanges/INDEX|other Japan exchanges]] | [[securities/japan-best-execution-sor-pts]], [[securities/japan-online-brokerage-competition]] |
@@ -67,6 +71,8 @@ translated_at: 2026-06-15T04:09:41.157Z
 
 ### 3. 清算清算は、相対のエクスポージャーを、中央清算機関（CCP）に対する多数当事者間のエクスポージャーへと変換する。
 
+以下の表は、エントリ出典インベントリの公開一次資料（jpx.co.jp, fsa.go.jp, boj.or.jp）の範囲に限定して読む。^[source:jpx.co.jp; fsa.go.jp; boj.or.jp; jsda.or.jp]
+
 | 資産クラス | CCP | アンカー |
 |---|---|---|
 | 上場デリバティブ（OSE） | [[securities/japan-securities-clearing-corp|JSCC]] | JSCC はすべての JPX 上場デリバティブを清算する。 |
@@ -76,6 +82,8 @@ translated_at: 2026-06-15T04:09:41.157Z
 | クロスボーダー同等性 | JSCC EMIR 同等＋ CFTC 代替コンプライアンス | [[derivatives/otc-clearing-jp-trade-repository]] を参照。 |
 
 ### 4. 決済と保管振替決済は清算済み取引の所有権を移転し、保管振替機関は原資産の記録を保持する。
+
+以下の表は、エントリ出典インベントリの公開一次資料（jpx.co.jp, fsa.go.jp, boj.or.jp）の範囲に限定して読む。^[source:jpx.co.jp; fsa.go.jp; boj.or.jp; jsda.or.jp]
 
 | 資産クラス | 保管振替 | 決済 |
 |---|---|---|
@@ -90,6 +98,8 @@ translated_at: 2026-06-15T04:09:41.157Z
 
 ### 5. 規制と自主規制規制は、市場行為、紛争解決、システミックリスクの監視を統括する。
 
+以下の表は、エントリ出典インベントリの公開一次資料（jpx.co.jp, fsa.go.jp, boj.or.jp）の範囲に限定して読む。^[source:jpx.co.jp; fsa.go.jp; boj.or.jp; jsda.or.jp]
+
 | レイヤー | 機関 | 機能 |
 |---|---|---|
 | 法令 | FIEA（金融商品取引法） | 証券、デリバティブ、仲介業者、開示、市場行為を規律する。 |
@@ -102,6 +112,8 @@ translated_at: 2026-06-15T04:09:41.157Z
 | 税（NISA） | 国税庁＋財務省 | NISA の枠組み。[[securities/nisa-2024-flow]] を参照。 |
 
 ## 市場参加者
+
+以下の表は、エントリ出典インベントリの公開一次資料（jpx.co.jp, fsa.go.jp, boj.or.jp）の範囲に限定して読む。^[source:jpx.co.jp; fsa.go.jp; boj.or.jp; jsda.or.jp]
 
 | カテゴリー | 例 |
 |---|---|
@@ -119,6 +131,8 @@ translated_at: 2026-06-15T04:09:41.157Z
 
 ## クロスボーダーのリンケージ
 
+以下の表は、エントリ出典インベントリの公開一次資料（jpx.co.jp, fsa.go.jp, boj.or.jp）の範囲に限定して読む。^[source:jpx.co.jp; fsa.go.jp; boj.or.jp; jsda.or.jp]
+
 | リンケージ | メカニズム |
 |---|---|
 | 外国人株式保有 | 外国人口座が東証 Prime の浮動株の約 30% を保有。 |
@@ -129,6 +143,8 @@ translated_at: 2026-06-15T04:09:41.157Z
 | 東証上場 ETF のクロスリスティング | クロスリスティングは限定的；大半は相互承認。 |
 
 ## 公開データソース
+
+以下の表は、エントリ出典インベントリの公開一次資料（jpx.co.jp, fsa.go.jp, boj.or.jp）の範囲に限定して読む。^[source:jpx.co.jp; fsa.go.jp; boj.or.jp; jsda.or.jp]
 
 | ソース | 示すもの |
 |---|---|

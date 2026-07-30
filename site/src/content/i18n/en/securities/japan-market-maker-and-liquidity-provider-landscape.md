@@ -1,11 +1,11 @@
 ---
 source: securities/japan-market-maker-and-liquidity-provider-landscape
-source_hash: 479035c983b5e4e4
+source_hash: ea8139b9f0f95cb8
 lang: en
 status: machine
 fidelity: ok
 title: "Japan market maker and liquidity provider landscape"
-translated_at: 2026-06-01T03:31:12.290Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan market maker and liquidity provider landscape
@@ -34,6 +34,8 @@ The post-2010 introduction of global HFT firms into Japan and the post-2013 TSE 
 
 OSE operates a formal Market Maker (MM) program for listed derivatives, covering products such as:
 
+The following table is scoped to public primary sources (jpx.co.jp, fsa.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp; fsa.go.jp; jsda.or.jp; citadelsecurities.com]
+
 | Product | Market-maker relevance |
 |---|---|
 | Nikkei 225 futures / options | Core equity-index derivatives MM activity. |
@@ -56,6 +58,8 @@ TSE cash-equity designated-market-maker coverage is more selective than the deri
 ## Domestic broker market making
 
 Each major domestic securities firm operates equity / derivatives / ETF market-making and authorized-participant activity as part of its institutional business:
+
+The following table is scoped to public primary sources (jpx.co.jp, fsa.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp; fsa.go.jp; jsda.or.jp; citadelsecurities.com]
 
 | House | Market-making relevance |
 |---|---|
@@ -124,6 +128,8 @@ Additional global / regional firms with Japan market-making activity (cap on thi
 
 The general structure of JPX MM incentives:
 
+The following table is scoped to public primary sources (jpx.co.jp, fsa.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp; fsa.go.jp; jsda.or.jp; citadelsecurities.com]
+
 | Incentive | Typical form |
 |---|---|
 | Fee rebate / reduced trading participation cost | Lower per-trade or per-product fee for MM-eligible activity. |
@@ -132,6 +138,8 @@ The general structure of JPX MM incentives:
 | Connectivity / infrastructure benefits | In some scheme designs. |
 
 The corresponding obligations:
+
+The following table is scoped to public primary sources (jpx.co.jp, fsa.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp; fsa.go.jp; jsda.or.jp; citadelsecurities.com]
 
 | Obligation | Typical form |
 |---|---|
@@ -167,6 +175,8 @@ See [[securities/japannext-sor-routing-deep-dive|Japannext PTS SOR routing deep 
 
 HFT inventory and intraday positions require funding infrastructure:
 
+The following table is scoped to public primary sources (jpx.co.jp, fsa.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp; fsa.go.jp; jsda.or.jp; citadelsecurities.com]
+
 | Need | Source |
 |---|---|
 | Prime brokerage / financing | See [[securities/japan-prime-brokerage-and-institutional-financing|prime brokerage]] for the bulk-financing layer; global IBs provide synthetic and physical financing. |
@@ -178,6 +188,8 @@ HFT inventory and intraday positions require funding infrastructure:
 Financing cost is a meaningful competitive differentiator: a firm with cheap inventory financing can quote tighter spreads on lower turnover than a firm with expensive financing.
 
 ## Regulatory and self-regulatory framework
+
+The following table is scoped to public primary sources (jpx.co.jp, fsa.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp; fsa.go.jp; jsda.or.jp; citadelsecurities.com]
 
 | Layer | Role |
 |---|---|
@@ -200,6 +212,8 @@ ETF authorized participants (APs) are typically the same firms acting as market 
 For [[securities/japan-asset-manager-landscape-matrix|domestic ETF issuers]] (Nomura AM, AM-One, MUFG AM, Nikko AM, Daiwa AM, iShares Japan), the AP relationship is operationally critical; thin AP coverage on a niche ETF causes wider NAV-tracking errors.
 
 ## Latency and infrastructure
+
+The following table is scoped to public primary sources (jpx.co.jp, fsa.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpx.co.jp; fsa.go.jp; jsda.or.jp; citadelsecurities.com]
 
 | Layer | Note |
 |---|---|

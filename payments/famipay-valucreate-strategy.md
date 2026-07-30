@@ -8,8 +8,8 @@ aliases:
   - "FamiPay 株式会社"
 domain: payments
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [payments, code-payment, prepaid, wallet, retail-anchor, convenience-store, itochu]
@@ -36,6 +36,8 @@ This entry sits under [[payments/INDEX|payments index]] as the FamilyMart-anchor
 **FamiPay** is the FamilyMart convenience-store-anchored code-payment wallet, operated by **株式会社ファミマデジタルワン** (FamiMa Digital One — joint venture between FamilyMart and partners under the Itochu group umbrella) and licensed as a third-party prepaid payment instrument issuer under the Payment Services Act. Launched 2019-07, FamiPay sits in a structurally different competitive position from the four dominant cross-merchant wallets ([[payment-firms/paypay|PayPay]], d払い, [[payment-firms/au-payment|au PAY]], 楽天ペイ) because its primary acceptance anchor is FamilyMart's ~16,000-store network rather than open-merchant acquisition. The wallet's strategic role is **retain-and-monetize within the FamilyMart loyalty ecosystem** (Tポイント transition, ファミペイボーナス campaigns, FamilyMart app deep integration) rather than win Japan-wide code-payment share. It is one of the Itochu group's principal consumer-facing data assets alongside the broader FamilyMart digital strategy.
 
 ## Operator structure and licensing
+
+The following table is scoped to public primary sources (family.co.jp, famipay.jp, itochu.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:family.co.jp; famipay.jp; itochu.co.jp; meti.go.jp]
 
 | Layer | Entity |
 |---|---|
@@ -98,6 +100,8 @@ The data play matters because FamiPay transactions generate consumer-purchase, f
 ## Funding rails and charge methods
 
 FamiPay supports multiple charge / funding rails into the wallet balance:
+
+The following table is scoped to public primary sources (family.co.jp, famipay.jp, itochu.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:family.co.jp; famipay.jp; itochu.co.jp; meti.go.jp]
 
 | Funding rail | Cost / margin implication |
 |---|---|

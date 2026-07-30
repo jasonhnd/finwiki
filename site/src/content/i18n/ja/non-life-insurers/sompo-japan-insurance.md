@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/sompo-japan-insurance
-source_hash: 43e7da11e62ab641
+source_hash: 2d6a26d9e04a12c6
 lang: ja
 status: machine
 fidelity: ok
 title: "損害保険ジャパン"
-translated_at: 2026-06-19T06:09:18.075Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 損害保険ジャパン
@@ -20,6 +20,8 @@ translated_at: 2026-06-19T06:09:18.075Z
 損害保険ジャパン株式会社は、[[non-life-insurers/sompo]] グループの中核損保事業会社。金融庁の損害保険会社免許一覧と損害保険契約者保護機構会員一覧に掲載される免許保険会社で、SOMPO グループの日本の損保引受・保険金支払・代理店・企業向けリスクの面を担う。
 
 ## 1. 免許／グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（sompo-japan.co.jp, fsa.go.jp, sonpohogo.or.jp）の範囲に限定して読む。^[source:sompo-japan.co.jp; fsa.go.jp; sonpohogo.or.jp]
 
 | 項目 | 注記 |
 |---|---|

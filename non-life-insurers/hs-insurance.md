@@ -3,8 +3,8 @@ title: "HS Insurance / エイチ・エス損害保険"
 aliases: ["エイチ・エス損害保険", "エイチ・エス損害保険株式会社", "HS Insurance", "H.S. Insurance"]
 domain: non-life-insurers
 created: 2026-05-23
-last_updated: 2026-05-23
-last_tended: 2026-05-23
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-23
 confidence: likely
 tags: [JapanFG, non-life-insurance, travel-insurance, pet-insurance, public-source]
@@ -28,6 +28,8 @@ HS Insurance is a licensed Japanese non-life insurer with a direct product surfa
 This page covers エイチ・エス損害保険株式会社. It should not be merged into travel-agency or retail-platform pages unless public materials explicitly support ownership or distribution claims.
 
 ## Business Role Map
+
+The following table is scoped to public primary sources (fsa.go.jp, hs-sonpo.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; hs-sonpo.co.jp]
 
 | Route | Reading |
 |---|---|

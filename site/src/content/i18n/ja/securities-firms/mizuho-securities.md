@@ -1,11 +1,11 @@
 ---
 source: securities-firms/mizuho-securities
-source_hash: f51df3085a37c804
+source_hash: add21dd1a88ef854
 lang: ja
 status: machine
 fidelity: ok
 title: "みずほ証券"
-translated_at: 2026-06-19T12:43:19.929Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # みずほ証券
@@ -17,6 +17,8 @@ translated_at: 2026-06-19T12:43:19.929Z
 このページは、みずほの証券 / 投資銀行層のために使用すること。銀行預金や信託銀行の分析のためではない。
 
 ## ポジショニング
+
+以下の表は、エントリ出典インベントリの公開一次資料（mizuhogroup.com, fsa.go.jp, jsda.or.jp）の範囲に限定して読む。^[source:mizuhogroup.com; fsa.go.jp; jsda.or.jp]
 
 | レンズ | 読み解き |
 |---|---|

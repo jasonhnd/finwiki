@@ -3,8 +3,8 @@ title: "福岡中央銀行"
 aliases: ["Fukuoka Chuo Bank", "The Fukuoka Chuo Bank", "株式会社福岡中央銀行"]
 domain: regional-banks
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, banking, second-regional-bank, kyushu, fukuoka, operating-company]
@@ -27,6 +27,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 株式会社福岡中央銀行は、金融庁の銀行免許一覧に掲載される福岡県本店の第二地方銀行。[[regional-banks/fukuoka-fg]] 傘下の Fukuoka-area operating bank であり、[[regional-banks/fukuoka-bank]] and [[regional-banks/chikuho-bank]] とは別の licensed-bank anchor として扱う。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, fukuokachuo-bank.co.jp, fukuoka-fg.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; fukuokachuo-bank.co.jp; fukuoka-fg.com]
 
 | Item | Notes |
 |---|---|

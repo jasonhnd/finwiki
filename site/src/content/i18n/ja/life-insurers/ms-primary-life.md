@@ -1,11 +1,11 @@
 ---
 source: life-insurers/ms-primary-life
-source_hash: 3b155c9e6e63b345
+source_hash: 670ad3fed48227af
 lang: ja
 status: machine
 fidelity: ok
 title: "三井住友海上プライマリー生命保険"
-translated_at: 2026-06-15T03:48:21.937Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 三井住友海上プライマリー生命保険
@@ -19,6 +19,8 @@ translated_at: 2026-06-15T03:48:21.937Z
 三井住友海上プライマリー生命保険株式会社は、保険業法上の生命保険会社免許を持ち金融庁の生命保険会社免許一覧に掲載される、[[non-life-insurers/msad|MS&AD インシュアランス グループ ホールディングス]] の 100% 子会社の生命保険事業会社。2002 年 9 月に生命保険業免許を取得し同年 10 月に営業を開始した会社で、**金融機関窓口販売（銀行窓販 / バンカシュランス）を通じた一時払い個人年金・貯蓄性商品の専門会社**として、MS&AD グループ内で成長分野の個人年金に特化する。同じ MS&AD 系でも保障性中心の [[life-insurers/mitsui-sumitomo-aioi-life|三井住友海上あいおい生命]] とは別に扱う。
 
 ## 1. ライセンス / グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, ms-primary.com）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; ms-primary.com; ms-ad-hd.com]
 
 | 項目 | 備考 |
 |---|---|

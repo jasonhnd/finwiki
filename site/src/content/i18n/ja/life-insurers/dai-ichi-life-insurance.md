@@ -1,11 +1,11 @@
 ---
 source: life-insurers/dai-ichi-life-insurance
-source_hash: 4a3015572ce8962e
+source_hash: 65f6ae2bfdcd1716
 lang: ja
 status: machine
 fidelity: ok
 title: "第一生命保険"
-translated_at: 2026-06-15T03:48:21.868Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 第一生命保険
@@ -19,6 +19,8 @@ translated_at: 2026-06-15T03:48:21.868Z
 第一生命保険株式会社は、保険業法上の生命保険会社免許を持ち金融庁の生命保険会社免許一覧に掲載される、[[life-insurers/dai-ichi-life|第一ライフグループ]]（旧 第一生命ホールディングス）の中核国内生命保険事業会社。2026 年 4 月に持株会社が「株式会社第一ライフグループ」へ商号変更しグループブランドが「Daiichi Life」となった後も、上場持株会社 / グループ戦略ページ（[[life-insurers/dai-ichi-life|第一ライフグループ]]）と、営業職員 (sales-rep) チャネルを持つ免許保有の保険引受会社（本ページ）を分けて扱う。日本生命・住友生命・明治安田生命と並ぶ国内 big-four の一角。
 
 ## 1. ライセンス／グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, dai-ichi-life.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; dai-ichi-life.co.jp]
 
 | 項目 | 備考 |
 |---|---|

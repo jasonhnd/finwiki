@@ -1,11 +1,11 @@
 ---
 source: securities-firms/saxo-bank-securities
-source_hash: b0a3b3572222d29a
+source_hash: 338f88e498e74f00
 lang: en
 status: machine
 fidelity: ok
 title: "Saxo Bank Securities"
-translated_at: 2026-06-15T04:09:41.199Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Saxo Bank Securities
@@ -19,6 +19,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]] (its dom
 Saxo Bank Securities Co., Ltd. (サクソバンク証券株式会社) is a Japan FIEA operator whose 100% parent is Saxo Bank A/S of Denmark. As a **Type I Financial Instruments Business Operator** under the Financial Instruments and Exchange Act, it is listed in the FSA's list of financial instruments business operators as "サクソバンク証券株式会社" (Director-General of the Kanto Local Finance Bureau (Kinsho) 第239号). It is a Japan access point for foreign equities, OTC FX, CFDs, and derivative-type products.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, home.saxo). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; home.saxo]
 
 | Item | Notes |
 |---|---|

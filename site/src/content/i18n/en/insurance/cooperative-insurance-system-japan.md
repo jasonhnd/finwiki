@@ -1,11 +1,11 @@
 ---
 source: insurance/cooperative-insurance-system-japan
-source_hash: d16d82a064c8464b
+source_hash: f3b804b57d9c63a6
 lang: en
 status: machine
 fidelity: ok
 title: "Cooperative insurance (kyosai) system in Japan"
-translated_at: 2026-05-31T11:13:44.912Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Cooperative insurance (kyosai) system in Japan
@@ -55,6 +55,8 @@ Run by the [[JapanFG/japan-coop|Japanese Consumers' Co-operative Union (JCCU / �
 - **商工中金共済 / 中小企業共済** — SME cooperative kyosai under METI-related cooperative laws.
 
 ## Comparative table: kyosai vs FSA insurance
+
+The following table is scoped to public primary sources (ja-kyosai.or.jp, zenrosai.coop, kyosai-cc.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:ja-kyosai.or.jp; zenrosai.coop; kyosai-cc.or.jp; coopkyosai.coop]
 
 | Axis | FSA insurance (Insurance Business Act) | Kyosai (cooperative-sector laws) |
 |---|---|---|

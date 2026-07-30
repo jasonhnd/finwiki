@@ -11,8 +11,8 @@ aliases:
   - "tokenized equity secondary Japan"
 domain: securities
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [securities, market-structure, security-token, ODX, START, PTS, FIEA]
@@ -42,6 +42,8 @@ ODX (大阪デジタルエクスチェンジ, Osaka Digital Exchange) is a Japan
 
 ## Venue identity
 
+The following table is scoped to public primary sources (odx.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:odx.co.jp; fsa.go.jp]
+
 | Field | Public reading |
 |---|---|
 | Legal entity | 株式会社大阪デジタルエクスチェンジ (Osaka Digital Exchange Co., Ltd.) |
@@ -57,6 +59,8 @@ Always read the venue's About / News pages for current participant list, market 
 ## Ownership and strategic alignment
 
 ODX's founding capital structure is a deliberate cross-sector coalition rather than a single-house product:
+
+The following table is scoped to public primary sources (odx.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:odx.co.jp; fsa.go.jp]
 
 | Anchor | Strategic interest |
 |---|---|
@@ -152,6 +156,8 @@ For [[securities/japan-asset-manager-landscape-matrix|asset managers]] and insti
 For SOR context on Japannext specifically, see [[securities/japannext-sor-routing-deep-dive|Japannext PTS SOR routing deep dive]].
 
 ## Regulatory and self-regulatory framework
+
+The following table is scoped to public primary sources (odx.co.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:odx.co.jp; fsa.go.jp]
 
 | Layer | Role |
 |---|---|

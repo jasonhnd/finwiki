@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/mitsui-sumitomo-insurance
-source_hash: 174e48ae2e6961a5
+source_hash: 64c952f0623a6225
 lang: ja
 status: machine
 fidelity: ok
 title: "三井住友海上火災保険"
-translated_at: 2026-06-19T06:09:18.060Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 三井住友海上火災保険
@@ -20,6 +20,8 @@ translated_at: 2026-06-19T06:09:18.060Z
 三井住友海上火災保険株式会社は、[[non-life-insurers/msad]] グループの中核損害保険事業会社。金融庁の損害保険会社免許一覧に載る免許保険会社であり、MS&AD グループの法人／商業リスク、自動車、火災、海上、海外保険の各機能を担う。
 
 ## 1. License / group boundary
+
+以下の表は、エントリ出典インベントリの公開一次資料（ms-ins.com, fsa.go.jp, sonpohogo.or.jp）の範囲に限定して読む。^[source:ms-ins.com; fsa.go.jp; sonpohogo.or.jp]
 
 | Item | Notes |
 |---|---|

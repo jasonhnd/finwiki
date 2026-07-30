@@ -1,11 +1,11 @@
 ---
 source: insurance/captive-insurance-japan-market
-source_hash: 764a142c4979df7b
+source_hash: 9b0b28abaa2fc0f5
 lang: en
 status: machine
 fidelity: ok
 title: ""
-translated_at: 2026-05-31T07:28:06.137Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 ﻿# Captive Insurance Market in Japan
 
@@ -23,6 +23,8 @@ This entry sits under [[insurance/INDEX|insurance index]]. Read it against [[ins
 
 A captive is a *licensed insurance company* whose sole or primary business is insuring the risk of its parent and affiliates. Captives sit on a spectrum from:
 
+The following table is scoped to public primary sources (bma.bm, mas.gov.sg, cima.ky). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:bma.bm; mas.gov.sg; cima.ky; fsa.go.jp]
+
 | Form | What it does | Typical user |
 |---|---|---|
 | **Single-parent captive (pure captive)** | Insures only the risks of one parent group | Large industrial, automotive, energy, shipping, retail |
@@ -37,12 +39,16 @@ A captive is a *licensed insurance company* whose sole or primary business is in
 
 ## 2. The Japan onshore captive licence gap
 
+The following table is scoped to public primary sources (bma.bm, mas.gov.sg, cima.ky). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:bma.bm; mas.gov.sg; cima.ky; fsa.go.jp]
+
 | Jurisdiction comparison | Onshore captive licence | Japanese-group captives present |
 |---|---|---|
 
 ## 3. Known and inferred Japanese-group captives
 
 Public disclosure of captives is generally thin because captives are wholly intra-group instruments and offshore regulators publish only limited information. The set below combines public secondary references (broker market commentary, captive-industry publications, group annual reports) with structural inference.
+
+The following table is scoped to public primary sources (bma.bm, mas.gov.sg, cima.ky). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:bma.bm; mas.gov.sg; cima.ky; fsa.go.jp]
 
 | Japanese group | Captive(s) — typical jurisdiction | Notes |
 |---|---|---|
@@ -61,12 +67,16 @@ Japanese subsidiary buys policy from a Japan-licensed commercial insurer
 
 The Japan corporate-tax treatment of captives is the main reason captives are *not* a casual structure to set up. National Tax Agency (NTA) and OECD frameworks broadly require:
 
+The following table is scoped to public primary sources (bma.bm, mas.gov.sg, cima.ky). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:bma.bm; mas.gov.sg; cima.ky; fsa.go.jp]
+
 | Issue | Treatment |
 |---|---|
 
 ## 6. Alternative risk transfer (ART) — the wider toolkit
 
 Captives are the most visible piece of ART, but the term covers a wider toolkit:
+
+The following table is scoped to public primary sources (bma.bm, mas.gov.sg, cima.ky). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:bma.bm; mas.gov.sg; cima.ky; fsa.go.jp]
 
 | ART tool | What it does | Japan presence |
 |---|---|---|
@@ -77,10 +87,14 @@ The reading rule: a captive is the *most formalized* end of ART; cat bonds and p
 
 Two related but distinct captive structures are sometimes confused:
 
+The following table is scoped to public primary sources (bma.bm, mas.gov.sg, cima.ky). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:bma.bm; mas.gov.sg; cima.ky; fsa.go.jp]
+
 | Acronym | Full term | Function | Japanese use |
 |---|---|---|---|
 
 ## 9. Comparison: captive vs commercial insurer vs reinsurer
+
+The following table is scoped to public primary sources (bma.bm, mas.gov.sg, cima.ky). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:bma.bm; mas.gov.sg; cima.ky; fsa.go.jp]
 
 | Dimension | Commercial insurer (e.g., [[non-life-insurers/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]]) | Single-parent captive (offshore) | Reinsurer (e.g., [[non-life-insurers/munich-re-japan|Munich Re Japan]]) |
 |---|---|---|---|

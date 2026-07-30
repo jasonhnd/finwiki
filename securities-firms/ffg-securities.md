@@ -3,8 +3,8 @@ title: "FFG 証券 (FFG Securities)"
 aliases: ["FFG Securities", "FFG 証券", "株式会社FFG証券", "Fukuoka Financial Group Securities"]
 domain: securities-firms
 created: 2026-05-24
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, securities, regional-bank-securities-subsidiary, kyushu, fukuoka, operating-company]
@@ -30,6 +30,8 @@ This entry sits under the [[securities-firms/INDEX|securities-firms INDEX]] as t
 株式会社 FFG 証券は、[[regional-banks/fukuoka-fg|ふくおか FG (FFG, 東証 PRIME 8354)]] 100% 子会社の地銀系証券会社で、九州地盤 ([[regional-banks/fukuoka-bank|福岡銀行]] / [[regional-banks/18-shinwa-bank|十八親和銀行]] / [[regional-banks/kumamoto-bank|熊本銀行]]) の中堅企業 main bank 顧客向け資産運用・公募株引受・私募債仲介・事業承継 advisory を提供。第一種金融商品取引業 (証券業) 免許で、[[financial-regulators/jsda|日本証券業協会]] 加盟。九州地盤の銀証連携モデルの代表例。^[extracted]
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (ffg-sec.co.jp, fukuoka-fg.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:ffg-sec.co.jp; fukuoka-fg.com; fsa.go.jp; jsda.or.jp]
 
 | Item | Notes |
 |---|---|
@@ -74,6 +76,8 @@ This entry sits under the [[securities-firms/INDEX|securities-firms INDEX]] as t
 
 ## 4. KPI table (concept)
 
+The following table is scoped to public primary sources (ffg-sec.co.jp, fukuoka-fg.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:ffg-sec.co.jp; fukuoka-fg.com; fsa.go.jp; jsda.or.jp]
+
 | 項目 | 概況 |
 |---|---|
 | 創業 / 設立 | 1940-06-06 創業（前身 前田良三商店）/ 1944-07-07 設立（前田証券）。2012-04 福岡銀行完全子会社化で「ふくおか証券」へ商号変更、2018-05 「FFG 証券」へ商号変更、2022-04 福岡銀行 → ふくおか FG 直下へ移管 |
@@ -89,6 +93,8 @@ This entry sits under the [[securities-firms/INDEX|securities-firms INDEX]] as t
 > 注: FFG 証券は非上場の完全子会社のため単体財務 KPI 精緻値は単独開示されず、[[regional-banks/fukuoka-fg]] 有価証券報告書セグメント情報を参照
 
 ## 5. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (ffg-sec.co.jp, fukuoka-fg.com, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:ffg-sec.co.jp; fukuoka-fg.com; fsa.go.jp; jsda.or.jp]
 
 | セグメント | 特徴 |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: regional-banks/kiraboshi-bank
-source_hash: f240787ded5e6811
+source_hash: 287d944eb345fa1d
 lang: en
 status: machine
 fidelity: ok
 title: "Kiraboshi Bank"
-translated_at: 2026-05-31T23:59:49.374Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Kiraboshi Bank
 
@@ -18,6 +18,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 Kiraboshi Bank, Ltd. is a Tokyo-headquartered regional bank listed in the FSA bank-license list and the core operating bank under [[regional-banks/kiraboshi-fg]]. It was created in 2018 年 through the 3 行 merger of Tokyo Tomin Bank, Yachiyo Bank, and ShinGinko Tokyo, and it covers the SME / retail / wealth / startup-support surface across Tokyo and the wider metropolitan area.
 
 ## 1. License / Group Boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, kiraboshibank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; kiraboshibank.co.jp]
 
 | Item | Notes |
 |---|---|

@@ -12,8 +12,8 @@ aliases:
   - "JapanFG/sawakami-am"
 domain: "securities"
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-05-24
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-20
 confidence: likely
 tags: [securities, asset-management, investment-trust, NISA, iDeCo, ETF, JITA, FSA]
@@ -48,6 +48,8 @@ This page sits under [[securities/INDEX|securities index]] as the AM-side analog
 
 ## Scope and boundary
 
+The following table is scoped to public primary sources (toushin.or.jp, jsda.or.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:toushin.or.jp; jsda.or.jp; fsa.go.jp; mhlw.go.jp]
+
 | Boundary | Treatment |
 |---|---|
 | Domestic 投資運用業 operators | 463 investment-management operators on FSA's FIBO registry; this page covers the material poles, not the long tail. See [[securities/financial-instruments-business-operators-japan-index|FIEA operator registry index]]. |
@@ -57,6 +59,8 @@ This page sits under [[securities/INDEX|securities index]] as the AM-side analog
 | Insurance-internal asset operations | In-house life-insurance general account asset operations sit on the insurer page; this matrix covers life-affiliated **registered** AM subsidiaries. |
 
 ## Industry size lens
+
+The following table is scoped to public primary sources (toushin.or.jp, jsda.or.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:toushin.or.jp; jsda.or.jp; fsa.go.jp; mhlw.go.jp]
 
 | Lens | Reading |
 |---|---|
@@ -73,6 +77,8 @@ Caveat: AUM rankings drift quarterly. Use JITA, FSA, and each AM's 統合報告�
 The four lanes below are competitive segments, not legal categories. They overlap: an insurer-owned AM can also be megabank-affiliated (AM-One), and an independent AM can also be a sub-advisory recipient.
 
 ### Lane 1 — Megabank-affiliated AMs
+
+The following table is scoped to public primary sources (toushin.or.jp, jsda.or.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:toushin.or.jp; jsda.or.jp; fsa.go.jp; mhlw.go.jp]
 
 | AM | Parent | Founded / merged | Notes |
 |---|---|---|---|
@@ -98,6 +104,8 @@ Lane 2 takeaway: insurance-affiliated AMs combine premium-float discipline (long
 
 ### Lane 3 — Independent / online AMs
 
+The following table is scoped to public primary sources (toushin.or.jp, jsda.or.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:toushin.or.jp; jsda.or.jp; fsa.go.jp; mhlw.go.jp]
+
 | AM | Group | Distinguishing feature |
 |---|---|---|
 | [[asset-managers/sbi-asset-management|SBI Asset Management]] | [[megabanks/sbi-hd|SBI Group]] / SBIグローバルアセットマネジメント | Low-cost index funds (SBI Vシリーズ) feeding the [[securities-firms/sbi-securities|SBI Securities]] NISA funnel. |
@@ -109,6 +117,8 @@ Lane 2 takeaway: insurance-affiliated AMs combine premium-float discipline (long
 Lane 3 takeaway: the independent / online lane runs on two engines — (1) NISA-flow-feeding low-cost index funds and (2) boutique active / alternative mandates. The first competes on TER and brand; the second competes on track record and 機関投資家 trust.
 
 ### Lane 4 — Foreign-affiliated AMs in Japan
+
+The following table is scoped to public primary sources (toushin.or.jp, jsda.or.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:toushin.or.jp; jsda.or.jp; fsa.go.jp; mhlw.go.jp]
 
 | AM | Parent | Japan role |
 |---|---|---|
@@ -124,6 +134,8 @@ Lane 3 takeaway: the independent / online lane runs on two engines — (1) NISA-
 Lane 4 takeaway: foreign AMs run global product factories, with Japan acting mainly as distribution destination and 機関投資家 mandate source. They rarely lead 公募投信 retail flow rankings because they lack a bank or online-broker funnel; instead, they show up disproportionately in sub-advisory mandates inside domestic AMs' funds.
 
 ## Cross-lane comparison matrix
+
+The following table is scoped to public primary sources (toushin.or.jp, jsda.or.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:toushin.or.jp; jsda.or.jp; fsa.go.jp; mhlw.go.jp]
 
 | Dimension | Megabank-affiliated | Insurance-affiliated | Independent / online | Foreign-affiliated |
 |---|---|---|---|---|
@@ -170,6 +182,8 @@ Always check the 目論見書 / 運用報告書 sub-advisor disclosure before re
 
 ## 公募投信 vs 私募投信 ratio
 
+The following table is scoped to public primary sources (toushin.or.jp, jsda.or.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:toushin.or.jp; jsda.or.jp; fsa.go.jp; mhlw.go.jp]
+
 | Category | Audience | Disclosure | Typical AM |
 |---|---|---|---|
 | 公募投信 | Retail / household | 目論見書, EDINET, 運用報告書 | Megabank-affiliated AMs, independent / online AMs, foreign AMs |
@@ -179,6 +193,8 @@ Always check the 目論見書 / 運用報告書 sub-advisor disclosure before re
 The retail-AM league table (which the financial press usually reports) only covers 公募投信. To see the institutional and insurance lane properly, include 私募投信 and 投資一任 残高.
 
 ## Recent M&A consolidation
+
+The following table is scoped to public primary sources (toushin.or.jp, jsda.or.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:toushin.or.jp; jsda.or.jp; fsa.go.jp; mhlw.go.jp]
 
 | Year | Event | Result |
 |---|---|---|
@@ -191,6 +207,8 @@ These mergers reduced the megabank-AM count from a dozen-plus to roughly five po
 
 ## Cross-industry comparison vs global peers
 
+The following table is scoped to public primary sources (toushin.or.jp, jsda.or.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:toushin.or.jp; jsda.or.jp; fsa.go.jp; mhlw.go.jp]
+
 | Comparison | Japan reality |
 |---|---|
 | Scale vs BlackRock | Japan's largest AMs are an order of magnitude smaller than BlackRock's global AUM; even consolidated, the top 5 Japanese AMs do not approach BlackRock scale. |
@@ -202,6 +220,8 @@ These mergers reduced the megabank-AM count from a dozen-plus to roughly five po
 Bottom line: Japan AM is **distribution-led, not scale-led**. The competitive question is not "who can match BlackRock's global product factory" but "who controls the customer's primary 投信 buying decision and the DC / iDeCo plan administration."
 
 ## Regulatory boundaries
+
+The following table is scoped to public primary sources (toushin.or.jp, jsda.or.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:toushin.or.jp; jsda.or.jp; fsa.go.jp; mhlw.go.jp]
 
 | Authority | Scope | Use case |
 |---|---|---|

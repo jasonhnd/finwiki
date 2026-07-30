@@ -1,11 +1,11 @@
 ---
 source: payments/pasmo-prepaid-tokyo-metro
-source_hash: 6de350ef9f4db766
+source_hash: 6a78ab28d3e4b2cc
 lang: en
 status: machine
 fidelity: ok
 title: "PASMO: Tokyo private-rail and bus consortium prepaid IC"
-translated_at: 2026-06-01T03:31:12.315Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # PASMO: Tokyo private-rail and bus consortium prepaid IC
@@ -19,6 +19,8 @@ This entry sits under [[payments/INDEX|payments index]] as the Tokyo private-rai
 **PASMO** is the **prepaid IC e-money operated by the Tokyo private-rail and bus consortium** — a multi-operator consortium centered on **株式会社パスモ (PASMO Co Ltd)** that pools issuance and settlement across Tokyo Metro, Toei Subway, and major private-rail / bus operators (Tokyu, Odakyu, Keio, Tobu, Seibu, Keisei, Sotetsu, Yokohama Minatomirai Railway, etc.). Launched 2007-03-18 to interoperate with [[payments/suica-prepaid-jr-east|Suica]] from day one, PASMO joined the **10 IC mutual-use scheme** in 2013-03-23 and is the principal non-JR transit IC in the Greater Tokyo area. PASMO runs on **FeliCa** contactless IC, is registered as a **第三者型前払式支払手段** under the [[payments/funds-transfer-vs-prepaid-boundary|Payment Services Act prepaid framework]], and has cross-merchant retail acceptance across Tokyo and at any 10-IC-accepting POS nationwide. **Mobile PASMO** launched 2020-03 on Android Osaifu Keitai and 2020-10 on Apple Pay — meaningfully later than Mobile Suica's 2016 Apple Pay launch, reflecting the consortium-coordination cost of multi-operator agreement.
 
 ## Issuer and consortium structure
+
+The following table is scoped to public primary sources (pasmo.co.jp, tokyometro.jp, kotsu.metro.tokyo.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:pasmo.co.jp; tokyometro.jp; kotsu.metro.tokyo.jp; fsa.go.jp]
 
 | Dimension | Reading |
 |---|---|
@@ -46,6 +48,8 @@ PASMO is registered as a **第三者型前払式支払手段** under [[payments/
 
 PASMO's principal structural distinction from [[payments/suica-prepaid-jr-east|Suica]] is that it is a **multi-operator consortium** rather than a single-issuer product:
 
+The following table is scoped to public primary sources (pasmo.co.jp, tokyometro.jp, kotsu.metro.tokyo.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:pasmo.co.jp; tokyometro.jp; kotsu.metro.tokyo.jp; fsa.go.jp]
+
 | Dimension | PASMO (consortium) | Suica (single JR East issuer) |
 |---|---|---|
 | Issuance authority | PASMO Co Ltd (consortium-owned) | JR East directly |
@@ -64,6 +68,8 @@ PASMO and Suica's mutual-use was the foundational 2007 launch event — these tw
 
 ## Mobile PASMO generations
 
+The following table is scoped to public primary sources (pasmo.co.jp, tokyometro.jp, kotsu.metro.tokyo.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:pasmo.co.jp; tokyometro.jp; kotsu.metro.tokyo.jp; fsa.go.jp]
+
 | Generation | Year | Key features |
 |---|---|---|
 | Physical PASMO only | 2007-2020 | Card-based; charge at consortium-member ticket machines |
@@ -74,6 +80,8 @@ PASMO and Suica's mutual-use was the foundational 2007 launch event — these tw
 The Apple Pay PASMO launch was particularly important for **non-JR commuters** who had previously been forced to choose between staying with physical PASMO or migrating to Mobile Suica (which works on JR East and consortium-member networks but doesn't carry over a PASMO commuter pass).
 
 ## KPI snapshot
+
+The following table is scoped to public primary sources (pasmo.co.jp, tokyometro.jp, kotsu.metro.tokyo.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:pasmo.co.jp; tokyometro.jp; kotsu.metro.tokyo.jp; fsa.go.jp]
 
 | Metric | Reading (public disclosure) |
 |---|---|

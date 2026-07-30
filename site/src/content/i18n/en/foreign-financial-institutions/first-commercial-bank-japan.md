@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/first-commercial-bank-japan
-source_hash: 175ebe9e7a1f6fff
+source_hash: 934fed239ed19ddb
 lang: en
 status: machine
 fidelity: ok
 title: "First Commercial Bank Japan"
-translated_at: 2026-05-31T15:29:03.908Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # First Commercial Bank Japan
 # 第一商業銀行日本 (First Commercial Bank Japan)
@@ -24,6 +24,8 @@ The page is worth standalone treatment because FinWiki already covers several Ta
 
 ## Entity Boundary
 
+The following table is scoped to public primary sources (fsa.go.jp, firstbank.com.tw). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; firstbank.com.tw]
+
 | Item | Reading |
 |---|---|
 | Parent bank | First Commercial Bank |
@@ -34,6 +36,8 @@ The page is worth standalone treatment because FinWiki already covers several Ta
 | Regulatory route | FSA foreign-bank branch list. |
 
 ## Business Role Map
+
+The following table is scoped to public primary sources (fsa.go.jp, firstbank.com.tw). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; firstbank.com.tw]
 
 | Function | Japan relevance |
 |---|---|

@@ -3,8 +3,8 @@ title: "トレイダーズ証券"
 aliases: ["Traders Securities", "トレイダーズ証券", "トレイダーズ証券株式会社", "みんなのFX", "LIGHT FX"]
 domain: securities-firms
 created: 2026-05-20
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-12-05
 confidence: likely
 tags: [JapanFG, securities, fx, derivatives, fiea-operator]
@@ -26,6 +26,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]] (its dom
 トレイダーズ証券株式会社は、上場持株会社トレイダーズホールディングス（東証スタンダード 8704）の 100% 子会社で、金融デリバティブ特化型のオンライン証券。金融商品取引法上の **第一種金融商品取引業者** として金融庁の金融商品取引業者一覧に「トレイダーズ証券株式会社」（関東財務局長(金商)第123号）で掲載される。主力ブランドは店頭FX の「みんなのFX」「LIGHT FX」。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, tradershd.com, min-fx.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; tradershd.com; min-fx.jp]
 
 | Item | Notes |
 |---|---|

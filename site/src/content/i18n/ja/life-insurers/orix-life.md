@@ -1,11 +1,11 @@
 ---
 source: life-insurers/orix-life
-source_hash: 4e2fa600e22429b7
+source_hash: 8f6577cd2e973257
 lang: ja
 status: machine
 fidelity: ok
 title: "オリックス生命保険"
-translated_at: 2026-06-24T09:30:00.000Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # オリックス生命保険
 
@@ -19,6 +19,8 @@ translated_at: 2026-06-24T09:30:00.000Z
 
 ## 1. 会社・免許の境界
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, orix.co.jp, orixlife.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; orix.co.jp; orixlife.co.jp]
+
 | 項目 | 内容 |
 |---|---|
 | 正式名称 | オリックス生命保険株式会社 / ORIX Life Insurance Corporation。^[source:fsa-life-list-2026] |
@@ -31,6 +33,8 @@ translated_at: 2026-06-24T09:30:00.000Z
 
 ORIX グループは、ORIX Life の事業を医療保険・死亡保険を含む生命保険と説明し、2025-03-31 時点の資産を 3,009.2十億円、利益を 74.4十億円とする。^[source:orix-insurance-overview-2025] 同ページは、同社がシンプルで分かりやすく手頃な保障に基づく商品を提供し、4 つのチャネルを通じて販売していると述べる。^[source:orix-insurance-overview-2025]
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, orix.co.jp, orixlife.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; orix.co.jp; orixlife.co.jp]
+
 | チャネル | 役割 |
 |---|---|
 | 保険代理店 | 幅広い第三者販売と保険ショップへのリーチ。^[source:orix-insurance-overview-2025] |
@@ -41,6 +45,8 @@ ORIX グループは、ORIX Life の事業を医療保険・死亡保険を含�
 このハイブリッドなチャネル構造が、[[life-insurers/lifenet|Lifenet]] との決定的な違いである。ORIX Life はオンラインでの顧客獲得も使えるが、その中核的な位置づけは、インターネット専業の挑戦者ではなく、複数チャネルを持つ ORIX グループの保険会社である。
 
 ## 3. 商品・グループ内の役割
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, orix.co.jp, orixlife.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; orix.co.jp; orixlife.co.jp]
 
 | 領域 | 内容 |
 |---|---|
@@ -59,6 +65,8 @@ ORIX グループは、ORIX Life の事業を医療保険・死亡保険を含�
 - 開示は、200% を、それを下回ると監督上の早期是正措置が取られうる水準として示す。これにより、この比率はマーケティング上の KPI ではなく規制上のシグナルとなる。^[source:orix-life-disclosure-2025]
 
 ## 5. 同業・対照マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, orix.co.jp, orixlife.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; orix.co.jp; orixlife.co.jp]
 
 | 同業・カテゴリ | 対照点 |
 |---|---|

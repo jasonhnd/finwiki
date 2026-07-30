@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/rakuten-insurance-hd
-source_hash: 1abf46df67f1ea83
+source_hash: d654b37233ff6b65
 lang: en
 status: machine
 fidelity: ok
 title: "Rakuten Insurance Holdings"
-translated_at: 2026-06-01T00:41:50.454Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Rakuten Insurance Holdings
 
@@ -18,6 +18,8 @@ This entry sits under [[non-life-insurers/INDEX|non-life-insurers INDEX]]. Read 
 Rakuten Insurance Holdings Co., Ltd. is Rakuten's insurance holding company listed in the FSA's approved insurance holding-company list. Treat it as the group strategy anchor that brings together [[life-insurers/rakuten-life]], [[non-life-insurers/rakuten-general-insurance]], and insurance agency / planning functions.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, ins-hd.rakuten.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; ins-hd.rakuten.co.jp]
 
 | Item | Notes |
 |---|---|

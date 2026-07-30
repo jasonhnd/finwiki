@@ -8,8 +8,8 @@ aliases:
   - "Visa prepaid Japan"
 domain: payments
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [payments, prepaid, gift-card, visa, brand-network, open-loop, digital-prepaid]
@@ -37,6 +37,8 @@ This entry sits under [[payments/INDEX|payments index]] as the Visa-branded prep
 
 ## Issuer and operational structure
 
+The following table is scoped to public primary sources (visa.co.jp, vpc.lifecard.co.jp, lifecard.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:visa.co.jp; vpc.lifecard.co.jp; lifecard.co.jp; fsa.go.jp]
+
 | Dimension | Reading |
 |---|---|
 | Principal Japan-issued Visa Gift Card | **Vプリカ (V Preca)** by [[card-issuers/life-card\|Life Card Co Ltd]] |
@@ -62,6 +64,8 @@ Vプリカ is registered as **第三者型前払式支払手段** under [[paymen
 ## Visa brand network advantage
 
 The structural distinction from closed-loop platform gift cards is the **global Visa acceptance footprint**:
+
+The following table is scoped to public primary sources (visa.co.jp, vpc.lifecard.co.jp, lifecard.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:visa.co.jp; vpc.lifecard.co.jp; lifecard.co.jp; fsa.go.jp]
 
 | Dimension | Vプリカ (Visa brand network) | Amazon / Apple / Google Gift Card (closed-loop) |
 |---|---|---|

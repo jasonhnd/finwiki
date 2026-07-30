@@ -1,11 +1,11 @@
 ---
 source: regional-banks/ui-bank
-source_hash: acc45775db37da04
+source_hash: f2e49f9aa5836cec
 lang: en
 status: machine
 fidelity: ok
 title: "UI銀行 (UI Bank)"
-translated_at: 2026-06-15T04:09:41.207Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # UI銀行 (UI Bank)
@@ -19,6 +19,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 UI Bank Co., Ltd. (UI銀行) is a digital-bank operating company funded 100% by [[regional-banks/kiraboshi-fg|東京きらぼしフィナンシャルグループ]], holding a bank license under the Banking Act and listed in the FSA's bank license list. It obtained its banking license in 2021 年 12 月 17 日, brought its system live in 2022 年 1 月 4 日, and launched depositor-facing services via a smartphone-only app on 1 /17  of that year. As a smartphone bank launched out of a regional financial group, it positions itself around a face-to-face / remote hybrid, life-partner-style finance, and API integration.
 
 ## 1. Legal entity / license boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, uibank.co.jp, kiraboshibank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; uibank.co.jp; kiraboshibank.co.jp]
 
 | Item | Reading |
 |---|---|

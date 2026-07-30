@@ -1,12 +1,12 @@
 ---
 source: insurance/insurance-agency-and-brokerage-japan
-source_hash: c4b656c9e3bc4af3
+source_hash: 8c8234c5c794f1f4
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の保険代理店・保険仲立人"
-translated_at: 2026-06-26T08:32:23.044Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本の保険代理店・保険仲立人
@@ -16,6 +16,8 @@ translated_at: 2026-06-26T08:32:23.044Z
 このページは [[financial-licenses/insurance-license-and-solvency|insurance license and ソルベンシー route]]、[[insurance/life-insurance-channel-mix|life-insurance channel mix]]、[[insurance/japan-life-insurance-big-four|Japan life insurance big four]]、[[insurance/japan-nonlife-big-three|Japan non-life big three]]、[[non-life-insurers/tokio-marine-nichido-fire|Tokio Marine & Nichido Fire]]、[[non-life-insurers/mitsui-sumitomo-insurance|Mitsui Sumitomo Insurance]]、[[non-life-insurers/sompo-japan-insurance|Sompo Japan Insurance]]、[[life-insurers/lifenet|Lifenet]]、[[non-life-insurers/sony-insurance|Sony Insurance]] とあわせて使う。
 
 ## 流通上の役割マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, sonpo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; sonpo.or.jp]
 
 | 役割 | 公開情報上の役割フィールド | 法的 / 事業上の境界 |
 |---|---|---|
@@ -38,6 +40,8 @@ FSA の監督指針ルートは、仲立人関連の監督を一般的な保険�
 代理店の説明義務、商品比較、利益相反管理、手数料インセンティブ、顧客適合性、苦情対応は、保険会社の資本十分性と保険金支払責任とは別の論点である。
 
 ## チャネル経済性
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, sonpo.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; sonpo.or.jp]
 
 | チャネル | 経済性 | 主なリスク |
 |---|---|---|

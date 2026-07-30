@@ -11,8 +11,8 @@ aliases:
   - "特例認定NPO法人"
 domain: non-profit
 created: 2026-06-03
-last_updated: 2026-06-03
-last_tended: 2026-06-03
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-12-03
 confidence: likely
 tags: [non-profit, japan, npo, certified-npo, tax-deductible, donations]
@@ -36,6 +36,8 @@ This entry sits under [[non-profit/INDEX|non-profit INDEX]] and is the **tax-upg
 A plain [[non-profit/japan-npo-houjin-overview|NPO法人]] confers **no tax deduction on its donors**. The **認定NPO法人 (Certified NPO)** status is the separate upgrade that does — it makes donations **income-tax deductible** for individuals (choice of 所得控除 or 税額控除), **損金算入**-eligible for corporate donors, and **inheritance-tax** deductible. The gateway is the **Public Support Test (PST)**: proof that the organisation is broadly supported by the public rather than a single benefactor.
 
 ## Who certifies, and under what law
+
+The following table is scoped to public primary sources (npo-homepage.go.jp, nta.go.jp, laws.e-gov.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:npo-homepage.go.jp; nta.go.jp; laws.e-gov.go.jp]
 
 | Attribute | Detail |
 |---|---|

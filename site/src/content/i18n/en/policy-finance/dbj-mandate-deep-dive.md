@@ -1,11 +1,11 @@
 ---
 source: policy-finance/dbj-mandate-deep-dive
-source_hash: c6636c8450b30084
+source_hash: d2c4188f97227994
 lang: en
 status: machine
 fidelity: ok
 title: "DBJ mandate deep dive — Special Investment Operations ¥3tn framework, GX/DX criteria, crisis-response facility, vs JFC/JBIC/NEXI"
-translated_at: 2026-06-19T06:09:18.081Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # DBJ mandate deep dive — Special Investment Operations ¥3tn framework, GX/DX criteria, crisis-response facility, vs JFC/JBIC/NEXI
@@ -19,6 +19,8 @@ This entry sits under [[policy-finance/INDEX|policy-finance index]] as the **ope
 DBJ is the **only Japanese policy-finance institution that simultaneously combines long-tenor senior debt, mezzanine, equity, and advisory** in one balance sheet, under a **private-sector-complementing principle** ("complementing the private sector") policy mandate enshrined in the Development Bank of Japan Inc. Act (2007). The defining operating layer is the **Special Investment Operations (SIO)** framework — established 2015 with an initial ~¥1.5tn ceiling, raised to ~¥3tn cumulative authorised investment capacity through successive legal extensions, with explicit authority to provide **risk money (risk money)** in equity, preferred equity, subordinated loan, and mezzanine forms to projects that **conventional commercial banks cannot price**. The SIO framework operates under the rule of **catalysing private-sector co-investment** (specific multiplier targets — typically aim for 1x or higher private money mobilised per public yen invested) and **time-limited authority** (each extension is a discrete legislative act with sunset clause). The contemporary mandate is dominated by four substantive verticals: **GX (Green Transformation)** — renewables, hydrogen, ammonia, offshore wind, CCS, GX economic-transition-bond alignment; **DX (Digital Transformation)** — data centres, semiconductor supply chain, AI infrastructure; **business restructuring** — DIP / sponsor-backed restructuring, mezzanine; and **crisis-response operations** — designated crisis-response financing under the Development Bank of Japan Inc. Act + crisis-response-operations designation. Compared with [[financial-regulators/jfc|JFC]] (SME / individual / agriculture-and-fisheries policy-finance), [[financial-regulators/jbic|JBIC]] (overseas-investment / export credit / resource-security), and [[policy-finance/nexi|NEXI]] (trade and investment insurance), DBJ holds the **single most flexible Japanese policy-finance balance sheet** because of its ability to combine senior, mezzanine, and equity in the same project across long tenors.
 
 ## 1. The hybrid structure of joint-stock company + policy-finance institution
+
+The following table is scoped to public primary sources (dbj.jp, fsa.go.jp, mof.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:dbj.jp; fsa.go.jp; mof.go.jp]
 
 | Item | Detail |
 |---|---|
@@ -35,6 +37,8 @@ The **joint-stock company + policy-finance institution** hybrid is structurally 
 ## 2. The Special Investment Operations (SIO) framework
 
 ### 2.1 Legal structure and authorisation ceiling
+
+The following table is scoped to public primary sources (dbj.jp, fsa.go.jp, mof.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:dbj.jp; fsa.go.jp; mof.go.jp]
 
 | Item | Detail |
 |---|---|
@@ -63,6 +67,8 @@ The four-tier definition is intentionally broad. SIO authority allows DBJ to cho
 ### 2.3 Investment-selection criteria
 
 SIO investments are in principle selected by the following criteria:
+
+The following table is scoped to public primary sources (dbj.jp, fsa.go.jp, mof.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:dbj.jp; fsa.go.jp; mof.go.jp]
 
 | Criterion | Detail |
 |---|---|
@@ -116,6 +122,8 @@ Practical crowd-out-avoidance measures:
 ### 3.3 The private-sector-complementing principle vs commercial banks (megabanks)
 
 The relationship between DBJ and [[megabanks/mufg|MUFG]] / [[megabanks/smfg|SMFG]] / [[megabanks/mizuho-fg|Mizuho FG]]:
+
+The following table is scoped to public primary sources (dbj.jp, fsa.go.jp, mof.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:dbj.jp; fsa.go.jp; mof.go.jp]
 
 | Dimension | DBJ | Megabanks |
 |---|---|---|
@@ -179,6 +187,8 @@ Criteria when conducting GX investment via SIO + the general account:
 
 ### 6.1 System structure
 
+The following table is scoped to public primary sources (dbj.jp, fsa.go.jp, mof.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:dbj.jp; fsa.go.jp; mof.go.jp]
+
 | Item | Detail |
 |---|---|
 | Legal basis | Development Bank of Japan Inc. Act + Act on Facilitation of Crisis Response |
@@ -235,6 +245,8 @@ These are not DBJ direct investments but a mechanism that implements blending wi
 
 ### 9.1 Main KPIs
 
+The following table is scoped to public primary sources (dbj.jp, fsa.go.jp, mof.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:dbj.jp; fsa.go.jp; mof.go.jp]
+
 | KPI area | Detail |
 |---|---|
 | **Investment / loan balance** | period-end investment-and-loan balance (general account + Special Investment Operations account) |
@@ -260,6 +272,8 @@ These are internationally cited as examples of a policy-finance institution diss
 
 ## 10. Policy-finance institution 4 行 KPI / mandate comparison
 
+The following table is scoped to public primary sources (dbj.jp, fsa.go.jp, mof.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:dbj.jp; fsa.go.jp; mof.go.jp]
+
 | Dimension | DBJ | [[financial-regulators/jfc\|JFC]] | [[financial-regulators/jbic\|JBIC]] | [[policy-finance/nexi\|NEXI]] |
 |---|---|---|---|---|
 | Main target | mid-tier / large corporations / infrastructure / GX / DX | SMEs / individuals / agriculture, forestry and fisheries / education | overseas investment / export / resources / economic security | trade and investment insurance |
@@ -279,6 +293,8 @@ For the comprehensive multi-institution matrix see [[policy-finance/japan-policy
 ## 11. The structural stagnation of the privatisation scenario
 
 Under the DBJ Act's sunset provision, full privatisation was initially envisaged a few years after the 2008 年incorporation as a joint-stock company, but deferral has been repeated due to the following shocks:
+
+The following table is scoped to public primary sources (dbj.jp, fsa.go.jp, mof.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:dbj.jp; fsa.go.jp; mof.go.jp]
 
 | Reason for deferral | Year | Result |
 |---|---|---|

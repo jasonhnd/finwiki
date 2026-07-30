@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/barclays-japan
-source_hash: 7fc654e290b192b8
+source_hash: 97cf62b5f6f3da05
 lang: en
 status: machine
 fidelity: ok
 title: "Barclays Japan (バークレイズ日本)"
-translated_at: 2026-06-18T23:59:13.084Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Barclays Japan (バークレイズ日本)
@@ -25,6 +25,8 @@ The Japan base of the UK's **Barclays PLC** (G-SIB Bucket 2). **1969  opened a r
 
 ### Main Japan entities
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Entity | Form | Business |
 |---|---|---|
 | **Barclays Bank PLC, Tokyo Branch** | foreign-bank branch | corporate banking, markets |
@@ -35,6 +37,8 @@ The Japan base of the UK's **Barclays PLC** (G-SIB Bucket 2). **1969  opened a r
 - The former **Barclays Global Investors Trust Bank** (BGI) → absorbed and merged into Sumitomo Trust & Banking (now [[trust-banks/sumitomo-mitsui-trust]]) in 2008  ^[extracted]
 
 ### Barclays Securities (entity information) ^[extracted]
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Item | Content |
 |---|---|
@@ -63,6 +67,8 @@ Japan base
 
 ## 2. History / key chronology
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Year | Event |
 |---|---|
 | **1969** | Barclays Bank opened a **Tokyo representative office** (Barclays' first Asian base) ^[extracted] |
@@ -88,6 +94,8 @@ Japan base
 > **A point easily misunderstood**: Barclays' **Lehman North America acquisition (2008-09) did not bring a direct headcount / business expansion effect to Japan**. Asia-Pacific (including Japan) + Europe / Middle East were acquired by [[securities-firms/nomura-hd]]. The Japan base's M&A / IB expansion was carried out on its own.
 
 ## 3. Business segment map
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Segment | Main operators | Features |
 |---|---|---|

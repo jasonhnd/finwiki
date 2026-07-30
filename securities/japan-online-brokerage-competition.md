@@ -7,8 +7,8 @@ aliases:
   - "Japanese online securities brokers"
 domain: "securities"
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-22
 confidence: likely
 tags: [securities, brokerage, online-brokerage, NISA, retail-investing, points]
@@ -33,6 +33,8 @@ Read this page with [[securities/nisa-2024-flow|NISA 2024 flow]], [[financial-li
 
 ## Competitive Axes
 
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, sbisec.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; sbisec.co.jp; rakuten-sec.co.jp]
+
 | Axis | Public relevance | Pages to link |
 |---|---|---|
 | NISA acquisition | New NISA turns a first brokerage account into a long-duration household asset-flow relationship. | [[securities/nisa-2024-flow]], [[securities-firms/sbi-securities]], [[securities-firms/rakuten-securities]] |
@@ -45,6 +47,8 @@ Read this page with [[securities/nisa-2024-flow|NISA 2024 flow]], [[financial-li
 | Trust and compliance | Advertising, suitability, customer asset segregation, and self-regulation become more important as brokerage reaches non-traditional investors. | [[financial-regulators/jsda]], [[financial-licenses/securities-license-stack]] |
 
 ## Broker Map
+
+The following table is scoped to public primary sources (fsa.go.jp, jsda.or.jp, sbisec.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jsda.or.jp; sbisec.co.jp; rakuten-sec.co.jp]
 
 | Broker / group | Core reading | Competitive angle |
 |---|---|---|

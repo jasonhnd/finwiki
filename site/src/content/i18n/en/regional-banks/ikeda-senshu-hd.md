@@ -1,11 +1,11 @@
 ---
 source: regional-banks/ikeda-senshu-hd
-source_hash: 2e9006eaa91cc7e8
+source_hash: d9d1ab4fb073dd6c
 lang: en
 status: machine
 fidelity: ok
 title: "Ikeda Senshu Holdings"
-translated_at: 2026-06-19T12:43:19.962Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Ikeda Senshu Holdings
@@ -27,6 +27,8 @@ A **mid-tier Kansai regional-bank FG** based in Osaka Prefecture. Securities cod
 **Headquarters**: Chayamachi, Kita-ku, Osaka City 18-14 (co-located with the Senshu Ikeda Bank head office) ^[extracted]
 
 ### 2025-03 -period results (consolidated basis)
+
+The following table is scoped to public primary sources (edinetdb.jp, sihd-bk.jp, senshuikeda-hd.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:edinetdb.jp; sihd-bk.jp; senshuikeda-hd.co.jp]
 
 | Item | Actual |
 |---|---|
@@ -69,6 +71,8 @@ Ikeda Senshu HD (holding company / TSE PRIME 8714)
 
 ### Key chronology (excerpt) ^[extracted]
 
+The following table is scoped to public primary sources (edinetdb.jp, sihd-bk.jp, senshuikeda-hd.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:edinetdb.jp; sihd-bk.jp; senshuikeda-hd.co.jp]
+
 | Date | Event |
 |---|---|
 | 1942 | Senshu Bank established (Senshu district, Osaka Prefecture) |
@@ -86,6 +90,8 @@ Ikeda Senshu HD (holding company / TSE PRIME 8714)
 
 ## 2. Business segment map
 
+The following table is scoped to public primary sources (edinetdb.jp, sihd-bk.jp, senshuikeda-hd.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:edinetdb.jp; sihd-bk.jp; senshuikeda-hd.co.jp]
+
 | Segment | Main operator | Characteristics |
 |---|---|---|
 | Individual retail | Senshu Ikeda Bank | Mortgages / individual deposits in Hokusetsu / Senshu + southeastern Hyogo |
@@ -102,6 +108,8 @@ Ikeda Senshu HD (holding company / TSE PRIME 8714)
 - **2024  medium-term plan**: In the 5 th Medium-Term Management Plan Plus (announced 2024-05 ), with core axes of **community focus + digital bank (01  Bank) + potential-B/S solutions**, targeting HD consolidated net income of 110 億円 or more in FY 2025 年
 
 ### Competitive landscape
+
+The following table is scoped to public primary sources (edinetdb.jp, sihd-bk.jp, senshuikeda-hd.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:edinetdb.jp; sihd-bk.jp; senshuikeda-hd.co.jp]
 
 | Competitor | Base | Landscape |
 |---|---|---|

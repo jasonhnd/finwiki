@@ -3,8 +3,8 @@ title: "JPYC株式会社"
 aliases: ["JPYC", "JPYC Inc.", "JPYC株式会社", "ジェイピーワイシー"]
 domain: payment-firms
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, payments, stablecoin, funds-transfer, EPI]
@@ -31,6 +31,8 @@ This entry sits under [[payment-firms/INDEX|payment-firms INDEX]]. Read it again
 JPYC株式会社は日本円建て stablecoin / electronic payment instrument の funds-transfer-type issuer。JPYC EX は日本円と JPYC の発行・償還窓口で、同社は FSA 資金移動業者登録一覧で関東財務局長第00099号として掲載されている。
 
 ## 1. 法人・ライセンス境界
+
+The following table is scoped to public primary sources (jpyc.co.jp, jpyc.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jpyc.co.jp; jpyc.jp; fsa.go.jp]
 
 | Item | Reading |
 |---|---|

@@ -1,12 +1,12 @@
 ---
 source: insurance/medical-cancer-insurance-product-economics
-source_hash: 0577921b70447f70
+source_hash: 4fe93695d0b8701d
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の医療保険・がん保険の商品エコノミクス"
-translated_at: 2026-06-26T08:28:53.964Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本の医療保険・がん保険の商品エコノミクス
@@ -26,6 +26,8 @@ translated_at: 2026-06-26T08:28:53.964Z
 - **販売コストが支配的な経済項目。** 代理店、銀行、営業職員への獲得手数料が最大の変動費であり、直販 / インターネット型では広告費も重要である。したがって価格マージンの圧縮は、投資収益の最適化ではなく主にチャネルミックスを通じて起きる。
 
 ## 競争マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（aflac.co.jp, aflac.com, aia.co.jp）の範囲に限定して読む。^[source:aflac.co.jp; aflac.com; aia.co.jp; tmn-anshin.co.jp]
 
 | 保険会社 / グループ | 商品ポジショニング | チャネルミックス | 注記 |
 |---|---|---|---|

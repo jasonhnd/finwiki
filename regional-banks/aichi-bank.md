@@ -3,8 +3,8 @@ title: "あいち銀行"
 aliases: ["Aichi Bank", "株式会社あいち銀行", "旧 愛知銀行", "旧 中京銀行"]
 domain: regional-banks
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, banking, second-regional-bank, chubu, aichi, operating-company]
@@ -26,6 +26,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 株式会社あいち銀行は、金融庁の銀行免許一覧に掲載される愛知県本店の第二地方銀行。[[regional-banks/aichi-fg]] 傘下で、旧愛知銀行と旧中京銀行の統合後 operating bank として扱う。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, aichibank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; aichibank.co.jp]
 
 | Item | Notes |
 |---|---|

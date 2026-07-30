@@ -1,12 +1,12 @@
 ---
 source: payments/japan-bank-api-payment-agency-route
-source_hash: 69c0717ae1eba5c2
+source_hash: 6d81f204a71fb371
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本の銀行 API と電子決済等代行業ルート"
-translated_at: 2026-06-26T08:28:46.065Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # 日本の銀行 API と電子決済等代行業ルート
 
@@ -15,6 +15,8 @@ translated_at: 2026-06-26T08:28:46.065Z
 このページは [[payments/INDEX|payments domain]]、[[financial-licenses/INDEX|JapanFG legal / financial licenses]]、[[payments/account-to-account-payment-japan|Japan account-to-account payment route]]、[[payments/funds-transfer-vs-prepaid-boundary|資金移動 vs 前払式 boundary]]、[[banking/baas-japan-landscape|BaaS Japan landscape]]、[[banking/mercari-bank-license-stack|Mercari Bank license stack]] とあわせて使う。
 
 ## ルートマップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, zenginkyo.or.jp, fapi.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; zenginkyo.or.jp; fapi.or.jp]
 
 | 役割 | 何をするか | 何ではないか |
 |---|---|---|
@@ -27,6 +29,8 @@ translated_at: 2026-06-26T08:28:46.065Z
 
 ## 出典スタック
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, zenginkyo.or.jp, fapi.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; zenginkyo.or.jp; fapi.or.jp]
+
 | 出典 | 何を証明するか |
 |---|---|
 | FSA 免許・登録ポータル | 電子決済等代行業者および関連する免許・登録金融機関の公式入口。 |
@@ -38,6 +42,8 @@ translated_at: 2026-06-26T08:28:46.065Z
 個別企業について結論を出す場合は、正確な法人名、登録番号、基準日、サービス範囲、銀行 API 契約開示を確認する。マーケティングページだけから登録を推定してはならない。
 
 ## プロダクト境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, zenginkyo.or.jp, fapi.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; zenginkyo.or.jp; fapi.or.jp]
 
 | プロダクト / フロー | 最初の確認事項 | 典型的な wiki ルート |
 |---|---|---|
@@ -56,6 +62,8 @@ translated_at: 2026-06-26T08:28:46.065Z
 - [[banking/mercari-bank-license-stack|Mercari Bank license stack]] は、銀行パートナー、アプリ UX、決済口座を分離できることを示す最も明確な内部ルートである。
 
 ## 統制上の確認事項
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, zenginkyo.or.jp, fapi.or.jp）の範囲に限定して読む。^[source:fsa.go.jp; zenginkyo.or.jp; fapi.or.jp]
 
 | 質問 | 公開情報上の意味 |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/ocbc-bank-japan
-source_hash: 86163e956b97b980
+source_hash: 630479dc53b566a7
 lang: ja
 status: machine
 fidelity: ok
 title: "オーバーシー・チャイニーズ銀行 東京支店"
-translated_at: 2026-06-18T23:59:13.095Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # オーバーシー・チャイニーズ銀行 東京支店
@@ -20,6 +20,8 @@ translated_at: 2026-06-18T23:59:13.095Z
 オーバーシー・チャイニーズ銀行 東京支店は、金融庁の外国銀行支店一覧に掲載される Singapore / Oversea-Chinese Banking Corporation Limited の在日銀行支店である。OCBC の東京支店は、日本国内の法人・機関投資家バンキング顧客を対象に、法人融資、貿易金融、預金、送金サービスを提供するホールセール支店として扱う。
 
 ## 1. ライセンス / 支店境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, ocbc.com）の範囲に限定して読む。^[source:fsa.go.jp; ocbc.com]
 
 | Item | Notes |
 |---|---|

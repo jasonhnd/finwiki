@@ -1,11 +1,11 @@
 ---
 source: life-insurers/gibraltar-life
-source_hash: fc91bfb044a882a3
+source_hash: a5e4fbf20358ba4e
 lang: en
 status: machine
 fidelity: ok
 title: "Gibraltar Life Insurance"
-translated_at: 2026-06-19T06:09:18.114Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Gibraltar Life Insurance
@@ -20,6 +20,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 Gibraltar Life Insurance Co., Ltd. is a Prudential group-affiliated Japan life-insurance operating company listed on the FSA life-insurer list. It has a separate brand / channel / underwriting boundary that is hard to see from the [[life-insurers/prudential-japan]] umbrella page alone.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, gib-life.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; gib-life.co.jp]
 
 | Item | Notes |
 |---|---|

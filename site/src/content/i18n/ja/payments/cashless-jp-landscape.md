@@ -1,12 +1,12 @@
 ---
 source: payments/cashless-jp-landscape
-source_hash: afc46eac83ae193f
+source_hash: dad7d7aa34bfc774
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "日本のキャッシュレス決済ランドスケープ"
-translated_at: 2026-06-26T08:32:07.537Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本のキャッシュレス決済ランドスケープ
@@ -30,6 +30,8 @@ translated_at: 2026-06-26T08:32:07.537Z
 
 ## 市場構造
 
+以下の表は、エントリ出典インベントリの公開一次資料（meti.go.jp, paymentsjapan.or.jp, fsa.go.jp）の範囲に限定して読む。^[source:meti.go.jp; paymentsjapan.or.jp; fsa.go.jp]
+
 | レイヤー | 何をするか | 主な例 | FinWiki ルート |
 |---|---|---|---|
 | クレジットカード | 最大のキャッシュレス価値プール；イシュアー／アクワイアラーの経済性；リボルビングおよび割賦の隣接性 | [[card-issuers/jcb|JCB]]、SMBC カード、MUFG ニコス、楽天カード、PayPay カード、イオンカード | [[financial-licenses/INDEX|legal / financial licenses]] |
@@ -44,6 +46,8 @@ translated_at: 2026-06-26T08:32:07.537Z
 
 METI の 2025  の算定は議論を変えた。なぜなら日本は「40% へのキャッチアップ」から、より高い普及の体制へと移行したからである：
 
+以下の表は、エントリ出典インベントリの公開一次資料（meti.go.jp, paymentsjapan.or.jp, fsa.go.jp）の範囲に限定して読む。^[source:meti.go.jp; paymentsjapan.or.jp; fsa.go.jp]
+
 | 指標 | 最新の公開アンカー | なぜ重要か |
 |---|---:|---|
 | キャッシュレス決済比率 | 2025  における 58.0%| 古い 2025  の目標はすでに上回られた；政策のフロンティアは 2030  までの 65%、そしてより長期の 80% の野心へとシフトしている。 |
@@ -52,6 +56,8 @@ METI の 2025  の算定は議論を変えた。なぜなら日本は「40% へ�
 | キャッシュレス金額に占めるコード決済のシェア | 2025  における 10.2%| 金額では小さいが、アプリの行動、クーポン、P2P 送金、ポイントを所有するため戦略的に強力である。 |
 
 ## 競争マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（meti.go.jp, paymentsjapan.or.jp, fsa.go.jp）の範囲に限定して読む。^[source:meti.go.jp; paymentsjapan.or.jp; fsa.go.jp]
 
 | 陣営 | 中核的な優位 | 制約 |
 |---|---|---|
@@ -64,6 +70,8 @@ METI の 2025  の算定は議論を変えた。なぜなら日本は「40% へ�
 | GMO／PSP レイヤー | 加盟店アクセプタンス、EC チェックアウト、マルチ決済オーケストレーション、B2B 決済データ | 主に加盟店側のインフラであり、消費者ブランドのコントロールは少ない |
 
 ## 法的スタックキャッシュレス商品は、アプリブランドではなく法的機能によって分解されるべきである：
+
+以下の表は、エントリ出典インベントリの公開一次資料（meti.go.jp, paymentsjapan.or.jp, fsa.go.jp）の範囲に限定して読む。^[source:meti.go.jp; paymentsjapan.or.jp; fsa.go.jp]
 
 | 機能 | 最初の法的問い | 典型的なルート |
 |---|---|---|

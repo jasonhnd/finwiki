@@ -10,8 +10,8 @@ aliases:
   - "life-insurers/nippon-life-insurance"
 domain: life-insurers
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, life-insurance, mutual-company]
@@ -83,6 +83,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ### 重要年表（抜粋）
 
+The following table is scoped to public primary sources (nissay.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:nissay.co.jp]
+
 | 年月 | 事象 |
 |---|---|
 | 1889-07 | **有限責任日本生命保険会社** 大阪で創業 |
@@ -103,6 +105,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 
 ## 2. 事業セグメント・マップ
 
+The following table is scoped to public primary sources (nissay.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:nissay.co.jp]
+
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
 | 国内個人保険（主力）| 日本生命 本体 | 営業職員「ニッセイのおばちゃん」モデル、保有契約高・収入保険料で国内 1 位 |
@@ -117,6 +121,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 | 機関投資 | 日本生命 本体 | 国内最大級、国債・上場株式・社債・オルタナへ広範配分 |
 
 ### グループ連結ベース
+
+The following table is scoped to public primary sources (nissay.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:nissay.co.jp]
 
 | 指標 | FY2024 (2025-03 期) | 前年比 |
 |---|---|---|

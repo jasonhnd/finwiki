@@ -1,11 +1,11 @@
 ---
 source: life-insurers/dai-ichi-life-insurance
-source_hash: 4a3015572ce8962e
+source_hash: 65f6ae2bfdcd1716
 lang: en
 status: machine
 fidelity: ok
 title: "第一生命保険"
-translated_at: 2026-06-15T03:48:21.869Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 第一生命保険
@@ -19,6 +19,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]] (its domain ro
 The Dai-ichi Life Insurance Company, Limited holds a life-insurance company license under the Insurance Business Act and is listed on the FSA's list of life-insurance company licenses; it is the core domestic life-insurance operating company of [[life-insurers/dai-ichi-life|第一ライフグループ]] (formerly Dai-ichi Life Holdings). Even after the holding company changed its trade name to "株式会社第一ライフグループ" in 2026 年 4 月 and the group brand became "Daiichi Life", the listed holding company / group strategy page ([[life-insurers/dai-ichi-life|第一ライフグループ]]) and the licensed insurance underwriter with a sales-rep channel (this page) are treated separately. It is one corner of the domestic big four alongside Nippon Life, Sumitomo Life, and Meiji Yasuda Life.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, dai-ichi-life.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; dai-ichi-life.co.jp]
 
 | Item | Notes |
 |---|---|

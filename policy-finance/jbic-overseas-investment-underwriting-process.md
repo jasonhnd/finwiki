@@ -11,8 +11,8 @@ aliases:
   - "JBIC 審査プロセス"
 domain: policy-finance
 created: 2026-05-25
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [policy-finance, jbic, project-finance, export-credit, overseas-investment, special-operations, syndicated-loan]
@@ -38,6 +38,8 @@ JBIC underwriting is structured around a binary fund-account distinction — **G
 
 ## 1. 機関 / 部門位置
 
+The following table is scoped to public primary sources (jbic.go.jp, oecd.org, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jbic.go.jp; oecd.org; meti.go.jp]
+
 | Item | Detail |
 |---|---|
 | Parent entity | [[financial-regulators/jbic|JBIC]] (株式会社国際協力銀行), 100% state-owned special company, sole shareholder 財務大臣 |
@@ -51,6 +53,8 @@ JBIC underwriting is structured around a binary fund-account distinction — **G
 The General Operations vs Special Operations split is the most important structural feature for underwriting purposes. General Operations is constrained by typical policy-bank credit discipline; Special Operations was created explicitly so JBIC can take loss on policy-strategic transactions that would otherwise be unfinanceable.
 
 ### 2.1 Product taxonomy
+
+The following table is scoped to public primary sources (jbic.go.jp, oecd.org, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jbic.go.jp; oecd.org; meti.go.jp]
 
 | Product line | Borrower | Typical use | OECD Arrangement applicability | Account |
 |---|---|---|---|---|

@@ -7,8 +7,8 @@ aliases:
   - "電子決済等代行業 route"
 domain: "payments"
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-22
 confidence: likely
 tags: [payments, bank-api, electronic-payment-agency, open-api, banking, fintech]
@@ -32,6 +32,8 @@ Use this page with [[payments/INDEX|payments domain]], [[financial-licenses/INDE
 
 ## Route Map
 
+The following table is scoped to public primary sources (fsa.go.jp, zenginkyo.or.jp, fapi.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; zenginkyo.or.jp; fapi.or.jp]
+
 | Role | What it does | What it is not |
 |---|---|---|
 | Bank | Holds deposits, maintains accounts, and executes bank-account ledger movement. | Not merely an app front end. |
@@ -42,6 +44,8 @@ Use this page with [[payments/INDEX|payments domain]], [[financial-licenses/INDE
 | PSP / merchant gateway | Provides merchant acceptance and settlement services. | Not necessarily the account-information / bank API actor. |
 
 ## Source Stack
+
+The following table is scoped to public primary sources (fsa.go.jp, zenginkyo.or.jp, fapi.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; zenginkyo.or.jp; fapi.or.jp]
 
 | Source | What it proves |
 |---|---|
@@ -54,6 +58,8 @@ Use this page with [[payments/INDEX|payments domain]], [[financial-licenses/INDE
 For a live company conclusion, check the exact legal name, registration number, as-of date, service scope, and bank API contract disclosure. Do not infer registration from a marketing page alone.
 
 ## Product Boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, zenginkyo.or.jp, fapi.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; zenginkyo.or.jp; fapi.or.jp]
 
 | Product / flow | First question | Typical wiki route |
 |---|---|---|
@@ -72,6 +78,8 @@ For a live company conclusion, check the exact legal name, registration number, 
 - [[banking/mercari-bank-license-stack|Mercari Bank license stack]] is the clearest internal route for showing how a bank partner, app UX, and payment account can be split.
 
 ## Control Questions
+
+The following table is scoped to public primary sources (fsa.go.jp, zenginkyo.or.jp, fapi.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; zenginkyo.or.jp; fapi.or.jp]
 
 | Question | Public relevance |
 |---|---|

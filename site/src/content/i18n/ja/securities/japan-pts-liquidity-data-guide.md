@@ -1,11 +1,11 @@
 ---
 source: securities/japan-pts-liquidity-data-guide
-source_hash: 7f5a21c0f3b10acf
+source_hash: c83027185ec5b534
 lang: ja
 status: machine
 fidelity: ok
 title: "日本 PTS 流動性データガイド"
-translated_at: 2026-06-19T12:43:19.858Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 日本 PTS 流動性データガイド
@@ -17,6 +17,8 @@ PTS 流動性データは [[securities/japan-best-execution-sor-pts|日本の最
 本ページは [[securities/INDEX|証券ドメイン]]、[[securities/japan-market-infrastructure-map|日本の市場インフラ地図]]、[[securities/japannext-securities|Japannext]]、[[securities/osaka-digital-exchange|ODX]]、[[securities/tokyo-stock-exchange|東京証券取引所]]、および [[securities/financial-instruments-business-operators-japan-index|金融商品取引業者の登録簿インデックス]] と併せて用いること。
 
 ## ソーススタック
+
+以下の表は、エントリ出典インベントリの公開一次資料（jsda.or.jp, jpx.co.jp, japannext.co.jp）の範囲に限定して読む。^[source:jsda.or.jp; jpx.co.jp; japannext.co.jp; odx.co.jp]
 
 | ソース | 有用な用途 | 境界・限界 |
 |---|---|---|
@@ -40,6 +42,8 @@ JSDA は、現在同協会のウェブサイトで公表されている PTS 統�
 
 ## 主要指標
 
+以下の表は、エントリ出典インベントリの公開一次資料（jsda.or.jp, jpx.co.jp, japannext.co.jp）の範囲に限定して読む。^[source:jsda.or.jp; jpx.co.jp; japannext.co.jp; odx.co.jp]
+
 | 指標 | 有用な問い | 主な留意点 |
 |---|---|---|
 | 売買代金 | この期間の PTS 流動性は経済的に重要か。 | 合計額が大きくても、流動性の高い大型株に集中している場合がある。 |
@@ -62,6 +66,8 @@ JSDA は、現在同協会のウェブサイトで公表されている PTS 統�
 7. ブローカーに関するいかなる結論も、PTS 統計をそれ自体で証拠として扱うのではなく、[[securities/japan-best-execution-sor-pts|最良執行／SOR／PTS]] へと関連づけること。
 
 ## PTS データの解釈
+
+以下の表は、エントリ出典インベントリの公開一次資料（jsda.or.jp, jpx.co.jp, japannext.co.jp）の範囲に限定して読む。^[source:jsda.or.jp; jpx.co.jp; japannext.co.jp; odx.co.jp]
 
 | 解釈 | 適切な使い方 | 不適切な使い方 |
 |---|---|---|

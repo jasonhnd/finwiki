@@ -1,11 +1,11 @@
 ---
 source: securities-firms/nomura-hd
-source_hash: 7618e7ce193856a6
+source_hash: b651390491f8d31b
 lang: en
 status: machine
 fidelity: ok
 title: "Nomura Holdings (Nomura HD)"
-translated_at: 2026-06-19T13:13:22.639Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Nomura Holdings (Nomura HD)
@@ -31,6 +31,8 @@ Japan's largest independent securities group (on a net operating revenue basis).
 
 ### FY2025  (2025-03  period) results (consolidated, US accounting standards) ^[extracted]
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Item | Amount | YoY |
 |---|---|---|
 | Gross Revenue | **4 兆 7,367 億円** | +13.9% |
@@ -44,6 +46,8 @@ Japan's largest independent securities group (on a net operating revenue basis).
 | Capital | 5944 億 9300 万円 | - |
 
 ### Major shareholders (2025-03-31) ^[extracted]
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Shareholder | Stake |
 |---|---|
@@ -87,6 +91,8 @@ Nomura HD (holding company / listed 8604)
 
 ### Key chronology (excerpt) ^[extracted]
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Year/Month | Event |
 |---|---|
 | 1925-12-25 | Nomura Securities founded (securities department of Osaka Nomura Bank made independent) |
@@ -118,6 +124,8 @@ Nomura HD (holding company / listed 8604)
 ## 2. Business segment map
 
 > **2025-04-01 divisional reorganization**: a **banking division** was newly established on top of the conventional 4  divisions (sales / wholesale / Investment Management / others), transitioning to a **5 -division system** ^[extracted]
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Segment | Main operators | Features |
 |---|---|---|
@@ -172,6 +180,8 @@ Nomura HD (holding company / listed 8604)
   - 2025~ customer-oriented business operation (FSA revision of the "Principles for Customer-Oriented Business Operation")
 
 ### Successive Group CEOs (after becoming a holding company) ^[extracted]
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Generation | Name | Tenure | Main events |
 |---|---|---|---|

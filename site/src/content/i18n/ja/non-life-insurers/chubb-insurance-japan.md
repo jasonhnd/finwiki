@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/chubb-insurance-japan
-source_hash: f29e2c2681bb10dd
+source_hash: 65014d2e728f032e
 lang: ja
 status: machine
 fidelity: ok
 title: "Chubb損害保険（Chubb Insurance Japan）"
-translated_at: 2026-06-02T14:01:20.947Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Chubb損害保険（Chubb Insurance Japan）
@@ -21,6 +21,8 @@ Chubb損害保険は、日本で長い歴史を持ち、法人・スペシャル
 このページは、ACE Insurance からの名称変更の沿革を含め、Chubb損害保険株式会社を扱う。日本の公開資料がその文脈を使う場合を除き、グローバルグループとしての Chubb Limited 全体は扱わない。
 
 ## 事業上の役割マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, chubb.com）の範囲に限定して読む。^[source:fsa.go.jp; chubb.com]
 
 | ルート | 読み方 |
 |---|---|

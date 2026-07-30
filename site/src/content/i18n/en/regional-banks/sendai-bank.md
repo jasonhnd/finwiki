@@ -1,11 +1,11 @@
 ---
 source: regional-banks/sendai-bank
-source_hash: 68e1b8f2e3d7dea1
+source_hash: d18eda9a93763228
 lang: en
 status: machine
 fidelity: ok
 title: "Sendai Bank"
-translated_at: 2026-06-01T00:41:50.429Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Sendai Bank
 
@@ -18,6 +18,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 Sendai Bank, Ltd. is a second regional bank headquartered in Miyagi Prefecture and listed on the FSA bank license list, and is an operating bank under [[regional-banks/jimoto-hd]]. In the Miyagi market, [[regional-banks/77-bank]] is the leading prefectural regional bank, while Sendai Bank is the second-regional-bank-side SME / retail / reconstruction-finance anchor.
 
 ## 1. License / Group Boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, sendaibank.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; sendaibank.co.jp]
 
 | Item | Notes |
 |---|---|

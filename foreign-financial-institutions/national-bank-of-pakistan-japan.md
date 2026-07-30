@@ -7,8 +7,8 @@ aliases:
   - "パキスタン・ナショナル銀行東京支店"
 domain: foreign-financial-institutions
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-22
 confidence: likely
 tags: [JapanFG, foreign-bank, Pakistan, remittance, trade-finance]
@@ -36,6 +36,8 @@ National Bank of Pakistan's Tokyo Branch public page identifies the bank as a Pa
 This page is worth standalone treatment because it closes a remaining non-Taiwan foreign-bank registry-only row and adds a South Asia corridor that differs from the India-focused [[foreign-financial-institutions/state-bank-of-india-japan|SBI India]] and [[foreign-financial-institutions/bank-of-india-japan|Bank of India]] routes.
 
 ## Entity Boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, nbptokyo.com, nbp.com.pk). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; nbptokyo.com; nbp.com.pk]
 
 | Item | Reading |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: life-insurers/orix-life
-source_hash: 4e2fa600e22429b7
+source_hash: 8f6577cd2e973257
 lang: en
 status: machine
 fidelity: ok
 title: "ORIX Life Insurance"
-translated_at: 2026-06-24T09:30:00.000Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # ORIX Life Insurance
 
@@ -19,6 +19,8 @@ ORIX Life Insurance is a domestic life insurer listed in the FSA life-insurance-
 
 ## 1. Entity / licence boundary
 
+The following table is scoped to public primary sources (fsa.go.jp, orix.co.jp, orixlife.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; orix.co.jp; orixlife.co.jp]
+
 | Item | Reading |
 |---|---|
 | Legal name | ORIX Life Insurance Corporation / オリックス生命保険株式会社.^[source:fsa-life-list-2026] |
@@ -31,6 +33,8 @@ ORIX Life Insurance is a domestic life insurer listed in the FSA life-insurance-
 
 ORIX Group describes ORIX Life's business as life insurance including medical insurance and death insurance, with assets of JPY 3,009.2bn and profits of JPY 74.4bn as of 2025-03-31.^[source:orix-insurance-overview-2025] The same page states that the company offers products based on simple, easy-to-understand and reasonably priced coverage, and markets through four channels.^[source:orix-insurance-overview-2025]
 
+The following table is scoped to public primary sources (fsa.go.jp, orix.co.jp, orixlife.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; orix.co.jp; orixlife.co.jp]
+
 | Channel | Role |
 |---|---|
 | Insurance agents | Broad third-party distribution and insurance-shop reach.^[source:orix-insurance-overview-2025] |
@@ -41,6 +45,8 @@ ORIX Group describes ORIX Life's business as life insurance including medical in
 This hybrid channel structure is the key distinction from [[life-insurers/lifenet|Lifenet]]. ORIX Life can use online acquisition, but its core positioning is a multi-channel ORIX-group insurer rather than an internet-only challenger.
 
 ## 3. Products / group role
+
+The following table is scoped to public primary sources (fsa.go.jp, orix.co.jp, orixlife.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; orix.co.jp; orixlife.co.jp]
 
 | Lane | Reading |
 |---|---|
@@ -59,6 +65,8 @@ The 2025 disclosure's solvency-margin table matters because ORIX Life is large e
 - The disclosure notes a 200% threshold as the level below which supervisory early-correction action can be taken; this makes the ratio a regulatory signal rather than a marketing KPI.^[source:orix-life-disclosure-2025]
 
 ## 5. Peer / contrast map
+
+The following table is scoped to public primary sources (fsa.go.jp, orix.co.jp, orixlife.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; orix.co.jp; orixlife.co.jp]
 
 | Peer / category | Contrast |
 |---|---|

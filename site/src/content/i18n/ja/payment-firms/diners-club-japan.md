@@ -1,12 +1,12 @@
 ---
 source: payment-firms/diners-club-japan
-source_hash: 96e8fcb9c23bf901
+source_hash: 672fb5e6f7551ebf
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "ダイナースクラブジャパン (Diners Club Japan)"
-translated_at: 2026-06-26T08:32:07.561Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # ダイナースクラブジャパン (Diners Club Japan)
@@ -16,6 +16,8 @@ translated_at: 2026-06-26T08:32:07.561Z
 本項目は [[payment-firms/INDEX|payment-firms INDEX]] の配下に置く。[[card-issuers/jcb|JCB]] を同業・対比の文脈（両者とも 3者間型・プレミアム志向）として、[[payments/japan-card-issuer-acquirer-processor-split|Japan card 発行会社 / アクワイアラ / processor split]] をより広い制度・規制境界として併読する。
 
 ## 1. ライセンス・グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（diners.co.jp, meti.go.jp, global.jcb）の範囲に限定して読む。^[source:diners.co.jp; meti.go.jp; global.jcb; jcb.co.jp]
 
 | 項目 | 注記 |
 |---|---|

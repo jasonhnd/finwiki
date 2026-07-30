@@ -1,11 +1,11 @@
 ---
 source: payment-firms/bitflyer
-source_hash: 28db4d5db050ced1
+source_hash: 82c8c8ca262a75e2
 lang: en
 status: machine
 fidelity: ok
 title: "bitFlyer (株式会社ビットフライヤー / bitFlyer Holdings)"
-translated_at: 2026-07-28T20:15:36Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # bitFlyer (株式会社ビットフライヤー / bitFlyer Holdings)
 
@@ -48,6 +48,8 @@ bitFlyer Holdings, Inc.（持株、未上場）
 
 ## 2. History / key timeline
 
+The following table is scoped to public primary sources (bitflyer.com, fsa.go.jp, jvcea.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:bitflyer.com; fsa.go.jp; jvcea.or.jp]
+
 | Year/month | Event |
 |---|---|
 | **2014-01-09** | **株式会社ビットフライヤー established** (founded by Yuzo Kano) |
@@ -70,6 +72,8 @@ bitFlyer Holdings, Inc.（持株、未上場）
 
 ## 3. Business segment map
 
+The following table is scoped to public primary sources (bitflyer.com, fsa.go.jp, jvcea.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:bitflyer.com; fsa.go.jp; jvcea.or.jp]
+
 | Segment | Main operator | Characteristics |
 |---|---|---|
 | Domestic exchange | bitFlyer, Inc. | Centered on BTC spot, Lightning order-book trading / futures (CFD) |
@@ -86,6 +90,8 @@ bitFlyer Holdings, Inc.（持株、未上場）
 - **IPO preparation** (2024〜): reports assuming a TSE Growth listing, one of the first major IPO candidates in the crypto-asset industry
 
 ### Competitive relationships
+
+The following table is scoped to public primary sources (bitflyer.com, fsa.go.jp, jvcea.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:bitflyer.com; fsa.go.jp; jvcea.or.jp]
 
 | Competitor | Relationship |
 |---|---|

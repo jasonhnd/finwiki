@@ -3,8 +3,8 @@ title: GMO フィナンシャルホールディングス (GMO FHD)
 aliases: ["GMO FHD", "GMO Financial Holdings", "GMO フィナンシャルホールディングス", "GMO ファイナンシャル", "7177"]
 domain: payment-firms
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, fintech, gmo]
@@ -56,6 +56,8 @@ GMO インターネットグループ（東証 PRIME 9449・熊谷正寿）
 
 ## 2. 事業セグメント・マップ
 
+The following table is scoped to public primary sources (group.gmo, gmofh.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:group.gmo; gmofh.com]
+
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
 | ネット証券（現物株）| **GMO クリック証券** | 株式売買手数料 国内最低水準、信用取引・IPO 取扱 |
@@ -69,6 +71,8 @@ GMO インターネットグループ（東証 PRIME 9449・熊谷正寿）
 **特徴**：店舗を持たないネット完結モデル、システム自前開発、低コスト運営、**FX/CFD の取引高で国内トップシェア**を継続的に維持。^[extracted]
 
 ## 3. 沿革
+
+The following table is scoped to public primary sources (group.gmo, gmofh.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:group.gmo; gmofh.com]
 
 | 年月 | 事象 |
 |---|---|
@@ -93,6 +97,8 @@ GMO インターネットグループ（東証 PRIME 9449・熊谷正寿）
 - **ネット完結・低コスト運営**：実店舗なし、KYC からトレードまで完全オンライン → 楽天証券・SBI 証券と同じネット証券モデル
 
 ### 競合ポジション
+
+The following table is scoped to public primary sources (group.gmo, gmofh.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:group.gmo; gmofh.com]
 
 | 競合 | 親会社・特徴 | 強み |
 |---|---|---|

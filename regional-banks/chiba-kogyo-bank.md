@@ -3,8 +3,8 @@ title: 千葉興業銀行 (Chiba Kogyo Bank)
 aliases: ["千葉興業銀行", "Chiba Kogyo Bank", "The Chiba Kogyo Bank, Ltd.", "ちば興銀", "千葉商工銀行", "Chibakogin"]
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank, second-tier]
@@ -117,6 +117,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 - 詳細は最新 IR / 中期経営計画を要参照
 
 ### 競合関係
+
+The following table is scoped to public primary sources (chibakogyo-bank.co.jp, chibabank.co.jp, lfb.mof.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:chibakogyo-bank.co.jp; chibabank.co.jp; lfb.mof.go.jp]
 
 | 競合 | 関係 |
 |---|---|

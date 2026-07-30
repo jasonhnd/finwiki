@@ -1,11 +1,11 @@
 ---
 source: life-insurers/nn-life-japan
-source_hash: 2c494cf2f4f21e15
+source_hash: 6e5f4115641aae8f
 lang: ja
 status: machine
 fidelity: ok
 title: "NN生命保険"
-translated_at: 2026-06-02T14:54:39.050Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # NN生命保険
@@ -20,6 +20,8 @@ translated_at: 2026-06-02T14:54:39.050Z
 エヌエヌ生命保険株式会社は、金融庁の生命保険会社免許一覧と生命保険協会会員一覧に掲載される 外資系の日本生命保険会社。FinWiki では、外資系金融グループの日本法人としてではなく、日本で保険契約を引き受ける 生命保険運営会社 として扱う。
 
 ## 1. 免許・グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, seiho.or.jp, nnlife.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; seiho.or.jp; nnlife.co.jp]
 
 | 項目 | 注記 |
 |---|---|

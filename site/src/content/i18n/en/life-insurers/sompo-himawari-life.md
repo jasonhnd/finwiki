@@ -1,11 +1,11 @@
 ---
 source: life-insurers/sompo-himawari-life
-source_hash: dbcffd141924d01d
+source_hash: c6792664130268e1
 lang: en
 status: machine
 fidelity: ok
 title: ""
-translated_at: 2026-06-01T02:31:57.101Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 ﻿# SOMPO Himawari Life
 
@@ -18,6 +18,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 SOMPO Himawari Life Insurance Inc. is the life-insurance operating company of the [[non-life-insurers/sompo]] group. [[non-life-insurers/sompo]] is usually seen as a non-life major, but SOMPO Himawari Life is a separate underwriting entity listed on the FSA life-insurer list and provides health / life protection products.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, himawari-life.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; himawari-life.co.jp]
 
 | Item | Notes |
 |---|---|

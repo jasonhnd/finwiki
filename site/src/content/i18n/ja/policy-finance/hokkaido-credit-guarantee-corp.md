@@ -1,11 +1,11 @@
 ---
 source: policy-finance/hokkaido-credit-guarantee-corp
-source_hash: 58cc59e40d3e213b
+source_hash: 9e7a9d9a6d3f2e6f
 lang: ja
 status: machine
 fidelity: ok
 title: "北海道信用保証協会（Hokkaido Credit Guarantee Corporation）"
-translated_at: 2026-06-19T06:09:18.097Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 北海道信用保証協会（Hokkaido Credit Guarantee Corporation）
@@ -19,6 +19,8 @@ translated_at: 2026-06-19T06:09:18.097Z
 北海道信用保証協会（北海道信用保証協会）は、日本の 51協会の地方信用保証システムの北海道の構成員である。その保証残高は、北海道の中小企業経済が農業・食品（酪農、牛肉、ジャガイモ、小麦、てんさい、玉ねぎ）、漁業・水産加工（太平洋サケ、ホタテ、昆布、ウニ）、観光（インバウンドおよび札幌 / ニセコ スキー / 函館 / 小樽 ルート）、そして比較的薄い製造業基盤に集中するため、都市部の都道府県協会とは構造的に区別される。支配的な協調融資パートナーは [[regional-banks/hokkaido-bank|Hokkaido Bank (Hokuhoku FG)]] と [[regional-banks/hokuyo-bank|Hokuyo Bank]]、加えて広範な北海道の信金・信用組合ネットワークと農業協同組合（[[banking/ja-bank-system-japan|JA Bank]]）のオーバーレイである。
 
 ## 1. 機関概要
+
+以下の表は、エントリ出典インベントリの公開一次資料（hokkaido-cgc.or.jp, zenshinhoren.or.jp, chusho.meti.go.jp）の範囲に限定して読む。^[source:hokkaido-cgc.or.jp; zenshinhoren.or.jp; chusho.meti.go.jp]
 
 | 項目 | 内容 |
 |---|---|
@@ -83,6 +85,8 @@ COVID-19 の緊急事態（2020–2021）の間、北海道信用保証協会は
 [[financial-regulators/jfc|JFC]] の連合会プールの信用保険層が、責任共有制度の下での北海道信用保証協会の第一次損失の代位弁済の後の残余損失を吸収する。これは運営上重要である。なぜなら北海道の回収価値の問題（薄い地方の商業不動産の二次市場）は、絶対的な回収率が都市部の都道府県の同業者よりも構造的に低いことを意味し、JFC 再保険のバックストップにより大きな重みを置くからである。[[banking/ja-bank-system-japan|JA Bank]] / [[cooperative-banks/norinchukin|Norinchukin]] の農業協同組合の層と [[banking/jf-marine-bank-system-japan|JF Marine Bank]] / 漁業協同組合の層は、北海道信用保証協会の直接の中小企業保証スコープの外に落ちるセグメントのための並行する公共信用インフラとして運営される。
 
 ## 8. 同業の都道府県 CGC との比較
+
+以下の表は、エントリ出典インベントリの公開一次資料（hokkaido-cgc.or.jp, zenshinhoren.or.jp, chusho.meti.go.jp）の範囲に限定して読む。^[source:hokkaido-cgc.or.jp; zenshinhoren.or.jp; chusho.meti.go.jp]
 
 | 次元 | 北海道 CGC | [[policy-finance/tokyo-credit-guarantee-corp|Tokyo CGC]] | [[policy-finance/aichi-credit-guarantee-corp|Aichi CGC]] |
 |---|---|---|---|

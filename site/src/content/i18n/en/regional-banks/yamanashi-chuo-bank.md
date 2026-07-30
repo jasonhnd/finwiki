@@ -1,11 +1,11 @@
 ---
 source: regional-banks/yamanashi-chuo-bank
-source_hash: 83ca650122e68a97
+source_hash: 72fc6603d1f73dd5
 lang: en
 status: machine
 fidelity: ok
 title: "The Yamanashi Chuo Bank"
-translated_at: 2026-06-15T04:09:41.213Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # The Yamanashi Chuo Bank
@@ -19,6 +19,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]] (its domain 
 The Yamanashi Chuo Bank, Ltd. (株式会社山梨中央銀行, commonly called "Yamanaka") is a regional bank (first regional bank) headquartered in Kofu, Yamanashi Prefecture, that holds a banking license under the Banking Act and is listed on the FSA's bank license list. Per its official company outline, it is Yamanashi Prefecture's main regional bank, founded 1941 年 12 月 1 日 through the merger of Daiju Bank and Yushin Bank. On the wiki it is treated as a standalone operating-company anchor. Its business overlays corporate support adjacent to the Greater Tokyo area onto the standard regional-bank model of taking deposits and lending to SMEs and individuals within Yamanashi Prefecture.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, yamanashibank.co.jp, ja.wikipedia.org). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; yamanashibank.co.jp; ja.wikipedia.org]
 
 | Item | Notes |
 |---|---|

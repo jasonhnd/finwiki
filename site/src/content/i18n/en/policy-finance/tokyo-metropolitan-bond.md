@@ -1,11 +1,11 @@
 ---
 source: policy-finance/tokyo-metropolitan-bond
-source_hash: 2a081f32cafeda9e
+source_hash: e767cce557682f09
 lang: en
 status: machine
 fidelity: ok
 title: "Tokyo Metropolitan Bond (Tokyo-to-sai)"
-translated_at: 2026-06-01T03:31:12.231Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Tokyo Metropolitan Bond (Tokyo-to-sai)
@@ -17,6 +17,8 @@ Tokyo Metropolitan Bonds (東京都債 / Tokyo-to-sai) are debt securities issue
 This page sits under [[policy-finance/INDEX|policy-finance index]] as a case study within the broader local-bond-market policy-finance map.
 
 ## 1. Issuer boundary
+
+The following table is scoped to public primary sources (zaimu.metro.tokyo.lg.jp, chihousai.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:zaimu.metro.tokyo.lg.jp; chihousai.or.jp]
 
 | Item | Reading |
 |---|---|
@@ -41,6 +43,8 @@ Tokyo Metropolis is not just a large prefecture; it is structurally unlike the r
 ## 3. Issuance program logic
 
 Tokyo Metropolitan Bond issuance is shaped by:
+
+The following table is scoped to public primary sources (zaimu.metro.tokyo.lg.jp, chihousai.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:zaimu.metro.tokyo.lg.jp; chihousai.or.jp]
 
 | Driver | Effect |
 |---|---|

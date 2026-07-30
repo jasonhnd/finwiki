@@ -1,11 +1,11 @@
 ---
 source: securities-firms/smbc-nikko
-source_hash: 0f7a72b2cf9c0339
+source_hash: de217665190edcfd
 lang: en
 status: machine
 fidelity: ok
 title: "SMBC Nikko Securities (SMBC 日興証券)"
-translated_at: 2026-07-28T20:55:25Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # SMBC Nikko Securities (SMBC 日興証券)
@@ -45,6 +45,8 @@ SMBC Nikko Securities ([[megabanks/smfg]] 100% consolidated subsidiary)
 
 ### Key timeline (based on public information)
 
+The following table is scoped to public primary sources (smbcnikko.co.jp, diamond.jp, jbpress.ismedia.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:smbcnikko.co.jp; diamond.jp; jbpress.ismedia.jp]
+
 | Year/Month | Event |
 |---|---|
 | **1918** | **Kawashimaya Shoten founded** (the origin of today's SMBC Nikko Securities, Tokyo) |
@@ -66,6 +68,8 @@ SMBC Nikko Securities ([[megabanks/smfg]] 100% consolidated subsidiary)
 > Note: Part of the criminal proceedings for the 2022 年 incident is ongoing; this is based on public information. For details, refer to FSA published materials and Tokyo District Court judgment materials.
 
 ## 2. Business segment map
+
+The following table is scoped to public primary sources (smbcnikko.co.jp, diamond.jp, jbpress.ismedia.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:smbcnikko.co.jp; diamond.jp; jbpress.ismedia.jp]
 
 | Segment | Content | Characteristics |
 |---|---|---|

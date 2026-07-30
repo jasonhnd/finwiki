@@ -1,11 +1,11 @@
 ---
 source: regional-banks/ssnb
-source_hash: ae79c9b0c8e2ed7c
+source_hash: 3d77403ef1635fdf
 lang: ja
 status: machine
 fidelity: ok
 title: "住信 SBI ネット銀行 (SBI Sumishin Net Bank) → ドコモ SMTB ネット銀行"
-translated_at: 2026-07-28T20:55:25Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 住信 SBI ネット銀行 (SBI Sumishin Net Bank) → ドコモ SMTB ネット銀行
@@ -33,6 +33,8 @@ translated_at: 2026-07-28T20:55:25Z
 ^[住信 SBI ネット銀行「会社概要」: https://www.netbk.co.jp/contents/company/about/organization/; 3 社「商号変更、資本再編および協業施策」(2025-12-19): https://www.netbk.co.jp/contents/company/press/2025/1219_004783.html; 住信 SBI ネット銀行「親会社及び主要株主の異動」(2026-07-01): https://www.netbk.co.jp/contents/company/en/press/2026/0701_005996.html]
 
 ### 数値（FY2024 = 2025-03 期、連結ベース）
+
+以下の表は、エントリ出典インベントリの公開一次資料（netbk.co.jp）の範囲に限定して読む。^[source:netbk.co.jp]
 
 | 項目 | 規模 | 出所 |
 |---|---|---|
@@ -69,6 +71,8 @@ translated_at: 2026-07-28T20:55:25Z
 
 ### 重要年表
 
+以下の表は、エントリ出典インベントリの公開一次資料（netbk.co.jp）の範囲に限定して読む。^[source:netbk.co.jp]
+
 | 年月 | 事象 |
 |---|---|
 | 2007-09-24 | **住友信託銀行 + SBI HD 50:50 JV として開業** |
@@ -87,6 +91,8 @@ translated_at: 2026-07-28T20:55:25Z
 
 ## 2. 事業セグメント・マップ
 
+以下の表は、エントリ出典インベントリの公開一次資料（netbk.co.jp）の範囲に限定して読む。^[source:netbk.co.jp]
+
 | セグメント | 主要事業 | 特徴 |
 |---|---|---|
 | **住宅ローン** | フラット 35 / 変動 / 固定 | **ネット銀行 No.1 級**取扱高。長らく成長エンジン |
@@ -100,6 +106,8 @@ translated_at: 2026-07-28T20:55:25Z
 ### NEOBANK サービス（BaaS）一覧
 
 住信 SBI ネット銀行は「NEOBANK」ブランドで他社向け銀行機能を API 提供。主要パートナー:
+
+以下の表は、エントリ出典インベントリの公開一次資料（netbk.co.jp）の範囲に限定して読む。^[source:netbk.co.jp]
 
 | ブランド | パートナー | 開始時期 |
 |---|---|---|
@@ -138,6 +146,8 @@ translated_at: 2026-07-28T20:55:25Z
 - **過去の親 SBI 系列との連携**: SBI 証券 / SBI VC Trade との既存 API 連携がどう継続 / 縮小するかが論点
 
 ### 競争位置（ネット銀行業界、2025-10 以降）
+
+以下の表は、エントリ出典インベントリの公開一次資料（netbk.co.jp）の範囲に限定して読む。^[source:netbk.co.jp]
 
 | 銀行 | 親会社 | 強み | 弱み |
 |---|---|---|---|

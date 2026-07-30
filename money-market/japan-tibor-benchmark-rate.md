@@ -12,8 +12,8 @@ aliases:
   - "全銀協TIBOR"
 domain: "money-market"
 created: 2026-06-03
-last_updated: 2026-06-03
-last_tended: 2026-06-03
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-12-03
 confidence: likely
 tags: [money-market, TIBOR, benchmark, JBATA, reference-rate, interbank]
@@ -45,6 +45,8 @@ For FinWiki, TIBOR is the surviving **term, credit-sensitive** benchmark that co
 
 ## What TIBOR Measures
 
+The following table is scoped to public primary sources (jbatibor.or.jp, boj.or.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jbatibor.or.jp; boj.or.jp; fsa.go.jp]
+
 | Element | Reading |
 |---|---|
 | Type | Quote-based term reference rate, not a transaction-volume-weighted rate. |
@@ -59,6 +61,8 @@ Because TIBOR is built from reference-bank judgement rather than from a pool of 
 
 ## D-TIBOR vs Z-TIBOR
 
+The following table is scoped to public primary sources (jbatibor.or.jp, boj.or.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jbatibor.or.jp; boj.or.jp; fsa.go.jp]
+
 | Family | Reflects | Status |
 |---|---|---|
 | Japanese Yen TIBOR (D-TIBOR) | Domestic Japanese unsecured call-market funding environment. | Continuing publication. |
@@ -69,6 +73,8 @@ The Euroyen TIBOR cessation followed a multi-year reform path. JBATA published a
 ## TIBOR vs TONA
 
 TIBOR and [[derivatives/ois-tona-curve|TONA]] are different animals and should never be conflated:
+
+The following table is scoped to public primary sources (jbatibor.or.jp, boj.or.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jbatibor.or.jp; boj.or.jp; fsa.go.jp]
 
 | Property | TIBOR | TONA |
 |---|---|---|

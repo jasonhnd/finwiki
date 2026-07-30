@@ -3,8 +3,8 @@ title: ゆうちょ銀行 (Japan Post Bank)
 aliases: ["ゆうちょ銀行", "Japan Post Bank", "JP Bank", "株式会社ゆうちょ銀行", "JPB"]
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, banking, post-bank]
@@ -38,6 +38,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 **親会社**：日本郵政株式会社（株式コード 6178、政府保有株あり）
 
 ### 主要数値（公開ベース・2025-03-31 実績）
+
+The following table is scoped to public primary sources (jp-bank.japanpost.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jp-bank.japanpost.jp]
 
 | 項目 | 規模感 |
 |---|---|

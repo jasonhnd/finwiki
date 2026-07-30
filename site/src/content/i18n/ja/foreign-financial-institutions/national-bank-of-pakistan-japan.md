@@ -1,12 +1,12 @@
 ---
 source: foreign-financial-institutions/national-bank-of-pakistan-japan
-source_hash: 368b5e4b81742e6c
+source_hash: 19bd3c1b40ec27e5
 lang: ja
 model: local-ja-business-term-glossary
 status: machine
 fidelity: ok
 title: "パキスタン・ナショナル銀行日本"
-translated_at: 2026-06-26T08:32:15.225Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # パキスタン・ナショナル銀行日本
@@ -25,6 +25,8 @@ National Bank of Pakistan の東京支店公開ページでは、同行は 1949,
 
 ## 法人・業務境界
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, nbptokyo.com, nbp.com.pk）の範囲に限定して読む。^[source:fsa.go.jp; nbptokyo.com; nbp.com.pk]
+
 | 項目 | 読み方 |
 |---|---|
 | 親銀行 | National Bank of Pakistan |
@@ -35,6 +37,8 @@ National Bank of Pakistan の東京支店公開ページでは、同行は 1949,
 | 規制上の経路 | 金融庁外国銀行支店一覧 |
 
 ## 事業上の役割マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, nbptokyo.com, nbp.com.pk）の範囲に限定して読む。^[source:fsa.go.jp; nbptokyo.com; nbp.com.pk]
 
 | 機能 | 日本での関連性 |
 |---|---|

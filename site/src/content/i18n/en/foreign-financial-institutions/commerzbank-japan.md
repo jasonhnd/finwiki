@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/commerzbank-japan
-source_hash: 04c4e32d4948a367
+source_hash: fb71e5148e1aeafe
 lang: en
 status: machine
 fidelity: ok
 title: "Commerzbank Tokyo Branch"
-translated_at: 2026-05-31T11:13:44.957Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Commerzbank Tokyo Branch
 
@@ -19,6 +19,8 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 Commerzbank Tokyo Branch is the Japan bank branch of Germany / Commerzbank AG listed on the FSA foreign-bank branch list. In Japan it is treated as a wholesale branch centered on corporate / institutional clients, foreign trade, FX, transaction banking, and support for export-oriented Japanese corporates.
 
 ## 1. License / branch boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, commerzbank.jp, commerzbank.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; commerzbank.jp; commerzbank.com]
 
 | Item | Notes |
 |---|---|

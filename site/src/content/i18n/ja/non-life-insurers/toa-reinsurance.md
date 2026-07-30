@@ -1,11 +1,11 @@
 ---
 source: non-life-insurers/toa-reinsurance
-source_hash: ac83ea51181cc4c0
+source_hash: 60bd5697a746499e
 lang: ja
 status: machine
 fidelity: ok
 title: "トーア再保険"
-translated_at: 2026-06-19T06:09:18.120Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # トーア再保険
@@ -20,6 +20,8 @@ translated_at: 2026-06-19T06:09:18.120Z
 トーア再保険株式会社は、金融庁の損害保険会社免許一覧に掲載される日本の再保険会社。元受保険会社（primary insurer）ではなく、保険会社からリスクを引き受ける再保険オペレーティング・カンパニーとして JapanFG に置く。
 
 ## 1. License / group boundary
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, sonpohogo.or.jp, toare.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; sonpohogo.or.jp; toare.co.jp]
 
 | Item | Notes |
 |---|---|

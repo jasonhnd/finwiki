@@ -3,8 +3,8 @@ title: "サクソバンク証券"
 aliases: ["Saxo Bank Securities", "サクソバンク証券", "サクソバンク証券株式会社"]
 domain: securities-firms
 created: 2026-05-20
-last_updated: 2026-06-05
-last_tended: 2026-06-05
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-12-05
 confidence: likely
 tags: [JapanFG, securities, fx, cfd, foreign-broker, fiea-operator]
@@ -26,6 +26,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]] (its dom
 サクソバンク証券株式会社は、デンマークの Saxo Bank A/S を 100% 親会社に持つ Japan FIEA operator。金融商品取引法上の **第一種金融商品取引業者** として金融庁の金融商品取引業者一覧に「サクソバンク証券株式会社」（関東財務局長(金商)第239号）で掲載される。外国株式・店頭FX・CFD・デリバティブ系商品の Japan access point。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, home.saxo). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; home.saxo]
 
 | Item | Notes |
 |---|---|

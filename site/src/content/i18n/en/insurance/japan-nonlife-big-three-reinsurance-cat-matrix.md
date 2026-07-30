@@ -1,11 +1,11 @@
 ---
 source: insurance/japan-nonlife-big-three-reinsurance-cat-matrix
-source_hash: 1fa1bad71f839540
+source_hash: 420c25188065702c
 lang: en
 status: machine
 fidelity: ok
 title: "Japan non-life big-three reinsurance and cat overlay matrix"
-translated_at: 2026-05-31T11:13:44.926Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan non-life big-three reinsurance and cat overlay matrix
@@ -90,6 +90,8 @@ The matrix below lists axes that differentiate the big three. Specific numbers (
 
 ### Identity, group, and operating structure
 
+The following table is scoped to public primary sources (fsa.go.jp, iaisweb.org, sonpo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; iaisweb.org; sonpo.or.jp; tokiomarinehd.com]
+
 | Axis | Tokio Marine Holdings | MS&AD Insurance Group Holdings | Sompo Holdings |
 |---|---|---|---|
 | Listed holding company | [[non-life-insurers/tokio-marine|Tokio Marine Holdings]] (TSE Prime) | [[non-life-insurers/msad|MS&AD Insurance Group Holdings]] (TSE Prime) | [[non-life-insurers/sompo|Sompo Holdings]] (TSE Prime) |
@@ -101,6 +103,8 @@ The matrix below lists axes that differentiate the big three. Specific numbers (
 
 ### Domestic cat exposure by peril
 
+The following table is scoped to public primary sources (fsa.go.jp, iaisweb.org, sonpo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; iaisweb.org; sonpo.or.jp; tokiomarinehd.com]
+
 | Peril | Tokio Marine | MS&AD | Sompo |
 |---|---|---|---|
 | Earthquake (commercial) | Material; cat XL primary mitigant | Material; cat XL primary mitigant | Material; cat XL primary mitigant |
@@ -111,6 +115,8 @@ The matrix below lists axes that differentiate the big three. Specific numbers (
 | Domestic cat budget reset | Reset after Faxai / Hagibis (2019) and subsequent events | Reset after Faxai / Hagibis (2019) and subsequent events | Reset after Faxai / Hagibis (2019) and subsequent events |
 
 ### Reinsurance program shape
+
+The following table is scoped to public primary sources (fsa.go.jp, iaisweb.org, sonpo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; iaisweb.org; sonpo.or.jp; tokiomarinehd.com]
 
 | Axis | Tokio Marine | MS&AD | Sompo |
 |---|---|---|---|
@@ -124,6 +130,8 @@ The matrix below lists axes that differentiate the big three. Specific numbers (
 
 ### Overseas portfolio and specialty footprint
 
+The following table is scoped to public primary sources (fsa.go.jp, iaisweb.org, sonpo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; iaisweb.org; sonpo.or.jp; tokiomarinehd.com]
+
 | Axis | Tokio Marine | MS&AD | Sompo |
 |---|---|---|---|
 | Overseas earnings share | Largest among the three | Material; less than Tokio Marine | Material; less than Tokio Marine |
@@ -136,6 +144,8 @@ The matrix below lists axes that differentiate the big three. Specific numbers (
 
 ### Equity holdings and cross-shareholding portfolio
 
+The following table is scoped to public primary sources (fsa.go.jp, iaisweb.org, sonpo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; iaisweb.org; sonpo.or.jp; tokiomarinehd.com]
+
 | Axis | Tokio Marine | MS&AD | Sompo |
 |---|---|---|---|
 | Cross-shareholding heritage | Large postwar keiretsu / customer book | Large postwar keiretsu / customer book | Large postwar keiretsu / customer book |
@@ -145,6 +155,8 @@ The matrix below lists axes that differentiate the big three. Specific numbers (
 | Relationship constraint | Disposal is sequenced against customer / partner relationship considerations | Same constraint | Same constraint |
 
 ### Capital return policy and ESR
+
+The following table is scoped to public primary sources (fsa.go.jp, iaisweb.org, sonpo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; iaisweb.org; sonpo.or.jp; tokiomarinehd.com]
 
 | Axis | Tokio Marine | MS&AD | Sompo |
 |---|---|---|---|
@@ -157,6 +169,8 @@ The matrix below lists axes that differentiate the big three. Specific numbers (
 
 ### Combined-ratio decomposition (conceptual)
 
+The following table is scoped to public primary sources (fsa.go.jp, iaisweb.org, sonpo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; iaisweb.org; sonpo.or.jp; tokiomarinehd.com]
+
 | Line | Tokio Marine | MS&AD | Sompo |
 |---|---|---|---|
 | Voluntary auto | Largest single line by premium; cycle-sensitive | Largest single line; ADI mobility ecosystem | Largest single line by premium |
@@ -167,6 +181,8 @@ The matrix below lists axes that differentiate the big three. Specific numbers (
 | Overseas combined ratio | Reported separately; reflects US specialty / London cycles | Reported separately | Reported separately |
 
 ### ESR sensitivity at a conceptual level
+
+The following table is scoped to public primary sources (fsa.go.jp, iaisweb.org, sonpo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; iaisweb.org; sonpo.or.jp; tokiomarinehd.com]
 
 | Sensitivity | Tokio Marine | MS&AD | Sompo |
 |---|---|---|---|
@@ -179,6 +195,8 @@ The matrix below lists axes that differentiate the big three. Specific numbers (
 
 ### Recent M&A and strategic deals (conceptual)
 
+The following table is scoped to public primary sources (fsa.go.jp, iaisweb.org, sonpo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; iaisweb.org; sonpo.or.jp; tokiomarinehd.com]
+
 | Axis | Tokio Marine | MS&AD | Sompo |
 |---|---|---|---|
 | US specialty M&A history | Philadelphia, Pure, HCC platforms | US specialty platforms | Endurance / Sompo International |
@@ -188,6 +206,8 @@ The matrix below lists axes that differentiate the big three. Specific numbers (
 | Mobility / digital adjacency | Telematics / digital P&C investment | Toyota / mobility ecosystem | Digital P&C investment |
 
 ### Specialty-lines mapping
+
+The following table is scoped to public primary sources (fsa.go.jp, iaisweb.org, sonpo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; iaisweb.org; sonpo.or.jp; tokiomarinehd.com]
 
 | Specialty line | Tokio Marine | MS&AD | Sompo |
 |---|---|---|---|
@@ -217,6 +237,8 @@ The current big-three shape reflects two decades of consolidation:
 ## Reading the disclosure
 
 Each group publishes the relevant data in similar but not identical disclosure formats:
+
+The following table is scoped to public primary sources (fsa.go.jp, iaisweb.org, sonpo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; iaisweb.org; sonpo.or.jp; tokiomarinehd.com]
 
 | Disclosure surface | Tokio Marine HD | MS&AD HD | Sompo HD |
 |---|---|---|---|

@@ -1,11 +1,11 @@
 ---
 source: regional-banks/nagoya-bank
-source_hash: db8a39638a8e543f
+source_hash: 3caf79ce0f0ec60a
 lang: ja
 status: machine
 fidelity: ok
 title: "名古屋銀行"
-translated_at: 2026-06-15T04:09:41.211Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 名古屋銀行
@@ -19,6 +19,8 @@ translated_at: 2026-06-15T04:09:41.211Z
 株式会社名古屋銀行 (The Bank of Nagoya) は、銀行法上の銀行免許を持ち金融庁の銀行免許一覧に掲載される愛知県名古屋市本店の第二地方銀行。中京圏では [[regional-banks/aichi-bank|あいち銀行]]（[[regional-banks/aichi-fg|あいちフィナンシャルグループ]]）と並ぶ major local-bank peer として standalone operating-company page を持たせる。事業の中身は県内・名古屋圏の預金受入と中小企業・個人向け貸出という第二地銀の標準モデル。
 
 ## 1. ライセンス／グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, meigin.com）の範囲に限定して読む。^[source:fsa.go.jp; meigin.com]
 
 | 項目 | 注記 |
 |---|---|

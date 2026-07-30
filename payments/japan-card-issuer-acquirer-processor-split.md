@@ -6,8 +6,8 @@ aliases:
   - "カード issuer acquirer processor Japan"
 domain: "payments"
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-22
 confidence: likely
 tags: [payments, credit-card, acquiring, issuer, processor, PSP, security]
@@ -45,6 +45,8 @@ Use this page with [[payments/card-acquiring-japan-stack|Japan card acquiring st
 
 ## Legal / Registry Boundary
 
+The following table is scoped to public primary sources (meti.go.jp, j-credit.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; j-credit.or.jp]
+
 | Question | Route |
 |---|---|
 | Is the entity an installment-sales / credit-purchase operator? | Check METI Installment Sales Act registration lists and [[payments/credit-purchase-card-operators-japan-index|registry-control page]]. |
@@ -66,6 +68,8 @@ The Japan Credit Association security-guideline route matters because fraud and 
 The JCB public brand-business explanation is a useful plain-language model for separating cardholder, merchant, issuer, acquirer, and brand / payment-network roles before adding Japan-specific registration and security controls.
 
 ## Common Misreadings
+
+The following table is scoped to public primary sources (meti.go.jp, j-credit.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; j-credit.or.jp]
 
 | Misreading | Better reading |
 |---|---|

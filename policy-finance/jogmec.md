@@ -12,8 +12,8 @@ aliases:
   - "JOGMEC critical minerals"
 domain: "policy-finance"
 created: 2026-05-19
-last_updated: 2026-05-25
-last_tended: 2026-05-25
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [policy-finance, energy-security, minerals, japan, meti, critical-minerals, stockpiling, lng, economic-security, equity-investment]
@@ -38,6 +38,8 @@ This entry sits under [[policy-finance/INDEX|policy-finance index]] as the resou
 JOGMEC (独立行政法人 エネルギー・金属鉱物資源機構 — formerly 石油天然ガス・金属鉱物資源機構 / Japan Oil, Gas and Metals National Corporation) is Japan's resource-security state agency, METI-supervised (経済産業大臣 主管 through 資源エネルギー庁). The institution sits at the upstream end of the Japanese energy and critical-minerals supply chain, with three structural product legs — **探鉱出資** (exploration-stage equity / risk-sharing capital injection into Japanese-affiliated upstream SPVs), **開発出資** (development-stage equity in proven projects post-FID), and **鉱物備蓄 / 石油備蓄** (state stockpiling of rare metals and oil reserves) — plus a supporting fourth leg of **liability guarantees and loan support** for exploration borrowings. Equity tickets are typically minority slices behind a Japanese sponsor (the major sogo-shosha trading houses Mitsui, Mitsubishi Corp, Sumitomo Corp, Itochu, Marubeni, Sojitz; major utilities; specialty mining companies). The state objective is **offtake back to Japan** — long-term LNG, oil, copper, nickel, lithium, cobalt, rare-earth, and uranium volumes routed into Japanese energy-utility and battery / EV supply chains. The 2023-04 statutory rebranding from 石油天然ガス・金属鉱物資源機構 to エネルギー・金属鉱物資源機構 was structurally significant — it codified the **economic-security pivot**: explicit broadening from oil / gas / metals to critical minerals essential to GX (green transformation), hydrogen / ammonia / CCS, semiconductor materials, and battery-EV minerals. The 2022-2025 period also saw a dramatic forced reallocation of the Russia-exposed energy portfolio (Sakhalin-1 / Sakhalin-2 LNG asset value impairment under sanctions exposure) and parallel critical-minerals pivot (lithium, cobalt, rare-earth equity entries with Australian / Latin American / African sponsors). JOGMEC's role in the project-finance stack is the equity / exploration-risk seat that megabank syndicate and JBIC cannot price — its presence in the cap table is often the signal that lets the senior-debt layer come together.
 
 ## 1. Institutional structure
+
+The following table is scoped to public primary sources (jogmec.go.jp, enecho.meti.go.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jogmec.go.jp; enecho.meti.go.jp; meti.go.jp]
 
 | Item | Detail |
 |---|---|
@@ -71,6 +73,8 @@ JOGMEC's funding is government-appropriated and outcomes-evaluated, but its inst
 ## 2. Mandate by line of business
 
 ### 2.1 Product / instrument summary
+
+The following table is scoped to public primary sources (jogmec.go.jp, enecho.meti.go.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jogmec.go.jp; enecho.meti.go.jp; meti.go.jp]
 
 | Lane | Instrument | Typical use | Counterpart | Sector focus |
 |---|---|---|---|---|
@@ -107,6 +111,8 @@ The stockpiling function is structurally separate from the equity-investment fun
 
 ## 3. KPI table (public-source numbers)
 
+The following table is scoped to public primary sources (jogmec.go.jp, enecho.meti.go.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jogmec.go.jp; enecho.meti.go.jp; meti.go.jp]
+
 | KPI | Approximate value | Source / caveat |
 |---|---|---|
 | Equity capital | ~¥1,828 billion (約 1,828 億円) as of 2026-04-01 | JOGMEC official overview |
@@ -122,6 +128,8 @@ The stockpiling function is structurally separate from the equity-investment fun
 JOGMEC headline numbers are difficult to summarize as a single book value because the equity portfolio includes both at-cost and fair-value-impaired holdings (notably the Russia-exposed LNG assets), and the appropriation flow varies year by year with supplementary-budget direction.
 
 ## 4. Year-by-year evolution
+
+The following table is scoped to public primary sources (jogmec.go.jp, enecho.meti.go.jp, meti.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:jogmec.go.jp; enecho.meti.go.jp; meti.go.jp]
 
 | Year | Event |
 |---|---|

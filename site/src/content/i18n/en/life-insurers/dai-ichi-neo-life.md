@@ -1,11 +1,11 @@
 ---
 source: life-insurers/dai-ichi-neo-life
-source_hash: d6bf2fed7a47ba31
+source_hash: 4dc7d9a46e720c1e
 lang: en
 status: machine
 fidelity: ok
 title: "Dai-ichi Neo Life Insurance (第一ネオ生命保険)"
-translated_at: 2026-06-15T03:48:21.881Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Dai-ichi Neo Life Insurance (第一ネオ生命保険)
@@ -19,6 +19,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]] (its domain ro
 第一ネオ生命保険株式会社 is a specialty life-insurance operating company of [[life-insurers/dai-ichi-life|第一ライフグループ]] that holds a life-insurance company license under the Insurance Business Act and is listed in the FSA's list of licensed life-insurance companies. 2026 年 4 月 1 日, in step with the parent Dai-ichi Life Holdings changing its trade name to "Dai-ichi Life Group Inc. (株式会社第一ライフグループ)" and unifying the group brand to "Daiichi Life," it **changed its name from the former "Neo First Life" to "Dai-ichi Neo Life,"** so this page places the exact-name anchor and the name-change boundary.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, neofirst.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; neofirst.co.jp]
 
 | Item | Notes |
 |---|---|

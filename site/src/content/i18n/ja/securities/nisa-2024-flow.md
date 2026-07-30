@@ -1,11 +1,11 @@
 ---
 source: securities/nisa-2024-flow
-source_hash: cf0e104299904c30
+source_hash: 48ddfbf1d9b9d311
 lang: ja
 status: machine
 fidelity: ok
 title: "NISA 2024 フロー"
-translated_at: 2026-06-19T12:43:19.953Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # NISA 2024 フロー
@@ -23,6 +23,8 @@ FinWiki にとって、NISA は証券の販売チャネルと家計の資産フ�
 
 ## System Map
 
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, jsda.or.jp, global.rakuten.com）の範囲に限定して読む。^[source:fsa.go.jp; jsda.or.jp; global.rakuten.com]
+
 | Layer | 2024 NISA reading |
 |---|---|
 | Policy objective | 家計の金融資産を長期的な資産形成へとシフトさせる。 |
@@ -32,6 +34,8 @@ FinWiki にとって、NISA は証券の販売チャネルと家計の資産フ�
 | Distribution layer | 証券会社、銀行、ネット証券が口座開設、積立投資、資産の維持をめぐって競争する。 |
 
 ## Key Parameters
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, jsda.or.jp, global.rakuten.com）の範囲に限定して読む。^[source:fsa.go.jp; jsda.or.jp; global.rakuten.com]
 
 | Item | New NISA reading |
 |---|---:|

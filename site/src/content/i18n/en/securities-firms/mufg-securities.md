@@ -1,11 +1,11 @@
 ---
 source: securities-firms/mufg-securities
-source_hash: ea37d467c344bac1
+source_hash: 44cea58d3ccea0d5
 lang: en
 status: machine
 fidelity: ok
 title: "MUFG Securities Holdings"
-translated_at: 2026-07-28T20:55:25Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # MUFG Securities Holdings
 
@@ -50,6 +50,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ### Key chronology
 
+The following table is scoped to public primary sources (hd.sc.mufg.jp, mufg.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:hd.sc.mufg.jp; mufg.jp]
+
 | Date | Event |
 |---|---|
 | 1948 | Predecessors of Mitsubishi Securities / UFJ Securities (postwar) |
@@ -82,6 +84,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ## 3. Functions of the overseas subsidiaries
 
+The following table is scoped to public primary sources (hd.sc.mufg.jp, mufg.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:hd.sc.mufg.jp; mufg.jp]
+
 | Base | Main functions |
 |---|---|
 | **MUFG Securities Americas** (NY) | US Treasury primary dealer + DCM/ECM in the US market + syndicate participation |
@@ -96,6 +100,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ## 4. Main business areas
 
+The following table is scoped to public primary sources (hd.sc.mufg.jp, mufg.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:hd.sc.mufg.jp; mufg.jp]
+
 | Business | Primary in charge |
 |---|---|
 | **Domestic retail** | [[securities-firms/mufg-mums|MUMSS]] (former Mitsubishi UFJ Securities) |
@@ -108,6 +114,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 | **Sustainable finance** | Group-wide |
 
 ### vs domestic rivals
+
+The following table is scoped to public primary sources (hd.sc.mufg.jp, mufg.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:hd.sc.mufg.jp; mufg.jp]
 
 | Item | MUFG Securities HD | [[securities-firms/smbc-nikko|SMBC 日興]] | [[securities-firms/mizuho-securities|みずほ証券]] | [[securities-firms/nomura-hd|野村]] |
 |---|---|---|---|---|

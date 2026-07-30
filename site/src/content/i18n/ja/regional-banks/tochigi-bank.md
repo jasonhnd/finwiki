@@ -1,11 +1,11 @@
 ---
 source: regional-banks/tochigi-bank
-source_hash: a4031d7e21a2f596
+source_hash: 5816c0874342f3df
 lang: ja
 status: machine
 fidelity: ok
 title: "栃木銀行"
-translated_at: 2026-06-02T16:33:58.500Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 栃木銀行
@@ -20,6 +20,8 @@ translated_at: 2026-06-02T16:33:58.500Z
 株式会社栃木銀行は、金融庁の銀行免許一覧に掲載される、栃木県宇都宮市に本店を置く第二地方銀行である。栃木県では [[regional-banks/ashikaga-bank]] が第一地方銀行の中核であり、栃木銀行は第二地方銀行側の事業会社として整理する。
 
 ## 1. ライセンス・グループ境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（fsa.go.jp, tochigibank.co.jp）の範囲に限定して読む。^[source:fsa.go.jp; tochigibank.co.jp]
 
 | 項目 | 注記 |
 |---|---|

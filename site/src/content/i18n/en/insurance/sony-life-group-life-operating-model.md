@@ -1,12 +1,12 @@
 ---
 source: insurance/sony-life-group-life-operating-model
-source_hash: 4d22650f55c288f1
+source_hash: ee35a24a8574d7bb
 lang: en
 model: canonical-en-source-sync
 status: machine
 fidelity: ok
 title: "Sony Life group-life and Lifeplanner operating model"
-translated_at: 2026-07-28T19:25:32.800Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Sony Life group-life and Lifeplanner operating model
@@ -26,6 +26,8 @@ The Lifeplanner channel is positioned as a high-productivity, consultative, full
 Governance sits under [[megabanks/sony-fg|Sony Financial Group]], which directly owns 100% of Sony Life. Sony FG relisted on the TSE Prime Market on 2025-09-29. After Sony Group distributed 83.60% of Sony FG shares through the partial spin-off effective 2025-10-01, Sony Group ceased to be Sony FG's parent and retained a minority interest. Sony Life therefore remains a wholly owned operating subsidiary of a listed insurance holding company, with direct public-equity discipline at the Sony FG level. ^[Sony FG group-company ownership: https://www.sonyfg.co.jp/en/company/about_group.html; listing: https://www.sonyfg.co.jp/en/250929_01.html; parent-company change and 83.60% distribution: https://www.sonyfg.co.jp/en/news/article/250929_02.pdf]
 
 ### Lifeplanner channel (tied, consultative, individual life)
+
+The following table is scoped to public primary sources (sonylife.co.jp, sonyfg.co.jp, seiho.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:sonylife.co.jp; sonyfg.co.jp; seiho.or.jp; fsa.go.jp]
 
 | Field | Lifeplanner channel | Big-four sales-rep channel | Internet life |
 |---|---|---|---|
@@ -88,6 +90,8 @@ The capital-architecture difference versus listed peer [[life-insurers/dai-ichi-
 
 For Lifeplanner-only insurers, two metrics dominate the operating story:
 
+The following table is scoped to public primary sources (sonylife.co.jp, sonyfg.co.jp, seiho.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:sonylife.co.jp; sonyfg.co.jp; seiho.or.jp; fsa.go.jp]
+
 | Metric | Why it matters | Read alongside |
 |---|---|---|
 | 13-month persistency | Captures policy survival through the first contract year; weak persistency means commissions were paid against business that did not stick | Channel-mix comparison in [[insurance/life-insurance-channel-mix|life insurance channel mix]] |
@@ -111,6 +115,8 @@ But the model has structural fragilities:
 
 ## Comparison to big-four sales-agency model
 
+The following table is scoped to public primary sources (sonylife.co.jp, sonyfg.co.jp, seiho.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:sonylife.co.jp; sonyfg.co.jp; seiho.or.jp; fsa.go.jp]
+
 | Axis | Sony Life Lifeplanner-only | Big-four mutual sales-rep model |
 |---|---|---|
 | Sales-force size | Small / mid (single-figure thousands) | Large (tens of thousands per company in some peers) |
@@ -126,6 +132,8 @@ The comparison is not "which model is better" — it is "which channel architect
 ## Group-life product mechanics
 
 Group life in Japan is a distinct product family with its own actuarial and contractual properties:
+
+The following table is scoped to public primary sources (sonylife.co.jp, sonyfg.co.jp, seiho.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:sonylife.co.jp; sonyfg.co.jp; seiho.or.jp; fsa.go.jp]
 
 | Product | Mechanics | Underwriting note |
 |---|---|---|
@@ -151,6 +159,8 @@ These exposures are routed through [[insurance/japan-life-insurance-alm-overview
 
 Sony Financial Group is not a single-business insurer. Its perimeter includes:
 
+The following table is scoped to public primary sources (sonylife.co.jp, sonyfg.co.jp, seiho.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:sonylife.co.jp; sonyfg.co.jp; seiho.or.jp; fsa.go.jp]
+
 | Subsidiary | Business |
 |---|---|
 | Sony Life Insurance | Stock-company life insurer with Lifeplanner channel and group-life channel |
@@ -163,6 +173,8 @@ The combined Sony FG perimeter delivers cross-sell potential — life Lifeplanne
 ## Lifeplanner-channel international comparators
 
 The Lifeplanner / financial-advisor model is a global insurance architecture, not unique to Sony Life. International comparators include:
+
+The following table is scoped to public primary sources (sonylife.co.jp, sonyfg.co.jp, seiho.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:sonylife.co.jp; sonyfg.co.jp; seiho.or.jp; fsa.go.jp]
 
 | Comparator | Channel parallel |
 |---|---|
@@ -177,6 +189,8 @@ The economic logic across all of these is the same: small high-productivity forc
 ## Operational reading guide for the Sony Life disclosure book
 
 When reading [[life-insurers/sony-life|Sony Life]]'s ディスクロージャー誌 (disclosure book) and Sony FG financial reports, focus disclosure sections in this order:
+
+The following table is scoped to public primary sources (sonylife.co.jp, sonyfg.co.jp, seiho.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:sonylife.co.jp; sonyfg.co.jp; seiho.or.jp; fsa.go.jp]
 
 | Section | What to extract |
 |---|---|

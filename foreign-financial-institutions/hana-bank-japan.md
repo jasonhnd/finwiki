@@ -3,8 +3,8 @@ title: "ハナ銀行 在日支店"
 aliases: ["Hana Bank Japan", "KEB Hana Bank Japan", "Hana Bank Tokyo Branch", "ハナ銀行東京支店", "KEBハナ銀行在日支店"]
 domain: foreign-financial-institutions
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, banking, foreign-bank-branch, korea, asia-corridor, operating-branch]
@@ -27,6 +27,8 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 ハナ銀行 在日支店は、金融庁の外国銀行支店一覧に掲載される Republic of Korea / Hana Bank の在日銀行支店。旧 Korea Exchange Bank / Hana 統合後の Japan branch route として、東京・大阪・福岡の韓国系 banking corridor を担う。
 
 ## 1. License / branch boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, koex.jp, zenginkyo.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; koex.jp; zenginkyo.or.jp]
 
 | Item | Notes |
 |---|---|

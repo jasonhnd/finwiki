@@ -1,11 +1,11 @@
 ---
 source: regional-banks/taiko-bank
-source_hash: 4cd3054e4b633c78
+source_hash: 826204ea82f63de0
 lang: en
 status: machine
 fidelity: ok
 title: "Taiko Bank"
-translated_at: 2026-06-01T02:31:57.169Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # Taiko Bank
 
@@ -18,6 +18,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it wit
 Taiko Bank, Ltd. is a second regional bank headquartered in Nagaoka, Niigata Prefecture and listed in the FSA bank license list. In the FSA workbook it appears in the second-regional-bank list under the Kanto Local Finance Bureau area; in the wiki it is treated as a Niigata / Kanto-adjacent second-regional-bank operating-company page.
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, taikobank.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; taikobank.jp]
 
 | Item | Notes |
 |---|---|

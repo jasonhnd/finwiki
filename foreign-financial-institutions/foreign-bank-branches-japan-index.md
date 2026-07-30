@@ -3,8 +3,8 @@ title: "Foreign bank branches in Japan registry index"
 aliases: ["外国銀行支店一覧", "日本外国银行支店总表", "Japan foreign-bank branch registry", "FSA foreign bank branches Japan"]
 domain: foreign-financial-institutions
 created: 2026-05-21
-last_updated: 2026-07-29
-last_tended: 2026-07-29
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, banking, foreign-bank-branch, registry, official-name-index]
@@ -29,6 +29,8 @@ The FSA bank-license workbook's `外国銀行支店` worksheet lists **57 foreig
 Do not create long-tail foreign-bank branch pages one by one from this table by default. Use standalone pages for material Japan corridor banks, market-infrastructure-adjacent banks, or strategically important cross-border banking corridors.
 
 ## Coverage summary
+
+The following table is scoped to public primary sources (fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp]
 
 | Metric | Count |
 |---|---:|
@@ -66,6 +68,8 @@ Do not create long-tail foreign-bank branch pages one by one from this table by 
 | ルクセンブルク大公国 | 1 |
 
 ## Registry rows
+
+The following table is scoped to public primary sources (fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp]
 
 | Jurisdiction | FSA listed name | Corporate no. | Representative branch address | Wiki route | Coverage |
 |---|---|---:|---|---|---|

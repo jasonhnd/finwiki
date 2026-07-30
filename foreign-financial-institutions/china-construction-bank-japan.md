@@ -3,8 +3,8 @@ title: "中国建設銀行 東京支店"
 aliases: ["China Construction Bank Japan", "CCB Tokyo Branch", "China Construction Bank Tokyo Branch", "中国建設銀行", "中國建設銀行東京支店"]
 domain: foreign-financial-institutions
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, banking, foreign-bank-branch, china, asia-corridor, operating-branch]
@@ -27,6 +27,8 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 中国建設銀行 東京支店は、金融庁の外国銀行支店一覧に掲載される mainland China / China Construction Bank の在日銀行支店。東京代表処から 2003 年に支店化した China-Japan full-function branch として、預金、貸出、貿易融資、外貨売買、決済、送金、個人向け業務を扱う。
 
 ## 1. License / branch boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, jp.ccb.com, ccb.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; jp.ccb.com; ccb.com]
 
 | Item | Notes |
 |---|---|

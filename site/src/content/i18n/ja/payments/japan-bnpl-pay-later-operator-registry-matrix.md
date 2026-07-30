@@ -1,11 +1,11 @@
 ---
 source: payments/japan-bnpl-pay-later-operator-registry-matrix
-source_hash: 2caae58e85b329d7
+source_hash: a67c2fe9a74a4003
 lang: ja
 status: machine
 fidelity: ok
 title: "Japan BNPL / pay-later 事業者 registry matrix"
-translated_at: 2026-07-28T20:15:36Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan BNPL / pay-later 事業者 registry matrix
@@ -82,6 +82,8 @@ PayPay あと払い は [[payment-firms/paypay|PayPay]] のウォレット UX �
 
 ## 大比較マトリクス表
 
+以下の表は、エントリ出典インベントリの公開一次資料（meti.go.jp, corp.netprotections.com, atone.be）の範囲に限定して読む。^[source:meti.go.jp; corp.netprotections.com; atone.be; kuronekoyamato.co.jp]
+
 | 事業者 | 親会社／所有 | ライセンス登録 | 上場 | 登録年（概算） | 取引モデル | 信用リスクモデル | 資金源 | 主要加盟店カテゴリー | 月間取引高のオーダー | 規制ティア（2020 改正割賦販売法 の枠組み） |
 |---|---|---|---|---|---|---|---|---|---|---|
 | **[[payment-firms/net-protections-hd\|Net Protections / NP 後払い]]** | 独立系（上場） | 個別信用購入あっせん業者 (METI) | TSE PRIME 7383 (上場 2021-12) | 2010 以前 | 取引ごとの請求書；≤2か月または分割 | 事業者が損失を負う（保証モデル） | エクイティ + ABS パイプライン台頭中 | EC 全般（アパレル、化粧品、食品、一般小売） | 年間数千万件の取引 | 個別 |
@@ -115,6 +117,8 @@ METI 後払い 行政処分ページは、後払い 事業者に対するあら�
 
 ### サイド軸 — 信用情報機関の加盟
 
+以下の表は、エントリ出典インベントリの公開一次資料（meti.go.jp, corp.netprotections.com, atone.be）の範囲に限定して読む。^[source:meti.go.jp; corp.netprotections.com; atone.be; kuronekoyamato.co.jp]
+
 | 事業者タイプ | JICC | CIC | KSC（銀行） |
 |---|---|---|---|
 | ピュアプレイ BNPL（NP、atone、Kuroneko、Paidy 等） | 一部 | 一部（Paidy の開示は CIC を参照） | 通常はなし |
@@ -127,6 +131,8 @@ METI 後払い 行政処分ページは、後払い 事業者に対するあら�
 ## 2020 改正割賦販売法 の規制ティアの枠組み
 
 2020 改正割賦販売法（2021-04施行）は、包括信用購入あっせん 事業者に対する、BNPL 事業者のランドスケープに影響を持つ階層化された枠組みを導入した：
+
+以下の表は、エントリ出典インベントリの公開一次資料（meti.go.jp, corp.netprotections.com, atone.be）の範囲に限定して読む。^[source:meti.go.jp; corp.netprotections.com; atone.be; kuronekoyamato.co.jp]
 
 | ティア | しきい値 | 事業者への含意 |
 |---|---|---|
@@ -141,6 +147,8 @@ METI 後払い 行政処分ページは、後払い 事業者に対するあら�
 改正割賦販売法 の下での 2024 の BNPL 明確化ラウンドは、適用除外の後払い と登録された個別信用購入あっせん の間の境界を引き締め続けた — 出現した商品ごとの分類テストについては [[payments/japan-bnpl-credit-purchase-boundary|Japan BNPL and credit-purchase boundary]] を参照。
 
 ## 事業者セット全体にわたる資金源パターン
+
+以下の表は、エントリ出典インベントリの公開一次資料（meti.go.jp, corp.netprotections.com, atone.be）の範囲に限定して読む。^[source:meti.go.jp; corp.netprotections.com; atone.be; kuronekoyamato.co.jp]
 
 | 資金源パターン | 事業者 |
 |---|---|
@@ -175,6 +183,8 @@ METI 後払い 行政処分ページは、後払い 事業者に対するあら�
 
 ## 最近の規制圧力のタイムライン
 
+以下の表は、エントリ出典インベントリの公開一次資料（meti.go.jp, corp.netprotections.com, atone.be）の範囲に限定して読む。^[source:meti.go.jp; corp.netprotections.com; atone.be; kuronekoyamato.co.jp]
+
 | 日付 | 出典 | 何が変わったか |
 |---|---|---|
 | 2018 | METI | 改正割賦販売法 が 加盟店調査義務を強化 — 個別信用購入あっせん 登録の BNPL 事業者への直接的な影響、限界的な加盟店関係のオンボーディングコストを引き上げた |
@@ -191,6 +201,8 @@ METI 後払い 行政処分ページは、後払い 事業者に対するあら�
 
 このマトリクスをスキャンする読者は、「BNPL」を一つの形に平板化すべきではない。上記の BNPL 事業者は、それぞれ異なるリスクと経済的特性を持つ、少なくとも 4 つの異なる取引モデルを使用している：
 
+以下の表は、エントリ出典インベントリの公開一次資料（meti.go.jp, corp.netprotections.com, atone.be）の範囲に限定して読む。^[source:meti.go.jp; corp.netprotections.com; atone.be; kuronekoyamato.co.jp]
+
 | 取引モデル | 事業者 | 主要なリスク特性 |
 |---|---|---|
 | **取引ごとの請求書（≤2か月、一括払い）** | NP 後払い、Kuroneko Atobarai、GMO Postpay、Komoju Atobarai | 短期の債権；取引あたりの平均が低い；事業者レベルのデフォルトリスクが加盟店ミックスによって集中する；コンビニ／銀行振込の回収メカニクス |
@@ -201,6 +213,8 @@ METI 後払い 行政処分ページは、後払い 事業者に対するあら�
 取引モデルが重要なのは：(a) 取引ごとの請求書の事業者は、月次ウォレットの事業者とは非常に異なるユニットエコノミクスを持つ（単一加盟店の手数料 vs 消費者獲得の LTV）；(b) 分割 / 分割払い の事業者は、≤2か月の一括払いの適用除外モデルとは異なる開示義務に改正割賦販売法 の下で直面する；(c) カード発行会社バックエンドの BNPL は規制上はカード発行会社の機能であり、別個の BNPL 商品ではない、ためである。
 
 ## 信用リスクモデルの分解事業者が損失を負う vs 加盟店が損失を負う vs 共有 の線は、マトリクス全体で最も結果に影響する違いの一つである。3 つの主要なパターンが存在する：
+
+以下の表は、エントリ出典インベントリの公開一次資料（meti.go.jp, corp.netprotections.com, atone.be）の範囲に限定して読む。^[source:meti.go.jp; corp.netprotections.com; atone.be; kuronekoyamato.co.jp]
 
 | リスクモデル | 事業者 | 経済的含意 |
 |---|---|---|

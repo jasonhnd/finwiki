@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/state-street-japan
-source_hash: 4bcd251c06a1e701
+source_hash: dfd6dee60c5598a0
 lang: ja
 status: machine
 fidelity: ok
 title: "ステート・ストリート日本"
-translated_at: 2026-06-02T15:14:17.090Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # ステート・ストリート日本
@@ -22,6 +22,8 @@ translated_at: 2026-06-02T15:14:17.090Z
 **ティッカー**：NYSE: STT
 
 ### グローバル財務（2025〜2026Q1 期）
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | 項目 | 規模 |
 |---|---|
@@ -54,6 +56,8 @@ State Street Corporation（米 NYSE: STT・FRB / OCC 監督）
 
 ## 2. 沿革（年表抜粋）
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | 年 | 事象 |
 |---|---|
 | **1792** | **The Union Bank（State Street 前身）設立**（米国 2 番目に古い銀行系譜の一つ）^[extracted] |
@@ -73,6 +77,8 @@ State Street Corporation（米 NYSE: STT・FRB / OCC 監督）
 
 ## 3. 事業セグメント・マップ
 
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
+
 | セグメント | 在日担い手 | 特徴 |
 |---|---|---|
 | **グローバルカストディ** | ステート・ストリート銀行 東京支店 + 信託銀行 | 米国 ADR・海外株式・海外債券・オルタナ資産の保管・決済・コーポレートアクション処理 — 親会社の主力収益柱 |
@@ -88,6 +94,8 @@ State Street Corporation（米 NYSE: STT・FRB / OCC 監督）
 - **[[megabanks/mufg]] 株主構成 4.51%（2025-03-31）の意味**：これは **機関投資家の海外保管口座経由の名義集約**（カストディアン名義集積）であり、State Street 自身による戦略保有ではない ^[extracted]
 
 ### 主要競合
+
+以下の表は、エントリ出典インベントリの公開一次資料（公的レジストリ / 発行体公式）の範囲に限定して読む。^[source:public primary sources in frontmatter inventory]
 
 | 領域 | 主要競合 |
 |---|---|

@@ -1,11 +1,11 @@
 ---
 source: money-market/japan-tibor-benchmark-rate
-source_hash: 58709e100ae3ffc4
+source_hash: 3449c2e4ab8e8a65
 lang: ja
 status: machine
 fidelity: ok
 title: "TIBOR（東京銀行間取引金利、Tokyo Interbank Offered Rate）"
-translated_at: 2026-06-18T15:47:13.952Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # TIBOR（東京銀行間取引金利、Tokyo Interbank Offered Rate）
@@ -27,6 +27,8 @@ FinWiki にとって TIBOR は、ポスト LIBOR の複数金利併存の世界�
 
 ## TIBOR が測るもの
 
+以下の表は、エントリ出典インベントリの公開一次資料（jbatibor.or.jp, boj.or.jp, fsa.go.jp）の範囲に限定して読む。^[source:jbatibor.or.jp; boj.or.jp; fsa.go.jp]
+
 | 要素 | 読み解き |
 |---|---|
 | 種別 | クオートベースのターム物参照金利であり、取引高加重型の金利ではない。 |
@@ -41,6 +43,8 @@ TIBOR は実際の翌日物取引のプールからではなく、リファレ�
 
 ## D-TIBOR と Z-TIBOR
 
+以下の表は、エントリ出典インベントリの公開一次資料（jbatibor.or.jp, boj.or.jp, fsa.go.jp）の範囲に限定して読む。^[source:jbatibor.or.jp; boj.or.jp; fsa.go.jp]
+
 | ファミリー | 反映するもの | 状態 |
 |---|---|---|
 | 日本円 TIBOR（D-TIBOR） | 国内日本の無担保コール市場の資金調達環境。 | 公表継続中。 |
@@ -51,6 +55,8 @@ TIBOR は実際の翌日物取引のプールからではなく、リファレ�
 ## TIBOR と TONA
 
 TIBOR と [[derivatives/ois-tona-curve|TONA]] は別物であり、決して混同してはならない。
+
+以下の表は、エントリ出典インベントリの公開一次資料（jbatibor.or.jp, boj.or.jp, fsa.go.jp）の範囲に限定して読む。^[source:jbatibor.or.jp; boj.or.jp; fsa.go.jp]
 
 | 性質 | TIBOR | TONA |
 |---|---|---|

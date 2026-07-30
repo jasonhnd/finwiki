@@ -1,11 +1,11 @@
 ---
 source: regional-banks/iyogin-hd
-source_hash: c1463f8f9252b108
+source_hash: 765226244296e8d1
 lang: ja
 status: machine
 fidelity: ok
 title: "いよぎんホールディングス"
-translated_at: 2026-07-28T20:55:25Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # いよぎんホールディングス
@@ -42,6 +42,8 @@ translated_at: 2026-07-28T20:55:25Z
 
 ## 2. 沿革
 
+以下の表は、エントリ出典インベントリの公開一次資料（iyogin-hd.co.jp, iyobank.co.jp）の範囲に限定して読む。^[source:iyogin-hd.co.jp; iyobank.co.jp]
+
 | 年月 | 事象 |
 |---|---|
 | 1878 | **第二十九国立銀行** (松山) 設立 — 国立銀行条例下、四国で最古級 |
@@ -52,6 +54,8 @@ translated_at: 2026-07-28T20:55:25Z
 | 2024〜 | 中期経営計画始動 |
 
 ## 3. 事業セグメント・マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（iyogin-hd.co.jp, iyobank.co.jp）の範囲に限定して読む。^[source:iyogin-hd.co.jp; iyobank.co.jp]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|
@@ -75,6 +79,8 @@ translated_at: 2026-07-28T20:55:25Z
 - 法人向け API バンキング・地域 DX 支援
 
 ### 競争マップ (四国 4 県)
+
+以下の表は、エントリ出典インベントリの公開一次資料（iyogin-hd.co.jp, iyobank.co.jp）の範囲に限定して読む。^[source:iyogin-hd.co.jp; iyobank.co.jp]
 
 | 県 | 主要地銀 | 持株会社 |
 |---|---|---|

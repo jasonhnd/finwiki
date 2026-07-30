@@ -3,8 +3,8 @@ title: MUFG 証券ホールディングス
 aliases: ["MUFG Securities Holdings", "MUFG 証券 HD", "三菱 UFJ 証券ホールディングス", "MUSHD"]
 domain: securities-firms
 created: 2026-05-25
-last_updated: 2026-07-29
-last_tended: 2026-07-29
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, securities, mufg-subsidiary, investment-banking, morgan-stanley-jv]
@@ -57,6 +57,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ### 重要年表
 
+The following table is scoped to public primary sources (hd.sc.mufg.jp, mufg.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:hd.sc.mufg.jp; mufg.jp]
+
 | 年月 | 事象 |
 |---|---|
 | 1948 | 三菱証券 / UFJ 証券 各前身（戦後）|
@@ -103,6 +105,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 
 ## 4. 主要業務領域
 
+The following table is scoped to public primary sources (hd.sc.mufg.jp, mufg.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:hd.sc.mufg.jp; mufg.jp]
+
 | 業務 | 主担当 |
 |---|---|
 | **国内リテール** | [[securities-firms/mufg-mums|MUMSS]]（旧三菱 UFJ 証券）|
@@ -115,6 +119,8 @@ This entry sits under [[securities-firms/INDEX|securities-firms INDEX]]. Read it
 | **サステナブルファイナンス** | グループ横断 |
 
 ### vs 国内ライバル
+
+The following table is scoped to public primary sources (hd.sc.mufg.jp, mufg.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:hd.sc.mufg.jp; mufg.jp]
 
 | 項目 | MUFG 証券 HD | [[securities-firms/smbc-nikko|SMBC 日興]] | [[securities-firms/mizuho-securities|みずほ証券]] | [[securities-firms/nomura-hd|野村]] |
 |---|---|---|---|---|

@@ -1,11 +1,11 @@
 ---
 source: payment-firms/kuroneko-atobarai
-source_hash: 70bef8f675796498
+source_hash: 142b2850c305755b
 lang: ja
 status: machine
 fidelity: ok
 title: "クロネコ代金後払いサービス (Kuroneko Atobarai)"
-translated_at: 2026-06-02T14:54:39.078Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # クロネコ代金後払いサービス (Kuroneko Atobarai)
@@ -19,6 +19,8 @@ translated_at: 2026-06-02T14:54:39.078Z
 クロネコ代金後払いサービス は ヤマト HD 系の **ヤマトクレジットファイナンス株式会社** が提供する EC 後払い決済。商品配送と請求書同梱を **クロネコヤマト 宅急便** ネットワーク上で一体運用するため、Net Protections の NP 後払いと並ぶ **配送系 BNPL** の代表例として扱われる。BNPL 議論で「物流網に内包された与信」というカテゴリを示すうえで欠かせない比較対象。
 
 ## 1. 法人・ライセンス境界
+
+以下の表は、エントリ出典インベントリの公開一次資料（kuronekoyamato.co.jp, meti.go.jp）の範囲に限定して読む。^[source:kuronekoyamato.co.jp; meti.go.jp]
 
 | 項目 | 読み方 |
 |---|---|

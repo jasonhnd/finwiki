@@ -1,11 +1,11 @@
 ---
 source: payments/cashless-jp-landscape
-source_hash: afc46eac83ae193f
+source_hash: dad7d7aa34bfc774
 lang: en
 status: machine
 fidelity: ok
 title: "Japan cashless payment landscape"
-translated_at: 2026-06-01T03:31:12.238Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan cashless payment landscape
@@ -29,6 +29,8 @@ The useful FinWiki lens is not "cashless vs cash." It is **which legal balance l
 
 ## Market Structure
 
+The following table is scoped to public primary sources (meti.go.jp, paymentsjapan.or.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; paymentsjapan.or.jp; fsa.go.jp]
+
 | Layer | What it does | Main examples | FinWiki route |
 |---|---|---|---|
 | Credit card | Largest cashless value pool; issuer/acquirer economics; revolving and installment adjacency | [[card-issuers/jcb|JCB]], SMBC Card, MUFG NICOS, Rakuten Card, PayPay Card, AEON Card | [[financial-licenses/INDEX|legal / financial licenses]] |
@@ -43,6 +45,8 @@ The useful FinWiki lens is not "cashless vs cash." It is **which legal balance l
 
 METI's 2025 calculation changed the discussion because Japan moved from "catch-up to 40%" into a higher adoption regime:
 
+The following table is scoped to public primary sources (meti.go.jp, paymentsjapan.or.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; paymentsjapan.or.jp; fsa.go.jp]
+
 | Metric | Latest public anchor | Why it matters |
 |---|---:|---|
 | Cashless payment ratio | 58.0% in 2025 | The old 2025 target was already exceeded; the policy frontier shifts toward 65% by 2030 and longer-term 80% aspiration. |
@@ -51,6 +55,8 @@ METI's 2025 calculation changed the discussion because Japan moved from "catch-u
 | Code payment share of cashless amount | 10.2% in 2025 | Smaller by value but strategically powerful because it owns app behavior, coupons, P2P transfers, and points. |
 
 ## Competitive Map
+
+The following table is scoped to public primary sources (meti.go.jp, paymentsjapan.or.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; paymentsjapan.or.jp; fsa.go.jp]
 
 | Camp | Core advantage | Constraint |
 |---|---|---|
@@ -65,6 +71,8 @@ METI's 2025 calculation changed the discussion because Japan moved from "catch-u
 ## Legal Stack
 
 Cashless products should be decomposed by legal function, not by app brand:
+
+The following table is scoped to public primary sources (meti.go.jp, paymentsjapan.or.jp, fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; paymentsjapan.or.jp; fsa.go.jp]
 
 | Function | First legal question | Typical route |
 |---|---|---|

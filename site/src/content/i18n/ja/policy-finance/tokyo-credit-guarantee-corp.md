@@ -1,11 +1,11 @@
 ---
 source: policy-finance/tokyo-credit-guarantee-corp
-source_hash: a0d4237a8fe2f288
+source_hash: 9267377392f7d786
 lang: ja
 status: machine
 fidelity: ok
 title: "Tokyo Credit Guarantee Corporation"
-translated_at: 2026-06-19T12:43:19.899Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Tokyo Credit Guarantee Corporation
@@ -18,6 +18,8 @@ Tokyo Credit Guarantee Corporation (東京信用保証協会) は、日本の 51
 
 ## 1. 制度的境界
 
+以下の表は、エントリ出典インベントリの公開一次資料（cgc-tokyo.or.jp, zenshinhoren.or.jp）の範囲に限定して読む。^[source:cgc-tokyo.or.jp; zenshinhoren.or.jp]
+
 | Item | Reading |
 |---|---|
 | 日本語名 | 東京信用保証協会 |
@@ -29,6 +31,8 @@ Tokyo Credit Guarantee Corporation (東京信用保証協会) は、日本の 51
 | 公的信用再保険 | [[financial-regulators/jfc|JFC]] の信用保険業務によって再保険される |
 
 ## 2. 機能マップ
+
+以下の表は、エントリ出典インベントリの公開一次資料（cgc-tokyo.or.jp, zenshinhoren.or.jp）の範囲に限定して読む。^[source:cgc-tokyo.or.jp; zenshinhoren.or.jp]
 
 | Function | Why it matters |
 |---|---|

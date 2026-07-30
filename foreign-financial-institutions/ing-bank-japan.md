@@ -3,8 +3,8 @@ title: "アイエヌジーバンク エヌ・ヴイ 東京支店"
 aliases: ["ING Bank Japan", "ING Bank N.V. Tokyo Branch", "ING Wholesale Banking Japan", "アイエヌジーバンク エヌ・ヴイ", "ING Japan"]
 domain: foreign-financial-institutions
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, banking, foreign-bank-branch, netherlands, wholesale-banking, operating-branch]
@@ -27,6 +27,8 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 アイエヌジーバンク エヌ・ヴイ東京支店は、金融庁の外国銀行支店一覧に掲載される Netherlands / ING Bank N.V. の Japan wholesale banking branch。1985 年の東京支店開始以来、structured finance, export / project finance, cash management, lending, and correspondent banking を中心にする B2B branch として読む。
 
 ## 1. License / branch boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, ingwb.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; ingwb.com]
 
 | Item | Notes |
 |---|---|

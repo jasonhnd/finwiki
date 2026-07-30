@@ -3,8 +3,8 @@ title: しずおか FG (Shizuoka FG)
 aliases: ["Shizuoka FG", "Shizuoka Financial Group", "しずおかフィナンシャルグループ", "株式会社しずおかフィナンシャルグループ", "静岡 FG"]
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, regional-bank]
@@ -59,6 +59,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 
 ### 重要年表（抜粋）
 
+The following table is scoped to public primary sources (Wikipedia: しずおかフィナンシャルグループ (2026-05-19 抽出), Wikipedia: 静岡銀行 (2026-05-19 抽出)). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Wikipedia: しずおかフィナンシャルグループ (2026-05-19 抽出); Wikipedia: 静岡銀行 (2026-05-19 抽出)]
+
 | 年月 | 事象 |
 |---|---|
 | 1943 | **静岡銀行 設立**（県内主要 3 行 合併）|
@@ -70,6 +72,8 @@ This entry sits under [[regional-banks/INDEX|regional-banks INDEX]]. Read it aga
 | 2024〜 | 中期経営計画（地銀単独 FG 化後の戦略フェーズ）|
 
 ## 2. 事業セグメント・マップ
+
+The following table is scoped to public primary sources (Wikipedia: しずおかフィナンシャルグループ (2026-05-19 抽出), Wikipedia: 静岡銀行 (2026-05-19 抽出)). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:Wikipedia: しずおかフィナンシャルグループ (2026-05-19 抽出); Wikipedia: 静岡銀行 (2026-05-19 抽出)]
 
 | セグメント | 主要事業者 | 特徴 |
 |---|---|---|

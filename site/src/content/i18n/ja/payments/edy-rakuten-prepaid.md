@@ -1,11 +1,11 @@
 ---
 source: payments/edy-rakuten-prepaid
-source_hash: 08c22a10624c85e9
+source_hash: 893ff6d2fbaaad0d
 lang: ja
 status: machine
 fidelity: ok
 title: "Rakuten Edy: プラットフォーム非依存型 FeliCa 前払式電子マネー"
-translated_at: 2026-07-28T20:15:36Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Rakuten Edy: プラットフォーム非依存型 FeliCa 前払式電子マネー
@@ -19,6 +19,8 @@ translated_at: 2026-07-28T20:15:36Z
 **Rakuten Edy（楽天Edy）** は FeliCa ベースの第三者型前払式支払手段である。前身の bitWallet は 2001-11 に Edy の本格サービスを開始し、2010-01 に楽天グループ入り、2012-06 に楽天Edyへ商号変更した。現法人は 2016-05 に設立、同年 10 月に事業を承継し、2019-04 に楽天ペイメントの完全子会社となった。現在の公式案内は対応 Android のおサイフケータイ / Google ウォレットでの利用を案内する一方、iPhone は非対応としている。残高上限は 5 万円で、原則として現金での払戻しはできない。^[楽天Edy 沿革: https://edy.rakuten.co.jp/company/history.html; サービス情報: https://edy.rakuten.co.jp/terms/info.html; Google ウォレット案内: https://edy.rakuten.co.jp/howto/google/pay/; 対応端末 FAQ: https://support.rakuten-edy.co.jp/faq/show/1179]
 
 ## 発行会社と運営構造
+
+以下の表は、エントリ出典インベントリの公開一次資料（edy.rakuten.co.jp, support.rakuten-edy.co.jp, fsa.go.jp）の範囲に限定して読む。^[source:edy.rakuten.co.jp; support.rakuten-edy.co.jp; fsa.go.jp; felicanetworks.co.jp]
 
 | 項目 | 読み方 |
 |---|---|
@@ -49,6 +51,8 @@ Rakuten Edy は、受容が楽天自身のサービスを超えた第三者加�
 
 Edy の構造的ポジションは、日本の FeliCa 電子マネーの **パイオニア／レガシー** である：
 
+以下の表は、エントリ出典インベントリの公開一次資料（edy.rakuten.co.jp, support.rakuten-edy.co.jp, fsa.go.jp）の範囲に限定して読む。^[source:edy.rakuten.co.jp; support.rakuten-edy.co.jp; fsa.go.jp; felicanetworks.co.jp]
+
 | 年 | 出来事 |
 |---|---|
 | 2001 | bitWallet が Edy をローンチ ── 日本初の主要 FeliCa 電子マネー |
@@ -66,6 +70,8 @@ WAON と nanaco がローンチされた 2007 年時点で、Edy はすでに確
 
 ## 受け入れフットプリント
 
+以下の表は、エントリ出典インベントリの公開一次資料（edy.rakuten.co.jp, support.rakuten-edy.co.jp, fsa.go.jp）の範囲に限定して読む。^[source:edy.rakuten.co.jp; support.rakuten-edy.co.jp; fsa.go.jp; felicanetworks.co.jp]
+
 | 区分 | 受け入れ先 |
 |---|---|
 | コンビニエンスストア | ローソン、ファミリーマート、ミニストップ、デイリーヤマザキ、セイコーマート ── および歴史的には 7-イレブン（ただし 7-イレブンは現在概して nanaco を優先）|
@@ -80,6 +86,8 @@ WAON と nanaco がローンチされた 2007 年時点で、Edy はすでに確
 
 楽天買収後の Edy の主要な顧客獲得レバレッジは、**楽天カード + Edy + 楽天ポイント** のトライアングルである：
 
+以下の表は、エントリ出典インベントリの公開一次資料（edy.rakuten.co.jp, support.rakuten-edy.co.jp, fsa.go.jp）の範囲に限定して読む。^[source:edy.rakuten.co.jp; support.rakuten-edy.co.jp; fsa.go.jp; felicanetworks.co.jp]
+
 | 構成要素 | 役割 |
 |---|---|
 | [[card-issuers/rakuten-card\|Rakuten Card]] | Edy IC を内蔵したクレジットカード提携；楽天カードから Edy へのオートチャージ |
@@ -89,6 +97,8 @@ WAON と nanaco がローンチされた 2007 年時点で、Edy はすでに確
 この三者連携は [[payments/waon-prepaid-aeon|AEON Card + WAON + WAON POINT]] および [[payments/nanaco-prepaid-seven-i|セブンカード・プラス + nanaco + nanacoポイント]] のトライアングルと構造的に類似しているが、単一のリテールアンカー親を持たない。トレードオフは、**より広いプラットフォーム非依存型の受容** と引き換えに **より弱いリテールアンカーのネットワーク効果** である。
 
 ## KPI スナップショット
+
+以下の表は、エントリ出典インベントリの公開一次資料（edy.rakuten.co.jp, support.rakuten-edy.co.jp, fsa.go.jp）の範囲に限定して読む。^[source:edy.rakuten.co.jp; support.rakuten-edy.co.jp; fsa.go.jp; felicanetworks.co.jp]
 
 | 指標 | 読み方 |
 |---|---|

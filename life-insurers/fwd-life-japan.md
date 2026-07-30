@@ -3,8 +3,8 @@ title: "FWD生命保険"
 aliases: ["FWD生命", "FWD Life Japan", "FWD Life Insurance Japan", "FWD生命保険株式会社"]
 domain: life-insurers
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [JapanFG, insurance, life-insurance, foreign-japan, operating-company]
@@ -27,6 +27,8 @@ This entry sits under [[life-insurers/INDEX|life-insurers INDEX]]. Read it again
 FWD生命保険株式会社は、金融庁の生命保険会社免許一覧に掲載される foreign-affiliated Japan life insurer。JapanFG では、外資系 insurance group の日本 operating company として、[[life-insurers/nn-life-japan]]、[[life-insurers/metlife-japan]]、[[life-insurers/manulife-japan]]、[[life-insurers/prudential-japan]] などと比較する。
 
 ## 1. License / group boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, seiho.or.jp, fwdlife.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; seiho.or.jp; fwdlife.co.jp]
 
 | Item | Notes |
 |---|---|

@@ -7,8 +7,8 @@ aliases:
   - "前払式支払手段発行者一覧"
 domain: "payments"
 created: 2026-05-21
-last_updated: 2026-05-21
-last_tended: 2026-05-21
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-21
 confidence: likely
 tags: [payments, prepaid, payment-services-act, registry, fsa, wallet]
@@ -28,6 +28,8 @@ Use this page to separate prepaid / stored-value issuance from funds-transfer, c
 
 ## Boundary
 
+The following table is scoped to public primary sources (fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp]
+
 | Boundary | Treatment |
 |---|---|
 | Third-party prepaid payment instrument issuer | Registered issuer of prepaid value usable at third-party merchants / stores. Full population is controlled by FSA `daisan.xlsx`. |
@@ -37,6 +39,8 @@ Use this page to separate prepaid / stored-value issuance from funds-transfer, c
 | Stablecoin / EPI | Route to [[fintech/japan-stablecoin-regulatory-landscape]] and [[exchanges/jp-exchange-sbi-vc-trade]]. |
 
 ## Registry Snapshot
+
+The following table is scoped to public primary sources (fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp]
 
 | Metric | Reading |
 |---|---:|
@@ -65,6 +69,8 @@ Use this page to separate prepaid / stored-value issuance from funds-transfer, c
 ## Existing Material Wiki Routes
 
 These rows are not a completeness claim for all major prepaid issuers. They are the currently routed material operators already present in FinWiki.
+
+The following table is scoped to public primary sources (fsa.go.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp]
 
 | Official name in FSA list | Registration date | Corporate number | Wiki route | Boundary note |
 |---|---|---:|---|---|

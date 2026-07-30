@@ -1,11 +1,11 @@
 ---
 source: foreign-financial-institutions/natixis-japan
-source_hash: 38495c15336df3ac
+source_hash: 0874a80d8d6c14eb
 lang: en
 status: machine
 fidelity: ok
 title: "Natixis Tokyo Branch (ナティクシス 東京支店)"
-translated_at: 2026-06-18T23:59:13.085Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Natixis Tokyo Branch (ナティクシス 東京支店)
@@ -19,6 +19,8 @@ This entry sits under [[foreign-financial-institutions/INDEX|foreign-financial-i
 Natixis is the Japan banking branch of France / Groupe BPCE's Natixis CIB, listed in the FSA's foreign-bank branch list. It is a relatively new P0  foreign-bank branch anchor that announced becoming a banking branch in 2025 年, and is treated as a phase of expanding from a lending-only presence to broader banking-licensed activities.
 
 ## 1. License / branch boundary
+
+The following table is scoped to public primary sources (fsa.go.jp, apac.cib.natixis.com). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:fsa.go.jp; apac.cib.natixis.com]
 
 | Item | Notes |
 |---|---|

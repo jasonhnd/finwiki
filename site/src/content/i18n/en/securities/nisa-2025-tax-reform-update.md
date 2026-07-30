@@ -1,11 +1,11 @@
 ---
 source: securities/nisa-2025-tax-reform-update
-source_hash: 722d7fa2f5dd2306
+source_hash: 0e14a10a7ff32259
 lang: en
 status: machine
 fidelity: ok
 title: "NISA 2025 Tax Reform Update"
-translated_at: 2026-06-01T04:15:40.092Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 # NISA 2025 Tax Reform Update
 
@@ -26,6 +26,8 @@ This page records the gap between the 2024 framework already captured in [[secur
 [[securities/nisa-2024-flow|NISA 2024 flow]] records the launch of the permanent NISA system effective January 2024. Subsequent annual tax reforms add or modify provisions on top of that base. To avoid editing the 2024 launch page every cycle, FinWiki maintains separate annual update pages so the 2024 launch description remains accurate, and reform deltas accumulate explicitly.
 
 ## Reform Track Map
+
+The following table is scoped to public primary sources (mof.go.jp, fsa.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:mof.go.jp; fsa.go.jp; jsda.or.jp; nta.go.jp]
 
 | Track | Reform direction | FinWiki route |
 |---|---|---|
@@ -61,6 +63,8 @@ Confirm the current statutory position from the MOF Tax Reform Outline text and 
 ## Operational Improvement Items
 
 Recurring practical-operation items in NISA reform discussions include:
+
+The following table is scoped to public primary sources (mof.go.jp, fsa.go.jp, jsda.or.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:mof.go.jp; fsa.go.jp; jsda.or.jp; nta.go.jp]
 
 | Item | Direction |
 |---|---|

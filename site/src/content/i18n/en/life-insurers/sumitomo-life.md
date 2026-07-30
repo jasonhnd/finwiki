@@ -1,11 +1,11 @@
 ---
 source: life-insurers/sumitomo-life
-source_hash: de55c483c87f824a
+source_hash: eb4a5a53abc6f8b8
 lang: en
 status: machine
 fidelity: ok
 title: "住友生命保険相互会社 (Sumitomo Life)"
-translated_at: 2026-06-19T06:09:18.176Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # 住友生命保険相互会社 (Sumitomo Life)
@@ -29,6 +29,8 @@ A **mutual-company-form life insurance company** (members = policyholders) that 
 **Business type**: one corner of the major 4  life insurers (Nippon Life, Dai-ichi Life, Sumitomo Life, Meiji Yasuda Life) ^[extracted]
 
 ### Industry position
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Category | Content |
 |---|---|
@@ -55,6 +57,8 @@ Sumitomo Life（mutual company / unlisted）
 
 ### History ^[extracted]
 
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
+
 | Year/Month | Event |
 |---|---|
 | **1907-05-15** | **Founded** (the former Hinode Life Insurance, of the Sumitomo family lineage) |
@@ -68,6 +72,8 @@ Sumitomo Life（mutual company / unlisted）
 | 2024 | Announced the medium-term management plan (a route of Vitality expansion / strengthening the overseas 2  axis) |
 
 ## 2. Business segment map
+
+The following table is scoped to public primary sources (the public registry and issuer materials cited in the sources inventory). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:public primary sources in frontmatter inventory]
 
 | Segment | Main operators | Characteristics |
 |---|---|---|

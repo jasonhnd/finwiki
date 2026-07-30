@@ -7,8 +7,8 @@ aliases:
   - "日本クレジットカード security controls"
 domain: payments
 created: 2026-05-22
-last_updated: 2026-05-22
-last_tended: 2026-05-22
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-22
 confidence: likely
 tags: [payments, credit-card, security, EMV-3DS, PCI-DSS, PSP, fraud-control]
@@ -37,6 +37,8 @@ Use this page with [[payments/japan-card-issuer-acquirer-processor-split|card is
 
 ## Guideline Snapshot
 
+The following table is scoped to public primary sources (meti.go.jp, j-credit.or.jp, jcb.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; j-credit.or.jp; jcb.co.jp; global.jcb]
+
 | Version / route | Public-source role | Wiki reading |
 |---|---|---|
 | METI 2025-03-05 release | Announces the credit-card security guideline revision. | Public policy anchor for EC merchant security strengthening. |
@@ -58,6 +60,8 @@ Use this page with [[payments/japan-card-issuer-acquirer-processor-split|card is
 
 ## Control Stack
 
+The following table is scoped to public primary sources (meti.go.jp, j-credit.or.jp, jcb.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; j-credit.or.jp; jcb.co.jp; global.jcb]
+
 | Layer | Threat | Control objective | Primary owner | Secondary owner |
 |---|---|---|---|---|
 | Card-data protection | Cardholder data leak. | Avoid storing card data where possible; keep PCI scope controlled. | Merchant / PSP | Acquirer |
@@ -68,6 +72,8 @@ Use this page with [[payments/japan-card-issuer-acquirer-processor-split|card is
 | Chargeback / dispute | Loss allocation and evidence failure. | Preserve order, authentication, delivery, refund, and communication evidence. | Acquirer / merchant | Issuer / PSP |
 
 ## EMV 3-D Secure Route
+
+The following table is scoped to public primary sources (meti.go.jp, j-credit.or.jp, jcb.co.jp). It restates licence / structure / product boundaries from those materials and does not invent market share, ranking, or unstated numerical claims. ^[source:meti.go.jp; j-credit.or.jp; jcb.co.jp; global.jcb]
 
 | Step | Component | Research question |
 |---|---|---|
