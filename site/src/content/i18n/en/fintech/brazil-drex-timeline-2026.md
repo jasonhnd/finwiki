@@ -1,11 +1,12 @@
 ---
 source: fintech/brazil-drex-timeline-2026
-source_hash: ef8ae7c9c13ad6db
+source_hash: 141cd5acdfb0e6cb
 lang: en
+model: source-language-sync
 status: machine
 fidelity: ok
 title: "Brazil DREX Timeline 2024-2026"
-translated_at: 2026-05-31T06:16:15.692Z
+translated_at: 2026-07-29T17:52:19.231Z
 ---
 
 # Brazil DREX Timeline 2024-2026
@@ -15,7 +16,7 @@ translated_at: 2026-05-31T06:16:15.692Z
 This entry sits under [[fintech/INDEX|fintech index]] and is the **Brazil-specific deep dive** that the regional [[fintech/latin-america-cbdc-stablecoin-dollarization]] entry references for DREX mechanics and Pix interplay. Read it alongside the multi-tier CBDC architecture framework at [[fintech/cbdc-multi-tier-architecture-overview]], the tokenized-deposit institutional thesis at [[fintech/institutional-stablecoin-deposit-token-thesis]], and the BIS cross-CBDC interoperability surfaces at [[fintech/mbridge-bis-multi-cbdc-overview]] and [[fintech/bis-project-agora-overview]] for comparative context.
 
 > [!info] TL;DR
-> **DREX** is the operational name of Brazil's CBDC project, run by the **Banco Central do Brasil (BCB)** since 2020. As of 2026-05  it is in **Pilot 2** (expanded multi-asset, multi-participant), with **Pilot 1** (closed-loop reserve-transfer + DvP) completed 2024. The platform runs on a **Hyperledger Besu** permissioned network with a two-tier architecture: BCB issues wholesale CBDC to licensed financial institutions; those institutions issue **tokenized deposits** to end customers. DREX is **explicitly not a retail CBDC token**; the retail-facing layer is tokenized commercial-bank deposits that interoperate with the Pix instant-payment rail. Programmable-money use cases (DvP, escrow, conditional payments, smart-contract-mediated trade finance) are the catalyst for adoption. Competing on the same retail surface is a small but growing **independent BRL-pegged stablecoin** segment (BRLA Digital, Mercado Bitcoin MBRL) running outside the DREX perimeter.
+> **DREX** is the operational name of the Banco Central do Brasil's digital-currency initiative. The BCB describes a multi-layer DLT design in which wholesale Drex represents central-bank money and retail Drex represents tokenised deposits or payment-account balances issued by regulated intermediaries. Pilot Phase 1 ran from July 2023 to October 2024; Phase 2 is now marked **closed** on the BCB pilot page, with its report still under construction as of 2026-07-30. The Phase 1 report states that every client and asset used in the pilot was fictitious. It records a QBFT network with six validator nodes and tests of four named privacy solutions; it is not a production-results report. ^[https://www.bcb.gov.br/content/estabilidadefinanceira/real_digital_docs/piloto/Relatorio_Drex_piloto_fase_1.pdf; https://www.bcb.gov.br/estabilidadefinanceira/piloto-drex]
 
 ## DREX in one paragraph
 
@@ -25,31 +26,34 @@ DREX is a **two-tier tokenization platform**: BCB issues a wholesale CBDC token 
 
 - **2020-08**: BCB launched a CBDC study and signaled intent to issue Real Digital.
 - **2022**: Working groups across BCB technical staff, academia, and industry produced the initial requirements.
-- **2023-03**: The platform was officially named **DREX** (Digital REal eXchange / Digital Real). BCB published the platform-design papers.
+- **2023-08**: The project previously called Real Digital was officially named **Drex**.
 - **2023-05**: BCB selected the technology stack: **Hyperledger Besu**, an enterprise Ethereum-compatible permissioned blockchain implementation.
-- **2023-Q4**: Onboarding of Pilot 1  participants began.
-- **2024**: Pilot 1  closed-loop testing.
-- **2025**: Pilot 1  concluded; Pilot 2  design and onboarding.
-- **2026**: Pilot 2  in progress with expanded participants and asset classes.
+- **2023-Q4**: Onboarding of Pilot 1 participants began.
+- **2023-07 to 2024-10**: Pilot Phase 1 tested privacy, programmability and DvP with simulated assets.
+- **2024-09 onward**: Phase 2 selected use cases and tested participant-managed smart contracts.
+- **By 2026-07-30**: The BCB pilot page marks Phase 2 closed and says its report is under construction.
 
 ### Two-tier issuance model
 
+The table follows the BCB's published distinction between wholesale Drex and retail Drex. It describes the target architecture, not a live retail product; end users did not participate directly in the pilot. ^[https://www.bcb.gov.br/meubc/faqs/p/drex; https://www.bcb.gov.br/content/about/presentationstexts/RG_Digital%20Money%20Summit%202025_may25_.pdf; https://www.bcb.gov.br/estabilidadefinanceira/piloto-drex]
+
 | Layer | Issuer | Token | Holder |
 |---|---|---|---|
-| Wholesale (Tier 1) | BCB | DREX wholesale CBDC | Licensed financial institutions |
-| Retail (Tier 2) | Licensed institution | Tokenized deposit (denominated in BRL) | End customers (businesses + individuals) |
+| Wholesale | BCB | Wholesale Drex representing central-bank money | Authorised financial and payment institutions |
+| Retail | BCB-authorised intermediary | Tokenised demand-deposit or payment-account balance (“retail Drex”) | Customers through wallets maintained by an intermediary |
 
-End users never hold the BCB-issued token directly. They hold tokenized commercial-bank deposits redeemable 1:1  against the wholesale CBDC held by their bank at BCB. This is the same architectural pattern surveyed in [[fintech/cbdc-multi-tier-architecture-three-paradigms]] and the policy-tradeoff analysis in [[fintech/cbdc-multi-tier-architecture-tradeoffs]].
+In the published design, customers access the platform through a regulated intermediary rather than holding the wholesale BCB liability directly. This is the same architectural pattern surveyed in [[fintech/cbdc-multi-tier-architecture-three-paradigms]] and the policy-tradeoff analysis in [[fintech/cbdc-multi-tier-architecture-tradeoffs]].
 
 ### Technology stack
 
 - **Network**: Hyperledger Besu (permissioned, EVM-compatible).
-- **Consensus**: IBFT 2.0  (Istanbul Byzantine Fault Tolerance) variant suitable for known-validator permissioned networks.
-- **Privacy**: Privacy-preserving mechanisms tested across Pilot 1  (encrypted balances and selective disclosure variants from Aztec, Anonymous Zether, and similar primitives) — a known design challenge given the public-by-default nature of EVM.
+- **Consensus**: Quorum Byzantine Fault Tolerant (**QBFT**) with **six validator nodes**, as specified in §2.2.5 of the Phase 1 report.
+- **Privacy**: the Phase 1 report names four tested solutions: **Anonymous Zether, Rayls, Starlight and Microsoft Nova ZKP**.
 - **Smart contracts**: Solidity-compatible; permissioned deployment by approved participants.
-- **Identity / KYC**: Tied to BCB participant licensing; on-chain identity links to participants' off-chain KYC databases.
 
-### Pilot 1  (2024)
+These details are scoped to the deployed Phase 1 pilot described in the report. They should not be converted into claims about a later production topology or privacy stack. ^[https://www.bcb.gov.br/content/estabilidadefinanceira/real_digital_docs/piloto/Relatorio_Drex_piloto_fase_1.pdf]
+
+### Pilot 1 (2024)
 
 **Scope**: Closed-loop test among a curated set of participants. Asset classes:
 - Wholesale CBDC (BCB-issued).
@@ -59,12 +63,14 @@ End users never hold the BCB-issued token directly. They hold tokenized commerci
 
 **Participants** (publicly named in BCB communications across 2023-2024): a consortium that included major Brazilian banks (Itaú, Bradesco, BTG Pactual, Santander Brasil, Banco do Brasil, Caixa Econômica Federal), fintechs (Nubank, Inter), and payment-system entities, along with BCB and Tesouro Nacional.
 
-**Outcomes** (per BCB public communications):
-- DvP across tokenized deposits and tokenized federal debt validated.
-- Smart-contract-mediated escrow and conditional-payment scenarios validated.
-- **Privacy architecture identified as the central unresolved challenge** — Pilot 1  made clear that EVM transparency requires substantive privacy-overlay engineering before a retail rollout is responsible.
+**Reported test boundary**:
+- The use case simulated DvP between tokenised money and tokenised federal public debt for fictitious clients of participating institutions.
+- The report describes implemented and tested flows; it does not document a real-customer escrow product or a production deployment.
+- **Privacy remained a central unresolved challenge**: the report evaluates the four named solutions in the versions deployed for Phase 1 and recommends further work.
 
-### Pilot 2  (2025-2026)
+^[https://www.bcb.gov.br/content/estabilidadefinanceira/real_digital_docs/piloto/Relatorio_Drex_piloto_fase_1.pdf]
+
+### Pilot 2 (2025-2026)
 
 **Expansion axes**:
 - Broader participant set (more banks, payment institutions, fintechs).
@@ -72,90 +78,68 @@ End users never hold the BCB-issued token directly. They hold tokenized commerci
 - More complex use cases (cross-asset DvP, escrow, programmable-payment automation).
 - Continued privacy-architecture work.
 
-**Status as of 2026-05**: Pilot 2  is **in progress**, with no announced production-launch date. BCB has consistently emphasized that the platform will not move to production until privacy challenges are resolved at a level acceptable for retail customer data.
+**Status as of 2026-07-30**: the BCB pilot page marks Phase 2 **closed** and its report “under construction”. The BCB has not announced a production-launch date and says next steps depend on the results, with privacy, data protection and transaction security remaining conditions. ^[https://www.bcb.gov.br/estabilidadefinanceira/piloto-drex; https://www.bcb.gov.br/en/pressdetail/2601/nota]
 
 ## Pix integration · the structural anchor
 
-**Pix** is BCB's instant payment system launched 2020-11, , used by hundreds of millions of accounts, processing hundreds of millions of transactions per day. Pix is the **single most important constraint on DREX adoption** because Pix already delivers:
+**Pix** is the BCB's instant-payment system, launched in November 2020. The BCB presents Pix and Drex on separate official programme pages: Pix is an instant account-to-account payment rail, while the Drex pilot tests a DLT platform for tokenised money and assets. ^[https://www.bcb.gov.br/en/financialstability/pix; https://www.bcb.gov.br/en/financialstability/drex_en]
 
-- Instant 24/7  settlement.
-- Zero or near-zero retail cost.
-- Universal merchant acceptance via QR code.
-- Bank and fintech parity.
-
-A retail CBDC competing with Pix on these axes has **no value proposition** unless it adds programmability, DvP, or cross-asset settlement. This is exactly why DREX is **explicitly not** a retail-CBDC-competing-with-Pix project — instead, DREX is designed to:
-
-1. Sit **upstream** of Pix as a wholesale reserve-transfer rail.
-2. Add **programmability** that Pix does not natively support (smart-contract conditions, DvP, escrow).
-3. **Interoperate with Pix** for the retail leg — a DREX-mediated trade can settle the cash leg via Pix or via tokenized-deposit transfer on DREX itself.
-
-The competitive baseline that Pix sets for any Brazilian-stablecoin project is the same dynamic as QRIS in Indonesia (see [[fintech/indonesia-ovo-stablecoin-route]] and [[fintech/southeast-asia-stablecoin-regulatory-landscape]]) and CoDi in Mexico (see [[fintech/latin-america-cbdc-stablecoin-dollarization]]).
+The cited materials do not publish a joint production architecture or dated evidence that Drex sits upstream of Pix, uses Pix as its cash leg, competes with Pix for adoption, or inherits a particular Pix cost or acceptance level. Any integration claim should cite a BCB technical or operational release that identifies the function, phase and launch status.
 
 ## Programmable-money use cases targeted
 
-| Use case | Description | Why DREX helps |
+The table distinguishes the Phase 1 DvP simulation from examples and Phase 2 themes published by the BCB. Phase 1 involved no real clients or assets, and these rows are not commercial products, production results or validated cost savings. ^[https://www.bcb.gov.br/content/estabilidadefinanceira/real_digital_docs/piloto/Relatorio_Drex_piloto_fase_1.pdf; https://www.bcb.gov.br/en/pressdetail/2573/nota; https://www.bcb.gov.br/meubc/faqs/p/produtos-e-servicos-inteligentes-na-plataforma-drex]
+
+| Use case | Public pilot basis | Test objective |
 |---|---|---|
-| DvP for tokenized federal debt | Tesouro Nacional bonds tokenized; cash leg in tokenized deposit | Atomic settlement vs current T+1/T+2  |
-| Escrow for real estate | Funds locked in smart contract pending title transfer | Removes intermediary; programmable conditions |
-| Trade finance | Letter of credit + invoice + payment automated | Reduces document-handling cost and dispute window |
-| Conditional payment | Payment released on oracle-verified event | New use case not feasible on Pix |
-| Payroll automation | Streamed or scheduled payment | New use case |
-| Cross-asset DvP | Tokenized commodity vs tokenized deposit | New use case |
+| Federal public-bond DvP | Phase 1 use case between simulated clients of different institutions | Test atomic exchange, privacy and programmability |
+| Real-estate transaction | BCB public FAQ example and a Phase 2 theme | Test simultaneous transfer of payment and tokenised title |
+| Receivables discounting | One of 13 selected Phase 2 themes | Test participant-managed smart contracts for credit workflows |
+| Credit collateralised by bank deposit certificates | One of 13 selected Phase 2 themes | Test collateral and credit operations in the platform |
+| Other selected themes | Phase 2 included debentures and additional regulated or non-BCB-regulated assets | Test governance, privacy and regulator participation |
 
 The pattern matches the **institutional / wholesale value proposition** that [[fintech/institutional-stablecoin-deposit-token-thesis]] argues for and the broader **B2B stablecoin growth** trajectory in [[fintech/stablecoin-crossborder-b2b-growth]].
 
-## Competing private BRL stablecoin segment
+## Evidence boundary for private BRL tokens
 
-DREX exists alongside a smaller but growing **independent BRL-pegged stablecoin** segment that runs **outside** the DREX perimeter:
+The cited BCB and BIS materials establish the Drex pilot and selected public-sector interoperability context; they do not verify the current status of a named private BRL token, its issuer, reserve, redemption terms, supported chains, regulatory authorization or market position. ^[https://www.bcb.gov.br/en/financialstability/drex_en]
 
-### BRLA Digital
+Before adding a private-token example, verify each of the following from current entity- and product-specific records:
 
-- BRL-pegged stablecoin issued by BRLA Digital, with Brazilian banking partners.
-- Targets B2B settlement and crypto-native retail flow.
-- Operates as a regulated entity under BCB oversight via the Marco Legal das Criptomoedas (Law 14.478 / 2022) framework.
-- Cross-chain footprint includes Ethereum, Polygon, and other EVM-compatible chains.
+1. the exact issuing legal entity and regulator record;
+2. the token contract, supported network and current availability;
+3. the reserve assets, custody, segregation and attestation date;
+4. redemption rights, fees, eligible customers and geographic scope;
+5. authorization for issuance, distribution, exchange and payment use; and
+6. a reproducible dataset for any volume, ranking or market-share claim.
 
-### Mercado Bitcoin MBRL
+This page therefore does not assign a current status to BRLA or MBRL, describe Mercado Bitcoin as the largest venue, or predict that Drex or private tokens “win” particular user segments.
 
-- Mercado Bitcoin (MB), Brazil's largest digital-asset venue, has piloted a BRL-pegged token (often referenced as MBRL) leveraging BRLA infrastructure.
-- Designed to support retail trading-pair settlement and B2B onramp / offramp.
+## Cross-CBDC interoperability evidence
 
-### Why private BRL stablecoins coexist with DREX
+The official record supports only a limited set of observations:
 
-| Axis | DREX tokenized deposit | Private BRL stablecoin |
-|---|---|---|
-| Issuer | Licensed bank | Non-bank or hybrid issuer |
-| Network | Permissioned Hyperledger Besu | Public EVM chains |
-| Interoperability with DeFi | None (permissioned) | Yes |
-| Cross-border integration | Via BCB and BIS frameworks | Via public chain liquidity |
-| Programmable-money depth | Strong (smart contracts) | Strong (smart contracts) |
-| Retail UX | Tied to participating bank app | Web3  wallet + crypto-native apps |
+- **Project mBridge** — see [[fintech/mbridge-bis-multi-cbdc-overview]]. The BIS listed the Central Bank of Brazil as an observer at the October 2024 handover. Observer status does not establish membership, a joining timetable, DREX integration or interoperability.
+- **Project Agorá** — see [[fintech/bis-project-agora-overview]] and [[fintech/bis-project-agora-vs-mbridge]]. It is a separate BIS experiment; its current official roster must be checked directly, and participation cannot be inferred from other BIS work.
+- **Project Ensemble** — see [[fintech/bis-project-ensemble-overview]] and [[fintech/bis-project-ensemble-vs-mbridge-dual-track]]. It is an HKMA programme; the cited sources do not establish a Drex connection or architectural interoperability.
 
-The two rails serve different user populations. DREX wins **regulated wholesale and bank-customer programmable-payment** use cases. Private BRL stablecoins win **DeFi-native and crypto-native** use cases. The economic similarity to the **issuer-distributor split** in [[fintech/issuer-distributor-incentive-realignment-50-50-model]] is structural.
-
-## Cross-CBDC interoperability surfaces
-
-Brazil's BCB participates in multiple cross-CBDC initiatives that affect DREX's long-run interoperability story:
-
-- **BIS Innovation Hub Eurosystem Centre and Americas Centre** — Brazilian engagement in standards-setting work.
-- **Project mBridge** (PBoC, HKMA, BoT, CBUAE, SAMA earlier; BoT withdrew 2024) — see [[fintech/mbridge-bis-multi-cbdc-overview]]. Brazil is not a full mBridge participant, but observes the architecture.
-- **Project Agora** (BIS + private banks, multi-CBDC + tokenized commercial bank money) — see [[fintech/bis-project-agora-overview]] and [[fintech/bis-project-agora-vs-mbridge]]. Brazil's participation level has been signalled at observational; full integration would shape DREX's cross-border posture.
-- **Project Ensemble** (HKMA + private banks, tokenized money + tokenized assets) — see [[fintech/bis-project-ensemble-overview]] and [[fintech/bis-project-ensemble-vs-mbridge-dual-track]]. DREX's design pattern is closer to Ensemble's tokenized-deposit architecture than to mBridge's wholesale-CBDC-only approach.
-- **Project Nexus** (BIS-led instant payment interlink) — extension to Latin America corridors would directly affect Pix cross-border use cases.
+No cited source establishes that Drex is integrated or interoperable with any of these projects. Observation, workshop participation and architectural resemblance must not be reported as membership or a live connection.
 
 ## Timeline summary
 
+The table's dates and phase status are taken from the BCB's Drex project, pilot and Phase 1 report pages. ^[https://www.bcb.gov.br/content/estabilidadefinanceira/real_digital_docs/piloto/Relatorio_Drex_piloto_fase_1.pdf; https://www.bcb.gov.br/en/financialstability/drex_en; https://www.bcb.gov.br/estabilidadefinanceira/piloto-drex]
+
 | Year | Milestone |
 |---|---|
-| 2020-08  | BCB CBDC study initiated |
-| 2022  | Working group production of requirements |
-| 2023-03  | Platform named DREX |
-| 2023-05  | Hyperledger Besu selected |
-| 2023-Q4  | Pilot 1  onboarding |
-| 2024  | Pilot 1  closed-loop testing concluded |
-| 2025  | Pilot 2  design + initial onboarding |
-| 2026  | Pilot 2  in progress (current) |
-| 2027+ | Possible production launch contingent on privacy resolution |
+| 2020-08 | BCB CBDC study initiated |
+| 2022 | Working group production of requirements |
+| 2023-03 | Platform tests began |
+| 2023-07 | Onboarding of 16 Phase 1 participants began |
+| 2023-08 | Real Digital project renamed Drex |
+| 2024-10 | Phase 1 period ended; privacy remained unresolved |
+| 2024-09 onward | Phase 2 use cases and participant-managed smart-contract work announced |
+| 2026-07-30 | BCB page marks Phase 2 closed; report under construction |
+| Future | No production-launch date announced; next steps depend on pilot results |
 
 ## Related
 
@@ -174,13 +158,14 @@ Brazil's BCB participates in multiple cross-CBDC initiatives that affect DREX's 
 - [[fintech/stablecoin-crossborder-b2b-growth|B2B SC cross-border growth]]
 - [[fintech/japan-stablecoin-regulatory-landscape|Japan SC regulatory landscape]]
 - [[fintech/jp-trust-type-sc-architecture|JP trust-type SC architecture]]
-- [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]]
+- [[fintech/genius-act-501-denylist-mandate|GENIUS Act implementation status]]
 - [[exchanges/global-vasp-regulatory-comparison-matrix|Global VASP regulatory matrix]]
 
 ## Sources
 
-- Banco Central do Brasil — DREX project pages (English and Portuguese), platform-design publications, Pilot 1  outcome communications, Pilot 2  announcements.
-- Banco Central do Brasil — Pix system documentation and statistics.
-- Banco Central do Brasil — Marco Legal das Criptomoedas (Law 14.478 / 2022) implementing circulars and BCB CMN resolutions on VASPs.
-- Banco Central do Brasil — Open Banking / Open Finance documentation as adjacent to DREX architecture.
-- Bank for International Settlements — DREX-referencing working papers, Project Agora, Project Ensemble, Project Nexus, and mBridge materials.
+- [Banco Central do Brasil — Relatório do Piloto Drex, Fase 1](https://www.bcb.gov.br/content/estabilidadefinanceira/real_digital_docs/piloto/Relatorio_Drex_piloto_fase_1.pdf)
+- [Banco Central do Brasil — Drex project overview](https://www.bcb.gov.br/en/financialstability/drex_en)
+- [Banco Central do Brasil — Drex pilot phase status](https://www.bcb.gov.br/estabilidadefinanceira/piloto-drex)
+- [Banco Central do Brasil — Phase 1 report announcement](https://www.bcb.gov.br/en/pressdetail/2601/nota)
+- [Banco Central do Brasil — Phase 2 selected themes](https://www.bcb.gov.br/en/pressdetail/2573/nota)
+- [Banco Central do Brasil — Pix overview](https://www.bcb.gov.br/en/financialstability/pix)

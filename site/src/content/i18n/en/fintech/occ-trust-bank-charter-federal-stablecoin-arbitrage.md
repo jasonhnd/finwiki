@@ -1,85 +1,87 @@
 ---
 source: fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage
-source_hash: 740cc46b4eec7aad
+source_hash: 88d7582b00ca3d1a
 lang: en
+model: claude-haiku-cli-protected
 status: machine
 fidelity: ok
-title: "Federal stablecoin bank arbitrage route using OCC trust bank charter"
-translated_at: 2026-05-31T11:13:44.885Z
+title: "OCC National Trust Bank Route · Bridge's Preliminary Conditional Approval"
+translated_at: 2026-07-30T00:00:00+09:00
 ---
-
-# Federal stablecoin bank arbitrage route using OCC trust bank charter
+# OCC National Trust Bank Route · Bridge's Preliminary Conditional Approval
 
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|Japanese Financial Regulation — Legal System for Tokens, Cryptocurrency, and Payments]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|Japanese Stablecoin Legal System Three-Layer Structure (JPYC, USDC, Project Pax)]] for the broader system boundary.
 
 > [!info] TL;DR
-> **trust bank charter conditional approval** issued by OCC (Office of the Comptroller of the Currency) = a “stablecoin bank” at the federal level, **50 Exempts state Money Transmitter License (MTL) and provides **FedWire direct connectivity**. Bridge is 2026-02 Acquired, it is the first stablecoin issuer in fintech history to reach this route, creating a complacent moat that competitors cannot replicate in the short term.
+> On 2026-02-12, OCC Corporate Decision 1365 granted **preliminary conditional approval** to the proposed Bridge National Trust Bank. This is not a final charter or operating permit. The OCC explicitly states that it will not grant final approval until pre-opening requirements are met, and Bridge cannot commence banking business until that point. The decision records the proposed activities—stablecoin issuance, custody, orchestration, reserve management, and collateral-trustee services—along with detailed conditions, but does not establish that MTLs in all 50 states become uniformly unnecessary, that Bridge has direct Federal Reserve master-account / Fedwire / FedNow connectivity, or that any valuation premium is warranted. ^[source:OCC Corporate Decision 1365, 2026-02-12]
 
-**Core mechanism**:
+## Bridge Decision's Verifiable Status
 
-1OCC trust bank charter is at the federal level, **Supersedes state MTL systems due to Supremacy Clause**
-2. Immediate deposit acceptance/loan provision is not required at the conditional approval stage (avoiding the trigger of the Bank Holding Company Act)
-3Direct connection to **FedWire / Fedwire Securities / FedNow**, payment tier equivalent to JPMorgan / BofA
-4Reserves can be stored in a Fed master account, **eliminates intermediary custodian counterparty risk**
-5.No state filing required for interstate business, **≥50 State × 2-5 Year of Compliance Cost Savings (Estimated $30-100M)**
+| Item | Content Recorded in OCC Decision | Evidence Boundary |
+|---|---|---|
+| Approval Stage | Preliminary conditional approval | Not final approval or operating authorization |
+| Proposed Owner | Wholly owned subsidiary of Bridge Ventures LLC. Bridge Ventures is a wholly owned subsidiary of Stripe. | Parent company relationships do not eliminate approval conditions or individual entity obligations |
+| Proposed Activities | USD stablecoin issuance, digital-asset custody, orchestration, reserve management, collateral trustee | This is a proposed plan and does not mean the bank is currently providing all of these services |
+| Charter Scope | Trust-company operations and activities related thereto | Not identical to a full-service insured depository bank |
+| GENIUS Act | Activities must conform, cease, or be divested as necessary to comply with the Act and implementing rules | Conditional approval is not a blanket exemption from later rules |
+| Opening Gate | Pre-opening examination and final OCC approval required | OCC can modify, suspend, or rescind before final approval |
 
-**Bridge Case Timeline**:
+Source note: all rows come from [OCC Corporate Decision 1365](https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2026/cd1365.pdf), especially pages 1-2, 8-13.
 
-| Point in time | Event |
+## Material conditions
+
+- Minimum **USD 45 million** tier 1 capital.
+- The greater of at least 50% of tier 1 capital or **USD 27.5 million** must be held in Eligible Liquid Assets.
+- A separate 180 days of operating expenses must be maintained in Eligible Liquid Assets.
+- Significant business-plan changes require advance notice and an OCC written non-objection.
+- The bank must not meet the Bank Holding Company Act section 2(c)(1)-(2) definition of "bank".
+- If capital is not raised within 12 months or the bank does not open within 18 months, the preliminary approval expires absent exceptional relief.
+
+These are the Bridge-specific public conditions in the decision. They replace the prior unsourced route estimates of USD 5-20 million capital, generic 12-24 month timing, and state-by-state cost savings.
+
+## State MTL pre-emption: fact-specific, not blanket
+
+OCC Interpretive Letter 1167 concluded that a national bank performing the described federally authorized **fiduciary** activities did not need state money-transmitter licenses for those activities. The letter expressly says that different facts, laws, or regulations could produce a different result. Bridge's decision includes fiduciary and non-fiduciary proposed activities. Therefore, the letter supports a legal route for specified fiduciary powers; it does not establish that every stablecoin, orchestration, affiliate, or non-bank activity is exempt from every state requirement. ^[source:OCC Interpretive Letter 1167, 2020-05-20]
+
+## Federal Reserve and payment-system boundary
+
+The OCC decision says Bridge National Trust Bank will apply for Federal Reserve Bank stock under 12 USC 222. It does **not** state that Bridge has a Federal Reserve master account or direct Fedwire / FedNow access. Federal Reserve materials describe Fedwire participation through an account relationship and applicable agreements; eligibility and access should be verified from Federal Reserve records rather than inferred from the OCC charter stage. ^[source:OCC Corporate Decision 1365; Federal Reserve Fedwire assessment]
+
+## Verified timeline
+
+| Date | Public record |
 |---|---|
-| 2023-2024 | Bridge launches as stablecoin infrastructure company |
-| 2025-Q1 | Sequoia etc. lead, valuation $2.2B |
-| 2025-Q3 | Stripe is $1.1B acquired Bridge (Sequoia was 2 in a month 5 times exit) |
-| 2026-02 | OCC trust bank charter conditional approval 取得 |
-| 2026-Q3 Schedule | GENIUS Act implementation regulations announced, Bridge route to be reference case |
+| 2025 | OCC control numbers identify the de novo charter and waiver applications |
+| 2026-02-12 | OCC granted preliminary conditional approval in Corporate Decision 1365 |
+| Before opening | Capital, governance, systems, compliance, pre-opening examination, and other requirements must be completed |
+| Within 18 months of preliminary approval | Bank must open or the approval expires, absent the limited extension circumstances stated by OCC |
 
-**Comparison with other routes**:
+Source note: [Corporate Decision 1365](https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2026/cd1365.pdf) is the controlling point-in-time source; the OCC [Interpretations & Decisions index](https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/index-interpretations-and-decisions.html) should be checked for a later final decision.
 
-| Route | Federal Backing | MTL Exemption | FedWire | Time Cost | Capital Requirement |
-|---|---|---|---|---|---|
-| OCC trust bank charter | Yes | Yes | Yes | 12–24 Month | $5–20M tier 1 |
-| Apply for each state MTL by state | None | None | None | 3–5 Year(48–50 State) | $100k–500k/state surety bond |
-| NYDFS BitLicense | NY state only | None | None | 18–36 Month | $5M |
-| Credit Portfolio / Industrial Bank Charter | Part | Part | Part | 24–48 Month | $10–50M |
-| Offshore e-money license | None | None | None | 6–12 Month | $2–5M |
+## Comparison checklist
 
-**Trigger condition**:
+Any comparison with a state MTL, NYDFS trust/BitLicense, industrial bank, credit union, or offshore e-money route should use the applicant's actual activities and report separately:
 
-- Business requires USD on-chain tokenization + US payments
-- Reserve size/customer base attracts OCC review (usually >$500M AUM or backed by large strategic shareholders)
-- Strategic shareholder/parent company has the ability to comply with the Bank Holding Company Act (Stripe = important)
+- legal entity and regulator;
+- preliminary, conditional, final, and operating status;
+- activity-specific state-law pre-emption analysis;
+- capital and liquidity conditions;
+- deposit-insurance status;
+- Federal Reserve account and payment-system status;
+- elapsed application time and disclosed cost.
 
-**Versatility/Applicability**:
+This page does not supply cross-route cost, time, or valuation rankings because the cited official sources do not provide a comparable dataset.
 
-- USDC (Circle) has already applied for a similar route (related to First Citizens)
-- PYUSD (PayPal) can be connected indirectly via Paxos
-- USD pegged stablecoin issuers in general
-- Future RWA tokenization platforms (BlackRock BUIDL, Apollo ACRED)
-
-SEC/CFTC jurisdiction background [[fintech/cftc-sec-crypto-jurisdiction|CFTC vs SEC 暗号管轄争い]] A cross-sectional comparison of stablecoin licenses in each country is [[exchanges/global-vasp-regulatory-comparison-matrix|グローバル VASP 規制比較マトリクス]] See.
-
-**Counterexample/realm**:
-
-- Not applicable to non-USD stablecoins (EUR, JPY, SGD require their respective federal regulatory routes)
-- Possibility of OCC withdrawing conditional approval when political cycle changes (2024-2025 multiple precedents)
-- Trust bank ≠ full bank: demand deposit cannot be accepted, loan cannot be provided
-- After the Bank Holding Company Act triggers, the entire Stripe group will be subject to Fed regulation, **ecosystem costs may exceed compliance benefits**
-
-**Valuation/Decision Implications**:
-
-- Bridge valuation 25–35% is derived from OCC charter exclusivity (core explanation of Stripe acquisition premium)
-- Competitors (USDC, PYUSD, USD1) Valuation requires “route delay” discount
-- Investment judgment: the future 18 Maximum number of OCC charters per month (OCC results) 5–10 件 / year) = scarcity premium
-- M&A signal: **Acquisition premium if private stablecoin company reaches OCC conditional stage 3–5×**(The regulatory window logic is [[fintech/regulatory-window-strategic-acquisition|規制ウィンドウ前戦略買収]] )
+SEC / CFTC jurisdiction background is in [[fintech/cftc-sec-crypto-jurisdiction|CFTC vs SEC Cryptocurrency Jurisdiction Dispute]]. Cross-jurisdiction license comparisons belong in [[exchanges/global-vasp-regulatory-comparison-matrix|Global VASP Regulatory Comparison Matrix]], with status and activity scope kept separate.
 
 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501 Denylist]]
-- [[fintech/three-circles-stablecoin-mra-framework|三円 MRA アーキテクチャ]]
-- [[fintech/regulatory-window-strategic-acquisition|規制ウィンドウ前戦略買収]]
+- [[fintech/genius-act-501-denylist-mandate|GENIUS Act implementation]]
+- [[fintech/three-circles-stablecoin-mra-framework|US/EU/Japan stablecoin market-access comparison]]
+- [[fintech/regulatory-window-strategic-acquisition|Strategic Acquisitions Ahead of Regulatory Window]]
 <!-- /wiki-links:managed -->

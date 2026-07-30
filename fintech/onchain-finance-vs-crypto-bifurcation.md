@@ -1,25 +1,25 @@
 ---
-title: ブロックチェーン業界は「オンチェーンファイナンス」と「クリプト」に DNA レベルで分離した
+title: オンチェーンファイナンスとクリプト · 連続体としての比較フレーム
 aliases: [onchain-vs-crypto, blockchain-bifurcation]
 domain: fintech
 kind: knowledge
 topic: onchain-finance-vs-crypto-bifurcation
 created: 2026-05-12
-last_updated: 2026-05-18
-last_tended: 2026-06-23
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-08-07
 confidence: likely
 evidence_count: 3
 challenges: 0
-status: confirmed
+status: active
 tags: [fintech, blockchain, stablecoin]
 sources:
   - "https://docs.digitalasset.com/integrate/devnet/canton-network-overview/index.html"
   - "https://progmat.co.jp/about/"
-  - "Public DTCC, Nasdaq, Broadridge, Circle, and institutional tokenization disclosures."
+  - "https://www.dtcc.com/digital-assets"
 ---
 
-# ブロックチェーン業界は「オンチェーンファイナンス」と「クリプト」に DNA レベルで分離した
+# オンチェーンファイナンスとクリプト · 連続体としての比較フレーム
 
 
 ## Wiki route
@@ -27,25 +27,27 @@ sources:
 This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
 
 > [!info] TL;DR
-> 2024 年以降、ブロックチェーン技術は「クリプト（イデオロギー駆動・パーミッションレス・分散化）」と「オンチェーンファイナンス（純粋テクノロジー駆動・決済効率化）」に完全分離。同じ「ブロックチェーン」という単語でも、文脈次第で全く別物を指す。両者を同じ議論で扱うと話が噛み合わない。
+> ブロックチェーン案件は、公開参加型ネットワークから許可型の機関金融基盤まで連続的に分布する。「クリプト」と「オンチェーンファイナンス」の二分類は議論を整理する分析フレームとして有用だが、Circle のように複数領域で活動する企業やハイブリッド設計もあり、完全分離を示す事実分類ではない。
 
 ## Conclusion
 
-クリプトとオンチェーンファイナンスは「DNA が違う」。両者は **もう相容れない**。
+公開参加性、本人確認、法的決済資産、運営主体を分解して比較する。二つの列は理想型であり、個別ネットワークを自動的にどちらかへ分類しない。
 
-| 観点 | クリプト | オンチェーンファイナンス |
+下表は [Canton Network の公開資料](https://docs.digitalasset.com/integrate/devnet/canton-network-overview/index.html)、[Progmat の概要](https://progmat.co.jp/about/)、[DTCC Digital Assets](https://www.dtcc.com/digital-assets) を参照した分析用の両極モデルである。
+
+| 観点 | 公開参加型の一例 | 許可型・機関金融型の一例 |
 |---|---|---|
-| 駆動原理 | イデオロギー（permissionless, decentralization, finality） | 純粋テクノロジー（決済効率化） |
-| リード企業 | Tether (USDT), Circle (USDC クリプト系) | Digital Asset (Canton Network), Circle (Arc Network 系統合) |
-| 提携先 | 暗号資産交換業者 | DTCC・Nasdaq・Broadridge・三メガ・[[banking/minna-bank-baas-model|信託銀行群]] |
-| KYC | パーミッションレス前提 | 機関投資家グレード KYC 必須 |
-| 文化 | アンチ既存金融 | アンチクリプト（Canton 系は完全 anti-crypto 立ち上げ） |
+| 参加 | プロトコル上は公開。アプリ、発行体、取引所で制限される場合がある | 参加者・ノード・取引可視性を契約と権限で管理 |
+| 主な目的 | オープンな資産移転、取引、担保利用 | 規制対象資産の発行、決済、照合、プライバシー管理 |
+| 代表的な運営形態 | 財団、DAO、民間発行体、分散した検証者 | 金融機関コンソーシアム、技術事業者、規制対象事業者 |
+| KYC | 基盤層にない場合でも、法定通貨接続・発行・取引所で実施され得る | 参加・口座・資産移転の各層で組み込まれることが多い |
+| 相互運用 | 公開チェーン、ブリッジ、取引所 | 許可型ネットワーク、既存市場基盤、限定的な外部接続 |
 
 ## Reasoning
 
-- 単一の「ブロックチェーン」議論は 2023 年以前のもの。2024-2025 で技術スタックも企業群も価値観も完全分岐
-- クリプトの「みんな chain で誰でも触れる」は機関投資家決済とは構造的に両立しない（→ [[fintech/institutional-stablecoin-deposit-token-thesis|institutional-stablecoin-deposit-token-thesis]]）
-- [[systems/canton-overview|Canton Network]] を運営する Digital Asset 社は「クリプトの使い方は間違っている」と明言して立ち上がっている
+- 「ブロックチェーン」という語だけでは、参加権、法的請求権、決済資産、データ可視性を特定できない。
+- 公開チェーンでも発行体・取引所レベルの KYC は可能であり、許可型基盤でも外部ネットワークとの接続を設計できる。
+- [[systems/canton-overview|Canton Network]] などの資料は機関向けプライバシーと相互運用を説明するが、「反クリプト」という価値判断までは根拠付けない。
 
 ## Applicable When
 

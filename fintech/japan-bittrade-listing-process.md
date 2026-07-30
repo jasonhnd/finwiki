@@ -1,186 +1,98 @@
 ---
-title: 日本 BitTrade 上場プロセス — 登録交易所 Listing の 8 段階構造
+title: 日本の暗号資産取扱開始プロセス · BitTrade を含む公開資料ベースの境界
 aliases: [bittrade-listing, jp-cex-listing, 日本上場プロセス]
 domain: fintech
 created: 2026-05-13
-last_updated: 2026-05-26
-last_tended: 2026-06-23
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-08-07
 confidence: likely
 tags: [fintech, needs-verification]
 status: active
 sources:
   - https://www.bittrade.co.jp/
-  - https://jvcea.or.jp/about/list/
+  - https://jvcea.or.jp/guidelines/
+  - https://jvcea.or.jp/cms/wp-content/themes/jvcea/images/pdf/public/public_20240510-02.pdf
   - https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx
+  - https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.pdf
+  - https://www.fsa.go.jp/common/shinsei/denanchuukai/index.html
+  - https://www.fsa.go.jp/news/r6/20240830/resultsandplans.pdf
   - https://www.bittrade.co.jp/news/
-note: ユーザー註「必ずしも正確とは限らず、継続的にトラッキング要」· 実案件で逐次検証
 ---
 
-# 日本 BitTrade 上場プロセス — 登録交易所 Listing の 8 段階構造
+# 日本の暗号資産取扱開始プロセス · BitTrade を含む公開資料ベースの境界
 
 
-## Wiki route
+## ウィキ上の位置づけ
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for adjacent context and [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] for the broader system boundary.
+この項目は [[fintech/INDEX|フィンテック索引]] の配下にある。隣接する文脈は [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]]、より広いシステム境界は [[fintech/japan-stablecoin-regulatory-landscape|日本のステーブルコイン法制度の三層構造（JPYC・USDC・Project Pax）]] とあわせて読む。
 
-> [!info] コア認知 `[V?]`
-> 日本の登録交易所(BitTrade 等)の上場プロセスは、本質的に「ビジネスがまとまれば上場」という話ではなく、**ある token を日本の規制体系内で長期運営可能な金融商品に変換する**プロセスである。JVCEA 自律規則 + FSA 監督 + 法律意見書 + 技術安全審査 + AML/KYC + 流動性安定性の 6 重審査を同時にクリアする必要がある。
+> [!info] 要約
+> 日本の登録暗号資産交換業者（BitTrade 等）が新規銘柄を取り扱う際は、業者自身の社内審査、JVCEA の自主規制規則に基づく確認・届出、当局への届出・報告を区別して追う必要がある。公開資料だけから BitTrade 固有の「8 段階」「所要期間」「費用」「マーケットメイク条件」を確定することはできない。
 
-## 検証ステータスの凡例
+## 公開資料で確認できる制度境界
 
-| ラベル | 意味 |
-|------|------|
-| `[V?]` | 未検証 — 暫定的にユーザーメモ |
-| `[V~]` | 部分的に検証済み |
-| `[V✓]` | 確認済み |
-| `[V✗]` | 反証済み |
+下表は [金融庁の登録暗号資産交換業者一覧](https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.pdf)、[金融庁の電子決済手段・暗号資産サービス仲介業に関する申請案内](https://www.fsa.go.jp/common/shinsei/denanchuukai/index.html)、[JVCEA 規則・ガイドライン](https://jvcea.or.jp/guidelines/)、および [暗号資産の取扱いに関する規則・ガイドライン](https://jvcea.or.jp/cms/wp-content/themes/jvcea/images/pdf/public/public_20240510-02.pdf) に基づく制度上の区分である。個別 token の該当性は事実関係ごとに判断される。
 
-検証の優先順位:実際の上場案件 → JVCEA / FSA 公式文書 → BitTrade 内部コンタクト → コンサルタント / 法律事務所。
-
-## 8 段階の全景
-
-```
-1. 初期ビジネス接触 (Business Screening)
-   ↓
-2. プロジェクト・デューデリ (Due Diligence · 会社/Token/市場 3 層)
-   ↓
-3. 法務 / コンプラ審査 (Token 分類 + 証券判定)
-   ↓
-4. 技術安全審査 (Smart Contract + Chain Risk)
-   ↓
-5. JVCEA / FSA 対応 (自律審査 + 金融庁折衝)
-   ↓
-6. 流動性とマーケットメイク (MM Agreement + 初期深さ)
-   ↓
-7. 上場実行 (Go Live · 技術連携 + 広報)
-   ↓
-8. 上場後の継続モニタリング (Post Listing Monitoring)
-```
-
-## 第 1 段階: 初期ビジネス接触 `[V?]`
-
-**プロジェクト側の提出物**: Whitepaper · Tokenomics · Team · 資金調達情報 · GitHub · Audit 報告 · 法的構造 · Token 用途。
-
-**BitTrade の判断基準**(海外 CEX と顕著に異なる):日本ユーザー基盤 · 取引量 / OTC キャパシティ · IEO 適性 · 長期協業の可能性 · **FSA に潰されにくいか**。
-
-> 日本の交易所が最も気にするのは話題性ではなく、「規制当局に説明できるか / 事故を起こさないか」である。
-
-## 第 2 段階: プロジェクト・デューデリ `[V?]`
-
-- **会社層**: 登記主体 · 株式構成 · UBO · 取締役 · 制裁名簿 · 銀行取引 · 過去訴訟
-- **Token 層**: 総量 · 発行権限 · Admin Key · Freeze · Blacklist · Mint/Burn · Vesting · Unlock — 重点は**凍結能力 / upgrade 権限 / owner 境界**(USDC / JPYC / XAU₮ を参照)
-- **市場層**: マーケットメイカー · 流動性ソース · OTC バックアップ · 暴落 / wash trade リスク(FSA は market manipulation に対する感度が極めて高い)
-
-## 第 3 段階: 法務 / コンプラ審査 `[V~]`
-
-> Token 分類表 = `[V✓]`(資金決済法 / 金商法 / 電子決済手段 三軌は複数ソースで検証済み) · 「偽 Utility, 真の証券」レッドライン = `[V?]`
-
-| 種別 | 規制法 | 実際の規制主体 |
-|------|--------|--------------|
-| 暗号資産 | 資金決済法 | 関東財務局 · 暗号資産交換業 |
-| 有価証券 / ST | 金商法(FIEA) | 第一種金商業 or PTS |
-| 電子決済手段(ステーブルコイン) | 電子決済手段等取引業 | 2026 制度 |
-| 前払式 | 前払式支払手段 | 限定用途 |
+| 種別 | 主な法源 | 監督当局 | 取扱事業者に必要となる主な登録・許可 |
+|---|---|---|---|
+| 暗号資産 | 資金決済法 | 金融庁 / 所管財務局 | 暗号資産交換業者の登録。BitTrade は金融庁の登録一覧で現在の登録内容を確認する |
+| 有価証券 / ST | 金融商品取引法 | 金融庁 / 所管財務局 | 業務設計に応じた第一種金融商品取引業等の登録。PTS 業務は別途認可を要する場合がある |
+| 電子決済手段（法定通貨連動型等） | 資金決済法 | 金融庁 / 所管財務局 | 売買・交換・管理等を行う電子決済手段等取引業者の登録。発行主体側の業法上の資格とは分けて確認する |
+| 前払式支払手段 | 資金決済法 | 金融庁 / 所管財務局 | 自家型の届出または第三者型の登録など、発行・利用形態に応じた手続。暗号資産交換業の登録とは別制度 |
 
 詳細は [[fintech/japan-financial-regulation|日本金融規制 — 三法体系]] を参照。
 
-### 「偽 Utility, 真の証券」レッドライン
+暗号資産、有価証券 / ST、電子決済手段、前払式支払手段では、適用法と取扱事業者の資格が異なる。商品名や「utility」という表示だけで分類せず、法的権利、償還、利益分配、発行・管理権限を確認する。
 
-危険シグナル(証券判定されやすい):分配金 · 元本保証 · 買戻し約束 · 固定利回り · NAV 対応 · 債権マッピング。
+## 公開資料から確認できる取扱開始フロー
 
-> 「契約上 buyback を約束できない」は、日本で証券分類を回避するための典型的な経験則。
+下表は [JVCEA の取扱規則](https://jvcea.or.jp/cms/wp-content/themes/jvcea/images/pdf/public/public_20240510-02.pdf) と [金融庁 2024 事務年度金融行政方針](https://www.fsa.go.jp/news/r6/20240830/resultsandplans.pdf) に基づく。CASC の適用や本邦初銘柄 / IEO などで手続は異なるため、単純な一律承認フローとして扱わない。
 
-## 第 4 段階: 技術安全審査 `[V?]`
+| 区分 | 公開資料で確認できる内容 | 公開資料だけでは確定できない内容 |
+|---|---|---|
+| 交換業者の審査 | 発行、取引、利用、関係者、台帳技術、リスク、利用者への情報提供を確認 | BitTrade 固有の採点、社内委員会、案件別優先順位 |
+| JVCEA | 自主規制規則に基づく確認、届出、報告の経路 | 個別案件の非公開照会内容、確約された所要日数 |
+| 当局関係 | 登録交換業者は金融庁・財務局の監督下にあり、必要な届出・報告を行う | 金融庁が全銘柄を一律に個別承認するという直列手続 |
+| 取扱開始 | 事業者が取扱銘柄、開始日、注意事項を公表する | 公表前の確定日、費用、流動性・マーケットメイク契約 |
+| 継続対応 | 自主規制規則、法令、事業者開示に従い情報提供とリスク管理を続ける | 非公開の監視しきい値や契約条件 |
 
-- **Smart Contract**: 監査報告(必須) · Upgradeability / Proxy · MultiSig · Emergency Pause · Reentrancy · Oracle リスク
-- **Chain リスク**: 公開チェーンの安全性 · チェーン停止可能性 · Bridge リスク · クロスチェーン複雑度
+JVCEA 自主規制の全景は [[exchanges/jvcea-self-regulatory-overview|JVCEA 自主規制概要]]、交換業登録は [[exchanges/fsa-vasp-registration-system|FSA VASP 登録制度]] を参照する。
 
-> 日本の機関は **per-chain issuance** を bridge より好む(規制事故の帰責境界が明確)。
+## BitTrade 固有情報の境界
 
-## 第 5 段階: JVCEA / FSA 対応 `[V?]`
-
-**よくある誤解**: 「日本の交易所が単独で上場を決める」 → ❌
-
-```
-BitTrade → JVCEA(自律審査) → FSA(金融庁)
-```
-
-**提出資料リスト**: リスク説明 · 利用者保護策 · AML リスク分析 · 市場操作リスク評価 · Token 分類の法律意見書 · 技術リスク説明 · 流動性プラン。JVCEA 自律審査の全景は [[exchanges/jvcea-self-regulatory-overview|JVCEA 自律規則概要]] を、FSA 登録の流れは [[exchanges/fsa-vasp-registration-system|FSA VASP 登録制度]] を参照。
-
-## 第 6 段階: 流動性とマーケットメイク `[V?]`
-
-**多くのプロジェクトが死ぬポイント**。注目点:上場後の volume · spread · OTC 引受 · MM の安定性。
-
-通常要件:MM agreement · Liquidity provider のロックアップ · 初期深さのコミットメント · マーケットメイク資金の保証。
-
-## 第 7 段階: 上場実行 `[V?]`
-
-- **技術連携**: Wallet 統合 · Deposit / Withdrawal · Memo/tag · Hot/Cold wallet · Monitoring · Travel Rule
-- **広報**: プレスリリース · AMA · Campaign · OTC プロモーション · 日本 KOL
-
-## 第 8 段階: 上場後の継続モニタリング `[V?]`
-
-**日本では「上場で終わり」ではない**。継続モニタリング:Token unlock スケジュール · クジラの送金 · 市場操作 · 法令変更 · プロジェクト運営 · Treasury の健全性。
-
-深刻時の対応手段:出金停止 → 上場廃止 → リスク告知。
-
-## IEO 追加層 `[V?]`
-
-IEO は標準上場プロセスに 1 層追加:資金調達構造設計 · 日本ユーザー向け販売規則 · Lockup · Vesting スケジュール · 投資者保護 · 募集説明書 · リスク開示。
-
-## 日本 vs 海外 上場比較 `[V?]`
-
-| 項目 | 日本 BitTrade | 海外一般 CEX |
-|------|---------------|--------------|
-| 法務審査 | 極めて重い | 軽め |
-| JVCEA/FSA の関与 | あり | なし |
-| 証券判定 | 極めて厳格 | 緩い |
-| AML 要件 | 極めて重い | 中程度 |
-| 技術監査 | 深い | ケースバイケース |
-| 上場スピード | 遅い(数か月~1年+) | 速い(数週間) |
-| 上場コスト | 高い | 中 |
-| 持続可能性 | 強い | 変動大 |
-
-## BitTrade が真に気にする 7 つの指標 `[V?]`
-
-多くのプロジェクトが「技術が優秀なら上場できる」と誤解する。実際の優先順位:
-
-1. 長く存続できるか
-2. 規制事故を起こさないか
-3. 交易所が FSA から叱責されないか
-4. ユーザークレームを引き起こさないか
-5. AML がクリーンか
-6. Token 価格が安定しているか
-7. 証券と定義されにくいか
+[金融庁の登録一覧](https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx) で登録事業者を、[BitTrade 公式サイト](https://www.bittrade.co.jp/) と [ニュース](https://www.bittrade.co.jp/news/) で公開済み取扱銘柄・開始日・注意事項を確認する。これらは、未公表案件の審査期間、費用、採用確率、マーケットメイク条件を示さない。
 
 ## Applicable When
 
-- 日本の登録交易所への上場が必要なプロジェクトの評価
-- 海外 token プロジェクトから「日本上場にどれくらい時間 / 難易度がかかるか」と聞かれた際の回答フレーム
-- 手持ち token 設計が証券化レッドラインに触れるかの自己評価
-- BitTrade / bitbank / Coincheck 等の登録交易所と初回ビジネス接触する前のセルフチェック
+- 日本の登録暗号資産交換業者による取扱いを検討するプロジェクトの初期評価
+- 海外 token プロジェクトから日本での所要時間や難易度を聞かれ、公開情報と未確認事項を分けて答えるとき
+- token の法的分類と、取扱事業者に必要な資格を整理するとき
+- BitTrade / bitbank / Coincheck 等との接触前に、公開制度と事業者開示を確認するとき
 - 日本 VASP 規制のタイムライン背景は [[exchanges/jp-vasp-regulatory-timeline|日本 VASP 規制タイムテーブル]] を参照
 
-## 未検証項目
+## 公開資料だけでは確定できない項目
 
-- [ ] JVCEA 審査の実際の所要期間
-- [ ] FSA 関与のトリガー条件
-- [ ] MM agreement の標準条項(初期深さ / spread / 期間)
-- [ ] 上場申請の実際の reject 率
-- [ ] BitTrade 内部審査委員会の構成
-- [ ] IEO vs 直接 listing のコスト / 時間差
+- 個別案件における JVCEA 確認・届出の所要期間
+- 個別案件で追加照会や当局報告が必要になる条件
+- 流動性・マーケットメイク契約の条件
+- 申請・相談案件の採用率
+- IEO と通常の取扱開始における案件別の費用・時間差
 
 ## Sources
 
-- 公開:JVCEA 自律規則 / FSA 監督指針 / 資金決済法
-- 業界一般:日本登録 CEX の上場実務
+- 金融庁 — 暗号資産交換業者登録一覧: https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.xlsx
+- JVCEA — 規則・ガイドライン: https://jvcea.or.jp/guidelines/
+- JVCEA — 暗号資産の取扱いに関する規則・ガイドライン: https://jvcea.or.jp/cms/wp-content/themes/jvcea/images/pdf/public/public_20240510-02.pdf
+- 金融庁 — 2024 事務年度金融行政方針: https://www.fsa.go.jp/news/r6/20240830/resultsandplans.pdf
+- BitTrade — 公式サイト: https://www.bittrade.co.jp/
+- BitTrade — ニュース: https://www.bittrade.co.jp/news/
 
 ## Related
 <!-- wiki-links:managed -->
-- [[INDEX|Wiki Index]]
+- [[INDEX|ウィキ索引]]
 - [[fintech/japan-financial-regulation|日本金融規制]]
-- [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造]]
+- [[fintech/japan-stablecoin-regulatory-landscape|日本のステーブルコイン法制度の三層構造]]
 - [[fintech/gold-tokenization-scheme-comparison|日本におけるトークン発行スキーム比較]]
 - [[fintech/japan-ecisb-license|日本 ECISB ライセンス]]
 <!-- /wiki-links:managed -->

@@ -1,54 +1,60 @@
 ---
 source: fintech/dual-currency-stablecoin-arbitrage-overview
-source_hash: 1a069b00d6a8da06
+source_hash: 9f76cbaa686f9b6a
 lang: ja
+model: manual-issue-239-provenance-repair
 status: machine
 fidelity: ok
-title: "二通貨ステーブルコイン・アービトラージ · §501 時代における唯一の合法 FX オンチェーン化パス"
-translated_at: 2026-06-02T13:21:55.062Z
+title: "二通貨ステーブルコイン交換 · オンチェーン FX の実行経路と制約"
+translated_at: 2026-07-29T16:39:22.568Z
 ---
-# 二通貨ステーブルコイン・アービトラージ · §501 時代における唯一の合法 FX オンチェーン化パス
+# 二通貨ステーブルコイン交換 · オンチェーン FX の実行経路と制約
 
 ## ウィキ上の位置づけ
 
-この項目は [[fintech/INDEX|fintech index]] の配下にあります。隣接する文脈は [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]]、より広いシステム境界は [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度の三層構造（JPYC・USDC・Project Pax）]] とあわせて読んでください。
+この項目は [[fintech/INDEX|フィンテック索引]] の配下にある。隣接する文脈は [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]]、より広いシステム境界は [[fintech/japan-stablecoin-regulatory-landscape|日本のステーブルコイン法制度の三層構造（JPYC・USDC・Project Pax）]] とあわせて読む。
 
-> [!info] 要約
-> GENIUS Act §501 は ステーブルコインの発行 / 保有 / 送金のコンプライアンス境界を限定し · **「二通貨 / 多通貨 stablecoin の相互交換」のみが明確に合法なオンチェーン FX パス**となった。USDC ↔ EURC ↔ JPYC 三角アービトラージ構造はそのサンプル —— 相互交換コストは 0.01% まで圧縮可能(伝統的クロスボーダー FX 1-3% の 1/100)であり、$33T のグローバル決済軌道上で 1% を捕捉しても $3.3B/年の収益機会となる。
+> [!info] TL;DR
+> USDC・EURC・JPYC の交換は、複数の発行会社、法定通貨口座、取引所または DEX、KYC/AML 管理をまたぐ。Circle Mint は適格な機関顧客に USDC / EURC の発行・償還と通貨交換機能を提供するが、JPYC は別の発行会社・別のアクセス経路であり、三角取引の流動性や裁定利益を保証しない。GENIUS Act も、個別の交換を一律に「合法な FX」と認定するものではない。
 
-## 主要事実
+## 主要事項
 
-- USDC 流通量 $40-45B · EURC $200-300M · JPYC $50M+(2025.Q4) ^[extracted]
-- 三角アービトラージの純コスト ~10-20 bp(0.01-0.02%)· 伝統的 FX 1-3% 総コスト ^[extracted]
-- グローバルクロスボーダー決済年間ボリューム $33T(BIS 2024) · 1% 捕捉 = $3.3B/年の機会 ^[extracted]
-- 2026.05 三角アービトラージが Curve / Uniswap V4 hooks プールで実稼働 ^[extracted]
+- Circle Mint は適格な機関顧客向けで、USDC と EURC の 1:1 発行・償還および通貨交換を提供する。個人向けサービスではない。
+- USDC / EURC の対応チェーンは Circle が一覧で管理する。JPYC の対応チェーン、償還条件、取扱事業者は JPYC の公開情報で別途確認する必要がある。
+- DEX のスリッページ、ガス、取引手数料、法定通貨 FX、入出金時間を合算しなければ、従来型送金とのコスト比較はできない。
+- 2026-05 時点の公開一次資料から、USDC–EURC–JPYC の常設三角プールや恒常的な裁定幅は確認できない。
 
-## 仕組み
+## 仕組み / 実行方法
 
-**アービトラージ経路**:USDC (Circle USD 1:1) ↔ EURC (Circle EUR 1:1) ↔ [[payment-firms/jpyc|JPYC]] (JPYC Inc. JPY 1:1) ↔ USDC ポジション解消。
+**実行候補経路**：USDC ↔ EURC は Circle Mint の適格性・対応地域・FX 見積りに従う。[[payment-firms/jpyc|JPYC]] を含む取引部分は、JPYC の発行・償還条件と実際の取引所 / DEX 板を別に確認する。
 
-| ステップ | 操作 | コスト |
+下表は取引手順の分析用チェックリストであり、実在する一つのプールや固定コストを示すものではない。根拠は [Circle Mint](https://developers.circle.com/circle-mint)、[対応通貨・チェーン一覧](https://developers.circle.com/circle-mint/supported-chains-and-currencies)、[JPYC 公式情報](https://jpyc.jp/)。
+
+| ステップ | 操作候補 | 実行前に確認するコスト / 制約 |
 |---|---|---|
-| 1 | USDC → EURC 交換（Circle Mint API） | ~0 bp + 鋳造 / 償還手数料 |
-| 2 | EURC → JPYC(オンチェーン DEX · Curve / Uniswap V4 hooks) | 5-15 bp スリッページ |
-| 3 | JPYC → USDC ポジション解消 | ~0 bp + mint/burn fee |
-| 純 | クロスカレンシー三角アービトラージ | ~10-20 bp |
+| 1 | USDC と EURC の交換 | Circle Mint の利用資格、提示 FX レート、銀行入出金費用、対応地域 |
+| 2 | EURC と JPYC の交換 | 実在する取引会場、板の厚さ、スリッページ、ガス、相手方リスク |
+| 3 | JPYC と USDC の交換 | JPYC の発行・償還経路、取引所手数料、送金・決済時間 |
+| 全体 | クロスカレンシー取引 | 全取引部分の同時約定可能性、価格変動、KYC/AML、税務・各国 FX 規制 |
 
-対比:SWIFT + correspondent banking 1-3% all-in · T+1/T+2;Wise / Remitly 0.5-1% · 数時間;二通貨 stablecoin 0.01-0.02% · 秒単位 ファイナリティ。**100× コスト削減 + 数百倍のスピード**であり、[[fintech/cross-border-sc-via-swift-api|ステーブルコイン × SWIFT API クロスボーダー]] とは反対方向を進む(後者は SC を SWIFT に埋め込む、前者は迂回)。
+したがって、比較すべきなのは「オンチェーン対 SWIFT」という抽象的な二択ではなく、同一金額・同一通貨ペア・同一利用者条件における全費用と最終着金時間である。
 
-## 起源と展開
+## 成り立ちと展開
 
-2018-2023 = Circle USDC 独占 · EURC は 2022 にローンチも流動性低。2024 [[fintech/mica-overview|MiCA]] 第 IV 編(EMT)がユーロ stablecoin の複数発行体構造を起動。2024-2025 日本資金決済法の新フレームの下で JPYC が初の円 stablecoin に。2025.07 [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501]] 施行後 = 法的余地が明確化:「二通貨 swap ≠ FX 業務」 · これは 2 つの独立した 1:1 token の資産配分である。2026 三角アービトラージが理論から DEX 実プロダクトへ。
+USDC、EURC、JPYC はそれぞれ異なる法域・発行会社・償還経路を持つ。MiCA、日本の改正資金決済法、米国の GENIUS Act は発行・仲介・準備資産などの枠組みを整えるが、複数通貨トークンの交換に適用される FX、送金、税務その他の義務を消去しない。公開一次資料で特定の市場稼働を確認できるまでは、三角取引は実装済み商品ではなく分析シナリオとして扱う。
 
 ## 関連項目
 <!-- wiki-links:managed -->
-- [[INDEX|Wiki Index]]
-- [[fintech/dual-currency-stablecoin-arbitrage-legal-hack|二通貨アービトラージ · §501 リーガル hack]]
-- [[fintech/usd-stablecoin-interchange|USD stablecoin interchange モデル]]
-- [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501 Denylist]]
+- [[INDEX|ウィキ索引]]
+- [[fintech/dual-currency-stablecoin-arbitrage-legal-hack|二通貨ステーブルコインの法的分析]]
+- [[fintech/usd-stablecoin-interchange|USD ステーブルコイン交換モデル]]
+- [[fintech/genius-act-501-denylist-mandate|GENIUS Act の実施状況]]
 - [[fintech/stablecoin-crossborder-b2b-growth|ステーブルコイン・クロスボーダー B2B 成長]]
 <!-- /wiki-links:managed -->
 
-## 出典
+## Sources
 
-- BIS 2024 クロスボーダー決済年間ボリュームレポート · MiCA Title IV · 日本 PSA · GENIUS Act §501(2025.07)
+- Circle Mint — https://developers.circle.com/circle-mint
+- Circle Mint supported chains and currencies — https://developers.circle.com/circle-mint/supported-chains-and-currencies
+- JPYC — https://jpyc.jp/
+- BIS CPMI, cross-border payments — https://www.bis.org/cpmi/publ/d220.htm

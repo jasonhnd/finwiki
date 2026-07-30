@@ -1,229 +1,232 @@
 ---
 source: fintech/e-euro-retail-rollout
-source_hash: 15fa0b8e1d92cac6
+source_hash: 48d48eac94c02d6b
 lang: ja
-model: local-ja-business-term-glossary
+model: manual-issue-239-provenance-repair
 status: machine
 fidelity: ok
-title: "デジタルユーロのリテール展開 — 準備フェーズ2023-2026,、反ディスインターメディエーション設計、e-krona停止との比較"
-translated_at: 2026-06-26T08:29:01.752Z
+title: "Digital euro retail project — 現行 phase、2027 beta pilot、条件付き 2029 readiness"
+translated_at: 2026-07-29T17:58:52.645Z
 ---
-
-# デジタルユーロのリテール展開 — 準備フェーズ2023-2026,、反ディスインターメディエーション設計、e-krona停止との比較
+# Digital euro retail project — 現行 phase、2027 beta pilot、条件付き 2029 readiness
 
 ## ウィキ上の位置づけ
 
-この項目は[[fintech/INDEX|fintech index]]の配下に位置づけられ、2026 準備フェーズ時点のECBデジタルユーロに関する法域別の深掘りである。4か国比較ビューは[[fintech/cbdc-adoption-curve-china-japan-eu-india-2026|CBDC adoption curve 2026]]、アーキテクチャ文脈は[[fintech/cbdc-multi-tier-architecture-overview|CBDC 多层架构概览]]、3パラダイム分類は[[fintech/cbdc-multi-tier-architecture-three-paradigms|CBDC 三大现役范式]]と併読する。法域別ピアは[[fintech/ecny-supply-chain-expansion|e-CNY supply-chain expansion]]および[[fintech/erupee-india-pilot-status|eRupee India pilot status]]、EU側に関連するホールセールCBDC文脈（BoF / BdF、BdI、Bundesbankが参加）は[[fintech/bis-project-agora-overview|BIS Project Agorá]]、デジタルユーロの競争上の滑走路を形作るより広いEUステーブルコイン規制文脈は[[fintech/mica-overview|MiCA overview]]および[[fintech/global-stablecoin-regulatory-five-pole-matrix|global stablecoin five-pole matrix]]を参照する。
+この項目は [[fintech/INDEX|フィンテック索引]] の配下にあり、ECB digital euro の 2026-07 現行 phase snapshot を法域別に詳しく扱う。四か国比較は [[fintech/cbdc-adoption-curve-china-japan-eu-india-2026|CBDC adoption curve 2026]]、architecture の文脈は [[fintech/cbdc-multi-tier-architecture-overview|CBDC 多層 architecture 概要]]、三つの paradigm 分類は [[fintech/cbdc-multi-tier-architecture-three-paradigms|CBDC の三つの現役 paradigm]] とあわせて読む。法域別の比較対象は [[fintech/ecny-supply-chain-expansion|e-CNY supply-chain expansion]] と [[fintech/erupee-india-pilot-status|eRupee India pilot status]]、EU 側に関係する wholesale-CBDC の文脈（BoF / BdF、BdI、Bundesbank が参加）は [[fintech/bis-project-agora-overview|BIS Project Agorá]] を参照。EU のより広い stablecoin 規制は [[fintech/mica-overview|MiCA overview]] と [[fintech/global-stablecoin-regulatory-five-pole-matrix|世界の stablecoin 五極 matrix]] を参照。
 
-> [!info] 要約
-> 2026 年半ば時点で、デジタルユーロはなお **Preparation Phase** にある。当初は2023-11 から2025-10 までの2年間とされていたが、現在はEU共同立法の結果を待つため2026-Q4+へ延長されている。**本番発行はなく**、**リテールウォレットもなく**、**本番加盟店もない**。決定的な設計選択は、監督下PSP経由の**二層仲介型配布**、連携銀行口座へのreverse waterfallを伴う**1人あたり€3,000-€4,000の保有限度額案**、リテール残高の**無利息**であり、いずれも明示的な反ディスインターメディエーション防衛策である。最も近い教訓事例はスウェーデンのe-kronaで、Riksbankは2024-2025 に発行決定も本番リテール商品もないまま実質的に停止し、「準備は無期限に延び得る」ことを示した。デジタルユーロのペースは**技術的制約ではなく政策選択**であり、€18T+の商業銀行預金基盤を守りながら政治的合意を待つものだ。
+> [!info] TL;DR
+> 2026-07, 時点で digital euro は Preparation Phase 終了後、**2025-11** に始まった現行 project phase にある。ECB は controlled beta pilot 向けに **36 PSPs** を選定し、**2027** の後半に operation を計画しているが、この pilot は digital euro の発行ではない。ECB は **2029** 中の潜在的な初回発行に向け technical readiness を整えることを目指す。条件は、提案中 EU legislation が 2026 に採択され、その後 ECB Governing Council が別途 decision を行うことである。**発行 decision はなく**、**発行済み retail wallet もなく**、**live digital-euro merchant network もない**。Design work には supervised PSP を通じた intermediated distribution、holding-limit calibration、waterfall / reverse-waterfall function、non-remuneration、online / offline mode が含まれるが、最終的な holding-limit amount は採択されていない。
 
-## プログラム構造
+## Programme architecture
 
 ```
-                ECBデジタルユーロ・プログラム
+                ECB Digital Euro Programme
                           │
        ┌──────────────────┴──────────────────┐
        ▼                                      ▼
-   調査フェーズ                         準備フェーズ
-   (2021-10 → 2023-10)                  (2023-11 → 2026-Q4+)
+   Investigation Phase                  Preparation Phase
+   (2021-10 → 2023-10)                  (2023-11 → 2025-10)
        │                                      │
-   設計検討                             ルールブック作成
-   （オフライン / オンライン、           技術ベンダー選定
-    保有限度額、仲介型モデル）           手動・プロバイダー試験
+   Design exploration                   Rulebook drafting
+   (offline / online                    Technology vendor
+   modes, holding cap,                  selection
    intermediated model)                 Manual + provider
                                         testing
        │                                      │
-   「準備へ進む」勧告で終了              発行決定は未実施
-                                         立法結果を待つ
-                                         状態
+   「Preparation へ進む」               完了；現行 phase は
+   recommendation で終了                現行 phase 開始日は 2025-11
+   recommendation                       │
                                             │
                                             ▼
-                                  発行判断フェーズ
-                                  （未移行）
+                                  Controlled beta pilot
+                                  (計画: 2027 H2)
                                             │
                                             ▼
-                                  実発行（未定）
+                                  2029 readiness target
+                                  (条件付き；発行ではない)
 ```
 
-## マトリクス A · 法令、規制当局、フェーズ状況
+## Matrix A · 法令、regulator、phase status
+
+下表は ECB の [current project page](https://www.ecb.europa.eu/euro/digital_euro/html/index.en.html)、[progress record](https://www.ecb.europa.eu/euro/digital_euro/progress/html/index.en.html)、[pilot FAQ](https://www.ecb.europa.eu/euro/digital_euro/pilot/html/ecb.faq-digital-euro-pilot.ga.html) を反映し、2026-07-30 に確認した。
 
 | 項目 | 詳細 |
 |---|---|
-| 主務当局 | European Central Bank (ECB) Governing Council + ECB Executive Board |
-| 法的根拠 | デジタルユーロ創設規則 — 欧州委員会提案 June 2023; EU理事会 + 欧州議会の共同決定（三者協議）中 |
-| 調査フェーズ | 2021-10 → 2023-10 （完了） |
-| 準備フェーズ | 2023-11 → 当初はOctober 2025まで。立法結果待ちで**2026-Q4+へ延長** |
-| 発行判断フェーズ | 2026-05時点で未移行。政策理事会決定と法的根拠が必要 |
-| 発行開始 | 未定。発行判断フェーズの結果に依存し、現実的な最速は2027-2028  |
-| 報告頻度 | ECBはデジタルユーロ・プロジェクトページで四半期または定期の進捗報告を公表 |
+| 主務 authority | European Central Bank（ECB）Governing Council + ECB Executive Board |
+| Legislative basis | European Commission proposal of June 2023；発行にはなお EU Regulation の採択と、その後の ECB Governing Council decision が必要 |
+| Investigation Phase | 2021-10 → 2023-10 （終了） |
+| Preparation Phase | 2023-11 → 2025-10 （完了） |
+| 現行 phase | 開始日は 2025-11；technical readiness、market engagement、legislative support に注力 |
+| Beta pilot | Preparation 開始は 2026；operational phase は 2027 後半に計画され、digital euro の発行ではない |
+| 潜在的発行 | ECB は 2029 中の readiness を目指す；legislation の採択は 2026；これが条件で、発行 decision は未実施 |
 
-ECBは各進捗報告で、**準備フェーズへの移行は発行決定ではない**と明示している。発行には、(i) EU共同立法規則の採択、(ii) 開始に関する別個の政策理事会決定が必要である。2026-05 時点では、いずれも実現していない。
+ECB は project progression と発行 decision を明確に区別する。発行には、(i) EU co-legislative regulation の採択、(ii) launch に関する別個の Governing Council decision が必要である。2026-07-30 の確認時点で発行 decision は行われていない。
 
-## マトリクス B · 設計選択 — 反ディスインターメディエーションの明文化
+## Matrix B · Design choice と記載された function
 
-| 設計選択 | 詳細 | 理由 |
+| Design choice | 詳細 | 公開上の説明 |
 |---|---|---|
-| **二層仲介型** | ECB → 監督下PSP（銀行、EMI、決済機関）→ ユーザー。ECBは直接配布しない | 商業銀行の役割を維持し、[[fintech/cbdc-multi-tier-architecture-three-paradigms|three-paradigms]]の二層モデルと整合させ、中央銀行から消費者への直接配布によるディスインターメディエーションを避ける |
-| **1人あたり保有限度額** | Proposed €3,000-€4,000 per person (立法判断次第で未確定) | 1人あたりデジタルユーロ総残高のハードキャップ; 大規模な転換を防ぐ of 銀行預金から中央銀行マネーへの転換 |
-| **リバース・ウォーターフォール** | 支払いが受取人の保有限度額を超える場合、超過分は受取人の連携商業銀行口座へ自動振替される | 限度額超過の個別支払いでも、保有限度額がUX上の阻害要因にならないようにする |
-| **無利息** | リテール・デジタルユーロは利息を支払わない | 商業銀行預金に対する貯蓄代替インセンティブを除去する |
-| **オンライン + オフラインモード** | 一般利用向けオンラインモード; 少額・現金類似のオフラインモード P2P | オフラインモードは現金に近いプライバシーとレジリエンスを再現する; オンラインモードは加盟店決済を支える |
-| **プライバシー階層** | オフラインモードは少額P2Pに中央記録を残さない現金類似のプライバシー、オンラインモードは監督下PSPの可視性とECBのデータ最小化 | プライバシー期待とAML/CFT義務のバランスを取る |
-| **監督下PSPのみが配布** | ウォレットは銀行と監督下PSPが提供し、ECBは消費者向けアプリを運営しない | チャネル所有を商業銀行エコシステムに残す |
-| **リテールは無利息かつプログラマビリティなし** | リテール・デジタルユーロにおけるプログラマブル・マネーを明示的に拒否 | 柔軟性を維持し、条件付支払いの濫用や福祉国家自動化という見方を避ける |
-| **ホールセールは別トラック** | ホールセールCBDCのユースケースは、リテール・デジタルユーロではなく別個のEurosystem探索作業で扱う | 2つの別トラックであり、立法上の焦点はリテールである |
+| **Two-tier intermediated** | ECB → supervised PSP（bank、EMI、payment institution）→ user；ECB は直接 distribution を行わない | PSP が提案 scheme の下で user-facing service を提供；[[fintech/cbdc-multi-tier-architecture-three-paradigms\|three-paradigms]] と比較 |
+| **Per-person holding limit** | Calibration methodology は開発中；最終 euro amount は未採択 | 発行時の deposit outflow を制限することを意図 |
+| **Reverse waterfall** | Payment が recipient の holding cap を超える場合、surplus を linked commercial-bank account へ自動 transfer | Cap 超の個別 payment で holding cap が UX blocker になることを回避 |
+| **Zero interest** | Retail digital euro は利息を支払わない | Deposit を digital-euro balance へ移す incentive や、digital euro を savings substitute として使う incentive の低減を意図 |
+| **Online + offline mode** | 一般利用の online mode；low-value cash-like P2P の offline mode | Offline は cash-like privacy・resilience、online は merchant payment を支援 |
+| **Privacy tier** | Offline = small-value P2P の central record を持たない cash-like privacy；online = supervised PSP visibility と ECB data minimisation | Privacy expectation と AML/CFT obligation の balance |
+| **Supervised PSP のみが distribution** | Wallet は bank + supervised PSP が提供；ECB は consumer-facing app を運営しない | User-facing distribution は提案 design の intermediary function |
+| **Retail は無利息 + programmable money ではない** | ECB は programmable payment と programmable money を区別 | 確認した ECB 資料は digital euro 自体を programmable money と説明しない |
+| **Wholesale は別 track** | Wholesale-CBDC use case は retail digital euro ではなく別の Eurosystem exploratory work で処理 | 二つの異なる track；legislative focus は retail |
 
-中核となる反ディスインターメディエーション設計は、**保有限度額 + リバース・ウォーターフォール + 無利息**の3点であり、最も議論の多い公共政策項目である。商業銀行は低い上限（€1,000-€2,500 レンジ）を求め、高い上限のシステミックリスクを強調してきた。ECBは€3,000-€4,000 に一定の許容感を示しているが、最終化していない。立法結果は政治交渉で決まる。
+中核となる三つの anti-disintermediation parameter、すなわち **holding limit + waterfall / reverse-waterfall funding + non-remuneration** は、legislation と design calibration の対象である。公開討論上の range を ECB decision として示してはならない。
 
-## マトリクス C · 準備フェーズの作業ストリーム
+## Matrix C · Preparation-Phase workstream
 
-| Work-stream | 状況 (2026-05) |
+下表は [ECB progress page](https://www.ecb.europa.eu/euro/digital_euro/progress/html/index.en.html) と [digital euro pilot page](https://www.ecb.europa.eu/euro/digital_euro/pilot/html/index.en.html) から更新し、2026-07-30 に確認した。
+
+| Workstream | Status（2026-07） |
 |---|---|
-| ルールブック作成 | PSP、加盟店、消費者代表を含むECB調整ワーキンググループで進行中 |
-| 技術ベンダー選定（フレームワーク契約） | 選定ベンダーを公表済み。リスク管理、不正防止、オフライン決済、アプリSDK、エイリアス検索などの部品を競争調達 |
-| 手動・技術試験 | 閉じた環境でのパイロット規模の技術試験。一般利用者向けパイロットではない |
-| ユーザー調査 / 消費者フォーカスグループ | ユーロ圏加盟国全体で進行中 |
-| 加盟店働きかけ / 受容設計 | 進行中。決済スキーム統合設計が進んでいる |
-| クロスボーダー相互運用設計 | ユーロ圏全体設計を議論。外部CBDCとの関与は限定的 |
-| 立法対話 | EU CouncilおよびEuropean Parliamentと積極的に対話し、ECBが技術助言を提供 |
+| Rulebook | Draft version 0.91 を July 2026；公開済みだが最終 operating rulebook ではない |
+| Platform provider | Framework provider を選定；project・legislation の進展に応じて段階的に work を稼働 |
+| Pilot PSP selection | 36 PSPs を選定；2026 expression-of-interest process 後 |
+| Pilot development | 2026-Q3；この時点から integration、certification、user onboarding の準備を計画 |
+| Pilot operation | Controlled setting の beta digital euro を使い、2027 後半から 12 months を計画 |
+| Legislative dialogue | 継続中；ECB は発行 decision を行っていない |
 
-準備フェーズは**公開パイロットではない**。内部設計と技術ベンダー作業である。最も近い比較対象は、消費者向け実証ではなく、設計段階にある大型金融インフラ計画である。
+完了した Preparation Phase は public pilot では**なかった**。別個の controlled beta pilot は 2027 後半の operation 開始を計画しており、発行には当たらない。
 
-## マトリクス D · 採用指標（最新公開値）
+## Matrix D · 採用指標（最新公開情報）
 
-| 指標 | 最新の公開値 |
+下表は、2026-07-30 に確認した [ECB pilot FAQ](https://www.ecb.europa.eu/euro/digital_euro/pilot/html/ecb.faq-digital-euro-pilot.ga.html) の controlled beta pilot と、発行済み CBDC を区別する。
+
+| 指標 | 最新の公開 status |
 |---|---|
-| 稼働中のリテール利用者 | **0**（未発行） |
-| 稼働中の加盟店 | **0**（受容なし） |
-| 累計取引量 | **0** |
-| 都市 / カバレッジ | **0** |
-| 稼働中ウォレットアプリ | **0** |
-| クロスボーダーCBDC決済 | **0** |
-| 公開パイロット参加者 | **0**（準備フェーズ作業は内部 / ベンダー側であり、消費者側ではない） |
-| ベンダー・フレームワーク契約 | リスク管理、アプリSDK、エイリアス検索、オフライン決済など複数部品レベル。2024-2025 にかけて選定ベンダー名を公表 |
+| 発行済み digital-euro user | なし；発行 decision なし |
+| 発行済み digital-euro merchant | なし |
+| 発行済み digital-euro transaction volume | なし |
+| Production wallet app | なし |
+| Cross-border digital-euro settlement | なし |
+| Beta-pilot PSP | 36 を選定；operational pilot は 2027 後半から計画 |
+| 潜在的な初回発行 | 2029, この期間中の readiness target；2026 legislation と、その後の Governing Council decision が条件 |
 
-決定的な事実は、2026-05時点で**デジタルユーロが4つの参照CBDCプログラムの中で唯一、稼働中のリテール活動がゼロである**ことだ。「中国に遅れている」という見方は技術的には正しいが、実質的には誤解を招く。ECBはこれが**政策選択**であり、技術格差ではないと明示している。
+証拠で裏付けられる status はより限定的である。発行済み digital euro または live retail activity はなく、controlled beta pilot の計画時期は 2027。後半に実施する。この status から programme ranking、policy motive、technical capability を推定しない。
 
-## マトリクス E · 保有限度額とディスインターメディエーション防衛（深掘り）
+## Matrix E · Holding limit と disintermediation defence（詳細）
 
 ```
-一人当たり保有限度額案（例示、未最終化）
+Per-person holding-limit calibration（未最終化）
        │
        ▼
-   €3,000-€4,000  ← 直近で公開議論されているレンジ
+   最終 euro amount は未採択
        │
-       ├── 上限以下: PSP提供ウォレットでデジタルユーロ残高を保有
+       ├── Cap 以下: PSP 提供 wallet で digital euro balance を保有
        │
-       └── 上限超過: 連携商業銀行口座へリバース・ウォーターフォール
-                       （UX上は支払いがブロックされない）
+       └── Cap 超: linked commercial-bank account へ reverse waterfall
+                       (UX 上 payment を block しない)
 ```
 
-3つの保護層:
+三つの protection layer：
 
-1. **一人当たりのハードキャップ** — 何個ウォレットを開いてもデジタルユーロ保有残高の合計を制限する。上限はウォレット単位ではなく個人単位であり、エイリアス / 本人確認検索が必要になる。
-2. **リバース・ウォーターフォール** — 支払いにより上限を超える場合、超過分は連携商業銀行口座へ自動ルーティングされる。利用者は任意の金額を送受金でき、デジタルユーロとして保有する残高だけが制限される。
-3. **無利息** — 貯蓄代替インセンティブを完全に取り除く。デジタルユーロを保有する経済的理由は取引目的であり、貯蓄目的ではない。
+1. **一人当たり hard cap** — 開設 wallet 数にかかわらず、digital-euro holding balance の total を制限（cap は wallet 単位ではなく person 単位で、alias / identity look-up が必要）。
+2. **Reverse waterfall** — Cap を超える payment は surplus を linked commercial-bank account へ自動 route。User は任意 amount を送受信でき、digital euro として保有する balance だけが cap の対象。
+3. **Zero interest** — ECB は非付利を、bank deposit を digital-euro balance へ移す incentive や、digital euro を savings substitute として使う incentive の低減を意図した design feature と説明する。すべての非取引目的が排除されるとまでは示していない。
 
-ECBの技術分析では、提案上限の高い側でも、ユーロ圏全体のデジタルユーロ保有額は商業銀行預金総額（€18T+）の小さな割合にとどまり、リバース・ウォーターフォールが急増時の動きを処理できるとされる。商業銀行ロビーはこれに異議を唱えている。どちらの見方が採用されるかは立法結果で決まる。
+ECB は holding-limit methodology の開発を続けている。公開討論 range と scenario analysis は最終 ECB decision ではなく、発行に進む場合の operative design は採択 legislation と後の Governing Council decision が定める。
 
-比較すると、他の3つの参照CBDCプログラムはいずれも同じ形で保有限度額を明文化していない。
-- **China e-CNY**はオペレーター階層別の限度（低階層は¥10K取引上限、¥50K残高。高階層KYCではより高い）を使う。
-- **India eRupee**はアプリ設定の日次取引上限を使う。公開された厳格な残高上限はない。
-- **Japan DCJPY**はCBDCではなく、トークン化銀行預金であるため、構造上は銀行ごとの預金保険上限¥10Mに覆われる。
+## Matrix F · Distribution model
 
-## マトリクス F · 配布モデル
-
-| レイヤー | 配布上の役割 |
+| Layer | Distribution 上の role |
 |---|---|
-| ECB | 発行体（中央銀行マネー）。基礎スキームと技術インフラを運営 |
-| 監督下PSP（銀行、EMI、決済機関） | ウォレット提供、ユーザー・オンボーディング、KYC、利用者向けアプリ |
-| 加盟店 | 決済スキーム統合を通じてデジタルユーロ支払いを受容 |
-| 消費者 | PSP提供ウォレットでデジタルユーロを保有し、加盟店支払いやP2Pに利用 |
+| ECB | Issuer（central-bank money）；underlying scheme + technical infrastructure を運営 |
+| Supervised PSP（bank、EMI、payment institution） | Wallet provision；user onboarding；KYC；user-facing app |
+| Merchant | Payment-scheme integration を通じて digital euro payment を受入れ |
+| Consumer | PSP 提供 wallet で digital euro を保有；merchant payment；P2P |
 
-この配布モデルは、**商業銀行を消費者関係の中心に残す**ことを明示的に目的としている。これは、10 の指定オペレーターに配布権限を与えるがPBoCがその枠組みを定義する中国の二層型、および17 の参加銀行を使うインドの二層型との最大の設計差である。EU設計は既存の商業銀行配布チャネルを最も保護している。
+提案 distribution model は user-facing onboarding、wallet、payment service を supervised PSP に割り当てる。発行が承認された場合、ECB は central-bank money を発行し、scheme・core infrastructure を運営する。この説明は cross-country ranking または motive を確立しない。
 
-## Sweden e-krona停止との比較
+## Reference point · Sweden e-krona
 
-Sveriges Riksbankが2017, 以降進めてきたSweden e-kronaプロジェクトは、デジタルユーロ議論における警告例である。Riksbankの公開姿勢は、積極的なパイロット（2017-2022）から意図的な未決定状態（2023-2024）へ、さらに事実上の停止（2024-2025）へと変化した。公開情報上の主なシグナルは以下の通り。
+Sweden の e-krona project は別個の central-bank research・policy process である。以下の比較は Riksbank の公開 e-krona page と ECB project page の事実に限り、一方の programme を他方の予測として扱わない。
 
-- Riksbankは2017以降、複数フェーズにわたるe-krona PoC報告書を公表している。
-- 2023-2024 までに、Riksbankの公開コミュニケーションは、発行が中央銀行だけの問題ではなく、議会判断を要する**政治的委任の問題**であることをより強調するようになった。
-- Riksbankはe-krona開始よりも、既存決済インフラ（RIX-INST即時決済レール）の改善へ重点を移した。
-- e-kronaの議論は、他のRiksbank作業ストリームに比べて事実上優先度が下がっている。
+- Riksbank は e-krona report と technical-pilot result を公開している。
+- 確認した公開 page は e-krona 発行 decision を報告していない。
+- 確認した公開 page は live retail e-krona product を記載していない。
+- 将来の decision は Sweden の public-policy・legislative process に依存する。
 
-デジタルユーロへの教訓は、政治条件が収束しなければ**「準備」は無期限に延び得る**ということだ。Swedenの経験は、発行する技術能力は確立済みでも、発行する政治経済上の判断こそが制約条件であることを示す。デジタルユーロも同じ軌道にあり、技術は構築されているが、発行判断はECB単独では下せない。
+これらの事実は、digital euro と e-krona が同じ trajectory をたどることや、policy、legal、market、technical factor のいずれが decisive かを確立しない。
 
-| 項目 | EUデジタルユーロ | Sweden e-krona |
+下表の EU 欄は [ECB digital euro project / pilot pages](https://www.ecb.europa.eu/euro/digital_euro/html/index.en.html)、Sweden 欄は [Riksbank e-krona page](https://www.riksbank.se/en-gb/payments--cash/e-krona/) に基づく 2026-07-30 時点の比較である。
+
+| 項目 | EU digital euro | Sweden e-krona |
 |---|---|---|
-| 当局 | ECB Governing Council | Sveriges Riksbank |
-| 法的根拠 | EU共同決定規則が保留中 | Swedish議会判断が必要 |
-| アーキテクチャ | 監督下PSP経由の二層仲介型 | 設計中の二層仲介型モデル |
-| 保有限度額 | €3,000-€4,000 を提案 | 未最終化。概念設計では上限に言及 |
-| 稼働中リテール | なし | なし |
-| 状況（2026-05） | 準備フェーズ（延長） | 事実上停止。発行判断なし |
-| 政治的勢い | 中低位。商業銀行が抵抗 | 低位。Riksbankは優先度を下げた |
-| 理由 | 反ディスインターメディエーション政策と共同立法ペース | 消費者・政治側の引力が乏しい |
+| Authority | ECB Governing Council | Sveriges Riksbank |
+| Legislative basis | EU co-decision regulation が pending | Swedish parliamentary decision が必要 |
+| Architecture | Supervised PSP 経由の two-tier intermediated | Two-tier intermediated model（design 中） |
+| Holding cap | Methodology 開発中；最終 amount なし | 未最終化 |
+| Live retail | なし | なし |
+| Status（2026-07） | 現行 technical-readiness phase；beta pilot は 2027；発行 decision なし | 発行 decision なし |
+| Public-source basis | [ECB project and pilot pages](https://www.ecb.europa.eu/euro/digital_euro/html/index.en.html) | [Riksbank e-krona page](https://www.riksbank.se/en-gb/payments--cash/e-krona/) |
+| Decision dependency | EU legislation + ECB Governing Council decision | Swedish public-policy・legislative process |
 
-ChinaとIndiaとの対比は構造的である。Chinaでは政治的委任が疑問視されず、PBoCが実装を進める直接権限を持つ。IndiaではRBIに制度的権限と明確な技術的委任がある。EUではECBが立法上の同意を必要とし、SwedenではRiksbankがまだ具体化していない議会委任を必要とする。ペースの差は**政治的**であり、技術的ではない。
+比較は異なる法的・制度的 decision route を確立する。観察された pace difference が純粋に政治的、または純粋に技術的であるという claim は裏付けない。
 
-## 競争環境 — MiCA EMTとEurosystemホールセールデジタルユーロの競争上の滑走路は、EUにおける2つの並行展開によって形作られる。
+## 競争 context — MiCA EMT と wholesale Eurosystem
 
-1. **MiCA EMT制度** — 2024-06-30（SC部分）および2024-12-30（全面）に発効。EU信用機関とEMIによる規制下のユーロ建て電子マネートークン（EMT）はすでに市場にある。EMTは、民間仲介者を通じて「デジタルユーロ」用途の一部（プログラマブルなユーロ支払い）を提供する。[[fintech/mica-overview|MiCA overview]]および[[fintech/global-stablecoin-regulatory-five-pole-matrix|global stablecoin five-pole matrix]]参照。
-2. **Eurosystemホールセール探索作業** — リテール・デジタルユーロとは別であり、中央銀行マネーによるホールセール決済（DLTベース決済を含む）の試験を実施する。一部のユーロ圏中央銀行（BdF、Banca d’Italia、Bundesbank）は[[fintech/bis-project-agora-overview|BIS Project Agorá]]に参加し、独自のDLT実証も持つ。
+Digital euro の周辺には、二つの並行する EU development がある。
 
-この2つの補完的トラックは、**EUがデジタルマネー・インフラ全体で「遅れている」わけではない**ことを意味する。EUには稼働中のMiCAライセンスEMTと、稼働中のホールセールCBDC技術作業がある。滞っているのは、特に**リテールCBDC発行**である。これは、EUのペースを真の技術格差ストーリーから区別する構造的パターンである。
+1. **MiCA EMT regime** — 2024-06-30（SC parts）と 2024-12-30（full）に発効；EU credit institution・EMI の regulated euro-denominated e-money token（EMT）はすでに market にある。EMT は private intermediary を通じて「digital euro」use case の一部（programmable euro payment）を提供する。[[fintech/mica-overview|MiCA overview]] と [[fintech/global-stablecoin-regulatory-five-pole-matrix|世界の stablecoin 五極 matrix]] を参照。
+2. **Eurosystem wholesale exploratory work** — Retail digital euro と別で、central-bank money による wholesale settlement（DLT-based settlement を含む）の trial を行う。一部 euro-area central bank（BdF、Banca d'Italia、Bundesbank）は [[fintech/bis-project-agora-overview|BIS Project Agorá]] に参加し、独自 DLT pilot も持つ。
+
+これらは別の legal・technical track である。その存在は retail digital euro を発行するか、いつ発行するかを決定せず、このページは法域 ranking や technical capability の推定に用いない。
 
 ## 起源と展開
 
 ```
-2017-2019     ECB内部のCBDC作業、Working Paperシリーズ
-2020-10       ECBが「Report on a digital euro」を公表し、協議を開始
-2021-10       調査フェーズ開始（2年）
-2023-06       European Commissionがデジタルユーロ創設規則を提案
-2023-10       調査フェーズ終了。ECBが準備フェーズ入りを勧告
-2023-11       準備フェーズ開始（当初2年、2025-10まで）
-2024-2025     ベンダー・フレームワーク契約、ルールブック作成、技術パイロット
-2025          準備フェーズ進捗報告を四半期または定期に公表
-2025-2026     立法結果待ちで準備フェーズを2026-Q4+へ延長
-2026          EU CouncilとEuropean Parliamentが規則案の三者協議を継続
-2026-05       発行判断なし。準備は継続
-2026-2027    （想定）発行判断フェーズ入りは立法結果が条件
-2027-2028    （現実的な最速）リテール実発行は発行判断が条件
+2017-2019    ECB internal work on CBDC; Working Paper series
+2020-10      ECB publishes "Report on a digital euro"; consultation launched
+2021-10      Investigation Phase begins (2-year)
+2023-06      European Commission proposes Regulation establishing the digital euro
+2023-10      Investigation Phase concludes; ECB recommends entering Preparation Phase
+2023-11      Preparation Phase begins (originally 2-year, to 2025-10)
+2024-2025    Vendor framework agreements; rulebook drafting; technical pilots
+2025         Preparation Phase progress reports published quarterly / periodically
+2025-10      Preparation Phase completed
+2025-11      Current phase begins: technical readiness, market engagement, legislative support
+2026         36 PSPs selected; controlled beta-pilot preparation begins
+2027 H2      Controlled beta-pilot operations planned for 12 months
+2029         Conditional readiness target if legislation is adopted; no issuance decision
 ```
 
-**パターン**: 主要ステップはいずれも複数機関の同意に依存する。ECBはプロジェクトの制度的権限を持つが、法的根拠や拘束力ある政治的委任を単独では持たない。Riksbankのe-krona経験は、この依存関係がタイムラインを無期限に伸ばし得ることを示している。
+現行の公開 sequence は project milestone を確立するが、issuance forecast ではない。EU legislation の採択と、その後の ECB Governing Council decision は別々の条件である。
 
 ## 関連項目
 
-- [[INDEX|Wiki Index]]
-- [[fintech/INDEX|Fintech Index]]
+- [[INDEX|ウィキ索引]]
+- [[fintech/INDEX|フィンテック索引]]
 - [[fintech/cbdc-adoption-curve-china-japan-eu-india-2026|CBDC adoption curve 2026]]
-- [[fintech/cbdc-multi-tier-architecture-overview|CBDC 多层架构概览]]
-- [[fintech/cbdc-multi-tier-architecture-three-paradigms|CBDC 三大现役范式]]
-- [[fintech/cbdc-multi-tier-architecture-tradeoffs|CBDC 架构选择 4 核心权衡]]
+- [[fintech/cbdc-multi-tier-architecture-overview|CBDC 多層 architecture 概要]]
+- [[fintech/cbdc-multi-tier-architecture-three-paradigms|CBDC の三つの現役 paradigm]]
+- [[fintech/cbdc-multi-tier-architecture-tradeoffs|CBDC architecture 選択の 4 中核 trade-off]]
 - [[fintech/mica-overview|MiCA overview]]
-- [[fintech/global-stablecoin-regulatory-five-pole-matrix|global stablecoin five-pole matrix]]
-- [[fintech/three-circles-stablecoin-mra-framework|三圆 MRA framework]]
+- [[fintech/global-stablecoin-regulatory-five-pole-matrix|世界の stablecoin 五極 matrix]]
+- [[fintech/three-circles-stablecoin-mra-framework|米国・EU・日本のステーブルコイン市場アクセス比較]]
 - [[fintech/bis-project-agora-overview|BIS Project Agorá]]
 - [[fintech/bis-project-agora-vs-mbridge|Agorá vs mBridge strategic comparison]]
 - [[fintech/bis-project-ensemble-overview|HKMA Project Ensemble]]
-- [[fintech/mbridge-bis-multi-cbdc-overview|mBridge BIS 多 CBDC 跨境结算桥]]
+- [[fintech/mbridge-bis-multi-cbdc-overview|mBridge BIS 多 CBDC cross-border settlement bridge]]
 - [[fintech/ecny-supply-chain-expansion|e-CNY supply-chain expansion]]
 - [[fintech/erupee-india-pilot-status|eRupee India pilot status]]
 - [[fintech/jp-stablecoin-dcjpy|DCJPY / ディーカレット DCP]]
-- [[fintech/japan-stablecoin-regulatory-landscape|日本 SC 法制度三層構造]]
-- [[fintech/central-banking-function-unbundling|央行职能解体五层]]
+- [[fintech/japan-stablecoin-regulatory-landscape|日本 stablecoin 法制度の三層構造]]
+- [[fintech/central-banking-function-unbundling|central-bank function unbundling の五層]]
 
-## 出典
+## Sources
 
-- European Central Bank — デジタルユーロ・プロジェクトページ: https://www.ecb.europa.eu/euro/digital_euro/html/index.en.html
-- ECB — デジタルユーロ準備フェーズ進捗報告: https://www.ecb.europa.eu/euro/digital_euro/progress/html/index.en.html
-- European Commission — デジタルユーロ提案・政策ページ: https://commission.europa.eu/business-economy-euro/euro-area/digital-euro_en
-- European Commission — デジタルユーロ創設規則案（June 2023）
-- Council of the EU — デジタルユーロ政策ページ: https://www.consilium.europa.eu/en/policies/digital-euro/
+- European Central Bank — Digital euro project page: https://www.ecb.europa.eu/euro/digital_euro/html/index.en.html
+- ECB — Digital euro Preparation Phase progress report: https://www.ecb.europa.eu/euro/digital_euro/progress/html/index.en.html
+- European Commission — Digital euro proposal・policy page: https://commission.europa.eu/business-economy-euro/euro-area/digital-euro_en
+- European Commission — Digital euro の設置に関する Regulation proposal（June 2023）
+- Council of the EU — Digital euro policy page: https://www.consilium.europa.eu/en/policies/digital-euro/
 - ECB — Report on a digital euro（October 2020）
-- ECB — CBDC設計・分析に関するWorking Paper Series
-- Sveriges Riksbank — e-kronaプロジェクトページおよびPoC報告: https://www.riksbank.se/en-gb/payments--cash/e-krona/
-- BIS Innovation Hub — CBDCトピックページ: https://www.bis.org/about/bisih/topics/cbdc.htm
-- BIS Project Agorá公開資料（Eurosystem中央銀行参加）: https://www.bis.org/about/bisih/topics/cbdc/agora.htm
+- ECB — CBDC design・analysis の Working Paper Series
+- Sveriges Riksbank — e-krona project page・PoC report: https://www.riksbank.se/en-gb/payments--cash/e-krona/
+- BIS Innovation Hub — CBDC topic page: https://www.bis.org/about/bisih/topics/cbdc.htm
+- BIS Project Agorá 公開資料（Eurosystem central-bank participation）: https://www.bis.org/about/bisih/topics/fmis/agora.htm

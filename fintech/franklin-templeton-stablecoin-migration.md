@@ -3,32 +3,32 @@ title: Franklin Templeton FOBXX (BENJI) · Stellar 単一チェーンからマ�
 aliases: [franklin-templeton-stablecoin-migration, FOBXX, BENJI, Franklin OnChain US Government Money Fund, franklin-templeton-tokenized-fund, ft-onchain-multichain, BENJI-multichain]
 domain: fintech
 created: 2026-05-25
-last_updated: 2026-05-26
-last_tended: 2026-05-26
+last_updated: 2026-07-30
+last_tended: 2026-07-30
 review_by: 2026-11-25
 confidence: likely
 tags: [fintech, franklin-templeton, fobxx, benji, tokenized-fund, mmf, stellar, ethereum, multichain, rwa, 2025-2026]
 status: active
 sources:
-  - https://www.franklintempleton.com/
   - https://www.franklintempleton.com/investments/options/money-market-funds/products/29386/SINGLCLASS/franklin-on-chain-u-s-government-money-fund/FOBXX
-  - https://www.sec.gov/edgar
-  - https://defillama.com/protocol/franklin-templeton-benji
-  - https://www.stellar.org/
-  - https://www.benji.io/
+  - https://www.franklintempleton.com/forms-literature/download-preview/9001-P
+  - https://digitalassets.franklintempleton.com/benji/
+  - https://www.franklintempleton.com/press-releases/news-room/2026/franklin-templeton-stellar-development-foundation-mark-five-years-of-benji-the-first-u.s.-registered-tokenized-money-market-fund
 ---
 
 # Franklin Templeton FOBXX (BENJI) · Stellar 単一チェーンからマルチチェーン RWA へ · 「トークン化ファンド ≠ ステーブルコイン」のパラダイム
 
 ## TL;DR
 
-**Franklin OnChain US Government Money Fund** (ticker FOBXX、オンチェーンシェアクラス **BENJI**) は**米国初の SEC-registered 1940 Act money market fund がシェアを完全にオンチェーン化したプロダクト** (2021-04 ローンチ)。当初は**約 3 年間 Stellar 単一チェーンで運営**、2024-2025 から**マルチチェーン拡大**を完了:Polygon (2023-04 追加) + Arbitrum (2024-04) + Base (2024-09) + Avalanche (2024-10) + Aptos (2024-11) + Solana (2025-02) + Sui (2025-Q4) + 一部 EVM プライベートチェーン。2026-05 BENJI AUM **~$650M+**、tokenized MMF 第 2 位 (首位は [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]] $2.5B+)。**FOBXX のコア戦略的価値**:業界で**最も早く「tokenized fund ≠ stablecoin」パラダイムが機能することを証明したプロダクト** —— SEC-registered 証券、yield-bearing、オンチェーンで daily NAV を計算、transfer agent をオンチェーン化、USDC/USDT とは全く異なるコンプライアンス分類に属する。
+**Franklin OnChain U.S. Government Money Fund** (ticker FOBXX、1 share を表すオンチェーン token が **BENJI**) は 2021-04 に設定された米国登録 money market fund で、公開 blockchain を取引処理・持分記録の公式 system of record に使った先行例である。Stellar で開始し、2023-2025 に Polygon、Arbitrum、Avalanche、Ethereum、Aptos、Base、Solana、BNB Smart Chain へ順次拡張した。これは payment stablecoin ではなく、1940 Act / Rule 2a-7 の下で運営される fund share である。AUM、yield、対応 network は変動するため、以下では Franklin Templeton の 2026-05 公開値と公式 Benji deployment list を基準にする。
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]] for the dominant tokenized-MMF peer that BENJI now competes with, with [[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED]] for the second-tier RWA segmentation, and with [[fintech/stablecoin-issuer-2025-2026-market-consolidation|stablecoin issuer 2025-2026 consolidation]] for why tokenized funds and stablecoins are increasingly recognized as distinct categories.
+This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]] as another tokenized-fund structure, with [[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED]] as a private-credit tokenization example, and with [[fintech/stablecoin-issuer-2025-2026-market-consolidation|stablecoin issuer 2025-2026 consolidation]] for why tokenized funds and stablecoins are increasingly recognized as distinct categories. No same-date, same-method dataset is used here to assign market tiers or rank these products.
 
 ## Product fundamentals
+
+下表は [Franklin Templeton product page](https://www.franklintempleton.com/investments/options/money-market-funds/products/29386/SINGLCLASS/franklin-on-chain-u-s-government-money-fund/FOBXX)、[prospectus](https://www.franklintempleton.com/forms-literature/download-preview/9001-P)、[official Benji page](https://digitalassets.franklintempleton.com/benji/) に基づく（数値は明記した基準日、2026-07-30 確認）。
 
 | Attribute | Value |
 |---|---|
@@ -37,158 +37,104 @@ This entry sits under [[fintech/INDEX|fintech index]]. Read it with [[fintech/bl
 | On-chain share class symbol | BENJI |
 | Fund type | 1940 Act registered money market fund (US, SEC) |
 | Inception | 2021-04 |
-| AUM (2026-05) | ~$650M+ |
-| 7-day SEC yield (2026-05) | ~4.7% |
-| Expense ratio | 0.20% |
-| Underlying | US Treasury securities, government repos, cash |
-| NAV target | $1.00 per share, daily computed |
-| Custody (Treasury) | BNY Mellon |
-| Transfer agent | Franklin Templeton (on-chain ledger is the official record) |
-| Distribution share class | Reg D for institutions, Reg A for accredited retail US, Reg S non-US |
-| Chains live (2026-05) | Stellar, Polygon, Arbitrum, Base, Avalanche, Aptos, Solana, Sui |
+| Total net assets | $813.50M (2026-05-31) |
+| Expense ratio | Gross 0.22%; net 0.20% (2025-08-01 disclosure) |
+| Underlying policy | At least 99.5% in U.S. government securities, cash, and fully collateralized repos |
+| NAV objective | Seeks to maintain $1.00 per share; not guaranteed |
+| Dividend frequency | Daily |
+| Official record | Transfer agent's proprietary blockchain-integrated Benji platform |
+| Networks listed by Franklin | Stellar, Polygon, Arbitrum, Avalanche, Ethereum, Aptos, Base, Solana, BNB Smart Chain |
 
-Source: Franklin Templeton public fund documents + DefiLlama BENJI protocol page, snapshot 2026-05-15.
+## From Stellar launch to multi-network availability
 
-## The "Stellar-first 3 years" — what made it the right call (and what eventually broke it)
-
-FOBXX launched on **Stellar in 2021-04**, becoming the **first SEC-registered tokenized money market fund** to use a public blockchain as its share-class registry. The 2021-2024 Stellar-only era reflected several deliberate choices:
-
-1. **Compliance-first chain selection**: Stellar's built-in regulated-asset tooling (issuer accounts, asset trustlines, multi-sig, clawback) was operationally closer to traditional transfer-agent functions than Ethereum's ERC-20 model in 2021.
-2. **No DeFi composability friction**: Stellar's lack of a heavy DeFi ecosystem meant Franklin did not have to deal with secondary trading, lending, or rehypothecation of fund shares — which would have raised SEC concerns about whether BENJI was being repurposed in ways the prospectus did not contemplate.
-3. **Lower gas / operational cost**: Stellar's near-zero transaction cost made daily NAV updates and dividend rebases inexpensive vs Ethereum gas circa 2021-2022.
-4. **Stellar Development Foundation as a strategic collaborator**: Franklin had a multi-year relationship with SDF and was not building from scratch.
-
-The **break point** was 2023-2024. Three structural conditions shifted:
-
-1. **[[fintech/blackrock-buidl-tokenized-mmf-overview|BlackRock BUIDL]] launched in 2024-03 on Ethereum** and immediately attracted institutional capital that wanted DeFi-composable RWA exposure. BUIDL reached $500M MCap within 90 days. Franklin's Stellar-only product was structurally unable to capture that flow.
-2. **EVM-chain institutional traction grew** through 2023-2024: Polygon, Arbitrum, and Base each landed multi-billion-dollar TradFi pilots. Tokenized funds increasingly needed to be on the chain where the institutional buyer's existing infrastructure already lived.
-3. **Asia institutional interest required different chains**: Aptos (used by Asia-Pacific market-makers), Sui (Singapore / HK adoption), and Solana (broad institutional resurgence post-2023) each had non-trivial Asia-Pacific demand pockets.
-
-Franklin's response was a **deliberate multi-chain expansion plan**, executed 2023-2025.
+FOBXX launched on Stellar in 2021-04. Franklin and the Stellar Development Foundation's [five-year release](https://www.franklintempleton.com/press-releases/news-room/2026/franklin-templeton-stellar-development-foundation-mark-five-years-of-benji-the-first-u.s.-registered-tokenized-money-market-fund) confirms the launch relationship and the use of a public blockchain as the official system of record. Franklin's official timeline then records additional networks from 2023 onward. Public materials establish the sequence, but do not establish the former causal claims about gas cost, regional market-maker demand, or competitive pressure from BUIDL; those interpretations have been removed.
 
 ## Multi-chain expansion timeline
 
-| Date | Chain added | Notable context |
+下表は [official Benji milestone timeline](https://digitalassets.franklintempleton.com/benji/) に記載された network availability date のみを収録する。
+
+| Date | Chain added | Public status |
 |---|---|---|
 | 2021-04 | Stellar (launch) | Single-chain phase |
 | 2023-04 | Polygon | First EVM expansion; tested transfer-agent-on-chain in EVM |
-| 2024-04 | Arbitrum | First L2; positioned for DeFi composability |
-| 2024-09 | Base | Coinbase's L2; institutional reach via Coinbase rails |
-| 2024-10 | Avalanche | Subnet-friendly, used by some TradFi pilots |
-| 2024-11 | Aptos | First non-EVM, non-Stellar; Move VM; Asia-Pacific institutional reach |
-| 2025-02 | Solana | High-throughput; alignment with PYUSD / USDC Solana flows |
-| 2025-Q4 | Sui | Asia-Pacific institutional + Mysten Labs partnership |
+| 2024-08 | Arbitrum, Avalanche | Institutional availability |
+| 2024-09 | Ethereum, Aptos | Institutional availability |
+| 2024-10 | Base | Institutional availability |
+| 2025-02 | Solana | Institutional availability |
+| 2025-07 | BNB Smart Chain | Institutional availability |
 
-By 2025-end Franklin had **eight chains live**, all carrying the **same single fund** (FOBXX) with on-chain shares interchangeable across chains via Franklin's controlled cross-chain transfer agent (no third-party bridge — Franklin keeps the transfer-agent function in-house). This is different from Ondo's multi-chain approach, which uses LayerZero / Axelar / Wormhole; Franklin keeps full custodial control of inter-chain movement.
+Franklin の公式 deployment list は network ごとに contract を示す。network 間の移動方法や即時交換可能性は契約条件・account eligibility に依存し、「任意の chain 間で自由に fungible」とは断定しない。
 
 ## "Tokenized fund vs stablecoin" — the regulatory distinction this product defined
 
-FOBXX / BENJI is **not a stablecoin**. The distinction is critical for the broader [[fintech/stablecoin-issuer-2025-2026-market-consolidation|stablecoin issuer 2025-2026 consolidation]] picture:
+FOBXX / BENJI is **not a payment stablecoin**. 下表は [FOBXX prospectus](https://www.franklintempleton.com/forms-literature/download-preview/9001-P) と、payment stablecoin の一般的な product structure を区別するための比較であり、個別 stablecoin の法的評価は発行地・発行体ごとに異なる。
 
 | Attribute | Stablecoin (USDC, PYUSD, USDG) | Tokenized MMF (BENJI, BUIDL) |
 |---|---|---|
-| Legal classification | E-money / payment instrument / trust deposit | 1940 Act registered security |
-| Yield to holder | Zero (yield captured by issuer + distributor) | Yes (daily dividend rebase ~4-5% APY) |
-| Daily NAV | Constant $1.00 (par redemption guarantee) | $1.00 target, fluctuates marginally, computed daily |
-| Eligible buyer | Largely permissionless (USDC) or KYC-gated (USDG) | Accredited / qualified / non-US (per share class) |
-| Regulator | NY DFS / OCC / MAS / HKMA depending on issuer | SEC primarily |
+| Legal classification | Jurisdiction- and structure-specific payment instrument | U.S.-registered money market fund share |
+| Return | Product terms vary; payment coins generally do not promise fund dividends | Daily-declared fund income dividends; amount not guaranteed |
+| Daily value | Usually redemption at stated par under issuer terms | Seeks stable $1.00 share price; loss remains possible |
+| Eligible buyer | Depends on issuer, venue, and jurisdiction | Account eligibility and transfer controls under fund documents |
+| Regulator | Depends on issuer and jurisdiction | SEC-registered fund; other applicable U.S. rules |
 | Use case | Payments, settlement, trading collateral | Treasury reserve management, RWA collateral, idle-cash yield |
-| GENIUS Act applicability | Yes (must meet §501) | No (separate 1940 Act regime) |
+| U.S. payment-stablecoin statute | Applies only where the statutory definition is met | Fund is governed as a money market fund, not described by Franklin as a payment stablecoin |
 
-This distinction matters because **the same buyer can hold both, for different purposes**, and increasingly does:
+The product boundary should be evaluated from current documents rather than a universal treasury-allocation pattern. For a specific BENJI / stablecoin workflow, verify:
 
-1. Treasury teams hold BENJI / BUIDL for **idle-cash yield**.
-2. Treasury teams hold USDC / PYUSD for **operational payments**.
-3. **Conversion between them is a same-day function** at major prime brokers (BNY Mellon / State Street / Goldman / Anchorage).
+1. whether the investor and wallet are eligible for the fund and selected network;
+2. the fund's purchase / redemption cut-off, settlement and transfer rules;
+3. whether a named broker, custodian or venue publicly supports the requested conversion pair;
+4. the stablecoin issuer's own redemption and account requirements; and
+5. the legal treatment in the relevant jurisdiction.
 
-The 2024-2026 institutional pattern is **"BENJI / BUIDL for the yield-bearing layer, USDC for the payment layer"** — and Franklin / BlackRock both benefit by occupying the yield layer that stablecoins cannot legally occupy in the US.
+The reviewed Franklin materials establish BENJI's fund structure and transaction channels. They do not establish that BNY Mellon, State Street, Goldman Sachs or Anchorage provides a universal same-day BENJI-to-stablecoin conversion service, nor that all U.S. stablecoins are legally barred from every yield-related arrangement.
 
 ## Yield distribution mechanics
 
-FOBXX accrues income daily from its UST + repo + cash portfolio. Income is distributed to BENJI holders via **monthly share-balance rebase** (additional BENJI tokens minted to wallet, proportional to accrued NAV gain). This avoids the price-rebase model used by USDY / sUSDe (which can complicate book-keeping for institutional buyers) and aligns with traditional MMF distribution conventions (where investors are issued additional shares from reinvested dividends).
+FOBXX accrues income from the portfolio described in its prospectus. Franklin's current prospectus states that income dividends are declared daily and automatically reinvested in additional shares; the Benji page describes daily accrual and distribution through newly minted BENJI tokens.
 
 Operational specifics:
 
-- Distribution accrual: daily, based on previous-day weighted yield.
-- Rebase frequency: monthly (currently), with weekly considered.
-- Wallet impact: holders see their BENJI balance grow each month; no taxable event triggered until redemption (US tax treatment per fund prospectus).
-- Cross-chain consistency: rebase is computed at the fund level and pushed to all 8 chains atomically via Franklin's transfer-agent system.
+- Distribution: income dividends are declared daily and automatically reinvested under the current prospectus.
+- Wallet impact: additional shares represent reinvested distributions; investor tax treatment depends on circumstances and should not be inferred as tax-deferred.
+- Network implementation: Franklin publishes per-network contracts; the public materials reviewed here do not support an “atomic push across all chains” claim.
 
-## Adoption metrics 2024-2026
+## Adoption snapshot
 
-| Metric | 2024-Q1 | 2024-Q4 | 2025-Q2 | 2025-Q4 | 2026-05 |
-|---|---|---|---|---|---|
-| BENJI AUM | $360M | $410M | $480M | $580M | $650M+ |
-| Chains live | 2 (Stellar, Polygon) | 5 | 7 | 8 | 8 |
-| Institutional holders (disclosed) | ~12 | ~30 | ~55 | ~80 | ~100+ |
-| Tokenized MMF market share vs BUIDL | ~95% (BUIDL pre-launch) → ~40% (post BUIDL launch in 2024-03) | ~25% | ~22% | ~21% | ~20% |
+Franklin's product page reports **$813.50M total net assets as of 2026-05-31**. Earlier quarterly AUM, holder-count, and market-share series previously shown here were not reproducible from the cited official materials and have therefore been removed. Relative ranking against BUIDL / OUSG should be recomputed from a dated, methodologically consistent dataset rather than carried forward as a fixed fact.
 
-Source: Franklin Templeton public AUM disclosures + DefiLlama BENJI dashboard, snapshot 2026-05-15.
+## Strategic context
 
-The trend: BENJI **grew in absolute AUM** ($360M → $650M+ in ~26 months) but **lost relative market share** to BUIDL, which leveraged BlackRock's institutional Rolodex more aggressively. Franklin chose to stay in the multi-chain RWA race rather than retrench, and the [[fintech/apollo-acred-private-credit-tokenization|Apollo ACRED]] / [[fintech/ondo-finance-rusdy-adoption|Ondo OUSG]] entries into the RWA segment created a 4-way race (BUIDL / BENJI / OUSG / ACRED) where Franklin held second place in MMF and fourth place overall by AUM.
+The verifiable strategic fact is multi-network availability under a single fund and transfer-agent platform. Network coverage can reduce integration mismatch for eligible investors, but it does not prove universal availability, cross-chain fungibility, or adoption on each chain. Any strategic conclusion should be tested against dated AUM, holder and transfer data rather than inferred from the number of deployed contracts.
 
-## Strategic context — why the multi-chain bet matters
+## The Benji app and web platform
 
-Franklin's CEO Jenny Johnson and EVP Roger Bayston have publicly emphasized that **tokenization is not optional** for asset managers competing for the next decade of treasury flows. Franklin's bet:
+[Franklin's Benji page](https://digitalassets.franklintempleton.com/benji/) states that shareholders can view account information and conduct transactions through the mobile app, while institutions can use the web platform. It also describes peer-to-peer transfers on enabled networks and daily yield accrual / distribution. Eligibility, onboarding, network availability and transfer restrictions remain subject to current account and fund documents. Franklin's reviewed official materials do not disclose the former “~40K KYC-verified users” figure, so it has been removed.
 
-1. **Stellar-only would have meant ceding the EVM-dominant TradFi DeFi market** to BUIDL and OUSG entirely.
-2. **8-chain coverage means any institutional buyer can hold BENJI on their preferred chain** — no need to switch to BUIDL just because their custodian / prime broker / treasury system uses chain X.
-3. **The transfer-agent-on-chain model** Franklin has proven across 8 chains is **directly reusable for future Franklin tokenized funds** (equity funds, bond funds, ETF analogs). FOBXX is the proof-of-concept; the real value is the platform.
-4. **Validator participation in [[fintech/ondo-finance-rusdy-adoption|Ondo Chain]]** (Franklin announced as a design partner) suggests Franklin is positioning to also be a **validator-class RWA chain participant**, not only an issuer.
+## How BENJI compares to other tokenized cash products
 
-This is the same logic as BlackRock's [[business/larry-fink-blackrock-digital-asset-template|digital-asset template]] — start with one product, prove the operational model, then template across the full fund lineup.
+下表は BENJI 列を [Franklin product page and prospectus](https://www.franklintempleton.com/investments/options/money-market-funds/products/29386/SINGLCLASS/franklin-on-chain-u-s-government-money-fund/FOBXX) で確定し、他商品を比較するときの checklist を示す。peer の数値はそれぞれの current issuer document で同一基準日に揃える必要がある。
 
-## The Benji wallet and direct retail surface
+| Attribute | BENJI (FOBXX) | Other private / tokenized products |
+|---|---|---|
+| Legal type | U.S.-registered government money market fund | May be a private fund, security token, or another wrapper |
+| Portfolio policy | ≥99.5% government securities, cash, fully collateralized repo | Product-specific |
+| Distribution | Income declared and reinvested daily under current prospectus | Product-specific |
+| Expense ratio | Gross 0.22%; net 0.20% at stated disclosure date | Product-specific |
+| Liquidity | Purchases/redemptions follow fund business-day and cut-off rules | Product-specific |
+| Networks | Nine listed on official Benji page as of review | Product-specific |
+| AUM | $813.50M at 2026-05-31 | Requires same-date source before comparison |
+| Recordkeeping | Franklin proprietary blockchain-integrated system | Product-specific |
 
-In 2024 Franklin launched the **Benji wallet** — a mobile-first interface that lets accredited US retail (Reg A share class) and non-US retail (Reg S) buy BENJI directly from Franklin without going through a brokerage account. Key features:
+The reliable structural delta is that BENJI is a registered money market fund with a public prospectus and blockchain-based official recordkeeping. Eligibility, minimums, and transferability must be checked in the current fund/account documents; the prior “Reg A accredited-retail share class” statement was not supported by the cited prospectus and has been removed.
 
-1. **Direct issuer relationship** — wallet holders are direct shareholders of FOBXX, not through a broker intermediary.
-2. **Tap-to-pay / send mechanics** — BENJI can be sent peer-to-peer between Benji wallets (and to compatible external wallets on supported chains).
-3. **In-app yield display** — daily yield accrual visible in the app interface.
-4. **KYC built into wallet onboarding** — Franklin's transfer-agent identity layer is the gate.
-5. **Cross-chain hold view** — a single wallet can hold BENJI on multiple chains simultaneously.
+## What to monitor
 
-The Benji wallet is **the cleanest example so far of a tokenized fund being delivered with a consumer-fintech UX**. It is competitive with how Robinhood Gold delivers USDG yield, or how Coinbase delivers USDC + yield products, but with the added benefit that Franklin owns the issuer side of the relationship. By 2026-05 Benji wallet had ~40K KYC-verified users — modest but growing.
-
-## How BENJI compares to BUIDL, OUSG, ACRED operationally
-
-| Attribute | BENJI (FOBXX) | BUIDL | OUSG | ACRED |
-|---|---|---|---|---|
-| Legal type | 1940 Act registered MMF (open-end) | 1940 Act exempt private fund | 1940 Act exempt private fund | 1933 Act Reg D + Reg S fund |
-| Underlying | UST + repo + cash | UST + repo + cash | BUIDL + UST | Private credit (corporate direct lending + ABS) |
-| Eligible buyer | Accredited (Reg A) + non-US retail (Reg S) + institutional | Qualified purchaser ($5M+) | Qualified purchaser ($5M+) | Qualified purchaser |
-| Yield distribution | Monthly rebase | Monthly distribution as additional BUIDL tokens | Yield in NAV / mint-burn | Quarterly distribution |
-| Expense ratio | 0.20% | 0.20% (50 bps before partner share) | ~0.15% sponsor + BUIDL pass-through | 0.45% |
-| Daily liquidity | Yes (T+0 within fund hours) | Yes (T+0 via Circle facility) | Yes (T+0 via BUIDL stack) | Limited (T+10 quarterly windows) |
-| Chains live (2026-05) | 8 | 7 | 7 | 7 |
-| AUM | $650M+ | $2.5B+ | $830M | $100M+ |
-| Issuance platform | Franklin in-house | Securitize | Securitize | Securitize |
-
-The **structural delta** between BENJI and BUIDL/OUSG is the **share-class eligibility** — BENJI's Reg A registration makes it the **only one of the four available to accredited US retail investors** (not just qualified purchasers). This is a meaningful but underexploited differentiator: most retail demand still goes to yield-bearing dollars (USDY, sUSDe) that do not require accredited status, and BENJI's accredited-only restriction caps the addressable market.
-
-## Notable institutional integrations 2024-2026
-
-| Integrator | Use case | Date | Significance |
-|---|---|---|---|
-| WisdomTree | Cross-fund collateral arrangements | 2024-Q3 | TradFi-to-TradFi tokenized collateral pilot |
-| Mantle Network | Mantle Treasury holds BENJI | 2024-Q4 | Major L2 treasury allocation to tokenized MMF |
-| Aptos Labs | Aptos Foundation treasury allocation | 2024-Q4 | Layer-1 foundation treasury use case |
-| BNY Mellon | Custody of underlying Treasuries | Ongoing | Largest US custodian as backing infrastructure |
-| Solana Foundation | Co-marketing BENJI on Solana | 2025-Q1 | Solana ecosystem expansion alliance |
-| Sui Foundation | BENJI launch on Sui | 2025-Q4 | Asia-Pacific institutional reach |
-| Ondo Chain (announced) | Validator partner | 2025-Q1 | RWA-L1 cross-issuer alignment |
-
-The integration pattern shows Franklin executing the **"be everywhere institutions are, on their chosen chain"** strategy. Mantle's treasury allocation in 2024-Q4 was particularly important as a public signal — it showed that **L2 foundations themselves are buyers of tokenized MMF** for their own treasury management, not just users of stablecoins.
-
-## Competition outlook 2026-2028
-
-Three structural questions will determine whether BENJI grows from $650M to $2B+:
-
-1. **Does BlackRock launch a retail BUIDL share class?** If yes, BENJI's only accredited-retail advantage disappears and Franklin reverts to a pure second-tier institutional position.
-2. **Does Franklin launch a BENJI-2 product?** A tokenized intermediate-Treasury fund (5-10 year duration) or a tokenized investment-grade corporate bond fund would extend Franklin's platform without entering BlackRock's territory directly. Public statements suggest this is being planned but no public launch date.
-3. **Does the SEC clarify how tokenized funds interact with stablecoin regulation?** Currently BENJI's 1940 Act status keeps it cleanly separated from GENIUS Act stablecoin requirements. If post-GENIUS Treasury guidance creates ambiguity (especially for cross-collateral use of BENJI within stablecoin reserve structures), Franklin's positioning could become more or less attractive overnight.
-
-These questions also drive the broader [[fintech/onchain-finance-vs-crypto-bifurcation|onchain-finance vs crypto bifurcation]] dynamic: tokenized funds are increasingly part of the institutional onchain-finance stack, while stablecoins remain the payments / settlement layer. The clearer this separation becomes, the more valuable Franklin's platform investment is.
+- total net assets and current yield on the official product page;
+- new network contracts on the official Benji contract page;
+- prospectus changes to eligibility, transfer, redemption and distribution terms;
+- public issuer announcements for integrations rather than secondary-market attribution;
+- regulatory treatment of tokenized fund shares separately from payment stablecoins.
 
 ## Related
 
@@ -208,7 +154,7 @@ These questions also drive the broader [[fintech/onchain-finance-vs-crypto-bifur
 - [[fintech/tether-business-model-short-treasury-yield|Tether business model]]
 - [[fintech/stablecoin-issuer-2025-2026-market-consolidation|Stablecoin issuer 2025-2026 consolidation]]
 - [[fintech/global-stablecoin-regulatory-five-pole-matrix|Global stablecoin five-pole matrix]]
-- [[fintech/three-circles-stablecoin-mra-framework|Three circles SC MRA framework]]
+- [[fintech/three-circles-stablecoin-mra-framework|米国・EU・日本のステーブルコイン市場アクセス比較]]
 - [[fintech/institutional-stablecoin-deposit-token-thesis|Institutional deposit-token thesis]]
 - [[fintech/protocol-hedge-strategy-stripe-pattern|Protocol hedge strategy · Stripe pattern]]
 - [[fintech/cbbtc-institutional-btc-wrapper|cbBTC institutional wrapper]]
@@ -220,10 +166,7 @@ These questions also drive the broader [[fintech/onchain-finance-vs-crypto-bifur
 
 ## Sources
 
-- Franklin Templeton official page (franklintempleton.com)
-- FOBXX fund product page (franklintempleton.com)
-- BENJI official page (benji.io)
-- Franklin Templeton SEC EDGAR filings (sec.gov/edgar)
-- DefiLlama Franklin Templeton BENJI dashboard (defillama.com)
-- Stellar Development Foundation public documentation (stellar.org)
-- Publicly disclosed chain-launch announcements from Franklin Templeton press releases
+- Franklin Templeton — FOBXX product page: https://www.franklintempleton.com/investments/options/money-market-funds/products/29386/SINGLCLASS/franklin-on-chain-u-s-government-money-fund/FOBXX
+- Franklin Templeton — FOBXX prospectus: https://www.franklintempleton.com/forms-literature/download-preview/9001-P
+- Franklin Templeton Digital Assets — official Benji page and deployment list: https://digitalassets.franklintempleton.com/benji/
+- Franklin Templeton / Stellar Development Foundation — five-year BENJI release: https://www.franklintempleton.com/press-releases/news-room/2026/franklin-templeton-stellar-development-foundation-mark-five-years-of-benji-the-first-u.s.-registered-tokenized-money-market-fund

@@ -1,11 +1,11 @@
 ---
 source: fintech/jp-trust-type-sc-architecture
-source_hash: d631fd2ddde9935d
+source_hash: c8b842169976fdbd
 lang: en
 status: machine
 fidelity: ok
 title: "Japan trust-type SC architecture"
-translated_at: 2026-06-18T23:59:13.121Z
+translated_at: 2026-07-30T00:00:00+09:00
 ---
 
 # Japan trust-type SC architecture
@@ -13,56 +13,53 @@ translated_at: 2026-06-18T23:59:13.121Z
 
 ## Wiki route
 
-This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech/multi-megabank-consortium-governance|多巨行联合体治理 —— 复数 megabank 共同持有 fintech 基础设施的治理模式]] for peer / contrast context and [[fintech/japan-financial-regulation|日本金融規制 — トークン・暗号資産・決済に関する法体系]] for the broader system / regulatory boundary.
+This entry sits under [[fintech/INDEX|fintech index]]. Read it against [[fintech/multi-megabank-consortium-governance|multi-megabank consortium governance — how multiple megabanks jointly own fintech infrastructure]] for peer / contrast context and [[fintech/japan-financial-regulation|Japan's financial-regulation framework for tokens, cryptoassets, and payments]] for the broader system / regulatory boundary.
 
 > [!info] TL;DR
-> Japan's amended Payment Services Act divides SC issuance into **three types** —— **trust type (第 3 号 EPI) / bank type (第 1 号 EPI) / funds-transfer-operator type (第 1 号 EPI)** —— each with a different legal basis / strength of bankruptcy isolation / remittance cap. **The trust type is the only viable path for B2B large-lot settlement** (no remittance cap + 100% bankruptcy isolation via a trust institution), and it is also the legal foundation of Progmat Coin / the three-megabank joint SC. It is structurally advantageous in the §501(d) interoperability scenario, but the cross-border channel remains open.
+> Under Japan's Payment Services Act, a trust-type stablecoin is treated as a **Type 3 electronic payment instrument (a specified trust beneficiary right)**. The Type 3 classification alone, however, does not establish an unlimited remittance amount, all-cash backing, B2B market leadership, or cross-border authorization. FSA materials distinguish the remittance limits of the trust-company and trust-bank routes. After amendments took effect on June 1, 2026, part of the backing assets may be held in specified short-term government bonds and time deposits. ^[source:FSA Payment Services WG material 2024-11-21; FSA 2026 implementing rules; Payment Services Act; Trust Act]
 
-## Comparison of the three-type structure
+## Issuance-route comparison within the scope of FSA materials
 
-| Dimension | Trust type (Progmat Coin) | Bank type (GMO Aozora Net Bank DCJPY) | Funds-transfer-operator type (JPYC) |
+| Dimension | Type 1 EPI: Type II funds-transfer service provider | Type 3 EPI: trust company | Type 3 EPI: trust bank |
 |---|---|---|---|
-| Legal basis | Payment Services Act, Article 2 , paragraph 9 , "specified trust beneficiary right" | Deposit-type token under the Banking Act | Payment Services Act, Type II funds-transfer business |
-| EPI number | **第 3 号** | 第 1 号 (bank issuance) | 第 1 号 (funds-transfer-operator issuance) |
-| Issuer | Trust bank (trustee) | Bank | Funds-transfer operator |
-| Collateral | **100% segregated management of trust property** (cash) | Bank's own capital + Deposit Insurance Corporation | 100% legal tender held in trust or a performance guarantee |
-| Bankruptcy isolation | **Legally guaranteed** (trust institution) | Up to deposit insurance 1,000 万円 | 100% protection via a performance guarantee |
-| Remittance cap | **None** | Conforms to banking operations generally | **1  times 100 万円** |
-| Interest attribution | **Attributed to the issuer** (as trust-trustee remuneration) | Deposit interest to the depositor | Interest on entrusted assets treated as deposited money |
-| Main user | B2B large-lot corporate | Individual retail / Web3 -native | Individual retail / SMEs |
-| KYC duality | Dual: consigning bank + trust bank | Bank only | Funds-transfer operator only |
+| Legal classification | Type 1 electronic payment instrument | Specified trust beneficiary right (Type 3 electronic payment instrument) | Specified trust beneficiary right (Type 3 electronic payment instrument) |
+| Entry route | Funds-transfer registration. The FSA comparison identifies Type II as a practical issuance route | Trust-company license or registration plus prior notification under the Payment Services Act | Banking license, authorization under the Concurrent Business Act, and prior notification |
+| Asset safeguarding | Security deposit or equivalent. Where assets are safeguarded through a trust, investment in safe assets may also be possible | Managed as trust property. From June 1, 2026, in addition to specified demand deposits, up to 50% of the issued amount may be held in certain short-term government bonds and cancellable time deposits | Managed as trust property. The current permitted backing-asset scope is the same as the column to the left |
+| Remittance limit | FSA material: ¥1 million per transfer | ¥1 million per transfer in principle. A business implementation plan must be approved for amounts above ¥1 million | FSA material: no limit |
+| What this table establishes | Regulatory comparison of issuance routes | Regulatory comparison of the trust-company route | Regulatory comparison of the trust-bank route |
 
-## Structural advantages of the trust type
+Source note: this table uses the issuer, entry-route, asset-safeguarding, and remittance-limit comparison on page 16 of the [FSA Payment Services System Working Group material (2024-11-21)](https://www.fsa.go.jp/singi/kessaiseido_wg/siryou/20241121/1.pdf) and the [publication page for the 2026 implementing rules](https://www.fsa.go.jp/news/r7/sonota/20260522/20260522.html). The latter states that the amended act and related ordinances took effect and became applicable on June 1, 2026.
 
-**(a) Strength of bankruptcy isolation**: In the trust type, even if the trustee bank fails, the trust property is attributed to the consignor. This is the Japanese version of the USDC model (Circle bankruptcy risk → protected by trustee BNY Mellon), but **legal certainty is higher because of the express provisions of the Trust Act**.
+## What can be established about the trust type
 
-**(b) The disruptive power of having no remittance cap**: Funds-transfer-operator types such as JPYC are **limited to individual retail** by the constraint of 1  times 100 万円. The trust type **can handle B2B large-lot settlement (transactions of 10 億円 up to several tens of billions of yen 1 )** —— this is the fundamental reason Progmat chose the trust type.
+**(a) Trust property and redemption**: Article 25 of the Trust Act limits the effect of opening bankruptcy proceedings against a trustee on property belonging to the trust. FSA materials explain, however, that the redemption resources for a Type 3 EPI are the trust property and that a decline in trust property may reduce the redeemable amount. Bankruptcy remoteness and an unconditional guarantee of redemption at par must therefore be assessed separately. ^[source:Trust Act Article 25; FSA Payment Services WG material]
 
-**(c) The meaning of multi-bank joint consignment**: In [[payment-firms/progmat|Progmat Coin]]'s trust scheme, **multiple banks ([[megabanks/mufg|MUFG]], [[megabanks/smfg|SMFG/SMBC]], Mizuho) become joint consignors**, and **Mitsubishi UFJ Trust 1 社 becomes the trustee**. This makes it legally possible to **back the customer deposits of 3  megabanks with a single unified joint SC** —— the legal foundation of [[fintech/multi-megabank-consortium-governance|多巨行联合体治理]].
+**(b) Remittance limits depend on the issuance route**: Type 3 status does not create a universally unlimited remittance amount. In the FSA comparison, the trust-company route is generally limited to ¥1 million and requires approval of a business implementation plan above that amount, while the trust-bank route has no limit. This alone does not prove that a particular product offers large-value B2B settlement or establish its permitted transaction size.
 
-## Relationship to §501(d)
+**(c) Progmat distinguishes the platform from individual issuance plans**: A November 6, 2023 joint release by Progmat, Ginco, and Mitsubishi UFJ Trust and Banking described a proposed XJPY / XUSD scheme in which Ginco would be the party requesting issuance, Mitsubishi UFJ Trust and Banking would be the issuer (trustee), and Progmat Coin would be the platform. It is a planning document for a particular project; it does not prove that three megabanks were joint settlors, that the 2024 issuance target was achieved, or that the project has any current market share. ^[source:Progmat/Ginco/MUFG Trust joint release 2023-11-06]
 
-GENIUS Act §501(d) requires an "interoperable jurisdiction" and a "trustworthy issuer" for cross-border interoperability. The trust type's **legal bankruptcy isolation + regulatory layering** has a high affinity with §501(d) certification. However:
+## Evidence boundary for cross-border use
 
-- Even for the trust type, **the §501(d) tier itself must be obtained separately** (it is not automatic)
-- Progmat Coin has not established a §501(d) channel → for cross-border use, routing via [[fintech/cross-border-sc-via-swift-api|Project Pax via SWIFT API]] is currently the mainstream
-- If the trust type **obtains a §501(d) tier** in the future, it may, backed by the legal strength of the trust institution, hold a structural advantage in interoperability with USDC
+Classification as a Type 3 EPI under Japanese law does not automatically grant authorization to issue, sell, or intermediate in another jurisdiction, nor does it confer a particular mutual-recognition tier. The FSA, e-Gov, and Progmat materials cited here do not establish U.S. recognition, an interoperability advantage over USDC, or that [[fintech/cross-border-sc-via-swift-api|Project Pax via Swift APIs]] is the current mainstream route. Cross-border claims must be verified separately against the current law and materials of the relevant jurisdiction, issuer, intermediary, and network.
 
-## Market split among the three types (current 2026)
+## Verification map for product and market claims
 
-| Segment | 1 位 | Structural reason |
+| Claim | Required source | Conclusion in this entry |
 |---|---|---|
-| B2B large-lot settlement | **Trust type (Progmat)** | No remittance cap + three-megabank customer base |
-| Retail settlement | Funds-transfer-operator type (JPYC) | Recognition + UX + §501(d) compat (via SBI) |
-| Bank-account-linked retail | Bank type (Minna Bank, Solana) | 1:1  linkage to existing accounts |
-| Cross-border large-lot | Trust type (Progmat) | Legal strength of the trust |
+| Legal classification and issuer eligibility | Payment Services Act, Trust Act, current FSA ordinances and supervisory materials | The Type 1 / Type 3 classifications and issuance routes can be established |
+| Launch and circulation of an individual product | Terms of issuance from the issuer / trustee, FSA register, and current disclosures by distributors | A past joint study or target date is not enough to treat a product as current / live |
+| Remittance limit | Issuance route, approval of business implementation plan, product terms | Do not infer a universal limit from “trust type” alone |
+| Leadership in B2B / retail / cross-border | Comparable dated transaction data with a defined scope | The primary sources in this entry contain no market-ranking data, so no leader is assigned |
+| Eligibility under foreign law | Regulator registration / recognition and a local entity in the target country | Do not infer it from Japan's EPI classification |
+
+Source note: legal-status claims should be checked against the [FSA EPI registration page](https://www.fsa.go.jp/common/shinsei/dendai/dentori.html), the current [Payment Services Act](https://elaws.e-gov.go.jp/document?lawid=421AC0000000059) and [Trust Act](https://elaws.e-gov.go.jp/document?lawid=418AC0000000108) on e-Gov, and the relevant issuer / trustee disclosure. The [2023 Progmat joint release](https://progmat.co.jp/press/pdf/press231106_01.pdf) is historical project evidence, not proof of present issuance or market leadership.
 
 ## Applications
 
-- In any "trust vs bank issuance" SC design discussion, the structural comparison can be pulled up at once
-- As a benchmark framework when comparing the Japan 4  camp in a §501(d) interoperability assessment
-- Understanding the pattern of layering a cross-border compliance channel (SWIFT API / IBC) on top of the trust type → [[fintech/cross-border-sc-via-swift-api|跨境 SC via SWIFT API]]
-- As the Japan-side implementation solution for [[fintech/institutional-stablecoin-deposit-token-thesis|機関投資家市場 = 預金トークン唯一解]]
+- Compare the regulatory differences between trust-company issuance and trust-bank issuance
+- Treat backing assets, redemption, bankruptcy remoteness, and remittance limits as separate verification axes
+- In discussions of [[fintech/cross-border-sc-via-swift-api|cross-border stablecoins via Swift APIs]], do not conflate domestic issuer eligibility with connection to a cross-border network
+- Use this as a legal baseline for testing the [[fintech/institutional-stablecoin-deposit-token-thesis|institutional stablecoin / deposit-token architecture]] hypothesis against product-specific Japanese data
 
 ---
 
@@ -70,9 +67,9 @@ GENIUS Act §501(d) requires an "interoperable jurisdiction" and a "trustworthy 
 ## Related
 <!-- wiki-links:managed -->
 - [[INDEX|Wiki Index]]
-- [[fintech/japan-stablecoin-regulatory-landscape|日本 Stablecoin 法制度三層構造]]
-- [[fintech/cross-border-sc-via-swift-api|跨境 SC via SWIFT API]]
-- [[fintech/multi-megabank-consortium-governance|多巨行联合体治理]]
-- [[fintech/institutional-stablecoin-deposit-token-thesis|機関投資家市場 = 預金トークン唯一解]]
-- [[fintech/genius-act-501-denylist-mandate|GENIUS Act §501 denylist]]
+- [[fintech/japan-stablecoin-regulatory-landscape|The three-layer structure of Japan's stablecoin regime]]
+- [[fintech/cross-border-sc-via-swift-api|Cross-border stablecoins via Swift APIs]]
+- [[fintech/multi-megabank-consortium-governance|Multi-megabank consortium governance]]
+- [[fintech/institutional-stablecoin-deposit-token-thesis|Institutional stablecoin / deposit-token architecture]]
+- [[fintech/genius-act-501-denylist-mandate|GENIUS Act implementation]]
 <!-- /wiki-links:managed -->
