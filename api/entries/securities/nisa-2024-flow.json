@@ -24,8 +24,8 @@
     "domain": "securities",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-20",
-    "last_tended": "2026-05-20",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -94,8 +94,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 3794,
-    "word_like_tokens": 584,
+    "nonspace_chars": 4320,
+    "word_like_tokens": 680,
     "inbound_wikilinks_count": 28,
     "last_modified": "2026-06-04"
   }

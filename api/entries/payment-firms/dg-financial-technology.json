@@ -27,8 +27,8 @@
     "domain": "payment-firms",
     "type": null,
     "created": "2026-05-21",
-    "last_updated": "2026-05-21",
-    "last_tended": "2026-05-21",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-11-21",
     "confidence": "likely",
     "tags": [
@@ -83,8 +83,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2199,
-    "word_like_tokens": 332,
+    "nonspace_chars": 2452,
+    "word_like_tokens": 378,
     "inbound_wikilinks_count": 16,
     "last_modified": "2026-06-06"
   }

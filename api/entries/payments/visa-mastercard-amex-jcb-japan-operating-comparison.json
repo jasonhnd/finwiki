@@ -29,8 +29,8 @@
     "domain": "payments",
     "type": null,
     "created": "2026-05-25",
-    "last_updated": "2026-05-25",
-    "last_tended": "2026-05-25",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-11-25",
     "confidence": "likely",
     "tags": [
@@ -171,8 +171,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 28948,
-    "word_like_tokens": 4600,
+    "nonspace_chars": 30064,
+    "word_like_tokens": 4784,
     "inbound_wikilinks_count": 1,
     "last_modified": "2026-06-04"
   }

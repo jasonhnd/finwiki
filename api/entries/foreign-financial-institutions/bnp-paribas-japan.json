@@ -27,8 +27,8 @@
     "domain": "foreign-financial-institutions",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-26",
-    "last_tended": "2026-05-26",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-11-15",
     "confidence": "likely",
     "tags": [
@@ -95,8 +95,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6831,
-    "word_like_tokens": 1199,
+    "nonspace_chars": 8328,
+    "word_like_tokens": 1487,
     "inbound_wikilinks_count": 21,
     "last_modified": "2026-06-22"
   }

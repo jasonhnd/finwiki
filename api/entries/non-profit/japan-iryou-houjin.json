@@ -28,8 +28,8 @@
     "domain": "non-profit",
     "type": null,
     "created": "2026-06-05",
-    "last_updated": "2026-06-05",
-    "last_tended": "2026-06-05",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2027-06-05",
     "confidence": "likely",
     "tags": [
@@ -90,8 +90,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6435,
-    "word_like_tokens": 1147,
+    "nonspace_chars": 6694,
+    "word_like_tokens": 1199,
     "inbound_wikilinks_count": 1,
     "last_modified": "2026-06-05"
   }

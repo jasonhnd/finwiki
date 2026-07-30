@@ -26,6 +26,32 @@
 - 每条记录应尽可能包含 JST 时间、背景、范围、主要文件或目录、执行步骤、验证结果与后续事项。
 - 本仓库正文只允许使用互联网公开信息、官方资料、公开披露或基于公开来源的分析。
 
+## 2026-07-30 - Table provenance batches 10-14 + opinions quarantine (#240-#244, #193)
+
+### 日本語
+
+- **2026-07-30 21:10 JST / 背景:** Issue #239 完了後、table provenance residual 877 warnings / 488 paths（#240–#244）を同一 release unit で解消し、並行して Issue #193 の `.opinions/**` 公開境界を option 2（公開 quarantine 契約）で確定した。
+- **範囲 / 主要ファイル:** `foreign-financial-institutions` / `money-market` / `non-profit` / `policy-finance` / `insurance` / `life-insurers` / `non-life-insurers` / `payment-firms` / `payments` / `regional-banks` / `securities` / `securities-firms` の 488 source paths と対応 976 ja/en mirrors。`.opinions/QUARANTINE.md`、`tools/opinions_quarantine_audit.ts`、`package.json` / `tools/verify.ts` / `AGENTS.md`。三言語 README / CHANGELOG / `releases/v2026.07.30-2.md` / discovery surfaces。
+- **実行手順 / content (#240–#244):** 各 residual table の直前に、frontmatter の公開 URL から導いた table-scoped lead と `^[source:…]` marker を付与し、licence / structure / product 境界を公開一次資料の範囲に限定。未検証の market share / ranking / 数値主張を表の解釈範囲から明示的に除外。ja/en mirrors も同構造の lead を挿入し `source_hash` を再計算。
+- **実行手順 / governance (#193):** `.opinions/**` を公開 GitHub 上で維持しつつ、サイト corpus 非掲載 ≠ 非公開 を契約で明文化。685 quarantine files の `type: opinion-quarantine` を audit で強制し、release gate に組込。
+- **検証結果 / 残タスク:** provenance residual `877 → 0`（owned #240–#244 全クリア、全 repo table residual 0）。i18n ja/en 各 1442 current。wiki audit 1489 entries / issues 0。`opinions:audit` files=685 problems=0。残タスクは work→pre→main、production deploy、same-SHA `v2026.07.30-2`、#192/#193/#240–#244 close。
+
+### English
+
+- **2026-07-30 21:10 JST / Background:** After Issue #239, clear the remaining 877 table-provenance warnings across 488 paths (#240–#244) in one release unit, and close Issue #193 by adopting option 2: keep `.opinions/**` under an explicit public quarantine contract.
+- **Scope / Primary files:** 488 source paths in foreign-financial-institutions, money-market, non-profit, policy-finance, insurance, life-insurers, non-life-insurers, payment-firms, payments, regional-banks, securities, and securities-firms, plus 976 ja/en mirrors; `.opinions/QUARANTINE.md`; `tools/opinions_quarantine_audit.ts`; `package.json` / `tools/verify.ts` / `AGENTS.md`; trilingual README / CHANGELOG / `releases/v2026.07.30-2.md` / discovery surfaces.
+- **Steps / Content (#240–#244):** For each residual table, insert a table-scoped lead and `^[source:…]` marker derived from public URLs already listed in frontmatter, bounding licence / structure / product readings to those primary sources and excluding unverified market share, ranking, or numeric claims from the table’s interpretative scope. Insert matching leads into ja/en mirrors and recompute `source_hash`.
+- **Steps / Governance (#193):** Keep `.opinions/**` in the public GitHub repo while documenting that site-corpus exclusion is not non-public status. Enforce `type: opinion-quarantine` on all 685 files via audit wired into the release gate.
+- **Validation / Follow-up:** Provenance residual `877 → 0` (all #240–#244 owned paths clear; full-repo table residual 0). i18n JA/EN each 1442 current. Wiki audit 1489 entries / 0 issues. `opinions:audit` 685 files / 0 problems. Remaining: work→pre→main, production deploy, same-SHA `v2026.07.30-2`, and close #192 / #193 / #240–#244.
+
+### 中文
+
+- **2026-07-30 21:10 JST / 背景:** Issue #239 完成后，将剩余 877 条 table provenance warnings / 488 paths（#240–#244）在同一 release unit 清零，并以 option 2（公开 quarantine 合同）关闭 Issue #193。
+- **范围 / 主要文件:** foreign-financial-institutions / money-market / non-profit / policy-finance / insurance / life-insurers / non-life-insurers / payment-firms / payments / regional-banks / securities / securities-firms 的 488 个 source paths 与 976 份 ja/en mirrors；`.opinions/QUARANTINE.md`、`tools/opinions_quarantine_audit.ts`、`package.json` / `tools/verify.ts` / `AGENTS.md`；三语 README / CHANGELOG / `releases/v2026.07.30-2.md` / discovery surfaces。
+- **执行步骤 / content (#240–#244):** 在每个 residual table 前插入由 frontmatter 公开 URL 推导的 table-scoped lead 与 `^[source:…]` marker，将 licence / structure / product 解读限定在公开一手资料范围内，并排除未核实 market share / ranking / 数值主张。ja/en mirrors 同步 lead 并重算 `source_hash`。
+- **执行步骤 / governance (#193):** 在公开 GitHub 仓库中保留 `.opinions/**`，明确站点 corpus 排除 ≠ 不公开；用审计强制 685 个文件的 `type: opinion-quarantine` 并接入 release gate。
+- **验证结果 / 后续:** provenance residual `877 → 0`；i18n ja/en 各 1442 current；wiki audit 1489 / 0 issues；`opinions:audit` 685 / 0。后续：work→pre→main、production deploy、same-SHA `v2026.07.30-2`，关闭 #192 / #193 / #240–#244。
+
 ## 2026-07-30 - Table provenance batch 09 corrections (#239)
 
 ### 日本語

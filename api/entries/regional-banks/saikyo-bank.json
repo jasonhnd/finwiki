@@ -23,8 +23,8 @@
     "domain": "regional-banks",
     "type": null,
     "created": "2026-05-21",
-    "last_updated": "2026-06-05",
-    "last_tended": "2026-06-05",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-12-05",
     "confidence": "likely",
     "tags": [
@@ -86,8 +86,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 2798,
-    "word_like_tokens": 403,
+    "nonspace_chars": 3035,
+    "word_like_tokens": 445,
     "inbound_wikilinks_count": 2,
     "last_modified": "2026-06-08"
   }

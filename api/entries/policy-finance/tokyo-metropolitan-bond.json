@@ -25,8 +25,8 @@
     "domain": "policy-finance",
     "type": null,
     "created": "2026-05-24",
-    "last_updated": "2026-05-24",
-    "last_tended": "2026-05-24",
+    "last_updated": "2026-07-30",
+    "last_tended": "2026-07-30",
     "review_by": "2026-11-20",
     "confidence": "likely",
     "tags": [
@@ -94,8 +94,8 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 6856,
-    "word_like_tokens": 1049,
+    "nonspace_chars": 7119,
+    "word_like_tokens": 1095,
     "inbound_wikilinks_count": 2,
     "last_modified": "2026-06-04"
   }
