@@ -14,6 +14,8 @@ interface DomainCount { slug: string; count: number }
 interface Heading { depth: number; slug: string; text: string }
 interface DiscoveryItem { title: string; lead: string; domain: string; route: string }
 interface DiscoveryLane { id: string; items: DiscoveryItem[] }
+interface SameEntityMember { route: string; domain: string; relation: 'canonical' | 'mirror'; title: string }
+interface SameEntityCluster { anchor: string; members: SameEntityMember[] }
 interface Props {
   lang: Lang;
   entry: any;
@@ -21,8 +23,9 @@ interface Props {
   headings?: Heading[];
   domains?: DomainCount[];
   discovery?: { lanes: DiscoveryLane[] };
+  sameEntity?: SameEntityCluster | null;
 }
-const { lang, entry, tr, headings = [], domains = [], discovery = { lanes: [] } } = Astro.props;
+const { lang, entry, tr, headings = [], domains = [], discovery = { lanes: [] }, sameEntity = null } = Astro.props;
 if (tr && !isPublishableTranslation(tr)) {
   throw new Error(`refusing to render non-publishable translation: ${tr.id ?? '(unknown)'}`);
 }
@@ -71,6 +74,9 @@ const entryHead = buildEntryHead({
   frontmatter: fm,
   site: Astro.site,
 });
+const sameEntityPeers = (sameEntity?.members ?? []).filter((member) => member.route !== route);
+const sameEntityNote =
+  lang === 'ja' ? '同じ主体の別視点。' : 'Another domain view of the same legal entity.';
 ---
 <Base lang={lang} title={title} description={fm.description} active="domains" wide entryHead={entryHead}>
   <div class="doc">
@@ -145,6 +151,22 @@ const entryHead = buildEntryHead({
           <div class="tagrow" aria-label={t(lang, 'entry.tags')}>
             {tags.map((tag: string) => <span class="tag">#{tag}</span>)}
           </div>
+        )}
+        {sameEntityPeers.length > 0 && (
+          <aside class="same-entity" aria-label={t(lang, 'domain.canonicalAnchors')}>
+            <p class="same-entity__label">{t(lang, 'domain.canonicalAnchors')}</p>
+            <p class="same-entity__note">{sameEntityNote}</p>
+            <ul class="same-entity__list">
+              {sameEntityPeers.map((member) => (
+                <li>
+                  <a href={u(lang, `${member.route}/`)}>
+                    <span class="same-entity__title">{member.title}</span>
+                    <span class="same-entity__meta">{domainName(member.domain, lang)}</span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </aside>
         )}
       </header>
 
@@ -412,6 +434,51 @@ const entryHead = buildEntryHead({
     color: var(--muted);
     font-family: var(--font-mono);
     overflow-wrap: anywhere;
+  }
+  .same-entity {
+    margin-top: 1rem;
+    padding-top: 0.85rem;
+    border-top: 1px solid var(--line);
+  }
+  .same-entity__label {
+    margin: 0;
+    color: var(--muted);
+    font-family: var(--font-mono);
+    font-size: 0.68rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+  .same-entity__note {
+    margin: 0.2rem 0 0.55rem;
+    color: var(--ink-2);
+    font-size: var(--fs-sm);
+  }
+  .same-entity__list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    gap: 0.35rem;
+  }
+  .same-entity__list a {
+    display: grid;
+    gap: 0.1rem;
+    min-width: 0;
+    color: var(--ink);
+    text-decoration: none;
+  }
+  .same-entity__list a:hover .same-entity__title {
+    color: var(--accent-2);
+  }
+  .same-entity__title {
+    font-weight: 650;
+    line-height: 1.35;
+    overflow-wrap: anywhere;
+  }
+  .same-entity__meta {
+    color: var(--muted);
+    font-size: var(--fs-xs);
   }
 
   /* right toc */

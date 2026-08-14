@@ -5,6 +5,8 @@ import { langCodes, type Lang } from '../../i18n/ui';
 import { entryDomain, entryRoute, i18nEntryId } from '../../lib/routes';
 import { publishableTranslations } from '../../lib/translations';
 import { buildEntryDiscovery, buildEntryDiscoveryGraph } from '../../lib/entryDiscovery.mjs';
+import { localizedTitle } from '../../lib/siteIndex.mjs';
+import { buildCanonicalClusters, clusterForRoute } from '../../layouts/canonicalAnchors';
 
 export async function getStaticPaths() {
   const entries = await getCollection('entries');
@@ -25,10 +27,31 @@ export async function getStaticPaths() {
     i18nMap = new Map(all.map((entry) => [entry.id, entry]));
   } catch {}
 
+  const clusters = buildCanonicalClusters(entries);
+  const entryByRoute = new Map(entries.map((entry) => [entryRoute(entry), entry]));
+
+  function titleFor(lang: Lang, entry: (typeof entries)[number]): string {
+    const tr = i18nMap.get(i18nEntryId(lang, entry));
+    return String(tr?.data?.title || localizedTitle(lang, entryRoute(entry)) || entry.data.title || entryRoute(entry));
+  }
+
   return langCodes.flatMap((lang) =>
     entries.map((entry) => {
       const route = entryRoute(entry);
       const discovery = buildEntryDiscovery({ lang, entry, graph: discoveryGraph });
+      const cluster = clusterForRoute(clusters, route);
+      const sameEntity = cluster
+        ? {
+            anchor: cluster.anchor,
+            members: cluster.members.map((member) => {
+              const memberEntry = entryByRoute.get(member.route);
+              return {
+                ...member,
+                title: memberEntry ? titleFor(lang, memberEntry) : member.route,
+              };
+            }),
+          }
+        : null;
       return {
         params: { lang, slug: route },
         props: {
@@ -37,22 +60,27 @@ export async function getStaticPaths() {
           lang: lang as Lang,
           domains,
           discovery,
+          sameEntity,
         },
       };
     }),
   );
 }
 
-const { entry, tr, lang, domains, discovery } = Astro.props as {
+const { entry, tr, lang, domains, discovery, sameEntity } = Astro.props as {
   entry: any;
   tr: any;
   lang: Lang;
   domains: { slug: string; count: number }[];
   discovery: { lanes: { id: string; items: any[] }[] };
+  sameEntity: {
+    anchor: string;
+    members: { route: string; domain: string; relation: 'canonical' | 'mirror'; title: string }[];
+  } | null;
 };
 // Render the translation when present, else fall back to the Japanese source.
 const { Content, headings } = await render(tr ?? entry);
 ---
-<EntryLayout lang={lang} entry={entry} tr={tr} headings={headings} domains={domains} discovery={discovery}>
+<EntryLayout lang={lang} entry={entry} tr={tr} headings={headings} domains={domains} discovery={discovery} sameEntity={sameEntity}>
   <Content />
 </EntryLayout>
