@@ -1,18 +1,18 @@
 ---
 source: megabanks/smbc
-source_hash: afac0e603cad9e1d
+source_hash: b0bcbc7e686707f7
 lang: ja
 status: machine
 fidelity: ok
 title: "三井住友銀行"
-translated_at: 2026-07-28T23:40:04.215Z
+translated_at: 2026-08-14T00:00:00+09:00
 ---
 
 # 三井住友銀行
 
 ## ウィキ上の位置づけ
 
-この項目は [[megabanks/INDEX|megabanks INDEX]] の配下に位置づける。同業・比較対象の文脈は [[megabanks/smfg|SMFG (親会社)]]、[[megabanks/mufg-bank|MUFG 銀行]]、[[megabanks/mizuho-bank|みずほ銀行]]（3 大メガバンク）と照らし、より広い規制上の境界は [[financial-regulators/fsa|金融庁]] / [[financial-regulators/boj|日本銀行]] を参照する。
+この項目は [[megabanks/INDEX|megabanks INDEX]] の配下に位置づける。法的には [[megabanks/sumitomo-mitsui-banking-corp|株式会社三井住友銀行]] と同一の銀行である。同業・比較対象の文脈は [[megabanks/smfg|SMFG (親会社)]]、[[megabanks/mufg-bank|MUFG 銀行]]、[[megabanks/mizuho-bank|みずほ銀行]]（3 大メガバンク）と照らし、より広い規制上の境界は [[financial-regulators/fsa|金融庁]] / [[financial-regulators/boj|日本銀行]] を参照する。
 
 ## 要約
 

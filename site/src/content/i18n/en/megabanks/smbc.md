@@ -1,18 +1,18 @@
 ---
 source: megabanks/smbc
-source_hash: afac0e603cad9e1d
+source_hash: b0bcbc7e686707f7
 lang: en
 status: machine
 fidelity: ok
 title: "Sumitomo Mitsui Banking Corporation (株式会社三井住友銀行 / SMBC)"
-translated_at: 2026-07-29T00:34:30.687Z
+translated_at: 2026-08-14T00:00:00+09:00
 ---
 
 # Sumitomo Mitsui Banking Corporation (株式会社三井住友銀行 / SMBC)
 
 ## Wiki route
 
-This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[megabanks/smfg|SMFG (親会社)]], [[megabanks/mufg-bank|MUFG 銀行]], [[megabanks/mizuho-bank|みずほ銀行]] for peer / contrast (the 3  megabanks), and [[financial-regulators/fsa|金融庁]] / [[financial-regulators/boj|日本銀行]] for the broader regulatory boundary.
+This entry sits under [[megabanks/INDEX|megabanks INDEX]]. It is the same legal bank as [[megabanks/sumitomo-mitsui-banking-corp|Sumitomo Mitsui Banking Corporation]]. Read it against [[megabanks/smfg|SMFG (親会社)]], [[megabanks/mufg-bank|MUFG 銀行]], [[megabanks/mizuho-bank|みずほ銀行]] for peer / contrast (the 3  megabanks), and [[financial-regulators/fsa|金融庁]] / [[financial-regulators/boj|日本銀行]] for the broader regulatory boundary.
 
 ## TL;DR
 

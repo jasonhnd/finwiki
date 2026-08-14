@@ -149,4 +149,61 @@ describe("fact freshness inference", () => {
 
     expect(byPath.has("example/future-reviewed-profile.md")).toBe(false);
   });
+
+  test("omits current scenario-assumption pages whose only actionable reason is low_confidence", async () => {
+    const rootDir = await mkdtemp(path.join(os.tmpdir(), "finwiki-freshness-scenario-"));
+    temporaryRoots.push(rootDir);
+    const write = async (name: string, extras: string[]): Promise<void> => {
+      const filePath = path.join(rootDir, "fintech", name);
+      await mkdir(path.dirname(filePath), { recursive: true });
+      await writeFile(
+        filePath,
+        [
+          "---",
+          `title: ${name}`,
+          "domain: fintech",
+          "status: active",
+          ...extras,
+          "sources:",
+          "  - https://example.com/public-source",
+          "---",
+          "",
+          `# ${name}`,
+          "",
+          "Scenario inputs only.",
+          "",
+        ].join("\n"),
+        "utf8",
+      );
+    };
+
+    await write("current-scenario.md", [
+      "confidence: possible",
+      "tags: [fintech, scenario-assumption]",
+      "last_updated: 2026-07-01",
+      "last_tended: 2026-07-01",
+      "review_by: 2026-12-01",
+    ]);
+    await write("due-scenario.md", [
+      "confidence: possible",
+      "tags: [fintech, scenario-assumption]",
+      "last_updated: 2026-07-01",
+      "last_tended: 2026-07-01",
+      "review_by: 2026-07-01",
+    ]);
+    await write("untagged-possible.md", [
+      "confidence: possible",
+      "tags: [fintech]",
+      "last_updated: 2026-07-01",
+      "last_tended: 2026-07-01",
+      "review_by: 2026-12-01",
+    ]);
+
+    const rows = runFreshness(rootDir);
+    const byPath = new Map(rows.map((row) => [row.path, row]));
+    expect(byPath.has("fintech/current-scenario.md")).toBe(false);
+    expect(byPath.get("fintech/due-scenario.md")?.reasons).toContain("review_by_due");
+    expect(byPath.get("fintech/due-scenario.md")?.reasons).toContain("low_confidence");
+    expect(byPath.get("fintech/untagged-possible.md")?.reasons).toEqual(["low_confidence"]);
+  });
 });

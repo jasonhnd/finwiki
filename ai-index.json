@@ -1,22 +1,22 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-08-14T17:57:48+09:00",
+  "generated_at": "2026-08-14T18:18:39+09:00",
   "counts": {
-    "markdown_files": 1611,
-    "public_markdown_pages": 1610,
+    "markdown_files": 1612,
+    "public_markdown_pages": 1611,
     "site_urls_in_sitemap": 1482,
     "topical_domains": 40,
     "link_audited_entries": 1489,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 11185716,
-    "word_like_tokens": 1803572,
-    "entity_anchors": 12,
-    "entity_mirror_pages": 12,
-    "entity_nodes": 89,
-    "entity_edges": 68,
-    "entity_edges_declared": 34,
-    "entity_edges_derived": 34,
+    "nonspace_utf8_chars": 11187016,
+    "word_like_tokens": 1803867,
+    "entity_anchors": 13,
+    "entity_mirror_pages": 13,
+    "entity_nodes": 93,
+    "entity_edges": 78,
+    "entity_edges_declared": 39,
+    "entity_edges_derived": 39,
     "entity_edges_unresolved_targets": 0
   },
   "navigation": {
@@ -643,6 +643,27 @@
       ]
     },
     {
+      "anchor": "megabanks/sumitomo-mitsui-banking-corp",
+      "anchor_url": "https://finwiki.zksc.io/ja/megabanks/sumitomo-mitsui-banking-corp/",
+      "anchor_resolves": true,
+      "member_count": 2,
+      "mirror_count": 1,
+      "members": [
+        {
+          "source_path": "megabanks/sumitomo-mitsui-banking-corp.md",
+          "url": "https://finwiki.zksc.io/ja/megabanks/sumitomo-mitsui-banking-corp/",
+          "domain": "megabanks",
+          "relation": "canonical"
+        },
+        {
+          "source_path": "megabanks/smbc.md",
+          "url": "https://finwiki.zksc.io/ja/megabanks/smbc/",
+          "domain": "megabanks",
+          "relation": "mirror"
+        }
+      ]
+    },
+    {
       "anchor": "non-life-insurers/ja-kyosairen",
       "anchor_url": "https://finwiki.zksc.io/ja/non-life-insurers/ja-kyosairen/",
       "anchor_resolves": true,
@@ -1249,6 +1270,15 @@
       "mirrors": []
     },
     {
+      "anchor": "megabanks/japan-post-holdings",
+      "url": "https://finwiki.zksc.io/ja/megabanks/japan-post-holdings/",
+      "kind": "financial_group",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "megabanks",
+      "mirrors": []
+    },
+    {
       "anchor": "megabanks/mizuho-bank",
       "url": "https://finwiki.zksc.io/ja/megabanks/mizuho-bank/",
       "kind": "operating_company",
@@ -1303,9 +1333,27 @@
       "mirrors": []
     },
     {
+      "anchor": "megabanks/resona-bank",
+      "url": "https://finwiki.zksc.io/ja/megabanks/resona-bank/",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "megabanks",
+      "mirrors": []
+    },
+    {
       "anchor": "megabanks/resona-hd",
       "url": "https://finwiki.zksc.io/ja/megabanks/resona-hd/",
       "kind": "financial_group",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "megabanks",
+      "mirrors": []
+    },
+    {
+      "anchor": "megabanks/saitama-resona-bank",
+      "url": "https://finwiki.zksc.io/ja/megabanks/saitama-resona-bank/",
+      "kind": "operating_company",
       "scope": "japan_core",
       "status": "anchor",
       "domain": "megabanks",
@@ -1326,6 +1374,15 @@
       "kind": "financial_group",
       "scope": "japan_core",
       "status": "anchor",
+      "domain": "megabanks",
+      "mirrors": []
+    },
+    {
+      "anchor": "megabanks/smbc",
+      "url": "https://finwiki.zksc.io/ja/megabanks/smbc/",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "mirror_member",
       "domain": "megabanks",
       "mirrors": []
     },
@@ -1356,7 +1413,9 @@
       "scope": "japan_core",
       "status": "anchor",
       "domain": "megabanks",
-      "mirrors": []
+      "mirrors": [
+        "megabanks/smbc.md"
+      ]
     },
     {
       "anchor": "non-life-insurers/mitsui-sumitomo-insurance",
@@ -1741,6 +1800,36 @@
       "source": "financial-regulators/fsa",
       "source_url": "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
       "relation": "regulates",
+      "target": "megabanks/resona-bank",
+      "target_url": "https://finwiki.zksc.io/ja/megabanks/resona-bank/",
+      "target_resolves": true,
+      "declared_in": "megabanks/resona-bank.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "as_of": "2026-08-14",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "megabanks/resona-bank::regulated_by::financial-regulators/fsa"
+    },
+    {
+      "source": "financial-regulators/fsa",
+      "source_url": "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "relation": "regulates",
+      "target": "megabanks/saitama-resona-bank",
+      "target_url": "https://finwiki.zksc.io/ja/megabanks/saitama-resona-bank/",
+      "target_resolves": true,
+      "declared_in": "megabanks/saitama-resona-bank.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "as_of": "2026-08-14",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "megabanks/saitama-resona-bank::regulated_by::financial-regulators/fsa"
+    },
+    {
+      "source": "financial-regulators/fsa",
+      "source_url": "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "relation": "regulates",
       "target": "megabanks/sumitomo-mitsui-banking-corp",
       "target_url": "https://finwiki.zksc.io/ja/megabanks/sumitomo-mitsui-banking-corp/",
       "target_resolves": true,
@@ -1966,6 +2055,21 @@
       "source": "financial-regulators/zenginkyo",
       "source_url": "https://finwiki.zksc.io/ja/financial-regulators/zenginkyo/",
       "relation": "has_sro_member",
+      "target": "megabanks/resona-bank",
+      "target_url": "https://finwiki.zksc.io/ja/megabanks/resona-bank/",
+      "target_resolves": true,
+      "declared_in": "megabanks/resona-bank.md",
+      "evidence": "industry_body_member_list",
+      "source_ref": "https://www.zenginkyo.or.jp/en/members/",
+      "as_of": "2026-08-14",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "megabanks/resona-bank::member_of_sro::financial-regulators/zenginkyo"
+    },
+    {
+      "source": "financial-regulators/zenginkyo",
+      "source_url": "https://finwiki.zksc.io/ja/financial-regulators/zenginkyo/",
+      "relation": "has_sro_member",
       "target": "megabanks/sumitomo-mitsui-banking-corp",
       "target_url": "https://finwiki.zksc.io/ja/megabanks/sumitomo-mitsui-banking-corp/",
       "target_resolves": true,
@@ -2165,6 +2269,106 @@
       "confidence": "likely",
       "derived": true,
       "inverse_of": "payment-firms/paypay::subsidiary_of::megabanks/paypay-fg"
+    },
+    {
+      "source": "megabanks/resona-bank",
+      "source_url": "https://finwiki.zksc.io/ja/megabanks/resona-bank/",
+      "relation": "member_of_sro",
+      "target": "financial-regulators/zenginkyo",
+      "target_url": "https://finwiki.zksc.io/ja/financial-regulators/zenginkyo/",
+      "target_resolves": true,
+      "declared_in": "megabanks/resona-bank.md",
+      "evidence": "industry_body_member_list",
+      "source_ref": "https://www.zenginkyo.or.jp/en/members/",
+      "as_of": "2026-08-14",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "megabanks/resona-bank",
+      "source_url": "https://finwiki.zksc.io/ja/megabanks/resona-bank/",
+      "relation": "regulated_by",
+      "target": "financial-regulators/fsa",
+      "target_url": "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "target_resolves": true,
+      "declared_in": "megabanks/resona-bank.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "as_of": "2026-08-14",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "megabanks/resona-bank",
+      "source_url": "https://finwiki.zksc.io/ja/megabanks/resona-bank/",
+      "relation": "subsidiary_of",
+      "target": "megabanks/resona-hd",
+      "target_url": "https://finwiki.zksc.io/ja/megabanks/resona-hd/",
+      "target_resolves": true,
+      "declared_in": "megabanks/resona-bank.md",
+      "evidence": "official_profile",
+      "source_ref": "https://www.resona-gr.co.jp/holdings/about/group/",
+      "as_of": "2026-08-14",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "megabanks/resona-hd",
+      "source_url": "https://finwiki.zksc.io/ja/megabanks/resona-hd/",
+      "relation": "parent_of",
+      "target": "megabanks/resona-bank",
+      "target_url": "https://finwiki.zksc.io/ja/megabanks/resona-bank/",
+      "target_resolves": true,
+      "declared_in": "megabanks/resona-bank.md",
+      "evidence": "official_profile",
+      "source_ref": "https://www.resona-gr.co.jp/holdings/about/group/",
+      "as_of": "2026-08-14",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "megabanks/resona-bank::subsidiary_of::megabanks/resona-hd"
+    },
+    {
+      "source": "megabanks/resona-hd",
+      "source_url": "https://finwiki.zksc.io/ja/megabanks/resona-hd/",
+      "relation": "parent_of",
+      "target": "megabanks/saitama-resona-bank",
+      "target_url": "https://finwiki.zksc.io/ja/megabanks/saitama-resona-bank/",
+      "target_resolves": true,
+      "declared_in": "megabanks/saitama-resona-bank.md",
+      "evidence": "official_profile",
+      "source_ref": "https://www.resona-gr.co.jp/holdings/about/group/",
+      "as_of": "2026-08-14",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "megabanks/saitama-resona-bank::subsidiary_of::megabanks/resona-hd"
+    },
+    {
+      "source": "megabanks/saitama-resona-bank",
+      "source_url": "https://finwiki.zksc.io/ja/megabanks/saitama-resona-bank/",
+      "relation": "regulated_by",
+      "target": "financial-regulators/fsa",
+      "target_url": "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "target_resolves": true,
+      "declared_in": "megabanks/saitama-resona-bank.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "as_of": "2026-08-14",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "megabanks/saitama-resona-bank",
+      "source_url": "https://finwiki.zksc.io/ja/megabanks/saitama-resona-bank/",
+      "relation": "subsidiary_of",
+      "target": "megabanks/resona-hd",
+      "target_url": "https://finwiki.zksc.io/ja/megabanks/resona-hd/",
+      "target_resolves": true,
+      "declared_in": "megabanks/saitama-resona-bank.md",
+      "evidence": "official_profile",
+      "source_ref": "https://www.resona-gr.co.jp/holdings/about/group/",
+      "as_of": "2026-08-14",
+      "confidence": "likely",
+      "derived": false
     },
     {
       "source": "megabanks/sbi-hd",
@@ -2609,12 +2813,12 @@
     }
   ],
   "entity_relation_counts": {
-    "has_sro_member": 6,
-    "member_of_sro": 6,
-    "parent_of": 14,
-    "regulated_by": 14,
-    "regulates": 14,
-    "subsidiary_of": 14
+    "has_sro_member": 7,
+    "member_of_sro": 7,
+    "parent_of": 16,
+    "regulated_by": 16,
+    "regulates": 16,
+    "subsidiary_of": 16
   },
   "entries": [
     {
@@ -2663,11 +2867,11 @@
         "日本語",
         "English",
         "中文",
-        "2026-08-14 - Weekly freshness overdue sweep (#277)",
+        "2026-08-14 - Horizon follow-ups (#278–#281, #286)",
         "日本語",
         "English",
         "中文",
-        "2026-08-14 - Astro 依存関係の high 修正と三円シナリオ再確認 (#276, #277)"
+        "2026-08-14 - Weekly freshness overdue sweep (#277)"
       ],
       "wikilinks": [],
       "resolved_wikilinks": [],
@@ -2676,8 +2880,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 283808,
-      "word_like_tokens": 52231,
+      "nonspace_chars": 286407,
+      "word_like_tokens": 52710,
       "last_modified": "2026-08-14"
     },
     {
@@ -59829,11 +60033,15 @@
         "https://finwiki.zksc.io/ja/regional-banks/japan-post-bank/"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "financial_group",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
       "entity_edges": [],
-      "nonspace_chars": 5778,
-      "word_like_tokens": 921,
-      "last_modified": "2026-07-29"
+      "nonspace_chars": 5839,
+      "word_like_tokens": 931,
+      "last_modified": "2026-08-14"
     },
     {
       "source_path": "megabanks/mizuho-bank.md",
@@ -60362,11 +60570,40 @@
         "https://finwiki.zksc.io/ja/megabanks/saitama-resona-bank/"
       ],
       "markdown_links": [],
-      "entity_node": null,
-      "entity_edges": [],
-      "nonspace_chars": 2264,
-      "word_like_tokens": 344,
-      "last_modified": "2026-07-29"
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
+      "entity_edges": [
+        {
+          "relation": "subsidiary_of",
+          "target": "megabanks/resona-hd",
+          "evidence": "official_profile",
+          "source": "https://www.resona-gr.co.jp/holdings/about/group/",
+          "as_of": "2026-08-14",
+          "confidence": "likely"
+        },
+        {
+          "relation": "regulated_by",
+          "target": "financial-regulators/fsa",
+          "evidence": "official_registry",
+          "source": "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+          "as_of": "2026-08-14",
+          "confidence": "likely"
+        },
+        {
+          "relation": "member_of_sro",
+          "target": "financial-regulators/zenginkyo",
+          "evidence": "industry_body_member_list",
+          "source": "https://www.zenginkyo.or.jp/en/members/",
+          "as_of": "2026-08-14",
+          "confidence": "likely"
+        }
+      ],
+      "nonspace_chars": 2843,
+      "word_like_tokens": 438,
+      "last_modified": "2026-08-14"
     },
     {
       "source_path": "megabanks/resona-hd.md",
@@ -60472,11 +60709,32 @@
         "https://finwiki.zksc.io/ja/megabanks/resona-hd/"
       ],
       "markdown_links": [],
-      "entity_node": null,
-      "entity_edges": [],
-      "nonspace_chars": 2172,
-      "word_like_tokens": 322,
-      "last_modified": "2026-07-29"
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
+      "entity_edges": [
+        {
+          "relation": "subsidiary_of",
+          "target": "megabanks/resona-hd",
+          "evidence": "official_profile",
+          "source": "https://www.resona-gr.co.jp/holdings/about/group/",
+          "as_of": "2026-08-14",
+          "confidence": "likely"
+        },
+        {
+          "relation": "regulated_by",
+          "target": "financial-regulators/fsa",
+          "evidence": "official_registry",
+          "source": "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+          "as_of": "2026-08-14",
+          "confidence": "likely"
+        }
+      ],
+      "nonspace_chars": 2578,
+      "word_like_tokens": 388,
+      "last_modified": "2026-08-14"
     },
     {
       "source_path": "megabanks/sbi-hd.md",
@@ -60623,8 +60881,8 @@
       "title": "株式会社三井住友銀行 (SMBC)",
       "domain": "megabanks",
       "entry_type": "wiki_entry",
-      "canonical_anchor": "",
-      "summary": "This entry sits under megabanks INDEX. Read it against SMFG (親会社), MUFG 銀行, みずほ銀行 for peer / contrast (3 大メガバンク), and 金融庁 / 日本銀行 for the broader regulatory boundary.",
+      "canonical_anchor": "megabanks/sumitomo-mitsui-banking-corp",
+      "summary": "This entry sits under megabanks INDEX. It is the same legal bank as Sumitomo Mitsui Banking Corporation. Read it against SMFG (親会社), MUFG 銀行, みずほ銀行 for peer / contrast (3 大メガバンク), and 金融庁 / 日本銀行 for the broader regulatory boundary.",
       "headings": [
         "株式会社三井住友銀行 (SMBC)",
         "Wiki route",
@@ -60651,6 +60909,7 @@
         "megabanks/mufg",
         "megabanks/mufg-bank",
         "megabanks/smfg",
+        "megabanks/sumitomo-mitsui-banking-corp",
         "regional-banks/japan-post-bank",
         "securities-firms/smbc-nikko",
         "trust-banks/smbc-trust-bank"
@@ -60669,16 +60928,21 @@
         "https://finwiki.zksc.io/ja/megabanks/mufg/",
         "https://finwiki.zksc.io/ja/megabanks/mufg-bank/",
         "https://finwiki.zksc.io/ja/megabanks/smfg/",
+        "https://finwiki.zksc.io/ja/megabanks/sumitomo-mitsui-banking-corp/",
         "https://finwiki.zksc.io/ja/regional-banks/japan-post-bank/",
         "https://finwiki.zksc.io/ja/securities-firms/smbc-nikko/",
         "https://finwiki.zksc.io/ja/trust-banks/smbc-trust-bank/"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "mirror_member"
+      },
       "entity_edges": [],
-      "nonspace_chars": 5609,
-      "word_like_tokens": 929,
-      "last_modified": "2026-07-29"
+      "nonspace_chars": 5832,
+      "word_like_tokens": 963,
+      "last_modified": "2026-08-14"
     },
     {
       "source_path": "megabanks/smfg.md",
@@ -85953,13 +86217,14 @@
       "markdown_links": [
         "./v2026.07.30-2.md",
         "./v2026.08.14-2.md",
+        "./v2026.08.14-3.md",
         "./v2026.08.14.md",
         "https://github.com/jasonhnd/finwiki/blob/528c39e81be2faf3e7d17c1197da9a5569985e51/CHANGELOG.md"
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 12533,
-      "word_like_tokens": 2402,
+      "nonspace_chars": 12628,
+      "word_like_tokens": 2420,
       "last_modified": "2026-08-14"
     },
     {
@@ -89802,6 +90067,39 @@
       "entity_edges": [],
       "nonspace_chars": 2052,
       "word_like_tokens": 405,
+      "last_modified": "2026-08-14"
+    },
+    {
+      "source_path": "releases/v2026.08.14-3.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.08.14-3.md",
+      "html_url": null,
+      "alternate_html_urls": null,
+      "raw_markdown_url": "https://finwiki.zksc.io/releases/v2026.08.14-3.md",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.08.14-3.md",
+      "title": "鮮度校正と実体ノード第一批",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "canonical_anchor": "",
+      "summary": "",
+      "headings": [
+        "鮮度校正と実体ノード第一批",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "entity_node": null,
+      "entity_edges": [],
+      "nonspace_chars": 1937,
+      "word_like_tokens": 359,
       "last_modified": "2026-08-14"
     },
     {
@@ -106430,8 +106728,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 8134,
-      "word_like_tokens": 1420,
+      "nonspace_chars": 3534,
+      "word_like_tokens": 655,
       "last_modified": "2026-08-14"
     }
   ]
