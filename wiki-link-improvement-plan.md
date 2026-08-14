@@ -15,7 +15,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 4 |
+| Changed or new entries in current worktree | 0 |
 | canonical_anchor declarations checked (informational) | 13 |
 | canonical_anchor drift (informational, non-gating) | 0 |
 
@@ -41,10 +41,6 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `megabanks/japan-post-holdings.md` | `M` | 21 | ok |
-| `megabanks/resona-bank.md` | `M` | 9 | ok |
-| `megabanks/saitama-resona-bank.md` | `M` | 10 | ok |
-| `megabanks/smbc.md` | `M` | 27 | ok |
 
 ## Domain Snapshot
 

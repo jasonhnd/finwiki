@@ -1,12 +1,12 @@
 # Compact Human-Site Read Surface
 
-Status: accepted specification for Issue #280
+Status: implemented on the human site by Issue #287. Spec parent remains #280.
 
 Date: 2026-08-14 JST
 
 Parents: Horizon 3 in [roadmap.md](../01-strategy/roadmap.md). Deepens [Human Site Reading Experience](human-site-reading-experience-spec.md) without replacing it.
 
-Scope: specification only. This file does not authorize `site/src/**` edits. Implementation belongs to a follow-up issue.
+Scope: specification plus the #287 site implementation in `site/src/pages/**` and `site/src/layouts/**`. Corpus edits, quality / freshness badges, and typed `entity_edges` panels remain out of scope.
 
 ## Goal
 
@@ -41,9 +41,14 @@ If any prerequisite regresses, the compact surface stays unshipped.
 
 ## Follow-up implementation
 
-Allowed files for the later code issue: `site/src/pages/**`, `site/src/layouts/**`, `site/src/styles/global.css`. No corpus edits. No new entity curation.
+Shipped in #287. Allowed files were `site/src/pages/**`, `site/src/layouts/**`, `site/src/styles/global.css`. No corpus edits. No new entity curation.
 
 ## Validation for this spec issue
 
 - `bun run docs:audit`
 - `git diff --check`
+
+## Validation for the implementation issue
+
+- `bun run verify --out _site`
+- visual QA on ja/en home, browse, and one mirror page
