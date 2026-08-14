@@ -1,6 +1,6 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-08-14T19:28:26+09:00
+Generated: 2026-08-15T01:07:18+09:00
 Site: https://finwiki.zksc.io
 Markdown files: 1613
 Public pages listed: 1612
@@ -30,7 +30,7 @@ Public pages listed: 1612
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/CHANGELOG.md
 - Domain: root
 - Type: control_doc
-- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-08-14 - Compact human-site read surface (#287), 日本語, English
+- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-08-15 - Entity deepening batch 02 spec (#292), 日本語, English
 
 ### How to navigate FinWiki — reader profile guide
 - URL: https://finwiki.zksc.io/HOW-TO-NAVIGATE.md
