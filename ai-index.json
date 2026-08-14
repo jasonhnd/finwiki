@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-07-30T21:11:46+09:00",
+  "generated_at": "2026-08-14T13:24:49+09:00",
   "counts": {
-    "markdown_files": 1609,
-    "public_markdown_pages": 1608,
+    "markdown_files": 1610,
+    "public_markdown_pages": 1609,
     "site_urls_in_sitemap": 1482,
     "topical_domains": 40,
     "link_audited_entries": 1489,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 11184904,
-    "word_like_tokens": 1803288,
+    "nonspace_utf8_chars": 11176449,
+    "word_like_tokens": 1801890,
     "entity_anchors": 12,
     "entity_mirror_pages": 12,
     "entity_nodes": 89,
@@ -2663,11 +2663,11 @@
         "日本語",
         "English",
         "中文",
-        "2026-07-30 - Table provenance batches 10-14 + opinions quarantine (#240-#244, #193)",
+        "2026-08-14 - Astro 依存関係の high 修正と三円シナリオ再確認 (#276, #277)",
         "日本語",
         "English",
         "中文",
-        "2026-07-30 - Table provenance batch 09 corrections (#239)"
+        "2026-07-30 - Table provenance batches 10-14 + opinions quarantine (#240-#244, #193)"
       ],
       "wikilinks": [],
       "resolved_wikilinks": [],
@@ -2676,8 +2676,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 279267,
-      "word_like_tokens": 51344,
+      "nonspace_chars": 281493,
+      "word_like_tokens": 51776,
       "last_modified": "2026-07-30"
     },
     {
@@ -45627,8 +45627,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 4282,
-      "word_like_tokens": 700,
+      "nonspace_chars": 4302,
+      "word_like_tokens": 702,
       "last_modified": "2026-07-29"
     },
     {
@@ -85952,12 +85952,13 @@
       "resolved_wikilinks": [],
       "markdown_links": [
         "./v2026.07.30-2.md",
+        "./v2026.08.14.md",
         "https://github.com/jasonhnd/finwiki/blob/528c39e81be2faf3e7d17c1197da9a5569985e51/CHANGELOG.md"
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 12369,
-      "word_like_tokens": 2372,
+      "nonspace_chars": 12463,
+      "word_like_tokens": 2388,
       "last_modified": "2026-07-30"
     },
     {
@@ -89768,6 +89769,39 @@
       "nonspace_chars": 9871,
       "word_like_tokens": 1690,
       "last_modified": "2026-07-30"
+    },
+    {
+      "source_path": "releases/v2026.08.14.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.08.14.md",
+      "html_url": null,
+      "alternate_html_urls": null,
+      "raw_markdown_url": "https://finwiki.zksc.io/releases/v2026.08.14.md",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.08.14.md",
+      "title": "依存関係の修正と三円シナリオ再確認",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "canonical_anchor": "",
+      "summary": "",
+      "headings": [
+        "依存関係の修正と三円シナリオ再確認",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "entity_node": null,
+      "entity_edges": [],
+      "nonspace_chars": 2159,
+      "word_like_tokens": 410,
+      "last_modified": "2026-08-14"
     },
     {
       "source_path": "retail/INDEX.md",
@@ -106362,8 +106396,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 16389,
-      "word_like_tokens": 2895,
+      "nonspace_chars": 3435,
+      "word_like_tokens": 637,
       "last_modified": "2026-07-30"
     }
   ]
