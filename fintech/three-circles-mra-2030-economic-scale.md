@@ -3,11 +3,11 @@ title: 三円規制圏の 2030 シナリオ分析 · MRA 未成立を前提に�
 aliases: [three circles MRA economic scale, $130B 三円 2030, white-vs-gray ring economics, コンプライアンスサークル vs グレーサークル]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-07-29
-last_tended: 2026-07-29
-review_by: 2026-10-27
+last_updated: 2026-08-14
+last_tended: 2026-08-14
+review_by: 2026-11-12
 confidence: possible
-tags: [fintech, number, economic-pattern, mra, genius, mica, epi, white-gray-ring, 2030-forecast]
+tags: [fintech, number, economic-pattern, mra, genius, mica, epi, white-gray-ring, 2030-forecast, scenario-assumption]
 sources:
   - https://www.congress.gov/bill/119th-congress/senate-bill/1582
   - https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R1114
