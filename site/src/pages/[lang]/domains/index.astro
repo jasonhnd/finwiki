@@ -4,7 +4,10 @@ import { getCollection } from 'astro:content';
 import { t, u, langCodes, type Lang } from '../../../i18n/ui';
 import { domainDescription, domainName } from '../../../i18n/domains';
 import { domainGroups, groupDescription, groupName } from '../../../i18n/groups';
-import { entryDomain } from '../../../lib/routes';
+import { entryDomain, entryRoute, i18nEntryId } from '../../../lib/routes';
+import { localizedTitle } from '../../../lib/siteIndex.mjs';
+import { publishableTranslations } from '../../../lib/translations';
+import { buildCanonicalClusters } from '../../../layouts/canonicalAnchors';
 
 export function getStaticPaths() {
   return langCodes.map((lang) => ({ params: { lang } }));
@@ -20,6 +23,30 @@ for (const entry of entries) {
 const note = t(lang, 'domains.note')
   .replace('{entries}', entries.length.toLocaleString('en-US'))
   .replace('{domains}', String(counts.size));
+
+const translations = publishableTranslations(await getCollection('i18n'));
+const i18nMap = new Map(translations.map((entry) => [entry.id, entry]));
+const entryByRoute = new Map(entries.map((entry) => [entryRoute(entry), entry]));
+
+function titleFor(entry: (typeof entries)[number]): string {
+  const tr = i18nMap.get(i18nEntryId(lang, entry));
+  return String(tr?.data?.title || localizedTitle(lang, entryRoute(entry)) || entry.data.title || entryRoute(entry));
+}
+
+const sameEntityNote =
+  lang === 'ja' ? '同じ主体を別領域から読むページ。' : 'Pages that describe the same legal entity from another domain view.';
+
+const sameEntityClusters = buildCanonicalClusters(entries).map((cluster) => ({
+  ...cluster,
+  members: cluster.members.map((member) => {
+    const entry = entryByRoute.get(member.route);
+    return {
+      ...member,
+      title: entry ? titleFor(entry) : member.route,
+      domainTitle: domainName(member.domain, lang),
+    };
+  }),
+}));
 ---
 <Base lang={lang} title={t(lang, 'domains.title')} active="domains">
   <div class="container domains">
@@ -60,6 +87,40 @@ const note = t(lang, 'domains.note')
         );
       })}
     </div>
+
+    {sameEntityClusters.length > 0 && (
+      <section class="domains-anchors">
+        <div class="domains-anchors__head">
+          <p class="eyebrow">{t(lang, 'entry.related')}</p>
+          <h2>{t(lang, 'domain.canonicalAnchors')}</h2>
+          <p class="domains-anchors__note">{sameEntityNote}</p>
+        </div>
+        <div class="domains-anchors__grid">
+          {sameEntityClusters.map((cluster) => {
+            const canonical = cluster.members.find((member) => member.relation === 'canonical') ?? cluster.members[0];
+            const mirrors = cluster.members.filter((member) => member.route !== canonical.route);
+            return (
+              <article class="domains-anchor">
+                <a class="domains-anchor__canonical" href={u(lang, `${canonical.route}/`)}>
+                  <span class="domains-anchor__domain">{canonical.domainTitle}</span>
+                  <span class="domains-anchor__title">{canonical.title}</span>
+                </a>
+                <ul>
+                  {mirrors.map((member) => (
+                    <li>
+                      <a href={u(lang, `${member.route}/`)}>
+                        <span>{member.title}</span>
+                        <small>{member.domainTitle}</small>
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              </article>
+            );
+          })}
+        </div>
+      </section>
+    )}
   </div>
 </Base>
 
@@ -176,6 +237,76 @@ const note = t(lang, 'domains.note')
     font-variant-numeric: tabular-nums;
     font-weight: 650;
     line-height: 1.6;
+  }
+
+  .domains-anchors {
+    margin-top: var(--gap-section);
+    padding-top: 1.1rem;
+    border-top: 1px solid var(--line);
+  }
+  .domains-anchors__head {
+    max-width: var(--measure-lead);
+    margin-bottom: 1.15rem;
+  }
+  .domains-anchors__head h2 {
+    margin: 0;
+    font-size: var(--fs-lg);
+  }
+  .domains-anchors__note {
+    margin: 0.45rem 0 0;
+    color: var(--muted);
+    font-size: var(--fs-sm);
+  }
+  .domains-anchors__grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 16rem), 1fr));
+    gap: 1px;
+    background: var(--line);
+    border: 1px solid var(--line);
+  }
+  .domains-anchor {
+    min-width: 0;
+    display: grid;
+    gap: 0.55rem;
+    padding: 1rem;
+    background: var(--paper);
+  }
+  .domains-anchor__canonical,
+  .domains-anchor ul a {
+    display: grid;
+    gap: 0.12rem;
+    min-width: 0;
+    color: var(--ink);
+    text-decoration: none;
+  }
+  .domains-anchor__canonical:hover .domains-anchor__title,
+  .domains-anchor ul a:hover {
+    color: var(--accent-2);
+  }
+  .domains-anchor__domain {
+    color: var(--accent);
+    font-size: var(--fs-xs);
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+  .domains-anchor__title,
+  .domains-anchor ul span {
+    font-weight: 650;
+    line-height: 1.35;
+    overflow-wrap: anywhere;
+  }
+  .domains-anchor ul {
+    list-style: none;
+    margin: 0;
+    padding: 0.55rem 0 0;
+    border-top: 1px solid var(--line);
+    display: grid;
+    gap: 0.4rem;
+  }
+  .domains-anchor small {
+    color: var(--muted);
+    font-size: var(--fs-xs);
   }
 
   @media (max-width: 560px) {

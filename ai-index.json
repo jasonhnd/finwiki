@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-08-14T18:18:39+09:00",
+  "generated_at": "2026-08-14T19:28:26+09:00",
   "counts": {
-    "markdown_files": 1612,
-    "public_markdown_pages": 1611,
+    "markdown_files": 1613,
+    "public_markdown_pages": 1612,
     "site_urls_in_sitemap": 1482,
     "topical_domains": 40,
     "link_audited_entries": 1489,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 11187016,
-    "word_like_tokens": 1803867,
+    "nonspace_utf8_chars": 11190776,
+    "word_like_tokens": 1804528,
     "entity_anchors": 13,
     "entity_mirror_pages": 13,
     "entity_nodes": 93,
@@ -2867,11 +2867,11 @@
         "日本語",
         "English",
         "中文",
-        "2026-08-14 - Horizon follow-ups (#278–#281, #286)",
+        "2026-08-14 - Compact human-site read surface (#287)",
         "日本語",
         "English",
         "中文",
-        "2026-08-14 - Weekly freshness overdue sweep (#277)"
+        "2026-08-14 - Horizon follow-ups (#278–#281, #286)"
       ],
       "wikilinks": [],
       "resolved_wikilinks": [],
@@ -2880,8 +2880,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 286407,
-      "word_like_tokens": 52710,
+      "nonspace_chars": 288593,
+      "word_like_tokens": 53093,
       "last_modified": "2026-08-14"
     },
     {
@@ -86218,13 +86218,14 @@
         "./v2026.07.30-2.md",
         "./v2026.08.14-2.md",
         "./v2026.08.14-3.md",
+        "./v2026.08.14-4.md",
         "./v2026.08.14.md",
         "https://github.com/jasonhnd/finwiki/blob/528c39e81be2faf3e7d17c1197da9a5569985e51/CHANGELOG.md"
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 12628,
-      "word_like_tokens": 2420,
+      "nonspace_chars": 12699,
+      "word_like_tokens": 2435,
       "last_modified": "2026-08-14"
     },
     {
@@ -90100,6 +90101,39 @@
       "entity_edges": [],
       "nonspace_chars": 1937,
       "word_like_tokens": 359,
+      "last_modified": "2026-08-14"
+    },
+    {
+      "source_path": "releases/v2026.08.14-4.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.08.14-4.md",
+      "html_url": null,
+      "alternate_html_urls": null,
+      "raw_markdown_url": "https://finwiki.zksc.io/releases/v2026.08.14-4.md",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.08.14-4.md",
+      "title": "人間向けサイトのコンパクト読面",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "canonical_anchor": "",
+      "summary": "",
+      "headings": [
+        "人間向けサイトのコンパクト読面",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "entity_node": null,
+      "entity_edges": [],
+      "nonspace_chars": 1663,
+      "word_like_tokens": 292,
       "last_modified": "2026-08-14"
     },
     {
@@ -106728,8 +106762,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3534,
-      "word_like_tokens": 655,
+      "nonspace_chars": 3374,
+      "word_like_tokens": 626,
       "last_modified": "2026-08-14"
     }
   ]
