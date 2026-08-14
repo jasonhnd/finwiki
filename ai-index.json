@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-08-14T18:18:09+09:00",
+  "generated_at": "2026-08-14T18:18:39+09:00",
   "counts": {
     "markdown_files": 1612,
     "public_markdown_pages": 1611,
@@ -60041,7 +60041,7 @@
       "entity_edges": [],
       "nonspace_chars": 5839,
       "word_like_tokens": 931,
-      "last_modified": "2026-07-29"
+      "last_modified": "2026-08-14"
     },
     {
       "source_path": "megabanks/mizuho-bank.md",
@@ -60603,7 +60603,7 @@
       ],
       "nonspace_chars": 2843,
       "word_like_tokens": 438,
-      "last_modified": "2026-07-29"
+      "last_modified": "2026-08-14"
     },
     {
       "source_path": "megabanks/resona-hd.md",
@@ -60734,7 +60734,7 @@
       ],
       "nonspace_chars": 2578,
       "word_like_tokens": 388,
-      "last_modified": "2026-07-29"
+      "last_modified": "2026-08-14"
     },
     {
       "source_path": "megabanks/sbi-hd.md",
@@ -60942,7 +60942,7 @@
       "entity_edges": [],
       "nonspace_chars": 5832,
       "word_like_tokens": 963,
-      "last_modified": "2026-07-29"
+      "last_modified": "2026-08-14"
     },
     {
       "source_path": "megabanks/smfg.md",
