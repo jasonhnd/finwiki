@@ -26,6 +26,29 @@
 - 每条记录应尽可能包含 JST 时间、背景、范围、主要文件或目录、执行步骤、验证结果与后续事项。
 - 本仓库正文只允许使用互联网公开信息、官方资料、公开披露或基于公开来源的分析。
 
+## 2026-08-15 - Entity deepening batch 02 spec (#292)
+
+### 日本語
+
+- **2026-08-15 10:00 JST / 背景:** Horizon 2 の entity 深化は batch 01（#279 / #286）でりそな・日本郵政 HD・SMBC mirror を閉じた。次は、既に公式 HTTPS 出典がある Japan-core の事業会社に frontmatter-only の node / edge を足す。
+- **範囲 / 主要ファイル:** `docs/04-architecture/entity-deepening-batch-02.md`、`docs/README.md` の architecture map。corpus 本文と UI は本 unit では変更しない。
+- **実行手順:** ゆうちょ（anchor + `subsidiary_of` 日本郵政）、ゆうちょ operating profile（mirror_member + `regulated_by` FSA）、ソニー銀行（anchor + FSA、親会社は profile が現認できた場合のみ）、ソニー生命（既存 node に FSA / 生保協会）、`banking/sony-bank.md`（mirror_member のみ）を named batch として固定する。
+- **検証結果 / 残タスク:** `docs:audit` と `git diff --check` を実装前に通す。残タスクは #292 の corpus 実装、`entity:audit` / `wiki:audit:ci` / `release --check --strict`、work→`pre`→`main`。
+
+### English
+
+- **2026-08-15 10:00 JST / Background:** Horizon 2 entity deepening closed batch 01 (#279 / #286). The next named packet adds frontmatter-only nodes and edges on Japan-core operating companies that already cite official HTTPS sources.
+- **Scope / Primary files:** `docs/04-architecture/entity-deepening-batch-02.md` and the architecture map in `docs/README.md`. No corpus body or UI in this unit.
+- **Steps:** Name Japan Post Bank (anchor + `subsidiary_of` Japan Post Holdings), its operating-profile mirror (`regulated_by` FSA), Sony Bank (FSA, parent only if the profile still says so), Sony Life (existing node + FSA / Seiho), and the Sony Bank banking-domain mirror (node only).
+- **Validation / Follow-up:** Pass `docs:audit` and `git diff --check` before implementation. Remaining: implement #292 on the five source pages, then the entity / wiki / release gates.
+
+### 中文
+
+- **2026-08-15 10:00 JST / 背景:** Horizon 2 的 entity 深化已关闭 batch 01。下一批只给已有官方 HTTPS 出处的 Japan-core 运营公司补 frontmatter node / edge。
+- **范围 / 主要文件:** `docs/04-architecture/entity-deepening-batch-02.md` 与 `docs/README.md` 的 architecture map。本 unit 不改 corpus 正文或 UI。
+- **执行步骤:** 固定ゆうちょ、其 operating profile、ソニー銀行、ソニー生命、`banking/sony-bank.md` 五条路径与公开出处规则。
+- **验证 / 后续:** 先过 `docs:audit` 与 `git diff --check`。后续实现 #292，再跑 entity / wiki / release 门禁。
+
 ## 2026-08-14 - Compact human-site read surface (#287)
 
 ### 日本語
