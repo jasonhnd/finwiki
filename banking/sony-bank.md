@@ -14,6 +14,10 @@ review_by: 2026-10-27
 confidence: likely
 tags: [banking, net-bank, sony-fg, fx, mortgage, deposit-bank, asset-formation-bank]
 status: active
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: mirror_member
 sources:
   - "https://moneykit.net/"
   - "https://moneykit.net/visitor/co/"

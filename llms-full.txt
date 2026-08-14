@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-08-15T01:08:08+09:00
+Generated: 2026-08-15T01:17:08+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1613
-Public pages listed: 1612
+Markdown files: 1614
+Public pages listed: 1613
 
 ## Reading Rules
 
@@ -30,7 +30,7 @@ Public pages listed: 1612
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/CHANGELOG.md
 - Domain: root
 - Type: control_doc
-- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-08-15 - Entity deepening batch 02 spec (#292), 日本語, English
+- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-08-15 - Entity deepening batch 02 (#292), 日本語, English
 
 ### How to navigate FinWiki — reader profile guide
 - URL: https://finwiki.zksc.io/HOW-TO-NAVIGATE.md
@@ -1397,6 +1397,7 @@ Public pages listed: 1612
 - Domain: banking
 - Type: wiki_entry
 - Canonical anchor: regional-banks/sony-bank -> https://finwiki.zksc.io/ja/regional-banks/sony-bank/
+- Entity node: kind=operating_company scope=japan_core status=mirror_member
 - Summary: This entry sits under banking index as the operating-profile companion to the entity anchor at ソニー銀行 (Sony Bank) entity anchor. Read it inside the net-bank-segment map at Japan net bank competition map, with the parent-group context at Sony Financial Group, and against peers Rakuten Bank · PayPay Ba
 - Headings: Sony Bank operating profile (ソニー銀行), Wiki route, 1. Identity and ownership, Where Sony Bank sits inside the parent, Multi-currency deposit + FX core, Investment-product distribution, Card and payment adjacencies, Where Sony Bank competes
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/au-jibun-bank/, https://finwiki.zksc.io/ja/banking/daiwa-next-bank/, https://finwiki.zksc.io/ja/banking/japan-banking-license-tier-comparison-matrix/, https://finwiki.zksc.io/ja/banking/japan-net-bank-competition-map/, https://finwiki.zksc.io/ja/banking/paypay-bank/, https://finwiki.zksc.io/ja/banking/post-megabank-positioning/, https://finwiki.zksc.io/ja/banking/quick-deposit-four-methods/, https://finwiki.zksc.io/ja/banking/rakuten-bank/, https://finwiki.zksc.io/ja/financial-licenses/bank-license-and-baas-boundary/, https://finwiki.zksc.io/ja/fintech/japan-stablecoin-regulatory-landscape/, https://finwiki.zksc.io/ja/life-insurers/sony-life/
@@ -10467,6 +10468,9 @@ Public pages listed: 1612
 - Domain: life-insurers
 - Type: wiki_entry
 - Entity node: kind=operating_company scope=japan_core status=anchor
+- Entity edges:
+  - regulated_by -> financial-regulators/fsa (source: https://www.fsa.go.jp/menkyo/hoken.pdf, as_of: 2026-08-15, confidence: likely)
+  - member_of_sro -> financial-regulators/seiho-kyokai (source: https://www.seiho.or.jp/member/list/, as_of: 2026-08-15, confidence: likely)
 - Summary: This entry sits under life-insurers INDEX. Read it against 第一フロンティア生命保険 for peer / contrast context and insurance index for the broader system / regulatory boundary.
 - Headings: ソニー生命保険, Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why this page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/ja/banking/sony-bank/, https://finwiki.zksc.io/ja/domains/insurance/, https://finwiki.zksc.io/ja/insurance/life-insurance-channel-mix/, https://finwiki.zksc.io/ja/domains/life-insurers/, https://finwiki.zksc.io/ja/life-insurers/dai-ichi-frontier-life/, https://finwiki.zksc.io/ja/life-insurers/dai-ichi-life/, https://finwiki.zksc.io/ja/life-insurers/lifenet/, https://finwiki.zksc.io/ja/life-insurers/rakuten-life/, https://finwiki.zksc.io/ja/megabanks/sony-fg/
@@ -15183,6 +15187,9 @@ Public pages listed: 1612
 - Domain: regional-banks
 - Type: wiki_entry
 - Canonical anchor: regional-banks/yucho -> https://finwiki.zksc.io/ja/regional-banks/yucho/
+- Entity node: kind=operating_company scope=japan_core status=mirror_member
+- Entity edges:
+  - regulated_by -> financial-regulators/fsa (source: https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx, as_of: 2026-08-15, confidence: likely)
 - Summary: This entry sits under regional-banks INDEX as the operating-profile companion to the entity anchor at ゆうちょ銀行 (Japan Post Bank) entity anchor. Read it against MUFG · SMFG · Mizuho FG for the megabank-asset-class peer comparison, against りそなホールディングス for the listed non-megabank universal-bank peer, aga
 - Headings: Japan Post Bank (株式会社ゆうちょ銀行 / 7182) operating profile, Wiki route, 1. Group and ownership position, Three-bank parent chain (post-IPO), Reference timeline, Asset-side: deposit-funded but not loan-led, Why no big loan book, Securities portfolio — the policy-rate-exposure problem
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/au-jibun-bank/, https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/, https://finwiki.zksc.io/ja/banking/japan-banking-license-tier-comparison-matrix/, https://finwiki.zksc.io/ja/banking/japan-net-bank-competition-map/, https://finwiki.zksc.io/ja/banking/paypay-bank/, https://finwiki.zksc.io/ja/banking/post-megabank-positioning/, https://finwiki.zksc.io/ja/banking/rakuten-bank/, https://finwiki.zksc.io/ja/megabanks/japan-post-holdings/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/megabanks/resona-hd/
@@ -15950,6 +15957,10 @@ Public pages listed: 1612
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/sony-bank.md
 - Domain: regional-banks
 - Type: wiki_entry
+- Entity node: kind=operating_company scope=japan_core status=anchor
+- Entity edges:
+  - regulated_by -> financial-regulators/fsa (source: https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx, as_of: 2026-08-15, confidence: likely)
+  - subsidiary_of -> megabanks/sony-fg (source: https://sonybank.jp/corporate/aboutus/profile.html, as_of: 2026-08-15, confidence: likely)
 - Summary: This entry sits under regional-banks INDEX (its domain route). Read it against 大和ネクスト銀行 for the peer / contrast (asset-formation-led net bank vs payment-led net bank) and against the FSA plus banking for the supervisory / system boundary. The net-bank field as a whole is mapped from banking.
 - Headings: ソニー銀行 (Sony Bank), Wiki route, TL;DR, 1. 法人・ライセンス境界, 2. Business role, 3. Why standalone page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/paypay-bank/, https://finwiki.zksc.io/ja/banking/rakuten-bank/, https://finwiki.zksc.io/ja/financial-regulators/fsa/, https://finwiki.zksc.io/ja/life-insurers/lifenet/, https://finwiki.zksc.io/ja/megabanks/sony-fg/, https://finwiki.zksc.io/ja/domains/regional-banks/, https://finwiki.zksc.io/ja/regional-banks/au-jibun-bank/, https://finwiki.zksc.io/ja/regional-banks/daiwa-next-bank/
@@ -16249,6 +16260,9 @@ Public pages listed: 1612
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/regional-banks/yucho.md
 - Domain: regional-banks
 - Type: wiki_entry
+- Entity node: kind=operating_company scope=japan_core status=anchor
+- Entity edges:
+  - subsidiary_of -> megabanks/japan-post-holdings (source: https://www.jp-bank.japanpost.jp/ir/stock/ir_stk_situation.html, as_of: 2026-08-15, confidence: likely)
 - Summary: This entry sits under regional-banks INDEX. Read it against りそなホールディングス (Resona Holdings) for peer / contrast context and banking index for the broader system / regulatory boundary.
 - Headings: ゆうちょ銀行 (Japan Post Bank), Wiki route, TL;DR, 1. 会社概要, 主要数値（公開ベース・2025-03-31 実績）, 親会社・グループ構造, 重要年表 ^[extracted], 2. 事業セグメント・マップ
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/megabanks/ndfg/, https://finwiki.zksc.io/ja/megabanks/paypay-fg/, https://finwiki.zksc.io/ja/megabanks/resona-hd/, https://finwiki.zksc.io/ja/megabanks/sbi-hd/, https://finwiki.zksc.io/ja/megabanks/smfg/, https://finwiki.zksc.io/ja/domains/regional-banks/, https://finwiki.zksc.io/ja/regional-banks/japan-post-bank/
@@ -17369,6 +17383,15 @@ Public pages listed: 1612
 - Domain: releases
 - Type: release_note
 - Headings: 依存関係の修正と三円シナリオ再確認, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
+
+### 実体ノード第二批
+- URL: https://finwiki.zksc.io/releases/v2026.08.15.md
+- Raw Markdown: https://finwiki.zksc.io/releases/v2026.08.15.md
+- Source path: releases/v2026.08.15.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.08.15.md
+- Domain: releases
+- Type: release_note
+- Headings: 実体ノード第二批, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
 
 ### retail domain
 - URL: https://finwiki.zksc.io/ja/domains/retail/
