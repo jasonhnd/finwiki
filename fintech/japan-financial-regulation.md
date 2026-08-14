@@ -6,9 +6,9 @@ domain: fintech
 kind: knowledge
 topic: japan-financial-regulation
 created: 2026-04-15
-last_updated: 2026-05-25
-last_tended: 2026-06-23
-review_by: 2026-08-07
+last_updated: 2026-08-14
+last_tended: 2026-08-14
+review_by: 2026-11-12
 confidence: likely
 tags: [fintech]
 status: active

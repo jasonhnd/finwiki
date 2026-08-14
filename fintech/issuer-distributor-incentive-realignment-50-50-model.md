@@ -3,9 +3,9 @@ title: USDC 発行体・分配者の収益分配 · Coinbase ↔ Circle 公開�
 aliases: [issuer distributor incentive realignment 50 50 model, Coinbase Circle 50-50, USDC revenue split]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-07-30
-last_tended: 2026-07-30
-review_by: 2026-08-08
+last_updated: 2026-08-14
+last_tended: 2026-08-14
+review_by: 2027-02-10
 confidence: likely
 tags: [fintech, coinbase, circle, usdc, revenue-split, distribution-economics, genius-501]
 sources:

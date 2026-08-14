@@ -3,9 +3,9 @@ title: IRS 1099-DA · 米国暗号資産税務報告の義務化
 aliases: [irs-1099-da, 1099-DA, IRS crypto tax form]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-26
-last_tended: 2026-06-24
-review_by: 2026-08-08
+last_updated: 2026-08-14
+last_tended: 2026-08-14
+review_by: 2027-02-10
 confidence: certain
 tags: [fintech, law, regulation, us, irs, tax, anonymity, defi]
 sources:

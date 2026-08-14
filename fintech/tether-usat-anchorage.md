@@ -3,9 +3,9 @@ title: Tether USAT · Anchorage 提携の米国コンプライアンスブラン
 aliases: [tether-usat-anchorage, USAT, Tether USA, Tether USAT stablecoin, Anchorage USAT]
 domain: fintech
 created: 2026-05-25
-last_updated: 2026-05-26
-last_tended: 2026-06-24
-review_by: 2026-08-08
+last_updated: 2026-08-14
+last_tended: 2026-08-14
+review_by: 2026-11-12
 confidence: likely
 tags: [fintech, stablecoin, tether, usat, anchorage, genius-501, us-compliance, usdt-bifurcation, federal-charter]
 status: active

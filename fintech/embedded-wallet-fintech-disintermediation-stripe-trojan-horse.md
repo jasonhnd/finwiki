@@ -3,9 +3,9 @@ title: 組込み型ウォレット · Fintech が Web3 を逆食いする Trojan
 aliases: [embedded wallet fintech disintermediation stripe trojan horse, Stripe five layer collapse, fintech reverse disintermediation]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-07-30
-last_tended: 2026-07-30
-review_by: 2026-08-08
+last_updated: 2026-08-14
+last_tended: 2026-08-14
+review_by: 2027-02-10
 confidence: likely
 tags: [fintech, embedded-wallet, stripe, privy, bridge, tempo, trojan-horse, vertical-integration]
 sources:

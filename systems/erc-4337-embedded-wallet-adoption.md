@@ -3,9 +3,9 @@ title: ERC-4337 embedded wallet 採用マップ · Privy/Coinbase/Alchemy/Safe
 aliases: [erc-4337-adoption, aa-embedded-wallet, privy-coinbase-cdp-alchemy]
 domain: systems
 created: 2026-05-18
-last_updated: 2026-05-26
-last_tended: 2026-06-24
-review_by: 2026-08-08
+last_updated: 2026-08-14
+last_tended: 2026-08-14
+review_by: 2027-02-10
 confidence: certain
 tags: [systems, wallet, aa, erc-4337, embedded-wallet, privy, coinbase, alchemy]
 sources:

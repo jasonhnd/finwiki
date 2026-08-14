@@ -3,9 +3,9 @@ title: 組込み型ウォレットによる Fintech の脱仲介化 · Privy/CDP
 aliases: [embedded wallet fintech disintermediation overview, embedded wallets Privy CDP Magic Web3Auth, wallet UX disintermediation]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-07-30
-last_tended: 2026-07-30
-review_by: 2026-08-08
+last_updated: 2026-08-14
+last_tended: 2026-08-14
+review_by: 2026-11-12
 confidence: certain
 tags: [fintech, embedded-wallet, privy, coinbase-cdp, account-abstraction, disintermediation]
 sources:

@@ -19,9 +19,9 @@
     "domain": "trade",
     "type": null,
     "created": "2026-04-14",
-    "last_updated": "2026-05-18",
-    "last_tended": "2026-05-05",
-    "review_by": "2026-10-30",
+    "last_updated": "2026-08-14",
+    "last_tended": "2026-08-14",
+    "review_by": "2026-11-12",
     "confidence": "certain",
     "tags": [
       "trade"
@@ -69,6 +69,6 @@
     "nonspace_chars": 1733,
     "word_like_tokens": 270,
     "inbound_wikilinks_count": 4,
-    "last_modified": "2026-06-04"
+    "last_modified": "2026-08-14"
   }
 }

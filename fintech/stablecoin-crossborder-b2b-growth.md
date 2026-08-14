@@ -5,9 +5,9 @@ domain: fintech
 kind: knowledge
 topic: stablecoin-crossborder-b2b-growth
 created: 2026-04-14
-last_updated: 2026-05-03
-last_tended: 2026-05-05
-review_by: 2026-10-30
+last_updated: 2026-08-14
+last_tended: 2026-08-14
+review_by: 2026-11-12
 confidence: certain
 tags: [fintech]
 status: confirmed

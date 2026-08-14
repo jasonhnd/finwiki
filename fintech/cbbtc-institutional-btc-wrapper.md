@@ -3,9 +3,9 @@ title: cbBTC · Coinbase ラップ BTC · 機関信頼の WBTC 代替・ウィ�
 aliases: [cbbtc-institutional-btc-wrapper, cbBTC, Coinbase Wrapped BTC]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-26
-last_tended: 2026-06-24
-review_by: 2026-08-08
+last_updated: 2026-08-14
+last_tended: 2026-08-14
+review_by: 2027-02-10
 confidence: certain
 tags: [fintech, wrapped-asset, bitcoin, coinbase, base, defi, custody]
 sources:
