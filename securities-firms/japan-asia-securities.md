@@ -8,9 +8,9 @@ aliases:
   - 日アジ
 domain: securities-firms
 created: 2026-05-25
-last_updated: 2026-07-30
-last_tended: 2026-07-30
-review_by: 2026-08-08
+last_updated: 2026-08-14
+last_tended: 2026-08-14
+review_by: 2026-11-12
 confidence: likely
 tags: [JapanFG, securities, independent, mid-cap, FIEA-type-1, asia]
 status: active

@@ -3,9 +3,9 @@ title: CFTC vs SEC 暗号管轄権争い · FIT21/CLARITY Act によるコモデ
 aliases: [cftc-sec-jurisdiction, CFTC vs SEC, FIT21, CLARITY Act, Howey Test]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-26
-last_tended: 2026-06-24
-review_by: 2026-08-08
+last_updated: 2026-08-14
+last_tended: 2026-08-14
+review_by: 2026-11-12
 confidence: likely
 tags: [fintech, law, regulation, us-regulation, cftc, sec, jurisdiction, fit21]
 sources:

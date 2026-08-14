@@ -3,9 +3,9 @@ title: 北國 FHD (Hokkoku FHD)
 aliases: ["Hokkoku FHD", "Hokkoku Financial Holdings", "北國フィナンシャルホールディングス", "株式会社北國フィナンシャルホールディングス"]
 domain: regional-banks
 created: 2026-05-19
-last_updated: 2026-07-30
-last_tended: 2026-07-30
-review_by: 2026-08-08
+last_updated: 2026-08-14
+last_tended: 2026-08-14
+review_by: 2026-11-12
 confidence: likely
 tags: [JapanFG, regional-bank, digital-leader, historical-bridge]
 status: active

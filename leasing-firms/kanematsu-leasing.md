@@ -7,9 +7,9 @@ aliases:
   - "kanematsu-leasing"
 domain: leasing-firms
 created: 2026-05-24
-last_updated: 2026-05-24
-last_tended: 2026-06-24
-review_by: 2026-08-08
+last_updated: 2026-08-14
+last_tended: 2026-08-14
+review_by: 2026-11-12
 confidence: likely
 tags: [JapanFG, leasing, finance, kanematsu-group, trading-house-captive, niche-lease]
 status: active

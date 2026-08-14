@@ -5,9 +5,9 @@ domain: fintech
 kind: knowledge
 topic: onchain-finance-vs-crypto-bifurcation
 created: 2026-05-12
-last_updated: 2026-07-30
-last_tended: 2026-07-30
-review_by: 2026-08-07
+last_updated: 2026-08-14
+last_tended: 2026-08-14
+review_by: 2026-11-12
 confidence: likely
 evidence_count: 3
 challenges: 0

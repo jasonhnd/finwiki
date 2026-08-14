@@ -6,9 +6,9 @@ aliases:
   - グローバル分散型取引所 5 強
 domain: exchanges
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-06-23
-review_by: 2026-08-07
+last_updated: 2026-08-14
+last_tended: 2026-08-14
+review_by: 2026-11-12
 confidence: likely
 tags:
   - exchanges
