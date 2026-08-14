@@ -26,6 +26,29 @@
 - 每条记录应尽可能包含 JST 时间、背景、范围、主要文件或目录、执行步骤、验证结果与后续事项。
 - 本仓库正文只允许使用互联网公开信息、官方资料、公开披露或基于公开来源的分析。
 
+## 2026-08-14 - Compact human-site read surface (#287)
+
+### 日本語
+
+- **2026-08-14 19:27 JST / 背景:** Issue #280 で compact read surface の仕様を固定したあと、人間向けサイトには領域の全量がホームに出ず、`canonical_anchor` の同一主体グループも読面に出ていなかった。#287 はその仕様を `site/src/pages/**` と `site/src/layouts/**` だけに実装する。
+- **範囲 / 主要ファイル:** `site/src/pages/[lang]/{index,browse,domains}/**`、`site/src/pages/[lang]/[...slug].astro`、`site/src/layouts/{EntryLayout.astro,canonicalAnchors.ts}`。corpus、品質バッジ、鮮度ラベル、typed `entity_edges` パネル、新 entity キュレーションは対象外。
+- **実行手順:** ホームの領域地図から 5 件クリップを外し、既存の領域インデックス件数で全領域を出す。宣言済み `canonical_anchor` をクラスタ化し、ホーム・領域一覧・browse・条目ヘッダに同じ主体の別視点だけを出す。領域一覧には既存の title + lead / TL;DR を載せる。`ui.ts` は触らず既存キーと日英インライン文言を使う。
+- **検証結果 / 残タスク:** 前提条件は table-provenance residual 0、consistency 0、freshness overdue 0、`canonical_anchor_drift` 0。`bun run verify --out _site` PASS。`astro check` 0 errors。visual QA は ja/en ホーム、browse、`megabanks/smbc` mirror。残タスクは work→`pre`→`main`、`v2026.08.14-4`、#287 close。
+
+### English
+
+- **2026-08-14 19:27 JST / Background:** After #280 locked the compact-surface spec, the human site still clipped the home domain map and did not group pages that already share a `canonical_anchor`. #287 implements that spec in pages and layouts only.
+- **Scope / Primary files:** home, browse, domain indexes, entry slug page, `EntryLayout.astro`, and `canonicalAnchors.ts`. No corpus edits, quality badges, freshness labels, typed `entity_edges` panels, or new entity curation.
+- **Steps:** Show every populated domain on the home coverage map. Cluster declared `canonical_anchor` mirrors and surface them on home, domain indexes, browse, and the entry header. Add existing title + lead / TL;DR excerpts to domain lists. Reuse current `t()` keys and ja/en inline copy.
+- **Validation / Follow-up:** Prerequisites remain 0 / 0 / 0 / 0. `bun run verify --out _site` PASS. Visual QA on ja/en home, browse, and the SMBC mirror. Remaining: promote, tag `v2026.08.14-4`, close #287.
+
+### 中文
+
+- **2026-08-14 19:27 JST / 背景:** #280 固定 compact surface 规格后，人类站首页仍截断领域地图，也未展示已声明 `canonical_anchor` 的同一主体分组。#287 只在 pages / layouts 实现该规格。
+- **范围 / 主要文件:** 首页、browse、领域索引、条目页、`EntryLayout.astro`、`canonicalAnchors.ts`。不含 corpus、质量徽章、新鲜度标签、typed `entity_edges` 面板或新 entity 策展。
+- **执行步骤:** 首页覆盖图展示全部有内容的领域；把已声明 mirror 聚成同一主体组，显示在首页、领域页、browse 和条目头；领域列表补上既有 title + lead / TL;DR。
+- **验证 / 后续:** 前置条件仍为 0。`bun run verify --out _site` 通过。已做 ja/en 首页、browse、SMBC mirror 的视觉验收。后续 promote、tag `v2026.08.14-4`、关闭 #287。
+
 ## 2026-08-14 - Horizon follow-ups (#278–#281, #286)
 
 ### 日本語
