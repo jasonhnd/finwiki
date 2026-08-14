@@ -4,9 +4,9 @@ aliases: []
 domain: fintech
 kind: knowledge
 created: 2026-04-24
-last_updated: 2026-07-30
-last_tended: 2026-07-30
-review_by: 2026-08-08
+last_updated: 2026-08-14
+last_tended: 2026-08-14
+review_by: 2026-11-12
 confidence: likely
 tags: [fintech, disclosure, listed-company]
 status: confirmed

@@ -8,9 +8,9 @@ aliases:
   - "sumitomo-mitsui-auto-service"
 domain: leasing-firms
 created: 2026-05-24
-last_updated: 2026-05-26
-last_tended: 2026-06-24
-review_by: 2026-08-08
+last_updated: 2026-08-14
+last_tended: 2026-08-14
+review_by: 2027-02-10
 confidence: likely
 tags: [JapanFG, leasing, auto-leasing, fleet-management, smfg, sumitomo-corp, trading-company-finance, jv]
 status: active

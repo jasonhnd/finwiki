@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-08-14T13:25:08+09:00",
+  "generated_at": "2026-08-14T17:57:16+09:00",
   "counts": {
-    "markdown_files": 1610,
-    "public_markdown_pages": 1609,
+    "markdown_files": 1611,
+    "public_markdown_pages": 1610,
     "site_urls_in_sitemap": 1482,
     "topical_domains": 40,
     "link_audited_entries": 1489,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 11176449,
-    "word_like_tokens": 1801890,
+    "nonspace_utf8_chars": 11185716,
+    "word_like_tokens": 1803572,
     "entity_anchors": 12,
     "entity_mirror_pages": 12,
     "entity_nodes": 89,
@@ -2663,11 +2663,11 @@
         "日本語",
         "English",
         "中文",
-        "2026-08-14 - Astro 依存関係の high 修正と三円シナリオ再確認 (#276, #277)",
+        "2026-08-14 - Weekly freshness overdue sweep (#277)",
         "日本語",
         "English",
         "中文",
-        "2026-07-30 - Table provenance batches 10-14 + opinions quarantine (#240-#244, #193)"
+        "2026-08-14 - Astro 依存関係の high 修正と三円シナリオ再確認 (#276, #277)"
       ],
       "wikilinks": [],
       "resolved_wikilinks": [],
@@ -2676,8 +2676,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 281493,
-      "word_like_tokens": 51776,
+      "nonspace_chars": 283808,
+      "word_like_tokens": 52231,
       "last_modified": "2026-08-14"
     },
     {
@@ -22009,8 +22009,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 2588,
-      "word_like_tokens": 414,
+      "nonspace_chars": 2719,
+      "word_like_tokens": 439,
       "last_modified": "2026-06-24"
     },
     {
@@ -85952,13 +85952,14 @@
       "resolved_wikilinks": [],
       "markdown_links": [
         "./v2026.07.30-2.md",
+        "./v2026.08.14-2.md",
         "./v2026.08.14.md",
         "https://github.com/jasonhnd/finwiki/blob/528c39e81be2faf3e7d17c1197da9a5569985e51/CHANGELOG.md"
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 12463,
-      "word_like_tokens": 2388,
+      "nonspace_chars": 12533,
+      "word_like_tokens": 2402,
       "last_modified": "2026-08-14"
     },
     {
@@ -89769,6 +89770,39 @@
       "nonspace_chars": 9871,
       "word_like_tokens": 1690,
       "last_modified": "2026-07-30"
+    },
+    {
+      "source_path": "releases/v2026.08.14-2.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.08.14-2.md",
+      "html_url": null,
+      "alternate_html_urls": null,
+      "raw_markdown_url": "https://finwiki.zksc.io/releases/v2026.08.14-2.md",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.08.14-2.md",
+      "title": "期限切れ鮮度監査の週次再確認",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "canonical_anchor": "",
+      "summary": "",
+      "headings": [
+        "期限切れ鮮度監査の週次再確認",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "entity_node": null,
+      "entity_edges": [],
+      "nonspace_chars": 2052,
+      "word_like_tokens": 405,
+      "last_modified": "2026-08-14"
     },
     {
       "source_path": "releases/v2026.08.14.md",
@@ -106396,8 +106430,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3435,
-      "word_like_tokens": 637,
+      "nonspace_chars": 8134,
+      "word_like_tokens": 1420,
       "last_modified": "2026-08-14"
     }
   ]
