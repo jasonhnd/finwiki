@@ -15,8 +15,8 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 81 |
-| canonical_anchor declarations checked (informational) | 12 |
+| Changed or new entries in current worktree | 4 |
+| canonical_anchor declarations checked (informational) | 13 |
 | canonical_anchor drift (informational, non-gating) | 0 |
 
 ## Wiki Linking Standard
@@ -41,87 +41,10 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `agent-economy/ai-agent-payment-protocols-commoditization.md` | `M` | 7 | ok |
-| `agent-economy/coinbase-cdp-developer-platform.md` | `M` | 6 | ok |
-| `agent-economy/privy-aws-agentcore-default-wallet.md` | `M` | 6 | ok |
-| `agent-economy/solana-saga-vs-embedded-wallet-os-thesis.md` | `M` | 6 | ok |
-| `card-issuers/aeon-financial-service-detail.md` | `M` | 3 | ok |
-| `exchanges/bybit-lazarus-hack-detailed-analysis.md` | `M` | 16 | ok |
-| `exchanges/cex-native-token-strategy-comparison.md` | `M` | 15 | ok |
-| `exchanges/coincheck-nem-hack-detailed-analysis.md` | `M` | 14 | ok |
-| `exchanges/fsa-business-improvement-orders-history.md` | `M` | 19 | ok |
-| `exchanges/ftx-japan-100pct-return-case-study.md` | `M` | 16 | ok |
-| `exchanges/global-cex-prime-brokerage-layer.md` | `M` | 14 | ok |
-| `exchanges/global-dex-major-five-comparison.md` | `M` | 10 | ok |
-| `exchanges/global-perp-dex-five-comparison.md` | `M` | 10 | ok |
-| `exchanges/hk-sfc-vasp-licensing-overview.md` | `M` | 12 | ok |
-| `exchanges/jp-crypto-asset-taxation-detailed.md` | `M` | 13 | ok |
-| `exchanges/jp-crypto-market-maker-otc-layer.md` | `M` | 12 | ok |
-| `exchanges/jp-crypto-on-off-ramp-bridge-layer.md` | `M` | 17 | ok |
-| `exchanges/jp-crypto-staking-as-a-service-operators.md` | `M` | 17 | ok |
-| `exchanges/jp-exchange-binance-japan.md` | `M` | 7 | ok |
-| `exchanges/jp-exchange-monex.md` | `M` | 9 | ok |
-| `exchanges/jp-foreign-exchange-lbank.md` | `M` | 8 | ok |
-| `exchanges/jp-ieo-system-and-cases.md` | `M` | 9 | ok |
-| `exchanges/jp-vasp-regulatory-timeline.md` | `M` | 9 | ok |
-| `exchanges/jvcea-self-regulatory-overview.md` | `M` | 6 | ok |
-| `exchanges/jvcea-spot-volume-statistics-analysis.md` | `M` | 10 | ok |
-| `exchanges/jvcea-whitelist-token-listing.md` | `M` | 13 | ok |
-| `exchanges/mtgox-bankruptcy-processing-timeline.md` | `M` | 17 | ok |
-| `exchanges/switzerland-finma-crypto-valley-overview.md` | `M` | 12 | ok |
-| `exchanges/taiwan-fsc-vasp-licensing-overview.md` | `M` | 9 | ok |
-| `exchanges/vetoken-host-protocol-flywheel.md` | `M` | 5 | ok |
-| `finance/multi-jurisdiction-identity-tax-leverage.md` | `M` | 4 | ok |
-| `fintech/2022-three-variable-cascade-thesis.md` | `M` | 6 | ok |
-| `fintech/aml-cft-fatf-grey-list-overview.md` | `M` | 6 | ok |
-| `fintech/cbbtc-institutional-btc-wrapper.md` | `M` | 5 | ok |
-| `fintech/cbdc-multi-tier-architecture-three-paradigms.md` | `M` | 5 | ok |
-| `fintech/central-banking-function-unbundling.md` | `M` | 8 | ok |
-| `fintech/cftc-sec-crypto-jurisdiction.md` | `M` | 5 | ok |
-| `fintech/cosmos-ibc-for-financial-institutions.md` | `M` | 9 | ok |
-| `fintech/dual-currency-stablecoin-arbitrage-legal-hack.md` | `M` | 5 | ok |
-| `fintech/embedded-wallet-fintech-disintermediation-overview.md` | `M` | 6 | ok |
-| `fintech/embedded-wallet-fintech-disintermediation-stripe-trojan-horse.md` | `M` | 6 | ok |
-| `fintech/enterprise-procurement-deadline-anchor.md` | `M` | 6 | ok |
-| `fintech/first-digital-fdusd-hk-stablecoin.md` | `M` | 5 | ok |
-| `fintech/four-motive-classes-asymmetric-competition.md` | `M` | 13 | ok |
-| `fintech/fx-onchain-as-stablecoin-final-boss.md` | `M` | 7 | ok |
-| `fintech/gold-tokenization-scheme-comparison.md` | `M` | 6 | ok |
-| `fintech/gray-market-dollar-network-formalization.md` | `M` | 11 | ok |
-| `fintech/irs-1099-da.md` | `M` | 6 | ok |
-| `fintech/issuer-distributor-incentive-realignment-50-50-model.md` | `M` | 3 | ok |
-| `fintech/japan-bittrade-listing-process.md` | `M` | 7 | ok |
-| `fintech/japan-financial-regulation.md` | `M` | 7 | ok |
-| `fintech/japan-listed-company-disclosure-monitoring.md` | `M` | 5 | ok |
-| `fintech/japan-third-party-allotment-5-step-flow.md` | `M` | 5 | ok |
-| `fintech/jp-stablecoin-dcjpy.md` | `M` | 4 | ok |
-| `fintech/maina-wallet-kyc-permissionless-ux-bridge.md` | `M` | 7 | ok |
-| `fintech/mica-cross-border-implications.md` | `M` | 6 | ok |
-| `fintech/mica-emt-art-subcategories-deep-dive.md` | `M` | 5 | ok |
-| `fintech/occ-trust-bank-charter-federal-stablecoin-arbitrage.md` | `M` | 5 | ok |
-| `fintech/onchain-finance-vs-crypto-bifurcation.md` | `M` | 5 | ok |
-| `fintech/regulatory-window-strategic-acquisition.md` | `M` | 6 | ok |
-| `fintech/retail-stablecoin-dual-bind.md` | `M` | 6 | ok |
-| `fintech/ripple-rlusd-stablecoin.md` | `M` | 6 | ok |
-| `fintech/sovereign-capital-pool-aramco-anchor.md` | `M` | 6 | ok |
-| `fintech/stablecoin-chain-sovereign-currency-divide.md` | `M` | 3 | ok |
-| `fintech/stablecoin-channel-japan-sbi-jpyc-ring.md` | `M` | 7 | ok |
-| `fintech/stablecoin-crossborder-b2b-growth.md` | `M` | 9 | ok |
-| `fintech/stripe-usdb-bridge-stablecoin.md` | `M` | 18 | ok |
-| `fintech/tether-usat-anchorage.md` | `M` | 12 | ok |
-| `fintech/tokenized-mmf-wisdomtree-hashnote.md` | `M` | 5 | ok |
-| `fintech/world-liberty-usd1-political-stablecoin.md` | `M` | 4 | ok |
-| `leasing-firms/hokkaido-lease.md` | `M` | 10 | ok |
-| `leasing-firms/kanematsu-leasing.md` | `M` | 15 | ok |
-| `leasing-firms/sumitomo-mitsui-auto-service.md` | `M` | 26 | ok |
-| `regional-banks/hokkoku-fhd.md` | `M` | 18 | ok |
-| `securities-firms/japan-asia-securities.md` | `M` | 15 | ok |
-| `systems/bft-validator-economy-four-variables.md` | `M` | 4 | ok |
-| `systems/cctp-v2-technical-spec.md` | `M` | 5 | ok |
-| `systems/erc-4337-embedded-wallet-adoption.md` | `M` | 6 | ok |
-| `systems/hyperledger-besu-vs-canton-migration.md` | `M` | 5 | ok |
-| `trade/jetro-members-gateway-model.md` | `M` | 8 | ok |
-| `trade/jetro-organization-structure.md` | `M` | 8 | ok |
+| `megabanks/japan-post-holdings.md` | `M` | 21 | ok |
+| `megabanks/resona-bank.md` | `M` | 9 | ok |
+| `megabanks/saitama-resona-bank.md` | `M` | 10 | ok |
+| `megabanks/smbc.md` | `M` | 27 | ok |
 
 ## Domain Snapshot
 
@@ -156,7 +79,7 @@
 | `life-insurers` | 47 | 0 | 11.4 |
 | `loyalty` | 17 | 0 | 20.6 |
 | `manufacturer-finance` | 14 | 0 | 14.1 |
-| `megabanks` | 20 | 0 | 15.4 |
+| `megabanks` | 20 | 0 | 15.5 |
 | `money-market` | 17 | 0 | 23.4 |
 | `non-life-insurers` | 57 | 0 | 12.4 |
 | `non-profit` | 12 | 0 | 8.9 |
@@ -185,7 +108,7 @@
 > non-existent entry or is not cross-linked from the declaring page's core
 > body (before `## Related`). Keep this at 0.
 
-Declarations checked: 12. Drift: 0.
+Declarations checked: 13. Drift: 0.
 
 | Path | Declared anchor | Resolves | Core-body link | Issue |
 |---|---|---|---|---|

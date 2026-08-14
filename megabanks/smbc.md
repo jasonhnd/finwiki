@@ -9,6 +9,11 @@ review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, banking, megabank, smfg-subsidiary]
 status: active
+canonical_anchor: megabanks/sumitomo-mitsui-banking-corp
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: mirror_member
 sources:
   - "Wikipedia: 三井住友銀行 (2026-05-25 抽出)"
   - "SMBC 公式サイト (https://www.smbc.co.jp/, 2026-05-25 参照)"
@@ -22,7 +27,7 @@ sources:
 
 ## Wiki route
 
-This entry sits under [[megabanks/INDEX|megabanks INDEX]]. Read it against [[megabanks/smfg|SMFG (親会社)]], [[megabanks/mufg-bank|MUFG 銀行]], [[megabanks/mizuho-bank|みずほ銀行]] for peer / contrast (3 大メガバンク), and [[financial-regulators/fsa|金融庁]] / [[financial-regulators/boj|日本銀行]] for the broader regulatory boundary.
+This entry sits under [[megabanks/INDEX|megabanks INDEX]]. It is the same legal bank as [[megabanks/sumitomo-mitsui-banking-corp|Sumitomo Mitsui Banking Corporation]]. Read it against [[megabanks/smfg|SMFG (親会社)]], [[megabanks/mufg-bank|MUFG 銀行]], [[megabanks/mizuho-bank|みずほ銀行]] for peer / contrast (3 大メガバンク), and [[financial-regulators/fsa|金融庁]] / [[financial-regulators/boj|日本銀行]] for the broader regulatory boundary.
 
 ## TL;DR
 

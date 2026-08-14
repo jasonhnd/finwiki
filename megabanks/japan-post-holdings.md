@@ -9,6 +9,10 @@ review_by: 2026-10-27
 confidence: certain
 tags: [JapanFG, postal, holding-company, listed, government-stake]
 status: active
+entity_node:
+  kind: financial_group
+  scope: japan_core
+  status: anchor
 sources:
   - "https://www.japanpost.jp/en/ir/stock/index10.html"
   - "https://www.japanpost.jp/en/ir/faq/index.html"
