@@ -6,7 +6,7 @@ model: canonical-ja-source-sync
 status: machine
 fidelity: ok
 title: "三円規制圏の 2030 シナリオ分析 · MRA 未成立を前提にした試算"
-translated_at: 2026-07-28T19:25:32.800Z
+translated_at: 2026-08-14T00:00:00+09:00
 ---
 
 # 三円規制圏の 2030 シナリオ分析 · MRA 未成立を前提にした試算
