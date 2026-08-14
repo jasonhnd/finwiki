@@ -15,6 +15,17 @@ review_by: 2026-11-25
 confidence: likely
 tags: [JapanFG, banking, postal-savings, listed, government-affiliated, japan-post-holdings, deposit-franchise]
 status: active
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: mirror_member
+entity_edges:
+  - relation: regulated_by
+    target: financial-regulators/fsa
+    evidence: official_registry
+    source: https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx
+    as_of: 2026-08-15
+    confidence: likely
 sources:
   - "https://www.jp-bank.japanpost.jp/"
   - "https://www.jp-bank.japanpost.jp/aboutus/company/abt_cmp_index.html"
