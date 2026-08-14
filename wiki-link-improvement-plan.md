@@ -15,7 +15,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 5 |
+| Changed or new entries in current worktree | 0 |
 | canonical_anchor declarations checked (informational) | 13 |
 | canonical_anchor drift (informational, non-gating) | 0 |
 
@@ -41,11 +41,6 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
-| `banking/sony-bank.md` | `M` | 17 | ok |
-| `life-insurers/sony-life.md` | `M` | 12 | ok |
-| `regional-banks/japan-post-bank.md` | `M` | 22 | ok |
-| `regional-banks/sony-bank.md` | `M` | 13 | ok |
-| `regional-banks/yucho.md` | `M` | 4 | ok |
 
 ## Domain Snapshot
 
