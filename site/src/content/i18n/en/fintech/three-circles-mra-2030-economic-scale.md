@@ -6,7 +6,7 @@ model: codex-source-faithful
 status: machine
 fidelity: ok
 title: "2030 scenario analysis for three regulatory circles · estimates premised on no MRA"
-translated_at: 2026-07-28T19:18:08Z
+translated_at: 2026-08-14T00:00:00+09:00
 ---
 
 # 2030 scenario analysis for three regulatory circles · estimates premised on no MRA

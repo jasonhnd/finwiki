@@ -26,6 +26,29 @@
 - 每条记录应尽可能包含 JST 时间、背景、范围、主要文件或目录、执行步骤、验证结果与后续事项。
 - 本仓库正文只允许使用互联网公开信息、官方资料、公开披露或基于公开来源的分析。
 
+## 2026-08-14 - Astro 依存関係の high 修正と三円シナリオ再確認 (#276, #277)
+
+### 日本語
+
+- **2026-08-14 13:22 JST / 背景:** 当日の `bun audit --production` が Astro 経由の `nanoid` / `js-yaml` high を検出し、pre-push が赤になった。同時に freshness 監査は `as-of 2026-08-14` で 81 件の `review_by` 期限切れを示した。本 unit はゲートを復旧し、シナリオ頁 1 件を公開一次資料で再確認する。
+- **範囲 / 主要ファイル:** `site/package.json` overrides（`nanoid@3.3.18`, `js-yaml@4.3.1`）と `site/bun.lock`。`fintech/three-circles-mra-2030-economic-scale.md` と ja/en mirrors。三言語 CHANGELOG / release note。Issue #277 の残り 80 件は別 packet。
+- **実行手順:** Congress.gov で GENIUS Act S.1582 が 2025-07-18 Public Law 119-27 のままであることを再確認。$130B / $384B は公式予測ではなくシナリオ入力のまま。`confidence: possible` と `scenario-assumption` tag を維持。`last_tended=2026-08-14` / `review_by=2026-11-12`。
+- **検証結果 / 残タスク:** `cd site && bun audit --production` = 0。残タスクは #277 の 81-1 件 freshness sweep、#278 校正、#279–#281 の later 仕様。
+
+### English
+
+- **2026-08-14 13:22 JST / Background:** `bun audit --production` reported two highs in the Astro chain (`nanoid`, `js-yaml`) and blocked pre-push. Freshness `--as-of 2026-08-14` shows 81 overdue `review_by` rows. This unit restores the gate and rechecks one scenario page.
+- **Scope / Primary files:** `site/package.json` overrides (`nanoid@3.3.18`, `js-yaml@4.3.1`) and `site/bun.lock`; `fintech/three-circles-mra-2030-economic-scale.md` plus ja/en mirrors; trilingual CHANGELOG / release note. The remaining Issue #277 rows stay in later packets.
+- **Steps:** Rechecked Congress.gov: GENIUS Act S.1582 remains Public Law 119-27 as of 2025-07-18. $130B / $384B stay FinWiki scenario inputs, not official forecasts. Kept `confidence: possible` and added `scenario-assumption`. Set `last_tended=2026-08-14` / `review_by=2026-11-12`.
+- **Validation / Follow-up:** `cd site && bun audit --production` is clean. Remaining: #277 freshness sweep, #278 calibration, #279–#281 later specs.
+
+### 中文
+
+- **2026-08-14 13:22 JST / 背景:** 当日 `bun audit --production` 报出 Astro 链上 `nanoid` / `js-yaml` high，pre-push 变红。freshness `--as-of 2026-08-14` 显示 81 条 `review_by` 过期。本 unit 恢复门禁并复核 1 个情景页。
+- **范围 / 主要文件:** `site/package.json` overrides 与 `site/bun.lock`；`fintech/three-circles-mra-2030-economic-scale.md` 及 ja/en mirrors；三语 CHANGELOG / release note。#277 其余行另开 packet。
+- **执行步骤:** 复核 Congress.gov：GENIUS Act S.1582 仍为 2025-07-18 Public Law 119-27。$130B / $384B 仍为情景输入。保持 `confidence: possible` 并加上 `scenario-assumption`。日期改为 `last_tended=2026-08-14` / `review_by=2026-11-12`。
+- **验证 / 后续:** `bun audit --production` 为 0。后续：#277 其余 freshness、#278 校正、#279–#281 later 规格。
+
 ## 2026-07-30 - Table provenance batches 10-14 + opinions quarantine (#240-#244, #193)
 
 ### 日本語
