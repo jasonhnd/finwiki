@@ -3,9 +3,9 @@ title: FATF グレーリスト / ブラックリスト · AML/CFT 国別評価�
 aliases: [fatf-grey-list-overview, FATF jurisdiction list, AML/CFT 評価概要]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-26
-last_tended: 2026-06-24
-review_by: 2026-08-08
+last_updated: 2026-08-14
+last_tended: 2026-08-14
+review_by: 2026-11-12
 confidence: certain
 tags: [fintech, law, regulation, aml, cft, fatf, jurisdiction]
 sources:

@@ -3,9 +3,9 @@ title: First Digital FDUSD · HK ライセンス候補 · Binance 主要取引�
 aliases: [first-digital-fdusd-hk-stablecoin, FDUSD, First Digital USD, FDT]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-26
-last_tended: 2026-06-24
-review_by: 2026-08-08
+last_updated: 2026-08-14
+last_tended: 2026-08-14
+review_by: 2027-02-10
 confidence: likely
 tags: [fintech, stablecoin, fdusd, first-digital, hong-kong, hkma, binance, gray-to-white]
 sources:

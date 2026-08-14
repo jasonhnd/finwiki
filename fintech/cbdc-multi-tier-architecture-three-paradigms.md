@@ -3,9 +3,9 @@ title: CBDC 3 大現役パラダイム · e-CNY / DREX / デジタル・ユー�
 aliases: [cbdc-multi-tier-architecture-three-paradigms, ecny drex digital-euro comparison, CBDC 現役パラダイム比較]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-26
-last_tended: 2026-06-24
-review_by: 2026-08-08
+last_updated: 2026-08-14
+last_tended: 2026-08-14
+review_by: 2026-11-12
 confidence: certain
 tags: [fintech, cbdc, e-cny, drex, digital-euro, paradigm, case-study]
 sources:

@@ -3,9 +3,9 @@ title: ソブリン資本プール規模アンカー · Aramco $7T を中東デ�
 aliases: [sovereign capital pool aramco anchor, $7T Aramco sovereign capital, Aramco AUM ceiling, 中東デジタル資産ファンドの母体]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-26
-last_tended: 2026-06-24
-review_by: 2026-08-08
+last_updated: 2026-08-14
+last_tended: 2026-08-14
+review_by: 2026-11-12
 confidence: likely
 tags: [fintech, number, economic-pattern, sovereign-capital, middle-east, aramco, blackrock, allocation-ceiling]
 sources:

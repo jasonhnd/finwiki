@@ -5,9 +5,9 @@ domain: fintech
 kind: knowledge
 topic: maina-wallet-kyc-permissionless-ux-bridge
 created: 2026-05-12
-last_updated: 2026-05-18
-last_tended: 2026-06-24
-review_by: 2026-08-08
+last_updated: 2026-08-14
+last_tended: 2026-08-14
+review_by: 2027-02-10
 confidence: likely
 evidence_count: 3
 challenges: 0

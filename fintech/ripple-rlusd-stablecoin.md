@@ -3,9 +3,9 @@ title: Ripple RLUSD · 銀行級コンプライアンス優先ステーブルコ
 aliases: [ripple-rlusd-stablecoin, RLUSD, Ripple USD]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-26
-last_tended: 2026-06-24
-review_by: 2026-08-08
+last_updated: 2026-08-14
+last_tended: 2026-08-14
+review_by: 2027-02-10
 confidence: certain
 tags: [fintech, stablecoin, ripple, rlusd, xrpl, cross-border, compliance-first]
 sources:

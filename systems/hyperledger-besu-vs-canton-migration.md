@@ -3,9 +3,9 @@ title: Hyperledger Besu vs Canton · JPM 主戦場移行経路
 aliases: [hyperledger-besu-vs-canton-migration, jpm-quorum-canton-migration, besu-vs-canton]
 domain: systems
 created: 2026-05-18
-last_updated: 2026-05-26
-last_tended: 2026-06-24
-review_by: 2026-08-08
+last_updated: 2026-08-14
+last_tended: 2026-08-14
+review_by: 2026-11-12
 confidence: likely
 tags: [systems, blockchain, evm, daml, canton, besu, jpmorgan, kinexys]
 sources:

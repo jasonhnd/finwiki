@@ -3,9 +3,9 @@ title: BFT validator 経済の4変数 · yield / slashing / MEV / 集中度
 aliases: [bft-validator-economy-four-variables, validator economy yield slashing MEV concentration]
 domain: systems
 created: 2026-05-18
-last_updated: 2026-05-26
-last_tended: 2026-06-24
-review_by: 2026-08-08
+last_updated: 2026-08-14
+last_tended: 2026-08-14
+review_by: 2027-02-10
 confidence: likely
 tags: [systems, validator, bft, staking-yield, slashing, mev, nakamoto-coefficient]
 sources:
