@@ -9,6 +9,23 @@ review_by: 2026-11-20
 confidence: likely
 tags: [JapanFG, bank, net-bank, sony-fg, operating-company]
 status: active
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
+entity_edges:
+  - relation: regulated_by
+    target: financial-regulators/fsa
+    evidence: official_registry
+    source: https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx
+    as_of: 2026-08-15
+    confidence: likely
+  - relation: subsidiary_of
+    target: megabanks/sony-fg
+    evidence: official_profile
+    source: https://sonybank.jp/corporate/aboutus/profile.html
+    as_of: 2026-08-15
+    confidence: likely
 sources:
   - "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
   - "https://sonybank.jp/corporate/aboutus/profile.html"
