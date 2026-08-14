@@ -8,6 +8,7 @@ import { entryDomain, entryRoute, i18nEntryId } from '../../lib/routes';
 import { isoDate } from '../../lib/format';
 import { localizedTitle } from '../../lib/siteIndex.mjs';
 import { publishableTranslations } from '../../lib/translations';
+import { buildCanonicalClusters } from '../../layouts/canonicalAnchors';
 
 export function getStaticPaths() {
   return langCodes.map((lang) => ({ params: { lang } }));
@@ -29,6 +30,23 @@ function titleFor(entry: (typeof all)[number]): string {
   const tr = i18nMap.get(i18nEntryId(lang, entry));
   return String(tr?.data?.title || localizedTitle(lang, entryRoute(entry)) || entry.data.title || entryRoute(entry));
 }
+
+function titleForRoute(route: string): string {
+  const entry = entryByRoute.get(route);
+  return entry ? titleFor(entry) : route;
+}
+
+const sameEntityNote =
+  lang === 'ja' ? '同じ主体を別領域から読むページ。' : 'Pages that describe the same legal entity from another domain view.';
+
+const sameEntityClusters = buildCanonicalClusters(all).map((cluster) => ({
+  ...cluster,
+  members: cluster.members.map((member) => ({
+    ...member,
+    title: titleForRoute(member.route),
+    domainTitle: domainName(member.domain, lang),
+  })),
+}));
 
 const latestReviewed = [...all]
   .filter((e) => e.data.last_updated)
@@ -123,10 +141,10 @@ const translatedCount = translations.filter((e) => e.id.startsWith(`${lang}/`)).
     <div class="home-block__head">
       <div>
         <p class="eyebrow">{t(lang, 'nav.domains')}</p>
-        <h2 class="section-title">{t(lang, 'home.guidedTaxonomy')}</h2>
+        <h2 class="section-title">{t(lang, 'home.domainMap')}</h2>
       </div>
       <div class="home-block__actions">
-        <p class="muted home-block__note">{t(lang, 'home.guidedTaxonomyNote')}</p>
+        <p class="muted home-block__note">{t(lang, 'home.domainMapNote')}</p>
         <a class="btn" href={u(lang, 'domains/')}>{t(lang, 'home.viewAllDomains')} →</a>
       </div>
     </div>
@@ -143,7 +161,7 @@ const translatedCount = translations.filter((e) => e.id.startsWith(`${lang}/`)).
             </div>
             <p>{groupDescription(group, lang)}</p>
             <div class="taxonomy-group__domains">
-              {domains.slice(0, 5).map((domain) => (
+              {domains.map((domain) => (
                 <a href={u(lang, `domains/${domain}/`)}>
                   <span>{domainName(domain, lang)}</span>
                   <small>{domainDescription(domain, lang)}</small>
@@ -156,6 +174,43 @@ const translatedCount = translations.filter((e) => e.id.startsWith(`${lang}/`)).
       })}
     </div>
   </section>
+
+  {sameEntityClusters.length > 0 && (
+    <section class="container home-block">
+      <div class="home-block__head">
+        <div>
+          <p class="eyebrow">{t(lang, 'entry.related')}</p>
+          <h2 class="section-title">{t(lang, 'domain.canonicalAnchors')}</h2>
+        </div>
+        <p class="muted home-block__note">{sameEntityNote}</p>
+      </div>
+      <div class="anchor-grid">
+        {sameEntityClusters.map((cluster) => {
+          const canonical = cluster.members.find((member) => member.relation === 'canonical') ?? cluster.members[0];
+          const mirrors = cluster.members.filter((member) => member.route !== canonical.route);
+          return (
+            <article class="anchor-card">
+              <a class="anchor-card__canonical" href={u(lang, `${canonical.route}/`)}>
+                <span class="anchor-card__domain">{canonical.domainTitle}</span>
+                <span class="anchor-card__title">{canonical.title}</span>
+                <code>{canonical.route}</code>
+              </a>
+              <ul class="anchor-card__mirrors">
+                {mirrors.map((member) => (
+                  <li>
+                    <a href={u(lang, `${member.route}/`)}>
+                      <span>{member.title}</span>
+                      <small>{member.domainTitle}</small>
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </article>
+          );
+        })}
+      </div>
+    </section>
+  )}
 
   <section class="container home-block">
     <div class="ai-band">
@@ -373,6 +428,81 @@ const translatedCount = translations.filter((e) => e.id.startsWith(`${lang}/`)).
     font-weight: 600;
   }
 
+  .anchor-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1px;
+    background: var(--line);
+    border-top: 1px solid var(--line);
+    border-bottom: 1px solid var(--line);
+  }
+  .anchor-card {
+    min-width: 0;
+    display: grid;
+    align-content: start;
+    gap: 0.55rem;
+    padding: 1rem;
+    background: var(--paper);
+  }
+  .anchor-card__canonical {
+    display: grid;
+    gap: 0.2rem;
+    min-width: 0;
+    color: var(--ink);
+    text-decoration: none;
+  }
+  .anchor-card__canonical:hover .anchor-card__title {
+    color: var(--accent-2);
+  }
+  .anchor-card__domain {
+    color: var(--accent);
+    font-size: var(--fs-xs);
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+  .anchor-card__title {
+    font-family: var(--font-display);
+    font-size: var(--fs-md);
+    line-height: 1.25;
+    overflow-wrap: anywhere;
+  }
+  .anchor-card__canonical code {
+    color: var(--muted);
+    font-family: var(--font-mono);
+    font-size: 0.72rem;
+    line-height: 1.45;
+    overflow-wrap: anywhere;
+  }
+  .anchor-card__mirrors {
+    list-style: none;
+    margin: 0;
+    padding: 0.55rem 0 0;
+    border-top: 1px solid var(--line);
+    display: grid;
+    gap: 0.4rem;
+  }
+  .anchor-card__mirrors a {
+    display: grid;
+    gap: 0.1rem;
+    min-width: 0;
+    color: var(--ink);
+    text-decoration: none;
+  }
+  .anchor-card__mirrors a:hover {
+    color: var(--accent-2);
+  }
+  .anchor-card__mirrors span {
+    font-size: var(--fs-sm);
+    font-weight: 650;
+    line-height: 1.35;
+    overflow-wrap: anywhere;
+  }
+  .anchor-card__mirrors small {
+    color: var(--muted);
+    font-size: var(--fs-xs);
+  }
+
   .ai-band {
     display: grid;
     grid-template-columns: minmax(0, 1fr) minmax(18rem, 1.35fr);
@@ -422,7 +552,8 @@ const translatedCount = translations.filter((e) => e.id.startsWith(`${lang}/`)).
   @media (max-width: 940px) {
     .review-strip,
     .canonical-strip,
-    .taxonomy-grid {
+    .taxonomy-grid,
+    .anchor-grid {
       grid-template-columns: repeat(2, minmax(0, 1fr));
     }
     .ai-band {
@@ -432,7 +563,8 @@ const translatedCount = translations.filter((e) => e.id.startsWith(`${lang}/`)).
   @media (max-width: 620px) {
     .review-strip,
     .canonical-strip,
-    .taxonomy-grid {
+    .taxonomy-grid,
+    .anchor-grid {
       grid-template-columns: 1fr;
     }
     .home-block__actions {

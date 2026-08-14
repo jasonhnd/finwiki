@@ -4,8 +4,10 @@ import { getCollection } from 'astro:content';
 import { t, u, langCodes, type Lang } from '../../../../i18n/ui';
 import { domainDescription, domainName } from '../../../../i18n/domains';
 import { compareEntryRoute, entryDomain, entryRoute, i18nEntryId } from '../../../../lib/routes';
+import { localizedEntryPreview } from '../../../../lib/entryPreviewIndex.mjs';
 import { localizedTitle } from '../../../../lib/siteIndex.mjs';
 import { publishableTranslations } from '../../../../lib/translations';
+import { buildCanonicalClusters, clustersInDomain } from '../../../../layouts/canonicalAnchors';
 
 export async function getStaticPaths() {
   const entries = await getCollection('entries');
@@ -19,17 +21,34 @@ export async function getStaticPaths() {
 }
 
 const { lang, domain } = Astro.props as { lang: Lang; domain: string };
-const entries = (await getCollection('entries'))
-  .filter((entry) => entryDomain(entry) === domain)
-  .sort(compareEntryRoute);
+const all = await getCollection('entries');
+const entries = all.filter((entry) => entryDomain(entry) === domain).sort(compareEntryRoute);
 
 const translations = publishableTranslations(await getCollection('i18n'));
 const translationMap = new Map(translations.map((entry) => [entry.id, entry]));
+const entryByRoute = new Map(all.map((entry) => [entryRoute(entry), entry]));
 
 function titleFor(entry: (typeof entries)[number]): string {
   const tr = translationMap.get(i18nEntryId(lang, entry));
   return String(tr?.data?.title || localizedTitle(lang, entryRoute(entry)) || entry.data.title || entryRoute(entry));
 }
+
+function titleForRoute(route: string): string {
+  const entry = entryByRoute.get(route);
+  return entry ? titleFor(entry) : route;
+}
+
+const sameEntityNote =
+  lang === 'ja' ? '同じ主体を別領域から読むページ。' : 'Pages that describe the same legal entity from another domain view.';
+
+const domainClusters = clustersInDomain(buildCanonicalClusters(all), domain).map((cluster) => ({
+  ...cluster,
+  members: cluster.members.map((member) => ({
+    ...member,
+    title: titleForRoute(member.route),
+    domainTitle: domainName(member.domain, lang),
+  })),
+}));
 
 const canonicalTerms = ['overview', 'map', 'matrix', 'comparison', 'system', 'landscape', 'operating-model', 'registry', 'timeline', 'framework', 'index'];
 function canonicalScore(entry: (typeof entries)[number]): number {
@@ -67,7 +86,7 @@ const showFilter = entries.length > 24;
       </div>
     </header>
 
-    <section class="domain-brief" aria-label={t(lang, 'domain.openerLabel')}>
+    <section class:list={['domain-brief', { 'domain-brief--with-anchors': domainClusters.length > 0 }]} aria-label={t(lang, 'domain.openerLabel')}>
       <div class="domain-brief__section">
         <h2>{t(lang, 'domain.covers')}</h2>
         <p>{domainDescription(domain, lang)}</p>
@@ -88,20 +107,36 @@ const showFilter = entries.length > 24;
           })}
         </ol>
       </div>
-      <div class="domain-brief__section">
-        <h2>{t(lang, 'domain.canonicalAnchors')}</h2>
-        <div class="domain-anchors">
-          {canonicalEntries.map((entry) => {
-            const route = entryRoute(entry);
-            return (
-              <a href={u(lang, `${route}/`)}>
-                <span>{titleFor(entry)}</span>
-                <code>{route}</code>
-              </a>
-            );
-          })}
+      {domainClusters.length > 0 && (
+        <div class="domain-brief__section">
+          <h2>{t(lang, 'domain.canonicalAnchors')}</h2>
+          <p class="domain-brief__note">{sameEntityNote}</p>
+          <div class="domain-anchors">
+            {domainClusters.map((cluster) => {
+              const canonical = cluster.members.find((member) => member.relation === 'canonical') ?? cluster.members[0];
+              const mirrors = cluster.members.filter((member) => member.route !== canonical.route);
+              return (
+                <div class="domain-anchor">
+                  <a href={u(lang, `${canonical.route}/`)}>
+                    <span>{canonical.title}</span>
+                    <code>{canonical.route}</code>
+                  </a>
+                  <ul>
+                    {mirrors.map((member) => (
+                      <li>
+                        <a href={u(lang, `${member.route}/`)}>
+                          <span>{member.title}</span>
+                          <code>{member.domainTitle}</code>
+                        </a>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              );
+            })}
+          </div>
         </div>
-      </div>
+      )}
     </section>
 
     <div class="domain-list-head">
@@ -123,12 +158,14 @@ const showFilter = entries.length > 24;
       {entries.map((entry) => {
         const name = titleFor(entry);
         const route = entryRoute(entry);
+        const lead = localizedEntryPreview(lang, route)?.lead || '';
         const translated = lang !== 'ja' && translationMap.has(i18nEntryId(lang, entry));
         return (
-          <li class="domain__item" data-name={`${name} ${route}`.toLowerCase()}>
+          <li class="domain__item" data-name={`${name} ${route} ${lead}`.toLowerCase()}>
             <a href={u(lang, `${route}/`)}>
               <span class="domain__name">{name}</span>
               {translated && <span class="domain__tdot" title={t(lang, 'domain.translated')}></span>}
+              {lead && <span class="domain__lead">{lead}</span>}
               <span class="domain__route" aria-label={`${t(lang, 'domain.routeSlug')}: ${route}`}>{route}</span>
             </a>
           </li>
@@ -199,12 +236,15 @@ const showFilter = entries.length > 24;
 
   .domain-brief {
     display: grid;
-    grid-template-columns: 1.15fr 1fr 1fr;
+    grid-template-columns: 1.15fr 1fr;
     gap: 1px;
     background: var(--line);
     border-top: 1px solid var(--line);
     border-bottom: 1px solid var(--line);
     margin-bottom: var(--sp-7);
+  }
+  .domain-brief--with-anchors {
+    grid-template-columns: 1.15fr 1fr 1fr;
   }
   .domain-brief__section {
     min-width: 0;
@@ -220,6 +260,11 @@ const showFilter = entries.length > 24;
     color: var(--ink-2);
     font-size: var(--fs-sm);
     line-height: 1.6;
+  }
+  .domain-brief__section .domain-brief__note {
+    margin: 0 0 0.7rem;
+    color: var(--muted);
+    font-size: var(--fs-xs);
   }
   .domain-brief__links {
     display: grid;
@@ -260,7 +305,19 @@ const showFilter = entries.length > 24;
   }
   .domain-anchors {
     display: grid;
-    gap: 0.55rem;
+    gap: 0.85rem;
+  }
+  .domain-anchor {
+    display: grid;
+    gap: 0.35rem;
+  }
+  .domain-anchor ul {
+    list-style: none;
+    margin: 0;
+    padding: 0.35rem 0 0;
+    border-top: 1px solid var(--line);
+    display: grid;
+    gap: 0.35rem;
   }
 
   .domain-list-head {
@@ -305,18 +362,19 @@ const showFilter = entries.length > 24;
     margin: 0;
     padding: 0;
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(min(100%, 18rem), 1fr));
-    gap: 0.35rem 1.25rem;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 22rem), 1fr));
+    gap: 0.15rem 1.25rem;
   }
   .domain__item[hidden] {
     display: none;
   }
   .domain__item a {
-    display: flex;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto auto;
     align-items: baseline;
-    gap: 0.5rem;
+    gap: 0.2rem 0.5rem;
     min-width: 0;
-    padding: 0.55rem 0;
+    padding: 0.7rem 0;
     border-bottom: 1px solid var(--line);
     color: var(--ink);
     text-decoration: none;
@@ -337,8 +395,14 @@ const showFilter = entries.length > 24;
     flex: none;
     align-self: center;
   }
+  .domain__lead {
+    grid-column: 1 / -1;
+    color: var(--browse-excerpt);
+    font-size: var(--fs-sm);
+    line-height: 1.5;
+    overflow-wrap: anywhere;
+  }
   .domain__route {
-    margin-left: auto;
     color: var(--muted);
     font-family: var(--font-mono);
     font-size: var(--fs-xs);
@@ -354,11 +418,10 @@ const showFilter = entries.length > 24;
   }
   @media (max-width: 560px) {
     .domain__item a {
-      display: grid;
-      gap: 0.2rem;
+      grid-template-columns: minmax(0, 1fr) auto;
     }
     .domain__route {
-      margin-left: 0;
+      grid-column: 1 / -1;
       text-align: left;
     }
   }

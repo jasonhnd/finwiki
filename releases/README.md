@@ -1,5 +1,6 @@
 # リリース状態台帳 / Release State Registry / 发布状态台账
 
+- [v2026.08.14-4](./v2026.08.14-4.md) — compact human-site read surface (#287)
 - [v2026.08.14-3](./v2026.08.14-3.md) — freshness calibration + entity batch 01 + Horizon specs (#278–#281)
 - [v2026.08.14-2](./v2026.08.14-2.md) — weekly freshness overdue sweep (#277)
 - [v2026.08.14](./v2026.08.14.md) — Astro dependency highs + three-circles freshness recheck (#276, #277)

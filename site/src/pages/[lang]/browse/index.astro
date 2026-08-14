@@ -8,6 +8,7 @@ import { isoDate } from '../../../lib/format';
 import { localizedEntryPreview } from '../../../lib/entryPreviewIndex.mjs';
 import { localizedTitle } from '../../../lib/siteIndex.mjs';
 import { publishableTranslations } from '../../../lib/translations';
+import { buildCanonicalClusters, clusterForRoute } from '../../../layouts/canonicalAnchors';
 
 export function getStaticPaths() {
   return langCodes.map((lang) => ({ params: { lang } }));
@@ -32,6 +33,10 @@ function titleFor(entry: (typeof all)[number]): string {
   return String(tr?.data?.title || localizedTitle(lang, entryRoute(entry)) || entry.data.title || entryRoute(entry));
 }
 
+const sameEntityLabel = lang === 'ja' ? '同じ主体' : 'Same entity';
+const sameEntityClusters = buildCanonicalClusters(all);
+const entryByRoute = new Map(all.map((entry) => [entryRoute(entry), entry]));
+
 const readFirstTerms = ['overview', 'map', 'matrix', 'comparison', 'system', 'landscape', 'operating-model', 'registry', 'timeline', 'framework', 'index'];
 const collator = new Intl.Collator(lang, { numeric: true, sensitivity: 'base' });
 
@@ -48,6 +53,9 @@ const browseRecords = all
     const updated = isoDate(entry.data.last_updated);
     const preview = localizedEntryPreview(lang, route);
     const lead = preview?.lead || title;
+    const cluster = clusterForRoute(sameEntityClusters, route);
+    const counterpart = cluster?.members.find((member) => member.route !== route);
+    const counterpartEntry = counterpart ? entryByRoute.get(counterpart.route) : undefined;
 
     return {
       entry,
@@ -56,6 +64,12 @@ const browseRecords = all
       title,
       updated,
       lead,
+      sameEntity: counterpart && counterpartEntry
+        ? {
+            route: counterpart.route,
+            title: titleFor(counterpartEntry),
+          }
+        : null,
       domainTitle: domainName(domain, lang),
       domainOrder: domainOrder.get(domain) ?? Number.MAX_SAFE_INTEGER,
       readFirstScore: readFirstScore(route, title),
@@ -101,7 +115,7 @@ const browseRecords = all
       {browseRecords.map((record) => (
         <li
           class="browse-result"
-          data-search={`${record.title} ${record.domainTitle} ${record.route}`.toLowerCase()}
+          data-search={`${record.title} ${record.domainTitle} ${record.route} ${record.lead} ${record.sameEntity?.title || ''}`.toLowerCase()}
           data-title={record.title}
           data-route={record.route}
           data-domain={record.domain}
@@ -114,6 +128,11 @@ const browseRecords = all
           <p class="browse-result__lead">{record.lead}</p>
           <div class="browse-result__meta">
             <span>{record.domainTitle}</span>
+            {record.sameEntity && (
+              <a class="browse-result__entity" href={u(lang, `${record.sameEntity.route}/`)}>
+                {sameEntityLabel}: {record.sameEntity.title}
+              </a>
+            )}
             {record.updated && <time datetime={record.updated}>{t(lang, 'entry.updated')} {record.updated}</time>}
             <code class="browse-result__route">{record.route}</code>
           </div>
@@ -268,6 +287,13 @@ const browseRecords = all
     align-items: baseline;
     color: var(--muted);
     font-size: var(--fs-xs);
+  }
+  .browse-result__entity {
+    color: var(--accent-2);
+    text-decoration: none;
+  }
+  .browse-result__entity:hover {
+    text-decoration: underline;
   }
   .browse-result__route {
     color: var(--browse-route);
