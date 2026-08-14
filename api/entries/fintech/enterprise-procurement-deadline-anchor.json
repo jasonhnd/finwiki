@@ -23,9 +23,9 @@
     "domain": "fintech",
     "type": null,
     "created": "2026-05-16",
-    "last_updated": "2026-07-30",
-    "last_tended": "2026-07-30",
-    "review_by": "2026-08-08",
+    "last_updated": "2026-08-14",
+    "last_tended": "2026-08-14",
+    "review_by": "2026-09-28",
     "confidence": "likely",
     "tags": [
       "fintech",
@@ -84,6 +84,6 @@
     "nonspace_chars": 2341,
     "word_like_tokens": 327,
     "inbound_wikilinks_count": 2,
-    "last_modified": "2026-07-30"
+    "last_modified": "2026-08-14"
   }
 }

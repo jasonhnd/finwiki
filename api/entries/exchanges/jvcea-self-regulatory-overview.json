@@ -23,9 +23,9 @@
     "domain": "exchanges",
     "type": null,
     "created": "2026-05-19",
-    "last_updated": "2026-05-19",
-    "last_tended": "2026-06-23",
-    "review_by": "2026-08-07",
+    "last_updated": "2026-08-14",
+    "last_tended": "2026-08-14",
+    "review_by": "2026-11-12",
     "confidence": "likely",
     "tags": [
       "exchanges",
@@ -79,6 +79,6 @@
     "nonspace_chars": 2100,
     "word_like_tokens": 312,
     "inbound_wikilinks_count": 45,
-    "last_modified": "2026-06-23"
+    "last_modified": "2026-08-14"
   }
 }

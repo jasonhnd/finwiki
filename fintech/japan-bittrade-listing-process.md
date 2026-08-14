@@ -3,9 +3,9 @@ title: 日本の暗号資産取扱開始プロセス · BitTrade を含む公開
 aliases: [bittrade-listing, jp-cex-listing, 日本上場プロセス]
 domain: fintech
 created: 2026-05-13
-last_updated: 2026-07-30
-last_tended: 2026-07-30
-review_by: 2026-08-07
+last_updated: 2026-08-14
+last_tended: 2026-08-14
+review_by: 2026-11-12
 confidence: likely
 tags: [fintech, needs-verification]
 status: active

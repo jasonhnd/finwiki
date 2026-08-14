@@ -5,9 +5,9 @@ domain: fintech
 kind: framework
 topic: stablecoin-chain-sovereign-currency-divide
 created: 2026-05-13
-last_updated: 2026-07-30
-last_tended: 2026-07-30
-review_by: 2026-08-08
+last_updated: 2026-08-14
+last_tended: 2026-08-14
+review_by: 2026-11-12
 confidence: likely
 tags: [fintech, stablecoin, geopolitics, sovereign-currency, framework]
 status: active

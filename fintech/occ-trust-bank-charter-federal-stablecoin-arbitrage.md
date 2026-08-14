@@ -5,9 +5,9 @@ domain: fintech
 kind: knowledge
 topic: occ-trust-bank-charter-federal-stablecoin-arbitrage
 created: 2026-05-16
-last_updated: 2026-07-30
-last_tended: 2026-07-30
-review_by: 2026-08-08
+last_updated: 2026-08-14
+last_tended: 2026-08-14
+review_by: 2026-11-12
 confidence: certain
 tags: [fintech, regulation, stablecoin, occ, charter, bridge, mtl, fedwire]
 status: active

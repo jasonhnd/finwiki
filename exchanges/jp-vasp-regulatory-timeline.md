@@ -6,9 +6,9 @@ aliases:
   - JVCEA / 金商法 / VASP 制度史
 domain: exchanges
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-06-24
-review_by: 2026-08-08
+last_updated: 2026-08-14
+last_tended: 2026-08-14
+review_by: 2026-11-12
 confidence: likely
 tags:
   - exchanges
