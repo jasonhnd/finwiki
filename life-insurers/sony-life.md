@@ -13,6 +13,19 @@ entity_node:
   kind: operating_company
   scope: japan_core
   status: anchor
+entity_edges:
+  - relation: regulated_by
+    target: financial-regulators/fsa
+    evidence: official_registry
+    source: https://www.fsa.go.jp/menkyo/hoken.pdf
+    as_of: 2026-08-15
+    confidence: likely
+  - relation: member_of_sro
+    target: financial-regulators/seiho-kyokai
+    evidence: industry_body_member_list
+    source: https://www.seiho.or.jp/member/list/
+    as_of: 2026-08-15
+    confidence: likely
 sources:
   - "https://www.fsa.go.jp/menkyo/hoken.pdf"
   - "https://www.seiho.or.jp/member/list/"

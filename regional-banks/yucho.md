@@ -9,6 +9,17 @@ review_by: 2026-11-15
 confidence: likely
 tags: [JapanFG, banking, post-bank]
 status: active
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
+entity_edges:
+  - relation: subsidiary_of
+    target: megabanks/japan-post-holdings
+    evidence: official_profile
+    source: https://www.jp-bank.japanpost.jp/ir/stock/ir_stk_situation.html
+    as_of: 2026-08-15
+    confidence: likely
 sources:
   - "Wikipedia: 株式会社ゆうちょ銀行 (2026-05-19 抽出)"
   - "日本郵政グループ 統合報告書 / IR 開示 (公開資料)"

@@ -1,22 +1,22 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-08-15T01:08:08+09:00",
+  "generated_at": "2026-08-15T01:16:32+09:00",
   "counts": {
-    "markdown_files": 1613,
-    "public_markdown_pages": 1612,
+    "markdown_files": 1614,
+    "public_markdown_pages": 1613,
     "site_urls_in_sitemap": 1482,
     "topical_domains": 40,
     "link_audited_entries": 1489,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 11192607,
-    "word_like_tokens": 1804871,
+    "nonspace_utf8_chars": 11197509,
+    "word_like_tokens": 1805768,
     "entity_anchors": 13,
     "entity_mirror_pages": 13,
-    "entity_nodes": 93,
-    "entity_edges": 78,
-    "entity_edges_declared": 39,
-    "entity_edges_derived": 39,
+    "entity_nodes": 97,
+    "entity_edges": 90,
+    "entity_edges_declared": 45,
+    "entity_edges_derived": 45,
     "entity_edges_unresolved_targets": 0
   },
   "navigation": {
@@ -897,6 +897,15 @@
       "mirrors": []
     },
     {
+      "anchor": "banking/sony-bank",
+      "url": "https://finwiki.zksc.io/ja/banking/sony-bank/",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "mirror_member",
+      "domain": "banking",
+      "mirrors": []
+    },
+    {
       "anchor": "card-issuers/aeon-financial-service",
       "url": "https://finwiki.zksc.io/ja/card-issuers/aeon-financial-service/",
       "kind": "financial_group",
@@ -1562,6 +1571,37 @@
       "mirrors": []
     },
     {
+      "anchor": "regional-banks/japan-post-bank",
+      "url": "https://finwiki.zksc.io/ja/regional-banks/japan-post-bank/",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "mirror_member",
+      "domain": "regional-banks",
+      "mirrors": []
+    },
+    {
+      "anchor": "regional-banks/sony-bank",
+      "url": "https://finwiki.zksc.io/ja/regional-banks/sony-bank/",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "regional-banks",
+      "mirrors": [
+        "banking/sony-bank.md"
+      ]
+    },
+    {
+      "anchor": "regional-banks/yucho",
+      "url": "https://finwiki.zksc.io/ja/regional-banks/yucho/",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "regional-banks",
+      "mirrors": [
+        "regional-banks/japan-post-bank.md"
+      ]
+    },
+    {
       "anchor": "securities-firms/daiwa-sg",
       "url": "https://finwiki.zksc.io/ja/securities-firms/daiwa-sg/",
       "kind": "financial_group",
@@ -1770,6 +1810,21 @@
       "source": "financial-regulators/fsa",
       "source_url": "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
       "relation": "regulates",
+      "target": "life-insurers/sony-life",
+      "target_url": "https://finwiki.zksc.io/ja/life-insurers/sony-life/",
+      "target_resolves": true,
+      "declared_in": "life-insurers/sony-life.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/hoken.pdf",
+      "as_of": "2026-08-15",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "life-insurers/sony-life::regulated_by::financial-regulators/fsa"
+    },
+    {
+      "source": "financial-regulators/fsa",
+      "source_url": "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "relation": "regulates",
       "target": "megabanks/mizuho-bank",
       "target_url": "https://finwiki.zksc.io/ja/megabanks/mizuho-bank/",
       "target_resolves": true,
@@ -1935,6 +1990,36 @@
       "source": "financial-regulators/fsa",
       "source_url": "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
       "relation": "regulates",
+      "target": "regional-banks/japan-post-bank",
+      "target_url": "https://finwiki.zksc.io/ja/regional-banks/japan-post-bank/",
+      "target_resolves": true,
+      "declared_in": "regional-banks/japan-post-bank.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "as_of": "2026-08-15",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "regional-banks/japan-post-bank::regulated_by::financial-regulators/fsa"
+    },
+    {
+      "source": "financial-regulators/fsa",
+      "source_url": "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "relation": "regulates",
+      "target": "regional-banks/sony-bank",
+      "target_url": "https://finwiki.zksc.io/ja/regional-banks/sony-bank/",
+      "target_resolves": true,
+      "declared_in": "regional-banks/sony-bank.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "as_of": "2026-08-15",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "regional-banks/sony-bank::regulated_by::financial-regulators/fsa"
+    },
+    {
+      "source": "financial-regulators/fsa",
+      "source_url": "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "relation": "regulates",
       "target": "securities-firms/mizuho-securities",
       "target_url": "https://finwiki.zksc.io/ja/securities-firms/mizuho-securities/",
       "target_resolves": true,
@@ -2022,6 +2107,21 @@
       "inverse_of": "securities-firms/sbi-securities::member_of_sro::financial-regulators/jsda"
     },
     {
+      "source": "financial-regulators/seiho-kyokai",
+      "source_url": "https://finwiki.zksc.io/ja/financial-regulators/seiho-kyokai/",
+      "relation": "has_sro_member",
+      "target": "life-insurers/sony-life",
+      "target_url": "https://finwiki.zksc.io/ja/life-insurers/sony-life/",
+      "target_resolves": true,
+      "declared_in": "life-insurers/sony-life.md",
+      "evidence": "industry_body_member_list",
+      "source_ref": "https://www.seiho.or.jp/member/list/",
+      "as_of": "2026-08-15",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "life-insurers/sony-life::member_of_sro::financial-regulators/seiho-kyokai"
+    },
+    {
       "source": "financial-regulators/zenginkyo",
       "source_url": "https://finwiki.zksc.io/ja/financial-regulators/zenginkyo/",
       "relation": "has_sro_member",
@@ -2082,6 +2182,34 @@
       "inverse_of": "megabanks/sumitomo-mitsui-banking-corp::member_of_sro::financial-regulators/zenginkyo"
     },
     {
+      "source": "life-insurers/sony-life",
+      "source_url": "https://finwiki.zksc.io/ja/life-insurers/sony-life/",
+      "relation": "member_of_sro",
+      "target": "financial-regulators/seiho-kyokai",
+      "target_url": "https://finwiki.zksc.io/ja/financial-regulators/seiho-kyokai/",
+      "target_resolves": true,
+      "declared_in": "life-insurers/sony-life.md",
+      "evidence": "industry_body_member_list",
+      "source_ref": "https://www.seiho.or.jp/member/list/",
+      "as_of": "2026-08-15",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "life-insurers/sony-life",
+      "source_url": "https://finwiki.zksc.io/ja/life-insurers/sony-life/",
+      "relation": "regulated_by",
+      "target": "financial-regulators/fsa",
+      "target_url": "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "target_resolves": true,
+      "declared_in": "life-insurers/sony-life.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/hoken.pdf",
+      "as_of": "2026-08-15",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
       "source": "megabanks/au-fh",
       "source_url": "https://finwiki.zksc.io/ja/megabanks/au-fh/",
       "relation": "parent_of",
@@ -2095,6 +2223,21 @@
       "confidence": "likely",
       "derived": true,
       "inverse_of": "payment-firms/au-payment::subsidiary_of::megabanks/au-fh"
+    },
+    {
+      "source": "megabanks/japan-post-holdings",
+      "source_url": "https://finwiki.zksc.io/ja/megabanks/japan-post-holdings/",
+      "relation": "parent_of",
+      "target": "regional-banks/yucho",
+      "target_url": "https://finwiki.zksc.io/ja/regional-banks/yucho/",
+      "target_resolves": true,
+      "declared_in": "regional-banks/yucho.md",
+      "evidence": "official_profile",
+      "source_ref": "https://www.jp-bank.japanpost.jp/ir/stock/ir_stk_situation.html",
+      "as_of": "2026-08-15",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "regional-banks/yucho::subsidiary_of::megabanks/japan-post-holdings"
     },
     {
       "source": "megabanks/mizuho-bank",
@@ -2401,6 +2544,21 @@
       "inverse_of": "megabanks/sumitomo-mitsui-banking-corp::subsidiary_of::megabanks/smfg"
     },
     {
+      "source": "megabanks/sony-fg",
+      "source_url": "https://finwiki.zksc.io/ja/megabanks/sony-fg/",
+      "relation": "parent_of",
+      "target": "regional-banks/sony-bank",
+      "target_url": "https://finwiki.zksc.io/ja/regional-banks/sony-bank/",
+      "target_resolves": true,
+      "declared_in": "regional-banks/sony-bank.md",
+      "evidence": "official_profile",
+      "source_ref": "https://sonybank.jp/corporate/aboutus/profile.html",
+      "as_of": "2026-08-15",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "regional-banks/sony-bank::subsidiary_of::megabanks/sony-fg"
+    },
+    {
       "source": "megabanks/sumitomo-mitsui-banking-corp",
       "source_url": "https://finwiki.zksc.io/ja/megabanks/sumitomo-mitsui-banking-corp/",
       "relation": "member_of_sro",
@@ -2671,6 +2829,62 @@
       "derived": false
     },
     {
+      "source": "regional-banks/japan-post-bank",
+      "source_url": "https://finwiki.zksc.io/ja/regional-banks/japan-post-bank/",
+      "relation": "regulated_by",
+      "target": "financial-regulators/fsa",
+      "target_url": "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "target_resolves": true,
+      "declared_in": "regional-banks/japan-post-bank.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "as_of": "2026-08-15",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "regional-banks/sony-bank",
+      "source_url": "https://finwiki.zksc.io/ja/regional-banks/sony-bank/",
+      "relation": "regulated_by",
+      "target": "financial-regulators/fsa",
+      "target_url": "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "target_resolves": true,
+      "declared_in": "regional-banks/sony-bank.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+      "as_of": "2026-08-15",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "regional-banks/sony-bank",
+      "source_url": "https://finwiki.zksc.io/ja/regional-banks/sony-bank/",
+      "relation": "subsidiary_of",
+      "target": "megabanks/sony-fg",
+      "target_url": "https://finwiki.zksc.io/ja/megabanks/sony-fg/",
+      "target_resolves": true,
+      "declared_in": "regional-banks/sony-bank.md",
+      "evidence": "official_profile",
+      "source_ref": "https://sonybank.jp/corporate/aboutus/profile.html",
+      "as_of": "2026-08-15",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "regional-banks/yucho",
+      "source_url": "https://finwiki.zksc.io/ja/regional-banks/yucho/",
+      "relation": "subsidiary_of",
+      "target": "megabanks/japan-post-holdings",
+      "target_url": "https://finwiki.zksc.io/ja/megabanks/japan-post-holdings/",
+      "target_resolves": true,
+      "declared_in": "regional-banks/yucho.md",
+      "evidence": "official_profile",
+      "source_ref": "https://www.jp-bank.japanpost.jp/ir/stock/ir_stk_situation.html",
+      "as_of": "2026-08-15",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
       "source": "securities-firms/mizuho-securities",
       "source_url": "https://finwiki.zksc.io/ja/securities-firms/mizuho-securities/",
       "relation": "member_of_sro",
@@ -2813,12 +3027,12 @@
     }
   ],
   "entity_relation_counts": {
-    "has_sro_member": 7,
-    "member_of_sro": 7,
-    "parent_of": 16,
-    "regulated_by": 16,
-    "regulates": 16,
-    "subsidiary_of": 16
+    "has_sro_member": 8,
+    "member_of_sro": 8,
+    "parent_of": 18,
+    "regulated_by": 19,
+    "regulates": 19,
+    "subsidiary_of": 18
   },
   "entries": [
     {
@@ -2867,11 +3081,11 @@
         "日本語",
         "English",
         "中文",
-        "2026-08-15 - Entity deepening batch 02 spec (#292)",
+        "2026-08-15 - Entity deepening batch 02 (#292)",
         "日本語",
         "English",
         "中文",
-        "2026-08-14 - Compact human-site read surface (#287)"
+        "2026-08-15 - Entity deepening batch 02 spec (#292)"
       ],
       "wikilinks": [],
       "resolved_wikilinks": [],
@@ -2880,8 +3094,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 290424,
-      "word_like_tokens": 53436,
+      "nonspace_chars": 291956,
+      "word_like_tokens": 53726,
       "last_modified": "2026-08-15"
     },
     {
@@ -10330,10 +10544,14 @@
         "https://finwiki.zksc.io/ja/securities-firms/sbi-securities/"
       ],
       "markdown_links": [],
-      "entity_node": null,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "mirror_member"
+      },
       "entity_edges": [],
-      "nonspace_chars": 10152,
-      "word_like_tokens": 1688,
+      "nonspace_chars": 10222,
+      "word_like_tokens": 1699,
       "last_modified": "2026-07-29"
     },
     {
@@ -56955,9 +57173,26 @@
         "scope": "japan_core",
         "status": "anchor"
       },
-      "entity_edges": [],
-      "nonspace_chars": 2478,
-      "word_like_tokens": 400,
+      "entity_edges": [
+        {
+          "relation": "regulated_by",
+          "target": "financial-regulators/fsa",
+          "evidence": "official_registry",
+          "source": "https://www.fsa.go.jp/menkyo/hoken.pdf",
+          "as_of": "2026-08-15",
+          "confidence": "likely"
+        },
+        {
+          "relation": "member_of_sro",
+          "target": "financial-regulators/seiho-kyokai",
+          "evidence": "industry_body_member_list",
+          "source": "https://www.seiho.or.jp/member/list/",
+          "as_of": "2026-08-15",
+          "confidence": "likely"
+        }
+      ],
+      "nonspace_chars": 2821,
+      "word_like_tokens": 457,
       "last_modified": "2026-07-30"
     },
     {
@@ -81551,10 +81786,23 @@
         "https://finwiki.zksc.io/ja/regional-banks/yucho/"
       ],
       "markdown_links": [],
-      "entity_node": null,
-      "entity_edges": [],
-      "nonspace_chars": 14420,
-      "word_like_tokens": 2410,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "mirror_member"
+      },
+      "entity_edges": [
+        {
+          "relation": "regulated_by",
+          "target": "financial-regulators/fsa",
+          "evidence": "official_registry",
+          "source": "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+          "as_of": "2026-08-15",
+          "confidence": "likely"
+        }
+      ],
+      "nonspace_chars": 14670,
+      "word_like_tokens": 2450,
       "last_modified": "2026-07-30"
     },
     {
@@ -84911,10 +85159,31 @@
         "https://finwiki.zksc.io/ja/regional-banks/daiwa-next-bank/"
       ],
       "markdown_links": [],
-      "entity_node": null,
-      "entity_edges": [],
-      "nonspace_chars": 2696,
-      "word_like_tokens": 430,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
+      "entity_edges": [
+        {
+          "relation": "regulated_by",
+          "target": "financial-regulators/fsa",
+          "evidence": "official_registry",
+          "source": "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx",
+          "as_of": "2026-08-15",
+          "confidence": "likely"
+        },
+        {
+          "relation": "subsidiary_of",
+          "target": "megabanks/sony-fg",
+          "evidence": "official_profile",
+          "source": "https://sonybank.jp/corporate/aboutus/profile.html",
+          "as_of": "2026-08-15",
+          "confidence": "likely"
+        }
+      ],
+      "nonspace_chars": 3101,
+      "word_like_tokens": 494,
       "last_modified": "2026-07-30"
     },
     {
@@ -86182,10 +86451,23 @@
         "https://finwiki.zksc.io/ja/regional-banks/japan-post-bank/"
       ],
       "markdown_links": [],
-      "entity_node": null,
-      "entity_edges": [],
-      "nonspace_chars": 4735,
-      "word_like_tokens": 761,
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
+      "entity_edges": [
+        {
+          "relation": "subsidiary_of",
+          "target": "megabanks/japan-post-holdings",
+          "evidence": "official_profile",
+          "source": "https://www.jp-bank.japanpost.jp/ir/stock/ir_stk_situation.html",
+          "as_of": "2026-08-15",
+          "confidence": "likely"
+        }
+      ],
+      "nonspace_chars": 4998,
+      "word_like_tokens": 804,
       "last_modified": "2026-07-30"
     },
     {
@@ -86220,12 +86502,13 @@
         "./v2026.08.14-3.md",
         "./v2026.08.14-4.md",
         "./v2026.08.14.md",
+        "./v2026.08.15.md",
         "https://github.com/jasonhnd/finwiki/blob/528c39e81be2faf3e7d17c1197da9a5569985e51/CHANGELOG.md"
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 12699,
-      "word_like_tokens": 2435,
+      "nonspace_chars": 12760,
+      "word_like_tokens": 2447,
       "last_modified": "2026-08-14"
     },
     {
@@ -90168,6 +90451,39 @@
       "nonspace_chars": 2159,
       "word_like_tokens": 410,
       "last_modified": "2026-08-14"
+    },
+    {
+      "source_path": "releases/v2026.08.15.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.08.15.md",
+      "html_url": null,
+      "alternate_html_urls": null,
+      "raw_markdown_url": "https://finwiki.zksc.io/releases/v2026.08.15.md",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.08.15.md",
+      "title": "実体ノード第二批",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "canonical_anchor": "",
+      "summary": "",
+      "headings": [
+        "実体ノード第二批",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "entity_node": null,
+      "entity_edges": [],
+      "nonspace_chars": 1780,
+      "word_like_tokens": 341,
+      "last_modified": "2026-08-15"
     },
     {
       "source_path": "retail/INDEX.md",
@@ -106762,8 +107078,8 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3374,
-      "word_like_tokens": 626,
+      "nonspace_chars": 3572,
+      "word_like_tokens": 665,
       "last_modified": "2026-08-14"
     }
   ]

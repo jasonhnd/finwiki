@@ -26,6 +26,29 @@
 - 每条记录应尽可能包含 JST 时间、背景、范围、主要文件或目录、执行步骤、验证结果与后续事项。
 - 本仓库正文只允许使用互联网公开信息、官方资料、公开披露或基于公开来源的分析。
 
+## 2026-08-15 - Entity deepening batch 02 (#292)
+
+### 日本語
+
+- **2026-08-15 01:20 JST / 背景:** Issue #292 の named batch を frontmatter-only で実装する。出典は各頁に既にある公式 HTTPS URL に限定する。
+- **範囲 / 主要ファイル:** `regional-banks/yucho.md`、`regional-banks/japan-post-bank.md`、`regional-banks/sony-bank.md`、`life-insurers/sony-life.md`、`banking/sony-bank.md`。本文・i18n mirror・UI は変更しない。
+- **実行手順:** ゆうちょに anchor node と `subsidiary_of` 日本郵政（株式の状況、日本郵政が筆頭株主）を追加。operating profile に mirror_member と `regulated_by` FSA を追加。ソニー銀行に anchor node、`regulated_by` FSA、`subsidiary_of` Sony FG（会社概要が 100% を現認）を追加。ソニー生命に FSA / 生保協会 edge を追加。`banking/sony-bank.md` は既存 `canonical_anchor` の mirror_member node のみ。
+- **検証結果 / 残タスク:** `entity:audit`、`wiki:audit:ci`、`release --check --strict` を通す。残タスクは work→`pre`→`main`、release note、#292 close。
+
+### English
+
+- **2026-08-15 01:20 JST / Background:** Implement the #292 named batch as frontmatter-only entity work, using official HTTPS URLs already cited on each page.
+- **Scope / Primary files:** the five source paths in the batch spec. No body, i18n, or UI edits.
+- **Steps:** Add the Japan Post Bank anchor + `subsidiary_of` Holdings, the operating-profile mirror + `regulated_by` FSA, Sony Bank anchor + FSA + Sony FG parent (profile still says 100%), Sony Life FSA / Seiho edges, and the banking-domain Sony Bank mirror node only.
+- **Validation / Follow-up:** Pass entity, wiki, and release gates. Remaining: promote and close #292.
+
+### 中文
+
+- **2026-08-15 01:20 JST / 背景:** 按 #292 named batch 只改 frontmatter，出处限于各页已有官方 HTTPS URL。
+- **范围 / 主要文件:** 规格中的五条 source 路径。不改正文、i18n 或 UI。
+- **执行步骤:** 为ゆうちょ、其 operating profile、ソニー銀行、ソニー生命、`banking/sony-bank.md` 补 node / 已批准的边。索尼银行公司概要仍写 Sony FG 100%。
+- **验证 / 后续:** 通过 entity / wiki / release 门禁后 promote 并关闭 #292。
+
 ## 2026-08-15 - Entity deepening batch 02 spec (#292)
 
 ### 日本語
