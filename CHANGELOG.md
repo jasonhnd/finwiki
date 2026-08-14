@@ -26,6 +26,29 @@
 - 每条记录应尽可能包含 JST 时间、背景、范围、主要文件或目录、执行步骤、验证结果与后续事项。
 - 本仓库正文只允许使用互联网公开信息、官方资料、公开披露或基于公开来源的分析。
 
+## 2026-08-14 - Horizon follow-ups (#278–#281, #286)
+
+### 日本語
+
+- **2026-08-14 18:20 JST / 背景:** Issue #277 完了後、later の 4 件（#278–#281）を同一 unit で閉じる。#278 は検出器校正、#279/#286 は第一批 entity frontmatter、#280 は compact surface 仕様、#281 は API `canonical_anchor` の現状確認である。
+- **範囲 / 主要ファイル:** `tools/fact_freshness_audit.ts` と test、`docs/07-quality/round-2-freshness-remediation.md`、`docs/08-operations/truthfulness-audit-runbook.md`、`docs/02-product/human-site-compact-read-surface.md`、`docs/04-architecture/entity-deepening-batch-01.md`、`docs/05-functional-specs/{api-canonical-anchor-decision,ai-surface-consumability-design}.md`、`docs/01-strategy/backlog.md`、`megabanks/{resona-bank,saitama-resona-bank,japan-post-holdings,smbc}.md` と SMBC ja/en mirrors。
+- **実行手順:** `scenario-assumption` + 期限内 `review_by` + cadence 内 `last_tended` かつ actionable が `low_confidence` のみの行を freshness JSON から除外。りそな銀行・埼玉りそなに公開 IR / FSA 免許一覧由来の `entity_node` / typed edges を追加。日本郵政 HD に group node。SMBC 重複ルートは `canonical_anchor` を `megabanks/sumitomo-mitsui-banking-corp` に向け core-body リンクを追加。#281 は generator 既存出力を保持する決定を文書化。
+- **検証結果 / 残タスク:** freshness test 2 pass。entity audit issues 0（nodes 93 / declared edges 39）。wiki audit drift 0（canonical_anchor_checked 13）。docs:audit PASS。残タスクは work→pre→main、`v2026.08.14-3`、4 親 issue と #286 を close。UI 実装は #287。
+
+### English
+
+- **2026-08-14 18:20 JST / Background:** After #277, close the four later issues (#278–#281) in one unit: detector calibration, the first entity frontmatter batch, the compact-surface spec, and the API `canonical_anchor` decision.
+- **Scope / Primary files:** freshness audit + test; runbook / freshness / product / architecture / API specs; backlog; four megabank sources and the SMBC ja/en mirrors.
+- **Steps:** Omit freshness rows whose only actionable reason is `low_confidence` when tagged `scenario-assumption` and still inside review/cadence windows. Add public-source `entity_node` / edges on Resona Bank and Saitama Resona Bank, a group node on Japan Post Holdings, and a `canonical_anchor` plus core-body link from `megabanks/smbc.md` to `megabanks/sumitomo-mitsui-banking-corp`. Document that per-entry API `canonical_anchor` is already live and should stay.
+- **Validation / Follow-up:** freshness tests pass; entity audit 0 issues; wiki drift 0. Remaining: promote, tag `v2026.08.14-3`, close #278–#281 and #286. UI implementation is #287.
+
+### 中文
+
+- **2026-08-14 18:20 JST / 背景:** #277 完成后，在同一 unit 关闭 later 的 #278–#281。
+- **范围 / 主要文件:** freshness 审计与测试、相关 docs、4 个 megabank 源页与 SMBC ja/en mirrors。
+- **执行步骤:** 为带 `scenario-assumption` 且仍在 review/cadence 内、唯一 actionable 原因为 `low_confidence` 的页免除 freshness 行。为りそな / 埼玉りそな加公开出处的 entity node 与边，为日本郵政 HD 加 group node，将 `smbc.md` 标为 `sumitomo-mitsui-banking-corp` 的 mirror。书面确认 per-entry API 已输出 `canonical_anchor` 并保留。
+- **验证 / 后续:** freshness tests 通过；entity audit 0；wiki drift 0。后续 promote、tag `v2026.08.14-3`、关闭 #278–#281 与 #286。UI 实现见 #287。
+
 ## 2026-08-14 - Weekly freshness overdue sweep (#277)
 
 ### 日本語

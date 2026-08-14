@@ -13,6 +13,29 @@ review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, bank, resona, operating-company]
 status: active
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
+entity_edges:
+  - relation: subsidiary_of
+    target: megabanks/resona-hd
+    evidence: official_profile
+    source: https://www.resona-gr.co.jp/holdings/about/group/
+    as_of: 2026-08-14
+    confidence: likely
+  - relation: regulated_by
+    target: financial-regulators/fsa
+    evidence: official_registry
+    source: https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx
+    as_of: 2026-08-14
+    confidence: likely
+  - relation: member_of_sro
+    target: financial-regulators/zenginkyo
+    evidence: industry_body_member_list
+    source: https://www.zenginkyo.or.jp/en/members/
+    as_of: 2026-08-14
+    confidence: likely
 sources:
   - "https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx"
   - "https://www.resonabank.co.jp/about/gaiyo/"

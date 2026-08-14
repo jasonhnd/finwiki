@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-08-14T17:57:48+09:00
+Generated: 2026-08-14T18:18:09+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1611
-Public pages listed: 1610
+Markdown files: 1612
+Public pages listed: 1611
 
 ## Reading Rules
 
@@ -30,7 +30,7 @@ Public pages listed: 1610
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/CHANGELOG.md
 - Domain: root
 - Type: control_doc
-- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-08-14 - Weekly freshness overdue sweep (#277), 日本語, English
+- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-08-14 - Horizon follow-ups (#278–#281, #286), 日本語, English
 
 ### How to navigate FinWiki — reader profile guide
 - URL: https://finwiki.zksc.io/HOW-TO-NAVIGATE.md
@@ -11017,6 +11017,7 @@ Public pages listed: 1610
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/megabanks/japan-post-holdings.md
 - Domain: megabanks
 - Type: wiki_entry
+- Entity node: kind=financial_group scope=japan_core status=anchor
 - Summary: This entry sits under megabanks INDEX. Read it against ゆうちょ銀行 (7182) and かんぽ生命 (7181) for its main金融子会社, and against 金融庁 / 日本銀行 for the broader system / regulatory boundary.
 - Headings: 日本郵政株式会社, Wiki route, TL;DR, 1. 法人構造, グループ構造, 重要年表, 2. 事業セグメント, 法律上の保有義務
 - First resolved wikilinks: https://finwiki.zksc.io/ja/financial-regulators/boj/, https://finwiki.zksc.io/ja/financial-regulators/fsa/, https://finwiki.zksc.io/ja/financial-regulators/japan-exchange-group/, https://finwiki.zksc.io/ja/life-insurers/kampo-life/, https://finwiki.zksc.io/ja/domains/megabanks/, https://finwiki.zksc.io/ja/regional-banks/japan-post-bank/
@@ -11135,6 +11136,11 @@ Public pages listed: 1610
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/megabanks/resona-bank.md
 - Domain: megabanks
 - Type: wiki_entry
+- Entity node: kind=operating_company scope=japan_core status=anchor
+- Entity edges:
+  - subsidiary_of -> megabanks/resona-hd (source: https://www.resona-gr.co.jp/holdings/about/group/, as_of: 2026-08-14, confidence: likely)
+  - regulated_by -> financial-regulators/fsa (source: https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx, as_of: 2026-08-14, confidence: likely)
+  - member_of_sro -> financial-regulators/zenginkyo (source: https://www.zenginkyo.or.jp/en/members/, as_of: 2026-08-14, confidence: likely)
 - Summary: This entry sits under megabanks INDEX (its domain route). Read it against 埼玉りそな銀行 (Saitama Resona Bank) for peer / contrast (its separately licensed Saitama-market sibling), and against the FSA for the supervisory / regulatory boundary. The group / parent view lives on りそな HD.
 - Headings: りそな銀行 (Resona Bank), Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why standalone page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/banking/post-megabank-positioning/, https://finwiki.zksc.io/ja/banking/regional-bank-consolidation-pattern/, https://finwiki.zksc.io/ja/financial-regulators/fsa/, https://finwiki.zksc.io/ja/domains/megabanks/, https://finwiki.zksc.io/ja/megabanks/resona-hd/, https://finwiki.zksc.io/ja/megabanks/saitama-resona-bank/
@@ -11162,6 +11168,10 @@ Public pages listed: 1610
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/megabanks/saitama-resona-bank.md
 - Domain: megabanks
 - Type: wiki_entry
+- Entity node: kind=operating_company scope=japan_core status=anchor
+- Entity edges:
+  - subsidiary_of -> megabanks/resona-hd (source: https://www.resona-gr.co.jp/holdings/about/group/, as_of: 2026-08-14, confidence: likely)
+  - regulated_by -> financial-regulators/fsa (source: https://www.fsa.go.jp/menkyo/menkyoj/ginkou.xlsx, as_of: 2026-08-14, confidence: likely)
 - Summary: This entry sits under megabanks INDEX (its domain route). Read it against りそな銀行 (Resona Bank) for peer / contrast (its sibling Resona-group core bank), and against the FSA for the supervisory / regulatory boundary. The group / parent view lives on りそな HD.
 - Headings: 埼玉りそな銀行 (Saitama Resona Bank), Wiki route, TL;DR, 1. License / group boundary, 2. Operating model, 3. Why standalone page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/banking/regional-bank-consolidation-pattern/, https://finwiki.zksc.io/ja/financial-regulators/fsa/, https://finwiki.zksc.io/ja/domains/megabanks/, https://finwiki.zksc.io/ja/megabanks/resona-bank/, https://finwiki.zksc.io/ja/megabanks/resona-hd/
@@ -11203,7 +11213,9 @@ Public pages listed: 1610
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/megabanks/smbc.md
 - Domain: megabanks
 - Type: wiki_entry
-- Summary: This entry sits under megabanks INDEX. Read it against SMFG (親会社), MUFG 銀行, みずほ銀行 for peer / contrast (3 大メガバンク), and 金融庁 / 日本銀行 for the broader regulatory boundary.
+- Canonical anchor: megabanks/sumitomo-mitsui-banking-corp -> https://finwiki.zksc.io/ja/megabanks/sumitomo-mitsui-banking-corp/
+- Entity node: kind=operating_company scope=japan_core status=mirror_member
+- Summary: This entry sits under megabanks INDEX. It is the same legal bank as Sumitomo Mitsui Banking Corporation. Read it against SMFG (親会社), MUFG 銀行, みずほ銀行 for peer / contrast (3 大メガバンク), and 金融庁 / 日本銀行 for the broader regulatory boundary.
 - Headings: 株式会社三井住友銀行 (SMBC), Wiki route, TL;DR, 1. 法人構造, 沿革・前身, 重要年表, 2. グループ内分業, 3. 業務セグメント
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/card-issuers/jcb/, https://finwiki.zksc.io/ja/card-issuers/smbc-card/, https://finwiki.zksc.io/ja/consumer-finance/smbc-consumer-finance/, https://finwiki.zksc.io/ja/financial-regulators/boj/, https://finwiki.zksc.io/ja/financial-regulators/dic/, https://finwiki.zksc.io/ja/financial-regulators/fsa/, https://finwiki.zksc.io/ja/domains/megabanks/, https://finwiki.zksc.io/ja/megabanks/mizuho-bank/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/megabanks/mufg-bank/
 
@@ -17330,6 +17342,15 @@ Public pages listed: 1610
 - Domain: releases
 - Type: release_note
 - Headings: 期限切れ鮮度監査の週次再確認, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
+
+### 鮮度校正と実体ノード第一批
+- URL: https://finwiki.zksc.io/releases/v2026.08.14-3.md
+- Raw Markdown: https://finwiki.zksc.io/releases/v2026.08.14-3.md
+- Source path: releases/v2026.08.14-3.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.08.14-3.md
+- Domain: releases
+- Type: release_note
+- Headings: 鮮度校正と実体ノード第一批, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
 
 ### 依存関係の修正と三円シナリオ再確認
 - URL: https://finwiki.zksc.io/releases/v2026.08.14.md
