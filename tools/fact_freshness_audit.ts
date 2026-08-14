@@ -306,6 +306,23 @@ function rowForDoc(doc: SourceDoc, asOf: Date): ReportRow | null {
   );
   if (actionableReasons.length === 0) return null;
 
+  const scenarioTagged = asStringList(fm.tags)
+    .map((tag) => tag.toLowerCase())
+    .includes("scenario-assumption");
+  const reviewIsFuture = Boolean(reviewBy && daysBetween(asOf, reviewBy) < 0);
+  const withinCadence = Boolean(
+    lastTended && daysBetween(asOf, lastTended) <= cadenceDays,
+  );
+  if (
+    scenarioTagged &&
+    actionableReasons.length === 1 &&
+    actionableReasons[0] === "low_confidence" &&
+    reviewIsFuture &&
+    withinCadence
+  ) {
+    return null;
+  }
+
   const daysSinceTended = lastTended ? daysBetween(asOf, lastTended) : null;
   const daysOverdue = reviewBy ? Math.max(0, daysBetween(asOf, reviewBy)) : null;
   const suggestedBase = asOf;

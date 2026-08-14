@@ -13,7 +13,7 @@ Assess how useful FinWiki's machine-readable surfaces are for agents and define 
 | `llms.txt` | Compact AI-readable entry point. | Good as a map, but not enough for structured retrieval decisions. |
 | `llms-full.txt` | Full manifest with links and page summaries. | Large and navigable, but agents still need to parse text for identity and relationship data. |
 | `ai-index.json` | Structured corpus index. | Best home for entity-level routing, but #29 entity graph is still design-stage. |
-| `api/entries/*.json` | Static per-entry JSON artifacts. | Curated subset; historically omits fields such as `canonical_anchor`, `related`, `note`, and `type`. |
+| `api/entries/*.json` | Static per-entry JSON artifacts. | Phase 1 fields are live: `frontmatter.canonical_anchor` is a string or `null`, with `related`, `note`, and `type` in the same block. |
 | `api/entries/index.json` | Entry inventory. | Useful for route enumeration but not for graph traversal. |
 
 Current scale reference: release checks report about 1,476 API entries. A field-shape change affects the whole static API set and must be treated as generated-surface work.
