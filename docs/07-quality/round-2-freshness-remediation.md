@@ -2,6 +2,16 @@
 
 > Planning artifact for GitHub Issue #72. This branch is read-only with respect to the corpus: it only creates this remediation plan and does not edit source entries, i18n mirrors, generated surfaces, or release metadata.
 
+## Scenario-assumption exemption (Issue #278)
+
+`low_confidence` alone does **not** emit a freshness row when all of the following are true:
+
+- the page is tagged `scenario-assumption`;
+- `review_by` is still in the future relative to `--as-of`;
+- `last_tended` is within the inferred class cadence.
+
+Overdue, cadence-due, empty-source, candidate, and borderline pages still emit rows. The tag is an explicit editorial marker for FinWiki scenario / assumption pages (for example `fintech/three-circles-mra-2030-economic-scale.md`), not a general mute switch.
+
 ## Scope
 
 - Source command: `bun tools/fact_freshness_audit.ts --json --as-of 2026-06-23`.

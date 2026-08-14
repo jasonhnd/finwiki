@@ -35,7 +35,7 @@
       "smfg-subsidiary"
     ],
     "status": "active",
-    "canonical_anchor": null,
+    "canonical_anchor": "megabanks/sumitomo-mitsui-banking-corp",
     "related": [],
     "note": null,
     "sources": [
@@ -47,7 +47,7 @@
       "SMBC「主要子会社・関連会社」: https://www.smbc.co.jp/aboutus/profile/group.html"
     ]
   },
-  "summary": "This entry sits under megabanks INDEX. Read it against SMFG (親会社), MUFG 銀行, みずほ銀行 for peer / contrast (3 大メガバンク), and 金融庁 / 日本銀行 for the broader regulatory boundary.",
+  "summary": "This entry sits under megabanks INDEX. It is the same legal bank as Sumitomo Mitsui Banking Corporation. Read it against SMFG (親会社), MUFG 銀行, みずほ銀行 for peer / contrast (3 大メガバンク), and 金融庁 / 日本銀行 for the broader regulatory boundary.",
   "headings": [
     "株式会社三井住友銀行 (SMBC)",
     "Wiki route",
@@ -61,7 +61,7 @@
     "4. 競争上の位置付け"
   ],
   "body_links": {
-    "wikilinks_count": 16,
+    "wikilinks_count": 17,
     "wikilinks": [
       "banking/INDEX",
       "card-issuers/jcb",
@@ -76,6 +76,7 @@
       "megabanks/mufg",
       "megabanks/mufg-bank",
       "megabanks/smfg",
+      "megabanks/sumitomo-mitsui-banking-corp",
       "regional-banks/japan-post-bank",
       "securities-firms/smbc-nikko",
       "trust-banks/smbc-trust-bank"
@@ -94,6 +95,7 @@
       "https://finwiki.zksc.io/ja/megabanks/mufg/",
       "https://finwiki.zksc.io/ja/megabanks/mufg-bank/",
       "https://finwiki.zksc.io/ja/megabanks/smfg/",
+      "https://finwiki.zksc.io/ja/megabanks/sumitomo-mitsui-banking-corp/",
       "https://finwiki.zksc.io/ja/regional-banks/japan-post-bank/",
       "https://finwiki.zksc.io/ja/securities-firms/smbc-nikko/",
       "https://finwiki.zksc.io/ja/trust-banks/smbc-trust-bank/"
@@ -102,9 +104,9 @@
     "external_links": []
   },
   "metrics": {
-    "nonspace_chars": 5609,
-    "word_like_tokens": 929,
+    "nonspace_chars": 5832,
+    "word_like_tokens": 963,
     "inbound_wikilinks_count": 7,
-    "last_modified": "2026-07-29"
+    "last_modified": "2026-08-14"
   }
 }
