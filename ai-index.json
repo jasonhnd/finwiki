@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-08-14T19:28:26+09:00",
+  "generated_at": "2026-08-15T01:08:08+09:00",
   "counts": {
     "markdown_files": 1613,
     "public_markdown_pages": 1612,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1489,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 11190776,
-    "word_like_tokens": 1804528,
+    "nonspace_utf8_chars": 11192607,
+    "word_like_tokens": 1804871,
     "entity_anchors": 13,
     "entity_mirror_pages": 13,
     "entity_nodes": 93,
@@ -2867,11 +2867,11 @@
         "日本語",
         "English",
         "中文",
-        "2026-08-14 - Compact human-site read surface (#287)",
+        "2026-08-15 - Entity deepening batch 02 spec (#292)",
         "日本語",
         "English",
         "中文",
-        "2026-08-14 - Horizon follow-ups (#278–#281, #286)"
+        "2026-08-14 - Compact human-site read surface (#287)"
       ],
       "wikilinks": [],
       "resolved_wikilinks": [],
@@ -2880,9 +2880,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 288593,
-      "word_like_tokens": 53093,
-      "last_modified": "2026-08-14"
+      "nonspace_chars": 290424,
+      "word_like_tokens": 53436,
+      "last_modified": "2026-08-15"
     },
     {
       "source_path": "HOW-TO-NAVIGATE.md",
@@ -3442,7 +3442,7 @@
       "entity_edges": [],
       "nonspace_chars": 28387,
       "word_like_tokens": 4750,
-      "last_modified": "2026-08-14"
+      "last_modified": "2026-08-15"
     },
     {
       "source_path": "SCHEMA.md",
