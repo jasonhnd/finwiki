@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-08-15T01:16:32+09:00",
+  "generated_at": "2026-08-15T01:17:08+09:00",
   "counts": {
     "markdown_files": 1614,
     "public_markdown_pages": 1613,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1489,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 11197509,
-    "word_like_tokens": 1805768,
+    "nonspace_utf8_chars": 11197311,
+    "word_like_tokens": 1805729,
     "entity_anchors": 13,
     "entity_mirror_pages": 13,
     "entity_nodes": 97,
@@ -10552,7 +10552,7 @@
       "entity_edges": [],
       "nonspace_chars": 10222,
       "word_like_tokens": 1699,
-      "last_modified": "2026-07-29"
+      "last_modified": "2026-08-15"
     },
     {
       "source_path": "banking/trust-bank-custody-operating-comparison.md",
@@ -57193,7 +57193,7 @@
       ],
       "nonspace_chars": 2821,
       "word_like_tokens": 457,
-      "last_modified": "2026-07-30"
+      "last_modified": "2026-08-15"
     },
     {
       "source_path": "life-insurers/sumitomo-life.md",
@@ -81803,7 +81803,7 @@
       ],
       "nonspace_chars": 14670,
       "word_like_tokens": 2450,
-      "last_modified": "2026-07-30"
+      "last_modified": "2026-08-15"
     },
     {
       "source_path": "regional-banks/jimoto-hd.md",
@@ -85184,7 +85184,7 @@
       ],
       "nonspace_chars": 3101,
       "word_like_tokens": 494,
-      "last_modified": "2026-07-30"
+      "last_modified": "2026-08-15"
     },
     {
       "source_path": "regional-banks/ssjbank.md",
@@ -86468,7 +86468,7 @@
       ],
       "nonspace_chars": 4998,
       "word_like_tokens": 804,
-      "last_modified": "2026-07-30"
+      "last_modified": "2026-08-15"
     },
     {
       "source_path": "releases/README.md",
@@ -86509,7 +86509,7 @@
       "entity_edges": [],
       "nonspace_chars": 12760,
       "word_like_tokens": 2447,
-      "last_modified": "2026-08-14"
+      "last_modified": "2026-08-15"
     },
     {
       "source_path": "releases/v2026.05.20-2.md",
@@ -107078,9 +107078,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3572,
-      "word_like_tokens": 665,
-      "last_modified": "2026-08-14"
+      "nonspace_chars": 3374,
+      "word_like_tokens": 626,
+      "last_modified": "2026-08-15"
     }
   ]
 }
