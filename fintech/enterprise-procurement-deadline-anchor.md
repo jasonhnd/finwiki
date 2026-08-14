@@ -5,9 +5,9 @@ domain: fintech
 kind: framework
 topic: enterprise-procurement-deadline-anchor
 created: 2026-05-16
-last_updated: 2026-07-30
-last_tended: 2026-07-30
-review_by: 2026-08-08
+last_updated: 2026-08-14
+last_tended: 2026-08-14
+review_by: 2026-09-28
 confidence: likely
 tags: [fintech, enterprise-sales, B2B, timing-analysis, stablecoin]
 status: active

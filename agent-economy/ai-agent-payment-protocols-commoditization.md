@@ -3,9 +3,9 @@ title: Agent 決済プロトコル commoditization と価値の上方移動 · S
 aliases: [agent-payment-commoditization, agent payment value capture, Stripe 5層 Privy デュアルデフォルト]
 domain: agent-economy
 created: 2026-05-18
-last_updated: 2026-05-26
-last_tended: 2026-06-24
-review_by: 2026-08-08
+last_updated: 2026-08-14
+last_tended: 2026-08-14
+review_by: 2027-08-14
 confidence: likely
 tags: [agent-economy, ai-agent, payments, commoditization, stripe, privy, value-capture]
 sources:

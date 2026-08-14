@@ -7,9 +7,9 @@ aliases:
   - cross-chain protocol comparison
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-07-30
-last_tended: 2026-07-30
-review_by: 2026-08-08
+last_updated: 2026-08-14
+last_tended: 2026-08-14
+review_by: 2026-11-12
 confidence: likely
 tags: [fintech, blockchain, cross-chain, ibc, cosmos, hyperlane, ccip, layerzero, td]
 status: active

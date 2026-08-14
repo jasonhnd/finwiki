@@ -3,9 +3,9 @@ title: Coinbase CDP · 開発者プラットフォーム · AI agent on-chain �
 aliases: [coinbase-cdp-developer-platform, Coinbase Developer Platform, CDP, embedded wallet, AgentKit]
 domain: agent-economy
 created: 2026-05-18
-last_updated: 2026-05-26
-last_tended: 2026-06-24
-review_by: 2026-08-08
+last_updated: 2026-08-14
+last_tended: 2026-08-14
+review_by: 2026-11-12
 confidence: certain
 tags: [agent-economy, coinbase, cdp, embedded-wallet, agentcore, agentkit, base, usdc]
 sources:

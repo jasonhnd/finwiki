@@ -6,9 +6,9 @@ aliases:
   - 国内 VASP 行政処分史
 domain: exchanges
 created: 2026-05-19
-last_updated: 2026-05-19
-last_tended: 2026-06-24
-review_by: 2026-08-08
+last_updated: 2026-08-14
+last_tended: 2026-08-14
+review_by: 2026-09-28
 confidence: likely
 tags:
   - exchanges
@@ -19,6 +19,9 @@ tags:
   - business-improvement-order
 sources:
   - https://www.fsa.go.jp/
+  - https://www.fsa.go.jp/news/index.html
+  - https://www.fsa.go.jp/policy/virtual_currency.html
+  - https://www.fsa.go.jp/ordinary/kaiji.html
 status: active
 ---
 

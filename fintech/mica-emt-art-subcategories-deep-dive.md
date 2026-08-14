@@ -3,9 +3,9 @@ title: MiCA EMT vs ART サブ分類の深掘り · 規制負担によるプロ�
 aliases: [mica-emt-art, MiCA EMT vs ART, Significant EMT, MiCA reserve composition]
 domain: fintech
 created: 2026-05-18
-last_updated: 2026-05-26
-last_tended: 2026-06-24
-review_by: 2026-08-08
+last_updated: 2026-08-14
+last_tended: 2026-08-14
+review_by: 2027-02-10
 confidence: certain
 tags: [fintech, law, regulation, eu, mica, emt, art, stablecoin]
 sources:

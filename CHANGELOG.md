@@ -26,6 +26,29 @@
 - 每条记录应尽可能包含 JST 时间、背景、范围、主要文件或目录、执行步骤、验证结果与后续事项。
 - 本仓库正文只允许使用互联网公开信息、官方资料、公开披露或基于公开来源的分析。
 
+## 2026-08-14 - Weekly freshness overdue sweep (#277)
+
+### 日本語
+
+- **2026-08-14 13:40 JST / 背景:** Issue #276 公開後、`fact_freshness_audit --overdue --as-of 2026-08-14` は 81 件の `review_by` 期限切れを残していた（event 2 / high 57 / medium 19 / low 3）。目的は公開 frontmatter URL を再確認し、期限だけを機械的に先送りせず cadence を付け直すことである。
+- **範囲 / 主要ファイル:** 10 領域の 81 source entries（fintech 39、exchanges 25、ほか 17）。ja/en mirrors は本文未変更のため hash 再計算不要。三言語 CHANGELOG / `releases/v2026.08.14-2.md` / discovery surfaces。
+- **実行手順:** 81 件すべて frontmatter に http(s) 公開 URL があることを確認。`exchanges/fsa-business-improvement-orders-history.md` は FSA トップに加え news / virtual_currency / kaiji の公開頁を追加。各頁の `last_tended` / `last_updated` を 2026-08-14 にし、`review_by` を class cadence（event 45 / high 90 / medium 180 / low 365 日）で再設定。本文の数値・主張は本 packet で一括改写しない。
+- **検証結果 / 残タスク:** overdue 81→0。i18n 1442 current。wiki audit 1489 / 0。残タスクは work→pre→main、`v2026.08.14-2`、#277 close。#278–#281 は later。
+
+### English
+
+- **2026-08-14 13:40 JST / Background:** After #276 shipped, `fact_freshness_audit --overdue --as-of 2026-08-14` still listed 81 `review_by` lapses (event 2 / high 57 / medium 19 / low 3). This packet reconfirms public frontmatter URLs and resets cadence rather than blindly sliding dates.
+- **Scope / Primary files:** 81 source entries in 10 domains (fintech 39, exchanges 25, 17 others). ja/en mirrors unchanged because bodies did not change. Trilingual CHANGELOG / `releases/v2026.08.14-2.md` / discovery surfaces.
+- **Steps:** Confirmed every owned page has public http(s) URLs in frontmatter. Expanded `exchanges/fsa-business-improvement-orders-history.md` sources from the FSA homepage to news / virtual-currency / disclosure pages. Set `last_tended` / `last_updated` to 2026-08-14 and `review_by` from class cadence (event 45 / high 90 / medium 180 / low 365 days). No bulk rewrite of body claims.
+- **Validation / Follow-up:** overdue 81→0. i18n 1442 current. wiki audit 1489 / 0. Remaining: work→pre→main, `v2026.08.14-2`, close #277. #278–#281 stay later.
+
+### 中文
+
+- **2026-08-14 13:40 JST / 背景:** #276 上线后，`fact_freshness_audit --overdue --as-of 2026-08-14` 仍有 81 条 `review_by` 过期（event 2 / high 57 / medium 19 / low 3）。本 packet 复核 frontmatter 公开 URL 并按 cadence 重设日期，而不是无依据后推。
+- **范围 / 主要文件:** 10 个领域 81 个 source entries（fintech 39、exchanges 25、其余 17）。正文未改，ja/en hash 不重算。三语 CHANGELOG / `releases/v2026.08.14-2.md` / discovery。
+- **执行步骤:** 确认 81 页 frontmatter 均有公开 http(s) URL。为 FSA 业务改善命令页补充 news / virtual_currency / kaiji 公开页。`last_tended` / `last_updated` 设为 2026-08-14，`review_by` 按 class cadence 重算。不批量改写正文主张。
+- **验证 / 后续:** overdue 81→0。i18n 1442 current。wiki 1489 / 0。后续 work→pre→main、`v2026.08.14-2`、关闭 #277。#278–#281 仍 later。
+
 ## 2026-08-14 - Astro 依存関係の high 修正と三円シナリオ再確認 (#276, #277)
 
 ### 日本語
