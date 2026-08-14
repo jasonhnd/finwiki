@@ -6,6 +6,8 @@ The truthfulness audit loop turns the existing read-only runner into a recurring
 
 The workflow is advisory. A tripped threshold should start human triage, but it must not become a hard release gate until calibration work explicitly changes that policy.
 
+Fact-freshness JSON omits a page whose only remaining actionable reason is `low_confidence` when the page is tagged `scenario-assumption`, `review_by` is still in the future, and `last_tended` is within cadence. Use that tag only on explicit scenario / assumption entries. Overdue or empty-source pages are never exempt.
+
 ## Local Command
 
 Run the same command locally when checking the workflow core path or preparing a remediation packet:
