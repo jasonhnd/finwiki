@@ -1,22 +1,22 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-08-15T19:44:48+09:00",
+  "generated_at": "2026-08-16T00:20:50+09:00",
   "counts": {
-    "markdown_files": 1614,
-    "public_markdown_pages": 1613,
+    "markdown_files": 1615,
+    "public_markdown_pages": 1614,
     "site_urls_in_sitemap": 1482,
     "topical_domains": 40,
     "link_audited_entries": 1489,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 11198786,
-    "word_like_tokens": 1806002,
+    "nonspace_utf8_chars": 11203776,
+    "word_like_tokens": 1806866,
     "entity_anchors": 13,
     "entity_mirror_pages": 13,
-    "entity_nodes": 97,
-    "entity_edges": 90,
-    "entity_edges_declared": 45,
-    "entity_edges_derived": 45,
+    "entity_nodes": 103,
+    "entity_edges": 108,
+    "entity_edges_declared": 54,
+    "entity_edges_derived": 54,
     "entity_edges_unresolved_targets": 0
   },
   "navigation": {
@@ -1717,6 +1717,60 @@
       "status": "anchor",
       "domain": "securities-firms",
       "mirrors": []
+    },
+    {
+      "anchor": "trust-banks/mitsubishi-ufj-trust-bank",
+      "url": "https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "trust-banks",
+      "mirrors": []
+    },
+    {
+      "anchor": "trust-banks/mizuho-trust-bank",
+      "url": "https://finwiki.zksc.io/ja/trust-banks/mizuho-trust-bank/",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "trust-banks",
+      "mirrors": []
+    },
+    {
+      "anchor": "trust-banks/nochu-trust-bank",
+      "url": "https://finwiki.zksc.io/ja/trust-banks/nochu-trust-bank/",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "trust-banks",
+      "mirrors": []
+    },
+    {
+      "anchor": "trust-banks/nomura-trust-bank",
+      "url": "https://finwiki.zksc.io/ja/trust-banks/nomura-trust-bank/",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "trust-banks",
+      "mirrors": []
+    },
+    {
+      "anchor": "trust-banks/smbc-trust-bank",
+      "url": "https://finwiki.zksc.io/ja/trust-banks/smbc-trust-bank/",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "trust-banks",
+      "mirrors": []
+    },
+    {
+      "anchor": "trust-banks/smtb",
+      "url": "https://finwiki.zksc.io/ja/trust-banks/smtb/",
+      "kind": "operating_company",
+      "scope": "japan_core",
+      "status": "anchor",
+      "domain": "trust-banks",
+      "mirrors": []
     }
   ],
   "entity_edges": [
@@ -1775,6 +1829,21 @@
       "as_of": "2026-06-22",
       "confidence": "likely",
       "derived": false
+    },
+    {
+      "source": "cooperative-banks/norinchukin",
+      "source_url": "https://finwiki.zksc.io/ja/cooperative-banks/norinchukin/",
+      "relation": "parent_of",
+      "target": "trust-banks/nochu-trust-bank",
+      "target_url": "https://finwiki.zksc.io/ja/trust-banks/nochu-trust-bank/",
+      "target_resolves": true,
+      "declared_in": "trust-banks/nochu-trust-bank.md",
+      "evidence": "official_profile",
+      "source_ref": "https://www.nochutb.co.jp/about/summary.html",
+      "as_of": "2026-08-16",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "trust-banks/nochu-trust-bank::subsidiary_of::cooperative-banks/norinchukin"
     },
     {
       "source": "financial-regulators/fsa",
@@ -2060,6 +2129,96 @@
       "confidence": "likely",
       "derived": true,
       "inverse_of": "securities-firms/sbi-securities::regulated_by::financial-regulators/fsa"
+    },
+    {
+      "source": "financial-regulators/fsa",
+      "source_url": "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "relation": "regulates",
+      "target": "trust-banks/mitsubishi-ufj-trust-bank",
+      "target_url": "https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/",
+      "target_resolves": true,
+      "declared_in": "trust-banks/mitsubishi-ufj-trust-bank.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf",
+      "as_of": "2026-08-16",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "trust-banks/mitsubishi-ufj-trust-bank::regulated_by::financial-regulators/fsa"
+    },
+    {
+      "source": "financial-regulators/fsa",
+      "source_url": "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "relation": "regulates",
+      "target": "trust-banks/mizuho-trust-bank",
+      "target_url": "https://finwiki.zksc.io/ja/trust-banks/mizuho-trust-bank/",
+      "target_resolves": true,
+      "declared_in": "trust-banks/mizuho-trust-bank.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf",
+      "as_of": "2026-08-16",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "trust-banks/mizuho-trust-bank::regulated_by::financial-regulators/fsa"
+    },
+    {
+      "source": "financial-regulators/fsa",
+      "source_url": "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "relation": "regulates",
+      "target": "trust-banks/nochu-trust-bank",
+      "target_url": "https://finwiki.zksc.io/ja/trust-banks/nochu-trust-bank/",
+      "target_resolves": true,
+      "declared_in": "trust-banks/nochu-trust-bank.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf",
+      "as_of": "2026-08-16",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "trust-banks/nochu-trust-bank::regulated_by::financial-regulators/fsa"
+    },
+    {
+      "source": "financial-regulators/fsa",
+      "source_url": "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "relation": "regulates",
+      "target": "trust-banks/nomura-trust-bank",
+      "target_url": "https://finwiki.zksc.io/ja/trust-banks/nomura-trust-bank/",
+      "target_resolves": true,
+      "declared_in": "trust-banks/nomura-trust-bank.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf",
+      "as_of": "2026-08-16",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "trust-banks/nomura-trust-bank::regulated_by::financial-regulators/fsa"
+    },
+    {
+      "source": "financial-regulators/fsa",
+      "source_url": "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "relation": "regulates",
+      "target": "trust-banks/smbc-trust-bank",
+      "target_url": "https://finwiki.zksc.io/ja/trust-banks/smbc-trust-bank/",
+      "target_resolves": true,
+      "declared_in": "trust-banks/smbc-trust-bank.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf",
+      "as_of": "2026-08-16",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "trust-banks/smbc-trust-bank::regulated_by::financial-regulators/fsa"
+    },
+    {
+      "source": "financial-regulators/fsa",
+      "source_url": "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "relation": "regulates",
+      "target": "trust-banks/smtb",
+      "target_url": "https://finwiki.zksc.io/ja/trust-banks/smtb/",
+      "target_resolves": true,
+      "declared_in": "trust-banks/smtb.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf",
+      "as_of": "2026-08-16",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "trust-banks/smtb::regulated_by::financial-regulators/fsa"
     },
     {
       "source": "financial-regulators/jsda",
@@ -2575,6 +2734,21 @@
     {
       "source": "megabanks/sumitomo-mitsui-banking-corp",
       "source_url": "https://finwiki.zksc.io/ja/megabanks/sumitomo-mitsui-banking-corp/",
+      "relation": "parent_of",
+      "target": "trust-banks/smbc-trust-bank",
+      "target_url": "https://finwiki.zksc.io/ja/trust-banks/smbc-trust-bank/",
+      "target_resolves": true,
+      "declared_in": "trust-banks/smbc-trust-bank.md",
+      "evidence": "official_profile",
+      "source_ref": "https://www.smbctb.co.jp/aboutus/information/",
+      "as_of": "2026-08-16",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "trust-banks/smbc-trust-bank::subsidiary_of::megabanks/sumitomo-mitsui-banking-corp"
+    },
+    {
+      "source": "megabanks/sumitomo-mitsui-banking-corp",
+      "source_url": "https://finwiki.zksc.io/ja/megabanks/sumitomo-mitsui-banking-corp/",
       "relation": "regulated_by",
       "target": "financial-regulators/fsa",
       "target_url": "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
@@ -2984,6 +3158,21 @@
       "inverse_of": "asset-managers/nomura-asset-management::subsidiary_of::securities-firms/nomura-hd"
     },
     {
+      "source": "securities-firms/nomura-hd",
+      "source_url": "https://finwiki.zksc.io/ja/securities-firms/nomura-hd/",
+      "relation": "parent_of",
+      "target": "trust-banks/nomura-trust-bank",
+      "target_url": "https://finwiki.zksc.io/ja/trust-banks/nomura-trust-bank/",
+      "target_resolves": true,
+      "declared_in": "trust-banks/nomura-trust-bank.md",
+      "evidence": "official_profile",
+      "source_ref": "https://www.nomura-trust.co.jp/company/corp.html",
+      "as_of": "2026-08-16",
+      "confidence": "likely",
+      "derived": true,
+      "inverse_of": "trust-banks/nomura-trust-bank::subsidiary_of::securities-firms/nomura-hd"
+    },
+    {
       "source": "securities-firms/sbi-securities",
       "source_url": "https://finwiki.zksc.io/ja/securities-firms/sbi-securities/",
       "relation": "member_of_sro",
@@ -3024,15 +3213,141 @@
       "as_of": "2026-06-22",
       "confidence": "likely",
       "derived": false
+    },
+    {
+      "source": "trust-banks/mitsubishi-ufj-trust-bank",
+      "source_url": "https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/",
+      "relation": "regulated_by",
+      "target": "financial-regulators/fsa",
+      "target_url": "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "target_resolves": true,
+      "declared_in": "trust-banks/mitsubishi-ufj-trust-bank.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf",
+      "as_of": "2026-08-16",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "trust-banks/mizuho-trust-bank",
+      "source_url": "https://finwiki.zksc.io/ja/trust-banks/mizuho-trust-bank/",
+      "relation": "regulated_by",
+      "target": "financial-regulators/fsa",
+      "target_url": "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "target_resolves": true,
+      "declared_in": "trust-banks/mizuho-trust-bank.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf",
+      "as_of": "2026-08-16",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "trust-banks/nochu-trust-bank",
+      "source_url": "https://finwiki.zksc.io/ja/trust-banks/nochu-trust-bank/",
+      "relation": "regulated_by",
+      "target": "financial-regulators/fsa",
+      "target_url": "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "target_resolves": true,
+      "declared_in": "trust-banks/nochu-trust-bank.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf",
+      "as_of": "2026-08-16",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "trust-banks/nochu-trust-bank",
+      "source_url": "https://finwiki.zksc.io/ja/trust-banks/nochu-trust-bank/",
+      "relation": "subsidiary_of",
+      "target": "cooperative-banks/norinchukin",
+      "target_url": "https://finwiki.zksc.io/ja/cooperative-banks/norinchukin/",
+      "target_resolves": true,
+      "declared_in": "trust-banks/nochu-trust-bank.md",
+      "evidence": "official_profile",
+      "source_ref": "https://www.nochutb.co.jp/about/summary.html",
+      "as_of": "2026-08-16",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "trust-banks/nomura-trust-bank",
+      "source_url": "https://finwiki.zksc.io/ja/trust-banks/nomura-trust-bank/",
+      "relation": "regulated_by",
+      "target": "financial-regulators/fsa",
+      "target_url": "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "target_resolves": true,
+      "declared_in": "trust-banks/nomura-trust-bank.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf",
+      "as_of": "2026-08-16",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "trust-banks/nomura-trust-bank",
+      "source_url": "https://finwiki.zksc.io/ja/trust-banks/nomura-trust-bank/",
+      "relation": "subsidiary_of",
+      "target": "securities-firms/nomura-hd",
+      "target_url": "https://finwiki.zksc.io/ja/securities-firms/nomura-hd/",
+      "target_resolves": true,
+      "declared_in": "trust-banks/nomura-trust-bank.md",
+      "evidence": "official_profile",
+      "source_ref": "https://www.nomura-trust.co.jp/company/corp.html",
+      "as_of": "2026-08-16",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "trust-banks/smbc-trust-bank",
+      "source_url": "https://finwiki.zksc.io/ja/trust-banks/smbc-trust-bank/",
+      "relation": "regulated_by",
+      "target": "financial-regulators/fsa",
+      "target_url": "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "target_resolves": true,
+      "declared_in": "trust-banks/smbc-trust-bank.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf",
+      "as_of": "2026-08-16",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "trust-banks/smbc-trust-bank",
+      "source_url": "https://finwiki.zksc.io/ja/trust-banks/smbc-trust-bank/",
+      "relation": "subsidiary_of",
+      "target": "megabanks/sumitomo-mitsui-banking-corp",
+      "target_url": "https://finwiki.zksc.io/ja/megabanks/sumitomo-mitsui-banking-corp/",
+      "target_resolves": true,
+      "declared_in": "trust-banks/smbc-trust-bank.md",
+      "evidence": "official_profile",
+      "source_ref": "https://www.smbctb.co.jp/aboutus/information/",
+      "as_of": "2026-08-16",
+      "confidence": "likely",
+      "derived": false
+    },
+    {
+      "source": "trust-banks/smtb",
+      "source_url": "https://finwiki.zksc.io/ja/trust-banks/smtb/",
+      "relation": "regulated_by",
+      "target": "financial-regulators/fsa",
+      "target_url": "https://finwiki.zksc.io/ja/financial-regulators/fsa/",
+      "target_resolves": true,
+      "declared_in": "trust-banks/smtb.md",
+      "evidence": "official_registry",
+      "source_ref": "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf",
+      "as_of": "2026-08-16",
+      "confidence": "likely",
+      "derived": false
     }
   ],
   "entity_relation_counts": {
     "has_sro_member": 8,
     "member_of_sro": 8,
-    "parent_of": 18,
-    "regulated_by": 19,
-    "regulates": 19,
-    "subsidiary_of": 18
+    "parent_of": 21,
+    "regulated_by": 25,
+    "regulates": 25,
+    "subsidiary_of": 21
   },
   "entries": [
     {
@@ -3081,11 +3396,11 @@
         "日本語",
         "English",
         "中文",
-        "2026-08-15 - Entity deepening batch 03 spec (#296)",
+        "2026-08-16 - Entity deepening batch 03 (#296)",
         "日本語",
         "English",
         "中文",
-        "2026-08-15 - Entity deepening batch 02 (#292)"
+        "2026-08-15 - Entity deepening batch 03 spec (#296)"
       ],
       "wikilinks": [],
       "resolved_wikilinks": [],
@@ -3094,9 +3409,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 293431,
-      "word_like_tokens": 53999,
-      "last_modified": "2026-08-15"
+      "nonspace_chars": 294943,
+      "word_like_tokens": 54275,
+      "last_modified": "2026-08-16"
     },
     {
       "source_path": "HOW-TO-NAVIGATE.md",
@@ -3656,7 +3971,7 @@
       "entity_edges": [],
       "nonspace_chars": 28387,
       "word_like_tokens": 4750,
-      "last_modified": "2026-08-15"
+      "last_modified": "2026-08-16"
     },
     {
       "source_path": "SCHEMA.md",
@@ -86503,13 +86818,14 @@
         "./v2026.08.14-4.md",
         "./v2026.08.14.md",
         "./v2026.08.15.md",
+        "./v2026.08.16.md",
         "https://github.com/jasonhnd/finwiki/blob/528c39e81be2faf3e7d17c1197da9a5569985e51/CHANGELOG.md"
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 12760,
-      "word_like_tokens": 2447,
-      "last_modified": "2026-08-15"
+      "nonspace_chars": 12821,
+      "word_like_tokens": 2459,
+      "last_modified": "2026-08-16"
     },
     {
       "source_path": "releases/v2026.05.20-2.md",
@@ -90484,6 +90800,39 @@
       "nonspace_chars": 1780,
       "word_like_tokens": 341,
       "last_modified": "2026-08-15"
+    },
+    {
+      "source_path": "releases/v2026.08.16.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.08.16.md",
+      "html_url": null,
+      "alternate_html_urls": null,
+      "raw_markdown_url": "https://finwiki.zksc.io/releases/v2026.08.16.md",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.08.16.md",
+      "title": "実体ノード第三批",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "canonical_anchor": "",
+      "summary": "",
+      "headings": [
+        "実体ノード第三批",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "entity_node": null,
+      "entity_edges": [],
+      "nonspace_chars": 1456,
+      "word_like_tokens": 261,
+      "last_modified": "2026-08-16"
     },
     {
       "source_path": "retail/INDEX.md",
@@ -105814,11 +106163,24 @@
         "https://finwiki.zksc.io/ja/trust-banks/smtb/"
       ],
       "markdown_links": [],
-      "entity_node": null,
-      "entity_edges": [],
-      "nonspace_chars": 2728,
-      "word_like_tokens": 412,
-      "last_modified": "2026-07-29"
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
+      "entity_edges": [
+        {
+          "relation": "regulated_by",
+          "target": "financial-regulators/fsa",
+          "evidence": "official_registry",
+          "source": "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf",
+          "as_of": "2026-08-16",
+          "confidence": "likely"
+        }
+      ],
+      "nonspace_chars": 2969,
+      "word_like_tokens": 451,
+      "last_modified": "2026-08-16"
     },
     {
       "source_path": "trust-banks/miyoshi-smile-trust.md",
@@ -105980,11 +106342,24 @@
         "https://finwiki.zksc.io/ja/trust-banks/smtb/"
       ],
       "markdown_links": [],
-      "entity_node": null,
-      "entity_edges": [],
-      "nonspace_chars": 2684,
-      "word_like_tokens": 385,
-      "last_modified": "2026-07-29"
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
+      "entity_edges": [
+        {
+          "relation": "regulated_by",
+          "target": "financial-regulators/fsa",
+          "evidence": "official_registry",
+          "source": "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf",
+          "as_of": "2026-08-16",
+          "confidence": "likely"
+        }
+      ],
+      "nonspace_chars": 2925,
+      "word_like_tokens": 424,
+      "last_modified": "2026-08-16"
     },
     {
       "source_path": "trust-banks/nichizei-trust.md",
@@ -106084,11 +106459,32 @@
         "https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/"
       ],
       "markdown_links": [],
-      "entity_node": null,
-      "entity_edges": [],
-      "nonspace_chars": 2598,
-      "word_like_tokens": 367,
-      "last_modified": "2026-07-29"
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
+      "entity_edges": [
+        {
+          "relation": "regulated_by",
+          "target": "financial-regulators/fsa",
+          "evidence": "official_registry",
+          "source": "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf",
+          "as_of": "2026-08-16",
+          "confidence": "likely"
+        },
+        {
+          "relation": "subsidiary_of",
+          "target": "cooperative-banks/norinchukin",
+          "evidence": "official_profile",
+          "source": "https://www.nochutb.co.jp/about/summary.html",
+          "as_of": "2026-08-16",
+          "confidence": "likely"
+        }
+      ],
+      "nonspace_chars": 3007,
+      "word_like_tokens": 432,
+      "last_modified": "2026-08-16"
     },
     {
       "source_path": "trust-banks/nomura-trust-bank.md",
@@ -106154,11 +106550,32 @@
         "https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/"
       ],
       "markdown_links": [],
-      "entity_node": null,
-      "entity_edges": [],
-      "nonspace_chars": 5387,
-      "word_like_tokens": 880,
-      "last_modified": "2026-07-29"
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
+      "entity_edges": [
+        {
+          "relation": "regulated_by",
+          "target": "financial-regulators/fsa",
+          "evidence": "official_registry",
+          "source": "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf",
+          "as_of": "2026-08-16",
+          "confidence": "likely"
+        },
+        {
+          "relation": "subsidiary_of",
+          "target": "securities-firms/nomura-hd",
+          "evidence": "official_profile",
+          "source": "https://www.nomura-trust.co.jp/company/corp.html",
+          "as_of": "2026-08-16",
+          "confidence": "likely"
+        }
+      ],
+      "nonspace_chars": 5797,
+      "word_like_tokens": 947,
+      "last_modified": "2026-08-16"
     },
     {
       "source_path": "trust-banks/oag-trust.md",
@@ -106599,11 +107016,32 @@
         "https://finwiki.zksc.io/ja/trust-banks/smtb/"
       ],
       "markdown_links": [],
-      "entity_node": null,
-      "entity_edges": [],
-      "nonspace_chars": 2734,
-      "word_like_tokens": 414,
-      "last_modified": "2026-07-29"
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
+      "entity_edges": [
+        {
+          "relation": "regulated_by",
+          "target": "financial-regulators/fsa",
+          "evidence": "official_registry",
+          "source": "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf",
+          "as_of": "2026-08-16",
+          "confidence": "likely"
+        },
+        {
+          "relation": "subsidiary_of",
+          "target": "megabanks/sumitomo-mitsui-banking-corp",
+          "evidence": "official_profile",
+          "source": "https://www.smbctb.co.jp/aboutus/information/",
+          "as_of": "2026-08-16",
+          "confidence": "likely"
+        }
+      ],
+      "nonspace_chars": 3153,
+      "word_like_tokens": 480,
+      "last_modified": "2026-08-16"
     },
     {
       "source_path": "trust-banks/smtb.md",
@@ -106657,11 +107095,24 @@
         "https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/"
       ],
       "markdown_links": [],
-      "entity_node": null,
-      "entity_edges": [],
-      "nonspace_chars": 2833,
-      "word_like_tokens": 428,
-      "last_modified": "2026-07-29"
+      "entity_node": {
+        "kind": "operating_company",
+        "scope": "japan_core",
+        "status": "anchor"
+      },
+      "entity_edges": [
+        {
+          "relation": "regulated_by",
+          "target": "financial-regulators/fsa",
+          "evidence": "official_registry",
+          "source": "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf",
+          "as_of": "2026-08-16",
+          "confidence": "likely"
+        }
+      ],
+      "nonspace_chars": 3074,
+      "word_like_tokens": 467,
+      "last_modified": "2026-08-16"
     },
     {
       "source_path": "trust-banks/starts-trust.md",
@@ -107080,7 +107531,7 @@
       "entity_edges": [],
       "nonspace_chars": 3374,
       "word_like_tokens": 626,
-      "last_modified": "2026-08-15"
+      "last_modified": "2026-08-16"
     }
   ]
 }
