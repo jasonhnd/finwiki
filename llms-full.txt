@@ -1,9 +1,9 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-08-15T01:17:08+09:00
+Generated: 2026-08-16T00:20:50+09:00
 Site: https://finwiki.zksc.io
-Markdown files: 1614
-Public pages listed: 1613
+Markdown files: 1615
+Public pages listed: 1614
 
 ## Reading Rules
 
@@ -30,7 +30,7 @@ Public pages listed: 1613
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/CHANGELOG.md
 - Domain: root
 - Type: control_doc
-- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-08-15 - Entity deepening batch 02 (#292), 日本語, English
+- Headings: CHANGELOG, Maintenance Principles, 日本語, English, 中文, 2026-08-16 - Entity deepening batch 03 (#296), 日本語, English
 
 ### How to navigate FinWiki — reader profile guide
 - URL: https://finwiki.zksc.io/HOW-TO-NAVIGATE.md
@@ -17393,6 +17393,15 @@ Public pages listed: 1613
 - Type: release_note
 - Headings: 実体ノード第二批, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
 
+### 実体ノード第三批
+- URL: https://finwiki.zksc.io/releases/v2026.08.16.md
+- Raw Markdown: https://finwiki.zksc.io/releases/v2026.08.16.md
+- Source path: releases/v2026.08.16.md
+- GitHub source: https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.08.16.md
+- Domain: releases
+- Type: release_note
+- Headings: 実体ノード第三批, 日本語, 公開範囲, 主要変更, 検証結果, 既知の注意点, 次の作業, English
+
 ### retail domain
 - URL: https://finwiki.zksc.io/ja/domains/retail/
 - Japanese HTML: https://finwiki.zksc.io/ja/domains/retail/
@@ -20428,6 +20437,9 @@ Public pages listed: 1613
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/trust-banks/mitsubishi-ufj-trust-bank.md
 - Domain: trust-banks
 - Type: wiki_entry
+- Entity node: kind=operating_company scope=japan_core status=anchor
+- Entity edges:
+  - regulated_by -> financial-regulators/fsa (source: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf, as_of: 2026-08-16, confidence: likely)
 - Summary: This entry sits under trust-banks INDEX (its domain route). Read it against 三井住友信託銀行 (SMTB) and みずほ信託銀行 for peer / contrast (the other megabank-group trust banks), and against the FSA plus banking for the supervisory / system boundary. The commercial-bank sibling in the same group is 三菱UFJ銀行.
 - Headings: 三菱UFJ信託銀行 (MUTB), Wiki route, TL;DR, 1. License / group boundary ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; 三菱UFJ信託銀行「会社概要」: https://www.tr.mufg.jp/ippan/about/index.html], 2. Operating model, 3. Why this page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/financial-regulators/fsa/, https://finwiki.zksc.io/ja/fintech/jp-stablecoin-progmat/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/megabanks/mufg-bank/, https://finwiki.zksc.io/ja/domains/trust-banks/, https://finwiki.zksc.io/ja/trust-banks/custody-bank/, https://finwiki.zksc.io/ja/trust-banks/master-trust-bank/, https://finwiki.zksc.io/ja/trust-banks/mizuho-trust-bank/, https://finwiki.zksc.io/ja/trust-banks/smtb/
@@ -20467,6 +20479,9 @@ Public pages listed: 1613
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/trust-banks/mizuho-trust-bank.md
 - Domain: trust-banks
 - Type: wiki_entry
+- Entity node: kind=operating_company scope=japan_core status=anchor
+- Entity edges:
+  - regulated_by -> financial-regulators/fsa (source: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf, as_of: 2026-08-16, confidence: likely)
 - Summary: This entry sits under trust-banks INDEX (its domain route). Read it against 三菱UFJ信託銀行 (MUTB) and 三井住友信託銀行 (SMTB) for peer / contrast (the other megabank-group trust banks), and against the FSA plus banking for the supervisory / system boundary. The commercial-bank sibling in the same group is みずほ銀行.
 - Headings: みずほ信託銀行 (Mizuho Trust & Banking), Wiki route, TL;DR, 1. License / group boundary ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; みずほ信託銀行「会社概要」: https://www.mizuho-tb.co.jp/company/about/info.html], 2. Operating model, 3. Why this page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/asset-managers/asset-management-one/, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/financial-regulators/fsa/, https://finwiki.zksc.io/ja/megabanks/mizuho-bank/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/, https://finwiki.zksc.io/ja/securities-firms/mizuho-securities/, https://finwiki.zksc.io/ja/domains/trust-banks/, https://finwiki.zksc.io/ja/trust-banks/master-trust-bank/, https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/, https://finwiki.zksc.io/ja/trust-banks/smtb/
@@ -20493,6 +20508,10 @@ Public pages listed: 1613
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/trust-banks/nochu-trust-bank.md
 - Domain: trust-banks
 - Type: wiki_entry
+- Entity node: kind=operating_company scope=japan_core status=anchor
+- Entity edges:
+  - regulated_by -> financial-regulators/fsa (source: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf, as_of: 2026-08-16, confidence: likely)
+  - subsidiary_of -> cooperative-banks/norinchukin (source: https://www.nochutb.co.jp/about/summary.html, as_of: 2026-08-16, confidence: likely)
 - Summary: This entry sits under trust-banks INDEX (its domain route). Read it against 三菱UFJ信託銀行 (MUTB) for megabank-group peer / contrast, and against the FSA plus banking for the supervisory / system boundary. Its parent — the cooperative central bank — is 農林中央金庫.
 - Headings: 農中信託銀行 (Norinchukin Trust & Banking), Wiki route, TL;DR, 1. License / group boundary ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; 農中信託銀行「会社概要」: https://www.nochutb.co.jp/about/summary.html], 2. Operating model, 3. Why this page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/cooperative-banking-japan/, https://finwiki.zksc.io/ja/banking/ja-bank-system-japan/, https://finwiki.zksc.io/ja/banking/jf-marine-bank-system-japan/, https://finwiki.zksc.io/ja/cooperative-banks/norinchukin/, https://finwiki.zksc.io/ja/financial-regulators/fsa/, https://finwiki.zksc.io/ja/domains/trust-banks/, https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/
@@ -20506,6 +20525,10 @@ Public pages listed: 1613
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/trust-banks/nomura-trust-bank.md
 - Domain: trust-banks
 - Type: wiki_entry
+- Entity node: kind=operating_company scope=japan_core status=anchor
+- Entity edges:
+  - regulated_by -> financial-regulators/fsa (source: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf, as_of: 2026-08-16, confidence: likely)
+  - subsidiary_of -> securities-firms/nomura-hd (source: https://www.nomura-trust.co.jp/company/corp.html, as_of: 2026-08-16, confidence: likely)
 - Summary: This entry sits under trust-banks INDEX. Read it with banking index for adjacent context, 野村 HD for parent group context, SMTB / MUTB for peer trust-bank comparison, and 金融ライセンス INDEX for the broader regulatory boundary.
 - Headings: 野村信託銀行 (Nomura Trust Bank), Wiki route, 1. 法人・ライセンス境界 ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; 野村信託銀行「会社概要」（2026-05-13 時点）: https://www.nomura-trust.co.jp/company/corp.html], 2. 親会社 野村 HD 構造, 4. 主要業務 — 証券グループ付随の信託機能, 5. 重要年表 ^[野村信託銀行「会社概要」「仕事を知る」: https://www.nomura-trust.co.jp/company/corp.html; https://www.nomura-trust.co.jp/recruit/graduate/business/], 6. ピア比較 — 法人境界と主力機能 ^[各社公式会社情報: https://www.smtb.jp/corporate/summary/; https://www.tr.mufg.jp/ippan/about/index.html; https://www.mizuho-tb.co.jp/company/about/info.html; https://www.nomura-trust.co.jp/company/business.html; https://www.bank-daiwa.co.jp/about/outline/; https://www.shinseitrust.com/corporate/about.html], 7. 監督・規制
 - First resolved wikilinks: https://finwiki.zksc.io/ja/asset-managers/nomura-asset-management/, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/post-megabank-positioning/, https://finwiki.zksc.io/ja/domains/financial-licenses/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/regional-banks/daiwa-next-bank/, https://finwiki.zksc.io/ja/securities-firms/nomura-hd/, https://finwiki.zksc.io/ja/domains/securities/, https://finwiki.zksc.io/ja/domains/trust-banks/, https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/, https://finwiki.zksc.io/ja/trust-banks/mizuho-trust-bank/
@@ -20610,6 +20633,10 @@ Public pages listed: 1613
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/trust-banks/smbc-trust-bank.md
 - Domain: trust-banks
 - Type: wiki_entry
+- Entity node: kind=operating_company scope=japan_core status=anchor
+- Entity edges:
+  - regulated_by -> financial-regulators/fsa (source: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf, as_of: 2026-08-16, confidence: likely)
+  - subsidiary_of -> megabanks/sumitomo-mitsui-banking-corp (source: https://www.smbctb.co.jp/aboutus/information/, as_of: 2026-08-16, confidence: likely)
 - Summary: This entry sits under trust-banks INDEX (its domain route). Read it against 三菱UFJ信託銀行 (MUTB) for peer / contrast and — critically — against 三井住友信託銀行 (SMTB), a similarly-named but separate-group trust bank. For the supervisory / system boundary see the FSA plus banking. The commercial-bank sibling in
 - Headings: SMBC信託銀行 (SMBC Trust Bank), Wiki route, TL;DR, 1. License / group boundary ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; SMBC信託銀行「会社概要」: https://www.smbctb.co.jp/aboutus/information/], 2. Operating model, 3. Why this page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/banking/foreign-bank-japan-retreat/, https://finwiki.zksc.io/ja/financial-regulators/fsa/, https://finwiki.zksc.io/ja/megabanks/smfg/, https://finwiki.zksc.io/ja/megabanks/sumitomo-mitsui-banking-corp/, https://finwiki.zksc.io/ja/securities-firms/smbc-nikko/, https://finwiki.zksc.io/ja/domains/trust-banks/, https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/, https://finwiki.zksc.io/ja/trust-banks/smtb/
@@ -20623,6 +20650,9 @@ Public pages listed: 1613
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/trust-banks/smtb.md
 - Domain: trust-banks
 - Type: wiki_entry
+- Entity node: kind=operating_company scope=japan_core status=anchor
+- Entity edges:
+  - regulated_by -> financial-regulators/fsa (source: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf, as_of: 2026-08-16, confidence: likely)
 - Summary: This entry sits under trust-banks INDEX (its domain route). Read it against 三菱UFJ信託銀行 (MUTB) and みずほ信託銀行 for peer / contrast, and — critically — against SMBC信託銀行, a similarly-named but separate-group trust bank. For the supervisory / system boundary see the FSA plus banking. Its holding-company pare
 - Headings: 三井住友信託銀行 (SMTB), Wiki route, TL;DR, 1. License / group boundary ^[金融庁「信託兼営金融機関認可一覧」（2026-06-17 時点）: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf; 三井住友信託銀行「会社概要」: https://www.smtb.jp/corporate/summary/], 2. Operating model, 3. Why this page matters, Related, Sources
 - First resolved wikilinks: https://finwiki.zksc.io/INDEX.md, https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/financial-regulators/fsa/, https://finwiki.zksc.io/ja/megabanks/smfg/, https://finwiki.zksc.io/ja/domains/trust-banks/, https://finwiki.zksc.io/ja/trust-banks/custody-bank/, https://finwiki.zksc.io/ja/trust-banks/master-trust-bank/, https://finwiki.zksc.io/ja/trust-banks/mitsubishi-ufj-trust-bank/, https://finwiki.zksc.io/ja/trust-banks/mizuho-trust-bank/, https://finwiki.zksc.io/ja/trust-banks/smbc-trust-bank/, https://finwiki.zksc.io/ja/trust-banks/sumitomo-mitsui-trust/

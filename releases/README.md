@@ -1,5 +1,6 @@
 # リリース状態台帳 / Release State Registry / 发布状态台账
 
+- [v2026.08.16](./v2026.08.16.md) — entity deepening batch 03 (#296)
 - [v2026.08.15](./v2026.08.15.md) — entity deepening batch 02 (#292)
 - [v2026.08.14-4](./v2026.08.14-4.md) — compact human-site read surface (#287)
 - [v2026.08.14-3](./v2026.08.14-3.md) — freshness calibration + entity batch 01 + Horizon specs (#278–#281)
