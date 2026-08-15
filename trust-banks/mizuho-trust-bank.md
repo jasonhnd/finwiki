@@ -14,6 +14,17 @@ review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, bank, trust-bank, mizuho, operating-company]
 status: active
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
+entity_edges:
+  - relation: regulated_by
+    target: financial-regulators/fsa
+    evidence: official_registry
+    source: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf
+    as_of: 2026-08-16
+    confidence: likely
 sources:
   - "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf"
   - "https://www.mizuho-tb.co.jp/company/about/info.html"
