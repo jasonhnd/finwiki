@@ -15,7 +15,7 @@
 | Missing route link | 0 |
 | Missing peer link | 0 |
 | Missing system / regulatory link | 0 |
-| Changed or new entries in current worktree | 0 |
+| Changed or new entries in current worktree | 6 |
 | canonical_anchor declarations checked (informational) | 13 |
 | canonical_anchor drift (informational, non-gating) | 0 |
 
@@ -41,6 +41,12 @@
 
 | Path | State | Body | Issues |
 |---|---:|---:|---|
+| `trust-banks/mitsubishi-ufj-trust-bank.md` | `M` | 16 | ok |
+| `trust-banks/mizuho-trust-bank.md` | `M` | 16 | ok |
+| `trust-banks/nochu-trust-bank.md` | `M` | 12 | ok |
+| `trust-banks/nomura-trust-bank.md` | `M` | 20 | ok |
+| `trust-banks/smbc-trust-bank.md` | `M` | 17 | ok |
+| `trust-banks/smtb.md` | `M` | 17 | ok |
 
 ## Domain Snapshot
 

@@ -9,6 +9,23 @@ review_by: 2026-10-27
 confidence: likely
 tags: [JapanFG, bank, trust-bank, smfg, operating-company]
 status: active
+entity_node:
+  kind: operating_company
+  scope: japan_core
+  status: anchor
+entity_edges:
+  - relation: regulated_by
+    target: financial-regulators/fsa
+    evidence: official_registry
+    source: https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf
+    as_of: 2026-08-16
+    confidence: likely
+  - relation: subsidiary_of
+    target: megabanks/sumitomo-mitsui-banking-corp
+    evidence: official_profile
+    source: https://www.smbctb.co.jp/aboutus/information/
+    as_of: 2026-08-16
+    confidence: likely
 sources:
   - "https://www.fsa.go.jp/menkyo/menkyoj/kenei.pdf"
   - "https://www.smbctb.co.jp/aboutus/information/"
