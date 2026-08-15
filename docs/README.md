@@ -72,6 +72,7 @@
 | [Canonical Entity Graph Design](04-architecture/canonical-entity-graph-design.md) | Issue #29 设计：entity node、typed edge、build packet 和图谱输出边界。 |
 | [Entity Deepening Batch 01](04-architecture/entity-deepening-batch-01.md) | Issues #279 / #286：りそな銀行、埼玉りそな、日本郵政 HD、SMBC mirror 的 frontmatter-only 第一批。 |
 | [Entity Deepening Batch 02](04-architecture/entity-deepening-batch-02.md) | Issue #292：ゆうちょ、Sony Bank / Sony Life 运营公司的 frontmatter-only 第二批。 |
+| [Entity Deepening Batch 03](04-architecture/entity-deepening-batch-03.md) | Issue #296：六家 Japan-core 信托银行运营公司的 frontmatter-only 第三批。 |
 | [Astro 5 to 7 Upgrade Plan](04-architecture/astro-5-to-7-upgrade-plan.md) | Astro 5 到 7 的分阶段升级、兼容性与回退计划。 |
 | [Fact Freshness Source Recheck](04-architecture/fact-freshness-source-recheck.md) | 事实新鲜度与公开来源复核机制。 |
 | [Recurring Audit Cadence](04-architecture/recurring-audit-cadence.md) | 周期性审计的频率、输入、输出与责任边界。 |
