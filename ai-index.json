@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-08-16T00:20:09+09:00",
+  "generated_at": "2026-08-16T00:20:50+09:00",
   "counts": {
     "markdown_files": 1615,
     "public_markdown_pages": 1614,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1489,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 11204044,
-    "word_like_tokens": 1806919,
+    "nonspace_utf8_chars": 11203776,
+    "word_like_tokens": 1806866,
     "entity_anchors": 13,
     "entity_mirror_pages": 13,
     "entity_nodes": 103,
@@ -3411,7 +3411,7 @@
       "entity_edges": [],
       "nonspace_chars": 294943,
       "word_like_tokens": 54275,
-      "last_modified": "2026-08-15"
+      "last_modified": "2026-08-16"
     },
     {
       "source_path": "HOW-TO-NAVIGATE.md",
@@ -3971,7 +3971,7 @@
       "entity_edges": [],
       "nonspace_chars": 28387,
       "word_like_tokens": 4750,
-      "last_modified": "2026-08-15"
+      "last_modified": "2026-08-16"
     },
     {
       "source_path": "SCHEMA.md",
@@ -86825,7 +86825,7 @@
       "entity_edges": [],
       "nonspace_chars": 12821,
       "word_like_tokens": 2459,
-      "last_modified": "2026-08-15"
+      "last_modified": "2026-08-16"
     },
     {
       "source_path": "releases/v2026.05.20-2.md",
@@ -106180,7 +106180,7 @@
       ],
       "nonspace_chars": 2969,
       "word_like_tokens": 451,
-      "last_modified": "2026-07-29"
+      "last_modified": "2026-08-16"
     },
     {
       "source_path": "trust-banks/miyoshi-smile-trust.md",
@@ -106359,7 +106359,7 @@
       ],
       "nonspace_chars": 2925,
       "word_like_tokens": 424,
-      "last_modified": "2026-07-29"
+      "last_modified": "2026-08-16"
     },
     {
       "source_path": "trust-banks/nichizei-trust.md",
@@ -106484,7 +106484,7 @@
       ],
       "nonspace_chars": 3007,
       "word_like_tokens": 432,
-      "last_modified": "2026-07-29"
+      "last_modified": "2026-08-16"
     },
     {
       "source_path": "trust-banks/nomura-trust-bank.md",
@@ -106575,7 +106575,7 @@
       ],
       "nonspace_chars": 5797,
       "word_like_tokens": 947,
-      "last_modified": "2026-07-29"
+      "last_modified": "2026-08-16"
     },
     {
       "source_path": "trust-banks/oag-trust.md",
@@ -107041,7 +107041,7 @@
       ],
       "nonspace_chars": 3153,
       "word_like_tokens": 480,
-      "last_modified": "2026-07-29"
+      "last_modified": "2026-08-16"
     },
     {
       "source_path": "trust-banks/smtb.md",
@@ -107112,7 +107112,7 @@
       ],
       "nonspace_chars": 3074,
       "word_like_tokens": 467,
-      "last_modified": "2026-07-29"
+      "last_modified": "2026-08-16"
     },
     {
       "source_path": "trust-banks/starts-trust.md",
@@ -107529,9 +107529,9 @@
       "markdown_links": [],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 3642,
-      "word_like_tokens": 679,
-      "last_modified": "2026-08-15"
+      "nonspace_chars": 3374,
+      "word_like_tokens": 626,
+      "last_modified": "2026-08-16"
     }
   ]
 }
