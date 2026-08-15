@@ -26,6 +26,29 @@
 - 每条记录应尽可能包含 JST 时间、背景、范围、主要文件或目录、执行步骤、验证结果与后续事项。
 - 本仓库正文只允许使用互联网公开信息、官方资料、公开披露或基于公开来源的分析。
 
+## 2026-08-15 - Entity deepening batch 03 spec (#296)
+
+### 日本語
+
+- **2026-08-15 01:40 JST / 背景:** batch 02（#292）のあと、Japan-core の信託兼営銀行 6 社は公式 FSA `kenei.pdf` を既に持っているが `entity_node` / typed edges がない。次の named packet はその 6 社に限定する。
+- **範囲 / 主要ファイル:** `docs/04-architecture/entity-deepening-batch-03.md`、`docs/README.md` の architecture map。corpus 本文と UI は本 unit では変更しない。
+- **実行手順:** MUTB、みずほ信託、SMTB、SMBC 信託、野村信託、農中信託を `operating_company` / `japan_core` / `anchor` とし、既存の兼営一覧で `regulated_by` FSA を付ける。`subsidiary_of` は各頁の会社概要が親会社を現認した場合だけ。
+- **検証結果 / 残タスク:** `docs:audit` と `git diff --check` を実装前に通す。残タスクは #296 の corpus 実装。
+
+### English
+
+- **2026-08-15 01:40 JST / Background:** After batch 02, six Japan-core concurrent-business trust banks already cite the official FSA `kenei.pdf` list but have no entity node or typed edges.
+- **Scope / Primary files:** `docs/04-architecture/entity-deepening-batch-03.md` and the architecture map. No corpus body or UI in this unit.
+- **Steps:** Name MUTB, Mizuho Trust, SMTB, SMBC Trust, Nomura Trust, and Norinchukin Trust as anchors with `regulated_by` FSA. Add `subsidiary_of` only if the existing overview URL still states the parent.
+- **Validation / Follow-up:** Pass `docs:audit` and `git diff --check` before implementation. Remaining: implement #296.
+
+### 中文
+
+- **2026-08-15 01:40 JST / 背景:** batch 02 之后，六家 Japan-core 信托兼营银行已引用 FSA `kenei.pdf`，但还没有 entity node / typed edges。
+- **范围 / 主要文件:** `docs/04-architecture/entity-deepening-batch-03.md` 与 architecture map。本 unit 不改 corpus 正文或 UI。
+- **执行步骤:** 为 MUTB、みずほ信託、SMTB、SMBC 信託、野村信託、農中信託固定 node 与 `regulated_by` FSA；`subsidiary_of` 仅在公司概要仍写明母公司时添加。
+- **验证 / 后续:** 先过 `docs:audit` 与 `git diff --check`。后续实现 #296。
+
 ## 2026-08-15 - Entity deepening batch 02 (#292)
 
 ### 日本語
