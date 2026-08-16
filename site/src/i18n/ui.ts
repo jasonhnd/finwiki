@@ -25,6 +25,16 @@ export const ui = {
       '公開情報だけを使い、金融グループ、決済、証券市場、政策金融、規制制度を相互に接続して読むための入口です。検索はすぐ使えますが、まずは編集済みの導線から全体像をつかめます。',
     'home.searchKicker': '検索',
     'home.searchPlaceholder': '機関・制度・キーワードで検索…',
+    'home.startHere': 'まず読む',
+    'home.startHereNote': '編集した入口から読む。最近更新したファイル一覧ではない。',
+    'home.startHere.megabanks': '三大メガと金融グループの入口。',
+    'home.startHere.fsa': '監督と制度を読む基準点。',
+    'home.startHere.bankingLicense': '銀行免許の階層と比較。',
+    'home.startHere.payments': '決済と清算の基盤。',
+    'home.startHere.markets': '証券市場インフラの地図。',
+    'home.startHere.allDomains': '領域一覧へ進む。40領域をここに全部は並べない。',
+    'home.catalog': 'カタログ',
+    'home.catalogNote': '第一画面の続き。領域地図、最近の更新、同一主体、機械可読リンク。',
     'home.startReading': 'まず読む',
     'home.recent': '最近更新された項目',
     'home.recentNote': '出典に紐づく最新の更新から。',
@@ -128,6 +138,16 @@ export const ui = {
       'FinWiki connects public-source coverage of financial groups, payments, securities markets, policy finance, and regulation. Search is still in reach, but the first path is editorial: start with the routes that explain the map.',
     'home.searchKicker': 'Search',
     'home.searchPlaceholder': 'Search institutions, regimes, keywords…',
+    'home.startHere': 'Start here',
+    'home.startHereNote': 'Edited reading entries. Not a list of recently touched files.',
+    'home.startHere.megabanks': 'The megabanks and financial-group door.',
+    'home.startHere.fsa': 'The supervisory starting point.',
+    'home.startHere.bankingLicense': 'Bank-license tiers and comparisons.',
+    'home.startHere.payments': 'Payment and settlement infrastructure.',
+    'home.startHere.markets': 'The securities-market map.',
+    'home.startHere.allDomains': 'Go to the domain list. The home first screen does not dump all 40.',
+    'home.catalog': 'Catalog',
+    'home.catalogNote': 'Below the first screen: domain map, recent updates, same-entity pairs, and machine-readable links.',
     'home.startReading': 'Start reading',
     'home.recent': 'Recently updated',
     'home.recentNote': 'The latest source-linked revisions.',
@@ -230,64 +250,16 @@ export const rootEditorial = {
     { href: '/ja/', code: 'JA', label: '日本語', note: '一次情報のニュアンスを最も細かく辿る入口。' },
     { href: '/en/', code: 'EN', label: 'English', note: 'Use translated routes for global comparison and cross-border reading.' },
   ],
-  startLanes: [
-    {
-      id: 'japan-core',
-      title: { ja: '日本の中核金融機関', en: 'Japan core institutions' },
-      note: {
-        ja: 'メガバンク、金融グループ、地方銀行、協同組織を俯瞰する入口。',
-        en: 'Start with the banks, groups, regional banks, and cooperative systems that anchor Japan finance.',
-      },
-      href: '/ja/domains/megabanks/',
-      domains: ['japanfg', 'megabanks', 'regional-banks'],
-      routes: ['finance/japan-listed-financial-groups-investable-universe', 'banking/japan-banking-license-tier-comparison-matrix'],
-    },
-    {
-      id: 'payments-cards',
-      title: { ja: '決済・カード', en: 'Payments & cards' },
-      note: {
-        ja: 'カード、コード決済、清算、加盟店手数料、発行・加盟店管理の分解図。',
-        en: 'Read card issuing, acquiring, clearing, merchant economics, and Japan cashless rails together.',
-      },
-      href: '/ja/domains/payments/',
-      domains: ['payments', 'payment-firms', 'card-issuers'],
-      routes: ['payments/japan-payment-clearing-and-settlement-infrastructure', 'payments/japan-interchange-and-merchant-fee-stack'],
-    },
-    {
-      id: 'markets-securities',
-      title: { ja: '取引所・証券市場', en: 'Exchanges & securities' },
-      note: {
-        ja: '市場インフラ、証券会社、VASP、暗号資産自主規制まで横断します。',
-        en: 'Connect market infrastructure, broker-dealers, VASPs, and crypto self-regulation.',
-      },
-      href: '/ja/domains/exchanges/',
-      domains: ['exchanges', 'securities', 'securities-firms'],
-      routes: ['securities/japan-market-infrastructure-map', 'exchanges/jp-vasp-regulatory-timeline'],
-    },
-    {
-      id: 'policy-regulation',
-      title: { ja: '政策・規制', en: 'Policy & regulation' },
-      note: {
-        ja: '金融庁、日銀、政策金融、免許制度を制度側から読むための導線。',
-        en: 'Use regulator, central-bank, policy-finance, and licensing routes as the institutional frame.',
-      },
-      href: '/ja/domains/financial-regulators/',
-      domains: ['financial-regulators', 'financial-licenses', 'policy-finance'],
-      routes: ['financial-regulators/fsa', 'financial-regulators/boj', 'policy-finance/japan-policy-finance-system'],
-    },
-    {
-      id: 'comparison-matrices',
-      title: { ja: '比較表・グローバル視点', en: 'Global comparison matrices' },
-      note: {
-        ja: '制度差、資本規制、決済、保険、M&A を比較表から読み始めます。',
-        en: 'Begin with matrices that compare regimes, capital rules, payments, insurance, and deal mechanics.',
-      },
-      href: '/ja/insurance/global-solvency-framework-comparison-matrix/',
-      domains: ['insurance', 'finance', 'policy-finance'],
-      routes: ['insurance/global-solvency-framework-comparison-matrix', 'finance/dcf-vs-multiples-vs-nav-cross-domain-valuation-framework'],
-    },
-  ],
 } as const;
+
+export const homeStartHere = [
+  { id: 'megabanks', path: 'domains/megabanks/', noteKey: 'home.startHere.megabanks' },
+  { id: 'fsa', path: 'financial-regulators/fsa/', noteKey: 'home.startHere.fsa' },
+  { id: 'bankingLicense', path: 'banking/japan-banking-license-tier-comparison-matrix/', noteKey: 'home.startHere.bankingLicense' },
+  { id: 'payments', path: 'payments/japan-payment-clearing-and-settlement-infrastructure/', noteKey: 'home.startHere.payments' },
+  { id: 'markets', path: 'securities/japan-market-infrastructure-map/', noteKey: 'home.startHere.markets' },
+  { id: 'allDomains', path: 'domains/', noteKey: 'home.startHere.allDomains' },
+] as const;
 
 const confidenceLabels: Record<Lang, Record<string, string>> = {
   ja: {

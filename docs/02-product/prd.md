@@ -24,7 +24,7 @@ PRD-009 is satisfied by the current human-site implementation and should be trea
 
 - The site is a financial reference surface, not a marketing homepage.
 - The approved visual direction is cool-neutral, teal-blue, compact, information-dense and source-forward.
-- The first screen prioritizes search, corpus shape and domain navigation.
+- The first screen prioritizes one sentence of what FinWiki is, search, and an edited start-here list. Corpus shape and the full domain map stay below the fold.
 - Entry pages prioritize reading, domain context, TOC, freshness/provenance chips and translation status.
 - Browse/domain pages prioritize scanning, counts, route visibility and localized filtering.
 - Japanese UI chrome quality is part of the product requirement, not a cosmetic follow-up.

@@ -26,6 +26,29 @@
 - 每条记录应尽可能包含 JST 时间、背景、范围、主要文件或目录、执行步骤、验证结果与后续事项。
 - 本仓库正文只允许使用互联网公开信息、官方资料、公开披露或基于公开来源的分析。
 
+## 2026-08-16 - UIUX: home first screen is a reading guide (#301)
+
+### 日本語
+
+- **2026-08-16 19:10 JST / 背景:** #300 の現行季節は UIUX。#301 は第一画面を「一文 + 検索 + 編集済みまず読む」にし、40領域カタログを第一画面から外す。
+- **範囲 / 主要ファイル:** `site/src/pages/index.astro`、`site/src/pages/[lang]/index.astro`、`site/src/i18n/ui.ts`、`docs/05-functional-specs/ui-ux.md`、`docs/07-quality/visual-qa-checklist.md`、`docs/02-product/{ui-ux-principles,prd,human-site-compact-read-surface}.md`。wiki 本文は変更しない。
+- **実行手順:** まず読むはメガバンク、金融庁、銀行免許比較、決済清算基盤、市場インフラ地図、領域一覧の 6 件。Latest reviewed / 領域地図 / 同一主体 / AI リンクは fold 下へ。`.canonical-strip` は導線重複のため削除。
+- **検証結果 / 残タスク:** `docs:audit`、site check、ja/en ホーム visual QA（375 / 768 / 1440）。残タスクは work→`pre`、#301 close。
+
+### English
+
+- **2026-08-16 19:10 JST / Background:** After #300, the season is UIUX. #301 makes the first screen one sentence, search, and an edited start-here list, and moves the 40-domain catalog off that screen.
+- **Scope / Primary files:** root and localized home pages, `site/src/i18n/ui.ts`, UI/UX spec, visual QA, and the home-contract sentences in product docs. No wiki body.
+- **Steps:** Start-here is megabanks, FSA, the banking-license matrix, payment clearing, the market-infrastructure map, and all domains. Latest reviewed, domain map, same-entity pairs, and AI links sit below the fold. Drop `.canonical-strip` so it does not duplicate the guide.
+- **Validation / Follow-up:** `docs:audit`, site check, ja/en home visual QA at 375 / 768 / 1440. Remaining: promote to `pre` and close #301.
+
+### 中文
+
+- **2026-08-16 19:10 JST / 背景:** #300 之后当前季节是 UIUX。#301 把第一屏改成一句话 + 搜索 + 编辑过的「从这里读」，并把 40 领域目录移出第一屏。
+- **范围 / 主要文件:** 根首页与日英首页、`site/src/i18n/ui.ts`、UI/UX 规格、visual QA，以及产品文档里的首页合同句。不改 wiki 正文。
+- **执行步骤:** 从这里读为メガバンク、金融厅、银行执照比较、支付清算、市场基础设施、领域一览。最近更新 / 领域地图 / 同一主体 / AI 放到第一屏以下。删除重复的 `.canonical-strip`。
+- **验证 / 后续:** `docs:audit`、站点 check、ja/en 首页 375 / 768 / 1440 visual QA。后续合入 `pre` 并关闭 #301。
+
 ## 2026-08-16 - Roadmap current season: UIUX / Content (#300)
 
 ### 日本語
