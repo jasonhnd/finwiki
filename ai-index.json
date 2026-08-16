@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-08-17T01:02:58+09:00",
+  "generated_at": "2026-08-17T01:03:21+09:00",
   "counts": {
     "markdown_files": 1615,
     "public_markdown_pages": 1614,
@@ -3971,7 +3971,7 @@
       "entity_edges": [],
       "nonspace_chars": 28387,
       "word_like_tokens": 4750,
-      "last_modified": "2026-08-16"
+      "last_modified": "2026-08-17"
     },
     {
       "source_path": "SCHEMA.md",
