@@ -26,6 +26,29 @@
 - 每条记录应尽可能包含 JST 时间、背景、范围、主要文件或目录、执行步骤、验证结果与后续事项。
 - 本仓库正文只允许使用互联网公开信息、官方资料、公开披露或基于公开来源的分析。
 
+## 2026-08-16 - UIUX: domain pages are a reading guide (#304)
+
+### 日本語
+
+- **2026-08-16 19:40 JST / 背景:** #301 のあと、次の UIUX 面は領域頁。メガバンクの「まず読む」が語彙スコアで au-FH を先頭にしており、一覧要約が INDEX 位置説明になっている。
+- **範囲 / 主要ファイル:** `site/src/pages/[lang]/domains/[domain]/index.astro`、`site/src/lib/domainReadFirst.ts`、`site/src/lib/entryPreviewIndex.mjs`、`site/src/i18n/ui.ts`、UI/UX 規格と visual QA。wiki 本文は変更しない。
+- **実行手順:** メガバンクのまず読むを MUFG / SMFG / みずほ FG に固定。要約は TL;DR / 要約を優先し、INDEX 位置文を捨てる。経路 slug は title に残し、見出しと競合させない。
+- **検証結果 / 残タスク:** `docs:audit`、astro check、ja/en メガバンクと地方銀行の visual QA。残タスクは work→`pre`、#304 close。`main` へは指示があるまで push しない。
+
+### English
+
+- **2026-08-16 19:40 JST / Background:** After #301, domain pages are the next UIUX surface. Megabanks “read first” preferred au-FH via lexical scoring, and list excerpts were INDEX-positioning sentences.
+- **Scope / Primary files:** the domain detail page, `domainReadFirst.ts`, lead extraction, domain-page copy, and the UI contract. No wiki body.
+- **Steps:** Pin megabanks read-first to MUFG / SMFG / Mizuho FG. Prefer TL;DR / 要約 leads and skip INDEX-positioning prose. Keep slugs as quiet citation text.
+- **Validation / Follow-up:** `docs:audit`, astro check, ja/en megabanks and regional-banks visual QA. Remaining: merge to `pre` and close #304. Do not push `main` unless asked.
+
+### 中文
+
+- **2026-08-16 19:40 JST / 背景:** #301 之后下一张 UIUX 面是领域页。メガバンク「先读」被词面分数排成 au-FH，列表摘要是 INDEX 位置说明。
+- **范围 / 主要文件:** 领域详情页、`domainReadFirst.ts`、导语抽取、领域页文案和 UI 合同。不改 wiki 正文。
+- **执行步骤:** メガバンク先读固定为 MUFG / SMFG / みずほ FG。摘要优先 TL;DR / 要約，丢掉 INDEX 位置句。slug 只作引用，不和标题抢视线。
+- **验证 / 后续:** `docs:audit`、astro check、ja/en メガバンク与地方银行 visual QA。后续合入 `pre` 并关闭 #304。未指示前不 push `main`。
+
 ## 2026-08-16 - UIUX: home first screen is a reading guide (#301)
 
 ### 日本語

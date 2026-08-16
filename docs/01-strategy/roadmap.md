@@ -53,7 +53,7 @@ Entry pages pass only when:
 - no typed `entity_edges` relationship panel in this season
 - no wiki body edits “to make the page look better”
 
-The first UIUX issue is [#301](https://github.com/jasonhnd/finwiki/issues/301) (home first screen). Do not open the domain-page issue until #301 is closed.
+Home first screen shipped in [#301](https://github.com/jasonhnd/finwiki/issues/301). The next UIUX issue is [#304](https://github.com/jasonhnd/finwiki/issues/304) (domain pages). Do not open the entry-page issue until #304 is closed.
 
 ## Track: Content (maintenance)
 

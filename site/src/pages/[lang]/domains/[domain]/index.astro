@@ -5,6 +5,7 @@ import { t, u, langCodes, type Lang } from '../../../../i18n/ui';
 import { domainDescription, domainName } from '../../../../i18n/domains';
 import { compareEntryRoute, entryDomain, entryRoute, i18nEntryId } from '../../../../lib/routes';
 import { localizedEntryPreview } from '../../../../lib/entryPreviewIndex.mjs';
+import { readFirstEntries } from '../../../../lib/domainReadFirst';
 import { localizedTitle } from '../../../../lib/siteIndex.mjs';
 import { publishableTranslations } from '../../../../lib/translations';
 import { buildCanonicalClusters, clustersInDomain } from '../../../../layouts/canonicalAnchors';
@@ -50,17 +51,7 @@ const domainClusters = clustersInDomain(buildCanonicalClusters(all), domain).map
   })),
 }));
 
-const canonicalTerms = ['overview', 'map', 'matrix', 'comparison', 'system', 'landscape', 'operating-model', 'registry', 'timeline', 'framework', 'index'];
-function canonicalScore(entry: (typeof entries)[number]): number {
-  const haystack = `${entryRoute(entry)} ${titleFor(entry)}`.toLowerCase();
-  return canonicalTerms.reduce((score, term, index) => (haystack.includes(term) ? score + canonicalTerms.length - index : score), 0);
-}
-
-const canonicalEntries = [...entries]
-  .map((entry) => ({ entry, score: canonicalScore(entry) }))
-  .sort((a, b) => b.score - a.score || compareEntryRoute(a.entry, b.entry))
-  .slice(0, Math.min(3, entries.length))
-  .map(({ entry }) => entry);
+const canonicalEntries = readFirstEntries(domain, entries, titleFor);
 
 const translatedCount = entries.filter((entry) => translationMap.has(i18nEntryId(lang, entry))).length;
 const showFilter = entries.length > 24;
@@ -82,7 +73,6 @@ const showFilter = entries.length > 24;
         {lang !== 'ja' && (
           <span><b>{translatedCount.toLocaleString('en-US')}</b> {t(lang, 'domain.translated')}</span>
         )}
-        <code>{domain}</code>
       </div>
     </header>
 
@@ -96,11 +86,12 @@ const showFilter = entries.length > 24;
         <ol class="domain-brief__links">
           {canonicalEntries.map((entry) => {
             const route = entryRoute(entry);
+            const lead = localizedEntryPreview(lang, route)?.lead || '';
             return (
               <li>
                 <a href={u(lang, `${route}/`)}>
                   <span>{titleFor(entry)}</span>
-                  <code>{route}</code>
+                  {lead && <small>{lead}</small>}
                 </a>
               </li>
             );
@@ -119,14 +110,14 @@ const showFilter = entries.length > 24;
                 <div class="domain-anchor">
                   <a href={u(lang, `${canonical.route}/`)}>
                     <span>{canonical.title}</span>
-                    <code>{canonical.route}</code>
+                    <small>{canonical.domainTitle}</small>
                   </a>
                   <ul>
                     {mirrors.map((member) => (
                       <li>
                         <a href={u(lang, `${member.route}/`)}>
                           <span>{member.title}</span>
-                          <code>{member.domainTitle}</code>
+                          <small>{member.domainTitle}</small>
                         </a>
                       </li>
                     ))}
@@ -162,11 +153,10 @@ const showFilter = entries.length > 24;
         const translated = lang !== 'ja' && translationMap.has(i18nEntryId(lang, entry));
         return (
           <li class="domain__item" data-name={`${name} ${route} ${lead}`.toLowerCase()}>
-            <a href={u(lang, `${route}/`)}>
+            <a href={u(lang, `${route}/`)} title={route}>
               <span class="domain__name">{name}</span>
               {translated && <span class="domain__tdot" title={t(lang, 'domain.translated')}></span>}
               {lead && <span class="domain__lead">{lead}</span>}
-              <span class="domain__route" aria-label={`${t(lang, 'domain.routeSlug')}: ${route}`}>{route}</span>
             </a>
           </li>
         );
@@ -295,12 +285,12 @@ const showFilter = entries.length > 24;
     line-height: 1.35;
     overflow-wrap: anywhere;
   }
-  .domain-brief__links code,
-  .domain-anchors code {
+  .domain-brief__links small,
+  .domain-anchors small {
     color: var(--muted);
-    font-family: var(--font-mono);
-    font-size: 0.7rem;
-    line-height: 1.35;
+    font-size: var(--fs-xs);
+    font-weight: 500;
+    line-height: 1.45;
     overflow-wrap: anywhere;
   }
   .domain-anchors {
@@ -370,7 +360,7 @@ const showFilter = entries.length > 24;
   }
   .domain__item a {
     display: grid;
-    grid-template-columns: minmax(0, 1fr) auto auto;
+    grid-template-columns: minmax(0, 1fr) auto;
     align-items: baseline;
     gap: 0.2rem 0.5rem;
     min-width: 0;
@@ -401,14 +391,6 @@ const showFilter = entries.length > 24;
     font-size: var(--fs-sm);
     line-height: 1.5;
     overflow-wrap: anywhere;
-  }
-  .domain__route {
-    color: var(--muted);
-    font-family: var(--font-mono);
-    font-size: var(--fs-xs);
-    text-align: right;
-    overflow-wrap: anywhere;
-    word-break: break-word;
   }
 
   @media (max-width: 900px) {

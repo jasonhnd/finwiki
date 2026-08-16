@@ -71,7 +71,7 @@ export const ui = {
     'domain.readFirst': 'まず読む',
     'domain.canonicalAnchors': '基準アンカー',
     'domain.routeList': '項目一覧',
-    'domain.routeListNote': 'ルート名は確認・引用しやすいように表示しています。',
+    'domain.routeListNote': '見出しと要約で選ぶ。経路名は引用用に残してあるが、主役ではない。',
     'domain.routeSlug': 'route',
 
     'browse.title': '全項目',
@@ -184,7 +184,7 @@ export const ui = {
     'domain.readFirst': 'Read first',
     'domain.canonicalAnchors': 'Canonical anchors',
     'domain.routeList': 'Entry routes',
-    'domain.routeListNote': 'Route slugs stay visible for citation and verification.',
+    'domain.routeListNote': 'Choose by title and lead. Route slugs stay as quiet citation text, not a second headline.',
     'domain.routeSlug': 'route',
 
     'browse.title': 'All entries',
