@@ -1092,6 +1092,21 @@ a.wl--system:focus-visible {
 .prose > :first-child {
   margin-top: 0;
 }
+.prose .wiki-placement__kicker {
+  margin: 0 0 0.35rem;
+  color: var(--muted);
+  font-family: var(--font-mono);
+  font-size: var(--fs-xs);
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+.prose .wiki-placement__body {
+  margin: 0 0 1.4rem;
+  color: var(--muted);
+  font-size: var(--fs-sm);
+  line-height: 1.55;
+}
 .prose p {
   margin: 0.9rem 0;
 }

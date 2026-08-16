@@ -8,6 +8,7 @@ import satteriResponsiveTables, {
   satteriResponsiveTableHast,
 } from './src/plugins/satteri-responsive-tables.mjs';
 import satteriStripTitle from './src/plugins/satteri-strip-title.mjs';
+import satteriQuietWikiPlacement from './src/plugins/satteri-quiet-wiki-placement.mjs';
 import localizeWikilinks from './src/plugins/localize-wikilinks.mjs';
 
 // FinWiki human site: bilingual static pages under /ja and /en.
@@ -20,7 +21,7 @@ export default defineConfig({
   integrations: [localizeWikilinks(), responsiveTableHtmlRepair()],
   markdown: {
     processor: satteri({
-      mdastPlugins: [satteriStripTitle, satteriResponsiveTables, satteriWikilink, satteriProvenance],
+      mdastPlugins: [satteriStripTitle, satteriQuietWikiPlacement, satteriResponsiveTables, satteriWikilink, satteriProvenance],
       hastPlugins: [satteriResponsiveTableHast],
     }),
   },

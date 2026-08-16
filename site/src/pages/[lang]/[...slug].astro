@@ -6,6 +6,7 @@ import { entryDomain, entryRoute, i18nEntryId } from '../../lib/routes';
 import { publishableTranslations } from '../../lib/translations';
 import { buildEntryDiscovery, buildEntryDiscoveryGraph } from '../../lib/entryDiscovery.mjs';
 import { localizedTitle } from '../../lib/siteIndex.mjs';
+import { localizedEntryPreview } from '../../lib/entryPreviewIndex.mjs';
 import { buildCanonicalClusters, clusterForRoute } from '../../layouts/canonicalAnchors';
 
 export async function getStaticPaths() {
@@ -61,13 +62,14 @@ export async function getStaticPaths() {
           domains,
           discovery,
           sameEntity,
+          entryLead: localizedEntryPreview(lang, route)?.lead || '',
         },
       };
     }),
   );
 }
 
-const { entry, tr, lang, domains, discovery, sameEntity } = Astro.props as {
+const { entry, tr, lang, domains, discovery, sameEntity, entryLead } = Astro.props as {
   entry: any;
   tr: any;
   lang: Lang;
@@ -77,10 +79,12 @@ const { entry, tr, lang, domains, discovery, sameEntity } = Astro.props as {
     anchor: string;
     members: { route: string; domain: string; relation: 'canonical' | 'mirror'; title: string }[];
   } | null;
+  entryLead: string;
 };
 // Render the translation when present, else fall back to the Japanese source.
 const { Content, headings } = await render(tr ?? entry);
+const readingHeadings = headings.filter((heading) => !/^(wiki\s*route|ウィキ上の位置づけ)$/i.test(heading.text.trim()));
 ---
-<EntryLayout lang={lang} entry={entry} tr={tr} headings={headings} domains={domains} discovery={discovery} sameEntity={sameEntity}>
+<EntryLayout lang={lang} entry={entry} tr={tr} headings={readingHeadings} domains={domains} discovery={discovery} sameEntity={sameEntity} entryLead={entryLead}>
   <Content />
 </EntryLayout>
