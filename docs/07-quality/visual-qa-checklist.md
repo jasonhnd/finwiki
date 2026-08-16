@@ -22,8 +22,8 @@ Baseline traits to preserve:
 - Cool editorial paper in light mode and cool market-desk dark mode, with AA-readable text, ink-blue active accents, teal peer/data links, steel system anchors, and muted financial-reference metadata.
 - Compact masthead shell in `site/src/layouts/Base.astro`: skip link, display-serif `FinWiki` brand, localized subtitle, Home / Domains / Browse / AI navigation, Pagefind trigger, theme toggle, language switcher, and footer.
 - Active shell navigation uses `aria-current="page"` plus a visible underline; active state must not rely on color alone.
-- Root `/` opens with `.root-masthead`, bilingual `.root-entry-paths`, `.start-lanes`, supporting `.root-proof`, and technical `.root-ai` links.
-- Localized `/{lang}/` pages open with `.home-hero`, `.home-search`, and `.home-proof`, then `.review-strip`, `.canonical-strip`, `.taxonomy-grid`, and `.ai-band`.
+- Root `/` opens with `.root-masthead` and bilingual `.root-entry-paths`. The edited `.start-here` set may follow. `.root-proof` and `.root-ai` stay below the entrance.
+- Localized `/{lang}/` pages open with `.home-hero`, `.home-search`, and `.start-here` in the first viewport. `.home-proof`, `.review-strip`, `.taxonomy-grid`, same-entity `.anchor-grid`, and `.ai-band` stay below the fold. Do not restore a first-screen `.canonical-strip`.
 - Domain list pages use reader-oriented `.domain-section` groups and `.domain-card` descriptions with counts as secondary metadata.
 - Domain detail pages use `.domain-opener` and `.domain-brief` before the route list, with canonical read-first links and route slugs still visible for maintainers.
 - Entry pages use article-led `.entry-head`, `.evidence-strip`, restrained `.drail--left` current-group rail, `.toc--rail` / `.toc-inline`, `.prose` content, and article-end `.entry-discovery` when existing related/read-next/backlink data is available.
@@ -46,8 +46,8 @@ For every row, capture light and dark theme screenshots at `375`, `768`, and `14
 
 | Surface | Language coverage | Required routes / examples | What to verify |
 |---|---|---|---|
-| Root bilingual entrance | `ja`, `en` on the same page | `/` | `.root-masthead` leads; language entry cards are visible and non-overlapping; `.start-lanes` are reader-oriented; corpus stats are supporting proof; `.root-ai` is a technical band, not the primary message. |
-| Localized home | `ja`, `en` | `/ja/`, `/en/` | `.home-hero` and `.home-search` are in the first viewport; `.home-proof` does not dominate; `.review-strip` and `.canonical-strip` have distinct kicker and title text; `.taxonomy-grid` descriptions and counts wrap cleanly. |
+| Root bilingual entrance | `ja`, `en` on the same page | `/` | `.root-masthead` leads; language entry cards are visible and non-overlapping; `.start-here` uses the same edited set as localized home; corpus stats and `.root-ai` stay below the entrance. |
+| Localized home | `ja`, `en` | `/ja/`, `/en/` | First viewport is `.home-hero` (one sentence), `.home-search`, and `.start-here` (at most 7 edited links). `.home-proof`, `.review-strip`, `.taxonomy-grid`, `.anchor-grid`, and `.ai-band` are not in the first viewport; they wrap cleanly below the fold. |
 | Domain list | `ja`, `en` | `/{lang}/domains/` | `.domains__head` explains coverage; `.domain-section` names read like editorial sections; `.domain-card__description` is visible; `.domain-card__count` is secondary and tabular-feeling. |
 | Domain detail | `ja`, `en` | `/{lang}/domains/banking/` and one high-count domain such as `/{lang}/domains/regional-banks/` | `.domain-opener` and `.domain-brief` appear before the route inventory; read-first links and canonical anchors are understandable; filter appears only when useful; route slugs remain visible without overpowering titles. |
 | Long entry | `ja`, `en` | `/{lang}/banking/japan-regional-bank-m-a-consolidation-family-tree-matrix/` | H1, lead, `.evidence-strip`, tags, current-group `.drail--left`, `.toc--rail`, `.toc-inline`, headings, source rows, and long proper nouns remain readable. |
