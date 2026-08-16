@@ -6,7 +6,6 @@ import { getCollection } from 'astro:content';
 import { domainName } from '../i18n/domains';
 import { homeStartHere, rootEditorial, t } from '../i18n/ui';
 import { entryDomain, entryRoute } from '../lib/routes';
-import { localizedTitle } from '../lib/siteIndex.mjs';
 import { publishableTranslations } from '../lib/translations';
 
 const entries = await getCollection('entries');
@@ -31,19 +30,15 @@ const updatedAt = new Intl.DateTimeFormat('ja-JP', {
   day: 'numeric',
 }).format(new Date());
 
-function titleForRoute(route: string): string {
-  const entry = entryByRoute.get(route);
-  return String(localizedTitle('ja', route) || entry?.data?.title || route);
-}
-
 const startHereItems = homeStartHere.flatMap((item) => {
   const note = t('ja', item.noteKey);
+  const title = t('ja', item.titleKey);
   if (item.id === 'allDomains') {
-    return [{ href: '/ja/domains/', kicker: t('ja', 'nav.domains'), title: t('ja', 'home.viewAllDomains'), note }];
+    return [{ href: '/ja/domains/', kicker: t('ja', 'nav.domains'), title, note }];
   }
   if (item.id === 'megabanks') {
     if (!counts.has('megabanks')) return [];
-    return [{ href: '/ja/domains/megabanks/', kicker: t('ja', 'nav.domains'), title: domainName('megabanks', 'ja'), note }];
+    return [{ href: '/ja/domains/megabanks/', kicker: t('ja', 'nav.domains'), title, note }];
   }
   const route = item.path.replace(/\/$/, '');
   const entry = entryByRoute.get(route);
@@ -51,7 +46,7 @@ const startHereItems = homeStartHere.flatMap((item) => {
   return [{
     href: `/ja/${route}/`,
     kicker: domainName(entryDomain(entry), 'ja'),
-    title: titleForRoute(route),
+    title,
     note,
   }];
 });
@@ -315,8 +310,10 @@ const startHereItems = homeStartHere.flatMap((item) => {
       .start-here__title {
         font-family: var(--font-display);
         font-size: var(--fs-md);
-        line-height: 1.25;
-        overflow-wrap: anywhere;
+        line-height: 1.35;
+        overflow-wrap: normal;
+        word-break: keep-all;
+        line-break: strict;
       }
       .start-here__note {
         color: var(--muted);

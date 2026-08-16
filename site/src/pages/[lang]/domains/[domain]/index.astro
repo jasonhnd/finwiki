@@ -5,7 +5,7 @@ import { t, u, langCodes, type Lang } from '../../../../i18n/ui';
 import { domainDescription, domainName } from '../../../../i18n/domains';
 import { compareEntryRoute, entryDomain, entryRoute, i18nEntryId } from '../../../../lib/routes';
 import { localizedEntryPreview } from '../../../../lib/entryPreviewIndex.mjs';
-import { readFirstEntries } from '../../../../lib/domainReadFirst';
+import { readFirstEntries, readFirstLabel } from '../../../../lib/domainReadFirst';
 import { localizedTitle } from '../../../../lib/siteIndex.mjs';
 import { publishableTranslations } from '../../../../lib/translations';
 import { buildCanonicalClusters, clustersInDomain } from '../../../../layouts/canonicalAnchors';
@@ -37,6 +37,17 @@ function titleFor(entry: (typeof entries)[number]): string {
 function titleForRoute(route: string): string {
   const entry = entryByRoute.get(route);
   return entry ? titleFor(entry) : route;
+}
+
+function shortLead(text: string): string {
+  const clean = String(text || '').trim();
+  if (!clean) return '';
+  const sentence = clean.match(/^[\s\S]{10,80}?[。．]/);
+  if (sentence) return sentence[0];
+  if (clean.length <= 64) return clean;
+  const slice = clean.slice(0, 64);
+  const pause = Math.max(slice.lastIndexOf('、'), slice.lastIndexOf('，'), slice.lastIndexOf(','));
+  return `${(pause > 20 ? slice.slice(0, pause) : slice).replace(/[\s、，,]+$/, '')}…`;
 }
 
 const sameEntityNote =
@@ -86,12 +97,10 @@ const showFilter = entries.length > 24;
         <ol class="domain-brief__links">
           {canonicalEntries.map((entry) => {
             const route = entryRoute(entry);
-            const lead = localizedEntryPreview(lang, route)?.lead || '';
             return (
               <li>
                 <a href={u(lang, `${route}/`)}>
-                  <span>{titleFor(entry)}</span>
-                  {lead && <small>{lead}</small>}
+                  <span>{readFirstLabel(route, lang, titleFor(entry))}</span>
                 </a>
               </li>
             );
@@ -149,7 +158,7 @@ const showFilter = entries.length > 24;
       {entries.map((entry) => {
         const name = titleFor(entry);
         const route = entryRoute(entry);
-        const lead = localizedEntryPreview(lang, route)?.lead || '';
+        const lead = shortLead(localizedEntryPreview(lang, route)?.lead || '');
         const translated = lang !== 'ja' && translationMap.has(i18nEntryId(lang, entry));
         return (
           <li class="domain__item" data-name={`${name} ${route} ${lead}`.toLowerCase()}>
@@ -282,8 +291,15 @@ const showFilter = entries.length > 24;
   .domain-brief__links span,
   .domain-anchors span {
     font-weight: 650;
-    line-height: 1.35;
-    overflow-wrap: anywhere;
+    line-height: 1.4;
+    overflow-wrap: normal;
+    word-break: keep-all;
+    line-break: strict;
+  }
+  html[lang="en"] .domain-brief__links span,
+  html[lang="en"] .domain-anchors span {
+    word-break: normal;
+    line-break: auto;
   }
   .domain-brief__links small,
   .domain-anchors small {
@@ -375,7 +391,14 @@ const showFilter = entries.length > 24;
   .domain__name {
     min-width: 0;
     font-weight: 550;
-    overflow-wrap: anywhere;
+    overflow-wrap: normal;
+    word-break: keep-all;
+    line-break: strict;
+  }
+  html[lang="en"] .domain__name {
+    word-break: normal;
+    line-break: auto;
+    overflow-wrap: break-word;
   }
   .domain__tdot {
     width: 0.4rem;
