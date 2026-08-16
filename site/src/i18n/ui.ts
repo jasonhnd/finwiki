@@ -20,19 +20,25 @@ export const ui = {
 
     'home.intro':
       'FinWiki は日本と世界の金融機関・制度・市場構造を、出典付きで構造化した公開ナレッジベースです。',
-    'home.headline': '金融機関・制度・市場構造を、読む順番まで含めて辿る。',
+    'home.headline': '金融機関と制度を、読む順番で辿る。',
     'home.deck':
       '公開情報だけを使い、金融グループ、決済、証券市場、政策金融、規制制度を相互に接続して読むための入口です。検索はすぐ使えますが、まずは編集済みの導線から全体像をつかめます。',
     'home.searchKicker': '検索',
     'home.searchPlaceholder': '機関・制度・キーワードで検索…',
     'home.startHere': 'まず読む',
     'home.startHereNote': '編集した入口から読む。最近更新したファイル一覧ではない。',
+    'home.startHere.megabanksTitle': 'メガバンク',
+    'home.startHere.fsaTitle': '金融庁',
+    'home.startHere.bankingLicenseTitle': '銀行免許の比較',
+    'home.startHere.paymentsTitle': '決済・清算インフラ',
+    'home.startHere.marketsTitle': '証券市場の地図',
+    'home.startHere.allDomainsTitle': 'すべての領域',
     'home.startHere.megabanks': '三大メガと金融グループの入口。',
     'home.startHere.fsa': '監督と制度を読む基準点。',
     'home.startHere.bankingLicense': '銀行免許の階層と比較。',
     'home.startHere.payments': '決済と清算の基盤。',
     'home.startHere.markets': '証券市場インフラの地図。',
-    'home.startHere.allDomains': '領域一覧へ進む。40領域をここに全部は並べない。',
+    'home.startHere.allDomains': '領域一覧へ進む。',
     'home.catalog': 'カタログ',
     'home.catalogNote': '第一画面の続き。領域地図、最近の更新、同一主体、機械可読リンク。',
     'home.startReading': 'まず読む',
@@ -66,12 +72,12 @@ export const ui = {
     'domain.entries': '項目',
     'domain.translated': 'この言語の訳',
     'domain.viewAll': 'この領域の全項目',
-    'domain.openerLabel': 'Domain briefing',
+    'domain.openerLabel': '領域案内',
     'domain.covers': 'この領域で扱うこと',
     'domain.readFirst': 'まず読む',
     'domain.canonicalAnchors': '基準アンカー',
     'domain.routeList': '項目一覧',
-    'domain.routeListNote': '見出しと要約で選ぶ。経路名は引用用に残してあるが、主役ではない。',
+    'domain.routeListNote': '題名と要約から選ぶ。',
     'domain.routeSlug': 'route',
 
     'browse.title': '全項目',
@@ -133,19 +139,25 @@ export const ui = {
 
     'home.intro':
       'FinWiki is a public knowledge base that structures Japanese and global financial institutions, regimes, and market plumbing with sourced facts.',
-    'home.headline': 'Read financial institutions, rules, and market structure in a deliberate order.',
+    'home.headline': 'Read institutions and rules in order.',
     'home.deck':
       'FinWiki connects public-source coverage of financial groups, payments, securities markets, policy finance, and regulation. Search is still in reach, but the first path is editorial: start with the routes that explain the map.',
     'home.searchKicker': 'Search',
     'home.searchPlaceholder': 'Search institutions, regimes, keywords…',
     'home.startHere': 'Start here',
     'home.startHereNote': 'Edited reading entries. Not a list of recently touched files.',
+    'home.startHere.megabanksTitle': 'Megabanks',
+    'home.startHere.fsaTitle': 'FSA',
+    'home.startHere.bankingLicenseTitle': 'Bank-license comparison',
+    'home.startHere.paymentsTitle': 'Payment infrastructure',
+    'home.startHere.marketsTitle': 'Market map',
+    'home.startHere.allDomainsTitle': 'All domains',
     'home.startHere.megabanks': 'The megabanks and financial-group door.',
     'home.startHere.fsa': 'The supervisory starting point.',
     'home.startHere.bankingLicense': 'Bank-license tiers and comparisons.',
     'home.startHere.payments': 'Payment and settlement infrastructure.',
     'home.startHere.markets': 'The securities-market map.',
-    'home.startHere.allDomains': 'Go to the domain list. The home first screen does not dump all 40.',
+    'home.startHere.allDomains': 'Go to the domain list.',
     'home.catalog': 'Catalog',
     'home.catalogNote': 'Below the first screen: domain map, recent updates, same-entity pairs, and machine-readable links.',
     'home.startReading': 'Start reading',
@@ -184,7 +196,7 @@ export const ui = {
     'domain.readFirst': 'Read first',
     'domain.canonicalAnchors': 'Canonical anchors',
     'domain.routeList': 'Entry routes',
-    'domain.routeListNote': 'Choose by title and lead. Route slugs stay as quiet citation text, not a second headline.',
+    'domain.routeListNote': 'Choose by title and lead.',
     'domain.routeSlug': 'route',
 
     'browse.title': 'All entries',
@@ -253,12 +265,12 @@ export const rootEditorial = {
 } as const;
 
 export const homeStartHere = [
-  { id: 'megabanks', path: 'domains/megabanks/', noteKey: 'home.startHere.megabanks' },
-  { id: 'fsa', path: 'financial-regulators/fsa/', noteKey: 'home.startHere.fsa' },
-  { id: 'bankingLicense', path: 'banking/japan-banking-license-tier-comparison-matrix/', noteKey: 'home.startHere.bankingLicense' },
-  { id: 'payments', path: 'payments/japan-payment-clearing-and-settlement-infrastructure/', noteKey: 'home.startHere.payments' },
-  { id: 'markets', path: 'securities/japan-market-infrastructure-map/', noteKey: 'home.startHere.markets' },
-  { id: 'allDomains', path: 'domains/', noteKey: 'home.startHere.allDomains' },
+  { id: 'megabanks', path: 'domains/megabanks/', titleKey: 'home.startHere.megabanksTitle', noteKey: 'home.startHere.megabanks' },
+  { id: 'fsa', path: 'financial-regulators/fsa/', titleKey: 'home.startHere.fsaTitle', noteKey: 'home.startHere.fsa' },
+  { id: 'bankingLicense', path: 'banking/japan-banking-license-tier-comparison-matrix/', titleKey: 'home.startHere.bankingLicenseTitle', noteKey: 'home.startHere.bankingLicense' },
+  { id: 'payments', path: 'payments/japan-payment-clearing-and-settlement-infrastructure/', titleKey: 'home.startHere.paymentsTitle', noteKey: 'home.startHere.payments' },
+  { id: 'markets', path: 'securities/japan-market-infrastructure-map/', titleKey: 'home.startHere.marketsTitle', noteKey: 'home.startHere.markets' },
+  { id: 'allDomains', path: 'domains/', titleKey: 'home.startHere.allDomainsTitle', noteKey: 'home.startHere.allDomains' },
 ] as const;
 
 const confidenceLabels: Record<Lang, Record<string, string>> = {

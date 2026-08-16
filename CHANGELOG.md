@@ -26,6 +26,29 @@
 - 每条记录应尽可能包含 JST 时间、背景、范围、主要文件或目录、执行步骤、验证结果与后续事项。
 - 本仓库正文只允许使用互联网公开信息、官方资料、公开披露或基于公开来源的分析。
 
+## 2026-08-17 - UIUX: fix Japanese typesetting on home, domain, and entry (#308)
+
+### 日本語
+
+- **2026-08-17 09:20 JST / 背景:** `pre` の読者経路で、見出しが語中で折れ、要約が途中切れのダンプになっていた。構造は通っても組版になっていない。
+- **範囲 / 主要ファイル:** 日英ホーム、領域詳細、EntryLayout、start-here 文案。wiki 本文は変更しない。
+- **実行手順:** 見出しの `18ch` / `overflow-wrap: anywhere` をやめ、日本語は `keep-all` + `line-break: strict`。start-here は短い編集見出し。領域のまず読むは題名のみ。条目は途中切れ lead を置かない。
+- **検証結果 / 残タスク:** ja 375/1440 で 市場・順番・フィナンシャルが語中で折れないこと。残タスクは `pre` へ merge。`main` へは指示があるまで push しない。
+
+### English
+
+- **2026-08-17 09:20 JST / Background:** The `pre` reading path broke Japanese compounds mid-word and showed truncated financial dumps as “summaries.”
+- **Scope / Primary files:** localized home, domain detail, entry layout, start-here copy. No wiki body.
+- **Steps:** Drop `18ch` and `overflow-wrap: anywhere` on titles; use keep-all / strict line-break for Japanese. Short editorial start-here labels. Read-first is titles only. Remove the truncated entry lead.
+- **Validation / Follow-up:** Confirm 市場 / 順番 / フィナンシャル do not split on ja 375/1440. Merge to `pre` only. Do not push `main`.
+
+### 中文
+
+- **2026-08-17 09:20 JST / 背景:** `pre` 阅读路径里，标题从词中间折行，摘要被截成半截财报。
+- **范围 / 主要文件:** 日英首页、领域页、条目 layout、start-here 文案。不改 wiki 正文。
+- **执行步骤:** 去掉标题上的 `18ch` 和任意折行；日文用 keep-all / strict。start-here 用短编辑标题。领域先读只留题名。条目不再放截断 lead。
+- **验证 / 后续:** ja 375/1440 确认「市場」「順番」「フィナンシャル」不从中间断开。只合 `pre`。未指示不 push `main`。
+
 ## 2026-08-16 - UIUX: entry pages lead with title and summary (#306)
 
 ### 日本語
