@@ -26,6 +26,29 @@
 - 每条记录应尽可能包含 JST 时间、背景、范围、主要文件或目录、执行步骤、验证结果与后续事项。
 - 本仓库正文只允许使用互联网公开信息、官方资料、公开披露或基于公开来源的分析。
 
+## 2026-08-16 - UIUX: entry pages lead with title and summary (#306)
+
+### 日本語
+
+- **2026-08-16 20:20 JST / 背景:** #304 のあと、次の UIUX 面は条目頁。MUFG などは本文第一章が「ウィキ上の位置づけ」で、読者の要約より先にメンテナ導線が出る。
+- **範囲 / 主要ファイル:** `EntryLayout.astro`、`[lang]/[...slug].astro`、`satteri-quiet-wiki-placement.mjs`、`astro.config.mjs`、`global.css`、UI/UX 規格。wiki 本文は変更しない。
+- **実行手順:** H1 の下に TL;DR / 要約 lead を出す。Wiki route / ウィキ上の位置づけを H2 から外し、静かな注記にする。TOC からも外す。文末カードの slug は title に残すだけ。
+- **検証結果 / 残タスク:** ja/en MUFG の visual QA と docs/site check。残タスクは work→`pre`、#306 close。`main` へは指示があるまで push しない。
+
+### English
+
+- **2026-08-16 20:20 JST / Background:** After #304, entry pages are the next UIUX surface. Pages such as MUFG still open the body with wiki placement instead of the summary.
+- **Scope / Primary files:** entry layout, slug page, the new quiet-wiki-placement plugin, CSS, and the UI contract. No wiki body.
+- **Steps:** Put a TL;DR / 要約 lead under the H1. Demote Wiki route / ウィキ上の位置づけ out of chapter-one / TOC. Keep discovery slugs as title text only.
+- **Validation / Follow-up:** ja/en MUFG visual QA and docs/site checks. Remaining: merge to `pre` and close #306. Do not push `main` unless asked.
+
+### 中文
+
+- **2026-08-16 20:20 JST / 背景:** #304 之后下一张 UIUX 面是条目页。MUFG 等页正文第一章仍是「维基位置」，摘要被挤到后面。
+- **范围 / 主要文件:** 条目 layout、slug 页、quiet-wiki-placement 插件、CSS 和 UI 合同。不改 wiki 正文。
+- **执行步骤:** H1 下放出 TL;DR / 要約。把 Wiki route / ウィキ上の位置づけ从第一章和 TOC 拿掉，改成安静注记。文末卡片 slug 只留在 title。
+- **验证 / 后续:** ja/en MUFG visual QA 与 docs/site check。后续合入 `pre` 并关闭 #306。未指示前不 push `main`。
+
 ## 2026-08-16 - UIUX: domain pages are a reading guide (#304)
 
 ### 日本語
