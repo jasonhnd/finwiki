@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-08-16T19:36:20+09:00",
+  "generated_at": "2026-08-17T01:02:58+09:00",
   "counts": {
     "markdown_files": 1615,
     "public_markdown_pages": 1614,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1489,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 11210130,
-    "word_like_tokens": 1808079,
+    "nonspace_utf8_chars": 11211355,
+    "word_like_tokens": 1808297,
     "entity_anchors": 13,
     "entity_mirror_pages": 13,
     "entity_nodes": 103,
@@ -3396,11 +3396,11 @@
         "日本語",
         "English",
         "中文",
-        "2026-08-16 - UIUX: entry pages lead with title and summary (#306)",
+        "2026-08-17 - UIUX: fix Japanese typesetting on home, domain, and entry (#308)",
         "日本語",
         "English",
         "中文",
-        "2026-08-16 - UIUX: domain pages are a reading guide (#304)"
+        "2026-08-16 - UIUX: entry pages lead with title and summary (#306)"
       ],
       "wikilinks": [],
       "resolved_wikilinks": [],
@@ -3409,9 +3409,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 301297,
-      "word_like_tokens": 55488,
-      "last_modified": "2026-08-16"
+      "nonspace_chars": 302522,
+      "word_like_tokens": 55706,
+      "last_modified": "2026-08-17"
     },
     {
       "source_path": "HOW-TO-NAVIGATE.md",
