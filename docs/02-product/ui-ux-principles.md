@@ -16,7 +16,7 @@ Current baseline characteristics:
 |---|---|---|
 | Global visual system | Cool ledger-neutral surfaces, teal-blue action color, restrained support colors, serif display type, sans body type, compact radii and hairline structure. | `site/src/styles/global.css` |
 | Site shell | Compact sticky header with brand, domain navigation, browse navigation, AI surface link, Pagefind trigger, theme toggle, language switcher, skip link and footer. | `site/src/layouts/Base.astro` |
-| Home page | Reader entry page, not a marketing landing page: first screen shows site identity, tagline, search, corpus stats, recent entries, domain map and AI/crawler links. | `site/src/pages/[lang]/index.astro` |
+| Home page | Reader entry page, not a marketing landing page: first screen is one sentence, search, and an edited start-here list. Corpus stats, domain map, and AI/crawler links stay below the fold. | `site/src/pages/[lang]/index.astro` |
 | Domain navigation | Grouped domain maps and compact count-bearing domain cards/pills prioritize scanning over visual decoration. | `site/src/pages/[lang]/domains/**`, `site/src/i18n/domains.ts`, `site/src/i18n/groups.ts` |
 | Browse | Sticky filter, domain jump chips and multi-column scan lists support fast corpus inspection. | `site/src/pages/[lang]/browse/index.astro` |
 | Entry page | Three-column desktop reference layout: left domain rail, central article, right TOC; mobile collapses rails into a single reading column with inline TOC. | `site/src/layouts/EntryLayout.astro` |
@@ -38,7 +38,7 @@ Do not treat UI/UX documentation as a request to redesign the site. It is a cont
 
 | ID | Principle | Requirement |
 |---|---|---|
-| UXP-001 | Reference before decoration | The first screen should expose search, domain navigation, and current corpus shape. It must not become a brand hero or marketing funnel. |
+| UXP-001 | Reference before decoration | The first screen should expose one sentence of what FinWiki is, search, and a short edited start-here list. It must not become a brand hero, marketing funnel, or a dump of the full corpus catalog. |
 | UXP-002 | Japanese readability first | Japanese routes and labels must be natural Japanese unless the visible term is a brand, ticker, protocol, law acronym, product name, or source title. |
 | UXP-003 | Dense but calm | Financial readers need scan efficiency. Prefer compact tables, rails, chips, breadcrumbs, and grouped lists over large cards or narrative marketing blocks. |
 | UXP-004 | Provenance is visible | Source counts, confidence, review dates, machine-translation badges, and original-language links are product features, not footnotes to hide. |
