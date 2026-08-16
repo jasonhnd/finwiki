@@ -158,18 +158,29 @@ function truncateExcerpt(value, maxLength) {
   return `${clean.slice(0, maxLength).replace(/[\s、。，,.。:：;；-]+$/g, '')}...`;
 }
 
-export function resolveEntryLead(lang, route, maxLength = 190) {
-  const safeLang = LANGS.includes(lang) ? lang : 'ja';
-  const normalized = routePath(route);
-  const cacheKey = `${safeLang}:${normalized}:${maxLength}`;
-  if (leadCache.has(cacheKey)) return leadCache.get(cacheKey);
+const POSITIONING_LEAD =
+  /sits under|this entry sits|read it against|read it with|read it as|この項目は|本項目は|本項は|配下に|あわせて読む|併せて読む|wiki route/i;
 
-  const body = stripFrontmatter(readMarkdownForRoute(safeLang, normalized));
-  const paragraphs = [];
+function isPositioningLead(text) {
+  const clean = cleanExcerpt(text);
+  if (!clean) return true;
+  return POSITIONING_LEAD.test(clean) || /\bINDEX\b/.test(clean);
+}
+
+function collectParagraphs(body) {
+  const sections = [];
+  let heading = '';
   let current = [];
   let inFence = false;
 
-  for (const line of body.split(/\r?\n/)) {
+  const flush = () => {
+    if (current.length) {
+      sections.push({ heading, text: current.join(' ') });
+      current = [];
+    }
+  };
+
+  for (const line of String(body ?? '').split(/\r?\n/)) {
     const stripped = line.trim();
     if (stripped.startsWith('```')) {
       inFence = !inFence;
@@ -177,19 +188,39 @@ export function resolveEntryLead(lang, route, maxLength = 190) {
     }
     if (inFence) continue;
     if (!stripped) {
-      if (current.length) {
-        paragraphs.push(current.join(' '));
-        current = [];
-      }
+      flush();
       continue;
     }
-    if (/^[#|>\-*<]/.test(stripped)) continue;
+    if (/^#{1,6}\s/.test(stripped)) {
+      flush();
+      heading = stripped.replace(/^#{1,6}\s+/, '');
+      continue;
+    }
+    if (/^[|>\-*<]/.test(stripped)) continue;
     current.push(stripped);
   }
+  flush();
+  return sections;
+}
 
-  if (current.length) paragraphs.push(current.join(' '));
+function pickLead(sections, maxLength) {
+  const preferred = sections.filter((section) => /^(tl;?dr|要約|summary)\b/i.test(section.heading));
+  const pool = preferred.length ? preferred : sections;
+  return (
+    pool
+      .map((section) => truncateExcerpt(section.text, maxLength))
+      .find((paragraph) => paragraph.length >= 32 && !isPositioningLead(paragraph)) || ''
+  );
+}
 
-  const lead = paragraphs.map((paragraph) => truncateExcerpt(paragraph, maxLength)).find((paragraph) => paragraph.length >= 32) || '';
+export function resolveEntryLead(lang, route, maxLength = 190) {
+  const safeLang = LANGS.includes(lang) ? lang : 'ja';
+  const normalized = routePath(route);
+  const cacheKey = `${safeLang}:${normalized}:${maxLength}`;
+  if (leadCache.has(cacheKey)) return leadCache.get(cacheKey);
+
+  const body = stripFrontmatter(readMarkdownForRoute(safeLang, normalized));
+  const lead = pickLead(collectParagraphs(body), maxLength);
   leadCache.set(cacheKey, lead);
   return lead;
 }
