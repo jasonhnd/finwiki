@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-08-16T00:20:50+09:00",
+  "generated_at": "2026-08-16T18:21:59+09:00",
   "counts": {
     "markdown_files": 1615,
     "public_markdown_pages": 1614,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1489,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 11203776,
-    "word_like_tokens": 1806866,
+    "nonspace_utf8_chars": 11205681,
+    "word_like_tokens": 1807215,
     "entity_anchors": 13,
     "entity_mirror_pages": 13,
     "entity_nodes": 103,
@@ -3396,11 +3396,11 @@
         "日本語",
         "English",
         "中文",
-        "2026-08-16 - Entity deepening batch 03 (#296)",
+        "2026-08-16 - Roadmap current season: UIUX / Content (#300)",
         "日本語",
         "English",
         "中文",
-        "2026-08-15 - Entity deepening batch 03 spec (#296)"
+        "2026-08-16 - Entity deepening batch 03 (#296)"
       ],
       "wikilinks": [],
       "resolved_wikilinks": [],
@@ -3409,8 +3409,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 294943,
-      "word_like_tokens": 54275,
+      "nonspace_chars": 296848,
+      "word_like_tokens": 54624,
       "last_modified": "2026-08-16"
     },
     {
