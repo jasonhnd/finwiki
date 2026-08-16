@@ -1,7 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
 import { getCollection } from 'astro:content';
-import { t, u, langCodes, type Lang } from '../../i18n/ui';
+import { t, u, langCodes, homeStartHere, type Lang } from '../../i18n/ui';
 import { domainDescription, domainName } from '../../i18n/domains';
 import { domainGroups, groupDescription, groupName } from '../../i18n/groups';
 import { entryDomain, entryRoute, i18nEntryId } from '../../lib/routes';
@@ -53,19 +53,25 @@ const latestReviewed = [...all]
   .sort((a, b) => isoDate(b.data.last_updated).localeCompare(isoDate(a.data.last_updated)))
   .slice(0, 6);
 
-const canonicalRouteIds = [
-  'banking/japan-banking-license-tier-comparison-matrix',
-  'payments/japan-payment-clearing-and-settlement-infrastructure',
-  'securities/japan-market-infrastructure-map',
-  'exchanges/jp-vasp-regulatory-timeline',
-  'financial-regulators/fsa',
-  'insurance/global-solvency-framework-comparison-matrix',
-];
-
-const canonicalRoutes = canonicalRouteIds
-  .map((route) => entryByRoute.get(route))
-  .filter((entry): entry is (typeof all)[number] => Boolean(entry));
-const showCanonicalRoutes = canonicalRoutes.length === canonicalRouteIds.length;
+const startHereItems = homeStartHere.flatMap((item) => {
+  const note = t(lang, item.noteKey);
+  if (item.id === 'allDomains') {
+    return [{ href: u(lang, item.path), kicker: t(lang, 'nav.domains'), title: t(lang, 'home.viewAllDomains'), note }];
+  }
+  if (item.id === 'megabanks') {
+    if (!counts.has('megabanks')) return [];
+    return [{ href: u(lang, item.path), kicker: t(lang, 'nav.domains'), title: domainName('megabanks', lang), note }];
+  }
+  const route = item.path.replace(/\/$/, '');
+  const entry = entryByRoute.get(route);
+  if (!entry) return [];
+  return [{
+    href: u(lang, `${route}/`),
+    kicker: domainName(entryDomain(entry), lang),
+    title: titleFor(entry),
+    note,
+  }];
+});
 
 const entryCount = all.length;
 const domainCount = counts.size;
@@ -75,13 +81,38 @@ const translatedCount = translations.filter((e) => e.id.startsWith(`${lang}/`)).
   <section class="home-hero container">
     <p class="eyebrow">FinWiki</p>
     <h1 class="home-hero__title">{t(lang, 'home.headline')}</h1>
-    <p class="lead home-hero__deck">{t(lang, 'home.deck')}</p>
 
     <div class="home-search" aria-label={t(lang, 'home.searchKicker')}>
       <span class="home-search__label">{t(lang, 'home.searchKicker')}</span>
       <pagefind-modal-trigger class="pf-hero" placeholder={t(lang, 'home.searchPlaceholder')} shortcut="mod+k"></pagefind-modal-trigger>
     </div>
 
+    {startHereItems.length > 0 && (
+      <div class="start-here-wrap">
+        <p class="eyebrow">{t(lang, 'home.startHere')}</p>
+        <ol class="start-here">
+          {startHereItems.map((item) => (
+            <li class="start-here__item">
+              <a href={item.href}>
+                <span class="start-here__kicker">{item.kicker}</span>
+                <span class="start-here__title">{item.title}</span>
+                <span class="start-here__note">{item.note}</span>
+              </a>
+            </li>
+          ))}
+        </ol>
+      </div>
+    )}
+  </section>
+
+  <section class="container home-block home-catalog" aria-label={t(lang, 'home.catalog')}>
+    <div class="home-block__head">
+      <div>
+        <p class="eyebrow">{t(lang, 'home.catalog')}</p>
+        <h2 class="section-title">{t(lang, 'home.corpusProof')}</h2>
+      </div>
+      <p class="muted home-block__note">{t(lang, 'home.catalogNote')}</p>
+    </div>
     <div class="home-proof" aria-label={t(lang, 'home.corpusProof')}>
       <span><b>{entryCount.toLocaleString('en-US')}</b> {t(lang, 'domain.entries')}</span>
       <span><b>{domainCount}</b> {t(lang, 'nav.domains')}</span>
@@ -111,31 +142,6 @@ const translatedCount = translations.filter((e) => e.id.startsWith(`${lang}/`)).
       })}
     </div>
   </section>
-
-  {showCanonicalRoutes && (
-    <section class="container home-block">
-      <div class="home-block__head">
-        <div>
-          <p class="eyebrow">{t(lang, 'home.canonicalRoutesKicker')}</p>
-          <h2 class="section-title">{t(lang, 'home.canonicalRoutes')}</h2>
-        </div>
-        <p class="muted home-block__note">{t(lang, 'home.canonicalRoutesNote')}</p>
-      </div>
-      <div class="canonical-strip">
-        {canonicalRoutes.map((entry) => {
-          const route = entryRoute(entry);
-          const domain = entryDomain(entry);
-          return (
-            <a class="canonical-route" href={u(lang, `${route}/`)}>
-              <span class="canonical-route__domain">{domainName(domain, lang)}</span>
-              <span class="canonical-route__title">{titleFor(entry)}</span>
-              <code>{route}</code>
-            </a>
-          );
-        })}
-      </div>
-    </section>
-  )}
 
   <section class="container home-block">
     <div class="home-block__head">
@@ -236,16 +242,12 @@ const translatedCount = translations.filter((e) => e.id.startsWith(`${lang}/`)).
   }
   .home-hero__title {
     max-width: 18ch;
-    margin: 0 0 1rem;
+    margin: 0;
     font-size: var(--fs-2xl);
     line-height: 1.08;
   }
   html[lang="en"] .home-hero__title {
-    max-width: 20ch;
-  }
-  .home-hero__deck {
-    margin: 0;
-    max-width: var(--measure-lead);
+    max-width: 22ch;
   }
   .home-search {
     display: grid;
@@ -265,11 +267,54 @@ const translatedCount = translations.filter((e) => e.id.startsWith(`${lang}/`)).
     display: block;
     --pagefind-ui-scale: 1.05;
   }
+  .start-here-wrap {
+    margin-top: 1.8rem;
+    max-width: 40rem;
+  }
+  .start-here-wrap .eyebrow {
+    margin-bottom: 0.65rem;
+  }
+  .start-here {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    border-top: 1px solid var(--line);
+  }
+  .start-here__item a {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: 0.15rem;
+    padding: 0.72rem 0;
+    border-bottom: 1px solid var(--line);
+    color: var(--ink);
+    text-decoration: none;
+  }
+  .start-here__item a:hover .start-here__title {
+    color: var(--accent-2);
+  }
+  .start-here__kicker {
+    color: var(--accent);
+    font-size: var(--fs-xs);
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+  .start-here__title {
+    font-family: var(--font-display);
+    font-size: var(--fs-md);
+    line-height: 1.25;
+    overflow-wrap: anywhere;
+  }
+  .start-here__note {
+    color: var(--muted);
+    font-size: var(--fs-sm);
+    line-height: 1.45;
+  }
+
   .home-proof {
     display: flex;
     flex-wrap: wrap;
     gap: 0.75rem 1.4rem;
-    margin-top: 1.3rem;
     color: var(--muted);
     font-size: var(--fs-sm);
   }
@@ -308,8 +353,7 @@ const translatedCount = translations.filter((e) => e.id.startsWith(`${lang}/`)).
     flex-wrap: wrap;
   }
 
-  .review-strip,
-  .canonical-strip {
+  .review-strip {
     display: grid;
     grid-template-columns: repeat(3, minmax(0, 1fr));
     gap: 1px;
@@ -317,8 +361,7 @@ const translatedCount = translations.filter((e) => e.id.startsWith(`${lang}/`)).
     border-top: 1px solid var(--line);
     border-bottom: 1px solid var(--line);
   }
-  .review-card,
-  .canonical-route {
+  .review-card {
     display: grid;
     align-content: start;
     gap: 0.35rem;
@@ -329,20 +372,17 @@ const translatedCount = translations.filter((e) => e.id.startsWith(`${lang}/`)).
     color: var(--ink);
     text-decoration: none;
   }
-  .review-card:hover,
-  .canonical-route:hover {
+  .review-card:hover {
     background: var(--surface);
   }
-  .review-card__domain,
-  .canonical-route__domain {
+  .review-card__domain {
     color: var(--accent);
     font-size: var(--fs-xs);
     font-weight: 700;
     letter-spacing: 0.05em;
     text-transform: uppercase;
   }
-  .review-card__title,
-  .canonical-route__title {
+  .review-card__title {
     color: var(--ink);
     font-family: var(--font-display);
     font-size: var(--fs-md);
@@ -353,14 +393,6 @@ const translatedCount = translations.filter((e) => e.id.startsWith(`${lang}/`)).
     margin-top: auto;
     color: var(--muted);
     font-size: var(--fs-xs);
-  }
-  .canonical-route code {
-    margin-top: auto;
-    color: var(--muted);
-    font-family: var(--font-mono);
-    font-size: 0.72rem;
-    line-height: 1.45;
-    overflow-wrap: anywhere;
   }
 
   .taxonomy-grid {
@@ -551,7 +583,6 @@ const translatedCount = translations.filter((e) => e.id.startsWith(`${lang}/`)).
 
   @media (max-width: 940px) {
     .review-strip,
-    .canonical-strip,
     .taxonomy-grid,
     .anchor-grid {
       grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -562,7 +593,6 @@ const translatedCount = translations.filter((e) => e.id.startsWith(`${lang}/`)).
   }
   @media (max-width: 620px) {
     .review-strip,
-    .canonical-strip,
     .taxonomy-grid,
     .anchor-grid {
       grid-template-columns: 1fr;
