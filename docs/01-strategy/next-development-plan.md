@@ -1,6 +1,6 @@
 # Next Development Plan
 
-> Completed historical implementation plan derived from the 2026-06-08 documentation rebuild and [Code/Docs Alignment Audit](../07-quality/code-doc-alignment-audit.md). The tooling, i18n, operations, and bounded-content packets below were delivered through their linked issues. This file is retained for design evidence, not current work authorization; use [GitHub open issues](https://github.com/jasonhnd/finwiki/issues?q=is%3Aissue%20state%3Aopen) for live intake.
+> Completed historical implementation plan derived from the 2026-06-08 documentation rebuild and [Code/Docs Alignment Audit](../07-quality/code-doc-alignment-audit.md). The tooling, i18n, operations, and bounded-content packets below were delivered through their linked issues. This file is retained for design evidence, not current work authorization. Current season and live rules are in [Roadmap](roadmap.md). Use [GitHub open issues](https://github.com/jasonhnd/finwiki/issues?q=is%3Aissue%20state%3Aopen) for live intake.
 
 ## Planning Principle
 
