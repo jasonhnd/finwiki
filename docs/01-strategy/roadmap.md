@@ -1,108 +1,94 @@
 # FinWiki Roadmap
 
-> Refreshed 2026-07-28 JST. The Issue #71 planning baseline, Issue #72 triage, remediation batches, recurring runner, and scheduled audit workflow have shipped. This file records the durable operating model and completed roadmap history; live work intake comes only from [GitHub open issues](https://github.com/jasonhnd/finwiki/issues?q=is%3Aissue%20state%3Aopen).
+> Refreshed 2026-08-16 JST. Live work intake comes only from [GitHub open issues](https://github.com/jasonhnd/finwiki/issues?q=is%3Aissue+state%3Aopen). This file is the current-season control document. [Next Development Plan](next-development-plan.md) is historical evidence, not authorization.
 
-## Roadmap Spine
+## Current season
 
-FinWiki should move from one-time cleanup rounds to a recurring evidence loop:
+The human site already has enough corpus to read. The next season is **UIUX**, not content expansion.
 
-1. Run deterministic audits on a fixed cadence.
-2. Triage only the rows that cross a signal threshold.
-3. Open bounded remediation issues with explicit Allowed Files.
-4. Fix the smallest coherent corpus batch.
-5. Re-run the audits and update this roadmap when the queue shape changes.
+- **UIUX** is the main line: change how a person moves through the site.
+- **Content** is maintenance only: keep the corpus true. Do not open new domains, large page batches, or default entity deepening while this season is open.
 
-The detailed audit cadence is defined in [Recurring Audit Cadence Design](../04-architecture/recurring-audit-cadence.md).
+One issue walks one track. A `site/` change is UIUX. A wiki body or frontmatter change is Content. Do not mix them.
 
-## Current Baseline
+## Track: UIUX (active)
 
-The quality foundation now has three read-only audit families:
+Goal: the site should guide a first-time reader, not present a file catalog.
 
-| Audit | Current role | Roadmap role |
+Page order is fixed. One page type per issue:
+
+1. Home (`/` and `/{lang}/`)
+2. Domain (`/{lang}/domains/{domain}/`)
+3. Entry (`/{lang}/{domain}/{slug}/`)
+
+Browse and search stay as they are until those three pages pass.
+
+### Season acceptance
+
+A new reader can open `/ja/` → megabanks → MUFG and, at each step, know what this place is and what to read next. The path must not feel like a file cabinet.
+
+Home passes only when:
+
+- the first screen is: one sentence of what FinWiki is, search, and at most 5–7 edited “start here” links;
+- the full 40-domain map, latest-touched pages, same-entity pairs, and AI/crawler links are not in the first screen;
+- “start here” is editorial (banking regime, megabanks, payments, FSA), not “recently touched files”.
+
+Domain pages pass only when:
+
+- megabanks “read first” is MUFG / SMFG / Mizuho, not a scoring accident such as au-FH;
+- list excerpts are the entry lead, not “this item sits under the INDEX”;
+- route slugs do not compete with the title.
+
+Entry pages pass only when:
+
+- title and summary lead; “wiki position” is not chapter one;
+- article-end “read next” uses readable leads, not maintainer voice;
+- tables, timelines, and sources keep current density. No marketing cards.
+
+### UIUX non-goals
+
+- no marketing hero
+- no quality traffic lights or freshness badges
+- no maintainer / audit dashboard
+- no typed `entity_edges` relationship panel in this season
+- no wiki body edits “to make the page look better”
+
+The first UIUX issue is [#301](https://github.com/jasonhnd/finwiki/issues/301) (home first screen). Do not open the domain-page issue until #301 is closed.
+
+## Track: Content (maintenance)
+
+Content work is allowed only when:
+
+- an audit threshold trips (conflict, Tier-1 `needs_review`, overdue freshness); or
+- a named public fact on an existing page is wrong.
+
+Otherwise the content queue stays empty. Empty issues plus green audits do not authorize a new entity batch or a new domain.
+
+Entity-node / typed-edge work is Content. It may later feed an entry-page relationship panel, but that panel is a later UIUX issue and is out of this season.
+
+New domains or large page batches stay behind the paused Horizon 4 rules: the maintenance loop must be able to absorb them, and this UIUX season must be closed first.
+
+The detailed audit cadence remains [Recurring Audit Cadence Design](../04-architecture/recurring-audit-cadence.md).
+
+## Issue shape
+
+- Title prefix: `UIUX:` or `Content:`.
+- UIUX allowed files: named paths under `site/src/**`, plus UI copy in `site/src/i18n/**` if labels change. Spec and visual QA docs only when the contract changes.
+- Content allowed files: the named wiki pages in the issue.
+- Validation for UIUX: `bun run verify --out _site` and visual QA on ja/en at 375 / 768 / 1440 for every page type touched.
+- Validation for Content: the existing audit / release gates named in the issue.
+
+## Closed history (Horizons 0–4)
+
+These horizons are closed or paused. They remain as history so older specs can still name them.
+
+| Horizon | Status | Note |
 |---|---|---|
-| Factual consistency | Finds likely cross-page conflicts in repeated public facts. | Keep conflicts at zero or near-zero through regular triage, then fix packets. |
-| Provenance completeness | Finds factual claim blocks with weak local source markers. | Keep `needs_review` actionable and low; use warnings as planning signal, not release noise. |
-| Fact freshness | Finds pages due for public-source re-verification. | Convert large one-time freshness queues into steady weekly maintenance. |
-
-Round 2 freshness triage (#72) and its bounded remediation batches established the ranking model. The implemented runner and scheduled workflow now produce current queue evidence; this document does not copy that live queue.
-
-## Cadence Operating Model
-
-Cadence should be cheap by default and strict only where it has a high signal-to-noise ratio.
-
-| Trigger | What runs | What happens next |
-|---|---|---|
-| Every 5 merged corpus/tooling PRs | Consistency, provenance, freshness JSON reports. | Compare counts to thresholds and open a triage issue only if thresholds trip. |
-| Weekly maintenance window | Full read-only audit sweep. | Store command output in the issue body or report doc; create remediation packets only for actionable rows. |
-| Before large corpus expansion | Full audit sweep plus targeted domain check. | Expansion waits if Tier-1 conflicts or missing-source rows are above threshold. |
-| After each remediation batch | Re-run the affected audit and release gate. | If false positives remain, document them before opening the next batch. |
-
-The steady-state target is not "zero warnings." The target is:
-
-- `severity=conflict` consistency rows are zero before broad content expansion.
-- provenance `needs_review` rows are zero for Tier-1 / canonical / high-inlink pages, with warning rows used as queue fuel.
-- freshness queues are below the agreed weekly capacity, with no Tier-1 `review_by` overdue rows.
-
-## Horizon 0: Institutionalize Truthfulness Maintenance (completed)
-
-Delivered baseline:
-
-| Priority | Delivered work | Outcome |
-|---|---|---|
-| H0.1 | Recurring audit cadence design (#71). | Maintainers have one documented loop for when audits run, how thresholds open issues, and how false positives are handled. |
-| H0.2 | Round 2 freshness triage (#72). | The freshness queue was ranked by importance x staleness and split into execution batches. |
-| H0.3 | Freshness remediation batches. | High-signal pages received public-source rechecks through bounded packets with exact Allowed Files and validation. |
-| H0.4 | Recurring audit automation (#76, #132). | Read-only JSON artifacts and scheduled threshold reports are implemented without automatic content edits. |
-
-Checkpoint: after each freshness batch, update this roadmap if the score formula, batch size, or threshold needs to change.
-
-## Horizon 1: Make Audit Results Drive Work Intake
-
-Timeframe: after Round 2 freshness triage begins producing remediation PRs.
-
-| Workstream | Sequence | Notes |
-|---|---|---|
-| Consistency | Run report, triage conflicts, fix only confirmed public-fact conflicts. | Keep date-label false positives out of execution packets by documenting them in triage. |
-| Provenance | Run report, fix `needs_review` rows before broad warning cleanup. | Prefer row-level markers or table lead-source sentences; do not add decorative sources. |
-| Freshness | Finish Round 2 batches, then switch to weekly top-off maintenance. | Recheck public sources only for selected rows, not the whole corpus every time. |
-| Release gate | Keep the audits read-only until the baseline is stable. | A hard gate should be introduced only after false positives are calibrated and thresholds are agreed. |
-
-Checkpoint: every audit cycle should record queue counts, top domains, false-positive count, and the next issue packet. If those signals shift materially, update this roadmap before creating broad new work.
-
-## Horizon 2: Resume Entity Deepening Around The Audit Spine
-
-Entity graph work established by #26 and follow-ups remains governed by the truthfulness loop so new entity facts do not expand unchecked maintenance debt. Any further packet must originate in the live issue tracker.
-
-Recommended order:
-
-1. Finish high-signal freshness remediation for Tier-1 and high-inlink pages.
-2. Expand entity metadata and typed edges only in domains that have low unresolved consistency/provenance risk.
-3. Prefer frontmatter-only entity-node work before body changes when the public-source fact does not need prose updates.
-4. Require every typed edge batch to pass entity audit, wikilink audit, release check, and the relevant truthfulness report.
-
-Entity deepening should make audits cheaper over time by improving entity scoping, not create a second unsourced relationship corpus.
-
-## Horizon 3: Human Site UX After Data Confidence
-
-The human-site baseline delivered from #23 and later UI issues uses the audit spine as a readiness check. Any further UI issue must continue to:
-
-- Do not surface relationship panels, quality badges, or freshness labels before the data behind them is maintained.
-- Start with compact read surfaces that expose current content maps and reliable entity relationships.
-- Add visible quality metadata only if it helps readers understand source state without turning the site into an internal operations dashboard.
-
-Checkpoint: before each human-site milestone, run the three audits and document whether the UI will surface data that is still in remediation.
-
-## Horizon 4: Scope Expansion Under Maintenance Capacity
-
-New coverage should be admitted only when the maintenance loop can absorb it.
-
-Admission rules:
-
-- A new domain or large batch must declare source families, expected freshness class, and likely provenance burden before content work starts.
-- High-volatility domains should ship with shorter review cadences and smaller batches.
-- Expansion should pause when recurring audits show sustained backlog growth across two cycles.
-
-This keeps range expansion tied to the wiki's ability to remain true, sourced, and current.
+| H0 Truthfulness maintenance | closed | Cadence, runner, and weekly loop remain the Content operating model. |
+| H1 Audit-driven intake | operating loop, not a deliverable | Green audits produce no issue. |
+| H2 Entity deepening | paused for this season | Batches 01–03 shipped. Further batches need a Content issue after this season, not a default next step. |
+| H3 Compact read surface | compact subset shipped (#287) | Full catalog-on-home was the wrong first-screen outcome; this season replaces that reading path. |
+| H4 Scope expansion | paused | Still gated on maintenance capacity and on this season closing. |
 
 ## Historical Delivered Packet Shapes
 
@@ -139,12 +125,11 @@ The following packet shapes are retained as implementation history and reusable 
 
 ## Roadmap Review Triggers
 
-Update this roadmap when any of the following happens:
+Update this file when:
 
-- a remediation batch changes audit thresholds or false-positive policy;
-- a weekly audit cycle shows backlog growth for two cycles in a row;
-- entity graph scope expands beyond current Tier-1 / Japan-core anchors;
-- human-site work begins surfacing entity or quality metadata;
-- a new domain category would materially change freshness or provenance workload.
+- the UIUX season closes or the page order changes;
+- a Content audit cycle grows backlog for two weeks;
+- a UI issue would surface entity edges or quality badges;
+- a new domain would change freshness or provenance load.
 
-The roadmap is therefore a living control document, but changes should remain issue-scoped and tied to validation evidence.
+Do not update this file to invent work when the issue queue is empty and audits are green.

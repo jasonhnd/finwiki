@@ -26,6 +26,29 @@
 - 每条记录应尽可能包含 JST 时间、背景、范围、主要文件或目录、执行步骤、验证结果与后续事项。
 - 本仓库正文只允许使用互联网公开信息、官方资料、公开披露或基于公开来源的分析。
 
+## 2026-08-16 - Roadmap current season: UIUX / Content (#300)
+
+### 日本語
+
+- **2026-08-16 18:25 JST / 背景:** 監査は緑で、corpus は読める量がある。次の段階は内容拡充ではなく、人が読むサイトの導線。Horizon 0–4 の「次は何か」叙述を、UIUX 主線 / Content 保守の二線に置き換える。
+- **範囲 / 主要ファイル:** `docs/01-strategy/roadmap.md`、`docs/01-strategy/next-development-plan.md`、`docs/README.md`、`docs/02-product/japanese-finance-coverage-gap-map.md`、`docs/07-quality/documentation-drift-audit.md`。サイトコードと wiki 本文は変更しない。
+- **実行手順:** 現行季節を UIUX（home → domain → entry）と明記。Content は閾値越えか既存頁の公開事実修正だけ。Horizon 0–4 は閉/停止の履歴として残す。続きの実装は #301（ホーム第一画面）で、本 unit では開かない。
+- **検証結果 / 残タスク:** `bun run docs:audit` と `git diff --check`。残タスクは #300 close、#301 のホーム契約 delta。
+
+### English
+
+- **2026-08-16 18:25 JST / Background:** Audits are green and the corpus is large enough to read. The next season is the human reading path, not content expansion. Replace the Horizon 0–4 “what is next” narrative with two tracks: UIUX main line, Content maintenance.
+- **Scope / Primary files:** `docs/01-strategy/roadmap.md`, `docs/01-strategy/next-development-plan.md`, `docs/README.md`, `docs/02-product/japanese-finance-coverage-gap-map.md`, `docs/07-quality/documentation-drift-audit.md`. No site code and no wiki body.
+- **Steps:** State the current season as UIUX (home → domain → entry). Allow Content only when an audit threshold trips or a named public fact on an existing page is wrong. Keep Horizons 0–4 as closed/paused history. Homepage implementation stays in #301.
+- **Validation / Follow-up:** `bun run docs:audit` and `git diff --check`. Remaining: close #300; spec the #301 home-contract delta.
+
+### 中文
+
+- **2026-08-16 18:25 JST / 背景:** 审计已绿，corpus 已够读。下一阶段是人读站点的导读，不是扩内容。用 UIUX 主线 / Content 维护两线替换 Horizon 0–4 的「下一步」叙述。
+- **范围 / 主要文件:** `docs/01-strategy/roadmap.md`、`docs/01-strategy/next-development-plan.md`、`docs/README.md`、`docs/02-product/japanese-finance-coverage-gap-map.md`、`docs/07-quality/documentation-drift-audit.md`。不改站点代码和 wiki 正文。
+- **执行步骤:** 写明当前季节为 UIUX（首页 → 领域页 → 条目页）。Content 仅在审计越阈值或既有页公开事实错误时才做。Horizon 0–4 留作关闭/暂停历史。首页实现仍在 #301。
+- **验证 / 后续:** `bun run docs:audit` 与 `git diff --check`。后续关闭 #300，并写 #301 首页合同 delta。
+
 ## 2026-08-16 - Entity deepening batch 03 (#296)
 
 ### 日本語

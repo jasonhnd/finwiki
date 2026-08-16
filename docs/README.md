@@ -6,7 +6,7 @@
 
 | 需求 | 先读 | 再读 |
 |---|---|---|
-| 判断为什么做 | [BRD](01-strategy/brd.md) | [Next Development Plan](01-strategy/next-development-plan.md), [Roadmap](01-strategy/roadmap.md), [Backlog](01-strategy/backlog.md) |
+| 判断为什么做 | [BRD](01-strategy/brd.md) | [Roadmap](01-strategy/roadmap.md) (current season), [Next Development Plan](01-strategy/next-development-plan.md) (historical), [Backlog](01-strategy/backlog.md) |
 | 判断要做什么 | [PRD](02-product/prd.md) | [Information Architecture](02-product/information-architecture.md), [User Journeys](02-product/user-journeys.md), [UI/UX Principles](02-product/ui-ux-principles.md) |
 | 判断约束与验收 | [NFR](03-requirements/nfr.md), [RTM](03-requirements/rtm.md) | [Documentation Drift Audit](07-quality/documentation-drift-audit.md), [Code/Docs Alignment Audit](07-quality/code-doc-alignment-audit.md), [Acceptance Criteria](07-quality/acceptance-criteria.md) |
 | 判断系统怎么组织 | [ARD](04-architecture/ard.md) | [System Architecture](04-architecture/system-architecture.md), [Astro Site Architecture](04-architecture/astro-site-architecture.md), [Theme System](04-architecture/theme-system.md) |
@@ -31,8 +31,8 @@
 | 文档 | 用途 |
 |---|---|
 | [BRD](01-strategy/brd.md) | 业务目标、目标用户、价值主张、成功指标、范围边界。 |
-| [Next Development Plan](01-strategy/next-development-plan.md) | 下一阶段开发顺序、任务包方向、验收标准。 |
-| [Roadmap](01-strategy/roadmap.md) | 已完成里程碑、近期重点、中长期方向。 |
+| [Next Development Plan](01-strategy/next-development-plan.md) | Historical 2026-06 implementation plan. Not live authorization. |
+| [Roadmap](01-strategy/roadmap.md) | Current season (UIUX main line, Content maintenance), closed Horizons 0–4, and review triggers. |
 | [Backlog](01-strategy/backlog.md) | 待办事项、优先级、状态、验收出口。 |
 | [Asset Management Register Gap Shortlist](01-strategy/asset-management-register-gap-shortlist.md) | 资产管理登记名录的公开来源缺口与候选补全顺序。 |
 
