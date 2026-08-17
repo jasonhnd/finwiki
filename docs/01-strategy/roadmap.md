@@ -21,7 +21,7 @@ Page order is fixed. One page type per issue:
 2. Domain (`/{lang}/domains/{domain}/`)
 3. Entry (`/{lang}/{domain}/{slug}/`)
 
-Browse and search stay as they are until those three pages pass.
+Browse, domain list, root, and search inherit the same typesetting once home / domain detail / entry pass. That remaining-surface pass is [#312](https://github.com/jasonhnd/finwiki/issues/312).
 
 ### Season acceptance
 
@@ -53,7 +53,7 @@ Entry pages pass only when:
 - no typed `entity_edges` relationship panel in this season
 - no wiki body edits “to make the page look better”
 
-Home first screen shipped in [#301](https://github.com/jasonhnd/finwiki/issues/301). Domain pages shipped in [#304](https://github.com/jasonhnd/finwiki/issues/304). Entry lead order shipped in [#306](https://github.com/jasonhnd/finwiki/issues/306). Japanese wrap shipped in [#308](https://github.com/jasonhnd/finwiki/issues/308). The current UIUX issue is [#310](https://github.com/jasonhnd/finwiki/issues/310) (typesetting / layout on the same three pages).
+Home first screen shipped in [#301](https://github.com/jasonhnd/finwiki/issues/301). Domain pages shipped in [#304](https://github.com/jasonhnd/finwiki/issues/304). Entry lead order shipped in [#306](https://github.com/jasonhnd/finwiki/issues/306). Japanese wrap shipped in [#308](https://github.com/jasonhnd/finwiki/issues/308). Reading-path layout shipped in [#310](https://github.com/jasonhnd/finwiki/issues/310). The current UIUX issue is [#312](https://github.com/jasonhnd/finwiki/issues/312) (browse, domain list, root, search).
 
 ## Track: Content (maintenance)
 

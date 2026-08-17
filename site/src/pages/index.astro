@@ -93,7 +93,7 @@ const startHereItems = homeStartHere.flatMap((item) => {
 
     <main class="site-main">
       <section class="root-masthead container">
-        <p class="eyebrow">{rootEditorial.kicker}</p>
+        <p class="eyebrow">{t('ja', 'site.subtitle')}</p>
         <h1 class="root-title">FinWiki</h1>
         <div class="root-decks" aria-label="FinWiki description">
           <p><span>JA</span>{rootEditorial.decks.ja}</p>
@@ -131,7 +131,7 @@ const startHereItems = homeStartHere.flatMap((item) => {
       <section class="container root-section">
         <div class="root-proof" aria-label="Corpus stats">
           <div>
-            <p class="eyebrow">Corpus proof</p>
+            <p class="eyebrow">{t('ja', 'home.corpusProof')}</p>
             <h2 class="section-title">公開スナップショット</h2>
           </div>
           <dl class="root-stats">
@@ -154,7 +154,7 @@ const startHereItems = homeStartHere.flatMap((item) => {
       <section class="container root-section">
         <div class="root-ai">
           <div>
-            <p class="eyebrow">Technical metadata</p>
+            <p class="eyebrow">{t('ja', 'home.aiTechLabel')}</p>
             <h2 class="section-title">AI・クローラー向け資料</h2>
             <p class="muted">人間向けの入口とは別に、同じ公開コーパスを機械可読ファイルから確認できます。</p>
           </div>
@@ -286,8 +286,15 @@ const startHereItems = homeStartHere.flatMap((item) => {
         list-style: none;
         margin: 0;
         padding: 0;
-        max-width: 40rem;
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 0 2.5rem;
         border-top: 1px solid var(--line);
+      }
+      @media (max-width: 720px) {
+        .start-here {
+          grid-template-columns: 1fr;
+        }
       }
       .start-here__item a {
         display: grid;
