@@ -6,6 +6,7 @@ import { domainName } from '../../../i18n/domains';
 import { compareEntryRoute, entryDomain, entryRoute, i18nEntryId } from '../../../lib/routes';
 import { isoDate } from '../../../lib/format';
 import { localizedEntryPreview } from '../../../lib/entryPreviewIndex.mjs';
+import { displayLabel, shortLead } from '../../../lib/domainReadFirst';
 import { localizedTitle } from '../../../lib/siteIndex.mjs';
 import { publishableTranslations } from '../../../lib/translations';
 import { buildCanonicalClusters, clusterForRoute } from '../../../layouts/canonicalAnchors';
@@ -49,10 +50,10 @@ const browseRecords = all
   .map((entry) => {
     const route = entryRoute(entry);
     const domain = entryDomain(entry);
-    const title = titleFor(entry);
+    const title = displayLabel(route, lang, titleFor(entry));
     const updated = isoDate(entry.data.last_updated);
     const preview = localizedEntryPreview(lang, route);
-    const lead = preview?.lead || title;
+    const lead = shortLead(preview?.lead || '');
     const cluster = clusterForRoute(sameEntityClusters, route);
     const counterpart = cluster?.members.find((member) => member.route !== route);
     const counterpartEntry = counterpart ? entryByRoute.get(counterpart.route) : undefined;
@@ -124,17 +125,16 @@ const browseRecords = all
           data-updated={record.updated}
           data-recommended-score={record.readFirstScore}
         >
-          <a class="browse-result__title" href={u(lang, `${record.route}/`)}>{record.title}</a>
-          <p class="browse-result__lead">{record.lead}</p>
+          <a class="browse-result__title" href={u(lang, `${record.route}/`)} title={record.route}>{record.title}</a>
+          {record.lead && <p class="browse-result__lead">{record.lead}</p>}
           <div class="browse-result__meta">
             <span>{record.domainTitle}</span>
             {record.sameEntity && (
               <a class="browse-result__entity" href={u(lang, `${record.sameEntity.route}/`)}>
-                {sameEntityLabel}: {record.sameEntity.title}
+                {sameEntityLabel}: {displayLabel(record.sameEntity.route, lang, record.sameEntity.title)}
               </a>
             )}
             {record.updated && <time datetime={record.updated}>{t(lang, 'entry.updated')} {record.updated}</time>}
-            <code class="browse-result__route">{record.route}</code>
           </div>
         </li>
       ))}
@@ -264,9 +264,14 @@ const browseRecords = all
     font-family: var(--font-display);
     font-size: var(--fs-md);
     font-weight: 600;
-    line-height: 1.24;
+    line-height: 1.4;
     text-decoration-color: var(--link-underline-rest);
-    overflow-wrap: anywhere;
+    overflow-wrap: break-word;
+    word-break: normal;
+    line-break: strict;
+  }
+  :global(html[lang="en"]) .browse-result__title {
+    line-break: auto;
   }
   .browse-result__title:hover,
   .browse-result__title:focus-visible {
@@ -275,10 +280,16 @@ const browseRecords = all
   }
   .browse-result__lead {
     margin: 0;
-    max-width: var(--measure-lead);
+    max-width: 40rem;
     color: var(--browse-excerpt);
     font-size: var(--fs-sm);
-    line-height: 1.55;
+    line-height: 1.65;
+    overflow-wrap: break-word;
+    word-break: normal;
+    line-break: strict;
+  }
+  :global(html[lang="en"]) .browse-result__lead {
+    line-break: auto;
   }
   .browse-result__meta {
     display: flex;
@@ -294,12 +305,6 @@ const browseRecords = all
   }
   .browse-result__entity:hover {
     text-decoration: underline;
-  }
-  .browse-result__route {
-    color: var(--browse-route);
-    font-family: var(--font-mono);
-    font-size: 0.72rem;
-    overflow-wrap: anywhere;
   }
   .browse__results.is-domain-sort .browse-result {
     padding-left: 0.85rem;

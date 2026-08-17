@@ -5,7 +5,7 @@ import { t, u, langCodes, type Lang } from '../../../../i18n/ui';
 import { domainDescription, domainName } from '../../../../i18n/domains';
 import { compareEntryRoute, entryDomain, entryRoute, i18nEntryId } from '../../../../lib/routes';
 import { localizedEntryPreview } from '../../../../lib/entryPreviewIndex.mjs';
-import { displayLabel, readFirstEntries, readFirstLabel } from '../../../../lib/domainReadFirst';
+import { displayLabel, readFirstEntries, readFirstLabel, shortLead } from '../../../../lib/domainReadFirst';
 import { localizedTitle } from '../../../../lib/siteIndex.mjs';
 import { publishableTranslations } from '../../../../lib/translations';
 import { buildCanonicalClusters, clustersInDomain } from '../../../../layouts/canonicalAnchors';
@@ -37,17 +37,6 @@ function titleFor(entry: (typeof entries)[number]): string {
 function titleForRoute(route: string): string {
   const entry = entryByRoute.get(route);
   return entry ? titleFor(entry) : route;
-}
-
-function shortLead(text: string): string {
-  const clean = String(text || '').trim();
-  if (!clean) return '';
-  const sentence = clean.match(/^[\s\S]{10,80}?[。．]/);
-  if (sentence) return sentence[0];
-  if (clean.length <= 64) return clean;
-  const slice = clean.slice(0, 64);
-  const pause = Math.max(slice.lastIndexOf('、'), slice.lastIndexOf('，'), slice.lastIndexOf(','));
-  return `${(pause > 20 ? slice.slice(0, pause) : slice).replace(/[\s、，,]+$/, '')}…`;
 }
 
 const sameEntityNote =

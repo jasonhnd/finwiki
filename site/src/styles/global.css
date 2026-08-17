@@ -1454,7 +1454,15 @@ html[lang="en"] .prose {
 .pagefind-ui__result-title {
   font-family: var(--font-display);
   font-size: 1.05rem;
-  line-height: 1.25;
+  line-height: 1.4;
+  overflow-wrap: normal;
+  word-break: keep-all;
+  line-break: strict;
+}
+html[lang="en"] .pagefind-ui__result-title {
+  word-break: normal;
+  line-break: auto;
+  overflow-wrap: break-word;
 }
 .pagefind-ui__result-title a {
   color: var(--ink);
