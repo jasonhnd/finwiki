@@ -159,7 +159,7 @@ function truncateExcerpt(value, maxLength) {
 }
 
 const POSITIONING_LEAD =
-  /sits under|this entry sits|read it against|read it with|read it as|この項目は|本項目は|本項は|配下に|あわせて読む|併せて読む|wiki route/i;
+  /sits under|this entry sits|this page is|read it against|read it with|read it as|この項目は|このページは|本項目は|本項は|配下に|配下の|あわせて読む|併せて読む|wiki route/i;
 
 function isPositioningLead(text) {
   const clean = cleanExcerpt(text);
