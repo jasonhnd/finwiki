@@ -16,10 +16,10 @@ Current baseline characteristics:
 |---|---|---|
 | Global visual system | Cool ledger-neutral surfaces, teal-blue action color, restrained support colors, serif display type, sans body type, compact radii and hairline structure. | `site/src/styles/global.css` |
 | Site shell | Compact sticky header with brand, domain navigation, browse navigation, AI surface link, Pagefind trigger, theme toggle, language switcher, skip link and footer. | `site/src/layouts/Base.astro` |
-| Home page | Reader entry page, not a marketing landing page: first screen is one sentence, search, and an edited start-here list. Corpus stats, domain map, and AI/crawler links stay below the fold. | `site/src/pages/[lang]/index.astro` |
-| Domain navigation | Grouped domain maps and compact count-bearing domain cards/pills prioritize scanning over visual decoration. | `site/src/pages/[lang]/domains/**`, `site/src/i18n/domains.ts`, `site/src/i18n/groups.ts` |
+| Home page | Reader entry page, not a marketing landing page: first screen is a two-column composition (headline + search facing an edited start-here list). Corpus stats, domain map, and AI/crawler links stay below the fold. | `site/src/pages/[lang]/index.astro` |
+| Domain navigation | Grouped domain maps and compact count-bearing domain cards/pills prioritize scanning over visual decoration. Domain detail is a single reading column: opener, numbered read-first, then the entry list. | `site/src/pages/[lang]/domains/**`, `site/src/i18n/domains.ts`, `site/src/i18n/groups.ts` |
 | Browse | Sticky filter, domain jump chips and multi-column scan lists support fast corpus inspection. | `site/src/pages/[lang]/browse/index.astro` |
-| Entry page | Three-column desktop reference layout: left domain rail, central article, right TOC; mobile collapses rails into a single reading column with inline TOC. | `site/src/layouts/EntryLayout.astro` |
+| Entry page | Three-column desktop reference layout: left domain rail, central article, right TOC; mobile collapses rails into a single reading column with inline TOC. H1 and 要約 / TL;DR lead. Evidence is one quiet line. Wiki-placement and tags sit after the article. | `site/src/layouts/EntryLayout.astro` |
 | Prose | Financial-reference Markdown supports headings, wikilinks, provenance marks, callouts/blockquotes, code and horizontally scrolling tables. | `.prose` rules in `site/src/styles/global.css` |
 | Localization chrome | Visible UI labels are centralized in `site/src/i18n/ui.ts` and should remain natural in Japanese and English. | `site/src/i18n/ui.ts` |
 

@@ -53,9 +53,19 @@ export default function satteriQuietWikiPlacement() {
     paragraph(node, ctx) {
       const parent = ctx.parent(node);
       if (parent?.type !== 'root') return;
+      const index = ctx.indexOf(node);
+      const prev = index > 0 ? parent.children[index - 1] : null;
+      const prevClass = prev?.data?.hProperties?.className;
+      const prevClasses = Array.isArray(prevClass) ? prevClass : prevClass ? [prevClass] : [];
       const text = textOf(node).replace(/\s+/g, ' ').trim();
-      if (!WIKI_LEAD.test(text)) return;
+      const followsKicker = prevClasses.includes('wiki-placement__kicker');
+      if (!followsKicker && !WIKI_LEAD.test(text)) return;
       withClass(node, 'wiki-placement__body');
+      ctx.replaceNode(node, {
+        type: 'paragraph',
+        children: node.children,
+        data: node.data,
+      });
     },
   };
 }

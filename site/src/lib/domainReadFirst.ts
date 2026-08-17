@@ -28,6 +28,18 @@ export function readFirstLabel(route: string, lang: 'ja' | 'en', fallback: strin
   return READ_FIRST_LABEL[route]?.[lang] ?? fallback;
 }
 
+export function compactTitle(title: string, lang: 'ja' | 'en'): string {
+  const trimmed = String(title || '').trim();
+  if (!trimmed) return trimmed;
+  if (lang !== 'ja') return trimmed;
+  const stripped = trimmed.replace(/\s*[\(（][^）)]+[\)）]\s*$/u, '').trim();
+  return stripped || trimmed;
+}
+
+export function displayLabel(route: string, lang: 'ja' | 'en', fallback: string): string {
+  return readFirstLabel(route, lang, compactTitle(fallback, lang));
+}
+
 const READ_FIRST_TERMS = [
   'overview',
   'map',
