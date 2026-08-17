@@ -490,25 +490,41 @@ hr {
 }
 
 @media (max-width: 720px) {
+  :root {
+    --header-h: 4.6rem;
+  }
   .site-header__inner {
-    gap: 0.6rem;
-    padding-inline: 0.65rem;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    grid-template-rows: auto auto;
+    align-items: center;
+    height: auto;
+    min-height: 0;
+    gap: 0.15rem 0.6rem;
+    padding: 0.4rem 0.75rem 0.3rem;
   }
   .brand {
+    grid-column: 1;
+    grid-row: 1;
     font-size: 1.16rem;
   }
-  .site-nav {
-    flex: 1 1 auto;
-    overflow-x: auto;
-    overscroll-behavior-x: contain;
-    scrollbar-width: none;
+  .header-tools {
+    grid-column: 2;
+    grid-row: 1;
   }
-  .site-nav::-webkit-scrollbar {
-    display: none;
+  .site-nav {
+    grid-column: 1 / -1;
+    grid-row: 2;
+    margin-right: 0;
+    overflow: visible;
+    gap: 0.95rem;
   }
   .site-nav a {
     flex: none;
     font-size: 0.82rem;
+  }
+  .site-nav a[href="/llms.txt"] {
+    display: none;
   }
   .header-tools {
     flex: none;
@@ -1077,13 +1093,34 @@ a.wl--system:focus-visible {
 
 /* ----- Editorial prose ----- */
 .prose {
+  display: flex;
+  flex-direction: column;
   min-width: 0;
   font-size: var(--fs-base);
   color: var(--ink);
-  overflow-wrap: anywhere;
+  overflow-wrap: break-word;
+  word-break: keep-all;
+  line-break: strict;
 }
-.prose a {
+.prose > * {
+  min-width: 0;
+  max-width: 100%;
+}
+.prose > .wiki-placement__kicker,
+.prose > .wiki-placement__body {
+  order: 50;
+}
+html[lang="en"] .prose {
+  word-break: normal;
+  line-break: auto;
+}
+.prose a,
+.prose code,
+.prose td,
+.prose th {
   overflow-wrap: anywhere;
+  word-break: break-word;
+  line-break: auto;
 }
 .prose strong {
   color: var(--strong-ink);
@@ -1093,7 +1130,9 @@ a.wl--system:focus-visible {
   margin-top: 0;
 }
 .prose .wiki-placement__kicker {
-  margin: 0 0 0.35rem;
+  margin: 2.6rem 0 0.35rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--line);
   color: var(--muted);
   font-family: var(--font-mono);
   font-size: var(--fs-xs);
@@ -1102,10 +1141,10 @@ a.wl--system:focus-visible {
   text-transform: uppercase;
 }
 .prose .wiki-placement__body {
-  margin: 0 0 1.4rem;
+  margin: 0 0 0.4rem;
   color: var(--muted);
   font-size: var(--fs-sm);
-  line-height: 1.55;
+  line-height: 1.65;
 }
 .prose p {
   margin: 0.9rem 0;

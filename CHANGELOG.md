@@ -26,6 +26,29 @@
 - 每条记录应尽可能包含 JST 时间、背景、范围、主要文件或目录、执行步骤、验证结果与后续事项。
 - 本仓库正文只允许使用互联网公开信息、官方资料、公开披露或基于公开来源的分析。
 
+## 2026-08-17 - UIUX: 読者経路の組版を直す (#310)
+
+### 日本語
+
+- **2026-08-17 14:30 JST / 背景:** #308 は語中折行を直したが、`pre` の版面はまだカタログだった。ホーム右半が空白、領域は三欄ダッシュボード、条目は要約の前にメタ・タグ・ウィキ位置づけが並ぶ。
+- **範囲 / 主要ファイル:** 日英ホーム、領域詳細、EntryLayout、quiet-wiki-placement、global.css、UI 文案、UI/UX 規格。wiki 本文は変更しない。
+- **実行手順:** ホーム第一画面を見出し+検索 | まず読むの二欄にする。領域は三欄をやめ、まず読むの番号リストと一欄の項目一覧にする。条目は H1 → 一行の根拠 → 要約。ウィキ位置づけとタグは本文の後。日本語本文は keep-all。同一主体の題から重複する英語括弧を外す。狭いヘッダーで「全項目」が欠けないよう AI ナビを隠す。
+- **検証結果 / 残タスク:** ja 375/1440 でホーム・メガバンク・MUFG を目視。残タスクは `pre` へ merge。`main` へは指示があるまで push しない。
+
+### English
+
+- **2026-08-17 14:30 JST / Background:** #308 fixed mid-word wrap, but `pre` still read as a catalog: empty home right half, 3-column domain dashboard, entry chrome above 要約.
+- **Scope / Primary files:** localized home, domain detail, EntryLayout, quiet-wiki-placement, global.css, UI copy, UI/UX contract. No wiki body.
+- **Steps:** Home first screen is headline+search facing start-here. Domain drops the 3-column brief. Entry is H1 → one evidence line → 要約; wiki-placement and tags move after the article. Japanese body uses keep-all. Same-entity titles drop duplicated English parentheticals. Hide the AI nav on narrow headers so 全項目 is not clipped.
+- **Validation / Follow-up:** Visual QA ja 375/1440 on home, megabanks, MUFG. Merge to `pre` only. Do not push `main`.
+
+### 中文
+
+- **2026-08-17 14:30 JST / 背景:** #308 修了词中折行，但 `pre` 版面仍是目录：首页右半空白、领域三栏仪表盘、条目在要約前堆元数据和维基定位。
+- **范围 / 主要文件:** 日英首页、领域页、EntryLayout、quiet-wiki-placement、global.css、UI 文案、UI/UX 规格。不改 wiki 正文。
+- **执行步骤:** 首页第一屏改成标题+搜索 | 先读 两栏。领域去掉三栏，改成编号先读和单栏条目表。条目是 H1 → 一行证据 → 要約；维基定位和标签放到正文后。日文正文 keep-all。同一主体标题去掉重复英文括号。窄屏隐藏 AI 导航，避免「全項目」被切字。
+- **验证 / 后续:** ja 375/1440 目视首页、メガバンク、MUFG。只合 `pre`。未指示不 push `main`。
+
 ## 2026-08-17 - UIUX: fix Japanese typesetting on home, domain, and entry (#308)
 
 ### 日本語
