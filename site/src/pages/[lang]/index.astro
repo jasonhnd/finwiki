@@ -9,6 +9,7 @@ import { isoDate } from '../../lib/format';
 import { localizedTitle } from '../../lib/siteIndex.mjs';
 import { publishableTranslations } from '../../lib/translations';
 import { buildCanonicalClusters } from '../../layouts/canonicalAnchors';
+import { displayLabel } from '../../lib/domainReadFirst';
 
 export function getStaticPaths() {
   return langCodes.map((lang) => ({ params: { lang } }));
@@ -43,7 +44,7 @@ const sameEntityClusters = buildCanonicalClusters(all).map((cluster) => ({
   ...cluster,
   members: cluster.members.map((member) => ({
     ...member,
-    title: titleForRoute(member.route),
+    title: displayLabel(member.route, lang, titleForRoute(member.route)),
     domainTitle: domainName(member.domain, lang),
   })),
 }));
@@ -80,12 +81,14 @@ const translatedCount = translations.filter((e) => e.id.startsWith(`${lang}/`)).
 ---
 <Base lang={lang} active="home">
   <section class="home-hero container">
-    <p class="eyebrow">FinWiki</p>
-    <h1 class="home-hero__title">{t(lang, 'home.headline')}</h1>
+    <div class="home-hero__intro">
+      <p class="eyebrow">FinWiki</p>
+      <h1 class="home-hero__title">{t(lang, 'home.headline')}</h1>
 
-    <div class="home-search" aria-label={t(lang, 'home.searchKicker')}>
-      <span class="home-search__label">{t(lang, 'home.searchKicker')}</span>
-      <pagefind-modal-trigger class="pf-hero" placeholder={t(lang, 'home.searchPlaceholder')} shortcut="mod+k"></pagefind-modal-trigger>
+      <div class="home-search" aria-label={t(lang, 'home.searchKicker')}>
+        <span class="home-search__label">{t(lang, 'home.searchKicker')}</span>
+        <pagefind-modal-trigger class="pf-hero" placeholder={t(lang, 'home.searchPlaceholder')} shortcut="mod+k"></pagefind-modal-trigger>
+      </div>
     </div>
 
     {startHereItems.length > 0 && (
@@ -136,7 +139,7 @@ const translatedCount = translations.filter((e) => e.id.startsWith(`${lang}/`)).
         return (
           <a class="review-card" href={u(lang, `${route}/`)}>
             <span class="review-card__domain">{domainName(domain, lang)}</span>
-            <span class="review-card__title">{titleFor(entry)}</span>
+            <span class="review-card__title">{displayLabel(route, lang, titleFor(entry))}</span>
             <span class="review-card__meta">{t(lang, 'entry.updated')} {isoDate(entry.data.last_updated)}</span>
           </a>
         );
@@ -200,7 +203,6 @@ const translatedCount = translations.filter((e) => e.id.startsWith(`${lang}/`)).
               <a class="anchor-card__canonical" href={u(lang, `${canonical.route}/`)}>
                 <span class="anchor-card__domain">{canonical.domainTitle}</span>
                 <span class="anchor-card__title">{canonical.title}</span>
-                <code>{canonical.route}</code>
               </a>
               <ul class="anchor-card__mirrors">
                 {mirrors.map((member) => (
@@ -238,11 +240,15 @@ const translatedCount = translations.filter((e) => e.id.startsWith(`${lang}/`)).
 
 <style>
   .home-hero {
+    display: grid;
+    grid-template-columns: minmax(16rem, 1.05fr) minmax(18rem, 0.95fr);
+    gap: clamp(2rem, 1.2rem + 3vw, 4.5rem);
+    align-items: start;
     padding-top: clamp(2.6rem, 1.6rem + 4vw, 5.6rem);
     padding-bottom: var(--sp-6);
   }
   .home-hero__title {
-    max-width: 22rem;
+    max-width: 14em;
     margin: 0;
     font-size: var(--fs-2xl);
     line-height: 1.25;
@@ -251,7 +257,7 @@ const translatedCount = translations.filter((e) => e.id.startsWith(`${lang}/`)).
     line-break: strict;
   }
   html[lang="en"] .home-hero__title {
-    max-width: 18rem;
+    max-width: 12em;
     word-break: normal;
     line-break: auto;
   }
@@ -274,8 +280,9 @@ const translatedCount = translations.filter((e) => e.id.startsWith(`${lang}/`)).
     --pagefind-ui-scale: 1.05;
   }
   .start-here-wrap {
-    margin-top: 1.8rem;
-    max-width: 40rem;
+    margin-top: 0;
+    max-width: none;
+    min-width: 0;
   }
   .start-here-wrap .eyebrow {
     margin-bottom: 0.65rem;
@@ -367,7 +374,7 @@ const translatedCount = translations.filter((e) => e.id.startsWith(`${lang}/`)).
 
   .review-strip {
     display: grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
+    grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 1px;
     background: var(--line);
     border-top: 1px solid var(--line);
@@ -398,8 +405,15 @@ const translatedCount = translations.filter((e) => e.id.startsWith(`${lang}/`)).
     color: var(--ink);
     font-family: var(--font-display);
     font-size: var(--fs-md);
-    line-height: 1.25;
-    overflow-wrap: anywhere;
+    line-height: 1.35;
+    overflow-wrap: normal;
+    word-break: keep-all;
+    line-break: strict;
+  }
+  html[lang="en"] .review-card__title {
+    word-break: normal;
+    line-break: auto;
+    overflow-wrap: break-word;
   }
   .review-card__meta {
     margin-top: auto;
@@ -409,8 +423,8 @@ const translatedCount = translations.filter((e) => e.id.startsWith(`${lang}/`)).
 
   .taxonomy-grid {
     display: grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 1.35rem 1.5rem;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.35rem 2rem;
   }
   .taxonomy-group {
     min-width: 0;
@@ -457,7 +471,14 @@ const translatedCount = translations.filter((e) => e.id.startsWith(`${lang}/`)).
   }
   .taxonomy-group__domains span {
     font-weight: 650;
-    overflow-wrap: anywhere;
+    overflow-wrap: normal;
+    word-break: keep-all;
+    line-break: strict;
+  }
+  html[lang="en"] .taxonomy-group__domains span {
+    word-break: normal;
+    line-break: auto;
+    overflow-wrap: break-word;
   }
   .taxonomy-group__domains small {
     grid-column: 1 / -1;
@@ -474,7 +495,7 @@ const translatedCount = translations.filter((e) => e.id.startsWith(`${lang}/`)).
 
   .anchor-grid {
     display: grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
+    grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 1px;
     background: var(--line);
     border-top: 1px solid var(--line);
@@ -508,15 +529,15 @@ const translatedCount = translations.filter((e) => e.id.startsWith(`${lang}/`)).
   .anchor-card__title {
     font-family: var(--font-display);
     font-size: var(--fs-md);
-    line-height: 1.25;
-    overflow-wrap: anywhere;
+    line-height: 1.35;
+    overflow-wrap: normal;
+    word-break: keep-all;
+    line-break: strict;
   }
-  .anchor-card__canonical code {
-    color: var(--muted);
-    font-family: var(--font-mono);
-    font-size: 0.72rem;
-    line-height: 1.45;
-    overflow-wrap: anywhere;
+  html[lang="en"] .anchor-card__title {
+    word-break: normal;
+    line-break: auto;
+    overflow-wrap: break-word;
   }
   .anchor-card__mirrors {
     list-style: none;
@@ -539,8 +560,15 @@ const translatedCount = translations.filter((e) => e.id.startsWith(`${lang}/`)).
   .anchor-card__mirrors span {
     font-size: var(--fs-sm);
     font-weight: 650;
-    line-height: 1.35;
-    overflow-wrap: anywhere;
+    line-height: 1.4;
+    overflow-wrap: normal;
+    word-break: keep-all;
+    line-break: strict;
+  }
+  html[lang="en"] .anchor-card__mirrors span {
+    word-break: normal;
+    line-break: auto;
+    overflow-wrap: break-word;
   }
   .anchor-card__mirrors small {
     color: var(--muted);
@@ -593,11 +621,12 @@ const translatedCount = translations.filter((e) => e.id.startsWith(`${lang}/`)).
     font-size: var(--fs-xs);
   }
 
-  @media (max-width: 940px) {
-    .review-strip,
-    .taxonomy-grid,
-    .anchor-grid {
-      grid-template-columns: repeat(2, minmax(0, 1fr));
+  @media (max-width: 900px) {
+    .home-hero {
+      grid-template-columns: 1fr;
+    }
+    .start-here-wrap {
+      margin-top: 1.8rem;
     }
     .ai-band {
       grid-template-columns: 1fr;

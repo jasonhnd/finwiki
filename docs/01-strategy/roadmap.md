@@ -53,7 +53,7 @@ Entry pages pass only when:
 - no typed `entity_edges` relationship panel in this season
 - no wiki body edits “to make the page look better”
 
-Home first screen shipped in [#301](https://github.com/jasonhnd/finwiki/issues/301). Domain pages shipped in [#304](https://github.com/jasonhnd/finwiki/issues/304). The next UIUX issue is [#306](https://github.com/jasonhnd/finwiki/issues/306) (entry pages).
+Home first screen shipped in [#301](https://github.com/jasonhnd/finwiki/issues/301). Domain pages shipped in [#304](https://github.com/jasonhnd/finwiki/issues/304). Entry lead order shipped in [#306](https://github.com/jasonhnd/finwiki/issues/306). Japanese wrap shipped in [#308](https://github.com/jasonhnd/finwiki/issues/308). The current UIUX issue is [#310](https://github.com/jasonhnd/finwiki/issues/310) (typesetting / layout on the same three pages).
 
 ## Track: Content (maintenance)
 
