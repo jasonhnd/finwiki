@@ -40,6 +40,17 @@ export function displayLabel(route: string, lang: 'ja' | 'en', fallback: string)
   return readFirstLabel(route, lang, compactTitle(fallback, lang));
 }
 
+export function shortLead(text: string): string {
+  const clean = String(text || '').trim();
+  if (!clean) return '';
+  const sentence = clean.match(/^[\s\S]{10,80}?[。．]/);
+  if (sentence) return sentence[0];
+  if (clean.length <= 64) return clean;
+  const slice = clean.slice(0, 64);
+  const pause = Math.max(slice.lastIndexOf('、'), slice.lastIndexOf('，'), slice.lastIndexOf(','));
+  return `${(pause > 20 ? slice.slice(0, pause) : slice).replace(/[\s、，,]+$/, '')}…`;
+}
+
 const READ_FIRST_TERMS = [
   'overview',
   'map',

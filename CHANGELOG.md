@@ -26,6 +26,29 @@
 - 每条记录应尽可能包含 JST 时间、背景、范围、主要文件或目录、执行步骤、验证结果与后续事项。
 - 本仓库正文只允许使用互联网公开信息、官方资料、公开披露或基于公开来源的分析。
 
+## 2026-08-17 - UIUX: 残りの面を同じ組版にする (#312)
+
+### 日本語
+
+- **2026-08-17 15:10 JST / 背景:** ホーム／領域詳細／条目の組版は通った。残りの面（領域総表、全項目、ルート、検索）がまだカタログで、英語の group id や INDEX 位置文、route slug が題名と競合する。
+- **範囲 / 主要ファイル:** 領域総表、browse、root `/`、entryPreview、domainReadFirst、Pagefind 見出し、UI/UX 規格。wiki 本文は変更しない。
+- **実行手順:** browse は一行要約、slug は title 属性のみ。INDEX 位置文を lead から除外。領域総表は英語 `group.id` を出さない。ルートの kicker を日本語化。検索タイトルは keep-all。
+- **検証結果 / 残タスク:** ja 375/1440 で `/`・`/ja/domains/`・`/ja/browse/` を目視。残タスクは `pre` へ merge。`main` へは指示があるまで push しない。
+
+### English
+
+- **2026-08-17 15:10 JST / Background:** Home / domain detail / entry typesetting passed. Browse, domain list, root, and search still read as a catalog: English group ids, INDEX-positioning leads, and competing slugs.
+- **Scope / Primary files:** domain list, browse, root `/`, preview leads, shared short-lead helper, Pagefind titles, UI/UX contract. No wiki body.
+- **Steps:** Browse uses one-line leads; slugs stay on the title attribute. Skip INDEX-positioning leads. Domain list drops English `group.id` eyebrows. Root kickers are Japanese. Search titles use keep-all.
+- **Validation / Follow-up:** Visual QA ja 375/1440 on `/`, `/ja/domains/`, `/ja/browse/`. Merge to `pre` only. Do not push `main`.
+
+### 中文
+
+- **2026-08-17 15:10 JST / 背景:** 首页／领域详情／条目排版已过。剩下的领域总表、全项目、根页、搜索仍是目录：英文 group id、INDEX 定位句、slug 和标题抢视线。
+- **范围 / 主要文件:** 领域总表、browse、根页 `/`、preview lead、短 lead 辅助函数、Pagefind 标题、UI/UX 规格。不改 wiki 正文。
+- **执行步骤:** browse 只用一行摘要，slug 留在 title 属性。排除 INDEX 定位句。领域总表不再显示英文 `group.id`。根页 kicker 改日文。搜索标题 keep-all。
+- **验证 / 后续:** ja 375/1440 目视 `/`、`/ja/domains/`、`/ja/browse/`。只合 `pre`。未指示不 push `main`。
+
 ## 2026-08-17 - UIUX: 読者経路の組版を直す (#310)
 
 ### 日本語
