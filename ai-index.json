@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-08-17T14:41:20+09:00",
+  "generated_at": "2026-08-17T22:08:59+09:00",
   "counts": {
     "markdown_files": 1615,
     "public_markdown_pages": 1614,
@@ -9,8 +9,8 @@
     "link_audited_entries": 1489,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 11212865,
-    "word_like_tokens": 1808574,
+    "nonspace_utf8_chars": 11214295,
+    "word_like_tokens": 1808847,
     "entity_anchors": 13,
     "entity_mirror_pages": 13,
     "entity_nodes": 103,
@@ -3396,11 +3396,11 @@
         "日本語",
         "English",
         "中文",
-        "2026-08-17 - UIUX: 読者経路の組版を直す (#310)",
+        "2026-08-17 - UIUX: 残りの面を同じ組版にする (#312)",
         "日本語",
         "English",
         "中文",
-        "2026-08-17 - UIUX: fix Japanese typesetting on home, domain, and entry (#308)"
+        "2026-08-17 - UIUX: 読者経路の組版を直す (#310)"
       ],
       "wikilinks": [],
       "resolved_wikilinks": [],
@@ -3409,8 +3409,8 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 304032,
-      "word_like_tokens": 55983,
+      "nonspace_chars": 305462,
+      "word_like_tokens": 56256,
       "last_modified": "2026-08-17"
     },
     {
