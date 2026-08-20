@@ -26,6 +26,29 @@
 - 每条记录应尽可能包含 JST 时间、背景、范围、主要文件或目录、执行步骤、验证结果与后续事项。
 - 本仓库正文只允许使用互联网公开信息、官方资料、公开披露或基于公开来源的分析。
 
+## 2026-08-20 - Release: 読者経路の組版を main へ公開 (v2026.08.20)
+
+### 日本語
+
+- **2026-08-20 12:35 JST / 背景:** 人間が `pre` の読者組版を承認し、`main` へ公開するよう指示した。
+- **範囲 / 主要ファイル:** #300〜#312 の UIUX 読者経路、`releases/v2026.08.20.md`、release registry、README 入口。wiki 本文の新規追加はない。
+- **実行手順:** release note と台帳を追加し、`pre` へ載せたうえで `pre`→`main` promotion PR を merge する。同じ main merge SHA に tag `v2026.08.20` と GitHub Release を付ける。
+- **検証結果 / 残タスク:** work→`pre` の Required verification は通過済み。残タスクは promotion merge、tag、Release、production deploy 確認。
+
+### English
+
+- **2026-08-20 12:35 JST / Background:** The human approved the `pre` reading typesetting and asked to publish it to `main`.
+- **Scope / Primary files:** UIUX reading-path work from #300–#312, `releases/v2026.08.20.md`, the release registry, and README entrances. No new wiki body.
+- **Steps:** Add the release note and registry, land it on `pre`, merge the `pre`→`main` promotion PR, then tag the same main merge SHA as `v2026.08.20` and publish the GitHub Release.
+- **Validation / Follow-up:** Required verification on work→`pre` already passed. Remaining: promotion merge, tag, Release, and production-deploy confirmation.
+
+### 中文
+
+- **2026-08-20 12:35 JST / 背景:** 人工确认 `pre` 阅读排版可用，并指示公开到 `main`。
+- **范围 / 主要文件:** #300–#312 的 UIUX 阅读路径、`releases/v2026.08.20.md`、release 台账、README 入口。无新 wiki 正文。
+- **执行步骤:** 补 release note 与台账，先合入 `pre`，再 merge `pre`→`main` promotion PR，并在同一 main merge SHA 打 tag `v2026.08.20`、发布 GitHub Release。
+- **验证 / 后续:** work→`pre` 的 Required verification 已通过。后续是 promotion merge、tag、Release、确认 production deploy。
+
 ## 2026-08-17 - UIUX: 残りの面を同じ組版にする (#312)
 
 ### 日本語
