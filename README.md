@@ -64,7 +64,7 @@ FinWiki は、日本と世界の金融機関・制度・市場構造を、出典
 | Topical domains | 40 | Domain directories listed in [INDEX.md](INDEX.md) |
 | Link-audited entries | 1489 | Entries checked by `tools/wiki_link_audit.ts` |
 | Unresolved link issues | 0 | Must stay at zero before release |
-| Text volume | 約1091万字 | Markdown 全体の空白除外 UTF-8 文字数（約 10,905,148） |
+| Text volume | 約1091万字 | Markdown 全体の空白除外 UTF-8 文字数（約 10,905,046） |
 | Word-like tokens | 約175万 | English / CJK mixed corpus の近似 token count |
 
 ### 読み方
@@ -142,7 +142,7 @@ The full 40-domain table lives in [INDEX.md](INDEX.md). These are the doors.
 | Topical domains | 40 | Domain directories listed in [INDEX.md](INDEX.md) |
 | Link-audited entries | 1489 | Entries checked by `tools/wiki_link_audit.ts` |
 | Unresolved link issues | 0 | Must stay at zero before release |
-| Text volume | ~10.91M chars | ~10,905,148 non-space UTF-8 characters across Markdown |
+| Text volume | ~10.91M chars | ~10,905,046 non-space UTF-8 characters across Markdown |
 | Word-like tokens | ~1.75M | Approximate English / CJK mixed-corpus token count |
 
 ### How to read
