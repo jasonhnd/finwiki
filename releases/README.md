@@ -1,4 +1,4 @@
-# リリース状態台帳 / Release State Registry / 发布状态台账
+# リリース状態台帳 / Release State Registry
 
 - [v2026.08.20-2](./v2026.08.20-2.md) — bilingual README / CHANGELOG / releases (#316)
 - [v2026.08.20](./v2026.08.20.md) — reading-path typesetting (#300–#312)

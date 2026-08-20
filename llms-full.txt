@@ -1,6 +1,6 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-08-20T13:03:45+09:00
+Generated: 2026-08-20T13:10:31+09:00
 Site: https://finwiki.zksc.io
 Markdown files: 1617
 Public pages listed: 1616
@@ -83,8 +83,8 @@ Public pages listed: 1616
 - GitHub source: https://github.com/jasonhnd/finwiki/blob/main/README.md
 - Domain: root
 - Type: control_doc
-- Summary: 公開情報だけで、金融機関と制度を読むフィールドガイド。 A public-source field guide for reading financial institutions and regimes.
-- Headings: FinWiki, 日本語, これは何か, 入口, いまの収録, 読み方, 公開の約束, 検証
+- Summary: FinWiki は、日本と世界の金融機関・制度・市場構造を、出典付きで読むための公開ナレッジベースです。本文はインターネット公開情報、公的資料、公開開示、またはそれらに基づく分析だけを残します。
+- Headings: FinWiki, 日本語, これは何か, 入口, まず読む, 領域, いまの収録, 読み方
 
 ### Wiki Frontmatter Schema
 - URL: https://finwiki.zksc.io/SCHEMA.md
@@ -16267,7 +16267,7 @@ Public pages listed: 1616
 - Headings: ゆうちょ銀行 (Japan Post Bank), Wiki route, TL;DR, 1. 会社概要, 主要数値（公開ベース・2025-03-31 実績）, 親会社・グループ構造, 重要年表 ^[extracted], 2. 事業セグメント・マップ
 - First resolved wikilinks: https://finwiki.zksc.io/ja/domains/banking/, https://finwiki.zksc.io/ja/megabanks/mizuho-fg/, https://finwiki.zksc.io/ja/megabanks/mufg/, https://finwiki.zksc.io/ja/megabanks/ndfg/, https://finwiki.zksc.io/ja/megabanks/paypay-fg/, https://finwiki.zksc.io/ja/megabanks/resona-hd/, https://finwiki.zksc.io/ja/megabanks/sbi-hd/, https://finwiki.zksc.io/ja/megabanks/smfg/, https://finwiki.zksc.io/ja/domains/regional-banks/, https://finwiki.zksc.io/ja/regional-banks/japan-post-bank/
 
-### リリース状態台帳 / Release State Registry / 发布状态台账
+### リリース状態台帳 / Release State Registry
 - URL: https://finwiki.zksc.io/releases/README.md
 - Raw Markdown: https://finwiki.zksc.io/releases/README.md
 - Source path: releases/README.md
@@ -16275,7 +16275,7 @@ Public pages listed: 1616
 - Domain: releases
 - Type: release_note
 - Summary: この台帳は、releases/v*.md、Git tag、GitHub Release の関係を明示します。release note の basename と tag / GitHub Release の tag は同じ version を使います。
-- Headings: リリース状態台帳 / Release State Registry / 发布状态台账, 日本語, 公開済み, 個別には公開しない staging record, 詳細履歴, English, Published, Staging records not published individually
+- Headings: リリース状態台帳 / Release State Registry, 日本語, 公開済み, 個別には公開しない staging record, 詳細履歴, English, Published, Staging records not published individually
 
 ### v2026.05.20-2 Release運用ルール更新
 - URL: https://finwiki.zksc.io/releases/v2026.05.20-2.md

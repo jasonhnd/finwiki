@@ -23,14 +23,16 @@
 ### 日本語
 
 - **2026-08-20 13:10 JST / 背景:** 人間向けサイトは ja/en のみ。README・CHANGELOG・releases に残っていた中文は読面と食い違う。README は 35 項の運用規則の複製で、入口として読めない。
-- **範囲 / 主要ファイル:** `README.md`、`CHANGELOG.md`、`releases/**`、`AGENTS.md`、release-document audit、release-process / release-gate。wiki 本文は変更しない。
+- **2026-08-20 14:20 JST / 追記:** README を入口として再構成（まず読む、領域グループ）。`releases/README.md` 標題の中文、`release.ts` の中文 scaffold、現行契約ドキュメントの三語要求を外す。過去の作業記録に残る「当時は三語だった」記述は履歴として残す。
+- **範囲 / 主要ファイル:** `README.md`、`CHANGELOG.md`、`releases/**`、`AGENTS.md`、`INDEX.md`、`HOW-TO-NAVIGATE.md`、release-document audit、release-process / PRD-007 / NFR-008。wiki 本文の事実は変更しない。
 - **実行手順:** 中文 section を削除。契約を `日本語 → English` に変更。README を読む導線の入口として書き直す。count 表の同期キーは残す。
 - **検証結果 / 残タスク:** `bun test tools/release_documentation_audit.test.ts`、`bun run release:docs`。残タスクは `pre` へ merge し、指示があれば `main` へ。
 
 ### English
 
 - **2026-08-20 13:10 JST / Background:** The human site is ja/en only. Chinese sections in README, CHANGELOG, and releases contradicted that surface. README duplicated 35 operating rules and did not read as an entrance.
-- **Scope / Primary files:** README, CHANGELOG, `releases/**`, `AGENTS.md`, the release-document audit, and the release-process / release-gate docs. No wiki body.
+- **2026-08-20 14:20 JST / Follow-up:** Rebuild README as an entrance (start-here, domain groups). Drop leftover Chinese in the release-registry title, the changelog scaffold, and current trilingual contract text. Leave historical “it was trilingual then” records as history.
+- **Scope / Primary files:** README, CHANGELOG, `releases/**`, `AGENTS.md`, `INDEX.md`, `HOW-TO-NAVIGATE.md`, the release-document audit, and release-process / PRD-007 / NFR-008. No wiki-body facts.
 - **Steps:** Strip Chinese sections. Change the contract to Japanese then English. Rewrite README as a reading-path entrance. Keep the count-table keys `release.ts` syncs.
 - **Validation / Follow-up:** `bun test tools/release_documentation_audit.test.ts`, `bun run release:docs`. Remaining: merge to `pre`, then `main` when asked.
 

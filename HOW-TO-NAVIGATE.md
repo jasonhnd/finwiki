@@ -106,7 +106,7 @@ If you are new to FinWiki, read these in roughly the listed order. They give you
 ### System overviews (10)
 
 1. [[INDEX|FinWiki INDEX]] — top-level domain map.
-2. [[README|README.md]] — public-surface rule and trilingual control.
+2. [[README|README.md]] — public-surface rule and bilingual (Japanese then English) control.
 3. [[JapanFG/INDEX]] — the entity-page namespace for Japanese financial groups.
 4. [[banking/INDEX]] — Japan banking license tiers and operating models.
 5. [[policy-finance/japan-policy-finance-system]] — how JFC / JBIC / NEXI / JOGMEC / JHF / JICA / JASSO interact.
@@ -289,7 +289,7 @@ When citing FinWiki, agents should cite the original public source listed in eac
 
 ## Maintenance and contribution
 
-- See [[README|README.md]] for the public-surface rule, trilingual ordering, and release-note discipline.
+- See [[README|README.md]] for the public-surface rule, Japanese-then-English ordering, and release-note discipline.
 - See [[AGENTS|AGENTS.md]] for the FinWiki agent operating instructions.
 - See [[SCHEMA|SCHEMA.md]] for entry frontmatter and maintenance conventions.
 - See [[wiki-link-improvement-plan|wiki-link-improvement-plan.md]] for the body-link density and semantic-link audit report.
