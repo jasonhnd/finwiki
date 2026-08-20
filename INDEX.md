@@ -68,11 +68,11 @@ FinWiki is a public-facing Markdown knowledge base for finance, fintech, crypto-
 
 ## Control Documents
 
-- [[README]] / [README.md](README.md): trilingual public entry point.
+- [[README]] / [README.md](README.md): bilingual (Japanese then English) public entry point.
 - [[HOW-TO-NAVIGATE]] / [HOW-TO-NAVIGATE.md](HOW-TO-NAVIGATE.md): reader profile navigation guide — start here if you are new to FinWiki, with top 30 essential entries, top 15 matrices, top 10 bedrock pages, and per-profile reading orders.
 - [[SCHEMA]] / [SCHEMA](SCHEMA): entry frontmatter and maintenance conventions.
 - [[OBSIDIAN-SETUP]] / [OBSIDIAN-SETUP](OBSIDIAN-SETUP): generic Obsidian reading setup without local paths.
-- [[CHANGELOG]] / [CHANGELOG](CHANGELOG): trilingual maintenance record.
+- [[CHANGELOG]] / [CHANGELOG](CHANGELOG): bilingual (Japanese then English) maintenance record.
 - [[AGENTS]] / [AGENTS](AGENTS): local agent rules for this repository.
 - [wiki-link-improvement-plan.md](wiki-link-improvement-plan.md): body-link density and semantic-link audit report.
 - [cross-domain-anchor-convention.md](cross-domain-anchor-convention.md): rule for designating the single canonical domain anchor for a multi-domain entity.

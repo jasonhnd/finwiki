@@ -4,12 +4,11 @@ import { readdirSync, readFileSync } from "node:fs";
 import { basename, join, resolve } from "node:path";
 
 export const RELEASE_NOTE_CONTRACT_START = "2026-07-27";
-export const LANGUAGE_SECTIONS = ["日本語", "English", "中文"] as const;
+export const LANGUAGE_SECTIONS = ["日本語", "English"] as const;
 
 const RELEASE_SUBSECTIONS = {
   日本語: ["公開範囲", "主要変更", "検証結果", "既知の注意点", "次の作業"],
   English: ["Release Scope", "Major Changes", "Validation Results", "Known Notes", "Next Steps"],
-  中文: ["发布范围", "主要变更", "验证结果", "已知注意事项", "下一步"],
 } as const;
 
 export interface MarkdownHeading {
@@ -82,28 +81,6 @@ export function scaffoldReleaseNote(title: string): string {
 ### Next Steps
 
 - <Record next steps.>
-
-## 中文
-
-### 发布范围
-
-- <填写发布范围。>
-
-### 主要变更
-
-- <填写主要变更。>
-
-### 验证结果
-
-- <填写验证结果。>
-
-### 已知注意事项
-
-- <填写已知注意事项。>
-
-### 下一步
-
-- <填写下一步。>
 `;
 }
 
