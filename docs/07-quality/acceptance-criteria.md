@@ -21,7 +21,7 @@
 
 - `README.md`, `CHANGELOG.md`, release note and generated surfaces are synchronized.
 - README, CHANGELOG, release notes, and GitHub Release bodies are ordered Japanese, English, then Chinese; release titles are Japanese-only.
-- The human site remains bilingual ja/en; trilingual release documentation does not create a zh route or mirror.
+- The human site remains bilingual ja/en. Release documentation is Japanese then English and does not create a zh route or mirror.
 - `bun run release:docs` exits 0.
 - `release.ts --check --strict` exits 0.
 - `wiki_link_audit.ts --fail-on-issues` exits 0.

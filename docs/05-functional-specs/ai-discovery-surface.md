@@ -48,4 +48,4 @@ Use `bun tools/release.ts --write`, which invokes discovery generation as part o
 - Targeted grep for stale moved-domain API residue after domain or slug moves.
 - Manual diff review for unexpected fallback-derived `last_modified` changes.
 
-Changing this contract is release-visible: regenerate and review `robots.txt`, `sitemap.xml`, `llms.txt`, `llms-full.txt`, `ai-index.json` and `api/`, then update the required trilingual release documents and GitHub Release in the same push.
+Changing this contract is release-visible: regenerate and review `robots.txt`, `sitemap.xml`, `llms.txt`, `llms-full.txt`, `ai-index.json` and `api/`, then update the required bilingual release documents and GitHub Release in the same push.

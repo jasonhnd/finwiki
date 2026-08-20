@@ -177,12 +177,11 @@ async function computeCounts(entriesChecked: number, issues: number): Promise<Co
 function syncReadmeText(text: string, counts: Counts, snapshotDate: string): string {
   const { charsMan, tokensMan, charsM, tokensM } = countsView(counts);
   const out: string[] = [];
-  let language: "ja" | "en" | "zh" | null = null;
+  let language: "ja" | "en" | null = null;
   for (const line of text.split("\n")) {
     let next = line;
     if (next === "## 日本語") language = "ja";
     else if (next === "## English") language = "en";
-    else if (next === "## 中文") language = "zh";
     else if (next.startsWith("## ")) language = null;
 
     next = next.replace(/(\| Markdown files \| )[\d,]+( \|)/, `$1${counts.markdownFiles}$2`);
@@ -192,8 +191,6 @@ function syncReadmeText(text: string, counts: Counts, snapshotDate: string): str
     if (next.startsWith("| Text volume |")) {
       if (language === "en") {
         next = `| Text volume | ~${charsM}M chars | ~${formatInt(counts.nonspaceChars)} non-space UTF-8 characters across Markdown |`;
-      } else if (language === "zh") {
-        next = `| Text volume | 约${charsMan}万字 | 全库 Markdown 空白除外 UTF-8 字符数（约 ${formatInt(counts.nonspaceChars)}） |`;
       } else if (language === "ja") {
         next = `| Text volume | 約${charsMan}万字 | Markdown 全体の空白除外 UTF-8 文字数（約 ${formatInt(counts.nonspaceChars)}） |`;
       }
@@ -201,8 +198,6 @@ function syncReadmeText(text: string, counts: Counts, snapshotDate: string): str
     if (next.startsWith("| Word-like tokens |")) {
       if (language === "en") {
         next = `| Word-like tokens | ~${tokensM}M | Approximate English / CJK mixed-corpus token count |`;
-      } else if (language === "zh") {
-        next = `| Word-like tokens | 约${tokensMan}万 | English / CJK mixed corpus 的近似 token count |`;
       } else if (language === "ja") {
         next = `| Word-like tokens | 約${tokensMan}万 | English / CJK mixed corpus の近似 token count |`;
       }
@@ -315,10 +310,6 @@ function scaffoldChangelog(text: string, title: string, snapshotDate: string, no
     "### English",
     "",
     `- **${nowDisplay} / Context:** <fill public context, scope, files, steps, validation, follow-up.>`,
-    "",
-    "### 中文",
-    "",
-    `- **${nowDisplay} / 背景:** <填写基于公开信息的背景、范围、主要文件、步骤、验证结果和后续事项。>`,
     "",
   ].join("\n");
   const match = text.match(/^## \d{4}-\d{2}-\d{2}/m);
