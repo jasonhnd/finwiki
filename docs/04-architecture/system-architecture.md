@@ -15,7 +15,7 @@ finwiki/
 │       └── i18n/groups.ts    # super-group（领域分组导航）
 ├── tools/*.ts                # Bun 工具链（见 toolchain.md）
 ├── lib/markdown_helpers.ts   # 工具共享的解析 / 扫描 / 常量
-├── releases/vX.md            # 每次发布的日文→英文→中文 release notes（计入 corpus，但 entry_type=release_note）
+├── releases/vX.md            # 每次发布的日文→英文 release notes（计入 corpus，但 entry_type=release_note）
 ├── api/                      # generate_ai_discovery 产出的 JSON API；每次写入前清理旧 entry JSON
 ├── docs/                     # ← 本目录：内部开发文档，已排除出 corpus
 ├── README.md / CHANGELOG.md / AGENTS.md / SCHEMA.md / INDEX.md  # 控制文档

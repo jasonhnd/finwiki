@@ -29,10 +29,10 @@
 
 | 命令 | 作用 | 是否改文件 |
 |---|---|---|
-| `bun tools/release.ts --check` | 只读校验：先跑三语 release-document audit，再跑 link audit、算 canonical counts、查 counts 是否 in sync、verify JSON/LF/duplicate-id | 否 |
+| `bun tools/release.ts --check` | 只读校验：先跑日英 release-document audit，再跑 link audit、算 canonical counts、查 counts 是否 in sync、verify JSON/LF/duplicate-id | 否 |
 | `bun tools/release.ts --check --strict` | 同上，但 count drift 时 `EXIT=2`（**发布门禁，必须 EXIT=0**） | 否 |
-| `bun tools/release.ts --write` | 三语文档 gate 通过后，跑 `generate_ai_discovery.ts` + `update_footer_timestamp.ts` + 同步 README/index.html 的 counts | **是**（会重写发现面；history 不完整时优先复用 committed discovery date，mtime 仅是最终 fallback，见 gotchas） |
-| `bun tools/release.ts --write --release-note "<日本語タイトル>"` | 写入前先审计现有文档与内存中的 draft；通过后创建当天首个可用版本号的三语 release-note scaffold，再执行普通 `--write` | **是** |
+| `bun tools/release.ts --write` | 日英文档 gate 通过后，跑 `generate_ai_discovery.ts` + `update_footer_timestamp.ts` + 同步 README/index.html 的 counts | **是**（会重写发现面；history 不完整时优先复用 committed discovery date，mtime 仅是最终 fallback，见 gotchas） |
+| `bun tools/release.ts --write --release-note "<日本語タイトル>"` | 写入前先审计现有文档与内存中的 draft；通过后创建当天首个可用版本号的日英 release-note scaffold，再执行普通 `--write` | **是** |
 
 `--check` 输出标记行：`[0]` release documentation、`[1]` link audit、`[2]` canonical counts（md/domains/entries/issues/chars/tokens）、`[3]` counts in sync、`[5]` verify。（`[4]` 仅 `--changelog` 时出现。）
 

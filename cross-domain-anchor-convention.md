@@ -120,6 +120,6 @@ Mechanically:
 ## Sources
 
 - [[SCHEMA]] — frontmatter spec, body-link rule.
-- [[AGENTS]] — public-surface rule, trilingual maintenance protocol.
+- [[AGENTS]] — public-surface rule, bilingual (Japanese then English) maintenance protocol.
 - [[INDEX]] — current domain map and routing surfaces.
 - Example entries: [[fintech/circle-usdc-stablecoin]], [[fintech/stripe-usdb-bridge-stablecoin]], [[foreign-financial-institutions/jpmorgan-japan]], [[fintech/jpmorgan-jpmd-coin]], [[fintech/jpm-onyx-wholesale-network]], [[insurance/saison-automobile-fire]], [[non-life-insurers/saison-automobile-fire-insurance]], [[business/jamie-dimon-anti-crypto-pivot-case]].
