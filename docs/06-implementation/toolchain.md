@@ -29,19 +29,19 @@
 
 | 命令 | 作用 | 是否改文件 |
 |---|---|---|
-| `bun tools/release.ts --check` | 只读校验：先跑三语 release-document audit，再跑 link audit、算 canonical counts、查 counts 是否 in sync、verify JSON/LF/duplicate-id | 否 |
+| `bun tools/release.ts --check` | 只读校验：先跑日英 release-document audit，再跑 link audit、算 canonical counts、查 counts 是否 in sync、verify JSON/LF/duplicate-id | 否 |
 | `bun tools/release.ts --check --strict` | 同上，但 count drift 时 `EXIT=2`（**发布门禁，必须 EXIT=0**） | 否 |
-| `bun tools/release.ts --write` | 三语文档 gate 通过后，跑 `generate_ai_discovery.ts` + `update_footer_timestamp.ts` + 同步 README/index.html 的 counts | **是**（会重写发现面；history 不完整时优先复用 committed discovery date，mtime 仅是最终 fallback，见 gotchas） |
-| `bun tools/release.ts --write --release-note "<日本語タイトル>"` | 写入前先审计现有文档与内存中的 draft；通过后创建当天首个可用版本号的三语 release-note scaffold，再执行普通 `--write` | **是** |
+| `bun tools/release.ts --write` | 日英文档 gate 通过后，跑 `generate_ai_discovery.ts` + `update_footer_timestamp.ts` + 同步 README/index.html 的 counts | **是**（会重写发现面；history 不完整时优先复用 committed discovery date，mtime 仅是最终 fallback，见 gotchas） |
+| `bun tools/release.ts --write --release-note "<日本語タイトル>"` | 写入前先审计现有文档与内存中的 draft；通过后创建当天首个可用版本号的日英 release-note scaffold，再执行普通 `--write` | **是** |
 
 `--check` 输出标记行：`[0]` release documentation、`[1]` link audit、`[2]` canonical counts（md/domains/entries/issues/chars/tokens）、`[3]` counts in sync、`[5]` verify。（`[4]` 仅 `--changelog` 时出现。）
 
-## tools/release_documentation_audit.ts（三语发布文档门禁）
+## tools/release_documentation_audit.ts（日英发布文档门禁）
 
 - `bun run release:docs` 可独立执行只读审计；`release.ts --check/--write` 也会在其他检查或写入前调用同一逻辑。
-- `README.md` 顶层语言必须精确为 `日本語 -> English -> 中文`。
+- `README.md` 顶层语言必须精确为 `日本語 -> English`。
 - `CHANGELOG.md` 的 Maintenance Principles 与每个日期条目必须使用同样顺序。
-- 2026-07-27 及之后的 `releases/v*.md` 必须有仅日文 H1、三语 section，以及每种语言的 scope / changes / validation / known notes / next steps。更早 release note 作为历史 grandfather，不做批量改写。
+- 2026-07-27 及之后的 `releases/v*.md` 必须有仅日文 H1、日英 section，以及每种语言的 scope / changes / validation / known notes / next steps。更早 release note 作为历史 grandfather，不做批量改写。
 - focused test 覆盖正例、语言缺失 / 错序、非日文或混合 title、必填 subsection 缺失。
 - `--write --release-note "<日本語タイトル>"` 生成的 draft 本身也通过同一 audit 后才落盘；落盘后必须把 placeholder 替换为真实 release narrative。
 
