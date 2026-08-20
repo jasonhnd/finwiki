@@ -4,9 +4,8 @@ import LangSwitcher from '../components/LangSwitcher.astro';
 import ThemeToggle from '../components/ThemeToggle.astro';
 import { getCollection } from 'astro:content';
 import { domainName } from '../i18n/domains';
-import { rootEditorial } from '../i18n/ui';
+import { homeStartHere, rootEditorial, t } from '../i18n/ui';
 import { entryDomain, entryRoute } from '../lib/routes';
-import { localizedTitle } from '../lib/siteIndex.mjs';
 import { publishableTranslations } from '../lib/translations';
 
 const entries = await getCollection('entries');
@@ -31,17 +30,26 @@ const updatedAt = new Intl.DateTimeFormat('ja-JP', {
   day: 'numeric',
 }).format(new Date());
 
-function titleForRoute(route: string): string {
+const startHereItems = homeStartHere.flatMap((item) => {
+  const note = t('ja', item.noteKey);
+  const title = t('ja', item.titleKey);
+  if (item.id === 'allDomains') {
+    return [{ href: '/ja/domains/', kicker: t('ja', 'nav.domains'), title, note }];
+  }
+  if (item.id === 'megabanks') {
+    if (!counts.has('megabanks')) return [];
+    return [{ href: '/ja/domains/megabanks/', kicker: t('ja', 'nav.domains'), title, note }];
+  }
+  const route = item.path.replace(/\/$/, '');
   const entry = entryByRoute.get(route);
-  return String(localizedTitle('ja', route) || entry?.data?.title || route);
-}
-
-const startLanes = rootEditorial.startLanes.map((lane) => ({
-  ...lane,
-  routeLinks: lane.routes.every((route) => entryByRoute.has(route))
-    ? lane.routes.map((route) => ({ route, title: titleForRoute(route), href: `/ja/${route}/` }))
-    : [],
-}));
+  if (!entry) return [];
+  return [{
+    href: `/ja/${route}/`,
+    kicker: domainName(entryDomain(entry), 'ja'),
+    title,
+    note,
+  }];
+});
 ---
 <!doctype html>
 <html lang="ja">
@@ -85,7 +93,7 @@ const startLanes = rootEditorial.startLanes.map((lane) => ({
 
     <main class="site-main">
       <section class="root-masthead container">
-        <p class="eyebrow">{rootEditorial.kicker}</p>
+        <p class="eyebrow">{t('ja', 'site.subtitle')}</p>
         <h1 class="root-title">FinWiki</h1>
         <div class="root-decks" aria-label="FinWiki description">
           <p><span>JA</span>{rootEditorial.decks.ja}</p>
@@ -105,46 +113,25 @@ const startLanes = rootEditorial.startLanes.map((lane) => ({
 
       <section class="container root-section">
         <div class="root-section__head">
-          <p class="eyebrow">Start with</p>
-          <h2 class="section-title">読者の目的から入る</h2>
+          <h2 class="section-title">{t('ja', 'home.startHere')}</h2>
         </div>
-        <div class="start-lanes">
-          {startLanes.map((lane) => (
-            <article class="start-lane">
-              <a class="start-lane__main" href={lane.href}>
-                <span class="start-lane__en">{lane.title.en}</span>
-                <span class="start-lane__title">{lane.title.ja}</span>
-                <span class="start-lane__note">{lane.note.ja}</span>
+        <ol class="start-here">
+          {startHereItems.map((item) => (
+            <li class="start-here__item">
+              <a href={item.href}>
+                <span class="start-here__kicker">{item.kicker}</span>
+                <span class="start-here__title">{item.title}</span>
+                <span class="start-here__note">{item.note}</span>
               </a>
-              <div class="start-lane__domains" aria-label={`${lane.title.ja} domains`}>
-                {lane.domains.map((domain) => (
-                  counts.has(domain) && (
-                    <a href={`/ja/domains/${domain}/`}>
-                      <span>{domainName(domain, 'ja')}</span>
-                      <b>{counts.get(domain)}</b>
-                    </a>
-                  )
-                ))}
-              </div>
-              {lane.routeLinks.length > 0 && (
-                <div class="start-lane__routes">
-                  {lane.routeLinks.map((route) => (
-                    <a href={route.href}>
-                      <span>{route.title}</span>
-                      <code>{route.route}</code>
-                    </a>
-                  ))}
-                </div>
-              )}
-            </article>
+            </li>
           ))}
-        </div>
+        </ol>
       </section>
 
       <section class="container root-section">
         <div class="root-proof" aria-label="Corpus stats">
           <div>
-            <p class="eyebrow">Corpus proof</p>
+            <p class="eyebrow">{t('ja', 'home.corpusProof')}</p>
             <h2 class="section-title">公開スナップショット</h2>
           </div>
           <dl class="root-stats">
@@ -167,7 +154,7 @@ const startLanes = rootEditorial.startLanes.map((lane) => ({
       <section class="container root-section">
         <div class="root-ai">
           <div>
-            <p class="eyebrow">Technical metadata</p>
+            <p class="eyebrow">{t('ja', 'home.aiTechLabel')}</p>
             <h2 class="section-title">AI・クローラー向け資料</h2>
             <p class="muted">人間向けの入口とは別に、同じ公開コーパスを機械可読ファイルから確認できます。</p>
           </div>
@@ -295,83 +282,50 @@ const startLanes = rootEditorial.startLanes.map((lane) => ({
         margin: 0;
       }
 
-      .start-lanes {
+      .start-here {
+        list-style: none;
+        margin: 0;
+        padding: 0;
         display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr));
-        gap: 1rem;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 0 2.5rem;
+        border-top: 1px solid var(--line);
       }
-      .start-lane {
-        min-width: 0;
-        border-top: 2px solid var(--accent);
+      @media (max-width: 720px) {
+        .start-here {
+          grid-template-columns: 1fr;
+        }
+      }
+      .start-here__item a {
+        display: grid;
+        gap: 0.15rem;
+        padding: 0.72rem 0;
         border-bottom: 1px solid var(--line);
-        padding: 1rem 0 0.85rem;
-      }
-      .start-lane__main {
-        display: grid;
-        gap: 0.35rem;
         color: var(--ink);
         text-decoration: none;
       }
-      .start-lane__main:hover .start-lane__title {
-        color: var(--accent);
-      }
-      .start-lane__en {
-        font-family: var(--font-mono);
-        font-size: var(--fs-xs);
-        font-weight: 700;
-        color: var(--muted);
-        text-transform: uppercase;
-      }
-      .start-lane__title {
-        font-family: var(--font-display);
-        font-size: var(--fs-md);
-        line-height: 1.22;
-        transition: color var(--dur) var(--ease);
-      }
-      .start-lane__note {
-        color: var(--ink-2);
-        font-size: var(--fs-sm);
-        line-height: 1.55;
-      }
-      .start-lane__domains,
-      .start-lane__routes {
-        display: grid;
-        gap: 0.35rem;
-        margin-top: 0.9rem;
-      }
-      .start-lane__domains a,
-      .start-lane__routes a {
-        display: flex;
-        align-items: baseline;
-        justify-content: space-between;
-        gap: 0.75rem;
-        min-width: 0;
-        color: var(--ink-2);
-        text-decoration: none;
-        border-top: 1px solid var(--line);
-        padding-top: 0.42rem;
-      }
-      .start-lane__domains a:hover,
-      .start-lane__routes a:hover {
+      .start-here__item a:hover .start-here__title {
         color: var(--accent-2);
       }
-      .start-lane__domains span,
-      .start-lane__routes span {
-        min-width: 0;
-        overflow-wrap: anywhere;
-      }
-      .start-lane__domains b {
-        color: var(--muted);
+      .start-here__kicker {
+        color: var(--accent);
         font-size: var(--fs-xs);
-        font-variant-numeric: tabular-nums;
+        font-weight: 700;
+        letter-spacing: 0.05em;
+        text-transform: uppercase;
       }
-      .start-lane__routes code {
-        max-width: 45%;
+      .start-here__title {
+        font-family: var(--font-display);
+        font-size: var(--fs-md);
+        line-height: 1.35;
+        overflow-wrap: normal;
+        word-break: keep-all;
+        line-break: strict;
+      }
+      .start-here__note {
         color: var(--muted);
-        font-family: var(--font-mono);
-        font-size: 0.68rem;
-        overflow-wrap: anywhere;
-        text-align: right;
+        font-size: var(--fs-sm);
+        line-height: 1.45;
       }
 
       .root-proof {
@@ -472,12 +426,8 @@ const startLanes = rootEditorial.startLanes.map((lane) => ({
         .root-ai__links {
           grid-template-columns: 1fr;
         }
-        .start-lane__routes a {
-          display: grid;
-        }
-        .start-lane__routes code {
+        .start-here {
           max-width: none;
-          text-align: left;
         }
       }
     </style>

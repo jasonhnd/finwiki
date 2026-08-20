@@ -80,7 +80,8 @@ const { entry, tr, lang, domains, discovery, sameEntity } = Astro.props as {
 };
 // Render the translation when present, else fall back to the Japanese source.
 const { Content, headings } = await render(tr ?? entry);
+const readingHeadings = headings.filter((heading) => !/^(wiki\s*route|ウィキ上の位置づけ)$/i.test(heading.text.trim()));
 ---
-<EntryLayout lang={lang} entry={entry} tr={tr} headings={headings} domains={domains} discovery={discovery} sameEntity={sameEntity}>
+<EntryLayout lang={lang} entry={entry} tr={tr} headings={readingHeadings} domains={domains} discovery={discovery} sameEntity={sameEntity}>
   <Content />
 </EntryLayout>

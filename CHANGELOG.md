@@ -26,6 +26,190 @@
 - 每条记录应尽可能包含 JST 时间、背景、范围、主要文件或目录、执行步骤、验证结果与后续事项。
 - 本仓库正文只允许使用互联网公开信息、官方资料、公开披露或基于公开来源的分析。
 
+## 2026-08-20 - Release: 読者経路の組版を main へ公開 (v2026.08.20)
+
+### 日本語
+
+- **2026-08-20 12:35 JST / 背景:** 人間が `pre` の読者組版を承認し、`main` へ公開するよう指示した。
+- **範囲 / 主要ファイル:** #300〜#312 の UIUX 読者経路、`releases/v2026.08.20.md`、release registry、README 入口。wiki 本文の新規追加はない。
+- **実行手順:** release note と台帳を追加し、`pre` へ載せたうえで `pre`→`main` promotion PR を merge する。同じ main merge SHA に tag `v2026.08.20` と GitHub Release を付ける。
+- **検証結果 / 残タスク:** work→`pre` の Required verification は通過済み。残タスクは promotion merge、tag、Release、production deploy 確認。
+
+### English
+
+- **2026-08-20 12:35 JST / Background:** The human approved the `pre` reading typesetting and asked to publish it to `main`.
+- **Scope / Primary files:** UIUX reading-path work from #300–#312, `releases/v2026.08.20.md`, the release registry, and README entrances. No new wiki body.
+- **Steps:** Add the release note and registry, land it on `pre`, merge the `pre`→`main` promotion PR, then tag the same main merge SHA as `v2026.08.20` and publish the GitHub Release.
+- **Validation / Follow-up:** Required verification on work→`pre` already passed. Remaining: promotion merge, tag, Release, and production-deploy confirmation.
+
+### 中文
+
+- **2026-08-20 12:35 JST / 背景:** 人工确认 `pre` 阅读排版可用，并指示公开到 `main`。
+- **范围 / 主要文件:** #300–#312 的 UIUX 阅读路径、`releases/v2026.08.20.md`、release 台账、README 入口。无新 wiki 正文。
+- **执行步骤:** 补 release note 与台账，先合入 `pre`，再 merge `pre`→`main` promotion PR，并在同一 main merge SHA 打 tag `v2026.08.20`、发布 GitHub Release。
+- **验证 / 后续:** work→`pre` 的 Required verification 已通过。后续是 promotion merge、tag、Release、确认 production deploy。
+
+## 2026-08-17 - UIUX: 残りの面を同じ組版にする (#312)
+
+### 日本語
+
+- **2026-08-17 15:10 JST / 背景:** ホーム／領域詳細／条目の組版は通った。残りの面（領域総表、全項目、ルート、検索）がまだカタログで、英語の group id や INDEX 位置文、route slug が題名と競合する。
+- **範囲 / 主要ファイル:** 領域総表、browse、root `/`、entryPreview、domainReadFirst、Pagefind 見出し、UI/UX 規格。wiki 本文は変更しない。
+- **実行手順:** browse は一行要約、slug は title 属性のみ。INDEX 位置文を lead から除外。領域総表は英語 `group.id` を出さない。ルートの kicker を日本語化。検索タイトルは keep-all。
+- **検証結果 / 残タスク:** ja 375/1440 で `/`・`/ja/domains/`・`/ja/browse/` を目視。残タスクは `pre` へ merge。`main` へは指示があるまで push しない。
+
+### English
+
+- **2026-08-17 15:10 JST / Background:** Home / domain detail / entry typesetting passed. Browse, domain list, root, and search still read as a catalog: English group ids, INDEX-positioning leads, and competing slugs.
+- **Scope / Primary files:** domain list, browse, root `/`, preview leads, shared short-lead helper, Pagefind titles, UI/UX contract. No wiki body.
+- **Steps:** Browse uses one-line leads; slugs stay on the title attribute. Skip INDEX-positioning leads. Domain list drops English `group.id` eyebrows. Root kickers are Japanese. Search titles use keep-all.
+- **Validation / Follow-up:** Visual QA ja 375/1440 on `/`, `/ja/domains/`, `/ja/browse/`. Merge to `pre` only. Do not push `main`.
+
+### 中文
+
+- **2026-08-17 15:10 JST / 背景:** 首页／领域详情／条目排版已过。剩下的领域总表、全项目、根页、搜索仍是目录：英文 group id、INDEX 定位句、slug 和标题抢视线。
+- **范围 / 主要文件:** 领域总表、browse、根页 `/`、preview lead、短 lead 辅助函数、Pagefind 标题、UI/UX 规格。不改 wiki 正文。
+- **执行步骤:** browse 只用一行摘要，slug 留在 title 属性。排除 INDEX 定位句。领域总表不再显示英文 `group.id`。根页 kicker 改日文。搜索标题 keep-all。
+- **验证 / 后续:** ja 375/1440 目视 `/`、`/ja/domains/`、`/ja/browse/`。只合 `pre`。未指示不 push `main`。
+
+## 2026-08-17 - UIUX: 読者経路の組版を直す (#310)
+
+### 日本語
+
+- **2026-08-17 14:30 JST / 背景:** #308 は語中折行を直したが、`pre` の版面はまだカタログだった。ホーム右半が空白、領域は三欄ダッシュボード、条目は要約の前にメタ・タグ・ウィキ位置づけが並ぶ。
+- **範囲 / 主要ファイル:** 日英ホーム、領域詳細、EntryLayout、quiet-wiki-placement、global.css、UI 文案、UI/UX 規格。wiki 本文は変更しない。
+- **実行手順:** ホーム第一画面を見出し+検索 | まず読むの二欄にする。領域は三欄をやめ、まず読むの番号リストと一欄の項目一覧にする。条目は H1 → 一行の根拠 → 要約。ウィキ位置づけとタグは本文の後。日本語本文は keep-all。同一主体の題から重複する英語括弧を外す。狭いヘッダーで「全項目」が欠けないよう AI ナビを隠す。
+- **検証結果 / 残タスク:** ja 375/1440 でホーム・メガバンク・MUFG を目視。残タスクは `pre` へ merge。`main` へは指示があるまで push しない。
+
+### English
+
+- **2026-08-17 14:30 JST / Background:** #308 fixed mid-word wrap, but `pre` still read as a catalog: empty home right half, 3-column domain dashboard, entry chrome above 要約.
+- **Scope / Primary files:** localized home, domain detail, EntryLayout, quiet-wiki-placement, global.css, UI copy, UI/UX contract. No wiki body.
+- **Steps:** Home first screen is headline+search facing start-here. Domain drops the 3-column brief. Entry is H1 → one evidence line → 要約; wiki-placement and tags move after the article. Japanese body uses keep-all. Same-entity titles drop duplicated English parentheticals. Hide the AI nav on narrow headers so 全項目 is not clipped.
+- **Validation / Follow-up:** Visual QA ja 375/1440 on home, megabanks, MUFG. Merge to `pre` only. Do not push `main`.
+
+### 中文
+
+- **2026-08-17 14:30 JST / 背景:** #308 修了词中折行，但 `pre` 版面仍是目录：首页右半空白、领域三栏仪表盘、条目在要約前堆元数据和维基定位。
+- **范围 / 主要文件:** 日英首页、领域页、EntryLayout、quiet-wiki-placement、global.css、UI 文案、UI/UX 规格。不改 wiki 正文。
+- **执行步骤:** 首页第一屏改成标题+搜索 | 先读 两栏。领域去掉三栏，改成编号先读和单栏条目表。条目是 H1 → 一行证据 → 要約；维基定位和标签放到正文后。日文正文 keep-all。同一主体标题去掉重复英文括号。窄屏隐藏 AI 导航，避免「全項目」被切字。
+- **验证 / 后续:** ja 375/1440 目视首页、メガバンク、MUFG。只合 `pre`。未指示不 push `main`。
+
+## 2026-08-17 - UIUX: fix Japanese typesetting on home, domain, and entry (#308)
+
+### 日本語
+
+- **2026-08-17 09:20 JST / 背景:** `pre` の読者経路で、見出しが語中で折れ、要約が途中切れのダンプになっていた。構造は通っても組版になっていない。
+- **範囲 / 主要ファイル:** 日英ホーム、領域詳細、EntryLayout、start-here 文案。wiki 本文は変更しない。
+- **実行手順:** 見出しの `18ch` / `overflow-wrap: anywhere` をやめ、日本語は `keep-all` + `line-break: strict`。start-here は短い編集見出し。領域のまず読むは題名のみ。条目は途中切れ lead を置かない。
+- **検証結果 / 残タスク:** ja 375/1440 で 市場・順番・フィナンシャルが語中で折れないこと。残タスクは `pre` へ merge。`main` へは指示があるまで push しない。
+
+### English
+
+- **2026-08-17 09:20 JST / Background:** The `pre` reading path broke Japanese compounds mid-word and showed truncated financial dumps as “summaries.”
+- **Scope / Primary files:** localized home, domain detail, entry layout, start-here copy. No wiki body.
+- **Steps:** Drop `18ch` and `overflow-wrap: anywhere` on titles; use keep-all / strict line-break for Japanese. Short editorial start-here labels. Read-first is titles only. Remove the truncated entry lead.
+- **Validation / Follow-up:** Confirm 市場 / 順番 / フィナンシャル do not split on ja 375/1440. Merge to `pre` only. Do not push `main`.
+
+### 中文
+
+- **2026-08-17 09:20 JST / 背景:** `pre` 阅读路径里，标题从词中间折行，摘要被截成半截财报。
+- **范围 / 主要文件:** 日英首页、领域页、条目 layout、start-here 文案。不改 wiki 正文。
+- **执行步骤:** 去掉标题上的 `18ch` 和任意折行；日文用 keep-all / strict。start-here 用短编辑标题。领域先读只留题名。条目不再放截断 lead。
+- **验证 / 后续:** ja 375/1440 确认「市場」「順番」「フィナンシャル」不从中间断开。只合 `pre`。未指示不 push `main`。
+
+## 2026-08-16 - UIUX: entry pages lead with title and summary (#306)
+
+### 日本語
+
+- **2026-08-16 20:20 JST / 背景:** #304 のあと、次の UIUX 面は条目頁。MUFG などは本文第一章が「ウィキ上の位置づけ」で、読者の要約より先にメンテナ導線が出る。
+- **範囲 / 主要ファイル:** `EntryLayout.astro`、`[lang]/[...slug].astro`、`satteri-quiet-wiki-placement.mjs`、`astro.config.mjs`、`global.css`、UI/UX 規格。wiki 本文は変更しない。
+- **実行手順:** H1 の下に TL;DR / 要約 lead を出す。Wiki route / ウィキ上の位置づけを H2 から外し、静かな注記にする。TOC からも外す。文末カードの slug は title に残すだけ。
+- **検証結果 / 残タスク:** ja/en MUFG の visual QA と docs/site check。残タスクは work→`pre`、#306 close。`main` へは指示があるまで push しない。
+
+### English
+
+- **2026-08-16 20:20 JST / Background:** After #304, entry pages are the next UIUX surface. Pages such as MUFG still open the body with wiki placement instead of the summary.
+- **Scope / Primary files:** entry layout, slug page, the new quiet-wiki-placement plugin, CSS, and the UI contract. No wiki body.
+- **Steps:** Put a TL;DR / 要約 lead under the H1. Demote Wiki route / ウィキ上の位置づけ out of chapter-one / TOC. Keep discovery slugs as title text only.
+- **Validation / Follow-up:** ja/en MUFG visual QA and docs/site checks. Remaining: merge to `pre` and close #306. Do not push `main` unless asked.
+
+### 中文
+
+- **2026-08-16 20:20 JST / 背景:** #304 之后下一张 UIUX 面是条目页。MUFG 等页正文第一章仍是「维基位置」，摘要被挤到后面。
+- **范围 / 主要文件:** 条目 layout、slug 页、quiet-wiki-placement 插件、CSS 和 UI 合同。不改 wiki 正文。
+- **执行步骤:** H1 下放出 TL;DR / 要約。把 Wiki route / ウィキ上の位置づけ从第一章和 TOC 拿掉，改成安静注记。文末卡片 slug 只留在 title。
+- **验证 / 后续:** ja/en MUFG visual QA 与 docs/site check。后续合入 `pre` 并关闭 #306。未指示前不 push `main`。
+
+## 2026-08-16 - UIUX: domain pages are a reading guide (#304)
+
+### 日本語
+
+- **2026-08-16 19:40 JST / 背景:** #301 のあと、次の UIUX 面は領域頁。メガバンクの「まず読む」が語彙スコアで au-FH を先頭にしており、一覧要約が INDEX 位置説明になっている。
+- **範囲 / 主要ファイル:** `site/src/pages/[lang]/domains/[domain]/index.astro`、`site/src/lib/domainReadFirst.ts`、`site/src/lib/entryPreviewIndex.mjs`、`site/src/i18n/ui.ts`、UI/UX 規格と visual QA。wiki 本文は変更しない。
+- **実行手順:** メガバンクのまず読むを MUFG / SMFG / みずほ FG に固定。要約は TL;DR / 要約を優先し、INDEX 位置文を捨てる。経路 slug は title に残し、見出しと競合させない。
+- **検証結果 / 残タスク:** `docs:audit`、astro check、ja/en メガバンクと地方銀行の visual QA。残タスクは work→`pre`、#304 close。`main` へは指示があるまで push しない。
+
+### English
+
+- **2026-08-16 19:40 JST / Background:** After #301, domain pages are the next UIUX surface. Megabanks “read first” preferred au-FH via lexical scoring, and list excerpts were INDEX-positioning sentences.
+- **Scope / Primary files:** the domain detail page, `domainReadFirst.ts`, lead extraction, domain-page copy, and the UI contract. No wiki body.
+- **Steps:** Pin megabanks read-first to MUFG / SMFG / Mizuho FG. Prefer TL;DR / 要約 leads and skip INDEX-positioning prose. Keep slugs as quiet citation text.
+- **Validation / Follow-up:** `docs:audit`, astro check, ja/en megabanks and regional-banks visual QA. Remaining: merge to `pre` and close #304. Do not push `main` unless asked.
+
+### 中文
+
+- **2026-08-16 19:40 JST / 背景:** #301 之后下一张 UIUX 面是领域页。メガバンク「先读」被词面分数排成 au-FH，列表摘要是 INDEX 位置说明。
+- **范围 / 主要文件:** 领域详情页、`domainReadFirst.ts`、导语抽取、领域页文案和 UI 合同。不改 wiki 正文。
+- **执行步骤:** メガバンク先读固定为 MUFG / SMFG / みずほ FG。摘要优先 TL;DR / 要約，丢掉 INDEX 位置句。slug 只作引用，不和标题抢视线。
+- **验证 / 后续:** `docs:audit`、astro check、ja/en メガバンク与地方银行 visual QA。后续合入 `pre` 并关闭 #304。未指示前不 push `main`。
+
+## 2026-08-16 - UIUX: home first screen is a reading guide (#301)
+
+### 日本語
+
+- **2026-08-16 19:10 JST / 背景:** #300 の現行季節は UIUX。#301 は第一画面を「一文 + 検索 + 編集済みまず読む」にし、40領域カタログを第一画面から外す。
+- **範囲 / 主要ファイル:** `site/src/pages/index.astro`、`site/src/pages/[lang]/index.astro`、`site/src/i18n/ui.ts`、`docs/05-functional-specs/ui-ux.md`、`docs/07-quality/visual-qa-checklist.md`、`docs/02-product/{ui-ux-principles,prd,human-site-compact-read-surface}.md`。wiki 本文は変更しない。
+- **実行手順:** まず読むはメガバンク、金融庁、銀行免許比較、決済清算基盤、市場インフラ地図、領域一覧の 6 件。Latest reviewed / 領域地図 / 同一主体 / AI リンクは fold 下へ。`.canonical-strip` は導線重複のため削除。
+- **検証結果 / 残タスク:** `docs:audit`、site check、ja/en ホーム visual QA（375 / 768 / 1440）。残タスクは work→`pre`、#301 close。
+
+### English
+
+- **2026-08-16 19:10 JST / Background:** After #300, the season is UIUX. #301 makes the first screen one sentence, search, and an edited start-here list, and moves the 40-domain catalog off that screen.
+- **Scope / Primary files:** root and localized home pages, `site/src/i18n/ui.ts`, UI/UX spec, visual QA, and the home-contract sentences in product docs. No wiki body.
+- **Steps:** Start-here is megabanks, FSA, the banking-license matrix, payment clearing, the market-infrastructure map, and all domains. Latest reviewed, domain map, same-entity pairs, and AI links sit below the fold. Drop `.canonical-strip` so it does not duplicate the guide.
+- **Validation / Follow-up:** `docs:audit`, site check, ja/en home visual QA at 375 / 768 / 1440. Remaining: promote to `pre` and close #301.
+
+### 中文
+
+- **2026-08-16 19:10 JST / 背景:** #300 之后当前季节是 UIUX。#301 把第一屏改成一句话 + 搜索 + 编辑过的「从这里读」，并把 40 领域目录移出第一屏。
+- **范围 / 主要文件:** 根首页与日英首页、`site/src/i18n/ui.ts`、UI/UX 规格、visual QA，以及产品文档里的首页合同句。不改 wiki 正文。
+- **执行步骤:** 从这里读为メガバンク、金融厅、银行执照比较、支付清算、市场基础设施、领域一览。最近更新 / 领域地图 / 同一主体 / AI 放到第一屏以下。删除重复的 `.canonical-strip`。
+- **验证 / 后续:** `docs:audit`、站点 check、ja/en 首页 375 / 768 / 1440 visual QA。后续合入 `pre` 并关闭 #301。
+
+## 2026-08-16 - Roadmap current season: UIUX / Content (#300)
+
+### 日本語
+
+- **2026-08-16 18:25 JST / 背景:** 監査は緑で、corpus は読める量がある。次の段階は内容拡充ではなく、人が読むサイトの導線。Horizon 0–4 の「次は何か」叙述を、UIUX 主線 / Content 保守の二線に置き換える。
+- **範囲 / 主要ファイル:** `docs/01-strategy/roadmap.md`、`docs/01-strategy/next-development-plan.md`、`docs/README.md`、`docs/02-product/japanese-finance-coverage-gap-map.md`、`docs/07-quality/documentation-drift-audit.md`。サイトコードと wiki 本文は変更しない。
+- **実行手順:** 現行季節を UIUX（home → domain → entry）と明記。Content は閾値越えか既存頁の公開事実修正だけ。Horizon 0–4 は閉/停止の履歴として残す。続きの実装は #301（ホーム第一画面）で、本 unit では開かない。
+- **検証結果 / 残タスク:** `bun run docs:audit` と `git diff --check`。残タスクは #300 close、#301 のホーム契約 delta。
+
+### English
+
+- **2026-08-16 18:25 JST / Background:** Audits are green and the corpus is large enough to read. The next season is the human reading path, not content expansion. Replace the Horizon 0–4 “what is next” narrative with two tracks: UIUX main line, Content maintenance.
+- **Scope / Primary files:** `docs/01-strategy/roadmap.md`, `docs/01-strategy/next-development-plan.md`, `docs/README.md`, `docs/02-product/japanese-finance-coverage-gap-map.md`, `docs/07-quality/documentation-drift-audit.md`. No site code and no wiki body.
+- **Steps:** State the current season as UIUX (home → domain → entry). Allow Content only when an audit threshold trips or a named public fact on an existing page is wrong. Keep Horizons 0–4 as closed/paused history. Homepage implementation stays in #301.
+- **Validation / Follow-up:** `bun run docs:audit` and `git diff --check`. Remaining: close #300; spec the #301 home-contract delta.
+
+### 中文
+
+- **2026-08-16 18:25 JST / 背景:** 审计已绿，corpus 已够读。下一阶段是人读站点的导读，不是扩内容。用 UIUX 主线 / Content 维护两线替换 Horizon 0–4 的「下一步」叙述。
+- **范围 / 主要文件:** `docs/01-strategy/roadmap.md`、`docs/01-strategy/next-development-plan.md`、`docs/README.md`、`docs/02-product/japanese-finance-coverage-gap-map.md`、`docs/07-quality/documentation-drift-audit.md`。不改站点代码和 wiki 正文。
+- **执行步骤:** 写明当前季节为 UIUX（首页 → 领域页 → 条目页）。Content 仅在审计越阈值或既有页公开事实错误时才做。Horizon 0–4 留作关闭/暂停历史。首页实现仍在 #301。
+- **验证 / 后续:** `bun run docs:audit` 与 `git diff --check`。后续关闭 #300，并写 #301 首页合同 delta。
+
 ## 2026-08-16 - Entity deepening batch 03 (#296)
 
 ### 日本語
