@@ -1,6 +1,6 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-08-20T13:02:56+09:00",
+  "generated_at": "2026-08-20T13:03:45+09:00",
   "counts": {
     "markdown_files": 1617,
     "public_markdown_pages": 1616,
@@ -3375,7 +3375,7 @@
       "entity_edges": [],
       "nonspace_chars": 6410,
       "word_like_tokens": 1033,
-      "last_modified": "2026-07-30"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "CHANGELOG.md",
@@ -86857,7 +86857,7 @@
       "entity_edges": [],
       "nonspace_chars": 1072,
       "word_like_tokens": 178,
-      "last_modified": "2026-05-20"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.05.20-3.md",
@@ -86888,7 +86888,7 @@
       "entity_edges": [],
       "nonspace_chars": 1071,
       "word_like_tokens": 181,
-      "last_modified": "2026-05-20"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.05.20-4.md",
@@ -86919,7 +86919,7 @@
       "entity_edges": [],
       "nonspace_chars": 1195,
       "word_like_tokens": 215,
-      "last_modified": "2026-05-20"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.05.20-5.md",
@@ -86950,7 +86950,7 @@
       "entity_edges": [],
       "nonspace_chars": 1250,
       "word_like_tokens": 220,
-      "last_modified": "2026-05-20"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.05.20-6.md",
@@ -86981,7 +86981,7 @@
       "entity_edges": [],
       "nonspace_chars": 1244,
       "word_like_tokens": 158,
-      "last_modified": "2026-05-20"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.05.20-7.md",
@@ -87014,7 +87014,7 @@
       "entity_edges": [],
       "nonspace_chars": 1796,
       "word_like_tokens": 270,
-      "last_modified": "2026-05-20"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.05.20-8.md",
@@ -87047,7 +87047,7 @@
       "entity_edges": [],
       "nonspace_chars": 1731,
       "word_like_tokens": 248,
-      "last_modified": "2026-05-20"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.05.20-9.md",
@@ -87085,7 +87085,7 @@
       "entity_edges": [],
       "nonspace_chars": 3250,
       "word_like_tokens": 477,
-      "last_modified": "2026-05-20"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.05.20.md",
@@ -87119,7 +87119,7 @@
       "entity_edges": [],
       "nonspace_chars": 1416,
       "word_like_tokens": 205,
-      "last_modified": "2026-05-20"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.05.21.md",
@@ -87154,7 +87154,7 @@
       "entity_edges": [],
       "nonspace_chars": 7468,
       "word_like_tokens": 1179,
-      "last_modified": "2026-05-22"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.05.22-2.md",
@@ -87187,7 +87187,7 @@
       "entity_edges": [],
       "nonspace_chars": 2477,
       "word_like_tokens": 417,
-      "last_modified": "2026-05-22"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.05.22-3.md",
@@ -87220,7 +87220,7 @@
       "entity_edges": [],
       "nonspace_chars": 2005,
       "word_like_tokens": 315,
-      "last_modified": "2026-05-22"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.05.22-4.md",
@@ -87253,7 +87253,7 @@
       "entity_edges": [],
       "nonspace_chars": 2464,
       "word_like_tokens": 418,
-      "last_modified": "2026-05-22"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.05.22-5.md",
@@ -87286,7 +87286,7 @@
       "entity_edges": [],
       "nonspace_chars": 3369,
       "word_like_tokens": 565,
-      "last_modified": "2026-05-23"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.05.22-6.md",
@@ -87319,7 +87319,7 @@
       "entity_edges": [],
       "nonspace_chars": 2994,
       "word_like_tokens": 509,
-      "last_modified": "2026-05-23"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.05.22-7.md",
@@ -87352,7 +87352,7 @@
       "entity_edges": [],
       "nonspace_chars": 2988,
       "word_like_tokens": 508,
-      "last_modified": "2026-05-23"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.05.22-8.md",
@@ -87385,7 +87385,7 @@
       "entity_edges": [],
       "nonspace_chars": 3846,
       "word_like_tokens": 641,
-      "last_modified": "2026-05-23"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.05.22.md",
@@ -87432,7 +87432,7 @@
       "entity_edges": [],
       "nonspace_chars": 5535,
       "word_like_tokens": 856,
-      "last_modified": "2026-05-22"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.05.23-2.md",
@@ -87465,7 +87465,7 @@
       "entity_edges": [],
       "nonspace_chars": 2950,
       "word_like_tokens": 495,
-      "last_modified": "2026-05-23"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.05.23-3.md",
@@ -87498,7 +87498,7 @@
       "entity_edges": [],
       "nonspace_chars": 3107,
       "word_like_tokens": 540,
-      "last_modified": "2026-05-23"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.05.23-4.md",
@@ -87531,7 +87531,7 @@
       "entity_edges": [],
       "nonspace_chars": 3990,
       "word_like_tokens": 700,
-      "last_modified": "2026-05-23"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.05.23-5.md",
@@ -87564,7 +87564,7 @@
       "entity_edges": [],
       "nonspace_chars": 2734,
       "word_like_tokens": 484,
-      "last_modified": "2026-05-23"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.05.23.md",
@@ -87597,7 +87597,7 @@
       "entity_edges": [],
       "nonspace_chars": 5140,
       "word_like_tokens": 859,
-      "last_modified": "2026-05-23"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.05.24-2.md",
@@ -87637,7 +87637,7 @@
       "entity_edges": [],
       "nonspace_chars": 8538,
       "word_like_tokens": 1542,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.05.24-3.md",
@@ -87680,7 +87680,7 @@
       "entity_edges": [],
       "nonspace_chars": 9449,
       "word_like_tokens": 1705,
-      "last_modified": "2026-05-24"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.05.24.md",
@@ -87737,7 +87737,7 @@
       "entity_edges": [],
       "nonspace_chars": 9877,
       "word_like_tokens": 1733,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.05.25-2.md",
@@ -87770,7 +87770,7 @@
       "entity_edges": [],
       "nonspace_chars": 13185,
       "word_like_tokens": 2405,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.05.25-3.md",
@@ -87803,7 +87803,7 @@
       "entity_edges": [],
       "nonspace_chars": 15444,
       "word_like_tokens": 2759,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.05.25-4.md",
@@ -87841,7 +87841,7 @@
       "entity_edges": [],
       "nonspace_chars": 15800,
       "word_like_tokens": 2682,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.05.25-5.md",
@@ -87874,7 +87874,7 @@
       "entity_edges": [],
       "nonspace_chars": 14189,
       "word_like_tokens": 2720,
-      "last_modified": "2026-05-25"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.05.25.md",
@@ -87921,7 +87921,7 @@
       "entity_edges": [],
       "nonspace_chars": 11599,
       "word_like_tokens": 2104,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.05.29.md",
@@ -87948,7 +87948,7 @@
       "entity_edges": [],
       "nonspace_chars": 1447,
       "word_like_tokens": 272,
-      "last_modified": "2026-07-29"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.05.31-2.md",
@@ -87981,7 +87981,7 @@
       "entity_edges": [],
       "nonspace_chars": 2468,
       "word_like_tokens": 429,
-      "last_modified": "2026-05-31"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.05.31-3.md",
@@ -88014,7 +88014,7 @@
       "entity_edges": [],
       "nonspace_chars": 2339,
       "word_like_tokens": 415,
-      "last_modified": "2026-05-31"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.05.31.md",
@@ -88047,7 +88047,7 @@
       "entity_edges": [],
       "nonspace_chars": 2750,
       "word_like_tokens": 475,
-      "last_modified": "2026-05-31"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.06.01-2.md",
@@ -88080,7 +88080,7 @@
       "entity_edges": [],
       "nonspace_chars": 2577,
       "word_like_tokens": 464,
-      "last_modified": "2026-06-01"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.06.01-3.md",
@@ -88113,7 +88113,7 @@
       "entity_edges": [],
       "nonspace_chars": 2406,
       "word_like_tokens": 446,
-      "last_modified": "2026-06-01"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.06.01-4.md",
@@ -88146,7 +88146,7 @@
       "entity_edges": [],
       "nonspace_chars": 2353,
       "word_like_tokens": 426,
-      "last_modified": "2026-06-01"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.06.01-5.md",
@@ -88179,7 +88179,7 @@
       "entity_edges": [],
       "nonspace_chars": 2688,
       "word_like_tokens": 487,
-      "last_modified": "2026-06-01"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.06.01-6.md",
@@ -88212,7 +88212,7 @@
       "entity_edges": [],
       "nonspace_chars": 2833,
       "word_like_tokens": 489,
-      "last_modified": "2026-06-01"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.06.01-7.md",
@@ -88245,7 +88245,7 @@
       "entity_edges": [],
       "nonspace_chars": 3430,
       "word_like_tokens": 567,
-      "last_modified": "2026-06-01"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.06.01.md",
@@ -88278,7 +88278,7 @@
       "entity_edges": [],
       "nonspace_chars": 2517,
       "word_like_tokens": 446,
-      "last_modified": "2026-06-01"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.06.02-2.md",
@@ -88311,7 +88311,7 @@
       "entity_edges": [],
       "nonspace_chars": 2439,
       "word_like_tokens": 434,
-      "last_modified": "2026-06-02"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.06.02-3.md",
@@ -88344,7 +88344,7 @@
       "entity_edges": [],
       "nonspace_chars": 2208,
       "word_like_tokens": 392,
-      "last_modified": "2026-06-02"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.06.02-4.md",
@@ -88380,7 +88380,7 @@
       "entity_edges": [],
       "nonspace_chars": 3818,
       "word_like_tokens": 668,
-      "last_modified": "2026-06-02"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.06.02-5.md",
@@ -88413,7 +88413,7 @@
       "entity_edges": [],
       "nonspace_chars": 4315,
       "word_like_tokens": 715,
-      "last_modified": "2026-06-02"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.06.02-6.md",
@@ -88446,7 +88446,7 @@
       "entity_edges": [],
       "nonspace_chars": 4062,
       "word_like_tokens": 711,
-      "last_modified": "2026-06-02"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.06.02-7.md",
@@ -88479,7 +88479,7 @@
       "entity_edges": [],
       "nonspace_chars": 4065,
       "word_like_tokens": 694,
-      "last_modified": "2026-06-02"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.06.02-8.md",
@@ -88512,7 +88512,7 @@
       "entity_edges": [],
       "nonspace_chars": 3256,
       "word_like_tokens": 538,
-      "last_modified": "2026-06-02"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.06.02.md",
@@ -88545,7 +88545,7 @@
       "entity_edges": [],
       "nonspace_chars": 2949,
       "word_like_tokens": 525,
-      "last_modified": "2026-06-02"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.06.03-10.md",
@@ -88578,7 +88578,7 @@
       "entity_edges": [],
       "nonspace_chars": 3636,
       "word_like_tokens": 620,
-      "last_modified": "2026-06-03"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.06.03-11.md",
@@ -88611,7 +88611,7 @@
       "entity_edges": [],
       "nonspace_chars": 3255,
       "word_like_tokens": 575,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.06.03-12.md",
@@ -88644,7 +88644,7 @@
       "entity_edges": [],
       "nonspace_chars": 3564,
       "word_like_tokens": 649,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.06.03-13.md",
@@ -88677,7 +88677,7 @@
       "entity_edges": [],
       "nonspace_chars": 3172,
       "word_like_tokens": 551,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.06.03-2.md",
@@ -88710,7 +88710,7 @@
       "entity_edges": [],
       "nonspace_chars": 2219,
       "word_like_tokens": 375,
-      "last_modified": "2026-06-03"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.06.03-3.md",
@@ -88745,7 +88745,7 @@
       "entity_edges": [],
       "nonspace_chars": 3386,
       "word_like_tokens": 585,
-      "last_modified": "2026-06-03"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.06.03-4.md",
@@ -88778,7 +88778,7 @@
       "entity_edges": [],
       "nonspace_chars": 1786,
       "word_like_tokens": 283,
-      "last_modified": "2026-06-03"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.06.03-5.md",
@@ -88811,7 +88811,7 @@
       "entity_edges": [],
       "nonspace_chars": 4442,
       "word_like_tokens": 776,
-      "last_modified": "2026-06-03"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.06.03-6.md",
@@ -88844,7 +88844,7 @@
       "entity_edges": [],
       "nonspace_chars": 4473,
       "word_like_tokens": 763,
-      "last_modified": "2026-06-03"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.06.03-7.md",
@@ -88877,7 +88877,7 @@
       "entity_edges": [],
       "nonspace_chars": 4928,
       "word_like_tokens": 824,
-      "last_modified": "2026-06-03"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.06.03-8.md",
@@ -88910,7 +88910,7 @@
       "entity_edges": [],
       "nonspace_chars": 4076,
       "word_like_tokens": 724,
-      "last_modified": "2026-06-03"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.06.03-9.md",
@@ -88945,7 +88945,7 @@
       "entity_edges": [],
       "nonspace_chars": 4700,
       "word_like_tokens": 789,
-      "last_modified": "2026-06-03"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.06.03.md",
@@ -88978,7 +88978,7 @@
       "entity_edges": [],
       "nonspace_chars": 2711,
       "word_like_tokens": 484,
-      "last_modified": "2026-06-03"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.06.04-1.md",
@@ -89011,7 +89011,7 @@
       "entity_edges": [],
       "nonspace_chars": 2930,
       "word_like_tokens": 505,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.06.04-2.md",
@@ -89044,7 +89044,7 @@
       "entity_edges": [],
       "nonspace_chars": 5242,
       "word_like_tokens": 918,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.06.04-3.md",
@@ -89077,7 +89077,7 @@
       "entity_edges": [],
       "nonspace_chars": 5349,
       "word_like_tokens": 953,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.06.04-4.md",
@@ -89116,7 +89116,7 @@
       "entity_edges": [],
       "nonspace_chars": 5165,
       "word_like_tokens": 919,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.06.04-5.md",
@@ -89149,7 +89149,7 @@
       "entity_edges": [],
       "nonspace_chars": 1950,
       "word_like_tokens": 365,
-      "last_modified": "2026-06-04"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.06.05-1.md",
@@ -89182,7 +89182,7 @@
       "entity_edges": [],
       "nonspace_chars": 2501,
       "word_like_tokens": 470,
-      "last_modified": "2026-06-05"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.06.05-2.md",
@@ -89218,7 +89218,7 @@
       "entity_edges": [],
       "nonspace_chars": 3768,
       "word_like_tokens": 686,
-      "last_modified": "2026-06-05"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.06.05-3.md",
@@ -89257,7 +89257,7 @@
       "entity_edges": [],
       "nonspace_chars": 3475,
       "word_like_tokens": 608,
-      "last_modified": "2026-06-05"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.06.05-4.md",
@@ -89290,7 +89290,7 @@
       "entity_edges": [],
       "nonspace_chars": 2075,
       "word_like_tokens": 366,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.06.05-5.md",
@@ -89330,7 +89330,7 @@
       "entity_edges": [],
       "nonspace_chars": 4845,
       "word_like_tokens": 836,
-      "last_modified": "2026-06-05"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.06.06-1.md",
@@ -89368,7 +89368,7 @@
       "entity_edges": [],
       "nonspace_chars": 4236,
       "word_like_tokens": 745,
-      "last_modified": "2026-06-06"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.06.07.md",
@@ -89401,7 +89401,7 @@
       "entity_edges": [],
       "nonspace_chars": 8566,
       "word_like_tokens": 1430,
-      "last_modified": "2026-06-08"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.06.22-1.md",
@@ -89434,7 +89434,7 @@
       "entity_edges": [],
       "nonspace_chars": 2993,
       "word_like_tokens": 502,
-      "last_modified": "2026-06-22"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.07.27-1.md",
@@ -89467,7 +89467,7 @@
       "entity_edges": [],
       "nonspace_chars": 2551,
       "word_like_tokens": 465,
-      "last_modified": "2026-07-27"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.07.27-2.md",
@@ -89500,7 +89500,7 @@
       "entity_edges": [],
       "nonspace_chars": 2684,
       "word_like_tokens": 486,
-      "last_modified": "2026-07-27"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.07.27-3.md",
@@ -89533,7 +89533,7 @@
       "entity_edges": [],
       "nonspace_chars": 2873,
       "word_like_tokens": 537,
-      "last_modified": "2026-07-27"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.07.27-4.md",
@@ -89566,7 +89566,7 @@
       "entity_edges": [],
       "nonspace_chars": 4019,
       "word_like_tokens": 753,
-      "last_modified": "2026-07-27"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.07.27-5.md",
@@ -89599,7 +89599,7 @@
       "entity_edges": [],
       "nonspace_chars": 3548,
       "word_like_tokens": 624,
-      "last_modified": "2026-07-27"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.07.27-6.md",
@@ -89632,7 +89632,7 @@
       "entity_edges": [],
       "nonspace_chars": 4758,
       "word_like_tokens": 829,
-      "last_modified": "2026-07-27"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.07.27.md",
@@ -89665,7 +89665,7 @@
       "entity_edges": [],
       "nonspace_chars": 3201,
       "word_like_tokens": 553,
-      "last_modified": "2026-07-27"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.07.28-1.md",
@@ -89698,7 +89698,7 @@
       "entity_edges": [],
       "nonspace_chars": 2718,
       "word_like_tokens": 524,
-      "last_modified": "2026-07-28"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.07.28-2.md",
@@ -89731,7 +89731,7 @@
       "entity_edges": [],
       "nonspace_chars": 3859,
       "word_like_tokens": 693,
-      "last_modified": "2026-07-28"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.07.28-3.md",
@@ -89764,7 +89764,7 @@
       "entity_edges": [],
       "nonspace_chars": 2489,
       "word_like_tokens": 467,
-      "last_modified": "2026-07-28"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.07.28-4.md",
@@ -89797,7 +89797,7 @@
       "entity_edges": [],
       "nonspace_chars": 4010,
       "word_like_tokens": 713,
-      "last_modified": "2026-07-28"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.07.28-5.md",
@@ -89830,7 +89830,7 @@
       "entity_edges": [],
       "nonspace_chars": 4972,
       "word_like_tokens": 886,
-      "last_modified": "2026-07-28"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.07.28-6.md",
@@ -89863,7 +89863,7 @@
       "entity_edges": [],
       "nonspace_chars": 3245,
       "word_like_tokens": 556,
-      "last_modified": "2026-07-28"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.07.28-7.md",
@@ -89896,7 +89896,7 @@
       "entity_edges": [],
       "nonspace_chars": 3047,
       "word_like_tokens": 545,
-      "last_modified": "2026-07-28"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.07.28-8.md",
@@ -89929,7 +89929,7 @@
       "entity_edges": [],
       "nonspace_chars": 3710,
       "word_like_tokens": 649,
-      "last_modified": "2026-07-28"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.07.28-9.md",
@@ -89962,7 +89962,7 @@
       "entity_edges": [],
       "nonspace_chars": 5545,
       "word_like_tokens": 993,
-      "last_modified": "2026-07-29"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.07.28.md",
@@ -89995,7 +89995,7 @@
       "entity_edges": [],
       "nonspace_chars": 2928,
       "word_like_tokens": 502,
-      "last_modified": "2026-07-28"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.07.29-10.md",
@@ -90028,7 +90028,7 @@
       "entity_edges": [],
       "nonspace_chars": 6883,
       "word_like_tokens": 1259,
-      "last_modified": "2026-07-29"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.07.29-11.md",
@@ -90061,7 +90061,7 @@
       "entity_edges": [],
       "nonspace_chars": 7631,
       "word_like_tokens": 1366,
-      "last_modified": "2026-07-29"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.07.29-12.md",
@@ -90094,7 +90094,7 @@
       "entity_edges": [],
       "nonspace_chars": 6574,
       "word_like_tokens": 1141,
-      "last_modified": "2026-07-29"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.07.29-13.md",
@@ -90127,7 +90127,7 @@
       "entity_edges": [],
       "nonspace_chars": 5623,
       "word_like_tokens": 979,
-      "last_modified": "2026-07-29"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.07.29-14.md",
@@ -90160,7 +90160,7 @@
       "entity_edges": [],
       "nonspace_chars": 6393,
       "word_like_tokens": 1158,
-      "last_modified": "2026-07-29"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.07.29-15.md",
@@ -90193,7 +90193,7 @@
       "entity_edges": [],
       "nonspace_chars": 6946,
       "word_like_tokens": 1245,
-      "last_modified": "2026-07-29"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.07.29-16.md",
@@ -90226,7 +90226,7 @@
       "entity_edges": [],
       "nonspace_chars": 5777,
       "word_like_tokens": 1010,
-      "last_modified": "2026-07-29"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.07.29-17.md",
@@ -90259,7 +90259,7 @@
       "entity_edges": [],
       "nonspace_chars": 5703,
       "word_like_tokens": 964,
-      "last_modified": "2026-07-30"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.07.29-2.md",
@@ -90292,7 +90292,7 @@
       "entity_edges": [],
       "nonspace_chars": 4653,
       "word_like_tokens": 830,
-      "last_modified": "2026-07-29"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.07.29-3.md",
@@ -90325,7 +90325,7 @@
       "entity_edges": [],
       "nonspace_chars": 5401,
       "word_like_tokens": 961,
-      "last_modified": "2026-07-29"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.07.29-4.md",
@@ -90358,7 +90358,7 @@
       "entity_edges": [],
       "nonspace_chars": 4767,
       "word_like_tokens": 872,
-      "last_modified": "2026-07-29"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.07.29-5.md",
@@ -90391,7 +90391,7 @@
       "entity_edges": [],
       "nonspace_chars": 5640,
       "word_like_tokens": 1047,
-      "last_modified": "2026-07-29"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.07.29-6.md",
@@ -90424,7 +90424,7 @@
       "entity_edges": [],
       "nonspace_chars": 6968,
       "word_like_tokens": 1299,
-      "last_modified": "2026-07-29"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.07.29-7.md",
@@ -90457,7 +90457,7 @@
       "entity_edges": [],
       "nonspace_chars": 8142,
       "word_like_tokens": 1515,
-      "last_modified": "2026-07-29"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.07.29-8.md",
@@ -90490,7 +90490,7 @@
       "entity_edges": [],
       "nonspace_chars": 7739,
       "word_like_tokens": 1416,
-      "last_modified": "2026-07-29"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.07.29-9.md",
@@ -90523,7 +90523,7 @@
       "entity_edges": [],
       "nonspace_chars": 6794,
       "word_like_tokens": 1238,
-      "last_modified": "2026-07-29"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.07.29.md",
@@ -90556,7 +90556,7 @@
       "entity_edges": [],
       "nonspace_chars": 5111,
       "word_like_tokens": 929,
-      "last_modified": "2026-07-29"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.07.30-2.md",
@@ -90589,7 +90589,7 @@
       "entity_edges": [],
       "nonspace_chars": 2256,
       "word_like_tokens": 406,
-      "last_modified": "2026-07-30"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.07.30.md",
@@ -90622,7 +90622,7 @@
       "entity_edges": [],
       "nonspace_chars": 7039,
       "word_like_tokens": 1187,
-      "last_modified": "2026-07-30"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.08.14-2.md",
@@ -90655,7 +90655,7 @@
       "entity_edges": [],
       "nonspace_chars": 1532,
       "word_like_tokens": 292,
-      "last_modified": "2026-08-14"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.08.14-3.md",
@@ -90688,7 +90688,7 @@
       "entity_edges": [],
       "nonspace_chars": 1455,
       "word_like_tokens": 264,
-      "last_modified": "2026-08-14"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.08.14-4.md",
@@ -90721,7 +90721,7 @@
       "entity_edges": [],
       "nonspace_chars": 1283,
       "word_like_tokens": 222,
-      "last_modified": "2026-08-14"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.08.14.md",
@@ -90754,7 +90754,7 @@
       "entity_edges": [],
       "nonspace_chars": 1587,
       "word_like_tokens": 294,
-      "last_modified": "2026-08-14"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.08.15.md",
@@ -90787,7 +90787,7 @@
       "entity_edges": [],
       "nonspace_chars": 1284,
       "word_like_tokens": 246,
-      "last_modified": "2026-08-15"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.08.16.md",
@@ -90820,7 +90820,7 @@
       "entity_edges": [],
       "nonspace_chars": 1102,
       "word_like_tokens": 198,
-      "last_modified": "2026-08-16"
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.08.20-2.md",
