@@ -1,6 +1,6 @@
 # FinWiki Full LLM Manifest
 
-Generated: 2026-08-20T12:35:04+09:00
+Generated: 2026-08-20T12:35:44+09:00
 Site: https://finwiki.zksc.io
 Markdown files: 1616
 Public pages listed: 1615
