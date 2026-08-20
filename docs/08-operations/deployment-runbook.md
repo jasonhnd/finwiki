@@ -139,7 +139,7 @@ Push to `main` (and `workflow_dispatch`) triggers `.github/workflows/deploy.yml`
 
 The `deploy` job then publishes the artifact via `actions/deploy-pages`. Always use `gh run watch` after a production push; a local green gate does not prove Pages permissions or the external deployment state.
 
-Every push to `origin/main` must keep the release note and GitHub Release aligned with the trilingual release-document contract: Japanese-only title, body ordered Japanese -> English -> Chinese, and explicit scope, changes, validation, known notes and next steps in every language. This does not add a Chinese human-site locale; public reading routes remain ja/en.
+Every push to `origin/main` must keep the release note and GitHub Release aligned with the bilingual release-document contract: Japanese-only title, body ordered Japanese -> English, and explicit scope, changes, validation, known notes and next steps in every language. Public reading routes remain ja/en. There is no Chinese locale.
 
 Create the tag and GitHub Release only after the exact main merge SHA and successful production deployment are known. The tag target, Release target and recorded promotion SHA must match. Use `gh release view` / `gh release edit` only after the local release note narrative is complete.
 

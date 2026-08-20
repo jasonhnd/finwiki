@@ -109,7 +109,7 @@ export function verificationPipeline(outDir: string): Step[] {
       command: bunCommand("install", "--frozen-lockfile"),
     },
     {
-      label: "Audit trilingual release documentation",
+      label: "Audit bilingual release documentation",
       command: bunCommand("run", "release:docs"),
     },
     {

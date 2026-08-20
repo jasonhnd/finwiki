@@ -1,11 +1,11 @@
 # 发布流程 / Release Process
 
-发布规则源头是根目录 `AGENTS.md` 与当前 i18n 架构：**任何**内容/结构/索引/领域/公开快照/运营规则变更，都要在同一 session 内同步日文、英文、中文发布文档。三语发布记录不改变人类站点只支持 ja/en 的 locale 边界。
+发布规则源头是根目录 `AGENTS.md` 与当前 i18n 架构：**任何**内容/结构/索引/领域/公开快照/运营规则变更，都要在同一 session 内同步日文・英文发布文档。人类站点の locale は ja/en のみで、中国語の読面は作りません。
 
 ## 标准步骤
 
 ```
-1. work branch で変更し、README.md + CHANGELOG.md（日→英→中）と必要な release note を更新
+1. work branch で変更し、README.md + CHANGELOG.md（日→英）と必要な release note を更新
 2. bun run release:docs
 3. bun tools/release.ts --write
 4. bun run verify                         # pre-commit gate
@@ -25,12 +25,12 @@
 
 `main` への direct push は release 手順ではありません。bootstrap promotion で required workflow が初めて `main` に入る場合は、その production deploy 完了直後に branch protection を有効化し、以後は PR と current `Required verification` を必須にします。
 
-## 三语发布文档格式
+## 日英发布文档格式
 
-- **README**：顶层语言 section 必须精确为 `## 日本語` → `## English` → `## 中文`；三段维护相同入口、规则、验证和 release 契约。
-- **CHANGELOG 条目**：最新日期在最上。Maintenance Principles 与每个 `## YYYY-MM-DD - ...` 条目都必须依次包含 `### 日本語` → `### English` → `### 中文`；每种语言记录 JST 时间、背景、范围、主要文件或目录、执行步骤、验证结果与后续事项。
-- **release notes 文件**：`# <只含日文的标题>` → `## 日本語` / `## English` / `## 中文`。每种语言按顺序包含 5 个三级标题：公開範囲 / 主要変更 / 検証結果 / 既知の注意点 / 次の作業；Release Scope / Major Changes / Validation Results / Known Notes / Next Steps；发布范围 / 主要变更 / 验证结果 / 已知注意事项 / 下一步。
-- **GitHub Release**：title **只用日文**；body 用 `--notes-file` 指向上述三语 release note。
+- **README**：顶层语言 section 必须精确为 `## 日本語` → `## English`。入口、规则、验证和 release 契约をこの二言語で維持する。
+- **CHANGELOG 条目**：最新日期在最上。Maintenance Principles 与每个 `## YYYY-MM-DD - ...` 条目都必须依次包含 `### 日本語` → `### English`；每种语言记录 JST 时间、背景、范围、主要文件或目录、执行步骤、验证结果与后续事项。
+- **release notes 文件**：`# <只含日文的标题>` → `## 日本語` / `## English`。每种语言按顺序包含 5 个三级标题：公開範囲 / 主要変更 / 検証結果 / 既知の注意点 / 次の作業；Release Scope / Major Changes / Validation Results / Known Notes / Next Steps。
+- **GitHub Release**：title **只用日文**；body 用 `--notes-file` 指向上述日英 release note。
 - **历史边界**：`bun run release:docs` 对 2026-07-27 以前的 release notes grandfather，不批量改写公开历史；新 release note 没有例外。
 
 ## Release state reconciliation

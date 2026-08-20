@@ -12,7 +12,7 @@ The runtime must exactly match `.bun-version`. `bun run verify` installs `site/`
 
 ## Release-document contract
 
-`bun run release:docs` checks that root `README.md` has exactly `## 日本語 -> ## English -> ## 中文`, and that the Maintenance Principles plus every dated `CHANGELOG.md` entry use the same order. Release notes dated 2026-07-27 or later must have a Japanese-only H1, the same three language sections, and scope / changes / validation / known-notes / next-steps subsections in each language. Older release notes remain grandfathered public history.
+`bun run release:docs` checks that root `README.md` has exactly `## 日本語 -> ## English`, and that the Maintenance Principles plus every dated `CHANGELOG.md` entry use the same order. Release notes dated 2026-07-27 or later must have a Japanese-only H1, the same two language sections, and scope / changes / validation / known-notes / next-steps subsections in each language. Older release notes remain grandfathered public history. The public site locale remains ja/en; there is no Chinese reading surface.
 
 ## `--write`
 
