@@ -1,11 +1,11 @@
-# 发布流程 / Release Process
+# リリース手順 / Release Process
 
-发布规则源头是根目录 `AGENTS.md` 与当前 i18n 架构：**任何**内容/结构/索引/领域/公开快照/运营规则变更，都要在同一 session 内同步日文、英文、中文发布文档。三语发布记录不改变人类站点只支持 ja/en 的 locale 边界。
+公開文書の契約は根ディレクトリ `AGENTS.md` です。内容・構造・索引・領域・公開スナップショット・運用ルールを変えるときは、同じ session で日本語→英語の README / CHANGELOG / 必要な release note を揃えます。人間向けサイトの locale は ja/en のみで、中国語の読面は作りません。
 
 ## 标准步骤
 
 ```
-1. work branch で変更し、README.md + CHANGELOG.md（日→英→中）と必要な release note を更新
+1. work branch で変更し、README.md + CHANGELOG.md（日→英）と必要な release note を更新
 2. bun run release:docs
 3. bun tools/release.ts --write
 4. bun run verify                         # pre-commit gate
@@ -25,13 +25,13 @@
 
 `main` への direct push は release 手順ではありません。bootstrap promotion で required workflow が初めて `main` に入る場合は、その production deploy 完了直後に branch protection を有効化し、以後は PR と current `Required verification` を必須にします。
 
-## 三语发布文档格式
+## 日英の公開文書フォーマット
 
-- **README**：顶层语言 section 必须精确为 `## 日本語` → `## English` → `## 中文`；三段维护相同入口、规则、验证和 release 契约。
-- **CHANGELOG 条目**：最新日期在最上。Maintenance Principles 与每个 `## YYYY-MM-DD - ...` 条目都必须依次包含 `### 日本語` → `### English` → `### 中文`；每种语言记录 JST 时间、背景、范围、主要文件或目录、执行步骤、验证结果与后续事项。
-- **release notes 文件**：`# <只含日文的标题>` → `## 日本語` / `## English` / `## 中文`。每种语言按顺序包含 5 个三级标题：公開範囲 / 主要変更 / 検証結果 / 既知の注意点 / 次の作業；Release Scope / Major Changes / Validation Results / Known Notes / Next Steps；发布范围 / 主要变更 / 验证结果 / 已知注意事项 / 下一步。
-- **GitHub Release**：title **只用日文**；body 用 `--notes-file` 指向上述三语 release note。
-- **历史边界**：`bun run release:docs` 对 2026-07-27 以前的 release notes grandfather，不批量改写公开历史；新 release note 没有例外。
+- **README**：トップレベル言語 section は正確に `## 日本語` → `## English`。入口、規則、検証、release 契約をこの二言語で維持する。
+- **CHANGELOG 条目**：最新日付が最上。Maintenance Principles と各 `## YYYY-MM-DD - ...` 条目は順に `### 日本語` → `### English`。各言語に JST 時刻、背景、範囲、主要ファイルまたはディレクトリ、実行手順、検証結果、残タスクを書く。
+- **release notes ファイル**：`# <日本語のみの標題>` → `## 日本語` / `## English`。各言語は順に 5 つの三級標題：公開範囲 / 主要変更 / 検証結果 / 既知の注意点 / 次の作業；Release Scope / Major Changes / Validation Results / Known Notes / Next Steps。
+- **GitHub Release**：title は **日本語のみ**。body は `--notes-file` で上記の日英 release note を指す。
+- **履歴境界**：`bun run release:docs` は 2026-07-27 以前の release notes を grandfather し、公開履歴を一括改写しない。新しい release note に例外はない。
 
 ## Release state reconciliation
 
@@ -53,10 +53,10 @@ bun tools/release.ts --check --strict || { bun tools/release.ts --write; bun too
 
 `generate_ai_discovery.ts` 在 full-history checkout 对 tracked source 优先使用最新 Git commit date；canonical GitHub workflows 以 `fetch-depth: 0` 保证该输入。shallow/history-less builder 先复用现有 committed `ai-index.json` 的合法 source-path date，再尝试 shallow Git，fs mtime 仅是最终 fallback。commit 前，已编辑的 tracked file 仍使用旧 commit date；source commit 后必须重新生成，并 amend 或追加 release-sync commit，使 sitemap 与 per-entry API 收敛。最后再跑 `bun run verify`；其 `surface:drift` 会固定 `generated_at` 并精确比较所有生成文件，包括每个 per-entry `last_modified`。详见 [gotchas.md](../07-quality/gotchas.md)。
 
-## 发布前自检清单
+## 公開前の点検
 
-- [ ] README / CHANGELOG 已按日文→英文→中文更新；index.html 的 ja/en 人类入口保持同步
-- [ ] `releases/v<date>-<N>.md` 已建（三语、只含日文的 H1、每语 5 个必填小节）
+- [ ] README / CHANGELOG を日本語→英語で更新し、index.html の ja/en 入口を同期した
+- [ ] `releases/v<date>-<N>.md` を作った（日英、日本語のみの H1、各言語 5 必須節）
 - [ ] Bun version 与 `.bun-version` 一致，`bun run verify` `EXIT=0`
 - [ ] work branch → `pre` PR 的 `Required verification` 为 green；promotion 後は `main` protection も同じ current context を要求
 - [ ] `pre` → `main` promotion PR の boundary、resulting main SHA、tag target、GitHub Release target が同一
