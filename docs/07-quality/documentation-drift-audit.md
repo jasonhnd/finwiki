@@ -1,6 +1,6 @@
 # Documentation Drift Audit
 
-> Refreshed 2026-07-28 JST. This is the active baseline for developer documentation, root control docs, generated discovery/API surfaces, and the implementation facts those docs describe. The original 2026-06-08 plan is retained as completed history in [Next Development Plan](../01-strategy/next-development-plan.md).
+> Refreshed 2026-08-16 JST. This is the active baseline for developer documentation, root control docs, generated discovery/API surfaces, and the implementation facts those docs describe. The current-season control document is [Roadmap](../01-strategy/roadmap.md). The original 2026-06-08 plan is retained as completed history in [Next Development Plan](../01-strategy/next-development-plan.md).
 
 ## Scope
 
@@ -30,7 +30,7 @@
 | Finding | Status | Fix |
 |---|---|---|
 | Moved flat-doc paths | Clean | Stale moved-path scan found no active references to former flat docs or former `site/` docs paths. |
-| Active roadmap wording | Fixed and guarded | Roadmap/backlog label delivered work as history and route live status to GitHub instead of copying numbered queues. |
+| Active roadmap wording | Fixed and guarded | Roadmap/backlog label delivered work as history and route live status to GitHub instead of copying numbered queues. 2026-08-16: current season is UIUX (home → domain → entry); Content is maintenance only; Horizons 0–4 are closed/paused history. |
 | JapanFG split design drift | Fixed | The design now reflects actual 17 new domains, 40 total domains, and retained `JapanFG/INDEX` umbrella behavior. |
 | Entry authoring canonical examples | Fixed | Old `JapanFG/<entity>` anchor examples now use actual post-split entity paths. |
 | Source canonical anchors | Fixed | Remaining root source declarations that pointed at old JapanFG-prefixed entity paths were updated to current entity paths. |

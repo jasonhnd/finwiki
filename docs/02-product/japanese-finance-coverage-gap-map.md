@@ -9,7 +9,7 @@ Give FinWiki a gap-driven view of Japanese finance coverage. The map compares wh
 ## Inputs
 
 - Current domain snapshot: `docs/02-product/domains.md`, root `INDEX.md`, and domain `INDEX.md` files.
-- Current expansion stance: `docs/01-strategy/next-development-plan.md` and `docs/01-strategy/roadmap.md`.
+- Current expansion stance: [Roadmap](../01-strategy/roadmap.md) (UIUX season; Content expansion is paused). [Next Development Plan](../01-strategy/next-development-plan.md) is historical only.
 - Public-source basis for future candidate work:
   - FSA licensed / registered operator lists: `https://www.fsa.go.jp/menkyo/menkyo.html`
   - FSA financial business operator search: `https://search.fsa.go.jp/`

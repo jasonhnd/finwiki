@@ -16,7 +16,7 @@ Give a human reader one compact way to see **what the wiki currently covers** an
 
 | Component | Data source | Reader job |
 |---|---|---|
-| Domain coverage map | Existing domain indexes and `ai-index.json` domain counts | Answer "what exists here?" |
+| Domain coverage map | Existing domain indexes and `ai-index.json` domain counts | Answer "what exists here?" after the first-screen start-here guide (#301). The map must not occupy the home first screen. |
 | Anchor / mirror grouping | Already-declared `canonical_anchor` (currently 12 live mirrors) | Answer "is this the same entity as that page?" |
 | Browse excerpts | Existing title + first lead / TL;DR already rendered on domain pages | Answer "should I open this?" |
 

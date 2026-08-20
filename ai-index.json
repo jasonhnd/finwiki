@@ -1,16 +1,16 @@
 {
   "site": "https://finwiki.zksc.io",
-  "generated_at": "2026-08-16T00:20:50+09:00",
+  "generated_at": "2026-08-20T12:35:44+09:00",
   "counts": {
-    "markdown_files": 1615,
-    "public_markdown_pages": 1614,
+    "markdown_files": 1616,
+    "public_markdown_pages": 1615,
     "site_urls_in_sitemap": 1482,
     "topical_domains": 40,
     "link_audited_entries": 1489,
     "entries_with_any_issue": 0,
     "unresolved_link_issues": 0,
-    "nonspace_utf8_chars": 11203776,
-    "word_like_tokens": 1806866,
+    "nonspace_utf8_chars": 11218308,
+    "word_like_tokens": 1809600,
     "entity_anchors": 13,
     "entity_mirror_pages": 13,
     "entity_nodes": 103,
@@ -3396,11 +3396,11 @@
         "日本語",
         "English",
         "中文",
-        "2026-08-16 - Entity deepening batch 03 (#296)",
+        "2026-08-20 - Release: 読者経路の組版を main へ公開 (v2026.08.20)",
         "日本語",
         "English",
         "中文",
-        "2026-08-15 - Entity deepening batch 03 spec (#296)"
+        "2026-08-17 - UIUX: 残りの面を同じ組版にする (#312)"
       ],
       "wikilinks": [],
       "resolved_wikilinks": [],
@@ -3409,9 +3409,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 294943,
-      "word_like_tokens": 54275,
-      "last_modified": "2026-08-16"
+      "nonspace_chars": 306810,
+      "word_like_tokens": 56511,
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "HOW-TO-NAVIGATE.md",
@@ -3969,9 +3969,9 @@
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 28387,
-      "word_like_tokens": 4750,
-      "last_modified": "2026-08-16"
+      "nonspace_chars": 28416,
+      "word_like_tokens": 4760,
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "SCHEMA.md",
@@ -86819,13 +86819,14 @@
         "./v2026.08.14.md",
         "./v2026.08.15.md",
         "./v2026.08.16.md",
+        "./v2026.08.20.md",
         "https://github.com/jasonhnd/finwiki/blob/528c39e81be2faf3e7d17c1197da9a5569985e51/CHANGELOG.md"
       ],
       "entity_node": null,
       "entity_edges": [],
-      "nonspace_chars": 12821,
-      "word_like_tokens": 2459,
-      "last_modified": "2026-08-16"
+      "nonspace_chars": 13224,
+      "word_like_tokens": 2540,
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "releases/v2026.05.20-2.md",
@@ -90833,6 +90834,39 @@
       "nonspace_chars": 1456,
       "word_like_tokens": 261,
       "last_modified": "2026-08-16"
+    },
+    {
+      "source_path": "releases/v2026.08.20.md",
+      "url": "https://finwiki.zksc.io/releases/v2026.08.20.md",
+      "html_url": null,
+      "alternate_html_urls": null,
+      "raw_markdown_url": "https://finwiki.zksc.io/releases/v2026.08.20.md",
+      "github_url": "https://github.com/jasonhnd/finwiki/blob/main/releases/v2026.08.20.md",
+      "title": "読者経路の組版を公開",
+      "domain": "releases",
+      "entry_type": "release_note",
+      "canonical_anchor": "",
+      "summary": "",
+      "headings": [
+        "読者経路の組版を公開",
+        "日本語",
+        "公開範囲",
+        "主要変更",
+        "検証結果",
+        "既知の注意点",
+        "次の作業",
+        "English",
+        "Release Scope",
+        "Major Changes"
+      ],
+      "wikilinks": [],
+      "resolved_wikilinks": [],
+      "markdown_links": [],
+      "entity_node": null,
+      "entity_edges": [],
+      "nonspace_chars": 2233,
+      "word_like_tokens": 407,
+      "last_modified": "2026-08-20"
     },
     {
       "source_path": "retail/INDEX.md",
