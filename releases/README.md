@@ -1,5 +1,6 @@
 # リリース状態台帳 / Release State Registry / 发布状态台账
 
+- [v2026.08.20](./v2026.08.20.md) — reading-path typesetting (#300–#312)
 - [v2026.08.16](./v2026.08.16.md) — entity deepening batch 03 (#296)
 - [v2026.08.15](./v2026.08.15.md) — entity deepening batch 02 (#292)
 - [v2026.08.14-4](./v2026.08.14-4.md) — compact human-site read surface (#287)
@@ -35,6 +36,7 @@
 - `v2026.07.29-16` は、Issue #237 の table-related warnings 123 件を exchanges の 81 source entries で公開一次資料へ校正して 0 件へ減らし、運営法人、規制 status、service lifecycle、incident と dynamic market / custody comparison の境界を修正して ja / en 162 mirrors を同期する release です。
 - `v2026.07.29-17` は、Issue #238 の table-related warnings 233 件を finance / real-estate-finance の 49 source entries で公開一次資料へ校正して 0 件へ減らし、法定 threshold、model assumption、J-REIT の統計口径、issuer-specific metric を修正して ja / en 98 mirrors を同期する release です。
 - `v2026.07.30` は、Issue #239 の table-related warnings 162 件を fintech の 65 source entries で公開一次資料へ校正して 0 件へ減らし、法令・licence・pilot・issuer / reserve・redemption・market metric の境界を修正して ja / en 130 mirrors を同期する release です。
+- `v2026.08.20` は、Issue #300〜#312 の人間向け読者経路（ホーム、領域、条目、領域総表、全項目、ルート、検索）の組版を `pre` から `main` へ公開する release です。
 
 ### 個別には公開しない staging record
 
@@ -76,6 +78,7 @@ This registry makes the relationship among `releases/v*.md`, Git tags, and GitHu
 - `v2026.07.29-16` publishes Issue #237's public-primary-source corrections that reduce 123 table-related warnings to zero across 81 exchange source entries, correcting operating-entity, regulatory-status, service-lifecycle, incident, and dynamic market / custody-comparison boundaries while synchronizing 162 ja/en mirrors.
 - `v2026.07.29-17` publishes Issue #238's public-primary-source corrections that reduce 233 table-related warnings to zero across 49 finance / real-estate-finance source entries, correcting statutory thresholds, model assumptions, J-REIT statistical denominators, and issuer-specific metrics while synchronizing 98 ja/en mirrors.
 - `v2026.07.30` publishes Issue #239's public-primary-source corrections that reduce 162 table-related warnings to zero across 65 fintech source entries, correcting boundaries among statutes, licences, pilots, issuer and reserve structures, redemption, and market metrics while synchronizing 130 ja/en mirrors.
+- `v2026.08.20` publishes the human-site reading-path typesetting from Issues #300–#312, promoting home, domain, entry, domain list, browse, root, and search from `pre` to `main`.
 
 ### Staging records not published individually
 
@@ -117,6 +120,7 @@ The 6,127-line detailed timeline removed from the root `CHANGELOG.md` during the
 - `v2026.07.29-16` 发布 Issue #237 对 exchanges 的 81 个 source entries 中 123 条 table-related warnings 的公开一手资料校正并将其降至 0，修复运营法人、监管 status、service lifecycle、incident 与 dynamic market / custody comparison 的边界，并同步 162 份 ja / en mirrors。
 - `v2026.07.29-17` 发布 Issue #238 对 finance / real-estate-finance 的 49 个 source entries 中 233 条 table-related warnings 的公开一手资料校正并将其降至 0，修复法定 threshold、model assumption、J-REIT 统计分母与 issuer-specific metric，并同步 98 份 ja / en mirrors。
 - `v2026.07.30` 发布 Issue #239 对 fintech 的 65 个 source entries 中 162 条 table-related warnings 的公开一手资料校正并将其降至 0，修复法律、licence、pilot、issuer / reserve 结构、redemption 与 market metric 的边界，并同步 130 份 ja / en mirrors。
+- `v2026.08.20` 发布 Issue #300–#312 的人类站点阅读路径排版，把首页、领域、条目、领域总表、全项目、根页和搜索从 `pre` 公开到 `main`。
 
 ### 不单独发布的 staging record
 
