@@ -4,27 +4,35 @@
 
 ### 日本語
 
-- 本ファイルは `README.md` と同様に、日本語、英語、中国語を同時に維持します。
-- 説明と作業記録は、日本語を先に置き、次に英語、その後に中国語を置きます。
+- 本ファイルは `README.md` と同様に、日本語と英語を同時に維持します。
+- 説明と作業記録は、日本語を先に置き、次に英語を置きます。
 - 重要な作業ごとに、短い要約だけでなく詳細なタイムラインを残します。
 - 各記録には、可能な限り JST 時刻、背景、影響範囲、主要ファイルまたはディレクトリ、実行手順、検証結果、残タスクを含めます。
 - 本リポジトリ本文には公開インターネット情報、公的資料、公開開示、または公開情報に基づく分析のみを残します。
 
 ### English
 
-- This file, like `README.md`, is maintained in Japanese, English, and Chinese together.
-- Explanatory text and work records put Japanese first, English second, and Chinese third.
+- This file, like `README.md`, is maintained in Japanese and English together.
+- Explanatory text and work records put Japanese first and English second.
 - Important work must leave a detailed timeline rather than only a short summary.
 - Each record should include JST time, background, scope, main files or directories, execution steps, validation results, and follow-up items whenever possible.
 - Body content in this repository is limited to public internet information, official materials, public disclosures, or analysis based on public sources.
 
-### 中文
+## 2026-08-20 - Docs: README / CHANGELOG / releases を日英だけにする (#316)
 
-- 本文件与 `README.md` 一样，必须同时维护日文、英文和中文。
-- 说明与工作记录必须按日文在前、英文在中、中文在后的顺序排列。
-- 重要工作必须保留详细时间线，不能只写简短概述。
-- 每条记录应尽可能包含 JST 时间、背景、范围、主要文件或目录、执行步骤、验证结果与后续事项。
-- 本仓库正文只允许使用互联网公开信息、官方资料、公开披露或基于公开来源的分析。
+### 日本語
+
+- **2026-08-20 13:10 JST / 背景:** 人間向けサイトは ja/en のみ。README・CHANGELOG・releases に残っていた中文は読面と食い違う。README は 35 項の運用規則の複製で、入口として読めない。
+- **範囲 / 主要ファイル:** `README.md`、`CHANGELOG.md`、`releases/**`、`AGENTS.md`、release-document audit、release-process / release-gate。wiki 本文は変更しない。
+- **実行手順:** 中文 section を削除。契約を `日本語 → English` に変更。README を読む導線の入口として書き直す。count 表の同期キーは残す。
+- **検証結果 / 残タスク:** `bun test tools/release_documentation_audit.test.ts`、`bun run release:docs`。残タスクは `pre` へ merge し、指示があれば `main` へ。
+
+### English
+
+- **2026-08-20 13:10 JST / Background:** The human site is ja/en only. Chinese sections in README, CHANGELOG, and releases contradicted that surface. README duplicated 35 operating rules and did not read as an entrance.
+- **Scope / Primary files:** README, CHANGELOG, `releases/**`, `AGENTS.md`, the release-document audit, and the release-process / release-gate docs. No wiki body.
+- **Steps:** Strip Chinese sections. Change the contract to Japanese then English. Rewrite README as a reading-path entrance. Keep the count-table keys `release.ts` syncs.
+- **Validation / Follow-up:** `bun test tools/release_documentation_audit.test.ts`, `bun run release:docs`. Remaining: merge to `pre`, then `main` when asked.
 
 ## 2026-08-20 - Release: 読者経路の組版を main へ公開 (v2026.08.20)
 
@@ -42,13 +50,6 @@
 - **Steps:** Add the release note and registry, land it on `pre`, merge the `pre`→`main` promotion PR, then tag the same main merge SHA as `v2026.08.20` and publish the GitHub Release.
 - **Validation / Follow-up:** Required verification on work→`pre` already passed. Remaining: promotion merge, tag, Release, and production-deploy confirmation.
 
-### 中文
-
-- **2026-08-20 12:35 JST / 背景:** 人工确认 `pre` 阅读排版可用，并指示公开到 `main`。
-- **范围 / 主要文件:** #300–#312 的 UIUX 阅读路径、`releases/v2026.08.20.md`、release 台账、README 入口。无新 wiki 正文。
-- **执行步骤:** 补 release note 与台账，先合入 `pre`，再 merge `pre`→`main` promotion PR，并在同一 main merge SHA 打 tag `v2026.08.20`、发布 GitHub Release。
-- **验证 / 后续:** work→`pre` 的 Required verification 已通过。后续是 promotion merge、tag、Release、确认 production deploy。
-
 ## 2026-08-17 - UIUX: 残りの面を同じ組版にする (#312)
 
 ### 日本語
@@ -64,13 +65,6 @@
 - **Scope / Primary files:** domain list, browse, root `/`, preview leads, shared short-lead helper, Pagefind titles, UI/UX contract. No wiki body.
 - **Steps:** Browse uses one-line leads; slugs stay on the title attribute. Skip INDEX-positioning leads. Domain list drops English `group.id` eyebrows. Root kickers are Japanese. Search titles use keep-all.
 - **Validation / Follow-up:** Visual QA ja 375/1440 on `/`, `/ja/domains/`, `/ja/browse/`. Merge to `pre` only. Do not push `main`.
-
-### 中文
-
-- **2026-08-17 15:10 JST / 背景:** 首页／领域详情／条目排版已过。剩下的领域总表、全项目、根页、搜索仍是目录：英文 group id、INDEX 定位句、slug 和标题抢视线。
-- **范围 / 主要文件:** 领域总表、browse、根页 `/`、preview lead、短 lead 辅助函数、Pagefind 标题、UI/UX 规格。不改 wiki 正文。
-- **执行步骤:** browse 只用一行摘要，slug 留在 title 属性。排除 INDEX 定位句。领域总表不再显示英文 `group.id`。根页 kicker 改日文。搜索标题 keep-all。
-- **验证 / 后续:** ja 375/1440 目视 `/`、`/ja/domains/`、`/ja/browse/`。只合 `pre`。未指示不 push `main`。
 
 ## 2026-08-17 - UIUX: 読者経路の組版を直す (#310)
 
@@ -88,13 +82,6 @@
 - **Steps:** Home first screen is headline+search facing start-here. Domain drops the 3-column brief. Entry is H1 → one evidence line → 要約; wiki-placement and tags move after the article. Japanese body uses keep-all. Same-entity titles drop duplicated English parentheticals. Hide the AI nav on narrow headers so 全項目 is not clipped.
 - **Validation / Follow-up:** Visual QA ja 375/1440 on home, megabanks, MUFG. Merge to `pre` only. Do not push `main`.
 
-### 中文
-
-- **2026-08-17 14:30 JST / 背景:** #308 修了词中折行，但 `pre` 版面仍是目录：首页右半空白、领域三栏仪表盘、条目在要約前堆元数据和维基定位。
-- **范围 / 主要文件:** 日英首页、领域页、EntryLayout、quiet-wiki-placement、global.css、UI 文案、UI/UX 规格。不改 wiki 正文。
-- **执行步骤:** 首页第一屏改成标题+搜索 | 先读 两栏。领域去掉三栏，改成编号先读和单栏条目表。条目是 H1 → 一行证据 → 要約；维基定位和标签放到正文后。日文正文 keep-all。同一主体标题去掉重复英文括号。窄屏隐藏 AI 导航，避免「全項目」被切字。
-- **验证 / 后续:** ja 375/1440 目视首页、メガバンク、MUFG。只合 `pre`。未指示不 push `main`。
-
 ## 2026-08-17 - UIUX: fix Japanese typesetting on home, domain, and entry (#308)
 
 ### 日本語
@@ -110,13 +97,6 @@
 - **Scope / Primary files:** localized home, domain detail, entry layout, start-here copy. No wiki body.
 - **Steps:** Drop `18ch` and `overflow-wrap: anywhere` on titles; use keep-all / strict line-break for Japanese. Short editorial start-here labels. Read-first is titles only. Remove the truncated entry lead.
 - **Validation / Follow-up:** Confirm 市場 / 順番 / フィナンシャル do not split on ja 375/1440. Merge to `pre` only. Do not push `main`.
-
-### 中文
-
-- **2026-08-17 09:20 JST / 背景:** `pre` 阅读路径里，标题从词中间折行，摘要被截成半截财报。
-- **范围 / 主要文件:** 日英首页、领域页、条目 layout、start-here 文案。不改 wiki 正文。
-- **执行步骤:** 去掉标题上的 `18ch` 和任意折行；日文用 keep-all / strict。start-here 用短编辑标题。领域先读只留题名。条目不再放截断 lead。
-- **验证 / 后续:** ja 375/1440 确认「市場」「順番」「フィナンシャル」不从中间断开。只合 `pre`。未指示不 push `main`。
 
 ## 2026-08-16 - UIUX: entry pages lead with title and summary (#306)
 
@@ -134,13 +114,6 @@
 - **Steps:** Put a TL;DR / 要約 lead under the H1. Demote Wiki route / ウィキ上の位置づけ out of chapter-one / TOC. Keep discovery slugs as title text only.
 - **Validation / Follow-up:** ja/en MUFG visual QA and docs/site checks. Remaining: merge to `pre` and close #306. Do not push `main` unless asked.
 
-### 中文
-
-- **2026-08-16 20:20 JST / 背景:** #304 之后下一张 UIUX 面是条目页。MUFG 等页正文第一章仍是「维基位置」，摘要被挤到后面。
-- **范围 / 主要文件:** 条目 layout、slug 页、quiet-wiki-placement 插件、CSS 和 UI 合同。不改 wiki 正文。
-- **执行步骤:** H1 下放出 TL;DR / 要約。把 Wiki route / ウィキ上の位置づけ从第一章和 TOC 拿掉，改成安静注记。文末卡片 slug 只留在 title。
-- **验证 / 后续:** ja/en MUFG visual QA 与 docs/site check。后续合入 `pre` 并关闭 #306。未指示前不 push `main`。
-
 ## 2026-08-16 - UIUX: domain pages are a reading guide (#304)
 
 ### 日本語
@@ -156,13 +129,6 @@
 - **Scope / Primary files:** the domain detail page, `domainReadFirst.ts`, lead extraction, domain-page copy, and the UI contract. No wiki body.
 - **Steps:** Pin megabanks read-first to MUFG / SMFG / Mizuho FG. Prefer TL;DR / 要約 leads and skip INDEX-positioning prose. Keep slugs as quiet citation text.
 - **Validation / Follow-up:** `docs:audit`, astro check, ja/en megabanks and regional-banks visual QA. Remaining: merge to `pre` and close #304. Do not push `main` unless asked.
-
-### 中文
-
-- **2026-08-16 19:40 JST / 背景:** #301 之后下一张 UIUX 面是领域页。メガバンク「先读」被词面分数排成 au-FH，列表摘要是 INDEX 位置说明。
-- **范围 / 主要文件:** 领域详情页、`domainReadFirst.ts`、导语抽取、领域页文案和 UI 合同。不改 wiki 正文。
-- **执行步骤:** メガバンク先读固定为 MUFG / SMFG / みずほ FG。摘要优先 TL;DR / 要約，丢掉 INDEX 位置句。slug 只作引用，不和标题抢视线。
-- **验证 / 后续:** `docs:audit`、astro check、ja/en メガバンク与地方银行 visual QA。后续合入 `pre` 并关闭 #304。未指示前不 push `main`。
 
 ## 2026-08-16 - UIUX: home first screen is a reading guide (#301)
 
@@ -180,13 +146,6 @@
 - **Steps:** Start-here is megabanks, FSA, the banking-license matrix, payment clearing, the market-infrastructure map, and all domains. Latest reviewed, domain map, same-entity pairs, and AI links sit below the fold. Drop `.canonical-strip` so it does not duplicate the guide.
 - **Validation / Follow-up:** `docs:audit`, site check, ja/en home visual QA at 375 / 768 / 1440. Remaining: promote to `pre` and close #301.
 
-### 中文
-
-- **2026-08-16 19:10 JST / 背景:** #300 之后当前季节是 UIUX。#301 把第一屏改成一句话 + 搜索 + 编辑过的「从这里读」，并把 40 领域目录移出第一屏。
-- **范围 / 主要文件:** 根首页与日英首页、`site/src/i18n/ui.ts`、UI/UX 规格、visual QA，以及产品文档里的首页合同句。不改 wiki 正文。
-- **执行步骤:** 从这里读为メガバンク、金融厅、银行执照比较、支付清算、市场基础设施、领域一览。最近更新 / 领域地图 / 同一主体 / AI 放到第一屏以下。删除重复的 `.canonical-strip`。
-- **验证 / 后续:** `docs:audit`、站点 check、ja/en 首页 375 / 768 / 1440 visual QA。后续合入 `pre` 并关闭 #301。
-
 ## 2026-08-16 - Roadmap current season: UIUX / Content (#300)
 
 ### 日本語
@@ -202,13 +161,6 @@
 - **Scope / Primary files:** `docs/01-strategy/roadmap.md`, `docs/01-strategy/next-development-plan.md`, `docs/README.md`, `docs/02-product/japanese-finance-coverage-gap-map.md`, `docs/07-quality/documentation-drift-audit.md`. No site code and no wiki body.
 - **Steps:** State the current season as UIUX (home → domain → entry). Allow Content only when an audit threshold trips or a named public fact on an existing page is wrong. Keep Horizons 0–4 as closed/paused history. Homepage implementation stays in #301.
 - **Validation / Follow-up:** `bun run docs:audit` and `git diff --check`. Remaining: close #300; spec the #301 home-contract delta.
-
-### 中文
-
-- **2026-08-16 18:25 JST / 背景:** 审计已绿，corpus 已够读。下一阶段是人读站点的导读，不是扩内容。用 UIUX 主线 / Content 维护两线替换 Horizon 0–4 的「下一步」叙述。
-- **范围 / 主要文件:** `docs/01-strategy/roadmap.md`、`docs/01-strategy/next-development-plan.md`、`docs/README.md`、`docs/02-product/japanese-finance-coverage-gap-map.md`、`docs/07-quality/documentation-drift-audit.md`。不改站点代码和 wiki 正文。
-- **执行步骤:** 写明当前季节为 UIUX（首页 → 领域页 → 条目页）。Content 仅在审计越阈值或既有页公开事实错误时才做。Horizon 0–4 留作关闭/暂停历史。首页实现仍在 #301。
-- **验证 / 后续:** `bun run docs:audit` 与 `git diff --check`。后续关闭 #300，并写 #301 首页合同 delta。
 
 ## 2026-08-16 - Entity deepening batch 03 (#296)
 
@@ -226,13 +178,6 @@
 - **Steps:** Add Japan-core operating-company nodes and `regulated_by` FSA on all six. Add `subsidiary_of` only for SMBC Trust (SMBC 100%), Nomura Trust (Nomura HD 100%), and Norinchukin Trust (農林中央金庫 100%). Omit parent edges on MUTB, Mizuho Trust, and SMTB because the fetchable overviews do not show a parent line.
 - **Validation / Follow-up:** Pass entity, wiki, and release gates. Remaining: promote and close #296.
 
-### 中文
-
-- **2026-08-16 09:00 JST / 背景:** 按 #296 named batch 只改 frontmatter。出处限于已有 FSA 兼营名单，以及现认写明母公司的公司概要。
-- **范围 / 主要文件:** 六家信托银行源页。不改正文、i18n 或 UI。
-- **执行步骤:** 六家都加 node 与 `regulated_by` FSA。仅 SMBC 信託、野村信託、農中信託加 `subsidiary_of`。MUTB / みずほ信託 / SMTB 因概要页无法现认母公司而省略。
-- **验证 / 后续:** 通过 entity / wiki / release 门禁后 promote 并关闭 #296。
-
 ## 2026-08-15 - Entity deepening batch 03 spec (#296)
 
 ### 日本語
@@ -248,13 +193,6 @@
 - **Scope / Primary files:** `docs/04-architecture/entity-deepening-batch-03.md` and the architecture map. No corpus body or UI in this unit.
 - **Steps:** Name MUTB, Mizuho Trust, SMTB, SMBC Trust, Nomura Trust, and Norinchukin Trust as anchors with `regulated_by` FSA. Add `subsidiary_of` only if the existing overview URL still states the parent.
 - **Validation / Follow-up:** Pass `docs:audit` and `git diff --check` before implementation. Remaining: implement #296.
-
-### 中文
-
-- **2026-08-15 01:40 JST / 背景:** batch 02 之后，六家 Japan-core 信托兼营银行已引用 FSA `kenei.pdf`，但还没有 entity node / typed edges。
-- **范围 / 主要文件:** `docs/04-architecture/entity-deepening-batch-03.md` 与 architecture map。本 unit 不改 corpus 正文或 UI。
-- **执行步骤:** 为 MUTB、みずほ信託、SMTB、SMBC 信託、野村信託、農中信託固定 node 与 `regulated_by` FSA；`subsidiary_of` 仅在公司概要仍写明母公司时添加。
-- **验证 / 后续:** 先过 `docs:audit` 与 `git diff --check`。后续实现 #296。
 
 ## 2026-08-15 - Entity deepening batch 02 (#292)
 
@@ -272,13 +210,6 @@
 - **Steps:** Add the Japan Post Bank anchor + `subsidiary_of` Holdings, the operating-profile mirror + `regulated_by` FSA, Sony Bank anchor + FSA + Sony FG parent (profile still says 100%), Sony Life FSA / Seiho edges, and the banking-domain Sony Bank mirror node only.
 - **Validation / Follow-up:** Pass entity, wiki, and release gates. Remaining: promote and close #292.
 
-### 中文
-
-- **2026-08-15 01:20 JST / 背景:** 按 #292 named batch 只改 frontmatter，出处限于各页已有官方 HTTPS URL。
-- **范围 / 主要文件:** 规格中的五条 source 路径。不改正文、i18n 或 UI。
-- **执行步骤:** 为ゆうちょ、其 operating profile、ソニー銀行、ソニー生命、`banking/sony-bank.md` 补 node / 已批准的边。索尼银行公司概要仍写 Sony FG 100%。
-- **验证 / 后续:** 通过 entity / wiki / release 门禁后 promote 并关闭 #292。
-
 ## 2026-08-15 - Entity deepening batch 02 spec (#292)
 
 ### 日本語
@@ -294,13 +225,6 @@
 - **Scope / Primary files:** `docs/04-architecture/entity-deepening-batch-02.md` and the architecture map in `docs/README.md`. No corpus body or UI in this unit.
 - **Steps:** Name Japan Post Bank (anchor + `subsidiary_of` Japan Post Holdings), its operating-profile mirror (`regulated_by` FSA), Sony Bank (FSA, parent only if the profile still says so), Sony Life (existing node + FSA / Seiho), and the Sony Bank banking-domain mirror (node only).
 - **Validation / Follow-up:** Pass `docs:audit` and `git diff --check` before implementation. Remaining: implement #292 on the five source pages, then the entity / wiki / release gates.
-
-### 中文
-
-- **2026-08-15 10:00 JST / 背景:** Horizon 2 的 entity 深化已关闭 batch 01。下一批只给已有官方 HTTPS 出处的 Japan-core 运营公司补 frontmatter node / edge。
-- **范围 / 主要文件:** `docs/04-architecture/entity-deepening-batch-02.md` 与 `docs/README.md` 的 architecture map。本 unit 不改 corpus 正文或 UI。
-- **执行步骤:** 固定ゆうちょ、其 operating profile、ソニー銀行、ソニー生命、`banking/sony-bank.md` 五条路径与公开出处规则。
-- **验证 / 后续:** 先过 `docs:audit` 与 `git diff --check`。后续实现 #292，再跑 entity / wiki / release 门禁。
 
 ## 2026-08-14 - Compact human-site read surface (#287)
 
@@ -318,13 +242,6 @@
 - **Steps:** Show every populated domain on the home coverage map. Cluster declared `canonical_anchor` mirrors and surface them on home, domain indexes, browse, and the entry header. Add existing title + lead / TL;DR excerpts to domain lists. Reuse current `t()` keys and ja/en inline copy.
 - **Validation / Follow-up:** Prerequisites remain 0 / 0 / 0 / 0. `bun run verify --out _site` PASS. Visual QA on ja/en home, browse, and the SMBC mirror. Remaining: promote, tag `v2026.08.14-4`, close #287.
 
-### 中文
-
-- **2026-08-14 19:27 JST / 背景:** #280 固定 compact surface 规格后，人类站首页仍截断领域地图，也未展示已声明 `canonical_anchor` 的同一主体分组。#287 只在 pages / layouts 实现该规格。
-- **范围 / 主要文件:** 首页、browse、领域索引、条目页、`EntryLayout.astro`、`canonicalAnchors.ts`。不含 corpus、质量徽章、新鲜度标签、typed `entity_edges` 面板或新 entity 策展。
-- **执行步骤:** 首页覆盖图展示全部有内容的领域；把已声明 mirror 聚成同一主体组，显示在首页、领域页、browse 和条目头；领域列表补上既有 title + lead / TL;DR。
-- **验证 / 后续:** 前置条件仍为 0。`bun run verify --out _site` 通过。已做 ja/en 首页、browse、SMBC mirror 的视觉验收。后续 promote、tag `v2026.08.14-4`、关闭 #287。
-
 ## 2026-08-14 - Horizon follow-ups (#278–#281, #286)
 
 ### 日本語
@@ -340,13 +257,6 @@
 - **Scope / Primary files:** freshness audit + test; runbook / freshness / product / architecture / API specs; backlog; four megabank sources and the SMBC ja/en mirrors.
 - **Steps:** Omit freshness rows whose only actionable reason is `low_confidence` when tagged `scenario-assumption` and still inside review/cadence windows. Add public-source `entity_node` / edges on Resona Bank and Saitama Resona Bank, a group node on Japan Post Holdings, and a `canonical_anchor` plus core-body link from `megabanks/smbc.md` to `megabanks/sumitomo-mitsui-banking-corp`. Document that per-entry API `canonical_anchor` is already live and should stay.
 - **Validation / Follow-up:** freshness tests pass; entity audit 0 issues; wiki drift 0. Remaining: promote, tag `v2026.08.14-3`, close #278–#281 and #286. UI implementation is #287.
-
-### 中文
-
-- **2026-08-14 18:20 JST / 背景:** #277 完成后，在同一 unit 关闭 later 的 #278–#281。
-- **范围 / 主要文件:** freshness 审计与测试、相关 docs、4 个 megabank 源页与 SMBC ja/en mirrors。
-- **执行步骤:** 为带 `scenario-assumption` 且仍在 review/cadence 内、唯一 actionable 原因为 `low_confidence` 的页免除 freshness 行。为りそな / 埼玉りそな加公开出处的 entity node 与边，为日本郵政 HD 加 group node，将 `smbc.md` 标为 `sumitomo-mitsui-banking-corp` 的 mirror。书面确认 per-entry API 已输出 `canonical_anchor` 并保留。
-- **验证 / 后续:** freshness tests 通过；entity audit 0；wiki drift 0。后续 promote、tag `v2026.08.14-3`、关闭 #278–#281 与 #286。UI 实现见 #287。
 
 ## 2026-08-14 - Weekly freshness overdue sweep (#277)
 
@@ -364,13 +274,6 @@
 - **Steps:** Confirmed every owned page has public http(s) URLs in frontmatter. Expanded `exchanges/fsa-business-improvement-orders-history.md` sources from the FSA homepage to news / virtual-currency / disclosure pages. Set `last_tended` / `last_updated` to 2026-08-14 and `review_by` from class cadence (event 45 / high 90 / medium 180 / low 365 days). No bulk rewrite of body claims.
 - **Validation / Follow-up:** overdue 81→0. i18n 1442 current. wiki audit 1489 / 0. Remaining: work→pre→main, `v2026.08.14-2`, close #277. #278–#281 stay later.
 
-### 中文
-
-- **2026-08-14 13:40 JST / 背景:** #276 上线后，`fact_freshness_audit --overdue --as-of 2026-08-14` 仍有 81 条 `review_by` 过期（event 2 / high 57 / medium 19 / low 3）。本 packet 复核 frontmatter 公开 URL 并按 cadence 重设日期，而不是无依据后推。
-- **范围 / 主要文件:** 10 个领域 81 个 source entries（fintech 39、exchanges 25、其余 17）。正文未改，ja/en hash 不重算。三语 CHANGELOG / `releases/v2026.08.14-2.md` / discovery。
-- **执行步骤:** 确认 81 页 frontmatter 均有公开 http(s) URL。为 FSA 业务改善命令页补充 news / virtual_currency / kaiji 公开页。`last_tended` / `last_updated` 设为 2026-08-14，`review_by` 按 class cadence 重算。不批量改写正文主张。
-- **验证 / 后续:** overdue 81→0。i18n 1442 current。wiki 1489 / 0。后续 work→pre→main、`v2026.08.14-2`、关闭 #277。#278–#281 仍 later。
-
 ## 2026-08-14 - Astro 依存関係の high 修正と三円シナリオ再確認 (#276, #277)
 
 ### 日本語
@@ -386,13 +289,6 @@
 - **Scope / Primary files:** `site/package.json` overrides (`nanoid@3.3.18`, `js-yaml@4.3.1`) and `site/bun.lock`; `fintech/three-circles-mra-2030-economic-scale.md` plus ja/en mirrors; trilingual CHANGELOG / release note. The remaining Issue #277 rows stay in later packets.
 - **Steps:** Rechecked Congress.gov: GENIUS Act S.1582 remains Public Law 119-27 as of 2025-07-18. $130B / $384B stay FinWiki scenario inputs, not official forecasts. Kept `confidence: possible` and added `scenario-assumption`. Set `last_tended=2026-08-14` / `review_by=2026-11-12`.
 - **Validation / Follow-up:** `cd site && bun audit --production` is clean. Remaining: #277 freshness sweep, #278 calibration, #279–#281 later specs.
-
-### 中文
-
-- **2026-08-14 13:22 JST / 背景:** 当日 `bun audit --production` 报出 Astro 链上 `nanoid` / `js-yaml` high，pre-push 变红。freshness `--as-of 2026-08-14` 显示 81 条 `review_by` 过期。本 unit 恢复门禁并复核 1 个情景页。
-- **范围 / 主要文件:** `site/package.json` overrides 与 `site/bun.lock`；`fintech/three-circles-mra-2030-economic-scale.md` 及 ja/en mirrors；三语 CHANGELOG / release note。#277 其余行另开 packet。
-- **执行步骤:** 复核 Congress.gov：GENIUS Act S.1582 仍为 2025-07-18 Public Law 119-27。$130B / $384B 仍为情景输入。保持 `confidence: possible` 并加上 `scenario-assumption`。日期改为 `last_tended=2026-08-14` / `review_by=2026-11-12`。
-- **验证 / 后续:** `bun audit --production` 为 0。后续：#277 其余 freshness、#278 校正、#279–#281 later 规格。
 
 ## 2026-07-30 - Table provenance batches 10-14 + opinions quarantine (#240-#244, #193)
 
@@ -412,14 +308,6 @@
 - **Steps / Governance (#193):** Keep `.opinions/**` in the public GitHub repo while documenting that site-corpus exclusion is not non-public status. Enforce `type: opinion-quarantine` on all 685 files via audit wired into the release gate.
 - **Validation / Follow-up:** Provenance residual `877 → 0` (all #240–#244 owned paths clear; full-repo table residual 0). i18n JA/EN each 1442 current. Wiki audit 1489 entries / 0 issues. `opinions:audit` 685 files / 0 problems. Remaining: work→pre→main, production deploy, same-SHA `v2026.07.30-2`, and close #192 / #193 / #240–#244.
 
-### 中文
-
-- **2026-07-30 21:10 JST / 背景:** Issue #239 完成后，将剩余 877 条 table provenance warnings / 488 paths（#240–#244）在同一 release unit 清零，并以 option 2（公开 quarantine 合同）关闭 Issue #193。
-- **范围 / 主要文件:** foreign-financial-institutions / money-market / non-profit / policy-finance / insurance / life-insurers / non-life-insurers / payment-firms / payments / regional-banks / securities / securities-firms 的 488 个 source paths 与 976 份 ja/en mirrors；`.opinions/QUARANTINE.md`、`tools/opinions_quarantine_audit.ts`、`package.json` / `tools/verify.ts` / `AGENTS.md`；三语 README / CHANGELOG / `releases/v2026.07.30-2.md` / discovery surfaces。
-- **执行步骤 / content (#240–#244):** 在每个 residual table 前插入由 frontmatter 公开 URL 推导的 table-scoped lead 与 `^[source:…]` marker，将 licence / structure / product 解读限定在公开一手资料范围内，并排除未核实 market share / ranking / 数值主张。ja/en mirrors 同步 lead 并重算 `source_hash`。
-- **执行步骤 / governance (#193):** 在公开 GitHub 仓库中保留 `.opinions/**`，明确站点 corpus 排除 ≠ 不公开；用审计强制 685 个文件的 `type: opinion-quarantine` 并接入 release gate。
-- **验证结果 / 后续:** provenance residual `877 → 0`；i18n ja/en 各 1442 current；wiki audit 1489 / 0 issues；`opinions:audit` 685 / 0。后续：work→pre→main、production deploy、same-SHA `v2026.07.30-2`，关闭 #192 / #193 / #240–#244。
-
 ## 2026-07-30 - Table provenance batch 09 corrections (#239)
 
 ### 日本語
@@ -437,14 +325,6 @@
 - **Steps / Content:** Split the 65 paths into disjoint packets of 21, 22, and 22, checking central-bank, regulator, legislature, issuer, product-term, assurance-report, and technical-specification evidence at table scope. Separated S.1582 / Public Law 119-27 from S.394; proposals, conditional approvals, final charters, and payment-rail access; consultation, design, pilot, MVP, and production; and licences, registration, and distribution. Market share, adoption, rank, fixed fees or latency, guaranteed yield, and future probabilities without a market-wide denominator are removed or converted to explicit diligence questions or scenarios.
 - **Steps / QA:** Kept writer ownership disjoint and synchronized target-language ja/en bodies, source hashes, URLs, wikilinks, provenance markers, headings, tables, lists, blockquotes, negation, and conditions with the corrected source meaning. Source-level review also aligned adjacent unsupported claims covering embedded-wallet standards, Argentina's PSAV / FX / tax-amnesty boundaries, Franklin fund terms, Thailand's means-of-payment restriction, Japan's EPI framework, and the current GENIUS Act record to public evidence.
 - **2026-07-30 09:16–09:19 JST / Validation / Follow-up:** Scoped fintech provenance moved from 162 warnings / 65 paths to 0 / 0, while full residual warnings moved from 1,039 to 877, comprising 832 table-level plus 45 mixed-row findings. Each locale has 1,442 current mirrors with zero stale, orphaned, or missing rows, and 65 sources / 130 mirrors passed 130/130 parity across metadata, URLs, wikilinks, provenance markers, and structure. `audit:all --as-of 2026-07-30` has zero blocking rows; wiki audit reports 1,489 entries / zero issues / zero dead links / zero canonical drift; and the documentation-link audit passes. `release:write` synchronized 1,608 Markdown files / 1,607 public pages / 1,482 sitemap and API entries. Full verification on Bun 1.3.14 passed with zero dependency vulnerabilities, zero Astro diagnostics, 98 tests / 327 assertions, 2,969 built pages, 2,968 Pagefind pages, zero final-route or discovery issues, and a clean `git diff --check`. Remaining work is the real pre-push, work→`pre` / `pre`→`main`, production deployment, same-SHA `v2026.07.30`, closing #239, updating parent #192, and activating #240.
-
-### 中文
-
-- **2026-07-30 01:53:07 JST / 背景:** Issue #238 在 production 关闭后，于 released main `dc5d3584` 上重新审计 Issue #239 ownership，确认 `fintech/` 的 65 个 source paths 共 162 条 table-related warnings，其中包括 158 条 `table_without_provenance` 与 `global-stablecoin-regulatory-five-pole-matrix.md` 中 4 条 `table_row_without_marker`。目标不是机械插入 marker，而是用公开一手资料重新核对 stablecoin、CBDC、digital pound / euro、issuer、OCC charter、MiCA、电子支付手段、cross-chain 与 wholesale settlement 的当前 status 和可比性。
-- **范围 / 主要文件:** `fintech/` 下 owned 65 个 source entries、`site/src/content/i18n/{ja,en}/fintech/` 下对应 130 份 mirrors、三语 `README.md`、本 CHANGELOG、`releases/{README,v2026.07.30}.md`、root `index.html` 与 AI discovery / API surfaces；不修改 `.opinions/**`、`docs/**`、等待人工判断的 Issue #193、后续 #240–#244 或非 owned paths。
-- **执行步骤 / content:** 将 65 paths 分为 21 / 22 / 22 三个互不重叠的 packets，按 table scope 检查央行、监管机构、立法机关、发行人、product terms、assurance report 与 technical specification。区分 S.1582 / Public Law 119-27 与 S.394，proposal / conditional approval / final charter / payment-rail access，consultation / design / pilot / MVP / production，以及 licence / registration / distribution。没有全市场 denominator 的 market share、adoption、rank、固定 fee / latency、保证收益与未来概率均删除，或改成明确的 diligence question / scenario。
-- **执行步骤 / QA:** 固定 writer 之间的 ownership，并让 ja / en target-language body、source hash、URL、wikilink、provenance marker、heading、table、list、blockquote、否定与条件表达，与 source correction 保持同义。source-level review 还把 embedded-wallet standards、Argentina 的 PSAV / FX / tax-amnesty boundary、Franklin fund terms、Thailand means-of-payment restriction、Japan EPI 与 GENIUS Act current record 等相邻 unsupported claim 对齐到公开记录。
-- **2026-07-30 09:16–09:19 JST / 验证结果 / 后续:** Fintech scoped provenance 从 162 warnings / 65 paths 降至 0 / 0；full residual 从 1,039 降至 877 = 832 条 table-level + 45 条 mixed-row。ja / en 各 1,442 current（stale / orphaned / missing 0），65 sources / 130 mirrors 的 metadata、URL、wikilink、provenance marker 与结构 parity 为 130 / 130 PASS。`audit:all --as-of 2026-07-30` 的 blocking rows 为 0；wiki audit 为 1,489 entries / issues 0 / dead links 0 / canonical drift 0；docs link audit 通过。`release:write` 已同步 1,608 个 Markdown files / 1,607 个 public pages / 1,482 个 sitemap 与 API entries；Bun 1.3.14 的完整验证以 dependency vulnerabilities 0、Astro diagnostics 0、98 tests / 327 assertions、2,969 built pages、2,968 Pagefind pages、final-route / discovery issues 0 与干净的 `git diff --check` 通过。剩余事项仅为 real pre-push、work→`pre` / `pre`→`main`、production deployment、same-SHA `v2026.07.30`、关闭 #239、更新父 #192 与激活 #240。
 
 ## 2026-07-29 - Table provenance batch 08 corrections (#238)
 
@@ -464,14 +344,6 @@
 - **Steps / J-REIT, real estate, and QA:** Separated investment-unit holdings from market capitalization and AUM, holder stock from JPX trading flow, direct from indirect exposure, appraisal opinion from transaction price, sponsor from current control, and contractual master lessee from end tenant. Aligned GLP Japan's move into the Ares group, AEON's Malaysian properties, NBF's Mitsui Fudosan master lease, live J-REIT names, issuer-specific management fees, and tax / SPV / recourse conditions to official records. Crossed three source writers with independent read-only QA and used bounded follow-ups to remove stale names, unsupported ranks, superlatives and causal claims, fixed market terms, and mirror drift in dates, figures, URLs, wikilinks, and table shape.
 - **2026-07-30 00:27–00:29 JST / Validation / Follow-up:** Provenance moved from 1,272 to 1,039 full warnings and from 233 warnings / 49 paths to 0 / 0 for Issue #238; the residual is 990 `table_without_provenance` plus 49 `table_row_without_marker`. After follow-ups from three writer packets, reciprocal read-only QA, and a 49-page global QA pass, semantic and structural parity passed for 49 sources / 98 mirrors. Each locale has 1,442 current mirrors with zero stale / orphaned / missing and 1,442 `fidelity: ok`. `audit:all --as-of 2026-07-29` has zero blocking rows (one queue-growth monitor is advisory), and wiki audit reports 1,489 entries / zero issues / zero dead links / zero canonical drift. `release:write` synchronized 1,607 Markdown files / 1,606 public pages / 1,482 sitemap and API entries. Full `verify --out _site` on Bun 1.3.14 passed with zero dependency vulnerabilities, zero Astro diagnostics, 98 tests / 327 assertions, 2,969 built pages, 2,968 Pagefind pages, 284,704 final-HTML hrefs / 5,864 routes, 6,057 generated URLs, and a clean `git diff --check`. Remaining work is the real pre-push, two commits, work→`pre` / `pre`→`main`, production deployment, same-SHA `v2026.07.29-17`, closing #238, and updating parent #192 / #239.
 
-### 中文
-
-- **2026-07-29 22:34:08 JST / 背景:** Issue #237 在 production 关闭后，在 released main `c6ba268f` 上重新审计 Issue #238 ownership，确认 `finance/` 23 paths / 116 条 warnings 与 `real-estate-finance/` 26 paths / 117 条 warnings，合计 49 个 source paths / 233 条 `table_without_provenance` warnings。目标不是机械插入 marker，而是使用公开一手资料与明确的 model assumptions，重新核对财务、M&A、监管、ESG、J-REIT、不动产 SPV、融资、税务与 valuation 的表格主张。
-- **范围 / 主要文件:** 49 个 source entries、`site/src/content/i18n/{ja,en}/{finance,real-estate-finance}/` 下 98 份 mirrors、三语 `README.md`、本 CHANGELOG、`releases/{README,v2026.07.29-17}.md`、root `index.html` 与 AI discovery / API surfaces；不修改 `.opinions/**`、`docs/**`、等待人工判断的 Issue #193、后续 #239–#244 或非 owned paths。
-- **执行步骤 / 法律与财务:** 将 49 paths 分成 16 / 16 / 17 三个互不重叠的 packets 并行校正，把监管机构、JPX、发行人、税务机关、法律与官方制度资料连接到各 table 或 row scope。区分 TOB 30% rule、SSBJ 已公布适用日期与 working-group roadmap、TCFD comply-or-explain、merger control、MBO / squeeze-out、large-shareholding 和 insider controls 的法律 status、生效日与适用范围。没有日期化 official disclosure 的 WACC、LTV、DSCR、IRR、fee、tenor、cap rate 与 capital stack 均隔离为 illustrative scenario、issuer-specific term 或 diligence question。
-- **执行步骤 / J-REIT、不动产与 QA:** 区分 investment-unit holdings 与 market capitalization / AUM、holder stock 与 JPX trading flow、direct / indirect exposure、appraisal opinion 与 transaction price、sponsor 与 current control、contractual master lessee 与 end tenant。以官方记录校正 GLP Japan 加入 Ares group、AEON 的 Malaysia properties、NBF 的三井不动产 master lease、J-REIT 现行名称、issuer-specific management fee 与 tax / SPV / recourse conditions。三路 source writers 与独立 read-only QA 交叉审查，并通过 bounded follow-up 删除过时名称、无依据的 rank / superlative / causal claim、固定 market term，以及 mirrors 中的日期、数值、URL、wikilink 与 table shape 差异。
-- **2026-07-30 00:27–00:29 JST / 验证结果 / 后续:** provenance 从 full 1,272 降至 1,039，Issue #238 owned 从 233 warnings / 49 paths 降至 0 / 0；剩余为 990 条 `table_without_provenance` + 49 条 `table_row_without_marker`。三组 writer、双向只读 QA 与 49 页 global QA 的返修完成后，49 source / 98 mirrors 的 semantic / structural parity 通过；ja / en 各 1,442 current，stale / orphaned / missing 0，`fidelity: ok` 各 1,442。`audit:all --as-of 2026-07-29` 的 blocking rows 为 0（queue-growth monitor 1 为 advisory），wiki audit 为 1,489 entries / issues 0 / dead links 0 / canonical drift 0。`release:write` 同步 1,607 个 Markdown files / 1,606 个 public pages / 1,482 个 sitemap 与 API entries。Bun 1.3.14 下的完整 `verify --out _site` 通过：dependency vulnerabilities 0、Astro diagnostics 0、98 tests / 327 assertions、2,969 built pages、2,968 Pagefind pages、final HTML 284,704 hrefs / 5,864 routes、generated URLs 6,057，并通过 `git diff --check`。剩余工作是真实 pre-push、两段 commit、work→`pre` / `pre`→`main`、production deployment、same-SHA `v2026.07.29-17`、关闭 #238，并更新父 #192 / #239。
-
 ## 2026-07-29 - Table provenance batch 07 corrections (#237)
 
 ### 日本語
@@ -487,13 +359,6 @@
 - **Scope / Primary files:** The 81 source entries under `exchanges/`; 162 mirrors under `site/src/content/i18n/{ja,en}/exchanges/`; trilingual `README.md`; this CHANGELOG; `releases/{README,v2026.07.29-16}.md`; root `index.html`; and AI discovery / API surfaces. `.opinions/**`, `docs/**`, human-review Issue #193, downstream Issues #238–#244, and non-owned exchange paths remain unchanged.
 - **Steps / Content:** Corrected the 81 paths in three parallel, disjoint writer packets of 27 paths / 40 warnings, 27 / 39, and 27 / 44. Bounded follow-ups also resolved regional-CEX dynamic ranks and volumes, fixed-fee / leverage / unpublished-state claims for Japanese operators, and mirror drift in dates, identifiers, URLs, and wikilinks found by independent QA. Rather than blanket-covering a table with a generic homepage or aggregator, the review checked the date, legal entity, and applicability of regulator registries and warnings, official company and product terms, and incident or restructuring disclosures at table or row scope, synchronizing 81 source entries and 162 ja/en mirrors.
 - **2026-07-29 21:19–21:32 JST / Validation / Follow-up:** Provenance moved from 1,395 to 1,272 full warnings and from 123 warnings / 81 paths to 0 / 0 for Issue #237; the residual is 1,223 table-level plus 49 mixed-row findings. Each locale has 1,442 current mirrors with zero stale, orphaned, or missing entries and 1,442 `fidelity: ok`; factual consistency is 0, truthfulness has zero blocking rows (one queue-growth monitor remains advisory), and the wiki audit reports 1,489 entries, zero issues, zero dead links, and zero canonical drift. `release:write` generated 1,606 Markdown files, 1,605 public pages, and 1,482 sitemap / API entries; full canonical verification passed with 98 tests, 2,969 built pages, 2,968 Pagefind pages, zero type errors, zero production dependency vulnerabilities, zero final-route or discovery issues, and a clean `git diff --check`. The real pre-push hook repeated the same required verification and passed. Remaining steps are both `pre` / `main` PRs, production deployment, the same-SHA release, closing #237, and updating parent #192 / #238.
-
-### 中文
-
-- **2026-07-29 19:43:03 JST / 背景:** Issue #236 在 production 关闭后，在 released main `cbb7f739` 上重新审计 Issue #237 ownership，精确复现历史 snapshot：`exchanges/` 的 81 个 source paths 共 123 条 table-related warnings，其中 105 条 `table_without_provenance`、18 条 `table_row_without_marker`。目标不是机械插入 marker，而是用公开一手资料复核加密资产交易所、VASP 与托管的运营法人、登记与警告状态、service lifecycle、incident 以及 market / custody comparison。
-- **范围 / 主要文件:** `exchanges/` 下 81 个 source entries、`site/src/content/i18n/{ja,en}/exchanges/` 下 162 份 mirrors、三语 `README.md`、本 CHANGELOG、`releases/{README,v2026.07.29-16}.md`、root `index.html` 与 AI discovery / API surfaces；不修改 `.opinions/**`、`docs/**`、等待人工判断的 Issue #193、后续 #238–#244 或非 owned exchange paths。
-- **执行步骤 / content:** 已用 3 个互不重叠的 writer packets 并行校正 81 paths，分别为 27 paths / 40 warnings、27 / 39、27 / 44。独立 QA 发现的区域 CEX 动态排名与交易量、国内运营方固定 fee / leverage / 未披露断言，以及 mirrors 中的日期、编号、URL、wikilink 差异，也已通过 bounded follow-up 修复。不使用 generic homepage / aggregator 覆盖整张表，而是按 table 或 row scope 核对监管 registry / warning、运营方官方 company / product terms、incident / restructuring disclosure 的日期、法人和适用范围，并同步 81 个 source entries 与 162 份 ja / en mirrors。
-- **2026-07-29 21:19–21:32 JST / 验证 / 后续:** provenance 的 full warnings 从 1,395 降至 1,272，Issue #237 owned 从 123 warnings / 81 paths 降至 0 / 0；剩余为 1,223 条 table-level + 49 条 mixed-row。ja / en 各 1,442 current，stale / orphaned / missing 均为 0，`fidelity: ok` 各 1,442；factual consistency 为 0，truthfulness blocking rows 为 0（queue-growth monitor 1 为 advisory），wiki audit 为 1,489 entries / issues 0 / dead links 0 / canonical drift 0。`release:write` 生成 1,606 个 Markdown、1,605 个 public pages、1,482 个 sitemap / API entries；完整 canonical verify 以 98 tests、2,969 built pages、2,968 Pagefind pages、type errors 0、production dependency vulnerabilities 0、final route / discovery issues 0 与干净的 `git diff --check` PASS。真实 pre-push 也复跑同一 required verification 并 PASS。继续执行 `pre` / `main` PR、production deployment、same-SHA release、关闭 #237 与更新父 #192 / #238。
 
 ## 2026-07-29 - Table provenance batch 06 corrections (#236)
 
@@ -511,13 +376,6 @@
 - **Steps / Content:** The 54 paths initially ran as disjoint 15-path derivatives-market, 16-path rates / clearing, and 23-path structured-finance packets; the final eight paths were reassigned through explicit handoffs while writer ownership remained non-overlapping. Dated and scoped JPX / BOJ / FSA / ISDA / JHF / statutory / deal-specific rating material was bound to each table rather than using a generic homepage, frontmatter inventory, or vintage-free value as blanket support. ISDA protocol coverage versus cessation triggers, FX margin versus loss-cut, JHF's own direct and timely principal-and-interest payment obligation / trust / OC, and TMK / GK-TK / trust / tax treatment were treated as separate claims.
 - **2026-07-29 19:14:26–19:23:22 JST / Validation / Follow-up:** Source-level `provenance:audit` moved full warnings 1,591 → 1,395 and Issue #236 owned warnings from 196 / 54 paths to 0 / 0 paths, leaving 1,328 table-level plus 67 mixed-row findings. Independent mirror QA passed 54 / 54; ja / en each report 1,442 current, zero stale / orphaned / missing, and 1,442 `fidelity: ok`; blocking truthfulness rows are zero (one queue monitor is advisory); wiki audit reports 1,489 entries / zero issues / zero dead links / zero canonical drift; and release docs report 34 files / 32 strict / zero problems. `release:write` synchronized 1,605 Markdown files / 40 domains / 1,489 entries and 1,604 public pages / 1,482 sitemap and API entries. Full `bun run verify --out _site` passed on Bun 1.3.14 with zero dependency vulnerabilities, zero Astro diagnostics, 98 / 98 tests and 327 assertions, 2,969 built pages, 2,968 Pagefind pages, 2,969 HTML files / 283,693 hrefs / 5,864 routes, 6,055 generated URLs, and a clean `git diff --check`; the real pre-push also reran and passed the same canonical verification against `_vercel_public`. Remaining work is the `pre` / `main` PRs, production deployment, same-SHA `v2026.07.29-15`, closing #236, and updating parent #192 / #237.
 
-### 中文
-
-- **2026-07-29 17:42:47 JST / 背景:** 在 released main `dd1d69bd` 上重跑 Issue #236 ownership 后，与 snapshot 完全一致：54 个 source paths 的 196 条 `table_without_provenance` warnings，其中 `derivatives/` 123 / 31 paths、`structured-finance/` 73 / 23。目标不是机械插入 marker，而是用公开一手资料复核 contract specification、benchmark fallback、margin rule、MBS / ABS 结构及 vehicle / tax boundary。
-- **范围 / 主要文件:** 上述 2 个 domains 的 54 个 source entries、`site/src/content/i18n/{ja,en}/` 下 108 份 mirrors、三语 `README.md`、本 CHANGELOG、`releases/{README,v2026.07.29-15}.md`、root `index.html` 与 AI discovery / API surfaces；不修改 `.opinions/**`、`docs/**`、等待人工判断的 Issue #193、后续 #237–#244，或两个 domain 内 7 个非 owned files。
-- **执行步骤 / content:** 54 paths 最初按互不重叠的 15-path derivatives market、16-path rates / clearing、23-path structured-finance packets 并行处理；最后 8 paths 通过明确 handoff 重新分配，writer ownership 始终保持不重叠。逐表确认 JPX / BOJ / FSA / ISDA / JHF / 法令 / deal-specific rating material 的日期与适用范围，不再用 generic homepage、frontmatter inventory 或无 vintage 数值覆盖整张表。把 ISDA protocol coverage 与 cessation trigger、FX margin 与 loss-cut、JHF 自身及时支付本息的义务 / trust / OC、TMK / GK-TK / 信托 / tax treatment 分开陈述。
-- **2026-07-29 19:14:26–19:23:22 JST / 验证 / 后续:** source-level `provenance:audit` 将 full 1,591 → 1,395、Issue #236 owned 196 / 54 paths → 0 / 0 paths，残余为 1,328 table-level + 67 mixed-row。54 / 54 independent mirror QA 通过；ja / en 各 1,442 current、stale / orphaned / missing 0、`fidelity: ok` 各 1,442；truthfulness blocking rows 0（queue monitor 1 为 advisory）；wiki audit 为 1,489 entries / issues 0 / dead links 0 / canonical drift 0；release docs 为 34 files / strict 32 / problems 0。`release:write` 已同步 1,605 个 Markdown files / 40 个 domains / 1,489 个 entries，以及 1,604 个 public pages / 1,482 个 sitemap 与 API entries。完整 `bun run verify --out _site` 在 Bun 1.3.14 下通过 dependency vulnerabilities 0、Astro diagnostics 0、98 / 98 tests 与 327 assertions、2,969 个 built pages、2,968 个 Pagefind pages、2,969 个 HTML files / 283,693 个 hrefs / 5,864 个 routes、6,055 个 generated URLs，以及 clean `git diff --check`；真实 pre-push 也针对 `_vercel_public` 重跑并通过同一套 canonical verification。剩余工作为 `pre` / `main` PR、production deployment、same-SHA `v2026.07.29-15`、关闭 #236，并更新父 #192 / #237。
-
 ## 2026-07-29 - Table provenance batch 05 corrections (#235)
 
 ### 日本語
@@ -533,13 +391,6 @@
 - **Scope / Primary files:** The 64 source entries in those four domains; 128 mirrors under `site/src/content/i18n/{ja,en}/`; trilingual `README.md`; this CHANGELOG; `releases/{README,v2026.07.29-14}.md`; root `index.html`; and AI discovery / API surfaces. `.opinions/**`, `docs/**`, human-review Issue #193, and downstream Issues #236–#244 remain unchanged.
 - **Steps / Source corrections:** Ran three disjoint writer packets plus independent semantic QA in parallel, then corrected generic-homepage laundering, dead URLs, entity errors, wrong incorporation dates / shareholders / registrations, undisclosed KPIs, and accounting / settlement overclaims. Aligned ACOM's MUFG consolidation and shareholder holdings; the major shareholders of Aiful, JCB, and Loyalty Marketing; JCB's Amex / China UnionPay chronology; entity boundaries for Hokkaido Lease, NEC, Tokyo Century, and Hamagin Finance; the 2020 Ponta transition; d Point ranks; and V Point ID linking with official material. Removed an unverified Dentsu finance entity, a nonexistent JR East payment subsidiary / Suica Pay role, a false 2024 Ponta unification, and undisclosed liability migration / bilateral settlement / entity-specific accounting from established facts.
 - **Validation / Mirrors and follow-up:** Source-level `provenance:audit` moved full warnings 1,723 → 1,591 and Issue #235 owned warnings 132 → 0, leaving 1,524 table-level plus 67 mixed-row residuals. The post-QA stale-claim / dead-route pattern scan and `git diff --check` are clean. Exact source-body checks passed for all 64 ja / en mirror pairs, scoped English language / parity issues are zero, and `i18n:check` reports 1,442 current mirrors per language with zero stale / orphaned / missing and 1,442 `fidelity: ok` per language. `audit:all --as-of 2026-07-29` reports zero factual conflicts, provenance-threshold rows, or Tier-1 due rows (one queue monitor is advisory), while `wiki:audit:ci` reports 1,489 entries / zero issues / zero drift. `release:write` synchronized 1,604 Markdown files / 40 domains / 1,489 entries / 10,998,109 characters / 1,771,473 tokens and 1,603 public pages / 1,482 sitemap and API entries. Full `bun run verify --out _site` passed on Bun 1.3.14 with zero dependency vulnerabilities, zero Astro diagnostics, 98 / 98 tests, 2,969 built pages, 2,968 Pagefind pages, 284,480 hrefs / 5,864 routes, 6,054 generated URLs, and a clean `git diff --check`. Remaining work is the real pre-push, `pre` / `main` PRs, production deployment, same-SHA `v2026.07.29-14`, closing #235, and updating parent #192 / #236.
-
-### 中文
-
-- **2026-07-29 16:27:38 JST / 背景:** Issue #235 的历史 snapshot 为 64 paths 的 135 条 warnings；在 released main `c22ee9c8` 上按相同 path ownership 重跑后为 132 条：`card-issuers/` 40 / 23 paths、`consumer-finance/` 13 / 5、`leasing-firms/` 35 / 21、`loyalty/` 44 / 15。目标不是机械插入 marker，而是用公开一手资料复核 owned tables / rows 与紧邻 context。
-- **范围 / 主要文件:** 上述 4 个 domains 的 64 个 source entries、`site/src/content/i18n/{ja,en}/` 下 128 份 mirrors、三语 `README.md`、本 CHANGELOG、`releases/{README,v2026.07.29-14}.md`、root `index.html` 与 AI discovery / API surfaces；不修改 `.opinions/**`、`docs/**`、等待人工判断的 Issue #193 或后续 #236–#244。
-- **执行步骤 / source correction:** 并行运行 3 个互不重叠的 writer packet 与独立 semantic QA，再修正 generic homepage laundering、dead URL、法人误认、错误设立时间 / 股东 / 登记、未披露 KPI，以及 accounting / settlement overclaim。依照官方资料校正 ACOM 的 MUFG 合并范围与股东持分、Aiful / JCB / Loyalty Marketing 的主要股东、JCB 的 Amex / 中国银联年表、北海道租赁 / NEC / 东京世纪 / 浜银 Finance 的法人边界、2020 Ponta 转换、d Point rank 与 V Point ID 连接；从确定事实中删除无法确认的 Dentsu finance entity、不存在的 JR 东日本支付子公司 / Suica Pay、错误的 2024 Ponta 合并，以及未披露的 liability migration / bilateral settlement / entity-specific accounting。
-- **验证 / mirror 与后续:** source-level `provenance:audit` 将 full warnings 从 1,723 降至 1,591，将 Issue #235 owned 从 132 降至 0，剩余 1,524 条 table-level + 67 条 mixed-row。semantic QA 后的 stale claim / dead-route pattern scan 与 `git diff --check` 均为 clean。128 份 mirrors 的 source body 64 / 64 exact，英文 language / parity issues 为 0；`i18n:check` 为 ja / en 各 1,442 current、stale / orphaned / missing 0、`fidelity: ok` 各 1,442。`audit:all --as-of 2026-07-29` 的 factual conflict / provenance threshold / Tier-1 due 均为 0（queue monitor 1 为 advisory），`wiki:audit:ci` 为 1,489 entries / issues 0 / drift 0。`release:write` 已同步 1,604 个 Markdown files / 40 个 domains / 1,489 个 entries / 10,998,109 个 characters / 1,771,473 个 tokens，以及 1,603 个 public pages / 1,482 个 sitemap 与 API entries。完整 `bun run verify --out _site` 在 Bun 1.3.14 下通过 dependency vulnerabilities 0、Astro diagnostics 0、98 / 98 tests、2,969 个 built pages、2,968 个 Pagefind pages、284,480 个 hrefs / 5,864 个 routes、6,054 个 generated URLs 与 clean `git diff --check`。剩余工作为真实 pre-push、`pre` / `main` PR、production deployment、same-SHA `v2026.07.29-14`、关闭 #235，并更新父 #192 / #236。
 
 ## 2026-07-29 - Table provenance batch 04 corrections (#234)
 
@@ -557,13 +408,6 @@
 - **Steps / Content:** Separated completed, scheduled, and conditional states for Coinbase's direct listing, CZ / Binance criminal and civil proceedings, the Arm and PayPay listings, the Sony FG partial spin-off, and Toshiba's tender offer. Distinguished legal entity, voting rights, accounting control, equity-method treatment, and distribution channel for Mizuho / Rakuten, Seven Bank / Seven & i / ITOCHU, Famima ATM, and Lawson's final 50/50 ownership. Across company splits, share exchanges and transfers, share deliveries and distributions, mergers, holding-company conversions, and group aggregation, separated Companies Act mechanics from qualified / non-qualified tax analysis and removed conclusions based on a single percentage or consideration form.
 - **Steps / Mirrors and validation:** Updated 64 mirrors through exact source-language sync or guarded full sync plus manual review. The candidate audit checked source hashes, byte-equivalent English bodies, heading / table / list / blockquote shape, wikilink targets, URLs, provenance markers, dates, amounts, ratios, negation, and conditional language with zero blocking problems. `i18n:status` reports 1,442 current mirrors per language, zero stale / orphaned / missing mirrors, and 1,442 `fidelity: ok` mirrors per language. `provenance:audit` moved full warnings 1,837 → 1,723 and Issue #234 owned warnings 114 → 0, leaving 1,645 table-level plus 78 mixed-row residuals. `audit:all --as-of 2026-07-29`, `wiki:audit:ci`, `release:write`, full `bun run verify --out _site`, and `git diff --check` passed. Remaining work is the real pre-push, both `pre` / `main` PR checks, production deployment, same-main-SHA `v2026.07.29-13`, closing #234, and updating parent #192 / the residual queue.
 
-### 中文
-
-- **2026-07-29 14:45:49 JST / 背景:** Issue #234 的 current released-main `f3e78cca` baseline 为 32 个 source paths 的 114 条 `table_without_provenance` warnings：`business/` 60 / 16 paths、`corporate-strategy/` 35 / 10、`retail/` 19 / 6。目标不是机械插入 marker，而是依照公司、监管机构、交易所、法令、发行人与交易当事方的公开一手资料，复核每个 owned table 及其紧邻 evidence context。
-- **范围 / 主要文件:** 上述 3 个 domains 的 32 个 source entries、`site/src/content/i18n/{ja,en}/` 下 64 份 mirrors、三语 `README.md`、本 CHANGELOG、`releases/{README,v2026.07.29-13}.md`、root `index.html` 与 AI discovery / API surfaces；不修改 `.opinions/**`、`docs/**`、等待人工判断的 Issue #193 或后续 #235–#244。9 个 entries 更新为 2026-07-29 / review 2027-01-29，其他目标保留当前按风险设定的 cadence。
-- **执行步骤 / content:** 分离 Coinbase 直接上市、CZ / Binance 刑事与民事程序、Arm 和 PayPay 上市、Sony FG 部分分拆、东芝 TOB 的已完成、计划中与附条件状态。对瑞穗 / 乐天、Seven Bank / Seven & i / 伊藤忠、Famima ATM、Lawson 最终 50/50 所有关系，区分法人、表决权、会计控制、权益法和销售渠道。对会社分割、株式交换・移转、株式交付・分配、合并、控股公司转换与集团通算，分开公司法机制与税务适格 / 非适格判断，并撤回凭单一比例或对价形式作出的结论。
-- **执行步骤 / mirrors 与验证:** 通过 source-language exact sync 或 guarded full sync + manual review 更新 64 份 mirrors。candidate audit 检查 source hash、英文 body 完全一致、heading / table / list / blockquote shape、wikilink target、URL、provenance marker、日期、金额、比例、否定与条件表达，blocking problems 为 0。`i18n:status` 为 ja / en 各 1,442 current，stale / orphaned / missing 0，每种语言 `fidelity: ok` 各 1,442。`provenance:audit` 将 full warnings 从 1,837 降到 1,723、Issue #234 owned 从 114 降到 0，剩余 1,645 条 table-level + 78 条 mixed-row。`audit:all --as-of 2026-07-29`、`wiki:audit:ci`、`release:write`、完整 `bun run verify --out _site` 与 `git diff --check` 已通过。剩余工作是真实 pre-push、`pre` / `main` PR checks、production deployment、同一 main SHA 的 `v2026.07.29-13`、关闭 #234，并更新父 #192 / residual queue。
-
 ## 2026-07-29 - Table provenance batch 03 corrections (#233)
 
 ### 日本語
@@ -579,13 +423,6 @@
 - **Scope / Primary files:** The 69 source entries in those two domains; 138 mirrors under `site/src/content/i18n/{ja,en}/`; trilingual `README.md`; this CHANGELOG; `releases/{README,v2026.07.29-12}.md`; root `index.html`; and AI discovery / API surfaces. `.opinions/**`, `docs/**`, human-review Issue #193, and downstream Issues #234–#244 remain unchanged. Source metadata is dated 2026-07-29, with review cadence set by each entry's current risk.
 - **Steps / Content and mirrors:** Used a scoped lead / footer marker only where one source set supports the full table, retaining row-level markers / direct public links when evidence differs by row. Recalibrated licences, statutes, supervision, deposit insurance, and Bank of Japan transaction routes in the banking lane and current entities, mergers and predecessors, central institutions, industry bodies, shared IT, and asset managers in the cooperative-banks lane. Withdrew the fictitious-company description for Shinkin Kyodo Center, Nagoya / Kitakyushu / Sapporo entity misidentifications, and the Norinchukin Bank's old head office, wrong governing-law reference, “special corporation,” “central bank,” “lender of last resort,” and size-ranking claims. Updated 138 mirrors through exact source-language sync or guarded line-level sync plus manual review, checking hashes, Markdown shape, link targets, URLs, markers, amounts, and ratios. Corrected legacy order-of-magnitude errors such as `¥10 million → 10 万円` and `¥2 billion → 2 億円`.
 - **Validation / Follow-up:** The candidate audit reports 138 files / zero blocking problems. `i18n:status` reports 1,442 current mirrors per language, zero stale / orphaned / missing mirrors, and 1,442 `fidelity: ok` mirrors per language. `provenance:audit` moved full warnings 1,983 → 1,837 and Issue #233 owned warnings 146 → 0, with zero owned residuals in both domains and 1,759 table-level plus 78 mixed-row residuals. `audit:all --as-of 2026-07-29`, `wiki:audit:ci`, `release:write`, full `bun run verify --out _site`, and `git diff --check` passed. Remaining work is the real pre-push, both `pre` / `main` PR checks, production deployment, same-main-SHA `v2026.07.29-12`, closing #233, and updating parent #192 / the residual queue.
-
-### 中文
-
-- **2026-07-29 12:43:09 JST / 背景:** Issue #233 的 current released-main `70cc5493` baseline 为 69 个 source paths 的 146 条 `table_without_provenance` / `table_row_without_marker` warnings：`banking/` 103 / 31 paths、`cooperative-banks/` 43 / 38 paths。目标不是机械插入 marker 降低 warning 数量，而是依照法令、金融厅与日本银行资料、存款保险制度，以及法人 / 行业团体的官方概要、沿革和披露，复核每个 owned table / row 及其紧邻 evidence context。
-- **范围 / 主要文件:** 上述 2 个 domains 的 69 个 source entries、`site/src/content/i18n/{ja,en}/` 下 138 份 mirrors、三语 `README.md`、本 CHANGELOG、`releases/{README,v2026.07.29-12}.md`、root `index.html` 与 AI discovery / API surfaces；不修改 `.opinions/**`、`docs/**`、等待人工判断的 Issue #193 或后续 #234–#244。source metadata 使用 2026-07-29，review cadence 按各 entry 当前风险设置。
-- **执行步骤 / content 与 mirrors:** 同一组资料支持整张表时才使用 scoped lead / footer marker，各行证据不同时保留 row-level marker / direct public link。校正 banking 范围的牌照、法令、监管、存款保险、日本银行交易路径，以及 cooperative-banks 范围的现行法人、合并与前身、中央机构、行业团体、共同 IT 和资产管理公司。撤回しんきん共同センター的虚构公司说明、名古屋 / 北九州 / 札幌法人误识别，以及农林中央金库的旧总部、错误法令、“特殊法人”“中央银行”“最后贷款人”与规模排名。138 份 mirrors 使用 source-language exact sync 或 guarded line-level sync + manual review 更新，并核对 hash、Markdown shape、link target、URL、marker、金额和比例；同时修复 `¥10 million → 10 万円`、`¥2 billion → 2 億円` 等旧数量级误译。
-- **验证结果 / 后续:** candidate audit 为 138 files / blocking problems 0。`i18n:status` 为 ja / en 各 1,442 current，stale / orphaned / missing 0，每种语言 `fidelity: ok` 各 1,442。`provenance:audit` 将 full warnings 从 1,983 降到 1,837、Issue #233 owned 从 146 降到 0，两个 domains 的 owned residual 均为 0，剩余 1,759 条 table-level + 78 条 mixed-row。`audit:all --as-of 2026-07-29`、`wiki:audit:ci`、`release:write`、完整 `bun run verify --out _site` 与 `git diff --check` 已通过。剩余工作是真实 pre-push、`pre` / `main` PR checks、production deployment、同一 main SHA 的 `v2026.07.29-12`、关闭 #233，并更新父 #192 / 剩余 queue。
 
 ## 2026-07-29 - Table provenance batch 02 corrections (#232)
 
@@ -603,13 +440,6 @@
 - **Steps / Content:** Used a scoped footer marker only where one source set supports the whole table and row-level markers / direct public links where evidence differs by row. Aligned asset-manager legal entities, registered activities, locations, and group boundaries; trading-company / conglomerate consolidation scope versus individual finance entities; manufacturer captive / vendor / export finance; and megabank / trust-bank current entities, holding companies, registrations, ownership, trade names, and disclosure periods to official registries, company profiles, histories, and issuer disclosures. Removed undisclosed AUM, lending scale, affiliation, product availability, and superiority from definitive wording. The FSA list dated 2026-06-30 now supports 37 trust companies—13 operating-type / 24 management-type—while official materials anchor Mitra's current name, Northern Trust Japan's entity classification, and Sumitomo Mitsui Trust's FY2025 disclosures.
 - **Steps / Mirrors, validation, and follow-up:** Synchronized tables, markers, adjacent headings, `source_hash`, and `translated_at` across 178 mirrors; translation candidates with placeholder loss, duplication, or reordering do not overwrite formal mirrors. `provenance:audit` moved full warnings 2,151 → 1,983 and Issue #232 owned warnings 168 → 0, with zero owned residuals in all six domains and 1,894 table-level plus 89 mixed-row residuals. `audit:all --as-of 2026-07-29` reports zero factual conflicts, cross-path needs-review patterns, provenance-threshold rows, or Tier-1 due rows; one queue-growth monitor remains advisory. `wiki:audit:ci` reports 1,489 entries / zero issues / zero drift, and `i18n:check` reports 1,442 current mirrors per language. `release:write` synchronized 1,601 Markdown files / 40 domains / 1,489 entries / 11,027,888 characters / 1,776,277 tokens and AI discovery for 1,600 public pages / 1,482 sitemap and API entries. Full `bun run verify --out _site` passed on Bun 1.3.14 with zero dependency vulnerabilities, zero Astro diagnostics, 98 / 98 tests, 2,969 built pages, 2,968 Pagefind pages, 285,062 hrefs / 5,864 routes, 6,051 generated URLs, and a clean `git diff --check`. Remaining work is the real pre-push, both `pre` / `main` PR checks, production deployment, same-main-SHA `v2026.07.29-11`, closing #232, and updating parent #192 / the residual queue.
 
-### 中文
-
-- **2026-07-29 10:05:09 JST / 背景:** Issue #232 创建时 snapshot 为 89 个 source paths 的 170 条 `table_without_provenance` / `table_row_without_marker` warnings。对 current released-main `e2cf68ac` 重新执行 detector 后得到 168 / 89；按 exact SHA replay Issue #222 前后状态，确认 PayPay FG 减少 3 条、Japan Post Holdings 增加 1 条，净减少 2 条。执行 baseline 为 asset-managers 20 / 13 paths、financial-conglomerates 8 / 7、manufacturer-finance 23 / 11、megabanks 34 / 19、trading-company-finance 28 / 7、trust-banks 55 / 32。目标不是机械插入 marker，而是用公开一手资料复核每个 owned table / row 及其紧邻 evidence context。
-- **范围 / 主要文件:** 上述 6 个 domains 的 89 个 source entries、`site/src/content/i18n/{ja,en}/` 下 178 份 mirrors、三语 `README.md`、本 CHANGELOG、`releases/{README,v2026.07.29-11}.md`、root `index.html` 与 AI discovery / API surfaces；不修改 `.opinions/**`、`docs/**`、等待人工判断的 Issue #193 或后续 #233–#244。source metadata 更新为 2026-07-29 / review 2026-10-27。
-- **执行步骤 / content:** 同一组资料支持整张表时才使用 scoped footer marker，各行证据不同时保留 row-level marker / direct public link。将 asset manager 的法人、登记业务、所在地与 group boundary，商社 / conglomerate 的合并范围与个别金融法人，manufacturer captive / vendor / export finance，以及 megabank / trust bank 的现法人、控股公司、登记、所有关系、商号与披露期统一到官方 registry、公司概要、沿革和 issuer disclosure；从确定性表述中删除未披露的 AUM、贷款规模、系列、产品 availability 与优越性。金融厅 2026-06-30 名单支持信托公司共 37 家（运用型 13 / 管理型 24），Mitra 现商号、Northern Trust Japan 法人分类和 Sumitomo Mitsui Trust FY2025 披露也统一到官方资料。
-- **执行步骤 / mirrors、验证与后续:** 同步 178 份 mirrors 的 table、marker、相邻标题、`source_hash` 与 `translated_at`；翻译保护检测到 placeholder 缺失、重复或重排的 candidate 不会覆盖 formal mirror。`provenance:audit` 将 full warnings 2,151 → 1,983、Issue #232 owned 168 → 0，6 个 domains 的 owned residual 全部为 0，剩余为 1,894 条 table-level + 89 条 mixed-row。`audit:all --as-of 2026-07-29` 的 factual conflict / cross-path needs-review / provenance threshold / Tier-1 due 均为 0，queue-growth monitor 1 为 advisory。`wiki:audit:ci` 为 1,489 entries / issues 0 / drift 0，`i18n:check` 为 ja / en 各 1,442 current。`release:write` 已同步 1,601 个 Markdown files / 40 个 domains / 1,489 个 entries / 11,027,888 个 characters / 1,776,277 个 tokens，以及 1,600 个 public pages / 1,482 个 sitemap 与 API entries 的 AI discovery。完整 `bun run verify --out _site` 在 Bun 1.3.14 下通过 dependency vulnerabilities 0、Astro diagnostics 0、98 / 98 tests、2,969 个 built pages、2,968 个 Pagefind pages、285,062 个 hrefs / 5,864 个 routes、6,051 个 generated URLs 与 clean `git diff --check`。剩余工作为真实 pre-push、`pre` / `main` PR checks、production deployment、同一 main SHA 的 `v2026.07.29-11`、关闭 #232，并更新父 #192 / 残余 queue。
-
 ## 2026-07-29 - Table provenance batch 01 corrections (#231)
 
 ### 日本語
@@ -625,13 +455,6 @@
 - **Scope / Primary files:** The 73 source entries in those six domains; 146 mirrors under `site/src/content/i18n/{ja,en}/`; trilingual `README.md`; this CHANGELOG; `releases/{README,v2026.07.29-10}.md`; root `index.html`; and AI discovery surfaces. `.opinions/**`, `docs/**`, human-review Issue #193, and downstream Issues #232–#244 remain unchanged. Source metadata moves to 2026-07-29 with review on 2026-10-27.
 - **Steps / Content and mirrors:** Used a scoped footer marker when one source set supports the whole table and row-level markers / direct public links when evidence differs by row. Removed undisclosed 2026 values, TVL, validator / insurance / adoption / ranking claims, and fixed fees / latency; recast agent-payment, ERC / EIP, bridge, DA, rollup, restaking, institutional-DLT, financial-licence / regulator, and trade-finance comparisons around public architecture and responsibility boundaries. Aligned x402 V2 headers, AP2 mandates, ERC-7715 Draft, EIP-7702 persistence, the EIP-4844 data boundary, the withdrawn SEC proposal, and the preliminary status of the FSA AI paper to official sources, then synchronized tables, markers, adjacent headings, `source_hash`, and `translated_at` across 146 mirrors.
 - **Validation / Follow-up:** `provenance:audit` moved full warnings 2,275 → 2,151 and Issue #231 owned warnings 124 → 0, with zero owned residuals in all six domains. `audit:all --as-of 2026-07-29` reports zero factual conflicts, cross-path needs-review patterns, provenance-threshold rows, or Tier-1 due rows; one queue-growth monitor remains advisory. `wiki:audit:ci` reports 1,489 entries / zero issues / zero drift, and `i18n:check` reports 1,442 current mirrors per language. Full canonical verify after `release:write` passed with 29 release-documentation files / 27 strict / 76 grandfathered; 1,600 Markdown files; 1,482 generated API entries; zero vulnerabilities; Astro check across 44 files with zero errors; 98 tests / 327 assertions; 2,969 Astro pages; 2,884 metadata pages / zero issues; 2,968 Pagefind pages; assembly of 6,258 Astro plus 3,086 raw files; 13 required routes; 2,969 final HTML files / 5,864 routes / 284,388 hrefs; 6,050 generated URLs; and `git diff --check`. Pass the real pre-push, both `pre` / `main` PR checks, and production deployment; create `v2026.07.29-10` on the same main SHA; close #231; and update parent #192 and the remaining queue.
-
-### 中文
-
-- **2026-07-29 07:05:12 JST / 背景:** Issue #224 发布后的 current `origin/main` 中，Issue #231 所有 73 个 source paths 的 124 条 `table_without_provenance` / `table_row_without_marker` warnings：agent-economy 24 / 16 paths、financial-licenses 27 / 8、financial-regulators 45 / 28、security 1 / 1、systems 17 / 15、trade 10 / 5。目标不是机械插入 marker，而是用公开一手资料、监管资料和正式规范复核每个 owned table / row 及其紧邻 evidence context。
-- **范围 / 主要文件:** 上述 6 个 domains 的 73 个 source entries、`site/src/content/i18n/{ja,en}/` 下 146 份 mirrors、三语 `README.md`、本 CHANGELOG、`releases/{README,v2026.07.29-10}.md`、root `index.html` 与 AI discovery surfaces；不修改 `.opinions/**`、`docs/**`、等待人工判断的 Issue #193 或后续 #232–#244。source metadata 更新为 2026-07-29 / review 2026-10-27。
-- **执行步骤 / content 与 mirrors:** 同一组资料支持整张表时使用 scoped footer marker，各行证据不同时保留 row-level marker / direct public link。删除未披露的 2026 数值、TVL、validator / insurance / adoption / ranking 与固定 fee / latency，把 agent payment、ERC / EIP、bridge、DA、rollup、restaking、institutional DLT、金融 licence / regulator、trade finance 的比较校正为 public architecture / responsibility boundary。将 x402 V2 headers、AP2 mandates、ERC-7715 Draft、EIP-7702 persistence、EIP-4844 data boundary、SEC proposal withdrawal、FSA AI paper 的 preliminary status 统一到官方资料，并同步 146 份 mirrors 的 table、marker、相邻标题、`source_hash` 与 `translated_at`。
-- **验证结果 / 后续:** `provenance:audit` 将 full warnings 2,275 → 2,151、Issue #231 owned 124 → 0，6 个 domains 的 owned residual 全部为 0。`audit:all --as-of 2026-07-29` 的 factual conflict / cross-path needs-review / provenance threshold / Tier-1 due 均为 0，queue-growth monitor 1 为 advisory。`wiki:audit:ci` 为 1,489 entries / issues 0 / drift 0，`i18n:check` 为 ja / en 各 1,442 current。`release:write` 后的完整 canonical verify 通过：release docs 29 files / strict 27 / grandfathered 76、Markdown 1,600 files、generated API 1,482、vulnerability 0、Astro check 44 files / errors 0、98 tests / 327 assertions、Astro 2,969 pages、metadata 2,884 / issues 0、Pagefind 2,968、assembly 6,258 Astro + 3,086 raw、13 required routes、final HTML 2,969 / routes 5,864 / hrefs 284,388、generated URLs 6,050，并通过 `git diff --check`。继续通过真实 pre-push、`pre` / `main` PR checks 与 production deployment；在同一 main SHA 创建 `v2026.07.29-10`，关闭 #231，并更新父 #192 与剩余 queue。
 
 ## 2026-07-29 - Regional-bank, retail-finance, and securities-firm low-marker corrections (#224)
 
@@ -651,14 +474,6 @@
 - **Steps / Securities and mirrors:** Aligned the present entities' incorporation / business launch versus predecessor histories, registration numbers, and locations for Aizawa, IwaiCosmo, SMBC Nikko, and Tokai Tokyo to official profiles, histories, and the FSA registry. Corrected Monex Group's current-entity incorporation, leadership, and the share / director-nomination / consolidation mechanics of its DOCOMO intermediate holding company, and corrected MUFG Securities Holdings' head office to Otemachi. Updated 13 source entries to 2026-07-29 with review on 2026-10-27 and synchronized body text, markers, `source_hash`, and `translated_at` across 26 mirrors.
 - **Validation / Follow-up:** `provenance:audit` moved full warnings 2,290 → 2,275, low-marker warnings 15 → 0, and Issue #224 rows 15 → 0; table-related warnings remain unchanged at 105 row plus 2,170 table = 2,275. `audit:all --as-of 2026-07-29` reports zero factual conflicts, cross-path needs-review patterns, provenance-threshold rows, or Tier-1 due rows; the one queue-growth monitor remains advisory. `wiki:audit:ci` reports 1,489 entries / zero issues / zero drift, and `i18n:check` reports 1,442 current mirrors per language. Full canonical verify after `release:write` passed with 28 release-doc files / 26 strict / 76 grandfathered; 1,482 generated API entries; zero vulnerabilities; Astro check across 44 files with zero errors; 98 tests / 327 assertions; 2,969 Astro pages; 2,884 metadata pages / zero issues; 2,968 Pagefind pages; assembly of 6,256 Astro plus 3,085 raw files; 13 required routes; 2,969 final HTML files / 5,864 routes / 283,520 hrefs; 6,049 generated URLs; and `git diff --check`. Pass the real pre-push, `pre` / `main` checks, and production deployment; create `v2026.07.29-9` on the same main SHA; close #224, update #192, and begin #231.
 
-### 中文
-
-- **2026-07-29 05:58:13 JST / 背景:** Issue #223 发布后，Issue #224 所有的 current released-main scope 为 6 个区域银行 paths、1 个 retail path 与 6 个证券公司 paths，共 15 条 `low_marker_density` warnings。目标不是机械插入 marker，而是用官方一手资料重新核对现法人和前身、设立与开业、上市市场、母公司与表决权、登记、所在地、未来交易/重组/更名，并把错误主体、日期和完成状态从确定事实中删除。
-- **范围 / 主要文件:** `regional-banks/{daiwa-next-bank,iyogin-hd,nanto-bank,okinawa-fg,ryukyu-bank,ssnb}.md`、`retail/japan-retail-financial-distribution-wedge-matrix.md`、`securities-firms/{aizawa-securities,iwai-cosmo-securities,monex-group,mufg-securities,smbc-nikko,tokai-tokyo-securities}.md`、26 份 ja / en mirrors、三语 `README.md`、本 CHANGELOG、`releases/{README,v2026.07.29-9}.md` 与 root index / discovery surfaces；不修改 `.opinions/**`、`docs/**` 或 Issue #231 所有的 table-related residual queue。
-- **执行步骤 / 银行与 retail:** 将 Orix Bank 的买方从大和 Next Bank 母公司修正为银行自身，并把价格、计划交割与合并考虑统一到签约阶段状态。将 Iyogin Holdings、Iyo Bank、Nanto Bank、Okinawa FG、Bank of the Ryukyus 的设立、前身、上市和总部事实统一到官方沿革与 JPX。住信 SBI Net Bank 采用 2026-07-29 当前母公司和股东结构，把 2026-08-03 计划更名保留为未完成事件。retail matrix 区分 AEON Bank 的 2006 年设立 / 2007 年开业 / AFS 100% 持股，以及 Lawson Bank 的筹备公司、牌照、开业和当前 13,500 台以上 ATM 披露。
-- **执行步骤 / 证券与 mirrors:** 将 Aizawa、IwaiCosmo、SMBC Nikko、Tokai Tokyo 的现法人设立 / 开业与前身沿革、登记编号、所在地统一到官方 profile / history 与 FSA 登记簿。修正 Monex Group 的现法人设立、现领导和 DOCOMO 中间控股公司的持股 / 董事提名 / 并表机制，并把 MUFG Securities Holdings 总部修正为大手町。13 个 source entries 更新为 2026-07-29 / review 2026-10-27，并同步 26 份 mirrors 的正文、marker、`source_hash` 与 `translated_at`。
-- **验证结果 / 后续:** `provenance:audit` 将 full 2,290 → 2,275、low-marker 15 → 0、Issue #224 rows 15 → 0；table-related 保持 105 row + 2,170 table = 2,275，没有增加。`audit:all --as-of 2026-07-29` 的 factual conflict、cross-path needs-review、provenance threshold、Tier-1 due 均为 0，queue-growth monitor 1 为 advisory。`wiki:audit:ci` 为 1,489 entries / issues 0 / drift 0，`i18n:check` 为 ja / en 各 1,442 current。`release:write` 后的完整 canonical verify 通过：release docs 28 files / strict 26 / grandfathered 76、generated API 1,482、vulnerability 0、Astro check 44 files / errors 0、98 tests / 327 assertions、Astro 2,969 pages、metadata 2,884 / issues 0、Pagefind 2,968、assembly 6,256 Astro + 3,085 raw、13 required routes、final HTML 2,969 / routes 5,864 / hrefs 283,520、generated URLs 6,049，并通过 `git diff --check`。继续通过真实 pre-push、`pre` / `main` checks 与 production deployment；在同一 main SHA 创建 `v2026.07.29-9`，关闭 #224，更新父 #192，并开始 #231。
-
 ## 2026-07-29 - Payment-company and payment-matrix low-marker corrections (#223)
 
 ### 日本語
@@ -676,14 +491,6 @@
 - **Steps / Entities and registries:** Compared official profiles and histories for bitFlyer, FamiMa Digital One, GMO Coin, Mercari, and Rakuten Group with FSA, JVCEA, and JPX records, adopting current entities, locations, parents, registrations, and market classifications. Removed FamiMa's unverified travel-company lineage and funds-transfer registration, Mercari's incorrect April 2022 Prime status, and Rakuten's incorrect Mothers / First Section lineage. The BNPL page now separates METI's 138 registered operators as of May 2026 from consumer-facing products and does not reverse-infer a licence from a checkout label. Removed undisclosed GMO-PG leadership, merchant-count, and routing claims, and aligned PAY.JP to official evidence that PAY within BASE Group operates it.
 - **Steps / Prepaid, mobile, and mirrors:** Separated Rakuten Edy's present entity from the bitWallet brand lineage, tying Rakuten Payment ownership, FSA registration, Android / Google Wallet support, lack of iPhone support, and general non-refundability to official sources. The prepaid matrix separates issuer liability from charge rails for Edy / nanaco / WAON / Kitaca and corrects the official Apple Pay chronology plus the spring-2027 Kitaca-area Mobile Suica commuter-pass plan. Updated nine source entries to 2026-07-29 with review on 2026-10-27 and synchronized body text, markers, `source_hash`, and `translated_at` across 18 mirrors.
 - **Validation / Follow-up:** `provenance:audit` moved full warnings 2,301 → 2,290, low-marker warnings 26 → 15, Issue #223 rows 11 → 0, and retained `needs_review=0`; table-related warnings remain unchanged at 105 row plus 2,170 table = 2,275. `audit:all --as-of 2026-07-29` reports zero factual conflicts, cross-path needs-review patterns, provenance-threshold rows, or Tier-1 due rows; the one queue-growth monitor is advisory. `wiki:audit:ci` reports 1,489 entries / zero issues / zero drift, and `i18n:check` reports 1,442 current mirrors per language. Full canonical verify after `release:write` passed with 27 release-doc files / 25 strict / 76 grandfathered; 1,482 generated API entries; zero vulnerabilities; Astro check across 44 files with zero errors; 98 tests / 327 assertions; 2,969 Astro pages; 2,884 metadata pages / zero issues; 2,968 Pagefind pages; assembly of 6,256 Astro plus 3,084 raw files; 13 required routes; 2,969 final HTML files / 5,864 routes / 283,478 hrefs; 6,048 generated URLs; and `git diff --check`. Pass the real pre-push, `pre` / `main` checks, and production deployment; create `v2026.07.29-8` on the same main SHA; close #223, update #192, and begin the next queue item.
-
-### 中文
-
-- **2026-07-29 05:19:32 JST / 背景:** Issue #222 发布后，Issue #223 所有的 current released-main scope 为 5 个 payment-company paths 与 4 个 payments paths，共 11 条 `low_marker_density` warnings。目标不是机械插入 marker，而是用官方一手资料重新核对法人/母公司、登记与上市类别、产品沿革、退款条件、移动端支持、ATM/卡片充值关系，并把未披露的规模、排名、因果与保证从确定事实中删除。
-- **范围 / 主要文件:** `payment-firms/{bitflyer,famima-digital-one,gmo-coin,mercari-hd,rakuten-fg}.md`、`payments/{edy-rakuten-prepaid,japan-bnpl-pay-later-operator-registry-matrix,japan-merchant-psp-competitive-scorecard,japan-prepaid-electronic-money-operator-matrix}.md`、18 份 ja / en mirrors、三语 `README.md`、本 CHANGELOG、`releases/{README,v2026.07.29-8}.md` 与 root index / discovery surfaces；不修改 `.opinions/**`、`docs/**` 或其他 Issue 所有的 residual queue。
-- **执行步骤 / entity 与 registry:** 将 bitFlyer、FamiMa Digital One、GMO Coin、Mercari、Rakuten Group 的官方 profile / history 与 FSA、JVCEA、JPX 对照，采用现行法人、所在地、母公司、登记与正确市场分类。删除 FamiMa 未核实的旅行公司沿革/资金转移登记、Mercari 错误的 2022-04 Prime、Rakuten 错误的 Mothers / First Section 系谱。BNPL 页面把 METI 截至 2026-05 的 138 家登记运营商与 consumer-facing products 分开，不再从 checkout label 反推 license。删除 GMO-PG 未披露的最大排名、商户数与 routing，并用官方事业承继资料确认 PAY.JP 由 BASE 集团 PAY 株式会社运营。
-- **执行步骤 / prepaid、mobile 与 mirror:** 区分 Rakuten Edy 现行法人和 bitWallet 品牌沿革，以官方资料连接 Rakuten Payment ownership、FSA 登记、Android / Google Wallet、iPhone 不支持与原则上不退款。prepaid matrix 区分 Edy / nanaco / WAON / Kitaca 的发行人责任与 charge rail，并校正 Apple Pay 官方时间线和 2027 年春以后 Kitaca 区域使用 Mobile Suica 定期券的计划。9 个 source entries 更新为 2026-07-29 / review 2026-10-27，并同步 18 份 mirrors 的正文、marker、`source_hash` 与 `translated_at`。
-- **验证结果 / 后续:** `provenance:audit` 将 full 2,301 → 2,290、low-marker 26 → 15、Issue #223 rows 11 → 0，并保持 `needs_review=0`；table-related 保持 105 row + 2,170 table = 2,275，没有增加。`audit:all --as-of 2026-07-29` 的 factual conflict、cross-path needs-review、provenance threshold、Tier-1 due 均为 0，queue-growth monitor 1 为 advisory。`wiki:audit:ci` 为 1,489 entries / issues 0 / drift 0，`i18n:check` 为 ja / en 各 1,442 current。`release:write` 后的完整 canonical verify 通过：release docs 27 files / strict 25 / grandfathered 76、generated API 1,482、vulnerability 0、Astro check 44 files / errors 0、98 tests / 327 assertions、Astro 2,969 pages、metadata 2,884 / issues 0、Pagefind 2,968、assembly 6,256 Astro + 3,084 raw、13 required routes、final HTML 2,969 / routes 5,864 / hrefs 283,478、generated URLs 6,048，并通过 `git diff --check`。继续通过真实 pre-push、`pre` / `main` checks 与 production deployment；在同一 main SHA 创建 `v2026.07.29-8`，关闭 #223，更新父 #192，并开始下一个 queue item。
 
 ## 2026-07-29 - Fintech, insurance, leasing, life, and PayPay low-marker corrections (#222)
 
@@ -704,15 +511,6 @@
 - **Steps / Entities and ownership:** Updated the FSA workbook's 57 branch rows versus internal route coverage; Sony Life's 100% ownership, Sony FG listing, and 83.60% spin-off; TFSC's 2000-07-07 founding date; Daiichi Life Group's current name and FY2024 figures; Meiji Yasuda's predecessor, mutual-company, and StanCorp facts; and Japan Post's government 38.05%, Japan Post Bank approximately 49.87%, and Japan Post Insurance 49.75% interests. PayPay Points now separates the 2022 rename, 2025 LINE Pay balance transfer, continued LINE Points, and phased 2026 linking, while PayPay reflects the Nasdaq `PAYP` listing and continued SoftBank consolidation.
 - **Mirrors / Consistency:** Synchronized 11 target entries and 22 ja/en mirrors, then brought 12 source entries and 24 mirrors current including the Toyota duplicate route. The first truthfulness audit's four conflicts came from the duplicate route's incorrect `2000-07-03` date and a verification-paragraph date-label collision; the official `2000-07-07` date and non-colliding wording returned the count to zero. Mirror review also removed the residual incorrect Teikoku Life lineage and unverified acquisition amount from Meiji Yasuda.
 - **Validation / Follow-up:** `provenance:audit` moved full warnings 2,319 → 2,301, low-marker warnings 39 → 26, Issue #222 rows 13 → 0, and retained `needs_review=0`; table-related warnings moved 2,280 → 2,275. `audit:all --as-of 2026-07-29` reports zero factual conflicts, cross-path patterns, provenance needs-review blockers, or Tier-1 due rows; `wiki:audit:ci` reports 1,489 entries / zero issues / zero drift; `i18n:check` reports 1,442 current mirrors per language; and focused translation tests passed 13 tests / 51 assertions. The full canonical verify after `release:write` also passed: 26 release-doc files / 24 strict / 76 grandfathered; 1,482 generated API entries; zero production vulnerabilities; Astro check across 44 files with 0 errors / 0 warnings / 0 hints; 98 tests / 327 assertions; 2,969 Astro pages; 2,884 entry-metadata pages with zero issues; 2,968 Pagefind pages; assembly of 6,256 Astro files plus 3,083 raw files; all 13 required routes; 2,969 final HTML files / 5,864 routes / 283,462 hrefs; 6,047 generated internal URLs; and `git diff --check`. Separate bounded issues own the remaining 26 low-marker / 2,275 table warnings. Pass the real pre-push, `pre` / `main` checks, and production deployment; create `v2026.07.29-7` on the same main SHA; close #222, update #192, and begin #223.
-
-### 中文
-
-- **2026-07-29 04:26:01 JST / 背景:** Issue #221 / #247 发布后，Issue #222 所有的 current released-main scope 为 11 个 paths / 13 条 `low_marker_density` warnings，覆盖 fintech、外国金融机构、insurance、leasing、life insurers、loyalty 与 megabanks。目标不是机械插入 marker，而是用官方一手资料重新核对主张，删除未披露推计、尚未实现的制度/整合，以及过时 ownership / listing status。
-- **范围 / 主要文件:** `fintech/{paypal-pyusd-stablecoin,three-circles-mra-2030-economic-scale,wholesale-settlement-network-matrix}.md`、`foreign-financial-institutions/foreign-bank-branches-japan-index.md`、`insurance/sony-life-group-life-operating-model.md`、`leasing-firms/toyota-financial.md`、`life-insurers/{dai-ichi-life,meiji-yasuda}.md`、`loyalty/sb-yahoo-paypay-points-unified-ecosystem.md`、`megabanks/{japan-post-holdings,paypay-fg}.md` 及其 ja / en mirrors。factual-consistency audit 发现 Toyota duplicate route 的设立日冲突，因此同步修正 `manufacturer-finance/toyota-financial-services.md` 与 2 份 mirrors。同一 release unit 还包括三语 `README.md`、本 CHANGELOG、`releases/{README,v2026.07.29-7}.md` 与 root index / discovery surfaces；不修改 `.opinions/**` 或 `docs/**`。
-- **执行步骤 / fintech 与制度:** 用 PayPal 官方资料确认 PYUSD launch、Solana、supported networks 与 70-market expansion，删除未确认的 reserve split、chain share 与 DEX liquidity。将 GENIUS Act 修正为 S.1582 / Public Law 119-27，并把 `$130B` / `$384B` 隔离为 scenario assumptions。FSA-SEC dialogue 与 minister remarks 只证明国际合作讨论，不证明 signed MRA。Fnality、Partior、Kinexys、mBridge、Agorá、Mariana 按官方 currency、volume、handover 与 project disclosure 区分 production、MVP、prototype 与 proof of concept。
-- **执行步骤 / entity 与 ownership:** 更新 FSA workbook 的 57 branch rows 与内部 route coverage 的边界；更新 Sony Life 100% ownership、Sony FG listing、83.60% spin-off；更新 TFSC 2000-07-07 设立日；更新 Daiichi Life Group 现商号与 FY2024；更新 Meiji Yasuda 前身、相互会社与 StanCorp；更新 Japan Post 的政府 38.05%、Japan Post Bank 约 49.87%、Japan Post Insurance 49.75%。PayPay Points 区分 2022 rename、2025 LINE Pay balance transfer、继续存在的 LINE Points 与 2026 phased linking；PayPay 更新 Nasdaq `PAYP` 上市与继续由 SoftBank 连结的状态。
-- **mirror / consistency:** 同步 11 个目标 source entries 与 22 份 ja / en mirrors；包括 Toyota duplicate route 后，共 12 个 source entries / 24 份 mirrors 的 body hash contract 全部 current。第一次 truthfulness audit 的 4 个 conflicts 来自 duplicate route 错误的 `2000-07-03` 与 verification paragraph 的 date-label collision；改用官方 `2000-07-07` 与不冲突 wording 后降为 0。mirror review 还删除了 Meiji Yasuda 残留的错误 Teikoku Life lineage 与未确认 acquisition amount。
-- **验证结果 / 后续:** `provenance:audit` 将 full warnings 2,319 → 2,301、low-marker 39 → 26、Issue #222 rows 13 → 0，并保持 `needs_review=0`；table-related 2,280 → 2,275。`audit:all --as-of 2026-07-29` 的 factual conflicts、cross-path pattern、provenance needs-review、Tier-1 due 均为 0；`wiki:audit:ci` 为 1,489 entries / issues 0 / drift 0；`i18n:check` 为 ja / en 各 1,442 current；focused translation tests 以 13 tests / 51 assertions 通过。`release:write` 后的完整 canonical verify 也通过：release docs 26 files / strict 24 / grandfathered 76、generated API 1,482 entries、production vulnerabilities 0、Astro check 44 files / 0 errors / 0 warnings / 0 hints、98 tests / 327 assertions、Astro 2,969 pages、entry metadata 2,884 / issues 0、Pagefind 2,968 pages、assembly 6,256 个 Astro files + 3,083 个 raw files、required routes 13、final HTML 2,969 files / 5,864 routes / 283,462 hrefs、generated URLs 6,047，并通过 `git diff --check`。剩余 26 low-marker / 2,275 table warnings 由其他 bounded Issues 负责。继续通过真实 pre-push、`pre` / `main` checks 与 production deployment；在同一 main SHA 创建 `v2026.07.29-7`，关闭 #222，更新 #192，并开始 #223。
 
 ## 2026-07-29 - Low-marker primary-source and translation-protection corrections (#221, #247)
 
@@ -736,16 +534,6 @@
 - **Validation:** Focused `bun run provenance:audit -- --json` moved full warnings from 2,336 to 2,319, `low_marker_density` from 56 to 39, Issue #221's owned rows from 17 to zero, and retained `needs_review=0`; the 2,280 table-related warnings are unchanged. `bun test site/scripts/protect.test.mjs` passed 13 tests / 51 assertions. `bun run audit:all -- --as-of 2026-07-29` completed with zero blocking rows, and `bun run wiki:audit:ci` reported 1,489 entries / zero issues / zero canonical drift. The first full verify correctly blocked the bug. After repair, full canonical `bun run verify --out _site` passed with 25 release-doc files / 23 strict notes / zero problems; 1,482 generated API entries / fixed-timestamp identity / zero leakage; 1,442 current mirrors per language; zero production vulnerabilities; Astro check across 44 files with 0 errors / 0 warnings / 0 hints; 98 tests / 327 assertions; 2,969 Astro pages; 2,884 entry-metadata pages with zero issues; 2,968 Pagefind pages; assembly of 6,258 Astro plus 3,082 raw files; all 13 required routes; 2,969 final HTML files / 5,864 routes / 283,248 hrefs; 6,046 generated URLs; and `git diff --check`.
 - **Known notes / Follow-up:** The provenance report remains advisory; the remaining 39 low-marker and 2,280 table-related warnings are human-review queues owned by separate bounded issues. Registries, handled instruments, ownership, and licences can change, so the 90-day cadence remains. Run `bun run release:write`, full `bun run verify --out _site`, the real pre-push hook, both `pre` / `main` PR checks, and production deployment; create tag/GitHub Release `v2026.07.29-6` on the same main merge SHA. Record exact evidence on Issues #221 / #247 and parent #192, close/update them as appropriate, then begin #222.
 
-### 中文
-
-- **2026-07-29 03:21:06 JST / 背景:** Issue #219 完成 table-aware detector 校准后，non-table `low_marker_density` queue 为 56 条 warnings。Issue #221 负责其中 17 条，覆盖 agent、banking、business、exchanges 与 financial-licenses 共 15 个 source entries。目标不是机械插入 marker，而是用官方一手资料重新核对局部主张、数字、法人及母公司、membership / license 与制度转换日期。第一次 full verify 暴露 translation-protection bug：URL-bearing provenance marker 的 URL 已先被 mask，随后整个 marker 又被 mask，产生 single-pass `unmask` 无法还原的 nested placeholders。确认没有重复 Issue 后，起票 Issue #247 并在同一 release 中作为 blocker 修复。
-- **范围 / 主要文件:** `agent-economy/privy-embedded-wallet-overview.md`；`banking/{custody-bank-operating-model,japan-foreign-bank-retreat-refocus-timeline-matrix,japan-stablecoin-bank-perimeter-2025,sony-bank}.md`；`business/larry-fink-blackrock-digital-asset-template.md`；`exchanges/{btc-spot-etf-japan-impact,japan-cex-parent-fg-adjacency-matrix,japan-vasp-business-model-competitive-matrix,jp-exchange-bitflyer,jp-exchange-dmm-com-securities,jp-exchange-sblox,jp-vasp-parent-company-map,uk-fca-crypto-registration-overview}.md`；`financial-licenses/securities-license-stack.md`；对应的 30 份 `site/src/content/i18n/{ja,en}/**` mirrors；`site/scripts/{protect.mjs,protect.test.mjs}`；`docs/05-functional-specs/i18n-pipeline.md`；`docs/07-quality/test-plan.md`；三语 `README.md`、本 CHANGELOG、`releases/{README,v2026.07.29-6}.md`；以及 root index / discovery surfaces。不修改 `.opinions/**` 或其他 Issue 所有的 residual queue。
-- **执行步骤 / Registry 与制度校正:** 于 2026-07-29 核对 FSA workbooks，并用 scoped marker 记录外国银行支店 57、暗号资产交换业者 26、电子支付手段等交易业者 1（取扱栏为 USDC / RLUSD / JPYSC）、金融商品交易业者 1,954。FSA FAQ 确认 category-3 trust-beneficiary-right EPI 可由 trust company 或 authorised trust financial institution 发行，并不限于 trust bank。FCA 资料现已明确区分 current MLR registration、2026-09-30 至 2027-02-28 的申请窗口，以及 2027-10-25 开始的新 FSMA regime。
-- **执行步骤 / Entity 与 claim 校正:** 采用 Privy 2025-06-11 官方公告披露的 75M+ accounts / 1,000+ developer teams，删除未披露的 acquisition price、110M wallets 与 valuation。Laser Digital、JVCEA、Crypto Garage 与 FSA 官方资料表明，Laser Digital Japan 是 JVCEA 第二种会员，不是第二种金融商品交易业注册；Crypto Garage 是 Digital Garage + Tokyo Tanshi joint venture、暗号资产交换业 No. 00029，因此删除无依据的 Daiwa parent / in-group bank route。bitFlyer 旧 private cap table、Sony FG 未核实 opening price、BlackRock / SEC ETP 未证实的 AUM 及日本市场因果、CBJ custody majority / merger-cost allocation，均收敛到一手资料能够证明的范围。DMM.com Securities 与 DMM Bitcoin 的法人和注册被分开，S.BLOX 的公司更名与服务更名也被分开。
-- **Translation / metadata 同步:** 15 个 source entries 的 `last_updated` / `last_tended` 更新为 2026-07-29，`review_by` 更新为 2026-10-27。将 scoped markers 与官方 links 同步到 ja / en mirrors，并按 source-body SHA-256 contract 更新全部 30 个 `source_hash` 与 `translated_at`。Issue #247 改为在 URL、日期与数字之前原子化 mask 完整 `^[...]` marker，避免 marker 内 URL 形成 nested placeholders；增加 single / multiple URL fixture，并在 functional spec / test plan 中记录 lossless one-pass round-trip contract。`bun run i18n:status -- --json` 显示 ja / en 各 1,442 mirrors 全部 current，stale / orphaned / missing / source-pointer drift 均为 0，每种语言 `fidelity: ok` 均为 1,442。
-- **验证结果:** focused `bun run provenance:audit -- --json` 将 full warnings 从 2,336 降至 2,319，将 `low_marker_density` 从 56 降至 39，将 Issue #221 所有的 17 条降至 0，并保持 `needs_review=0`；2,280 条 table-related warnings 不变。`bun test site/scripts/protect.test.mjs` 以 13 tests / 51 assertions 通过。`bun run audit:all -- --as-of 2026-07-29` 以 blocking rows 0 完成，`bun run wiki:audit:ci` 显示 1,489 entries / issues 0 / canonical drift 0。第一次 full verify 按预期阻断此 bug；修复后的完整 `bun run verify --out _site` 已通过：release docs 25 files / 23 strict notes / problems 0、generated API 1,482 / fixed-timestamp identity / leakage 0、ja / en mirrors 各 1,442 current、production vulnerabilities 0、Astro check 44 files / 0 errors / 0 warnings / 0 hints、98 tests / 327 assertions、Astro 2,969 pages、entry metadata 2,884 / issues 0、Pagefind 2,968 pages、assembly 6,258 个 Astro + 3,082 个 raw files、13 个 required routes、final HTML 2,969 files / 5,864 routes / 283,248 hrefs、generated URLs 6,046，以及 `git diff --check`。
-- **已知注意事项 / 后续事项:** provenance report 仍为 advisory；剩余 39 条 low-marker 与 2,280 条 table-related warnings 是由其他 bounded Issues 所有的人工复核队列。registry、handled instruments、ownership 与 license 都可能变化，因此继续维持 90-day cadence。执行 `bun run release:write`、完整 `bun run verify --out _site`、real pre-push、`pre` / `main` PR checks 与 production deployment；在同一个 main merge SHA 上创建 `v2026.07.29-6` tag / GitHub Release。向 Issue #221 / #247 与父 Issue #192 记录 exact evidence，按需 close / update，随后开始 #222。
-
 ## 2026-07-29 - Table-level provenance proximity calibration (#219)
 
 ### 日本語
@@ -768,16 +556,6 @@
 - **Validation:** The focused provenance suite passed with 8 tests / 13 assertions. `bun run provenance:audit -- --json | jq` parsed complete JSON beyond the pipe-buffer size and confirmed 2,280 table-reason rows, 2,336 full warnings, and `needs_review=0`. `bun run audit:all -- --as-of 2026-07-29` completed with zero blocking rows. Full canonical `bun run verify --out _site` also passed: 24 release-doc files / 22 strict notes / 76 grandfathered notes; 1,489 wiki entries / zero issues / zero canonical drift; 1,482 generated API entries / fixed-timestamp identity / zero leakage; 1,442 current mirrors per language; zero production vulnerabilities; Astro check across 44 files with 0 errors / 0 warnings / 0 hints; 97 tests / 323 assertions; 2,969 Astro pages; 2,884 entry-metadata pages with zero issues; 2,968 Pagefind pages; assembly of 6,258 Astro plus 3,081 raw files; all 13 required routes; 2,969 final HTML files / 5,864 routes / 283,184 hrefs; 6,045 unique generated URLs; and `git diff --check`.
 - **Known notes / Follow-up:** The audit remains read-only and advisory, with no automatic marker insertion or hard gate. The 2,280 residuals are a human-review queue for public-source scope, not a declaration of errors. Run `bun run release:write`, full `bun run verify --out _site`, the real pre-push hook, both `pre` / `main` PR checks, and production deployment; create tag/GitHub Release `v2026.07.29-5` on the same main merge SHA. After recording exact evidence on #219 and parent #192, begin content review with #231.
 
-### 中文
-
-- **2026-07-29 02:40:40 JST / 背景:** 父 Issue #192 交给 #219 的 snapshot 包含 6,311 条 advisory warnings，覆盖 1,089 paths / 39 domains，reason 全部严格等于 `table_row_without_marker`。旧 detector 会为每个 factual-looking table row 单独告警，却不会理解 scoped heading marker、lead / caption、footer、section source block 或 row 内 direct public link，因此必须先确定 detector precision，再开始 content review。#220 之后的 exact release base 中该 reason 为 6,313 rows。
-- **范围 / 主要文件:** `tools/provenance_completeness_audit.ts` 与 focused test、`docs/07-quality/{provenance-source-completeness-audit,test-plan}.md`、三语 `README.md`、本 CHANGELOG、`releases/{README,v2026.07.29-5}.md`，以及 release generator 同步的 public surfaces。不修改 wiki corpus 正文、ja / en mirrors、`.opinions/**` 或 #221-#224 的 non-table low-marker queue。
-- **执行步骤 / Detector contract:** 把每张 Markdown table 分组为 structural header、factual rows 与 same-section context。detector 现在会区分逐行 `^[marker]` / direct public HTTP(S) link、带 marker/link 的紧邻 section heading、明确指向 table scope 的 lead/caption、带 marker 的 table header，以及 source-labelled footer / section block。section source proximity 最多为 3 个 logical blocks / 12 个 physical lines；generic nearby marker、相邻 row marker 与远处 `## Sources` 都不能覆盖整张表。完全无局部来源的表输出 1 条 `table_without_provenance`，mixed table 只对未覆盖行输出 `table_row_without_marker`。大型 JSON 改为 awaited stdout write。
-- **分类结果:** release-base 6,313 条旧 rows 中，5,656 rows 合并为 2,175 个 table-level tasks，599 rows 因 scoped evidence 判为 detector false positives，58 rows 保持 row warnings。取消 adjacent-marker spillover 后，另有 47 mixed-table rows 重新可见，因此 post-calibration queue 为 2,175 table + 105 mixed-row = 2,280 warnings，覆盖 1,064 paths / 39 domains。加上 56 条 non-table `low_marker_density`，full report 为 warning 2,336 / `needs_review=0`。
-- **代表样本 / Routing:** 使用 `megabanks/mufg.md` 检查 marker-bearing heading，使用 `financial-regulators/financial-reports-2020-index.md` 检查 direct row links，使用 `security/proxy-upgrade-rug-pattern.md` 检查 linked colon lead，使用 `asset-managers/saison-asset-management.md` 检查 mixed rows，使用 `banking/baas-japan-landscape.md` 检查 homogeneous unsupported table。按互不重叠的 first path component，将 39 domains 的全部 residuals 精确路由到 14 个 child issues #231-#244，总数严格对应 2,280 warnings / 1,064 paths。
-- **验证结果:** focused provenance suite 以 8 tests / 13 assertions 通过。`bun run provenance:audit -- --json | jq` 已解析超过 pipe buffer 的完整 JSON，并确认 table reasons 2,280、full warnings 2,336、`needs_review=0`。`bun run audit:all -- --as-of 2026-07-29` 以 blocking rows 0 完成。完整 `bun run verify --out _site` 也已通过：release docs 24 files / 22 strict notes / 76 grandfathered notes、wiki 1,489 entries / issues 0 / canonical drift 0、generated API 1,482 / fixed-timestamp identity / leakage 0、ja / en mirrors 各 1,442 current、production vulnerability 0、Astro check 44 files / 0 errors / 0 warnings / 0 hints、97 tests / 323 assertions、Astro 2,969 pages、entry metadata 2,884 / issues 0、Pagefind 2,968 pages、assembly 6,258 个 Astro + 3,081 个 raw files、13 个 required routes、final HTML 2,969 files / 5,864 routes / 283,184 hrefs、generated URL 6,045 与 `git diff --check`。
-- **已知注意事项 / 后续事项:** audit 继续保持 read-only / advisory，不自动插入 marker，也不增加 hard gate。2,280 条 residuals 是需要人工复核 public source scope 的队列，不代表这些事实已经被判错。执行 `bun run release:write`、完整 `bun run verify --out _site`、真实 pre-push、`pre` / `main` PR checks 与 production deployment，并在同一个 main merge SHA 上创建 `v2026.07.29-5` tag / GitHub Release。向 #219 与父 #192 记录 exact evidence 后，从 #231 开始 content review。
-
 ## 2026-07-29 - Agent-infrastructure candidate lifecycle recheck (#220)
 
 ### 日本語
@@ -797,15 +575,6 @@
 - **Validation:** Exact `bun tools/fact_freshness_audit.ts --json --as-of 2026-07-29` moved from three actionable rows to `[]`. `bun run i18n:status -- --json` reports 1,442 mirrors per language, all 1,442 current, with zero stale, orphaned, or missing mirrors. Full canonical `bun run verify --out _site` also passed: 23 release-doc files / 21 strict notes / 76 grandfathered notes; 1,489 wiki entries / zero issues / zero canonical drift; 1,482 generated API entries / fixed-timestamp byte identity / zero leakage; zero production vulnerabilities; Astro check across 44 files with 0 errors / 0 warnings / 0 hints; 89 tests / 310 assertions; 2,969 Astro pages; 2,884 entry-metadata pages with zero issues; 2,968 Pagefind pages; assembly of 6,258 Astro files plus 3,080 raw files; all 13 required routes; 5,864 final HTML routes; 6,044 unique generated internal URLs; and `git diff --check`.
 - **Known notes:** `active` is a lifecycle classification showing that official product, documentation, stable-specification, or production evidence currently exists; it does not mean every feature is GA or establish usage scale or market share. Maturity labels for individual surfaces such as Agentic Wallet MCP continue to follow official documentation. All three entries retain a 90-day cadence as high-volatility topics.
 - **Follow-up:** Synchronize the root index / AI discovery with `bun run release:write`, then pass full `bun run verify --out _site`, the real pre-push hook, `pre` / `main` PR checks, and production deployment. Create tag/GitHub Release `v2026.07.29-4` on the same main merge SHA, close Issue #220 with official-source classification, audit delta, translation/deployment evidence, and update parent #192 plus the next provenance child queue.
-
-### 中文
-
-- **2026-07-29 02:01:18 JST / 背景:** Issue #217 修正 fact-freshness detector 精度后，actionable queue 只剩 Circle Agent Stack、Coinbase AgentKit / Agentic Wallets 与 Agent2Agent (A2A) 这 3 条 `candidate_status`。Issue #220 是一个 bounded work item：用截至 2026-07-29 仍可访问的官方一手资料复核这 3 个条目，决定它们应继续保持 launch-stage candidate，还是更新为公开可用的 active lifecycle。
-- **范围 / 主要文件:** `agent-economy/{circle-agent-stack-usdc,coinbase-agentkit-agentic-wallets,google-a2a-agent-interop-protocol}.md`、对应的 `site/src/content/i18n/{ja,en}/agent-economy/**` mirrors、三语 `README.md`、本 CHANGELOG、`releases/{README,v2026.07.29-4}.md`、root `index.html` 与 generated discovery surfaces。不修改 `.opinions/**`、provenance queue 或其他 wiki entries。
-- **执行步骤 / 主要变更:** 确认 Circle 的 live product page / developer docs 仍提供 Agent Wallets、Marketplace、CLI、Nanopayments 与 Skills；Coinbase 的 live Agentic Wallet product/docs 和 public AgentKit repository 仍保留 CLI、MCP 与 framework 入口；A2A 官方 specification 将 1.0.0 标为 latest release，项目将 v1.0 定义为首个 stable / production-ready release，Linux Foundation 也报告多个行业已有 active production deployment。把 3 个 source entries 从 `candidate` 更新为 `active`，设为 `confidence: certain`，将 `last_updated` / `last_tended` 更新到 2026-07-29、`review_by` 更新到 2026-10-27。把 Coinbase 具有误导性的 `MPC agent wallets` title 按当前官方架构修正为 `TEE agent wallets`，旧 title 作为 alias 保留；同时同步 status evidence、ja / en mirrors 与 source hashes。
-- **验证结果:** 精确 `bun tools/fact_freshness_audit.ts --json --as-of 2026-07-29` 从 3 条 actionable rows 降为 `[]`。`bun run i18n:status -- --json` 显示 ja / en 各 1,442 mirrors，current 1,442，stale / orphaned / missing 均为 0。full canonical `bun run verify --out _site` 也已通过，包括 release docs 23 files / 21 strict notes / 76 grandfathered notes、wiki 1,489 entries / issues 0 / canonical drift 0、generated API 1,482 entries / fixed-timestamp byte identity / leakage 0、production vulnerability 0、Astro check 44 files / 0 errors / 0 warnings / 0 hints、89 tests / 310 assertions、Astro 2,969 pages、entry metadata 2,884 / issues 0、Pagefind 2,968 pages、assembly 6,258 个 Astro files + 3,080 个 raw files、13 个 required routes、final HTML 5,864 routes、generated URL 6,044 个 unique internal URLs 与 `git diff --check`。
-- **已知注意事项:** `active` 是表示当前仍有官方 product、documentation、stable specification 或 production evidence 的 lifecycle classification，并不代表每项功能都已 GA，也不证明使用规模或 market share。Agentic Wallet MCP 等单独 surface 的 maturity label 仍以官方 documentation 为准。3 个条目作为 high-volatility topics 继续使用 90 天 cadence。
-- **后续事项:** 执行 `bun run release:write` 同步 root index / AI discovery，随后通过 full `bun run verify --out _site`、real pre-push、`pre` / `main` PR checks 与 production deployment。在同一个 main merge SHA 上创建 tag / GitHub Release `v2026.07.29-4`，向 Issue #220 记录 official-source classification、audit delta、translation / deployment evidence 后关闭，并更新父 Issue #192 与下一个 provenance child queue。
 
 ## 2026-07-29 - Repeated factual-consistency calibration (#218)
 
@@ -831,17 +600,6 @@
 - **Known notes:** The report remains advisory and adds neither automatic edits nor a hard gate. It does not guess a parent from directionally unlabelled prose. Ownership and capital can change, so `review_by` cadence and primary-source rechecks remain required.
 - **Follow-up:** Synchronize the root index / AI discovery with `bun run release:write`, then pass full verification, the real pre-push hook, `pre` / `main` PR checks, and production deployment. Create tag/GitHub Release `v2026.07.29-3` on the same main SHA, close Issue #218 with commit/PR/source/audit/translation/deployment evidence, and update parent #192.
 
-### 中文
-
-- **2026-07-29 01:40:34 JST / 背景:** Issue #218 是 #192 的 bounded child。2026-07-29 factual-consistency 快照虽然 `conflict=0`，但针对 current parent / capital 报告了 46 条 `needs_review` rows / 8 个 repeated groups。逐行用一手资料复核后确认两个主因：relationship extractor 不判断方向，把一行中的第一个 entity link 当成 parent；numeric extractor 则把带 metric label 的一行中所有 amount 都绑定为同一 metric。
-- **46 rows 判定:** 17 条 Daiwa Next parent + 9 条 UI Bank parent + 6 条 Toyota Financial parent + 5 条 Sony Life parent + 3 条 GMO Aozora parent + 2 条 au Jibun parent + 2 条 Sony Bank parent = **44 条 directional-link false positives**。au Jibun capital 的 2 条中，1 条把 ownership `100%` 错绑为 capital，1 条揭示 canonical page 的 500 亿日元与官方 1,190 亿日元之间的真实漂移；因此 46 条快照 rows 均已有 outcome。精确原文行复核还额外发现 GMO Aozora 的旧“GMO 议决权过半”与 Sony Life 的旧“Sony Group 全资子公司”表述已过时；它们不同于审计行的方向误判，但也在限定文件内完成修正。
-- **一手资料 / 2026-07-29 复核:** Daiwa Next 由官方公司概要 `https://www.bank-daiwa.co.jp/about/company/profile/` 确认 Daiwa Securities Group 100%；UI Bank 由 `https://www.uibank.co.jp/info/` 确认 Tokyo Kiraboshi FG 100%；Toyota Financial Services 由 `https://www.tfsc.jp/corporate/` 确认 Toyota Motor 100%；Sony Life / Sony Bank 由 `https://www.sonyfg.co.jp/ja/company/about_group.html` 确认 Sony FG 100%。GMO Aozora 的 `https://gmo-aozora.com/company/outline.html` 2026-02-20 表显示 Aozora 持股 50.00% / 议决权 85.12%。au Jibun 的 `https://www.jibunbank.co.jp/corporate/outline/` 与 2026-03-24 增资公告 `https://www.jibunbank.co.jp/corporate/news/2026/pdf/news_20260324_01.pdf` 显示 au FH 100% / 资本金 1,190 亿日元。Sony FG 的 2025-09-29 重新上市公告 `https://www.sonyfg.co.jp/en/250929_01.html` 与母公司变更公告 `https://www.sonyfg.co.jp/en/news/article/250929_02.pdf` 确认：83.60% 的部分分拆于 2025-10-01 生效后，Sony Group 不再是母公司。
-- **范围 / 主要文件:** `tools/factual_consistency_audit.ts` 与 focused test、`docs/07-quality/cross-page-factual-consistency-audit.md`、`regional-banks/au-jibun-bank.md`、`payment-firms/gmo-aozora-net.md`、`insurance/sony-life-group-life-operating-model.md` 及各 ja / en mirror、三语 `README.md` / 本 CHANGELOG / `releases/{README,v2026.07.29-3}.md`，以及 release generator 同步的 root index / discovery surfaces。Daiwa Next、UI、Toyota、Sony Bank 正文与一手资料一致，因此不修改。`.opinions/**` 与其他 child queues 不在本次范围。
-- **执行步骤:** relationship extraction 仅接受明确 parent / shareholder label、`subsidiary of` / `owned by`、日文 `の子会社` 等 directional cue，并排除 self、peer、child、historical line 与 ambiguous tie。numeric claim 只绑定到离 metric label 最近的 amount。新增 deterministic temporary fixtures，覆盖真实英日 parent difference、ownership 100% + 资本金 1,190 亿日元，以及 historical / acquisition / self / peer links。将 3 个 source entries 更新为当前公开事实与日期，并同步 ja / en mirrors 和 source hashes。
-- **验证结果:** focused suite 的 2 tests / 3 assertions 通过。精确 `bun run facts:consistency -- --json` 从 46 rows / 8 groups 降为 empty array，即 `conflict=0` / `needs_review=0`。`bun run i18n:status` 显示 ja / en 各 1,442 mirrors、current 1,442、stale / orphaned / missing 0。full canonical `bun run verify --out _site` 也已通过，包括 release docs 22 files / 20 strict notes / 76 grandfathered notes、wiki 1,489 entries / issues 0 / canonical drift 0、generated API 1,482 entries / fixed-timestamp byte identity / leakage 0、production vulnerability 0、Astro check 44 files / 0 errors / 0 warnings / 0 hints、89 tests / 310 assertions、Astro 2,969 pages、entry metadata 2,884 / issues 0、Pagefind 2,968 pages、assembly 6,258 个 Astro files + 3,079 个 raw files、13 个 required routes、final HTML 5,864 routes、generated URL 6,043 个 unique internal URLs 与 `git diff --check`。
-- **已知注意事项:** report 仍为 advisory，不新增 automatic edit 或 hard gate；不会从方向未标注的 prose 猜测 parent。ownership / capital 可能变化，因此必须继续按 `review_by` 节奏与一手资料复核。
-- **后续事项:** 执行 `bun run release:write` 同步 root index / AI discovery，然后通过 full verify、real pre-push、`pre` / `main` PR checks 与 production deployment。在同一个 main SHA 上创建 tag / GitHub Release `v2026.07.29-3`，向 Issue #218 记录 commit / PR / source / audit / translation / deployment evidence 后关闭，并更新父 Issue #192。
-
 ## 2026-07-29 - Fact-freshness event inference calibration (#217)
 
 ### 日本語
@@ -863,16 +621,6 @@
 - **Validation:** The focused fixture passed 1 test / 13 assertions, and the complete repository suite passed 87 tests / 307 assertions. `docs:audit` and `docs:stale` across 67 active docs / 16 checks also passed. The exact 2026-07-29 audit reduced actionable freshness from 458 to 3; all 455 cadence-only rows were resolved as detector false positives. The three residual rows are the `candidate_status` entries `agent-economy/{circle-agent-stack-usdc,coinbase-agentkit-agentic-wallets,google-a2a-agent-interop-protocol}.md`, all already assigned to Issue #220. The change does not hide the 46 consistency rows / eight groups or 6,366 provenance warnings, which retain ownership in #218 / #219 / #221-#224. Full canonical `bun run verify --out _site` also passed, covering 21 release-doc files / 19 strict notes / 76 grandfathered notes; 1,489 wiki entries / zero issues / zero canonical drift; 1,482 generated API entries / fixed-timestamp byte identity / zero leakage; 1,442 current mirrors per language; zero production vulnerabilities; Astro check across 44 files with 0 errors / 0 warnings / 0 hints; 2,969 Astro pages; 2,884 entry-metadata pages with zero issues; 2,968 Pagefind pages; assembly of 6,258 Astro files plus 3,078 raw files; all 13 required routes; 5,864 final HTML routes; 6,042 unique generated internal URLs; and `git diff --check`.
 - **Known notes:** The report remains advisory and adds neither automatic content edits nor a hard release gate. A transaction topic being `high` does not prove that its public facts are current; explicit lifecycle state, candidate/borderline status, and `review_by_due` remain actionable. Issue #193's `.opinions/**` boundary is untouched.
 - **Follow-up:** Pass the real pre-push hook on the current source commit, both `pre`/`main` PR checks, and production deployment; then create same-SHA tag/GitHub Release `v2026.07.29-2`. Attach the exact audit delta and release evidence to Issue #217, close it, and recheck the three residual candidates in #220 against public sources.
-
-### 中文
-
-- **2026-07-29 01:10:45 JST / 背景:** Issue #192 的 2026-07-29 队列盘点报告 458 条 actionable freshness rows，其中 457 条被归为 `event`，455 条理由为 `cadence_due,event_keyword`。但这 455 条全部 `days_overdue=0`，明确的未来 `review_by` 分布在 2026-11-15 至 2027-06-05。根因是同一个宽泛 regex 同时扫描 route / title / tags 与前 4,000 个 body characters，把正文中的 “use case”、作为背景的 M&A / IPO 描述，甚至 frontmatter 的 `status:` key 都当作 active 45-day event signal。
-- **范围:** fact-freshness class inference、reason-code contract、frontmatter / body boundary、聚焦 fixtures、active architecture note、三语 README、release registry、本 CHANGELOG、`releases/v2026.07.29-2.md`，以及 release generator 同步的公开 discovery surface。不修改 wiki facts、source-entry frontmatter、ja / en mirrors 或 hard release gate。
-- **主要文件:** `tools/fact_freshness_audit.ts`、`tools/fact_freshness_audit.test.ts`、`docs/04-architecture/fact-freshness-source-recheck.md`、`README.md`、本 CHANGELOG 与 `releases/{README,v2026.07.29-2}.md`。
-- **执行步骤:** 从 body context 中排除 frontmatter。45-day `event` class 只由 route / title 中明确的 lifecycle-state cue 触发；transaction、bankruptcy、migration topic、topical tags 与 case study 通过 `volatile_topic_keyword` / `case_study_keyword` 最多提升为 90-day `high`。registry / statistics cue 仍可使用正文 context，但不能把页面提升为 active event。用一个 deterministic fixture 固定 generic “use case”、真实 acquisition deadline、historical case study、merger process、operator registry 与带未来 review date 的 ordinary profile。
-- **验证结果:** focused fixture 的 1 test / 13 assertions 通过；完整 repository suite 的 87 tests / 307 assertions 通过。`docs:audit` 与 67 active docs / 16 checks 的 `docs:stale` 也通过。精确 2026-07-29 audit 将 actionable freshness 从 458 降至 3；455 条 cadence-only rows 全部作为 detector false positives 消除。剩余 3 条是 `agent-economy/{circle-agent-stack-usdc,coinbase-agentkit-agentic-wallets,google-a2a-agent-interop-protocol}.md` 的 `candidate_status`，已全部分配给 Issue #220。本变更没有隐藏 consistency 46 rows / 8 groups 或 provenance 6,366 warnings，它们继续由 #218 / #219 / #221-#224 负责。完整 canonical `bun run verify --out _site` 也已通过，包括 release docs 21 files / 19 strict notes / 76 grandfathered notes、wiki 1,489 entries / issues 0 / canonical drift 0、generated API 1,482 entries / fixed-timestamp byte identity / leakage 0、ja / en 各 1,442 current mirrors、production vulnerability 0、Astro check 44 files / 0 errors / 0 warnings / 0 hints、Astro 2,969 pages、entry metadata 2,884 / issues 0、Pagefind 2,968 pages、assembly 6,258 个 Astro files + 3,078 个 raw files、13 个 required routes、final HTML audit 5,864 routes、generated URL audit 6,042 个 unique internal URLs 与 `git diff --check`。
-- **已知注意事项:** report 仍是 advisory，不新增 automatic content edit 或 hard release gate。transaction topic 被归为 `high` 不代表公开事实已经 current；明确 lifecycle state、candidate / borderline status 与 `review_by_due` 仍是 actionable。Issue #193 的 `.opinions/**` boundary 不在本次范围。
-- **后续事项:** 在 current source commit 上通过 real pre-push、`pre` / `main` 两级 PR checks 与 production deployment；随后创建 same-SHA tag / GitHub Release `v2026.07.29-2`。向 Issue #217 记录精确 audit delta 与 release evidence 后关闭，并在 #220 中用公开来源复核剩余 3 个 candidate。
 
 ## 2026-07-29 - Entry-discovery build graph and cache invalidation repair (#195)
 
@@ -896,16 +644,6 @@
 - **Known notes:** The cache is process-local and creates no persistent build artifact. The backlink index is built once per build process from resolved wikilinks. The `.opinions/**` public boundary remains the human decision in Issue #193 and is untouched.
 - **Follow-up:** Pass the real pre-push hook on the current source commit, merge the verified PR into `pre`, then complete the approved promotion, production deploy, same-SHA tag/GitHub Release `v2026.07.29`, and Issue #195 evidence. Continue Issue #192 through separate bounded child packets.
 
-### 中文
-
-- **2026-07-29 00:42:43 JST / 背景:** Issue #195。article-end discovery 会为每个页面调用 `getCollection('entries')`，并对约 1,482 条 route 做 map / sort，以重新计算 `count:first:last` cache signature。首次页面之后虽然会复用 index map，但 full-collection signature sort 与 route-lane 计算仍在 2,884 个 localized entry pages 上重复执行；中间 entry 的 title、tag 与 `related` link 变化也不会让 cache 失效。
-- **范围:** entry-discovery fingerprint / route graph、entry static-path integration、EntryLayout collection boundary、聚焦回归测试、architecture / FSD / RTM、三语 README、release registry、本 CHANGELOG 与 `releases/v2026.07.29.md`。不修改 wiki facts、`ja` / `en` translation bodies、card markup / CSS / limits 或 wikilink / backlink semantics。
-- **主要文件:** `site/src/lib/entryDiscovery.mjs`、`site/src/pages/[lang]/[...slug].astro`、`site/src/layouts/EntryLayout.astro`、`tools/entry_discovery.test.ts`、`docs/04-architecture/entry-discovery-build-graph.md`、`docs/{README,03-requirements/rtm,04-architecture/astro-site-architecture,05-functional-specs/ui-ux}.md`、`README.md` 与 `releases/{README,v2026.07.29}.md`。
-- **执行步骤:** 实施前先在 Issue 与 tracked architecture note 中固定 design packet。对每个 entry 的 normalized route / domain / slug / title、sorted tags、ordered `related` targets 与 loader body 做 length-prefix，生成 SHA-256 fingerprint，替换旧 signature。在 entry `getStaticPaths()` 中从 canonical collection 只构建一次 route-only lanes，再通过 static props 传递每种语言/route 的 localized payload。从 `EntryLayout` 移除 collection load 与 full-corpus scan，同时保持 explicit related → backlinks → shared tags → read-next → sibling fallback 以及 5 / 3 / 5 caps。
-- **验证结果:** focused cache/parity suite 以 4 tests / 22 assertions 通过；完整 repository suite 以 86 tests / 294 assertions 通过；Astro check 为 44 files / 0 errors / 0 warnings / 0 hints；duplicate-ID audit 在 2,969 pages 上 issues 0。在相同 warmed content-cache / empty-`dist` 条件下，build 从 51.21 秒降至 21.18 秒，减少 30.03 秒或 58.6%；static-route phase 从 37.42 秒降至 7.78 秒，减少 79.2%。变更前后的 2,884 个 entry-discovery fragments byte-identical / differences 0。完整 canonical `bun run verify --out _site` 的全部 gate 也已通过，包括 release docs 20 files / 18 strict notes / 76 grandfathered notes、wiki 1,489 entries / issues 0 / canonical drift 0、generated API 1,482 entries / fixed-timestamp byte identity / leakage 0、ja / en 各 1,442 个 current mirrors、production vulnerability 0、Pagefind 2,968 pages、assembly 6,258 个 Astro files + 3,077 个 raw files、13 个 required routes、final HTML audit 5,864 routes、generated URL audit 6,041 个 unique internal URLs 与 `git diff --check`。
-- **已知注意事项:** cache 是 process-local，不创建 persistent build artifact；backlink index 在每个 build process 中从 resolved wikilink 只构建一次。`.opinions/**` public boundary 仍等待 Issue #193 的 human decision，本变更不触碰。
-- **后续事项:** 在 current source commit 上通过 real pre-push；将 verified PR merge 到 `pre` 后完成 approved promotion、production deploy、same-SHA tag / GitHub Release `v2026.07.29`，并向 Issue #195 写入 evidence。Issue #192 通过独立的 bounded child packets 继续推进。
-
 ## 2026-07-28 - Release-state reconciliation and catch-up promotion preparation (#188)
 
 ### 日本語
@@ -927,16 +665,6 @@
 - **Validation:** Initial reconciliation confirmed that the 70 Git-tag versions and 70 GitHub-Release versions match exactly; `v2026.05.29` was the only tag/Release-only version, while the 22 intentional staging records were the only note-only versions. Full canonical `bun run verify --out _site` passed with 82 tests / 272 assertions; Astro check across 44 files with 0 errors / 0 warnings / 0 hints; 2,969 Astro pages; 2,884 entry-metadata pages with zero issues; 2,968 Pagefind pages; assembly of 6,258 Astro files plus 3,076 raw public files; all 13 required routes; a final HTML audit across 5,864 routes; a generated URL audit across 6,040 unique URLs; and zero production vulnerabilities. Release docs reported 19 files / 17 strict notes / 76 grandfathered notes; the wiki audit reported 1,489 entries / zero issues / zero canonical drift; and generated-surface drift confirmed 1,482 API entries, fixed-timestamp byte identity, and zero leakage. Promotion additionally requires the current head's real pre-push and green PR Required Verification / Dependency Audit / Vercel checks, whose URLs are retained as Issue evidence.
 - **Known notes:** The `Required verification` workflow first reaches `main` through this catch-up promotion. Requiring that context on the old `main`, where the workflow does not exist, would deadlock the promotion. The bootstrap sequence therefore enables main protection immediately after the approved promotion and successful deploy. Ignored local delivery configuration is not repository authority; tracked runbooks and branch protection are authoritative.
 - **Follow-up:** Merge the release-prep PR into `pre`, then human-approve the exact `pre` boundary for promotion to `main`. After Deploy FinWiki and representative-route checks pass, create tag and GitHub Release `v2026.07.28-9` against the same main merge SHA. Then configure `main` to require PRs and a current `Required verification`, enforce rules for admins, prohibit force pushes/deletion, and attach closeout evidence to Issues #184 and #188. Issue #193's binary `.opinions/**` policy choice remains a separate human decision.
-
-### 中文
-
-- **2026-07-28 23:48:51 JST / 背景:** Issue #188。公开 `main` 仍停留在 2026-07-01 snapshot `e89c0a588b2fb73357256ee9cd5f2681574fdb36`，而已验证的 `pre` 已前进 47 个 commits 至 `06399b4a1781bd21c420ccacf7b4e24f219778f5`。仓库中有 91 份 release note，但 Git tag 与 GitHub Release 各为 70 个；22 份 staging note、缺失的 `v2026.05.29` repository note，以及 2026-07-01 从 root CHANGELOG 移除的旧详细 timeline 都没有明确状态。
-- **范围:** 对账 release note / tag / GitHub Release 状态、建立旧 CHANGELOG timeline 的 immutable archive、准备 `pre → main` catch-up Release `v2026.07.28-9`、维护三语 README、本 CHANGELOG、release / deployment runbook、root homepage 与 AI / crawler discovery surface。不修改 wiki corpus facts、`.opinions/**` policy 或 truthfulness content queue。
-- **主要文件:** `releases/README.md`、`releases/v2026.05.29.md`、`releases/v2026.07.28-9.md`、`README.md`、本 CHANGELOG、`docs/08-operations/release-process.md`、`docs/08-operations/deployment-runbook.md`、`index.html` 与生成的 discovery files。
-- **执行步骤:** 按 basename 对账全部 note、tag 与 GitHub Release，并在一个三语台账中区分同名的已发布记录、明确不单独发布的 22 份工作单元 staging record，以及当前 catch-up Release。根据已有 public Release body 摘要恢复 `v2026.05.29` note。没有在仓库中复制 cutover 前 6,127 行 CHANGELOG，而是连接到 exact parent commit `528c39e81be2faf3e7d17c1197da9a5569985e51` 的[不可变 archive](https://github.com/jasonhnd/finwiki/blob/528c39e81be2faf3e7d17c1197da9a5569985e51/CHANGELOG.md)。把流程统一为 work branch → verified PR to `pre` → human-approved promotion PR to `main` → production deploy → same-SHA tag / GitHub Release，并禁止 direct `main` push。
-- **验证结果:** 初始对账确认 70 个 Git-tag version 与 70 个 GitHub-Release version 完全一致；tag / Release 独有的 version 只有 `v2026.05.29`，note 独有的 version 只有有意保留的 22 份 staging record。完整 `bun run verify --out _site` 以 82 tests / 272 assertions、Astro check 44 files / 0 errors / 0 warnings / 0 hints、Astro 2,969 pages、entry metadata 2,884 / issues 0、Pagefind 2,968 pages、assembly 6,258 Astro files + 3,076 raw public files、13 required routes、final HTML audit 5,864 routes、generated URL audit 6,040 unique URLs、production vulnerability 0 通过。release docs 为 19 files / 17 strict notes / 76 grandfathered notes；wiki audit 为 1,489 entries / issues 0 / canonical drift 0；generated-surface drift 确认 API 1,482 entries / fixed-timestamp byte identity / leakage 0。promotion 还要求 current HEAD 的 real pre-push 与 PR Required Verification / Dependency Audit / Vercel 全部为 green，并把 URL 保留为 Issue evidence。
-- **已知注意事项:** `Required verification` workflow 将通过本次 catch-up promotion 首次进入 `main`；如果提前在尚无该 workflow 的旧 `main` 上要求此 check，会造成 promotion deadlock。因此 bootstrap 顺序是在 approved promotion 与 successful deploy 后立即启用 main protection。ignored local delivery configuration 不作为 repository authority；tracked runbook 与 branch protection 才是权威。
-- **后续事项:** 将 release-prep PR merge 到 `pre`，再对 exact `pre` boundary 进行 human-approved promotion to `main`。Deploy FinWiki 与 representative routes 验证通过后，在同一个 main merge SHA 上创建 tag / GitHub Release `v2026.07.28-9`。随后为 `main` 设置 PR requirement、current `Required verification`、admin enforcement、禁止 force-push / deletion，并把 closeout evidence 写入 Issues #184 / #188。Issue #193 的 `.opinions/**` binary policy choice 仍单独等待 human decision。
 
 ## 2026-07-28 - Canonical-anchor contract and developer-doc entry reconciliation (#190)
 
@@ -960,16 +688,6 @@
 - **Known notes:** Tooling fail-closes mechanical drift on a declared field, while semantic mirror classification and anchor-to-mirror reverse links remain editorial responsibilities. This is a documentation-contract repair and does not reclassify existing entries' canonical designations or public facts.
 - **Follow-up:** Resynchronize history-aware release/discovery surfaces after the source commit, then confirm the real pre-push, remote HEAD, and PR checks. Attach closeout evidence to Issue #190 and wait for maintainer review without self-closing the issue. Do not change `main` or the GitHub Release before an approved promotion.
 
-### 中文
-
-- **2026-07-28 21:08:05 JST / 背景:** Issue #190。ADR-007 与 strict release gate 已经把 `canonical_anchor` 实现为必需契约，但 root proposal、schema、mirror policy、cross-domain convention 与 architecture docs 仍混用 proposal / optional / report-only 阶段的表述；同时有 11 份 active developer docs 无法从 `docs/README.md` 到达。
-- **范围:** `canonical_anchor` 的 root / architecture / authoring contract、mirror / cross-domain policy、historical decision record、root domain description、开发文档入口、三语 README、本 CHANGELOG、`releases/v2026.07.28-8.md`，以及 release generator 同步的公开 discovery surface。不修改 wiki entry 事实正文、`ja` / `en` mirror、domain map 或公开 URL。
-- **主要文件:** `SCHEMA.md`、`INDEX.md`、`frontmatter-canonical-anchor-field-proposal.md`、`entity-mirror-page-policy.md`、`cross-domain-anchor-convention.md`、`docs/04-architecture/{adr,canonical-anchor,content-model,system-architecture}.md`、`docs/README.md`、`README.md`、本 CHANGELOG 与 release note。
-- **执行步骤:** 统一所有 authority 的当前模型：只有真正的 mirror page 必须声明 `canonical_anchor`，anchor 与普通 related page 必须省略。把 declared target resolution、mirror core-body link 与 drift zero 的 release gate，和 semantic mirror classification、reverse link 的 editorial review 清晰分离。把实施前 proposal 改为 historical decision record，并将当前 authority 集中到 schema、ADR-007 与 entry-authoring checklist。将 JapanFG 拆分前遗留的当前示例替换为 role-specific institution domains，并把 11 份 active docs 加入唯一开发文档入口。
-- **验证结果:** `bun run docs:audit` 通过；`bun run docs:stale` 以 66 份 active docs / 16 checks、stale reference 0 通过；wiki link audit 为 1,489 entries / issues 0、12 canonical declarations / drift 0。完整 `bun run verify --out _site` 的全部 gate 均通过，包括 82 tests / 272 assertions、Astro check 44 files / 0 errors / 0 warnings / 0 hints、Astro 2,969 pages、entry metadata 2,884 / issues 0、final HTML audit 5,864 routes、generated URL audit 6,037 unique URLs 与 production vulnerability 0。generated-surface drift 确认 API 1,482 entries、fixed-timestamp byte identity 与 leakage 0；`git diff --check` 也通过。
-- **已知注意事项:** tooling 会对已声明 field 的机械 drift 执行 fail-close，但 semantic mirror classification 与 anchor 到 mirror 的 reverse link 仍是 editorial responsibility。本次是 documentation-contract repair，不重新分类既有 entry 的 canonical designation，也不修改公开事实。
-- **后续事项:** source commit 后重新同步 history-aware release/discovery surface，并确认 real pre-push、remote HEAD 与 PR checks；把 closeout evidence 写入 Issue #190，等待 maintainer review，不 self-close Issue。批准 promotion 前不修改 `main` 或 GitHub Release。
-
 ## 2026-07-28 - Shared translation corpus discovery repair (#182)
 
 ### 日本語
@@ -991,16 +709,6 @@
 - **Validation:** The focused suite passed 16 tests / 59 assertions. The parity test and `bun run i18n:status` both confirmed 1,442 source entries; ja/en each report 1,442 current, zero stale/orphaned/missing, and 1,442 `fidelity: ok`. `--force --dry-run` found 1,442 jobs without writes. A future-domain fixture was discovered without a directory-list edit, and the updated smoke targets generated 56 / 46 masks. Full `bun run verify --out _site` also passed with 82 tests / 272 assertions, Astro check across 44 files with 0 errors / 0 warnings / 0 hints, 2,969 Astro pages, 2,884 entry metadata pages with zero issues, 2,968 Pagefind pages, assembly of 6,258 Astro files plus 3,072 raw files, all 13 required routes, a final HTML audit across 5,864 routes, a generated URL audit across 6,036 unique URLs, and zero production vulnerabilities.
 - **Known notes:** This repairs the discovery denominator without calling an automatic-translation API or rewriting an existing mirror. Manifest-driven preparation safely ignores stale paths outside the canonical corpus.
 - **Follow-up:** Confirm the full canonical gate, real pre-push, remote HEAD, and PR checks; attach closeout evidence to Issue #182; and wait for maintainer review. Do not self-close.
-
-### 中文
-
-- **2026-07-28 20:53:53 JST / 背景:** Issue #182。translation command 仍使用 `site/scripts/corpus-roots.mjs` 中固定的 23 个目录列表；current corpus 已拆分为 40 个 domain，但它只能发现 784 条，而 canonical `i18n:status` denominator 是 1,442 条；两个 smoke target 也仍指向已删除的 `JapanFG` 路径。
-- **范围:** translation corpus discovery、direct / parallel / interactive prep walker、manifest-driven prep source allowlist、不写文件的 prep dry-run、smoke target、聚焦 regression test、三语 README、本 CHANGELOG、`releases/v2026.07.28-7.md`，以及 release generator 同步的公开 surface。不修改 source entry 或已提交的 `ja` / `en` mirror。
-- **主要文件:** `site/scripts/corpus-roots.mjs`、`translate.mjs`、`prep-parallel.mjs`、`prep-translate.mjs`、`prep-c2b.mjs`、`emit-masked.mjs`、`corpus-roots.test.mjs`、`README.md`、本 CHANGELOG 与 release note。
-- **执行步骤:** 删除固定 `ENTRY_DOMAIN_DIRS`，统一使用 repository canonical `iterMarkdownFiles()` / `isPublicPage()` 支持的异步 walker 自动发现公开 domain entry。所有 discovery command 使用同一 walker，manifest source 也被限制在同一集合中。`prep-translate.mjs --force --dry-run` 只报告目标数，不写 job file。smoke target 更新为 `trust-banks/custody-bank.md` 与 `regional-banks/yucho.md`。
-- **验证结果:** 聚焦 suite 以 16 tests / 59 assertions 通过。parity test 与 `bun run i18n:status` 都确认 1,442 个 source entry；ja / en 各为 current 1,442、stale / orphaned / missing 0、fidelity ok 1,442。`--force --dry-run` 在不写文件的情况下发现 1,442 个 job。future-domain fixture 无需修改目录列表即可被发现，更新后的 smoke target 分别生成 56 / 46 个 masks。完整 `bun run verify --out _site` 也以 82 tests / 272 assertions、Astro check 44 files / 0 errors / 0 warnings / 0 hints、Astro 2,969 pages、entry metadata 2,884 / issues 0、Pagefind 2,968 pages、assembly 6,258 Astro files + 3,072 raw files、13 个 required routes、final HTML audit 5,864 routes、generated URL audit 6,036 unique URLs、production vulnerability 0 通过。
-- **已知注意事项:** 本次只修复 discovery denominator，不调用自动翻译 API，也不改写任何既有 mirror。manifest-driven prep 会安全忽略 canonical corpus 之外的 stale path。
-- **后续事项:** 确认 full canonical gate、real pre-push、remote HEAD 与 PR checks，把 closeout evidence 写入 Issue #182，并等待 maintainer review；不 self-close。
 
 ## 2026-07-28 - Astro check residual hint cleanup (#198)
 
@@ -1024,16 +732,6 @@
 - **Known notes:** `@types/node` is a development-only type surface and does not change the runtime bundle. `z.looseObject` preserves the previous passthrough behavior; the full corpus/mirror build confirmed that compatibility.
 - **Follow-up:** Confirm the real pre-push, remote HEAD, and PR checks. Attach closeout evidence to Issue #198, wait for maintainer review, and do not self-merge or self-close.
 
-### 中文
-
-- **2026-07-28 15:21:09 JST / 背景:** Issue #198。#185 引入真实 Astro typecheck 后，check 已经为 green，但仍留下 5 个 hints：1 个 Node global `process` 类型缺失、2 个 deprecated Zod `.passthrough()`、2 个未使用 helper。
-- **范围:** `site/package.json` / `site/bun.lock`、`site/scripts/translate.mjs`、`site/src/content.config.ts`、wikilink / responsive-table plugin、本 CHANGELOG、`releases/v2026.07.28-6.md`，以及 release generator 同步的公开 surface。不修改 wiki entry、`ja` / `en` mirror、translation algorithm 或 table / wikilink runtime behavior。
-- **主要文件:** `site/package.json`、`site/bun.lock`、`site/scripts/translate.mjs`、`site/src/content.config.ts`、`site/src/plugins/localize-wikilinks.mjs`、`site/src/plugins/satteri-responsive-tables.mjs`、本 CHANGELOG 与 release note。
-- **执行步骤:** 增加 exact dev dependency `@types/node@26.1.2` 与 file-level Node type reference；将两个 collection schema 的 deprecated chain 替换为等价的 `z.looseObject(...)`，继续保留 unknown frontmatter key；只删除没有任何引用的 `kanaCount` 与 HAST `hasMeaningfulFirstColumn` helper。
-- **验证结果:** 完整 canonical gate `bun run verify --out _site` 已通过。frozen install 以 276 installs / 377 packages 无变化复现，site production audit 为 vulnerability 0。Astro check 为 39 files / 0 errors / 0 warnings / 0 hints；root test 为 50 tests / 174 assertions；Astro build 为 2,969 pages / duplicate ID 0；Pagefind 为 2,968 pages；assembly 为 6,258 Astro files + 3,065 raw files；13 个 required routes 全部通过；assembled route audit 以 6,029 unique internal URLs 通过。strict release check、generated-surface drift 与 `git diff --check` 也通过。release-inclusive snapshot 为 Markdown 1,579、public pages 1,578、sitemap URLs 1,482、domains 40、audited entries 1,489。
-- **已知注意事项:** `@types/node` 仅为开发期 type surface，不修改 runtime bundle。`z.looseObject` 保持原 passthrough behavior；对全部 corpus / mirror 的 build 已验证该兼容性。
-- **后续事项:** 确认真实 pre-push、remote HEAD 与 PR checks。将 closeout evidence 附到 Issue #198，等待 maintainer review，不 self-merge / self-close。
-
 ## 2026-07-28 - Scheduled truthfulness history and aggregation repair (#191)
 
 ### 日本語
@@ -1055,16 +753,6 @@
 - **Validation:** The focused suite passed with 8 tests / 21 assertions. The fixture reproduced 49 → 415 → 417 and +366 / +2 with growth `tripped`; negative/reset and insufficient-history cases also passed. Historical `audit:all --as-of 2026-07-14` completed against the real repository at current actionable 416, trend 49 → 415 → 416, growth `tripped`, and eight repeated groups. The current 2.6 MiB provenance JSON and a synthetic 120,000-row payload parsed without truncation, and the workflow YAML parser passed. Full `bun run verify --out _site` against the post-source-commit release regeneration passed with 58 tests / 195 assertions, Astro check across 39 files with 0 errors / 0 warnings / 5 hints, 2,969 Astro pages, zero duplicate IDs, 2,968 Pagefind pages, 6,258 Astro files plus 3,065 raw files in the assembled artifact, all 13 required routes, 6,029 unique internal URLs, and zero production vulnerabilities. The release-inclusive snapshot contains 1,579 Markdown files, 1,578 public pages, 1,482 sitemap URLs, 40 domains, and 1,489 audited entries.
 - **Known notes:** Live scheduled artifacts on 2026-07-20 and 2026-07-27 grew to 433 and 458 after the issue-time fixture. The fixture locks the accepted observed 49 → 415 → 417 regression contract, while production uses the latest two successful scheduled artifacts on each run. Thresholds remain advisory with no automatic issue, edit, or hard failure.
 - **Follow-up:** Confirm the real pre-push, push, remote HEAD, and PR checks. Attach closeout evidence to Issue #191, wait for maintainer review, and do not self-merge or self-close.
-
-### 中文
-
-- **2026-07-28 15:02:38 JST / 背景:** Issue #191。weekly truthfulness workflow 每次都固定输出 `fact_freshness_queue_growth=monitor` 与 `no historical artifact`，没有读取已经成功的 scheduled artifacts。真实 artifact 从 2026-07-06 起已经形成 49 → 415 → 433 → 458 actionable rows，但 two-cycle growth threshold 从未被计算。factual consistency 的 repeated group 只检查 top-level `row.path`，因此即使真实 row 的 `left.path` 与 `right.path` 来自不同 source，结果仍为 0。current provenance JSON 也增长到约 2.6 MiB，而 Bun 1.3.14 synchronous pipe 在 768 KiB 截断 stdout，使 `audit:all` 在解析半截 JSON 时失败。
-- **范围:** `tools/audit_runner.ts`、focused tests、49 → 415 → 417 historical summary fixtures、`.github/workflows/truthfulness-audit.yml`、NFR / RTM / recurring cadence / toolchain / test plan / truthfulness runbook 文档、三语 README、本 CHANGELOG、`releases/v2026.07.28-5.md`，以及 release generator 同步的公开 surface。不修改 wiki entry、translation mirror、audit detection heuristic 或 release hard gate。
-- **主要文件:** `tools/audit_runner.ts`、`tools/audit_runner.test.ts`、`tools/fixtures/audit-history/**`、`.github/workflows/truthfulness-audit.yml`、`docs/03-requirements/nfr.md`、`rtm.md`、`docs/04-architecture/recurring-audit-cadence.md`、`docs/06-implementation/toolchain.md`、`docs/07-quality/test-plan.md`、`docs/08-operations/truthfulness-audit-runbook.md`、`README.md`、本 CHANGELOG 与 release note。
-- **执行步骤:** 新增 `--history-dir`，递归读取 prior summary，按日期去重与排序，在 summary trend 中只保留 current run 之前最近两个 point 和 current count。连续两个 delta 都为正时，growth 变为 advisory `tripped`；history 不足时保持 `monitor`；第二次不增长时为 `not_tripped`。repeated group 现在聚合 row / left / right 的 unique paths。workflow 以 read-only `actions: read` 把最近两次成功 scheduled artifact 下载到 `$RUNNER_TEMP`。child audit stdout 写入 private temporary file，完整读取并 cleanup，绕过 pipe cap。summary schema 只增加 bounded dates/counts，不增加 local path。
-- **验证结果:** focused suite 以 8 tests / 21 assertions 通过。fixture 复现 49 → 415 → 417 与 +366 / +2 并得到 growth `tripped`；negative/reset 与 history 不足 case 也通过。real repository 的 historical `audit:all --as-of 2026-07-14` 以 current actionable 416、trend 49 → 415 → 416、growth `tripped` 与 8 个 repeated groups 完成。current 2.6 MiB provenance JSON 与 synthetic 120,000-row payload 均未截断并成功解析，workflow YAML parser 通过。针对 post-source-commit release regeneration 的完整 `bun run verify --out _site` 以 58 tests / 195 assertions、Astro check 39 files / 0 errors / 0 warnings / 5 hints、Astro 2,969 pages、duplicate ID 0、Pagefind 2,968 pages、assembly 6,258 个 Astro files + 3,065 个 raw files、13 个 required routes、6,029 个 unique internal URLs、production vulnerability 0 全部通过。release-inclusive snapshot 包含 Markdown 1,579、public pages 1,578、sitemap URLs 1,482、domains 40、audited entries 1,489。
-- **已知注意事项:** 2026-07-20 与 2026-07-27 的 live scheduled artifacts 在 issue-time fixture 后增长到 433 与 458。fixture 固定 acceptance 的 observed 49 → 415 → 417 regression contract，production 则在每次运行时使用最近两个 successful scheduled artifacts。threshold 继续保持 advisory，不自动创建 issue、修改内容或产生 hard failure。
-- **后续事项:** 确认真实 pre-push、push、remote HEAD 与 PR checks。将 closeout evidence 附到 Issue #191，等待 maintainer review，不 self-merge / self-close。
 
 ## 2026-07-28 - Current JST review-overdue boundary (#194)
 
@@ -1088,16 +776,6 @@
 - **Known notes:** The overdue state is calculated from the static build's JST date and advances on each rebuild. An already deployed static artifact remains unchanged until the next build. The five Astro hints remain the existing Issue #198 scope.
 - **Next steps:** After the source commit, resynchronize history-aware discovery dates and pass the real pre-push. Then open a PR into `pre` and attach CI/preview evidence to Issue #194. Do not change `main` or the GitHub Release before an approved promotion.
 
-### 中文
-
-- **2026-07-28 14:25:07 JST / 背景:** Issue #194。entry evidence strip 直接把 `review_by` 与 `2026-06-02` 比较，因此随着 repository 与 deployment 老化，overdue boundary 也不会前进，可能与实际 build 日期矛盾。
-- **范围:** entry layout 的 overdue 判断、shared JST date helper、聚焦日期边界测试、本 CHANGELOG 与 `releases/v2026.07.28-3.md`。不修改 wiki entry 事实正文、frontmatter、`ja` / `en` translation mirror 或 domain map。
-- **主要文件:** `site/src/layouts/EntryLayout.astro`、`site/src/lib/reviewDate.ts`、`tools/review_date.test.ts`、`CHANGELOG.md` 与 `releases/v2026.07.28-3.md`。
-- **执行步骤:** 新增 pure helper，使用带明确 `Asia/Tokyo` time zone 的 `Intl.DateTimeFormat` 生成 static build 当天的 `YYYY-MM-DD`。只有 `review_by` 早于今天时才视为逾期；今天、未来、缺失与无效值均不显示 warning。通过 unit tests 固定 UTC 14:59:59 / 15:00:00 的 JST 日历跨日边界和昨天 / 今天 / 明天的判断，并从 `EntryLayout.astro` 删除 hard-coded date。
-- **验证结果:** 聚焦 review-date suite 的 4 tests / 10 assertions 全部通过。full canonical `bun run verify --out _site` 的全部 gate 均通过，包括 54 tests / 184 assertions、Astro check 40 files / 0 errors / 0 warnings / 5 个既有 hints、Astro 2,969 pages、duplicate HTML id 0、Pagefind 2,968 pages、assembly 6,258 个 Astro files + 3,065 个 raw files、13 个 required routes、6,029 个 generated internal URLs 与 production vulnerabilities 0；`git diff --check` 也通过。
-- **已知注意事项:** overdue state 按 static build 时的 JST 日期计算，并会在每次重新构建时前进；已经部署的 static artifact 本身要到下一次 build 才会变化。5 个 Astro hints 仍属于 Issue #198 的既有范围。
-- **后续事项:** source commit 后重新同步 history-aware discovery dates，并通过 real pre-push；随后创建目标为 `pre` 的 PR，把 CI / preview evidence 回填 Issue #194。批准 promotion 前不修改 `main` 或 GitHub Release。
-
 ## 2026-07-28 - Entry HTML metadata and route-level language alternates (#180)
 
 ### 日本語
@@ -1119,16 +797,6 @@
 - **Regression protection:** `html:metadata` enumerates 1,442 entry routes from the API index and audits their 2,884 built `ja` / `en` pages. It fails closed on any missing or inconsistent canonical, hreflang, resource alternate, frontmatter meta, Article URL/language/headline/main entity, keywords/aliases/citations, or additional-property contract, and now runs as a post-build canonical-verification gate.
 - **Validation:** The full canonical `bun run verify --out _site` gate passed with 56 tests / 190 assertions, Astro check across 40 files with 0 errors / 0 warnings / 5 hints, zero dependency vulnerabilities, 2,969 Astro pages, 2,884 entry-metadata pages with zero issues, zero duplicate IDs, 2,968 Pagefind pages, assembly of 6,258 Astro files plus 3,065 raw files, and all 13 required routes. The generated-route audit resolved all 6,029 unique internal URLs, and every release-doc, strict-release, docs, surface-drift, i18n (1,442 current mirrors per language), index-count, wiki-link, and `git diff --check` gate passed.
 - **Known notes / Follow-up:** Source/release/discovery synchronization and full canonical verification are complete. The real pre-push hook, commit, push, remote verification, PR/CI, and Vercel are not yet complete. Record passing evidence on Issue #180 and its PR into `pre`, then wait for maintainer review. Do not self-merge or self-close; publish `main` and create the GitHub Release only during an approved promotion.
-
-### 中文
-
-- **2026-07-28 14:10:58 JST / 背景:** Issue #180。`llms.txt` 告知使用方每个 entry HTML head 都包含 schema.org `Article` JSON-LD、来自 frontmatter 的 `finwiki:*` metadata，以及 per-entry JSON API / raw Markdown alternate，但共享 rendered layout 实际上没有输出这些内容；`ja` / `en` hreflang 还错误指向语言首页，而不是当前 entry route，导致 machine surface 说明与 rendered HTML 不一致。
-- **范围:** entry metadata helper、共享 base / entry layout、保持路由的 canonical / hreflang、API / Markdown resource alternate、构建后的全量 entry metadata audit、canonical verification wiring、聚焦测试、三语 README、本 CHANGELOG 与 `releases/v2026.07.28-2.md`。不修改 wiki entry 事实正文、`ja` / `en` mirror 正文、domain map 或公开信息判断。
-- **主要文件:** `site/src/lib/entryHead.ts`、`site/src/layouts/Base.astro`、`site/src/layouts/EntryLayout.astro`、`tools/entry_metadata_audit.ts`、`tools/entry_head.test.ts`、`tools/entry_metadata_audit.test.ts`、`tools/verify.ts` 与 test、`package.json`、`README.md`、`CHANGELOG.md`、`releases/v2026.07.28-2.md`。
-- **执行步骤:** 实现 shared contract，无损规范化 source frontmatter 的 scalar、list 与 structured value，并为每个 localized entry route 生成 self-canonical、相同 domain / slug 的 `ja` / `en` alternate、指向日文 route 的 `x-default`、API JSON、raw Markdown、Article JSON-LD 与 8 类 `finwiki:*` meta。JSON-LD 会安全序列化 markup-sensitive content，meta attribute 则保持 Astro 的正确 escaping。
-- **回归保护:** `html:metadata` 从 API index 枚举 1,442 个 entry route，审计其 2,884 个 `ja` / `en` built pages。canonical、hreflang、resource alternate、frontmatter meta、Article URL / language / headline / main entity、keywords / aliases / citations、additionalProperty consistency 任一缺失或不一致都会 fail closed；该检查已接入 canonical verification 的 build 后 gate。
-- **验证结果:** `bun run verify --out _site` full canonical gate 以 56 tests / 190 assertions、Astro check 40 files / 0 errors / 0 warnings / 5 hints、dependency vulnerabilities 0、Astro 2,969 pages、entry metadata 2,884 pages / issues 0、duplicate ID 0、Pagefind 2,968 pages、assembly 6,258 个 Astro files + 3,065 个 raw files、13 个 required routes 全部通过。generated route audit 也确认 6,029 个 unique internal URLs 全部可解析；release docs、strict release、docs、surface drift、i18n 每种语言 1,442 个 current mirrors、index count、wiki link、`git diff --check` 等全部 gate 均 PASS。
-- **已知注意事项 / 后续:** source / release / discovery surface 同步与 full canonical verification 已完成。真实 pre-push、commit、push、remote verification、PR / CI / Vercel 尚未完成。通过证据将记录到 Issue #180 和目标为 `pre` 的 PR，并等待 maintainer review。不得 self-merge / self-close；`main` publish 与 GitHub Release 只在已批准 promotion 时执行。
 
 ## 2026-07-28 - Final HTML internal-route crawl and broken-link repair (#183)
 
@@ -1152,16 +820,6 @@
 - **Known notes:** Local implementation and full canonical validation are complete, but commit, push, remote-branch verification, and PR/CI were still pending when this record was written. `main`, production deployment, and the GitHub Release remain unchanged.
 - **Follow-up:** Resynchronize history-aware discovery dates after the source commit. Push the branch through the real pre-push gate, open a PR into `pre`, attach commit/gate/PR evidence to Issue #183, and wait for maintainer review.
 
-### 中文
-
-- **2026-07-28 13:50:03 JST / 背景:** Issue #183。既有 required-route smoke 与 generated AI route audit 会检查已知 route 和 structured metadata，但没有覆盖最终 assembled HTML 中实际渲染的全部 `href`。对真实 artifact 的 baseline crawl 发现 19 个 broken href，包括不存在的 JapanFG domain route、raw Markdown 相对路径，以及紧跟在 wikilink 后被 CommonMark 解释成 link destination 的注记。
-- **范围:** final HTML route auditor 与 negative fixture、canonical verification wiring、共享 assembled-route filesystem check、root editorial route、7 个 public wiki source 的 link syntax、对应日文 / 英文 mirror 与 source hash、额外的 mirror-only rendering repair、wiki audit root-domain normalization、README、release / toolchain / quality / deployment docs、本 CHANGELOG、`releases/v2026.07.28-1.md`、根首页与 AI / crawler discovery surface。不修改 public facts、domain map 或 `docs/` corpus exclusion。
-- **主要文件:** `tools/html_route_audit.ts` 及其 test、`tools/txt_route_audit.ts`、`tools/wiki_link_audit.ts`、`tools/verify.ts` 及其 test、`package.json`、`site/src/i18n/ui.ts`、相关 entry / mirror、`README.md`、相关 `docs/` 与 `releases/v2026.07.28-1.md`。
-- **执行步骤:** 新增基于 Bun `HTMLRewriter` 的 gate，以 source HTML 的 public URL 为基准解析 final artifact 的全部 `[href]`。同一 origin 的 HTTP(S) target 去除 query / fragment 后，通过共享 checker 检查 exact case、output boundary、non-symlink、non-empty regular file。diagnostic 会输出 source file、tag、original href、resolved URL 与 failure reason。将 JapanFG card 指向现有 `/ja/domains/megabanks/`，把 Binance Japan raw path 改成 wikilink，并在相邻 wikilink / provenance marker 与说明括号之间加入空格，避免 CommonMark 再把注记解析为 link destination。对没有 frontmatter domain 的 root entry 使用稳定的 `root` 分类，避免 generated wiki audit report 把 local worktree basename 当作 domain 发布。
-- **验证结果:** focused suite 的 19 tests / 71 assertions 全部 PASS。full canonical `bun run verify` 也通过 Bun 1.3.14 / frozen lockfile、release / docs / exact regeneration、strict i18n（ja / en 各 1,442 个 current、missing / stale 均为 0、fidelity PASS）、wiki audit（1,489 entries / issues 0）、production vulnerability 0、Astro check（39 files、0 errors、0 warnings、5 hints）、全部 53 tests / 187 assertions、Astro 2,969 pages、duplicate ID 0、Pagefind 2,968 pages与 13 个 required routes。`_vercel_public` assembly 包含 6,258 个 Astro files + 3,065 个 approved raw files；final HTML route audit 检查 2,969 个 HTML、271,490 个 href、264,263 个 internal href 与 2,980 个 unique route，broken href 为 0 / PASS；generated route audit 也以 6,029 个 unique internal URLs 通过。`git diff --check` 已 PASS。
-- **已知注意事项:** local implementation 与 full canonical validation 已完成，但 commit、push、remote branch verification、PR / CI 在本记录写入时仍未完成。`main`、production deployment 与 GitHub Release 均不变。
-- **后续事项:** source commit 后再次同步 history-aware discovery date。push branch 并通过真实 pre-push gate，创建目标为 `pre` 的 PR，把 commit / gate / PR evidence 写入 Issue #183，并等待 maintainer review。
-
 ## 2026-07-28 - Active development document and metadata drift repair (#189)
 
 ### 日本語
@@ -1184,15 +842,6 @@
 - **Known notes:** Active docs no longer handwrite current values, while dated design and release history retain the values from their evidence period. GitHub Releases are created or updated only when publishing `main`, not from this `pre` branch.
 - **Follow-up:** Commit the final release surfaces, then confirm the real pre-push, remote HEAD, and PR checks. Attach closeout evidence to Issue #189, wait for maintainer review, and do not self-merge or self-close.
 
-### 中文
-
-- **2026-07-28 14:45:37 JST / 背景:** Issue #189。active backlog、roadmap、implementation plan 与 quality audit 仍把已完成 issue 作为 future/open work，手写 corpus 与 entry snapshot 也已经偏离生成的公开 surface。release guidance 仍保留过时的 filesystem-mtime restoration，且 `package.json` 声明 `ISC`，与仓库 Apache 2.0 `LICENSE` 不一致。既有 `docs:stale` 能发现旧 path 与 toolchain fact，但不能发现 issue-state、current metric、mtime 或 license drift。
-- **范围:** `docs/00-governance`、`docs/01-strategy`、`docs/02-product`、相关 `docs/04-architecture` 与 `docs/07-quality` 文件、根 `INDEX.md`、三语 `README.md`、`package.json`、`tools/active_doc_stale_scan.ts` 及 focused test、本 CHANGELOG、`releases/v2026.07.28-4.md`，以及 release generator 同步的公开 surface。不修改 wiki entry 事实正文、`site/src/content/i18n/{ja,en}/**` 或 domain map。
-- **主要文件:** `docs/01-strategy/backlog.md`、`roadmap.md`、`next-development-plan.md`、`docs/02-product/domains.md`、`docs/04-architecture/system-architecture.md`、`astro-5-to-7-upgrade-plan.md`、`docs/07-quality/code-doc-alignment-audit.md`、`documentation-drift-audit.md`、`INDEX.md`、`README.md`、`package.json`、`tools/active_doc_stale_scan.ts`、`tools/active_doc_stale_scan.test.ts`、本 CHANGELOG 与 release note。
-- **执行步骤:** 将 GitHub Issues 设为 live scope、state、dependency 与 ordering 的唯一真相源，从 active docs 删除复制的带编号 current queue。已交付 plan 明确标记为 historical implementation record。易漂移的 aggregate 与 per-domain count 委托给 `ai-index.json`、根 Domain Map、strict release、wikilink audit 与 `index:counts`。mtime guidance 统一为 full Git history、committed discovery fallback、source commit 后生成、mtime 只作最后 fallback。license metadata 改为 Apache-2.0；stale scanner 暴露 fixture-root API，并新增 issue-state、metric、plan-status、mtime 与 license checks。只有两行带日期的 Issue #28 evidence 使用带理由、pattern-specific 的窄 allowlist。
-- **验证结果:** focused suite 以 3 tests / 3 assertions 通过。`bun run docs:stale` 以 66 active docs / 16 checks 通过；`bun run docs:audit`、drift 为 0 的 `bun run index:counts` 与 `git diff --check` 也全部通过。`bun run verify --out _site` 以 53 tests / 177 assertions、Astro check 39 files / 0 errors / 0 warnings / 5 hints、Astro 2,969 pages、duplicate ID 0、Pagefind 2,968 pages、assembly 6,258 个 Astro files + 3,065 个 raw files、13 个 required routes、6,029 个 unique internal URLs、production dependency vulnerability 0 通过。
-- **已知注意事项:** active docs 不再手写当前值，但 dated design 与 release history 仍保留其 evidence 时点的数值。GitHub Release 只在发布 `main` 时创建或更新，本 `pre` branch 不创建。
-- **后续事项:** 提交最终 release surface，再确认真实 pre-push、remote HEAD 与 PR checks。将 closeout evidence 附到 Issue #189，等待 maintainer review，不 self-merge / self-close。
 ## 2026-07-28 - Ordered translation protection and failed-output quarantine (#181)
 
 ### 日本語
@@ -1215,15 +864,6 @@
 - **Known notes:** The review queue is a local ignored operator artifact and cannot enter the corpus, AI discovery, API, site, or publish artifact. The committed mirrors currently contain zero `needs_review` rows, so this change produces no public body-content difference. The five Astro hints remain the existing scope of Issue #198.
 - **Follow-up:** Pass release-document auditing and the full canonical `bun run verify`, then record commit/push/PR/CI evidence on Issue #181. Merge into `pre`, close the issue, promote `main`, and create a GitHub Release only after maintainer review.
 
-### 中文
-
-- **2026-07-28 13:31:14 JST / 背景:** Issue #181。翻译保护的 `verify()` 会先排序 placeholder 再比较，因此只要 placeholder 集合相同，即使受保护事实被换序也会通过。direct / staged translation pipeline 在验证失败后仍会写入 `fidelity: needs_review` 的正式 mirror，而 Astro site 只显示 badge，仍把该正文与 title 用于普通页面、列表、计数和 localized wikilink。
-- **范围:** placeholder 与 Markdown URL masking、包含顺序的 verification diagnostics、direct / staged translation atomic commit boundary、ignored local review queue、正式 mirror publishability filter、localized title lookup、entry / browse / domain / home rendering guard、聚焦 regression tests、本 CHANGELOG 与 `releases/v2026.07.28.md`。不修改现有 source corpus 或 `site/src/content/i18n/{ja,en}/` mirror 正文。
-- **主要文件:** `site/scripts/protect.mjs`、`site/scripts/translation-output.mjs`、`site/scripts/translate.mjs`、`site/scripts/commit-translate.mjs`、`site/scripts/protect.test.mjs`、`site/src/lib/translations.ts`、`site/src/lib/siteIndex.mjs`、`site/src/layouts/EntryLayout.astro`、`site/src/pages/**`、`CHANGELOG.md` 与 `releases/v2026.07.28.md`。
-- **执行步骤:** 按出现顺序完整比较 placeholder sequence，分别诊断 reorder、duplicate、missing 与 unknown token。除 wikilink 外，同时 mask inline / reference / autolink / bare Markdown URL，确保包含数字的完整 URL 在 unmask 前都受保护。验证失败时绝不修改已有正式 mirror，而是把 masked source、candidate、verification metadata 与 mask values 隔离到 Git ignored 的 `site/.cache/translation-review/`。direct pipeline 的 title / body 作为一个 atomic mirror update。site loader、title index 与 translation count 只接受 `fidelity: ok`，layout 另设 fail-closed guard。
-- **验证结果:** `bun test site/scripts/protect.test.mjs` 的 12 tests / 47 assertions 全部通过，覆盖 reorder、duplicate、missing、unknown、Markdown URL、已有 mirror 不覆盖、review artifact 与 publishability 的负向场景。root `bun test` 以 54 tests / 197 assertions 通过。`cd site && bun run check` 为 41 files / 0 errors / 0 warnings / 5 个既有 hints；`bun run i18n:status` 显示 ja / en 各 1,442 个 current、stale / orphaned / missing 0、fidelity ok 1,442；`cd site && bun run build` 以 2,969 pages 通过。
-- **已知注意事项:** review queue 是供 operator 审查的 local ignored artifact，不会进入 corpus、AI discovery、API、site 或 publish artifact。当前 committed mirror 中 `needs_review` 为 0，因此不会产生公开正文差异。Astro check 的 5 个 hints 仍属于 Issue #198 的既有范围。
-- **后续事项:** 通过 release-document audit 与 full canonical `bun run verify`，然后把 commit / push / PR / CI evidence 记录到 Issue #181。合并 `pre`、关闭 Issue、提升 `main` 与创建 GitHub Release 均须在 maintainer review 后执行。
 ## 2026-07-27 - AI discovery route and deployed-URL repair (#179)
 
 ### 日本語
@@ -1245,16 +885,6 @@
 - **Validation:** The focused suite passed 24 tests / 102 assertions. The full canonical `bun run verify --out _site` gate also passed with 50 tests / 174 assertions, Astro check across 39 files with 0 errors / 0 warnings / 5 hints, 2,969 Astro pages, zero duplicate IDs, 2,968 Pagefind pages, assembly of 6,258 Astro files plus 3,064 raw files, and all 13 required routes. The assembled route audit passed across 6,028 unique internal URLs, the generated-surface drift scan proved the committed surfaces and one fixed-timestamp clean regeneration byte-identical including `last_modified`, and the strict release check passed. The release-inclusive snapshot contains 1,578 Markdown files, 1,577 public pages, 1,482 sitemap URLs, 40 domains, 1,489 audited entries, 10,613,259 non-space characters, and approximately 1,703,143 word-like tokens.
 - **Known notes:** Release generation, README/index/discovery synchronization, and the full canonical gate are complete. Commit, push, remote verification, PR/CI, Vercel deployment, and the GitHub Release have not yet been performed or confirmed.
 - **Follow-up:** Regenerate discovery dates after the source commit and include the diff in the amend. Then confirm push, remote HEAD, and CI/deployment status before recording final Issue #179 evidence. Publish `main` and create the GitHub Release only during an approved promotion after dependency review.
-
-### 中文
-
-- **2026-07-27 18:26:55 JST / 背景:** Issue #179。部分 AI discovery surface 从 Markdown source path 生成了无扩展名 URL，但实际发布形式是日文 / 英文 localized HTML route、显式 `.md` raw file 或 GitHub fallback；只检查 source 无法发现部署后的 404 或错误 canonical / alternate URL。`last_modified` 原本已经以 git history 为第一来源，但 shallow / history-less builder 缺少稳定 fallback，可能过早使用 filesystem mtime，导致相同输入与 timestamp 的重复生成出现 byte drift。
-- **范围:** shared Markdown route resolution、AI discovery generator、API `external_links` normalization、针对最终 assembled artifact 的 TXT / structured route audit、generated-surface drift scan、output comparator、canonical verification wiring、full-history workflow checkout、聚焦 route tests、三语 README 长期规则、本 CHANGELOG 与 `releases/v2026.07.27-6.md`。不修改 wiki entry 事实正文、`ja` / `en` mirror 正文或 domain map。
-- **主要文件:** `.github/workflows/deploy.yml`、`.github/workflows/required-verification.yml`、`lib/markdown_helpers.ts`、`tools/generate_ai_discovery.ts`、`tools/txt_route_audit.ts`、`tools/generated_surface_drift_scan.ts`、`tools/compare_ai_discovery_outputs.ts`、`tools/verify.ts`、`tools/discovery_routes.test.ts`、`README.md`、`CHANGELOG.md` 与 `releases/v2026.07.27-6.md`。
-- **执行步骤:** 实现 shared contract：日文 HTML canonical 解析为 `/ja/{route}/`，英文 alternate 解析为 `/en/{route}/`，已发布 raw Markdown 使用显式 `.md` URL，无法进入 static artifact 的 source fallback 到 GitHub URL。让 sitemap、API 与 AI index 对齐实际部署 URL，并把 API `external_links` 统一为 absolute HTTP(S)。针对最终 assembled output 审计 TXT、sitemap、AI index、API index 与全部 API entry 中声明的 internal route URL，wrong-origin 必须 fail closed。workflow checkout 获取 full history；shallow / history-less builder fallback 到 committed discovery date，最后才使用 mtime。exact drift gate 将 committed generated surface 与使用其 fixed timestamp 的一次 clean regeneration 进行比较。Git query 与 shallow-clone fixture 会清除继承的 `GIT_*` repository context，fixture 在 suite 结束后统一清理，避免 pre-push 或并行测试访问、删除其他 repository。
-- **验证结果:** focused suite 的 24 tests / 102 assertions 全部 PASS。`bun run verify --out _site` full canonical gate 也以 50 tests / 174 assertions、Astro check 39 files / 0 errors / 0 warnings / 5 hints、Astro 2,969 pages、duplicate ID 0、Pagefind 2,968 pages、assembly 6,258 个 Astro files + 3,064 个 raw files、13 个 required routes 全部通过。assembled route audit 检查 6,028 个 unique internal URLs 后 PASS；generated-surface drift scan 证明 committed surface 与一次 fixed-timestamp clean regeneration 在包含 `last_modified` 时仍 byte-identical；strict release check 也已 PASS。release-inclusive snapshot 包含 Markdown 1,578、public pages 1,577、sitemap URLs 1,482、domains 40、audited entries 1,489、10,613,259 个 non-space characters 与约 1,703,143 个 word-like tokens。
-- **已知注意事项:** release generator、README / index / discovery surface 同步和 full canonical gate 已经完成。commit、push、remote verification、PR / CI、Vercel deployment 与 GitHub Release 尚未执行或确认。
-- **后续事项:** source commit 后重新生成 discovery date，并把差异纳入 amend；随后确认 push、remote HEAD 与 CI / deployment status，再把最终 evidence 记录到 Issue #179。`main` publish 与 GitHub Release 只在 dependency review 后的已批准 promotion 阶段执行。
 
 ## 2026-07-27 - Truthfulness audit artifact isolation (#178)
 
@@ -1278,16 +908,6 @@
 - **Known notes:** Truthfulness thresholds remain advisory and are not promoted into the hard release gate. CLI stdout still prints the real output directory so a local operator can find it, but uploaded `summary.json` / `summary.md` do not retain that path. This branch is stacked after #184, #185, #186, and #177, so no duplicate PR will be opened until prerequisites enter `pre`.
 - **Next steps:** Finish canonical verification and the real pre-push, then record branch/evidence on Issue #178. After dependency merges, replay onto current `pre` and wait for fresh PR review/CI. Do not self-merge/self-close; publish `main` and the GitHub Release only during an approved promotion.
 
-### 中文
-
-- **2026-07-27 17:46:49 JST / 背景:** Issue #178。scheduled truthfulness workflow 会在仓库根的 `audit-artifacts/` 生成 `summary.md`，但该目录未加入 gitignore、shared Markdown walker 或独立 wiki-link walker。实际执行 `bun run audit:all --out audit-artifacts` 后，strict release link audit 从正常的 1,489 entries / issues 0 变成 1,490 entries / issues 1 并失败；`summary.json` 还记录了 repository root 与 artifact directory 的绝对路径，`summary.md` 也记录了 artifact directory 的绝对路径。
-- **范围:** audit runner 的 default / explicit output boundary、shareable summary schema、GitHub Actions temporary output、shared corpus 与 wiki-link exclusion、release JSON scan、generated-surface private-path scan、static publisher boundary、聚焦 integration tests、README、NFR / RTM / FSD / toolchain / quality / operations docs、本 CHANGELOG、三语 release note、根首页与 AI / crawler discovery surface。不改变 audit threshold policy 或 wiki entry 事实正文。
-- **主要文件:** `tools/audit_runner.ts`、`tools/audit_artifact_isolation.test.ts`、`lib/markdown_helpers.ts`、`tools/wiki_link_audit.ts`、`tools/generated_surface_drift_scan.ts`、`tools/assemble_static_publish.ts` 与测试、`tools/release.ts`、`.gitignore`、`.github/workflows/truthfulness-audit.yml`、`README.md`、相关 `docs/`、`releases/v2026.07.27-5.md` 与生成的 public snapshot。
-- **执行步骤:** 保持 audit 默认输出到 OS temporary directory，并把 repository 内显式 output 限制在已 ignored 的 `audit-artifacts/` 或其子目录；创建后再次核验 real path，拒绝实际指向其他 repository 位置的 output。child audit 改用 exact current Bun、absolute tool path 与显式 `--root-dir`，使 fixture root 能被正确审计。从 shareable JSON / Markdown summary 中删除 root / artifact path，CI 改从 `$RUNNER_TEMP` 发布 summary 与 artifact。两个 walker 均排除该目录，surface drift 新增 audit/common-local path 检测，publisher 从 manifest selection 中排除，并在 Astro output 出现时直接 fail。
-- **验证结果:** 先复现修复前的真实 failure，随后 publish boundary 与 audit-then-regenerate 聚焦测试共 10 tests / 64 assertions 全部通过。fixture 证明 fixed timestamp 的 discovery / API / sitemap 在 audit 前后 byte-identical，summary 与 public output 均不含 fixture absolute path 或 `audit-artifacts`。即使真实 repository 中保留 ignored artifact，strict release 仍保持修复前 baseline 的 1,576 Markdown、1,489 entries / issues 0；surface drift 以 API 1,482 entries、docs / audit / local-path leakage 0 通过。加入 release record 后，`bun run verify --out _site` 以 1,577 Markdown、Astro check 39 files / 0 errors / 5 hints、7 files / 38 tests / 144 assertions、Astro 2,969 pages、Pagefind 2,968 pages、assembly 6,258 + 3,063 files 与 13 required routes 全部 PASS。
-- **已知注意事项:** truthfulness threshold 继续保持 advisory，不升级为 hard release gate。CLI stdout 为方便 local operator 定位产物仍显示实际 output directory，但上传的 `summary.json` / `summary.md` 不保存该路径。本 branch 叠加在 #184、#185、#186 与 #177 dependency stack 之后，前置项进入 `pre` 前不会创建重复 PR。
-- **下一步:** 完成 canonical verification 与真实 pre-push，并把 branch / evidence 写入 Issue #178。dependency merge 后 replay 到最新 `pre`，等待 fresh PR review / CI。不得 self-merge / self-close；仅在批准的 promotion 中发布 `main` 与 GitHub Release。
-
 ## 2026-07-27 - Unified required verification pipeline (#184)
 
 ### 日本語
@@ -1309,16 +929,6 @@
 - **Validation:** `bun run verify --out _site` confirmed Bun 1.3.14, the frozen lockfile, zero production vulnerabilities, 1,442 current ja/en mirrors each with zero missing/stale, zero index drift, and zero wiki issues/canonical drift. Astro check completed across 39 files with 0 errors, 0 warnings, and 5 hints. `bun test` passed 35 tests / 122 assertions across six files. Astro built 2,969 pages with zero duplicate IDs, Pagefind indexed 2,968 pages, assembly produced 6,258 Astro files plus 3,062 raw files, and all 13 required routes passed. Negative tests for a stale count, missing translation, type error, missing `/en/`, empty `llms.txt`, a Bun mismatch, pin drift, and unsafe output failed as intended.
 - **Known notes:** `main` remains unprotected. Enabling a ruleset before the required workflow reaches the base branch and creates a green `Required verification` context risks locking main incorrectly, so the repository setting is deferred until a fresh PR validates after the dependency chain merges. This branch is stacked on #185, #186, and #177; no duplicate PR will be opened.
 - **Next steps:** Integrate the dependency chain into the latest `pre`, replay this branch, and pass the fresh PR workflow. Then configure the `main` ruleset to require a pull request and `Required verification`, block force-push/deletion, apply to administrators, and record the rejected direct-update evidence plus check URL on Issue #184. Do not self-merge/self-close; update `main` and the GitHub Release only during an approved promotion.
-
-### 中文
-
-- **2026-07-27 17:05:25 JST / 背景:** Issue #184。tracked `.githooks/pre-push` 因 mode 为 `100644` 被 Git 忽略，local push 连 strict release check 都没有执行。Pages 与 Vercel 使用不同 gate 子集，pull request 没有统一覆盖 release / typecheck / tests / final artifact 的 required check，Actions 还使用会移动的 `bun-version: latest`。live GitHub API 也确认 `main` protection 返回 404、repository ruleset 为 0。
-- **范围:** Bun 固定、canonical verification runner 与聚焦测试、required publish-route gate、Vercel compatibility wrapper、root package scripts、可执行 pre-push hook、required / dependency / truthfulness / Pages workflow、README 与 release / architecture / quality / operations docs、本 CHANGELOG、三语 release note、根首页与 AI / crawler discovery surface。crawl 全部 assembled HTML href 并修复已知 19 个 broken links 仍属于独立 Issue #183。
-- **主要文件:** `.bun-version`、`package.json`、`vercel.json`、`tools/verify.ts`、`tools/verify.test.ts`、`tools/i18n_status.ts`、`tools/i18n_status.test.ts`、`tools/required_publish_routes.ts`、`tools/required_publish_routes.test.ts`、`tools/vercel_build.ts`、`.githooks/pre-push`、`.github/workflows/*.yml`、`README.md`、`docs/` 下的 release / deployment contract、`releases/v2026.07.27-4.md` 与生成 public snapshot。
-- **执行步骤:** 对照 official Bun release、`setup-bun@v2` input 与 Vercel exact-build pin guidance，通过 `.bun-version` / `packageManager` / Vercel install・build command 固定 Bun 1.3.14。`tools/verify.ts` 现在以 fail-fast 顺序执行 frozen site install、release-document / strict release / docs-link / stale-doc / generated-surface / AI txt / strict i18n / index-count / wiki-link / production dependency gate、CI Astro check、全部 Bun tests、Astro build、duplicate ID、Pagefind、allowlisted assembly、13 个 required final routes 与 `git diff --check`。在保留 report-only `i18n:status` 的同时新增 `--fail-on-issues` / `i18n:check`；将 hook 改为 `100755`，让 PR workflow、Pages 与 Vercel 接入同一个 runner，并让 Vercel 明确执行 `bunx bun@1.3.14`；删除 truthfulness workflow 中无 dependency 的 root install。
-- **验证结果:** `bun run verify --out _site` 已确认 Bun 1.3.14 / frozen lockfile、production vulnerability 0、i18n ja/en 各 1,442 current 且 missing/stale 0、index drift 0、wiki issues / canonical drift 0。Astro check 检查 39 files，0 errors、0 warnings、5 hints；`bun test` 的 6 files / 35 tests / 122 assertions 全部通过。Astro 生成 2,969 pages，duplicate ID 为 0，Pagefind 索引 2,968 pages，assembly 为 6,258 个 Astro files + 3,062 个 raw files，13 个 required routes 全部 PASS。stale count、missing translation、type error、missing `/en/`、empty `llms.txt`、Bun mismatch、pin drift 与 unsafe out 的 negative tests 均按预期 fail。
-- **已知注意事项:** `main` 仍未保护。在 required workflow 进入 base branch 并产生 green `Required verification` context 前启用 ruleset，可能错误锁定 main，因此 repository setting 延后到 dependency chain merge 后的 fresh PR validation。本 branch 叠加在 #185、#186、#177 上，不会创建重复 PR。
-- **下一步:** 按 dependency 顺序进入最新 `pre` 后 replay 本 branch 并通过 fresh PR workflow；随后在 `main` ruleset 中强制 pull request 与 `Required verification`，禁止 force-push / delete，应用到 administrators，并把 direct unverified update 被拒绝的 evidence 与 check URL 写入 Issue #184。不得 self-merge / self-close；仅在批准的 promotion 中更新 `main` 与 GitHub Release。
 
 ## 2026-07-27 - Noninteractive Astro typecheck and test discovery (#185)
 
@@ -1342,16 +952,6 @@
 - **Known notes:** The five hints cover the `process` Node global type, two deprecated Zod `.passthrough()` calls, and two unused helpers; none is a blocking type error. The #185 branch is stacked on the #186 commit, so no duplicate PR will be opened until the #197 → #186 dependency chain enters `pre`.
 - **Next steps:** Local implementation and all validation gates are complete. After the dependency chain merges, replay onto the latest `pre`, open the #185 PR, and wait for review/CI. Do not self-merge or self-close; publish to `main` and create the GitHub Release only during an approved promotion.
 
-### 中文
-
-- **2026-07-27 16:47:44 JST / 背景:** Issue #185。`site/package.json` 虽然声明了 `astro check` script，但没有 checker 与 TypeScript，因此 CI mode 会报告依赖缺失并以 exit 1 结束。root `bun test` 的既有 17 tests 可以通过，但翻译 mask / unmask 保护检查 `site/scripts/test-protect.mjs` 不符合 Bun 默认 discovery pattern，实际没有运行。
-- **范围:** `@astrojs/check` / TypeScript dev dependency 与 Bun lockfile、`site/src/layouts/Base.astro` 的 wikilink preview typing、翻译保护检查的 Bun test 化、本 CHANGELOG、三语 release note、README / 根首页与生成的 public snapshot。shared required pipeline 与 Bun 固定仍属于 Issue #184，production dependency audit 仍属于 Issue #186。
-- **主要文件:** `site/package.json`、`site/bun.lock`、`site/src/layouts/Base.astro`、`site/scripts/protect.test.mjs`、`releases/v2026.07.27-3.md`、`README.md`、`index.html` 与 AI / crawler discovery surface。
-- **执行步骤:** 按 `@astrojs/check` 0.9.9 的 peer range（TypeScript `^5.0.0 || ^6.0.0`）固定 TypeScript 6.0.3；通过为 DOM query result、preview payload map、active anchor、event callback parameter 和 closure-safe non-null alias 增加类型，清除首次检查发现的 18 个真实 errors。external Pagefind script 明确标记 `is:inline`，不改变既有 runtime behavior。将旧 manual test 改为 `protect.test.mjs`，拆成 5 个 fixture lossless round-trip、wikilink target/label guard、Japanese localizer 与 English-prose skip 共 8 tests。
-- **验证结果:** `bun install --frozen-lockfile` 在不修改 lockfile 的情况下确认 274 installs / 375 packages。`CI=1 bun run check` 检查 39 files，以 0 errors、0 warnings、5 hints、exit 0 完成。`bun test` 包括既有 release / publish tests 与新增 translation protection，共 3 files / 25 tests / 80 assertions，fail 0。`bun tools/vercel_build.ts` 已通过 link audit（1,489 entries、issues=0、canonical drift=0）、strict release check、dependency audit、publish tests 7/7、Astro build（2,969 pages）、duplicate HTML ID check（0）、Pagefind（ja/en 共 2,968 pages）与 assembly（6,258 个 Astro files + 3,061 个 raw files）。release-document、docs-link、active-doc-stale、generated-surface、txt-route、i18n、index-count、wiki-link 与 `git diff --check` 门禁也全部通过。
-- **已知注意事项:** 5 个 hints 涉及 `process` Node global type、2 个 Zod `.passthrough()` deprecated API 与 2 个未使用 helper，均不是 blocking type error。#185 branch 叠加在 #186 commit 上，因此 #197 → #186 dependency chain 进入 `pre` 前不会创建重复 PR。
-- **下一步:** 本地实现与全部 validation gate 已完成；dependency chain merge 后重放到最新 `pre`，创建 #185 PR 并等待 review / CI。不得 self-merge / self-close；只有经批准 promotion 时才发布到 `main` 并创建 GitHub Release。
-
 ## 2026-07-27 - Astro dependency security update and audit gate (#186)
 
 ### 日本語
@@ -1373,16 +973,6 @@
 - **Validation:** `bun audit --production` reported zero production vulnerabilities. `bun install --frozen-lockfile --ignore-scripts` verified 197 installs / 299 packages without changing the lockfile. `bun tools/vercel_build.ts` passed the link audit (1,489 entries, issues=0, canonical drift=0), strict release check, dependency audit, publish tests (7/7), Astro 7.1.3 build (2,969 pages), duplicate HTML ID check (0), Pagefind (2,968 ja/en pages), and assembly (6,258 Astro files plus 3,060 raw files). The release-document, docs-link, active-doc-stale, generated-surface, txt-route, i18n, index-count, wiki-link, workflow-YAML, and `git diff --check` gates also passed.
 - **Known notes:** The dependency-audit workflow keeps `bun-version: latest` until Issue #184 introduces the repository-wide pin. The #186 branch is temporarily stacked on the PR #197 commit, so no duplicate PR will be opened until PR #197 merges into `pre`.
 - **Next steps:** Local implementation and validation are complete. After PR #197 merges, replay onto the latest `pre`, open the #186 PR, and wait for review/CI. Do not self-merge or self-close; publish to `main` and create the GitHub Release only during an approved promotion.
-
-### 中文
-
-- **2026-07-27 15:53:57 JST / 背景:** Issue #186。`site/bun.lock` 的 production dependency tree 仍有 4 个 high 与 2 个 moderate advisory，而常规 build pipeline 既没有强制 frozen lockfile，也没有执行 vulnerability audit，因此安全解析结果无法保证在后续安装中复现，新 advisory 也不会持续暴露。
-- **范围:** `site/package.json` 与 `site/bun.lock`、root dependency-audit script、GitHub Pages / Vercel build、pull request / `pre` / `main` / weekly dependency-audit workflow、本 CHANGELOG、三语 release note、README / 根首页与生成的 public snapshot。Bun runtime 固定仍属于 Issue #184，TypeScript / typecheck 仍属于 Issue #185。
-- **主要文件:** `site/package.json`、`site/bun.lock`、`package.json`、`.github/workflows/deploy.yml`、`.github/workflows/dependency-audit.yml`、`tools/vercel_build.ts`、`releases/v2026.07.27-2.md`、`README.md`、`index.html` 与 AI / crawler discovery surface。
-- **执行步骤:** 将直接依赖升级到 Astro 7.1.3、`@astrojs/markdown-satteri` 0.3.4 和 Satteri 0.9.5，并生成 fresh lockfile；固定包含 `js-yaml` 4.3.0、`postcss` 8.5.23、`sharp` 0.35.3 与 `svgo` 4.0.2 的安全传递依赖树。site 安装改为 `--frozen-lockfile`，并把 `bun audit --production` 接入本地 script、Pages、Vercel、PR / branch push 与 weekly schedule。
-- **验证结果:** `bun audit --production` 报告 production vulnerability 为 0。`bun install --frozen-lockfile --ignore-scripts` 在不修改 lockfile 的情况下确认 197 installs / 299 packages。`bun tools/vercel_build.ts` 已通过 link audit（1,489 entries、issues=0、canonical drift=0）、strict release check、dependency audit、publish tests 7/7、Astro 7.1.3 build（2,969 pages）、duplicate HTML ID check（0）、Pagefind（ja/en 共 2,968 pages）与 assembly（6,258 个 Astro files + 3,060 个 raw files）。release-document、docs-link、active-doc-stale、generated-surface、txt-route、i18n、index-count、wiki-link、workflow YAML 与 `git diff --check` 门禁也全部通过。
-- **已知注意事项:** dependency-audit workflow 的 `bun-version: latest` 将保留到 Issue #184 引入全仓库版本固定。#186 branch 临时叠加在 PR #197 commit 上，因此 PR #197 合并进 `pre` 前不会创建重复 PR。
-- **下一步:** 本地实现与 validation 已完成；PR #197 merge 后重放到最新 `pre`，创建 #186 PR 并等待 review / CI。不得 self-merge / self-close；只有经批准 promotion 时才发布到 `main` 并创建 GitHub Release。
 
 ## 2026-07-27 - Static publish allowlist and destructive-output guard (#177)
 
@@ -1406,16 +996,6 @@
 - **Known notes:** This branch is temporarily stacked on the Issue #187 commit. No #177 PR will be opened until PR #196 merges into `pre`. AI discovery URL/route alignment remains the separate scope of Issue #179; this change does not alter URL semantics.
 - **Next steps:** Local implementation and validation are complete. Wait for PR #196, replay onto the latest `pre`, open the #177 PR, and wait for review/CI. Do not self-merge or self-close; publish to `main` and create the GitHub Release only during an approved promotion.
 
-### 中文
-
-- **2026-07-27 10:49:39 JST / 背景:** Issue #177。旧版 `tools/assemble_static_publish.ts` 以 denylist 遍历仓库根目录，因此 `docs/`、`lib/`、`AGENTS.md`、package / deployment config、ignored file 和未知 root file 都可能进入静态发布物；同时，未经检查的 `--out` 会直接传给递归删除，可能把仓库根目录或父目录作为目标。
-- **范围:** static assembler 与聚焦测试、root package script、GitHub Pages / Vercel build pipeline、NFR / ARD / FSD / RTM / QA / deployment runbook、三语 README 的公开入口契约、本 CHANGELOG、release note 和生成的 public snapshot。不修改 wiki entry 事实正文，也不改变人类站点 locale。
-- **主要文件:** `tools/assemble_static_publish.ts`、`tools/assemble_static_publish.test.ts`、`tools/vercel_build.ts`、`.github/workflows/deploy.yml`、`package.json`、requirements / architecture / specs / quality / operations 文档、`README.md`、`releases/v2026.07.27-1.md` 与 release generator 输出。
-- **执行步骤:** 删除 repo-root denylist copy，改用 `ai-index.json` 与 `api/entries/index.json` 作为可审查 manifest；只选择显式 root reader-doc / AI-surface allowlist、`INDEX.md` domain map 声明领域中的 Markdown、release note 与 indexed API JSON。输出只允许仓库直属的 `_site` / `_vercel_public`，并在递归删除前完成 Astro/raw source、路径、文件类型、hidden entry 与 symlink 检查。Pages 与 Vercel 两条 pipeline 都新增 `bun run publish:test`。
-- **验证结果:** `bun tools/vercel_build.ts` 已通过 link audit（1,489 entries、issues=0、canonical drift=0）、strict release check、聚焦 publish tests、Astro build（2,969 pages）、duplicate HTML ID check（0）、Pagefind（ja/en 共 2,968 pages）与 assembly。`_vercel_public` 包含 6,258 个 Astro 文件和 3,059 个白名单 raw 文件；11 个必需 route / raw path 全部存在，覆盖 `docs/`、`lib/`、`tools/`、`AGENTS.md`、package / Vercel config、`.DS_Store`、`.delivery.yml` 与未知 root docs 的 12 个 forbidden path 全部不存在，额外 hidden file 与 symlink 均为 0。危险的 `--out .` 在删除前以 exit 1 失败，README 保持完好。最终 publish tests 7/7，并且 release-document、docs-link、active-doc-stale、generated-surface、txt-route、i18n、index-count、wiki-link、strict release 与 `git diff --check` 门禁全部 PASS。
-- **已知注意事项:** 当前 branch 临时叠加在 Issue #187 commit 上；PR #196 合并进 `pre` 前不会创建 #177 PR。AI discovery URL 与实际 route 对齐仍属于 Issue #179，本修复不改变 URL 语义。
-- **下一步:** 本地实现与验证已经完成。等待 PR #196，随后重放到最新 `pre`，创建 #177 PR 并等待 review / CI。不得 self-merge / self-close；只有经批准 promotion 时才发布到 `main` 并创建 GitHub Release。
-
 ## 2026-07-27 - Trilingual release-document governance gate (#187)
 
 ### 日本語
@@ -1438,16 +1018,6 @@
 - **Known notes:** Release notes before 2026-07-27 are excluded from the automated contract gate as public history. Restoring missing historical CHANGELOG / tag / GitHub Release evidence belongs to Issue #188, so this change does not rewrite that history. The GitHub Release will be created or updated only when publishing to `main`.
 - **Next steps:** Finalize validation evidence, open a PR into `pre`, and wait for maintainer review. After merge, proceed to the dependent static-publish repair in Issue #177. Do not self-merge or self-close.
 
-### 中文
-
-- **2026-07-27 00:58:10 JST / 背景:** Issue #187。根目录 `AGENTS.md` 要求 README、CHANGELOG、release note 与 GitHub Release body 同时维护日文、英文和中文，但当前文档与 release tooling 仍只执行日英双语，strict gate 也没有检查语言顺序或必填小节。
-- **范围:** 将 `README.md` 与 `CHANGELOG.md` 改为三语；同步 BRD / PRD / ARD / FSD / NFR / RTM / QA / release runbook；新增 `tools/release_documentation_audit.ts` 与聚焦测试；把写入前门禁、三语 scaffold 和按语言同步指标的逻辑接入 `tools/release.ts`；移除 `tools/generate_ai_discovery.ts` 对中文及三语治理文本的过滤；同步 release note 与生成的 discovery surface。
-- **非范围:** 人类站点 locale 继续只使用 `ja` / `en`。本次不恢复中文 route 或 mirror，也不修改 wiki entry 的事实正文。
-- **执行步骤:** 从 `pre` 创建 issue 专用 worktree。对 2026-07-27 及以后的 release note 强制要求仅日文 H1、`日本語 -> English -> 中文` 顺序，以及每种语言的 5 个必填小节；更早的历史记录 grandfather。增加正常、缺失、错序、非日文 / 混合标题和必填小节缺失测试，并让根控制文档、active developer docs、生成器与 release surface 使用同一契约。
-- **验证结果:** `bun test tools/release_documentation_audit.test.ts` 的 10 个测试全部 PASS。tooling bundle、`bun run release:docs`、`bun tools/release.ts --check --strict`、`bun run docs:audit`、`bun run docs:stale`、`bun run surface:drift`、`bun run ai:audit`、`bun run i18n:status`（ja/en 各 1442 个 current，stale / orphaned / missing 均为 0）、`bun run wiki:audit:ci`（issues=0、canonical drift=0）、`bun run index:counts`、Astro build（2969 pages）、Pagefind（ja/en 2968 pages）、`bun run html:check`（duplicate IDs 0）与 `git diff --check` 均 PASS。integration negative check 在落盘前以 EXIT=2 拒绝日英混合标题。
-- **已知注意事项:** 2026-07-27 以前的 release note 作为公开历史，不纳入自动契约门禁。补回历史 CHANGELOG / tag / GitHub Release 证据属于 Issue #188，本次不重写历史。GitHub Release 只在发布到 `main` 时创建或更新。
-- **下一步:** 确认最终验证证据，创建目标为 `pre` 的 PR 并等待 maintainer review；merge 后进入依赖本修复的 Issue #177 静态发布修复。不得 self-merge / self-close。
-
 ## 2026-07-15 - Hygiene wave: agent-economy count + stale docs + ROADMAP exclusion (#175)
 
 ### 日本語
@@ -1468,15 +1038,6 @@
 - **Validation:** `bun run index:counts` PASS, `bun run docs:stale` PASS, `bun tools/wiki_link_audit.ts --fail-on-issues` PASS with a scaffold `ROADMAP.md` present, and `bun tools/release.ts --check --strict` PASS.
 - **Follow-up:** Open the PR into `pre` and wait for review and merge. Do not self-merge or self-close.
 
-### 中文
-
-- **2026-07-15 00:21:45 JST / 背景:** Issue #175。集中处理 2026-07-12 只读健康检查发现的 hygiene 项。#174 新增 6 条 agent-economy 内容后，`INDEX.md` 的 domain map 未同步，导致 `index:counts`、`docs:stale` 与本地 pre-push 持续失败。
-- **范围:** 将 `INDEX.md` 的 `agent-economy` 声明数量从 40 调整为 46；修正 `docs/04-architecture/astro-5-to-7-upgrade-plan.md` 与 `docs/04-architecture/satteri-pipeline-port-plan.md` 中 3 处过时实现描述；把 `ROADMAP.md` 加入 `tools/wiki_link_audit.ts` 的 `CONTROL_DOCS`；执行一次 `bun tools/release.ts --write` 同步 README 字符数与生成 surface。
-- **非范围:** 不修改 wiki entry 正文，也不修改 i18n mirror。
-- **执行步骤:** 让 domain map 与实际 entry 数量一致；把 stale scan 指出的 old-site-mirror / python-postbuild 描述更新为当前 root corpus + `site/src/content/i18n/{ja,en}/` 与 Satteri 原生 Bun/TypeScript pipeline；从 link audit 中排除 loopcoder scaffold 生成且被 gitignore 的 `ROADMAP.md`；最后执行一次 `release:write`。
-- **验证结果:** `bun run index:counts` PASS；在 scaffold `ROADMAP.md` 存在时，`bun run docs:stale`、`bun tools/wiki_link_audit.ts --fail-on-issues` 与 `bun tools/release.ts --check --strict` 均 PASS。
-- **后续事项:** 创建目标为 `pre` 的 PR，等待 review 与 merge。不得 self-merge / self-close。
-
 ## 2026-07-01 - i18n bilingual site cutover (#126)
 
 ### 日本語
@@ -1496,12 +1057,3 @@
 - **Steps:** Checked the i18n architecture and ADR-010, removed the retired mirror corpus with `git rm`, reduced `langCodes`, `languages`, `Lang`, domain / group labels, and root editorial config to ja/en, made the translation pipeline and post-build wikilink localization English-mirror-only, updated the root homepage and README / CHANGELOG to bilingual, and adjusted generators for ja/en.
 - **Validation:** `bun tools/release.ts --check --strict`, `bun run i18n:status`, `bun run docs:audit`, `bun run wiki:audit:ci`, `cd site && bun install && bun run build`, `bun run html:check`, and `git diff --check` all passed. The build output generated only the `/ja/` and `/en/` route families, and the retired-locale directory / route residue scan passed.
 - **Follow-up:** Open the PR into `pre` and wait for review and merge. Do not self-merge or self-close.
-
-### 中文
-
-- **2026-07-01 18:57:08 JST / 背景:** 根据 Issue #126，公开站点 i18n model 迁移为日文 source + English mirror 的双语结构。退役 locale 的 mirror corpus 与 route family 被删除，旧 locale URL 不提供 redirect 或 stub。
-- **范围:** 删除退役 mirror corpus；更新 `site/src/i18n` 的 language source-of-truth、translation scripts、i18n status / stale classifier / link remap / release tooling、Astro route / layout / switcher、根首页，以及 README / INDEX / CHANGELOG / AI discovery surfaces。
-- **非范围:** 不修改根目录日文 source corpus 与既有日文 / 英文 mirror corpus；也不修改 design tokens、`docs/**` 或 `CONTRIBUTING.md`。
-- **执行步骤:** 检查 i18n architecture 与 ADR-010，使用 `git rm` 删除退役 mirror corpus；把 `langCodes`、`languages`、`Lang`、domain / group labels 与 root editorial config 收敛为 ja/en；让 translation pipeline 与 post-build wikilink localization 只面向 English mirror；把根首页和 README / CHANGELOG 更新为当时的双语状态，并按 ja/en 调整 generator。
-- **验证结果:** `bun tools/release.ts --check --strict`、`bun run i18n:status`、`bun run docs:audit`、`bun run wiki:audit:ci`、`cd site && bun install && bun run build`、`bun run html:check` 与 `git diff --check` 全部 PASS。build output 只生成 `/ja/` 与 `/en/` route family，retired locale directory / route residue scan 也 PASS。
-- **后续事项:** 创建目标为 `pre` 的 PR，等待 review 与 merge。不得 self-merge / self-close。
