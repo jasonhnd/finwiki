@@ -66,7 +66,7 @@ Keep `llms.txt` compact. Improvements should be structural, not verbose:
 
 | Option | Benefit | Cost / risk | Decision |
 |---|---|---|---|
-| Static JSON enrichment | Works on GitHub Pages / Vercel static hosting, no auth, easy diff review. | Full generated diff when schema changes. | Do first. |
+| Static JSON enrichment | Works on GitHub Pages and any other static host, no auth, easy diff review. | Full generated diff when schema changes. | Do first. |
 | Client-side query library over static JSON | No server; could power future human/agent filters. | Adds bundle/runtime complexity. | Consider after static schema stabilizes. |
 | Hosted API endpoint | Flexible filtering and smaller client downloads. | Requires deployment/runtime contract and monitoring. | Defer. |
 | MCP server | Agent-native querying and tool semantics. | New operational surface; not needed until graph data is richer. | Defer; write a separate issue only if static files are insufficient. |

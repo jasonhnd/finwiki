@@ -27,8 +27,8 @@ Historical target: upgrade the FinWiki Astro site from the then-locked Astro 5.1
 | Content collections | `site/src/content.config.ts` uses `glob()` from `astro/loaders` over the root corpus and i18n mirrors. | Already on the Content Layer API, but the Zod import must move from `astro:content` to `astro/zod` for v6. |
 | Entry rendering | `site/src/pages/[lang]/[...slug].astro` imports `render` from `astro:content` and calls `render(tr ?? entry)`. | Already uses the new rendering form required after legacy collection removal. |
 | Entry IDs | `site/src/lib/routes.ts` derives routes from `entry.id`. | Already avoids `entry.slug`. |
-| Build path | GitHub Pages workflow runs `bun run wiki:audit:ci`, then `cd site && bun install`, `bun run build`, `bun run index:search`, and publish assembly. Vercel runs root `bun run vercel:build`. | The implementation issue must validate both site-local and root release/audit wrappers. |
-| Node/Bun | Local `node -v` is `v24.15.0`; local `bun -e "process.versions.node"` reports `24.3.0`; the issue states Vercel uses Node 24.x; GitHub Actions uses `oven-sh/setup-bun@v2` with latest Bun. | Satisfies Astro v6's Node >=22.12 floor, but CI logs should still be checked because the workflows do not pin Node explicitly. |
+| Build path | GitHub Pages workflow runs `bun run wiki:audit:ci`, then `cd site && bun install`, `bun run build`, `bun run index:search`, and publish assembly. GitHub Pages is the only deploy target since the Vercel decommission. | The implementation issue must validate both site-local and root release/audit wrappers. |
+| Node/Bun | Local `node -v` is `v24.15.0`; local `bun -e "process.versions.node"` reports `24.3.0`; GitHub Actions uses `oven-sh/setup-bun@v2` with latest Bun. | Satisfies Astro v6's Node >=22.12 floor, but CI logs should still be checked because the workflows do not pin Node explicitly. |
 
 ## Recommended Staging
 
@@ -100,7 +100,7 @@ Do not port these plugins to Satteri in the first v7 upgrade. A Satteri port can
 
 | v6 change | Applies to FinWiki? | Required later implementation action |
 |---|---|---|
-| Node 22.12 minimum | Yes, environment requirement. | Confirm CI/Vercel logs show Node/Bun compatibility at or above Node 22.12. Current local Node 24.15.0, Bun Node compatibility 24.3.0, issue-stated Vercel 24.x, and current Actions setup satisfy the floor. |
+| Node 22.12 minimum | Yes, environment requirement. | Confirm CI logs show Node/Bun compatibility at or above Node 22.12. Current local Node 24.15.0, Bun Node compatibility 24.3.0, and the current Actions setup satisfy the floor. |
 | Vite 7 | Low risk. No Vite config or Vite plugins found. | Let Astro dependency resolution move Vite. Run build and inspect any Vite deprecation output. |
 | Vite Environment API | Low risk. Local integrations use `astro:build:done` but do not use Vite internals or HMR. | Confirm `localizeWikilinks()` and `responsiveTableHtmlRepair()` still receive `dir` and run after build. |
 | Zod 4 | Yes. `site/src/content.config.ts` imports `z` from `astro:content`. | Change to `import { z } from 'astro/zod'` and keep `defineCollection` from `astro:content`. Re-run `astro check` or build to confirm schema inference. |

@@ -82,6 +82,7 @@ Current open: #22.
 
 The repository has 23 domains.
 After a fresh clone, restore filesystem mtimes before release.
+Vercel runs \`bun run vercel:build\` and assembles into \`_vercel_public\`.
 `,
       { packageLicense: "ISC" },
     );
@@ -98,6 +99,7 @@ After a fresh clone, restore filesystem mtimes before release.
         "repository-license",
         "restore-mtime-guidance",
         "topical-domain-count",
+        "vercel-deploy-path",
       ]),
     );
   });
@@ -109,7 +111,8 @@ After a fresh clone, restore filesystem mtimes before release.
     mkdirSync(path.join(root, "docs", "99-archive"), { recursive: true });
     writeFileSync(
       path.join(root, "docs", "99-archive", "old-plan.md"),
-      "Current open: #22. The old site/src/content/entries mirror had 23 domains.\n",
+      "Current open: #22. The old site/src/content/entries mirror had 23 domains.\n" +
+        "The retired Vercel build wrote vercel.json and assembled into _vercel_public.\n",
     );
 
     expect(scanActiveDocs(root).findings).toEqual([]);

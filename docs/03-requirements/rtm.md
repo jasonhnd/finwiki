@@ -17,7 +17,7 @@
 | PRD-007 | [PRD](../02-product/prd.md) | `README.md`, `CHANGELOG.md`, `releases/` | `bun run release:docs`, `release.ts --check --strict` | release note |
 | PRD-008 | [PRD](../02-product/prd.md) | [Model-Agent Workflow](../06-implementation/model-agent-workflow.md), [User Journeys](../02-product/user-journeys.md) | role contract review | release note |
 | PRD-009 | [PRD](../02-product/prd.md), [UI/UX Principles](../02-product/ui-ux-principles.md) current approved baseline | [UI/UX Functional Spec](../05-functional-specs/ui-ux.md), [Theme System](../04-architecture/theme-system.md), `site/src/` UI surfaces | visual QA + site build when UI changes | release note |
-| NFR-001 | [NFR](nfr.md) | `.bun-version`, `tools/verify.ts`, executable pre-push, required/deploy/Vercel workflows, main protection | `bun run verify` + `Required verification` + repository-rule evidence | release note |
+| NFR-001 | [NFR](nfr.md) | `.bun-version`, `tools/verify.ts`, executable pre-push, required/deploy workflows, main protection | `bun run verify` + `Required verification` + repository-rule evidence | release note |
 | NFR-002 | [NFR](nfr.md) | `tools/wiki_link_audit.ts` | `--fail-on-issues` | release note |
 | NFR-003 | [NFR](nfr.md) | `AGENTS.md`, QA docs | manual review | release note |
 | NFR-004 | [NFR](nfr.md) | `lib/markdown_helpers.ts`, `tools/wiki_link_audit.ts`, `site/` allowlist | surface grep | release note |
@@ -30,7 +30,7 @@
 | NFR-011 | [NFR](nfr.md) | [Code/Docs Alignment Audit](../07-quality/code-doc-alignment-audit.md), [Next Development Plan](../01-strategy/next-development-plan.md) | stale-code-doc scan + docs link check | release note |
 | NFR-012 | [NFR](nfr.md) | [Visual QA Checklist](../07-quality/visual-qa-checklist.md), [Theme System](../04-architecture/theme-system.md) | visual QA + responsive spot checks | release note |
 | NFR-013 | [NFR](nfr.md) | [Documentation Drift Audit](../07-quality/documentation-drift-audit.md), [Documentation System](../00-governance/documentation-system.md), `tools/generate_ai_discovery.ts` | docs drift scan + surface grep + strict release check | release note |
-| NFR-014 | [NFR](nfr.md) | `tools/assemble_static_publish.ts`, generated public manifests, deploy/Vercel pipelines | `bun run publish:test` + assembled-output inspection | release note |
+| NFR-014 | [NFR](nfr.md) | `tools/assemble_static_publish.ts`, generated public manifests, the GitHub Pages deploy pipeline | `bun run publish:test` + assembled-output inspection | release note |
 | NFR-015 | [NFR](nfr.md) | `tools/audit_runner.ts`, shared walk exclusions, truthfulness workflow, static publisher | `bun test tools/audit_artifact_isolation.test.ts` + strict release/surface checks | release note |
 | NFR-016 | [NFR](nfr.md) | `lib/markdown_helpers.ts`, discovery generator/audits, `tools/verify.ts`, canonical verification/deploy workflows | `bun run surface:drift` + `bun test tools/discovery_routes.test.ts` + `bun run verify --out _site` | release note |
 | NFR-017 | [NFR](nfr.md) | `tools/audit_runner.ts`, `.github/workflows/truthfulness-audit.yml`, historical summary fixtures | `bun test tools/audit_runner.test.ts` + historical `bun run audit:all` + workflow YAML parse | release note |

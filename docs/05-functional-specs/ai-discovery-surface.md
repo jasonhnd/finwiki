@@ -31,7 +31,7 @@
 
 - `lib/markdown_helpers.ts` owns route construction, raw/GitHub fallback selection, wikilink route resolution and Git-first `last_modified`. Git subprocesses clear inherited repository-addressing variables such as `GIT_DIR`, `GIT_WORK_TREE` and `GIT_INDEX_FILE` so an explicit source path remains authoritative inside hooks.
 - `tools/generate_ai_discovery.ts` reads the shared corpus walk plus `INDEX.md`, then writes the outputs above. `--generated-at` and `--api-index-generated-at` are deterministic comparison inputs, not author-facing content fields.
-- `tools/generated_surface_drift_scan.ts` owns read-only corpus/API alignment, excluded-path checks and fixed-timestamp exact regeneration. `tools/txt_route_audit.ts` owns final-route validation against the assembled copies in `_site` or `_vercel_public`, ignores source-preserving `markdown_links`, audits same-host API `external_links`, and rejects same-host URLs whose scheme or port changes the expected origin.
+- `tools/generated_surface_drift_scan.ts` owns read-only corpus/API alignment, excluded-path checks and fixed-timestamp exact regeneration. `tools/txt_route_audit.ts` owns final-route validation against the assembled copies in `_site`, ignores source-preserving `markdown_links`, audits same-host API `external_links`, and rejects same-host URLs whose scheme or port changes the expected origin.
 
 ## Generation
 

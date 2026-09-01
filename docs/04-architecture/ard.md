@@ -28,7 +28,7 @@
 2. Release tooling builds entries, counts, sitemap, llms files, ai-index and API outputs.
 3. Astro site reads source content and i18n mirrors through explicit allowlists.
 4. Validation runs link audit, count sync, JSON/LF/duplicate checks and static-publish boundary tests.
-5. Static assembly overlays generated-manifest-approved raw wiki / AI files onto `site/dist` in `_site` or `_vercel_public`.
+5. Static assembly overlays generated-manifest-approved raw wiki / AI files onto `site/dist` in `_site`.
 6. Push to `origin/main` triggers GitHub Actions deployment.
 
 ## Constraints
@@ -36,7 +36,7 @@
 - `docs/` must remain excluded.
 - AI discovery output must not expose `docs/` as crawlable markdown links.
 - Static assembly must not copy `docs/`, `lib/`, tooling, development config, hidden/ignored files or unknown root files.
-- Recursive output cleanup is restricted to the direct-child build directories `_site` and `_vercel_public`; symlink output targets are rejected.
+- Recursive output cleanup is restricted to the direct-child build directory `_site`; symlink output targets are rejected.
 - New domain directories require explicit site and audit allowlist updates.
 - Release note additions change corpus `md` count.
 - `source_hash` must not be casually rewritten to hide stale translations.

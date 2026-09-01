@@ -101,6 +101,12 @@ const STALE_PATTERNS: StalePattern[] = [
     fix: "Record the shipped outcome and point current work intake to the live issue tracker.",
   },
   {
+    id: "vercel-deploy-path",
+    regex: /_vercel_public|vercel:build|vercel\.json/i,
+    reason: "The Vercel shadow build was retired; GitHub Pages is the only deploy target and _site the only approved assembly output.",
+    fix: "Reference GitHub Pages and _site, or move the Vercel fact into dated history / ADR / 99-archive.",
+  },
+  {
     id: "restore-mtime-guidance",
     regex: /^(?![^\n]*(?:\bdo not\b|\bdon't\b|\bmust not\b|禁止|不要))[^\n]*?(?:(?:fresh\s+clone|clone)[^\n]{0,80}(?:restore\s+(?:file(?:system)?\s+)?mtimes?|恢复\s*mtime)|(?:restore\s+(?:file(?:system)?\s+)?mtimes?|恢复\s*mtime)[^\n]{0,80}(?:fresh\s+clone|clone))/i,
     reason: "Release last_modified is Git-history first; restoring filesystem mtimes is obsolete and can hide the real source of drift.",
@@ -200,6 +206,21 @@ const ALLOWLIST: Exemption[] = [
     file: "docs/01-strategy/backlog.md",
     contains: "active-doc stale scan",
     reason: "Backlog item describing this scan's purpose.",
+  },
+  {
+    file: "docs/07-quality/documentation-drift-audit.md",
+    patternId: "vercel-deploy-path",
+    reason: "Drift-audit history names the corrected Vercel deployment boundary and the phrases this scan rejects.",
+  },
+  {
+    file: "docs/07-quality/code-doc-alignment-audit.md",
+    patternId: "vercel-deploy-path",
+    reason: "Code/doc alignment history records the pre-decommission deployment runbook state.",
+  },
+  {
+    file: "docs/01-strategy/next-development-plan.md",
+    patternId: "vercel-deploy-path",
+    reason: "Historical 2026-06 plan; not live authorization (docs/README.md §01 Strategy).",
   },
   {
     file: "docs/04-architecture/astro-site-architecture.md",

@@ -5,7 +5,6 @@
 | Target | Purpose | Trigger |
 |---|---|---|
 | GitHub Pages production | Public `finwiki.zksc.io` site and generated raw surfaces. | Push to `origin/main`. |
-| Vercel shadow/static publish | Optional validation of the assembled static output. | `bun run verify` or Vercel integration when configured. |
 
 Do not push until the user explicitly asks for GitHub publishing.
 
@@ -30,21 +29,19 @@ bun --version
 cat .bun-version
 ```
 
-4. Run the local command for the same required runner used by pull requests and Vercel:
+4. Run the local command for the same required runner used by pull requests and the Pages deploy:
 
 ```bash
 bun run verify
 ```
 
-To exercise the exact GitHub Pages output target, use:
-
-```bash
-bun run verify --out _site
-```
+`_site` is the default and only approved output, so this already exercises the
+exact GitHub Pages target. `deploy.yml` passes `--out _site` explicitly for the
+same result.
 
 `bun run verify` checks the `.bun-version` pin, installs `site/` from the frozen lockfile, runs fixed-timestamp exact regeneration before the build, then runs i18n/index/wiki/dependency/typecheck/tests/Astro/Pagefind, assembles the approved output, and audits required routes, every final HTML `href`, and generated routes against that final tree. The canonical Required verification and deploy workflows checkout with `fetch-depth: 0`; shallow/history-less builders instead reuse valid committed `ai-index.json` dates before shallow Git/mtime fallback. It is the release decision; targeted commands below are diagnostic helpers, not substitutes.
 
-The assembler accepts only `_site` and `_vercel_public`. It validates the target and rejects symlinks before recursive cleanup. The output is `site/dist` plus the generated-manifest-approved raw wiki / release / AI files and an assembler-created `.nojekyll`; it must not contain `docs/`, `lib/`, `tools/`, `AGENTS.md`, package/deployment configuration, hidden/ignored source files or unknown root files. The required-route smoke gate checks root, ja/en, crawler, AI/API and Pagefind files. `html:routes` then resolves every assembled HTML `href` from its source-page URL and requires every same-origin target to be an exact-case, non-empty, non-symlink regular file after query/fragment removal. `ai:audit` separately reads the assembled llms/sitemap/index/API copies; route fields and same-host API `external_links` must resolve and match the exact scheme/host/port. Source-preserving `ai-index.json` `markdown_links` and external origins are not deploy availability claims.
+The assembler accepts only `_site`. It validates the target and rejects symlinks before recursive cleanup. The output is `site/dist` plus the generated-manifest-approved raw wiki / release / AI files and an assembler-created `.nojekyll`; it must not contain `docs/`, `lib/`, `tools/`, `AGENTS.md`, package/deployment configuration, hidden/ignored source files or unknown root files. The required-route smoke gate checks root, ja/en, crawler, AI/API and Pagefind files. `html:routes` then resolves every assembled HTML `href` from its source-page URL and requires every same-origin target to be an exact-case, non-empty, non-symlink regular file after query/fragment removal. `ai:audit` separately reads the assembled llms/sitemap/index/API copies; route fields and same-host API `external_links` must resolve and match the exact scheme/host/port. Source-preserving `ai-index.json` `markdown_links` and external origins are not deploy availability claims.
 
 ## What To Inspect Locally
 

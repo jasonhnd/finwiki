@@ -86,7 +86,7 @@ Each playbook: symptom -> likely causes -> inspect -> repair -> exit.
 - **Symptom**: `bun run verify` fails at typecheck, Astro build, duplicate-ID, Pagefind, assembly, or required-route check.
 - **Likely causes**: content-collection / i18n config change, a type error, duplicate HTML ids, a missing mirror, unsafe assembly input, or a missing final artifact.
 - **Inspect**: rerun the named targeted command only to shorten diagnosis; keep the frozen install and final full command for acceptance.
-- **Repair**: fix the config/content/output issue, then rerun `bun run verify`; if deployment alone fails, inspect Pages/Vercel logs and patch forward.
+- **Repair**: fix the config/content/output issue, then rerun `bun run verify`; if deployment alone fails, inspect the GitHub Pages workflow logs and patch forward.
 - **Exit**: canonical verification is green locally and in the fresh Actions context.
 
 ### GitHub Actions deploy failure
