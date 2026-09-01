@@ -26,7 +26,7 @@ interface CliOptions {
 }
 
 export function parseCliArgs(argv: readonly string[]): CliOptions {
-  let outDir = "_vercel_public";
+  let outDir = "_site";
 
   for (let index = 0; index < argv.length; index += 1) {
     const arg = argv[index];
@@ -80,20 +80,6 @@ export async function assertPinnedBun(
     );
   }
 
-  const vercelConfig = JSON.parse(
-    await readFile(path.join(rootDir, "vercel.json"), "utf8"),
-  ) as { installCommand?: unknown; buildCommand?: unknown };
-  const exactVercelBun = `bunx bun@${pinnedVersion}`;
-  for (const [field, command] of [
-    ["installCommand", vercelConfig.installCommand],
-    ["buildCommand", vercelConfig.buildCommand],
-  ] as const) {
-    if (typeof command !== "string" || !command.includes(exactVercelBun)) {
-      throw new Error(
-        `Vercel ${field} must use the repository Bun pin via "${exactVercelBun}"`,
-      );
-    }
-  }
   return pinnedVersion;
 }
 
@@ -234,7 +220,7 @@ async function runStep(step: Step): Promise<void> {
 export async function runVerification(
   options: VerificationOptions = {},
 ): Promise<void> {
-  const outDir = options.outDir ?? "_vercel_public";
+  const outDir = options.outDir ?? "_site";
   const cli = parseCliArgs(["--out", outDir]);
   const pinnedVersion = await assertPinnedBun();
 

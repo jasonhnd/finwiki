@@ -52,7 +52,7 @@ export interface HtmlRouteAuditOptions {
 }
 
 export function parseCliArgs(argv: readonly string[]): CliOptions {
-  let outDir = "_vercel_public";
+  let outDir = "_site";
   for (let index = 0; index < argv.length; index += 1) {
     const arg = argv[index];
     if (arg === "--out") {
