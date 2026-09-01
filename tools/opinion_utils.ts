@@ -13,9 +13,7 @@ export const SKIP_DIRS = new Set([
   'api',
   'site',
   'app',
-  '.vercel',
   '_site',
-  '_vercel_public',
 ]);
 
 export type ExtractedBlock = {

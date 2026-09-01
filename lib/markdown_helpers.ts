@@ -40,9 +40,7 @@ export const EXCLUDED_WALK_DIRS = new Set([
   "docs",
   "site",
   "app",
-  ".vercel",
   "_site",
-  "_vercel_public",
 ]);
 
 export const WIKILINK_RE = /\[\[([^\]]+)\]\]/g;
