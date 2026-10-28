@@ -40,6 +40,7 @@
 | Operations docs too terse | Fixed | Deployment, incident and maintenance runbooks include local build, Vercel shadow, GitHub Actions, public spot-checks and drift routines. |
 | Volatile corpus metrics | Fixed and guarded | Active docs read current totals from generated counts; `docs:stale` rejects mismatched copied snapshots. |
 | Repository license metadata | Fixed and guarded | `package.json` matches the Apache 2.0 license text; `docs:stale` checks the invariant. |
+| Vercel deployment boundary | Fixed and guarded | The Vercel shadow build was retired; GitHub Pages is the only deploy target and `_site` the only approved assembly output. Active runbooks, the release gate spec, ARD, Astro site architecture, AI discovery docs, toolchain, NFR-001, RTM NFR-001 / NFR-014 and the QA checklist were corrected; `docs:stale` now rejects `_vercel_public` / `vercel:build` claims outside allowlisted dated history. |
 
 ## Active Vs Historical Rule
 
@@ -50,6 +51,7 @@ Allowed historical examples:
 - Old 23-domain state in ADR-008 or older release notes.
 - Old 4147 / 4219 page build counts in dated README/CHANGELOG history.
 - Old Python tooling references in archived plans or historical release records.
+- Old Vercel shadow-build references in dated audit findings, historical plans or archived development plans.
 
 Not allowed in active instructions:
 

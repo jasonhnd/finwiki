@@ -4,9 +4,12 @@
 
 ```bash
 bun tools/release.ts --write  # when the public snapshot needs regeneration
-bun run verify                # canonical local / PR / Vercel gate
-bun run verify --out _site    # canonical GitHub Pages artifact
+bun run verify                # canonical local / PR / GitHub Pages gate
 ```
+
+`_site` is the default and only approved output, so the canonical command
+already produces the GitHub Pages artifact. `--out _site` remains accepted and
+is what `deploy.yml` passes explicitly.
 
 The runtime must exactly match `.bun-version`. `bun run verify` installs `site/` with `--frozen-lockfile`, fails fast, and is the only command that establishes release readiness. Individual commands remain available for diagnosis but cannot substitute for the canonical gate.
 
@@ -32,7 +35,7 @@ After Astro, Pagefind and static assembly, the runner executes `bun run ai:audit
 
 The canonical command runs all Bun tests, including the destructive/public-file boundary tests and required-route negative fixtures, before assembling the real artifact:
 
-- only `_site` and `_vercel_public` are valid output directories;
+- `_site` is the only valid output directory;
 - output validation and symlink rejection happen before recursive cleanup;
 - the result contains `site/dist` plus raw source paths selected by `ai-index.json` and `api/entries/index.json`, then filtered by explicit root/domain/release/API allowlists;
 - `docs/`, `lib/`, tooling, development configuration, hidden/ignored source files, unmanifested domain/API files and unknown root files remain absent; the assembler-created `.nojekyll` marker is the only hidden output exception.
@@ -44,9 +47,9 @@ The required-route check remains a release smoke gate. The separate final-HTML r
 
 - `.githooks/pre-push` is tracked executable and runs `bun run verify`.
 - `.github/workflows/required-verification.yml` exposes the stable `Required verification` pull-request context.
-- GitHub Pages runs `bun run verify --out _site`.
+- GitHub Pages runs `bun run verify --out _site`, which is the same target the bare command uses.
 - Both canonical GitHub workflows checkout with `fetch-depth: 0`, so Git-first `last_modified` uses full history rather than a shallow HEAD.
-- Vercel invokes the same `tools/verify.ts` runner for `_vercel_public` through the official exact-build pin pattern `bunx bun@<version>`; startup rejects drift from `.bun-version` and `packageManager`.
+- Runner startup rejects drift from `.bun-version` and `packageManager`.
 - Every Actions workflow reads the same `.bun-version`; every dependency installation uses the committed frozen site lockfile.
 
 ## Failure Handling
@@ -59,7 +62,7 @@ The required-route check remains a release smoke gate. The separate final-HTML r
 - Generated-route failure: fix URL construction or assembly, regenerate, rebuild and rerun `bun run ai:audit --out <approved-output>`; do not replace localized HTML canonicals with extensionless raw paths.
 - Final-HTML href failure: inspect the reported source HTML, element, original `href`, resolved URL and filesystem reason; repair the route or source link, rebuild and rerun `bun run html:routes --out <approved-output>`.
 - Docs/development-file leakage: verify corpus exclusions, site allowlists, generated manifests and the static-publish allowlist.
-- Unsafe publish output: use `_site` or `_vercel_public`; never relax output validation to make a local command pass.
+- Unsafe publish output: use `_site`; never relax output validation to make a local command pass.
 - Missing required final route: inspect assembly and Pagefind output; do not remove a required route to make the check pass.
 - Bun mismatch: install the exact `.bun-version`; do not update the pin without a separate dependency/runtime review.
 - Stale API residue: verify discovery generation clears `api/entries/` before writing current entries.

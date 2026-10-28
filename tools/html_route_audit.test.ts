@@ -80,12 +80,10 @@ describe("final HTML route audit", () => {
     ).rejects.toThrow("final HTML route audit failed: 1 broken href");
   });
 
-  test("accepts only approved assembled output directories", () => {
-    expect(parseCliArgs([])).toEqual({ outDir: "_vercel_public" });
+  test("defaults to the assembled Pages output directory", () => {
+    expect(parseCliArgs([])).toEqual({ outDir: "_site" });
     expect(parseCliArgs(["--out", "_site"])).toEqual({ outDir: "_site" });
-    expect(parseCliArgs(["--out=_vercel_public"])).toEqual({
-      outDir: "_vercel_public",
-    });
+    expect(parseCliArgs(["--out=_site"])).toEqual({ outDir: "_site" });
     expect(() => parseCliArgs(["--out"])).toThrow("--out requires");
     expect(() => parseCliArgs(["--unknown"])).toThrow("unknown argument");
   });

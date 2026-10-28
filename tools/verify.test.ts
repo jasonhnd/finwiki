@@ -19,13 +19,14 @@ afterEach(async () => {
 });
 
 describe("required verification pipeline", () => {
-  test("accepts only the approved publish outputs", () => {
-    expect(parseCliArgs([])).toEqual({ outDir: "_vercel_public" });
+  test("accepts only the approved publish output", () => {
+    expect(parseCliArgs([])).toEqual({ outDir: "_site" });
     expect(parseCliArgs(["--out", "_site"])).toEqual({ outDir: "_site" });
-    expect(parseCliArgs(["--out=./_vercel_public"])).toEqual({
-      outDir: "_vercel_public",
-    });
+    expect(parseCliArgs(["--out=./_site"])).toEqual({ outDir: "_site" });
     expect(() => parseCliArgs(["--out", "../_site"])).toThrow(
+      "unsafe publish output",
+    );
+    expect(() => parseCliArgs(["--out", "_vercel_public"])).toThrow(
       "unsafe publish output",
     );
     expect(() => parseCliArgs(["--unknown"])).toThrow("unknown argument");
@@ -40,14 +41,6 @@ describe("required verification pipeline", () => {
       JSON.stringify({ packageManager: "bun@1.3.14" }),
       "utf8",
     );
-    await writeFile(
-      path.join(rootDir, "vercel.json"),
-      JSON.stringify({
-        installCommand: "cd site && bunx bun@1.3.14 install --frozen-lockfile",
-        buildCommand: "bunx bun@1.3.14 tools/verify.ts --out _vercel_public",
-      }),
-      "utf8",
-    );
 
     await expect(assertPinnedBun(rootDir, "1.3.14")).resolves.toBe("1.3.14");
     await expect(assertPinnedBun(rootDir, "1.3.13")).rejects.toThrow(
@@ -55,21 +48,13 @@ describe("required verification pipeline", () => {
     );
   });
 
-  test("rejects drift between the version file, package metadata, and Vercel", async () => {
+  test("rejects drift between the version file and package metadata", async () => {
     const rootDir = await mkdtemp(path.join(os.tmpdir(), "finwiki-bun-pin-drift-"));
     temporaryRoots.push(rootDir);
     await writeFile(path.join(rootDir, ".bun-version"), "1.3.14\n", "utf8");
     await writeFile(
       path.join(rootDir, "package.json"),
       JSON.stringify({ packageManager: "bun@1.3.13" }),
-      "utf8",
-    );
-    await writeFile(
-      path.join(rootDir, "vercel.json"),
-      JSON.stringify({
-        installCommand: "bunx bun@1.3.13 install",
-        buildCommand: "bunx bun@1.3.13 tools/verify.ts",
-      }),
       "utf8",
     );
 
@@ -81,9 +66,7 @@ describe("required verification pipeline", () => {
       JSON.stringify({ packageManager: "bun@1.3.14" }),
       "utf8",
     );
-    await expect(assertPinnedBun(rootDir, "1.3.14")).rejects.toThrow(
-      "Vercel installCommand",
-    );
+    await expect(assertPinnedBun(rootDir, "1.3.14")).resolves.toBe("1.3.14");
   });
 
   test("contains every required gate and forwards the requested output", () => {

@@ -56,7 +56,7 @@ The final deployment directory is not a copy of the repository root. Assembly ha
 
 The raw allowlist includes the selected reader-facing root documents, domain Markdown, release notes, root AI discovery files and indexed API JSON. It excludes `AGENTS.md`, `docs/`, `lib/`, `tools/`, package/deployment configuration, dotfiles and unknown root files even if a generated manifest names them. The assembler creates `.nojekyll` itself as the one required hidden deployment marker.
 
-Only the direct-child outputs `_site` and `_vercel_public` are accepted. Repo-root, parent, arbitrary, nested and symlink targets fail before the assembler performs recursive cleanup. Astro output wins if a raw path collides with an already built site file.
+Only the direct-child output `_site` is accepted. Repo-root, parent, arbitrary, nested and symlink targets fail before the assembler performs recursive cleanup. Astro output wins if a raw path collides with an already built site file.
 
 ## i18n Rendering
 
@@ -89,11 +89,10 @@ bun tools/check_duplicate_html_ids.ts site/dist
 
 For UI/CSS/theme/layout changes, also use [Visual QA Checklist](../07-quality/visual-qa-checklist.md).
 
-The root Vercel/GitHub Pages canonical verification wrapper is:
+The root GitHub Pages canonical verification wrapper is:
 
 ```bash
 bun run verify
-bun run verify --out _site
 ```
 
 ## Current Gaps For Next Development

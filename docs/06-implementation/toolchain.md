@@ -4,10 +4,10 @@
 
 ## tools/verify.ts（统一必需门禁）
 
-`tools/verify.ts` 是 local pre-push、pull request、GitHub Pages 与 Vercel 共同使用的 canonical runner；local command 是 `bun run verify`。它先拒绝 `.bun-version`、`packageManager`、Vercel pin 或 runtime mismatch，以 frozen lockfile 安装 `site/` dependencies，再依次执行 release / docs / generated-surface exact regeneration / strict i18n / index / wiki / dependency / typecheck / tests / Astro / duplicate-ID / Pagefind / assembly / required-route / final-HTML-href / generated-route / diff gates。任何一步 non-zero 都立即阻断。
+`tools/verify.ts` 是 local pre-push、pull request 与 GitHub Pages 共同使用的 canonical runner；local command 是 `bun run verify`。它先拒绝 `.bun-version`、`packageManager` 或 runtime mismatch，以 frozen lockfile 安装 `site/` dependencies，再依次执行 release / docs / generated-surface exact regeneration / strict i18n / index / wiki / dependency / typecheck / tests / Astro / duplicate-ID / Pagefind / assembly / required-route / final-HTML-href / generated-route / diff gates。任何一步 non-zero 都立即阻断。
 
-- default output：`_vercel_public`
-- Pages parity：`bun run verify --out _site`
+- default output：`_site`（唯一 approved output）
+- Pages parity：`bun run verify --out _site` 与 bare command 等价
 - focused route check：`bun tools/required_publish_routes.ts --out _site`
 - final HTML href check：`bun run html:routes --out _site`（必须在 build、Pagefind、assembly 后运行）
 - generated route check：`bun run ai:audit --out _site`（必须在 assembly 后运行）

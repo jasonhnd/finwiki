@@ -45,7 +45,7 @@ After Astro and Pagefind output is assembled, `tools/txt_route_audit.ts`
 reads those assembled surfaces, collects route-bearing internal URLs from
 llms, sitemap, index and all API records, and
 requires each one to resolve to a non-empty, non-symlink regular file in the
-final `_site` or `_vercel_public` tree. Source-repository existence alone is not
+final `_site` tree. Source-repository existence alone is not
 route evidence. Same-host values are collected by hostname, then required to
 match the exact `SITE_URL` origin; a wrong scheme or port is a blocking finding.
 
