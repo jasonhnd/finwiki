@@ -161,7 +161,7 @@ function isAuditSource(relPath: string): boolean {
   if (relPath.startsWith("site/")) return false;
   if (relPath.startsWith("api/")) return false;
   if (relPath.startsWith("app/")) return false;
-  if (relPath.startsWith("_vercel_public/")) return false;
+  if (relPath.startsWith("_site/")) return false;
   if (relPath.endsWith("/INDEX.md")) return false;
   if (!relPath.includes("/")) return false;
   return relPath.endsWith(".md");

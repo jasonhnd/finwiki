@@ -12,7 +12,7 @@ import {
 const ROOT = path.resolve(import.meta.dir, "..");
 const SITE_DIST = path.join(ROOT, "site", "dist");
 
-export const APPROVED_OUTPUT_DIR_NAMES = new Set(["_site", "_vercel_public"]);
+export const APPROVED_OUTPUT_DIR_NAMES = new Set(["_site"]);
 
 export const PUBLIC_ROOT_FILES = new Set([
   "CNAME",
@@ -59,7 +59,7 @@ interface CopySource {
 }
 
 export function parseCliArgs(argv: readonly string[]): CliOptions {
-  let outDir = "_vercel_public";
+  let outDir = "_site";
 
   for (let index = 0; index < argv.length; index += 1) {
     const arg = argv[index];

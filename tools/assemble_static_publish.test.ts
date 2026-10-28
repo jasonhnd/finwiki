@@ -252,20 +252,21 @@ describe("static publish assembly", () => {
 });
 
 describe("static publish CLI", () => {
-  test("accepts only approved output locations", () => {
+  test("accepts only the approved output location", () => {
     const rootDir = path.resolve("/tmp/finwiki-root");
     expect(resolveApprovedOutputDir(rootDir, "_site")).toBe(path.join(rootDir, "_site"));
-    expect(resolveApprovedOutputDir(rootDir, "./_vercel_public")).toBe(
-      path.join(rootDir, "_vercel_public"),
-    );
+    expect(resolveApprovedOutputDir(rootDir, "./_site")).toBe(path.join(rootDir, "_site"));
     expect(() => resolveApprovedOutputDir(rootDir, ".")).toThrow("unsafe publish output");
     expect(() => resolveApprovedOutputDir(rootDir, "../escape")).toThrow("unsafe publish output");
+    expect(() => resolveApprovedOutputDir(rootDir, "_vercel_public")).toThrow(
+      "unsafe publish output",
+    );
   });
 
   test("rejects missing and unknown arguments", () => {
-    expect(parseCliArgs([])).toEqual({ outDir: "_vercel_public" });
+    expect(parseCliArgs([])).toEqual({ outDir: "_site" });
     expect(parseCliArgs(["--out", "_site"])).toEqual({ outDir: "_site" });
-    expect(parseCliArgs(["--out=_vercel_public"])).toEqual({ outDir: "_vercel_public" });
+    expect(parseCliArgs(["--out=_site"])).toEqual({ outDir: "_site" });
     expect(() => parseCliArgs(["--out"])).toThrow("--out requires");
     expect(() => parseCliArgs(["--unknown"])).toThrow("unknown argument");
   });

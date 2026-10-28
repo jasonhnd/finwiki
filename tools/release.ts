@@ -335,9 +335,7 @@ function verifyJsonFiles(): string[] {
     AUDIT_ARTIFACT_DIR_NAME,
     "site",
     "app",
-    ".vercel",
     "_site",
-    "_vercel_public",
   ]);
   const stack = [ROOT];
   while (stack.length > 0) {

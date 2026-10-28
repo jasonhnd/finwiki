@@ -18,9 +18,7 @@ const IGNORED_DIRS = new Set([
   "tools",
   "site",
   "app",
-  ".vercel",
   "_site",
-  "_vercel_public",
   ".cache",
 ]);
 

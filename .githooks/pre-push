@@ -1,6 +1,6 @@
 #!/bin/sh
 # FinWiki pre-push gate. Blocks a push unless the same required verification
-# pipeline used by pull requests, GitHub Pages, and Vercel passes locally.
+# pipeline used by pull requests and GitHub Pages passes locally.
 #
 #     bun run verify
 #

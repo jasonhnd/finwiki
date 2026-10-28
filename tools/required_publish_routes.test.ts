@@ -57,12 +57,10 @@ describe("required publish routes", () => {
     ).rejects.toThrow("/llms.txt is empty");
   });
 
-  test("accepts only approved output directories", () => {
-    expect(parseCliArgs([])).toEqual({ outDir: "_vercel_public" });
+  test("defaults to the assembled Pages output directory", () => {
+    expect(parseCliArgs([])).toEqual({ outDir: "_site" });
     expect(parseCliArgs(["--out", "_site"])).toEqual({ outDir: "_site" });
-    expect(parseCliArgs(["--out=_vercel_public"])).toEqual({
-      outDir: "_vercel_public",
-    });
+    expect(parseCliArgs(["--out=_site"])).toEqual({ outDir: "_site" });
     expect(() => parseCliArgs(["--out"])).toThrow("--out requires");
     expect(() => parseCliArgs(["--unknown"])).toThrow("unknown argument");
   });
